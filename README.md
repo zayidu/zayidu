@@ -17,4 +17,4 @@ Here are some ideas to get you started: -->
 
 [![Zayidu's github stats](https://github-readme-stats.vercel.app/api?username=zayidu)](https://github.com/zayidu/github-readme-stats)
 
-[![](https://github.com/zayidu/zayidu/blob/master/dino.gif)](#)
+[![](https://github.com/zayidu/zayidu/blob/main/dino.gif)](#)
