@@ -7,8 +7,6 @@
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![](https://github.com/zayidu/zayidu/blob/master/dino.gif)](#)
-
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Elseco, Dubai...
@@ -18,3 +16,5 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: zayidu11@gmail.com...
 
 [![Zayidu's github stats](https://github-readme-stats.vercel.app/api?username=zayidu)](https://github.com/zayidu/github-readme-stats)
+
+[![](https://github.com/zayidu/zayidu/blob/master/dino.gif)](#)
