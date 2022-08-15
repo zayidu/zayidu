@@ -9,8 +9,8 @@
 
 Here are some ideas to get you started: -->
 
- ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/zayidu/count.svg" />
+ <!-- ### Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/zayidu/count.svg" /> -->
 
 ### How to reach me: <strong>(Click the badge to view my profiles.)</strong>
 
