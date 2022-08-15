@@ -1,6 +1,10 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-# Blog posts
+![Name](Zayidu_Hi.gif)
+
+![Name](Zayidu_Salut_v2.gif)
+
+<!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
