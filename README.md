@@ -1,8 +1,12 @@
 <!-- ### Hi there 👋 -->
 
+<a href="https://github.com/zayidu" target="_blank">
 ![Name](Zayidu_Hi.gif)
+</a>
 
+<a href="https://github.com/zayidu" target="_blank">
 ![Name](Zayidu_Salut_v2.gif)
+</a>
 
 <!-- # Blog posts -->
 
