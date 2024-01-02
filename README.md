@@ -21,8 +21,8 @@ Here are some ideas to get you started: -->
 <a href="mailto:zayidu11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/zayidu11@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" ></a>   <a href="https://www.instagram.com/zayidu/" target="_blank"><img src="https://img.shields.io/badge/@zayidu-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a  href="https://www.linkedin.com/in/zayidu/" target="_blank"><img src="https://img.shields.io/badge/Zayidu A-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a href="https://medium.com/@zayidu" target="_blank"><img src="https://img.shields.io/badge/@zayidu-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 
 
-- 🔭 I’m currently working with Emirates, Dubai... <a href="https://www.emirates.com/" target="_blank"><img src="https://img.shields.io/badge/-Emirates%20Group-red"></img></a>
-- 🌱 I’m currently learning Design Tools, Project Management, and Testing Tools. 🛠
+- 🔭 I’m currently working with Eviden/Atos... <a href="https://eviden.com/" target="_blank"><img src="https://img.shields.io/badge/-Emirates%20Group-red"></img></a>
+- 🌱 I’m currently learning AWS, Design Tools, Project Management, and Testing Tools. 🛠
 - 🌏 I love to explore new places and love reading books 📕📚📖 ...
 - 👯 I’m looking to collaborate on Github React Projects...
 <!-- - 💬 Ask me about ... -->
