@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to learn a new &quot;Technology&quot;?](https://dev.to/nimit2801/how-to-learn-a-new-technology-4jef)
+- [Last month on Glitch was weird and wonderful, let&#39;s blog about it! ✍️](https://dev.to/jennschiffer/last-month-on-glitch-was-weird-and-wonderful-lets-blog-about-it-56n5)
+- [The Future of DevSecOps with the CloudBees Platform—An In-Depth Look](https://dev.to/cloudbees/the-future-of-devsecops-with-the-cloudbees-platform-an-in-depth-look-1606)
 - [Prisma vs Sequelize: A Comprehensive Comparison of Node.js ORMs](https://dev.to/abdalshafiealmajdoup/prisma-vs-sequelize-a-comprehensive-comparison-of-nodejs-orms-145o)
 - [Configuring IRB autocomplete](https://dev.to/joshdevhub/configuring-irb-autocomplete-3n4d)
-- [Embracing Transparency: Dr. Allan Friedman&#39;s Vision for Open Source Security](https://dev.to/nikitakoselev/embracing-transparency-dr-allan-friedmans-vision-for-open-source-security-29b6)
-- [Building a Neural Network in Rust &lpar;From Scratch&rpar;](https://dev.to/farshed/building-a-neural-network-in-rust-from-scratch-5bm1)
-- [Lessons From My First Gamejam](https://dev.to/zak/lessons-from-my-first-gamejam-4i8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
