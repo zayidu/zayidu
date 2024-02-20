@@ -42,5 +42,7 @@ Here are some ideas to get you started: -->
 <!-- DEVCARD -->
 <!-- https://app.daily.dev/devcard -->
 <!-- https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp -->
-<a href="https://app.daily.dev/zayidu"><img src="https://api.daily.dev/devcards/v2/VG0uBq4mZ.png?r=dy2" width="356" alt="ZAYIDU ANSARI's Dev Card"/></a>
 
+<!-- <a href="https://app.daily.dev/zayidu"><img src="https://api.daily.dev/devcards/v2/VG0uBq4mZ.png?r=dy2" width="356" alt="ZAYIDU ANSARI's Dev Card"/></a> -->
+
+<a href="https://app.daily.dev/zayidu"><img src="./devcard.png" width="356" alt="ZAYIDU ANSARI's Dev Card"/></a>
