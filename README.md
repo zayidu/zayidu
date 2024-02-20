@@ -39,3 +39,5 @@ Here are some ideas to get you started: -->
 
 [![](https://github.com/zayidu/zayidu/blob/main/dino.gif)](#)
 
+<a href="https://app.daily.dev/zayidu"><img src="https://api.daily.dev/devcards/v2/VG0uBq4mZ.png?r=dy2" width="356" alt="ZAYIDU ANSARI's Dev Card"/></a>
+
