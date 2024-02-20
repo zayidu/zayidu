@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple&#39;s PWA Bombshell: The story behind](https://dev.to/mitchiemt11/apples-pwa-bombshell-the-story-behind-2me7)
+- [Mastering the Art of Debugging: A Comprehensive Guide for Developers](https://dev.to/adityasrivastavds/mastering-the-art-of-debugging-a-comprehensive-guide-for-developers-3g1n)
 - [SilverBox Library](https://dev.to/tapesh/silverbox-library-4k4n)
 - [Build a React genAI APP with Amazon Bedrock &amp; AWS SDK](https://dev.to/aws/build-a-react-genai-app-with-amazon-bedrock-aws-sdk-10h0)
-- [🔥Webperf Tips &lpar;1&rpar; - Case Study - Gastein.com](https://dev.to/machy8/webperf-tips-1-case-study-gasteincom-4ib9)
-- [New year, new planning habits: using GitHub Projects to track your goals](https://dev.to/github/new-year-new-planning-habits-using-github-projects-to-track-your-goals-1meh)
-- [Integration Tests with CDK and Python - is my cloud native app doing what I want?](https://dev.to/tomharvey/integration-tests-with-cdk-and-python-is-my-cloud-native-app-doing-what-i-want-2805)
+- [6 Best Open Source Status Page Alternatives for 2024](https://dev.to/statuspal/6-best-open-source-status-page-alternatives-for-2024-207i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
