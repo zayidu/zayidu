@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep Dive into apple-app-site-association file: Enhancing Deep Linking on iOS](https://dev.to/dennerparreiras/deep-dive-into-apple-app-site-association-file-enhancing-deep-linking-on-ios-4pd1)
+- [Master Your Code with ESLint Configurations 🚀](https://dev.to/kibumpng/master-your-code-with-eslint-configurations-2a5i)
+- [Building NextJS e-commerce: Best Shopify alternative in 2024](https://dev.to/momciloo/building-nextjs-e-commerce-best-shopify-alternative-in-2024-1mie)
 - [Top 6 Open Source Identity and Access Management &lpar;IAM&rpar; Solutions For Enterprises](https://dev.to/permify/top-6-open-source-identity-and-access-management-iam-solutions-for-enterprises-52cg)
-- [Early Adopter&#39;s guide to Umbraco v14 [Trees] - Types and entities.](https://dev.to/kevinjump/early-adopters-guide-to-umbraco-v14-trees-types-and-entities-1jgj)
-- [Early Adopter&#39;s guide to Umbraco v14 [Trees] - Backend c# code](https://dev.to/kevinjump/early-adopters-guide-to-umbraco-v14-trees-backend-c-code-2i6d)
-- [The future of Jamstack is anti-capitalist](https://dev.to/whitep4nth3r/the-future-of-jamstack-is-anti-capitalist-58h)
-- [Image Labeling with Amazon Rekognition](https://dev.to/aws-builders/image-labeling-with-amazon-rekognition-2enn)
+- [Step-by-Step Guide: Implementing Snap Horizontal Scroll in React Native](https://dev.to/chriscode/step-by-step-guide-implementing-snap-horizontal-scroll-in-react-native-3mhe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
