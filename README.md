@@ -11,7 +11,7 @@
 - [Breaking the 300 barrier](https://dev.to/shivam_chauhan/breaking-the-300-barrier-3jbb)
 - [What&#39;s a Headless CMS?](https://dev.to/opensauced/whats-a-headless-cms-hg0)
 - [What&#39;s new in txtai 7.0](https://dev.to/neuml/whats-new-in-txtai-70-3oca)
-- [Advanced RAG with graph path traversal](https://dev.to/neuml/advanced-rag-with-graph-path-traversal-441g)
+- [Microserviços 🤝 Complexidade](https://dev.to/mateus4k/microservicos-complexidade-277o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
