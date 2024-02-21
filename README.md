@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [n2n: build a private network over the Internet](https://dev.to/jailop/n2n-build-a-private-network-over-the-internet-1b44)
+- [JavaScript Efficiency War: Astro.js vs Next.js](https://dev.to/kairatorozobekov/javascript-efficiency-war-astrojs-vs-nextjs-22pm)
+- [Balancing - Code, Choices and Sanity](https://dev.to/milosbugarinovic/balancing-code-choices-and-sanity-2lle)
 - [You need a Proxy Server to proctect you 🛡️🐞](https://dev.to/techvision/you-need-a-proxy-server-to-proctect-you-b5k)
 - [Open Source and AI: a 2014 perspective](https://dev.to/cheetah100/open-source-and-ai-a-2014-perspective-3dmg)
-- [How I built NotesGPT – a full-stack AI voice note app](https://dev.to/nutlope/how-i-built-notesgpt-a-full-stack-ai-voice-note-app-265o)
-- [Reasons why we created craftit.site](https://dev.to/youssef_idabdelahe/reasons-why-we-made-craftitsite-2dbo)
-- [Running Java App using Google Cloud Run](https://dev.to/samiekblad/running-java-app-using-google-cloud-run-509d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
