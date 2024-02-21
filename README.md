@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Development Essential! The All-in-One Integrated Development Toolkit](https://dev.to/hikarimaeda/development-essential-the-all-in-one-integrated-development-toolkit-gh7)
-- [Implementing JWT Authentication in Rust](https://dev.to/shuttle_dev/implementing-jwt-authentication-in-rust-2c9d)
-- [What Is a Sales Mix Calculator and How Does It Work? Explore Now](https://dev.to/bloger_07/what-is-a-sales-mix-calculator-and-how-does-it-work-explore-now-4i12)
-- [Live Streaming from Unity - Integrated Chat &lpar;Part 4&rpar;](https://dev.to/aws/live-streaming-from-unity-integrated-chat-part-4-3000)
-- [Deep Dive into apple-app-site-association file: Enhancing Deep Linking on iOS](https://dev.to/denner/deep-dive-into-apple-app-site-association-file-enhancing-deep-linking-on-ios-4pd1)
+- [Advanced RAG with graph path traversal](https://dev.to/neuml/advanced-rag-with-graph-path-traversal-441g)
+- [Build knowledge graphs with LLM-driven entity extraction](https://dev.to/neuml/build-knowledge-graphs-with-llm-driven-entity-extraction-4hlm)
+- [Themex&#39;s next update includes free and ready-to-use components.](https://dev.to/karsten_biedermann/themexs-next-update-includes-free-and-ready-to-use-components-509h)
+- [Discover the advantages of custom application development with low-code platforms.](https://dev.to/laradissouza99/discover-the-advantages-of-custom-application-development-with-low-code-platforms-2gon)
+- [Adding Twitter/VIM-inspired navigation to my React website](https://dev.to/lukeberrypi/adding-twittervim-inspired-navigation-to-my-react-website-49bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
