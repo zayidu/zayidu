@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Do Developers Flock to Rust?](https://dev.to/devteam/why-do-developers-flock-to-rust-3ibb)
 - [Publish/Subscribe with Sidekiq](https://dev.to/productive/publishsubscribe-with-sidekiq-3n92)
+- [Why Do Developers Flock to Rust?](https://dev.to/devteam/why-do-developers-flock-to-rust-3ibb)
+- [Perfect Reactive Dependency Tracking](https://dev.to/ninjin/perfect-reactive-dependency-tracking-85e)
 - [Superlist Reviewed: A New Era of Productivity Tools Unveiled](https://dev.to/stan8086/superlist-reviewed-a-new-era-of-productivity-tools-unveiled-4ecj)
 - [TypeScript Template Literal Types: Practical Use-Cases for Improved Code Quality](https://dev.to/clarity89/typescript-template-literal-types-practical-use-cases-for-improved-code-quality-257i)
-- [Software but Quantum - Part 1](https://dev.to/skyloft7/software-but-quantum-part-1-3bj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
