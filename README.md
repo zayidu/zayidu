@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Google like a PRO! - A guide to productive Googling](https://dev.to/adedaniel/google-like-a-pro-a-guide-to-productive-googling-2daf)
+- [Mathematics behind animations on the website](https://dev.to/shreyvijayvargiya/mathematics-behind-animations-on-the-website-456b)
+- [Prodzilla: From Zero to Prod with Rust and Shuttle](https://dev.to/codingupastorm/prodzilla-from-zero-to-prod-with-rust-and-shuttle-1bd6)
+- [Translate your App&#39;s Notification content to different languages using i18n.](https://dev.to/novu/translate-your-apps-notification-content-to-different-languages-using-i18n-41ed)
 - [Publish/Subscribe with Sidekiq](https://dev.to/productive/publishsubscribe-with-sidekiq-3n92)
-- [Why Do Developers Flock to Rust?](https://dev.to/devteam/why-do-developers-flock-to-rust-3ibb)
-- [Perfect Reactive Dependency Tracking](https://dev.to/ninjin/perfect-reactive-dependency-tracking-85e)
-- [Superlist Reviewed: A New Era of Productivity Tools Unveiled](https://dev.to/stan8086/superlist-reviewed-a-new-era-of-productivity-tools-unveiled-4ecj)
-- [TypeScript Template Literal Types: Practical Use-Cases for Improved Code Quality](https://dev.to/clarity89/typescript-template-literal-types-practical-use-cases-for-improved-code-quality-257i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
