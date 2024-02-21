@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 6 Open Source Identity and Access Management &lpar;IAM&rpar; Solutions For Enterprises](https://dev.to/permify/top-6-open-source-identity-and-access-management-iam-solutions-for-enterprises-52cg)
+- [Early Adopter&#39;s guide to Umbraco v14 [Trees] - Types and entities.](https://dev.to/kevinjump/early-adopters-guide-to-umbraco-v14-trees-types-and-entities-1jgj)
+- [Early Adopter&#39;s guide to Umbraco v14 [Trees] - Backend c# code](https://dev.to/kevinjump/early-adopters-guide-to-umbraco-v14-trees-backend-c-code-2i6d)
 - [The future of Jamstack is anti-capitalist](https://dev.to/whitep4nth3r/the-future-of-jamstack-is-anti-capitalist-58h)
 - [Image Labeling with Amazon Rekognition](https://dev.to/aws-builders/image-labeling-with-amazon-rekognition-2enn)
-- [Reading and Writing Files in Python &lpar;Text Files &amp; CSV&rpar;](https://dev.to/scofieldidehen/reading-and-writing-files-in-python-text-files-csv-3af4)
-- [This Is The Best Advanced React Book I’ve Ever Read](https://dev.to/_ndeyefatoudiop/this-is-the-best-advanced-react-book-ive-ever-read-328i)
-- [A buzzword-free Solana crash course for founders, devs, and investors](https://dev.to/almostefficient/a-buzzword-free-solana-crash-course-for-founders-devs-and-investors-4ab7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
