@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Curso de BFF com Node.js &lpar;87% OFF&rpar; 🚀](https://dev.to/mateus4k/curso-de-bff-com-nodejs-cupom-1in9)
+- [More in Flow Designer, ServiceNow&#39;s Washington Release](https://dev.to/sophiasemga/more-in-flow-designer-servicenows-washington-release-2cf3)
+- [What is Reactivity?](https://dev.to/this-is-learning/what-is-reactivity-3epf)
+- [Arqueología Tech: Roleplay un juego de cartas hecho en Visual Basic 6](https://dev.to/javascriptchile/arqueologia-tech-roleplay-un-juego-de-cartas-hecho-en-visual-basic-6-1pfh)
 - [The Current State of React Server Components: A Guide for the Perplexed](https://dev.to/kathryngrayson/the-current-state-of-react-server-components-a-guide-for-the-perplexed-31eb)
-- [Breaking the 300 barrier](https://dev.to/shivam_chauhan/breaking-the-300-barrier-3jbb)
-- [What&#39;s a Headless CMS?](https://dev.to/opensauced/whats-a-headless-cms-hg0)
-- [What&#39;s new in txtai 7.0](https://dev.to/neuml/whats-new-in-txtai-70-3oca)
-- [Microserviços 🤝 Complexidade](https://dev.to/mateus4k/microservicos-complexidade-277o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
