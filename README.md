@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Why AWS Cloud Practitioner Certification Matters in Cloud Computing Roles](https://dev.to/scofieldidehen/why-aws-cloud-practitioner-certification-matters-in-cloud-computing-roles-1086)
 - [Google like a PRO! - A guide to productive Googling](https://dev.to/adedaniel/google-like-a-pro-a-guide-to-productive-googling-2daf)
+- [Creating Modern Accordion Components with CSS and HTML only](https://dev.to/rezi/creating-modern-accordion-components-with-css-and-html-24pb)
 - [Mathematics behind animations on the website](https://dev.to/shreyvijayvargiya/mathematics-behind-animations-on-the-website-456b)
 - [Prodzilla: From Zero to Prod with Rust and Shuttle](https://dev.to/codingupastorm/prodzilla-from-zero-to-prod-with-rust-and-shuttle-1bd6)
-- [Translate your App&#39;s Notification content to different languages using i18n.](https://dev.to/novu/translate-your-apps-notification-content-to-different-languages-using-i18n-41ed)
-- [Publish/Subscribe with Sidekiq](https://dev.to/productive/publishsubscribe-with-sidekiq-3n92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
