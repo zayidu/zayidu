@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Javascript One-Liners to Look Like a Pro](https://dev.to/benajaero/mastering-javascript-one-liners-to-look-like-a-pro-ka4)
+- [Is async/await a good idea? 🤔 async/await vs promises](https://dev.to/gautam_vaja_8ca93ec2c115d/is-asyncawait-a-good-idea-asyncawait-vs-promises-4lim)
+- [Integrating Google Translate into Your Next.js Application](https://dev.to/kstulgys/translate-website-with-google-translate-kll)
 - [Mastering React State Management with useReducer: A Comprehensive Guide](https://dev.to/sharmaprash/mastering-react-state-management-with-usereducer-a-comprehensive-guide-104)
 - [Are programming and coding the same thing?](https://dev.to/erasmuskotoka/are-programming-and-coding-the-same-thing-2nob)
-- [Understanding CSS Website Layouts](https://dev.to/igbojionu/understanding-css-website-layouts-chh)
-- [Markdown to HTML Converter - SopKit](https://dev.to/sh20raj1/markdown-to-html-converter-sopkit-4586)
-- [🎆 THE BEST AND MOST USEFUL VSCODE EXTENSIONS 🎆](https://dev.to/luciano655dev/the-best-and-most-useful-vscode-extensions-jb3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
