@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure your API with these 16 Practices with Apache APISIX - part 1](https://dev.to/apisix/secure-your-api-with-these-16-practices-with-apache-apisix-part-1-5b0n)
-- [Getting Started with the Vue 3D Chart Component](https://dev.to/syncfusion/getting-started-with-the-vue-3d-chart-component-4ifa)
-- [Famous Programming Errors That Everyone Should Learn From](https://dev.to/rinoku/famous-programming-errors-that-everyone-should-learn-from-47e6)
-- [Unlocking Interactivity: Crafting a Hamburger Menu with HTML, CSS, and JavaScript](https://dev.to/mattbug3/unlocking-interactivity-crafting-a-hamburger-menu-with-html-css-and-javascript-1lo8)
-- [How Do You Navigate Layoffs &amp; Maintain Productivity?](https://dev.to/devteam/how-do-you-navigate-layoffs-maintain-productivity-41ah)
+- [Setting Up SMTP Relay for Enhanced Email Reliability](https://dev.to/scofieldidehen/setting-up-smtp-relay-for-enhanced-email-reliability-1j9i)
+- [Next.js 14 Booking App with Live Data Scraping using Scraping Browser](https://dev.to/kishansheth/nextjs-14-booking-app-with-live-data-scraping-using-scraping-browser-610)
+- [How AI and DePIN Will Change Web3](https://dev.to/mayanks01798115/how-ai-and-depin-will-change-web3-36lh)
+- [Can You Publish Your Master&#39;s Dissertation? Exploring Opportunities and Considerations](https://dev.to/tutorsindia/can-you-publish-your-masters-dissertation-exploring-opportunities-and-considerations-1d5d)
+- [Key Features of an Effective Candidate Management System](https://dev.to/samsmith/key-features-of-an-effective-candidate-management-system-3cm2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
