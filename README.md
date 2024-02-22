@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Build complex PDFs using React: react-print-pdf](https://dev.to/onedoc/build-complex-pdfs-using-react-react-print-pdf-295o)
+- [No more Mr. Open Source Guy](https://dev.to/polterguy/no-more-mr-open-source-guy-95k)
 - [Gemini Function Calling](https://dev.to/souvenger/gemini-function-calling-27jn)
 - [Introducing miniogre: Dockerize Python Applications Effortlessly](https://dev.to/wilderlopes/introducing-miniogre-dockerize-python-applications-effortlessly-386e)
 - [Throttling ⏱️ vs Debouncing ⏳: Boost Performance for your React app 🚀](https://dev.to/fidalmathew/throttling-vs-debouncing-boost-performance-3amm)
-- [RUST Tutorial for Beginner&#39;s](https://dev.to/syedmuhammadaliraza/rust-tutorial-for-beginners-4am2)
-- [5 Ways Salesforce Manufacturing Cloud Can Boost Your Production Efficiency](https://dev.to/kiranraotweets/5-ways-salesforce-manufacturing-cloud-can-boost-your-production-efficiency-gfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
