@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital Marketing Strategies for Startups: A Developer’s Guide](https://dev.to/onetrustedmarketer/digital-marketing-strategies-for-startups-a-developers-guide-1hdj)
+- [How to Pay Business Taxes in Canada](https://dev.to/accountantcalgary/how-to-pay-business-taxes-in-canada-5co7)
+- [Build With CloudBees Platform and Win an Exclusive T-shirt](https://dev.to/cloudbees/build-with-cloudbees-platform-and-win-an-exclusive-t-shirt-371i)
 - [Desestruturação de Arrays em JavaScript](https://dev.to/barobles/desestruturacao-de-arrays-em-javascript-3if5)
 - [one of the Codia AI Design technologies: Font Restoration Technology](https://dev.to/happyer/one-of-the-codia-ai-design-technologies-font-restoration-technology-3p7m)
-- [Observability with OpenTelemetry, Jaeger and Rails](https://dev.to/iamademar/observability-with-opentelemetry-jaeger-and-rails-3g8m)
-- [From Messy to Memorable: Shorten Your Links, Boost Your Brand](https://dev.to/opensauced/from-messy-to-memorable-shorten-your-links-boost-your-brand-hf7)
-- [Implementing API Rate Limiting in Rust](https://dev.to/shuttle_dev/implementing-api-rate-limiting-in-rust-4fjl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
