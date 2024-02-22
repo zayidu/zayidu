@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Teeth caries detection using YOLOv8 neural network](https://dev.to/andreygermanov/teeth-caries-detection-using-yolov8-neural-network-3fap)
-- [Get the length of an Integer or a Float in Python](https://dev.to/askyt/get-the-length-of-an-integer-or-a-float-in-python-1hmb)
-- [CI/CD Observability and Why it matters.](https://dev.to/klip_klop/cicd-observability-and-why-it-matters-o20)
-- [Dear New Code School Grad](https://dev.to/deeheber/dear-new-code-school-grad-5c55)
-- [Code Smell 242 - Zombie Feature Flags](https://dev.to/mcsee/code-smell-242-zombie-feature-flags-5a5k)
+- [Gemini Function Calling](https://dev.to/souvenger/gemini-function-calling-27jn)
+- [Introducing miniogre: Dockerize Python Applications Effortlessly](https://dev.to/wilderlopes/introducing-miniogre-dockerize-python-applications-effortlessly-386e)
+- [Throttling ⏱️ vs Debouncing ⏳: Boost Performance for your React app 🚀](https://dev.to/fidalmathew/throttling-vs-debouncing-boost-performance-3amm)
+- [RUST Tutorial for Beginner&#39;s](https://dev.to/syedmuhammadaliraza/rust-tutorial-for-beginners-4am2)
+- [5 Ways Salesforce Manufacturing Cloud Can Boost Your Production Efficiency](https://dev.to/kiranraotweets/5-ways-salesforce-manufacturing-cloud-can-boost-your-production-efficiency-gfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
