@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Faster Blogging: A Developer&#39;s Dream Setup](https://dev.to/lincemathew/faster-blogging-a-developers-dream-setup-3532)
+- [Quantum Computing Basics](https://dev.to/radictionary/quantum-computing-basics-482d)
 - [My 4 most used Visual Studio Keyboard shortcuts.](https://dev.to/bigboybamo/my-4-most-used-visual-studio-keyboard-shortcuts-3jk)
 - [lazy_names gem, lets you type less](https://dev.to/zhisme/lazynames-gem-lets-you-type-less-4l54)
 - [Creating an NFT minting Farcaster frame on Solana](https://dev.to/avneesh0612/creating-an-nft-minting-farcaster-frame-on-solana-4dlk)
-- [Digital Marketing Strategies for Startups: A Developer’s Guide](https://dev.to/onetrustedmarketer/digital-marketing-strategies-for-startups-a-developers-guide-1hdj)
-- [Build With CloudBees Platform and Win an Exclusive T-shirt](https://dev.to/cloudbees/build-with-cloudbees-platform-and-win-an-exclusive-t-shirt-371i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
