@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Xprz Package](https://dev.to/m__mdy__m/xprz-package-3mpn)
+- [Hosting Hugging Face Models on Amazon SageMaker](https://dev.to/aws-builders/hosting-hugging-face-models-on-amazon-sagemaker-5a5m)
 - [Featured Mod of the Month: Pachi](https://dev.to/devteam/featured-mod-of-the-month-pachi-16hh)
 - [Why YouTube Never Runs Out of Storage? It&#39;s NOT just CLOUD!](https://dev.to/ujjawaltyagi/why-youtube-never-runs-out-of-storage-its-not-just-cloud-225f)
 - [Faster Blogging: A Developer&#39;s Dream Setup](https://dev.to/lincemathew/faster-blogging-a-developers-dream-setup-3532)
-- [Quantum Computing Basics](https://dev.to/radictionary/quantum-computing-basics-482d)
-- [Ace Your Virtual Interview: Best Practices for Remote Conversations](https://dev.to/codemom/ace-your-virtual-interview-best-practices-for-remote-conversations-40h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
