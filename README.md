@@ -11,7 +11,7 @@
 - [Code Smell 242 - Zombie Feature Flags](https://dev.to/mcsee/code-smell-242-zombie-feature-flags-5a5k)
 - [How to Undo the Most Recent Local Commits in Git?](https://dev.to/alakkadshaw/how-to-undo-the-most-recent-local-commits-in-git-59c3)
 - [Inside React Labs: REACT 19 is coming!](https://dev.to/mitchiemt11/inside-react-labs-react-19-is-coming-51k9)
-- [n2n: build a private network over the Internet](https://dev.to/jailop/n2n-build-a-private-network-over-the-internet-1b44)
+- [Using Chat GPT To Generate Datasets 🤖](https://dev.to/f3rno64/using-chat-gpt-to-generate-datasets-99n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
