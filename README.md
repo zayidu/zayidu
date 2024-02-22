@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Featured Mod of the Month: Pachi](https://dev.to/devteam/featured-mod-of-the-month-pachi-16hh)
+- [Why YouTube Never Runs Out of Storage? It&#39;s NOT just CLOUD!](https://dev.to/ujjawaltyagi/why-youtube-never-runs-out-of-storage-its-not-just-cloud-225f)
 - [Faster Blogging: A Developer&#39;s Dream Setup](https://dev.to/lincemathew/faster-blogging-a-developers-dream-setup-3532)
 - [Quantum Computing Basics](https://dev.to/radictionary/quantum-computing-basics-482d)
-- [My 4 most used Visual Studio Keyboard shortcuts.](https://dev.to/bigboybamo/my-4-most-used-visual-studio-keyboard-shortcuts-3jk)
-- [lazy_names gem, lets you type less](https://dev.to/zhisme/lazynames-gem-lets-you-type-less-4l54)
-- [Creating an NFT minting Farcaster frame on Solana](https://dev.to/avneesh0612/creating-an-nft-minting-farcaster-frame-on-solana-4dlk)
+- [Ace Your Virtual Interview: Best Practices for Remote Conversations](https://dev.to/codemom/ace-your-virtual-interview-best-practices-for-remote-conversations-40h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
