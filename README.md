@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [My 4 most used Visual Studio Keyboard shortcuts.](https://dev.to/bigboybamo/my-4-most-used-visual-studio-keyboard-shortcuts-3jk)
+- [lazy_names gem, lets you type less](https://dev.to/zhisme/lazynames-gem-lets-you-type-less-4l54)
+- [Creating an NFT minting Farcaster frame on Solana](https://dev.to/avneesh0612/creating-an-nft-minting-farcaster-frame-on-solana-4dlk)
 - [Digital Marketing Strategies for Startups: A Developer’s Guide](https://dev.to/onetrustedmarketer/digital-marketing-strategies-for-startups-a-developers-guide-1hdj)
-- [How to Pay Business Taxes in Canada](https://dev.to/accountantcalgary/how-to-pay-business-taxes-in-canada-5co7)
 - [Build With CloudBees Platform and Win an Exclusive T-shirt](https://dev.to/cloudbees/build-with-cloudbees-platform-and-win-an-exclusive-t-shirt-371i)
-- [Desestruturação de Arrays em JavaScript](https://dev.to/barobles/desestruturacao-de-arrays-em-javascript-3if5)
-- [one of the Codia AI Design technologies: Font Restoration Technology](https://dev.to/happyer/one-of-the-codia-ai-design-technologies-font-restoration-technology-3p7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
