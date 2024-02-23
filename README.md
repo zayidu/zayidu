@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t learn C to learn how computers work](https://dev.to/devardi/dont-learn-c-to-learn-how-computers-work-16ie)
+- [Context Api - UseContext&lpar;&rpar;](https://dev.to/devlawrence/context-api-usecontext-2mhb)
 - [Compared Stable Diffusion 3 with Dall-E3 and Results Are Mind Blowing - Prompt Following of SD3 is Next Level](https://dev.to/furkangozukara/compared-stable-diffusion-3-with-dall-e3-and-results-are-mind-blowing-prompt-following-of-sd3-is-next-level-5b6i)
 - [Have you ping ponged between being an individual contributor and being an engineering manager?](https://dev.to/jess/have-you-ping-ponged-between-being-an-individual-contributor-and-being-an-engineering-manager-2jo)
 - [Xprz Package](https://dev.to/m__mdy__m/xprz-package-3mpn)
-- [Discussion of the Week: &quot;Why is everything JavaScript?&quot;](https://dev.to/devteam/discussion-of-the-week-why-is-everything-javascript-325a)
-- [Hosting Hugging Face Models on Amazon SageMaker](https://dev.to/aws-builders/hosting-hugging-face-models-on-amazon-sagemaker-5a5m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
