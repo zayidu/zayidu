@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [A Friendly Guide to React Hooks](https://dev.to/respect17/a-friendly-guide-to-react-hooks-m9l)
+- [Top 5+ Best Free AI Humanizers to Humanize AI Texts in 2024](https://dev.to/fredy/top-5-best-free-ai-text-content-humanizers-for-2024-4poe)
 - [NVIDIA’s Financial Triumph: Record-Breaking Earnings and Market Domination](https://dev.to/howtouselinux/nvidias-financial-triumph-record-breaking-earnings-and-market-domination-5gf7)
 - [The world&#39;s first directory for dev content creators](https://dev.to/zevireinitz/the-worlds-first-directory-for-dev-content-creators-p77)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-lih)
-- [Why is Figma better for developers?](https://dev.to/codewithshahan/why-is-figma-better-for-developers-hil)
-- [How to scope Tailwind CSS](https://dev.to/endymion1818/how-to-scope-tailwind-css-3j57)
+- [What inspired me to become a fullstack developer](https://dev.to/sage_ifeanyi/what-inspired-me-to-become-a-fullstack-developer-4gp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
