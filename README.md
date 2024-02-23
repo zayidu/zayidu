@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Event-driven architecture: navigating the single threaded nature of Node.js](https://dev.to/joshraphael/event-driven-architecture-navigating-the-single-threaded-nature-of-nodejs-1aj4)
+- [Constraint-based Design](https://dev.to/milandry/constraint-based-design-2lpo)
+- [Exploring CSS where it doesn&#39;t make sense](https://dev.to/samuel-braun/exploring-css-where-it-doesnt-make-sense-417k)
 - [Things that have been happening to me too often lately](https://dev.to/tux0r/things-that-have-been-happening-to-me-too-often-lately-4cid)
 - [Top 10 GitHub Repositories Every Web Developer Should Know](https://dev.to/aayush518/top-10-github-repositories-every-web-developer-should-know-25lf)
-- [Building a Hackathon in 2024](https://dev.to/danizeres/building-a-hackathon-in-2024-5gj4)
-- [Automated Acceptance Tests with ScalaTest](https://dev.to/kkomorowski/automated-acceptance-tests-with-scalatest-58b)
-- [Slots, Slots, Slots, Everybody!](https://dev.to/abbeyperini/slots-slots-slots-everybody-4p5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
