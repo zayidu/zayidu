@@ -8,10 +8,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Handling Exceptions in Python](https://dev.to/tlayach/handling-exceptions-in-python-1i8e)
+- [How to scrape a website with Python &lpar;Beginner tutorial&rpar;](https://dev.to/serpapi/how-to-scrape-a-website-with-python-beginner-tutorial-2cde)
 - [Don&#39;t learn C to learn how computers work](https://dev.to/devardi/dont-learn-c-to-learn-how-computers-work-16ie)
+- [2 + 2 = 5 em Java 21](https://dev.to/joao9aulo/2-2-5-em-java-21-12m6)
 - [Context Api - UseContext&lpar;&rpar;](https://dev.to/devlawrence/context-api-usecontext-2mhb)
-- [Compared Stable Diffusion 3 with Dall-E3 and Results Are Mind Blowing - Prompt Following of SD3 is Next Level](https://dev.to/furkangozukara/compared-stable-diffusion-3-with-dall-e3-and-results-are-mind-blowing-prompt-following-of-sd3-is-next-level-5b6i)
-- [Have you ping ponged between being an individual contributor and being an engineering manager?](https://dev.to/jess/have-you-ping-ponged-between-being-an-individual-contributor-and-being-an-engineering-manager-2jo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
