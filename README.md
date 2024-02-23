@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [From Dev To Dev: The Path To Success In 5 Steps](https://dev.to/kwan/from-dev-to-dev-the-path-to-success-in-5-steps-45p4)
+- [How to clone a GitHub repo using GitKraken](https://dev.to/techielass/how-to-clone-a-github-repo-using-gitkraken-56h7)
+- [Interview Like a Pro: Finding Your Way to a Thriving Developer Career](https://dev.to/unclejessroth/interview-like-a-pro-finding-your-way-to-a-thriving-developer-career-44pf)
+- [New Post In Dev to](https://dev.to/yahyaroot/new-post-in-dev-to-oek)
 - [Power of Idempotency Keys - Making Your Transactions Smooth and Safe](https://dev.to/yogini16/power-of-idempotency-keys-making-your-transactions-smooth-and-safe-29nb)
-- [How Can You Move Beyond Traditional Definitions of Success?](https://dev.to/devteam/how-can-you-move-beyond-traditional-definitions-of-success-2gjc)
-- [[06/52] Accessible Kubernetes with Terraform and DigitalOcean](https://dev.to/tythos/accessible-kubernetes-with-terraform-and-digitalocean-12o)
-- [Essential JavaScript ES6 Methods Every Developer Should Know](https://dev.to/snehalkadwe/essential-javascript-es6-methods-every-developer-should-know-4fnk)
-- [Build User login/signup &amp; RESTful APIs in 100 lines of Python](https://dev.to/voidzxl/build-user-loginsignup-restful-apis-in-100-lines-of-python-2h8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
