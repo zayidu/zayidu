@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [NVIDIA’s Financial Triumph: Record-Breaking Earnings and Market Domination](https://dev.to/howtouselinux/nvidias-financial-triumph-record-breaking-earnings-and-market-domination-5gf7)
+- [The world&#39;s first directory for dev content creators](https://dev.to/zevireinitz/the-worlds-first-directory-for-dev-content-creators-p77)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-lih)
 - [Why is Figma better for developers?](https://dev.to/codewithshahan/why-is-figma-better-for-developers-hil)
 - [How to scope Tailwind CSS](https://dev.to/endymion1818/how-to-scope-tailwind-css-3j57)
-- [Developer Diaries: Reflecting on the Week Together](https://dev.to/respect17/developer-diaries-reflecting-on-the-week-together-26ea)
-- [Using GenAI to improve developer experience on AWS](https://dev.to/aws-heroes/using-genai-to-improve-developer-experience-on-aws-5bpk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
