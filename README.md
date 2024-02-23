@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Slots, Slots, Slots, Everybody!](https://dev.to/abbeyperini/slots-slots-slots-everybody-4p5i)
+- [Calling a door phone from a web browser](https://dev.to/fonoster/calling-a-door-phone-from-a-web-browser-1bko)
+- [How to Refactor Spaghetti Code - One Bite at a Time!](https://dev.to/montyharper/how-to-refactor-spaghetti-code-one-bite-at-a-time-4b65)
 - [GitHub spam is getting out of hand!👎](https://dev.to/codewithshahan/github-spam-is-getting-out-of-hand-1cai)
 - [Enhance OpenAI Embeddings with Qdrant&#39;s Binary Quantization](https://dev.to/qdrant/enhance-openai-embeddings-with-qdrants-binary-quantization-3bcd)
-- [How to Sort Arrays and Lists in C#](https://dev.to/bytehide/how-to-sort-arrays-and-lists-in-c-53m0)
-- [CI/CD](https://dev.to/hasanelsherbiny/cicd-45ej)
-- [Verify These Aspects Before Deploying Your Website 🔥](https://dev.to/alisamirali/verify-these-aspects-before-deploying-your-website-4pp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
