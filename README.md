@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Power of Idempotency Keys - Making Your Transactions Smooth and Safe](https://dev.to/yogini16/power-of-idempotency-keys-making-your-transactions-smooth-and-safe-29nb)
 - [How Can You Move Beyond Traditional Definitions of Success?](https://dev.to/devteam/how-can-you-move-beyond-traditional-definitions-of-success-2gjc)
+- [[06/52] Accessible Kubernetes with Terraform and DigitalOcean](https://dev.to/tythos/accessible-kubernetes-with-terraform-and-digitalocean-12o)
 - [Essential JavaScript ES6 Methods Every Developer Should Know](https://dev.to/snehalkadwe/essential-javascript-es6-methods-every-developer-should-know-4fnk)
 - [Build User login/signup &amp; RESTful APIs in 100 lines of Python](https://dev.to/voidzxl/build-user-loginsignup-restful-apis-in-100-lines-of-python-2h8c)
-- [Releasing The Force Of Machine Learning: A Novice’s Guide 😃](https://dev.to/mankavelda/releasing-the-force-of-machine-learning-a-novices-guide-42g7)
-- [Code cycle: may be the syntax query that currently supports the most languages](https://dev.to/wszgrcy/code-cycle-may-be-the-syntax-query-that-currently-supports-the-most-languages-1fj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
