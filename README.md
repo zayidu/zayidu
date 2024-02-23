@@ -8,10 +8,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Essential JavaScript ES6 Methods Every Developer Should Know](https://dev.to/snehalkadwe/essential-javascript-es6-methods-every-developer-should-know-4fnk)
-- [Handling Exceptions in Python](https://dev.to/tlayach/handling-exceptions-in-python-1i8e)
-- [How to scrape a website with Python &lpar;Beginner tutorial&rpar;](https://dev.to/serpapi/how-to-scrape-a-website-with-python-beginner-tutorial-2cde)
-- [Don&#39;t learn C to learn how computers work](https://dev.to/devardi/dont-learn-c-to-learn-how-computers-work-16ie)
-- [2 + 2 = 5 em Java 21](https://dev.to/joao9aulo/2-2-5-em-java-21-12m6)
+- [Releasing The Force Of Machine Learning: A Novice’s Guide 😃](https://dev.to/mankavelda/releasing-the-force-of-machine-learning-a-novices-guide-42g7)
+- [Code cycle: may be the syntax query that currently supports the most languages](https://dev.to/wszgrcy/code-cycle-may-be-the-syntax-query-that-currently-supports-the-most-languages-1fj1)
+- [讓 Arduino IDE 2.X 版使用其它配色主題](https://dev.to/codemee/rang-arduino-ide-2x-ban-shi-yong-qi-ta-pei-se-zhu-ti-5bf7)
+- [取得指向類別成員函式的指位器](https://dev.to/codemee/qu-de-zhi-xiang-lei-bie-cheng-yuan-han-shi-de-zhi-wei-qi-2inj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
