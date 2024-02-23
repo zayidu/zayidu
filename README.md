@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Essential JavaScript ES6 Methods Every Developer Should Know](https://dev.to/snehalkadwe/essential-javascript-es6-methods-every-developer-should-know-4fnk)
 - [Handling Exceptions in Python](https://dev.to/tlayach/handling-exceptions-in-python-1i8e)
 - [How to scrape a website with Python &lpar;Beginner tutorial&rpar;](https://dev.to/serpapi/how-to-scrape-a-website-with-python-beginner-tutorial-2cde)
 - [Don&#39;t learn C to learn how computers work](https://dev.to/devardi/dont-learn-c-to-learn-how-computers-work-16ie)
 - [2 + 2 = 5 em Java 21](https://dev.to/joao9aulo/2-2-5-em-java-21-12m6)
-- [Context Api - UseContext&lpar;&rpar;](https://dev.to/devlawrence/context-api-usecontext-2mhb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
