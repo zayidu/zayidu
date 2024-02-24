@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What are the Signs of Underperformance?](https://dev.to/devteam/what-are-the-signs-of-underperformance-2gh4)
 - [Understanding event driven architecture](https://dev.to/yokwejuste/understanding-event-driven-architecture-110o)
+- [React 19 Is Here!](https://dev.to/gbengacode/react-19-is-here-oha)
+- [📊 Logistic Regression in a Nutshell](https://dev.to/peeyushkmisra/logistic-regression-in-a-nutshell-14ph)
 - [Wagmi Essentials](https://dev.to/iandjx/wagmi-essentials-bh0)
-- [Testing and documenting DBT models](https://dev.to/cmcrawford2/testing-and-documenting-dbt-models-11no)
-- [CORS &lpar;Cross-Origin Resource Sharing&rpar;](https://dev.to/akmaurya31/cors-cross-origin-resource-sharing-1l3h)
-- [Building a project in DBT](https://dev.to/cmcrawford2/building-a-project-in-dbt-2282)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
