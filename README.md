@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Powered Tool](https://dev.to/unburn/ai-powered-tool-55f1)
 - [Javascript is not single threaded! 🤯 🤩](https://dev.to/codeparrot/javascript-is-not-single-threaded-5915)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3d2o)
 - [Boost Your Productivity: Explore Expert Tips and Hacks](https://dev.to/stan8086/boost-your-productivity-explore-expert-tips-and-hacks-1f1g)
 - [react useDebounce](https://dev.to/dayvster/react-usedebounce-4bpf)
-- [Refactoring for Performance](https://dev.to/jackmarchant/refactoring-for-performance-190j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
