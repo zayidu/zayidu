@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [OWASP API9:2023 Improper Inventory Management 📊🛠️🚨](https://dev.to/sre_panchanan/owasp-api92023-improper-inventory-management-2fik)
 - [Embarking on a 100-Day Journey with JavaScript! 🚀](https://dev.to/lassiecoder/embarking-on-a-100-day-journey-with-javascript-47aj)
+- [Preventing Flaky Tests with Vedro](https://dev.to/tsv1/preventing-flaky-tests-with-vedro-10h1)
+- [Supercharge Your Web Design with Top UI Graphics Resources](https://dev.to/aayush518/supercharge-your-web-design-with-top-ui-graphics-resources-1i8k)
 - [How I stay &lpar;more&rpar; focused with ADHD](https://dev.to/sapegin/how-i-stay-more-focused-with-adhd-1cen)
-- [AI Powered Tool](https://dev.to/unburn/ai-powered-tool-55f1)
-- [Empowering Campus Leaders: A Curated Resource for Student Opportunities](https://dev.to/vikranth3140/empowering-campus-leaders-a-curated-resource-for-student-opportunities-5e60)
-- [Javascript is not single threaded! 🤯 🤩](https://dev.to/codeparrot/javascript-is-not-single-threaded-5915)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
