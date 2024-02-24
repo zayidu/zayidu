@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging Well-Architected Frameworks in Lower Environments](https://dev.to/enov8inc/leveraging-well-architected-frameworks-in-lower-environments-ijl)
-- [January 1, 1970 =&gt; January 19, 2038 Error!](https://dev.to/caf_rf_1986/january-1-1970-january-19-2038-error-4ibj)
-- [Adding A Settings Page &lpar;Cosplore3D Pt:21&rpar;](https://dev.to/chigbeef_77/adding-a-settings-page-cosplore3d-pt21-dce)
-- [Lite Neovim Distro: A Blazing Fast, Lightweight Neovim Setup](https://dev.to/stanleyogada/lite-neovim-distro-a-blazing-fast-lightweight-neovim-setup-7fm)
-- [Children’s Introduction Guide to Zero Trust](https://dev.to/ckmo/childrens-introduction-guide-to-zero-trust-1kng)
+- [Wagmi Essentials](https://dev.to/iandjx/wagmi-essentials-bh0)
+- [Testing and documenting DBT models](https://dev.to/cmcrawford2/testing-and-documenting-dbt-models-11no)
+- [CORS &lpar;Cross-Origin Resource Sharing&rpar;](https://dev.to/akmaurya31/cors-cross-origin-resource-sharing-1l3h)
+- [Building a project in DBT](https://dev.to/cmcrawford2/building-a-project-in-dbt-2282)
+- [Ruby: Date &amp; Time Class](https://dev.to/shay90210/ruby-date-time-class-3a1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
