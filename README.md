@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Embarking on a 100-Day Journey with JavaScript! 🚀](https://dev.to/lassiecoder/embarking-on-a-100-day-journey-with-javascript-47aj)
+- [How I stay &lpar;more&rpar; focused with ADHD](https://dev.to/sapegin/how-i-stay-more-focused-with-adhd-1cen)
 - [AI Powered Tool](https://dev.to/unburn/ai-powered-tool-55f1)
+- [Empowering Campus Leaders: A Curated Resource for Student Opportunities](https://dev.to/vikranth3140/empowering-campus-leaders-a-curated-resource-for-student-opportunities-5e60)
 - [Javascript is not single threaded! 🤯 🤩](https://dev.to/codeparrot/javascript-is-not-single-threaded-5915)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-3d2o)
-- [Boost Your Productivity: Explore Expert Tips and Hacks](https://dev.to/stan8086/boost-your-productivity-explore-expert-tips-and-hacks-1f1g)
-- [react useDebounce](https://dev.to/dayvster/react-usedebounce-4bpf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
