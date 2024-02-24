@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Boost Your Productivity: Explore Expert Tips and Hacks](https://dev.to/stan8086/boost-your-productivity-explore-expert-tips-and-hacks-1f1g)
+- [react useDebounce](https://dev.to/dayvster/react-usedebounce-4bpf)
 - [Refactoring for Performance](https://dev.to/jackmarchant/refactoring-for-performance-190j)
 - [Pick, Omit and Partial in Typescript](https://dev.to/dinhkhai0201/pick-omit-and-partial-in-typescript-b7b)
 - [What Is Webhooks How Different From Api?](https://dev.to/sanjaykhanssk/what-is-webhooks-how-different-from-api-4odb)
-- [golang vs python syntax](https://dev.to/ali_otmani/golang-vs-python-syntax-20jf)
-- [subquery vs correlated query](https://dev.to/pwn0x80/subquery-vs-correlated-query-1622)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
