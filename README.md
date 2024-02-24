@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding event driven architecture](https://dev.to/yokwejuste/understanding-event-driven-architecture-110o)
 - [Wagmi Essentials](https://dev.to/iandjx/wagmi-essentials-bh0)
 - [Testing and documenting DBT models](https://dev.to/cmcrawford2/testing-and-documenting-dbt-models-11no)
 - [CORS &lpar;Cross-Origin Resource Sharing&rpar;](https://dev.to/akmaurya31/cors-cross-origin-resource-sharing-1l3h)
 - [Building a project in DBT](https://dev.to/cmcrawford2/building-a-project-in-dbt-2282)
-- [Ruby: Date &amp; Time Class](https://dev.to/shay90210/ruby-date-time-class-3a1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
