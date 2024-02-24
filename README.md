@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn by helping others](https://dev.to/noriller/learn-by-helping-others-54m4)
+- [Exploring Non-Fungible Tokens &lpar;NFTs&rpar;: The Intersection of Art, Technology, and Ownership](https://dev.to/monty-vang01/exploring-non-fungible-tokens-nfts-the-intersection-of-art-technology-and-ownership-313n)
 - [Discover the Magic of Namelix: Business Name Generator](https://dev.to/dariubs/discover-the-magic-of-namelix-business-name-generator-5all)
-- [Review of TextSniper for Mac](https://dev.to/bartzalewski/review-of-textsniper-for-mac-3fck)
-- [How to check if an element is visible in the viewport using JavaScript and React Hook.](https://dev.to/fpaghar/how-to-check-if-an-element-is-visible-in-the-viewport-using-javascript-and-react-hook-4648)
-- [Android Presentation Patterns: MVP](https://dev.to/asvid/android-presentation-patterns-mvp-407f)
-- [How to share a secret](https://dev.to/stefanalfbo/how-to-share-a-secret-c3f)
+- [CoLlama 🦙 - code autocompletion &lpar;local machine and free&rpar;](https://dev.to/pavelee/collama-code-autocompletion-local-machine-and-free-49l1)
+- [¿Que es Tor?](https://dev.to/cibersecurityninja/que-es-tor-37n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
