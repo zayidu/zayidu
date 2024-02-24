@@ -7,10 +7,10 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Tooling Website deployment automation with Continuous Integration. Introduction to Jenkins](https://dev.to/krizeal/tooling-website-deployment-automation-with-continuous-integration-introduction-to-jenkins-3im2)
 - [How to Push All Branches from Command Line](https://dev.to/this-is-learning/how-to-push-all-branches-from-command-line-3nib)
 - [TypeScript vs. JavaScript: In a Nutshell 🔥](https://dev.to/alisamirali/typescript-vs-javascript-in-a-nutshell-nma)
 - [Learn by helping others](https://dev.to/noriller/learn-by-helping-others-54m4)
-- [Exploring Non-Fungible Tokens &lpar;NFTs&rpar;: The Intersection of Art, Technology, and Ownership](https://dev.to/monty-vang01/exploring-non-fungible-tokens-nfts-the-intersection-of-art-technology-and-ownership-313n)
 - [How to make Squarespace domain work with Netlify](https://dev.to/cesarbhering/how-to-make-squarespace-domain-work-with-netlify-e27)
 <!-- BLOG-POST-LIST:END -->
 
