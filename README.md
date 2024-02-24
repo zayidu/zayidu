@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to check if an element is visible in the viewport using JavaScript and React Hook.](https://dev.to/fpaghar/how-to-check-if-an-element-is-visible-in-the-viewport-using-javascript-and-react-hook-4648)
+- [Android Presentation Patterns: MVP](https://dev.to/asvid/android-presentation-patterns-mvp-407f)
+- [How to share a secret](https://dev.to/stefanalfbo/how-to-share-a-secret-c3f)
 - [Top JavaScript Tools on Codepen](https://dev.to/sh20raj1/top-javascript-tools-on-codepen-4l3h)
-- [How to receive email with PHP](https://dev.to/yatsenkolesh/how-to-receive-email-with-php-3k21)
-- [How to Code a Dictionary App in React | Full Tutorial](https://dev.to/imrankh13332994/how-to-code-a-dictionary-app-in-react-full-tutorial-126p)
-- [Revolutionize Your Development: The Ultimate AI Tools for Developers](https://dev.to/dariubs/revolutionize-your-development-the-ultimate-ai-tools-for-developers-26n)
-- [JWT explained in 4 minutes &lpar;With Visuals&rpar;](https://dev.to/jaypmedia/jwt-explained-in-4-minutes-with-visuals-g3n)
+- [JBang: Java Development, Uncomplicated!](https://dev.to/tomerbendavid/jbang-java-development-uncomplicated-4d8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
