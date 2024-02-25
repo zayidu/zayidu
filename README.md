@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [📝 Exploring Palindromic Partitioning: Solving the &quot;Palindrome Partitioning&quot; Problem 📝](https://dev.to/majesticshawarma/exploring-palindromic-partitioning-solving-the-palindrome-partitioning-problem-50hj)
+- [Format strings in OCaml](https://dev.to/yawaramin/format-strings-in-ocaml-59ci)
+- [Simplifying File Management with .NET 8](https://dev.to/admir_live/simplifying-file-management-with-net-8-38m)
 - [An Audio Player hook for your React App](https://dev.to/amnish04/an-audio-player-hook-for-your-react-app-4gn9)
 - [How to Secure Your AWS Account Using a Hardware security key [YubiKey]](https://dev.to/aws-builders/how-to-secure-your-aws-account-using-a-hardware-security-key-yubikey-2mo0)
-- [Experience Continuous Integration with Jenkins | Ansible | Artifactory | SonarQube | PHP](https://dev.to/krizeal/experience-continuous-integration-with-jenkins-ansible-artifactory-sonarqube-php-3eo2)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bgm)
-- [Conditional Statements in Python](https://dev.to/tlayach/conditional-statements-in-python-34c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
