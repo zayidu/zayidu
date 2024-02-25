@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tooling Website deployment automation with Continuous Integration. Introduction to Jenkins](https://dev.to/krizeal/tooling-website-deployment-automation-with-continuous-integration-introduction-to-jenkins-3im2)
-- [How to Push All Branches from Command Line](https://dev.to/this-is-learning/how-to-push-all-branches-from-command-line-3nib)
-- [TypeScript vs. JavaScript: In a Nutshell 🔥](https://dev.to/alisamirali/typescript-vs-javascript-in-a-nutshell-nma)
-- [Learn by helping others](https://dev.to/noriller/learn-by-helping-others-54m4)
-- [How to make Squarespace domain work with Netlify](https://dev.to/cesarbhering/how-to-make-squarespace-domain-work-with-netlify-e27)
+- [Experience Continuous Integration with Jenkins | Ansible | Artifactory | SonarQube | PHP](https://dev.to/krizeal/experience-continuous-integration-with-jenkins-ansible-artifactory-sonarqube-php-3eo2)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bgm)
+- [OWASP API10:2023 Unsafe Consumption of APIs](https://dev.to/sre_panchanan/owasp-api102023-unsafe-consumption-of-apis-1noa)
+- [Programming languages generations](https://dev.to/yokwejuste/programming-languages-generations-2o6p)
+- [3 Github Repositories That Will Help To Side Hustle](https://dev.to/petr_dme/3-github-repositories-that-will-help-to-side-hustle-2kag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
