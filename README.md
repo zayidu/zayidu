@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [8 Best Markdown Note-Taking Apps to Maximizing Efficiency](https://dev.to/stan8086/8-best-markdown-note-taking-apps-to-maximizing-efficiency-3ap6)
+- [End-to-end testing in software testing](https://dev.to/arindam_1729/end-to-end-testing-in-software-testing-30d0)
+- [Mock vs Stub vs Fake: Understand the difference](https://dev.to/arindam_1729/mock-vs-stub-vs-fake-understand-the-difference-1bab)
+- [How to Convert Screenshots to Editable Figma Designs with Codia AI in 3 Easy Steps](https://dev.to/cyberpunker/how-to-convert-screenshots-to-editable-figma-designs-with-codia-ai-in-3-easy-steps-5367)
 - [Use Notion to stay productive as a web developer](https://dev.to/lemmecode/use-notion-to-stay-productive-as-a-web-developer-3lfg)
-- [Implementing Passport Local With Yarn, Typescript, Express and PostgreSQL](https://dev.to/ethand91/implementing-passport-local-with-yarn-typescript-express-and-postgresql-4b6m)
-- [Understanding OVER&lpar;&rpar; Clause in SQL](https://dev.to/moh_moh701/understanding-over-clause-in-sql-unlocking-advanced-data-analysis-and-efficiency-12a1)
-- [How Do You Mitigate Miscommunication?](https://dev.to/devteam/how-do-you-mitigate-miscommunication-3bhl)
-- [Web Development Tools and Resources](https://dev.to/lilxyzz/web-development-tools-and-resources-24m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
