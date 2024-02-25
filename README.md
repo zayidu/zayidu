@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Use Notion to stay productive as a web developer](https://dev.to/lemmecode/use-notion-to-stay-productive-as-a-web-developer-3lfg)
+- [Implementing Passport Local With Yarn, Typescript, Express and PostgreSQL](https://dev.to/ethand91/implementing-passport-local-with-yarn-typescript-express-and-postgresql-4b6m)
+- [Understanding OVER&lpar;&rpar; Clause in SQL](https://dev.to/moh_moh701/understanding-over-clause-in-sql-unlocking-advanced-data-analysis-and-efficiency-12a1)
 - [How Do You Mitigate Miscommunication?](https://dev.to/devteam/how-do-you-mitigate-miscommunication-3bhl)
 - [Web Development Tools and Resources](https://dev.to/lilxyzz/web-development-tools-and-resources-24m8)
-- [Use Doppler instead of traditional .env files 🍕](https://dev.to/pierre/use-doppler-instead-of-traditional-env-files-5p5)
-- [📝 Exploring Palindromic Partitioning: Solving the &quot;Palindrome Partitioning&quot; Problem 📝](https://dev.to/majesticshawarma/exploring-palindromic-partitioning-solving-the-palindrome-partitioning-problem-50hj)
-- [Format strings in OCaml](https://dev.to/yawaramin/format-strings-in-ocaml-59ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
