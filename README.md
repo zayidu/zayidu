@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [From Disconnected Chaos to Unified Systems: The Evolution of Enterprise Integration](https://dev.to/this-is-learning/from-disconnected-chaos-to-unified-systems-the-evolution-of-enterprise-integration-28nh)
+- [k8s-snap &lpar;Canonical Kubernetes&rpar; pour un déploiement simple et rapide d’un cluster k8s …](https://dev.to/deep75/k8s-snap-canonical-kubernetes-pour-un-deploiement-simple-et-rapide-dun-cluster-k8s--4hi5)
+- [Burnout as a Software Engineer](https://dev.to/jenesh/burnout-as-a-software-engineer-3745)
 - [Tutorial on making a database and then using my API-Template from GIT](https://dev.to/shawn2208/tutorial-on-making-a-database-and-then-using-my-api-template-from-git-54h1)
-- [Building scalable IVRs for businesses with Routr and Asterisk](https://dev.to/fonoster/building-scalable-ivrs-for-businesses-with-routr-and-asterisk-cjd)
-- [Excelize 2.8.1 Released - Powerful open-source library for spreadsheet &lpar;Excel&rpar; document](https://dev.to/xuri/excelize-281-released-powerful-open-source-library-for-spreadsheet-excel-document-8go)
-- [What Would Be The Impact of 28.7 Million Software Developers&#39; Striking In 2024?](https://dev.to/hr21don/what-would-be-the-impact-of-287-million-software-developers-striking-in-2024-3416)
-- [The Secret Weapon of Top Developers: 7 React JS Libraries You Can&#39;t Afford to Ignore](https://dev.to/nluxai/the-secret-weapon-of-top-developers-7-react-js-libraries-you-cant-afford-to-ignore-3lf0)
+- [Monitoring API Performance with Express, Prometheus, and Grafana](https://dev.to/msveshnikov/monitoring-api-performance-with-express-prometheus-and-grafana-3566)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
