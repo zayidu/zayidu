@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Excelize 2.8.1 Released - Powerful open-source library for spreadsheet &lpar;Excel&rpar; document](https://dev.to/xuri/excelize-281-released-powerful-open-source-library-for-spreadsheet-excel-document-8go)
+- [What Would Be The Impact of 28.7 Million Software Developers&#39; Striking In 2024?](https://dev.to/hr21don/what-would-be-the-impact-of-287-million-software-developers-striking-in-2024-3416)
+- [Unlocking the Power of Distributed Tracing: Navigating the Digital Cosmos🌌🔍✨](https://dev.to/sre_panchanan/unlocking-the-power-of-distributed-tracing-navigating-the-digital-cosmos-508n)
 - [Cook Up a Storm: Build a Recipe Finder App with React 🍱](https://dev.to/margish288/cook-up-a-storm-build-a-recipe-finder-app-with-react-5hc4)
 - [Motivating Your Team: Be a Better Leader](https://dev.to/alexr/motivating-your-team-be-a-better-leader-5a8g)
-- [9 Ways to an EKS Cluster - Way 2 - AWS CLI](https://dev.to/aws-builders/9-ways-to-an-eks-cluster-way-2-aws-cli-3g94)
-- [Java Testing tools for 2024 - part 2](https://dev.to/ivangavlik/java-testing-tools-for-2024-part-2-5dia)
-- [What is Server Side Rendering &lpar;SSR&rpar; and Static Site Generation &lpar;SSG&rpar;?](https://dev.to/this-is-learning/what-is-server-side-rendering-ssr-and-static-site-generation-ssg-308o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
