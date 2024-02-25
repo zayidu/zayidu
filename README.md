@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial on making a database and then using my API-Template from GIT](https://dev.to/shawn2208/tutorial-on-making-a-database-and-then-using-my-api-template-from-git-54h1)
+- [Building scalable IVRs for businesses with Routr and Asterisk](https://dev.to/fonoster/building-scalable-ivrs-for-businesses-with-routr-and-asterisk-cjd)
 - [Excelize 2.8.1 Released - Powerful open-source library for spreadsheet &lpar;Excel&rpar; document](https://dev.to/xuri/excelize-281-released-powerful-open-source-library-for-spreadsheet-excel-document-8go)
 - [What Would Be The Impact of 28.7 Million Software Developers&#39; Striking In 2024?](https://dev.to/hr21don/what-would-be-the-impact-of-287-million-software-developers-striking-in-2024-3416)
-- [Unlocking the Power of Distributed Tracing: Navigating the Digital Cosmos🌌🔍✨](https://dev.to/sre_panchanan/unlocking-the-power-of-distributed-tracing-navigating-the-digital-cosmos-508n)
-- [Cook Up a Storm: Build a Recipe Finder App with React 🍱](https://dev.to/margish288/cook-up-a-storm-build-a-recipe-finder-app-with-react-5hc4)
-- [Motivating Your Team: Be a Better Leader](https://dev.to/alexr/motivating-your-team-be-a-better-leader-5a8g)
+- [The Secret Weapon of Top Developers: 7 React JS Libraries You Can&#39;t Afford to Ignore](https://dev.to/nluxai/the-secret-weapon-of-top-developers-7-react-js-libraries-you-cant-afford-to-ignore-3lf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
