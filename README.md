@@ -8,10 +8,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [An Audio Player hook for your React App](https://dev.to/amnish04/an-audio-player-hook-for-your-react-app-4gn9)
+- [How to Secure Your AWS Account Using a Hardware security key [YubiKey]](https://dev.to/aws-builders/how-to-secure-your-aws-account-using-a-hardware-security-key-yubikey-2mo0)
 - [Experience Continuous Integration with Jenkins | Ansible | Artifactory | SonarQube | PHP](https://dev.to/krizeal/experience-continuous-integration-with-jenkins-ansible-artifactory-sonarqube-php-3eo2)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bgm)
-- [OWASP API10:2023 Unsafe Consumption of APIs](https://dev.to/sre_panchanan/owasp-api102023-unsafe-consumption-of-apis-1noa)
-- [Programming languages generations](https://dev.to/yokwejuste/programming-languages-generations-2o6p)
+- [Conditional Statements in Python](https://dev.to/tlayach/conditional-statements-in-python-34c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
