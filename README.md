@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [No need to learn Class Names of CSS libraries](https://dev.to/rudransh61/no-need-to-learn-class-names-of-css-libraries-5o)
 - [5 Rust Project Ideas For Beginner Devs 🦀](https://dev.to/eleftheriabatsou/5-rust-project-ideas-for-beginner-devs-1am3)
 - [When To Not Use Pointers in Golang?](https://dev.to/nikl/when-to-not-use-pointers-in-golang-kfi)
 - [8 Best Markdown Note-Taking Apps to Maximizing Efficiency](https://dev.to/stan8086/8-best-markdown-note-taking-apps-to-maximizing-efficiency-3ap6)
 - [Mastering Node.js: 50 Interview Essentials 🚀](https://dev.to/alisamirali/mastering-nodejs-50-interview-essentials-57n9)
-- [End-to-end testing in software testing](https://dev.to/arindam_1729/end-to-end-testing-in-software-testing-30d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
