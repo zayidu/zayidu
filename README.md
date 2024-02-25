@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [An Audio Player hook for your React App](https://dev.to/amnish04/an-audio-player-hook-for-your-react-app-4gn9)
 - [Experience Continuous Integration with Jenkins | Ansible | Artifactory | SonarQube | PHP](https://dev.to/krizeal/experience-continuous-integration-with-jenkins-ansible-artifactory-sonarqube-php-3eo2)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4bgm)
 - [OWASP API10:2023 Unsafe Consumption of APIs](https://dev.to/sre_panchanan/owasp-api102023-unsafe-consumption-of-apis-1noa)
 - [Programming languages generations](https://dev.to/yokwejuste/programming-languages-generations-2o6p)
-- [3 Github Repositories That Will Help To Side Hustle](https://dev.to/petr_dme/3-github-repositories-that-will-help-to-side-hustle-2kag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
