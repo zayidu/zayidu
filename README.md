@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Cook Up a Storm: Build a Recipe Finder App with React 🍱](https://dev.to/margish288/cook-up-a-storm-build-a-recipe-finder-app-with-react-5hc4)
 - [Motivating Your Team: Be a Better Leader](https://dev.to/alexr/motivating-your-team-be-a-better-leader-5a8g)
+- [9 Ways to an EKS Cluster - Way 2 - AWS CLI](https://dev.to/aws-builders/9-ways-to-an-eks-cluster-way-2-aws-cli-3g94)
 - [Java Testing tools for 2024 - part 2](https://dev.to/ivangavlik/java-testing-tools-for-2024-part-2-5dia)
 - [What is Server Side Rendering &lpar;SSR&rpar; and Static Site Generation &lpar;SSG&rpar;?](https://dev.to/this-is-learning/what-is-server-side-rendering-ssr-and-static-site-generation-ssg-308o)
-- [5 Common Mistakes Every Junior Developer Makes &lpar;And How to Avoid Them&rpar;](https://dev.to/jagroop2001/5-common-mistakes-every-junior-developer-makes-and-how-to-avoid-them-334i)
-- [How to estimate a task?](https://dev.to/iamak/how-to-estimate-a-task-39md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
