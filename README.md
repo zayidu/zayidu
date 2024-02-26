@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a REST client](https://dev.to/phuocng/build-a-rest-client-444a)
 - [Build a Vite 5 backend integration with Flask](https://dev.to/tylerlwsmith/build-a-vite-5-backend-integration-with-flask-jch)
 - [SPL - a database language featuring easy writing and fast running](https://dev.to/vivi9876/spl-a-database-language-featuring-easy-writing-and-fast-running-267b)
 - [Unlocking Flexibility: Keyed Dependency Injection in .NET 8](https://dev.to/ferozhub/unlocking-flexibility-keyed-dependency-injection-in-net-8-5bbc)
 - [How to receive email with NodeJS](https://dev.to/yatsenkolesh/how-to-receive-email-with-nodejs-g1a)
-- [Exploring the os Library With Python](https://dev.to/tlayach/exploring-the-os-library-with-python-5404)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
