@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning Rust: A clean start](https://dev.to/link2twenty/learning-rust-a-clean-start-4eom)
+- [all &quot;MPV For Fixed Price&quot; vendors in one directory](https://dev.to/johnrushx/all-mpv-for-fixed-price-vendors-in-one-directory-4jfl)
+- [OpenTelemetry Collector Anti-Patterns](https://dev.to/avillela/opentelemetry-collector-anti-patterns-42be)
+- [Learn from My Job Hunt Blunders: Pro Tips for Your Success](https://dev.to/juliomerisio/learn-from-my-job-hunt-blunders-pro-tips-for-your-success-1and)
 - [TanStack Router: Setup &amp; Routing in React](https://dev.to/this-is-learning/tanstack-router-setup-routing-in-react-4gf7)
-- [How To Stop Procrastinating and Do Hard Things](https://dev.to/lexingdailylife/how-to-stop-procrastinating-and-do-hard-things-4a6e)
-- [How to beat impostor syndrome in coding?](https://dev.to/nandinishinduja/how-to-beat-impostor-syndrome-in-coding-3enl)
-- [Exploring the Horizon: Top AI Video Generators of 2024](https://dev.to/dariubs/exploring-the-horizon-top-ai-video-generators-of-2024-13ml)
-- [Mistiday](https://dev.to/mztea/mistiday-50a2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
