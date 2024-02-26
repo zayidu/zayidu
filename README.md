@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Setup Jenkins Locally With Oracle VirtualBox VM](https://dev.to/gabbyti/how-to-setup-jenkins-locally-with-oracle-virtualbox-vm-3cmi)
+- [Auto identification of languages in audio file and convert it from speech to text and redact PII using Amazon Transcribe](https://dev.to/aws-builders/auto-identification-of-languages-in-audio-file-and-convert-it-from-speech-to-text-and-redact-pii-using-amazon-transcribe-2l94)
+- [ServiceNow and OpenAI](https://dev.to/johnvitorconstant/servicenow-and-openai-296l)
 - [Build a REST client](https://dev.to/phuocng/build-a-rest-client-444a)
 - [Build a Vite 5 backend integration with Flask](https://dev.to/tylerlwsmith/build-a-vite-5-backend-integration-with-flask-jch)
-- [SPL - a database language featuring easy writing and fast running](https://dev.to/vivi9876/spl-a-database-language-featuring-easy-writing-and-fast-running-267b)
-- [Unlocking Flexibility: Keyed Dependency Injection in .NET 8](https://dev.to/ferozhub/unlocking-flexibility-keyed-dependency-injection-in-net-8-5bbc)
-- [How to receive email with NodeJS](https://dev.to/yatsenkolesh/how-to-receive-email-with-nodejs-g1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
