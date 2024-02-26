@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Podcast Palooza— What are you listening to? &lpar;Self-Help Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-self-help-edition-1f04)
 - [Global Gamers Challenge - Flutter News 2024 #8 ʚїɞ](https://dev.to/lucianojung/flutter-news-2024-8-eyie-1n51)
 - [Exploring Supabase, the Open Source Backend for Developers](https://dev.to/opensauced/exploring-supabase-the-open-source-backend-for-developers-2dgh)
 - [📚 React Libraries Worth Using in 2024](https://dev.to/reedbarger/react-libraries-worth-using-in-2024-o91)
 - [one of the Codia AI Design technologies: image segmentation model](https://dev.to/happyer/one-of-the-codia-ai-design-technologies-image-segmentation-model-53oe)
-- [What are your goals for week 9 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-9-of-2024-476e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
