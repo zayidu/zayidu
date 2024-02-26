@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Roundup 041 &lpar;Feb 19&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-041-feb-19-hot-topics-in-workplace-sharepoint-and-powerplatform-5cib)
 - [Is Doubt a Sign You&#39;re on the Right Path?](https://dev.to/devteam/is-doubt-a-sign-youre-on-the-right-path-5709)
 - [Live Streaming from Unity - Multi-Camera Streams &lpar;Part 6&rpar;](https://dev.to/aws/live-streaming-from-unity-multi-camera-streams-part-6-1pkg)
 - [Power Apps - VBA Subs and Functions](https://dev.to/wyattdave/power-apps-vba-subs-and-functions-1gp3)
 - [Cartographer Magic: Power Automate Bitmaps Revealed](https://dev.to/balagmadhu/cartographer-magic-power-automate-bitmaps-revealed-3gha)
-- [Monday Momentum: What&#39;s Your Plan for the Week, Developer 🤔?](https://dev.to/respect17/monday-momentum-whats-your-plan-for-the-week-developer-thinkingface-4a6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
