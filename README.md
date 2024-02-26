@@ -8,7 +8,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4bmh)
-- [Simplify SIP.jS security with short-lived tokens](https://dev.to/psanders/simplify-sipjs-security-with-short-lived-tokens-mb8)
+- [Simplify SIP.jS security with short-lived tokens](https://dev.to/fonoster/simplify-sipjs-security-with-short-lived-tokens-mb8)
 - [Passkeys library, now with authenticator icons](https://dev.to/dagnelies/passkeys-library-now-with-authenticator-icons-3kgn)
 - [The Laravel Ecosystem](https://dev.to/rileygrotenhuis/the-laravel-ecosystem-1jbj)
 - [Learning Rust: A clean start](https://dev.to/link2twenty/learning-rust-a-clean-start-4eom)
