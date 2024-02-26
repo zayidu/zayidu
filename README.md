@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to improve page load speed and response times: A comprehensive guide](https://dev.to/hackmamba/how-to-improve-page-load-speed-and-response-times-a-comprehensive-guide-37ph)
-- [Music Monday — What are you listening to? &lpar;Hip Hop and R&amp;B Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-hip-hop-and-rb-edition-2aif)
-- [Clonezilla İle Oluşturulmuş Bir İmajı SSH ile Geri Yükleme](https://dev.to/aciklab/clonezilla-ile-olusturulmus-bir-imaji-ssh-ile-geri-yukleme-2m70)
-- [bisect module and methods&lpar;python&rpar;](https://dev.to/drvcodenta/bisect-module-and-methodspython-3nhj)
-- [What is Jenkins ?](https://dev.to/itsvishwaaa/what-is-jenkins--4da9)
+- [FLaNK Stack 26 February 2024](https://dev.to/tspannhw/flank-stack-26-february-2024-277)
+- [Creating an Automated Profile README using Nodejs and GitHub Actions](https://dev.to/bolajiayodeji/how-to-create-an-automated-profile-readme-using-nodejs-and-github-actions-1d30)
+- [Laravel inside Rust? I have a reason for that.](https://dev.to/danielhe4rt/laravel-inside-rust-i-have-a-reason-for-that-ke3)
+- [My custom News Aggregation Platform](https://dev.to/shreyvijayvargiya/my-custom-news-aggregation-platform-31i1)
+- [Liman Çekirdek 2.0 Duyuruldu](https://dev.to/liman/liman-cekirdek-20-duyuruldu-9dl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
