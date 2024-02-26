@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Clonezilla İle Oluşturulmuş Bir İmajı SSH ile Geri Yükleme](https://dev.to/emre-karac/clonezilla-ile-olusturulmus-bir-imaji-ssh-ile-geri-yukleme-2m70)
+- [bisect module and methods&lpar;python&rpar;](https://dev.to/drvcodenta/bisect-module-and-methodspython-3nhj)
+- [What is Jenkins ?](https://dev.to/itsvishwaaa/what-is-jenkins--4da9)
 - [AWS open source newsletter, #190](https://dev.to/aws/aws-open-source-newsletter-190-4pla)
 - [Harnessing Heuristic Testing: Driving Quality in Agile Software Development](https://dev.to/talenttinaapi/harnessing-heuristic-testing-driving-quality-in-agile-software-development-5ce2)
-- [Creating An Ending &lpar;Cosplore Pt:22&rpar;](https://dev.to/chigbeef_77/creating-an-ending-cosplore-pt22-3095)
-- [Kotlin Design Patterns: Simplifying the Observer Pattern](https://dev.to/lucasfugisawa/kotlin-design-patterns-simplifying-the-observer-pattern-1bc3)
-- [Next.js File Generator VS code extension](https://dev.to/kristiyan_velkov/nextjs-file-generator-vs-code-extension-11b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
