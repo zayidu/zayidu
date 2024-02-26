@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to receive email with NodeJS](https://dev.to/yatsenkolesh/how-to-receive-email-with-nodejs-g1a)
+- [What time of day is peak energy and focus for you?](https://dev.to/ben/what-time-of-day-is-peak-energy-and-focus-for-you-2okn)
+- [😲 5000 Followers! | What I&#39;ve Learned 📚📖](https://dev.to/best_codes/5000-followers-what-ive-learned-4abg)
+- [8 coisas que existem dentro de um CRUD &lpar;pelo menos&rpar;](https://dev.to/anastacio_dev/8-coisas-que-tem-dentro-de-um-crud-pelo-menos-589p)
 - [From Disconnected Chaos to Unified Systems: The Evolution of Enterprise Integration](https://dev.to/this-is-learning/from-disconnected-chaos-to-unified-systems-the-evolution-of-enterprise-integration-28nh)
-- [k8s-snap &lpar;Canonical Kubernetes&rpar; pour un déploiement simple et rapide d’un cluster k8s …](https://dev.to/deep75/k8s-snap-canonical-kubernetes-pour-un-deploiement-simple-et-rapide-dun-cluster-k8s--4hi5)
-- [Burnout as a Software Engineer](https://dev.to/jenesh/burnout-as-a-software-engineer-3745)
-- [Tutorial on making a database and then using my API-Template from GIT](https://dev.to/shawn2208/tutorial-on-making-a-database-and-then-using-my-api-template-from-git-54h1)
-- [Monitoring API Performance with Express, Prometheus, and Grafana](https://dev.to/msveshnikov/monitoring-api-performance-with-express-prometheus-and-grafana-3566)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
