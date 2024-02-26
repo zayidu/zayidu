@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Doubt a Sign You&#39;re on the Right Path?](https://dev.to/devteam/is-doubt-a-sign-youre-on-the-right-path-5709)
+- [Live Streaming from Unity - Multi-Camera Streams &lpar;Part 6&rpar;](https://dev.to/aws/live-streaming-from-unity-multi-camera-streams-part-6-1pkg)
+- [Power Apps - VBA Subs and Functions](https://dev.to/wyattdave/power-apps-vba-subs-and-functions-1gp3)
+- [Cartographer Magic: Power Automate Bitmaps Revealed](https://dev.to/balagmadhu/cartographer-magic-power-automate-bitmaps-revealed-3gha)
 - [Monday Momentum: What&#39;s Your Plan for the Week, Developer 🤔?](https://dev.to/respect17/monday-momentum-whats-your-plan-for-the-week-developer-thinkingface-4a6i)
-- [How to Build a Weather App with HTML,CSS and Vanilla JavaScript](https://dev.to/vaatiesther/how-to-build-a-weather-app-with-htmlcss-and-vanilla-javascript-316o)
-- [Handling Asynchronous Errors Like a Pro](https://dev.to/lisichaviano/handling-asynchronous-errors-like-a-pro-4o5l)
-- [Race condition in Python&#39;s threading🏁](https://dev.to/coderatul/race-condition-in-pythons-threading-3o4g)
-- [How to Setup Jenkins Locally With Oracle VirtualBox VM](https://dev.to/gabbyti/how-to-setup-jenkins-locally-with-oracle-virtualbox-vm-3cmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
