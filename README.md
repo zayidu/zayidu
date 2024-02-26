@@ -11,7 +11,7 @@
 - [Auto identification of languages in audio file and convert it from speech to text and redact PII using Amazon Transcribe](https://dev.to/aws-builders/auto-identification-of-languages-in-audio-file-and-convert-it-from-speech-to-text-and-redact-pii-using-amazon-transcribe-2l94)
 - [ServiceNow and OpenAI](https://dev.to/johnvitorconstant/servicenow-and-openai-296l)
 - [Web Scraping - Buy rent kenya website](https://dev.to/spkibe/web-scraping-buy-rent-kenya-website-42bh)
-- [Build a REST client](https://dev.to/phuocng/build-a-rest-client-444a)
+- [Obsessed with Apple.](https://dev.to/kedark/obsessed-with-apple-2o4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
