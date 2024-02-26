@@ -9,9 +9,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Build a Vite 5 backend integration with Flask](https://dev.to/tylerlwsmith/build-a-vite-5-backend-integration-with-flask-jch)
 - [SPL - a database language featuring easy writing and fast running](https://dev.to/vivi9876/spl-a-database-language-featuring-easy-writing-and-fast-running-267b)
+- [Unlocking Flexibility: Keyed Dependency Injection in .NET 8](https://dev.to/ferozhub/unlocking-flexibility-keyed-dependency-injection-in-net-8-5bbc)
 - [How to receive email with NodeJS](https://dev.to/yatsenkolesh/how-to-receive-email-with-nodejs-g1a)
-- [What time of day is peak energy and focus for you?](https://dev.to/ben/what-time-of-day-is-peak-energy-and-focus-for-you-2okn)
-- [😲 5000 Followers! | What I&#39;ve Learned 📚📖](https://dev.to/best_codes/5000-followers-what-ive-learned-4abg)
+- [Exploring the os Library With Python](https://dev.to/tlayach/exploring-the-os-library-with-python-5404)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
