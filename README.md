@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4bmh)
+- [Simplify SIP.jS security with short-lived tokens](https://dev.to/psanders/simplify-sipjs-security-with-short-lived-tokens-mb8)
+- [Passkeys library, now with authenticator icons](https://dev.to/dagnelies/passkeys-library-now-with-authenticator-icons-3kgn)
+- [The Laravel Ecosystem](https://dev.to/rileygrotenhuis/the-laravel-ecosystem-1jbj)
 - [Learning Rust: A clean start](https://dev.to/link2twenty/learning-rust-a-clean-start-4eom)
-- [all &quot;MPV For Fixed Price&quot; vendors in one directory](https://dev.to/johnrushx/all-mpv-for-fixed-price-vendors-in-one-directory-4jfl)
-- [OpenTelemetry Collector Anti-Patterns](https://dev.to/avillela/opentelemetry-collector-anti-patterns-42be)
-- [Learn from My Job Hunt Blunders: Pro Tips for Your Success](https://dev.to/juliomerisio/learn-from-my-job-hunt-blunders-pro-tips-for-your-success-1and)
-- [TanStack Router: Setup &amp; Routing in React](https://dev.to/this-is-learning/tanstack-router-setup-routing-in-react-4gf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
