@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What are your goals for week 9 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-9-of-2024-476e)
+- [Meme Monday](https://dev.to/ben/meme-monday-1k87)
+- [Building a Simple Spy Camera with Python](https://dev.to/scofieldidehen/building-a-simple-spy-camera-with-python-408m)
+- [The Traffic Police 🚨 - Controlling outgoing traffic with mirrord](https://dev.to/meowchinist/the-traffic-police-controlling-outgoing-traffic-with-mirrord-216)
 - [FLaNK Stack 26 February 2024](https://dev.to/tspannhw/flank-stack-26-february-2024-277)
-- [Creating an Automated Profile README using Nodejs and GitHub Actions](https://dev.to/bolajiayodeji/how-to-create-an-automated-profile-readme-using-nodejs-and-github-actions-1d30)
-- [Laravel inside Rust? I have a reason for that.](https://dev.to/danielhe4rt/laravel-inside-rust-i-have-a-reason-for-that-ke3)
-- [My custom News Aggregation Platform](https://dev.to/shreyvijayvargiya/my-custom-news-aggregation-platform-31i1)
-- [Liman Çekirdek 2.0 Duyuruldu](https://dev.to/liman/liman-cekirdek-20-duyuruldu-9dl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
