@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Global Gamers Challenge - Flutter News 2024 #8 ʚїɞ](https://dev.to/lucianojung/flutter-news-2024-8-eyie-1n51)
+- [Exploring Supabase, the Open Source Backend for Developers](https://dev.to/opensauced/exploring-supabase-the-open-source-backend-for-developers-2dgh)
+- [📚 React Libraries Worth Using in 2024](https://dev.to/reedbarger/react-libraries-worth-using-in-2024-o91)
+- [one of the Codia AI Design technologies: image segmentation model](https://dev.to/happyer/one-of-the-codia-ai-design-technologies-image-segmentation-model-53oe)
 - [What are your goals for week 9 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-9-of-2024-476e)
-- [Meme Monday](https://dev.to/ben/meme-monday-1k87)
-- [Building a Simple Spy Camera with Python](https://dev.to/scofieldidehen/building-a-simple-spy-camera-with-python-408m)
-- [The Traffic Police 🚨 - Controlling outgoing traffic with mirrord](https://dev.to/meowchinist/the-traffic-police-controlling-outgoing-traffic-with-mirrord-216)
-- [FLaNK Stack 26 February 2024](https://dev.to/tspannhw/flank-stack-26-february-2024-277)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
