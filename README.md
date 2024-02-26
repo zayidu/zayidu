@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Monday Momentum: What&#39;s Your Plan for the Week, Developer 🤔?](https://dev.to/respect17/monday-momentum-whats-your-plan-for-the-week-developer-thinkingface-4a6i)
+- [How to Build a Weather App with HTML,CSS and Vanilla JavaScript](https://dev.to/vaatiesther/how-to-build-a-weather-app-with-htmlcss-and-vanilla-javascript-316o)
+- [Handling Asynchronous Errors Like a Pro](https://dev.to/lisichaviano/handling-asynchronous-errors-like-a-pro-4o5l)
+- [Race condition in Python&#39;s threading🏁](https://dev.to/coderatul/race-condition-in-pythons-threading-3o4g)
 - [How to Setup Jenkins Locally With Oracle VirtualBox VM](https://dev.to/gabbyti/how-to-setup-jenkins-locally-with-oracle-virtualbox-vm-3cmi)
-- [Auto identification of languages in audio file and convert it from speech to text and redact PII using Amazon Transcribe](https://dev.to/aws-builders/auto-identification-of-languages-in-audio-file-and-convert-it-from-speech-to-text-and-redact-pii-using-amazon-transcribe-2l94)
-- [ServiceNow and OpenAI](https://dev.to/johnvitorconstant/servicenow-and-openai-296l)
-- [Web Scraping - Buy rent kenya website](https://dev.to/spkibe/web-scraping-buy-rent-kenya-website-42bh)
-- [Obsessed with Apple.](https://dev.to/kedark/obsessed-with-apple-2o4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
