@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS open source newsletter, #190](https://dev.to/aws/aws-open-source-newsletter-190-4pla)
 - [Harnessing Heuristic Testing: Driving Quality in Agile Software Development](https://dev.to/talenttinaapi/harnessing-heuristic-testing-driving-quality-in-agile-software-development-5ce2)
 - [Creating An Ending &lpar;Cosplore Pt:22&rpar;](https://dev.to/chigbeef_77/creating-an-ending-cosplore-pt22-3095)
+- [Kotlin Design Patterns: Simplifying the Observer Pattern](https://dev.to/lucasfugisawa/kotlin-design-patterns-simplifying-the-observer-pattern-1bc3)
 - [Next.js File Generator VS code extension](https://dev.to/kristiyan_velkov/nextjs-file-generator-vs-code-extension-11b1)
-- [Solving DSA Problems. CodeForces 1918-A: Brick Wall](https://dev.to/mmzeynalli/solving-dsa-problems-codeforces-1918-a-brick-wall-62i)
-- [The 8 Best Pomodoro Timer Apps to Enhance Your Productivity](https://dev.to/stan8086/the-8-best-pomodoro-timer-apps-to-enhance-your-productivity-55b2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
