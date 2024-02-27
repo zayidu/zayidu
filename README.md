@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The Power Of Web Design To Maximize Your Online Potential](https://dev.to/ai-tool/the-power-of-web-design-to-maximize-your-online-potential-4l67)
+- [Écrire une doc technique utile](https://dev.to/onepoint/ecrire-une-doc-technique-utile-4bd1)
 - [Are You Embracing AI inYour Dev Workflow?](https://dev.to/devteam/are-you-embracing-ai-inyour-dev-workflow-5dbb)
 - [Release Note: Vishwa AI’s Auto Builder Goes Public Beta](https://dev.to/vishwa-ai/release-note-vishwa-ais-auto-builder-goes-public-beta-24h9)
-- [Day -2 Advanced Python 🐍 ...](https://dev.to/pranjal_ml/day-2-advanced-python--3eo8)
-- [Launching Crawlee Blog: Your Node.js resource hub for web scraping and automation.](https://dev.to/crawlee/launching-crawlee-blog-your-nodejs-resource-hub-for-web-scraping-and-automation-1ol9)
-- [Exciting News! NFTScan Secures Spot in CoinMarketCap’s Prestigious List of TOP 10 Tools in the Crypto Market🏆](https://dev.to/nft_research/exciting-news-nftscan-secures-spot-in-coinmarketcaps-prestigious-list-of-top-10-tools-in-the-crypto-market-5g75)
+- [Discover the SharePoint Insights and Proficiency of Ami Diamond](https://dev.to/jaloplo/discover-the-sharepoint-insights-and-proficiency-of-ami-diamond-4ln2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
