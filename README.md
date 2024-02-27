@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Singapore GA: Deploy apps, AI workloads, and databases in seconds](https://dev.to/koyeb/singapore-ga-deploy-apps-ai-workloads-and-databases-in-seconds-2e95)
+- [Just Git like a pro](https://dev.to/yokwejuste/just-git-like-a-pro-1l33)
+- [Functions in SQL](https://dev.to/ayokunle/functions-in-sql-179h)
 - [The Power Of Web Design To Maximize Your Online Potential](https://dev.to/ai-tool/the-power-of-web-design-to-maximize-your-online-potential-4l67)
 - [Écrire une doc technique utile](https://dev.to/onepoint/ecrire-une-doc-technique-utile-4bd1)
-- [Are You Embracing AI inYour Dev Workflow?](https://dev.to/devteam/are-you-embracing-ai-inyour-dev-workflow-5dbb)
-- [Release Note: Vishwa AI’s Auto Builder Goes Public Beta](https://dev.to/vishwa-ai/release-note-vishwa-ais-auto-builder-goes-public-beta-24h9)
-- [Discover the SharePoint Insights and Proficiency of Ami Diamond](https://dev.to/jaloplo/discover-the-sharepoint-insights-and-proficiency-of-ami-diamond-4ln2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
