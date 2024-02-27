@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Are You Embracing AI inYour Dev Workflow?](https://dev.to/devteam/are-you-embracing-ai-inyour-dev-workflow-5dbb)
+- [Release Note: Vishwa AI’s Auto Builder Goes Public Beta](https://dev.to/vishwa-ai/release-note-vishwa-ais-auto-builder-goes-public-beta-24h9)
+- [Day -2 Advanced Python 🐍 ...](https://dev.to/pranjal_ml/day-2-advanced-python--3eo8)
 - [Launching Crawlee Blog: Your Node.js resource hub for web scraping and automation.](https://dev.to/crawlee/launching-crawlee-blog-your-nodejs-resource-hub-for-web-scraping-and-automation-1ol9)
-- [Unexpected teaching from an old woman: Working hard](https://dev.to/lico/unexpected-teaching-from-an-old-woman-working-hard-3h7e)
-- [Best Web Hosting Services](https://dev.to/jack34/best-web-hosting-services-2i2k)
-- [Remote work, experiences and some ideas](https://dev.to/krlz/remote-work-experiences-myths-and-some-ideas-1ed1)
-- [Build Naruto Database App - React Js Tutorial - API Project](https://dev.to/imrankh13332994/build-naruto-database-app-react-js-tutorial-api-project-4ahj)
+- [Exciting News! NFTScan Secures Spot in CoinMarketCap’s Prestigious List of TOP 10 Tools in the Crypto Market🏆](https://dev.to/nft_research/exciting-news-nftscan-secures-spot-in-coinmarketcaps-prestigious-list-of-top-10-tools-in-the-crypto-market-5g75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
