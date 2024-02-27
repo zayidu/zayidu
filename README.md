@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Launching Crawlee Blog: Your Node.js resource hub for web scraping and automation.](https://dev.to/crawlee/launching-crawlee-blog-your-nodejs-resource-hub-for-web-scraping-and-automation-1ol9)
 - [Best Web Hosting Services](https://dev.to/jack34/best-web-hosting-services-2i2k)
 - [Remote work, experiences and some ideas](https://dev.to/krlz/remote-work-experiences-myths-and-some-ideas-1ed1)
 - [Build Naruto Database App - React Js Tutorial - API Project](https://dev.to/imrankh13332994/build-naruto-database-app-react-js-tutorial-api-project-4ahj)
 - [Understanding Testing in production](https://dev.to/arindam_1729/understanding-testing-in-production-1ld5)
-- [How to control package versions in your Python project](https://dev.to/imtimmeta/how-to-control-package-versions-in-your-python-project-5aia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
