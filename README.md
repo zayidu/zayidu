@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🍞 Bun, A Faster JavaScript Runtime](https://dev.to/lundjrl/bun-a-faster-javascript-runtime-jph)
+- [Whitehouse Declares Software Should Be Memory Safe](https://dev.to/ben/whitehouse-declares-software-should-be-memory-safe-4bb2)
+- [What will happen to traditional software development 🤔💭](https://dev.to/idris_attal/what-will-happen-to-traditional-software-development-119e)
 - [SSO vs. Identity Federation: Optimizing Authentication for Modern Enterprises](https://dev.to/boxyhq/sso-vs-identity-federation-optimizing-authentication-for-modern-enterprises-47ak)
-- [Mentor Matching — February 2024 🤝](https://dev.to/devteam/mentor-matching-monthly-4ann)
-- [Design Systems for 2024](https://dev.to/leonardorafael/design-systems-for-2024-1pog)
-- [Saindo do básico do Git: Aprimorando seu Fluxo de Trabalho](https://dev.to/camilarozendo/saindo-do-basico-do-git-aprimorando-seu-fluxo-de-trabalho-339i)
-- [The PlayStore Killer](https://dev.to/akashpattnaik/the-playstore-killer-2fcp)
+- [SQLite3 Replication: A Wizard&#39;s Guide🧙🏽](https://dev.to/golu360/sqlite3-replication-a-wizards-guide-1bnn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
