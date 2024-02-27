@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Como publicar uma WebApi .NET no RailwayApp utilizando Docker](https://dev.to/lucasdwn/como-publicar-uma-webapi-net-no-railwayapp-utilizando-docker-1ok4)
+- [Explain &quot;Memory Safe Programming Languages&quot; Like I&#39;m Five Please](https://dev.to/jess/explain-memory-safe-programming-languages-like-im-five-please-2ihe)
 - [🍞 Bun, A Faster JavaScript Runtime](https://dev.to/lundjrl/bun-a-faster-javascript-runtime-jph)
 - [Whitehouse Declares Software Should Be Memory Safe](https://dev.to/ben/whitehouse-declares-software-should-be-memory-safe-4bb2)
 - [What will happen to traditional software development 🤔💭](https://dev.to/idris_attal/what-will-happen-to-traditional-software-development-119e)
-- [SSO vs. Identity Federation: Optimizing Authentication for Modern Enterprises](https://dev.to/boxyhq/sso-vs-identity-federation-optimizing-authentication-for-modern-enterprises-47ak)
-- [SQLite3 Replication: A Wizard&#39;s Guide🧙🏽](https://dev.to/golu360/sqlite3-replication-a-wizards-guide-1bnn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
