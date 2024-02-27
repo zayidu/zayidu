@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Binary Search in Python 🚀](https://dev.to/majesticshawarma/mastering-binary-search-in-python-12lg)
 - [Astro with PostgreSQL](https://dev.to/diploi/astro-with-postgresql-1mpf)
 - [Getting Started with LangChain](https://dev.to/0xnari/getting-started-with-langchain-2m10)
 - [Singapore GA: Deploy apps, AI workloads, and databases in seconds](https://dev.to/koyeb/singapore-ga-deploy-apps-ai-workloads-and-databases-in-seconds-2e95)
 - [The Pains of Data Ingestion](https://dev.to/burakkarakan/the-pains-of-data-ingestion-g05)
-- [Concise Gherkin - How brevity improves BDD scenarios](https://dev.to/upslide/concise-gherkin-how-brevity-improves-bdd-scenarios-3d86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
