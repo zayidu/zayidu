@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is SQL a declarative language](https://dev.to/esproc_spl/is-sql-a-declarative-language-25km)
-- [Python 101](https://dev.to/aws-builders/python-101-2188)
-- [Build a Simple Linux Kernel Using Buildroot](https://dev.to/devdoesit17/build-a-simple-linux-kernel-using-buildroot-4d29)
-- [10 Best AI-Powered Chrome Extensions](https://dev.to/durgesh4993/10-best-ai-powered-chrome-extensions-2dp0)
-- [Create VS Code Extension with React, TypeScript, Tailwind](https://dev.to/rakshit47/create-vs-code-extension-with-react-typescript-tailwind-1ba6)
+- [Best Web Hosting Services](https://dev.to/jack34/best-web-hosting-services-2i2k)
+- [Remote work, experiences and some ideas](https://dev.to/krlz/remote-work-experiences-myths-and-some-ideas-1ed1)
+- [Build Naruto Database App - React Js Tutorial - API Project](https://dev.to/imrankh13332994/build-naruto-database-app-react-js-tutorial-api-project-4ahj)
+- [Understanding Testing in production](https://dev.to/arindam_1729/understanding-testing-in-production-1ld5)
+- [How to control package versions in your Python project](https://dev.to/imtimmeta/how-to-control-package-versions-in-your-python-project-5aia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
