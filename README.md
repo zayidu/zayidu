@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Traffic Management: A Comprehensive Istio Lab Guide](https://dev.to/sre_panchanan/mastering-traffic-management-a-comprehensive-istio-lab-guide-245l)
 - [Diacritic-insensitive string comparison in JavaScript](https://dev.to/clarity89/diacritic-insensitive-string-comparison-in-javascript-252m)
 - [Creating a Simple Proxy Switcher in Node.js](https://dev.to/williamsmithh/creating-a-simple-proxy-switcher-in-nodejs-2m38)
+- [My first game on Scratch](https://dev.to/daniordonez/my-first-game-on-scratch-4ef7)
 - [Piral Feed Service 1.13](https://dev.to/smapiot/piral-feed-service-113-43lk)
-- [Managing unexpected data at runtime in Typescript](https://dev.to/pathakpratik/managing-unexpected-data-at-runtime-in-typescript-1lb4)
-- [The Power of Community](https://dev.to/novu/the-power-of-community-2g97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
