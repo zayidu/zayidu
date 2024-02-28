@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What Leads to Coding Mistakes?](https://dev.to/devteam/what-leads-to-coding-mistakes-1nni)
+- [Building Your First React Component with TypeScript](https://dev.to/baransel/building-your-first-react-component-with-typescript-4pfh)
+- [Our Top 9 Predictions for Global Payments and Identity in 2024](https://dev.to/tbdevs/our-top-9-predictions-for-global-payments-and-identity-in-2024-50eg)
+- [Is Hosting on Netlify Going to Bankrupt you?](https://dev.to/mlaposta/is-hosting-on-netlify-going-to-bankrupt-you-4d1d)
 - [Appium vs Selenium: Choosing the Right Fit for Your Automation Project](https://dev.to/jamescantor38/appium-vs-selenium-choosing-the-right-fit-for-your-automation-project-13m9)
-- [Refactoring a REST-based Go backend into Event-Driven using Pub/Sub](https://dev.to/encore/refactoring-a-rest-based-go-backend-into-event-driven-using-pubsub-433p)
-- [Explorando o Linux - Diretórios Padrões](https://dev.to/lucasrocha729/explorando-o-linux-diretorios-padroes-19go)
-- [Empowering Development: Unlimited Use Cases with Decentralized Confidential Computing](https://dev.to/superprotocol/empowering-development-unlimited-use-cases-with-decentralized-confidential-computing-16k4)
-- [How to set global request header information in Postman](https://dev.to/serenepine/how-to-set-global-request-header-information-in-postman-36md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
