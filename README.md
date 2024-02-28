@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using CRDTs to build collaborative Rust web applications](https://dev.to/logrocket/using-crdts-to-build-collaborative-rust-web-applications-35d0)
-- [Joining the &lpar;Module&rpar; Federation](https://dev.to/eidellev/joining-the-module-federation-4nnl)
-- [Model Inputs: Reactive Two-Way Binding](https://dev.to/this-is-angular/model-inputs-reactive-two-way-binding-2538)
-- [Understanding Power of Horizen EON&#39;s Stateful Model: User Experience in Account-Based Transactions](https://dev.to/vanshikasrivastava/understanding-power-of-horizen-eons-stateful-model-user-experience-in-account-based-transactions-58if)
-- [Hashing Password And Generating User Token In Your Schema](https://dev.to/fredabod/hashing-password-and-generating-user-token-in-your-schema-3803)
+- [Incremental migration to Angular’s new control flow syntax](https://dev.to/this-is-angular/incremental-migration-to-angulars-new-control-flow-syntax-j36)
+- [Error &quot;Class &quot;App\Http\Controllers\Storage&quot; not found&quot;](https://dev.to/butterflydev/error-class-apphttpcontrollersstorage-not-found-i5o)
+- [Azure, AWS, and GCP](https://dev.to/akmaurya31/azure-aws-and-gcp-3f79)
+- [Amazon Kendra Overview](https://dev.to/aws-builders/amazon-kendra-overview-4ing)
+- [Women in Tech: Elevate Conference by Girl Geek X March 7 and 8, 2024](https://dev.to/margareteldridge/women-in-tech-elevate-conference-by-girl-geek-x-march-7-and-8-2024-og7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
