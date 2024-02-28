@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [SUPIR Full Tutorial + 1 Click 12GB VRAM Windows &amp; RunPod / Linux Installer + Batch Upscale + Comparison With Magnific](https://dev.to/furkangozukara/supir-full-tutorial-1-click-12gb-vram-windows-runpod-linux-installer-batch-upscale-comparison-with-magnific-1nnc)
 - [Cracking the Sudoku Code: Validating Your 9x9 Board](https://dev.to/majesticshawarma/cracking-the-sudoku-code-validating-your-9x9-board-2d5o)
 - [Eventos em C#](https://dev.to/lincolnqjunior/eventos-em-c-1oif)
 - [Understanding the Redux Architecture in React](https://dev.to/kartikmehta8/understanding-the-redux-architecture-in-react-4ajc)
 - [IDURAR Open Source React.js Node.js Project With 5K stars on Github to learn from](https://dev.to/idurar/idurar-open-sourcereactjs-nodejs-project-with-5k-stars-on-github-to-learn-from-5ac8)
-- [Welcome Thread - v265](https://dev.to/devteam/welcome-thread-v265-3a1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
