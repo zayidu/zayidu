@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenCommit: feature-rich CLI to generate meaningful git commit messages now supports local models via Ollama 🤯🔫](https://dev.to/disukharev/opencommit-feature-rich-cli-to-generate-meaningful-git-commit-messages-now-supports-local-models-via-ollama-5435)
-- [Rise of Local LLMs ?](https://dev.to/sarthology/rise-of-local-llms--21pe)
-- [Top 3 Elixir books that will make you love Elixir even more](https://dev.to/hoonweedev/top-3-elixir-books-that-will-make-you-love-elixir-even-more-2bi6)
-- [What&#39;s new in Next.js 14](https://dev.to/pagepro_agency/whats-new-in-nextjs-14-1160)
-- [Integrating CKEditor into RemixJS: A Step-by-Step Guide](https://dev.to/nickfthedev/integrating-ckeditor-into-remixjs-a-step-by-step-guide-3bk3)
+- [Appium vs Selenium: Choosing the Right Fit for Your Automation Project](https://dev.to/jamescantor38/appium-vs-selenium-choosing-the-right-fit-for-your-automation-project-13m9)
+- [Refactoring a REST-based Go backend into Event-Driven using Pub/Sub](https://dev.to/encore/refactoring-a-rest-based-go-backend-into-event-driven-using-pubsub-433p)
+- [Explorando o Linux - Diretórios Padrões](https://dev.to/lucasrocha729/explorando-o-linux-diretorios-padroes-19go)
+- [Empowering Development: Unlimited Use Cases with Decentralized Confidential Computing](https://dev.to/superprotocol/empowering-development-unlimited-use-cases-with-decentralized-confidential-computing-16k4)
+- [How to set global request header information in Postman](https://dev.to/serenepine/how-to-set-global-request-header-information-in-postman-36md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
