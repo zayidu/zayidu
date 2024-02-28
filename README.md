@@ -10,8 +10,8 @@
 - [IDURAR Open Source React.js Node.js Project With 5K stars on Github to learn from](https://dev.to/idurar/idurar-open-sourcereactjs-nodejs-project-with-5k-stars-on-github-to-learn-from-5ac8)
 - [Welcome Thread - v265](https://dev.to/devteam/welcome-thread-v265-3a1l)
 - [TUTORIAL: Deploy .NET WebAPI grátis no RailwayApp utilizando Docker!](https://dev.to/lucasdwn/como-publicar-uma-webapi-net-no-railwayapp-utilizando-docker-1ok4)
+- [Managing multiple kubectl port-forward configurations and sharing them via Git 📦](https://dev.to/hcavarsan/managing-multiple-kubectl-port-forward-configurations-and-sharing-them-via-git-1k1)
 - [Safe Content, Happy Users: Azure AI Content Safety](https://dev.to/kairatorozobekov/safe-content-happy-users-azure-ai-content-safety-3abp)
-- [Explain &quot;Memory Safe Programming Languages&quot; Like I&#39;m Five Please](https://dev.to/jess/explain-memory-safe-programming-languages-like-im-five-please-2ihe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
