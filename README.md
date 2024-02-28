@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Leads to Coding Mistakes?](https://dev.to/devteam/what-leads-to-coding-mistakes-1nni)
-- [Building Your First React Component with TypeScript](https://dev.to/baransel/building-your-first-react-component-with-typescript-4pfh)
-- [Our Top 9 Predictions for Global Payments and Identity in 2024](https://dev.to/tbdevs/our-top-9-predictions-for-global-payments-and-identity-in-2024-50eg)
-- [Is Hosting on Netlify Going to Bankrupt you?](https://dev.to/mlaposta/is-hosting-on-netlify-going-to-bankrupt-you-4d1d)
-- [Appium vs Selenium: Choosing the Right Fit for Your Automation Project](https://dev.to/jamescantor38/appium-vs-selenium-choosing-the-right-fit-for-your-automation-project-13m9)
+- [How and why we ripped our Open Source product apart for a full rebuild](https://dev.to/browserless/how-and-why-we-ripped-our-open-source-product-apart-for-a-full-rebuild-552n)
+- [Be careful with package names](https://dev.to/luca_nicoletti/be-careful-with-package-names-4mn8)
+- [How to make a Keylogger Payload Undectatable](https://dev.to/scofieldidehen/how-to-make-a-keylogger-payload-undectatable-klh)
+- [You are Wrong. Frameworks Do Matter](https://dev.to/mohammadfaisal/you-are-wrong-frameworks-do-matter-dfm)
+- [Using SignalDB with React: A complete guide](https://dev.to/logrocket/using-signaldb-with-react-a-complete-guide-bdc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
