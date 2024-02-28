@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leading Meetings for Software Engineers: Guidelines](https://dev.to/yogini16/leading-meetings-for-software-engineers-guidelines-27kg)
-- [How to use LaTeX in React to generate PDFs](https://dev.to/onedoc/how-to-use-latex-in-react-to-generate-pdfs-507d)
-- [CBDC&lpar;DREX&rpar; e criptomoeda: as diferenças](https://dev.to/valterlobo/cbdcdrex-e-criptomoeda-as-diferencas-4j9b)
-- [SUPIR Full Tutorial + 1 Click 12GB VRAM Windows &amp; RunPod / Linux Installer + Batch Upscale + Comparison With Magnific](https://dev.to/furkangozukara/supir-full-tutorial-1-click-12gb-vram-windows-runpod-linux-installer-batch-upscale-comparison-with-magnific-1nnc)
-- [Cracking the Sudoku Code: Validating Your 9x9 Board](https://dev.to/majesticshawarma/cracking-the-sudoku-code-validating-your-9x9-board-2d5o)
+- [Diacritic-insensitive string comparison in JavaScript](https://dev.to/clarity89/diacritic-insensitive-string-comparison-in-javascript-252m)
+- [Creating a Simple Proxy Switcher in Node.js](https://dev.to/williamsmithh/creating-a-simple-proxy-switcher-in-nodejs-2m38)
+- [Piral Feed Service 1.13](https://dev.to/smapiot/piral-feed-service-113-43lk)
+- [Managing unexpected data at runtime in Typescript](https://dev.to/pathakpratik/managing-unexpected-data-at-runtime-in-typescript-1lb4)
+- [The Power of Community](https://dev.to/novu/the-power-of-community-2g97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
