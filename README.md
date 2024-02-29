@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [February Stripe Developer Digest](https://dev.to/stripe/february-stripe-developer-digest-10m4)
+- [Top 10 AI Tools for Developers in 2024](https://dev.to/get_pieces/top-10-ai-tools-for-developers-in-2024-3aca)
+- [TechHer: Empowering Women in the Digital Age](https://dev.to/akashdev23/techher-empowering-women-in-the-digital-age-l7f)
+- [Deep Dive into Multistage Dockerfile with a Golang App ⚙️🚢](https://dev.to/sre_panchanan/deep-dive-into-multistage-dockerfile-with-a-golang-app-6e1)
 - [Create a Random Joke using React app through API](https://dev.to/siddheshuncodes/create-a-random-joke-using-react-app-through-api-2c82)
-- [Demystifying Docker: Simplifying Application Deployment](https://dev.to/siddheshuncodes/demystifying-docker-simplifying-application-deployment-3219)
-- [How to Set Up a Private NPM Registry](https://dev.to/siddheshuncodes/how-to-set-up-a-private-npm-registry-1fa9)
-- [OpenSauced: Nurturing Open Source Collaboration and Growth](https://dev.to/opensauced/opensauced-nurturing-open-source-collaboration-and-growth-28mk)
-- [More control over enum in Rails 7.1](https://dev.to/jetthoughts/more-control-over-enum-in-rails-71-28b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
