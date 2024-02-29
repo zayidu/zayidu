@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to access Neon Postgres from AWS Lambda functions via serverless driver](https://dev.to/hackmamba/how-to-access-neon-postgres-from-aws-lambda-functions-via-serverless-driver-3ad4)
+- [It&#39;s Always About Bob](https://dev.to/rfornal/its-always-about-bob-2gcg)
 - [How to add a skeleton UI to Rails with Turbo](https://dev.to/railsdesigner/how-to-add-a-skeleton-ui-to-rails-with-turbo-1ldh)
 - [Portfolio app with nextjs, reactjs and typescript.](https://dev.to/priyanshu740/portfolio-app-with-nextjs-reactjs-and-typescript-4ham)
 - [February Stripe Developer Digest](https://dev.to/stripe/february-stripe-developer-digest-10m4)
-- [Top 10 AI Tools for Developers in 2024](https://dev.to/get_pieces/top-10-ai-tools-for-developers-in-2024-3aca)
-- [TechHer: Empowering Women in the Digital Age](https://dev.to/akashdev23/techher-empowering-women-in-the-digital-age-l7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
