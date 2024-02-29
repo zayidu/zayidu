@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Dockerize a Flask Application 🐳🚀](https://dev.to/sre_panchanan/how-to-dockerize-a-flask-application-4mi)
 - [Secure your API with these 16 Practices with Apache APISIX - part 2](https://dev.to/apisix/secure-your-api-with-these-16-practices-with-apache-apisix-part-2-2247)
 - [Introducing two websites for Tailwind ready-made components](https://dev.to/sinazinsaz/introducing-two-websites-for-tailwind-ready-made-components-dlj)
 - [Doing More by Doing Better: The Path to Enhanced Productivity](https://dev.to/stan8086/doing-more-by-doing-better-the-path-to-enhanced-productivity-244n)
 - [one of the Codia AI technologies: In-Depth Analysis of LLM](https://dev.to/happyer/in-depth-analysis-of-llm-1pg5)
-- [Unleash the Power of Google Gemini with Node.js: A Step-by-Step Guide &lpar;Continued&rpar;](https://dev.to/shishsingh/unleash-the-power-of-google-gemini-with-nodejs-a-step-by-step-guide-continued-4hej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
