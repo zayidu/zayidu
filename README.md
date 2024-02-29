@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Higher Ed Needed for Data Science Success?](https://dev.to/devteam/is-higher-ed-needed-for-data-science-success-33l2)
+- [Leap Year: How Will You Spend Your Bonus Day?](https://dev.to/devteam/leap-year-how-will-you-spend-your-bonus-day-1hof)
+- [Ansible + Nuitka: One-line Installer for Smoother Employee Onboarding](https://dev.to/lincemathew/ansible-nuitka-one-line-installer-for-smoother-employee-onboarding-527o)
+- [Horizontal scaling vs Vertical Scaling in System Design](https://dev.to/somadevtoo/horizontal-scaling-vs-vertical-scaling-in-system-design-3n09)
 - [Writing clean, reusable components in React &lpar;best practices&rpar;](https://dev.to/codewithshahan/writing-clean-reusable-components-in-react-best-practices-2gka)
-- [Rethinking Leap Years: Why Your Favorite Programming Language&#39;s Approach May Be Flawed](https://dev.to/mcsee/rethinking-leap-years-why-your-favorite-programming-languages-approach-may-be-flawed-52a2)
-- [I failed the AWS Solutions Architect Associate exam, so what?!](https://dev.to/aws-builders/i-failed-the-aws-solutions-architect-associate-exam-so-what-3jpk)
-- [What is SHACL?](https://dev.to/fluree/what-is-shacl-1li0)
-- [How to Keep a History of MQTT Data With Python](https://dev.to/reductstore/how-to-keep-a-history-of-mqtt-data-with-python-k6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
