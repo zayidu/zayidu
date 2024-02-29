@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Don’t Panic! The Hitchhiker’s Brew to Serenity](https://dev.to/dariubs/dont-panic-the-hitchhikers-brew-to-serenity-3681)
-- [NAT traversal: How does it work?](https://dev.to/alakkadshaw/nat-traversal-how-does-it-work-j3c)
-- [Maximizing Business Potential: The Top 7 Advantages of Custom IoT App Development](https://dev.to/hyscaler/maximizing-business-potential-the-top-7-advantages-of-custom-iot-app-development-4aha)
-- [Deploy Docker Compose on ec2 using Terraform](https://dev.to/ashraf-minhaj/deploy-docker-compose-on-ec2-using-terraform-44gc)
-- [Release Radar • February 2024 Edition](https://dev.to/github/release-radar-february-2024-edition-4i99)
+- [How to hide files or data in a JPEG Image](https://dev.to/abdulmuminyqn/how-to-hide-files-or-data-in-a-jpeg-image-5gna)
+- [What are Object-Relational Mappers &lpar;ORMs&rpar;?](https://dev.to/tahmidbintaslim/what-are-object-relational-mappers-orms-4clb)
+- [Six-Figure Content Programs: A Lesson &lpar;and Change&rpar; in Positioning](https://dev.to/daedtech/six-figure-content-programs-a-lesson-and-change-in-positioning-56bm)
+- [Implementing Stripe Payments in a React App and on Stripe Hosted Page: A Step-by-Step Guide](https://dev.to/mominmahmud/implementing-stripe-payments-in-a-react-app-a-step-by-step-guide-4dd9)
+- [Async vs Defer in JavaScript: Which is Better?🤔](https://dev.to/fidalmathew/async-vs-defer-in-javascript-which-is-better-26gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
