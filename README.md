@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is React Suspense and Async Rendering?](https://dev.to/this-is-learning/what-is-react-suspense-and-async-rendering-3dh5)
-- [Http Request Form Data at Golang](https://dev.to/sukmarizki04/http-request-form-data-at-golang-1dn4)
-- [How to make a turtle racing game in Python](https://dev.to/codewithshahan/how-to-make-a-turtle-racing-game-in-python-3nfn)
-- [Introducing LectureKit: Headless Platform for Creating &amp; Managing Online Courses](https://dev.to/geiger01/introducing-lecturekit-headless-platform-for-creating-managing-online-courses-4cg8)
-- [querySrv errors when connecting to MongoDB Atlas](https://dev.to/alexbevi/querysrv-errors-when-connecting-to-mongodb-atlas-434j)
+- [How To Make A Truth Or Dare Bot Discord](https://dev.to/siddheshuncodes/how-to-make-a-truth-or-dare-bot-discord-4lme)
+- [Apple is killing PWA?](https://dev.to/maximsaplin/apple-is-killing-pwa-2kjn)
+- [Why Companies Area Restrict Jobs, Even if They Are Remote](https://dev.to/ugglr/why-companies-area-restrict-jobs-even-if-they-are-remote-35lo)
+- [What I learned in 6 months of working on a CodeGen dev tool GPT Pilot](https://dev.to/zvone187/what-i-learned-in-6-months-of-working-on-a-codegen-dev-tool-gpt-pilot-4fij)
+- [Can you make your website green 🌳♻🌳?](https://dev.to/fanmixco/can-you-make-your-website-green--1lb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
