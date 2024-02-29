@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Make A Truth Or Dare Bot Discord](https://dev.to/siddheshuncodes/how-to-make-a-truth-or-dare-bot-discord-4lme)
-- [Apple is killing PWA?](https://dev.to/maximsaplin/apple-is-killing-pwa-2kjn)
-- [Why Companies Area Restrict Jobs, Even if They Are Remote](https://dev.to/ugglr/why-companies-area-restrict-jobs-even-if-they-are-remote-35lo)
-- [What I learned in 6 months of working on a CodeGen dev tool GPT Pilot](https://dev.to/zvone187/what-i-learned-in-6-months-of-working-on-a-codegen-dev-tool-gpt-pilot-4fij)
-- [Can you make your website green 🌳♻🌳?](https://dev.to/fanmixco/can-you-make-your-website-green--1lb7)
+- [Create a Random Joke using React app through API](https://dev.to/siddheshuncodes/create-a-random-joke-using-react-app-through-api-2c82)
+- [Demystifying Docker: Simplifying Application Deployment](https://dev.to/siddheshuncodes/demystifying-docker-simplifying-application-deployment-3219)
+- [How to Set Up a Private NPM Registry](https://dev.to/siddheshuncodes/how-to-set-up-a-private-npm-registry-1fa9)
+- [OpenSauced: Nurturing Open Source Collaboration and Growth](https://dev.to/opensauced/opensauced-nurturing-open-source-collaboration-and-growth-28mk)
+- [More control over enum in Rails 7.1](https://dev.to/jetthoughts/more-control-over-enum-in-rails-71-28b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
