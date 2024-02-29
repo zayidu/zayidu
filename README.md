@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a dynamic invoice using react-print-pdf](https://dev.to/onedoc/creating-a-dynamic-invoice-using-react-print-pdf-2624)
 - [How to access Neon Postgres from AWS Lambda functions via serverless driver](https://dev.to/hackmamba/how-to-access-neon-postgres-from-aws-lambda-functions-via-serverless-driver-3ad4)
+- [Best Practices for Branch Naming Conventions and Effective Commit Messages](https://dev.to/faidterence/best-practices-for-branch-naming-conventions-and-effective-commit-messages-ma8)
+- [Styled-Components: Why you should &lpar;or should not&rpar; use it](https://dev.to/pancompany/styled-components-why-you-should-or-should-not-use-it-23c)
 - [It&#39;s Always About Bob](https://dev.to/rfornal/its-always-about-bob-2gcg)
-- [How to add a skeleton UI to Rails with Turbo](https://dev.to/railsdesigner/how-to-add-a-skeleton-ui-to-rails-with-turbo-1ldh)
-- [Portfolio app with nextjs, reactjs and typescript.](https://dev.to/priyanshu740/portfolio-app-with-nextjs-reactjs-and-typescript-4ham)
-- [February Stripe Developer Digest](https://dev.to/stripe/february-stripe-developer-digest-10m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
