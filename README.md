@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Higher Ed Needed for Data Science Success?](https://dev.to/devteam/is-higher-ed-needed-for-data-science-success-33l2)
-- [Leap Year: How Will You Spend Your Bonus Day?](https://dev.to/devteam/leap-year-how-will-you-spend-your-bonus-day-1hof)
-- [Ansible + Nuitka: One-line Installer for Smoother Employee Onboarding](https://dev.to/lincemathew/ansible-nuitka-one-line-installer-for-smoother-employee-onboarding-527o)
-- [Horizontal scaling vs Vertical Scaling in System Design](https://dev.to/somadevtoo/horizontal-scaling-vs-vertical-scaling-in-system-design-3n09)
-- [Writing clean, reusable components in React &lpar;best practices&rpar;](https://dev.to/codewithshahan/writing-clean-reusable-components-in-react-best-practices-2gka)
+- [Secure your API with these 16 Practices with Apache APISIX - part 2](https://dev.to/apisix/secure-your-api-with-these-16-practices-with-apache-apisix-part-2-2247)
+- [Introducing two websites for Tailwind ready-made components](https://dev.to/sinazinsaz/introducing-two-websites-for-tailwind-ready-made-components-dlj)
+- [Doing More by Doing Better: The Path to Enhanced Productivity](https://dev.to/stan8086/doing-more-by-doing-better-the-path-to-enhanced-productivity-244n)
+- [one of the Codia AI technologies: In-Depth Analysis of LLM](https://dev.to/happyer/in-depth-analysis-of-llm-1pg5)
+- [Unleash the Power of Google Gemini with Node.js: A Step-by-Step Guide &lpar;Continued&rpar;](https://dev.to/shishsingh/unleash-the-power-of-google-gemini-with-nodejs-a-step-by-step-guide-continued-4hej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
