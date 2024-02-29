@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Rethinking Leap Years: Why Your Favorite Programming Language&#39;s Approach May Be Flawed](https://dev.to/mcsee/rethinking-leap-years-why-your-favorite-programming-languages-approach-may-be-flawed-52a2)
 - [I failed the AWS Solutions Architect Associate exam, so what?!](https://dev.to/aws-builders/i-failed-the-aws-solutions-architect-associate-exam-so-what-3jpk)
 - [How to Keep a History of MQTT Data With Python](https://dev.to/reductstore/how-to-keep-a-history-of-mqtt-data-with-python-k6l)
 - [RAG is Dead. Long Live RAG!](https://dev.to/qdrant/rag-is-dead-long-live-rag-5k8)
 - [Handshake: Next.js boilerplate for OAuth with 200+ APIs](https://dev.to/felipap/handshake-nextjs-boilerplate-for-oauth-with-200-apis-k84)
-- [Incremental migration to Angular’s new control flow syntax](https://dev.to/this-is-angular/incremental-migration-to-angulars-new-control-flow-syntax-j36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
