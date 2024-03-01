@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Free Figma10 Amazing Templates for Your CV](https://dev.to/faisalgg/free-figma10-amazing-templates-for-your-cv-59l8)
+- [Transfer contents and files using SCP from remote to local machine via bastion](https://dev.to/vidyasagarmsc/transfer-contents-and-files-using-scp-from-remote-to-local-machine-via-bastion-4f79)
+- [What is REST API](https://dev.to/otumianempire/what-is-rest-api-53li)
+- [Deploy Your First Web App on AWS with AWS Amplify, Lambda, DynamoDB and API Gateway](https://dev.to/juliafmorgado/deploy-your-first-web-app-on-aws-with-aws-amplify-lambda-dynamodb-and-api-gateway-2ah7)
 - [🚀 Exciting breakthrough in Decentralized Confidential AI by Super Protocol &amp; NVIDIA!](https://dev.to/superprotocol/exciting-breakthrough-in-decentralized-confidential-ai-by-super-protocol-nvidia-gko)
-- [Spoiler Alert: Import Alias in React + Vite](https://dev.to/navdeepm20/spoiler-alert-import-alias-in-react-vite-3apf)
-- [Common Password Cracking Techniques For 2024](https://dev.to/scofieldidehen/common-password-cracking-techniques-for-2024-1ib1)
-- [Thread synchronization in python&#39;s threading module](https://dev.to/coderatul/thread-synchronization-in-pythons-threading-module-3aff)
-- [Creating Interactive Calendar Charts in JavaScript](https://dev.to/bepely/creating-interactive-calendar-charts-in-javascript-4m9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
