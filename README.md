@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Production Multistage Dockerfile For React Application 🚀](https://dev.to/sre_panchanan/production-multistage-dockerfile-for-react-application-2p6i)
-- [Navigating MVC: Evolution from Pattern to Architecture 👨‍💻🥇](https://dev.to/_hm/navigating-mvc-evolution-from-pattern-to-architecture-1gk4)
-- [The Confused Developers Guide to Sidechains](https://dev.to/dappadandev/the-confused-developers-guide-to-sidechains-4kjl)
-- [FS Module in Node.js](https://dev.to/mahimabhardwaj/fs-module-in-nodejs-18in)
-- [This Month In Solid: SolidStart 0.6.0, Solid Docs Beta, and more 😎](https://dev.to/danieljcafonso/this-month-in-solid-solidstart-060-solid-docs-beta-and-more-lo8)
+- [Refactoring Ruby: Introduce Null Object](https://dev.to/jonlunsford/refactoring-ruby-introduce-null-object-c5i)
+- [Husky: Step by Step &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/husky-step-by-step-bite-size-article-1c4f)
+- [ADO OR Entity framework?](https://dev.to/hasanelsherbiny/ado-or-entity-framework-3gn)
+- [🚀 Getting started with Vite](https://dev.to/bcostaaa01/getting-started-with-vite-4fah)
+- [Query Postgres from CloudFront functions with Neon serverless driver](https://dev.to/hackmamba/query-postgres-from-cloudfront-functions-with-neon-serverless-driver-560g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
