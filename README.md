@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Production Multistage Dockerfile For React Application 🚀](https://dev.to/sre_panchanan/production-multistage-dockerfile-for-react-application-2p6i)
+- [Navigating MVC: Evolution from Pattern to Architecture 👨‍💻🥇](https://dev.to/_hm/navigating-mvc-evolution-from-pattern-to-architecture-1gk4)
 - [The Confused Developers Guide to Sidechains](https://dev.to/dappadandev/the-confused-developers-guide-to-sidechains-4kjl)
 - [FS Module in Node.js](https://dev.to/mahimabhardwaj/fs-module-in-nodejs-18in)
-- [Ao infinito e além](https://dev.to/ujs74wiop6/ao-infinito-e-alem-2iof)
-- [Decoding Amazon&#39;s Recommendation Engine🤯](https://dev.to/ujjawaltyagi/decoding-amazons-recommendation-engine-3gpo)
-- [This Week In React #175: RSC, Vinxi, Server Actions, Next.js, Remix, WakuLand, Flash Calendar, Zeego, RN Reusables...](https://dev.to/sebastienlorber/this-week-in-react-175-rsc-vinxi-server-actions-nextjs-remix-wakuland-flash-calendar-zeego-rn-reusables-306l)
+- [This Month In Solid: SolidStart 0.6.0, Solid Docs Beta, and more 😎](https://dev.to/danieljcafonso/this-month-in-solid-solidstart-060-solid-docs-beta-and-more-lo8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
