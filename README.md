@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing library for Node.js and React](https://dev.to/akmaurya31/testing-library-for-nodejs-and-react-2nmg)
+- [Pedagogy of Presenting: Transforming Conference Talks with Teaching Techniques](https://dev.to/c_yatteau/pedagogy-of-presenting-transforming-conference-talks-with-teaching-techniques-3k1g)
 - [Architecting with AI: How GitHub Copilot Shapes the Future of Cloud Solutions](https://dev.to/jito/architecting-with-ai-how-github-copilot-shapes-the-future-of-cloud-solutions-c5b)
 - [Building for sustainability: Dashboards](https://dev.to/newrelic/building-for-sustainability-dashboards-237n)
 - [Google officially ingesting Stack Overflow data](https://dev.to/jess/google-officially-ingesting-stack-overflow-data-5c5c)
-- [How to Improve Your Security Posture in Just a Few Clicks with AWS IAM Access Analyzer](https://dev.to/chkso/how-to-improve-your-security-posture-in-just-a-few-clicks-with-aws-iam-access-analyzer-4io8)
-- [SOFTWARE DESIGN GUIDE SUMMARY](https://dev.to/nceedee/software-design-guide-summary-554m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
