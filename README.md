@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [📨 Building your Email API with Fastmail for free!](https://dev.to/creuserr/building-your-email-api-with-fastmail-for-free-h91)
+- [Becoming a Cyber Security Advocate: Importance of Role Models](https://dev.to/whatminjacodes/becoming-a-cyber-security-advocate-importance-of-role-models-3j9d)
 - [Refactoring Legacy Code: Can We Trust Existing Tests?](https://dev.to/rweisleder/refactoring-legacy-code-can-we-trust-existing-tests-4ia8)
-- [Change One Thing in Tech](https://dev.to/devteam/change-one-thing-in-tech-3jgb)
 - [we_coded 2024! Empowering Change for Gender Equity in Tech 🔥💪🏽](https://dev.to/devteam/wecoded-2024-empowering-change-for-gender-equity-in-tech-30nj)
-- [👨‍💻 Splice method in JavaScript : Unveiling the Magic of JavaScript Arrays](https://dev.to/nameismani/unveiling-the-magic-of-javascript-arrays-a-deep-dive-into-the-splice-method-kfk)
-- [JWT Authentication in NodeJS](https://dev.to/arindam_1729/jwt-authentication-in-nodejs-863)
+- [Change One Thing in Tech](https://dev.to/devteam/change-one-thing-in-tech-3jgb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
