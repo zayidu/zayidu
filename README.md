@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Mac Apps I Regret Not Using Sooner](https://dev.to/bhanu1776/10-mac-apps-i-regret-not-using-sooner-3i0c)
+- [How to Create a Real-time Public Transportation Schedule App](https://dev.to/pubnub/how-to-create-a-real-time-public-transportation-schedule-app-282j)
+- [API Error Handling: Techniques and Best Practices](https://dev.to/apidna/api-error-handling-techniques-and-best-practices-20c5)
+- [It&#39;s a very gender-expansive Women&#39;s History Month!](https://dev.to/rachelfazio/its-a-very-gender-expansive-womens-history-month-13h7)
 - [Free Figma10 Amazing Templates for Your CV](https://dev.to/faisalgg/free-figma10-amazing-templates-for-your-cv-59l8)
-- [Transfer contents and files using SCP from remote to local machine via bastion](https://dev.to/vidyasagarmsc/transfer-contents-and-files-using-scp-from-remote-to-local-machine-via-bastion-4f79)
-- [What is REST API](https://dev.to/otumianempire/what-is-rest-api-53li)
-- [Deploy Your First Web App on AWS with AWS Amplify, Lambda, DynamoDB and API Gateway](https://dev.to/juliafmorgado/deploy-your-first-web-app-on-aws-with-aws-amplify-lambda-dynamodb-and-api-gateway-2ah7)
-- [🚀 Exciting breakthrough in Decentralized Confidential AI by Super Protocol &amp; NVIDIA!](https://dev.to/superprotocol/exciting-breakthrough-in-decentralized-confidential-ai-by-super-protocol-nvidia-gko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
