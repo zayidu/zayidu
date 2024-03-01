@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep in Javascript DOM Traversal 2](https://dev.to/fpaghar/deep-in-javascript-dom-traversal-2-300g)
+- [Deep in Javascript DOM Traversal 1](https://dev.to/fpaghar/deep-in-javascript-dom-traversal-1-2hoo)
 - [Refactoring Ruby: Introduce Null Object](https://dev.to/jonlunsford/refactoring-ruby-introduce-null-object-c5i)
 - [Husky: Step by Step &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/husky-step-by-step-bite-size-article-1c4f)
 - [ADO OR Entity framework?](https://dev.to/hasanelsherbiny/ado-or-entity-framework-3gn)
-- [🚀 Getting started with Vite](https://dev.to/bcostaaa01/getting-started-with-vite-4fah)
-- [Query Postgres from CloudFront functions with Neon serverless driver](https://dev.to/hackmamba/query-postgres-from-cloudfront-functions-with-neon-serverless-driver-560g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
