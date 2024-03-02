@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Important Rules of Boolean Algebra](https://dev.to/diptobiswasanime4/important-rules-of-boolean-algebra-2ab4)
 - [How to Implement Sharding in MongoDB](https://dev.to/speaklouder/how-to-implement-sharding-in-mongodb-koe)
 - [Celebrating 10 Million Views: Exploring Ruby on Rails .ba](https://dev.to/nezirzahirovic/celebrating-10-million-views-exploring-ruby-on-rails-ba-5gp4)
 - [Angular 14 + Prettier + Husky Setup](https://dev.to/xansiety/angular-14-prettier-husky-setup-4hcm)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1673)
-- [Working with pydantic in Python](https://dev.to/tlayach/working-with-pydantic-in-python-46n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
