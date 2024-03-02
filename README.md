@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Advanced Famer Motion Effects in React](https://dev.to/salehmubashar/3-advanced-famer-motion-effects-in-react-2jib)
+- [Building an Infinite Scroll Component with Intersection Observer 🚀](https://dev.to/vikas2426/building-an-infinite-scroll-component-with-intersection-observer-17p1)
+- [Somewhat dynamic typing in Rust - magic of traits](https://dev.to/programcrafter/somewhat-dynamic-typing-in-rust-magic-of-traits-1229)
+- [List of Free API&#39;s](https://dev.to/imashwani/list-of-free-apis-2k5h)
 - [Styling Checkboxes and Switches](https://dev.to/madsstoumann/styling-checkboxes-and-switches-pf0)
-- [First dayy](https://dev.to/himanshutamoli24/first-dayy-1186)
-- [Tech Blog on Your Site or on Medium / Dev.to?](https://dev.to/writech/tech-blog-on-your-site-or-on-medium-devto-pm1)
-- [Why Vite is the best? Advanced Features of Vite](https://dev.to/codeparrot/why-vite-is-the-best-advanced-features-of-vite-3hp6)
-- [How to Set Up Your Environment for Enabling SharePoint Embedded in 5 Simple Steps](https://dev.to/jaloplo/how-to-set-up-your-environment-for-enabling-sharepoint-embedded-in-5-simple-steps-2c9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
