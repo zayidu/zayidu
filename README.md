@@ -8,10 +8,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Kubernetes Resources Management](https://dev.to/sre_panchanan/kubernetes-resources-management-479a)
+- [Revolutionize Your React Debugging with Locator.js: A Developer&#39;s Guide](https://dev.to/creator79/revolutionize-your-react-debugging-with-locatorjs-a-developers-guide-4m7n)
+- [Ionic + Capacitor Security Tips](https://dev.to/acronimax/ionic-capacitor-security-tips-31jg)
 - [React or Vue, which JS framework is best?](https://dev.to/codewithshahan/react-or-vue-which-js-framework-is-best-25on)
 - [Edge IoT with Rust on ESP: WiFi Revisited](https://dev.to/apollolabsbin/edge-iot-with-rust-on-esp-wifi-revisited-3ohm)
-- [Apple&#39;s Destiny is Bankruptcy, and it makes me sad](https://dev.to/polterguy/apples-destiny-is-bankruptcy-and-it-makes-me-sad-1h7i)
-- [How Sora &lpar;actually&rpar; works](https://dev.to/mikeyoung44/how-sora-actually-works-ch5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
