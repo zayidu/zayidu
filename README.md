@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Piping Hot: The Power of Pipe&lpar;&rpar; in Node.js Streams](https://dev.to/ruben_alapont/piping-hot-the-power-of-pipe-in-nodejs-streams-1846)
+- [React Strict DOM package](https://dev.to/ricardogesteves/react-strict-dom-package-1og1)
+- [Check Your Website&#39;s Performance: Testing Under Various Network Speeds](https://dev.to/richardshaju/check-your-websites-performance-testing-under-various-network-speeds-5cf2)
 - [Is Elixir or Common Lisp the best language for building a bootstrapped B2B SaaS in 2024?](https://dev.to/vindarel/is-elixir-or-common-lisp-the-best-language-for-building-a-bootstrapped-b2b-saas-in-2024-2ji0)
 - [Deep dive into K8s Probes](https://dev.to/sre_panchanan/deep-dive-into-k8s-probes-4fmk)
-- [Introducing Kaioken](https://dev.to/lankymoose/introducing-kaioken-23kj)
-- [What&#39;s Your New Favorite Productivity App?](https://dev.to/devteam/whats-your-new-favorite-productivity-app-5a04)
-- [What are React Server Actions?](https://dev.to/this-is-learning/what-are-react-server-actions-147o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
