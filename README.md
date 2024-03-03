@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Discovering Your Why: Finding Your Way to Thrive Early in Your Career](https://dev.to/alexr/discovering-your-why-finding-your-way-to-thrive-early-in-your-career-22j7)
 - [second the topic switch](https://dev.to/zafar7709/second-the-topic-switch-2hml)
+- [Training LLMs Taking Too Much Time? Technique you need to know to train it faster](https://dev.to/hexmos/training-llms-taking-too-much-time-technique-you-need-to-know-to-train-it-faster-3k8d)
+- [What is really an API? Examples, Code + History](https://dev.to/samuelkufre/what-is-really-an-api-examples-code-history-1e9g)
 - [Mastering Python: 6 Sneaky Tips Every Developer Should Know](https://dev.to/jagroop2001/mastering-python-6-sneaky-tips-every-developer-should-know-1g1h)
-- [VSCode Shortcuts](https://dev.to/parkerrobert/vscode-shortcuts-319g)
-- [Developing a React Native App from 0 to 1](https://dev.to/happyer/developing-a-react-native-app-from-0-to-1-1f8g)
-- [First topic the if else](https://dev.to/zafar7709/first-topic-the-if-else-11pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
