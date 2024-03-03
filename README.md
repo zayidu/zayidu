@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Where Will Life Take You in Five Years?](https://dev.to/devteam/where-will-life-take-you-in-five-years-3l2)
+- [RemoteWLB：A remote jobs aggregation board👨‍💻](https://dev.to/remotewlb/remotewlba-remote-jobs-aggregation-board-36kg)
 - [Digital Surveillance is good?](https://dev.to/snakeziin/digital-surveillance-is-good-55oj)
 - [Hey Devs , Lets code something usefull....](https://dev.to/rudransh61/hey-devs-lets-code-something-usefull-152g)
 - [10 Cool CodePen Demos &lpar;February 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-february-2024-1me5)
-- [Title: A Beginner&#39;s Guide to Command-Line File and Directory Manipulation](https://dev.to/mdadul/title-a-beginners-guide-to-command-line-file-and-directory-manipulation-51of)
-- [The State of Angular SSR Deployment in 2024](https://dev.to/jdgamble555/the-state-of-angular-ssr-deployment-in-2024-17jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
