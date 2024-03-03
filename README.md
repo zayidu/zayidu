@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Generative Language Models with AWS SageMaker and Hugging Face](https://dev.to/gokulsg/generative-language-models-with-aws-sagemaker-and-hugging-face-2p19)
+- [Building And Deploying A Subgraph &lpar;Part 2&rpar;](https://dev.to/oleanji/building-and-deploying-a-subgraph-part-2-4798)
 - [Let&#39;s talk of Reactive Architecture](https://dev.to/yokwejuste/lets-talk-of-reactive-architecture-1j60)
-- [Tools that Make Me Productive as a Software Engineer](https://dev.to/koladev/tools-that-make-me-productive-as-a-software-engineer-2dge)
-- [Um júnior e um teste técnico: The battle.](https://dev.to/clintonrocha98/um-junior-e-um-teste-tecnico-the-battle-4c5b)
-- [Azure Container Services: The Right Tool for Every Containerization Need](https://dev.to/theyasirr/azure-container-services-the-right-tool-for-every-containerization-need-1g1j)
-- [Terraform - Understanding Count and For_Each Loops](https://dev.to/pwd9000/terraform-understanding-count-and-foreach-loops-c6i)
+- [Things I learned while building my Component Library](https://dev.to/mathuraditya7/things-i-learned-while-building-my-component-library-1pmc)
+- [Gotta Code &#39;Em All: Pokémon-Inspired Strategies for Software Success](https://dev.to/dev3l/gotta-code-em-all-pokemon-inspired-strategies-for-software-success-6o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
