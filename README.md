@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Expo Push Notifications Transitioning to FCM V1 API 🔥](https://dev.to/mitchiemt11/expo-push-notifications-transitioning-to-fcm-v1-api-2j2m)
-- [create vs. save in Mongoose &lpar;MongoDB&rpar; with Node.js](https://dev.to/shameel/create-vs-save-in-mongoose-mongodb-with-nodejs-7d3)
-- [Jam of Javascript : 10 days 10 projects!🔥](https://dev.to/khushindpatel/jam-of-javascript-10-days-10-projects-3e5a)
-- [Understanding Redux: Solving State Management chaos](https://dev.to/margish288/understanding-redux-solving-state-management-chaos-84d)
-- [REST API Consumption with feTS: A Practical Guide to Type-Safe HTTP Clients](https://dev.to/franciscomendes10866/rest-api-consumption-a-practical-guide-to-type-safe-http-clients-3343)
+- [second the topic switch](https://dev.to/zafar7709/second-the-topic-switch-2hml)
+- [Mastering Python: 6 Sneaky Tips Every Developer Should Know](https://dev.to/jagroop2001/mastering-python-6-sneaky-tips-every-developer-should-know-1g1h)
+- [VSCode Shortcuts](https://dev.to/parkerrobert/vscode-shortcuts-319g)
+- [Developing a React Native App from 0 to 1](https://dev.to/happyer/developing-a-react-native-app-from-0-to-1-1f8g)
+- [First topic the if else](https://dev.to/zafar7709/first-topic-the-if-else-11pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
