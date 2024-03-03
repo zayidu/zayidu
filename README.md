@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Typed Objects in v-for - Vue3 with TypeScript](https://dev.to/schalkneethling/typed-objects-in-v-for-vue3-with-typescript-6l8)
+- [The Top AI Music Makers: Unveiling the Future of Music Production](https://dev.to/dariubs/the-top-ai-music-makers-unveiling-the-future-of-music-production-c2d)
+- [Frigg: Effortlessly Craft GitOps-Enabled Kubernetes Clusters on Any Cloud](https://dev.to/patricklaabs/frigg-effortlessly-craft-gitops-enabled-kubernetes-clusters-on-any-cloud-3e3g)
 - [Generative Language Models with AWS SageMaker and Hugging Face](https://dev.to/gokulsg/generative-language-models-with-aws-sagemaker-and-hugging-face-2p19)
 - [Building And Deploying A Subgraph &lpar;Part 2&rpar;](https://dev.to/oleanji/building-and-deploying-a-subgraph-part-2-4798)
-- [Let&#39;s talk of Reactive Architecture](https://dev.to/yokwejuste/lets-talk-of-reactive-architecture-1j60)
-- [Things I learned while building my Component Library](https://dev.to/mathuraditya7/things-i-learned-while-building-my-component-library-1pmc)
-- [Gotta Code &#39;Em All: Pokémon-Inspired Strategies for Software Success](https://dev.to/dev3l/gotta-code-em-all-pokemon-inspired-strategies-for-software-success-6o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
