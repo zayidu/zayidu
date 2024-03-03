@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Expo Push Notifications Transitioning to FCM V1 API 🔥](https://dev.to/mitchiemt11/expo-push-notifications-transitioning-to-fcm-v1-api-2j2m)
+- [create vs. save in Mongoose &lpar;MongoDB&rpar; with Node.js](https://dev.to/shameel/create-vs-save-in-mongoose-mongodb-with-nodejs-7d3)
 - [Jam of Javascript : 10 days 10 projects!🔥](https://dev.to/khushindpatel/jam-of-javascript-10-days-10-projects-3e5a)
 - [Understanding Redux: Solving State Management chaos](https://dev.to/margish288/understanding-redux-solving-state-management-chaos-84d)
 - [REST API Consumption with feTS: A Practical Guide to Type-Safe HTTP Clients](https://dev.to/franciscomendes10866/rest-api-consumption-a-practical-guide-to-type-safe-http-clients-3343)
-- [30 JavaScript Tricky Hacks](https://dev.to/mmainulhasan/30-javascript-tricky-hacks-gfc)
-- [Top 10 Security Best Practices we learned the hard way](https://dev.to/aws-builders/top-10-security-best-practices-we-learned-the-hard-way-3f55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
