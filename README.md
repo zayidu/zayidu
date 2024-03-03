@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform - Understanding Count and For_Each Loops](https://dev.to/pwd9000/terraform-understanding-count-and-foreach-loops-c6i)
+- [CXDI - Tutorials](https://dev.to/sh20raj1/cxdi-tutorials-2d5c)
+- [API Testing with Cypress - Part I](https://dev.to/m4rri4nne/api-testing-with-cypress-part-i-2k3i)
+- [CSS tips to avoid bad UX](https://dev.to/melnik909/css-tips-to-avoid-bad-ux-2b40)
 - [Discovering Your Why: Finding Your Way to Thrive Early in Your Career](https://dev.to/alexr/discovering-your-why-finding-your-way-to-thrive-early-in-your-career-22j7)
-- [second the topic switch](https://dev.to/zafar7709/second-the-topic-switch-2hml)
-- [Training LLMs Taking Too Much Time? Technique you need to know to train it faster](https://dev.to/hexmos/training-llms-taking-too-much-time-technique-you-need-to-know-to-train-it-faster-3k8d)
-- [What is really an API? Examples, Code + History](https://dev.to/samuelkufre/what-is-really-an-api-examples-code-history-1e9g)
-- [Mastering Python: 6 Sneaky Tips Every Developer Should Know](https://dev.to/jagroop2001/mastering-python-6-sneaky-tips-every-developer-should-know-1g1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
