@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Um júnior e um teste técnico: The battle.](https://dev.to/clintonrocha98/um-junior-e-um-teste-tecnico-the-battle-4c5b)
 - [Terraform - Understanding Count and For_Each Loops](https://dev.to/pwd9000/terraform-understanding-count-and-foreach-loops-c6i)
 - [CXDI - Tutorials](https://dev.to/sh20raj1/cxdi-tutorials-2d5c)
 - [API Testing with Cypress - Part I](https://dev.to/m4rri4nne/api-testing-with-cypress-part-i-2k3i)
 - [CSS tips to avoid bad UX](https://dev.to/melnik909/css-tips-to-avoid-bad-ux-2b40)
-- [Discovering Your Why: Finding Your Way to Thrive Early in Your Career](https://dev.to/alexr/discovering-your-why-finding-your-way-to-thrive-early-in-your-career-22j7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
