@@ -8,10 +8,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The State of Angular SSR Deployment in 2024](https://dev.to/jdgamble555/the-state-of-angular-ssr-deployment-in-2024-17jb)
+- [10 Django Projects Ideas for Beginners](https://dev.to/eaca89/10-django-projects-ideas-for-beginners-483f)
 - [Embrace that a Career isn’t always Measured by Climbing the Technology Ladder](https://dev.to/aws-builders/embrace-that-a-career-isnt-always-measured-by-climbing-the-technology-ladder-4p5b)
 - [How is your mental health right now?](https://dev.to/elliot_brenya/how-is-your-mental-health-right-now-25bj)
-- [Time to share your RSS feeds 🙌❤️](https://dev.to/thomasbnt/time-to-share-your-rss-feeds-4f28)
-- [Intro to stock analysis](https://dev.to/diegoga/intro-to-stock-analysis-43ga)
+- [Learn how to document JavaScript/TypeScript code using JSDoc &amp; Typedoc](https://dev.to/mirzaleka/learn-how-to-document-javascripttypescript-code-using-jsdoc-typedoc-359h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
