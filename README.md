@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s talk of Reactive Architecture](https://dev.to/yokwejuste/lets-talk-of-reactive-architecture-1j60)
+- [Tools that Make Me Productive as a Software Engineer](https://dev.to/koladev/tools-that-make-me-productive-as-a-software-engineer-2dge)
 - [Um júnior e um teste técnico: The battle.](https://dev.to/clintonrocha98/um-junior-e-um-teste-tecnico-the-battle-4c5b)
+- [Azure Container Services: The Right Tool for Every Containerization Need](https://dev.to/theyasirr/azure-container-services-the-right-tool-for-every-containerization-need-1g1j)
 - [Terraform - Understanding Count and For_Each Loops](https://dev.to/pwd9000/terraform-understanding-count-and-foreach-loops-c6i)
-- [CXDI - Tutorials](https://dev.to/sh20raj1/cxdi-tutorials-2d5c)
-- [API Testing with Cypress - Part I](https://dev.to/m4rri4nne/api-testing-with-cypress-part-i-2k3i)
-- [CSS tips to avoid bad UX](https://dev.to/melnik909/css-tips-to-avoid-bad-ux-2b40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
