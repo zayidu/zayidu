@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Passport With Google OAuth2](https://dev.to/ethand91/implementing-passport-with-google-oauth2-572g)
+- [Ensuring Reliability in Web Services: Mastering Idempotency in Node.js and JavaScript](https://dev.to/prabhuvikas/ensuring-reliability-in-web-services-mastering-idempotency-in-nodejs-and-javascript-31cf)
 - [Where Will Life Take You in Five Years?](https://dev.to/devteam/where-will-life-take-you-in-five-years-3l2)
+- [What is a Database? Everything you need to know](https://dev.to/annoh_karlgusta/what-is-a-database-everything-you-need-to-know-1e03)
 - [RemoteWLB：A remote jobs aggregation board👨‍💻](https://dev.to/remotewlb/remotewlba-remote-jobs-aggregation-board-36kg)
-- [Digital Surveillance is good?](https://dev.to/snakeziin/digital-surveillance-is-good-55oj)
-- [Hey Devs , Lets code something usefull....](https://dev.to/rudransh61/hey-devs-lets-code-something-usefull-152g)
-- [10 Cool CodePen Demos &lpar;February 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-february-2024-1me5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
