@@ -9,9 +9,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [REST API Consumption with feTS: A Practical Guide to Type-Safe HTTP Clients](https://dev.to/franciscomendes10866/rest-api-consumption-a-practical-guide-to-type-safe-http-clients-3343)
 - [30 JavaScript Tricky Hacks](https://dev.to/mmainulhasan/30-javascript-tricky-hacks-gfc)
+- [Top 10 Security Best Practices we learned the hard way](https://dev.to/aws-builders/top-10-security-best-practices-we-learned-the-hard-way-3f55)
 - [Implementing Passport With Google OAuth2](https://dev.to/ethand91/implementing-passport-with-google-oauth2-572g)
 - [Enhance Your Next.js or React.js Application with Froala Editor](https://dev.to/rohitashsingh89/enhance-your-nextjs-or-reactjs-application-with-froala-editor-1mal)
-- [Managing Logs with PM2 and pm2-logrotate](https://dev.to/mochafreddo/managing-logs-with-pm2-and-pm2-logrotate-1amc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
