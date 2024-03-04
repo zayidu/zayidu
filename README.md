@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflection on Tools, AI, and the Role of System Design](https://dev.to/shreyvijayvargiya/reflection-on-tools-ai-and-the-role-of-system-design-1ci4)
-- [Building a VoIP Network with Routr on DigitalOcean Kubernetes: Part I](https://dev.to/fonoster/building-a-voip-network-with-routr-on-digitalocean-kubernetes-part-i-f8n)
-- [Key derivation in .NET using HKDF](https://dev.to/asimmon/key-derivation-in-net-using-hkdf-2g36)
-- [Meteor v3 uses express under the hood – How to use and deploy it.](https://dev.to/meteor/meteor-v3-uses-express-under-the-hood-how-to-use-and-deploy-it-5c2n)
-- [Data Structures and Null Safety in Dart - Part 4](https://dev.to/sadanandgadwal/data-structures-and-null-safety-in-dart-part-4-1oih)
+- [💼 50 Tips to Land a Remote Tech Job Based on My 45-Day Journey to 2 Offers](https://dev.to/bigsondev/from-hundreds-of-cvs-sent-to-2-job-offers-my-50-golden-tips-for-landing-a-tech-job-in-15-months-41a9)
+- [Meme Monday](https://dev.to/ben/meme-monday-2j0b)
+- [FLaNK 04 March 2024](https://dev.to/tspannhw/flank-04-march-2024-4c2i)
+- [Cancelling asynchronous operations with AbortController](https://dev.to/schalkneethling/cancelling-asynchronous-operations-with-abortcontroller-22ef)
+- [Music Monday — What are you listening to? &lpar;Playlist Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-playlist-edition-2176)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
