@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Automate - Scripts with App Scripts](https://dev.to/wyattdave/power-automate-scripts-with-app-scripts-2l9)
-- [Product That I could never Publish, Unveiling Lessons from my failed attempts✨](https://dev.to/delisrey/product-that-i-could-never-publish-unveiling-lessons-from-my-failed-attempts-5ena)
-- [Xavier&#39;s Insight: Overcoming Data Hoarding Disorder](https://dev.to/balagmadhu/xaviers-insight-overcoming-data-hoarding-disorder-227m)
-- [Maximizing Score with Tokens - 948 - Bag of Tokens in Go](https://dev.to/shareef/maximizing-score-with-tokens-948-bag-of-tokens-in-go-2l8m)
-- [Master JavaScript with these 20 tricky yet effective hacks.](https://dev.to/srinureddy/master-javascript-with-these-20-tricky-yet-effective-hacks-c0c)
+- [AWS open source newsletter, #191](https://dev.to/aws/aws-open-source-newsletter-191-5cbb)
+- [Builiding a Live Audio Room - Flutter News 2024 #9 ʚїɞ](https://dev.to/lucianojung/flutter-news-2024-9-eyie-3ig1)
+- [Weekly Roundup 042 &lpar;Feb 26&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-042-feb-26-hot-topics-in-workplace-sharepoint-and-powerplatform-hf4)
+- [Did first open source contribution](https://dev.to/rahilisvahora/did-first-open-source-contribution-32b3)
+- [What&#39;s New in API7 Enterprise 3.2.2: Audit Logging](https://dev.to/apisix/whats-new-in-api7-enterprise-322-audit-logging-dn7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
