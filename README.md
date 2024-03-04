@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a great Developer Relations strategy](https://dev.to/danizeres/how-to-build-a-great-developer-relations-strategy-449a)
+- [Do you need a Tooltip or a Speech Bubble? I have created 100 using CSS 😲](https://dev.to/afif/do-you-need-a-tooltip-or-a-speech-bubble-i-have-created-100-using-css-2l17)
+- [🎙️ 7 Best Podcasts for Newbie Devs](https://dev.to/evergrowingdev/7-best-podcasts-for-newbie-devs-ngk)
 - [💼 50 Tips to Land a Remote Tech Job Based on My 45-Day Journey to 2 Offers](https://dev.to/bigsondev/from-hundreds-of-cvs-sent-to-2-job-offers-my-50-golden-tips-for-landing-a-tech-job-in-15-months-41a9)
-- [Meme Monday](https://dev.to/ben/meme-monday-2j0b)
-- [FLaNK 04 March 2024](https://dev.to/tspannhw/flank-04-march-2024-4c2i)
-- [Cancelling asynchronous operations with AbortController](https://dev.to/schalkneethling/cancelling-asynchronous-operations-with-abortcontroller-22ef)
-- [Music Monday — What are you listening to? &lpar;Playlist Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-playlist-edition-2176)
+- [Elevate Your Mobile Strategy: Hire Dedicated Android Developers](https://dev.to/binaryinformatics/elevate-your-mobile-strategy-hire-dedicated-android-developers-3h1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
