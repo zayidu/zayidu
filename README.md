@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2933)
+- [Accordion accessible y reutilizable solo con la etiqueta details y css](https://dev.to/micaavigliano/accordion-accessible-y-reutilizable-solo-con-la-etiqueta-details-y-css-3hb4)
+- [Handling files in enterprise web solutions](https://dev.to/denladeside/handling-files-in-enterprise-web-solutions-3mkc)
 - [Conceptual Model of React in the RSC age](https://dev.to/ondrejvelisek/conceptual-model-of-react-in-the-rsc-age-5bn5)
-- [Beyond console.log: Debugging Techniques in JavaScript](https://dev.to/clarity89/beyond-consolelog-debugging-techniques-in-javascript-7o0)
-- [My First 3 Months In Tech](https://dev.to/olibhiaghosh/my-first-3-months-in-tech-5fbb)
-- [How do I test and mock Standalone Components?](https://dev.to/this-is-angular/how-do-i-test-and-mock-standalone-components-508e)
-- [Learning Rust: Grasping the concepts](https://dev.to/link2twenty/learning-rust-grasping-the-concepts-okm)
+- [Unlock Your Full Learning Potential with Glasp: The Ultimate Study Tool](https://dev.to/ensamuel/unlock-your-full-learning-potential-with-glasp-the-ultimate-study-tool-4j7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
