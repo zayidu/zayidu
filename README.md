@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling General AI and LLMs: A Comprehensive Guide](https://dev.to/asadravian/unveiling-general-ai-and-llms-a-comprehensive-guide-m49)
 - [How I Write Clean Code As A Develeoper : Step By Step](https://dev.to/durgesh4993/how-i-write-clean-code-as-a-develeoper-step-by-step-5l9)
+- [AI Assistants as Engagement?](https://dev.to/cheetah100/ai-assistants-as-engagement-klk)
 - [Guide to building a side project — Without a Tutorial](https://dev.to/jcsmileyjr/guide-to-building-a-side-project-without-a-tutorial-34e6)
 - [Awk: A beginners guide for humans](https://dev.to/jpmcb/awk-a-beginners-guide-for-humans-3l25)
-- [Typed Objects in v-for - Vue3 with TypeScript](https://dev.to/schalkneethling/typed-objects-in-v-for-vue3-with-typescript-6l8)
-- [The Top AI Music Makers: Unveiling the Future of Music Production](https://dev.to/dariubs/the-top-ai-music-makers-unveiling-the-future-of-music-production-c2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
