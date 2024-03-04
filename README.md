@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Maximizing Score with Tokens - 948 - Bag of Tokens in Go](https://dev.to/shareef/maximizing-score-with-tokens-948-bag-of-tokens-in-go-2l8m)
 - [Master JavaScript with these 20 tricky yet effective hacks.](https://dev.to/srinureddy/master-javascript-with-these-20-tricky-yet-effective-hacks-c0c)
 - [Serverless APIs: Auto-Generate OpenAPI Docs &amp; CI/CD Protections](https://dev.to/aws-heroes/serverless-apis-auto-generate-openapi-docs-cicd-protections-4m3n)
 - [JS Toolbox 2024: Essential Picks for Modern Developers Series Overview](https://dev.to/olwiba/js-toolbox-2024-essential-picks-for-modern-developers-series-overview-5cd1)
 - [JS Toolbox 2024: Bundlers and Test Frameworks](https://dev.to/olwiba/js-toolbox-2024-bundlers-and-test-frameworks-30f9)
-- [Why learning digital marketing can make you a be better software engineer](https://dev.to/mctn6/why-learning-digital-marketing-can-make-you-a-better-software-engineer-2o8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
