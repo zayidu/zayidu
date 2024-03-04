@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a great Developer Relations strategy](https://dev.to/danizeres/how-to-build-a-great-developer-relations-strategy-449a)
-- [Do you need a Tooltip or a Speech Bubble? I have created 100 using CSS 😲](https://dev.to/afif/do-you-need-a-tooltip-or-a-speech-bubble-i-have-created-100-using-css-2l17)
-- [🎙️ 7 Best Podcasts for Newbie Devs](https://dev.to/evergrowingdev/7-best-podcasts-for-newbie-devs-ngk)
-- [💼 50 Tips to Land a Remote Tech Job Based on My 45-Day Journey to 2 Offers](https://dev.to/bigsondev/from-hundreds-of-cvs-sent-to-2-job-offers-my-50-golden-tips-for-landing-a-tech-job-in-15-months-41a9)
-- [Elevate Your Mobile Strategy: Hire Dedicated Android Developers](https://dev.to/binaryinformatics/elevate-your-mobile-strategy-hire-dedicated-android-developers-3h1e)
+- [Learning Rust: Grasping the concepts](https://dev.to/link2twenty/learning-rust-grasping-the-concepts-okm)
+- [How to Upload Files to Amazon S3 with React and AWS SDK](https://dev.to/aws-builders/how-to-upload-files-to-amazon-s3-with-react-and-aws-sdk-b0n)
+- [🔔Daily Automated Email Updates: Track Your GitHub Followers Effortlessly!](https://dev.to/sumonta056/daily-automated-email-updates-track-your-github-followers-effortlessly-2b04)
+- [Improving productivity in coding and development workflows....!!!](https://dev.to/jayeshpansuriya/improving-productivity-in-coding-and-development-workflows-23bg)
+- [Excited to Announce ServBay v1.2.3 is Out Now](https://dev.to/servbay/excited-to-announce-servbay-v123-is-out-now-a5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
