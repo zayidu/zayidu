@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Anatomy of a Stellar Landing Page Experience](https://dev.to/hyscaler/unveiling-the-anatomy-of-a-stellar-landing-page-experience-1d34)
+- [Unlock the Future: Your Web App With ChatGPT, React JS, and Node.js ⚛️ 🔥 🚀](https://dev.to/nluxai/unlock-the-future-your-web-app-with-chatgpt-react-js-and-nodejs-23on)
+- [What are the best and worst things about your favorite programming language?](https://dev.to/ben/what-are-the-best-and-worst-things-about-your-favorite-programming-language-1o95)
+- [Elanat Competes with Microsoft; CodeBehind 2.4 Released](https://dev.to/elanatframework/elanat-competes-with-microsoft-codebehind-24-released-54mc)
 - [Three heavy metal songs that will teach you about privacy.](https://dev.to/bogomil/three-heavy-metal-songs-that-will-teach-you-about-privacy-298g)
 - [How to Understand a Large Codebase Like a Pro](https://dev.to/jitendrachoudhary/how-to-understand-a-large-codebase-like-a-pro-hmb)
-- [How to Increase Partition Size on an AWS Instance](https://dev.to/walternascimentobarroso/how-to-increase-partition-size-on-an-aws-instance-35g8)
-- [Decoding Historical Forex Data](https://dev.to/shridhargv/decoding-historical-forex-data-4l81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
