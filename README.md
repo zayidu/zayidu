@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master detail is now available in Infinite React DataGrid](https://dev.to/radubrehar/master-detail-is-now-available-in-infinite-react-datagrid-5fe1)
-- [Skill issue: How to Master anything 10x faster, without looking stupid](https://dev.to/drpraze/skill-issue-how-to-master-anything-10x-faster-without-looking-stupid-2hj4)
-- [Next.js: App Router vs Pages Router](https://dev.to/dcs_ink/nextjs-app-router-vs-pages-router-3p57)
-- [Improve your learning with Glasp: A Comprehensive Guide.](https://dev.to/backendbro/improve-your-learning-with-glasp-a-comprehensive-guide-337a)
-- [Protect Your AWS EC2 Private Key with a Yubico Static Password](https://dev.to/eflintdev/protect-your-aws-ec2-private-key-with-a-yubico-static-password-1oi)
+- [Unveiling the Anatomy of a Stellar Landing Page Experience](https://dev.to/hyscaler/unveiling-the-anatomy-of-a-stellar-landing-page-experience-1d34)
+- [Three heavy metal songs that will teach you about privacy.](https://dev.to/bogomil/three-heavy-metal-songs-that-will-teach-you-about-privacy-298g)
+- [How to Understand a Large Codebase Like a Pro](https://dev.to/jitendrachoudhary/how-to-understand-a-large-codebase-like-a-pro-hmb)
+- [How to Increase Partition Size on an AWS Instance](https://dev.to/walternascimentobarroso/how-to-increase-partition-size-on-an-aws-instance-35g8)
+- [Decoding Historical Forex Data](https://dev.to/shridhargv/decoding-historical-forex-data-4l81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
