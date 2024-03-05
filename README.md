@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Infrastructure As Code on AWS made simpler](https://dev.to/jekobokidou/infrastructure-as-code-on-aws-made-simpler-3gm)
+- [Giving your app a temporary public URL with VS Code port forwarding](https://dev.to/codepo8/giving-your-app-a-temporary-public-url-with-vs-code-port-forwarding-177c)
 - [We Might Be Different Kind of Developers](https://dev.to/aslemammad/we-might-be-different-kind-of-developers-2df4)
 - [What is Vinxi, and how does it compare to Vike?](https://dev.to/this-is-learning/what-is-vinxi-and-how-does-it-compare-to-vike-4883)
 - [Becoming an AWS and Google Authorised Trainer](https://dev.to/aws-builders/becoming-an-aws-and-google-authorised-trainer-407j)
-- [Styling a CSS pseudo-element with JavaScript](https://dev.to/cassidoo/styling-a-css-pseudo-element-with-javascript-1dip)
-- [Important efficiency lessons when writing for devs! ✍️](https://dev.to/developuls/important-efficiency-lessons-when-writing-for-devs-3d85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
