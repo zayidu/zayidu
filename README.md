@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Persistence Volume Deep Dive](https://dev.to/sre_panchanan/kubernetes-persistence-volume-deep-dive-1lbn)
-- [Artificial intelligence to minimize pet insurance waiting periods](https://dev.to/abtosoftware/artificial-intelligence-to-minimize-pet-insurance-waiting-periods-55f1)
-- [Decoding the Matrix: The Evolution of Environment Variables in Software](https://dev.to/rannn505/decoding-the-matrix-the-evolution-of-environment-variables-in-software-31pm)
-- [Giving my old Chromebook a second life with Fedora](https://dev.to/mauricebrg/giving-my-old-chromebook-a-second-life-with-fedora-1e1e)
-- [Protocols and how they work](https://dev.to/nikolai1312/protocols-and-how-they-work-46cd)
+- [How Can You Prioritize What Matters Most Outside of Work?](https://dev.to/devteam/how-can-you-prioritize-what-matters-most-outside-of-work-4kpj)
+- [Unlocking the frontend – a call for standardizing component APIs pt.2](https://dev.to/kickstartds/unlocking-the-frontend-a-call-for-standardizing-component-apis-pt2-e77)
+- [How to Run C Code Online: A Quick and Easy Guide for Beginners](https://dev.to/meenakshi052003/how-to-run-c-code-online-a-quick-and-easy-guide-for-beginners-dji)
+- [Debugging Using JMX Revisited](https://dev.to/codenameone/debugging-using-jmx-revisited-17ec)
+- [This is your sign&lpar;al&rpar; to try TanStack Query &amp; Angular](https://dev.to/this-is-angular/this-is-your-signal-to-try-tanstack-query-angular-35m9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
