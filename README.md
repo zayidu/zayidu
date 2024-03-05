@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflection In C#: 4 Simple But Powerful Code Examples](https://dev.to/devleader/reflection-in-c-4-simple-but-powerful-code-examples-l85)
+- [Simplify Configuration Management for Efficient Cloud Operations](https://dev.to/nwhitmont/simplify-configuration-management-for-efficient-cloud-operations-3g1h)
 - [Generating Random Numbers Between 1 and 100 in Java](https://dev.to/meenakshi052003/generating-random-numbers-between-1-and-100-in-java-i3b)
+- [Setup Qemu in Debian Linux](https://dev.to/d0we007/setup-qemu-in-debian-linux-3fn0)
 - [Building a WhatsApp generative AI assistant with Amazon Bedrock and Python](https://dev.to/aws/building-a-whatsapp-generative-ai-assistant-with-amazon-bedrock-and-python-3gd5)
-- [Not Even Apple Can Kill the PWA](https://dev.to/magnificode/not-even-apple-can-kill-the-pwa-13j0)
-- [Claude 3: Navigating the Future of Conversational AI with Anthropic](https://dev.to/dariubs/claude-3-navigating-the-future-of-conversational-ai-with-anthropic-4k1h)
-- [How Can You Prioritize What Matters Most Outside of Work?](https://dev.to/devteam/how-can-you-prioritize-what-matters-most-outside-of-work-4kpj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
