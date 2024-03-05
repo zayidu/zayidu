@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Actually, you will never be able to master Python](https://dev.to/esproc_spl/actually-you-will-never-be-able-to-master-python-3243)
 - [Running custom Artisan commands with Supervisor](https://dev.to/geoligard/running-custom-artisan-commands-with-supervisor-p1k)
 - [I don&#39;t get the point of Golang - That&#39;s why I need help](https://dev.to/lucaschitolina/i-dont-get-the-point-of-golang-thats-why-i-need-help-2f7j)
 - [Scaling GraphQL Subscriptions in Go with Epoll and Event Driven Architecture](https://dev.to/slickstef11/scaling-graphql-subscriptions-in-go-with-epoll-and-event-driven-architecture-4i7)
 - [Coding vs Programming vs Development - Differences](https://dev.to/gabu229/coding-vs-programming-vs-development-differences-3ap1)
-- [Angular - Faire un Interceptor pour vos requêtes HTTP.](https://dev.to/theobourdel/angular-faire-un-interceptor-pour-vos-requetes-http-1kdj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
