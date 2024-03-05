@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Taipy 3.1: A new era of visualization and data management](https://dev.to/taipy/taipy-31-a-new-era-of-visualization-and-data-management-1abg)
-- [Top 4 Open Source Alternatives to Zapier](https://dev.to/stan8086/top-4-open-source-alternatives-to-zapier-43bp)
-- [7 Programming Languages Every Cloud Engineer Should Know in 2024!](https://dev.to/pavanbelagatti/7-programming-languages-every-cloud-engineer-should-know-in-2024-1kcd)
-- [Tableau Dashboard](https://dev.to/kammarianand/tableau-dashboard-31e2)
-- [WIFI32](https://dev.to/sypher/wifi32-3cn6)
+- [Master detail is now available in Infinite React DataGrid](https://dev.to/radubrehar/master-detail-is-now-available-in-infinite-react-datagrid-5fe1)
+- [Skill issue: How to Master anything 10x faster, without looking stupid](https://dev.to/drpraze/skill-issue-how-to-master-anything-10x-faster-without-looking-stupid-2hj4)
+- [Next.js: App Router vs Pages Router](https://dev.to/dcs_ink/nextjs-app-router-vs-pages-router-3p57)
+- [Improve your learning with Glasp: A Comprehensive Guide.](https://dev.to/backendbro/improve-your-learning-with-glasp-a-comprehensive-guide-337a)
+- [Protect Your AWS EC2 Private Key with a Yubico Static Password](https://dev.to/eflintdev/protect-your-aws-ec2-private-key-with-a-yubico-static-password-1oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
