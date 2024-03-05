@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 4 Open Source Alternatives to Zapier](https://dev.to/stan8086/top-4-open-source-alternatives-to-zapier-43bp)
+- [7 Programming Languages Every Cloud Engineer Should Know in 2024!](https://dev.to/pavanbelagatti/7-programming-languages-every-cloud-engineer-should-know-in-2024-1kcd)
+- [Tableau Dashboard](https://dev.to/kammarianand/tableau-dashboard-31e2)
+- [WIFI32](https://dev.to/sypher/wifi32-3cn6)
 - [Developing a Flutter App from 0 to 1](https://dev.to/happyer/developing-a-flutter-app-from-0-to-1-35dp)
-- [Empowering Cloud-Native Platforms: The Synergy of KCL and Crossplane](https://dev.to/peefy/empowering-cloud-native-platforms-the-synergy-of-kcl-and-crossplane-3dgd)
-- [The Power of Daily Planning and Emojis! 🚀📅](https://dev.to/madzimai/the-power-of-daily-planning-and-emojis-43fg)
-- [✨ Introducing Publish Studio](https://dev.to/itsrakesh/introducing-publish-studio-1403)
-- [AWS Arsenal: An array of Cloud Services](https://dev.to/web3vicky/aws-arsenal-an-array-of-cloud-services-4k1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
