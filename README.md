@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Infrastructure As Code on AWS made simpler](https://dev.to/jekobokidou/infrastructure-as-code-on-aws-made-simpler-3gm)
+- [How to deploy a Filament app](https://dev.to/serverauth/how-to-deploy-a-filament-app-21i2)
+- [Celebrando un hitó nuevo: Mi viaje hacia el Programa Microsoft MVP](https://dev.to/danieljsaldana/celebrando-un-hito-nuevo-mi-viaje-hacia-el-programa-microsoft-mvp-4kfa)
+- [ORM vs Pure SQL: Which to Choose?](https://dev.to/marmariadev/orm-vs-no-orm-which-to-choose-49e5)
+- [ORM vs SQL Puro: ¿Cuál Elegir?](https://dev.to/marmariadev/orm-vs-no-orm-cual-elegir-2j91)
 - [Giving your app a temporary public URL with VS Code port forwarding](https://dev.to/codepo8/giving-your-app-a-temporary-public-url-with-vs-code-port-forwarding-177c)
-- [We Might Be Different Kind of Developers](https://dev.to/aslemammad/we-might-be-different-kind-of-developers-2df4)
-- [What is Vinxi, and how does it compare to Vike?](https://dev.to/this-is-learning/what-is-vinxi-and-how-does-it-compare-to-vike-4883)
-- [Becoming an AWS and Google Authorised Trainer](https://dev.to/aws-builders/becoming-an-aws-and-google-authorised-trainer-407j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
