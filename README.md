@@ -8,10 +8,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [I don&#39;t get the point of Golang - That&#39;s why I need help](https://dev.to/lucaschitolina/i-dont-get-the-point-of-golang-thats-why-i-need-help-2f7j)
+- [Scaling GraphQL Subscriptions in Go with Epoll and Event Driven Architecture](https://dev.to/slickstef11/scaling-graphql-subscriptions-in-go-with-epoll-and-event-driven-architecture-4i7)
 - [Coding vs Programming vs Development - Differences](https://dev.to/gabu229/coding-vs-programming-vs-development-differences-3ap1)
 - [Angular - Faire un Interceptor pour vos requêtes HTTP.](https://dev.to/theobourdel/angular-faire-un-interceptor-pour-vos-requetes-http-1kdj)
 - [DNS -The gatekeeper 24/7 of the internet - Part 1](https://dev.to/locnguyenpv/dns-the-gatekeeper-247-of-the-internet-part-1-282k)
-- [como rodar um projeto Expo por um Virtual Device no WSL](https://dev.to/devhat/como-rodar-um-projeto-expo-por-um-virtual-device-no-wsl-2i16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
