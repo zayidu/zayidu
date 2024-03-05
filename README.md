@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Important efficiency lessons when writing for devs! ✍️](https://dev.to/developuls/important-efficiency-lessons-when-writing-for-devs-3d85)
+- [Collaborate, Conquer, &amp; Grow: Mastering the Art of Issue Management for Open Source Projects](https://dev.to/opensauced/collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects-49gi)
+- [Python 3 + FastAPI + MongoDB](https://dev.to/programadriano/python-3-fastapi-mongodb-p1j)
 - [SQL vs NoSQL: Which to Choose?](https://dev.to/marmariadev/sql-vs-nosql-which-to-choose-4068)
-- [Why Linux 6.8 Networking Updates are a Big Deal](https://dev.to/alex_escalante/why-linux-68-networking-updates-are-a-big-deal-177f)
-- [pyaction 4.29.0 Released](https://dev.to/cicirello/pyaction-4290-released-4hj5)
-- [UX Crash Course: Usability Heuristics](https://dev.to/kathryngrayson/ux-crash-course-usability-heuristics-1b3d)
-- [Rapyd Bytes: Python CLI Create Payment and Retrieve Payment](https://dev.to/rapyd/rapyd-bytes-python-cli-create-payment-and-retrieve-payment-2ch)
+- [SQL vs NoSQL: ¿Cuál Elegir?](https://dev.to/marmariadev/sql-vs-nosql-cual-elegir-14o1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
