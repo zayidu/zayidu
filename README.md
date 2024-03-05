@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [I don&#39;t get the point of Golang - That&#39;s why I need help](https://dev.to/lucaschitolina/i-dont-get-the-point-of-golang-thats-why-i-need-help-2f7j)
+- [Coding vs Programming vs Development - Differences](https://dev.to/gabu229/coding-vs-programming-vs-development-differences-3ap1)
 - [Angular - Faire un Interceptor pour vos requêtes HTTP.](https://dev.to/theobourdel/angular-faire-un-interceptor-pour-vos-requetes-http-1kdj)
 - [DNS -The gatekeeper 24/7 of the internet - Part 1](https://dev.to/locnguyenpv/dns-the-gatekeeper-247-of-the-internet-part-1-282k)
-- [Como Configurar o Expo no WSL](https://dev.to/devhat/como-configurar-o-expo-no-wsl-bo3)
 - [como rodar um projeto Expo por um Virtual Device no WSL](https://dev.to/devhat/como-rodar-um-projeto-expo-por-um-virtual-device-no-wsl-2i16)
-- [Next.js 14 Intercepting Routes with Dynamic Routes](https://dev.to/alaa-m1/nextjs-14-intercepting-routes-with-dynamic-routes-56d4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
