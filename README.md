@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [We Might Be Different Kind of Developers](https://dev.to/aslemammad/we-might-be-different-kind-of-developers-2df4)
+- [What is Vinxi, and how does it compare to Vike?](https://dev.to/this-is-learning/what-is-vinxi-and-how-does-it-compare-to-vike-4883)
+- [Becoming an AWS and Google Authorised Trainer](https://dev.to/aws-builders/becoming-an-aws-and-google-authorised-trainer-407j)
+- [Styling a CSS pseudo-element with JavaScript](https://dev.to/cassidoo/styling-a-css-pseudo-element-with-javascript-1dip)
 - [Important efficiency lessons when writing for devs! ✍️](https://dev.to/developuls/important-efficiency-lessons-when-writing-for-devs-3d85)
-- [Collaborate, Conquer, &amp; Grow: Mastering the Art of Issue Management for Open Source Projects](https://dev.to/opensauced/collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects-49gi)
-- [Python 3 + FastAPI + MongoDB](https://dev.to/programadriano/python-3-fastapi-mongodb-p1j)
-- [SQL vs NoSQL: Which to Choose?](https://dev.to/marmariadev/sql-vs-nosql-which-to-choose-4068)
-- [SQL vs NoSQL: ¿Cuál Elegir?](https://dev.to/marmariadev/sql-vs-nosql-cual-elegir-14o1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
