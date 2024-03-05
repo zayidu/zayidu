@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Developing a Flutter App from 0 to 1](https://dev.to/happyer/developing-a-flutter-app-from-0-to-1-35dp)
+- [Empowering Cloud-Native Platforms: The Synergy of KCL and Crossplane](https://dev.to/peefy/empowering-cloud-native-platforms-the-synergy-of-kcl-and-crossplane-3dgd)
+- [The Power of Daily Planning and Emojis! 🚀📅](https://dev.to/madzimai/the-power-of-daily-planning-and-emojis-43fg)
 - [✨ Introducing Publish Studio](https://dev.to/itsrakesh/introducing-publish-studio-1403)
 - [AWS Arsenal: An array of Cloud Services](https://dev.to/web3vicky/aws-arsenal-an-array-of-cloud-services-4k1o)
-- [6 System Design Interview Problems for Practice](https://dev.to/somadevtoo/6-system-design-interview-problems-for-practice-4fl8)
-- [Actually, you will never be able to master Python](https://dev.to/esproc_spl/actually-you-will-never-be-able-to-master-python-3243)
-- [Master Real-Time Fraud Detection with Azure Stream Analytics](https://dev.to/balramprasad/master-real-time-fraud-detection-with-azure-stream-analytics-38d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
