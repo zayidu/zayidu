@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Taipy 3.1: A new era of visualization and data management](https://dev.to/taipy/taipy-31-a-new-era-of-visualization-and-data-management-1abg)
 - [Top 4 Open Source Alternatives to Zapier](https://dev.to/stan8086/top-4-open-source-alternatives-to-zapier-43bp)
 - [7 Programming Languages Every Cloud Engineer Should Know in 2024!](https://dev.to/pavanbelagatti/7-programming-languages-every-cloud-engineer-should-know-in-2024-1kcd)
 - [Tableau Dashboard](https://dev.to/kammarianand/tableau-dashboard-31e2)
 - [WIFI32](https://dev.to/sypher/wifi32-3cn6)
-- [Getting started with asynchronous PHP using ReactPHP](https://dev.to/honeybadger/getting-started-with-asynchronous-php-using-reactphp-49b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
