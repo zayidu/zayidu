@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflection In C#: 4 Simple But Powerful Code Examples](https://dev.to/devleader/reflection-in-c-4-simple-but-powerful-code-examples-l85)
-- [Simplify Configuration Management for Efficient Cloud Operations](https://dev.to/nwhitmont/simplify-configuration-management-for-efficient-cloud-operations-3g1h)
-- [Generating Random Numbers Between 1 and 100 in Java](https://dev.to/meenakshi052003/generating-random-numbers-between-1-and-100-in-java-i3b)
-- [Setup Qemu in Debian Linux](https://dev.to/d0we007/setup-qemu-in-debian-linux-3fn0)
-- [Building a WhatsApp generative AI assistant with Amazon Bedrock and Python](https://dev.to/aws/building-a-whatsapp-generative-ai-assistant-with-amazon-bedrock-and-python-3gd5)
+- [SQL vs NoSQL: Which to Choose?](https://dev.to/marmariadev/sql-vs-nosql-which-to-choose-4068)
+- [Why Linux 6.8 Networking Updates are a Big Deal](https://dev.to/alex_escalante/why-linux-68-networking-updates-are-a-big-deal-177f)
+- [pyaction 4.29.0 Released](https://dev.to/cicirello/pyaction-4290-released-4hj5)
+- [UX Crash Course: Usability Heuristics](https://dev.to/kathryngrayson/ux-crash-course-usability-heuristics-1b3d)
+- [Rapyd Bytes: Python CLI Create Payment and Retrieve Payment](https://dev.to/rapyd/rapyd-bytes-python-cli-create-payment-and-retrieve-payment-2ch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
