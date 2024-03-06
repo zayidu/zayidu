@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [23 Best VS Code Themes in 2024](https://dev.to/ikoichi/23-best-vs-code-themes-in-2024-45g1)
-- [+10 Resources to Empower Women in Technology](https://dev.to/marisogo/10-resources-to-empower-women-in-technology-2m6n)
-- [Mastering Productivity with Apple’s iWork Suite](https://dev.to/stan8086/mastering-productivity-with-apples-iwork-suite-325o)
-- [Test automation for AutoCAD Web using Playwright and visual comparison](https://dev.to/chavus/test-automation-for-autocad-web-using-playwright-and-visual-comparison-1kfk)
-- [A Beginner-Friendly Illustrated Guide to Verifiable Credentials](https://dev.to/tbdevs/the-illustrated-beginners-guide-to-cryptographic-identity-verification-51f0)
+- [Stream LLM Responses from Cache](https://dev.to/portkey/stream-llm-responses-from-cache-5f5o)
+- [C++ Урок #2](https://dev.to/islombek/urok-2-25j7)
+- [Open Source Models for your next AI use-case](https://dev.to/portkey/open-source-models-for-your-next-ai-use-case-4le6)
+- [C++ Урок #1](https://dev.to/islombek/c-piervyi-urok-2l46)
+- [Иерархия коллекций в Java](https://dev.to/faangmaster/iierarkhiia-kolliektsii-v-java-1b6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
