@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How We MVP Organic Traffic As A Lead Gen Channel](https://dev.to/daedtech/how-we-mvp-organic-traffic-as-a-lead-gen-channel-5gam)
+- [Guided Tours Solution for Your Web Application](https://dev.to/rprabhu/guided-tours-solution-for-your-web-application-4cja)
+- [Flight slider - HTML+CSS](https://dev.to/longjumpingfile/flight-slider-htmlcss-5de)
 - [Writing RFCs](https://dev.to/carloscuesta/writing-rfcs-2mb5)
 - [Top Paying Programming Technologies 2024](https://dev.to/brojenuel/top-paying-programming-technologies-2024-5dmf)
-- [Tailwind | Custom Plugins](https://dev.to/shubhamtiwari909/tailwind-custom-plugins-1159)
-- [Birinchi Dars C++ kirish](https://dev.to/zafar7709/birinchi-dars-c-kirish-4666)
-- [C++](https://dev.to/sunnat2009/c-3ed9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
