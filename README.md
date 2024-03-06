@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Interactive Data Visualizations with D3.js](https://dev.to/webjoe/creating-interactive-data-visualizations-with-d3js-2i08)
+- [Local automation](https://dev.to/aws-builders/local-automation-1hb4)
+- [Vue3: how to declare reactive states](https://dev.to/sucodelarangela/vue3-how-to-declare-reactive-states-18hc)
 - [Introduction to Cloud Computing: The Models, Benefits, Risks, Implementation and Popular Tools](https://dev.to/oluwatobi2001/introduction-to-cloud-computing-the-models-benefits-risks-implementation-and-popular-tools-2loh)
 - [Empowering Growth: Lessons Learned After 9 Years of Coding](https://dev.to/ritaly/empowering-growth-lessons-learned-after-9-years-of-coding-5ec1)
-- [Feminism is About Equality](https://dev.to/michaeltharrington/feminism-is-about-equality-hb5)
-- [Ending the war or continuing it? Let&#39;s bring functional programming to OOP codebases](https://dev.to/cherryramatis/ending-the-war-or-continuing-it-lets-bring-functional-programming-to-oop-codebases-3mhd)
-- [The Importance Of Documentation](https://dev.to/olibhiaghosh/the-importance-of-documentation-527m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
