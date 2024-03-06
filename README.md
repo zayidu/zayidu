@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring Snapshot Tests in Playwright](https://dev.to/mikestopcontinues/configuring-snapshot-tests-in-playwright-c14)
 - [Welcome Thread - v266](https://dev.to/devteam/welcome-thread-v266-gkf)
+- [Configuring Snapshot Tests in Playwright](https://dev.to/mikestopcontinues/configuring-snapshot-tests-in-playwright-c14)
+- [Day 920 : Request](https://dev.to/dwane/day-920-request-1g0i)
 - [Announcing TechSchool: A free and open-source platform to learn programming](https://dev.to/danielbergholz/announcing-techschool-a-free-and-open-source-platform-to-learn-programming-47fk)
 - [The value of live web design](https://dev.to/huijing/the-value-of-live-web-design-2b32)
-- [How to deploy a Filament app](https://dev.to/serverauth/how-to-deploy-a-filament-app-21i2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
