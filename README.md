@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [AI vs. ML vs. DL vs. DS: A Layman&#39;s Guide](https://dev.to/thenomadevel/ai-vs-ml-vs-dl-vs-ds-a-laymans-guide-355a)
+- [Firebase vs Supabase](https://dev.to/codeparrot/firebase-vs-supabase-4770)
+- [Building a SQL Expert Bot: A Step-by-Step Guide with Vercel AI SDK and OpenAI API](https://dev.to/sachinchaurasiya/building-a-sql-expert-bot-a-step-by-step-guide-with-vercel-ai-sdk-and-openai-api-2oap)
 - [Statistical Essentials for Data Analysts: A Beginner&#39;s Guide](https://dev.to/kammarianand/statistical-essentials-for-data-analysts-a-beginners-guide-3l17)
-- [Outsourcing vs Automation: Which is Best for Small Business?](https://dev.to/abacusdatasys/outsourcing-vs-automation-which-is-best-for-small-business-177b)
-- [Como configurar Prettier y no morir en el intento, extensiones de VSCode que te ayudarán 🤯](https://dev.to/mgeovany/como-configurar-prettier-y-no-morir-en-el-intento-extensiones-de-vscode-que-te-ayudaran-56o2)
-- [Next.js: The Future Of React?](https://dev.to/arjuncodess/nextjs-the-future-of-react-2cmc)
-- [Building a flat-file CMS with Angular](https://dev.to/peterrauscher/building-a-flat-file-cms-with-angular-5f57)
+- [How To Create a Table of Contents to your Dev.to article](https://dev.to/cbid2/how-to-create-a-table-of-contents-to-your-devto-article-19p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
