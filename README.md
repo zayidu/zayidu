@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Nail the Elevator Pitch](https://dev.to/evansifyke/how-to-nail-the-elevator-pitch-55la)
+- [Lost in Tabs? What&#39;s Your Strategy for Focus?](https://dev.to/devteam/lost-in-tabs-whats-your-strategy-for-focus-1kdb)
+- [Removing &quot;✨ Done in X.XXs.&quot; with Yarn](https://dev.to/koseimori/removing-done-in-xxxs-with-yarn-2map)
 - [How I Extract Data From My Medium Stories](https://dev.to/oscarleo/how-i-extract-data-from-my-medium-stories-5d9n)
-- [How to get TLS from any location using Globalping](https://dev.to/globalping/how-to-get-tls-from-any-location-using-globalping-1ofn)
-- [What is Workflow Automation? The Essence and Evolution of Workflow Automation](https://dev.to/stan8086/what-is-workflow-automation-the-essence-and-evolution-of-workflow-automation-1n13)
-- [How We MVP Organic Traffic As A Lead Gen Channel](https://dev.to/daedtech/how-we-mvp-organic-traffic-as-a-lead-gen-channel-5gam)
-- [Guided Tours Solution for Your Web Application](https://dev.to/rprabhu/guided-tours-solution-for-your-web-application-4cja)
+- [my status rn](https://dev.to/nganhhtuann/my-status-rn-623)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
