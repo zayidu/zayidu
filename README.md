@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Birinchi mavzu if va else](https://dev.to/zafar7709/birinchi-mavzu-if-va-else-398k)
-- [ProductHunt is a Pump&#39;n&#39;Dump Scheme](https://dev.to/polterguy/producthunt-is-a-pumpndump-scheme-499i)
+- [7 Web Development Stacks You Should Know in 2024!](https://dev.to/pavanbelagatti/7-web-development-stacks-you-should-know-in-2024-25eb)
+- [Bun-ify Your Project](https://dev.to/beau-to/bun-ify-your-project-544i)
+- [Material UI vs. Chakra UI: Which One to Choose?](https://dev.to/codeparrot/material-ui-vs-chakra-ui-which-one-to-choose-14f4)
 - [Being a First-Time Mom in Developer Relations](https://dev.to/vonagedev/being-a-first-time-mom-in-developer-relations-549n)
 - [Stream LLM Responses from Cache](https://dev.to/portkey/stream-llm-responses-from-cache-5f5o)
-- [C++ Урок #2](https://dev.to/islombek/urok-2-25j7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
