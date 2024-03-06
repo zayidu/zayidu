@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Cloud Computing: The Models, Benefits, Risks, Implementation and Popular Tools](https://dev.to/oluwatobi2001/introduction-to-cloud-computing-the-models-benefits-risks-implementation-and-popular-tools-2loh)
+- [Empowering Growth: Lessons Learned After 9 Years of Coding](https://dev.to/ritaly/empowering-growth-lessons-learned-after-9-years-of-coding-5ec1)
+- [Feminism is About Equality](https://dev.to/michaeltharrington/feminism-is-about-equality-hb5)
 - [Ending the war or continuing it? Let&#39;s bring functional programming to OOP codebases](https://dev.to/cherryramatis/ending-the-war-or-continuing-it-lets-bring-functional-programming-to-oop-codebases-3mhd)
 - [The Importance Of Documentation](https://dev.to/olibhiaghosh/the-importance-of-documentation-527m)
-- [WMI ve Uzaktan Erişim](https://dev.to/aciklab/wmi-ve-uzaktan-erisim-1hg2)
-- [How to undo a git push](https://dev.to/sankeeth/how-to-undo-a-git-push-7m6)
-- [Using Postgres with Docker on a Mac](https://dev.to/rudolfolah/using-postgres-with-docker-on-a-mac-5633)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
