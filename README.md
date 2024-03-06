@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Outsourcing vs Automation: Which is Best for Small Business?](https://dev.to/abacusdatasys/outsourcing-vs-automation-which-is-best-for-small-business-177b)
+- [Como configurar Prettier y no morir en el intento, extensiones de VSCode que te ayudarán 🤯](https://dev.to/mgeovany/como-configurar-prettier-y-no-morir-en-el-intento-extensiones-de-vscode-que-te-ayudaran-56o2)
 - [Next.js: The Future Of React?](https://dev.to/arjuncodess/nextjs-the-future-of-react-2cmc)
-- [What Time is it?](https://dev.to/mwlang/what-time-is-it-5hhm)
-- [LGPD para devs](https://dev.to/t4inha/lgpd-para-devs-mk0)
-- [Configuring Snapshot Tests in Playwright](https://dev.to/mikestopcontinues/configuring-snapshot-tests-in-playwright-c14)
-- [Welcome Thread - v266](https://dev.to/devteam/welcome-thread-v266-gkf)
+- [Building a flat-file CMS with Angular](https://dev.to/peterrauscher/building-a-flat-file-cms-with-angular-5f57)
+- [APIMatic SDKs in Backstage Developer Portal](https://dev.to/apimatic/apimatic-sdks-in-backstage-developer-portal-3od)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
