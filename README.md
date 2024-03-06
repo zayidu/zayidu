@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Web Development Stacks You Should Know in 2024!](https://dev.to/pavanbelagatti/7-web-development-stacks-you-should-know-in-2024-25eb)
-- [Bun-ify Your Project](https://dev.to/beau-to/bun-ify-your-project-544i)
-- [Material UI vs. Chakra UI: Which One to Choose?](https://dev.to/codeparrot/material-ui-vs-chakra-ui-which-one-to-choose-14f4)
-- [Being a First-Time Mom in Developer Relations](https://dev.to/vonagedev/being-a-first-time-mom-in-developer-relations-549n)
-- [Stream LLM Responses from Cache](https://dev.to/portkey/stream-llm-responses-from-cache-5f5o)
+- [Writing RFCs](https://dev.to/carloscuesta/writing-rfcs-2mb5)
+- [Top Paying Programming Technologies 2024](https://dev.to/brojenuel/top-paying-programming-technologies-2024-5dmf)
+- [Tailwind | Custom Plugins](https://dev.to/shubhamtiwari909/tailwind-custom-plugins-1159)
+- [Birinchi Dars C++ kirish](https://dev.to/zafar7709/birinchi-dars-c-kirish-4666)
+- [C++](https://dev.to/sunnat2009/c-3ed9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
