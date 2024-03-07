@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Claude Self Aware](https://dev.to/cheetah100/is-claude-self-aware-1cgj)
+- [Happy 107th Birthday, Betty Holberton! 🎉](https://dev.to/jess/happy-107th-birthday-betty-holberton-1547)
 - [Why choose ViewComponent over Rails partials](https://dev.to/railsdesigner/why-choose-viewcomponent-over-rails-partials-10lb)
 - [What structure, operator or other thing do you use most in your daily development?](https://dev.to/renancferro/what-structure-operator-or-other-thing-do-you-use-most-in-your-daily-development-5303)
 - [Supercharge Your Productivity with Ollama + Open Web UI and Large Language Models](https://dev.to/tylerjrbuell/supercharge-your-productivity-with-ollama-open-web-ui-and-large-language-models-51eo)
-- [There will be no Programmers in 5 years](https://dev.to/sufian/there-will-be-no-programmers-in-5-years-2o61)
-- [Gemini VS ChatGPT](https://dev.to/eaca89/gemini-vs-chatgpt-31ib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
