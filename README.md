@@ -7,7 +7,7 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript LLM Development: Is that a thing?](https://dev.to/jorshali/the-busy-javascript-developers-guide-to-generative-ai-4omo)
+- [LLM Development with JavaScript: Is that a thing?](https://dev.to/jorshali/the-busy-javascript-developers-guide-to-generative-ai-4omo)
 - [Is Claude Self Aware](https://dev.to/cheetah100/is-claude-self-aware-1cgj)
 - [Happy 107th Birthday, Betty Holberton! 🎉](https://dev.to/jess/happy-107th-birthday-betty-holberton-1547)
 - [A diferença entre desenvolvedor júnior, pleno e sênior na minha opinião [PT-BR]](https://dev.to/andredarcie/a-diferenca-entre-desenvolvedor-junior-pleno-e-senior-na-minha-opiniao-pt-br-659)
