@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini VS ChatGPT](https://dev.to/eaca89/gemini-vs-chatgpt-31ib)
+- [Why do We Need Databases and SQL?](https://dev.to/alejandro_du/why-do-we-need-databases-and-sql-1loa)
 - [Building a Copilot Code-First with Azure AI](https://dev.to/azure/building-a-copilot-code-first-with-azure-ai-443l)
 - [What capabilities are essential for someone to be considered a full-stack developer?](https://dev.to/hikarimaeda/what-capabilities-are-essential-for-someone-to-be-considered-a-full-stack-developer-2l98)
 - [Optimizing Image Display with Blur Placeholder and Lazyload](https://dev.to/hoaitx/optimizing-image-display-with-blur-placeholder-and-lazyload-3do5)
-- [Whogohost Takes Flight as GO54: A Transformation for Africa&#39;s Digital Landscape](https://dev.to/devsuite/whogohost-takes-flight-as-go54-a-transformation-for-africas-digital-landscape-27fe)
-- [Starting again as a dev student and working as tech writer](https://dev.to/_michellemello/starting-again-as-a-dev-student-and-working-as-tech-writer-1cd1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
