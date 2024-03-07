@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a macOS calculator layout](https://dev.to/phuocng/create-a-macos-calculator-layout-1332)
+- [Improve App Bundle Size with Import Cost](https://dev.to/michaeljolley/improve-app-bundle-size-with-import-cost-1mh5)
 - [The Power of Abstract Thinking](https://dev.to/ranjancse/the-power-of-abstract-thinking-2cjo)
 - [How to Run Snapshot Tests in CI/CD with Playwright](https://dev.to/mikestopcontinues/how-to-run-snapshot-tests-in-cicd-with-playwright-443f)
-- [How to Integrate YouTube Videos into React Applications](https://dev.to/michaellarocca/how-to-integrate-youtube-videos-into-react-applications-8i0)
-- [What ExpressoTS is?](https://dev.to/rsaz/what-expressots-is-4iho)
-- [7 Essentials for Front End Architecture in 2024](https://dev.to/benajaero/7-essentials-for-front-end-architecture-in-2024-m29)
+- [New Here, What to Do?](https://dev.to/salladshooter/new-here-what-to-do-3b40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
