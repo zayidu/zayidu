@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🔟 Things You Must Not Do In Frontend Development](https://dev.to/arjuncodess/things-you-must-not-do-in-frontend-development-294h)
 - [Python Tips &amp; Tricks Day 1](https://dev.to/ahmed__elboshi/python-tips-tricks-day-1-4oge)
 - [htmx chat](https://dev.to/sudo-self/htmx-chat-2bn3)
 - [Discrete Maths for Devs: An brief introduction to Mathematical Logic](https://dev.to/criskell/discrete-maths-for-devs-an-brief-introduction-to-mathematical-logic-3djc)
 - [AWS To Provide Free Data Transfer Out To Internet](https://dev.to/aws-builders/aws-to-provide-free-data-transfer-out-to-internet-4beo)
-- [Create a macOS calculator layout](https://dev.to/phuocng/create-a-macos-calculator-layout-1332)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
