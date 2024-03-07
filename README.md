@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Interactive Data Visualizations with D3.js](https://dev.to/webjoe/creating-interactive-data-visualizations-with-d3js-2i08)
-- [Local automation](https://dev.to/aws-builders/local-automation-1hb4)
-- [Vue3: how to declare reactive states](https://dev.to/sucodelarangela/vue3-how-to-declare-reactive-states-18hc)
-- [Introduction to Cloud Computing: The Models, Benefits, Risks, Implementation and Popular Tools](https://dev.to/oluwatobi2001/introduction-to-cloud-computing-the-models-benefits-risks-implementation-and-popular-tools-2loh)
-- [Empowering Growth: Lessons Learned After 9 Years of Coding](https://dev.to/ritaly/empowering-growth-lessons-learned-after-9-years-of-coding-5ec1)
+- [How to Run Snapshot Tests in CI/CD with Playwright](https://dev.to/mikestopcontinues/how-to-run-snapshot-tests-in-cicd-with-playwright-443f)
+- [How to Integrate YouTube Videos into React Applications](https://dev.to/michaellarocca/how-to-integrate-youtube-videos-into-react-applications-8i0)
+- [What ExpressoTS is?](https://dev.to/rsaz/what-expressots-is-4iho)
+- [7 Essentials for Front End Architecture in 2024](https://dev.to/benajaero/7-essentials-for-front-end-architecture-in-2024-m29)
+- [Writing a WASM module in Rust](https://dev.to/shuttle_dev/writing-a-wasm-module-in-rust-3jcf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
