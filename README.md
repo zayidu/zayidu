@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript LLM Development: Is that a thing?](https://dev.to/jorshali/the-busy-javascript-developers-guide-to-generative-ai-4omo)
 - [Is Claude Self Aware](https://dev.to/cheetah100/is-claude-self-aware-1cgj)
 - [Happy 107th Birthday, Betty Holberton! 🎉](https://dev.to/jess/happy-107th-birthday-betty-holberton-1547)
+- [A diferença entre desenvolvedor júnior, pleno e sênior na minha opinião [PT-BR]](https://dev.to/andredarcie/a-diferenca-entre-desenvolvedor-junior-pleno-e-senior-na-minha-opiniao-pt-br-659)
 - [Why choose ViewComponent over Rails partials](https://dev.to/railsdesigner/why-choose-viewcomponent-over-rails-partials-10lb)
-- [What structure, operator or other thing do you use most in your daily development?](https://dev.to/renancferro/what-structure-operator-or-other-thing-do-you-use-most-in-your-daily-development-5303)
-- [Supercharge Your Productivity with Ollama + Open Web UI and Large Language Models](https://dev.to/tylerjrbuell/supercharge-your-productivity-with-ollama-open-web-ui-and-large-language-models-51eo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
