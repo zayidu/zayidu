@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Image Display with Blur Placeholder and Lazyload](https://dev.to/hoaitx/optimizing-image-display-with-blur-placeholder-and-lazyload-3do5)
+- [Starting again as a dev student and working as tech writer](https://dev.to/_michellemello/starting-again-as-a-dev-student-and-working-as-tech-writer-1cd1)
+- [Awesome Border Animation Effects using CSS](https://dev.to/robsonmuniz16/awesome-border-animation-effects-using-css-3jl7)
+- [we_coded: Outsider Insights](https://dev.to/erinao/wecoded-outsider-insights-4ebb)
 - [What you need to know before learning React](https://dev.to/sebastian9995/what-you-need-to-know-before-learning-react-1833)
-- [Why Sugar.css grid is so revolutionary?](https://dev.to/rezi/why-sugarcss-grid-is-so-revolutionary-1b66)
-- [Learning Milestone](https://dev.to/codebuddylarin/learning-milestone-3pfk)
-- [Remember the Milk Review 2024: Old But Gold](https://dev.to/stan8086/remember-the-milk-review-2024-old-but-gold-1942)
-- [A World Without C](https://dev.to/deusinmachina/a-world-without-c-3jf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
