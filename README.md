@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C++ Урок #5](https://dev.to/islombek/c-urok-5-3jma)
-- [From Kotlin Scripting to Python](https://dev.to/nfrankel/from-kotlin-scripting-to-python-8la)
-- [Why I stopped using IM platforms for communication and only use email](https://dev.to/shailennaidoo/why-i-stop-using-im-platforms-for-communication-and-only-use-email-2jd2)
-- [How I do technology watch](https://dev.to/k_petrem/how-i-do-technology-watch-lmf)
-- [Descubre el futuro de la tecnología: Especialízate en inteligencia artificial con Microsoft Learn](https://dev.to/danieljsaldana/descubre-el-futuro-de-la-tecnologia-especializate-en-inteligencia-artificial-con-microsoft-learn-b2d)
+- [Groovy 🎷 Cheat Sheet - 01 Say &quot;Hello&quot; from Groovy](https://dev.to/fadygrab/groovy-cheat-sheet-01-say-hello-from-groovy-11ge)
+- [What is Oracle Redwood? All You Need to Know](https://dev.to/johnste39558689/what-is-oracle-redwood-all-you-need-to-know-328l)
+- [Want to become a Professional Organiser?](https://dev.to/atidymind/want-to-become-a-professional-organiser-2gik)
+- [Kotlin Koans BR: Classes Seladas](https://dev.to/rsicarelli/kotlin-koans-br-classes-seladas-50m0)
+- [10 Core Facts Every IT Project Manager Should Know](https://dev.to/chadriebe/10-core-facts-every-it-project-manager-should-know-1mh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
