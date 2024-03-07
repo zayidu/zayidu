@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I stopped using IM platforms for communication and only use email](https://dev.to/shailennaidoo/why-i-stop-using-im-platforms-for-communication-and-only-use-email-2jd2)
+- [How I do technology watch](https://dev.to/k_petrem/how-i-do-technology-watch-lmf)
 - [Descubre el futuro de la tecnología: Especialízate en inteligencia artificial con Microsoft Learn](https://dev.to/danieljsaldana/descubre-el-futuro-de-la-tecnologia-especializate-en-inteligencia-artificial-con-microsoft-learn-b2d)
+- [Weekly Crypto News: Telegram Pays Toncoins, WhiteBIT Is Now TradingView Broker and More](https://dev.to/deniz_tutku/weekly-crypto-news-telegram-pays-toncoins-whitebit-is-now-tradingview-broker-and-more-3j3p)
 - [Why Your App Should Have Both Dark And Light Themes](https://dev.to/eevajonnapanula/why-your-app-should-have-both-dark-and-light-themes-563e)
-- [Javascript | String Methods](https://dev.to/shubhamtiwari909/javascript-string-methods-bfe)
-- [Ash Calculations - Cond](https://dev.to/neophen/ash-calculations-cond-2ecn)
-- [7 years on DEV!](https://dev.to/jarvisscript/7-years-on-dev-3ec1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
