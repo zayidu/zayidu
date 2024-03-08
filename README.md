@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Calling for Shout Outs on International Women&#39;s Day!](https://dev.to/devteam/calling-for-shout-outs-on-international-womens-day-3fj0)
+- [4 Things All EXCEPTIONAL Programmers Have in Common 🎯💡](https://dev.to/arjuncodess/4-things-all-exceptional-programmers-have-in-common-m43)
 - [Build 01 complex frontend feature every week with me.](https://dev.to/swastikyadav/build-01-complex-frontend-feature-every-week-with-me-2jjc)
 - [Snake...in pure HTML⁉️ [no JS, no CSS, no images!!] 😱](https://dev.to/grahamthedev/snakein-pure-html-no-js-no-css-no-images-2ccg)
 - [Importance of eBook Composition &amp; Typesetting in Self-Publishing](https://dev.to/alphaebook/importance-of-ebook-composition-typesetting-in-self-publishing-53ik)
-- [Build Wikipedia Clone with React JS - Full Project with Wiki API](https://dev.to/imrankh13332994/build-wikipedia-clone-with-react-js-full-project-with-wiki-api-40bp)
-- [Dissecting layered architecture](https://dev.to/yokwejuste/dissecting-layered-architecture-2ppb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
