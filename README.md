@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Dissecting layered architecture](https://dev.to/yokwejuste/dissecting-layered-architecture-2ppb)
+- [Virtual in C#: How to Use it?](https://dev.to/bytehide/virtual-in-c-how-to-use-it-5gp8)
+- [Create a Gantt chart](https://dev.to/phuocng/create-a-gantt-chart-305e)
+- [Open Telemetry: Observing and Monitoring Applications](https://dev.to/sosalejandro/open-telemetry-observing-and-monitoring-applications-5gni)
 - [Creating a Scrollable Section Navigation in HTML and CSS](https://dev.to/sh20raj/creating-a-scrollable-section-navigation-in-html-and-css-35ki)
-- [Highlight Text in CSS](https://dev.to/sh20raj/highlight-text-in-css-1iej)
-- [Laravel Roadmap](https://dev.to/nikoladomazetovikj/laravel-roadmap-4l84)
-- [Welcome to 14 days of Data Science!](https://dev.to/azure/welcome-to-14-days-of-data-science-lc9)
-- [Unleashing the Full Power of Docker](https://dev.to/mahakfaheem/unleashing-the-full-power-of-docker-desktop-1p6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
