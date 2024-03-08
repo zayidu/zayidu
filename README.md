@@ -11,7 +11,7 @@
 - [Virtual in C#: How to Use it?](https://dev.to/bytehide/virtual-in-c-how-to-use-it-5gp8)
 - [Create a Gantt chart](https://dev.to/phuocng/create-a-gantt-chart-305e)
 - [Open Telemetry: Observing and Monitoring Applications](https://dev.to/sosalejandro/open-telemetry-observing-and-monitoring-applications-5gni)
-- [Creating a Scrollable Section Navigation in HTML and CSS](https://dev.to/sh20raj/creating-a-scrollable-section-navigation-in-html-and-css-35ki)
+- [The Rise of the 1-Bit LLM](https://dev.to/gssakash/the-rise-of-the-1-bit-llm-11ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
