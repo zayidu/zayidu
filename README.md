@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Scrollable Section Navigation in HTML and CSS](https://dev.to/sh20raj/creating-a-scrollable-section-navigation-in-html-and-css-35ki)
+- [Highlight Text in CSS](https://dev.to/sh20raj/highlight-text-in-css-1iej)
+- [Laravel Roadmap](https://dev.to/nikoladomazetovikj/laravel-roadmap-4l84)
+- [Welcome to 14 days of Data Science!](https://dev.to/azure/welcome-to-14-days-of-data-science-lc9)
 - [Unleashing the Full Power of Docker](https://dev.to/mahakfaheem/unleashing-the-full-power-of-docker-desktop-1p6b)
-- [React Hooks - UseRef](https://dev.to/devlawrence/react-hooks-useref-hk7)
-- [Classroom API: Integrate Snowpal APIs to build apps and microservices for the education industry](https://dev.to/vpalania/classroom-api-integrate-snowpal-apis-to-build-apps-and-microservices-for-the-education-industry-5d2d)
-- [Mastering Firebase: A Comprehensive Guide to CRUD Operations](https://dev.to/ammar2115/mastering-firebase-a-comprehensive-guide-to-crud-operations-2h0a)
-- [LLM Development with JavaScript: Is that a thing?](https://dev.to/jorshali/the-busy-javascript-developers-guide-to-generative-ai-4omo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
