@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Next.js Boilerplate just hit 6000+ ⭐ stars on GitHub! 🔥 6️⃣0️⃣0️⃣0️⃣ 🔥](https://dev.to/ixartz/nextjs-boilerplate-just-hit-6000-stars-on-github-6000-1bb)
+- [Engineering Bolt ⚡: #5 Friday Developer Fun 😎](https://dev.to/alexr/engineering-bolt-5-friday-developer-fun-4ep)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-211b)
 - [Processing One Billion Rows in PHP!](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
 - [No More Free Tier on PlanetScale, Here Are Free Alternatives](https://dev.to/nialljoemaher/no-more-free-tier-on-planetscale-here-are-free-alternatives-2gbm)
-- [Using Spring-WS to consume a SOAP API](https://dev.to/marianvarga/using-spring-ws-to-consume-a-soap-api-5eob)
-- [Getting started with PWAs](https://dev.to/codeparrot/getting-started-with-pwas-5294)
-- [Developing Android Apps from 0 to 1](https://dev.to/happyer/developing-android-apps-from-0-to-1-8no)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
