@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Battle of Database Storage: Row-Oriented vs. Columnar](https://dev.to/contactsunny/understanding-the-battle-of-database-storage-row-oriented-vs-columnar-ggp)
+- [Developers, Meet Your New Partner: AI](https://dev.to/orix/developers-meet-your-new-partner-ai-2nam)
+- [Handling API Errors Safely with a Wrapper Function](https://dev.to/woovi/handling-api-errors-safely-with-a-wrapper-function-5358)
+- [Por que é vital aprender a dizer não no ambiente profissional](https://dev.to/kecbm/por-que-e-vital-aprender-a-dizer-nao-no-ambiente-profissional-cc3)
 - [Build Your Own Uptime Monitor with MeteorJS + Fetch + Plotly.js ☄️🔭](https://dev.to/meteor/build-your-own-uptime-monitor-with-meteorjs-fetch-plotlyjs-4fe0)
-- [Happy International Women&#39;s Day!🌟](https://dev.to/devteam/happy-international-womens-day-55n4)
-- [Display Angular @empty block at the right time!](https://dev.to/geromegrignon/display-angular-empty-block-at-the-right-time-4g4m)
-- [What are LLMs, Local LLMs and RAG?](https://dev.to/arjunrao87/what-are-llms-local-llms-and-rag-4kp3)
-- [Simplify your code](https://dev.to/klnjmm/simplify-your-code-3k3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
