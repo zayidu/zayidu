@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [React Hooks - UseRef](https://dev.to/devlawrence/react-hooks-useref-hk7)
+- [Classroom API: Integrate Snowpal APIs to build apps and microservices for the education industry](https://dev.to/vpalania/classroom-api-integrate-snowpal-apis-to-build-apps-and-microservices-for-the-education-industry-5d2d)
+- [Mastering Firebase: A Comprehensive Guide to CRUD Operations](https://dev.to/ammar2115/mastering-firebase-a-comprehensive-guide-to-crud-operations-2h0a)
 - [LLM Development with JavaScript: Is that a thing?](https://dev.to/jorshali/the-busy-javascript-developers-guide-to-generative-ai-4omo)
-- [Is Claude Self Aware](https://dev.to/cheetah100/is-claude-self-aware-1cgj)
-- [Happy 107th Birthday, Betty Holberton! 🎉](https://dev.to/jess/happy-107th-birthday-betty-holberton-1547)
-- [A diferença entre desenvolvedor júnior, pleno e sênior na minha opinião [PT-BR]](https://dev.to/andredarcie/a-diferenca-entre-desenvolvedor-junior-pleno-e-senior-na-minha-opiniao-pt-br-659)
-- [Why choose ViewComponent over Rails partials](https://dev.to/railsdesigner/why-choose-viewcomponent-over-rails-partials-10lb)
+- [Some interesting things I learned about Chrome and image titles](https://dev.to/spencerbrown80/some-interesting-things-i-learned-about-chrome-and-image-titles-4b7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
