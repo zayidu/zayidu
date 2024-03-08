@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrate International Women&#39;s Day with New Swag &amp; A Sweet Surprise 💖](https://dev.to/devteam/we-made-wecoded-merch-51ic)
-- [The GitHub Community Roundup: 03-08-24](https://dev.to/github/the-github-community-roundup-03-08-24-4ffo)
-- [Exploring local-first development](https://dev.to/dandavey/exploring-local-first-development-41a2)
-- [Exploring Thunder Client: A Powerful Postman Alternative](https://dev.to/sh20raj/exploring-thunder-client-a-powerful-postman-alternative-37ci)
-- [Rolldown: why it matters](https://dev.to/justinschroeder/rolldown-why-it-matters-4129)
+- [Linux Series: Understanding Cron in Ubuntu](https://dev.to/olodocoder/linux-series-understanding-cron-in-ubuntu-4hdd)
+- [Qdrant 1.8.0 - Major Performance Enhancements](https://dev.to/qdrant/qdrant-180-major-performance-enhancements-384o)
+- [C++ Урок #7](https://dev.to/islombek/c-urok-7-4c4d)
+- [Getting Started with Angular: Building Your First Todo List App](https://dev.to/bowen/getting-started-with-angular-building-your-first-todo-list-app-40ck)
+- [Handy `git` aliases I use day to day](https://dev.to/andrewchaa/handy-git-aliases-i-use-day-to-day-5dh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
