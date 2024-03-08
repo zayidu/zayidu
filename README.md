@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Tips For Writing Technical Documentation That Developers Love](https://dev.to/get_pieces/5-tips-for-writing-technical-documentation-that-developers-love-1ho7)
 - [Let&#39;s Share, Learn, and Grow Together 👬!](https://dev.to/respect17/lets-share-learn-and-grow-together--2b35)
+- [Navigating StatefulWidgets Part 1](https://dev.to/andrious/navigating-statefulwidgets-part-1-2dni)
 - [React Native in Echtzeit: Pub/Sub, Geolokalisierung, Anwesenheit](https://dev.to/pubnub-de/react-native-in-echtzeit-pubsub-geolokalisierung-anwesenheit-26g)
 - [Understanding Hoisting in JavaScript](https://dev.to/imashwani/understanding-hoisting-in-javascript-4ie1)
-- [Conventional commit specification](https://dev.to/pranaybathini/conventional-commit-specification-77p)
-- [Para quem é a sua homenagem para mulheres na tecnologia?](https://dev.to/feministech/para-quem-e-a-sua-homenagem-para-mulheres-na-tecnologia-1aoo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
