@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [When you&#39;re looking for a remote job,what do you care about?🤔](https://dev.to/remotewlb/when-youre-looking-for-a-remote-jobwhat-do-you-care-about-15mj)
+- [Is server side rendering always good?](https://dev.to/codeparrot/is-server-side-rendering-always-good-5g9f)
+- [This Week In React #176: React Compiler, TanStack, Vinxi, Remix i18n, Next.js security, Shopify RN perf, Uni Stack...](https://dev.to/sebastienlorber/this-week-in-react-176-react-compiler-tanstack-vinxi-remix-i18n-nextjs-security-shopify-rn-perf-uni-stack-6dg)
 - [Ikkinchi dars cin qilish](https://dev.to/zafar7709/ikkinchi-dars-cin-qilish-259d)
 - [Birinchi dars C++ kirish](https://dev.to/zafar7709/birinchi-dars-c-kirish-5g22)
-- [Horizontal scroll animation](https://dev.to/frikishaan/horizontal-scroll-animation-48o8)
-- [⚛️ Applying Design Patterns in React: Strategy Pattern &lpar;Part 2&rpar;](https://dev.to/itswillt/applying-design-patterns-in-react-strategy-pattern-part-2-221i)
-- [Ada: The most beautiful free Tailwind Css landing page template](https://dev.to/tailus/ada-the-most-beautiful-free-tailwind-css-landing-page-template-33e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
