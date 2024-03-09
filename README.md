@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [As a young woman in different dev teams](https://dev.to/_michellemello/as-a-young-woman-in-different-dev-teams-3gke)
-- [Mastering React Hooks: Tips, Tricks, and Best Practices](https://dev.to/mostlyali07/mastering-react-hooks-tips-tricks-and-best-practices-2lad)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4jkd)
-- [Day 923 : City](https://dev.to/dwane/day-923-city-21i7)
-- [My favorite cy.type&lpar;&rpar; tips and tricks](https://dev.to/samelawrence/my-favorite-cytype-tips-and-tricks-3166)
+- [You might want to replace cd command with Zoxide 🎉 — a smarter and trainable cd alternative 🗂️](https://dev.to/creuserr/you-might-want-to-replace-cd-command-with-zoxide-a-smarter-and-trainable-cd-alternative-5b7o)
+- [5 Tips for avoiding mistakes while working with server](https://dev.to/cuongnp/5-tips-for-avoiding-mistakes-while-working-with-server-5am3)
+- [Women&#39;s Day](https://dev.to/nandinishinduja/womens-day-4d9f)
+- [How to Choose the Right CMS for Your Website](https://dev.to/dtechunt/how-to-choose-the-right-cms-for-your-website-23k4)
+- [📌 21 Days of DevOps Interview - Day 10 - Linux Boot Process📌](https://dev.to/lakhera2015/21-days-of-devops-interview-day-10-linux-boot-process-ao6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
