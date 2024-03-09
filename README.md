@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Ikkinchi dars cin qilish](https://dev.to/zafar7709/ikkinchi-dars-cin-qilish-259d)
+- [Birinchi dars C++ kirish](https://dev.to/zafar7709/birinchi-dars-c-kirish-5g22)
+- [Horizontal scroll animation](https://dev.to/frikishaan/horizontal-scroll-animation-48o8)
+- [⚛️ Applying Design Patterns in React: Strategy Pattern &lpar;Part 2&rpar;](https://dev.to/itswillt/applying-design-patterns-in-react-strategy-pattern-part-2-221i)
 - [Ada: The most beautiful free Tailwind Css landing page template](https://dev.to/tailus/ada-the-most-beautiful-free-tailwind-css-landing-page-template-33e9)
-- [🚀 You NEED to Start Using Vercel Right Now! 🌟](https://dev.to/arjuncodess/you-need-to-start-using-vercel-right-now-ogi)
-- [Mavzu: &#39;Alifbo 🤔&#39;](https://dev.to/abdukarim0126/mavzu-alifbo--pni)
-- [En 5 Minutos: Crea una App de Next.js con IA de OpenAI](https://dev.to/marcosmonterodev/en-5-minutos-crea-una-app-de-nextjs-con-ia-de-openai-11ai)
-- [Effective Error 🚨 Handling Strategies in [Your Preferred Programming Language]](https://dev.to/hemant_007/effective-error-handling-strategies-in-your-preferred-programming-language-22k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
