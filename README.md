@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Self-Publish a Cookbook?](https://dev.to/chris_h/how-to-self-publish-a-cookbook-46mk)
 - [🚀 You NEED to Start Using Vercel Right Now! 🌟](https://dev.to/arjuncodess/you-need-to-start-using-vercel-right-now-3kff)
 - [Streamline School Management With Innovative Software](https://dev.to/sal786/streamline-school-management-with-innovative-software-50e2)
 - [Is Transitioning from React.js to React Native as Easy as It Seems?](https://dev.to/respect17/is-transitioning-from-reactjs-to-react-native-as-easy-as-it-seems-2mao)
 - [You might want to replace cd command with Zoxide 🎉 — a smarter and trainable cd alternative 🗂️](https://dev.to/creuserr/you-might-want-to-replace-cd-command-with-zoxide-a-smarter-and-trainable-cd-alternative-5b7o)
-- [5 Tips for avoiding mistakes while working with server](https://dev.to/cuongnp/5-tips-for-avoiding-mistakes-while-working-with-server-5am3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
