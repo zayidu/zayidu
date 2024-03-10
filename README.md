@@ -10,8 +10,8 @@
 - [GitHub Actions for Secret Management](https://dev.to/realvorl/github-actions-for-secret-management-3p9e)
 - [Integrando Azure Text Translation en una aplicación React con Next.js](https://dev.to/danieljsaldana/integrando-azure-text-translation-en-una-aplicacion-react-con-nextjs-10n)
 - [Make the OpenAI Function Calling Work Better and Cheaper with a Two-Step Function Call 🚀](https://dev.to/maurerkrisztian/make-the-openai-function-calling-work-better-and-cheaper-with-a-two-step-function-call-1p96)
+- [Hosting an Angular application in a Docker container on Amazon EC2 deployed by Amazon ECS](https://dev.to/aws-builders/hosting-an-angular-application-in-a-docker-container-on-amazon-ec2-deployed-by-amazon-ecs-2195)
 - [Getting started as a backend developer: A beginner’s guide](https://dev.to/codelikesuraj/getting-started-as-a-backend-developer-a-beginners-guide-4kpg)
-- [Top Open Source Next.js Projects for Meaningful Contributions 💯](https://dev.to/alisamirali/top-open-source-nextjs-projects-for-meaningful-contributions-5hn4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
