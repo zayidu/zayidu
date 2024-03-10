@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My New Portfolio!](https://dev.to/acode123/my-new-portfolio-2399)
-- [Top 6 Distraction Blocker Apps for Android](https://dev.to/stan8086/top-6-distraction-blocker-apps-for-android-4p8a)
-- [Rust, JavaScript, or Python?](https://dev.to/devteam/rust-javascript-or-python-3dd0)
-- [Framer Motion: Animate React Easily](https://dev.to/codeparrot/framer-motion-animate-react-easily-3h4i)
-- [Awesome GitHub Action Workflows](https://dev.to/tungbq/awesome-github-action-workflows-2fi0)
+- [Top Open Source Next.js Projects for Meaningful Contributions 💯](https://dev.to/alisamirali/top-open-source-nextjs-projects-for-meaningful-contributions-5hn4)
+- [Deep Dive into C++20 Coroutines](https://dev.to/happyer/deep-dive-into-c20-coroutines-k97)
+- [Title: My Journey: Mastering Linux Navigation, Git, and Vim with Online Practice Websites](https://dev.to/brownian77/title-my-journey-mastering-linux-navigation-git-and-vim-with-online-practice-websites-l9i)
+- [My Journey: Setting Up Git and GitHub](https://dev.to/brownian77/my-journey-setting-up-git-and-github-45bf)
+- [Flask uwsgi nginx and certbot](https://dev.to/dinamitrii/flask-uwsgi-nginx-and-certbot-j3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
