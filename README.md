@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [My New Portfolio!](https://dev.to/acode123/my-new-portfolio-2399)
+- [Top 6 Distraction Blocker Apps for Android](https://dev.to/stan8086/top-6-distraction-blocker-apps-for-android-4p8a)
 - [Rust, JavaScript, or Python?](https://dev.to/devteam/rust-javascript-or-python-3dd0)
 - [Framer Motion: Animate React Easily](https://dev.to/codeparrot/framer-motion-animate-react-easily-3h4i)
 - [Awesome GitHub Action Workflows](https://dev.to/tungbq/awesome-github-action-workflows-2fi0)
-- [Terminal commands I use as a frontend developer](https://dev.to/junaidshaikhjs/terminal-commands-i-use-as-a-frontend-developer-37gd)
-- [Things I learned while building my JS library](https://dev.to/mathuraditya7/things-i-learned-while-building-my-js-library-2k06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
