@@ -11,7 +11,7 @@
 - [Democratising Enterprise Readiness - #MarchWebSecurity](https://dev.to/schalkneethling/democratising-enterprise-readiness-marchwebsecurity-4al)
 - [Efficient Database Queries in Rails: A Practical Approach](https://dev.to/danielabar/efficient-database-queries-in-rails-a-practical-approach-12hl)
 - [Handling Transactions via Sessions in Mongoose](https://dev.to/harsh32044/handling-transactions-via-sessions-in-mongoose-4313)
-- [Gentle introduction to IDataProtector &lpar;C#&rpar;](https://dev.to/karenpayneoregon/gentle-introduction-to-idataprotector-c-9cd)
+- [What is a REST API?](https://dev.to/glowinginthedark/what-is-a-rest-api-4ng6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
