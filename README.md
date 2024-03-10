@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Power Automate to build and execute SharePoint REST API Queries](https://dev.to/fernandaek/using-power-automate-to-build-and-execute-sharepoint-rest-api-queries-53hf)
 - [The 3 Most Powerful Functions in JavaScript](https://dev.to/swapnoneel123/the-3-most-powerful-functions-in-javascript-2bog)
+- [Animated traveling map with Leaflet](https://dev.to/bcaure/animated-traveling-map-with-leaflet-5fdf)
 - [12 Tips for Acing MAANG Software Engineering Interviews](https://dev.to/alexr/12-tips-for-acing-maang-software-engineering-interviews-4kge)
 - [Deja-Vu your AI✦ Bookmarking Tool](https://dev.to/ooye_sanket/deja-vu-your-ai-bookmarking-tool-41k9)
-- [Matplotlib Tutorial: Life Expectancy &amp; Genocide](https://dev.to/oscarleo/matplotlib-tutorial-life-expectancy-genocide-2ae2)
-- [Learn How Docker Works via Mocker, a Tiny Python Implementation](https://dev.to/suhanajabin/learn-how-docker-works-via-mocker-a-tiny-python-implementation-102m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
