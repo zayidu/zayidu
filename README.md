@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Feeling Stuck With CSS? 🤔 Open This! 🎨](https://dev.to/arjuncodess/feeling-stuck-with-css-open-this-4g9f)
-- [Not just another guide to coding.](https://dev.to/pratyushnirwan/not-just-another-guide-to-coding-58b9)
-- [Using Power Automate to build and execute SharePoint REST API Queries](https://dev.to/fernandaek/using-power-automate-to-build-and-execute-sharepoint-rest-api-queries-53hf)
-- [The 3 Most Powerful Functions in JavaScript](https://dev.to/swapnoneel123/the-3-most-powerful-functions-in-javascript-2bog)
-- [Animated traveling map with Leaflet](https://dev.to/bcaure/animated-traveling-map-with-leaflet-5fdf)
+- [Different file formats, a benchmark doing basic operations](https://dev.to/pedrohgoncalves/different-file-formats-a-benchmark-doing-basic-operations-jfj)
+- [Democratising Enterprise Readiness - #MarchWebSecurity](https://dev.to/schalkneethling/democratising-enterprise-readiness-marchwebsecurity-4al)
+- [Efficient Database Queries in Rails: A Practical Approach](https://dev.to/danielabar/efficient-database-queries-in-rails-a-practical-approach-12hl)
+- [Handling Transactions via Sessions in Mongoose](https://dev.to/harsh32044/handling-transactions-via-sessions-in-mongoose-4313)
+- [Gentle introduction to IDataProtector &lpar;C#&rpar;](https://dev.to/karenpayneoregon/gentle-introduction-to-idataprotector-c-9cd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
