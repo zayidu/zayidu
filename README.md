@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Hosting a static website on AWS S3 with CI/CD](https://dev.to/sanishchirayath1/hosting-a-static-website-on-aws-s3-with-cicd-3deh)
+- [⛵ Sailing the Choppy Waters of Floating-Point Precision in JavaScript 🔢](https://dev.to/best_codes/sailing-the-choppy-waters-of-floating-point-precision-in-javascript-3577)
+- [Rust: A Modern Approach to System Programming](https://dev.to/dipankarpaul/rust-a-modern-approach-to-system-programming-1ph0)
+- [Setting Up Obsidian for Content Planning and Project Management](https://dev.to/erikaheidi/setting-up-obsidian-for-content-planning-and-project-management-38f1)
 - [Building an Admin Console With Minimum Code Using React-Admin, Prisma, and Zenstack](https://dev.to/zenstack/building-an-admin-console-with-minimum-code-using-react-admin-prisma-and-zenstack-pkl)
-- [Desenvolva suas habilidades de programação de forma divertida: 10 jogos para aprender programação](https://dev.to/feministech/desenvolva-suas-habilidades-de-programacao-de-forma-divertida-10-jogos-para-aprender-programacao-23fc)
-- [How to add a Docusaurus website within Next.js Website as a route? It&#39;s worth $200](https://dev.to/martinadamsdev/how-to-use-docusaurus-in-nextjs-projects-4kei)
-- [Navigating Legacy Code: A Programmer&#39;s Guide](https://dev.to/hikarimaeda/navigating-legacy-code-a-programmers-guide-1i62)
-- [Accessing local services with SSRF attacks](https://dev.to/aneshodza/accessing-local-services-with-ssrf-attacks-2cjb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
