@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating Legacy Code: A Programmer&#39;s Guide](https://dev.to/hikarimaeda/navigating-legacy-code-a-programmers-guide-1i62)
+- [Accessing local services with SSRF attacks](https://dev.to/aneshodza/accessing-local-services-with-ssrf-attacks-2cjb)
+- [Learning Rust: Looking at Ownership](https://dev.to/link2twenty/learning-rust-looking-at-ownership-3e73)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-36c)
-- [10 Must have VS Code Extensions for Developers in 2024](https://dev.to/durgesh4993/10-must-have-vs-code-extensions-for-developers-in-2024-1m83)
-- [Best Tech Stack for Web App Development in 2024](https://dev.to/durgesh4993/best-tech-stack-for-web-app-development-in-2024-2o4)
-- [Nevertheless, we coded - let&#39;s focus on the good ✨](https://dev.to/josefine/nevertheless-we-coded-lets-focus-on-the-good-226a)
-- [What are your goals for week 11 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-11-of-2024-3bp3)
+- [HTTP Requests in JavaScript: Popular Libraries for Web Developers](https://dev.to/mmainulhasan/http-requests-in-javascript-popular-libraries-for-web-developers-2d5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
