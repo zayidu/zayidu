@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Are You Ready to Game Dev?](https://dev.to/devteam/are-you-ready-to-game-dev-35h8)
+- [Power Automate - How to Test your Flows](https://dev.to/wyattdave/power-automate-how-to-test-your-flows-130n)
 - [How to view server logs in real-time in VS Code](https://dev.to/rajeshroyal/how-to-view-server-logs-in-real-time-in-vs-code-26he)
 - [Solving GitHub API &quot;Unrecognized Encoding: None&quot; Error: A Journey to Understanding Media Types](https://dev.to/siddhantkcode/solving-github-api-unrecognized-encoding-none-error-a-journey-to-understanding-media-types-cp4)
 - [Dart Abstract Classes and Polymorphism in Dart - Part 6](https://dev.to/sadanandgadwal/dart-abstract-classes-and-polymorphism-in-dart-part-6-bnf)
-- [Which Scenarios Does ClickHouse Applies to?](https://dev.to/esproc_spl/which-scenarios-does-clickhouse-applies-to-4dmh)
-- [Type Safety in TypeScript - Unknown vs Any](https://dev.to/sachinchaurasiya/type-safety-in-typescript-unknown-vs-any-55c0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
