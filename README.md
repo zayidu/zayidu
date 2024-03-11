@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an Admin Console With Minimum Code Using React-Admin, Prisma, and Zenstack](https://dev.to/zenstack/building-an-admin-console-with-minimum-code-using-react-admin-prisma-and-zenstack-pkl)
+- [Desenvolva suas habilidades de programação de forma divertida: 10 jogos para aprender programação](https://dev.to/feministech/desenvolva-suas-habilidades-de-programacao-de-forma-divertida-10-jogos-para-aprender-programacao-23fc)
+- [How to add a Docusaurus website within Next.js Website as a route? It&#39;s worth $200](https://dev.to/martinadamsdev/how-to-use-docusaurus-in-nextjs-projects-4kei)
 - [Navigating Legacy Code: A Programmer&#39;s Guide](https://dev.to/hikarimaeda/navigating-legacy-code-a-programmers-guide-1i62)
 - [Accessing local services with SSRF attacks](https://dev.to/aneshodza/accessing-local-services-with-ssrf-attacks-2cjb)
-- [Learning Rust: Looking at Ownership](https://dev.to/link2twenty/learning-rust-looking-at-ownership-3e73)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-36c)
-- [HTTP Requests in JavaScript: Popular Libraries for Web Developers](https://dev.to/mmainulhasan/http-requests-in-javascript-popular-libraries-for-web-developers-2d5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
