@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Are You Ready to Game Dev?](https://dev.to/devteam/are-you-ready-to-game-dev-35h8)
-- [Power Automate - How to Test your Flows](https://dev.to/wyattdave/power-automate-how-to-test-your-flows-130n)
-- [How to view server logs in real-time in VS Code](https://dev.to/rajeshroyal/how-to-view-server-logs-in-real-time-in-vs-code-26he)
-- [Solving GitHub API &quot;Unrecognized Encoding: None&quot; Error: A Journey to Understanding Media Types](https://dev.to/siddhantkcode/solving-github-api-unrecognized-encoding-none-error-a-journey-to-understanding-media-types-cp4)
-- [Dart Abstract Classes and Polymorphism in Dart - Part 6](https://dev.to/sadanandgadwal/dart-abstract-classes-and-polymorphism-in-dart-part-6-bnf)
+- [Weekly Roundup 043 &lpar;Mar 04&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-043-mar-04-hot-topics-in-workplace-sharepoint-and-powerplatform-4p7i)
+- [Building Open Source Form Management tool for Developers](https://dev.to/ashelestov/building-open-source-form-management-tool-for-developers-14a7)
+- [Fetch any Website HTML without a cors error | Free API](https://dev.to/sh20raj/fetch-any-website-html-without-a-cors-error-free-api-17do)
+- [How we handled MySQL deadlocks in Productive - Part 1](https://dev.to/productive/how-we-handled-mysql-deadlocks-in-productive-part-1-15ce)
+- [A Guide to encryption and hashing in Laravel](https://dev.to/honeybadger/a-guide-to-encryption-and-hashing-in-laravel-1kff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
