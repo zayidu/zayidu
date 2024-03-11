@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Use a Database](https://dev.to/annoh_karlgusta/why-you-should-use-a-database-ccp)
 - [Browser-based Multiplayer Tic Tac Toe Game in React](https://dev.to/pubnub/browser-based-multiplayer-tic-tac-toe-game-in-react-1488)
-- [Different file formats, a benchmark doing basic operations](https://dev.to/pedrohgoncalves/different-file-formats-a-benchmark-doing-basic-operations-jfj)
-- [Democratising Enterprise Readiness - #MarchWebSecurity](https://dev.to/schalkneethling/democratising-enterprise-readiness-marchwebsecurity-4al)
-- [Efficient Database Queries in Rails: A Practical Approach](https://dev.to/danielabar/efficient-database-queries-in-rails-a-practical-approach-12hl)
-- [Handling Transactions via Sessions in Mongoose](https://dev.to/harsh32044/handling-transactions-via-sessions-in-mongoose-4313)
+- [zsh: command not found: brew](https://dev.to/naalaryea/zsh-command-not-found-brew-4697)
+- [Sending out SMS messages via Twilio](https://dev.to/idadelveloper/sending-out-sms-messages-via-twilio-47fh)
+- [Developing a Node CLI App in an NX monorepo](https://dev.to/ddanielgal/developing-a-node-cli-app-in-an-nx-monorepo-5f1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
