@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Base Maps to QGIS](https://dev.to/pokumars/how-to-add-base-maps-to-qgis-5f4)
+- [A QuickCheck Tutorial: Generators](https://dev.to/stack_builders/a-quickcheck-tutorial-generators-53pg)
+- [Unlocking Professional Growth: The Untapped Value of Keeping a Working Journal](https://dev.to/dev3l/unlocking-professional-growth-the-untapped-value-of-keeping-a-working-journal-5cld)
 - [Fetch data from Sanity content management system in an Expo app](https://dev.to/angela300/fetche-data-from-sanity-content-management-system-in-an-expo-app-5aji)
-- [5 Game-Changing GitHub Repositories for Developers 🛠️🚀](https://dev.to/arjuncodess/5-game-changing-github-repositories-for-developers-m06)
-- [How Developers Can Survive AI: 3 Hidden Skills To Become Irreplaceable 🤖](https://dev.to/dragosnedelcu/how-developers-can-survive-ai-3-hidden-skills-to-become-irreplaceable-17c5)
-- [Secure Upload URLs Buckets with Nitric in Python](https://dev.to/rsiv/secure-upload-urls-buckets-with-nitric-in-python-495o)
-- [I wrote a File System CLI in Rust](https://dev.to/pranta/i-wrote-a-file-system-cli-in-rust-4gbh)
+- [Accessibility tip for old HTML pages](https://dev.to/karenpayneoregon/accessibility-tip-for-old-html-pages-2nj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
