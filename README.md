@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [OPTICAL CHARACTER RECOGNITION USING NODE JS AND TESSERACT OCR ENGINE](https://dev.to/oluwatobi2001/optical-character-recognition-using-node-js-and-tesseract-ocr-engine-1ab)
+- [Should we be making laws against &quot;dark patterns&quot;?](https://dev.to/moopet/should-we-be-making-laws-against-dark-patterns-1dl8)
 - [Vagrant CLI Commands Cheat Sheet](https://dev.to/chigozieco/vagrant-cli-commands-cheat-sheet-f7c)
 - [Install Virtual Machine With Vagrant &amp; Remotely Access it](https://dev.to/chigozieco/install-virtual-machine-with-vagrant-remotely-access-it-4k5j)
 - [AWS open source newsletter, #192](https://dev.to/aws/aws-open-source-newsletter-192-g1o)
-- [Building a chat app: Chatrooms with Nodejs websockets and Vue &lpar;PART 2&rpar;](https://dev.to/hssanbzlm/building-a-chat-app-chatrooms-with-nodejs-websockets-and-vue-part-2-5f05)
-- [DeFi Vaults Selection: Rivo Methodology](https://dev.to/andre_antares/defi-vaults-selection-rivo-methodology-2nm3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
