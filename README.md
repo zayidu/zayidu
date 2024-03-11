@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hosting a static website on AWS S3 with CI/CD](https://dev.to/sanishchirayath1/hosting-a-static-website-on-aws-s3-with-cicd-3deh)
-- [⛵ Sailing the Choppy Waters of Floating-Point Precision in JavaScript 🔢](https://dev.to/best_codes/sailing-the-choppy-waters-of-floating-point-precision-in-javascript-3577)
-- [Rust: A Modern Approach to System Programming](https://dev.to/dipankarpaul/rust-a-modern-approach-to-system-programming-1ph0)
-- [Setting Up Obsidian for Content Planning and Project Management](https://dev.to/erikaheidi/setting-up-obsidian-for-content-planning-and-project-management-38f1)
-- [Building an Admin Console With Minimum Code Using React-Admin, Prisma, and Zenstack](https://dev.to/zenstack/building-an-admin-console-with-minimum-code-using-react-admin-prisma-and-zenstack-pkl)
+- [Fetch data from Sanity content management system in an Expo app](https://dev.to/angela300/fetche-data-from-sanity-content-management-system-in-an-expo-app-5aji)
+- [5 Game-Changing GitHub Repositories for Developers 🛠️🚀](https://dev.to/arjuncodess/5-game-changing-github-repositories-for-developers-m06)
+- [How Developers Can Survive AI: 3 Hidden Skills To Become Irreplaceable 🤖](https://dev.to/dragosnedelcu/how-developers-can-survive-ai-3-hidden-skills-to-become-irreplaceable-17c5)
+- [Secure Upload URLs Buckets with Nitric in Python](https://dev.to/rsiv/secure-upload-urls-buckets-with-nitric-in-python-495o)
+- [I wrote a File System CLI in Rust](https://dev.to/pranta/i-wrote-a-file-system-cli-in-rust-4gbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
