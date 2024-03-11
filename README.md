@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Impostor syndrome, burn out - interview with an ex-FAANG employee](https://dev.to/latobibor/impostor-syndrome-burn-out-interview-with-an-ex-faang-employee-2dha)
-- [Mastering the Top 5 User Interface Questions for Front-End Interviews ✔](https://dev.to/alisamirali/mastering-the-top-5-user-interface-questions-for-front-end-interviews-37p3)
-- [Running Local LLMs, CPU vs. GPU - a Quick Speed Test](https://dev.to/maximsaplin/running-local-llms-cpu-vs-gpu-a-quick-speed-test-2cjn)
-- [Understanding and Implementing Type Guards in TypeScript](https://dev.to/clarity89/understanding-and-implementing-type-guards-in-typescript-47j)
-- [Is Job Hopping In Tech Bad?](https://dev.to/maddy/is-job-hopping-in-tech-bad-23nk)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-36c)
+- [10 Must have VS Code Extensions for Developers in 2024](https://dev.to/durgesh4993/10-must-have-vs-code-extensions-for-developers-in-2024-1m83)
+- [Best Tech Stack for Web App Development in 2024](https://dev.to/durgesh4993/best-tech-stack-for-web-app-development-in-2024-2o4)
+- [Nevertheless, we coded - let&#39;s focus on the good ✨](https://dev.to/josefine/nevertheless-we-coded-lets-focus-on-the-good-226a)
+- [What are your goals for week 11 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-11-of-2024-3bp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
