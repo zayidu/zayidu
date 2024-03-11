@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS open source newsletter, #192](https://dev.to/aws/aws-open-source-newsletter-192-g1o)
+- [Cpp](https://dev.to/sunnat2009/cpp-52ok)
 - [Weekly Roundup 043 &lpar;Mar 04&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-043-mar-04-hot-topics-in-workplace-sharepoint-and-powerplatform-4p7i)
 - [Building Open Source Form Management tool for Developers](https://dev.to/ashelestov/building-open-source-form-management-tool-for-developers-14a7)
 - [Fetch any Website HTML without a cors error | Free API](https://dev.to/sh20raj/fetch-any-website-html-without-a-cors-error-free-api-17do)
-- [How we handled MySQL deadlocks in Productive - Part 1](https://dev.to/productive/how-we-handled-mysql-deadlocks-in-productive-part-1-15ce)
-- [A Guide to encryption and hashing in Laravel](https://dev.to/honeybadger/a-guide-to-encryption-and-hashing-in-laravel-1kff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
