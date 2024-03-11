@@ -9,9 +9,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to Add Base Maps to QGIS](https://dev.to/pokumars/how-to-add-base-maps-to-qgis-5f4)
 - [A QuickCheck Tutorial: Generators](https://dev.to/stack_builders/a-quickcheck-tutorial-generators-53pg)
+- [Lessons from open-source: Can you use &quot;require&quot; and &quot;import&quot; in the same file in NodeJs](https://dev.to/ramunarasinga/lessons-from-open-source-can-you-use-require-and-import-in-the-same-file-in-nodejs-2obd)
 - [Unlocking Professional Growth: The Untapped Value of Keeping a Working Journal](https://dev.to/dev3l/unlocking-professional-growth-the-untapped-value-of-keeping-a-working-journal-5cld)
 - [Fetch data from Sanity content management system in an Expo app](https://dev.to/angela300/fetche-data-from-sanity-content-management-system-in-an-expo-app-5aji)
-- [Accessibility tip for old HTML pages](https://dev.to/karenpayneoregon/accessibility-tip-for-old-html-pages-2nj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
