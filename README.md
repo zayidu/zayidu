@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Impostor syndrome, burn out - interview with an ex-FAANG employee](https://dev.to/latobibor/impostor-syndrome-burn-out-interview-with-an-ex-faang-employee-2dha)
+- [Mastering the Top 5 User Interface Questions for Front-End Interviews ✔](https://dev.to/alisamirali/mastering-the-top-5-user-interface-questions-for-front-end-interviews-37p3)
 - [Running Local LLMs, CPU vs. GPU - a Quick Speed Test](https://dev.to/maximsaplin/running-local-llms-cpu-vs-gpu-a-quick-speed-test-2cjn)
 - [Understanding and Implementing Type Guards in TypeScript](https://dev.to/clarity89/understanding-and-implementing-type-guards-in-typescript-47j)
 - [Is Job Hopping In Tech Bad?](https://dev.to/maddy/is-job-hopping-in-tech-bad-23nk)
-- [Meme Monday](https://dev.to/ben/meme-monday-ha4)
-- [Music Monday — What are you listening to? &lpar;Women Edition ♀&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-women-edition--1k16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
