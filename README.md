@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Base Maps to QGIS](https://dev.to/pokumars/how-to-add-base-maps-to-qgis-5f4)
-- [A QuickCheck Tutorial: Generators](https://dev.to/stack_builders/a-quickcheck-tutorial-generators-53pg)
-- [Lessons from open-source: Can you use &quot;require&quot; and &quot;import&quot; in the same file in NodeJs](https://dev.to/ramunarasinga/lessons-from-open-source-can-you-use-require-and-import-in-the-same-file-in-nodejs-2obd)
-- [Unlocking Professional Growth: The Untapped Value of Keeping a Working Journal](https://dev.to/dev3l/unlocking-professional-growth-the-untapped-value-of-keeping-a-working-journal-5cld)
-- [Fetch data from Sanity content management system in an Expo app](https://dev.to/angela300/fetche-data-from-sanity-content-management-system-in-an-expo-app-5aji)
+- [How to Never Forget: Mastering the Art of Retaining Knowledge](https://dev.to/yanpi/how-to-never-forget-mastering-the-art-of-retaining-knowledge-531h)
+- [I&#39;m sick of Vendor Lock 🤕](https://dev.to/johnrushx/im-sick-of-vendor-lock-1jcb)
+- [I Learned Neovim In A Weekend](https://dev.to/chigbeef_77/i-learned-neovim-in-a-weekend-47pf)
+- [React Memo vs useMemo](https://dev.to/kells/react-memo-vs-usememo-3j52)
+- [How to send emails from your website using Twilio SendGrid](https://dev.to/andrewbaisden/how-to-send-emails-from-your-website-using-twilio-sendgrid-4nbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
