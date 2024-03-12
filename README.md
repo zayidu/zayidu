@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Marp: A Markdown Presentation App That Simplifies Your Tech Talks](https://dev.to/rprabhu/marp-a-markdown-presentation-app-that-simplifies-your-tech-talks-37m4)
+- [🌟🚀💻 Plataforma Gamificada para Aprender Programação ✨🎮](https://dev.to/edilsonrogeriocuambe/plataforma-gamificada-para-aprender-programacao-3m62)
+- [Analysing the Differences between WebSocket and WebRTC](https://dev.to/digitalsamba/analysing-the-differences-between-websocket-and-webrtc-3l)
+- [From Beginner to Master: The Path to Becoming a PHP Guru](https://dev.to/hikarimaeda/from-beginner-to-master-the-path-to-becoming-a-php-guru-33am)
 - [Designing Machine Learning Workflows in Python](https://dev.to/swapnoneel123/designing-machine-learning-workflows-in-python-5832)
-- [My Email Newsletter!](https://dev.to/arjuncodess/my-email-newsletter-4c71)
-- [TanStack Router: Authenticated routes &amp; Guards](https://dev.to/this-is-learning/tanstack-router-authenticated-routes-guards-3obp)
-- [Storybook 8](https://dev.to/storybookjs/storybook-8-f09)
-- [Everything about Data Fetching &amp; the JavaScript Fetch API.](https://dev.to/sammaji15/everything-about-data-fetching-the-javascript-fetch-api-478)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
