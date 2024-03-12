@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying Laravel 11 with Reverb Websocket Support](https://dev.to/serverauth/deploying-laravel-11-with-reverb-websocket-support-4mna)
+- [What is your speaker mission statement?](https://dev.to/ceceliacreates/what-is-your-speaker-mission-statement-55fm)
+- [Understanding The Basic Syntax Of A Dockerfile.](https://dev.to/stefanie-a/understanding-the-basic-syntax-of-a-dockerfile-4c6m)
 - [The End of Programming](https://dev.to/sufian/the-end-of-programming-3061)
 - [React to Vercel: Deployment Made Easy.](https://dev.to/codeparrot/react-to-vercel-deployment-made-easy-bg2)
-- [Object memory reference in JS](https://dev.to/pulimoodan/object-memory-reference-in-js-2ne7)
-- [The 10 Best Websites for Finding Icons 🎨✨](https://dev.to/arjuncodess/the-10-best-websites-for-finding-icons-21kd)
-- [Grogue: A Roguelike Tutorial in Go &lpar;Part 4&rpar;](https://dev.to/thecal714/grogue-a-roguelike-tutorial-in-go-part-4-4fjk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
