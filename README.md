@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python libraries you need to know in 2024](https://dev.to/taipy/python-libraries-you-need-to-know-in-2024-37ka)
-- [How to Create an Admin Panel for Your PostgreSQL Database on Railway Cloud](https://dev.to/nikpoltoratsky/how-to-create-an-admin-panel-for-your-postgresql-database-on-railway-cloud-1gib)
-- [Creating modern Landing page with Particles and React](https://dev.to/basskibo/creating-modern-landing-page-with-particles-and-react-57li)
-- [Hello Again!](https://dev.to/spandan/hello-again-15oe)
-- [Spread vs Rest Operators in JavaScript](https://dev.to/baroblesvi/spread-vs-rest-operators-in-javascript-45f3)
+- [Designing Machine Learning Workflows in Python](https://dev.to/swapnoneel123/designing-machine-learning-workflows-in-python-5832)
+- [My Email Newsletter!](https://dev.to/arjuncodess/my-email-newsletter-4c71)
+- [TanStack Router: Authenticated routes &amp; Guards](https://dev.to/this-is-learning/tanstack-router-authenticated-routes-guards-3obp)
+- [Storybook 8](https://dev.to/storybookjs/storybook-8-f09)
+- [Everything about Data Fetching &amp; the JavaScript Fetch API.](https://dev.to/sammaji15/everything-about-data-fetching-the-javascript-fetch-api-478)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
