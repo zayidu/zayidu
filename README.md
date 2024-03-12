@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is INP and why you should care](https://dev.to/whitep4nth3r/what-is-inp-and-why-you-should-care-265a)
-- [SecretService: Library for Storing Secrets in Google Apps Script](https://dev.to/dataful/secretservice-library-for-storing-secrets-in-google-apps-script-4cah)
-- [Fuel Your Intelligent Apps with Azure AI](https://dev.to/azure/fuel-your-intelligent-apps-with-azure-ai-3j4b)
-- [Exploring the Synergy: Integrating API Gateway with LDAP Authentication](https://dev.to/api7/exploring-the-synergy-integrating-api-gateway-with-ldap-authentication-4ic7)
-- [Why Analysis Paralysis Is A Developer&#39;s Worst Enemy &lpar;and how dad jokes are the antidote&rpar;.](https://dev.to/redpandadev/why-analysis-paralysis-is-a-developers-worst-enemyand-how-dad-jokes-are-the-antidote-do6)
+- [Python libraries you need to know in 2024](https://dev.to/taipy/python-libraries-you-need-to-know-in-2024-37ka)
+- [How to Create an Admin Panel for Your PostgreSQL Database on Railway Cloud](https://dev.to/nikpoltoratsky/how-to-create-an-admin-panel-for-your-postgresql-database-on-railway-cloud-1gib)
+- [Creating modern Landing page with Particles and React](https://dev.to/basskibo/creating-modern-landing-page-with-particles-and-react-57li)
+- [Hello Again!](https://dev.to/spandan/hello-again-15oe)
+- [Spread vs Rest Operators in JavaScript](https://dev.to/baroblesvi/spread-vs-rest-operators-in-javascript-45f3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
