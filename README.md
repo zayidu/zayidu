@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Uchinchi dars if va else](https://dev.to/zafar7709/uchinchi-dars-if-va-else-56ke)
 - [Apps that changed your life](https://dev.to/nandinishinduja/apps-that-changed-your-life-55fl)
+- [Hono vs. H3 vs. HatTip vs. Elysia - modern server&lpar;less&rpar; replacements for Express](https://dev.to/this-is-learning/hono-vs-h3-vs-hattip-vs-elysia-modern-serverless-replacements-for-express-3a6n)
 - [Implementing a RAG System on DuckDB Using JinaAI and SuperDuperDB](https://dev.to/guerra2fernando/implementing-a-rag-system-on-duckdb-using-jinaai-and-superduperdb-1kgm)
-- [Mobile App Development for Beginners: A Step-by-Step Guide](https://dev.to/dynamicmethods/mobile-app-development-for-beginners-a-step-by-step-guide-1ia)
 - [Stash changes in a git repository with VS Code](https://dev.to/amanhimself/stash-changes-in-a-git-repository-with-vs-code-33pi)
-- [Building a full stack app with Remix, Prisma, and Neon](https://dev.to/hackmamba/building-a-full-stack-app-with-remix-prisma-and-neon-3hf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
