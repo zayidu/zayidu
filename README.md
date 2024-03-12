@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Difference Between REM and PX in CSS](https://dev.to/devcanvas_/understanding-the-difference-between-rem-and-px-in-css-1n1o)
+- [Step-by-Step Guide: Configuring Container Types in SharePoint Embedded](https://dev.to/jaloplo/step-by-step-guide-configuring-container-types-in-sharepoint-embedded-h9d)
+- [Liman MYS Dağıtım Eklentisi ile Cihaz Ajanı Dağıtma](https://dev.to/aciklab/liman-mys-dagitim-eklentisi-ile-cihaz-ajani-dagitma-3nne)
 - [What Are the Top Database Optimization Techniques?](https://dev.to/devteam/what-are-the-top-database-optimization-techniques-4ode)
 - [Learn how to implement the softmax function in python!](https://dev.to/pavanbelagatti/learn-how-to-implement-the-softmax-function-in-python-587a)
-- [16 Best Ruby Frameworks For Web Development [2024]](https://dev.to/lambdatest/16-best-ruby-frameworks-for-web-development-2024-40o)
-- [Exploring Regression Analysis: Unveiling Data&#39;s Hidden Patterns](https://dev.to/kammarianand/exploring-regression-analysis-unveiling-datas-hidden-patterns-35fp)
-- [Asymptotic analysis](https://dev.to/tanmaycode/asymptotic-analysis-37m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
