@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Uchinchi dars if va else](https://dev.to/zafar7709/uchinchi-dars-if-va-else-56ke)
-- [Apps that changed your life](https://dev.to/nandinishinduja/apps-that-changed-your-life-55fl)
-- [Hono vs. H3 vs. HatTip vs. Elysia - modern server&lpar;less&rpar; replacements for Express](https://dev.to/this-is-learning/hono-vs-h3-vs-hattip-vs-elysia-modern-serverless-replacements-for-express-3a6n)
-- [Implementing a RAG System on DuckDB Using JinaAI and SuperDuperDB](https://dev.to/guerra2fernando/implementing-a-rag-system-on-duckdb-using-jinaai-and-superduperdb-1kgm)
-- [Stash changes in a git repository with VS Code](https://dev.to/amanhimself/stash-changes-in-a-git-repository-with-vs-code-33pi)
+- [What is INP and why you should care](https://dev.to/whitep4nth3r/what-is-inp-and-why-you-should-care-265a)
+- [SecretService: Library for Storing Secrets in Google Apps Script](https://dev.to/dataful/secretservice-library-for-storing-secrets-in-google-apps-script-4cah)
+- [Fuel Your Intelligent Apps with Azure AI](https://dev.to/azure/fuel-your-intelligent-apps-with-azure-ai-3j4b)
+- [Exploring the Synergy: Integrating API Gateway with LDAP Authentication](https://dev.to/api7/exploring-the-synergy-integrating-api-gateway-with-ldap-authentication-4ic7)
+- [Why Analysis Paralysis Is A Developer&#39;s Worst Enemy &lpar;and how dad jokes are the antidote&rpar;.](https://dev.to/redpandadev/why-analysis-paralysis-is-a-developers-worst-enemyand-how-dad-jokes-are-the-antidote-do6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
