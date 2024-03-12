@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [EncriptorJS is a JavaScript text encryption - decryption library](https://dev.to/sh20raj/encriptorjs-is-a-javascript-text-encryption-decryption-library-2045)
+- [Create a vertical timeline](https://dev.to/phuocng/create-a-vertical-timeline-12ln)
 - [From Doubt to Growth: Can we think differently about Imposter Syndrome?](https://dev.to/leogopal/from-doubt-to-growth-can-we-think-differently-about-imposter-syndrome-4edl)
 - [How to Generate AI Images with Stable Diffusion XL in 5 Minutes](https://dev.to/jeremycmorgan/how-to-generate-ai-images-with-stable-diffusion-xl-in-5-minutes-4ael)
 - [async/await in Python](https://dev.to/mainpynerds/asyncawait-in-python-j80)
-- [Feature Toggle ou Feature Flag](https://dev.to/leticiabibiano/feature-toggle-ou-feature-flag-4g2)
-- [How to Never Forget: Mastering the Art of Retaining Knowledge](https://dev.to/yanpi/how-to-never-forget-mastering-the-art-of-retaining-knowledge-531h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
