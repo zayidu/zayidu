@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are the Top Database Optimization Techniques?](https://dev.to/devteam/what-are-the-top-database-optimization-techniques-4ode)
+- [Learn how to implement the softmax function in python!](https://dev.to/pavanbelagatti/learn-how-to-implement-the-softmax-function-in-python-587a)
+- [16 Best Ruby Frameworks For Web Development [2024]](https://dev.to/lambdatest/16-best-ruby-frameworks-for-web-development-2024-40o)
 - [Exploring Regression Analysis: Unveiling Data&#39;s Hidden Patterns](https://dev.to/kammarianand/exploring-regression-analysis-unveiling-datas-hidden-patterns-35fp)
 - [Asymptotic analysis](https://dev.to/tanmaycode/asymptotic-analysis-37m4)
-- [10 eBook Formatting Mistakes to Avoid When Self-Publishing](https://dev.to/alphaebook/10-ebook-formatting-mistakes-to-avoid-when-self-publishing-9b0)
-- [Real-Time Bidding with AI: A Developer&#39;s Guide](https://dev.to/andrewupton/real-time-bidding-with-ai-a-developers-guide-5hmg)
-- [Strings in Rust](https://dev.to/samyak112/strings-in-rust-4elm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
