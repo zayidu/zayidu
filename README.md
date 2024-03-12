@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [I Published This with Drag and Drop using Vrite](https://dev.to/vrite/i-published-this-with-drag-and-drop-using-vrite-4b1e)
+- [Navigating the Challenges of Scaling Open Source Projects](https://dev.to/opensauced/navigating-the-challenges-of-scaling-open-source-projects-11h2)
+- [122 berufliches Vorwärtskommen: Olivenöl zum Salat.](https://dev.to/amustafa16421/122-berufliches-vorwartskommen-olivenol-zum-salat-180g)
 - [Make vs. Zapier: Which One is Better in 2024?](https://dev.to/stan8086/make-vs-zapier-which-one-is-better-in-2024-15mm)
 - [Marp: A Markdown Presentation App That Simplifies Your Tech Talks](https://dev.to/rprabhu/marp-a-markdown-presentation-app-that-simplifies-your-tech-talks-37m4)
-- [🌟🚀💻 Plataforma Gamificada para Aprender Programação ✨🎮](https://dev.to/edilsonrogeriocuambe/plataforma-gamificada-para-aprender-programacao-3m62)
-- [Analysing the Differences between WebSocket and WebRTC](https://dev.to/digitalsamba/analysing-the-differences-between-websocket-and-webrtc-3l)
-- [From Beginner to Master: The Path to Becoming a PHP Guru](https://dev.to/hikarimaeda/from-beginner-to-master-the-path-to-becoming-a-php-guru-33am)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
