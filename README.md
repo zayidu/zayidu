@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Laravel 11 with Reverb Websocket Support](https://dev.to/serverauth/deploying-laravel-11-with-reverb-websocket-support-4mna)
-- [What is your speaker mission statement?](https://dev.to/ceceliacreates/what-is-your-speaker-mission-statement-55fm)
-- [Understanding The Basic Syntax Of A Dockerfile.](https://dev.to/stefanie-a/understanding-the-basic-syntax-of-a-dockerfile-4c6m)
-- [The End of Programming](https://dev.to/sufian/the-end-of-programming-3061)
-- [React to Vercel: Deployment Made Easy.](https://dev.to/codeparrot/react-to-vercel-deployment-made-easy-bg2)
+- [5 FRONTEND DEVELOPMENT BEST PRACTICES](https://dev.to/victor_88/5-frontend-development-best-practices-532m)
+- [Revolutionizing Teaching: A Comprehensive Review of AI Tools for Educators](https://dev.to/jahan/revolutionizing-teaching-a-comprehensive-review-of-ai-tools-for-educators-1kea)
+- [Lessons from open-source: Taskr in Next.js source code.](https://dev.to/ramunarasinga/lessons-from-open-source-taskr-in-nextjs-source-code-1ml7)
+- [Elevate Your PHP Development Game with Composer Tips](https://dev.to/gemal/elevate-your-php-development-game-with-composer-tips-1cmh)
+- [Nodejs Security - What You Need To Know - Live Stream](https://dev.to/schalkneethling/nodejs-security-what-you-need-to-know-live-stream-5ao9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
