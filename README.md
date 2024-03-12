@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Real-Time Bidding with AI: A Developer&#39;s Guide](https://dev.to/andrewupton/real-time-bidding-with-ai-a-developers-guide-5hmg)
 - [EncriptorJS is a JavaScript text encryption - decryption library](https://dev.to/sh20raj/encriptorjs-is-a-javascript-text-encryption-decryption-library-2045)
 - [Create a vertical timeline](https://dev.to/phuocng/create-a-vertical-timeline-12ln)
+- [TypeScript Enums: 5 Real-World Use Cases](https://dev.to/alexefimenko/typescript-enums-5-real-world-use-cases-4idk)
 - [From Doubt to Growth: Can we think differently about Imposter Syndrome?](https://dev.to/leogopal/from-doubt-to-growth-can-we-think-differently-about-imposter-syndrome-4edl)
-- [How to Generate AI Images with Stable Diffusion XL in 5 Minutes](https://dev.to/jeremycmorgan/how-to-generate-ai-images-with-stable-diffusion-xl-in-5-minutes-4ael)
-- [async/await in Python](https://dev.to/mainpynerds/asyncawait-in-python-j80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
