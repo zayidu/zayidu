@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up a Docker Container](https://dev.to/emminex/how-to-set-up-a-docker-container-1m5l)
-- [CSS Cheatsheet](https://dev.to/mikevarenek/css-cheatsheet-3e0e)
-- [Hyperswitch by Juspay](https://dev.to/hyperswitchio/hyperswitch-by-juspay-3244)
-- [Micro Frontends with Vite and Bit](https://dev.to/giteden/micro-frontends-with-vite-and-bit-22a5)
-- [Using cURL Custom Headers: A Simple Guide](https://dev.to/emminex/using-curl-custom-headers-a-simple-guide-164m)
+- [Automate Your Node.js Version Switching](https://dev.to/maurerkrisztian/automate-your-nvm-version-switching-1fb9)
+- [How to Build: an AI-powered PowerPoint Generator 𝐏𝐓. 𝐈𝐈 &lpar;LangChain, CopilotKit, OpenAI, Next.js&rpar;](https://dev.to/copilotkit/how-to-build-an-ai-powered-powerpoint-generator-langchain-copilotkit-openai-nextjs-4c76)
+- [VSCode Extensions for 2024](https://dev.to/himanshudevgupta/vscode-extensions-for-2024-2j3c)
+- [Frontend Developer Roadmap 2024](https://dev.to/codeparrot/frontend-developer-roadmap-2024-12l9)
+- [Sending Telegram Messages using Node.js and the Telegram API](https://dev.to/basskibo/sending-telegram-messages-using-nodejs-and-the-telegram-api-148h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
