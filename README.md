@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v267](https://dev.to/devteam/welcome-thread-v267-4na2)
-- [Essential Strategies and Practices for Entity Framework Core](https://dev.to/admirmujkic/essential-strategies-and-practices-for-entity-framework-core-24kf)
-- [5 FRONTEND DEVELOPMENT BEST PRACTICES](https://dev.to/victor_88/5-frontend-development-best-practices-532m)
-- [Become a DEV](https://dev.to/jayspie/become-a-dev-28b8)
-- [Revolutionizing Teaching: A Comprehensive Review of AI Tools for Educators](https://dev.to/jahan/revolutionizing-teaching-a-comprehensive-review-of-ai-tools-for-educators-1kea)
+- [Create a holy grail layout](https://dev.to/phuocng/create-a-holy-grail-layout-1mb5)
+- [CSS Battle #2 - Carrom](https://dev.to/jitheshpoojari/css-battle-2-carrom-560l)
+- [ZK Series #4 [ Sets, Groups, Rings , Finite Fields and Prime Fields]](https://dev.to/justiceessielp/zk-series-4-sets-groups-rings-finite-fields-and-prime-fields-2623)
+- [Kubernetes Simplified: Embarking on the Zero to Hero Journey - Part 2](https://dev.to/sagordondev/kubernetes-simplified-embarking-on-the-zero-to-hero-journey-part-2-50cg)
+- [Why the .Any&lpar;&rpar; Method Can Be Faster Than .Count&lpar;&rpar; in C#](https://dev.to/admirmujkic/why-the-any-method-can-be-faster-than-count-in-c-3li2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
