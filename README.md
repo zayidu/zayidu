@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [She Makes $120,000 a Month Blogging](https://dev.to/sufian/she-makes-120000-a-month-blogging-23k0)
+- [Minha jornada de otimização de uma aplicação django](https://dev.to/rafaelpadovezi/minha-jornada-de-otimizacao-de-uma-aplicacao-django-2mdi)
 - [Angular Performance Boost: Dive into Eager and Lazy Loading Mechanisms](https://dev.to/chintanonweb/angular-performance-boost-dive-into-eager-and-lazy-loading-mechanisms-4io2)
 - [Chrome Extensions For Web Developers 🌟🔥](https://dev.to/arjuncodess/7-chrome-extensions-for-web-developers-54ib)
-- [Maximize Your Marketing Efforts: The Ultimate Guide to 10 Top AI Tools of 2024](https://dev.to/jahan/maximize-your-marketing-efforts-the-ultimate-guide-to-10-top-ai-tools-of-2024-3bi1)
-- [Centering an Image in CSS: A Detailed Guide](https://dev.to/lambdatest/centering-an-image-in-css-a-detailed-guide-114b)
-- [Configure Static IP in Ubuntu 22.04](https://dev.to/mich0w0h/configure-static-ip-in-ubuntu-2204-2fd7)
+- [A Beginner&#39;s Guide to Docker Image Commands: Managing Docker Images](https://dev.to/ed_akoth/a-beginners-guide-to-docker-image-commands-managing-docker-images-lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
