@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Websites for Free Bootstrap Templates](https://dev.to/devluc/20-websites-for-free-bootstrap-templates-4on4)
-- [PivotTable : Toolkit for Smart Data Exploration and Analysis](https://dev.to/balagmadhu/pivottable-toolkit-for-smart-data-exploration-and-analysis-obp)
-- [Getting Started with Terraform on AWS](https://dev.to/refine/getting-started-with-terraform-on-aws-4dcm)
-- [Build a password strength indicator in ReactJs.](https://dev.to/swastikyadav/build-a-password-strength-indicator-in-reactjs-mfm)
-- [Essential Investments for Remote Programmers?](https://dev.to/devteam/essential-investments-for-remote-programmers-4807)
+- [From Skeptic to Believer: My Docker Story](https://dev.to/alahirajeffrey/from-skeptic-to-believer-my-docker-story-1hof)
+- [How to create a dismissible cookie banner with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-dismissiblecookie-banner-withtailwind-css-and-alpinejs-1m5p)
+- [Mastering Backlink Indexing: A Comprehensive Guide to Boosting Your Website&#39;s Visibility in Search Results](https://dev.to/shahseo/mastering-backlink-indexing-a-comprehensive-guide-to-boosting-your-websites-visibility-in-search-results-51l7)
+- [🤯 150 Articles to Satisfy Your Curiosity](https://dev.to/florianrappl/150-articles-to-satisfy-your-curiosity-3c22)
+- [A New Way to Provision Databases on Kubernetes](https://dev.to/dbazhenov/a-new-way-to-provision-databases-on-kubernetes-126h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
