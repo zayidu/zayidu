@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Declaring Multiple Variables in a “for” Loop Initialization Clause](https://dev.to/pauljlucas/declaring-multiple-variables-in-a-for-loop-initialization-clause-20n3)
+- [A Closer Look at the Ongoing DeFi Vault Revolution](https://dev.to/andre_antares/a-closer-look-at-the-ongoing-defi-vault-revolution-3o6o)
+- [Unit Testing Auth0 Custom Database Scripts](https://dev.to/thiagomini/unit-testing-auth0-custom-database-scripts-2mbi)
 - [A Secure, Privacy-First AI-driven Data Collection Platform: BlockSurvey](https://dev.to/boxyhq/a-secure-privacy-first-ai-driven-data-collection-platform-blocksurvey-4mdd)
 - [25 Unnoticeable Features of JavaScript](https://dev.to/mmainulhasan/25-unnoticeable-features-of-javascript-15l1)
-- [My New Favorite CSS Trick: will-change](https://dev.to/highflyer910/my-new-favorite-css-trick-will-change-5791)
-- [Automate Your Node.js Version Switching](https://dev.to/maurerkrisztian/automate-your-nvm-version-switching-1fb9)
-- [How to Build: an AI-powered PowerPoint Generator 𝐏𝐓. 𝐈𝐈 &lpar;LangChain, CopilotKit, Next.js, OpenAI&rpar;](https://dev.to/copilotkit/how-to-build-an-ai-powered-powerpoint-generator-langchain-copilotkit-openai-nextjs-4c76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
