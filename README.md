@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s New in API7 Enterprise: Token Management](https://dev.to/api7/whats-new-in-api7-enterprise-token-management-482l)
 - [From Skeptic to Believer: My Docker Story](https://dev.to/alahirajeffrey/from-skeptic-to-believer-my-docker-story-1hof)
 - [How to create a dismissible cookie banner with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-dismissiblecookie-banner-withtailwind-css-and-alpinejs-1m5p)
 - [Mastering Backlink Indexing: A Comprehensive Guide to Boosting Your Website&#39;s Visibility in Search Results](https://dev.to/shahseo/mastering-backlink-indexing-a-comprehensive-guide-to-boosting-your-websites-visibility-in-search-results-51l7)
-- [🤯 150 Articles to Satisfy Your Curiosity](https://dev.to/florianrappl/150-articles-to-satisfy-your-curiosity-3c22)
-- [A New Way to Provision Databases on Kubernetes](https://dev.to/dbazhenov/a-new-way-to-provision-databases-on-kubernetes-126h)
+- [🤯 150 WebDev Articles to Satisfy Your Curiosity](https://dev.to/florianrappl/150-articles-to-satisfy-your-curiosity-3c22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
