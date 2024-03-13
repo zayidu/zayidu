@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Keep react component complexity in check with inversion of control](https://dev.to/francodalmau/keep-react-component-complexity-in-check-with-inversion-of-control-51c4)
+- [accessibility tips from an accessibility engineer](https://dev.to/westbrookc16/accessibility-tips-from-an-accessibility-engineer-4kl8)
+- [GitHub “besieged” by malware repositories and repo confusion: Why you&#39;ll be ok](https://dev.to/snyk/github-besieged-by-malware-repositories-and-repo-confusion-why-youll-be-ok-5hhn)
 - [Create a holy grail layout](https://dev.to/phuocng/create-a-holy-grail-layout-1mb5)
 - [CSS Battle #2 - Carrom](https://dev.to/jitheshpoojari/css-battle-2-carrom-560l)
-- [ZK Series #4 [ Sets, Groups, Rings , Finite Fields and Prime Fields]](https://dev.to/justiceessielp/zk-series-4-sets-groups-rings-finite-fields-and-prime-fields-2623)
-- [Kubernetes Simplified: Embarking on the Zero to Hero Journey - Part 2](https://dev.to/sagordondev/kubernetes-simplified-embarking-on-the-zero-to-hero-journey-part-2-50cg)
-- [Why the .Any&lpar;&rpar; Method Can Be Faster Than .Count&lpar;&rpar; in C#](https://dev.to/admirmujkic/why-the-any-method-can-be-faster-than-count-in-c-3li2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
