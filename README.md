@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Must-Know Git Commands for Software Engineers](https://dev.to/sufian/10-must-know-git-commands-for-software-engineers-50me)
 - [She Makes $120,000 a Month Blogging](https://dev.to/sufian/she-makes-120000-a-month-blogging-23k0)
 - [Minha jornada de otimização de uma aplicação django](https://dev.to/rafaelpadovezi/minha-jornada-de-otimizacao-de-uma-aplicacao-django-2mdi)
 - [Angular Performance Boost: Dive into Eager and Lazy Loading Mechanisms](https://dev.to/chintanonweb/angular-performance-boost-dive-into-eager-and-lazy-loading-mechanisms-4io2)
 - [Chrome Extensions For Web Developers 🌟🔥](https://dev.to/arjuncodess/7-chrome-extensions-for-web-developers-54ib)
-- [A Beginner&#39;s Guide to Docker Image Commands: Managing Docker Images](https://dev.to/ed_akoth/a-beginners-guide-to-docker-image-commands-managing-docker-images-lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
