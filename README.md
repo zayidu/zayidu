@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular Performance Boost: Dive into Eager and Lazy Loading Mechanisms](https://dev.to/chintanonweb/angular-performance-boost-dive-into-eager-and-lazy-loading-mechanisms-4io2)
+- [Chrome Extensions For Web Developers 🌟🔥](https://dev.to/arjuncodess/7-chrome-extensions-for-web-developers-54ib)
 - [Maximize Your Marketing Efforts: The Ultimate Guide to 10 Top AI Tools of 2024](https://dev.to/jahan/maximize-your-marketing-efforts-the-ultimate-guide-to-10-top-ai-tools-of-2024-3bi1)
-- [Devin! World&#39;s First AI Software Engineer](https://dev.to/shaheryaryousaf/devin-worlds-first-ai-software-engineer-263g)
-- [Grilled Cheese and Service Control Policies &lpar;SCPs&rpar;](https://dev.to/aws-builders/grilled-cheese-and-service-control-policies-scps-3mkh)
-- [React Compiler &amp; React 19 - forget about memoization soon?](https://dev.to/adevnadia/react-compiler-react-19-forget-about-memoization-soon-1hfn)
-- [Is $170,000 top 10% pay for software developers in San Francisco?](https://dev.to/nholden/is-170000-top-10-pay-for-software-developers-in-san-francisco-34k6)
+- [Centering an Image in CSS: A Detailed Guide](https://dev.to/lambdatest/centering-an-image-in-css-a-detailed-guide-114b)
+- [Configure Static IP in Ubuntu 22.04](https://dev.to/mich0w0h/configure-static-ip-in-ubuntu-2204-2fd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
