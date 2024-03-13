@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Maximize Your Marketing Efforts: The Ultimate Guide to 10 Top AI Tools of 2024](https://dev.to/jahan/maximize-your-marketing-efforts-the-ultimate-guide-to-10-top-ai-tools-of-2024-3bi1)
+- [Devin! World&#39;s First AI Software Engineer](https://dev.to/shaheryaryousaf/devin-worlds-first-ai-software-engineer-263g)
+- [Grilled Cheese and Service Control Policies &lpar;SCPs&rpar;](https://dev.to/aws-builders/grilled-cheese-and-service-control-policies-scps-3mkh)
 - [React Compiler &amp; React 19 - forget about memoization soon?](https://dev.to/adevnadia/react-compiler-react-19-forget-about-memoization-soon-1hfn)
-- [Make your product collaborative with Convex](https://dev.to/kunga/make-your-product-collaborative-with-convex-2945)
-- [Using CLI Applications to Increase Efficiency in Work](https://dev.to/hoaitx/using-cli-applications-to-increase-efficiency-in-work-1d10)
-- [The Fog of Misinformation: The Extent of AI-Generated False Information](https://dev.to/hikarimaeda/the-fog-of-misinformation-the-extent-of-ai-generated-false-information-10c9)
-- [Building a simple web server in Rust](https://dev.to/shuttle_dev/building-a-simple-web-server-in-rust-5c57)
+- [Is $170,000 top 10% pay for software developers in San Francisco?](https://dev.to/nholden/is-170000-top-10-pay-for-software-developers-in-san-francisco-34k6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
