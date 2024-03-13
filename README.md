@@ -8,10 +8,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Welcome Thread - v267](https://dev.to/devteam/welcome-thread-v267-4na2)
+- [Essential Strategies and Practices for Entity Framework Core](https://dev.to/admirmujkic/essential-strategies-and-practices-for-entity-framework-core-24kf)
 - [5 FRONTEND DEVELOPMENT BEST PRACTICES](https://dev.to/victor_88/5-frontend-development-best-practices-532m)
+- [Become a DEV](https://dev.to/jayspie/become-a-dev-28b8)
 - [Revolutionizing Teaching: A Comprehensive Review of AI Tools for Educators](https://dev.to/jahan/revolutionizing-teaching-a-comprehensive-review-of-ai-tools-for-educators-1kea)
-- [Lessons from open-source: Taskr in Next.js source code.](https://dev.to/ramunarasinga/lessons-from-open-source-taskr-in-nextjs-source-code-1ml7)
-- [Elevate Your PHP Development Game with Composer Tips](https://dev.to/gemal/elevate-your-php-development-game-with-composer-tips-1cmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
