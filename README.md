@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Publishing .NET Applications with dotnet publish](https://dev.to/ssukhpinder/publishing-net-applications-with-dotnet-publish-545p)
 - [The difficulty of SQL stems from relational algebra](https://dev.to/esproc_spl/the-difficulty-of-sql-stems-from-relational-algebra-47n)
 - [Entendendo memória em transações financeiras](https://dev.to/pedrovian4/entendendo-memoria-em-transacoes-financeiras-kkb)
 - [Build and Deploy: REST API with AWS &lpar;Lambda, API Gateway and DynamoDB&rpar; using Golang](https://dev.to/sourjaya/build-and-deploy-rest-api-with-aws-lambda-api-gateway-and-dynamodb-using-golang-58ap)
 - [Request and Response](https://dev.to/otumianempire/request-and-response-1031)
-- [Streamlining Software Development: The Power of .gitignore Templates](https://dev.to/adarshbp/streamlining-software-development-the-power-of-gitignore-templates-5aap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
