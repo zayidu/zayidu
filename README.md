@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to fix the Cloudwatch log stream: ResourceNotFoundException: The specified log group does not exist in ECS](https://dev.to/fanmixco/how-to-fix-the-cloudwatch-log-stream-resourcenotfoundexception-the-specified-log-group-does-not-exist-in-ecs-1h70)
+- [Slack vs Teams: Which Tool to Choose in 2024](https://dev.to/stan8086/slack-vs-teams-which-tool-to-choose-in-2024-148b)
+- [Happy Pi Day — Share Your Favorite Raspberry Pi Projects &amp; Posts! 🥧](https://dev.to/devteam/happy-pi-day-share-your-favorite-raspberry-pi-projects-posts-2dgc)
+- [A better way to display the loading state in Nextjs forms with useFormStatus](https://dev.to/thatanjan/a-better-way-to-display-the-loading-state-in-nextjs-forms-with-useformstatus-28pl)
 - [Exit Code 137 - Kubernetes](https://dev.to/refine/exit-code-137-kubernetes-2e08)
-- [Sloan&#39;s Inbox: How to answer &quot;Where do you see yourself in 5 years?&quot; when I&#39;m content where I am.](https://dev.to/devteam/sloans-inbox-how-to-answer-where-do-you-see-yourself-in-5-years-when-im-content-where-i-am-jbm)
-- [All the tools I need to build a perfect AI app.](https://dev.to/taipy/all-the-tools-i-need-to-build-a-perfect-ai-app-2oeh)
-- [JSON Web Token &lpar;JWT&rpar;](https://dev.to/adrianbailador/json-web-token-jwt-40ob)
-- [I made my first game solo with Godot for a Game jam](https://dev.to/yvonnickfrin/i-made-my-first-game-solo-with-godot-for-a-game-jam-3lf8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
