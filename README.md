@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create Bookmarklets Using Libraries Like React](https://dev.to/bwca/how-to-create-bookmarklets-using-libraries-like-react-2bhc)
 - [What is a Relational Database for Beginners](https://dev.to/annoh_karlgusta/what-is-a-relational-database-for-beginners-5ghd)
+- [Repositório Mulheres na Tecnologia](https://dev.to/anatechdev/repositorio-mulheres-na-tecnologia-1nj8)
 - [here is - how do i structure my nestjs projects](https://dev.to/fiamon/here-is-how-do-i-structure-my-nestjs-projects-m6)
 - [Nurturing Relationships for AI Excellence](https://dev.to/codenewbieteam/nurturing-relationships-for-ai-excellence-26i0)
-- [Tailwind CSS v4.0 Alpha: A Revolution Unveiled](https://dev.to/mitchiemt11/tailwind-css-v40-alpha-a-revolution-unveiled-3g72)
-- [Give Up Sooner](https://dev.to/wagslane/give-up-sooner-3nne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
