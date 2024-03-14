@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Five Syntax Highlighting Plugins for NextJS that aren&#39;t Terrible 🎨](https://dev.to/magnificode/five-syntax-highlighting-plugins-for-nextjs-that-arent-terrible-32gg)
+- [123 berufliches Vorwärtskommen: Wandern.](https://dev.to/amustafa16421/123-berufliches-vorwartskommen-wandern-41f)
 - [Oltinchi dars round](https://dev.to/zafar7709/oltinchi-dars-round-1mg1)
 - [Beshinchi dars int va char float double](https://dev.to/zafar7709/tortinchi-dars-int-va-char-float-double-246i)
 - [To&#39;rtinchi dars switch](https://dev.to/zafar7709/uchinchi-dars-switch-327n)
-- [A New Hope: Embarking on My Journey from Node.js to GoLang](https://dev.to/leo1994/a-new-hope-embarking-on-my-journey-from-nodejs-to-golang-25dm)
-- [Stuck in the Middle with You: An intro to Middleware](https://dev.to/opensauced/stuck-in-the-middle-with-you-an-intro-to-middleware-1gjo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
