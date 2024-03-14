@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Devin AI: The World’s First AI Software Engineer.](https://dev.to/sufian/devin-ai-the-worlds-first-ai-software-engineer-m3k)
+- [The Ultimate SQL SELECT Cheat Sheet](https://dev.to/christianpaez/the-ultimate-sql-select-cheat-sheet-37dl)
 - [What’s the best way to learn to code?](https://dev.to/gigo_dev/whats-the-best-way-to-learn-to-code-27f2)
 - [Introducing DEV Challenges](https://dev.to/devteam/introducing-dev-challenges-1mk9)
-- [What is System design? &amp; terms you should know before diving deep into system design.](https://dev.to/shyynux/what-is-system-design-terms-you-should-know-before-diving-deep-into-system-design-3jij)
-- [Announcing AnalogJS 1.0 🚀](https://dev.to/analogjs/announcing-analogjs-10-19an)
-- [✨ Get Dizzy with Digits: Celebrating Pi Day with JavaScript 🥧](https://dev.to/best_codes/get-dizzy-with-digits-celebrating-pi-day-with-javascript-456k)
+- [Payments in Blockchain](https://dev.to/nairsreya/payments-in-blockchain-3plm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
