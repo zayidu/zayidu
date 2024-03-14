@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [You&#39;re Installing Node.js Wrong. That&#39;s OK, Here Is How To Fix It 🙌](https://dev.to/schalkneethling/youre-installing-nodejs-wrong-thats-ok-here-is-how-to-fix-it-3pk8)
+- [3 Tips for Deploying APISIX in Kubernetes &lpar;Part 1&rpar;](https://dev.to/api7/3-tips-for-deploying-apisix-in-kubernetes-part-1-2dek)
+- [Android App Development in New York: Your Key Considerations](https://dev.to/dhruvjoshi9/android-app-development-in-new-york-your-key-considerations-2m98)
+- [Exploring the Dynamic World of Walles.AI&#39;s Natural Language Processing Advancements](https://dev.to/geekyqee/exploring-the-dynamic-world-of-wallesais-natural-language-processing-advancements-1el9)
 - [Using my new Raspberry Pi to run an existing GitHub Action](https://dev.to/nfrankel/using-my-new-raspberry-pi-to-run-an-existing-github-action-29kl)
-- [How to dump and restore a Postgres DB with new table ownership](https://dev.to/gemmablack/how-to-dump-and-restore-postgres-db-with-new-table-ownership-3h8j)
-- [The Upper Limits of WebAssembly Performance](https://dev.to/ajanibilby/the-upper-limits-of-webassembly-performance-1j29)
-- [Publishing .NET Applications with dotnet publish](https://dev.to/ssukhpinder/publishing-net-applications-with-dotnet-publish-545p)
-- [The difficulty of SQL stems from relational algebra](https://dev.to/esproc_spl/the-difficulty-of-sql-stems-from-relational-algebra-47n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
