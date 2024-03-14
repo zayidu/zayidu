@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [✨ Get Dizzy with Digits: Celebrating Pi Day with JavaScript 🥧](https://dev.to/best_codes/get-dizzy-with-digits-celebrating-pi-day-with-javascript-456k)
+- [Performance Tips Every JS React Developer Should Know.](https://dev.to/kartikbudhraja/performance-tips-every-js-react-developer-should-know-1jog)
+- [Using PostHog with Rust](https://dev.to/shuttle_dev/using-posthog-with-rust-387c)
+- [📱 Introducing my latest sideproject: Fridge Leftovers AI 🍲](https://dev.to/azettl/introducing-my-latest-sideproject-fridge-leftovers-ai-2h7n)
 - [Five Syntax Highlighting Plugins for NextJS that aren&#39;t Terrible 🎨](https://dev.to/magnificode/five-syntax-highlighting-plugins-for-nextjs-that-arent-terrible-32gg)
-- [123 berufliches Vorwärtskommen: Wandern.](https://dev.to/amustafa16421/123-berufliches-vorwartskommen-wandern-41f)
-- [Oltinchi dars round](https://dev.to/zafar7709/oltinchi-dars-round-1mg1)
-- [Beshinchi dars int va char float double](https://dev.to/zafar7709/tortinchi-dars-int-va-char-float-double-246i)
-- [To&#39;rtinchi dars switch](https://dev.to/zafar7709/uchinchi-dars-switch-327n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
