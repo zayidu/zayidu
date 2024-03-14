@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [React UI Component Libraries every developer should know](https://dev.to/sharmaprash/react-ui-component-libraries-every-developer-should-know-me0)
+- [How to NOT answer &quot;Where do you see yourself in 5 years?](https://dev.to/jmfayard/how-to-not-answer-where-do-you-see-yourself-in-5-years-398m)
 - [Devin AI: The World’s First AI Software Engineer.](https://dev.to/sufian/devin-ai-the-worlds-first-ai-software-engineer-m3k)
+- [Use HNSW index on Azure Cosmos DB for PostgreSQL for similarity search](https://dev.to/sfoteini/use-hnsw-index-on-azure-cosmos-db-for-postgresql-for-similarity-search-5chk)
 - [The Ultimate SQL SELECT Cheat Sheet](https://dev.to/christianpaez/the-ultimate-sql-select-cheat-sheet-37dl)
-- [What’s the best way to learn to code?](https://dev.to/gigo_dev/whats-the-best-way-to-learn-to-code-27f2)
-- [Introducing DEV Challenges](https://dev.to/devteam/introducing-dev-challenges-1mk9)
-- [Payments in Blockchain](https://dev.to/nairsreya/payments-in-blockchain-3plm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
