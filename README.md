@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Stuck in the Middle with You: An intro to Middleware](https://dev.to/opensauced/stuck-in-the-middle-with-you-an-intro-to-middleware-1gjo)
+- [ReductStore v1.9.0 Released](https://dev.to/reductstore/reductstore-v190-released-1op0)
 - [Dining Philosophers Problem in Java](https://dev.to/parthasutradhar/dining-philosophers-problem-in-java-a93)
 - [What we built for our Notification Service?](https://dev.to/suprsend/what-we-built-for-our-notification-service-4odd)
 - [Coding in 2024 = Dead? The Best Language to Learn is English? 🤔☠️](https://dev.to/arjuncodess/coding-in-2024-dead-the-best-language-to-learn-is-english-3ol)
-- [利用 AWS Bedrock 释放您的创造力：加入我们的虚拟峰会（第一天）](https://dev.to/aws-builders/li-yong-aws-bedrock-shi-fang-nin-de-chuang-zao-li-jia-ru-wo-men-de-xu-ni-feng-hui-di-tian--52ec)
-- [Grading students](https://dev.to/kecbm/grading-students-5eok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
