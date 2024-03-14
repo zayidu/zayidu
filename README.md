@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s the best way to learn to code?](https://dev.to/gigo_dev/whats-the-best-way-to-learn-to-code-27f2)
+- [Introducing DEV Challenges](https://dev.to/devteam/introducing-dev-challenges-1mk9)
+- [What is System design? &amp; terms you should know before diving deep into system design.](https://dev.to/shyynux/what-is-system-design-terms-you-should-know-before-diving-deep-into-system-design-3jij)
+- [Announcing AnalogJS 1.0 🚀](https://dev.to/analogjs/announcing-analogjs-10-19an)
 - [✨ Get Dizzy with Digits: Celebrating Pi Day with JavaScript 🥧](https://dev.to/best_codes/get-dizzy-with-digits-celebrating-pi-day-with-javascript-456k)
-- [Performance Tips Every JS React Developer Should Know.](https://dev.to/kartikbudhraja/performance-tips-every-js-react-developer-should-know-1jog)
-- [Using PostHog with Rust](https://dev.to/shuttle_dev/using-posthog-with-rust-387c)
-- [📱 Introducing my latest sideproject: Fridge Leftovers AI 🍲](https://dev.to/azettl/introducing-my-latest-sideproject-fridge-leftovers-ai-2h7n)
-- [Five Syntax Highlighting Plugins for NextJS that aren&#39;t Terrible 🎨](https://dev.to/magnificode/five-syntax-highlighting-plugins-for-nextjs-that-arent-terrible-32gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
