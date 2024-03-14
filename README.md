@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An Integration Guide for Next.js Apps](https://dev.to/spataroinc/how-to-add-50-integrations-to-your-react-app-for-free-56h7)
-- [10 Must-Know Git Commands for Software Engineers](https://dev.to/sufian/10-must-know-git-commands-for-software-engineers-50me)
-- [She Makes $120,000 a Month Blogging](https://dev.to/sufian/she-makes-120000-a-month-blogging-23k0)
-- [Minha jornada de otimização de uma aplicação django](https://dev.to/rafaelpadovezi/minha-jornada-de-otimizacao-de-uma-aplicacao-django-2mdi)
-- [Angular Performance Boost: Dive into Eager and Lazy Loading Mechanisms](https://dev.to/chintanonweb/angular-performance-boost-dive-into-eager-and-lazy-loading-mechanisms-4io2)
+- [What is a Relational Database for Beginners](https://dev.to/annoh_karlgusta/what-is-a-relational-database-for-beginners-5ghd)
+- [here is - how do i structure my nestjs projects](https://dev.to/fiamon/here-is-how-do-i-structure-my-nestjs-projects-m6)
+- [Nurturing Relationships for AI Excellence](https://dev.to/codenewbieteam/nurturing-relationships-for-ai-excellence-26i0)
+- [Tailwind CSS v4.0 Alpha: A Revolution Unveiled](https://dev.to/mitchiemt11/tailwind-css-v40-alpha-a-revolution-unveiled-3g72)
+- [Give Up Sooner](https://dev.to/wagslane/give-up-sooner-3nne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
