@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Using my new Raspberry Pi to run an existing GitHub Action](https://dev.to/nfrankel/using-my-new-raspberry-pi-to-run-an-existing-github-action-29kl)
+- [How to dump and restore a Postgres DB with new table ownership](https://dev.to/gemmablack/how-to-dump-and-restore-postgres-db-with-new-table-ownership-3h8j)
+- [The Upper Limits of WebAssembly Performance](https://dev.to/ajanibilby/the-upper-limits-of-webassembly-performance-1j29)
 - [Publishing .NET Applications with dotnet publish](https://dev.to/ssukhpinder/publishing-net-applications-with-dotnet-publish-545p)
 - [The difficulty of SQL stems from relational algebra](https://dev.to/esproc_spl/the-difficulty-of-sql-stems-from-relational-algebra-47n)
-- [Entendendo memória em transações financeiras](https://dev.to/pedrovian4/entendendo-memoria-em-transacoes-financeiras-kkb)
-- [Build and Deploy: With AWS &lpar;Lambda, API Gateway and DynamoDB&rpar; using Golang](https://dev.to/sourjaya/build-and-deploy-rest-api-with-aws-lambda-api-gateway-and-dynamodb-using-golang-58ap)
-- [Tracking .NET SDK and Runtime Versions with dotnet sdk check](https://dev.to/ssukhpinder/tracking-net-sdk-and-runtime-versions-with-dotnet-sdk-check-3f25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
