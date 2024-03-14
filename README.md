@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Handle Variables and Dynamic Values with `jest.fn&lpar;&rpar;`](https://dev.to/andrewchaa/handle-variables-and-dynamic-values-with-jestfn-5dn6)
+- [When AI writes code, all code will be open source.](https://dev.to/jorgealvarez/when-ai-writes-code-all-code-will-be-open-source-20gc)
+- [Four Types of Bar Charts in Python - Based on Array Data](https://dev.to/luca1iu/four-types-of-bar-charts-in-python-based-on-array-data-59nb)
 - [You&#39;re Installing Node.js Wrong. That&#39;s OK, Here Is How To Fix It 🙌](https://dev.to/schalkneethling/youre-installing-nodejs-wrong-thats-ok-here-is-how-to-fix-it-3pk8)
-- [3 Tips for Deploying APISIX in Kubernetes &lpar;Part 1&rpar;](https://dev.to/api7/3-tips-for-deploying-apisix-in-kubernetes-part-1-2dek)
-- [Android App Development in New York: Your Key Considerations](https://dev.to/dhruvjoshi9/android-app-development-in-new-york-your-key-considerations-2m98)
-- [Exploring the Dynamic World of Walles.AI&#39;s Natural Language Processing Advancements](https://dev.to/geekyqee/exploring-the-dynamic-world-of-wallesais-natural-language-processing-advancements-1el9)
-- [Using my new Raspberry Pi to run an existing GitHub Action](https://dev.to/nfrankel/using-my-new-raspberry-pi-to-run-an-existing-github-action-29kl)
+- [A Deep Dive into React 19 Update](https://dev.to/fpaghar/a-deep-dive-into-react-19-update-257f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
