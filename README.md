@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [PancakeSwap V3 Airdrop](https://dev.to/bguerbas/pancakeswap-v3-airdrop-32fa)
 - [How to rank on Amazon](https://dev.to/ozehlaw/how-to-rank-on-amazon-4n7d)
 - [How is Amazon Web Services ensuring AI is Securely handling Our Data?](https://dev.to/ravenesc/how-is-amazon-web-services-ensuring-ai-is-securely-handling-our-data-21b1)
 - [Lambda Layers: The Secret Weapon of Savvy Serverless Developers](https://dev.to/aws-builders/lambda-layers-the-secret-weapon-of-savvy-serverless-developers-5fcd)
 - [Why I Don&#39;t Use AutoMapper in .Net](https://dev.to/grantdotdev/why-i-dont-use-automapper-in-net-12i6)
-- [Gerando dados com K6 utilizando xk6-faker](https://dev.to/marlo2222/gerando-dados-com-k6-utilizando-xk6-faker-47ck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
