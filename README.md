@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Expert Tips for Processing One Billion Rows in PHP!](https://dev.to/destinypvtltd/expert-tips-for-processing-one-billion-rows-in-php-42p1)
 - [Securing Test ETH from Faucets: A Comprehensive Guide](https://dev.to/getblockapi/securing-test-eth-from-faucets-a-comprehensive-guide-3me3)
 - [GetBlock’s New Chapter as ETH Bucharest Community Partner](https://dev.to/getblockapi/getblocks-new-chapter-as-eth-bucharest-community-partner-3afg)
 - [PancakeSwap V3 Airdrop](https://dev.to/bguerbas/pancakeswap-v3-airdrop-32fa)
 - [How to rank on Amazon](https://dev.to/ozehlaw/how-to-rank-on-amazon-4n7d)
-- [How is Amazon Web Services ensuring AI is Securely handling Our Data?](https://dev.to/ravenesc/how-is-amazon-web-services-ensuring-ai-is-securely-handling-our-data-21b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
