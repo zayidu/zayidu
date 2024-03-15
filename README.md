@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Cómo aprovechar el poder de los diagramas de Gantt en distintos sectores](https://dev.to/selmagalarza/como-aprovechar-el-poder-de-los-diagramas-de-gantt-en-distintos-sectores-5fdd)
+- [How to add color to your Dev.to article’s code snippets](https://dev.to/cbid2/how-to-add-color-to-your-devto-articles-code-snippets-1hm4)
 - [I created a Physics Engine in GoLang💥](https://dev.to/rudransh61/i-created-a-physics-engine-in-golang-b0d)
-- [Supercharge Your Dev Workflow: How Refact&#39;s AI-powered Code Completion Boosts Developer Productivity](https://dev.to/eunit/supercharge-your-dev-workflow-how-refacts-ai-powered-code-completion-boosts-developer-productivity-429e)
-- [Build faster with the official Netlify Raycast extension](https://dev.to/netlify/build-faster-with-the-official-netlify-raycast-extension-45e5)
-- [Mastering the Art of Database Engineering Management: Key Skills for Success](https://dev.to/_hm/mastering-the-art-of-database-engineering-management-key-skills-for-success-43ng)
-- [How to integrate Component Architecture into Symfony?](https://dev.to/webmamba/how-to-integrate-component-architecture-into-symfony-4bjb)
+- [Understanding the Asynchronous Nature of JavaScript - MERN STACK Series](https://dev.to/sadanandgadwal/understanding-the-asynchronous-nature-of-javascript-mern-stack-series-3dan)
+- [29 Top Microservice Interview Questions For 2024](https://dev.to/lambdatest/29-top-microservice-interview-questions-for-2024-4boe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
