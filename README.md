@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your Dev Workflow: How Refact&#39;s AI-powered Code Completion Boosts Developer Productivity](https://dev.to/eunit/supercharge-your-dev-workflow-how-refacts-ai-powered-code-completion-boosts-developer-productivity-429e)
+- [Mastering the Art of Database Engineering Management: Key Skills for Success](https://dev.to/_hm/mastering-the-art-of-database-engineering-management-key-skills-for-success-43ng)
 - [How to integrate Component Architecture into Symfony?](https://dev.to/webmamba/how-to-integrate-component-architecture-into-symfony-4bjb)
 - [Beyond Redux - MobX and Zustand](https://dev.to/codeparrot/beyond-redux-mobx-and-zustand-g2a)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4pe5)
-- [Running Docker based web applications in Hashicorp Nomad with Traefik Load balancing](https://dev.to/justinepdevasia/running-docker-based-web-applications-in-hashicorp-nomad-with-traefik-load-balancing-1el6)
-- [Joplin App Review: More Than Just a Markdown Note-Taking App](https://dev.to/stan8086/joplin-app-review-more-than-just-a-markdown-note-taking-app-45na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
