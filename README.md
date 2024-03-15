@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and the Future of Actually Getting a Job](https://dev.to/ben/ai-and-the-future-of-actually-getting-a-job-4ei)
-- [Amazon QuickSight](https://dev.to/aws-builders/amazon-quicksight-5ebi)
-- [Better GPU Cluster Scheduling with Runhouse](https://dev.to/donnygreenberg/better-gpu-cluster-scheduling-with-runhouse-iao)
-- [Getting Above the Brief: How to Improve Your Developer Marketing Positioning](https://dev.to/daedtech/getting-above-the-brief-how-to-improve-your-developer-marketing-positioning-kdh)
-- [What Do You Wish You&#39;d Known Before Becoming A Manager?](https://dev.to/devteam/what-do-you-wish-youd-known-before-becoming-a-manager-2146)
+- [Unpopular method of console that you must know! 🤯💻🔥](https://dev.to/khushindpatel/unpopular-method-of-console-that-you-must-know-5686)
+- [Open source at Fastly is getting opener](https://dev.to/fastly/open-source-at-fastly-is-getting-opener-804)
+- [JavaScript: Mastering Asynchrony in a Single Thread](https://dev.to/vaddijaswant/javascript-mastering-asynchrony-in-a-single-thread-55h5)
+- [The best AI productivity tools in 2024](https://dev.to/byteom/the-best-ai-productivity-tools-in-2024-2eic)
+- [Devin AI: Friend or Foe for Software Engineers?](https://dev.to/sanx/devin-ai-friend-or-foe-for-software-engineers-f6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
