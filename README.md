@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What Asterisk &lpar;*&rpar; Can Do In Python](https://dev.to/sachingeek/what-asterisk-can-do-in-python-29o5)
 - [GraphQL vs REST - Key Differences and Use Cases](https://dev.to/refine/graphql-vs-rest-key-differences-and-use-cases-23fn)
 - [The power of CSS Variables 💪: A flexible solution for spacing utilities](https://dev.to/karsten_biedermann/the-power-of-css-variables-a-flexible-solution-for-spacing-utilities-4bch)
+- [React Codecraft: Elevate Your App&#39;s Scalability with Simple Components](https://dev.to/abdulghaffar349/react-codecraft-elevate-your-apps-scalability-with-simple-components-b87)
 - [What Are Consequences Of Using Health Blog?](https://dev.to/ustatin/what-are-consequences-of-using-health-blog-5lc)
-- [Install and Setup Grafana &amp; Prometheus on Ubuntu 20.04 | 22.04/EC2](https://dev.to/shub6059/install-and-setup-grafana-prometheus-on-ubuntu-2004-2204ec2-3i62)
-- [Mastering Video Game Testing: Unveiling the Layers of Quality Assurance](https://dev.to/grjoeay/mastering-video-game-testing-unveiling-the-layers-of-quality-assurance-146h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
