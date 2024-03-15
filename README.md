@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [AI and the Future of Actually Getting a Job](https://dev.to/ben/ai-and-the-future-of-actually-getting-a-job-4ei)
+- [Amazon QuickSight](https://dev.to/aws-builders/amazon-quicksight-5ebi)
+- [Better GPU Cluster Scheduling with Runhouse](https://dev.to/donnygreenberg/better-gpu-cluster-scheduling-with-runhouse-iao)
 - [Getting Above the Brief: How to Improve Your Developer Marketing Positioning](https://dev.to/daedtech/getting-above-the-brief-how-to-improve-your-developer-marketing-positioning-kdh)
 - [What Do You Wish You&#39;d Known Before Becoming A Manager?](https://dev.to/devteam/what-do-you-wish-youd-known-before-becoming-a-manager-2146)
-- [Revolutionizing Agile Ceremonies with OpenAI: A Game-Changer in Software Development](https://dev.to/dev3l/revolutionizing-agile-ceremonies-with-openai-a-game-changer-in-software-development-177p)
-- [Lambda Internals: the Underneath of AWS Serverless Architecture](https://dev.to/fively/lambda-internals-the-underneath-of-aws-serverless-architecture-1a36)
-- [JSON Schema Blog](https://dev.to/aryan_1509/json-schema-blog-2cgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
