@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Asterisk &lpar;*&rpar; Can Do In Python](https://dev.to/sachingeek/what-asterisk-can-do-in-python-29o5)
-- [GraphQL vs REST - Key Differences and Use Cases](https://dev.to/refine/graphql-vs-rest-key-differences-and-use-cases-23fn)
-- [The power of CSS Variables 💪: A flexible solution for spacing utilities](https://dev.to/karsten_biedermann/the-power-of-css-variables-a-flexible-solution-for-spacing-utilities-4bch)
-- [React Codecraft: Elevate Your App&#39;s Scalability with Simple Components](https://dev.to/abdulghaffar349/react-codecraft-elevate-your-apps-scalability-with-simple-components-b87)
-- [What Are Consequences Of Using Health Blog?](https://dev.to/ustatin/what-are-consequences-of-using-health-blog-5lc)
+- [How to integrate Component Architecture into Symfony?](https://dev.to/webmamba/how-to-integrate-component-architecture-into-symfony-4bjb)
+- [Beyond Redux - MobX and Zustand](https://dev.to/codeparrot/beyond-redux-mobx-and-zustand-g2a)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4pe5)
+- [Running Docker based web applications in Hashicorp Nomad with Traefik Load balancing](https://dev.to/justinepdevasia/running-docker-based-web-applications-in-hashicorp-nomad-with-traefik-load-balancing-1el6)
+- [Joplin App Review: More Than Just a Markdown Note-Taking App](https://dev.to/stan8086/joplin-app-review-more-than-just-a-markdown-note-taking-app-45na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
