@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Securing Test ETH from Faucets: A Comprehensive Guide](https://dev.to/getblockapi/securing-test-eth-from-faucets-a-comprehensive-guide-3me3)
+- [GetBlock’s New Chapter as ETH Bucharest Community Partner](https://dev.to/getblockapi/getblocks-new-chapter-as-eth-bucharest-community-partner-3afg)
 - [PancakeSwap V3 Airdrop](https://dev.to/bguerbas/pancakeswap-v3-airdrop-32fa)
 - [How to rank on Amazon](https://dev.to/ozehlaw/how-to-rank-on-amazon-4n7d)
 - [How is Amazon Web Services ensuring AI is Securely handling Our Data?](https://dev.to/ravenesc/how-is-amazon-web-services-ensuring-ai-is-securely-handling-our-data-21b1)
-- [Lambda Layers: The Secret Weapon of Savvy Serverless Developers](https://dev.to/aws-builders/lambda-layers-the-secret-weapon-of-savvy-serverless-developers-5fcd)
-- [Why I Don&#39;t Use AutoMapper in .Net](https://dev.to/grantdotdev/why-i-dont-use-automapper-in-net-12i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
