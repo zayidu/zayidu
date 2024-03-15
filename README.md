@@ -8,10 +8,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Data Science &amp; DevTools: GitHub Codespaces](https://dev.to/azure/data-science-devtools-github-codespaces-2fn)
+- [Mastering NestJS: Building Scalable Systems with Abstractions, ex: different databases](https://dev.to/henriqueweiand/mastering-nestjs-building-scalable-systems-with-abstractions-ex-different-databases-5cen)
 - [What is Devin AI? The world&#39;s first AI software engineer everyone is talking about](https://dev.to/evansifyke/what-is-devin-ai-the-worlds-first-ai-software-engineer-everyone-is-talking-about-17ja)
 - [You Will Love This Tool! PS: &quot;Talk to a GitHub Repo&quot; AI 😍](https://dev.to/arjuncodess/you-will-love-this-tool-ps-talk-to-a-github-repo-ai-jga)
-- [From Coding to Writing: My Unexpected Blogging Journey](https://dev.to/snehalkadwe/from-coding-to-writing-my-unexpected-blogging-journey-1311)
-- [Unpopular method of console that you must know! 🤯💻🔥](https://dev.to/khushindpatel/unpopular-method-of-console-that-you-must-know-5686)
+- [Prioritizing Concurrent Requests: Queuing system to handle distributed processes and messages with NodeJS and Bull](https://dev.to/vitorbrangioni/prioritizing-concurrent-requests-queuing-system-to-handle-distributed-processes-and-messages-with-nodejs-and-bull-mkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
