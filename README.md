@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to rank on Amazon](https://dev.to/ozehlaw/how-to-rank-on-amazon-4n7d)
+- [How is Amazon Web Services ensuring AI is Securely handling Our Data?](https://dev.to/ravenesc/how-is-amazon-web-services-ensuring-ai-is-securely-handling-our-data-21b1)
+- [Lambda Layers: The Secret Weapon of Savvy Serverless Developers](https://dev.to/aws-builders/lambda-layers-the-secret-weapon-of-savvy-serverless-developers-5fcd)
 - [Why I Don&#39;t Use AutoMapper in .Net](https://dev.to/grantdotdev/why-i-dont-use-automapper-in-net-12i6)
 - [Gerando dados com K6 utilizando xk6-faker](https://dev.to/marlo2222/gerando-dados-com-k6-utilizando-xk6-faker-47ck)
-- [Experimenting with Modern UI Alternatives in Rails](https://dev.to/megatux/experimenting-with-modern-ui-alternatives-in-rails-3p9d)
-- [React UI Component Libraries every developer should know](https://dev.to/sharmaprash/react-ui-component-libraries-every-developer-should-know-me0)
-- [How to NOT answer &quot;Where do you see yourself in 5 years?](https://dev.to/jmfayard/how-to-not-answer-where-do-you-see-yourself-in-5-years-398m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
