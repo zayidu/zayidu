@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Discover the Difference Between Port 80 and 443](https://dev.to/me_priya/discover-the-difference-between-port-80-and-443-3f6c)
 - [Automate AWS Infrastructure Deployment with AWS CDK: A Lazy Engineer&#39;s Guide](https://dev.to/sanishchirayath1/automate-aws-infrastructure-deployment-with-aws-cdk-a-lazy-engineers-guide-2moj)
+- [How To Unit Test Next.js 13+ App Router API Routes with Jest and React-Testing-Library. Including Prisma example](https://dev.to/dforrunner/how-to-unit-test-nextjs-13-app-router-api-routes-with-jest-and-react-testing-library-270a)
 - [Exploring Enhanced Serialization in .NET 9 with System.Text.Json](https://dev.to/ssukhpinder/exploring-enhanced-serialization-in-net-9-with-systemtextjson-59l7)
 - [How to install python in a docker container.](https://dev.to/kiranuknow/how-to-install-python-in-a-docker-container-2n41)
-- [Quick Setup: Jenkins on AWS with Terraform &amp; Bash](https://dev.to/gabbyti/quick-setup-jenkins-on-aws-with-terraform-bash-1mj8)
-- [What is Encapsulation](https://dev.to/m__mdy__m/what-is-encapsulation-48b0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
