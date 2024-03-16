@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Basic Server Knowledge Is Crucial for Every Developer?](https://dev.to/mmainulhasan/why-basic-server-knowledge-is-crucial-for-every-developer-3ega)
 - [ASP.Net 9.0: Authentication Enhancements](https://dev.to/ssukhpinder/aspnet-core-90-authentication-authorization-enhancements-2ii7)
 - [Slack vs. Discord in the Modern Workplace](https://dev.to/stan8086/slack-vs-discord-in-the-modern-workplace-4p0b)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-355j)
 - [Copy Objects Ways in JavaScript](https://dev.to/fpaghar/copy-objects-ways-in-javascript-24gj)
-- [Some cutting-edge applications that leverage the unique properties of crystal diodes](https://dev.to/ambika-sharma/some-cutting-edge-applications-that-leverage-the-unique-properties-of-crystal-diodes-2ba6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
