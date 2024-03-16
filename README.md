@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Backend Cockfight 2024 Q1](https://dev.to/noriller/backend-cockfight-2024-q1-1h1c)
 - [Boosting Agile Deliveries with Preventive Programming](https://dev.to/tassiofront/boosting-agile-deliveries-with-preventive-programming-221k)
 - [🔥14 most powerful Figma plugins for developers](https://dev.to/codewithshahan/14-most-powerful-figma-plugins-for-developers-27km)
 - [Feeling Stuck with DSA? 🤔 Open This! 🔥](https://dev.to/arjuncodess/stuck-with-dsa-open-this-43e2)
 - [Thread Safety in Python Multithreaded Applications](https://dev.to/sk_rajibul_9ce58a68c43bb5/thread-safety-in-python-multithreaded-applications-lm9)
-- [Python&#39;s Power: Mastering Everyday Coding Tasks](https://dev.to/sk_rajibul_9ce58a68c43bb5/pythons-power-mastering-everyday-coding-tasks-4p35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
