@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Frameworks](https://dev.to/nandinishinduja/go-frameworks-hoi)
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-355j)
+- [Some cutting-edge applications that leverage the unique properties of crystal diodes](https://dev.to/ambika-sharma/some-cutting-edge-applications-that-leverage-the-unique-properties-of-crystal-diodes-2ba6)
 - [Testing Frameworks](https://dev.to/nandinishinduja/testing-frameworks-29lp)
 - [Flex vs. Grid: Choosing the Right CSS Layout](https://dev.to/codeparrot/flex-vs-grid-choosing-the-right-css-layout-lol)
 - [The Power of Conventional Commits ✨✨](https://dev.to/idilsaglam/the-power-of-conventional-commits-2177)
-- [Kotlin and Azure Functions - Automating the deployment](https://dev.to/dazfuller/kotlin-and-azure-functions-automating-the-deployment-3npe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
