@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Go Frameworks](https://dev.to/nandinishinduja/go-frameworks-hoi)
+- [Testing Frameworks](https://dev.to/nandinishinduja/testing-frameworks-29lp)
 - [Flex vs. Grid: Choosing the Right CSS Layout](https://dev.to/codeparrot/flex-vs-grid-choosing-the-right-css-layout-lol)
-- [Accessibility Checks with Jetpack Compose Previews](https://dev.to/eevajonnapanula/accessibility-checks-with-jetpack-compose-previews-1fk3)
-- [Level Up Your Dev Workflow: Conquer Web Development with a Blazing Fast Neovim Setup &lpar;Part 1&rpar;](https://dev.to/insideee_dev/level-up-your-dev-workflow-conquer-web-development-with-a-blazing-fast-neovim-setup-part-1-28b2)
-- [Do You Feel Appreciated in Your Job?](https://dev.to/devteam/do-you-feel-appreciated-in-your-job-3g7d)
-- [I created YouTube UI Clone](https://dev.to/sh20raj/i-created-youtube-ui-clone-6gi)
+- [The Power of Conventional Commits ✨✨](https://dev.to/idilsaglam/the-power-of-conventional-commits-2177)
+- [Kotlin and Azure Functions - Automating the deployment](https://dev.to/dazfuller/kotlin-and-azure-functions-automating-the-deployment-3npe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
