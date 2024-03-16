@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ace Your Next Job Interview: Mastering Questions, Overcoming Weaknesses, and Success Stories](https://dev.to/sadmankabir/ace-your-next-job-interview-mastering-questions-overcoming-weaknesses-and-success-stories-2hmi)
-- [COMPARATOR vs COMPARABLE - A Java Surprise You did in School!](https://dev.to/codecraftclub/comparator-vs-comparable-a-java-surprise-you-did-in-school-289e)
-- [Utilizando Testcontainers para Testes de Integração com NestJS e Prisma ORM](https://dev.to/wiliamvj/utilizando-testcontainers-para-testes-de-integracao-com-nestjs-e-prisma-orm-377g)
-- [🧙‍♂️Master JavaScript with these 5 GitHub repositories🪄✨🚀](https://dev.to/ziontutorial/master-javascript-with-these-5-github-repositories-5g30)
-- [Preparing our Code for Zoneless Angular](https://dev.to/oz/preparing-our-code-for-zoneless-angular-4d30)
+- [Feeling Stuck with DSA? 🤔 Open This! 🔥](https://dev.to/arjuncodess/stuck-with-dsa-open-this-43e2)
+- [Thread Safety in Python Multithreaded Applications](https://dev.to/sk_rajibul_9ce58a68c43bb5/thread-safety-in-python-multithreaded-applications-lm9)
+- [Python&#39;s Power: Mastering Everyday Coding Tasks](https://dev.to/sk_rajibul_9ce58a68c43bb5/pythons-power-mastering-everyday-coding-tasks-4p35)
+- [Top Strategies for Writing Better Python Functions!](https://dev.to/sk_rajibul_9ce58a68c43bb5/top-strategies-for-writing-better-python-functions-38e9)
+- [A Proven and Comprehensive Pattern for Building an API with Rust and Lambda](https://dev.to/aws-builders/a-proven-and-comprehensive-pattern-for-building-an-api-with-rust-and-lambda-2aol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
