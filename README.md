@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The new BottomBar in Flutter](https://dev.to/akashpattnaik/the-new-bottombar-in-flutter-ifm)
+- [Unlocking High-Quality Realistic Pictures: Tips and Tricks with AWS Bedrock](https://dev.to/aws-builders/unlocking-high-quality-realistic-pictures-tips-and-tricks-with-aws-bedrock-28mn)
+- [React Native and Flutter: A Developer&#39;s Dilemma](https://dev.to/codeparrot/react-native-and-flutter-a-developers-dilemma-214d)
+- [解锁高质量逼真图片：AWS Bedrock的技巧与窍门](https://dev.to/danc/jie-suo-gao-zhi-liang-bi-zhen-tu-pian-aws-bedrockde-ji-qiao-yu-qiao-men-1mfh)
 - [Unleash Your Creativity with AWS Bedrock: Formula 1 Championship &lpar;Day 2&rpar;](https://dev.to/aws-builders/unleash-your-creativity-with-aws-bedrock-formula-1-championship-day-2-m1f)
-- [✌️4 core developer tools I use in my daily life 🚀😎](https://dev.to/shricodev/4-core-developer-tools-i-use-in-my-daily-life-2524)
-- [I released A Physics Engine in GoLang 🔥](https://dev.to/rudransh61/i-released-a-physics-engine-in-golang-elb)
-- [利用 AWS Bedrock 释放您的创造力：一级方程式冠军赛（第二天）](https://dev.to/danc/li-yong-aws-bedrock-shi-fang-nin-de-chuang-zao-li-ji-fang-cheng-shi-guan-jun-sai-di-er-tian--5h41)
-- [Introducing DevOps Toolkit](https://dev.to/tungbq/introducing-devops-toolkit-32fa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
