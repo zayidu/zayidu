@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Box Model &lpar;intro&rpar; 🚀](https://dev.to/modulo_script/css-box-model-intro-h68)
 - [AItoMobile - Build an AI Powered Mobile App ✨📱🚀](https://dev.to/dpills/aitomobile-build-an-ai-powered-mobile-app-2lod)
 - [22 JavaScript Functions You&#39;ll Use 99% of The Time 💯🔥](https://dev.to/arjuncodess/18-javascript-functions-youll-use-99-of-the-time-2bl4)
-- [Memory Management in Rust: Stack vs. Heap](https://dev.to/dipankarpaul/memory-management-in-rust-stack-vs-heap-3m45)
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-3dmc)
-- [Hoisting of Variables, Functions, Classes, Types, Interfaces in JavaScript/TypeScript](https://dev.to/antonzo/hoisting-of-variables-functions-classes-types-interfaces-in-javascripttypescript-3el5)
+- [Understanding HTML Forms and Validations for Beginners.](https://dev.to/tevstark/understanding-html-forms-and-validations-for-beginners-49k3)
+- [Build a simple serverless CRUD App with Neon, PostgREST and REST API](https://dev.to/hackmamba/build-a-simple-serverless-crud-app-with-neon-postgrest-and-rest-api-1kp6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
