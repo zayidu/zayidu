@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Parent &amp; Previous-Sibling Selectors are here!](https://dev.to/brycehowitson/css-parent-previous-sibling-selectors-are-here-48hm)
 - [CSS Box Model &lpar;intro&rpar; 🚀](https://dev.to/modulo_script/css-box-model-intro-h68)
 - [AItoMobile - Build an AI Powered Mobile App ✨📱🚀](https://dev.to/dpills/aitomobile-build-an-ai-powered-mobile-app-2lod)
 - [22 JavaScript Functions You&#39;ll Use 99% of The Time 💯🔥](https://dev.to/arjuncodess/18-javascript-functions-youll-use-99-of-the-time-2bl4)
 - [Understanding HTML Forms and Validations for Beginners.](https://dev.to/tevstark/understanding-html-forms-and-validations-for-beginners-49k3)
-- [Build a simple serverless CRUD App with Neon, PostgREST and REST API](https://dev.to/hackmamba/build-a-simple-serverless-crud-app-with-neon-postgrest-and-rest-api-1kp6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
