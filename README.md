@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Do You Feel Lucky? ☘️](https://dev.to/devteam/do-you-feel-lucky-2b7n)
 - [Simple Introduction To HTMX](https://dev.to/ethand91/simple-introduction-to-htmx-18fg)
 - [Implementation of Elastic Search in Django](https://dev.to/robinmuhia/implementation-of-elastic-search-in-django-32d6)
 - [2024 Cheat Sheet Collection](https://dev.to/lilxyzz/2024-cheat-sheet-collection-47h8)
 - [For intricate state handling, try out the useReducer&lpar;&rpar; Hook](https://dev.to/anshumanmahato/for-intricate-state-handling-try-out-the-usereducer-hook-1952)
-- [A PAGE TALKS ABOUT &lpar;Automation Soft Skills in a Nutshell&rpar;](https://dev.to/rewirebyautomation/a-page-talks-about-automation-soft-skills-in-a-nutshell-1mmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
