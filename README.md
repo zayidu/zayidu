@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;CSS Transform: The Cool Stuff You Can Do with Your Web Design&quot;](https://dev.to/elizabethsobiya/title-css-transform-the-cool-stuff-you-can-do-with-your-web-design-42po)
+- [Build and Send Emails Using React and TypeScript](https://dev.to/sachinchaurasiya/build-and-send-emails-using-react-and-typescript-183g)
+- [Java program to find Nth fibonacci number](https://dev.to/dhanush9952/java-program-to-find-nth-fibonacci-number-104m)
 - [Create a Hilarious Joke API with Flask and Python](https://dev.to/jagroop2001/create-a-hilarious-joke-api-with-flask-and-python-2ca5)
 - [Is Workflow Automation The Next Big Trend?](https://dev.to/stan8086/is-workflow-automation-the-next-big-trend-35p9)
-- [The new BottomBar in Flutter](https://dev.to/akashpattnaik/the-new-bottombar-in-flutter-ifm)
-- [Unlocking High-Quality Realistic Pictures: Tips and Tricks with AWS Bedrock](https://dev.to/aws-builders/unlocking-high-quality-realistic-pictures-tips-and-tricks-with-aws-bedrock-28mn)
-- [React Native and Flutter: A Developer&#39;s Dilemma](https://dev.to/codeparrot/react-native-and-flutter-a-developers-dilemma-214d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
