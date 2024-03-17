@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [AudiPlay : Custom HTML5 Audio Player](https://dev.to/sh20raj/audiplay-custom-html5-audio-player-17ie)
+- [Polymorphic Type Support in SignalR Hubs](https://dev.to/ssukhpinder/polymorphic-type-support-in-signalr-hubs-2d96)
+- [Behind the click: unraveling the mystery of the Internet](https://dev.to/0xnuru/behind-the-click-unraveling-the-mystery-of-the-internet-3im7)
 - [&quot;CSS Transform: The Cool Stuff You Can Do with Your Web Design&quot;](https://dev.to/elizabethsobiya/title-css-transform-the-cool-stuff-you-can-do-with-your-web-design-42po)
-- [Build and Send Emails Using React and TypeScript](https://dev.to/sachinchaurasiya/build-and-send-emails-using-react-and-typescript-183g)
-- [Java program to find Nth fibonacci number](https://dev.to/dhanush9952/java-program-to-find-nth-fibonacci-number-104m)
-- [Create a Hilarious Joke API with Flask and Python](https://dev.to/jagroop2001/create-a-hilarious-joke-api-with-flask-and-python-2ca5)
-- [Is Workflow Automation The Next Big Trend?](https://dev.to/stan8086/is-workflow-automation-the-next-big-trend-35p9)
+- [Engenharia Reversa: Primeiro Contato - Parte 1](https://dev.to/ryan_gozlyngg/engenharia-reversa-primeiro-contato-parte-1-2gih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
