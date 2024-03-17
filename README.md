@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [AItoMobile - Build an AI Powered Mobile App ✨📱🚀](https://dev.to/dpills/aitomobile-build-an-ai-powered-mobile-app-2lod)
+- [22 JavaScript Functions You&#39;ll Use 99% of The Time 💯🔥](https://dev.to/arjuncodess/18-javascript-functions-youll-use-99-of-the-time-2bl4)
+- [Memory Management in Rust: Stack vs. Heap](https://dev.to/dipankarpaul/memory-management-in-rust-stack-vs-heap-3m45)
+- [This Week In Python](https://dev.to/bascodes/this-week-in-python-3dmc)
 - [Hoisting of Variables, Functions, Classes, Types, Interfaces in JavaScript/TypeScript](https://dev.to/antonzo/hoisting-of-variables-functions-classes-types-interfaces-in-javascripttypescript-3el5)
-- [DevPush Bulletin 01 - [FR]](https://dev.to/mrahdev/devpush-bulletin-01-fr-3j51)
-- [Pythonic Isolation: Virtual Environments](https://dev.to/ddebajyati/pythonic-isolation-virtual-environments-4d5l)
-- [AudiPlay : Custom HTML5 Audio Player](https://dev.to/sh20raj/audiplay-custom-html5-audio-player-17ie)
-- [Learning AWS Day by Day — Day 8 — Introduction to EFS &lpar;Elastic File System&rpar;](https://dev.to/rksalo88/learning-aws-day-by-day-day-8-introduction-to-efs-elastic-file-system-4b8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
