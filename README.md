@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Tools To Help Keep Your Dependencies And Code More Secure](https://dev.to/schalkneethling/6-tools-to-help-keep-your-dependencies-and-code-more-secure-13mi)
+- [Deployments and Load Balancing in Kubernetes](https://dev.to/ken_mwaura1/deployments-and-load-balancing-in-kubernetes-230)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-nmg)
 - [I trashed a software website just to reboot it 5 years later!](https://dev.to/jordantylerburchett/i-trashed-a-software-website-just-to-reboot-it-5-years-later-2gfo)
 - [“Data has a Dream” — A Short comic about data mesh and how it can transform your company](https://dev.to/berlin-tech-blog/data-has-a-dream-a-short-comic-about-data-mesh-and-how-it-can-transform-your-company-2b38)
-- [Mastering the Art of Writing Effective GitHub Commit Messages](https://dev.to/safdarali/mastering-the-art-of-writing-effective-github-commit-messages-7cg)
-- [GraphQL e Node.js: GraphQL e Node.js: Construindo APIs Poderosas](https://dev.to/vitorrios1001/graphql-e-nodejs-graphql-e-nodejs-construindo-apis-poderosas-36n9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
