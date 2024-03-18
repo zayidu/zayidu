@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [NuShell - Ceci n&#39;est pas une |](https://dev.to/giuliano1993/nushell-ceci-nest-pas-une--5f8l)
 - [What&#39;s Got You Excited This Week?](https://dev.to/devteam/whats-got-you-excited-this-week-2332)
+- [Unlock Cross-Micro-Frontend State Sharing!](https://dev.to/trinly01/unlock-cross-micro-frontend-state-sharing-1clh)
 - [TypeScript | Beginner](https://dev.to/shubhamtiwari909/typescript-beginner-375o)
-- [Creating Wordle in Power Automate](https://dev.to/wyattdave/creating-wordle-in-power-automate-57dn)
-- [4 Ways to Judo Mansplaining](https://dev.to/jmfayard/4-ways-to-judo-mansplaining-43j2)
-- [🚀 API Maker : Release Notes for v1.4.0](https://dev.to/apimaker/api-maker-release-notes-for-v140-2oi6)
+- [How to reduce space usage in Google Drive without actually removing the files](https://dev.to/kpldvnpne/how-to-reduce-space-usage-in-google-drive-without-actually-removing-the-files-2l6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
