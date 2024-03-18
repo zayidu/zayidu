@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Transpose Columns in Each Group to a Single Row](https://dev.to/esproc_spl/how-to-transpose-columns-in-each-group-to-a-single-row-156i)
 - [Fastest way to learn a programming language](https://dev.to/annoh_karlgusta/fastest-way-to-learn-a-programming-language-16pa)
 - [A woman in tech: positive or negative discrimination? Interview with an ex-Big Tech employee part 2](https://dev.to/latobibor/a-woman-in-tech-positive-or-negative-discrimination-interview-with-an-ex-big-tech-employee-part-2-2146)
 - [22 JavaScript Functions You&#39;ll Use 99% of The Time 💯🔥](https://dev.to/safdarali/22-javascript-functions-youll-use-99-of-the-time-1om2)
 - [CSS Parent &amp; Previous-Sibling Selectors are here!](https://dev.to/brycehowitson/css-parent-previous-sibling-selectors-are-here-48hm)
-- [CSS Box Model &lpar;intro&rpar; 🚀](https://dev.to/modulo_script/css-box-model-intro-h68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
