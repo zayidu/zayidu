@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GNS3&#39;de Verimliliği Artıran İki Gizli Özellik](https://dev.to/yarensari/gns3de-verimliligi-artiran-iki-gizli-ozellik-41j7)
-- [DNS -The gatekeeper 24/7 of the internet - Part 2](https://dev.to/locnguyenpv/dns-the-gatekeeper-247-of-the-internet-part-2-3hl9)
-- [Debugging Techniques Every Developer Should Know](https://dev.to/surajondev/debugging-techniques-every-developer-should-know-85f)
-- [Devin: A Tool, Not a Substitute for Your Job](https://dev.to/osahenru/devin-a-tool-not-a-substitute-for-your-job-46ib)
-- [Azure vs. AWS: a Deep Dive Into the Cloud Security](https://dev.to/fively/azure-vs-aws-a-deep-dive-into-the-cloud-security-45k9)
+- [Using Terraform, Kubernetes, and Helm: The Power Trio](https://dev.to/env0/using-terraform-kubernetes-and-helm-the-power-trio-52o7)
+- [FLaNK AI Weekly 18 March 2024](https://dev.to/tspannhw/flank-ai-weekly-18-march-2024-18ld)
+- [Simplifying AI Integration: Insights from Taipy&#39;s Journey](https://dev.to/taipy/simplifying-ai-integration-insights-from-taipys-journey-31i8)
+- [GNS3&#39;de Verimliliği Artıran İki Gizli Özellik](https://dev.to/aciklab/gns3de-verimliligi-artiran-iki-gizli-ozellik-41j7)
+- [🙋 How to Show Up Daily as a Newbie Dev](https://dev.to/evergrowingdev/how-to-show-up-daily-as-a-newbie-dev-4812)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
