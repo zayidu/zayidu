@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Wordle in Power Automate](https://dev.to/wyattdave/creating-wordle-in-power-automate-57dn)
+- [4 Ways to Judo Mansplaining](https://dev.to/jmfayard/4-ways-to-judo-mansplaining-43j2)
 - [🚀 API Maker : Release Notes for v1.4.0](https://dev.to/apimaker/api-maker-release-notes-for-v140-2oi6)
 - [C#: From Fundamentals to Advanced Techniques — A Comprehensive Cheat Sheet](https://dev.to/ssukhpinder/c-from-fundamentals-to-advanced-techniques-a-comprehensive-cheat-sheet-33p5)
 - [SMS Verification APIs with Node.js](https://dev.to/alinaj/sms-verification-apis-with-nodejs-34pi)
-- [Best Practices for React Development](https://dev.to/imrankh13332994/best-practices-for-react-development-43k7)
-- [How to Transpose Columns in Each Group to a Single Row](https://dev.to/esproc_spl/how-to-transpose-columns-in-each-group-to-a-single-row-156i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
