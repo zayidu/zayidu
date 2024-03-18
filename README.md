@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Terraform, Kubernetes, and Helm: The Power Trio](https://dev.to/env0/using-terraform-kubernetes-and-helm-the-power-trio-52o7)
-- [FLaNK AI Weekly 18 March 2024](https://dev.to/tspannhw/flank-ai-weekly-18-march-2024-18ld)
-- [Simplifying AI Integration: Insights from Taipy&#39;s Journey](https://dev.to/taipy/simplifying-ai-integration-insights-from-taipys-journey-31i8)
-- [GNS3&#39;de Verimliliği Artıran İki Gizli Özellik](https://dev.to/aciklab/gns3de-verimliligi-artiran-iki-gizli-ozellik-41j7)
-- [🙋 How to Show Up Daily as a Newbie Dev](https://dev.to/evergrowingdev/how-to-show-up-daily-as-a-newbie-dev-4812)
+- [Unleash Your Creativity with AWS Bedrock: Afterparty &lpar;Day 3&rpar;](https://dev.to/aws-builders/unleash-your-creativity-with-aws-bedrock-afterparty-day-3-1mmh)
+- [Crafting Compelling Data Narratives:A Comprehensive Look at Chart Types in Power BI.](https://dev.to/phylis/crafting-compelling-data-narrativesa-comprehensive-look-at-chart-types-in-power-bi-4740)
+- [Executable Playground of &quot;typia&quot;, 20000x faster TS validator/serializer](https://dev.to/samchon/executable-playground-of-typia-super-easyfast-typescript-validatorserializer-2ble)
+- [Enhance Your Project Quality with These Top Python Libraries](https://dev.to/mrkandreev/enhance-your-project-quality-with-these-top-python-libraries-2ln5)
+- [Music Monday — What are you listening to? &lpar;Gender-nonconforming Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-gender-nonconforming-edition-3oi5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
