@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data API for Amazon Aurora Serverless v2 with AWS SDK for Java - Part 4 Working with database transactions](https://dev.to/aws-builders/data-api-for-amazon-aurora-serverless-v2-with-aws-sdk-for-java-part-4-working-with-database-transactions-555m)
-- [TypeScript Journey: A Beginner&#39;s Journey into Typed JavaScript](https://dev.to/amritapadhy/typescript-journey-a-beginners-journey-into-typed-javascript-37l7)
-- [Best AI Tools for Students Learning Development and Engineering](https://dev.to/get_pieces/best-ai-tools-for-students-learning-development-and-engineering-hn4)
-- [Learning Rust: Structuring Data with Structs](https://dev.to/link2twenty/learning-rust-structuring-data-with-structs-44k)
-- [Learning to Code: A Waste of Time?](https://dev.to/buzzpy/learning-to-code-a-waste-of-time-2abj)
+- [State Machines in Practice: Implementing Solutions for Real Challenges](https://dev.to/pragativerma18/state-machines-in-practice-implementing-solutions-for-real-challenges-3l76)
+- [How to do Canary Deployments on EKS](https://dev.to/vivekpophale/how-to-do-canary-deployments-on-eks-42gk)
+- [how to use skeleton loading next 13 with shadcn ui](https://dev.to/frontendshape/how-to-use-skeleton-loading-next-13-with-shadcn-ui-4l7d)
+- [Memory leaks in Go](https://dev.to/gkampitakis/memory-leaks-in-go-3pcn)
+- [Array methods in react.js](https://dev.to/04anilr/array-methods-in-reactjs-36jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
