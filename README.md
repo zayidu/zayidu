@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [GNS3&#39;de Verimliliği Artıran İki Gizli Özellik](https://dev.to/yarensari/gns3de-verimliligi-artiran-iki-gizli-ozellik-41j7)
+- [DNS -The gatekeeper 24/7 of the internet - Part 2](https://dev.to/locnguyenpv/dns-the-gatekeeper-247-of-the-internet-part-2-3hl9)
 - [Debugging Techniques Every Developer Should Know](https://dev.to/surajondev/debugging-techniques-every-developer-should-know-85f)
+- [Devin: A Tool, Not a Substitute for Your Job](https://dev.to/osahenru/devin-a-tool-not-a-substitute-for-your-job-46ib)
 - [Azure vs. AWS: a Deep Dive Into the Cloud Security](https://dev.to/fively/azure-vs-aws-a-deep-dive-into-the-cloud-security-45k9)
-- [Building plugins in Vue](https://dev.to/jacobandrewsky/building-plugins-in-vue-2i1c)
-- [Quick tip: Using Apache Spark with SingleStore Notebooks](https://dev.to/singlestore/quick-tip-using-apache-spark-with-singlestore-notebooks-3634)
-- [AWS open source newsletter, #193](https://dev.to/aws/aws-open-source-newsletter-193-2njm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
