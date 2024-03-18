@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleash Your Creativity with AWS Bedrock: Afterparty &lpar;Day 3&rpar;](https://dev.to/aws-builders/unleash-your-creativity-with-aws-bedrock-afterparty-day-3-1mmh)
-- [Crafting Compelling Data Narratives:A Comprehensive Look at Chart Types in Power BI.](https://dev.to/phylis/crafting-compelling-data-narrativesa-comprehensive-look-at-chart-types-in-power-bi-4740)
-- [Executable Playground of &quot;typia&quot;, 20000x faster TS validator/serializer](https://dev.to/samchon/executable-playground-of-typia-super-easyfast-typescript-validatorserializer-2ble)
-- [Enhance Your Project Quality with These Top Python Libraries](https://dev.to/mrkandreev/enhance-your-project-quality-with-these-top-python-libraries-2ln5)
-- [Music Monday — What are you listening to? &lpar;Gender-nonconforming Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-gender-nonconforming-edition-3oi5)
+- [Learning Rust: Structuring Data with Structs](https://dev.to/link2twenty/learning-rust-structuring-data-with-structs-44k)
+- [Learning to Code: A Waste of Time?](https://dev.to/buzzpy/learning-to-code-a-waste-of-time-2abj)
+- [Should You Specialize Or Not? Solving A Developer&#39;s Dilemma](https://dev.to/dragosnedelcu/should-you-specialize-or-not-solving-a-developers-dilemma-ge7)
+- [How Redis Addressed Our Dynamic Task Scheduling and Concurrent Execution Issues w Celery &amp; Postgres](https://dev.to/suprsend/how-redis-addressed-our-dynamic-task-scheduling-and-concurrent-execution-issues-w-celery-postgres-26fb)
+- [TURN Server Cloud Hosting](https://dev.to/alakkadshaw/turn-server-cloud-hosting-3kn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
