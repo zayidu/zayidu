@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering the Art of Writing Effective GitHub Commit Messages](https://dev.to/safdarali/mastering-the-art-of-writing-effective-github-commit-messages-7cg)
+- [RAG observability in 2 lines of code with Llama Index &amp; Langfuse](https://dev.to/clemra/rag-observability-in-2-lines-of-code-with-llama-index-langfuse-51pa)
+- [FREE AI Course By Microsoft: ZERO to HERO! 🔥](https://dev.to/arjuncodess/free-ai-course-by-microsoft-zero-to-hero-59gi)
+- [Unit Test Next.js 13+ App Router API Routes with Jest and React-Testing-Library. With examples including Prisma example](https://dev.to/dforrunner/unit-test-nextjs-13-app-router-api-routes-with-jest-and-react-testing-library-with-examples-including-prisma-example-367a)
 - [State Machines in Practice: Implementing Solutions for Real Challenges](https://dev.to/pragativerma18/state-machines-in-practice-implementing-solutions-for-real-challenges-3l76)
-- [How to do Canary Deployments on EKS](https://dev.to/vivekpophale/how-to-do-canary-deployments-on-eks-42gk)
-- [how to use skeleton loading next 13 with shadcn ui](https://dev.to/frontendshape/how-to-use-skeleton-loading-next-13-with-shadcn-ui-4l7d)
-- [Memory leaks in Go](https://dev.to/gkampitakis/memory-leaks-in-go-3pcn)
-- [Array methods in react.js](https://dev.to/04anilr/array-methods-in-reactjs-36jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
