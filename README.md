@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Variables in Lua](https://dev.to/tlayach/understanding-variables-in-lua-521)
+- [Take the pain to learn user authentication before you use an external provider](https://dev.to/maverick891/take-the-pain-to-learn-user-authentication-before-you-use-an-external-provider-299b)
+- [RiotJS Material Design &lpar;how to setup BeerCSS&rpar;🍻](https://dev.to/steeve/riotjs-material-design-how-to-setup-beercss-269c)
+- [Git Cheatsheet ✨🗨️](https://dev.to/praneshcodecraft/git-cheatsheet-1kk3)
 - [Dev! You have a choice: Stay the same or change 😊](https://dev.to/madzimai/dev-you-have-a-choice-stay-the-same-or-change-57fk)
-- [Powerful Date tricks in JavaScript that don&#39;t require any external libraries](https://dev.to/doantrongnam/powerful-date-tricks-in-javascript-that-dont-require-any-external-libraries-3cm8)
-- [How to Read a PDF File in Python](https://dev.to/mhamzap10/how-to-read-a-pdf-file-in-python-4k98)
-- [What Are the Common Complaints of Software Engineers?](https://dev.to/devteam/what-are-the-common-complaints-of-software-engineers-2k6a)
-- [Best Practices of React Development](https://dev.to/geekktech/best-practices-of-react-development-4m41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
