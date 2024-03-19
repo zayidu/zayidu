@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is RAG &lpar;Retrieval-Augmented Generation&rpar;?](https://dev.to/qdrant/what-is-rag-understanding-retrieval-augmented-generation-534n)
-- [useState&lpar; &rpar;](https://dev.to/animesh384/usestate--305b)
-- [What is Git Cherry-Pick?](https://dev.to/michaeljolley/what-is-git-cherry-pick-23jp)
-- [Caching Behavior of get Requests in Next.js 13+](https://dev.to/shreyaan/caching-behavior-of-get-requests-in-nextjs-13-2342)
-- [March on Glitch goes in like a lion and out like...an app. Yep, that’s the one.](https://dev.to/glitch/march-on-glitch-goes-in-like-a-lion-and-out-likean-app-yep-thats-the-one-3c55)
+- [What is the worst advice you&#39;ve ever received?: CodeNewbie Podcast](https://dev.to/codenewbieteam/what-is-the-worst-advice-youve-ever-received-codenewbie-podcast-5g49)
+- [How to Cloud: Containerization](https://dev.to/aws-builders/how-to-cloud-containerization-1k56)
+- [Dynamic Community Landing Page with Next.js, React, Tailwind, and Strapi - Download Free](https://dev.to/fpaghar/dynamic-community-landing-page-with-nextjs-react-tailwind-and-strapi-download-free-34ol)
+- [Create &quot;Container&quot; without Docker](https://dev.to/kamraj/create-container-without-docker-256o)
+- [Get a specific apiVersion manifest from k8s](https://dev.to/rgeraskin/get-a-specific-apiversion-manifest-from-k8s-385j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
