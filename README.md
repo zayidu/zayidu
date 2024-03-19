@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Measuring Developer Experience](https://dev.to/hypedevrel/measuring-developer-experience-58pg)
 - [Is content the secret sauce of DevRel?](https://dev.to/hypedevrel/is-content-the-secret-sauce-of-devrel-973)
-- [&lpar;Docker&rpar; Criando um ambiente LAMP utilizando Docker-Compose](https://dev.to/matsesso/docker-criando-um-ambiente-lamp-utilizando-docker-compose-3ch8)
+- [&lpar;Docker&rpar; Criando um ambiente LAMP utilizando Docker Compose](https://dev.to/matsesso/docker-criando-um-ambiente-lamp-utilizando-docker-compose-3ch8)
 - [How to read and write data to the clipboard](https://dev.to/phuocng/how-to-read-and-write-data-to-the-clipboard-5ca)
 - [Tips and Considerations for Using Lazy Containers in SwiftUI](https://dev.to/fatbobman/tips-and-considerations-for-using-lazy-containers-in-swiftui-2pb3)
-- [Tips and Considerations for Using Lazy Containers in SwiftUI](https://dev.to/fatbobman/tips-and-considerations-for-using-lazy-containers-in-swiftui-263k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
