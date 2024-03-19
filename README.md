@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [A Better Way to Build Reproducible Docker Images with Nix](https://dev.to/anurag_vishwakarma/a-better-way-to-build-reproducible-docker-images-with-nix-2k59)
+- [Growing a side-project to 100k Unique Visitors in one week](https://dev.to/piotrkulpinski/growing-a-side-project-to-100k-unique-visitors-in-one-week-29mf)
 - [Weather CLI Tool coded in RUST](https://dev.to/bekbrace/weather-cli-tool-coded-in-rust-573h)
 - [Don&#39;t go all-in Clean Architecture: An alternative for NestJS applications](https://dev.to/thiagomini/dont-go-all-in-clean-architecture-an-alternative-for-nestjs-applications-p53)
 - [Adding Clerk Authentication to a NextJS App](https://dev.to/brianmmdev/adding-clerk-auth-to-a-nextjs-app-2n9c)
-- [Your Git Commit Messages Suck! Here&#39;s What To Fix 🛠](https://dev.to/arjuncodess/your-git-commit-messages-suck-heres-what-to-fix-2n1f)
-- [What is the worst advice you&#39;ve ever received?: CodeNewbie Podcast](https://dev.to/codenewbieteam/what-is-the-worst-advice-youve-ever-received-codenewbie-podcast-5g49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
