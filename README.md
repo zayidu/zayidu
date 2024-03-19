@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Tools To Help Keep Your Dependencies And Code More Secure](https://dev.to/schalkneethling/6-tools-to-help-keep-your-dependencies-and-code-more-secure-13mi)
-- [Deployments and Load Balancing in Kubernetes](https://dev.to/ken_mwaura1/deployments-and-load-balancing-in-kubernetes-230)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-nmg)
-- [I trashed a software website just to reboot it 5 years later!](https://dev.to/jordantylerburchett/i-trashed-a-software-website-just-to-reboot-it-5-years-later-2gfo)
-- [“Data has a Dream” — A Short comic about data mesh and how it can transform your company](https://dev.to/berlin-tech-blog/data-has-a-dream-a-short-comic-about-data-mesh-and-how-it-can-transform-your-company-2b38)
+- [Enriquecendo Operações Numéricas com `IntPtr` Numérico no C# 11](https://dev.to/lincolnqjunior/enriquecendo-operacoes-numericas-com-intptr-numerico-no-c-11-4odp)
+- [🎆THE BEST GIT COMMANDS YOU PROBABLY DON&#39;T KNOW FOR 2024 🎆](https://dev.to/luciano655dev/the-best-git-commands-you-probably-dont-know-for-2024-3mjl)
+- [Basic Python Projects for Beginners](https://dev.to/romulogatto/basic-python-projects-for-beginners-2c49)
+- [New Beginnings](https://dev.to/dillybunn/new-beginnings-2o11)
+- [Spotify API: How To Create a Data Set of Songs](https://dev.to/cupofcode/spotify-api-how-to-create-a-data-set-of-songs-874)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
