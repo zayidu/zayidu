@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Variables in Lua](https://dev.to/tlayach/understanding-variables-in-lua-521)
-- [Take the pain to learn user authentication before you use an external provider](https://dev.to/maverick891/take-the-pain-to-learn-user-authentication-before-you-use-an-external-provider-299b)
-- [RiotJS Material Design &lpar;how to setup BeerCSS&rpar;🍻](https://dev.to/steeve/riotjs-material-design-how-to-setup-beercss-269c)
-- [Git Cheatsheet ✨🗨️](https://dev.to/praneshcodecraft/git-cheatsheet-1kk3)
-- [Dev! You have a choice: Stay the same or change 😊](https://dev.to/madzimai/dev-you-have-a-choice-stay-the-same-or-change-57fk)
+- [DEVIN: the only developer we all are afraid of 😀](https://dev.to/shreyvijayvargiya/devin-the-only-developer-we-all-are-afraid-of-1jfc)
+- [How to Implement Micro Frontends Using SystemJS: A Comprehensive Guide](https://dev.to/confrontend/how-to-implement-micro-frontends-using-systemjs-a-comprehensive-guide-i3a)
+- [How to implement multiple authentication in Laravel](https://dev.to/cammanhhoang/how-to-implement-multiple-authentication-in-laravel-l13)
+- [Git: From Coding Newbie to Version Control Jedi - A Not-So-Serious Guide](https://dev.to/webdev-mohdamir/git-from-coding-newbie-to-version-control-jedi-a-not-so-serious-guide-3jb3)
+- [Navigating Open Spaces: Survival Guide for Neurodivergent Individuals](https://dev.to/this-is-learning/navigating-open-spaces-survival-guide-for-neurodivergent-individuals-4l73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
