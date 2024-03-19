@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are the Common Complaints of Software Engineers?](https://dev.to/devteam/what-are-the-common-complaints-of-software-engineers-2k6a)
+- [Best Practices of React Development](https://dev.to/geekktech/best-practices-of-react-development-4m41)
+- [Location, Location, Location! Mastering Geolocation Data in SharePoint](https://dev.to/jaloplo/location-location-location-mastering-geolocation-data-in-sharepoint-548l)
+- [Chillin&#39; with WinterJS: The Need for Speed...or Just Some Cold Air?](https://dev.to/mitchiemt11/chillin-with-winterjs-the-need-for-speedor-just-some-cold-air-3d99)
 - [Exploring 5 Docker Alternatives: Containerization Choices for 2024](https://dev.to/adarshbp/exploring-5-docker-alternatives-containerization-choices-for-2024-1cfh)
-- [Migrating repository from github to gitlab](https://dev.to/aws-builders/migrating-repository-from-github-to-gitlab-3ape)
-- [C# Model Validation Attribute Cheatsheet](https://dev.to/ssukhpinder/c-model-validation-attribute-cheatsheet-2nml)
-- [Just for Fun: Create a Battery Indicator with React &lpar;Works Only in Chrome&rpar;](https://dev.to/alexefimenko/just-for-fun-create-a-battery-indicator-with-react-works-only-in-chrome-2b0n)
-- [Measuring Developer Experience](https://dev.to/hypedevrel/measuring-developer-experience-58pg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
