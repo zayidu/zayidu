@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Composable Software Architectures are Trending: Here’s Why](https://dev.to/bitdev_/composable-software-architectures-are-trending-heres-why-17ka)
+- [Top 5 Technical Writing Communities of 2024](https://dev.to/hackmamba/top-5-technical-writing-communities-of-2024-686)
 - [DEVIN: the only developer we all are afraid of 😀](https://dev.to/shreyvijayvargiya/devin-the-only-developer-we-all-are-afraid-of-1jfc)
 - [How to Implement Micro Frontends Using SystemJS: A Comprehensive Guide](https://dev.to/confrontend/how-to-implement-micro-frontends-using-systemjs-a-comprehensive-guide-i3a)
 - [How to implement multiple authentication in Laravel](https://dev.to/cammanhhoang/how-to-implement-multiple-authentication-in-laravel-l13)
-- [Git: From Coding Newbie to Version Control Jedi - A Not-So-Serious Guide](https://dev.to/webdev-mohdamir/git-from-coding-newbie-to-version-control-jedi-a-not-so-serious-guide-3jb3)
-- [Navigating Open Spaces: Survival Guide for Neurodivergent Individuals](https://dev.to/this-is-learning/navigating-open-spaces-survival-guide-for-neurodivergent-individuals-4l73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
