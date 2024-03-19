@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Clerk Update — March 2024](https://dev.to/clerk/clerk-update-march-2024-5b22)
+- [Beyond Infrastructure](https://dev.to/ahmadbarake/beyond-infrastructure-ofj)
 - [React Select: The complete guide with code examples](https://dev.to/alakkadshaw/react-select-the-complete-guide-with-code-examples-1d1h)
 - [Improve git clone performance in a CI pipeline](https://dev.to/saranshk/improve-git-clone-performance-in-a-ci-pipeline-52pf)
 - [From Chaos to Clarity with AI-driven Categorization](https://dev.to/mikeyoung44/from-chaos-to-clarity-with-ai-driven-categorization-3727)
-- [I will always support you! Share my experience of being sexually assaulted.](https://dev.to/rhaenyraliang/i-will-always-support-you-share-my-experience-of-being-sexually-assaulted-4idd)
-- [Pose estimation | Track users motion in real-time with ease on any device](https://dev.to/fabricesepret/pose-estimation-track-users-motion-in-real-time-with-ease-on-any-device-4e4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
