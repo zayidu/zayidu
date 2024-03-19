@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Dev! You have a choice: Stay the same or change 😊](https://dev.to/madzimai/dev-you-have-a-choice-stay-the-same-or-change-57fk)
+- [Powerful Date tricks in JavaScript that don&#39;t require any external libraries](https://dev.to/doantrongnam/powerful-date-tricks-in-javascript-that-dont-require-any-external-libraries-3cm8)
+- [How to Read a PDF File in Python](https://dev.to/mhamzap10/how-to-read-a-pdf-file-in-python-4k98)
 - [What Are the Common Complaints of Software Engineers?](https://dev.to/devteam/what-are-the-common-complaints-of-software-engineers-2k6a)
 - [Best Practices of React Development](https://dev.to/geekktech/best-practices-of-react-development-4m41)
-- [Location, Location, Location! Mastering Geolocation Data in SharePoint](https://dev.to/jaloplo/location-location-location-mastering-geolocation-data-in-sharepoint-548l)
-- [Chillin&#39; with WinterJS: The Need for Speed...or Just Some Cold Air?](https://dev.to/mitchiemt11/chillin-with-winterjs-the-need-for-speedor-just-some-cold-air-3d99)
-- [Exploring 5 Docker Alternatives: Containerization Choices for 2024](https://dev.to/adarshbp/exploring-5-docker-alternatives-containerization-choices-for-2024-1cfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
