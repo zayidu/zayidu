@@ -11,7 +11,7 @@
 - [🎆THE BEST GIT COMMANDS YOU PROBABLY DON&#39;T KNOW FOR 2024 🎆](https://dev.to/luciano655dev/the-best-git-commands-you-probably-dont-know-for-2024-3mjl)
 - [Basic Python Projects for Beginners](https://dev.to/romulogatto/basic-python-projects-for-beginners-2c49)
 - [New Beginnings](https://dev.to/dillybunn/new-beginnings-2o11)
-- [Spotify API: How To Create a Data Set of Songs](https://dev.to/cupofcode/spotify-api-how-to-create-a-data-set-of-songs-874)
+- [⚔️ Embeddings, Chatbots RAG Arena et forfaits Telecom OPT-NC](https://dev.to/adriens/embeddings-chatbots-rag-arena-et-forfaits-telecom-opt-nc-5d07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
