@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Explaining requestAnimationFrame in 256 characters or fewer](https://dev.to/ben/explaining-requestanimationframe-in-256-characters-or-fewer-29n6)
+- [This challenge has got me craving a burger now!](https://dev.to/ssukhpinder/this-challenge-has-got-me-craving-a-burger-now-51oi)
+- [Cypress vs. Selenium: Choosing the Right Automation Tool](https://dev.to/igahsamuel/cypress-vs-selenium-choosing-the-right-automation-tool-3omd)
+- [The weird quirk with rounding in Python &lpar;and that is good&rpar;](https://dev.to/wagenrace/the-weird-quirk-with-rounding-in-python-and-that-is-good-1fki)
 - [Local Storage](https://dev.to/ethernmyth/local-storage-4j48)
-- [Jelly Bean CSS Art](https://dev.to/ethernmyth/jelly-bean-css-art-55gh)
-- [Database for newbies](https://dev.to/basementdevs/database-for-newbies-n46)
-- [Revolutionizing Travel Planning: Unveiling the Top 7 AI Trip Planners for 202](https://dev.to/jahan/revolutionizing-travel-planning-unveiling-the-top-7-ai-trip-planners-for-202-4ol)
-- [Fetch Api](https://dev.to/shivangip285/fetch-api-36oc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
