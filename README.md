@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode Solution: #1669 Merge In Between Linked Lists 🚀](https://dev.to/roshan_earth286/leetcode-solution-1669-merge-in-between-linked-lists-20b6)
-- [Future of AI in Advertising: Trends and Opportunities for Software Developers](https://dev.to/andrewupton/future-of-ai-in-advertising-trends-and-opportunities-for-software-developers-4of5)
-- [Day 1 of 30-Day .NET Challenge: Boolean Expressions](https://dev.to/ssukhpinder/day-1-of-30-day-net-challenge-boolean-expressions-2d31)
-- [I created my first startup to promote YOUR startup](https://dev.to/gpiechnik/i-created-my-first-startup-to-promote-your-startup-3nlh)
-- [Data Science &amp; DevTools: GitHub Copilot](https://dev.to/azure/data-science-devtools-github-copilot-11be)
+- [Guidelines and Terms of Service &lpar;TOS&rpar;](https://dev.to/sh20raj/guidelines-and-terms-of-service-tos-4khk)
+- [Disclaimer](https://dev.to/devart/disclaimer-53h)
+- [Top 10 Micro Frontend Anti-Patterns](https://dev.to/florianrappl/top-10-micro-frontend-anti-patterns-3809)
+- [Introduction to Neural Networks](https://dev.to/shaheryaryousaf/introduction-to-neural-networks-4p8c)
+- [Managing Cookies in Node.js Express App: Using setHeader &amp; Cookie-Parser](https://dev.to/sumitkvnegi/managing-cookies-in-nodejs-express-app-using-setheader-cookie-parser-1d60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
