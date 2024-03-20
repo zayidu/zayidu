@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Integer, Float, and Array class](https://dev.to/feelo31/integer-float-and-array-class-24jg)
+- [Nullinjectorerror no provider for httpclient Angular 17 | How to fix this Error](https://dev.to/anilsingh/nullinjectorerror-no-provider-for-httpclient-angular-17-how-to-fix-this-error-21im)
+- [Python for AI : Cheatlist](https://dev.to/taipy/python-for-ai-cheatlist-33ec)
 - [How To Deploy Your FastAPI Application on Amazon EC2, and Activate SSL.](https://dev.to/ephraimx/how-to-deploy-your-fastapi-application-on-amazon-ec2-and-activate-ssl-o65)
-- [Basic Responsive design using raw CSS code](https://dev.to/praneshcodecraft/basic-responsive-design-using-raw-css-code-1n26)
-- [Don’t Be Scared, Devin AI + You = Super Developer](https://dev.to/mmainulhasan/dont-be-scared-devin-ai-you-super-developer-4pi)
-- [A Practical View on AWS Lambda &amp; It’s Limitations](https://dev.to/anurag_vishwakarma/a-practical-view-on-aws-lambda-compute-and-its-limitations-567e)
-- [Welcome to my Blog](https://dev.to/theepankaja/welcome-to-my-blog-46po)
+- [Building Nirmol: A Bangla Offensive Language Detection API and Dataset](https://dev.to/sigmakib2/building-nirmol-a-bangla-offensive-language-detection-api-and-dataset-3g9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
