@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Long Context Windows in LLMs can be deceptive &lpar;Lost in the Middle problem&rpar;](https://dev.to/llmware/why-long-context-windows-for-llms-can-be-deceptive-lost-in-the-middle-problem-oj2)
 - [Explaining requestAnimationFrame in 256 characters or fewer](https://dev.to/ben/explaining-requestanimationframe-in-256-characters-or-fewer-29n6)
 - [This challenge has got me craving a burger now!](https://dev.to/ssukhpinder/this-challenge-has-got-me-craving-a-burger-now-51oi)
+- [From Kubernetes to OpenFaaS: A Lesson in Configuration and Container Lifecycles](https://dev.to/ltvengineering/from-kubernetes-to-openfaas-a-lesson-in-configuration-and-container-lifecycles-4ibj)
 - [Cypress vs. Selenium: Choosing the Right Automation Tool](https://dev.to/igahsamuel/cypress-vs-selenium-choosing-the-right-automation-tool-3omd)
-- [The weird quirk with rounding in Python &lpar;and that is good&rpar;](https://dev.to/wagenrace/the-weird-quirk-with-rounding-in-python-and-that-is-good-1fki)
-- [Local Storage](https://dev.to/ethernmyth/local-storage-4j48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
