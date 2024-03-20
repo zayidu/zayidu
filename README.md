@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Guidelines and Terms of Service &lpar;TOS&rpar;](https://dev.to/sh20raj/guidelines-and-terms-of-service-tos-4khk)
-- [Disclaimer](https://dev.to/devart/disclaimer-53h)
-- [Top 10 Micro Frontend Anti-Patterns](https://dev.to/florianrappl/top-10-micro-frontend-anti-patterns-3809)
-- [Introduction to Neural Networks](https://dev.to/shaheryaryousaf/introduction-to-neural-networks-4p8c)
-- [Managing Cookies in Node.js Express App: Using setHeader &amp; Cookie-Parser](https://dev.to/sumitkvnegi/managing-cookies-in-nodejs-express-app-using-setheader-cookie-parser-1d60)
+- [Recommend a flexible Node.js multi-functional crawler library](https://dev.to/coderhxl/recommend-a-flexible-nodejs-multi-functional-crawler-library-9dj)
+- [Integrate sqlite with Nodejs ! 🔥](https://dev.to/margish288/integrate-sqlite-with-nodejs--n55)
+- [Swiper.js Tutorial](https://dev.to/refine/swiperjs-tutorial-7ih)
+- [Knative Serverless in 2024](https://dev.to/jensgst/knative-serverless-in-2024-dom)
+- [About Us](https://dev.to/devart/about-us-1jm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
