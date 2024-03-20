@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is RAG, and why should I care?](https://dev.to/guerra2fernando/what-is-rag-and-why-should-i-care-3e87)
-- [I Believe AI is Bad, Prove Me Wrong.](https://dev.to/scofieldidehen/i-believe-ai-is-bad-prove-me-wrong-27ng)
-- [How to hire Developers for your Open Source Project?](https://dev.to/vedantkhairnar/how-to-hire-developers-for-your-open-source-project-4aa7)
-- [Top 7 Must-Have JavaScript Web APIs! 🚀🌐](https://dev.to/ihssmaheel/top-7-must-have-javascript-web-apis-5fn8)
-- [Goodbye SASS 👋, welcome back native CSS](https://dev.to/karsten_biedermann/goodbye-sass-welcome-back-native-css-cf)
+- [Death to the invincible engineer](https://dev.to/jurajmalenica/death-to-the-invincible-engineer-o1l)
+- [17 Libraries You Should Know if You Build with React](https://dev.to/copilotkit/libraries-you-should-know-if-you-build-with-react-1807)
+- [LLM&#39;s &quot;commendable&quot;, &quot;innovative&quot;, &quot;meticulous&quot;, &quot;notable&quot;, &quot;versatile&quot;, &quot;intricate&quot; impact](https://dev.to/maximsaplin/llms-commendable-innovative-meticulous-notable-versatile-intricate-impact-f75)
+- [Announcing Limitless Free Trial for CrabNebula Cloud](https://dev.to/crabnebuladev/announcing-limitless-free-trial-for-crabnebula-cloud-579k)
+- [A Comprehensive Guide to Mastering Coding Challenges](https://dev.to/unclejessroth/a-comprehensive-guide-to-mastering-coding-challenges-557n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
