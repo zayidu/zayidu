@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Postgres Partitioning and Spring Data JPA](https://dev.to/ishansoni22/postgres-partitioning-and-spring-data-jpa-3a45)
+- [We willl keep coding](https://dev.to/feministech/we-willl-keep-coding-34ko)
+- [From Chaos to Order: A Journey to Productivity](https://dev.to/stan8086/from-chaos-to-order-a-journey-to-productivity-2lfm)
 - [Death to the invincible engineer](https://dev.to/jurajmalenica/death-to-the-invincible-engineer-o1l)
 - [17 Libraries You Should Know if You Build with React](https://dev.to/copilotkit/libraries-you-should-know-if-you-build-with-react-1807)
-- [LLM&#39;s &quot;commendable&quot;, &quot;innovative&quot;, &quot;meticulous&quot;, &quot;notable&quot;, &quot;versatile&quot;, &quot;intricate&quot; impact](https://dev.to/maximsaplin/llms-commendable-innovative-meticulous-notable-versatile-intricate-impact-f75)
-- [Announcing Limitless Free Trial for CrabNebula Cloud](https://dev.to/crabnebuladev/announcing-limitless-free-trial-for-crabnebula-cloud-579k)
-- [A Comprehensive Guide to Mastering Coding Challenges](https://dev.to/unclejessroth/a-comprehensive-guide-to-mastering-coding-challenges-557n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
