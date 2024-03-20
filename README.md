@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sensor APIs](https://dev.to/ssukhpinder/sensor-apis-1275)
+- [Sparcelado: A nova cartada da Shopee para conquistar corações e bolsos](https://dev.to/uxline/sparcelado-a-nova-cartada-da-shopee-para-conquistar-coracoes-e-bolsos-50ck)
+- [Building Your First AI-Powered Backend in Kotlin: Step-by-Step](https://dev.to/josmel/building-your-first-ai-powered-backend-in-kotlin-step-by-step-p2e)
+- [[Micronaut] Receiving multipart/form-data](https://dev.to/masanori_msl/micronaut-receiving-multipartform-data-50ni)
 - [A Light-hearted Look at Pagination Optimization](https://dev.to/siddhantkcode/a-light-hearted-look-at-pagination-optimization-4f1o)
 - [Join Our First Community Challenge: The Frontend Challenge](https://dev.to/devteam/join-our-first-community-challenge-the-frontend-challenge-8be)
-- [Linux Exfiltration](https://dev.to/terceranexus6/linux-exfiltration-1fci)
-- [You Just Use console.log? Buckle Up, Console Newbie!](https://dev.to/best_codes/you-just-use-consolelog-buckle-up-console-newbie-31b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
