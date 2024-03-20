@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Postgres Partitioning and Spring Data JPA](https://dev.to/ishansoni22/postgres-partitioning-and-spring-data-jpa-3a45)
-- [We willl keep coding](https://dev.to/feministech/we-willl-keep-coding-34ko)
-- [From Chaos to Order: A Journey to Productivity](https://dev.to/stan8086/from-chaos-to-order-a-journey-to-productivity-2lfm)
-- [Death to the invincible engineer](https://dev.to/jurajmalenica/death-to-the-invincible-engineer-o1l)
-- [17 Libraries You Should Know if You Build with React](https://dev.to/copilotkit/libraries-you-should-know-if-you-build-with-react-1807)
+- [Don’t Be Scared, Devin AI + You = Super Developer](https://dev.to/mmainulhasan/dont-be-scared-devin-ai-you-super-developer-4pi)
+- [A Practical View on AWS Lambda &amp; It’s Limitations](https://dev.to/anurag_vishwakarma/a-practical-view-on-aws-lambda-compute-and-its-limitations-567e)
+- [TinyMCE 7 - Revision History, Document Converters, Markdown and more!](https://dev.to/tinymce/tinymce-7-revision-history-document-converters-markdown-and-more-551n)
+- [Shadcn: Customizable and Open Source UI](https://dev.to/codeparrot/shadcn-customizable-and-open-source-ui-edn)
+- [How to deploy a Hugo site to S3 in 2024](https://dev.to/kalisen/how-to-deploy-a-hugo-site-to-s3-in-2024-ihk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
