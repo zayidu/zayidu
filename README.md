@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Improving your Python code, an initial series of best practices.](https://dev.to/pedrohgoncalves/improving-your-python-code-an-initial-series-of-best-practices-150j)
 - [6 Free eBooks to Learn Web Development 📚](https://dev.to/arjuncodess/6-free-ebooks-to-learn-web-development-e01)
 - [Precisamos falar sobre ipdb: Uma Jornada para um debugger mais Eficiente em Python](https://dev.to/carineneris/precisamos-falar-sobre-ipdb-uma-jornada-para-um-debugger-mais-eficiente-em-python-4blj)
 - [Generator Functions in Python](https://dev.to/mainpynerds/generator-functions-in-python-377p)
-- [Making a notification service with Rust &amp; AWS SNS](https://dev.to/shuttle_dev/making-a-notification-service-with-rust-aws-sns-1of3)
-- [One Byte Explainer: matchMedia](https://dev.to/link2twenty/one-byte-explainer-matchmedia-14k5)
+- [Error handling in Spring web using RFC-9457 specification](https://dev.to/abdelrani/error-handling-in-spring-web-using-rfc-9457-specification-5dj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
