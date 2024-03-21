@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Intersection Observer API - One Byte Explainer](https://dev.to/highflyer910/intersection-observer-api-one-byte-explainer-3f5i)
-- [Interview with Sebastian Holstein, Founder of Qaze](https://dev.to/crabnebula/interview-with-sebastian-holstein-founder-of-qaze-2gg2)
-- [Browser&#39;s Hidden Vault: Local Storage API 🗄️](https://dev.to/webdev-mohdamir/browsers-hidden-vault-local-storage-api-1j4n)
-- [CSS Art: Favorite Snack](https://dev.to/sh20raj/css-art-favorite-snack-5bbm)
-- [delicious chocolate chip cookie](https://dev.to/pizofreude/delicious-chocolate-chip-cookie-2mc9)
+- [7 Tech Articles on How to Grow as Engineer](https://dev.to/alexr/7-tech-articles-on-how-to-grow-as-engineer-1793)
+- [Testes Unitários com JUnit no Java](https://dev.to/andersonleite/testes-unitarios-com-junit-no-java-26lf)
+- [Keeping secrets from your pipelines](https://dev.to/denisrendler/keeping-secrets-from-your-pipelines-h5f)
+- [WordPress Local Development Mac OS Using Valet](https://dev.to/dhimaskirana/wordpress-local-development-mac-os-using-valet-efj)
+- [How to Integrate Astro With ApostropheCMS pt. 1](https://dev.to/apostrophecms/how-to-integrate-astro-with-apostrophecms-pt-1-366m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
