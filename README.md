@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Intersection Observer API - One Byte Explainer](https://dev.to/highflyer910/intersection-observer-api-one-byte-explainer-3f5i)
+- [Interview with Sebastian Holstein, Founder of Qaze](https://dev.to/crabnebula/interview-with-sebastian-holstein-founder-of-qaze-2gg2)
+- [Browser&#39;s Hidden Vault: Local Storage API 🗄️](https://dev.to/webdev-mohdamir/browsers-hidden-vault-local-storage-api-1j4n)
+- [CSS Art: Favorite Snack](https://dev.to/sh20raj/css-art-favorite-snack-5bbm)
 - [delicious chocolate chip cookie](https://dev.to/pizofreude/delicious-chocolate-chip-cookie-2mc9)
-- [Creating an Apple on a Plate with CSS: A Delicious Journey 🍏](https://dev.to/plxel/creating-an-apple-on-a-plate-with-css-a-delicious-journey-5b5c)
-- [Como Participar da Bolha Dev no Twitter: Um Guia para Desenvolvedores](https://dev.to/kecbm/como-participar-da-bolha-dev-no-twitter-um-guia-para-desenvolvedores-11ol)
-- [Sloan&#39;s Inbox: Is security still an afterthought?](https://dev.to/devteam/sloans-inbox-is-security-still-an-afterthought-48ln)
-- [Using pgvector To Locate Similarities In Enterprise Data](https://dev.to/johnjvester/using-pgvector-to-locate-similarities-in-enterprise-data-3fl8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
