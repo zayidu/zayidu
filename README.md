@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [delicious chocolate chip cookie](https://dev.to/pizofreude/delicious-chocolate-chip-cookie-2mc9)
+- [Creating an Apple on a Plate with CSS: A Delicious Journey 🍏](https://dev.to/plxel/creating-an-apple-on-a-plate-with-css-a-delicious-journey-5b5c)
+- [Como Participar da Bolha Dev no Twitter: Um Guia para Desenvolvedores](https://dev.to/kecbm/como-participar-da-bolha-dev-no-twitter-um-guia-para-desenvolvedores-11ol)
+- [Sloan&#39;s Inbox: Is security still an afterthought?](https://dev.to/devteam/sloans-inbox-is-security-still-an-afterthought-48ln)
 - [Using pgvector To Locate Similarities In Enterprise Data](https://dev.to/johnjvester/using-pgvector-to-locate-similarities-in-enterprise-data-3fl8)
-- [Enable a link to a block in a note using Obsidian GitHub Publisher](https://dev.to/somidad/enable-a-link-to-a-block-in-a-note-using-obsidian-github-publisher-98j)
-- [Liman MYS -Senaryolar](https://dev.to/aciklab/liman-mys-senaryolar-4afn)
-- [Liman MYS -Temel Kullanım](https://dev.to/aciklab/liman-mys-temel-kullanim-nc4)
-- [Liman MYS -Standart Ayağa Kaldırma](https://dev.to/aciklab/liman-mys-standart-ayaga-kaldirma-508m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
