@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [File API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-222h)
+- [DOM API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-24o1)
+- [fetch API](https://dev.to/akashpattnaik/browser-apis-explained-in-1-byte-nno)
+- [Mastering Docker: A Comprehensive Guide to Docker Commands](https://dev.to/adarshbp/mastering-docker-a-comprehensive-guide-to-docker-commands-58en)
 - [7 Tech Articles on How to Grow as Engineer](https://dev.to/alexr/7-tech-articles-on-how-to-grow-as-engineer-1793)
-- [Testes Unitários com JUnit no Java](https://dev.to/andersonleite/testes-unitarios-com-junit-no-java-26lf)
-- [Keeping secrets from your pipelines](https://dev.to/denisrendler/keeping-secrets-from-your-pipelines-h5f)
-- [WordPress Local Development Mac OS Using Valet](https://dev.to/dhimaskirana/wordpress-local-development-mac-os-using-valet-efj)
-- [How to Integrate Astro With ApostropheCMS pt. 1](https://dev.to/apostrophecms/how-to-integrate-astro-with-apostrophecms-pt-1-366m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
