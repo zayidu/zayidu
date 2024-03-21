@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The pitfall of implicit returns](https://dev.to/nfrankel/the-pitfall-of-implicit-returns-41ln)
+- [Linear Regression](https://dev.to/kammarianand/linear-regression-6ph)
+- [Day 2 of 30-Day .NET Challenge: Variable Scope &amp; Logic Control with Code Blocks](https://dev.to/ssukhpinder/day-2-of-30-day-net-challenge-variable-scope-logic-control-with-code-blocks-1e06)
+- [JavaScript Template Literals](https://dev.to/fpaghar/javascript-template-literals-2j1p)
 - [Implement Binary Heap &amp; Pairing Heap with MoonBit](https://dev.to/zachyee/implement-binary-heap-pairing-heap-with-moonbit-4f9g)
-- [Internet Explorer](https://dev.to/turdfire/internet-explorer-4k8)
-- [From Davin to Microsoft Autodev: What it means for Software Developers?](https://dev.to/ssukhpinder/from-davin-to-microsoft-autodev-what-it-means-for-software-developers-4a78)
-- [🔍Underrated Open Source Projects You Should Know About 🧠](https://dev.to/milasuperstar/underrated-open-source-projects-you-should-know-about-4ne9)
-- [Leetcode Solution: #206: Reverse Linked List 🐬](https://dev.to/roshan_earth286/leetcode-solution-206-reverse-linked-list-31nf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
