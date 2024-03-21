@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The Basics of Kubernetes CronJob](https://dev.to/refine/the-basics-of-kubernetes-cronjob-42k3)
 - [Handling SVG Icons in React &lpar;SVG Factories&rpar;](https://dev.to/michaliskout/handling-svg-icons-in-react-svg-factories-21ag)
 - [Ice-cream cone for DEV Challenge](https://dev.to/stardexterity/ice-cream-cone-for-dev-challenge-56oh)
 - [Riot Component Unit Test with Vitest &lpar;Node env&rpar;](https://dev.to/steeve/riot-component-unit-test-with-vitest-node-env-hk0)
 - [Unlocking the Power of API Gateway Logs](https://dev.to/apisix/unlocking-the-power-of-api-gateway-logs-459o)
-- [Harnessing the Power of Real-Time AI Conversations in Web Development](https://dev.to/nluxai/harnessing-the-power-of-real-time-ai-conversations-in-web-development-16l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
