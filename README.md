@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Leetcode Solution: #206: Reverse Linked List 🐬](https://dev.to/roshan_earth286/leetcode-solution-206-reverse-linked-list-31nf)
 - [Improving your Python code, an initial series of best practices.](https://dev.to/pedrohgoncalves/improving-your-python-code-an-initial-series-of-best-practices-150j)
 - [6 Free eBooks to Learn Web Development 📚](https://dev.to/arjuncodess/6-free-ebooks-to-learn-web-development-e01)
-- [Precisamos falar sobre ipdb: Uma Jornada para um debugger mais Eficiente em Python](https://dev.to/carineneris/precisamos-falar-sobre-ipdb-uma-jornada-para-um-debugger-mais-eficiente-em-python-4blj)
-- [Generator Functions in Python](https://dev.to/mainpynerds/generator-functions-in-python-377p)
-- [Error handling in Spring web using RFC-9457 specification](https://dev.to/abdelrani/error-handling-in-spring-web-using-rfc-9457-specification-5dj1)
+- [Что такое @Autowire в Spring? Как его использовать и как он работает?](https://dev.to/faangmaster/chto-takoie-autowire-v-spring-38i0)
+- [🎆 THE BEST CSS PROPERTIES YOU SURELY DON&#39;T KNOW FOR 2024 🎆](https://dev.to/luciano655dev/the-best-css-properties-you-surely-dont-know-for-2024-4ad3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
