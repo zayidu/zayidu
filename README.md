@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Properly Structure Stimulus Controller](https://dev.to/railsdesigner/how-to-properly-structure-stimulus-controller-2152)
+- [console.log&lpar;&rpar; is OLD! Use These 5 Console Hacks! 😎](https://dev.to/arjuncodess/consolelog-is-old-use-these-5-console-hacks-2k99)
+- [What is Manual Testing? What are the benefits and drawbacks of Manual testing? Give some Examples in support of answer?](https://dev.to/jayachandran/what-is-manual-testing-what-are-the-benefits-and-drawbacks-of-manual-testing-give-some-examples-in-support-of-answer-5hk2)
 - [Data Streaming Hands-On: High-scale data streaming with AWS Kinesis Data Streams](https://dev.to/aws-builders/data-streaming-hands-on-high-scale-data-streaming-with-aws-kinesis-data-streams-326p)
 - [Understanding Closures in Rust](https://dev.to/dipankarpaul/understanding-closures-in-rust-2a3n)
-- [A Comprehensive Guide to CSS: Insights from the King of CSS, Kevin Powell](https://dev.to/michaellarocca/a-comprehensive-guide-to-css-insights-from-the-king-of-css-kevin-powell-1c06)
-- [Getting Started with Lodash: A Beginner&#39;s Guide to JavaScript Utility Functions](https://dev.to/webjoe/getting-started-with-lodash-a-beginners-guide-to-javascript-utility-functions-386h)
-- [A quick example of how to model complex state in Jetpack compose](https://dev.to/theplebdev/a-quick-example-of-how-to-model-complex-state-in-jetpack-compose-43mf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
