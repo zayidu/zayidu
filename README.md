@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Harnessing the Power of Real-Time AI Conversations in Web Development](https://dev.to/nluxai/harnessing-the-power-of-real-time-ai-conversations-in-web-development-16l6)
+- [How Android App Development Companies Use Cloud Technologies for Innovation](https://dev.to/dhruvjoshi9/how-android-app-development-companies-use-cloud-technologies-for-innovation-3a3b)
+- [Liquorice Allsorts](https://dev.to/madsstoumann/liquorice-allsorts-4a13)
+- [Concurrency Control in Go with Ent ORM and MySQL](https://dev.to/tentanganak/concurrency-control-in-go-with-ent-orm-and-mysql-5667)
 - [The pitfall of implicit returns](https://dev.to/nfrankel/the-pitfall-of-implicit-returns-41ln)
-- [Linear Regression](https://dev.to/kammarianand/linear-regression-6ph)
-- [Day 2 of 30-Day .NET Challenge: Variable Scope &amp; Logic Control with Code Blocks](https://dev.to/ssukhpinder/day-2-of-30-day-net-challenge-variable-scope-logic-control-with-code-blocks-1e06)
-- [JavaScript Template Literals](https://dev.to/fpaghar/javascript-template-literals-2j1p)
-- [Implement Binary Heap &amp; Pairing Heap with MoonBit](https://dev.to/zachyee/implement-binary-heap-pairing-heap-with-moonbit-4f9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
