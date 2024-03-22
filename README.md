@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Install, Configure, and Host a Custom Website on Apache2 Web Server, with Ubuntu, Using AWS EC2 Instance](https://dev.to/clouddiadem/install-configure-and-host-a-custom-website-on-apache2-web-server-with-ubuntu-using-aws-ec2-instance-41eo)
-- [Breaking Down Next.js 14](https://dev.to/focusreactive/breaking-down-nextjs-14-3bke)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1h57)
-- [This Week In React #177 : Skia, Pigment, Mist, Storybook, shadcn/ui, Hydration Diff, Geiger, MDXTS, Remotion, WinterJS...](https://dev.to/sebastienlorber/this-week-in-react-177-skia-pigment-mist-storybook-shadcnui-hydration-diff-geiger-mdxts-remotion-winterjs-1ei9)
-- [This Week In React #178: Remix and Vite, Type-safe Children, Astro DB, React Compiler, Firebolt...](https://dev.to/sebastienlorber/this-week-in-react-178-remix-and-vite-type-safe-children-astro-db-react-compiler-firebolt-35i4)
+- [Should Coders Feel Guilty About Using GPT? 🤖 😔](https://dev.to/best_codes/should-coders-feel-guilty-about-using-gpt-3oha)
+- [Advantages of IDE: How Does It Enable Faster Development](https://dev.to/qbentil/advantages-of-ide-how-does-it-enable-faster-development-2pl8)
+- [Liman Geliştirme Ortamı Hazırlığı](https://dev.to/aciklab/liman-gelistirme-ortami-hazirligi-51m0)
+- [Exploring Java Collectors utilities](https://dev.to/bsknath/exploring-java-collectors-utilities-10ne)
+- [Introduction to Chakra UI](https://dev.to/refine/introduction-to-chakra-ui-54gk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
