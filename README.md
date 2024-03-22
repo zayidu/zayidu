@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🗞 Rapyd Developer Newsletter: March 2024](https://dev.to/rapyd/rapyd-developer-newsletter-march-2024-2785)
+- [Free Image Resizer and Compressor API - Free + Unlimited](https://dev.to/sh20raj/free-image-resizer-and-compressor-api-free-unlimited-4bea)
+- [Hatchify: The Fastest Way to Build JSON: APIs](https://dev.to/bitovi/hatchify-the-fastest-way-to-build-json-apis-ih3)
 - [Why { ...defaultValues, ...newValues } can hide a bug](https://dev.to/guimoraes/why-defaultvalues-newvalues-can-hide-a-bug-54hc)
-- [Mounting Google Drive in Google Colab](https://dev.to/praneshcodecraft/mounting-google-drive-in-google-colab-375a)
-- [Mobile Web Audio: Removing Media Controls from Notifications Tray](https://dev.to/tjtanjin/mobile-web-audio-removing-media-controls-from-notifications-tray-1nl3)
-- [My Favorite Snack](https://dev.to/itsauzzo/gummy-worms-5eip)
+- [Gatsby tutorial: Build a static site with a headless CMS](https://dev.to/momciloo/gatsby-tutorial-build-a-static-site-with-a-headless-cms-13np)
+- [Princípios do Design Responsivo: Criando experiências Web adaptáveis](https://dev.to/sntsella/principios-de-design-responsivo-criando-experiencias-web-adaptaveis-3bdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
