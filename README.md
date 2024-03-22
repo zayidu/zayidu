@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Install, Configure, and Host a Custom Website on Apache2 Web Server, with Ubuntu, Using AWS EC2 Instance](https://dev.to/clouddiadem/install-configure-and-host-a-custom-website-on-apache2-web-server-with-ubuntu-using-aws-ec2-instance-41eo)
+- [Breaking Down Next.js 14](https://dev.to/focusreactive/breaking-down-nextjs-14-3bke)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1h57)
 - [This Week In React #177 : Skia, Pigment, Mist, Storybook, shadcn/ui, Hydration Diff, Geiger, MDXTS, Remotion, WinterJS...](https://dev.to/sebastienlorber/this-week-in-react-177-skia-pigment-mist-storybook-shadcnui-hydration-diff-geiger-mdxts-remotion-winterjs-1ei9)
 - [This Week In React #178: Remix and Vite, Type-safe Children, Astro DB, React Compiler, Firebolt...](https://dev.to/sebastienlorber/this-week-in-react-178-remix-and-vite-type-safe-children-astro-db-react-compiler-firebolt-35i4)
-- [Unleashing the Power of Actors in Frontend Application Development](https://dev.to/woodmarkdev/unleashing-the-power-of-actors-in-frontend-application-development-a9b)
-- [How to connect your SQL Server RDS to your Self Managed Active Directories &lpar;Windows Authentication&rpar;](https://dev.to/fanmixco/how-to-connect-your-sql-server-rds-to-your-self-managed-active-directories-windows-authentication-37ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
