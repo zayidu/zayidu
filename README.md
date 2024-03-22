@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [💃🏻 Programmer, c&#39;est plutôt un métier de moeuf à la base](https://dev.to/jmfayard/programmer-cest-plutot-un-metier-de-moeuf-a-la-base-16gc)
 - [Test your React Apps with Vitest](https://dev.to/codeparrot/test-your-react-apps-with-vitest-2llb)
 - [10 Benefits of Using Vector Graphics for Web Design](https://dev.to/vectorpeople/10-benefits-of-using-vector-graphics-for-web-design-4lng)
 - [How to Handle Different Data Types during Row-to-Column Transposition](https://dev.to/esproc_spl/how-to-handle-different-data-types-during-row-to-column-transposition-iah)
 - [Factory Method](https://dev.to/amreldessouki/factory-method-2hh4)
-- [Handle 401 errors in a cleaner way with Axios interceptors](https://dev.to/idboussadel/handle-401-errors-in-a-cleaner-way-with-axios-interceptors-5hkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
