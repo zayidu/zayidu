@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀How TCP Servers Are Designed to Handle Multiple Requests](https://dev.to/mjsf1234/how-tcp-servers-are-designed-to-handle-multiple-requests-5b84)
-- [Beginner&#39;s Guide to AWS VPC Endpoints Gateway and Interface](https://dev.to/fpesre/beginners-guide-to-aws-vpc-endpoints-gateway-and-interface-10kg)
-- [JavaScript Essentials Cheat Sheet with Explanations](https://dev.to/04anilr/javascript-essentials-cheat-sheet-with-explanations-n73)
-- [Replacing the Battery on a HP Spectre x360](https://dev.to/mauricebrg/replacing-the-battery-on-a-hp-spectre-x360-1o6i)
-- [How to push Docker Image to Public and Private AWS ECR Repository](https://dev.to/chinmay13/how-to-push-docker-image-to-public-and-private-aws-ecr-repository-56k5)
+- [Next.js Uploads: The Edge Store Boost](https://dev.to/codeparrot/nextjs-uploads-the-edge-store-boost-1o2j)
+- [Configure Amazon RDS Proxy](https://dev.to/parth7802/configure-amazon-rds-proxy-2ibn)
+- [The Frontend Challenge: 🍩 Donut eat my favorite snack!](https://dev.to/afif/the-frontend-challenge-donut-eat-my-favorite-snack-33b0)
+- [A good documentation can lead you to be better](https://dev.to/_michellemello/a-good-documentation-can-lead-you-to-be-better-4dkj)
+- [I tested Google IDX &lpar;Codespaces for Google&rpar;, and here are my impressions.](https://dev.to/sampseiol1/i-tested-google-idx-codespaces-for-google-and-here-are-my-impressions-160e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
