@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Factory Method](https://dev.to/amreldessouki/factory-method-2hh4)
 - [Handle 401 errors in a cleaner way with Axios interceptors](https://dev.to/idboussadel/handle-401-errors-in-a-cleaner-way-with-axios-interceptors-5hkk)
 - [Next.js 14: Fetching Data](https://dev.to/w3tsa/nextjs-14-fetching-data-elm)
-- [Writing and Reading Text Files in Lua](https://dev.to/tlayach/writing-and-reading-text-files-in-lua-5c4h)
-- [Understanding Comments in Lua](https://dev.to/tlayach/understanding-comments-in-lua-p73)
-- [Stop Obsidian wrapping code and enable scrolling](https://dev.to/somidad/stop-obsidian-wrapping-code-and-enable-scrolling-47oo)
+- [Test Driving a Rails API - Part Two](https://dev.to/jackf/test-driving-a-rails-api-part-two-1ec7)
+- [The Imperative of Responsive Design in Modern Web Development](https://dev.to/emmanuelhills/the-imperative-of-responsive-design-in-modern-web-development-1a13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
