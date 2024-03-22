@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Download Adobe Firefly Generative Fill Images Without Watermark](https://dev.to/pixelgig/how-to-download-adobe-firefly-generative-fill-images-without-watermark-3880)
 - [The Rise of AI Programmers or the End of Human Programmers?](https://dev.to/hikarimaeda/the-rise-of-ai-programmers-or-the-end-of-human-programmers-3i8e)
 - [Why did Cloudflare Build its Own Reverse Proxy? - Pingora vs NGINX](https://dev.to/firstfingerin/why-did-cloudflare-build-its-own-reverse-proxy-pingora-vs-nginx-ebj)
 - [How to Scrape TikTok](https://dev.to/crawlbase/how-to-scrape-tiktok-3k3b)
 - [The Extreme Sport of Solo-Conferencing](https://dev.to/lottepitcher/the-extreme-sport-of-solo-conferencing-5dhe)
-- [EDA for AWS operations](https://dev.to/aws-builders/eda-for-aws-operations-2fpe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
