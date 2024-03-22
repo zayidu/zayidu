@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In React #177 : Skia, Pigment, Mist, Storybook, shadcn/ui, Hydration Diff, Geiger, MDXTS, Remotion, WinterJS...](https://dev.to/sebastienlorber/this-week-in-react-177-skia-pigment-mist-storybook-shadcnui-hydration-diff-geiger-mdxts-remotion-winterjs-1ei9)
+- [This Week In React #178: Remix and Vite, Type-safe Children, Astro DB, React Compiler, Firebolt...](https://dev.to/sebastienlorber/this-week-in-react-178-remix-and-vite-type-safe-children-astro-db-react-compiler-firebolt-35i4)
+- [Unleashing the Power of Actors in Frontend Application Development](https://dev.to/woodmarkdev/unleashing-the-power-of-actors-in-frontend-application-development-a9b)
 - [How to connect your SQL Server RDS to your Self Managed Active Directories &lpar;Windows Authentication&rpar;](https://dev.to/fanmixco/how-to-connect-your-sql-server-rds-to-your-self-managed-active-directories-windows-authentication-37ac)
 - [Cookies in Depth using Javascript and NodeJs](https://dev.to/codeparrot/cookies-in-depth-using-javascript-and-nodejs-5g7m)
-- [Building Vue Components With Pug &amp; Stylus](https://dev.to/martinsonuoha/building-vue-components-with-pug-stylus-o9c)
-- [🚀&quot;Streamlining Infrastructure Deployment: 💻 Seamless CloudFormation Stack Deployment with Git Sync🔄&quot;](https://dev.to/aws-builders/streamlining-infrastructure-deployment-seamless-cloudformation-stack-deployment-with-git-sync-2hg5)
-- [Camping with HTML and CSS](https://dev.to/madsstoumann/camping-with-html-and-css-3en3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
