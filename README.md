@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Middleware](https://dev.to/mikevarenek/laravel-middleware-3nlo)
-- [Understanding useState Hook, Props and Prop Drilling, In React](https://dev.to/opeyemi2018/understanding-usestate-hook-props-and-prop-drilling-in-react-54kp)
-- [Transforming Spaces: The Art of Kitchen Modifications](https://dev.to/greg01/transforming-spaces-the-art-of-kitchen-modifications-3h12)
-- [Como um computador funciona?](https://dev.to/erick_tmr/como-um-computador-funciona-4me9)
-- [Resolve Installing psych 5.1.2 with native extensions Gem::Ext::BuildError](https://dev.to/kuldeepdev407/resolve-installing-psych-512-with-native-extensions-gemextbuilderror-2bkn)
+- [Stop Obsidian wrapping code and enable scrolling](https://dev.to/somidad/stop-obsidian-wrapping-code-and-enable-scrolling-47oo)
+- [University over Bootcamp: Why I Chose Traditional Education for My Tech Journey](https://dev.to/opensourceyllen/university-over-bootcamp-why-i-chose-traditional-education-for-my-tech-journey-58cb)
+- [Create PDFs with Tailwind](https://dev.to/onedoc/create-pdfs-with-tailwind-k0)
+- [Modernizing cloudbuild.yaml for Container Builds](https://dev.to/googlecloud/modernizing-cloudbuildyaml-for-container-builds-1je0)
+- [The Journey from Sound Engineer to Software Engineer: CodeNewbie Podcast](https://dev.to/codenewbieteam/the-journey-from-sound-engineer-to-software-engineer-codenewbie-podcast-2lj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
