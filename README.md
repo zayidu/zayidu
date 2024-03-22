@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing and Reading Text Files in Lua](https://dev.to/tlayach/writing-and-reading-text-files-in-lua-5c4h)
+- [Understanding Comments in Lua](https://dev.to/tlayach/understanding-comments-in-lua-p73)
 - [Stop Obsidian wrapping code and enable scrolling](https://dev.to/somidad/stop-obsidian-wrapping-code-and-enable-scrolling-47oo)
 - [University over Bootcamp: Why I Chose Traditional Education for My Tech Journey](https://dev.to/opensourceyllen/university-over-bootcamp-why-i-chose-traditional-education-for-my-tech-journey-58cb)
 - [Create PDFs with Tailwind](https://dev.to/onedoc/create-pdfs-with-tailwind-k0)
-- [Modernizing cloudbuild.yaml for Container Builds](https://dev.to/googlecloud/modernizing-cloudbuildyaml-for-container-builds-1je0)
-- [The Journey from Sound Engineer to Software Engineer: CodeNewbie Podcast](https://dev.to/codenewbieteam/the-journey-from-sound-engineer-to-software-engineer-codenewbie-podcast-2lj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
