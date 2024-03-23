@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [All SEO Meta Tags: Copy Paste it](https://dev.to/sh20raj/all-seo-meta-tags-copy-paste-it-3pkp)
 - [Terraform &amp; HashiCorp Vault Integration: Seamless Secrets Management](https://dev.to/shrihariharidass/terraform-hashicorp-vault-integration-seamless-secrets-management-4jkk)
 - [ChatCraft Adventures #10](https://dev.to/rjwignar/chatcraft-adventures-10-3da3)
 - [Here&#39;s how NgRx selectors actually work internally](https://dev.to/davidshortman/heres-how-ngrx-selectors-actually-work-internally-15ml)
 - [Run PostgreSQL in docker](https://dev.to/thebridge2/run-postgresql-in-docker-4f3i)
-- [How to build an API-driven Pokémon Dance Party component in less than 30 lines of HTML Web Component template code &lpar;+ Modulo.js&rpar;](https://dev.to/michaelpb/how-to-build-an-api-driven-pokemon-dance-party-component-in-less-than-30-lines-of-html-web-component-template-code-modulojs-3c2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
