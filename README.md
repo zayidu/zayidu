@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Anyone up for a pizza party!!! 🍕](https://dev.to/decoders_lord/anyone-up-for-a-pizza-party-4nkn)
 - [Day-1 of Getting an Paying Job](https://dev.to/jay818/day-1-of-getting-an-paying-job-4kig)
 - [From NixOS with Love](https://dev.to/dedsyn4ps3/from-nixos-with-love-5e0p)
+- [My Journey into Web3: A One-Month Dive into Blockchain, Solidity, and dApps 🌐💡🚀](https://dev.to/masumhasan/my-journey-into-web3-a-one-month-dive-into-blockchain-solidity-and-dapps-2d9o)
 - [Glam My Markup✨: Breezy Camp](https://dev.to/sarahokolo/glam-my-markup-breezy-camp-1gam)
-- [Easiest Passwordless Login in Laravel without external packages](https://dev.to/tonyjoe/easiest-passwordless-login-in-laravel-without-external-packages-32di)
-- [Build Simple Real-time Knowledge Server with RAG, LLM, and Knowledge Graphs in Docker](https://dev.to/exploredataaiml/build-simple-real-time-knowledge-server-with-rag-llm-and-knowledge-graphs-in-docker-1375)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
