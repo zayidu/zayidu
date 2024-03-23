@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Polymorphism in Javascript](https://dev.to/m__mdy__m/polymorphism-in-javascript-3l84)
 - [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4fff)
 - [Security news weekly round-up - 22nd March 2024](https://dev.to/ziizium/security-news-weekly-round-up-22nd-march-2024-nij)
 - [Let&#39;s Go Camping!](https://dev.to/cbid2/lets-go-camping-4g02)
-- [Primary Constructors in C# 12](https://dev.to/ssukhpinder/primary-constructors-in-c-12-3ol1)
-- [Featured Org of the Month: Feministech](https://dev.to/devteam/featured-org-of-the-month-feministech-39bb)
+- [What the heck is SSH](https://dev.to/saiafonua/what-the-heck-is-ssh-3ejg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
