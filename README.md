@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Inertia.js Does not Work](https://dev.to/wadecodez/inertiajs-does-not-work-4pa)
+- [Step by step guide to create customized chatbot by using spaCy &lpar;Python NLP library&rpar;](https://dev.to/intersystems/step-by-step-guide-to-create-customized-chatbot-by-using-spacy-python-nlp-library-52k0)
+- [Full Stack Web Development Concept map](https://dev.to/thebridge2/full-stack-web-development-concept-map-4m7p)
 - [How to Programmatically Populate Related Blogs in Django: Boosting User Experience and SEO](https://dev.to/leonwei/how-to-programmatically-populate-related-blogs-in-django-boosting-user-experience-and-seo-216e)
-- [Understanding Docker with Pizza🍕](https://dev.to/yukaty/understanding-docker-with-pizza-2dip)
-- [An Allow List Lambda Function in Rust is 1 Guaranteed Way to Improve CORS](https://dev.to/aws-builders/an-allow-list-lambda-function-in-rust-is-1-guaranteed-way-to-improve-cors-3oe2)
-- [✅Ngoding via WSL atau Host Windows, Mana yang Lebih Gacor?](https://dev.to/ferryops/ngoding-via-wsl-atau-host-windows-mana-yang-lebih-gacor-4a70)
-- [Optimize your React’s Carousel with MediaLoader](https://dev.to/mbarzeev/optimize-your-reacts-carousel-with-medialoader-c90)
+- [The Cloud Boom of 2024: Riding the Wave of AI-Driven Transformation](https://dev.to/byteom/the-cloud-boom-of-2024-riding-the-wave-of-ai-driven-transformation-4201)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
