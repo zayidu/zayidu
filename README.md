@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add JSON-LD Structured Data to a Next.js Website](https://dev.to/sh20raj/how-to-add-json-ld-structured-data-to-a-nextjs-website-58hh)
 - [Adding Star Ratings to Google Search Results](https://dev.to/sh20raj/adding-star-ratings-to-google-search-results-57pc)
 - [Public Issues](https://dev.to/sh20raj/public-issues-3e9o)
 - [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1pj2)
 - [IndexedDB: Explained In One Byte](https://dev.to/sachinchaurasiya/indexeddb-explained-in-one-byte-14b4)
-- [40+ Design Tools in One - 😱 A Gem For Web Developer &amp; Designers](https://dev.to/random_ti/all-in-one-design-tools-a-gem-for-web-developer-designers-23g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
