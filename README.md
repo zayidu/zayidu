@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Simple Real-time Knowledge Server with RAG, LLM, and Knowledge Graphs in Docker](https://dev.to/exploredataaiml/build-simple-real-time-knowledge-server-with-rag-llm-and-knowledge-graphs-in-docker-1375)
+- [Python Data Engineering: Comprehensive Workflow for Data Modeling, Analytics with DuckDB](https://dev.to/danielox/python-data-engineering-comprehensive-workflow-for-data-modeling-analytics-with-duckdb-4a1e)
+- [Beginner Friendly Project Recipe APP &lpar; NodeJs &amp; PostGreSql&rpar;](https://dev.to/tmrifat87/beginner-friendly-project-recipe-app-nodejs-postgresql-o2f)
+- [CSS Art Challenge](https://dev.to/ak78dev/css-art-challenge-599j)
 - [Inertia.js Does not Work](https://dev.to/wadecodez/inertiajs-does-not-work-4pa)
-- [Step by step guide to create customized chatbot by using spaCy &lpar;Python NLP library&rpar;](https://dev.to/intersystems/step-by-step-guide-to-create-customized-chatbot-by-using-spacy-python-nlp-library-52k0)
-- [Full Stack Web Development Concept map](https://dev.to/thebridge2/full-stack-web-development-concept-map-4m7p)
-- [How to Programmatically Populate Related Blogs in Django: Boosting User Experience and SEO](https://dev.to/leonwei/how-to-programmatically-populate-related-blogs-in-django-boosting-user-experience-and-seo-216e)
-- [The Cloud Boom of 2024: Riding the Wave of AI-Driven Transformation](https://dev.to/byteom/the-cloud-boom-of-2024-riding-the-wave-of-ai-driven-transformation-4201)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
