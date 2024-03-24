@@ -9,9 +9,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Binary Il - Convert URLs to Il and Secure it - Redirect It 🚀](https://dev.to/sh20raj/binary-il-convert-urls-to-il-and-secure-it-redirect-it-fp0)
 - [How I Created an Online Multiplayer Game Using Colyseus](https://dev.to/konmaz/how-i-created-an-online-multiplayer-game-using-colyseus-npf)
-- [site:Extracting Main Domains Without Subdomains in Google Search](https://dev.to/sh20raj/siteextracting-main-domains-without-subdomains-in-google-search-4c9p)
-- [Unlocking the Mysteries of the Clipboard: Your Computer&#39;s Unsung Hero](https://dev.to/siddhantkcode/unlocking-the-mysteries-of-the-clipboard-your-computers-unsung-hero-m59)
-- [NVIDIA Just Launched FREE Courses in AI 🎓📚](https://dev.to/arjuncodess/nvidia-just-launched-free-courses-in-ai-47ef)
+- [Java on Android — less sugar, more fun](https://dev.to/tkuenneth/java-on-android-less-sugar-more-fun-b57)
+- [Understanding Security Group and Network Access Control List &lpar;NACL&rpar; in AWS](https://dev.to/aws-builders/understanding-security-group-and-network-access-control-list-nacl-in-aws-38ei)
+- [Blazor in dotnet 8.&lpar;Static Server Side Rendering&rpar;](https://dev.to/anhvuhoang/blazor-in-dotnet-8static-server-side-rendering-jcf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
