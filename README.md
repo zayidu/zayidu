@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Lexical Scope, Lexical Environment, Execution Context, Closure in JavaScript](https://dev.to/antonzo/lexical-scope-lexical-environment-execution-context-closure-in-javascript-5bn6)
 - [OpenTelemetry Journey #01 - Important concepts](https://dev.to/luizhlelis/opentelemetry-journey-01-important-concepts-2l54)
 - [Glam My Markup: Camp Activities](https://dev.to/kjeanineatl/glam-my-markup-camp-activities-4b0g)
+- [Map Reduce - Practical Approach](https://dev.to/caleberi/map-reduce-practical-approach-11h)
 - [Bubble Sort Algorithm in JavaScript](https://dev.to/praneshchow/bubble-sort-algorithm-in-javascript-24p)
-- [Thoughts on Pair Programming](https://dev.to/shaharke/thoughts-on-pair-programming-1i8g)
-- [This week&#39;s learning: object parameter ; fieldset](https://dev.to/mingming-ma/this-weeks-learning-object-parameter-fieldset-37ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
