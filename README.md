@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I created custom skin for Audio.JS](https://dev.to/sh20raj/i-created-custom-skin-for-audiojs-3n8c)
-- [JWT explained in 4 minutes &lpar;With Visuals&rpar;](https://dev.to/syedmaazsaeed/jwt-explained-in-4-minutes-with-visuals-2909)
-- [Coding solutions with AI](https://dev.to/miketalbot/solving-natural-language-problems-with-ai-200g)
-- [Using interfaces the wrong way](https://dev.to/awons/using-interfaces-the-wrong-way-16e9)
-- [A Deep Dive into React Portals: From Theory to Practice](https://dev.to/pavloreutskiy/a-deep-dive-into-react-portals-from-theory-to-practice-nhm)
+- [Cómo integrar Azure Text Analytics en una aplicación de análisis de feedback](https://dev.to/danieljsaldana/como-integrar-azure-text-analytics-en-una-aplicacion-de-analisis-de-feedback-2jje)
+- [Power of Partial Prerendering with Bun](https://dev.to/aralroca/power-of-partial-prerendering-with-bun-5f62)
+- [Managing Event Flow: A Deep Dive into JavaScript Event Propagation](https://dev.to/anshumanmahato/managing-event-flow-a-deep-dive-into-javascript-event-propagation-2gha)
+- [Sending files from Micronaut applications](https://dev.to/masanori_msl/sending-files-from-micronaut-applications-3kb2)
+- [8 Writing Tips for Software Professionals](https://dev.to/ottok/8-writing-tips-for-software-professionals-4ml2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
