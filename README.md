@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Bubble Sort Algorithm in JavaScript](https://dev.to/praneshchow/bubble-sort-algorithm-in-javascript-24p)
+- [Criando sua API com Fastify e Prisma](https://dev.to/vinicius_rodrigues/criando-sua-api-com-fastify-e-prisma-2299)
 - [4 tips to write simple CSS](https://dev.to/melnik909/4-tips-to-write-simple-css-4c9f)
 - [Sorry Devin You Can&#39;t Replace our Jobs](https://dev.to/codewithshahan/sorry-devin-you-cant-replace-our-jobs-192b)
 - [Cómo integrar Azure Text Analytics en una aplicación de análisis de feedback](https://dev.to/danieljsaldana/como-integrar-azure-text-analytics-en-una-aplicacion-de-analisis-de-feedback-2jje)
-- [Power of Partial Prerendering with Bun](https://dev.to/aralroca/power-of-partial-prerendering-with-bun-5f62)
-- [Managing Event Flow: A Deep Dive into JavaScript Event Propagation](https://dev.to/anshumanmahato/managing-event-flow-a-deep-dive-into-javascript-event-propagation-2gha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
