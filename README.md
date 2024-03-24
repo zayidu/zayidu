@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Binary Il - Convert URLs to Il and Secure it - Redirect It 🚀](https://dev.to/sh20raj/binary-il-convert-urls-to-il-and-secure-it-redirect-it-fp0)
-- [How I Created an Online Multiplayer Game Using Colyseus](https://dev.to/konmaz/how-i-created-an-online-multiplayer-game-using-colyseus-npf)
-- [Java on Android — less sugar, more fun](https://dev.to/tkuenneth/java-on-android-less-sugar-more-fun-b57)
-- [Understanding Security Group and Network Access Control List &lpar;NACL&rpar; in AWS](https://dev.to/aws-builders/understanding-security-group-and-network-access-control-list-nacl-in-aws-38ei)
-- [Blazor in dotnet 8.&lpar;Static Server Side Rendering&rpar;](https://dev.to/anhvuhoang/blazor-in-dotnet-8static-server-side-rendering-jcf)
+- [On The Importance of End-to-End Monitoring for IoT](https://dev.to/stefanhudelmaier/on-the-importance-of-end-to-end-monitoring-for-iot-1c6o)
+- [Understanding Cross-Origin Resource Sharing &lpar;CORS&rpar; for Web Developers](https://dev.to/tomiloba2/understanding-cross-origin-resource-sharing-cors-for-web-developers-31oa)
+- [The AI Toolbox: Everything You Need in One Place](https://dev.to/spandan/the-ai-toolbox-everything-you-need-in-one-place-4b7j)
+- [Nasty ass code](https://dev.to/matthijsschuurman/nasty-ass-code-4afo)
+- [🚀 Architecting Dreams: My Journey Through the AWS Cloud Cosmos 🌌🌟](https://dev.to/swapnilvishwakarma/architecting-dreams-my-journey-through-the-aws-cloud-cosmos-252p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
