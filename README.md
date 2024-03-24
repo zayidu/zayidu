@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [NVIDIA Just Launched FREE Courses in AI 🎓📚](https://dev.to/arjuncodess/nvidia-just-launched-free-courses-in-ai-47ef)
+- [Day 5 of 30-Day .NET Challenge: While &amp; do-while](https://dev.to/ssukhpinder/day-5-of-30-day-net-challenge-while-do-while-4oi6)
 - [Warp terminal on WSL is AMAZING](https://dev.to/karleeov/warp-terminal-on-wsl-is-amazing-5bj4)
 - [3D Ham Sandwich Animation](https://dev.to/softwaredeveloping/3d-ham-sandwich-animation-5cdl)
 - [Train &amp; Debug ML Models for Responsible AI - Join the #AISkillsChallenge!](https://dev.to/azure/train-debug-ml-models-for-responsible-ai-join-the-aiskillschallenge-3pb3)
-- [Enhancing &quot;Degressive&quot; Enhancement of Streaming](https://dev.to/kvetoslavnovak/enhancing-degressive-enhancement-of-streaming-3ehj)
-- [Anyone up for a pizza party!!! 🍕](https://dev.to/decoders_lord/anyone-up-for-a-pizza-party-4nkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
