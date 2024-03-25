@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubectl Scale - DevOps Guide](https://dev.to/refine/kubectl-scale-devops-guide-4d7g)
+- [Qilin: A Starter Project Template For Every Open Source Project](https://dev.to/schalkneethling/qilin-a-starter-project-template-for-every-open-source-project-350e)
+- [📝 Tooltips within Text using HTML and CSS!](https://dev.to/itaycode/tooltips-within-text-using-html-and-css-295l)
 - [Weekly Roundup 045 &lpar;Mar 18&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-045-mar-18-hot-topics-in-workplace-sharepoint-and-powerplatform-edi)
 - [Level Up Your Job Hunt: Stand Out with a Killer Front-End Developer Portfolio](https://dev.to/orlikova/level-up-your-job-hunt-stand-out-with-a-killer-front-end-developer-portfolio-3df6)
-- [Difference between API Gateway and Load Balancer in System Design](https://dev.to/somadevtoo/difference-between-api-gateway-and-load-balancer-in-system-design-54dd)
-- [Rails Designer v0.8.0 release](https://dev.to/railsdesigner/rails-designer-v080-released-3alg)
-- [Quick Guide to Use Clamp&lpar;&rpar; CSS](https://dev.to/boringcoder53/quick-guide-to-use-clamp-css-5f8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
