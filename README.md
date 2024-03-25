@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The transitory nature of MLOps: Advocating for DevOps/MLOps coalescence](https://dev.to/jwilliamsr/the-transitory-nature-of-mlops-advocating-for-devopsmlops-coalescence-1k6j)
+- [Scripts should be written using the project main language](https://dev.to/freitzzz/scripts-should-be-written-using-the-project-main-language-40hj)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hik)
+- [API Testing with Clerk and Express](https://dev.to/mad/api-testing-with-clerk-and-express-2i56)
 - [A Step-by-Step Guide to Creating a 3D Rendering Engine Using C++ and OpenGL](https://dev.to/dexterxt/a-step-by-step-guide-to-creating-a-3d-rendering-engine-using-c-and-opengl-1e7n)
-- [Destructuring Vue.js props: The Reactivity Challenge](https://dev.to/richardevcom/destructuring-vuejs-props-the-reactivity-challenge-5h1i)
-- [Devil or Devin : The World’s First AI Software Engineer](https://dev.to/dhanushnehru/devil-or-devin-the-worlds-first-ai-software-engineer-182m)
-- [The power of FilamentPHP - EN](https://dev.to/adryannekelly/the-power-of-filamentphp-en-5f5p)
-- [Streamlining Component Logic with &quot;Children as Function&quot; in React](https://dev.to/bhanuprasadcherukuvada/streamlining-component-logic-with-children-as-function-in-react-4f5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
