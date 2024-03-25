@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-2ebl)
-- [Happy Holi 2024 Design Animation](https://dev.to/ssukhpinder/happy-holi-2024-design-animation-5hcb)
-- [Don&#39;t follow your passion: career secrets they don&#39;t tell you](https://dev.to/drpraze/dont-follow-your-passion-career-secrets-they-dont-tell-you-41ef)
-- [What is Querying a Database? Everything You Need to Know](https://dev.to/annoh_karlgusta/what-is-querying-a-database-everything-you-need-to-know-1hf3)
-- [Getting Started with JavaScript](https://dev.to/annoh_karlgusta/getting-started-with-javascript-2237)
+- [Announcing Espresso; a different kind of Java build tool.](https://dev.to/hlafaille/announcing-espresso-a-different-kind-of-java-build-tool-4k0c)
+- [Music Monday — What are you listening to? &lpar;Suno.AI Edition 🤖&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-sunoai-edition--2aoa)
+- [Unlocking Smooth Downloads: A Guide to User-Friendly File Download After User Actions &lpar;POST Requests&rpar;](https://dev.to/shreyaan/unlocking-smooth-downloads-a-guide-to-user-friendly-file-download-after-user-actions-post-requests-3b5c)
+- [Build a Full-Stack app using these React libraries and cloud backend.](https://dev.to/winglang/build-a-full-stack-app-using-these-react-libraries-and-cloud-backend-2o4b)
+- [Ansible Copy Module](https://dev.to/cicube/ansible-copy-module-450)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
