@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Why backend engineers should make CLI&#39;s](https://dev.to/aaravsibbal/why-backend-engineers-should-make-clis-p35)
 - [Glam Up My Markup - The Coolest Camp](https://dev.to/renancferro/glam-up-my-markup-the-coolest-camp-2j9i)
-- [Podcast Palooza— What are you listening to? &lpar;Best-of- all-time edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-best-of-all-time-edition-3gll)
+- [Podcast Palooza— What are you listening to? &lpar;Best-of-all-time edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-best-of-all-time-edition-3gll)
 - [How to protect PII information from your AI apps?](https://dev.to/ruthieyakubu/how-to-protect-pii-information-from-your-ai-apps-5eb3)
 - [Lunes de música... ¿Qué estás escuchando? 🎵 &lpar;25-03-2024&rpar;](https://dev.to/music-discussions/lunes-de-musica-que-estas-escuchando-25-03-2024-277c)
-- [Day 2 &amp; 3 Completed](https://dev.to/jay818/day-2-3-completed-2o87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
