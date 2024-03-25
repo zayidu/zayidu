@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-2ebl)
 - [Happy Holi 2024 Design Animation](https://dev.to/ssukhpinder/happy-holi-2024-design-animation-5hcb)
 - [Don&#39;t follow your passion: career secrets they don&#39;t tell you](https://dev.to/drpraze/dont-follow-your-passion-career-secrets-they-dont-tell-you-41ef)
 - [What is Querying a Database? Everything You Need to Know](https://dev.to/annoh_karlgusta/what-is-querying-a-database-everything-you-need-to-know-1hf3)
 - [Getting Started with JavaScript](https://dev.to/annoh_karlgusta/getting-started-with-javascript-2237)
-- [Les Bases de JavaScript : Un Aperçu](https://dev.to/malicknnd/les-bases-de-javascript-un-apercu-4hin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
