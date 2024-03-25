@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask AI Anything with Walles.AI’s Natural Language Processing Magic!](https://dev.to/geekyqee/ask-ai-anything-with-wallesais-natural-language-processing-magic-bo5)
-- [Headless UI - a great components library for Vue &amp; React](https://dev.to/jacobandrewsky/headless-ui-a-great-components-library-for-vue-react-4k35)
-- [AWS IAM: Understanding The Essentials](https://dev.to/vivekalhat/aws-iam-understanding-the-essentials-50ho)
-- [Spark SQL: Toolkit for Smart Data Manipulation](https://dev.to/balagmadhu/spark-sql-toolkit-for-smart-data-manipulation-2o67)
-- [Redefining AWS EKS networking with Gateway API](https://dev.to/aws-builders/redefining-aws-eks-networking-with-gateway-api-2in9)
+- [Weekly Roundup 045 &lpar;Mar 18&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-045-mar-18-hot-topics-in-workplace-sharepoint-and-powerplatform-edi)
+- [Level Up Your Job Hunt: Stand Out with a Killer Front-End Developer Portfolio](https://dev.to/orlikova/level-up-your-job-hunt-stand-out-with-a-killer-front-end-developer-portfolio-3df6)
+- [Difference between API Gateway and Load Balancer in System Design](https://dev.to/somadevtoo/difference-between-api-gateway-and-load-balancer-in-system-design-54dd)
+- [Rails Designer v0.8.0 release](https://dev.to/railsdesigner/rails-designer-v080-released-3alg)
+- [Quick Guide to Use Clamp&lpar;&rpar; CSS](https://dev.to/boringcoder53/quick-guide-to-use-clamp-css-5f8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
