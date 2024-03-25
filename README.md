@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do You &quot;Prove Your Worth&quot; in Interviews?](https://dev.to/devteam/how-do-you-prove-your-worth-in-interviews-2n2h)
-- [A Django Developer&#39;s Guide to Leveraging Google&#39;s Indexing API](https://dev.to/leonwei/a-django-developers-guide-to-leveraging-googles-indexing-api-5aod)
-- [AI + Humans automating our web Development tasks](https://dev.to/shreyvijayvargiya/ai-humans-automating-our-web-development-tasks-19i1)
-- [Make your Azure OpenAI apps compliant with RBAC](https://dev.to/upslide/using-rbac-with-azure-openai-services-1kl5)
-- [PostgreSQL index Correlation with UPDATE](https://dev.to/aws-heroes/postgresql-index-correlation-with-update-2a2k)
+- [A Step-by-Step Guide to Creating a 3D Rendering Engine Using C++ and OpenGL](https://dev.to/dexterxt/a-step-by-step-guide-to-creating-a-3d-rendering-engine-using-c-and-opengl-1e7n)
+- [Destructuring Vue.js props: The Reactivity Challenge](https://dev.to/richardevcom/destructuring-vuejs-props-the-reactivity-challenge-5h1i)
+- [Devil or Devin : The World’s First AI Software Engineer](https://dev.to/dhanushnehru/devil-or-devin-the-worlds-first-ai-software-engineer-182m)
+- [The power of FilamentPHP - EN](https://dev.to/adryannekelly/the-power-of-filamentphp-en-5f5p)
+- [Streamlining Component Logic with &quot;Children as Function&quot; in React](https://dev.to/bhanuprasadcherukuvada/streamlining-component-logic-with-children-as-function-in-react-4f5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
