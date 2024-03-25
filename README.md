@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubectl Scale - DevOps Guide](https://dev.to/refine/kubectl-scale-devops-guide-4d7g)
-- [Qilin: A Starter Project Template For Every Open Source Project](https://dev.to/schalkneethling/qilin-a-starter-project-template-for-every-open-source-project-350e)
-- [📝 Tooltips within Text using HTML and CSS!](https://dev.to/itaycode/tooltips-within-text-using-html-and-css-295l)
-- [Weekly Roundup 045 &lpar;Mar 18&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-045-mar-18-hot-topics-in-workplace-sharepoint-and-powerplatform-edi)
-- [Level Up Your Job Hunt: Stand Out with a Killer Front-End Developer Portfolio](https://dev.to/orlikova/level-up-your-job-hunt-stand-out-with-a-killer-front-end-developer-portfolio-3df6)
+- [Happy Holi 2024 Design Animation](https://dev.to/ssukhpinder/happy-holi-2024-design-animation-5hcb)
+- [Don&#39;t follow your passion: career secrets they don&#39;t tell you](https://dev.to/drpraze/dont-follow-your-passion-career-secrets-they-dont-tell-you-41ef)
+- [What is Querying a Database? Everything You Need to Know](https://dev.to/annoh_karlgusta/what-is-querying-a-database-everything-you-need-to-know-1hf3)
+- [Getting Started with JavaScript](https://dev.to/annoh_karlgusta/getting-started-with-javascript-2237)
+- [Les Bases de JavaScript : Un Aperçu](https://dev.to/malicknnd/les-bases-de-javascript-un-apercu-4hin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
