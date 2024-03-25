@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask AI Anything with Walles.AI’s Natural Language Processing Magic!](https://dev.to/geekyqee/ask-ai-anything-with-wallesais-natural-language-processing-magic-bo5)
+- [Headless UI - a great components library for Vue &amp; React](https://dev.to/jacobandrewsky/headless-ui-a-great-components-library-for-vue-react-4k35)
 - [AWS IAM: Understanding The Essentials](https://dev.to/vivekalhat/aws-iam-understanding-the-essentials-50ho)
+- [Spark SQL: Toolkit for Smart Data Manipulation](https://dev.to/balagmadhu/spark-sql-toolkit-for-smart-data-manipulation-2o67)
 - [Redefining AWS EKS networking with Gateway API](https://dev.to/aws-builders/redefining-aws-eks-networking-with-gateway-api-2in9)
-- [Power Apps - Intakes](https://dev.to/wyattdave/power-apps-intakes-55j5)
-- [Day 6 of 30-Day .NET Challenge: String built-in Methods](https://dev.to/ssukhpinder/day-6-of-30-day-net-challenge-string-built-in-methods-1ckg)
-- [10 Exciting Open Source Frameworks Built on .NET Core You Need to Know About](https://dev.to/yogini16/10-exciting-open-source-frameworks-built-on-net-core-you-need-to-know-about-4nlc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
