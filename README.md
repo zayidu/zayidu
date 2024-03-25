@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Dynamic Task Scheduling with Redis: How We Actually Solved Our SAAS Problem?](https://dev.to/nikl/mastering-dynamic-task-scheduling-with-redis-how-we-actually-solved-our-saas-problem-41mp)
+- [Design Principles and Best Practices in React Native App Development](https://dev.to/anhpvbhsoft/design-principles-and-best-practices-in-react-native-app-development-4jak)
+- [How to setup next js app in cPanel?](https://dev.to/infobijoy/how-to-setup-next-js-app-in-cpanel-501k)
+- [The Impact of Gamification on Web Engagement](https://dev.to/joycenkwocha4/the-impact-of-gamification-on-web-engagement-4beh)
 - [Implementing an Effective Onboarding Flow in React for Enhanced User Engagement](https://dev.to/rodionchachura/implementing-an-effective-onboarding-flow-in-react-for-enhanced-user-engagement-4np0)
-- [Data Masking: Securing Data Safety and Compliance with API7 Enterprise](https://dev.to/api7/data-masking-securing-data-safety-and-compliance-with-api7-enterprise-5chl)
-- [Responsive Animated Login Form Using HTML &amp; CSS &amp; JavaScript](https://dev.to/sh20raj/responsive-animated-login-form-using-html-css-javascript-33o1)
-- [Deploy Your Backend Securely and Effortlessly with Vercel](https://dev.to/amity808/deploy-your-backend-securely-and-effortlessly-with-vercel-22jh)
-- [A New Gold Tutorial For RunPod &amp; Linux Users : How To Use Storage Network Volume In RunPod &amp; Latest Version Of Automatic1111](https://dev.to/furkangozukara/a-new-gold-tutorial-for-runpod-linux-users-how-to-use-storage-network-volume-in-runpod-latest-version-of-automatic1111-2cje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
