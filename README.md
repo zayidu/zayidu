@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Email testing with Codeception](https://dev.to/yatsenkolesh/email-testing-with-codeception-4b5g)
 - [The DevRel Guide to Business Jargon](https://dev.to/ceceliacreates/the-devrel-guide-to-business-jargon-2042)
 - [Learning Rust: Enumerating Excellence](https://dev.to/link2twenty/learning-rust-enumerating-excellence-1ohh)
+- [Caixa de ferramentas da Arquitetura de Software [Parte-1]](https://dev.to/ezambomsantana/caixa-de-ferramentas-da-arquitetura-de-software-parte-1-2i7a)
 - [I parsed 968 launches from /r/SideProject and analyzed them with Claude 3 Opus](https://dev.to/alexanderisora/i-parsed-968-launches-from-rsideproject-and-analyzed-them-with-claude-3-opus-5ag0)
-- [What are your goals for week 13 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-13-of-2024-1ed)
-- [What Are Const Generics and How Are They Used in Rust?](https://dev.to/awwsmm/what-are-const-generics-and-how-are-they-used-in-rust-ohm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
