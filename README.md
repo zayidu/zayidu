@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Responsive Animated Login Form Using HTML &amp; CSS &amp; JavaScript](https://dev.to/sh20raj/responsive-animated-login-form-using-html-css-javascript-33o1)
+- [Deploy Your Backend Securely and Effortlessly with Vercel](https://dev.to/amity808/deploy-your-backend-securely-and-effortlessly-with-vercel-22jh)
 - [A New Gold Tutorial For RunPod &amp; Linux Users : How To Use Storage Network Volume In RunPod &amp; Latest Version Of Automatic1111](https://dev.to/furkangozukara/a-new-gold-tutorial-for-runpod-linux-users-how-to-use-storage-network-volume-in-runpod-latest-version-of-automatic1111-2cje)
 - [Linux Commands &lpar;Trying Out Linux commands with Directories and Files&rpar;](https://dev.to/clouddiadem/linux-commands-trying-out-linux-commands-with-directories-and-files-5dhh)
 - [Lexical Scope, Lexical Environment, Execution Context, Closure in JavaScript](https://dev.to/antonzo/lexical-scope-lexical-environment-execution-context-closure-in-javascript-5bn6)
-- [OpenTelemetry Journey #01 - Important concepts](https://dev.to/luizhlelis/opentelemetry-journey-01-important-concepts-2l54)
-- [Glam My Markup: Camp Activities](https://dev.to/kjeanineatl/glam-my-markup-camp-activities-4b0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
