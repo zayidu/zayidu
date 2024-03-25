@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS IAM: Understanding The Essentials](https://dev.to/vivekalhat/aws-iam-understanding-the-essentials-50ho)
+- [Redefining AWS EKS networking with Gateway API](https://dev.to/aws-builders/redefining-aws-eks-networking-with-gateway-api-2in9)
 - [Power Apps - Intakes](https://dev.to/wyattdave/power-apps-intakes-55j5)
 - [Day 6 of 30-Day .NET Challenge: String built-in Methods](https://dev.to/ssukhpinder/day-6-of-30-day-net-challenge-string-built-in-methods-1ckg)
 - [10 Exciting Open Source Frameworks Built on .NET Core You Need to Know About](https://dev.to/yogini16/10-exciting-open-source-frameworks-built-on-net-core-you-need-to-know-about-4nlc)
-- [What is an API &lpar;Application Programming Interface&rpar;?](https://dev.to/jitendrachoudhary/what-is-an-api-5225)
-- [Mastering Dynamic Task Scheduling with Redis: How We Actually Solved Our SAAS Problem?](https://dev.to/nikl/mastering-dynamic-task-scheduling-with-redis-how-we-actually-solved-our-saas-problem-41mp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
