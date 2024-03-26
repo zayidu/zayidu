@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the Difference Between New and Beginner Open Source Contributors?](https://dev.to/opensauced/whats-the-difference-between-new-and-beginner-open-source-contributors-3ib9)
-- [Day 1 — Azure Open AI Challenge](https://dev.to/ssukhpinder/day-1-azure-open-ai-challenge-10a8)
-- [Observability at KubeCon + CloudNativeCon Europe 2024 in Paris](https://dev.to/kubeshop/observability-at-kubecon-cloudnativecon-europe-2024-in-paris-1117)
-- [10 Steps to Build a Top-Tier Discord Server for Your Open Source Community. ✨](https://dev.to/jakepage91/10-steps-to-build-a-top-tier-discord-server-for-your-open-source-community-4cog)
-- [Top Terraform Tools to Know in 2024](https://dev.to/env0/top-terraform-tools-to-know-in-2024-4ajk)
+- [Kubernetes Through the Developer&#39;s Perspective](https://dev.to/cyclops-ui/kubernetes-through-the-developers-perspective-38lf)
+- [Crafting Concurrency: Building Your Own ThreadPool for Multi-Threaded Servers](https://dev.to/mjsf1234/how-to-implement-threadpool-from-scratch-and-implement-in-multi-threaded-server-14gi)
+- [Node.js Unscripted: The Behind-the-Scenes Saga of Tech&#39;s Most Dramatic Development](https://dev.to/rt68/nodejs-unscripted-the-behind-the-scenes-saga-of-techs-most-dramatic-development-54cm)
+- [It is just work](https://dev.to/netcat5679/it-is-just-work-3k0k)
+- [Documentando seus componentes no Storybook](https://dev.to/aledluzm/documentando-seus-componentes-no-storybook-2gbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
