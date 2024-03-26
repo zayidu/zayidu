@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Follow best rules while coding in Vue.js Projects](https://dev.to/integridsolutions/follow-best-rules-while-coding-in-vuejs-projects-1me5)
+- [My new open-source repository to schedule all your content!](https://dev.to/github20k/my-new-open-source-repository-to-schedule-all-your-content-2f2a)
+- [How I - well, AWS WAF and CloudFront - saved the day for my client](https://dev.to/aws-builders/how-i-well-aws-waf-and-cloudfront-saved-the-day-for-my-client-9hk)
 - [500M Speed Test : C &lt;- Vs -&gt; Rust](https://dev.to/bekbrace/500m-speed-test-c-rust-4e28)
-- [Build a Real Estate Listing App in Minutes: Power Apps &amp; SharePoint](https://dev.to/jaloplo/build-a-real-estate-listing-app-in-minutes-power-apps-sharepoint-2fn4)
-- [Battery API - Access your🔋in browser](https://dev.to/locnguyenpv/battery-api-access-your-in-browser-4ene)
-- [A Gentle Introduction to Generics in Typescript](https://dev.to/this-is-learning/a-gentle-introduction-to-generics-in-typescript-3ap3)
-- [13 VS Code extensions that every developer should have](https://dev.to/mankaa/13-vs-code-extensions-that-every-developer-should-have-4nn2)
+- [Mistral 7B vs. Mixtral 8x7B](https://dev.to/firstfingerin/mistral-7b-vs-mixtral-8x7b-4k2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
