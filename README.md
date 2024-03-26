@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Explaining MediaRecorder API in 264 Characters! 🎥](https://dev.to/arjuncodess/explaining-mediarecorder-api-in-264-characters-5oj)
+- [Guía para implementar una aplicación Node.js contenerizada en Huawei Cloud](https://dev.to/huaweicloud/guia-para-implementar-una-aplicacion-nodejs-contenerizada-en-huawei-cloud-2f4o)
 - [My binary vector search is better than your FP32 vectors](https://dev.to/gaocegege/my-binary-vector-search-is-better-than-your-fp32-vectors-4j2k)
+- [Check if an element is visible in the viewport](https://dev.to/phuocng/check-if-an-element-is-visible-in-the-viewport-3c8j)
 - [How to Utilize API7 Enterprise for Full API Lifecycle Management?](https://dev.to/api7/how-to-utilize-api7-enterprise-for-full-api-lifecycle-management-137i)
-- [What does AWS Cloud Architect do?](https://dev.to/aws-builders/what-does-aws-cloud-architect-do-5hdj)
-- [Creating NFC Or QR Code Automations In Home Assistant Using Webhooks](https://dev.to/danielrosehill/creating-nfc-or-qr-code-automations-in-home-assistant-using-webhooks-2fmi)
-- [Calculating total size of disks](https://dev.to/gunitinug/calculating-total-size-of-disks-4168)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
