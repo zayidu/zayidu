@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Observability at KubeCon + CloudNativeCon Europe 2024 in Paris](https://dev.to/kubeshop/observability-at-kubecon-cloudnativecon-europe-2024-in-paris-1117)
+- [10 Steps to Build a Top-Tier Discord Server for Your Open Source Community. ✨](https://dev.to/jakepage91/10-steps-to-build-a-top-tier-discord-server-for-your-open-source-community-4cog)
+- [Top Terraform Tools to Know in 2024](https://dev.to/env0/top-terraform-tools-to-know-in-2024-4ajk)
 - [What is the best advice you have ever received?: CodeNewbie Podcast](https://dev.to/codenewbieteam/what-is-the-best-advice-you-have-ever-received-codenewbie-podcast-40hk)
-- [Beyond Basic Functions: Explore Currying in JavaScript](https://dev.to/leonardorafael/beyond-basic-functions-explore-currying-in-javascript-16lp)
-- [Finding the Inspiration to Build](https://dev.to/wasp/finding-the-inspiration-to-build-3p4n)
-- [The difference between parameters and arguments in Javascript](https://dev.to/tessmueske/the-difference-between-parameters-and-arguments-in-javascript-2gma)
-- [VIP Access Only: Demystifying OAuth 2.0 with a Clubbing Analogy](https://dev.to/hamed-fatehi/vip-access-only-demystifying-oauth-20-with-a-clubbing-analogy-nca)
+- [Gestão de Projetos com GIT](https://dev.to/adrianokerber/gestao-de-projetos-com-git-4fmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
