@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Functionality &amp; Maintainability: What&#39;s the Difference?](https://dev.to/devteam/functionality-maintainability-whats-the-difference-1cjc)
-- [🇫🇷 La fixette française sur les fotes d&#39;orthogaffes](https://dev.to/jmfayard/la-fixette-francaise-sur-les-fotes-dorthogaffes-49ip)
-- [Day 7 of 30-Day .NET Challenge: String built-in Methods Part 2](https://dev.to/ssukhpinder/day-7-of-30-day-net-challenge-string-built-in-methods-part-2-p9o)
-- [Now You Can Full Fine Tune / DreamBooth Stable Diffusion XL &lpar;SDXL&rpar; with only 10.3 GB VRAM via OneTrainer](https://dev.to/furkangozukara/now-you-can-full-fine-tune-dreambooth-stable-diffusion-xl-sdxl-with-only-103-gb-vram-via-onetrainer-17mj)
-- [Explaining MediaRecorder API in 264 Characters! 🎥](https://dev.to/arjuncodess/explaining-mediarecorder-api-in-264-characters-5oj)
+- [500M Speed Test : C &lt;- Vs -&gt; Rust](https://dev.to/bekbrace/500m-speed-test-c-rust-4e28)
+- [Build a Real Estate Listing App in Minutes: Power Apps &amp; SharePoint](https://dev.to/jaloplo/build-a-real-estate-listing-app-in-minutes-power-apps-sharepoint-2fn4)
+- [Battery API - Access your🔋in browser](https://dev.to/locnguyenpv/battery-api-access-your-in-browser-4ene)
+- [A Gentle Introduction to Generics in Typescript](https://dev.to/this-is-learning/a-gentle-introduction-to-generics-in-typescript-3ap3)
+- [13 VS Code extensions that every developer should have](https://dev.to/mankaa/13-vs-code-extensions-that-every-developer-should-have-4nn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
