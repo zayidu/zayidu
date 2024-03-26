@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [If you have no interest in programming then DevOps is not for you.](https://dev.to/anurag_vishwakarma/if-you-have-no-interest-in-programming-then-devops-is-not-for-you-1c3m)
-- [Database for newbies](https://dev.to/basementdevs/database-for-newbies-3a9f)
-- [Building a Fast, Efficient Web App: The Technology Stack of PromptSmithy Explained](https://dev.to/timesurgelabs/building-a-fast-efficient-web-app-the-technology-stack-of-promptsmithy-explained-184f)
-- [How to Become a Front-End Developer?](https://dev.to/04anilr/how-to-become-a-front-end-developer-5gfk)
-- [Introduction to Digital Note-Taking: A Beginner&#39;s Guide](https://dev.to/charudatta10/introduction-to-digital-note-taking-a-beginners-guide-9p2)
+- [How to Toggle Multiple CSS Classes with Stimulus](https://dev.to/railsdesigner/how-to-toggle-multiple-css-classes-with-stimulus-33me)
+- [Retorno de validações semânticas em API Rest](https://dev.to/felipementel/retorno-de-validacoes-semanticas-em-api-rest-pd)
+- [Creating a Game Engine with C++ and OpenGL: A Step-by-Step Guide](https://dev.to/dexterxt/creating-a-game-engine-with-c-and-opengl-a-step-by-step-guide-343j)
+- [How Websites Work? Explained! 🤔🌐](https://dev.to/arjuncodess/how-websites-work-explained-3e30)
+- [React Component Design Patterns - Part 2](https://dev.to/fpaghar/react-component-design-patterns-part-2-3elo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
