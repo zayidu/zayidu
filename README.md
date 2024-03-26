@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Follow best rules while coding in Vue.js Projects](https://dev.to/integridsolutions/follow-best-rules-while-coding-in-vuejs-projects-1me5)
-- [My new open-source repository to schedule all your content!](https://dev.to/github20k/my-new-open-source-repository-to-schedule-all-your-content-2f2a)
-- [How I - well, AWS WAF and CloudFront - saved the day for my client](https://dev.to/aws-builders/how-i-well-aws-waf-and-cloudfront-saved-the-day-for-my-client-9hk)
-- [500M Speed Test : C &lt;- Vs -&gt; Rust](https://dev.to/bekbrace/500m-speed-test-c-rust-4e28)
-- [Mistral 7B vs. Mixtral 8x7B](https://dev.to/firstfingerin/mistral-7b-vs-mixtral-8x7b-4k2l)
+- [Why CrabNebula Cloud? Comparing the Tauri GitHub Action](https://dev.to/crabnebula/why-crabnebula-cloud-comparing-the-tauri-github-action-1l6e)
+- [Simplify, Interact, Achieve: Unleashing the Power of Ask Ai with Walles.Ai&#39;s Intuitive Features](https://dev.to/geekyqee/simplify-interact-achieve-unleashing-the-power-of-ask-ai-with-wallesais-intuitive-features-bmm)
+- [Chat PDFs and the Next Wave of Communication with Walles.Ai](https://dev.to/geekyqee/chat-pdfs-and-the-next-wave-of-communication-with-wallesai-51jc)
+- [API GOVERNANCE CHECKLIST FOR MANAGERS IN 2024](https://dev.to/mwendwatechie/api-governance-checklist-for-managers-in-2024-388e)
+- [Charm in Conversation: Walles.AI&#39;s Natural Language Processing Makes Every Chat PDF Interaction a Delight!](https://dev.to/geekyqee/charm-in-conversation-wallesais-natural-language-processing-makes-every-chat-pdf-interaction-a-delight-hid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
