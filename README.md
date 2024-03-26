@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[LIVE DEMO] How to MacOS with a Command Palette like VS Code](https://dev.to/jmfayard/live-demo-how-to-macos-with-a-command-palette-like-vs-code-dff)
-- [Mastering Linux: 20 Essential Commands Every Developer Should Know](https://dev.to/salnetx/mastering-linux-20-essential-commands-every-developer-should-know-3eie)
-- [Can AI Replace Writers? Exploring the Impact of AI Content Tools](https://dev.to/salnetx/can-ai-replace-writers-exploring-the-impact-of-ai-content-tools-e8j)
-- [GraphQL in NestJS: A Concise 5-Minute Guide](https://dev.to/codexam/graphql-in-nestjs-a-concise-5-minute-guide-4ima)
-- [What is a Service Worker? ✨🦸](https://dev.to/best_codes/what-is-a-service-worker-4gi1)
+- [How to Disable Copilot in Windows 11?](https://dev.to/vikrogers/how-to-disable-copilot-in-windows-11-5fh4)
+- [Testing LLMs for Performance with Service Mocking](https://dev.to/kenahrens/testing-llms-for-performance-with-service-mocking-4ki6)
+- [HOW TO RECOVER FUNDS FROM NOVATECH FX THROUGH GEARHEAD ENGINEERS](https://dev.to/normy1/how-to-recover-funds-from-novatech-fx-through-gearhead-engineers-31do)
+- [Advanced Prompt Processing in Java : Parallel Processing, Data Conversion and more..](https://dev.to/vishalmysore/advanced-prompt-processing-in-java-parallel-processing-data-conversion-and-more-3jng)
+- [Amarres De Amor: Herramientas Y Métodos Utilizados En Su Práctica](https://dev.to/indioamazonico/amarres-de-amor-herramientas-y-metodos-utilizados-en-su-practica-430f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
