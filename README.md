@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [[LIVE DEMO] How to MacOS with a Command Palette like VS Code](https://dev.to/jmfayard/live-demo-how-to-macos-with-a-command-palette-like-vs-code-dff)
 - [Mastering Linux: 20 Essential Commands Every Developer Should Know](https://dev.to/salnetx/mastering-linux-20-essential-commands-every-developer-should-know-3eie)
 - [Can AI Replace Writers? Exploring the Impact of AI Content Tools](https://dev.to/salnetx/can-ai-replace-writers-exploring-the-impact-of-ai-content-tools-e8j)
+- [GraphQL in NestJS: A Concise 5-Minute Guide](https://dev.to/codexam/graphql-in-nestjs-a-concise-5-minute-guide-4ima)
 - [What is a Service Worker? ✨🦸](https://dev.to/best_codes/what-is-a-service-worker-4gi1)
-- [Sitecore PowerShell Script to delete unused items in the Media Library](https://dev.to/esdanielgomez/sitecore-powershell-script-to-delete-unused-items-in-the-media-library-3nmc)
-- [How to Toggle Multiple CSS Classes with Stimulus](https://dev.to/railsdesigner/how-to-toggle-multiple-css-classes-with-stimulus-33me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
