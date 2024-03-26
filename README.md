@@ -8,7 +8,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Utilize API7 Enterprise for Full API Lifecycle Management?](https://dev.to/api7/how-to-utilize-api7-enterprise-for-full-api-lifecycle-management-137i)
-- [What does AWS Cloud Architect do](https://dev.to/aws-builders/what-does-aws-cloud-architect-do-5hdj)
+- [What does AWS Cloud Architect do?](https://dev.to/aws-builders/what-does-aws-cloud-architect-do-5hdj)
 - [Creating NFC Or QR Code Automations In Home Assistant Using Webhooks](https://dev.to/danielrosehill/creating-nfc-or-qr-code-automations-in-home-assistant-using-webhooks-2fmi)
 - [Calculating total size of disks](https://dev.to/gunitinug/calculating-total-size-of-disks-4168)
 - [PYTHON BITWISE OPERATORS](https://dev.to/maame-codes/python-bitwise-operators-18oh)
