@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How My Experience in Technical Support Enhances My Career as a Software Engineer](https://dev.to/fiamon/how-my-experience-in-technical-support-enhances-my-career-as-a-software-engineer-3nml)
-- [Implementing Dark Mode in Web Design: Enhancing User Experience](https://dev.to/dukeoketex/implementing-dark-mode-in-web-design-enhancing-user-experience-4knm)
-- [Progressing through the Lean Six Sigma Belt Levels: A Journey from White to Black](https://dev.to/mohammed_reda/progressing-through-the-lean-six-sigma-belt-levels-a-journey-from-white-to-black-4f0g)
-- [WebApp BFF &lpar;Backend-For-Frontend&rpar; Concept](https://dev.to/kevin-uehara/webapp-bff-backend-for-frontend-concept-jaj)
-- [🎆THE BEST HTML/REACT TAGS YOU SURELY DON&#39;T KNOW FOR 2024🎆](https://dev.to/luciano655dev/the-best-htmlreact-tags-you-surely-dont-know-for-2024-3jjo)
+- [How to Utilize API7 Enterprise for Full API Lifecycle Management?](https://dev.to/api7/how-to-utilize-api7-enterprise-for-full-api-lifecycle-management-137i)
+- [What does AWS Cloud Architect do](https://dev.to/aws-builders/what-does-aws-cloud-architect-do-5hdj)
+- [Creating NFC Or QR Code Automations In Home Assistant Using Webhooks](https://dev.to/danielrosehill/creating-nfc-or-qr-code-automations-in-home-assistant-using-webhooks-2fmi)
+- [Calculating total size of disks](https://dev.to/gunitinug/calculating-total-size-of-disks-4168)
+- [PYTHON BITWISE OPERATORS](https://dev.to/maame-codes/python-bitwise-operators-18oh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
