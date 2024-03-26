@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the best advice you have ever received?: CodeNewbie Podcast](https://dev.to/codenewbieteam/what-is-the-best-advice-you-have-ever-received-codenewbie-podcast-40hk)
+- [Beyond Basic Functions: Explore Currying in JavaScript](https://dev.to/leonardorafael/beyond-basic-functions-explore-currying-in-javascript-16lp)
+- [Finding the Inspiration to Build](https://dev.to/wasp/finding-the-inspiration-to-build-3p4n)
+- [The difference between parameters and arguments in Javascript](https://dev.to/tessmueske/the-difference-between-parameters-and-arguments-in-javascript-2gma)
 - [VIP Access Only: Demystifying OAuth 2.0 with a Clubbing Analogy](https://dev.to/hamed-fatehi/vip-access-only-demystifying-oauth-20-with-a-clubbing-analogy-nca)
-- [Switch Component with RiotJS &lpar;Material Design&rpar;](https://dev.to/steeve/switch-component-with-riotjs-material-design-11ic)
-- [Microsoft Azure Certificate](https://dev.to/ankita482/microsoft-azure-certificate-oae)
-- [Exploring 5 Top UI Frameworks for React](https://dev.to/surajondev/exploring-5-top-ui-frameworks-for-react-2cpb)
-- [ArtistAssistApp: New Major Update to the Best Free Painting Assistant for Traditional Artists.](https://dev.to/eugene-khyst/artistassistapp-new-major-update-to-the-best-free-painting-assistant-for-traditional-artists-2olb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
