@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [If you have no interest in programming then DevOps is not for you.](https://dev.to/anurag_vishwakarma/if-you-have-no-interest-in-programming-then-devops-is-not-for-you-1c3m)
+- [Database for newbies](https://dev.to/basementdevs/database-for-newbies-3a9f)
 - [Building a Fast, Efficient Web App: The Technology Stack of PromptSmithy Explained](https://dev.to/timesurgelabs/building-a-fast-efficient-web-app-the-technology-stack-of-promptsmithy-explained-184f)
 - [How to Become a Front-End Developer?](https://dev.to/04anilr/how-to-become-a-front-end-developer-5gfk)
 - [Introduction to Digital Note-Taking: A Beginner&#39;s Guide](https://dev.to/charudatta10/introduction-to-digital-note-taking-a-beginners-guide-9p2)
-- [Kubernetes Through the Developer&#39;s Perspective](https://dev.to/cyclops-ui/kubernetes-through-the-developers-perspective-38lf)
-- [What do you think of my new website design?](https://dev.to/wolffe/what-do-you-think-of-my-new-website-design-2l21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
