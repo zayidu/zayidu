@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🇫🇷 La fixette française sur les fotes d&#39;orthogaffes](https://dev.to/jmfayard/la-fixette-francaise-sur-les-fotes-dorthogaffes-49ip)
+- [Day 7 of 30-Day .NET Challenge: String built-in Methods Part 2](https://dev.to/ssukhpinder/day-7-of-30-day-net-challenge-string-built-in-methods-part-2-p9o)
 - [Now You Can Full Fine Tune / DreamBooth Stable Diffusion XL &lpar;SDXL&rpar; with only 10.3 GB VRAM via OneTrainer](https://dev.to/furkangozukara/now-you-can-full-fine-tune-dreambooth-stable-diffusion-xl-sdxl-with-only-103-gb-vram-via-onetrainer-17mj)
 - [Explaining MediaRecorder API in 264 Characters! 🎥](https://dev.to/arjuncodess/explaining-mediarecorder-api-in-264-characters-5oj)
 - [Guía para implementar una aplicación Node.js contenerizada en Huawei Cloud](https://dev.to/huaweicloud/guia-para-implementar-una-aplicacion-nodejs-contenerizada-en-huawei-cloud-2f4o)
-- [My binary vector search is better than your FP32 vectors](https://dev.to/gaocegege/my-binary-vector-search-is-better-than-your-fp32-vectors-4j2k)
-- [Check if an element is visible in the viewport](https://dev.to/phuocng/check-if-an-element-is-visible-in-the-viewport-3c8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
