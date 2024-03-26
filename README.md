@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring 5 Top UI Frameworks for React](https://dev.to/surajondev/exploring-5-top-ui-frameworks-for-react-2cpb)
 - [ArtistAssistApp: New Major Update to the Best Free Painting Assistant for Traditional Artists.](https://dev.to/eugene-khyst/artistassistapp-new-major-update-to-the-best-free-painting-assistant-for-traditional-artists-2olb)
 - [Structurer votre doc pour la rendre utile](https://dev.to/onepoint/structurer-votre-doc-pour-la-rendre-utile-2a9c)
 - [Why CrabNebula Cloud? Comparing the Tauri GitHub Action](https://dev.to/crabnebula/why-crabnebula-cloud-comparing-the-tauri-github-action-1l6e)
 - [Simplify, Interact, Achieve: Unleashing the Power of Ask Ai with Walles.Ai&#39;s Intuitive Features](https://dev.to/geekyqee/simplify-interact-achieve-unleashing-the-power-of-ask-ai-with-wallesais-intuitive-features-bmm)
-- [Chat PDFs and the Next Wave of Communication with Walles.Ai](https://dev.to/geekyqee/chat-pdfs-and-the-next-wave-of-communication-with-wallesai-51jc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
