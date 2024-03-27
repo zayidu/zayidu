@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SEOGenius — Crafted with ChatGPT](https://dev.to/ssukhpinder/seogenius-crafted-with-chatgpt-14h8)
-- [Improve Your Workflow with APItoolkit](https://dev.to/apitoolkit/improve-your-workflow-with-apitoolkit-3m3b)
-- [GetBlock Introduces Subscriptions: Save 50% on RPC Node](https://dev.to/getblockapi/getblock-introduces-subscriptions-save-50-on-rpc-node-27gl)
-- [Announcing pre-release of &quot;All-Access&quot;](https://dev.to/ngmaterialdev/announcing-pre-release-of-all-access-4b5m)
-- [Get Random Images API for free from Lorem Picsum](https://dev.to/sh20raj/get-random-images-api-for-free-from-lorem-picsum-1ffi)
+- [Creating Session Counts](https://dev.to/simongreen/creating-session-counts-3nop)
+- [Mini-Exos: The IoT Web-based Access Control System](https://dev.to/dariocasciato/mini-exos-the-iot-web-based-access-control-system-5hjk)
+- [A Simple Way to Sign AWS Requests with Signature V4](https://dev.to/aws-builders/a-simple-way-to-sign-aws-requests-with-signature-v4-9eo)
+- [How I would learn DevOps if I could start over 🐳](https://dev.to/larastewart_engdev/how-i-would-learn-devops-if-i-could-start-over-5amp)
+- [Absolute vs. Relative Co-ordinates for Defining an SVG Path](https://dev.to/ant_f_dev/absolute-vs-relative-co-ordinates-for-defining-an-svg-path-5bec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
