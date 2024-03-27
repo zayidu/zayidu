@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Session Counts](https://dev.to/simongreen/creating-session-counts-3nop)
-- [Mini-Exos: The IoT Web-based Access Control System](https://dev.to/dariocasciato/mini-exos-the-iot-web-based-access-control-system-5hjk)
-- [A Simple Way to Sign AWS Requests with Signature V4](https://dev.to/aws-builders/a-simple-way-to-sign-aws-requests-with-signature-v4-9eo)
-- [How I would learn DevOps if I could start over 🐳](https://dev.to/larastewart_engdev/how-i-would-learn-devops-if-i-could-start-over-5amp)
-- [Absolute vs. Relative Co-ordinates for Defining an SVG Path](https://dev.to/ant_f_dev/absolute-vs-relative-co-ordinates-for-defining-an-svg-path-5bec)
+- [How Websites Work? Explained! 🤔🌐](https://dev.to/arjuncodess/how-websites-work-explained-m38)
+- [Maximizing Performance with Lazy Initialization in React useState](https://dev.to/ronaizacardoso/maximizing-performance-with-lazy-initialization-in-react-usestate-3n5m)
+- [Mastering Animated Navigation with JavaScript | Web Development Tutorial for Beginners](https://dev.to/robsonmuniz16/mastering-animated-navigation-with-javascript-web-development-tutorial-for-beginners-n6l)
+- [A comprehensive introduction to GraphQL: for efficient data queries and mutations](https://dev.to/efkumah/a-comprehensive-introduction-to-graphql-for-efficient-data-queries-and-mutations-6g9)
+- [Can you help with a quick survey? 30 secs top. 🙏](https://dev.to/opensourcee/can-you-help-with-a-quick-survey-30-secs-top-59o3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
