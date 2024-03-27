@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Maximizing Value: A Guide to Cost Optimization in Microsoft Azure](https://dev.to/theyasirr/maximizing-value-a-guide-to-cost-optimization-in-microsoft-azure-2989)
+- [Getting Started with React: A Beginner&#39;s Guide](https://dev.to/akchauhan2/getting-started-with-react-a-beginners-guide-lip)
+- [Smart Contract Verification And Deploying Using Hardhat](https://dev.to/amity808/smart-contract-verification-and-deploying-using-hardhat-3map)
 - [How To Reduce Tech Debt to Keep Your Ruby on Rails Application Effortlessly Adaptable](https://dev.to/julianrubisch/how-to-reduce-tech-debt-to-keep-your-ruby-on-rails-application-effortlessly-adaptable-1mg5)
 - [Boletín AWS Open Source, March Edition](https://dev.to/aws-espanol/boletin-aws-open-source-march-edition-1l4n)
-- [While Loop in C#: How Does it Work?](https://dev.to/bytehide/while-loop-in-c-how-does-it-work-3431)
-- [Understanding Process Isolation In Docker: An In-Depth Look at PID Namespaces](https://dev.to/kalkwst/understanding-process-isolation-in-docker-an-in-depth-look-at-pid-namespaces-2ehh)
-- [Building a Document-Driven Chatbot with LangChain: The Ultimate Guide](https://dev.to/rutamstwt/building-a-document-driven-chatbot-with-langchain-the-ultimate-guide-1nia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
