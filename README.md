@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Fix K8S Exit Code 137?](https://dev.to/cicube/how-to-fix-k8s-exit-code-137-55i1)
+- [Finally, legal “grass” in the international market…](https://dev.to/markus009/finally-legal-grass-in-the-international-market-21m6)
 - [Best Practices for Syncing Development Environments: A Developer&#39;s Toolkit ✨](https://dev.to/zorian/best-practices-for-syncing-development-environments-a-developers-toolkit-1o1b)
 - [Does Stress Lead to Personal Growth and Resilience?](https://dev.to/devteam/does-stress-lead-to-personal-growth-and-resilience-44e0)
 - [How to Create a Fake OpenAI Server Using llama.cpp: Step-by-Step Guide](https://dev.to/dexterxt/how-to-create-a-fake-openai-server-using-llamacpp-step-by-step-guide-49mk)
-- [Build a QR Code Generator App with React JS | Learn React with a Project](https://dev.to/imrankh13332994/build-a-qr-code-generator-app-with-react-js-learn-react-with-project-5510)
-- [Laravel 11 &lpar;how to upgrade&rpar;](https://dev.to/mazimez/laravel-11-how-to-upgrade-559m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
