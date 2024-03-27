@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create your own Eslint rule with tests, boosting the DX, and code-review](https://dev.to/meteor/how-to-create-your-own-eslint-rule-with-tests-boosting-the-dx-and-code-review-25el)
 - [Day 2 — Azure Open AI Challenge: Image Generation](https://dev.to/ssukhpinder/day-2-azure-open-ai-challenge-image-generation-4bgp)
+- [Create a Dynamic Modal using PHP and HTMX #1](https://dev.to/darkterminal/create-a-dynamic-modal-using-php-and-htmx-1-3d2g)
 - [Algorithms: The Invisible Code Shaping The World](https://dev.to/lymah/algorithms-the-invisible-code-shaping-the-world-1h7b)
 - [Getting started with CloudBees DORA metrics](https://dev.to/cloudbees/getting-started-with-cloudbees-dora-metrics-2j5i)
-- [Troubleshooting Common Issues in Kubernetes Deployments](https://dev.to/ken_mwaura1/troubleshooting-common-issues-in-kubernetes-deployments-4fin)
-- [Create Scroll Progress Indicator on blog/website](https://dev.to/sh20raj/create-scroll-progress-indicator-on-blogwebsite-4e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
