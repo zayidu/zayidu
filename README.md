@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Streaming Architecture](https://dev.to/aws-builders/data-streaming-architecture-32j0)
+- [Data Streaming Architecture Basics](https://dev.to/aws-builders/data-streaming-architecture-basics-52d7)
+- [Step-by-step installation of Ubuntu 22.04 LTS &lpar;2&rpar;](https://dev.to/hystou/step-by-step-installation-of-ubuntu-2204-lts-2-1kgi)
+- [Multiprocessing in Python](https://dev.to/mainpynerds/multiprocessing-in-python-a08)
 - [Understanding Abstraction in OOP](https://dev.to/m__mdy__m/understanding-abstraction-in-oop-1abp)
-- [Codegolf: Build a container in Cloud Build](https://dev.to/googlecloud/codegolf-build-a-container-in-cloud-build-4okn)
-- [Criando um Design System reutilizável entre React e React Native com Tamagui](https://dev.to/devhat/criando-um-design-system-reutilizavel-entre-react-e-react-native-com-tamagui-44pi)
-- [NestJS GraphQL: Code First Approach](https://dev.to/codexam/nestjs-graphql-code-first-approach-1pn0)
-- [Welcome Thread - v269](https://dev.to/devteam/welcome-thread-v269-2naa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
