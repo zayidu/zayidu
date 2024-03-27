@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Abstraction in OOP](https://dev.to/m__mdy__m/understanding-abstraction-in-oop-1abp)
 - [Criando um Design System reutilizável entre React e React Native com Tamagui](https://dev.to/devhat/criando-um-design-system-reutilizavel-entre-react-e-react-native-com-tamagui-44pi)
 - [NestJS GraphQL: Code First Approach](https://dev.to/codexam/nestjs-graphql-code-first-approach-1pn0)
 - [Welcome Thread - v269](https://dev.to/devteam/welcome-thread-v269-2naa)
 - [Preventing SQL Injection with Golang](https://dev.to/wiliamvj/preventing-sql-injection-with-golang-41m5)
-- [Celebrating Godmothers, Pioneers, And Activist Women In Tech](https://dev.to/schalkneethling/celebrating-godmothers-pioneers-and-activist-women-in-tech-3ag6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
