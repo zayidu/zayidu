@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Switch&#39;in L2 mi L3 mü Olduğunun Öğrenilmesi](https://dev.to/aciklab/switchin-l2-mi-l3-mu-oldugunun-ogrenilmesi-1kf6)
 - [Data Streaming Architecture](https://dev.to/aws-builders/data-streaming-architecture-32j0)
 - [Data Streaming Architecture Basics](https://dev.to/aws-builders/data-streaming-architecture-basics-52d7)
 - [Step-by-step installation of Ubuntu 22.04 LTS &lpar;2&rpar;](https://dev.to/hystou/step-by-step-installation-of-ubuntu-2204-lts-2-1kgi)
 - [Multiprocessing in Python](https://dev.to/mainpynerds/multiprocessing-in-python-a08)
-- [Understanding Abstraction in OOP](https://dev.to/m__mdy__m/understanding-abstraction-in-oop-1abp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
