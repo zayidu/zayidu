@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Tailwind `inview:` aplica estilos cuando el componente entra en pantalla](https://dev.to/marcosmonterodev/tailwind-inview-easily-apply-styles-when-component-enters-screen-on-scroll-2lfk)
+- [Deciphering Open-Source Licenses: An In-Depth Exploration](https://dev.to/adarshbp/deciphering-open-source-licenses-an-in-depth-exploration-17l7)
 - [Free Random Quotes API - WhollyAPI](https://dev.to/whollyapi/free-random-quotes-api-whollyapi-2l93)
+- [5 Secret Tips To Increase Social Media Engagement](https://dev.to/joywinter90/5-secret-tips-to-increase-social-media-engagement-2mp1)
 - [10 Methods for Vertical Alignment Using CSS](https://dev.to/refine/10-methods-for-vertical-alignment-using-css-3okc)
-- [CSS Art Challenge: Cookie](https://dev.to/jeffersonrj14/css-art-challenge-cookie-58fk)
-- [Why and When You should use TypeScript](https://dev.to/itamartati/why-and-when-you-should-use-typescript-4h38)
-- [Auth, Business rules and HTTP](https://dev.to/epigene/auth-business-rules-and-http-5f1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
