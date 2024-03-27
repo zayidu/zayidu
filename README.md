@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Troubleshooting Common Issues in Kubernetes Deployments](https://dev.to/ken_mwaura1/troubleshooting-common-issues-in-kubernetes-deployments-4fin)
+- [Create Scroll Progress Indicator on blog/website](https://dev.to/sh20raj/create-scroll-progress-indicator-on-blogwebsite-4e6)
+- [Open-source timepicker components for Tailwind CSS](https://dev.to/themesberg/open-source-timepicker-components-for-tailwind-css-2523)
 - [Monitor EC2 instance metrics with Datadog &lpar;step-by-step&rpar;](https://dev.to/aws-builders/monitor-ec2-instance-metrics-with-datadog-step-by-step-3c35)
 - [Clear Vision, Not So Clear &lpar;or.. The User Is Me&rpar;](https://dev.to/montyharper/clear-vision-not-so-clear-or-the-user-is-me-27dd)
-- [How Websites Work? Explained! 🤔🌐](https://dev.to/arjuncodess/how-websites-work-explained-m38)
-- [Tools for Linux Distro Hoppers](https://dev.to/labasubagia/tools-for-linux-distro-hoppers-3nh6)
-- [Trigger AWS Lambda with TCP Traffic + Static IP Address](https://dev.to/aws-builders/trigger-aws-lambda-with-tcp-traffic-static-ip-address-1bha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
