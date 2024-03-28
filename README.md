@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Can you help with a quick survey? 30 secs top 🙏](https://dev.to/opensourcee/can-you-help-with-a-quick-survey-30-secs-top-498m)
+- [🇫🇷🇪🇸🇩🇪🇮🇹🇯🇵 What if we made DEV.to polyglot ?](https://dev.to/jmfayard/what-if-we-made-devto-polyglot--3ppb)
 - [AI/ML - Langchain4j - Chat Memory](https://dev.to/rprabhu/aiml-langchain4j-chat-memory-3b31)
 - [Build Dynamic Forms with React Hook Form](https://dev.to/clarity89/build-dynamic-forms-with-react-hook-form-4go9)
 - [End-To-End Polymorphism: From Database to UI, Achieving SOLID Design](https://dev.to/zenstack/end-to-end-polymorphism-from-database-to-ui-achieving-solid-design-3bih)
-- [How to set up AWS Verified Access with Okta](https://dev.to/cicube/how-to-set-up-aws-verified-access-with-okta-5a5m)
-- [Leave for loop now ! 🤔](https://dev.to/sh20raj/leave-for-loop-now--10ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
