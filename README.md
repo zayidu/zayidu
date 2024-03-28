@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [30 tips of code PHP - Types](https://dev.to/razielrodrigues/30-tips-of-code-php-types-3j20)
+- [Top 5 Best Courses for administrator by Microsoft with certificate](https://dev.to/ananya748/top-5-best-courses-for-administrator-by-microsoft-with-certificate-5ebl)
 - [Top 5 Best Courses for administrator by Microsoft with certificate](https://dev.to/rani4849/top-5-best-courses-for-administrator-by-microsoft-with-certificate-19n9)
 - [Let vs. Const: Choosing the Right Tool for the Job in JavaScript](https://dev.to/henrylehd/let-vs-const-choosing-the-right-tool-for-the-job-in-javascript-3cj2)
 - [glad to be here](https://dev.to/williamsmile4/glad-to-be-here-2k70)
-- [Maximizing Value: A Guide to Cost Optimization in Microsoft Azure](https://dev.to/theyasirr/maximizing-value-a-guide-to-cost-optimization-in-microsoft-azure-2989)
-- [Code Elegance - Beyond Loops](https://dev.to/dev3l/code-elegance-beyond-loops-fb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
