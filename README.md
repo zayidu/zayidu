@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Data-Attributes Magic with Tailwind CSS &amp; Stimulus](https://dev.to/railsdesigner/data-attributes-magic-with-tailwind-css-stimulus-2bmb)
+- [Top 6 Best GPTs for AI Productivity in 2024](https://dev.to/stan8086/top-6-best-gpts-for-ai-productivity-in-2024-31n1)
+- [Read This if You Hate Ternary Operators](https://dev.to/greenteaisgreat/read-this-if-you-hate-ternary-operators-59m5)
+- [A Goodbye to Tech](https://dev.to/cat/a-goodbye-to-tech-41gh)
 - [The CSS inherit Property](https://dev.to/joanayebola/the-css-inherit-property-4l81)
-- [Challenges of Evaluating and Understanding Foundation models](https://dev.to/ruthieyakubu/challenges-of-evaluating-and-understanding-foundation-models-320g)
-- [Frontend CSS Art Challenge- Orange Candy Ice Cream](https://dev.to/codewithtee/frontend-css-art-challenge-orange-candy-ice-cream-55d3)
-- [Open AI Challenge, Day 3: Mastering Code Generation](https://dev.to/ssukhpinder/open-ai-challenge-day-3-mastering-code-generation-4od1)
-- [Learning AWS Day by Day - Day 19 - VPC Hands-on: Part 1](https://dev.to/rksalo88/learning-aws-day-by-day-day-19-vpc-hands-on-part-1-2pkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
