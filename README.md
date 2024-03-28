@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Optimize Software Testing Life Cycle – The Full Guide](https://dev.to/testfort_inc/how-to-optimize-software-testing-life-cycle-the-full-guide-4lik)
-- [Have You Ever Gotten A Job through LinkedIn?](https://dev.to/devteam/have-you-ever-gotten-a-job-through-linkedin-fmj)
-- [Geolocation Web API - explained in less than 256 chars](https://dev.to/rajeshroyal/geolocation-web-api-explained-in-less-than-256-chars-45o4)
-- [Apple and Orange](https://dev.to/kecbm/apple-and-orange-2g82)
-- [Understanding Controlled vs Uncontrolled Components In React](https://dev.to/clarity89/understanding-controlled-vs-uncontrolled-components-in-react-4ia6)
+- [2024 Mac Developer Toolbox: Essentials for Full-Stack Development](https://dev.to/hikarimaeda/2024-mac-developer-toolbox-essentials-for-full-stack-development-418a)
+- [React in 2024: A Beginner&#39;s Guide 🌟🚀](https://dev.to/arjuncodess/react-in-2024-a-beginners-guide-152a)
+- [NestJS : from Promises to Observables](https://dev.to/onepoint/nestjs-from-promises-to-observables-2gl7)
+- [An Afternoon with SVGs | Frontend Challenge Entry](https://dev.to/terabytetiger/an-afternoon-with-svgs-frontend-challenge-entry-3c90)
+- [Data Structures and Algorithms &lpar;DSA&rpar; beginner-friendly resources](https://dev.to/hashirdev/data-structures-and-algorithms-dsa-beginner-friendly-resources-118o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
