@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache APISIX North America Tour](https://dev.to/apisix/apache-apisix-north-america-tour-56gp)
+- [React Navigation v7 sneak peek: Static API introduced](https://dev.to/mitchiemt11/react-navigation-v7-sneak-peek-static-api-introduced-1gl)
+- [Two more events about free and opensource software worth visiting in 2024](https://dev.to/bogomil/two-more-events-about-free-and-opensource-software-worth-visiting-435g)
+- [Need Your Guidance !](https://dev.to/abishek61001/need-your-guidance-5cc)
 - [Day 9 of 30-Day .NET Challenge: Null Safety](https://dev.to/ssukhpinder/day-9-of-30-day-net-challenge-null-safety-6h4)
-- [Core Web Vitals: Rank your websites higher on SEO](https://dev.to/codeparrot/core-web-vitals-rank-your-websites-higher-on-seo-4gl6)
-- [How to Convert Dates in One Group into An Interval](https://dev.to/esproc_spl/how-to-convert-dates-in-one-group-into-an-interval-3nfo)
-- [Unraveling the Mysteries of JavaScript, Tackling Tough Logic](https://dev.to/yugandhar_dasari_93/unraveling-the-mysteries-of-javascript-tackling-tough-logic-31e3)
-- [Learning new language in context with chatGPT](https://dev.to/apetryla/learning-new-language-in-context-with-chatgpt-1g8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
