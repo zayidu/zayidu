@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Assigning Functions in JavaScript: Direct vs. Through Variables](https://dev.to/sh20raj/assigning-functions-in-javascript-direct-vs-through-variables-4jib)
-- [How I fixed my BRUTAL TTFB](https://dev.to/whitep4nth3r/how-i-fixed-my-brutal-ttfb-2k74)
-- [API TESTING: The Ins and Outs](https://dev.to/mwendwatechie/api-testing-the-ins-and-outs-4njp)
-- [Apache APISIX North America Tour](https://dev.to/apisix/apache-apisix-north-america-tour-56gp)
-- [React Navigation v7 sneak peek: Static API introduced](https://dev.to/mitchiemt11/react-navigation-v7-sneak-peek-static-api-introduced-1gl)
+- [AI/ML - Langchain4j - Chat Memory](https://dev.to/rprabhu/aiml-langchain4j-chat-memory-3b31)
+- [Build Dynamic Forms with React Hook Form](https://dev.to/clarity89/build-dynamic-forms-with-react-hook-form-4go9)
+- [End-To-End Polymorphism: From Database to UI, Achieving SOLID Design](https://dev.to/zenstack/end-to-end-polymorphism-from-database-to-ui-achieving-solid-design-3bih)
+- [How to set up AWS Verified Access with Okta](https://dev.to/cicube/how-to-set-up-aws-verified-access-with-okta-5a5m)
+- [Leave for loop now ! 🤔](https://dev.to/sh20raj/leave-for-loop-now--10ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
