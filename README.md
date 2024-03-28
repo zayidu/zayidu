@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Assigning Functions in JavaScript: Direct vs. Through Variables](https://dev.to/sh20raj/assigning-functions-in-javascript-direct-vs-through-variables-4jib)
+- [How I fixed my BRUTAL TTFB](https://dev.to/whitep4nth3r/how-i-fixed-my-brutal-ttfb-2k74)
+- [API TESTING: The Ins and Outs](https://dev.to/mwendwatechie/api-testing-the-ins-and-outs-4njp)
 - [Apache APISIX North America Tour](https://dev.to/apisix/apache-apisix-north-america-tour-56gp)
 - [React Navigation v7 sneak peek: Static API introduced](https://dev.to/mitchiemt11/react-navigation-v7-sneak-peek-static-api-introduced-1gl)
-- [Two more events about free and opensource software worth visiting in 2024](https://dev.to/bogomil/two-more-events-about-free-and-opensource-software-worth-visiting-435g)
-- [Need Your Guidance !](https://dev.to/abishek61001/need-your-guidance-5cc)
-- [Day 9 of 30-Day .NET Challenge: Null Safety](https://dev.to/ssukhpinder/day-9-of-30-day-net-challenge-null-safety-6h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
