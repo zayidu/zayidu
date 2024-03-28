@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [⚛️ Explaining React&#39;s Types](https://dev.to/itswillt/explaining-reacts-types-940)
+- [Exploring Three.js for 3D Web Development](https://dev.to/codeparrot/exploring-threejs-for-3d-web-development-dfg)
 - [Compared Effect Of Image Captioning For SDXL Fine-tuning / DreamBooth Training for a Single Person, 10.3 GB VRAM via OneTrainer](https://dev.to/furkangozukara/compared-effect-of-image-captioning-for-sdxl-fine-tuning-dreambooth-training-for-a-single-person-103-gb-vram-via-onetrainer-1fdf)
 - [Vector Database solutions on AWS](https://dev.to/aws-builders/vector-database-solutions-on-aws-46f7)
 - [Containerize your multi-services app with docker compose](https://dev.to/niemet0502/containerize-your-multi-services-app-with-docker-compose-206)
-- [30 tips of code PHP - Types](https://dev.to/razielrodrigues/30-tips-of-code-php-types-3j20)
-- [Understanding and Resolving &quot;fatal: The current branch has no upstream branch&quot; Error in Git](https://dev.to/mochafreddo/understanding-and-resolving-fatal-the-current-branch-has-no-upstream-branch-error-in-git-3cgg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
