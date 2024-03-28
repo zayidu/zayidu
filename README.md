@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 9 of 30-Day .NET Challenge: Null Safety](https://dev.to/ssukhpinder/day-9-of-30-day-net-challenge-null-safety-6h4)
+- [Core Web Vitals: Rank your websites higher on SEO](https://dev.to/codeparrot/core-web-vitals-rank-your-websites-higher-on-seo-4gl6)
+- [How to Convert Dates in One Group into An Interval](https://dev.to/esproc_spl/how-to-convert-dates-in-one-group-into-an-interval-3nfo)
 - [Unraveling the Mysteries of JavaScript, Tackling Tough Logic](https://dev.to/yugandhar_dasari_93/unraveling-the-mysteries-of-javascript-tackling-tough-logic-31e3)
 - [Learning new language in context with chatGPT](https://dev.to/apetryla/learning-new-language-in-context-with-chatgpt-1g8b)
-- [React Interview Task: Build a folder/file explorer UI.](https://dev.to/swastikyadav/react-interview-task-build-a-folderfile-explorer-ui-2hgh)
-- [Difference between Forward Proxy and Reverse Proxy in System design](https://dev.to/somadevtoo/difference-between-forward-proxy-and-reverse-proxy-in-system-design-54g5)
-- [⚛️ Explaining React&#39;s Types](https://dev.to/itswillt/explaining-reacts-types-940)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
