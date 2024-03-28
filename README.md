@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [React Interview Task: Build a folder/file explorer UI.](https://dev.to/swastikyadav/react-interview-task-build-a-folderfile-explorer-ui-2hgh)
+- [Difference between Forward Proxy and Reverse Proxy in System design](https://dev.to/somadevtoo/difference-between-forward-proxy-and-reverse-proxy-in-system-design-54g5)
 - [⚛️ Explaining React&#39;s Types](https://dev.to/itswillt/explaining-reacts-types-940)
 - [Exploring Three.js for 3D Web Development](https://dev.to/codeparrot/exploring-threejs-for-3d-web-development-dfg)
 - [Compared Effect Of Image Captioning For SDXL Fine-tuning / DreamBooth Training for a Single Person, 10.3 GB VRAM via OneTrainer](https://dev.to/furkangozukara/compared-effect-of-image-captioning-for-sdxl-fine-tuning-dreambooth-training-for-a-single-person-103-gb-vram-via-onetrainer-1fdf)
-- [Vector Database solutions on AWS](https://dev.to/aws-builders/vector-database-solutions-on-aws-46f7)
-- [Containerize your multi-services app with docker compose](https://dev.to/niemet0502/containerize-your-multi-services-app-with-docker-compose-206)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
