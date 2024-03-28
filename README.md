@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sloan&#39;s Inbox: How do you ask for help?](https://dev.to/devteam/sloans-inbox-how-do-you-ask-for-help-2ee2)
-- [Docker Swarm vs. Kubernetes - DevOps Guide](https://dev.to/refine/docker-swarm-vs-kubernetes-devops-guide-2h8b)
-- [Can you help with a quick survey? 30 secs top 🙏](https://dev.to/opensourcee/can-you-help-with-a-quick-survey-30-secs-top-498m)
-- [🇫🇷🇪🇸🇩🇪🇮🇹🇯🇵 What if we made DEV.to polyglot ?](https://dev.to/jmfayard/what-if-we-made-devto-polyglot--3ppb)
-- [AI/ML - Langchain4j - Chat Memory](https://dev.to/rprabhu/aiml-langchain4j-chat-memory-3b31)
+- [Async/Await in TypeScript: A step by step guide](https://dev.to/alakkadshaw/asyncawait-in-typescript-a-step-by-step-guide-4m1e)
+- [Top 5 Best Courses for administrator by Microsoft with certificate](https://dev.to/rani4849/top-5-best-courses-for-administrator-by-microsoft-with-certificate-33o2)
+- [Top 5 Best Courses for administrator by Microsoft with certificate](https://dev.to/ankita482/top-5-best-courses-for-administrator-by-microsoft-with-certificate-370d)
+- [Top 5 Best Courses for administrator by Microsoft with certificate](https://dev.to/radhika59/top-5-best-courses-for-administrator-by-microsoft-with-certificate-4oo5)
+- [Real-Time Irish Transit Analytics](https://dev.to/tspannhw/real-time-irish-transit-analytics-46p2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
