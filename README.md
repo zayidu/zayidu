@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Essential Checklist For Mobile App Testing](https://dev.to/abhayit2000/essential-checklist-for-mobile-app-testing-4o7k)
+- [Text translation using langchain.js and Gemini in a NestJS application](https://dev.to/railsstudent/text-translation-using-langchainjs-and-gemini-in-a-nestjs-application-1p43)
+- [Gatsby blog: Building SEO-friendly blog with BCMS code starter](https://dev.to/momciloo/gatsby-blog-building-seo-friendly-blog-with-bcms-code-starter-3fkc)
 - [Configuring Storybook in Your Nuxt Project](https://dev.to/chakas3/configuring-storybook-in-your-nuxt-project-40oo)
 - [Rename iOS project React Native](https://dev.to/raguram90/rename-ios-project-react-native-2nip)
-- [AI-assisted coding, Sleeping on a Volcano](https://dev.to/maximsaplin/ai-assisted-coding-sleeping-on-a-volcano-3mf9)
-- [A Deep Dive into Container Identification and Dependency Management](https://dev.to/kalkwst/a-deep-dive-into-container-identification-and-dependency-management-5bh9)
-- [Exceeding Expectations: GDSC RUN&#39;s Inaugural Physical Event and My Debut Tech Talk](https://dev.to/techemmy/exceeding-expectations-gdsc-runs-inaugural-physical-event-and-my-debut-tech-talk-5dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
