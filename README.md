@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Do You Remember about the Early Days of webdev and HTML?](https://dev.to/devteam/what-do-you-remember-about-the-early-days-of-webdev-and-html-57d0)
+- [Day 10 of 30-Day .NET Challenge: File Paths](https://dev.to/ssukhpinder/day-10-of-30-day-net-challenge-file-paths-29kj)
+- [I made a Random Quote Generator.](https://dev.to/mince/i-made-a-random-quote-generator-3nnn)
+- [Micro benchmarking value objects in Ruby: Data.define vs Struct vs OpenStruct](https://dev.to/lucianghinda/micro-benchmarking-value-objects-in-ruby-datadefine-vs-struct-vs-openstruct-3984)
 - [What&#39;s the Difference Between A Good Developer &amp; A Great One?](https://dev.to/devteam/whats-the-difference-between-a-good-developer-a-great-one-383l)
-- [Retrieve GitHub Project Issues to a Google Spreadsheet](https://dev.to/aleguerra05/retrieve-github-project-issues-to-a-google-spreadsheet-pn5)
-- [Prisma Part 1: Your Easy Tutorial to Set up Prisma](https://dev.to/burakboduroglu/prisma-part-1-your-easy-tutorial-to-set-up-prisma-4p1)
-- [Understanding Vectors in Rust: A Comprehensive Guide](https://dev.to/dipankarpaul/understanding-vectors-in-rust-a-comprehensive-guide-1j7p)
+- [What Do You Remember about the Early Days of webdev and HTML?](https://dev.to/devteam/what-do-you-remember-about-the-early-days-of-webdev-and-html-57d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
