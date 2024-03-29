@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What is AWS Redshift and Why Use It?](https://dev.to/cicube/what-is-aws-redshift-and-why-use-it-3l8g)
+- [Java’s Executor Framework for Starters](https://dev.to/the_infinity/javas-executor-framework-for-starters-4h3k)
+- [Check Out My First Node.js Package: Json Flex DB!](https://dev.to/rizmyabdulla/check-out-my-first-nodejs-package-json-flex-db-2ej6)
+- [Is www.example.com and example.com is same in front of google](https://dev.to/sh20raj/is-wwwexamplecom-and-examplecom-is-same-in-front-of-google-30al)
 - [This Week In React #179: useActionState, Redwood, React-Navigation, RN-Screens, CodePush, VisionOS...](https://dev.to/sebastienlorber/this-week-in-react-179-useactionstate-redwood-react-navigation-rn-screens-codepush-visionos-123b)
-- [Cognito custom flow sign-in sends a confirm code via email](https://dev.to/trantn/cognito-custom-flow-sign-in-sends-a-confirm-code-via-email-1j12)
-- [S3 Client against disasters &lpar;hacks, fires, catastrophes&rpar;](https://dev.to/steeve/s3-client-against-disasters-hacks-fires-catastrophes-3c3b)
-- [Count Visitors With Free API](https://dev.to/sh20raj/count-visitors-with-free-api-1ccf)
-- [ScrollProgressJS- Customisable scroll progress indicator for web pages](https://dev.to/sh20raj/scrollprogressjs-customisable-scroll-progress-indicator-for-web-pages-5cfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
