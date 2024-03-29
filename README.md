@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Firsts and Success! A Look Back at GDSC RUN&#39;s First Physical Event &amp; My Tech Talk Debut](https://dev.to/techemmy/exceeding-expectations-gdsc-runs-inaugural-physical-event-and-my-debut-tech-talk-5dp)
+- [11 BEST JavaScript Animation Libraries 🎨✨](https://dev.to/arjuncodess/11-best-javascript-animation-libraries-1hmc)
+- [Natural Language Processing &lpar;NLP&rpar; in Web Development: Enhancing Communication with Users](https://dev.to/nluxai/natural-language-processing-nlp-in-web-development-enhancing-communication-with-users-380m)
+- [How to setup semantic release with GitHub Actions.](https://dev.to/sahanonp/how-to-setup-semantic-release-with-github-actions-31f3)
 - [Day 4 — Azure Open AI: Setup Azure AI Search Solution](https://dev.to/ssukhpinder/day-4-azure-open-ai-setup-azure-ai-search-solution-439)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13ld)
-- [What is AWS Redshift and Why Use It?](https://dev.to/cicube/what-is-aws-redshift-and-why-use-it-3l8g)
-- [What is cross-browser compatibility, and why should you care?](https://dev.to/codejagaban/what-is-cross-browser-compatibility-and-why-should-you-care-394g)
-- [Java’s Executor Framework for Starters](https://dev.to/the_infinity/javas-executor-framework-for-starters-4h3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
