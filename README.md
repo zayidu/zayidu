@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Helping You Build Machine Learning Products: CodeNewbie Podcast](https://dev.to/devteam/helping-you-build-machine-learning-products-codenewbie-podcast-683)
+- [INT FLOAT COMPLEX - PYTHON](https://dev.to/bellatrix/int-float-complex-python-a4g)
 - [My First Six Months as a Staff Developer Advocate at TBD](https://dev.to/blackgirlbytes/my-first-six-months-as-a-staff-developer-advocate-at-tbd-4l82)
 - [Learning Cyber Security Day 4 - Integrating Encryption in Your Code🔐](https://dev.to/pixelgig/learning-cyber-security-day-4-integrating-encryption-in-your-code-3kbb)
 - [SORRY, RUST &amp; DEVS !](https://dev.to/bekbrace/sorry-rust-devs--hbh)
-- [Complete Guide to Build Your First CNN Machine Learning Model in Python](https://dev.to/dexterxt/complete-guide-to-build-your-first-cnn-machine-learning-model-in-python-36fa)
-- [Simple C programs with outputs to learn C](https://dev.to/justaman045/simple-c-programs-with-outputs-to-learn-c-19dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
