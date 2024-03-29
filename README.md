@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Map Styling for Web Developers — Quick Editing](https://dev.to/c_yatteau/map-styling-for-web-developers-quick-editing-2bbh)
+- [Getting Started with Go Programming Language](https://dev.to/luqmanshaban/getting-started-with-go-programming-language-4ha)
+- [1D Polynomial Curve fitting in Numpy and Matplotlib](https://dev.to/eastrittmatter/1d-polynomial-curve-fitting-in-numpy-and-matplotlib-2560)
 - [Essential Checklist For Mobile App Testing](https://dev.to/abhayit2000/essential-checklist-for-mobile-app-testing-4o7k)
-- [Text translation using langchain.js and Gemini in a NestJS application](https://dev.to/railsstudent/text-translation-using-langchainjs-and-gemini-in-a-nestjs-application-1p43)
-- [Gatsby blog: Building SEO-friendly blog with BCMS code starter](https://dev.to/momciloo/gatsby-blog-building-seo-friendly-blog-with-bcms-code-starter-3fkc)
-- [Configuring Storybook in Your Nuxt Project](https://dev.to/chakas3/configuring-storybook-in-your-nuxt-project-40oo)
-- [Rename iOS project React Native](https://dev.to/raguram90/rename-ios-project-react-native-2nip)
+- [FiftyOne Computer Vision Tips and Tricks - March 29, 2024](https://dev.to/voxel51/fiftyone-computer-vision-tips-and-tricks-march-29-2024-524n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
