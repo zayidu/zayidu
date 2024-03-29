@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Cognito custom flow sign-in sends a confirm code via email](https://dev.to/trantn/cognito-custom-flow-sign-in-sends-a-confirm-code-via-email-1j12)
+- [S3 Client against disasters &lpar;hacks, fires, catastrophes&rpar;](https://dev.to/steeve/s3-client-against-disasters-hacks-fires-catastrophes-3c3b)
+- [Count Visitors With Free API](https://dev.to/sh20raj/count-visitors-with-free-api-1ccf)
+- [ScrollProgressJS- Customisable scroll progress indicator for web pages](https://dev.to/sh20raj/scrollprogressjs-customisable-scroll-progress-indicator-for-web-pages-5cfc)
 - [Day 10 of 30-Day .NET Challenge: File Paths](https://dev.to/ssukhpinder/day-10-of-30-day-net-challenge-file-paths-29kj)
-- [I made a Random Quote Generator.](https://dev.to/mince/i-made-a-random-quote-generator-3nnn)
-- [Micro benchmarking value objects in Ruby: Data.define vs Struct vs OpenStruct](https://dev.to/lucianghinda/micro-benchmarking-value-objects-in-ruby-datadefine-vs-struct-vs-openstruct-3984)
-- [What&#39;s the Difference Between A Good Developer &amp; A Great One?](https://dev.to/devteam/whats-the-difference-between-a-good-developer-a-great-one-383l)
-- [What Do You Remember about the Early Days of webdev and HTML?](https://dev.to/devteam/what-do-you-remember-about-the-early-days-of-webdev-and-html-57d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
