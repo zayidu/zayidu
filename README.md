@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Sending logs to Grafana Loki in a Rust application](https://dev.to/shuttle_dev/sending-logs-to-grafana-loki-in-a-rust-application-mh6)
+- [Web Share API: One Byte Explainer ✍️](https://dev.to/ra_jeeves/web-share-api-one-byte-explainer-31h9)
+- [Getting started with AI Prompts](https://dev.to/azure/getting-started-with-ai-prompts-3ne1)
+- [ServBay 1.3.0 Release Notes](https://dev.to/servbay/servbay-130-release-notes-1foa)
 - [Map Styling for Web Developers — Quick Editing](https://dev.to/c_yatteau/map-styling-for-web-developers-quick-editing-2bbh)
-- [Getting Started with Go Programming Language](https://dev.to/luqmanshaban/getting-started-with-go-programming-language-4ha)
-- [1D Polynomial Curve fitting in Numpy and Matplotlib](https://dev.to/eastrittmatter/1d-polynomial-curve-fitting-in-numpy-and-matplotlib-2560)
-- [Essential Checklist For Mobile App Testing](https://dev.to/abhayit2000/essential-checklist-for-mobile-app-testing-4o7k)
-- [FiftyOne Computer Vision Tips and Tricks - March 29, 2024](https://dev.to/voxel51/fiftyone-computer-vision-tips-and-tricks-march-29-2024-524n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
