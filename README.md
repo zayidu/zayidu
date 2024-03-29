@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Module to learn GitHub and GitHub Copilot by Microsoft Learn](https://dev.to/ankita482/top-5-module-to-learn-github-and-github-copilot-by-microsoft-learn-3438)
+- [Top 5 Module to learn GitHub and GitHub Copilot by Microsoft Learn](https://dev.to/radhika59/top-5-module-to-learn-github-and-github-copilot-by-microsoft-learn-p0)
+- [Top 5 Module to learn GitHub and GitHub Copilot by Microsoft Learn](https://dev.to/ananya748/top-5-module-to-learn-github-and-github-copilot-by-microsoft-learn-1f0m)
 - [A Guide to Building CLI Tools in JavaScript](https://dev.to/shreshthgoyal/a-guide-to-building-cli-tools-in-javascript-28nn)
 - [Timer Feature in Browsers: One Byte Explainer](https://dev.to/aneeqakhan/timer-feature-in-browsers-one-byte-explainer-4maa)
-- [CSS Art:Watermelon](https://dev.to/kejriwaldivya/css-artwatermelon-jo9)
-- [Composite Alarms in AWS Cloud: Advanced Notification System](https://dev.to/aws-builders/composite-alarms-in-aws-cloud-advanced-notification-system-2omn)
-- [Data-Attributes Magic with Tailwind CSS &amp; Stimulus](https://dev.to/railsdesigner/data-attributes-magic-with-tailwind-css-stimulus-2bmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
