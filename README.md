@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 4 — Azure Open AI: Setup Azure AI Search Solution](https://dev.to/ssukhpinder/day-4-azure-open-ai-setup-azure-ai-search-solution-439)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13ld)
 - [What is AWS Redshift and Why Use It?](https://dev.to/cicube/what-is-aws-redshift-and-why-use-it-3l8g)
+- [What is cross-browser compatibility, and why should you care?](https://dev.to/codejagaban/what-is-cross-browser-compatibility-and-why-should-you-care-394g)
 - [Java’s Executor Framework for Starters](https://dev.to/the_infinity/javas-executor-framework-for-starters-4h3k)
-- [Check Out My First Node.js Package: Json Flex DB!](https://dev.to/rizmyabdulla/check-out-my-first-nodejs-package-json-flex-db-2ej6)
-- [Is www.example.com and example.com is same in front of google](https://dev.to/sh20raj/is-wwwexamplecom-and-examplecom-is-same-in-front-of-google-30al)
-- [This Week In React #179: useActionState, Redwood, React-Navigation, RN-Screens, CodePush, VisionOS...](https://dev.to/sebastienlorber/this-week-in-react-179-useactionstate-redwood-react-navigation-rn-screens-codepush-visionos-123b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
