@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning Cyber Security Day 4 - Integrating Encryption in Your Code🔐](https://dev.to/pixelgig/learning-cyber-security-day-4-integrating-encryption-in-your-code-3kbb)
+- [Top 5 APIs that can improve your SEO game](https://dev.to/iamspathan/top-5-apis-that-can-improve-your-seo-game-53po)
 - [Sending logs to Grafana Loki in a Rust application](https://dev.to/shuttle_dev/sending-logs-to-grafana-loki-in-a-rust-application-mh6)
+- [Day 7 of #100DaysOfCode](https://dev.to/ashcode98/day-7-of-100daysofcode-3pib)
 - [Web Share API: One Byte Explainer ✍️](https://dev.to/ra_jeeves/web-share-api-one-byte-explainer-31h9)
-- [Getting started with AI Prompts](https://dev.to/azure/getting-started-with-ai-prompts-3ne1)
-- [ServBay 1.3.0 Release Notes](https://dev.to/servbay/servbay-130-release-notes-1foa)
-- [Map Styling for Web Developers — Quick Editing](https://dev.to/c_yatteau/map-styling-for-web-developers-quick-editing-2bbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
