@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Glam Up My Markup Contest Submission | Special Effects with backdrop-filter&lpar;&rpar; ✨](https://dev.to/best_codes/glam-up-my-markup-contest-submission-1p7a)
 - [Helping You Build Machine Learning Products: CodeNewbie Podcast](https://dev.to/devteam/helping-you-build-machine-learning-products-codenewbie-podcast-683)
 - [INT FLOAT COMPLEX - PYTHON](https://dev.to/bellatrix/int-float-complex-python-a4g)
 - [My First Six Months as a Staff Developer Advocate at TBD](https://dev.to/blackgirlbytes/my-first-six-months-as-a-staff-developer-advocate-at-tbd-4l82)
 - [Learning Cyber Security Day 4 - Integrating Encryption in Your Code🔐](https://dev.to/pixelgig/learning-cyber-security-day-4-integrating-encryption-in-your-code-3kbb)
-- [SORRY, RUST &amp; DEVS !](https://dev.to/bekbrace/sorry-rust-devs--hbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
