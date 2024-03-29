@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Cohesion and Coupling in Javascript](https://dev.to/m__mdy__m/cohesion-and-coupling-in-javascript-2efg)
+- [Merging data from multiple Excel files](https://dev.to/ryjfgjl/merging-data-from-multiple-excel-files-4g2h)
 - [Navigating Identity Authentication: From LDAP to Modern Protocols](https://dev.to/apisix/navigating-identity-authentication-from-ldap-to-modern-protocols-4dha)
+- [Charge Up JavaScript with Battery Api](https://dev.to/dshaw0004/charge-up-javascript-with-battery-api-179k)
 - [Top 5 Module to learn GitHub and GitHub Copilot by Microsoft Learn](https://dev.to/rani4849/top-5-module-to-learn-github-and-github-copilot-by-microsoft-learn-4lag)
-- [Top 5 Module to learn GitHub and GitHub Copilot by Microsoft Learn](https://dev.to/ankita482/top-5-module-to-learn-github-and-github-copilot-by-microsoft-learn-3438)
-- [Top 5 Module to learn GitHub and GitHub Copilot by Microsoft Learn](https://dev.to/radhika59/top-5-module-to-learn-github-and-github-copilot-by-microsoft-learn-p0)
-- [Top 5 Module to learn GitHub and GitHub Copilot by Microsoft Learn](https://dev.to/ananya748/top-5-module-to-learn-github-and-github-copilot-by-microsoft-learn-1f0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
