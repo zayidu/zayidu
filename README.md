@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Firsts and Success! A Look Back at GDSC RUN&#39;s First Physical Event &amp; My Tech Talk Debut](https://dev.to/techemmy/exceeding-expectations-gdsc-runs-inaugural-physical-event-and-my-debut-tech-talk-5dp)
-- [11 BEST JavaScript Animation Libraries 🎨✨](https://dev.to/arjuncodess/11-best-javascript-animation-libraries-1hmc)
-- [Natural Language Processing &lpar;NLP&rpar; in Web Development: Enhancing Communication with Users](https://dev.to/nluxai/natural-language-processing-nlp-in-web-development-enhancing-communication-with-users-380m)
-- [How to setup semantic release with GitHub Actions.](https://dev.to/sahanonp/how-to-setup-semantic-release-with-github-actions-31f3)
-- [Day 4 — Azure Open AI: Setup Azure AI Search Solution](https://dev.to/ssukhpinder/day-4-azure-open-ai-setup-azure-ai-search-solution-439)
+- [Configuring Storybook in Your Nuxt Project](https://dev.to/chakas3/configuring-storybook-in-your-nuxt-project-40oo)
+- [Rename iOS project React Native](https://dev.to/raguram90/rename-ios-project-react-native-2nip)
+- [AI-assisted coding, Sleeping on a Volcano](https://dev.to/maximsaplin/ai-assisted-coding-sleeping-on-a-volcano-3mf9)
+- [A Deep Dive into Container Identification and Dependency Management](https://dev.to/kalkwst/a-deep-dive-into-container-identification-and-dependency-management-5bh9)
+- [Exceeding Expectations: GDSC RUN&#39;s Inaugural Physical Event and My Debut Tech Talk](https://dev.to/techemmy/exceeding-expectations-gdsc-runs-inaugural-physical-event-and-my-debut-tech-talk-5dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
