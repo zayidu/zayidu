@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CORS Error Explained and How to Fix It?](https://dev.to/mvaja13/cors-error-explained-and-how-to-fix-it-12bh)
+- [How to use Kubectl Exec Command?](https://dev.to/cicube/how-to-use-kubectl-exec-command-3e4n)
+- [CORS Error Explained and How to Fix It?](https://dev.to/codeparrot/cors-error-explained-and-how-to-fix-it-12bh)
 - [Latest Newsletter: Eating Glass &lpar;Issue #157&rpar;](https://dev.to/mjgs/latest-newsletter-eating-glass-issue-157-2cb0)
 - [Docker](https://dev.to/gavindang2911/docker-32bk)
 - [What is Project Lombok? Is it still relevant in 2023?](https://dev.to/nilan/what-is-project-lombok-is-it-still-relevant-in-2023-477h)
-- [How Do You Learn New Things When You&#39;re So Busy?](https://dev.to/devteam/how-do-you-learn-new-things-when-youre-so-busy-5efo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
