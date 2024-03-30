@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The 9 types of Programmers in 2024](https://dev.to/andreyscott/the-9-types-of-programmers-in-2024-294l)
+- [The Crucial Role of Software Quality Assurance Engineering in Ensuring Product Reliability](https://dev.to/talenttinaapi/the-crucial-role-of-software-quality-assurance-engineering-in-ensuring-product-reliability-31h4)
+- [Web Vibration API ⚡ | Explained in One Byte](https://dev.to/best_codes/web-vibration-api-explained-in-one-byte-jb2)
+- [Restrictive Abstractions](https://dev.to/alexandreaquiles/restrictive-abstractions-5hk0)
 - [🐣 Cracking the Code: Creating an Easter Egg with CSS 🥚](https://dev.to/best_codes/cracking-the-code-creating-an-easter-egg-with-css-28cg)
-- [One Minute: Compose](https://dev.to/gramian/one-minute-compose-lkj)
-- [Constants in C++](https://dev.to/paulike/constants-in-c-3d0b)
-- [bash: No such file or directory](https://dev.to/wajahataliabid/bash-no-such-file-or-directory-n83)
-- [Adding an inline delete action on the listing page](https://dev.to/megatux/adding-an-inline-delete-action-on-the-listing-page-1f95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
