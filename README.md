@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing Data Visualization with Python Matplotlib](https://dev.to/eyssant/unleashing-data-visualization-with-python-matplotlib-2ilp)
-- [Middlewares = Magic? 3 Reasons Every Dev Should Adopt This Magic! ✨🔥](https://dev.to/arjuncodess/middlewares-magic-3-reasons-every-dev-should-adopt-this-magic-4b65)
-- [Day 11 of 30-Day .NET Challenge: Helper Methods — Array](https://dev.to/ssukhpinder/day-11-of-30-day-net-challenge-helper-methods-array-2n8m)
-- [Exclude node_modules folder from Time Machine backup](https://dev.to/stefankolb/exclude-nodemodules-folder-from-time-machine-backup-34ci)
-- [A transição do Higher-Order Component pattern para o React Hooks pattern](https://dev.to/dougsource/a-transicao-do-higher-order-component-pattern-para-o-react-hooks-pattern-1fml)
+- [What&#39;s the biggest problem you are facing in your career right now?](https://dev.to/nandinishinduja/whats-the-biggest-problem-you-are-facing-in-your-career-right-now-38ph)
+- [Stop using swagger-ui only, go with TypeScript SDK](https://dev.to/samchon/stop-using-swagger-ui-only-go-with-typescript-sdk-5fl1)
+- [Resize Observer API](https://dev.to/anedomansky/resize-observer-api-36a3)
+- [Why I Love Programming](https://dev.to/deathblade287/why-i-love-programming-ecc)
+- [Empowering Collaboration: How GitHub Actions Facilitate Teamwork in Software Projects](https://dev.to/rajeshgheware/empowering-collaboration-how-github-actions-facilitate-teamwork-in-software-projects-4ff8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
