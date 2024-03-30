@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fusion of Information Technology and Weather Forecasting](https://dev.to/eyssant/the-fusion-of-information-technology-and-weather-forecasting-36eb)
-- [Git Reflog: Rescuing Lost Work in Git&#39;s Timeline](https://dev.to/pragativerma18/git-reflog-rescuing-lost-work-in-gits-timeline-108c)
-- [Ultimate guide to Secrets in Lambda](https://dev.to/aws-heroes/ultimate-guide-to-secrets-in-lambda-2db7)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1lf3)
-- [Choosing the Right Container Orchestration Tool: Docker Swarm or Kubernetes?](https://dev.to/nirmal0210/choosing-the-right-container-orchestration-tool-docker-swarm-or-kubernetes-1l92)
+- [Day 11 of 30-Day .NET Challenge: Helper Methods — Array](https://dev.to/ssukhpinder/day-11-of-30-day-net-challenge-helper-methods-array-2n8m)
+- [Exclude node_modules folder from Time Machine backup](https://dev.to/stefankolb/exclude-nodemodules-folder-from-time-machine-backup-34ci)
+- [A transição do Higher-Order Component pattern para o React Hooks pattern](https://dev.to/dougsource/a-transicao-do-higher-order-component-pattern-para-o-react-hooks-pattern-1fml)
+- [Guarding Assets: Fireproof Cabinets and Digital Safes Box For Businesses](https://dev.to/zimmiley/guarding-assets-fireproof-cabinets-and-digital-safes-box-for-businesses-183f)
+- [Interactive 3D Watermelon](https://dev.to/alvaromontoro/interactive-3d-watermelon-c10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
