@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The Pros and Cons of Routine for Developers](https://dev.to/jahid2121/the-pros-and-cons-of-routine-for-developers-35ck)
 - [The DevRel Digest March 2024: Must Be the Season of the Queen](https://dev.to/lizzzzz/the-devrel-digest-march-2024-must-be-the-season-of-the-queen-3do0)
 - [Gradient Descent: Optimizer Behind Machine Learning](https://dev.to/harsimranjit_singh_0133dc/gradient-descent-optimizer-behind-machine-learning-1jo)
+- [Sending e-mails with Sendgrid](https://dev.to/zsevic/sending-e-mails-with-sendgrid-4f4j)
 - [Coding While Dancing Make Me Better As an S.F.E](https://dev.to/darkterminal/coding-while-dancing-make-me-better-as-an-sfe-49a5)
-- [Building an Effective and User-Friendly Medical Chatbot with OpenAI and CometLLM: A Step-by-Step Guide](https://dev.to/oluseyej/building-an-effective-and-user-friendly-medical-chatbot-with-openai-and-cometllm-a-step-by-step-guide-4e2h)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1mnc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
