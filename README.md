@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Dockerizing a Flask application](https://dev.to/felipearcaro/dockerizing-a-flask-application-2e5e)
 - [Angular Material Update Guide](https://dev.to/ngmaterialdev/angular-material-update-guide-1cb)
 - [Day 5— Azure Open AI Challenge: Document Intelligence](https://dev.to/ssukhpinder/day-5-azure-open-ai-challenge-document-intelligence-30d5)
 - [Automate Your Workflow With AI](https://dev.to/stan8086/automate-your-workflow-with-ai-5hh6)
-- [THE HISTORY OF AI 2022-24](https://dev.to/mince/the-history-of-ai-2022-24-19d2)
-- [How to use Kubectl Exec Command?](https://dev.to/cicube/how-to-use-kubectl-exec-command-3e4n)
+- [Mastering React Hooks: A Comprehensive Guide for Frontend Developers](https://dev.to/galabeketov/mastering-react-hooks-a-comprehensive-guide-for-frontend-developers-41c3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
