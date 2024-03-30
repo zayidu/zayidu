@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an Effective and User-Friendly Medical Chatbot with OpenAI and CometLLM: A Step-by-Step Guide](https://dev.to/oluseyej/building-an-effective-and-user-friendly-medical-chatbot-with-openai-and-cometllm-a-step-by-step-guide-4e2h)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-1mnc)
+- [March Stripe Developer Digest](https://dev.to/stripe/march-stripe-developer-digest-3ml7)
 - [Annoying Cat Extension](https://dev.to/bwca/annoying-cat-extension-4eaf)
 - [Postman 101 Workshop](https://dev.to/junior33/postman-101-workshop-2off)
-- [Shared Tailwind Setup For Micro Frontend Application with Nx Workspace](https://dev.to/serifcolakel/shared-tailwind-setup-for-micro-frontend-application-with-nx-workspace-3533)
-- [React: About highly customizable components - P1](https://dev.to/theabdolah/react-about-highly-customizable-components-p1-d5l)
-- [The Ultimate Guide to Free Illustration Libraries: A Ranking Extravaganza](https://dev.to/camskithedev/the-ultimate-guide-to-free-illustration-libraries-a-ranking-extravaganza-5eei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
