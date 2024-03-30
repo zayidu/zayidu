@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Summary of the Battery Status API](https://dev.to/desoga/a-summary-of-the-battery-status-api-1hke)
-- [10 Tips for Mastering TypeScript Generics](https://dev.to/mr_mornin_star/10-tips-for-mastering-typescript-generics-1aph)
-- [Dockerizing a Flask application](https://dev.to/felipearcaro/dockerizing-a-flask-application-2e5e)
-- [Schema Extension and Reuse](https://dev.to/shaharke/schema-extension-and-reuse-clc)
-- [The future of Typescript in Production-Grade Applications](https://dev.to/martinpersson/the-future-of-typescript-in-production-grade-applications-lke)
+- [The Fusion of Information Technology and Weather Forecasting](https://dev.to/eyssant/the-fusion-of-information-technology-and-weather-forecasting-36eb)
+- [Git Reflog: Rescuing Lost Work in Git&#39;s Timeline](https://dev.to/pragativerma18/git-reflog-rescuing-lost-work-in-gits-timeline-108c)
+- [Ultimate guide to Secrets in Lambda](https://dev.to/aws-heroes/ultimate-guide-to-secrets-in-lambda-2db7)
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1lf3)
+- [Choosing the Right Container Orchestration Tool: Docker Swarm or Kubernetes?](https://dev.to/nirmal0210/choosing-the-right-container-orchestration-tool-docker-swarm-or-kubernetes-1l92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
