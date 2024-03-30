@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [CORS Error Explained and How to Fix It?](https://dev.to/mvaja13/cors-error-explained-and-how-to-fix-it-12bh)
+- [Latest Newsletter: Eating Glass &lpar;Issue #157&rpar;](https://dev.to/mjgs/latest-newsletter-eating-glass-issue-157-2cb0)
+- [Docker](https://dev.to/gavindang2911/docker-32bk)
+- [What is Project Lombok? Is it still relevant in 2023?](https://dev.to/nilan/what-is-project-lombok-is-it-still-relevant-in-2023-477h)
 - [How Do You Learn New Things When You&#39;re So Busy?](https://dev.to/devteam/how-do-you-learn-new-things-when-youre-so-busy-5efo)
-- [MindMap for revision of DSA in 30 days !! 🎯](https://dev.to/khushindpatel/mindmap-for-revision-of-dsa-in-30-days--16jm)
-- [One Byte Explainer: IndexedDB](https://dev.to/gambhirsharma/one-byte-explainer-indexeddb-40h3)
-- [Dev Coffee](https://dev.to/gambhirsharma/dev-coffee-2c8o)
-- [The Pros and Cons of Routine for Developers](https://dev.to/jahid2121/the-pros-and-cons-of-routine-for-developers-35ck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
