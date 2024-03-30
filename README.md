@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Guide to HashMaps in Rust](https://dev.to/dipankarpaul/comprehensive-guide-to-hashmaps-in-rust-mci)
-- [What&#39;s the biggest problem you are facing in your career right now?](https://dev.to/nandinishinduja/whats-the-biggest-problem-you-are-facing-in-your-career-right-now-38ph)
-- [Stop using swagger-ui only, go with TypeScript SDK](https://dev.to/samchon/stop-using-swagger-ui-only-go-with-typescript-sdk-5fl1)
-- [Resize Observer API](https://dev.to/anedomansky/resize-observer-api-36a3)
-- [Why I Love Programming](https://dev.to/deathblade287/why-i-love-programming-ecc)
+- [🐣 Cracking the Code: Creating an Easter Egg with CSS 🥚](https://dev.to/best_codes/cracking-the-code-creating-an-easter-egg-with-css-28cg)
+- [One Minute: Compose](https://dev.to/gramian/one-minute-compose-lkj)
+- [Constants in C++](https://dev.to/paulike/constants-in-c-3d0b)
+- [bash: No such file or directory](https://dev.to/wajahataliabid/bash-no-such-file-or-directory-n83)
+- [Adding an inline delete action on the listing page](https://dev.to/megatux/adding-an-inline-delete-action-on-the-listing-page-1f95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
