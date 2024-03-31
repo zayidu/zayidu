@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Strategies for Cost Optimization in Container Deployment in AWS](https://dev.to/aws-builders/strategies-for-cost-optimization-in-container-deployment-in-aws-gc8)
-- [React Custom Hook: useDidMountEffect](https://dev.to/seeratawan01/react-custom-hook-usedidmounteffect-86c)
-- [Keep it Silly, Stupid](https://dev.to/moruno21/keep-it-silly-stupid-4hg2)
-- [Bots Invaded My Newsletter. Here&#39;s How I Fought Back with ML ⚔️ 🤖](https://dev.to/hexmos/bots-invaded-my-newsletter-heres-how-i-fought-back-with-ml-1f65)
-- [A guide to distro hopping &lpar;btw i use arch&rpar;](https://dev.to/deathblade287/a-guide-to-distro-hopping-btw-i-use-arch-4391)
+- [Glam Up My Markup Submission &lpar;Interactive Form&rpar;](https://dev.to/hikolakita/glam-up-my-markupsubmission-interactive-form-33i5)
+- [What frontend frameworks do you use?](https://dev.to/nandinishinduja/what-frontend-frameworks-do-you-use-3hkb)
+- [What database do you use?](https://dev.to/nandinishinduja/what-database-do-you-use-3bnp)
+- [Day 12 of 30-Day .NET Challenge: Azure Functions](https://dev.to/ssukhpinder/day-12-of-30-day-net-challenge-azure-functions-32ki)
+- [Elegant and Brown Camp Inquiry Form](https://dev.to/jaloplo/elegant-and-brown-camp-inquiry-form-47no)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
