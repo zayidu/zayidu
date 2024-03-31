@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Keep it Silly, Stupid](https://dev.to/moruno21/keep-it-silly-stupid-4hg2)
+- [Bots Invaded My Newsletter. Here&#39;s How I Fought Back with ML ⚔️ 🤖](https://dev.to/hexmos/bots-invaded-my-newsletter-heres-how-i-fought-back-with-ml-1f65)
+- [A guide to distro hopping &lpar;btw i use arch&rpar;](https://dev.to/deathblade287/a-guide-to-distro-hopping-btw-i-use-arch-4391)
+- [All About APIs! From Basics to Best Practices 💡🚀](https://dev.to/arjuncodess/all-about-apis-from-basics-to-best-practices-3f19)
 - [Celebrating Diversity in Tech: Reflections on we_coded 2024](https://dev.to/devteam/celebrating-diversity-in-tech-reflections-on-wecoded-2024-4bb4)
-- [The Importance of Choosing the Right Framework for Your React Project 🚀](https://dev.to/marmariadev/the-importance-of-choosing-the-right-framework-for-your-react-project-5ebh)
-- [Creating an empty commit in Git](https://dev.to/this-is-learning/creating-an-empty-commit-in-git-2iec)
-- [Glam Up My Markup: Camp Activities](https://dev.to/developersai0021/glam-up-my-markup-camp-activities-1lfc)
-- [What Are AWS Lambda Function URLs And Why You Don’t Need API Gateway](https://dev.to/urielbitton/what-are-aws-lambda-function-urls-and-why-you-dont-need-api-gateway-cmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
