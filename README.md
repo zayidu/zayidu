@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The DevOps Basics 🚀](https://dev.to/tungbq/the-devops-basics-3ecm)
+- [Creating CLI Commands using Argparse in Python](https://dev.to/sachingeek/creating-cli-commands-using-argparse-in-python-1o24)
+- [10 JavaScript Sites Every Web Developer Should Know](https://dev.to/webdev-mohdamir/10-javascript-sites-every-web-developer-should-know-247b)
+- [𝐏𝐫𝐨𝐦𝐢𝐬𝐞.𝐰𝐢𝐭𝐡𝐑𝐞𝐬𝐨𝐥𝐯𝐞𝐫𝐬 - 𝐀 𝐍𝐞𝐰 𝐖𝐚𝐲 𝐭𝐨 𝐂𝐫𝐞𝐚𝐭𝐞 𝐏𝐫𝐨𝐦𝐢𝐬𝐞𝐬 in 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭](https://dev.to/nhannguyendevjs/-in-3ioe)
 - [What Are the Must-Know Software Architectures?](https://dev.to/devteam/what-are-the-must-know-software-architectures-5aai)
-- [Provisioning AWS CloudTrail using Terraform &lpar;Step-by-Step&rpar;](https://dev.to/aws-builders/provisioning-aws-cloudtrail-using-terraform-step-by-step-hn4)
-- [Git: Pull and Fetch, When and Why?](https://dev.to/ajkerrigan/git-pull-and-fetch-when-and-why-1bh1)
-- [Quick tip: Using SingleStore Spark Connector&#39;s Query Pushdown with SingleStore Notebooks](https://dev.to/singlestore/quick-tip-using-singlestore-spark-connectors-query-pushdown-with-singlestore-notebooks-25e6)
-- [[Sparta Coding Club] Backend Week 3 - Today I learned](https://dev.to/ajbaliga28/sparta-coding-club-backend-week-3-today-i-learned-2gd6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
