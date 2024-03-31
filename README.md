@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating GitBadges](https://dev.to/sh20raj/creating-gitbadges-30lg)
+- [Mastering .NET 8 Web API: From Setup to Security - 50 Tips Guide for Developers](https://dev.to/ssukhpinder/mastering-net-8-web-api-from-setup-to-security-50-tips-guide-for-developers-n40)
 - [The DevOps Basics 🚀](https://dev.to/tungbq/the-devops-basics-3ecm)
 - [Creating CLI Commands using Argparse in Python](https://dev.to/sachingeek/creating-cli-commands-using-argparse-in-python-1o24)
 - [10 JavaScript Sites Every Web Developer Should Know](https://dev.to/webdev-mohdamir/10-javascript-sites-every-web-developer-should-know-247b)
-- [𝐏𝐫𝐨𝐦𝐢𝐬𝐞.𝐰𝐢𝐭𝐡𝐑𝐞𝐬𝐨𝐥𝐯𝐞𝐫𝐬 - 𝐀 𝐍𝐞𝐰 𝐖𝐚𝐲 𝐭𝐨 𝐂𝐫𝐞𝐚𝐭𝐞 𝐏𝐫𝐨𝐦𝐢𝐬𝐞𝐬 in 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭](https://dev.to/nhannguyendevjs/-in-3ioe)
-- [What Are the Must-Know Software Architectures?](https://dev.to/devteam/what-are-the-must-know-software-architectures-5aai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
