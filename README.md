@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Glam Up My Markup Submission &lpar;Interactive Form&rpar;](https://dev.to/hikolakita/glam-up-my-markupsubmission-interactive-form-33i5)
-- [What frontend frameworks do you use?](https://dev.to/nandinishinduja/what-frontend-frameworks-do-you-use-3hkb)
-- [What database do you use?](https://dev.to/nandinishinduja/what-database-do-you-use-3bnp)
-- [Day 12 of 30-Day .NET Challenge: Azure Functions](https://dev.to/ssukhpinder/day-12-of-30-day-net-challenge-azure-functions-32ki)
-- [Elegant and Brown Camp Inquiry Form](https://dev.to/jaloplo/elegant-and-brown-camp-inquiry-form-47no)
+- [WebRTC API](https://dev.to/albujuk/webrtc-api-5gl7)
+- [Bridging Code and Security: Unveiling the Power of DevSecOps](https://dev.to/devopsadventurer/bridging-code-and-security-unveiling-the-power-of-devsecops-35kb)
+- [Cloud Tools You Probably Haven&#39;t Heard Of](https://dev.to/jolodev/cloud-tools-you-probably-havent-heard-of-3hc4)
+- [History API - Frontend Challenge](https://dev.to/ssukhpinder/history-api-frontend-challenge-4bl8)
+- [The Best Vscode Snippets for React Typescript + Nextjs + Redux Toolkit](https://dev.to/bhanu1776/the-best-vscode-snippets-for-react-typescript-nextjs-redux-toolkit-5gmm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
