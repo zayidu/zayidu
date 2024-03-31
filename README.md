@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are AWS Lambda Function URLs And Why You Don’t Need API Gateway](https://dev.to/urielbitton/what-are-aws-lambda-function-urls-and-why-you-dont-need-api-gateway-cmp)
+- [Unveiling the xz Utils Backdoor which deliberately opens our SSH connections for RCAs](https://dev.to/jadijadi/unveiling-the-xz-utils-backdoor-a-rca-is-affecting-our-ssh-connections-4l0j)
+- [Yet Another Newsletter LOL: Promises](https://dev.to/nickytonline/yet-another-newsletter-lol-promises-4eof)
+- [QueryX: A Lightweight JavaScript Library for DOM Manipulation](https://dev.to/sh20raj/queryx-a-lightweight-javascript-library-for-dom-manipulation-3hic)
 - [gliJS - Tiny jQuery Alternatives](https://dev.to/sh20raj/glijs-tiny-jquery-alternatives-280e)
-- [MASTER WEB DEV](https://dev.to/mince/master-web-dev-1pj7)
-- [Create React components using CSS Only!! 🚀](https://dev.to/sajidrsk/create-react-components-using-css-only-40m9)
-- [10 Сustom Utility Types for TypeScript Projects](https://dev.to/antonzo/10-sustom-utility-types-for-typescript-projects-48pe)
-- [Beginners guide to AWS EC2](https://dev.to/vivekalhat/beginners-guide-to-aws-ec2-2adk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
