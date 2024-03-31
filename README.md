@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Use Versioning On AWS S3 Buckets To Enable Overwrite Protection Of Your Data](https://dev.to/ubitton/how-to-use-versioning-on-aws-s3-buckets-to-enable-overwrite-protection-of-your-data-200)
+- [Why I Care Deeply About Web Accessibility And You Should Too](https://dev.to/schalkneethling/why-i-care-deeply-about-web-accessibility-and-you-should-too-274a)
+- [From 12th Final Project to an ATM Management System: Leveraging ChatGPT 4 for PDF Analysis](https://dev.to/vikranth3140/from-12th-final-project-to-an-atm-management-system-leveraging-chatgpt-4-for-pdf-analysis-4n0d)
 - [Understanding and Utilizing WordPress Drop-in Plugins](https://dev.to/mikevarenek/understanding-and-utilizing-wordpress-drop-in-plugins-3k2k)
 - [Enhancing Gameplay Integrity with Client-Side Actions and Hashsum Verification in Game Development](https://dev.to/ivan-klimenkov/enhancing-gameplay-integrity-with-client-side-actions-and-hashsum-verification-in-game-development-3hf5)
-- [Las 15 Consultas SQL Desde Lo Más Básico Hasta Lo No Tan Básico](https://dev.to/pamesorioz/las-15-consultas-sql-desde-lo-mas-basico-hasta-lo-no-tan-basico-4kp2)
-- [Nuxt3 limitation on Layers &amp; Modules](https://dev.to/v0id-4lps/nuxt3-limitations-layers-modules-49pn)
-- [WebRTC API](https://dev.to/albujuk/webrtc-api-5gl7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
