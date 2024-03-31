@@ -8,10 +8,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Code Smell 244 - Incomplete Error information](https://dev.to/mcsee/code-smell-244-incomplete-error-information-2bem)
+- [How Rails Powers PopaDex for Simplified Financial Planning](https://dev.to/duartemartins/how-rails-powers-popadex-for-simplified-financial-planning-2j72)
 - [Understanding Natural Language Processing &lpar;NLP&rpar;](https://dev.to/shaheryaryousaf/understanding-natural-language-processing-nlp-48mc)
 - [Mastering CSS Animations and Transition](https://dev.to/clean17/mastering-css-animations-and-transition-4kfj)
 - [The 9 types of Programmers in 2024](https://dev.to/andreyscott/the-9-types-of-programmers-in-2024-294l)
-- [The Crucial Role of Software Quality Assurance Engineering in Ensuring Product Reliability](https://dev.to/talenttinaapi/the-crucial-role-of-software-quality-assurance-engineering-in-ensuring-product-reliability-31h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
