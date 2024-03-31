@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [A Junior DevOps Engr should be an ex-IT Operations Engineer or SysAdmin](https://dev.to/stanleyogada/a-junior-devops-engr-should-be-an-ex-it-operations-engineer-or-sysadmin-324g)
+- [Implementing SSO in React with GitHub OAuth2](https://dev.to/srssh/implementing-sso-in-react-with-github-oauth2-35c1)
+- [Getting the Outreachy Internship](https://dev.to/idadelveloper/getting-the-outreachy-internship-2mda)
 - [How To Use Versioning On AWS S3 Buckets To Enable Overwrite Protection Of Your Data](https://dev.to/ubitton/how-to-use-versioning-on-aws-s3-buckets-to-enable-overwrite-protection-of-your-data-200)
 - [Why I Care Deeply About Web Accessibility And You Should Too](https://dev.to/schalkneethling/why-i-care-deeply-about-web-accessibility-and-you-should-too-274a)
-- [From 12th Final Project to an ATM Management System: Leveraging ChatGPT 4 for PDF Analysis](https://dev.to/vikranth3140/from-12th-final-project-to-an-atm-management-system-leveraging-chatgpt-4-for-pdf-analysis-4n0d)
-- [Understanding and Utilizing WordPress Drop-in Plugins](https://dev.to/mikevarenek/understanding-and-utilizing-wordpress-drop-in-plugins-3k2k)
-- [Enhancing Gameplay Integrity with Client-Side Actions and Hashsum Verification in Game Development](https://dev.to/ivan-klimenkov/enhancing-gameplay-integrity-with-client-side-actions-and-hashsum-verification-in-game-development-3hf5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
