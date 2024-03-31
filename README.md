@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Celebrating Diversity in Tech: Reflections on we_coded 2024](https://dev.to/devteam/celebrating-diversity-in-tech-reflections-on-wecoded-2024-4bb4)
+- [The Importance of Choosing the Right Framework for Your React Project 🚀](https://dev.to/marmariadev/the-importance-of-choosing-the-right-framework-for-your-react-project-5ebh)
+- [Creating an empty commit in Git](https://dev.to/this-is-learning/creating-an-empty-commit-in-git-2iec)
+- [Glam Up My Markup: Camp Activities](https://dev.to/developersai0021/glam-up-my-markup-camp-activities-1lfc)
 - [What Are AWS Lambda Function URLs And Why You Don’t Need API Gateway](https://dev.to/urielbitton/what-are-aws-lambda-function-urls-and-why-you-dont-need-api-gateway-cmp)
-- [Unveiling the xz Utils Backdoor which deliberately opens our SSH connections for RCAs](https://dev.to/jadijadi/unveiling-the-xz-utils-backdoor-a-rca-is-affecting-our-ssh-connections-4l0j)
-- [Yet Another Newsletter LOL: Promises](https://dev.to/nickytonline/yet-another-newsletter-lol-promises-4eof)
-- [QueryX: A Lightweight JavaScript Library for DOM Manipulation](https://dev.to/sh20raj/queryx-a-lightweight-javascript-library-for-dom-manipulation-3hic)
-- [gliJS - Tiny jQuery Alternatives](https://dev.to/sh20raj/glijs-tiny-jquery-alternatives-280e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
