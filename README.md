@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 244 - Incomplete Error information](https://dev.to/mcsee/code-smell-244-incomplete-error-information-2bem)
-- [How Rails Powers PopaDex for Simplified Financial Planning](https://dev.to/duartemartins/how-rails-powers-popadex-for-simplified-financial-planning-2j72)
-- [Understanding Natural Language Processing &lpar;NLP&rpar;](https://dev.to/shaheryaryousaf/understanding-natural-language-processing-nlp-48mc)
-- [Mastering CSS Animations and Transition](https://dev.to/clean17/mastering-css-animations-and-transition-4kfj)
-- [The 9 types of Programmers in 2024](https://dev.to/andreyscott/the-9-types-of-programmers-in-2024-294l)
+- [Provisioning AWS CloudTrail using Terraform &lpar;Step-by-Step&rpar;](https://dev.to/aws-builders/provisioning-aws-cloudtrail-using-terraform-step-by-step-hn4)
+- [Git: Pull and Fetch, When and Why?](https://dev.to/ajkerrigan/git-pull-and-fetch-when-and-why-1bh1)
+- [Quick tip: Using SingleStore Spark Connector&#39;s Query Pushdown with SingleStore Notebooks](https://dev.to/singlestore/quick-tip-using-singlestore-spark-connectors-query-pushdown-with-singlestore-notebooks-25e6)
+- [[Sparta Coding Club] Backend Week 3 - Today I learned](https://dev.to/ajbaliga28/sparta-coding-club-backend-week-3-today-i-learned-2gd6)
+- [Github Terms and What they mean ?](https://dev.to/justinw7/github-terms-and-what-they-mean--1mon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
