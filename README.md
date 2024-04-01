@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Autopreenchimento de campos no FilamentPHP usando API](https://dev.to/adryannekelly/autopreenchimento-de-campos-no-filamentphp-usando-api-3i2)
-- [Completed 10 Days of Getting an High Paying Job](https://dev.to/jay818/completed-10-days-of-getting-an-high-paying-job-2na7)
-- [Beyond HTML, CSS, and JavaScript: What&#39;s Next in Your Web Development Journey?](https://dev.to/igbojionu/beyond-html-css-and-javascript-whats-next-in-your-web-development-journey-3fo8)
-- [List Data Structure in 5 mins - Python](https://dev.to/bellatrix/data-structures-list-12e5)
-- [Majoriano](https://dev.to/aurora_2024/majoriano-5o3)
+- [Programming vs Web Development](https://dev.to/emmanuelbinen/programming-vs-web-development-3c17)
+- [Virtual Threads em Java - O Java que voa!](https://dev.to/kauegatto/virtual-threads-em-java-o-java-que-voa-1j0k)
+- [Dynamic breadcrumbs in Next.js using the app router](https://dev.to/gcascio/dynamic-breadcrumbs-in-nextjs-using-the-app-router-13i4)
+- [Play with time on Vlang](https://dev.to/medlabs/play-with-time-on-vlang-1ami)
+- [Top 7 Featured DEV Posts of the Week, No Joke 😜](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-no-joke-5277)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
