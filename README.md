@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving 1% everyday &lpar;#1PercentPlusPlus&rpar;](https://dev.to/vishalmx3/improving-1-everyday-1percentplusplus-2dp)
-- [Meme Monday](https://dev.to/ben/meme-monday-1oij)
-- [Do a barrel roll](https://dev.to/youngfra/do-a-barrel-roll-3n2p)
-- [Introducing some awful new DEV tags](https://dev.to/ben/introducing-some-awful-new-dev-tags-ne1)
-- [Step Into the Spotlight: Join Our Public Speaking Monthly Challenge!](https://dev.to/virtualcoffee/step-into-the-spotlight-join-our-public-speaking-monthly-challenge-52kl)
+- [JavaScript Primitive Data Types](https://dev.to/imashwani/javascript-primitive-data-types-1l5)
+- [Gatsby vs Next.js vs Remix: Which to Choose?](https://dev.to/marmariadev/gatsby-vs-nextjs-vs-remix-which-to-choose-3fdn)
+- [Embracing the Fun: Share Your Favorite Tech April Fools&#39;!](https://dev.to/link2twenty/embracing-the-fun-share-your-favorite-tech-april-fools-3nnm)
+- [How to Handle N+1 Queries for Optimal Database Performance in Django?](https://dev.to/pragativerma18/how-to-handle-n1-queries-for-optimal-database-performance-in-django-37ko)
+- [JavaScript Basic Coding Challenges for Beginners Part-1](https://dev.to/adilrasheed/javascript-basic-coding-challenges-for-beginners-292f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
