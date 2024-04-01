@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Interview with Colin Lienard, Founder of GitLight](https://dev.to/crabnebula/interview-with-colin-lienard-founder-of-gitlight-f4e)
+- [Hoppscotch v2024.3.0: Access Control, Variable Scopes and more..](https://dev.to/hoppscotch/hoppscotch-v202430-access-control-variable-scopes-and-more-2h21)
+- [What is MQTT Protocol?](https://dev.to/jitendrachoudhary/what-is-mqtt-protocol-2l7a)
+- [Sh&#39;s Piano 🎹 - Piano made using JavaScript and CSS](https://dev.to/sh20raj/shs-piano-piano-made-using-javascript-and-css-104)
 - [What&#39;s Your Favorite Productivity Tool?](https://dev.to/devteam/whats-your-favorite-productivity-tool-1d9)
-- [Power Platform - DLP Policies](https://dev.to/wyattdave/power-platform-dlp-policies-5go2)
-- [LUX: Toolkit for Smart Data Exploration](https://dev.to/balagmadhu/lux-toolkit-for-smart-data-exploration-1k03)
-- [Boost Your Medium Visibility: 12 Essential Tips for Writers](https://dev.to/ssukhpinder/boost-your-medium-visibility-12-essential-tips-for-writers-2883)
-- [Liman MYS Cihaz Yönetimi Eklentisi ile Kurulu Paketlerin Versiyonunu Öğrenme](https://dev.to/aciklab/liman-mys-cihaz-yonetimi-eklentisi-ile-kurulu-paketlerin-versiyonunu-ogrenme-59c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
