@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to restrict default access to KMS via key policy with Terraform](https://dev.to/aws-builders/how-to-restrict-default-access-to-kms-via-key-policy-with-terraform-3lc1)
 - [A Junior DevOps Engr should be an ex-IT Operations Engineer or SysAdmin](https://dev.to/stanleyogada/a-junior-devops-engr-should-be-an-ex-it-operations-engineer-or-sysadmin-324g)
 - [Implementing SSO in React with GitHub OAuth2](https://dev.to/srssh/implementing-sso-in-react-with-github-oauth2-35c1)
-- [Getting the Outreachy Internship](https://dev.to/idadelveloper/getting-the-outreachy-internship-2mda)
-- [How To Use Versioning On AWS S3 Buckets To Enable Overwrite Protection Of Your Data](https://dev.to/ubitton/how-to-use-versioning-on-aws-s3-buckets-to-enable-overwrite-protection-of-your-data-200)
-- [Why I Care Deeply About Web Accessibility And You Should Too](https://dev.to/schalkneethling/why-i-care-deeply-about-web-accessibility-and-you-should-too-274a)
+- [The Frontend Challenge: Glammed Up Camp Activities](https://dev.to/rafajrg21/the-frontend-challenge-glammed-up-camp-activities-3j6j)
+- [Sundae: CSS Art Challenge](https://dev.to/aneeqakhan/sundae-css-art-323o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
