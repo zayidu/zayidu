@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🇫🇷 Peter Thiel: Les monopoles sont bons pour la société](https://dev.to/jmfayard/peter-thiel-les-monopoles-sont-bons-pour-la-societe-3fi0)
+- [Embedded Rust Bluetooth on ESP: BLE Client](https://dev.to/apollolabsbin/embedded-rust-bluetooth-on-esp-ble-client-n1f)
+- [How to Split Attributes of Same Type in One Row and Convert Them into Multiple Rows](https://dev.to/esproc_spl/how-to-split-attributes-of-same-type-in-one-row-and-convert-them-into-multiple-rows-172f)
+- [HostAttributeToken - Injection token of static host attribute in Angular](https://dev.to/railsstudent/hostattributetoken-injection-token-of-static-host-attribute-in-angular-302h)
 - [Interview with Colin Lienard, Founder of GitLight](https://dev.to/crabnebula/interview-with-colin-lienard-founder-of-gitlight-f4e)
-- [Hoppscotch v2024.3.0: Access Control, Variable Scopes and more..](https://dev.to/hoppscotch/hoppscotch-v202430-access-control-variable-scopes-and-more-2h21)
-- [What is MQTT Protocol?](https://dev.to/jitendrachoudhary/what-is-mqtt-protocol-2l7a)
-- [Sh&#39;s Piano 🎹 - Piano made using JavaScript and CSS](https://dev.to/sh20raj/shs-piano-piano-made-using-javascript-and-css-104)
-- [What&#39;s Your Favorite Productivity Tool?](https://dev.to/devteam/whats-your-favorite-productivity-tool-1d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
