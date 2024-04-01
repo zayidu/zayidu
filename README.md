@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5g8l)
-- [Cihaz Yönetimi Eklentisi ile Debian ve RPM Sistemlerde xz versiyonu Öğrenme ve Raporlama](https://dev.to/aciklab/cihaz-yonetimi-eklentisi-ile-debian-ve-rpm-sistemlerde-xz-versiyonu-ogrenme-ve-raporlama-20e4)
-- [Worker Threads in JavaScript for Parallel Processing](https://dev.to/sh20raj/worker-threads-in-javascript-for-parallel-processing-2hl7)
-- [Iterate over an array in JavaScript](https://dev.to/sh20raj/iterate-over-an-array-in-javascript-35mg)
-- [What is Cosine Similarity?](https://dev.to/richardshaju/what-is-cosine-similarity-1e04)
+- [🔥 Mastering Java Concurrency: Dive into Part 1! 🚀](https://dev.to/mjsf1234/mastering-java-concurrency-dive-into-part-1-291h)
+- [Understanding Agile Methodologies for Effective Development](https://dev.to/surajondev/understanding-agile-methodologies-for-effective-development-339g)
+- [Collaborative Note-Taking with AI: Tools that Facilitate Teamwork and Knowledge Sharing](https://dev.to/charudatta10/collaborative-note-taking-with-ai-tools-that-facilitate-teamwork-and-knowledge-sharing-2i3p)
+- [The Ultimate Guide To Firebase Cloud Messaging &lpar;FCM&rpar;](https://dev.to/novu/the-ultimate-guide-to-firebase-cloud-messaging-fcm-4e8)
+- [Evolution of Ad Attribution Models with AI: Insights for Developers](https://dev.to/andrewupton/evolution-of-ad-attribution-models-with-ai-insights-for-developers-13h1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
