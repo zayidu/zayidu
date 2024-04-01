@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🇫🇷 Peter Thiel: Les monopoles sont bons pour la société](https://dev.to/jmfayard/peter-thiel-les-monopoles-sont-bons-pour-la-societe-3fi0)
-- [Embedded Rust Bluetooth on ESP: BLE Client](https://dev.to/apollolabsbin/embedded-rust-bluetooth-on-esp-ble-client-n1f)
-- [How to Split Attributes of Same Type in One Row and Convert Them into Multiple Rows](https://dev.to/esproc_spl/how-to-split-attributes-of-same-type-in-one-row-and-convert-them-into-multiple-rows-172f)
-- [HostAttributeToken - Injection token of static host attribute in Angular](https://dev.to/railsstudent/hostattributetoken-injection-token-of-static-host-attribute-in-angular-302h)
-- [Interview with Colin Lienard, Founder of GitLight](https://dev.to/crabnebula/interview-with-colin-lienard-founder-of-gitlight-f4e)
+- [Best Practices of API Degradation in API Gateway](https://dev.to/apisix/best-practices-of-api-degradation-in-api-gateway-4iab)
+- [Weekly Roundup 046 &lpar;Mar 25&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-046-mar-25-hot-topics-in-workplace-sharepoint-and-powerplatform-57ha)
+- [Hong Kong Web3 Festival - Before start](https://dev.to/danc/hong-kong-web3-festival-before-start-4nid)
+- [Managing JDKs on native Windows &lpar;not WSL&rpar;](https://dev.to/aooohan/managing-jdks-on-native-windows-not-wsl-eb4)
+- [Blogger Journey: From Pen to Publish](https://dev.to/c-sharp-programming/blogger-journey-from-pen-to-publish-15n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
