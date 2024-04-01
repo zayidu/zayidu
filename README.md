@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s Your Favorite Productivity Tool?](https://dev.to/devteam/whats-your-favorite-productivity-tool-1d9)
+- [Power Platform - DLP Policies](https://dev.to/wyattdave/power-platform-dlp-policies-5go2)
+- [LUX: Toolkit for Smart Data Exploration](https://dev.to/balagmadhu/lux-toolkit-for-smart-data-exploration-1k03)
 - [Boost Your Medium Visibility: 12 Essential Tips for Writers](https://dev.to/ssukhpinder/boost-your-medium-visibility-12-essential-tips-for-writers-2883)
 - [Liman MYS Cihaz Yönetimi Eklentisi ile Kurulu Paketlerin Versiyonunu Öğrenme](https://dev.to/aciklab/liman-mys-cihaz-yonetimi-eklentisi-ile-kurulu-paketlerin-versiyonunu-ogrenme-59c9)
-- [Git Conflict Guide 🚀](https://dev.to/sh20raj/git-conflict-guide-4jad)
-- [New Azure AI tools to help operationalize Responsible AI for generative AI apps!](https://dev.to/azure/new-azure-ai-tools-to-help-operationalize-responsible-ai-for-generative-ai-apps-11ig)
-- [Deploying a Django site on AWS Elastic Beanstalk](https://dev.to/aws-builders/deploying-a-django-site-on-aws-elastic-beanstalk-225b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
