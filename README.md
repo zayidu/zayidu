@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Podcast Palooza— What are you listening to? &lpar;DnD Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-dnd-edition-3p1f)
+- [O que é uma Memória RAM ECC? Para que serve e quando usar?](https://dev.to/marcodev/o-que-e-uma-memoria-ram-ecc-para-que-serve-e-quando-usar-iam)
 - [I built an open-source tool that helps add usage-based billing for your LLM projects](https://dev.to/donfour/i-built-an-open-source-tool-that-helps-add-usage-based-billing-for-your-llm-projects-4f56)
 - [Simplify Database Migrations using Python with Alembic](https://dev.to/r0mymendez/simplify-database-migrations-using-python-with-alembic-4bhd)
 - [Some great new posts from new authors in March 💞](https://dev.to/jess/some-great-new-posts-from-new-authors-in-march-4a0g)
-- [Use your own neural net to generate images](https://dev.to/mellen/use-your-own-neural-net-to-generate-images-41i4)
-- [Music Monday — What are you listening to? &lpar;Covers Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-covers-edition-3aj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
