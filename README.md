@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Improving 1% everyday &lpar;#1PercentPlusPlus&rpar;](https://dev.to/vishalmx3/improving-1-everyday-1percentplusplus-2dp)
 - [Meme Monday](https://dev.to/ben/meme-monday-1oij)
 - [Do a barrel roll](https://dev.to/youngfra/do-a-barrel-roll-3n2p)
 - [Introducing some awful new DEV tags](https://dev.to/ben/introducing-some-awful-new-dev-tags-ne1)
-- [3 Manifestations of GenAI in Software Development](https://dev.to/maximsaplin/3-manifestations-of-genai-in-software-development-3j3c)
-- [🔥 Mastering Java Concurrency: Dive into Part 1! 🚀](https://dev.to/mjsf1234/mastering-java-concurrency-dive-into-part-1-291h)
+- [Step Into the Spotlight: Join Our Public Speaking Monthly Challenge!](https://dev.to/virtualcoffee/step-into-the-spotlight-join-our-public-speaking-monthly-challenge-52kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
