@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming vs Web Development](https://dev.to/emmanuelbinen/programming-vs-web-development-3c17)
-- [Virtual Threads em Java - O Java que voa!](https://dev.to/kauegatto/virtual-threads-em-java-o-java-que-voa-1j0k)
-- [Dynamic breadcrumbs in Next.js using the app router](https://dev.to/gcascio/dynamic-breadcrumbs-in-nextjs-using-the-app-router-13i4)
-- [Play with time on Vlang](https://dev.to/medlabs/play-with-time-on-vlang-1ami)
-- [Top 7 Featured DEV Posts of the Week, No Joke 😜](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-no-joke-5277)
+- [I built an open-source tool that helps add usage-based billing for your LLM projects](https://dev.to/donfour/i-built-an-open-source-tool-that-helps-add-usage-based-billing-for-your-llm-projects-4f56)
+- [Simplify Database Migrations using Python with Alembic](https://dev.to/r0mymendez/simplify-database-migrations-using-python-with-alembic-4bhd)
+- [Some great new posts from new authors in March 💞](https://dev.to/jess/some-great-new-posts-from-new-authors-in-march-4a0g)
+- [Use your own neural net to generate images](https://dev.to/mellen/use-your-own-neural-net-to-generate-images-41i4)
+- [Music Monday — What are you listening to? &lpar;Covers Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-covers-edition-3aj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
