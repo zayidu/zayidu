@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS EC2 Instances Types &lpar;all you need to know&rpar;](https://dev.to/aws-builders/aws-ec2-instances-types-all-you-need-to-know-3ndn)
-- [BlurryImageLoader: A JavaScript Library for Beautiful Image Loading Effects ✨](https://dev.to/sh20raj/introducing-blurryimageloader-a-javascript-library-for-beautiful-image-loading-effects-391c)
-- [Exploring API Governance Strategies with Apache APISIX](https://dev.to/apisix/exploring-api-governance-strategies-with-apache-apisix-2nf4)
-- [How to restrict default access to KMS via key policy with Terraform](https://dev.to/aws-builders/how-to-restrict-default-access-to-kms-via-key-policy-with-terraform-3lc1)
-- [How to restrict default access to KMS via key policy](https://dev.to/aws-builders/how-to-restrict-default-access-to-kms-via-key-policy-28gc)
+- [Boost Your Medium Visibility: 12 Essential Tips for Writers](https://dev.to/ssukhpinder/boost-your-medium-visibility-12-essential-tips-for-writers-2883)
+- [Liman MYS Cihaz Yönetimi Eklentisi ile Kurulu Paketlerin Versiyonunu Öğrenme](https://dev.to/aciklab/liman-mys-cihaz-yonetimi-eklentisi-ile-kurulu-paketlerin-versiyonunu-ogrenme-59c9)
+- [Git Conflict Guide 🚀](https://dev.to/sh20raj/git-conflict-guide-4jad)
+- [New Azure AI tools to help operationalize Responsible AI for generative AI apps!](https://dev.to/azure/new-azure-ai-tools-to-help-operationalize-responsible-ai-for-generative-ai-apps-11ig)
+- [Deploying a Django site on AWS Elastic Beanstalk](https://dev.to/aws-builders/deploying-a-django-site-on-aws-elastic-beanstalk-225b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
