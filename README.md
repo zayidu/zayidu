@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WebRTC in Just One Byte](https://dev.to/codewithtee/webrtc-in-just-one-byte-25l6)
-- [Must know blockchain Terminologies.](https://dev.to/csituma/must-know-blockchain-terminologies-5295)
-- [FLaNK AI - 01 April 2024](https://dev.to/tspannhw/flank-ai-01-april-2024-17o0)
-- [Execute .dmg &lpar;Mac&rpar; and .exe &lpar;Windows&rpar; Files Using Terminal](https://dev.to/sh20raj/execute-dmg-mac-and-exe-windows-files-using-terminal-4np9)
-- [📎 Extending #SemanticKernel using OllamaSharp for chat and text completion](https://dev.to/azure/extending-semantickernel-using-ollamasharp-for-chat-and-text-completion-4m10)
+- [Autopreenchimento de campos no FilamentPHP usando API](https://dev.to/adryannekelly/autopreenchimento-de-campos-no-filamentphp-usando-api-3i2)
+- [Completed 10 Days of Getting an High Paying Job](https://dev.to/jay818/completed-10-days-of-getting-an-high-paying-job-2na7)
+- [Beyond HTML, CSS, and JavaScript: What&#39;s Next in Your Web Development Journey?](https://dev.to/igbojionu/beyond-html-css-and-javascript-whats-next-in-your-web-development-journey-3fo8)
+- [List Data Structure in 5 mins - Python](https://dev.to/bellatrix/data-structures-list-12e5)
+- [Majoriano](https://dev.to/aurora_2024/majoriano-5o3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
