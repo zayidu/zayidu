@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Debunking Common Frontend Development Myths: A Guide to Reality](https://dev.to/ale3oula/debunking-common-frontend-development-myths-a-guide-to-reality-4jf4)
+- [I MADE AN AI MOVIE](https://dev.to/mince/i-made-an-ai-movie-2e3d)
+- [Exploring the Synergy of Web NFC Integration with React: An In-Depth Technical Analysis](https://dev.to/rohit1415/exploring-the-synergy-of-web-nfc-integration-with-react-an-in-depth-technical-analysis-46jc)
 - [A Complete Guide to Terraform Cloud Pricing](https://dev.to/env0/a-complete-guide-to-terraform-cloud-pricing-mn7)
 - [&quot;I Forgot my Linux root Password!!😥&quot; DO THIS!! Resetting the Root Password](https://dev.to/whoame3f/i-forgot-my-linux-root-password-do-this-resetting-the-root-password-1i22)
-- [The HTTP Status Codes CheatSheet [SAVE IT!] 📜✨](https://dev.to/arjuncodess/the-http-status-codes-cheatsheet-save-it-1am5)
-- [Introducing Mantelo - The Best Keycloak Admin Client for Python](https://dev.to/derlin/introducing-mantelo-the-best-keycloak-admin-client-for-python-347m)
-- [What Junior Devs Get Wrong](https://dev.to/wasp/what-junior-devs-get-wrong-an8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
