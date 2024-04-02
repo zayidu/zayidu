@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Node js and Express in 30 days &lpar;Day 1&rpar;](https://dev.to/ikechukwu411/exploring-node-js-and-express-in-30-days-day-1-4f8b)
-- [Difference between Microservices vs Monolithic Applications for System Design Interview](https://dev.to/somadevtoo/difference-between-microservices-vs-monolithic-applications-for-system-design-interview-2lb5)
-- [Make Yourself Expendable](https://dev.to/keep_calm_and_code_on/make-yourself-expendable-292l)
-- [Mastering Component Lifecycles: A Deep Dive into Angular and React Hooks](https://dev.to/chintanonweb/mastering-component-lifecycles-a-deep-dive-into-angular-and-react-hooks-3bc0)
-- [LeetCode Meditations: Reverse Linked List](https://dev.to/rivea0/leetcode-meditations-reverse-linked-list-bjh)
+- [What Junior Devs Get Wrong](https://dev.to/wasp/what-junior-devs-get-wrong-an8)
+- [Git Vs GitHub: What&#39;s the Difference?](https://dev.to/annoh_karlgusta/git-vs-github-whats-the-difference-4cj)
+- [Form and Function: How I Lost My Submit Button &amp; Got It Back](https://dev.to/opensauced/form-and-function-how-i-lost-my-submit-button-got-it-back-5b91)
+- [WEB - A BLANK CANVAS](https://dev.to/mince/web-a-blank-canvas-2egb)
+- [MVC Sucks, and We Should Learn from It](https://dev.to/aymanepraxe/mvc-sucks-and-we-should-learn-from-it-4j6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
