@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [A Complete Guide to Terraform Cloud Pricing](https://dev.to/env0/a-complete-guide-to-terraform-cloud-pricing-mn7)
+- [&quot;I Forgot my Linux root Password!!😥&quot; DO THIS!! Resetting the Root Password](https://dev.to/whoame3f/i-forgot-my-linux-root-password-do-this-resetting-the-root-password-1i22)
+- [The HTTP Status Codes CheatSheet [SAVE IT!] 📜✨](https://dev.to/arjuncodess/the-http-status-codes-cheatsheet-save-it-1am5)
+- [Introducing Mantelo - The Best Keycloak Admin Client for Python](https://dev.to/derlin/introducing-mantelo-the-best-keycloak-admin-client-for-python-347m)
 - [What Junior Devs Get Wrong](https://dev.to/wasp/what-junior-devs-get-wrong-an8)
-- [Git Vs GitHub: What&#39;s the Difference?](https://dev.to/annoh_karlgusta/git-vs-github-whats-the-difference-4cj)
-- [Form and Function: How I Lost My Submit Button &amp; Got It Back](https://dev.to/opensauced/form-and-function-how-i-lost-my-submit-button-got-it-back-5b91)
-- [WEB - A BLANK CANVAS](https://dev.to/mince/web-a-blank-canvas-2egb)
-- [MVC Sucks, and We Should Learn from It](https://dev.to/aymanepraxe/mvc-sucks-and-we-should-learn-from-it-4j6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
