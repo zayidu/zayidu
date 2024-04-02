@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Box Model Breakdown](https://dev.to/devcanvas_/css-box-model-breakdown-hfj)
-- [Creating your own UI extension points in Umbraco v14 - Part 1: The Basics](https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-1-the-basics-568h)
-- [Simplifying Imports with TypeScript Path Aliases in Umbraco v14](https://dev.to/mattbrailsford/simplifying-imports-with-typescript-path-aliases-in-umbraco-v14-301g)
-- [9 Top AI Search Engines for Developers in 2024:](https://dev.to/jahan/9-top-ai-search-engines-for-developers-in-2024-4fdi)
-- [WebP Image Optimisation + BlurHash with Sharp in NodeJS](https://dev.to/kieronjmckenna/webp-image-optimisation-blurhash-with-sharp-in-nodejs-f8f)
+- [Time Series Blob Data: ReductStore vs. TimescaleDB](https://dev.to/reductstore/time-series-blob-data-reductstore-vs-timescaledb-2djk)
+- [Exploring UI/UX Design Principles: A Simple Guide](https://dev.to/emmanuelhills/exploring-uiux-design-principles-a-simple-guide-pl2)
+- [Mastering File and Folder Permissions in Laravel Applications](https://dev.to/imranpollob/mastering-file-and-folder-permissions-in-laravel-applications-4imm)
+- [Reading request body multiple times in Java/Spring Boot](https://dev.to/cynavi/reading-request-body-multiple-times-in-javaspring-boot-1j53)
+- [Understanding Go: part 8 – Map](https://dev.to/aurelievache/understanding-go-part-8-map-4h16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
