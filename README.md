@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Space, life, and feelings I cannot explain](https://dev.to/lnahrf/space-life-and-feelings-i-cannot-explain-eg1)
 - [How to set up a server with Vultr](https://dev.to/serverauth/how-to-set-up-a-server-with-vultr-2m74)
 - [Is creativity inversely proportional to discipline?](https://dev.to/shreyvijayvargiya/is-creativity-inversely-proportional-to-discipline-36mj)
 - [Understanding Angular&#39;s Dependency Injection](https://dev.to/sanjayms/understanding-angulars-dependency-injection-433e)
 - [CS50 - Week 0](https://dev.to/udilbar/cs50-week-0-4eo0)
-- [Unveiling the Truth about &quot;Fast&quot; Software Development: Why a Deliberate Approach Wins the Race](https://dev.to/peterm/unveiling-the-truth-about-fast-software-development-why-a-deliberate-approach-wins-the-race-3dn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
