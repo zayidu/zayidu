@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reference Type and Value Type in Swift](https://dev.to/saeedrz/reference-type-and-value-type-in-swift-863)
-- [Adding a canonical url to dev.to posts &lpar;in basic markdown editor&rpar;](https://dev.to/antweiss/adding-a-canonical-url-to-devto-posts-in-basic-markdown-editor-1enn)
-- [How to use fly.io and Tigris to deploy a Next.js app](https://dev.to/andrewbaisden/how-to-use-flyio-and-tigris-to-deploy-a-nextjs-app-1068)
-- [5 Ways to Become a Better Developer](https://dev.to/madhusaini22/5-ways-to-become-a-better-developer-33pp)
-- [Enclave Games Monthly Report: March 2024](https://dev.to/end3r/enclave-games-monthly-report-march-2024-4il8)
+- [Google Gemini Free API](https://dev.to/sh20raj/google-gemini-free-api-269o)
+- [Svelte for Beginners: Easy Guide](https://dev.to/codeparrot/svelte-for-beginners-easy-guide-3fam)
+- [What I have in my portfolio 😎](https://dev.to/locnguyenpv/what-i-have-in-my-portfolio-44bd)
+- [10 Tips to Maximize Productivity in Tailwind CSS](https://dev.to/mario130/10-tips-to-maximize-productivity-in-tailwind-css-1eep)
+- [Building a dynamic Canvas rendering engine using JSX](https://dev.to/aha/building-a-dynamic-canvas-rendering-engine-using-jsx-3237)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
