@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Box Model Breakdown](https://dev.to/devcanvas_/css-box-model-breakdown-hfj)
+- [Creating your own UI extension points in Umbraco v14 - Part 1: The Basics](https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-1-the-basics-568h)
+- [Simplifying Imports with TypeScript Path Aliases in Umbraco v14](https://dev.to/mattbrailsford/simplifying-imports-with-typescript-path-aliases-in-umbraco-v14-301g)
 - [9 Top AI Search Engines for Developers in 2024:](https://dev.to/jahan/9-top-ai-search-engines-for-developers-in-2024-4fdi)
-- [How to make a clock using html , JavaScript and CSS and deploy it using firebase](https://dev.to/dino2328/how-to-make-a-clock-using-html-javascript-and-css-and-deploy-it-using-firebase-1el2)
-- [Handling internalisation &lpar;I18N&rpar; in Vue](https://dev.to/jacobandrewsky/handling-internalisation-i18n-in-vue-2nof)
-- [JavaScript Data Types](https://dev.to/imashwani/javascript-data-types-189g)
-- [JavaScript Non-Primitive Data Types](https://dev.to/imashwani/javascript-non-primitive-data-types-2mjp)
+- [WebP Image Optimisation + BlurHash with Sharp in NodeJS](https://dev.to/kieronjmckenna/webp-image-optimisation-blurhash-with-sharp-in-nodejs-f8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
