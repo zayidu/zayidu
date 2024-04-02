@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Deep Face Detection Model with Python and TensorFlow &lpar;Part 3&rpar;](https://dev.to/dexterxt/building-a-deep-face-detection-model-with-python-and-tensorflow-part-3-515n)
-- [Congrats to our Frontend Challenge Winners!](https://dev.to/devteam/congrats-to-our-frontend-challenge-winners-2h5f)
-- [Do you read books? Recommend one! 📚](https://dev.to/devonremote/do-you-read-books-1no5)
-- [What Does Tech Mean?](https://dev.to/scofieldidehen/what-does-tech-mean-1kbh)
-- [Let Us Code](https://dev.to/kaydacode/let-us-code-1ph5)
+- [How to set up a server with Vultr](https://dev.to/serverauth/how-to-set-up-a-server-with-vultr-2m74)
+- [Is creativity inversely proportional to discipline?](https://dev.to/shreyvijayvargiya/is-creativity-inversely-proportional-to-discipline-36mj)
+- [Understanding Angular&#39;s Dependency Injection](https://dev.to/sanjayms/understanding-angulars-dependency-injection-433e)
+- [CS50 - Week 0](https://dev.to/udilbar/cs50-week-0-4eo0)
+- [Unveiling the Truth about &quot;Fast&quot; Software Development: Why a Deliberate Approach Wins the Race](https://dev.to/peterm/unveiling-the-truth-about-fast-software-development-why-a-deliberate-approach-wins-the-race-3dn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
