@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing end-to-end encryption &lpar;E2EE&rpar; to a Planning Poker game](https://dev.to/qwikens/implementing-end-to-end-encryption-e2ee-to-a-planning-poker-game-1hoi)
+- [I built a top-tier Discord server for Open Source.](https://dev.to/glasskube/i-built-a-top-tier-discord-server-for-open-source-p25)
 - [Debunking Common Frontend Development Myths: A Guide to Reality](https://dev.to/ale3oula/debunking-common-frontend-development-myths-a-guide-to-reality-4jf4)
 - [I MADE AN AI MOVIE](https://dev.to/mince/i-made-an-ai-movie-2e3d)
 - [Exploring the Synergy of Web NFC Integration with React: An In-Depth Technical Analysis](https://dev.to/rohit1415/exploring-the-synergy-of-web-nfc-integration-with-react-an-in-depth-technical-analysis-46jc)
-- [A Complete Guide to Terraform Cloud Pricing](https://dev.to/env0/a-complete-guide-to-terraform-cloud-pricing-mn7)
-- [&quot;I Forgot my Linux root Password!!😥&quot; DO THIS!! Resetting the Root Password](https://dev.to/whoame3f/i-forgot-my-linux-root-password-do-this-resetting-the-root-password-1i22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
