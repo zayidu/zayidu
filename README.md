@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Loops in Lua](https://dev.to/tlayach/understanding-loops-in-lua-m9i)
+- [Docusaurus doesn&#39;t recognize brackets {} on the markdown files](https://dev.to/bass/docusaurus-doesnt-recognize-brackets-on-the-markdown-files-4hmg)
+- [Pros and Cons of Ubuntu: Exploring Advantages and Disadvantages of the Linux Operating System](https://dev.to/regoanac/pros-and-cons-of-ubuntu-exploring-advantages-and-disadvantages-of-the-linux-operating-system-2a4m)
 - [Podcast Palooza— What are you listening to? &lpar;DnD Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-dnd-edition-3p1f)
-- [O que é uma Memória RAM ECC? Para que serve e quando usar?](https://dev.to/marcodev/o-que-e-uma-memoria-ram-ecc-para-que-serve-e-quando-usar-iam)
-- [I built an open-source tool that helps add usage-based billing for your LLM projects](https://dev.to/donfour/i-built-an-open-source-tool-that-helps-add-usage-based-billing-for-your-llm-projects-4f56)
-- [Simplify Database Migrations using Python with Alembic](https://dev.to/r0mymendez/simplify-database-migrations-using-python-with-alembic-4bhd)
-- [Some great new posts from new authors in March 💞](https://dev.to/jess/some-great-new-posts-from-new-authors-in-march-4a0g)
+- [Stuck on what to learn next...](https://dev.to/sap/stuck-on-what-to-learn-next-28ha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
