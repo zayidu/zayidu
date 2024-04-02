@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Time Series Blob Data: ReductStore vs. TimescaleDB](https://dev.to/reductstore/time-series-blob-data-reductstore-vs-timescaledb-2djk)
-- [Exploring UI/UX Design Principles: A Simple Guide](https://dev.to/emmanuelhills/exploring-uiux-design-principles-a-simple-guide-pl2)
-- [Mastering File and Folder Permissions in Laravel Applications](https://dev.to/imranpollob/mastering-file-and-folder-permissions-in-laravel-applications-4imm)
-- [Reading request body multiple times in Java/Spring Boot](https://dev.to/cynavi/reading-request-body-multiple-times-in-javaspring-boot-1j53)
-- [Understanding Go: part 8 – Map](https://dev.to/aurelievache/understanding-go-part-8-map-4h16)
+- [Exploring Node js and Express in 30 days &lpar;Day 1&rpar;](https://dev.to/ikechukwu411/exploring-node-js-and-express-in-30-days-day-1-4f8b)
+- [Difference between Microservices vs Monolithic Applications for System Design Interview](https://dev.to/somadevtoo/difference-between-microservices-vs-monolithic-applications-for-system-design-interview-2lb5)
+- [Make Yourself Expendable](https://dev.to/keep_calm_and_code_on/make-yourself-expendable-292l)
+- [Mastering Component Lifecycles: A Deep Dive into Angular and React Hooks](https://dev.to/chintanonweb/mastering-component-lifecycles-a-deep-dive-into-angular-and-react-hooks-3bc0)
+- [LeetCode Meditations: Reverse Linked List](https://dev.to/rivea0/leetcode-meditations-reverse-linked-list-bjh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
