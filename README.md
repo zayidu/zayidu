@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps with Guruu | Chapter 18 : Build and Deploy DevSecOps Chatbot Use generative AI [ Full ]](https://dev.to/aws-builders/devops-with-guruu-chapter-18-build-and-deploy-devsecops-chatbot-use-generative-ai-full--8pf)
+- [Quick tip: Using Apache Spark Structured Streaming with SingleStore Notebooks](https://dev.to/veryfatboy/quick-tip-using-apache-spark-structured-streaming-with-singlestore-notebooks-5d20)
 - [Understanding Loops in Lua](https://dev.to/tlayach/understanding-loops-in-lua-m9i)
+- [Tool Breakdown : Show/Hide Timer!](https://dev.to/egfx/tool-breakdown-showhide-timer-16ei)
 - [Docusaurus doesn&#39;t recognize brackets {} on the markdown files](https://dev.to/bass/docusaurus-doesnt-recognize-brackets-on-the-markdown-files-4hmg)
-- [Pros and Cons of Ubuntu: Exploring Advantages and Disadvantages of the Linux Operating System](https://dev.to/regoanac/pros-and-cons-of-ubuntu-exploring-advantages-and-disadvantages-of-the-linux-operating-system-2a4m)
-- [Podcast Palooza— What are you listening to? &lpar;DnD Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-dnd-edition-3p1f)
-- [Stuck on what to learn next...](https://dev.to/sap/stuck-on-what-to-learn-next-28ha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
