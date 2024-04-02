@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Space, life, and feelings I cannot explain](https://dev.to/lnahrf/space-life-and-feelings-i-cannot-explain-eg1)
-- [How to set up a server with Vultr](https://dev.to/serverauth/how-to-set-up-a-server-with-vultr-2m74)
-- [Is creativity inversely proportional to discipline?](https://dev.to/shreyvijayvargiya/is-creativity-inversely-proportional-to-discipline-36mj)
-- [Understanding Angular&#39;s Dependency Injection](https://dev.to/sanjayms/understanding-angulars-dependency-injection-433e)
-- [CS50 - Week 0](https://dev.to/udilbar/cs50-week-0-4eo0)
+- [What&#39;s Your Favorite Tech Stack and Why?](https://dev.to/kaamkiya/whats-your-favorite-tech-stack-and-why-1a7e)
+- [Integrating a CodeQuality Scanner into Github Actions](https://dev.to/sharker3312/integrating-a-codequality-scanner-into-github-actions-52e7)
+- [Add Slack notifications into Github Actions](https://dev.to/sharker3312/add-slack-notifications-into-github-actions-486p)
+- [AI in Content Creation: Ethics and Authenticity](https://dev.to/shaheryaryousaf/ai-in-content-creation-ethics-and-authenticity-2adk)
+- [8 NPM Packages for JavaScript Beginners [2024][+tutorials]](https://dev.to/evotik/8-npm-packages-for-javascript-beginners-2024tutorials-5f85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
