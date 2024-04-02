@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing end-to-end encryption &lpar;E2EE&rpar; to a Planning Poker game](https://dev.to/qwikens/implementing-end-to-end-encryption-e2ee-to-a-planning-poker-game-1hoi)
-- [I built a top-tier Discord server for Open Source.](https://dev.to/glasskube/i-built-a-top-tier-discord-server-for-open-source-p25)
-- [Debunking Common Frontend Development Myths: A Guide to Reality](https://dev.to/ale3oula/debunking-common-frontend-development-myths-a-guide-to-reality-4jf4)
-- [I MADE AN AI MOVIE](https://dev.to/mince/i-made-an-ai-movie-2e3d)
-- [Exploring the Synergy of Web NFC Integration with React: An In-Depth Technical Analysis](https://dev.to/rohit1415/exploring-the-synergy-of-web-nfc-integration-with-react-an-in-depth-technical-analysis-46jc)
+- [Reference Type and Value Type in Swift](https://dev.to/saeedrz/reference-type-and-value-type-in-swift-863)
+- [Adding a canonical url to dev.to posts &lpar;in basic markdown editor&rpar;](https://dev.to/antweiss/adding-a-canonical-url-to-devto-posts-in-basic-markdown-editor-1enn)
+- [How to use fly.io and Tigris to deploy a Next.js app](https://dev.to/andrewbaisden/how-to-use-flyio-and-tigris-to-deploy-a-nextjs-app-1068)
+- [5 Ways to Become a Better Developer](https://dev.to/madhusaini22/5-ways-to-become-a-better-developer-33pp)
+- [Enclave Games Monthly Report: March 2024](https://dev.to/end3r/enclave-games-monthly-report-march-2024-4il8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
