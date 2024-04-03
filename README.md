@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Python context managers](https://dev.to/azanul/python-context-managers-3cgo)
+- [Explaining LinkedIn profile, &quot;1st,&quot; &quot;2nd,&quot; and &quot;3rd&quot; values.](https://dev.to/richardshaju/explaining-linkedin-profile-1st-2nd-and-3rd-values-3j4a)
 - [How to remove background of image with CSS](https://dev.to/madhusaini22/how-to-remove-background-of-image-with-css-1e6e)
 - [Newcar - A modern animation engine based on CanvasKit-WASM](https://dev.to/sheepbox8646/newcar-a-modern-animation-engine-based-on-canvaskit-wasm-5f7a)
 - [1 Common Mistake Novice Developers Make](https://dev.to/annoh_karlgusta/1-common-mistake-novice-developers-make-f17)
-- [How to Plot the Mandelbrot Set Using MoonBit?](https://dev.to/zachyee/how-to-plot-the-mandelbrot-set-using-moonbit-24m)
-- [My Cloud+Security Series](https://dev.to/maryayobami/my-cloudsecurity-series-4ljd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
