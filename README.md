@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What are UTM Parameters and How to Use Them in Tracking Online Marketing Campaigns.](https://dev.to/woovi/what-are-utm-parameters-and-how-to-use-them-in-tracking-online-marketing-campaigns-4767)
+- [Les Architectures 32 bits et 64 bits](https://dev.to/land-bit/les-architectures-32-bits-et-64-bits-5gi5)
+- [Object destructuring in TypeScript](https://dev.to/saranshk/object-destructuring-in-typescript-587d)
+- [Containerization with Docker](https://dev.to/tahsinayman/containerization-with-docker-4je9)
 - [HOW I MADE MY DIGITAL CLOCK WITH HTML](https://dev.to/dino2328/how-i-made-my-digital-clock-with-html-2i27)
-- [Poor architecture decisions when migrating to the cloud](https://dev.to/aws-builders/poor-architecture-decisions-when-migrating-to-the-cloud-189a)
-- [Python context managers](https://dev.to/azanul/python-context-managers-3cgo)
-- [Type Class](https://dev.to/itsnashter/type-class-3ikd)
-- [Create an integration that injects edge functions into any site](https://dev.to/netlify/create-an-integration-that-injects-edge-functions-into-any-site-2a0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
