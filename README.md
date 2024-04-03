@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Configuring and Securing SSH](https://dev.to/karlitaayu1/configuring-and-securing-ssh-3a11)
 - [AWS open source newsletter, #194](https://dev.to/aws/aws-open-source-newsletter-194-h60)
+- [Lazy load a background image](https://dev.to/phuocng/lazy-load-a-background-image-23pe)
 - [Entendo o conceito de VueJS](https://dev.to/nathanndos/entendo-o-conceito-de-vuejs-2i8c)
 - [Concurrency in JavaScript and the power of Web Workers](https://dev.to/olyop/concurrency-in-javascript-and-the-power-of-web-workers-4278)
-- [Streamlining Git Repository Management with Bash](https://dev.to/tosin2013/streamlining-git-repository-management-with-bash-3mpa)
-- [How to Make a Flutter Quiz App 👨‍🎓](https://dev.to/lapz/how-to-make-a-flutter-quiz-app-4n4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
