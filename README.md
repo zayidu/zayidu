@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Global State with useReducer and Context API in Next JS 14](https://dev.to/muhammadazfaraslam/managing-global-state-with-usereducer-and-context-api-in-next-js-14-2m17)
-- [How to convert XML files to CSV format using Boomi in Docker](https://dev.to/eyer-ai/how-to-convert-xml-files-to-csv-format-using-boomi-in-docker-30c8)
-- [Upgrading Hundreds of Kubernetes Clusters](https://dev.to/kuberada/upgrading-hundreds-of-kubernetes-clusters-8h0)
-- [Live reload a Rails 7 application, an unsatisfaying attempt](https://dev.to/bdavidxyz/live-reload-a-rails-7-application-an-unsatisfaying-attempt-d82)
-- [1.Describe Selenium Architecture in detail?2.What is the significance of the Python Virtual Environment? Give some examples?](https://dev.to/selvaranisekar/1describe-selenium-architecture-in-detail2what-is-the-significance-of-the-python-virtual-environment-give-some-examples-2mmm)
+- [a very tool for developing quantitative strategy model](https://dev.to/esproc_spl/a-very-tool-for-developing-quantitative-strategy-model-4j3l)
+- [fortune duck logo](https://dev.to/ouyangzetao/fortune-duck-logo-2bgf)
+- [21 AI Tools that are changing the World](https://dev.to/taipy/21-ai-tools-that-are-changing-the-world-1o54)
+- [Building a Secure and Resilient Infra with Infrastructure as Code &lpar;IaC&rpar;: Early Birds](https://dev.to/blackrossay/building-a-secure-and-resilient-infra-with-infrastructure-as-code-iac-early-birds-h2c)
+- [Bubble Sort in Java &lpar;With Intuition + Dry run + Code&rpar;](https://dev.to/tanujav/bubble-sort-in-java-with-intuition-dry-run-code-1hmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
