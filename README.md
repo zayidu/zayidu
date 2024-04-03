@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [HOW I MADE MY DIGITAL CLOCK WITH HTML](https://dev.to/dino2328/how-i-made-my-digital-clock-with-html-2i27)
+- [Poor architecture decisions when migrating to the cloud](https://dev.to/aws-builders/poor-architecture-decisions-when-migrating-to-the-cloud-189a)
 - [Python context managers](https://dev.to/azanul/python-context-managers-3cgo)
-- [Explaining LinkedIn profile, &quot;1st,&quot; &quot;2nd,&quot; and &quot;3rd&quot; values.](https://dev.to/richardshaju/explaining-linkedin-profile-1st-2nd-and-3rd-values-3j4a)
-- [How to remove background of image with CSS](https://dev.to/madhusaini22/how-to-remove-background-of-image-with-css-1e6e)
-- [Newcar - A modern animation engine based on CanvasKit-WASM](https://dev.to/sheepbox8646/newcar-a-modern-animation-engine-based-on-canvaskit-wasm-5f7a)
-- [1 Common Mistake Novice Developers Make](https://dev.to/annoh_karlgusta/1-common-mistake-novice-developers-make-f17)
+- [Type Class](https://dev.to/itsnashter/type-class-3ikd)
+- [Create an integration that injects edge functions into any site](https://dev.to/netlify/create-an-integration-that-injects-edge-functions-into-any-site-2a0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
