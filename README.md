@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [End of ElephantSQL 😔](https://dev.to/akashpattnaik/end-of-elephantsql-2gdo)
 - [Living The Dream With AI: CodeNewbie Podcast](https://dev.to/devteam/living-the-dream-with-ai-codenewbie-podcast-1hhl)
+- [What is Python? It&#39;s History, Applications and Future](https://dev.to/shaheryaryousaf/what-is-python-its-history-applications-and-future-3a4e)
 - [Reflecting on the power of public speaking](https://dev.to/pachicodes/reflecting-on-the-power-of-public-speaking-4hg3)
 - [Mastering White Hat Hacking Without a Single Line of Code: A Non-Traditional Hacker&#39;s Journey](https://dev.to/nikitakoselev/mastering-white-hat-hacking-without-a-single-line-of-code-a-non-traditional-hackers-journey-3238)
-- [Leveraging Containerization and Orchestration for Efficient Deployment of Low-Code APIs](https://dev.to/syncloop_dev/leveraging-containerization-and-orchestration-for-efficient-deployment-of-low-code-apis-1i6l)
-- [Join us for the Cloudflare AI Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-cloudflare-ai-challenge-3000-in-prizes-5f99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
