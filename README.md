@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS open source newsletter, #194](https://dev.to/aws/aws-open-source-newsletter-194-h60)
+- [Entendo o conceito de VueJS](https://dev.to/nathanndos/entendo-o-conceito-de-vuejs-2i8c)
+- [Concurrency in JavaScript and the power of Web Workers](https://dev.to/olyop/concurrency-in-javascript-and-the-power-of-web-workers-4278)
+- [How to Make a Flutter Quiz App 👨‍🎓](https://dev.to/lapz/how-to-make-a-flutter-quiz-app-4n4i)
 - [Welcome Thread - v270](https://dev.to/devteam/welcome-thread-v270-3cpb)
-- [WordPress Security](https://dev.to/mikevarenek/wordpress-security-3f94)
-- [Padrão JumpTable com Javascript](https://dev.to/lucasruy/padrao-jumptable-com-javascript-4m3k)
-- [21 Pieces Of Unsolicited Advice For Junior Web Developers](https://dev.to/schalkneethling/21-pieces-of-unsolicited-advice-for-junior-web-developers-5eac)
-- [flatten&lpar;&rpar; and unbind&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/flatten-and-unbind-in-pytorch-17ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
