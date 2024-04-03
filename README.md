@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v270](https://dev.to/devteam/welcome-thread-v270-3cpb)
+- [WordPress Security](https://dev.to/mikevarenek/wordpress-security-3f94)
+- [Padrão JumpTable com Javascript](https://dev.to/lucasruy/padrao-jumptable-com-javascript-4m3k)
 - [21 Pieces Of Unsolicited Advice For Junior Web Developers](https://dev.to/schalkneethling/21-pieces-of-unsolicited-advice-for-junior-web-developers-5eac)
-- [Revolutionizing Startups: Unveiling the Best AI Tools](https://dev.to/jahan/revolutionizing-startups-unveiling-the-best-ai-tools-pok)
-- [Sync the Kafka Cluster CA Certificate into your namespace](https://dev.to/darkedges/how-to-sync-the-kafka-cluster-ca-certificate-into-your-namespace-4l9h)
-- [What&#39;s Your Favorite Tech Stack and Why?](https://dev.to/kaamkiya/whats-your-favorite-tech-stack-and-why-1a7e)
-- [Integrating a CodeQuality Scanner into Github Actions](https://dev.to/sharker3312/integrating-a-codequality-scanner-into-github-actions-52e7)
+- [flatten&lpar;&rpar; and unbind&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/flatten-and-unbind-in-pytorch-17ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
