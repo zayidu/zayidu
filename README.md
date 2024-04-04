@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 6 Alternatives to XAMPP for Local Development Environments](https://dev.to/bytecrusher99/top-6-alternatives-to-xampp-for-local-development-environments-5po)
+- [How to build in public ?](https://dev.to/meschacirung/how-to-build-in-public--1lmi)
 - [Nx adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/nx-adoption-guide-overview-examples-and-alternatives-bi1)
 - [Day 4/366](https://dev.to/vishalmx3/day-4366-37c0)
 - [Featured Mod of the Month: Anita Olsen](https://dev.to/devteam/featured-mod-of-the-month-anita-olsen-10jn)
-- [A quick and dirt way to make your site retroactively compatible with AVIF](https://dev.to/phalkmin/a-quick-and-dirt-way-to-make-your-site-retroactively-compatible-with-avif-4icb)
-- [AWS at Scale #SideQuest: Platform Concepts](https://dev.to/awsatscale/aws-at-scale-sidequest-platform-concepts-a6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
