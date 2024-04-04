@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing duplicate API requests](https://dev.to/apisix/fixing-duplicate-api-requests-1n7o)
-- [Sloan&#39;s Inbox: Any advice for calming an opinionated contributor? 😬](https://dev.to/devteam/sloans-inbox-advice-for-calming-an-opinionated-contributor-804)
-- [I Created a Free Web Tool to Make Beautiful Charts](https://dev.to/shubhamjain/i-created-a-free-web-tool-to-make-beautiful-charts-1pf9)
-- [10 Best Tips for Optimizing LINQ Performance with EF Core](https://dev.to/bytehide/10-best-tips-for-optimizing-linq-performance-with-ef-core-aha)
-- [AWS Advanced Networking Specialty - 15 hands-on exercises for certification success](https://dev.to/aws-builders/aws-advanced-networking-specialty-15-hands-on-exercises-for-certification-success-4eh7)
+- [Different Ways to Import Files in a Node.js Project](https://dev.to/madhusaini22/different-ways-to-import-files-in-a-nodejs-project-nn6)
+- [I created a v0.dev clone with Next.js, GPT4 &amp; CopilotKit](https://dev.to/copilotkit/i-created-a-v0-clone-with-nextjs-gpt4-copilotkit-3cmb)
+- [Interview with Parth, Founder of Tmuxer, and More](https://dev.to/crabnebula/interview-with-parth-founder-of-tmuxer-and-more-bb5)
+- [NeuBeam - New Tailwind CSS Component Library for stylish Web Development](https://dev.to/taufik-h/neubeam-new-tailwindcss-ui-library-2kf0)
+- [Why You Shouldn&#39;t Take Harvard CS50](https://dev.to/annoh_karlgusta/why-you-shouldnt-take-harvard-cs50-22h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
