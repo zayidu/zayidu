@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [I sold my startup because of bugs: I wish I had this serverless repository!](https://dev.to/github20k/i-sold-my-startup-because-of-bugs-i-wish-i-had-this-serverless-repository-4l3a)
+- [6-Month Rule: Unmasking the Lux Academy 6-Month #MonkMode Rule.](https://dev.to/grayhat/6-month-rule-unmasking-the-lux-academy-6-month-monkmode-rule-4jnn)
+- [Creating A GRPC Endpoint With Rust](https://dev.to/ethand91/creating-a-grpc-endpoint-with-rust-320i)
+- [7 Best Python Visualization Libraries for 2024](https://dev.to/taipy/7-best-python-visualization-libraries-for-2024-5h9f)
 - [Different Ways to Import Files in a Node.js Project](https://dev.to/madhusaini22/different-ways-to-import-files-in-a-nodejs-project-nn6)
-- [I created a v0.dev clone with Next.js, GPT4 &amp; CopilotKit](https://dev.to/copilotkit/i-created-a-v0-clone-with-nextjs-gpt4-copilotkit-3cmb)
-- [Interview with Parth, Founder of Tmuxer, and More](https://dev.to/crabnebula/interview-with-parth-founder-of-tmuxer-and-more-bb5)
-- [NeuBeam - New Tailwind CSS Component Library for stylish Web Development](https://dev.to/taufik-h/neubeam-new-tailwindcss-ui-library-2kf0)
-- [Why You Shouldn&#39;t Take Harvard CS50](https://dev.to/annoh_karlgusta/why-you-shouldnt-take-harvard-cs50-22h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
