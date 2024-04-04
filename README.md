@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Easy Peasy Form Validation Errors with Rails Turbo Frames &lpar;modals&rpar;](https://dev.to/railsdesigner/easy-peasy-form-validation-errors-with-rails-turbo-frames-modals-67n)
-- [How to duplicate a Sanity Dataset for FREE](https://dev.to/julimancan/how-to-duplicate-a-sanity-dataset-for-free-392i)
-- [Riding the Waves of #Solana #Web3: An Adventure for Developers](https://dev.to/abhishektilkar/riding-the-waves-of-solana-web3-an-adventure-for-developers-2166)
-- [5 CSS authors that you should read](https://dev.to/melnik909/5-css-authors-that-you-should-read-5c0a)
-- [24 Essential Async/Await Best Practices for Basic to Advanced C# Developers](https://dev.to/ssukhpinder/24-essential-asyncawait-best-practices-for-basic-to-advanced-c-developers-2kgg)
+- [A glimpse into the algebra of type systems](https://dev.to/alex_escalante/a-glimpse-into-the-algebra-of-type-systems-2gee)
+- [Hash Map As a Service](https://dev.to/mvmendonca/hash-map-as-a-service-1pk2)
+- [Design Memorable Logos with Lyzr&#39;s Logo Generator](https://dev.to/prajjwalsule21/design-memorable-logos-with-lyzrs-logo-generator-3j6i)
+- [How to close attack vectors for exposed secrets in Docker](https://dev.to/siranjeevi/how-to-close-attack-vectors-for-exposed-secrets-in-docker-26c)
+- [Mastering Global Functions in Laravel: Easy Methods for Versions 8,9,10,11.](https://dev.to/frankliniwobi/mastering-global-functions-in-laravel-easy-methods-for-versions-891011-4e02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
