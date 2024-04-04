@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Frameworks, One SAML Jackson - Your Open Source Single Sign-On Solution](https://dev.to/boxyhq/7-frameworks-one-saml-jackson-your-open-source-single-sign-on-solution-3cdf)
+- [Batect in a nutshell](https://dev.to/otter13/batect-in-a-nutshell-3f1g)
+- [Golang: out-of-box backpressure handling with gRPC, proven by a Grafana dashboard](https://dev.to/tcm/golang-out-of-box-backpressure-handling-with-grpc-proven-by-a-grafana-dashboard-4hkc)
 - [HackerRank SQL preparation; Revising the Select Query II&lpar;MySQL&rpar;](https://dev.to/christianpaez/hackerrank-sql-preparation-revising-the-select-query-iimysql-3kh4)
 - [Embed a form builder with Swift](https://dev.to/joyfill/embed-a-form-builder-with-swift-2b77)
-- [.NET: Brincando com ref structs](https://dev.to/jesus/net-brincando-com-ref-structs-1g4)
-- [AWS Bedrock, Claude 3, Serverless RAG, Rust](https://dev.to/aws-builders/aws-bedrock-claude-3-serverless-rag-rust-4i7)
-- [End of ElephantSQL 😔](https://dev.to/akashpattnaik/end-of-elephantsql-2gdo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
