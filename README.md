@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 AI Edge Engineer Modules by Microsoft](https://dev.to/rani4849/top-10-ai-edge-engineer-modules-by-microsoft-1c0)
-- [Top 10 AI Edge Engineer Modules by Microsoft](https://dev.to/ankita482/top-10-ai-edge-engineer-modules-by-microsoft-24pg)
-- [Top 10 AI Edge Engineer Modules by Microsoft](https://dev.to/radhika59/top-10-ai-edge-engineer-modules-by-microsoft-5b51)
-- [Como um Portfólio Pode Impulsionar sua Carreira](https://dev.to/kecbm/como-um-portfolio-pode-impulsionar-sua-carreira-5dk6)
-- [Start with Python Strings](https://dev.to/shaheryaryousaf/start-with-python-strings-4d3i)
+- [Nx adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/nx-adoption-guide-overview-examples-and-alternatives-bi1)
+- [Day 4/366](https://dev.to/vishalmx3/day-4366-37c0)
+- [Featured Mod of the Month: Anita Olsen](https://dev.to/devteam/featured-mod-of-the-month-anita-olsen-10jn)
+- [A quick and dirt way to make your site retroactively compatible with AVIF](https://dev.to/phalkmin/a-quick-and-dirt-way-to-make-your-site-retroactively-compatible-with-avif-4icb)
+- [AWS at Scale #SideQuest: Platform Concepts](https://dev.to/awsatscale/aws-at-scale-sidequest-platform-concepts-a6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
