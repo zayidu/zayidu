@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [OneTrainer Fine Tuning vs Kohya SS DreamBooth &amp; Huge Research of OneTrainer’s Masked Training](https://dev.to/furkangozukara/onetrainer-fine-tuning-vs-kohya-ss-dreambooth-huge-research-of-onetrainers-masked-training-4po7)
+- [🚀 API Maker : Release Notes for v1.5.0](https://dev.to/apimaker/api-maker-release-notes-for-v150-2h48)
 - [ACL File](https://dev.to/reizzo/acl-file-4i34)
 - [Remote job offers this week](https://dev.to/krlz/remote-job-offers-this-week-521j)
-- [Core Web Vitals: UX além da interface](https://dev.to/techinrio/core-web-vitals-ux-alem-da-interface-410m)
-- [The Fascinating History of Java](https://dev.to/dbillion/the-fascinating-history-of-java-2al7)
-- [7 Frameworks, One SAML Jackson - Your Open Source Single Sign-On Solution](https://dev.to/boxyhq/7-frameworks-one-saml-jackson-your-open-source-single-sign-on-solution-3cdf)
+- [Lazy load an iframe](https://dev.to/phuocng/lazy-load-an-iframe-4jp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
