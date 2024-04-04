@@ -10,8 +10,8 @@
 - [A glimpse into the algebra of type systems](https://dev.to/alex_escalante/a-glimpse-into-the-algebra-of-type-systems-2gee)
 - [Hash Map As a Service](https://dev.to/mvmendonca/hash-map-as-a-service-1pk2)
 - [Design Memorable Logos with Lyzr&#39;s Logo Generator](https://dev.to/prajjwalsule21/design-memorable-logos-with-lyzrs-logo-generator-3j6i)
+- [Introducing Geoglify](https://dev.to/leoneljdias/introducing-geoglify-empowering-maritime-data-analysis-1lp8)
 - [How to close attack vectors for exposed secrets in Docker](https://dev.to/siranjeevi/how-to-close-attack-vectors-for-exposed-secrets-in-docker-26c)
-- [Mastering Global Functions in Laravel: Easy Methods for Versions 8,9,10,11.](https://dev.to/frankliniwobi/mastering-global-functions-in-laravel-easy-methods-for-versions-891011-4e02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
