@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A glimpse into the algebra of type systems](https://dev.to/alex_escalante/a-glimpse-into-the-algebra-of-type-systems-2gee)
-- [Hash Map As a Service](https://dev.to/mvmendonca/hash-map-as-a-service-1pk2)
-- [Design Memorable Logos with Lyzr&#39;s Logo Generator](https://dev.to/prajjwalsule21/design-memorable-logos-with-lyzrs-logo-generator-3j6i)
-- [Introducing Geoglify](https://dev.to/leoneljdias/introducing-geoglify-empowering-maritime-data-analysis-1lp8)
-- [How to close attack vectors for exposed secrets in Docker](https://dev.to/siranjeevi/how-to-close-attack-vectors-for-exposed-secrets-in-docker-26c)
+- [Galactic Grayscales: Exploring SVG in a universe far far away.](https://dev.to/hendrikras/galactic-grayscales-exploring-svg-in-a-universe-far-far-away-47p2)
+- [Full Line Code Completion by JetBrains: A Game-Changer for Secure, AI-Assisted Coding](https://dev.to/nikitakoselev/full-line-code-completion-by-jetbrains-a-game-changer-for-secure-ai-assisted-coding-3k41)
+- [Git Commands Pocket Guide](https://dev.to/bgdnvarlamov/git-commands-pocket-guide-2aia)
+- [Beyond the Hype: Unveiling the Truth About Secret Trading Software and BT Chat](https://dev.to/chintanonweb/beyond-the-hype-unveiling-the-truth-about-secret-trading-software-and-bt-chat-14bm)
+- [Analyse des sentiments avec les fonctions PubNub et HuggingFace](https://dev.to/pubnub-fr/analyse-des-sentiments-avec-les-fonctions-pubnub-et-huggingface-47fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
