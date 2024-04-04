@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [I Created a Free Web Tool to Make Beautiful Charts](https://dev.to/shubhamjain/i-created-a-free-web-tool-to-make-beautiful-charts-1pf9)
+- [AWS Advanced Networking Specialty - 15 hands-on exercises for certification success](https://dev.to/aws-builders/aws-advanced-networking-specialty-15-hands-on-exercises-for-certification-success-4eh7)
+- [Day 16 of 30-Day .NET Challenge: In-Memory Caching](https://dev.to/ssukhpinder/day-16-of-30-day-net-challenge-in-memory-caching-201d)
 - [What Are Your Go-to Icebreakers? 🧊⛏️](https://dev.to/devteam/what-are-your-go-to-icebreakers-2942)
-- [macOS vs Ubuntu: GitHub Actions Runners](https://dev.to/pradumnasaraf/macos-vs-ubuntu-github-actions-runners-738)
-- [OneTrainer Fine Tuning vs Kohya SS DreamBooth &amp; Huge Research of OneTrainer’s Masked Training](https://dev.to/furkangozukara/onetrainer-fine-tuning-vs-kohya-ss-dreambooth-huge-research-of-onetrainers-masked-training-4po7)
-- [🚀 API Maker : Release Notes for v1.5.0](https://dev.to/apimaker/api-maker-release-notes-for-v150-2h48)
-- [ACL File](https://dev.to/reizzo/acl-file-4i34)
+- [Prioritize bugs like a boss &lpar;because you can&#39;t fix everything&rpar;](https://dev.to/moozzyk/prioritize-bugs-like-a-boss-because-you-cant-fix-everything-17ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
