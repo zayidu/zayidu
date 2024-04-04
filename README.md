@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 6 Alternatives to XAMPP for Local Development Environments](https://dev.to/bytecrusher99/top-6-alternatives-to-xampp-for-local-development-environments-5po)
-- [How to build in public ?](https://dev.to/meschacirung/how-to-build-in-public--1lmi)
-- [Nx adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/nx-adoption-guide-overview-examples-and-alternatives-bi1)
-- [Day 4/366](https://dev.to/vishalmx3/day-4366-37c0)
-- [Featured Mod of the Month: Anita Olsen](https://dev.to/devteam/featured-mod-of-the-month-anita-olsen-10jn)
+- [5 CSS authors that you should read](https://dev.to/melnik909/5-css-authors-that-you-should-read-5c0a)
+- [24 Essential Async/Await Best Practices for Basic to Advanced C# Developers](https://dev.to/ssukhpinder/24-essential-asyncawait-best-practices-for-basic-to-advanced-c-developers-2kgg)
+- [Consistency Is All That Matters! Lessons from Atomic Habits 🌱🚀](https://dev.to/arjuncodess/consistency-is-all-that-matters-lessons-from-atomic-habits-1bmf)
+- [Using nmap for Continuous Vulnerability Monitoring](https://dev.to/stefanhudelmaier/using-nmap-for-continuous-vulnerability-monitoring-3d9e)
+- [Building a Managed Service Provider Business With Open Source](https://dev.to/schalkneethling/building-a-managed-service-provider-business-with-open-source-1olk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
