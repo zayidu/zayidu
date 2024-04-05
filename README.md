@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [A Coder&#39;s Hilarious Journey Through Syntax Errors](https://dev.to/ssukhpinder/a-coders-hilarious-journey-through-syntax-errors-13dm)
+- [Temel H3C Switch Yapılandırma Kılavuzu: Cisco Komutlarıyla Karşılaştırmalı](https://dev.to/aciklab/temel-h3c-switch-yapilandirma-kilavuzu-cisco-komutlariyla-karsilastirmali-4e71)
 - [Updating Azure DevOps Pipelines for Terraform Post SSH-RSA Deprecation](https://dev.to/gtrekter/updating-azure-devops-pipelines-for-terraform-post-ssh-rsa-deprecation-4270)
 - [🤔 Quer entender algoritmos de busca e ordenação de forma interativa? 🎮✨](https://dev.to/edilsonrogeriocuambe/quer-entender-algoritmos-de-busca-e-ordenacao-de-forma-interativa-4cj4)
 - [A Guide to Deploying Nest.js Applications with AWS CodePipeline and ECS Fargate](https://dev.to/dkmostafa/a-guide-to-deploying-nestjs-applications-with-aws-codepipeline-and-ecs-fargate-20fe)
-- [Exploring Prompt Compression with LLMLingua: Balancing Efficiency and Quality](https://dev.to/shannonlal/exploring-prompt-compression-with-llmlingua-balancing-efficiency-and-quality-1mbd)
-- [Reading Notes: Tidy First](https://dev.to/hackergem/reading-notes-tidy-first-34oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
