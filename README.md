@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You’ve Been Asking for it…Announcing the Pieces for Developers Visual Studio Extension!](https://dev.to/get_pieces/youve-been-asking-for-itannouncing-the-pieces-for-developers-visual-studio-extension-5c3h)
-- [Acelerando o processo de design no Figma com o plugin html.to.design](https://dev.to/somosguix/acelerando-o-processo-de-design-no-figma-com-o-plugin-htmltodesign-5g0f)
-- [Who&#39;s looking for open source contributors? &lpar;week 66&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-66-2ld7)
-- [How to Use Shadcn UI with Next.js for Button Link](https://dev.to/aaronnfs/how-to-use-shadcn-ui-with-nextjs-for-button-link-1lkh)
-- [Learning AWS Day by Day — Day 27 — S3 Hands-on — Part 1](https://dev.to/rksalo88/learning-aws-day-by-day-day-27-s3-hands-on-part-1-30g6)
+- [Weekly Updates - Apr 5 2024](https://dev.to/couchbase/weekly-updates-apr-5-2024-51ca)
+- [Implementing semantic image search with Amazon Titan and Supabase Vector](https://dev.to/supabase/implementing-semantic-image-search-with-amazon-titan-and-supabase-vector-266a)
+- [PostgreSQL. How do you find potentially ineffective indexes?](https://dev.to/dm8ry/postgresql-how-do-you-find-potentially-ineffective-indexes-6gp)
+- [Unveiling Differences: A Deep Dive into Comparing Tables, Indexes, and Functions Across PostgreSQL Databases](https://dev.to/dm8ry/unveiling-differences-a-deep-dive-into-comparing-tables-indexes-and-functions-across-postgresql-databases-166n)
+- [Introducing the New GitHub Action for using Kit CLI on MLOps pipelines](https://dev.to/kitops/introducing-the-new-github-action-for-using-kit-cli-on-mlops-pipelines-21ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
