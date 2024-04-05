@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Development Workflow with Visual Studio 2022 17.9](https://dev.to/shishsingh/boost-your-development-workflow-with-visual-studio-2022-179-187d)
-- [AI in Anomaly Detection: Identifying Real-Time Threats](https://dev.to/ideausher/ai-in-anomaly-detection-identifying-real-time-threats-902)
-- [Day 17 of 30-Day .NET Challenge: Interlocked Class](https://dev.to/ssukhpinder/day-17-of-30-day-net-challenge-interlocked-class-123f)
-- [Demystifying Open Source Contribution: A Beginner&#39;s Guide](https://dev.to/pathus90/demystifying-open-source-contribution-a-beginners-guide-48nm)
-- [Beyond the Basics: Advanced Strategies for API Development](https://dev.to/chintanonweb/beyond-the-basics-advanced-strategies-for-api-development-111i)
+- [How to make Your Website used Without Internet 🌐](https://dev.to/sh20raj/how-to-make-your-website-used-without-internet-3e3l)
+- [Tips to Speed Up Your Website Loading Time](https://dev.to/sh20raj/tips-to-speed-up-your-website-loading-time-1l04)
+- [SVM and Kernels: The Math that Makes Classification Magic](https://dev.to/harshtiwari1710/svm-and-kernels-the-math-that-makes-classification-magic-11hh)
+- [Arduino UNO R4 WiFi Experiments](https://dev.to/trevorwslee/arduino-uno-r4-wifi-experiments-4ca9)
+- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-5e9b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
