@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [8 BEST Sites to Practice Coding by Exercises 🏋️‍♂️🎯](https://dev.to/arjuncodess/8-best-sites-to-practice-coding-by-exercises-c53)
 - [Want to Join the Top 1%? Accelerate Your Business Skills with This Habit](https://dev.to/lincemathew/want-to-join-the-top-1-accelerate-your-business-skills-with-this-habit-3980)
 - [Meme Coins: Balancing Profitability and Risks in the Crypto World](https://dev.to/hryniv_vlad/meme-coins-balancing-profitability-and-risks-in-the-crypto-world-1p6c)
 - [One Simple Trick For Resolving Java Runtime Dependency Issues](https://dev.to/vonagedev/one-simple-trick-for-resolving-java-runtime-dependency-issues-2po4)
 - [How to deploy a .NET App as a container without a Dockerfile?](https://dev.to/bytehide/how-to-deploy-a-net-app-as-a-container-without-a-dockerfile-3jca)
-- [Advanced Data Structures: Sets, Tuples, and Comprehensions](https://dev.to/romulogatto/advanced-data-structures-sets-tuples-and-comprehensions-31og)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
