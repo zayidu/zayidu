@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [8 BEST Sites to Practice Coding by Exercises 🏋️‍♂️🎯](https://dev.to/arjuncodess/8-best-sites-to-practice-coding-by-exercises-c53)
-- [Want to Join the Top 1%? Accelerate Your Business Skills with This Habit](https://dev.to/lincemathew/want-to-join-the-top-1-accelerate-your-business-skills-with-this-habit-3980)
-- [Meme Coins: Balancing Profitability and Risks in the Crypto World](https://dev.to/hryniv_vlad/meme-coins-balancing-profitability-and-risks-in-the-crypto-world-1p6c)
-- [One Simple Trick For Resolving Java Runtime Dependency Issues](https://dev.to/vonagedev/one-simple-trick-for-resolving-java-runtime-dependency-issues-2po4)
-- [How to deploy a .NET App as a container without a Dockerfile?](https://dev.to/bytehide/how-to-deploy-a-net-app-as-a-container-without-a-dockerfile-3jca)
+- [You’ve Been Asking for it…Announcing the Pieces for Developers Visual Studio Extension!](https://dev.to/get_pieces/youve-been-asking-for-itannouncing-the-pieces-for-developers-visual-studio-extension-5c3h)
+- [Acelerando o processo de design no Figma com o plugin html.to.design](https://dev.to/somosguix/acelerando-o-processo-de-design-no-figma-com-o-plugin-htmltodesign-5g0f)
+- [Who&#39;s looking for open source contributors? &lpar;week 66&rpar;](https://dev.to/opensauced/whos-looking-for-open-source-contributors-week-66-2ld7)
+- [How to Use Shadcn UI with Next.js for Button Link](https://dev.to/aaronnfs/how-to-use-shadcn-ui-with-nextjs-for-button-link-1lkh)
+- [Learning AWS Day by Day — Day 27 — S3 Hands-on — Part 1](https://dev.to/rksalo88/learning-aws-day-by-day-day-27-s3-hands-on-part-1-30g6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
