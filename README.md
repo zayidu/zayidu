@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Updates - Apr 5 2024](https://dev.to/couchbase/weekly-updates-apr-5-2024-51ca)
-- [Implementing semantic image search with Amazon Titan and Supabase Vector](https://dev.to/supabase/implementing-semantic-image-search-with-amazon-titan-and-supabase-vector-266a)
-- [PostgreSQL. How do you find potentially ineffective indexes?](https://dev.to/dm8ry/postgresql-how-do-you-find-potentially-ineffective-indexes-6gp)
-- [Unveiling Differences: A Deep Dive into Comparing Tables, Indexes, and Functions Across PostgreSQL Databases](https://dev.to/dm8ry/unveiling-differences-a-deep-dive-into-comparing-tables-indexes-and-functions-across-postgresql-databases-166n)
-- [Introducing the New GitHub Action for using Kit CLI on MLOps pipelines](https://dev.to/kitops/introducing-the-new-github-action-for-using-kit-cli-on-mlops-pipelines-21ia)
+- [How to use TURN server with PeerJs](https://dev.to/alakkadshaw/how-to-use-turn-server-with-peerjs-6eb)
+- [🚀💼 Lean Startup: Transforming Tech with Lean Principles 💼🚀](https://dev.to/apetryla/lean-startup-transforming-tech-with-lean-principles-3487)
+- [Exploring My Journey: A Software Engineer in Constant Evolution](https://dev.to/geolffreym/exploring-my-journey-a-software-engineer-in-constant-evolution-71c)
+- [Introvertish to Extrovertish](https://dev.to/aortega/introvertish-to-extrovertish-110c)
+- [Functional Programming in Java: Lists, Lambdas, and Method References](https://dev.to/dbillion/functional-programming-in-java-lists-lambdas-and-method-references-4e32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
