@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [All MongoDB commands you need to know](https://dev.to/madhusaini22/all-mongodb-commands-you-need-to-know-35i7)
-- [Mastering JWT Security](https://dev.to/aymanepraxe/mastering-jwt-security-2kgn)
-- [What&#39;s New at Meteor: Beta Releases, Community Tutorials, and More](https://dev.to/meteor/whats-new-at-meteor-beta-releases-community-tutorials-and-more-1jj2)
-- [How do you deal with digital eye strain and dry eyes?](https://dev.to/kushsolitary/how-do-you-deal-with-digital-eye-strain-and-dry-eyes-1n0p)
-- [This Week In React #180 : Drag &amp; Drop, React name, Next.js Auth, New Architecture, Gesture Handler, Privacy Manifest...](https://dev.to/sebastienlorber/this-week-in-react-180-drag-drop-react-name-nextjs-auth-new-architecture-gesture-handler-privacy-manifest-25lo)
+- [Want to Join the Top 1%? Accelerate Your Business Skills with This Habit](https://dev.to/lincemathew/want-to-join-the-top-1-accelerate-your-business-skills-with-this-habit-3980)
+- [Meme Coins: Balancing Profitability and Risks in the Crypto World](https://dev.to/hryniv_vlad/meme-coins-balancing-profitability-and-risks-in-the-crypto-world-1p6c)
+- [One Simple Trick For Resolving Java Runtime Dependency Issues](https://dev.to/vonagedev/one-simple-trick-for-resolving-java-runtime-dependency-issues-2po4)
+- [How to deploy a .NET App as a container without a Dockerfile?](https://dev.to/bytehide/how-to-deploy-a-net-app-as-a-container-without-a-dockerfile-3jca)
+- [Advanced Data Structures: Sets, Tuples, and Comprehensions](https://dev.to/romulogatto/advanced-data-structures-sets-tuples-and-comprehensions-31og)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
