@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🦊 GitLab: A Python Script Calculating DORA Metrics](https://dev.to/zenika/gitlab-a-python-script-calculating-dora-metrics-258o)
+- [Redux Toolkit State Management in React](https://dev.to/syedmuhammadaliraza/redux-toolkit-state-management-in-react-2h7p)
 - [How to use TURN server with PeerJs](https://dev.to/alakkadshaw/how-to-use-turn-server-with-peerjs-6eb)
 - [🚀💼 Lean Startup: Transforming Tech with Lean Principles 💼🚀](https://dev.to/apetryla/lean-startup-transforming-tech-with-lean-principles-3487)
-- [Exploring My Journey: A Software Engineer in Constant Evolution](https://dev.to/geolffreym/exploring-my-journey-a-software-engineer-in-constant-evolution-71c)
-- [Introvertish to Extrovertish](https://dev.to/aortega/introvertish-to-extrovertish-110c)
-- [Functional Programming in Java: Lists, Lambdas, and Method References](https://dev.to/dbillion/functional-programming-in-java-lists-lambdas-and-method-references-4e32)
+- [Application Of The Multiple Return Function](https://dev.to/sukmarizki04/application-of-the-multiple-return-function-196p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
