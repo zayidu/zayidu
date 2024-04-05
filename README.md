@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How I would Learn JavaScript If I was Starting Over](https://dev.to/annoh_karlgusta/how-i-would-learn-javascript-if-i-was-starting-over-3b69)
+- [SciChart.js Performance Demo: 1 Million Datapoints in under 15ms](https://dev.to/andyb1979/scichartjs-performance-demo-1-million-datapoints-in-under-15ms-50bd)
 - [Python Web Scraping: Best Libraries and Practices](https://dev.to/eztosin/python-web-scraping-best-libraries-and-practices-4l37)
 - [Creating a textarea character limit indicator](https://dev.to/sarahokolo/creating-a-textarea-character-limit-indicator-5fol)
-- [How to Implement Biometric Authentication with Jetpack Compose and AES Encryption](https://dev.to/canopassoftware/how-to-implement-biometric-authentication-with-jetpack-compose-and-aes-encryption-4e72)
-- [Day 5/366](https://dev.to/vishalmx3/day-5366-ibo)
-- [Reaching and surpassing the limits of JavaScript BigData with WebAssembly](https://dev.to/andyb1979/reaching-and-surpassing-the-limits-of-javascript-bigdata-with-webassembly-i89)
+- [Sh*t, I didn&#39;t mean to commit that!](https://dev.to/darkwiiplayer/sht-i-didnt-mean-to-commit-that-221b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
