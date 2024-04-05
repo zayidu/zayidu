@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Reading Notes: Tidy First](https://dev.to/hackergem/reading-notes-tidy-first-34oi)
 - [Mastering WordPress Management: A Comprehensive Guide to WP-CLI Commands](https://dev.to/mikevarenek/mastering-wordpress-management-a-comprehensive-guide-to-wp-cli-commands-5dn9)
 - [Challenges and Solutions in Using ThirdWeb](https://dev.to/zhukmax/challenges-and-solutions-in-using-thirdweb-3j8j)
 - [One thing I wish I knew when I first started to code is... : CodeNewbie Podcast](https://dev.to/codenewbieteam/one-thing-i-wish-i-knew-when-i-first-started-to-code-is-codenewbie-podcast-272h)
-- [The Evolution of the Internet: The Journey Through Time](https://dev.to/stephaniedev/the-evolution-of-the-internet-the-journey-through-time-44i4)
-- [Top 5 Online Markdown Editors &lpar;2024&rpar;](https://dev.to/programmerbyday/top-5-online-markdown-editors-2024-76h)
+- [Mastering Docker Image Optimization: 6 Key Strategies for building Lighter, Faster, and Safer images](https://dev.to/jlerocher/mastering-docker-image-optimization-6-key-strategies-for-building-lighter-faster-and-safer-images-5bm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
