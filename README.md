@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make Your Website used Without Internet 🌐](https://dev.to/sh20raj/how-to-make-your-website-used-without-internet-3e3l)
-- [Tips to Speed Up Your Website Loading Time](https://dev.to/sh20raj/tips-to-speed-up-your-website-loading-time-1l04)
-- [SVM and Kernels: The Math that Makes Classification Magic](https://dev.to/harshtiwari1710/svm-and-kernels-the-math-that-makes-classification-magic-11hh)
-- [Arduino UNO R4 WiFi Experiments](https://dev.to/trevorwslee/arduino-uno-r4-wifi-experiments-4ca9)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-5e9b)
+- [Python Web Scraping: Best Libraries and Practices](https://dev.to/eztosin/python-web-scraping-best-libraries-and-practices-4l37)
+- [Creating a textarea character limit indicator](https://dev.to/sarahokolo/creating-a-textarea-character-limit-indicator-5fol)
+- [How to Implement Biometric Authentication with Jetpack Compose and AES Encryption](https://dev.to/canopassoftware/how-to-implement-biometric-authentication-with-jetpack-compose-and-aes-encryption-4e72)
+- [Day 5/366](https://dev.to/vishalmx3/day-5366-ibo)
+- [Reaching and surpassing the limits of JavaScript BigData with WebAssembly](https://dev.to/andyb1979/reaching-and-surpassing-the-limits-of-javascript-bigdata-with-webassembly-i89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
