@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 942 : Smooth Sailing](https://dev.to/dwane/day-942-smooth-sailing-57h4)
-- [The RAG Triad: Guide to Evaluating and Optimizing RAG Systems](https://dev.to/rutamstwt/the-rag-triad-guide-to-evaluating-and-optimizing-rag-systems-39i6)
-- [The History of the Internet From ARPANET to HTTPS](https://dev.to/certifieddaydreamer/the-history-of-the-internetfrom-arpanet-to-https-1h2c)
-- [Simple constant time weighted random choice algorithm](https://dev.to/mokiat/simple-constant-time-weighted-random-choice-algorithm-1o1e)
-- [How to Programmatically Cancel MRP Records in Odoo](https://dev.to/thetrebelcc/how-to-programmatically-cancel-mrp-records-in-odoo-k14)
+- [Mastering WordPress Management: A Comprehensive Guide to WP-CLI Commands](https://dev.to/mikevarenek/mastering-wordpress-management-a-comprehensive-guide-to-wp-cli-commands-5dn9)
+- [Challenges and Solutions in Using ThirdWeb](https://dev.to/zhukmax/challenges-and-solutions-in-using-thirdweb-3j8j)
+- [One thing I wish I knew when I first started to code is... : CodeNewbie Podcast](https://dev.to/codenewbieteam/one-thing-i-wish-i-knew-when-i-first-started-to-code-is-codenewbie-podcast-272h)
+- [The Evolution of the Internet: The Journey Through Time](https://dev.to/stephaniedev/the-evolution-of-the-internet-the-journey-through-time-44i4)
+- [Top 5 Online Markdown Editors &lpar;2024&rpar;](https://dev.to/programmerbyday/top-5-online-markdown-editors-2024-76h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
