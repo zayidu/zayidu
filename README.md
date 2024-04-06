@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🦊 GitLab: A Python Script Calculating DORA Metrics](https://dev.to/zenika/gitlab-a-python-script-calculating-dora-metrics-258o)
-- [Redux Toolkit State Management in React](https://dev.to/syedmuhammadaliraza/redux-toolkit-state-management-in-react-2h7p)
-- [How to use TURN server with PeerJs](https://dev.to/alakkadshaw/how-to-use-turn-server-with-peerjs-6eb)
-- [🚀💼 Lean Startup: Transforming Tech with Lean Principles 💼🚀](https://dev.to/apetryla/lean-startup-transforming-tech-with-lean-principles-3487)
-- [Application Of The Multiple Return Function](https://dev.to/sukmarizki04/application-of-the-multiple-return-function-196p)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4m8a)
+- [30 Days - Node &amp; Express Challenge &lpar;Day 1&rpar;](https://dev.to/ikechukwu411/30-days-node-express-challenge-day-1-3ic2)
+- [Rest APIs with the JavaScript Project.](https://dev.to/mikeadelek/rest-apis-with-the-javascript-project-c1)
+- [The easiest way to authenticate users with Vue.js](https://dev.to/kevinpiac/the-easiest-way-to-authenticate-users-with-vuejs-2b5m)
+- [A Practical Introduction to Closures in JavaScript: Part 1](https://dev.to/diegolepore/a-practical-introduction-to-closures-in-javascript-part-1-1l5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
