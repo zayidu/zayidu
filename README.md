@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Go Custom? The Lasting Advantages of Personalized Software Development](https://dev.to/leandro_nnz/why-go-custom-the-lasting-advantages-of-personalized-software-development-3l3a)
+- [🚀 My Cloudflare AI Challenge Submission: Story and Image Generator](https://dev.to/bobbyiliev/my-cloudflare-ai-challenge-submission-story-and-image-generator-4fc3)
+- [Blockchain explained easy](https://dev.to/greengeko/blockchain-explained-easy-399m)
 - [Fetch API Fun: Beginner&#39;s Guide to Web Requests 🔎🌐](https://dev.to/arjuncodess/fetch-api-fun-beginners-guide-to-web-requests-22od)
-- [How to Handle Dynamic Routing in Next.js](https://dev.to/stephengade/how-to-handle-dynamic-routing-in-nextjs-29gi)
 - [How I Structure my React Projects](https://dev.to/phukon/how-i-structure-my-react-projects-1lk)
-- [From Toy Blocks to Code Blocks: My Journey into Tech](https://dev.to/aivantuquero/from-toy-blocks-to-code-blocks-my-journey-into-tech-3dhg)
-- [My Github project has more than 100 stars✨](https://dev.to/remotewlb/my-github-project-has-more-than-100-stars-1eg2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
