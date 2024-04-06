@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Windowlight - Create world-class code screenshots online](https://dev.to/codewithcaen/introducing-windowlight-create-world-class-code-screenshots-online-5a63)
+- [Clawject: Simplifying Dependency Injection in TypeScript](https://dev.to/artem1458/clawject-simplifying-dependency-injection-in-typescript-6f5)
 - [Day 6/366](https://dev.to/vishalmx3/day-6366-3j4m)
 - [Understanding Code Structure: A Beginner&#39;s Guide to Tree-sitter](https://dev.to/shreshthgoyal/understanding-code-structure-a-beginners-guide-to-tree-sitter-3bbc)
 - [21 HTML Tips You Must Know About](https://dev.to/devshefali/21-html-tips-you-must-know-about-55j7)
-- [Understanding the Adapter Pattern in Go](https://dev.to/kittipat1413/understanding-the-adapter-pattern-in-go-2mln)
-- [HEY.com Review: A Game-Changer or A Gimmick?](https://dev.to/stan8086/heycom-review-a-game-changer-or-a-gimmick-50ka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
