@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-4m8a)
-- [30 Days - Node &amp; Express Challenge &lpar;Day 1&rpar;](https://dev.to/ikechukwu411/30-days-node-express-challenge-day-1-3ic2)
-- [Rest APIs with the JavaScript Project.](https://dev.to/mikeadelek/rest-apis-with-the-javascript-project-c1)
-- [The easiest way to authenticate users with Vue.js](https://dev.to/kevinpiac/the-easiest-way-to-authenticate-users-with-vuejs-2b5m)
-- [A Practical Introduction to Closures in JavaScript: Part 1](https://dev.to/diegolepore/a-practical-introduction-to-closures-in-javascript-part-1-1l5k)
+- [Accelerate Your SaaS Development with Next.js Full-Stack-Kit &lpar;FSK&rpar;](https://dev.to/paterson1720/accelerate-your-saas-development-with-nextjs-full-stack-kit-fsk-2lk4)
+- [Introduction to LLM Ops: Reliable and Scalable LLM Integration](https://dev.to/rutamstwt/introduction-to-llm-ops-reliable-and-scalable-llm-integration-217g)
+- [Introducing EncriptorJS: Secure Text Encryption and Decryption in JavaScript](https://dev.to/sh20raj/introducing-encriptorjs-secure-text-encryption-and-decryption-in-javascript-a-jwt-easy-to-use-alternative-l02)
+- [Voice Memos with ChatGPT: My First &quot;GPT&quot;](https://dev.to/mxro/voice-memos-with-chatgpt-my-first-gpt-30j7)
+- [GitHub Repository README to DEV Community Post](https://dev.to/trevorwslee/github-repository-readme-to-dev-community-post-432m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
