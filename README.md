@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🗝️ Quick macOS Tip: Open Keychain Access from Terminal! 🔍 - Update git credentials](https://dev.to/sh20raj/quick-macos-tip-open-keychain-access-from-terminal-update-git-credentials-9bo)
 - [Set Image or Gradient as Text Background in CSS 😎](https://dev.to/sh20raj/set-image-or-gradient-as-text-background-in-css-bh2)
 - [How to Convert String to Date in JavaScript](https://dev.to/onlinemsr/how-to-convert-string-to-date-in-javascript-p39)
 - [Let&#39;s Code](https://dev.to/tanujav/lets-code-4j44)
 - [Jak nainstalovat vim.plug do Neovim](https://dev.to/kankys/jak-nainstalovat-vimplug-do-neovim-o40)
-- [Descubriendo la Potencia de Go: Backend Inicial con buenas practicas](https://dev.to/jorge6242/descubriendo-la-potencia-de-go-backend-inicial-con-buenas-practicas-513)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
