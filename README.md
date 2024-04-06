@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Code Structure: A Beginner&#39;s Guide to Tree-sitter](https://dev.to/shreshthgoyal/understanding-code-structure-a-beginners-guide-to-tree-sitter-3bbc)
+- [21 HTML Tips You Must Know About](https://dev.to/devshefali/21-html-tips-you-must-know-about-55j7)
+- [Understanding the Adapter Pattern in Go](https://dev.to/kittipat1413/understanding-the-adapter-pattern-in-go-2mln)
 - [HEY.com Review: A Game-Changer or A Gimmick?](https://dev.to/stan8086/heycom-review-a-game-changer-or-a-gimmick-50ka)
 - [Why it&#39;s getting harder for a solo gamedev to complete their project](https://dev.to/jacklehamster/why-its-getting-harder-for-a-solo-gamedev-to-complete-their-project-3a0i)
-- [Enhance Your Express.js Backend with Middleware for Efficient Request Processing](https://dev.to/tirthraval1999/enhance-your-expressjs-backend-with-middleware-for-efficient-request-processing-1mib)
-- [Using raylib with Dear ImGui: Game Dev Debugging UI](https://dev.to/askrodney/using-raylib-with-dear-imgui-game-dev-debugging-ui-5865)
-- [7 Essential JavaScript syntax for React Development](https://dev.to/oyegoke/7-essential-javascript-syntax-for-react-development-p31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
