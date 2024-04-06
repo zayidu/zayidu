@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Telescope com inertia](https://dev.to/willtbn/laravel-telescope-com-inertia-fhb)
-- [Pop_OS Japanese layout](https://dev.to/lyumotech/popos-japanese-layout-173o)
-- [Accelerate Your SaaS Development with Next.js Full-Stack-Kit &lpar;FSK&rpar;](https://dev.to/paterson1720/accelerate-your-saas-development-with-nextjs-full-stack-kit-fsk-2lk4)
-- [Introduction to LLM Ops: Reliable and Scalable LLM Integration](https://dev.to/rutamstwt/introduction-to-llm-ops-reliable-and-scalable-llm-integration-217g)
-- [Introducing EncriptorJS: Secure Text Encryption and Decryption in JavaScript](https://dev.to/sh20raj/introducing-encriptorjs-secure-text-encryption-and-decryption-in-javascript-a-jwt-easy-to-use-alternative-l02)
+- [Set Image or Gradient as Text Background in CSS 😎](https://dev.to/sh20raj/set-image-or-gradient-as-text-background-in-css-bh2)
+- [How to Convert String to Date in JavaScript](https://dev.to/onlinemsr/how-to-convert-string-to-date-in-javascript-p39)
+- [Let&#39;s Code](https://dev.to/tanujav/lets-code-4j44)
+- [Jak nainstalovat vim.plug do Neovim](https://dev.to/kankys/jak-nainstalovat-vimplug-do-neovim-o40)
+- [Descubriendo la Potencia de Go: Backend Inicial con buenas practicas](https://dev.to/jorge6242/descubriendo-la-potencia-de-go-backend-inicial-con-buenas-practicas-513)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
