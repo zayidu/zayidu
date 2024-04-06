@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Unicode string length can mean different things in different languages](https://dev.to/klaeufer/unicode-string-length-can-mean-different-things-in-different-languages-3e6j)
+- [Reactor Netty: UDP DNS client example](https://dev.to/saladlam/reactor-netty-udp-dns-client-example-14p3)
+- [What is Access Modifiers](https://dev.to/m__mdy__m/what-is-access-modifiers-2761)
+- [Princípios FIRST e Test Smells](https://dev.to/htamagnus/principios-first-e-test-smells-33k7)
 - [Why Go Custom? The Lasting Advantages of Personalized Software Development](https://dev.to/leandro_nnz/why-go-custom-the-lasting-advantages-of-personalized-software-development-3l3a)
-- [🚀 My Cloudflare AI Challenge Submission: Story and Image Generator](https://dev.to/bobbyiliev/my-cloudflare-ai-challenge-submission-story-and-image-generator-4fc3)
-- [Blockchain explained easy](https://dev.to/greengeko/blockchain-explained-easy-399m)
-- [Fetch API Fun: Beginner&#39;s Guide to Web Requests 🔎🌐](https://dev.to/arjuncodess/fetch-api-fun-beginners-guide-to-web-requests-22od)
-- [How I Structure my React Projects](https://dev.to/phukon/how-i-structure-my-react-projects-1lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
