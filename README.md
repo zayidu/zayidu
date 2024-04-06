@@ -8,10 +8,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Setup Your Universal App with React Native, Expo Router, Tamagui, and Storybook](https://dev.to/hasan_py/setup-your-universal-app-with-react-native-expo-router-tamagui-and-storybook-28m6)
+- [Building a REST API with FastAPI, Async SQLModel, and PostgreSQL](https://dev.to/jod35/building-a-rest-api-with-fastapi-async-sqlmodel-and-postgresql-1ap2)
 - [Shared UI Setup For Micro Frontend Application &lpar;Module Federation with React&rpar; with Nx Workspace](https://dev.to/serifcolakel/shared-ui-setup-for-micro-frontend-application-module-federation-with-react-with-nx-workspace-1p7c)
-- [Unicode string length can mean different things in different languages](https://dev.to/klaeufer/unicode-string-length-can-mean-different-things-in-different-languages-3e6j)
-- [Reactor Netty: UDP DNS client example](https://dev.to/saladlam/reactor-netty-udp-dns-client-example-14p3)
-- [What is Access Modifiers](https://dev.to/m__mdy__m/what-is-access-modifiers-2761)
+- [Mocks vs Stubs 🤼](https://dev.to/htamagnus/mocks-vs-stubs-18e8)
+- [Creating a free-tier AWS RDS PostgreSQL instance using Terraform](https://dev.to/ericbsantana/creating-a-free-tier-aws-rds-postgresql-instance-using-terraform-1nbo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
