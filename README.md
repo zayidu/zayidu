@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Telescope com inertia](https://dev.to/willtbn/laravel-telescope-com-inertia-fhb)
+- [Pop_OS Japanese layout](https://dev.to/lyumotech/popos-japanese-layout-173o)
 - [Accelerate Your SaaS Development with Next.js Full-Stack-Kit &lpar;FSK&rpar;](https://dev.to/paterson1720/accelerate-your-saas-development-with-nextjs-full-stack-kit-fsk-2lk4)
 - [Introduction to LLM Ops: Reliable and Scalable LLM Integration](https://dev.to/rutamstwt/introduction-to-llm-ops-reliable-and-scalable-llm-integration-217g)
 - [Introducing EncriptorJS: Secure Text Encryption and Decryption in JavaScript](https://dev.to/sh20raj/introducing-encriptorjs-secure-text-encryption-and-decryption-in-javascript-a-jwt-easy-to-use-alternative-l02)
-- [Voice Memos with ChatGPT: My First &quot;GPT&quot;](https://dev.to/mxro/voice-memos-with-chatgpt-my-first-gpt-30j7)
-- [GitHub Repository README to DEV Community Post](https://dev.to/trevorwslee/github-repository-readme-to-dev-community-post-432m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
