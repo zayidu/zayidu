@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are Your Best Clean Code Tips?](https://dev.to/devteam/what-are-your-best-clean-code-tips-khm)
+- [Exploring the Interplay of Aesthetics and Functionality in UI/UX Design](https://dev.to/shieldstring/exploring-the-interplay-of-aesthetics-and-functionality-in-uiux-design-46f5)
 - [Top Social Media Websites in 2024 🔥](https://dev.to/sh20raj/top-social-media-websites-in-2024-45bo)
 - [Top Ways to Promote your business or website](https://dev.to/sh20raj/top-ways-to-promote-your-business-or-website-4kbm)
 - [Deploy your first Java Application on K8s](https://dev.to/kitarp29/deploy-your-first-java-application-on-k8s-14ke)
-- [Understanding React library in 100 seconds](https://dev.to/jamescroissant/understanding-react-library-in-100-seconds-4kf8)
-- [my first 100 stars on the GitHub repo](https://dev.to/0verread/my-first-100-stars-on-the-github-repo-466i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
