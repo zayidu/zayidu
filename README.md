@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to install the latest LTS version of &quot;NodeJS&quot; in &quot;LINUX&quot;?](https://dev.to/roshankhetpal/how-to-install-the-latest-lts-version-of-nodejs-in-linux-5d2g)
-- [5 Developer Communities You Must Join in 2024](https://dev.to/arindam_1729/5-developer-communities-you-must-join-in-2024-2afa)
-- [Greater than fiction](https://dev.to/pathyatt/greater-than-fiction-2glm)
-- [Top VS Code Shortcuts to Supercharge Your Productivity! 😎💻✨](https://dev.to/sh20raj/top-vs-code-shortcuts-to-supercharge-your-productivity-g6m)
-- [A Step-by-Step Tutorial: Mastering API Calls for Beginners](https://dev.to/satokenta/a-step-by-step-tutorial-mastering-api-calls-for-beginners-1bdb)
+- [Top Social Media Websites in 2024 🔥](https://dev.to/sh20raj/top-social-media-websites-in-2024-45bo)
+- [Top Ways to Promote your business or website](https://dev.to/sh20raj/top-ways-to-promote-your-business-or-website-4kbm)
+- [Deploy your first Java Application on K8s](https://dev.to/kitarp29/deploy-your-first-java-application-on-k8s-14ke)
+- [Understanding React library in 100 seconds](https://dev.to/jamescroissant/understanding-react-library-in-100-seconds-4kf8)
+- [my first 100 stars on the GitHub repo](https://dev.to/0verread/my-first-100-stars-on-the-github-repo-466i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
