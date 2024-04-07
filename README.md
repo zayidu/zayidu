@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Page not found on Netlify | React website deployment error solved](https://dev.to/praneshchow/page-not-found-on-netlify-react-website-deployment-error-solved-5e2e)
-- [What You Possibly Don’t Know About Columnar Storage](https://dev.to/esproc_spl/what-you-possibly-dont-know-about-columnar-storage-c1c)
-- [React 19, handling forms using useOptimistic and useFormStatus along with React Hook Form and Zod … practical example](https://dev.to/alaa-m1/react-19-handling-forms-using-useoptimistic-and-useformstatus-along-with-react-hook-form-and-zod-practical-example-2c44)
-- [⚛️ Organizing Code in a React Component](https://dev.to/itswillt/organizing-code-in-a-react-component-4coa)
-- [What Are Your Best Clean Code Tips?](https://dev.to/devteam/what-are-your-best-clean-code-tips-khm)
+- [♨️ Mastering Java Concurrency: Dive into Part 2!](https://dev.to/mjsf1234/mastering-java-concurrency-dive-into-part-2-39n3)
+- [How to Connect MPU9250 and Raspberry Pi &lpar;Part 2 - Calibration&rpar;](https://dev.to/shilleh/how-to-connect-mpu9250-and-raspberry-pi-part-2-calibration-34ka)
+- [Benefits of Walking](https://dev.to/tanujav/benefits-of-walking-35hf)
+- [Manipulating dates in Typescript](https://dev.to/joshuaamaju/manipulating-dates-in-typescript-482p)
+- [The AWS Hub ☁️](https://dev.to/tungbq/the-aws-hub-4phb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
