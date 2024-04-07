@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Horizontally Scalable Transactional Outbox Pattern with .NET 8 and Kafka: A Practical Guide](https://dev.to/fairday/implementing-horizontally-scalable-transactional-outbox-pattern-with-net-8-and-kafka-a-practical-guide-1l1)
+- [Dictionary📚 - Python](https://dev.to/bellatrix/dictionary-python-13me)
+- [Desmistificando Hooks em React: Uma Jornada Além das Classes](https://dev.to/julianoalvescode/desmistificando-hooks-em-react-uma-jornada-alem-das-classes-1fmp)
+- [Fundamentos en Flutter: Variables](https://dev.to/rromaniz/fundamentos-en-flutter-variables-2lhf)
 - [Why are my table rows rendered outside the table? DOM template parsing caveats in Vuejs](https://dev.to/schalkneethling/why-are-my-table-rows-rendered-outside-the-table-dom-template-parsing-caveats-in-vuejs-k1o)
-- [Simplifying Git Worktrees with PowerShell](https://dev.to/kkoziarski/simplifying-git-worktrees-with-powershell-49j9)
-- [git stash](https://dev.to/stefanalfbo/git-stash-42ed)
-- [How to Protect State in Pinia](https://dev.to/jackdomleo7/how-to-protect-state-in-pinia-131o)
-- [What is the difference between Element and Component in React?](https://dev.to/mikevarenek/what-is-the-difference-between-element-and-component-in-react-pia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
