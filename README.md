@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Horizontally Scalable Transactional Outbox Pattern with .NET 8 and Kafka: A Practical Guide](https://dev.to/fairday/implementing-horizontally-scalable-transactional-outbox-pattern-with-net-8-and-kafka-a-practical-guide-1l1)
-- [Dictionary📚 - Python](https://dev.to/bellatrix/dictionary-python-13me)
-- [Desmistificando Hooks em React: Uma Jornada Além das Classes](https://dev.to/julianoalvescode/desmistificando-hooks-em-react-uma-jornada-alem-das-classes-1fmp)
-- [Fundamentos en Flutter: Variables](https://dev.to/rromaniz/fundamentos-en-flutter-variables-2lhf)
-- [Why are my table rows rendered outside the table? DOM template parsing caveats in Vuejs](https://dev.to/schalkneethling/why-are-my-table-rows-rendered-outside-the-table-dom-template-parsing-caveats-in-vuejs-k1o)
+- [Planning Poker Jira integration](https://dev.to/mattlewandowski93/planning-poker-jira-integration-k7e)
+- [My New Podcast: AI With Alex](https://dev.to/alex_the_dev/my-new-podcast-ai-with-alex-1plg)
+- [Why Go is great choice for Software engineering.](https://dev.to/megabytee/why-go-is-great-choice-for-software-engineering-4o7c)
+- [How to Extend a Filament Resource](https://dev.to/andreiabohner/how-to-extend-a-filament-resource-2cl1)
+- [Using Git and GitHub for collaboration](https://dev.to/symplymuslimah12/using-git-and-github-for-collaboration-1dmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
