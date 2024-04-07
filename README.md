@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Developer Communities You Must Join in 2024](https://dev.to/arindam_1729/5-developer-communities-you-must-join-in-2024-2afa)
+- [Top VS Code Shortcuts to Supercharge Your Productivity! 😎💻✨](https://dev.to/sh20raj/top-vs-code-shortcuts-to-supercharge-your-productivity-g6m)
+- [A Step-by-Step Tutorial: Mastering API Calls for Beginners](https://dev.to/satokenta/a-step-by-step-tutorial-mastering-api-calls-for-beginners-1bdb)
 - [Rescuing legacy Node.js projects with Bun](https://dev.to/sadmanyasar/saving-legacy-nodejs-projects-with-bun-2o75)
 - [NestJS tip: how to change HTTP server timeouts](https://dev.to/micalevisk/nestjs-tip-how-to-change-http-server-timeouts-1616)
-- [Hosting Your Own AI Chatbot on Android Devices](https://dev.to/mrdoe/hosting-your-own-ai-chatbot-on-android-devices-2le6)
-- [5 Steps to Get Started with Open Source](https://dev.to/jeffreythecoder/5-steps-to-get-started-with-open-source-2ogl)
-- [Convertendo números binários para decimais com RUST!](https://dev.to/jotavetech/convertendo-numeros-binarios-para-decimais-com-rust-3be3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
