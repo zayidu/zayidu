@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Run Local LLMs Using LM Studio](https://dev.to/wydoinn/run-local-llms-using-lm-studio-4h2a)
+- [Implementing JavaScript Concepts from Scratch](https://dev.to/antonzo/implementing-javascript-concepts-from-scratch-4623)
+- [How to launch AWS EC2 Instance &lpar;Windows&rpar;](https://dev.to/cloudairx/how-to-launch-aws-ec2-instance-windows-jo6)
+- [ARCore For Android](https://dev.to/sandeepsatpute9271/arcore-for-android-12l0)
 - [10 Must Know System Design Concepts for Interviews](https://dev.to/somadevtoo/10-must-know-system-design-concepts-for-interviews-2fii)
-- [♨️ Mastering Java Concurrency: Dive into Part 2!](https://dev.to/mjsf1234/mastering-java-concurrency-dive-into-part-2-39n3)
-- [How to Connect MPU9250 and Raspberry Pi &lpar;Part 2 - Calibration&rpar;](https://dev.to/shilleh/how-to-connect-mpu9250-and-raspberry-pi-part-2-calibration-34ka)
-- [Benefits of Walking](https://dev.to/tanujav/benefits-of-walking-35hf)
-- [Manipulating dates in Typescript](https://dev.to/joshuaamaju/manipulating-dates-in-typescript-482p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
