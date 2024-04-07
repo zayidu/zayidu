@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Harnessing the Future: My Journey Through the ChatGPT Masterclass](https://dev.to/apetryla/harnessing-the-future-my-journey-through-the-chatgpt-masterclass-1bi9)
 - [Building an Offline-Enabled To-Do List Web App 🚀](https://dev.to/sh20raj/building-an-offline-enabled-to-do-list-web-app-89j)
+- [Optimize Your Git Setup: Strategies for Handling Multiple GitHub Accounts](https://dev.to/sisco/optimize-your-git-setup-strategies-for-handling-multiple-github-accounts-3ji8)
 - [Build These 5 Full Stack Projects For An Impressive Profile 🌟🛠️](https://dev.to/arjuncodess/build-these-5-full-stack-projects-for-an-impressive-profile-3eh4)
-- [LeetCode Meditations: Reorder List](https://dev.to/rivea0/leetcode-meditations-reorder-list-2dh)
-- [Credits got depleted and can&#39;t create AI images anymore? How to run your own image generator for free](https://dev.to/hexmos/credits-got-depleted-and-cant-create-ai-images-anymore-how-to-run-your-own-image-generator-for-free-4a0e)
-- [Implement React v18 from Scratch Using WASM and Rust - [1] Build the Project](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-1-build-the-project-414m)
+- [Git: The complete guide to sign your commits with an ssh key](https://dev.to/ccoveille/git-the-complete-guide-to-sign-your-commits-with-an-ssh-key-35bg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
