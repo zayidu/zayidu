@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Credits got depleted and can&#39;t create AI images anymore? How to run your own image generator for free](https://dev.to/hexmos/credits-got-depleted-and-cant-create-ai-images-anymore-how-to-run-your-own-image-generator-for-free-4a0e)
 - [Implement React v18 from Scratch Using WASM and Rust - [1] Build the Project](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-1-build-the-project-414m)
 - [A Guide to Common Web Application Security Vulnerabilities and Mitigation](https://dev.to/mmainulhasan/a-guide-to-common-web-application-security-vulnerabilities-and-mitigation-nmm)
 - [Run Local LLMs Using LM Studio](https://dev.to/wydoinn/run-local-llms-using-lm-studio-4h2a)
 - [Implementing JavaScript Concepts from Scratch](https://dev.to/antonzo/implementing-javascript-concepts-from-scratch-4623)
-- [How to launch AWS EC2 Instance &lpar;Windows&rpar;](https://dev.to/cloudairx/how-to-launch-aws-ec2-instance-windows-jo6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
