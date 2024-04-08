@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Will ESB gradually die.......in era of microservices](https://dev.to/deepakbajaj/will-esb-gradually-diein-era-of-microservices-567i)
+- [Build your Web Applications Faster with Modern Build Tools](https://dev.to/codeparrot/build-your-web-applications-faster-with-modern-build-tools-g2k)
 - [🎣 Reeling in React Hooks](https://dev.to/sh20raj/reeling-in-react-hooks-6lj)
-- [React Hooks 🎣](https://dev.to/sh20raj/reeling-in-react-hooks-18e)
+- [React Hooks 🎣 - One Shot](https://dev.to/sh20raj/reeling-in-react-hooks-18e)
 - [How API7 Gateway Overcomes Exceptions with High Availability Strategies](https://dev.to/api7/how-api7-gateway-overcomes-exceptions-with-high-availability-strategies-34j5)
-- [Mastering Python iteration: Loops and the magic of list comprehensions](https://dev.to/mercykiria/mastering-python-iteration-loops-and-the-magic-of-list-comprehensions-7fp)
-- [Yocto: roll your own embedded Linux distribution](https://dev.to/khozaei/yocto-roll-your-own-embedded-linux-distribution-5h5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
