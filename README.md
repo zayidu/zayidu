@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-4i84)
+- [What is the Difference between &quot;sequel&quot; and &quot;SQL&quot;?](https://dev.to/annoh_karlgusta/what-is-the-difference-between-sequel-and-sql-3e7)
 - [Will ESB gradually die.......in era of microservices](https://dev.to/deepakbajaj/will-esb-gradually-diein-era-of-microservices-567i)
 - [Build your Web Applications Faster with Modern Build Tools](https://dev.to/codeparrot/build-your-web-applications-faster-with-modern-build-tools-g2k)
 - [🎣 Reeling in React Hooks](https://dev.to/sh20raj/reeling-in-react-hooks-6lj)
-- [React Hooks 🎣 - One Shot](https://dev.to/sh20raj/reeling-in-react-hooks-18e)
-- [How API7 Gateway Overcomes Exceptions with High Availability Strategies](https://dev.to/api7/how-api7-gateway-overcomes-exceptions-with-high-availability-strategies-34j5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
