@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Boot Sequence: Docker&#39;s Market Edge](https://dev.to/blackrossay/linux-boot-sequence-dockers-market-edge-19ca)
-- [12 Free Courses To Help You Develop More Secure Software - Shift Security Left](https://dev.to/schalkneethling/12-free-courses-to-help-you-develop-more-secure-software-shift-security-left-j2i)
-- [Uncaught Error: No QueryClient set, use QueryClientProvider to set one](https://dev.to/catwebdev/uncaught-error-no-queryclient-set-use-queryclientprovider-to-set-one-5aa5)
-- [Premature Optimization](https://dev.to/kalkwst/premature-optimization-47o0)
-- [How reading can make you a better developer](https://dev.to/ronaizacardoso/how-reading-can-make-you-a-better-developer-42b9)
+- [Building Llama as a Service &lpar;LaaS&rpar;](https://dev.to/spencerlepine/building-llama-as-a-service-laas-4eo5)
+- [Creating Custom Git Commands](https://dev.to/spencerlepine/creating-custom-git-commands-299e)
+- [Git Project Configuration With Husky and ESLint](https://dev.to/spencerlepine/git-project-configuration-with-husky-and-eslint-ib1)
+- [ManyShiba - The World&#39;s Greatest Twitter Bot](https://dev.to/spencerlepine/manyshiba-the-worlds-greatest-twitter-bot-5a70)
+- [Portfolio Site Continuous Integration GitHub Action](https://dev.to/spencerlepine/portfolio-site-continuous-integration-github-action-3cl6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
