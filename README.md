@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [We got 500 GitHub stars! 🤯 What&#39;s next?](https://dev.to/maxprilutskiy/we-got-500-github-stars-whats-next-2njc)
+- [10 AWESOME VS CODE EXTENSIONS 👨‍💻](https://dev.to/mince/10-awesome-vs-code-extensions-1l1o)
+- [Power Automate - Objects](https://dev.to/wyattdave/power-automate-objects-bf8)
+- [Brewing Bytes: Exploring Programming and Low Code Development](https://dev.to/balagmadhu/brewing-bytes-exploring-programming-and-low-code-development-45d2)
 - [Introducing Catepedia: A Nuxt 3 Cat Breed Search App](https://dev.to/rajeshroyal/introducing-catepedia-a-nuxt-3-cat-breed-search-app-5fkm)
-- [1 Law of Success as a Developer](https://dev.to/annoh_karlgusta/1-law-of-success-as-a-developer-1bg6)
-- [Release Radar • March 2024 Edition](https://dev.to/github/release-radar-march-2024-edition-481i)
-- [HTML Tips You Must Know About](https://dev.to/pinky057/html-tips-you-must-know-about-2n3o)
-- [Unveiling the Mechanics Behind Next.js Path Matching](https://dev.to/yhshanto/unveiling-the-mechanics-behind-nextjs-path-matching-4ia8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
