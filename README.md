@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Security : CVE-2024-3094 unauthorized remote SSH access](https://dev.to/hexfloor/security-cve-2024-3094-unauthorized-remote-ssh-access-2ml8)
-- [Top Crypto Events to Take Place in April](https://dev.to/endeo/top-crypto-events-to-take-place-in-april-1hnj)
-- [IP Address Explained in Detail! Passport to the World Wide Web? 🌐🕵️‍♂️](https://dev.to/arjuncodess/ip-address-explained-in-detail-passport-to-the-world-wide-web-3ob7)
-- [5 Easy Ways to Return Multiple Values in C#](https://dev.to/bytehide/5-easy-ways-to-return-multiple-values-in-c-60o)
-- [Music Monday — What are you listening to? &lpar;Favorite Album Titles Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-favorite-album-titles-edition-26lg)
+- [Premature Optimization](https://dev.to/kalkwst/premature-optimization-47o0)
+- [How reading can make you a better developer](https://dev.to/ronaizacardoso/how-reading-can-make-you-a-better-developer-42b9)
+- [What makes a good dashboard](https://dev.to/i3b/what-makes-a-good-dashboard-m8j)
+- [What’s the Difference Between Fine-tuning, Retraining, and RAG?](https://dev.to/mindsdb/whats-the-difference-between-fine-tuning-retraining-and-rag-3ao0)
+- [Release 1.8 Contributions : ChatCraft.org🤖](https://dev.to/rachit1313/release-18-contributions-chatcraftorg-4la0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
