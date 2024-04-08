@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Roundup 047 &lpar;Apr 01&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-047-apr-01-hot-topics-in-workplace-sharepoint-and-powerplatform-4855)
+- [React Query State Management](https://dev.to/syedmuhammadaliraza/react-query-state-management-3jo1)
 - [How to Create a Responsive Lightbox Gallery with Thumbnails using HTML, CSS, and JavaScript](https://dev.to/chiboy_001/how-to-create-a-responsive-lightbox-gallery-with-thumbnails-using-html-css-and-javascript-4d2h)
 - [Easiest Explanation of DOM, Even a 6 year old can understand](https://dev.to/shubhsharma19/easiest-explanation-of-dom-even-a-6-year-old-can-understand-3njl)
 - [Creating an animated loading spinner with pure CSS](https://dev.to/peboy/creating-an-animated-loading-spinner-with-pure-css-24h0)
-- [How to create a set of tabs with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-set-of-tabs-with-tailwind-css-and-alpinejs-8kd)
-- [Building User Story &amp; Use Case Generator using Lyzr SDK](https://dev.to/akshay007/building-user-story-use-case-generator-using-lyzr-sdk-2c6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
