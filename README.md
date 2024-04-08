@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Rails Designer v0.9.0 release](https://dev.to/railsdesigner/rails-designer-v090-release-1na)
+- [Have You Ever Walked Away from A Job Offer?](https://dev.to/devteam/have-you-ever-walked-away-from-a-job-offer-54da)
+- [Rapid Slack app development using Slack CLI and sandboxes](https://dev.to/seratch/rapid-slack-app-development-using-slack-cli-and-sandboxes-2f6m)
+- [Falando dos Meus Últimos Meses de Estudo em Análise de Dados 🎲](https://dev.to/analaura/falando-dos-meus-ultimos-meses-de-estudo-em-analise-de-dados-dl9)
 - [We got 500 GitHub stars! 🤯 What&#39;s next?](https://dev.to/maxprilutskiy/we-got-500-github-stars-whats-next-2njc)
-- [10 AWESOME VS CODE EXTENSIONS 👨‍💻](https://dev.to/mince/10-awesome-vs-code-extensions-1l1o)
-- [Power Automate - Objects](https://dev.to/wyattdave/power-automate-objects-bf8)
-- [Brewing Bytes: Exploring Programming and Low Code Development](https://dev.to/balagmadhu/brewing-bytes-exploring-programming-and-low-code-development-45d2)
-- [Introducing Catepedia: A Nuxt 3 Cat Breed Search App](https://dev.to/rajeshroyal/introducing-catepedia-a-nuxt-3-cat-breed-search-app-5fkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
