@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux Boot Sequence: Docker&#39;s Market Edge](https://dev.to/blackrossay/linux-boot-sequence-dockers-market-edge-19ca)
+- [12 Free Courses To Help You Develop More Secure Software - Shift Security Left](https://dev.to/schalkneethling/12-free-courses-to-help-you-develop-more-secure-software-shift-security-left-j2i)
+- [Uncaught Error: No QueryClient set, use QueryClientProvider to set one](https://dev.to/catwebdev/uncaught-error-no-queryclient-set-use-queryclientprovider-to-set-one-5aa5)
 - [Premature Optimization](https://dev.to/kalkwst/premature-optimization-47o0)
 - [How reading can make you a better developer](https://dev.to/ronaizacardoso/how-reading-can-make-you-a-better-developer-42b9)
-- [What makes a good dashboard](https://dev.to/i3b/what-makes-a-good-dashboard-m8j)
-- [What’s the Difference Between Fine-tuning, Retraining, and RAG?](https://dev.to/mindsdb/whats-the-difference-between-fine-tuning-retraining-and-rag-3ao0)
-- [Release 1.8 Contributions : ChatCraft.org🤖](https://dev.to/rachit1313/release-18-contributions-chatcraftorg-4la0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
