@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Someone finally fixed Javascript](https://dev.to/almaju/someone-finally-fixed-javascript-426i)
 - [Automatic Environment Creation from Your Git Workflow](https://dev.to/env0/automatic-environment-creation-from-your-git-workflow-5h0h)
 - [Multiple Disease Prediction System](https://dev.to/sudhanshuambastha/multiple-disease-prediction-system-hnj)
 - [Poly Disease Predictor](https://dev.to/sudhanshuambastha/poly-disease-predictor-2881)
 - [Understanding Linux Firewalld](https://dev.to/emminex/understanding-linux-firewalld-3hn5)
-- [Exploring The Magic of Python Through The Awesome Slumber Library](https://dev.to/derlin/exploring-the-magic-of-python-through-the-awesome-slumber-library-22pj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
