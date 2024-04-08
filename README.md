@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Someone finally fixed Javascript](https://dev.to/almaju/someone-finally-fixed-javascript-426i)
-- [Automatic Environment Creation from Your Git Workflow](https://dev.to/env0/automatic-environment-creation-from-your-git-workflow-5h0h)
-- [Multiple Disease Prediction System](https://dev.to/sudhanshuambastha/multiple-disease-prediction-system-hnj)
-- [Poly Disease Predictor](https://dev.to/sudhanshuambastha/poly-disease-predictor-2881)
-- [Understanding Linux Firewalld](https://dev.to/emminex/understanding-linux-firewalld-3hn5)
+- [IoT Software Development: Advantages and Disadvantages](https://dev.to/anna-boiko/iot-software-development-advantages-and-disadvantages-1g1i)
+- [Facing the Monster: An Analgesic for Relayphobia](https://dev.to/mauvieira/facing-the-monster-an-analgesic-for-relayphobia-34g9)
+- [Struggling to land your first development job? Here is what you should do](https://dev.to/lnahrf/struggling-to-land-your-first-development-job-here-is-what-you-should-do-4d4f)
+- [Writing your first Github CI workflow](https://dev.to/anoopw3bdev/writing-your-first-github-ci-workflow-26i0)
+- [Adding standalone or &quot;one off&quot; scripts to your Playwright suite](https://dev.to/philipfong/adding-standalone-or-one-off-scripts-in-your-playwright-suite-3kng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
