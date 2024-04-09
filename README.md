@@ -11,7 +11,7 @@
 - [Adding Vercel analytics to your static Astro site](https://dev.to/sporter/adding-vercel-analytics-to-your-static-astro-site-1eob)
 - [What is dependency injection](https://dev.to/m__mdy__m/what-is-dependency-injection-11a6)
 - [Lessons from open-source: Use window.trustedTypes to prevent DOM XSS.](https://dev.to/ramunarasinga/lessons-from-open-source-use-windowtrustedtypes-to-prevent-dom-xss-a5a)
-- [deploy the csi driver hostpath to kubernetes n windows docker](https://dev.to/darkedges/deploy-the-csi-driver-hostpath-to-kubernetes-n-windows-docker-4dlj)
+- [A place for programmers to share ideas and help each other grow.](https://dev.to/genman/a-place-for-programmers-to-share-ideas-and-help-each-other-grow-5ame)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
