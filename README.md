@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is jsdelivr is made on Netlify](https://dev.to/sh20raj/is-jsdelivr-is-made-on-netlify-4dmo)
-- [How to create Custom Events in JavaScript?](https://dev.to/madhusaini22/how-to-create-custom-events-in-javascript-10j2)
-- [Add rate limits to NextJS APIs](https://dev.to/sh20raj/add-rate-limits-to-nextjs-apis-35ma)
-- [Construindo um web server em Assembly x86, parte I, introdução](https://dev.to/leandronsp/construindo-um-web-server-em-assembly-x86-parte-i-introducao-14p5)
-- [9章6](https://dev.to/aaattt/9zhang-6-4fh4)
+- [Learn Generative AI for Free [E-Book]!](https://dev.to/pavanbelagatti/learn-generative-ai-for-free-e-book-9k1)
+- [Run Bun! Command Guide](https://dev.to/imparth/run-bun-npm-yarn-and-bun-commands-16e6)
+- [Next js Data Caching](https://dev.to/syedmuhammadaliraza/next-js-data-caching-3a02)
+- [Static site generation using Astro](https://dev.to/codeparrot/static-site-generation-using-astrojs-345j)
+- [９章１２](https://dev.to/aaattt/9zhang-12-b3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
