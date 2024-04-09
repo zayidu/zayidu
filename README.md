@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 How to be a great software engineer without using your brain.](https://dev.to/samuelfaure/how-to-be-a-great-software-engineer-without-using-your-brain-1g5k)
-- [11 Python Newsletters You Need to Subscribe to in 2024](https://dev.to/taipy/11-python-newsletters-you-need-to-subscribe-to-in-2024-3d33)
-- [Become a Senior React Developer by Mastering 8 Design Patterns](https://dev.to/imrankh13332994/become-a-senior-react-developer-by-mastering-8-design-patterns-9mn)
-- [Creating your own UI extension points in Umbraco v14 - Part 3: Customizable APIs](https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-3-customizable-apis-3h42)
-- [Data Structures and Algorithms &lpar;Part 1&rpar;](https://dev.to/thecspandz/data-structures-and-algorithms-part-1-4dj2)
+- [Speak Everyone&#39;s Language: A Guide to Multilingual React Apps! 🔯](https://dev.to/margish288/speak-everyones-language-a-guide-to-multilingual-react-apps-3n2f)
+- [Build It, Block It, Visualize It: Introducing Unify Viz Blocks 2.0](https://dev.to/amcdnl/build-it-block-it-visualize-it-introducing-unify-viz-blocks-20-419e)
+- [Phrase CLI Config YAML](https://dev.to/ahandsel/phrase-cli-config-yaml-3pdh)
+- [Lots of debug log is written after commons-logging is upgraded to 1.3.0](https://dev.to/franzwong/lots-of-debug-log-is-written-after-commons-logging-is-upgraded-to-130-1o30)
+- [Call React library in Angular](https://dev.to/wszgrcy/call-react-library-in-angular-11i0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
