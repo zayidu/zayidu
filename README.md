@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [A prisma.schema for an advance Social Media Website](https://dev.to/sh20raj/a-prismaschema-for-an-advance-social-media-website-24l9)
+- [TanStack Router: Nesting &amp; 404 pages](https://dev.to/this-is-learning/tanstack-router-nesting-404-pages-36f9)
+- [Mastering Tailwind CSS Customization](https://dev.to/mario130/mastering-tailwind-css-customization-j5c)
 - [🎨 Form Input Wave Animation | CSS &amp; JavaScript🚀](https://dev.to/robsonmuniz16/form-input-wave-animation-css-javascript-3cb0)
 - [Hoje tem Flamengo! no conky](https://dev.to/evertontenorio/hoje-tem-flamengo-no-conky-3p2d)
-- [All in One AI App with Cloudflare Pages](https://dev.to/shaileshofficial2019/all-in-one-ai-app-with-cloudflare-pages-43c3)
-- [Open Source: Redis License Change and Rebranding](https://dev.to/bascodes/open-source-redis-license-change-and-rebranding-4254)
-- [Understanding of Python Lists](https://dev.to/shaheryaryousaf/understanding-of-python-lists-e14)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
