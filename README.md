@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Playlists for Coding: Top10 for different moods](https://dev.to/serverspace/playlists-for-coding-top10-for-different-moods-g4g)
+- [More expansive GPU doesn’t mean better always actually in many case in AI. Here a great example.](https://dev.to/furkangozukara/more-expansive-gpu-doesnt-mean-better-always-actually-in-many-case-in-ai-here-a-great-example-3meg)
+- [The Ultimate Guide to Laravel Reverb: Real-Time Notifications](https://dev.to/novu/the-ultimate-guide-to-laravel-reverb-real-time-notifications-48h4)
+- [The Ultimate Guide to Laravel Reverb](https://dev.to/novu/the-ultimate-guide-to-laravel-reverb-275o)
 - [Speak Everyone&#39;s Language: A Guide to Multilingual React Apps! 🔯](https://dev.to/margish288/speak-everyones-language-a-guide-to-multilingual-react-apps-3n2f)
-- [Build It, Block It, Visualize It: Introducing Unify Viz Blocks 2.0](https://dev.to/amcdnl/build-it-block-it-visualize-it-introducing-unify-viz-blocks-20-419e)
-- [Phrase CLI Config YAML](https://dev.to/ahandsel/phrase-cli-config-yaml-3pdh)
-- [Lots of debug log is written after commons-logging is upgraded to 1.3.0](https://dev.to/franzwong/lots-of-debug-log-is-written-after-commons-logging-is-upgraded-to-130-1o30)
-- [Call React library in Angular](https://dev.to/wszgrcy/call-react-library-in-angular-11i0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
