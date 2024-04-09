@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wireshark &amp; tcpdump: A Debugging Power Couple](https://dev.to/codenameone/wireshark-tcpdump-a-debugging-power-couple-3222)
-- [How Woovi is building a self hosted cloud native CI/CD platform with Tekton and Argocd](https://dev.to/woovi/how-woovi-is-building-a-self-hosted-cloud-native-cicd-platform-with-tekton-and-argocd-22cd)
-- [Code Smell 246 - Expiration Date](https://dev.to/mcsee/code-smell-246-expiration-date-boi)
-- [Plotting Financial Data in Kotlin with Kandy](https://dev.to/andrei_kingsley/plotting-financial-data-in-kotlin-with-kandy-4gc3)
-- [A Love Letter to Gen Z from Gen Y: Understanding React&#39;s Evolution](https://dev.to/anishamalde/a-love-letter-to-gen-z-from-gen-y-understanding-reacts-evolution-4abm)
+- [Hoje tem Flamengo! no conky](https://dev.to/evertontenorio/hoje-tem-flamengo-no-conky-3p2d)
+- [All in One AI App with Cloudflare Pages](https://dev.to/shaileshofficial2019/all-in-one-ai-app-with-cloudflare-pages-43c3)
+- [Open Source: Redis License Change and Rebranding](https://dev.to/bascodes/open-source-redis-license-change-and-rebranding-4254)
+- [Understanding of Python Lists](https://dev.to/shaheryaryousaf/understanding-of-python-lists-e14)
+- [&quot;Exception opening socket&quot; and &quot;connect timed out&quot; - How to connect Spring Boot to MongoDB on Remote Server](https://dev.to/sangita272/exception-opening-socket-and-connect-timed-out-how-to-connect-spring-boot-to-mongodb-on-remote-server-4225)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
