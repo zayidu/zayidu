@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Generative AI for Free [E-Book]!](https://dev.to/pavanbelagatti/learn-generative-ai-for-free-e-book-9k1)
-- [Run Bun! Command Guide](https://dev.to/imparth/run-bun-npm-yarn-and-bun-commands-16e6)
-- [Next js Data Caching](https://dev.to/syedmuhammadaliraza/next-js-data-caching-3a02)
-- [Static site generation using Astro](https://dev.to/codeparrot/static-site-generation-using-astrojs-345j)
-- [９章１２](https://dev.to/aaattt/9zhang-12-b3d)
+- [Wealthy? Or WELLthy?](https://dev.to/devteam/wealthy-or-wellthy-2h8)
+- [Web Performance Optimization Techniques](https://dev.to/rounit08/web-performance-optimization-techniques-1n9h)
+- [Exploring Microsoft Whiteboard&#39;s Copilot Function](https://dev.to/jaloplo/exploring-microsoft-whiteboards-copilot-function-1gen)
+- [The Merits &amp; Demerits of Selenium Automation Testing](https://dev.to/grjoeay/the-merits-demerits-of-selenium-automation-testing-5amn)
+- [New Support Portal: Fresh Look &amp; Expanded Knowledge Base Launched](https://dev.to/getambassador2024/new-support-portal-fresh-look-expanded-knowledge-base-launched-lke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
