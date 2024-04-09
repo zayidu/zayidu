@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Participating in The Collab Lab: Wrapping up](https://dev.to/vivitt/participating-in-the-collab-lab-wrapping-up-2bmf)
-- [A prisma.schema for an advance Social Media Website](https://dev.to/sh20raj/a-prismaschema-for-an-advance-social-media-website-24l9)
-- [TanStack Router: Nesting &amp; 404 pages](https://dev.to/this-is-learning/tanstack-router-nesting-404-pages-36f9)
-- [Mastering Tailwind CSS Customization](https://dev.to/mario130/mastering-tailwind-css-customization-j5c)
-- [🎨 Form Input Wave Animation | CSS &amp; JavaScript🚀](https://dev.to/robsonmuniz16/form-input-wave-animation-css-javascript-3cb0)
+- [Crafting Unforgettable Digital Experiences, One Project at a Time](https://dev.to/seeratawan01/crafting-unforgettable-digital-experiences-one-project-at-a-time-47af)
+- [Share the Love and Earn Some Badges! ❤️](https://dev.to/devteam/share-the-love-and-earn-some-badges-55hf)
+- [ReductStore CLI Client now in Rust](https://dev.to/reductstore/reductstore-cli-client-now-in-rust-4707)
+- [Code a 2-layer Neural Network from Scratch](https://dev.to/hoangng/code-a-2-layer-neural-network-from-scratch-1hki)
+- [ComSen: Because Common Sense Isn&#39;t So Common in Software Development](https://dev.to/iqm0/comsen-because-common-sense-isnt-so-common-in-software-development-3acb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
