@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧙‍♂️ Tutorial Typescript para Iniciantes](https://dev.to/magoacademico/tutorial-typescript-para-iniciantes-1fj4)
-- [Wealthy? Or WELLthy?](https://dev.to/devteam/wealthy-or-wellthy-2h8)
-- [Web Performance Optimization Techniques](https://dev.to/rounit08/web-performance-optimization-techniques-1n9h)
-- [Exploring Microsoft Whiteboard&#39;s Copilot Function](https://dev.to/jaloplo/exploring-microsoft-whiteboards-copilot-function-1gen)
-- [Improve your EKS cluster with Istio and Cilium : Better networking and security](https://dev.to/aws-builders/improve-your-eks-cluster-with-istio-and-cilium-better-networking-and-security-1fcp)
+- [🧠 How to be a great software engineer without using your brain.](https://dev.to/samuelfaure/how-to-be-a-great-software-engineer-without-using-your-brain-1g5k)
+- [11 Python Newsletters You Need to Subscribe to in 2024](https://dev.to/taipy/11-python-newsletters-you-need-to-subscribe-to-in-2024-3d33)
+- [Become a Senior React Developer by Mastering 8 Design Patterns](https://dev.to/imrankh13332994/become-a-senior-react-developer-by-mastering-8-design-patterns-9mn)
+- [Creating your own UI extension points in Umbraco v14 - Part 3: Customizable APIs](https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-3-customizable-apis-3h42)
+- [Data Structures and Algorithms &lpar;Part 1&rpar;](https://dev.to/thecspandz/data-structures-and-algorithms-part-1-4dj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
