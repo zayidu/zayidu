@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Controlled and Uncontrolled components in react](https://dev.to/vishnusatheesh/controlled-and-uncontrolled-components-in-react-1me4)
-- [As a Developer, Sometimes You Should Play the Role of a Tester](https://dev.to/doantrongnam/as-a-developer-sometimes-you-should-play-the-role-of-a-tester-247h)
-- [Kafka vs. RabbitMQ: Which is the Right Messaging Broker for your use case?](https://dev.to/yogini16/kafka-vs-rabbitmq-which-is-the-right-messaging-broker-for-your-use-case-39de)
-- [Azure Managed Identities: No more secrets](https://dev.to/programmeral/azure-managed-identities-no-more-secrets-19cc)
-- [Why Coding is Scary and How To Learn Better](https://dev.to/annoh_karlgusta/why-coding-is-scary-and-how-to-learn-better-4i25)
+- [How Do You Lead without Authority?](https://dev.to/devteam/how-do-you-lead-without-authority-514a)
+- [Crafting Fast and Reliable Web Experiences with Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/abhilaksharora/crafting-fast-and-reliable-web-experiences-with-progressive-web-apps-pwas-53ee)
+- [１０章7](https://dev.to/aaattt/10zhang-7-5b3e)
+- [What is JavaScript](https://dev.to/shivamblog/introduction-to-javascript-3fc5)
+- [JS Study Notes&lpar;1&rpar; CN](https://dev.to/emmelinexu/js-study-notes1-cn-19fd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
