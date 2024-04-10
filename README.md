@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Validate Your SaaS Idea with MVP: A Crucial Step in SaaS MVP Development](https://dev.to/cygnismedia/validate-your-saas-idea-with-mvp-a-crucial-step-in-saas-mvp-development-1o80)
+- [Step-By-Step: How To Create a Linux Virtual Machine In Azure](https://dev.to/emmamag/step-by-step-how-to-create-a-linux-virtual-machine-in-azure-5d20)
+- [Recent Rust Security Advisory: CVE-2024-24576](https://dev.to/crabnebula/recent-rust-security-advisory-cve-2024-24576-45i5)
+- [Deploy a React application with multiple pages to Github](https://dev.to/ihesami/deploy-a-react-application-with-multiple-pages-to-github-5406)
 - [Kick Start Your Next Project With Holo Theme](https://dev.to/lilxyzz/kick-start-your-next-project-with-holo-theme-26a4)
-- [You can’t run away from runtime errors using TypeScript](https://dev.to/miguelo0098/you-cant-run-away-from-runtime-errors-using-typescript-2l9k)
-- [What&#39;s New in API7 Enterprise 3.2.9: Custom Plugin Management](https://dev.to/api7/whats-new-in-api7-enterprise-329-custom-plugin-management-4bgl)
-- [The wrappers for your Components: Pages 📃](https://dev.to/dvalin99/the-wrappers-for-your-components-pages-5028)
-- [Pull Request Stacking](https://dev.to/gearoidotreasaigh/pull-request-stacking-3n88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
