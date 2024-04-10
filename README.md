@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Coding is Scary and How To Learn Better](https://dev.to/annoh_karlgusta/why-coding-is-scary-and-how-to-learn-better-4i25)
+- [XValidatorX: A Lightweight Validation Library for JavaScript](https://dev.to/sh20raj/xvalidatorx-a-lightweight-validation-library-for-javascript-2c59)
+- [Getting Started with MongoDB: A Beginner&#39;s Guide](https://dev.to/tirthraval1999/getting-started-with-mongodb-a-beginners-guide-25g5)
 - [Empowering Web Privacy with Rust: Building a Decentralized Identity Management System](https://dev.to/zhukmax/empowering-web-privacy-with-rust-building-a-decentralized-identity-management-system-224c)
 - [Use Central configuration for AWS Security Hub operation in AWS multi-accounts](https://dev.to/nishikawaakira/use-central-configuration-for-aws-security-hub-operation-in-aws-multi-accounts-23n8)
-- [HTML: A Comprehensive Guide - Chapter One](https://dev.to/schalkneethling/html-a-comprehensive-guide-chapter-one-pfg)
-- [Welcome Thread - v271](https://dev.to/devteam/welcome-thread-v271-1e8o)
-- [Django, Htmx e React: usando HTMX para além de TODO-Lists](https://dev.to/eduardojm/django-htmx-e-react-usando-htmx-para-alem-de-todo-lists-3amo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
