@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [arange&lpar;&rpar;, linspace&lpar;&rpar;, logspace&lpar;&rpar; and normal&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/arange-linspace-logspace-and-normal-in-pytorch-a87)
-- [Citizen Developers Rise Up: The LCNC Revolution 🌐](https://dev.to/sudhil/citizen-developers-rise-up-the-lcnc-revolution-53il)
-- [How to Set Up Multiple PostgreSQL Instances on a Single Server](https://dev.to/titusnjuguna/how-to-set-up-multiple-postgresql-instances-on-a-single-server-15gg)
-- [Docker](https://dev.to/oatula/docker-1c5j)
-- [Are hackers watching your screen right now?](https://dev.to/lnahrf/are-hackers-watching-your-screen-right-now-32bg)
+- [Ace Your Next Sprint Planning with This Step-by-Step Guide to Planning Poker 🃏](https://dev.to/mattlewandowski93/ace-your-next-sprint-planning-with-this-step-by-step-guide-to-planning-poker-39e7)
+- [Effective JavaScript Debugging Techniques](https://dev.to/jenniferchuks/effective-javascript-debugging-techniques-35pf)
+- [Efficiently Testing Asynchronous React Hooks with Vitest](https://dev.to/poly4/efficiently-testing-asynchronous-react-hooks-with-vitest-1hll)
+- [How to deploy a Ktor app on Railway](https://dev.to/coltonidle/how-to-deploy-a-ktor-app-on-railway-3jde)
+- [The Ogre platform for code reproducibility [beta]](https://dev.to/ogre/the-ogre-platform-for-code-reproducibility-beta-1p1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
