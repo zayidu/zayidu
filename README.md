@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Empowering Web Privacy with Rust: Building a Decentralized Identity Management System](https://dev.to/zhukmax/empowering-web-privacy-with-rust-building-a-decentralized-identity-management-system-224c)
+- [Use Central configuration for AWS Security Hub operation in AWS multi-accounts](https://dev.to/nishikawaakira/use-central-configuration-for-aws-security-hub-operation-in-aws-multi-accounts-23n8)
 - [HTML: A Comprehensive Guide - Chapter One](https://dev.to/schalkneethling/html-a-comprehensive-guide-chapter-one-pfg)
 - [Welcome Thread - v271](https://dev.to/devteam/welcome-thread-v271-1e8o)
-- [RESTful APIs with Laravel: Best Practices](https://dev.to/mikevarenek/restful-apis-with-laravel-best-practices-811)
-- [8 SaaS Ideas You Can Start Today](https://dev.to/domfive/8-saas-ideas-you-can-start-today-fl6)
-- [zeros&lpar;&rpar;, zeros_like&lpar;&rpar;, ones&lpar;&rpar; and ones_like&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/zeros-zeroslike-ones-and-oneslike-in-pytorch-26jm)
+- [Django, Htmx e React: usando HTMX para além de TODO-Lists](https://dev.to/eduardojm/django-htmx-e-react-usando-htmx-para-alem-de-todo-lists-3amo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
