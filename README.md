@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New Beginnings](https://dev.to/jroycodes/new-beginnings-3bf7)
-- [Two ways to manage secrets for AWS Redshift Serverless with AWS Secrets Manager !!](https://dev.to/aws-builders/two-ways-to-manage-secrets-for-aws-redshift-serverless-with-aws-secrets-manager--49nn)
-- [Dasturlash tili?](https://dev.to/ozodboyeva/dasturlash-tili-57fl)
-- [Why &quot;null&quot; is an abomination](https://dev.to/almaju/why-null-is-an-abomination-2fmm)
-- [Use Notion as your CMS along with Next.js](https://dev.to/amaanmohib/use-notion-as-your-cms-along-with-nextjs-1j2m)
+- [arange&lpar;&rpar;, linspace&lpar;&rpar;, logspace&lpar;&rpar; and normal&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/arange-linspace-logspace-and-normal-in-pytorch-a87)
+- [Citizen Developers Rise Up: The LCNC Revolution 🌐](https://dev.to/sudhil/citizen-developers-rise-up-the-lcnc-revolution-53il)
+- [How to Set Up Multiple PostgreSQL Instances on a Single Server](https://dev.to/titusnjuguna/how-to-set-up-multiple-postgresql-instances-on-a-single-server-15gg)
+- [Docker](https://dev.to/oatula/docker-1c5j)
+- [Are hackers watching your screen right now?](https://dev.to/lnahrf/are-hackers-watching-your-screen-right-now-32bg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
