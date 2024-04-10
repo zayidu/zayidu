@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Recommend 12 free productivity tools! Make your work more effective with less effort!](https://dev.to/wuyasong/recommend-12-free-productivity-tools-make-your-work-more-effective-with-less-effort-4jjo)
-- [Day 22 of 30-Day .NET Challenge: Use Array Pool](https://dev.to/ssukhpinder/day-22-of-30-day-net-challenge-use-array-pool-34ha)
-- [JSON vs OBJECT in Javascript](https://dev.to/anuragaffection/json-vs-object-in-javascript-5bla)
-- [AI combined with Node.js x-crawl crawler](https://dev.to/coderhxl/ai-combined-with-nodejs-x-crawl-crawler-46d0)
-- [Best Next.js Libraries and Tools in 2024](https://dev.to/probir-sarkar/best-nextjs-libraries-and-tools-in-2024-4j4b)
+- [The wrappers for your Components: Pages 📃](https://dev.to/dvalin99/the-wrappers-for-your-components-pages-5028)
+- [Pull Request Stacking](https://dev.to/gearoidotreasaigh/pull-request-stacking-3n88)
+- [Code of game engine written in Java: what does it hide?](https://dev.to/anogneva/code-of-game-engine-written-in-java-what-does-it-hide-5cf8)
+- [Jolt Physics raylib: trying 3D C++ Game Physics Engine](https://dev.to/askrodney/jolt-physics-raylib-trying-3d-c-game-physics-engine-4c5c)
+- [How to generate a great website and reference manual for your R package](https://dev.to/jj/how-to-generate-a-great-website-and-reference-manual-for-your-r-package-33al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
