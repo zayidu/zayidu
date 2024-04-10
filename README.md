@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s New in API7 Enterprise 3.2.9: Custom Plugin Management](https://dev.to/api7/whats-new-in-api7-enterprise-329-custom-plugin-management-4bgl)
 - [The wrappers for your Components: Pages 📃](https://dev.to/dvalin99/the-wrappers-for-your-components-pages-5028)
 - [Pull Request Stacking](https://dev.to/gearoidotreasaigh/pull-request-stacking-3n88)
 - [Code of game engine written in Java: what does it hide?](https://dev.to/anogneva/code-of-game-engine-written-in-java-what-does-it-hide-5cf8)
 - [Jolt Physics raylib: trying 3D C++ Game Physics Engine](https://dev.to/askrodney/jolt-physics-raylib-trying-3d-c-game-physics-engine-4c5c)
-- [How to generate a great website and reference manual for your R package](https://dev.to/jj/how-to-generate-a-great-website-and-reference-manual-for-your-r-package-33al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
