@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Content Encoding](https://dev.to/lakshanfernando/content-encoding-48po)
-- [Lesser know JavaScript array methods part -1](https://dev.to/shreenidhibatavi/lesser-know-javascript-array-methods-11d4)
-- [✨ AI Fairytale generator](https://dev.to/programordie/ai-fairytale-generator-385d)
-- [Day 10/366](https://dev.to/vishalmx3/day-10366-bia)
-- [Cloudflare AI Challenge Submission: ImageHarmony 🎵🖌](https://dev.to/floscode/cloudflare-ai-challenge-submission-imageharmony-e7o)
+- [Use Notion as your CMS along with Next.js](https://dev.to/amaanmohib/use-notion-as-your-cms-along-with-nextjs-1j2m)
+- [GTK4 `dotnet new` Project Template](https://dev.to/kashifsoofi/gtk4-dotnet-new-project-template-1md5)
+- [CSS Hooks and the state of CSS-in-JS](https://dev.to/logrocket/css-hooks-and-the-state-of-css-in-js-2jk6)
+- [How to easily start blogging as a developer](https://dev.to/palmiak/how-to-easily-start-blogging-as-a-developer-3172)
+- [Turso + PHP - The LibSQL Client for PHP](https://dev.to/darkterminal/turso-php-the-libsql-client-for-php-1amh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
