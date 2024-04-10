@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Why &quot;null&quot; is an abomination](https://dev.to/almaju/why-null-is-an-abomination-2fmm)
 - [Use Notion as your CMS along with Next.js](https://dev.to/amaanmohib/use-notion-as-your-cms-along-with-nextjs-1j2m)
 - [GTK4 `dotnet new` Project Template](https://dev.to/kashifsoofi/gtk4-dotnet-new-project-template-1md5)
 - [CSS Hooks and the state of CSS-in-JS](https://dev.to/logrocket/css-hooks-and-the-state-of-css-in-js-2jk6)
 - [How to easily start blogging as a developer](https://dev.to/palmiak/how-to-easily-start-blogging-as-a-developer-3172)
-- [Turso + PHP - The LibSQL Client for PHP](https://dev.to/darkterminal/turso-php-the-libsql-client-for-php-1amh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
