@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons from Open-Source Game Projects](https://dev.to/mrsth/lessons-from-open-source-game-projects-2a38)
-- [Where Did My Traffic Go? Hint: It Wasn&#39;t an Algorithm Update](https://dev.to/daedtech/where-did-my-traffic-go-hint-it-wasnt-an-algorithm-update-588e)
-- [Top 5 fastest growing JavaScript repos](https://dev.to/wasp/top-5-fastest-growing-javascript-repos-92n)
-- [Configure Postfix to Send Email with Gmail&#39;s SMTP From the Terminal](https://dev.to/chigozieco/configure-postfix-to-send-email-with-gmails-smtp-from-the-terminal-4cco)
-- [Owning your infrastructure: A Journey to Bare Metal and out of the Cloud](https://dev.to/woovi/owning-your-infrastructure-a-journey-to-bare-metal-and-out-of-the-cloud-55g8)
+- [Bra Asks Liang Ding&#39;an: The Second Spring of Manufacturing Industry Awakened by the Industrial Internet](https://dev.to/naizhao/bra-asks-liang-dingan-the-second-spring-of-manufacturing-industry-awakened-by-the-industrial-internet-38i7)
+- [Build a serverless ChatGPT with RAG using LangChain.js](https://dev.to/azure/build-a-serverless-chatgpt-with-rag-using-langchainjs-3487)
+- [WHY REACT IS OVER REACTIVE ?](https://dev.to/mince/why-react-is-over-reactive--7p)
+- [Bra Asks - New Preface](https://dev.to/naizhao/bra-asks-new-preface-p77)
+- [Bra Asks - Preface](https://dev.to/naizhao/bra-asks-preface-2c5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
