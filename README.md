@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Are You Ready for These JavaScript Interview Puzzles?](https://dev.to/devteam/are-you-ready-for-these-javascript-interview-puzzles-25k8)
+- [How to Make Dynamic Bangla PDF using Laravel mPDF and Send Them via Email](https://dev.to/tahsin000/how-to-make-dynamic-bangla-pdf-using-laravel-mpdf-1obe)
+- [Different Ways to Write CSS in React](https://dev.to/cynthiabest/different-ways-to-write-css-in-react-57bp)
 - [Exploring Mojo CSS: A Developer’s Guide](https://dev.to/codeparrot/exploring-mojo-css-a-developers-guide-hhn)
-- [The self-inflicted pain of premature abstractions](https://dev.to/moozzyk/the-self-inflicted-pain-of-premature-abstractions-1549)
-- [Easy Guide to Becoming a Software Developer in 2024](https://dev.to/hamidulislam/easy-guide-to-becoming-a-software-developer-in-2024-4m1g)
-- [How To Implement AWS SSB Controls in Terraform - Part 4](https://dev.to/aws-builders/how-to-implement-aws-ssb-controls-in-terraform-part-4-3bl3)
-- [How I Made AI Agents Engage in a Heated Debate](https://dev.to/exploredataaiml/how-i-made-ai-agents-engage-in-a-heated-debate-3ob1)
+- [Building a Todo Application Backend with MongoDB and Express](https://dev.to/tirthraval1999/building-a-todo-application-backend-with-mongodb-and-express-2k34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
