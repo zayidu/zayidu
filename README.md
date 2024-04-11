@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Toxicity in Tweets using a BERT model](https://dev.to/alvbarros/toxicity-in-tweets-using-a-bert-model-37in)
-- [OpenTofu: The Open Source Terraform Alternative](https://dev.to/env0/opentofu-the-open-source-terraform-alternative-3oml)
-- [7 Practical Applications of JavaScript + Tips](https://dev.to/annoh_karlgusta/7-practical-applications-of-javascript-tips-1j83)
-- [Laravel Fundamentals: A Cheat Sheet for Rapid Development](https://dev.to/mikevarenek/laravel-fundamentals-a-cheat-sheet-for-rapid-development-gd9)
-- [Agent Cloud VS OpenAI](https://dev.to/agentcloud/agent-cloud-vs-openai-fh4)
+- [Creating a Multicolored Star Rating Card Component](https://dev.to/sarahokolo/creating-a-multicolored-star-rating-card-component-2m4j)
+- [Sloan&#39;s Inbox: How important is understanding backend as a website designer?](https://dev.to/devteam/sloans-inbox-how-important-is-understanding-backend-as-a-website-designer-3l6h)
+- [Optimizing Travel Routes: Applying Genetic Algorithms to the Traveling Salesman Problem](https://dev.to/andersbjorkland/optimizing-travel-routes-applying-genetic-algorithms-to-the-traveling-salesman-problem-1jn6)
+- [React Crazy: This AI library transformed my app to the next level](https://dev.to/github20k/react-crazy-this-ai-library-transformed-my-app-to-the-next-level-b4i)
+- [Crafting an Effective Resume: Free Templates and Best Practices](https://dev.to/dbillion/crafting-an-effective-resume-free-templates-and-best-practices-52bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
