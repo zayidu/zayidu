@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Common Data Engineers and Scientists Pain Points in 2024](https://dev.to/bobur/top-10-common-data-engineers-and-scientists-pain-points-in-2024-3cl8)
+- [Simplified Log Collection with APISIX&#39;s http-logger Plugin](https://dev.to/apisix/simplified-log-collection-with-apisixs-http-logger-plugin-2bmm)
+- [Participating in The Collab Lab: Week #8 &amp; #9](https://dev.to/vivitt/participating-in-the-collab-lab-week-8-9-2aci)
+- [Next.js App Router SEO overview](https://dev.to/focusreactive/nextjs-app-router-seo-overview-ba8)
 - [Implementing the Idempotency-Key specification on Apache APISIX](https://dev.to/apisix/implementing-the-idempotency-key-specification-on-apache-apisix-196m)
-- [How to Calculate Median on Values That Have Corresponding Quantities](https://dev.to/esproc_spl/how-to-calculate-median-on-values-that-have-corresponding-quantities-304l)
-- [Configuring robots.txt for Better Indexation and SEO Score](https://dev.to/focusreactive/configuring-robotstxt-for-better-indexation-and-seo-score-3fhk)
-- [Top 8 Best Visual Studio Extensions in 2024](https://dev.to/bytehide/top-8-best-visual-studio-extensions-in-2024-5174)
-- [WebAuthn Guide for MySQL, PostgreSQL, SQLite &amp; MongoDB](https://dev.to/corbado/webauthn-guide-for-mysql-postgresql-sqlite-mongodb-5h48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
