@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Practical Applications of JavaScript + Tips](https://dev.to/annoh_karlgusta/7-practical-applications-of-javascript-tips-1j83)
+- [Laravel Fundamentals: A Cheat Sheet for Rapid Development](https://dev.to/mikevarenek/laravel-fundamentals-a-cheat-sheet-for-rapid-development-gd9)
+- [Interview with Adithya, Creator of Clear](https://dev.to/crabnebula/interview-with-adithya-creator-of-clear-13ba)
 - [Send SMS Messages with Cloud Functions For Firebase Gen 2](https://dev.to/vonagedev/send-sms-messages-with-cloud-functions-for-firebase-gen-2-46an)
-- [Top 10 Common Data Engineers and Scientists Pain Points in 2024](https://dev.to/bobur/top-10-common-data-engineers-and-scientists-pain-points-in-2024-3cl8)
-- [Simplified Log Collection with APISIX&#39;s http-logger Plugin](https://dev.to/apisix/simplified-log-collection-with-apisixs-http-logger-plugin-2bmm)
-- [Participating in The Collab Lab: Week #8 &amp; #9](https://dev.to/vivitt/participating-in-the-collab-lab-week-8-9-2aci)
-- [What is a Mind Map? Your Comprehensive Guide to Thinking Visually](https://dev.to/stan8086/what-is-a-mind-map-your-comprehensive-guide-to-thinking-visually-51jg)
+- [How to build: a v0.dev clone &lpar;Next.js, GPT4 &amp; CopilotKit&rpar;](https://dev.to/dexterxt/how-to-build-a-v0dev-clone-nextjs-gpt4-copilotkit-3co)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
