@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tips from open-source: Use “Set” to remove duplicates from an array.](https://dev.to/ramunarasinga/tips-from-open-source-use-set-to-remove-duplicates-from-an-array-3ao5)
-- [すでにプッシュした場合](https://dev.to/aaattt/sudeniputusiyusitachang-he-48jk)
-- [Can Artificial Intelligence Achieve Consciousness? Exploring the Frontier of AI and Philosophy](https://dev.to/pmobit/can-artificial-intelligence-achieve-consciousness-exploring-the-frontier-of-ai-and-philosophy-3aon)
-- [Githubにプッシュすべきでないファイル&lpar;ChatGPT4の回答&rpar;](https://dev.to/aaattt/githubniputusiyusubekidenaihuairuchatgpt4nohui-da--51oh)
-- [Githubにプッシュすべきでないファイル&lpar;Perprexityの回答&rpar;](https://dev.to/aaattt/githubniputusiyusubekidenaihuairuperprexitynohui-da--2f1j)
+- [Rethinking the Role of Token Retrieval in Multi-Vector Retrieval](https://dev.to/mikeyoung44/rethinking-the-role-of-token-retrieval-in-multi-vector-retrieval-1hl9)
+- [Mixture-of-Depths: Dynamically allocating compute in transformer-based language models](https://dev.to/mikeyoung44/mixture-of-depths-dynamically-allocating-compute-in-transformer-based-language-models-moe)
+- [Experimental demonstration of magnetic tunnel junction-based computational random-access memory](https://dev.to/mikeyoung44/experimental-demonstration-of-magnetic-tunnel-junction-based-computational-random-access-memory-4nbm)
+- [LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders](https://dev.to/mikeyoung44/llm2vec-large-language-models-are-secretly-powerful-text-encoders-2ehe)
+- [Does Transformer Interpretability Transfer to RNNs?](https://dev.to/mikeyoung44/does-transformer-interpretability-transfer-to-rnns-59e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
