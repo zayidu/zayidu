@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Send SMS Messages with Cloud Functions For Firebase Gen 2](https://dev.to/vonagedev/send-sms-messages-with-cloud-functions-for-firebase-gen-2-46an)
 - [Top 10 Common Data Engineers and Scientists Pain Points in 2024](https://dev.to/bobur/top-10-common-data-engineers-and-scientists-pain-points-in-2024-3cl8)
 - [Simplified Log Collection with APISIX&#39;s http-logger Plugin](https://dev.to/apisix/simplified-log-collection-with-apisixs-http-logger-plugin-2bmm)
 - [Participating in The Collab Lab: Week #8 &amp; #9](https://dev.to/vivitt/participating-in-the-collab-lab-week-8-9-2aci)
-- [Next.js App Router SEO overview](https://dev.to/focusreactive/nextjs-app-router-seo-overview-ba8)
-- [Implementing the Idempotency-Key specification on Apache APISIX](https://dev.to/apisix/implementing-the-idempotency-key-specification-on-apache-apisix-196m)
+- [What is a Mind Map? Your Comprehensive Guide to Thinking Visually](https://dev.to/stan8086/what-is-a-mind-map-your-comprehensive-guide-to-thinking-visually-51jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
