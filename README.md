@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Symfony can help you fall in love with your front-end team!](https://dev.to/webmamba/symfony-can-help-you-fall-in-love-with-your-front-end-team-4dak)
+- [A Personal Journey: Reflecting on a Year of Innovati 🔥🔭](https://dev.to/kiraaziz/a-personal-journey-reflecting-on-a-year-of-innovati-4ph5)
+- [Monetizando Progressive Web Apps&lpar;PWA&rpar;](https://dev.to/devsnorte/monetizando-progressive-web-appspwa-2b77)
 - [Try to explain the Array with lockers](https://dev.to/untilyou58/try-to-explain-the-array-with-lockers-3ojc)
 - [Finally Understand Responsive Design!](https://dev.to/jaredcodes/finally-understand-responsive-design-3con)
-- [What I learned from 29 Days of OSS Alternatives](https://dev.to/opensauced/what-i-learned-from-29-days-of-oss-alternatives-1ca5)
-- [01 - Journey into Backend Engineering: Exploring the Core Components &amp; Concepts](https://dev.to/louaiboumediene/01-journey-into-backend-engineering-exploring-the-core-components-concepts-2a15)
-- [Bridging Analog to Angular with esbuild and Vite](https://dev.to/analogjs/bridging-analog-to-angular-with-esbuild-and-vite-472j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
