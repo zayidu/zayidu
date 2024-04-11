@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ace Your Next Sprint Planning with This Step-by-Step Guide to Planning Poker 🃏](https://dev.to/mattlewandowski93/ace-your-next-sprint-planning-with-this-step-by-step-guide-to-planning-poker-39e7)
-- [Effective JavaScript Debugging Techniques](https://dev.to/jenniferchuks/effective-javascript-debugging-techniques-35pf)
-- [Efficiently Testing Asynchronous React Hooks with Vitest](https://dev.to/poly4/efficiently-testing-asynchronous-react-hooks-with-vitest-1hll)
-- [How to deploy a Ktor app on Railway](https://dev.to/coltonidle/how-to-deploy-a-ktor-app-on-railway-3jde)
-- [The Ogre platform for code reproducibility [beta]](https://dev.to/ogre/the-ogre-platform-for-code-reproducibility-beta-1p1h)
+- [Run a Linux Distro in your Android device](https://dev.to/emasuriano/run-a-linux-distro-in-your-android-device-3fnd)
+- [Don&#39;t &quot;Trust&quot; GitHub Code Just Because It&#39;s Got Lots Of Stars](https://dev.to/rossli/dont-trust-github-code-just-because-its-got-lots-of-stars-533b)
+- [What Will You Choose?](https://dev.to/stephrp12/what-will-you-choose-2be4)
+- [My history about being the only programmer in the company](https://dev.to/sazardev/my-history-about-being-the-only-programmer-in-the-company-1jbe)
+- [Top 5 Vscode Alternative Worth Consider](https://dev.to/j4acks0n/top-5-vscode-alternative-worth-consider-5gjb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
