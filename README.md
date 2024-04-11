@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Slots in Rails&#39; ViewComponent](https://dev.to/railsdesigner/guide-to-slots-in-rails-viewcomponent-19j6)
-- [Automating Testing in Next.js: Ensuring Code Integrity with Jest and GitHub Actions](https://dev.to/afraz33/automating-testing-in-nextjs-ensuring-code-integrity-with-jest-and-github-actions-3bbe)
-- [Securing Your Web Application with AWS WAF and AWS Shield](https://dev.to/8carroll/securing-your-web-application-with-aws-waf-and-aws-shield-38j7)
-- [Writing a bootloader: learnings](https://dev.to/sarthak889/writing-a-bootloader-learnings-54k7)
-- [Learning AWS Day by Day — Day 34 — CloudFormation](https://dev.to/rksalo88/learning-aws-day-by-day-day-34-cloudformation-3b62)
+- [How to use Lefthooks in your node project?](https://dev.to/ajithklepsydra/how-to-use-lefthooks-in-your-node-project-3i83)
+- [Title: Effective Error Handling Strategies in Java](https://dev.to/dbillion/title-effective-error-handling-strategies-in-java-2k38)
+- [First Post](https://dev.to/eyelov3pussi/first-post-33dl)
+- [A Markdown Blog &lpar; Node.js, Express, And MongoDB &rpar;](https://dev.to/tmrifat87/a-markdown-blog-nodejs-express-and-mongodb--3gfb)
+- [Day 11/366](https://dev.to/vishalmx3/day-11366-4ejj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
