@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 8 Best Visual Studio Extensions in 2024](https://dev.to/bytehide/top-8-best-visual-studio-extensions-in-2024-5174)
 - [Are You Ready for These JavaScript Interview Puzzles?](https://dev.to/devteam/are-you-ready-for-these-javascript-interview-puzzles-25k8)
-- [How to Make Dynamic Bangla PDF using Laravel mPDF and Send Them via Email](https://dev.to/tahsin000/how-to-make-dynamic-bangla-pdf-using-laravel-mpdf-1obe)
-- [Different Ways to Write CSS in React](https://dev.to/cynthiabest/different-ways-to-write-css-in-react-57bp)
-- [Exploring Mojo CSS: A Developer’s Guide](https://dev.to/codeparrot/exploring-mojo-css-a-developers-guide-hhn)
-- [Building a Todo Application Backend with MongoDB and Express](https://dev.to/tirthraval1999/building-a-todo-application-backend-with-mongodb-and-express-2k34)
+- [WebAuthn Guide for MySQL, PostgreSQL, SQLite &amp; MongoDB](https://dev.to/corbado/webauthn-guide-for-mysql-postgresql-sqlite-mongodb-5h48)
+- [Options for passwordless authentication in Django apps](https://dev.to/honeybadger/options-for-passwordless-authentication-in-django-apps-32hm)
+- [Simplify Your Development Workflow: How to Deploy PostgreSQL Using Docker](https://dev.to/dbvismarketing/simplify-your-development-workflow-how-to-deploy-postgresql-using-docker-2goa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
