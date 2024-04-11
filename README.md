@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Symfony can help you fall in love with your front-end team!](https://dev.to/webmamba/symfony-can-help-you-fall-in-love-with-your-front-end-team-4dak)
-- [A Personal Journey: Reflecting on a Year of Innovati 🔥🔭](https://dev.to/kiraaziz/a-personal-journey-reflecting-on-a-year-of-innovati-4ph5)
-- [Monetizando Progressive Web Apps&lpar;PWA&rpar;](https://dev.to/devsnorte/monetizando-progressive-web-appspwa-2b77)
-- [Try to explain the Array with lockers](https://dev.to/untilyou58/try-to-explain-the-array-with-lockers-3ojc)
-- [Finally Understand Responsive Design!](https://dev.to/jaredcodes/finally-understand-responsive-design-3con)
+- [Guide to Slots in Rails&#39; ViewComponent](https://dev.to/railsdesigner/guide-to-slots-in-rails-viewcomponent-19j6)
+- [Automating Testing in Next.js: Ensuring Code Integrity with Jest and GitHub Actions](https://dev.to/afraz33/automating-testing-in-nextjs-ensuring-code-integrity-with-jest-and-github-actions-3bbe)
+- [Securing Your Web Application with AWS WAF and AWS Shield](https://dev.to/8carroll/securing-your-web-application-with-aws-waf-and-aws-shield-38j7)
+- [Writing a bootloader: learnings](https://dev.to/sarthak889/writing-a-bootloader-learnings-54k7)
+- [Learning AWS Day by Day — Day 34 — CloudFormation](https://dev.to/rksalo88/learning-aws-day-by-day-day-34-cloudformation-3b62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
