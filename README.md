@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking the Role of Token Retrieval in Multi-Vector Retrieval](https://dev.to/mikeyoung44/rethinking-the-role-of-token-retrieval-in-multi-vector-retrieval-1hl9)
-- [Mixture-of-Depths: Dynamically allocating compute in transformer-based language models](https://dev.to/mikeyoung44/mixture-of-depths-dynamically-allocating-compute-in-transformer-based-language-models-moe)
-- [Experimental demonstration of magnetic tunnel junction-based computational random-access memory](https://dev.to/mikeyoung44/experimental-demonstration-of-magnetic-tunnel-junction-based-computational-random-access-memory-4nbm)
-- [LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders](https://dev.to/mikeyoung44/llm2vec-large-language-models-are-secretly-powerful-text-encoders-2ehe)
-- [Does Transformer Interpretability Transfer to RNNs?](https://dev.to/mikeyoung44/does-transformer-interpretability-transfer-to-rnns-59e2)
+- [Building Container Images Securely on AWS EKS with Kaniko](https://dev.to/marocz/building-container-images-securely-on-aws-eks-with-kaniko-153n)
+- [Item 28: Prefira as listas aos arrays](https://dev.to/giselecoder/item-28-prefira-as-listas-aos-arrays-2003)
+- [Unit Testing LLMs with DeepEval](https://dev.to/shannonlal/unit-testing-llms-with-deepeval-4ljl)
+- [Cracking the Code: Essential Problem-Solving Techniques for Today&#39;s Dynamic Developer Landscape](https://dev.to/michaellarocca/cracking-the-code-essential-problem-solving-techniques-for-todays-dynamic-developer-landscape-1cdb)
+- [Impossible Distillation: from Low-Quality Model to High-Quality Dataset &amp; Model for Summarization and Paraphrasing](https://dev.to/mikeyoung44/impossible-distillation-from-low-quality-model-to-high-quality-dataset-model-for-summarization-and-paraphrasing-5303)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
