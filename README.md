@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Conquered the AWS Certified DevOps Engineer Professional Exam in 60 Days](https://dev.to/aws-builders/how-i-conquered-the-aws-certified-devops-engineer-professional-exam-in-60-days-28dl)
 - [Left and Right Shift: Bitwise Operators in Python](https://dev.to/muuviana/left-and-right-shift-bitwise-operators-in-python-4j9f)
 - [Run a Linux Distro in your Android device](https://dev.to/emasuriano/run-a-linux-distro-in-your-android-device-3fnd)
 - [Growth Hacking Killed GitHub Stars](https://dev.to/opensauced/growth-hacking-killed-github-stars-40on)
 - [Don&#39;t &quot;Trust&quot; GitHub Code Just Because It&#39;s Got Lots Of Stars](https://dev.to/rossli/dont-trust-github-code-just-because-its-got-lots-of-stars-533b)
-- [What Will You Choose?](https://dev.to/stephrp12/what-will-you-choose-2be4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
