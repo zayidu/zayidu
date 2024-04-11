@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Conquered the AWS Certified DevOps Engineer Professional Exam in 60 Days](https://dev.to/aws-builders/how-i-conquered-the-aws-certified-devops-engineer-professional-exam-in-60-days-28dl)
-- [Left and Right Shift: Bitwise Operators in Python](https://dev.to/muuviana/left-and-right-shift-bitwise-operators-in-python-4j9f)
-- [Run a Linux Distro in your Android device](https://dev.to/emasuriano/run-a-linux-distro-in-your-android-device-3fnd)
-- [Growth Hacking Killed GitHub Stars](https://dev.to/opensauced/growth-hacking-killed-github-stars-40on)
-- [Don&#39;t &quot;Trust&quot; GitHub Code Just Because It&#39;s Got Lots Of Stars](https://dev.to/rossli/dont-trust-github-code-just-because-its-got-lots-of-stars-533b)
+- [Exploring Mojo CSS: A Developer’s Guide](https://dev.to/codeparrot/exploring-mojo-css-a-developers-guide-hhn)
+- [The self-inflicted pain of premature abstractions](https://dev.to/moozzyk/the-self-inflicted-pain-of-premature-abstractions-1549)
+- [Easy Guide to Becoming a Software Developer in 2024](https://dev.to/hamidulislam/easy-guide-to-becoming-a-software-developer-in-2024-4m1g)
+- [How To Implement AWS SSB Controls in Terraform - Part 4](https://dev.to/aws-builders/how-to-implement-aws-ssb-controls-in-terraform-part-4-3bl3)
+- [How I Made AI Agents Engage in a Heated Debate](https://dev.to/exploredataaiml/how-i-made-ai-agents-engage-in-a-heated-debate-3ob1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
