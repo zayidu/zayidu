@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Lefthooks in your node project?](https://dev.to/ajithklepsydra/how-to-use-lefthooks-in-your-node-project-3i83)
-- [Title: Effective Error Handling Strategies in Java](https://dev.to/dbillion/title-effective-error-handling-strategies-in-java-2k38)
-- [First Post](https://dev.to/eyelov3pussi/first-post-33dl)
-- [A Markdown Blog &lpar; Node.js, Express, And MongoDB &rpar;](https://dev.to/tmrifat87/a-markdown-blog-nodejs-express-and-mongodb--3gfb)
-- [Day 11/366](https://dev.to/vishalmx3/day-11366-4ejj)
+- [Improving the Accuracy-Robustness Trade-Off of Classifiers via Adaptive Smoothing](https://dev.to/mikeyoung44/improving-the-accuracy-robustness-trade-off-of-classifiers-via-adaptive-smoothing-2p9h)
+- [JavaScript Challenge: What would be your solution to this challenge? 🥷🏻🧩](https://dev.to/renancferro/javascript-challenge-what-would-be-your-solution-to-this-challenge-375m)
+- [Setup and use Python Venv](https://dev.to/wesleybertipaglia/how-to-use-python-venv-j8m)
+- [Enable Microsoft Print to PDF in Windows 11?](https://dev.to/winsidescom/enable-microsoft-print-to-pdf-in-windows-11-1j1d)
+- [Intuition is our edge](https://dev.to/moonwise/intuition-is-our-edge-1n6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
