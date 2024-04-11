@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Toxicity in Tweets using a BERT model](https://dev.to/alvbarros/toxicity-in-tweets-using-a-bert-model-37in)
+- [OpenTofu: The Open Source Terraform Alternative](https://dev.to/env0/opentofu-the-open-source-terraform-alternative-3oml)
 - [7 Practical Applications of JavaScript + Tips](https://dev.to/annoh_karlgusta/7-practical-applications-of-javascript-tips-1j83)
 - [Laravel Fundamentals: A Cheat Sheet for Rapid Development](https://dev.to/mikevarenek/laravel-fundamentals-a-cheat-sheet-for-rapid-development-gd9)
-- [Interview with Adithya, Creator of Clear](https://dev.to/crabnebula/interview-with-adithya-creator-of-clear-13ba)
-- [Send SMS Messages with Cloud Functions For Firebase Gen 2](https://dev.to/vonagedev/send-sms-messages-with-cloud-functions-for-firebase-gen-2-46an)
-- [How to build: a v0.dev clone &lpar;Next.js, GPT4 &amp; CopilotKit&rpar;](https://dev.to/dexterxt/how-to-build-a-v0dev-clone-nextjs-gpt4-copilotkit-3co)
+- [Agent Cloud VS OpenAI](https://dev.to/agentcloud/agent-cloud-vs-openai-fh4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
