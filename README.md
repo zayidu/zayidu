@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SYSTEM DESIGN SERIES TOPIC: A PERCURSOR TO APPROACHING YOUR SYSTEM DESIGN](https://dev.to/temybroder/system-design-seriesa-percursor-to-approaching-your-system-design-4b10)
-- [Expand your Future, extensions in Dart](https://dev.to/mattia/expand-your-future-extensions-in-dart-22j)
-- [Personal taught on codebase organization](https://dev.to/tmorin/personal-taught-on-codebase-organization-2adi)
-- [Personal taught on codebase organization](https://dev.to/tmorin/personal-taught-on-codebase-organization-26l0)
-- [20 Essential Entity Framework Core Tips: Optimize Performance, Streamline Queries, and Enhance Data Handling](https://dev.to/ssukhpinder/20-essential-entity-framework-core-tips-optimize-performance-streamline-queries-and-enhance-data-handling-1jmb)
+- [Quick tip: Using Apache Spark and GraphFrames with SingleStore Notebooks](https://dev.to/singlestore/quick-tip-using-apache-spark-and-graphframes-with-singlestore-notebooks-20dn)
+- [PicoCTF2024: Blast from the past](https://dev.to/yowise/picoctf2024-blast-from-the-past-5hma)
+- [MongoDB vs Redis: A Comprehensive Comparison](https://dev.to/kigazon/mongodb-vs-redis-a-comprehensive-comparison-5cn0)
+- [DevLog #10 - Product Backlog](https://dev.to/amilarangana/devlog-10-product-backlog-3577)
+- [Tips from open-source: An Object with Map and Set.](https://dev.to/ramunarasinga/tips-from-open-source-an-object-with-map-and-set-2fa3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
