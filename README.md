@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dino hack](https://dev.to/r4nd3l/dino-hack-4i62)
-- [Guide: How to route Docker logs correctly in New Relic](https://dev.to/newrelic/guide-how-to-route-docker-logs-correctly-in-new-relic-iid)
-- [Introducing EventSail: A Python Library for Event-driven Programming](https://dev.to/satyamsoni2211/introducing-eventsail-a-python-library-for-event-driven-programming-12fo)
-- [Opinion: CS Education Should Include More Code Reading](https://dev.to/rossli/opinion-cs-education-should-include-more-code-reading-76l)
-- [Tricky Question for React interview](https://dev.to/ihesami/tricky-question-for-react-interview-2hc4)
+- [is 0 !== null in Javascript - JavaScript Quirks: Tricky Equality Questions! 💡](https://dev.to/sh20raj/is-0-null-in-javascript-javascript-quirks-tricky-equality-questions-4eac)
+- [Unlocking Growth: A Small Business Guide to Mastering Data Analytics](https://dev.to/tarak/unlocking-growth-a-small-business-guide-to-mastering-data-analytics-5cde)
+- [How Not to Kill Motivation](https://dev.to/devteam/how-not-to-kill-motivation-k6i)
+- [WebAuthn E2E Testing: Playwright, Selenium, Puppeteer](https://dev.to/corbado/webauthn-e2e-testing-playwright-selenium-puppeteer-54)
+- [Day 7: GUIs: Graphical User Interface](https://dev.to/jr_shittu/day-7-guis-graphical-user-interface-3fco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
