@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Voxel51 Filtered Views Newsletter - April 12, 2024](https://dev.to/voxel51/voxel51-filtered-views-newsletter-april-12-2024-3ba9)
-- [Ibuprofeno.py💊| #79: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-79-explica-este-codigo-python-hd5)
-- [Hellfire Hooks: React&#39;s useState and useEffect Unleashed](https://dev.to/kigazon/hellfire-hooks-reacts-usestate-and-useeffect-unleashed-4op1)
-- [The Most Comprehensive Guide to SaaS Products Testing](https://dev.to/morrismoses149/the-most-comprehensive-guide-to-saas-products-testing-2k47)
-- [Mobile App Development Practices](https://dev.to/sarah899/mobile-app-development-practices-4aah)
+- [1 way to become a developer](https://dev.to/valvonvorn/1-way-to-become-a-developer-4h8a)
+- [Blue-Green Deployment on Single Machines Starting from Scratch, Using Your Dockerfiles: Examples in PHP, Java, and Node.js](https://dev.to/andrewkangg/blue-green-deployment-on-single-machines-starting-from-scratch-using-your-dockerfiles-examples-in-php-java-and-nodejs-4ab6)
+- [The &lpar;Mostly&rpar; Complete Guide to Installing Kentik NMS](https://dev.to/kentik/the-mostly-complete-guide-to-installing-kentik-nms-150j)
+- [Spring Boot 3 boilerplate for easily customizing traditional OAuth2 Password Grant](https://dev.to/andrewkangg/spring-boot-3-boilerplate-for-easily-customizing-traditional-oauth2-password-grant-50ld)
+- [Simplify Website Development with Fusion: Markdown Content Management](https://dev.to/robertobutti/simplify-website-development-with-fusion-markdown-content-management-45lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
