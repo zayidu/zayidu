@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NinjaBootstrap UI - A Pragmatic Approach To Bootstrap Reusable HTML Components](https://dev.to/giovapanasiti/ninjabootstrap-ui-a-pragmatic-approach-to-bootstrap-reusable-html-components-43ma)
-- [Elevate Your Testing Skills: Advanced API Functional Testing Methods](https://dev.to/satokenta/elevate-your-testing-skills-advanced-api-functional-testing-methods-2a4a)
-- [Creating functions in JavaScript - Part 3](https://dev.to/dindustack/create-a-javascript-function-part-3-5871)
-- [Build Your Slot Machine Game with Simple HTML Code!](https://dev.to/aistechonlabs/build-your-slot-machine-game-with-simple-html-code-30ed)
-- [Configuring kubectl for Minikube Access](https://dev.to/venom90/configuring-kubectl-for-minikube-access-5b9)
+- [How to Deploy an Express API to Vercel 🚀](https://dev.to/sh20raj/how-to-deploy-an-express-api-to-vercel-36id)
+- [Fast Track to Frontend: A 60-Day Roadmap from HTML/CSS Novice to JavaScript Ninja](https://dev.to/meertanveer/fast-track-to-frontend-a-60-day-roadmap-from-htmlcss-novice-to-javascript-ninja-2jdl)
+- [The Power of console.log&lpar;&rpar; in JavaScript Debugging](https://dev.to/davidomisakin/the-power-of-consolelog-in-javascript-debugging-3409)
+- [Essential Array Methods for Front-End Developers](https://dev.to/meertanveer/essential-array-methods-for-front-end-developers-jgf)
+- [API Inspection Best Practices: Ensuring API Gateway Stability and Efficiency](https://dev.to/api7/api-inspection-best-practices-ensuring-api-gateway-stability-and-efficiency-4jpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
