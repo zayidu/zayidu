@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role Of Chaos Engineering in Building Anti-Fragile Systems](https://dev.to/cloudiepad/the-role-of-chaos-engineering-in-building-anti-fragile-systems-17bg)
-- [python matplotlib.pyplot 绘制图表图像重叠的问题](https://dev.to/dragon72463399/python-matplotlibpyplot-hui-zhi-tu-biao-tu-xiang-zhong-die-de-wen-ti-4i6f)
-- [SSR vs SPA Showdown: Choosing the Right Rendering Approach for Your Web App](https://dev.to/santhanam87/ssr-vs-spa-showdown-choosing-the-right-rendering-approach-for-your-web-app-4439)
-- [PYTHON LOGICAL OPERATORS](https://dev.to/maame-codes/python-logical-operators-28g)
-- [Building Anti-Fragile Systems For Modern-Day DevOps](https://dev.to/cloudiepad/building-anti-fragile-systems-for-modern-day-devops-39ff)
+- [Database Education Needs Moderization](https://dev.to/rossli/database-education-needs-moderization-4p6l)
+- [The Future of Documentation is Personalized](https://dev.to/vidyaiyengar/the-future-of-documentation-is-personalized-9ho)
+- [Have You Ever Care About Identity Integrity?](https://dev.to/aws-builders/have-you-ever-care-about-identity-integrity-475p)
+- [Big IT Conference in Chile, &#39;Nerdearla,&#39; join it&#39;s free!](https://dev.to/krlz/big-it-conference-in-chile-nerdearla-join-its-free-693)
+- [The Beginner Guide to Azure Data Storage](https://dev.to/epakconsultant/the-beginner-guide-to-azure-data-storage-4f95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
