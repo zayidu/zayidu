@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Optimal Choice of Hypothesis Is the Weakest, Not the Shortest](https://dev.to/mikeyoung44/the-optimal-choice-of-hypothesis-is-the-weakest-not-the-shortest-2821)
-- [From Words to Numbers: Your Large Language Model Is Secretly A Capable Regressor When Given In-Context Examples](https://dev.to/mikeyoung44/from-words-to-numbers-your-large-language-model-is-secretly-a-capable-regressor-when-given-in-context-examples-526a)
-- [From Model-centered to Human-Centered: Revision Distance as a Metric for Text Evaluation in LLMs-based Applications](https://dev.to/mikeyoung44/from-model-centered-to-human-centered-revision-distance-as-a-metric-for-text-evaluation-in-llms-based-applications-1hoa)
-- [The Topos of Transformer Networks](https://dev.to/mikeyoung44/the-topos-of-transformer-networks-kid)
-- [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://dev.to/mikeyoung44/learning-agile-soccer-skills-for-a-bipedal-robot-with-deep-reinforcement-learning-4keg)
+- [Web Extract Worker, a service with text-to-image worker AI models!](https://dev.to/peter279k/web-extract-worker-a-service-with-text-to-image-worker-ai-models-59e1)
+- [Retirement Planning and Bitcoin](https://dev.to/epakconsultant/retirement-planning-and-bitcoin-2kig)
+- [Do&#39;s and Don&#39;ts in Django](https://dev.to/papansarkar101/dos-and-donts-in-django-59ii)
+- [Day 12/366](https://dev.to/vishalmx3/day-12366-4bgf)
+- [Secrets of SEO Cluster Strategy](https://dev.to/epakconsultant/secrets-of-seo-cluster-strategy-jp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
