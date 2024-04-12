@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [50 Types of Social Media Posts 🌎](https://dev.to/sh20raj/50-types-of-social-media-posts-gbm)
-- [Rendering&lpar; or How to Render&rpar; Animation in JSON format with LottieFiles animation in React application](https://dev.to/dejetem/rendering-or-how-to-render-animation-in-json-format-with-lottiefiles-animation-in-react-application-1ha8)
-- [Hello, World!](https://dev.to/akashsharma202/hello-world-52c9)
-- [Hello, World!](https://dev.to/akashsharma202/hello-world-58ha)
-- [Hello, World!](https://dev.to/akashsharma202/hello-world-1jb1)
+- [Voxel51 Filtered Views Newsletter - April 12, 2024](https://dev.to/voxel51/voxel51-filtered-views-newsletter-april-12-2024-3ba9)
+- [Ibuprofeno.py💊| #79: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-79-explica-este-codigo-python-hd5)
+- [Hellfire Hooks: React&#39;s useState and useEffect Unleashed](https://dev.to/kigazon/hellfire-hooks-reacts-usestate-and-useeffect-unleashed-4op1)
+- [The Most Comprehensive Guide to SaaS Products Testing](https://dev.to/morrismoses149/the-most-comprehensive-guide-to-saas-products-testing-2k47)
+- [Mobile App Development Practices](https://dev.to/sarah899/mobile-app-development-practices-4aah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
