@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy an Express API to Vercel 🚀](https://dev.to/sh20raj/how-to-deploy-an-express-api-to-vercel-36id)
-- [Fast Track to Frontend: A 60-Day Roadmap from HTML/CSS Novice to JavaScript Ninja](https://dev.to/meertanveer/fast-track-to-frontend-a-60-day-roadmap-from-htmlcss-novice-to-javascript-ninja-2jdl)
-- [The Power of console.log&lpar;&rpar; in JavaScript Debugging](https://dev.to/davidomisakin/the-power-of-consolelog-in-javascript-debugging-3409)
-- [Essential Array Methods for Front-End Developers](https://dev.to/meertanveer/essential-array-methods-for-front-end-developers-jgf)
-- [API Inspection Best Practices: Ensuring API Gateway Stability and Efficiency](https://dev.to/api7/api-inspection-best-practices-ensuring-api-gateway-stability-and-efficiency-4jpa)
+- [50 Types of Social Media Posts 🌎](https://dev.to/sh20raj/50-types-of-social-media-posts-gbm)
+- [Rendering&lpar; or How to Render&rpar; Animation in JSON format with LottieFiles animation in React application](https://dev.to/dejetem/rendering-or-how-to-render-animation-in-json-format-with-lottiefiles-animation-in-react-application-1ha8)
+- [Hello, World!](https://dev.to/akashsharma202/hello-world-52c9)
+- [Hello, World!](https://dev.to/akashsharma202/hello-world-58ha)
+- [Hello, World!](https://dev.to/akashsharma202/hello-world-1jb1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
