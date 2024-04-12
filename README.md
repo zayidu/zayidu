@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Cookies, Local Storage, and Session Storage: A Beginner&#39;s Guide](https://dev.to/madhusaini22/understanding-cookies-local-storage-and-session-storage-a-beginners-guide-5gkk)
-- [Reaching internal services with an external DNS wildcard](https://dev.to/disane/reaching-internal-services-with-an-external-dns-wildcard-2kno)
-- [Interne Services mit externer DNS-Wildcard erreichen](https://dev.to/disane/interne-services-mit-externer-dns-wildcard-erreichen-50k6)
-- [The ABCs of the Critical Path Method](https://dev.to/chadriebe/the-abcs-of-the-critical-path-method-2kmf)
-- [New EC2 Instance Type - Designed For AI / ML Workloads](https://dev.to/faye_ellis/new-ec2-instance-type-designed-for-ai-ml-workloads-5f8a)
+- [Examples Of Composition In C# – A Simple Guide For Beginners](https://dev.to/devleader/examples-of-composition-in-c-a-simple-guide-for-beginners-2pc4)
+- [Data Privacy in API Integrations](https://dev.to/apidna/data-privacy-in-api-integrations-2oic)
+- [Better Asynchronous Operations](https://dev.to/andrious/better-asynchronous-operations-ppb)
+- [Unraveling the Mysteries of Deepfakes: A Journey Through Innovation and Iteration](https://dev.to/achaljain/unraveling-the-mysteries-of-deepfakes-a-journey-through-innovation-and-iteration-131j)
+- [Comparing AWS and Azure Pricing: A Detailed Analysis of Cloud Service Costs](https://dev.to/shiva6699/comparing-aws-and-azure-pricing-a-detailed-analysis-of-cloud-service-costs-5g2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
