@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Container Images Securely on AWS EKS with Kaniko](https://dev.to/marocz/building-container-images-securely-on-aws-eks-with-kaniko-153n)
-- [Item 28: Prefira as listas aos arrays](https://dev.to/giselecoder/item-28-prefira-as-listas-aos-arrays-2003)
-- [Unit Testing LLMs with DeepEval](https://dev.to/shannonlal/unit-testing-llms-with-deepeval-4ljl)
-- [Cracking the Code: Essential Problem-Solving Techniques for Today&#39;s Dynamic Developer Landscape](https://dev.to/michaellarocca/cracking-the-code-essential-problem-solving-techniques-for-todays-dynamic-developer-landscape-1cdb)
-- [Impossible Distillation: from Low-Quality Model to High-Quality Dataset &amp; Model for Summarization and Paraphrasing](https://dev.to/mikeyoung44/impossible-distillation-from-low-quality-model-to-high-quality-dataset-model-for-summarization-and-paraphrasing-5303)
+- [Gemini-1.5-pro Function Calling with Java, Spring and HTTP](https://dev.to/vishalmysore/gemini-15-pro-function-calling-with-java-2k19)
+- [Tutorial Cara Instal Composer di Linux](https://dev.to/risekucom/tutorial-cara-instal-composer-di-linux-20ei)
+- [Debugging Node.js apps with Chrome DevTools debugger](https://dev.to/zsevic/debugging-nodejs-apps-with-chrome-devtools-debugger-50lf)
+- [Boost Threat Detection with Amazon GuardDuty &amp; Inspector](https://dev.to/8carroll/boost-threat-detection-with-amazon-guardduty-inspector-1oi9)
+- [Construindo um web server em Assembly x86, parte II, história e arquitetura](https://dev.to/leandronsp/construindo-um-web-server-em-assembly-x86-parte-ii-historia-e-arquitetura-2jb9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
