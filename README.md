@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Education Needs Moderization](https://dev.to/rossli/database-education-needs-moderization-4p6l)
-- [The Future of Documentation is Personalized](https://dev.to/vidyaiyengar/the-future-of-documentation-is-personalized-9ho)
-- [Have You Ever Care About Identity Integrity?](https://dev.to/aws-builders/have-you-ever-care-about-identity-integrity-475p)
-- [Big IT Conference in Chile, &#39;Nerdearla,&#39; join it&#39;s free!](https://dev.to/krlz/big-it-conference-in-chile-nerdearla-join-its-free-693)
-- [The Beginner Guide to Azure Data Storage](https://dev.to/epakconsultant/the-beginner-guide-to-azure-data-storage-4f95)
+- [Dino hack](https://dev.to/r4nd3l/dino-hack-4i62)
+- [Guide: How to route Docker logs correctly in New Relic](https://dev.to/newrelic/guide-how-to-route-docker-logs-correctly-in-new-relic-iid)
+- [Introducing EventSail: A Python Library for Event-driven Programming](https://dev.to/satyamsoni2211/introducing-eventsail-a-python-library-for-event-driven-programming-12fo)
+- [Opinion: CS Education Should Include More Code Reading](https://dev.to/rossli/opinion-cs-education-should-include-more-code-reading-76l)
+- [Tricky Question for React interview](https://dev.to/ihesami/tricky-question-for-react-interview-2hc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
