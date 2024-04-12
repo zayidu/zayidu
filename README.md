@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Optimization](https://dev.to/syedmuhammadaliraza/nextjs-optimization-n5f)
-- [Working on Github](https://dev.to/kudratswe/working-on-github-1olb)
-- [Scaling Bitcoin with Lightning Network](https://dev.to/epakconsultant/scaling-bitcoin-with-lightning-network-23i3)
-- [How to classify landmarks using Tensorflow , Tensor-Hub and Python ?](https://dev.to/feitgemel/how-to-classify-landmarks-using-tensorflow-tensor-hub-and-python--3okk)
-- [Development and Implementation of Lightning Network](https://dev.to/epakconsultant/development-and-implementation-of-lightning-network-454l)
+- [Private AI Document Redaction API available on Eden AI](https://dev.to/edenai/private-ai-document-redaction-api-available-on-eden-ai-53ea)
+- [Jina AI Text Embeddings solution on Eden AI](https://dev.to/edenai/jina-ai-text-embeddings-solution-on-eden-ai-47kk)
+- [AI Enchantment with Python](https://dev.to/epakconsultant/ai-enchantment-with-python-31f9)
+- [Desvendando o UX Writing: A Poesia Oculta nas Interfaces Digitais](https://dev.to/somosguix/desvendando-o-ux-writing-a-poesia-oculta-nas-interfaces-digitais-4a0h)
+- [Tools and Methods for Cybersecurity Analysis](https://dev.to/epakconsultant/tools-and-methods-for-cybersecurity-analysis-3ca1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
