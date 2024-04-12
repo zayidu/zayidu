@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [is 0 !== null in Javascript - JavaScript Quirks: Tricky Equality Questions! 💡](https://dev.to/sh20raj/is-0-null-in-javascript-javascript-quirks-tricky-equality-questions-4eac)
-- [Unlocking Growth: A Small Business Guide to Mastering Data Analytics](https://dev.to/tarak/unlocking-growth-a-small-business-guide-to-mastering-data-analytics-5cde)
-- [How Not to Kill Motivation](https://dev.to/devteam/how-not-to-kill-motivation-k6i)
-- [WebAuthn E2E Testing: Playwright, Selenium, Puppeteer](https://dev.to/corbado/webauthn-e2e-testing-playwright-selenium-puppeteer-54)
-- [Day 7: GUIs: Graphical User Interface](https://dev.to/jr_shittu/day-7-guis-graphical-user-interface-3fco)
+- [How to create a progress-bar with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-progress-bar-with-tailwind-css-and-alpinejs-4p9k)
+- [How to effectively use PUT and DELETE HTTP methods in Django Class-Based Views?](https://dev.to/mamadou762/how-to-effectively-use-put-and-delete-http-methods-in-django-class-based-views-ip9)
+- [How to Use AI for Code Documentation - A DocuWriter Tutorial](https://dev.to/magarrent/how-to-use-ai-for-code-documentation-a-docuwriter-tutorial-32hn)
+- [Should I use Virtual Threads in Java?](https://dev.to/diogodanielsoaresferreira/should-i-use-virtual-threads-in-java-3986)
+- [How to Use Intellicode in Visual Studio](https://dev.to/bytehide/how-to-use-intellicode-in-visual-studio-56c3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
