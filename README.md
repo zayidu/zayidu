@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Examples Of Composition In C# – A Simple Guide For Beginners](https://dev.to/devleader/examples-of-composition-in-c-a-simple-guide-for-beginners-2pc4)
-- [Data Privacy in API Integrations](https://dev.to/apidna/data-privacy-in-api-integrations-2oic)
-- [Better Asynchronous Operations](https://dev.to/andrious/better-asynchronous-operations-ppb)
-- [Unraveling the Mysteries of Deepfakes: A Journey Through Innovation and Iteration](https://dev.to/achaljain/unraveling-the-mysteries-of-deepfakes-a-journey-through-innovation-and-iteration-131j)
-- [Comparing AWS and Azure Pricing: A Detailed Analysis of Cloud Service Costs](https://dev.to/shiva6699/comparing-aws-and-azure-pricing-a-detailed-analysis-of-cloud-service-costs-5g2o)
+- [The Optimal Choice of Hypothesis Is the Weakest, Not the Shortest](https://dev.to/mikeyoung44/the-optimal-choice-of-hypothesis-is-the-weakest-not-the-shortest-2821)
+- [From Words to Numbers: Your Large Language Model Is Secretly A Capable Regressor When Given In-Context Examples](https://dev.to/mikeyoung44/from-words-to-numbers-your-large-language-model-is-secretly-a-capable-regressor-when-given-in-context-examples-526a)
+- [From Model-centered to Human-Centered: Revision Distance as a Metric for Text Evaluation in LLMs-based Applications](https://dev.to/mikeyoung44/from-model-centered-to-human-centered-revision-distance-as-a-metric-for-text-evaluation-in-llms-based-applications-1hoa)
+- [The Topos of Transformer Networks](https://dev.to/mikeyoung44/the-topos-of-transformer-networks-kid)
+- [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://dev.to/mikeyoung44/learning-agile-soccer-skills-for-a-bipedal-robot-with-deep-reinforcement-learning-4keg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
