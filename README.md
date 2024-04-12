@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [SYSTEM DESIGN SERIES TOPIC: A PERCURSOR TO APPROACHING YOUR SYSTEM DESIGN](https://dev.to/temybroder/system-design-seriesa-percursor-to-approaching-your-system-design-4b10)
+- [Expand your Future, extensions in Dart](https://dev.to/mattia/expand-your-future-extensions-in-dart-22j)
+- [Personal taught on codebase organization](https://dev.to/tmorin/personal-taught-on-codebase-organization-2adi)
+- [Personal taught on codebase organization](https://dev.to/tmorin/personal-taught-on-codebase-organization-26l0)
 - [20 Essential Entity Framework Core Tips: Optimize Performance, Streamline Queries, and Enhance Data Handling](https://dev.to/ssukhpinder/20-essential-entity-framework-core-tips-optimize-performance-streamline-queries-and-enhance-data-handling-1jmb)
-- [Best Document Processing APIs‍ in 2024](https://dev.to/edenai/best-document-processing-apis-in-2024-2o11)
-- [Pensé de jour](https://dev.to/chriswellkola/pense-de-jour-4mf7)
-- [Quick dip: Use Google Cloud Vertex AI SDK with the Vercel AI SDK](https://dev.to/rogerthatdev/quick-dip-use-the-vertex-ai-sdk-with-the-vercel-ai-sdk-5fme)
-- [Private AI Document Redaction API available on Eden AI](https://dev.to/edenai/private-ai-document-redaction-api-available-on-eden-ai-53ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
