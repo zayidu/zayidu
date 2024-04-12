@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Estruturas de repetição: repeat, while e for](https://dev.to/alexgarzao/estruturas-de-repeticao-repeat-while-e-for-4ph6)
-- [Merge In Between Linked Lists | LeetCode | Java](https://dev.to/tanujav/merge-in-between-linked-lists-leetcode-java-2980)
-- [Word Pattern - LeetCode - Java](https://dev.to/tanujav/word-pattern-leetcode-java-41he)
-- [Elevate Your Conversations: The Role of Walles.Ai’s Chat Bot in Streamlining Ask Ai Experiences](https://dev.to/geekyqee/elevate-your-conversations-the-role-of-wallesais-chat-bot-in-streamlining-ask-ai-experiences-4jm0)
-- [Am I the only one who doesn&#39;t put parentheses around the parameters in Ruby method definitions?](https://dev.to/ko1/am-i-the-only-one-who-doesnt-put-parentheses-around-the-parameters-in-ruby-method-definitions-136c)
+- [The Role Of Chaos Engineering in Building Anti-Fragile Systems](https://dev.to/cloudiepad/the-role-of-chaos-engineering-in-building-anti-fragile-systems-17bg)
+- [python matplotlib.pyplot 绘制图表图像重叠的问题](https://dev.to/dragon72463399/python-matplotlibpyplot-hui-zhi-tu-biao-tu-xiang-zhong-die-de-wen-ti-4i6f)
+- [SSR vs SPA Showdown: Choosing the Right Rendering Approach for Your Web App](https://dev.to/santhanam87/ssr-vs-spa-showdown-choosing-the-right-rendering-approach-for-your-web-app-4439)
+- [PYTHON LOGICAL OPERATORS](https://dev.to/maame-codes/python-logical-operators-28g)
+- [Building Anti-Fragile Systems For Modern-Day DevOps](https://dev.to/cloudiepad/building-anti-fragile-systems-for-modern-day-devops-39ff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
