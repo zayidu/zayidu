@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [20 Essential Entity Framework Core Tips: Optimize Performance, Streamline Queries, and Enhance Data Handling](https://dev.to/ssukhpinder/20-essential-entity-framework-core-tips-optimize-performance-streamline-queries-and-enhance-data-handling-1jmb)
+- [Best Document Processing APIs‍ in 2024](https://dev.to/edenai/best-document-processing-apis-in-2024-2o11)
+- [Pensé de jour](https://dev.to/chriswellkola/pense-de-jour-4mf7)
+- [Quick dip: Use Google Cloud Vertex AI SDK with the Vercel AI SDK](https://dev.to/rogerthatdev/quick-dip-use-the-vertex-ai-sdk-with-the-vercel-ai-sdk-5fme)
 - [Private AI Document Redaction API available on Eden AI](https://dev.to/edenai/private-ai-document-redaction-api-available-on-eden-ai-53ea)
-- [Jina AI Text Embeddings solution on Eden AI](https://dev.to/edenai/jina-ai-text-embeddings-solution-on-eden-ai-47kk)
-- [AI Enchantment with Python](https://dev.to/epakconsultant/ai-enchantment-with-python-31f9)
-- [Desvendando o UX Writing: A Poesia Oculta nas Interfaces Digitais](https://dev.to/somosguix/desvendando-o-ux-writing-a-poesia-oculta-nas-interfaces-digitais-4a0h)
-- [Tools and Methods for Cybersecurity Analysis](https://dev.to/epakconsultant/tools-and-methods-for-cybersecurity-analysis-3ca1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
