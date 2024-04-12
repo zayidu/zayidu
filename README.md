@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Extract Worker, a service with text-to-image worker AI models!](https://dev.to/peter279k/web-extract-worker-a-service-with-text-to-image-worker-ai-models-59e1)
-- [Retirement Planning and Bitcoin](https://dev.to/epakconsultant/retirement-planning-and-bitcoin-2kig)
-- [Do&#39;s and Don&#39;ts in Django](https://dev.to/papansarkar101/dos-and-donts-in-django-59ii)
-- [Day 12/366](https://dev.to/vishalmx3/day-12366-4bgf)
-- [Secrets of SEO Cluster Strategy](https://dev.to/epakconsultant/secrets-of-seo-cluster-strategy-jp3)
+- [Next.js Optimization](https://dev.to/syedmuhammadaliraza/nextjs-optimization-n5f)
+- [Working on Github](https://dev.to/kudratswe/working-on-github-1olb)
+- [Scaling Bitcoin with Lightning Network](https://dev.to/epakconsultant/scaling-bitcoin-with-lightning-network-23i3)
+- [How to classify landmarks using Tensorflow , Tensor-Hub and Python ?](https://dev.to/feitgemel/how-to-classify-landmarks-using-tensorflow-tensor-hub-and-python--3okk)
+- [Development and Implementation of Lightning Network](https://dev.to/epakconsultant/development-and-implementation-of-lightning-network-454l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
