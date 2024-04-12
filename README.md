@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-47f5)
-- [node js client hangs on connection to redis cluster when master changes](https://dev.to/subpod/node-js-client-hangs-on-connection-to-redis-cluster-when-master-changes-bli)
-- [How Jira ITSM Empowers Remote Workflow | ITSM Insight](https://dev.to/assetitapp/how-jira-itsm-empowers-remote-workflow-itsm-insight-inh)
-- [New hydration errors mismatch messages](https://dev.to/tarvald/new-hydration-errors-mismatch-messages-5fh6)
-- [Integrating Strapi with ChatGPT and Next.js](https://dev.to/strapi/integrating-strapi-with-chatgpt-and-nextjs-cc5)
+- [NinjaBootstrap UI - A Pragmatic Approach To Bootstrap Reusable HTML Components](https://dev.to/giovapanasiti/ninjabootstrap-ui-a-pragmatic-approach-to-bootstrap-reusable-html-components-43ma)
+- [Elevate Your Testing Skills: Advanced API Functional Testing Methods](https://dev.to/satokenta/elevate-your-testing-skills-advanced-api-functional-testing-methods-2a4a)
+- [Creating functions in JavaScript - Part 3](https://dev.to/dindustack/create-a-javascript-function-part-3-5871)
+- [Build Your Slot Machine Game with Simple HTML Code!](https://dev.to/aistechonlabs/build-your-slot-machine-game-with-simple-html-code-30ed)
+- [Configuring kubectl for Minikube Access](https://dev.to/venom90/configuring-kubectl-for-minikube-access-5b9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
