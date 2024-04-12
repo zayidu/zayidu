@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a progress-bar with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-progress-bar-with-tailwind-css-and-alpinejs-4p9k)
-- [How to effectively use PUT and DELETE HTTP methods in Django Class-Based Views?](https://dev.to/mamadou762/how-to-effectively-use-put-and-delete-http-methods-in-django-class-based-views-ip9)
-- [How to Use AI for Code Documentation - A DocuWriter Tutorial](https://dev.to/magarrent/how-to-use-ai-for-code-documentation-a-docuwriter-tutorial-32hn)
-- [Should I use Virtual Threads in Java?](https://dev.to/diogodanielsoaresferreira/should-i-use-virtual-threads-in-java-3986)
-- [How to Use Intellicode in Visual Studio](https://dev.to/bytehide/how-to-use-intellicode-in-visual-studio-56c3)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-47f5)
+- [node js client hangs on connection to redis cluster when master changes](https://dev.to/subpod/node-js-client-hangs-on-connection-to-redis-cluster-when-master-changes-bli)
+- [How Jira ITSM Empowers Remote Workflow | ITSM Insight](https://dev.to/assetitapp/how-jira-itsm-empowers-remote-workflow-itsm-insight-inh)
+- [New hydration errors mismatch messages](https://dev.to/tarvald/new-hydration-errors-mismatch-messages-5fh6)
+- [Integrating Strapi with ChatGPT and Next.js](https://dev.to/strapi/integrating-strapi-with-chatgpt-and-nextjs-cc5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
