@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fulfillment Centers for Drop Shipping](https://dev.to/epakconsultant/fulfillment-centers-for-drop-shipping-49ci)
-- [３章7](https://dev.to/aaattt/3zhang-7-434b)
-- [Server Configuration and Deployment for Java Applications in AWS](https://dev.to/epakconsultant/server-configuration-and-deployment-for-java-applications-in-aws-1peb)
-- [Winform Terraform Commands: Init and Apply](https://dev.to/epakconsultant/winform-terraform-commands-init-and-apply-20a0)
-- [Linux of AI : Why Open Interpreter poised to completely disrupt how we interact with Technology?](https://dev.to/exploredataaiml/linux-of-ai-why-open-interpreter-poised-to-completely-disrupt-how-we-interact-with-technology-3m2)
+- [Automated Software Testing Strategy](https://dev.to/gkogktzilas/automated-software-testing-strategy-1d2k)
+- [HTML basics for absolute beginners](https://dev.to/nsrisaimeher/html-basics-for-absolute-beginners-5b7a)
+- [AI collaborative storytelling + Image generator + Translate &lpar;English-Spanish&rpar;](https://dev.to/julianandreszb/ai-collaborative-storytelling-image-generator-translate-english-spanish-939)
+- [Tech I am learning in 2024](https://dev.to/ishar19/tech-i-am-learning-in-2024-3pi9)
+- [Securing the Cloud #26](https://dev.to/8carroll/securing-the-cloud-26-2i8p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
