@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cache Control, Long story short.](https://dev.to/ibengeu/cache-control-jfj)
-- [Angular Tutorial: Replacing Static Inputs with the Host Attribute Token](https://dev.to/brianmtreese/angular-tutorial-replacing-static-inputs-with-the-host-attribute-token-4amo)
-- [Automating Video editing with programming knowledge](https://dev.to/christianpaez/automating-video-editing-with-programming-knowledge-4gh9)
-- [Component Carnage: Building Killer React Components](https://dev.to/kigazon/component-carnage-building-killer-react-components-1443)
-- [UPI System Design](https://dev.to/shubhadip_bhowmik/upi-system-design-4361)
+- [Mac Keyboard Shortcuts Every Developer Should Know](https://dev.to/uhrinuh/mac-keyboard-shortcuts-every-developer-should-know-33f0)
+- [React Native Scaler: Perfecting App Aesthetics Across Multiple Devices](https://dev.to/handipriyono/react-native-scaler-perfecting-app-aesthetics-across-multiple-devices-3a52)
+- [Hunting down performance issues. A small DevOps story.](https://dev.to/jadolg/hunting-down-performance-issues-a-small-devops-story-2hb)
+- [Create Flavors for Flutter App - iOS](https://dev.to/arkroot/create-flavors-for-flutter-app-ios-fnl)
+- [SharedPreferences Debugging: Unlocking the Developer Mode with Prefixer](https://dev.to/vishalgaur/sharedpreferences-debugging-unlocking-the-developer-mode-with-prefixer-5dm1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
