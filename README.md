@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PayPal REST API](https://dev.to/faxriddinmaxmadiyorov/paypal-rest-api-3pi6)
-- [Linux is almost hacked, AWS forks Redis, DevOps in 2024, CloudFormation accelerates](https://dev.to/mkdev/linux-is-almost-hacked-aws-forks-redis-devops-in-2024-cloudformation-accelerates-1li6)
-- [Creating functions in JavaScript - Part 4](https://dev.to/dindustack/creating-functions-in-javascript-part-4-36of)
-- [The Best Free TikTok Downloader of 2024](https://dev.to/markcallawy14804/the-best-free-tiktok-downloader-of-2024-3aoo)
-- [How to Create a Linux VM and Connect to it Using SSH Key Authentication.](https://dev.to/johnshakor/how-to-create-a-linux-vm-and-connect-to-it-using-ssh-key-authentication-2f02)
+- [Java Memory Leaks: Find &amp; Conquer](https://dev.to/tharindufdo/java-memory-leaks-find-conquer-5hge)
+- [Essential React js Shorthand Techniques](https://dev.to/vishnusatheesh/essential-react-js-shorthand-techniques-5fio)
+- [Create storybook📚 using CloudFlare AI](https://dev.to/fahminlb33/create-storybook-using-cloudflare-ai-26m7)
+- [insert NULL values to database and DON&#39;T allow to create database with NULL values](https://dev.to/pooyaalamdari/insert-null-values-to-database-2e9d)
+- [Create a knowledge base using Amazon OpenSearch](https://dev.to/aagalib/create-a-knowledge-base-using-amazon-opensearch-127p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
