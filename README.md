@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Project Reactor: About the side effect operator](https://dev.to/saladlam/project-reactor-about-the-side-effect-operator-3go2)
-- [Digital Art On iPad: Explore Your Options](https://dev.to/markcallawy14804/digital-art-on-ipad-explore-your-options-ogk)
-- [Quick introduction to the Prisma ORM](https://dev.to/a727283/quick-introduction-to-the-prisma-orm-1l1l)
-- [Adopt AI, But Responsibly!](https://dev.to/genai/adopt-ai-but-responsibly-21e3)
-- [Suggestions for a new language to learn?](https://dev.to/michaelstamps/suggestions-for-a-new-language-to-learn-3h0l)
+- [What is ListNode in JS?](https://dev.to/nadim_ch0wdhury/what-is-listnode-in-js-4845)
+- [Introducción a Object Calisthenics](https://dev.to/carlosvigueras/introduccion-a-object-calisthenics-45fg)
+- [What is .hasOwnProperty&lpar;&rpar; in JavaScript?](https://dev.to/nadim_ch0wdhury/what-is-hasownproperty-in-javascript-ei0)
+- [Mastering JavaScript: Multiple Ways to Generate a Two-Dimensional Array](https://dev.to/yanhaijing/mastering-javascript-multiple-ways-to-generate-a-two-dimensional-array-cpg)
+- [High Level requirements and purposes](https://dev.to/borysshulyak/high-level-requirements-and-purposes-2da2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
