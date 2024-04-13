@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-44b3)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-p85)
-- [RAG with Embeddings in .NET: Enhancing Semantic Search](https://dev.to/erickbr15/rag-with-embeddings-in-net-enhancing-semantic-search-3bhk)
-- [I want my default mode network back.](https://dev.to/aaronblondeau/i-want-my-default-mode-network-back-34l9)
-- [Preguntas en entrevista técnica de Laravel](https://dev.to/soberanes/preguntas-en-entrevista-tecnica-de-laravel-1466)
+- [Deploy with vercel](https://dev.to/karleeov/deploy-with-vercel-4o25)
+- [skillo.me - Trade Skills!](https://dev.to/ahmetilhan24/skillome-trade-skills-582a)
+- [Optimize feed in ChatCraft](https://dev.to/wanggithub0/optimize-feed-in-chatcraft-56bo)
+- [Diary - Building my own social midia - Picking the tech stack - 3/X](https://dev.to/nickthecapy/diary-building-my-own-social-midia-picking-the-tech-stack-3x-5di5)
+- [How To Create Window 11 Pro with Azure Virtual Machine](https://dev.to/bola/how-to-create-window-11-pro-with-azure-virtual-machine-1a83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
