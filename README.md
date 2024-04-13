@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a serverless AI App on Cloudflare Workers](https://dev.to/olatunjiayodel9/building-a-serverless-ai-app-on-cloudflare-workers-28d4)
-- [Setup path aliases in React + Vite + TS Project 🤓](https://dev.to/prasetyomuhdwi/setup-path-aliases-in-react-vite-ts-project-kp9)
-- [What kind of stuff do you like to read about?](https://dev.to/a727283/what-kind-of-stuff-do-you-like-to-read-articles-about-10hf)
-- [Arch wsl setupn for basic web development](https://dev.to/karleeov/arch-wsl-setupn-for-basic-web-development-4bjh)
-- [Command ChatGPT To Render Markdown with 12 Magic Words &lpar;including images!&rpar;](https://dev.to/aimarkdown/command-chatgpt-to-render-markdown-with-12-magic-words-including-images-10ok)
+- [Project Reactor: About the side effect operator](https://dev.to/saladlam/project-reactor-about-the-side-effect-operator-3go2)
+- [Digital Art On iPad: Explore Your Options](https://dev.to/markcallawy14804/digital-art-on-ipad-explore-your-options-ogk)
+- [Quick introduction to the Prisma ORM](https://dev.to/a727283/quick-introduction-to-the-prisma-orm-1l1l)
+- [Adopt AI, But Responsibly!](https://dev.to/genai/adopt-ai-but-responsibly-21e3)
+- [Suggestions for a new language to learn?](https://dev.to/michaelstamps/suggestions-for-a-new-language-to-learn-3h0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
