@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Step-by-Step Angular 17 &amp; .NET 8: Build a Secure Auth App &lpar;FREE Course&rpar;](https://dev.to/dev_dcpushpa/step-by-step-angular-17-net-8-build-a-secure-auth-app-free-course-2h7h)
+- [Technical Aspects of Presale and ICO for Crypto Token](https://dev.to/epakconsultant/technical-aspects-of-presale-and-ico-for-crypto-token-7a3)
+- [Bitcoin Lightning Nodes’ Development, Implementation, and Maintenance](https://dev.to/epakconsultant/bitcoin-lightning-nodes-development-implementation-and-maintenance-3kf9)
+- [wsl arch setup for oh my posh](https://dev.to/karleeov/wsl-arch-setup-for-oh-my-posh-51pa)
 - [Deploy with vercel](https://dev.to/karleeov/deploy-with-vercel-4o25)
-- [skillo.me - Trade Skills!](https://dev.to/ahmetilhan24/skillome-trade-skills-582a)
-- [Optimize feed in ChatCraft](https://dev.to/wanggithub0/optimize-feed-in-chatcraft-56bo)
-- [Diary - Building my own social midia - Picking the tech stack - 3/X](https://dev.to/nickthecapy/diary-building-my-own-social-midia-picking-the-tech-stack-3x-5di5)
-- [How To Create Window 11 Pro with Azure Virtual Machine](https://dev.to/bola/how-to-create-window-11-pro-with-azure-virtual-machine-1a83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
