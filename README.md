@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Plan Generator](https://dev.to/jesusantguerrero/running-plan-generator-35fg)
-- [What skills do you need to become a data analyst?](https://dev.to/epakconsultant/what-skills-do-you-need-to-become-a-data-analyst-47lf)
-- [Connect GraphQL with React - 2 ways](https://dev.to/codeparrot/connect-graphql-with-react-2-ways-h04)
-- [5 things you should avoid doing as a developer](https://dev.to/ale3oula/5-things-you-should-avoid-doing-as-a-developer-1kff)
-- [Building an High-Performance API with Next.js, Hono, and Cloudflare Workers](https://dev.to/aadarsh-nagrath/building-an-high-performance-api-with-nextjs-hono-and-cloudflare-workers-15eo)
+- [Ibuprofeno.py💊| #80: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-80-explica-este-codigo-python-3fgf)
+- [Razlika između &#39;type&#39; i &#39;interface&#39; u TypeScriptu](https://dev.to/bslaven/razlika-izmedu-type-i-interface-u-typescriptu-4jha)
+- [Illuminating Unnoticed Efficiency Pitfalls with AtomicLongMap](https://dev.to/aemiej/illuminating-unnoticed-efficiency-pitfalls-with-atomiclongmap-c1m)
+- [Enterprise AI Hub: LLM AI Agent built with OpenAI &amp; Java](https://dev.to/vishalmysore/enterprise-ai-hub-llm-ai-agent-built-with-openai-java-1mm9)
+- [Visual Guides For Any Skill With Cloudflare AI](https://dev.to/keep_calm_and_code_on/visual-guides-for-any-skill-with-cloudflare-ai-5fdd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
