@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Memory Leaks: Find &amp; Conquer](https://dev.to/tharindufdo/java-memory-leaks-find-conquer-5hge)
-- [Essential React js Shorthand Techniques](https://dev.to/vishnusatheesh/essential-react-js-shorthand-techniques-5fio)
-- [Create storybook📚 using CloudFlare AI](https://dev.to/fahminlb33/create-storybook-using-cloudflare-ai-26m7)
-- [insert NULL values to database and DON&#39;T allow to create database with NULL values](https://dev.to/pooyaalamdari/insert-null-values-to-database-2e9d)
-- [Create a knowledge base using Amazon OpenSearch](https://dev.to/aagalib/create-a-knowledge-base-using-amazon-opensearch-127p)
+- [`safeaws` checks your AWS CLI commands before they are run](https://dev.to/aws-builders/safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl)
+- [Using Const](https://dev.to/k-srivastava/using-const-3p07)
+- [50 Java Interview Questions for Practice](https://dev.to/somadevtoo/50-java-interview-questions-for-practice-1c96)
+- [PHP - arrays e valores como chave](https://dev.to/alyatek/php-arrays-e-valores-como-chave-5gdi)
+- [Integrate Tone.js in a React application](https://dev.to/coluzziandrea/integrate-tonejs-in-a-react-application-319d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
