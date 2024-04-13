@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick tip: Using Apache Spark and GraphFrames with SingleStore Notebooks](https://dev.to/singlestore/quick-tip-using-apache-spark-and-graphframes-with-singlestore-notebooks-20dn)
-- [PicoCTF2024: Blast from the past](https://dev.to/yowise/picoctf2024-blast-from-the-past-5hma)
-- [MongoDB vs Redis: A Comprehensive Comparison](https://dev.to/kigazon/mongodb-vs-redis-a-comprehensive-comparison-5cn0)
-- [DevLog #10 - Product Backlog](https://dev.to/amilarangana/devlog-10-product-backlog-3577)
-- [Tips from open-source: An Object with Map and Set.](https://dev.to/ramunarasinga/tips-from-open-source-an-object-with-map-and-set-2fa3)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-44b3)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-p85)
+- [RAG with Embeddings in .NET: Enhancing Semantic Search](https://dev.to/erickbr15/rag-with-embeddings-in-net-enhancing-semantic-search-3bhk)
+- [I want my default mode network back.](https://dev.to/aaronblondeau/i-want-my-default-mode-network-back-34l9)
+- [Preguntas en entrevista técnica de Laravel](https://dev.to/soberanes/preguntas-en-entrevista-tecnica-de-laravel-1466)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
