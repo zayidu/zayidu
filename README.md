@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Angular 17 &amp; .NET 8: Build a Secure Auth App &lpar;FREE Course&rpar;](https://dev.to/dev_dcpushpa/step-by-step-angular-17-net-8-build-a-secure-auth-app-free-course-2h7h)
-- [Technical Aspects of Presale and ICO for Crypto Token](https://dev.to/epakconsultant/technical-aspects-of-presale-and-ico-for-crypto-token-7a3)
-- [Bitcoin Lightning Nodes’ Development, Implementation, and Maintenance](https://dev.to/epakconsultant/bitcoin-lightning-nodes-development-implementation-and-maintenance-3kf9)
-- [wsl arch setup for oh my posh](https://dev.to/karleeov/wsl-arch-setup-for-oh-my-posh-51pa)
-- [Deploy with vercel](https://dev.to/karleeov/deploy-with-vercel-4o25)
+- [UI Memory Recognition and Recall Strategies for Enhanced User Experience](https://dev.to/sachinabs/ui-memory-recognition-and-recall-strategies-for-enhanced-user-experience-5be4)
+- [Stablecoins Accounting for Financial Professionals](https://dev.to/epakconsultant/stablecoins-accounting-for-financial-professionals-57d)
+- [AI-Driven Crypto Trading Methods](https://dev.to/epakconsultant/ai-driven-crypto-trading-methods-16i3)
+- [Better Threat Detection with CloudWatch Logs and Generative AI](https://dev.to/8carroll/better-threat-detection-with-cloudwatch-logs-and-generative-ai-2e7e)
+- [Stripes Integration for Cryptocurrency Payment](https://dev.to/epakconsultant/stripes-integration-for-cryptocurrency-payment-5gc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
