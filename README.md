@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #80: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-80-explica-este-codigo-python-3fgf)
-- [Razlika između &#39;type&#39; i &#39;interface&#39; u TypeScriptu](https://dev.to/bslaven/razlika-izmedu-type-i-interface-u-typescriptu-4jha)
-- [Illuminating Unnoticed Efficiency Pitfalls with AtomicLongMap](https://dev.to/aemiej/illuminating-unnoticed-efficiency-pitfalls-with-atomiclongmap-c1m)
-- [Enterprise AI Hub: LLM AI Agent built with OpenAI &amp; Java](https://dev.to/vishalmysore/enterprise-ai-hub-llm-ai-agent-built-with-openai-java-1mm9)
-- [Visual Guides For Any Skill With Cloudflare AI](https://dev.to/keep_calm_and_code_on/visual-guides-for-any-skill-with-cloudflare-ai-5fdd)
+- [Building a serverless AI App on Cloudflare Workers](https://dev.to/olatunjiayodel9/building-a-serverless-ai-app-on-cloudflare-workers-28d4)
+- [Setup path aliases in React + Vite + TS Project 🤓](https://dev.to/prasetyomuhdwi/setup-path-aliases-in-react-vite-ts-project-kp9)
+- [What kind of stuff do you like to read about?](https://dev.to/a727283/what-kind-of-stuff-do-you-like-to-read-articles-about-10hf)
+- [Arch wsl setupn for basic web development](https://dev.to/karleeov/arch-wsl-setupn-for-basic-web-development-4bjh)
+- [Command ChatGPT To Render Markdown with 12 Magic Words &lpar;including images!&rpar;](https://dev.to/aimarkdown/command-chatgpt-to-render-markdown-with-12-magic-words-including-images-10ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
