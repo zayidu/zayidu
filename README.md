@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Essential Docker Commands 🐳](https://dev.to/tungbq/the-essential-docker-commands-1c23)
-- [Bring To Life! - Take photos and bring objects to Life.](https://dev.to/nectres/bring-to-life-take-photos-and-bring-objects-to-life-5dod)
-- [How Serverless Almost Killed my App](https://dev.to/danhof/how-serverless-almost-killed-my-app-27p2)
-- [Handling Multiple requests with Redis and Bullmq](https://dev.to/roshan_ican/handling-multiple-requests-with-redis-and-bullmq-13pa)
-- [Building a Comprehensive Learning Path Dashboard with Next.js and Raindrop API](https://dev.to/othmanadi/building-a-comprehensive-learning-path-dashboard-with-nextjs-and-raindrop-api-dem)
+- [Cache Control, Long story short.](https://dev.to/ibengeu/cache-control-jfj)
+- [Angular Tutorial: Replacing Static Inputs with the Host Attribute Token](https://dev.to/brianmtreese/angular-tutorial-replacing-static-inputs-with-the-host-attribute-token-4amo)
+- [Automating Video editing with programming knowledge](https://dev.to/christianpaez/automating-video-editing-with-programming-knowledge-4gh9)
+- [Component Carnage: Building Killer React Components](https://dev.to/kigazon/component-carnage-building-killer-react-components-1443)
+- [UPI System Design](https://dev.to/shubhadip_bhowmik/upi-system-design-4361)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
