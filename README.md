@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mac Keyboard Shortcuts Every Developer Should Know](https://dev.to/uhrinuh/mac-keyboard-shortcuts-every-developer-should-know-33f0)
-- [React Native Scaler: Perfecting App Aesthetics Across Multiple Devices](https://dev.to/handipriyono/react-native-scaler-perfecting-app-aesthetics-across-multiple-devices-3a52)
-- [Hunting down performance issues. A small DevOps story.](https://dev.to/jadolg/hunting-down-performance-issues-a-small-devops-story-2hb)
-- [Create Flavors for Flutter App - iOS](https://dev.to/arkroot/create-flavors-for-flutter-app-ios-fnl)
-- [SharedPreferences Debugging: Unlocking the Developer Mode with Prefixer](https://dev.to/vishalgaur/sharedpreferences-debugging-unlocking-the-developer-mode-with-prefixer-5dm1)
+- [MongoDB Installation Guide for Windows Subsystem for Linux &lpar;WSL&rpar;](https://dev.to/dhananjayharidas/mongodb-installation-guide-for-windows-subsystem-for-linux-wsl-21kj)
+- [Understanding Cache vs Cookie vs Session in 100 seconds.](https://dev.to/jamescroissant/understanding-cache-vs-cookie-vs-session-in-100-seconds-4hj8)
+- [Building a Dynamic Learning Experience with Django LMS](https://dev.to/collins_lincoln/building-a-dynamic-learning-experience-with-django-lms-25e3)
+- [Deploying AWS Solution for a company&#39;s Websites](https://dev.to/jtoguntoye/deploying-aws-solution-for-a-companys-websites-20ol)
+- [How to divide two numbers in JavaScript with out using the &quot;/&quot; operator?](https://dev.to/ticha/how-to-divide-two-numbers-in-javascript-with-out-using-the-operator-2e8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
