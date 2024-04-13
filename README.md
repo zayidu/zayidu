@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [`safeaws` checks your AWS CLI commands before they are run](https://dev.to/aws-builders/safeaws-checks-your-aws-cli-commands-before-they-are-run-3bjl)
-- [Using Const](https://dev.to/k-srivastava/using-const-3p07)
-- [50 Java Interview Questions for Practice](https://dev.to/somadevtoo/50-java-interview-questions-for-practice-1c96)
-- [PHP - arrays e valores como chave](https://dev.to/alyatek/php-arrays-e-valores-como-chave-5gdi)
-- [Integrate Tone.js in a React application](https://dev.to/coluzziandrea/integrate-tonejs-in-a-react-application-319d)
+- [Running Plan Generator](https://dev.to/jesusantguerrero/running-plan-generator-35fg)
+- [What skills do you need to become a data analyst?](https://dev.to/epakconsultant/what-skills-do-you-need-to-become-a-data-analyst-47lf)
+- [Connect GraphQL with React - 2 ways](https://dev.to/codeparrot/connect-graphql-with-react-2-ways-h04)
+- [5 things you should avoid doing as a developer](https://dev.to/ale3oula/5-things-you-should-avoid-doing-as-a-developer-1kff)
+- [Building an High-Performance API with Next.js, Hono, and Cloudflare Workers](https://dev.to/aadarsh-nagrath/building-an-high-performance-api-with-nextjs-hono-and-cloudflare-workers-15eo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
