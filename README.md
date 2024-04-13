@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [PayPal REST API](https://dev.to/faxriddinmaxmadiyorov/paypal-rest-api-3pi6)
+- [Linux is almost hacked, AWS forks Redis, DevOps in 2024, CloudFormation accelerates](https://dev.to/mkdev/linux-is-almost-hacked-aws-forks-redis-devops-in-2024-cloudformation-accelerates-1li6)
 - [Creating functions in JavaScript - Part 4](https://dev.to/dindustack/creating-functions-in-javascript-part-4-36of)
-- [App Marketplace | Foodship](https://dev.to/foodshipau/app-marketplace-foodship-3fal)
-- [Foodship | Apps](https://dev.to/foodshipau/foodship-apps-2gnm)
-- [Tailwind Handbook - Part I](https://dev.to/lyumotech/tailwind-handbook-part-i-1l2d)
-- [O lado sombrio do desenvolvimento de aplicativos que os desenvolvedores individuais precisam absolutamente conhecer](https://dev.to/zmsoft/o-lado-sombrio-do-desenvolvimento-de-aplicativos-que-os-desenvolvedores-individuais-precisam-absolutamente-conhecer-39gg)
+- [The Best Free TikTok Downloader of 2024](https://dev.to/markcallawy14804/the-best-free-tiktok-downloader-of-2024-3aoo)
+- [How to Create a Linux VM and Connect to it Using SSH Key Authentication.](https://dev.to/johnshakor/how-to-create-a-linux-vm-and-connect-to-it-using-ssh-key-authentication-2f02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
