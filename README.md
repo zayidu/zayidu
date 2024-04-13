@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When Are Layoffs Good?](https://dev.to/devteam/when-are-layoffs-good-38pp)
-- [10 Fun Browser Games to Play When You’re Bored](https://dev.to/imrankh13332994/10-fun-browser-games-to-play-when-youre-bored-2pd2)
-- [App Market | Foodship](https://dev.to/foodshipau/app-market-foodship-16fi)
-- [Day 23 of 30-Day .NET Challenge: Span&lt;T&gt; over Arrays](https://dev.to/ssukhpinder/day-23-of-30-day-net-challenge-span-over-arrays-41go)
-- [React native and the JavaScript bridge.](https://dev.to/amankumarsingh01/react-native-and-the-javascript-bridge-3ipj)
+- [Creating functions in JavaScript - Part 4](https://dev.to/dindustack/creating-functions-in-javascript-part-4-36of)
+- [App Marketplace | Foodship](https://dev.to/foodshipau/app-marketplace-foodship-3fal)
+- [Foodship | Apps](https://dev.to/foodshipau/foodship-apps-2gnm)
+- [Tailwind Handbook - Part I](https://dev.to/lyumotech/tailwind-handbook-part-i-1l2d)
+- [O lado sombrio do desenvolvimento de aplicativos que os desenvolvedores individuais precisam absolutamente conhecer](https://dev.to/zmsoft/o-lado-sombrio-do-desenvolvimento-de-aplicativos-que-os-desenvolvedores-individuais-precisam-absolutamente-conhecer-39gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
