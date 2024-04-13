@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning AWS Day by Day — Day 36 — AWS Services — At a Glance — Part 1](https://dev.to/rksalo88/learning-aws-day-by-day-day-36-aws-services-at-a-glance-part-1-2ldb)
-- [Day 13/366](https://dev.to/vishalmx3/day-13366-1oko)
-- [Gamedev.js Jam 2024 start and theme announcement!](https://dev.to/end3r/gamedevjs-jam-2024-start-and-theme-announcement-3nke)
-- [Docker](https://dev.to/jaybamaniya66/docker-3ndp)
-- [Running VLC in the Browser](https://dev.to/krowemoh/running-vlc-in-the-browser-2f2f)
+- [The Essential Docker Commands 🐳](https://dev.to/tungbq/the-essential-docker-commands-1c23)
+- [Bring To Life! - Take photos and bring objects to Life.](https://dev.to/nectres/bring-to-life-take-photos-and-bring-objects-to-life-5dod)
+- [How Serverless Almost Killed my App](https://dev.to/danhof/how-serverless-almost-killed-my-app-27p2)
+- [Handling Multiple requests with Redis and Bullmq](https://dev.to/roshan_ican/handling-multiple-requests-with-redis-and-bullmq-13pa)
+- [Building a Comprehensive Learning Path Dashboard with Next.js and Raindrop API](https://dev.to/othmanadi/building-a-comprehensive-learning-path-dashboard-with-nextjs-and-raindrop-api-dem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
