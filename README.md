@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Code: Definition and Principles - Part 1](https://dev.to/tahsinsoyak/clean-code-definition-and-principles-part-1-4ak3)
-- [Integrating Firebase Storage for Real-Time Document Upload Status in JavaScript](https://dev.to/itselftools/integrating-firebase-storage-for-real-time-document-upload-status-in-javascript-fko)
-- [create and drop database](https://dev.to/pooyaalamdari/create-and-drop-database-1lk8)
-- [Deep Dive on Amazon Managed Workflows for Apache Airflow Using CloudFormation](https://dev.to/aws-builders/deep-dive-on-amazon-managed-workflows-for-apache-airflow-using-cloudformation-kkp)
-- [OCI - Oracle Base Database Service - Creating Custom Backups](https://dev.to/abhilash8/oci-oracle-base-database-service-creating-custom-backups-18nd)
+- [How Plugin Creep is Killing Your Editor and Ruining Development Experience](https://dev.to/tomekskupinski/how-plugin-creep-is-killing-your-editor-and-ruining-development-experience-38ag)
+- [Hosting for Web Apps: Cloud vs. Homelab vs. Hybrid – Which Saves You Money?](https://dev.to/mihailtd/hosting-for-web-apps-cloud-vs-homelab-vs-hybrid-which-saves-you-money-4h85)
+- [Anthropic Claude Function Calling and Tools Integration](https://dev.to/vishalmysore/anthropic-claude-function-calling-and-tools-integration-29jf)
+- [Spring WebFlux Retry Mechanism](https://dev.to/tharindufdo/spring-webflux-retry-mechanism-8f4)
+- [Theming using CSS Variables? Turn Them into VS Code Snippets for Faster, Error-Free Coding](https://dev.to/giteden/theming-using-css-variables-turn-them-into-vs-code-snippets-for-faster-error-free-coding-3b1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
