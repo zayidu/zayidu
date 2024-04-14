@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [mean&lpar;&rpar; and median&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/mean-and-median-in-pytorch-23h7)
-- [The supreme rank of Computing Mascots](https://dev.to/terminalcoffee/the-supreme-rank-of-computing-mascots-58oj)
-- [Java&#39;s own EJB and Spring framework](https://dev.to/abuhasib/javas-own-ejb-and-spring-framework-2gn9)
-- [AI enthusiasm #4 - Your stable diffusion chatbot🐠](https://dev.to/astrabert/ai-enthusiasm-4-your-stable-diffusion-chatbot-93p)
-- [sum&lpar;&rpar; and prod&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/sum-and-prod-in-pytorch-4bl3)
+- [Using the MERN Stack: MongoDB, Express.js, React, and Node.js](https://dev.to/kartikmehta8/using-the-mern-stack-mongodb-expressjs-react-and-nodejs-1ck3)
+- [min&lpar;&rpar;, max&lpar;&rpar;, aminmax&lpar;&rpar;, amin&lpar;&rpar;, amax&lpar;&rpar;, argmin&lpar;&rpar; and argmax&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/min-max-aminmax-amin-amax-argmin-and-argmax-in-pytorch-ahk)
+- [MATT AI](https://dev.to/demosjarco/matt-ai-99f)
+- [ChatCraft 2.0 is almost Here!](https://dev.to/amnish04/chatcraft-20-is-almost-here-3b8a)
+- [Introducing WP Setup](https://dev.to/lucascarvalhopl/introducing-wp-setup-11fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
