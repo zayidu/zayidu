@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using the MERN Stack: MongoDB, Express.js, React, and Node.js](https://dev.to/kartikmehta8/using-the-mern-stack-mongodb-expressjs-react-and-nodejs-1ck3)
-- [min&lpar;&rpar;, max&lpar;&rpar;, aminmax&lpar;&rpar;, amin&lpar;&rpar;, amax&lpar;&rpar;, argmin&lpar;&rpar; and argmax&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/min-max-aminmax-amin-amax-argmin-and-argmax-in-pytorch-ahk)
-- [MATT AI](https://dev.to/demosjarco/matt-ai-99f)
-- [ChatCraft 2.0 is almost Here!](https://dev.to/amnish04/chatcraft-20-is-almost-here-3b8a)
-- [Introducing WP Setup](https://dev.to/lucascarvalhopl/introducing-wp-setup-11fb)
+- [How to Adjust Shopify Store Product Image Resolution](https://dev.to/huangcong12/how-to-adjust-shopify-store-product-image-resolution-474h)
+- [TypeScript Tip #1: forEach vs for loop](https://dev.to/tusharshahi/typescript-tip-1-foreach-vs-for-loop-56og)
+- [Getting started with Azure OpenAI](https://dev.to/juanstoppa/getting-started-with-azure-openai-2ppd)
+- [2024 First Quarter Reads](https://dev.to/madalitsonyemba/2024-first-quarter-reads-13g8)
+- [Styling Slaughter: CSS Techniques in React JS](https://dev.to/kigazon/styling-slaughter-css-techniques-in-react-js-59pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
