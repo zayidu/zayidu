@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Experiment with Linux USBs](https://dev.to/nerdflash28/experiment-with-linux-usbs-51ko)
-- [Implementing Rate Limiting in a Spring Boot API using Bucket4j](https://dev.to/tharindufdo/implementing-rate-limiting-in-a-spring-boot-api-using-bucket4j-59k6)
-- [Principles of Code - Five Key Points to Better Systems](https://dev.to/dev3l/principles-of-code-five-key-points-to-better-systems-29jb)
-- [CSS Text Handling: text-overflow, overflow-wrap, and More!](https://dev.to/sh20raj/css-text-handling-text-overflow-overflow-wrap-and-more-3k8d)
-- [CodeLlama: The Next-Gen Coding Assistant](https://dev.to/rutamstwt/codellama-the-next-gen-coding-assistant-2eh)
+- [Azure Monitoring Tools for GPU Usage and Cost Optimization](https://dev.to/epakconsultant/azure-monitoring-tools-for-gpu-usage-and-cost-optimization-4o4k)
+- [Harnessing the Power of MySQL: Building Robust Database Solutions for Web Applications](https://dev.to/infobijoy/harnessing-the-power-of-mysql-building-robust-database-solutions-for-web-applications-3d2l)
+- [A Step-by-Step Guide for Reclaiming Stolen Crypto](https://dev.to/epakconsultant/a-step-by-step-guide-for-reclaiming-stolen-crypto-2dc3)
+- [Unveiling Scammers’ Fake Versions of Exchanges, Celebrities, Brands, and Companies](https://dev.to/epakconsultant/unveiling-scammers-fake-versions-of-exchanges-celebrities-brands-and-companies-5ham)
+- [Algoritm. 1-hafta.](https://dev.to/abduvohid/algoritm-1-hafta-na4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
