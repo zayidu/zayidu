@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Monitoring Tools for GPU Usage and Cost Optimization](https://dev.to/epakconsultant/azure-monitoring-tools-for-gpu-usage-and-cost-optimization-4o4k)
-- [Harnessing the Power of MySQL: Building Robust Database Solutions for Web Applications](https://dev.to/infobijoy/harnessing-the-power-of-mysql-building-robust-database-solutions-for-web-applications-3d2l)
-- [A Step-by-Step Guide for Reclaiming Stolen Crypto](https://dev.to/epakconsultant/a-step-by-step-guide-for-reclaiming-stolen-crypto-2dc3)
-- [Unveiling Scammers’ Fake Versions of Exchanges, Celebrities, Brands, and Companies](https://dev.to/epakconsultant/unveiling-scammers-fake-versions-of-exchanges-celebrities-brands-and-companies-5ham)
-- [Algoritm. 1-hafta.](https://dev.to/abduvohid/algoritm-1-hafta-na4)
+- [Clean Code: Definition and Principles - Part 1](https://dev.to/tahsinsoyak/clean-code-definition-and-principles-part-1-4ak3)
+- [Integrating Firebase Storage for Real-Time Document Upload Status in JavaScript](https://dev.to/itselftools/integrating-firebase-storage-for-real-time-document-upload-status-in-javascript-fko)
+- [create and drop database](https://dev.to/pooyaalamdari/create-and-drop-database-1lk8)
+- [Deep Dive on Amazon Managed Workflows for Apache Airflow Using CloudFormation](https://dev.to/aws-builders/deep-dive-on-amazon-managed-workflows-for-apache-airflow-using-cloudformation-kkp)
+- [OCI - Oracle Base Database Service - Creating Custom Backups](https://dev.to/abhilash8/oci-oracle-base-database-service-creating-custom-backups-18nd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
