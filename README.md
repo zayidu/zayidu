@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Plugin Creep is Killing Your Editor and Ruining Development Experience](https://dev.to/tomekskupinski/how-plugin-creep-is-killing-your-editor-and-ruining-development-experience-38ag)
-- [Hosting for Web Apps: Cloud vs. Homelab vs. Hybrid – Which Saves You Money?](https://dev.to/mihailtd/hosting-for-web-apps-cloud-vs-homelab-vs-hybrid-which-saves-you-money-4h85)
-- [Anthropic Claude Function Calling and Tools Integration](https://dev.to/vishalmysore/anthropic-claude-function-calling-and-tools-integration-29jf)
-- [Spring WebFlux Retry Mechanism](https://dev.to/tharindufdo/spring-webflux-retry-mechanism-8f4)
-- [Theming using CSS Variables? Turn Them into VS Code Snippets for Faster, Error-Free Coding](https://dev.to/giteden/theming-using-css-variables-turn-them-into-vs-code-snippets-for-faster-error-free-coding-3b1a)
+- [How to Use TURN Server with Node WebRTC Library](https://dev.to/alakkadshaw/how-to-use-turn-server-with-nodejs-webrtc-library-2b4g)
+- [AI Twitter &amp; LinkedIn Bio Generator](https://dev.to/anils/ai-twitter-linkedin-bio-generator-2k1f)
+- [First Postmortem at ALX Software Engineering Program](https://dev.to/victorok/first-postmortem-at-alx-software-engineering-program-2loh)
+- [Designing and Implementing a Microsoft Azure AI Solution](https://dev.to/olatunjiayodel9/designing-and-implementing-a-microsoft-azure-ai-solution-ij2)
+- [Can developers cope with the challenge of switching between technologies? Do developer portals ease this transition?](https://dev.to/ssadasivuni/can-developers-cope-with-the-challenge-of-switching-between-technologies-do-developer-portals-ease-this-transition-3ffc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
