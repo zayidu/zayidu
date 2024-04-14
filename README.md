@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use TURN Server with Node WebRTC Library](https://dev.to/alakkadshaw/how-to-use-turn-server-with-nodejs-webrtc-library-2b4g)
-- [AI Twitter &amp; LinkedIn Bio Generator](https://dev.to/anils/ai-twitter-linkedin-bio-generator-2k1f)
-- [First Postmortem at ALX Software Engineering Program](https://dev.to/victorok/first-postmortem-at-alx-software-engineering-program-2loh)
-- [Designing and Implementing a Microsoft Azure AI Solution](https://dev.to/olatunjiayodel9/designing-and-implementing-a-microsoft-azure-ai-solution-ij2)
-- [Can developers cope with the challenge of switching between technologies? Do developer portals ease this transition?](https://dev.to/ssadasivuni/can-developers-cope-with-the-challenge-of-switching-between-technologies-do-developer-portals-ease-this-transition-3ffc)
+- [Activate Python virtual environment automatically on iTerm2](https://dev.to/minho42/activate-python-virtual-environment-automatically-on-iterm2-4799)
+- [How to add two numbers in JavaScript without using the &quot;+&quot; operator?](https://dev.to/ticha/how-to-add-two-numbers-in-javascript-without-using-the-operator-3j7m)
+- [DocumentDBでマルチバイト検索を実現する場合の留意事項について](https://dev.to/aws-builders/documentdbdemarutibaitojian-suo-woshi-xian-suruchang-he-noliu-yi-shi-xiang-nituite-pp7)
+- [Exploring Zod and the Benefits of Schema-Based Validation in TypeScript Projects](https://dev.to/a727283/exploring-zod-and-the-benefits-of-schema-based-validation-in-typescript-projects-52l0)
+- [How I implemented Cloudflare Workers on my app](https://dev.to/cn-2k/how-i-implemented-cloudflare-workers-on-my-app-2jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
