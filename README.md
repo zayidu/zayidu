@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Top accessibility errors and how to avoid and fix them](https://dev.to/schalkneethling/10-top-accessibility-errors-and-how-to-avoid-and-fix-them-1ncd)
-- [Boost Productivity &amp; Quality: Essential VS Code Extensions](https://dev.to/saloniagrawal/boost-productivity-quality-essential-vs-code-extensions-18oj)
-- [Comment faire sa première contribution dans le monde de l’Open Source](https://dev.to/tacite243/comment-faire-sa-premiere-contribution-dans-le-monde-de-lopen-source-3ih3)
-- [Embedded Rust Bluetooth on ESP: Secure BLE Server](https://dev.to/apollolabsbin/embedded-rust-bluetooth-on-esp-secure-ble-server-3604)
-- [Will the new judicial ruling in the Vizio lawsuit strengthen the GPL?](https://dev.to/tidelift/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl-37m0)
+- [InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD](https://dev.to/mikeyoung44/internlm-xcomposer2-4khd-a-pioneering-large-vision-language-model-handling-resolutions-from-336-pixels-to-4k-hd-1c5j)
+- [MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies](https://dev.to/mikeyoung44/minicpm-unveiling-the-potential-of-small-language-models-with-scalable-training-strategies-3b7k)
+- [JetMoE: Reaching Llama2 Performance with 0.1M Dollars](https://dev.to/mikeyoung44/jetmoe-reaching-llama2-performance-with-01m-dollars-170d)
+- [ChatGPT Can Predict the Future when it Tells Stories Set in the Future About the Past](https://dev.to/mikeyoung44/chatgpt-can-predict-the-future-when-it-tells-stories-set-in-the-future-about-the-past-32d8)
+- [React.js Tutorials](https://dev.to/rustcodeweb/reactjs-tutorials-1fcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
