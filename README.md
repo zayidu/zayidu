@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Measuring and Enhancing DevSecOps Posture: Key Metrics](https://dev.to/sophie_wilson0412/measuring-and-enhancing-devsecops-posture-key-metrics-160l)
-- [To craftmanship ...](https://dev.to/quirky-goof/to-craftmanship--186o)
-- [Custom Resource Definitions &lpar;CRDs&rpar; with Flux CD](https://dev.to/platform_engineers/custom-resource-definitions-crds-with-flux-cd-2274)
-- [Intro to Flask](https://dev.to/yirs1016/intro-to-flask-4idh)
-- [How to Learn Machine Learning in 2024](https://dev.to/askyt/how-to-learn-machine-learning-in-2024-27ng)
+- [Desenvolvimento Orientado ao MVP &lpar;Mínimo Produto Viável&rpar;](https://dev.to/kecbm/desenvolvimento-orientado-ao-mvp-minimo-produto-viavel-km4)
+- [Understanding SSR and SSG in Modern Web Development](https://dev.to/mario130/understanding-ssr-and-ssg-in-modern-web-development-5492)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-22e0)
+- [The Authenticity Wars - SEO Strategies In The Age Of AI 🤖](https://dev.to/magnificode/the-authenticity-wars-seo-strategies-in-the-age-of-ai-n2l)
+- [Never ever trust a third-party API.](https://dev.to/ahmadswalih/never-ever-trust-a-third-party-api-fec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
