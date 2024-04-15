@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #81: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-81-explica-este-codigo-python-1gmg)
-- [Podcast Palooza— What are you listening to? &lpar;Audiobook Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-audiobook-edition-1pf)
-- [The full developer manual of the productivity application RunFlow](https://dev.to/easepan/the-full-developer-manual-of-the-productivity-application-runflow-1cb2)
-- [Meme Monday](https://dev.to/ben/meme-monday-22jl)
-- [SQL Injection Isn&#39;t Dead Yet](https://dev.to/owasp/sql-injection-isnt-dead-yet-48ic)
+- [Measuring and Enhancing DevSecOps Posture: Key Metrics](https://dev.to/sophie_wilson0412/measuring-and-enhancing-devsecops-posture-key-metrics-160l)
+- [To craftmanship ...](https://dev.to/quirky-goof/to-craftmanship--186o)
+- [Custom Resource Definitions &lpar;CRDs&rpar; with Flux CD](https://dev.to/platform_engineers/custom-resource-definitions-crds-with-flux-cd-2274)
+- [Intro to Flask](https://dev.to/yirs1016/intro-to-flask-4idh)
+- [How to Learn Machine Learning in 2024](https://dev.to/askyt/how-to-learn-machine-learning-in-2024-27ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
