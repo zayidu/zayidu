@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pulumi vs Terraform: An In-Depth Comparison](https://dev.to/env0/pulumi-vs-terraform-an-in-depth-comparison-52kh)
-- [FastAPI Part 3: Pydantic Data Models](https://dev.to/jamesbmour/part-3-pydantic-data-models-4gnb)
-- [What is RDBMS?](https://dev.to/annoh_karlgusta/what-is-rdbms-3c2h)
-- [Making a &lpar;Sidekiq&rpar; Batch Recipe](https://dev.to/kevin_j_m/making-a-sidekiq-batch-recipe-n29)
-- [Exploring the Top AI Blogs of 2024: Illuminating Insights into Artificial Intelligence](https://dev.to/jahan/exploring-the-top-ai-blogs-of-2024-illuminating-insights-into-artificial-intelligence-1bl8)
+- [Ibuprofeno.py💊| #81: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-81-explica-este-codigo-python-1gmg)
+- [Podcast Palooza— What are you listening to? &lpar;Audiobook Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-audiobook-edition-1pf)
+- [The full developer manual of the productivity application RunFlow](https://dev.to/easepan/the-full-developer-manual-of-the-productivity-application-runflow-1cb2)
+- [Meme Monday](https://dev.to/ben/meme-monday-22jl)
+- [SQL Injection Isn&#39;t Dead Yet](https://dev.to/owasp/sql-injection-isnt-dead-yet-48ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
