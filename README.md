@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding SQL Subqueries: A Brief Overview](https://dev.to/dbvismarketing/understanding-sql-subqueries-a-brief-overview-290j)
-- [How Do You Define &quot;Meaningful Work?&quot;](https://dev.to/devteam/how-do-you-define-meaningful-work-36ha)
-- [Secure the software supply chain with AWS Signer for signing and validating OCI artifacts](https://dev.to/aws-builders/secure-the-software-supply-chain-with-aws-signer-for-signing-and-validating-oci-artifacts-58l9)
-- [Leveraging Dependency Injection for Clean and SOLID Code in Node.js](https://dev.to/arvindkhadri/leveraging-dependency-injection-for-clean-and-solid-code-in-nodejs-40d4)
-- [DEPLOYING A LINUX VIRTUAL MACHINE IN AZURE](https://dev.to/temiloluwa_adediji/deploying-a-linux-virtual-machine-in-azure-1gl9)
+- [A comprehensive guide to Promises, Async, and Await in JavaScript](https://dev.to/vaatiesther/a-comprehensive-guide-to-promises-async-and-await-in-javascript-jom)
+- [Optimizing Vue.js Performance with v-if and v-show Directives](https://dev.to/amatisse/optimizing-vuejs-performance-with-v-if-and-v-show-directives-3f3p)
+- [Introducing Rails Icons: One Gem to Rule Them All](https://dev.to/railsdesigner/introducing-rails-icons-one-gem-to-rule-them-all-5051)
+- [Kakizu: Turn your sketches into beautiful AI generated art using Cloudflare!](https://dev.to/asheeshh/kakizu-turn-your-sketches-into-beautiful-ai-generated-art-using-cloudflare-46b3)
+- [How to Replace a Null with the Corresponding Value in the Previous Record](https://dev.to/esproc_spl/how-to-replace-a-null-with-the-corresponding-value-in-the-previous-record-41hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
