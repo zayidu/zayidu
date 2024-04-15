@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD](https://dev.to/mikeyoung44/internlm-xcomposer2-4khd-a-pioneering-large-vision-language-model-handling-resolutions-from-336-pixels-to-4k-hd-1c5j)
-- [MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies](https://dev.to/mikeyoung44/minicpm-unveiling-the-potential-of-small-language-models-with-scalable-training-strategies-3b7k)
-- [JetMoE: Reaching Llama2 Performance with 0.1M Dollars](https://dev.to/mikeyoung44/jetmoe-reaching-llama2-performance-with-01m-dollars-170d)
-- [ChatGPT Can Predict the Future when it Tells Stories Set in the Future About the Past](https://dev.to/mikeyoung44/chatgpt-can-predict-the-future-when-it-tells-stories-set-in-the-future-about-the-past-32d8)
-- [React.js Tutorials](https://dev.to/rustcodeweb/reactjs-tutorials-1fcb)
+- [Free online planning poker](https://dev.to/mattlewandowski93/free-online-planning-poker-bfe)
+- [Finding the right learning approach](https://dev.to/valeriahhdez/finding-the-right-learning-approach-5a6n)
+- [Improving Dynamic Component Loader Typings in Angular Using Inputs](https://dev.to/bwca/improving-dynamic-component-loader-typings-in-angular-using-inputs-obl)
+- [Actionable Tips for Building Accessible Websites &lpar;and Why it Matters&rpar;](https://dev.to/hjgonzalez06/actionable-tips-for-building-accessible-websites-and-why-it-matters-1jbd)
+- [Three.js Tutorials](https://dev.to/rustcodeweb/threejs-tutorials-na2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
