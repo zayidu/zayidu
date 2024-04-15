@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Activate Python virtual environment automatically on iTerm2](https://dev.to/minho42/activate-python-virtual-environment-automatically-on-iterm2-4799)
-- [How to add two numbers in JavaScript without using the &quot;+&quot; operator?](https://dev.to/ticha/how-to-add-two-numbers-in-javascript-without-using-the-operator-3j7m)
-- [DocumentDBでマルチバイト検索を実現する場合の留意事項について](https://dev.to/aws-builders/documentdbdemarutibaitojian-suo-woshi-xian-suruchang-he-noliu-yi-shi-xiang-nituite-pp7)
-- [Exploring Zod and the Benefits of Schema-Based Validation in TypeScript Projects](https://dev.to/a727283/exploring-zod-and-the-benefits-of-schema-based-validation-in-typescript-projects-52l0)
-- [How I implemented Cloudflare Workers on my app](https://dev.to/cn-2k/how-i-implemented-cloudflare-workers-on-my-app-2jp)
+- [Implementing Microfrontends](https://dev.to/kartikmehta8/implementing-microfrontends-4age)
+- [Zip command for Terminal 🤐](https://dev.to/sh20raj/zip-command-for-terminal-5e2l)
+- [Fix code . command not working | Visual Studio Code](https://dev.to/sh20raj/fix-code-command-not-working-visual-studio-code-6f4)
+- [Route Parameters in Express JS](https://dev.to/prabeshstha/route-parameters-in-express-js-4hah)
+- [３章１４](https://dev.to/aaattt/3zhang-14-2j0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
