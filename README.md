@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scalable Notification System Design for 50 Million Users &lpar;Database Design&rpar;](https://dev.to/ndohjapan/scalable-notification-system-design-for-50-million-users-database-design-4cl)
-- [How to create Unit tests for code design?](https://dev.to/mrkandreev/how-to-create-unit-tests-for-code-design-5g9i)
-- [Gitlens Tutorial - Visual Studio Extension 2024](https://dev.to/bytehide/gitlens-tutorial-visual-studio-extension-2024-105d)
-- [Dotfiles: Managing with GNU Stow and Git](https://dev.to/luxcih/dotfiles-managing-with-gnu-stow-and-git-5100)
-- [NFT 101: The Comprehensive Guide to Runestone &amp; Runes Protocol](https://dev.to/nft_research/nft-101-the-comprehensive-guide-to-runestone-runes-protocol-29fi)
+- [Navigating the Accounting Software Landscape: A Comprehensive Guide](https://dev.to/jasskarley/navigating-the-accounting-software-landscape-a-comprehensive-guide-3hpp)
+- [What LLMs Can and Cannot Do in Small Game Creation](https://dev.to/abagames/what-llms-can-and-cannot-do-in-small-game-creation-4bnj)
+- [Steps To Build An E-Commerce Jewelry Store](https://dev.to/julianevan/steps-to-build-an-e-commerce-jewelry-store-2k8h)
+- [11 Essential KPIs for Software Development](https://dev.to/remotebase/11-essential-kpis-for-software-development-kph)
+- [Choosing the Right API Gateway: Pricing Models for Amazon API Gateway, Apigee, Kong, and Apache APISIX](https://dev.to/api7/choosing-the-right-api-gateway-pricing-models-for-amazon-api-gateway-apigee-kong-and-apache-apisix-5bd9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
