@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential C# Developer’s Guide to Troubleshooting Frequent Compile-Time Errors](https://dev.to/ssukhpinder/essential-c-developers-guide-to-troubleshooting-frequent-compile-time-errors-303)
-- [Type of Lists in HTML](https://dev.to/khattakdevelopment/type-of-lists-in-html-19hg)
-- [BUN](https://dev.to/khamal22/bun-4cb8)
-- [Week 0: New NOTR Server -Migrating Data from MongoDB to PostgreSQL](https://dev.to/aldoportillo/week-0-new-notr-server-migrating-data-from-mongodb-to-postgresql-5ea2)
-- [TeamPass a Self-hosted Password manager to increase organization’s CyberSecurity](https://dev.to/valterseu/teampass-a-self-hosted-password-manager-to-increase-organizations-cybersecurity-1i6o)
+- [Java 22: A Glimpse into the Future of Java Development](https://dev.to/dbillion/java-22-a-glimpse-into-the-future-of-java-development-57aa)
+- [4 Habits to Avoid Bugs related to Hoisting in your JavaScript Code](https://dev.to/shubhsharma19/4-habits-to-avoid-bugs-related-to-hoisting-in-your-javascript-code-4i3i)
+- [Elevate Your Interview Preparation with the AI Interviewer App](https://dev.to/prajjwalsule21/elevate-your-interview-preparation-with-the-ai-interviewer-app-2n84)
+- [190 Python Projects with Source Code](https://dev.to/afzalimdad9/190-python-projects-with-source-code-2jfc)
+- [I made a better adb shell](https://dev.to/matan-h/better-adb-shell-4b79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
