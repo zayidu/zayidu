@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Microfrontends](https://dev.to/kartikmehta8/implementing-microfrontends-4age)
-- [Zip command for Terminal 🤐](https://dev.to/sh20raj/zip-command-for-terminal-5e2l)
-- [Fix code . command not working | Visual Studio Code](https://dev.to/sh20raj/fix-code-command-not-working-visual-studio-code-6f4)
-- [Route Parameters in Express JS](https://dev.to/prabeshstha/route-parameters-in-express-js-4hah)
-- [３章１４](https://dev.to/aaattt/3zhang-14-2j0l)
+- [Resize and Optimise Images Using Free API - ImageCDN](https://dev.to/sh20raj/resize-and-optimise-images-using-free-api-imagecdn-ih0)
+- [Intro to the Terminal](https://dev.to/cody-daigle/intro-to-the-terminal-17em)
+- [Install Cloudflare WARP on any Linux Distro, Thanks to Distrobox!](https://dev.to/archerallstars/install-cloudflare-warp-on-any-linux-distro-thanks-to-distrobox-4dp9)
+- [How to Connect BH1750 with Arduino: Measure Ambient Light](https://dev.to/shilleh/how-to-connect-bh1750-with-arduino-measure-ambient-light-3502)
+- [Deploying a Full Stack AWS Architecture Using Terraform: Ensuring High Availability in AWS](https://dev.to/aws-builders/deploying-a-full-stack-aws-architecture-using-terraform-ensuring-high-availability-in-aws-5h31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
