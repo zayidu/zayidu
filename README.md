@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday — What are you listening to? &lpar;Album Artwork Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-album-artwork-edition-2pna)
-- [Is the AWS Certified Cloud Practitioner Certification Worth It?](https://dev.to/damienjburks/is-the-aws-certified-cloud-practitioner-certification-worth-it-67d)
-- [Mastering Professional Growth with Knowledge Consumption Velocity &lpar;KCV&rpar;](https://dev.to/dev3l/mastering-professional-growth-with-knowledge-consumption-velocity-kcv-1352)
-- [Getting started with Packer in 2024](https://dev.to/miry/getting-started-with-packer-in-2024-56d5)
-- [What happens when you type a URL into your browser?](https://dev.to/dhanushnehru/what-happens-when-you-type-a-url-into-your-browser-4phh)
+- [FLaNK AI - 15 April 2024](https://dev.to/tspannhw/flank-ai-15-april-2024-54hi)
+- [Git commands you need to know!](https://dev.to/codeparrot/git-commands-you-need-to-know-3o22)
+- [How to build a DevTools Extensions - Flutter News 2024 #15 ʚїɞ](https://dev.to/lucianojung/flutter-news-2024-15-eyie-bfb)
+- [EKS cluster troubleshooting...](https://dev.to/vinothkumargreatify/eks-cluster-troubleshooting-1k40)
+- [Day 15/366](https://dev.to/vishalmx3/day-15366-399a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
