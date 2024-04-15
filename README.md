@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an Interactive Time-Tracking Report with React and TypeScript](https://dev.to/rodionchachura/creating-an-interactive-time-tracking-report-with-react-and-typescript-2ke1)
-- [TherapistAI: AI-powered mental health support](https://dev.to/erickluis/therapistai-ai-powered-mental-health-support-lg2)
-- [Managing File System Permissions from the Command Line](https://dev.to/zahroo/managing-file-system-permissions-from-the-command-line-g52)
-- [Gaining Superuser Access](https://dev.to/zahroo/gaining-superuser-access-12lk)
-- [gt&lpar;&rpar;, lt&lpar;&rpar;, ge&lpar;&rpar; and le&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/gt-lt-ge-and-le-in-pytorch-idd)
+- [Power Automate, The Direct Methodology Part 2](https://dev.to/wyattdave/power-automate-the-direct-methodology-part-2-2d3k)
+- [Modern Advanced Authentication for Kubernetes API Gateway](https://dev.to/getambassador2024/modern-advanced-authentication-for-kubernetes-api-gateway-m4j)
+- [2024 Site Reliability Engineering: Key Trends and Focus Areas for SREs](https://dev.to/getambassador2024/2024-site-reliability-engineering-key-trends-and-focus-areas-for-sres-1fa)
+- [AI Interview Simulator](https://dev.to/nicobytes/ai-interview-simulator-48e1)
+- [[Terraform] Automating Local Development Infrastructure with Terraform: Deploying Traefik and Nginx Containers on Docker](https://dev.to/axeldlv/terraform-automating-local-development-infrastructure-with-terraform-deploying-traefik-and-nginx-containers-on-docker-3n8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
