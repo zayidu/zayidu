@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Desenvolvimento Orientado ao MVP &lpar;Mínimo Produto Viável&rpar;](https://dev.to/kecbm/desenvolvimento-orientado-ao-mvp-minimo-produto-viavel-km4)
-- [Understanding SSR and SSG in Modern Web Development](https://dev.to/mario130/understanding-ssr-and-ssg-in-modern-web-development-5492)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-22e0)
-- [The Authenticity Wars - SEO Strategies In The Age Of AI 🤖](https://dev.to/magnificode/the-authenticity-wars-seo-strategies-in-the-age-of-ai-n2l)
-- [Never ever trust a third-party API.](https://dev.to/ahmadswalih/never-ever-trust-a-third-party-api-fec)
+- [How can I improve my posts?](https://dev.to/spandan/how-can-i-improve-my-posts-55h5)
+- [A common TypeScript error with useRef](https://dev.to/arichy/a-common-typescript-error-with-useref-27fj)
+- [BẮT BUỘC ĐỌC KHI DÙNG APP](https://dev.to/luongchung/bat-buoc-doc-khi-dung-app-17d4)
+- [Context API in React Explained](https://dev.to/joanayebola/context-api-in-react-explained-4edd)
+- [Using Nuxt Content: Working with Remote Markdown Files](https://dev.to/oneminch/using-nuxt-content-working-with-remote-markdown-files-2e4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
