@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Accounting Software Landscape: A Comprehensive Guide](https://dev.to/jasskarley/navigating-the-accounting-software-landscape-a-comprehensive-guide-3hpp)
-- [What LLMs Can and Cannot Do in Small Game Creation](https://dev.to/abagames/what-llms-can-and-cannot-do-in-small-game-creation-4bnj)
-- [Steps To Build An E-Commerce Jewelry Store](https://dev.to/julianevan/steps-to-build-an-e-commerce-jewelry-store-2k8h)
-- [11 Essential KPIs for Software Development](https://dev.to/remotebase/11-essential-kpis-for-software-development-kph)
-- [Choosing the Right API Gateway: Pricing Models for Amazon API Gateway, Apigee, Kong, and Apache APISIX](https://dev.to/api7/choosing-the-right-api-gateway-pricing-models-for-amazon-api-gateway-apigee-kong-and-apache-apisix-5bd9)
+- [APIs that can help to build eCommerce Application Much Faster](https://dev.to/iamspathan/apis-that-can-help-to-build-ecommerce-application-much-faster-50mk)
+- [Bridging the Gap: Sharing Data Between React Native and WebView](https://dev.to/youcefbedrani_64/bridging-the-gap-sharing-data-between-react-native-and-webview-4mdm)
+- [SELECT - INSERT INTO SELECT](https://dev.to/pooyaalamdari/select-insert-into-select-30a1)
+- [Unveiling the Monitoring Landscape: OpenTelemetry Logging, APM vs. Observability, and Telemetry for Enhanced Visibility](https://dev.to/stackify/unveiling-the-monitoring-landscape-opentelemetry-logging-apm-vs-observability-and-telemetry-for-enhanced-visibility-33e1)
+- [LeetCode Meditations — Chapter 7: Trees](https://dev.to/rivea0/leetcode-meditations-chapter-7-trees-4bpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
