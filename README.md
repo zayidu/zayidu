@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How can I improve my posts?](https://dev.to/spandan/how-can-i-improve-my-posts-55h5)
-- [A common TypeScript error with useRef](https://dev.to/arichy/a-common-typescript-error-with-useref-27fj)
-- [BẮT BUỘC ĐỌC KHI DÙNG APP](https://dev.to/luongchung/bat-buoc-doc-khi-dung-app-17d4)
-- [Context API in React Explained](https://dev.to/joanayebola/context-api-in-react-explained-4edd)
-- [Using Nuxt Content: Working with Remote Markdown Files](https://dev.to/oneminch/using-nuxt-content-working-with-remote-markdown-files-2e4k)
+- [Music Monday — What are you listening to? &lpar;Album Artwork Edition&rpar;](https://dev.to/devteam/music-monday-what-are-you-listening-to-album-artwork-edition-2pna)
+- [Is the AWS Certified Cloud Practitioner Certification Worth It?](https://dev.to/damienjburks/is-the-aws-certified-cloud-practitioner-certification-worth-it-67d)
+- [Mastering Professional Growth with Knowledge Consumption Velocity &lpar;KCV&rpar;](https://dev.to/dev3l/mastering-professional-growth-with-knowledge-consumption-velocity-kcv-1352)
+- [Getting started with Packer in 2024](https://dev.to/miry/getting-started-with-packer-in-2024-56d5)
+- [What happens when you type a URL into your browser?](https://dev.to/dhanushnehru/what-happens-when-you-type-a-url-into-your-browser-4phh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
