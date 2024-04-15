@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A comprehensive guide to Promises, Async, and Await in JavaScript](https://dev.to/vaatiesther/a-comprehensive-guide-to-promises-async-and-await-in-javascript-jom)
-- [Optimizing Vue.js Performance with v-if and v-show Directives](https://dev.to/amatisse/optimizing-vuejs-performance-with-v-if-and-v-show-directives-3f3p)
-- [Introducing Rails Icons: One Gem to Rule Them All](https://dev.to/railsdesigner/introducing-rails-icons-one-gem-to-rule-them-all-5051)
-- [Kakizu: Turn your sketches into beautiful AI generated art using Cloudflare!](https://dev.to/asheeshh/kakizu-turn-your-sketches-into-beautiful-ai-generated-art-using-cloudflare-46b3)
-- [How to Replace a Null with the Corresponding Value in the Previous Record](https://dev.to/esproc_spl/how-to-replace-a-null-with-the-corresponding-value-in-the-previous-record-41hc)
+- [Scalable Notification System Design for 50 Million Users &lpar;Database Design&rpar;](https://dev.to/ndohjapan/scalable-notification-system-design-for-50-million-users-database-design-4cl)
+- [How to create Unit tests for code design?](https://dev.to/mrkandreev/how-to-create-unit-tests-for-code-design-5g9i)
+- [Gitlens Tutorial - Visual Studio Extension 2024](https://dev.to/bytehide/gitlens-tutorial-visual-studio-extension-2024-105d)
+- [Dotfiles: Managing with GNU Stow and Git](https://dev.to/luxcih/dotfiles-managing-with-gnu-stow-and-git-5100)
+- [NFT 101: The Comprehensive Guide to Runestone &amp; Runes Protocol](https://dev.to/nft_research/nft-101-the-comprehensive-guide-to-runestone-runes-protocol-29fi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
