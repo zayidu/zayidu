@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Resize and Optimise Images Using Free API - ImageCDN](https://dev.to/sh20raj/resize-and-optimise-images-using-free-api-imagecdn-ih0)
-- [Intro to the Terminal](https://dev.to/cody-daigle/intro-to-the-terminal-17em)
-- [Install Cloudflare WARP on any Linux Distro, Thanks to Distrobox!](https://dev.to/archerallstars/install-cloudflare-warp-on-any-linux-distro-thanks-to-distrobox-4dp9)
-- [How to Connect BH1750 with Arduino: Measure Ambient Light](https://dev.to/shilleh/how-to-connect-bh1750-with-arduino-measure-ambient-light-3502)
-- [Deploying a Full Stack AWS Architecture Using Terraform: Ensuring High Availability in AWS](https://dev.to/aws-builders/deploying-a-full-stack-aws-architecture-using-terraform-ensuring-high-availability-in-aws-5h31)
+- [Creating an Interactive Time-Tracking Report with React and TypeScript](https://dev.to/rodionchachura/creating-an-interactive-time-tracking-report-with-react-and-typescript-2ke1)
+- [TherapistAI: AI-powered mental health support](https://dev.to/erickluis/therapistai-ai-powered-mental-health-support-lg2)
+- [Managing File System Permissions from the Command Line](https://dev.to/zahroo/managing-file-system-permissions-from-the-command-line-g52)
+- [Gaining Superuser Access](https://dev.to/zahroo/gaining-superuser-access-12lk)
+- [gt&lpar;&rpar;, lt&lpar;&rpar;, ge&lpar;&rpar; and le&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/gt-lt-ge-and-le-in-pytorch-idd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
