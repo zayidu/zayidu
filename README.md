@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Automate, The Direct Methodology Part 2](https://dev.to/wyattdave/power-automate-the-direct-methodology-part-2-2d3k)
-- [Modern Advanced Authentication for Kubernetes API Gateway](https://dev.to/getambassador2024/modern-advanced-authentication-for-kubernetes-api-gateway-m4j)
-- [2024 Site Reliability Engineering: Key Trends and Focus Areas for SREs](https://dev.to/getambassador2024/2024-site-reliability-engineering-key-trends-and-focus-areas-for-sres-1fa)
-- [AI Interview Simulator](https://dev.to/nicobytes/ai-interview-simulator-48e1)
-- [[Terraform] Automating Local Development Infrastructure with Terraform: Deploying Traefik and Nginx Containers on Docker](https://dev.to/axeldlv/terraform-automating-local-development-infrastructure-with-terraform-deploying-traefik-and-nginx-containers-on-docker-3n8g)
+- [Understanding SQL Subqueries: A Brief Overview](https://dev.to/dbvismarketing/understanding-sql-subqueries-a-brief-overview-290j)
+- [How Do You Define &quot;Meaningful Work?&quot;](https://dev.to/devteam/how-do-you-define-meaningful-work-36ha)
+- [Secure the software supply chain with AWS Signer for signing and validating OCI artifacts](https://dev.to/aws-builders/secure-the-software-supply-chain-with-aws-signer-for-signing-and-validating-oci-artifacts-58l9)
+- [Leveraging Dependency Injection for Clean and SOLID Code in Node.js](https://dev.to/arvindkhadri/leveraging-dependency-injection-for-clean-and-solid-code-in-nodejs-40d4)
+- [DEPLOYING A LINUX VIRTUAL MACHINE IN AZURE](https://dev.to/temiloluwa_adediji/deploying-a-linux-virtual-machine-in-azure-1gl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
