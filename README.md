@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-end specialisations: Accessibility](https://dev.to/r4nd3l/front-end-specialisations-accessibility-ff9)
-- [Optimizing Classroom Time: Using Lyzr-Automata to Generate Effective Timetables](https://dev.to/iamrash/optimizing-classroom-time-using-lyzr-automata-to-generate-effective-timetables-17p7)
-- [CSS_Code_Generator](https://dev.to/chhavi/csscodegenerator-3lpl)
-- [How to Test Logging with FakeLogger](https://dev.to/canro91/how-to-test-logging-with-fakelogger-4dgc)
-- [Hello, dev.to!](https://dev.to/jackmacwindows/hello-devto-42fk)
+- [A guide to feature flags in Laravel using Laravel Pennant](https://dev.to/honeybadger/a-guide-to-feature-flags-in-laravel-using-laravel-pennant-37k6)
+- [Crack the Code: Can Anybody Learn?](https://dev.to/devteam/crack-the-code-can-anybody-learn-4lmf)
+- [Top 13 Angular Ionic Templates of 2023: Free &amp; Premium Picks](https://dev.to/codemarket/top-13-angular-ionic-templates-of-2023-free-premium-picks-5a23)
+- [Do you meditate at work?](https://dev.to/exerciseinsights/do-you-meditate-at-work-455i)
+- [Strategy Design Patterns in C#](https://dev.to/askarmus/strategy-design-patterns-in-c-11h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
