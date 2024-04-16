@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Tip #2: valueof](https://dev.to/tusharshahi/typescript-tip-2-valueof-a3e)
-- [Unveiling the Simplicity of Cluster Mesh for Kubernetes Deployments](https://dev.to/camptocamp-ops/unveiling-the-simplicity-of-cluster-mesh-for-kubernetes-deployments-1bfc)
-- [Robo.js v0.10 is here - more than just Discord.js bots](https://dev.to/waveplay/robojs-v010-is-here-326a)
-- [ObservableRangeCollection in .NET MAUI](https://dev.to/vhugogarcia/observablerangecollection-in-net-maui-k9j)
-- [When traits conflict](https://dev.to/sharesquare/when-traits-conflict-4p9k)
+- [GoLang JWT Authentication Using Golang Gin Framework with MongoDB](https://dev.to/codegirl0101/golang-jwt-authentication-using-golang-gin-framework-with-mongodb-111m)
+- [How to Use Flume in your Elixir Application](https://dev.to/appsignal/how-to-use-flume-in-your-elixir-application-49d3)
+- [Episode 24/14: Angular Query, New Template Syntax](https://dev.to/this-is-angular/episode-2414-angular-query-new-template-syntax-a7a)
+- [I DEPLOYED MY APP... 👏DO YOURS TOO](https://dev.to/mince/i-deployed-my-app-do-yours-too-12bh)
+- [I DEPLOYED MY APP... 👏DO YOURS TOO](https://dev.to/mince/i-deployed-my-app-do-yours-too-hcm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
