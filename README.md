@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Image based Function Calling with gemini-1.0-pro-vision](https://dev.to/vishalmysore/image-based-function-calling-with-gemini-10-pro-vision-3hld)
-- [More info on ambiguous 500 errors](https://dev.to/kowston/more-info-on-ambiguous-500-errors-4ej9)
-- [AI Agent to generate shell commands](https://dev.to/huangyz0918/ai-agent-to-generate-shell-commands-108b)
-- [Building CommandGit: A Developer&#39;s Tale of Passion and Innovation](https://dev.to/danhof/building-commandgit-a-developers-tale-of-passion-and-innovation-43p3)
-- [Let&#39;s See Your Terminal](https://dev.to/tiffany/lets-see-your-terminal-mgo)
+- [Chat with your Github Repo using llama_index and chainlit](https://dev.to/karanjanthe/chat-with-your-github-repo-using-llamaindex-and-chainlit-452f)
+- [Day 945 : D.E.E.P.](https://dev.to/dwane/day-945-deep-ald)
+- [H2O-Danube-1.8B Technical Report](https://dev.to/mikeyoung44/h2o-danube-18b-technical-report-5cpd)
+- [Dataset Reset Policy Optimization for RLHF](https://dev.to/mikeyoung44/dataset-reset-policy-optimization-for-rlhf-2e51)
+- [Manipulating Large Language Models to Increase Product Visibility](https://dev.to/mikeyoung44/manipulating-large-language-models-to-increase-product-visibility-3df1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
