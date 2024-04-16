@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sinful Animations: Adding Motion to React Apps](https://dev.to/kigazon/sinful-animations-adding-motion-to-react-apps-3bck)
-- [Tailwind CSS product overview components built for E-commerce websites](https://dev.to/themesberg/tailwind-css-product-overview-components-built-for-e-commerce-websites-4m73)
-- [What&#39;s New in API7 Enterprise 3.2.9: Upgraded Health Check Configuration](https://dev.to/api7/whats-new-in-api7-enterprise-329-upgraded-health-check-configuration-2aad)
-- [tRPA - Remote Property Access](https://dev.to/tr1ckydev/trpa-remote-property-access-817)
-- [Laravel Route Model Binding : Simplifying Controller Logic](https://dev.to/remonhasan/laravel-route-model-binding-simplifying-controller-logic-b1j)
+- [AI enthusiasm #6 - Finetune any LLM you want💡](https://dev.to/astrabert/ai-enthusiasm-6-finetune-any-llm-you-want-3ocg)
+- [Guide To Building a Powerful Telegram Chat Bot With N8n](https://dev.to/rayyan_shaikh/guide-to-building-a-powerful-telegram-chat-bot-with-n8n-4bjh)
+- [Simplify API Mocking and Testing with Mock-API: Your New Development Companion!](https://dev.to/samirfcis/simplify-api-mocking-and-testing-with-mock-api-your-new-development-companion-337)
+- [🤯 Keep Up With these 50 Articles](https://dev.to/florianrappl/keep-up-with-these-50-articles-18ah)
+- [How to use Webpack in a Laravel Project](https://dev.to/jurjin/how-to-use-webpack-in-a-laravel-project-2aea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
