@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PYTHON FUNCTIONS](https://dev.to/maame-codes/python-functions-l11)
-- [Resilience and Failure Management in DevOps](https://dev.to/allanpablo/resilience-and-failure-management-in-devops-4l7i)
-- [Introduction to Data Structures in Python](https://dev.to/kartikmehta8/introduction-to-data-structures-in-python-3271)
-- [10 Common Pitfalls to Avoid When Purchasing Online Courses](https://dev.to/digitalpollution/10-common-pitfalls-to-avoid-when-purchasing-online-courses-36b7)
-- [NEED A HACKER TO RECOVER INVESTMENT FROM BINARY TRADING? CONTACT GEARHEADENGINEERS . COM](https://dev.to/deason2/need-a-hacker-to-recover-investment-from-binary-trading-contact-gearheadengineers-com-mch)
+- [Creating a Planning Poker Demo app 🃏🕹️](https://dev.to/mattlewandowski93/creating-a-planning-poker-demo-app-394h)
+- [Deciphering the Digital Fortress: Next-Gen Data Security in 2024](https://dev.to/eg7160284/deciphering-the-digital-fortress-next-gen-data-security-in-2024-10nn)
+- [Dev Unity ☕](https://dev.to/fedetomassini/dev-unity-36a4)
+- [How to resolve requireNativeComponent: &quot;RNSScreenStackHeaderConfig&quot; was not found in the UIManager in React Native](https://dev.to/ambasseugene/how-to-resolve-requirenativecomponent-rnsscreenstackheaderconfig-was-not-found-in-the-uimanager-in-react-native-17dh)
+- [Mastering SEO with React: Strategies and Code Insights](https://dev.to/function12_io/mastering-seo-with-react-strategies-and-code-insights-2e4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
