@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A guide to feature flags in Laravel using Laravel Pennant](https://dev.to/honeybadger/a-guide-to-feature-flags-in-laravel-using-laravel-pennant-37k6)
-- [Crack the Code: Can Anybody Learn?](https://dev.to/devteam/crack-the-code-can-anybody-learn-4lmf)
-- [Top 13 Angular Ionic Templates of 2023: Free &amp; Premium Picks](https://dev.to/codemarket/top-13-angular-ionic-templates-of-2023-free-premium-picks-5a23)
-- [Do you meditate at work?](https://dev.to/exerciseinsights/do-you-meditate-at-work-455i)
-- [Strategy Design Patterns in C#](https://dev.to/askarmus/strategy-design-patterns-in-c-11h5)
+- [Creating your own UI extension points in Umbraco v14 - Part 5: Kinds](https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-5-kinds-1il5)
+- [Building an Interactive Island Popup with HTML, CSS, and JavaScript || FREE Source Code](https://dev.to/withaarzoo/building-an-interactive-island-popup-with-html-css-and-javascript-free-source-code-39lj)
+- [６章８](https://dev.to/aaattt/6zhang-8-57jj)
+- [شیوه‌ی طبخ غذاهای ایرانی](https://dev.to/saeedhasani_55/shywhy-tbkh-gdhhy-yrny-2703)
+- [I have recently completed 100+ followers on Github.](https://dev.to/soumilgit/i-have-recently-completed-100-followers-on-github-1dda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
