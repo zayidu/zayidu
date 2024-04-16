@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Front-end specialisations: Accessibility](https://dev.to/r4nd3l/front-end-specialisations-accessibility-ff9)
+- [Optimizing Classroom Time: Using Lyzr-Automata to Generate Effective Timetables](https://dev.to/iamrash/optimizing-classroom-time-using-lyzr-automata-to-generate-effective-timetables-17p7)
+- [CSS_Code_Generator](https://dev.to/chhavi/csscodegenerator-3lpl)
 - [How to Test Logging with FakeLogger](https://dev.to/canro91/how-to-test-logging-with-fakelogger-4dgc)
-- [Concurrent Dictionary: Your Go-To Guide](https://dev.to/yogini16/concurrent-dictionary-your-go-to-guide-20n3)
-- [Unveiling Pine Script: The Language of TradingView](https://dev.to/epakconsultant/unveiling-pine-script-the-language-of-tradingview-4adh)
-- [YAML vs. JSON: Decoding the Differences in Data Structure](https://dev.to/epakconsultant/yaml-vs-json-decoding-the-differences-in-data-structure-3ej8)
-- [Phrase CLI Debug locale_mapping Error](https://dev.to/ahandsel/phrase-cli-debug-localemapping-error-4ipd)
+- [Hello, dev.to!](https://dev.to/jackmacwindows/hello-devto-42fk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
