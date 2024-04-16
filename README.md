@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Networking Outside the Box: My Job Search Journey sans LinkedIn](https://dev.to/opensourceyllen/networking-outside-the-box-my-job-search-journey-sans-linkedin-2agm)
+- [Panel Discussion: The Future of Testing- Impact of AI in Quality Assurance and Beyond [Spartans Summit 2024]](https://dev.to/lambdatest/panel-discussion-the-future-of-testing-impact-of-ai-in-quality-assurance-and-beyond-spartans-summit-2024-21im)
+- [Day 16/366](https://dev.to/vishalmx3/day-16366-5h2h)
 - [How do ad blockers work in the browser?](https://dev.to/richardshaju/how-do-ad-blockers-work-in-the-browser-4ncn)
 - [/token route for oidc provider](https://dev.to/vimal_adithan/token-route-for-oidc-provider-4g5c)
-- [Colima k8s nix setup](https://dev.to/doriancodes/colima-k8s-nix-setup-mpn)
-- [Day 1 of 30 of JavaScript](https://dev.to/akshat0610/day-1-of-30-of-javascript-5hn1)
-- [Day 1 of 30 of JavaScript](https://dev.to/akshat0610/day-1-of-30-of-javascript-27i5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
