@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Check if the Sentence Is Pangram | LeetCode | Java](https://dev.to/tanujav/check-if-the-sentence-is-pangram-leetcode-java-abp)
-- [Inside the Box: March Community Update](https://dev.to/codesandboxio/inside-the-box-march-community-update-3o46)
-- [#2 Variáveis - Entendendo o JavaScript](https://dev.to/joaopedrov0/2-variaveis-entendendo-o-javascript-3oc1)
-- [📌Data Structure &lpar;pt 1&rpar;](https://dev.to/developedbyjk/data-structure-pt-1-3lgb)
-- [Beginner&#39;s Guide to Math&#39;s for Machine Learning](https://dev.to/ngneha09/beginners-guide-to-maths-for-machine-learning-18de)
+- [How do ad blockers work in the browser?](https://dev.to/richardshaju/how-do-ad-blockers-work-in-the-browser-4ncn)
+- [/token route for oidc provider](https://dev.to/vimal_adithan/token-route-for-oidc-provider-4g5c)
+- [Colima k8s nix setup](https://dev.to/doriancodes/colima-k8s-nix-setup-mpn)
+- [Day 1 of 30 of JavaScript](https://dev.to/akshat0610/day-1-of-30-of-javascript-5hn1)
+- [Day 1 of 30 of JavaScript](https://dev.to/akshat0610/day-1-of-30-of-javascript-27i5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
