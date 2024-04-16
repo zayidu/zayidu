@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implement React v18 from Scratch Using WASM and Rust - [4] Implementation of Begin Work Phase of Render Process](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-4-implementation-of-begin-work-phase-of-render-process-300p)
-- [Promices and Async Await](https://dev.to/rohiitbagal/promices-and-async-await-2p0k)
-- [RAG Redefined : Ready-to-Deploy RAG for Organizations at Scale.](https://dev.to/exploredataaiml/rag-redefined-ready-to-deploy-rag-for-organizations-at-scale-3lep)
-- [FactoryBot: the secret weapon called @overrides](https://dev.to/povilasjurcys/factorybot-the-secret-weapon-called-overrides-n31)
-- [Code Smell 247 - Javascript Replace](https://dev.to/mcsee/code-smell-247-javascript-replace-ee1)
+- [How to Test Logging with FakeLogger](https://dev.to/canro91/how-to-test-logging-with-fakelogger-4dgc)
+- [Concurrent Dictionary: Your Go-To Guide](https://dev.to/yogini16/concurrent-dictionary-your-go-to-guide-20n3)
+- [Unveiling Pine Script: The Language of TradingView](https://dev.to/epakconsultant/unveiling-pine-script-the-language-of-tradingview-4adh)
+- [YAML vs. JSON: Decoding the Differences in Data Structure](https://dev.to/epakconsultant/yaml-vs-json-decoding-the-differences-in-data-structure-3ej8)
+- [Phrase CLI Debug locale_mapping Error](https://dev.to/ahandsel/phrase-cli-debug-localemapping-error-4ipd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
