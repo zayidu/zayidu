@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI enthusiasm #6 - Finetune any LLM you want💡](https://dev.to/astrabert/ai-enthusiasm-6-finetune-any-llm-you-want-3ocg)
-- [Guide To Building a Powerful Telegram Chat Bot With N8n](https://dev.to/rayyan_shaikh/guide-to-building-a-powerful-telegram-chat-bot-with-n8n-4bjh)
-- [Simplify API Mocking and Testing with Mock-API: Your New Development Companion!](https://dev.to/samirfcis/simplify-api-mocking-and-testing-with-mock-api-your-new-development-companion-337)
-- [🤯 Keep Up With these 50 Articles](https://dev.to/florianrappl/keep-up-with-these-50-articles-18ah)
-- [How to use Webpack in a Laravel Project](https://dev.to/jurjin/how-to-use-webpack-in-a-laravel-project-2aea)
+- [Get started with Drizzle ORM and Xata&#39;s Postgres service](https://dev.to/xata/get-started-with-drizzle-orm-and-xatas-postgres-service-43mi)
+- [Why mastering programming requires failing](https://dev.to/huntereducative/why-mastering-programming-requires-failing-37oe)
+- [Why mastering programming requires failing](https://dev.to/educative/why-mastering-programming-requires-failing-4c4g)
+- [Overcoming Fintech Challenges – How?](https://dev.to/abhayit2000/overcoming-fintech-challenges-how-1872)
+- [[623. Add One Row to Tree]&lpar;https://leetcode.com/problems/add-one-row-to-tree/&rpar;](https://dev.to/mshashikanth1/623-add-one-row-to-treehttpsleetcodecomproblemsadd-one-row-to-tree-27og)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
