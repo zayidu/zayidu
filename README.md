@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #82: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-82-explica-este-codigo-python-p6g)
-- [🕵️‍♂️ The Art of Self-Learning: How to Teach Yourself Any Programming Concept 🤓](https://dev.to/wasp/the-art-of-self-learning-how-to-teach-yourself-any-programming-concept-5de4)
-- [CS50 PSet Filter&lpar;more&rpar; : filter.c](https://dev.to/vivekvohra/cs50-pset-filtermore-filterc-2ld8)
-- [Code Hot Takes](https://dev.to/nikacodes/code-hot-takes-16kp)
-- [Top 5 Resources to Learn JavaScript Online](https://dev.to/skillreactor/top-5-resources-to-learn-javascript-online-3emf)
+- [TypeScript Tip #2: valueof](https://dev.to/tusharshahi/typescript-tip-2-valueof-a3e)
+- [Unveiling the Simplicity of Cluster Mesh for Kubernetes Deployments](https://dev.to/camptocamp-ops/unveiling-the-simplicity-of-cluster-mesh-for-kubernetes-deployments-1bfc)
+- [Robo.js v0.10 is here - more than just Discord.js bots](https://dev.to/waveplay/robojs-v010-is-here-326a)
+- [ObservableRangeCollection in .NET MAUI](https://dev.to/vhugogarcia/observablerangecollection-in-net-maui-k9j)
+- [When traits conflict](https://dev.to/sharesquare/when-traits-conflict-4p9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
