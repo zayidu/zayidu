@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Get started with Drizzle ORM and Xata&#39;s Postgres service](https://dev.to/xata/get-started-with-drizzle-orm-and-xatas-postgres-service-43mi)
-- [Why mastering programming requires failing](https://dev.to/huntereducative/why-mastering-programming-requires-failing-37oe)
-- [Why mastering programming requires failing](https://dev.to/educative/why-mastering-programming-requires-failing-4c4g)
-- [Overcoming Fintech Challenges – How?](https://dev.to/abhayit2000/overcoming-fintech-challenges-how-1872)
-- [[623. Add One Row to Tree]&lpar;https://leetcode.com/problems/add-one-row-to-tree/&rpar;](https://dev.to/mshashikanth1/623-add-one-row-to-treehttpsleetcodecomproblemsadd-one-row-to-tree-27og)
+- [Ibuprofeno.py💊| #82: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-82-explica-este-codigo-python-p6g)
+- [🕵️‍♂️ The Art of Self-Learning: How to Teach Yourself Any Programming Concept 🤓](https://dev.to/wasp/the-art-of-self-learning-how-to-teach-yourself-any-programming-concept-5de4)
+- [CS50 PSet Filter&lpar;more&rpar; : filter.c](https://dev.to/vivekvohra/cs50-pset-filtermore-filterc-2ld8)
+- [Code Hot Takes](https://dev.to/nikacodes/code-hot-takes-16kp)
+- [Top 5 Resources to Learn JavaScript Online](https://dev.to/skillreactor/top-5-resources-to-learn-javascript-online-3emf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
