@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Networking Outside the Box: My Job Search Journey sans LinkedIn](https://dev.to/opensourceyllen/networking-outside-the-box-my-job-search-journey-sans-linkedin-2agm)
-- [Panel Discussion: The Future of Testing- Impact of AI in Quality Assurance and Beyond [Spartans Summit 2024]](https://dev.to/lambdatest/panel-discussion-the-future-of-testing-impact-of-ai-in-quality-assurance-and-beyond-spartans-summit-2024-21im)
-- [Day 16/366](https://dev.to/vishalmx3/day-16366-5h2h)
-- [How do ad blockers work in the browser?](https://dev.to/richardshaju/how-do-ad-blockers-work-in-the-browser-4ncn)
-- [/token route for oidc provider](https://dev.to/vimal_adithan/token-route-for-oidc-provider-4g5c)
+- [DevinAI Situation ?](https://dev.to/archie_lc/devinai-situation--15ci)
+- [[16/04] Daily Top Startups](https://dev.to/journeypreneur/1604-daily-top-startups-53gk)
+- [623. Add One Row to Tree](https://dev.to/mdarifulhaque/623-add-one-row-to-tree-h2c)
+- [Featured Mod of the Month: Phil Ashby](https://dev.to/devteam/featured-mod-of-the-month-phil-ashby-25oc)
+- [How I use Ansible to automate routine tasks by running an Adhoc script](https://dev.to/aws-builders/how-i-use-ansible-to-automate-routine-tasks-by-running-an-adhoc-script-4174)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
