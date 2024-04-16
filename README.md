@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GoLang JWT Authentication Using Golang Gin Framework with MongoDB](https://dev.to/codegirl0101/golang-jwt-authentication-using-golang-gin-framework-with-mongodb-111m)
-- [How to Use Flume in your Elixir Application](https://dev.to/appsignal/how-to-use-flume-in-your-elixir-application-49d3)
-- [Episode 24/14: Angular Query, New Template Syntax](https://dev.to/this-is-angular/episode-2414-angular-query-new-template-syntax-a7a)
-- [I DEPLOYED MY APP... 👏DO YOURS TOO](https://dev.to/mince/i-deployed-my-app-do-yours-too-12bh)
-- [I DEPLOYED MY APP... 👏DO YOURS TOO](https://dev.to/mince/i-deployed-my-app-do-yours-too-hcm)
+- [C# Regular Expression Benchmarks – How To Avoid My Mistakes!](https://dev.to/devleader/c-regular-expression-benchmarks-how-to-avoid-my-mistakes-2cef)
+- [How we take data-driven decisions with LogSnag](https://dev.to/pontusab/how-we-take-data-driven-decisions-with-logsnag-2nco)
+- [Code Sketching with Kotlin Notebooks: Developer Guide](https://dev.to/daredev/code-sketching-with-kotlin-notebooks-developer-guide-530n)
+- [“State Control in React: Behind the Scenes of Our Quiz App”](https://dev.to/oyegoke/state-control-in-react-behind-the-scenes-of-our-quiz-app-4acd)
+- [LLM Security: Bypassing LLM Safeguards](https://dev.to/rutamstwt/llm-security-bypassing-llm-safeguards-2n39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
