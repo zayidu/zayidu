@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The best SWEs need SCA](https://dev.to/apchapcomputing/the-best-swes-need-sca-87k)
+- [5章7](https://dev.to/aaattt/5zhang-7-1ah4)
+- [５章６](https://dev.to/aaattt/5zhang-6-de7)
+- [Why are foreign keys and primary keys used in databases?](https://dev.to/dgihost/why-are-foreign-keys-and-primary-keys-used-in-databases-30j6)
 - [５章５](https://dev.to/aaattt/5zhang-5-4e)
-- [Exploring LLM RAG Application Vulnerabilities](https://dev.to/rutamstwt/exploring-llm-rag-application-vulnerabilities-n94)
-- [５章4](https://dev.to/aaattt/5zhang-4-35db)
-- [Creating a Planning Poker Demo app 🃏🕹️](https://dev.to/mattlewandowski93/creating-a-planning-poker-demo-app-394h)
-- [Deciphering the Digital Fortress: Next-Gen Data Security in 2024](https://dev.to/eg7160284/deciphering-the-digital-fortress-next-gen-data-security-in-2024-10nn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
