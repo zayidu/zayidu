@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dark Modal: Crafting Reusable React Modals](https://dev.to/kigazon/the-dark-modal-crafting-reusable-react-modals-1h8i)
-- [AI Inference now available in Supabase Edge Functions](https://dev.to/supabase/ai-inference-now-available-in-supabase-edge-functions-3ae1)
-- [Applying graph theory for inferring your BigQuery SQL transformations: an experimental DataOps tool](https://dev.to/stack-labs/applying-graph-theory-for-inferring-your-bigquery-sql-transformations-an-experimental-dataops-tool-463n)
-- [Measuring Developer Experience and Improving it through Platform Engineering &lpar;feat. Ajay Chankramath&rpar;](https://dev.to/vpalania/measuring-developer-experience-and-improving-it-through-platform-engineering-feat-ajay-chankramath-1h8k)
-- [Plugin for Cloudflare AI API](https://dev.to/luisfun/plugin-for-cloudflare-ai-api-4e5f)
+- [Image based Function Calling with gemini-1.0-pro-vision](https://dev.to/vishalmysore/image-based-function-calling-with-gemini-10-pro-vision-3hld)
+- [More info on ambiguous 500 errors](https://dev.to/kowston/more-info-on-ambiguous-500-errors-4ej9)
+- [AI Agent to generate shell commands](https://dev.to/huangyz0918/ai-agent-to-generate-shell-commands-108b)
+- [Building CommandGit: A Developer&#39;s Tale of Passion and Innovation](https://dev.to/danhof/building-commandgit-a-developers-tale-of-passion-and-innovation-43p3)
+- [Let&#39;s See Your Terminal](https://dev.to/tiffany/lets-see-your-terminal-mgo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
