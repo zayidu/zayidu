@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Free online planning poker](https://dev.to/mattlewandowski93/free-online-planning-poker-bfe)
-- [Finding the right learning approach](https://dev.to/valeriahhdez/finding-the-right-learning-approach-5a6n)
-- [Improving Dynamic Component Loader Typings in Angular Using Inputs](https://dev.to/bwca/improving-dynamic-component-loader-typings-in-angular-using-inputs-obl)
-- [Actionable Tips for Building Accessible Websites &lpar;and Why it Matters&rpar;](https://dev.to/hjgonzalez06/actionable-tips-for-building-accessible-websites-and-why-it-matters-1jbd)
-- [Three.js Tutorials](https://dev.to/rustcodeweb/threejs-tutorials-na2)
+- [PYTHON FUNCTIONS](https://dev.to/maame-codes/python-functions-l11)
+- [Resilience and Failure Management in DevOps](https://dev.to/allanpablo/resilience-and-failure-management-in-devops-4l7i)
+- [Introduction to Data Structures in Python](https://dev.to/kartikmehta8/introduction-to-data-structures-in-python-3271)
+- [10 Common Pitfalls to Avoid When Purchasing Online Courses](https://dev.to/digitalpollution/10-common-pitfalls-to-avoid-when-purchasing-online-courses-36b7)
+- [NEED A HACKER TO RECOVER INVESTMENT FROM BINARY TRADING? CONTACT GEARHEADENGINEERS . COM](https://dev.to/deason2/need-a-hacker-to-recover-investment-from-binary-trading-contact-gearheadengineers-com-mch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
