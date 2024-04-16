@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Confidently Incorrect - Navigating Battleships](https://dev.to/bradley-hill/confidently-incorrect-navigating-battleships-154e)
-- [6章１](https://dev.to/aaattt/6zhang-1-3maj)
-- [Synch vs. Async Programming](https://dev.to/refine/synch-vs-async-programming-2110)
-- [K3s: smallest K8s on your local](https://dev.to/devopspass-ai/k3s-smallest-k8s-on-your-local-42ae)
-- [How to create an accordion with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-an-accordion-with-tailwind-css-and-alpinejs-49j3)
+- [Sinful Animations: Adding Motion to React Apps](https://dev.to/kigazon/sinful-animations-adding-motion-to-react-apps-3bck)
+- [Tailwind CSS product overview components built for E-commerce websites](https://dev.to/themesberg/tailwind-css-product-overview-components-built-for-e-commerce-websites-4m73)
+- [What&#39;s New in API7 Enterprise 3.2.9: Upgraded Health Check Configuration](https://dev.to/api7/whats-new-in-api7-enterprise-329-upgraded-health-check-configuration-2aad)
+- [tRPA - Remote Property Access](https://dev.to/tr1ckydev/trpa-remote-property-access-817)
+- [Laravel Route Model Binding : Simplifying Controller Logic](https://dev.to/remonhasan/laravel-route-model-binding-simplifying-controller-logic-b1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
