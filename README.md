@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [５章５](https://dev.to/aaattt/5zhang-5-4e)
+- [Exploring LLM RAG Application Vulnerabilities](https://dev.to/rutamstwt/exploring-llm-rag-application-vulnerabilities-n94)
+- [５章4](https://dev.to/aaattt/5zhang-4-35db)
 - [Creating a Planning Poker Demo app 🃏🕹️](https://dev.to/mattlewandowski93/creating-a-planning-poker-demo-app-394h)
 - [Deciphering the Digital Fortress: Next-Gen Data Security in 2024](https://dev.to/eg7160284/deciphering-the-digital-fortress-next-gen-data-security-in-2024-10nn)
-- [Dev Unity ☕](https://dev.to/fedetomassini/dev-unity-36a4)
-- [How to resolve requireNativeComponent: &quot;RNSScreenStackHeaderConfig&quot; was not found in the UIManager in React Native](https://dev.to/ambasseugene/how-to-resolve-requirenativecomponent-rnsscreenstackheaderconfig-was-not-found-in-the-uimanager-in-react-native-17dh)
-- [Mastering SEO with React: Strategies and Code Insights](https://dev.to/function12_io/mastering-seo-with-react-strategies-and-code-insights-2e4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
