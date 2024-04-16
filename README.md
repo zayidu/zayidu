@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating your own UI extension points in Umbraco v14 - Part 5: Kinds](https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-5-kinds-1il5)
-- [Building an Interactive Island Popup with HTML, CSS, and JavaScript || FREE Source Code](https://dev.to/withaarzoo/building-an-interactive-island-popup-with-html-css-and-javascript-free-source-code-39lj)
-- [６章８](https://dev.to/aaattt/6zhang-8-57jj)
-- [شیوه‌ی طبخ غذاهای ایرانی](https://dev.to/saeedhasani_55/shywhy-tbkh-gdhhy-yrny-2703)
-- [I have recently completed 100+ followers on Github.](https://dev.to/soumilgit/i-have-recently-completed-100-followers-on-github-1dda)
+- [Confidently Incorrect - Navigating Battleships](https://dev.to/bradley-hill/confidently-incorrect-navigating-battleships-154e)
+- [6章１](https://dev.to/aaattt/6zhang-1-3maj)
+- [Synch vs. Async Programming](https://dev.to/refine/synch-vs-async-programming-2110)
+- [K3s: smallest K8s on your local](https://dev.to/devopspass-ai/k3s-smallest-k8s-on-your-local-42ae)
+- [How to create an accordion with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-an-accordion-with-tailwind-css-and-alpinejs-49j3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
