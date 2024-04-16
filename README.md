@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Regular Expression Benchmarks – How To Avoid My Mistakes!](https://dev.to/devleader/c-regular-expression-benchmarks-how-to-avoid-my-mistakes-2cef)
-- [How we take data-driven decisions with LogSnag](https://dev.to/pontusab/how-we-take-data-driven-decisions-with-logsnag-2nco)
-- [Code Sketching with Kotlin Notebooks: Developer Guide](https://dev.to/daredev/code-sketching-with-kotlin-notebooks-developer-guide-530n)
-- [“State Control in React: Behind the Scenes of Our Quiz App”](https://dev.to/oyegoke/state-control-in-react-behind-the-scenes-of-our-quiz-app-4acd)
-- [LLM Security: Bypassing LLM Safeguards](https://dev.to/rutamstwt/llm-security-bypassing-llm-safeguards-2n39)
+- [Check if the Sentence Is Pangram | LeetCode | Java](https://dev.to/tanujav/check-if-the-sentence-is-pangram-leetcode-java-abp)
+- [Inside the Box: March Community Update](https://dev.to/codesandboxio/inside-the-box-march-community-update-3o46)
+- [#2 Variáveis - Entendendo o JavaScript](https://dev.to/joaopedrov0/2-variaveis-entendendo-o-javascript-3oc1)
+- [📌Data Structure &lpar;pt 1&rpar;](https://dev.to/developedbyjk/data-structure-pt-1-3lgb)
+- [Beginner&#39;s Guide to Math&#39;s for Machine Learning](https://dev.to/ngneha09/beginners-guide-to-maths-for-machine-learning-18de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
