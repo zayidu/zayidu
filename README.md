@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevinAI Situation ?](https://dev.to/archie_lc/devinai-situation--15ci)
-- [[16/04] Daily Top Startups](https://dev.to/journeypreneur/1604-daily-top-startups-53gk)
-- [623. Add One Row to Tree](https://dev.to/mdarifulhaque/623-add-one-row-to-tree-h2c)
-- [Featured Mod of the Month: Phil Ashby](https://dev.to/devteam/featured-mod-of-the-month-phil-ashby-25oc)
-- [How I use Ansible to automate routine tasks by running an Adhoc script](https://dev.to/aws-builders/how-i-use-ansible-to-automate-routine-tasks-by-running-an-adhoc-script-4174)
+- [The Dark Modal: Crafting Reusable React Modals](https://dev.to/kigazon/the-dark-modal-crafting-reusable-react-modals-1h8i)
+- [AI Inference now available in Supabase Edge Functions](https://dev.to/supabase/ai-inference-now-available-in-supabase-edge-functions-3ae1)
+- [Applying graph theory for inferring your BigQuery SQL transformations: an experimental DataOps tool](https://dev.to/stack-labs/applying-graph-theory-for-inferring-your-bigquery-sql-transformations-an-experimental-dataops-tool-463n)
+- [Measuring Developer Experience and Improving it through Platform Engineering &lpar;feat. Ajay Chankramath&rpar;](https://dev.to/vpalania/measuring-developer-experience-and-improving-it-through-platform-engineering-feat-ajay-chankramath-1h8k)
+- [Plugin for Cloudflare AI API](https://dev.to/luisfun/plugin-for-cloudflare-ai-api-4e5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
