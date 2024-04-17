@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mentor Matching — April 2024 🤝](https://dev.to/devteam/mentor-matching-april-2024-30a2)
-- [Release v1.9.0 - ChatCraft.org](https://dev.to/rachit1313/release-v190-chatcraftorg-a0)
-- [Implementing JWT Authentication in React with react-router](https://dev.to/saminwankwo/implementing-jwt-authentication-in-react-with-react-router-1mkj)
-- [Top 10 Technical Interview Questions Hiring Managers Ask](https://dev.to/remotebase/top-10-technical-interview-questions-hiring-managers-ask-5h86)
-- [988. Smallest String Starting From Leaf](https://dev.to/mdarifulhaque/988-smallest-string-starting-from-leaf-4l9c)
+- [DevLog #13 - Role of the Product owner](https://dev.to/amilarangana/devlog-13-role-of-the-product-owner-ci1)
+- [Monitoring MySQL with Prometheus and Grafana in Docker](https://dev.to/mattdark/monitoring-mysql-with-prometheus-and-grafana-in-docker-1ij7)
+- [Time to Jack-in and dive into your Data Fortress](https://dev.to/kalisen/time-to-jack-in-and-dive-into-your-data-fortress-3g54)
+- [Emerging Concepts in Technology](https://dev.to/christopherchhim/emerging-concepts-in-technology-8b7)
+- [O back-end Node.js via terminal Termux](https://dev.to/aquael5/o-back-end-nodejs-via-terminal-termux-4n02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
