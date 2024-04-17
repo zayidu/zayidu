@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React.memo - Optimize React Functional Components](https://dev.to/ashsajal/reactmemo-optimize-react-functional-components-516m)
-- [Mastering the Art of Codeless Test Automation: Strategies for Seamless Software Quality Assurance](https://dev.to/berthaw82414312/mastering-the-art-of-codeless-test-automation-strategies-for-seamless-software-quality-assurance-4nb8)
-- [In a Multilevel Relationship, How to Replace Null Values at Nodes by Corresponding Values at Their Parent Nodes](https://dev.to/esproc_spl/in-a-multilevel-relationship-how-to-replace-null-values-at-nodes-by-corresponding-values-at-their-parent-nodes-21ci)
-- [Webship-js: When I go to &lpar; the homepage &amp; &quot;specific page&quot; &rpar;](https://dev.to/webshipco/webship-js-when-i-go-to-the-homepage-specific-page--55bc)
-- [Hello Guys](https://dev.to/muvalika/hello-guys-5fkl)
+- [Introduction to Kubernetes](https://dev.to/shasheeshpurohit/introduction-to-kubernetes-450h)
+- [Composing Decorators in Python](https://dev.to/krish120003/composing-decorators-in-python-dgd)
+- [How to showcase your GitHub repositories on LinkedIn 🐱](https://dev.to/monicafidalgo/how-to-showcase-your-github-repositories-on-linkedin-1non)
+- [Utilizing Intersection Observer in React](https://dev.to/ihesami/utilizing-intersection-observer-in-react-1i9l)
+- [From Buying a Domain to a Fully Configured Server in 15 Minutes](https://dev.to/janbuild/from-buying-a-domain-to-a-fully-configured-server-in-15-minutes-553j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
