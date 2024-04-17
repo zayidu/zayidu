@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #83: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-83-explica-este-codigo-python-b94)
-- [PostGIS and Heroku Postgres… Location, Location, Location!](https://dev.to/josephcaudle/postgis-and-heroku-postgres-location-location-location-51id)
-- [Beware of MongoDB network compression](https://dev.to/hinst/beware-of-mongodb-network-compression-4722)
-- [Elevate Your Web Design: Mastering React-Select Styling](https://dev.to/nnnirajn/elevate-your-web-design-mastering-react-select-styling-2pc7)
-- [[AWS] Resource and Property for AWS SAM](https://dev.to/axeldlv/aws-resource-and-property-for-aws-sam-36fp)
+- [✨ Stunning HTML &amp; CSS Card Animation Tutorial on Hover 💻](https://dev.to/robsonmuniz16/stunning-html-css-card-animation-tutorial-on-hover-1lci)
+- [Java: The Architect Behind Today’s Tech Giants](https://dev.to/dbillion/java-the-architect-behind-todays-tech-giants-41lb)
+- [Running schema/database migrations using Geni](https://dev.to/emil_priver/running-schemadatabase-migrations-using-geni-32jh)
+- [Webhooks and WebSockets](https://dev.to/ricardogesteves/webhooks-and-websockets-3p53)
+- [Caching RESTful API requests with Heroku’s Redis Add-on](https://dev.to/heroku/caching-restful-api-requests-with-herokus-redis-add-on-3bg8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
