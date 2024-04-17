@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Putting a video on a ESP32 powered SSD1306 OLED screen](https://dev.to/afcm/putting-a-video-on-a-esp32-powered-ssd1306-oled-screen-30ka)
-- [Deploy NextJS App on Firebase 🔥](https://dev.to/sh20raj/deploy-nextjs-app-on-firebase-dic)
-- [30+ app ideas with complete source code](https://dev.to/copilotkit/30-app-ideas-with-complete-source-code-5f76)
-- [Exploring Synchronous and Asynchronous Programming](https://dev.to/_hm/exploring-synchronous-and-asynchronous-programming-lo2)
-- [The Top 7 Modpacks to Install on Your Minecraft Server](https://dev.to/aaronsmithcs/the-top-7-modpacks-to-install-on-your-minecraft-server-4b8l)
+- [Ibuprofeno.py💊| #83: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-83-explica-este-codigo-python-b94)
+- [PostGIS and Heroku Postgres… Location, Location, Location!](https://dev.to/josephcaudle/postgis-and-heroku-postgres-location-location-location-51id)
+- [Beware of MongoDB network compression](https://dev.to/hinst/beware-of-mongodb-network-compression-4722)
+- [Elevate Your Web Design: Mastering React-Select Styling](https://dev.to/nnnirajn/elevate-your-web-design-mastering-react-select-styling-2pc7)
+- [[AWS] Resource and Property for AWS SAM](https://dev.to/axeldlv/aws-resource-and-property-for-aws-sam-36fp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
