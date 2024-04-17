@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Kubernetes](https://dev.to/shasheeshpurohit/introduction-to-kubernetes-450h)
-- [Composing Decorators in Python](https://dev.to/krish120003/composing-decorators-in-python-dgd)
-- [How to showcase your GitHub repositories on LinkedIn 🐱](https://dev.to/monicafidalgo/how-to-showcase-your-github-repositories-on-linkedin-1non)
-- [Utilizing Intersection Observer in React](https://dev.to/ihesami/utilizing-intersection-observer-in-react-1i9l)
-- [From Buying a Domain to a Fully Configured Server in 15 Minutes](https://dev.to/janbuild/from-buying-a-domain-to-a-fully-configured-server-in-15-minutes-553j)
+- [Hello 100 Rails Designers!](https://dev.to/railsdesigner/hello-100-rails-designers-3ojf)
+- [Building Backlinks: Strategies for Boosting Your Website&#39;s Authority](https://dev.to/agiconsolution/building-backlinks-strategies-for-boosting-your-websites-authority-5ac6)
+- [Building a Decentralized Todo List Application on Ethereum](https://dev.to/tosynthegeek/building-a-decentralized-todo-list-application-on-ethereum-26f2)
+- [Best UPSC Coaching in Hyderabad - Best UPSC Coaching Ekam IAS Academy](https://dev.to/ekamiasacadamy/best-upsc-coaching-in-hyderabad-best-upsc-coaching-ekam-ias-academy-4jne)
+- [Tips and Tricks for Efficiently Using a Live Flight Tracker](https://dev.to/ericksmith14/tips-and-tricks-for-efficiently-using-a-live-flight-tracker-1b7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
