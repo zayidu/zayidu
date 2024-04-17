@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ferramentas que não podem faltar no setup de um&lpar;a&rpar; dev](https://dev.to/bahiadevs/ferramentas-que-nao-podem-faltar-no-setup-de-uma-dev-118j)
-- [The Journey Ahead: My 6-Month Plan to Master GoLang](https://dev.to/leo1994/the-journey-ahead-my-6-month-plan-to-master-golang-12ie)
-- [unique&lpar;&rpar; and unique_consecutive&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/unique-and-uniqueconsecutive-in-pytorch-hji)
-- [Dark Mode in Web Components is About to Get AWESOME!](https://dev.to/stuffbreaker/dark-mode-in-web-components-is-about-to-get-awesome-4i14)
-- [Building a Web Scraper with Node.js](https://dev.to/kartikmehta8/building-a-web-scraper-with-nodejs-3kee)
+- [Converting BlogCFC blog to Eleventy](https://dev.to/akbarsait/converting-blogcfc-blog-to-eleventy-26cj)
+- [Sequelize의 include 안에서 order 적용하기](https://dev.to/__aa3e4bc832ba7032bfa3/sequelizeyi-include-aneseo-order-jeogyonghagi-5113)
+- [&quot;Just Start!&quot; - A double-edged sword.](https://dev.to/thejoernal/just-start-a-double-edged-sword-3285)
+- [Add basic animations to your site using Animate.css and wow.js](https://dev.to/thejoernal/add-basic-animations-to-your-site-using-animatecss-and-wowjs-5hni)
+- [LLM Security: Using Automated Tools for Vulnerability Scans](https://dev.to/rutamstwt/llm-security-using-automated-tools-for-vulnerability-scans-4hoa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
