@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Join Us For The Next Frontend Challenge: Earth Day Edition!](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-earth-day-edition-52e4)
-- [JavaScript&#39;s push&lpar;&rpar; Method: Unleashing Array Power](https://dev.to/ticha/javascripts-push-method-unleashing-array-power-61l)
-- [Choisir la Bonne Agence de Développement Web : Les Clés d&#39;un Partenariat Réussi](https://dev.to/software-development-company/choisir-la-bonne-agence-de-developpement-web-les-cles-dun-partenariat-reussi-4me)
-- [JavaScript Quiz - Part 1](https://dev.to/dindustack/javascript-quiz-part-1-e6c)
-- [Python and SQL: Objects in Programming](https://dev.to/whoamivoyager/python-and-sql-objects-in-programming-3l1d)
+- [How to Generate Stylish PDFs and Images with Tailwind CSS in Your Application](https://dev.to/kstulgys/how-to-generate-stylish-pdfs-and-images-with-tailwind-css-in-your-application-4d1i)
+- [Factory Method Pattern in Ruby](https://dev.to/davidmrtz-dev/factory-method-pattern-in-ruby-b0c)
+- [Why &lt;img&gt; exceeds its parent &lt;div&gt;&#39;s size?](https://dev.to/oleygon/why-exceeds-its-parent-s-size-2cln)
+- [Dynamic Serializers in Django](https://dev.to/papansarkar101/dynamic-serializers-in-django-e7b)
+- [Announcing Minder Cloud: A fully managed software security platform for open source communities](https://dev.to/lukehinds/announcing-minder-cloud-a-fully-managed-software-security-platform-for-open-source-communities-4l9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
