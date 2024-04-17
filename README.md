@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Web Scraper with Node.js](https://dev.to/kartikmehta8/building-a-web-scraper-with-nodejs-3kee)
 - [Enviando notificações com xk6 notification ✉](https://dev.to/marlo2222/enviando-notificacoes-com-xk6-notification-25ml)
 - [White Label SaaS: Made Easy](https://dev.to/domfive/white-label-saas-made-easy-330g)
 - [Beyond the Code: A Guide to Effective Code Reviews as a Front-End Engineer](https://dev.to/santhanam87/from-functionality-to-finesse-mastering-code-reviews-for-front-end-developers-2ko7)
 - [Welcome Thread - v272](https://dev.to/devteam/welcome-thread-v272-283o)
-- [How to Build Custom Business Software](https://dev.to/domfive/how-to-build-custom-business-software-k54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
