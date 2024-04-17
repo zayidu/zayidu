@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CourseBot - Coze AI Bot Challenge](https://dev.to/divyesshm/coursebot-coze-ai-bot-challenge-438e)
-- [Create a collage with AWS Information Technology symbols and logos](https://dev.to/olatunjiayodel9/create-a-collage-with-aws-information-technology-symbols-and-logos-1m3)
-- [Python&#39;s MAP/FILTER/REDUCE: Streamlining Data Manipulation in Seconds](https://dev.to/sk_rajibul_9ce58a68c43bb5/pythons-mapfilterreduce-streamlining-data-manipulation-in-seconds-34e5)
-- [Simplifying Test Execution with pytest.main&lpar;&rpar;](https://dev.to/sk_rajibul_9ce58a68c43bb5/simplifying-test-execution-with-pytestmain-2hc2)
-- [Understanding Broadcast Receivers in Android](https://dev.to/khushpanchal123/understanding-broadcast-receivers-in-android-4n3o)
+- [Mentor Matching — April 2024 🤝](https://dev.to/devteam/mentor-matching-april-2024-30a2)
+- [Release v1.9.0 - ChatCraft.org](https://dev.to/rachit1313/release-v190-chatcraftorg-a0)
+- [Implementing JWT Authentication in React with react-router](https://dev.to/saminwankwo/implementing-jwt-authentication-in-react-with-react-router-1mkj)
+- [Top 10 Technical Interview Questions Hiring Managers Ask](https://dev.to/remotebase/top-10-technical-interview-questions-hiring-managers-ask-5h86)
+- [988. Smallest String Starting From Leaf](https://dev.to/mdarifulhaque/988-smallest-string-starting-from-leaf-4l9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
