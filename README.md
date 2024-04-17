@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Converting BlogCFC blog to Eleventy](https://dev.to/akbarsait/converting-blogcfc-blog-to-eleventy-26cj)
-- [Sequelize의 include 안에서 order 적용하기](https://dev.to/__aa3e4bc832ba7032bfa3/sequelizeyi-include-aneseo-order-jeogyonghagi-5113)
-- [&quot;Just Start!&quot; - A double-edged sword.](https://dev.to/thejoernal/just-start-a-double-edged-sword-3285)
-- [Add basic animations to your site using Animate.css and wow.js](https://dev.to/thejoernal/add-basic-animations-to-your-site-using-animatecss-and-wowjs-5hni)
-- [LLM Security: Using Automated Tools for Vulnerability Scans](https://dev.to/rutamstwt/llm-security-using-automated-tools-for-vulnerability-scans-4hoa)
+- [What is a recruiter and why should you care?](https://dev.to/marcconci/what-is-a-recruiter-and-why-should-you-care-592p)
+- [React 19: The long-expected features](https://dev.to/daasrattale/react-19-the-long-expected-features-1kod)
+- [How Important is a Bachelor&#39;s Degree for Developers?](https://dev.to/marcconci/how-important-is-a-bachelors-degree-for-developers-1k4c)
+- [How Really Make Money While Building Your Portfolio](https://dev.to/marcconci/how-really-make-money-while-building-your-portfolio-28ho)
+- [Cách đưa biến môi trường thành một phần của một commandline ở PowerShell](https://dev.to/bachhuynh/cach-dua-bien-moi-truong-thanh-mot-phan-cua-mot-commandline-o-powershell-598n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
