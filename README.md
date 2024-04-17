@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chat with your Github Repo using llama_index and chainlit](https://dev.to/karanjanthe/chat-with-your-github-repo-using-llamaindex-and-chainlit-452f)
-- [Day 945 : D.E.E.P.](https://dev.to/dwane/day-945-deep-ald)
-- [H2O-Danube-1.8B Technical Report](https://dev.to/mikeyoung44/h2o-danube-18b-technical-report-5cpd)
-- [Dataset Reset Policy Optimization for RLHF](https://dev.to/mikeyoung44/dataset-reset-policy-optimization-for-rlhf-2e51)
-- [Manipulating Large Language Models to Increase Product Visibility](https://dev.to/mikeyoung44/manipulating-large-language-models-to-increase-product-visibility-3df1)
+- [Enviando notificações com xk6 notification ✉](https://dev.to/marlo2222/enviando-notificacoes-com-xk6-notification-25ml)
+- [White Label SaaS: Made Easy](https://dev.to/domfive/white-label-saas-made-easy-330g)
+- [Beyond the Code: A Guide to Effective Code Reviews as a Front-End Engineer](https://dev.to/santhanam87/from-functionality-to-finesse-mastering-code-reviews-for-front-end-developers-2ko7)
+- [Welcome Thread - v272](https://dev.to/devteam/welcome-thread-v272-283o)
+- [How to Build Custom Business Software](https://dev.to/domfive/how-to-build-custom-business-software-k54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
