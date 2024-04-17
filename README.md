@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning AWS Day by Day — Day 39 — Amazon RDS — Part 2](https://dev.to/rksalo88/learning-aws-day-by-day-day-39-amazon-rds-part-2-5cej)
-- [Redefining CRM Success: The Imperative of Effective CRM Testing](https://dev.to/abhayit2000/redefining-crm-success-the-imperative-of-effective-crm-testing-cmk)
-- [Using Jolt with flecs &amp; Dear ImGui: Game Physics Introspection](https://dev.to/askrodney/using-jolt-with-flecs-dear-imgui-game-physics-introspection-8hd)
-- [what is random forest classifier](https://dev.to/sakthivel07/what-is-random-forest-classifier-2dp1)
-- [CDK for Terraform - Setup &amp; Configure](https://dev.to/arindam0310018/cdk-for-terraform-setup-configure-f42)
+- [Join Us For The Next Frontend Challenge: Earth Day Edition!](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-earth-day-edition-52e4)
+- [JavaScript&#39;s push&lpar;&rpar; Method: Unleashing Array Power](https://dev.to/ticha/javascripts-push-method-unleashing-array-power-61l)
+- [Choisir la Bonne Agence de Développement Web : Les Clés d&#39;un Partenariat Réussi](https://dev.to/software-development-company/choisir-la-bonne-agence-de-developpement-web-les-cles-dun-partenariat-reussi-4me)
+- [JavaScript Quiz - Part 1](https://dev.to/dindustack/javascript-quiz-part-1-e6c)
+- [Python and SQL: Objects in Programming](https://dev.to/whoamivoyager/python-and-sql-objects-in-programming-3l1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
