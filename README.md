@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master RBAC in Kubernetes](https://dev.to/getambassador2024/master-rbac-in-kubernetes-288h)
-- [Deploy a web application with AWS Lambda](https://dev.to/ananyadasgupta/deploy-a-web-application-with-aws-lambda-2km3)
-- [How to use Tailwind with any CSS framework](https://dev.to/climentea/how-to-use-tailwind-with-any-css-framework-lca)
-- [Syntax](https://dev.to/jaloldcoder98/syntax-2ao6)
-- [Day 27 of 30-Day .NET Challenge: Query v/s Method Syntax](https://dev.to/ssukhpinder/day-27-of-30-day-net-challenge-query-vs-method-syntax-3e2i)
+- [Do People Even Get Bored Anymore?](https://dev.to/devteam/do-people-even-get-bored-anymore-2949)
+- [SwiftUI Views and @MainActor](https://dev.to/fatbobman/swiftui-views-and-mainactor-58ig)
+- [Best Cheap cPanel Hosting In 2024](https://dev.to/maroon5/best-cheap-cpanel-hosting-in-2024-jan)
+- [Building a Personalized Chatbot with a 3D Twist: A Developer&#39;s Journey](https://dev.to/yashdatir/building-a-personalized-chatbot-with-a-3d-twist-a-developers-journey-466o)
+- [Running boosts memory](https://dev.to/exerciseinsights/running-boosts-memory-417e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
