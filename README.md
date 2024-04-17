@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock Efficiency with ID Document Recognition: 8 Hassle-Free Validation Techniques](https://dev.to/faceplugin/unlock-efficiency-with-id-document-recognition-8-hassle-free-validation-techniques-2bg6)
-- [Auth with Clerk](https://dev.to/njabulomajozi/auth-with-clerk-408j)
-- [The Sustainability Impacts of ChatGPT: A Comprehensive Analysis](https://dev.to/thebadcoder96/the-sustainability-impacts-of-chatgpt-a-comprehensive-analysis-2ll8)
-- [Show your personality](https://dev.to/aws-heroes/show-your-personality-7f2)
-- [Computação não depende da existencia de computadores [PT-BR]](https://dev.to/andredarcie/computacao-nao-depende-da-existencia-de-computadores-pt-br-1i9c)
+- [Succeeding where NASDAQ fails](https://dev.to/polterguy/succeeding-where-nasdaq-fails-5gih)
+- [TAN STACK QUERY&lpar;REACT JS&rpar;](https://dev.to/dhyaneshsiddhartha15/tan-stack-queryreact-js-4h84)
+- [Resolving npm EACCES Errors: Fixing Permissions to Install Global Packages](https://dev.to/sh20raj/resolving-npm-eacces-errors-fixing-permissions-to-install-global-packages-8lk)
+- [Boom 💥, Supabase Marks Its GA Milestone](https://dev.to/mitchiemt11/boom-supabase-marks-its-ga-milestone-4ego)
+- [You Probably Lose a Part of Your Potential Audience for Your Online Courses](https://dev.to/kramin_alexey/you-probably-lose-a-part-of-your-potential-audience-for-your-online-courses-4g9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
