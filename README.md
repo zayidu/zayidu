@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI+Node.js x-crawl crawler: Why are traditional crawlers no longer the first choice for data crawling?](https://dev.to/coderhxl/ainodejs-x-crawl-crawler-why-are-traditional-crawlers-no-longer-the-first-choice-for-data-crawling-18a)
-- [Efficient Angular Effects Patterns](https://dev.to/this-is-angular/efficient-angular-effects-patterns-4396)
-- [React JS Fragments](https://dev.to/vishnusatheesh/react-js-fragments-14gc)
-- [🕵🏽 Investigating python Callables : functions, methods and more...](https://dev.to/wassafshahzad/investigating-python-callables-functions-methods-and-more-5cp1)
-- [Slack Automation: No More Hardcoding channel_ids for Event Triggers!](https://dev.to/seratch/slack-automation-no-more-hardcoding-channelids-for-event-triggers-4d5b)
+- [Master RBAC in Kubernetes](https://dev.to/getambassador2024/master-rbac-in-kubernetes-288h)
+- [Deploy a web application with AWS Lambda](https://dev.to/ananyadasgupta/deploy-a-web-application-with-aws-lambda-2km3)
+- [How to use Tailwind with any CSS framework](https://dev.to/climentea/how-to-use-tailwind-with-any-css-framework-lca)
+- [Syntax](https://dev.to/jaloldcoder98/syntax-2ao6)
+- [Day 27 of 30-Day .NET Challenge: Query v/s Method Syntax](https://dev.to/ssukhpinder/day-27-of-30-day-net-challenge-query-vs-method-syntax-3e2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
