@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Succeeding where NASDAQ fails](https://dev.to/polterguy/succeeding-where-nasdaq-fails-5gih)
-- [TAN STACK QUERY&lpar;REACT JS&rpar;](https://dev.to/dhyaneshsiddhartha15/tan-stack-queryreact-js-4h84)
-- [Resolving npm EACCES Errors: Fixing Permissions to Install Global Packages](https://dev.to/sh20raj/resolving-npm-eacces-errors-fixing-permissions-to-install-global-packages-8lk)
-- [Boom 💥, Supabase Marks Its GA Milestone](https://dev.to/mitchiemt11/boom-supabase-marks-its-ga-milestone-4ego)
-- [You Probably Lose a Part of Your Potential Audience for Your Online Courses](https://dev.to/kramin_alexey/you-probably-lose-a-part-of-your-potential-audience-for-your-online-courses-4g9j)
+- [Learning AWS Day by Day — Day 39 — Amazon RDS — Part 2](https://dev.to/rksalo88/learning-aws-day-by-day-day-39-amazon-rds-part-2-5cej)
+- [Redefining CRM Success: The Imperative of Effective CRM Testing](https://dev.to/abhayit2000/redefining-crm-success-the-imperative-of-effective-crm-testing-cmk)
+- [Using Jolt with flecs &amp; Dear ImGui: Game Physics Introspection](https://dev.to/askrodney/using-jolt-with-flecs-dear-imgui-game-physics-introspection-8hd)
+- [what is random forest classifier](https://dev.to/sakthivel07/what-is-random-forest-classifier-2dp1)
+- [CDK for Terraform - Setup &amp; Configure](https://dev.to/arindam0310018/cdk-for-terraform-setup-configure-f42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
