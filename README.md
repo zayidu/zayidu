@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Generate Stylish PDFs and Images with Tailwind CSS in Your Application](https://dev.to/kstulgys/how-to-generate-stylish-pdfs-and-images-with-tailwind-css-in-your-application-4d1i)
-- [Factory Method Pattern in Ruby](https://dev.to/davidmrtz-dev/factory-method-pattern-in-ruby-b0c)
-- [Why &lt;img&gt; exceeds its parent &lt;div&gt;&#39;s size?](https://dev.to/oleygon/why-exceeds-its-parent-s-size-2cln)
-- [Dynamic Serializers in Django](https://dev.to/papansarkar101/dynamic-serializers-in-django-e7b)
-- [Announcing Minder Cloud: A fully managed software security platform for open source communities](https://dev.to/lukehinds/announcing-minder-cloud-a-fully-managed-software-security-platform-for-open-source-communities-4l9n)
+- [CourseBot - Coze AI Bot Challenge](https://dev.to/divyesshm/coursebot-coze-ai-bot-challenge-438e)
+- [Create a collage with AWS Information Technology symbols and logos](https://dev.to/olatunjiayodel9/create-a-collage-with-aws-information-technology-symbols-and-logos-1m3)
+- [Python&#39;s MAP/FILTER/REDUCE: Streamlining Data Manipulation in Seconds](https://dev.to/sk_rajibul_9ce58a68c43bb5/pythons-mapfilterreduce-streamlining-data-manipulation-in-seconds-34e5)
+- [Simplifying Test Execution with pytest.main&lpar;&rpar;](https://dev.to/sk_rajibul_9ce58a68c43bb5/simplifying-test-execution-with-pytestmain-2hc2)
+- [Understanding Broadcast Receivers in Android](https://dev.to/khushpanchal123/understanding-broadcast-receivers-in-android-4n3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
