@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ Stunning HTML &amp; CSS Card Animation Tutorial on Hover 💻](https://dev.to/robsonmuniz16/stunning-html-css-card-animation-tutorial-on-hover-1lci)
-- [Java: The Architect Behind Today’s Tech Giants](https://dev.to/dbillion/java-the-architect-behind-todays-tech-giants-41lb)
-- [Running schema/database migrations using Geni](https://dev.to/emil_priver/running-schemadatabase-migrations-using-geni-32jh)
-- [Webhooks and WebSockets](https://dev.to/ricardogesteves/webhooks-and-websockets-3p53)
-- [Caching RESTful API requests with Heroku’s Redis Add-on](https://dev.to/heroku/caching-restful-api-requests-with-herokus-redis-add-on-3bg8)
+- [Unlock Efficiency with ID Document Recognition: 8 Hassle-Free Validation Techniques](https://dev.to/faceplugin/unlock-efficiency-with-id-document-recognition-8-hassle-free-validation-techniques-2bg6)
+- [Auth with Clerk](https://dev.to/njabulomajozi/auth-with-clerk-408j)
+- [The Sustainability Impacts of ChatGPT: A Comprehensive Analysis](https://dev.to/thebadcoder96/the-sustainability-impacts-of-chatgpt-a-comprehensive-analysis-2ll8)
+- [Show your personality](https://dev.to/aws-heroes/show-your-personality-7f2)
+- [Computação não depende da existencia de computadores [PT-BR]](https://dev.to/andredarcie/computacao-nao-depende-da-existencia-de-computadores-pt-br-1i9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
