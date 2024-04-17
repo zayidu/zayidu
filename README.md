@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A dozen &lpar;or so&rpar; learnings from 15 years of software incident management](https://dev.to/arjunrao87/a-dozen-or-so-learnings-from-15-years-of-software-incident-management-5hib)
-- [The Power of Generative AI for Tomorrow&#39;s Tech Careers](https://dev.to/aws-builders/the-power-of-generative-ai-for-tomorrows-tech-careers-50hn)
-- [How To Create An AI Chatbot with Google GEMINI using Node.js](https://dev.to/devarshishimpi/how-to-create-an-ai-chatbot-with-google-gemini-using-nodejs-pn6)
-- [Breakdown of the advantages of Webflow and Divi](https://dev.to/julianevan/breakdown-of-the-advantages-of-webflow-and-divi-2j0o)
-- [The Best R Packages Every Data Scientist Should Use](https://dev.to/tutortacademy/the-best-r-packages-every-data-scientist-should-use-k25)
+- [Putting a video on a ESP32 powered SSD1306 OLED screen](https://dev.to/afcm/putting-a-video-on-a-esp32-powered-ssd1306-oled-screen-30ka)
+- [Deploy NextJS App on Firebase 🔥](https://dev.to/sh20raj/deploy-nextjs-app-on-firebase-dic)
+- [30+ app ideas with complete source code](https://dev.to/copilotkit/30-app-ideas-with-complete-source-code-5f76)
+- [Exploring Synchronous and Asynchronous Programming](https://dev.to/_hm/exploring-synchronous-and-asynchronous-programming-lo2)
+- [The Top 7 Modpacks to Install on Your Minecraft Server](https://dev.to/aaronsmithcs/the-top-7-modpacks-to-install-on-your-minecraft-server-4b8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
