@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello 100 Rails Designers!](https://dev.to/railsdesigner/hello-100-rails-designers-3ojf)
-- [Building Backlinks: Strategies for Boosting Your Website&#39;s Authority](https://dev.to/agiconsolution/building-backlinks-strategies-for-boosting-your-websites-authority-5ac6)
-- [Building a Decentralized Todo List Application on Ethereum](https://dev.to/tosynthegeek/building-a-decentralized-todo-list-application-on-ethereum-26f2)
-- [Best UPSC Coaching in Hyderabad - Best UPSC Coaching Ekam IAS Academy](https://dev.to/ekamiasacadamy/best-upsc-coaching-in-hyderabad-best-upsc-coaching-ekam-ias-academy-4jne)
-- [Tips and Tricks for Efficiently Using a Live Flight Tracker](https://dev.to/ericksmith14/tips-and-tricks-for-efficiently-using-a-live-flight-tracker-1b7f)
+- [A dozen &lpar;or so&rpar; learnings from 15 years of software incident management](https://dev.to/arjunrao87/a-dozen-or-so-learnings-from-15-years-of-software-incident-management-5hib)
+- [The Power of Generative AI for Tomorrow&#39;s Tech Careers](https://dev.to/aws-builders/the-power-of-generative-ai-for-tomorrows-tech-careers-50hn)
+- [How To Create An AI Chatbot with Google GEMINI using Node.js](https://dev.to/devarshishimpi/how-to-create-an-ai-chatbot-with-google-gemini-using-nodejs-pn6)
+- [Breakdown of the advantages of Webflow and Divi](https://dev.to/julianevan/breakdown-of-the-advantages-of-webflow-and-divi-2j0o)
+- [The Best R Packages Every Data Scientist Should Use](https://dev.to/tutortacademy/the-best-r-packages-every-data-scientist-should-use-k25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
