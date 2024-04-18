@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Earth Day Celebration Landing Page submission](https://dev.to/dhodvogner/earth-day-celebration-landing-page-submission-4ad5)
-- [Manage a portfolio website with lots of projects – ortfo](https://dev.to/ewen-lbh/manage-a-portfolio-website-with-lots-of-projects-ortfo-5aic)
-- [How to work with shared dev clusters &lpar;and why&rpar; - Part II: Why backwards compatibility is overrated](https://dev.to/makky/how-to-work-with-shared-dev-clusters-and-why-part-ii-why-backwards-compatibility-is-overrated-1cd9)
-- [KMDS, a package for knowledge managment in data science](https://dev.to/rajivsam/kmds-a-package-for-knowledge-managment-in-data-science-48fd)
-- [From Google Docs to Mkdocs: Reasons Behind Switching?](https://dev.to/ikhaledabdelfattah/from-google-docs-to-mkdocs-reasons-behind-switching-5doa)
+- [How to debug i18n? 🤔](https://dev.to/grech_ca/how-to-debug-i18n-118e)
+- [7 ways to center a div 🔥](https://dev.to/madhusaini22/7-ways-to-center-a-div-14np)
+- [Reddit CPO talks new features — better translations, moderation and dev tools](https://dev.to/andylarkin677/reddit-cpo-talks-new-features-better-translations-moderation-and-dev-tools-3nma)
+- [The best testing setup for frontends, with Playwright and NextJS](https://dev.to/radubrehar/the-best-testing-setup-for-frontends-with-playwright-and-nextjs-lfc)
+- [Aktualisierungen der Event Engine und der Event Listener](https://dev.to/pubnub-de/aktualisierungen-der-event-engine-und-der-event-listener-1pom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
