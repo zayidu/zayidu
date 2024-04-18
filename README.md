@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Debug Typescript using Node Runtime Environment in VS Code](https://dev.to/husnain/debug-typescript-using-node-runtime-environment-in-vs-code-ik0)
+- [Kademlia - Routing - Part 1](https://dev.to/ckousik/kademlia-routing-part-1-4mmf)
+- [Day 946 : Understand](https://dev.to/dwane/day-946-understand-2hdh)
+- [Understanding OAuth 2.0 and OpenID Connect](https://dev.to/kartikmehta8/understanding-oauth-20-and-openid-connect-1ppo)
 - [This distro finally fixes Linux](https://dev.to/jasper-at-windswept/this-distro-finally-fixes-linux-1ac9)
-- [Using migrations with Golang](https://dev.to/wiliamvj/using-migrations-with-golang-3449)
-- [Utilizando &quot;createAsyncThunk&quot; do Redux para fazer chamada async](https://dev.to/devteles/utilizando-createasyncthunk-do-redux-para-fazer-chamada-async-lkp)
-- [Implementing Internationalization &lpar;i18n&rpar; in Next.js 14 using App Router](https://dev.to/fabrikapp/implementing-internationalization-i18n-in-nextjs-14-using-app-router-3mic)
-- [How to dynamically import Swiper.js in Next.js?](https://dev.to/oleygon/how-to-dynamically-import-swiperjs-in-nextjs-4k6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
