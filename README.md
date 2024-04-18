@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Difference between Func&lpar;&rpar; , &lpar;&rpar;=&gt;Func&lpar;&rpar; , {Func} , &lpar;&rpar;=&gt;Func in JS](https://dev.to/itsjp/difference-betweenfunc-func-func-func-in-js-146c)
+- [Task 3](https://dev.to/gomahan/task-3-4kjn)
+- [IBM Font-End-Development Certificate SADT8ETBZ23Q](https://dev.to/fairytalesbrand/ibm-font-end-development-certificate-sadt8etbz23q-5fpp)
 - [Build &amp; Deploy Full Stack Link Sharing App Using MERN Stack](https://dev.to/myogeshchavan97/build-deploy-full-stack-link-sharing-app-using-mern-stack-5614)
 - [What are solid principles in JavaScript ?](https://dev.to/krishna7852/what-are-solid-principles-in-javascript--1eec)
-- [Localization Testing in software Development](https://dev.to/morrismoses149/localization-testing-in-software-development-5d6l)
-- [Series Belajar Solid Principle - Open Close Principle &lpar;OCP&rpar;](https://dev.to/julles/series-belajar-solid-principle-open-close-principle-ocp-3jak)
-- [min&lpar;&rpar;, max&lpar;&rpar;, argmin&lpar;&rpar; and argmax&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/min-max-argmin-and-argmax-in-pytorch-2d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
