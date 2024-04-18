@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Routing, Client Side](https://dev.to/gutmaster/routing-client-side-5ben)
-- [#4 Operadores - Entendendo o JavaScript](https://dev.to/joaopedrov0/4-operadores-entendendo-o-javascript-20hm)
-- [Debug Typescript using Node Runtime Environment in VS Code](https://dev.to/husnain/debug-typescript-using-node-runtime-environment-in-vs-code-ik0)
-- [Kademlia - Routing - Part 1](https://dev.to/ckousik/kademlia-routing-part-1-4mmf)
-- [Day 946 : Understand](https://dev.to/dwane/day-946-understand-2hdh)
+- [８章５](https://dev.to/aaattt/8zhang-5-eco)
+- [8章4](https://dev.to/aaattt/8zhang-4-4fmo)
+- [Laravel 11: The Developer&#39;s Dream or Overhyped Update? Unveiling the Truth Here!](https://dev.to/andrewatef/laravel-11-the-developers-dream-or-overhyped-update-unveiling-the-truth-here-23g8)
+- [The Dangers of Learning Too Many Languages](https://dev.to/annoh_karlgusta/the-dangers-of-learning-too-many-languages-5bg7)
+- [Data Science Interview Questions and Answers.](https://dev.to/jadieljade/data-science-interview-questions-and-answers-16h7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
