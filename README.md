@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevLog #14 - Activities of the Scrum Master](https://dev.to/amilarangana/devlog-14-activities-of-the-scrum-master-mae)
-- [Crafting Code and BBQ Smoke](https://dev.to/handmadebbq/crafting-code-and-bbq-smoke-4jf5)
-- [Roles and Responsibilities of a Lead Engineer in Driving Technical Excellence and Innovation](https://dev.to/balrajola/roles-and-responsibilities-of-a-lead-engineer-in-driving-technical-excellence-and-innovation-i7l)
-- [Keeping Users Up-to-Date: A Guide to Mobile App Version Control](https://dev.to/iamthejahid/keeping-users-up-to-date-a-guide-to-mobile-app-version-control-4em)
-- [Understanding Technical Research Papers](https://dev.to/salika_dave/understanding-technical-research-papers-1c1f)
+- [A Magia da Semântica no HTML](https://dev.to/devpedrodias/a-magia-da-semantica-no-html-3i9g)
+- [Decoding CSS: Mastering Cascade, Selectors, and Specificity for Smarter Styling.](https://dev.to/promiseanuoluwa/decoding-css-mastering-cascade-selectors-and-specificity-for-smarter-styling-4c78)
+- [Priorize os tipos genéricos](https://dev.to/giselecoder/priorize-os-tipos-genericos-3k63)
+- [Biome.js : Prettier+ESLint killer ?](https://dev.to/thibaultwalterspieler/biomejs-prettiereslint-killer--4mnk)
+- [Playwright Web Scraping 2024 - Tutorial](https://dev.to/crawlbase/playwright-web-scraping-2024-tutorial-37db)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
