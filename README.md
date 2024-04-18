@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your JavaScript: Mastering Object Property Checks.](https://dev.to/developerhub/level-up-your-javascript-mastering-object-property-checks-1d4h)
-- [IIoT Security: 5 Essential Steps to Secure your IoT Devices and OS](https://dev.to/yayabobi/iiot-security-5-essential-steps-to-secure-your-iot-devices-and-os-1kn0)
-- [Set cron job in cpanel](https://dev.to/dgihost/set-cron-job-in-cpanel-2ojf)
-- [Middleware in .NET 8](https://dev.to/admirmujkic/middleware-in-net-8-4im4)
-- [Ensuring Software Excellence with Testing Your Code](https://dev.to/admirmujkic/ensuring-software-excellence-with-testing-your-code-h9d)
+- [Next js + 3D elements with spline](https://dev.to/nyctonio/next-js-3d-elements-with-spline-3m84)
+- [Effective Annotating of Strace Output for MySQL Performance Troubleshooting](https://dev.to/shiviyer/effective-annotating-of-strace-output-for-mysql-performance-troubleshooting-2bj6)
+- [Basic Terms in Machine Learning &lpar;Model Training&rpar;](https://dev.to/jjokah/basic-terms-in-machine-learning-model-training-454c)
+- [Global toast in Vue3](https://dev.to/heliomsolivas/global-toast-in-vue3-1bmc)
+- [Kubernetes: Monolithic vs Microservice](https://dev.to/shrest/kubernetes-monolithic-vs-microservice-2jfp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
