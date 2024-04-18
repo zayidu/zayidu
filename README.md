@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Difference between Func&lpar;&rpar; , &lpar;&rpar;=&gt;Func&lpar;&rpar; , {Func} , &lpar;&rpar;=&gt;Func in JS](https://dev.to/itsjp/difference-betweenfunc-func-func-func-in-js-146c)
-- [Task 3](https://dev.to/gomahan/task-3-4kjn)
-- [IBM Font-End-Development Certificate SADT8ETBZ23Q](https://dev.to/fairytalesbrand/ibm-font-end-development-certificate-sadt8etbz23q-5fpp)
-- [Build &amp; Deploy Full Stack Link Sharing App Using MERN Stack](https://dev.to/myogeshchavan97/build-deploy-full-stack-link-sharing-app-using-mern-stack-5614)
-- [What are solid principles in JavaScript ?](https://dev.to/krishna7852/what-are-solid-principles-in-javascript--1eec)
+- [When to Hire More Engineers?](https://dev.to/devteam/when-to-hire-more-engineers-1nhm)
+- [Top 12 Mind Mapping Apps for Enhanced Productivity](https://dev.to/stan8086/top-12-mind-mapping-apps-for-enhanced-productivity-1o3)
+- [&lpar;Part 1&rpar; Golang Framework Hands-on - KisFlow Streaming Computing Framework - Overview](https://dev.to/aceld/part-1-golang-framework-hands-on-kisflow-streaming-computing-framework-overview-8fh)
+- [Plausible as an alternative to Google Analytics](https://dev.to/polterguy/plausible-as-an-alternative-to-google-analytics-2l1p)
+- [Creating an Animated Loader Using HTML and CSS](https://dev.to/withaarzoo/creating-an-animated-loader-using-html-and-css-57c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
