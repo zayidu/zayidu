@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🫶 The Most Productive Programmers Share This One Thing](https://dev.to/evergrowingdev/the-most-productive-programmers-share-this-one-thing-ejf)
-- [The Adventures of Blink #19: So you wanna be a DevOp? A Practical Guide](https://dev.to/linkbenjamin/the-adventures-of-blink-19-so-you-wanna-be-a-devop-a-practical-guide-4gno)
-- [Introducing usage monitoring in Xata](https://dev.to/xata/introducing-usage-monitoring-in-xata-2d8g)
-- [Nurturing Project Longevity with Dependency Injection in Game Development: A Beginner&#39;s Guide](https://dev.to/ivan-klimenkov/nurturing-project-longevity-with-dependency-injection-in-game-development-a-beginners-guide-23p7)
-- [Understanding Object Storage: A Comprehensive Guide](https://dev.to/hallorzgar/understanding-object-storage-a-comprehensive-guide-2oln)
+- [Expand Your Horizons: Promoting Your Website Beyond Google 🚀](https://dev.to/sh20raj/expand-your-horizons-promoting-your-website-beyond-google-3k1f)
+- [Ibuprofeno.py💊| #84: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-84-explica-este-codigo-python-4p6g)
+- [Interview with Mo Rajabi, co-founder and CEO of Noor](https://dev.to/crabnebula/interview-with-mo-rajabi-co-founder-and-ceo-of-noor-2g3c)
+- [Choosing a CSS selector](https://dev.to/prais_e/choosing-a-css-selector-3m1n)
+- [How To Use AI Developer Tools In 2024](https://dev.to/fanatixan/how-to-use-ai-developer-tools-in-2024-1loo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
