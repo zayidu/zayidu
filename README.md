@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [minimum&lpar;&rpar;, maximum&lpar;&rpar;, kthvalue&lpar;&rpar; and topk&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/minimum-maximum-kthvalue-and-topk-in-pytorch-59ak)
-- [How much Javascript is required to understand React Better .](https://dev.to/justinw7/how-much-javascript-is-required-to-understand-react-better--mc8)
-- [Why in Typescript creating an enum doesn&#39;t need a =, but creating a new type does?](https://dev.to/oleygon/why-in-typescript-creating-an-enum-doesnt-need-a-but-creating-a-new-type-does-42fk)
-- [８章7](https://dev.to/aaattt/8zhang-7-15ln)
-- [463. Island Perimeter](https://dev.to/karleb/463-island-perimeter-2h68)
+- [Build &amp; Deploy Full Stack Link Sharing App Using MERN Stack](https://dev.to/myogeshchavan97/build-deploy-full-stack-link-sharing-app-using-mern-stack-5614)
+- [What are solid principles in JavaScript ?](https://dev.to/krishna7852/what-are-solid-principles-in-javascript--1eec)
+- [Localization Testing in software Development](https://dev.to/morrismoses149/localization-testing-in-software-development-5d6l)
+- [Series Belajar Solid Principle - Open Close Principle &lpar;OCP&rpar;](https://dev.to/julles/series-belajar-solid-principle-open-close-principle-ocp-3jak)
+- [min&lpar;&rpar;, max&lpar;&rpar;, argmin&lpar;&rpar; and argmax&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/min-max-argmin-and-argmax-in-pytorch-2d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
