@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Platform as a Product: Why do we need?](https://dev.to/seal-software/platform-as-a-product-why-do-we-need-28dd)
-- [Scikit-Learn Hello World with Docker Init](https://dev.to/docker/scikit-learn-hello-world-with-docker-init-114n)
-- [Better, Faster Apps with Next.js](https://dev.to/jaydevm/better-faster-apps-with-nextjs-49ln)
-- [Components for Developers: Why I Joined Novu](https://dev.to/novu/components-for-developers-why-i-joined-novu-1egj)
-- [Contributing to Open Source Project ChatCraft](https://dev.to/wanggithub0/contributing-to-open-source-project-chatcraft-1dh3)
+- [Swift: Passing data between view controllers](https://dev.to/anurag31oct/swift-passing-data-between-view-controllers-2jib)
+- [Submission Of Project For Front-end Challenge 2024-Earth Day Edition: Glam up My Markup](https://dev.to/codevsom/submission-of-project-for-front-end-challenge-2024-earth-day-edition-glam-up-my-markup-4l2b)
+- [Expert Tips to Fix Test Automation Mistakes](https://dev.to/jamescantor38/expert-tips-to-fix-test-automation-mistakes-224b)
+- [Functors, Monads and Promises in Functional Programming with JavaScript](https://dev.to/team3/functors-monads-and-promises-in-functional-programming-with-javascript-1pkd)
+- [Error: Cannot find module &#39;/path/.next/build-manifest.json&#39;](https://dev.to/anurag31oct/error-cannot-find-module-pathnextbuild-manifestjson-1mm1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
