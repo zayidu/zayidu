@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ViewComponent over Turbo Stream Broadcasts](https://dev.to/railsdesigner/viewcomponent-over-turbo-stream-broadcasts-36jf)
-- [How does Fetch works exactly?, and how can I use GET method with parameters?](https://dev.to/driver3229/how-does-fetch-works-exactly-and-how-can-i-use-get-method-with-parameters-5b8e)
-- [Interjs The easy to use Javascript framework](https://dev.to/denis_power/interjs-the-easy-to-use-javascript-framework-2enn)
-- [Supabase Storage: now supports the S3 protocol](https://dev.to/supabase/supabase-storage-now-supports-the-s3-protocol-3479)
-- [TIL](https://dev.to/gracedo/til-50df)
+- [How to build your first Tech Community?](https://dev.to/nimit2801/how-to-build-your-first-tech-community-oc7)
+- [Panda CSS Conditions](https://dev.to/_estheradebayo/panda-css-conditions-4fl5)
+- [C#. Kasr sonlarni ifoda qiluvchi malumot turlari](https://dev.to/farkhadk/c-kasr-tiplari-3jg1)
+- [Advanced RAG with guided generation](https://dev.to/neuml/advanced-rag-with-guided-generation-38ca)
+- [Will AI be our next gen?](https://dev.to/supriyajachar/will-ai-be-our-next-gen-195i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
