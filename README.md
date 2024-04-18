@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating your own UI extension points in Umbraco v14 - Part 6: Filters &amp; Conditions](https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-6-filters-conditions-1ojh)
-- [All Your Monitoring Solutions Are Just Wrong](https://dev.to/metis/all-your-monitoring-solutions-are-just-wrong-508o)
-- [Key Features Every B2B Travel Portal Must Have: A Guide for Travel Agencies](https://dev.to/davidsoncliff/key-features-every-b2b-travel-portal-must-have-a-guide-for-travel-agencies-3dfn)
-- [Node.JS - Version 4.3 of Foal framework has been released](https://dev.to/loicpoullain/nodejs-version-43-of-foal-framework-has-been-released-men)
-- [If you are planning to build yet another SaaS boilerplate to earn Internet money, please don&#39;t.](https://dev.to/alexanderisora/if-you-are-planning-to-build-yet-another-saas-boilerplate-to-earn-internet-money-please-dont-834)
+- [Earth Day Celebration Landing Page submission](https://dev.to/dhodvogner/earth-day-celebration-landing-page-submission-4ad5)
+- [Manage a portfolio website with lots of projects – ortfo](https://dev.to/ewen-lbh/manage-a-portfolio-website-with-lots-of-projects-ortfo-5aic)
+- [How to work with shared dev clusters &lpar;and why&rpar; - Part II: Why backwards compatibility is overrated](https://dev.to/makky/how-to-work-with-shared-dev-clusters-and-why-part-ii-why-backwards-compatibility-is-overrated-1cd9)
+- [KMDS, a package for knowledge managment in data science](https://dev.to/rajivsam/kmds-a-package-for-knowledge-managment-in-data-science-48fd)
+- [From Google Docs to Mkdocs: Reasons Behind Switching?](https://dev.to/ikhaledabdelfattah/from-google-docs-to-mkdocs-reasons-behind-switching-5doa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
