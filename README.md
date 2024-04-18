@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Routing, Client Side](https://dev.to/gutmaster/routing-client-side-5ben)
+- [#4 Operadores - Entendendo o JavaScript](https://dev.to/joaopedrov0/4-operadores-entendendo-o-javascript-20hm)
 - [Debug Typescript using Node Runtime Environment in VS Code](https://dev.to/husnain/debug-typescript-using-node-runtime-environment-in-vs-code-ik0)
 - [Kademlia - Routing - Part 1](https://dev.to/ckousik/kademlia-routing-part-1-4mmf)
 - [Day 946 : Understand](https://dev.to/dwane/day-946-understand-2hdh)
-- [Understanding OAuth 2.0 and OpenID Connect](https://dev.to/kartikmehta8/understanding-oauth-20-and-openid-connect-1ppo)
-- [This distro finally fixes Linux](https://dev.to/jasper-at-windswept/this-distro-finally-fixes-linux-1ac9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
