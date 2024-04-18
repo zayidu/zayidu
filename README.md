@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build your first Tech Community?](https://dev.to/nimit2801/how-to-build-your-first-tech-community-oc7)
-- [Panda CSS Conditions](https://dev.to/_estheradebayo/panda-css-conditions-4fl5)
-- [C#. Kasr sonlarni ifoda qiluvchi malumot turlari](https://dev.to/farkhadk/c-kasr-tiplari-3jg1)
-- [Advanced RAG with guided generation](https://dev.to/neuml/advanced-rag-with-guided-generation-38ca)
-- [Will AI be our next gen?](https://dev.to/supriyajachar/will-ai-be-our-next-gen-195i)
+- [Level Up Your JavaScript: Mastering Object Property Checks.](https://dev.to/developerhub/level-up-your-javascript-mastering-object-property-checks-1d4h)
+- [IIoT Security: 5 Essential Steps to Secure your IoT Devices and OS](https://dev.to/yayabobi/iiot-security-5-essential-steps-to-secure-your-iot-devices-and-os-1kn0)
+- [Set cron job in cpanel](https://dev.to/dgihost/set-cron-job-in-cpanel-2ojf)
+- [Middleware in .NET 8](https://dev.to/admirmujkic/middleware-in-net-8-4im4)
+- [Ensuring Software Excellence with Testing Your Code](https://dev.to/admirmujkic/ensuring-software-excellence-with-testing-your-code-h9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
