@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to debug i18n? 🤔](https://dev.to/grech_ca/how-to-debug-i18n-118e)
-- [7 ways to center a div 🔥](https://dev.to/madhusaini22/7-ways-to-center-a-div-14np)
-- [Reddit CPO talks new features — better translations, moderation and dev tools](https://dev.to/andylarkin677/reddit-cpo-talks-new-features-better-translations-moderation-and-dev-tools-3nma)
-- [The best testing setup for frontends, with Playwright and NextJS](https://dev.to/radubrehar/the-best-testing-setup-for-frontends-with-playwright-and-nextjs-lfc)
-- [Aktualisierungen der Event Engine und der Event Listener](https://dev.to/pubnub-de/aktualisierungen-der-event-engine-und-der-event-listener-1pom)
+- [Best Animation Generator Tools](https://dev.to/tubwe12/best-animation-generator-tools-3ief)
+- [Understanding Java Exceptions: A Guide with Practical Examples](https://dev.to/dbillion/understanding-java-exceptions-a-guide-with-practical-examples-n3o)
+- [E-Commerce Tailwind HTML Website Template-Freshcart](https://dev.to/easetemplates/e-commerce-tailwind-html-website-template-freshcart-bba)
+- [Quick Databricks&#39; Cloning Tip](https://dev.to/sqlinsix/quick-databricks-cloning-tip-1bj9)
+- [Getting Started with VR: A Comprehensive Beginner&#39;s Handbook](https://dev.to/donnalenk0420/getting-started-with-vr-a-comprehensive-beginners-handbook-9pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
