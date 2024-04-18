@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sloan&#39;s Inbox: Pursuing passion or practicality?](https://dev.to/devteam/sloans-inbox-pursuing-passion-or-practicality-2fc7)
-- [Time Data Series: Working with PHP Zmanim](https://dev.to/adatole/time-data-series-working-with-php-zmanim-3na0)
-- [How to build a custom GPT: Step-by-step tutorial](https://dev.to/logrocket/how-to-build-a-custom-gpt-step-by-step-tutorial-32hp)
-- [Draw a dynamic SVG pattern with Vue](https://dev.to/capsulescodes/draw-a-dynamic-svg-pattern-with-vue-2d2l)
-- [Tracking Custom Metrics in Python with AppSignal](https://dev.to/appsignal/tracking-custom-metrics-in-python-with-appsignal-2oi2)
+- [Platform as a Product: Why do we need?](https://dev.to/seal-software/platform-as-a-product-why-do-we-need-28dd)
+- [Scikit-Learn Hello World with Docker Init](https://dev.to/docker/scikit-learn-hello-world-with-docker-init-114n)
+- [Better, Faster Apps with Next.js](https://dev.to/jaydevm/better-faster-apps-with-nextjs-49ln)
+- [Components for Developers: Why I Joined Novu](https://dev.to/novu/components-for-developers-why-i-joined-novu-1egj)
+- [Contributing to Open Source Project ChatCraft](https://dev.to/wanggithub0/contributing-to-open-source-project-chatcraft-1dh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
