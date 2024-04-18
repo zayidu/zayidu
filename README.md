@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Expand Your Horizons: Promoting Your Website Beyond Google 🚀](https://dev.to/sh20raj/expand-your-horizons-promoting-your-website-beyond-google-3k1f)
-- [Ibuprofeno.py💊| #84: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-84-explica-este-codigo-python-4p6g)
-- [Interview with Mo Rajabi, co-founder and CEO of Noor](https://dev.to/crabnebula/interview-with-mo-rajabi-co-founder-and-ceo-of-noor-2g3c)
-- [Choosing a CSS selector](https://dev.to/prais_e/choosing-a-css-selector-3m1n)
-- [How To Use AI Developer Tools In 2024](https://dev.to/fanatixan/how-to-use-ai-developer-tools-in-2024-1loo)
+- [Sloan&#39;s Inbox: Pursuing passion or practicality?](https://dev.to/devteam/sloans-inbox-pursuing-passion-or-practicality-2fc7)
+- [Time Data Series: Working with PHP Zmanim](https://dev.to/adatole/time-data-series-working-with-php-zmanim-3na0)
+- [How to build a custom GPT: Step-by-step tutorial](https://dev.to/logrocket/how-to-build-a-custom-gpt-step-by-step-tutorial-32hp)
+- [Draw a dynamic SVG pattern with Vue](https://dev.to/capsulescodes/draw-a-dynamic-svg-pattern-with-vue-2d2l)
+- [Tracking Custom Metrics in Python with AppSignal](https://dev.to/appsignal/tracking-custom-metrics-in-python-with-appsignal-2oi2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
