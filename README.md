@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FreeBSD for Devs](https://dev.to/scovl/freebsd-for-devs-3n0k)
-- [🔬 Fiches emploi Nouvelle-Calédonie et codes ROME](https://dev.to/adriens/fiches-emploi-nouvelle-caledonie-et-codes-rome-29d8)
-- [SObjectizer Tales – 28. If I had a magic wand…](https://dev.to/ilpropheta/sobjectizer-tales-28-if-i-had-a-magic-wand-323h)
-- [DevLog #13 - Role of the Product owner](https://dev.to/amilarangana/devlog-13-role-of-the-product-owner-ci1)
-- [Monitoring MySQL with Prometheus and Grafana in Docker](https://dev.to/mattdark/monitoring-mysql-with-prometheus-and-grafana-in-docker-1ij7)
+- [This distro finally fixes Linux](https://dev.to/jasper-at-windswept/this-distro-finally-fixes-linux-1ac9)
+- [Using migrations with Golang](https://dev.to/wiliamvj/using-migrations-with-golang-3449)
+- [Utilizando &quot;createAsyncThunk&quot; do Redux para fazer chamada async](https://dev.to/devteles/utilizando-createasyncthunk-do-redux-para-fazer-chamada-async-lkp)
+- [Implementing Internationalization &lpar;i18n&rpar; in Next.js 14 using App Router](https://dev.to/fabrikapp/implementing-internationalization-i18n-in-nextjs-14-using-app-router-3mic)
+- [How to dynamically import Swiper.js in Next.js?](https://dev.to/oleygon/how-to-dynamically-import-swiperjs-in-nextjs-4k6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
