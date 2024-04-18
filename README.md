@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Swift: Passing data between view controllers](https://dev.to/anurag31oct/swift-passing-data-between-view-controllers-2jib)
-- [Submission Of Project For Front-end Challenge 2024-Earth Day Edition: Glam up My Markup](https://dev.to/codevsom/submission-of-project-for-front-end-challenge-2024-earth-day-edition-glam-up-my-markup-4l2b)
-- [Expert Tips to Fix Test Automation Mistakes](https://dev.to/jamescantor38/expert-tips-to-fix-test-automation-mistakes-224b)
-- [Functors, Monads and Promises in Functional Programming with JavaScript](https://dev.to/team3/functors-monads-and-promises-in-functional-programming-with-javascript-1pkd)
-- [Error: Cannot find module &#39;/path/.next/build-manifest.json&#39;](https://dev.to/anurag31oct/error-cannot-find-module-pathnextbuild-manifestjson-1mm1)
+- [ViewComponent over Turbo Stream Broadcasts](https://dev.to/railsdesigner/viewcomponent-over-turbo-stream-broadcasts-36jf)
+- [How does Fetch works exactly?, and how can I use GET method with parameters?](https://dev.to/driver3229/how-does-fetch-works-exactly-and-how-can-i-use-get-method-with-parameters-5b8e)
+- [Interjs The easy to use Javascript framework](https://dev.to/denis_power/interjs-the-easy-to-use-javascript-framework-2enn)
+- [Supabase Storage: now supports the S3 protocol](https://dev.to/supabase/supabase-storage-now-supports-the-s3-protocol-3479)
+- [TIL](https://dev.to/gracedo/til-50df)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
