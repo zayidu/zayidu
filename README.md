@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When to Hire More Engineers?](https://dev.to/devteam/when-to-hire-more-engineers-1nhm)
-- [Top 12 Mind Mapping Apps for Enhanced Productivity](https://dev.to/stan8086/top-12-mind-mapping-apps-for-enhanced-productivity-1o3)
-- [&lpar;Part 1&rpar; Golang Framework Hands-on - KisFlow Streaming Computing Framework - Overview](https://dev.to/aceld/part-1-golang-framework-hands-on-kisflow-streaming-computing-framework-overview-8fh)
-- [Plausible as an alternative to Google Analytics](https://dev.to/polterguy/plausible-as-an-alternative-to-google-analytics-2l1p)
-- [Creating an Animated Loader Using HTML and CSS](https://dev.to/withaarzoo/creating-an-animated-loader-using-html-and-css-57c1)
+- [Creating your own UI extension points in Umbraco v14 - Part 6: Filters &amp; Conditions](https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-6-filters-conditions-1ojh)
+- [All Your Monitoring Solutions Are Just Wrong](https://dev.to/metis/all-your-monitoring-solutions-are-just-wrong-508o)
+- [Key Features Every B2B Travel Portal Must Have: A Guide for Travel Agencies](https://dev.to/davidsoncliff/key-features-every-b2b-travel-portal-must-have-a-guide-for-travel-agencies-3dfn)
+- [Node.JS - Version 4.3 of Foal framework has been released](https://dev.to/loicpoullain/nodejs-version-43-of-foal-framework-has-been-released-men)
+- [If you are planning to build yet another SaaS boilerplate to earn Internet money, please don&#39;t.](https://dev.to/alexanderisora/if-you-are-planning-to-build-yet-another-saas-boilerplate-to-earn-internet-money-please-dont-834)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
