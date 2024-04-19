@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Search Functionality](https://dev.to/minddd64/understanding-search-functionality-58bn)
-- [How to run PostgreSQL and pgAdmin on Docker?](https://dev.to/yogesnsamy/how-to-run-postgresql-and-pgadmin-on-docker-2glg)
-- [We&#39;re working on better build artifact management for app and game devs, and need your input](https://dev.to/buildstash/were-working-on-better-build-artifact-management-for-app-and-game-devs-and-need-your-input-35k3)
-- [Adapting ZenStack to the Edge: Our Struggles and Learnings](https://dev.to/zenstack/adapting-zenstack-to-the-edge-our-struggles-and-learnings-h9)
-- [Automatic Application Versioning](https://dev.to/joshuaamaju/automatic-application-versioning-19kf)
+- [Ibuprofeno.py💊| #85: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-85-explica-este-codigo-python-5180)
+- [React Hook Form&#39;s Ritual: Elegant Forms in React](https://dev.to/kigazon/react-hook-forms-ritual-elegant-forms-in-react-af2)
+- [Integrating Georeferenced Maps: Passing Data from Firebase Backend to Frontend](https://dev.to/saadiahouria/integrating-georeferenced-maps-passing-data-from-firebase-backend-to-frontend-3koa)
+- [Deep Dive with Ansible: Patching an Ansible Collection](https://dev.to/shandesai/deep-dive-with-ansible-patching-an-ansible-collection-4e8m)
+- [Unleashing Innovation: Sachin Dev Duggal&#39;s Builder.ai with Natasha Pushes the Boundaries of Gen AI and RNN](https://dev.to/triptivermaa01/unleashing-innovation-sachin-dev-duggals-builderai-with-natasha-pushes-the-boundaries-of-gen-ai-and-rnn-8c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
