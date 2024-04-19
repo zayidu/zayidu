@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [String Methods in C#](https://dev.to/kudratswe/string-methods-in-c-4eo6)
-- [How to Transpose Rows to Columns on Multiple Fields in Each Group](https://dev.to/esproc_spl/how-to-transpose-rows-to-columns-on-multiple-fields-in-each-group-1nlb)
-- [Mastering SOLID Principles](https://dev.to/paulund/mastering-solid-principles-2c7k)
-- [Delay-Based Attack Payload](https://dev.to/attaullahshafiq10/delay-based-attack-payload-1ilo)
-- [The Subtle Case For and Against React](https://dev.to/rrsai/the-subtle-case-for-and-against-react-apf)
+- [How Would I Learn React.js If I Have to Start Over?](https://dev.to/shariqahmed525/how-would-i-learn-reactjs-if-i-have-to-start-over-3aml)
+- [Optimizing CPU Load in C#: Key Approaches and Strategies](https://dev.to/devsdaddy/optimizing-cpu-load-in-c-key-approaches-and-strategies-3fk3)
+- [Implement React v18 from Scratch Using WASM and Rust - [5] Implementation of Complete Work Phase of Render Process](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-5-implementation-of-complete-work-phase-of-render-process-35fo)
+- [Importance of Cyber Security in Business Continuity](https://dev.to/calsoftinc/importance-of-cyber-security-in-business-continuity-4o85)
+- [Adding flexibility to your deployments with Lambda Web Adapter](https://dev.to/aws-builders/adding-flexibility-to-your-deployments-with-lambda-web-adapter-42m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
