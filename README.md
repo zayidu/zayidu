@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Waku a new NextJS?](https://dev.to/codeparrot/is-waku-a-new-nextjs-1gig)
-- [&lt;self-close /&gt; or &lt;not-to-self-close&gt;&lt;/not-to-self-close&gt;](https://dev.to/dhodvogner/or-1dpb)
-- [Hello World but published](https://dev.to/mqtri/hello-world-but-published-bha)
-- [Is it better to integrate AI even though you don&#39;t have the good grasp in a framework or language?](https://dev.to/ke1ru/is-it-better-to-integrate-ai-even-though-you-dont-have-the-good-grasp-in-a-framework-or-language-4o2h)
-- [Build an End-to-End AWS Web Application](https://dev.to/fo_cused/build-an-end-to-end-aws-web-application-579p)
+- [API Integration Testing: Ensuring Robustness and Reliability](https://dev.to/apidna/api-integration-testing-ensuring-robustness-and-reliability-2ebm)
+- [Using Amazon S3 with Amazon CloudFront](https://dev.to/fo_cused/using-amazon-s3-with-amazon-cloudfront-1728)
+- [What is a Design System and Why Is It Important for Software Engineering?](https://dev.to/codebycorey/what-is-a-design-system-and-why-is-it-important-for-software-engineering-4mdd)
+- [Security Operations Center &lpar;SOC&rpar; Roles and Responsibilities](https://dev.to/clouddefenseai/security-operations-center-soc-roles-and-responsibilities-2l2i)
+- [The three dots &lpar;...&rpar; in JavaScript](https://dev.to/anuragaffection/the-three-dots-in-javascript-b32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
