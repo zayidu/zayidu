@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Tutorials vs. Documentation: Which is Better for Learning?](https://dev.to/sotergreco/coding-tutorials-vs-documentation-which-is-better-for-learning-3nd4)
-- [Expo Is The Peep Squeak To DroidScript.](https://dev.to/oarabiledev/expo-is-the-peep-squeak-to-droidscript-2mce)
-- [Digital Detox &lpar;Bite-sized Article&rpar;](https://dev.to/koshirok096/digital-detox-bite-sized-article-187i)
-- [Subscription app &lpar;part 5&rpar;](https://dev.to/hestia/subscription-app-part-5-4cgk)
-- [How I feel about Women Who Code shutting down](https://dev.to/jess/how-i-feel-about-women-who-code-shutting-down-30oj)
+- [Code with Musa - 2](https://dev.to/musaaj/code-with-musa-2-405j)
+- [Implement Merge-Sort in python](https://dev.to/mainpynerds/implement-merge-sort-in-python-537b)
+- [csv module in Python](https://dev.to/mainpynerds/csv-module-in-python-kb5)
+- [Building a Production-Ready Web App with T3 Stack](https://dev.to/fabrikapp/building-a-production-ready-web-app-with-t3-stack-4h9e)
+- [Effect 3.0](https://dev.to/effect/effect-30-2mp2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
