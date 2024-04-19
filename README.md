@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Would I Learn React.js If I Have to Start Over?](https://dev.to/shariqahmed525/how-would-i-learn-reactjs-if-i-have-to-start-over-3aml)
-- [Optimizing CPU Load in C#: Key Approaches and Strategies](https://dev.to/devsdaddy/optimizing-cpu-load-in-c-key-approaches-and-strategies-3fk3)
-- [Implement React v18 from Scratch Using WASM and Rust - [5] Implementation of Complete Work Phase of Render Process](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-5-implementation-of-complete-work-phase-of-render-process-35fo)
-- [Importance of Cyber Security in Business Continuity](https://dev.to/calsoftinc/importance-of-cyber-security-in-business-continuity-4o85)
-- [Adding flexibility to your deployments with Lambda Web Adapter](https://dev.to/aws-builders/adding-flexibility-to-your-deployments-with-lambda-web-adapter-42m2)
+- [Animation can make bell🔔 much more than emoji!](https://dev.to/shhdharmen/animation-can-make-bell-much-more-than-emoji-55op)
+- [Avoiding lock-in for your image pipeline with Nuxt Image and Netlify Image CDN](https://dev.to/netlify/avoiding-lock-in-for-your-image-pipeline-with-nuxt-image-and-netlify-image-cdn-3anc)
+- [Best Practices for Data Cleaning and Preparation](https://dev.to/aaronsmithcs/best-practices-for-data-cleaning-and-preparation-118c)
+- [Bitcoin Halving 2024: How It Impacts the NFT Ecosystem?](https://dev.to/nft_research/bitcoin-halving-2024-how-it-impacts-the-nft-ecosystem-jf3)
+- [How to Implement Face Detection in React Native Using React Native Vision Camera](https://dev.to/thelamina/how-to-implement-face-detection-in-react-native-using-react-native-vision-camera-58ff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
