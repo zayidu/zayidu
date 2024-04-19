@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Merge vs. Rebase: Key Differences](https://dev.to/codeparrot/git-merge-vs-rebase-key-differences-1pb4)
-- [Mastering the Art of React Native: A Guide to Excelling as a Front-End Engineer](https://dev.to/epakconsultant/mastering-the-art-of-react-native-a-guide-to-excelling-as-a-front-end-engineer-4mb2)
-- [Path Sum | LeetCode | Java](https://dev.to/tanujav/path-sum-leetcode-java-3837)
-- [Operators in C#](https://dev.to/kudratswe/operators-in-c-1c63)
-- [Nuget support will make Selenium coding simpler!](https://dev.to/vinzh05/nuget-support-will-make-selenium-coding-simpler-2n6m)
+- [Understanding the Basics of Runtime Environment](https://dev.to/madhusaini22/understanding-the-basics-of-runtime-environment-59c5)
+- [Next.js Authentication](https://dev.to/syedmuhammadaliraza/nextjs-authentication-3oc7)
+- [State Scope with Providers - Next.js with Jotai](https://dev.to/alexteng/state-scope-with-providers-nextjs-with-jotai-1i6f)
+- [Quickly add 2FA &lpar;email&rpar; for your custom Django admin](https://dev.to/rockandnull/quickly-add-2fa-email-for-your-custom-django-admin-20ig)
+- [On-call Manual: Handling Incidents](https://dev.to/moozzyk/on-call-manual-handling-incidents-7j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
