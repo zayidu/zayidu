@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🗞 Rapyd Developer Newsletter: April 2024 Payroll Payment Processing + New Design for Account Creation](https://dev.to/rapyd/rapyd-developer-newsletter-april-2024-payroll-payment-processing-new-design-for-account-creation-41md)
-- [Setting up a React project using Vite + TypeScript + Vitest](https://dev.to/janoskocs/setting-up-a-react-project-using-vite-typescript-vitest-2gl2)
-- [200. Number of Islands](https://dev.to/mdarifulhaque/200-number-of-islands-5ak4)
-- [Dream Project to Build](https://dev.to/qyrusai/dream-project-to-build-4i02)
-- [Learning New Things](https://dev.to/rohiitbagal/learning-new-things-2m4o)
+- [Scrape Redfin Property Data](https://dev.to/crawlbase/scrape-redfin-property-data-41hd)
+- [Shortest pathfinder in React using BFS](https://dev.to/coderx/shortest-pathfinder-in-react-using-bfs-545c)
+- [Drag and Drop file upload with progress bar in ReactJS](https://dev.to/coderx/drag-and-drop-file-upload-with-progress-bar-in-reactjs-570e)
+- [HTML tag attributes, USE THEM!](https://dev.to/zachzugsanders/html-tag-attributes-use-them-50dp)
+- [Docker Architecture In Easy Mode](https://dev.to/iamzahid/docker-architecture-in-easy-mode-a78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
