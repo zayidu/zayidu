@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #85: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-85-explica-este-codigo-python-5180)
-- [React Hook Form&#39;s Ritual: Elegant Forms in React](https://dev.to/kigazon/react-hook-forms-ritual-elegant-forms-in-react-af2)
-- [Integrating Georeferenced Maps: Passing Data from Firebase Backend to Frontend](https://dev.to/saadiahouria/integrating-georeferenced-maps-passing-data-from-firebase-backend-to-frontend-3koa)
-- [Deep Dive with Ansible: Patching an Ansible Collection](https://dev.to/shandesai/deep-dive-with-ansible-patching-an-ansible-collection-4e8m)
-- [Unleashing Innovation: Sachin Dev Duggal&#39;s Builder.ai with Natasha Pushes the Boundaries of Gen AI and RNN](https://dev.to/triptivermaa01/unleashing-innovation-sachin-dev-duggals-builderai-with-natasha-pushes-the-boundaries-of-gen-ai-and-rnn-8c9)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2l0b)
+- [This Week In React #182: v18.3, useDeferredValue, 3D, Metro, Worklets, TC39, TypeScript, Effect, Rspack, GraphQL...](https://dev.to/sebastienlorber/this-week-in-react-182-v183-usedeferredvalue-3d-metro-worklets-tc39-typescript-effect-rspack-graphql-1dpd)
+- [Strategies for Tagging ModelKits](https://dev.to/kitops/strategies-for-tagging-modelkits-208j)
+- [How to create a slick CSS animation from Jackie Brown](https://dev.to/robole/how-to-create-a-slick-css-animation-from-jackie-brown-3j0d)
+- [Python vs JS vs java vs ...](https://dev.to/adderek/python-vs-js-vs-java-vs--4dde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
