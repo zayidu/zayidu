@@ -8,10 +8,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [React x ChakraUI: How to Craft Stylish PDFs](https://dev.to/onedoc/react-x-chakraui-how-to-craft-stylish-pdfs-1i67)
+- [String Manipulation Tricks &lpar;Day 1&rpar;](https://dev.to/fluentfuture/string-manipulation-tricks-day-1-2ep1)
 - [Vamos Falar de Testes?](https://dev.to/flutterbrasil/vamos-falar-de-testes-5b96)
 - [React Memo Mayhem: Optimizing Functional Components](https://dev.to/kigazon/react-memo-mayhem-optimizing-functional-components-4a9p)
 - [Learning React](https://dev.to/dcjacoby1/learning-react-5bj8)
-- [Exploring Vue.js Directives](https://dev.to/kartikmehta8/exploring-vuejs-directives-jc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
