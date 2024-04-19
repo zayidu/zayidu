@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript utility Refine&lt;T, P&gt;](https://dev.to/sylvaindethier/typescript-utility-refinet-p-2e2h)
-- [Var, Let and Const](https://dev.to/ticha/var-let-and-const-4l9n)
-- [The Concept of Expansion in the Linux Command Line](https://dev.to/codedken/the-concept-of-expansion-in-the-linux-command-line-13kb)
-- [Mastering React Hooks: A Comprehensive Guide to Functional Components](https://dev.to/antonmartyniuk/mastering-react-hooks-a-comprehensive-guide-to-functional-components-3lm8)
-- [Building Responsive Design Using Viewport CSS Units](https://dev.to/antonmartyniuk/building-responsive-design-using-viewport-css-units-4gne)
+- [Coding Tutorials vs. Documentation: Which is Better for Learning?](https://dev.to/sotergreco/coding-tutorials-vs-documentation-which-is-better-for-learning-3nd4)
+- [Expo Is The Peep Squeak To DroidScript.](https://dev.to/oarabiledev/expo-is-the-peep-squeak-to-droidscript-2mce)
+- [Digital Detox &lpar;Bite-sized Article&rpar;](https://dev.to/koshirok096/digital-detox-bite-sized-article-187i)
+- [Subscription app &lpar;part 5&rpar;](https://dev.to/hestia/subscription-app-part-5-4cgk)
+- [How I feel about Women Who Code shutting down](https://dev.to/jess/how-i-feel-about-women-who-code-shutting-down-30oj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
