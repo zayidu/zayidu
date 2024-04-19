@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scrape Redfin Property Data](https://dev.to/crawlbase/scrape-redfin-property-data-41hd)
-- [Shortest pathfinder in React using BFS](https://dev.to/coderx/shortest-pathfinder-in-react-using-bfs-545c)
-- [Drag and Drop file upload with progress bar in ReactJS](https://dev.to/coderx/drag-and-drop-file-upload-with-progress-bar-in-reactjs-570e)
-- [HTML tag attributes, USE THEM!](https://dev.to/zachzugsanders/html-tag-attributes-use-them-50dp)
-- [Docker Architecture In Easy Mode](https://dev.to/iamzahid/docker-architecture-in-easy-mode-a78)
+- [TypeScript utility Refine&lt;T, P&gt;](https://dev.to/sylvaindethier/typescript-utility-refinet-p-2e2h)
+- [Var, Let and Const](https://dev.to/ticha/var-let-and-const-4l9n)
+- [The Concept of Expansion in the Linux Command Line](https://dev.to/codedken/the-concept-of-expansion-in-the-linux-command-line-13kb)
+- [Mastering React Hooks: A Comprehensive Guide to Functional Components](https://dev.to/antonmartyniuk/mastering-react-hooks-a-comprehensive-guide-to-functional-components-3lm8)
+- [Building Responsive Design Using Viewport CSS Units](https://dev.to/antonmartyniuk/building-responsive-design-using-viewport-css-units-4gne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
