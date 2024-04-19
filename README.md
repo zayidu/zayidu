@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Playful File Locker with GoFr](https://dev.to/ssshekhu53/building-a-playful-file-locker-with-gofr-3f8a)
-- [Llama3 License Explained](https://dev.to/llm_explorer/llama3-license-explained-2915)
-- [Infinite Scroll using Angular](https://dev.to/rj_skhosana/infinite-scroll-using-angular-52mg)
-- [Mixins without side-effects](https://dev.to/dariomannu/mixins-without-side-effects-964)
-- [Arka Paymaster Service: Empowering Devs with Open-Source Account Abstraction Tool](https://dev.to/etherspot/arka-paymaster-service-empowering-devs-with-open-source-account-abstraction-tool-56bc)
+- [Understanding Search Functionality](https://dev.to/minddd64/understanding-search-functionality-58bn)
+- [How to run PostgreSQL and pgAdmin on Docker?](https://dev.to/yogesnsamy/how-to-run-postgresql-and-pgadmin-on-docker-2glg)
+- [We&#39;re working on better build artifact management for app and game devs, and need your input](https://dev.to/buildstash/were-working-on-better-build-artifact-management-for-app-and-game-devs-and-need-your-input-35k3)
+- [Adapting ZenStack to the Edge: Our Struggles and Learnings](https://dev.to/zenstack/adapting-zenstack-to-the-edge-our-struggles-and-learnings-h9)
+- [Automatic Application Versioning](https://dev.to/joshuaamaju/automatic-application-versioning-19kf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
