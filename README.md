@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Your Boss Annoying?](https://dev.to/devteam/is-your-boss-annoying-24n5)
-- [How to display the entire content of abbreviated text when hovering?](https://dev.to/skie1997/how-to-display-the-entire-content-of-abbreviated-text-when-hovering-5b0h)
-- [The Power of Local Reviews: A Guide to SEO and Reputation Management](https://dev.to/anishajoshi6199/the-power-of-local-reviews-a-guide-to-seo-and-reputation-management-3fdm)
-- [What are the HTML tags which have no ends?](https://dev.to/techcomposesolutions/what-are-the-html-tags-which-have-no-ends-4lij)
-- [Ultimate Guide to Choosing the Right Accounting Software for Your Business](https://dev.to/jasskarley/ultimate-guide-to-choosing-the-right-accounting-software-for-your-business-3943)
+- [String Methods in C#](https://dev.to/kudratswe/string-methods-in-c-4eo6)
+- [How to Transpose Rows to Columns on Multiple Fields in Each Group](https://dev.to/esproc_spl/how-to-transpose-rows-to-columns-on-multiple-fields-in-each-group-1nlb)
+- [Mastering SOLID Principles](https://dev.to/paulund/mastering-solid-principles-2c7k)
+- [Delay-Based Attack Payload](https://dev.to/attaullahshafiq10/delay-based-attack-payload-1ilo)
+- [The Subtle Case For and Against React](https://dev.to/rrsai/the-subtle-case-for-and-against-react-apf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
