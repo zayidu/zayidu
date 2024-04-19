@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API Integration Testing: Ensuring Robustness and Reliability](https://dev.to/apidna/api-integration-testing-ensuring-robustness-and-reliability-2ebm)
-- [Using Amazon S3 with Amazon CloudFront](https://dev.to/fo_cused/using-amazon-s3-with-amazon-cloudfront-1728)
-- [What is a Design System and Why Is It Important for Software Engineering?](https://dev.to/codebycorey/what-is-a-design-system-and-why-is-it-important-for-software-engineering-4mdd)
-- [Security Operations Center &lpar;SOC&rpar; Roles and Responsibilities](https://dev.to/clouddefenseai/security-operations-center-soc-roles-and-responsibilities-2l2i)
-- [The three dots &lpar;...&rpar; in JavaScript](https://dev.to/anuragaffection/the-three-dots-in-javascript-b32)
+- [Mastering Kubernetes Readiness Probes: A Comprehensive Guide](https://dev.to/adarshbp/mastering-kubernetes-readiness-probes-a-comprehensive-guide-2g2a)
+- [Benefits of Attending IT Conferences: Expanding Knowledge, Building Networks, and Finding Inspiration](https://dev.to/wlepczynski/benefits-of-attending-it-conferences-expanding-knowledge-building-networks-and-finding-inspiration-4pi1)
+- [Learning AWS Day by Day — Day 41 — Amazon Aurora — Part 2](https://dev.to/rksalo88/learning-aws-day-by-day-day-41-amazon-aurora-part-2-169p)
+- [Add Friend feature with same button](https://dev.to/shivamyadav/add-friend-feature-with-same-button-4hmj)
+- [Sorting Algorithms Performance Analysis](https://dev.to/senseei/sorting-algorithms-performance-analysis-5c54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
