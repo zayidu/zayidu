@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2l0b)
-- [This Week In React #182: v18.3, useDeferredValue, 3D, Metro, Worklets, TC39, TypeScript, Effect, Rspack, GraphQL...](https://dev.to/sebastienlorber/this-week-in-react-182-v183-usedeferredvalue-3d-metro-worklets-tc39-typescript-effect-rspack-graphql-1dpd)
-- [Strategies for Tagging ModelKits](https://dev.to/kitops/strategies-for-tagging-modelkits-208j)
-- [How to create a slick CSS animation from Jackie Brown](https://dev.to/robole/how-to-create-a-slick-css-animation-from-jackie-brown-3j0d)
-- [Python vs JS vs java vs ...](https://dev.to/adderek/python-vs-js-vs-java-vs--4dde)
+- [Is Waku a new NextJS?](https://dev.to/codeparrot/is-waku-a-new-nextjs-1gig)
+- [&lt;self-close /&gt; or &lt;not-to-self-close&gt;&lt;/not-to-self-close&gt;](https://dev.to/dhodvogner/or-1dpb)
+- [Hello World but published](https://dev.to/mqtri/hello-world-but-published-bha)
+- [Is it better to integrate AI even though you don&#39;t have the good grasp in a framework or language?](https://dev.to/ke1ru/is-it-better-to-integrate-ai-even-though-you-dont-have-the-good-grasp-in-a-framework-or-language-4o2h)
+- [Build an End-to-End AWS Web Application](https://dev.to/fo_cused/build-an-end-to-end-aws-web-application-579p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
