@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Kubernetes Readiness Probes: A Comprehensive Guide](https://dev.to/adarshbp/mastering-kubernetes-readiness-probes-a-comprehensive-guide-2g2a)
-- [Benefits of Attending IT Conferences: Expanding Knowledge, Building Networks, and Finding Inspiration](https://dev.to/wlepczynski/benefits-of-attending-it-conferences-expanding-knowledge-building-networks-and-finding-inspiration-4pi1)
-- [Learning AWS Day by Day — Day 41 — Amazon Aurora — Part 2](https://dev.to/rksalo88/learning-aws-day-by-day-day-41-amazon-aurora-part-2-169p)
-- [Add Friend feature with same button](https://dev.to/shivamyadav/add-friend-feature-with-same-button-4hmj)
-- [Sorting Algorithms Performance Analysis](https://dev.to/senseei/sorting-algorithms-performance-analysis-5c54)
+- [Dive into Flutter for Web](https://dev.to/alaaelbarasi/dive-into-flutter-for-web-4me1)
+- [Does Data Structures and Algorithms Matter in Backend? No BS Answer!](https://dev.to/louaiboumediene/does-data-structures-and-algorithms-matter-in-backend-no-bs-answer-f7c)
+- [BlogWithMe ⚡](https://dev.to/salika_dave/blogwithme-324i)
+- [API simples que gera arquivos de forma assíncrona, com Java e Spring? Aqui tem!](https://dev.to/pedronandi/api-simples-que-gera-arquivos-de-forma-assincrona-com-java-e-spring-aqui-tem-6oo)
+- [Docker Log Observability: Analyzing Container Logs in HashiCorp Nomad with Vector, Loki, and Grafana](https://dev.to/justinepdevasia/docker-log-observability-analyzing-container-logs-in-hashicorp-nomad-with-vector-loki-and-grafana-4dp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
