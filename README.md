@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dive into Flutter for Web](https://dev.to/alaaelbarasi/dive-into-flutter-for-web-4me1)
-- [Does Data Structures and Algorithms Matter in Backend? No BS Answer!](https://dev.to/louaiboumediene/does-data-structures-and-algorithms-matter-in-backend-no-bs-answer-f7c)
-- [BlogWithMe ⚡](https://dev.to/salika_dave/blogwithme-324i)
-- [API simples que gera arquivos de forma assíncrona, com Java e Spring? Aqui tem!](https://dev.to/pedronandi/api-simples-que-gera-arquivos-de-forma-assincrona-com-java-e-spring-aqui-tem-6oo)
-- [Docker Log Observability: Analyzing Container Logs in HashiCorp Nomad with Vector, Loki, and Grafana](https://dev.to/justinepdevasia/docker-log-observability-analyzing-container-logs-in-hashicorp-nomad-with-vector-loki-and-grafana-4dp4)
+- [🗞 Rapyd Developer Newsletter: April 2024 Payroll Payment Processing + New Design for Account Creation](https://dev.to/rapyd/rapyd-developer-newsletter-april-2024-payroll-payment-processing-new-design-for-account-creation-41md)
+- [Setting up a React project using Vite + TypeScript + Vitest](https://dev.to/janoskocs/setting-up-a-react-project-using-vite-typescript-vitest-2gl2)
+- [200. Number of Islands](https://dev.to/mdarifulhaque/200-number-of-islands-5ak4)
+- [Dream Project to Build](https://dev.to/qyrusai/dream-project-to-build-4i02)
+- [Learning New Things](https://dev.to/rohiitbagal/learning-new-things-2m4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
