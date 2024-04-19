@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Animation can make bell🔔 much more than emoji!](https://dev.to/shhdharmen/animation-can-make-bell-much-more-than-emoji-55op)
-- [Avoiding lock-in for your image pipeline with Nuxt Image and Netlify Image CDN](https://dev.to/netlify/avoiding-lock-in-for-your-image-pipeline-with-nuxt-image-and-netlify-image-cdn-3anc)
-- [Best Practices for Data Cleaning and Preparation](https://dev.to/aaronsmithcs/best-practices-for-data-cleaning-and-preparation-118c)
-- [Bitcoin Halving 2024: How It Impacts the NFT Ecosystem?](https://dev.to/nft_research/bitcoin-halving-2024-how-it-impacts-the-nft-ecosystem-jf3)
-- [How to Implement Face Detection in React Native Using React Native Vision Camera](https://dev.to/thelamina/how-to-implement-face-detection-in-react-native-using-react-native-vision-camera-58ff)
+- [Building a Playful File Locker with GoFr](https://dev.to/ssshekhu53/building-a-playful-file-locker-with-gofr-3f8a)
+- [Llama3 License Explained](https://dev.to/llm_explorer/llama3-license-explained-2915)
+- [Infinite Scroll using Angular](https://dev.to/rj_skhosana/infinite-scroll-using-angular-52mg)
+- [Mixins without side-effects](https://dev.to/dariomannu/mixins-without-side-effects-964)
+- [Arka Paymaster Service: Empowering Devs with Open-Source Account Abstraction Tool](https://dev.to/etherspot/arka-paymaster-service-empowering-devs-with-open-source-account-abstraction-tool-56bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
