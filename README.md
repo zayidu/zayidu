@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React x ChakraUI: How to Craft Stylish PDFs](https://dev.to/onedoc/react-x-chakraui-how-to-craft-stylish-pdfs-1i67)
-- [String Manipulation Tricks &lpar;Day 1&rpar;](https://dev.to/fluentfuture/string-manipulation-tricks-day-1-2ep1)
-- [Vamos Falar de Testes?](https://dev.to/flutterbrasil/vamos-falar-de-testes-5b96)
-- [React Memo Mayhem: Optimizing Functional Components](https://dev.to/kigazon/react-memo-mayhem-optimizing-functional-components-4a9p)
-- [Learning React](https://dev.to/dcjacoby1/learning-react-5bj8)
+- [¡Ideas de recaudación de fondos que realmente funcionan!](https://dev.to/whydonatespain/ideas-de-recaudacion-de-fondos-que-realmente-funcionan-3j12)
+- [What is Software Testing ?](https://dev.to/saiprakash05/what-is-software-testing--15aa)
+- [AI: A Massive Shift in How We&#39;ll Work in the Future is Coming. Are You Ready?](https://dev.to/exploredataaiml/ai-a-massive-shift-in-how-well-work-in-the-future-is-coming-are-you-ready-38bj)
+- [Trabalhe com duas branches ou mais ao mesmo tempo com Git Worktree](https://dev.to/dyhalmeida/trabalhe-com-duas-branches-ou-mais-ao-mesmo-tempo-com-git-worktree-3okg)
+- [Simplificando sua Internacionalização](https://dev.to/flutterbrasil/simplificando-sua-internacionalizacao-4nif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
