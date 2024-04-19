@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Basics of Runtime Environment](https://dev.to/madhusaini22/understanding-the-basics-of-runtime-environment-59c5)
-- [Next.js Authentication](https://dev.to/syedmuhammadaliraza/nextjs-authentication-3oc7)
-- [State Scope with Providers - Next.js with Jotai](https://dev.to/alexteng/state-scope-with-providers-nextjs-with-jotai-1i6f)
-- [Quickly add 2FA &lpar;email&rpar; for your custom Django admin](https://dev.to/rockandnull/quickly-add-2fa-email-for-your-custom-django-admin-20ig)
-- [On-call Manual: Handling Incidents](https://dev.to/moozzyk/on-call-manual-handling-incidents-7j4)
+- [Is Your Boss Annoying?](https://dev.to/devteam/is-your-boss-annoying-24n5)
+- [How to display the entire content of abbreviated text when hovering?](https://dev.to/skie1997/how-to-display-the-entire-content-of-abbreviated-text-when-hovering-5b0h)
+- [The Power of Local Reviews: A Guide to SEO and Reputation Management](https://dev.to/anishajoshi6199/the-power-of-local-reviews-a-guide-to-seo-and-reputation-management-3fdm)
+- [What are the HTML tags which have no ends?](https://dev.to/techcomposesolutions/what-are-the-html-tags-which-have-no-ends-4lij)
+- [Ultimate Guide to Choosing the Right Accounting Software for Your Business](https://dev.to/jasskarley/ultimate-guide-to-choosing-the-right-accounting-software-for-your-business-3943)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
