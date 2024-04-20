@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [YOLO8 The basic functions for beginner!](https://dev.to/sachadee/yolo8-the-basic-functions-for-beginner-1k9)
-- [Unpacking Llama3: A Review of Latest AI Breakthroughs and Upgrades by Meta](https://dev.to/vishwa-ai/unpacking-llama3-a-review-of-latest-ai-breakthroughs-and-upgrades-by-meta-33do)
-- [Mentor Coze AI](https://dev.to/yowise/mentor-coze-ai-aao)
-- [Copia](https://dev.to/imnotleo/copia-49kn)
-- [ChatCraft Advenures #14: ChakraUI Troubles, My First Revert, and Final Recap](https://dev.to/rjwignar/chatcraft-advenures-14-chakraui-troubles-my-first-revert-and-final-recap-1iko)
+- [The Dark Arts of Material-UI: Styling React Apps Fast](https://dev.to/kigazon/the-dark-arts-of-material-ui-styling-react-apps-fast-1n0g)
+- [Alice - Interceptando suas requisições HTTP se forma simples](https://dev.to/flutterbrasil/alice-interceptando-suas-requisicoes-http-se-forma-simples-ekg)
+- [Securing the Cloud #27](https://dev.to/8carroll/securing-the-cloud-27-3hkc)
+- [Deploying Bokeh Dashboard with Python on VPS: A Step-by-Step Guide](https://dev.to/jhonnyarm/deploying-bokeh-dashboard-with-python-on-vps-a-step-by-step-guide-100k)
+- [Publicando suas paginas Flutter no Github Pages utilizando GitHub Action](https://dev.to/flutterbrasil/publicando-suas-paginas-flutter-no-github-pages-utilizando-github-action-efd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
