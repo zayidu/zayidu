@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [std::move = when std::optional should be launched](https://dev.to/teminian/stdmove-when-stdoptional-should-be-launched-oo)
-- [std::move = std::optional이 출동할 때](https://dev.to/teminian/stdmove-stdoptionali-culdonghal-ddae-4eam)
-- [Day 30 of 30-Day .NET Challenge: XML v/s JSON Serialization](https://dev.to/ssukhpinder/day-30-of-30-day-net-challenge-xml-vs-json-serialization-4jg1)
-- [Git/CLI Commands; One GUI to rule them all!](https://dev.to/danhof/gitcli-commands-one-gui-to-rule-them-20em)
-- [How to dynamically add a new TextView every time a function is called in Kotlin Android?](https://dev.to/spyder_falcon/how-to-dynamically-add-a-new-textview-every-time-a-function-is-called-in-kotlin-android-4852)
+- [Overthinking: Is It a Curse or a Superpower?](https://dev.to/devteam/overthinking-is-it-a-curse-or-a-superpower-428p)
+- [Creating Your First Web App with FlutterFlow: A Comprehensive Guide](https://dev.to/epakconsultant/creating-your-first-web-app-with-flutterflow-a-comprehensive-guide-3fi2)
+- [DevPod in Action](https://dev.to/shemanti/devpod-in-action-5g1f)
+- [See old Object Pascal from new Rust](https://dev.to/teminian/see-old-object-pascal-from-new-rust-1ejc)
+- [낯선 Rust에서 오래된 Object Pascal의 향기를 느끼다](https://dev.to/teminian/nacseon-rusteseo-oraedoen-object-pascalyi-hyanggireul-neuggida-84e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
