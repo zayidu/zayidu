@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [You need a mobility routine](https://dev.to/exerciseinsights/you-need-a-mobility-routine-2ll4)
+- [Understanding Skeleton Loaders: A Guide to Content Loading in React 🦴](https://dev.to/ankitakanchan/understanding-skeleton-loaders-a-guide-to-content-loading-in-react-bc8)
 - [How to Build Email Server with Exim on Alma Linux 9](https://dev.to/budiantoip/how-to-build-email-server-with-exim-on-alma-linux-9-568e)
 - [Introduction](https://dev.to/budiantoip/introduction-3peh)
 - [Google is too powerful!](https://dev.to/kwnaidoo/google-is-too-powerful-4cgo)
-- [Why I Write.](https://dev.to/thejoernal/why-i-write-3kpm)
-- [Getting started with TiniJS framework](https://dev.to/lamnhan/getting-started-with-tinijs-framework-881)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
