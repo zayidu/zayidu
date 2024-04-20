@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You need a mobility routine](https://dev.to/exerciseinsights/you-need-a-mobility-routine-2ll4)
-- [Understanding Skeleton Loaders: A Guide to Content Loading in React 🦴](https://dev.to/ankitakanchan/understanding-skeleton-loaders-a-guide-to-content-loading-in-react-bc8)
-- [How to Build Email Server with Exim on Alma Linux 9](https://dev.to/budiantoip/how-to-build-email-server-with-exim-on-alma-linux-9-568e)
-- [Introduction](https://dev.to/budiantoip/introduction-3peh)
-- [Google is too powerful!](https://dev.to/kwnaidoo/google-is-too-powerful-4cgo)
+- [Using Custom Hooks in multiple React Components.](https://dev.to/pixl/using-custom-hooks-in-multiple-react-components-3all)
+- [What is Unknown Publisher Warning?](https://dev.to/me_priya/what-is-unknown-publisher-warning-48f3)
+- [✨AI Travel planner ✈️](https://dev.to/programordie/ai-travel-planner-cg9)
+- [I&#39;ve invested in 6 valuable SaaS ebooks so you can access the knowledge for free!](https://dev.to/elliot_brenya/ive-invested-in-6-valuable-saas-ebooks-so-you-can-access-the-knowledge-for-free-498k)
+- [การจำแนกภาพ CIFAR-10 ใน TensorFlow](https://dev.to/deil/kaarcchamaenkphaaph-cifar-10-ain-tensorflow-3f7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
