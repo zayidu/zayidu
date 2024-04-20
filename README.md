@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 248 - Unreliable Copy](https://dev.to/mcsee/code-smell-248-unreliable-copy-3fce)
-- [Making Chatbot Applications with Dialogflow: My HackItTogether 2024 Project](https://dev.to/1grace/making-chatbot-applications-with-dialogflow-with-project-example-5dp7)
-- [Dockerizing Next.js](https://dev.to/renao/dockerizing-nextjs-2opd)
-- [Nodemon running error fixed!](https://dev.to/don_mizzy/nodemon-running-error-fixed-28l0)
-- [Selenium AI Automation: Image Processing with Gemini](https://dev.to/vishalmysore/selenium-ai-automation-image-processing-with-gemini-b3p)
+- [Tratando erros em promisse](https://dev.to/terminalcoffee/tratando-erros-em-promisse-4mh7)
+- [LeetCode Meditations: Same Tree](https://dev.to/rivea0/leetcode-meditations-same-tree-jbh)
+- [Matriz de Papéis e Responsabilidades](https://dev.to/smashse/matriz-de-papeis-e-responsabilidades-16mh)
+- [Measuring performance](https://dev.to/efpage/measuring-performance-2ojj)
+- [Authentication with JWT Tokens in React and Express.js](https://dev.to/devloker/authentication-with-jwt-tokens-in-react-and-expressjs-5o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
