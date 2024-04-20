@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Mentor Coze AI](https://dev.to/yowise/mentor-coze-ai-aao)
+- [Copia](https://dev.to/imnotleo/copia-49kn)
+- [ChatCraft Advenures #14: ChakraUI Troubles, My First Revert, and Final Recap](https://dev.to/rjwignar/chatcraft-advenures-14-chakraui-troubles-my-first-revert-and-final-recap-1iko)
+- [Respaldo del codigo de SO xd](https://dev.to/imnotleo/respaldo-del-codigo-de-so-xd-3nkg)
 - [#1992. Find All Groups of Farmland](https://dev.to/karleb/1992-find-all-groups-of-farmland-41fg)
-- [I am trying to become a dotnet developer](https://dev.to/aheisleycook_14/i-am-trying-to-become-a-dotnet-developer-489f)
-- [Por trás do código: Revelando o lado sombrio do desenvolvimento de aplicativos](https://dev.to/zmsoft/por-tras-do-codigo-revelando-o-lado-sombrio-do-desenvolvimento-de-aplicativos-53l6)
-- [How AI is Revolutionizing DevOps: Insights for the Modern Developer](https://dev.to/karandaid/how-ai-is-revolutionizing-devops-insights-for-the-modern-developer-596d)
-- [Advanced SQL Techniques: Taking Your Data Skills to the Next Level](https://dev.to/tinapyp/advanced-sql-techniques-taking-your-data-skills-to-the-next-level-50o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
