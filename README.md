@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Custom Hooks in multiple React Components.](https://dev.to/pixl/using-custom-hooks-in-multiple-react-components-3all)
-- [What is Unknown Publisher Warning?](https://dev.to/me_priya/what-is-unknown-publisher-warning-48f3)
-- [✨AI Travel planner ✈️](https://dev.to/programordie/ai-travel-planner-cg9)
-- [I&#39;ve invested in 6 valuable SaaS ebooks so you can access the knowledge for free!](https://dev.to/elliot_brenya/ive-invested-in-6-valuable-saas-ebooks-so-you-can-access-the-knowledge-for-free-498k)
-- [การจำแนกภาพ CIFAR-10 ใน TensorFlow](https://dev.to/deil/kaarcchamaenkphaaph-cifar-10-ain-tensorflow-3f7a)
+- [Recursion, it just works](https://dev.to/sokolan/recursion-it-just-works-j7p)
+- [Interview Question: Tell me about a product you launched successfully.](https://dev.to/alexr/tell-me-about-a-product-you-launched-successfully-mj7)
+- [Strange behavior of the code, problem with assigning styles after the animation on the element is finished](https://dev.to/zigglerpl/strange-behavior-of-the-code-problem-with-assigning-styles-after-the-animation-on-the-element-is-finished-4kgj)
+- [Factoring Learning Agility in Appraisals](https://dev.to/jobspikr123/factoring-learning-agility-in-appraisals-4852)
+- [How to add LOGIN with Google in your WEBAPPS using Passport](https://dev.to/dhyaneshsiddhartha15/how-to-add-login-with-google-in-your-webapps-using-passport-36i1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
