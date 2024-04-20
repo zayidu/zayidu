@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cartoon quotes](https://dev.to/yowise/cartoon-quotes-47o)
-- [Two-Way Binding in Angular: Magic Mirror for Your Data](https://dev.to/kavindukarunasena/two-way-binding-in-angular-magic-mirror-for-your-data-1dej)
-- [Deep Dive into Functional Programming in Javascript](https://dev.to/alexmercedcoder/deep-dive-into-functional-programming-in-javascript-851)
-- [BEHAVIORAL PATTERN &lpar;STATE&rpar;](https://dev.to/gabrielmelendez/behavioral-pattern-state-3858)
-- [Why do we need CORS to access CDN links?](https://dev.to/shubhsharma19/why-do-we-need-cors-to-access-cdn-links-bh6)
+- [Create Calender heatmap in react like Github &lpar;from scratch&rpar;](https://dev.to/coderx/create-calender-heatmap-in-react-like-github-from-scratch-1i0m)
+- [Sinister Styled-Components: CSS in JS with Style](https://dev.to/kigazon/sinister-styled-components-css-in-js-with-style-39bp)
+- [JavaScript: Timer Params](https://dev.to/oculus42/javascript-timer-params-1mn7)
+- [Django Authentication](https://dev.to/syedmuhammadaliraza/django-authentication-561o)
+- [A snake game code](https://dev.to/adnannofel/a-snake-game-code-1ece)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
