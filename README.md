@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code with Musa - 2](https://dev.to/musaaj/code-with-musa-2-405j)
-- [Implement Merge-Sort in python](https://dev.to/mainpynerds/implement-merge-sort-in-python-537b)
-- [csv module in Python](https://dev.to/mainpynerds/csv-module-in-python-kb5)
-- [Building a Production-Ready Web App with T3 Stack](https://dev.to/fabrikapp/building-a-production-ready-web-app-with-t3-stack-4h9e)
-- [Effect 3.0](https://dev.to/effect/effect-30-2mp2)
+- [Detrás del código: revelando el lado oscuro del desarrollo de aplicaciones](https://dev.to/zmsoft/detras-del-codigo-revelando-el-lado-oscuro-del-desarrollo-de-aplicaciones-4a8g)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-51cl)
+- [Redux + Zustand](https://dev.to/devteles/redux-zustand-15b4)
+- [Help Shape My New Tech Channel: Your Insights Needed!](https://dev.to/huseyn0w/help-shape-my-new-tech-channel-your-insights-needed-38jh)
+- [How to make a good looking UI](https://dev.to/michaelstamps/how-to-make-a-good-looking-ui-2ih2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
