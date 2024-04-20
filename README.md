@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The retro GitHub profile of the day: Sindre Sorhus](https://dev.to/szabgab/the-retro-github-profile-of-the-day-sindre-sorhus-1gdf)
-- [Getting Started with Next.js: A Comprehensive Guide to Building Modern Web Applications](https://dev.to/epakconsultant/getting-started-with-nextjs-a-comprehensive-guide-to-building-modern-web-applications-22km)
-- [Using a Read-through / Write-through Cache in Java Applications with NCache](https://dev.to/vivekbd/using-a-read-through-write-through-cache-in-java-applications-with-ncache-4jga)
-- [FLUTTER_GHERKIN criando automações de teste de uma forma mais simples](https://dev.to/flutterbrasil/fluttergherkin-criando-automacoes-de-teste-de-uma-forma-mais-simples-1jda)
-- [How my open source tool got 100 stars in 4 days!](https://dev.to/digitalizedsnake/how-my-open-source-tool-got-100-stars-in-4-days-3g01)
+- [std::move = when std::optional should be launched](https://dev.to/teminian/stdmove-when-stdoptional-should-be-launched-oo)
+- [std::move = std::optional이 출동할 때](https://dev.to/teminian/stdmove-stdoptionali-culdonghal-ddae-4eam)
+- [Day 30 of 30-Day .NET Challenge: XML v/s JSON Serialization](https://dev.to/ssukhpinder/day-30-of-30-day-net-challenge-xml-vs-json-serialization-4jg1)
+- [Git/CLI Commands; One GUI to rule them all!](https://dev.to/danhof/gitcli-commands-one-gui-to-rule-them-20em)
+- [How to dynamically add a new TextView every time a function is called in Kotlin Android?](https://dev.to/spyder_falcon/how-to-dynamically-add-a-new-textview-every-time-a-function-is-called-in-kotlin-android-4852)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
