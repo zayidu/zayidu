@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I created a blender add-on for beginner artists](https://dev.to/chriisduran/i-created-a-blender-add-on-for-beginner-artists-2h64)
-- [Open Ruby on Rails errors with VS Code](https://dev.to/k3vout/open-ruby-on-rails-errors-with-vs-code-3c1f)
-- [Symfony Station Communiqué — 19 April, 2024. A look at Symfony, Drupal, PHP, Cybersecurity, and Fediverse news!](https://dev.to/reubenwalker64/symfony-station-communique-19-april-2024-a-look-at-symfony-drupal-php-cybersecurity-and-fediverse-news-2gf3)
-- [Rewrites are a symptom of bad initial engineering](https://dev.to/shailennaidoo/rewrites-are-a-symptom-of-bad-initial-engineering-4nfl)
-- [A deep dive into progressive web apps &lpar;PWA&rpar;](https://dev.to/peter_opeyemi/a-deep-dive-into-progressive-web-apps-pwa-5beo)
+- [Diretivas Vuejs](https://dev.to/nathanndos/diretivas-vuejs-ld8)
+- [Submission - Glam Up My Markup: Earth Day Celebration Landing Page](https://dev.to/eabuzaid/submission-glam-up-my-markup-earth-day-celebration-landing-page-12gb)
+- [Introduction to Bruno Scripting](https://dev.to/vikas1712/introduction-to-bruno-scripting-5a1n)
+- [Learn to ask for help](https://dev.to/noriller/learn-to-ask-for-help-hoj)
+- [Is Piracy Worth It?](https://dev.to/vinayak00017/is-piracy-worth-it-2i4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
