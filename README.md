@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ZKML: Bringing Verifiable and Trustless ML to the Masses](https://dev.to/gssakash/zkml-bringing-verifiable-and-trustless-ml-to-the-masses-2a38)
-- [AlchemistAI- A Revolutionary step towards AI in healthcare](https://dev.to/impoulav/rebasehackathon-alchemistai-50b4)
-- [GitHub Sponsors - A series on giving an receiving 💰](https://dev.to/szabgab/github-sponsors-a-series-on-giving-an-receiving-4fmb)
-- [I made an infinite canvas to work with LLMs better](https://dev.to/ddehueck/i-made-an-infinite-canvas-to-work-with-llms-better-dgj)
-- [A. Beautiful Matrix // Solution in java](https://dev.to/abdullakamal/a-beautiful-matrix-solution-in-java-19j6)
+- [Cartoon quotes](https://dev.to/yowise/cartoon-quotes-47o)
+- [Two-Way Binding in Angular: Magic Mirror for Your Data](https://dev.to/kavindukarunasena/two-way-binding-in-angular-magic-mirror-for-your-data-1dej)
+- [Deep Dive into Functional Programming in Javascript](https://dev.to/alexmercedcoder/deep-dive-into-functional-programming-in-javascript-851)
+- [BEHAVIORAL PATTERN &lpar;STATE&rpar;](https://dev.to/gabrielmelendez/behavioral-pattern-state-3858)
+- [Why do we need CORS to access CDN links?](https://dev.to/shubhsharma19/why-do-we-need-cors-to-access-cdn-links-bh6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
