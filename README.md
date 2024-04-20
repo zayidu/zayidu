@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Detrás del código: revelando el lado oscuro del desarrollo de aplicaciones](https://dev.to/zmsoft/detras-del-codigo-revelando-el-lado-oscuro-del-desarrollo-de-aplicaciones-4a8g)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-51cl)
-- [Redux + Zustand](https://dev.to/devteles/redux-zustand-15b4)
-- [Help Shape My New Tech Channel: Your Insights Needed!](https://dev.to/huseyn0w/help-shape-my-new-tech-channel-your-insights-needed-38jh)
-- [How to make a good looking UI](https://dev.to/michaelstamps/how-to-make-a-good-looking-ui-2ih2)
+- [#1992. Find All Groups of Farmland](https://dev.to/karleb/1992-find-all-groups-of-farmland-41fg)
+- [I am trying to become a dotnet developer](https://dev.to/aheisleycook_14/i-am-trying-to-become-a-dotnet-developer-489f)
+- [Por trás do código: Revelando o lado sombrio do desenvolvimento de aplicativos](https://dev.to/zmsoft/por-tras-do-codigo-revelando-o-lado-sombrio-do-desenvolvimento-de-aplicativos-53l6)
+- [How AI is Revolutionizing DevOps: Insights for the Modern Developer](https://dev.to/karandaid/how-ai-is-revolutionizing-devops-insights-for-the-modern-developer-596d)
+- [Advanced SQL Techniques: Taking Your Data Skills to the Next Level](https://dev.to/tinapyp/advanced-sql-techniques-taking-your-data-skills-to-the-next-level-50o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
