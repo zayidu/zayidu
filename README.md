@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Yokai - a simple, modular and observable Go framework for backend applications.](https://dev.to/ekkinox/yokai-a-simple-modular-and-observable-go-framework-for-backend-applications-116j)
+- [Recreating a GIF with CSS: Earth Day Edition](https://dev.to/arndom/recreating-a-gif-with-css-earth-day-edition-3f5a)
+- [Docker and Kubernetes: Modern Deployment - RazorOps](https://dev.to/madhuk/docker-and-kubernetes-modern-deployment-razorops-5bmn)
+- [Docker and Kubernetes: Modern Deployment - RazorOps](https://dev.to/madhuk/docker-and-kubernetes-modern-deployment-razorops-3k7f)
 - [Tratando erros em promisse](https://dev.to/terminalcoffee/tratando-erros-em-promisse-4mh7)
-- [LeetCode Meditations: Same Tree](https://dev.to/rivea0/leetcode-meditations-same-tree-jbh)
-- [Matriz de Papéis e Responsabilidades](https://dev.to/smashse/matriz-de-papeis-e-responsabilidades-16mh)
-- [Measuring performance](https://dev.to/efpage/measuring-performance-2ojj)
-- [Authentication with JWT Tokens in React and Express.js](https://dev.to/devloker/authentication-with-jwt-tokens-in-react-and-expressjs-5o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
