@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 - SIRF &lpar;Research Congress&rpar;](https://dev.to/kmirafuentes/day-2-sirf-research-congress-43h)
-- [Angular Directive Selector](https://dev.to/nhannguyendevjs/angular-directive-selector-5dna)
-- [software testing and its relevance](https://dev.to/revathykarthik/software-testing-and-its-relevance-47i9)
-- [Quick Tip: Nuxt &amp; Storyblok Error Handling &lpar;e.g. 404&rpar;](https://dev.to/areindl/quick-tip-nuxt-storyblok-error-handling-eg-404-45fh)
-- [Getting started with Open SaaS](https://dev.to/rbatista19/getting-started-with-open-saas-2gnb)
+- [How to Visualize and Analyze Data in Open Source Communities](https://dev.to/justlorain/how-to-visualize-and-analyze-data-in-open-source-communities-1l35)
+- [How to persist user preferences in Svelte &lpar;w/o DB&rpar;](https://dev.to/adelbeit/how-to-persist-user-preferences-in-svelte-wo-db-51nf)
+- [Feeling overwhelmed by technical articles? Let&#39;s find a solution](https://dev.to/this-is-learning/feeling-overwhelmed-by-technical-articles-lets-find-a-solution-3cn2)
+- [EXPLORING APPLICATION SECURITY SERVICES ON AWS](https://dev.to/warrisoladipup2/exploring-application-security-services-on-aws-8b2)
+- [From Chaos to Clarity: Mastering React Folder Structure as You Grow](https://dev.to/sahilshityalkar/from-chaos-to-clarity-mastering-react-folder-structure-as-you-grow-2c4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
