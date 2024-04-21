@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing PostgreSQL Performance: Navigating the Use of Bind Variables in Version 16](https://dev.to/shiviyer/optimizing-postgresql-performance-navigating-the-use-of-bind-variables-in-version-16-2ehk)
-- [React Starter Template 👨🏿‍💻](https://dev.to/bttodd11/react-starter-template-1l01)
-- [Tailwind Login&amp;Register](https://dev.to/yunuss5461/tailwind-loginregister-1cb6)
-- [Lessons for me on leadership, from a film about apes](https://dev.to/shalvah/lessons-for-me-on-leadership-from-a-film-about-apes-34ca)
-- [Share Data between Riot Components with Riot-Mieosis &lpar;State Manager&rpar;](https://dev.to/steeve/share-data-between-riot-components-with-riot-mieosis-state-manager-13g3)
+- [Animation in SVG](https://dev.to/wagenrace/animation-in-svg-12pb)
+- [Generative Fill with AI with images:](https://dev.to/smartdev72/generative-fill-with-ai-with-images-3cj4)
+- [Understanding APIs: What They Are and How to Utilize Them](https://dev.to/shadrachsamuel04/breaking-down-apis-understanding-what-they-are-and-how-to-utilize-them-3i42)
+- [Criando PDFs com React-PDF](https://dev.to/ramonprog/criando-pdfs-com-react-pdf-1chb)
+- [Create Specific version of angular project without install cli](https://dev.to/webfaisalbd/create-specific-version-of-angular-project-without-install-cli-l9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
