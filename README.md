@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Discussion: whats your favorite framework](https://dev.to/dino2328/discussion-whats-your-favorite-framework-3jf9)
-- [Set up an Automation script with Ansible](https://dev.to/joykingoo/set-up-an-automation-script-with-ansible-2g4h)
-- [Help needed with subrouting in Go](https://dev.to/sainig/help-needed-with-subroutine-in-go-4obc)
-- [Difference between WHERE vs HAVING Clause in SQL](https://dev.to/somadevtoo/difference-between-where-vs-having-clause-in-sql-17g5)
-- [Is FaaS the Same as Serverless?](https://dev.to/firstfingerin/is-faas-the-same-as-serverless-h3k)
+- [DOING THE SAME APP IN 9 JAVASCRIPT FRAMEWORKS](https://dev.to/dino2328/doing-the-same-app-in-9-javascript-frameworks-4af0)
+- [React Native’s Flexbox: A Visual Guide](https://dev.to/codeparrot/react-natives-flexbox-a-visual-guide-34f3)
+- [How to learn programming the real way](https://dev.to/ezpieco/how-to-learn-programming-the-real-way-4kjc)
+- [Seeking suggestions for virtual co-working](https://dev.to/schalkneethling/seeking-suggestions-for-virtual-co-working-2c6f)
+- [How to Host a Static Website on Amazon S3](https://dev.to/mundianderi/how-to-host-a-static-website-on-amazon-s3-m9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
