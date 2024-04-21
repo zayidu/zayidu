@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DOING THE SAME APP IN 9 JAVASCRIPT FRAMEWORKS](https://dev.to/dino2328/doing-the-same-app-in-9-javascript-frameworks-4af0)
-- [React Native’s Flexbox: A Visual Guide](https://dev.to/codeparrot/react-natives-flexbox-a-visual-guide-34f3)
-- [How to learn programming the real way](https://dev.to/ezpieco/how-to-learn-programming-the-real-way-4kjc)
-- [Seeking suggestions for virtual co-working](https://dev.to/schalkneethling/seeking-suggestions-for-virtual-co-working-2c6f)
-- [How to Host a Static Website on Amazon S3](https://dev.to/mundianderi/how-to-host-a-static-website-on-amazon-s3-m9f)
+- [Creating a Note App](https://dev.to/bakhita87/creating-a-note-app-1ma1)
+- [Load balancing with Docker Swarm &amp; Nginx](https://dev.to/joykingoo/load-balancing-with-docker-swarm-nginx-ef5)
+- [Essential Git Commands: A Developer’s Guide](https://dev.to/satyakoidala/essential-git-commands-a-developers-guide-4cd2)
+- [Enhancing React App Security: Implementing Inactivity Logout for Peace of Mind](https://dev.to/ingeniouswebster/enhancing-react-app-security-implementing-inactivity-logout-for-peace-of-mind-3nol)
+- [User browser vs. Puppeteer](https://dev.to/adaschevici/user-browser-vs-puppeteer-3a2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
