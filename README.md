@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Yokai - a simple, modular and observable Go framework for backend applications.](https://dev.to/ekkinox/yokai-a-simple-modular-and-observable-go-framework-for-backend-applications-116j)
-- [Recreating a GIF with CSS: Earth Day Edition](https://dev.to/arndom/recreating-a-gif-with-css-earth-day-edition-3f5a)
-- [Docker and Kubernetes: Modern Deployment - RazorOps](https://dev.to/madhuk/docker-and-kubernetes-modern-deployment-razorops-5bmn)
-- [Docker and Kubernetes: Modern Deployment - RazorOps](https://dev.to/madhuk/docker-and-kubernetes-modern-deployment-razorops-3k7f)
-- [Tratando erros em promisse](https://dev.to/terminalcoffee/tratando-erros-em-promisse-4mh7)
+- [Advanced CSS Techniques for Responsive Design](https://dev.to/kartikmehta8/advanced-css-techniques-for-responsive-design-512d)
+- [Tips to embody clean code](https://dev.to/tkrtmy1031/tips-to-embody-clean-code-4jmb)
+- [What React beginners should know about React 19 first.](https://dev.to/jamescroissant/what-react-beginners-should-know-about-react-19-first-4n4n)
+- [Software Samurai](https://dev.to/cheetah100/software-samurai-h3o)
+- [Content Delivery Network Explained 🌎⚡️](https://dev.to/iamdevmarcos/content-delivery-network-explained-5cpf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
