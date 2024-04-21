@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HOW TO BECOME A BACKEND DEVELOPER](https://dev.to/toluxx/how-to-become-a-backend-developer-4h13)
-- [Logging Framoworks... Moving from SEQ to f/Lo/G... and why I didn&#39;t pick ELK](https://dev.to/liukonen/logging-framoworks-moving-from-seq-to-flog-and-why-i-didnt-pick-elk-4p00)
-- [Make your oncall easy with Savvy&#39;s AI](https://dev.to/gopher65/make-your-oncall-easy-with-savvys-ai-1bi)
-- [Get started with coding a discord bot](https://dev.to/zemerik/get-started-with-coding-a-discord-bot-2ojc)
-- [Advanced CSS Techniques for Responsive Design](https://dev.to/kartikmehta8/advanced-css-techniques-for-responsive-design-512d)
+- [HTML &amp; Vue.js, a secrete you may not know about Vue](https://dev.to/kueiapp/html-vuejs-a-secrete-you-may-not-know-about-vue-n9d)
+- [Kubernetes Deployment with Ansible: A Comprehensive Guide to Bootstraping Kubernetes Clusters](https://dev.to/himaatluri/kubernetes-deployment-with-ansible-a-comprehensive-guide-to-bootstraping-kubernetes-clusters-2ebh)
+- [Concluding OSD700](https://dev.to/amnish04/concluding-osd700-3eoh)
+- [Improve Download Speeds with Concurrency](https://dev.to/amnish04/improve-download-speeds-with-concurrency-58hk)
+- [Earth](https://dev.to/elmerurbina/earth-36hk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
