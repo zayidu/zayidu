@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Roles and Responsibilities Matrix](https://dev.to/smashse/roles-and-responsibilities-matrix-527p)
-- [SVGs in React &lpar;almost everything you need to know&rpar;](https://dev.to/vavilov2212/svgs-in-react-almost-everything-you-need-to-know-1nb4)
-- [MiniScript Roundup #22](https://dev.to/synapticbytes/miniscript-roundup-22-1b39)
-- [The Tale of Tailwind CSS and React](https://dev.to/kigazon/the-tale-of-tailwind-css-and-react-a92)
-- [Title: Enhancing Continuous Integration with Jenkins: A DevOps Community Perspective](https://dev.to/amitkolekar/title-enhancing-continuous-integration-with-jenkins-a-devops-community-perspective-5gda)
+- [Front-end specialisations: HTML + CSS](https://dev.to/r4nd3l/front-end-specialisations-html-css-4d3)
+- [Day 21/366](https://dev.to/vishalmx3/day-21366-1e3j)
+- [My Pen on CodePen](https://dev.to/kent7301/my-pen-on-codepen-13lf)
+- [Anthropic Claude with tools using Python SDK](https://dev.to/thomastaylor/anthropic-claude-with-tools-using-python-sdk-2fio)
+- [The Detailed Guide to the Lowest cPanel Hosting](https://dev.to/maroon5/the-detailed-guide-to-the-lowest-cpanel-hosting-35m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
