@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Date Function in Javascript](https://dev.to/itsvinayak/date-function-in-javascript-57if)
-- [Angular Event Modifier](https://dev.to/wszgrcy/angular-event-modifier-5c3)
-- [Creating a GitHub Repository Collection Using GitHub Lists ✨](https://dev.to/sh20raj/creating-a-github-repository-collection-using-github-lists-1mlg)
-- [Unleash Your Productivity: Embrace the Power of Linux OS](https://dev.to/emmanuelbinen/unleash-your-productivity-embrace-the-power-of-linux-os-1ogk)
-- [Petals: A Step Towards Decentralized AI](https://dev.to/gssakash/petals-a-step-towards-decentralized-ai-4op9)
+- [Discussion: whats your favorite framework](https://dev.to/dino2328/discussion-whats-your-favorite-framework-3jf9)
+- [Set up an Automation script with Ansible](https://dev.to/joykingoo/set-up-an-automation-script-with-ansible-2g4h)
+- [Help needed with subrouting in Go](https://dev.to/sainig/help-needed-with-subroutine-in-go-4obc)
+- [Difference between WHERE vs HAVING Clause in SQL](https://dev.to/somadevtoo/difference-between-where-vs-having-clause-in-sql-17g5)
+- [Is FaaS the Same as Serverless?](https://dev.to/firstfingerin/is-faas-the-same-as-serverless-h3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
