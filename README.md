@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Guaranteed Safety using Blue Green with ECS and CDK](https://dev.to/aws-builders/guaranteed-safety-using-blue-green-with-ecs-and-cdk-4b4e)
-- [The best artificial intelligence for developers](https://dev.to/adrianknapp/the-best-artificial-intelligence-for-developers-4im8)
-- [What is React Hydration?](https://dev.to/jitendrachoudhary/what-is-react-hydration-2bc3)
-- [Understanding valueOf&lpar;&rpar; and toString&lpar;&rpar; in JavaScript](https://dev.to/tapuchandramojumder/understanding-valueof-and-tostring-in-javascript-7ph)
-- [SPEAKER](https://dev.to/makergames_/speaker-1cab)
+- [Elevate Your Web Design with Codepem&#39;s CSS Gradient Generator](https://dev.to/zahidh1626/elevate-your-web-design-with-codepems-css-gradient-generator-3d7m)
+- [Importance of Java in Modern Programming](https://dev.to/devme/importance-of-java-in-modern-programming-ih7)
+- [Conquering the Multiplicity: A Case Study in Preventing Multiple Instances of an Application](https://dev.to/mahakfaheem/conquering-the-multiplicity-a-case-study-in-preventing-multiple-instances-of-an-application-5hl4)
+- [In Depth on CSS](https://dev.to/uhrinuh/in-depth-on-css-j0f)
+- [Do not use &lt;div&gt; in React😎😯👩‍💻](https://dev.to/nayankaslikar/do-not-use-in-react-2783)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
