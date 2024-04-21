@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular HostAttributeToken: the new way to inject attributes](https://dev.to/davidepassafaro/angular-hostattributetoken-the-new-way-to-inject-attributes-45ia)
+- [¿Por qué debería usar Ruby on Rails?](https://dev.to/jfsan/por-que-deberia-usar-ruby-on-rails-3ahf)
+- [Remote Control: Mastering the Art of Digital Team Dynamics](https://dev.to/dev3l/remote-control-mastering-the-art-of-digital-team-dynamics-511c)
+- [Understanding Svelte: Setting Up Your Project and Mastering .svelte Files](https://dev.to/moshkh/understanding-svelte-setting-up-your-project-and-mastering-svelte-files-22j8)
 - [Animation in SVG](https://dev.to/wagenrace/animation-in-svg-12pb)
-- [Generative Fill with AI with images:](https://dev.to/smartdev72/generative-fill-with-ai-with-images-3cj4)
-- [Understanding APIs: What They Are and How to Utilize Them](https://dev.to/shadrachsamuel04/breaking-down-apis-understanding-what-they-are-and-how-to-utilize-them-3i42)
-- [Criando PDFs com React-PDF](https://dev.to/ramonprog/criando-pdfs-com-react-pdf-1chb)
-- [Create Specific version of angular project without install cli](https://dev.to/webfaisalbd/create-specific-version-of-angular-project-without-install-cli-l9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
