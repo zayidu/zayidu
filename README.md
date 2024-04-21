@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Employee Management System using Python.](https://dev.to/spiff/employee-management-system-using-python-101a)
-- [CSS Cascade, Specificity, and Selectors](https://dev.to/stephaniedev/css-cascade-specificity-and-selectors-2jan)
-- [Bridging Tech and Fashion](https://dev.to/k7x667/bridging-tech-and-fashion-3f9p)
-- [How to Persist User Data with LocalStorage in Vue](https://dev.to/alexanderop/how-to-persist-user-data-with-localstorage-in-vue-12h4)
-- [Jakarta Persistence API &lpar;JPA&rpar; example application: Northwind sample database](https://dev.to/saladlam/jakarta-persistence-api-jpa-example-application-northwind-sample-database-1n7m)
+- [Introducing Ecla: A Versatile Programming Language for Learning](https://dev.to/mkarten/introducing-ecla-a-versatile-programming-language-for-learning-4cao)
+- [Docker compose, orchestrating and automating services](https://dev.to/dionarodrigues/docker-compose-orchestrating-and-automating-services-3ajg)
+- [React Router DOM V6 Tutorial for Everyone](https://dev.to/thevinitgupta/react-router-dom-v6-tutorial-for-everyone-4i0k)
+- [Trimming JavaScript: ditch verbosity, gain readability](https://dev.to/danbars/trimming-javascript-ditch-verbosity-gain-readability-3fko)
+- [MJPEG stream demo server by Reactor netty](https://dev.to/saladlam/mjpeg-stream-demo-server-by-reactor-netty-2ib8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
