@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Visualize and Analyze Data in Open Source Communities](https://dev.to/justlorain/how-to-visualize-and-analyze-data-in-open-source-communities-1l35)
-- [How to persist user preferences in Svelte &lpar;w/o DB&rpar;](https://dev.to/adelbeit/how-to-persist-user-preferences-in-svelte-wo-db-51nf)
-- [Feeling overwhelmed by technical articles? Let&#39;s find a solution](https://dev.to/this-is-learning/feeling-overwhelmed-by-technical-articles-lets-find-a-solution-3cn2)
-- [EXPLORING APPLICATION SECURITY SERVICES ON AWS](https://dev.to/warrisoladipup2/exploring-application-security-services-on-aws-8b2)
-- [From Chaos to Clarity: Mastering React Folder Structure as You Grow](https://dev.to/sahilshityalkar/from-chaos-to-clarity-mastering-react-folder-structure-as-you-grow-2c4j)
+- [Date Function in Javascript](https://dev.to/itsvinayak/date-function-in-javascript-57if)
+- [Angular Event Modifier](https://dev.to/wszgrcy/angular-event-modifier-5c3)
+- [Creating a GitHub Repository Collection Using GitHub Lists ✨](https://dev.to/sh20raj/creating-a-github-repository-collection-using-github-lists-1mlg)
+- [Unleash Your Productivity: Embrace the Power of Linux OS](https://dev.to/emmanuelbinen/unleash-your-productivity-embrace-the-power-of-linux-os-1ogk)
+- [Petals: A Step Towards Decentralized AI](https://dev.to/gssakash/petals-a-step-towards-decentralized-ai-4op9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
