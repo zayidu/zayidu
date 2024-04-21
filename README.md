@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Context Chaos: Global State Management Made Easy](https://dev.to/kigazon/react-context-chaos-global-state-management-made-easy-3cjk)
-- [Visualização automática de esquemas de databases do Sqlite](https://dev.to/msc2020/visualizacao-automatica-de-esquemas-de-databases-do-sqlite-513d)
-- [AWS Bedrock Update from Claude v2.1 to Claude v3](https://dev.to/mmuller88/aws-bedrock-update-from-claude-v21-to-claude-v3-3kle)
-- [Angular Tutorial: Signal Queries with the viewChild&lpar;&rpar; and contentChild&lpar;&rpar; Functions](https://dev.to/brianmtreese/angular-tutorial-signal-queries-with-the-viewchild-and-contentchild-functions-26fm)
-- [Uma introdução à Arquitetura orientada a eventos](https://dev.to/camilaferreiranas/uma-introducao-a-arquitetura-orientada-a-eventos-1h3l)
+- [My Book and Podcast Recommendations for You](https://dev.to/per-starke-642/my-book-and-podcast-recommendations-for-you-7jd)
+- [Earth Day CSS ART](https://dev.to/gauharnawab/earth-day-css-art-14h4)
+- [Builder + React.js: A game-changing combination](https://dev.to/igorbm/builder-reactjs-a-game-changing-combination-4mh7)
+- [Learning AWS Day by Day — Day 43 — Amazon Athena](https://dev.to/rksalo88/learning-aws-day-by-day-day-43-amazon-athena-3inh)
+- [Learning AWS Day by Day — Day 42 — Amazon ElastiCache](https://dev.to/rksalo88/learning-aws-day-by-day-day-42-amazon-elasticache-2a70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
