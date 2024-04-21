@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [eBPF: Unleashing Kernel Magic for Modern Infrastructure](https://dev.to/ahmadrahimizadeh/ebpf-unleashing-kernel-magic-for-modern-infrastructure-305a)
+- [List of prompts to increase content clicks](https://dev.to/promry/list-of-prompts-to-increase-content-clicks-3fkp)
+- [Creating mocks for testing react code](https://dev.to/fajarriv/creating-mocks-for-testing-react-code-ml4)
+- [Simulate Clock Skew in Docker Container](https://dev.to/yugabyte/simulate-clock-skew-in-docker-container-2com)
 - [Angular HostAttributeToken: the new way to inject attributes](https://dev.to/davidepassafaro/angular-hostattributetoken-the-new-way-to-inject-attributes-45ia)
-- [¿Por qué debería usar Ruby on Rails?](https://dev.to/jfsan/por-que-deberia-usar-ruby-on-rails-3ahf)
-- [Remote Control: Mastering the Art of Digital Team Dynamics](https://dev.to/dev3l/remote-control-mastering-the-art-of-digital-team-dynamics-511c)
-- [Understanding Svelte: Setting Up Your Project and Mastering .svelte Files](https://dev.to/moshkh/understanding-svelte-setting-up-your-project-and-mastering-svelte-files-22j8)
-- [Animation in SVG](https://dev.to/wagenrace/animation-in-svg-12pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
