@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WITL &lpar;A web security friend&rpar;](https://dev.to/sarahokolo/witl-a-web-security-friend-262h)
-- [Are You Too Good at Your Job?](https://dev.to/devteam/are-you-too-good-at-your-job-4dkm)
-- [The Impact of Lazy Evaluation of Iterators](https://dev.to/devleader/the-impact-of-lazy-evaluation-of-iterators-dl2)
-- [How to override the colors of NeoSolarized in NeoVim](https://dev.to/xxxuutaxxx/how-to-override-the-colors-of-neosolarized-in-neovim-2h1a)
-- [Rust - The Next Big Thing in Systems Programming?](https://dev.to/elvisouma/rust-the-next-big-thing-in-systems-programming-33df)
+- [Day 2 - SIRF &lpar;Research Congress&rpar;](https://dev.to/kmirafuentes/day-2-sirf-research-congress-43h)
+- [Angular Directive Selector](https://dev.to/nhannguyendevjs/angular-directive-selector-5dna)
+- [software testing and its relevance](https://dev.to/revathykarthik/software-testing-and-its-relevance-47i9)
+- [Quick Tip: Nuxt &amp; Storyblok Error Handling &lpar;e.g. 404&rpar;](https://dev.to/areindl/quick-tip-nuxt-storyblok-error-handling-eg-404-45fh)
+- [Getting started with Open SaaS](https://dev.to/rbatista19/getting-started-with-open-saas-2gnb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
