@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Note App](https://dev.to/bakhita87/creating-a-note-app-1ma1)
-- [Load balancing with Docker Swarm &amp; Nginx](https://dev.to/joykingoo/load-balancing-with-docker-swarm-nginx-ef5)
-- [Essential Git Commands: A Developer’s Guide](https://dev.to/satyakoidala/essential-git-commands-a-developers-guide-4cd2)
-- [Enhancing React App Security: Implementing Inactivity Logout for Peace of Mind](https://dev.to/ingeniouswebster/enhancing-react-app-security-implementing-inactivity-logout-for-peace-of-mind-3nol)
-- [User browser vs. Puppeteer](https://dev.to/adaschevici/user-browser-vs-puppeteer-3a2e)
+- [Employee Management System using Python.](https://dev.to/spiff/employee-management-system-using-python-101a)
+- [CSS Cascade, Specificity, and Selectors](https://dev.to/stephaniedev/css-cascade-specificity-and-selectors-2jan)
+- [Bridging Tech and Fashion](https://dev.to/k7x667/bridging-tech-and-fashion-3f9p)
+- [How to Persist User Data with LocalStorage in Vue](https://dev.to/alexanderop/how-to-persist-user-data-with-localstorage-in-vue-12h4)
+- [Jakarta Persistence API &lpar;JPA&rpar; example application: Northwind sample database](https://dev.to/saladlam/jakarta-persistence-api-jpa-example-application-northwind-sample-database-1n7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
