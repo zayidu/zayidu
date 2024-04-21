@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Ecla: A Versatile Programming Language for Learning](https://dev.to/mkarten/introducing-ecla-a-versatile-programming-language-for-learning-4cao)
-- [Docker compose, orchestrating and automating services](https://dev.to/dionarodrigues/docker-compose-orchestrating-and-automating-services-3ajg)
-- [React Router DOM V6 Tutorial for Everyone](https://dev.to/thevinitgupta/react-router-dom-v6-tutorial-for-everyone-4i0k)
-- [Trimming JavaScript: ditch verbosity, gain readability](https://dev.to/danbars/trimming-javascript-ditch-verbosity-gain-readability-3fko)
-- [MJPEG stream demo server by Reactor netty](https://dev.to/saladlam/mjpeg-stream-demo-server-by-reactor-netty-2ib8)
+- [React Context Chaos: Global State Management Made Easy](https://dev.to/kigazon/react-context-chaos-global-state-management-made-easy-3cjk)
+- [Visualização automática de esquemas de databases do Sqlite](https://dev.to/msc2020/visualizacao-automatica-de-esquemas-de-databases-do-sqlite-513d)
+- [AWS Bedrock Update from Claude v2.1 to Claude v3](https://dev.to/mmuller88/aws-bedrock-update-from-claude-v21-to-claude-v3-3kle)
+- [Angular Tutorial: Signal Queries with the viewChild&lpar;&rpar; and contentChild&lpar;&rpar; Functions](https://dev.to/brianmtreese/angular-tutorial-signal-queries-with-the-viewchild-and-contentchild-functions-26fm)
+- [Uma introdução à Arquitetura orientada a eventos](https://dev.to/camilaferreiranas/uma-introducao-a-arquitetura-orientada-a-eventos-1h3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
