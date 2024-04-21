@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Elevate Your Web Design with Codepem&#39;s CSS Gradient Generator](https://dev.to/zahidh1626/elevate-your-web-design-with-codepems-css-gradient-generator-3d7m)
-- [Importance of Java in Modern Programming](https://dev.to/devme/importance-of-java-in-modern-programming-ih7)
-- [Conquering the Multiplicity: A Case Study in Preventing Multiple Instances of an Application](https://dev.to/mahakfaheem/conquering-the-multiplicity-a-case-study-in-preventing-multiple-instances-of-an-application-5hl4)
-- [In Depth on CSS](https://dev.to/uhrinuh/in-depth-on-css-j0f)
-- [Do not use &lt;div&gt; in React😎😯👩‍💻](https://dev.to/nayankaslikar/do-not-use-in-react-2783)
+- [Optimizing PostgreSQL Performance: Navigating the Use of Bind Variables in Version 16](https://dev.to/shiviyer/optimizing-postgresql-performance-navigating-the-use-of-bind-variables-in-version-16-2ehk)
+- [React Starter Template 👨🏿‍💻](https://dev.to/bttodd11/react-starter-template-1l01)
+- [Tailwind Login&amp;Register](https://dev.to/yunuss5461/tailwind-loginregister-1cb6)
+- [Lessons for me on leadership, from a film about apes](https://dev.to/shalvah/lessons-for-me-on-leadership-from-a-film-about-apes-34ca)
+- [Share Data between Riot Components with Riot-Mieosis &lpar;State Manager&rpar;](https://dev.to/steeve/share-data-between-riot-components-with-riot-mieosis-state-manager-13g3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
