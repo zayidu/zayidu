@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [HOW TO BECOME A BACKEND DEVELOPER](https://dev.to/toluxx/how-to-become-a-backend-developer-4h13)
+- [Logging Framoworks... Moving from SEQ to f/Lo/G... and why I didn&#39;t pick ELK](https://dev.to/liukonen/logging-framoworks-moving-from-seq-to-flog-and-why-i-didnt-pick-elk-4p00)
+- [Make your oncall easy with Savvy&#39;s AI](https://dev.to/gopher65/make-your-oncall-easy-with-savvys-ai-1bi)
+- [Get started with coding a discord bot](https://dev.to/zemerik/get-started-with-coding-a-discord-bot-2ojc)
 - [Advanced CSS Techniques for Responsive Design](https://dev.to/kartikmehta8/advanced-css-techniques-for-responsive-design-512d)
-- [Tips to embody clean code](https://dev.to/tkrtmy1031/tips-to-embody-clean-code-4jmb)
-- [What React beginners should know about React 19 first.](https://dev.to/jamescroissant/what-react-beginners-should-know-about-react-19-first-4n4n)
-- [Software Samurai](https://dev.to/cheetah100/software-samurai-h3o)
-- [Content Delivery Network Explained 🌎⚡️](https://dev.to/iamdevmarcos/content-delivery-network-explained-5cpf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
