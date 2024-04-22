@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [eBPF: Unleashing Kernel Magic for Modern Infrastructure](https://dev.to/ahmadrahimizadeh/ebpf-unleashing-kernel-magic-for-modern-infrastructure-305a)
-- [List of prompts to increase content clicks](https://dev.to/promry/list-of-prompts-to-increase-content-clicks-3fkp)
-- [Creating mocks for testing react code](https://dev.to/fajarriv/creating-mocks-for-testing-react-code-ml4)
-- [Simulate Clock Skew in Docker Container](https://dev.to/yugabyte/simulate-clock-skew-in-docker-container-2com)
-- [Angular HostAttributeToken: the new way to inject attributes](https://dev.to/davidepassafaro/angular-hostattributetoken-the-new-way-to-inject-attributes-45ia)
+- [I use NixOS for my home-server, and you should too!](https://dev.to/jasper-at-windswept/i-use-nixos-for-my-home-server-and-you-should-too-1n7p)
+- [Exploring the Basics of Elixir](https://dev.to/kartikmehta8/exploring-the-basics-of-elixir-3pni)
+- [Programação não é fácil, mas ao mesmo tempo é fascinante](https://dev.to/any97cris/programacao-nao-e-facil-mas-ao-mesmo-tempo-e-fascinante-4h06)
+- [Unity Dev post 7](https://dev.to/timwatsonnz/unity-dev-post-7-3hm9)
+- [Supercharging Rails: Enabling Ruby&#39;s YJIT Compiler in Production](https://dev.to/colinsoleim/supercharging-rails-enabling-rubys-yjit-compiler-in-production-56o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
