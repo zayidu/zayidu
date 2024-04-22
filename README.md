@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Your E-commerce Experience: Optimizing Checkout for Faster Transactions](https://dev.to/sediak/streamlining-your-e-commerce-experience-optimizing-checkout-for-faster-transactions-35jl)
-- [Mastering Concurrency in Go: A Comprehensive Guide](https://dev.to/santoshanand/mastering-concurrency-in-go-a-comprehensive-guide-5chi)
-- [Create a basic drawing web app with JavaScript - Part 3](https://dev.to/dindustack/create-a-basic-drawing-web-app-with-javascript-part-3-37g7)
-- [&lpar;Part 3&rpar;Golang Framework Hands-on - KisFlow Stream Computing Framework - Project Construction / Basic Modules](https://dev.to/aceld/part-3golang-framework-hands-on-kisflow-stream-computing-framework-project-construction-basic-modules-1epb)
-- [Securely Connecting to PostgreSQL on a Virtual Machine from Anywhere](https://dev.to/instanceofgod/securely-connecting-to-postgresql-on-a-virtual-machine-from-anywhere-4ank)
+- [Self-Care for ADHD Learners: Prioritizing Well-Being in Your Learning Journey &lpar;5/12&rpar;](https://dev.to/techtobe101/self-care-for-adhd-learners-prioritizing-well-being-in-your-learning-journey-512-301k)
+- [Study Techniques for Optimal Focus: Strategies for ADHD Learners &lpar;4/12&rpar;](https://dev.to/techtobe101/study-techniques-for-optimal-focus-strategies-for-adhd-learners-2fi7)
+- [How to use Stable Diffusion 3 to generate a similar image.](https://dev.to/titusefferian/how-to-use-stable-diffusion-3-to-generate-a-similar-image-3f99)
+- [Embracing Your Learning Style: Harnessing the Power of ADHD &lpar;1/12&rpar;](https://dev.to/techtobe101/embracing-your-learning-style-harnessing-the-power-of-adhd-112-2d5)
+- [Performance Testing Explained: A Short Guide](https://dev.to/scdcompany/performance-testing-explained-a-short-guide-5d9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
