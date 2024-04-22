@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Need help in React Page transition](https://dev.to/adityavarma1615/need-help-in-react-page-transition-657)
-- [How Data Science AI Tools are Simplifying Workflows](https://dev.to/get_pieces/how-data-science-ai-tools-are-simplifying-workflows-4nkc)
-- [Learning AWS Day by Day — Day 44 — Amazon Elastic Beanstalk](https://dev.to/rksalo88/learning-aws-day-by-day-day-44-amazon-elastic-beanstalk-313j)
-- [Understanding Stateless and Stateful Widgets in Flutter.](https://dev.to/shahid6289/understanding-stateless-and-stateful-widgets-in-flutter-14cp)
-- [Automate Docker Image Builds and Push to Dual Container Registries &lpar;ECR and Docker Hub&rpar; In One Push Using GitHub Actions](https://dev.to/aws-builders/automate-docker-image-builds-and-push-to-dual-container-registries-ecr-and-docker-hub-in-one-push-using-github-actions-2m82)
+- [You screwed your git history? Don&#39;t panic!](https://dev.to/ccoveille/you-screwed-your-git-history-dont-panic-1o3k)
+- [Case Study - Optimizing Linear Layer](https://dev.to/eugeneo_17/case-study-optimizing-linear-layer-55dl)
+- [** Candy Candy y la Lógica: Una Dulce Analogía en el Mundo Digital **👱‍♀️](https://dev.to/orlidev/-candy-candy-y-la-logica-una-dulce-analogia-en-el-mundo-digital--2a6k)
+- [Including extra meta data with a resource response](https://dev.to/phyothiha/including-extra-meta-data-with-a-resource-response-2bf8)
+- [Certifiably Thrifty: How I Snagged GitHub’s Foundation Certification for Free!](https://dev.to/_eduard26/certifiably-thrifty-how-i-snagged-githubs-foundation-certification-for-free-5217)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
