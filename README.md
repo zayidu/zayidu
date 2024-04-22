@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day - 1: 22-04-2024](https://dev.to/datadynamo/day-1-22-04-2024-3b4d)
-- [Artificial Intelligence and Machine Learning in Web Development](https://dev.to/dirheimerb/artificial-intelligence-and-machine-learning-in-web-development-3n8i)
-- [From Figma to Reality: Building a Simple Page from Design to Code](https://dev.to/epakconsultant/from-figma-to-reality-building-a-simple-page-from-design-to-code-9ad)
-- [Software Development Life Cycle](https://dev.to/cody-daigle/software-development-life-cycle-1f3d)
-- [Exploring Bitwise Operators: From JavaScript to TypeScript Enhancements](https://dev.to/dirheimerb/exploring-bitwise-operators-from-javascript-to-typescript-enhancements-5ab8)
+- [Selenium?](https://dev.to/tremartin/selenium-27om)
+- [Day 26: Unveiling the Magic of INTRODUCTION To Binary Search in Java, C++, Python 🚀](https://dev.to/nitinbhatt46/day-26-unveiling-the-magic-of-introduction-to-binary-search-in-java-c-python-5c2a)
+- [Mobile App Navigation: Patterns and Examples for 2023](https://dev.to/pepper_square/mobile-app-navigation-patterns-and-examples-for-2023-3cf9)
+- [Custom Carousel Widget - Flutter News 2024 #16 ʚїɞ](https://dev.to/lucianojung/flutter-news-2024-16-eyie-1m83)
+- [PROM- Architecture](https://dev.to/anhphan2024/prom-architecture-1f47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
