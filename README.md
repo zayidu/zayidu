@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Bugs to Brilliance: Enhancing Code Reliability Through Mutation Testing](https://dev.to/tiuwill/from-bugs-to-brilliance-enhancing-code-reliability-through-mutation-testing-15gc)
-- [Weekly goals of Modderz Android app . 2024-04-22](https://dev.to/theplebdev/weekly-goals-of-modderz-android-app-2024-04-22-3kf0)
-- [Graph Coloring Problem: Cracking Complexity with Elegant Solutions](https://dev.to/karthik2265/graph-coloring-problem-cracking-complexity-with-elegant-solutions-bmi)
-- [From Theory to Practice: Strategy Pattern in Real-world Scenarios](https://dev.to/jvidaln/from-theory-to-practice-strategy-pattern-in-real-world-scenarios-33mc)
-- [List of Risk Factors and their Explanations that should be included in a Test Plan for a Web-Based Application](https://dev.to/akshara_chandran_0f2b21d7/list-of-risk-factors-and-their-explanations-that-should-be-included-in-a-test-plan-for-a-web-based-application-35aj)
+- [Need help in React Page transition](https://dev.to/adityavarma1615/need-help-in-react-page-transition-657)
+- [How Data Science AI Tools are Simplifying Workflows](https://dev.to/get_pieces/how-data-science-ai-tools-are-simplifying-workflows-4nkc)
+- [Learning AWS Day by Day — Day 44 — Amazon Elastic Beanstalk](https://dev.to/rksalo88/learning-aws-day-by-day-day-44-amazon-elastic-beanstalk-313j)
+- [Understanding Stateless and Stateful Widgets in Flutter.](https://dev.to/shahid6289/understanding-stateless-and-stateful-widgets-in-flutter-14cp)
+- [Automate Docker Image Builds and Push to Dual Container Registries &lpar;ECR and Docker Hub&rpar; In One Push Using GitHub Actions](https://dev.to/aws-builders/automate-docker-image-builds-and-push-to-dual-container-registries-ecr-and-docker-hub-in-one-push-using-github-actions-2m82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
