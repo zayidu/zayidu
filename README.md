@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 949 : Flight Confirmation](https://dev.to/dwane/day-949-flight-confirmation-1fd2)
+- [Meet Cheryl Murphy: Full-Stack Developer, lifelong learner, and volunteer Project Team Lead at Web Dev Path](https://dev.to/wdp/meet-cheryl-murphy-full-stack-developer-lifelong-learner-and-volunteer-project-team-lead-at-web-dev-path-707)
+- [Leveraging Mob Programming for Knowledge Sharing and Instant Code Review](https://dev.to/ivan-klimenkov/leveraging-mob-programming-for-knowledge-sharing-and-instant-code-review-23g9)
 - [12章１３](https://dev.to/aaattt/12zhang-13-2d99)
 - [1971. Find if Path Exists in Graph](https://dev.to/mdarifulhaque/1971-find-if-path-exists-in-graph-18oj)
-- [DevLog #15 - Sprint Retrospective](https://dev.to/amilarangana/devlog-15-sprint-retrospective-1khb)
-- [752. Open the Lock](https://dev.to/mdarifulhaque/752-open-the-lock-562h)
-- [Basic Concepts in Programming](https://dev.to/musaaj/basic-concepts-in-programming-5d40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
