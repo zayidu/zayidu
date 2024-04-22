@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I use NixOS for my home-server, and you should too!](https://dev.to/jasper-at-windswept/i-use-nixos-for-my-home-server-and-you-should-too-1n7p)
-- [Exploring the Basics of Elixir](https://dev.to/kartikmehta8/exploring-the-basics-of-elixir-3pni)
-- [Programação não é fácil, mas ao mesmo tempo é fascinante](https://dev.to/any97cris/programacao-nao-e-facil-mas-ao-mesmo-tempo-e-fascinante-4h06)
-- [Unity Dev post 7](https://dev.to/timwatsonnz/unity-dev-post-7-3hm9)
-- [Supercharging Rails: Enabling Ruby&#39;s YJIT Compiler in Production](https://dev.to/colinsoleim/supercharging-rails-enabling-rubys-yjit-compiler-in-production-56o0)
+- [Go history](https://dev.to/igorcastilhos/go-history-5184)
+- [SAP Basis Snippets #2](https://dev.to/ashwinsharmap/sap-basis-snippets-2-4i97)
+- [Raspberry Pi](https://dev.to/allyn/raspberry-pi-4bgd)
+- [Integrating Rails Backend with React Frontend](https://dev.to/leoneloliver/integrating-rails-backend-with-react-frontend-h3b)
+- [dsplit&lpar;&rpar; and tensor_split&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/dsplit-and-tensorsplit-in-pytorch-1837)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
