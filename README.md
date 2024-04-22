@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Spring and React Project](https://dev.to/tecsxpert/laravel-spring-and-react-project-1n6h)
-- [Replacing Digits in a Number Without Converting to String](https://dev.to/arhamrumi/replacing-digits-in-a-number-without-converting-to-string-1jl4)
-- [Task 1](https://dev.to/ragavi/task-1-1398)
-- [weeklyfoo #29](https://dev.to/urbanisierung/weeklyfoo-29-7oe)
-- [CSS Grid vs Flexbox](https://dev.to/ramkrishnajha5/css-grid-vs-flexbox-324e)
+- [How Are You Celebrating Earth Day? 🌱💧](https://dev.to/devteam/how-are-you-celebrating-earth-day-29aa)
+- [PostgreSQL and NoSQL Capabilities with JSON and JSONB](https://dev.to/dbvismarketing/postgresql-and-nosql-capabilities-with-json-and-jsonb-54i)
+- [One LLaMa to rule them all](https://dev.to/giuliano1993/one-llama-to-rule-them-all-2je8)
+- [Simplifying Network Administration: BGP Route Servers&#39; Function in the Internet Ecosystem](https://dev.to/decix/simplifying-network-administration-bgp-route-servers-function-in-the-internet-ecosystem-nod)
+- [Revamping a Stagnant Website: A Successful Redesign Case Study](https://dev.to/juc/revamping-a-stagnant-website-a-successful-redesign-case-study-4a5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
