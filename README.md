@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Care for ADHD Learners: Prioritizing Well-Being in Your Learning Journey &lpar;5/12&rpar;](https://dev.to/techtobe101/self-care-for-adhd-learners-prioritizing-well-being-in-your-learning-journey-512-301k)
-- [Study Techniques for Optimal Focus: Strategies for ADHD Learners &lpar;4/12&rpar;](https://dev.to/techtobe101/study-techniques-for-optimal-focus-strategies-for-adhd-learners-2fi7)
-- [How to use Stable Diffusion 3 to generate a similar image.](https://dev.to/titusefferian/how-to-use-stable-diffusion-3-to-generate-a-similar-image-3f99)
-- [Embracing Your Learning Style: Harnessing the Power of ADHD &lpar;1/12&rpar;](https://dev.to/techtobe101/embracing-your-learning-style-harnessing-the-power-of-adhd-112-2d5)
-- [Performance Testing Explained: A Short Guide](https://dev.to/scdcompany/performance-testing-explained-a-short-guide-5d9p)
+- [Build k8s Cluster on Hyper-V](https://dev.to/robertluwang/build-k8s-cluster-on-hyper-v-5ae8)
+- [Tips for Success in the Professional World with ADHD &lpar;12/12&rpar;](https://dev.to/techtobe101/tips-for-success-in-the-professional-world-with-adhd-1212-7e2)
+- [How to Implement pagination on API Endpoint Using Nodejs and TypeScript](https://dev.to/emmabase/how-to-implement-pagination-on-api-endpoint-using-nodejs-and-typescript-43e5)
+- [How to Deploy a Fast API Application to a Kubernetes Cluster using Podman and Minikube](https://dev.to/louisalexandrelaguet/how-to-deploy-a-fast-api-application-to-a-kubernetes-cluster-using-podman-and-minikube-168e)
+- [Apple privacy manifest for React Native](https://dev.to/dannyhw/apple-privacy-manifest-for-react-native-29fk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
