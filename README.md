@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Under the Hood - Day 1](https://dev.to/lakhera2015/aws-under-the-hood-day-1-271l)
-- [I switch from Eslint to Biome](https://dev.to/amiceli/i-switch-from-eslint-to-biome-3bem)
-- [Machine Learning with PHP](https://dev.to/robertobutti/machine-learning-with-php-5gb)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55po)
-- [ATLSECCON 2024: Navigating the Future of Cybersecurity in Halifax](https://dev.to/gitguardian/atlseccon-2024-navigating-the-future-of-cybersecurity-in-halifax-3pm2)
+- [12章１３](https://dev.to/aaattt/12zhang-13-2d99)
+- [1971. Find if Path Exists in Graph](https://dev.to/mdarifulhaque/1971-find-if-path-exists-in-graph-18oj)
+- [DevLog #15 - Sprint Retrospective](https://dev.to/amilarangana/devlog-15-sprint-retrospective-1khb)
+- [752. Open the Lock](https://dev.to/mdarifulhaque/752-open-the-lock-562h)
+- [Basic Concepts in Programming](https://dev.to/musaaj/basic-concepts-in-programming-5d40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
