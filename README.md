@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Active Directory &lpar;AD&rpar; vs Azure Active Directory &lpar;AAD&rpar;](https://dev.to/luca1iu/active-directory-ad-vs-azure-active-directory-aad-16fa)
-- [Linux Booting process](https://dev.to/rudeh1253/linux-booting-process-2pde)
-- [6 Tips for Creating Better Website Surveys](https://dev.to/syedbalkhi/6-tips-for-creating-better-website-surveys-1k01)
-- [Mastering Session Management with NestJS and Redis: A Comprehensive Guide](https://dev.to/es404020/mastering-session-management-with-nestjs-and-redis-a-comprehensive-guide-1a6h)
-- [Meet 3 New ODBC Drivers for Microsoft Access, Airtable, and ServiceNow](https://dev.to/devartteam/meet-3-new-odbc-drivers-for-microsoft-access-airtable-and-servicenow-4n03)
+- [Tools &amp; Extensions for Vue JS](https://dev.to/chabbasaad/tools-extensions-for-vue-js-246i)
+- [Custom Laravel Authentication with Multi-Factor Options](https://dev.to/aaronreddix/custom-laravel-authentication-with-multi-factor-options-1gpb)
+- [Simple tips for predictable code](https://dev.to/roman_m/simple-tips-for-predictable-code-2c8l)
+- [My first project in React &amp; Tailwind](https://dev.to/zemerik/my-first-project-in-react-tailwind-3010)
+- [How to Build a Robust Web Scraper with Laravel: and Catch &#39;Em All](https://dev.to/athanstan/how-to-build-a-robust-web-scraper-with-laravel-and-catch-em-all-15g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
