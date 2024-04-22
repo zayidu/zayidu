@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tools &amp; Extensions for Vue JS](https://dev.to/chabbasaad/tools-extensions-for-vue-js-246i)
-- [Custom Laravel Authentication with Multi-Factor Options](https://dev.to/aaronreddix/custom-laravel-authentication-with-multi-factor-options-1gpb)
-- [Simple tips for predictable code](https://dev.to/roman_m/simple-tips-for-predictable-code-2c8l)
-- [My first project in React &amp; Tailwind](https://dev.to/zemerik/my-first-project-in-react-tailwind-3010)
-- [How to Build a Robust Web Scraper with Laravel: and Catch &#39;Em All](https://dev.to/athanstan/how-to-build-a-robust-web-scraper-with-laravel-and-catch-em-all-15g9)
+- [Streamlining Your E-commerce Experience: Optimizing Checkout for Faster Transactions](https://dev.to/sediak/streamlining-your-e-commerce-experience-optimizing-checkout-for-faster-transactions-35jl)
+- [Mastering Concurrency in Go: A Comprehensive Guide](https://dev.to/santoshanand/mastering-concurrency-in-go-a-comprehensive-guide-5chi)
+- [Create a basic drawing web app with JavaScript - Part 3](https://dev.to/dindustack/create-a-basic-drawing-web-app-with-javascript-part-3-37g7)
+- [&lpar;Part 3&rpar;Golang Framework Hands-on - KisFlow Stream Computing Framework - Project Construction / Basic Modules](https://dev.to/aceld/part-3golang-framework-hands-on-kisflow-stream-computing-framework-project-construction-basic-modules-1epb)
+- [Securely Connecting to PostgreSQL on a Virtual Machine from Anywhere](https://dev.to/instanceofgod/securely-connecting-to-postgresql-on-a-virtual-machine-from-anywhere-4ank)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
