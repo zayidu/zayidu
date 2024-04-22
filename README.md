@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build k8s Cluster on Hyper-V](https://dev.to/robertluwang/build-k8s-cluster-on-hyper-v-5ae8)
-- [Tips for Success in the Professional World with ADHD &lpar;12/12&rpar;](https://dev.to/techtobe101/tips-for-success-in-the-professional-world-with-adhd-1212-7e2)
-- [How to Implement pagination on API Endpoint Using Nodejs and TypeScript](https://dev.to/emmabase/how-to-implement-pagination-on-api-endpoint-using-nodejs-and-typescript-43e5)
-- [How to Deploy a Fast API Application to a Kubernetes Cluster using Podman and Minikube](https://dev.to/louisalexandrelaguet/how-to-deploy-a-fast-api-application-to-a-kubernetes-cluster-using-podman-and-minikube-168e)
-- [Apple privacy manifest for React Native](https://dev.to/dannyhw/apple-privacy-manifest-for-react-native-29fk)
+- [Let&#39;s Build a Unique Tech YouTube Channel Together - Share Your Ideas and Be Part of the Journey!](https://dev.to/huseyn0w/lets-build-a-unique-tech-youtube-channel-together-share-your-ideas-and-be-part-of-the-journey-2i93)
+- [How to Detect Small Objects](https://dev.to/voxel51/how-to-detect-small-objects-51o5)
+- [What are your goals for week 17 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-17-of-2024-a0d)
+- [Turning Secure Access Into Child’s Play with Permit Access Request APIs](https://dev.to/permit_io/turning-secure-access-into-childs-play-with-permit-access-request-apis-235p)
+- [How Generative AI is Sparking Creative Innovation Across Industries](https://dev.to/dmytro_kharyna/how-generative-ai-is-sparking-creative-innovation-across-industries-21gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
