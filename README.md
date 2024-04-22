@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Designs — Observer Pattern](https://dev.to/cougarred1/javascript-designs-observer-pattern-16hl)
 - [The Most Important Thing I learned About Writing Readable Code](https://dev.to/annoh_karlgusta/the-most-important-thing-i-learned-about-writing-readable-code-42ih)
+- [[Tutorial] Como usar o Git e GitHub](https://dev.to/devmoreir4/tutorial-como-usar-o-git-e-github-2b62)
 - [A Simple Guide to Integrating Rails Backend with React Frontend](https://dev.to/leoneloliver/a-simple-guide-to-integrating-rails-backend-with-react-frontend-4i28)
 - [⚽ FootBot](https://dev.to/mattryanmtl/footbot-4l3b)
-- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;15/04/2024–21/04/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-15042024-21042024-4ag3)
-- [Go history](https://dev.to/igorcastilhos/go-history-5184)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
