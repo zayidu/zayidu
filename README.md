@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenProject’s COO on remote work, AI, and a love for customers](https://dev.to/openproject/openprojects-coo-on-remote-work-ai-and-a-love-for-customers-jdo)
-- [How to set up Amazon RDS Proxy for Amazon Aurora &lpar;Serverless&rpar; database cluster and connect AWS Lambda function to it](https://dev.to/aws-builders/how-to-set-up-amazon-rds-proxy-for-amazon-aurora-serverless-database-cluster-and-connect-aws-lambda-function-to-it-20m5)
-- [Day 22/366](https://dev.to/vishalmx3/day-22366-3bc7)
-- [How to Add Markers to Google Maps in React.js](https://dev.to/aneeqakhan/how-to-add-markers-to-google-maps-in-reactjs-1jnk)
-- [File I/O in Go](https://dev.to/romulogatto/file-io-in-go-488d)
+- [From Bugs to Brilliance: Enhancing Code Reliability Through Mutation Testing](https://dev.to/tiuwill/from-bugs-to-brilliance-enhancing-code-reliability-through-mutation-testing-15gc)
+- [Weekly goals of Modderz Android app . 2024-04-22](https://dev.to/theplebdev/weekly-goals-of-modderz-android-app-2024-04-22-3kf0)
+- [Graph Coloring Problem: Cracking Complexity with Elegant Solutions](https://dev.to/karthik2265/graph-coloring-problem-cracking-complexity-with-elegant-solutions-bmi)
+- [From Theory to Practice: Strategy Pattern in Real-world Scenarios](https://dev.to/jvidaln/from-theory-to-practice-strategy-pattern-in-real-world-scenarios-33mc)
+- [List of Risk Factors and their Explanations that should be included in a Test Plan for a Web-Based Application](https://dev.to/akshara_chandran_0f2b21d7/list-of-risk-factors-and-their-explanations-that-should-be-included-in-a-test-plan-for-a-web-based-application-35aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
