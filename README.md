@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Are You Celebrating Earth Day? 🌱💧](https://dev.to/devteam/how-are-you-celebrating-earth-day-29aa)
-- [PostgreSQL and NoSQL Capabilities with JSON and JSONB](https://dev.to/dbvismarketing/postgresql-and-nosql-capabilities-with-json-and-jsonb-54i)
-- [One LLaMa to rule them all](https://dev.to/giuliano1993/one-llama-to-rule-them-all-2je8)
-- [Simplifying Network Administration: BGP Route Servers&#39; Function in the Internet Ecosystem](https://dev.to/decix/simplifying-network-administration-bgp-route-servers-function-in-the-internet-ecosystem-nod)
-- [Revamping a Stagnant Website: A Successful Redesign Case Study](https://dev.to/juc/revamping-a-stagnant-website-a-successful-redesign-case-study-4a5c)
+- [Step-by-Step Guide to Integrate TypeScript into a Node.js Project 🚀🛠️](https://dev.to/amatisse/step-by-step-guide-to-integrate-typescript-into-a-nodejs-project-25ao)
+- [Kubernetes CI/CD Pipelines](https://dev.to/spacelift/kubernetes-cicd-pipelines-1llk)
+- [ES6 Spread Operator: Unleashing the Power of Modern JavaScript](https://dev.to/ellis22/es6-spread-operator-unleashing-the-power-of-modern-javascript-p7o)
+- [My talk got accepted 😍](https://dev.to/ayush2390/my-talk-got-accepted-2j0b)
+- [The Builder Design Pattern](https://dev.to/paulund/the-builder-design-pattern-1986)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
