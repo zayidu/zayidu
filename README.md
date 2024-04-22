@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide to Integrate TypeScript into a Node.js Project 🚀🛠️](https://dev.to/amatisse/step-by-step-guide-to-integrate-typescript-into-a-nodejs-project-25ao)
-- [Kubernetes CI/CD Pipelines](https://dev.to/spacelift/kubernetes-cicd-pipelines-1llk)
-- [ES6 Spread Operator: Unleashing the Power of Modern JavaScript](https://dev.to/ellis22/es6-spread-operator-unleashing-the-power-of-modern-javascript-p7o)
-- [My talk got accepted 😍](https://dev.to/ayush2390/my-talk-got-accepted-2j0b)
-- [The Builder Design Pattern](https://dev.to/paulund/the-builder-design-pattern-1986)
+- [Understanding Go: part 10 – Struct](https://dev.to/aurelievache/understanding-go-part-10-struct-5ghf)
+- [Managing versions of OpenTofu, Terraform and TerraGrunt with tenv and DOP](https://dev.to/devopspass/managing-versions-of-opentofu-terraform-and-terragrunt-with-tenv-and-dop-58gc)
+- [Survival prediction for Titanic passengers using logistic regression.](https://dev.to/vaibha_v/survival-prediction-for-titanic-passengers-using-logistic-regression-854)
+- [JOINs in SQL](https://dev.to/esproc_spl/joins-in-sql-3kla)
+- [HAY Launching on Product Hunt, April 23rd 🌱](https://dev.to/hay_devex/hay-launching-on-product-hunt-april-23rd-1a27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
