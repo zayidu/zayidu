@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Go: part 10 – Struct](https://dev.to/aurelievache/understanding-go-part-10-struct-5ghf)
-- [Managing versions of OpenTofu, Terraform and TerraGrunt with tenv and DOP](https://dev.to/devopspass/managing-versions-of-opentofu-terraform-and-terragrunt-with-tenv-and-dop-58gc)
-- [Survival prediction for Titanic passengers using logistic regression.](https://dev.to/vaibha_v/survival-prediction-for-titanic-passengers-using-logistic-regression-854)
-- [JOINs in SQL](https://dev.to/esproc_spl/joins-in-sql-3kla)
-- [HAY Launching on Product Hunt, April 23rd 🌱](https://dev.to/hay_devex/hay-launching-on-product-hunt-april-23rd-1a27)
+- [Active Directory &lpar;AD&rpar; vs Azure Active Directory &lpar;AAD&rpar;](https://dev.to/luca1iu/active-directory-ad-vs-azure-active-directory-aad-16fa)
+- [Linux Booting process](https://dev.to/rudeh1253/linux-booting-process-2pde)
+- [6 Tips for Creating Better Website Surveys](https://dev.to/syedbalkhi/6-tips-for-creating-better-website-surveys-1k01)
+- [Mastering Session Management with NestJS and Redis: A Comprehensive Guide](https://dev.to/es404020/mastering-session-management-with-nestjs-and-redis-a-comprehensive-guide-1a6h)
+- [Meet 3 New ODBC Drivers for Microsoft Access, Airtable, and ServiceNow](https://dev.to/devartteam/meet-3-new-odbc-drivers-for-microsoft-access-airtable-and-servicenow-4n03)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
