@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IP Geolocation API in Cerb](https://dev.to/ip2location/ip-geolocation-api-in-cerb-2bf1)
-- [Detecting and redacting PII using Amazon Bedrock](https://dev.to/aws-builders/detecting-and-redacting-pii-using-amazon-bedrock-1jol)
-- [I am using ChatGPT to animate my characters, in less than 5 minutes. Here is how you can do it too:](https://dev.to/anulagarwal12/i-am-using-chatgpt-to-animate-my-characters-in-less-than-5-minutes-here-is-how-you-can-do-it-too-5c33)
-- [Crafting Reliable Web Apps: Embracing Offline Accessibility with Service Workers](https://dev.to/sangeetha/crafting-reliable-web-apps-embracing-offline-accessibility-with-service-workers-3if1)
-- [[React Native Guide 2024] Part 1: Builds and flavors.](https://dev.to/devnrj07/react-native-guide-2024-part-1-builds-and-flavors-1571)
+- [What is Kubectl?](https://dev.to/getambassador2024/what-is-kubectl-3309)
+- [Build A Public API with Supabase in 10 Minutes](https://dev.to/psteinroe/build-a-public-api-with-supabase-in-10-minutes-2947)
+- [Being Sustainable on the Power Platform](https://dev.to/wyattdave/being-sustainable-on-the-power-platform-23h7)
+- [How can I update a class component in SyncLane?](https://dev.to/jzhan/how-can-i-update-a-class-component-in-synclane-13k2)
+- [React Carousel](https://dev.to/vimal_adithan/react-carousel-23nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
