@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Hooks Deep Dive](https://dev.to/mario130/react-hooks-deep-dive-1621)
-- [My Failed Student Housing App](https://dev.to/lardcanoe/my-failed-student-housing-app-2k7p)
-- [Where to find queue worker config files created from laravel forge?](https://dev.to/cmanish049/where-to-find-queue-worker-config-files-created-from-laravel-forge-dk6)
-- [My last project for 100 React projects in 100 days](https://dev.to/jwhubert91/my-last-project-for-100-react-projects-in-100-days-2el8)
-- [How To Make An Insanely Fast AI App &lpar;Supabase, LLAMA 3 and Groq&rpar;](https://dev.to/isheanesu_dev/how-to-make-an-insanely-fast-ai-app-supabase-llama-3-and-groq-g22)
+- [Open Source Manifesto](https://dev.to/opensourceadvocate/open-source-manifesto-3f0b)
+- [RESTful API: Essential Question &amp; Answers](https://dev.to/princem/restful-api-essential-question-answers-2e8)
+- [spring into spring: basics, API, beans](https://dev.to/ashleyd480/spring-into-spring-basics-api-beans-1dbo)
+- [sum&lpar;&rpar;, prod&lpar;&rpar; and cartesian_prod&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/sum-prod-and-cartesianprod-in-pytorch-22li)
+- [começando à aprender Java](https://dev.to/darcii/comecando-a-aprender-java-3cif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
