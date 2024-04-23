@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Svelte for Frontend Development](https://dev.to/kartikmehta8/getting-started-with-svelte-for-frontend-development-3hng)
-- [Priority Poker ♣️🃏](https://dev.to/mattlewandowski93/priority-poker-28g4)
-- [Primeras 3 semanas](https://dev.to/norman404/primeras-3-semanas-13n6)
-- [１２章6](https://dev.to/aaattt/12zhang-6-3df7)
-- [Issue 41 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-41-of-aws-cloud-security-weekly-4epo)
+- [reAIdme: generate READMEs interpreting directly your code and instructions](https://dev.to/astrabert/reaidme-generate-readmes-interpreting-directly-your-code-and-instructions-1o7d)
+- [Jasper Report Gist](https://dev.to/abreham_biruk/jasper-report-gist-2c8e)
+- [Stop Using the var Keyword!](https://dev.to/michaeljolley/stop-using-the-var-keyword-4ml0)
+- [Delegation is the last thing managers should do](https://dev.to/vietdt89/delegation-is-the-last-thing-managers-should-do-3af0)
+- [🎮📊 Developing Esports OpenAPI Schema: How to integrate SportDevs API?](https://dev.to/marsenikolw3/developing-esports-openapi-schema-how-to-integrate-sportdevs-api-4142)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
