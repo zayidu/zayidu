@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [reAIdme: generate READMEs interpreting directly your code and instructions](https://dev.to/astrabert/reaidme-generate-readmes-interpreting-directly-your-code-and-instructions-1o7d)
-- [Jasper Report Gist](https://dev.to/abreham_biruk/jasper-report-gist-2c8e)
-- [Stop Using the var Keyword!](https://dev.to/michaeljolley/stop-using-the-var-keyword-4ml0)
-- [Delegation is the last thing managers should do](https://dev.to/vietdt89/delegation-is-the-last-thing-managers-should-do-3af0)
-- [🎮📊 Developing Esports OpenAPI Schema: How to integrate SportDevs API?](https://dev.to/marsenikolw3/developing-esports-openapi-schema-how-to-integrate-sportdevs-api-4142)
+- [Tipos de Aprendizado de Máquina](https://dev.to/analaura/tipos-de-aprendizado-de-maquina-2205)
+- [Creating my own homelab](https://dev.to/caresle/creating-my-own-homelab-1b55)
+- [React - Virtual DOM, Reconciliation, Fiber](https://dev.to/fatimaalam1234/react-virtual-dom-reconciliation-fiber-354n)
+- [Despliega una Infraestructura de Red AWS Robusta con Terraform](https://dev.to/francotel/despliega-una-infraestructura-de-red-aws-robusta-con-terraform-440e)
+- [How to measure GitOps success?](https://dev.to/prasannajatla/how-to-measure-gitops-success-3cjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
