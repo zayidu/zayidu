@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Interface of C#](https://dev.to/takeda1411123/interface-of-c-2oo1)
-- [Workshop: Unveiling the Power of Web Performance Metrics for Testers [Spartans Summit 2024]](https://dev.to/lambdatest/workshop-unveiling-the-power-of-web-performance-metrics-for-testers-spartans-summit-2024-18bo)
-- [Why Having Fixed Technical Specifications May Not Always Be the Best Choice in Software Development?](https://dev.to/scdcompany/why-having-fixed-technical-specifications-may-not-always-be-the-best-choice-in-software-development-3p2f)
-- [Why Having Fixed Technical Specifications May Not Always Be the Best Choice in Software Development?](https://dev.to/scdcompany/why-having-fixed-technical-specifications-may-not-always-be-the-best-choice-in-software-development-lgh)
-- [Step-by-Step: Sending Telegram Messages from Your Website](https://dev.to/webcraft-notes/step-by-step-sending-telegram-messages-from-your-website-29i8)
+- [Software Testing as a Debugging Tool](https://dev.to/codenameone/software-testing-as-a-debugging-tool-26bj)
+- [What is GitOps?](https://dev.to/shasheeshpurohit/what-is-gitops-1ef0)
+- [Llama 3: The Next Generation of AI-Powered Language Models](https://dev.to/gimkelum/llama-3-the-next-generation-of-ai-powered-language-models-2d92)
+- [Complex types](https://dev.to/kudratswe/complex-types-1h7f)
+- [Ultimate Guide to AWS S3 Buckets in 2024: New Features, Storage Smarts, and Beyond](https://dev.to/ddeveloperr/ultimate-guide-to-aws-s3-buckets-new-features-storage-smarts-and-beyond-bdh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
