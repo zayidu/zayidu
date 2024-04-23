@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Testing as a Debugging Tool](https://dev.to/codenameone/software-testing-as-a-debugging-tool-26bj)
-- [What is GitOps?](https://dev.to/shasheeshpurohit/what-is-gitops-1ef0)
-- [Llama 3: The Next Generation of AI-Powered Language Models](https://dev.to/gimkelum/llama-3-the-next-generation-of-ai-powered-language-models-2d92)
-- [Complex types](https://dev.to/kudratswe/complex-types-1h7f)
-- [Ultimate Guide to AWS S3 Buckets in 2024: New Features, Storage Smarts, and Beyond](https://dev.to/ddeveloperr/ultimate-guide-to-aws-s3-buckets-new-features-storage-smarts-and-beyond-bdh)
+- [API Key Authentication Middleware In ASP NET Core – A How To Guide](https://dev.to/devleader/api-key-authentication-middleware-in-asp-net-core-a-how-to-guide-2ol9)
+- [React Pure Components](https://dev.to/fatimaalam1234/react-pure-components-32b2)
+- [REST API](https://dev.to/tmrifat87/rest-api-2j0e)
+- [Data Engineering - Practicing for fun](https://dev.to/dentrodailha96/data-engineering-practing-for-fun-178h)
+- [graph](https://dev.to/imnotleo/graph-4l4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
