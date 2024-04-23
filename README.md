@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Are You Surviving the Software Rollercoaster?](https://dev.to/devteam/are-you-surviving-the-software-rollercoaster-19n2)
-- [What&#39;s the Best Question to Ask in a Meeting?](https://dev.to/devteam/whats-the-best-question-to-ask-in-a-meeting-4fm5)
-- [Unlocking Developer Engagement: The Open-Source Community Playbook](https://dev.to/vauntdev/unlocking-developer-engagement-the-open-source-community-playbook-22ha)
-- [Traditional crawler or AI-assisted crawler? How to choose?](https://dev.to/coderhxl/traditional-crawler-or-ai-assisted-crawler-how-to-choose-46cc)
-- [Enhancing JavaScript with Promise.withResolvers&lpar;&rpar;](https://dev.to/bgdnvarlamov/enhancing-javascript-with-promisewithresolvers-3nlm)
+- [Rails Designer v0.10.0 released: Stats and Tabs](https://dev.to/railsdesigner/rails-designer-v0100-released-stats-and-tabs-4epb)
+- [Reusing Umbraco Properties in Umbraco v14](https://dev.to/mattbrailsford/reusing-umbraco-properties-in-umbraco-v14-15b7)
+- [Let&#39;s talk about EPIC and USER STORIES](https://dev.to/akshara_chandran_0f2b21d7/lets-talk-about-epic-and-user-stories-3mlc)
+- [Let&#39;s talk a bit about AGILE METHODOLOGY](https://dev.to/akshara_chandran_0f2b21d7/lets-talk-a-bit-about-agile-methodology-259a)
+- [From Zero to CRUD Hero: Building Your First Backend API in JavaScript](https://dev.to/codexive_zech/from-zero-to-crud-hero-building-your-first-backend-api-in-javascript-238n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
