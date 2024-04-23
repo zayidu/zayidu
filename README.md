@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🕵🏻‍♂️** Inspector Gadget: El maestro de la recursividad **🕵🏻‍♂️](https://dev.to/orlidev/-inspector-gadget-el-maestro-de-la-recursividad--12k4)
+- [Best and Simple Real-Time Validation Library Without Needing JavaScript Code](https://dev.to/claudye/best-and-simple-real-time-validation-library-without-needing-javascript-code-5bjm)
 - [Open Source Manifesto](https://dev.to/opensourceadvocate/open-source-manifesto-3f0b)
 - [RESTful API: Essential Question &amp; Answers](https://dev.to/princem/restful-api-essential-question-answers-2e8)
 - [spring into spring: basics, API, beans](https://dev.to/ashleyd480/spring-into-spring-basics-api-beans-1dbo)
-- [sum&lpar;&rpar;, prod&lpar;&rpar; and cartesian_prod&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/sum-prod-and-cartesianprod-in-pytorch-22li)
-- [começando à aprender Java](https://dev.to/darcii/comecando-a-aprender-java-3cif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
