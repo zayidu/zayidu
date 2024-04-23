@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implement React v18 from Scratch Using WASM and Rust - [7] Support FunctionComponent Type](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-7-support-functioncomponent-type-2am7)
-- [GEMINI 💎 VS CHATGPT ⚔️](https://dev.to/mince/gemini-vs-chatgpt-1eia)
-- [Everything You Need to Know About OpenAPI](https://dev.to/speakeasy/everything-you-need-to-know-about-openapi-17mh)
-- [🚀 21 Tools to take your dev skills to the moon 🌝](https://dev.to/taipy/21-tools-to-take-your-dev-skills-to-the-moon-53mf)
-- [Developing VTable Custom Edit Component with React](https://dev.to/xuanhun/developing-vtable-custom-edit-component-with-react-3l7i)
+- [Tricky Double](https://dev.to/flounder4130/tricky-double-4k3j)
+- [What Are Standalone Components Angular 17 ?](https://dev.to/himanshudevgupta/what-are-standalone-components-angular-17--1cam)
+- [New Web Portfolio 16bit OS Style](https://dev.to/matteosant_dev/new-web-portfolio-16bit-os-style-20h9)
+- [Prisma vs. Drizzle: A Comprehensive Guide for Your NextJS Project](https://dev.to/fabrikapp/prisma-vs-drizzle-a-comprehensive-guide-for-your-nextjs-project-1lfd)
+- [8 UX Design Principles That Ensure Seamless User Experience Of Your Product](https://dev.to/yujofficial/8-ux-design-principles-that-ensure-seamless-user-experience-of-your-product-2a57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
