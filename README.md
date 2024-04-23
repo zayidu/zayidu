@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MobX Mayhem: State Management for the Wicked](https://dev.to/kigazon/mobx-mayhem-state-management-for-the-wicked-nf8)
-- [Public Speaking Challenge](https://dev.to/thaisavieira/public-speaking-challenge-53p1)
-- [Java for Game Development: An Introduction](https://dev.to/dbillion/java-for-game-development-an-introduction-10c6)
-- [💻🤓Algomania: Data Structure and Algorithm Helper Bot](https://dev.to/andreagon/algomania-data-structure-and-algorithm-helper-bot-1lki)
-- [Mastering the Art of Engagement: Adding Push Notifications to your Flutter App](https://dev.to/epakconsultant/mastering-the-art-of-engagement-adding-push-notifications-to-your-flutter-app-2439)
+- [IP Geolocation API in Cerb](https://dev.to/ip2location/ip-geolocation-api-in-cerb-2bf1)
+- [Detecting and redacting PII using Amazon Bedrock](https://dev.to/aws-builders/detecting-and-redacting-pii-using-amazon-bedrock-1jol)
+- [I am using ChatGPT to animate my characters, in less than 5 minutes. Here is how you can do it too:](https://dev.to/anulagarwal12/i-am-using-chatgpt-to-animate-my-characters-in-less-than-5-minutes-here-is-how-you-can-do-it-too-5c33)
+- [Crafting Reliable Web Apps: Embracing Offline Accessibility with Service Workers](https://dev.to/sangeetha/crafting-reliable-web-apps-embracing-offline-accessibility-with-service-workers-3if1)
+- [[React Native Guide 2024] Part 1: Builds and flavors.](https://dev.to/devnrj07/react-native-guide-2024-part-1-builds-and-flavors-1571)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
