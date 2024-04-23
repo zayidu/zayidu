@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Accountability Post For April 22, 2024](https://dev.to/grimkillingbeck/accountability-post-for-april-22-2024-13i6)
-- [Node.js 16: End of Support Looms Large - Time to Upgrade!](https://dev.to/akbaralihussain/nodejs-16-end-of-support-looms-large-time-to-upgrade-1bn9)
-- [console.log&lpar;&quot;Hello, world!&quot;&rpar;;](https://dev.to/ticha/consoleloghello-world-hcg)
-- [Criação do Ambiente Azure e Deploy &lpar;para noobs, assim como eu xD&rpar;](https://dev.to/pedross11/criacao-do-ambiente-azure-e-deploy-mais-facil-possivel-3lc)
-- [Building a Spotify Journal](https://dev.to/victordelcarpio/building-a-spotify-journal-232j)
+- [CVPR 2024 Datasets and Benchmarks - Part 1: Datasets](https://dev.to/voxel51/cvpr-2024-datasets-and-benchmarks-part-1-datasets-2eig)
+- [From College to Work: How to Build an Online Advantage and Ace Your First Tech Job Interview](https://dev.to/phalkmin/from-college-to-work-how-to-build-an-online-advantageand-ace-your-first-tech-job-interview-4pk5)
+- [Exploring Numeric Data Types in Rust and Go](https://dev.to/bkataru/exploring-numeric-data-types-in-rust-and-go-m98)
+- [AI enthusiasm #7 - Build an AI-powered Telegram Bot!🤖](https://dev.to/astrabert/ai-enthusiasm-7-build-an-ai-powered-telegram-bot-2i8p)
+- [Your Name Is Not Administrator](https://dev.to/grimkillingbeck/your-name-is-not-administrator-53gi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
