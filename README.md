@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up Doom Emacs for Astro Development](https://dev.to/emiller/setting-up-doom-emacs-for-astro-development-2b4g)
-- [The Importance of Soft Skills in Test Automation [Spartans Summit 2024]](https://dev.to/lambdatest/the-importance-of-soft-skills-in-test-automation-spartans-summit-2024-47c7)
-- [I Love Working Remotely, Even Though It Sucks at Times](https://dev.to/lukeocodes/i-love-working-remotely-even-though-it-sucks-at-times-4g41)
-- [Ways to Boost Employee Engagement with Microsoft Teams](https://dev.to/customguide/ways-to-boost-employee-engagement-with-microsoft-teams-35bk)
-- [Collab Chronicles: Exploring the Collaborative Experience](https://dev.to/ijay/collab-chronicles-exploring-the-collaborative-experience-5284)
+- [Interface of C#](https://dev.to/takeda1411123/interface-of-c-2oo1)
+- [Workshop: Unveiling the Power of Web Performance Metrics for Testers [Spartans Summit 2024]](https://dev.to/lambdatest/workshop-unveiling-the-power-of-web-performance-metrics-for-testers-spartans-summit-2024-18bo)
+- [Why Having Fixed Technical Specifications May Not Always Be the Best Choice in Software Development?](https://dev.to/scdcompany/why-having-fixed-technical-specifications-may-not-always-be-the-best-choice-in-software-development-3p2f)
+- [Why Having Fixed Technical Specifications May Not Always Be the Best Choice in Software Development?](https://dev.to/scdcompany/why-having-fixed-technical-specifications-may-not-always-be-the-best-choice-in-software-development-lgh)
+- [Step-by-Step: Sending Telegram Messages from Your Website](https://dev.to/webcraft-notes/step-by-step-sending-telegram-messages-from-your-website-29i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
