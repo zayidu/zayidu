@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Cloud Practitioner Certification](https://dev.to/sundus/aws-cloud-practitioner-certification-1l61)
-- [Sometimes things simply don&#39;t work](https://dev.to/adaschevici/sometimes-things-simply-dont-work-10cf)
-- [Understanding Reconciliation in ReactJs - Keeping the Virtual DOM and the Real DOM in Sync.](https://dev.to/ashsajal/understanding-reconciliation-in-reactjs-keeping-the-virtual-dom-and-the-real-dom-in-sync-25f4)
-- [L&#39;Utilité de ChatGPT Français : Un Essai par Boogie Beckman](https://dev.to/chatgptfr/lutilite-de-chatgpt-francais-un-essai-par-boogie-beckman-4gml)
-- [Beyond Code Generation: Crafting Custom Hive Adapters](https://dev.to/dinko7/beyond-code-generation-crafting-custom-hive-adapters-1p33)
+- [Implement React v18 from Scratch Using WASM and Rust - [7] Support FunctionComponent Type](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-7-support-functioncomponent-type-2am7)
+- [GEMINI 💎 VS CHATGPT ⚔️](https://dev.to/mince/gemini-vs-chatgpt-1eia)
+- [Everything You Need to Know About OpenAPI](https://dev.to/speakeasy/everything-you-need-to-know-about-openapi-17mh)
+- [🚀 21 Tools to take your dev skills to the moon 🌝](https://dev.to/taipy/21-tools-to-take-your-dev-skills-to-the-moon-53mf)
+- [Developing VTable Custom Edit Component with React](https://dev.to/xuanhun/developing-vtable-custom-edit-component-with-react-3l7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
