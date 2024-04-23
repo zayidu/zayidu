@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CVPR 2024 Datasets and Benchmarks - Part 1: Datasets](https://dev.to/voxel51/cvpr-2024-datasets-and-benchmarks-part-1-datasets-2eig)
-- [From College to Work: How to Build an Online Advantage and Ace Your First Tech Job Interview](https://dev.to/phalkmin/from-college-to-work-how-to-build-an-online-advantageand-ace-your-first-tech-job-interview-4pk5)
-- [Exploring Numeric Data Types in Rust and Go](https://dev.to/bkataru/exploring-numeric-data-types-in-rust-and-go-m98)
-- [AI enthusiasm #7 - Build an AI-powered Telegram Bot!🤖](https://dev.to/astrabert/ai-enthusiasm-7-build-an-ai-powered-telegram-bot-2i8p)
-- [Your Name Is Not Administrator](https://dev.to/grimkillingbeck/your-name-is-not-administrator-53gi)
+- [How to Hire Mobile App Developers](https://dev.to/remotebase/how-to-hire-mobile-app-developers-3hmi)
+- [Embarking on Your Application Infrastructure Adventure: From Bare Metal to VMs, Docker, and K8s](https://dev.to/ahmadrahimizadeh/embarking-on-your-application-infrastructure-adventure-from-bare-metal-to-vms-docker-and-k8s-317b)
+- [Задача с собеседования в Google. 939. Minimum Area Rectangle](https://dev.to/faangmaster/zadacha-s-sobiesiedovaniia-v-google-939-minimum-area-rectangle-c0o)
+- [Automate Your Infrastructure with Terraform: A Beginner&#39;s Guide](https://dev.to/arbythecoder/automate-your-infrastructure-with-terraform-a-beginners-guide-1kg7)
+- [Flutter e seu incrível poder de animação](https://dev.to/ulisseshen/flutter-e-seu-incrivel-poder-de-animacao-3gc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
