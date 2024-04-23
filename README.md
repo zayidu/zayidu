@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tricky Double](https://dev.to/flounder4130/tricky-double-4k3j)
-- [What Are Standalone Components Angular 17 ?](https://dev.to/himanshudevgupta/what-are-standalone-components-angular-17--1cam)
-- [New Web Portfolio 16bit OS Style](https://dev.to/matteosant_dev/new-web-portfolio-16bit-os-style-20h9)
-- [Prisma vs. Drizzle: A Comprehensive Guide for Your NextJS Project](https://dev.to/fabrikapp/prisma-vs-drizzle-a-comprehensive-guide-for-your-nextjs-project-1lfd)
-- [8 UX Design Principles That Ensure Seamless User Experience Of Your Product](https://dev.to/yujofficial/8-ux-design-principles-that-ensure-seamless-user-experience-of-your-product-2a57)
+- [Public Speaking is so addictive](https://dev.to/ayush2390/public-speaking-is-so-addictive-1aoa)
+- [Elevate Your Laravel Eloquent Queries with Tappable Scopes](https://dev.to/sean_kegel/elevate-your-laravel-eloquent-queries-with-tappable-scopes-1p7f)
+- [Laravel Cache Classes](https://dev.to/sean_kegel/laravel-cache-classes-4pho)
+- [Java GUI Frameworks: Some go for these fine tools](https://dev.to/zoltanf/java-gui-frameworks-some-go-for-these-fine-tools-4cmf)
+- [John Clement Teasdale: The Power of a Stroke](https://dev.to/johnclementteasdale_/john-clement-teasdale-the-power-of-a-stroke-dcn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
