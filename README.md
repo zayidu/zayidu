@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🕵🏻‍♂️** Inspector Gadget: El maestro de la recursividad **🕵🏻‍♂️](https://dev.to/orlidev/-inspector-gadget-el-maestro-de-la-recursividad--12k4)
-- [Best and Simple Real-Time Validation Library Without Needing JavaScript Code](https://dev.to/claudye/best-and-simple-real-time-validation-library-without-needing-javascript-code-5bjm)
-- [Open Source Manifesto](https://dev.to/opensourceadvocate/open-source-manifesto-3f0b)
-- [RESTful API: Essential Question &amp; Answers](https://dev.to/princem/restful-api-essential-question-answers-2e8)
-- [spring into spring: basics, API, beans](https://dev.to/ashleyd480/spring-into-spring-basics-api-beans-1dbo)
+- [O Método GROWS: Uma Abordagem Holística para o Desenvolvimento de Software](https://dev.to/elixir_utfpr/o-metodo-grows-uma-abordagem-holistica-para-o-desenvolvimento-de-software-3b83)
+- [Creating a Pokémon guessing game using Supabase, Drizzle, and Next.js in just 2 hours!](https://dev.to/asheeshh/creating-a-pokemon-guessing-game-using-supabase-drizzle-and-nextjs-in-just-2-hours-1m9o)
+- [Code Smells: Long Methods](https://dev.to/matheusgomes062/code-smells-long-methods-5f2p)
+- [Unraveling the Code: Creating Bubble Text for April #CodePenChallenge](https://dev.to/juliianikitina/unraveling-the-code-creating-bubble-text-for-april-codepenchallenge-2fb8)
+- [Setting Up a VPS on DigitalOcean to Build Your Blockchain Nodes](https://dev.to/tomtomdu73/setting-up-a-vps-on-digitalocean-to-build-your-blockchain-nodes-4iic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
