@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Public Speaking is so addictive](https://dev.to/ayush2390/public-speaking-is-so-addictive-1aoa)
-- [Elevate Your Laravel Eloquent Queries with Tappable Scopes](https://dev.to/sean_kegel/elevate-your-laravel-eloquent-queries-with-tappable-scopes-1p7f)
-- [Laravel Cache Classes](https://dev.to/sean_kegel/laravel-cache-classes-4pho)
-- [Java GUI Frameworks: Some go for these fine tools](https://dev.to/zoltanf/java-gui-frameworks-some-go-for-these-fine-tools-4cmf)
-- [John Clement Teasdale: The Power of a Stroke](https://dev.to/johnclementteasdale_/john-clement-teasdale-the-power-of-a-stroke-dcn)
+- [Setting up Doom Emacs for Astro Development](https://dev.to/emiller/setting-up-doom-emacs-for-astro-development-2b4g)
+- [The Importance of Soft Skills in Test Automation [Spartans Summit 2024]](https://dev.to/lambdatest/the-importance-of-soft-skills-in-test-automation-spartans-summit-2024-47c7)
+- [I Love Working Remotely, Even Though It Sucks at Times](https://dev.to/lukeocodes/i-love-working-remotely-even-though-it-sucks-at-times-4g41)
+- [Ways to Boost Employee Engagement with Microsoft Teams](https://dev.to/customguide/ways-to-boost-employee-engagement-with-microsoft-teams-35bk)
+- [Collab Chronicles: Exploring the Collaborative Experience](https://dev.to/ijay/collab-chronicles-exploring-the-collaborative-experience-5284)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
