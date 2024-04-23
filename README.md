@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 949 : Flight Confirmation](https://dev.to/dwane/day-949-flight-confirmation-1fd2)
-- [Meet Cheryl Murphy: Full-Stack Developer, lifelong learner, and volunteer Project Team Lead at Web Dev Path](https://dev.to/wdp/meet-cheryl-murphy-full-stack-developer-lifelong-learner-and-volunteer-project-team-lead-at-web-dev-path-707)
-- [Leveraging Mob Programming for Knowledge Sharing and Instant Code Review](https://dev.to/ivan-klimenkov/leveraging-mob-programming-for-knowledge-sharing-and-instant-code-review-23g9)
-- [12章１３](https://dev.to/aaattt/12zhang-13-2d99)
-- [1971. Find if Path Exists in Graph](https://dev.to/mdarifulhaque/1971-find-if-path-exists-in-graph-18oj)
+- [Getting Started with Svelte for Frontend Development](https://dev.to/kartikmehta8/getting-started-with-svelte-for-frontend-development-3hng)
+- [Priority Poker ♣️🃏](https://dev.to/mattlewandowski93/priority-poker-28g4)
+- [Primeras 3 semanas](https://dev.to/norman404/primeras-3-semanas-13n6)
+- [１２章6](https://dev.to/aaattt/12zhang-6-3df7)
+- [Issue 41 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-41-of-aws-cloud-security-weekly-4epo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
