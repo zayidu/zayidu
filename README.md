@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [O Método GROWS: Uma Abordagem Holística para o Desenvolvimento de Software](https://dev.to/elixir_utfpr/o-metodo-grows-uma-abordagem-holistica-para-o-desenvolvimento-de-software-3b83)
-- [Creating a Pokémon guessing game using Supabase, Drizzle, and Next.js in just 2 hours!](https://dev.to/asheeshh/creating-a-pokemon-guessing-game-using-supabase-drizzle-and-nextjs-in-just-2-hours-1m9o)
-- [Code Smells: Long Methods](https://dev.to/matheusgomes062/code-smells-long-methods-5f2p)
-- [Unraveling the Code: Creating Bubble Text for April #CodePenChallenge](https://dev.to/juliianikitina/unraveling-the-code-creating-bubble-text-for-april-codepenchallenge-2fb8)
-- [Setting Up a VPS on DigitalOcean to Build Your Blockchain Nodes](https://dev.to/tomtomdu73/setting-up-a-vps-on-digitalocean-to-build-your-blockchain-nodes-4iic)
+- [Accountability Post For April 22, 2024](https://dev.to/grimkillingbeck/accountability-post-for-april-22-2024-13i6)
+- [Node.js 16: End of Support Looms Large - Time to Upgrade!](https://dev.to/akbaralihussain/nodejs-16-end-of-support-looms-large-time-to-upgrade-1bn9)
+- [console.log&lpar;&quot;Hello, world!&quot;&rpar;;](https://dev.to/ticha/consoleloghello-world-hcg)
+- [Criação do Ambiente Azure e Deploy &lpar;para noobs, assim como eu xD&rpar;](https://dev.to/pedross11/criacao-do-ambiente-azure-e-deploy-mais-facil-possivel-3lc)
+- [Building a Spotify Journal](https://dev.to/victordelcarpio/building-a-spotify-journal-232j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
