@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Landscape of Data Management Tools](https://dev.to/sganalytics/landscape-of-data-management-tools-i12)
-- [UNDERSTANDING MEMORY USAGE: INSIGHTS ON RECURSION AND DO WHILE LOOPS](https://dev.to/brainvault_tech/understanding-memory-usage-insights-on-recursion-and-do-while-loops-h7b)
-- [How to create a bottom drawer with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-bottom-drawer-with-tailwind-css-and-alpinejs-mlm)
-- [Hot module replacement &lpar;HMR&rpar; in AdonisJS](https://dev.to/adonisframework/hot-module-replacement-hmr-in-adonisjs-5fi2)
-- [Enatega Releases Open-Source App Repo](https://dev.to/qasim_ninjascode/enatega-releases-open-source-app-repo-5ahf)
+- [How to build a fullstack application with Go, Templ, and HTMX](https://dev.to/hackmamba/how-to-build-a-fullstack-application-with-go-templ-and-htmx-4444)
+- [How to upgrade your Angular web project from Angular V13 to Angular V17](https://dev.to/epakconsultant/how-to-upgrade-your-angular-web-project-from-angular-v13-to-angular-v17-3l5m)
+- [How to Build a stock filter to search the stock market for stocks that meet certain criteria in TradingView](https://dev.to/epakconsultant/how-to-build-a-stock-filter-to-search-the-stock-market-for-stocks-that-meet-certain-criteria-in-tradingview-3h1)
+- [Release Announcement: KeycloakClientBundle v2.0](https://dev.to/mainick/release-announcement-keycloakclientbundle-v20-3oga)
+- [Built-in min&lpar;&rpar; and max&lpar;&rpar; methods in Go 1.21](https://dev.to/sw360cab/built-in-min-and-max-methods-in-go-121-24ph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
