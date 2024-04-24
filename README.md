@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Random Password Generate](https://dev.to/palchandu_dev/random-password-generate-2519)
-- [MY FIRST POST](https://dev.to/iamjitin_11/my-first-post-de4)
-- [&#39;La cocotera&#39;, the Rota Spring Fair booth that you cannot miss this year](https://dev.to/mackness1478/la-cocotera-the-rota-spring-fair-booth-that-you-cannot-miss-this-year-5hh8)
-- [Finta&#39;s Automated Financial Synchronization powered by Plaid, Stripe and Inngest](https://dev.to/itstayfay/fintas-automated-financial-synchronization-powered-by-plaid-stripe-and-inngest-286p)
-- [Top 5 Enterprise Software Development Trends for 2024](https://dev.to/kmoda1202/top-5-enterprise-software-development-trends-for-2024-1f8c)
+- [Approaches to Styling React Components, Best Use Cases](https://dev.to/antonzo/approaches-to-style-react-components-best-use-cases-4ifb)
+- [Are Morning Routines Overrated?](https://dev.to/devteam/are-morning-routines-overrated-427k)
+- [Angular new output&lpar;&rpar; function](https://dev.to/davidepassafaro/angular-new-output-function-44f1)
+- [JavaScript Lexical Scope Explained shortly](https://dev.to/ashsajal/javascript-lexical-scope-explained-shortly-2kgd)
+- [Creating a Turing Complete Game in Power Apps](https://dev.to/wyattdave/creating-a-turing-complete-game-in-power-apps-p56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
