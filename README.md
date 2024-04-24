@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG 2.0 : Your AI’s Scattered Brain Just Got Organized](https://dev.to/exploredataaiml/rag-20-your-ais-scattered-brain-just-got-organized-26a)
-- [SOCKS5 Proxy Quickstart](https://dev.to/rahuldhole/socks5-proxy-quickstart-265g)
-- [Proxmox Recovery](https://dev.to/rahuldhole/proxmox-recovery-5a3f)
-- [Proxmox WiFi Connection Story](https://dev.to/rahuldhole/proxmox-wifi-connection-story-1ip6)
 - [Go program pattern 02: Implementing Class Inheritance and Method Overriding through Composition](https://dev.to/huizhou92/go-program-pattern-02-implementing-class-inheritance-and-method-overriding-through-composition-313i)
+- [Unveiling Insights into Project Management Software and its Demographics](https://dev.to/olivier32621338/unveiling-insights-into-project-management-software-and-its-demographics-3b12)
+- [1 Common Mistake Junior Developers Make](https://dev.to/annoh_karlgusta/1-common-mistake-junior-developers-make-3m7g)
+- [Laravel: Pengenalan Fitur Reverb Di Laravel](https://dev.to/aditiyadwiramadani88/laravel-pengenalan-fitur-reverb-di-laravel-3iic)
+- [Empower your Projects with Face Recognition SDK: 9 Must-Have Features for Developers](https://dev.to/faceplugin/empower-your-projects-with-face-recognition-sdk-9-must-have-features-for-developers-5hj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
