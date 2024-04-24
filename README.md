@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a fullstack application with Go, Templ, and HTMX](https://dev.to/hackmamba/how-to-build-a-fullstack-application-with-go-templ-and-htmx-4444)
-- [How to upgrade your Angular web project from Angular V13 to Angular V17](https://dev.to/epakconsultant/how-to-upgrade-your-angular-web-project-from-angular-v13-to-angular-v17-3l5m)
-- [How to Build a stock filter to search the stock market for stocks that meet certain criteria in TradingView](https://dev.to/epakconsultant/how-to-build-a-stock-filter-to-search-the-stock-market-for-stocks-that-meet-certain-criteria-in-tradingview-3h1)
-- [Release Announcement: KeycloakClientBundle v2.0](https://dev.to/mainick/release-announcement-keycloakclientbundle-v20-3oga)
-- [Built-in min&lpar;&rpar; and max&lpar;&rpar; methods in Go 1.21](https://dev.to/sw360cab/built-in-min-and-max-methods-in-go-121-24ph)
+- [Tableau Public VS Tableau Desktop Public Edition](https://dev.to/pizofreude/tableau-public-vs-tableau-desktop-public-edition-4e1o)
+- [Two sums](https://dev.to/prashantrmishra/two-sums-4f1l)
+- [Write a Simple blockchain in Golang](https://dev.to/santoshanand/write-a-simple-blockchain-in-golang-58mc)
+- [The Art of Web Design: Crafting Digital Experiences That Captivate](https://dev.to/robertadler/the-art-of-web-design-crafting-digital-experiences-that-captivate-ohh)
+- [Worst Hire - my lessons](https://dev.to/martinbaun/worst-hire-my-lessons-2icg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
