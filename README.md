@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Minimize HTTP Requests for a Faster Website](https://dev.to/olabisioleyede/how-to-minimize-http-requests-for-a-faster-website-298m)
-- [How to create a slick CSS animation from Cocktail](https://dev.to/robole/how-to-create-a-slick-css-animation-from-cocktail-4o8l)
-- [How To Easily Remove a Password From a PDF file](https://dev.to/federicotrotta/how-to-easily-remove-a-password-from-a-pdf-file-158b)
-- [Transducers and Eduction in Clojure simply explained](https://dev.to/this-is-learning/transducers-and-eduction-in-clojure-simply-explained-5bij)
-- [Writing a Simple Program in Java](https://dev.to/paulike/writing-a-simple-program-in-java-12ch)
+- [Introducing Planner: A Fresh Take on React Scheduling Components](https://dev.to/uretzkyzvi/introducing-planner-a-fresh-take-on-react-scheduling-components-dbf)
+- [Learn how to implement VAT for your e-commerce website with Sylius in 6 minutes](https://dev.to/theodo/learn-how-to-implement-vat-for-your-e-commerce-website-with-sylius-in-6-minutes-m3m)
+- [BEST 👍 TOOLS FOR BEST 👍 PRODUCTIVITY](https://dev.to/mince/best-tools-for-best-productivity-42ng)
+- [Glasskube Beta is live!](https://dev.to/glasskube/glasskube-beta-is-live-2k06)
+- [Building a Personalized Playlist Generator with Lyzr Automata](https://dev.to/akshay007/building-a-personalized-playlist-generator-with-lyzr-automata-4916)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
