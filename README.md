@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Buy and sell stocks](https://dev.to/prashantrmishra/buy-and-sell-stocks-527h)
-- [Skills you need as a DevRel](https://dev.to/ayush2390/skills-you-need-as-a-devrel-57bi)
-- [Boto3 and Python unittest.mock](https://dev.to/panilo/boto3-and-python-unittestmock-5hji)
-- [A Guide to Using Currency Converter APIs for Seamless Financial Transactions](https://dev.to/rameshchauhan/a-guide-to-using-currency-converter-apis-for-seamless-financial-transactions-182j)
-- [To Review or Not to Review: The Debate on Mandatory Code Reviews](https://dev.to/alonn24/to-review-or-not-to-review-the-debate-on-mandatory-code-reviews-3044)
+- [Harnessing the Power of Domain Events in Go](https://dev.to/uudashr/harnessing-the-power-of-domain-events-in-go-13o3)
+- [5 steps to learn to code successfully in 2024](https://dev.to/educative/5-steps-to-learn-to-code-successfully-in-2024-2mnc)
+- [Useful Points 🥹 to Get Prepared for a Solution Architect Role 💼](https://dev.to/awedis/useful-points-to-get-prepared-for-a-solution-architect-role-i43)
+- [The benefits of adding an activity feed to your B2B product](https://dev.to/knocklabs/the-benefits-of-adding-an-activity-feed-to-your-b2b-product-1ba5)
+- [Llama 2 vs Mistral 7B: Know What&#39;s Best For You](https://dev.to/hyscaler/llama-2-vs-mistral-7b-know-whats-best-for-you-1828)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
