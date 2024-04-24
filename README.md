@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Planner: A Fresh Take on React Scheduling Components](https://dev.to/uretzkyzvi/introducing-planner-a-fresh-take-on-react-scheduling-components-dbf)
-- [Learn how to implement VAT for your e-commerce website with Sylius in 6 minutes](https://dev.to/theodo/learn-how-to-implement-vat-for-your-e-commerce-website-with-sylius-in-6-minutes-m3m)
-- [BEST 👍 TOOLS FOR BEST 👍 PRODUCTIVITY](https://dev.to/mince/best-tools-for-best-productivity-42ng)
-- [Glasskube Beta is live!](https://dev.to/glasskube/glasskube-beta-is-live-2k06)
-- [Building a Personalized Playlist Generator with Lyzr Automata](https://dev.to/akshay007/building-a-personalized-playlist-generator-with-lyzr-automata-4916)
+- [Handling Video Streaming and Byte Range Requests in PHP](https://dev.to/sh20raj/handling-video-streaming-and-byte-range-requests-in-php-3337)
+- [API Gateways in Zuplo – Creating an ASCII Art API](https://dev.to/devleader/api-gateways-in-zuplo-creating-an-ascii-art-api-4gle)
+- [PM built another productivity timer](https://dev.to/alexgerasim/pm-built-another-productivity-timer-38ab)
+- [AWS Under the Hood - Day 4](https://dev.to/lakhera2015/aws-under-the-hood-day-4-22eb)
+- [Levantando um SQL Server RDS em AWS](https://dev.to/bccaxias/levantando-um-sql-server-rds-em-aws-31fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
