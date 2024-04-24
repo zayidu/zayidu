@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tableau Public VS Tableau Desktop Public Edition](https://dev.to/pizofreude/tableau-public-vs-tableau-desktop-public-edition-4e1o)
-- [Two sums](https://dev.to/prashantrmishra/two-sums-4f1l)
-- [Write a Simple blockchain in Golang](https://dev.to/santoshanand/write-a-simple-blockchain-in-golang-58mc)
-- [The Art of Web Design: Crafting Digital Experiences That Captivate](https://dev.to/robertadler/the-art-of-web-design-crafting-digital-experiences-that-captivate-ohh)
-- [Worst Hire - my lessons](https://dev.to/martinbaun/worst-hire-my-lessons-2icg)
+- [Buy and sell stocks](https://dev.to/prashantrmishra/buy-and-sell-stocks-527h)
+- [Skills you need as a DevRel](https://dev.to/ayush2390/skills-you-need-as-a-devrel-57bi)
+- [Boto3 and Python unittest.mock](https://dev.to/panilo/boto3-and-python-unittestmock-5hji)
+- [A Guide to Using Currency Converter APIs for Seamless Financial Transactions](https://dev.to/rameshchauhan/a-guide-to-using-currency-converter-apis-for-seamless-financial-transactions-182j)
+- [To Review or Not to Review: The Debate on Mandatory Code Reviews](https://dev.to/alonn24/to-review-or-not-to-review-the-debate-on-mandatory-code-reviews-3044)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
