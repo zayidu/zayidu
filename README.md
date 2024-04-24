@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Approaches to Styling React Components, Best Use Cases](https://dev.to/antonzo/approaches-to-style-react-components-best-use-cases-4ifb)
-- [Are Morning Routines Overrated?](https://dev.to/devteam/are-morning-routines-overrated-427k)
-- [Angular new output&lpar;&rpar; function](https://dev.to/davidepassafaro/angular-new-output-function-44f1)
-- [JavaScript Lexical Scope Explained shortly](https://dev.to/ashsajal/javascript-lexical-scope-explained-shortly-2kgd)
-- [Creating a Turing Complete Game in Power Apps](https://dev.to/wyattdave/creating-a-turing-complete-game-in-power-apps-p56)
+- [Landscape of Data Management Tools](https://dev.to/sganalytics/landscape-of-data-management-tools-i12)
+- [UNDERSTANDING MEMORY USAGE: INSIGHTS ON RECURSION AND DO WHILE LOOPS](https://dev.to/brainvault_tech/understanding-memory-usage-insights-on-recursion-and-do-while-loops-h7b)
+- [How to create a bottom drawer with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-bottom-drawer-with-tailwind-css-and-alpinejs-mlm)
+- [Hot module replacement &lpar;HMR&rpar; in AdonisJS](https://dev.to/adonisframework/hot-module-replacement-hmr-in-adonisjs-5fi2)
+- [Enatega Releases Open-Source App Repo](https://dev.to/qasim_ninjascode/enatega-releases-open-source-app-repo-5ahf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
