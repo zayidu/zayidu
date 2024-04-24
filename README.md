@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to register a domain name on Safaricom](https://dev.to/bryan_oginga/how-to-register-a-domain-name-on-safaricom-470f)
-- [How do you automate PIM for Groups? &lpar;Part 3. Expiration time, Policies, and experiments&rpar;](https://dev.to/rokicool/how-do-you-automate-pim-for-groups-part-3-expiration-time-policies-and-experiments-35d2)
-- [Join us for Azure Developers - .NET Day on April 30!](https://dev.to/dotnet/join-us-for-azure-developers-net-day-on-april-30-1pj8)
-- [Practical Batch: Setting up high and low priority queues](https://dev.to/delagoya/practical-batch-setting-up-high-and-low-priority-queues-8fe)
-- [Optimizing Team Collaboration: Advanced Git Strategies for Developers](https://dev.to/get_pieces/optimizing-team-collaboration-advanced-git-strategies-for-developers-3d04)
+- [How to Make Great Content for Developers](https://dev.to/jeffmorhous/how-to-make-great-content-for-developers-58bp)
+- [Node.js PM2 Explained](https://dev.to/mirzaleka/nodejs-pm2-explained-5g2h)
+- [Getting started with HTML EP3](https://dev.to/bbylumi/getting-started-with-html-ep3-3haf)
+- [20 Free Api For Your Next Project](https://dev.to/fazicodes/20-free-api-for-your-next-project-51d5)
+- [Seeking Insights from Application Developers](https://dev.to/arno_msft/seeking-insights-from-application-developers-4f92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
