@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Theoretical Concepts in Web Development](https://dev.to/illyrian__/learning-theoretical-concepts-in-web-development-lp2)
-- [📐 Gap vs. Margin: Rethinking Spacing in CSS](https://dev.to/adam/gap-vs-margin-rethinking-spacing-in-css-36jc)
-- [Rubber Ducker - GPT + 🦆💻](https://dev.to/salika_dave/rubber-ducker-gpt--2bcm)
-- [OracleBootCamp - 5 May 2024](https://dev.to/nabhaas/oraclebootcamp-5-may-2024-5f0)
-- [Why don’t we talk about minifying CSS anymore?](https://dev.to/whitep4nth3r/why-dont-we-talk-about-minifying-css-anymore-18cj)
+- [I Said Goodbye to ChatGPT and Hello to Llama 3 on Open WebUI - You Should Too](https://dev.to/timesurgelabs/i-said-goodbye-to-chatgpt-and-hello-to-llama-3-on-open-webui-you-should-too-4g6k)
+- [Earth Day Frontend Challenge](https://dev.to/rebeccapeltz/earth-day-frontend-challenge-4m9i)
+- [Earth Day Frontend Challenge](https://dev.to/rebeccapeltz/earth-day-frontend-challenge-71k)
+- [** El correcaminos: el algoritmo eficiente **🦊](https://dev.to/orlidev/-el-correcaminos-el-algoritmo-eficiente--3m7a)
+- [Day 24/366](https://dev.to/vishalmx3/day-23366-f6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
