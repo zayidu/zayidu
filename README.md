@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Magic of Mobile-First](https://dev.to/devpedrodias/the-magic-of-mobile-first-3g24)
-- [Gestión de Entidades DPE &lpar;parte 2&rpar;](https://dev.to/villacisg93/gestion-de-entidades-dpe-parte-2-3kc5)
-- [manpage art, man is still alive](https://dev.to/poetaman/manpage-art-man-is-still-alive-511c)
-- [A Magia do Mobile-First](https://dev.to/devpedrodias/a-magia-do-mobile-first-35di)
-- [Welcome Thread - v273](https://dev.to/devteam/welcome-thread-v273-5djj)
+- [Cloudflare Workers - Serverless Hosting](https://dev.to/rahuldhole/cloudflare-workers-serverless-hosting-1fma)
+- [Empower your Projects with Face Recognition SDK: 9 Must-Have Features for Developers](https://dev.to/faceplugin/empower-your-projects-with-face-recognition-sdk-9-must-have-features-for-developers-5hj3)
+- [１２章４４](https://dev.to/aaattt/12zhang-44-2jpb)
+- [MinIO Quickstart - Object Management](https://dev.to/rahuldhole/minio-quickstart-object-management-23on)
+- [📦 Put dev dependencies in tools.go](https://dev.to/jcbhmr/put-dev-dependencies-in-toolsgo-9e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
