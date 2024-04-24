@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing the Power of Domain Events in Go](https://dev.to/uudashr/harnessing-the-power-of-domain-events-in-go-13o3)
-- [5 steps to learn to code successfully in 2024](https://dev.to/educative/5-steps-to-learn-to-code-successfully-in-2024-2mnc)
-- [Useful Points 🥹 to Get Prepared for a Solution Architect Role 💼](https://dev.to/awedis/useful-points-to-get-prepared-for-a-solution-architect-role-i43)
-- [The benefits of adding an activity feed to your B2B product](https://dev.to/knocklabs/the-benefits-of-adding-an-activity-feed-to-your-b2b-product-1ba5)
-- [Llama 2 vs Mistral 7B: Know What&#39;s Best For You](https://dev.to/hyscaler/llama-2-vs-mistral-7b-know-whats-best-for-you-1828)
+- [Serverless Postgres with Neon - My first impression](https://dev.to/aws-heroes/serverless-postgres-with-neon-my-first-impression-1n3p)
+- [Benefits of Using React Js For Custom Web Development](https://dev.to/oliviaeve250/benefits-of-using-react-js-for-custom-web-development-25j0)
+- [What is Software Trading, and Why is it Important?](https://dev.to/dmytro_kharyna/what-is-software-trading-and-why-is-it-important-3oa1)
+- [Top 10 PHP Testing Frameworks for 2024](https://dev.to/lambdatest/top-10-php-testing-frameworks-for-2024-4gee)
+- [Como configurar imagem Docker&lpar;PHP e Nginx&rpar; para projetos Laravel com PHP 8.3](https://dev.to/jmarcos16/como-configurar-imagem-dockerphp-e-nginx-para-projetos-laravel-com-php-83-23jn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
