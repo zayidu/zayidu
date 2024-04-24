@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Great Content for Developers](https://dev.to/jeffmorhous/how-to-make-great-content-for-developers-58bp)
-- [Node.js PM2 Explained](https://dev.to/mirzaleka/nodejs-pm2-explained-5g2h)
-- [Getting started with HTML EP3](https://dev.to/bbylumi/getting-started-with-html-ep3-3haf)
-- [20 Free Api For Your Next Project](https://dev.to/fazicodes/20-free-api-for-your-next-project-51d5)
-- [Seeking Insights from Application Developers](https://dev.to/arno_msft/seeking-insights-from-application-developers-4f92)
+- [PostgreSQL for MySQL Users - Alternatives to the DESCRIBE Statement](https://dev.to/dbvismarketing/postgresql-for-mysql-users-alternatives-to-the-describe-statement-5025)
+- [Understanding Java’s Pass by Value with Heap and Stack Frames Visualization](https://dev.to/bad-logic/understanding-javas-pass-by-value-with-heap-and-stack-frames-visualization-3g12)
+- [Is Teaching One of the Best Ways To Learn?](https://dev.to/hjgonzalez06/is-teaching-one-of-the-best-ways-to-learn-2478)
+- [Building fragments of JSX](https://dev.to/priya_sharma/building-fragments-of-jsx-3cej)
+- [Programmer Meets Programmer: How a Coffee Break Turned Into a Startup Story](https://dev.to/csharp-programming/programmer-meets-programmer-how-a-coffee-break-turned-into-a-startup-story-2hen)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
