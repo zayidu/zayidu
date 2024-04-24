@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go program pattern 02: Implementing Class Inheritance and Method Overriding through Composition](https://dev.to/huizhou92/go-program-pattern-02-implementing-class-inheritance-and-method-overriding-through-composition-313i)
-- [Unveiling Insights into Project Management Software and its Demographics](https://dev.to/olivier32621338/unveiling-insights-into-project-management-software-and-its-demographics-3b12)
-- [1 Common Mistake Junior Developers Make](https://dev.to/annoh_karlgusta/1-common-mistake-junior-developers-make-3m7g)
-- [Laravel: Pengenalan Fitur Reverb Di Laravel](https://dev.to/aditiyadwiramadani88/laravel-pengenalan-fitur-reverb-di-laravel-3iic)
-- [Empower your Projects with Face Recognition SDK: 9 Must-Have Features for Developers](https://dev.to/faceplugin/empower-your-projects-with-face-recognition-sdk-9-must-have-features-for-developers-5hj3)
+- [7 API ON NODE.JS](https://dev.to/pekachu17/7-api-on-nodejs-l14)
+- [Invoking an AWS Lambda Function with Terraform](https://dev.to/codeisgood/invoking-an-aws-lambda-function-with-terraform-3nl7)
+- [Insights from My Computer Science Journey: Key Learnings and Advice](https://dev.to/johnkelsey/insights-from-my-computer-science-journey-key-learnings-and-advice-580g)
+- [Welcome to John Kelsey&#39;s Article](https://dev.to/johnkelsey/welcome-to-john-kelseys-article-3o5a)
+- [Couldn’t get equations in html when convert word .docx file to html file in C#.](https://dev.to/conduct2024/couldnt-get-equations-in-html-when-convert-word-docx-file-to-html-file-in-c-4j5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
