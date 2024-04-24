@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tetris Development 1 - Setting Up](https://dev.to/xzzz3/tetris-development-1-setting-up-548o)
-- [Learning AWS Day by Day — Day 45 — Amazon DynamoDB — Part 1](https://dev.to/rksalo88/learning-aws-day-by-day-day-45-amazon-dynamodb-part-1-3i0p)
-- [Drinking Your Own Champagne: Drive Developer Productivity &amp; Better Products](https://dev.to/getambassador2024/drinking-your-own-champagne-drive-developer-productivity-better-products-pok)
-- [The Power of Reusable Components in React](https://dev.to/leoneloliver/the-power-of-reusable-components-in-react-2d79)
-- [Mastering Conversations: A Guide to Building and Using a Java-Based Chat &lpar;StarChat&rpar; with IRIS Cloud SQL.](https://dev.to/intersystems/mastering-conversations-a-guide-to-building-and-using-a-java-based-chat-starchat-with-iris-cloud-sql-4gok)
+- [Learning Theoretical Concepts in Web Development](https://dev.to/illyrian__/learning-theoretical-concepts-in-web-development-lp2)
+- [📐 Gap vs. Margin: Rethinking Spacing in CSS](https://dev.to/adam/gap-vs-margin-rethinking-spacing-in-css-36jc)
+- [Rubber Ducker - GPT + 🦆💻](https://dev.to/salika_dave/rubber-ducker-gpt--2bcm)
+- [OracleBootCamp - 5 May 2024](https://dev.to/nabhaas/oraclebootcamp-5-may-2024-5f0)
+- [Why don’t we talk about minifying CSS anymore?](https://dev.to/whitep4nth3r/why-dont-we-talk-about-minifying-css-anymore-18cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
