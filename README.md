@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Said Goodbye to ChatGPT and Hello to Llama 3 on Open WebUI - You Should Too](https://dev.to/timesurgelabs/i-said-goodbye-to-chatgpt-and-hello-to-llama-3-on-open-webui-you-should-too-4g6k)
-- [Earth Day Frontend Challenge](https://dev.to/rebeccapeltz/earth-day-frontend-challenge-4m9i)
-- [Earth Day Frontend Challenge](https://dev.to/rebeccapeltz/earth-day-frontend-challenge-71k)
-- [** El correcaminos: el algoritmo eficiente **🦊](https://dev.to/orlidev/-el-correcaminos-el-algoritmo-eficiente--3m7a)
-- [Day 24/366](https://dev.to/vishalmx3/day-23366-f6a)
+- [How to register a domain name on Safaricom](https://dev.to/bryan_oginga/how-to-register-a-domain-name-on-safaricom-470f)
+- [How do you automate PIM for Groups? &lpar;Part 3. Expiration time, Policies, and experiments&rpar;](https://dev.to/rokicool/how-do-you-automate-pim-for-groups-part-3-expiration-time-policies-and-experiments-35d2)
+- [Join us for Azure Developers - .NET Day on April 30!](https://dev.to/dotnet/join-us-for-azure-developers-net-day-on-april-30-1pj8)
+- [Practical Batch: Setting up high and low priority queues](https://dev.to/delagoya/practical-batch-setting-up-high-and-low-priority-queues-8fe)
+- [Optimizing Team Collaboration: Advanced Git Strategies for Developers](https://dev.to/get_pieces/optimizing-team-collaboration-advanced-git-strategies-for-developers-3d04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
