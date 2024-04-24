@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Hire Mobile App Developers](https://dev.to/remotebase/how-to-hire-mobile-app-developers-3hmi)
-- [Embarking on Your Application Infrastructure Adventure: From Bare Metal to VMs, Docker, and K8s](https://dev.to/ahmadrahimizadeh/embarking-on-your-application-infrastructure-adventure-from-bare-metal-to-vms-docker-and-k8s-317b)
-- [Задача с собеседования в Google. 939. Minimum Area Rectangle](https://dev.to/faangmaster/zadacha-s-sobiesiedovaniia-v-google-939-minimum-area-rectangle-c0o)
-- [Automate Your Infrastructure with Terraform: A Beginner&#39;s Guide](https://dev.to/arbythecoder/automate-your-infrastructure-with-terraform-a-beginners-guide-1kg7)
-- [Flutter e seu incrível poder de animação](https://dev.to/ulisseshen/flutter-e-seu-incrivel-poder-de-animacao-3gc1)
+- [The Magic of Mobile-First](https://dev.to/devpedrodias/the-magic-of-mobile-first-3g24)
+- [Gestión de Entidades DPE &lpar;parte 2&rpar;](https://dev.to/villacisg93/gestion-de-entidades-dpe-parte-2-3kc5)
+- [manpage art, man is still alive](https://dev.to/poetaman/manpage-art-man-is-still-alive-511c)
+- [A Magia do Mobile-First](https://dev.to/devpedrodias/a-magia-do-mobile-first-35di)
+- [Welcome Thread - v273](https://dev.to/devteam/welcome-thread-v273-5djj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
