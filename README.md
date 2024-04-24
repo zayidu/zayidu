@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [1 Common Mistake Junior Developers Make](https://dev.to/annoh_karlgusta/1-common-mistake-junior-developers-make-3m7g)
-- [tmux toggle status bar](https://dev.to/rahuldhole/tmux-toggle-status-bar-288m)
-- [Laravel: Pengenalan Fitur Reverb Di Laravel](https://dev.to/aditiyadwiramadani88/laravel-pengenalan-fitur-reverb-di-laravel-3iic)
-- [Git commands - most used](https://dev.to/rahuldhole/git-commands-most-used-56h2)
-- [Cloudflare Workers - Serverless Hosting](https://dev.to/rahuldhole/cloudflare-workers-serverless-hosting-1fma)
+- [RAG 2.0 : Your AI’s Scattered Brain Just Got Organized](https://dev.to/exploredataaiml/rag-20-your-ais-scattered-brain-just-got-organized-26a)
+- [SOCKS5 Proxy Quickstart](https://dev.to/rahuldhole/socks5-proxy-quickstart-265g)
+- [Proxmox Recovery](https://dev.to/rahuldhole/proxmox-recovery-5a3f)
+- [Proxmox WiFi Connection Story](https://dev.to/rahuldhole/proxmox-wifi-connection-story-1ip6)
+- [Go program pattern 02: Implementing Class Inheritance and Method Overriding through Composition](https://dev.to/huizhou92/go-program-pattern-02-implementing-class-inheritance-and-method-overriding-through-composition-313i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
