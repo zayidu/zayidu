@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s Fueling the Spike in American Concerns Around AI?](https://dev.to/briankiwi/whats-fueling-the-spike-in-american-concerns-around-ai-109c)
 - [Cannot render components after the Fetch&lpar;&rpar; call.](https://dev.to/driver3229/cannot-render-components-after-the-fetch-call-3l9a)
 - [Llavero Wallet: My Vault](https://dev.to/el_ranu/explaining-llavero-wallet-my-vault-24nd)
+- [New Dev Challenge Announcement: 10 Products in 10 Weeks](https://dev.to/jameshubert_com/new-dev-challenge-announcement-10-products-in-10-weeks-1ihg)
 - [Leveraging Angular DevTools for Enhanced Development Efficiency](https://dev.to/philipjohnbasile/leveraging-angular-devtools-for-enhanced-development-efficiency-2h4h)
-- [Implementation of Melodistiq: Generating Lyrics and Melodies with AI](https://dev.to/aws-builders/unlocking-musical-creativity-with-ai-generating-lyrics-and-melodies-55p0)
-- [Docker - a terminal GUI](https://dev.to/kiranuknow/docker-a-terminal-gui-2fo7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
