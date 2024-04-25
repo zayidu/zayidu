@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3 resources from Beginner to PRO to learn Ruby on Rails](https://dev.to/jukilo_lokiju/3-resources-from-beginner-to-pro-to-learn-ruby-on-rails-3pke)
-- [Hidden Gems of Tailwind CSS](https://dev.to/railsdesigner/hidden-gems-of-tailwind-css-1472)
-- [URL problem in JS](https://dev.to/ahmad777/url-problem-in-js-52d3)
-- [What are some examples of successful AI implementations in business?](https://dev.to/webunity/what-are-some-examples-of-successful-ai-implementations-in-business-3fog)
-- [Build an AI-powered campaign manager &lpar;Next.js, OpenAI, CopilotKit&rpar;](https://dev.to/copilotkit/build-an-ai-powered-campaign-manager-nextjs-openai-copilotkit-59ii)
+- [Counter app in Flutter](https://dev.to/vasanth9/counter-app-in-flutter-2lip)
+- [TCS Recruitment for Batch 2024 for PAN India locations](https://dev.to/srinivasuluparanduru/tcs-recruitment-for-batch-2024-for-pan-india-locations-51p7)
+- [Welcome Everyone](https://dev.to/omareldery/welcome-everyone-fba)
+- [Setting Up Express development environment &lpar;Typescript, Eslint, Prettier&rpar;](https://dev.to/muhammetandic/setting-up-express-development-environment-typescript-eslint-prettier-31af)
+- [How can I be notified by e-mail when a critical error occurs in a Laravel application?](https://dev.to/claudye/how-can-i-be-notified-by-e-mail-when-a-critical-error-occurs-in-a-laravel-application-e4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
