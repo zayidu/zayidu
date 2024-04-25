@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Counter app in Flutter](https://dev.to/vasanth9/counter-app-in-flutter-2lip)
-- [TCS Recruitment for Batch 2024 for PAN India locations](https://dev.to/srinivasuluparanduru/tcs-recruitment-for-batch-2024-for-pan-india-locations-51p7)
-- [Welcome Everyone](https://dev.to/omareldery/welcome-everyone-fba)
-- [Setting Up Express development environment &lpar;Typescript, Eslint, Prettier&rpar;](https://dev.to/muhammetandic/setting-up-express-development-environment-typescript-eslint-prettier-31af)
-- [How can I be notified by e-mail when a critical error occurs in a Laravel application?](https://dev.to/claudye/how-can-i-be-notified-by-e-mail-when-a-critical-error-occurs-in-a-laravel-application-e4)
+- [🤔 Looking for advice on integrating SportDevs API for futsal data?](https://dev.to/ricivolsenci/looking-for-advice-on-integrating-sportdevs-api-for-futsal-data-1e2e)
+- [Help us make digital ID accessible to everyone &lpar;senior software engineer&rpar;](https://dev.to/jamesholloway/help-us-make-digital-id-accessible-to-everyone-senior-software-engineer-5aj4)
+- [Finding Clients as a &lpar;Web Development&rpar; Freelancer - Part 2](https://dev.to/per-starke-642/finding-clients-as-a-web-development-freelancer-part-2-1ccb)
+- [Nephalem&#39;s nightmare. Exploring errors in Diablo 3 server emulator code](https://dev.to/anogneva/nephalems-nightmare-exploring-errors-in-diablo-3-server-emulator-code-hpl)
+- [Frameworks and Libraries Used in Generative AI: A Guide for Java and Python Developers](https://dev.to/myexamcloud/frameworks-and-libraries-used-in-generative-ai-a-guide-for-java-and-python-developers-397n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
