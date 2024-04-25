@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Displaying multiple error messages on incorrect form entries with Vee-validate | Vue](https://dev.to/pentektimi/displaying-multiple-error-messages-on-incorrect-form-entries-with-vee-validate-vue-367f)
-- [Kotlin Routing - routing everything](https://dev.to/programadorthi/kotlin-routing-routing-everything-1f4j)
-- [Key Aspects to Consider in Software-Based Competitions](https://dev.to/owishiboo/key-aspects-to-consider-in-software-based-competitions-2ob0)
-- [Developing T-Shapedness In Practice](https://dev.to/kaityhallman/developing-t-shapedness-in-practice-570o)
-- [Top 5 Web3 Wallet Solutions with Social Login to Boost User Onboarding in 2024](https://dev.to/tomtomdu73/top-5-web3-wallet-solutions-with-social-login-to-boost-user-onboarding-in-2024-3n9a)
+- [Enhancing Order in Java Collections with Sequenced Interface](https://dev.to/nichetti/enhancing-order-in-java-collections-with-sequenced-interface-5e51)
+- [Create a linked list in Rust: The RC smart pointer](https://dev.to/cudilala/create-a-linked-list-in-rust-the-rc-smart-pointer-6o3)
+- [Best Practices for API Authentication and Authorization](https://dev.to/ibiyeyellowe/best-practices-for-api-authentication-and-authorization-4165)
+- [Lógica de programação](https://dev.to/amgauna/logica-de-programacao-541j)
+- [Earth rescue - A CSS only game](https://dev.to/schmoris/earth-rescue-a-css-only-game-o0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
