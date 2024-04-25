@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Our Wonderful Planet - Earth Day Competition](https://dev.to/acode123/our-wonderful-planet-earth-day-competition-omn)
-- [Leitura comentada - Arquitetura Limpa - Capítulo 1](https://dev.to/zodh/leitura-comentada-clean-arch-capitulo-1-1h6k)
-- [Top 5 Jokes Software Developers Tell Themselves and their Managers](https://dev.to/moozzyk/top-5-jokes-software-developers-tell-themselves-and-their-managers-4e50)
-- [What is web ontology language?](https://dev.to/epakconsultant/what-is-web-ontology-language-3pi5)
-- [Dynamic Testing: Definition, Types, Techniques, &amp; Benefits](https://dev.to/morrismoses149/dynamic-testing-definition-types-techniques-benefits-1jb5)
+- [Front-end specialisations: DevOps JS](https://dev.to/r4nd3l/front-end-specialisations-devops-js-1jp3)
+- [WebDevDocs Workflow](https://dev.to/arndom/webdevdocs-workflow-46p0)
+- [Roadmap Javascript tahun 2024](https://dev.to/appardana/roadmap-javascript-tahun-2024-4fep)
+- [Top Node.JS Frameworks for Web Development in 2024](https://dev.to/devendra098/top-nodejs-frameworks-for-web-development-in-2024-eh3)
+- [Enatega: Open Source Solution For Delivery App](https://dev.to/aizaz_22112/enatega-open-source-solution-for-delivery-app-19mj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
