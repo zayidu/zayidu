@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Uncommon Advices from one beginner coder to another beginner coder!](https://dev.to/manasmoon_/5-uncommon-advices-from-one-beginner-coder-to-another-beginner-coder-2ai)
-- [What we lose at the gates](https://dev.to/schalkneethling/what-we-lose-at-the-gates-45df)
-- [Earth Day Frontend Challenge landing page](https://dev.to/mariela/earth-day-frontend-challenge-landing-page-24dj)
-- [IPCalculator Coze AI](https://dev.to/yowise/ipcalculator-coze-ai-57ko)
-- [The 7 Best Live Streaming SDKs &amp; APIs](https://dev.to/emilyrobertsatstream/the-7-best-live-streaming-sdks-apis-1fng)
+- [Displaying multiple error messages on incorrect form entries with Vee-validate | Vue](https://dev.to/pentektimi/displaying-multiple-error-messages-on-incorrect-form-entries-with-vee-validate-vue-367f)
+- [Kotlin Routing - routing everything](https://dev.to/programadorthi/kotlin-routing-routing-everything-1f4j)
+- [Key Aspects to Consider in Software-Based Competitions](https://dev.to/owishiboo/key-aspects-to-consider-in-software-based-competitions-2ob0)
+- [Developing T-Shapedness In Practice](https://dev.to/kaityhallman/developing-t-shapedness-in-practice-570o)
+- [Top 5 Web3 Wallet Solutions with Social Login to Boost User Onboarding in 2024](https://dev.to/tomtomdu73/top-5-web3-wallet-solutions-with-social-login-to-boost-user-onboarding-in-2024-3n9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
