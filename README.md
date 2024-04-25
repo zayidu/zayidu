@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Closures: Performance implications](https://dev.to/celsojr/closures-performance-implications-16ei)
-- [Prototypal Inheritance in JS 🤔🤔 what&#39;s that ?](https://dev.to/aarushnautiyal/prototypal-inheritance-in-js-whats-that--41bg)
-- [Closures: Lifting the hood](https://dev.to/celsojr/closures-lifting-the-hood-45b8)
-- [How to Schedule EC2 Instances to Stop/Start Automatically](https://dev.to/rezmoss/how-to-schedule-ec2-instances-to-stopstart-automatically-1bl5)
-- [Get Azure Policy Compliance State with PowerShell](https://dev.to/omiossec/get-azure-policy-compliance-state-with-powershell-3e7c)
+- [Unveiling the Strengths of .NET: Choosing .NET over Node.js](https://dev.to/eddiemuhoro/unveiling-the-strengths-of-net-choosing-net-over-nodejs-44cl)
+- [🏖️ Going Against the Grain](https://dev.to/mistval/going-against-the-grain-elb)
+- [El patrón Iterator: Recorriendo colecciones de manera efectiva y flexible](https://dev.to/edwardapaza/el-patron-iterator-recorriendo-colecciones-de-manera-efectiva-y-flexible-1h7o)
+- [GitHub Sponsors: azu the Japanese TypeScript and JavaScript developer](https://dev.to/szabgab/github-sponsors-azu-the-japanese-typescript-and-javascript-developer-434)
+- [Secrets in Lambda Env Vars](https://dev.to/manchicken/secrets-in-lambda-env-vars-47em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
