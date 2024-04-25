@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New to JS what should be my next goal after JS?](https://dev.to/spidermonkey17/new-js-what-should-be-my-next-goal-after-js-1pc)
-- [How to Register a Smart Contract to Mode SFS with Thirdweb](https://dev.to/modenetwork/how-to-register-a-smart-contract-to-mode-sfs-with-thirdweb-5fhn)
-- [scrape-yahoo-finance](https://dev.to/crawlbase/scrape-yahoo-finance-2a4e)
-- [Interacting with Smart Contracts using ethers.js](https://dev.to/modenetwork/interacting-with-smart-contracts-using-ethersjs-3mfd)
-- [Release of Node.js 22 [Live] What is new?!](https://dev.to/evotik/release-of-nodejs-22-live-what-is-new-100f)
+- [Closures: Performance implications](https://dev.to/celsojr/closures-performance-implications-16ei)
+- [Prototypal Inheritance in JS 🤔🤔 what&#39;s that ?](https://dev.to/aarushnautiyal/prototypal-inheritance-in-js-whats-that--41bg)
+- [Closures: Lifting the hood](https://dev.to/celsojr/closures-lifting-the-hood-45b8)
+- [How to Schedule EC2 Instances to Stop/Start Automatically](https://dev.to/rezmoss/how-to-schedule-ec2-instances-to-stopstart-automatically-1bl5)
+- [Get Azure Policy Compliance State with PowerShell](https://dev.to/omiossec/get-azure-policy-compliance-state-with-powershell-3e7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
