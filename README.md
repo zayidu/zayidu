@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best time to buy and sell stock Solution](https://dev.to/rk042/best-time-to-buy-and-sell-stock-solution-19k9)
-- [Implementing the repository pattern in Go with both in-memory and MySQL repositories](https://dev.to/santoshanand/implementing-the-repository-pattern-in-go-with-both-in-memory-and-mysql-repositories-581j)
-- [Securing Your Site: Obtain an SSL Certificate with Let’s Encrypt When Your ISP Blocks Port 80](https://dev.to/danhof/securing-your-site-obtain-an-ssl-certificate-with-lets-encrypt-when-your-isp-blocks-port-80-390g)
-- [How to Convert PDF to Image in C# &lpar;Developer Tutorial&rpar;](https://dev.to/xeshan6981/how-to-convert-pdf-to-image-in-c-developer-tutorial-12j6)
-- [DevOps Culture and the Myth of the &quot;Silver Bullet&quot;](https://dev.to/allanpablo/devops-culture-and-the-myth-of-the-silver-bullet-47l7)
+- [Our Wonderful Planet - Earth Day Competition](https://dev.to/acode123/our-wonderful-planet-earth-day-competition-omn)
+- [Leitura comentada - Arquitetura Limpa - Capítulo 1](https://dev.to/zodh/leitura-comentada-clean-arch-capitulo-1-1h6k)
+- [Top 5 Jokes Software Developers Tell Themselves and their Managers](https://dev.to/moozzyk/top-5-jokes-software-developers-tell-themselves-and-their-managers-4e50)
+- [What is web ontology language?](https://dev.to/epakconsultant/what-is-web-ontology-language-3pi5)
+- [Dynamic Testing: Definition, Types, Techniques, &amp; Benefits](https://dev.to/morrismoses149/dynamic-testing-definition-types-techniques-benefits-1jb5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
