@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-end specialisations: DevOps JS](https://dev.to/r4nd3l/front-end-specialisations-devops-js-1jp3)
-- [WebDevDocs Workflow](https://dev.to/arndom/webdevdocs-workflow-46p0)
-- [Roadmap Javascript tahun 2024](https://dev.to/appardana/roadmap-javascript-tahun-2024-4fep)
-- [Top Node.JS Frameworks for Web Development in 2024](https://dev.to/devendra098/top-nodejs-frameworks-for-web-development-in-2024-eh3)
-- [Enatega: Open Source Solution For Delivery App](https://dev.to/aizaz_22112/enatega-open-source-solution-for-delivery-app-19mj)
+- [SObjectizer Tales - Epilogue](https://dev.to/ilpropheta/sobjectizer-tales-epilogue-2391)
+- [How to Keep Your Custom Claims in Sync with Roles Stored in Firestore](https://dev.to/oddbit/how-to-keep-your-custom-claims-in-sync-with-roles-stored-in-firestore-93l)
+- [NodeJS 22 is Live](https://dev.to/emmabase/nodejs-22-is-live-49b1)
+- [6 Common Web Development Myths You Need to Stop Believing](https://dev.to/techno_expert/6-common-web-development-myths-you-need-to-stop-believing-2392)
+- [Gemini API 102: Next steps beyond &quot;Hello World!&quot;](https://dev.to/wescpy/gemini-api-102-next-steps-beyond-hello-world-1pb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
