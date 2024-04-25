@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tetris Development 3 - Simple Tetris Game in Godot](https://dev.to/xzzz3/tetris-development-3-simple-tetris-game-in-godot-1o2b)
-- [In a World Filled with AI, Where Will Developers Lie?](https://dev.to/mlaposta/in-a-world-filled-with-ai-where-will-developers-lie-1515)
-- [Runtime environmental variables in Next.js 14](https://dev.to/michaliskout/runtime-environmental-variables-in-nextjs-14-4pof)
-- [Part 7: Modeling Microservice](https://dev.to/amirsabahi/part-7-modeling-microservice-5351)
-- [Lambda Internals: Why AWS Lambda Will Not Help With Machine Learning](https://dev.to/fively/lambda-internals-why-aws-lambda-will-not-help-with-machine-learning-3f6g)
+- [Episode 24/16: New Template Compiler, Zoneless in Angular 18](https://dev.to/this-is-angular/episode-2416-new-template-compiler-zoneless-in-angular-18-3n63)
+- [Hosting old Node Projects 👴🏼](https://dev.to/wimadev/hosting-old-node-projects-3cgl)
+- [web-scraping-wikipedia-tables](https://dev.to/crawlbase/web-scraping-wikipedia-tables-3ick)
+- [The Ultimate Beginner&#39;s Checklist for Diving into Machine Learning in 2024](https://dev.to/hyscaler/the-ultimate-beginners-checklist-for-diving-into-machine-learning-in-2024-348h)
+- [API Handling: Utilizing the Facade Pattern with Axios in Frontend Development](https://dev.to/warayus/api-handling-utilizing-the-facade-pattern-with-axios-in-frontend-development-25n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
