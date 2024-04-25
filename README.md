@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Episode 24/16: New Template Compiler, Zoneless in Angular 18](https://dev.to/this-is-angular/episode-2416-new-template-compiler-zoneless-in-angular-18-3n63)
-- [Hosting old Node Projects 👴🏼](https://dev.to/wimadev/hosting-old-node-projects-3cgl)
-- [web-scraping-wikipedia-tables](https://dev.to/crawlbase/web-scraping-wikipedia-tables-3ick)
-- [The Ultimate Beginner&#39;s Checklist for Diving into Machine Learning in 2024](https://dev.to/hyscaler/the-ultimate-beginners-checklist-for-diving-into-machine-learning-in-2024-348h)
-- [API Handling: Utilizing the Facade Pattern with Axios in Frontend Development](https://dev.to/warayus/api-handling-utilizing-the-facade-pattern-with-axios-in-frontend-development-25n4)
+- [What is a Plugin Ecosystem and Why Does It Matter?](https://dev.to/buildwebcrumbs/what-is-a-plugin-ecosystem-and-why-does-it-matter-3024)
+- [Integrate txtai with Postgres](https://dev.to/neuml/integrate-txtai-with-postgres-eaj)
+- [Performance Improvement Plans](https://dev.to/nandinishinduja/performance-improvement-plans-cip)
+- [How to Estimate Depth from a Single Image](https://dev.to/voxel51/how-to-estimate-depth-from-a-single-image-o3a)
+- [First Post](https://dev.to/liucanzhu/first-post-18kk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
