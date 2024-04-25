@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrate Llama3 Into Your Application with Just One Command!](https://dev.to/jianzs/integrate-llama3-into-your-application-with-just-one-command-13mj)
-- [Latitude: The missing analytics layer between your database and your users 🤝🏽](https://dev.to/latitude/latitude-the-missing-analytics-layer-between-your-database-and-your-users-pp1)
-- [Backup Automatizado MySQL com ShellScript](https://dev.to/thiagoolopess/backup-automatizado-mysql-com-shellscript-11a)
-- [Earth Day Markup Challenge](https://dev.to/jarvisscript/earth-day-markup-challenge-28mf)
-- [I fine-tuned my model on a new programming language. You can do it too! 🚀](https://dev.to/github20k/i-fine-tuned-my-model-on-a-new-programming-language-you-can-do-it-too-449)
+- [Interview with Zack Xuereb, founder and CEO of Avail](https://dev.to/crabnebula/interview-with-zack-xuereb-founder-and-ceo-of-avail-2h24)
+- [The ultimate Node Test Runner + TypeScript + ENV variables guide](https://dev.to/boscodomingo/the-ultimate-node-test-runner-typescript-env-variables-guide-1hlj)
+- [AI-Empowered Software Testing [Spartans Summit 2024]](https://dev.to/lambdatest/ai-empowered-software-testing-spartans-summit-2024-b4a)
+- [The never-ending all-in-one software game...](https://dev.to/buildwebcrumbs/the-never-ending-all-in-one-platform-game-9cb)
+- [Introduction to the Kubernetes ecosystem](https://dev.to/jdxlabs/introduction-to-the-kubernetes-ecosystem-3172)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
