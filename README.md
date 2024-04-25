@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jotai Tips](https://dev.to/dai_shi/jotai-tips-1hp1)
-- [Llama 3 Plugin](https://dev.to/programordie/llama-3-plugin-4cnn)
-- [Answer: Mixed Content &lpar;laravel&rpar;](https://dev.to/luislopezdeveloper/answer-mixed-content-laravel-181p)
-- [Complete Coze tutorial: Build AI Chatbots from scratch](https://dev.to/zarazhangrui/complete-coze-tutorial-build-ai-chatbots-from-scratch-e66)
-- [Craft your cover letter with this AI bot run by Coze AI](https://dev.to/elvisans/craft-your-cover-letter-with-this-ai-bot-run-by-coze-ai-128j)
+- [Building Mobile Apps with React Native](https://dev.to/kartikmehta8/building-mobile-apps-with-react-native-16kg)
+- [Exemplo prático OAuth2 Authorization Code PKCE](https://dev.to/devxbr/exemplo-pratico-oauth2-authorization-code-pkce-46n1)
+- [My Phase-4 Experience at Flatiron](https://dev.to/reecec/my-phase-4-experience-at-flatiron-19df)
+- [React Testing Torment: Tools and Techniques to Crush Bugs](https://dev.to/kigazon/react-testing-torment-tools-and-techniques-to-crush-bugs-1pm5)
+- [Análisis de Fraude Bancario con AWS Athena, AWS Lambda y Pandas](https://dev.to/pwalvarado/analisis-de-fraude-bancario-con-aws-athena-aws-lambda-y-pandas-42ap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
