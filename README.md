@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [tsconfig.json: The Hidden Hero of Your TypeScript Adventure](https://dev.to/rahilisvahora/tsconfigjson-the-hidden-hero-of-your-typescript-adventure-1ak0)
-- [Importing existing AWS IAM resources to Terraform](https://dev.to/rinaxsumomo/importing-existing-aws-iam-resources-to-terraform-1dac)
-- [Building Multimodal Services with Qwen and Model Studio](https://dev.to/farrruh/building-multimodal-services-with-qwen-and-model-studio-4b84)
-- [How to use a Lottie animation in your React app](https://dev.to/uralys/how-to-use-a-lottie-animation-in-your-react-app-2f8o)
-- [Utilizing http-proxy-middleware for Efficient API Integration and Development](https://dev.to/saikumar2121/utilizing-http-proxy-middleware-for-efficient-api-integration-and-development-5ddj)
+- [The try block in Rust](https://dev.to/nfrankel/the-try-block-in-rust-jbl)
+- [Easier TypeScript API Testing with Vitest + MSW](https://dev.to/seratch/easier-typescript-api-testing-with-vitest-msw-4k3a)
+- [How to stream a YouTube video as audio - Introducing Liseen](https://dev.to/abdulmuminyqn/how-to-stream-a-youtube-video-as-audio-introducing-liseen-39jd)
+- [Mithril.js: A Modern Framework for JavaScript](https://dev.to/adrianbailador/mithriljs-a-modern-framework-for-javascript-5hke)
+- [Calculate the Total Price According to the Cumulative Price Table](https://dev.to/esproc_spl/calculate-the-total-price-according-to-the-cumulative-price-table-232c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
