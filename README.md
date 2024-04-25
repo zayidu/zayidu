@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SObjectizer Tales - Epilogue](https://dev.to/ilpropheta/sobjectizer-tales-epilogue-2391)
-- [How to Keep Your Custom Claims in Sync with Roles Stored in Firestore](https://dev.to/oddbit/how-to-keep-your-custom-claims-in-sync-with-roles-stored-in-firestore-93l)
-- [NodeJS 22 is Live](https://dev.to/emmabase/nodejs-22-is-live-49b1)
-- [6 Common Web Development Myths You Need to Stop Believing](https://dev.to/techno_expert/6-common-web-development-myths-you-need-to-stop-believing-2392)
-- [Gemini API 102: Next steps beyond &quot;Hello World!&quot;](https://dev.to/wescpy/gemini-api-102-next-steps-beyond-hello-world-1pb7)
+- [tsconfig.json: The Hidden Hero of Your TypeScript Adventure](https://dev.to/rahilisvahora/tsconfigjson-the-hidden-hero-of-your-typescript-adventure-1ak0)
+- [Importing existing AWS IAM resources to Terraform](https://dev.to/rinaxsumomo/importing-existing-aws-iam-resources-to-terraform-1dac)
+- [Building Multimodal Services with Qwen and Model Studio](https://dev.to/farrruh/building-multimodal-services-with-qwen-and-model-studio-4b84)
+- [How to use a Lottie animation in your React app](https://dev.to/uralys/how-to-use-a-lottie-animation-in-your-react-app-2f8o)
+- [Utilizing http-proxy-middleware for Efficient API Integration and Development](https://dev.to/saikumar2121/utilizing-http-proxy-middleware-for-efficient-api-integration-and-development-5ddj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
