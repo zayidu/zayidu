@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s Fueling the Spike in American Concerns Around AI?](https://dev.to/briankiwi/whats-fueling-the-spike-in-american-concerns-around-ai-109c)
-- [Cannot render components after the Fetch&lpar;&rpar; call.](https://dev.to/driver3229/cannot-render-components-after-the-fetch-call-3l9a)
-- [Llavero Wallet: My Vault](https://dev.to/el_ranu/explaining-llavero-wallet-my-vault-24nd)
-- [New Dev Challenge Announcement: 10 Products in 10 Weeks](https://dev.to/jameshubert_com/new-dev-challenge-announcement-10-products-in-10-weeks-1ihg)
-- [Leveraging Angular DevTools for Enhanced Development Efficiency](https://dev.to/philipjohnbasile/leveraging-angular-devtools-for-enhanced-development-efficiency-2h4h)
+- [A Handy Guide to Using Dynamic Import in JavaScript](https://dev.to/chauhoangminhnguyen/a-handy-guide-to-using-dynamic-import-in-javascript-3n3)
+- [Code Smell 249 - Constants as Numbers](https://dev.to/mcsee/code-smell-249-constants-as-numbers-568)
+- [AWS Under the Hood - Day 5 - What Is the difference between stop/start vs reboot for AWS EC2 Instances?](https://dev.to/lakhera2015/aws-under-the-hood-day-5-what-is-the-difference-between-stopstart-vs-reboot-for-aws-ec2-instances-50a2)
+- [Deploy your own ChatGPT in 5 minutes](https://dev.to/vmesel/deploy-your-own-chatgpt-in-5-minutes-5d41)
+- [Email ID and website URL validations in your jQuery](https://dev.to/dgihost/email-id-and-website-url-validations-in-your-jquery-1m6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
