@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Mobile Apps with React Native](https://dev.to/kartikmehta8/building-mobile-apps-with-react-native-16kg)
-- [Exemplo prático OAuth2 Authorization Code PKCE](https://dev.to/devxbr/exemplo-pratico-oauth2-authorization-code-pkce-46n1)
-- [My Phase-4 Experience at Flatiron](https://dev.to/reecec/my-phase-4-experience-at-flatiron-19df)
-- [React Testing Torment: Tools and Techniques to Crush Bugs](https://dev.to/kigazon/react-testing-torment-tools-and-techniques-to-crush-bugs-1pm5)
-- [Análisis de Fraude Bancario con AWS Athena, AWS Lambda y Pandas](https://dev.to/pwalvarado/analisis-de-fraude-bancario-con-aws-athena-aws-lambda-y-pandas-42ap)
+- [Cannot render components after the Fetch&lpar;&rpar; call.](https://dev.to/driver3229/cannot-render-components-after-the-fetch-call-3l9a)
+- [Llavero Wallet: My Vault](https://dev.to/el_ranu/explaining-llavero-wallet-my-vault-24nd)
+- [Leveraging Angular DevTools for Enhanced Development Efficiency](https://dev.to/philipjohnbasile/leveraging-angular-devtools-for-enhanced-development-efficiency-2h4h)
+- [Implementation of Melodistiq: Generating Lyrics and Melodies with AI](https://dev.to/aws-builders/unlocking-musical-creativity-with-ai-generating-lyrics-and-melodies-55p0)
+- [Docker - a terminal GUI](https://dev.to/kiranuknow/docker-a-terminal-gui-2fo7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
