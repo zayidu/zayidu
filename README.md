@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Strengths of .NET: Choosing .NET over Node.js](https://dev.to/eddiemuhoro/unveiling-the-strengths-of-net-choosing-net-over-nodejs-44cl)
-- [🏖️ Going Against the Grain](https://dev.to/mistval/going-against-the-grain-elb)
-- [El patrón Iterator: Recorriendo colecciones de manera efectiva y flexible](https://dev.to/edwardapaza/el-patron-iterator-recorriendo-colecciones-de-manera-efectiva-y-flexible-1h7o)
-- [GitHub Sponsors: azu the Japanese TypeScript and JavaScript developer](https://dev.to/szabgab/github-sponsors-azu-the-japanese-typescript-and-javascript-developer-434)
-- [Secrets in Lambda Env Vars](https://dev.to/manchicken/secrets-in-lambda-env-vars-47em)
+- [5 Uncommon Advices from one beginner coder to another beginner coder!](https://dev.to/manasmoon_/5-uncommon-advices-from-one-beginner-coder-to-another-beginner-coder-2ai)
+- [What we lose at the gates](https://dev.to/schalkneethling/what-we-lose-at-the-gates-45df)
+- [Earth Day Frontend Challenge landing page](https://dev.to/mariela/earth-day-frontend-challenge-landing-page-24dj)
+- [IPCalculator Coze AI](https://dev.to/yowise/ipcalculator-coze-ai-57ko)
+- [The 7 Best Live Streaming SDKs &amp; APIs](https://dev.to/emilyrobertsatstream/the-7-best-live-streaming-sdks-apis-1fng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
