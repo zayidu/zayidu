@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The try block in Rust](https://dev.to/nfrankel/the-try-block-in-rust-jbl)
-- [Easier TypeScript API Testing with Vitest + MSW](https://dev.to/seratch/easier-typescript-api-testing-with-vitest-msw-4k3a)
-- [How to stream a YouTube video as audio - Introducing Liseen](https://dev.to/abdulmuminyqn/how-to-stream-a-youtube-video-as-audio-introducing-liseen-39jd)
-- [Mithril.js: A Modern Framework for JavaScript](https://dev.to/adrianbailador/mithriljs-a-modern-framework-for-javascript-5hke)
-- [Calculate the Total Price According to the Cumulative Price Table](https://dev.to/esproc_spl/calculate-the-total-price-according-to-the-cumulative-price-table-232c)
+- [3 resources from Beginner to PRO to learn Ruby on Rails](https://dev.to/jukilo_lokiju/3-resources-from-beginner-to-pro-to-learn-ruby-on-rails-3pke)
+- [Hidden Gems of Tailwind CSS](https://dev.to/railsdesigner/hidden-gems-of-tailwind-css-1472)
+- [URL problem in JS](https://dev.to/ahmad777/url-problem-in-js-52d3)
+- [What are some examples of successful AI implementations in business?](https://dev.to/webunity/what-are-some-examples-of-successful-ai-implementations-in-business-3fog)
+- [Build an AI-powered campaign manager &lpar;Next.js, OpenAI, CopilotKit&rpar;](https://dev.to/copilotkit/build-an-ai-powered-campaign-manager-nextjs-openai-copilotkit-59ii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
