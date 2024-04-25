@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Interview with Zack Xuereb, founder and CEO of Avail](https://dev.to/crabnebula/interview-with-zack-xuereb-founder-and-ceo-of-avail-2h24)
-- [The ultimate Node Test Runner + TypeScript + ENV variables guide](https://dev.to/boscodomingo/the-ultimate-node-test-runner-typescript-env-variables-guide-1hlj)
-- [AI-Empowered Software Testing [Spartans Summit 2024]](https://dev.to/lambdatest/ai-empowered-software-testing-spartans-summit-2024-b4a)
-- [The never-ending all-in-one software game...](https://dev.to/buildwebcrumbs/the-never-ending-all-in-one-platform-game-9cb)
-- [Introduction to the Kubernetes ecosystem](https://dev.to/jdxlabs/introduction-to-the-kubernetes-ecosystem-3172)
+- [Tetris Development 3 - Simple Tetris Game in Godot](https://dev.to/xzzz3/tetris-development-3-simple-tetris-game-in-godot-1o2b)
+- [In a World Filled with AI, Where Will Developers Lie?](https://dev.to/mlaposta/in-a-world-filled-with-ai-where-will-developers-lie-1515)
+- [Runtime environmental variables in Next.js 14](https://dev.to/michaliskout/runtime-environmental-variables-in-nextjs-14-4pof)
+- [Part 7: Modeling Microservice](https://dev.to/amirsabahi/part-7-modeling-microservice-5351)
+- [Lambda Internals: Why AWS Lambda Will Not Help With Machine Learning](https://dev.to/fively/lambda-internals-why-aws-lambda-will-not-help-with-machine-learning-3f6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
