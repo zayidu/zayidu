@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🤔 Looking for advice on integrating SportDevs API for futsal data?](https://dev.to/ricivolsenci/looking-for-advice-on-integrating-sportdevs-api-for-futsal-data-1e2e)
-- [Help us make digital ID accessible to everyone &lpar;senior software engineer&rpar;](https://dev.to/jamesholloway/help-us-make-digital-id-accessible-to-everyone-senior-software-engineer-5aj4)
-- [Finding Clients as a &lpar;Web Development&rpar; Freelancer - Part 2](https://dev.to/per-starke-642/finding-clients-as-a-web-development-freelancer-part-2-1ccb)
-- [Nephalem&#39;s nightmare. Exploring errors in Diablo 3 server emulator code](https://dev.to/anogneva/nephalems-nightmare-exploring-errors-in-diablo-3-server-emulator-code-hpl)
-- [Frameworks and Libraries Used in Generative AI: A Guide for Java and Python Developers](https://dev.to/myexamcloud/frameworks-and-libraries-used-in-generative-ai-a-guide-for-java-and-python-developers-397n)
+- [Integrate Llama3 Into Your Application with Just One Command!](https://dev.to/jianzs/integrate-llama3-into-your-application-with-just-one-command-13mj)
+- [Latitude: The missing analytics layer between your database and your users 🤝🏽](https://dev.to/latitude/latitude-the-missing-analytics-layer-between-your-database-and-your-users-pp1)
+- [Backup Automatizado MySQL com ShellScript](https://dev.to/thiagoolopess/backup-automatizado-mysql-com-shellscript-11a)
+- [Earth Day Markup Challenge](https://dev.to/jarvisscript/earth-day-markup-challenge-28mf)
+- [I fine-tuned my model on a new programming language. You can do it too! 🚀](https://dev.to/github20k/i-fine-tuned-my-model-on-a-new-programming-language-you-can-do-it-too-449)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
