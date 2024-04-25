@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Plugin Ecosystem and Why Does It Matter?](https://dev.to/buildwebcrumbs/what-is-a-plugin-ecosystem-and-why-does-it-matter-3024)
-- [Integrate txtai with Postgres](https://dev.to/neuml/integrate-txtai-with-postgres-eaj)
-- [Performance Improvement Plans](https://dev.to/nandinishinduja/performance-improvement-plans-cip)
-- [How to Estimate Depth from a Single Image](https://dev.to/voxel51/how-to-estimate-depth-from-a-single-image-o3a)
-- [First Post](https://dev.to/liucanzhu/first-post-18kk)
+- [New to JS what should be my next goal after JS?](https://dev.to/spidermonkey17/new-js-what-should-be-my-next-goal-after-js-1pc)
+- [How to Register a Smart Contract to Mode SFS with Thirdweb](https://dev.to/modenetwork/how-to-register-a-smart-contract-to-mode-sfs-with-thirdweb-5fhn)
+- [scrape-yahoo-finance](https://dev.to/crawlbase/scrape-yahoo-finance-2a4e)
+- [Interacting with Smart Contracts using ethers.js](https://dev.to/modenetwork/interacting-with-smart-contracts-using-ethersjs-3mfd)
+- [Release of Node.js 22 [Live] What is new?!](https://dev.to/evotik/release-of-nodejs-22-live-what-is-new-100f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
