@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Types of equi-joins](https://dev.to/esproc_spl/types-of-equi-joins-2k5d)
-- [Why Use &quot;kubectl proxy&quot; and What Is The Disadvantage?](https://dev.to/u2633/why-use-kubectl-proxy-and-what-is-the-disadvantage-ll4)
-- [How to align bar chart labels to the left and keep their styles consistent in @visactor/vchart?](https://dev.to/tinglittlekang/how-to-align-bar-chart-labels-to-the-left-and-keep-their-styles-consistent-in-visactorvchart-471k)
-- [In-Depth Analysis of Interface Testing: From Principle to Practice](https://dev.to/haibingwang/in-depth-analysis-of-interface-testing-from-principle-to-practice-3e68)
-- [Exploring Scopes in Functions in python: A Hands-On Guide](https://dev.to/kshitizdev/exploring-scopes-in-functions-in-python-a-hands-on-guide-na4)
+- [Empowering Food Delivery Ventures with Open Source](https://dev.to/veena10/empowering-food-delivery-ventures-with-open-source-pf1)
+- [Implement React v18 from Scratch Using WASM and Rust - [8] Support Hooks](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-8-support-hooks-16fo)
+- [Meet Meta AI: Your New Go-To Assistant for a Smarter You!](https://dev.to/ahmed_onour/meet-meta-ai-your-new-go-to-assistant-for-a-smarter-you-5ao6)
+- [AI - Do it for the user](https://dev.to/stacy_cash/ai-do-it-for-the-user-3n7k)
+- [How To Block Pasting To Stop Contact Form Spam](https://dev.to/anwaralam6858/how-to-block-pasting-to-stop-contact-form-spam-3fmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
