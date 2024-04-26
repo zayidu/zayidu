@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Text to pdf using jsPDF](https://dev.to/favourtech/text-to-pdf-using-jspdf-209j)
-- [Why is Meta spending so much on Open Source AI?](https://dev.to/nanduanilal/metas-open-source-ai-ambitions-554a)
-- [Golang in-memory key-value pair cache](https://dev.to/iqquee/golang-in-memory-key-value-pair-cache-1f6n)
-- [Understanding Array Prototypes in JavaScript](https://dev.to/a_gaoba/understanding-array-prototypes-in-javascript-59mg)
-- [What Azure Container Apps Is Not: Clearing the Confusion](https://dev.to/njokudanielo/what-azure-container-apps-is-not-clearing-the-confusion-16p)
+- [A simple explanation of Adapter Pattern with Vue.js](https://dev.to/heliomsolivas/a-simple-explanation-of-adapter-pattern-with-vuejs-add)
+- [Queue and Stack Essentials: A Python Programmer&#39;s Guide](https://dev.to/21alul21/queue-and-stack-essentials-a-python-programmers-guide-4ji5)
+- [A Armadilha Sutil: Desvendando os Padrões Enganosos &lpar;&quot;Deceptive Patterns&quot;&rpar; na Nossa Vida Digital](https://dev.to/somosguix/a-armadilha-sutil-desvendando-os-padroes-enganosos-deceptive-patterns-na-nossa-vida-digital-5fk3)
+- [Building an Email Assistant Application with Burr](https://dev.to/skrawcz/building-an-email-assistant-application-with-burr-38lk)
+- [Por que você deveria priorizar a documentação de suas experiências](https://dev.to/devxbr/por-que-voce-deveria-considerar-documentar-4700)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
