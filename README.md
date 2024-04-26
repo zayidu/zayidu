@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A simple explanation of Adapter Pattern with Vue.js](https://dev.to/heliomsolivas/a-simple-explanation-of-adapter-pattern-with-vuejs-add)
-- [Queue and Stack Essentials: A Python Programmer&#39;s Guide](https://dev.to/21alul21/queue-and-stack-essentials-a-python-programmers-guide-4ji5)
-- [A Armadilha Sutil: Desvendando os Padrões Enganosos &lpar;&quot;Deceptive Patterns&quot;&rpar; na Nossa Vida Digital](https://dev.to/somosguix/a-armadilha-sutil-desvendando-os-padroes-enganosos-deceptive-patterns-na-nossa-vida-digital-5fk3)
-- [Building an Email Assistant Application with Burr](https://dev.to/skrawcz/building-an-email-assistant-application-with-burr-38lk)
-- [Por que você deveria priorizar a documentação de suas experiências](https://dev.to/devxbr/por-que-voce-deveria-considerar-documentar-4700)
+- [How to pick the best-performing time-series AI model for your specific data](https://dev.to/mindsdb/how-to-pick-the-best-performing-time-series-ai-model-for-your-specific-data-5k)
+- [20 Books every web developers and designers must read](https://dev.to/ibiyeyellowe/20-books-every-web-developers-and-designers-must-read-58go)
+- [Getting Started With HTML #EP4](https://dev.to/bbylumi/getting-started-with-html-ep3-28kj)
+- [Supercharge Your Number Inputs with Custom Step Sizes](https://dev.to/piotrkulpinski/supercharge-your-number-inputs-with-custom-step-sizes-mlh)
+- [Weekly Updates - Apr 26, 2024](https://dev.to/carrieke/weekly-updates-apr-26-2024-4dn4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
