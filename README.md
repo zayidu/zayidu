@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2h56)
-- [Automating Product Description Generation with Lyzr Automata and OpenAI](https://dev.to/harshitlyzr/automating-product-description-generation-with-lyzr-automata-and-openai-3a47)
-- [Is Go Used in Production more than Rust ?](https://dev.to/abanoubha/is-go-used-in-production-more-than-rust--2def)
-- [How to handle Solidity errors with React and Wagmi hooks](https://dev.to/muratcanyuksel/how-to-handle-solidity-errors-with-react-and-wagmi-hooks-2fp3)
-- [What is Outsourcing?](https://dev.to/porat/leveraging-outsourcing-to-elevate-your-small-business-4b98)
+- [The Single Responsibility Principle: Lessons from React and Factorio for Clean Design and Data Flow Management](https://dev.to/xenmars/the-single-responsibility-principle-lessons-from-react-and-factorio-for-clean-design-and-data-flow-management-2mol)
+- [The Evolution of AI Architecture: From Simple Single Tier to Complex Multi-tier Architectures](https://dev.to/myexamcloud/the-evolution-of-ai-architecture-from-simple-single-tier-to-complex-multi-tier-architectures-4m8l)
+- [Ruby on Rails 4.2.X upgrade issue with meta_request — undefined method normalize_key](https://dev.to/milosdukic/ruby-on-rails-42x-upgrade-issue-with-metarequest-undefined-method-normalizekey-1cal)
+- [Unity UI System - Best Practices](https://dev.to/marbleit/unity-ui-system-best-practices-2o24)
+- [Implement Face ID Authentication in the iOS App](https://dev.to/canopassoftware/implement-face-id-authentication-in-the-ios-app-1l8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
