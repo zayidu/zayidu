@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel 11 y Vite](https://dev.to/jcbm2010/laravel-11-y-vite-365m)
-- [#1137. N-th Tribonacci Number](https://dev.to/karleb/1137-n-th-tribonacci-number-4bef)
-- [10 Essential Skills Every Java Developer Should Master in 2024](https://dev.to/myexamcloud/10-essential-skills-every-java-developer-should-master-in-2024-2kp)
-- [#2370. Longest Ideal Subsequence](https://dev.to/karleb/2370-longest-ideal-subsequence-2c6h)
-- [The fundamental concepts of typescript](https://dev.to/epakconsultant/the-fundamental-concepts-of-typescript-34pc)
+- [Exploring the vibrant world of Punjabi songs, from tradition to modernity](https://dev.to/fizzailiyas/exploring-the-vibrant-world-of-punjabi-songs-from-tradition-to-modernity-586b)
+- [Building a simple language switcher in a vue.js: Step-by-step tutorial 🌐](https://dev.to/integridsolutions/building-a-simple-language-switcher-in-a-vuejs-step-by-step-tutorial-j84)
+- [#1971. Find if Path Exists in Graph](https://dev.to/karleb/1971-find-if-path-exists-in-graph-2io5)
+- [How to create web-application in ruby on rails](https://dev.to/epakconsultant/how-to-create-web-application-in-ruby-on-rails-13f3)
+- [Implementation of function as Parameters](https://dev.to/sukmarizki04/implementation-of-function-as-parameters-32p3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
