@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Are You An Expert?](https://dev.to/devteam/are-you-an-expert-4hpi)
-- [I got into the Android Club Tech Department at my college!](https://dev.to/adityabharti/i-got-into-the-android-club-tech-department-at-my-college-4inj)
-- [Maximizing React: The Ultimate Guide to Performance Enhancement](https://dev.to/rajdhokai/maximizing-react-the-ultimate-guide-to-performance-enhancement-4e9p)
-- [FineWeb 45TB Dataset: $500k GPU costs and Adult Content Improving LLM Quality](https://dev.to/maximsaplin/fineweb-45tb-dataset-500k-gpu-costs-and-adult-content-improving-llm-quality-521g)
-- [My weekly dev.to recommendations](https://dev.to/ccoveille/my-weekly-devto-recommendations-5he)
+- [How to check if the PostgreSQL tables of the same structure have identical data using aggregated hash and md5?](https://dev.to/dm8ry/how-to-check-if-the-postgresql-tables-of-the-same-structure-have-identical-data-using-aggregated-hash-and-md5-17h9)
+- [I&#39;m a dad again 🤩🥳](https://dev.to/ccoveille/im-a-dad-again-m4k)
+- [How do you stay on the edge of tech? 🧑‍💻](https://dev.to/best_codes/how-do-you-stay-on-the-edge-of-tech-56po)
+- [Using Okta to Control Access to Your Docker Containers](https://dev.to/aws-builders/using-okta-to-control-access-to-your-docker-containers-410i)
+- [AWS Under the Hood - Day 8 - Unlock Hidden Savings in AWS with Savings Plans](https://dev.to/lakhera2015/aws-under-the-hood-day-8-unlock-hidden-savings-in-aws-with-savings-plans-31gf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
