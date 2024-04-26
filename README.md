@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Material 3 Design With Angular Material](https://dev.to/ngmaterialdev/exploring-material-3-design-with-angular-material-4d12)
-- [VChart, How to center the label of a bar chart?](https://dev.to/youngwind/vchart-how-to-center-the-label-of-a-bar-chart-cn7)
-- [VChart, How to perform event tracking based on Tooltip behavior](https://dev.to/youngwind/vchart-how-to-perform-event-tracking-based-on-tooltip-behavior-2lka)
-- [How to Visualize ARKit&#39;s 3D Indoor Scenes in Rerun](https://dev.to/rerunio/how-to-visualize-arkits-3d-indoor-scenes-in-rerun-2bld)
-- [# Reflection and Continuous Improvement - Release v3.7 of the Open Source Instant Messaging &lpar;IM&rpar; Project OpenIM](https://dev.to/openim-sk/-reflection-and-continuous-improvement-release-v37-of-the-open-source-instant-messaging-im-project-openim-19o7)
+- [Interactive Connectivity Establishment &lpar;ICE&rpar; Server: The Complete Guide](https://dev.to/alakkadshaw/interactive-connectivity-establishment-ice-server-the-complete-guide-3331)
+- [Regex pattern in Python: A beginners guide](https://dev.to/osahenru/regex-pattern-in-python-a-beginners-guide-lmb)
+- [Voxel51 Filtered Views Newsletter – April 26, 2024](https://dev.to/voxel51/voxel51-filtered-views-newsletter-april-26-2024-3oko)
+- [Implementing CSV Data Export in React Without External Libraries](https://dev.to/graciesharma/implementing-csv-data-export-in-react-without-external-libraries-3030)
+- [Beginner&#39;s Guide: Connecting to Your EC2 Instance Using AWS Systems Manager &lpar;SSM&rpar;](https://dev.to/adedamola_ajao/beginners-guide-connecting-to-your-ec2-instance-using-aws-systems-manager-ssm-h1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
