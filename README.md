@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why, and not only how, signing your commits](https://dev.to/ccoveille/why-and-not-only-how-signing-your-commits-4nja)
-- [Pantry Chef - Revolutionizing Home Cooking with AI](https://dev.to/ssukhpinder/pantry-chef-revolutionizing-home-cooking-with-ai-188b)
-- [CrabGrab: new OSS Rust crate for cross-platform screen/window capture](https://dev.to/diamond/crabgrab-new-oss-rust-crate-for-cross-platform-screenwindow-capture-120n)
-- [Golang generator functions &lpar;Experimental in 1.22&rpar;](https://dev.to/crusty0gphr/golang-generator-functions-experimental-in-122-dl2)
-- [Use Array.reduce&lpar;&rpar; to fill &lt;select&gt;](https://dev.to/andrewelans/use-arrayreduce-to-fill-26eo)
+- [Text to pdf using jsPDF](https://dev.to/favourtech/text-to-pdf-using-jspdf-209j)
+- [Why is Meta spending so much on Open Source AI?](https://dev.to/nanduanilal/metas-open-source-ai-ambitions-554a)
+- [Golang in-memory key-value pair cache](https://dev.to/iqquee/golang-in-memory-key-value-pair-cache-1f6n)
+- [Understanding Array Prototypes in JavaScript](https://dev.to/a_gaoba/understanding-array-prototypes-in-javascript-59mg)
+- [What Azure Container Apps Is Not: Clearing the Confusion](https://dev.to/njokudanielo/what-azure-container-apps-is-not-clearing-the-confusion-16p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
