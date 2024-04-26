@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to check if the PostgreSQL tables of the same structure have identical data using aggregated hash and md5?](https://dev.to/dm8ry/how-to-check-if-the-postgresql-tables-of-the-same-structure-have-identical-data-using-aggregated-hash-and-md5-17h9)
-- [I&#39;m a dad again 🤩🥳](https://dev.to/ccoveille/im-a-dad-again-m4k)
-- [How do you stay on the edge of tech? 🧑‍💻](https://dev.to/best_codes/how-do-you-stay-on-the-edge-of-tech-56po)
-- [Using Okta to Control Access to Your Docker Containers](https://dev.to/aws-builders/using-okta-to-control-access-to-your-docker-containers-410i)
-- [AWS Under the Hood - Day 8 - Unlock Hidden Savings in AWS with Savings Plans](https://dev.to/lakhera2015/aws-under-the-hood-day-8-unlock-hidden-savings-in-aws-with-savings-plans-31gf)
+- [Why, and not only how, signing your commits](https://dev.to/ccoveille/why-and-not-only-how-signing-your-commits-4nja)
+- [Pantry Chef - Revolutionizing Home Cooking with AI](https://dev.to/ssukhpinder/pantry-chef-revolutionizing-home-cooking-with-ai-188b)
+- [CrabGrab: new OSS Rust crate for cross-platform screen/window capture](https://dev.to/diamond/crabgrab-new-oss-rust-crate-for-cross-platform-screenwindow-capture-120n)
+- [Golang generator functions &lpar;Experimental in 1.22&rpar;](https://dev.to/crusty0gphr/golang-generator-functions-experimental-in-122-dl2)
+- [Use Array.reduce&lpar;&rpar; to fill &lt;select&gt;](https://dev.to/andrewelans/use-arrayreduce-to-fill-26eo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
