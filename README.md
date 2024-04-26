@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A telltale Sign of An Inexperienced Programmer](https://dev.to/annoh_karlgusta/a-telltale-sign-of-an-inexperienced-programmer-1a0k)
-- [Take a free course at Devart Academy!](https://dev.to/devartteam/take-a-free-course-at-devart-academy-37hn)
-- [Learning: Administering using SAP HANA Cockpit](https://dev.to/dentrodailha96/learning-administering-using-sap-hana-cockpit-3id6)
-- [The Ultimate Next.js Cheat Sheet for Developers](https://dev.to/dipakahirav/the-ultimate-nextjs-cheat-sheet-for-developers-10ml)
-- [The Power of React Native for Cross-Platform App Development](https://dev.to/anhpvbhsoft/the-power-of-react-native-for-cross-platform-app-development-3fil)
+- [Building a Cloud Agnostic Infrastructure: Key Strategies for Seamless Portability](https://dev.to/nix_25/building-a-cloud-agnostic-infrastructure-key-strategies-for-seamless-portability-12ia)
+- [Top 10 Code Studio Extensions to Supercharge Your React Development](https://dev.to/skillreactor/top-10-code-studio-extensions-to-supercharge-your-react-development-1ncc)
+- [A Smart Contract Generator for Web3 Projects using Lyzr Automata](https://dev.to/harshitlyzr/a-smart-contract-generator-for-web3-projects-using-lyzr-automata-47df)
+- [9. How to draw a dual-axis chart](https://dev.to/neuqzxy/9-how-to-draw-a-dual-axis-chart-4mf6)
+- [HOW TO TROUBLESHOOT COMMON INSTALLATION ERRORS IN LARAVEL?](https://dev.to/ellasebastian/how-to-troubleshoot-common-installation-errors-in-laravel-56d2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
