@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Empowering Food Delivery Ventures with Open Source](https://dev.to/veena10/empowering-food-delivery-ventures-with-open-source-pf1)
-- [Implement React v18 from Scratch Using WASM and Rust - [8] Support Hooks](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-8-support-hooks-16fo)
-- [Meet Meta AI: Your New Go-To Assistant for a Smarter You!](https://dev.to/ahmed_onour/meet-meta-ai-your-new-go-to-assistant-for-a-smarter-you-5ao6)
-- [AI - Do it for the user](https://dev.to/stacy_cash/ai-do-it-for-the-user-3n7k)
-- [How To Block Pasting To Stop Contact Form Spam](https://dev.to/anwaralam6858/how-to-block-pasting-to-stop-contact-form-spam-3fmo)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2h56)
+- [Automating Product Description Generation with Lyzr Automata and OpenAI](https://dev.to/harshitlyzr/automating-product-description-generation-with-lyzr-automata-and-openai-3a47)
+- [Is Go Used in Production more than Rust ?](https://dev.to/abanoubha/is-go-used-in-production-more-than-rust--2def)
+- [How to handle Solidity errors with React and Wagmi hooks](https://dev.to/muratcanyuksel/how-to-handle-solidity-errors-with-react-and-wagmi-hooks-2fp3)
+- [What is Outsourcing?](https://dev.to/porat/leveraging-outsourcing-to-elevate-your-small-business-4b98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
