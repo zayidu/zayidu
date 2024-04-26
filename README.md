@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Llama 3 with Function Calling and Code Interpreter](https://dev.to/tereza_tizkova/llama-3-with-function-calling-and-code-interpreter-55nb)
-- [winglang](https://dev.to/anhphan2024/winglang-4j72)
-- [Sort one column by another column in powerBI](https://dev.to/eudoh940/sort-one-column-by-another-column-in-powerbi-d5f)
-- [A quick read on Android haptic feedback Design principles](https://dev.to/theplebdev/a-quick-read-on-android-haptic-feedback-design-principles-40k6)
-- [Job Satisfaction or Salary?](https://dev.to/bellatrix/job-satisfaction-or-salary-2e51)
+- [Laravel 11 y Vite](https://dev.to/jcbm2010/laravel-11-y-vite-365m)
+- [#1137. N-th Tribonacci Number](https://dev.to/karleb/1137-n-th-tribonacci-number-4bef)
+- [10 Essential Skills Every Java Developer Should Master in 2024](https://dev.to/myexamcloud/10-essential-skills-every-java-developer-should-master-in-2024-2kp)
+- [#2370. Longest Ideal Subsequence](https://dev.to/karleb/2370-longest-ideal-subsequence-2c6h)
+- [The fundamental concepts of typescript](https://dev.to/epakconsultant/the-fundamental-concepts-of-typescript-34pc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
