@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Order in Java Collections with Sequenced Interface](https://dev.to/nichetti/enhancing-order-in-java-collections-with-sequenced-interface-5e51)
-- [Create a linked list in Rust: The RC smart pointer](https://dev.to/cudilala/create-a-linked-list-in-rust-the-rc-smart-pointer-6o3)
-- [Best Practices for API Authentication and Authorization](https://dev.to/ibiyeyellowe/best-practices-for-api-authentication-and-authorization-4165)
-- [Lógica de programação](https://dev.to/amgauna/logica-de-programacao-541j)
-- [Earth rescue - A CSS only game](https://dev.to/schmoris/earth-rescue-a-css-only-game-o0e)
+- [Introduction to Digital Signal Processing with Python](https://dev.to/kartikmehta8/introduction-to-digital-signal-processing-with-python-bj5)
+- [My experience on the Public Speaking Challenge](https://dev.to/thaisavieira/my-experience-on-the-public-speaking-challenge-18h4)
+- [Data Structures and Algorithms: Trees](https://dev.to/faraib/data-structures-and-algorithms-trees-34c4)
+- [Awesome COBOL!](https://dev.to/bugmagnet/awesome-cobol-396k)
+- [🤿 Looking for Waterpolo API for Research Consultant Project? 🌊](https://dev.to/nicosleonardo9/looking-for-waterpolo-api-for-research-consultant-project-3la2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
