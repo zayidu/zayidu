@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Did Citizen Development Fail on the Power Platform](https://dev.to/wyattdave/did-citizen-development-fail-on-the-power-platform-4p0c)
-- [Why etcd is matter in Kubernetes](https://dev.to/u2633/why-etcd-is-matter-in-kubernetes-48cn)
-- [A Step-by-Step Guide to Installing and Publishing Your React Native Project](https://dev.to/epakconsultant/a-step-by-step-guide-to-installing-and-publishing-your-react-native-project-4051)
-- [Stay Informed: Using Flight Trackers for Real-Time Updates](https://dev.to/jp5806632/stay-informed-using-flight-trackers-for-real-time-updates-3nhl)
-- [olá, :&rpar;](https://dev.to/soyt0fu/ola--599f)
+- [Types of equi-joins](https://dev.to/esproc_spl/types-of-equi-joins-2k5d)
+- [Why Use &quot;kubectl proxy&quot; and What Is The Disadvantage?](https://dev.to/u2633/why-use-kubectl-proxy-and-what-is-the-disadvantage-ll4)
+- [How to align bar chart labels to the left and keep their styles consistent in @visactor/vchart?](https://dev.to/tinglittlekang/how-to-align-bar-chart-labels-to-the-left-and-keep-their-styles-consistent-in-visactorvchart-471k)
+- [In-Depth Analysis of Interface Testing: From Principle to Practice](https://dev.to/haibingwang/in-depth-analysis-of-interface-testing-from-principle-to-practice-3e68)
+- [Exploring Scopes in Functions in python: A Hands-On Guide](https://dev.to/kshitizdev/exploring-scopes-in-functions-in-python-a-hands-on-guide-na4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
