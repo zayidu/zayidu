@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Digital Signal Processing with Python](https://dev.to/kartikmehta8/introduction-to-digital-signal-processing-with-python-bj5)
-- [My experience on the Public Speaking Challenge](https://dev.to/thaisavieira/my-experience-on-the-public-speaking-challenge-18h4)
-- [Data Structures and Algorithms: Trees](https://dev.to/faraib/data-structures-and-algorithms-trees-34c4)
-- [Awesome COBOL!](https://dev.to/bugmagnet/awesome-cobol-396k)
-- [🤿 Looking for Waterpolo API for Research Consultant Project? 🌊](https://dev.to/nicosleonardo9/looking-for-waterpolo-api-for-research-consultant-project-3la2)
+- [xcrun: Error: Invalid Active Developer Path?](https://dev.to/dwildt/xcrun-error-invalid-active-developer-path-3p8g)
+- [Advanced Strategies for Efficient Cloud-Native Data Protection](https://dev.to/chowter0033/advanced-strategies-for-efficient-cloud-native-data-protection-12f5)
+- [Web Components com Preact](https://dev.to/ricmello/web-components-com-preact-2hhj)
+- [Go program pattern 03：Inversion of Control](https://dev.to/huizhou92/go-program-pattern-03inversion-of-control-20o7)
+- [The Magical Algorithms Written by Two Old Men, Dominating the World](https://dev.to/huizhou92/the-magical-algorithms-written-by-two-old-men-dominating-the-world-3h12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
