@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Homemade HTTP Router to New ServeMux](https://dev.to/bmf_san/from-homemade-http-router-to-new-servemux-5dpo)
-- [Transitioning from Spring Security WebMvcConfigurer to SecurityFilterChain: A Seamless Migration Guide](https://dev.to/surjendu104/transitioning-from-spring-security-webmvcconfigurer-to-securityfilterchain-a-seamless-migration-guide-13e8)
-- [Navigating through failures, build resilient serverless systems](https://dev.to/aws-builders/navigating-through-failures-build-resilient-serverless-systems-4jp7)
-- [Dockerizing AdonisJs &lpar;v6&rpar; with MySQL](https://dev.to/miriamhaenle/dockerizing-adonisjs-v6-with-mysql-2eo2)
-- [Design Pattern - Factory Method](https://dev.to/nicolasdesouza/design-pattern-factory-method-136p)
+- [Version Control: Git Basics](https://dev.to/apidna/version-control-git-basics-4n97)
+- [Scraping Tables from a Website Using Google Sheets, Python, or R](https://dev.to/crawlbase/scraping-tables-from-a-website-using-google-sheets-python-or-r-52f5)
+- [Annotation is dead](https://dev.to/voxel51/annotation-is-dead-1o39)
+- [Task 11](https://dev.to/subash129/task-11-48c)
+- [Pitfalls of SAP to Salesforce Integration in Ecommerce](https://dev.to/doriansabitov/pitfalls-of-sap-to-salesforce-integration-in-ecommerce-20b3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
