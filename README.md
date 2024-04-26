@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Version Control: Git Basics](https://dev.to/apidna/version-control-git-basics-4n97)
-- [Scraping Tables from a Website Using Google Sheets, Python, or R](https://dev.to/crawlbase/scraping-tables-from-a-website-using-google-sheets-python-or-r-52f5)
-- [Annotation is dead](https://dev.to/voxel51/annotation-is-dead-1o39)
-- [Task 11](https://dev.to/subash129/task-11-48c)
-- [Pitfalls of SAP to Salesforce Integration in Ecommerce](https://dev.to/doriansabitov/pitfalls-of-sap-to-salesforce-integration-in-ecommerce-20b3)
+- [Are You An Expert?](https://dev.to/devteam/are-you-an-expert-4hpi)
+- [I got into the Android Club Tech Department at my college!](https://dev.to/adityabharti/i-got-into-the-android-club-tech-department-at-my-college-4inj)
+- [Maximizing React: The Ultimate Guide to Performance Enhancement](https://dev.to/rajdhokai/maximizing-react-the-ultimate-guide-to-performance-enhancement-4e9p)
+- [FineWeb 45TB Dataset: $500k GPU costs and Adult Content Improving LLM Quality](https://dev.to/maximsaplin/fineweb-45tb-dataset-500k-gpu-costs-and-adult-content-improving-llm-quality-521g)
+- [My weekly dev.to recommendations](https://dev.to/ccoveille/my-weekly-devto-recommendations-5he)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
