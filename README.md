@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Cloud Agnostic Infrastructure: Key Strategies for Seamless Portability](https://dev.to/nix_25/building-a-cloud-agnostic-infrastructure-key-strategies-for-seamless-portability-12ia)
-- [Top 10 Code Studio Extensions to Supercharge Your React Development](https://dev.to/skillreactor/top-10-code-studio-extensions-to-supercharge-your-react-development-1ncc)
-- [A Smart Contract Generator for Web3 Projects using Lyzr Automata](https://dev.to/harshitlyzr/a-smart-contract-generator-for-web3-projects-using-lyzr-automata-47df)
-- [9. How to draw a dual-axis chart](https://dev.to/neuqzxy/9-how-to-draw-a-dual-axis-chart-4mf6)
-- [HOW TO TROUBLESHOOT COMMON INSTALLATION ERRORS IN LARAVEL?](https://dev.to/ellasebastian/how-to-troubleshoot-common-installation-errors-in-laravel-56d2)
+- [Exploring Material 3 Design With Angular Material](https://dev.to/ngmaterialdev/exploring-material-3-design-with-angular-material-4d12)
+- [VChart, How to center the label of a bar chart?](https://dev.to/youngwind/vchart-how-to-center-the-label-of-a-bar-chart-cn7)
+- [VChart, How to perform event tracking based on Tooltip behavior](https://dev.to/youngwind/vchart-how-to-perform-event-tracking-based-on-tooltip-behavior-2lka)
+- [How to Visualize ARKit&#39;s 3D Indoor Scenes in Rerun](https://dev.to/rerunio/how-to-visualize-arkits-3d-indoor-scenes-in-rerun-2bld)
+- [# Reflection and Continuous Improvement - Release v3.7 of the Open Source Instant Messaging &lpar;IM&rpar; Project OpenIM](https://dev.to/openim-sk/-reflection-and-continuous-improvement-release-v37-of-the-open-source-instant-messaging-im-project-openim-19o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
