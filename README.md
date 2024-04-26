@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is JavaScript and Where Will It be Mostly Used](https://dev.to/annoh_karlgusta/what-is-javascript-and-where-will-it-be-mostly-used-2fl0)
-- [Illuminating the Essence of Design Patterns in Software Development](https://dev.to/suyashsalvi/illuminating-the-essence-of-design-patterns-in-software-development-1o9m)
-- [Setup React Typescript with Vite &amp; ESLint](https://dev.to/phongphanq089/setup-react-typescript-with-vite-eslint-1nfk)
-- [xcrun: Error: Invalid Active Developer Path?](https://dev.to/dwildt/xcrun-error-invalid-active-developer-path-3p8g)
-- [Advanced Strategies for Efficient Cloud-Native Data Protection](https://dev.to/chowter0033/advanced-strategies-for-efficient-cloud-native-data-protection-12f5)
+- [Llama 3 with Function Calling and Code Interpreter](https://dev.to/tereza_tizkova/llama-3-with-function-calling-and-code-interpreter-55nb)
+- [winglang](https://dev.to/anhphan2024/winglang-4j72)
+- [Sort one column by another column in powerBI](https://dev.to/eudoh940/sort-one-column-by-another-column-in-powerbi-d5f)
+- [A quick read on Android haptic feedback Design principles](https://dev.to/theplebdev/a-quick-read-on-android-haptic-feedback-design-principles-40k6)
+- [Job Satisfaction or Salary?](https://dev.to/bellatrix/job-satisfaction-or-salary-2e51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
