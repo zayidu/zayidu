@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Single Responsibility Principle: Lessons from React and Factorio for Clean Design and Data Flow Management](https://dev.to/xenmars/the-single-responsibility-principle-lessons-from-react-and-factorio-for-clean-design-and-data-flow-management-2mol)
-- [The Evolution of AI Architecture: From Simple Single Tier to Complex Multi-tier Architectures](https://dev.to/myexamcloud/the-evolution-of-ai-architecture-from-simple-single-tier-to-complex-multi-tier-architectures-4m8l)
-- [Ruby on Rails 4.2.X upgrade issue with meta_request — undefined method normalize_key](https://dev.to/milosdukic/ruby-on-rails-42x-upgrade-issue-with-metarequest-undefined-method-normalizekey-1cal)
-- [Unity UI System - Best Practices](https://dev.to/marbleit/unity-ui-system-best-practices-2o24)
-- [Implement Face ID Authentication in the iOS App](https://dev.to/canopassoftware/implement-face-id-authentication-in-the-ios-app-1l8)
+- [A telltale Sign of An Inexperienced Programmer](https://dev.to/annoh_karlgusta/a-telltale-sign-of-an-inexperienced-programmer-1a0k)
+- [Take a free course at Devart Academy!](https://dev.to/devartteam/take-a-free-course-at-devart-academy-37hn)
+- [Learning: Administering using SAP HANA Cockpit](https://dev.to/dentrodailha96/learning-administering-using-sap-hana-cockpit-3id6)
+- [The Ultimate Next.js Cheat Sheet for Developers](https://dev.to/dipakahirav/the-ultimate-nextjs-cheat-sheet-for-developers-10ml)
+- [The Power of React Native for Cross-Platform App Development](https://dev.to/anhpvbhsoft/the-power-of-react-native-for-cross-platform-app-development-3fil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
