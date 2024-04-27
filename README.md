@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Randomly Picks a Giveaway Winner on Twitter &lpar;Oops X&rpar;](https://dev.to/sojinsamuel/randomly-picks-a-giveaway-winner-on-twitter-oops-x-10m9)
-- [How to merge K sorted linked list and return a sorted linked list in the end](https://dev.to/gursimrat_17/how-to-merge-k-sorted-linked-list-and-return-a-sorted-linked-list-in-the-end-ppp)
-- [[GameDev][Unity3D] Using URP 2D and SpriteMask](https://dev.to/falme/gamedevunity3d-using-urp-2d-and-spritemask-3bkn)
-- [Security news weekly round-up - 26th April 2024](https://dev.to/ziizium/security-news-weekly-round-up-26th-april-2024-2do3)
-- [How to pick the best-performing time-series AI model for your specific data](https://dev.to/mindsdb/how-to-pick-the-best-performing-time-series-ai-model-for-your-specific-data-5k)
+- [AWS Intra-Region VPC Peering: Conectando VPCs en la Misma Región con Terraform](https://dev.to/francotel/aws-intra-region-vpc-peering-conectando-vpcs-en-la-misma-region-con-terraform-1bak)
+- [Random way of making a console snake by a random 👍️😃](https://dev.to/jdi/random-way-of-making-a-console-snake-by-a-random-3h6b)
+- [Advanced Git Techniques](https://dev.to/kartikmehta8/advanced-git-techniques-mbb)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-k97)
+- [OpenAI vs Gemini : Function Calling &amp; Autonomous Agent](https://dev.to/vishalmysore/openai-vs-gemini-function-calling-autonomous-agent-4025)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
