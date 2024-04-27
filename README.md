@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chartty &lpar;Your all-in-one data visualizer&rpar;](https://dev.to/sarahokolo/chartty-your-all-in-one-data-visualizer-2o38)
-- [Emerging Technologies in Mobile App Development: What&#39;s Next?](https://dev.to/robertadler/emerging-technologies-in-mobile-app-development-whats-next-4g6h)
-- [Typescript type grouping a union type of objects by any property discriminating these objects.](https://dev.to/fredleroy/typescript-cheat-sheet-3nm4)
-- [Can AI like Devin or Chatgpt replace human software developers?](https://dev.to/codegirl0101/can-ai-like-devin-or-chatgpt-replace-human-software-developers-3gb5)
-- [Authentication and Authorization in Web Applications](https://dev.to/sanx/authentication-and-authorization-in-web-applications-4p95)
+- [Exploring the Future of Gaming: The Rise of Cloud Gaming Technology](https://dev.to/rahmanarain/exploring-the-future-of-gaming-the-rise-of-cloud-gaming-technology-bpf)
+- [My New FlutterFlow &lpar;No Code APP Dev&rpar; YT Tutorial Channel](https://dev.to/anze90/my-new-flutterflow-no-code-app-dev-yt-tutorial-channel-1ne3)
+- [Getting Started with Next.js: Part 1 - Setting Up Your Project](https://dev.to/dipakahirav/getting-started-with-nextjs-part-1-setting-up-your-project-1jjg)
+- [FUNCTIONAL AND NON-FUNCTIONAL TESTING](https://dev.to/revathykarthik/functional-and-non-functional-testing-14kp)
+- [Dry running the code to understand the flow](https://dev.to/abhsiksah/dry-running-the-code-to-understand-the-flow-4gmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
