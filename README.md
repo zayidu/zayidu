@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Library for Machine learning and quantum computing](https://dev.to/doraking/library-for-machine-learning-and-quantum-computing-5c1o)
-- [Personal Introduction and Collection of Suggestions for a New Web Developer/Programmer](https://dev.to/tobiaslanzic/personal-introduction-and-collection-of-suggestions-for-a-new-web-developerprogrammer-3mg3)
-- [Variadic Functions in C](https://dev.to/pauljlucas/variadic-functions-in-c-53ml)
-- [Pandas reset_index&lpar;&rpar;: How To Reset Indexes in Pandas](https://dev.to/federicotrotta/pandas-resetindex-how-to-reset-indexes-in-pandas-475b)
-- [Unleashing the Power of B2B Social Media Strategies for Solar Branding](https://dev.to/conversioncovecraft/unleashing-the-power-of-b2b-social-media-strategies-for-solar-branding-59j5)
+- [My last weeks GitHub contributions](https://dev.to/ccoveille/my-last-weeks-github-contributions-2g6)
+- [Day 28/366](https://dev.to/vishalmx3/day-28366-1f50)
+- [How to Make a VS Code Extension Using TypeScript: A Step-by-Step Guide](https://dev.to/fabrikapp/how-to-make-a-vs-code-extension-using-typescript-a-step-by-step-guide-1hp6)
+- [HackTheBox - Writeup Devvortex [Retired]](https://dev.to/mrtnsgs/hackthebox-writeup-devvortex-retired-1d42)
+- [Enhancing Accessibility: The Importance of Focus Management in User Interactions](https://dev.to/emmadawsondev/enhancing-accessibility-the-importance-of-focus-management-in-user-interactions-5djp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
