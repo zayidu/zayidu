@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get the verified badge on GitHub with SSH key signing](https://dev.to/ccoveille/how-to-get-the-verified-badge-on-github-with-ssh-key-signing-3kbe)
-- [My AWS DevOps Engineer Professional Study Guide](https://dev.to/aws-builders/my-aws-devops-engineer-professional-study-guide-1p6c)
-- [Functions in JavaScript: A Comprehensive Guide](https://dev.to/sadanandgadwal/functions-in-javascript-a-comprehensive-guide-40d6)
-- [Deploy SvelteKit with SSR on Coolify &lpar;Hetzner VPS&rpar;](https://dev.to/mandrasch/deploy-sveltekit-with-ssr-on-coolify-hetzner-vps-24c5)
-- [Leetcode - Weekly Contest #395](https://dev.to/arthurrio/leetcode-weekly-contest-395-3jg1)
+- [The Real Future of Open Source Technology](https://dev.to/opensourceadvocate/the-real-future-of-open-source-technology-g8o)
+- [6 Months Anniversary on DEV! 🎊](https://dev.to/anitaolsen/6-months-anniversary-on-dev-de7)
+- [🔍 React 19 Beta: A Glimpse into the Future](https://dev.to/anuparashar0507/react-19-beta-a-glimpse-into-the-future-19lp)
+- [Code is craftsmanship](https://dev.to/buildwebcrumbs/code-is-craftsmanship-1mb9)
+- [Let&#39;s glum up on Dev Earth Day!](https://dev.to/jorgedelcampo/lets-glum-up-on-dev-earth-day-2nb5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
