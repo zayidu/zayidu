@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WHAT TECHNOLOGIES DO BIG COMPANIES USE 🤔 PART 2](https://dev.to/mince/what-technologies-do-big-companies-use-part-2-4o8d)
-- [Reply in thread using NestJS and Gmail API](https://dev.to/devnik/reply-in-thread-using-nestjs-and-gmail-api-47ec)
-- [I am going to become a software engineer - and I&#39;d like to be a good one](https://dev.to/gaael-dev/i-am-going-to-become-a-software-engineer-and-id-like-to-be-a-good-one-1lj6)
-- [Latest Newsletter: Space, Blogging, &amp; Bitcoin &lpar;Issue #161&rpar;](https://dev.to/mjgs/latest-newsletter-space-blogging-bitcoin-issue-161-1nm1)
-- [CLI in ruby using OptionParser or GetoptLong](https://dev.to/alec/cli-in-ruby-using-optionparser-or-getoptlong-1mkl)
+- [Chartty &lpar;Your all-in-one data visualizer&rpar;](https://dev.to/sarahokolo/chartty-your-all-in-one-data-visualizer-2o38)
+- [Emerging Technologies in Mobile App Development: What&#39;s Next?](https://dev.to/robertadler/emerging-technologies-in-mobile-app-development-whats-next-4g6h)
+- [Typescript type grouping a union type of objects by any property discriminating these objects.](https://dev.to/fredleroy/typescript-cheat-sheet-3nm4)
+- [Can AI like Devin or Chatgpt replace human software developers?](https://dev.to/codegirl0101/can-ai-like-devin-or-chatgpt-replace-human-software-developers-3gb5)
+- [Authentication and Authorization in Web Applications](https://dev.to/sanx/authentication-and-authorization-in-web-applications-4p95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
