@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My last weeks GitHub contributions](https://dev.to/ccoveille/my-last-weeks-github-contributions-2g6)
-- [Day 28/366](https://dev.to/vishalmx3/day-28366-1f50)
-- [How to Make a VS Code Extension Using TypeScript: A Step-by-Step Guide](https://dev.to/fabrikapp/how-to-make-a-vs-code-extension-using-typescript-a-step-by-step-guide-1hp6)
-- [HackTheBox - Writeup Devvortex [Retired]](https://dev.to/mrtnsgs/hackthebox-writeup-devvortex-retired-1d42)
-- [Enhancing Accessibility: The Importance of Focus Management in User Interactions](https://dev.to/emmadawsondev/enhancing-accessibility-the-importance-of-focus-management-in-user-interactions-5djp)
+- [The ServBay 1.3.3 Update Gives You Early Access to PHP 8.4. And Node.js 22](https://dev.to/servbay/the-servbay-133-update-gives-you-early-access-to-php-84-and-nodejs-22-3aph)
+- [Lucky like a 7 — Seven SymfonyCasts Courses to Master Symfony 7](https://dev.to/reubenwalker64/lucky-like-a-7-seven-symfonycasts-courses-to-master-symfony-7-143j)
+- [Python Exceptions](https://dev.to/goranvasic/python-exceptions-4e9h)
+- [What are you building this weekend?](https://dev.to/meschacirung/what-are-you-building-this-weekend-1n9j)
+- [Automation of LAMP &lpar;Linux, Apache, MySQL, PHP&rpar; stack deployment using a Bash Script in Ansible](https://dev.to/clouddiadem/automation-of-lamp-linux-apache-mysql-php-stack-deployment-using-a-bash-script-in-ansible-2bd8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
