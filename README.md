@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A smaller YugabyteDB image for CI/CD](https://dev.to/yugabyte/a-smaller-yugabytedb-image-for-cicd-1ig3)
-- [C in CRUD in Plang language](https://dev.to/ingigauti/c-in-crud-in-plang-language-3p61)
-- [Hello World](https://dev.to/nidio/hello-world-jdm)
-- [Enhance the drag and drop of your Vue 3 application with Vue Fluid DnD](https://dev.to/carlosjorger/enhance-the-drag-and-drop-of-your-vue-3-application-with-vue-fluid-dnd-5acg)
-- [A Techy&#39;s Journey with Postman](https://dev.to/adityaiiitr2062/a-techys-journey-with-postman-anc)
+- [Free Tailwind CSS Landing Page](https://dev.to/mikevarenek/free-tailwind-css-landing-page-4hk3)
+- [Measurements with MetricKit](https://dev.to/mtmorozov/measurements-with-metrickit-4239)
+- [Javascript Error Guardian](https://dev.to/ahmetilhan24/javascript-error-guardian-kpn)
+- [🚀 Excited to share my latest project, &quot;Requester&quot;! 🚀](https://dev.to/serifcolakel/excited-to-share-my-latest-project-requester-2gge)
+- [Impact of Generative AI on Smart Manufacturing](https://dev.to/opensourceadvocate/impact-of-generative-ai-on-smart-manufacturing-cpj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
