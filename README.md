@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [A smaller YugabyteDB image for CI/CD](https://dev.to/yugabyte/a-smaller-yugabytedb-image-for-cicd-1ig3)
+- [C in CRUD in Plang language](https://dev.to/ingigauti/c-in-crud-in-plang-language-3p61)
+- [Hello World](https://dev.to/nidio/hello-world-jdm)
 - [Enhance the drag and drop of your Vue 3 application with Vue Fluid DnD](https://dev.to/carlosjorger/enhance-the-drag-and-drop-of-your-vue-3-application-with-vue-fluid-dnd-5acg)
 - [A Techy&#39;s Journey with Postman](https://dev.to/adityaiiitr2062/a-techys-journey-with-postman-anc)
-- [Earth Day &amp; Problems Celebration](https://dev.to/sergo/earth-day-problems-celebration-28no)
-- [SolidJS use:validation directive](https://dev.to/sylvaindethier/solidjs-usevalidation-directive-2fok)
-- [CMSs are everywhere — and they go beyond publishing](https://dev.to/tiagodcosta/cmss-are-everywhere-and-they-go-beyond-publishing-1336)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
