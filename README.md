@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are Your C# Strategies?](https://dev.to/devteam/what-are-your-c-strategies-41o2)
-- [Bridging the Gap: Basic Design Principles for Developers](https://dev.to/thejoernal/bridging-the-gap-basic-design-principles-for-developers-ipg)
-- [What was your win this week?](https://dev.to/gaael-dev/what-was-your-win-this-week-3772)
-- [Mastering GitHub: Cheatsheets, Commands, and Interview Prep](https://dev.to/nirmalyax/mastering-github-cheatsheets-commands-and-interview-prep-49c9)
-- [Why can e be used in the tab of input type=number?](https://dev.to/kueiapp/why-can-e-be-used-in-the-tab-of-input-typenumber-1643)
+- [Containerization and Orchestration: The New Normal for Backend Development](https://dev.to/shivankshuklaa/containerization-and-orchestration-the-new-normal-for-backend-development-3n1l)
+- [Provisioning Ansible on Ubuntu with Vagrant and Virtual box](https://dev.to/audu97/provisioning-ansible-on-ubuntu-with-vagrant-and-virtual-box-4bjj)
+- [Basic NodeJs Sample code](https://dev.to/dangeorge35/basic-nodejs-sample-code-36e7)
+- [Router, pages, layouts and async data in TiniJS apps](https://dev.to/lamnhan/router-pages-layouts-and-async-data-in-tinijs-apps-3899)
+- [The Power of Customized Signature Styles](https://dev.to/eaccords/the-power-of-customized-signature-styles-1abo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
