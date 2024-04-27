@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Astro: Building Content-Driven Websites Faster](https://dev.to/codeparrot/astro-building-content-driven-websites-faster-15pe)
+- [JavaScript in 2024: A Look at the Future](https://dev.to/saiarlen/javascript-in-2024-a-look-at-the-future-53m2)
+- [3D Car Image Just With these two APIs!](https://dev.to/parsafarahani84/3d-car-image-just-with-one-api-40ak)
 - [Containerization and Orchestration: The New Normal for Backend Development](https://dev.to/shivankshuklaa/containerization-and-orchestration-the-new-normal-for-backend-development-3n1l)
 - [Provisioning Ansible on Ubuntu with Vagrant and Virtual box](https://dev.to/audu97/provisioning-ansible-on-ubuntu-with-vagrant-and-virtual-box-4bjj)
-- [Basic NodeJs Sample code](https://dev.to/dangeorge35/basic-nodejs-sample-code-36e7)
-- [Router, pages, layouts and async data in TiniJS apps](https://dev.to/lamnhan/router-pages-layouts-and-async-data-in-tinijs-apps-3899)
-- [The Power of Customized Signature Styles](https://dev.to/eaccords/the-power-of-customized-signature-styles-1abo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
