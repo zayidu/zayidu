@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What is react-query? Why should we use react-query?](https://dev.to/chauhoangminhnguyen/what-is-react-query-why-should-we-use-react-query-2dg7)
+- [How to interact with Stripe&#39;s iframes using WebdriverIO](https://dev.to/mauro_laurenzi/how-to-interact-with-stripes-iframes-using-webdriverio-568k)
 - [AWS Intra-Region VPC Peering: Conectando VPCs en la Misma Región con Terraform](https://dev.to/francotel/aws-intra-region-vpc-peering-conectando-vpcs-en-la-misma-region-con-terraform-1bak)
 - [Random way of making a console snake by a random 👍️😃](https://dev.to/jdi/random-way-of-making-a-console-snake-by-a-random-3h6b)
 - [Advanced Git Techniques](https://dev.to/kartikmehta8/advanced-git-techniques-mbb)
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-k97)
-- [OpenAI vs Gemini : Function Calling &amp; Autonomous Agent](https://dev.to/vishalmysore/openai-vs-gemini-function-calling-autonomous-agent-4025)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
