@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Generate QR Codes in Laravel 11](https://dev.to/mktheitguy/how-to-generate-qr-codes-in-laravel-11-40ce)
-- [The Ultimate React.js Cheat Sheet for Developers](https://dev.to/dipakahirav/the-ultimate-reactjs-cheat-sheet-for-developers-h90)
-- [LeT&#39;s CoNtRoL YoU tO HeLp Me](https://dev.to/bilalboultif/lets-control-you-to-help-me-ha5)
-- [Open Source Software Facts Ignition Lovers Get Wrong](https://dev.to/opensourceadvocate/open-source-software-facts-ignition-lovers-get-wrong-1gap)
-- [tsx+wat=? A new idea for wasm modularization](https://dev.to/ahaoboy/tsxwat-a-new-idea-for-wasm-modularization-47b6)
+- [I MADE DEV COMMUNITY LOGO WHICH WAS VERY EASY](https://dev.to/dino2328/i-made-dev-community-logo-which-was-very-easy-3bpn)
+- [Crafting a Dynamic Angular Schema for Streamlined Template Elements](https://dev.to/epakconsultant/crafting-a-dynamic-angular-schema-for-streamlined-template-elements-2igl)
+- [DISCUSSION: YOUR FAVOURITE CODING YOUTUBER](https://dev.to/dino2328/discussion-your-favourite-coding-youtuber-1ha9)
+- [Angular Project: Create Better Structure &amp; Optimize the Overall Code](https://dev.to/epakconsultant/angular-project-create-better-structure-optimize-the-overall-code-18i5)
+- [Clae: Multipurpose Chat Bot &lpar;Coze&rpar;](https://dev.to/flameface/clae-multipurpose-chat-bot-coze-1ioc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
