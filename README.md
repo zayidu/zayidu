@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The ServBay 1.3.3 Update Gives You Early Access to PHP 8.4. And Node.js 22](https://dev.to/servbay/the-servbay-133-update-gives-you-early-access-to-php-84-and-nodejs-22-3aph)
-- [Lucky like a 7 — Seven SymfonyCasts Courses to Master Symfony 7](https://dev.to/reubenwalker64/lucky-like-a-7-seven-symfonycasts-courses-to-master-symfony-7-143j)
-- [Python Exceptions](https://dev.to/goranvasic/python-exceptions-4e9h)
-- [What are you building this weekend?](https://dev.to/meschacirung/what-are-you-building-this-weekend-1n9j)
-- [Automation of LAMP &lpar;Linux, Apache, MySQL, PHP&rpar; stack deployment using a Bash Script in Ansible](https://dev.to/clouddiadem/automation-of-lamp-linux-apache-mysql-php-stack-deployment-using-a-bash-script-in-ansible-2bd8)
+- [Bitcoin Whitepaper but easier](https://dev.to/nairsreya/bitcoin-whitepaper-but-easier-58pf)
+- [How to Print to Browser Console from Razor View Page in ASP.NET MVC](https://dev.to/shekhartarare/how-to-print-to-browser-console-from-razor-view-page-in-aspnet-mvc-531)
+- [Learning AWS Day by Day — Day 48 — Amazon DynamoDB — Part 4](https://dev.to/rksalo88/learning-aws-day-by-day-day-48-amazon-dynamodb-part-4-32a3)
+- [[Self-Study] Microsoft Azure - Describe the benefits of using cloud services Module](https://dev.to/theasea/self-study-microsoft-azure-describe-the-benefits-of-using-cloud-services-module-49f6)
+- [Please check my portfolio](https://dev.to/izyus/please-check-my-portfolio-2h8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
