@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Future of Gaming: The Rise of Cloud Gaming Technology](https://dev.to/rahmanarain/exploring-the-future-of-gaming-the-rise-of-cloud-gaming-technology-bpf)
-- [My New FlutterFlow &lpar;No Code APP Dev&rpar; YT Tutorial Channel](https://dev.to/anze90/my-new-flutterflow-no-code-app-dev-yt-tutorial-channel-1ne3)
-- [Getting Started with Next.js: Part 1 - Setting Up Your Project](https://dev.to/dipakahirav/getting-started-with-nextjs-part-1-setting-up-your-project-1jjg)
-- [FUNCTIONAL AND NON-FUNCTIONAL TESTING](https://dev.to/revathykarthik/functional-and-non-functional-testing-14kp)
-- [Dry running the code to understand the flow](https://dev.to/abhsiksah/dry-running-the-code-to-understand-the-flow-4gmj)
+- [How to get the verified badge on GitHub with SSH key signing](https://dev.to/ccoveille/how-to-get-the-verified-badge-on-github-with-ssh-key-signing-3kbe)
+- [My AWS DevOps Engineer Professional Study Guide](https://dev.to/aws-builders/my-aws-devops-engineer-professional-study-guide-1p6c)
+- [Functions in JavaScript: A Comprehensive Guide](https://dev.to/sadanandgadwal/functions-in-javascript-a-comprehensive-guide-40d6)
+- [Deploy SvelteKit with SSR on Coolify &lpar;Hetzner VPS&rpar;](https://dev.to/mandrasch/deploy-sveltekit-with-ssr-on-coolify-hetzner-vps-24c5)
+- [Leetcode - Weekly Contest #395](https://dev.to/arthurrio/leetcode-weekly-contest-395-3jg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
