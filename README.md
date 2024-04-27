@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a TURN Server?](https://dev.to/alakkadshaw/what-is-a-turn-server-p9k)
-- [10 Essential JavaScript Snippets Every Developer Should Know](https://dev.to/davidomisakin/10-essential-javascript-snippets-every-developer-should-know-465l)
-- [TweetGagger Plugin: getLikes, getRetweets, getReplies](https://dev.to/sojinsamuel/tweetgagger-plugin-getlikes-getretweets-getreplies-544f)
-- [A Comprehensive Guide to HTML for Beginners](https://dev.to/debtech/a-comprehensive-guide-to-html-for-beginners-pbl)
-- [EV Test Drive Project](https://dev.to/aricayajohn/ev-test-drive-project-27o9)
+- [Enhance the drag and drop of your Vue 3 application with Vue Fluid DnD](https://dev.to/carlosjorger/enhance-the-drag-and-drop-of-your-vue-3-application-with-vue-fluid-dnd-5acg)
+- [A Techy&#39;s Journey with Postman](https://dev.to/adityaiiitr2062/a-techys-journey-with-postman-anc)
+- [Earth Day &amp; Problems Celebration](https://dev.to/sergo/earth-day-problems-celebration-28no)
+- [SolidJS use:validation directive](https://dev.to/sylvaindethier/solidjs-usevalidation-directive-2fok)
+- [CMSs are everywhere — and they go beyond publishing](https://dev.to/tiagodcosta/cmss-are-everywhere-and-they-go-beyond-publishing-1336)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
