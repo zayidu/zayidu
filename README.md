@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Tailwind CSS Landing Page](https://dev.to/mikevarenek/free-tailwind-css-landing-page-4hk3)
-- [Measurements with MetricKit](https://dev.to/mtmorozov/measurements-with-metrickit-4239)
-- [Javascript Error Guardian](https://dev.to/ahmetilhan24/javascript-error-guardian-kpn)
-- [🚀 Excited to share my latest project, &quot;Requester&quot;! 🚀](https://dev.to/serifcolakel/excited-to-share-my-latest-project-requester-2gge)
-- [Impact of Generative AI on Smart Manufacturing](https://dev.to/opensourceadvocate/impact-of-generative-ai-on-smart-manufacturing-cpj)
+- [Arduino, GPS based Heliostat, Suntracker](https://dev.to/lionelmarco/arduino-gps-based-heliostat-suntracker-45mo)
+- [What Is Digital Transformation?](https://dev.to/opensourceadvocate/what-is-digital-transformation-4j32)
+- [SOLID + ReactJS](https://dev.to/hextiandro/solid-reactjs-2eof)
+- [Rate my python async snippet](https://dev.to/roman_m/rate-my-python-async-snippet-mh4)
+- [Apple Vision Pro Has Shipments Cut. Was Clearly Unavoidable.](https://dev.to/dinowilliam/apple-vision-pro-has-shipments-cut-was-clearly-unavoidable-bfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
