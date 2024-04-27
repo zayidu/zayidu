@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Generate QR Codes in Laravel 11](https://dev.to/mktheitguy/how-to-generate-qr-codes-in-laravel-11-40ce)
+- [The Ultimate React.js Cheat Sheet for Developers](https://dev.to/dipakahirav/the-ultimate-reactjs-cheat-sheet-for-developers-h90)
 - [LeT&#39;s CoNtRoL YoU tO HeLp Me](https://dev.to/bilalboultif/lets-control-you-to-help-me-ha5)
 - [Open Source Software Facts Ignition Lovers Get Wrong](https://dev.to/opensourceadvocate/open-source-software-facts-ignition-lovers-get-wrong-1gap)
 - [tsx+wat=? A new idea for wasm modularization](https://dev.to/ahaoboy/tsxwat-a-new-idea-for-wasm-modularization-47b6)
-- [First impressions: GPU + GCP Batch](https://dev.to/dchaley/first-impressions-gpu-gcp-batch-4a3)
-- [Como foi fazer um decodificador do zero para o projeto final da 1ª parte do OracleONE](https://dev.to/piluvitu/como-foi-fazer-um-decodificador-do-zero-para-o-projeto-final-da-1a-parte-do-oracleone-3p7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
