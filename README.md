@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Real Future of Open Source Technology](https://dev.to/opensourceadvocate/the-real-future-of-open-source-technology-g8o)
-- [6 Months Anniversary on DEV! 🎊](https://dev.to/anitaolsen/6-months-anniversary-on-dev-de7)
-- [🔍 React 19 Beta: A Glimpse into the Future](https://dev.to/anuparashar0507/react-19-beta-a-glimpse-into-the-future-19lp)
-- [Code is craftsmanship](https://dev.to/buildwebcrumbs/code-is-craftsmanship-1mb9)
-- [Let&#39;s glum up on Dev Earth Day!](https://dev.to/jorgedelcampo/lets-glum-up-on-dev-earth-day-2nb5)
+- [Library for Machine learning and quantum computing](https://dev.to/doraking/library-for-machine-learning-and-quantum-computing-5c1o)
+- [Personal Introduction and Collection of Suggestions for a New Web Developer/Programmer](https://dev.to/tobiaslanzic/personal-introduction-and-collection-of-suggestions-for-a-new-web-developerprogrammer-3mg3)
+- [Variadic Functions in C](https://dev.to/pauljlucas/variadic-functions-in-c-53ml)
+- [Pandas reset_index&lpar;&rpar;: How To Reset Indexes in Pandas](https://dev.to/federicotrotta/pandas-resetindex-how-to-reset-indexes-in-pandas-475b)
+- [Unleashing the Power of B2B Social Media Strategies for Solar Branding](https://dev.to/conversioncovecraft/unleashing-the-power-of-b2b-social-media-strategies-for-solar-branding-59j5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
