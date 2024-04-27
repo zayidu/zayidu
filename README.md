@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Astro: Building Content-Driven Websites Faster](https://dev.to/codeparrot/astro-building-content-driven-websites-faster-15pe)
-- [JavaScript in 2024: A Look at the Future](https://dev.to/saiarlen/javascript-in-2024-a-look-at-the-future-53m2)
-- [3D Car Image Just With these two APIs!](https://dev.to/parsafarahani84/3d-car-image-just-with-one-api-40ak)
-- [Containerization and Orchestration: The New Normal for Backend Development](https://dev.to/shivankshuklaa/containerization-and-orchestration-the-new-normal-for-backend-development-3n1l)
-- [Provisioning Ansible on Ubuntu with Vagrant and Virtual box](https://dev.to/audu97/provisioning-ansible-on-ubuntu-with-vagrant-and-virtual-box-4bjj)
+- [WHAT TECHNOLOGIES DO BIG COMPANIES USE 🤔 PART 2](https://dev.to/mince/what-technologies-do-big-companies-use-part-2-4o8d)
+- [Reply in thread using NestJS and Gmail API](https://dev.to/devnik/reply-in-thread-using-nestjs-and-gmail-api-47ec)
+- [I am going to become a software engineer - and I&#39;d like to be a good one](https://dev.to/gaael-dev/i-am-going-to-become-a-software-engineer-and-id-like-to-be-a-good-one-1lj6)
+- [Latest Newsletter: Space, Blogging, &amp; Bitcoin &lpar;Issue #161&rpar;](https://dev.to/mjgs/latest-newsletter-space-blogging-bitcoin-issue-161-1nm1)
+- [CLI in ruby using OptionParser or GetoptLong](https://dev.to/alec/cli-in-ruby-using-optionparser-or-getoptlong-1mkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
