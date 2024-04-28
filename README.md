@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bytes of Brilliance: A Hackathon Journey to Eco-Friendly Ecommerce](https://dev.to/sricharan2k3/bytes-of-brilliance-a-hackathon-journey-to-eco-friendly-ecommerce-ld7)
-- [Bytes of Brilliance: A Hackathon Journey to Eco-Friendly Ecommerce](https://dev.to/sricharan2k3/bytes-of-brilliance-a-hackathon-journey-to-eco-friendly-ecommerce-3aam)
-- [React 19: Unleashing New Frontiers in Web Development](https://dev.to/madeelchaudhary/react-19-unleashing-new-frontiers-in-web-development-2a9i)
-- [From JetBrains to VSCode to NVIM: Why I Made the Switch](https://dev.to/sotergreco/from-jetbrains-to-vscode-to-nvim-why-i-made-the-switch-27lk)
-- [Mastering Software Development Project Management: Tips and Best Practices](https://dev.to/naijastan/mastering-software-development-project-management-tips-and-best-practices-4o65)
+- [Exploring Bark, the Open Source Text-to-Speech Model](https://dev.to/ibrastartupjourney/exploring-bark-the-open-source-text-to-speech-model-1ehe)
+- [LinKeeper - Lesson 03 - Tests and ressources](https://dev.to/happytodev/linkeeper-lesson-03-tests-and-ressources-50m6)
+- [Impact of Fragmented PostgreSQL Infrastructure on Performance, Scalability, and Security](https://dev.to/shiviyer/impact-of-fragmented-postgresql-infrastructure-on-performance-scalability-and-security-4582)
+- [Uncommon matrix](https://dev.to/simongreennet/uncommon-matrix-4mfh)
+- [Numera: A PHP Library for Number to Words Conversion](https://dev.to/yoosefap/numera-a-php-library-for-number-to-words-conversion-1g25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
