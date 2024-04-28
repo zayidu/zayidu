@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Identify and fix bundle npm duplicate dependencies](https://dev.to/relative-ci/identify-and-fix-bundle-npm-duplicate-dependencies-28nj)
-- [Landing Page for Earth Day Celebration](https://dev.to/bearv5/landing-page-for-earth-day-celebration-43gb)
-- [Creating Scroll Animations Using ScrollReveal](https://dev.to/symplymuslimah12/creating-scroll-animations-using-scrollreveal-43jp)
-- [With ServBay, I Got an Early Taste of PHP 8.4.](https://dev.to/hikarimaeda/with-servbay-i-got-an-early-taste-of-php-84-2nd8)
-- [Demystifying Hibernate: A Beginner&#39;s Journey](https://dev.to/vishalwaje/demystifying-hibernate-a-beginners-journey-2b01)
+- [Building a Skin Care Assistant with Lyzr Automata](https://dev.to/akshay007/building-a-skin-care-assistant-with-lyzr-automata-lg1)
+- [Earth Day Celebration](https://dev.to/uzondu9/earth-day-celebration-4le9)
+- [Vue reactivity for impatient devs](https://dev.to/danielrasho/vue-reactivity-for-impatient-devs-1k9)
+- [Ink for Game Design](https://dev.to/goldenxp/ink-for-game-design-2e6d)
+- [Earth Day Frontend Challenge: Our Little Blue Dot 🌎](https://dev.to/mfalconi/earth-day-frontend-challenge-our-little-blue-dot-4dfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
