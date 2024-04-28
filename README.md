@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Skin Care Assistant with Lyzr Automata](https://dev.to/akshay007/building-a-skin-care-assistant-with-lyzr-automata-lg1)
-- [Earth Day Celebration](https://dev.to/uzondu9/earth-day-celebration-4le9)
-- [Vue reactivity for impatient devs](https://dev.to/danielrasho/vue-reactivity-for-impatient-devs-1k9)
-- [Ink for Game Design](https://dev.to/goldenxp/ink-for-game-design-2e6d)
-- [Earth Day Frontend Challenge: Our Little Blue Dot 🌎](https://dev.to/mfalconi/earth-day-frontend-challenge-our-little-blue-dot-4dfc)
+- [Analytics slows your sales down, let&#39;s fix it!](https://dev.to/harshkc/analytics-slows-your-sales-down-lets-fix-it-1k42)
+- [VectorDB in Action: Unleashing the Power of Molecular Biology](https://dev.to/itzserag/vectordb-in-action-unleashing-the-power-of-molecular-biology-3b0m)
+- [Building a Workout Planner App with Lyzr SDK](https://dev.to/akshay007/building-a-workout-planner-app-with-lyzr-sdk-3m3n)
+- [Three Tips for Your Next &lpar;Software&rpar; Demo](https://dev.to/giubots/three-tips-for-your-next-software-demo-3p3d)
+- [Claude Function calls with AWS Step Functions](https://dev.to/aws-builders/claude-function-calls-with-aws-step-functions-46l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
