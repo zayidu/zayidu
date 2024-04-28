@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Coze Trailblazer: Adding image processing capability with Image Wizard](https://dev.to/gabrielsenadev/coze-trailblazer-adding-image-processing-capability-with-image-wizard-2hff)
-- [Tetris Development #5 - The HOLD Piece](https://dev.to/xzzz3/tetris-development-5-the-hold-piece-4cmi)
-- [Unlocking AI Superpowers in DevOps: Master Prompt Engineering to Revolutionize Your Workflow!](https://dev.to/apetryla/unlocking-ai-superpowers-in-devops-master-prompt-engineering-to-revolutionize-your-workflow-kl)
-- [2073. Time Needed to Buy Tickets](https://dev.to/mdarifulhaque/2073-time-needed-to-buy-tickets-429f)
-- [1700. Number of Students Unable to Eat Lunch](https://dev.to/mdarifulhaque/1700-number-of-students-unable-to-eat-lunch-344k)
+- [Bot Innovator: Converting images with Image Wizard AI Assistant](https://dev.to/gabrielsenadev/bot-innovator-converting-images-with-image-wizard-ai-assistant-5fp5)
+- [New here ,](https://dev.to/darshil89/new-here--10p9)
+- [Convert hex to base64](https://dev.to/stefanalfbo/convert-hex-to-base64-5gbe)
+- [Setting up handlers with the Repository Pattern: A Test-driven approach in Go.](https://dev.to/orololuwa/setting-up-handlers-with-the-repository-pattern-a-test-driven-approach-in-go-c89)
+- [How to programmatically backup your Firestore database with simple steps](https://dev.to/mesmacosta/how-to-programmatically-backup-your-firestore-database-with-simple-steps-1k9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
