@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Structures: A Comprehensive Introduction](https://dev.to/m__mdy__m/data-structures-a-comprehensive-introduction-2o13)
-- [Starting Small: A Beginner&#39;s Diary](https://dev.to/dincz/starting-small-a-beginners-diary-2jpn)
-- [Build a Calculator using HTML and JavaScript: A Hands-On Guide](https://dev.to/abelroy/build-a-calculator-using-html-and-javascript-a-hands-on-guide-1olc)
-- [Crack the Code Like Caesar: Build Your Own Secret Message Encrypter! [Python code included]](https://dev.to/leroyleow/crack-the-code-like-caesar-build-your-own-secret-message-encrypter-python-code-included-4pmm)
-- [Deploy Your Node.js App in Minutes: Public IP + Nginx on Ubuntu ⚡](https://dev.to/abhinavk454/deploy-your-nodejs-app-in-minutes-public-ip-nginx-on-ubuntu-18nn)
+- [5 Selected Platforms To Find Web3 Jobs In 2024](https://dev.to/web3mastery/5-selected-platforms-to-find-web3-jobs-in-2024-dmo)
+- [Git Worktree: Your Ticket to Parallel Development Paradise](https://dev.to/meenachan101/git-worktree-your-ticket-to-parallel-development-paradise-3242)
+- [Celebrate Earth Day by being aware of it&#39;s importance.](https://dev.to/harishprabhu02/celebrate-earth-day-by-being-aware-of-its-importance-18jm)
+- [Introduction to Netlink with Go](https://dev.to/sn3d/introduction-to-netlink-with-go-b7f)
+- [MANUAL TESTING](https://dev.to/revathykarthik/manual-testing-1aba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
