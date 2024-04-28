@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Analytics slows your sales down, let&#39;s fix it!](https://dev.to/harshkc/analytics-slows-your-sales-down-lets-fix-it-1k42)
-- [VectorDB in Action: Unleashing the Power of Molecular Biology](https://dev.to/itzserag/vectordb-in-action-unleashing-the-power-of-molecular-biology-3b0m)
-- [Building a Workout Planner App with Lyzr SDK](https://dev.to/akshay007/building-a-workout-planner-app-with-lyzr-sdk-3m3n)
-- [Three Tips for Your Next &lpar;Software&rpar; Demo](https://dev.to/giubots/three-tips-for-your-next-software-demo-3p3d)
-- [Claude Function calls with AWS Step Functions](https://dev.to/aws-builders/claude-function-calls-with-aws-step-functions-46l)
+- [Coze Trailblazer: Adding image processing capability with Image Wizard](https://dev.to/gabrielsenadev/coze-trailblazer-adding-image-processing-capability-with-image-wizard-2hff)
+- [Tetris Development #5 - The HOLD Piece](https://dev.to/xzzz3/tetris-development-5-the-hold-piece-4cmi)
+- [Unlocking AI Superpowers in DevOps: Master Prompt Engineering to Revolutionize Your Workflow!](https://dev.to/apetryla/unlocking-ai-superpowers-in-devops-master-prompt-engineering-to-revolutionize-your-workflow-kl)
+- [2073. Time Needed to Buy Tickets](https://dev.to/mdarifulhaque/2073-time-needed-to-buy-tickets-429f)
+- [1700. Number of Students Unable to Eat Lunch](https://dev.to/mdarifulhaque/1700-number-of-students-unable-to-eat-lunch-344k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
