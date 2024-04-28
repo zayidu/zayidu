@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML - 18. Tugas Invoice Table | iAppTech.id](https://dev.to/appardana/html-18-tugas-invoice-table-iapptechid-18af)
-- [How to connect to a Virtual Machine and install Windows Server](https://dev.to/ajayi/how-to-connect-to-a-virtual-machine-and-install-windows-server-4kl8)
-- [DTOql Setup with ASP core - part 1](https://dev.to/engmustafak26/dtoql-setup-with-asp-core-part-1-2ekl)
-- [Task-1 Testing methodologies &amp; SDLC](https://dev.to/mohamed_shajan/task-1-testing-methodologies-sdlc-45h)
-- [Solving Logs Woes: A Small Dive into Singleton Design Pattern](https://dev.to/kfir-g/solving-logs-woes-a-small-dive-into-singleton-design-pattern-1bid)
+- [Identify and fix bundle npm duplicate dependencies](https://dev.to/relative-ci/identify-and-fix-bundle-npm-duplicate-dependencies-28nj)
+- [Landing Page for Earth Day Celebration](https://dev.to/bearv5/landing-page-for-earth-day-celebration-43gb)
+- [Creating Scroll Animations Using ScrollReveal](https://dev.to/symplymuslimah12/creating-scroll-animations-using-scrollreveal-43jp)
+- [With ServBay, I Got an Early Taste of PHP 8.4.](https://dev.to/hikarimaeda/with-servbay-i-got-an-early-taste-of-php-84-2nd8)
+- [Demystifying Hibernate: A Beginner&#39;s Journey](https://dev.to/vishalwaje/demystifying-hibernate-a-beginners-journey-2b01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
