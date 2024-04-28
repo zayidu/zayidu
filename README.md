@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📸🔒GitHub: protect your email from spammers with this GitHub privacy setting](https://dev.to/ccoveille/github-protect-your-email-from-spammers-with-this-github-privacy-setting-14j4)
-- [Demystifying APIs: How They Work](https://dev.to/kernelrb/demystifying-apis-how-they-work-km6)
-- [How to deploy a nestjs back-end from a mono repo on fly.io](https://dev.to/tuzzy08/how-to-deploy-a-nestjs-back-end-from-a-monorepo-on-flyio-12p)
-- [How to Showcase Your Tech Skills in Your Resume](https://dev.to/nettreesolutions/how-to-showcase-your-tech-skills-in-your-resume-4jd0)
-- [Calculator](https://dev.to/kritanshu/calculator-3019)
+- [The Importance of JavaScript Obfuscation: Safeguarding Your Code Integrity](https://dev.to/wangliwen/the-importance-of-javascript-obfuscation-safeguarding-your-code-integrity-4k6f)
+- [I made a Earth Day Challenge website that calls for Humanity for Earth](https://dev.to/hasibrashid/i-made-a-earth-day-challenge-website-that-calls-for-humanity-for-earth-ege)
+- [How to visualise MediaPipe’s Hand Tracking in 2D and 3D with Rerun](https://dev.to/rerunio/how-to-visualise-mediapipes-hand-tracking-in-2d-and-3d-with-rerun-44p0)
+- [Rasengan.js 1.0.0 Beta 🚀](https://dev.to/dilane3/rasenganjs-100-beta-4hkc)
+- [A new cross-platform version manager for SDKs](https://dev.to/moqsien/a-new-cross-platform-version-manager-for-sdks-4mmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
