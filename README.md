@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of JavaScript Obfuscation: Safeguarding Your Code Integrity](https://dev.to/wangliwen/the-importance-of-javascript-obfuscation-safeguarding-your-code-integrity-4k6f)
-- [I made a Earth Day Challenge website that calls for Humanity for Earth](https://dev.to/hasibrashid/i-made-a-earth-day-challenge-website-that-calls-for-humanity-for-earth-ege)
-- [How to visualise MediaPipe’s Hand Tracking in 2D and 3D with Rerun](https://dev.to/rerunio/how-to-visualise-mediapipes-hand-tracking-in-2d-and-3d-with-rerun-44p0)
-- [Rasengan.js 1.0.0 Beta 🚀](https://dev.to/dilane3/rasenganjs-100-beta-4hkc)
-- [A new cross-platform version manager for SDKs](https://dev.to/moqsien/a-new-cross-platform-version-manager-for-sdks-4mmh)
+- [HTML - 18. Tugas Invoice Table | iAppTech.id](https://dev.to/appardana/html-18-tugas-invoice-table-iapptechid-18af)
+- [How to connect to a Virtual Machine and install Windows Server](https://dev.to/ajayi/how-to-connect-to-a-virtual-machine-and-install-windows-server-4kl8)
+- [DTOql Setup with ASP core - part 1](https://dev.to/engmustafak26/dtoql-setup-with-asp-core-part-1-2ekl)
+- [Task-1 Testing methodologies &amp; SDLC](https://dev.to/mohamed_shajan/task-1-testing-methodologies-sdlc-45h)
+- [Solving Logs Woes: A Small Dive into Singleton Design Pattern](https://dev.to/kfir-g/solving-logs-woes-a-small-dive-into-singleton-design-pattern-1bid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
