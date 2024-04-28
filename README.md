@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Procrastinate?](https://dev.to/devteam/do-you-procrastinate-5bio)
-- [Understanding Angular Component Lifecycles](https://dev.to/avinashvalluru/understanding-angular-component-lifecycles-3c5i)
-- [Front-end specialisations: Design systems](https://dev.to/r4nd3l/front-end-specialisations-design-systems-3oid)
-- [Leveraging .htaccess on for Efficient API Routing in Main and Stage Environments on apache](https://dev.to/dangeorge35/leveraging-htaccess-on-for-efficient-api-routing-in-main-and-stage-environments-on-apache-4k67)
-- [Amazing scroll effects only using CSS ! 😲](https://dev.to/mince/amazing-scroll-effects-only-using-css--3ka7)
+- [Bytes of Brilliance: A Hackathon Journey to Eco-Friendly Ecommerce](https://dev.to/sricharan2k3/bytes-of-brilliance-a-hackathon-journey-to-eco-friendly-ecommerce-ld7)
+- [Bytes of Brilliance: A Hackathon Journey to Eco-Friendly Ecommerce](https://dev.to/sricharan2k3/bytes-of-brilliance-a-hackathon-journey-to-eco-friendly-ecommerce-3aam)
+- [React 19: Unleashing New Frontiers in Web Development](https://dev.to/madeelchaudhary/react-19-unleashing-new-frontiers-in-web-development-2a9i)
+- [From JetBrains to VSCode to NVIM: Why I Made the Switch](https://dev.to/sotergreco/from-jetbrains-to-vscode-to-nvim-why-i-made-the-switch-27lk)
+- [Mastering Software Development Project Management: Tips and Best Practices](https://dev.to/naijastan/mastering-software-development-project-management-tips-and-best-practices-4o65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
