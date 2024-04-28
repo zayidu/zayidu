@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Arduino, GPS based Heliostat, Suntracker](https://dev.to/lionelmarco/arduino-gps-based-heliostat-suntracker-45mo)
-- [What Is Digital Transformation?](https://dev.to/opensourceadvocate/what-is-digital-transformation-4j32)
-- [SOLID + ReactJS](https://dev.to/hextiandro/solid-reactjs-2eof)
-- [Rate my python async snippet](https://dev.to/roman_m/rate-my-python-async-snippet-mh4)
-- [Apple Vision Pro Has Shipments Cut. Was Clearly Unavoidable.](https://dev.to/dinowilliam/apple-vision-pro-has-shipments-cut-was-clearly-unavoidable-bfh)
+- [Exploring the V8 JavaScript Engine](https://dev.to/kartikmehta8/exploring-the-v8-javascript-engine-ka)
+- [Whitelisting URL Paths Using Regular Expressions](https://dev.to/afrazkhan/whitelisting-url-paths-using-regular-expressions-4hb7)
+- [Axios 👾](https://dev.to/punk-sama/uma-paradinha-chamada-axios-217n)
+- [And the nominees for “Best Cypress Helper” are: Utility Function, Custom Command, Custom Query, Task, and External Plugin](https://dev.to/sebastianclavijo/and-the-nominees-for-best-cypress-helper-are-utility-function-custom-command-custom-query-task-and-external-plugin-3bb5)
+- [What are the pros and cons of using GitHub Copilot?](https://dev.to/abbymaribe/what-are-the-pros-and-cons-of-using-github-copilot-1pa4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
