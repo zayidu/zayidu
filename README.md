@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Bark, the Open Source Text-to-Speech Model](https://dev.to/ibrastartupjourney/exploring-bark-the-open-source-text-to-speech-model-1ehe)
-- [LinKeeper - Lesson 03 - Tests and ressources](https://dev.to/happytodev/linkeeper-lesson-03-tests-and-ressources-50m6)
-- [Impact of Fragmented PostgreSQL Infrastructure on Performance, Scalability, and Security](https://dev.to/shiviyer/impact-of-fragmented-postgresql-infrastructure-on-performance-scalability-and-security-4582)
-- [Uncommon matrix](https://dev.to/simongreennet/uncommon-matrix-4mfh)
-- [Numera: A PHP Library for Number to Words Conversion](https://dev.to/yoosefap/numera-a-php-library-for-number-to-words-conversion-1g25)
+- [Introduction to Git: The Basics You Need to Know – Part 1](https://dev.to/dipakahirav/introduction-to-git-the-basics-you-need-to-know-part-1-4ena)
+- [Insights Into Go Logging](https://dev.to/sumuduliyanage/insights-into-go-logging-2egh)
+- [Implementing Flutter Barcode Scanner with Kotlin and CameraX for Android](https://dev.to/yushulx/implementing-flutter-barcode-scanner-with-kotlin-and-camerax-for-android-430a)
+- [CSS Art: Earth Day 2024](https://dev.to/barryels/css-art-earth-day-2024-3epk)
+- [Exploring Next.js 14.3.0-canary.26: A Peek into the Future of SSR Frameworks](https://dev.to/dipakahirav/exploring-nextjs-1430-canary26-a-peek-into-the-future-of-ssr-frameworks-10e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
