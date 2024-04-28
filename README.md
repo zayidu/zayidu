@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bot Innovator: Converting images with Image Wizard AI Assistant](https://dev.to/gabrielsenadev/bot-innovator-converting-images-with-image-wizard-ai-assistant-5fp5)
-- [New here ,](https://dev.to/darshil89/new-here--10p9)
-- [Convert hex to base64](https://dev.to/stefanalfbo/convert-hex-to-base64-5gbe)
-- [Setting up handlers with the Repository Pattern: A Test-driven approach in Go.](https://dev.to/orololuwa/setting-up-handlers-with-the-repository-pattern-a-test-driven-approach-in-go-c89)
-- [How to programmatically backup your Firestore database with simple steps](https://dev.to/mesmacosta/how-to-programmatically-backup-your-firestore-database-with-simple-steps-1k9o)
+- [Frontend Developer? Here are 10 resources that can make your work easier.](https://dev.to/friyad/frontend-developer-here-are-10-resources-that-can-make-your-work-easier-4n3n)
+- [Book Report Bot](https://dev.to/rubyjava/book-report-bot-30on)
+- [Dr Seuss on Polymorphism](https://dev.to/eatyourabstractions/dr-seuss-on-polymorphism-43cm)
+- [Login Magic for Your SvelteKit App &lpar;It&#39;s Easier Than You Think!&rpar;](https://dev.to/dev_michael/login-magic-for-your-sveltekit-app-its-easier-than-you-think-51hh)
+- [Introduction to Frontend System Design](https://dev.to/raorahul/introduction-to-frontend-system-design-7nj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
