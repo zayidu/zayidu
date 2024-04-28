@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Just had my first interview in 3 years](https://dev.to/grimkillingbeck/just-had-my-first-interview-in-3-years-5ea4)
-- [Installing Jenkins on Windows 10/11: A Beginner&#39;s Guide](https://dev.to/arbythecoder/installing-jenkins-on-windows-1011-a-beginners-guide-3281)
-- [Exploring the V8 JavaScript Engine](https://dev.to/kartikmehta8/exploring-the-v8-javascript-engine-ka)
-- [Whitelisting URL Paths Using Regular Expressions](https://dev.to/afrazkhan/whitelisting-url-paths-using-regular-expressions-4hb7)
-- [Axios 👾](https://dev.to/punk-sama/uma-paradinha-chamada-axios-217n)
+- [Create a Pomodoro Timer App using HTML, CSS, and JavaScript](https://dev.to/nooriameer/how-to-create-a-pomodoro-timer-app-using-html-css-and-javascript-51i)
+- [Concurrent Rendering in React ⛽🛣️](https://dev.to/rahmanmajeed/concurrent-rendering-in-react-j1d)
+- [Earth Challenge 🌍 Earth Day !](https://dev.to/kvnbbg/earth-challenge-earth-day--2jge)
+- [GitHub: Create your own repository landscape ⭐️](https://dev.to/tungbq/github-create-your-own-repository-landscape-16i5)
+- [OOP poetry Part I: Creational patterns](https://dev.to/eatyourabstractions/oop-poetry-part-i-creational-patterns-3abo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
