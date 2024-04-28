@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Selected Platforms To Find Web3 Jobs In 2024](https://dev.to/web3mastery/5-selected-platforms-to-find-web3-jobs-in-2024-dmo)
-- [Git Worktree: Your Ticket to Parallel Development Paradise](https://dev.to/meenachan101/git-worktree-your-ticket-to-parallel-development-paradise-3242)
-- [Celebrate Earth Day by being aware of it&#39;s importance.](https://dev.to/harishprabhu02/celebrate-earth-day-by-being-aware-of-its-importance-18jm)
-- [Introduction to Netlink with Go](https://dev.to/sn3d/introduction-to-netlink-with-go-b7f)
-- [MANUAL TESTING](https://dev.to/revathykarthik/manual-testing-1aba)
+- [📸🔒GitHub: protect your email from spammers with this GitHub privacy setting](https://dev.to/ccoveille/github-protect-your-email-from-spammers-with-this-github-privacy-setting-14j4)
+- [Demystifying APIs: How They Work](https://dev.to/kernelrb/demystifying-apis-how-they-work-km6)
+- [How to deploy a nestjs back-end from a mono repo on fly.io](https://dev.to/tuzzy08/how-to-deploy-a-nestjs-back-end-from-a-monorepo-on-flyio-12p)
+- [How to Showcase Your Tech Skills in Your Resume](https://dev.to/nettreesolutions/how-to-showcase-your-tech-skills-in-your-resume-4jd0)
+- [Calculator](https://dev.to/kritanshu/calculator-3019)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
