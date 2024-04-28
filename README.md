@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 of the Best Free Coding Tutorials Out There](https://dev.to/ahmed_onour/5-of-the-best-free-coding-tutorials-out-there-34ec)
-- [Crafting Your Own React Project: A Step-by-Step Guide for Frontend Developers](https://dev.to/titaniummonk/crafting-your-own-react-project-a-step-by-step-guide-for-frontend-developers-1a0h)
-- [Exploring My Amazon Clone Project: A Journey via HTML and CSS](https://dev.to/paritoshchaudhari/exploring-my-amazon-clone-project-a-journey-via-html-and-css-5fom)
-- [ContentStack - Optimising GraphQL queries](https://dev.to/adrocodes/contentstack-optimising-graphql-queries-2gpd)
-- [[Sequelize + mariaDB] index 걸린 컬럼 삭제하기](https://dev.to/__aa3e4bc832ba7032bfa3/sequelize-mariadb-index-geolrin-keolreom-sagjehagi-2nf0)
+- [Front-end specialisations: Design systems](https://dev.to/r4nd3l/front-end-specialisations-design-systems-3oid)
+- [Leveraging .htaccess on for Efficient API Routing in Main and Stage Environments on apache](https://dev.to/dangeorge35/leveraging-htaccess-on-for-efficient-api-routing-in-main-and-stage-environments-on-apache-4k67)
+- [Amazing scroll effects only using CSS ! 😲](https://dev.to/mince/amazing-scroll-effects-only-using-css--3ka7)
+- [Unlocking the Power of WebAssembly](https://dev.to/yugandhar_dasari_93/unlocking-the-power-of-webassembly-5fo7)
+- [Unlocking the Power of WebAssembly](https://dev.to/yugandhar_dasari_93/unlocking-the-power-of-webassembly-bfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
