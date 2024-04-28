@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Sharable Runes with TypeScript in Svelte5](https://dev.to/jdgamble555/using-sharable-runes-with-typescript-in-svelte5-5hcp)
-- [Building an Escrow Smart Contract](https://dev.to/jkaylight/building-an-escrow-smart-contract-1dl9)
-- [Open/Closed Principle](https://dev.to/codexam/openclosed-principle-3fnk)
-- [Demystifying OS Concepts: Introducing OSViz](https://dev.to/mahakfaheem/demystifying-os-concepts-introducing-osviz-2913)
-- [Finding the Right Balance: Clean Architecture and Entity Framework in Practice](https://dev.to/shahabfar/finding-the-right-balance-clean-architecture-and-entity-framework-in-practice-2bip)
+- [How to Build an OpenAI GPT Agent in less than 15 mins](https://dev.to/vishalmysore/how-to-build-an-openai-gpt-agent-in-less-than-15-mins-1npg)
+- [My FrontEnd Challenge project - Gallery page.](https://dev.to/chetachukwu025/my-frontend-challenge-project-gallery-page-557e)
+- [Find Jobs Plugin](https://dev.to/jasmin/find-jobs-plugin-56e9)
+- [This is a submission for the Coze AI Bot Challenge](https://dev.to/zeroxdesignx/this-is-a-submission-for-the-coze-ai-bot-challenge-208)
+- [The Cryptocurrency Revolution: A New Era of Digital Finance](https://dev.to/heather138/the-cryptocurrency-revolution-a-new-era-of-digital-finance-3ifa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
