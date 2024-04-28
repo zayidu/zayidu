@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Developer? Here are 10 resources that can make your work easier.](https://dev.to/friyad/frontend-developer-here-are-10-resources-that-can-make-your-work-easier-4n3n)
-- [Book Report Bot](https://dev.to/rubyjava/book-report-bot-30on)
-- [Dr Seuss on Polymorphism](https://dev.to/eatyourabstractions/dr-seuss-on-polymorphism-43cm)
-- [Login Magic for Your SvelteKit App &lpar;It&#39;s Easier Than You Think!&rpar;](https://dev.to/dev_michael/login-magic-for-your-sveltekit-app-its-easier-than-you-think-51hh)
-- [Introduction to Frontend System Design](https://dev.to/raorahul/introduction-to-frontend-system-design-7nj)
+- [Using Sharable Runes with TypeScript in Svelte5](https://dev.to/jdgamble555/using-sharable-runes-with-typescript-in-svelte5-5hcp)
+- [Building an Escrow Smart Contract](https://dev.to/jkaylight/building-an-escrow-smart-contract-1dl9)
+- [Open/Closed Principle](https://dev.to/codexam/openclosed-principle-3fnk)
+- [Demystifying OS Concepts: Introducing OSViz](https://dev.to/mahakfaheem/demystifying-os-concepts-introducing-osviz-2913)
+- [Finding the Right Balance: Clean Architecture and Entity Framework in Practice](https://dev.to/shahabfar/finding-the-right-balance-clean-architecture-and-entity-framework-in-practice-2bip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
