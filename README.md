@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Server-Side Rendering with Next.js](https://dev.to/kartikmehta8/server-side-rendering-with-nextjs-20np)
-- [Libraries.io Coze Plugin](https://dev.to/walter0/librariesio-coze-plugin-513h)
-- [CoderLogon: generate a logo for your GitHub repo🎨](https://dev.to/astrabert/coderlogon-generate-a-logo-for-your-github-repo-45a4)
-- [Why Do Higher Order Functions Make My Life Easier?](https://dev.to/danielle-goldberg/why-do-higher-order-functions-make-my-life-easier-5h9)
-- [JHipster 8 - Analisando o código da nossa primeira aplicação monolítica - Parte 1/3](https://dev.to/meucodigoagil/jhipster-8-analisando-o-codigo-da-nossa-primeira-aplicacao-monolitica-parte-13-2380)
+- [How far is too far for a job?](https://dev.to/grimkillingbeck/how-far-is-too-far-for-a-job-15hk)
+- [Dive into Web Development with the MERN Stack](https://dev.to/mibii/dive-into-web-development-with-the-mern-stack-3efn)
+- [Aprenda a falar inglês](https://dev.to/neppersac/aprenda-a-falar-ingles-4dia)
+- [Earth Day Celebration Landing Page](https://dev.to/yowise/earth-day-celebration-landing-page-10d0)
+- [Mock It Till You Make It: Mocking in Python&#39;s unittest](https://dev.to/lizzzzz/mock-it-till-you-make-it-mocking-in-pythons-unittest-42d4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
