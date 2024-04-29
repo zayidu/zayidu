@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lesser Known Features of DEV — Embeds!](https://dev.to/devteam/lesser-known-features-of-dev-embeds-3bpn)
-- [7 reasons why you need to get familiar with MACH architecture](https://dev.to/momciloo/7-reasons-why-you-need-to-get-familiar-with-mach-architecture-980)
-- [ErrorBoundary in React](https://dev.to/fatimaalam1234/errorboundary-in-react-1gff)
-- [Clingon: A Ferramenta CLI para Geração de Recursos](https://dev.to/ipetinate/clingon-a-ferramenta-cli-para-geracao-de-recursos-bgi)
-- [Clingon: The CLI Tool for Resource Generation](https://dev.to/ipetinate/clingon-the-cli-tool-for-resource-generation-1gfi)
+- [FLaNK AI Weekly for 29 April 2024](https://dev.to/tspannhw/flank-ai-weekly-for-29-april-2024-39ec)
+- [Amazon Bedrock Blueprint: Architecting AI Projects with Amazon Bedrock](https://dev.to/aws-builders/amazon-bedrock-blueprint-architecting-ai-projects-with-amazon-bedrock-4686)
+- [Meme Monday](https://dev.to/ben/meme-monday-44dh)
+- [🅰️🚀 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 𝘃𝟭𝟴 𝗛𝘆𝗯𝗿𝗶𝗱 𝗖𝗵𝗮𝗻𝗴𝗲 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗠𝗼𝗱𝗲](https://dev.to/khangtrannn/-4gc2)
+- [Scaling Your AWS Infrastructure with Load Balancers, Auto Scaling, and CloudWatch.](https://dev.to/nirmalyax/scaling-your-aws-infrastructure-with-load-balancers-auto-scaling-and-cloudwatch-2kkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
