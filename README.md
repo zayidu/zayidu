@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [1 Mistake Amateur Developers Make That Slow Down Development](https://dev.to/annoh_karlgusta/1-mistake-amateur-developers-make-that-slow-down-development-21go)
+- [Intro to React Hooks](https://dev.to/peytono/intro-to-react-hooks-397h)
+- [Fun Agile Retrospectives with GIFs 😆](https://dev.to/mattlewandowski93/fun-agile-retrospectives-with-gifs-3ope)
 - [How far is too far for a job?](https://dev.to/grimkillingbeck/how-far-is-too-far-for-a-job-15hk)
 - [Dive into Web Development with the MERN Stack](https://dev.to/mibii/dive-into-web-development-with-the-mern-stack-3efn)
-- [Aprenda a falar inglês](https://dev.to/neppersac/aprenda-a-falar-ingles-4dia)
-- [Earth Day Celebration Landing Page](https://dev.to/yowise/earth-day-celebration-landing-page-10d0)
-- [Mock It Till You Make It: Mocking in Python&#39;s unittest](https://dev.to/lizzzzz/mock-it-till-you-make-it-mocking-in-pythons-unittest-42d4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
