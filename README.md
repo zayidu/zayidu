@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Delete function for Todo List App &lpar;Javascript&rpar;](https://dev.to/zoeyahmi/delete-function-for-todo-list-app-javascript-19i4)
-- [Patterns no Terminal: Desvende a Magia da Arte ASCII com Star Pattern, Number Pattern e Mais! Usando Dart 🔵💙](https://dev.to/ylanzinhoy/patterns-no-terminal-desvende-a-magia-da-arte-ascii-com-star-pattern-number-pattern-e-mais-usando-dart-27ob)
-- [Custom checkbox component, the right way](https://dev.to/juliendelort/custom-checkbox-component-the-right-way-2epj)
-- [Git reset bằng terminal và extensions vscode cho git](https://dev.to/tranhoandz98/git-reset-bang-terminal-va-extensions-vscode-cho-git-n3f)
-- [What VPs of Engineering care about in 2024](https://dev.to/shohams/what-vps-of-engineering-care-about-in-2024-3jdi)
+- [Shift-Left: Bring Dev and DevOps Together](https://dev.to/vatsalbajpai/shift-left-bring-dev-and-devops-together-p3e)
+- [Exploring Angular SSR: Development, API, Prefetching and Deployment](https://dev.to/shhdharmen/exploring-angular-ssr-development-api-prefetching-and-deployment-2jpc)
+- [** John Wick y la Arquitectura de Software: Un Duelo de código **🐶](https://dev.to/orlidev/-john-wick-y-la-arquitectura-de-software-un-duelo-de-codigo--g2i)
+- [My Journey into Open Source: Simplifying Cookie Consent for React Developers](https://dev.to/seishin/my-journey-into-open-source-simplifying-cookie-consent-for-react-developers-2ab5)
+- [Flatten Binary Tree to Linked List | LeetCode | Java](https://dev.to/tanujav/flatten-binary-tree-to-linked-list-leetcode-java-38j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
