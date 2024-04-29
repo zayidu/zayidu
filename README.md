@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Buenas Practicas en Rails](https://dev.to/kattyacuevas/buenas-practicas-en-rails-4bo4)
-- [Recreating a GIF with CSS: Earth Day Edition](https://dev.to/bhallibhai/recreating-a-gif-with-css-earth-day-edition-1k6m)
-- [Request Safe to get data from request safely in Laravel](https://dev.to/yasserelgammal/request-safe-to-get-data-from-request-safely-in-laravel-fj7)
-- [Using NetBird for Kubernetes Access](https://dev.to/braginini/using-netbird-for-kubernetes-access-3fc2)
-- [Fixed XOR](https://dev.to/stefanalfbo/fixed-xor-j9h)
+- [Goodbye Internet... For Now](https://dev.to/alex_the_dev/goodbye-internet-for-now-1bco)
+- [Error on Node JS npm/npx project creating with vite/react js &quot;node:internal/modules/cjs/loader:1205 throw err&quot;](https://dev.to/mdsiaofficial/error-on-node-js-npmnpx-project-creating-with-vitereact-js-nodeinternalmodulescjsloader1205-throw-err-32fb)
+- [How to setup the tailwindcss in your next HTML project ?](https://dev.to/motuncoded/how-to-setup-the-tailwindcss-in-your-next-html-project--38p9)
+- [Apk does not establish connection with Back-end](https://dev.to/daniel_010/apk-does-not-establish-connection-with-back-end-n34)
+- [O que é e como trabalhar com Ambientes Virtuais em Python](https://dev.to/carlos-cgs/o-que-e-e-como-trabalhar-com-ambientes-virtuais-em-python-473)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
