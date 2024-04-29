@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Magmi &quot;1364 Field doesn&#39;t have a default value&quot; error - Just be careful](https://dev.to/sa-hola/magmi-1364-field-doesnt-have-a-default-value-error-just-be-careful-1j00)
-- [DevSecOps with Open Source Tools](https://dev.to/nactez/devsecops-with-open-source-tools-2dn2)
-- [Unit tests in React with Jest and Testing Library](https://dev.to/griseduardo/unit-tests-in-react-with-jest-and-testing-library-18ag)
-- [Testes unitários em React com Jest e testing library](https://dev.to/griseduardo/testes-unitarios-em-react-com-jest-e-testing-library-56f3)
-- [Task Management System in Golang Cloud Computing Final](https://dev.to/davidn0809/task-management-system-in-golan-cloud-computing-final-4c4j)
+- [React Refs Ritual: Managing Focus, Selections, and More.](https://dev.to/kigazon/react-refs-ritual-managing-focus-selections-and-more-5ge4)
+- [Introducing LMS Moodle Operator](https://dev.to/krestomatio/introducing-lms-moodle-operator-251l)
+- [Envio e recebimento de mensagens de texto dentro de imagens com Python](https://dev.to/msc2020/envio-e-recebimento-de-mensagens-de-texto-dentro-de-imagens-com-python-37pp)
+- [My Journey to Passing the AWS Certified Solutions Architect Associate Exam](https://dev.to/aws-builders/my-journey-to-passing-the-aws-certified-solutions-architect-associate-exam-de)
+- [Vercel AI SDK &amp; LangChain streaming](https://dev.to/omills/vercel-ai-sdk-langchain-3edf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
