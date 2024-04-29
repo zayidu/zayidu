@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Send Text Notification from your Synology NAS with Free Mobile &lpar;SMS&rpar;](https://dev.to/steeve/send-text-notification-from-your-synology-nas-with-free-mobile-sms-jic)
-- [Add a google maps on my reactjs resume](https://dev.to/marcelomsc/add-a-google-maps-on-my-reactjs-resume-bc7)
-- [Inline Function — When to use?](https://dev.to/khushpanchal123/inline-function-when-to-use-e0g)
-- [Kotlin &amp; JVM first thoughts &lpar;Day 2&rpar; - Creating a SaaS Startup in 30 Days](https://dev.to/sotergreco/kotlin-jvm-first-thoughts-day-2-creating-a-saas-startup-in-30-days-4kb8)
-- [Full Stack Testing in a Single Test &lpar;Frontend &lt;-&gt; Backend&rpar;](https://dev.to/tesmon/full-stack-testing-in-a-single-test-frontend-backend-3b58)
+- [Terraform vs Terragrunt](https://dev.to/saumya1/terraform-vs-terragrunt-4lhm)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-79a)
+- [How I Combined Small Language Models to Automate Workflow like Financial Research](https://dev.to/llmware/how-i-combine-small-language-models-to-automate-fact-based-workflow-like-financial-research-29np)
+- [Learning: Performing User and Authorization Maintenance](https://dev.to/dentrodailha96/learning-performing-user-and-authorization-maintenance-28c9)
+- [What are your goals for week 18?](https://dev.to/jarvisscript/what-are-your-goals-for-week-18-3484)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
