@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FLaNK AI Weekly for 29 April 2024](https://dev.to/tspannhw/flank-ai-weekly-for-29-april-2024-39ec)
-- [Amazon Bedrock Blueprint: Architecting AI Projects with Amazon Bedrock](https://dev.to/aws-builders/amazon-bedrock-blueprint-architecting-ai-projects-with-amazon-bedrock-4686)
-- [Meme Monday](https://dev.to/ben/meme-monday-44dh)
-- [🅰️🚀 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 𝘃𝟭𝟴 𝗛𝘆𝗯𝗿𝗶𝗱 𝗖𝗵𝗮𝗻𝗴𝗲 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗠𝗼𝗱𝗲](https://dev.to/khangtrannn/-4gc2)
-- [Scaling Your AWS Infrastructure with Load Balancers, Auto Scaling, and CloudWatch.](https://dev.to/nirmalyax/scaling-your-aws-infrastructure-with-load-balancers-auto-scaling-and-cloudwatch-2kkf)
+- [Send Text Notification from your Synology NAS with Free Mobile &lpar;SMS&rpar;](https://dev.to/steeve/send-text-notification-from-your-synology-nas-with-free-mobile-sms-jic)
+- [Add a google maps on my reactjs resume](https://dev.to/marcelomsc/add-a-google-maps-on-my-reactjs-resume-bc7)
+- [Inline Function — When to use?](https://dev.to/khushpanchal123/inline-function-when-to-use-e0g)
+- [Kotlin &amp; JVM first thoughts &lpar;Day 2&rpar; - Creating a SaaS Startup in 30 Days](https://dev.to/sotergreco/kotlin-jvm-first-thoughts-day-2-creating-a-saas-startup-in-30-days-4kb8)
+- [Full Stack Testing in a Single Test &lpar;Frontend &lt;-&gt; Backend&rpar;](https://dev.to/tesmon/full-stack-testing-in-a-single-test-frontend-backend-3b58)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
