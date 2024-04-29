@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform vs Terragrunt](https://dev.to/saumya1/terraform-vs-terragrunt-4lhm)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-79a)
-- [How I Combined Small Language Models to Automate Workflow like Financial Research](https://dev.to/llmware/how-i-combine-small-language-models-to-automate-fact-based-workflow-like-financial-research-29np)
-- [Learning: Performing User and Authorization Maintenance](https://dev.to/dentrodailha96/learning-performing-user-and-authorization-maintenance-28c9)
-- [What are your goals for week 18?](https://dev.to/jarvisscript/what-are-your-goals-for-week-18-3484)
+- [How to Convert a String to Byte Array in C#: Encoding and Decoding Simplified](https://dev.to/devleader/how-to-convert-a-string-to-byte-array-in-c-encoding-and-decoding-simplified-3faf)
+- [Lesson 1: Introduction to Three-Tier Architecture in AWS &lpar;2/5&rpar;](https://dev.to/techtobe101/lesson-1-introduction-to-three-tier-architecture-in-aws-25-2eb9)
+- [SocialFi Builder Explains Why Web3 Will Merge With Web2 – Interview](https://dev.to/endeo/socialfi-builder-explains-why-web3-will-merge-with-web2-interview-4aj)
+- [5 Common Mistakes To Avoid In A Test Automation Interview](https://dev.to/kwan/5-common-mistakes-to-avoid-in-a-test-automation-interview-1bj)
+- [5 core concepts you should know about MeteorJS in 2024](https://dev.to/meteor/5-core-concepts-you-should-know-about-meteorjs-in-2024-5fpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
