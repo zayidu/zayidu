@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye Internet... For Now](https://dev.to/alex_the_dev/goodbye-internet-for-now-1bco)
-- [Error on Node JS npm/npx project creating with vite/react js &quot;node:internal/modules/cjs/loader:1205 throw err&quot;](https://dev.to/mdsiaofficial/error-on-node-js-npmnpx-project-creating-with-vitereact-js-nodeinternalmodulescjsloader1205-throw-err-32fb)
-- [How to setup the tailwindcss in your next HTML project ?](https://dev.to/motuncoded/how-to-setup-the-tailwindcss-in-your-next-html-project--38p9)
-- [Apk does not establish connection with Back-end](https://dev.to/daniel_010/apk-does-not-establish-connection-with-back-end-n34)
-- [O que é e como trabalhar com Ambientes Virtuais em Python](https://dev.to/carlos-cgs/o-que-e-e-como-trabalhar-com-ambientes-virtuais-em-python-473)
+- [My experience in the job search](https://dev.to/rageltd/my-experience-in-the-job-search-4ij9)
+- [How to use NextJS pathname in Storybook 8](https://dev.to/heymarkkop/how-to-use-nextjs-pathname-in-storybook-8-5ac9)
+- [Rabarber v2: A Major Update for the Role-Based Authorization Gem](https://dev.to/enjaku4/rabarber-v2-a-major-update-for-the-role-based-authorization-gem-jel)
+- [Analyzing Python Compression Libraries: zlib, LZ4, Brotli, and Zstandard](https://dev.to/dhilipsiva/analyzing-python-compression-libraries-zlib-lz4-brotli-and-zstandard-2ne5)
+- [Python&#39;s Secret Weapon: List Comprehension](https://dev.to/mozamaia/pythons-secret-weapon-list-comprehension-5bjn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
