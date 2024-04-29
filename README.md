@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Automate - 4 Steps to Building a Flow](https://dev.to/wyattdave/power-automate-4-steps-to-building-a-flow-36c0)
-- [AWS open source newsletter, #196](https://dev.to/aws/aws-open-source-newsletter-196-2lj2)
-- [The double-edged sword: Ethical implications of AI in UI/UX design](https://dev.to/pepper_square/the-double-edged-sword-ethical-implications-of-ai-in-uiux-design-2gmm)
-- [Gimli Tailwind is now available for Firefox!](https://dev.to/gimli_app/gimli-tailwind-is-now-available-for-firefox-d6e)
-- [Glam Up My Markup: Earth Day - Frontend Challenge Submission](https://dev.to/cobykalter/glam-up-my-markup-earth-day-frontend-challenge-submission-2p55)
+- [Redirecting Guards and Resolvers in Angular v18 with RedirectCommand](https://dev.to/davidepassafaro/advanced-angular-navigation-redirect-guards-and-resolvers-in-angular-v18-15ne)
+- [Who Needs Coffee When You&#39;ve Got...?](https://dev.to/devteam/who-needs-coffee-when-youve-got-4nh2)
+- [Console Ninja - Your logs on steroids](https://dev.to/giuliano1993/console-ninja-your-logs-on-steroids-28ie)
+- [Essentials of PostgreSQL CTEs](https://dev.to/dbvismarketing/essentials-of-postgresql-ctes-32f)
+- [A wordpress plugin to save your development time](https://dev.to/appsdevpk/a-wordpress-plugin-to-save-your-development-time-2pdd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
