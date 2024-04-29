@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Business Success through a Skeptical Mindset](https://dev.to/daliboru/enhancing-business-success-through-a-skeptical-mindset-2n11)
-- [Building a Simple Electron Application with Vue.js 🚀🔧](https://dev.to/amatisse/building-a-simple-electron-application-with-vuejs-52aa)
-- [Stories Behind ZenStack V2!](https://dev.to/jiasheng/stories-behind-zenstack-v2-57p8)
-- [Snake](https://dev.to/kritanshu/snake-170i)
-- [Integrating Chat GPT into Salesforce: A Comprehensive Guide](https://dev.to/zoyazenniefer/integrating-chat-gpt-into-salesforce-a-comprehensive-guide-42b7)
+- [Need help with the Odin Project &#39;Tic Tac Toe&#39;](https://dev.to/brightanyawe/need-help-with-the-odin-project-tic-tac-toe-2gim)
+- [GRPC vs REST: Which One Should You Choose? 🚨](https://dev.to/bytehide/grpc-vs-rest-which-one-should-you-choose-nid)
+- [From Idea to MVP in Just 20 Days](https://dev.to/salmandotweb/from-idea-to-mvp-in-just-20-days-2m46)
+- [An Introduction to the Go Programming Language: Setup, Syntax, and Basic Concepts](https://dev.to/ankitakanchan/an-introduction-to-the-go-programming-language-setup-syntax-and-basic-concepts-53gh)
+- [Join the Diagrid Catalyst AWS Hackathon!](https://dev.to/diagrid/join-the-diagrid-catalyst-aws-hackathon-4849)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
