@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Bulletproof Photo Sharing App with DevSecOps Terraform, AWS, EKS and Chaos Engineering](https://dev.to/aws-builders/deploying-a-bulletproof-photo-sharing-app-with-devsecops-terraform-aws-eks-and-chaos-engineering-d25)
-- [Deploying a Bulletproof Photo Sharing App with DevSecOps Terraform, AWS, EKS and Chaos Engineering](https://dev.to/aws-builders/deploying-a-bulletproof-photo-sharing-app-with-devsecops-terraform-aws-eks-and-chaos-engineering-4p57)
-- [How to use Retrieval Augmented Generation &lpar;RAG&rpar; for Go applications](https://dev.to/aws/how-to-use-retrieval-augmented-generation-rag-for-go-applications-3b4j)
-- [Create a Custom GitHub Action in Rust](https://dev.to/pnehrer/create-a-custom-github-action-in-rust-2al1)
-- [How to display segmented linear progress bar?](https://dev.to/neuqzxy/how-to-display-segmented-linear-progress-bar-22k5)
+- [Power Automate - 4 Steps to Building a Flow](https://dev.to/wyattdave/power-automate-4-steps-to-building-a-flow-36c0)
+- [AWS open source newsletter, #196](https://dev.to/aws/aws-open-source-newsletter-196-2lj2)
+- [The double-edged sword: Ethical implications of AI in UI/UX design](https://dev.to/pepper_square/the-double-edged-sword-ethical-implications-of-ai-in-uiux-design-2gmm)
+- [Gimli Tailwind is now available for Firefox!](https://dev.to/gimli_app/gimli-tailwind-is-now-available-for-firefox-d6e)
+- [Glam Up My Markup: Earth Day - Frontend Challenge Submission](https://dev.to/cobykalter/glam-up-my-markup-earth-day-frontend-challenge-submission-2p55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
