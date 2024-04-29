@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [use&lpar;&rpar; hook in React 19](https://dev.to/ashsajal/use-hook-in-react-19-1olk)
-- [[Self-Study] Microsoft Azure Fundamentals](https://dev.to/theasea/self-study-microsoft-azure-fundamentals-4m)
-- [3 nuggets of advice for mid-level engineers who don&#39;t want the management track](https://dev.to/samelawrence/3-nuggets-of-advice-for-mid-level-qa-engineers-who-dont-want-the-management-track-40j4)
-- [A Beginner&#39;s Guide to Contributing to Open Source Projects](https://dev.to/damienjburks/a-beginners-guide-to-contributing-to-open-source-projects-4elc)
-- [Getting Started with Next.js: Part 3 - API Routes](https://dev.to/dipakahirav/getting-started-with-nextjs-part-3-api-routes-11m3)
+- [Building LinkedIn Elevator Pitch Generator with Lyzr SDK](https://dev.to/akshay007/building-linkedin-elevator-pitch-generator-with-lyzr-sdk-3kp8)
+- [Creando Subtítulos Automáticos para Vídeos con Python, Faster-Whisper, FFmpeg, Streamlit, Pillow](https://dev.to/emmendoza2794/creando-subtitulos-automaticos-para-videos-con-python-faster-whisper-ffmpeg-streamlit-pillow-30de)
+- [I developed a no-code tool that integrates Anthropic into Slack, Teams, and HubSpot](https://dev.to/snowhale/i-developed-a-no-code-tool-that-integrates-anthropic-into-slack-teams-and-hubspot-354c)
+- [The Frontend Challenge v2: Earth Day Edition🌎](https://dev.to/rafajrg21/the-frontend-challenge-v2-earth-day-edition-1fal)
+- [I have Issues with .ejs](https://dev.to/kmoral/i-have-issues-with-ejs-3aj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
