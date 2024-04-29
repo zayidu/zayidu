@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to connect to Oracle, MySql and PostgreSQL databases using Python?](https://dev.to/luca1iu/how-to-connect-to-oracle-mysql-and-postgresql-databases-using-python-4ohd)
-- [AgentCloud vs Google Cloud Agents](https://dev.to/agentcloud/agent-cloud-vs-google-cloud-agents-494e)
-- [#514. Freedom Trail](https://dev.to/karleb/514-freedom-trail-92h)
-- [-STORYTIME- Il tente de déployer sans Internet, ça tourne mal](https://dev.to/solona/-storytime-il-tente-de-deployer-sans-internet-ca-tourne-mal-4931)
-- [RPA technology extending legacy EMR systems](https://dev.to/abtosoftware/rpa-technology-extending-legacy-emr-systems-5ckb)
+- [Optimizing Graphics and Rendering in Unity: Key aspects and practical solutions](https://dev.to/devsdaddy/optimizing-graphics-and-rendering-in-unity-key-aspects-and-practical-solutions-1m7d)
+- [Weekly Roundup 050 &lpar;Apr 22&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-050-apr-22-hot-topics-in-workplace-sharepoint-and-powerplatform-22i6)
+- [5 Lessons Learned Building our SaaS with Rust 🦀](https://dev.to/meteroid/5-lessons-learned-building-our-saas-with-rust-1doj)
+- [🇧🇷 | Uma empresa e infinitos produtos](https://dev.to/econominhas/-uma-empresa-e-infinitos-produtos-1mkc)
+- [What to do with runtime errors](https://dev.to/arnaudrenaud/what-to-do-with-runtime-errors-f0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
