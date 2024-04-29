@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Need help with the Odin Project &#39;Tic Tac Toe&#39;](https://dev.to/brightanyawe/need-help-with-the-odin-project-tic-tac-toe-2gim)
-- [GRPC vs REST: Which One Should You Choose? 🚨](https://dev.to/bytehide/grpc-vs-rest-which-one-should-you-choose-nid)
-- [From Idea to MVP in Just 20 Days](https://dev.to/salmandotweb/from-idea-to-mvp-in-just-20-days-2m46)
-- [An Introduction to the Go Programming Language: Setup, Syntax, and Basic Concepts](https://dev.to/ankitakanchan/an-introduction-to-the-go-programming-language-setup-syntax-and-basic-concepts-53gh)
-- [Join the Diagrid Catalyst AWS Hackathon!](https://dev.to/diagrid/join-the-diagrid-catalyst-aws-hackathon-4849)
+- [How to connect to Oracle, MySql and PostgreSQL databases using Python?](https://dev.to/luca1iu/how-to-connect-to-oracle-mysql-and-postgresql-databases-using-python-4ohd)
+- [AgentCloud vs Google Cloud Agents](https://dev.to/agentcloud/agent-cloud-vs-google-cloud-agents-494e)
+- [#514. Freedom Trail](https://dev.to/karleb/514-freedom-trail-92h)
+- [-STORYTIME- Il tente de déployer sans Internet, ça tourne mal](https://dev.to/solona/-storytime-il-tente-de-deployer-sans-internet-ca-tourne-mal-4931)
+- [RPA technology extending legacy EMR systems](https://dev.to/abtosoftware/rpa-technology-extending-legacy-emr-systems-5ckb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
