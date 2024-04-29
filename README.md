@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shift-Left: Bring Dev and DevOps Together](https://dev.to/vatsalbajpai/shift-left-bring-dev-and-devops-together-p3e)
-- [Exploring Angular SSR: Development, API, Prefetching and Deployment](https://dev.to/shhdharmen/exploring-angular-ssr-development-api-prefetching-and-deployment-2jpc)
-- [** John Wick y la Arquitectura de Software: Un Duelo de código **🐶](https://dev.to/orlidev/-john-wick-y-la-arquitectura-de-software-un-duelo-de-codigo--g2i)
-- [My Journey into Open Source: Simplifying Cookie Consent for React Developers](https://dev.to/seishin/my-journey-into-open-source-simplifying-cookie-consent-for-react-developers-2ab5)
-- [Flatten Binary Tree to Linked List | LeetCode | Java](https://dev.to/tanujav/flatten-binary-tree-to-linked-list-leetcode-java-38j)
+- [Buenas Practicas en Rails](https://dev.to/kattyacuevas/buenas-practicas-en-rails-4bo4)
+- [Recreating a GIF with CSS: Earth Day Edition](https://dev.to/bhallibhai/recreating-a-gif-with-css-earth-day-edition-1k6m)
+- [Request Safe to get data from request safely in Laravel](https://dev.to/yasserelgammal/request-safe-to-get-data-from-request-safely-in-laravel-fj7)
+- [Using NetBird for Kubernetes Access](https://dev.to/braginini/using-netbird-for-kubernetes-access-3fc2)
+- [Fixed XOR](https://dev.to/stefanalfbo/fixed-xor-j9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
