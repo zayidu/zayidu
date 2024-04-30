@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern C#: Get Started with DateOnly](https://dev.to/lovelacecoding/modern-c-get-started-with-dateonly-2nnh)
-- [Fetching Data &lpar;Next.js&rpar;](https://dev.to/samuellubliner/fetching-data-nextjs-5b0b)
-- [“Managing up”: Developing your influence power](https://dev.to/lidiettesdev/managing-up-developing-your-influence-power-23n8)
-- [Optimizing Performance Using Prometheus with Node JS for Monitoring](https://dev.to/oluwatobi2001/optimizing-performance-using-prometheus-with-node-js-for-monitoring-b90)
-- [What is Variable Shadowing in Javascript](https://dev.to/biplavmz/what-is-variable-shadowing-in-javascript-1ik4)
+- [What is Illegal Shadowing](https://dev.to/biplavmz/what-is-illegal-shadowing-1kek)
+- [Say Goodbye to Redundancy with Spring2TS: A Developer’s Dream Come True](https://dev.to/thomasberrens/say-goodbye-to-redundancy-with-spring2ts-a-developers-dream-come-true-522a)
+- [Why Automate?](https://dev.to/grayside/why-automate-1fac)
+- [How to get the Developer Role on the Mode Discord Server](https://dev.to/modenetwork/how-to-get-the-developer-role-on-the-mode-discord-server-30pk)
+- [RDS while connection error: no pg_hba.conf entry for host](https://dev.to/letsworktogether/rds-while-connection-error-no-pghbaconf-entry-for-host-36l8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
