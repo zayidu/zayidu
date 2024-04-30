@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Illegal Shadowing](https://dev.to/biplavmz/what-is-illegal-shadowing-1kek)
-- [Say Goodbye to Redundancy with Spring2TS: A Developer’s Dream Come True](https://dev.to/thomasberrens/say-goodbye-to-redundancy-with-spring2ts-a-developers-dream-come-true-522a)
-- [Why Automate?](https://dev.to/grayside/why-automate-1fac)
-- [How to get the Developer Role on the Mode Discord Server](https://dev.to/modenetwork/how-to-get-the-developer-role-on-the-mode-discord-server-30pk)
-- [RDS while connection error: no pg_hba.conf entry for host](https://dev.to/letsworktogether/rds-while-connection-error-no-pghbaconf-entry-for-host-36l8)
+- [Understanding the Difference Between Websites and Web Apps](https://dev.to/henrylehd/understanding-the-difference-between-websites-and-web-apps-9gg)
+- [Learn SwiftUI &lpar;Day 2/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-2100-4n9j)
+- [** Frameworks y Librerías en la Programación: Un Viaje Mágico con Shrek **🐉](https://dev.to/orlidev/-frameworks-y-librerias-en-la-programacion-un-viaje-magico-con-shrek--5dpg)
+- [Learn SwiftUI &lpar;Day 1/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-1100-jkm)
+- [Embracing Innovation: Best Practices for Adopting PHP 8.3](https://dev.to/jobayer/embracing-innovation-best-practices-for-adopting-php-83-1m8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
