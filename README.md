@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying many apps from a single monorepo](https://dev.to/jxd-dev/deploying-many-apps-from-a-single-monorepo-13cp)
-- [Behind the Code: Understanding the Purpose of Systems and the Role of Developers](https://dev.to/tassiofront/behind-the-code-understanding-the-purpose-of-systems-and-the-role-of-developers-48kf)
-- [Step-by-Step Guide: Integrating the Report Viewer into Blazor WASM](https://dev.to/boldreports/step-by-step-guide-integrating-the-report-viewer-into-blazor-wasm-1gng)
-- [API Automation with RestAssured:](https://dev.to/gadekar_sachin/api-automation-with-restassured-3c0a)
-- [Implementing Internationalization &lpar;i18n&rpar; in Vue.js Projects](https://dev.to/webcraft-notes/implementing-internationalization-i18n-in-vuejs-projects-9na)
+- [Exploring Advanced SQL Techniques: Aggregation Methods for Structured Data Retrieval](https://dev.to/emtiajium/exploring-advanced-sql-techniques-aggregation-methods-for-structured-data-retrieval-4600)
+- [Software Testing](https://dev.to/kazhindhi/software-testing-5a8a)
+- [Building a Simple and Secure GitOps CI/CD Pipeline with GitHub Actions &lpar;SOC 2&rpar;](https://dev.to/mathieularose/building-a-simple-and-secure-gitops-cicd-pipeline-with-github-actions-soc-2-4i0f)
+- [How to Select the Right Automation Testing Tool](https://dev.to/vijayashree44/how-to-select-the-right-automation-testing-tool-2p9n)
+- [Hosting a Flask web server on Railway [FREE]](https://dev.to/ankur0904/hosting-a-flask-web-server-on-railway-free-1049)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
