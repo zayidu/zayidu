@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Incremento de precios despues de desastres naturales.](https://dev.to/cesaracjota/incremento-de-precios-despues-de-desastres-naturales-1j02)
-- [Step-by-Step Guide to Backing Up an SQL Database](https://dev.to/chowter0033/step-by-step-guide-to-backing-up-an-sql-database-3pn8)
-- [Mastering JavaScript: Unveiling the Power of DOM Manipulation and the JavaScript Object Model](https://dev.to/epakconsultant/mastering-javascript-unveiling-the-power-of-dom-manipulation-and-the-javascript-object-model-5fif)
-- [Demystifying the JavaScript Giants: A Comparative Analysis of React.js and Vue.js](https://dev.to/epakconsultant/demystifying-the-javascript-giants-a-comparative-analysis-of-reactjs-and-vuejs-1kfp)
-- [Apply SwipeToDismissBox in Android Jetpack Compose](https://dev.to/shivathapaa/apply-swipetodismissbox-in-android-jetpack-compose-5d7n)
+- [Front-end specialisations: Security](https://dev.to/r4nd3l/front-end-specialisations-security-3jh7)
+- [Maximize Your Success in Java Certification Exam with MyExamCloud&#39;s Top 10 Features](https://dev.to/myexamcloud/maximize-your-success-in-java-certification-exam-with-myexamclouds-top-10-features-2dec)
+- [Bridging the Silos: Overcoming Challenges in Building a DevOps Culture](https://dev.to/adityapratapbh1/bridging-the-silos-overcoming-challenges-in-building-a-devops-culture-5eg4)
+- [A Comprehensive Guide on the Cost of Building an eCommerce Website](https://dev.to/pepper_square/a-comprehensive-guide-on-the-cost-of-building-an-ecommerce-website-1o8p)
+- [Looking to Collaborate](https://dev.to/callmeanupam/looking-to-collaborate-4fi2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
