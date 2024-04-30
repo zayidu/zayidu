@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance Security for NodeJS Applications](https://dev.to/chauhoangminhnguyen/enhance-security-for-nodejs-applications-395b)
-- [Issue 42 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-42-of-aws-cloud-security-weekly-3m8b)
-- [Q&amp;A SECTION](https://dev.to/pearlodi/qa-section-52di)
-- [Custom Properties vs. CSS Variables: Understanding the Differences and When to Use Each](https://dev.to/ibiyeyellowe/custom-properties-vs-css-variables-understanding-the-differences-and-when-to-use-each-4om4)
-- [OOP poetry Part II: structural patterns](https://dev.to/eatyourabstractions/oop-poetry-part-ii-structural-patterns-22n8)
+- [Simplifying JOIN syntax](https://dev.to/esproc_spl/simplifying-join-syntax-i1o)
+- [I Wrote a Knowledge Graph Render by LangChain](https://dev.to/helio609/i-wrote-a-knowledge-graph-render-by-langchain-10oo)
+- [Part 2: Setting Up Your Node.js Environment](https://dev.to/dipakahirav/part-2-setting-up-your-nodejs-environment-37ab)
+- [Cómo un bucket S3 vacío puede hacer que tu factura de AWS explote](https://dev.to/francotel/como-un-bucket-s3-vacio-puede-hacer-que-tu-factura-de-aws-explote-33ce)
+- [Getting Started with Next.js: Part 4 - Server-Side Rendering &lpar;SSR&rpar;](https://dev.to/dipakahirav/getting-started-with-nextjs-part-4-server-side-rendering-ssr-4kic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
