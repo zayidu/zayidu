@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Difference Between Websites and Web Apps](https://dev.to/henrylehd/understanding-the-difference-between-websites-and-web-apps-9gg)
-- [Learn SwiftUI &lpar;Day 2/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-2100-4n9j)
-- [** Frameworks y Librerías en la Programación: Un Viaje Mágico con Shrek **🐉](https://dev.to/orlidev/-frameworks-y-librerias-en-la-programacion-un-viaje-magico-con-shrek--5dpg)
-- [Learn SwiftUI &lpar;Day 1/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-1100-jkm)
-- [Embracing Innovation: Best Practices for Adopting PHP 8.3](https://dev.to/jobayer/embracing-innovation-best-practices-for-adopting-php-83-1m8k)
+- [Demystifying MVC Architecture in Modern Web Frameworks: React and Angular](https://dev.to/ussdlover/demystifying-mvc-architecture-in-modern-web-frameworks-react-and-angular-d89)
+- [SexyVim](https://dev.to/mrleon/sexyvim-29b)
+- [GETTING STARTED WITH HTML EP5](https://dev.to/bbylumi/getting-started-with-html-ep5-2fjb)
+- [Single-byte XOR cipher](https://dev.to/stefanalfbo/single-byte-xor-cipher-1mlo)
+- [Learn SwiftUI &lpar;Day 5/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-5100-29pp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
