@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do You &lpar;Unconventionally&rpar; Use ChatGPT?](https://dev.to/devteam/how-do-you-unconventionally-use-chatgpt-3c7g)
-- [Safeguarding Data Quality By Addressing Data Privacy and Security Concerns](https://dev.to/ovaisnaseem/safeguarding-data-quality-by-addressing-data-privacy-and-security-concerns-20nf)
-- [How to Debug Node.js Applications Using the debugger; Statement - Easiest Way](https://dev.to/myogeshchavan97/how-to-debug-nodejs-applications-using-the-debugger-statement-easiest-way-2ljg)
-- [What is the best e-commerce software application in Shopify?](https://dev.to/webunity/what-is-the-best-e-commerce-software-application-in-shopify-3nb4)
-- [Top 10 Developer Communities You Should Explore](https://dev.to/codeparrot/top-10-developer-communities-you-should-explore-5co3)
+- [Top 3 &lpar;+1&rpar; Vue libraries for your next project ⏩](https://dev.to/dvalin99/top-3-1-vue-libraries-for-your-next-project-481e)
+- [Using the Command Pattern to Re-Apply Changes to an Observable Model in Umbraco Bellissima](https://dev.to/mattbrailsford/using-the-command-pattern-to-re-apply-changes-to-an-observable-model-in-umbraco-bellissima-i8e)
+- [How to Setup a GitHub SSH connection like a PRO.](https://dev.to/allwelldotdev/how-to-setup-a-github-ssh-connection-like-a-pro-2h6b)
+- [Type Guards &amp; Type Assertions](https://dev.to/devjosemanuel/type-guards-type-assertions-139b)
+- [How I Simulated A Response From A Third Party App](https://dev.to/keploy/how-i-simulated-a-response-from-a-third-party-app-16f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
