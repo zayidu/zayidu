@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying MVC Architecture in Modern Web Frameworks: React and Angular](https://dev.to/ussdlover/demystifying-mvc-architecture-in-modern-web-frameworks-react-and-angular-d89)
-- [SexyVim](https://dev.to/mrleon/sexyvim-29b)
-- [GETTING STARTED WITH HTML EP5](https://dev.to/bbylumi/getting-started-with-html-ep5-2fjb)
-- [Single-byte XOR cipher](https://dev.to/stefanalfbo/single-byte-xor-cipher-1mlo)
-- [Learn SwiftUI &lpar;Day 5/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-5100-29pp)
+- [XRP Ledger-native Lending Protocol: Empowering On-Chain Credit Origination](https://dev.to/ripplexdev/xrp-ledger-native-lending-protocol-empowering-on-chain-credit-origination-2hho)
+- [678. Valid Parenthesis String](https://dev.to/mdarifulhaque/678-valid-parenthesis-string-3bcf)
+- [950. Reveal Cards In Increasing Order](https://dev.to/mdarifulhaque/950-reveal-cards-in-increasing-order-4gie)
+- [1249. Minimum Remove to Make Valid Parentheses](https://dev.to/mdarifulhaque/1249-minimum-remove-to-make-valid-parentheses-db4)
+- [1915. Number of Wonderful Substrings](https://dev.to/mdarifulhaque/1915-number-of-wonderful-substrings-3mok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
