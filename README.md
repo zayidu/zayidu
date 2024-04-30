@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.](https://dev.to/sh20raj/list-of-ngrokcloudflare-tunnel-alternatives-and-other-tunneling-software-and-services-focus-on-self-hosting-o1m)
-- [Need help with html and javascript code](https://dev.to/premcbc23/need-help-with-html-and-javascript-code-4ncd)
-- [Best AI Voice Generators APIs in 2024](https://dev.to/edenai/best-ai-voice-generators-apis-in-2024-516d)
-- [A Software Engineer&#39;s Tips and Tricks #2: Template Databases in PostgreSQL](https://dev.to/koyeb/a-software-engineers-tips-and-tricks-2-template-databases-in-postgresql-5hm5)
-- [A Beginner&#39;s Journey](https://dev.to/irenemwova/a-beginners-journey-32cb)
+- [What is Mina Protocol](https://dev.to/francescoxx/what-is-mina-protocol-40il)
+- [Get Free VPS hosting Using GitHub CodeSpaces](https://dev.to/sh20raj/get-free-vps-hosting-using-github-codespaces-28c6)
+- [Java EE platform](https://dev.to/saumya27/java-ee-platform-h77)
+- [How I can isolate the created resources in multiple module imports?](https://dev.to/pcmagas/how-i-can-isolate-the-created-resources-in-multiple-module-imports-2j5f)
+- [hii](https://dev.to/theakash04/jjhgjhgjvvnbvnv-1ekg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
