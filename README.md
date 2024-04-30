@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 3 &lpar;+1&rpar; Vue libraries for your next project ⏩](https://dev.to/dvalin99/top-3-1-vue-libraries-for-your-next-project-481e)
-- [Using the Command Pattern to Re-Apply Changes to an Observable Model in Umbraco Bellissima](https://dev.to/mattbrailsford/using-the-command-pattern-to-re-apply-changes-to-an-observable-model-in-umbraco-bellissima-i8e)
-- [How to Setup a GitHub SSH connection like a PRO.](https://dev.to/allwelldotdev/how-to-setup-a-github-ssh-connection-like-a-pro-2h6b)
-- [Type Guards &amp; Type Assertions](https://dev.to/devjosemanuel/type-guards-type-assertions-139b)
-- [How I Simulated A Response From A Third Party App](https://dev.to/keploy/how-i-simulated-a-response-from-a-third-party-app-16f9)
+- [Understanding Javascript Promises a Guide to Asynchronous Programming](https://dev.to/antonmartyniuk/understanding-javascript-promises-a-guide-to-asynchronous-programming-1ono)
+- [How to Work with Nested Forms in Rails](https://dev.to/railsdesigner/how-to-work-with-nested-forms-in-rails-2ep2)
+- [Implement React v18 from Scratch Using WASM and Rust - [10] Implement Update for Single Node.](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-10-implement-update-for-single-node-jfj)
+- [Challenges faced while developing Enterprise Applications &lpar;EA&rpar;?](https://dev.to/adv11/challenges-faced-while-developing-enterprise-applications-ea-2kbl)
+- [What is React Hydration](https://dev.to/franciscomoretti/what-is-react-hydration-27cm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
