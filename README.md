@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhance Security for NodeJS Applications](https://dev.to/chauhoangminhnguyen/enhance-security-for-nodejs-applications-395b)
+- [Issue 42 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-42-of-aws-cloud-security-weekly-3m8b)
 - [Q&amp;A SECTION](https://dev.to/pearlodi/qa-section-52di)
 - [Custom Properties vs. CSS Variables: Understanding the Differences and When to Use Each](https://dev.to/ibiyeyellowe/custom-properties-vs-css-variables-understanding-the-differences-and-when-to-use-each-4om4)
 - [OOP poetry Part II: structural patterns](https://dev.to/eatyourabstractions/oop-poetry-part-ii-structural-patterns-22n8)
-- [Building a Blockchain from Scratch](https://dev.to/kartikmehta8/building-a-blockchain-from-scratch-11ci)
-- [Side Quest Devblog #1: These Fakes are getting Deep](https://dev.to/basicallyok/side-quest-devblog-1-these-fakes-are-getting-deep-3l2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
