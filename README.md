@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Mobile apps are Trasforming hospitality in 2024](https://dev.to/neelay/how-mobile-apps-are-trasforming-hospitality-in-2024-4531)
-- [Data Scientist](https://dev.to/miguejhota/data-scientist-4n5d)
-- [Pass by value vs pass by reference in JavaScript](https://dev.to/ashsajal/pass-by-value-vs-pass-by-reference-in-javascript-41en)
-- [Mastering Java’s HTTPUrlConnection for Robust Networking](https://dev.to/dbillion/mastering-javas-httpurlconnection-for-robust-networking-3mno)
-- [The Product is Not Docs, But Treat Docs Like a Product](https://dev.to/valeriahhdez/the-product-is-not-docs-but-treat-docs-like-a-product-4ncl)
+- [Incremento de precios despues de desastres naturales.](https://dev.to/cesaracjota/incremento-de-precios-despues-de-desastres-naturales-1j02)
+- [Step-by-Step Guide to Backing Up an SQL Database](https://dev.to/chowter0033/step-by-step-guide-to-backing-up-an-sql-database-3pn8)
+- [Mastering JavaScript: Unveiling the Power of DOM Manipulation and the JavaScript Object Model](https://dev.to/epakconsultant/mastering-javascript-unveiling-the-power-of-dom-manipulation-and-the-javascript-object-model-5fif)
+- [Demystifying the JavaScript Giants: A Comparative Analysis of React.js and Vue.js](https://dev.to/epakconsultant/demystifying-the-javascript-giants-a-comparative-analysis-of-reactjs-and-vuejs-1kfp)
+- [Apply SwipeToDismissBox in Android Jetpack Compose](https://dev.to/shivathapaa/apply-swipetodismissbox-in-android-jetpack-compose-5d7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
