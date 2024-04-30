@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Mina Protocol](https://dev.to/francescoxx/what-is-mina-protocol-40il)
-- [Get Free VPS hosting Using GitHub CodeSpaces](https://dev.to/sh20raj/get-free-vps-hosting-using-github-codespaces-28c6)
-- [Java EE platform](https://dev.to/saumya27/java-ee-platform-h77)
-- [How I can isolate the created resources in multiple module imports?](https://dev.to/pcmagas/how-i-can-isolate-the-created-resources-in-multiple-module-imports-2j5f)
-- [hii](https://dev.to/theakash04/jjhgjhgjvvnbvnv-1ekg)
+- [Deploying many apps from a single monorepo](https://dev.to/jxd-dev/deploying-many-apps-from-a-single-monorepo-13cp)
+- [Behind the Code: Understanding the Purpose of Systems and the Role of Developers](https://dev.to/tassiofront/behind-the-code-understanding-the-purpose-of-systems-and-the-role-of-developers-48kf)
+- [Step-by-Step Guide: Integrating the Report Viewer into Blazor WASM](https://dev.to/boldreports/step-by-step-guide-integrating-the-report-viewer-into-blazor-wasm-1gng)
+- [API Automation with RestAssured:](https://dev.to/gadekar_sachin/api-automation-with-restassured-3c0a)
+- [Implementing Internationalization &lpar;i18n&rpar; in Vue.js Projects](https://dev.to/webcraft-notes/implementing-internationalization-i18n-in-vuejs-projects-9na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
