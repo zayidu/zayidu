@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying JOIN syntax](https://dev.to/esproc_spl/simplifying-join-syntax-i1o)
-- [I Wrote a Knowledge Graph Render by LangChain](https://dev.to/helio609/i-wrote-a-knowledge-graph-render-by-langchain-10oo)
-- [Part 2: Setting Up Your Node.js Environment](https://dev.to/dipakahirav/part-2-setting-up-your-nodejs-environment-37ab)
-- [Cómo un bucket S3 vacío puede hacer que tu factura de AWS explote](https://dev.to/francotel/como-un-bucket-s3-vacio-puede-hacer-que-tu-factura-de-aws-explote-33ce)
-- [Getting Started with Next.js: Part 4 - Server-Side Rendering &lpar;SSR&rpar;](https://dev.to/dipakahirav/getting-started-with-nextjs-part-4-server-side-rendering-ssr-4kic)
+- [How Mobile apps are Trasforming hospitality in 2024](https://dev.to/neelay/how-mobile-apps-are-trasforming-hospitality-in-2024-4531)
+- [Data Scientist](https://dev.to/miguejhota/data-scientist-4n5d)
+- [Pass by value vs pass by reference in JavaScript](https://dev.to/ashsajal/pass-by-value-vs-pass-by-reference-in-javascript-41en)
+- [Mastering Java’s HTTPUrlConnection for Robust Networking](https://dev.to/dbillion/mastering-javas-httpurlconnection-for-robust-networking-3mno)
+- [The Product is Not Docs, But Treat Docs Like a Product](https://dev.to/valeriahhdez/the-product-is-not-docs-but-treat-docs-like-a-product-4ncl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
