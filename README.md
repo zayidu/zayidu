@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Q&amp;A SECTION](https://dev.to/pearlodi/qa-section-52di)
+- [Custom Properties vs. CSS Variables: Understanding the Differences and When to Use Each](https://dev.to/ibiyeyellowe/custom-properties-vs-css-variables-understanding-the-differences-and-when-to-use-each-4om4)
+- [OOP poetry Part II: structural patterns](https://dev.to/eatyourabstractions/oop-poetry-part-ii-structural-patterns-22n8)
 - [Building a Blockchain from Scratch](https://dev.to/kartikmehta8/building-a-blockchain-from-scratch-11ci)
 - [Side Quest Devblog #1: These Fakes are getting Deep](https://dev.to/basicallyok/side-quest-devblog-1-these-fakes-are-getting-deep-3l2b)
-- [Build an AI Voice assistant like Siri &lpar;use OpenAI AI Assistant&rpar;](https://dev.to/serpapi/build-an-ai-voice-assistant-like-siri-use-openai-ai-assistant-24do)
-- [The First 30 Days: A short primer for engineering leaders joining a new org](https://dev.to/horaceshmorace/the-first-30-days-a-short-primer-for-engineering-leaders-joining-a-new-org-39b5)
-- [Navigating Early Career Hurdles: Security &lpar;Keeping User Data Safe as a Frontend Engineer&rpar;](https://dev.to/olabamipetaiwo/navigating-early-career-hurdles-security-keeping-user-data-safe-as-a-frontend-engineer-4b71)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
