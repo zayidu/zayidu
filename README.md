@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Risky Waters of Loan Defaults: A Predictive Beacon](https://dev.to/pranavghadge/navigating-the-risky-waters-of-loan-defaults-a-predictive-beacon-4p3i)
-- [5 AI Chatbot Builders to Add to Your Website and Boost User Engagement](https://dev.to/sh20raj/5-ai-chatbot-builders-to-add-to-your-website-and-boost-user-engagement-1j59)
-- [React Custom Hooks &lpar;useLocal&rpar;](https://dev.to/sundarbadagala081/react-custom-hooks-uselocal-4bj4)
-- [The Ultimate Guide to Transforming Anxiety into Triumph with Go](https://dev.to/zone01kisumu/the-ultimate-guide-to-transforming-anxiety-into-triumph-with-go-25mb)
-- [How to set up an Express API with Node.js and TypeScript the right way in 2024](https://dev.to/noahflk/how-to-set-up-an-express-api-with-nodejs-and-typescript-the-right-way-in-2024-292i)
+- [Modern C#: Get Started with DateOnly](https://dev.to/lovelacecoding/modern-c-get-started-with-dateonly-2nnh)
+- [Fetching Data &lpar;Next.js&rpar;](https://dev.to/samuellubliner/fetching-data-nextjs-5b0b)
+- [“Managing up”: Developing your influence power](https://dev.to/lidiettesdev/managing-up-developing-your-influence-power-23n8)
+- [Optimizing Performance Using Prometheus with Node JS for Monitoring](https://dev.to/oluwatobi2001/optimizing-performance-using-prometheus-with-node-js-for-monitoring-b90)
+- [What is Variable Shadowing in Javascript](https://dev.to/biplavmz/what-is-variable-shadowing-in-javascript-1ik4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
