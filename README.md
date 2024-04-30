@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make a Lichess bot in Python](https://dev.to/kaipereira/how-to-make-a-lichess-bot-in-python-2ge3)
-- [Try Catch in C#: The Basics You Need to Know](https://dev.to/devleader/try-catch-in-c-the-basics-you-need-to-know-13jo)
-- [1 minute Chat with next-chartist 🚀](https://dev.to/poboisvert/1-minute-chat-with-next-chartist-3e7f)
-- [Typescript static typing mess](https://dev.to/lapp1stan/typescript-static-typing-mess-57nh)
-- [Seamless Integration of Laravel Breeze API Scaffolding with React Applications](https://dev.to/nilanth/seamless-integration-of-laravel-breeze-api-scaffolding-with-react-applications-59pi)
+- [Automatically sentence-case i18next translations](https://dev.to/tsudhishnair/automatically-sentence-case-i18next-translations-4416)
+- [Simple multicoloured background and highlighted button in HTML &amp; CSS](https://dev.to/polinaeliana/simple-multicoloured-background-and-highlighted-button-in-html-css-1pd)
+- [Beware software band-aid solutions which lead to code death…](https://dev.to/edensoftlabs/beware-software-band-aid-solutions-which-lead-to-code-death-gem)
+- [How I got my first Rust job by doing open-source](https://dev.to/edwinkys/how-i-got-my-first-rust-job-by-doing-open-source-117b)
+- [Staying Motivated to Code Amidst Uncertainty: Practical Tips](https://dev.to/rt68/staying-motivated-to-code-amidst-uncertainty-practical-tips-2gn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
