@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Advanced SQL Techniques: Aggregation Methods for Structured Data Retrieval](https://dev.to/emtiajium/exploring-advanced-sql-techniques-aggregation-methods-for-structured-data-retrieval-4600)
-- [Software Testing](https://dev.to/kazhindhi/software-testing-5a8a)
-- [Building a Simple and Secure GitOps CI/CD Pipeline with GitHub Actions &lpar;SOC 2&rpar;](https://dev.to/mathieularose/building-a-simple-and-secure-gitops-cicd-pipeline-with-github-actions-soc-2-4i0f)
-- [How to Select the Right Automation Testing Tool](https://dev.to/vijayashree44/how-to-select-the-right-automation-testing-tool-2p9n)
-- [Hosting a Flask web server on Railway [FREE]](https://dev.to/ankur0904/hosting-a-flask-web-server-on-railway-free-1049)
+- [What is Manual Testing? What are the benefits and drawbacks of manual testing?](https://dev.to/gayu1999/what-is-manual-testing-what-are-the-benefits-and-drawbacks-of-manual-testing-974)
+- [Create a Chat App With Node.js](https://dev.to/amosgyamfi/create-a-chat-app-with-nodejs-16l2)
+- [Accessibility Exercise #1: Pound Cafe Menu](https://dev.to/mahzeb/accessibility-exercise-1-pound-cafe-menu-4787)
+- [React Magic: How to Create a Custom Hook for Seamless Data Retrieval.](https://dev.to/miracool/react-magic-how-to-create-a-custom-hook-for-seamless-data-retrieval-4hj4)
+- [Disaster Recovery Strategies for EC2 Deployments](https://dev.to/platform_engineers/disaster-recovery-strategies-for-ec2-deployments-7lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
