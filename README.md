@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Testing Using Cucumber](https://dev.to/gadekar_sachin/automated-testing-using-cucumber-lmp)
-- [The Struggles Of a Junior Software Developer](https://dev.to/annoh_karlgusta/the-struggles-of-a-junior-software-developer-fb4)
-- [Let&#39;s Talk About REST...](https://dev.to/calvinmclean/lets-talk-about-rest-1kjl)
-- [Learn SwiftUI &lpar;Day 6/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-6100-gc1)
-- [OOP poetry part III - behavioural patterns](https://dev.to/eatyourabstractions/design-pattern-poetry-part-iii-behavioural-1039)
+- [The 20 Game Challenge : Game 1](https://dev.to/brittanyblairdesign/the-20-game-challenge-game-1-42jp)
+- [Welcome to deepcodr](https://dev.to/deepcodr/welcome-to-deepcodr-547)
+- [Software Hardening Tools for System Defense](https://dev.to/blacknight318/software-hardening-tools-for-system-defense-5h40)
+- [Building Your First CloudFormation Template: A Simple Guide](https://dev.to/devopsfreak/building-your-first-cloudformation-template-a-simple-guide-2l30)
+- [Week 2: New NOTR Server - User Authentication and Middleware](https://dev.to/aldoportillo/week-2-new-notr-server-user-authentication-and-middleware-1ai0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
