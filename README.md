@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of the Pomodoro Technique](https://dev.to/productivity/the-power-of-the-pomodoro-technique-jeh)
-- [Using SQLite in React Native: Installation and Usage Guide](https://dev.to/deepbb/using-sqlite-in-react-native-installation-and-usage-guide-1dha)
-- [The Docker Revolution: Containerization for seamless Deployment](https://dev.to/sushantjadhav416/the-docker-revolution-containerization-for-seamless-deployment-3kh8)
-- [Test componentes que usan Redux](https://dev.to/devjosemanuel/test-componentes-que-usan-redux-2em5)
-- [The uploaded file exceeds the upload_max_filesize directive in pnp.ini &lpar;wordpress&rpar;](https://dev.to/bukanspot/the-uploaded-file-exceeds-the-uploadmaxfilesize-directive-in-pnpini-wordpress-284b)
+- [Accessibility exercise #2: Labour Day Poster](https://dev.to/mahzeb/accessibility-exercise-2-labour-day-poster-1155)
+- [Bra Asks Yuhang Jia: Saying Goodbye to &quot;Artificial Stupidity&quot;? AI Training Data Providers Rectify the Names of AI](https://dev.to/naizhao/bra-asks-yuhang-jia-saying-goodbye-to-artificial-stupidity-ai-training-data-providers-rectify-the-names-of-ai-4862)
+- [Is purging still the hardest problem in computer science?](https://dev.to/fastly/is-purging-still-the-hardest-problem-in-computer-science-339i)
+- [Images not appearing in CardContainer components](https://dev.to/ciobandaniel1/images-not-appearing-in-cardcontainer-components-40l2)
+- [Using Presence in in-game chat: Is the other person still there?](https://dev.to/ably/using-presence-in-in-game-chat-is-the-other-person-still-there-180h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
