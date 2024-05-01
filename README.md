@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CURL - All methods and Usage ✅](https://dev.to/sh20raj/power-of-curl-your-friendly-handbook-5gd6)
-- [Top 10 Tools for DevOps and Developers in 2024](https://dev.to/somadevtoo/top-10-tools-for-devops-and-developers-in-2024-26e5)
-- [Protect your emails &lpar;Short note&rpar;](https://dev.to/devh0us3/protect-your-emails-short-note-4k4e)
-- [Introducing Discounted Access to Popular Community and DeFi Subgraphs on Traceye](https://dev.to/zeeve/introducing-discounted-access-to-popular-community-and-defi-subgraphs-on-traceye-186h)
-- [Quick tip: Using R, Rayshader and SingleStore Notebooks](https://dev.to/singlestore/quick-tip-using-r-rayshader-and-singlestore-notebooks-114h)
+- [Playwright Scraping infinite loading &amp; pagination](https://dev.to/devloker/playwright-scraping-infinite-loading-pagination-4pid)
+- [Salesforce Talent Market Changes 2024 and Outlook for 2025-2030](https://dev.to/doriansabitov/salesforce-talent-market-changes-2024-and-outlook-for-2025-2030-5ddj)
+- [How can you become an AWS Community Builder?](https://dev.to/aws-builders/how-can-you-become-an-aws-community-builder-29f4)
+- [Quick tip: Using R, OpenAI and SingleStore Notebooks](https://dev.to/singlestore/quick-tip-using-r-openai-and-singlestore-notebooks-2eee)
+- [Hashi Packer](https://dev.to/arindam0310018/hashi-packer-4082)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
