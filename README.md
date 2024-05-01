@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Inflight Magazine no. 9](https://dev.to/winglang/inflight-magazine-no-9-4fdh)
-- [Daily news #1](https://dev.to/trawinski/daily-news-1-1ok1)
-- [🛠️ Have You Heard of WebAssembly? 🚀 It&#39;s About to Change Browsers and JavaScript Forever! 🤯](https://dev.to/best_codes/have-you-heard-of-webassembly-its-about-to-change-browsers-and-javascript-forever-2em1)
-- [The Reality of Burnout and Breaking Into Tech](https://dev.to/chrisnowicki/the-reality-of-burnout-and-breaking-into-tech-1p1o)
-- [No More Passwords! Terraform Module Makes GCP-GitHub Authentication a Breeze](https://dev.to/mangadev/no-more-passwords-terraform-module-makes-gcp-github-authentication-a-breeze-4io6)
+- [How to Create Simple Sketching Art with p5.js: A Step-by-Step Tutorial](https://dev.to/devmirx/how-to-create-simple-sketching-art-with-p5js-a-step-by-step-tutorial-ama)
+- [The easiest and best way to create the gitignore file for .Net repositories](https://dev.to/henriqueholtz/the-easiest-and-best-way-to-create-the-gitignore-file-for-net-repositories-1h35)
+- [How to implement Infinite Scrolling in React Native](https://dev.to/ghostkeeper10/how-to-implement-infinite-scrolling-in-react-native-4h9i)
+- [How to implement Infinite Scrolling in React Native](https://dev.to/ghostkeeper10/how-to-implement-infinite-scrolling-in-react-native-ig)
+- [Custom methods in REST API endpoints](https://dev.to/kirekov/custom-methods-in-rest-api-endpoints-3l29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
