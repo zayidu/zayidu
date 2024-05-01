@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility exercise #2: Labour Day Poster](https://dev.to/mahzeb/accessibility-exercise-2-labour-day-poster-1155)
-- [Bra Asks Yuhang Jia: Saying Goodbye to &quot;Artificial Stupidity&quot;? AI Training Data Providers Rectify the Names of AI](https://dev.to/naizhao/bra-asks-yuhang-jia-saying-goodbye-to-artificial-stupidity-ai-training-data-providers-rectify-the-names-of-ai-4862)
-- [Is purging still the hardest problem in computer science?](https://dev.to/fastly/is-purging-still-the-hardest-problem-in-computer-science-339i)
-- [Images not appearing in CardContainer components](https://dev.to/ciobandaniel1/images-not-appearing-in-cardcontainer-components-40l2)
-- [Using Presence in in-game chat: Is the other person still there?](https://dev.to/ably/using-presence-in-in-game-chat-is-the-other-person-still-there-180h)
+- [CURL - All methods and Usage ✅](https://dev.to/sh20raj/power-of-curl-your-friendly-handbook-5gd6)
+- [Top 10 Tools for DevOps and Developers in 2024](https://dev.to/somadevtoo/top-10-tools-for-devops-and-developers-in-2024-26e5)
+- [Protect your emails &lpar;Short note&rpar;](https://dev.to/devh0us3/protect-your-emails-short-note-4k4e)
+- [Introducing Discounted Access to Popular Community and DeFi Subgraphs on Traceye](https://dev.to/zeeve/introducing-discounted-access-to-popular-community-and-defi-subgraphs-on-traceye-186h)
+- [Quick tip: Using R, Rayshader and SingleStore Notebooks](https://dev.to/singlestore/quick-tip-using-r-rayshader-and-singlestore-notebooks-114h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
