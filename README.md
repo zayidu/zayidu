@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use LLMs: Summarize long documents](https://dev.to/rogiia/how-to-use-llms-summarize-long-documents-4ee1)
-- [## The CAP Theorem &lpar;Brewer’s Theorem&rpar; in NoSQL Databases](https://dev.to/muhammetyasinarli/-the-cap-theorem-brewers-theorem-in-nosql-databases-2lbj)
-- [Especial 1 de Maio -Explorando a Diversidade da TI](https://dev.to/terminalcoffee/especial-1-de-maio-explorando-a-diversidade-da-ti-2nk4)
-- [Niche AI writing applications](https://dev.to/gigo_dev/niche-ai-writing-applications-54j7)
-- [Phantom Props: Leveraging Prop Drilling with Precision in React](https://dev.to/kigazon/phantom-props-leveraging-prop-drilling-with-precision-in-react-chi)
+- [Learn SwiftUI &lpar;Day 10/10&rpar;](https://dev.to/bitecode/learn-swiftui-day-1010-2mcp)
+- [Ensuring Business Continuity: Backup, Disaster Recovery, RTO, and RPO](https://dev.to/ahmadrahimizadeh/ensuring-business-continuity-backup-disaster-recovery-rto-and-rpo-go0)
+- [Android Development](https://dev.to/charumehta0215/android-development-3g44)
+- [Postgres partitioning performance: Hash vs. List](https://dev.to/msdousti/postgres-partitioning-performance-hash-vs-list-2ppn)
+- [What is Vscode](https://dev.to/gigo_dev/what-is-vscode-49fl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
