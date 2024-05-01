@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s Your One Thing?](https://dev.to/devteam/whats-your-one-thing-4g7f)
-- [Visualize Structure-from-Motion](https://dev.to/rerunio/visualize-structure-from-motion-i44)
-- [What are key skills for entry level software engineer?](https://dev.to/hey_rishabh/what-are-key-skills-for-entry-level-software-engineer-2hf1)
-- [99 Exciting Project Ideas! 🤯🔥](https://dev.to/margish288/99-exciting-project-ideas-4kb9)
-- [Building a First Aid Assistant with Lyzr SDK](https://dev.to/akshay007/building-a-first-aid-assistant-with-lyzr-sdk-5282)
+- [The Power of the Pomodoro Technique](https://dev.to/productivity/the-power-of-the-pomodoro-technique-jeh)
+- [Using SQLite in React Native: Installation and Usage Guide](https://dev.to/deepbb/using-sqlite-in-react-native-installation-and-usage-guide-1dha)
+- [The Docker Revolution: Containerization for seamless Deployment](https://dev.to/sushantjadhav416/the-docker-revolution-containerization-for-seamless-deployment-3kh8)
+- [Test componentes que usan Redux](https://dev.to/devjosemanuel/test-componentes-que-usan-redux-2em5)
+- [The uploaded file exceeds the upload_max_filesize directive in pnp.ini &lpar;wordpress&rpar;](https://dev.to/bukanspot/the-uploaded-file-exceeds-the-uploadmaxfilesize-directive-in-pnpini-wordpress-284b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
