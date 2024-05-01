@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [XRP Ledger-native Lending Protocol: Empowering On-Chain Credit Origination](https://dev.to/ripplexdev/xrp-ledger-native-lending-protocol-empowering-on-chain-credit-origination-2hho)
-- [678. Valid Parenthesis String](https://dev.to/mdarifulhaque/678-valid-parenthesis-string-3bcf)
-- [950. Reveal Cards In Increasing Order](https://dev.to/mdarifulhaque/950-reveal-cards-in-increasing-order-4gie)
-- [1249. Minimum Remove to Make Valid Parentheses](https://dev.to/mdarifulhaque/1249-minimum-remove-to-make-valid-parentheses-db4)
-- [1915. Number of Wonderful Substrings](https://dev.to/mdarifulhaque/1915-number-of-wonderful-substrings-3mok)
+- [Introduction to Edge Computing](https://dev.to/kartikmehta8/introduction-to-edge-computing-20gl)
+- [Where this command comes from?](https://dev.to/tallesl/where-this-command-comes-from-caj)
+- [Side Quest Devblog #2: Virtual Insanity](https://dev.to/basicallyok/side-quest-devblog-2-virtual-insanity-3ng1)
+- [Welcome Thread - v274](https://dev.to/devteam/welcome-thread-v274-552d)
+- [Getting Started with Prometheus Alerting](https://dev.to/mattdark/getting-started-with-prometheus-alerting-3059)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
