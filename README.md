@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Playwright Scraping infinite loading &amp; pagination](https://dev.to/devloker/playwright-scraping-infinite-loading-pagination-4pid)
-- [Salesforce Talent Market Changes 2024 and Outlook for 2025-2030](https://dev.to/doriansabitov/salesforce-talent-market-changes-2024-and-outlook-for-2025-2030-5ddj)
-- [How can you become an AWS Community Builder?](https://dev.to/aws-builders/how-can-you-become-an-aws-community-builder-29f4)
-- [Quick tip: Using R, OpenAI and SingleStore Notebooks](https://dev.to/singlestore/quick-tip-using-r-openai-and-singlestore-notebooks-2eee)
-- [Hashi Packer](https://dev.to/arindam0310018/hashi-packer-4082)
+- [Caching OpenAI Chat API Responses with LangChain and Xata](https://dev.to/xata/caching-openai-chat-api-responses-with-langchain-and-xata-2n3k)
+- [Generating Fake Django Model Instances with Factory Boy](https://dev.to/djangotricks/generating-fake-django-model-instances-with-factory-boy-27gg)
+- [Building a Custom VPC and EKS Cluster on AWS with Terraform](https://dev.to/vinod827/building-a-custom-vpc-and-eks-cluster-on-aws-with-terraform-4e16)
+- [Measuring Node.js Performance in Production with Performance Hooks](https://dev.to/appsignal/measuring-nodejs-performance-in-production-with-performance-hooks-3bai)
+- [Introducing DIVZ - a React component to scroll, swipe &amp; zoom through content on the 3D z-axis](https://dev.to/lewhunt/introducing-divz-a-react-component-to-scroll-swipe-zoom-through-html-on-the-3d-z-axis-el6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
