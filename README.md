@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Doesn&#39;t Stand Still](https://dev.to/aws-builders/serverless-doesnt-stand-still-194)
-- [Uploading Files with React &lpar;POST Request&rpar;](https://dev.to/luqmanshaban/uploading-files-with-react-post-request-48gj)
-- [End-to-end MLOps CI/CD pipeline with Harness and AWS](https://dev.to/harness/end-to-end-mlops-cicd-pipeline-with-harness-and-aws-4084)
-- [User Manual for Automation using Ansible .](https://dev.to/khush_1351/user-manual-for-automation-using-ansible--2ihf)
-- [Beware: Invalid Selectors with SCSS](https://dev.to/teetotum/beware-invalid-selectors-with-scss-5alj)
+- [ImportError: attempted relative import with no known parent package](https://dev.to/crawler/importerror-attempted-relative-import-with-no-known-parent-package-2je6)
+- [Exploring Servlets in Java: Building Dynamic Web Applications](https://dev.to/vishalwaje/exploring-servlets-in-java-building-dynamic-web-applications-25pf)
+- [Join us for the Netlify Dynamic Site Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-netlify-dynamic-site-challenge-3000-in-prizes-3mfn)
+- [Is it possible to have a service only used by an AuthGuard in the same module be a singleton?](https://dev.to/jerotas/is-it-possible-to-have-a-service-only-used-by-an-authguard-in-the-same-module-be-a-singleton-1fi3)
+- [Building a Feature-Rich Telegram Bot: Solana, Ethereum, and Beyond](https://dev.to/prabirsinha/building-a-feature-rich-telegram-bot-solana-ethereum-and-beyond-4588)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
