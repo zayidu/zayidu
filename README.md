@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pure css animation](https://dev.to/assacine/pure-css-animation-2af6)
-- [Setup Azure Cosmos DB for Gremlin in Spring Boot Java](https://dev.to/jonathan-dev/setup-azure-cosmos-db-for-gremlin-in-spring-boot-java-5h95)
-- [How To Manage an Amazon Bedrock Agent Using Terraform](https://dev.to/aws-builders/how-to-manage-an-amazon-bedrock-agent-using-terraform-1lag)
-- [Learn SwiftUI &lpar;Day 7/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-7100-2e4l)
-- [Free tool: Tailwind CSS Colors ✨](https://dev.to/erwin_ai/tailwind-css-colors-563k)
+- [Mental health in software engineering..Share your feedback](https://dev.to/edenband/mental-health-in-software-engineeringshare-your-feedback-3b1h)
+- [Centralizing Cloud-Native Dev: Mastering Kubernetes Operations](https://dev.to/getambassador2024/centralizing-cloud-native-dev-mastering-kubernetes-operations-4o0j)
+- [Beginner&#39;s Guide to &quot;Introduction to Algorithms&quot;](https://dev.to/kirti17421/beginners-guide-to-introduction-to-algorithms-40dc)
+- [📌 AWS Under the Hood - Day 10 - How to Revoke Temporary IAM Credentials if they are Exposed 📌](https://dev.to/lakhera2015/aws-under-the-hood-day-10-how-to-revoke-temporary-iam-credentials-if-they-are-exposed-3h1b)
+- [Breeding Faster Horses](https://dev.to/polterguy/breeding-faster-horses-37h3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
