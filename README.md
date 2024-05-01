@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic Sorting Algorithm](https://dev.to/m__mdy__m/basic-sorting-algorithm-30cj)
-- [AI Vision Technology in Practical Application](https://dev.to/gigo_dev/ai-vision-technology-in-practical-application-1l2i)
-- [Streamlining AWS Spending: Proven Strategies for Effective Cost Optimization](https://dev.to/unicloud/streamlining-aws-spending-proven-strategies-for-effective-cost-optimization-h1o)
-- [Quantum Computing Breakthroughs with NVIDIA](https://dev.to/gigo_dev/quantum-computing-breakthroughs-with-nvidia-4b00)
-- [Starlink: imagine working from anywhere](https://dev.to/gigo_dev/starlink-imagine-working-from-anywhere-b22)
+- [How to use LLMs: Summarize long documents](https://dev.to/rogiia/how-to-use-llms-summarize-long-documents-4ee1)
+- [## The CAP Theorem &lpar;Brewer’s Theorem&rpar; in NoSQL Databases](https://dev.to/muhammetyasinarli/-the-cap-theorem-brewers-theorem-in-nosql-databases-2lbj)
+- [Especial 1 de Maio -Explorando a Diversidade da TI](https://dev.to/terminalcoffee/especial-1-de-maio-explorando-a-diversidade-da-ti-2nk4)
+- [Niche AI writing applications](https://dev.to/gigo_dev/niche-ai-writing-applications-54j7)
+- [Phantom Props: Leveraging Prop Drilling with Precision in React](https://dev.to/kigazon/phantom-props-leveraging-prop-drilling-with-precision-in-react-chi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
