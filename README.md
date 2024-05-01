@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Caching OpenAI Chat API Responses with LangChain and Xata](https://dev.to/xata/caching-openai-chat-api-responses-with-langchain-and-xata-2n3k)
-- [Generating Fake Django Model Instances with Factory Boy](https://dev.to/djangotricks/generating-fake-django-model-instances-with-factory-boy-27gg)
-- [Building a Custom VPC and EKS Cluster on AWS with Terraform](https://dev.to/vinod827/building-a-custom-vpc-and-eks-cluster-on-aws-with-terraform-4e16)
-- [Measuring Node.js Performance in Production with Performance Hooks](https://dev.to/appsignal/measuring-nodejs-performance-in-production-with-performance-hooks-3bai)
-- [Introducing DIVZ - a React component to scroll, swipe &amp; zoom through content on the 3D z-axis](https://dev.to/lewhunt/introducing-divz-a-react-component-to-scroll-swipe-zoom-through-html-on-the-3d-z-axis-el6)
+- [Estrutura de Pastas Aplicações SPA &lpar;Angular, React, Vue ...&rpar;](https://dev.to/diogoneves07/estrutura-de-pastas-aplicacoes-spa-angular-react-vue--d97)
+- [⚛️ Demystifying React&#39;s Types: Ref types](https://dev.to/itswillt/demystifying-reacts-types-ref-types-28fj)
+- [PWA: Build Installable Next.js App that Works Offline](https://dev.to/stephengade/pwa-build-installable-nextjs-app-that-works-offline-3fff)
+- [KitOps Release v0.2–Introducing Dev Mode and the ability to chain ModelKits](https://dev.to/kitops/kitops-release-v02-introducing-dev-mode-and-the-ability-to-chain-modelkits-4n39)
+- [JavaScript: Techniques for Checking if a Key Exists in an Object](https://dev.to/saumya27/javascript-techniques-for-checking-if-a-key-exists-in-an-object-40h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
