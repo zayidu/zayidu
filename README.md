@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data-driven UIs](https://dev.to/craft-code/data-driven-uis-481o)
-- [How to check if a variable is number in Python](https://dev.to/bybydev/how-to-check-if-a-variable-is-number-in-python-1g7j)
-- [Error Handling with Express](https://dev.to/srishtikprasad/error-handling-with-express-40pk)
-- [Goroutines: Solving the problem of efficient multithreading](https://dev.to/parthlaw/goroutines-solving-the-problem-of-efficient-multithreading-3oic)
-- [Introduction to Edge Computing](https://dev.to/kartikmehta8/introduction-to-edge-computing-20gl)
+- [Let&#39;s Talk About REST...](https://dev.to/calvinmclean/lets-talk-about-rest-1kjl)
+- [Learn SwiftUI &lpar;Day 6/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-6100-gc1)
+- [OOP poetry part III - behavioural patterns](https://dev.to/eatyourabstractions/design-pattern-poetry-part-iii-behavioural-1039)
+- [Understanding CSS Selectors: A Comprehensive Guide](https://dev.to/dhirajaryaa/understanding-css-selectors-a-comprehensive-guide-kmm)
+- [Classificação de Antipadrões em Microsserviços ‐ Parte 02](https://dev.to/yanjustino/classificacao-de-antipadroes-em-microsservicos-parte-02-4e92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
