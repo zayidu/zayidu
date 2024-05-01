@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Estrutura de Pastas Aplicações SPA &lpar;Angular, React, Vue ...&rpar;](https://dev.to/diogoneves07/estrutura-de-pastas-aplicacoes-spa-angular-react-vue--d97)
-- [⚛️ Demystifying React&#39;s Types: Ref types](https://dev.to/itswillt/demystifying-reacts-types-ref-types-28fj)
-- [PWA: Build Installable Next.js App that Works Offline](https://dev.to/stephengade/pwa-build-installable-nextjs-app-that-works-offline-3fff)
-- [KitOps Release v0.2–Introducing Dev Mode and the ability to chain ModelKits](https://dev.to/kitops/kitops-release-v02-introducing-dev-mode-and-the-ability-to-chain-modelkits-4n39)
-- [JavaScript: Techniques for Checking if a Key Exists in an Object](https://dev.to/saumya27/javascript-techniques-for-checking-if-a-key-exists-in-an-object-40h0)
+- [Serverless Doesn&#39;t Stand Still](https://dev.to/aws-builders/serverless-doesnt-stand-still-194)
+- [Uploading Files with React &lpar;POST Request&rpar;](https://dev.to/luqmanshaban/uploading-files-with-react-post-request-48gj)
+- [End-to-end MLOps CI/CD pipeline with Harness and AWS](https://dev.to/harness/end-to-end-mlops-cicd-pipeline-with-harness-and-aws-4084)
+- [User Manual for Automation using Ansible .](https://dev.to/khush_1351/user-manual-for-automation-using-ansible--2ihf)
+- [Beware: Invalid Selectors with SCSS](https://dev.to/teetotum/beware-invalid-selectors-with-scss-5alj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
