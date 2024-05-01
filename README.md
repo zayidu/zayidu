@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🤔 Can You Improve CSS? Help invent CSS Masonry layout...](https://dev.to/adam/can-you-improve-css-help-invent-css-masonry-layout-3mdh)
-- [Zoom-Clone using NextJS-14, Clerk, TailwindCSS, StreamSDK](https://dev.to/faarehahmed/zoom-clone-using-nextjs-14-clerk-tailwindcss-streamsdk-4gh2)
-- [What is Alpha Testing and Why Is It Important?](https://dev.to/jamescantor38/what-is-alpha-testing-and-why-is-it-important-3l18)
-- [How to Setup Webhook in Google Form?](https://dev.to/amjadcp/how-to-setup-webhook-in-google-form-4p3i)
-- [How to Add Firebase Authentication To Your NodeJS App](https://dev.to/permify/how-to-add-firebase-authentication-to-your-nodejs-app-2e68)
+- [Inflight Magazine no. 9](https://dev.to/winglang/inflight-magazine-no-9-4fdh)
+- [Daily news #1](https://dev.to/trawinski/daily-news-1-1ok1)
+- [🛠️ Have You Heard of WebAssembly? 🚀 It&#39;s About to Change Browsers and JavaScript Forever! 🤯](https://dev.to/best_codes/have-you-heard-of-webassembly-its-about-to-change-browsers-and-javascript-forever-2em1)
+- [The Reality of Burnout and Breaking Into Tech](https://dev.to/chrisnowicki/the-reality-of-burnout-and-breaking-into-tech-1p1o)
+- [No More Passwords! Terraform Module Makes GCP-GitHub Authentication a Breeze](https://dev.to/mangadev/no-more-passwords-terraform-module-makes-gcp-github-authentication-a-breeze-4io6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
