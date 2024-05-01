@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Simple Sketching Art with p5.js: A Step-by-Step Tutorial](https://dev.to/devmirx/how-to-create-simple-sketching-art-with-p5js-a-step-by-step-tutorial-ama)
-- [The easiest and best way to create the gitignore file for .Net repositories](https://dev.to/henriqueholtz/the-easiest-and-best-way-to-create-the-gitignore-file-for-net-repositories-1h35)
-- [How to implement Infinite Scrolling in React Native](https://dev.to/ghostkeeper10/how-to-implement-infinite-scrolling-in-react-native-4h9i)
-- [How to implement Infinite Scrolling in React Native](https://dev.to/ghostkeeper10/how-to-implement-infinite-scrolling-in-react-native-ig)
-- [Custom methods in REST API endpoints](https://dev.to/kirekov/custom-methods-in-rest-api-endpoints-3l29)
+- [Basic Sorting Algorithm](https://dev.to/m__mdy__m/basic-sorting-algorithm-30cj)
+- [AI Vision Technology in Practical Application](https://dev.to/gigo_dev/ai-vision-technology-in-practical-application-1l2i)
+- [Streamlining AWS Spending: Proven Strategies for Effective Cost Optimization](https://dev.to/unicloud/streamlining-aws-spending-proven-strategies-for-effective-cost-optimization-h1o)
+- [Quantum Computing Breakthroughs with NVIDIA](https://dev.to/gigo_dev/quantum-computing-breakthroughs-with-nvidia-4b00)
+- [Starlink: imagine working from anywhere](https://dev.to/gigo_dev/starlink-imagine-working-from-anywhere-b22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
