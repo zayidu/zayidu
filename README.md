@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mental health in software engineering..Share your feedback](https://dev.to/edenband/mental-health-in-software-engineeringshare-your-feedback-3b1h)
-- [Centralizing Cloud-Native Dev: Mastering Kubernetes Operations](https://dev.to/getambassador2024/centralizing-cloud-native-dev-mastering-kubernetes-operations-4o0j)
-- [Beginner&#39;s Guide to &quot;Introduction to Algorithms&quot;](https://dev.to/kirti17421/beginners-guide-to-introduction-to-algorithms-40dc)
-- [📌 AWS Under the Hood - Day 10 - How to Revoke Temporary IAM Credentials if they are Exposed 📌](https://dev.to/lakhera2015/aws-under-the-hood-day-10-how-to-revoke-temporary-iam-credentials-if-they-are-exposed-3h1b)
-- [Breeding Faster Horses](https://dev.to/polterguy/breeding-faster-horses-37h3)
+- [What&#39;s Your One Thing?](https://dev.to/devteam/whats-your-one-thing-4g7f)
+- [Visualize Structure-from-Motion](https://dev.to/rerunio/visualize-structure-from-motion-i44)
+- [What are key skills for entry level software engineer?](https://dev.to/hey_rishabh/what-are-key-skills-for-entry-level-software-engineer-2hf1)
+- [99 Exciting Project Ideas! 🤯🔥](https://dev.to/margish288/99-exciting-project-ideas-4kb9)
+- [Building a First Aid Assistant with Lyzr SDK](https://dev.to/akshay007/building-a-first-aid-assistant-with-lyzr-sdk-5282)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
