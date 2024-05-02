@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflexões sobre SOLID - Princípios Básicos](https://dev.to/mdeamp/reflexoes-sobre-solid-principios-basicos-2c9e)
-- [Navigating the Complexity of Distributed Systems: A Practical Guide](https://dev.to/tomjohnson3/navigating-the-complexity-of-distributed-systems-a-practical-guide-1nom)
-- [Creating a Highly-Available website in AWS](https://dev.to/gitgeetansh/creating-a-highly-available-website-in-aws-o04)
-- [Integration Testing in Obsidian](https://dev.to/bcamphart/integration-testing-in-obsidian-1gm5)
-- [The Boomi community you didn&#39;t know you needed](https://dev.to/eyer-ai/the-boomi-community-you-didnt-know-you-needed-ch8)
+- [Computer Vision Meetup: Making LLMs Safe &amp; Reliable](https://dev.to/voxel51/computer-vision-meetup-making-llms-safe-reliable-5goi)
+- [Developing an Arabic Learning Terminal-Based App!](https://dev.to/tishksuran/developing-an-arabic-learning-terminal-based-app-50n1)
+- [Why Understanding Your Open Source Licenses Matters](https://dev.to/gitguardian/why-understanding-your-open-source-licenses-matters-1pkl)
+- [1st week of WAD Blog](https://dev.to/kazuchikayanagi/1st-week-of-wad-blog-b8g)
+- [chat heap minchild](https://dev.to/imnotleo/chat-heap-minchild-5934)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
