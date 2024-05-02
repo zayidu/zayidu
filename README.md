@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [** ¡Las variables: Una aventura con los hermanos Warner! **](https://dev.to/orlidev/-las-variables-una-aventura-con-los-hermanos-warner--452f)
-- [Learn SwiftUI &lpar;Day 16/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-16100-1gib)
-- [Exploring the Practical Applications of ChatGPT in Everyday Life](https://dev.to/jahan/exploring-the-practical-applications-of-chatgpt-in-everyday-life-1ldo)
-- [Computer Vision Meetup: Making LLMs Safe &amp; Reliable](https://dev.to/voxel51/computer-vision-meetup-making-llms-safe-reliable-5goi)
-- [Developing an Arabic Learning Terminal-Based App!](https://dev.to/tishksuran/developing-an-arabic-learning-terminal-based-app-50n1)
+- [Netlify Dynamic Site Challenge - Help Thread!](https://dev.to/netlify/netlify-dynamic-site-challenge-help-thread-2081)
+- [🖋️ Unlock Your Writing Potential with CopilotKit&#39;s AI-Powered Wizardry!](https://dev.to/arnavk-09/unlock-your-writing-potential-with-copilotkits-ai-powered-wizardry-30bb)
+- [Melhorando e configurando seu novo Shell linux. Pt-2](https://dev.to/devhat/melhorando-e-configurando-seu-novo-shell-linux-pt-2-4bfc)
+- [Notes on streaming downloads with progress in Elixir](https://dev.to/ndrean/notes-on-streaming-downloads-with-progress-in-elixir-4nk7)
+- [GIT and GITHUB](https://dev.to/bbylumi/git-and-github-17ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
