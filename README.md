@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1: Boolean](https://dev.to/codernko/day-1-boolean-ip7)
-- [Demystifying Web Application Testing](https://dev.to/leoneloliver/demystifying-web-application-testing-4gi)
-- [Debate about dynamic vs static is pointless](https://dev.to/ucok23/debate-about-dynamic-vs-static-is-pointless-o35)
-- [Survey on the Feasibility of AI Ops Agents Replacing Human Tasks?](https://dev.to/choonho/survey-on-the-feasibility-of-ai-ops-agents-replacing-human-tasks-1fi6)
-- [Developing VR Applications with Unity](https://dev.to/kartikmehta8/developing-vr-applications-with-unity-5fo2)
+- [Number of Wonderful Substrings Solution](https://dev.to/rk042/number-of-wonderful-substrings-solution-3i81)
+- [Clasificador de imágenes con una red neuronal convolucional &lpar;CNN&rpar;](https://dev.to/emmendoza2794/clasificador-de-imagenes-con-una-red-neuronal-convolucional-cnn-3i76)
+- [Integridad y confidencialidad: Porque no entregar el hash de un número de tarjeta](https://dev.to/djhuertasg/integridad-y-confidencialidad-porque-no-entregar-el-hash-de-un-numero-de-tarjeta-5058)
+- [Just finished my first codecademy course 😀](https://dev.to/deviggor/just-finished-my-first-codecademy-course-5bbh)
+- [Important videos you should watch as a Developer ?](https://dev.to/divyansh2375/important-videos-you-should-watch-as-a-developer--36h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
