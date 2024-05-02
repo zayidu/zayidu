@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [** ¡Las variables: Una aventura con los hermanos Warner! **](https://dev.to/orlidev/-las-variables-una-aventura-con-los-hermanos-warner--452f)
+- [Learn SwiftUI &lpar;Day 16/100&rpar;](https://dev.to/bitecode/learn-swiftui-day-16100-1gib)
+- [Exploring the Practical Applications of ChatGPT in Everyday Life](https://dev.to/jahan/exploring-the-practical-applications-of-chatgpt-in-everyday-life-1ldo)
 - [Computer Vision Meetup: Making LLMs Safe &amp; Reliable](https://dev.to/voxel51/computer-vision-meetup-making-llms-safe-reliable-5goi)
 - [Developing an Arabic Learning Terminal-Based App!](https://dev.to/tishksuran/developing-an-arabic-learning-terminal-based-app-50n1)
-- [Why Understanding Your Open Source Licenses Matters](https://dev.to/gitguardian/why-understanding-your-open-source-licenses-matters-1pkl)
-- [1st week of WAD Blog](https://dev.to/kazuchikayanagi/1st-week-of-wad-blog-b8g)
-- [chat heap minchild](https://dev.to/imnotleo/chat-heap-minchild-5934)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
