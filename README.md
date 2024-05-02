@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye Dev.to, Hello Substack.](https://dev.to/samuelfaure/goodbye-devto-hello-substack-1ekh)
-- [5 of the Best Free FrontEnd Tutorials Out There](https://dev.to/ahmed_onour/5-of-the-best-free-frontend-tutorials-out-there-22gl)
-- [How can you find web design software that provides seamless collaboration features for remote teams?](https://dev.to/utkarsh032/how-can-you-find-web-design-software-that-provides-seamless-collaboration-features-for-remote-teams-1pof)
-- [How to create and monetize UI library?](https://dev.to/vitalijalbu/how-to-monetize-ui-library-55lc)
-- [Build and deploy a Next.js ecommerce website in 5 steps](https://dev.to/tonyspiro/build-and-deploy-a-nextjs-ecommerce-website-in-5-steps-2lla)
+- [How single message broke all our monitoring and dashboards](https://dev.to/capjavert/how-single-message-broke-all-our-monitoring-and-dashboards-40a6)
+- [Ubiquitous Language: the Good, the Bad, and the Lessons](https://dev.to/upslide/ubiquitous-language-the-good-the-bad-and-the-lessons-c2p)
+- [Laravel Error Fix: How to Handle &quot;Attempt property on null&quot;](https://dev.to/tarequr/laravel-error-fix-how-to-handle-attempt-property-on-null-29e1)
+- [The Magic of keyof and typeof in Typescript](https://dev.to/anjankarmakar/magic-of-keyof-and-typeof-in-typescript-43ma)
+- [How to restore a Mysql backup with XAMP](https://dev.to/automata/how-to-restore-a-mysql-backup-with-xamp-e64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
