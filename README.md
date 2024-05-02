@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Fear Code Changes? 😱](https://dev.to/devteam/do-you-fear-code-changes-210c)
-- [Quick SQL guide and cheat sheet: Essential Commands](https://dev.to/dbvismarketing/quick-sql-guide-essential-commands-for-effective-data-handling-cmd)
-- [Revolutionizing AI Tools Directory: How AI Parabellum is Changing the Game](https://dev.to/foxinfotech/revolutionizing-ai-tools-directory-how-ai-parabellum-is-changing-the-game-384d)
-- [Introduction to htmx](https://dev.to/jankaritech/introduction-to-htmx-3c7c)
-- [Multi-region YugabyteDB deployment on AWS EKS with Istio](https://dev.to/vishnuhd/multi-region-yugabytedb-deployment-on-aws-eks-with-istio-2ng5)
+- [The Challenge of Versioning Expandable API&#39;s in Umbraco](https://dev.to/mattbrailsford/the-challenge-of-versioning-expandable-apis-in-umbraco-1ab8)
+- [Count Good Nodes in Binary Tree | LeetCode | Java](https://dev.to/tanujav/count-good-nodes-in-binary-tree-leetcode-java-5cgi)
+- [React Hooks](https://dev.to/paulund/react-hooks-22hc)
+- [Streamlining Microservices Orchestration: A Guide to Deploying Kong-Mesh Zones with Konnect](https://dev.to/zelar/streamlining-microservices-orchestration-a-guide-to-deploying-kong-mesh-zones-with-konnect-mg)
+- [Skype is not sending the attachment details along with request object in group chats](https://dev.to/ragu27ag/skype-is-not-sending-the-attachment-details-along-with-request-object-in-group-chats-4j79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
