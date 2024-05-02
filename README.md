@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VSCode X Docker: Make a Comfortable Development Environment](https://dev.to/weseek-inc/vscode-x-docker-make-a-comfortable-development-environment-10pd)
-- [Exploring the Exciting New Features in Node.js 22](https://dev.to/andreas_herz/exploring-the-exciting-new-features-in-nodejs-22-1j90)
-- [Understanding the CSS revert-layer keyword](https://dev.to/logrocket/understanding-the-css-revert-layer-keyword-2hkp)
-- [Are diodes required for x27 type motors?](https://dev.to/leehambley/are-diodes-required-for-x27-type-motors-5hk0)
-- [Uncovering and Solving Data Wrangling Issues with Property-Based Testing](https://dev.to/rfmf/uncovering-and-solving-data-wrangling-issues-with-property-based-testing-2pg9)
+- [What Are The Best Knowledge That Every Programming Course Misses?](https://dev.to/llxd/what-are-the-best-knowledge-that-every-programming-course-misses-4f67)
+- [Building a Notion-style activity feed with Next.js and shadcn/ui](https://dev.to/knocklabs/building-a-notion-style-activity-feed-with-nextjs-and-shadcnui-m4i)
+- [Difference Between Jest, Enzyme and React Testing Library](https://dev.to/viissgg/difference-between-jest-enzyme-and-react-testing-library-7ki)
+- [Redirect Your Online Success with Rebrandly: The Power of Customized Links](https://dev.to/razxssd/redirect-your-online-success-with-rebrandly-the-power-of-customized-links-405n)
+- [🚀 Exploring Upgrading to Nuxt 3](https://dev.to/yoshrubin/exploring-torah-live-upgrading-to-nuxt-3-1c2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
