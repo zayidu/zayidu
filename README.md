@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-end specialisations: DX Engineer](https://dev.to/r4nd3l/front-end-specialisations-dx-engineer-3lao)
-- [A Guide to the Eisenhower Matrix for Advanced Time Management and Productivity](https://dev.to/productivity/a-guide-to-the-eisenhower-matrix-for-advanced-time-management-and-productivity-4eeb)
-- [Navigating the New Frontier: AI-Powered Software Development](https://dev.to/dev3l/navigating-the-new-frontier-ai-powered-software-development-17hh)
-- [Angular Signals update function](https://dev.to/nhannguyendevjs/angular-signals-update-function-59b3)
-- [10 Best Websites for practicing Data Structures and Algorithms &lpar;DSA&rpar;:](https://dev.to/dhyaneshsiddhartha15/10-best-websites-for-practicing-data-structures-and-algorithms-dsa-3n39)
+- [Do You Fear Code Changes? 😱](https://dev.to/devteam/do-you-fear-code-changes-210c)
+- [Quick SQL guide and cheat sheet: Essential Commands](https://dev.to/dbvismarketing/quick-sql-guide-essential-commands-for-effective-data-handling-cmd)
+- [Revolutionizing AI Tools Directory: How AI Parabellum is Changing the Game](https://dev.to/foxinfotech/revolutionizing-ai-tools-directory-how-ai-parabellum-is-changing-the-game-384d)
+- [Introduction to htmx](https://dev.to/jankaritech/introduction-to-htmx-3c7c)
+- [Multi-region YugabyteDB deployment on AWS EKS with Istio](https://dev.to/vishnuhd/multi-region-yugabytedb-deployment-on-aws-eks-with-istio-2ng5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
