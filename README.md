@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are The Best Knowledge That Every Programming Course Misses?](https://dev.to/llxd/what-are-the-best-knowledge-that-every-programming-course-misses-4f67)
-- [Building a Notion-style activity feed with Next.js and shadcn/ui](https://dev.to/knocklabs/building-a-notion-style-activity-feed-with-nextjs-and-shadcnui-m4i)
-- [Difference Between Jest, Enzyme and React Testing Library](https://dev.to/viissgg/difference-between-jest-enzyme-and-react-testing-library-7ki)
-- [Redirect Your Online Success with Rebrandly: The Power of Customized Links](https://dev.to/razxssd/redirect-your-online-success-with-rebrandly-the-power-of-customized-links-405n)
-- [🚀 Exploring Upgrading to Nuxt 3](https://dev.to/yoshrubin/exploring-torah-live-upgrading-to-nuxt-3-1c2a)
+- [Goodbye Dev.to, Hello Substack.](https://dev.to/samuelfaure/goodbye-devto-hello-substack-1ekh)
+- [5 of the Best Free FrontEnd Tutorials Out There](https://dev.to/ahmed_onour/5-of-the-best-free-frontend-tutorials-out-there-22gl)
+- [How can you find web design software that provides seamless collaboration features for remote teams?](https://dev.to/utkarsh032/how-can-you-find-web-design-software-that-provides-seamless-collaboration-features-for-remote-teams-1pof)
+- [How to create and monetize UI library?](https://dev.to/vitalijalbu/how-to-monetize-ui-library-55lc)
+- [Build and deploy a Next.js ecommerce website in 5 steps](https://dev.to/tonyspiro/build-and-deploy-a-nextjs-ecommerce-website-in-5-steps-2lla)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
