@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Netlify Dynamic Site Challenge - Help Thread!](https://dev.to/netlify/netlify-dynamic-site-challenge-help-thread-2081)
-- [🖋️ Unlock Your Writing Potential with CopilotKit&#39;s AI-Powered Wizardry!](https://dev.to/arnavk-09/unlock-your-writing-potential-with-copilotkits-ai-powered-wizardry-30bb)
-- [Melhorando e configurando seu novo Shell linux. Pt-2](https://dev.to/devhat/melhorando-e-configurando-seu-novo-shell-linux-pt-2-4bfc)
-- [Notes on streaming downloads with progress in Elixir](https://dev.to/ndrean/notes-on-streaming-downloads-with-progress-in-elixir-4nk7)
-- [GIT and GITHUB](https://dev.to/bbylumi/git-and-github-17ba)
+- [Podcast: A candid chat about the developer market with Don the Developer](https://dev.to/rithmschool/podcast-a-candid-chat-about-the-developer-market-with-don-the-developer-2410)
+- [Recapping the AI, Machine Learning and Data Science Meetup — May 2, 2024](https://dev.to/jguerrero-voxel51/recapping-the-ai-machine-learning-and-data-science-meetup-may-2-2024-151h)
+- [heap minchild](https://dev.to/imnotleo/heap-minchild-5h9o)
+- [Torneo Pokemon](https://dev.to/imnotleo/torneo-pokemon-1o3l)
+- [Exploring the Latest Angular Release: New Features and Advantages for Developers](https://dev.to/cachemerrill/exploring-the-latest-angular-release-new-features-and-advantages-for-developers-5c83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
