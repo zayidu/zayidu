@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2: Setting Up Angular Development Environment](https://dev.to/dipakahirav/day-2-setting-up-angular-development-environment-2ck9)
-- [Advanced Index Rebuild and Maintenance Strategies for SQL Server](https://dev.to/devartteam/advanced-index-rebuild-and-maintenance-strategies-for-sql-server-ig2)
-- [Creating Partitions and Mounting File Systems in Linux](https://dev.to/gabi1447/creating-partitions-and-mounting-file-systems-in-linux-39e9)
-- [The Ultimate Guide to DOM Manipulation: Beginner to Expert](https://dev.to/linusmwiti21/the-ultimate-guide-to-dom-manipulation-beginner-to-expert-4h96)
-- [The Digital-Led Retail Banking Market and its Impact on Financial Landscape Transformation](https://dev.to/sidhantkale5/the-digital-led-retail-banking-market-and-its-impact-on-financial-landscape-transformation-dd4)
+- [VSCode X Docker: Make a Comfortable Development Environment](https://dev.to/weseek-inc/vscode-x-docker-make-a-comfortable-development-environment-10pd)
+- [Exploring the Exciting New Features in Node.js 22](https://dev.to/andreas_herz/exploring-the-exciting-new-features-in-nodejs-22-1j90)
+- [Understanding the CSS revert-layer keyword](https://dev.to/logrocket/understanding-the-css-revert-layer-keyword-2hkp)
+- [Are diodes required for x27 type motors?](https://dev.to/leehambley/are-diodes-required-for-x27-type-motors-5hk0)
+- [Uncovering and Solving Data Wrangling Issues with Property-Based Testing](https://dev.to/rfmf/uncovering-and-solving-data-wrangling-issues-with-property-based-testing-2pg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
