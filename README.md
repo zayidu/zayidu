@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 1: Boolean](https://dev.to/codernko/day-1-boolean-ip7)
 - [Demystifying Web Application Testing](https://dev.to/leoneloliver/demystifying-web-application-testing-4gi)
 - [Debate about dynamic vs static is pointless](https://dev.to/ucok23/debate-about-dynamic-vs-static-is-pointless-o35)
 - [Survey on the Feasibility of AI Ops Agents Replacing Human Tasks?](https://dev.to/choonho/survey-on-the-feasibility-of-ai-ops-agents-replacing-human-tasks-1fi6)
 - [Developing VR Applications with Unity](https://dev.to/kartikmehta8/developing-vr-applications-with-unity-5fo2)
-- [Renewing Let&#39;s Encrypt Certificates with NGINX Unit](https://dev.to/djangotricks/renewing-lets-encrypt-certificates-with-nginx-unit-2jik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
