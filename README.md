@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Adventures of Blink #21: Start with Empathy](https://dev.to/linkbenjamin/the-adventures-of-blink-21-start-with-empathy-36d7)
-- [if Statements](https://dev.to/paulike/if-statements-2m9l)
-- [Selections](https://dev.to/paulike/selections-1l9c)
-- [No-code Real-time Object Detection without training models](https://dev.to/miguelaeh/no-code-real-time-object-detection-without-training-models-59b0)
-- [How to add or modify a validation rule in Trivule?](https://dev.to/claudye/how-to-add-or-modify-a-validation-rule-in-trivule-324b)
+- [Entendendo State Pattern - Flutter](https://dev.to/adryannekelly/entendendo-state-pattern-flutter-3anp)
+- [Building a Static Site Generator in 3 steps](https://dev.to/devmount/building-a-static-site-generator-in-3-steps-72e)
+- [A Friendly Guide to Coding Collaboration](https://dev.to/respect17/a-friendly-guide-to-coding-collaboration-33dg)
+- [🎩 5 Top Free Resources for Mastering Refactoring](https://dev.to/evergrowingdev/5-top-free-resources-for-mastering-refactoring-n69)
+- [Generating Random Numbers](https://dev.to/paulike/generating-random-numbers-1fhc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
