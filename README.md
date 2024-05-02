@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Disabled State to Buttons with Turbo &amp; Tailwind CSS](https://dev.to/railsdesigner/how-to-add-disabled-state-to-buttons-with-turbo-tailwind-css-2feb)
-- [JavaScript call, bind and apply method usages.](https://dev.to/ashsajal/javascript-call-bind-and-apply-method-usages-42ba)
-- [Five ways to pass parameters to Apache APISIX](https://dev.to/apisix/five-ways-to-pass-parameters-to-apache-apisix-1p6e)
-- [Optimizing Webhook Integration: a new approach to accept events from the Adyen platform](https://dev.to/adyen/optimizing-webhook-integration-a-new-approach-to-accept-events-from-the-adyen-platform-4hnh)
-- [Demystifying Clean Architecture: Fundamentals and Benefits](https://dev.to/nlapointe/demystifying-clean-architecture-fundamentals-and-benefits-5ae7)
+- [Unveiling WordPress 6.5: The Next Frontier in Website Building](https://dev.to/lannycolvin11/unveiling-wordpress-65-the-next-frontier-in-website-building-1a9m)
+- [The best type for storing money in our posgresql db](https://dev.to/thecoder512/the-best-type-for-storing-money-in-our-posgresql-db-2jfl)
+- [Adding Keyboard Shortcut Functionality to the Windows Quick List Applet in Linux Mint Cinnamon](https://dev.to/shawon/adding-keyboard-shortcut-functionality-to-the-windows-quick-list-applet-in-linux-mint-cinnamon-4lkj)
+- [Customer Case Study – BlueShift ONE System](https://dev.to/andyb1979/customer-case-study-blueshift-one-system-3if2)
+- [JavaScript prototypal and classical inheritance](https://dev.to/ashsajal/javascript-prototypal-and-classical-inheritance-111l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
