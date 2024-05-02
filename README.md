@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Challenge of Versioning Expandable API&#39;s in Umbraco](https://dev.to/mattbrailsford/the-challenge-of-versioning-expandable-apis-in-umbraco-1ab8)
-- [Count Good Nodes in Binary Tree | LeetCode | Java](https://dev.to/tanujav/count-good-nodes-in-binary-tree-leetcode-java-5cgi)
-- [React Hooks](https://dev.to/paulund/react-hooks-22hc)
-- [Streamlining Microservices Orchestration: A Guide to Deploying Kong-Mesh Zones with Konnect](https://dev.to/zelar/streamlining-microservices-orchestration-a-guide-to-deploying-kong-mesh-zones-with-konnect-mg)
-- [Skype is not sending the attachment details along with request object in group chats](https://dev.to/ragu27ag/skype-is-not-sending-the-attachment-details-along-with-request-object-in-group-chats-4j79)
+- [How to Add Disabled State to Buttons with Turbo &amp; Tailwind CSS](https://dev.to/railsdesigner/how-to-add-disabled-state-to-buttons-with-turbo-tailwind-css-2feb)
+- [JavaScript call, bind and apply method usages.](https://dev.to/ashsajal/javascript-call-bind-and-apply-method-usages-42ba)
+- [Five ways to pass parameters to Apache APISIX](https://dev.to/apisix/five-ways-to-pass-parameters-to-apache-apisix-1p6e)
+- [Optimizing Webhook Integration: a new approach to accept events from the Adyen platform](https://dev.to/adyen/optimizing-webhook-integration-a-new-approach-to-accept-events-from-the-adyen-platform-4hnh)
+- [Demystifying Clean Architecture: Fundamentals and Benefits](https://dev.to/nlapointe/demystifying-clean-architecture-fundamentals-and-benefits-5ae7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
