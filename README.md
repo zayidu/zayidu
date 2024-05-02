@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Question About Large Language Models and SwiftUI](https://dev.to/simplykyra/question-about-large-language-models-and-swiftui-1ig8)
-- [Intro to Python](https://dev.to/pedroa54/intro-to-python-54em)
-- [AWS Under the Hood - Day 11 - Monitor Your S3 Bucket: Get Notified on every S3 event](https://dev.to/lakhera2015/aws-under-the-hood-day-11-monitor-your-s3-bucket-get-notified-on-every-s3-event-3lk0)
-- [Effortlessly Create an AI Dungeon Master Bot Using Julep and Chainlit](https://dev.to/philipbalbas/effortlessly-create-an-ai-dungeon-master-bot-using-julep-and-chainlit-2bk1)
-- [Seamlessly Setting Up Server Infrastructure for RKE2 with Semaphore UI&lpar;SemUI&rpar; and Ansible on Proxmox -- QM Commands!](https://dev.to/spaceterran/seamlessly-setting-up-server-infrastructure-for-rke2-with-semaphore-uisemui-and-ansible-on-proxmox-qm-commands-17i6)
+- [Angular Signals update function](https://dev.to/nhannguyendevjs/angular-signals-update-function-59b3)
+- [10 Best Websites for practicing Data Structures and Algorithms &lpar;DSA&rpar;:](https://dev.to/dhyaneshsiddhartha15/10-best-websites-for-practicing-data-structures-and-algorithms-dsa-3n39)
+- [Code Smarter, Not Harder: Unleashing AI in Agile Development](https://dev.to/dev3l/code-smarter-not-harder-unleashing-ai-in-agile-development-37jd)
+- [Rust, WASM, and LOK](https://dev.to/knutaf/rust-wasm-and-lok-1dfi)
+- [How to Implement Authorization in React JS](https://dev.to/avinashdalvi_/how-to-implement-authorization-in-react-js-fbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
