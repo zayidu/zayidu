@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I use Devbox in my Elm projects](https://dev.to/dwayne/how-i-use-devbox-in-my-elm-projects-2hbg)
-- [Create charts with chart.js](https://dev.to/notesmatic/create-charts-with-chartjs-1dda)
-- [Top Open Source Prompt Engineering Guides &amp; Tools🔧🏗️🚀](https://dev.to/milasuperstar/top-open-source-prompt-engineering-guides-tools-11g3)
-- [Make your resume SEO friendly using JSON Resume with microdata](https://dev.to/scottnath/make-your-resume-seo-friendly-using-json-resume-with-microdata-1kln)
-- [DeploySolo – The SaaS template in 1 file. &lpar;PocketBase/ htmx&rpar;](https://dev.to/manderson/deploysolo-the-saas-boilerplate-in-1-file-pocketbase-htmx-3o2k)
+- [IDM-VTON: The Most Amazing Virtual Try Anything On Application - Windows, Massed Compute, RunPod &amp; Kaggle](https://dev.to/furkangozukara/idm-vton-the-most-amazing-virtual-try-anything-on-application-windows-massed-compute-runpod-kaggle-4edf)
+- [JavaScript Design Patterns - Structural - Decorator](https://dev.to/nhannguyendevjs/javascript-design-patterns-structural-decorator-5eed)
+- [HTML5 Semantic Tags: A Guide to Better Document Structure 🌐](https://dev.to/ayoubkhan558/html5-semantic-tags-a-guide-to-better-document-structure-25p)
+- [Encryption 101: How It Works and Why It&#39;s Essential for Security](https://dev.to/me_priya/encryption-101-how-it-works-and-why-its-essential-for-security-36kf)
+- [What&#39;s new in React 19?](https://dev.to/respect17/whats-new-in-react-19-1od9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
