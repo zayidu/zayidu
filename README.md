@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2024-05-03 my weekly dev.to recommendation](https://dev.to/ccoveille/2024-05-03-my-weekly-devto-recommendation-4e4j)
-- [Docker Containers vs. Virtual Machines](https://dev.to/iamgoncaloalves/docker-containers-vs-virtual-machines-3baj)
-- [Conditional Expressions](https://dev.to/paulike/conditional-expressions-oln)
-- [Why IMDSv1 is a Security Risk for Cloud Infrastructure](https://dev.to/kfir-g/why-imdsv1-is-a-security-risk-for-cloud-infrastructure-295g)
-- [Eliminate IPv4 tax on AWS, is it that easy?](https://dev.to/hunghvu/eliminate-ipv4-tax-on-aws-is-it-that-easy-ib5)
+- [AWS IAM — Identity and Access Management](https://dev.to/aws-builders/aws-iam-identity-and-access-management-8ph)
+- [System Design - Database Sharding &amp; Replication Strategies](https://dev.to/vineetaparodkar/system-design-database-sharding-jhp)
+- [Debugging](https://dev.to/paulike/debugging-44cg)
+- [System Design - Message Queues](https://dev.to/vineetaparodkar/system-design-message-queues-3i0m)
+- [Como é o AWS Community Builders](https://dev.to/aws-builders/como-e-o-aws-community-builders-598e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
