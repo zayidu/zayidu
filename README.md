@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Geolocation Data: The Power of IP Address to Location APIs](https://dev.to/martinbaldwin127/unlocking-geolocation-data-the-power-of-ip-address-to-location-apis-35eb)
-- [Mastering Dataset Acquisition: A Comprehensive Guide](https://dev.to/rishabhjaincodes/mastering-dataset-acquisition-a-comprehensive-guide-e54)
-- [React Native - ScrollView not work on WebBrowser &lpar;Chrome&rpar; but on IOS Simulator work well](https://dev.to/nunosaa/react-native-scrollview-not-work-on-webbrowser-chrome-but-on-ios-simulator-work-well-2012)
-- [Financial Planning Strategies for a Successful Loyalty Program](https://dev.to/zinrelo/financial-planning-strategies-for-a-successful-loyalty-program-ai5)
-- [Making the Right Database Choice: NoSQL vs. Relational Databases](https://dev.to/yogini16/making-the-right-database-choice-nosql-vs-relational-databases-148d)
+- [Unlocking the Power of Constructors in Angular Applications](https://dev.to/chintanonweb/unlocking-the-power-of-constructors-in-angular-applications-4g9n)
+- [Riverpod State Management Package in Flutter 3.19](https://dev.to/codetradeindia/riverpod-state-management-package-in-flutter-319-nkk)
+- [Mocking ES6 Class Instances with Jest](https://dev.to/andrewchaa/mocking-es6-class-instances-with-jest-p6c)
+- [&quot;Unveiling Quantum Computing: Explore Amazon Q and Code Whisper with AWS&quot;](https://dev.to/basel5001/unveiling-quantum-computing-explore-amazon-q-and-code-whisper-with-aws-1p68)
+- [Risk vs Threat vs Vulnerability: What’s the Difference?](https://dev.to/clouddefenseai/risk-vs-threat-vs-vulnerability-whats-the-difference-555l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
