@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Automatic interfaces generation in the C#](https://dev.to/szymonhalucha/automatic-interfaces-generation-in-the-c-469k)
+- [Demystifying Heuristic Search Algorithms](https://dev.to/markyu/demystifying-heuristic-search-algorithms-59lh)
+- [HTML popover](https://dev.to/vulfh/html-popover-57a0)
+- [Why write a library?](https://dev.to/zin_kg/why-write-a-library-4ceb)
 - [Designing with accessibility in mind: Ubergood Festival](https://dev.to/mahzeb/designing-with-accessibility-in-mind-ubergood-festival-3o40)
-- [Part 4: Working with Node.js Modules](https://dev.to/dipakahirav/part-4-working-with-nodejs-modules-fe4)
-- [Data Structures and Algorithms: Depth First Search](https://dev.to/faraib/data-structures-and-algorithms-depth-first-search-4c0e)
-- [OpenMLDB v0.9.0 Release: Major Upgrade in SQL Capabilities Covering the Entire Feature Servicing Process](https://dev.to/elliezza/openmldb-v090-release-major-upgrade-in-sql-capabilities-covering-the-entire-feature-servicing-process-bfo)
-- [Quickest and easiest way to setup JMeter to test a simple login](https://dev.to/fershopls/quickest-and-easiest-way-to-setup-jmeter-to-test-a-simple-login-2889)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
