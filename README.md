@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Performance: The Power of Caching with Redis](https://dev.to/srishtikprasad/unlocking-performance-the-power-of-caching-with-redis-56m5)
-- [Day in the Life of a Microsoft Software Engineer | Vancouver 2024](https://dev.to/dustinbrett/day-in-the-life-of-a-microsoft-software-engineer-vancouver-2024-pon)
-- [Install Java in macbook M1/M2/M3](https://dev.to/khairunnaharnowrin/install-java-in-macbook-m1m2m3-58fd)
-- [Tutorial de Mkdocs](https://dev.to/acoronadoc/tutorial-de-mkdocs-3c09)
-- [Unveiling the Art of JavaScript Debugging: Techniques Every Developer Should Know](https://dev.to/sharathchandark/unveiling-the-art-of-javascript-debugging-techniques-every-developer-should-know-2176)
+- [2024-05-03 my weekly dev.to recommendation](https://dev.to/ccoveille/2024-05-03-my-weekly-devto-recommendation-4e4j)
+- [Docker Containers vs. Virtual Machines](https://dev.to/iamgoncaloalves/docker-containers-vs-virtual-machines-3baj)
+- [Conditional Expressions](https://dev.to/paulike/conditional-expressions-oln)
+- [Why IMDSv1 is a Security Risk for Cloud Infrastructure](https://dev.to/kfir-g/why-imdsv1-is-a-security-risk-for-cloud-infrastructure-295g)
+- [Eliminate IPv4 tax on AWS, is it that easy?](https://dev.to/hunghvu/eliminate-ipv4-tax-on-aws-is-it-that-easy-ib5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
