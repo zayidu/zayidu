@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepRacer-for-Cloud v5.2.2 now available with new real-time training metrics](https://dev.to/aws-builders/deepracer-for-cloud-v522-now-available-with-new-real-time-training-metrics-7ki)
-- [Cisco Java Developer Interview Transcript 2024&lpar;Java,Spring-Boot,Hibernate&rpar;](https://dev.to/rathodajay10/cisco-java-developer-interview-transcript-2024javaspring-boothibernate-5cd7)
-- [Brute Force Attacks and CAPTCHA](https://dev.to/swayam_248/brute-force-attack-and-captcha-4cde)
-- [Load scripts in order with import&lpar;&rpar;, async and IIFE](https://dev.to/andrewelans/load-scripts-in-order-with-import-async-and-iife-5dci)
-- [Tailwind CSS for frontend teams: From settings to rules](https://dev.to/comento/tailwind-css-for-frontend-teams-from-settings-to-rules-46bn)
+- [How to make a cool GitHub README.md](https://dev.to/zemerik/how-to-make-a-cool-github-readmemd-46dj)
+- [Discover the New Wave of Cosmos SDK Games for 2024](https://dev.to/zeeve/discover-the-new-wave-of-cosmos-sdk-games-for-2024-34on)
+- [My top VS Code Extensions for Front-End Development in 2024](https://dev.to/nattive/my-top-vs-code-extensions-for-front-end-development-in-2024-3lg5)
+- [Fellowship of Ethereum Magicians](https://dev.to/leena8686/fellowship-of-ethereum-magicians-10k7)
+- [Transform your Ideas into Apps with Android App Development Services](https://dev.to/dhruvjoshi9/transform-your-ideas-into-apps-with-android-app-development-services-h4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
