@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Constructors in Angular Applications](https://dev.to/chintanonweb/unlocking-the-power-of-constructors-in-angular-applications-4g9n)
-- [Riverpod State Management Package in Flutter 3.19](https://dev.to/codetradeindia/riverpod-state-management-package-in-flutter-319-nkk)
-- [Mocking ES6 Class Instances with Jest](https://dev.to/andrewchaa/mocking-es6-class-instances-with-jest-p6c)
-- [&quot;Unveiling Quantum Computing: Explore Amazon Q and Code Whisper with AWS&quot;](https://dev.to/basel5001/unveiling-quantum-computing-explore-amazon-q-and-code-whisper-with-aws-1p68)
-- [Risk vs Threat vs Vulnerability: What’s the Difference?](https://dev.to/clouddefenseai/risk-vs-threat-vs-vulnerability-whats-the-difference-555l)
+- [Setting Up Stripe Payments in React](https://dev.to/codeparrot/setting-up-stripe-payments-in-react-3bbn)
+- [LeetCode Meditations: Binary Tree Maximum Path Sum](https://dev.to/rivea0/leetcode-meditations-binary-tree-maximum-path-sum-45a3)
+- [Game Dev Digest — Issue #231 - New And Retro](https://dev.to/gamedevdigest/game-dev-digest-issue-231-new-and-retro-2mbf)
+- [the unavoidable cost of interactive fiction](https://dev.to/onwritinggames/the-unavoidable-cost-of-interactive-fiction-2mo4)
+- [Day 7 of 30 of JavaScript](https://dev.to/akshat0610/day-7-of-30-of-javascript-3hmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
