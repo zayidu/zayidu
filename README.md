@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel +11 how to set validateCsrfToken dinamically](https://dev.to/fershopls/laravel-11-how-to-set-validatecsrftoken-dinamically-7e0)
-- [🌌 May The Fourth Be With You! ⚔️ 🌠](https://dev.to/devteam/may-the-fourth-be-with-you-43p7)
-- [cURL for Web Scraping with Python, JAVA, and PHP](https://dev.to/crawlbase/curl-for-web-scraping-with-python-java-and-php-4875)
-- [Podcast: A candid chat about the developer market with Don the Developer](https://dev.to/rithmschool/podcast-a-candid-chat-about-the-developer-market-with-don-the-developer-2410)
-- [Recapping the AI, Machine Learning and Data Science Meetup — May 2, 2024](https://dev.to/jguerrero-voxel51/recapping-the-ai-machine-learning-and-data-science-meetup-may-2-2024-151h)
+- [Advanced State Management in React with MobX](https://dev.to/kartikmehta8/advanced-state-management-in-react-with-mobx-nh3)
+- [Self Introduction](https://dev.to/rockyueno0223/self-introduction-4m3g)
+- [Optimizing Database Scalability in Microservices](https://dev.to/karandaid/optimizing-database-scalability-in-microservices-ca8)
+- [CRUD Laravel 10 dan Bootstrap 5 #4: Mengupdate Data](https://dev.to/risekucom/crud-laravel-10-dan-bootstrap-5-4-mengupdate-data-3ahh)
+- [Latest Python Features That Every Developer Should Know](https://dev.to/cachemerrill/latest-python-features-that-every-developer-should-know-m8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
