@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AsciidocFX: The Asciidoc Editor for documentation and authoring](https://dev.to/rprabhu/asciidocfx-the-asciidoc-editor-for-documentation-and-authoring-3dee)
-- [How to create an ECS Service with more than one Target Group](https://dev.to/fanmixco/how-to-create-a-ecs-service-more-than-one-target-group-2j2i)
-- [SQL Server Basics](https://dev.to/quyit/sql-server-basics-khh)
-- [NeoVim for beginners Walkthrough](https://dev.to/bekbrace/neovim-for-beginners-walkthrough-1768)
-- [Access Control Trends in 2024](https://dev.to/blogginger/access-control-trends-in-2024-2h2b)
+- [&quot;Used a jailbroken ChatGPT?: Share your story. 😲&quot;](https://dev.to/itsjp/used-a-jailbroken-chatgpt-share-your-story--1697)
+- [My First Mobile Game With Flutter](https://dev.to/terekhin/my-first-mobile-game-with-flutter-4k32)
+- [🚀 Exploring the Integration of Django with Machine Learning Models for Predictive Analytics in Web Applications](https://dev.to/jackmutech/exploring-the-integration-of-django-with-machine-learning-models-for-predictive-analytics-in-web-applications-5cph)
+- [Simplifying Hexagonal Architecture: Using Capabilities and Requirements for Better Code](https://dev.to/jaloplo/simplifying-hexagonal-architecture-using-capabilities-and-requirements-for-better-code-5aei)
+- [Understanding Angular Component Lifecycles](https://dev.to/dipakahirav/understanding-angular-component-lifecycles-i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
