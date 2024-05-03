@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Podcast: From Math Teacher to Web Developer: Adilson Sandoval&#39;s Inspiring Career Transition](https://dev.to/schalkneethling/podcast-from-math-teacher-to-web-developer-adilson-sandovals-inspiring-career-transition-255h)
-- [04 - Building a Learning Management System &lpar;LMS&rpar;: Embrace Hands-on Learning Approach](https://dev.to/louaiboumediene/04-building-a-learning-management-system-lms-embrace-hands-on-learning-approach-3b3j)
-- [Python Day 10 - Meme Magic 😍: Building a Custom Meme Generator with Python](https://dev.to/jr_shittu/python-day-10-meme-magic-building-a-custom-meme-generator-with-python-2ejc)
-- [How to switch themes in Flutter using BLoC](https://dev.to/thanasistraitsis/how-to-switch-themes-in-flutter-using-bloc-5fim)
-- [There was an error while hydrating this Suspense boundary. Switched to client rendering. Next.js 14](https://dev.to/keremcanseker/there-was-an-error-while-hydrating-this-suspense-boundary-switched-to-client-rendering-nextjs-14-me7)
+- [How I ended up using Colima for Docker on Apple Silicon](https://dev.to/dim5/how-i-ended-up-using-colima-for-docker-on-apple-silicon-2hb2)
+- [Simplify Shadow DOM with setHTMLUnsafe](https://dev.to/js_bits_bill/simplify-shadow-dom-with-sethtmlunsafe-1fne)
+- [# Const x Final em Dart. Você sabe a diferença?](https://dev.to/ylanzinhoy/-const-x-final-em-dart-voce-sabe-a-diferenca-5ahc)
+- [I made a whooping 1.60$ from my books-for-indies app and... it&#39;s totally fine.](https://dev.to/majorbaguette/i-made-a-whooping-160from-my-books-for-indiesapp-and-its-totally-fine-3bn7)
+- [Linux Ninja: Master Text Manipulation from Beginner to Badass in the CLI](https://dev.to/fullstackdev/text-ninja-master-text-manipulation-from-beginner-to-badass-5do3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
