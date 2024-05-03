@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Send Emails Using Cloud Functions, Firestore &amp; Firebase-Send-Email](https://dev.to/cp_nandani/how-to-send-emails-using-cloud-functions-firestore-firebase-send-email-4beg)
-- [angular cli version 17 new features required](https://dev.to/shashipandey100192/angular-cli-version-17-new-features-required-nlg)
-- [Mastering React Server Components and Server Actions: A Comprehensive Guide](https://dev.to/madeelchaudhary/mastering-react-server-components-and-server-actions-a-comprehensive-guide-3p6g)
-- [Deploying organization repo to Vercel with a hobby plan](https://dev.to/algoorgoal/deploying-organization-repo-to-vercel-with-a-hobby-plan-2f3h)
-- [Snowflake Interview Questions](https://dev.to/azhar_uddin/snowflake-interview-questions-3p71)
+- [DeepRacer-for-Cloud v5.2.2 now available with new real-time training metrics](https://dev.to/aws-builders/deepracer-for-cloud-v522-now-available-with-new-real-time-training-metrics-7ki)
+- [Cisco Java Developer Interview Transcript 2024&lpar;Java,Spring-Boot,Hibernate&rpar;](https://dev.to/rathodajay10/cisco-java-developer-interview-transcript-2024javaspring-boothibernate-5cd7)
+- [Brute Force Attacks and CAPTCHA](https://dev.to/swayam_248/brute-force-attack-and-captcha-4cde)
+- [Load scripts in order with import&lpar;&rpar;, async and IIFE](https://dev.to/andrewelans/load-scripts-in-order-with-import-async-and-iife-5dci)
+- [Tailwind CSS for frontend teams: From settings to rules](https://dev.to/comento/tailwind-css-for-frontend-teams-from-settings-to-rules-46bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
