@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Used a jailbroken ChatGPT?: Share your story. 😲&quot;](https://dev.to/itsjp/used-a-jailbroken-chatgpt-share-your-story--1697)
-- [My First Mobile Game With Flutter](https://dev.to/terekhin/my-first-mobile-game-with-flutter-4k32)
-- [🚀 Exploring the Integration of Django with Machine Learning Models for Predictive Analytics in Web Applications](https://dev.to/jackmutech/exploring-the-integration-of-django-with-machine-learning-models-for-predictive-analytics-in-web-applications-5cph)
-- [Simplifying Hexagonal Architecture: Using Capabilities and Requirements for Better Code](https://dev.to/jaloplo/simplifying-hexagonal-architecture-using-capabilities-and-requirements-for-better-code-5aei)
-- [Understanding Angular Component Lifecycles](https://dev.to/dipakahirav/understanding-angular-component-lifecycles-i)
+- [How To Send Emails Using Cloud Functions, Firestore &amp; Firebase-Send-Email](https://dev.to/cp_nandani/how-to-send-emails-using-cloud-functions-firestore-firebase-send-email-4beg)
+- [angular cli version 17 new features required](https://dev.to/shashipandey100192/angular-cli-version-17-new-features-required-nlg)
+- [Mastering React Server Components and Server Actions: A Comprehensive Guide](https://dev.to/madeelchaudhary/mastering-react-server-components-and-server-actions-a-comprehensive-guide-3p6g)
+- [Deploying organization repo to Vercel with a hobby plan](https://dev.to/algoorgoal/deploying-organization-repo-to-vercel-with-a-hobby-plan-2f3h)
+- [Snowflake Interview Questions](https://dev.to/azhar_uddin/snowflake-interview-questions-3p71)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
