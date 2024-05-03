@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [May the Source Be With You, 2024!](https://dev.to/puppet/may-the-source-be-with-you-2024-4iep)
-- [Scheduling a BigQuery SQL script, using Apache Airflow, with an example](https://dev.to/rajun/scheduling-a-bigquery-sql-script-using-apache-airflow-with-an-example-10eb)
-- [Lucide Icons for VS Code [Unofficial]](https://dev.to/plsankar/lucide-icons-for-vs-code-unofficial-2dk2)
-- [How to install Ant Media Server on Ubuntu](https://dev.to/ugacomp/how-to-install-ant-media-server-on-ubuntu-390a)
-- [Data Ingestion in Snowflake with Google Cloud Storage - Part I](https://dev.to/rajdas2412/data-ingestion-in-snowflake-with-google-cloud-storage-part-i-1mip)
+- [Maximum Average Subarray I | LeetCode | Java](https://dev.to/tanujav/maximum-average-subarray-i-leetcode-java-2d2d)
+- [Sumérgete en la Nube: Como comenzar tu Cloud Journey](https://dev.to/aws-espanol/sumergete-en-la-nube-como-comenzar-tu-cloud-journey-3k4n)
+- [Understanding Variables in Ruby: A Comprehensive Guide](https://dev.to/abanoubmedhatseif/understanding-variables-in-ruby-a-comprehensive-guide-263o)
+- [What is the right way to do microservice ??](https://dev.to/bhaskardutta/what-is-the-right-way-to-do-microservice--3no9)
+- [Cracking the AWS Certified Database - Specialty Exam: My Tips and Tricks](https://dev.to/aws-builders/cracking-the-aws-certified-database-specialty-exam-my-tips-and-tricks-12b3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
