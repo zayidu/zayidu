@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS IAM — Identity and Access Management](https://dev.to/aws-builders/aws-iam-identity-and-access-management-8ph)
-- [System Design - Database Sharding &amp; Replication Strategies](https://dev.to/vineetaparodkar/system-design-database-sharding-jhp)
-- [Debugging](https://dev.to/paulike/debugging-44cg)
-- [System Design - Message Queues](https://dev.to/vineetaparodkar/system-design-message-queues-3i0m)
-- [Como é o AWS Community Builders](https://dev.to/aws-builders/como-e-o-aws-community-builders-598e)
+- [[ALPHA 0.1] Chat System Work](https://dev.to/khbc_remake/alpha-01-chat-system-work-3m2j)
+- [The refactors I did to stop my Jetpack Compose LazyColumn from constantly recomposing](https://dev.to/theplebdev/the-refactors-i-did-to-stop-my-jetpack-compose-lazycolumn-from-constantly-recomposing-57l0)
+- [Unlocking secure software distribution with Minder and GitHub Artifact Attestations](https://dev.to/ninfriendos1/unlocking-secure-software-distribution-with-minder-and-github-artifact-attestations-8l5)
+- [Difference between functional and nonfunctional testing](https://dev.to/karvendhan/difference-between-functional-and-nonfunctional-testing-83h)
+- [Machine Learning Models: Linear Regression](https://dev.to/jhalylm/machine-learning-models-linear-regression-56lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
