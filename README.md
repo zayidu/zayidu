@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[ALPHA 0.1] Chat System Work](https://dev.to/khbc_remake/alpha-01-chat-system-work-3m2j)
-- [The refactors I did to stop my Jetpack Compose LazyColumn from constantly recomposing](https://dev.to/theplebdev/the-refactors-i-did-to-stop-my-jetpack-compose-lazycolumn-from-constantly-recomposing-57l0)
-- [Unlocking secure software distribution with Minder and GitHub Artifact Attestations](https://dev.to/ninfriendos1/unlocking-secure-software-distribution-with-minder-and-github-artifact-attestations-8l5)
-- [Difference between functional and nonfunctional testing](https://dev.to/karvendhan/difference-between-functional-and-nonfunctional-testing-83h)
-- [Machine Learning Models: Linear Regression](https://dev.to/jhalylm/machine-learning-models-linear-regression-56lp)
+- [May the Source Be With You, 2024!](https://dev.to/puppet/may-the-source-be-with-you-2024-4iep)
+- [Scheduling a BigQuery SQL script, using Apache Airflow, with an example](https://dev.to/rajun/scheduling-a-bigquery-sql-script-using-apache-airflow-with-an-example-10eb)
+- [Lucide Icons for VS Code [Unofficial]](https://dev.to/plsankar/lucide-icons-for-vs-code-unofficial-2dk2)
+- [How to install Ant Media Server on Ubuntu](https://dev.to/ugacomp/how-to-install-ant-media-server-on-ubuntu-390a)
+- [Data Ingestion in Snowflake with Google Cloud Storage - Part I](https://dev.to/rajdas2412/data-ingestion-in-snowflake-with-google-cloud-storage-part-i-1mip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
