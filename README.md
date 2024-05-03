@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make a cool GitHub README.md](https://dev.to/zemerik/how-to-make-a-cool-github-readmemd-46dj)
-- [Discover the New Wave of Cosmos SDK Games for 2024](https://dev.to/zeeve/discover-the-new-wave-of-cosmos-sdk-games-for-2024-34on)
-- [My top VS Code Extensions for Front-End Development in 2024](https://dev.to/nattive/my-top-vs-code-extensions-for-front-end-development-in-2024-3lg5)
-- [Fellowship of Ethereum Magicians](https://dev.to/leena8686/fellowship-of-ethereum-magicians-10k7)
-- [Transform your Ideas into Apps with Android App Development Services](https://dev.to/dhruvjoshi9/transform-your-ideas-into-apps-with-android-app-development-services-h4f)
+- [Unlocking Geolocation Data: The Power of IP Address to Location APIs](https://dev.to/martinbaldwin127/unlocking-geolocation-data-the-power-of-ip-address-to-location-apis-35eb)
+- [Mastering Dataset Acquisition: A Comprehensive Guide](https://dev.to/rishabhjaincodes/mastering-dataset-acquisition-a-comprehensive-guide-e54)
+- [React Native - ScrollView not work on WebBrowser &lpar;Chrome&rpar; but on IOS Simulator work well](https://dev.to/nunosaa/react-native-scrollview-not-work-on-webbrowser-chrome-but-on-ios-simulator-work-well-2012)
+- [Financial Planning Strategies for a Successful Loyalty Program](https://dev.to/zinrelo/financial-planning-strategies-for-a-successful-loyalty-program-ai5)
+- [Making the Right Database Choice: NoSQL vs. Relational Databases](https://dev.to/yogini16/making-the-right-database-choice-nosql-vs-relational-databases-148d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
