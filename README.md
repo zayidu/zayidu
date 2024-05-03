@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Programmer&#39;s Mindset: How to Think Like a Programmer](https://dev.to/unclejessroth/unlocking-the-programmers-mindset-how-to-think-like-a-programmer-1djm)
-- [Do you have a &quot;Wait, that can&#39;t be right...&quot; moment?](https://dev.to/phalkmin/do-you-have-a-wait-that-cant-be-right-moment-49k8)
-- [Top 3 methods to filter a list in Python](https://dev.to/bybydev/top-3-methods-to-filter-a-list-in-python-19fe)
-- [Install Home brew in Mac M1/M2/M3](https://dev.to/khairunnaharnowrin/install-home-brew-in-mac-m1m2m3-mg)
-- [Exploring GitHub Repositories and Channels: Share Your Favorites!](https://dev.to/basel5001/exploring-github-repositories-and-channels-share-your-favorites-3nm)
+- [Unlocking Performance: The Power of Caching with Redis](https://dev.to/srishtikprasad/unlocking-performance-the-power-of-caching-with-redis-56m5)
+- [Day in the Life of a Microsoft Software Engineer | Vancouver 2024](https://dev.to/dustinbrett/day-in-the-life-of-a-microsoft-software-engineer-vancouver-2024-pon)
+- [Install Java in macbook M1/M2/M3](https://dev.to/khairunnaharnowrin/install-java-in-macbook-m1m2m3-58fd)
+- [Tutorial de Mkdocs](https://dev.to/acoronadoc/tutorial-de-mkdocs-3c09)
+- [Unveiling the Art of JavaScript Debugging: Techniques Every Developer Should Know](https://dev.to/sharathchandark/unveiling-the-art-of-javascript-debugging-techniques-every-developer-should-know-2176)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
