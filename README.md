@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Partitioning vs. Sharding vs. Replication](https://dev.to/muhammetyasinarli/database-partitioning-vs-sharding-vs-replication-2bbm)
-- [Swift 101: What&#39;s Swift?](https://dev.to/silviaespanagil/swift-101-whats-swift-1p10)
-- [Latest Newsletter: Incredible Devs &lpar;Issue #162&rpar;](https://dev.to/mjgs/latest-newsletter-incredible-devs-issue-162-1hm8)
-- [Unlocking Profit Potential: Building an Arbitrage Betting Client with Hexagonal Architecture in Golang](https://dev.to/robinmuhia/unlocking-profit-potential-building-an-arbitrage-betting-client-with-hexagonal-architecture-in-golang-2930)
-- [My Microsoft Generative AI Journey](https://dev.to/olatunjiayodel9/my-microsoft-generative-ai-journey-3pi9)
+- [API Keys vs. Tokens: They&#39;re Not the Same Thing!](https://dev.to/codeparrot/api-keys-vs-tokens-theyre-not-the-same-thing-41fi)
+- [Quick Accessibility: Burts Bees &amp; large target size](https://dev.to/mahzeb/quick-accessibility-burts-bees-large-target-size-3dhn)
+- [Passos que usei para definir uma ferramenta para um portal do desenvolvedor com ChatGPT, engenharia de prompt](https://dev.to/biosbug/passos-que-usei-para-definir-uma-ferramenta-para-um-portal-do-desenvolvedor-com-chatgpt-engenharia-de-prompt-5hcl)
+- [COMMENT RÉSOUDRE L’ERREUR 403 DE GIT ?](https://dev.to/tacite243/comment-resoudre-lerreur-403-git--1la4)
+- [🏉 Looking for Rugby Betting Tips? Any suggestions on how to use the SportDevs API for rugby predictions?](https://dev.to/nicosleonardo9/looking-for-rugby-betting-tips-any-suggestions-on-how-to-use-the-sportdevs-api-for-rugby-predictions-o7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
