@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1ca9)
-- [Keeping Your Microservices Safe: Best Practices and Patterns](https://dev.to/shivankshuklaa/keeping-your-microservices-safe-best-practices-and-patterns-di3)
-- [Access your Synology NAS with a custom domain on Bunny.net &lpar;DDNS&rpar;](https://dev.to/steeve/access-your-synology-nas-with-a-custom-domain-on-bunnynet-ddns-18ge)
-- [PDF Generation using QuestPDF in ASP.NET Core — Part 1](https://dev.to/olufemi_oyedepo/pdf-generation-using-questpdf-in-aspnet-core-part-1-2a34)
-- [What the heck do y&#39;all do?](https://dev.to/francheese9289/what-do-you-do-for-work-igh)
+- [please stop using git checkout! Learn to use the right git commands](https://dev.to/ccoveille/please-stop-using-git-checkout-learn-to-use-the-right-git-commands-an0)
+- [React Native Kakao &lpar;Good example for Monorepo, New/Old Arch, Expo, Web supporting package&rpar;](https://dev.to/mym0404/react-native-kakao-good-example-for-monorepo-newold-arch-expo-web-supporting-package-2h17)
+- [Conquering the Container: A Guide to Dockerizing Your Angular and Flask App](https://dev.to/ramkumarmrj/conquering-the-container-a-guide-to-dockerizing-your-angular-and-flask-app-3lce)
+- [Basic Sorting Algorithms](https://dev.to/m__mdy__m/basic-sorting-5h20)
+- [How to return a BIM360 based model&#39;s custom attributes and description](https://dev.to/01u/how-to-return-a-bim360-based-models-custom-attributes-and-description-134h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
