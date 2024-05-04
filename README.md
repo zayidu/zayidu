@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Song For StarWars Day](https://dev.to/montyharper/a-song-for-starwars-day-jdp)
-- [🐣Why idempotence was important to DevOps](https://dev.to/startpher/why-idempotence-was-important-to-devops-2jn3)
-- [&quot;Mind Meets Machine: The Evolution of AI through Cognitive Psychology&quot;](https://dev.to/viseshagarwal/mind-meets-machine-the-evolution-of-ai-through-cognitive-psychology-mpe)
-- [Junit Badge For Git Project](https://dev.to/vishalmysore/junit-badge-for-git-project-2ak7)
-- [Add a Custom Font to Your XCode Project](https://dev.to/leonardsangoroh/add-a-custom-font-to-your-xcode-project-np2)
+- [React Reconciliation](https://dev.to/gbengacode/react-reconciliation-59am)
+- [How to Resize Images Efficiently](https://dev.to/msmith99994/how-to-resize-images-efficiently-3ngg)
+- [Getting started with Typescript Generics 🚀](https://dev.to/pacholoamit/getting-started-with-typescript-generics-40a)
+- [Configure Renovate to handle nuspec files](https://dev.to/asimmon/configure-renovate-to-handle-nuspec-files-4c79)
+- [Configure Renovate to update preview versions of NuGet packages](https://dev.to/asimmon/configure-renovate-to-update-preview-versions-of-nuget-packages-1lch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
