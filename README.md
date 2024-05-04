@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Images in eCommerce](https://dev.to/msmith99994/the-power-of-images-in-ecommerce-h9k)
-- [React Reconciliation](https://dev.to/gbengacode/react-reconciliation-59am)
-- [How to Resize Images Efficiently](https://dev.to/msmith99994/how-to-resize-images-efficiently-3ngg)
-- [Getting started with Typescript Generics 🚀](https://dev.to/pacholoamit/getting-started-with-typescript-generics-40a)
-- [Configure Renovate to handle nuspec files](https://dev.to/asimmon/configure-renovate-to-handle-nuspec-files-4c79)
+- [How Javascript makes web pages more interactive](https://dev.to/a_a_hajji/how-javascript-makes-web-pages-more-interactive-55kb)
+- [Angular Animations Tutorial: Adding Flexibility with Params](https://dev.to/brianmtreese/angular-animations-tutorial-adding-flexibility-with-params-34j0)
+- [How to implement JWT in Laravel API](https://dev.to/germanlozickyj/how-to-implement-jwt-in-laravel-api-4590)
+- [Git is Elegant](https://dev.to/ronnewcomb/git-is-elegant-b6h)
+- [A Powerful Git Trick No One Knows About](https://dev.to/moozzyk/a-powerful-git-trick-no-one-knows-about-297d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
