@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Interactive Book is Available!](https://dev.to/mcsee/interactive-book-is-available-4398)
-- [DORA Metrics Dashboard: How to Build One, With Examples](https://dev.to/shohams/dora-metrics-dashboard-how-to-build-one-with-examples-20k6)
-- [Reflections and Recommendations: My Journey with the Nexascale Cloud Mentorship Program](https://dev.to/samty234/reflections-and-recommendations-my-journey-with-the-nexascale-cloud-mentorship-program-4h0e)
-- [Future Plano](https://dev.to/tarf/future-plano-2bl7)
-- [What Are Some of Your Favourite Visual Studio Code Extensions?](https://dev.to/ifrah/what-are-some-of-your-favourite-visual-studio-code-extensions-5437)
+- [Advancing in Web Application Security: Exploring Advanced Login Security and Cache Control](https://dev.to/vishalwaje/advancing-in-web-application-security-exploring-advanced-login-security-and-cache-control-hkj)
+- [Building a Portfolio: Showcasing Your Projects and Skills to Stand Out in the Job Market](https://dev.to/syedbalkhi/building-a-portfolio-showcasing-your-projects-and-skills-to-stand-out-in-the-job-market-51l5)
+- [I have been researching the best tools a dev should build. Here’s the top 5.](https://dev.to/mattmerrick/i-have-been-researching-the-best-tools-a-dev-should-build-heres-the-top-5-f80)
+- [A Fun Guide to Using Framer Motion to Liven Up Your React App](https://dev.to/tomiloba2/a-fun-guide-to-using-framer-motion-to-liven-up-your-react-app-51n4)
+- [Learning AWS Day by Day - Day 55 - Amazon SQS Standard Queue](https://dev.to/rksalo88/learning-aws-day-by-day-day-55-amazon-sqs-standard-queue-455h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
