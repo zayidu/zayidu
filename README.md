@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [please stop using git checkout! Learn to use the right git commands](https://dev.to/ccoveille/please-stop-using-git-checkout-learn-to-use-the-right-git-commands-an0)
-- [React Native Kakao &lpar;Good example for Monorepo, New/Old Arch, Expo, Web supporting package&rpar;](https://dev.to/mym0404/react-native-kakao-good-example-for-monorepo-newold-arch-expo-web-supporting-package-2h17)
-- [Conquering the Container: A Guide to Dockerizing Your Angular and Flask App](https://dev.to/ramkumarmrj/conquering-the-container-a-guide-to-dockerizing-your-angular-and-flask-app-3lce)
-- [Basic Sorting Algorithms](https://dev.to/m__mdy__m/basic-sorting-5h20)
-- [How to return a BIM360 based model&#39;s custom attributes and description](https://dev.to/01u/how-to-return-a-bim360-based-models-custom-attributes-and-description-134h)
+- [The Java Developer’s Library: Top Books to Elevate Your Coding Skills](https://dev.to/dbillion/the-java-developers-library-top-books-to-elevate-your-coding-skills-3oif)
+- [Diagnóstico de AWS Lambda: Guía para detectar y solucionar problemas de rendimiento](https://dev.to/aws-espanol/eleva-el-rendimiento-de-aws-lambda-7il)
+- [Part 5: Building a Simple Web Server with Node.js](https://dev.to/dipakahirav/part-5-building-a-simple-web-server-with-nodejs-14em)
+- [NexaScale Mentorship](https://dev.to/tbello/nexascale-mentorship-1fm4)
+- [A Journey in DevOps Education](https://dev.to/sageiyke/a-journey-in-devops-education-4koh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
