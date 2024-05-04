@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Go Chat Application in under 100 lines of code - Part 1](https://dev.to/gopher-wizards/simple-go-chat-application-in-under-100-lines-of-code-part-1-2i9)
-- [Unlocking Efficiency: The Significance of Technical Documentation](https://dev.to/hr21don/unlocking-efficiency-the-significance-of-technical-documentation-5d6f)
-- [Microfrontends and the challenges involved](https://dev.to/mpratapdev/microfrontends-and-the-challenges-involved-239j)
-- [5 Tips to improve your logic building in Programming.](https://dev.to/kachkolasa/5-tips-to-improve-your-logic-building-in-programming-42oj)
-- [Testable Apps: Why You Should Consider The Composable Architecture](https://dev.to/orenidan/testable-apps-why-you-should-consider-the-composable-architecture-2oi4)
+- [Database Partitioning vs. Sharding vs. Replication](https://dev.to/muhammetyasinarli/database-partitioning-vs-sharding-vs-replication-2bbm)
+- [Swift 101: What&#39;s Swift?](https://dev.to/silviaespanagil/swift-101-whats-swift-1p10)
+- [Latest Newsletter: Incredible Devs &lpar;Issue #162&rpar;](https://dev.to/mjgs/latest-newsletter-incredible-devs-issue-162-1hm8)
+- [Unlocking Profit Potential: Building an Arbitrage Betting Client with Hexagonal Architecture in Golang](https://dev.to/robinmuhia/unlocking-profit-potential-building-an-arbitrage-betting-client-with-hexagonal-architecture-in-golang-2930)
+- [My Microsoft Generative AI Journey](https://dev.to/olatunjiayodel9/my-microsoft-generative-ai-journey-3pi9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
