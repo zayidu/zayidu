@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop tracking changes to certain files in Git](https://dev.to/benmatselby/stop-tracking-changes-to-certain-files-in-git-24g6)
-- [Exploring the Realm of Java Encryption: Types and Techniques](https://dev.to/dbillion/exploring-the-realm-of-java-encryption-types-and-techniques-20io)
-- [Using Redpanda with OpenTelemetry and Grafana for real-time event monitoring](https://dev.to/akinfiyinfoluwa/using-redpanda-with-opentelemetry-and-grafana-for-real-time-event-monitoring-li6)
-- [Create and Deploy AWS EKS Cluster with Terraform.](https://dev.to/swapi123/create-and-deploy-aws-eks-cluster-with-terraform-41h3)
-- [Started working on a new Travel-based project](https://dev.to/ayush2390/started-working-on-a-new-travel-based-project-3hia)
+- [Simple Go Chat Application in under 100 lines of code - Part 1](https://dev.to/gopher-wizards/simple-go-chat-application-in-under-100-lines-of-code-part-1-2i9)
+- [Unlocking Efficiency: The Significance of Technical Documentation](https://dev.to/hr21don/unlocking-efficiency-the-significance-of-technical-documentation-5d6f)
+- [Microfrontends and the challenges involved](https://dev.to/mpratapdev/microfrontends-and-the-challenges-involved-239j)
+- [5 Tips to improve your logic building in Programming.](https://dev.to/kachkolasa/5-tips-to-improve-your-logic-building-in-programming-42oj)
+- [Testable Apps: Why You Should Consider The Composable Architecture](https://dev.to/orenidan/testable-apps-why-you-should-consider-the-composable-architecture-2oi4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
