@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop tracking changes to certain files in Git](https://dev.to/benmatselby/stop-tracking-changes-to-certain-files-in-git-24g6)
+- [Exploring the Realm of Java Encryption: Types and Techniques](https://dev.to/dbillion/exploring-the-realm-of-java-encryption-types-and-techniques-20io)
+- [Using Redpanda with OpenTelemetry and Grafana for real-time event monitoring](https://dev.to/akinfiyinfoluwa/using-redpanda-with-opentelemetry-and-grafana-for-real-time-event-monitoring-li6)
+- [Create and Deploy AWS EKS Cluster with Terraform.](https://dev.to/swapi123/create-and-deploy-aws-eks-cluster-with-terraform-41h3)
 - [Started working on a new Travel-based project](https://dev.to/ayush2390/started-working-on-a-new-travel-based-project-3hia)
-- [Best Practices for Setting Up Bulk Email SMTP Server](https://dev.to/brettjhonson01/best-practices-for-setting-up-bulk-email-smtp-server-2pkp)
-- [Spill the Space Tea on Your Star Wars Faves 🌌🍵](https://dev.to/devteam/spill-the-space-tea-on-your-star-wars-faves-7fi)
-- [Git commit helper: add emojis to your commits](https://dev.to/ccoveille/git-commit-helper-add-emojis-to-your-commits-1aka)
-- [Getting Things Done &lpar;GTD&rpar; Method: A Complete Guide](https://dev.to/productivity/getting-things-done-gtd-method-a-complete-guide-3nfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
