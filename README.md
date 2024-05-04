@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Java Developer’s Library: Top Books to Elevate Your Coding Skills](https://dev.to/dbillion/the-java-developers-library-top-books-to-elevate-your-coding-skills-3oif)
-- [Diagnóstico de AWS Lambda: Guía para detectar y solucionar problemas de rendimiento](https://dev.to/aws-espanol/eleva-el-rendimiento-de-aws-lambda-7il)
-- [Part 5: Building a Simple Web Server with Node.js](https://dev.to/dipakahirav/part-5-building-a-simple-web-server-with-nodejs-14em)
-- [NexaScale Mentorship](https://dev.to/tbello/nexascale-mentorship-1fm4)
-- [A Journey in DevOps Education](https://dev.to/sageiyke/a-journey-in-devops-education-4koh)
+- [Interactive Book is Available!](https://dev.to/mcsee/interactive-book-is-available-4398)
+- [DORA Metrics Dashboard: How to Build One, With Examples](https://dev.to/shohams/dora-metrics-dashboard-how-to-build-one-with-examples-20k6)
+- [Reflections and Recommendations: My Journey with the Nexascale Cloud Mentorship Program](https://dev.to/samty234/reflections-and-recommendations-my-journey-with-the-nexascale-cloud-mentorship-program-4h0e)
+- [Future Plano](https://dev.to/tarf/future-plano-2bl7)
+- [What Are Some of Your Favourite Visual Studio Code Extensions?](https://dev.to/ifrah/what-are-some-of-your-favourite-visual-studio-code-extensions-5437)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
