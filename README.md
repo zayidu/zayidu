@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [A Song For StarWars Day](https://dev.to/montyharper/a-song-for-starwars-day-jdp)
+- [🐣Why idempotence was important to DevOps](https://dev.to/startpher/why-idempotence-was-important-to-devops-2jn3)
+- [&quot;Mind Meets Machine: The Evolution of AI through Cognitive Psychology&quot;](https://dev.to/viseshagarwal/mind-meets-machine-the-evolution-of-ai-through-cognitive-psychology-mpe)
+- [Junit Badge For Git Project](https://dev.to/vishalmysore/junit-badge-for-git-project-2ak7)
 - [Add a Custom Font to Your XCode Project](https://dev.to/leonardsangoroh/add-a-custom-font-to-your-xcode-project-np2)
-- [FIRST Principles and Test Smells 🚀](https://dev.to/htamagnus/first-principles-and-test-smells-54c6)
-- [Netlify Dynamic Site Challenge Submission: Dynamic Image Gallery with Netlify Image CDN Visual Feast](https://dev.to/suhainafathimam/netlify-dynamic-site-challenge-submission-visual-feast-photo-gallery-4c9)
-- [Lidando com valores negativos no JS](https://dev.to/terminalcoffee/lidando-com-valores-negativos-no-js-27cc)
-- [Clinical Management System](https://dev.to/liong/clinical-management-system-25i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
