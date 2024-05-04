@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [study linux command](https://dev.to/zhangwuji/study-linux-command-2hc9)
-- [study from node.js](https://dev.to/zhangwuji/study-from-nodejs-4ma0)
-- [Configure the SharePoint Online indexer](https://dev.to/karleeov/configure-the-sharepoint-online-indexer-5he7)
-- [Um Experimento Social Com Soft Skills](https://dev.to/andrel/um-experimento-social-com-soft-skills-328f)
-- [Remotely Access Your Home Assistant Instance Securely](https://dev.to/hkamran/remotely-access-your-home-assistant-instance-securely-38la)
+- [No Code Website Builder](https://dev.to/vunguyenanh20/no-code-website-builder-hp8)
+- [LangChain: LLMs with Models, Prompts, Parsers](https://dev.to/rutamstwt/langchain-llms-with-models-prompts-parsers-4l1n)
+- [Clean Code – Anotações interessantes sobre os capítulos de 12 à 14](https://dev.to/bealou/clean-code-anotacoes-interessantes-sobre-os-capitulos-de-12-a-14-3304)
+- [The joy of the Service pattern and Dependency inversion](https://dev.to/cristovoxdgm/the-joy-of-the-service-pattern-and-dependency-inversion-5a7n)
+- [Encrypting with Block Ciphers: A Guide to AES, CBC, and More](https://dev.to/markyu/encrypting-with-block-ciphers-a-guide-to-aes-cbc-and-more-31gn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
