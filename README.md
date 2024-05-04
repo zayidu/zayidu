@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advancing in Web Application Security: Exploring Advanced Login Security and Cache Control](https://dev.to/vishalwaje/advancing-in-web-application-security-exploring-advanced-login-security-and-cache-control-hkj)
-- [Building a Portfolio: Showcasing Your Projects and Skills to Stand Out in the Job Market](https://dev.to/syedbalkhi/building-a-portfolio-showcasing-your-projects-and-skills-to-stand-out-in-the-job-market-51l5)
-- [I have been researching the best tools a dev should build. Here’s the top 5.](https://dev.to/mattmerrick/i-have-been-researching-the-best-tools-a-dev-should-build-heres-the-top-5-f80)
-- [A Fun Guide to Using Framer Motion to Liven Up Your React App](https://dev.to/tomiloba2/a-fun-guide-to-using-framer-motion-to-liven-up-your-react-app-51n4)
-- [Learning AWS Day by Day - Day 55 - Amazon SQS Standard Queue](https://dev.to/rksalo88/learning-aws-day-by-day-day-55-amazon-sqs-standard-queue-455h)
+- [Add a Custom Font to Your XCode Project](https://dev.to/leonardsangoroh/add-a-custom-font-to-your-xcode-project-np2)
+- [FIRST Principles and Test Smells 🚀](https://dev.to/htamagnus/first-principles-and-test-smells-54c6)
+- [Netlify Dynamic Site Challenge Submission: Dynamic Image Gallery with Netlify Image CDN Visual Feast](https://dev.to/suhainafathimam/netlify-dynamic-site-challenge-submission-visual-feast-photo-gallery-4c9)
+- [Lidando com valores negativos no JS](https://dev.to/terminalcoffee/lidando-com-valores-negativos-no-js-27cc)
+- [Clinical Management System](https://dev.to/liong/clinical-management-system-25i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
