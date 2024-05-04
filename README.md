@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [tRPC, gRPC, GraphQL or REST: Choosing the Right API Technology](https://dev.to/akki907/trpc-grpc-graphql-or-rest-choosing-the-right-api-technology-13p1)
-- [5 HTML Tags &amp; Attributes ที่ควรรู้สำหรับ SEO](https://dev.to/sonnavigator/5-html-tags-attributes-thiikhwrruusamhrab-seo-1e2d)
-- [Top 8 GitBook Alternatives to Consider in 2024 for API Documentation](https://dev.to/sh20raj/top-8-gitbook-alternatives-to-consider-in-2024-for-api-documentation-28pi)
-- [Typelevel Typescript: A cheat sheet](https://dev.to/eatyourabstractions/typelevel-typescript-a-cheat-sheet-2d80)
-- [Python: A SQLAlchemy Wrapper Component That Works With Both Flask and FastAPI Frameworks](https://dev.to/behainguyen/python-a-sqlalchemy-wrapper-component-that-works-with-both-flask-and-fastapi-frameworks-2bb9)
+- [Deploying Your First Application on Kubernetes: Step-by-Step Tutorial](https://dev.to/getambassador2024/deploying-your-first-application-on-kubernetes-step-by-step-tutorial-jb0)
+- [How to Use Http Request](https://dev.to/sukmarizki04/cara-penggunaan-http-request-4nkm)
+- [Default Interface Implementation or Mix-in design pattern in the C#](https://dev.to/szymonhalucha/default-interface-implementation-or-mix-in-design-pattern-in-the-c-12hi)
+- [[LeetCode] Concatenation of Array with Modular Arithmetic](https://dev.to/lada496/leetcode-concatenation-of-array-with-modular-arithmetic-1b3k)
+- [Implementing 3D Graphics in React](https://dev.to/markyu/implementing-3d-graphics-in-react-9mg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
