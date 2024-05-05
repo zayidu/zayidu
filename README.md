@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Personalized System Design Interview Prep for Engineering Managers](https://dev.to/hinsencamp/personalized-system-design-interview-prep-for-engineering-managers-447e)
-- [Introduction to APIs](https://dev.to/christopherchhim/introduction-to-apis-47g)
-- [5 BEST Git Commands](https://dev.to/jakeroggenbuck/5-best-git-commands-45kg)
-- [RESTful Routing](https://dev.to/heathertech/restful-routing-2g43)
-- [Symfony Station Communiqué — 3 May 2024. A look at Symfony, Drupal, PHP, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-3-may-2024-a-look-at-symfony-drupal-php-and-fediverse-news-2mmj)
+- [Impress Recruiters and Upskill using these 10 Unconventional Software Engineering Projects](https://dev.to/wewake-dev/impress-recruiters-and-upskill-using-these-10-unconventional-software-engineering-projects-4mpo)
+- [PROJECT ON AZURE AD&lpar;MICROSOFT ENTRA ID&rpar;](https://dev.to/johnshakor/project-on-azure-admicrosoft-entra-id-4eni)
+- [My new open source project](https://dev.to/ariyoaresa/my-new-open-source-project-4l21)
+- [What Happens When You Type https://www.google.com](https://dev.to/azzazakl/what-happens-when-you-type-httpswwwgooglecom-3hfo)
+- [Creating a practice test builder with OctoAI Json mode](https://dev.to/isaacdyor/creating-a-practice-test-builder-with-octoai-json-mode-e5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
