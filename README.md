@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a singleton class in Java? And How to implement a singleton class?](https://dev.to/nikhilxd/what-is-a-singleton-class-in-java-and-how-to-implement-a-singleton-class-30gg)
-- [Mastering Regular Expressions in Java](https://dev.to/dbillion/mastering-regular-expressions-in-java-36k1)
-- [How Kubernetes is Revolutionizing the AI World: Managing Workloads with Ease](https://dev.to/mamtaj/how-kubernetes-is-revolutionizing-the-ai-world-managing-workloads-with-ease-1oa)
-- [Understanding Java Processes](https://dev.to/dbillion/understanding-java-processes-53j0)
-- [What is Manual Testing/Benefits and drawbacks with some examples](https://dev.to/1234/what-is-manual-testingbenefits-and-drawbacks-with-some-examples-5bmd)
+- [Never Lose Changes Again: Mastering Git Reflog for Developers](https://dev.to/ivan-klimenkov/never-lose-changes-again-mastering-git-reflog-for-developers-435l)
+- [Simplify API Testing with Postbot: Postman&#39;s AI Assistant](https://dev.to/lengochoangminh/simplify-api-testing-with-postbot-postmans-ai-assistant-56b)
+- [usememo &amp; useCallback hook](https://dev.to/programmerpramod0296/usememo-usecallback-hook-3ic)
+- [Update! Interactive description of iptables tables](https://dev.to/zersh01/update-interactive-description-of-iptables-tables-22o3)
+- [&quot;Leveling Up: From HTML Lists to CSS Counters](https://dev.to/harshitads44217/leveling-up-from-html-lists-to-css-counters-33ad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
