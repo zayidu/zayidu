@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis Pipeline: The Way of Sending Redis Commands in One Shot](https://dev.to/nghtslvr/redis-pipeline-the-way-of-sending-redis-commands-in-one-shot-2j0)
-- [Simplifying Keycloak Configuration with Terraform and Terragrunt](https://dev.to/mohammedalics/simplifying-keycloak-configuration-with-terraform-and-terragrunt-3ohm)
-- [OpenUI - One prompt UI Generation](https://dev.to/kiranuknow/openui-one-prompt-ui-generation-3hf9)
-- [LE DEVELOPPEMENT DES SITES WEB DYNAMIQUES EN MVC](https://dev.to/ekramfl/le-developpementdes-sites-webdynamiques-en-mvc-2kan)
-- [&quot;React &quot; Starting a new project](https://dev.to/rockyueno0223/react-starting-a-new-project-4h2o)
+- [The unification of Microservice, DB, OOP, FP and Warehouse/Workshop Model](https://dev.to/lincpa/the-unification-of-microservice-db-oop-fp-and-warehouseworkshop-model-bp)
+- [Installing and Configuring MySQL on Arch Linux](https://dev.to/tinapyp/installing-and-configuring-mysql-on-arch-linux-11m1)
+- [Guides to the Web Performance - HTML + CSS - For Beginners](https://dev.to/dev188007/guides-to-the-web-performance-html-css-for-beginners-55b2)
+- [Server-Sent Event: One Directed Data Transmission Server to Client](https://dev.to/nghtslvr/server-sent-event-one-directed-data-transmission-server-to-client-4ef4)
+- [translation is not localization](https://dev.to/onwritinggames/translation-is-not-localization-5b53)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
