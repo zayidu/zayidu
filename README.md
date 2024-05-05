@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Construyendo un asistente genAI de WhatsApp con Amazon Bedrock](https://dev.to/aws-espanol/construyendo-un-asistente-genai-de-whatsapp-con-amazon-bedrock-2hid)
-- [No es por ti patrones de diseño, es por el performance: Abstracciones de un emulador de la NES con Typescript](https://dev.to/scoldev/no-es-por-ti-patrones-de-diseno-es-por-el-performance-abstracciones-de-un-emulador-de-la-nes-con-typescript-25f8)
-- [A História do Linux [0/7]: As Primeiras Linguagens de Programação e a Origem dos Primeiros Sistemas Operacionais](https://dev.to/reinanbr/a-historia-do-linux-07-as-primeiras-linguagens-de-programacao-e-a-origem-dos-primeiros-sistemas-operacionais-32c8)
-- [Running a Phaser Game on Mobile Devices](https://dev.to/ceceliacreates/running-a-phaser-game-on-mobile-devices-34l4)
-- [Working with Scenes and Data in Phaser](https://dev.to/ceceliacreates/working-with-scenes-and-data-in-phaser-2pn4)
+- [study umi of mutiple environment](https://dev.to/zhangwuji/study-umi-of-mutiple-environment-2l7p)
+- [Bento catalog web](https://dev.to/miguelrodriguezp99/bento-catalog-web-35le)
+- [Construyendo un asistente genAI de WhatsApp con Amazon Bedrock y Claude 3](https://dev.to/aws-espanol/construyendo-un-asistente-genai-de-whatsapp-con-amazon-bedrock-y-claude-3-1322)
+- [The Rise of AI-Powered Development Tools: Revolutionizing How We Code](https://dev.to/mktheitguy/the-rise-of-ai-powered-development-tools-revolutionizing-how-we-code-3lgp)
+- [Como Usar o MobX em um Projeto React Native](https://dev.to/devteles/como-usar-o-mobx-em-um-projeto-react-native-48jn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
