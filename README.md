@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 4: Logic](https://dev.to/codernko/day-4-logic-57kf)
 - [study umi of mutiple environment](https://dev.to/zhangwuji/study-umi-of-mutiple-environment-2l7p)
 - [Bento catalog web](https://dev.to/miguelrodriguezp99/bento-catalog-web-35le)
 - [Construyendo un asistente genAI de WhatsApp con Amazon Bedrock y Claude 3](https://dev.to/aws-espanol/construyendo-un-asistente-genai-de-whatsapp-con-amazon-bedrock-y-claude-3-1322)
 - [The Rise of AI-Powered Development Tools: Revolutionizing How We Code](https://dev.to/mktheitguy/the-rise-of-ai-powered-development-tools-revolutionizing-how-we-code-3lgp)
-- [Como Usar o MobX em um Projeto React Native](https://dev.to/devteles/como-usar-o-mobx-em-um-projeto-react-native-48jn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
