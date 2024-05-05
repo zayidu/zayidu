@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Impress Recruiters and Upskill using these 10 Unconventional Software Engineering Projects](https://dev.to/wewake-dev/impress-recruiters-and-upskill-using-these-10-unconventional-software-engineering-projects-4mpo)
-- [PROJECT ON AZURE AD&lpar;MICROSOFT ENTRA ID&rpar;](https://dev.to/johnshakor/project-on-azure-admicrosoft-entra-id-4eni)
-- [My new open source project](https://dev.to/ariyoaresa/my-new-open-source-project-4l21)
-- [What Happens When You Type https://www.google.com](https://dev.to/azzazakl/what-happens-when-you-type-httpswwwgooglecom-3hfo)
-- [Creating a practice test builder with OctoAI Json mode](https://dev.to/isaacdyor/creating-a-practice-test-builder-with-octoai-json-mode-e5n)
+- [How to Market Developer Tools](https://dev.to/jeffmorhous/how-to-market-developer-tools-20f1)
+- [Smoke for pseudo 3d arcade](https://dev.to/bileyg/smoke-for-pseudo-3d-arcade-2ine)
+- [How to make ESLint and Prettier work together? 🛠️](https://dev.to/rgolawski/how-to-make-eslint-and-prettier-work-together-2i5g)
+- [#1544. Make The String Great](https://dev.to/karleb/1544-make-the-string-great-5co0)
+- [I&#39;ve made game engine &lpar;I think&rpar;](https://dev.to/larcefox/ive-made-game-engine-i-think-36lj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
