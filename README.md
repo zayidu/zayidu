@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Les premiers pas dans le monde du Web : Guide de programmation pour débutants](https://dev.to/patricekalwira/les-premiers-pas-dans-le-monde-du-web-guide-de-programmation-pour-debutants-39o8)
-- [Les premiers pas dans le monde du Web : Guide de programmation pour débutants](https://dev.to/patricekalwira/les-premiers-pas-dans-le-monde-du-web-guide-de-programmation-pour-debutants-1db6)
-- [React 19 introduces Component Rendering with the Magic of &quot;use&quot;!](https://dev.to/respect17/react-19-introduces-component-rendering-with-the-magic-of-use-2cah)
-- [ASP.NET 8 - Authentication and Authorization in 7 steps.](https://dev.to/vinicius_estevam/aspnet-8-authentication-and-authorization-3426)
-- [Unlocking the Power of Python: Why It&#39;s Your Ultimate Programming Partner](https://dev.to/naveendongrecode/unlocking-the-power-of-python-why-its-your-ultimate-programming-partner-5gn3)
+- [Zero Shot Text Classification Under the hood](https://dev.to/abderrahimal/zero-shot-text-classification-under-the-hood-3h19)
+- [[HTB] Machine - Lame](https://dev.to/neiwad_/htb-machine-lame-12o6)
+- [Journey to the centre of CPU: Building an ALU](https://dev.to/ishar19/journey-to-the-centre-of-cpu-building-an-alu-1dd7)
+- [Creatin session.sig using sessionID in oidc provider](https://dev.to/vimal_adithan/creatin-sessionsig-using-sessionid-in-oidc-provider-5f35)
+- [Common Table Expressions &lpar;CTEs&rpar; in SQL](https://dev.to/johnkyalo/common-table-expressions-ctes-in-sql-5ba1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
