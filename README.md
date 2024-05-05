@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero Shot Text Classification Under the hood](https://dev.to/abderrahimal/zero-shot-text-classification-under-the-hood-3h19)
-- [[HTB] Machine - Lame](https://dev.to/neiwad_/htb-machine-lame-12o6)
-- [Journey to the centre of CPU: Building an ALU](https://dev.to/ishar19/journey-to-the-centre-of-cpu-building-an-alu-1dd7)
-- [Creatin session.sig using sessionID in oidc provider](https://dev.to/vimal_adithan/creatin-sessionsig-using-sessionid-in-oidc-provider-5f35)
-- [Common Table Expressions &lpar;CTEs&rpar; in SQL](https://dev.to/johnkyalo/common-table-expressions-ctes-in-sql-5ba1)
+- [Personalized System Design Interview Prep for Engineering Managers](https://dev.to/hinsencamp/personalized-system-design-interview-prep-for-engineering-managers-447e)
+- [Introduction to APIs](https://dev.to/christopherchhim/introduction-to-apis-47g)
+- [5 BEST Git Commands](https://dev.to/jakeroggenbuck/5-best-git-commands-45kg)
+- [RESTful Routing](https://dev.to/heathertech/restful-routing-2g43)
+- [Symfony Station Communiqué — 3 May 2024. A look at Symfony, Drupal, PHP, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-3-may-2024-a-look-at-symfony-drupal-php-and-fediverse-news-2mmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
