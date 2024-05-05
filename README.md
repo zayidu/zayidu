@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I MADE A GAME IN SCRATCH](https://dev.to/dino2328/i-made-a-game-in-scratch-1oba)
-- [Real-time public communities](https://dev.to/irereemmy/real-time-public-communities-21ng)
-- [Angular Inputs and Single Source of Truth](https://dev.to/oz/angular-inputs-and-single-source-of-truth-4kog)
-- [Arduino un pas en electronique, un pas en informatique &lpar;Une passerelle entre l&#39;électronique et l&#39;informatique&rpar;](https://dev.to/birego/arduino-un-pas-en-electronique-un-pas-en-informatique-une-passerelle-entre-lelectronique-et-linformatique-41d5)
-- [Eat That Frog Method: The Ultimate Guide to Boosting Productivity](https://dev.to/productivity/eat-that-frog-method-the-ultimate-guide-to-boosting-productivity-243o)
+- [Análise barragens - parte 2](https://dev.to/devsnorte/analise-barragens-parte-2-39dm)
+- [Launch your SaaS faster with OneMix by SaaS King](https://dev.to/adikumarsaroj/launch-your-saas-faster-with-onemix-by-saas-king-27dn)
+- [Everything You need to know about React 19](https://dev.to/samaghapour/everything-you-need-to-know-about-react-19-4o97)
+- [Understanding when to cache your APIs](https://dev.to/sowmenappd/understanding-when-to-cache-your-apis-2m32)
+- [SSH Raspberry Pi via Cell Phone](https://dev.to/shilleh/ssh-raspberry-pi-via-cell-phone-329p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
