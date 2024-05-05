@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Flutter by creating your first Flutter app!](https://dev.to/svprdga/learn-flutter-by-creating-your-first-flutter-app-gfb)
-- [Seeking advice](https://dev.to/j0hanthemoonlightcoder/seeking-advice-4jme)
-- [Image slideshows are boring. Let&#39;s create cubes.](https://dev.to/sarahokolo/image-slideshows-are-boring-lets-create-cubes-593b)
-- [The Document Object Model](https://dev.to/thatohatsi880/the-document-object-model-4dk8)
-- [Transforming AI Concepts into Marketable Realities](https://dev.to/dev3l/transforming-ai-concepts-into-marketable-realities-1opf)
+- [Simplify PDF Generation in Node.js with html-to-pdf-pup](https://dev.to/aytidadev/simplify-pdf-generation-in-nodejs-with-html-to-pdf-pup-4mep)
+- [Introducing Jan](https://dev.to/raphiki/introducing-jan-38b9)
+- [Ketch — Android File Downloader Library](https://dev.to/khushpanchal123/ketch-android-file-downloader-library-4f3p)
+- [Building RESTful APIs: Exploring CRUD Operations, Postman, JDBC, and Media Types](https://dev.to/vishalwaje/building-restful-apis-exploring-crud-operations-postman-jdbc-and-media-types-f23)
+- [Learning AWS Day by Day — Day 56 — Amazon SQS — FIFO queues](https://dev.to/rksalo88/learning-aws-day-by-day-day-56-amazon-sqs-fifo-queues-1kfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
