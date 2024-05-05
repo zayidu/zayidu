@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamically Generating Images from HTML/CSS Templates with Custom Data](https://dev.to/utshodeytech/dynamically-generating-images-from-htmlcss-templates-with-custom-data-52c0)
-- [Introducing a Custom Operator for Unified Management of Kubernetes Tools](https://dev.to/kkb0318/introducing-a-custom-operator-for-unified-management-of-kubernetes-tools-3ocg)
-- [Migrating Next.js App to GO + Templ &amp; HTMX](https://dev.to/mrmissx/migrating-nextjs-app-to-go-x-templ-x-htmx-252p)
-- [Do we have here a developers who created project and getting money?](https://dev.to/alexanderlamdan/do-we-have-here-a-developers-who-created-project-and-getting-money-3359)
-- [JSON: What is it and How to Use It?](https://dev.to/tahsinsoyak/json-what-is-it-and-how-to-use-it-3cj5)
+- [What is a singleton class in Java? And How to implement a singleton class?](https://dev.to/nikhilxd/what-is-a-singleton-class-in-java-and-how-to-implement-a-singleton-class-30gg)
+- [Mastering Regular Expressions in Java](https://dev.to/dbillion/mastering-regular-expressions-in-java-36k1)
+- [How Kubernetes is Revolutionizing the AI World: Managing Workloads with Ease](https://dev.to/mamtaj/how-kubernetes-is-revolutionizing-the-ai-world-managing-workloads-with-ease-1oa)
+- [Understanding Java Processes](https://dev.to/dbillion/understanding-java-processes-53j0)
+- [What is Manual Testing/Benefits and drawbacks with some examples](https://dev.to/1234/what-is-manual-testingbenefits-and-drawbacks-with-some-examples-5bmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
