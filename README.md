@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify PDF Generation in Node.js with html-to-pdf-pup](https://dev.to/aytidadev/simplify-pdf-generation-in-nodejs-with-html-to-pdf-pup-4mep)
-- [Introducing Jan](https://dev.to/raphiki/introducing-jan-38b9)
-- [Ketch — Android File Downloader Library](https://dev.to/khushpanchal123/ketch-android-file-downloader-library-4f3p)
-- [Building RESTful APIs: Exploring CRUD Operations, Postman, JDBC, and Media Types](https://dev.to/vishalwaje/building-restful-apis-exploring-crud-operations-postman-jdbc-and-media-types-f23)
-- [Learning AWS Day by Day — Day 56 — Amazon SQS — FIFO queues](https://dev.to/rksalo88/learning-aws-day-by-day-day-56-amazon-sqs-fifo-queues-1kfl)
+- [Les premiers pas dans le monde du Web : Guide de programmation pour débutants](https://dev.to/patricekalwira/les-premiers-pas-dans-le-monde-du-web-guide-de-programmation-pour-debutants-39o8)
+- [Les premiers pas dans le monde du Web : Guide de programmation pour débutants](https://dev.to/patricekalwira/les-premiers-pas-dans-le-monde-du-web-guide-de-programmation-pour-debutants-1db6)
+- [React 19 introduces Component Rendering with the Magic of &quot;use&quot;!](https://dev.to/respect17/react-19-introduces-component-rendering-with-the-magic-of-use-2cah)
+- [ASP.NET 8 - Authentication and Authorization in 7 steps.](https://dev.to/vinicius_estevam/aspnet-8-authentication-and-authorization-3426)
+- [Unlocking the Power of Python: Why It&#39;s Your Ultimate Programming Partner](https://dev.to/naveendongrecode/unlocking-the-power-of-python-why-its-your-ultimate-programming-partner-5gn3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
