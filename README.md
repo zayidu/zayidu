@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Guided Your DEV Path?](https://dev.to/devteam/what-guided-your-dev-path-4h9o)
-- [Instant API for databases adds automatic primary keys](https://dev.to/thadguidry/instant-api-for-databases-adds-automatic-primary-keys-5cpk)
-- [Long Time, No See.](https://dev.to/cjtaylor1990/long-time-no-see-6h9)
-- [Netlify Dynamic Site Challenge Submission: Dynamic Image Gallery with Netlify Image CDN Visual Feast](https://dev.to/karthik_n/netlify-dynamic-site-challenge-submission-dynamic-image-gallery-with-netlify-image-cdn-visual-feast-34b4)
-- [¿Cómo guarda Laravel la cookie de sesión y csrf?](https://dev.to/chemisax/como-guarda-laravel-la-cookie-de-sesion-y-csrf-3p17)
+- [JSON: What is it and How to Use It?](https://dev.to/tahsinsoyak/json-what-is-it-and-how-to-use-it-3cj5)
+- [Themed Retrospectives🎡🍄](https://dev.to/mattlewandowski93/themed-retrospectives-2f6p)
+- [Github Sponsor Sebastián Ramírez Python programmer](https://dev.to/szabgab/github-sponsor-sebastian-ramirez-python-programmer-do9)
+- [Building a Mood Analyzer App with Lyzr Automata](https://dev.to/akshay007/building-a-mood-analyzer-app-with-lyzr-automata-1007)
+- [ArgoCD Getting Started - Hands On](https://dev.to/ruanbekker/argocd-getting-started-hands-on-1ljb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
