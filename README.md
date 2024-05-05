@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Form Validation with Zod and React Hook Form](https://dev.to/aadarsh-nagrath/simplifying-form-validation-with-zod-and-react-hook-form-24ba)
-- [⚛️ Folder Structures in React Projects](https://dev.to/harismughal_2403/folder-structures-in-react-projects-5gfn)
-- [Navigating Unfamiliar Territory: Overcoming Challenges in a New Codebase](https://dev.to/jagadeesh-k/navigating-unfamiliar-territory-overcoming-challenges-in-a-new-codebase-5bbb)
-- [Why Businesses Fail with Android Apps and How to Rescue Them: Top Tips Discussed](https://dev.to/dhruvjoshi9/why-businesses-fail-with-android-apps-and-how-to-rescue-them-top-tips-discussed-3322)
-- [Deploying Your Next.js App on Cloudflare Pages](https://dev.to/akki907/deploying-your-nextjs-app-on-cloudflare-pages-5ccg)
+- [What Guided Your DEV Path?](https://dev.to/devteam/what-guided-your-dev-path-4h9o)
+- [Instant API for databases adds automatic primary keys](https://dev.to/thadguidry/instant-api-for-databases-adds-automatic-primary-keys-5cpk)
+- [Long Time, No See.](https://dev.to/cjtaylor1990/long-time-no-see-6h9)
+- [Netlify Dynamic Site Challenge Submission: Dynamic Image Gallery with Netlify Image CDN Visual Feast](https://dev.to/karthik_n/netlify-dynamic-site-challenge-submission-dynamic-image-gallery-with-netlify-image-cdn-visual-feast-34b4)
+- [¿Cómo guarda Laravel la cookie de sesión y csrf?](https://dev.to/chemisax/como-guarda-laravel-la-cookie-de-sesion-y-csrf-3p17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
