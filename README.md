@@ -9,9 +9,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The unification of Microservice, DB, OOP, FP and Warehouse/Workshop Model](https://dev.to/lincpa/the-unification-of-microservice-db-oop-fp-and-warehouseworkshop-model-bp)
 - [Installing and Configuring MySQL on Arch Linux](https://dev.to/tinapyp/installing-and-configuring-mysql-on-arch-linux-11m1)
+- [Go Test with Testify: Most Simple Way to Implement Unit Test](https://dev.to/nghtslvr/go-test-with-testify-most-simple-way-to-implement-unit-test-5ccb)
 - [Guides to the Web Performance - HTML + CSS - For Beginners](https://dev.to/dev188007/guides-to-the-web-performance-html-css-for-beginners-55b2)
 - [Server-Sent Event: One Directed Data Transmission Server to Client](https://dev.to/nghtslvr/server-sent-event-one-directed-data-transmission-server-to-client-4ef4)
-- [translation is not localization](https://dev.to/onwritinggames/translation-is-not-localization-5b53)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
