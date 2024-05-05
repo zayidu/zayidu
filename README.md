@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Never Lose Changes Again: Mastering Git Reflog for Developers](https://dev.to/ivan-klimenkov/never-lose-changes-again-mastering-git-reflog-for-developers-435l)
-- [Simplify API Testing with Postbot: Postman&#39;s AI Assistant](https://dev.to/lengochoangminh/simplify-api-testing-with-postbot-postmans-ai-assistant-56b)
-- [usememo &amp; useCallback hook](https://dev.to/programmerpramod0296/usememo-usecallback-hook-3ic)
-- [Update! Interactive description of iptables tables](https://dev.to/zersh01/update-interactive-description-of-iptables-tables-22o3)
-- [&quot;Leveling Up: From HTML Lists to CSS Counters](https://dev.to/harshitads44217/leveling-up-from-html-lists-to-css-counters-33ad)
+- [Insights from &quot;The Making of a Manager&quot; &lpar;Chapter 1&rpar; by Julie Zhuo](https://dev.to/ale3oula/insights-from-the-making-of-a-manager-chapter-1-by-julie-zhuo-5heg)
+- [Having a type system is more productive](https://dev.to/sergchr/having-a-type-system-is-more-productive-2na9)
+- [Fetching only specific tags or excluding them with git](https://dev.to/waterkip/fetching-only-specific-tags-or-excluding-them-49h6)
+- [My First Month As A Software Engineer](https://dev.to/aglili/my-first-month-as-a-software-engineer-2eeb)
+- [How to Manage Hierarchical Data in MongoDB With GraphLookup?](https://dev.to/codegirl0101/how-to-manage-hierarchical-data-in-mongodb-with-graphlookup-4am5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
