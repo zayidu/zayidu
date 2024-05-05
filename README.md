@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Javascript makes web pages more interactive](https://dev.to/a_a_hajji/how-javascript-makes-web-pages-more-interactive-55kb)
-- [Angular Animations Tutorial: Adding Flexibility with Params](https://dev.to/brianmtreese/angular-animations-tutorial-adding-flexibility-with-params-34j0)
-- [How to implement JWT in Laravel API](https://dev.to/germanlozickyj/how-to-implement-jwt-in-laravel-api-4590)
-- [Git is Elegant](https://dev.to/ronnewcomb/git-is-elegant-b6h)
-- [A Powerful Git Trick No One Knows About](https://dev.to/moozzyk/a-powerful-git-trick-no-one-knows-about-297d)
+- [Redis Pipeline: The Way of Sending Redis Commands in One Shot](https://dev.to/nghtslvr/redis-pipeline-the-way-of-sending-redis-commands-in-one-shot-2j0)
+- [Simplifying Keycloak Configuration with Terraform and Terragrunt](https://dev.to/mohammedalics/simplifying-keycloak-configuration-with-terraform-and-terragrunt-3ohm)
+- [OpenUI - One prompt UI Generation](https://dev.to/kiranuknow/openui-one-prompt-ui-generation-3hf9)
+- [LE DEVELOPPEMENT DES SITES WEB DYNAMIQUES EN MVC](https://dev.to/ekramfl/le-developpementdes-sites-webdynamiques-en-mvc-2kan)
+- [&quot;React &quot; Starting a new project](https://dev.to/rockyueno0223/react-starting-a-new-project-4h2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
