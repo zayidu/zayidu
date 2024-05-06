@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Document Object Model](https://dev.to/thetechgirl_ronke/document-object-model-4hai)
-- [Dev Rooms: Collaborative Coding Platform](https://dev.to/dexterxt/dev-rooms-collaborative-coding-platform-166)
-- [Our game progress ~ Basic Rule ~](https://dev.to/takeda1411123/our-game-progress-basic-rule--5h8p)
-- [Case Studies on Strings and Characters](https://dev.to/paulike/case-studies-on-strings-and-characters-1dfh)
-- [How to Fix &quot;OpenSlide Library Not Found&quot; Error by Updating .zshrc on macOS](https://dev.to/jam14d/how-to-fix-openslide-library-not-found-error-by-updating-zshrc-on-macos-562n)
+- [Our game progress ~ Mirror Movement ~](https://dev.to/takeda1411123/our-game-progress-mirror-movement--58bm)
+- [🗺️ Neo4J #GraphSummits as data!](https://dev.to/adriens/neo4j-graphsummits-as-data-478l)
+- [Mastering Relational Database Design: A Comprehensive Guide](https://dev.to/louaiboumediene/mastering-relational-database-design-a-comprehensive-guide-3jh8)
+- [A Comprehensive Guide to Queue Data Structures](https://dev.to/guihbc/a-comprehensive-guide-to-queue-data-structures-439e)
+- [Qu&#39;est-ce qu&#39;un projet MERN Stack et comment créer une application CRUD avec? Partie 2/2, Tutoriel](https://dev.to/cub_ger24/quest-ce-quun-projet-mern-stack-et-comment-creer-une-application-crud-avec-partie-22-tutoriel-2dhk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
