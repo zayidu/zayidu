@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How the web works](https://dev.to/nas5w/how-the-web-works-1dgj)
-- [Exploring Spring Framework, Spring MVC, and Reinforcing Core Java Concepts](https://dev.to/vishalwaje/exploring-spring-framework-spring-mvc-and-reinforcing-core-java-concepts-9hi)
-- [HttpInterceptor, Observable weirdness](https://dev.to/kenlnetherland/httpinterceptor-observable-weirdness-58i7)
-- [Confidential Smart Contracts &amp; Building w/Oasis Sapphire](https://dev.to/tosynthegeek/confidential-smart-contracts-building-woasis-sapphire-2kkg)
-- [Flutter News 2024 #18 ʚїɞ](https://dev.to/lucianojung/flutter-news-2024-18-eyie-1hgb)
+- [Building for Tomorrow: Part 2 of the Web Application Security Series](https://dev.to/techtobe101/building-for-tomorrow-part-2-of-the-web-application-security-series-oaa)
+- [We Might Need an Effect #1](https://dev.to/kanta1207/we-might-need-an-effect-2bg0)
+- [Mobile App Testing: A Comprehensive Guide](https://dev.to/morrismoses149/mobile-app-testing-a-comprehensive-guide-mbg)
+- [AI powered carousel Generator](https://dev.to/anthonyfounder1/ai-powered-carousel-generator-25l6)
+- [Securing the Foundation: Part 1 of the Web Application Security Series](https://dev.to/techtobe101/securing-the-foundation-part-1-of-the-web-application-security-series-1883)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
