@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide: Setting Up Azure Entra ID with Domain Names and User Management](https://dev.to/clouddiadem/step-by-step-guide-setting-up-azure-entra-id-with-domain-names-and-user-management-3dno)
-- [Break into Big Tech – My Journey from Startup to Microsoft](https://dev.to/devleader/break-into-big-tech-my-journey-from-startup-to-microsoft-ab0)
-- [Prefer strict types in Typescript](https://dev.to/sergchr/prefer-strict-types-in-typescript-p4i)
-- [#2487. Remove Nodes From Linked List](https://dev.to/karleb/2487-remove-nodes-from-linked-list-5478)
-- [FLaNK-AIM Weekly 06 May 2024](https://dev.to/tspannhw/flank-aim-weekly-06-may-2024-i4c)
+- [What are your goals for week 19 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-19-of-2024-4c8c)
+- [How I Made a Bot to Plan My Trips Using Julep and Chainlit](https://dev.to/julep/how-i-made-a-bot-to-plan-my-trips-using-julep-and-chainlit-4ekh)
+- [The Age of Smart Applications: How AI is Redefining Business Software](https://dev.to/buildwebcrumbs/the-age-of-smart-applications-how-ai-is-redefining-business-software-mkc)
+- [Blender Tip: Rigging With Mirror](https://dev.to/zaherdirkey/blender-tip-rigging-with-mirror-2hap)
+- [Lerping between 2 Aspect Ratios](https://dev.to/enghqii/lerping-between-2-aspect-ratios-1l8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
