@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Speculation Rules API: A Guide to Faster Websites](https://dev.to/qostya/the-speculation-rules-api-a-guide-to-faster-websites-43b2)
-- [Didn&#39;t know Git was so useful until I started study it.](https://dev.to/deviggor/didnt-know-git-was-so-useful-until-i-started-study-it-1o9o)
-- [How to create a search input with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-search-input-with-tailwind-css-and-alpinejs-4ccm)
-- [Clean Architecture : Infrastructure vs Core](https://dev.to/nlapointe/clean-architecture-infrastructure-vs-core-492k)
-- [Find Peak Element | LeetCode | Java](https://dev.to/tanujav/find-peak-element-leetcode-java-48l1)
+- [Tired of adding sh*tty looking comments on your code? Try this extension](https://dev.to/amanbhoria/tired-of-adding-shtty-looking-comments-on-your-code-try-this-extension-3099)
+- [Mondays in the World of Developers : Share your thoughts!](https://dev.to/respect17/mondays-in-the-world-of-developers-technologist-share-your-thoughts-4246)
+- [Please stop publishing AWS S3 buckets as static websites! Read here for a secure, fast, and free-ish approach [1st episode]](https://dev.to/maguzzi/please-stop-publishing-aws-s3-buckets-as-static-websites-read-here-for-a-secure-fast-and-free-ish-approach-1st-episode-4968)
+- [From English Teacher to AWS Architect](https://dev.to/aday/from-english-teacher-to-aws-architect-a2h)
+- [I analyzed code review best practices for a year. This is what I learned.](https://dev.to/marcopatino/i-analyzed-code-review-best-practices-for-a-year-this-is-what-i-learned-ace)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
