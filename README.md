@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rails Designer v0.11.0 released: new Command Menu](https://dev.to/railsdesigner/rails-designer-v0110-released-new-command-menu-1ih0)
-- [Developing a Generic Streamlit UI to Test Amazon Bedrock Agents](https://dev.to/aws-builders/developing-a-generic-streamlit-ui-to-test-amazon-bedrock-agents-5c7o)
-- [How to Build a Logistic Regression Model: A Spam-filter Tutorial](https://dev.to/oluwadamisisamuel1/how-to-build-a-logistic-regression-model-a-spam-filter-tutorial-261b)
-- [The most abused Cypress command ever: cy.wait&lpar;TIME&rpar;](https://dev.to/sebastianclavijo/the-most-abused-cypress-command-ever-cywaittime-15e0)
-- [HOW TO CREATE WINDOW VIRTUAL MACHINE IN AWS &amp; HOW TO CONNECT TO IT.](https://dev.to/johnshakor/how-to-create-window-virtual-machine-in-aws-using-ec2-how-to-connect-to-it-4f42)
+- [How I switched from Stack to Cabal](https://dev.to/zelenya/how-i-switched-from-stack-to-cabal-3ai2)
+- [Journey Through the Digital Cosmos: Unraveling the Mysteries of the Internet and the World Wide Web](https://dev.to/kadea-academy/journey-through-the-digital-cosmos-unraveling-the-mysteries-of-the-internet-and-the-world-wide-web-g94)
+- [Journey Through the Digital Cosmos: Unraveling the Mysteries of the Internet and the World Wide Web](https://dev.to/kadea-academy/journey-through-the-digital-cosmos-unraveling-the-mysteries-of-the-internet-and-the-world-wide-web-9i8)
+- [Top 10 Features to Include in Your SaaS MVP](https://dev.to/salmandotweb/top-10-features-to-include-in-your-saas-mvp-2nia)
+- [Securely connect to an Amazon RDS](https://dev.to/aws-builders/securely-connect-to-an-amazon-rds-2i3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
