@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Start Learning JavaScript](https://dev.to/thekarlesi/how-to-start-learning-javascript-4p2o)
-- [On Premise Face Recognition SDK and Liveness Detection SDK by FacePlugin](https://dev.to/faceplugin/on-premise-face-recognition-sdk-and-liveness-detection-sdk-by-faceplugin-1mb0)
-- [How I switched from Stack to Cabal](https://dev.to/zelenya/how-i-switched-from-stack-to-cabal-3ai2)
-- [Journey Through the Digital Cosmos: Unraveling the Mysteries of the Internet and the World Wide Web](https://dev.to/kadea-academy/journey-through-the-digital-cosmos-unraveling-the-mysteries-of-the-internet-and-the-world-wide-web-g94)
-- [Journey Through the Digital Cosmos: Unraveling the Mysteries of the Internet and the World Wide Web](https://dev.to/kadea-academy/journey-through-the-digital-cosmos-unraveling-the-mysteries-of-the-internet-and-the-world-wide-web-9i8)
+- [Mastering Code Quality: Setting Up ESLint with Standard JS in TypeScript Projects](https://dev.to/graezykev/mastering-code-quality-setting-up-eslint-with-standard-js-in-typescript-projects-18gl)
+- [Simplifying Redis Installation with Docker: A Step-by-Step Guide](https://dev.to/srishtikprasad/simplifying-redis-installation-with-docker-a-step-by-step-guide-507e)
+- [JuiceFS 1.2 Beta 1: Gateway Upgrade, Enhanced Multi-User Permission Management](https://dev.to/daswu/juicefs-12-beta-1-gateway-upgrade-enhanced-multi-user-permission-management-3c3a)
+- [Solving a Leetcode problem daily — Day 5 | Diagonal Traverse](https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-5-diagonal-traverse-1ckj)
+- [Solving a Leetcode problem daily — Day 4 | Add Binary](https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-4-add-binary-24d7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
