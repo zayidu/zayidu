@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Important Update: Temporary Pause on Learning Sessions Due to Health and Exams&quot;](https://dev.to/nitinbhatt46/important-update-temporary-pause-on-learning-sessions-due-to-health-and-exams-2d2)
-- [What’s New in Apache Answer 1.3.0?](https://dev.to/answerdev/whats-new-in-apache-answer-130-509c)
-- [What do you want to watch next? This is why I built GoodWatch.](https://dev.to/alp/what-do-you-want-to-watch-next-this-is-why-i-built-goodwatch-1cn2)
-- [Message queue with Socket.io](https://dev.to/khoakomlem/message-queue-with-socketio-2d9l)
-- [Streamline Your Workflow: A Guide to Normalising Git Commit and Push Processes](https://dev.to/graezykev/streamline-your-workflow-a-guide-to-normalising-git-commit-and-push-processes-1o7d)
+- [PHP MySqli CRUD and Vue.js 3 with Composition API using a CDN](https://dev.to/nathakritbc/php-mysqli-crud-and-vuejs-3-with-composition-api-using-a-cdn-5d77)
+- [Say No to SQL 🙅](https://dev.to/itskunal/say-no-to-sql-hce)
+- [Dev OPinion - Netlify Dynamic Site Challenge Submission](https://dev.to/frikishaan/dev-opinion-netlify-dynamic-site-challenge-submission-1l3c)
+- [JS: Closure](https://dev.to/shangjiezhou/js-closure-18n0)
+- [VS Code extensions for React developers](https://dev.to/sharon-wells/vs-code-extensions-for-react-developers-47b9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
