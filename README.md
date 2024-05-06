@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring PostgreSQL jsonpath for Advanced JSON](https://dev.to/dbvismarketing/exploring-postgresql-jsonpath-for-advanced-json-2241)
-- [Your Daily Challenge: What&#39;s the Scary Thing for Today?](https://dev.to/devteam/your-daily-challenge-whats-the-scary-thing-for-today-461i)
-- [Green Software: some thoughts](https://dev.to/giuliano1993/green-software-some-thoughts-nca)
-- [AWS Lambda: Harnessing Serverless Computing](https://dev.to/saumya27/aws-lambda-harnessing-serverless-computing-a4o)
-- [Spring Boot 3 Integrate QueryDsl with Gradle](https://dev.to/markliu2013/spring-boot-3-integrate-querydsl-with-gradle-2mfp)
+- [Common front-end tool library and high-frequency interview questions &lpar;continuously updated...&rpar;](https://dev.to/niexq/common-front-end-tool-library-and-high-frequency-interview-questions-continuously-updated-2hp0)
+- [Creating a Mobile App with Ionic and Vue.js 🚀📱](https://dev.to/amatisse/creating-a-mobile-app-with-ionic-and-vuejs-36ie)
+- [InnOlympics Hackathon 2024](https://dev.to/kngval/innolympics-hackathon-2024-1ikd)
+- [Weekly Roundup 051 &lpar;Apr 29&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-051-apr-29-hot-topics-in-workplace-sharepoint-and-powerplatform-5g5n)
+- [A Guide To Web Accessibility Best Practices](https://dev.to/tasfiaislam/a-guide-to-web-accessibility-best-practices-2e6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
