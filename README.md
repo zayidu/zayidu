@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [I Disappear](https://dev.to/florentb/i-disappear-mo4)
+- [Few new things in Python which I learned last week.](https://dev.to/rajun/few-new-things-in-python-which-i-learned-last-week-3p8k)
+- [Caching PNPM Modules in Docker Builds in GitHub Actions](https://dev.to/henryjw/caching-pnpm-modules-in-docker-builds-in-github-actions-mj7)
 - [Our game progress ~ Mirror Movement ~](https://dev.to/takeda1411123/our-game-progress-mirror-movement--58bm)
 - [🗺️ Neo4J #GraphSummits as data!](https://dev.to/adriens/neo4j-graphsummits-as-data-478l)
-- [Mastering Relational Database Design: A Comprehensive Guide](https://dev.to/louaiboumediene/mastering-relational-database-design-a-comprehensive-guide-3jh8)
-- [A Comprehensive Guide to Queue Data Structures](https://dev.to/guihbc/a-comprehensive-guide-to-queue-data-structures-439e)
-- [Qu&#39;est-ce qu&#39;un projet MERN Stack et comment créer une application CRUD avec? Partie 2/2, Tutoriel](https://dev.to/cub_ger24/quest-ce-quun-projet-mern-stack-et-comment-creer-une-application-crud-avec-partie-22-tutoriel-2dhk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
