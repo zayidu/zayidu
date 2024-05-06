@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understand JavaScript &#39;this&#39; keyword in 5 easy steps](https://dev.to/anwar_sadat/understand-javascript-this-keyword-in-5-easy-steps-3166)
-- [Harnessing the Power of Amazon S3 as a Mounted Drive: Benefits, Costs, and How-To](https://dev.to/prabhuvikas/harnessing-the-power-of-amazon-s3-as-a-mounted-drive-benefits-costs-and-how-to-3afi)
-- [Netlify Dynamic Site Challenge Submission: Visual Feast-- Netlify CDN Cache-Control Implementation](https://dev.to/suhainafathimam/netlify-dynamic-site-challenge-submission-visual-feast-photo-gallery-3nio)
-- [mysql: using the slow query log](https://dev.to/gbhorwood/mysql-using-the-slow-query-log-5gke)
-- [Help! Our React Routes are more confusing than a maze 😵](https://dev.to/buildwebcrumbs/help-our-react-routes-are-more-confusing-than-a-maze-1hii)
+- [How the web works](https://dev.to/nas5w/how-the-web-works-1dgj)
+- [Exploring Spring Framework, Spring MVC, and Reinforcing Core Java Concepts](https://dev.to/vishalwaje/exploring-spring-framework-spring-mvc-and-reinforcing-core-java-concepts-9hi)
+- [HttpInterceptor, Observable weirdness](https://dev.to/kenlnetherland/httpinterceptor-observable-weirdness-58i7)
+- [Confidential Smart Contracts &amp; Building w/Oasis Sapphire](https://dev.to/tosynthegeek/confidential-smart-contracts-building-woasis-sapphire-2kkg)
+- [Flutter News 2024 #18 ʚїɞ](https://dev.to/lucianojung/flutter-news-2024-18-eyie-1hgb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
