@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Structuring Javascript Code](https://dev.to/donavioli/structuring-javascript-code-4a4n)
-- [Leveraging Brython for Web Development](https://dev.to/saad1926q/leveraging-brython-for-web-development-2eid)
-- [LangChain Memory Management](https://dev.to/rutamstwt/langchain-memory-management-2ogi)
-- [Learn CRO For Developers &lpar;2024 - 2025&rpar;](https://dev.to/elena143/learn-cro-for-developers-2024-2025-oj0)
-- [Common Mathematical Functions](https://dev.to/paulike/common-mathematical-functions-31lk)
+- [Main layouts - Beer CSS Tips #4](https://dev.to/leonardorafael/main-layouts-beer-css-tips-4-536i)
+- [Power Apps vs Power Automate](https://dev.to/ifourtechnolab/power-apps-vs-power-automate-356h)
+- [creating a map with Laravel](https://dev.to/ashrakt_amin/creating-a-map-with-laravel-3964)
+- [Intro to GraphQL](https://dev.to/kycodee/intro-to-graphql-2kfd)
+- [Breakpoint Range with TailwindCSS](https://dev.to/stephikebudu/breakpoint-range-with-tailwindcss-1c8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
