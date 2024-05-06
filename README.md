@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building for Tomorrow: Part 2 of the Web Application Security Series](https://dev.to/techtobe101/building-for-tomorrow-part-2-of-the-web-application-security-series-oaa)
-- [We Might Need an Effect #1](https://dev.to/kanta1207/we-might-need-an-effect-2bg0)
-- [Mobile App Testing: A Comprehensive Guide](https://dev.to/morrismoses149/mobile-app-testing-a-comprehensive-guide-mbg)
-- [AI powered carousel Generator](https://dev.to/anthonyfounder1/ai-powered-carousel-generator-25l6)
-- [Securing the Foundation: Part 1 of the Web Application Security Series](https://dev.to/techtobe101/securing-the-foundation-part-1-of-the-web-application-security-series-1883)
+- [Add Webhook Verification, Queueing, Filtering, and Retry Logic to Any Vercel Deployed Endpoint](https://dev.to/leggetter/add-webhook-verification-queueing-filtering-and-retry-logic-to-any-vercel-deployed-endpoint-4bnp)
+- [Maintainer Monday: Community Care](https://dev.to/opensauced/maintainer-monday-community-care-42ig)
+- [Day 36/366](https://dev.to/vishalmx3/day-36366-ch5)
+- [I created a Kubernetes cluster on AWS EC2 instances](https://dev.to/esuivant/i-created-a-kubernetes-cluster-on-aws-ec2-instances-3idj)
+- [Idea Validation for the New Tech Entrepreneur](https://dev.to/zachnology/idea-validation-for-the-new-tech-entrepreneur-5204)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
