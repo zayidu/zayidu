@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Market Developer Tools](https://dev.to/jeffmorhous/how-to-market-developer-tools-20f1)
-- [Smoke for pseudo 3d arcade](https://dev.to/bileyg/smoke-for-pseudo-3d-arcade-2ine)
-- [How to make ESLint and Prettier work together? 🛠️](https://dev.to/rgolawski/how-to-make-eslint-and-prettier-work-together-2i5g)
-- [#1544. Make The String Great](https://dev.to/karleb/1544-make-the-string-great-5co0)
-- [I&#39;ve made game engine &lpar;I think&rpar;](https://dev.to/larcefox/ive-made-game-engine-i-think-36lj)
+- [Rails Designer v0.11.0 released: new Command Menu](https://dev.to/railsdesigner/rails-designer-v0110-released-new-command-menu-1ih0)
+- [Developing a Generic Streamlit UI to Test Amazon Bedrock Agents](https://dev.to/aws-builders/developing-a-generic-streamlit-ui-to-test-amazon-bedrock-agents-5c7o)
+- [How to Build a Logistic Regression Model: A Spam-filter Tutorial](https://dev.to/oluwadamisisamuel1/how-to-build-a-logistic-regression-model-a-spam-filter-tutorial-261b)
+- [The most abused Cypress command ever: cy.wait&lpar;TIME&rpar;](https://dev.to/sebastianclavijo/the-most-abused-cypress-command-ever-cywaittime-15e0)
+- [HOW TO CREATE WINDOW VIRTUAL MACHINE IN AWS &amp; HOW TO CONNECT TO IT.](https://dev.to/johnshakor/how-to-create-window-virtual-machine-in-aws-using-ec2-how-to-connect-to-it-4f42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
