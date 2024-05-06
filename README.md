@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Start Learning JavaScript](https://dev.to/thekarlesi/how-to-start-learning-javascript-4p2o)
+- [On Premise Face Recognition SDK and Liveness Detection SDK by FacePlugin](https://dev.to/faceplugin/on-premise-face-recognition-sdk-and-liveness-detection-sdk-by-faceplugin-1mb0)
 - [How I switched from Stack to Cabal](https://dev.to/zelenya/how-i-switched-from-stack-to-cabal-3ai2)
 - [Journey Through the Digital Cosmos: Unraveling the Mysteries of the Internet and the World Wide Web](https://dev.to/kadea-academy/journey-through-the-digital-cosmos-unraveling-the-mysteries-of-the-internet-and-the-world-wide-web-g94)
 - [Journey Through the Digital Cosmos: Unraveling the Mysteries of the Internet and the World Wide Web](https://dev.to/kadea-academy/journey-through-the-digital-cosmos-unraveling-the-mysteries-of-the-internet-and-the-world-wide-web-9i8)
-- [Top 10 Features to Include in Your SaaS MVP](https://dev.to/salmandotweb/top-10-features-to-include-in-your-saas-mvp-2nia)
-- [Securely connect to an Amazon RDS](https://dev.to/aws-builders/securely-connect-to-an-amazon-rds-2i3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
