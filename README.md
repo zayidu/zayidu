@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for week 19 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-19-of-2024-4c8c)
-- [How I Made a Bot to Plan My Trips Using Julep and Chainlit](https://dev.to/julep/how-i-made-a-bot-to-plan-my-trips-using-julep-and-chainlit-4ekh)
-- [The Age of Smart Applications: How AI is Redefining Business Software](https://dev.to/buildwebcrumbs/the-age-of-smart-applications-how-ai-is-redefining-business-software-mkc)
-- [Blender Tip: Rigging With Mirror](https://dev.to/zaherdirkey/blender-tip-rigging-with-mirror-2hap)
-- [Lerping between 2 Aspect Ratios](https://dev.to/enghqii/lerping-between-2-aspect-ratios-1l8b)
+- [Understand JavaScript &#39;this&#39; keyword in 5 easy steps](https://dev.to/anwar_sadat/understand-javascript-this-keyword-in-5-easy-steps-3166)
+- [Harnessing the Power of Amazon S3 as a Mounted Drive: Benefits, Costs, and How-To](https://dev.to/prabhuvikas/harnessing-the-power-of-amazon-s3-as-a-mounted-drive-benefits-costs-and-how-to-3afi)
+- [Netlify Dynamic Site Challenge Submission: Visual Feast-- Netlify CDN Cache-Control Implementation](https://dev.to/suhainafathimam/netlify-dynamic-site-challenge-submission-visual-feast-photo-gallery-3nio)
+- [mysql: using the slow query log](https://dev.to/gbhorwood/mysql-using-the-slow-query-log-5gke)
+- [Help! Our React Routes are more confusing than a maze 😵](https://dev.to/buildwebcrumbs/help-our-react-routes-are-more-confusing-than-a-maze-1hii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
