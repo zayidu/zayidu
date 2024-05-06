@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌝 15 JavaScript frameworks for your next project ⚔](https://dev.to/winglang/15-javascript-frameworks-for-your-next-project-1o7n)
-- [What is a Data Center?](https://dev.to/clouddefenseai/what-is-a-data-center-4bdk)
-- [Enable Edge to Edge in Android Jetpack Compose &lpar;Transparent Status Bar&rpar;](https://dev.to/shivathapaa/enable-edge-to-edge-in-android-jetpack-compose-transparent-status-bar-15dl)
-- [On-premises vs Cloud. How to make the right choice for your business?](https://dev.to/softwebsolution/on-premises-vs-cloud-how-to-make-the-right-choice-for-your-business-2lkk)
-- [Domain Object Model &lpar;DOM&rpar;](https://dev.to/akhona/domain-object-model-dom-256j)
+- [Step-by-Step Guide: Setting Up Azure Entra ID with Domain Names and User Management](https://dev.to/clouddiadem/step-by-step-guide-setting-up-azure-entra-id-with-domain-names-and-user-management-3dno)
+- [Break into Big Tech – My Journey from Startup to Microsoft](https://dev.to/devleader/break-into-big-tech-my-journey-from-startup-to-microsoft-ab0)
+- [Prefer strict types in Typescript](https://dev.to/sergchr/prefer-strict-types-in-typescript-p4i)
+- [#2487. Remove Nodes From Linked List](https://dev.to/karleb/2487-remove-nodes-from-linked-list-5478)
+- [FLaNK-AIM Weekly 06 May 2024](https://dev.to/tspannhw/flank-aim-weekly-06-may-2024-i4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
