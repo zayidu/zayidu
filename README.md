@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech notes 01 - Default Constructor and User-Defined Constructor in Java](https://dev.to/omar99/tech-notes-01-default-constructor-and-user-defined-constructor-in-java-2op3)
-- [Data scientist Job Description](https://dev.to/hiringgo/data-scientist-job-description-4i19)
-- [ADDING COMMAND ALIASES TO POWERSHELL](https://dev.to/mr_sd_jack_003/adding-command-aliases-to-powershell-87c)
-- [ADDING COMMAND ALIASES TO POWERSHELL](https://dev.to/mr_sd_jack_003/adding-command-aliases-to-powershell-1pkn)
-- [Contribute to ZemProfiles!](https://dev.to/zemerik/contribute-to-zemprofiles-16on)
+- [Custom Fonts In React Native: Pro Tip!](https://dev.to/mitchiemt11/custom-fonts-in-react-native-pro-tip-4693)
+- [Friction: How Human Behavior Influences Code Development](https://dev.to/tiuwill/friction-how-human-behavior-influences-code-development-46on)
+- [Top AI-Enhanced Tools for Learning Management Systems](https://dev.to/digitalsamba/top-ai-enhanced-tools-for-learning-management-systems-10fa)
+- [The Power of Offshore Development Centers in Driving Innovation](https://dev.to/witson/the-power-of-offshore-development-centers-in-driving-innovation-3070)
+- [ViewComponent Cheatsheet](https://dev.to/railsdesigner/viewcomponent-cheatsheet-2kh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
