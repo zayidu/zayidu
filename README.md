@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Speech Recognition with Python &amp; CMU Sphinx](https://dev.to/weseek-inc/speech-recognition-with-python-cmu-sphinx-3djg)
-- [AutofacServiceProviderFactory in ASP.NET Core – Problems With Dependency Injection &lpar;Part 1&rpar;](https://dev.to/devleader/autofacserviceproviderfactory-in-aspnet-core-problems-with-dependency-injection-part-1-44de)
-- [How API Testing Ensures the Reliability of Applications](https://dev.to/talenttinaapi/how-api-testing-ensures-the-reliability-of-applications-2e1h)
-- [Ruby Array Methods That Will Blow Your Mind, Pt. 5: The rejected ones](https://dev.to/repiki/ruby-array-methods-that-will-blow-your-mind-pt-5-the-rejected-ones-566f)
-- [DRY: What is it and how to implement it. Don&#39;t Repeat Yourself](https://dev.to/accreditly/dry-what-is-it-and-how-to-implement-it-dont-repeat-yourself-59fj)
+- [Hacktoberfest 2024 Preparation Guide](https://dev.to/vauntdev/hacktoberfest-2024-preparation-guide-1dke)
+- [Advanced string formatting with f-strings in Python](https://dev.to/bybydev/advanced-string-formatting-with-f-strings-in-python-3a8b)
+- [Accelerating ETL Processes for Timely Business Intelligence](https://dev.to/ovaisnaseem/accelerating-etl-processes-for-timely-business-intelligence-3h0j)
+- [Create a Chat with Laravel and Socket.io](https://dev.to/vimuth7/create-a-chat-with-laravel-and-socketio-36i3)
+- [create a custom BaseCommand for a Django app](https://dev.to/doridoro/create-a-custom-basecommand-for-a-django-app-38k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
