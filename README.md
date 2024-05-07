@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kanban Methodology: How Kanban Revolutionizes Workflow Management](https://dev.to/productivity/kanban-methodology-how-kanban-revolutionizes-workflow-management-33hb)
-- [Thread Safety C#](https://dev.to/ben-witt/thread-safety-c-3h2p)
-- [Rails Integration Testing with Fixtures: A Practical Approach for Complex Data Sets](https://dev.to/dominik_alberski/rails-integration-testing-with-fixtures-a-practical-approach-for-complex-data-sets-mce)
-- [💵 Why Diversity is important. No, really, actually for real.](https://dev.to/samuelfaure/why-diversity-is-important-no-really-actually-for-real-1b7l)
-- [Kong Hybrid Mode Deployment: GKE and On-Prem](https://dev.to/zelarsoft/kong-hybrid-mode-deployment-gke-and-on-prem-p9n)
+- [Benefits Of Using An IDE For React Native Development](https://dev.to/saumya27/benefits-of-using-an-ide-for-react-native-development-2paa)
+- [StudyPal: Your AI-Powered Personalized Learning Companion](https://dev.to/rajesh-adk-137/studypal-your-ai-powered-personalized-learning-companion-59d)
+- [Essential Guide to Mastering Payment Gateway Testing](https://dev.to/grjoeay/essential-guide-to-mastering-payment-gateway-testing-njk)
+- [Building Pure Python Web Apps With Reflex Part 1 | Building the Frontend](https://dev.to/jod35/building-pure-python-web-apps-with-reflex-part-1-building-the-frontend-3mgi)
+- [Find the last matched element - the bad, the good, and the better](https://dev.to/mayashavin/find-the-last-matched-element-the-bad-the-good-and-the-better-5f8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
