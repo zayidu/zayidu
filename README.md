@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 12 Laravel 11 Features](https://dev.to/dtechies/top-12-laravel-11-features-jm)
-- [Run Large and Small Language Models locally with ollama](https://dev.to/robinmanuelthiel/run-large-and-small-language-models-locally-with-ollama-48lh)
-- [How to add items to your cart with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-add-items-to-your-cart-with-tailwind-css-and-alpinejs-44p3)
-- [10 Best React Native Developer Tools in 2024](https://dev.to/codeparrot/10-best-react-native-developer-tools-in-2024-4odj)
-- [Creating a Rich Text Editor with TipTap in Next.js: A Step-by-Step Guide](https://dev.to/homayunmmdy/creating-a-rich-text-editor-with-tiptap-in-nextjs-a-step-by-step-guide-516j)
+- [Tech notes 01 - Default Constructor and User-Defined Constructor in Java](https://dev.to/omar99/tech-notes-01-default-constructor-and-user-defined-constructor-in-java-2op3)
+- [Data scientist Job Description](https://dev.to/hiringgo/data-scientist-job-description-4i19)
+- [ADDING COMMAND ALIASES TO POWERSHELL](https://dev.to/mr_sd_jack_003/adding-command-aliases-to-powershell-87c)
+- [ADDING COMMAND ALIASES TO POWERSHELL](https://dev.to/mr_sd_jack_003/adding-command-aliases-to-powershell-1pkn)
+- [Contribute to ZemProfiles!](https://dev.to/zemerik/contribute-to-zemprofiles-16on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
