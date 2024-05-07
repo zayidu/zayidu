@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2024 Preparation Guide](https://dev.to/vauntdev/hacktoberfest-2024-preparation-guide-1dke)
-- [Advanced string formatting with f-strings in Python](https://dev.to/bybydev/advanced-string-formatting-with-f-strings-in-python-3a8b)
-- [Accelerating ETL Processes for Timely Business Intelligence](https://dev.to/ovaisnaseem/accelerating-etl-processes-for-timely-business-intelligence-3h0j)
-- [Create a Chat with Laravel and Socket.io](https://dev.to/vimuth7/create-a-chat-with-laravel-and-socketio-36i3)
-- [create a custom BaseCommand for a Django app](https://dev.to/doridoro/create-a-custom-basecommand-for-a-django-app-38k0)
+- [C# In Practice — Building Tech Support App](https://dev.to/turalsuleymani/c-in-practice-building-tech-support-app-3e98)
+- [DOM... What is it?](https://dev.to/yhuteemoren/dom-what-is-it-3nop)
+- [E-commerce checkout components built with Tailwind CSS and Flowbite](https://dev.to/themesberg/e-commerce-checkout-components-built-with-tailwind-css-and-flowbite-3h6e)
+- [Quick tip: How to Build Local LLM Apps with Ollama and SingleStore](https://dev.to/singlestore/quick-tip-how-to-build-local-llm-apps-with-ollama-and-singlestore-5h1)
+- [What is Abstraction?](https://dev.to/m0n0x41d/what-is-abstraction-44k1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
