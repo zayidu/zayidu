@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Netlify Dynamic Site Challenge : Building blob playground with Netlify Blob](https://dev.to/chintanonweb/netlify-dynamic-site-challenge-building-blob-playground-with-netlify-blob-1im4)
-- [Shoutout to Document360 - An AI-powered knowledge base software ✍](https://dev.to/scofieldidehen/shoutout-to-document360-an-ai-powered-knowledge-base-software-1g1h)
-- [Vue 3 - Recursion with Treeview component](https://dev.to/nassbin/vue-3-recursion-with-treeview-component-3jlj)
-- [Consistent Hashing: An Overview and Implementation in Golang](https://dev.to/permify/consistent-hashing-an-overview-and-implementation-in-golang-53je)
-- [Printing reactjs component in a thermal printer](https://dev.to/raulbeltrame/printing-reactjs-component-in-a-thermal-printer-5g5j)
+- [Speech Recognition with Python &amp; CMU Sphinx](https://dev.to/weseek-inc/speech-recognition-with-python-cmu-sphinx-3djg)
+- [AutofacServiceProviderFactory in ASP.NET Core – Problems With Dependency Injection &lpar;Part 1&rpar;](https://dev.to/devleader/autofacserviceproviderfactory-in-aspnet-core-problems-with-dependency-injection-part-1-44de)
+- [How API Testing Ensures the Reliability of Applications](https://dev.to/talenttinaapi/how-api-testing-ensures-the-reliability-of-applications-2e1h)
+- [Ruby Array Methods That Will Blow Your Mind, Pt. 5: The rejected ones](https://dev.to/repiki/ruby-array-methods-that-will-blow-your-mind-pt-5-the-rejected-ones-566f)
+- [DRY: What is it and how to implement it. Don&#39;t Repeat Yourself](https://dev.to/accreditly/dry-what-is-it-and-how-to-implement-it-dont-repeat-yourself-59fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
