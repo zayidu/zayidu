@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Benefits Of Using An IDE For React Native Development](https://dev.to/saumya27/benefits-of-using-an-ide-for-react-native-development-2paa)
-- [StudyPal: Your AI-Powered Personalized Learning Companion](https://dev.to/rajesh-adk-137/studypal-your-ai-powered-personalized-learning-companion-59d)
-- [Essential Guide to Mastering Payment Gateway Testing](https://dev.to/grjoeay/essential-guide-to-mastering-payment-gateway-testing-njk)
-- [Building Pure Python Web Apps With Reflex Part 1 | Building the Frontend](https://dev.to/jod35/building-pure-python-web-apps-with-reflex-part-1-building-the-frontend-3mgi)
-- [Find the last matched element - the bad, the good, and the better](https://dev.to/mayashavin/find-the-last-matched-element-the-bad-the-good-and-the-better-5f8h)
+- [Top 12 Laravel 11 Features](https://dev.to/dtechies/top-12-laravel-11-features-jm)
+- [Run Large and Small Language Models locally with ollama](https://dev.to/robinmanuelthiel/run-large-and-small-language-models-locally-with-ollama-48lh)
+- [How to add items to your cart with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-add-items-to-your-cart-with-tailwind-css-and-alpinejs-44p3)
+- [10 Best React Native Developer Tools in 2024](https://dev.to/codeparrot/10-best-react-native-developer-tools-in-2024-4odj)
+- [Creating a Rich Text Editor with TipTap in Next.js: A Step-by-Step Guide](https://dev.to/homayunmmdy/creating-a-rich-text-editor-with-tiptap-in-nextjs-a-step-by-step-guide-516j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
