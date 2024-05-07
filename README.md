@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How MLOps Streamlines Machine Learning Workflows for Maximum Impact](https://dev.to/marufhossain/how-mlops-streamlines-machine-learning-workflows-for-maximum-impact-58me)
-- [Unlocking JavaScript Serialization: A Guide to toJSON&lpar;&rpar; Method](https://dev.to/chintanonweb/unlocking-javascript-serialization-a-guide-to-tojson-method-on)
-- [Kubernetes + RabbitMQ](https://dev.to/nicolasdesouza/kubernetes-rabbitmq-4ed7)
-- [5 useful VSCode shortcuts for GitHub Copilot 🤖](https://dev.to/shortcutmasters/5-useful-vscode-shortcuts-for-github-copilot-2i26)
-- [Algorithms And Data Structures Interview Question - Recursion](https://dev.to/turalsuleymani/algorithms-and-data-structures-interview-question-recursion-3m63)
+- [Improved-Barnacle repository: &lpar;The Cleanup Python Script&rpar;](https://dev.to/charudatta10/improved-barnacle-repository-the-cleanup-python-script-172d)
+- [What i actually do to stay productive](https://dev.to/fullstackdev/what-i-actually-do-to-stay-productive-34np)
+- [Tetris Development #6 - Risk and Reward](https://dev.to/xzzz3/tetris-development-6-risk-and-reward-1ge0)
+- [What are single page apps, really?](https://dev.to/nas5w/what-are-single-page-apps-really-3cf4)
+- [What&#39;s New With AWS Security? | April Edition](https://dev.to/aws-builders/whats-new-with-aws-security-april-edition-28c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
