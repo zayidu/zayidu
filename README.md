@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best free resources for learning to code](https://dev.to/rt68/best-free-resources-for-learning-to-code-1gee)
-- [I&#39;m new as an Indie developer. and I would appreciate your help.](https://dev.to/wolfblast/im-new-as-an-indie-developer-4847)
-- [OpenBSD 7.3 を 7.4 へ アップグレード](https://dev.to/nabbisen/openbsd-73-wo-74-he-atupuguredo-4kme)
-- [10 Steps to Become a Web Developer](https://dev.to/web_dev_zakaria/10-steps-to-become-a-web-developer-1nco)
-- [VSCode on Android Phone](https://dev.to/annavi11arrea1/vscode-on-android-phone-4i56)
+- [Day 2 : Setting up the React Environment](https://dev.to/dipakahirav/day-2-setting-up-the-react-environment-3pal)
+- [How I discovered Named Entity Recognition while trying to remove gibberish from a string.](https://dev.to/saintpetejackboy/how-i-discovered-named-entity-recognition-while-trying-to-remove-gibberish-from-a-string-3243)
+- [What Is API Sprawl? How to Prevent API Sprawl?](https://dev.to/apisix/what-is-api-sprawl-how-to-prevent-api-sprawl-4j5n)
+- [Laravel 11 Vue 3 Inertia](https://dev.to/dancruise/laravel-11-vue-3-inertia-nno)
+- [Kolmogorov–Arnold Networks &lpar;KANs&rpar;](https://dev.to/gsanjeewadev/kolmogorov-arnold-networks-kans-33pi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
