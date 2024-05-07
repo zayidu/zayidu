@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Concrete Jungle of APIDays New York 2024](https://dev.to/getambassador2024/navigating-the-concrete-jungle-of-apidays-new-york-2024-3g79)
-- [Streamlining Microservices Management: A Unified Helm Chart Approach](https://dev.to/calinflorescu/streamlining-microservices-management-a-unified-helm-chart-approach-59g7)
-- [Load testing API &lpar;Vanilla PHP vs Laravel vs Go&rpar; with MySQL pessimistic locking](https://dev.to/dkelxldk/load-testing-api-vanilla-php-vs-laravel-vs-go-with-mysql-pessimistic-locking-ppn)
-- [How Certification and Study Endeavors Shaped Your Journey as a Computer Engineer.](https://dev.to/imarnav/how-certification-and-study-endeavors-shaped-your-journey-as-a-computer-engineer-27b2)
-- [Hi I&#39;m a Beginer](https://dev.to/nakhqin/hi-im-a-beginer-1i0l)
+- [30+ AI libraries you can use for your next project ideas](https://dev.to/copilotkit/30-ai-libraries-you-can-use-for-your-next-project-ideas-5ded)
+- [Have You Ever Stepped Back to Move Forward?](https://dev.to/devteam/have-you-ever-stepped-back-to-move-forward-45j4)
+- [Difference between Apache Kafka, RabbitMQ, and ActiveMQ](https://dev.to/somadevtoo/difference-between-apache-kafka-rabbitmq-and-activemq-4f1k)
+- [A Guide to Communication Tools in Microsoft 365](https://dev.to/jaloplo/a-guide-to-communication-tools-in-microsoft-365-3169)
+- [How to work with shared dev clusters &lpar;and why&rpar; - Part III: What works, and what doesn&#39;t work](https://dev.to/makky/how-to-work-with-shared-dev-clusters-and-why-part-iii-what-works-and-what-doesnt-work-gf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
