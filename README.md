@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GRAPHIC DESIGNING](https://dev.to/annasdev06/graphic-designing-1mk8)
-- [Linux Essentials/ Vim](https://dev.to/deadpunnk/linux-essentials-vim-47ke)
-- [SOFTWARE ENGINEERING](https://dev.to/annasdev06/software-engineering-3m4j)
-- [Understanding WebSocket and creating from Scratch with JavaScript](https://dev.to/mayanksahai/understanding-websocket-and-creating-from-scratch-with-javascript-3e92)
-- [ARTIFICIAL INTELLIGENCE](https://dev.to/annasdev06/artificial-intelligence-3jdc)
+- [Funemployment 2024](https://dev.to/mraible/funemployment-2024-6gp)
+- [Tips from open-source: Set a maximum time limit on fetch using Promise.race&lpar;&rpar;](https://dev.to/ramunarasinga/tips-from-open-source-set-a-maximum-time-limit-on-fetch-using-promiserace-2kle)
+- [Understanding DAM Storage: The Backbone of Digital Asset Management](https://dev.to/msmith99994/understanding-dam-storage-the-backbone-of-digital-asset-management-2823)
+- [Mantendo seus dados segregados por Padrão](https://dev.to/victorlcampos/mantendo-seus-dados-segregados-por-padrao-3859)
+- [Podcast Palooza— What are you listening to? &lpar;Parenting + Doomsday Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-parenting-doomsday-edition-3eg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
