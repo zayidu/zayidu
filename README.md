@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Best free resources for learning to code](https://dev.to/rt68/best-free-resources-for-learning-to-code-1gee)
+- [I&#39;m new as an Indie developer. and I would appreciate your help.](https://dev.to/wolfblast/im-new-as-an-indie-developer-4847)
+- [OpenBSD 7.3 を 7.4 へ アップグレード](https://dev.to/nabbisen/openbsd-73-wo-74-he-atupuguredo-4kme)
 - [10 Steps to Become a Web Developer](https://dev.to/web_dev_zakaria/10-steps-to-become-a-web-developer-1nco)
 - [VSCode on Android Phone](https://dev.to/annavi11arrea1/vscode-on-android-phone-4i56)
-- [Become a Pro Writer: 5 Content Writing Tips](https://dev.to/kachi14/become-a-pro-writer-5-content-writing-tips-42nd)
-- [Shopify Checkout UI Extensions](https://dev.to/yetillc/shopify-checkout-ui-extensions-2ep9)
-- [Should I Be Using IEnumerable, IQueryable, ICollection, or IListd?](https://dev.to/michaeljolley/should-i-be-using-ienumerable-iqueryable-icollection-or-ilistd-37ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
