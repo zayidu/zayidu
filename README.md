@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Disappear](https://dev.to/florentb/i-disappear-mo4)
-- [Few new things in Python which I learned last week.](https://dev.to/rajun/few-new-things-in-python-which-i-learned-last-week-3p8k)
-- [Caching PNPM Modules in Docker Builds in GitHub Actions](https://dev.to/henryjw/caching-pnpm-modules-in-docker-builds-in-github-actions-mj7)
-- [Our game progress ~ Mirror Movement ~](https://dev.to/takeda1411123/our-game-progress-mirror-movement--58bm)
-- [🗺️ Neo4J #GraphSummits as data!](https://dev.to/adriens/neo4j-graphsummits-as-data-478l)
+- [10 Steps to Become a Web Developer](https://dev.to/web_dev_zakaria/10-steps-to-become-a-web-developer-1nco)
+- [VSCode on Android Phone](https://dev.to/annavi11arrea1/vscode-on-android-phone-4i56)
+- [Become a Pro Writer: 5 Content Writing Tips](https://dev.to/kachi14/become-a-pro-writer-5-content-writing-tips-42nd)
+- [Shopify Checkout UI Extensions](https://dev.to/yetillc/shopify-checkout-ui-extensions-2ep9)
+- [Should I Be Using IEnumerable, IQueryable, ICollection, or IListd?](https://dev.to/michaeljolley/should-i-be-using-ienumerable-iqueryable-icollection-or-ilistd-37ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
