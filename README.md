@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# In Practice — Building Tech Support App](https://dev.to/turalsuleymani/c-in-practice-building-tech-support-app-3e98)
-- [DOM... What is it?](https://dev.to/yhuteemoren/dom-what-is-it-3nop)
-- [E-commerce checkout components built with Tailwind CSS and Flowbite](https://dev.to/themesberg/e-commerce-checkout-components-built-with-tailwind-css-and-flowbite-3h6e)
-- [Quick tip: How to Build Local LLM Apps with Ollama and SingleStore](https://dev.to/singlestore/quick-tip-how-to-build-local-llm-apps-with-ollama-and-singlestore-5h1)
-- [What is Abstraction?](https://dev.to/m0n0x41d/what-is-abstraction-44k1)
+- [How MLOps Streamlines Machine Learning Workflows for Maximum Impact](https://dev.to/marufhossain/how-mlops-streamlines-machine-learning-workflows-for-maximum-impact-58me)
+- [Unlocking JavaScript Serialization: A Guide to toJSON&lpar;&rpar; Method](https://dev.to/chintanonweb/unlocking-javascript-serialization-a-guide-to-tojson-method-on)
+- [Kubernetes + RabbitMQ](https://dev.to/nicolasdesouza/kubernetes-rabbitmq-4ed7)
+- [5 useful VSCode shortcuts for GitHub Copilot 🤖](https://dev.to/shortcutmasters/5-useful-vscode-shortcuts-for-github-copilot-2i26)
+- [Algorithms And Data Structures Interview Question - Recursion](https://dev.to/turalsuleymani/algorithms-and-data-structures-interview-question-recursion-3m63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
