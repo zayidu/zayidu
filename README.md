@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An Introduction to Bubble Sort](https://dev.to/stephbert/an-introduction-to-bubble-sort-288o)
-- [Top 10 Must-Have Productivity Apps for Your Smartphone](https://dev.to/ijassiemartin11/top-10-must-have-productivity-apps-for-your-smartphone-2o9g)
-- [Reducing the Boilerplate for Services Utilizing Subjects in Angular](https://dev.to/bwca/reducing-the-boilerplate-for-services-utilizing-subjects-in-angular-44fp)
-- [Rust Cheatsheet](https://dev.to/syedmuhammadaliraza/rust-cheatsheet-4db9)
-- [Join our ML Reading Group on May 14th ！](https://dev.to/grandelisali/join-our-ml-reading-group-on-may-14th--28no)
+- [Navigating the Concrete Jungle of APIDays New York 2024](https://dev.to/getambassador2024/navigating-the-concrete-jungle-of-apidays-new-york-2024-3g79)
+- [Streamlining Microservices Management: A Unified Helm Chart Approach](https://dev.to/calinflorescu/streamlining-microservices-management-a-unified-helm-chart-approach-59g7)
+- [Load testing API &lpar;Vanilla PHP vs Laravel vs Go&rpar; with MySQL pessimistic locking](https://dev.to/dkelxldk/load-testing-api-vanilla-php-vs-laravel-vs-go-with-mysql-pessimistic-locking-ppn)
+- [How Certification and Study Endeavors Shaped Your Journey as a Computer Engineer.](https://dev.to/imarnav/how-certification-and-study-endeavors-shaped-your-journey-as-a-computer-engineer-27b2)
+- [Hi I&#39;m a Beginer](https://dev.to/nakhqin/hi-im-a-beginer-1i0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
