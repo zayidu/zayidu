@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Fonts In React Native: Pro Tip!](https://dev.to/mitchiemt11/custom-fonts-in-react-native-pro-tip-4693)
-- [Friction: How Human Behavior Influences Code Development](https://dev.to/tiuwill/friction-how-human-behavior-influences-code-development-46on)
-- [Top AI-Enhanced Tools for Learning Management Systems](https://dev.to/digitalsamba/top-ai-enhanced-tools-for-learning-management-systems-10fa)
-- [The Power of Offshore Development Centers in Driving Innovation](https://dev.to/witson/the-power-of-offshore-development-centers-in-driving-innovation-3070)
-- [ViewComponent Cheatsheet](https://dev.to/railsdesigner/viewcomponent-cheatsheet-2kh9)
+- [Netlify Dynamic Site Challenge : Building blob playground with Netlify Blob](https://dev.to/chintanonweb/netlify-dynamic-site-challenge-building-blob-playground-with-netlify-blob-1im4)
+- [Shoutout to Document360 - An AI-powered knowledge base software ✍](https://dev.to/scofieldidehen/shoutout-to-document360-an-ai-powered-knowledge-base-software-1g1h)
+- [Vue 3 - Recursion with Treeview component](https://dev.to/nassbin/vue-3-recursion-with-treeview-component-3jlj)
+- [Consistent Hashing: An Overview and Implementation in Golang](https://dev.to/permify/consistent-hashing-an-overview-and-implementation-in-golang-53je)
+- [Printing reactjs component in a thermal printer](https://dev.to/raulbeltrame/printing-reactjs-component-in-a-thermal-printer-5g5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
