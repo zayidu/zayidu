@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Module not found: Can&#39;t resolve &#39;pino-pretty&#39;](https://dev.to/dinhkhai0201/module-not-found-cant-resolve-pino-pretty-g6)
+- [Securing Remix Apps with Keycloak](https://dev.to/phasetwo/securing-remix-apps-with-keycloak-43mc)
+- [Advanced Git Techniques: Rebasing and Working with Remotes – Part 3](https://dev.to/dipakahirav/advanced-git-techniques-rebasing-and-working-with-remotes-part-3-2n68)
+- [Dimension alignment](https://dev.to/esproc_spl/dimension-alignment-82m)
 - [Day 2 : Setting up the React Environment](https://dev.to/dipakahirav/day-2-setting-up-the-react-environment-3pal)
-- [How I discovered Named Entity Recognition while trying to remove gibberish from a string.](https://dev.to/saintpetejackboy/how-i-discovered-named-entity-recognition-while-trying-to-remove-gibberish-from-a-string-3243)
-- [What Is API Sprawl? How to Prevent API Sprawl?](https://dev.to/apisix/what-is-api-sprawl-how-to-prevent-api-sprawl-4j5n)
-- [Laravel 11 Vue 3 Inertia](https://dev.to/dancruise/laravel-11-vue-3-inertia-nno)
-- [Kolmogorov–Arnold Networks &lpar;KANs&rpar;](https://dev.to/gsanjeewadev/kolmogorov-arnold-networks-kans-33pi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
