@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Less Code &lpar;-75%&rpar; &amp; More Power &lpar;💪&rpar; with Remult](https://dev.to/jycouet/less-code-75-more-power-with-remult-325m)
-- [Is Coding Hard?](https://dev.to/devmarket/is-coding-hard-316g)
-- [Laravel 11 : Custom package does not generate CSRF token.](https://dev.to/thephpx/laravel-11-custom-package-does-not-generate-csrf-token-4oi0)
-- [Instalando de maneira rápida e eficiente suas ferramentas no WSL. Pt-3](https://dev.to/devhat/instalando-de-maneira-rapida-e-eficiente-suas-ferramentas-no-wsl-pt-3-307l)
-- [Mastering SQL: Comprehensive Guide To Structured Query Language](https://dev.to/louaiboumediene/mastering-sql-comprehensive-guide-to-structured-query-language-4gh)
+- [Build a Todo Application Using ToolJet and ToolJetDB](https://dev.to/asjadkhan/build-a-todo-application-using-tooljet-and-tooljetdb-3fbp)
+- [Bra Asks Yangfei Chao: Who Owns the Copyright to Novels Written by AI?](https://dev.to/naizhao/bra-asks-yangfei-chao-who-owns-the-copyright-to-novels-written-by-ai-1ld8)
+- [How Can You Maximize Efficiency with Inspect Element on iPhone?](https://dev.to/jennife05918349/how-can-you-maximize-efficiency-with-inspect-element-on-iphone-4jh3)
+- [This Little kubernetes Port Forwarder Helped me to Save a lot of Time and Headache](https://dev.to/donnercody/this-little-kubernetes-port-forwarder-helped-me-to-save-a-lot-of-time-and-headache-1ba9)
+- [MongoDB aggregation lookup to compare a string and ObjectId field easily](https://dev.to/donnercody/mongodb-aggregation-lookup-to-compare-a-string-and-objectid-field-easily-g4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
