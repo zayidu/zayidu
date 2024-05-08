@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How the web works: page loading and beyond](https://dev.to/udoka033/how-the-web-works-page-loading-and-beyond-4jd6)
-- [Exploring the &quot;Requester Pays&quot; Feature for AWS S3 Buckets. Use Cases and Cost Analysis](https://dev.to/sheopedia/exploring-the-requester-pays-feature-for-aws-s3-buckets-use-cases-and-cost-analysis-3jk4)
-- [Scaling Real-Time Communication with Redis Pub/Sub and Socket.IO](https://dev.to/codexam/scaling-real-time-communication-with-redis-pubsub-and-socketio-3p56)
-- [O que são microserviços? Para que servem e quando usar?](https://dev.to/kauegatto/o-que-sao-microservicos-para-que-servem-e-quando-usar-mb3)
-- [How to Cloud: Virtual Machines](https://dev.to/aws-builders/how-to-cloud-virtual-machines-4h0)
+- [Power Automate Desktop Flow Local Folder](https://dev.to/01kg/power-automate-desktop-flow-local-folder-2aa5)
+- [EmuHub: Simplify Android App Testing with Multiple Emulators](https://dev.to/mohamed-helmy/emuhub-simplify-android-app-testing-with-multiple-emulators-4njo)
+- [What is &quot;User-Defined Type Guard&quot; in TypeScript?](https://dev.to/keento0809/what-is-user-defined-type-guard-in-typescript-423i)
+- [Ipods, Bash &amp; Kid3](https://dev.to/evesan/ipods-bash-kid3-nkm)
+- [Auto-increment columns in Apache Doris](https://dev.to/apachedoris/auto-increment-columns-in-apache-doris-1ec3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
