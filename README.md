@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How the web works: page loading and beyond](https://dev.to/udoka033/how-the-web-works-page-loading-and-beyond-4jd6)
+- [Exploring the &quot;Requester Pays&quot; Feature for AWS S3 Buckets. Use Cases and Cost Analysis](https://dev.to/sheopedia/exploring-the-requester-pays-feature-for-aws-s3-buckets-use-cases-and-cost-analysis-3jk4)
+- [Scaling Real-Time Communication with Redis Pub/Sub and Socket.IO](https://dev.to/codexam/scaling-real-time-communication-with-redis-pubsub-and-socketio-3p56)
 - [O que são microserviços? Para que servem e quando usar?](https://dev.to/kauegatto/o-que-sao-microservicos-para-que-servem-e-quando-usar-mb3)
 - [How to Cloud: Virtual Machines](https://dev.to/aws-builders/how-to-cloud-virtual-machines-4h0)
-- [Introduction to Low-Code Development Platforms](https://dev.to/kartikmehta8/introduction-to-low-code-development-platforms-2fj5)
-- [Rendering Components in React Native for Different Platforms](https://dev.to/paulocappa/rendering-components-in-react-native-for-different-platforms-4ckg)
-- [Rendering Components in React Native for Different Platforms](https://dev.to/paulocappa/rendering-components-in-react-native-for-different-platforms-e54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
