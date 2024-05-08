@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best UX Research Sites for Developers/Designers Inspirations](https://dev.to/renancferro/the-best-ux-research-sites-for-developersdesigners-inspirations-2d0a)
-- [Overcoming Docker Installation Woes on Windows Server 2019 for Lambda Function Testing](https://dev.to/prachibhende/overcoming-docker-installation-woes-on-windows-server-2019-for-lambda-function-testing-3omh)
-- [Netlify Dynamic Site Challenge - Netlify Image CDN to transform an image Gallery](https://dev.to/sumedhakoranga/netlify-dynamic-site-challenge-netlify-image-cdn-to-transform-an-image-gallery-3h3o)
-- [Netlify Dynamic Site Challenge - Netlify Image CDN to transform an image Gallery](https://dev.to/sumedhakoranga/netlify-dynamic-site-challenge-netlify-image-cdn-to-transform-an-image-gallery-4am1)
-- [Netlify Dynamic Site Challenge - Netlify Image CDN to transform an image Gallery](https://dev.to/sumedhakoranga/netlify-dynamic-site-challenge-netlify-image-cdn-to-transform-an-image-gallery-314l)
+- [Nice Froala colour palette](https://dev.to/marwelz/nice-froala-colour-palette-4bbj)
+- [What I do when learning a new framework/language](https://dev.to/kervyntjw/what-i-do-when-learning-a-new-frameworklanguage-2p3a)
+- [CDK CodeChecker v2: Breaking Free from Third-Party Dependencies](https://dev.to/aws-builders/cdk-codechecker-v2-breaking-free-from-third-party-dependencies-3ob5)
+- [Solo Hablando Buenos Días Para Vosotros De La Comuniti!](https://dev.to/raphaelproject001/solo-hablando-buenos-dias-para-vosotros-de-la-comuniti-3021)
+- [Introducing the Next Generation Certificate System in PHP: A Leap Forward in Security and Efficiency](https://dev.to/technosmarter/introducing-the-next-generation-certificate-system-in-php-a-leap-forward-in-security-and-efficiency-2edp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
