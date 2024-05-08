@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get CMS in any Next app with one line](https://dev.to/anmolbaranwal/how-to-get-cms-in-any-next-app-with-one-line-2mjp)
-- [How to Deploy Dart Functions to AWS Lambda](https://dev.to/shinyakato/how-to-deploy-dart-functions-to-aws-lambda-4h1b)
-- [How to sort the labels on the x-axis of a combo chart?](https://dev.to/tinglittlekang/how-to-sort-the-labels-on-the-x-axis-of-a-combo-chart-28hk)
-- [My First SAAS Product](https://dev.to/altarulas/my-first-saas-product-119b)
-- [How do I make the x-axis labels stick to the edge of the trend chart?](https://dev.to/tinglittlekang/how-do-i-make-the-x-axis-labels-stick-to-the-edge-of-the-trend-chart-2e1e)
+- [A Proposal to Add Signals to JavaScript: A Mistake?](https://dev.to/joshuaamaju/a-proposal-to-add-signals-to-javascript-a-mistake-985)
+- [Mastering CQRS Design Pattern with MediatR in C# .NET](https://dev.to/dianaiminza/mastering-cqrs-design-pattern-with-mediatr-in-c-net-khk)
+- [Stack Overflow and OpenAI partner to empower developers](https://dev.to/alexroor4/stack-overflow-and-openai-partner-to-empower-developers-2805)
+- [&quot;Inside DuckDB&quot; series articles](https://dev.to/lightcity/inside-duckdb-series-articles-20in)
+- [&quot;Inside DuckDB&quot; series articles](https://dev.to/lightcity/inside-duckdb-series-articles-1b85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
