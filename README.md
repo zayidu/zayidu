@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Add a custom color to your XCode Project](https://dev.to/leonardsangoroh/add-a-custom-color-to-your-xcode-project-1p)
-- [Notes on The Every Computer Performance Book](https://dev.to/bitmaybewise/notes-on-the-every-computer-performance-book-2l1m)
-- [Moving your bugs forward in time](https://dev.to/momentohq/moving-your-bugs-forward-in-time-3eh7)
-- [Assignment&lpar;O&#39;zlashtirish&rpar; &lpar;=&rpar; operatori](https://dev.to/islomali99/assignmentozlashtirish-operatori-1cg9)
-- [🗣️ Chrome thinks Safari&#39;s proposal for CSS masonry would be a mistake](https://dev.to/adam/chrome-thinks-safaris-proposal-for-css-masonry-would-be-a-mistake-h2h)
+- [The Crossover of Health, Technology and Art: CodeNewbie Podcast S27E6](https://dev.to/codenewbieteam/the-crossover-of-health-technology-and-art-codenewbie-podcast-s27e6-4g1c)
+- [Creating custom pagination component with Angular](https://dev.to/pseudopilot/creating-custom-pagination-component-with-angular-2dl2)
+- [VSCode App Google Play -SUS!](https://dev.to/annavi11arrea1/vscode-app-google-play-sus-h27)
+- [Code Improvements](https://dev.to/walternascimentobarroso/code-improvements-4fj3)
+- [swap the value of two variable Four method [Day-02]](https://dev.to/isjasrajchouhan/swap-the-value-of-two-variable-four-method-day-02-4cp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
