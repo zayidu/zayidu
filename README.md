@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How machines Learn: A look into machine learning.](https://dev.to/fullstackdev/how-machines-learn-a-look-into-machine-learning-47gj)
-- [Creating an Instagram post with multiple photos](https://dev.to/carriefischer/creating-an-instagram-post-with-multiple-photos-29i9)
-- [Compatibility Testing: Everything You Need to Know](https://dev.to/morrismoses149/compatibility-testing-everything-you-need-to-know-321e)
-- [Minimizing Numeric Errors](https://dev.to/paulike/minimizing-numeric-errors-37mh)
-- [Fundamental of Networking For Beginner: How Data Flows on the Internet. Part-1](https://dev.to/basar/fundamental-of-networking-for-beginner-how-data-flows-on-the-internet-part-1-3ho8)
+- [Add a custom color to your XCode Project](https://dev.to/leonardsangoroh/add-a-custom-color-to-your-xcode-project-1p)
+- [Notes on The Every Computer Performance Book](https://dev.to/bitmaybewise/notes-on-the-every-computer-performance-book-2l1m)
+- [Moving your bugs forward in time](https://dev.to/momentohq/moving-your-bugs-forward-in-time-3eh7)
+- [Assignment&lpar;O&#39;zlashtirish&rpar; &lpar;=&rpar; operatori](https://dev.to/islomali99/assignmentozlashtirish-operatori-1cg9)
+- [🗣️ Chrome thinks Safari&#39;s proposal for CSS masonry would be a mistake](https://dev.to/adam/chrome-thinks-safaris-proposal-for-css-masonry-would-be-a-mistake-h2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
