@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Proposal to Add Signals to JavaScript: A Mistake?](https://dev.to/joshuaamaju/a-proposal-to-add-signals-to-javascript-a-mistake-985)
-- [Mastering CQRS Design Pattern with MediatR in C# .NET](https://dev.to/dianaiminza/mastering-cqrs-design-pattern-with-mediatr-in-c-net-khk)
-- [Stack Overflow and OpenAI partner to empower developers](https://dev.to/alexroor4/stack-overflow-and-openai-partner-to-empower-developers-2805)
-- [&quot;Inside DuckDB&quot; series articles](https://dev.to/lightcity/inside-duckdb-series-articles-20in)
-- [&quot;Inside DuckDB&quot; series articles](https://dev.to/lightcity/inside-duckdb-series-articles-1b85)
+- [The First Step in My Career: Am I Ready to Start Job Hunting in Programming?](https://dev.to/nataliahavashi/the-first-step-in-my-career-am-i-ready-to-start-job-hunting-in-programming-5agj)
+- [Testing](https://dev.to/mathi27/testing-1imm)
+- [The Rise of AI: How CIOs Are Embracing Artificial Intelligence to Drive Business Innovation](https://dev.to/ajaytie/the-rise-of-ai-how-cios-are-embracing-artificial-intelligence-to-drive-business-innovation-51b6)
+- [Exploring Map, Reduce, and Filter Functions in PHP](https://dev.to/jobayer/exploring-map-reduce-and-filter-functions-in-php-19m9)
+- [When creating a react native project the app.js file can&#39;t be create ?](https://dev.to/dongtrien/when-creating-a-react-native-project-the-appjs-file-cant-be-create--4ehb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
