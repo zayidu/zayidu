@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nice Froala colour palette](https://dev.to/marwelz/nice-froala-colour-palette-4bbj)
-- [What I do when learning a new framework/language](https://dev.to/kervyntjw/what-i-do-when-learning-a-new-frameworklanguage-2p3a)
-- [CDK CodeChecker v2: Breaking Free from Third-Party Dependencies](https://dev.to/aws-builders/cdk-codechecker-v2-breaking-free-from-third-party-dependencies-3ob5)
-- [Solo Hablando Buenos Días Para Vosotros De La Comuniti!](https://dev.to/raphaelproject001/solo-hablando-buenos-dias-para-vosotros-de-la-comuniti-3021)
-- [Introducing the Next Generation Certificate System in PHP: A Leap Forward in Security and Efficiency](https://dev.to/technosmarter/introducing-the-next-generation-certificate-system-in-php-a-leap-forward-in-security-and-efficiency-2edp)
+- [Less Code &lpar;-75%&rpar; &amp; More Power &lpar;💪&rpar; with Remult](https://dev.to/jycouet/less-code-75-more-power-with-remult-325m)
+- [Is Coding Hard?](https://dev.to/devmarket/is-coding-hard-316g)
+- [Laravel 11 : Custom package does not generate CSRF token.](https://dev.to/thephpx/laravel-11-custom-package-does-not-generate-csrf-token-4oi0)
+- [Instalando de maneira rápida e eficiente suas ferramentas no WSL. Pt-3](https://dev.to/devhat/instalando-de-maneira-rapida-e-eficiente-suas-ferramentas-no-wsl-pt-3-307l)
+- [Mastering SQL: Comprehensive Guide To Structured Query Language](https://dev.to/louaiboumediene/mastering-sql-comprehensive-guide-to-structured-query-language-4gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
