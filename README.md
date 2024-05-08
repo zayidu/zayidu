@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Security Essentials for Your Apps](https://dev.to/sharony/python-security-essentials-for-your-apps-4dfg)
-- [Wie man eine django Webapp in Produktion aufsetzt &lpar;Teil 1&rpar;](https://dev.to/rubenvoss/wie-man-eine-django-webapp-in-produktion-aufsetzt-teil-1-1hpm)
-- [Tips and tricks to code in Go in a clean, functional and effective way](https://dev.to/charly3pins/tips-and-tricks-to-code-in-go-in-a-clean-functional-and-effective-way-1d60)
-- [A new paradigm](https://dev.to/adoucoure/a-new-paradigm-38gf)
-- [Test Repository in .NET core using In Memory database](https://dev.to/extinctsion/test-repository-in-net-core-using-in-memory-database-5h1c)
+- [How machines Learn: A look into machine learning.](https://dev.to/fullstackdev/how-machines-learn-a-look-into-machine-learning-47gj)
+- [Creating an Instagram post with multiple photos](https://dev.to/carriefischer/creating-an-instagram-post-with-multiple-photos-29i9)
+- [Compatibility Testing: Everything You Need to Know](https://dev.to/morrismoses149/compatibility-testing-everything-you-need-to-know-321e)
+- [Minimizing Numeric Errors](https://dev.to/paulike/minimizing-numeric-errors-37mh)
+- [Fundamental of Networking For Beginner: How Data Flows on the Internet. Part-1](https://dev.to/basar/fundamental-of-networking-for-beginner-how-data-flows-on-the-internet-part-1-3ho8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
