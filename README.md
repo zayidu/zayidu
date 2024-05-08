@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Automate Desktop Flow Local Folder](https://dev.to/01kg/power-automate-desktop-flow-local-folder-2aa5)
-- [EmuHub: Simplify Android App Testing with Multiple Emulators](https://dev.to/mohamed-helmy/emuhub-simplify-android-app-testing-with-multiple-emulators-4njo)
-- [What is &quot;User-Defined Type Guard&quot; in TypeScript?](https://dev.to/keento0809/what-is-user-defined-type-guard-in-typescript-423i)
-- [Ipods, Bash &amp; Kid3](https://dev.to/evesan/ipods-bash-kid3-nkm)
-- [Auto-increment columns in Apache Doris](https://dev.to/apachedoris/auto-increment-columns-in-apache-doris-1ec3)
+- [Design Research Methodology in Information Technology](https://dev.to/okyzaprabowo/design-research-methodology-in-information-technology-3mgc)
+- [Image Gallery](https://dev.to/jalpster/image-gallery-585e)
+- [You are a Senior Engineer, now what? &lpar;Part 1&rpar;](https://dev.to/alexandreamadocastro/you-are-a-senior-engineer-now-what-part-1-4bih)
+- [why .txt files in next.js build of new App structure?](https://dev.to/rajasekhar27/why-txt-files-in-nextjs-build-of-new-app-structure-34dk)
+- [Mastering Data Analysis with Python&#39;s Core Libraries](https://dev.to/annaliesetech/mastering-data-analysis-with-pythons-core-libraries-2lkg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
