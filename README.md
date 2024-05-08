@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Terragrunt for Multi-Region/Multi-Account Deployments](https://dev.to/aws-builders/terragrunt-for-multi-regionmulti-account-deployments-1o1)
-- [Enhancing User Engagement with Video Widgets](https://dev.to/msmith99994/enhancing-user-engagement-with-video-widgets-30n1)
-- [AZURE ACTIVE DIRECTORY&lpar;microsoft entra&rpar; ROLE ASSIGNMENT](https://dev.to/shaloversal123/azure-active-directorymicrosoft-entra-role-assignment-1fki)
-- [37 Tips from a Senior Frontend Developer](https://dev.to/_ndeyefatoudiop/37-tips-from-a-senior-frontend-developer-251b)
-- [How to use Google Gemini AI for Agriculture Productivity](https://dev.to/vishalmysore/how-to-use-google-gemini-ai-for-agriculture-productivity-556)
+- [Rendering Components in React Native for Different Platforms](https://dev.to/paulocappa/rendering-components-in-react-native-for-different-platforms-4ckg)
+- [Rendering Components in React Native for Different Platforms](https://dev.to/paulocappa/rendering-components-in-react-native-for-different-platforms-e54)
+- [Welcome Thread - v275](https://dev.to/devteam/welcome-thread-v275-5a9f)
+- [The most worrisome health challenges in the future, according to LLMs](https://dev.to/astrabert/the-most-worrisome-health-challenges-in-the-future-according-to-llms-2hgf)
+- [Pj&#39;s First Field Day: A Campus Experts Adventure](https://dev.to/gh-campus-experts/pjs-first-field-day-a-campus-experts-adventure-2nfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
