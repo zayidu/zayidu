@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Research Methodology in Information Technology](https://dev.to/okyzaprabowo/design-research-methodology-in-information-technology-3mgc)
-- [Image Gallery](https://dev.to/jalpster/image-gallery-585e)
-- [You are a Senior Engineer, now what? &lpar;Part 1&rpar;](https://dev.to/alexandreamadocastro/you-are-a-senior-engineer-now-what-part-1-4bih)
-- [why .txt files in next.js build of new App structure?](https://dev.to/rajasekhar27/why-txt-files-in-nextjs-build-of-new-app-structure-34dk)
-- [Mastering Data Analysis with Python&#39;s Core Libraries](https://dev.to/annaliesetech/mastering-data-analysis-with-pythons-core-libraries-2lkg)
+- [Ultimate CKA Mock Exam!](https://dev.to/fahmi/ultimate-cka-mock-exam-25pi)
+- [DSA vs. Development, Confused?](https://dev.to/devmarket/dsa-vs-development-confused-176h)
+- [Infinite horizontal scroll, vanilla CSS](https://dev.to/neophen/infinite-horizontal-scroll-vanilla-css-5d7g)
+- [Why Compliance Testing In Digital Transformation Is Vital](https://dev.to/misterankit/why-compliance-testing-in-digital-transformation-is-vital-f4o)
+- [Carrusel de Revistas RRCSH](https://dev.to/kevgutierrez09_/carrusel-de-revistas-rrcsh-5adk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
