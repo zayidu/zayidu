@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Night Owls Code Better?](https://dev.to/devteam/do-night-owls-code-better-4ddj)
-- [C# dasturlash tilining umumiy tuzilishi.](https://dev.to/ozodbek_soft/c-dasturlash-tilining-umumiy-tuzilishi-3b5e)
-- [How GetX State Management Library Works in Flutter](https://dev.to/codetradeindia/how-getx-state-management-library-works-in-flutter-3on8)
-- [Setting up older mac mini](https://dev.to/codehiccups/setting-up-older-mac-mini-1124)
-- [Mastering Angular SSR: Enabling Custom HTTP Responses &lpar;404, 301&rpar;](https://dev.to/cubesoft/mastering-angular-ssr-enabling-custom-http-responses-404-301-55pc)
+- [How to get CMS in any Next app with one line](https://dev.to/anmolbaranwal/how-to-get-cms-in-any-next-app-with-one-line-2mjp)
+- [How to Deploy Dart Functions to AWS Lambda](https://dev.to/shinyakato/how-to-deploy-dart-functions-to-aws-lambda-4h1b)
+- [How to sort the labels on the x-axis of a combo chart?](https://dev.to/tinglittlekang/how-to-sort-the-labels-on-the-x-axis-of-a-combo-chart-28hk)
+- [My First SAAS Product](https://dev.to/altarulas/my-first-saas-product-119b)
+- [How do I make the x-axis labels stick to the edge of the trend chart?](https://dev.to/tinglittlekang/how-do-i-make-the-x-axis-labels-stick-to-the-edge-of-the-trend-chart-2e1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
