@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The First Step in My Career: Am I Ready to Start Job Hunting in Programming?](https://dev.to/nataliahavashi/the-first-step-in-my-career-am-i-ready-to-start-job-hunting-in-programming-5agj)
-- [Testing](https://dev.to/mathi27/testing-1imm)
-- [The Rise of AI: How CIOs Are Embracing Artificial Intelligence to Drive Business Innovation](https://dev.to/ajaytie/the-rise-of-ai-how-cios-are-embracing-artificial-intelligence-to-drive-business-innovation-51b6)
-- [Exploring Map, Reduce, and Filter Functions in PHP](https://dev.to/jobayer/exploring-map-reduce-and-filter-functions-in-php-19m9)
-- [When creating a react native project the app.js file can&#39;t be create ?](https://dev.to/dongtrien/when-creating-a-react-native-project-the-appjs-file-cant-be-create--4ehb)
+- [Descomplicando a Configuração de Producers e Consumers com Kafka](https://dev.to/jjeanjacques10/descomplicando-a-configuracao-de-producers-e-consumers-com-kafka-nj8)
+- [SQL Join Types Explained: Inner, Outer, and More in 2024](https://dev.to/nikhilxd/sql-join-types-explained-inner-outer-and-more-in-2024-cki)
+- [Wasp x Supabase: Smokin’ Hot Full-Stack Combo 🌶️ 🔥](https://dev.to/wasp/wasp-x-supabase-smokin-hot-full-stack-combo-ioe)
+- [Unlocking Performance of Enabling Intel Application Optimization on MSI Motherboard](https://dev.to/thetechbasic/unlocking-performance-of-enabling-intel-application-optimization-on-msi-motherboard-1gbl)
+- [Exploring Enhanced Switch in Java](https://dev.to/nikhilxd/exploring-enhanced-switch-in-java-44fh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
