@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate CKA Mock Exam!](https://dev.to/fahmi/ultimate-cka-mock-exam-25pi)
-- [DSA vs. Development, Confused?](https://dev.to/devmarket/dsa-vs-development-confused-176h)
-- [Infinite horizontal scroll, vanilla CSS](https://dev.to/neophen/infinite-horizontal-scroll-vanilla-css-5d7g)
-- [Why Compliance Testing In Digital Transformation Is Vital](https://dev.to/misterankit/why-compliance-testing-in-digital-transformation-is-vital-f4o)
-- [Carrusel de Revistas RRCSH](https://dev.to/kevgutierrez09_/carrusel-de-revistas-rrcsh-5adk)
+- [Struggling with Inventory Management? This Might Help!](https://dev.to/harshitlyzr/struggling-with-inventory-management-this-might-help-5aa)
+- [LangChain Chains: Simple to Advanced Workflows](https://dev.to/rutamstwt/langchain-chains-simple-to-advanced-workflows-17n4)
+- [Top 3 Cloud and DevOps Projects To Supercharge Your Resume](https://dev.to/aws-builders/top-5-cloud-and-devops-projects-to-supercharge-your-resume-62f)
+- [Installing a Nerd Font in Ubuntu](https://dev.to/thiagomg/installing-a-nerd-font-in-ubuntu-558l)
+- [Google Zanzibar implementations](https://dev.to/spaceblocks/google-zanzibar-implementations-56f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
