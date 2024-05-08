@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React 19 is Coming, What’s New?](https://dev.to/safdarali/react-19-is-coming-whats-new-3noj)
-- [Unpacking DNS in Kubernetes: How It Works and Why It Matters](https://dev.to/rajeshgheware/unpacking-dns-in-kubernetes-how-it-works-and-why-it-matters-2h63)
-- [Facebook Logo and the History Behind the Company](https://dev.to/pngwing/facebook-logo-and-the-history-behind-the-company-1gbo)
-- [Ensuring High Availability in Financial Services: A Deep Dive into Kubernetes PodDisruptionBudget](https://dev.to/rajeshgheware/ensuring-high-availability-in-financial-services-a-deep-dive-into-kubernetes-poddisruptionbudget-1c0b)
-- [How to set up a new project using Yarn](https://dev.to/prudkohliad/how-to-set-up-a-new-project-using-yarn-2006)
+- [Accessibility Breakdown](https://dev.to/devsatasurion/accessibility-breakdown-5c65)
+- [Giving Odin Vision](https://dev.to/yevhenk/giving-odin-vision-1fd5)
+- [Mastering Favicon Implementation: A Comprehensive Guide.](https://dev.to/be_rajeevkumar/mastering-favicon-implementation-a-comprehensive-guide-1a85)
+- [[Java] Get file list from specified directory](https://dev.to/masanori_msl/java-get-file-list-from-specified-directory-55eg)
+- [Rapier Physics with Macroquad: Rust Game Physics](https://dev.to/askrodney/rapier-physics-with-macroquad-rust-game-physics-77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
