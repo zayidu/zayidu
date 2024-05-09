@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practises for Building Responsive design in 2024](https://dev.to/linusmwiti21/best-practises-for-building-responsive-design-in-2024-48c4)
-- [Quickly Create App Icons by Resizing Your Main Image With a Bash Script](https://dev.to/simplykyra/quickly-create-app-icons-by-resizing-your-main-image-with-a-bash-script-3fif)
-- [6 hard truths about learning to code in 2024](https://dev.to/educative/6-hard-truths-about-learning-to-code-in-2024-ppj)
-- [Keywords break and continue](https://dev.to/paulike/keywords-break-and-continue-488k)
-- [From ETL to Modern Integration Platforms](https://dev.to/ovaisnaseem/from-etl-to-modern-integration-platforms-p5n)
+- [Autofac ComponentRegistryBuilder in ASP.NET Core – How To Register Dependencies](https://dev.to/devleader/autofac-componentregistrybuilder-in-aspnet-core-how-to-register-dependencies-ejp)
+- [A Quick Guide for GraphQL](https://dev.to/weseek-inc/a-quick-guide-for-graphql-1569)
+- [SysAdmin](https://dev.to/ashcript/sysadmin-1451)
+- [Yes, Ruby is fast, but…](https://dev.to/betaziliani/yes-ruby-is-fast-but-1l49)
+- [Install p12 Certificate on the CI/CD&#39;s macOS executor](https://dev.to/kylefoo/install-p12-certificate-on-the-cicds-macos-executor-470k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
