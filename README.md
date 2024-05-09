@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Garbage Collector &lpar;O coletor de lixo do Java&rpar;](https://dev.to/alexreis/garbage-collector-o-coletor-de-lixo-do-java-4gdm)
-- [Cómo configurar React + Typescript en una aplicación laravel con inertia](https://dev.to/hernanarica/como-configurar-react-typescript-en-una-aplicacion-laravel-con-inertia-5an6)
-- [How AI Can Enhance Personalization in Magento Stores](https://dev.to/rimiweb/how-ai-can-enhance-personalization-in-magento-stores-20kp)
-- [Analyzing my Amazon Purchases with Pandas and Dash](https://dev.to/mauricebrg/analyzing-my-amazon-purchases-with-pandas-and-dash-gh9)
-- [Vue 3 Forms and Validations with VueFormify and yup](https://dev.to/mateenagy/vue-3-forms-and-validations-with-vueformify-and-yup-50e6)
+- [The Adventures of Blink #22: Hidden Messages](https://dev.to/linkbenjamin/the-adventures-of-blink-22-hidden-messages-59eg)
+- [C# va .NETga sayohat.](https://dev.to/ozodbek_soft/c-va-netga-sayohat-24kj)
+- [Vonage Welcomes Twilio Programmable Video Customers](https://dev.to/vonagedev/vonage-welcomes-twilio-programmable-video-customers-2edp)
+- [React Hooks : A Comprehensive Beginner’s Guide](https://dev.to/johnnyk/react-hooks-a-comprehensive-beginners-guide-3bgc)
+- [Portfolio built with Typescript and Python](https://dev.to/gfouz/portfolio-built-with-typescript-and-python-e1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
