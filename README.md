@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Install Alpine Linux In Virtualbox](https://dev.to/hardyweb/install-alpine-linux-in-virtualbox-edn)
+- [Tembo: Maximizing the Power of Postgres in the Cloud](https://dev.to/gimkelum/tembo-maximizing-the-tembo-maximizing-the-power-of-postgres-in-the-cloud-3mb1)
+- [The Rise of Headless CMS: Unleashing the Power of Content Management in Modern Web Development](https://dev.to/infobijoy/the-rise-of-headless-cms-unleashing-the-power-of-content-management-in-modern-web-development-4ceo)
+- [Large UV Flatbed Printers: Enhancing Productivity in Printing Businesses](https://dev.to/abychen/large-uv-flatbed-printers-enhancing-productivity-in-printing-businesses-29jb)
 - [What is C and C++ Used For in 2024?](https://dev.to/thekarlesi/what-is-c-and-c-used-for-in-2024-532m)
-- [Introdução ao Teste Automatizado com Jest: Como Começar a Escrever Testes Eficientes](https://dev.to/warmachine13/introducao-ao-teste-automatizado-com-jest-como-comecar-a-escrever-testes-eficientes-366m)
-- [Duplicate Detection Rules in Dynamics 365 CRM.](https://dev.to/za5tfh/duplicate-detection-rules-in-dynamics-365-crm-3a2b)
-- [Creating an Array of Unique Objects in Javascript](https://dev.to/nickcosmo/creating-an-array-of-unique-objects-in-javascript-2m6b)
-- [Supabase helper for better RPC function typing with jsonb fields](https://dev.to/omills/supabase-helper-for-better-rpc-function-typing-with-jsonb-fields-1ok5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
