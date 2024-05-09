@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unity에서 라이브 스트리밍 - 실시간 게임 브로드캐스팅 &lpar;Part 2&rpar; &lpar;Live Streaming from Unity - Broadcasting a Game in Real-Time &lpar;Part 2&rpar;&rpar;](https://dev.to/aws/unityeseo-raibeu-seuteuriming-silsigan-geim-beurodeukaeseuting-part-2-live-streaming-from-unity-broadcasting-a-game-in-real-time-part-2-4anb)
-- [Unity에서 Amazon IVS로 라이브 스트리밍하기 - Part 1 &lpar;Live Streaming from Unity with Amazon IVS - Part 1&rpar;](https://dev.to/aws/unityeseo-amazon-ivsro-raibeu-seuteuriminghagi-part-1-live-streaming-from-unity-with-amazon-ivs-part-1-42hp)
-- [ESLint Plugin. What was missed in the doc?](https://dev.to/xavescor/eslint-plugin-what-was-missed-in-the-doc-fmg)
-- [Complex Event Filtering with AWS EventBridge Pipes, Rules and No Custom Code.](https://dev.to/aws-builders/complex-event-filtering-with-aws-eventbridge-pipes-rules-and-no-custom-code-2b11)
-- [Event Loop Part 1](https://dev.to/ylanzinhoy/event-loop-part-1-3gni)
+- [What is C and C++ Used For in 2024?](https://dev.to/thekarlesi/what-is-c-and-c-used-for-in-2024-532m)
+- [Introdução ao Teste Automatizado com Jest: Como Começar a Escrever Testes Eficientes](https://dev.to/warmachine13/introducao-ao-teste-automatizado-com-jest-como-comecar-a-escrever-testes-eficientes-366m)
+- [Duplicate Detection Rules in Dynamics 365 CRM.](https://dev.to/za5tfh/duplicate-detection-rules-in-dynamics-365-crm-3a2b)
+- [Creating an Array of Unique Objects in Javascript](https://dev.to/nickcosmo/creating-an-array-of-unique-objects-in-javascript-2m6b)
+- [Supabase helper for better RPC function typing with jsonb fields](https://dev.to/omills/supabase-helper-for-better-rpc-function-typing-with-jsonb-fields-1ok5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
