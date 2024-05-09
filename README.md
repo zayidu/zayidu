@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Body language At Workplace](https://dev.to/bingecoder89/body-language-at-workplace-2k62)
-- [Using Clean Architecture and the Unit of Work Pattern on a Node.js Application](https://dev.to/schead/using-clean-architecture-and-the-unit-of-work-pattern-on-a-nodejs-application-3pc9)
-- [Carregando dados com Apache HOP &amp; Postgres](https://dev.to/deadpunnk/carregando-dados-com-apache-hop-postgres-lek)
-- [Deploy React App using GitLab CICD and Docker](https://dev.to/jay_sheth/deploy-react-app-using-gitlab-cicd-and-docker-2h56)
-- [Boosting UX: How I Transformed Data Management in Our App with this lib](https://dev.to/joaofelipe/boosting-ux-how-i-transformed-data-management-in-our-app-with-this-lib-1dkk)
+- [10 engineering blogs to become a System Design Hero for free](https://dev.to/kumarkalyan/10-engineering-blogs-to-become-a-system-design-hero-for-free-20ee)
+- [Open Source Essentials : Mastering Git, GitHub, Issues, and Best Practices for Beginners](https://dev.to/everlygif/open-source-essentials-mastering-git-github-issues-and-best-practices-for-beginners-4a16)
+- [Best Practices for Naming REST API Endpoints](https://dev.to/spencernguyen/best-practices-for-naming-rest-api-endpoints-24fd)
+- [Day 39/366](https://dev.to/vishalmx3/day-39366-325h)
+- [Critical Test Based Alerting with PagerDuty and Testkube](https://dev.to/kubeshop/critical-test-based-alerting-with-pagerduty-and-testkube-5dh7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
