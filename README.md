@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker and WSL2 without Docker Desktop](https://dev.to/rombru/docker-and-wsl2-without-docker-desktop-3pg3)
-- [How To Write Basic List Comprehension In Python](https://dev.to/deborah/how-to-write-basic-list-comprehension-in-python-5a4o)
-- [Creating a conditional wrap component in Vue 3](https://dev.to/alexander-nenashev/creating-a-conditional-wrap-component-in-vue-3-4k7i)
-- [Aya Rust tutorial Part Two - Setting up](https://dev.to/stevelatif/aya-rust-tutorial-part-two-setting-up-1man)
-- [&quot;🚀 Unlock Your Career Potential with Soft Skills! 🌟](https://dev.to/hey_rishabh/-unlock-your-career-potential-with-soft-skills-odn)
+- [Best node.js test framework, with benchmarks](https://dev.to/romeerez/best-nodejs-test-framework-with-benchmarks-91j)
+- [Tips from open-source: Generator function in Javascript.](https://dev.to/ramunarasinga/tips-from-open-source-generator-function-in-javascript-2d2h)
+- [The FastAPI CLI Will Ease Building Apps](https://dev.to/jod35/the-fastapi-cli-will-ease-building-apps-4k1d)
+- [Terraform Module Gotchas - Inline block example S3 AWS](https://dev.to/aws-builders/terraform-module-gotchas-inline-block-example-s3-aws-1ib2)
+- [Vulnerabilities: Cause for Concern](https://dev.to/annavi11arrea1/vulnerabilities-cause-for-concern-3986)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
