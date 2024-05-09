@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Final association query solution](https://dev.to/esproc_spl/final-association-query-solution-4j9n)
-- [How PostgreSQL&#39;s COALESCE Function Simplifies NULL Value Handling](https://dev.to/dbvismarketing/how-postgresqls-coalesce-function-simplifies-null-value-handling-1i65)
-- [Does Personality Boost ChatGPT Interactions?](https://dev.to/devteam/does-personality-boost-chatgpt-interactions-135n)
-- [What is Software Testing? All About its Tools &amp; Methodology](https://dev.to/testscenario/what-is-software-testing-all-about-its-tools-methodology-lgm)
-- [Is MongoDB Good for E-Commerce? Pros, Cons &amp; FAQs](https://dev.to/mazharamin/is-mongodb-good-for-e-commerce-pros-cons-faqs-1mo8)
+- [Journey to modern databases](https://dev.to/metis/journey-to-modern-databases-1dia)
+- [Simple Preferences to Any Resource with Ruby on Rails](https://dev.to/railsdesigner/simple-preferences-to-any-resource-for-rails-3hnp)
+- [Netlify image CDN](https://dev.to/alisinayousofi/netlify-image-cdn-1cko)
+- [Will Customers Ever Speak Our Language?](https://dev.to/fanatixan/will-customers-ever-speak-our-language-2k2j)
+- [Day 8 of 30 of JavaScript](https://dev.to/akshat0610/day-8-of-30-of-javascript-5186)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
