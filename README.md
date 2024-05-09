@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Reasons Why Every Java and Python Developer Should Understand Machine Learning Algorithms](https://dev.to/myexamcloud/5-reasons-why-every-java-and-python-developer-should-understand-machine-learning-algorithms-18nm)
-- [Everyone knows that you can have relations in MongoDB, right?](https://dev.to/smart_egg/everyone-knows-that-you-can-have-relations-in-mongodb-right-880)
-- [Setup REST-API service of AI by using Local LLMs with Ollama](https://dev.to/dexterxt/setup-rest-api-service-of-ai-by-using-local-llms-with-ollama-2d81)
-- [Microservice: Consideration Before Migrating](https://dev.to/nghtslvr/microservice-consideration-before-migrating-dph)
-- [Migration from Medium to dev.to and Hugo](https://dev.to/jetthoughts_61/migration-from-medium-to-devto-and-hugo-28bj)
+- [Durable Execution Explained — How Conductor Delivers Resilient Systems Out Of The Box](https://dev.to/orkes/durable-execution-explained-how-conductor-delivers-resilient-systems-out-of-the-box-3i1p)
+- [Negotiating a Higher Salary as a Junior Developer](https://dev.to/sotergreco/negotiating-a-higher-salary-as-a-junior-developer-nhb)
+- [Solving the Localhost Development Headache with Nanocl](https://dev.to/leone/solving-the-localhost-development-headache-with-nanocl-41ak)
+- [Understanding Android Architecture Patterns: MVC, MVP, and MVVM](https://dev.to/saurabh18071998/understanding-android-architecture-patterns-mvc-mvp-and-mvvm-3h17)
+- [First Project](https://dev.to/taird0/first-project-2mjg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
