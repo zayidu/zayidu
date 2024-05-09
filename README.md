@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Install Alpine Linux In Virtualbox](https://dev.to/hardyweb/install-alpine-linux-in-virtualbox-edn)
-- [Tembo: Maximizing the Power of Postgres in the Cloud](https://dev.to/gimkelum/tembo-maximizing-the-tembo-maximizing-the-power-of-postgres-in-the-cloud-3mb1)
-- [The Rise of Headless CMS: Unleashing the Power of Content Management in Modern Web Development](https://dev.to/infobijoy/the-rise-of-headless-cms-unleashing-the-power-of-content-management-in-modern-web-development-4ceo)
-- [Large UV Flatbed Printers: Enhancing Productivity in Printing Businesses](https://dev.to/abychen/large-uv-flatbed-printers-enhancing-productivity-in-printing-businesses-29jb)
-- [What is C and C++ Used For in 2024?](https://dev.to/thekarlesi/what-is-c-and-c-used-for-in-2024-532m)
+- [Primitive Data Structure](https://dev.to/developedbyjk/primitive-data-structure-3klm)
+- [Why Every Website Needs an SSL Encryption](https://dev.to/me_priya/why-every-website-needs-an-ssl-encryption-4bcb)
+- [Langchain: Question Answering over Documents](https://dev.to/rutamstwt/langchain-question-answering-over-documents-3mh6)
+- [Rápido e Devagar: Dicas para Estimativas que Quase Dão Certo](https://dev.to/pdn/rapido-e-devagar-dicas-para-estimativas-que-quase-dao-certo-a26)
+- [Troubleshoot dependencies in Pipfile/pipenv](https://dev.to/notingin4k/troubleshoot-dependencies-in-pipfilepipenv-27d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
