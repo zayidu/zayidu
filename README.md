@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 engineering blogs to become a System Design Hero for free](https://dev.to/kumarkalyan/10-engineering-blogs-to-become-a-system-design-hero-for-free-20ee)
-- [Open Source Essentials : Mastering Git, GitHub, Issues, and Best Practices for Beginners](https://dev.to/everlygif/open-source-essentials-mastering-git-github-issues-and-best-practices-for-beginners-4a16)
-- [Best Practices for Naming REST API Endpoints](https://dev.to/spencernguyen/best-practices-for-naming-rest-api-endpoints-24fd)
-- [Day 39/366](https://dev.to/vishalmx3/day-39366-325h)
-- [Critical Test Based Alerting with PagerDuty and Testkube](https://dev.to/kubeshop/critical-test-based-alerting-with-pagerduty-and-testkube-5dh7)
+- [Docker and WSL2 without Docker Desktop](https://dev.to/rombru/docker-and-wsl2-without-docker-desktop-3pg3)
+- [How To Write Basic List Comprehension In Python](https://dev.to/deborah/how-to-write-basic-list-comprehension-in-python-5a4o)
+- [Creating a conditional wrap component in Vue 3](https://dev.to/alexander-nenashev/creating-a-conditional-wrap-component-in-vue-3-4k7i)
+- [Aya Rust tutorial Part Two - Setting up](https://dev.to/stevelatif/aya-rust-tutorial-part-two-setting-up-1man)
+- [&quot;🚀 Unlock Your Career Potential with Soft Skills! 🌟](https://dev.to/hey_rishabh/-unlock-your-career-potential-with-soft-skills-odn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
