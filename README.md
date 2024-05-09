@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Body language At Workplace](https://dev.to/bingecoder89/body-language-at-workplace-2k62)
+- [Using Clean Architecture and the Unit of Work Pattern on a Node.js Application](https://dev.to/schead/using-clean-architecture-and-the-unit-of-work-pattern-on-a-nodejs-application-3pc9)
+- [Carregando dados com Apache HOP &amp; Postgres](https://dev.to/deadpunnk/carregando-dados-com-apache-hop-postgres-lek)
+- [Deploy React App using GitLab CICD and Docker](https://dev.to/jay_sheth/deploy-react-app-using-gitlab-cicd-and-docker-2h56)
 - [Boosting UX: How I Transformed Data Management in Our App with this lib](https://dev.to/joaofelipe/boosting-ux-how-i-transformed-data-management-in-our-app-with-this-lib-1dkk)
-- [NPM libraries to build your next AI projects](https://dev.to/pierre/ai-npm-libraries-packages-3n4e)
-- [Turbocharge your Angular project: A config tutorial](https://dev.to/alcaidio/turbocharge-your-angular-project-a-config-tutorial-58g4)
-- [Welcome to the Exciting World of Zig! 🚀](https://dev.to/d4c7/welcome-to-the-exciting-world-of-zig-2b65)
-- [How to Choose Salesforce Commerce Cloud Implementation Services](https://dev.to/doriansabitov/how-to-choose-salesforce-commerce-cloud-implementation-services-4eml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
