@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🍱 15 Japanese Techniques for Developers to Boost Your Productivity!](https://dev.to/evergrowingdev/15-japanese-techniques-for-developers-to-boost-your-productivity-2g55)
-- [Building Real-time Communication in Flutter: A Guide to TURN and Signaling Servers](https://dev.to/abdulrazack23/building-real-time-communication-in-flutter-a-guide-to-turn-and-signaling-servers-22fe)
-- [Building a Note-taking and Sharing App for University Students](https://dev.to/mrpaulishaili/building-a-note-taking-and-sharing-app-for-university-students-g7n)
-- [HOW TO UTILIZE MICROSOFT AZURE ACTIVE DIRECTORY TO MANAGE CLOUD-BASED IDENTITIES.](https://dev.to/droz79/how-to-utilize-microsoft-azure-active-directory-to-manage-cloud-based-identities-23h9)
-- [Deploy an Arbitrum Orbit DevNet with Zeeve RaaS: Your DIY Guide](https://dev.to/zeeve/deploy-an-arbitrum-orbit-devnet-with-zeeve-raas-your-diy-guide-207c)
+- [Best Practises for Building Responsive design in 2024](https://dev.to/linusmwiti21/best-practises-for-building-responsive-design-in-2024-48c4)
+- [Quickly Create App Icons by Resizing Your Main Image With a Bash Script](https://dev.to/simplykyra/quickly-create-app-icons-by-resizing-your-main-image-with-a-bash-script-3fif)
+- [6 hard truths about learning to code in 2024](https://dev.to/educative/6-hard-truths-about-learning-to-code-in-2024-ppj)
+- [Keywords break and continue](https://dev.to/paulike/keywords-break-and-continue-488k)
+- [From ETL to Modern Integration Platforms](https://dev.to/ovaisnaseem/from-etl-to-modern-integration-platforms-p5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
