@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microservice Orchestration Best Practices](https://dev.to/getambassador2024/microservice-orchestration-best-practices-4bid)
-- [What is a Optical Receiver?](https://dev.to/markrobot/what-is-a-optical-receiver-2aig)
-- [EDFA - Everything you should know](https://dev.to/markrobot/edfa-everything-you-should-know-477n)
-- [A Guide to CI/CD Pipelines using GitHub Action](https://dev.to/snehalkadwe/a-guide-to-cicd-pipelines-using-github-action-5doj)
-- [“Automating VPC Peering in AWS with Terraform”](https://dev.to/prajwal2023/automating-vpc-peering-in-aws-with-terraform-2hgm)
+- [Final association query solution](https://dev.to/esproc_spl/final-association-query-solution-4j9n)
+- [How PostgreSQL&#39;s COALESCE Function Simplifies NULL Value Handling](https://dev.to/dbvismarketing/how-postgresqls-coalesce-function-simplifies-null-value-handling-1i65)
+- [Does Personality Boost ChatGPT Interactions?](https://dev.to/devteam/does-personality-boost-chatgpt-interactions-135n)
+- [What is Software Testing? All About its Tools &amp; Methodology](https://dev.to/testscenario/what-is-software-testing-all-about-its-tools-methodology-lgm)
+- [Is MongoDB Good for E-Commerce? Pros, Cons &amp; FAQs](https://dev.to/mazharamin/is-mongodb-good-for-e-commerce-pros-cons-faqs-1mo8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
