@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best node.js test framework, with benchmarks](https://dev.to/romeerez/best-nodejs-test-framework-with-benchmarks-91j)
-- [Tips from open-source: Generator function in Javascript.](https://dev.to/ramunarasinga/tips-from-open-source-generator-function-in-javascript-2d2h)
-- [The FastAPI CLI Will Ease Building Apps](https://dev.to/jod35/the-fastapi-cli-will-ease-building-apps-4k1d)
-- [Terraform Module Gotchas - Inline block example S3 AWS](https://dev.to/aws-builders/terraform-module-gotchas-inline-block-example-s3-aws-1ib2)
-- [Vulnerabilities: Cause for Concern](https://dev.to/annavi11arrea1/vulnerabilities-cause-for-concern-3986)
+- [Arrays and ArrayList in JAVA](https://dev.to/_bhupeshk_/arrays-and-arraylist-in-java-1jc2)
+- [Working with junior programmers](https://dev.to/nedtwigg/working-with-junior-programmers-57oj)
+- [Never write code you don&#39;t want to run, part 1](https://dev.to/thecontextwindow/never-write-code-you-dont-want-to-run-part-1-2i9f)
+- [Stripe Developer Digest Sessions 2024](https://dev.to/stripe/stripe-developer-digest-sessions-2024-66n)
+- [The Legality of Scraping Google: What You Need to Know](https://dev.to/ericksmith14/the-legality-of-scraping-google-what-you-need-to-know-2j4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
