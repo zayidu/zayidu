@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Naming Conventions](https://dev.to/nhannguyendevjs/naming-conventions-4nhi)
-- [Day 8: Objects](https://dev.to/codernko/day-8-objects-50gd)
-- [how to import ngrx StoreModule in angular 17 config file](https://dev.to/samreshkumar/how-to-import-ngrx-storemodule-in-angular-17-config-file-3opi)
-- [Getting Started with Next.js: Part 6 - Advanced Configuration and Optimization](https://dev.to/dipakahirav/getting-started-with-nextjs-part-6-advanced-configuration-and-optimization-3ld0)
-- [2. Add Two Numbers](https://dev.to/mdarifulhaque/2-add-two-numbers-42l9)
+- [Boosting UX: How I Transformed Data Management in Our App with this lib](https://dev.to/joaofelipe/boosting-ux-how-i-transformed-data-management-in-our-app-with-this-lib-1dkk)
+- [NPM libraries to build your next AI projects](https://dev.to/pierre/ai-npm-libraries-packages-3n4e)
+- [Turbocharge your Angular project: A config tutorial](https://dev.to/alcaidio/turbocharge-your-angular-project-a-config-tutorial-58g4)
+- [Welcome to the Exciting World of Zig! 🚀](https://dev.to/d4c7/welcome-to-the-exciting-world-of-zig-2b65)
+- [How to Choose Salesforce Commerce Cloud Implementation Services](https://dev.to/doriansabitov/how-to-choose-salesforce-commerce-cloud-implementation-services-4eml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
