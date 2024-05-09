@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Interactive Data Visualizations with Tableau](https://dev.to/kartikmehta8/building-interactive-data-visualizations-with-tableau-5fcf)
-- [Essential Networking Know-How: Insights for DevOps Engineers](https://dev.to/abhixsh/essential-networking-know-how-insights-for-devops-engineers-1ci4)
-- [Understanding AWS Control Tower: Gateway to Cloud Governance Part 1](https://dev.to/aminabrhm4/understanding-aws-control-tower-gateway-to-cloud-governance-part-1-38f)
-- [GitHub Actions e a Magia dos Triggers: Automatizando Tarefas com C#](https://dev.to/racoelho/github-actions-e-a-magia-dos-triggers-automatizando-tarefas-com-c-mle)
-- [useState&lpar;&rpar; semantic when you need to toggle modal visibility](https://dev.to/sensorario/usestate-semantic-when-you-need-to-toggle-modal-visibility-21o2)
+- [Unity에서 라이브 스트리밍 - 실시간 게임 브로드캐스팅 &lpar;Part 2&rpar; &lpar;Live Streaming from Unity - Broadcasting a Game in Real-Time &lpar;Part 2&rpar;&rpar;](https://dev.to/aws/unityeseo-raibeu-seuteuriming-silsigan-geim-beurodeukaeseuting-part-2-live-streaming-from-unity-broadcasting-a-game-in-real-time-part-2-4anb)
+- [Unity에서 Amazon IVS로 라이브 스트리밍하기 - Part 1 &lpar;Live Streaming from Unity with Amazon IVS - Part 1&rpar;](https://dev.to/aws/unityeseo-amazon-ivsro-raibeu-seuteuriminghagi-part-1-live-streaming-from-unity-with-amazon-ivs-part-1-42hp)
+- [ESLint Plugin. What was missed in the doc?](https://dev.to/xavescor/eslint-plugin-what-was-missed-in-the-doc-fmg)
+- [Complex Event Filtering with AWS EventBridge Pipes, Rules and No Custom Code.](https://dev.to/aws-builders/complex-event-filtering-with-aws-eventbridge-pipes-rules-and-no-custom-code-2b11)
+- [Event Loop Part 1](https://dev.to/ylanzinhoy/event-loop-part-1-3gni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
