@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Durable Execution Explained — How Conductor Delivers Resilient Systems Out Of The Box](https://dev.to/orkes/durable-execution-explained-how-conductor-delivers-resilient-systems-out-of-the-box-3i1p)
-- [Negotiating a Higher Salary as a Junior Developer](https://dev.to/sotergreco/negotiating-a-higher-salary-as-a-junior-developer-nhb)
-- [Solving the Localhost Development Headache with Nanocl](https://dev.to/leone/solving-the-localhost-development-headache-with-nanocl-41ak)
-- [Understanding Android Architecture Patterns: MVC, MVP, and MVVM](https://dev.to/saurabh18071998/understanding-android-architecture-patterns-mvc-mvp-and-mvvm-3h17)
-- [First Project](https://dev.to/taird0/first-project-2mjg)
+- [Naming Conventions](https://dev.to/nhannguyendevjs/naming-conventions-4nhi)
+- [Day 8: Objects](https://dev.to/codernko/day-8-objects-50gd)
+- [how to import ngrx StoreModule in angular 17 config file](https://dev.to/samreshkumar/how-to-import-ngrx-storemodule-in-angular-17-config-file-3opi)
+- [Getting Started with Next.js: Part 6 - Advanced Configuration and Optimization](https://dev.to/dipakahirav/getting-started-with-nextjs-part-6-advanced-configuration-and-optimization-3ld0)
+- [2. Add Two Numbers](https://dev.to/mdarifulhaque/2-add-two-numbers-42l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
