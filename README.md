@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Vary HTTP header](https://dev.to/nfrankel/the-vary-http-header-2m5m)
-- [Recap: Microsoft Build AI Day Switzerland 2024](https://dev.to/arindam0310018/recap-microsoft-build-ai-day-switzerland-2024-2b62)
-- [Elasticsearch - The Intro](https://dev.to/yogini16/elasticsearch-the-intro-j67)
-- [Esp32 Rust Board on Macos M-chip in Docker](https://dev.to/wwwxqxq/macos-m-chip-esp32-rust-board-huan-jing-da-jian-3kc)
-- [How to create a 3D Button Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-a-3d-button-tailwind-css-5f6f)
+- [Garbage Collector &lpar;O coletor de lixo do Java&rpar;](https://dev.to/alexreis/garbage-collector-o-coletor-de-lixo-do-java-4gdm)
+- [Cómo configurar React + Typescript en una aplicación laravel con inertia](https://dev.to/hernanarica/como-configurar-react-typescript-en-una-aplicacion-laravel-con-inertia-5an6)
+- [How AI Can Enhance Personalization in Magento Stores](https://dev.to/rimiweb/how-ai-can-enhance-personalization-in-magento-stores-20kp)
+- [Analyzing my Amazon Purchases with Pandas and Dash](https://dev.to/mauricebrg/analyzing-my-amazon-purchases-with-pandas-and-dash-gh9)
+- [Vue 3 Forms and Validations with VueFormify and yup](https://dev.to/mateenagy/vue-3-forms-and-validations-with-vueformify-and-yup-50e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
