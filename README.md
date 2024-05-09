@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Exploring the Abstract Factory Design Pattern in Ruby](https://dev.to/davidmrtz-dev/exploring-the-abstract-factory-design-pattern-in-ruby-3206)
-- [Optimizing React Table Rendering By 160x !!!](https://dev.to/navneet7716/optimizing-react-table-rendering-by-160x--5g3c)
-- [Primitive Data Structure](https://dev.to/developedbyjk/primitive-data-structure-3klm)
-- [Why Every Website Needs an SSL Encryption](https://dev.to/me_priya/why-every-website-needs-an-ssl-encryption-4bcb)
-- [Langchain: Question Answering over Documents](https://dev.to/rutamstwt/langchain-question-answering-over-documents-3mh6)
+- [Microservice Orchestration Best Practices](https://dev.to/getambassador2024/microservice-orchestration-best-practices-4bid)
+- [What is a Optical Receiver?](https://dev.to/markrobot/what-is-a-optical-receiver-2aig)
+- [EDFA - Everything you should know](https://dev.to/markrobot/edfa-everything-you-should-know-477n)
+- [A Guide to CI/CD Pipelines using GitHub Action](https://dev.to/snehalkadwe/a-guide-to-cicd-pipelines-using-github-action-5doj)
+- [“Automating VPC Peering in AWS with Terraform”](https://dev.to/prajwal2023/automating-vpc-peering-in-aws-with-terraform-2hgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
