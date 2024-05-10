@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Voxel51 Filtered Views Newsletter - May 10, 2024](https://dev.to/voxel51/voxel51-filtered-views-newsletter-may-10-2024-5h54)
-- [Introdução aos Princípios do SQL: Fundamentos Teóricos e Práticos](https://dev.to/brunopizol/introducao-aos-principios-do-sql-fundamentos-teoricos-e-praticos-1j0j)
-- [Unveiling the Future: AI&#39;s Role in Enhancing Software Quality Through Regression Testing](https://dev.to/jennife05918349/unveiling-the-future-ais-role-in-enhancing-software-quality-through-regression-testing-547b)
-- [Project-Based Learning vs. Just Courses: Which is the Real Game-Changer?](https://dev.to/dhruvjoshi9/project-based-learning-vs-just-courses-which-is-the-real-game-changer-3p08)
-- [New Component Variations 🚀](https://dev.to/windui/new-component-variations-44oi)
+- [Dicas e configurações para seu sistema linux](https://dev.to/devhat/dicas-e-configuracoes-para-seu-sistema-linux-5dll)
+- [Deploying React Apps to Github Pages with Github Actions](https://dev.to/codeparrot/deploying-react-apps-to-github-pages-with-github-actions-5gja)
+- [Supercharge Your React Development with VS Code Extensions](https://dev.to/ellis22/supercharge-your-react-development-with-vs-code-extensions-52ff)
+- [JavaScript: The differences between var, let, and const](https://dev.to/jenueldev/javascript-the-differences-between-var-let-and-const-3bao)
+- [What was your win this week? 🙌](https://dev.to/devteam/what-was-your-win-this-week-4hnp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
