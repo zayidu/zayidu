@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Os limites do type system do Rust](https://dev.to/vinsantos/os-limites-do-type-system-do-rust-3aed)
-- [Creating an Elastic Text Container or Div with JS](https://dev.to/covenantwest/creating-an-elastic-text-container-or-div-with-js-2284)
-- [Panduan Memahami Routing di Laravel](https://dev.to/risekucom/panduan-memahami-routing-di-laravel-1927)
-- [Web Development : Tricks for enhancing performance](https://dev.to/theinfernitex/web-development-tricks-for-enhancing-performance-59hf)
-- [Unleashing AI Magic: Crafting Prompts Like a Boss!](https://dev.to/theinfernitex/unleashing-ai-magic-crafting-prompts-like-a-boss-b6h)
+- [From Scratch: IaC](https://dev.to/aws-builders/from-scratch-iac-2f2m)
+- [Zoio de lula no VScode](https://dev.to/andersonpull/zoio-de-lula-no-vscode-mld)
+- [An In-Depth Objective Review of JUMP By Cognixia’s Python Program](https://dev.to/annaliesetech/an-in-depth-objective-review-of-jump-by-cognixias-python-program-15db)
+- [Value of Frida Dynamic Instrumentation to Cyber Security](https://dev.to/phantomthreads/value-of-frida-dynamic-instrumentation-to-cyber-community-3bka)
+- [Different Types of Digital Asset Management](https://dev.to/msmith99994/different-types-of-digital-asset-management-2c2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
