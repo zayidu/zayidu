@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Your Own Chrome Extension?](https://dev.to/nooriameer/how-to-create-your-own-chrome-extension-12je)
-- [Navigating the Rapids: A Junior Developer&#39;s Journey Through Challenges and Growth](https://dev.to/daffydanni__/navigating-the-rapids-a-junior-developers-journey-through-challenges-and-growth-186c)
-- [BCMS for agencies: Agency website code starter built with NextJS](https://dev.to/momciloo/bcms-for-agencies-agency-website-code-starter-built-with-nextjs-4o9o)
-- [the &quot;100x Faster&quot; Challenge: Inspired by OpenAI&#39;s Batch API and EchoHive&#39;s 1000x Dev MasterClass Course!](https://dev.to/theraty/the-100x-faster-challenge-inspired-by-openais-batch-api-and-echohives-1000x-dev-masterclass-course-1874)
-- [Writing Smart Contracts using Vyper, Remix IDE and deploying them on BNB Smart Chain.](https://dev.to/mosesmuwawu/writing-smart-contracts-using-vyper-remix-ide-and-deploying-them-on-bnb-smart-chain-8o8)
+- [A news feed for google classroom](https://dev.to/renzhamin/a-news-feed-for-google-classroom-2dmb)
+- [Building a Simple React Custom Hook](https://dev.to/iamgoncaloalves/building-a-simple-react-custom-hook-43nm)
+- [pokemon](https://dev.to/imnotleo/pokemon-blg)
+- [Structured: Extract Data from Unstructured Input with LLM](https://dev.to/mcharytoniuk/structured-extract-data-from-unstructured-input-with-llm-2abc)
+- [How to classify monkeys images using convolutional neural network , Keras tuner hyper parameters &lpar;part3&rpar;](https://dev.to/feitgemel/how-to-classify-monkeys-images-using-convolutional-neural-network-keras-tuner-hyper-parameters-part3-27em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
