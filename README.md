@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How do animation libraries affect SEO in the Next JS?](https://dev.to/shakeebaftab/how-do-animation-libraries-affect-seo-in-the-next-js-52nm)
-- [Response Compression in Laravel APIs for Optimal Performance](https://dev.to/rafaelogic/response-compression-in-laravel-apis-for-optimal-performance-apb)
-- [The next generation request library alova has received a major upgrade, making it easier to use and higher in performance.](https://dev.to/coderhu/the-next-generation-request-library-alova-has-received-a-major-upgrade-making-it-easier-to-use-and-higher-in-performance-5efj)
-- [Successful Pairs of Spells and Potions | LeetCode | Java](https://dev.to/tanujav/successful-pairs-of-spells-and-potions-leetcode-java-474h)
-- [📌 Explaining Linux System Calls: Fork and Exec Made Easy with a Big Fat Indian Wedding 📌](https://dev.to/lakhera2015/explaining-linux-system-calls-fork-and-exec-made-easy-with-a-big-fat-indian-wedding-58n1)
+- [10 Cool CodePen Demos &lpar;April 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-april-2024-4a70)
+- [10 Cool CodePen Demos &lpar;March 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-march-2024-3ak8)
+- [Simplifying Your Workflow: npm run vs npm --run](https://dev.to/manthanank/simplifying-your-workflow-npm-run-vs-npm-run-2p69)
+- [AI Revolution: Grok&#39;s Stories Transforming News Summaries on X](https://dev.to/sanjana_shamal/ai-revolution-groks-stories-transforming-news-summaries-on-x-1pke)
+- [Introduction to Programming in Computer Systems](https://dev.to/abdulrazack23/introduction-to-programming-in-computer-systems-3pk0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
