@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Making It Work vs. Making It Perfect?](https://dev.to/devteam/making-it-work-vs-making-it-perfect-212b)
-- [Building Real-Time Boards with Angular and NestJS Using Server-Sent Events](https://dev.to/this-is-angular/building-real-time-boards-with-angular-and-nestjs-using-server-sent-events-3k9j)
-- [Ioto Device Management for Volume Device Builders](https://dev.to/embedthis/ioto-device-management-for-volume-device-builders-2ol9)
-- [How to disable the display of abbreviated tooltips. Customized tooltips do not need to be displayed again](https://dev.to/simaq/how-to-disable-the-display-of-abbreviated-tooltips-customized-tooltips-do-not-need-to-be-displayed-again-1d3)
-- [NPM: It&#39;s Spammers Party Time 🥳](https://dev.to/thangaganapathy/npm-its-spammers-party-time-9m0)
+- [How to a create a scroll progress bar with Tailwind CSS and Javascript](https://dev.to/mike_andreuzza/how-to-a-create-a-scroll-progress-bar-with-tailwind-css-and-javascript-3hl1)
+- [Fisher Yates - How the popular shuffling Algorithm Works - Under the hood series](https://dev.to/abdulmuminyqn/fisher-yates-how-the-popular-shuffling-algorithm-works-under-the-hood-series-1dg9)
+- [The Impact of All-or-Nothing Thinking in Software Engineering](https://dev.to/joedemoraes/the-impact-of-all-or-nothing-thinking-in-software-engineering-39a6)
+- [JavaScript Design Patterns - Structural - Facade](https://dev.to/nhannguyendevjs/javascript-design-patterns-structural-facade-53o0)
+- [Top Factors to Consider While Picking An Automation Tool for QA](https://dev.to/jamescantor38/top-factors-to-consider-while-picking-an-automation-tool-for-qa-3ne0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
