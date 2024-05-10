@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Moving from AWS Amplify to Cloudflare Pages: Pursuing Lower Costs](https://dev.to/logarithmicspirals/moving-from-aws-amplify-to-cloudflare-pages-pursuing-lower-costs-4a24)
-- [Comunicar bem é diferente de falar bem!](https://dev.to/nicolasdesouza/comunicar-bem-e-diferente-de-falar-bem-44kb)
-- [Tuning de conexiones en MongoDB con Serverless Lambda](https://dev.to/nachosource/tuning-de-conexiones-en-mongodb-con-serverless-lambda-3f50)
-- [How to Verify Smart Contracts on BlockScout with Hardhat](https://dev.to/modenetwork/how-to-verify-smart-contracts-on-blockscout-with-hardhat-4p10)
-- [Building a niche flashcard app](https://dev.to/xz3dev/building-a-niche-flashcard-app-16d6)
+- [Voxel51 Filtered Views Newsletter - May 10, 2024](https://dev.to/voxel51/voxel51-filtered-views-newsletter-may-10-2024-5h54)
+- [Introdução aos Princípios do SQL: Fundamentos Teóricos e Práticos](https://dev.to/brunopizol/introducao-aos-principios-do-sql-fundamentos-teoricos-e-praticos-1j0j)
+- [Unveiling the Future: AI&#39;s Role in Enhancing Software Quality Through Regression Testing](https://dev.to/jennife05918349/unveiling-the-future-ais-role-in-enhancing-software-quality-through-regression-testing-547b)
+- [Project-Based Learning vs. Just Courses: Which is the Real Game-Changer?](https://dev.to/dhruvjoshi9/project-based-learning-vs-just-courses-which-is-the-real-game-changer-3p08)
+- [New Component Variations 🚀](https://dev.to/windui/new-component-variations-44oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
