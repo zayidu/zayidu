@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get URL from sanity Image, videos and Audio files](https://dev.to/oreographer/how-to-get-url-from-sanity-image-videos-and-audio-files-4d99)
-- [Exploring Python&#39;s asyncio for Asynchronous Programming](https://dev.to/emmanuelj/exploring-pythons-asyncio-for-asynchronous-programming-pka)
-- [Functional and Non-functional testing](https://dev.to/rajessh_kumar/functional-and-non-functional-testing-52eo)
-- [From Code to Cloud: Deploying Hybrid SSR-SPA App on AWS Using Bash Script Automation](https://dev.to/alyconr/from-code-to-cloud-deploying-hybrid-ssr-spa-app-on-aws-using-bash-script-automation-24h7)
-- [Using Arbitrary Precision In PHP](https://dev.to/jszutkowski/using-arbitrary-precision-in-php-mme)
+- [Shortcut your way through the terminal 🌀](https://dev.to/devonremote/shortcut-your-way-through-the-terminal-23f0)
+- [Building a better product is not just easy, it&#39;s obvious](https://dev.to/horaceshmorace/building-a-better-product-is-totally-so-super-easy-2h7b)
+- [Marking macOS component packages available based on hardware platform type](https://dev.to/wardsparadox/marking-macos-component-packages-available-based-on-hardware-platform-type-477m)
+- [Cloud Computing Interview Questions](https://dev.to/engineeringexpert/cloud-computing-interview-questions-j8a)
+- [DNS and Other Taxes](https://dev.to/agrberg/dns-and-other-taxes-4eod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
