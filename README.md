@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to a create a scroll progress bar with Tailwind CSS and Javascript](https://dev.to/mike_andreuzza/how-to-a-create-a-scroll-progress-bar-with-tailwind-css-and-javascript-3hl1)
-- [Fisher Yates - How the popular shuffling Algorithm Works - Under the hood series](https://dev.to/abdulmuminyqn/fisher-yates-how-the-popular-shuffling-algorithm-works-under-the-hood-series-1dg9)
-- [The Impact of All-or-Nothing Thinking in Software Engineering](https://dev.to/joedemoraes/the-impact-of-all-or-nothing-thinking-in-software-engineering-39a6)
-- [JavaScript Design Patterns - Structural - Facade](https://dev.to/nhannguyendevjs/javascript-design-patterns-structural-facade-53o0)
-- [Top Factors to Consider While Picking An Automation Tool for QA](https://dev.to/jamescantor38/top-factors-to-consider-while-picking-an-automation-tool-for-qa-3ne0)
+- [is Hadoop Dead?](https://dev.to/hiteshchawla/is-hadoop-dead-2jo)
+- [Dependency Injection: A Straightforward Implementation in Golang](https://dev.to/nghtslvr/dependency-injection-a-straightforward-implementation-in-golang-57cd)
+- [ImageGround: Netlify Dynamic Image CDN Site](https://dev.to/flameface/imageground-netlify-dynamic-image-cdn-site-d6d)
+- [Faking sessionStorage to keep sites from crashing](https://dev.to/darkwiiplayer/faking-sessionstorage-to-keep-sites-from-crashing-31ih)
+- [⚡️ Gowebly CLI now supports the PocketBase framework](https://dev.to/koddr/gowebly-cli-now-supports-the-pocketbase-framework-bi6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
