@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Arrays and ArrayList in JAVA](https://dev.to/_bhupeshk_/arrays-and-arraylist-in-java-1jc2)
-- [Working with junior programmers](https://dev.to/nedtwigg/working-with-junior-programmers-57oj)
-- [Never write code you don&#39;t want to run, part 1](https://dev.to/thecontextwindow/never-write-code-you-dont-want-to-run-part-1-2i9f)
-- [Stripe Developer Digest Sessions 2024](https://dev.to/stripe/stripe-developer-digest-sessions-2024-66n)
-- [The Legality of Scraping Google: What You Need to Know](https://dev.to/ericksmith14/the-legality-of-scraping-google-what-you-need-to-know-2j4l)
+- [Os limites do type system do Rust](https://dev.to/vinsantos/os-limites-do-type-system-do-rust-3aed)
+- [Creating an Elastic Text Container or Div with JS](https://dev.to/covenantwest/creating-an-elastic-text-container-or-div-with-js-2284)
+- [Panduan Memahami Routing di Laravel](https://dev.to/risekucom/panduan-memahami-routing-di-laravel-1927)
+- [Web Development : Tricks for enhancing performance](https://dev.to/theinfernitex/web-development-tricks-for-enhancing-performance-59hf)
+- [Unleashing AI Magic: Crafting Prompts Like a Boss!](https://dev.to/theinfernitex/unleashing-ai-magic-crafting-prompts-like-a-boss-b6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
