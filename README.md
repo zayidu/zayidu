@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Path To A Clean&lpar;er&rpar; React Architecture - API Layer &amp; Data Transformations](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-api-layer-data-transformations-1go0)
-- [Implementing React `forwardRef` with TypeScript](https://dev.to/hossain45/implementing-react-forwardref-with-typescript-5ka)
-- [Monorepo Backend Application with Bundled Packages](https://dev.to/alonn24/monorepo-backend-application-with-bundled-packages-4a2m)
-- [Building Your First Browser Game with Three.js and React: Part 2 - Implementing 3D Models](https://dev.to/romaixn/building-your-first-browser-game-with-threejs-and-react-part-2-implementing-3d-models-1jlj)
-- [Top Cyber Security Interview Questions and Answers for 2024](https://dev.to/onlineinterviewquestions/top-cyber-security-interview-questions-and-answers-for-2024-3c97)
+- [Moving from AWS Amplify to Cloudflare Pages: Pursuing Lower Costs](https://dev.to/logarithmicspirals/moving-from-aws-amplify-to-cloudflare-pages-pursuing-lower-costs-4a24)
+- [Comunicar bem é diferente de falar bem!](https://dev.to/nicolasdesouza/comunicar-bem-e-diferente-de-falar-bem-44kb)
+- [Tuning de conexiones en MongoDB con Serverless Lambda](https://dev.to/nachosource/tuning-de-conexiones-en-mongodb-con-serverless-lambda-3f50)
+- [How to Verify Smart Contracts on BlockScout with Hardhat](https://dev.to/modenetwork/how-to-verify-smart-contracts-on-blockscout-with-hardhat-4p10)
+- [Building a niche flashcard app](https://dev.to/xz3dev/building-a-niche-flashcard-app-16d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
