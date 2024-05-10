@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How do animation libraries affect SEO in the Next JS?](https://dev.to/shakeebaftab/how-do-animation-libraries-affect-seo-in-the-next-js-52nm)
+- [Response Compression in Laravel APIs for Optimal Performance](https://dev.to/rafaelogic/response-compression-in-laravel-apis-for-optimal-performance-apb)
+- [The next generation request library alova has received a major upgrade, making it easier to use and higher in performance.](https://dev.to/coderhu/the-next-generation-request-library-alova-has-received-a-major-upgrade-making-it-easier-to-use-and-higher-in-performance-5efj)
 - [Successful Pairs of Spells and Potions | LeetCode | Java](https://dev.to/tanujav/successful-pairs-of-spells-and-potions-leetcode-java-474h)
 - [📌 Explaining Linux System Calls: Fork and Exec Made Easy with a Big Fat Indian Wedding 📌](https://dev.to/lakhera2015/explaining-linux-system-calls-fork-and-exec-made-easy-with-a-big-fat-indian-wedding-58n1)
-- [Why You Should Use Caching - Improve User Experience and Reduce Costs](https://dev.to/brilianfird/why-you-should-use-caching-improve-user-experience-and-reduce-costs-6o7)
-- [React Rooting &lpar;react-router-dom&rpar;](https://dev.to/rockyueno0223/react-rooting-react-router-dom-bjj)
-- [Code of Conduct Toolkit for Open Source Communities](https://dev.to/gomathia/code-of-conduct-toolkit-for-open-source-communities-5hdj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
