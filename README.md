@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [is Hadoop Dead?](https://dev.to/hiteshchawla/is-hadoop-dead-2jo)
-- [Dependency Injection: A Straightforward Implementation in Golang](https://dev.to/nghtslvr/dependency-injection-a-straightforward-implementation-in-golang-57cd)
-- [ImageGround: Netlify Dynamic Image CDN Site](https://dev.to/flameface/imageground-netlify-dynamic-image-cdn-site-d6d)
-- [Faking sessionStorage to keep sites from crashing](https://dev.to/darkwiiplayer/faking-sessionstorage-to-keep-sites-from-crashing-31ih)
-- [⚡️ Gowebly CLI now supports the PocketBase framework](https://dev.to/koddr/gowebly-cli-now-supports-the-pocketbase-framework-bi6)
+- [This Week In Python](https://dev.to/bascodes/this-week-in-python-4o5p)
+- [Tips and Tricks for Optimizing Magento 2 for Better Performance and Faster Load Times](https://dev.to/charleslyman/tips-and-tricks-for-optimizing-magento-2-for-better-performance-and-faster-load-times-25ep)
+- [How to Replace Character at Nth Index in Python String](https://dev.to/techosha/how-to-replace-character-at-nth-index-in-python-string-1b7p)
+- [Salesforce Clouds Overview](https://dev.to/elena_routine/salesforce-clouds-overview-2e8h)
+- [PUT vs POST: An In-Depth Comparison of RESTful API Methods](https://dev.to/satokenta/put-vs-post-an-in-depth-comparison-of-restful-api-methods-4a69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
