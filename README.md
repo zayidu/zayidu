@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Make a statement with a stunning backlit circle mirror in your space.](https://dev.to/bluegreen/make-a-statement-with-a-stunning-backlit-circle-mirror-in-your-space-349l)
-- [Illuminate your routine with a backlit circle mirror.](https://dev.to/bluegreen/illuminate-your-routine-with-a-backlit-circle-mirror-4bfj)
-- [Mastering Service to Pod Communication in Kubernetes: Unveiling the Role of iptables and Kube-proxy](https://dev.to/rajeshgheware/mastering-service-to-pod-communication-in-kubernetes-unveiling-the-role-of-iptables-and-kube-proxy-4jmh)
-- [JavaScript Learning Roadmap 🚀](https://dev.to/dhirajaryaa/javascript-learning-roadmap-4nc3)
-- [Logs Estruturados com Serilog e Seq: Melhorando a Visibilidade e Análise de Dados em Aplicações](https://dev.to/wandealves/logs-estruturados-com-serilog-e-seq-melhorando-a-visibilidade-e-analise-de-dados-em-aplicacoes-48d6)
+- [Successful Pairs of Spells and Potions | LeetCode | Java](https://dev.to/tanujav/successful-pairs-of-spells-and-potions-leetcode-java-474h)
+- [📌 Explaining Linux System Calls: Fork and Exec Made Easy with a Big Fat Indian Wedding 📌](https://dev.to/lakhera2015/explaining-linux-system-calls-fork-and-exec-made-easy-with-a-big-fat-indian-wedding-58n1)
+- [Why You Should Use Caching - Improve User Experience and Reduce Costs](https://dev.to/brilianfird/why-you-should-use-caching-improve-user-experience-and-reduce-costs-6o7)
+- [React Rooting &lpar;react-router-dom&rpar;](https://dev.to/rockyueno0223/react-rooting-react-router-dom-bjj)
+- [Code of Conduct Toolkit for Open Source Communities](https://dev.to/gomathia/code-of-conduct-toolkit-for-open-source-communities-5hdj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
