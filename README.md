@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dicas e configurações para seu sistema linux](https://dev.to/devhat/dicas-e-configuracoes-para-seu-sistema-linux-5dll)
-- [Deploying React Apps to Github Pages with Github Actions](https://dev.to/codeparrot/deploying-react-apps-to-github-pages-with-github-actions-5gja)
-- [Supercharge Your React Development with VS Code Extensions](https://dev.to/ellis22/supercharge-your-react-development-with-vs-code-extensions-52ff)
-- [JavaScript: The differences between var, let, and const](https://dev.to/jenueldev/javascript-the-differences-between-var-let-and-const-3bao)
-- [What was your win this week? 🙌](https://dev.to/devteam/what-was-your-win-this-week-4hnp)
+- [How to Create Your Own Chrome Extension?](https://dev.to/nooriameer/how-to-create-your-own-chrome-extension-12je)
+- [Navigating the Rapids: A Junior Developer&#39;s Journey Through Challenges and Growth](https://dev.to/daffydanni__/navigating-the-rapids-a-junior-developers-journey-through-challenges-and-growth-186c)
+- [BCMS for agencies: Agency website code starter built with NextJS](https://dev.to/momciloo/bcms-for-agencies-agency-website-code-starter-built-with-nextjs-4o9o)
+- [the &quot;100x Faster&quot; Challenge: Inspired by OpenAI&#39;s Batch API and EchoHive&#39;s 1000x Dev MasterClass Course!](https://dev.to/theraty/the-100x-faster-challenge-inspired-by-openais-batch-api-and-echohives-1000x-dev-masterclass-course-1874)
+- [Writing Smart Contracts using Vyper, Remix IDE and deploying them on BNB Smart Chain.](https://dev.to/mosesmuwawu/writing-smart-contracts-using-vyper-remix-ide-and-deploying-them-on-bnb-smart-chain-8o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
