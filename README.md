@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Cool CodePen Demos &lpar;April 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-april-2024-4a70)
-- [10 Cool CodePen Demos &lpar;March 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-march-2024-3ak8)
-- [Simplifying Your Workflow: npm run vs npm --run](https://dev.to/manthanank/simplifying-your-workflow-npm-run-vs-npm-run-2p69)
-- [AI Revolution: Grok&#39;s Stories Transforming News Summaries on X](https://dev.to/sanjana_shamal/ai-revolution-groks-stories-transforming-news-summaries-on-x-1pke)
-- [Introduction to Programming in Computer Systems](https://dev.to/abdulrazack23/introduction-to-programming-in-computer-systems-3pk0)
+- [Implementing Firebase Background Notifications in Flutter 👌](https://dev.to/abhinavk454/implementing-firebase-background-notifications-in-flutter-5di4)
+- [Natural Programming ❤️️ with TypeChat &amp; Semantic Kernel](https://dev.to/rockfire/natural-programming-with-typechat-semantic-kernel-2ph7)
+- [What is HTML actually and do we still need it in 2024?](https://dev.to/babichweb/what-is-html-actually-and-do-we-still-need-it-in-2024-35pi)
+- [Gradual Information Disclosure in Interfaces for Complex Designs](https://dev.to/pepper_square/gradual-information-disclosure-in-interfaces-for-complex-designs-13op)
+- [Use HyDE to escape the drawbacks of RAG](https://dev.to/rockfire/use-hyde-to-escape-the-drawbacks-of-rag-1ig9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
