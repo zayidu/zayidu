@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Firebase Background Notifications in Flutter 👌](https://dev.to/abhinavk454/implementing-firebase-background-notifications-in-flutter-5di4)
-- [Natural Programming ❤️️ with TypeChat &amp; Semantic Kernel](https://dev.to/rockfire/natural-programming-with-typechat-semantic-kernel-2ph7)
-- [What is HTML actually and do we still need it in 2024?](https://dev.to/babichweb/what-is-html-actually-and-do-we-still-need-it-in-2024-35pi)
-- [Gradual Information Disclosure in Interfaces for Complex Designs](https://dev.to/pepper_square/gradual-information-disclosure-in-interfaces-for-complex-designs-13op)
-- [Use HyDE to escape the drawbacks of RAG](https://dev.to/rockfire/use-hyde-to-escape-the-drawbacks-of-rag-1ig9)
+- [Making It Work vs. Making It Perfect?](https://dev.to/devteam/making-it-work-vs-making-it-perfect-212b)
+- [Building Real-Time Boards with Angular and NestJS Using Server-Sent Events](https://dev.to/this-is-angular/building-real-time-boards-with-angular-and-nestjs-using-server-sent-events-3k9j)
+- [Ioto Device Management for Volume Device Builders](https://dev.to/embedthis/ioto-device-management-for-volume-device-builders-2ol9)
+- [How to disable the display of abbreviated tooltips. Customized tooltips do not need to be displayed again](https://dev.to/simaq/how-to-disable-the-display-of-abbreviated-tooltips-customized-tooltips-do-not-need-to-be-displayed-again-1d3)
+- [NPM: It&#39;s Spammers Party Time 🥳](https://dev.to/thangaganapathy/npm-its-spammers-party-time-9m0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
