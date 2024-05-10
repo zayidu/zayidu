@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Full Stack is not for beginners!](https://dev.to/bingecoder89/full-stack-is-not-for-beginners-j2j)
-- [CSS Selectors Practice Exercise](https://dev.to/hamzaiqbal007/css-selectors-practice-exercise-19g5)
-- [Why Your Web Bundler Matters For Optimized WebGPU-Powered 3D Game Development](https://dev.to/joshalphonse/why-your-web-bundler-matters-for-optimized-webgpu-powered-3d-game-development-498h)
-- [How To Register a Smart Contract to the SFS with Foundry](https://dev.to/modenetwork/how-to-register-a-smart-contract-to-the-sfs-with-foundry-34jo)
-- [10 ChatGPT Prompts to Boost Developer Productivity](https://dev.to/shaikhshahid/10-chatgpt-prompts-to-boost-developer-productivity-ia9)
+- [Method Abstraction and Stepwise Refinement](https://dev.to/paulike/method-abstraction-and-stepwise-refinement-519l)
+- [How to write memory efficient machine learning model prediction data pipelines in Python,With an Example](https://dev.to/rajun/how-to-write-memory-efficient-machine-learning-model-prediction-data-pipelines-in-pythonwith-an-example-44e1)
+- [Demo: Minder, a software supply chain security platform from Stacklok](https://dev.to/ninfriendos1/demo-minder-a-software-supply-chain-security-platform-from-stacklok-3010)
+- [Computer Vision Meetup: Anomaly Detection with Anomalib and FiftyOne](https://dev.to/voxel51/computer-vision-meetup-anomaly-detection-with-anomalib-and-fiftyone-4gfo)
+- [Snip tool](https://dev.to/abdxzi/snip-tool-1fhh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
