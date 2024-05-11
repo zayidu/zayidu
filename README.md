@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Detecting Blocked Google Ads with Simple and Effective JavaScript](https://dev.to/livetvchannels/detecting-blocked-google-ads-with-simple-and-effective-javascript-1m5o)
-- [HOW CSS WORKS BEHIND THE SCENE](https://dev.to/princessaisha/how-css-works-behind-the-scene-497p)
-- [Docker for Next.js](https://dev.to/codeparrot/docker-for-nextjs-4b2i)
-- [The gooey effect for Angular, used for shape blobbing / metaballs 🧽](https://dev.to/wadie/the-gooey-effect-for-angular-used-for-shape-blobbing-metaballs-1p8k)
-- [Programming as a conversation - How the communicative scheme is also applied in the written code itself](https://dev.to/miguelmj/programming-as-a-conversation-how-the-communicative-scheme-is-also-applied-in-the-written-code-itself-5378)
+- [PostgreSQL specific trigram_similar lookups in Django](https://dev.to/azayshrestha/postgresql-specific-trigramsimilar-lookups-in-django-3f89)
+- [When It’s Time to Give REST a Rest](https://dev.to/johnjvester/when-its-time-to-give-rest-a-rest-5155)
+- [KD2 art filtered CSS No Js](https://dev.to/tidycoder/kd2-art-filtered-css-no-js-3nn8)
+- [Change the theme of a phone](https://dev.to/tidycoder/change-the-theme-of-a-phone-4dho)
+- [How Many Languages A Developer Should Know?](https://dev.to/sotergreco/how-many-languages-a-developer-should-know-3920)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
