@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como solucionar o erro &quot;The engine node is incompatible with this module.&quot;](https://dev.to/devaugusto/como-solucionar-o-erro-the-engine-node-is-incompatible-with-this-module-1jb4)
-- [Day 10: Anonymous Function](https://dev.to/codernko/day-10-anonymous-function-3cjh)
-- [Next js 14 First day - Styling in Next js](https://dev.to/mo7amedramadan/next-js-14-first-day-styling-in-next-js-3i0n)
-- [Mastering Real-Time Collaboration: Building Figma and Miro-Inspired Features with Supabase](https://dev.to/keyurparalkar/mastering-real-time-collaboration-building-figma-and-miro-inspired-features-with-supabase-57eh)
-- [How to get a better job offer](https://dev.to/bingecoder89/how-to-get-a-better-job-offer-3njh)
+- [Effective Terraform Variable Management in GitHub Actions](https://dev.to/bhanufyi/effective-terraform-variable-management-in-github-actions-488l)
+- [Introducing Krabber.net](https://dev.to/toul_codes/introducing-krabbernet-fh8)
+- [Mastering Competitive Coding: Array](https://dev.to/vivek1030/mastering-competitive-coding-array-4cdm)
+- [List of free AI Models](https://dev.to/sbalasa/list-of-ai-models-17on)
+- [Exciting News for React Developers: Say Goodbye to Manual Memoization!](https://dev.to/amitkumar13/exciting-news-for-react-developers-say-goodbye-to-manual-memoization-17kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
