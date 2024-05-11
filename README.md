@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A small survey about modern social medias.](https://dev.to/darnethal0z/a-small-survey-about-modern-social-medias-3lhe)
-- [Microsoft Azure AD Roles and Azure Roles Explained with Examples](https://dev.to/sangifeanyi/microsoft-azure-ad-roles-and-azure-roles-explained-with-examples-3dfa)
-- [4. Median of Two Sorted Arrays](https://dev.to/mdarifulhaque/4-median-of-two-sorted-arrays-54pa)
-- [857. Minimum Cost to Hire K Workers](https://dev.to/mdarifulhaque/857-minimum-cost-to-hire-k-workers-20e6)
-- [Amazon MSK vs Apache Kafka](https://dev.to/collins224/amazon-msk-vs-kafka-5g4p)
+- [Como solucionar o erro &quot;The engine node is incompatible with this module.&quot;](https://dev.to/devaugusto/como-solucionar-o-erro-the-engine-node-is-incompatible-with-this-module-1jb4)
+- [Day 10: Anonymous Function](https://dev.to/codernko/day-10-anonymous-function-3cjh)
+- [Next js 14 First day - Styling in Next js](https://dev.to/mo7amedramadan/next-js-14-first-day-styling-in-next-js-3i0n)
+- [Mastering Real-Time Collaboration: Building Figma and Miro-Inspired Features with Supabase](https://dev.to/keyurparalkar/mastering-real-time-collaboration-building-figma-and-miro-inspired-features-with-supabase-57eh)
+- [How to get a better job offer](https://dev.to/bingecoder89/how-to-get-a-better-job-offer-3njh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
