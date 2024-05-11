@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [From &quot;super noob&quot; to &quot;noob&quot;: My journey from zero to not-so-hero.](https://dev.to/mehkij/from-super-noob-to-noob-my-journey-from-zero-to-not-so-hero-247j)
 - [Java Iron Man Suit Simulator - A Fun Beginner Project!&quot;](https://dev.to/lebo2007/java-iron-man-suit-simulator-a-fun-beginner-project-39fm)
 - [Gulp versus Grunt](https://dev.to/henriquevital777/gulp-versus-grunt-12a)
 - [Simulating NMEA Data with nmeasim in Python](https://dev.to/okyzaprabowo/simulating-nmea-data-with-nmeasim-in-python-4o7n)
 - [Another genie&#39;s out of the bottle - decoding Warren Buffett&#39;s Take On Gen AI](https://dev.to/edytawrobel/another-genies-out-of-the-bottle-decoding-warren-buffetts-take-on-gen-ai-19gf)
-- [Level Up Your Skills: Launching a Cloud Career with AWS re/Start](https://dev.to/fog8/level-up-your-skills-launching-a-cloud-career-with-aws-restart-al0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
