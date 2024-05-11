@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How an individual developer released seven apps in five months after registering as a developer](https://dev.to/zmsoft/how-an-individual-developer-released-seven-apps-in-five-months-after-registering-as-a-developer-3n7f)
-- [Netlify Image Game 🩻🕹️](https://dev.to/mattlewandowski93/netlify-image-game-1pk0)
-- [Light up your life with a backlit circle mirror on your vanity.](https://dev.to/mirrors/light-up-your-life-with-a-backlit-circle-mirror-on-your-vanity-3mpo)
-- [Unleash Your Inner Web Dev with CodeLekhan: A Real-Time Code Editor Playground](https://dev.to/azadnishad/unleash-your-inner-web-dev-with-codelekhan-a-real-time-code-editor-playground-4b21)
-- [How to make all x-axis labels displayed](https://dev.to/xuefei1313/how-to-make-all-x-axis-labels-displayed-5h08)
+- [Foreign-key pre-join](https://dev.to/esproc_spl/foreign-key-pre-join-277n)
+- [How to Create a Travel Planner App With Flutter? Quick Guide](https://dev.to/dhruvjoshi9/how-to-create-a-travel-planner-app-with-flutter-quick-guide-57n1)
+- [Java Service Provider Interface &lpar;SPI&rpar;, what is it and how to use it](https://dev.to/c4rlosmonteiro/java-service-provider-interface-spi-what-is-it-and-how-to-use-it-3kn)
+- [Laravel Relationship Recipes: Simplifying Queries with whereBelongsTo](https://dev.to/muhammadsaim/laravel-relationship-recipes-simplifying-queries-with-wherebelongsto-17cm)
+- [LangChain: Agents](https://dev.to/rutamstwt/langchain-agents-22af)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
