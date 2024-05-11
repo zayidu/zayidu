@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Effective Terraform Variable Management in GitHub Actions](https://dev.to/bhanufyi/effective-terraform-variable-management-in-github-actions-488l)
-- [Introducing Krabber.net](https://dev.to/toul_codes/introducing-krabbernet-fh8)
-- [Mastering Competitive Coding: Array](https://dev.to/vivek1030/mastering-competitive-coding-array-4cdm)
-- [List of free AI Models](https://dev.to/sbalasa/list-of-ai-models-17on)
-- [Exciting News for React Developers: Say Goodbye to Manual Memoization!](https://dev.to/amitkumar13/exciting-news-for-react-developers-say-goodbye-to-manual-memoization-17kj)
+- [How to Apply a Material File to an OBJ in A-Frame](https://dev.to/mitchallen/how-to-apply-a-material-file-to-an-obj-in-a-frame-4j54)
+- [Image Editing with AI Cropping Tools](https://dev.to/msmith99994/image-editing-with-ai-cropping-tools-dbd)
+- [Choose right framework for yourself with this tool... 😮‍💨 🤯](https://dev.to/zaidmaker/choose-right-framework-for-you-with-this-tool-36ab)
+- [DSA at one place](https://dev.to/eluconsmidar/dsa-at-one-place-4k8h)
+- [How to ask better questions?](https://dev.to/eluconsmidar/how-to-ask-better-questions-30bh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
