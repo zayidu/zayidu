@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deprecating Angular App Inbox towards web-inbox](https://dev.to/suprsend/deprecating-angular-app-inbox-towards-web-inbox-50ef)
-- [Angular App Inbox](https://dev.to/suprsend/angular-app-inbox-2ik7)
-- [Why NVM is Tremendously Helpful for Web Developers](https://dev.to/mohammadfaisal/why-nvm-is-tremendously-helpful-for-web-developers-17i9)
-- [What are you learning about this weekend? 🧠](https://dev.to/devteam/what-are-you-learning-about-this-weekend-1nn8)
-- [7 BASIC GIT COMMANDS](https://dev.to/abbymaribe/7-basic-git-commands-3cnm)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2nfd)
+- [Fazendo Funcionar vs. Tornando Perfeito](https://dev.to/henriquevital777/fazendo-funcionar-vs-tornando-perfeito-2din)
+- [Simple Go Chat Application in under 100 lines of code - Part 2](https://dev.to/gopher-wizards/simple-go-chat-application-in-under-100-lines-of-code-part-2-1g67)
+- [How to Resize Images with Pillow and OpenCV](https://dev.to/msmith99994/how-to-resize-images-with-pillow-and-opencv-5apb)
+- [Getting started with React by building a Pokemon search application](https://dev.to/nikola/getting-started-with-react-by-building-a-pokemon-search-application-3pm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
