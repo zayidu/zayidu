@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL specific trigram_similar lookups in Django](https://dev.to/azayshrestha/postgresql-specific-trigramsimilar-lookups-in-django-3f89)
-- [When It’s Time to Give REST a Rest](https://dev.to/johnjvester/when-its-time-to-give-rest-a-rest-5155)
-- [KD2 art filtered CSS No Js](https://dev.to/tidycoder/kd2-art-filtered-css-no-js-3nn8)
-- [Change the theme of a phone](https://dev.to/tidycoder/change-the-theme-of-a-phone-4dho)
-- [How Many Languages A Developer Should Know?](https://dev.to/sotergreco/how-many-languages-a-developer-should-know-3920)
+- [A small survey about modern social medias.](https://dev.to/darnethal0z/a-small-survey-about-modern-social-medias-3lhe)
+- [Microsoft Azure AD Roles and Azure Roles Explained with Examples](https://dev.to/sangifeanyi/microsoft-azure-ad-roles-and-azure-roles-explained-with-examples-3dfa)
+- [4. Median of Two Sorted Arrays](https://dev.to/mdarifulhaque/4-median-of-two-sorted-arrays-54pa)
+- [857. Minimum Cost to Hire K Workers](https://dev.to/mdarifulhaque/857-minimum-cost-to-hire-k-workers-20e6)
+- [Amazon MSK vs Apache Kafka](https://dev.to/collins224/amazon-msk-vs-kafka-5g4p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
