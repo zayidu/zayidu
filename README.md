@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-2nfd)
-- [Fazendo Funcionar vs. Tornando Perfeito](https://dev.to/henriquevital777/fazendo-funcionar-vs-tornando-perfeito-2din)
-- [Simple Go Chat Application in under 100 lines of code - Part 2](https://dev.to/gopher-wizards/simple-go-chat-application-in-under-100-lines-of-code-part-2-1g67)
-- [How to Resize Images with Pillow and OpenCV](https://dev.to/msmith99994/how-to-resize-images-with-pillow-and-opencv-5apb)
-- [Getting started with React by building a Pokemon search application](https://dev.to/nikola/getting-started-with-react-by-building-a-pokemon-search-application-3pm)
+- [Apache SOLR](https://dev.to/ale23yfm/apache-solr-2mli)
+- [HORROR GAME IN SCRATCH](https://dev.to/dino2328/horror-game-in-scratch-51gf)
+- [useEffect Hook](https://dev.to/fatimaalam1234/useeffect-hook-3gon)
+- [Basic concepts in Cloud Computing](https://dev.to/stippy4real/basic-concepts-in-cloud-computing-1i47)
+- [Functional Programming in Javascript.](https://dev.to/abhishekkrpand1/functional-programming-in-javascript-ia6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
