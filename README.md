@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Go Action: Error Handling In gRPC](https://dev.to/huizhou92/go-action-error-handling-in-grpc-agj)
+- [Json Web Tokens](https://dev.to/ezekiel_77/json-web-tokens-47de)
 - [Quick reference for UI new emerging stacks and frameworks !!!](https://dev.to/vaibhavpatil123/quick-reference-for-ui-new-emerging-stacks-and-frameworks--593e)
-- [Understanding Key Concepts in Cloud Technology](https://dev.to/toluwani_oluwaloseyi/understanding-key-concepts-in-cloud-technology-5bi0)
-- [Optimizing S3 Bucket Management and Lifecycle with Terraform](https://dev.to/suzuki0430/optimizing-s3-bucket-management-and-lifecycle-with-terraform-45ne)
-- [Bitcoin white paper](https://dev.to/sujay404/bitcoin-white-paper-35n1)
-- [Implementing Concurrency in Shell Scripts](https://dev.to/siddhantkcode/implementing-concurrency-in-shell-scripts-521o)
+- [How to create a chat bubble with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-chat-bubble-with-tailwind-css-and-alpinejs-i8p)
+- [Navigating the Waters of Divorce in Ontario: Understanding Timelines and Processes](https://dev.to/davidjamesk/navigating-the-waters-of-divorce-in-ontario-understanding-timelines-and-processes-2b0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
