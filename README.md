@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Action: Error Handling In gRPC](https://dev.to/huizhou92/go-action-error-handling-in-grpc-agj)
-- [Json Web Tokens](https://dev.to/ezekiel_77/json-web-tokens-47de)
-- [Quick reference for UI new emerging stacks and frameworks !!!](https://dev.to/vaibhavpatil123/quick-reference-for-ui-new-emerging-stacks-and-frameworks--593e)
-- [How to create a chat bubble with Tailwind CSS and Alpinejs](https://dev.to/mike_andreuzza/how-to-create-a-chat-bubble-with-tailwind-css-and-alpinejs-i8p)
-- [Navigating the Waters of Divorce in Ontario: Understanding Timelines and Processes](https://dev.to/davidjamesk/navigating-the-waters-of-divorce-in-ontario-understanding-timelines-and-processes-2b0p)
+- [0x11. What happens when you type google.com in your browser and press Enter](https://dev.to/jacques00077/0x11-what-happens-when-you-type-googlecom-in-your-browser-and-press-enter-429l)
+- [cài đặt .net framework 3.5 - 2024](https://dev.to/longtth/cai-dat-net-framework-35-2024-28l9)
+- [Assumptions in Software Development &lpar;with EF Core as example&rpar;](https://dev.to/krste/assumptions-in-software-development-with-ef-core-as-example-3nl0)
+- [Hacking out an AI spider with Node](https://dev.to/adaschevici/hacking-out-an-ai-spider-with-node-1h31)
+- [What should I do if the bottom and right borders of VTable are not displayed when it is scrolled?](https://dev.to/fangsmile/what-should-i-do-if-the-bottom-and-right-borders-of-vtable-are-not-displayed-when-it-is-scrolled-1kj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
