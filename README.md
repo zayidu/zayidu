@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Flutter&#39;s Power: Successfully Migrating Your App](https://dev.to/kachi14/unlocking-flutters-power-successfully-migrating-your-app-28gg)
+- [Understanding the controller-runtime Cache Seriously](https://dev.to/shuheiktgw/understanding-the-controller-runtime-cache-seriously-3c2k)
+- [Exploring the Solidity Programming Language for Smart Contracts](https://dev.to/kartikmehta8/exploring-the-solidity-programming-language-for-smart-contracts-28jk)
 - [Network Topologies- Netlify Dynamic Site Challenge](https://dev.to/yowise/network-topologies-netlify-dynamic-site-challenge-gje)
 - [AWS Lambda Functions Failure Management](https://dev.to/igvir/aws-lambda-functions-failure-management-i67)
-- [Java Developers Squad on Daily Dev! Join us!](https://dev.to/omar99/java-developers-squad-on-daily-dev-join-us-2io4)
-- [Newbie](https://dev.to/kunlekool/newbie-40jn)
-- [Window funtions in postgreSQL](https://dev.to/johnniekay/window-funtions-in-postgresql-2iha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
