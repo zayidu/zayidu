@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to become an Azure engineer](https://dev.to/themaxmillan/how-to-become-an-azure-engineer-31g8)
-- [Hosting a static website on an S3 bucket using Amazon CloudFront](https://dev.to/florenceokoli/hosting-a-static-website-on-an-s3-bucket-using-amazon-cloudfront-ob2)
-- [Onboarding quickly as a manager, a suggested heuristic](https://dev.to/akotek/1st-week-onboarding-manager-heuristic-jhb)
-- [Synternet Data Layer](https://dev.to/tosynthegeek/synternet-data-layer-3gan)
-- [How I Achieved Maintanability, and Scalability in My Projects](https://dev.to/mikhaelesa/how-i-achieved-maintanability-and-scalability-in-my-projects-khe)
+- [Multi-Tenant SaaS Architecture - Database Per Tenant](https://dev.to/developerpartners/multi-tenant-saas-architecture-database-per-tenant-1170)
+- [RHEL : A better cheat Sheet](https://dev.to/kaustubhyerkade/rhel-a-better-cheat-sheet-2km1)
+- [Binary Lab](https://dev.to/abenteuerzeit/binary-lab-18j)
+- [What I Learned After Applying to Over 150 Software Engineer Internships](https://dev.to/vitalipri/what-i-learned-after-applying-to-over-150-software-engineer-internships-4og3)
+- [DP with Simple Matrix Traversal](https://dev.to/ashutosh049/dp-with-simple-matrix-traversal-1bjo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
