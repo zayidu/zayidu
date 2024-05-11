@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Differences between CSS transitions, transforms, and animations](https://dev.to/palchandu_dev/differences-between-css-transitions-transforms-and-animations-58hi)
-- [My Pen on CodePen](https://dev.to/dominyke/my-pen-on-codepen-14fl)
-- [Go-like channels in C++](https://dev.to/hardenedsteel/go-like-channels-in-c-3i7h)
-- [AI Strategy Guide: How to Scale AI Across Your Business](https://dev.to/mkdev/ai-strategy-guide-how-to-scale-ai-across-your-business-5f3f)
-- [An ode to Stacks and Pointers in Go!](https://dev.to/__init__abs/an-ode-to-stacks-and-pointers-in-go-525n)
+- [Detecting Blocked Google Ads with Simple and Effective JavaScript](https://dev.to/livetvchannels/detecting-blocked-google-ads-with-simple-and-effective-javascript-1m5o)
+- [HOW CSS WORKS BEHIND THE SCENE](https://dev.to/princessaisha/how-css-works-behind-the-scene-497p)
+- [Docker for Next.js](https://dev.to/codeparrot/docker-for-nextjs-4b2i)
+- [The gooey effect for Angular, used for shape blobbing / metaballs 🧽](https://dev.to/wadie/the-gooey-effect-for-angular-used-for-shape-blobbing-metaballs-1p8k)
+- [Programming as a conversation - How the communicative scheme is also applied in the written code itself](https://dev.to/miguelmj/programming-as-a-conversation-how-the-communicative-scheme-is-also-applied-in-the-written-code-itself-5378)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
