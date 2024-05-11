@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Apply a Material File to an OBJ in A-Frame](https://dev.to/mitchallen/how-to-apply-a-material-file-to-an-obj-in-a-frame-4j54)
-- [Image Editing with AI Cropping Tools](https://dev.to/msmith99994/image-editing-with-ai-cropping-tools-dbd)
-- [Choose right framework for yourself with this tool... 😮‍💨 🤯](https://dev.to/zaidmaker/choose-right-framework-for-you-with-this-tool-36ab)
-- [DSA at one place](https://dev.to/eluconsmidar/dsa-at-one-place-4k8h)
-- [How to ask better questions?](https://dev.to/eluconsmidar/how-to-ask-better-questions-30bh)
+- [How to become an Azure engineer](https://dev.to/themaxmillan/how-to-become-an-azure-engineer-31g8)
+- [Hosting a static website on an S3 bucket using Amazon CloudFront](https://dev.to/florenceokoli/hosting-a-static-website-on-an-s3-bucket-using-amazon-cloudfront-ob2)
+- [Onboarding quickly as a manager, a suggested heuristic](https://dev.to/akotek/1st-week-onboarding-manager-heuristic-jhb)
+- [Synternet Data Layer](https://dev.to/tosynthegeek/synternet-data-layer-3gan)
+- [How I Achieved Maintanability, and Scalability in My Projects](https://dev.to/mikhaelesa/how-i-achieved-maintanability-and-scalability-in-my-projects-khe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
