@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Tenant SaaS Architecture - Database Per Tenant](https://dev.to/developerpartners/multi-tenant-saas-architecture-database-per-tenant-1170)
-- [RHEL : A better cheat Sheet](https://dev.to/kaustubhyerkade/rhel-a-better-cheat-sheet-2km1)
-- [Binary Lab](https://dev.to/abenteuerzeit/binary-lab-18j)
-- [What I Learned After Applying to Over 150 Software Engineer Internships](https://dev.to/vitalipri/what-i-learned-after-applying-to-over-150-software-engineer-internships-4og3)
-- [DP with Simple Matrix Traversal](https://dev.to/ashutosh049/dp-with-simple-matrix-traversal-1bjo)
+- [A litle bit CSS &amp; Variable Fonts Magic](https://dev.to/tetragius/a-litle-bit-css-variable-fonts-magic-41hi)
+- [Zig is the Next Big Programming Language](https://dev.to/dayvster/zig-is-the-next-big-programming-language-4dcl)
+- [Unveiling the Power of the &lt;img&gt; Element in HTML](https://dev.to/gracekid/unveiling-the-power-of-the-element-in-html-54kk)
+- [Mastering Lists in HTML: A Comprehensive Guide](https://dev.to/gracekid/mastering-lists-in-html-a-comprehensive-guide-17og)
+- [Poetry2Nix Development Flake with Matplotlib GTK Support](https://dev.to/hiro98/poetry2nix-development-flake-with-matplotlib-gtk-support-5521)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
