@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Network Topologies- Netlify Dynamic Site Challenge](https://dev.to/yowise/network-topologies-netlify-dynamic-site-challenge-gje)
+- [AWS Lambda Functions Failure Management](https://dev.to/igvir/aws-lambda-functions-failure-management-i67)
+- [Java Developers Squad on Daily Dev! Join us!](https://dev.to/omar99/java-developers-squad-on-daily-dev-join-us-2io4)
+- [Newbie](https://dev.to/kunlekool/newbie-40jn)
 - [Window funtions in postgreSQL](https://dev.to/johnniekay/window-funtions-in-postgresql-2iha)
-- [Explain these key concepts &lpar;Beginner Cloud DevOps Program &rpar;](https://dev.to/chifum/explain-these-key-concepts-beginner-cloud-devops-program--1k3i)
-- [Stream Audio from Raspberry Pi to Local Computer](https://dev.to/shilleh/stream-audio-from-raspberry-pi-to-local-computer-1a1c)
-- [self-host a Streamlit app&#39; on a Ubuntu server](https://dev.to/yactouat/self-host-a-streamlit-app-on-a-ubuntu-server-1f78)
-- [Security news weekly round-up - 10 May 2024](https://dev.to/ziizium/security-news-weekly-round-up-10-may-2024-176m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
