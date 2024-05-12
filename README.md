@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The difference of writing CSR, SSR and SSG in Next.js App Router and Page Router.](https://dev.to/jamescroissant/the-difference-of-writing-csr-ssr-and-ssg-in-nextjs-app-router-and-page-router-1ci5)
-- [Use Smartphone Camera as Webcam for Apps in Windows 11](https://dev.to/winsidescom/use-smartphone-camera-as-webcam-for-apps-in-windows-11-cal)
-- [Quiz Dynamic App with Vue JS](https://dev.to/wilsonjuma/quiz-dynamic-app-with-vue-js-3c5c)
-- [Terabox Downloader Telegram Bot | 100% working | Download and Stream terabox video, files, zip](https://dev.to/sh20raj1/terabox-downloader-telegram-bot-100-working-download-and-stream-terabox-video-files-zip-2p55)
-- [Why I Stay with Serverless in 2024 😎](https://dev.to/derekxwang/why-i-stay-with-serverless-in-2024-3he3)
+- [JS Eventloop and Nodejs event loop different or not?](https://dev.to/killjoy__02/js-eventloop-and-nodejs-event-loop-different-or-not-4hbi)
+- [Static Code Analysis — deep dive](https://dev.to/pavlo_lozovikov/static-code-analysis-deep-dive-5e57)
+- [Let&#39;s solve one problem from codeforces today. &lpar;problemset/problem/1766/A&rpar;](https://dev.to/swarnendu0123/lets-solve-one-problem-from-codeforces-today-problemsetproblem1766a-bgp)
+- [Laravel Relationship Recipes: Simplify Querying with oldestOfMany](https://dev.to/muhammadsaim/laravel-relationship-recipes-simplify-querying-with-oldestofmany-1p67)
+- [A fast, powerful, and out of the box TypeScript tool library](https://dev.to/linhanlove/a-fast-powerful-and-out-of-the-box-typescript-tool-library-3g9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
