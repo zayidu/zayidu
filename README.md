@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clever Caching a Stock Analysis app using Netlify&#39;s fine-grained cache control](https://dev.to/ashiqsultan/clever-caching-a-stock-analysis-app-using-netlifys-fine-grained-cache-control-268b)
-- [Provisioning Kubernetes Clusters with Kubespray](https://dev.to/esthernnolum/provisioning-kubernetes-clusters-with-kubespray-1a2i)
-- [Provisioning Kubernetes Clusters with Kubespray](https://dev.to/esthernnolum/provisioning-kubernetes-clusters-with-kubespray-4a9o)
-- [Rust Advance Cheatsheet](https://dev.to/syedmuhammadaliraza/rust-advance-cheatsheet-4ki8)
-- [sunday prompt #1 - memory swap](https://dev.to/onwritinggames/sunday-prompt-1-memory-swap-3ia9)
+- [Asterisk Stun Turn Server: How to.](https://dev.to/alakkadshaw/asterisk-stun-turn-server-how-to-322e)
+- [Writing automated tests with Python](https://dev.to/jared201/writing-automated-tests-with-python-3kcj)
+- [💎 Using Ruby&#39;s SecureRandom to Strengthen User Authentication](https://dev.to/take0420/using-rubys-securerandom-to-strengthen-user-authentication-he3)
+- [Laravel Machine Learning Anybody?](https://dev.to/kwnaidoo/laravel-machine-learning-anybody-10ba)
+- [Understanding Load Balancers: How They Work, Types, Algorithms, and Use Cases](https://dev.to/imabhinavdev/understanding-load-balancers-how-they-work-types-algorithms-and-use-cases-3b1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
