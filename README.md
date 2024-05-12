@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Insights from HackSpaceCon 2024: Navigating Cybersecurity Challenges Ahead](https://dev.to/gitguardian/insights-from-hackspacecon-2024-navigating-cybersecurity-challenges-ahead-li3)
-- [Docker Container health Dashboard in Go](https://dev.to/surajupadhaya/docker-container-health-dashboard-in-go-4ehe)
-- [Automated Latex Resume with GitHub Action](https://dev.to/sahrohit/automated-latex-resume-with-github-action-e0p)
-- [Top 5 Chrome Extensions for IT Field](https://dev.to/marudhu99/top-5-chrome-extensions-for-it-field-44jd)
-- [I Used to Hate Writing Jira Tickets, Before I Learned This](https://dev.to/ex7r3me/i-used-to-hate-writing-jira-tickets-before-i-learned-this-3jj7)
+- [CSS in a Simplified way and altruism thought](https://dev.to/janmejaisingh/css-in-a-simplified-way-and-altruism-thought-3abk)
+- [Harnessing Node.js Native File Watching for Enhanced Developer Productivity](https://dev.to/davidking/harnessing-nodejs-native-file-watching-for-enhanced-developer-productivity-fa7)
+- [Publish pure ESM npm package written in TypeScript to JSR](https://dev.to/fabon/publish-pure-esm-npm-package-written-in-typescript-to-jsr-4ih2)
+- [Social Sizer: Perfectly-Sized Images for Every Social Platform](https://dev.to/jeevaramanathan/social-sizer-perfectly-sized-images-for-every-social-platform-1kh3)
+- [Exploring Some Features of HTML5](https://dev.to/debtech/exploring-some-features-of-html5-1md2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
