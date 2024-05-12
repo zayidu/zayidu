@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Asterisk Stun Turn Server: How to.](https://dev.to/alakkadshaw/asterisk-stun-turn-server-how-to-322e)
-- [Writing automated tests with Python](https://dev.to/jared201/writing-automated-tests-with-python-3kcj)
-- [💎 Using Ruby&#39;s SecureRandom to Strengthen User Authentication](https://dev.to/take0420/using-rubys-securerandom-to-strengthen-user-authentication-he3)
-- [Laravel Machine Learning Anybody?](https://dev.to/kwnaidoo/laravel-machine-learning-anybody-10ba)
-- [Understanding Load Balancers: How They Work, Types, Algorithms, and Use Cases](https://dev.to/imabhinavdev/understanding-load-balancers-how-they-work-types-algorithms-and-use-cases-3b1l)
+- [How to take unlimited arguments in JavaScript](https://dev.to/bybydev/how-to-take-unlimited-arguments-in-javascript-21nb)
+- [How to Implement Deferrable Views in Angular 17 for Faster Load Times](https://dev.to/bytebantz/how-to-implement-deferrable-views-in-angular-17-for-faster-load-times-3036)
+- [How to Implement Deferrable Views in Angular 17 for Faster Load Times](https://dev.to/bytebantz/how-to-implement-deferrable-views-in-angular-17-for-faster-load-times-520a)
+- [How to Implement Deferrable Views in Angular 17 for Faster Load Times](https://dev.to/bytebantz/how-to-implement-deferrable-views-in-angular-17-for-faster-load-times-2bpj)
+- [How to Structure Vue Projects](https://dev.to/alexanderop/how-to-structure-vue-projects-20i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
