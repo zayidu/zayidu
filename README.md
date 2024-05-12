@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New WebGL QR code generator](https://dev.to/matteosant_dev/new-webgl-qr-code-generator-57fk)
-- [1st Day on Dev.](https://dev.to/shweta3103/1st-day-on-dev-43ho)
-- [Monthly Amazon Location Service Updates - 2024.04](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202403-33n0)
-- [Programming in Python - Introduction](https://dev.to/dchhitarka/programming-in-python-introduction-16k6)
-- [Exploring Event-Driven and Asynchronous Programming in Node.js](https://dev.to/kernelrb/exploring-event-driven-and-asynchronous-programming-in-nodejs-3clc)
+- [Clever Caching a Stock Analysis app using Netlify&#39;s fine-grained cache control](https://dev.to/ashiqsultan/clever-caching-a-stock-analysis-app-using-netlifys-fine-grained-cache-control-268b)
+- [Provisioning Kubernetes Clusters with Kubespray](https://dev.to/esthernnolum/provisioning-kubernetes-clusters-with-kubespray-1a2i)
+- [Provisioning Kubernetes Clusters with Kubespray](https://dev.to/esthernnolum/provisioning-kubernetes-clusters-with-kubespray-4a9o)
+- [Rust Advance Cheatsheet](https://dev.to/syedmuhammadaliraza/rust-advance-cheatsheet-4ki8)
+- [sunday prompt #1 - memory swap](https://dev.to/onwritinggames/sunday-prompt-1-memory-swap-3ia9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
