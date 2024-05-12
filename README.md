@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Asymptotic Notations: A Comprehensive Guide](https://dev.to/princem/asymptotic-notations-a-comprehensive-guide-30i8)
+- [Unleashing the Hidden Power of HTML Forms](https://dev.to/madsstoumann/unleashing-the-hidden-power-of-html-forms-2gkl)
+- [Using Google Classroom API: A Complete Guide for Educational Apps](https://dev.to/abdulrazack23/the-importance-of-google-classroom-api-in-learning-apps-3om2)
+- [Building a Google Classroom App with Flutter: A Step-by-Step Guide](https://dev.to/abdulrazack23/building-a-google-classroom-app-with-flutter-a-step-by-step-guide-4chb)
 - [Do You Meditate? 🧘‍♂️](https://dev.to/devteam/do-you-meditate-2b6e)
-- [10 Google Apps for Flutter Development with API Integration](https://dev.to/abdulrazack23/10-google-apps-for-flutter-development-with-api-integration-1n83)
-- [Static Code Analysis - deep dive](https://dev.to/plozovik/static-code-analysis-deep-dive-2790)
-- [🏆 Pick Your Champion - Netlify Dynamic Site Challenge](https://dev.to/tangweikun/pick-your-champion-netlify-dynamic-site-challenge-502k)
-- [The magical number game](https://dev.to/simongreennet/the-magical-number-game-4jgo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
