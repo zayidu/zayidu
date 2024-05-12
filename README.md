@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Memories Apple Vision👓 Concept App using Netlify&#39;s Image CDN](https://dev.to/srikant_code/memories-apple-vision-concept-app-using-netlifys-image-cdn-1i0h)
-- [My new freelance era!](https://dev.to/supeergabs/my-freelance-era-4iki)
-- [I need to create a PXE with the following configuration:](https://dev.to/octavio188/i-need-to-create-a-pxe-with-the-following-configuration-4l8m)
-- [Advanced Techniques in Deep Learning with TensorFlow](https://dev.to/kartikmehta8/advanced-techniques-in-deep-learning-with-tensorflow-5beo)
-- [Progress Update: Moving Forward with a New Functionality Implemented](https://dev.to/juan-alcalde/progress-update-moving-forward-with-a-new-functionality-implemented-59c3)
+- [Google Colab With Open AI](https://dev.to/rswijesena/google-colab-with-open-ai-2l7j)
+- [Discover | Apple Vision👓 Concept App using Netlify&#39;s Cache revalidation &amp; Next JS SSR](https://dev.to/srikant_code/discover-apple-vision-concept-app-using-netlifys-cache-revalidation-next-js-ssr-1ifj)
+- [Albums | Apple Vision👓 Concept App using Netlify&#39;s Blobs &amp; Next JS](https://dev.to/srikant_code/albums-apple-vision-concept-app-using-netlifys-blobs-next-js-9ep)
+- [Ollama Getting Started &lpar;Llama 3, Mac, Apple Silicon&rpar;](https://dev.to/mitchallen/ollama-getting-started-llama-3-mac-apple-silicon-39kn)
+- [Llama 3 Getting Started &lpar;Mac, Apple Silicon&rpar;](https://dev.to/mitchallen/llama-3-getting-started-mac-apple-silicon-5fm1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
