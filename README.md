@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A litle bit CSS &amp; Variable Fonts Magic](https://dev.to/tetragius/a-litle-bit-css-variable-fonts-magic-41hi)
-- [Zig is the Next Big Programming Language](https://dev.to/dayvster/zig-is-the-next-big-programming-language-4dcl)
-- [Unveiling the Power of the &lt;img&gt; Element in HTML](https://dev.to/gracekid/unveiling-the-power-of-the-element-in-html-54kk)
-- [Mastering Lists in HTML: A Comprehensive Guide](https://dev.to/gracekid/mastering-lists-in-html-a-comprehensive-guide-17og)
-- [Poetry2Nix Development Flake with Matplotlib GTK Support](https://dev.to/hiro98/poetry2nix-development-flake-with-matplotlib-gtk-support-5521)
+- [Advanced Techniques in Deep Learning with TensorFlow](https://dev.to/kartikmehta8/advanced-techniques-in-deep-learning-with-tensorflow-5beo)
+- [Progress Update: Moving Forward with a New Functionality Implemented](https://dev.to/juan-alcalde/progress-update-moving-forward-with-a-new-functionality-implemented-59c3)
+- [Mastering JavaScript Array Manipulation: Map, Filter, and Reduce.](https://dev.to/maaazi643/mastering-javascript-array-manipulation-map-filter-and-reduce-cbm)
+- [Modern Python REPL in Emacs using VTerm](https://dev.to/hiro98/modern-python-repl-in-emacs-using-vterm-4knl)
+- [If you want your Ruby application to be efficient, keep it updated!](https://dev.to/pimp_my_ruby/if-you-want-your-ruby-application-to-be-efficient-keep-it-updated-37k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
