@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🎨 Logo Hunter - Netlify Dynamic Site Challenge](https://dev.to/tangweikun/logo-hunter-netlify-dynamic-site-challenge-367g)
+- [JavaScript vs TypeScript](https://dev.to/sh20raj/javascript-vs-typescript-5ag7)
+- [Unleash the Power of Rate-Limiting with Limitless](https://dev.to/forkbikash/unleash-the-power-of-rate-limiting-with-limitless-ich)
+- [The Actor Model in Go: Simplifying Concurrent Programming](https://dev.to/forkbikash/the-actor-model-in-go-simplifying-concurrent-programming-1j9d)
 - [Google Colab With Open AI](https://dev.to/rswijesena/google-colab-with-open-ai-2l7j)
-- [Discover | Apple Vision👓 Concept App using Netlify&#39;s Cache revalidation &amp; Next JS SSR](https://dev.to/srikant_code/discover-apple-vision-concept-app-using-netlifys-cache-revalidation-next-js-ssr-1ifj)
-- [Albums | Apple Vision👓 Concept App using Netlify&#39;s Blobs &amp; Next JS](https://dev.to/srikant_code/albums-apple-vision-concept-app-using-netlifys-blobs-next-js-9ep)
-- [Ollama Getting Started &lpar;Llama 3, Mac, Apple Silicon&rpar;](https://dev.to/mitchallen/ollama-getting-started-llama-3-mac-apple-silicon-39kn)
-- [Llama 3 Getting Started &lpar;Mac, Apple Silicon&rpar;](https://dev.to/mitchallen/llama-3-getting-started-mac-apple-silicon-5fm1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
