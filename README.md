@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What not to do when learning React?](https://dev.to/g3nt/what-not-to-do-when-learning-react-4489)
-- [Leitura comentada - Arquitetura Limpa - Capítulo 3 - Panorama do Paradigma](https://dev.to/zodh/leitura-comentada-arquitetura-limpa-capitulo-3-panorama-do-paradigma-3ebg)
-- [How to handle media uploads in Django](https://dev.to/emiloju/how-to-handle-media-uploads-in-django-1kpc)
-- [Mappables in typescript](https://dev.to/eatyourabstractions/mappables-in-typescript-26f8)
-- [funny-selkie-dce386.netlify.app/](https://dev.to/wmasivi54623/funny-selkie-dce386netlifyapp-56n7)
+- [Netlify Dynamic Site Challenge : Using the power of CDNs and Transformations for a visual feast](https://dev.to/mayankarya/netlify-dynamic-site-challenge-using-the-power-of-cdns-and-transformations-for-a-visual-feast-4kce)
+- [Next.js Zustand Integration Guide for Server and Client Components](https://dev.to/abdullah-dev0/nextjs-zustand-integration-guide-for-server-and-client-components-4ge9)
+- [My first Smart Contract](https://dev.to/astroleaf/my-first-smart-contract-3dda)
+- [Top 12 Tips from a Mid-level Developer](https://dev.to/abdullah-dev0/top-12-tips-from-a-mid-level-developer-2c93)
+- [Unleashing Creativity with React JS: A Guide to Unique and Interactive Web Experiences](https://dev.to/drruvari/unleashing-creativity-with-react-js-a-guide-to-unique-and-interactive-web-experiences-1n96)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
