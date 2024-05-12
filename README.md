@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Memories Apple Vision👓 Concept App using Netlify&#39;s Image CDN](https://dev.to/srikant_code/memories-apple-vision-concept-app-using-netlifys-image-cdn-1i0h)
+- [My new freelance era!](https://dev.to/supeergabs/my-freelance-era-4iki)
 - [I need to create a PXE with the following configuration:](https://dev.to/octavio188/i-need-to-create-a-pxe-with-the-following-configuration-4l8m)
 - [Advanced Techniques in Deep Learning with TensorFlow](https://dev.to/kartikmehta8/advanced-techniques-in-deep-learning-with-tensorflow-5beo)
 - [Progress Update: Moving Forward with a New Functionality Implemented](https://dev.to/juan-alcalde/progress-update-moving-forward-with-a-new-functionality-implemented-59c3)
-- [Mastering JavaScript Array Manipulation: Map, Filter, and Reduce.](https://dev.to/maaazi643/mastering-javascript-array-manipulation-map-filter-and-reduce-cbm)
-- [Modern Python REPL in Emacs using VTerm](https://dev.to/hiro98/modern-python-repl-in-emacs-using-vterm-4knl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
