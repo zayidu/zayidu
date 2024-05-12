@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Valibot for Recursive Schema Validation](https://dev.to/allieschen/using-valibot-for-recursive-schema-validation-15ej)
-- [The Thing Called AI; A Series](https://dev.to/zadazini/the-thing-called-ai-a-series-pi9)
-- [Error Handling for Large Rust Projects - A Deep Dive into GreptimeDB&#39;s Practices](https://dev.to/greptime/error-handling-for-large-rust-projects-a-deep-dive-into-greptimedbs-practices-l9i)
-- [Overcoming Prometheus&#39;s Single-Value Data Model Limitations - A New Approach by GreptimeDB](https://dev.to/greptime/overcoming-prometheuss-single-value-data-model-limitations-a-new-approach-by-greptimedb-30cg)
-- [Vercel&#39;s New waitUntil Utility 🕰️✨](https://dev.to/mattlewandowski93/vercels-new-waituntil-30g9)
+- [Building a Stunning React Photo Gallery](https://dev.to/msmith99994/building-a-stunning-react-photo-gallery-5e66)
+- [Friendly Waffle 🧇](https://dev.to/lizardkinglk/friendly-waffle-81g)
+- [Is null a dataType in Javascript?](https://dev.to/const_variable/is-null-a-datatype-in-javascript-1ol2)
+- [With Makefile - Nest.js docker deployment and versioning automation](https://dev.to/pragmaticfrontend/with-makefile-nestjs-docker-deployment-and-versioning-automation-m6m)
+- [Windows 上，本機用 Docker 安裝 GitLab](https://dev.to/letswrite/windows-shang-ben-ji-yong-docker-an-zhuang-gitlab-3ljh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
