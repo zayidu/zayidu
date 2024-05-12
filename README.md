@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Roadmap to Becoming a Java Backend Developer in 2024](https://dev.to/nikhilxd/roadmap-to-becoming-a-java-backend-developerin-2024-55og)
-- [Technologies for implementing a matchmaking and usage of apis related to dating app](https://dev.to/iloveangular/technologies-for-implementing-a-matchmaking-and-usage-of-apis-related-to-dating-app-4n5l)
-- [EasyDeps : brick-ception](https://dev.to/koukibadr/easydeps-brick-ception-2jcl)
-- [How to Implement a Search Box in Next.js](https://dev.to/ayush-rudani/how-to-implement-a-search-box-in-nextjs-2ji7)
-- [Learning AWS Day by Day — Day 62 — AWS Key Management Service](https://dev.to/rksalo88/learning-aws-day-by-day-day-62-aws-key-management-service-4ko)
+- [Insights from HackSpaceCon 2024: Navigating Cybersecurity Challenges Ahead](https://dev.to/gitguardian/insights-from-hackspacecon-2024-navigating-cybersecurity-challenges-ahead-li3)
+- [Docker Container health Dashboard in Go](https://dev.to/surajupadhaya/docker-container-health-dashboard-in-go-4ehe)
+- [Automated Latex Resume with GitHub Action](https://dev.to/sahrohit/automated-latex-resume-with-github-action-e0p)
+- [Top 5 Chrome Extensions for IT Field](https://dev.to/marudhu99/top-5-chrome-extensions-for-it-field-44jd)
+- [I Used to Hate Writing Jira Tickets, Before I Learned This](https://dev.to/ex7r3me/i-used-to-hate-writing-jira-tickets-before-i-learned-this-3jj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
