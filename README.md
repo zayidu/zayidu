@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with TypeScript: Types](https://dev.to/youxufkhan/getting-started-with-typescript-types-4ono)
-- [Getting Started with TypeScript: Types](https://dev.to/youxufkhan/getting-started-with-typescript-types-2d2)
-- [Bypass AWS API Gateway limits: Upload large files using AWS S3 presigned URLs](https://dev.to/siddhantkcode/uploading-large-files-securely-with-aws-s3-presigned-urls-518i)
-- [Stacks in Action: A Dive into the Concept and Implementation](https://dev.to/guihbc/stacks-in-action-a-dive-into-the-concept-and-implementation-2oo)
-- [what happens when you type https://www.google.com in your browser](https://dev.to/audrybarimbane/what-happens-when-you-type-httpswwwgooglecom-in-your-browser-50m6)
+- [Firebase Needs More Compatibility for JavaScript Environments](https://dev.to/jdgamble555/firebase-needs-more-compatibility-for-javascript-environments-g50)
+- [Day 42/366](https://dev.to/vishalmx3/day-42366-55gg)
+- [PostgreSQL für django aufsetzen - django in Produktion &lpar;Teil 2&rpar;](https://dev.to/rubenvoss/postgresql-fur-django-aufsetzen-django-in-produktion-teil-2-4cdf)
+- [Please Check Out the CodeBehind Framework](https://dev.to/elanatframework/please-check-out-the-codebehind-framework-1g12)
+- [StoryBlobs: An adventure with Netlify Blobs](https://dev.to/ra_jeeves/storyblobs-an-adventure-with-netlify-blobs-75i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
