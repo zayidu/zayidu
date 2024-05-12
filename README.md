@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Firebase Needs More Compatibility for JavaScript Environments](https://dev.to/jdgamble555/firebase-needs-more-compatibility-for-javascript-environments-g50)
-- [Day 42/366](https://dev.to/vishalmx3/day-42366-55gg)
-- [PostgreSQL für django aufsetzen - django in Produktion &lpar;Teil 2&rpar;](https://dev.to/rubenvoss/postgresql-fur-django-aufsetzen-django-in-produktion-teil-2-4cdf)
-- [Please Check Out the CodeBehind Framework](https://dev.to/elanatframework/please-check-out-the-codebehind-framework-1g12)
-- [StoryBlobs: An adventure with Netlify Blobs](https://dev.to/ra_jeeves/storyblobs-an-adventure-with-netlify-blobs-75i)
+- [What not to do when learning React?](https://dev.to/g3nt/what-not-to-do-when-learning-react-4489)
+- [Leitura comentada - Arquitetura Limpa - Capítulo 3 - Panorama do Paradigma](https://dev.to/zodh/leitura-comentada-arquitetura-limpa-capitulo-3-panorama-do-paradigma-3ebg)
+- [How to handle media uploads in Django](https://dev.to/emiloju/how-to-handle-media-uploads-in-django-1kpc)
+- [Mappables in typescript](https://dev.to/eatyourabstractions/mappables-in-typescript-26f8)
+- [funny-selkie-dce386.netlify.app/](https://dev.to/wmasivi54623/funny-selkie-dce386netlifyapp-56n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
