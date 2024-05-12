@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Logo Hunter - Netlify Dynamic Site Challenge](https://dev.to/tangweikun/logo-hunter-netlify-dynamic-site-challenge-367g)
-- [JavaScript vs TypeScript](https://dev.to/sh20raj/javascript-vs-typescript-5ag7)
-- [Unleash the Power of Rate-Limiting with Limitless](https://dev.to/forkbikash/unleash-the-power-of-rate-limiting-with-limitless-ich)
-- [The Actor Model in Go: Simplifying Concurrent Programming](https://dev.to/forkbikash/the-actor-model-in-go-simplifying-concurrent-programming-1j9d)
-- [Google Colab With Open AI](https://dev.to/rswijesena/google-colab-with-open-ai-2l7j)
+- [The difference of writing CSR, SSR and SSG in Next.js App Router and Page Router.](https://dev.to/jamescroissant/the-difference-of-writing-csr-ssr-and-ssg-in-nextjs-app-router-and-page-router-1ci5)
+- [Use Smartphone Camera as Webcam for Apps in Windows 11](https://dev.to/winsidescom/use-smartphone-camera-as-webcam-for-apps-in-windows-11-cal)
+- [Quiz Dynamic App with Vue JS](https://dev.to/wilsonjuma/quiz-dynamic-app-with-vue-js-3c5c)
+- [Terabox Downloader Telegram Bot | 100% working | Download and Stream terabox video, files, zip](https://dev.to/sh20raj1/terabox-downloader-telegram-bot-100-working-download-and-stream-terabox-video-files-zip-2p55)
+- [Why I Stay with Serverless in 2024 😎](https://dev.to/derekxwang/why-i-stay-with-serverless-in-2024-3he3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
