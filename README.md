@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Valibot for Recursive Schema Validation](https://dev.to/allieschen/using-valibot-for-recursive-schema-validation-15ej)
+- [The Thing Called AI; A Series](https://dev.to/zadazini/the-thing-called-ai-a-series-pi9)
+- [Error Handling for Large Rust Projects - A Deep Dive into GreptimeDB&#39;s Practices](https://dev.to/greptime/error-handling-for-large-rust-projects-a-deep-dive-into-greptimedbs-practices-l9i)
+- [Overcoming Prometheus&#39;s Single-Value Data Model Limitations - A New Approach by GreptimeDB](https://dev.to/greptime/overcoming-prometheuss-single-value-data-model-limitations-a-new-approach-by-greptimedb-30cg)
 - [Vercel&#39;s New waitUntil Utility 🕰️✨](https://dev.to/mattlewandowski93/vercels-new-waituntil-30g9)
-- [Comparable and Comparator in Java](https://dev.to/rajubora/comparable-and-comparator-in-java-inh)
-- [Move the Minimize, Maximize and Close buttons to the left in Ubuntu](https://dev.to/khairunnaharnowrin/move-the-minimize-maximize-and-close-buttons-to-the-left-in-ubuntu-p6k)
-- [Efficient GitHub Operations: Simplifying Repository Management using Github CLI](https://dev.to/yutee_okon/efficient-github-operations-simplifying-repository-management-using-github-cli-190l)
-- [Calling Anchor Program From Rust](https://dev.to/swaroopmaddu/calling-anchor-program-from-rust-1ee2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
