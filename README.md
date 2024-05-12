@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Asymptotic Notations: A Comprehensive Guide](https://dev.to/princem/asymptotic-notations-a-comprehensive-guide-30i8)
-- [Unleashing the Hidden Power of HTML Forms](https://dev.to/madsstoumann/unleashing-the-hidden-power-of-html-forms-2gkl)
-- [Using Google Classroom API: A Complete Guide for Educational Apps](https://dev.to/abdulrazack23/the-importance-of-google-classroom-api-in-learning-apps-3om2)
-- [Building a Google Classroom App with Flutter: A Step-by-Step Guide](https://dev.to/abdulrazack23/building-a-google-classroom-app-with-flutter-a-step-by-step-guide-4chb)
-- [Do You Meditate? 🧘‍♂️](https://dev.to/devteam/do-you-meditate-2b6e)
+- [Vercel&#39;s New waitUntil Utility 🕰️✨](https://dev.to/mattlewandowski93/vercels-new-waituntil-30g9)
+- [Comparable and Comparator in Java](https://dev.to/rajubora/comparable-and-comparator-in-java-inh)
+- [Move the Minimize, Maximize and Close buttons to the left in Ubuntu](https://dev.to/khairunnaharnowrin/move-the-minimize-maximize-and-close-buttons-to-the-left-in-ubuntu-p6k)
+- [Efficient GitHub Operations: Simplifying Repository Management using Github CLI](https://dev.to/yutee_okon/efficient-github-operations-simplifying-repository-management-using-github-cli-190l)
+- [Calling Anchor Program From Rust](https://dev.to/swaroopmaddu/calling-anchor-program-from-rust-1ee2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
