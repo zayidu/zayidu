@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Advantages of Bun: When to Choose it Over Node.js 🔥](https://dev.to/kwamedev/the-advantages-of-bun-when-to-choose-it-over-nodejs-m4m)
-- [Most Important Linux Commands You Need To Know !!!](https://dev.to/dhanushnehru/most-important-linux-commands-you-need-to-know--4aei)
-- [Simplify theming SVG with contextual fill and stroke values](https://dev.to/robole/contextual-svg-fill-and-stroke-values-new-svg-goody-3mfa)
-- [How To Build A Chatbot in 3 Steps](https://dev.to/kwan/how-to-build-a-chatbot-in-3-steps-2h2p)
-- [Generate Images with Depth Guided Stable Diffusion and Rerun](https://dev.to/rerunio/generate-images-with-depth-guided-stable-diffusion-and-rerun-3lcp)
+- [History of Artificial Intelligence: How it all started.](https://dev.to/michellebuchiokonicha/history-of-artificial-intelligence-how-it-all-started-20eb)
+- [2024-05-13: Skipped a week](https://dev.to/armantark/2024-05-13-skipped-a-week-1gp9)
+- [Test post](https://dev.to/justingonca/test-post-mif)
+- [Personalizando o README do seu perfil do GitHub](https://dev.to/kauefraga/personalizando-o-readme-do-seu-perfil-do-github-52ke)
+- [Learning AWS Day by Day — Day 63 — Amazon Inspector Classic&lpar;AMS SSPS&rpar;](https://dev.to/rksalo88/learning-aws-day-by-day-day-63-amazon-inspector-classicams-ssps-5a2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
