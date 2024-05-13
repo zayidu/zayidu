@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Silicon Valley&#39;s Inevitable Collapse](https://dev.to/polterguy/silicon-valleys-inevitable-collapse-2702)
-- [Spellbinding String Manipulation: Wizardry with Power Automate](https://dev.to/balagmadhu/spellbinding-string-manipulation-wizardry-with-power-automate-3p90)
-- [The Effect Tax](https://dev.to/datner/the-effect-tax-3gn0)
-- [What is RocksDB &lpar;and its role in streaming&rpar;?](https://dev.to/mrkandreev/what-is-rocksdb-and-its-role-in-streaming-3bla)
-- [How to keep data when user was uninstall app on android device &lpar;Java&rpar;?](https://dev.to/oeurn/how-to-keep-data-when-user-was-uninstall-app-on-android-device-java-504c)
+- [Start with features, not apps](https://dev.to/opensourcee/start-with-features-not-apps-20oc)
+- [Tell us about your first step in your coding journey✈](https://dev.to/masteing_the_code/tell-us-about-your-first-step-in-your-coding-journey-1c10)
+- [Passwort Generator](https://dev.to/bylickilabs/passwort-generator-4jbb)
+- [How to Persist User Info Using Redux Persist with TypeScript](https://dev.to/hossain45/how-to-persist-user-info-using-redux-persist-with-typescript-54g9)
+- [Spring Boot with Thymeleaf and Bootstrap](https://dev.to/tleipzig/spring-boot-with-thymeleaf-and-bootstrap-59ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
