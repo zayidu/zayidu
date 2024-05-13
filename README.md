@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Azure Resource Group](https://dev.to/opsyog/creating-azure-resource-group-4716)
-- [Run IC-Light on Google Colab Free Tier](https://dev.to/0xkoji/run-ic-light-on-google-colab-free-tier-3lmb)
-- [Mastering Oracle SQL Interview Questions: Tips and Answers](https://dev.to/nikhilxd/mastering-oracle-sql-interview-questions-tips-and-answers-ib5)
-- [Cache-Control, Netlify-CDN-Cache-Control, Cache Invalidation, Oh My](https://dev.to/bytrangle/cache-control-netlify-cdn-cache-control-cache-invalidation-oh-my-56n2)
-- [Degradation in String Deduplication Performance in Recent Java Versions](https://dev.to/ram_lakshmanan_001/degradation-in-string-deduplication-performance-in-recent-java-versions-2ce5)
+- [Database Encryption: Secure Your Data with Best Practices](https://dev.to/dbvismarketing/database-encryption-secure-your-data-with-best-practices-20ei)
+- [Mitosis - One compoent for all](https://dev.to/giuliano1993/mitosis-one-compoent-for-all-300e)
+- [Do Hard Habits Pay Off?](https://dev.to/devteam/do-hard-habits-pay-off-2cjh)
+- [Dynamic Gallery with Netlify Image CDN](https://dev.to/aniket_chauhan/dynamic-gallery-with-netlify-image-cdn-2k80)
+- [How to Plan for Compliance for your Product?](https://dev.to/infracloud/how-to-plan-for-compliance-for-your-product-o18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
