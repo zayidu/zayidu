@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enjoy Comfortable Operation with a Lightweight Handheld Chainsaw](https://dev.to/cleopat00/enjoy-comfortable-operation-with-a-lightweight-handheld-chainsaw-1j2k)
-- [Creating custom VPC on AWS using OpenTofu](https://dev.to/vinod827/creating-custom-vpc-on-aws-using-opentofu-3760)
-- [SAP Basis snippets #5](https://dev.to/ashwinsharmap/sap-basis-snippets-5-41ca)
-- [Choosing Your Accessibility UI Testing Library](https://dev.to/steady5063/choosing-your-accessibility-ui-testing-library-1o09)
-- [Sorting and Searching in Python&lpar;looking for help&rpar;](https://dev.to/kumatso1/sorting-and-searching-in-pythonlooking-for-help-38lf)
+- [A Beginner’s Look into Azure Active Directory &lpar;Microsoft Entra ID&rpar; and Roles with a Simple Exercise](https://dev.to/himora22/a-beginners-look-into-azure-active-directory-microsoft-entra-id-and-roles-in-azure-with-a-simple-exercise-2k4c)
+- [Arrow Flight SQL in Apache Doris for 10X faster data transfer](https://dev.to/apachedoris/arrow-flight-sql-in-apache-doris-for-10x-faster-data-transfermd-33ag)
+- [The Graph&#39;s Revolutionary Expansion](https://dev.to/wesson_huang/the-graphs-revolutionary-expansion-22kf)
+- [React Error Boundary: A Guide to Gracefully Handling Errors](https://dev.to/sachinchaurasiya/react-error-boundary-a-guide-to-gracefully-handling-errors-2050)
+- [The Role of Data Integration in Healthcare Research and Precision Medicine](https://dev.to/ovaisnaseem/the-role-of-data-integration-in-healthcare-research-and-precision-medicine-3hdp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
