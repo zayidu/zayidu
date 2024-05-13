@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Chat App with Your Postgres Data using Agent Cloud](https://dev.to/agentcloud/how-to-build-a-chat-app-with-your-postgres-data-using-agent-cloud-33hk)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-7k7)
-- [FLaNK-AIM Weekly 13 May 2024](https://dev.to/tspannhw/flank-aim-weekly-13-may-2024-2ih2)
-- [Explore My Top 7 Favorite Spots in Sydney with Me](https://dev.to/per-starke-642/explore-my-top-7-favorite-spots-in-sydney-with-me-17g0)
-- [AI &amp; Kubernetes](https://dev.to/googlecloud/ai-kubernetes-1957)
+- [The Advantages of Bun: When to Choose it Over Node.js 🔥](https://dev.to/kwamedev/the-advantages-of-bun-when-to-choose-it-over-nodejs-m4m)
+- [Most Important Linux Commands You Need To Know !!!](https://dev.to/dhanushnehru/most-important-linux-commands-you-need-to-know--4aei)
+- [Simplify theming SVG with contextual fill and stroke values](https://dev.to/robole/contextual-svg-fill-and-stroke-values-new-svg-goody-3mfa)
+- [How To Build A Chatbot in 3 Steps](https://dev.to/kwan/how-to-build-a-chatbot-in-3-steps-2h2p)
+- [Generate Images with Depth Guided Stable Diffusion and Rerun](https://dev.to/rerunio/generate-images-with-depth-guided-stable-diffusion-and-rerun-3lcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
