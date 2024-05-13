@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a command line application with Rust](https://dev.to/damcosset/create-a-command-line-application-with-rust-45o6)
-- [WHOIS JSON APIs: Simplifying Domain Information](https://dev.to/ahmedmukhtar1133/whois-json-apis-simplifying-domain-information-4bno)
-- [Day 1 of Coding Bootcamp](https://dev.to/brittanykreyes/day-1-of-coding-bootcamp-2403)
-- [Discord CDN Proxy](https://dev.to/useapi/discord-cdn-proxy-211c)
-- [Master Image Asset Management](https://dev.to/msmith99994/master-image-asset-management-ll4)
+- [Podcast Palooza— What are you listening to? &lpar;Music Edition&rpar;](https://dev.to/devteam/podcast-palooza-what-are-you-listening-to-music-edition-325k)
+- [Mastering the AWS Security Specialty &lpar;SCS&rpar; Exam - A Quick Guide](https://dev.to/aws-builders/mastering-the-aws-security-specialty-scs-exam-a-quick-guide-2go0)
+- [In technical writing, the devil is NOT in the details](https://dev.to/gewenyu99/in-technical-writing-the-devil-is-not-in-the-details-36fn)
+- [OAuth2.0](https://dev.to/arimayuji/oauth20-5e5g)
+- [Tips from open-source: How redirect in Next.js works under the hood](https://dev.to/ramunarasinga/tips-from-open-source-how-redirect-in-nextjs-works-under-the-hood-1i8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
