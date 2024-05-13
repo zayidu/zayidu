@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This is how I&#39;d start an Ultralearning project](https://dev.to/canro91/this-is-how-id-start-an-ultralearning-project-359b)
-- [How do SQL interprets nulls?](https://dev.to/mustafabalila/how-do-sql-interprets-nulls-315k)
-- [Schemetastic Renders - Free 3D renders for your next project](https://dev.to/schemetastic/schemetastic-renders-free-3d-renders-for-your-next-project-1l35)
-- [Unbelieable Yarn Issue - Solution with node version](https://dev.to/dev188007/unbelieable-yarn-issue-solution-with-node-version-41on)
-- [To view the last 100 lines of logs from a Docker container and continue to follow new logs](https://dev.to/pheak_pheasa/to-view-the-last-100-lines-of-logs-from-a-docker-container-and-continue-to-follow-new-logs-3fj1)
+- [Creating Azure Resource Group](https://dev.to/opsyog/creating-azure-resource-group-4716)
+- [Run IC-Light on Google Colab Free Tier](https://dev.to/0xkoji/run-ic-light-on-google-colab-free-tier-3lmb)
+- [Mastering Oracle SQL Interview Questions: Tips and Answers](https://dev.to/nikhilxd/mastering-oracle-sql-interview-questions-tips-and-answers-ib5)
+- [Cache-Control, Netlify-CDN-Cache-Control, Cache Invalidation, Oh My](https://dev.to/bytrangle/cache-control-netlify-cdn-cache-control-cache-invalidation-oh-my-56n2)
+- [Degradation in String Deduplication Performance in Recent Java Versions](https://dev.to/ram_lakshmanan_001/degradation-in-string-deduplication-performance-in-recent-java-versions-2ce5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
