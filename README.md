@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Cases of XPath Python In Selenium With Examples](https://dev.to/lambdatest/use-cases-of-xpath-python-in-selenium-with-examples-lec)
-- [How to Model Cloud-Native Authorization](https://dev.to/permit_io/how-to-model-cloud-native-authorization-aek)
-- [Unveiling the Power of Hexagonal Architecture: A Paradigm Shift in Software Design](https://dev.to/zaiddoussama/unveiling-the-power-of-hexagonal-architecture-a-paradigm-shift-in-software-design-11m5)
-- [Craft a Document QA Assistant for Your Project in Just 5 Minutes!](https://dev.to/jianzs/craft-a-document-qa-assistant-for-your-project-in-just-5-minutes-40pc)
-- [Top 6 Software Documentation Tools to Watch in 2024](https://dev.to/allenz_1011/top-6-software-documentation-tools-to-watch-in-2024-4imp)
+- [Powerful Practices Every New Developer Should Adopt](https://dev.to/baransel/powerful-practices-every-new-developer-should-adopt-2j7d)
+- [How to Add Paid Features to Your SaaS Apps](https://dev.to/aws-builders/how-to-add-paid-features-to-your-saas-apps-1fjb)
+- [Terraform Registry Guide: Tips, Examples and Best Practices](https://dev.to/env0/terraform-registry-guide-tips-examples-and-best-practices-1idl)
+- [What Is a Computer Worm &lpar;Worm Virus&rpar;?](https://dev.to/clouddefenseai/what-is-a-computer-worm-worm-virus-3j2n)
+- [Gen AI &amp; Modern Data Strategy?](https://dev.to/sid16/gen-ai-modern-data-strategy-2mm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
