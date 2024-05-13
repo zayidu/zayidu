@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Netlify Dynamic Site Challenge : Using the power of CDNs and Transformations for a visual feast](https://dev.to/mayankarya/netlify-dynamic-site-challenge-using-the-power-of-cdns-and-transformations-for-a-visual-feast-4kce)
-- [Next.js Zustand Integration Guide for Server and Client Components](https://dev.to/abdullah-dev0/nextjs-zustand-integration-guide-for-server-and-client-components-4ge9)
-- [My first Smart Contract](https://dev.to/astroleaf/my-first-smart-contract-3dda)
-- [Top 12 Tips from a Mid-level Developer](https://dev.to/abdullah-dev0/top-12-tips-from-a-mid-level-developer-2c93)
-- [Unleashing Creativity with React JS: A Guide to Unique and Interactive Web Experiences](https://dev.to/drruvari/unleashing-creativity-with-react-js-a-guide-to-unique-and-interactive-web-experiences-1n96)
+- [Why Python Is Easier &lpar;Loops edition&rpar;](https://dev.to/chaseteague/why-python-is-easier-loops-edition-8p3)
+- [Introduction to Zero Trust Security Models](https://dev.to/kartikmehta8/introduction-to-zero-trust-security-models-4g1n)
+- [Mastering Object Calisthenics in PHP 8: Crafting Cleaner Code](https://dev.to/razielrodrigues/mastering-object-calisthenics-in-php-8-crafting-cleaner-code-381l)
+- [Optimizing Performance in Next.js Using Dynamic Imports](https://dev.to/bolajibolajoko51/optimizing-performance-in-nextjs-using-dynamic-imports-5b3)
+- [Leitura comentada - Arquitetura Limpa - Princípios de Design - Capítulos 7](https://dev.to/zodh/leitura-comentada-arquitetura-limpa-principios-de-design-capitulos-7-1k77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
