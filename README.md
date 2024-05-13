@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering for Product market fit](https://dev.to/udayanmaurya/engineering-for-product-market-fit-47a8)
-- [Python in DevOps: Automation and Configuration Management](https://dev.to/techtobe101/python-in-devops-automation-and-configuration-management-2lnn)
-- [Getting Started with Python for DevOps](https://dev.to/techtobe101/getting-started-with-python-for-devops-3172)
-- [Mastering the Remote Work &amp; Travel Balance: My 8-Week Journey in Australia](https://dev.to/per-starke-642/mastering-the-remote-work-travel-balance-my-8-week-journey-in-australia-2p62)
-- [🔍 Unleashing the Potential of useBlocker Hook in React Router 🚀](https://dev.to/sarwarasik/unleashing-the-potential-of-useblocker-hook-in-react-router-27jg)
+- [How to Build a Chat App with Your Postgres Data using Agent Cloud](https://dev.to/agentcloud/how-to-build-a-chat-app-with-your-postgres-data-using-agent-cloud-33hk)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-7k7)
+- [FLaNK-AIM Weekly 13 May 2024](https://dev.to/tspannhw/flank-aim-weekly-13-may-2024-2ih2)
+- [Explore My Top 7 Favorite Spots in Sydney with Me](https://dev.to/per-starke-642/explore-my-top-7-favorite-spots-in-sydney-with-me-17g0)
+- [AI &amp; Kubernetes](https://dev.to/googlecloud/ai-kubernetes-1957)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
