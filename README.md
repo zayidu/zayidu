@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Python Is Easier &lpar;Loops edition&rpar;](https://dev.to/chaseteague/why-python-is-easier-loops-edition-8p3)
-- [Introduction to Zero Trust Security Models](https://dev.to/kartikmehta8/introduction-to-zero-trust-security-models-4g1n)
-- [Mastering Object Calisthenics in PHP 8: Crafting Cleaner Code](https://dev.to/razielrodrigues/mastering-object-calisthenics-in-php-8-crafting-cleaner-code-381l)
-- [Optimizing Performance in Next.js Using Dynamic Imports](https://dev.to/bolajibolajoko51/optimizing-performance-in-nextjs-using-dynamic-imports-5b3)
-- [Leitura comentada - Arquitetura Limpa - Princípios de Design - Capítulos 7](https://dev.to/zodh/leitura-comentada-arquitetura-limpa-principios-de-design-capitulos-7-1k77)
+- [React Hooks](https://dev.to/phantomthreads/react-hooks-gn4)
+- [Raspagem de dados de um site de notícias em pt-BR](https://dev.to/msc2020/raspagem-de-dados-de-um-site-de-noticias-em-pt-br-1f91)
+- [How to check for broken links using Selenium Webdriver on Node.js &lpar;automated testing&rpar;](https://dev.to/adamdsherman/automated-testing-how-to-check-for-broken-links-using-selenium-webdriver-on-nodejs-1akf)
+- [The Pros and Cons of DIY Paint Protection Film Installation](https://dev.to/pande00/the-pros-and-cons-of-diy-paint-protection-film-installation-46m)
+- [Hey!Sound: Upload and Vote for the Best Audios on the Internet](https://dev.to/fazzaamiarso/heysound-upload-and-vote-for-the-best-audios-on-the-internet-57me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
