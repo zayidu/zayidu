@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #197](https://dev.to/aws/aws-open-source-newsletter-197-2e2d)
-- [Python sets and tuples in pictures](https://dev.to/onumaku_bobby/python-sets-and-tuples-in-pictures-pke)
-- [Clean Architecture: Business rules first!](https://dev.to/nlapointe/clean-architecture-business-rules-first-4dlo)
-- [AI Orchestration Meetup [April 2024] - Recap](https://dev.to/orkes/ai-orchestration-meetup-april-2024-recap-inb)
-- [Introduction to Monitor Class in C#](https://dev.to/rasulhsn/introduction-to-monitor-class-in-c-422)
+- [Use Cases of XPath Python In Selenium With Examples](https://dev.to/lambdatest/use-cases-of-xpath-python-in-selenium-with-examples-lec)
+- [How to Model Cloud-Native Authorization](https://dev.to/permit_io/how-to-model-cloud-native-authorization-aek)
+- [Unveiling the Power of Hexagonal Architecture: A Paradigm Shift in Software Design](https://dev.to/zaiddoussama/unveiling-the-power-of-hexagonal-architecture-a-paradigm-shift-in-software-design-11m5)
+- [Craft a Document QA Assistant for Your Project in Just 5 Minutes!](https://dev.to/jianzs/craft-a-document-qa-assistant-for-your-project-in-just-5-minutes-40pc)
+- [Top 6 Software Documentation Tools to Watch in 2024](https://dev.to/allenz_1011/top-6-software-documentation-tools-to-watch-in-2024-4imp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
