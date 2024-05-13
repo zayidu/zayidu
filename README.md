@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating a custom AI copilot into a new](https://dev.to/olatunjiayodel9/integrating-a-custom-ai-copilot-into-a-new-3e37)
-- [Steps to solve Recursive problems](https://dev.to/ashchk/steps-to-solve-recursive-problems-o76)
-- [How AI Tools Are Making Software Creation More Accessible](https://dev.to/marufhossain/how-ai-tools-are-making-software-creation-more-accessible-3kha)
-- [Hosting a Static Website with CloudFront and AWS S3](https://dev.to/clouddiadem/hosting-a-static-website-with-cloudfront-and-aws-s3-g8c)
-- [How to Package Dependency for AWS Lambda with Docker](https://dev.to/lordamola/how-to-package-dependency-for-aws-lambda-with-docker-3mpn)
+- [A Brief History Of Serverless](https://dev.to/jasonsmith/a-brief-history-of-serverless-1db6)
+- [Leveraging AI in Video Editing: An Exploration of Cutting-Edge Tools for Developers](https://dev.to/matthewshort11/leveraging-ai-in-video-editing-an-exploration-of-cutting-edge-tools-for-developers-2n3b)
+- [Spotify Rick Roll](https://dev.to/wulfmann/spotify-rick-roll-8ec)
+- [The JS map&lpar;&rpar; method](https://dev.to/elidvenega/the-js-map-method-2a0d)
+- [Understanding Video Optimization](https://dev.to/msmith99994/understanding-video-optimization-3cmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
