@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Powerful Practices Every New Developer Should Adopt](https://dev.to/baransel/powerful-practices-every-new-developer-should-adopt-2j7d)
-- [How to Add Paid Features to Your SaaS Apps](https://dev.to/aws-builders/how-to-add-paid-features-to-your-saas-apps-1fjb)
-- [Terraform Registry Guide: Tips, Examples and Best Practices](https://dev.to/env0/terraform-registry-guide-tips-examples-and-best-practices-1idl)
-- [What Is a Computer Worm &lpar;Worm Virus&rpar;?](https://dev.to/clouddefenseai/what-is-a-computer-worm-worm-virus-3j2n)
-- [Gen AI &amp; Modern Data Strategy?](https://dev.to/sid16/gen-ai-modern-data-strategy-2mm0)
+- [Engineering for Product market fit](https://dev.to/udayanmaurya/engineering-for-product-market-fit-47a8)
+- [Python in DevOps: Automation and Configuration Management](https://dev.to/techtobe101/python-in-devops-automation-and-configuration-management-2lnn)
+- [Getting Started with Python for DevOps](https://dev.to/techtobe101/getting-started-with-python-for-devops-3172)
+- [Mastering the Remote Work &amp; Travel Balance: My 8-Week Journey in Australia](https://dev.to/per-starke-642/mastering-the-remote-work-travel-balance-my-8-week-journey-in-australia-2p62)
+- [🔍 Unleashing the Potential of useBlocker Hook in React Router 🚀](https://dev.to/sarwarasik/unleashing-the-potential-of-useblocker-hook-in-react-router-27jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
