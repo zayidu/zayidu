@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Start with features, not apps](https://dev.to/opensourcee/start-with-features-not-apps-20oc)
-- [Tell us about your first step in your coding journey✈](https://dev.to/masteing_the_code/tell-us-about-your-first-step-in-your-coding-journey-1c10)
-- [Passwort Generator](https://dev.to/bylickilabs/passwort-generator-4jbb)
-- [How to Persist User Info Using Redux Persist with TypeScript](https://dev.to/hossain45/how-to-persist-user-info-using-redux-persist-with-typescript-54g9)
-- [Spring Boot with Thymeleaf and Bootstrap](https://dev.to/tleipzig/spring-boot-with-thymeleaf-and-bootstrap-59ml)
+- [AWS open source newsletter, #197](https://dev.to/aws/aws-open-source-newsletter-197-2e2d)
+- [Python sets and tuples in pictures](https://dev.to/onumaku_bobby/python-sets-and-tuples-in-pictures-pke)
+- [Clean Architecture: Business rules first!](https://dev.to/nlapointe/clean-architecture-business-rules-first-4dlo)
+- [AI Orchestration Meetup [April 2024] - Recap](https://dev.to/orkes/ai-orchestration-meetup-april-2024-recap-inb)
+- [Introduction to Monitor Class in C#](https://dev.to/rasulhsn/introduction-to-monitor-class-in-c-422)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
