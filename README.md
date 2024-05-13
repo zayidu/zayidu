@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Low-Code/No-Code approach to Strapi Enablement](https://dev.to/strapi/a-low-codeno-code-approach-to-strapi-enablement-53g0)
-- [A Low-Code/No-Code approach to Strapi Enablement](https://dev.to/strapi/a-low-codeno-code-approach-to-strapi-enablement-2jk9)
-- [Staking Triple: Restaking de tokens de Restaking en Solidity &lpar;Con Ejemplos&rpar;](https://dev.to/turupawn/staking-triple-restaking-de-tokens-de-restaking-en-solidity-con-ejemplos-3229)
-- [Create and Deploy a Discord Bot for Free with Fly.io](https://dev.to/columk1/create-and-deploy-a-discord-bot-for-free-with-flyio-dp9)
-- [A Verdade Inconveniente sobre a Lógica de Programação - Por que Ela não Prepara os Alunos para a Orientação a Objetos](https://dev.to/terminalcoffee/a-verdade-inconveniente-sobre-a-logica-de-programacao-por-que-ela-nao-prepara-os-alunos-para-a-orientacao-a-objetos-3l28)
+- [Create a command line application with Rust](https://dev.to/damcosset/create-a-command-line-application-with-rust-45o6)
+- [WHOIS JSON APIs: Simplifying Domain Information](https://dev.to/ahmedmukhtar1133/whois-json-apis-simplifying-domain-information-4bno)
+- [Day 1 of Coding Bootcamp](https://dev.to/brittanykreyes/day-1-of-coding-bootcamp-2403)
+- [Discord CDN Proxy](https://dev.to/useapi/discord-cdn-proxy-211c)
+- [Master Image Asset Management](https://dev.to/msmith99994/master-image-asset-management-ll4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
