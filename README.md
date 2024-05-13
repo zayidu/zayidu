@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 VS Code Extensions for React Developers](https://dev.to/mirfan244/top-7-vs-code-extensions-for-react-developers-1npo)
-- [Introduction to Using Vuex for State Management in Vue.js 🚀🔄](https://dev.to/amatisse/introduction-to-using-vuex-for-state-management-in-vuejs-2io)
-- [Arrays and slices in Go](https://dev.to/charly3pins/arrays-and-slices-in-go-5cml)
-- [Fileman - SFTP File Manager](https://dev.to/cold_weather/fileman-sftp-file-manager-15p)
-- [&lpar;Part 6&rpar;Golang Framework Hands-on - KisFlow Stream Computing Framework-Configuration Import and Export](https://dev.to/aceld/part-6golang-framework-hands-on-kisflow-stream-computing-framework-configuration-import-and-export-47o1)
+- [Silicon Valley&#39;s Inevitable Collapse](https://dev.to/polterguy/silicon-valleys-inevitable-collapse-2702)
+- [Spellbinding String Manipulation: Wizardry with Power Automate](https://dev.to/balagmadhu/spellbinding-string-manipulation-wizardry-with-power-automate-3p90)
+- [The Effect Tax](https://dev.to/datner/the-effect-tax-3gn0)
+- [What is RocksDB &lpar;and its role in streaming&rpar;?](https://dev.to/mrkandreev/what-is-rocksdb-and-its-role-in-streaming-3bla)
+- [How to keep data when user was uninstall app on android device &lpar;Java&rpar;?](https://dev.to/oeurn/how-to-keep-data-when-user-was-uninstall-app-on-android-device-java-504c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
