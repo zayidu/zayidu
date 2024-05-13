@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Enjoy Comfortable Operation with a Lightweight Handheld Chainsaw](https://dev.to/cleopat00/enjoy-comfortable-operation-with-a-lightweight-handheld-chainsaw-1j2k)
+- [Creating custom VPC on AWS using OpenTofu](https://dev.to/vinod827/creating-custom-vpc-on-aws-using-opentofu-3760)
+- [SAP Basis snippets #5](https://dev.to/ashwinsharmap/sap-basis-snippets-5-41ca)
+- [Choosing Your Accessibility UI Testing Library](https://dev.to/steady5063/choosing-your-accessibility-ui-testing-library-1o09)
 - [Sorting and Searching in Python&lpar;looking for help&rpar;](https://dev.to/kumatso1/sorting-and-searching-in-pythonlooking-for-help-38lf)
-- [memegraph - search and explore memes](https://dev.to/seanvelasco/memegraph-search-and-explore-memes-533c)
-- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;06/05/2024 - 12/05/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-06052024-12052024-2hm2)
-- [How To Stay Fit Physically And Mentally And Keep Coding](https://dev.to/thekarlesi/how-to-stay-fit-physically-and-mentally-and-keep-coding-4h5e)
-- [A Guide to Full Text Search in Django Using SearchVector](https://dev.to/azayshrestha/a-guide-to-full-text-search-in-django-using-searchvector-p7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
