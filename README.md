@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Learning Styles: A Myth?&quot;](https://dev.to/thejoernal/learning-styles-a-myth-2gce)
-- [Deploying subdirectory projects to Heroku](https://dev.to/jetthoughts/deploying-subdirectory-projects-to-heroku-5cj3)
-- [Implement Advanced Chart Types like Heatmaps and Contour Plots](https://dev.to/tooljet/implement-advanced-chart-types-like-heatmaps-and-contour-plots-3h1f)
-- [How paranoid is it to not use facial recognition on an Iphone?](https://dev.to/luxandcloud/how-paranoid-is-it-to-not-use-facial-recognition-on-an-iphone-12ai)
-- [PHP[TEK] 2024: Pioneering the Future of Web Development in Chicago](https://dev.to/gitguardian/phptek-2024-pioneering-the-future-of-web-development-in-chicago-3d7d)
+- [I pay for 78 products to run my 24 projects.](https://dev.to/johnrushx/i-pay-for-78-products-to-run-my-24-projects-2cok)
+- [AI-Powered Code Documentation and Analysis](https://dev.to/the_greatbonnie/ai-powered-code-documentation-and-analysis-1oo8)
+- [🚀 The easiest way tech influencers and content writers can make money 💰](https://dev.to/github20k/the-easiest-way-tech-influencers-and-content-writers-can-make-money-4n90)
+- [What are the most common misconceptions about remote work?](https://dev.to/jetthoughts/what-are-the-most-common-misconceptions-about-remote-work-4l15)
+- [Install latest gdal in debian](https://dev.to/krschap/install-latest-gdal-in-debian-69g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
