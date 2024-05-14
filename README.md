@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using CSS Custom Properties with Fallbacks for Efficiency](https://dev.to/dainemawer/using-css-custom-properties-with-fallbacks-for-efficiency-3b8p)
-- [Open Source Hardware](https://dev.to/opensourceadvocate/open-source-hardware-3279)
-- [Why isn&#39;t the enrollment API working in my code?](https://dev.to/kabii/why-isnt-the-enrollment-api-working-in-my-code-45hl)
-- [JWT Explained](https://dev.to/manav-1011/jwt-explained-19o6)
-- [Migration from Twilio to Vonage Video: Guides for Web, iOS, and Android](https://dev.to/vonagedev/migration-from-twilio-to-vonage-video-guides-for-web-ios-and-android-4524)
+- [&quot;Learning Styles: A Myth?&quot;](https://dev.to/thejoernal/learning-styles-a-myth-2gce)
+- [Deploying subdirectory projects to Heroku](https://dev.to/jetthoughts/deploying-subdirectory-projects-to-heroku-5cj3)
+- [Implement Advanced Chart Types like Heatmaps and Contour Plots](https://dev.to/tooljet/implement-advanced-chart-types-like-heatmaps-and-contour-plots-3h1f)
+- [How paranoid is it to not use facial recognition on an Iphone?](https://dev.to/luxandcloud/how-paranoid-is-it-to-not-use-facial-recognition-on-an-iphone-12ai)
+- [PHP[TEK] 2024: Pioneering the Future of Web Development in Chicago](https://dev.to/gitguardian/phptek-2024-pioneering-the-future-of-web-development-in-chicago-3d7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
