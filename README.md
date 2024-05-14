@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript Functions; The Beginner&#39;s Guide.](https://dev.to/mlasunilag/understanding-javascript-functions-the-beginners-guide-2f0a)
-- [Populating a table in PostgreSQL with one million records of random data.](https://dev.to/dm8ry/populating-a-table-in-postgresql-with-one-million-records-of-random-data-l9n)
-- [Personal Home Page Template](https://dev.to/tetianazekova/personal-home-page-template-2dbe)
-- [The main methods of joining tables in PostgreSQL.](https://dev.to/dm8ry/the-main-methods-of-joining-tables-in-postgresql-3d1h)
-- [The ARRAY_TO_STRING&lpar;&rpar; function in PostgreSQL](https://dev.to/dm8ry/the-arraytostring-function-in-postgresql-bf8)
+- [Project - ME.](https://dev.to/evelyn_ovi/project-me-4079)
+- [XML, YAML, JSON; Differences and Similarities](https://dev.to/anwar_sadat/ml-yaml-json-differences-and-similarities-3n17)
+- [Tech Note: Type inference takes place when initializing variables and members](https://dev.to/kanta1207/tech-note-type-inference-takes-place-when-initializing-variables-and-members-n4m)
+- [The Clean Code book and the clean code paradigms](https://dev.to/prox_sea/the-clean-code-book-and-the-clean-code-paradigms-g6p)
+- [The Skill of Finding Bugs and Their Root Cause in Software Development](https://dev.to/hassaan68/the-skill-of-finding-bugs-and-their-root-cause-in-software-development-3he9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
