@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [String Manipulation Techniques](https://dev.to/ivstudio/string-manipulation-techniques-2ecn)
-- [Blender Animations and THREE.js - MEOW!](https://dev.to/annavi11arrea1/blender-animations-and-threejs-meow-46i1)
-- [AI empowered micro-services: Future application development driven by Spring Boot and Machine Learning](https://dev.to/shingaiz/ai-empowered-micro-services-future-application-development-driven-by-spring-boot-and-machine-learning-2a9b)
-- [I&#39;m BEIDI DINA SAMUEL, Cybersecurity and Open Source Enthusiast](https://dev.to/samglish/im-beidi-dina-samuel-cybersecurity-and-open-source-enthusiast-4a3h)
-- [Best ID verification solution provider – Faceplugin](https://dev.to/faceplugin/best-id-verification-solution-provider-faceplugin-1pb)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;06/05/2024 - 12/05/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-06052024-12052024-1jhn)
+- [GPT-4o: Learn how to Implement a RAG on the new model, step-by-step!](https://dev.to/vmesel/gpt-4o-learn-how-to-implement-a-rag-on-the-new-model-step-by-step-377d)
+- [Read data from channel Golang](https://dev.to/santoshanand/read-data-from-channel-golang-5c3k)
+- [prueba de algoritmos](https://dev.to/imnotleo/prueba-de-algoritmos-2gn5)
+- [Basic setup for projects with Golang](https://dev.to/ronnymedina/basic-setup-for-projects-with-golang-ocg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
