@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Darling, I converted our perfectly fine SPA application into SSR: Part 2](https://dev.to/findlabs/darling-i-converted-our-perfectly-fine-spa-application-into-ssr-part-2-185n)
-- [OpenAI Unleashes GPT-4o!](https://dev.to/be3tle/openai-unleashes-gpt-4o-129l)
-- [RabbitMQ on Kubernetes](https://dev.to/glasskube/rabbitmq-on-kubernetes-1pi2)
-- [Your 2024 Guide to Becoming a Freelance Digital Marketer](https://dev.to/digital_strategeist/your-2024-guide-to-becoming-a-freelance-digital-marketer-1l56)
-- [How to validate Node + Express requests with Joi middleware](https://dev.to/mattiamalonni/how-to-validate-node-express-requests-with-joi-middleware-b2c)
+- [Mastering Callbacks in JavaScript 💻🔥](https://dev.to/engcj/mastering-callbacks-in-javascript-2jf1)
+- [Building Your First Browser Game with Three.js and React: Part 3 - Adding Interactivity and Physics](https://dev.to/romaixn/building-your-first-browser-game-with-threejs-and-react-part-3-adding-interactivity-and-physics-3np0)
+- [Adhi Yoga: Unlocking the Power of Cosmic Influence](https://dev.to/mjvedicmeet/adhi-yoga-unlocking-the-power-of-cosmic-influence-217g)
+- [Advance Function Call With Open AI](https://dev.to/rswijesena/advance-function-call-with-open-ai-45na)
+- [Top 5 Innovations in ChatGPT 4o: A Conversation with the Future](https://dev.to/shishsingh/top-5-innovations-in-chatgpt-4o-a-conversation-with-the-future-1j00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
