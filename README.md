@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Compiled queries under Entity Framework as a performance enhancement](https://dev.to/ben-witt/compiled-queries-under-entity-framework-as-a-performance-enhancement-4b3h)
-- [Automating your home with computer vision using any camera](https://dev.to/miguelaeh/automating-your-home-with-computer-vision-using-any-camera-59f)
-- [SMTPGet Review: Analyzing Client Reviews, Ratings, and User Experience](https://dev.to/otismilburnn/smtpget-review-analyzing-client-reviews-ratings-and-user-experience-32k1)
-- [Oracle SQL vs MySQL: A Comprehensive Comparison](https://dev.to/nikhilxd/oracle-sql-vs-mysql-a-comprehensive-comparison-1h9j)
-- [Manual Testing](https://dev.to/kazhindhi/manual-testing-1njf)
+- [Custom Confirm Dialog For Turbo and Rails](https://dev.to/railsdesigner/custom-confirm-dialog-for-turbo-and-rails-3n96)
+- [Aha Moments I Had When Trying Next.js 14 for the First Time &lpar;as a React Dev&rpar; 🚀🤯✨](https://dev.to/joannaotmianowska/aha-moments-i-had-when-trying-nextjs-14-for-the-first-time-as-a-react-dev-1mkk)
+- [AI APIs](https://dev.to/nikoldimit/ai-apis-c4h)
+- [The Power of Reduce: Optimizing JavaScript Code for Speed and Efficiency](https://dev.to/red-dial/the-power-of-reduce-optimizing-javascript-code-for-speed-and-efficiency-3jba)
+- [How to start freelancing on Fiverr as a web designer at the age of 14?](https://dev.to/codevsom/how-to-start-freelancing-on-fiverr-as-a-web-designer-at-the-age-of-14-25k1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
