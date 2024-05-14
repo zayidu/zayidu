@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Callbacks in JavaScript 💻🔥](https://dev.to/engcj/mastering-callbacks-in-javascript-2jf1)
-- [Building Your First Browser Game with Three.js and React: Part 3 - Adding Interactivity and Physics](https://dev.to/romaixn/building-your-first-browser-game-with-threejs-and-react-part-3-adding-interactivity-and-physics-3np0)
-- [Adhi Yoga: Unlocking the Power of Cosmic Influence](https://dev.to/mjvedicmeet/adhi-yoga-unlocking-the-power-of-cosmic-influence-217g)
-- [Advance Function Call With Open AI](https://dev.to/rswijesena/advance-function-call-with-open-ai-45na)
-- [Top 5 Innovations in ChatGPT 4o: A Conversation with the Future](https://dev.to/shishsingh/top-5-innovations-in-chatgpt-4o-a-conversation-with-the-future-1j00)
+- [Using CSS Custom Properties with Fallbacks for Efficiency](https://dev.to/dainemawer/using-css-custom-properties-with-fallbacks-for-efficiency-3b8p)
+- [Open Source Hardware](https://dev.to/opensourceadvocate/open-source-hardware-3279)
+- [Why isn&#39;t the enrollment API working in my code?](https://dev.to/kabii/why-isnt-the-enrollment-api-working-in-my-code-45hl)
+- [JWT Explained](https://dev.to/manav-1011/jwt-explained-19o6)
+- [Migration from Twilio to Vonage Video: Guides for Web, iOS, and Android](https://dev.to/vonagedev/migration-from-twilio-to-vonage-video-guides-for-web-ios-and-android-4524)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
