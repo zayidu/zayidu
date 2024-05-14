@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I pay for 78 products to run my 24 projects.](https://dev.to/johnrushx/i-pay-for-78-products-to-run-my-24-projects-2cok)
-- [AI-Powered Code Documentation and Analysis](https://dev.to/the_greatbonnie/ai-powered-code-documentation-and-analysis-1oo8)
-- [🚀 The easiest way tech influencers and content writers can make money 💰](https://dev.to/github20k/the-easiest-way-tech-influencers-and-content-writers-can-make-money-4n90)
-- [What are the most common misconceptions about remote work?](https://dev.to/jetthoughts/what-are-the-most-common-misconceptions-about-remote-work-4l15)
-- [Install latest gdal in debian](https://dev.to/krschap/install-latest-gdal-in-debian-69g)
+- [Deploying a Next.js App on AWS EC2 Ubuntu Server](https://dev.to/sh20raj/deploying-a-nextjs-app-on-aws-ec2-ubuntu-server-5ak1)
+- [Dagger.io : La nouvelle ère du CI/CD dans le monde DevOps](https://dev.to/onepoint/daggerio-la-nouvelle-ere-du-cicd-dans-le-monde-devops-24f0)
+- [JavaScript Testing Basics](https://dev.to/sammyabukmeil/javascript-testing-basics-1chk)
+- [Swift 101: Understanding Types, Variables, and Constants](https://dev.to/silviaespanagil/swift-101-understanding-types-variables-and-constants-l9h)
+- [10 React Code Snippets that Every Developer Needs](https://dev.to/get_pieces/10-react-code-snippets-that-every-developer-needs-443d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
