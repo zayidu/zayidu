@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Guidelines for Structuring code snippets in technical writing for GenAI-based agents](https://dev.to/ragavi_document360/guidelines-for-structuring-code-snippets-in-technical-writing-for-genai-based-agents-4ao1)
-- [Next.js App Router](https://dev.to/shieldstring/nextjs-app-router-393i)
-- [Understanding Thymeleaf: A Powerful Java Template Engine](https://dev.to/nikhilxd/understanding-thymeleaf-a-powerful-java-template-engine-3bnh)
-- [Simplificando a Codificação HTML: Atalhos para uma Criação Mais Eficiente](https://dev.to/leehxd/simplificando-a-codificacao-html-atalhos-para-uma-criacao-mais-eficiente-3noi)
-- [Describe the difference between `&lt;script&gt;`, `&lt;script async&gt;` and `&lt;script defer&gt;` for Optimal Website Performance](https://dev.to/anjankarmakar/describe-the-difference-between-and-for-optimal-website-performance-1eel)
+- [Achieving High Availability &amp; Scalability with a K8s API Gateway](https://dev.to/getambassador2024/achieving-high-availability-scalability-with-a-k8s-api-gateway-4gg2)
+- [550 5.7.1 Relaying denied](https://dev.to/codarbind/550-571-relaying-denied-3167)
+- [How We Saved 10s of Thousands of Dollars Deploying Low Cost Open Source AI Technologies At Scale with Kubernetes](https://dev.to/opensauced/how-we-saved-10s-of-thousands-of-dollars-deploying-low-cost-open-source-ai-technologies-at-scale-with-kubernetes-57j8)
+- [A Developer&#39;s Guide to Deploying Django Application Efficiently on Ubuntu with Nginx](https://dev.to/azayshrestha/a-developers-guide-to-deploying-django-application-efficiently-on-ubuntu-with-nginx-mn7)
+- [More foreign-key joins](https://dev.to/esproc_spl/more-foreign-key-joins-7bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
