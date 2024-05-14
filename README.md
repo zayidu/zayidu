@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;06/05/2024 - 12/05/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-06052024-12052024-1jhn)
-- [GPT-4o: Learn how to Implement a RAG on the new model, step-by-step!](https://dev.to/vmesel/gpt-4o-learn-how-to-implement-a-rag-on-the-new-model-step-by-step-377d)
-- [Read data from channel Golang](https://dev.to/santoshanand/read-data-from-channel-golang-5c3k)
-- [prueba de algoritmos](https://dev.to/imnotleo/prueba-de-algoritmos-2gn5)
-- [Basic setup for projects with Golang](https://dev.to/ronnymedina/basic-setup-for-projects-with-golang-ocg)
+- [Describe the difference between `&lt;script&gt;`, `&lt;script async&gt;` and `&lt;script defer&gt;` for Optimal Website Performance](https://dev.to/anjankarmakar/describe-the-difference-between-and-for-optimal-website-performance-1eel)
+- [Describe the difference between `&lt;script&gt;`, `&lt;script async&gt;` and `&lt;script defer&gt;` for Optimal Website Performance](https://dev.to/anjankarmakar/describe-the-difference-between-and-for-optimal-website-performance-a7l)
+- [Comparing token-based authentication and session-based authentication](https://dev.to/logto/comparing-token-based-authentication-and-session-based-authentication-3dlj)
+- [Exploring the Conversational AI Landscape: A Tour of Leading Platforms](https://dev.to/himanshudevgupta/exploring-the-conversational-ai-landscape-a-tour-of-leading-platforms-i9p)
+- [I created KianKit so you don&#39;t have too](https://dev.to/cowboycodr/i-created-kiankit-so-you-dont-have-too-o29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
