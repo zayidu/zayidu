@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Confirm Dialog For Turbo and Rails](https://dev.to/railsdesigner/custom-confirm-dialog-for-turbo-and-rails-3n96)
-- [Aha Moments I Had When Trying Next.js 14 for the First Time &lpar;as a React Dev&rpar; 🚀🤯✨](https://dev.to/joannaotmianowska/aha-moments-i-had-when-trying-nextjs-14-for-the-first-time-as-a-react-dev-1mkk)
-- [AI APIs](https://dev.to/nikoldimit/ai-apis-c4h)
-- [The Power of Reduce: Optimizing JavaScript Code for Speed and Efficiency](https://dev.to/red-dial/the-power-of-reduce-optimizing-javascript-code-for-speed-and-efficiency-3jba)
-- [How to start freelancing on Fiverr as a web designer at the age of 14?](https://dev.to/codevsom/how-to-start-freelancing-on-fiverr-as-a-web-designer-at-the-age-of-14-25k1)
+- [Darling, I converted our perfectly fine SPA application into SSR: Part 2](https://dev.to/findlabs/darling-i-converted-our-perfectly-fine-spa-application-into-ssr-part-2-185n)
+- [OpenAI Unleashes GPT-4o!](https://dev.to/be3tle/openai-unleashes-gpt-4o-129l)
+- [RabbitMQ on Kubernetes](https://dev.to/glasskube/rabbitmq-on-kubernetes-1pi2)
+- [Your 2024 Guide to Becoming a Freelance Digital Marketer](https://dev.to/digital_strategeist/your-2024-guide-to-becoming-a-freelance-digital-marketer-1l56)
+- [How to validate Node + Express requests with Joi middleware](https://dev.to/mattiamalonni/how-to-validate-node-express-requests-with-joi-middleware-b2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
