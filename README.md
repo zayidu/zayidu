@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Build Paradise UI: A React UI Component Library](https://dev.to/syakirurahman/how-i-build-paradise-ui-a-react-ui-component-library-4eff)
-- [How to Easily Implement easily RAG &lpar;Retrieval Augmented Generation&rpar; with Bedrock!](https://dev.to/faye_ellis/how-to-easily-implement-easily-rag-retrieval-augmented-generation-with-bedrock-1mo2)
-- [JavaScript30 - 1 JS Drumkit](https://dev.to/virtualsobriety/javascript30-1-js-drumkit-2hpn)
-- [Containerize a Java Spring Boot app](https://dev.to/tevindeale/containerize-a-java-spring-boot-app-1op3)
-- [Automating Deployments: How to Use CI/CD Pipelines with ECS and EC2](https://dev.to/marufhossain/automating-deployments-how-to-use-cicd-pipelines-with-ecs-and-ec2-p2m)
+- [Mentor Matching — May 2024 🤝](https://dev.to/devteam/mentor-matching-may-2024-115g)
+- [The State of .NET Tooling 2024](https://dev.to/nickytonline/the-state-of-net-tooling-2024-169g)
+- [Github Actions: how to deploy application to AWS ECS and migrate database with Flyway](https://dev.to/gasparini16/github-actions-how-to-deploy-application-to-aws-ecs-and-migrate-database-with-flyway-14e3)
+- [Simulate the codepen editor in html/css/js](https://dev.to/tidycoder/simulate-the-codepen-editor-in-htmlcssjs-28jh)
+- [Javascript Ecosystem, How Trash It Actually Is?](https://dev.to/sotergreco/javascript-ecosystem-how-trash-it-actually-is-4ei0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
