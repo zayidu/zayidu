@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Resource Group on Azure](https://dev.to/blessingoseyenum/how-to-create-resource-group-on-azure-9k8)
-- [How to use NextAuth useSession on Storybook 8](https://dev.to/heymarkkop/how-to-use-nextauth-usesession-on-storybook-8-3eon)
-- [Four Things To Take Away From RailsConf 2024](https://dev.to/kevin_j_m/four-things-to-take-away-from-railsconf-2024-45o9)
-- [Set up Wifi from terminal](https://dev.to/shreyashah1903/set-up-wifi-from-terminal-5c5m)
-- [10 consejos para tu primera entrevista de trabajo en tecnología](https://dev.to/rodrigo2392/10-consejos-para-tu-primera-entrevista-de-trabajo-en-tecnologia-2f15)
+- [Punishing myself](https://dev.to/jjuarez5/punishing-myself-2kg3)
+- [Meteor 2.16 and Oplog Tailing Optimization](https://dev.to/meteor/meteor-216-and-oplog-tailing-optimization-ckk)
+- [Tips from Open source: Use shadow DOM to avoid potential CSS breaks](https://dev.to/ramunarasinga/tips-from-open-source-use-shadow-dom-to-avoid-potential-css-breaks-41dd)
+- [Developer diary #9. Google I/O](https://dev.to/kiolk/developer-diary-9-google-io-2om7)
+- [5 Essential Features for In-Game Chat Players Will Love](https://dev.to/pubnub/5-essential-features-for-in-game-chat-players-will-love-3k73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
