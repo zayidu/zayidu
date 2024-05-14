@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Have You Settled for &quot;Good Enough&quot; in Your Career?](https://dev.to/devteam/have-you-settled-for-good-enough-in-your-career-20ff)
-- [Use Anthropic Claude 3 models to build generative AI applications with Go](https://dev.to/aws/use-anthropic-claude-3-models-to-build-generative-ai-applications-with-go-11dd)
-- [The Power of an Influential Personality in Office Leadership](https://dev.to/techstuff/the-power-of-an-influential-personality-in-office-leadership-p4i)
-- [Exploring ASTs in Emacs with Tree-sitter](https://dev.to/rajasegar/exploring-asts-in-emacs-with-tree-sitter-fg1)
-- [Data science plays an increasingly crucial role in enhancing operations](https://dev.to/olatunjiayodel9/data-science-plays-an-increasingly-crucial-role-in-enhancing-operations-c0e)
+- [Compiled queries under Entity Framework as a performance enhancement](https://dev.to/ben-witt/compiled-queries-under-entity-framework-as-a-performance-enhancement-4b3h)
+- [Automating your home with computer vision using any camera](https://dev.to/miguelaeh/automating-your-home-with-computer-vision-using-any-camera-59f)
+- [SMTPGet Review: Analyzing Client Reviews, Ratings, and User Experience](https://dev.to/otismilburnn/smtpget-review-analyzing-client-reviews-ratings-and-user-experience-32k1)
+- [Oracle SQL vs MySQL: A Comprehensive Comparison](https://dev.to/nikhilxd/oracle-sql-vs-mysql-a-comprehensive-comparison-1h9j)
+- [Manual Testing](https://dev.to/kazhindhi/manual-testing-1njf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
