@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [String Manipulation Techniques](https://dev.to/ivstudio/string-manipulation-techniques-2ecn)
+- [Blender Animations and THREE.js - MEOW!](https://dev.to/annavi11arrea1/blender-animations-and-threejs-meow-46i1)
+- [AI empowered micro-services: Future application development driven by Spring Boot and Machine Learning](https://dev.to/shingaiz/ai-empowered-micro-services-future-application-development-driven-by-spring-boot-and-machine-learning-2a9b)
 - [I&#39;m BEIDI DINA SAMUEL, Cybersecurity and Open Source Enthusiast](https://dev.to/samglish/im-beidi-dina-samuel-cybersecurity-and-open-source-enthusiast-4a3h)
 - [Best ID verification solution provider – Faceplugin](https://dev.to/faceplugin/best-id-verification-solution-provider-faceplugin-1pb)
-- [Build with AI Maroua : Overview of Generative AI](https://dev.to/samglish/build-with-ai-maroua-overview-of-generative-ai-30fd)
-- [Firebase Functions Express Typescript Project Guide Part 1](https://dev.to/cassina/firebase-functions-express-typescript-project-guide-3ji4)
-- [🎨 CI/CD Workflow with AWS and Docker](https://dev.to/take0420/cicd-workflow-with-aws-and-docker-38i3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
