@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Next.js App on AWS EC2 Ubuntu Server](https://dev.to/sh20raj/deploying-a-nextjs-app-on-aws-ec2-ubuntu-server-5ak1)
-- [Dagger.io : La nouvelle ère du CI/CD dans le monde DevOps](https://dev.to/onepoint/daggerio-la-nouvelle-ere-du-cicd-dans-le-monde-devops-24f0)
-- [JavaScript Testing Basics](https://dev.to/sammyabukmeil/javascript-testing-basics-1chk)
-- [Swift 101: Understanding Types, Variables, and Constants](https://dev.to/silviaespanagil/swift-101-understanding-types-variables-and-constants-l9h)
-- [10 React Code Snippets that Every Developer Needs](https://dev.to/get_pieces/10-react-code-snippets-that-every-developer-needs-443d)
+- [Why Apache Kafka is so fast?](https://dev.to/somadevtoo/why-apache-kafka-is-so-fast-5d9c)
+- [Massive OpenAI Spring Update GPT-4o - Amazing New Features - All 22 Videos - RTX Super Res Upscaled](https://dev.to/furkangozukara/massive-openai-spring-update-gpt-4o-amazing-new-features-all-22-videos-rtx-super-res-upscaled-b5p)
+- [How to Set Up SSH Key Authentication with GitHub on Windows](https://dev.to/oxayomide_54/how-to-set-up-ssh-key-authentication-with-github-on-windows-j23)
+- [Top Community for Boomi Developers](https://dev.to/eyer-ai/top-community-for-boomi-developers-45pk)
+- [orders chris](https://dev.to/imnotleo/orders-chris-11a9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
