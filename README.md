@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Syncing AWS Secrets Manager across accounts](https://dev.to/siddhantkcode/syncing-aws-secrets-manager-across-accounts-247h)
-- [How to Send Emails with Mailgun in NestJS](https://dev.to/stormsidali2001/how-to-send-emails-with-mailgun-in-nestjs-j97)
-- [GPT-4 Literally Doubles Your Learning Speed ... &lpar;According to GPT-4&rpar;](https://dev.to/andrewrgarcia/gpt-4-literally-doubles-your-learning-speed-according-to-gpt-4-3hfi)
-- [Implement a Simple Calculator Android App by Reusing Logics in Rust via JavaScript-WASM Interfacing](https://dev.to/trevorwslee/implement-a-simple-calculator-android-app-by-reusing-logics-in-rust-via-javascript-wasm-interfacing-3915)
-- [Blog-Reading Chatbot with GPT-4o](https://dev.to/qdrant/blog-reading-chatbot-with-gpt-4o-2kha)
+- [How I Build Paradise UI: A React UI Component Library](https://dev.to/syakirurahman/how-i-build-paradise-ui-a-react-ui-component-library-4eff)
+- [How to Easily Implement easily RAG &lpar;Retrieval Augmented Generation&rpar; with Bedrock!](https://dev.to/faye_ellis/how-to-easily-implement-easily-rag-retrieval-augmented-generation-with-bedrock-1mo2)
+- [JavaScript30 - 1 JS Drumkit](https://dev.to/virtualsobriety/javascript30-1-js-drumkit-2hpn)
+- [Containerize a Java Spring Boot app](https://dev.to/tevindeale/containerize-a-java-spring-boot-app-1op3)
+- [Automating Deployments: How to Use CI/CD Pipelines with ECS and EC2](https://dev.to/marufhossain/automating-deployments-how-to-use-cicd-pipelines-with-ecs-and-ec2-p2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
