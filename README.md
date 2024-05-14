@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Project - ME.](https://dev.to/evelyn_ovi/project-me-4079)
-- [XML, YAML, JSON; Differences and Similarities](https://dev.to/anwar_sadat/ml-yaml-json-differences-and-similarities-3n17)
-- [Tech Note: Type inference takes place when initializing variables and members](https://dev.to/kanta1207/tech-note-type-inference-takes-place-when-initializing-variables-and-members-n4m)
-- [The Clean Code book and the clean code paradigms](https://dev.to/prox_sea/the-clean-code-book-and-the-clean-code-paradigms-g6p)
-- [The Skill of Finding Bugs and Their Root Cause in Software Development](https://dev.to/hassaan68/the-skill-of-finding-bugs-and-their-root-cause-in-software-development-3he9)
+- [How to Create Resource Group on Azure](https://dev.to/blessingoseyenum/how-to-create-resource-group-on-azure-9k8)
+- [How to use NextAuth useSession on Storybook 8](https://dev.to/heymarkkop/how-to-use-nextauth-usesession-on-storybook-8-3eon)
+- [Four Things To Take Away From RailsConf 2024](https://dev.to/kevin_j_m/four-things-to-take-away-from-railsconf-2024-45o9)
+- [Set up Wifi from terminal](https://dev.to/shreyashah1903/set-up-wifi-from-terminal-5c5m)
+- [10 consejos para tu primera entrevista de trabajo en tecnología](https://dev.to/rodrigo2392/10-consejos-para-tu-primera-entrevista-de-trabajo-en-tecnologia-2f15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
