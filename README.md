@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mentor Matching — May 2024 🤝](https://dev.to/devteam/mentor-matching-may-2024-115g)
-- [The State of .NET Tooling 2024](https://dev.to/nickytonline/the-state-of-net-tooling-2024-169g)
-- [Github Actions: how to deploy application to AWS ECS and migrate database with Flyway](https://dev.to/gasparini16/github-actions-how-to-deploy-application-to-aws-ecs-and-migrate-database-with-flyway-14e3)
-- [Simulate the codepen editor in html/css/js](https://dev.to/tidycoder/simulate-the-codepen-editor-in-htmlcssjs-28jh)
-- [Javascript Ecosystem, How Trash It Actually Is?](https://dev.to/sotergreco/javascript-ecosystem-how-trash-it-actually-is-4ei0)
+- [Understanding JavaScript Functions; The Beginner&#39;s Guide.](https://dev.to/mlasunilag/understanding-javascript-functions-the-beginners-guide-2f0a)
+- [Populating a table in PostgreSQL with one million records of random data.](https://dev.to/dm8ry/populating-a-table-in-postgresql-with-one-million-records-of-random-data-l9n)
+- [Personal Home Page Template](https://dev.to/tetianazekova/personal-home-page-template-2dbe)
+- [The main methods of joining tables in PostgreSQL.](https://dev.to/dm8ry/the-main-methods-of-joining-tables-in-postgresql-3d1h)
+- [The ARRAY_TO_STRING&lpar;&rpar; function in PostgreSQL](https://dev.to/dm8ry/the-arraytostring-function-in-postgresql-bf8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
