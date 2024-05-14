@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Achieving High Availability &amp; Scalability with a K8s API Gateway](https://dev.to/getambassador2024/achieving-high-availability-scalability-with-a-k8s-api-gateway-4gg2)
-- [550 5.7.1 Relaying denied](https://dev.to/codarbind/550-571-relaying-denied-3167)
-- [How We Saved 10s of Thousands of Dollars Deploying Low Cost Open Source AI Technologies At Scale with Kubernetes](https://dev.to/opensauced/how-we-saved-10s-of-thousands-of-dollars-deploying-low-cost-open-source-ai-technologies-at-scale-with-kubernetes-57j8)
-- [A Developer&#39;s Guide to Deploying Django Application Efficiently on Ubuntu with Nginx](https://dev.to/azayshrestha/a-developers-guide-to-deploying-django-application-efficiently-on-ubuntu-with-nginx-mn7)
-- [More foreign-key joins](https://dev.to/esproc_spl/more-foreign-key-joins-7bn)
+- [Have You Settled for &quot;Good Enough&quot; in Your Career?](https://dev.to/devteam/have-you-settled-for-good-enough-in-your-career-20ff)
+- [Use Anthropic Claude 3 models to build generative AI applications with Go](https://dev.to/aws/use-anthropic-claude-3-models-to-build-generative-ai-applications-with-go-11dd)
+- [The Power of an Influential Personality in Office Leadership](https://dev.to/techstuff/the-power-of-an-influential-personality-in-office-leadership-p4i)
+- [Exploring ASTs in Emacs with Tree-sitter](https://dev.to/rajasegar/exploring-asts-in-emacs-with-tree-sitter-fg1)
+- [Data science plays an increasingly crucial role in enhancing operations](https://dev.to/olatunjiayodel9/data-science-plays-an-increasingly-crucial-role-in-enhancing-operations-c0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
