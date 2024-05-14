@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Apache Kafka is so fast?](https://dev.to/somadevtoo/why-apache-kafka-is-so-fast-5d9c)
-- [Massive OpenAI Spring Update GPT-4o - Amazing New Features - All 22 Videos - RTX Super Res Upscaled](https://dev.to/furkangozukara/massive-openai-spring-update-gpt-4o-amazing-new-features-all-22-videos-rtx-super-res-upscaled-b5p)
-- [How to Set Up SSH Key Authentication with GitHub on Windows](https://dev.to/oxayomide_54/how-to-set-up-ssh-key-authentication-with-github-on-windows-j23)
-- [Top Community for Boomi Developers](https://dev.to/eyer-ai/top-community-for-boomi-developers-45pk)
-- [orders chris](https://dev.to/imnotleo/orders-chris-11a9)
+- [Syncing AWS Secrets Manager across accounts](https://dev.to/siddhantkcode/syncing-aws-secrets-manager-across-accounts-247h)
+- [How to Send Emails with Mailgun in NestJS](https://dev.to/stormsidali2001/how-to-send-emails-with-mailgun-in-nestjs-j97)
+- [GPT-4 Literally Doubles Your Learning Speed ... &lpar;According to GPT-4&rpar;](https://dev.to/andrewrgarcia/gpt-4-literally-doubles-your-learning-speed-according-to-gpt-4-3hfi)
+- [Implement a Simple Calculator Android App by Reusing Logics in Rust via JavaScript-WASM Interfacing](https://dev.to/trevorwslee/implement-a-simple-calculator-android-app-by-reusing-logics-in-rust-via-javascript-wasm-interfacing-3915)
+- [Blog-Reading Chatbot with GPT-4o](https://dev.to/qdrant/blog-reading-chatbot-with-gpt-4o-2kha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
