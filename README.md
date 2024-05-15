@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Middlewares in Next JS](https://dev.to/jay818/middlewares-in-next-js-emb)
-- [Meet GPT-4o: Your Multimodal Friend for Seamless Interaction!!](https://dev.to/respect17/meet-gpt-4o-your-multimodal-friend-for-seamless-interaction-2c02)
-- [Doing Agile vs Being Agile: A Comprehensive Guide](https://dev.to/saumya27/doing-agile-vs-being-agile-a-comprehensive-guide-32ni)
-- [Building agency website with headless BCMS and NextJs](https://dev.to/momciloo/building-agency-website-with-headless-bcms-and-nextjs-4a8e)
-- [I Quit Searching For Jobs!!!](https://dev.to/scofieldidehen/i-quit-searching-for-jobs-2jai)
+- [Bridging Stellar with Allbridge Core on Soroswap: New Possibilities Unveiled](https://dev.to/soroswap/bridging-stellar-with-allbridge-core-on-soroswap-new-possibilities-unveiled-1j78)
+- [Unity 게임에 친구 목록을 추가하는 방법](https://dev.to/pubnub-ko/unity-geime-cingu-mogrogeul-cugahaneun-bangbeob-1a4o)
+- [Jak dodać listę znajomych do gry Unity?](https://dev.to/pubnub-pl/jak-dodac-liste-znajomych-do-gry-unity-27p7)
+- [DevOps vs SRE vs Platform Engineering](https://dev.to/samuel_tobaoyetola_c2ad5/devops-vs-sre-vs-platform-engineering-cpk)
+- [Enhancing NestJS Development: Improving Module Management Efficiency](https://dev.to/amirfakour/enhancing-nestjs-development-improving-module-management-efficiency-5el0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
