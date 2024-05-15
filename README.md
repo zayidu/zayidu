@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Real Estate Software Development: A Guide for Companies](https://dev.to/botikul/streamlining-real-estate-software-development-a-guide-for-companies-15de)
-- [20+ DOM Projects: Your Frontend Breakthrough!](https://dev.to/jisan/20-dom-projects-your-frontend-breakthrough-1h8a)
-- [Free Image Hosting](https://dev.to/sh20raj/free-image-hosting-19pj)
-- [Time Series Forecasting for Appliances Energy Prediction](https://dev.to/lucassul/time-series-forecasting-dha)
-- [Elasticsearch, Kibana , Filebeat kullanarak Netflow verileri nasıl takip edilir?](https://dev.to/aciklab/elasticsearch-kibana-filebeat-kullanarak-netflow-verileri-nasil-takip-edilir-2567)
+- [Are Your Secrets Projects Truly Safe?🔐](https://dev.to/bytehide/are-your-secrets-projects-truly-safe-2573)
+- [Go Simulation](https://dev.to/rudransh61/go-simulation-2jpi)
+- [Getting Started with the React 3D Charts Component](https://dev.to/syncfusion/getting-started-with-the-react-3d-charts-component-529m)
+- [React - Persisting Data on Page Refresh](https://dev.to/jucheng925/react-persisting-data-on-page-refresh-1jhk)
+- [Refactorizar 3º día](https://dev.to/srparis/refactorizar-3o-dia-2pem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
