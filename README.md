@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OIDC Prompt 101: A simple guide for developers](https://dev.to/logto/oidc-prompt-101-a-simple-guide-for-developers-39b2)
-- [I built an open-source schema visualisation tool for mongoose](https://dev.to/abdul_165bf98345e29aea8ef/i-built-an-open-source-schema-visualisation-tool-for-mongoose-44m9)
-- [Understanding GPT-4: How to Access and Utilize OpenAI’s New AI Model](https://dev.to/satokenta/understanding-gpt-4-how-to-access-and-utilize-openais-new-ai-model-5991)
-- [Solving a Leetcode problem daily — Day 11 | Find Minimum in Rotated Sorted Array](https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-11-find-minimum-in-rotated-sorted-array-3f7g)
-- [Code a Neural Network from scratch to solve the binary MNIST problem](https://dev.to/hoangng/code-a-neural-network-from-scratch-to-solve-the-binary-mnist-problem-k0e)
+- [JetThoughts receives First Review on Clutch.co: Thank you](https://dev.to/jetthoughts/jetthoughts-receives-first-review-on-clutchco-thank-you-3i48)
+- [Understanding the Software Stack in Quantum Computing](https://dev.to/hellodavidryan/understanding-the-software-stack-in-quantum-computing-3iii)
+- [Speed up GitHub PR’s review of your React applications](https://dev.to/jetthoughts/speed-up-github-prs-review-of-your-react-applications-4n8o)
+- [Deploying Jekyll to GitHub Pages with CircleCI 2.0](https://dev.to/jetthoughts/deploying-jekyll-to-github-pages-with-circleci-20-3gbp)
+- [Kickstart Your AWS IAM Security Journey: 9 Simple Practices to Implement.](https://dev.to/karaniph/kickstart-your-aws-iam-security-journey-9-simple-practices-to-implement-1m4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
