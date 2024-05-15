@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JetThoughts receives First Review on Clutch.co: Thank you](https://dev.to/jetthoughts/jetthoughts-receives-first-review-on-clutchco-thank-you-3i48)
-- [Understanding the Software Stack in Quantum Computing](https://dev.to/hellodavidryan/understanding-the-software-stack-in-quantum-computing-3iii)
-- [Speed up GitHub PR’s review of your React applications](https://dev.to/jetthoughts/speed-up-github-prs-review-of-your-react-applications-4n8o)
-- [Deploying Jekyll to GitHub Pages with CircleCI 2.0](https://dev.to/jetthoughts/deploying-jekyll-to-github-pages-with-circleci-20-3gbp)
-- [Kickstart Your AWS IAM Security Journey: 9 Simple Practices to Implement.](https://dev.to/karaniph/kickstart-your-aws-iam-security-journey-9-simple-practices-to-implement-1m4e)
+- [Mental Burnout: Can We Beat It?](https://dev.to/devteam/mental-burnout-can-we-beat-it-2k2o)
+- [Why I moved from CloudWatch to Errsole!](https://dev.to/mrrishimeena/why-i-moved-from-cloudwatch-to-errsole-769)
+- [Java Code Change Impact Analysis](https://dev.to/oliver_li/java-code-change-impact-analysis-3i64)
+- [8-Step Sales Process in 5 min](https://dev.to/jetthoughts/8-step-sales-process-in-5-min-581g)
+- [Frontend Web Security - Protecting Against Common Threats](https://dev.to/incerro111/frontend-web-security-protecting-against-common-threats-4kb4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
