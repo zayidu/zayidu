@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a WeCom App to enable WeCom Login for the Web app](https://dev.to/jefftian/how-to-create-a-wecom-app-to-enable-wecom-login-for-the-web-app-539)
-- [Why You are Not Getting Interviews](https://dev.to/thekarlesi/why-you-are-not-getting-interviews-3hn2)
-- [Quick note on HTML and CSS](https://dev.to/viviancreates/quick-note-on-html-and-css-482h)
-- [Frameworks of BunJS: ElysiaJS and Hono](https://dev.to/mlvnthanhvo/frameworks-of-bunjs-elysiajs-and-hono-4all)
-- [Marketing to Developers in 2024](https://dev.to/jeffmorhous/marketing-to-developers-in-2024-13op)
+- [14 Common Questions for JSX &lpar;React&rpar; and Their Answers](https://dev.to/codeguage/14-common-questions-for-jsx-react-and-their-answers-2dji)
+- [Understanding JavaScript Function Declarations: &#39;function&#39; vs &#39;const&#39;](https://dev.to/madev7/understanding-javascript-function-declarations-function-vs-const-4ac1)
+- [Algo Basics 101: Recursion Review](https://dev.to/dispensableart/algo-basics-101-recursion-review-3ji)
+- [Implementing BFS and DFS in JavaScript](https://dev.to/dispensableart/implementing-bfs-and-dfs-in-javascript-1f0e)
+- [Installation of PostgreSQL on Rocky Linux](https://dev.to/wajid_saleem_15f4c7513ce5/installation-of-postgresql-on-rocky-linux-4h00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
