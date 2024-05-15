@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility Breakdown | External Links](https://dev.to/devsatasurion/accessibility-breakdown-external-links-42gm)
-- [Unveiling GPT-4: A Leap Forward in AI-Language Models](https://dev.to/p_ks/unveiling-gpt-4-a-leap-forward-in-ai-language-models-cc2)
-- [Algorithm Techniques: Two Pointers](https://dev.to/whitneywind/algorithm-techniques-two-pointers-43n5)
-- [Setting ChrisTitusTech powershell profile for Terminal and VS Code](https://dev.to/7ji9xmel/setting-christitustech-powershell-profile-for-terminal-and-vs-code-43on)
-- [Implementing symmetric and asymmetric encryption with NodeJS](https://dev.to/superviz/implementing-symmetric-and-asymmetric-encryption-with-nodejs-4efp)
+- [Join us for the The AWS Amplify Fullstack TypeScript Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-the-aws-amplify-fullstack-typescript-challenge-3000-in-prizes-ghm)
+- [** ¡Los principios SOLID: una aventura con Johnny Bravo! **😎](https://dev.to/orlidev/-los-principios-solid-una-aventura-con-johnny-bravo--30mk)
+- [3 Reasons Data Engineers Should Embrace Apache Iceberg](https://dev.to/alexmercedcoder/3-reasons-data-engineers-should-embrace-apache-iceberg-39pe)
+- [Optimizando tu día laboral: creando Comandos.](https://dev.to/selene_l21/optimizando-tu-dia-laboral-creando-comandos-2jaa)
+- [keep building.](https://dev.to/seck_mohameth/keep-building-13a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
