@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mental Burnout: Can We Beat It?](https://dev.to/devteam/mental-burnout-can-we-beat-it-2k2o)
-- [Why I moved from CloudWatch to Errsole!](https://dev.to/mrrishimeena/why-i-moved-from-cloudwatch-to-errsole-769)
-- [Java Code Change Impact Analysis](https://dev.to/oliver_li/java-code-change-impact-analysis-3i64)
-- [8-Step Sales Process in 5 min](https://dev.to/jetthoughts/8-step-sales-process-in-5-min-581g)
-- [Frontend Web Security - Protecting Against Common Threats](https://dev.to/incerro111/frontend-web-security-protecting-against-common-threats-4kb4)
+- [How to Build Chat Apps Like WhatsApp, Telegram and Slack?](https://dev.to/alexsam986/build-chat-apps-like-whatsapp-telegram-slack-2jn2)
+- [Building a File Encryptor with ReactJS, Express, and TailwindCSS: A Journey into Data Security](https://dev.to/drruvari/building-a-file-encryptor-with-reactjs-express-and-tailwindcss-a-journey-into-data-security-54a9)
+- [Cons of the private chats for team collaboration](https://dev.to/jetthoughts/cons-of-the-private-chats-for-team-collaboration-4d13)
+- [Migrate from Sidekiq to Sidekiq.cr in Rails application](https://dev.to/jetthoughts/migrate-from-sidekiq-to-sidekiqcr-in-rails-application-1a85)
+- [Client assertion in OAuth 2.0 client authentication](https://dev.to/logto/client-assertion-in-oauth-20-client-authentication-1b23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
