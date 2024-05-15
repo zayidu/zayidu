@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging Stellar with Allbridge Core on Soroswap: New Possibilities Unveiled](https://dev.to/soroswap/bridging-stellar-with-allbridge-core-on-soroswap-new-possibilities-unveiled-1j78)
-- [Unity 게임에 친구 목록을 추가하는 방법](https://dev.to/pubnub-ko/unity-geime-cingu-mogrogeul-cugahaneun-bangbeob-1a4o)
-- [Jak dodać listę znajomych do gry Unity?](https://dev.to/pubnub-pl/jak-dodac-liste-znajomych-do-gry-unity-27p7)
-- [DevOps vs SRE vs Platform Engineering](https://dev.to/samuel_tobaoyetola_c2ad5/devops-vs-sre-vs-platform-engineering-cpk)
-- [Enhancing NestJS Development: Improving Module Management Efficiency](https://dev.to/amirfakour/enhancing-nestjs-development-improving-module-management-efficiency-5el0)
+- [Accessibility Breakdown | External Links](https://dev.to/devsatasurion/accessibility-breakdown-external-links-42gm)
+- [Unveiling GPT-4: A Leap Forward in AI-Language Models](https://dev.to/p_ks/unveiling-gpt-4-a-leap-forward-in-ai-language-models-cc2)
+- [Algorithm Techniques: Two Pointers](https://dev.to/whitneywind/algorithm-techniques-two-pointers-43n5)
+- [Setting ChrisTitusTech powershell profile for Terminal and VS Code](https://dev.to/7ji9xmel/setting-christitustech-powershell-profile-for-terminal-and-vs-code-43on)
+- [Implementing symmetric and asymmetric encryption with NodeJS](https://dev.to/superviz/implementing-symmetric-and-asymmetric-encryption-with-nodejs-4efp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
