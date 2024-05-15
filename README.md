@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Are Your Secrets Projects Truly Safe?🔐](https://dev.to/bytehide/are-your-secrets-projects-truly-safe-2573)
-- [Go Simulation](https://dev.to/rudransh61/go-simulation-2jpi)
-- [Getting Started with the React 3D Charts Component](https://dev.to/syncfusion/getting-started-with-the-react-3d-charts-component-529m)
-- [React - Persisting Data on Page Refresh](https://dev.to/jucheng925/react-persisting-data-on-page-refresh-1jhk)
-- [Refactorizar 3º día](https://dev.to/srparis/refactorizar-3o-dia-2pem)
+- [Should Developers Design? The Blurring Lines Between Disciplines](https://dev.to/shieldstring/should-developers-design-the-blurring-lines-between-disciplines-36dk)
+- [Git: Commands beginners don&#39;t know](https://dev.to/alexreis/git-commands-beginners-dont-know-4i3h)
+- [&quot;if&quot; and &quot;?&quot;: how they&#39;re different in Javscript](https://dev.to/const_variable/if-and-how-theyre-different-in-javscript-411e)
+- [Некоторые подходы к архитектуре приложений в Amazon](https://dev.to/faangmaster/niekotoryie-podkhody-k-arkhitiekturie-prilozhienii-v-amazon-1720)
+- [Under The Hood Of Thread Synchronization With LOCK](https://dev.to/rasulhsn/under-the-hood-of-thread-synchronization-with-lock-3h50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
