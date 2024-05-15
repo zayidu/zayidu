@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitLab on Ubuntu 22.04: Self-Hosted Version Control](https://dev.to/ersinkoc/gitlab-on-ubuntu-2204-self-hosted-version-control-5b34)
-- [rx-angular/state - a library for managing states of an Angular application](https://dev.to/railsstudent/rx-angularstate-a-library-for-managing-states-of-an-angular-application-1cfp)
-- [Looking to beef up the security of your AWS EC2 instances?](https://dev.to/aws-builders/looking-to-beef-up-the-security-of-your-aws-ec2-instances-4252)
-- [Machine Learning for newbies](https://dev.to/catheryn/machine-learning-for-newbies-98h)
-- [How to Update your Github Profile with Your Latest Blog Posts](https://dev.to/nhelchitnis/how-to-update-your-github-profil-with-your-latest-blog-posts-1l0o)
+- [Marketing to Developers in 2024](https://dev.to/jeffmorhous/marketing-to-developers-in-2024-13op)
+- [Funções](https://dev.to/leonardosf/funcoes-251b)
+- [Great News Project Astra is a prototype from @GoogleDeepMind](https://dev.to/dms/great-newsproject-astra-is-a-prototype-from-googledeepmind-4h6i)
+- [Learning to Code Through Real-World Challenges: My Transformative Journey](https://dev.to/kingsleyeghianruwa/learning-to-code-through-real-world-challenges-my-transformative-journey-1ead)
+- [Self-Hosted Coolify on EcoStack Cloud: Your Own PaaS with Effortless App Deployment](https://dev.to/ersinkoc/self-hosted-coolify-on-ecostack-cloud-your-own-paas-with-effortless-app-deployment-56co)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
