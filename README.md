@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to add a Feedback Widget to your website](https://dev.to/nsmet/how-to-add-a-feedback-widget-to-your-website-149e)
-- [AI-Powered, No-code Automated Software Testing: What differentiates MagicPod from its peers?](https://dev.to/kingkunte_/ai-powered-no-code-automated-software-testing-what-differentiates-magicpod-from-its-peers-3b7g)
-- [Mastering Higher-Order Components in React: A Guide to DRY Code](https://dev.to/nikuwadaskar/mastering-higher-order-components-in-react-a-guide-to-dry-code-4bil)
-- [AI Software Development Lifecycle](https://dev.to/loganmary689/ai-software-development-lifecycle-3hhn)
-- [Choose the right database for your needs: BASE vs ACID model](https://dev.to/thectogeneral/choose-the-right-database-for-your-needs-base-vs-acid-model-n80)
+- [Middlewares in Next JS](https://dev.to/jay818/middlewares-in-next-js-emb)
+- [Meet GPT-4o: Your Multimodal Friend for Seamless Interaction!!](https://dev.to/respect17/meet-gpt-4o-your-multimodal-friend-for-seamless-interaction-2c02)
+- [Doing Agile vs Being Agile: A Comprehensive Guide](https://dev.to/saumya27/doing-agile-vs-being-agile-a-comprehensive-guide-32ni)
+- [Building agency website with headless BCMS and NextJs](https://dev.to/momciloo/building-agency-website-with-headless-bcms-and-nextjs-4a8e)
+- [I Quit Searching For Jobs!!!](https://dev.to/scofieldidehen/i-quit-searching-for-jobs-2jai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
