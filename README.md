@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Chat Apps Like WhatsApp, Telegram and Slack?](https://dev.to/alexsam986/build-chat-apps-like-whatsapp-telegram-slack-2jn2)
-- [Building a File Encryptor with ReactJS, Express, and TailwindCSS: A Journey into Data Security](https://dev.to/drruvari/building-a-file-encryptor-with-reactjs-express-and-tailwindcss-a-journey-into-data-security-54a9)
-- [Cons of the private chats for team collaboration](https://dev.to/jetthoughts/cons-of-the-private-chats-for-team-collaboration-4d13)
-- [Migrate from Sidekiq to Sidekiq.cr in Rails application](https://dev.to/jetthoughts/migrate-from-sidekiq-to-sidekiqcr-in-rails-application-1a85)
-- [Client assertion in OAuth 2.0 client authentication](https://dev.to/logto/client-assertion-in-oauth-20-client-authentication-1b23)
+- [Streamlining Real Estate Software Development: A Guide for Companies](https://dev.to/botikul/streamlining-real-estate-software-development-a-guide-for-companies-15de)
+- [20+ DOM Projects: Your Frontend Breakthrough!](https://dev.to/jisan/20-dom-projects-your-frontend-breakthrough-1h8a)
+- [Free Image Hosting](https://dev.to/sh20raj/free-image-hosting-19pj)
+- [Time Series Forecasting for Appliances Energy Prediction](https://dev.to/lucassul/time-series-forecasting-dha)
+- [Elasticsearch, Kibana , Filebeat kullanarak Netflow verileri nasıl takip edilir?](https://dev.to/aciklab/elasticsearch-kibana-filebeat-kullanarak-netflow-verileri-nasil-takip-edilir-2567)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
