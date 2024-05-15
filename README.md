@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Should Developers Design? The Blurring Lines Between Disciplines](https://dev.to/shieldstring/should-developers-design-the-blurring-lines-between-disciplines-36dk)
-- [Git: Commands beginners don&#39;t know](https://dev.to/alexreis/git-commands-beginners-dont-know-4i3h)
-- [&quot;if&quot; and &quot;?&quot;: how they&#39;re different in Javscript](https://dev.to/const_variable/if-and-how-theyre-different-in-javscript-411e)
-- [Некоторые подходы к архитектуре приложений в Amazon](https://dev.to/faangmaster/niekotoryie-podkhody-k-arkhitiekturie-prilozhienii-v-amazon-1720)
-- [Under The Hood Of Thread Synchronization With LOCK](https://dev.to/rasulhsn/under-the-hood-of-thread-synchronization-with-lock-3h50)
+- [20+ Projects you can build with AI TODAY](https://dev.to/copilotkit/20-projects-you-can-build-with-ai-today-352k)
+- [📕 Start-ups vs. Big Companies: The Best Takeaways For You To Know 📊](https://dev.to/wasp/start-ups-vs-big-companies-the-best-takeaways-for-you-to-know-28n5)
+- [Mastering Git: Guide to Repository Management](https://dev.to/elainecbennet/mastering-git-guide-to-repository-management-2gdo)
+- [I quit my job and building a productivity app for ADHD. I need your input.](https://dev.to/buditanrim/i-quit-my-job-and-building-a-productivity-app-for-adhd-i-need-your-input-c8i)
+- [How to use compression in Node.js server for better bandwidth ?](https://dev.to/franklinthaker/how-to-use-compression-in-nodejs-server-for-better-bandwidth--4hje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
