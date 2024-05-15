@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a web server on the Linux virtual machine](https://dev.to/raviknce0509/deploying-a-web-server-on-the-linux-virtual-machine-17ib)
-- [Scrapy Vs. Crawlee](https://dev.to/crawlee/scrapy-vs-crawlee-3omi)
-- [SASS, CSS, or Tailwind: Which One Should You Choose?](https://dev.to/sotergreco/sass-css-or-tailwind-which-one-should-you-choose-3c0o)
-- [Python und venv installieren - django in Produktion Teil 3](https://dev.to/rubenvoss/python-und-venv-installieren-django-in-produktion-teil-3-8c7)
-- [SQL Report Builder](https://dev.to/alecbsherman/sql-report-builder-48ml)
+- [2022-02-23 - TRAFFIC ANALYSIS EXERCISE - SUNNYSTATION](https://dev.to/mihika/2022-02-23-traffic-analysis-exercise-sunnystation-1alk)
+- [Battleship.... in the Terminal!](https://dev.to/frank_lawrence_95abcdfe80/battleship-in-the-terminal-8dj)
+- [RESTful API in Django [Django Rest Framework]](https://dev.to/bekbrace/restful-api-in-django-django-rest-framework-2aen)
+- [Inside SQL Joins](https://dev.to/balajisasi/inside-sql-joins-5h6b)
+- [@Controller vs. @RestController](https://dev.to/iambstha/controller-vs-restcontroller-32n2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
