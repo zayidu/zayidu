@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Punishing myself](https://dev.to/jjuarez5/punishing-myself-2kg3)
-- [Meteor 2.16 and Oplog Tailing Optimization](https://dev.to/meteor/meteor-216-and-oplog-tailing-optimization-ckk)
-- [Tips from Open source: Use shadow DOM to avoid potential CSS breaks](https://dev.to/ramunarasinga/tips-from-open-source-use-shadow-dom-to-avoid-potential-css-breaks-41dd)
-- [Developer diary #9. Google I/O](https://dev.to/kiolk/developer-diary-9-google-io-2om7)
-- [5 Essential Features for In-Game Chat Players Will Love](https://dev.to/pubnub/5-essential-features-for-in-game-chat-players-will-love-3k73)
+- [GitLab on Ubuntu 22.04: Self-Hosted Version Control](https://dev.to/ersinkoc/gitlab-on-ubuntu-2204-self-hosted-version-control-5b34)
+- [rx-angular/state - a library for managing states of an Angular application](https://dev.to/railsstudent/rx-angularstate-a-library-for-managing-states-of-an-angular-application-1cfp)
+- [Looking to beef up the security of your AWS EC2 instances?](https://dev.to/aws-builders/looking-to-beef-up-the-security-of-your-aws-ec2-instances-4252)
+- [Machine Learning for newbies](https://dev.to/catheryn/machine-learning-for-newbies-98h)
+- [How to Update your Github Profile with Your Latest Blog Posts](https://dev.to/nhelchitnis/how-to-update-your-github-profil-with-your-latest-blog-posts-1l0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
