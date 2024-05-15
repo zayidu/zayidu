@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Revisiting the &quot;Rules of React&quot;](https://dev.to/martinrojas/revisiting-the-rules-of-react-e85)
-- [How to prevent generating new access tokens.](https://dev.to/theprateekgoyal2/how-to-prevent-generating-new-access-tokens-39ig)
-- [Automate Your Web App Deployments: A Beginner&#39;s Guide to CI/CD with Jenkins &lpar;Inspired by Nexascale Mentorship&rpar;](https://dev.to/arbythecoder/automate-your-web-app-deployments-a-beginners-guide-to-cicd-with-jenkins-inspired-by-nexascale-mentorship-29ej)
-- [Dev: Front-end](https://dev.to/r4nd3l/dev-front-end-1n0p)
-- [Fundamentos de JavaScript: Un Viaje desde Cero hasta el Dominio](https://dev.to/miigangls/fundamentos-de-javascript-un-viaje-desde-cero-hasta-el-dominio-5576)
+- [Svelte and SvelteKit Explained](https://dev.to/kedzior_io/svelte-and-sveltekit-explained-3513)
+- [Join our free webinar: “Removing Friction from Design System Workflows”](https://dev.to/uxpin/join-our-free-webinar-removing-friction-from-design-system-workflows-9me)
+- [Navigating the Nuances: How Machine Learning Powers Artificial Intelligence](https://dev.to/launchpadlab/navigating-the-nuances-how-machine-learning-powers-artificial-intelligence-33kb)
+- [LMS de código abierto versus propietario - ¿Cuál eligir?](https://dev.to/krestomatio/lms-de-codigo-abierto-versus-propietario-cual-eligir-28f0)
+- [How to make shapes with CSS](https://dev.to/christopherchhim/how-to-make-shapes-with-css-plb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
