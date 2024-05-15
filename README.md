@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2022-02-23 - TRAFFIC ANALYSIS EXERCISE - SUNNYSTATION](https://dev.to/mihika/2022-02-23-traffic-analysis-exercise-sunnystation-1alk)
-- [Battleship.... in the Terminal!](https://dev.to/frank_lawrence_95abcdfe80/battleship-in-the-terminal-8dj)
-- [RESTful API in Django [Django Rest Framework]](https://dev.to/bekbrace/restful-api-in-django-django-rest-framework-2aen)
-- [Inside SQL Joins](https://dev.to/balajisasi/inside-sql-joins-5h6b)
-- [@Controller vs. @RestController](https://dev.to/iambstha/controller-vs-restcontroller-32n2)
+- [Revisiting the &quot;Rules of React&quot;](https://dev.to/martinrojas/revisiting-the-rules-of-react-e85)
+- [How to prevent generating new access tokens.](https://dev.to/theprateekgoyal2/how-to-prevent-generating-new-access-tokens-39ig)
+- [Automate Your Web App Deployments: A Beginner&#39;s Guide to CI/CD with Jenkins &lpar;Inspired by Nexascale Mentorship&rpar;](https://dev.to/arbythecoder/automate-your-web-app-deployments-a-beginners-guide-to-cicd-with-jenkins-inspired-by-nexascale-mentorship-29ej)
+- [Dev: Front-end](https://dev.to/r4nd3l/dev-front-end-1n0p)
+- [Fundamentos de JavaScript: Un Viaje desde Cero hasta el Dominio](https://dev.to/miigangls/fundamentos-de-javascript-un-viaje-desde-cero-hasta-el-dominio-5576)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
