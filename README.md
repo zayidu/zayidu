@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Join us for the The AWS Amplify Fullstack TypeScript Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-the-aws-amplify-fullstack-typescript-challenge-3000-in-prizes-ghm)
-- [** ¡Los principios SOLID: una aventura con Johnny Bravo! **😎](https://dev.to/orlidev/-los-principios-solid-una-aventura-con-johnny-bravo--30mk)
-- [3 Reasons Data Engineers Should Embrace Apache Iceberg](https://dev.to/alexmercedcoder/3-reasons-data-engineers-should-embrace-apache-iceberg-39pe)
-- [Optimizando tu día laboral: creando Comandos.](https://dev.to/selene_l21/optimizando-tu-dia-laboral-creando-comandos-2jaa)
-- [keep building.](https://dev.to/seck_mohameth/keep-building-13a8)
+- [Deploying a web server on the Linux virtual machine](https://dev.to/raviknce0509/deploying-a-web-server-on-the-linux-virtual-machine-17ib)
+- [Scrapy Vs. Crawlee](https://dev.to/crawlee/scrapy-vs-crawlee-3omi)
+- [SASS, CSS, or Tailwind: Which One Should You Choose?](https://dev.to/sotergreco/sass-css-or-tailwind-which-one-should-you-choose-3c0o)
+- [Python und venv installieren - django in Produktion Teil 3](https://dev.to/rubenvoss/python-und-venv-installieren-django-in-produktion-teil-3-8c7)
+- [SQL Report Builder](https://dev.to/alecbsherman/sql-report-builder-48ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
