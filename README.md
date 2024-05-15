@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [20+ Projects you can build with AI TODAY](https://dev.to/copilotkit/20-projects-you-can-build-with-ai-today-352k)
-- [📕 Start-ups vs. Big Companies: The Best Takeaways For You To Know 📊](https://dev.to/wasp/start-ups-vs-big-companies-the-best-takeaways-for-you-to-know-28n5)
-- [Mastering Git: Guide to Repository Management](https://dev.to/elainecbennet/mastering-git-guide-to-repository-management-2gdo)
-- [I quit my job and building a productivity app for ADHD. I need your input.](https://dev.to/buditanrim/i-quit-my-job-and-building-a-productivity-app-for-adhd-i-need-your-input-c8i)
-- [How to use compression in Node.js server for better bandwidth ?](https://dev.to/franklinthaker/how-to-use-compression-in-nodejs-server-for-better-bandwidth--4hje)
+- [How to add a Feedback Widget to your website](https://dev.to/nsmet/how-to-add-a-feedback-widget-to-your-website-149e)
+- [AI-Powered, No-code Automated Software Testing: What differentiates MagicPod from its peers?](https://dev.to/kingkunte_/ai-powered-no-code-automated-software-testing-what-differentiates-magicpod-from-its-peers-3b7g)
+- [Mastering Higher-Order Components in React: A Guide to DRY Code](https://dev.to/nikuwadaskar/mastering-higher-order-components-in-react-a-guide-to-dry-code-4bil)
+- [AI Software Development Lifecycle](https://dev.to/loganmary689/ai-software-development-lifecycle-3hhn)
+- [Choose the right database for your needs: BASE vs ACID model](https://dev.to/thectogeneral/choose-the-right-database-for-your-needs-base-vs-acid-model-n80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
