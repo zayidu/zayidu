@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python VS Common Lisp applied: print, log and icecream](https://dev.to/vindarel/python-vs-common-lisp-applied-print-log-and-icecream-2h12)
-- [Processing Foundation 2024 Software Development Grant &lpar;pr05&rpar;: &#39;New Beginnings&#39; Open Call](https://dev.to/soniachoi/processing-foundation-2024-software-development-grant-pr05-new-beginnings-open-call-36b1)
-- [2331. Evaluate Boolean Binary Tree](https://dev.to/mdarifulhaque/2331-evaluate-boolean-binary-tree-6ae)
-- [Introduction to GPT-4o your new Digital Companion](https://dev.to/snehalkadwe/introduction-to-gpt-4o-your-new-digital-companion-220c)
-- [Email deliverability for developers: A technical guide](https://dev.to/sweego/email-deliverability-for-developers-a-technical-guide-4pln)
+- [JavaScript Design Patterns - Structural - Proxy](https://dev.to/nhannguyendevjs/javascript-design-patterns-structural-proxy-1hci)
+- [Automate the Deployment of a LAMP Stack &amp; Laravel App with a Script and Ansible](https://dev.to/chigozieco/automate-the-deployment-of-a-lamp-stack-laravel-app-with-a-script-and-ansible-hf0)
+- [How to check if the character is alphanumeric in GO](https://dev.to/regalman/how-to-check-if-the-character-is-alphanumeric-in-go-4837)
+- [Japanese standard stock photos](https://dev.to/yamashee/japanese-standard-stock-photos-43cc)
+- [6 CSS tools for more efficient and flexible CSS handling](https://dev.to/logrocket/6-css-tools-for-more-efficient-and-flexible-css-handling-324)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
