@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple Guide to Using Intersection Observer API with ReactJS](https://dev.to/sachinchaurasiya/simple-guide-to-using-intersection-observer-api-with-reactjs-42n2)
+- [Angular + Gemini Pro Vision](https://dev.to/combimauri/angular-gemini-pro-vision-3fcf)
+- [Svelte Series-1: An awesome framework](https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-1-an-awesome-framework-3gb4)
+- [Symmetric vs. asymmetric encryption: Practical Python examples](https://dev.to/snyk/symmetric-vs-asymmetric-encryption-practical-python-examples-1p56)
 - [Mastering JSX Editing in Emacs with Tree-sitter](https://dev.to/p233/mastering-jsx-editing-in-emacs-with-tree-sitter-2b3a)
-- [Top 5 Features of the Best Passport recognition technology by FacePlugin](https://dev.to/faceplugin/top-5-features-of-the-best-passport-recognition-technology-by-faceplugin-2ci6)
-- [What Makes You Want Candle Box Packaging](https://dev.to/john_andrew/what-makes-you-want-candle-box-packaging-5hn2)
-- [Demystifying Computer Files: A Beginner&#39;s Guide to Navigating Programming](https://dev.to/gracekid/demystifying-computer-files-a-beginners-guide-to-navigating-programming-5da)
-- [Serverless Computing with Google Cloud Functions](https://dev.to/kartikmehta8/serverless-computing-with-google-cloud-functions-17e7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
