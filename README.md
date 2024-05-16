@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Guide to Using Intersection Observer API with ReactJS](https://dev.to/sachinchaurasiya/simple-guide-to-using-intersection-observer-api-with-reactjs-42n2)
-- [Angular + Gemini Pro Vision](https://dev.to/combimauri/angular-gemini-pro-vision-3fcf)
-- [Svelte Series-1: An awesome framework](https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-1-an-awesome-framework-3gb4)
-- [Symmetric vs. asymmetric encryption: Practical Python examples](https://dev.to/snyk/symmetric-vs-asymmetric-encryption-practical-python-examples-1p56)
-- [Mastering JSX Editing in Emacs with Tree-sitter](https://dev.to/p233/mastering-jsx-editing-in-emacs-with-tree-sitter-2b3a)
+- [F# For Dummys - Day 0](https://dev.to/pythonzhu/f-for-dummys-day-0-1lb)
+- [How to Use Memoization in React for Better Performance](https://dev.to/nfragiskatos/how-to-use-memoization-in-react-for-better-performance-1277)
+- [Day 1 💎 Get the latest programmer humor meme](https://dev.to/ashgkwd/day-1-get-the-latest-programmer-humor-meme-37cl)
+- [Day 15: Promise](https://dev.to/codernko/day-15-promise-35kc)
+- [Understanding React Server Component](https://dev.to/chauhoangminhnguyen/understanding-react-server-component-4hjc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
