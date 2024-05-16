@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Design: Strategies for Modular Programming and Loose Coupling](https://dev.to/ayako_yk/software-design-strategies-for-modular-programming-and-loose-coupling-joi)
-- [JavaScript: Separate Predicate Functions](https://dev.to/oculus42/javascript-separate-predicate-functions-1deh)
-- [Copy/Pasting output from the terminal](https://dev.to/saranshk/copypasting-output-from-the-terminal-1c6g)
-- [Agents in Action - MindsDB Hackathon Recap](https://dev.to/mindsdb/agents-in-action-mindsdb-hackathon-recap-2k71)
-- [Learning ReactJs...again](https://dev.to/bigcityc/learning-reactjsagain-5hef)
+- [Serverless Computing with Google Cloud Functions](https://dev.to/kartikmehta8/serverless-computing-with-google-cloud-functions-17e7)
+- [Las 20 preguntas principales de entrevistas sobre React](https://dev.to/w4ll-3/las-20-preguntas-principales-de-entrevistas-sobre-react-58h7)
+- [Unleashing the Power of HTML5: A Modern Web Revolution](https://dev.to/gracekid/unleashing-the-power-of-html5-a-modern-web-revolution-3dk6)
+- [Indie Hacker, faça você mesmo #1 - Use o Github Actions pra fazer os code reviews automaticamente](https://dev.to/xxdannilinxx/indie-hacker-faca-voce-mesmo-1-use-o-github-actions-pra-fazer-os-code-reviews-automaticamente-b61)
+- [Setting Up an Ollama + Open-WebUI Cluster](https://dev.to/blacknight318/setting-up-an-ollama-open-webui-cluster-2ebh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
