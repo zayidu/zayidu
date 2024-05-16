@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Inline SVG Icons in Your Rails App](https://dev.to/railsdesigner/inline-svg-icons-in-your-rails-app-325a)
-- [HTML tags | hgroup](https://dev.to/carlosespada/html-tags-hgroup-3ii5)
-- [Integrate Ory in a NestJS application](https://dev.to/getlarge/integrate-ory-in-a-nestjs-application-4llo)
-- [Server-side cache for YugabyteDB sequences to workaround the Nspgl `DISCARD SEQUENCES`](https://dev.to/yugabyte/server-side-cache-for-yugabytedb-sequences-to-workaround-the-nspgl-discard-sequences-58jp)
-- [Navigating Unemployment: Insights from a 2023 Fresher](https://dev.to/amod_kumar_jha/navigating-unemployment-insights-from-a-2023-fresher-4hmj)
+- [My opinion on the Tauri framework](https://dev.to/nfrankel/my-opinion-on-the-tauri-framework-54c3)
+- [Basic Markdown](https://dev.to/zemerik/basic-markdown-2jel)
+- [Test Automation in API Security Testing](https://dev.to/talenttinaapi/test-automation-in-api-security-testing-m5m)
+- [Java Bytecode Execution: Bridging JVM and OS](https://dev.to/nayaksofia/java-bytecode-execution-bridging-jvm-and-os-1jf5)
+- [Sloan&#39;s Inbox: Can I make a career off of WordPress? Should I?](https://dev.to/devteam/sloans-inbox-why-does-folks-often-disrespect-wordpress-4iim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
