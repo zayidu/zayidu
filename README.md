@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [242. Valid Anagram](https://dev.to/_bhupeshk_/242-valid-anagram-4abc)
-- [😁12 things you didn&#39;t know you could do with DEV part 2](https://dev.to/anmolbaranwal/12-things-you-didnt-know-you-could-do-with-dev-part-2-2i6m)
-- [Conferências do Ecossistema de Erlang &lpar;e Elixir&rpar;](https://dev.to/elixir_utfpr/conferencias-do-ecossistema-de-erlang-e-elixir-1ki0)
-- [Understanding KeyConditionExpression and FilterExpression in DynamoDB](https://dev.to/siddhantkcode/understanding-keyconditionexpression-and-filterexpression-in-dynamodb-3kmk)
-- [Building a Free DMARC Monitoring and Reporting Tool with AWS Lambda: The Story of DmarcEye](https://dev.to/jan_tlapak_3b56739fda5cb7/building-a-free-dmarc-monitoring-and-reporting-tool-with-aws-lambda-the-story-of-dmarceye-2c5g)
+- [How to set up HTMX in Django](https://dev.to/agarjoshua/how-to-set-up-htmx-in-django-307f)
+- [WebSockets](https://dev.to/jay818/websockets-1dke)
+- [Composable Architecture](https://dev.to/msmith99994/composable-architecture-21eb)
+- [Now I get NeoVim](https://dev.to/hundrog/now-i-get-neovim-do5)
+- [Debugging with Precision: Conditional Breakpoints](https://dev.to/vanessa_zaremba/debugging-with-precision-conditional-breakpoints-2nmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
