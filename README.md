@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Life without Screens Possible?](https://dev.to/devteam/is-life-without-screens-possible-5fb1)
-- [Find First and Last Position of Element in Sorted Array | LeetCode | Java](https://dev.to/tanujav/find-first-and-last-position-of-element-in-sorted-array-leetcode-java-1aaj)
-- [Mastering the job hunting strategy: Tips for aspiring developers.](https://dev.to/terrancoder/mastering-the-job-hunting-strategy-tips-for-aspiring-developers-5b7m)
-- [Effective living for better coding, Successful Career Change and landing a job](https://dev.to/terrancoder/effective-living-for-better-coding-successful-career-change-and-landing-a-job-k1g)
-- [Unlock your career in data analytics 2024](https://dev.to/onumaku_bobby/unlock-your-career-in-data-analytics-2024-2ij8)
+- [Inline SVG Icons in Your Rails App](https://dev.to/railsdesigner/inline-svg-icons-in-your-rails-app-325a)
+- [HTML tags | hgroup](https://dev.to/carlosespada/html-tags-hgroup-3ii5)
+- [Integrate Ory in a NestJS application](https://dev.to/getlarge/integrate-ory-in-a-nestjs-application-4llo)
+- [Server-side cache for YugabyteDB sequences to workaround the Nspgl `DISCARD SEQUENCES`](https://dev.to/yugabyte/server-side-cache-for-yugabytedb-sequences-to-workaround-the-nspgl-discard-sequences-58jp)
+- [Navigating Unemployment: Insights from a 2023 Fresher](https://dev.to/amod_kumar_jha/navigating-unemployment-insights-from-a-2023-fresher-4hmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
