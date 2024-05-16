@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The essential guide to application integration on AWS](https://dev.to/softwebsolution/the-essential-guide-to-application-integration-on-aws-1g6o)
-- [Singleton Design Pattern](https://dev.to/varun21vaidya/singleton-design-pattern-4bc0)
-- [How to get hired: Insights from an Engineering Manager](https://dev.to/tim-e/how-to-get-hired-insights-from-an-engineering-manager-48pa)
-- [A Many-to-Many Relationship in a Sequelize Model](https://dev.to/lovertab/a-many-to-many-relationship-in-a-sequelize-model-3akb)
-- [Logto product update: Compliance status, custom JWT, API resources for organization roles, and more](https://dev.to/logto/logto-product-update-compliance-status-custom-jwt-api-resources-for-organization-roles-and-more-153a)
+- [🕔 This 5-Hour Rule Can Change Your Coding Habits Forever](https://dev.to/evergrowingdev/this-5-hour-rule-can-change-your-coding-habits-forever-1n0e)
+- [file extension from byte array](https://dev.to/ajit_singh_3adb4debf5b324/file-extension-from-byte-array-2lm9)
+- [The Problem Docker Solves: Beginner&#39;s Introduction to Docker](https://dev.to/drintech/the-problem-docker-solves-beginners-introduction-to-docker-2bfa)
+- [Montrez patte blanche : tuez des mutants !](https://dev.to/stack-labs/montrez-patte-blanche-tuez-des-mutants--12el)
+- [Using Digital Ocean Spaces as Strapi Storage](https://dev.to/mohammadfaisal/using-digital-ocean-spaces-as-strapi-storage-4agk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
