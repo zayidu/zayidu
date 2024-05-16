@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Digital Asset Management: Exploring Headless DAM](https://dev.to/msmith99994/the-future-of-digital-asset-management-exploring-headless-dam-5ap6)
-- [TypeScript Adventures: Prop Drilling Down the Rabbit Hole](https://dev.to/wearypossum4770/typescript-adventures-prop-drilling-down-the-rabbit-hole-9ld)
-- [Understanding Internet Content Providers &lpar;ICP&rpar; and ICP Licenses in China](https://dev.to/sparkycode/understanding-internet-content-providers-icp-and-icp-licenses-in-china-4f8o)
-- [Docker for Beginners](https://dev.to/shriyaexe/docker-for-beginners-394m)
-- [JavaScript Design Patterns - Structural - Proxy](https://dev.to/nhannguyendevjs/javascript-design-patterns-structural-proxy-1hci)
+- [242. Valid Anagram](https://dev.to/_bhupeshk_/242-valid-anagram-4abc)
+- [😁12 things you didn&#39;t know you could do with DEV part 2](https://dev.to/anmolbaranwal/12-things-you-didnt-know-you-could-do-with-dev-part-2-2i6m)
+- [Conferências do Ecossistema de Erlang &lpar;e Elixir&rpar;](https://dev.to/elixir_utfpr/conferencias-do-ecossistema-de-erlang-e-elixir-1ki0)
+- [Understanding KeyConditionExpression and FilterExpression in DynamoDB](https://dev.to/siddhantkcode/understanding-keyconditionexpression-and-filterexpression-in-dynamodb-3kmk)
+- [Building a Free DMARC Monitoring and Reporting Tool with AWS Lambda: The Story of DmarcEye](https://dev.to/jan_tlapak_3b56739fda5cb7/building-a-free-dmarc-monitoring-and-reporting-tool-with-aws-lambda-the-story-of-dmarceye-2c5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
