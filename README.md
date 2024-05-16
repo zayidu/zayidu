@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of API Response Time on Performance: What You Need to Know](https://dev.to/satokenta/the-impact-of-api-response-time-on-performance-what-you-need-to-know-24bd)
-- [Why learning to code is still important in an AI-driven world](https://dev.to/educative/why-learning-to-code-is-still-important-in-an-ai-driven-world-4410)
-- [Quality Assurance Tester Course: Expert-Led Curriculum](https://dev.to/veronicajoseph/quality-assurance-tester-course-expert-led-curriculum-548e)
-- [Squadcast + Hund Integration: A Simplified Approach for effective Alert Routing](https://dev.to/squadcast/squadcast-hund-integration-a-simplified-approach-for-effective-alert-routing-4c7k)
-- [Guide Complet d&#39;Automatisation pour Vidéos Multilingues](https://dev.to/vulgar_ia/guide-complet-dautomatisation-pour-videos-multilingues-f0j)
+- [The essential guide to application integration on AWS](https://dev.to/softwebsolution/the-essential-guide-to-application-integration-on-aws-1g6o)
+- [Singleton Design Pattern](https://dev.to/varun21vaidya/singleton-design-pattern-4bc0)
+- [How to get hired: Insights from an Engineering Manager](https://dev.to/tim-e/how-to-get-hired-insights-from-an-engineering-manager-48pa)
+- [A Many-to-Many Relationship in a Sequelize Model](https://dev.to/lovertab/a-many-to-many-relationship-in-a-sequelize-model-3akb)
+- [Logto product update: Compliance status, custom JWT, API resources for organization roles, and more](https://dev.to/logto/logto-product-update-compliance-status-custom-jwt-api-resources-for-organization-roles-and-more-153a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
