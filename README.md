@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jornada pessoal em Machine Learning](https://dev.to/devxbr/jornada-pessoal-em-machine-learning-2c3n)
-- [Essential tools for Frontend Developers](https://dev.to/bingecoder89/essential-tools-for-frontend-developers-3e2i)
-- [Uploaded pdf&#39;s file type didn&#39;t recognize in firebase storage dotnet 8](https://dev.to/malshan/uploaded-pdfs-file-type-didnt-recognize-in-firebase-storage-dotnet-8-4nd)
-- [Effortlessly Export AWS Health Organizational View to CSV with This CLI Tool](https://dev.to/aws-builders/effortlessly-export-aws-health-organizational-view-to-csv-with-this-cli-tool-29ae)
-- [Python. Exploring MySQL Table Sizes.](https://dev.to/dm8ry/python-exploring-mysql-table-sizes-36o3)
+- [Python VS Common Lisp applied: print, log and icecream](https://dev.to/vindarel/python-vs-common-lisp-applied-print-log-and-icecream-2h12)
+- [Processing Foundation 2024 Software Development Grant &lpar;pr05&rpar;: &#39;New Beginnings&#39; Open Call](https://dev.to/soniachoi/processing-foundation-2024-software-development-grant-pr05-new-beginnings-open-call-36b1)
+- [2331. Evaluate Boolean Binary Tree](https://dev.to/mdarifulhaque/2331-evaluate-boolean-binary-tree-6ae)
+- [Introduction to GPT-4o your new Digital Companion](https://dev.to/snehalkadwe/introduction-to-gpt-4o-your-new-digital-companion-220c)
+- [Email deliverability for developers: A technical guide](https://dev.to/sweego/email-deliverability-for-developers-a-technical-guide-4pln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
