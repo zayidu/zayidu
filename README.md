@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Your Mock Server with Mockingbird](https://dev.to/ozkeisar/setting-up-your-mock-server-with-mockingbird-1b72)
-- [Cloud Optimization: AWS Lambda vs. EC2](https://dev.to/jakeinthecloud/cloud-optimization-aws-lambda-vs-ec2-2ki4)
-- [Comment ajouter un chat en temps réel à votre jeu Unity](https://dev.to/pubnub-fr/comment-ajouter-un-chat-en-temps-reel-a-votre-jeu-unity-a4b)
-- [My Second project Guessing Number Game](https://dev.to/usaid4150/my-second-project-guessing-number-game-3mi8)
-- [Variable](https://dev.to/kamran_maharaz_e491192b9d/variable-2hg3)
+- [Do not Reinvent the Wheel: Utilize Django’s Built-in Auth App to Create a Robust Authentication System](https://dev.to/odhiambo/do-not-reinvent-the-wheel-utilize-djangos-built-in-auth-app-to-create-a-robust-authentication-system-4840)
+- [Keybindings in Terminal in VS Code](https://dev.to/h3h/keybindings-in-terminal-in-vs-code-1lo7)
+- [Sending SMS Messages with Python and ClickSend](https://dev.to/foysal365/sending-sms-messages-with-python-and-clicksend-phl)
+- [Diving into ReactJS: Understanding the Magic Behind Client and Server Routing.](https://dev.to/barakkenny2/diving-into-reactjs-understanding-the-magic-behind-client-and-server-routing-12ie)
+- [How I fixed this Next.js error: Refused to load the script because it violate Content Security Policy directive](https://dev.to/ramunarasinga/how-i-fixed-this-nextjs-error-refused-to-load-the-script-because-it-violate-content-security-policy-directive-37b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
