@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering JSX Editing in Emacs with Tree-sitter](https://dev.to/p233/mastering-jsx-editing-in-emacs-with-tree-sitter-2b3a)
+- [Top 5 Features of the Best Passport recognition technology by FacePlugin](https://dev.to/faceplugin/top-5-features-of-the-best-passport-recognition-technology-by-faceplugin-2ci6)
+- [What Makes You Want Candle Box Packaging](https://dev.to/john_andrew/what-makes-you-want-candle-box-packaging-5hn2)
+- [Demystifying Computer Files: A Beginner&#39;s Guide to Navigating Programming](https://dev.to/gracekid/demystifying-computer-files-a-beginners-guide-to-navigating-programming-5da)
 - [Serverless Computing with Google Cloud Functions](https://dev.to/kartikmehta8/serverless-computing-with-google-cloud-functions-17e7)
-- [Las 20 preguntas principales de entrevistas sobre React](https://dev.to/w4ll-3/las-20-preguntas-principales-de-entrevistas-sobre-react-58h7)
-- [Unleashing the Power of HTML5: A Modern Web Revolution](https://dev.to/gracekid/unleashing-the-power-of-html5-a-modern-web-revolution-3dk6)
-- [Indie Hacker, faça você mesmo #1 - Use o Github Actions pra fazer os code reviews automaticamente](https://dev.to/xxdannilinxx/indie-hacker-faca-voce-mesmo-1-use-o-github-actions-pra-fazer-os-code-reviews-automaticamente-b61)
-- [Setting Up an Ollama + Open-WebUI Cluster](https://dev.to/blacknight318/setting-up-an-ollama-open-webui-cluster-2ebh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
