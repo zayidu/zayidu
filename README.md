@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is API Management and How It Benefits Your Organization](https://dev.to/getambassador2024/what-is-api-management-and-how-it-benefits-your-organization-5757)
-- [How to Get Your First Job in 8 Steps: Leveraging the Power of an AI Cover Letter](https://dev.to/blogsx/how-to-get-your-first-job-in-8-steps-leveraging-the-power-of-an-ai-cover-letter-4g8g)
-- [What makes a good REST API?](https://dev.to/apitally/what-makes-a-good-rest-api-1eo7)
-- [AWS AMPLIFY FULLSTACK CHALLENGE](https://dev.to/harsh432004/aws-amplify-fullstack-challenge-37fc)
-- [A PAGE TALKS ABOUT &lpar;The Glimpse, Accessibility @evaluation&rpar;](https://dev.to/rewirebyautomation/a-page-talks-about-the-glimpse-accessibility-evaluation-dp)
+- [Is Life without Screens Possible?](https://dev.to/devteam/is-life-without-screens-possible-5fb1)
+- [Find First and Last Position of Element in Sorted Array | LeetCode | Java](https://dev.to/tanujav/find-first-and-last-position-of-element-in-sorted-array-leetcode-java-1aaj)
+- [Mastering the job hunting strategy: Tips for aspiring developers.](https://dev.to/terrancoder/mastering-the-job-hunting-strategy-tips-for-aspiring-developers-5b7m)
+- [Effective living for better coding, Successful Career Change and landing a job](https://dev.to/terrancoder/effective-living-for-better-coding-successful-career-change-and-landing-a-job-k1g)
+- [Unlock your career in data analytics 2024](https://dev.to/onumaku_bobby/unlock-your-career-in-data-analytics-2024-2ij8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
