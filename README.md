@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [F# For Dummys - Day 0](https://dev.to/pythonzhu/f-for-dummys-day-0-1lb)
-- [How to Use Memoization in React for Better Performance](https://dev.to/nfragiskatos/how-to-use-memoization-in-react-for-better-performance-1277)
-- [Day 1 💎 Get the latest programmer humor meme](https://dev.to/ashgkwd/day-1-get-the-latest-programmer-humor-meme-37cl)
-- [Day 15: Promise](https://dev.to/codernko/day-15-promise-35kc)
-- [Understanding React Server Component](https://dev.to/chauhoangminhnguyen/understanding-react-server-component-4hjc)
+- [How to Prevent Sudden Crashes of Eclipse IDE on Ubuntu](https://dev.to/toindranildutta/how-to-prevent-sudden-crashes-of-eclipse-ide-on-ubuntu-5bnl)
+- [How Does Google Treat AI Content?](https://dev.to/scrumdigital/how-does-google-treat-ai-content-2j9o)
+- [Vitest setup with serverless framework: Node.js Express.js](https://dev.to/abdul_165bf98345e29aea8ef/vitest-setup-with-serverless-framework-nodejs-expressjs-550c)
+- [Write a backend server, and you get an Admin Dashboard for free!](https://dev.to/victeoteokw/write-a-backend-server-and-you-get-an-admin-dashboard-for-free-2f5p)
+- [Build Your Own React.js in 400 Lines of Code](https://dev.to/zacharylee/build-your-own-reactjs-in-400-lines-of-code-3l1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
