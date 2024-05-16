@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Use the Brower Developer Tools!](https://dev.to/weseek-inc/lets-use-the-brower-developer-tools-1844)
-- [7 Best Chart Libraries For Developers In 2024 🤯](https://dev.to/latitude/7-best-chart-libraries-for-developers-in-2024-25he)
-- [How to activate open source communities](https://dev.to/codexhyun/how-to-activate-open-source-communities-2mb9)
-- [How to Master Go File I/O in 4 Weeks](https://dev.to/zone01kisumu/how-to-master-go-file-io-in-4-weeks-27b)
-- [Crafting an Effective Marketing Strategy: Mastering Follow-Up Emails, CTAs, Keyword Research, and More](https://dev.to/blogsx/crafting-an-effective-marketing-strategy-mastering-follow-up-emails-ctas-keyword-research-and-more-3hke)
+- [Mapped Object Types](https://dev.to/scottpony/mapped-object-types-3o0p)
+- [Building your own ChatGPT Graphical Client with NextJS and Wing 🤯](https://dev.to/winglang/building-your-own-chatgpt-graphical-client-with-nextjs-and-wing-29jj)
+- [The World of 3D Asset Management](https://dev.to/msmith99994/the-world-of-3d-asset-management-4975)
+- [How to shuffle an array in JavaScript](https://dev.to/bybydev/how-to-shuffle-an-array-in-javascript-3efd)
+- [I Thought I was All okay Until I Realized I need More practice.](https://dev.to/santosh_mal_e04929dbf920e/i-thought-i-was-all-okay-until-i-realized-i-need-more-practice-437p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
