@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🕔 This 5-Hour Rule Can Change Your Coding Habits Forever](https://dev.to/evergrowingdev/this-5-hour-rule-can-change-your-coding-habits-forever-1n0e)
-- [file extension from byte array](https://dev.to/ajit_singh_3adb4debf5b324/file-extension-from-byte-array-2lm9)
-- [The Problem Docker Solves: Beginner&#39;s Introduction to Docker](https://dev.to/drintech/the-problem-docker-solves-beginners-introduction-to-docker-2bfa)
-- [Montrez patte blanche : tuez des mutants !](https://dev.to/stack-labs/montrez-patte-blanche-tuez-des-mutants--12el)
-- [Using Digital Ocean Spaces as Strapi Storage](https://dev.to/mohammadfaisal/using-digital-ocean-spaces-as-strapi-storage-4agk)
+- [The Beans Picker Bot 1: Tech-Humor By FEMI](https://dev.to/femolacaster/the-beans-picker-bot-1-tech-humor-by-femi-42o1)
+- [Do you Know Only Fools Use APIs Doc Platform?](https://dev.to/scofieldidehen/do-you-know-only-fools-use-apis-doc-platform-2afg)
+- [Exploring Controlled and Uncontrolled Components in React](https://dev.to/nikuwadaskar/exploring-controlled-and-uncontrolled-components-in-react-24gl)
+- [GIT for newbie &lpar;PART 1&rpar;](https://dev.to/arunkrish11/git-for-newbie-part-1-1l8b)
+- [How to send emails using Python and SMTP server](https://dev.to/anuragrana/how-to-send-emails-using-python-and-smtp-server-37ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
