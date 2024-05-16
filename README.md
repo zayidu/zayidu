@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Beans Picker Bot 1: Tech-Humor By FEMI](https://dev.to/femolacaster/the-beans-picker-bot-1-tech-humor-by-femi-42o1)
-- [Do you Know Only Fools Use APIs Doc Platform?](https://dev.to/scofieldidehen/do-you-know-only-fools-use-apis-doc-platform-2afg)
-- [Exploring Controlled and Uncontrolled Components in React](https://dev.to/nikuwadaskar/exploring-controlled-and-uncontrolled-components-in-react-24gl)
-- [GIT for newbie &lpar;PART 1&rpar;](https://dev.to/arunkrish11/git-for-newbie-part-1-1l8b)
-- [How to send emails using Python and SMTP server](https://dev.to/anuragrana/how-to-send-emails-using-python-and-smtp-server-37ki)
+- [Let&#39;s Use the Brower Developer Tools!](https://dev.to/weseek-inc/lets-use-the-brower-developer-tools-1844)
+- [7 Best Chart Libraries For Developers In 2024 🤯](https://dev.to/latitude/7-best-chart-libraries-for-developers-in-2024-25he)
+- [How to activate open source communities](https://dev.to/codexhyun/how-to-activate-open-source-communities-2mb9)
+- [How to Master Go File I/O in 4 Weeks](https://dev.to/zone01kisumu/how-to-master-go-file-io-in-4-weeks-27b)
+- [Crafting an Effective Marketing Strategy: Mastering Follow-Up Emails, CTAs, Keyword Research, and More](https://dev.to/blogsx/crafting-an-effective-marketing-strategy-mastering-follow-up-emails-ctas-keyword-research-and-more-3hke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
