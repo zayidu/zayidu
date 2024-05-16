@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to set up HTMX in Django](https://dev.to/agarjoshua/how-to-set-up-htmx-in-django-307f)
-- [WebSockets](https://dev.to/jay818/websockets-1dke)
-- [Composable Architecture](https://dev.to/msmith99994/composable-architecture-21eb)
-- [Now I get NeoVim](https://dev.to/hundrog/now-i-get-neovim-do5)
-- [Debugging with Precision: Conditional Breakpoints](https://dev.to/vanessa_zaremba/debugging-with-precision-conditional-breakpoints-2nmo)
+- [Setting Up Your Mock Server with Mockingbird](https://dev.to/ozkeisar/setting-up-your-mock-server-with-mockingbird-1b72)
+- [Cloud Optimization: AWS Lambda vs. EC2](https://dev.to/jakeinthecloud/cloud-optimization-aws-lambda-vs-ec2-2ki4)
+- [Comment ajouter un chat en temps réel à votre jeu Unity](https://dev.to/pubnub-fr/comment-ajouter-un-chat-en-temps-reel-a-votre-jeu-unity-a4b)
+- [My Second project Guessing Number Game](https://dev.to/usaid4150/my-second-project-guessing-number-game-3mi8)
+- [Variable](https://dev.to/kamran_maharaz_e491192b9d/variable-2hg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
