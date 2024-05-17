@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Django 8: Implementing the game in Player vs Player](https://dev.to/doctorserone/django-8-implementing-the-game-in-player-vs-player-ji0)
-- [Eclipse Windows &gt; Preferences not show option TypeScript](https://dev.to/chia_skinthccucs/eclipse-windows-preferences-not-show-option-typescript-4le1)
-- [How to Boost Image Loading Speed in Your Angular 17 App](https://dev.to/bytebantz/how-to-boost-image-loading-speed-in-your-angular-17-app-513)
-- [how i can click a child element inside of element ?](https://dev.to/trit_giang_1b4ae9067df33/how-i-can-click-a-child-element-inside-of-element--1m1k)
-- [F# For Dummys - Day 6](https://dev.to/pythonzhu/f-for-dummys-day-6-2cpj)
+- [Dev: Back-end](https://dev.to/r4nd3l/dev-back-end-nej)
+- [Burnout Warning Signs: What We Often Overlook](https://dev.to/arooj/burnout-warning-signs-what-we-often-overlook-4oj2)
+- [Demystifying JavaScript Execution Context: A Beginner&#39;s Guide](https://dev.to/jps27cse/demystifying-javascript-execution-context-a-beginners-guide-47i5)
+- [GitHub and EC2 manual deployment with Deploy keys](https://dev.to/said7388/github-and-ec2-manual-deployment-with-deploy-keys-397d)
+- [Adding an Amazon Bedrock Knowledge Base to the Forex Rate Assistant](https://dev.to/aws-builders/adding-an-amazon-bedrock-knowledge-base-to-the-forex-rate-assistant-488f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
