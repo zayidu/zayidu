@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Using A Paper Notebook in App Development](https://dev.to/paperprogramming/the-art-of-using-a-paper-notebook-in-app-development-19c1)
-- [Gestió Integral de la Seguretat al Núvol amb AWS Security Hub](https://dev.to/gcjordi/gestio-integral-de-la-seguretat-al-nuvol-amb-aws-security-hub-5fdd)
-- [Enabling Cross-Account Access for AWS Lake Formation with Data Filters Using Terraform](https://dev.to/thulasirajkomminar/enabling-cross-account-access-for-lake-formation-with-data-filters-using-terraform-38d1)
-- [[ptbr] Consumir Funções do PostGIS direto do Python](https://dev.to/maurojosedmjr/ptbr-consumir-funcoes-do-postgis-direto-do-python-pcp)
-- [BeatSyncSolution: Origin Story](https://dev.to/mileskj/beatsyncsolution-origin-story-29m3)
+- [Removendo Dados Sensiveis de Images](https://dev.to/r9n/removendo-dados-sensiveis-de-images-2k0e)
+- [Nueva ventana](https://dev.to/srparis/nueva-ventana-531b)
+- [Event Loop part 2](https://dev.to/ylanzinhoy/event-loop-part-2-2jib)
+- [Glimmer DSL for Web Ruby Integration with JavaScript Libraries](https://dev.to/andyobtiva/glimmer-dsl-for-web-ruby-integration-with-javascript-libraries-1b32)
+- [Python Multithreading: Unlocking Concurrency](https://dev.to/wallaceespindola/python-multithreading-unlocking-concurrency-4gho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
