@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [8 new technology trends and methodologies for app modernization](https://dev.to/gem_corporation/8-new-technology-trends-and-methodologies-for-app-modernization-3e20)
-- [Split screen left , right and bottom . But bottom should be moved to left side.](https://dev.to/ajay_babu_4fef98fd4857104/split-screen-left-right-and-bottom-but-bottom-should-be-moved-to-left-side-18eo)
-- [Uploading big files at amazon sagemaker jupyter Lab](https://dev.to/hassaan68/uploading-big-files-at-amazon-sagemaker-jupyter-lab-300b)
-- [Kotlin DSL: Configurando JaCoco](https://dev.to/klinsmannlopes/kotlin-dsl-configurando-jacoco-em-um-projeto-jvm-4j00)
-- [How to Choose the Right MQTT Database](https://dev.to/reductstore/how-to-choose-the-right-mqtt-database-2enn)
+- [From Zero to Hero: Disaster Recovery for PostgreSQL with Streaming Replication in Kubernetes](https://dev.to/spronin/from-zero-to-hero-disaster-recovery-for-postgresql-with-streaming-replication-in-kubernetes-2g96)
+- [Shopify - send file to shop with Ruby on Rails](https://dev.to/xao0isb/shopify-send-file-to-shop-with-ruby-on-rails-44i7)
+- [TCP vs UDP with Node.js Examples](https://dev.to/kernelrb/tcp-vs-udp-with-nodejs-examples-43oc)
+- [Inside the Box: April Community Update](https://dev.to/codesandboxio/inside-the-box-april-community-update-1074)
+- [Master Web Components: Create and Host Your Own](https://dev.to/growwwithtalha/master-web-components-create-and-host-your-own-4p7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
