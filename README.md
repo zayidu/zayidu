@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Pixels to People: Redefining UX for Social Impact](https://dev.to/yujofficial/from-pixels-to-people-redefining-ux-for-social-impact-4nac)
-- [React 19 new features and improvements](https://dev.to/ricardogesteves/react-19-new-features-and-improvements-2fk6)
-- [Announcing the 2024 Browser Conference](https://dev.to/browserless/announcing-the-2024-browser-conference-3o17)
-- [AWS EC2 Guide](https://dev.to/hungrushb/aws-ec2-guide-ef5)
-- [Handling HTTP Status Codes in a REST API &lpar;200 OK vs. 201 Created&rpar;](https://dev.to/msnmongare/handling-http-status-codes-in-a-rest-api-200-ok-vs-201-created-28d)
+- [8 new technology trends and methodologies for app modernization](https://dev.to/gem_corporation/8-new-technology-trends-and-methodologies-for-app-modernization-3e20)
+- [Split screen left , right and bottom . But bottom should be moved to left side.](https://dev.to/ajay_babu_4fef98fd4857104/split-screen-left-right-and-bottom-but-bottom-should-be-moved-to-left-side-18eo)
+- [Uploading big files at amazon sagemaker jupyter Lab](https://dev.to/hassaan68/uploading-big-files-at-amazon-sagemaker-jupyter-lab-300b)
+- [Kotlin DSL: Configurando JaCoco](https://dev.to/klinsmannlopes/kotlin-dsl-configurando-jacoco-em-um-projeto-jvm-4j00)
+- [How to Choose the Right MQTT Database](https://dev.to/reductstore/how-to-choose-the-right-mqtt-database-2enn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
