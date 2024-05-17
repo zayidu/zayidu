@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a CRUD App with Prisma ORM &amp; Node Js](https://dev.to/arindam_1729/create-a-crud-app-with-prisma-orm-node-js-34b1)
-- [java decoder encoder](https://dev.to/mustafacam/java-decoder-encoder-5afb)
-- [Content Hub: Complete guide to a centralized source](https://dev.to/momciloo/content-hub-complete-guide-to-a-centralized-source-682)
-- [java static](https://dev.to/mustafacam/java-static-6i)
-- [java final](https://dev.to/mustafacam/java-final-49cg)
+- [Front-End Web Design: Beginner’s Guide](https://dev.to/apidna/front-end-web-design-beginners-guide-2o58)
+- [LinkedList, ArrayList](https://dev.to/mustafacam/linkedlist-arraylist-50o)
+- [API open-source para enviar mensagens no Whatsapp](https://dev.to/tiagopaes/api-open-source-para-enviar-mensagens-no-whatsapp-2026)
+- [How to adapt my arrow to my slider?](https://dev.to/raz41/how-to-adapt-my-arrow-to-my-slider-3h3p)
+- [Low Level Design - Logging Framework](https://dev.to/ahmedadel/low-level-design-logging-framework-n12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
