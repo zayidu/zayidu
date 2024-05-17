@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ Laravel Queues: Rate-Limiting jobs](https://dev.to/ionbazan/laravel-queues-rate-limiting-jobs-14m3)
-- [Confessions of a Serial Debugger 🐛💻](https://dev.to/buildwebcrumbs/confessions-of-a-serial-debugger-4hjn)
-- [pyaction 4.30.0 Released](https://dev.to/cicirello/pyaction-4300-released-2ig7)
-- [Handle Clerk Authentication for back-end in TRPC + Next.js](https://dev.to/harit_joshi_54274da5caf60/handle-clerk-authentication-for-back-end-in-trpc-nextjs-2fek)
-- [Best PHP Form Builder Software](https://dev.to/softdiscover/best-php-form-builder-software-1fa0)
+- [TryHackMe IR Philosophy and Ethics Walkthrough](https://dev.to/yowise/tryhackme-ir-philosophy-and-ethics-walkthrough-343b)
+- [Exploring fields of Zigaform Estimator Form Builder](https://dev.to/softdiscover/exploring-fields-of-zigaform-estimator-form-builder-368l)
+- [HydePHP - According to GPT-4o](https://dev.to/codewithcaen/hydephp-according-to-gpt-4o-1cmp)
+- [📚 How to see what changed in Composer files](https://dev.to/ionbazan/how-to-see-what-changed-in-composer-files-1ih6)
+- [How to install Wordpress Cost Estimation Form builder by Zigaform](https://dev.to/softdiscover/how-to-install-wordpress-cost-estimation-form-builder-2lli)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
