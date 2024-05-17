@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 easy tips to improve your personal website performance](https://dev.to/whitep4nth3r/5-easy-tips-to-improve-your-personal-website-performance-32ng)
-- [Apply for Apache Answer’s Project at OSPP 2024](https://dev.to/answerdev/apply-for-apache-answers-project-at-ospp-2024-59nk)
-- [How to create a sidebar navigation with Astro, Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-sidebar-navigation-with-astro-tailwind-css-and-javascript-1lo1)
-- [Work for It: The Pathway to Your Greatest Achievements](https://dev.to/devdiscove19083/work-for-it-the-pathway-to-your-greatest-achievements-10b2)
-- [Data Sync in JuiceFS 1.2: Enhanced Selective Sync and Performance Optimizations](https://dev.to/daswu/data-sync-in-juicefs-12-enhanced-selective-sync-and-performance-optimizations-1o30)
+- [Leveraging force_save in Odoo for Boolean Fields Dependent on onchange Methods](https://dev.to/jeevanizm/leveraging-forcesave-in-odoo-for-boolean-fields-dependent-on-onchange-methods-1p7c)
+- [peviitor.ro pe Discord](https://dev.to/ale23yfm/peviitorro-pe-discord-go7)
+- [What is Terratest and How to Use it](https://dev.to/spacelift/what-is-terratest-and-how-to-use-it-1f8f)
+- [Decentralized Autonomous Cooperative in Nepal, Is it possible with blockchain?](https://dev.to/swikar_sharma_aebc309f56f/decentralized-autonomous-cooperative-in-nepal-is-it-possible-with-blockchain-3p8a)
+- [7 common pitfalls in JSON operations in Golang](https://dev.to/brucedu521/7-common-pitfalls-in-json-operations-in-golang-3693)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
