@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pointers are a Double-Edged Sword](https://dev.to/alirostami/pointers-are-a-double-edged-sword-60f)
-- [The Benefits of Opting Out from Using OfficialUSA.com](https://dev.to/beingoptimists/the-benefits-of-opting-out-from-using-officialusacom-3cpf)
-- [Mastering Error Messages: A Junior Developer&#39;s Journey to Decoding Console Errors](https://dev.to/daffydanni__/mastering-error-messages-a-junior-developers-journey-to-decoding-console-errors-4c9)
-- [Don&#39;t Use Coding Assistances a Lot!](https://dev.to/ghalbeyou/dont-use-coding-assistances-a-lot-hem)
-- [vite build accessing system environment variables](https://dev.to/roshanpshajan/vite-build-accessing-system-environment-variables-41an)
+- [GET File&lpar;s&rpar; from a GitHub Commit ID](https://dev.to/sh20raj/get-files-from-a-github-commit-id-1alh)
+- [10+ Best Open Source Icon Libraries in 2024](https://dev.to/masumparvej/10-best-open-source-icon-libraries-3pf6)
+- [ChatGPT Prompts for developers](https://dev.to/techiesdiary/chatgpt-prompts-for-developers-216d)
+- [Ensuring Optimal Performance: A Deep Dive into Functional Testing of Automotive Infotainment Devices](https://dev.to/abhayit2000/ensuring-optimal-performance-a-deep-dive-into-functional-testing-of-automotive-infotainment-devices-kgb)
+- [How to check if a variable is list in Python](https://dev.to/bybydev/how-to-check-if-a-variable-is-list-in-python-2e5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
