@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Do not Reinvent the Wheel: Utilize Django’s Built-in Auth App to Create a Robust Authentication System](https://dev.to/odhiambo/do-not-reinvent-the-wheel-utilize-djangos-built-in-auth-app-to-create-a-robust-authentication-system-4840)
-- [Keybindings in Terminal in VS Code](https://dev.to/h3h/keybindings-in-terminal-in-vs-code-1lo7)
-- [Sending SMS Messages with Python and ClickSend](https://dev.to/foysal365/sending-sms-messages-with-python-and-clicksend-phl)
-- [Diving into ReactJS: Understanding the Magic Behind Client and Server Routing.](https://dev.to/barakkenny2/diving-into-reactjs-understanding-the-magic-behind-client-and-server-routing-12ie)
-- [How I fixed this Next.js error: Refused to load the script because it violate Content Security Policy directive](https://dev.to/ramunarasinga/how-i-fixed-this-nextjs-error-refused-to-load-the-script-because-it-violate-content-security-policy-directive-37b4)
+- [10 Essential Questions to Ask When Starting with NumPy Data Manipulation](https://dev.to/marcconci/10-essential-questions-to-ask-when-starting-with-numpy-data-manipulation-da6)
+- [Introduction to Natural Language Processing with NLTK](https://dev.to/kartikmehta8/introduction-to-natural-language-processing-with-nltk-4o34)
+- [Main type of routers](https://dev.to/d0we007/main-type-of-routers-4o88)
+- [Explicit Resource Management in JS: The using Keyword](https://dev.to/zacharylee/explicit-resource-management-in-js-the-using-keyword-d9f)
+- [Stable Cascade Full Tutorial for Windows, Massed Compute, RunPod &amp; Kaggle — Predecessor of SD3 — 1-Click Install](https://dev.to/furkangozukara/stable-cascade-full-tutorial-for-windows-massed-compute-runpod-kaggle-predecessor-of-sd3-1-click-install-2j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
