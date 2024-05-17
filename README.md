@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting start with Tables using Next.js, Tanstack Table and Typescript](https://dev.to/franciscolunadev82/getting-start-with-tables-using-nextjs-tanstack-table-and-typescript-2aig)
-- [Understanding Node.js: A Comprehensive Guide](https://dev.to/abhayradadiya_59/understanding-nodejs-a-comprehensive-guide-onh)
-- [Optimizing MySQL Database Performance: Identifying and Managing Long Queries](https://dev.to/dm8ry/optimizing-mysql-database-performance-identifying-and-managing-long-queries-3da5)
-- [Implementing GraphRAG for Query-Focused Summarization](https://dev.to/stephenc222/implementing-graphrag-for-query-focused-summarization-47ib)
-- [C# dasturlash tili | Record haqida](https://dev.to/ozodbek_soft/c-dasturlash-tili-record-haqida-2o7i)
+- [How to Get a Dev Job](https://dev.to/thekarlesi/how-to-get-a-dev-job-3806)
+- [Unified Stream and Batch Processing of WorldQuant 101 Alphas in DolphinDB](https://dev.to/dolphindb/unified-stream-and-batch-processing-of-worldquant-101-alphas-in-dolphindb-3def)
+- [Helpful Tools for Quant丨Efficiently Calculate Transaction Costs from Tick Data](https://dev.to/dolphindb/helpful-tools-for-quantgun-efficiently-calculate-transaction-costs-from-tick-data-58h4)
+- [Time Zones in DolphinDB](https://dev.to/dolphindb/time-zones-in-dolphindb-4fe)
+- [1325. Delete Leaves With a Given Value](https://dev.to/karleb/1325-delete-leaves-with-a-given-value-4fc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
