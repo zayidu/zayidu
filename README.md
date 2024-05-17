@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Hero: Disaster Recovery for PostgreSQL with Streaming Replication in Kubernetes](https://dev.to/spronin/from-zero-to-hero-disaster-recovery-for-postgresql-with-streaming-replication-in-kubernetes-2g96)
-- [Shopify - send file to shop with Ruby on Rails](https://dev.to/xao0isb/shopify-send-file-to-shop-with-ruby-on-rails-44i7)
-- [TCP vs UDP with Node.js Examples](https://dev.to/kernelrb/tcp-vs-udp-with-nodejs-examples-43oc)
-- [Inside the Box: April Community Update](https://dev.to/codesandboxio/inside-the-box-april-community-update-1074)
-- [Master Web Components: Create and Host Your Own](https://dev.to/growwwithtalha/master-web-components-create-and-host-your-own-4p7h)
+- [Pointers are a Double-Edged Sword](https://dev.to/alirostami/pointers-are-a-double-edged-sword-60f)
+- [The Benefits of Opting Out from Using OfficialUSA.com](https://dev.to/beingoptimists/the-benefits-of-opting-out-from-using-officialusacom-3cpf)
+- [Mastering Error Messages: A Junior Developer&#39;s Journey to Decoding Console Errors](https://dev.to/daffydanni__/mastering-error-messages-a-junior-developers-journey-to-decoding-console-errors-4c9)
+- [Don&#39;t Use Coding Assistances a Lot!](https://dev.to/ghalbeyou/dont-use-coding-assistances-a-lot-hem)
+- [vite build accessing system environment variables](https://dev.to/roshanpshajan/vite-build-accessing-system-environment-variables-41an)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
