@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev: Back-end](https://dev.to/r4nd3l/dev-back-end-nej)
-- [Burnout Warning Signs: What We Often Overlook](https://dev.to/arooj/burnout-warning-signs-what-we-often-overlook-4oj2)
-- [Demystifying JavaScript Execution Context: A Beginner&#39;s Guide](https://dev.to/jps27cse/demystifying-javascript-execution-context-a-beginners-guide-47i5)
-- [GitHub and EC2 manual deployment with Deploy keys](https://dev.to/said7388/github-and-ec2-manual-deployment-with-deploy-keys-397d)
-- [Adding an Amazon Bedrock Knowledge Base to the Forex Rate Assistant](https://dev.to/aws-builders/adding-an-amazon-bedrock-knowledge-base-to-the-forex-rate-assistant-488f)
+- [The Rise of AI in Web Design: 5 Game-Changing Ways AI is Revolutionizing the Industry](https://dev.to/delia_code/the-rise-of-ai-in-web-design-5-game-changing-ways-ai-is-revolutionizing-the-industry-24ke)
+- [Free Web Development Course](https://dev.to/kuvindu_damvin/free-web-development-course-2512)
+- [How to dynamically set the min and max values of the progressBar type in the VTable component?](https://dev.to/fangsmile/how-to-dynamically-set-the-min-and-max-values-of-the-progressbar-type-in-the-vtable-component-484e)
+- [Can the VTable component be drag-and-drop to swap rows?](https://dev.to/fangsmile/can-the-vtable-component-be-drag-and-drop-to-swap-rows-172n)
+- [𝗔 𝗕𝗿𝗶𝗲𝗳 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄 𝗼𝗳 𝗝𝗮𝘃𝗮 𝟭.𝟴](https://dev.to/minduladilthushan/-41ip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
