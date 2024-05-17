@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing GraphRAG for Query-Focused Summarization](https://dev.to/stephenc222/implementing-graphrag-for-query-focused-summarization-47ib)
+- [C# dasturlash tili | Record haqida](https://dev.to/ozodbek_soft/c-dasturlash-tili-record-haqida-2o7i)
+- [Python. Flipping Calendars.](https://dev.to/dm8ry/python-flipping-calendars-22f5)
+- [Login problem - cant read get_current_active_user over dependency in student route.](https://dev.to/nemsho_82acce26316/login-problem-cant-read-getcurrentactiveuser-over-dependency-in-student-route-47g8)
 - [10 Essential Questions to Ask When Starting with NumPy Data Manipulation](https://dev.to/marcconci/10-essential-questions-to-ask-when-starting-with-numpy-data-manipulation-da6)
-- [Introduction to Natural Language Processing with NLTK](https://dev.to/kartikmehta8/introduction-to-natural-language-processing-with-nltk-4o34)
-- [Main type of routers](https://dev.to/d0we007/main-type-of-routers-4o88)
-- [Explicit Resource Management in JS: The using Keyword](https://dev.to/zacharylee/explicit-resource-management-in-js-the-using-keyword-d9f)
-- [Stable Cascade Full Tutorial for Windows, Massed Compute, RunPod &amp; Kaggle — Predecessor of SD3 — 1-Click Install](https://dev.to/furkangozukara/stable-cascade-full-tutorial-for-windows-massed-compute-runpod-kaggle-predecessor-of-sd3-1-click-install-2j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
