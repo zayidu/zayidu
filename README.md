@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging force_save in Odoo for Boolean Fields Dependent on onchange Methods](https://dev.to/jeevanizm/leveraging-forcesave-in-odoo-for-boolean-fields-dependent-on-onchange-methods-1p7c)
-- [peviitor.ro pe Discord](https://dev.to/ale23yfm/peviitorro-pe-discord-go7)
-- [What is Terratest and How to Use it](https://dev.to/spacelift/what-is-terratest-and-how-to-use-it-1f8f)
-- [Decentralized Autonomous Cooperative in Nepal, Is it possible with blockchain?](https://dev.to/swikar_sharma_aebc309f56f/decentralized-autonomous-cooperative-in-nepal-is-it-possible-with-blockchain-3p8a)
-- [7 common pitfalls in JSON operations in Golang](https://dev.to/brucedu521/7-common-pitfalls-in-json-operations-in-golang-3693)
+- [From Pixels to People: Redefining UX for Social Impact](https://dev.to/yujofficial/from-pixels-to-people-redefining-ux-for-social-impact-4nac)
+- [React 19 new features and improvements](https://dev.to/ricardogesteves/react-19-new-features-and-improvements-2fk6)
+- [Announcing the 2024 Browser Conference](https://dev.to/browserless/announcing-the-2024-browser-conference-3o17)
+- [AWS EC2 Guide](https://dev.to/hungrushb/aws-ec2-guide-ef5)
+- [Handling HTTP Status Codes in a REST API &lpar;200 OK vs. 201 Created&rpar;](https://dev.to/msnmongare/handling-http-status-codes-in-a-rest-api-200-ok-vs-201-created-28d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
