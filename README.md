@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-End Web Design: Beginner’s Guide](https://dev.to/apidna/front-end-web-design-beginners-guide-2o58)
-- [LinkedList, ArrayList](https://dev.to/mustafacam/linkedlist-arraylist-50o)
-- [API open-source para enviar mensagens no Whatsapp](https://dev.to/tiagopaes/api-open-source-para-enviar-mensagens-no-whatsapp-2026)
-- [How to adapt my arrow to my slider?](https://dev.to/raz41/how-to-adapt-my-arrow-to-my-slider-3h3p)
-- [Low Level Design - Logging Framework](https://dev.to/ahmedadel/low-level-design-logging-framework-n12)
+- [Securing the Cloud #29](https://dev.to/8carroll/securing-the-cloud-29-12o3)
+- [How to Enable Named Pipe Activation in Windows 11?](https://dev.to/winsidescom/how-to-enable-named-pipe-activation-in-windows-11-5djb)
+- [Anywho.com Review: A Comprehensive Look at the Popular People Search Site](https://dev.to/beingoptimists/anywhocom-review-a-comprehensive-look-at-the-popular-people-search-site-n0p)
+- [API Gateway Security: Guarding the Gates of Your Microservices Empire](https://dev.to/syncloop_dev/api-gateway-security-guarding-the-gates-of-your-microservices-empire-48he)
+- [Java POJO](https://dev.to/mustafacam/java-pojo-10fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
