@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Removendo Dados Sensiveis de Images](https://dev.to/r9n/removendo-dados-sensiveis-de-images-2k0e)
-- [Nueva ventana](https://dev.to/srparis/nueva-ventana-531b)
-- [Event Loop part 2](https://dev.to/ylanzinhoy/event-loop-part-2-2jib)
-- [Glimmer DSL for Web Ruby Integration with JavaScript Libraries](https://dev.to/andyobtiva/glimmer-dsl-for-web-ruby-integration-with-javascript-libraries-1b32)
-- [Python Multithreading: Unlocking Concurrency](https://dev.to/wallaceespindola/python-multithreading-unlocking-concurrency-4gho)
+- [Elanat CMS 2.2, Ability to Replace Pages Before Response](https://dev.to/elanatframework/elanat-cms-22-ability-to-replace-pages-before-response-234n)
+- [Simplifying Web Forms with the FormData Web API](https://dev.to/wdp/simplifying-web-forms-with-the-formdata-web-api-4mb4)
+- [Introduction to Testing in Node.js](https://dev.to/presh_dev/introduction-to-testing-in-nodejs-3odj)
+- [Introduction to Testing in Node.js](https://dev.to/presh_dev/introduction-to-testing-in-nodejs-5b54)
+- [Starting Right: How Morning Preparation Enhances Daily Productivity &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/starting-right-how-morning-preparation-enhances-daily-productivity-bite-size-article-3mj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
