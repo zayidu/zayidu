@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TryHackMe IR Philosophy and Ethics Walkthrough](https://dev.to/yowise/tryhackme-ir-philosophy-and-ethics-walkthrough-343b)
-- [Exploring fields of Zigaform Estimator Form Builder](https://dev.to/softdiscover/exploring-fields-of-zigaform-estimator-form-builder-368l)
-- [HydePHP - According to GPT-4o](https://dev.to/codewithcaen/hydephp-according-to-gpt-4o-1cmp)
-- [📚 How to see what changed in Composer files](https://dev.to/ionbazan/how-to-see-what-changed-in-composer-files-1ih6)
-- [How to install Wordpress Cost Estimation Form builder by Zigaform](https://dev.to/softdiscover/how-to-install-wordpress-cost-estimation-form-builder-2lli)
+- [Configuring Security Settings in Umbraco: A Comprehensive Guide](https://dev.to/shekhartarare/configuring-security-settings-in-umbraco-a-comprehensive-guide-5361)
+- [Get ChatGPT Equivalent in Under 5 Minutes with Ollama &amp; Open WebUI](https://dev.to/tanguy_chenier/get-chatgpt-equivalent-in-under-5-minutes-with-ollama-open-webui-271e)
+- [Method References](https://dev.to/mustafacam/method-references-3981)
+- [Introducing Pieces Copilot+, now with Live Context](https://dev.to/get_pieces/introducing-pieces-copilot-now-with-live-context-4ho9)
+- [Underfitting and Overfitting Concepts in Machine Learning](https://dev.to/praneshcodecraft/underfitting-and-overfitting-concepts-in-machine-learning-5178)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
