@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to ship code fast: Like a 10x developer](https://dev.to/tecnosam/how-to-ship-code-fast-like-a-10x-developer-42an)
+- [Summarize a web page using langchain.js and Gemini in a NestJS application](https://dev.to/railsstudent/summarize-a-web-page-using-langchainjs-and-gemini-in-a-nestjs-application-4fjo)
+- [Exploring the Magic of Python&#39;s Random Module](https://dev.to/alvisonhunter/exploring-the-magic-of-pythons-random-module-3i74)
+- [Where is my &quot;Business logic&quot;!?](https://dev.to/gulshan/where-is-my-business-logic-5gpn)
 - [SaaS Multi-Tenant e RBAC com Next.js: Uma Abordagem Moderna para a Gestão de Acessos](https://dev.to/julianoalvescode/saas-multi-tenant-e-rbac-com-nextjs-uma-abordagem-moderna-para-a-gestao-de-acessos-2g2f)
-- [CSS Birthday Cake](https://dev.to/wtfisky/css-birthday-cake-4ad7)
-- [Home Lab: Installing VMware ESXi in a Local Environment](https://dev.to/francotel/home-lab-installing-vmware-esxi-in-a-local-environment-40le)
-- [@New](https://dev.to/mustafacam/new-1eb1)
-- [Complete Guide for Beginners in Web Development](https://dev.to/makwercoutter/complete-guide-for-beginners-in-web-development-481l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
