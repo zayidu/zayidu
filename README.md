@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Conventional Commits](https://dev.to/thiagoanjos/conventional-commits-346l)
-- [How I Entered the World of Programming: A Personal History](https://dev.to/gift_mugweni_1c055b418706/how-i-entered-the-world-of-programming-a-personal-history-peh)
-- [Reflexões sobre SOLID - A Letra &quot;L&quot;](https://dev.to/mdeamp/reflexoes-sobre-solid-a-letra-l-5bm3)
-- [Thoughts about SOLID - The Letter &quot;L&quot;](https://dev.to/mdeamp/thoughts-about-solid-the-letter-l-1egf)
-- [Cloud Newbie Fixing Newbie Problems: Snap](https://dev.to/rossli/cloud-newbie-fixing-newbie-problems-snap-4b63)
+- [Understanding JWT: Basics of Authentication and Algorithms](https://dev.to/sotergreco/understanding-jwt-basics-of-authentication-and-algorithms-37k2)
+- [React Styling: Navigating CSS Specificity and Precedence](https://dev.to/dcs_ink/react-styling-navigating-css-specificity-and-precedence-50oe)
+- [Open Interpreter Quick Setup Guide](https://dev.to/dcs_ink/open-interpreter-quick-setup-guide-1jgh)
+- [Choosing the right tools for the job](https://dev.to/ahegaoburger/choosing-the-right-tools-for-the-job-4g5m)
+- [I love both, but i can&#39;t choose](https://dev.to/mohamadc21/i-love-both-but-i-cant-choose-27lc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
