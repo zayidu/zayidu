@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Basics of Statistics](https://dev.to/ngneha09/basics-of-statistics-5fll)
-- [I created an Open Source Custom Code Editor](https://dev.to/dhanushnehru/i-created-an-open-source-custom-code-editor-f7)
-- [How To Set Up An EC2 Instance on AWS](https://dev.to/david_oyewole/how-to-set-up-an-ec2-instance-on-aws-k2c)
-- [Building a Vue 3 Component Library from Scratch &lpar;Part 3&rpar;: Environment Configuration](https://dev.to/markliu2013/building-a-vue-3-component-library-from-scratch-part-3-environment-configuration-59af)
-- [Works, don&#39;t touch it? Or never ending optimization game?](https://dev.to/dmitryame/works-dont-touch-it-or-never-ending-optimization-game-1aoo)
+- [Avoid intermediate arrays &lpar;parsing strings&rpar; to make you Javascript fast](https://dev.to/alexander-nenashev/avoid-intermediate-arrays-parsing-strings-to-make-you-javascript-fast-5beg)
+- [Python Quiz Program: Building Blocks of My Portfolio](https://dev.to/carlos_gamez_11078c838169/python-quiz-program-building-blocks-of-my-portfolio-24c0)
+- [How to Generate Link Previews in React and Nodejs?](https://dev.to/codegirl0101/how-to-generate-link-previews-in-react-and-nodejs-n6b)
+- [Migrating to Spring Boot 3.0 and Java 17: A Comprehensive Guide](https://dev.to/nichetti/migrating-to-spring-boot-30-and-java-17-a-comprehensive-guide-2pbn)
+- [React JS with Yarn 4](https://dev.to/prateekwayne/react-js-with-yarn-4-4a2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
