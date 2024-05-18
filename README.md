@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JWT: Basics of Authentication and Algorithms](https://dev.to/sotergreco/understanding-jwt-basics-of-authentication-and-algorithms-37k2)
-- [React Styling: Navigating CSS Specificity and Precedence](https://dev.to/dcs_ink/react-styling-navigating-css-specificity-and-precedence-50oe)
-- [Open Interpreter Quick Setup Guide](https://dev.to/dcs_ink/open-interpreter-quick-setup-guide-1jgh)
-- [Choosing the right tools for the job](https://dev.to/ahegaoburger/choosing-the-right-tools-for-the-job-4g5m)
-- [I love both, but i can&#39;t choose](https://dev.to/mohamadc21/i-love-both-but-i-cant-choose-27lc)
+- [Using 11ty and DecapCMS for &#39;non-blog&#39; static websites -pt 2 Pages](https://dev.to/ayush_saran/using-11ty-and-decapcms-for-non-blog-static-websites-pt-2-pages-5d4i)
+- [The Broken Window in Software Projects](https://dev.to/douglasmakey/the-broken-window-in-software-projects-kka)
+- [CI/CD to automate deployments to Kubernetes on DigitalOcean using Github Actions](https://dev.to/prkagrawal/cicd-to-automate-deployments-to-kubernetes-on-digitalocean-using-github-actions-4592)
+- [Creating a Dynamic Form Page in Angular: A Case Study](https://dev.to/mateuscechetto/creating-a-dynamic-form-page-in-angular-a-case-study-24oe)
+- [Using 11ty and DecapCMS for &#39;non-blog&#39; static websites -pt 1 Menus](https://dev.to/ayush_saran/using-11ty-and-decapcms-for-non-blog-static-websites-pt-1-menus-1mof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
