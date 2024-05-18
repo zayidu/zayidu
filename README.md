@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux pip install problems](https://dev.to/kazure/linux-pip-install-problems-1cp1)
-- [Software Engineering Principles Every backend Developer Should Know](https://dev.to/nikhilxd/software-engineering-principles-every-backend-developer-should-know-3j7c)
-- [Understanding Indexing and Slicing in NumPy Arrays](https://dev.to/lohith0512/understanding-indexing-and-slicing-in-numpy-arrays-39ag)
-- [🚀 5 Reasons Why Callgent is Revolutionizing Business Operations](https://dev.to/callgent/5-reasons-why-callgent-is-revolutionizing-business-operations-opp)
-- [Advantages of Outsourcing Server Management](https://dev.to/supportfly/advantages-of-outsourcing-server-management-4lk8)
+- [How to inverse a matrix in C#](https://dev.to/rk042/how-to-inverse-a-matrix-in-c-12jg)
+- [Building a Vue 3 Component Library from Scratch &lpar;Part 2&rpar;: Monorepo](https://dev.to/markliu2013/building-a-vue-3-component-library-from-scratch-part-2-monorepo-4oo8)
+- [Next Js TopLoader :- Add TopLoader to NextJS App Router](https://dev.to/sh20raj/next-js-toploader-add-toploader-to-nextjs-app-router-1m8g)
+- [Vue 3: Extending entire CSS/SCSS files to the children of a scoped parent component using :deep&lpar;&rpar;](https://dev.to/jeky1950/vue-3-extending-entire-cssscss-files-to-the-children-of-a-scoped-parent-component-using-deep-3dgo)
+- [Shopify vs WooCommerce: Which Platform is Right for Your Business?](https://dev.to/myra-technolabs/shopify-vs-woocommerce-which-platform-is-right-for-your-business-2g2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
