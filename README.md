@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Topics in E2E Testing Introduction](https://dev.to/claradev32/advanced-topics-in-e2e-testingintroduction-3ij)
-- [Overview of the DevOps Interview Process: From Application to Selection - Part 4 - Docker](https://dev.to/lakhera2015/overview-of-the-devops-interview-process-from-application-to-selection-part-4-docker-1p89)
-- [Install the official build of mpv media player on any Linux distribution](https://dev.to/archerallstars/install-the-official-build-of-mpv-media-player-on-any-linux-distribution-4ifg)
-- [&quot; Arrays and Objects in JavaScript](https://dev.to/erasmuskotoka/-arrays-and-objects-in-javascript-581a)
-- [&quot;hello what are we opening with this JavaScript Fundamentals 😉](https://dev.to/erasmuskotoka/hello-what-are-we-opening-with-this-javascript-fundamentals-ke8)
+- [Introducing dirb_rust: A High-Performance URL and Port Scanner](https://dev.to/nopass0/introducing-dirbrust-a-high-performance-url-and-port-scanner-3hp4)
+- [Microservicios con colecciones dinámicas en jmoordbcore](https://dev.to/avbravo/microservicios-con-colecciones-dinamicas-en-jmoordbcore-14of)
+- [Introdução ao framework Astro](https://dev.to/lumamontes/introducao-ao-framework-astro-398j)
+- [Setting Up a Windows 11 Virtual Machine with Azure on a MacOs](https://dev.to/tundeiness/setting-up-a-windows-11-virtual-machine-with-azure-on-a-macos-88m)
+- [otro algoritmos](https://dev.to/imnotleo/otro-algoritmos-lmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
