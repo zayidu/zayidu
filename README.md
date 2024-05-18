@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Axios certificate error](https://dev.to/amythical/axios-certificate-error-4l3i)
-- [Overview of the DevOps Interview Process: From Application to Selection - Part 5 - Kubernetes](https://dev.to/lakhera2015/overview-of-the-devops-interview-process-from-application-to-selection-part-5-kubernetes-2ing)
-- [Optimize your Django Application with Asynchronous tasks and Django-Q](https://dev.to/azayshrestha/optimize-your-django-application-with-asynchronous-tasks-and-django-q-4li)
-- [Steping-Up as a junior Dev](https://dev.to/andre_orlowski_b2d1a3d47e/steping-up-as-a-junior-dev-50on)
-- [My notes on Cyclic Shift hash codes in Kotlin](https://dev.to/theplebdev/explaining-and-creating-a-cyclic-shift-hash-code-in-kotlin-49di)
+- [SaaS Multi-Tenant e RBAC com Next.js: Uma Abordagem Moderna para a Gestão de Acessos](https://dev.to/julianoalvescode/saas-multi-tenant-e-rbac-com-nextjs-uma-abordagem-moderna-para-a-gestao-de-acessos-2g2f)
+- [CSS Birthday Cake](https://dev.to/wtfisky/css-birthday-cake-4ad7)
+- [Home Lab: Installing VMware ESXi in a Local Environment](https://dev.to/francotel/home-lab-installing-vmware-esxi-in-a-local-environment-40le)
+- [@New](https://dev.to/mustafacam/new-1eb1)
+- [Complete Guide for Beginners in Web Development](https://dev.to/makwercoutter/complete-guide-for-beginners-in-web-development-481l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
