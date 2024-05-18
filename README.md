@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Backend Communication - Redis , pub sub Queue](https://dev.to/jay818/advanced-backend-communication-redis-pub-sub-queue-880)
-- [Latest Newsletter: Black Death &lpar;Issue #164&rpar;](https://dev.to/mjgs/latest-newsletter-black-death-issue-164-4k9k)
-- [A Simple Guide to Creating Microsoft Azure Resources &lpar;hamburger menu&rpar;](https://dev.to/olawaleoloye/a-simple-guide-to-creating-microsoft-azure-resources-hamburger-menu-1g33)
-- [How to create an interactive testimonial with Astrojs, Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-an-interactive-testimonial-with-astrojs-tailwind-css-and-javascript-d3f)
-- [Why Should We Use React For the Front-End?](https://dev.to/arnabsahawrk/why-should-we-use-react-for-the-front-end-40e9)
+- [Linux pip install problems](https://dev.to/kazure/linux-pip-install-problems-1cp1)
+- [Software Engineering Principles Every backend Developer Should Know](https://dev.to/nikhilxd/software-engineering-principles-every-backend-developer-should-know-3j7c)
+- [Understanding Indexing and Slicing in NumPy Arrays](https://dev.to/lohith0512/understanding-indexing-and-slicing-in-numpy-arrays-39ag)
+- [🚀 5 Reasons Why Callgent is Revolutionizing Business Operations](https://dev.to/callgent/5-reasons-why-callgent-is-revolutionizing-business-operations-opp)
+- [Advantages of Outsourcing Server Management](https://dev.to/supportfly/advantages-of-outsourcing-server-management-4lk8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
