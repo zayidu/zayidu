@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring C# Custom Types: Understanding Records, Structs, and Classes](https://dev.to/tkarropoulos/exploring-c-custom-types-understanding-records-structs-and-classes-410h)
-- [Oficial! Gemini Google AI Dart/Flutter SDK— Integrando Flutter com o GEMINI](https://dev.to/flutterbrasil/oficial-gemini-google-ai-dartflutter-sdk-integrando-flutter-com-o-gemini-29ka)
-- [Desenhe o que quiser com Custom Paint no Flutter](https://dev.to/flutterbrasil/desenhe-o-que-quiser-com-custom-paint-no-flutter-1kdo)
-- [Kickstart Your Journey into Android Development with Java](https://dev.to/tahirhassan23/kickstart-your-journey-into-android-development-with-java-17jp)
-- [Novos Modificadores de Classe no Dart 3](https://dev.to/flutterbrasil/novos-modificadores-de-classe-no-dart-3-20bl)
+- [Use local AI Models easily for Development and Experimentation](https://dev.to/myfear/use-local-ai-models-easily-for-development-and-experimentation-4leg)
+- [Git 101 for Beginners: Learn Git Commands, Branching, and Collaboration](https://dev.to/grover_sumrit/git-101-for-beginners-learn-git-commands-branching-and-collaboration-2cdp)
+- [Managing Data with SQL: CRUD Operations Made Simple](https://dev.to/tinapyp/managing-data-with-sql-crud-operations-made-simple-18l1)
+- [storm effect with svg filter no css animation no js](https://dev.to/tidycoder/storm-effect-with-svg-filter-no-css-animation-no-js-1koa)
+- [5 JavaScript Interview Questions](https://dev.to/shehzadhussain/5-javascript-interview-questions-4474)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
