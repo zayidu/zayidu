@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Use local AI Models easily for Development and Experimentation](https://dev.to/myfear/use-local-ai-models-easily-for-development-and-experimentation-4leg)
-- [Git 101 for Beginners: Learn Git Commands, Branching, and Collaboration](https://dev.to/grover_sumrit/git-101-for-beginners-learn-git-commands-branching-and-collaboration-2cdp)
-- [Managing Data with SQL: CRUD Operations Made Simple](https://dev.to/tinapyp/managing-data-with-sql-crud-operations-made-simple-18l1)
-- [storm effect with svg filter no css animation no js](https://dev.to/tidycoder/storm-effect-with-svg-filter-no-css-animation-no-js-1koa)
-- [5 JavaScript Interview Questions](https://dev.to/shehzadhussain/5-javascript-interview-questions-4474)
+- [Basics of Statistics](https://dev.to/ngneha09/basics-of-statistics-5fll)
+- [I created an Open Source Custom Code Editor](https://dev.to/dhanushnehru/i-created-an-open-source-custom-code-editor-f7)
+- [How To Set Up An EC2 Instance on AWS](https://dev.to/david_oyewole/how-to-set-up-an-ec2-instance-on-aws-k2c)
+- [Building a Vue 3 Component Library from Scratch &lpar;Part 3&rpar;: Environment Configuration](https://dev.to/markliu2013/building-a-vue-3-component-library-from-scratch-part-3-environment-configuration-59af)
+- [Works, don&#39;t touch it? Or never ending optimization game?](https://dev.to/dmitryame/works-dont-touch-it-or-never-ending-optimization-game-1aoo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
