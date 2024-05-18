@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-fm9)
-- [Top 20 React.JS interview questions.](https://dev.to/itzmesalamu/top-20-reactjs-interview-questions-15i9)
-- [Configuration of AWS Secret Manager with Spring Boot](https://dev.to/deepcodr/configuration-of-aws-secret-manager-with-spring-boot-4n6e)
-- [Angular Series Part 1 Unlocking Angular Lifecycle Hooks: Your Path to Efficient Web Apps](https://dev.to/chintanonweb/angular-series-part-1-unlocking-angular-lifecycle-hooks-your-path-to-efficient-web-apps-40c0)
-- [Exploring Angular 17 and Beyond: Major Enhancements, Latest Updates, Migration Strategies, and Future Outlook](https://dev.to/vickyp/exploring-angular-17-and-beyond-major-enhancements-latest-updates-migration-strategies-and-future-outlook-1k44)
+- [Color Psychology for Front-End Developers](https://dev.to/homayunmmdy/color-psychology-for-front-end-developers-5169)
+- [Building on Morph](https://dev.to/tosynthegeek/building-on-morph-49jc)
+- [🚀 Announcing Our Comprehensive Frontend Development Course! 🚀](https://dev.to/imyogeshyadav/announcing-our-comprehensive-frontend-development-course-4f4p)
+- [Why Learn Shaders? Ignite Your Development Skills with the Power of Shaders](https://dev.to/hayyanstudio/why-learn-shaders-ignite-your-development-skills-with-the-power-of-shaders-37dn)
+- [PostgreSQL Aggregate Expressions](https://dev.to/johnniekay/postgresql-aggregate-expressions-3pkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
