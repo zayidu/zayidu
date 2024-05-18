@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Upload multiple images to Cloudinary using React](https://dev.to/shieldstring/upload-multiple-images-to-cloudinary-using-react-5323)
-- [Navigation in React Native](https://dev.to/codeparrot/navigation-in-react-native-2l8c)
-- [Langchain Retrieval](https://dev.to/rutamstwt/langchain-retrieval-ida)
-- [Preview of PHP 8.4 New Features](https://dev.to/servbay/preview-of-php-84-new-features-5551)
-- [How to Configure Swagger 3 in a Spring Boot Application with Springfox](https://dev.to/toindranildutta/how-to-configure-swagger-3-in-a-spring-boot-application-with-springfox-36na)
+- [Webpack4 fix for .mjs files](https://dev.to/amythical/webpack4-fix-for-mjs-files-3ggh)
+- [Top 10 Impressive Flutter Projects to Skyrocket Your Developer CV](https://dev.to/dhruvjoshi9/top-10-impressive-flutter-projects-to-skyrocket-your-developer-cv-4b1g)
+- [What is CISA &amp; How to get certified with CISA?](https://dev.to/akanksha_tcroma_1905d62b3/what-is-cisa-how-to-get-certified-with-cisa-12l9)
+- [How to Code with Lua on ESP32 with XEdge32](https://dev.to/shilleh/how-to-code-with-lua-on-esp32-with-xedge32-2jbm)
+- [Master React Optimization Technique](https://dev.to/thisisarkajitroy/master-react-optimization-technique-4d2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
