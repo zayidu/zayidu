@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhance Your Coding Environment: Making Visual Studio Code Background Translucent](https://dev.to/jaykgupta/enhance-your-coding-environment-making-visual-studio-code-background-translucent-2n8p)
+- [What Not to Do When Learning Flutter as a Beginner](https://dev.to/abdulrazack23/what-not-to-do-when-learning-flutter-as-a-beginner-14a7)
+- [Mobile Proxy Tips for Beginners](https://dev.to/rodneywilham/mobile-proxy-tips-for-beginners-3mm9)
+- [How to Earn Money Using Flutter and Google AdMob](https://dev.to/abdulrazack23/how-to-earn-money-using-flutter-and-google-admob-1n0n)
 - [Webpack4 fix for .mjs files](https://dev.to/amythical/webpack4-fix-for-mjs-files-3ggh)
-- [Top 10 Impressive Flutter Projects to Skyrocket Your Developer CV](https://dev.to/dhruvjoshi9/top-10-impressive-flutter-projects-to-skyrocket-your-developer-cv-4b1g)
-- [What is CISA &amp; How to get certified with CISA?](https://dev.to/akanksha_tcroma_1905d62b3/what-is-cisa-how-to-get-certified-with-cisa-12l9)
-- [How to Code with Lua on ESP32 with XEdge32](https://dev.to/shilleh/how-to-code-with-lua-on-esp32-with-xedge32-2jbm)
-- [Master React Optimization Technique](https://dev.to/thisisarkajitroy/master-react-optimization-technique-4d2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
