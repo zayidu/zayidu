@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing dirb_rust: A High-Performance URL and Port Scanner](https://dev.to/nopass0/introducing-dirbrust-a-high-performance-url-and-port-scanner-3hp4)
-- [Microservicios con colecciones dinámicas en jmoordbcore](https://dev.to/avbravo/microservicios-con-colecciones-dinamicas-en-jmoordbcore-14of)
-- [Introdução ao framework Astro](https://dev.to/lumamontes/introducao-ao-framework-astro-398j)
-- [Setting Up a Windows 11 Virtual Machine with Azure on a MacOs](https://dev.to/tundeiness/setting-up-a-windows-11-virtual-machine-with-azure-on-a-macos-88m)
-- [otro algoritmos](https://dev.to/imnotleo/otro-algoritmos-lmc)
+- [TypeDefs, Resolvers and Mutations](https://dev.to/lovertab/typedefs-resolvers-and-mutations-cgd)
+- [Researcher Ranking Us Pop-Out Effect](https://dev.to/kevgutierrez09_/researcher-ranking-us-pop-out-effect-2ko2)
+- [Micelio.uca.edu.sv-Particles](https://dev.to/kevgutierrez09_/micelioucaedusv-particles-1ljp)
+- [Micelio.uca.edu.sv](https://dev.to/amilcarbib29646/micelioucaedusv-gl9)
+- [About Us Pop-Out Effect](https://dev.to/amilcarbib29646/about-us-pop-out-effect-1fi0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
