@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Color Psychology for Front-End Developers](https://dev.to/homayunmmdy/color-psychology-for-front-end-developers-5169)
-- [Building on Morph](https://dev.to/tosynthegeek/building-on-morph-49jc)
-- [🚀 Announcing Our Comprehensive Frontend Development Course! 🚀](https://dev.to/imyogeshyadav/announcing-our-comprehensive-frontend-development-course-4f4p)
-- [Why Learn Shaders? Ignite Your Development Skills with the Power of Shaders](https://dev.to/hayyanstudio/why-learn-shaders-ignite-your-development-skills-with-the-power-of-shaders-37dn)
-- [PostgreSQL Aggregate Expressions](https://dev.to/johnniekay/postgresql-aggregate-expressions-3pkf)
+- [Exploring C# Custom Types: Understanding Records, Structs, and Classes](https://dev.to/tkarropoulos/exploring-c-custom-types-understanding-records-structs-and-classes-410h)
+- [Oficial! Gemini Google AI Dart/Flutter SDK— Integrando Flutter com o GEMINI](https://dev.to/flutterbrasil/oficial-gemini-google-ai-dartflutter-sdk-integrando-flutter-com-o-gemini-29ka)
+- [Desenhe o que quiser com Custom Paint no Flutter](https://dev.to/flutterbrasil/desenhe-o-que-quiser-com-custom-paint-no-flutter-1kdo)
+- [Kickstart Your Journey into Android Development with Java](https://dev.to/tahirhassan23/kickstart-your-journey-into-android-development-with-java-17jp)
+- [Novos Modificadores de Classe no Dart 3](https://dev.to/flutterbrasil/novos-modificadores-de-classe-no-dart-3-20bl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
