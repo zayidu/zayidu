@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to inverse a matrix in C#](https://dev.to/rk042/how-to-inverse-a-matrix-in-c-12jg)
-- [Building a Vue 3 Component Library from Scratch &lpar;Part 2&rpar;: Monorepo](https://dev.to/markliu2013/building-a-vue-3-component-library-from-scratch-part-2-monorepo-4oo8)
-- [Next Js TopLoader :- Add TopLoader to NextJS App Router](https://dev.to/sh20raj/next-js-toploader-add-toploader-to-nextjs-app-router-1m8g)
-- [Vue 3: Extending entire CSS/SCSS files to the children of a scoped parent component using :deep&lpar;&rpar;](https://dev.to/jeky1950/vue-3-extending-entire-cssscss-files-to-the-children-of-a-scoped-parent-component-using-deep-3dgo)
-- [Shopify vs WooCommerce: Which Platform is Right for Your Business?](https://dev.to/myra-technolabs/shopify-vs-woocommerce-which-platform-is-right-for-your-business-2g2d)
+- [Caption This! 🤔💭](https://dev.to/devteam/caption-this-fm9)
+- [Top 20 React.JS interview questions.](https://dev.to/itzmesalamu/top-20-reactjs-interview-questions-15i9)
+- [Configuration of AWS Secret Manager with Spring Boot](https://dev.to/deepcodr/configuration-of-aws-secret-manager-with-spring-boot-4n6e)
+- [Angular Series Part 1 Unlocking Angular Lifecycle Hooks: Your Path to Efficient Web Apps](https://dev.to/chintanonweb/angular-series-part-1-unlocking-angular-lifecycle-hooks-your-path-to-efficient-web-apps-40c0)
+- [Exploring Angular 17 and Beyond: Major Enhancements, Latest Updates, Migration Strategies, and Future Outlook](https://dev.to/vickyp/exploring-angular-17-and-beyond-major-enhancements-latest-updates-migration-strategies-and-future-outlook-1k44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
