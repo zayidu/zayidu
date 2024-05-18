@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance Your Coding Environment: Making Visual Studio Code Background Translucent](https://dev.to/jaykgupta/enhance-your-coding-environment-making-visual-studio-code-background-translucent-2n8p)
-- [What Not to Do When Learning Flutter as a Beginner](https://dev.to/abdulrazack23/what-not-to-do-when-learning-flutter-as-a-beginner-14a7)
-- [Mobile Proxy Tips for Beginners](https://dev.to/rodneywilham/mobile-proxy-tips-for-beginners-3mm9)
-- [How to Earn Money Using Flutter and Google AdMob](https://dev.to/abdulrazack23/how-to-earn-money-using-flutter-and-google-admob-1n0n)
-- [Webpack4 fix for .mjs files](https://dev.to/amythical/webpack4-fix-for-mjs-files-3ggh)
+- [Harnessing the Power of IP Address Info for Precision Targeting](https://dev.to/johnmiller/harnessing-the-power-of-ip-address-info-for-precision-targeting-493j)
+- [Getting Started Task Scheduling and Cron Jobs in Node.js with MongoDB](https://dev.to/codexhyun/getting-started-task-scheduling-and-cron-jobs-in-nodejs-with-mongodb-5e09)
+- [How TypeScript Type Predicates Enhance Code Safety](https://dev.to/sachinchaurasiya/how-typescript-type-predicates-enhance-code-safety-19o2)
+- [Improving Code Quality with Mega -Linter 🧹](https://dev.to/prateekwayne/improving-code-quality-with-mega-linter-4mji)
+- [How to interact with Smart Contracts using Python and Django.](https://dev.to/mosesmuwawu/how-to-interact-with-smart-contracts-using-python-and-django-4o94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
