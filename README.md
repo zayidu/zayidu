@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Enabled Development: A Week in Tweets](https://dev.to/danielwarner/ai-enabled-development-a-week-in-tweets-156k)
-- [Buscadores personalizados con Mini.Pick](https://dev.to/jorgejhms/buscadores-personalizados-con-minipick-4ga0)
-- [PostgreSQL Cheat Sheet](https://dev.to/ezekiel_77/postgresql-cheat-sheet-375e)
-- [Easiest program in 6502 emulator part-2](https://dev.to/yuktimulani/easiest-program-in-6502-emulator-part-2-674)
-- [Upgrading an EKS Cluster: A Step-by-Step Guide](https://dev.to/damola12345/upgrading-an-eks-cluster-a-step-by-step-guide-2alk)
+- [Advanced Topics in E2E Testing Introduction](https://dev.to/claradev32/advanced-topics-in-e2e-testingintroduction-3ij)
+- [Install the official build of mpv media player on any Linux distribution](https://dev.to/archerallstars/install-the-official-build-of-mpv-media-player-on-any-linux-distribution-4ifg)
+- [&quot; Arrays and Objects in JavaScript](https://dev.to/erasmuskotoka/-arrays-and-objects-in-javascript-581a)
+- [&quot;hello what are we opening with this JavaScript Fundamentals 😉](https://dev.to/erasmuskotoka/hello-what-are-we-opening-with-this-javascript-fundamentals-ke8)
+- [Testing Node.js Applications with Real-world Examples](https://dev.to/codev206/testing-nodejs-applications-with-real-world-examples-42an)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
