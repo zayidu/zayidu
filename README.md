@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Elanat CMS 2.2, Ability to Replace Pages Before Response](https://dev.to/elanatframework/elanat-cms-22-ability-to-replace-pages-before-response-234n)
-- [Simplifying Web Forms with the FormData Web API](https://dev.to/wdp/simplifying-web-forms-with-the-formdata-web-api-4mb4)
-- [Introduction to Testing in Node.js](https://dev.to/presh_dev/introduction-to-testing-in-nodejs-3odj)
-- [Introduction to Testing in Node.js](https://dev.to/presh_dev/introduction-to-testing-in-nodejs-5b54)
-- [Starting Right: How Morning Preparation Enhances Daily Productivity &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/starting-right-how-morning-preparation-enhances-daily-productivity-bite-size-article-3mj6)
+- [AI-Enabled Development: A Week in Tweets](https://dev.to/danielwarner/ai-enabled-development-a-week-in-tweets-156k)
+- [Buscadores personalizados con Mini.Pick](https://dev.to/jorgejhms/buscadores-personalizados-con-minipick-4ga0)
+- [PostgreSQL Cheat Sheet](https://dev.to/ezekiel_77/postgresql-cheat-sheet-375e)
+- [Easiest program in 6502 emulator part-2](https://dev.to/yuktimulani/easiest-program-in-6502-emulator-part-2-674)
+- [Upgrading an EKS Cluster: A Step-by-Step Guide](https://dev.to/damola12345/upgrading-an-eks-cluster-a-step-by-step-guide-2alk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
