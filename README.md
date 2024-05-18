@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoid intermediate arrays &lpar;parsing strings&rpar; to make you Javascript fast](https://dev.to/alexander-nenashev/avoid-intermediate-arrays-parsing-strings-to-make-you-javascript-fast-5beg)
-- [Python Quiz Program: Building Blocks of My Portfolio](https://dev.to/carlos_gamez_11078c838169/python-quiz-program-building-blocks-of-my-portfolio-24c0)
-- [How to Generate Link Previews in React and Nodejs?](https://dev.to/codegirl0101/how-to-generate-link-previews-in-react-and-nodejs-n6b)
-- [Migrating to Spring Boot 3.0 and Java 17: A Comprehensive Guide](https://dev.to/nichetti/migrating-to-spring-boot-30-and-java-17-a-comprehensive-guide-2pbn)
-- [React JS with Yarn 4](https://dev.to/prateekwayne/react-js-with-yarn-4-4a2m)
+- [Axios certificate error](https://dev.to/amythical/axios-certificate-error-4l3i)
+- [Overview of the DevOps Interview Process: From Application to Selection - Part 5 - Kubernetes](https://dev.to/lakhera2015/overview-of-the-devops-interview-process-from-application-to-selection-part-5-kubernetes-2ing)
+- [Optimize your Django Application with Asynchronous tasks and Django-Q](https://dev.to/azayshrestha/optimize-your-django-application-with-asynchronous-tasks-and-django-q-4li)
+- [Steping-Up as a junior Dev](https://dev.to/andre_orlowski_b2d1a3d47e/steping-up-as-a-junior-dev-50on)
+- [My notes on Cyclic Shift hash codes in Kotlin](https://dev.to/theplebdev/explaining-and-creating-a-cyclic-shift-hash-code-in-kotlin-49di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
