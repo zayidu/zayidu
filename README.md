@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to ship code fast: Like a 10x developer](https://dev.to/tecnosam/how-to-ship-code-fast-like-a-10x-developer-42an)
-- [Summarize a web page using langchain.js and Gemini in a NestJS application](https://dev.to/railsstudent/summarize-a-web-page-using-langchainjs-and-gemini-in-a-nestjs-application-4fjo)
-- [Exploring the Magic of Python&#39;s Random Module](https://dev.to/alvisonhunter/exploring-the-magic-of-pythons-random-module-3i74)
-- [Where is my &quot;Business logic&quot;!?](https://dev.to/gulshan/where-is-my-business-logic-5gpn)
-- [SaaS Multi-Tenant e RBAC com Next.js: Uma Abordagem Moderna para a Gestão de Acessos](https://dev.to/julianoalvescode/saas-multi-tenant-e-rbac-com-nextjs-uma-abordagem-moderna-para-a-gestao-de-acessos-2g2f)
+- [Conventional Commits](https://dev.to/thiagoanjos/conventional-commits-346l)
+- [How I Entered the World of Programming: A Personal History](https://dev.to/gift_mugweni_1c055b418706/how-i-entered-the-world-of-programming-a-personal-history-peh)
+- [Reflexões sobre SOLID - A Letra &quot;L&quot;](https://dev.to/mdeamp/reflexoes-sobre-solid-a-letra-l-5bm3)
+- [Thoughts about SOLID - The Letter &quot;L&quot;](https://dev.to/mdeamp/thoughts-about-solid-the-letter-l-1egf)
+- [Cloud Newbie Fixing Newbie Problems: Snap](https://dev.to/rossli/cloud-newbie-fixing-newbie-problems-snap-4b63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
