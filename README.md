@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing the Power of IP Address Info for Precision Targeting](https://dev.to/johnmiller/harnessing-the-power-of-ip-address-info-for-precision-targeting-493j)
-- [Getting Started Task Scheduling and Cron Jobs in Node.js with MongoDB](https://dev.to/codexhyun/getting-started-task-scheduling-and-cron-jobs-in-nodejs-with-mongodb-5e09)
-- [How TypeScript Type Predicates Enhance Code Safety](https://dev.to/sachinchaurasiya/how-typescript-type-predicates-enhance-code-safety-19o2)
-- [Improving Code Quality with Mega -Linter 🧹](https://dev.to/prateekwayne/improving-code-quality-with-mega-linter-4mji)
-- [How to interact with Smart Contracts using Python and Django.](https://dev.to/mosesmuwawu/how-to-interact-with-smart-contracts-using-python-and-django-4o94)
+- [Advanced Backend Communication - Redis , pub sub Queue](https://dev.to/jay818/advanced-backend-communication-redis-pub-sub-queue-880)
+- [Latest Newsletter: Black Death &lpar;Issue #164&rpar;](https://dev.to/mjgs/latest-newsletter-black-death-issue-164-4k9k)
+- [A Simple Guide to Creating Microsoft Azure Resources &lpar;hamburger menu&rpar;](https://dev.to/olawaleoloye/a-simple-guide-to-creating-microsoft-azure-resources-hamburger-menu-1g33)
+- [How to create an interactive testimonial with Astrojs, Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-an-interactive-testimonial-with-astrojs-tailwind-css-and-javascript-d3f)
+- [Why Should We Use React For the Front-End?](https://dev.to/arnabsahawrk/why-should-we-use-react-for-the-front-end-40e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
