@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unresponsive UI and a busy main thread?](https://dev.to/amythical/yield-control-when-too-busy-1mkb)
-- [Add GitHub Copilot in VSCode](https://dev.to/automata/add-github-copilot-in-vscode-7l5)
-- [HTTP/HTTPS Communication Protocol](https://dev.to/sumeetp96/httphttps-communication-protocol-40k7)
-- [The Rise of Doppelgangers: How Face Similarity Algorithms are Changing the Game](https://dev.to/searchmydocsai/the-rise-of-doppelgangers-how-face-similarity-algorithms-are-changing-the-game-4iff)
-- [What is the most important thing for you in your job? 🤔](https://dev.to/devonremote/what-is-the-most-important-thing-for-you-in-your-job-2jkm)
+- [You might not be lazy loading properly in Angular. Pitfall of barrel files.](https://dev.to/jstnjs/you-might-not-be-lazy-loading-properly-in-angular-pitfall-of-barrel-files-2oij)
+- [Announcing git bisect-find](https://dev.to/kevincox/announcing-git-bisect-find-4fcf)
+- [Kubernetes for Beginners](https://dev.to/bansikah/kubernetes-for-beginners-69h)
+- [Why is the &lpar;KAN&rpar; Kolmogorov-Arnold Networks so promising](https://dev.to/engyasin/why-is-the-kan-kolmogorov-arnold-networks-so-promising-1ecb)
+- [Deploying Dancer Apps](https://dev.to/davorg/deploying-dancer-apps-c0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
