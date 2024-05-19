@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You might not be lazy loading properly in Angular. Pitfall of barrel files.](https://dev.to/jstnjs/you-might-not-be-lazy-loading-properly-in-angular-pitfall-of-barrel-files-2oij)
-- [Announcing git bisect-find](https://dev.to/kevincox/announcing-git-bisect-find-4fcf)
-- [Kubernetes for Beginners](https://dev.to/bansikah/kubernetes-for-beginners-69h)
-- [Why is the &lpar;KAN&rpar; Kolmogorov-Arnold Networks so promising](https://dev.to/engyasin/why-is-the-kan-kolmogorov-arnold-networks-so-promising-1ecb)
-- [Deploying Dancer Apps](https://dev.to/davorg/deploying-dancer-apps-c0l)
+- [OpenAPI &lpar;Swagger docs&rpar; integration with serverless framework | Node.js Express.js Typescript](https://dev.to/abdul_165bf98345e29aea8ef/openapi-swagger-docs-integration-with-serverless-framework-nodejs-expressjs-typescript-30l)
+- [How to host a Static Website on Azure App Service&lpar; Using Azure CLI&rpar;](https://dev.to/busybrain/how-to-host-a-static-website-on-azure-app-service-using-azure-cli-1acm)
+- [Parallax Website with Scroll-Triggered Animations](https://dev.to/vitalipri/parallax-website-with-scroll-triggered-animations-eg5)
+- [The European Accessibility Act != EN 301 549](https://dev.to/emmadawsondev/the-european-accessibility-act-en-301-549-16o1)
+- [Creating Sub-Issues in GitHub Issues: A Guide](https://dev.to/sh20raj/creating-sub-issues-in-github-issues-a-guide-1b50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
