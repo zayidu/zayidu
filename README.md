@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Different Perspective of Stack Memory in .NET](https://dev.to/rasulhsn/a-different-perspective-of-stack-memory-in-net-33oc)
-- [Quickly Communicate Your Entire Codebase to Any LLM with This VS Code Extension](https://dev.to/jojomondag/quickly-communicate-your-entire-codebase-to-any-llm-with-this-vs-code-extension-3i39)
-- [Elements or something](https://dev.to/simongreennet/elements-or-something-2bl0)
-- [Getting started with Bun: A beginners guide](https://dev.to/growwwithtalha/getting-started-with-bun-a-beginners-guide-m3d)
-- [Como exportar um CSV com dados dos meus posts no DEV.to usando sua API](https://dev.to/msc2020/como-exportar-um-csv-com-dados-dos-meus-posts-no-devto-usando-sua-api-2ckm)
+- [Navigating the Clouds: A Comprehensive Guide to Modern Cloud Infrastructures](https://dev.to/markyu/navigating-the-clouds-a-comprehensive-guide-to-modern-cloud-infrastructures-35b5)
+- [Setting Up MySQL Database in Python](https://dev.to/sachingeek/setting-up-mysql-database-in-python-5c5p)
+- [Cómo desplegar y monitorear aplicaciones web en Azure con Terraform: Guía paso a paso](https://dev.to/danieljsaldana/como-desplegar-y-monitorear-aplicaciones-web-en-azure-con-terraform-guia-paso-a-paso-22b8)
+- [Setting Up and Managing Android Emulators on macOS with Homebrew](https://dev.to/mochafreddo/setting-up-and-managing-android-emulators-on-macos-with-homebrew-3fg0)
+- [Testing Pyramid](https://dev.to/st1p3kolovrat/testing-pyramid-2bj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
