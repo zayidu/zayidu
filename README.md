@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Battlesnake Challenge #2 - JavaScript](https://dev.to/robvanderleek/battlesnake-challenge-2-javascript-15fi)
-- [Streamline Your API Documentation with Swagger: A Must-Have Tool for Developers](https://dev.to/devmaiko/streamline-your-api-documentation-with-swagger-a-must-have-tool-for-developers-3lo7)
-- [Responsible Services](https://dev.to/dwildt/responsible-services-1cmb)
-- [Calling All Backend Warriors! ⚔️ &lpar;Your Guide to Landing that Internship&rpar;](https://dev.to/akmojahid/calling-all-backend-warriors-your-guide-to-landing-that-internship-3hb1)
-- [Fastify Developers: Upgrade Your Logging with This Simple Guide](https://dev.to/mrrishimeena/fastify-developers-upgrade-your-logging-with-this-simple-guide-51o5)
+- [Unresponsive UI and a busy main thread?](https://dev.to/amythical/yield-control-when-too-busy-1mkb)
+- [Add GitHub Copilot in VSCode](https://dev.to/automata/add-github-copilot-in-vscode-7l5)
+- [HTTP/HTTPS Communication Protocol](https://dev.to/sumeetp96/httphttps-communication-protocol-40k7)
+- [The Rise of Doppelgangers: How Face Similarity Algorithms are Changing the Game](https://dev.to/searchmydocsai/the-rise-of-doppelgangers-how-face-similarity-algorithms-are-changing-the-game-4iff)
+- [What is the most important thing for you in your job? 🤔](https://dev.to/devonremote/what-is-the-most-important-thing-for-you-in-your-job-2jkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
