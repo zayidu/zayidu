@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stepping into Ubuntu Linux: A VirtualBox Installation Guide.](https://dev.to/pascalpedro/stepping-into-ubuntu-linux-a-virtualbox-installation-guide-2h4m)
-- [All about OpenNotas - What is it?](https://dev.to/hoaitx/all-about-opennotas-what-is-it-1ojo)
-- [Difference between GraphQL, REST, and gRPC](https://dev.to/somadevtoo/difference-between-graphql-rest-and-grpc-58bl)
-- [Rio: WebApps in pure Python. No JavaScript, HTML and CSS needed!](https://dev.to/sn3llius/rio-webapps-in-pure-python-no-javascript-html-and-css-needed-hhh)
-- [Truthy and Falsy Values](https://dev.to/gomigoku/truthy-and-falsy-values-l3g)
+- [Some notes on symmetric encryption in golang](https://dev.to/nigel447/some-notes-on-symmetric-encryption-in-golang-2c9i)
+- [Don&#39;t struggle with CSS anymore!](https://dev.to/shehzadhussain/dont-struggle-with-css-anymore-2fe6)
+- [How to Implement a Whitelist in NFT contracts using Merkle Tree](https://dev.to/abdxzi/how-to-implement-a-whitelist-in-nft-contracts-using-merkle-tree-4apk)
+- [How to debug a Remix V2 &lpar;Vite&rpar; application with VSCode](https://dev.to/javiasilis/how-to-debug-a-remix-v2-vite-application-with-vscode-1kk)
+- [Building a To-Do App with RTK Query](https://dev.to/himanshu_gupta_50a71f4bac/building-a-to-do-app-with-rtk-query-2p4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
