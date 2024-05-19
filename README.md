@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Portfolio Website using Next JS](https://dev.to/anmolsaini16/portfolio-website-using-next-js-435b)
-- [Retro Vibes: ASCII Hot Coffee Animation in &lpar;Node.js&rpar;](https://dev.to/bekbrace/retro-vibes-ascii-hot-coffee-animation-in-nodejs-4cko)
-- [Comprehensive Guide to Optimizing WordPress Security: Tips and Best Practices](https://dev.to/xenmars/comprehensive-guide-to-optimizing-wordpress-security-tips-and-best-practices-2ike)
-- [How to Securely Send a Request When Closing Tabs](https://dev.to/zacharylee/how-to-securely-send-a-request-when-closing-tabs-1fin)
-- [Comprehensive guide to slice of slices](https://dev.to/bravian1/comprehensive-guide-to-slice-of-slices-4pc7)
+- [Battlesnake Challenge #2 - JavaScript](https://dev.to/robvanderleek/battlesnake-challenge-2-javascript-15fi)
+- [Streamline Your API Documentation with Swagger: A Must-Have Tool for Developers](https://dev.to/devmaiko/streamline-your-api-documentation-with-swagger-a-must-have-tool-for-developers-3lo7)
+- [Responsible Services](https://dev.to/dwildt/responsible-services-1cmb)
+- [Calling All Backend Warriors! ⚔️ &lpar;Your Guide to Landing that Internship&rpar;](https://dev.to/akmojahid/calling-all-backend-warriors-your-guide-to-landing-that-internship-3hb1)
+- [Fastify Developers: Upgrade Your Logging with This Simple Guide](https://dev.to/mrrishimeena/fastify-developers-upgrade-your-logging-with-this-simple-guide-51o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
