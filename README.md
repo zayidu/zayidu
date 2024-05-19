@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Database Design with PostgreSQL](https://dev.to/kartikmehta8/advanced-database-design-with-postgresql-50ia)
-- [[Game of Purpose] Day 0 - The decision](https://dev.to/humberd/game-of-purpose-day-0-the-decision-4kn3)
-- [Making Shared ESLint, Prettier Config Files](https://dev.to/solleedata/making-shared-eslint-prettier-config-files-fdi)
-- [Enabling Rails 7.0&#39;s New Framework Defaults](https://dev.to/hassanahmed/enabling-rails-70s-new-framework-defaults-hkb)
-- [Symfony Station Communiqué - 17 May 2024: A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-17-may-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-o9a)
+- [Kiwi Compiler](https://dev.to/jmorla/kiwi-compiler-2h0h)
+- [AWS Cloud Cost Optimization](https://dev.to/sengarashu/aws-cloud-cost-optimization-427c)
+- [How to Hide the X-Powered-By Header in NestJS](https://dev.to/suzuki0430/how-to-hide-the-x-powered-by-header-in-nestjs-4gbc)
+- [Development of a Web Application for Consulting Geographic Information and Printing Maps: A Case Study](https://dev.to/pcabreram1234/development-of-a-web-application-for-consulting-geographic-information-and-printing-maps-a-case-study-3e4b)
+- [Access Modifiers in TypeScript: Best Practices for Encapsulation and Data Hiding](https://dev.to/ayako_yk/access-modifiers-in-typescript-best-practices-for-encapsulation-and-data-hiding-4082)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
