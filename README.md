@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using 11ty and DecapCMS for &#39;non-blog&#39; static websites -pt 2 Pages](https://dev.to/ayush_saran/using-11ty-and-decapcms-for-non-blog-static-websites-pt-2-pages-5d4i)
-- [The Broken Window in Software Projects](https://dev.to/douglasmakey/the-broken-window-in-software-projects-kka)
-- [CI/CD to automate deployments to Kubernetes on DigitalOcean using Github Actions](https://dev.to/prkagrawal/cicd-to-automate-deployments-to-kubernetes-on-digitalocean-using-github-actions-4592)
-- [Creating a Dynamic Form Page in Angular: A Case Study](https://dev.to/mateuscechetto/creating-a-dynamic-form-page-in-angular-a-case-study-24oe)
-- [Using 11ty and DecapCMS for &#39;non-blog&#39; static websites -pt 1 Menus](https://dev.to/ayush_saran/using-11ty-and-decapcms-for-non-blog-static-websites-pt-1-menus-1mof)
+- [Advanced Database Design with PostgreSQL](https://dev.to/kartikmehta8/advanced-database-design-with-postgresql-50ia)
+- [[Game of Purpose] Day 0 - The decision](https://dev.to/humberd/game-of-purpose-day-0-the-decision-4kn3)
+- [Making Shared ESLint, Prettier Config Files](https://dev.to/solleedata/making-shared-eslint-prettier-config-files-fdi)
+- [Enabling Rails 7.0&#39;s New Framework Defaults](https://dev.to/hassanahmed/enabling-rails-70s-new-framework-defaults-hkb)
+- [Symfony Station Communiqué - 17 May 2024: A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-17-may-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-o9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
