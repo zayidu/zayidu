@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Some notes on symmetric encryption in golang](https://dev.to/nigel447/some-notes-on-symmetric-encryption-in-golang-2c9i)
-- [Don&#39;t struggle with CSS anymore!](https://dev.to/shehzadhussain/dont-struggle-with-css-anymore-2fe6)
-- [How to Implement a Whitelist in NFT contracts using Merkle Tree](https://dev.to/abdxzi/how-to-implement-a-whitelist-in-nft-contracts-using-merkle-tree-4apk)
-- [How to debug a Remix V2 &lpar;Vite&rpar; application with VSCode](https://dev.to/javiasilis/how-to-debug-a-remix-v2-vite-application-with-vscode-1kk)
-- [Building a To-Do App with RTK Query](https://dev.to/himanshu_gupta_50a71f4bac/building-a-to-do-app-with-rtk-query-2p4a)
+- [A Different Perspective of Stack Memory in .NET](https://dev.to/rasulhsn/a-different-perspective-of-stack-memory-in-net-33oc)
+- [Quickly Communicate Your Entire Codebase to Any LLM with This VS Code Extension](https://dev.to/jojomondag/quickly-communicate-your-entire-codebase-to-any-llm-with-this-vs-code-extension-3i39)
+- [Elements or something](https://dev.to/simongreennet/elements-or-something-2bl0)
+- [Getting started with Bun: A beginners guide](https://dev.to/growwwithtalha/getting-started-with-bun-a-beginners-guide-m3d)
+- [Como exportar um CSV com dados dos meus posts no DEV.to usando sua API](https://dev.to/msc2020/como-exportar-um-csv-com-dados-dos-meus-posts-no-devto-usando-sua-api-2ckm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
