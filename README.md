@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev: Full-Stack](https://dev.to/r4nd3l/dev-full-stack-lgi)
-- [Jaspersoft Studio: Using a new font in the report](https://dev.to/chanyayun/jaspersoft-studio-using-a-new-font-in-the-report-45h0)
-- [Mastering Python for Data Analysis: A Comprehensive Guide](https://dev.to/emmanuelj/mastering-python-for-data-analysis-a-comprehensive-guide-46li)
-- [Load Testing a Non-API Laravel Web Application with Sanctum Session-Based Authentication Using K6](https://dev.to/eldeeno/load-testing-a-non-api-laravel-web-application-with-sanctum-session-based-authentication-using-k6-39dn)
-- [Client-first RSC: A scalable solution for data aggregation](https://dev.to/tsirlucas/client-first-rsc-a-scalable-solution-for-data-aggregation-4j34)
+- [Balanced Trees - The Experience](https://dev.to/nidheeshmvakharia/balanced-trees-the-experience-1559)
+- [Demystifying Regex in Go](https://dev.to/cherrypick14/demystifying-regex-in-go-4clf)
+- [Phase-1 Project](https://dev.to/silasgebhart/phase-1-project-131f)
+- [AI vs Software Engineers](https://dev.to/maggiekaruri/ai-vs-software-engineers-3aip)
+- [Configuring VSCodeVim](https://dev.to/ritek/configuring-vscodevim-54l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
