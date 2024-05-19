@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [测试一下买车记录](https://dev.to/mcxen/ce-shi-xia-mai-che-ji-lu-5dle)
+- [MySQL to BigQuery Migration &lpar;Syntax &amp; Other Conversions&rpar;](https://dev.to/charlottetowell/mysql-to-bigquery-migration-syntax-other-conversions-5bb)
+- [Create your Biography Web Page with AWS Amplify Gen 2](https://dev.to/alejandro_castaneda/create-your-biography-web-page-with-aws-amplify-gen-2-41d8)
+- [Rust](https://dev.to/zhangwuji/rust-cmh)
 - [Kiwi Compiler](https://dev.to/jmorla/kiwi-compiler-2h0h)
-- [AWS Cloud Cost Optimization](https://dev.to/sengarashu/aws-cloud-cost-optimization-427c)
-- [How to Hide the X-Powered-By Header in NestJS](https://dev.to/suzuki0430/how-to-hide-the-x-powered-by-header-in-nestjs-4gbc)
-- [Development of a Web Application for Consulting Geographic Information and Printing Maps: A Case Study](https://dev.to/pcabreram1234/development-of-a-web-application-for-consulting-geographic-information-and-printing-maps-a-case-study-3e4b)
-- [Access Modifiers in TypeScript: Best Practices for Encapsulation and Data Hiding](https://dev.to/ayako_yk/access-modifiers-in-typescript-best-practices-for-encapsulation-and-data-hiding-4082)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
