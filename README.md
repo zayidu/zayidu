@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAPI &lpar;Swagger docs&rpar; integration with serverless framework | Node.js Express.js Typescript](https://dev.to/abdul_165bf98345e29aea8ef/openapi-swagger-docs-integration-with-serverless-framework-nodejs-expressjs-typescript-30l)
-- [How to host a Static Website on Azure App Service&lpar; Using Azure CLI&rpar;](https://dev.to/busybrain/how-to-host-a-static-website-on-azure-app-service-using-azure-cli-1acm)
-- [Parallax Website with Scroll-Triggered Animations](https://dev.to/vitalipri/parallax-website-with-scroll-triggered-animations-eg5)
-- [The European Accessibility Act != EN 301 549](https://dev.to/emmadawsondev/the-european-accessibility-act-en-301-549-16o1)
-- [Creating Sub-Issues in GitHub Issues: A Guide](https://dev.to/sh20raj/creating-sub-issues-in-github-issues-a-guide-1b50)
+- [Benchmark testing in Go](https://dev.to/stefanalfbo/benchmark-testing-in-go-17dc)
+- [Three Important Things I Learned While Jest Testing My Next.js Application](https://dev.to/c0xxxtv/three-important-things-i-learned-while-jest-testing-my-nextjs-application-1be5)
+- [How does Rust go “from” here “into” there](https://dev.to/michal1024/how-rust-goes-from-there-into-here-34fb)
+- [Adding Plaid to Your Rails Application](https://dev.to/duartemartins/adding-plaid-to-your-rails-application-2f8f)
+- [Python Object Interning](https://dev.to/rajesh-tvd/python-object-interning-4jlo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
