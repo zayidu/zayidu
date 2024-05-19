@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to configure gradual change colors for discrete data in VChart?](https://dev.to/skie1997/how-to-configure-gradual-change-colors-for-discrete-data-in-vchart-4jgp)
-- [Safeguarding Your API Keys in React](https://dev.to/kachi14/safeguarding-your-api-keys-in-react-h09)
-- [Top College&#39;s Abroad for MCA](https://dev.to/suraj_0031/top-college-abroad-for-mca-27f1)
-- [How does react-vchart achieve on-demand loading?](https://dev.to/skie1997/how-does-react-vchart-achieve-on-demand-loading-2la6)
-- [03 Higher Order Functions in Javascript](https://dev.to/abhishekkrpand1/03-higher-order-functions-in-javascript-5hao)
+- [Stepping into Ubuntu Linux: A VirtualBox Installation Guide.](https://dev.to/pascalpedro/stepping-into-ubuntu-linux-a-virtualbox-installation-guide-2h4m)
+- [All about OpenNotas - What is it?](https://dev.to/hoaitx/all-about-opennotas-what-is-it-1ojo)
+- [Difference between GraphQL, REST, and gRPC](https://dev.to/somadevtoo/difference-between-graphql-rest-and-grpc-58bl)
+- [Rio: WebApps in pure Python. No JavaScript, HTML and CSS needed!](https://dev.to/sn3llius/rio-webapps-in-pure-python-no-javascript-html-and-css-needed-hhh)
+- [Truthy and Falsy Values](https://dev.to/gomigoku/truthy-and-falsy-values-l3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
