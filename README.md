@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrate Cloud Secrets with Kubernetes Secrets using External Secrets Through Terraform](https://dev.to/viradiaharsh/integrate-cloud-secrets-with-kubernetes-secrets-using-external-secrets-through-terraform-56o2)
-- [Binary Search Top Interview Problems](https://dev.to/mukeshwebs/binary-search-top-interview-problems-2i65)
-- [9 HTTP request methods explained!](https://dev.to/hy_piyush/9-http-request-methods-explained-354i)
-- [Self Review&lpar;2023&rpar; &amp; New Challenge](https://dev.to/yangbongsoo/self-review2023-new-challenge-2f06)
-- [What do you think about my website?](https://dev.to/bizmavenhub/what-do-you-think-about-this-website-54aj)
+- [Thinking of how we should follow AI.](https://dev.to/ugo/thinking-of-how-we-should-follow-ai-3e19)
+- [How to fix &#39;process&#39; is not defined &lpar;React+Vite&rpar;](https://dev.to/navinduabhishek/how-to-fix-process-is-not-defined-reactvite-1nn4)
+- [Langchain: Data Protection](https://dev.to/rutamstwt/langchain-data-protection-op9)
+- [Python &quot;argparse&quot; library](https://dev.to/nadun96/python-argparse-library-2c1c)
+- [The Evolution of .NET, C#, and the CLR](https://dev.to/ipazooki/the-evolution-of-net-c-and-the-clr-3p8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
