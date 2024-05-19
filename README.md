@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Functional Options Pattern in Go](https://dev.to/fufu/functional-options-pattern-in-go-42lm)
-- [Why Design Patterns Matter: A Beginner&#39;s Guide to Choosing the Right Pattern](https://dev.to/waqaryounis7564/why-design-patterns-matter-a-beginners-guide-to-choosing-the-right-pattern-4hd8)
-- [My mistake with resolve and return resolve](https://dev.to/amythical/my-mistake-with-resolve-and-return-resolve-4a7b)
-- [[DAY 3] First Time Using CSS To Add An Animated Gradient Background To My Webpage](https://dev.to/thomascansino/day-3-first-time-using-css-to-add-an-animated-gradient-background-to-my-webpage-4850)
-- [Crash Verifier](https://dev.to/jasmine_iserief_407764b73/crash-verifier-of2)
+- [Designing for Code: Bridging the Gap Between Designers and Developers](https://dev.to/shieldstring/designing-for-code-bridging-the-gap-between-designers-and-developers-2ag8)
+- [Solving a Leetcode problem daily — Day 12 | 347. Top K frequent elements](https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-12-347-top-k-frequent-elements-2i7h)
+- [ast-grep got 6000 stars!](https://dev.to/herrington_darkholme/ast-grep-got-6000-stars-3eo2)
+- [Debugger.godMode&lpar;&rpar;](https://dev.to/flounder4130/debuggergodmode-4567)
+- [zoxide - A faster alternative to boring cd command](https://dev.to/chamal1120/zoxide-a-faster-alternative-to-boring-cd-command-1ae3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
