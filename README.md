@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing for Code: Bridging the Gap Between Designers and Developers](https://dev.to/shieldstring/designing-for-code-bridging-the-gap-between-designers-and-developers-2ag8)
-- [Solving a Leetcode problem daily — Day 12 | 347. Top K frequent elements](https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-12-347-top-k-frequent-elements-2i7h)
-- [ast-grep got 6000 stars!](https://dev.to/herrington_darkholme/ast-grep-got-6000-stars-3eo2)
-- [Debugger.godMode&lpar;&rpar;](https://dev.to/flounder4130/debuggergodmode-4567)
-- [zoxide - A faster alternative to boring cd command](https://dev.to/chamal1120/zoxide-a-faster-alternative-to-boring-cd-command-1ae3)
+- [Integrate Cloud Secrets with Kubernetes Secrets using External Secrets Through Terraform](https://dev.to/viradiaharsh/integrate-cloud-secrets-with-kubernetes-secrets-using-external-secrets-through-terraform-56o2)
+- [Binary Search Top Interview Problems](https://dev.to/mukeshwebs/binary-search-top-interview-problems-2i65)
+- [9 HTTP request methods explained!](https://dev.to/hy_piyush/9-http-request-methods-explained-354i)
+- [Self Review&lpar;2023&rpar; &amp; New Challenge](https://dev.to/yangbongsoo/self-review2023-new-challenge-2f06)
+- [What do you think about my website?](https://dev.to/bizmavenhub/what-do-you-think-about-this-website-54aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
