@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 6: Advanced React Concepts](https://dev.to/dipakahirav/day-6-advanced-react-concepts-4co4)
-- [Let&#39;s dive into the magical world of React 19 – the latest version of React JS. 🚀✨](https://dev.to/dharamgfx/lets-dive-into-the-magical-world-of-react-19-the-latest-version-of-react-js-g0j)
-- [Lights, Camera, Encode](https://dev.to/ishar19/lights-camera-encode-3mc3)
-- [8 Gmail Hacks that you shouldn&#39;t miss](https://dev.to/sagorbro005/8-gmail-hacks-that-you-shouldnt-miss-3a31)
-- [Understanding immutability for beginners in React](https://dev.to/jamescroissant/understanding-immutability-for-beginners-in-react-346p)
+- [How to configure gradual change colors for discrete data in VChart?](https://dev.to/skie1997/how-to-configure-gradual-change-colors-for-discrete-data-in-vchart-4jgp)
+- [Safeguarding Your API Keys in React](https://dev.to/kachi14/safeguarding-your-api-keys-in-react-h09)
+- [Top College&#39;s Abroad for MCA](https://dev.to/suraj_0031/top-college-abroad-for-mca-27f1)
+- [How does react-vchart achieve on-demand loading?](https://dev.to/skie1997/how-does-react-vchart-achieve-on-demand-loading-2la6)
+- [03 Higher Order Functions in Javascript](https://dev.to/abhishekkrpand1/03-higher-order-functions-in-javascript-5hao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
