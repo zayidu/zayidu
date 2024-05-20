@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up a standalone SQLAlchemy 2.0 ORM application](https://dev.to/devsnorte/setting-up-a-standalone-sqlalchemy-20-orm-application-298c)
-- [GenAI: Using Amazon Bedrock, API Gateway, Lambda and S3](https://dev.to/aws-builders/genai-using-amazon-bedrock-api-gateway-lambda-and-s3-j6e)
-- [Install Ubuntu 20.04 on Virtualbox on Ubuntu 20.04](https://dev.to/nullity/install-ubuntu-2004-on-virtualbox-on-ubuntu-2004-pck)
-- [Is the tech interview process broken? 🚨](https://dev.to/huseyn0w/is-the-tech-interview-process-broken-68e)
-- [Why Choose .NET Development in 2024](https://dev.to/whotarusharora/why-choose-net-development-in-2024-28g3)
+- [Which AI feature would you want MOST from your project management tool?](https://dev.to/openproject/which-ai-feature-would-you-want-most-from-your-project-management-tool-pj3)
+- [FLaNK-AIM: 20 May 2024 Weekly](https://dev.to/tspannhw/flank-aim-20-may-2024-weekly-4la8)
+- [Free Bootstrap 5 Admin Template - Ranger](https://dev.to/rayiumir/free-bootstrap-5-admin-template-ranger-49a9)
+- [Getting Started with AWS Amplify: Simplifying Full-Stack Development](https://dev.to/raazketan/getting-started-with-aws-amplify-simplifying-full-stack-development-13e8)
+- [Adição de Alunos ao Google Classroom com Python](https://dev.to/madrade1472/adicao-de-alunos-ao-google-classroom-com-python-4jjg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
