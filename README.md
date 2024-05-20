@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I am suitable for the job but unsure why I can&#39;t get it! 😕](https://dev.to/github20k/i-am-suitable-for-the-job-but-unsure-why-i-cant-get-it-5eg4)
-- [Enhancing Mobile Apps with Effective Widget Development](https://dev.to/cygnismedia/enhancing-mobile-apps-with-effective-widget-development-128o)
-- [How I Created a Simple Weather Web App Using RapidAPI, HTML, CSS, and JS: A Step-by-Step Guide in VS CODE](https://dev.to/shauryaafk/how-i-created-a-simple-weather-web-app-using-rapidapi-html-css-and-js-a-step-by-step-guide-in-vs-code-2bk)
-- [CMPPreference - Compose Multiplatform](https://dev.to/mobileinnovation/cmppreference-compose-multiplatform-1jbf)
-- [[Docker] How to fix &#39;host not found in upstream &quot;host.docker.internal&quot;&#39;.](https://dev.to/fmtweisszwerg/docker-how-to-fix-host-not-found-in-upstream-hostdockerinternal-37od)
+- [From Scratch: OIDC Providers](https://dev.to/aws-builders/from-scratch-oidc-providers-252d)
+- [Best 8 Free and Paid Database Design Tools](https://dev.to/devartteam/best-8-free-and-paid-database-design-tools-2dif)
+- [Python Security Essentials for Your Apps](https://dev.to/sharony/python-security-essentials-for-your-apps-1810)
+- [How to automate tests with Tekton](https://dev.to/woovi/how-to-automate-tests-with-tekton-3caj)
+- [Best Affiliate Programs for Beginners](https://dev.to/sakurak02128375/best-affiliate-programs-for-beginners-1k1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
