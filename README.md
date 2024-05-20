@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rails Designer v0.12.0 released. New utilities category 💖](https://dev.to/railsdesigner/rails-designer-v0120-released-new-utilities-category-4gmd)
-- [Working with JsonObject, JsonNode, JsonValue and JsonArray [System.Text.Json API]](https://dev.to/vparab/working-with-jsonobject-jsonnode-jsonvalue-and-jsonarray-systemtextjson-api-5b8l)
-- [Decomposition.](https://dev.to/robinkiplangat/decomposition-346f)
-- [💖 Write Future-Compatible PHP Code with Symfony Polyfills](https://dev.to/ionbazan/write-future-compatible-php-code-with-symfony-polyfills-380b)
-- [Why I Decided to Leave Frontend Frameworks Behind](https://dev.to/sotergreco/why-i-decided-to-leave-frontend-frameworks-behind-268g)
+- [Implementing Automatic User Redirects in Next.js with Next-Auth](https://dev.to/itselftools/implementing-automatic-user-redirects-in-nextjs-with-next-auth-nm8)
+- [Our weekly API update: Historical Vessel Tracker, Live Ship Tracking and location maritime traffic tracking](https://dev.to/worldindata/our-weekly-api-update-historical-vessel-tracker-live-ship-tracking-and-location-maritime-traffic-tracking-355g)
+- [Exploring Astro: A Journey into Modern Web Development with Astro JS](https://dev.to/eneaslari/exploring-astro-a-journey-into-modern-web-development-with-astro-js-5ge6)
+- [Introduction to web2, general terminology, different architecture, SSR, Single Page App, Serverless Functions](https://dev.to/swarnendu0123/introduction-to-web2-general-terminology-different-architecture-ssr-single-page-app-serverless-functions-f5a)
+- [Introduction to web2, general terminology, different architecture, SSR, Single Page App, Serverless Functions](https://dev.to/oxiton_foundation/introduction-to-web2-general-terminology-different-architecture-ssr-single-page-app-serverless-functions-3o7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
