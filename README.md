@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Guide to PostgreSQL&#39;s MVCC](https://dev.to/dbvismarketing/quick-guide-to-postgresqls-mvcc-212j)
-- [Prompt Fuzzer: how to keep your agents on the right path](https://dev.to/giuliano1993/prompt-fuzzer-how-to-keep-your-agents-on-the-right-path-fc2)
-- [Understanding Error Boundaries in React: A Beginner’s Guide](https://dev.to/niketanwadaskar/understanding-error-boundaries-in-react-a-beginners-guide-4pg8)
-- [What&#39;s New in Angular 18: Key Features and Updates](https://dev.to/jaypansuriya/whats-new-in-angular-18-key-features-and-updates-f1d)
-- [Adorn Your Wrist with the Splendor of Moonphase Watches](https://dev.to/nehajangid9087/adorn-your-wrist-with-the-splendor-of-moonphase-watches-27oj)
+- [Configuring Internationalization in a Vue.js Application 🚀🌐](https://dev.to/amatisse/configuring-internationalization-in-a-vuejs-application-410e)
+- [nvm](https://dev.to/stuartcreed/nvm-1o1a)
+- [How to register internal controllers in Umbraco 13+](https://dev.to/d_inventor/how-to-register-internal-controllers-in-umbraco-13-4a1a)
+- [Laravel&#39;s most underrated security feature - What actually is a signed URL, and how do they work?](https://dev.to/danakin/laravels-most-underrated-security-feature-what-actually-is-a-signed-url-and-how-do-they-work-3768)
+- [New Yahoo Sender Hub Dashboard](https://dev.to/sweego/new-yahoo-sender-hub-dashboard-3cco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
