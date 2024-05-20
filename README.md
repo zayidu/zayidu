@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Automatic User Redirects in Next.js with Next-Auth](https://dev.to/itselftools/implementing-automatic-user-redirects-in-nextjs-with-next-auth-nm8)
-- [Our weekly API update: Historical Vessel Tracker, Live Ship Tracking and location maritime traffic tracking](https://dev.to/worldindata/our-weekly-api-update-historical-vessel-tracker-live-ship-tracking-and-location-maritime-traffic-tracking-355g)
-- [Exploring Astro: A Journey into Modern Web Development with Astro JS](https://dev.to/eneaslari/exploring-astro-a-journey-into-modern-web-development-with-astro-js-5ge6)
-- [Introduction to web2, general terminology, different architecture, SSR, Single Page App, Serverless Functions](https://dev.to/swarnendu0123/introduction-to-web2-general-terminology-different-architecture-ssr-single-page-app-serverless-functions-f5a)
-- [Introduction to web2, general terminology, different architecture, SSR, Single Page App, Serverless Functions](https://dev.to/oxiton_foundation/introduction-to-web2-general-terminology-different-architecture-ssr-single-page-app-serverless-functions-3o7m)
+- [I am suitable for the job but unsure why I can&#39;t get it! 😕](https://dev.to/github20k/i-am-suitable-for-the-job-but-unsure-why-i-cant-get-it-5eg4)
+- [Enhancing Mobile Apps with Effective Widget Development](https://dev.to/cygnismedia/enhancing-mobile-apps-with-effective-widget-development-128o)
+- [How I Created a Simple Weather Web App Using RapidAPI, HTML, CSS, and JS: A Step-by-Step Guide in VS CODE](https://dev.to/shauryaafk/how-i-created-a-simple-weather-web-app-using-rapidapi-html-css-and-js-a-step-by-step-guide-in-vs-code-2bk)
+- [CMPPreference - Compose Multiplatform](https://dev.to/mobileinnovation/cmppreference-compose-multiplatform-1jbf)
+- [[Docker] How to fix &#39;host not found in upstream &quot;host.docker.internal&quot;&#39;.](https://dev.to/fmtweisszwerg/docker-how-to-fix-host-not-found-in-upstream-hostdockerinternal-37od)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
