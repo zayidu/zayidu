@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to update outdated npm packages](https://dev.to/cbillowes/how-to-update-outdated-npm-packages-1ig7)
-- [Here&#39;s how I achieved faster code runs for running Docker Containers in Jetson Nano L4T](https://dev.to/sushantnair/heres-how-i-achieved-faster-code-runs-for-running-docker-containers-in-jetson-nano-l4t-2d05)
-- [Terratest vs Terraform/OpenTofu Test: In-Depth Comparison](https://dev.to/env0/terratest-vs-terraformopentofu-test-in-depth-comparison-10le)
-- [F# For Dummys - Day 9](https://dev.to/pythonzhu/f-for-dummys-day-9-l9p)
-- [Why Digital Ocean and Cloudways Are the Best Choices for Hosting WordPress, AI, and SaaS Application?](https://dev.to/asadravian/which-is-best-cloud-hosting-get-discount-code-308d)
+- [Setting up a standalone SQLAlchemy 2.0 ORM application](https://dev.to/devsnorte/setting-up-a-standalone-sqlalchemy-20-orm-application-298c)
+- [GenAI: Using Amazon Bedrock, API Gateway, Lambda and S3](https://dev.to/aws-builders/genai-using-amazon-bedrock-api-gateway-lambda-and-s3-j6e)
+- [Install Ubuntu 20.04 on Virtualbox on Ubuntu 20.04](https://dev.to/nullity/install-ubuntu-2004-on-virtualbox-on-ubuntu-2004-pck)
+- [Is the tech interview process broken? 🚨](https://dev.to/huseyn0w/is-the-tech-interview-process-broken-68e)
+- [Why Choose .NET Development in 2024](https://dev.to/whotarusharora/why-choose-net-development-in-2024-28g3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
