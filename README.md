@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to integrate LiFi Widget on your NextJS app](https://dev.to/elishaokon13/how-to-integrate-lifi-widget-on-your-nextjs-app-5109)
-- [Rename all files and directories in the current folder](https://dev.to/alexander6/rename-all-files-and-directories-in-the-current-folder-1l41)
-- [Factory Design Pattern](https://dev.to/nabim777/factory-design-pattern-4n5j)
-- [GSM8K Will Make AI Hate Humanity](https://dev.to/panasenco/gsm8k-will-make-ai-hate-humanity-o9i)
-- [Enhancing LLMs through RAG Knowledge Integration](https://dev.to/asmisalan/enhancing-llms-through-rag-knowledge-integration-35e2)
+- [Computer Networks: Protocol Layering and the OSI Model](https://dev.to/shoki/computer-networks-protocol-layering-and-the-osi-model-256f)
+- [12 Quick Tips for Writing Clean Code](https://dev.to/zacharylee/12-quick-tips-for-writing-clean-code-34bm)
+- [Do You Need a CS Degree to Get a Job in Tech?](https://dev.to/thekarlesi/do-you-need-a-cs-degree-to-get-a-job-in-tech-jf2)
+- [Cloud Build Setup with Private Github Repos and Submodules](https://dev.to/charlottetowell/cloud-build-setup-with-private-github-repos-and-submodules-k4g)
+- [Guía Completa sobre AWS IAM: Usuarios, Grupos, Permisos y Buenas Prácticas](https://dev.to/jamesnoria95/guia-completa-sobre-aws-iam-usuarios-grupos-permisos-y-buenas-practicas-jlh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
