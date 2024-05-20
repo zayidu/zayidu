@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Which AI feature would you want MOST from your project management tool?](https://dev.to/openproject/which-ai-feature-would-you-want-most-from-your-project-management-tool-pj3)
-- [FLaNK-AIM: 20 May 2024 Weekly](https://dev.to/tspannhw/flank-aim-20-may-2024-weekly-4la8)
-- [Free Bootstrap 5 Admin Template - Ranger](https://dev.to/rayiumir/free-bootstrap-5-admin-template-ranger-49a9)
-- [Getting Started with AWS Amplify: Simplifying Full-Stack Development](https://dev.to/raazketan/getting-started-with-aws-amplify-simplifying-full-stack-development-13e8)
-- [Adição de Alunos ao Google Classroom com Python](https://dev.to/madrade1472/adicao-de-alunos-ao-google-classroom-com-python-4jjg)
+- [Mastering API Authentication: Your Ultimate Guide to Securing APIs](https://dev.to/hosead6168/mastering-api-authentication-your-ultimate-guide-to-securing-apis-2298)
+- [ARRAYS, LISTS AND IENUMERABLES](https://dev.to/matthewsowho/arrays-lists-and-ienumerables-1jnl)
+- [DEPLOYING A WINDOWS 11 VIRTUAL MACHINE](https://dev.to/kellyt/deploying-a-windows-11-virtual-machine-298a)
+- [How to simply receive HTML from the server after a javascript event on elements and load it into the DOM?](https://dev.to/antonmak1/how-to-simply-receive-html-from-the-server-using-a-javascript-event-on-elements-and-load-it-into-the-dom-4b9n)
+- [Don&#39;t Make One of These Entity Framework Core Mistakes](https://dev.to/michaeljolley/dont-make-one-of-these-entity-framework-core-mistakes-4g1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
