@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Hide Scrollbar Using CSS?](https://dev.to/refine/how-to-hide-scrollbar-using-css-2509)
-- [Effective Strategies for Searching Stored Procedures in Oracle](https://dev.to/luca1iu/effective-strategies-for-searching-stored-procedures-in-oracle-p3m)
-- [Exploring IoT Testing: Varieties and Instrumentation](https://dev.to/jennife05918349/exploring-iot-testing-varieties-and-instrumentation-5b14)
-- [What Is Artificial Intelligence? Types, Benefits, Career Options](https://dev.to/topainewsindia/what-is-artificial-intelligence-types-benefits-career-options-3kfl)
-- [Let&#39;s Talk About Power Platform Pipelines](https://dev.to/wyattdave/lets-talk-about-power-platform-pipelines-36e4)
+- [Quick Guide to PostgreSQL&#39;s MVCC](https://dev.to/dbvismarketing/quick-guide-to-postgresqls-mvcc-212j)
+- [Prompt Fuzzer: how to keep your agents on the right path](https://dev.to/giuliano1993/prompt-fuzzer-how-to-keep-your-agents-on-the-right-path-fc2)
+- [Understanding Error Boundaries in React: A Beginner’s Guide](https://dev.to/niketanwadaskar/understanding-error-boundaries-in-react-a-beginners-guide-4pg8)
+- [What&#39;s New in Angular 18: Key Features and Updates](https://dev.to/jaypansuriya/whats-new-in-angular-18-key-features-and-updates-f1d)
+- [Adorn Your Wrist with the Splendor of Moonphase Watches](https://dev.to/nehajangid9087/adorn-your-wrist-with-the-splendor-of-moonphase-watches-27oj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
