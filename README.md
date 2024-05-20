@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to place a buy &amp; sell trade on pump.fun tokens](https://dev.to/voren_tai_24467d3051ef996/how-to-place-a-buy-sell-trade-on-pumpfun-tokens-1dlf)
-- [Docker, Linux, Security. Kinda.](https://dev.to/terminaldweller/docker-linux-security-kinda-2l1f)
-- [Computer Networks: Protocol Layering and the OSI Model](https://dev.to/shoki/computer-networks-protocol-layering-and-the-osi-model-256f)
-- [12 Quick Tips for Writing Clean Code](https://dev.to/zacharylee/12-quick-tips-for-writing-clean-code-34bm)
-- [Do You Need a CS Degree to Get a Job in Tech?](https://dev.to/thekarlesi/do-you-need-a-cs-degree-to-get-a-job-in-tech-jf2)
+- [Google Closed Testing Reject ~You need to think about how to get testers~](https://dev.to/zmsoft/google-closed-testing-reject-you-need-to-think-about-how-to-get-testers-36hj)
+- [Consult Bridge v1](https://dev.to/tdubs/consult-bridge-v1-57en)
+- [Artificial Intelligence is not as bad as you think, you&#39;re just not reading allat](https://dev.to/tpacce/artificial-intelligence-is-not-as-bad-as-you-think-youre-just-not-reading-allat-44m)
+- [Tech Fun Facts: The Quirky Side of Technology](https://dev.to/jackrover/tech-fun-facts-the-quirky-side-of-technology-1d42)
+- [Step by step, use Ocelot as an API Gateway in the .NET Core.](https://dev.to/debug_mode/step-by-step-use-ocelot-as-an-api-gateway-in-the-net-core-47l7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
