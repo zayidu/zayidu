@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering API Authentication: Your Ultimate Guide to Securing APIs](https://dev.to/hosead6168/mastering-api-authentication-your-ultimate-guide-to-securing-apis-2298)
-- [ARRAYS, LISTS AND IENUMERABLES](https://dev.to/matthewsowho/arrays-lists-and-ienumerables-1jnl)
-- [DEPLOYING A WINDOWS 11 VIRTUAL MACHINE](https://dev.to/kellyt/deploying-a-windows-11-virtual-machine-298a)
-- [How to simply receive HTML from the server after a javascript event on elements and load it into the DOM?](https://dev.to/antonmak1/how-to-simply-receive-html-from-the-server-using-a-javascript-event-on-elements-and-load-it-into-the-dom-4b9n)
-- [Don&#39;t Make One of These Entity Framework Core Mistakes](https://dev.to/michaeljolley/dont-make-one-of-these-entity-framework-core-mistakes-4g1g)
+- [How to Check MySQL Database and Table Sizes](https://dev.to/drupaladmin/how-to-check-mysql-database-and-table-sizes-2ep2)
+- [How to Decide if Frontend Development is Right for You](https://dev.to/bingecoder89/how-to-decide-if-frontend-development-is-right-for-you-3b5l)
+- [Stream Data at scale from millions of sources with Amazon Kinesis - An Introduction](https://dev.to/asanka_botheju/stream-data-at-scale-from-millions-of-sources-with-amazon-kinesis-an-introduction-2kg1)
+- [Connecting a POS Printer to Windows OS Using Django: A Comprehensive Guide](https://dev.to/tarek_eissa/connecting-a-pos-printer-to-windows-os-using-django-a-comprehensive-guide-33km)
+- [SAP Basis snippets #6](https://dev.to/ashwinsharmap/sap-basis-snippets-6-4p9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
