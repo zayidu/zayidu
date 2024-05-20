@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Check MySQL Database and Table Sizes](https://dev.to/drupaladmin/how-to-check-mysql-database-and-table-sizes-2ep2)
-- [How to Decide if Frontend Development is Right for You](https://dev.to/bingecoder89/how-to-decide-if-frontend-development-is-right-for-you-3b5l)
-- [Stream Data at scale from millions of sources with Amazon Kinesis - An Introduction](https://dev.to/asanka_botheju/stream-data-at-scale-from-millions-of-sources-with-amazon-kinesis-an-introduction-2kg1)
-- [Connecting a POS Printer to Windows OS Using Django: A Comprehensive Guide](https://dev.to/tarek_eissa/connecting-a-pos-printer-to-windows-os-using-django-a-comprehensive-guide-33km)
-- [SAP Basis snippets #6](https://dev.to/ashwinsharmap/sap-basis-snippets-6-4p9c)
+- [Finding the duplicate number in constant space &lpar;Python&rpar;](https://dev.to/saurabhparyani/finding-the-duplicate-number-in-constant-space-python-mn9)
+- [Building the Blocks of the Web: A Beginner&#39;s Guide to HTML](https://dev.to/harsh_dev26/building-the-blocks-of-the-web-a-beginners-guide-to-html-4ffo)
+- [Algorytmy rekurencyjne](https://dev.to/kumala3/algorytmy-rekurencyjne-4ea5)
+- [The Document Object Model &lpar;DOM&rpar;- A Complete Guide](https://dev.to/kingsley_uwandu/the-document-object-model-dom-a-complete-guide-1kk)
+- [1863. Sum of All Subset XOR Totals](https://dev.to/mdarifulhaque/1863-sum-of-all-subset-xor-totals-4850)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
