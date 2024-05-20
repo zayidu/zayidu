@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Closed Testing Reject ~You need to think about how to get testers~](https://dev.to/zmsoft/google-closed-testing-reject-you-need-to-think-about-how-to-get-testers-36hj)
-- [Consult Bridge v1](https://dev.to/tdubs/consult-bridge-v1-57en)
-- [Artificial Intelligence is not as bad as you think, you&#39;re just not reading allat](https://dev.to/tpacce/artificial-intelligence-is-not-as-bad-as-you-think-youre-just-not-reading-allat-44m)
-- [Tech Fun Facts: The Quirky Side of Technology](https://dev.to/jackrover/tech-fun-facts-the-quirky-side-of-technology-1d42)
-- [Step by step, use Ocelot as an API Gateway in the .NET Core.](https://dev.to/debug_mode/step-by-step-use-ocelot-as-an-api-gateway-in-the-net-core-47l7)
+- [Tips to Maintain Strong Cloud Security](https://dev.to/shivamchamoli18/tips-to-maintain-strong-cloud-security-19o4)
+- [cludefare acme 证书申请](https://dev.to/tingshuai/cludefare-acme-zheng-shu-shen-qing-309d)
+- [What a fascinating python framework!](https://dev.to/gfouz/what-a-fascinating-python-framework-9a1)
+- [What a fascinating python framework!](https://dev.to/gfouz/what-a-fascinating-python-framework-io0)
+- [Navigating Expo 📲🫠](https://dev.to/jjuarez5/navigating-expo-5h7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
