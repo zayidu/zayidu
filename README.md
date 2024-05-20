@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bubble Sort Algorithm](https://dev.to/max_githinji/bubble-sort-algorithm-4j82)
-- [Jetbrains Rider External Tools example based on Docker](https://dev.to/heku4/jetbrains-rider-external-tools-example-based-on-docker-19om)
-- [Coding the design: Angular &amp; user decision making flow](https://dev.to/jodamco/coding-the-design-angular-user-decision-making-flow-2l1p)
-- [Experimenting with generics in Rust: little library for Bezier curves - part 1](https://dev.to/iprosk/experimenting-with-generics-in-rust-little-library-for-bezier-curves-part-1-4093)
-- [Relationships In Python](https://dev.to/pedroa54/relationships-in-python-g4a)
+- [Finally, the question of how to centre a div is OVER !!!](https://dev.to/shreyvijayvargiya/finally-the-question-of-how-to-centre-a-div-is-over--32o)
+- [My first foray into OOP](https://dev.to/sleepysloth/my-first-foray-into-oop-4mmd)
+- [Specification-Based Testing: Analyze boundaries](https://dev.to/tiuwill/specification-based-testing-analyze-boundaries-585h)
+- [Boas Práticas ao nomear variáveis e funções](https://dev.to/lliuti/boas-praticas-ao-nomear-variaveis-e-funcoes-3k4l)
+- [A Beginner&#39;s Guide to Smartcontract development on BSV](https://dev.to/godwinj/a-beginners-guide-to-smartcontract-development-on-bsv-4d5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
