@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bringing up BPI-F3 - Part 2](https://dev.to/luzero/bringing-up-bpi-f3-part-2-2ikj)
-- [Understanding RTO &amp; RPO in Disaster Recovery](https://dev.to/jakeinthecloud/understanding-rto-rpo-in-disaster-recovery-3oe8)
-- [ASP.NET Core New BackEnd Framework! CodeBehind 2.5 Released](https://dev.to/elanatframework/aspnet-core-new-backend-framework-codebehind-25-released-13p7)
-- [Elevating Your Content with Video Transformations](https://dev.to/msmith99994/elevating-your-content-with-video-transformations-5ge8)
-- [Conditional Class Rendering in React using CLSX](https://dev.to/antonmartyniuk/conditional-class-rendering-in-react-using-clsx-20l1)
+- [Bubble Sort Algorithm](https://dev.to/max_githinji/bubble-sort-algorithm-4j82)
+- [Jetbrains Rider External Tools example based on Docker](https://dev.to/heku4/jetbrains-rider-external-tools-example-based-on-docker-19om)
+- [Coding the design: Angular &amp; user decision making flow](https://dev.to/jodamco/coding-the-design-angular-user-decision-making-flow-2l1p)
+- [Experimenting with generics in Rust: little library for Bezier curves - part 1](https://dev.to/iprosk/experimenting-with-generics-in-rust-little-library-for-bezier-curves-part-1-4093)
+- [Relationships In Python](https://dev.to/pedroa54/relationships-in-python-g4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
