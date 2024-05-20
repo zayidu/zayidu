@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Finally, the question of how to centre a div is OVER !!!](https://dev.to/shreyvijayvargiya/finally-the-question-of-how-to-centre-a-div-is-over--32o)
-- [My first foray into OOP](https://dev.to/sleepysloth/my-first-foray-into-oop-4mmd)
-- [Specification-Based Testing: Analyze boundaries](https://dev.to/tiuwill/specification-based-testing-analyze-boundaries-585h)
-- [Boas Práticas ao nomear variáveis e funções](https://dev.to/lliuti/boas-praticas-ao-nomear-variaveis-e-funcoes-3k4l)
-- [A Beginner&#39;s Guide to Smartcontract development on BSV](https://dev.to/godwinj/a-beginners-guide-to-smartcontract-development-on-bsv-4d5f)
+- [1863. Sum of All Subset XOR Totals](https://dev.to/karleb/1863-sum-of-all-subset-xor-totals-3hga)
+- [[Game of Purpose] - Day 2](https://dev.to/humberd/game-of-purpose-day-2-17o6)
+- [Monorepo architecture in shadcn-ui/ui.](https://dev.to/ramunarasinga/monorepo-architecture-in-shadcn-uiui-6n2)
+- [Good practices that make a difference #1](https://dev.to/superp0sit1on/small-good-practices-that-make-a-difference-part-1-584)
+- [Boas práticas que fazem a diferença #1](https://dev.to/superp0sit1on/pequenas-boas-praticas-que-fazem-a-diferenca-parte-1-24ka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
