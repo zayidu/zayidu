@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VueJS + Tailwind + DaisyUI = 😎🌷](https://dev.to/jonas-elias/vuejs-tailwind-daisyui--1356)
-- [Automating Web Development Tasks with AI: Enhancing Efficiency and Innovation](https://dev.to/buildwebcrumbs/automating-web-development-tasks-with-ai-enhancing-efficiency-and-innovation-2l1i)
-- [Automating Web Development Tasks with AI: Enhancing Efficiency and Innovation](https://dev.to/buildwebcrumbs/automating-web-development-tasks-with-ai-enhancing-efficiency-and-innovation-3l0o)
-- [Quantum Computing and the Looming Threat to Our Privacy: A Deep Dive](https://dev.to/debparnob/quantum-computing-and-the-looming-threat-to-our-privacy-a-deep-dive-3697)
-- [Ansible with Task Automation Demo](https://dev.to/k3n3/ansible-with-task-automation-demo-3k8m)
+- [Bringing up BPI-F3 - Part 2](https://dev.to/luzero/bringing-up-bpi-f3-part-2-2ikj)
+- [Understanding RTO &amp; RPO in Disaster Recovery](https://dev.to/jakeinthecloud/understanding-rto-rpo-in-disaster-recovery-3oe8)
+- [ASP.NET Core New BackEnd Framework! CodeBehind 2.5 Released](https://dev.to/elanatframework/aspnet-core-new-backend-framework-codebehind-25-released-13p7)
+- [Elevating Your Content with Video Transformations](https://dev.to/msmith99994/elevating-your-content-with-video-transformations-5ge8)
+- [Conditional Class Rendering in React using CLSX](https://dev.to/antonmartyniuk/conditional-class-rendering-in-react-using-clsx-20l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
