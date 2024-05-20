@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding the duplicate number in constant space &lpar;Python&rpar;](https://dev.to/saurabhparyani/finding-the-duplicate-number-in-constant-space-python-mn9)
-- [Building the Blocks of the Web: A Beginner&#39;s Guide to HTML](https://dev.to/harsh_dev26/building-the-blocks-of-the-web-a-beginners-guide-to-html-4ffo)
-- [Algorytmy rekurencyjne](https://dev.to/kumala3/algorytmy-rekurencyjne-4ea5)
-- [The Document Object Model &lpar;DOM&rpar;- A Complete Guide](https://dev.to/kingsley_uwandu/the-document-object-model-dom-a-complete-guide-1kk)
-- [1863. Sum of All Subset XOR Totals](https://dev.to/mdarifulhaque/1863-sum-of-all-subset-xor-totals-4850)
+- [VueJS + Tailwind + DaisyUI = 😎🌷](https://dev.to/jonas-elias/vuejs-tailwind-daisyui--1356)
+- [Automating Web Development Tasks with AI: Enhancing Efficiency and Innovation](https://dev.to/buildwebcrumbs/automating-web-development-tasks-with-ai-enhancing-efficiency-and-innovation-2l1i)
+- [Automating Web Development Tasks with AI: Enhancing Efficiency and Innovation](https://dev.to/buildwebcrumbs/automating-web-development-tasks-with-ai-enhancing-efficiency-and-innovation-3l0o)
+- [Quantum Computing and the Looming Threat to Our Privacy: A Deep Dive](https://dev.to/debparnob/quantum-computing-and-the-looming-threat-to-our-privacy-a-deep-dive-3697)
+- [Ansible with Task Automation Demo](https://dev.to/k3n3/ansible-with-task-automation-demo-3k8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
