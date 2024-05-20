@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Scratch: OIDC Providers](https://dev.to/aws-builders/from-scratch-oidc-providers-252d)
-- [Best 8 Free and Paid Database Design Tools](https://dev.to/devartteam/best-8-free-and-paid-database-design-tools-2dif)
-- [Python Security Essentials for Your Apps](https://dev.to/sharony/python-security-essentials-for-your-apps-1810)
-- [How to automate tests with Tekton](https://dev.to/woovi/how-to-automate-tests-with-tekton-3caj)
-- [Best Affiliate Programs for Beginners](https://dev.to/sakurak02128375/best-affiliate-programs-for-beginners-1k1g)
+- [How to update outdated npm packages](https://dev.to/cbillowes/how-to-update-outdated-npm-packages-1ig7)
+- [Here&#39;s how I achieved faster code runs for running Docker Containers in Jetson Nano L4T](https://dev.to/sushantnair/heres-how-i-achieved-faster-code-runs-for-running-docker-containers-in-jetson-nano-l4t-2d05)
+- [Terratest vs Terraform/OpenTofu Test: In-Depth Comparison](https://dev.to/env0/terratest-vs-terraformopentofu-test-in-depth-comparison-10le)
+- [F# For Dummys - Day 9](https://dev.to/pythonzhu/f-for-dummys-day-9-l9p)
+- [Why Digital Ocean and Cloudways Are the Best Choices for Hosting WordPress, AI, and SaaS Application?](https://dev.to/asadravian/which-is-best-cloud-hosting-get-discount-code-308d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
