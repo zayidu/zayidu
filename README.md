@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring Internationalization in a Vue.js Application 🚀🌐](https://dev.to/amatisse/configuring-internationalization-in-a-vuejs-application-410e)
-- [nvm](https://dev.to/stuartcreed/nvm-1o1a)
-- [How to register internal controllers in Umbraco 13+](https://dev.to/d_inventor/how-to-register-internal-controllers-in-umbraco-13-4a1a)
-- [Laravel&#39;s most underrated security feature - What actually is a signed URL, and how do they work?](https://dev.to/danakin/laravels-most-underrated-security-feature-what-actually-is-a-signed-url-and-how-do-they-work-3768)
-- [New Yahoo Sender Hub Dashboard](https://dev.to/sweego/new-yahoo-sender-hub-dashboard-3cco)
+- [Rails Designer v0.12.0 released. New utilities category 💖](https://dev.to/railsdesigner/rails-designer-v0120-released-new-utilities-category-4gmd)
+- [Working with JsonObject, JsonNode, JsonValue and JsonArray [System.Text.Json API]](https://dev.to/vparab/working-with-jsonobject-jsonnode-jsonvalue-and-jsonarray-systemtextjson-api-5b8l)
+- [Decomposition.](https://dev.to/robinkiplangat/decomposition-346f)
+- [💖 Write Future-Compatible PHP Code with Symfony Polyfills](https://dev.to/ionbazan/write-future-compatible-php-code-with-symfony-polyfills-380b)
+- [Why I Decided to Leave Frontend Frameworks Behind](https://dev.to/sotergreco/why-i-decided-to-leave-frontend-frameworks-behind-268g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
