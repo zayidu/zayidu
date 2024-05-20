@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [I am thrilled to announce the completion of the Tssnif web application, which is based on Arabic article classification.](https://dev.to/yahiaslim12/i-am-thrilled-to-announce-the-completion-of-the-tssnif-web-application-which-is-based-on-arabic-article-classification-4852)
+- [The best domain name generators on the web](https://dev.to/diogocapela/the-best-domain-name-generators-on-the-web-4a4o)
+- [rust2](https://dev.to/zhangwuji/rust2-1ph7)
 - [Balanced Trees - The Experience](https://dev.to/nidheeshmvakharia/balanced-trees-the-experience-1559)
 - [Demystifying Regex in Go](https://dev.to/cherrypick14/demystifying-regex-in-go-4clf)
-- [Phase-1 Project](https://dev.to/silasgebhart/phase-1-project-131f)
-- [AI vs Software Engineers](https://dev.to/maggiekaruri/ai-vs-software-engineers-3aip)
-- [Configuring VSCodeVim](https://dev.to/ritek/configuring-vscodevim-54l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
