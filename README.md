@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tips to Maintain Strong Cloud Security](https://dev.to/shivamchamoli18/tips-to-maintain-strong-cloud-security-19o4)
-- [cludefare acme 证书申请](https://dev.to/tingshuai/cludefare-acme-zheng-shu-shen-qing-309d)
-- [What a fascinating python framework!](https://dev.to/gfouz/what-a-fascinating-python-framework-9a1)
-- [What a fascinating python framework!](https://dev.to/gfouz/what-a-fascinating-python-framework-io0)
-- [Navigating Expo 📲🫠](https://dev.to/jjuarez5/navigating-expo-5h7l)
+- [How to Hide Scrollbar Using CSS?](https://dev.to/refine/how-to-hide-scrollbar-using-css-2509)
+- [Effective Strategies for Searching Stored Procedures in Oracle](https://dev.to/luca1iu/effective-strategies-for-searching-stored-procedures-in-oracle-p3m)
+- [Exploring IoT Testing: Varieties and Instrumentation](https://dev.to/jennife05918349/exploring-iot-testing-varieties-and-instrumentation-5b14)
+- [What Is Artificial Intelligence? Types, Benefits, Career Options](https://dev.to/topainewsindia/what-is-artificial-intelligence-types-benefits-career-options-3kfl)
+- [Let&#39;s Talk About Power Platform Pipelines](https://dev.to/wyattdave/lets-talk-about-power-platform-pipelines-36e4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
