@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a password manager with Rust - Part 1](https://dev.to/damcosset/build-a-password-manager-with-rust-part-1-3g3)
-- [Anotações da faculdade - Matemática - Teoria dos conjuntos](https://dev.to/jvmartyns/anotacoes-da-faculdade-matematica-teoria-dos-conjuntos-24i0)
-- [T-Shirt Tuesday](https://dev.to/buildwebcrumbs/t-shirt-tuesday-4353)
-- [How to Promote your Status Page to Customers and Stakeholders](https://dev.to/statuspal/how-to-promote-your-status-page-to-customers-and-stakeholders-gke)
-- [Understanding Low Code Mobile App Development Platforms](https://dev.to/n968941/understanding-low-code-mobile-app-development-platforms-pi8)
+- [Peeling the MongoDB Drivers Onion](https://dev.to/alexbevi/peeling-the-mongodb-drivers-onion-2gma)
+- [Add Sitemap in Next.js 14 [Static &amp; Dynamic]](https://dev.to/thefaruksardar/add-sitemap-in-nextjs-14-static-dynamic-2eo1)
+- [GitHub Sponsors 💰 and Perl 🐫](https://dev.to/szabgab/github-sponsors-and-perl-fam)
+- [How to Contribute to the Open Source Learn to Code Platform GIGO Dev](https://dev.to/gigo_dev/how-to-contribute-to-the-open-source-learn-to-code-platform-gigo-dev-4d4a)
+- [Compute Caddy payload using Jinja2 with Ansible](https://dev.to/erwyn/compute-caddy-payload-using-jinja2-with-ansible-9el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
