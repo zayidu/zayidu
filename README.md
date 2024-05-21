@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unit Testing with Mocha &amp; Chai 🚀](https://dev.to/kwamedev/unit-testing-with-mocha-chai-4gdh)
-- [Optimizing cloud costs: Avoid these 5 mistakes that inflate cloud bills](https://dev.to/softwebsolution/optimizing-cloud-costs-avoid-these-5-mistakes-that-inflate-cloud-bills-mcl)
-- [🚀 **Unlocking the Power of DOM Manipulation with JavaScript** 🚀](https://dev.to/erasmuskotoka/unlocking-the-power-of-dom-manipulation-with-javascript-35f7)
-- [Playwright VS Code Extension, projects and global setup](https://dev.to/playwright/playwright-vs-code-extension-projects-and-global-setup-3i44)
-- [How Video API Helps in the Education Sector](https://dev.to/yogender_singh_011ebbe493/how-video-api-helps-in-the-education-sector-1om2)
+- [How to Dockerize a Ruby on Rails application](https://dev.to/datarockets/how-to-dockerize-a-ruby-on-rails-application-4h81)
+- [Send Push Notifications without Hassles of FCM Token Generation](https://dev.to/suprsend/send-push-notifications-without-hassles-of-fcm-token-generation-1n91)
+- [Debugging Kubernetes Part 1: An Introduction](https://dev.to/codenameone/debugging-kubernetes-part-1-an-introduction-1l21)
+- [What the heck is JSX in React and Why Should You Care?](https://dev.to/arnabsahawrk/what-the-heck-is-jsx-in-react-and-why-should-you-care-38f6)
+- [Analogia receita de bolo VS algoritmo VS linguagem de programação](https://dev.to/devxbr/analogia-receita-de-bolo-vs-algoritmo-vs-linguagem-de-programacao-34he)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
