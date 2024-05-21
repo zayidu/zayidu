@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon EKS: Analyze control plane and CloudTrail logs for better detective controls](https://dev.to/aws-builders/amazon-eks-analyze-control-plane-and-cloudtrail-logs-for-better-detective-controls-3b3a)
-- [Building a Decentralized Voting DApp: A Comprehensive Guide](https://dev.to/souravmaji1/building-a-decentralized-voting-dapp-a-comprehensive-guide-2h66)
-- [[DAY 5] I Built A Cafe Menu](https://dev.to/thomascansino/day-5-i-built-a-cafe-menu-5amb)
-- [My Little Protopage - A Cloud Homepage](https://dev.to/fonzacus/my-little-protopage-a-cloud-homepage-1fen)
-- [The Power Of Array.reduce&lpar;&rpar;🐐](https://dev.to/mteguhirawan1996/the-power-of-arrayreduce-eb9)
+- [Exploring the Potential of Blockchain Beyond Cryptocurrencies](https://dev.to/nikhilpandey12/exploring-the-potential-of-blockchain-beyond-cryptocurrencies-d2e)
+- [The Future of Web Development: Embracing Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/nikhilpandey12/the-future-of-web-development-embracing-progressive-web-apps-pwas-1m1n)
+- [Upgrading Node.js via the terminal &lpar;NVM or brew&rpar;](https://dev.to/sh20raj/upgrading-nodejs-via-the-terminal-nvm-or-brew-220d)
+- [The Top 6 CSS Cheatsheets that will Save You Hours](https://dev.to/devshefali/the-top-6-css-cheatsheets-that-will-save-you-hours-2lp1)
+- [Turn a country code into an emoji flag &lpar;US ➡️ 🇺🇸&rpar;](https://dev.to/ionbazan/turn-a-country-code-into-an-emoji-flag-us--360a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
