@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Channels — Efficient and secure communication between threads and tasks](https://dev.to/ben-witt/c-channels-efficient-and-secure-communication-between-threads-and-tasks-26mc)
-- [Choosing the Right Partner for Headless Development using Sanity](https://dev.to/incerro111/choosing-the-right-partner-for-headless-development-using-sanity-4no5)
-- [Optimizing E-Commerce: The Crucial Role of Magento Web Hosting](https://dev.to/charleslyman/optimizing-e-commerce-the-crucial-role-of-magento-web-hosting-a92)
-- [What is the difference between cample-html and htmx?](https://dev.to/antonmak1/what-is-the-difference-between-cample-html-and-htmx-2c0m)
-- [Setting up Flutter](https://dev.to/nacariored/setting-up-flutter-3n64)
+- [How to load env for Nuxt layers](https://dev.to/leamsigc/how-to-load-env-for-nuxt-layers-38g1)
+- [Classes variables early thoughts 🤔](https://dev.to/gaotter/classes-variables-early-thoughts-5h9l)
+- [Simplify Your Kubernetes Multi-Cluster Management: The Secret to Streamlined Add-on Deployments](https://dev.to/gianlucam76/centralized-add-on-management-across-n-kubernetes-clusters-308k)
+- [Cloud Run without VPC Serverless](https://dev.to/mkdev/cloud-run-without-vpc-serverless-3p5p)
+- [Flatlogic Announces Shift from Web Templates to AI-Powered Business Software](https://dev.to/flatlogic/flatlogic-announces-shift-from-web-templates-to-ai-powered-business-software-5ffi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
