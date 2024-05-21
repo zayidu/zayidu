@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Dockerize a Ruby on Rails application](https://dev.to/datarockets/how-to-dockerize-a-ruby-on-rails-application-4h81)
-- [Send Push Notifications without Hassles of FCM Token Generation](https://dev.to/suprsend/send-push-notifications-without-hassles-of-fcm-token-generation-1n91)
-- [Debugging Kubernetes Part 1: An Introduction](https://dev.to/codenameone/debugging-kubernetes-part-1-an-introduction-1l21)
-- [What the heck is JSX in React and Why Should You Care?](https://dev.to/arnabsahawrk/what-the-heck-is-jsx-in-react-and-why-should-you-care-38f6)
-- [Analogia receita de bolo VS algoritmo VS linguagem de programação](https://dev.to/devxbr/analogia-receita-de-bolo-vs-algoritmo-vs-linguagem-de-programacao-34he)
+- [Best JavaScript One Liners that You Must Know](https://dev.to/shubhsharma19/best-javascript-one-liners-that-you-must-know-3740)
+- [NLP vs LLM: A Comprehensive Guide to Understanding Key Differences](https://dev.to/tarek_eissa/nlp-vs-llm-a-comprehensive-guide-to-understanding-key-differences-2can)
+- [JavaScript30 - 3 Playing with CSS Variables and JS](https://dev.to/virtualsobriety/javascript30-3-playing-with-css-variables-and-js-283i)
+- [How to Transfer OS from One SSD to Another Drive](https://dev.to/furkangozukara/how-to-transfer-os-from-one-ssd-to-another-drive-323j)
+- [First Post!](https://dev.to/alexmerino13/first-post-53fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
