@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Search for an internship](https://dev.to/suphi/search-for-an-internship-2em7)
-- [𝗔𝗿𝗿𝗮𝘆- 𝗤𝟱 𝗨𝗻𝗶𝗾𝘂𝗲 𝗣𝗮𝘁𝗵𝘀 𝗜𝗜𝗜](https://dev.to/sailwalpranjal/--112c)
-- [Understanding Go: part 11 – Functions](https://dev.to/aurelievache/understanding-go-part-11-functions-3gjh)
-- [7 Common Blunders to Avoid in C# Development](https://dev.to/crafting-code/7-common-blunders-to-avoid-in-c-development-444o)
-- [Form Tag in HTML](https://dev.to/shehzadhussain/form-tag-in-html-4kpb)
+- [Too many third-party embeds are making this accessibility mistake](https://dev.to/robole/too-many-third-party-embeds-are-making-this-accessibility-mistake-3h7l)
+- [From Contributor to Maintainer: My Journey in Open Source](https://dev.to/adiatiayu/from-contributor-to-maintainer-my-journey-in-open-source-1lif)
+- [Building VS. Selling: Why a Stellar Product Outshines Marketing and Sales](https://dev.to/drpraze/building-vs-selling-why-a-stellar-product-outshines-marketing-and-sales-514f)
+- [Search will be the future of LLM and AI Applications.](https://dev.to/srbhr/search-will-be-the-future-of-llm-and-ai-applications-26fl)
+- [Lisp: simplifying my problems through code](https://dev.to/veer66/lisp-simplifying-my-problems-through-code-19d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
