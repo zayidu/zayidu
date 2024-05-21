@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Time Management: Balance Your Job and Personal Growth 📈🧘‍♂](https://dev.to/hey_rishabh/mastering-time-management-balance-your-job-and-personal-growth-4l7h)
-- [Step-by-Step Guide to Building an E-commerce Site with Laravel](https://dev.to/hirelaraveldevelopers/step-by-step-guide-to-building-an-e-commerce-site-with-laravel-3ihn)
-- [Master Targeted Communication in Microsoft 365](https://dev.to/jaloplo/master-targeted-communication-in-microsoft-365-525o)
-- [Quantum Computing: Shaping the Future of Problem Solving](https://dev.to/nikhilpandey12/quantum-computing-shaping-the-future-of-problem-solving-h5j)
-- [Exploring the Potential of Blockchain Beyond Cryptocurrencies](https://dev.to/nikhilpandey12/exploring-the-potential-of-blockchain-beyond-cryptocurrencies-d2e)
+- [C# Channels — Efficient and secure communication between threads and tasks](https://dev.to/ben-witt/c-channels-efficient-and-secure-communication-between-threads-and-tasks-26mc)
+- [Choosing the Right Partner for Headless Development using Sanity](https://dev.to/incerro111/choosing-the-right-partner-for-headless-development-using-sanity-4no5)
+- [Optimizing E-Commerce: The Crucial Role of Magento Web Hosting](https://dev.to/charleslyman/optimizing-e-commerce-the-crucial-role-of-magento-web-hosting-a92)
+- [What is the difference between cample-html and htmx?](https://dev.to/antonmak1/what-is-the-difference-between-cample-html-and-htmx-2c0m)
+- [Setting up Flutter](https://dev.to/nacariored/setting-up-flutter-3n64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
