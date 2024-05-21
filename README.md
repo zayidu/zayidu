@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TanStack Form Tutorial: Advanced Validation](https://dev.to/this-is-learning/tanstack-form-tutorial-advanced-validation-41hc)
-- [How To Get a Web Developer Job in 2024 &lpar;without dying inside&rpar; 🧑‍💻💀](https://dev.to/wasp/how-to-get-a-web-developer-job-in-2024-without-dying-inside-eo8)
-- [Understanding AWS Control Tower: Part 2 - Implementation and Deployment](https://dev.to/aminabrhm4/understanding-aws-control-tower-part-2-implementation-and-deployment-hdk)
-- [The Blockchain Revolution: How Binary Informatics is Leading the Way in App Development](https://dev.to/binaryinformatics/the-blockchain-revolution-how-binary-informatics-is-leading-the-way-in-app-development-1o1d)
-- [What is Coinalyze? — Crypto Analysis](https://dev.to/bloger_07/what-is-coinalyze-crypto-analysis-24ef)
+- [Build an Employee Engagement Survey Dashboard using ToolJet](https://dev.to/tooljet/build-an-employee-engagement-survey-dashboard-using-tooljet-5bed)
+- [A Comprehensive Guide to Vector Databases and Embeddings](https://dev.to/hayyanstudio/a-comprehensive-guide-to-vector-databases-and-embeddings-594n)
+- [How to create VM with PowerShell](https://dev.to/ajayi/how-to-create-vm-with-powershell-604)
+- [Lighthouse를 활용한 Tree Shaking](https://dev.to/hxxtae/lighthousereul-hwalyonghan-tree-shaking-8ie)
+- [Introducing Your Ultimate Research Paper Analyst 🚀](https://dev.to/harshitlyzr/introducing-your-ultimate-research-paper-analyst-42a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
