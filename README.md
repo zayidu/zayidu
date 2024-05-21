@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scrum: An Agile Methodology to Achieve Goals Efficiently!](https://dev.to/devmoreir4/scrum-an-agile-methodology-to-achieve-goals-efficiently-28jp)
-- [My first $10k month as an agency owner](https://dev.to/salmandotweb/my-first-10k-month-as-an-agency-owner-35fh)
-- [How I stopped RSpec from spiking to 2x runtime](https://dev.to/epigene/how-i-stopped-rspec-from-spiking-to-2x-runtime-1hh9)
-- [I am going to start a path in ML!](https://dev.to/radocode/i-am-going-to-start-a-path-in-ml-3n9j)
-- [Introduction to @let in Angular 18](https://dev.to/oler/introduction-to-let-in-angular-18-cm6)
+- [Specification-Based Testing: Devise test cases](https://dev.to/tiuwill/specification-based-testing-devise-test-cases-2lcp)
+- [[Discussão] - Como você implementa suas apis ?](https://dev.to/devxbr/discussao-como-voce-implementa-suas-apis--2cml)
+- [How to Add Multiplayer to Your Discord Activity](https://dev.to/waveplay/how-to-add-multiplayer-to-your-discord-activity-lo1)
+- [The role of CI/CD interoperability in Developer Experience](https://dev.to/jerdog/the-role-of-cicd-interoperability-in-developer-experience-26dl)
+- [Streamlining your Developer Experience through CI/CD standardization](https://dev.to/jerdog/streamlining-your-developer-experience-through-cicd-standardization-54ab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
