@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best JavaScript One Liners that You Must Know](https://dev.to/shubhsharma19/best-javascript-one-liners-that-you-must-know-3740)
-- [NLP vs LLM: A Comprehensive Guide to Understanding Key Differences](https://dev.to/tarek_eissa/nlp-vs-llm-a-comprehensive-guide-to-understanding-key-differences-2can)
-- [JavaScript30 - 3 Playing with CSS Variables and JS](https://dev.to/virtualsobriety/javascript30-3-playing-with-css-variables-and-js-283i)
-- [How to Transfer OS from One SSD to Another Drive](https://dev.to/furkangozukara/how-to-transfer-os-from-one-ssd-to-another-drive-323j)
-- [First Post!](https://dev.to/alexmerino13/first-post-53fm)
+- [Build 2024 - Book Of News - DevOps Edition](https://dev.to/pwd9000/build-2024-book-of-news-devops-edition-40hk)
+- [Mastering the Art of Asking Questions](https://dev.to/naime_molla/mastering-the-art-of-asking-questions-34bi)
+- [Efficient Asynchronous Operations in JavaScript: Using Promise.all with map and for-await-of](https://dev.to/ajay_chavan_4c1541e0e117b/efficient-asynchronous-operations-in-javascript-using-promiseall-with-map-and-for-await-of-6df)
+- [Giving Odin Intelligence](https://dev.to/yevhenk/giving-odin-intelligence-9h0)
+- [API Security in a DevOps Environment: Building a Secure Pipeline for Modern Applications](https://dev.to/syncloop_dev/api-security-in-a-devops-environment-building-a-secure-pipeline-for-modern-applications-51l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
