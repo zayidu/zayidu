@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Peeling the MongoDB Drivers Onion](https://dev.to/alexbevi/peeling-the-mongodb-drivers-onion-2gma)
-- [Add Sitemap in Next.js 14 [Static &amp; Dynamic]](https://dev.to/thefaruksardar/add-sitemap-in-nextjs-14-static-dynamic-2eo1)
-- [GitHub Sponsors 💰 and Perl 🐫](https://dev.to/szabgab/github-sponsors-and-perl-fam)
-- [How to Contribute to the Open Source Learn to Code Platform GIGO Dev](https://dev.to/gigo_dev/how-to-contribute-to-the-open-source-learn-to-code-platform-gigo-dev-4d4a)
-- [Compute Caddy payload using Jinja2 with Ansible](https://dev.to/erwyn/compute-caddy-payload-using-jinja2-with-ansible-9el)
+- [Scrum: An Agile Methodology to Achieve Goals Efficiently!](https://dev.to/devmoreir4/scrum-an-agile-methodology-to-achieve-goals-efficiently-28jp)
+- [My first $10k month as an agency owner](https://dev.to/salmandotweb/my-first-10k-month-as-an-agency-owner-35fh)
+- [How I stopped RSpec from spiking to 2x runtime](https://dev.to/epigene/how-i-stopped-rspec-from-spiking-to-2x-runtime-1hh9)
+- [I am going to start a path in ML!](https://dev.to/radocode/i-am-going-to-start-a-path-in-ml-3n9j)
+- [Introduction to @let in Angular 18](https://dev.to/oler/introduction-to-let-in-angular-18-cm6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
