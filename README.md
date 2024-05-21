@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an Employee Engagement Survey Dashboard using ToolJet](https://dev.to/tooljet/build-an-employee-engagement-survey-dashboard-using-tooljet-5bed)
-- [A Comprehensive Guide to Vector Databases and Embeddings](https://dev.to/hayyanstudio/a-comprehensive-guide-to-vector-databases-and-embeddings-594n)
-- [How to create VM with PowerShell](https://dev.to/ajayi/how-to-create-vm-with-powershell-604)
-- [Lighthouse를 활용한 Tree Shaking](https://dev.to/hxxtae/lighthousereul-hwalyonghan-tree-shaking-8ie)
-- [Introducing Your Ultimate Research Paper Analyst 🚀](https://dev.to/harshitlyzr/introducing-your-ultimate-research-paper-analyst-42a8)
+- [Unit Testing with Mocha &amp; Chai 🚀](https://dev.to/kwamedev/unit-testing-with-mocha-chai-4gdh)
+- [Optimizing cloud costs: Avoid these 5 mistakes that inflate cloud bills](https://dev.to/softwebsolution/optimizing-cloud-costs-avoid-these-5-mistakes-that-inflate-cloud-bills-mcl)
+- [🚀 **Unlocking the Power of DOM Manipulation with JavaScript** 🚀](https://dev.to/erasmuskotoka/unlocking-the-power-of-dom-manipulation-with-javascript-35f7)
+- [Playwright VS Code Extension, projects and global setup](https://dev.to/playwright/playwright-vs-code-extension-projects-and-global-setup-3i44)
+- [How Video API Helps in the Education Sector](https://dev.to/yogender_singh_011ebbe493/how-video-api-helps-in-the-education-sector-1om2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
