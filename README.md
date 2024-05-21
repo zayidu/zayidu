@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Stake&#39;s mines is nearly IMPOSSIBLE TO WIN?](https://dev.to/vaib215/why-stakes-mines-is-nearly-impossible-to-win-i9n)
+- [getRegistryIndex&lpar;&rpar; function in shadcn-ui/ui source code.](https://dev.to/ramunarasinga/getregistryindex-function-in-shadcn-uiui-source-code-1dnp)
 - [10+ Free Tailwind CSS Templates](https://dev.to/mikevarenek/10-free-tailwind-css-templates-32f7)
 - [Dev: Mobile App](https://dev.to/r4nd3l/dev-mobile-app-be6)
 - [Better Performance in C#](https://dev.to/mrgolabvand/better-performance-in-c-2kc0)
-- [How to export a CSV with my data posts in DEV using its API](https://dev.to/msc2020/how-to-export-a-csv-with-my-data-posts-in-dev-using-its-api-382f)
-- [Cloud Resume Challenge: The Beginning](https://dev.to/brianhaas/cloud-resume-challenge-the-beginning-4lcj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
