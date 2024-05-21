@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build 2024 - Book Of News - DevOps Edition](https://dev.to/pwd9000/build-2024-book-of-news-devops-edition-40hk)
-- [Mastering the Art of Asking Questions](https://dev.to/naime_molla/mastering-the-art-of-asking-questions-34bi)
-- [Efficient Asynchronous Operations in JavaScript: Using Promise.all with map and for-await-of](https://dev.to/ajay_chavan_4c1541e0e117b/efficient-asynchronous-operations-in-javascript-using-promiseall-with-map-and-for-await-of-6df)
-- [Giving Odin Intelligence](https://dev.to/yevhenk/giving-odin-intelligence-9h0)
-- [API Security in a DevOps Environment: Building a Secure Pipeline for Modern Applications](https://dev.to/syncloop_dev/api-security-in-a-devops-environment-building-a-secure-pipeline-for-modern-applications-51l2)
+- [Build a password manager with Rust - Part 1](https://dev.to/damcosset/build-a-password-manager-with-rust-part-1-3g3)
+- [Anotações da faculdade - Matemática - Teoria dos conjuntos](https://dev.to/jvmartyns/anotacoes-da-faculdade-matematica-teoria-dos-conjuntos-24i0)
+- [T-Shirt Tuesday](https://dev.to/buildwebcrumbs/t-shirt-tuesday-4353)
+- [How to Promote your Status Page to Customers and Stakeholders](https://dev.to/statuspal/how-to-promote-your-status-page-to-customers-and-stakeholders-gke)
+- [Understanding Low Code Mobile App Development Platforms](https://dev.to/n968941/understanding-low-code-mobile-app-development-platforms-pi8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
