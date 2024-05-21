@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A new, but old way of backend development](https://dev.to/kervyntjw/a-new-but-old-way-of-backend-development-20n0)
-- [Introduction to Continuous Integration and Continuous Deployment &lpar;CI/CD&rpar;](https://dev.to/kartikmehta8/introduction-to-continuous-integration-and-continuous-deployment-cicd-13l4)
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;13/05/2024–19/05/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-13052024-19052024-51ii)
-- [Using Selenium Webdriver with Node.js for automated testing](https://dev.to/ads-bne/using-selenium-webdriver-with-nodejs-for-automated-testing-4825)
-- [Behind the scenes: How we implement user collaboration within a multi-tenant app](https://dev.to/logto/behind-the-scenes-how-we-implement-user-collaboration-within-a-multi-tenant-app-349f)
+- [🚀Cara Mudah Ganti Akun Github di Windows](https://dev.to/ferryops/cara-mudah-ganti-akun-github-di-windows-3am0)
+- [JavaScript Animal Quiz Game](https://dev.to/petrinaropra/animal-quiz-game-3oom)
+- [Memory Management Every Web Developer Should Know](https://dev.to/zacharylee/memory-management-every-web-developer-should-know-2h0k)
+- [Using Panda in Python Programming Language](https://dev.to/emmanuelj/using-panda-in-python-programming-language-4ine)
+- [Five Must-Have Command Line Tools for Developers](https://dev.to/dshafik/five-must-have-command-line-tools-for-developers-1hl6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
