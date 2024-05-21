@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to load env for Nuxt layers](https://dev.to/leamsigc/how-to-load-env-for-nuxt-layers-38g1)
-- [Classes variables early thoughts 🤔](https://dev.to/gaotter/classes-variables-early-thoughts-5h9l)
-- [Simplify Your Kubernetes Multi-Cluster Management: The Secret to Streamlined Add-on Deployments](https://dev.to/gianlucam76/centralized-add-on-management-across-n-kubernetes-clusters-308k)
-- [Cloud Run without VPC Serverless](https://dev.to/mkdev/cloud-run-without-vpc-serverless-3p5p)
-- [Flatlogic Announces Shift from Web Templates to AI-Powered Business Software](https://dev.to/flatlogic/flatlogic-announces-shift-from-web-templates-to-ai-powered-business-software-5ffi)
+- [Search for an internship](https://dev.to/suphi/search-for-an-internship-2em7)
+- [𝗔𝗿𝗿𝗮𝘆- 𝗤𝟱 𝗨𝗻𝗶𝗾𝘂𝗲 𝗣𝗮𝘁𝗵𝘀 𝗜𝗜𝗜](https://dev.to/sailwalpranjal/--112c)
+- [Understanding Go: part 11 – Functions](https://dev.to/aurelievache/understanding-go-part-11-functions-3gjh)
+- [7 Common Blunders to Avoid in C# Development](https://dev.to/crafting-code/7-common-blunders-to-avoid-in-c-development-444o)
+- [Form Tag in HTML](https://dev.to/shehzadhussain/form-tag-in-html-4kpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
