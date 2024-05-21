@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀Cara Mudah Ganti Akun Github di Windows](https://dev.to/ferryops/cara-mudah-ganti-akun-github-di-windows-3am0)
-- [JavaScript Animal Quiz Game](https://dev.to/petrinaropra/animal-quiz-game-3oom)
-- [Memory Management Every Web Developer Should Know](https://dev.to/zacharylee/memory-management-every-web-developer-should-know-2h0k)
-- [Using Panda in Python Programming Language](https://dev.to/emmanuelj/using-panda-in-python-programming-language-4ine)
-- [Five Must-Have Command Line Tools for Developers](https://dev.to/dshafik/five-must-have-command-line-tools-for-developers-1hl6)
+- [Newest Kohya SDXL DreamBooth Hyper Parameter research results — Used RealVis XL4 as a base model](https://dev.to/furkangozukara/newest-kohya-sdxl-dreambooth-hyper-parameter-research-results-used-realvis-xl4-as-a-base-model-59j5)
+- [Pagination condition for multiple columns](https://dev.to/xuanyu/pagination-condition-for-multiple-columns-4c5i)
+- [The reason why becoming a Software Engineer is a struggle.](https://dev.to/lorddesert/the-reason-why-becoming-a-software-engineer-is-a-struggle-591j)
+- [Guía para Crear una Instancia de Prueba en AWS EC2](https://dev.to/jamesnoria95/guia-para-crear-una-instancia-de-prueba-en-aws-ec2-4pka)
+- [🔥 Meet genson-rs: Blazing-Fast JSON Schema Generation for Gigabytes of Data! 🚀](https://dev.to/junyuw/meet-genson-rs-blazing-fast-json-schema-generation-for-gigabytes-of-data-441p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
