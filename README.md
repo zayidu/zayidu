@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Use Terraform to Deploy My AWS Amplify React Project](https://dev.to/igeadetokunbo/how-i-use-terraform-to-deploy-my-aws-amplify-react-project-2hea)
-- [A Command line memorable password generator. Now in Python.](https://dev.to/msanders5/a-command-line-memorable-password-generator-now-in-python-kcj)
-- [Call C binary from javascript WITHOUT process.exec](https://dev.to/amythical/call-c-binary-from-javascript-without-processexec-4251)
-- [A way to configure an asp.net core site](https://dev.to/sltech/a-way-to-configure-an-aspnet-core-site-45ol)
-- [dlt adds Reverse ETL - build a custom destination in minutes](https://dev.to/dataman/dlt-adds-reverse-etl-build-a-custom-destination-in-minutes-ngd)
+- [Amazon EKS: Analyze control plane and CloudTrail logs for better detective controls](https://dev.to/aws-builders/amazon-eks-analyze-control-plane-and-cloudtrail-logs-for-better-detective-controls-3b3a)
+- [Building a Decentralized Voting DApp: A Comprehensive Guide](https://dev.to/souravmaji1/building-a-decentralized-voting-dapp-a-comprehensive-guide-2h66)
+- [[DAY 5] I Built A Cafe Menu](https://dev.to/thomascansino/day-5-i-built-a-cafe-menu-5amb)
+- [My Little Protopage - A Cloud Homepage](https://dev.to/fonzacus/my-little-protopage-a-cloud-homepage-1fen)
+- [The Power Of Array.reduce&lpar;&rpar;🐐](https://dev.to/mteguhirawan1996/the-power-of-arrayreduce-eb9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
