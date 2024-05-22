@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Art of Invisible Indexes in MySQL](https://dev.to/siddhantkcode/mastering-the-art-of-invisible-indexes-in-mysql-862)
-- [The shopping list](https://dev.to/shoeheyot/the-shopping-list-1j81)
-- [Rotate/Pusle Animation in React Native](https://dev.to/saumaypaul20/rotatepusle-animation-in-react-native-19n4)
-- [RESTFUL API](https://dev.to/dillybunn/restful-api-1nh)
-- [You should start creating a View in Supabase!!](https://dev.to/sushialii/you-should-start-creating-a-view-in-supabase-4ahj)
+- [Find out how the Ora package is used to show a CLI spinner in shadcn-ui/ui source code.](https://dev.to/ramunarasinga/find-out-how-the-ora-package-is-used-to-show-a-cli-spinner-in-shadcn-uiui-source-code-4562)
+- [Top ChatGPT Prompts Every Developer Should Know](https://dev.to/abdullah-dev0/top-chatgpt-prompts-every-developer-should-know-7kj)
+- [PostgreSQL to NATS Streaming](https://dev.to/levla/postgresql-to-nats-streaming-1o4f)
+- [Tips to Build React Components that Devs will LOVE](https://dev.to/devsatasurion/tips-to-build-react-components-that-devs-will-love-4l62)
+- [Automate binary execution at Startup with BASH](https://dev.to/christianpaez/automate-binary-execution-at-startup-with-bash-8pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
