@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Discriminated Unions in TypeScript](https://dev.to/antonmartyniuk/mastering-discriminated-unions-in-typescript-2e01)
-- [Optimizing Costs in DevOps: Migrating a Kubernetes App from Amazon to Digital Ocean](https://dev.to/fively/optimizing-costs-in-devops-migrating-a-kubernetes-app-from-amazon-to-digital-ocean-3k90)
-- [Exploring the Flutter Technology Stack](https://dev.to/n968941/exploring-the-flutter-technology-stack-5hfh)
-- [How to Become a Famous Mobile App Developer in BitLife: Lady Luck Challenge Guide](https://dev.to/n968941/how-to-become-a-famous-mobile-app-developer-in-bitlife-lady-luck-challenge-guide-2ahp)
-- [Laravel Passport: API authentication with access and refresh token](https://dev.to/mahmudulhsn/laravel-passport-api-authentication-with-access-and-refresh-token-16d0)
+- [Programming analogies:- Loops](https://dev.to/learn_with_santosh/programming-analogies-loops-5cbd)
+- [[Off Topic] Nano introdução do framework Angular para Devs do back](https://dev.to/meucodigoagil/off-topic-nano-introducao-do-framework-angular-para-devs-do-back-3jhd)
+- [Chatbot Prototype: Architectural Proposal](https://dev.to/andrew_panfilov/chatbot-prototype-architectural-proposal-j5n)
+- [Caching in ASP.NET Core 🥇](https://dev.to/_hm/caching-in-aspnet-core-1a76)
+- [Dr. House — AI Diagnostician in your phone. Passing the Startup Torch to Capable Hands](https://dev.to/markparker5/dr-house-ai-diagnostician-in-your-phone-passing-the-startup-torch-to-capable-hands-13pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
