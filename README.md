@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Soft Skills Matter in Tech: Communication and Collaboration](https://dev.to/bingecoder89/why-soft-skills-matter-in-tech-communication-and-collaboration-5gih)
-- [Getting Started with GitHub](https://dev.to/vidyarathna/getting-started-with-github-3a7d)
-- [Your Guide to Data Science Interview Preparation: Tips for Success](https://dev.to/bikashdaga/your-guide-to-data-science-interview-preparation-tips-for-success-11j3)
-- [Cracking the Code: Mastering Algorithmic Problem-Solving for Interviews](https://dev.to/topunix/cracking-the-code-mastering-algorithmic-problem-solving-for-interviews-17n)
-- [🍏 Apple + Figma: Latest Design Tools Released](https://dev.to/adam/apple-figma-latest-design-tools-released-228k)
+- [I created free React Material UI dashboard theme](https://dev.to/pbasiak/i-created-free-react-material-ui-dashboard-theme-52ek)
+- [My Journey After Software Engineering Bootcamp: Finding My Dream Role in the Oil and Energy Industry](https://dev.to/janicera2880/my-journey-after-flatiron-school-finding-my-dream-role-in-oil-and-energy-industry-2gnf)
+- [Da un marker leaflet alla foto in una galleria fotografica e ritorno](https://dev.to/trincadev/da-un-marker-leaflet-alla-foto-in-una-galleria-fotografica-e-ritorno-leh)
+- [From leaflet popup marker to photo gallery image and back](https://dev.to/trincadev/from-leaflet-popup-marker-to-photo-gallery-image-and-back-2f6k)
+- [Password Managers - The Future of Logins.](https://dev.to/swayam_248/password-managers-the-future-of-logins-5dkc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
