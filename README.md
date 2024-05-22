@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming analogies:- Loops](https://dev.to/learn_with_santosh/programming-analogies-loops-5cbd)
-- [[Off Topic] Nano introdução do framework Angular para Devs do back](https://dev.to/meucodigoagil/off-topic-nano-introducao-do-framework-angular-para-devs-do-back-3jhd)
-- [Chatbot Prototype: Architectural Proposal](https://dev.to/andrew_panfilov/chatbot-prototype-architectural-proposal-j5n)
-- [Caching in ASP.NET Core 🥇](https://dev.to/_hm/caching-in-aspnet-core-1a76)
-- [Dr. House — AI Diagnostician in your phone. Passing the Startup Torch to Capable Hands](https://dev.to/markparker5/dr-house-ai-diagnostician-in-your-phone-passing-the-startup-torch-to-capable-hands-13pf)
+- [Navigating the Digital Landscape: The Pros and Cons of Social Media](https://dev.to/techstuff/navigating-the-digital-landscape-the-pros-and-cons-of-social-media-55h1)
+- [Secure-by-Design Software in DevSecOps](https://dev.to/gitguardian/secure-by-design-software-in-devsecops-4459)
+- [Update multiple Kubernetes objects/configmaps in one go!](https://dev.to/aws-builders/update-multiple-kubernetes-objectsconfigmaps-in-one-go-5417)
+- [How to Use ngrok to Expose Access to Your Local Web Server Remotely](https://dev.to/codegirl0101/how-to-use-ngrok-to-expose-access-to-your-local-web-server-remotely-58fe)
+- [Taming data with Ecto.Enum and Ecto.Type](https://dev.to/herminiotorres/taming-data-with-ectoenum-and-ectotype-2pfm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
