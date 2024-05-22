@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Professional Ways to Deal With Missed Bugs Effectively](https://dev.to/morrismoses149/5-professional-ways-to-deal-with-missed-bugs-effectively-37c7)
-- [Make NFT using ERC721](https://dev.to/abdxzi/make-nft-using-erc721-243i)
-- [React: Effective UI Practices](https://dev.to/gokulnathp/react-effective-ui-practices-478o)
-- [Creating Storage For Less Important Data On Azure With Simple Configuration Settings](https://dev.to/olaraph/creating-storage-for-less-important-data-on-azure-with-simple-configuration-settings-3b70)
-- [Mastering ChatGPT Prompts for Developers: A Comprehensive Guide](https://dev.to/dipakahirav/mastering-chatgpt-prompts-for-developers-a-comprehensive-guide-3pp9)
+- [Crafting a Developer&#39;s Digital Brain with Note-Taking](https://dev.to/dev3l/crafting-a-developers-digital-brain-with-note-taking-3ioa)
+- [Understanding Remote Procedure Calls and Protocol Buffers](https://dev.to/mochafreddo/understanding-remote-procedure-calls-and-protocol-buffers-150f)
+- [Integrate Kafka with a Serverless application](https://dev.to/aws-builders/integrate-kafka-with-a-serverless-application-2c9n)
+- [The Great Web Challenges](https://dev.to/itskunal/the-great-web-challenges-5bog)
+- [rust trait](https://dev.to/zhangwuji/rust-trait-4n1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
