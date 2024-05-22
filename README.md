@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility Breakdown | Dynamic Content](https://dev.to/devsatasurion/accessibility-breakdown-dynamic-content-38e3)
-- [How to Automate Test Generation with AI: Using CodiumAI Cover-Agent](https://dev.to/oluwadamisisamuel1/how-to-automate-test-generation-with-ai-using-codiumai-cover-agent-1kep)
-- [day 03](https://dev.to/lordronjuyal/day-03-15b3)
-- [STORAGE CREATION FOR THE IT DEPARTMENT TESTING AND TRAINING](https://dev.to/kellyt/storage-creation-for-the-it-department-testing-and-training-10oh)
-- [Git và Docker: Công Cụ Quan Trọng Trong Phát Triển AI/ML và MLOps](https://dev.to/dtruong46me/git-va-docker-cong-cu-quan-trong-trong-phat-trien-aiml-va-mlops-l2p)
+- [Using WebRTC to implement P2P video streaming](https://dev.to/logrocket/using-webrtc-to-implement-p2p-video-streaming-5f5g)
+- [Why PowerShell Does Not Run Angular Commands: A Detailed Explanation](https://dev.to/fullstackjava/why-powershell-does-not-run-angular-commands-a-detailed-explanation-2hh8)
+- [useImmer an excelent alternative to useState](https://dev.to/jesusjimenezc/useimmer-an-excelent-alternative-to-usestate-22ci)
+- [Dealing with slow page loads](https://dev.to/amythical/dealing-with-slow-page-loads-3joa)
+- [Dealing with NullReferenceException](https://dev.to/gfraiteur/dealing-with-nullreferenceexception-237i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
