@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Use Godot Over Unity](https://dev.to/hayyanstudio/why-you-should-use-godot-over-unity-3mpm)
-- [GitHub Actions Secrets: Enhancing Workflow Security](https://dev.to/saumya27/github-actions-secrets-enhancing-workflow-security-490g)
-- [SenchaCmd 7.8](https://dev.to/lminuti/senchacmd-78-589f)
-- [How to Set Up Your Terminal for Maximum Productivity in Development](https://dev.to/arekko/how-to-set-up-your-terminal-for-maximum-productivity-in-development-5ao1)
-- [Introduction to Frontend: React, Creating a Single Page App](https://dev.to/swarnendu0123/introduction-to-frontend-react-creating-a-single-page-app-3pkn)
+- [Mastering Discriminated Unions in TypeScript](https://dev.to/antonmartyniuk/mastering-discriminated-unions-in-typescript-2e01)
+- [Optimizing Costs in DevOps: Migrating a Kubernetes App from Amazon to Digital Ocean](https://dev.to/fively/optimizing-costs-in-devops-migrating-a-kubernetes-app-from-amazon-to-digital-ocean-3k90)
+- [Exploring the Flutter Technology Stack](https://dev.to/n968941/exploring-the-flutter-technology-stack-5hfh)
+- [How to Become a Famous Mobile App Developer in BitLife: Lady Luck Challenge Guide](https://dev.to/n968941/how-to-become-a-famous-mobile-app-developer-in-bitlife-lady-luck-challenge-guide-2ahp)
+- [Laravel Passport: API authentication with access and refresh token](https://dev.to/mahmudulhsn/laravel-passport-api-authentication-with-access-and-refresh-token-16d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
