@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting a Developer&#39;s Digital Brain with Note-Taking](https://dev.to/dev3l/crafting-a-developers-digital-brain-with-note-taking-3ioa)
-- [Understanding Remote Procedure Calls and Protocol Buffers](https://dev.to/mochafreddo/understanding-remote-procedure-calls-and-protocol-buffers-150f)
-- [Integrate Kafka with a Serverless application](https://dev.to/aws-builders/integrate-kafka-with-a-serverless-application-2c9n)
-- [The Great Web Challenges](https://dev.to/itskunal/the-great-web-challenges-5bog)
-- [rust trait](https://dev.to/zhangwuji/rust-trait-4n1i)
+- [How to Implement Effective Rate Limiting in Application Design](https://dev.to/getambassador2024/how-to-implement-effective-rate-limiting-in-application-design-2oob)
+- [Exploring AI with Vertex AI Studio: My Journey Through Multimodal Capabilities](https://dev.to/fodelaye26/exploring-ai-with-vertex-ai-studio-my-journey-through-multimodal-capabilities-1j2g)
+- [Understanding Apollo Client Cache: How to Manage and Update Nested Data Structures Effectively](https://dev.to/bhanufyi/understanding-apollo-client-cache-how-to-manage-and-update-nested-data-structures-effectively-11n8)
+- [What is Science, Computer Science, and Engineering?](https://dev.to/mdadul/what-is-science-computer-science-and-engineering-9k2)
+- [How Do You Create an Email Client With an HTML Editor?](https://dev.to/ideradevtools/how-do-you-create-an-email-client-with-an-html-editor-321m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
