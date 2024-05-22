@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Started with Django: A Comprehensive Guide for Beginners](https://dev.to/rayyan_shaikh/how-to-get-started-with-django-a-comprehensive-guide-for-beginners-c96)
-- [How to Start &amp; Setup a React project in 2024 &lpar;7 Different Ways Based on Use Cases&rpar;](https://dev.to/syakirurahman/how-to-start-setup-a-react-project-in-2024-7-different-ways-based-on-use-cases-8b6)
-- [Svelte Series-4: Two-Way Binding](https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-4-two-way-binding-4e9h)
-- [Svelte Series-3: How to Update Data and Use Event Listeners](https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-3-how-to-update-data-and-use-event-listeners-1blb)
-- [F# For Dummys - Day 11 Data Structure Tuple](https://dev.to/pythonzhu/f-for-dummys-day-11-data-structure-tuple-8cd)
+- [Learning AI and Understanding its Implications: CodeNewbie Podcast S27E8](https://dev.to/codenewbieteam/learning-ai-and-understanding-its-implications-codenewbie-podcast-s27e8-j9h)
+- [bash: splitting tarballs the ‘easy’ way](https://dev.to/gbhorwood/bash-splitting-tarballs-the-easy-way-dl7)
+- [How can I find market address and program ID for a new Solana token?](https://dev.to/rawadhatem/how-can-i-find-market-address-and-program-id-for-a-new-solana-token-fdn)
+- [Mind Your Tasks: A React Native To-Do App with Firebase](https://dev.to/muzammil-cyber/mind-your-tasks-a-react-native-to-do-app-with-firebase-4o84)
+- [Design Patterns in Ruby | ADAPTER](https://dev.to/rubyhub/design-patterns-in-ruby-adapter-3a49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
