@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Digital Landscape: The Pros and Cons of Social Media](https://dev.to/techstuff/navigating-the-digital-landscape-the-pros-and-cons-of-social-media-55h1)
-- [Secure-by-Design Software in DevSecOps](https://dev.to/gitguardian/secure-by-design-software-in-devsecops-4459)
-- [Update multiple Kubernetes objects/configmaps in one go!](https://dev.to/aws-builders/update-multiple-kubernetes-objectsconfigmaps-in-one-go-5417)
-- [How to Use ngrok to Expose Access to Your Local Web Server Remotely](https://dev.to/codegirl0101/how-to-use-ngrok-to-expose-access-to-your-local-web-server-remotely-58fe)
-- [Taming data with Ecto.Enum and Ecto.Type](https://dev.to/herminiotorres/taming-data-with-ectoenum-and-ectotype-2pfm)
+- [How to Get Started with Django: A Comprehensive Guide for Beginners](https://dev.to/rayyan_shaikh/how-to-get-started-with-django-a-comprehensive-guide-for-beginners-c96)
+- [How to Start &amp; Setup a React project in 2024 &lpar;7 Different Ways Based on Use Cases&rpar;](https://dev.to/syakirurahman/how-to-start-setup-a-react-project-in-2024-7-different-ways-based-on-use-cases-8b6)
+- [Svelte Series-4: Two-Way Binding](https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-4-two-way-binding-4e9h)
+- [Svelte Series-3: How to Update Data and Use Event Listeners](https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-3-how-to-update-data-and-use-event-listeners-1blb)
+- [F# For Dummys - Day 11 Data Structure Tuple](https://dev.to/pythonzhu/f-for-dummys-day-11-data-structure-tuple-8cd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
