@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [cmd and powershell](https://dev.to/zhangwuji/cmd-and-powershell-369a)
-- [rust hashMap](https://dev.to/zhangwuji/rust-hashmap-1dp7)
-- [Data Structures and Algorithms: Breadth First Search](https://dev.to/faraib/data-structures-and-algorithms-breadth-first-search-3aid)
-- [Unlocking the Secrets: Access Tokens and Refresh Tokens for Frontend Developers](https://dev.to/dannypreye/unlocking-the-secrets-access-tokens-and-refresh-tokens-for-frontend-developers-30hh)
-- [JavaScript vs C#: A Comprehensive Comparison](https://dev.to/jtoromats/javascript-vs-c-a-comprehensive-comparison-1bin)
+- [Rust type Result](https://dev.to/zhangwuji/rust-type-result-150p)
+- [Securing an Angular and Spring Boot Application with Keycloak](https://dev.to/phasetwo/securing-an-angular-and-spring-boot-application-with-keycloak-2oj6)
+- [How does HTTPS work](https://dev.to/zacharylee/how-does-https-work-18pp)
+- [How to Improve Team Development Efficiency with Effective Use of Pull Requests and Code Comments](https://dev.to/femtowork/how-to-improve-team-development-efficiency-with-effective-use-of-pull-requests-and-code-comments-f2p)
+- [Named export 컴포넌트 동적 import&lpar;&rpar; 호출하기](https://dev.to/hxxtae/named-export-keomponeonteu-dongjeog-import-hoculhagi-dnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
