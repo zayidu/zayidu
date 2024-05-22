@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I created free React Material UI dashboard theme](https://dev.to/pbasiak/i-created-free-react-material-ui-dashboard-theme-52ek)
-- [My Journey After Software Engineering Bootcamp: Finding My Dream Role in the Oil and Energy Industry](https://dev.to/janicera2880/my-journey-after-flatiron-school-finding-my-dream-role-in-oil-and-energy-industry-2gnf)
-- [Da un marker leaflet alla foto in una galleria fotografica e ritorno](https://dev.to/trincadev/da-un-marker-leaflet-alla-foto-in-una-galleria-fotografica-e-ritorno-leh)
-- [From leaflet popup marker to photo gallery image and back](https://dev.to/trincadev/from-leaflet-popup-marker-to-photo-gallery-image-and-back-2f6k)
-- [Password Managers - The Future of Logins.](https://dev.to/swayam_248/password-managers-the-future-of-logins-5dkc)
+- [Mastering the Art of Invisible Indexes in MySQL](https://dev.to/siddhantkcode/mastering-the-art-of-invisible-indexes-in-mysql-862)
+- [The shopping list](https://dev.to/shoeheyot/the-shopping-list-1j81)
+- [Rotate/Pusle Animation in React Native](https://dev.to/saumaypaul20/rotatepusle-animation-in-react-native-19n4)
+- [RESTFUL API](https://dev.to/dillybunn/restful-api-1nh)
+- [You should start creating a View in Supabase!!](https://dev.to/sushialii/you-should-start-creating-a-view-in-supabase-4ahj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
