@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust type Result](https://dev.to/zhangwuji/rust-type-result-150p)
-- [Securing an Angular and Spring Boot Application with Keycloak](https://dev.to/phasetwo/securing-an-angular-and-spring-boot-application-with-keycloak-2oj6)
-- [How does HTTPS work](https://dev.to/zacharylee/how-does-https-work-18pp)
-- [How to Improve Team Development Efficiency with Effective Use of Pull Requests and Code Comments](https://dev.to/femtowork/how-to-improve-team-development-efficiency-with-effective-use-of-pull-requests-and-code-comments-f2p)
-- [Named export 컴포넌트 동적 import&lpar;&rpar; 호출하기](https://dev.to/hxxtae/named-export-keomponeonteu-dongjeog-import-hoculhagi-dnm)
+- [5 Professional Ways to Deal With Missed Bugs Effectively](https://dev.to/morrismoses149/5-professional-ways-to-deal-with-missed-bugs-effectively-37c7)
+- [Make NFT using ERC721](https://dev.to/abdxzi/make-nft-using-erc721-243i)
+- [React: Effective UI Practices](https://dev.to/gokulnathp/react-effective-ui-practices-478o)
+- [Creating Storage For Less Important Data On Azure With Simple Configuration Settings](https://dev.to/olaraph/creating-storage-for-less-important-data-on-azure-with-simple-configuration-settings-3b70)
+- [Mastering ChatGPT Prompts for Developers: A Comprehensive Guide](https://dev.to/dipakahirav/mastering-chatgpt-prompts-for-developers-a-comprehensive-guide-3pp9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
