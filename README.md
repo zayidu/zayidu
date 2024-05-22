@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning AI and Understanding its Implications: CodeNewbie Podcast S27E8](https://dev.to/codenewbieteam/learning-ai-and-understanding-its-implications-codenewbie-podcast-s27e8-j9h)
-- [bash: splitting tarballs the ‘easy’ way](https://dev.to/gbhorwood/bash-splitting-tarballs-the-easy-way-dl7)
-- [How can I find market address and program ID for a new Solana token?](https://dev.to/rawadhatem/how-can-i-find-market-address-and-program-id-for-a-new-solana-token-fdn)
-- [Mind Your Tasks: A React Native To-Do App with Firebase](https://dev.to/muzammil-cyber/mind-your-tasks-a-react-native-to-do-app-with-firebase-4o84)
-- [Design Patterns in Ruby | ADAPTER](https://dev.to/rubyhub/design-patterns-in-ruby-adapter-3a49)
+- [Accessibility Breakdown | Dynamic Content](https://dev.to/devsatasurion/accessibility-breakdown-dynamic-content-38e3)
+- [How to Automate Test Generation with AI: Using CodiumAI Cover-Agent](https://dev.to/oluwadamisisamuel1/how-to-automate-test-generation-with-ai-using-codiumai-cover-agent-1kep)
+- [day 03](https://dev.to/lordronjuyal/day-03-15b3)
+- [STORAGE CREATION FOR THE IT DEPARTMENT TESTING AND TRAINING](https://dev.to/kellyt/storage-creation-for-the-it-department-testing-and-training-10oh)
+- [Git và Docker: Công Cụ Quan Trọng Trong Phát Triển AI/ML và MLOps](https://dev.to/dtruong46me/git-va-docker-cong-cu-quan-trong-trong-phat-trien-aiml-va-mlops-l2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
