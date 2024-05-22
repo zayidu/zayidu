@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best C#/ .NET PDF Library 2024](https://dev.to/derek-compdf/best-c-net-pdf-library-2024-1kn4)
-- [Blade FR MMI](https://dev.to/hugodemont/blade-fr-mmi-2jip)
-- [Profile UI Design CSS](https://dev.to/aniketchugh/profile-ui-design-css-5edl)
-- [Reusable UI structure: Layouts 💱](https://dev.to/dvalin99/a-reusable-ui-structure-layouts-5eh5)
-- [Unlocking Vision: Evaluating LLMs for Home Security](https://dev.to/fr4ncis/unlocking-vision-evaluating-llms-for-home-security-2dmk)
+- [Why You Should Use Godot Over Unity](https://dev.to/hayyanstudio/why-you-should-use-godot-over-unity-3mpm)
+- [GitHub Actions Secrets: Enhancing Workflow Security](https://dev.to/saumya27/github-actions-secrets-enhancing-workflow-security-490g)
+- [SenchaCmd 7.8](https://dev.to/lminuti/senchacmd-78-589f)
+- [How to Set Up Your Terminal for Maximum Productivity in Development](https://dev.to/arekko/how-to-set-up-your-terminal-for-maximum-productivity-in-development-5ao1)
+- [Introduction to Frontend: React, Creating a Single Page App](https://dev.to/swarnendu0123/introduction-to-frontend-react-creating-a-single-page-app-3pkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
