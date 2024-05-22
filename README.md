@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Git Tags: An Essential Tool for Version Control](https://dev.to/mrdanishsaleem/understanding-git-tags-an-essential-tool-for-version-control-3jdc)
-- [How to Integrate a Shipping API: A Step-by-Step Guide for Developers](https://dev.to/ericksmith14/how-to-integrate-a-shipping-api-a-step-by-step-guide-for-developers-4e7g)
-- [Symfony App Config in 2 steps](https://dev.to/yceruto/symfony-app-config-in-2-steps-26dl)
-- [Der Settings Ordner - django in Produktion Teil 4](https://dev.to/rubenvoss/der-settings-ordner-django-in-produktion-teil-4-40e0)
-- [Express vs Nest](https://dev.to/mlodovico/express-vs-nest-4b0k)
+- [Talk : How often do you document your code ?](https://dev.to/lotfijb/talk-how-often-do-you-document-your-code--4g9b)
+- [Boost your Cloud Security with Network ACLs in your VPC](https://dev.to/fdtm/boost-your-cloud-security-with-network-acls-in-your-vpc-6c7)
+- [Web Extraction with Vision-LLMs: SQL-Ready Data From Any URL with GPT-4o](https://dev.to/emcf/web-extraction-with-vision-llms-done-the-right-way-structured-data-from-any-url-with-gpt-4o-1al8)
+- [I Built an App with Remix in 30 Minutes](https://dev.to/alvinslee/i-built-an-app-with-remix-in-30-minutes-219k)
+- [Understanding the Lottery Factor](https://dev.to/opensauced/understanding-the-lottery-factor-41gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
