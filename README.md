@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [cmd and powershell](https://dev.to/zhangwuji/cmd-and-powershell-369a)
+- [rust hashMap](https://dev.to/zhangwuji/rust-hashmap-1dp7)
+- [Data Structures and Algorithms: Breadth First Search](https://dev.to/faraib/data-structures-and-algorithms-breadth-first-search-3aid)
+- [Unlocking the Secrets: Access Tokens and Refresh Tokens for Frontend Developers](https://dev.to/dannypreye/unlocking-the-secrets-access-tokens-and-refresh-tokens-for-frontend-developers-30hh)
 - [JavaScript vs C#: A Comprehensive Comparison](https://dev.to/jtoromats/javascript-vs-c-a-comprehensive-comparison-1bin)
-- [Unveiling an Interactive Integration Experience for Faster Development](https://dev.to/paypaldeveloper/unveiling-an-interactive-integration-experience-for-faster-development-10cg)
-- [Boost Your DevOps Workflow with Traefik](https://dev.to/bansikah/boost-your-devops-workflow-with-traefik-30e2)
-- [Ransomware Defense: Comprehensive Guide to Data and System Safety](https://dev.to/jchristopher0033/ransomware-defense-comprehensive-guide-to-data-and-system-safety-5ei2)
-- [Developing Augmented Reality Apps with Unity and Vuforia](https://dev.to/kartikmehta8/developing-augmented-reality-apps-with-unity-and-vuforia-216e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
