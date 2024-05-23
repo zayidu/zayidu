@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy MinIO on Amazon EKS and use your S3 Compatible Storage](https://dev.to/devarshishimpi/deploy-minio-on-amazon-eks-and-use-your-s3-compatible-storage-ld2)
-- [Why You Should Leverage Database Integration with OpenTelemetry](https://dev.to/metis/why-you-should-leverage-database-integration-with-opentelemetry-4dme)
-- [Mastering Application Performance: SLO Management, Front-End Monitoring, and JSON Logging](https://dev.to/stackify/mastering-application-performance-slo-management-front-end-monitoring-and-json-logging-4m3)
-- [Leveraging the power of Proxy in Javascript](https://dev.to/son_vuhoai_79baf4e733053/leveraging-the-power-of-proxy-in-javascript-lem)
-- [Help Needed: Learning Vue.js Under Tight Deadline!](https://dev.to/hariharanrd/eager-to-learn-vuejs-fast-need-guidance-2da)
+- [Workflow, from stateless to stateful](https://dev.to/nfrankel/workflow-from-stateless-to-stateful-2nbb)
+- [Communicating between Stimulus Controllers using Outlets API](https://dev.to/railsdesigner/communicating-between-stimulus-controllers-using-outlets-api-4c1o)
+- [This Week In React #186: React Conf, Compiler, Storybook, SSRF, Inline Styles, New Arch, Expo, Bootsplash, Skia, RN-Video...](https://dev.to/sebastienlorber/this-week-in-react-186-react-conf-compiler-storybook-ssrf-inline-styles-new-arch-expo-bootsplash-skia-rn-video-50of)
+- [Unpacking the JavaScript Junk Drawer: The Marvels &amp; Mayhem of Objects 🗃️](https://dev.to/aniket_botre/unpacking-the-javascript-junk-drawer-the-marvels-mayhem-of-objects-10ak)
+- [🚀 Vue Tip: Simpler Two-Way Binding with defineModel](https://dev.to/abanoubgeorge/vue-tip-simpler-two-way-binding-with-definemodel-1gp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
