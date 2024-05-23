@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why CSS-in-JS Doesn&#39;t Solve Problems](https://dev.to/m_midas/why-css-in-js-doesnt-solve-problems-14i9)
-- [KubeIP v2: Assigning Static Public IPs to Kubernetes Nodes Across Cloud Providers](https://dev.to/alexeiled/kubeip-v2-assigning-static-public-ips-to-kubernetes-nodes-across-cloud-providers-1a57)
-- [From Frustration to Fix: Conquering Vercel Errors Like a Pro](https://dev.to/ehtisamhaq/from-frustration-to-fix-conquering-vercel-errors-like-a-pro-4mdo)
-- [Nvidia&#39;s Potential Entry into ARM-based Laptops](https://dev.to/n968941/nvidias-potential-entry-into-arm-based-laptops-3e5c)
-- [Nvidia&#39;s Profit Soars: Highlighting Its AI Chip Dominance](https://dev.to/n968941/nvidias-profit-soars-highlighting-its-ai-chip-dominance-17d1)
+- [How to create a Windows Virtual Machine using a QuickStart Templates](https://dev.to/atony07/how-to-create-a-windows-virtual-machine-using-a-quickstart-templates-3lj2)
+- [HTML Tags You Might Not Know About](https://dev.to/dev_kiran/html-tags-you-might-not-know-about-3gk7)
+- [Enhancing PHP Projects With SQL Server](https://dev.to/devartteam/enhancing-php-projects-with-sql-server-3la7)
+- [Deliver your Glitch site through Fastly](https://dev.to/glitch/deliver-your-glitch-site-through-fastly-2ga9)
+- [Introduction to Devin - The First AI Software Developer](https://dev.to/azubuikeduru/introduction-to-devin-the-first-ai-software-developer-59cm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
