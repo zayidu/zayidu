@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to obtain the relative position of brush in the coordinate system in the vchart chart library?](https://dev.to/da730/how-to-obtain-the-relative-position-of-brush-in-the-coordinate-system-in-the-vchart-chart-library-1an6)
-- [Virtual DOM and its Significance in React](https://dev.to/kiransm/virtual-dom-and-its-significance-in-react-1f1e)
-- [Astro vs Visual Studio 2022 as Static Site Generators](https://dev.to/msanders5/astro-vs-visual-studio-2022-as-static-site-generators-32nd)
-- [Uhmm Virtual DOM In React?...](https://dev.to/thatohatsi880/uhmm-virtual-dom-in-react-3oo9)
-- [Why you should not be using AI as a writing assistant](https://dev.to/kurealnum/why-you-should-not-be-using-ai-as-a-writing-assistant-2b0e)
+- [Sloan&#39;s Inbox: Any advice for avoiding burnout?](https://dev.to/devteam/sloans-inbox-ways-to-avoid-burnout-2k49)
+- [New Awwwards inspired portfolio](https://dev.to/hariprasd/new-awwwards-inspired-portfolio-1ipf)
+- [Build a Bot Like ChatGPT: A Step-by-Step Guide](https://dev.to/dipakahirav/build-a-bot-like-chatgpt-a-step-by-step-guide-2d5)
+- [Building a Vue 3 Component Library from Scratch &lpar;Part 5&rpar;: How to Use Vite to Package Your Component Library](https://dev.to/markliu2013/building-a-vue-3-component-library-from-scratch-part-5-how-to-use-vite-to-package-your-component-library-42n2)
+- [Simulating trades based on support/resistance with Golang!](https://dev.to/burgossrodrigo/simulating-trades-based-on-supportresistance-with-golang-2593)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
