@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Array Manipulation: A Deep Dive into Insertions and Deletions](https://dev.to/lohith0512/array-manipulation-a-deep-dive-into-insertions-and-deletions-280d)
-- [&quot;Top Linux Interview Questions and Answers for Aspiring System Administrators&quot;](https://dev.to/nikhilxd/top-linux-interview-questions-and-answers-for-aspiring-system-administrators-443c)
-- [Then let’s talk about discreteness, and what are the advantages of Java over SQL?](https://dev.to/esproc_spl/then-lets-talk-about-discreteness-and-what-are-the-advantages-of-java-over-sql-2113)
-- [Should You Learn JSP and Servlets Before Spring? A Comprehensive Guide for Java Developers](https://dev.to/nikhilxd/should-you-learn-jsp-and-servlets-before-spring-a-comprehensive-guide-for-java-developers-2i5c)
-- [Mhealth App Development: Steps and Trends in 2024](https://dev.to/dmytro_kharyna/mhealth-app-development-steps-and-trends-in-2024-54j2)
+- [Descriptive Statistics || Part 1&lpar;Central Tendency and Dispersion&rpar;](https://dev.to/ngneha09/descriptive-statistics-part-1central-tendency-and-dispersion-35j8)
+- [How to Set Up a MySQL Master-Slave Replication in Docker](https://dev.to/siddhantkcode/how-to-set-up-a-mysql-master-slave-replication-in-docker-4n0a)
+- [EasyTdd 0.4.0 Release: Introducing the Incremental Builder](https://dev.to/easytdd/easytdd-040-release-introducing-the-incremental-builder-4k09)
+- [Fast string case transformation for the C#](https://dev.to/szymonhalucha/fast-string-case-transformation-for-the-c-3b4e)
+- [⭐Angular 18 Features ⭐](https://dev.to/sandeepbalachandran/angular-18-features-5ajm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
