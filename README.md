@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Target XHR Errors in Cypress](https://dev.to/weseek-inc/how-to-target-xhr-errors-in-cypress-59cl)
-- [SQL Complete Beginner Course 2024](https://dev.to/shubhadip_bhowmik/sql-complete-beginner-course-2024-2omg)
-- [Game Development Diary #3](https://dev.to/oka/game-development-diary-3-50n8)
-- [Function Calling Agent using OpenAI Assistant](https://dev.to/dheerajgopi/function-calling-agent-using-openai-assistant-2g6m)
-- [Your containerized application with IAC on AWS — Pt.3](https://dev.to/aws-builders/your-containerized-application-with-iac-on-aws-pt3-56ec)
+- [Why CSS-in-JS Doesn&#39;t Solve Problems](https://dev.to/m_midas/why-css-in-js-doesnt-solve-problems-14i9)
+- [KubeIP v2: Assigning Static Public IPs to Kubernetes Nodes Across Cloud Providers](https://dev.to/alexeiled/kubeip-v2-assigning-static-public-ips-to-kubernetes-nodes-across-cloud-providers-1a57)
+- [From Frustration to Fix: Conquering Vercel Errors Like a Pro](https://dev.to/ehtisamhaq/from-frustration-to-fix-conquering-vercel-errors-like-a-pro-4mdo)
+- [Nvidia&#39;s Potential Entry into ARM-based Laptops](https://dev.to/n968941/nvidias-potential-entry-into-arm-based-laptops-3e5c)
+- [Nvidia&#39;s Profit Soars: Highlighting Its AI Chip Dominance](https://dev.to/n968941/nvidias-profit-soars-highlighting-its-ai-chip-dominance-17d1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
