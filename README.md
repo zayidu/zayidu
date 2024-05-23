@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Tracking Celebrity Flights in Python!](https://dev.to/digitalizedsnake/tracking-celebrity-flights-in-python-1m86)
+- [Top 10 Trends in BDD Testing 2024](https://dev.to/ngocninh123/top-10-trends-in-bdd-testing-2024-2l30)
+- [Enhancing User Experience with a Bootstrap Range Slider](https://dev.to/okibayu/bootstrap-range-slider-1oi4)
 - [Sloan&#39;s Inbox: Any advice for avoiding burnout?](https://dev.to/devteam/sloans-inbox-ways-to-avoid-burnout-2k49)
 - [New Awwwards inspired portfolio](https://dev.to/hariprasd/new-awwwards-inspired-portfolio-1ipf)
-- [Build a Bot Like ChatGPT: A Step-by-Step Guide](https://dev.to/dipakahirav/build-a-bot-like-chatgpt-a-step-by-step-guide-2d5)
-- [Building a Vue 3 Component Library from Scratch &lpar;Part 5&rpar;: How to Use Vite to Package Your Component Library](https://dev.to/markliu2013/building-a-vue-3-component-library-from-scratch-part-5-how-to-use-vite-to-package-your-component-library-42n2)
-- [Simulating trades based on support/resistance with Golang!](https://dev.to/burgossrodrigo/simulating-trades-based-on-supportresistance-with-golang-2593)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
