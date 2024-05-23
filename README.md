@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Descriptive Statistics || Part 1&lpar;Central Tendency and Dispersion&rpar;](https://dev.to/ngneha09/descriptive-statistics-part-1central-tendency-and-dispersion-35j8)
-- [How to Set Up a MySQL Master-Slave Replication in Docker](https://dev.to/siddhantkcode/how-to-set-up-a-mysql-master-slave-replication-in-docker-4n0a)
-- [EasyTdd 0.4.0 Release: Introducing the Incremental Builder](https://dev.to/easytdd/easytdd-040-release-introducing-the-incremental-builder-4k09)
-- [Fast string case transformation for the C#](https://dev.to/szymonhalucha/fast-string-case-transformation-for-the-c-3b4e)
-- [⭐Angular 18 Features ⭐](https://dev.to/sandeepbalachandran/angular-18-features-5ajm)
+- [Deploy MinIO on Amazon EKS and use your S3 Compatible Storage](https://dev.to/devarshishimpi/deploy-minio-on-amazon-eks-and-use-your-s3-compatible-storage-ld2)
+- [Why You Should Leverage Database Integration with OpenTelemetry](https://dev.to/metis/why-you-should-leverage-database-integration-with-opentelemetry-4dme)
+- [Mastering Application Performance: SLO Management, Front-End Monitoring, and JSON Logging](https://dev.to/stackify/mastering-application-performance-slo-management-front-end-monitoring-and-json-logging-4m3)
+- [Leveraging the power of Proxy in Javascript](https://dev.to/son_vuhoai_79baf4e733053/leveraging-the-power-of-proxy-in-javascript-lem)
+- [Help Needed: Learning Vue.js Under Tight Deadline!](https://dev.to/hariharanrd/eager-to-learn-vuejs-fast-need-guidance-2da)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
