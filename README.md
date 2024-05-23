@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Workflow, from stateless to stateful](https://dev.to/nfrankel/workflow-from-stateless-to-stateful-2nbb)
-- [Communicating between Stimulus Controllers using Outlets API](https://dev.to/railsdesigner/communicating-between-stimulus-controllers-using-outlets-api-4c1o)
-- [This Week In React #186: React Conf, Compiler, Storybook, SSRF, Inline Styles, New Arch, Expo, Bootsplash, Skia, RN-Video...](https://dev.to/sebastienlorber/this-week-in-react-186-react-conf-compiler-storybook-ssrf-inline-styles-new-arch-expo-bootsplash-skia-rn-video-50of)
-- [Unpacking the JavaScript Junk Drawer: The Marvels &amp; Mayhem of Objects 🗃️](https://dev.to/aniket_botre/unpacking-the-javascript-junk-drawer-the-marvels-mayhem-of-objects-10ak)
-- [🚀 Vue Tip: Simpler Two-Way Binding with defineModel](https://dev.to/abanoubgeorge/vue-tip-simpler-two-way-binding-with-definemodel-1gp)
+- [Profiling Rust with VS on Windows](https://dev.to/jambochen/profiling-rust-with-vs-on-windows-3m4l)
+- [How to check your site in different languages and writing modes](https://dev.to/polypane/how-to-check-your-site-in-different-languages-and-writing-modes-5f87)
+- [Mais oui, IA de la DATA à Devoxx France 2024 !](https://dev.to/onepoint/mais-oui-ia-de-la-data-a-devoxx-france-2024--4kpe)
+- [Let&#39;s build a simple MLOps workflow on AWS! #2 - Building infrastructure on AWS](https://dev.to/hikarunakatani/lets-build-a-simple-mlops-workflow-on-aws-2-building-infrastructure-on-aws-3h2j)
+- [Why Did Google Choose To Implement gRPC Using HTTP/2?](https://dev.to/huizhou92/why-did-google-choose-to-implement-grpc-using-http2-197a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
