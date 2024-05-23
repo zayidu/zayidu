@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Ways Building Generative AI Side Projects Will Benefit Your Coding Career](https://dev.to/skillreactor/3-ways-building-generative-ai-side-projects-will-benefit-your-coding-career-41am)
-- [Running adb in a rootless Podman Distrobox container](https://dev.to/archerallstars/running-adb-in-a-rootless-podman-distrobox-container-2kap)
-- [Using Cloud Monitoring to Monitor IRIS-Based Applications Deployed in GKE](https://dev.to/intersystems/using-cloud-monitoring-to-monitor-iris-based-applications-deployed-in-gke-257e)
-- [Personal Take on Blockchain &amp; Crypto Events](https://dev.to/omranic/personal-take-on-blockchain-crypto-events-a97)
-- [Getting ready to know UNIX and Linux](https://dev.to/ucunguyabe/getting-ready-to-know-unix-and-linux-2358)
+- [Bookmyflight : A web app that helps you find cheap flights and book them based on your budget.](https://dev.to/nitintwt27/bookmyflight-a-web-app-that-helps-you-find-cheap-flights-and-book-them-based-on-your-budget-9b3)
+- [How to use Async/Await in Promise.](https://dev.to/makoto0825/how-to-use-asyncawait-in-promise-38hc)
+- [How to use Promise chaining in Javascript.](https://dev.to/makoto0825/how-to-use-promise-chaining-in-javascript-391c)
+- [“cn” utility function in shadcn-ui/ui:](https://dev.to/ramunarasinga/cn-utility-function-in-shadcn-uiui-3c4k)
+- [async/sync in Javascript](https://dev.to/makoto0825/asyncsync-in-javascript-438e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
