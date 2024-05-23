@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Profiling Rust with VS on Windows](https://dev.to/jambochen/profiling-rust-with-vs-on-windows-3m4l)
-- [How to check your site in different languages and writing modes](https://dev.to/polypane/how-to-check-your-site-in-different-languages-and-writing-modes-5f87)
-- [Mais oui, IA de la DATA à Devoxx France 2024 !](https://dev.to/onepoint/mais-oui-ia-de-la-data-a-devoxx-france-2024--4kpe)
-- [Let&#39;s build a simple MLOps workflow on AWS! #2 - Building infrastructure on AWS](https://dev.to/hikarunakatani/lets-build-a-simple-mlops-workflow-on-aws-2-building-infrastructure-on-aws-3h2j)
-- [Why Did Google Choose To Implement gRPC Using HTTP/2?](https://dev.to/huizhou92/why-did-google-choose-to-implement-grpc-using-http2-197a)
+- [Recursion in JavaScript](https://dev.to/shehzadhussain/recursion-in-javascript-2kh3)
+- [Technology Events and Their Role in Promoting Digital Transformation](https://dev.to/ajaytie/technology-events-and-their-role-in-promoting-digital-transformation-13hb)
+- [Rendering the TRUE Argo CD diff on your PRs](https://dev.to/dag-andersen/rendering-the-true-argo-cd-diff-on-your-prs-10bk)
+- [Securing Development: Key Differences in Virtual Desktops, Enterprise Browsers and Cloud-Based Development](https://dev.to/loransha256/securing-development-key-differences-in-virtual-desktops-enterprise-browsers-and-cloud-based-development-19dp)
+- [Interactive Color-Changing Button](https://dev.to/megha_sangapur_98205768ca/interactive-color-changing-button-5fil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
