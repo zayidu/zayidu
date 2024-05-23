@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tracking Celebrity Flights in Python!](https://dev.to/digitalizedsnake/tracking-celebrity-flights-in-python-1m86)
-- [Top 10 Trends in BDD Testing 2024](https://dev.to/ngocninh123/top-10-trends-in-bdd-testing-2024-2l30)
-- [Enhancing User Experience with a Bootstrap Range Slider](https://dev.to/okibayu/bootstrap-range-slider-1oi4)
-- [Sloan&#39;s Inbox: Any advice for avoiding burnout?](https://dev.to/devteam/sloans-inbox-ways-to-avoid-burnout-2k49)
-- [New Awwwards inspired portfolio](https://dev.to/hariprasd/new-awwwards-inspired-portfolio-1ipf)
+- [Array Manipulation: A Deep Dive into Insertions and Deletions](https://dev.to/lohith0512/array-manipulation-a-deep-dive-into-insertions-and-deletions-280d)
+- [&quot;Top Linux Interview Questions and Answers for Aspiring System Administrators&quot;](https://dev.to/nikhilxd/top-linux-interview-questions-and-answers-for-aspiring-system-administrators-443c)
+- [Then let’s talk about discreteness, and what are the advantages of Java over SQL?](https://dev.to/esproc_spl/then-lets-talk-about-discreteness-and-what-are-the-advantages-of-java-over-sql-2113)
+- [Should You Learn JSP and Servlets Before Spring? A Comprehensive Guide for Java Developers](https://dev.to/nikhilxd/should-you-learn-jsp-and-servlets-before-spring-a-comprehensive-guide-for-java-developers-2i5c)
+- [Mhealth App Development: Steps and Trends in 2024](https://dev.to/dmytro_kharyna/mhealth-app-development-steps-and-trends-in-2024-54j2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
