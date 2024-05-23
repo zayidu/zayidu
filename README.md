@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Recursion in JavaScript](https://dev.to/shehzadhussain/recursion-in-javascript-2kh3)
-- [Technology Events and Their Role in Promoting Digital Transformation](https://dev.to/ajaytie/technology-events-and-their-role-in-promoting-digital-transformation-13hb)
-- [Rendering the TRUE Argo CD diff on your PRs](https://dev.to/dag-andersen/rendering-the-true-argo-cd-diff-on-your-prs-10bk)
-- [Securing Development: Key Differences in Virtual Desktops, Enterprise Browsers and Cloud-Based Development](https://dev.to/loransha256/securing-development-key-differences-in-virtual-desktops-enterprise-browsers-and-cloud-based-development-19dp)
-- [Interactive Color-Changing Button](https://dev.to/megha_sangapur_98205768ca/interactive-color-changing-button-5fil)
+- [Things I wish I knew before I started an open-source project](https://dev.to/latitude/things-i-wish-i-knew-before-i-started-an-open-source-project-1pdn)
+- [⛅️ 9 Best Free Tools for Creating &amp; Managing APIs](https://dev.to/evergrowingdev/9-best-free-tools-for-creating-managing-apis-53ej)
+- [Effective Testing in JavaScript](https://dev.to/appsignal/effective-testing-in-javascript-29fj)
+- [Make your sites more accessible by setting max icon widths](https://dev.to/codewithcaen/make-your-sites-more-accessible-by-setting-max-icon-widths-2im2)
+- [Unveiling the Enigma: Delving Deep into Shader Artistry and Self-Reflection](https://dev.to/hayyanstudio/unveiling-the-enigma-delving-deep-into-shader-artistry-and-self-reflection-260)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
