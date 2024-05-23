@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to call out contributions to new releases](https://dev.to/openproject/how-to-call-out-contributions-to-new-releases-3cdb)
-- [Escaping the 9-5: Building Tools to Empower Designers and Developers](https://dev.to/ddigital/escaping-the-9-5-building-tools-to-empower-designers-and-developers-14k8)
-- [Creating route directory in Slim Php Framework](https://dev.to/asif_sheikh_d7d74ce8b9c9d/creating-route-directory-in-slim-php-framework-46eb)
-- [Implementing a Blocking Feature in Laravel &lpar;using Morph table and Morph endpoint!&rpar;](https://dev.to/edriso/implementing-a-blocking-feature-in-laravel-using-morph-table-and-morph-endpoint-55h6)
-- [Make Me A Container: The Docker Guide](https://dev.to/emmanuellebe24/make-me-a-container-the-docker-guide-4c07)
+- [3 Ways Building Generative AI Side Projects Will Benefit Your Coding Career](https://dev.to/skillreactor/3-ways-building-generative-ai-side-projects-will-benefit-your-coding-career-41am)
+- [Running adb in a rootless Podman Distrobox container](https://dev.to/archerallstars/running-adb-in-a-rootless-podman-distrobox-container-2kap)
+- [Using Cloud Monitoring to Monitor IRIS-Based Applications Deployed in GKE](https://dev.to/intersystems/using-cloud-monitoring-to-monitor-iris-based-applications-deployed-in-gke-257e)
+- [Personal Take on Blockchain &amp; Crypto Events](https://dev.to/omranic/personal-take-on-blockchain-crypto-events-a97)
+- [Getting ready to know UNIX and Linux](https://dev.to/ucunguyabe/getting-ready-to-know-unix-and-linux-2358)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
