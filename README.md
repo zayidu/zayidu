@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Datalking #1: So, the machine is learning... How?](https://dev.to/anewrites/datalking-1-so-the-machine-is-learning-learning-what-3lpd)
+- [Delving into Blockchain &lpar;1&rpar;](https://dev.to/tqmvt/delving-into-blockchain-1-1abf)
+- [Buildkite Agent Bug - fork/exec ... operation not permitted](https://dev.to/a1ex/buildkite-agent-bug-forkexec-operation-not-permitted-2d08)
 - [react-dropzone with web worker](https://dev.to/lgtome/react-dropzone-with-web-worker-mh1)
 - [Qura AI: Revolutionizing Social Media Growth](https://dev.to/qura/qura-ai-revolutionizing-social-media-growth-4hge)
-- [Efficient Data Management with Prisma, Fly.io, and LiteFS Configuration](https://dev.to/femtowork/efficient-data-management-with-prisma-flyio-and-litefs-configuration-hjm)
-- [Mengatasi Masalah Audio di Gentoo GNU/Linux: Siapin Sound Server-nya dulu!](https://dev.to/iiiaann/mengatasi-masalah-audio-di-gentoo-gnulinux-siapin-sound-server-nya-dulu-7bg)
-- [Harnessing Diversity: Managing a Product Development Team with Diverse Personalities](https://dev.to/arooj/harnessing-diversity-managing-a-product-development-team-with-diverse-personalities-3e0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
