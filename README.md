@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Datalking #1: So, the machine is learning... How?](https://dev.to/anewrites/datalking-1-so-the-machine-is-learning-learning-what-3lpd)
-- [Delving into Blockchain &lpar;1&rpar;](https://dev.to/tqmvt/delving-into-blockchain-1-1abf)
-- [Buildkite Agent Bug - fork/exec ... operation not permitted](https://dev.to/a1ex/buildkite-agent-bug-forkexec-operation-not-permitted-2d08)
-- [react-dropzone with web worker](https://dev.to/lgtome/react-dropzone-with-web-worker-mh1)
-- [Qura AI: Revolutionizing Social Media Growth](https://dev.to/qura/qura-ai-revolutionizing-social-media-growth-4hge)
+- [How to obtain the relative position of brush in the coordinate system in the vchart chart library?](https://dev.to/da730/how-to-obtain-the-relative-position-of-brush-in-the-coordinate-system-in-the-vchart-chart-library-1an6)
+- [Virtual DOM and its Significance in React](https://dev.to/kiransm/virtual-dom-and-its-significance-in-react-1f1e)
+- [Astro vs Visual Studio 2022 as Static Site Generators](https://dev.to/msanders5/astro-vs-visual-studio-2022-as-static-site-generators-32nd)
+- [Uhmm Virtual DOM In React?...](https://dev.to/thatohatsi880/uhmm-virtual-dom-in-react-3oo9)
+- [Why you should not be using AI as a writing assistant](https://dev.to/kurealnum/why-you-should-not-be-using-ai-as-a-writing-assistant-2b0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
