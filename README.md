@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Things I wish I knew before I started an open-source project](https://dev.to/latitude/things-i-wish-i-knew-before-i-started-an-open-source-project-1pdn)
-- [⛅️ 9 Best Free Tools for Creating &amp; Managing APIs](https://dev.to/evergrowingdev/9-best-free-tools-for-creating-managing-apis-53ej)
-- [Effective Testing in JavaScript](https://dev.to/appsignal/effective-testing-in-javascript-29fj)
-- [Make your sites more accessible by setting max icon widths](https://dev.to/codewithcaen/make-your-sites-more-accessible-by-setting-max-icon-widths-2im2)
-- [Unveiling the Enigma: Delving Deep into Shader Artistry and Self-Reflection](https://dev.to/hayyanstudio/unveiling-the-enigma-delving-deep-into-shader-artistry-and-self-reflection-260)
+- [Elevate Your Design: Mastering CSS Text Styling🚀](https://dev.to/dharamgfx/elevate-your-design-mastering-css-text-styling-39mb)
+- [Using Historical Forex Data For Market Analysis](https://dev.to/jspeedster/using-historical-forex-data-for-market-analysis-216m)
+- [Understanding E-commerce API: Developing an Application for Live Price Tracking](https://dev.to/serpdogapi/understanding-e-commerce-api-developing-an-application-for-live-price-tracking-a9o)
+- [Automate your tasks and schedule cronjobs with a script](https://dev.to/florenceokoli/automate-your-tasks-and-schedule-cronjobs-with-a-script-2de5)
+- [Lighthouse를 활용하여 LCP 점수 개선하기](https://dev.to/hxxtae/lighthousereul-hwalyonghayeo-lcp-jeomsu-gaeseonhagi-3o3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
