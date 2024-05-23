@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a Windows Virtual Machine using a QuickStart Templates](https://dev.to/atony07/how-to-create-a-windows-virtual-machine-using-a-quickstart-templates-3lj2)
-- [HTML Tags You Might Not Know About](https://dev.to/dev_kiran/html-tags-you-might-not-know-about-3gk7)
-- [Enhancing PHP Projects With SQL Server](https://dev.to/devartteam/enhancing-php-projects-with-sql-server-3la7)
-- [Deliver your Glitch site through Fastly](https://dev.to/glitch/deliver-your-glitch-site-through-fastly-2ga9)
-- [Introduction to Devin - The First AI Software Developer](https://dev.to/azubuikeduru/introduction-to-devin-the-first-ai-software-developer-59cm)
+- [How to Craft an Effective Tech Resume Without Experience](https://dev.to/bingecoder89/how-to-craft-an-effective-tech-resume-without-experience-1l1m)
+- [Building Robust Applications in React with TypeScript and Zod for REST API Validation](https://dev.to/schead/building-robust-applications-in-react-with-typescript-and-zod-for-rest-api-validation-cl8)
+- [Tricky Golang interview questions - Part 2: BigO of len&lpar;...&rpar;](https://dev.to/crusty0gphr/tricky-golang-interview-questions-part-2-bigo-of-len-2om9)
+- [Agile has fallen. Or has it ?](https://dev.to/polinaeliana/agile-has-fallen-or-has-it--470m)
+- [Workday Security: Everything You Need to Know](https://dev.to/yayabobi/workday-security-everything-you-need-to-know-3d85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
