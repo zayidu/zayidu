@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Frontend Interview](https://dev.to/unalo_baayriyo/google-frontend-interview-2o1h)
-- [Database Migrations : From Manual to Automated Management.](https://dev.to/aharmaz/database-migrations-from-manual-to-automated-management-5ffj)
-- [Construtores semânticos](https://dev.to/kauanmocelin/construtores-semanticos-4m8p)
-- [Data Transfer between 2 PC&#39;s in lemon terms](https://dev.to/nrj-21/data-transfer-between-2-pcs-in-lemon-terms-55pm)
-- [Create an Audio Transcript with Amazon Transcribe](https://dev.to/cloudairx/create-an-audio-transcript-with-amazon-transcribe-55l8)
+- [Associating a Custom Domain to an API Gateway on Google Cloud](https://dev.to/burgossrodrigo/associating-a-custom-domain-to-an-api-gateway-on-google-cloud-4ph6)
+- [Enhance Your Design System Workflow with Kelp Plugin for Android Studio 🌱](https://dev.to/popovanton0/enhance-your-design-system-workflow-with-kelp-plugin-for-android-studio-6pm)
+- [Welcome To A New Series](https://dev.to/nhelchitnis/welcome-to-a-new-series-hp4)
+- [Navigating React State: useState, useReducer, Context, Redux Toolkit, Recoil](https://dev.to/bilelsalemdev/navigating-react-state-usestate-usereducer-context-redux-toolkit-recoil-3i98)
+- [Your first bookmarklet](https://dev.to/defenderofbasic/your-first-bookmarklet-3213)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
