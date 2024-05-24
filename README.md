@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Setup React Native For Android Using VSCode | Mac Apple Chip &amp; Intel Chip](https://dev.to/sonarsystems/how-to-setup-react-native-for-android-using-vscode-mac-apple-chip-intel-chip-1j5f)
-- [Building Agentic RAG with Rust, OpenAI &amp; Qdrant](https://dev.to/shuttle_dev/building-agentic-rag-with-rust-openai-qdrant-3bjd)
-- [Getting started with Fastly CDN is easier than ever with Glitch](https://dev.to/fastly/getting-started-with-fastly-cdn-is-easier-than-ever-with-glitch-4a05)
-- [#78. Subsets](https://dev.to/karleb/78-subsets-3p5a)
-- [Working with mission-critical data - Azure Files and Azure Blobs](https://dev.to/olawaleoloye/working-with-mission-critical-data-azure-files-and-azure-blobs-26p3)
+- [Think Golang in oop way](https://dev.to/kingrayhan/think-golang-in-oop-way-1ki)
+- [If CI/CD Pipelines Were Human: A Day in the Life](https://dev.to/mitch1009/if-cicd-pipelines-were-human-a-day-in-the-life-47d)
+- [Accelerating Chip Design and Testing in the Semiconductor Industry with AWS](https://dev.to/sudoconsultants/accelerating-chip-design-and-testing-in-the-semiconductor-industry-with-aws-3aci)
+- [Conquering AWS Cloud Challenge](https://dev.to/madhesh_waran_63/conquering-aws-cloud-challenge-1799)
+- [What Lies Ahead for Flutter: Advancements, Innovations, &amp; Beyond](https://dev.to/n968941/what-lies-ahead-for-flutter-advancements-innovations-beyond-33jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
