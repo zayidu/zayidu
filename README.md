@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a Virtual Machine that is highly available.](https://dev.to/opsyog/how-to-create-a-virtual-machine-that-is-highly-available-1c1h)
-- [Next.js: Upload de imagem para a Cloudflare R2 Utilizando Presigned URL](https://dev.to/lucianogmoraesjr/nextjs-upload-de-imagem-para-a-cloudflare-r2-utilizando-presigned-url-26o4)
-- [Top UI/UX Design Trends](https://dev.to/pepper_square/top-uiux-design-trends-14jc)
-- [User Story EP1 : How Alex Built His First GPT Action from Scratch🎉](https://dev.to/dancemove_marscode/user-story-ep1-how-alex-built-his-first-gpt-action-from-scratch-48ca)
-- [Installing a WebServer on Win Server 2019 VM](https://dev.to/olawaleoloye/installing-a-webserver-on-win-server-2019-vm-1l6d)
+- [Overview of the DevOps Interview Process: From Application to Selection - In 50 min](https://dev.to/lakhera2015/overview-of-the-devops-interview-process-from-application-to-selection-in-50-min-1nlp)
+- [Building a RESTful API with Flask in Python: A Beginner&#39;s Guide](https://dev.to/manavcodaty/building-a-restful-api-with-flask-in-python-a-beginners-guide-meb)
+- [Mastering React Optimization Techniques: Boost Your App&#39;s Performance](https://dev.to/delia_code/mastering-react-optimization-techniques-boost-your-apps-performance-1ka)
+- [Turso - LibSQL Driver Laravel](https://dev.to/darkterminal/turso-libsql-driver-laravel-131k)
+- [JavaScript Closures Cheatsheet](https://dev.to/debojyoti/javascript-closures-cheatsheet-3a6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
