@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximizing ROI: Leveraging IP Look Up for Enhanced Audience Targeting](https://dev.to/johnmiller/maximizing-roi-leveraging-ip-look-up-for-enhanced-audience-targeting-57li)
-- [How To Not Be Replaced By AI As A Software Engineer](https://dev.to/sotergreco/how-to-not-be-replaced-by-ai-as-a-software-engineer-2j26)
-- [Kickstart Your Next.js App with This Turbo Template](https://dev.to/jadrizk/kickstart-your-nextjs-app-with-this-turbo-template-1e4b)
-- [5 considerations for Client-side Security](https://dev.to/armstrong2035/5-considerations-for-client-side-security-5fk6)
-- [Stratégie : que va t-on &lpar;ne pas faire&rpar; cette année ?](https://dev.to/psantus/strategie-que-va-t-on-ne-pas-faire-cette-annee--2gc3)
+- [How To Setup React Native For Android Using VSCode | Mac Apple Chip &amp; Intel Chip](https://dev.to/sonarsystems/how-to-setup-react-native-for-android-using-vscode-mac-apple-chip-intel-chip-1j5f)
+- [Building Agentic RAG with Rust, OpenAI &amp; Qdrant](https://dev.to/shuttle_dev/building-agentic-rag-with-rust-openai-qdrant-3bjd)
+- [Getting started with Fastly CDN is easier than ever with Glitch](https://dev.to/fastly/getting-started-with-fastly-cdn-is-easier-than-ever-with-glitch-4a05)
+- [#78. Subsets](https://dev.to/karleb/78-subsets-3p5a)
+- [Working with mission-critical data - Azure Files and Azure Blobs](https://dev.to/olawaleoloye/working-with-mission-critical-data-azure-files-and-azure-blobs-26p3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
