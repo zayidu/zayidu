@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Music Streaming App with Spotify API](https://dev.to/kartikmehta8/building-a-music-streaming-app-with-spotify-api-4onl)
-- [How to Get a Perfect Deep Copy in JavaScript?](https://dev.to/zacharylee/how-to-get-a-perfect-deep-copy-in-javascript-1b9f)
-- [CONQUERING THE CLOUD RESUME CHALLENGE: MY JOURNEY](https://dev.to/osugodbless/conquering-the-cloud-resume-challenge-my-journey-1lbe)
-- [Microservices With Spring Boot](https://dev.to/oloruntobi600/microservices-with-spring-boot-5457)
-- [How To Setup a Multi-Signature Wallet with Safe &lpar;prev. Gnosis Safe&rpar; on Mode](https://dev.to/modenetwork/how-to-setup-a-multi-signature-wallet-with-safe-prev-gnosis-safe-on-mode-2lk)
+- [How to scale a Django application to serve one million users?](https://dev.to/prox_sea/how-to-scale-a-django-application-to-serve-one-million-users-4m)
+- [Open-Source No-Code/Low-Code Platform NocoBase v1.0.0-alpha.15: New Plugins and Improved “Configure actions” Interaction](https://dev.to/nocobase/open-source-no-codelow-code-platform-nocobase-v100-alpha15-new-plugins-and-improved-configure-actions-interaction-37eh)
+- [Modals with Remix](https://dev.to/ddm4313/modals-with-remix-33kd)
+- [How StarSearch Makes Open Source Collaboration Smarter](https://dev.to/lymah/how-starsearch-makes-open-source-collaboration-smarter-38na)
+- [How StarSearch Makes Open Source Collaboration Smarter](https://dev.to/lymah/how-starsearch-makes-open-source-collaboration-smarter-1hnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
