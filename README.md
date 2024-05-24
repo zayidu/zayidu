@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Serverless Architecture Right For You?](https://dev.to/getambassador2024/is-serverless-architecture-right-for-you-4gp7)
-- [Database Replication Encyclopaedia — Single Leader Replication &lpar;1/3&rpar;](https://dev.to/the_infinity/database-replication-encyclopaedia-single-leader-replication-13-2l5c)
-- [Understanding FedEx Operational Delays: What You Need to Know and How to Manage Them](https://dev.to/thenexttech/understanding-fedex-operational-delays-what-you-need-to-know-and-how-to-manage-them-1nba)
-- [Network policy at scale; scaling Calico to 15k+ nodes and 10k network policies](https://dev.to/calico-devadvocacy/network-policy-at-scale-scaling-calico-to-15k-nodes-and-10k-network-policies-2nkb)
-- [Unlocking Web Accessibility: A Comprehensive Guide🚀](https://dev.to/dharamgfx/unlocking-web-accessibility-a-comprehensive-guide-4co2)
+- [Setting Up Docker Compose for Golang Application](https://dev.to/ynrfin/setting-up-docker-compose-for-golang-application-2cf2)
+- [Getting Creative with CSS Grid](https://dev.to/madsstoumann/getting-creative-with-css-grid-mco)
+- [Day 1 of my progress as a vue dev](https://dev.to/zain725342/day-1-of-my-progress-as-a-vue-dev-1hn3)
+- [Exploring React Router 6](https://dev.to/justvicky/exploring-react-router-6-5bee)
+- [Integrating Machine Learning Models into Your Python Applications](https://dev.to/manavcodaty/integrating-machine-learning-models-into-your-python-applications-4fm1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
