@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Overview of the DevOps Interview Process: From Application to Selection - In 50 min](https://dev.to/lakhera2015/overview-of-the-devops-interview-process-from-application-to-selection-in-50-min-1nlp)
-- [Building a RESTful API with Flask in Python: A Beginner&#39;s Guide](https://dev.to/manavcodaty/building-a-restful-api-with-flask-in-python-a-beginners-guide-meb)
-- [Mastering React Optimization Techniques: Boost Your App&#39;s Performance](https://dev.to/delia_code/mastering-react-optimization-techniques-boost-your-apps-performance-1ka)
-- [Turso - LibSQL Driver Laravel](https://dev.to/darkterminal/turso-libsql-driver-laravel-131k)
-- [JavaScript Closures Cheatsheet](https://dev.to/debojyoti/javascript-closures-cheatsheet-3a6h)
+- [Is Serverless Architecture Right For You?](https://dev.to/getambassador2024/is-serverless-architecture-right-for-you-4gp7)
+- [Database Replication Encyclopaedia — Single Leader Replication &lpar;1/3&rpar;](https://dev.to/the_infinity/database-replication-encyclopaedia-single-leader-replication-13-2l5c)
+- [Understanding FedEx Operational Delays: What You Need to Know and How to Manage Them](https://dev.to/thenexttech/understanding-fedex-operational-delays-what-you-need-to-know-and-how-to-manage-them-1nba)
+- [Network policy at scale; scaling Calico to 15k+ nodes and 10k network policies](https://dev.to/calico-devadvocacy/network-policy-at-scale-scaling-calico-to-15k-nodes-and-10k-network-policies-2nkb)
+- [Unlocking Web Accessibility: A Comprehensive Guide🚀](https://dev.to/dharamgfx/unlocking-web-accessibility-a-comprehensive-guide-4co2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
