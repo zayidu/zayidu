@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing react-tools: A Toolbox for Streamlining React Development](https://dev.to/galiprandi/introducing-react-tools-a-toolbox-for-streamlining-react-development-2f23)
+- [region-screenshot-js helps you quickly build the selection screenshot function](https://dev.to/brilliant/region-screenshot-js-helps-you-quickly-build-the-selection-screenshot-function-5mg)
 - [How to scale a Django application to serve one million users?](https://dev.to/prox_sea/how-to-scale-a-django-application-to-serve-one-million-users-4m)
+- [Testando das trincheiras: Como criar mocks e stubs dinâmico com mockito em java](https://dev.to/hugaomarques/testando-das-trincheiras-como-criar-mocks-e-stubs-dinamico-com-mockito-em-java-3bmi)
 - [Open-Source No-Code/Low-Code Platform NocoBase v1.0.0-alpha.15: New Plugins and Improved “Configure actions” Interaction](https://dev.to/nocobase/open-source-no-codelow-code-platform-nocobase-v100-alpha15-new-plugins-and-improved-configure-actions-interaction-37eh)
-- [Modals with Remix](https://dev.to/ddm4313/modals-with-remix-33kd)
-- [How StarSearch Makes Open Source Collaboration Smarter](https://dev.to/lymah/how-starsearch-makes-open-source-collaboration-smarter-38na)
-- [How StarSearch Makes Open Source Collaboration Smarter](https://dev.to/lymah/how-starsearch-makes-open-source-collaboration-smarter-1hnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
