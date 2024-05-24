@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simulating Life with TensorflowJS](https://dev.to/jgracie52/simulating-life-with-tensorflowjs-4cah)
-- [[S.O.L.I.D.] Os Cinco Pilares da Programação Orientada a Objetos para Desenvolvedores.](https://dev.to/dsb88/solid-os-cinco-pilares-da-programacao-orientada-a-objetos-para-desenvolvedores-2lph)
-- [Desmistificando: Entendendo interações entre navegador e usuário #1](https://dev.to/cavalcanteyury/desmistificando-entendendo-interacoes-entre-navegador-e-usuario-1-250c)
-- [Add Vector Search to Your Site](https://dev.to/bengreenberg/add-vector-search-to-your-site-2c73)
-- [Deploy MEAN with Ansible](https://dev.to/arielro85/deploy-mean-with-ansible-3h9a)
+- [LeetCode Meditations: Implement Trie &lpar;Prefix Tree&rpar;](https://dev.to/rivea0/leetcode-meditations-implement-trie-prefix-tree-3dfp)
+- [Multi-language Web Novel Scraper in Python](https://dev.to/reinaldoassis/multi-language-web-novel-scraper-in-python-3cd2)
+- [1255. Maximum Score Words Formed by Letters](https://dev.to/mdarifulhaque/1255-maximum-score-words-formed-by-letters-25bj)
+- [1255. Maximum Score Words Formed by Letters](https://dev.to/karleb/1255-maximum-score-words-formed-by-letters-a55)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3pa6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
