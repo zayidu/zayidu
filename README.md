@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Molend: the Pioneering Lending Protocol on Mode Network](https://dev.to/modenetwork/introducing-molend-the-pioneering-lending-protocol-on-mode-network-2976)
-- [If Error Messages Were Honest &lpar;and Cats&rpar;](https://dev.to/buildwebcrumbs/if-error-messages-were-honest-and-cats-56ea)
-- [AWS SnapStart - Part 21 Measuring cold starts and deployment time with Java 17 using different compilation options](https://dev.to/aws-builders/aws-snapstart-part-21-measuring-cold-starts-and-deployment-time-with-java-17-using-different-compilation-options-o14)
-- [What is your cloud data backup strategy ?](https://dev.to/nirmalkumar/what-is-your-cloud-data-backup-strategy--5a39)
-- [peviitor.ro pe LinkedIn](https://dev.to/ale23yfm/peviitorro-pe-linkedin-a6k)
+- [Enhancing Business Efficiency: A Comprehensive Guide to Choosing and Implementing Process Mapping Software](https://dev.to/blog_ts/enhancing-business-efficiency-a-comprehensive-guide-to-choosing-and-implementing-process-mapping-software-53k3)
+- [API Gateways: The Impact on API Management and Security](https://dev.to/apidna/api-gateways-the-impact-on-api-management-and-security-2o6k)
+- [Manipulando o hook useState](https://dev.to/devborges/manipulando-o-hook-usestate-b54)
+- [Understanding Idempotency in Software Development 🥇](https://dev.to/_hm/understanding-idempotency-in-software-development-4kgo)
+- [Dunder Methods in Python](https://dev.to/ezekiel_77/dunder-methods-in-python-7nh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
