@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Piece Your AI-Powered App Needs!](https://dev.to/kais_rad/the-missing-piece-your-ai-powered-app-needs-3m98)
-- [Build a Powerful Video Processing Pipeline with AssemblyAI and Deploy it to Koyeb](https://dev.to/koyeb/build-a-powerful-video-processing-pipeline-with-assemblyai-and-deploy-it-to-koyeb-1l56)
-- [Automatic retry function with Kotlin flows](https://dev.to/theplebdev/automatic-retry-function-with-kotlin-flows-1ji5)
-- [Unlock &amp; Share data Securely with Amazon Datazone](https://dev.to/dipalikulshrestha/unlock-share-data-securely-with-amazon-datazone-3b9l)
-- [Selenium WebDriver: Detail Guide With Use Cases](https://dev.to/saniyagazala/selenium-webdriver-detail-guide-with-use-cases-3clc)
+- [Introducing Molend: the Pioneering Lending Protocol on Mode Network](https://dev.to/modenetwork/introducing-molend-the-pioneering-lending-protocol-on-mode-network-2976)
+- [If Error Messages Were Honest &lpar;and Cats&rpar;](https://dev.to/buildwebcrumbs/if-error-messages-were-honest-and-cats-56ea)
+- [AWS SnapStart - Part 21 Measuring cold starts and deployment time with Java 17 using different compilation options](https://dev.to/aws-builders/aws-snapstart-part-21-measuring-cold-starts-and-deployment-time-with-java-17-using-different-compilation-options-o14)
+- [What is your cloud data backup strategy ?](https://dev.to/nirmalkumar/what-is-your-cloud-data-backup-strategy--5a39)
+- [peviitor.ro pe LinkedIn](https://dev.to/ale23yfm/peviitorro-pe-linkedin-a6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
