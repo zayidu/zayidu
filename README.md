@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Meditations: Implement Trie &lpar;Prefix Tree&rpar;](https://dev.to/rivea0/leetcode-meditations-implement-trie-prefix-tree-3dfp)
-- [Multi-language Web Novel Scraper in Python](https://dev.to/reinaldoassis/multi-language-web-novel-scraper-in-python-3cd2)
-- [1255. Maximum Score Words Formed by Letters](https://dev.to/mdarifulhaque/1255-maximum-score-words-formed-by-letters-25bj)
-- [1255. Maximum Score Words Formed by Letters](https://dev.to/karleb/1255-maximum-score-words-formed-by-letters-a55)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3pa6)
+- [Google Frontend Interview](https://dev.to/unalo_baayriyo/google-frontend-interview-2o1h)
+- [Database Migrations : From Manual to Automated Management.](https://dev.to/aharmaz/database-migrations-from-manual-to-automated-management-5ffj)
+- [Construtores semânticos](https://dev.to/kauanmocelin/construtores-semanticos-4m8p)
+- [Data Transfer between 2 PC&#39;s in lemon terms](https://dev.to/nrj-21/data-transfer-between-2-pcs-in-lemon-terms-55pm)
+- [Create an Audio Transcript with Amazon Transcribe](https://dev.to/cloudairx/create-an-audio-transcript-with-amazon-transcribe-55l8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
