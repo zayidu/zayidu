@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Amplify Challenge - I Got A Patent Pending 🦄](https://dev.to/vitalipom/aws-amplify-challenge-i-got-a-patent-pending-gch)
-- [Essential React Libraries for Your Next Project](https://dev.to/respect17/essential-react-libraries-for-your-next-project-4c91)
-- [Preventing Memory Leaks using Context Managers in Python](https://dev.to/myexamcloud/preventing-memory-leaks-using-context-managers-in-python-22c4)
-- [Networking Tips for New Developers: Building Your Professional Circle](https://dev.to/bingecoder89/networking-tips-for-new-developers-building-your-professional-circle-hc8)
-- [Step by Step to deploy Go API on AWS lambda and access by function URL](https://dev.to/ppaanngggg/step-by-step-to-deploy-go-api-on-aws-lambda-and-access-by-function-url-4668)
+- [MONGODB](https://dev.to/eniola/mongodb-34fc)
+- [picoCTF &quot;MATRIX&quot; Walkthrough &lpar;Caution: an extremely lengthy post&rpar;](https://dev.to/7jw92nvd1klaq1/picoctf-matrix-walkthrough-caution-a-lengthy-post-2cci)
+- [Superalignment and Timeline of Broken Promises on The Way to Superintelligence](https://dev.to/iwooky/superalignment-and-timeline-of-broken-promises-on-the-way-to-superintelligence-2d2p)
+- [Web3 101 Organized by hack4bengal](https://dev.to/arup_matabber/web3-101-organized-by-hack4bengal-1gof)
+- [Create a chatbot with just eight lines of code v.2](https://dev.to/cll/create-a-chatbot-with-just-eight-lines-of-code-v2-4dd5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
