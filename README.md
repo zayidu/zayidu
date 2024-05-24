@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing mobile apps, the right way](https://dev.to/talenttinaapi/testing-mobile-apps-the-right-way-dch)
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-1khk)
-- [Excluding Dependencies: Bundling for Node and the Browser](https://dev.to/zirkelc/excluding-dependencies-bundling-for-node-and-the-browser-34af)
-- [Path To A Clean&lpar;er&rpar; React Architecture - Domain Entities &amp; DTOs](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-domain-entities-dtos-3ja0)
-- [Mastering Vyper Functions&lpar;part1 &rpar;](https://dev.to/mosesmuwawu/mastering-vyper-functionspart1--1144)
+- [Survey: Integrating Large Language Models in Causal Discovery: A Statistical Causal Approach](https://dev.to/tutti/survey-integrating-large-language-models-in-causal-discovery-a-statistical-causal-approach-3p7d)
+- [Socket.io Connection Issues on localhost!](https://dev.to/mrrishimeena/socketio-connection-issues-on-localhost-42o5)
+- [SupaSaaS](https://dev.to/youcef_appmaker/supasaas-1g89)
+- [Prompt engineering is a dumb term](https://dev.to/iamrule/prompt-engineering-is-a-dumb-term-4ij4)
+- [Dynamic Routes and Parameter Passing in Next.js](https://dev.to/adrianbailador/dynamic-routes-and-parameter-passing-in-nextjs-2l7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
