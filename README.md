@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Business Efficiency: A Comprehensive Guide to Choosing and Implementing Process Mapping Software](https://dev.to/blog_ts/enhancing-business-efficiency-a-comprehensive-guide-to-choosing-and-implementing-process-mapping-software-53k3)
-- [API Gateways: The Impact on API Management and Security](https://dev.to/apidna/api-gateways-the-impact-on-api-management-and-security-2o6k)
-- [Manipulando o hook useState](https://dev.to/devborges/manipulando-o-hook-usestate-b54)
-- [Understanding Idempotency in Software Development 🥇](https://dev.to/_hm/understanding-idempotency-in-software-development-4kgo)
-- [Dunder Methods in Python](https://dev.to/ezekiel_77/dunder-methods-in-python-7nh)
+- [AWS Amplify Challenge - I Got A Patent Pending 🦄](https://dev.to/vitalipom/aws-amplify-challenge-i-got-a-patent-pending-gch)
+- [Essential React Libraries for Your Next Project](https://dev.to/respect17/essential-react-libraries-for-your-next-project-4c91)
+- [Preventing Memory Leaks using Context Managers in Python](https://dev.to/myexamcloud/preventing-memory-leaks-using-context-managers-in-python-22c4)
+- [Networking Tips for New Developers: Building Your Professional Circle](https://dev.to/bingecoder89/networking-tips-for-new-developers-building-your-professional-circle-hc8)
+- [Step by Step to deploy Go API on AWS lambda and access by function URL](https://dev.to/ppaanngggg/step-by-step-to-deploy-go-api-on-aws-lambda-and-access-by-function-url-4668)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
