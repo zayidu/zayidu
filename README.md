@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MONGODB](https://dev.to/eniola/mongodb-34fc)
-- [picoCTF &quot;MATRIX&quot; Walkthrough &lpar;Caution: an extremely lengthy post&rpar;](https://dev.to/7jw92nvd1klaq1/picoctf-matrix-walkthrough-caution-a-lengthy-post-2cci)
-- [Superalignment and Timeline of Broken Promises on The Way to Superintelligence](https://dev.to/iwooky/superalignment-and-timeline-of-broken-promises-on-the-way-to-superintelligence-2d2p)
-- [Web3 101 Organized by hack4bengal](https://dev.to/arup_matabber/web3-101-organized-by-hack4bengal-1gof)
-- [Create a chatbot with just eight lines of code v.2](https://dev.to/cll/create-a-chatbot-with-just-eight-lines-of-code-v2-4dd5)
+- [Simulating Life with TensorflowJS](https://dev.to/jgracie52/simulating-life-with-tensorflowjs-4cah)
+- [[S.O.L.I.D.] Os Cinco Pilares da Programação Orientada a Objetos para Desenvolvedores.](https://dev.to/dsb88/solid-os-cinco-pilares-da-programacao-orientada-a-objetos-para-desenvolvedores-2lph)
+- [Desmistificando: Entendendo interações entre navegador e usuário #1](https://dev.to/cavalcanteyury/desmistificando-entendendo-interacoes-entre-navegador-e-usuario-1-250c)
+- [Add Vector Search to Your Site](https://dev.to/bengreenberg/add-vector-search-to-your-site-2c73)
+- [Deploy MEAN with Ansible](https://dev.to/arielro85/deploy-mean-with-ansible-3h9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
