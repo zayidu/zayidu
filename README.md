@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Survey: Integrating Large Language Models in Causal Discovery: A Statistical Causal Approach](https://dev.to/tutti/survey-integrating-large-language-models-in-causal-discovery-a-statistical-causal-approach-3p7d)
-- [Socket.io Connection Issues on localhost!](https://dev.to/mrrishimeena/socketio-connection-issues-on-localhost-42o5)
-- [SupaSaaS](https://dev.to/youcef_appmaker/supasaas-1g89)
-- [Prompt engineering is a dumb term](https://dev.to/iamrule/prompt-engineering-is-a-dumb-term-4ij4)
-- [Dynamic Routes and Parameter Passing in Next.js](https://dev.to/adrianbailador/dynamic-routes-and-parameter-passing-in-nextjs-2l7e)
+- [Marketing Strategies](https://dev.to/techstuff/marketing-strategies-4l3e)
+- [Voxel51 Filtered Views Newsletter - May 24, 2024](https://dev.to/voxel51/voxel51-filtered-views-newsletter-may-24-2024-110b)
+- [Make Commit in Your React Project Format-Test-Build Ready with Husky - A Step-by-Step Guide](https://dev.to/lico/make-commit-in-your-react-project-format-test-build-ready-with-husky-a-step-by-step-guide-545i)
+- [6 Profitable Micro SaaS Ideas in 2024](https://dev.to/ikoichi/6-profitable-micro-saas-ideas-in-2024-55cl)
+- [Understanding How JavaScript Works: An In-Depth Guide 🚀](https://dev.to/madhurop/understanding-how-javascript-works-an-in-depth-guide-55m5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
