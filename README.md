@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Dev starts...](https://dev.to/tanya_singhal/web-dev-starts-38ie)
+- [Looking at A Monad Through An Example](https://dev.to/sshark/looking-at-a-monad-through-an-example-17cb)
+- [[S.O.L.I.D.] Os Cinco Pilares da Programação Orientada a Objetos. [D] Dependency Inversion Principle - DIP](https://dev.to/dsb88/solid-os-cinco-pilares-da-programacao-orientada-a-objetos-d-dependency-inversion-principle-dip-2d5n)
 - [Create Your First Discord Bot with Lambda](https://dev.to/devbu9/create-your-first-discord-bot-with-lambda-4om4)
 - [Securing the Cloud #30](https://dev.to/8carroll/securing-the-cloud-30-1g6m)
-- [[S.O.L.I.D.] Os Cinco Pilares da Programação Orientada a Objetos. [I] - Interface Segregation Principle - ISP](https://dev.to/dsb88/solid-os-cinco-pilares-da-programacao-orientada-a-objetos-i-interface-segregation-principle-isp-3ho3)
-- [Concurrency c# part 1](https://dev.to/dat_ngo_524c98f33bc09e368/concurrency-c-part-1-2h7b)
-- [View this solution on Exercism to City Office](https://dev.to/wagnerdecarvalho/view-this-solution-on-exercism-to-city-office-5657)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
