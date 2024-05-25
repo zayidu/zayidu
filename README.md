@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comment bien gérer les erreurs avec Remix ? &lpar;ErrorBoundary&rpar;](https://dev.to/varkoff/comment-bien-gerer-les-erreurs-avec-remix-errorboundary-1m6m)
-- [HOW TO CREATE FILE SHARE](https://dev.to/shaloversal123/how-to-create-file-share-3ifb)
-- [What is an AI Aggregator?](https://dev.to/foxinfotech/what-is-an-ai-aggregator-3kn5)
-- [How to build an HTML to PDF app in 5 minutes](https://dev.to/anmolbaranwal/how-to-build-an-html-to-pdf-app-in-5-minutes-92e)
-- [Running Ollama and Open WebUI Self-Hosted](https://dev.to/berk/running-ollama-and-open-webui-self-hosted-4ih5)
+- [Integrating a ReactPHP Server in Laravel](https://dev.to/kornatzky/integrating-a-reactphp-server-in-laravel-lo0)
+- [Turbocharge Your Shaders: Performance Optimization Tips and Tricks](https://dev.to/hayyanstudio/turbocharge-your-shaders-performance-optimization-tips-and-tricks-367h)
+- [Advanced Shader Techniques: Delving into Ray Tracing and Signed Distance Functions](https://dev.to/hayyanstudio/advanced-shader-techniques-delving-into-ray-tracing-and-signed-distance-functions-4li0)
+- [[DAY 15-17] I Got My First Web Dev Certification &amp; Started Learning Javascript](https://dev.to/thomascansino/day-15-17-i-got-my-first-web-dev-certification-started-learning-javascript-55jl)
+- [The long path of JavaScript - from ES6 until today.](https://dev.to/fsh02/the-long-path-of-javascript-from-es6-until-today-3gc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
