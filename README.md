@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating a ReactPHP Server in Laravel](https://dev.to/kornatzky/integrating-a-reactphp-server-in-laravel-lo0)
-- [Turbocharge Your Shaders: Performance Optimization Tips and Tricks](https://dev.to/hayyanstudio/turbocharge-your-shaders-performance-optimization-tips-and-tricks-367h)
-- [Advanced Shader Techniques: Delving into Ray Tracing and Signed Distance Functions](https://dev.to/hayyanstudio/advanced-shader-techniques-delving-into-ray-tracing-and-signed-distance-functions-4li0)
-- [[DAY 15-17] I Got My First Web Dev Certification &amp; Started Learning Javascript](https://dev.to/thomascansino/day-15-17-i-got-my-first-web-dev-certification-started-learning-javascript-55jl)
-- [The long path of JavaScript - from ES6 until today.](https://dev.to/fsh02/the-long-path-of-javascript-from-es6-until-today-3gc3)
+- [We need to slow down, Everything is going too fast](https://dev.to/shreyvijayvargiya/we-need-to-slow-down-everything-is-going-too-fast-db4)
+- [Next.js e Vercel: Otimizando Aplicações para Produção](https://dev.to/vitorrios1001/nextjs-e-vercel-otimizando-aplicacoes-para-producao-378j)
+- [Prometheus: Unable to access the Prometheus from browser](https://dev.to/anil_gupta_8c14d017c93304/prometheus-unable-to-access-the-prometheus-from-browser-1li2)
+- [Beyond Docker: Exploring Buildah and Podman for Container workflows](https://dev.to/ahmadmohey/beyond-docker-exploring-buildah-and-podman-for-container-workflows-3lnk)
+- [Level Up Your Dev Skills: Top AI Tools for 2024!](https://dev.to/futuristicgeeks/level-up-your-dev-skills-top-ai-tools-for-2024-25oe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
