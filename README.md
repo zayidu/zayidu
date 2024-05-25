@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Data Manipulation Language&lpar;DML&rpar; statements in SQL](https://dev.to/kellyblaire/understanding-the-data-manipulation-languagedml-statements-in-sql-23f5)
-- [CodeCompanion is launching : Take your documentation to the next level](https://dev.to/lotfijb/codecompanion-is-launching-take-your-documentation-to-the-next-level-1d8d)
-- [Could Microservices Be a Good Fit for Micro SaaS Startups?](https://dev.to/zachbenson/could-microservices-be-a-good-fit-for-micro-saas-startups-47hg)
-- [InfinityScroll - Just like TikTok!](https://dev.to/jorjishasan/infinityscroll-just-like-tiktok-4j5l)
-- [MindsDB + Docker: Utilizando SQL e containers para integrações com IA](https://dev.to/rflpazini/mindsdb-docker-utilizando-sql-e-containers-para-integracoes-com-ia-edc)
+- [Exploring the Features of HTML5](https://dev.to/kartikmehta8/exploring-the-features-of-html5-iai)
+- [[S.O.L.I.D.] Os Cinco Pilares da Programação Orientada a Objetos. [O] - Open/Closed Principle - OCP](https://dev.to/dsb88/solid-os-cinco-pilares-da-programacao-orientada-a-objetos-o-openclosed-principle-ocp-3bal)
+- [CLI Tools every Developer should know](https://dev.to/codeparrot/cli-tools-every-developer-should-know-6kd)
+- [Idempotência: A Chave para Evitar Duplicações](https://dev.to/yagocosta/idempotencia-a-chave-para-evitar-duplicacoes-8j6)
+- [[Game of Purpose] Day 6](https://dev.to/humberd/game-of-purpose-day-6-1b93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
