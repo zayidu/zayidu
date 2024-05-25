@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Dev starts...](https://dev.to/tanya_singhal/web-dev-starts-38ie)
-- [Looking at A Monad Through An Example](https://dev.to/sshark/looking-at-a-monad-through-an-example-17cb)
-- [[S.O.L.I.D.] Os Cinco Pilares da Programação Orientada a Objetos. [D] Dependency Inversion Principle - DIP](https://dev.to/dsb88/solid-os-cinco-pilares-da-programacao-orientada-a-objetos-d-dependency-inversion-principle-dip-2d5n)
-- [Create Your First Discord Bot with Lambda](https://dev.to/devbu9/create-your-first-discord-bot-with-lambda-4om4)
-- [Securing the Cloud #30](https://dev.to/8carroll/securing-the-cloud-30-1g6m)
+- [CSS for Beginners: Building Responsive Web Layouts with Ease](https://dev.to/girishsawant999/css-for-beginners-building-responsive-web-layouts-with-ease-2he8)
+- [Mastering the React-Slick Slider | A Step-by-Step Tutorial](https://dev.to/nnnirajn/mastering-the-react-slick-slider-a-step-by-step-tutorial-16g5)
+- [How to Add Rate Limiting to Your Next.js App Router](https://dev.to/sh20raj/how-to-add-rate-limiting-to-your-nextjs-app-router-22fa)
+- [Private Data / Public Data Backup - Azure Files and Azure Blobs](https://dev.to/olawaleoloye/private-data-public-data-backup-azure-files-and-azure-blobs-7pj)
+- [AWS Network Challenge 1: Deploy Web App to EC2 / Two-Tier VPC Architecture](https://dev.to/aws-builders/aws-network-challenge-1-deploy-application-in-ec2-on-two-tier-vpc-architecture-135i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
