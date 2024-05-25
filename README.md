@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Features of HTML5](https://dev.to/kartikmehta8/exploring-the-features-of-html5-iai)
-- [[S.O.L.I.D.] Os Cinco Pilares da Programação Orientada a Objetos. [O] - Open/Closed Principle - OCP](https://dev.to/dsb88/solid-os-cinco-pilares-da-programacao-orientada-a-objetos-o-openclosed-principle-ocp-3bal)
-- [CLI Tools every Developer should know](https://dev.to/codeparrot/cli-tools-every-developer-should-know-6kd)
-- [Idempotência: A Chave para Evitar Duplicações](https://dev.to/yagocosta/idempotencia-a-chave-para-evitar-duplicacoes-8j6)
-- [[Game of Purpose] Day 6](https://dev.to/humberd/game-of-purpose-day-6-1b93)
+- [[S.O.L.I.D.] Os Cinco Pilares da Programação Orientada a Objetos. [I] - Interface Segregation Principle - ISP](https://dev.to/dsb88/solid-os-cinco-pilares-da-programacao-orientada-a-objetos-i-interface-segregation-principle-isp-3ho3)
+- [Concurrency c# part 1](https://dev.to/dat_ngo_524c98f33bc09e368/concurrency-c-part-1-2h7b)
+- [View this solution on Exercism to City Office](https://dev.to/wagnerdecarvalho/view-this-solution-on-exercism-to-city-office-5657)
+- [How to Check if a String Contains Only Letters in C#](https://dev.to/dat_ngo_524c98f33bc09e368/how-to-check-if-a-string-contains-only-letters-in-c-5095)
+- [Filter list based on another list](https://dev.to/dat_ngo_524c98f33bc09e368/filter-list-based-on-another-list-18b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
