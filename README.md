@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Metadata for win — Apache Parquet](https://dev.to/rahuldubey391/metadata-for-win-apache-parquet-3mb5)
-- [Effective Unit Testing for REST APIs with Node.js, TypeScript](https://dev.to/qbentil/effective-unit-testing-for-rest-apis-with-nodejs-typescript-2e4o)
-- [F# For Dummys - Day 14 Collections Map](https://dev.to/pythonzhu/f-for-dummys-day-14-collections-map-big)
-- [What is Content Delivery Networks &lpar;CDNs&rpar;?](https://dev.to/the_infinity/what-is-content-delivery-networks-cdns-3abd)
-- [Create a React project from scratch](https://dev.to/shehzadhussain/create-a-react-project-from-scratch-3fn8)
+- [Comment bien gérer les erreurs avec Remix ? &lpar;ErrorBoundary&rpar;](https://dev.to/varkoff/comment-bien-gerer-les-erreurs-avec-remix-errorboundary-1m6m)
+- [HOW TO CREATE FILE SHARE](https://dev.to/shaloversal123/how-to-create-file-share-3ifb)
+- [What is an AI Aggregator?](https://dev.to/foxinfotech/what-is-an-ai-aggregator-3kn5)
+- [How to build an HTML to PDF app in 5 minutes](https://dev.to/anmolbaranwal/how-to-build-an-html-to-pdf-app-in-5-minutes-92e)
+- [Running Ollama and Open WebUI Self-Hosted](https://dev.to/berk/running-ollama-and-open-webui-self-hosted-4ih5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
