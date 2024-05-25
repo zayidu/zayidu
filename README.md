@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We need to slow down, Everything is going too fast](https://dev.to/shreyvijayvargiya/we-need-to-slow-down-everything-is-going-too-fast-db4)
-- [Next.js e Vercel: Otimizando Aplicações para Produção](https://dev.to/vitorrios1001/nextjs-e-vercel-otimizando-aplicacoes-para-producao-378j)
-- [Prometheus: Unable to access the Prometheus from browser](https://dev.to/anil_gupta_8c14d017c93304/prometheus-unable-to-access-the-prometheus-from-browser-1li2)
-- [Beyond Docker: Exploring Buildah and Podman for Container workflows](https://dev.to/ahmadmohey/beyond-docker-exploring-buildah-and-podman-for-container-workflows-3lnk)
-- [Level Up Your Dev Skills: Top AI Tools for 2024!](https://dev.to/futuristicgeeks/level-up-your-dev-skills-top-ai-tools-for-2024-25oe)
+- [Unlocking the Power of NodeJS with Human Library](https://dev.to/tarek_eissa/unlocking-the-power-of-nodejs-with-human-library-3jo0)
+- [Updating to Angular Material 18: Keeping Support for Material 2 and Adding Support for Material 3](https://dev.to/ngmaterialdev/updating-to-angular-material-18-keeping-support-for-material-2-and-adding-support-for-material-3-456a)
+- [12 Benefits Of Learning Python 🐍](https://dev.to/developedbyjk/12-benefits-of-learning-python-k1h)
+- [Generate a Laravel CRUD &lpar;Create, Read, Update, Delete&rpar; in 5 minutes.](https://dev.to/karandatwani92/generate-a-laravel-crud-create-read-update-delete-in-5-minutes-409o)
+- [Generating Taproot Wallet Address using bitcoinjs-lib](https://dev.to/pagarevijayy/generating-taproot-wallet-address-using-bitcoinjs-lib-54f4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
