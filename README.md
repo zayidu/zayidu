@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Simple Shaders in WebGL: A Step-by-Step Guide](https://dev.to/hayyanstudio/creating-simple-shaders-in-webgl-a-step-by-step-guide-46gg)
-- [&quot; Getting Started with HTML: Building Blocks of Web Pages](https://dev.to/erasmuskotoka/-getting-started-with-html-building-blocks-of-web-pages-1m3c)
-- [NEXT 15 is here! : What&#39;s New and Exciting?](https://dev.to/grenishrai/next-15-is-here-whats-new-and-exciting-1nkl)
-- [AWS Athena for GitHub - Eliminating the default Security blind spots](https://dev.to/siddhantkcode/aws-athena-for-github-eliminating-the-default-security-blind-spots-4dm)
-- [Google&#39;s IDX: The Future of Web Dev? AI Assistant Makes Coding](https://dev.to/dev007777/googles-idx-the-future-of-web-dev-ai-assistant-makes-coding-19fl)
+- [How Function And Variable works in JavaScript : Behind The Scenes](https://dev.to/pervez/how-function-and-variable-works-in-javascript-behind-the-scenes-54e0)
+- [YMIN capacitors enhance performance and stability in charging piles.](https://dev.to/yolosaki/ymin-capacitors-enhance-performance-and-stability-in-charging-piles-19d6)
+- [Understanding and Implementing the Lenses Pattern in JavaScript](https://dev.to/ashutosh_mathur/understanding-and-implementing-the-lenses-pattern-in-javascript-333a)
+- [Optimize React Components with the React Profiler 🚀](https://dev.to/mvaja13/optimize-react-components-with-the-react-profiler-4184)
+- [Understanding Primitives and Reference Types in JavaScript.](https://dev.to/samuel__ojerinde/understanding-primitives-and-reference-types-in-javascript-4g7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
