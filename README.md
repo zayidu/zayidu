@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ASP.NET Core Navigation markers](https://dev.to/karenpayneoregon/aspnet-core-navigation-markers-2j38)
-- [Achieving Success in Online Learning: A Practical Guide](https://dev.to/gift_mugweni_1c055b418706/achieving-success-in-online-learning-a-practical-guide-h86)
-- [Kubernetes Ingress in a nutshell Part01](https://dev.to/sambo2021/kubernetes-ingress-in-a-nutshell-part01-28j)
-- [Understanding the Basics of HTTP Status Codes](https://dev.to/vidyarathna/understanding-the-basics-of-http-status-codes-40b9)
-- [Understanding JUnit: A Comprehensive Guide with Examples](https://dev.to/fullstackjava/understanding-junit-a-comprehensive-guide-with-examples-ei3)
+- [Time-Series Mastery: Techniques for Precise Predictive Modeling](https://dev.to/annaliesetech/time-series-mastery-techniques-for-precise-predictive-modeling-n2e)
+- [Machine Learning 101: What You Need to Know](https://dev.to/ankur0904/machine-learning-101-what-you-need-to-know-1nip)
+- [Create plugins in Go](https://dev.to/stefanalfbo/create-plugins-in-go-25bd)
+- [:has&lpar;&rpar; in CSS](https://dev.to/larafritosss/has-in-css-anc)
+- [Adding Colour To The Log Output Of Logging Libraries In Go](https://dev.to/keploy/adding-colour-to-the-log-output-of-logging-libraries-in-go-2o63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
