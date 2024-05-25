@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Symfony Station Communiqué — 24 May 2024: A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-24-may-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-281j)
-- [Build Real-time transcription app using React Hooks](https://dev.to/video-sdk/build-real-time-transcription-app-using-react-hooks-1coe)
-- [JavaScript vs. TypeScript: A Comprehensive Comparison](https://dev.to/dipakahirav/javascript-vs-typescript-a-comprehensive-comparison-c97)
-- [Exploring React Hooks: Benefits, Drawbacks, and Real-World Examples](https://dev.to/bilelsalemdev/exploring-react-hooks-benefits-drawbacks-and-real-world-examples-5fpg)
-- [Coffee Snobs get it right!](https://dev.to/noriller/coffee-snobs-get-it-right-57kc)
+- [ASP.NET Core Navigation markers](https://dev.to/karenpayneoregon/aspnet-core-navigation-markers-2j38)
+- [Achieving Success in Online Learning: A Practical Guide](https://dev.to/gift_mugweni_1c055b418706/achieving-success-in-online-learning-a-practical-guide-h86)
+- [Kubernetes Ingress in a nutshell Part01](https://dev.to/sambo2021/kubernetes-ingress-in-a-nutshell-part01-28j)
+- [Understanding the Basics of HTTP Status Codes](https://dev.to/vidyarathna/understanding-the-basics-of-http-status-codes-40b9)
+- [Understanding JUnit: A Comprehensive Guide with Examples](https://dev.to/fullstackjava/understanding-junit-a-comprehensive-guide-with-examples-ei3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
