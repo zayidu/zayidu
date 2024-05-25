@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Learning AI Essential for Software Engineers?](https://dev.to/yogini16/is-learning-ai-essential-for-software-engineers-4gf9)
+- [Networking 101: Back to School](https://dev.to/xpertr2/networking-101-back-to-school-1gk7)
+- [All About NPM &lpar;Node Package Manager&rpar;](https://dev.to/olibhiaghosh/all-about-npm-node-package-manager-hk2)
+- [Understanding Closures in Programming](https://dev.to/madhurop/understanding-closures-in-programming-5cp5)
 - [How Function And Variable works in JavaScript : Behind The Scenes](https://dev.to/pervez/how-function-and-variable-works-in-javascript-behind-the-scenes-54e0)
-- [YMIN capacitors enhance performance and stability in charging piles.](https://dev.to/yolosaki/ymin-capacitors-enhance-performance-and-stability-in-charging-piles-19d6)
-- [Understanding and Implementing the Lenses Pattern in JavaScript](https://dev.to/ashutosh_mathur/understanding-and-implementing-the-lenses-pattern-in-javascript-333a)
-- [Optimize React Components with the React Profiler 🚀](https://dev.to/mvaja13/optimize-react-components-with-the-react-profiler-4184)
-- [Understanding Primitives and Reference Types in JavaScript.](https://dev.to/samuel__ojerinde/understanding-primitives-and-reference-types-in-javascript-4g7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
