@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sum Root to Leaf Numbers | LeetCode | Java](https://dev.to/tanujav/sum-root-to-leaf-numbers-leetcode-java-30em)
-- [Exploring Asynchronous JavaScript: Callbacks, Promises, and Async/Await](https://dev.to/jps27cse/exploring-asynchronous-javascript-callbacks-promises-and-asyncawait-16k6)
-- [I&#39;ve Created an Awesome List of Gifs that can be added to your Github Profile README](https://dev.to/nhelchitnis/ive-created-an-awesome-list-of-gifs-that-can-be-added-to-your-github-profile-readme-2jf3)
-- [Terraform vs Ansible](https://dev.to/vaibhavhariaramani/terraform-vs-ansible-103g)
-- [The Bond between Frontend Development and User Experience &lpar;UX&rpar; Design](https://dev.to/outstandingvick/the-bond-between-frontend-development-and-user-experience-ux-design-47m8)
+- [Public Beta of devSitter Now Available! Write Higher Quality Code](https://dev.to/bykowski/public-beta-of-devsitter-now-available-write-higher-quality-code-j4g)
+- [CloudCycle - Set lifecycle for your cloud resources to avoid surprising costs](https://dev.to/redopsbay/cloudcycle-set-lifecycle-for-your-cloud-resources-to-avoid-surprising-costs-5gpd)
+- [Healthcare and Pharmaceuticals: Revolutionizing Patient Care with Technology](https://dev.to/brainboard/healthcare-and-pharmaceuticals-revolutionizing-patient-care-with-technology-3oig)
+- [Is UIView &lpar;mostly&rpar; visible](https://dev.to/rationalkunal/is-uiview-mostly-visible-59jf)
+- [Generative AI Revolutionizes Quantum Computer Programming](https://dev.to/samagra07/generative-ai-revolutionizes-quantum-computer-programming-2ckm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
