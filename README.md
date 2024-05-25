@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Public Beta of devSitter Now Available! Write Higher Quality Code](https://dev.to/bykowski/public-beta-of-devsitter-now-available-write-higher-quality-code-j4g)
-- [CloudCycle - Set lifecycle for your cloud resources to avoid surprising costs](https://dev.to/redopsbay/cloudcycle-set-lifecycle-for-your-cloud-resources-to-avoid-surprising-costs-5gpd)
-- [Healthcare and Pharmaceuticals: Revolutionizing Patient Care with Technology](https://dev.to/brainboard/healthcare-and-pharmaceuticals-revolutionizing-patient-care-with-technology-3oig)
-- [Is UIView &lpar;mostly&rpar; visible](https://dev.to/rationalkunal/is-uiview-mostly-visible-59jf)
-- [Generative AI Revolutionizes Quantum Computer Programming](https://dev.to/samagra07/generative-ai-revolutionizes-quantum-computer-programming-2ckm)
+- [A Guide to Python Lists, Tuples, Dictionaries, and Sets](https://dev.to/varshav/a-guide-to-python-lists-tuples-dictionaries-and-sets-gpf)
+- [The Neighborhood Domain will Quickly Improve your Modeling Skills](https://dev.to/aws-builders/the-neighborhood-domain-will-quickly-improve-your-modeling-skills-4d9f)
+- [Very very basic python-binance ThreadedWebSocketManager example does not work... why?](https://dev.to/lukaseber/very-very-basic-python-binance-threadedwebsocketmanager-example-does-not-work-why-2j0o)
+- [#PYTHON SELENIUM ARCHITECTURE AND THE SIGNIFICANT OF PYTHON VIRTUAL ENVIRONMENT#](https://dev.to/krishnavenis/python-selenium-architecture-and-the-significant-of-python-virtual-environment-17dk)
+- [Good Practices For Connecting Go Server To Postgres](https://dev.to/ganesh-kumar/good-practices-for-connecting-go-server-to-postgres-3k4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
