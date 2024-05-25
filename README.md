@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of NodeJS with Human Library](https://dev.to/tarek_eissa/unlocking-the-power-of-nodejs-with-human-library-3jo0)
-- [Updating to Angular Material 18: Keeping Support for Material 2 and Adding Support for Material 3](https://dev.to/ngmaterialdev/updating-to-angular-material-18-keeping-support-for-material-2-and-adding-support-for-material-3-456a)
-- [12 Benefits Of Learning Python 🐍](https://dev.to/developedbyjk/12-benefits-of-learning-python-k1h)
-- [Generate a Laravel CRUD &lpar;Create, Read, Update, Delete&rpar; in 5 minutes.](https://dev.to/karandatwani92/generate-a-laravel-crud-create-read-update-delete-in-5-minutes-409o)
-- [Generating Taproot Wallet Address using bitcoinjs-lib](https://dev.to/pagarevijayy/generating-taproot-wallet-address-using-bitcoinjs-lib-54f4)
+- [Sum Root to Leaf Numbers | LeetCode | Java](https://dev.to/tanujav/sum-root-to-leaf-numbers-leetcode-java-30em)
+- [Exploring Asynchronous JavaScript: Callbacks, Promises, and Async/Await](https://dev.to/jps27cse/exploring-asynchronous-javascript-callbacks-promises-and-asyncawait-16k6)
+- [I&#39;ve Created an Awesome List of Gifs that can be added to your Github Profile README](https://dev.to/nhelchitnis/ive-created-an-awesome-list-of-gifs-that-can-be-added-to-your-github-profile-readme-2jf3)
+- [Terraform vs Ansible](https://dev.to/vaibhavhariaramani/terraform-vs-ansible-103g)
+- [The Bond between Frontend Development and User Experience &lpar;UX&rpar; Design](https://dev.to/outstandingvick/the-bond-between-frontend-development-and-user-experience-ux-design-47m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
