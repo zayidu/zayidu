@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache Spark 101](https://dev.to/rubnsbarbosa/apache-spark-101-2p68)
+- [Mario made only with CSS gradients - no JS, no embedded images/data URIs, no external images and using a micro HTML =&rpar;](https://dev.to/__d007e49033/mario-made-only-with-css-gradients-no-js-no-embedded-imagesdata-uris-no-external-images-and-using-a-micro-html--4f5f)
+- [Creating generic types for API &lpar;backend&rpar; responses](https://dev.to/lurco/creating-generic-types-for-api-backend-responses-3ho2)
+- [Controlling user auth flow with Lambda &amp; Cognito](https://dev.to/jodamco/controlling-user-auth-flow-with-lambda-cognito-28k9)
 - [Time-Series Mastery: Techniques for Precise Predictive Modeling](https://dev.to/annaliesetech/time-series-mastery-techniques-for-precise-predictive-modeling-n2e)
-- [Machine Learning 101: What You Need to Know](https://dev.to/ankur0904/machine-learning-101-what-you-need-to-know-1nip)
-- [Create plugins in Go](https://dev.to/stefanalfbo/create-plugins-in-go-25bd)
-- [:has&lpar;&rpar; in CSS](https://dev.to/larafritosss/has-in-css-anc)
-- [Adding Colour To The Log Output Of Logging Libraries In Go](https://dev.to/keploy/adding-colour-to-the-log-output-of-logging-libraries-in-go-2o63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
