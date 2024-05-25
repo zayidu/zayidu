@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Python Lists, Tuples, Dictionaries, and Sets](https://dev.to/varshav/a-guide-to-python-lists-tuples-dictionaries-and-sets-gpf)
-- [The Neighborhood Domain will Quickly Improve your Modeling Skills](https://dev.to/aws-builders/the-neighborhood-domain-will-quickly-improve-your-modeling-skills-4d9f)
-- [Very very basic python-binance ThreadedWebSocketManager example does not work... why?](https://dev.to/lukaseber/very-very-basic-python-binance-threadedwebsocketmanager-example-does-not-work-why-2j0o)
-- [#PYTHON SELENIUM ARCHITECTURE AND THE SIGNIFICANT OF PYTHON VIRTUAL ENVIRONMENT#](https://dev.to/krishnavenis/python-selenium-architecture-and-the-significant-of-python-virtual-environment-17dk)
-- [Good Practices For Connecting Go Server To Postgres](https://dev.to/ganesh-kumar/good-practices-for-connecting-go-server-to-postgres-3k4g)
+- [What is an ORM and when developers should and shouldn&#39;t use it](https://dev.to/neurelo/what-is-an-orm-and-when-developers-should-and-shouldnt-use-it-1hm2)
+- [Comparing WebRTC and WebSocket: Choosing the Right Technology for Real-Time Experience](https://dev.to/arjunkava/comparing-webrtc-and-websocket-choosing-the-right-technology-for-real-time-experience-4ie9)
+- [Comprehensive Guide to Using Observers in Laravel](https://dev.to/devbalop/comprehensive-guide-to-using-observers-in-laravel-5dcf)
+- [Learning AWS Day by Day — Day 75 — Elastic Network Interface](https://dev.to/rksalo88/learning-aws-day-by-day-day-75-elastic-network-interface-2jab)
+- [Does anyone now any literature i can read ?](https://dev.to/kenny_hoyte_fb798a6e1196f/does-anyone-now-any-literature-i-can-read--2g51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
