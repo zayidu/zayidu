@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Concept : Memory Allocation and Behavior](https://dev.to/sromelrey/javascript-concept-memory-allocation-and-behavior-485b)
+- [Why Dockerize a React App?](https://dev.to/snehasishkonger/why-dockerize-a-react-app-17h1)
 - [MelodyLink: A Social Media App for Music Producers](https://dev.to/logarithmicspirals/melodylink-a-social-media-app-for-music-producers-22km)
 - [File accessed using keys and managed identities - Azure Files and Azure Blobs](https://dev.to/olawaleoloye/file-accessed-using-keys-and-managed-identities-azure-files-and-azure-blobs-4ck4)
 - [Pathfinding Algorithms Part 2 with A*](https://dev.to/excaliburjs/pathfinding-part-2-with-a-ina)
-- [Exploring Web Development: Python + Django](https://dev.to/alexphebert2000/exploring-web-development-python-django-acb)
-- [🚀 Exploring Front-End Development with HTML, CSS, and React.js! 🌟](https://dev.to/erasmuskotoka/exploring-front-end-development-with-html-css-and-reactjs-4h7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
