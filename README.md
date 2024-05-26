@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide To Choose A Database For Your Next Design](https://dev.to/isurumax26/guide-to-choose-a-database-for-your-next-design-5cam)
+- [**SOLID PRINCIPLE OF SOFTWARE ENGINEERING**](https://dev.to/hussain101/solid-principle-of-software-engineering-8cf)
+- [How to inject simple dummy data at a large scale in MySQL](https://dev.to/siddhantkcode/how-to-inject-simple-dummy-data-at-a-large-scale-in-mysql-eci)
+- [Share Text Securely with AWS Amplify Gen 2](https://dev.to/henryjw/share-text-securely-with-aws-amplify-gen-2-59c5)
 - [AWS Amplify Fullstack TypeScript Challenge Submission](https://dev.to/davidlewisgardin/aws-amplify-fullstack-typescript-challenge-submission-41fn)
-- [ChatGPT - Prompts for Code Review and Debugging](https://dev.to/techiesdiary/chatgpt-prompts-for-code-review-and-debugging-48j)
-- [Create a numbered textarea](https://dev.to/tidycoder/create-a-numbered-textarea-1340)
-- [Boost Your Productivity: Essential VSCode Extensions for Developers](https://dev.to/vidyarathna/boost-your-productivity-essential-vscode-extensions-for-developers-25bd)
-- [Create a circle in html css](https://dev.to/tidycoder/create-a-circle-in-html-css-4bne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
