@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Concept : Memory Allocation and Behavior](https://dev.to/sromelrey/javascript-concept-memory-allocation-and-behavior-485b)
-- [Why Dockerize a React App?](https://dev.to/snehasishkonger/why-dockerize-a-react-app-17h1)
-- [MelodyLink: A Social Media App for Music Producers](https://dev.to/logarithmicspirals/melodylink-a-social-media-app-for-music-producers-22km)
-- [File accessed using keys and managed identities - Azure Files and Azure Blobs](https://dev.to/olawaleoloye/file-accessed-using-keys-and-managed-identities-azure-files-and-azure-blobs-4ck4)
-- [Pathfinding Algorithms Part 2 with A*](https://dev.to/excaliburjs/pathfinding-part-2-with-a-ina)
+- [How I solve React&#39;s functional component and hooks limitation that cause a lot of troubles/bugs](https://dev.to/bi_khi_647aa6dba9175191/how-i-solve-reacts-functional-component-and-hooks-limitation-that-cause-a-lot-of-troublesbugs-4kj1)
+- [Getting Started with ESLint and Husky in Your Node.js Project](https://dev.to/ajeetraina/getting-started-with-eslint-and-husky-in-your-nodejs-project-2i36)
+- [&quot;sh: next: command not found&quot; in Next.js Development? Here&#39;s the Fix!](https://dev.to/ajeetraina/sh-next-command-not-found-in-nextjs-development-heres-the-fix-1ndb)
+- [Kubernetes Service External IP Stuck on Pending? Here&#39;s How to Fix It](https://dev.to/ajeetraina/kubernetes-service-external-ip-stuck-on-pending-heres-how-to-fix-it-43dh)
+- [Kubernetes and AI: 3 Open Source Tools Powered by OpenAI](https://dev.to/ajeetraina/kubernetes-and-ai-3-open-source-tools-powered-by-openai-5144)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
