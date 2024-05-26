@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dependency Injection in PHP simply explained with an example](https://dev.to/vimuth7/dependency-injection-in-php-simply-explained-with-an-example-4fo4)
-- [Passkeys F.A.Q.](https://dev.to/dagnelies/passkeys-faq-8jo)
-- [Captura de erros, operadores relacionais para string e procedures](https://dev.to/alexgarzao/captura-de-erros-operadores-relacionais-para-string-e-procedures-3e46)
-- [Pure HTML with CDN json schema form element has typo](https://dev.to/wsq/pure-html-with-cdn-json-schema-form-element-has-typo-3dal)
-- [Fin Alchemist MVP with AWS Amplify Gen 2](https://dev.to/gokhantamkoc/fin-alchemist-mvp-with-aws-amplify-gen-2-22kc)
+- [Chaotic Schedule v1.1 released!](https://dev.to/skywarth/chaotic-schedule-v11-released-4e2)
+- [WSGI als Python runtime - Django in Produktion Teil 5](https://dev.to/rubenvoss/wsgi-als-python-runtime-django-in-produktion-teil-5-1701)
+- [My experience with preparation and passing the AWS Cloud Practitioner exam](https://dev.to/lyumotech/my-experience-with-preparation-and-passing-the-aws-cloud-practitioner-exam-pn0)
+- [Auction House Hunter &lpar;amplify awschallenge entry&rpar;](https://dev.to/jake_horvath_b58f87019ef1/auction-house-hunter-amplify-awschallenge-entry-4g94)
+- [My first DEV community post](https://dev.to/mihailocv/my-first-dev-community-post-38b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
