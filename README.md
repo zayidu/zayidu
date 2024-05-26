@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DC Bat Cowls with Amplify Gen 2 Fullstack Typescript](https://dev.to/aws-builders/dc-bat-cowls-with-amplify-gen-2-fullstack-typescript-43ac)
-- [JavaScript Tricks You Didn’t Know Existed](https://dev.to/delia_code/javascript-tricks-you-didnt-know-existed-4gog)
-- [Tools and Libraries that make my my life easier as a solo developer 🔥](https://dev.to/legationpro/tools-and-libraries-that-make-my-my-life-easier-as-a-solo-developer-3bj8)
-- [9 Caching Strategies for System Design Interviews](https://dev.to/somadevtoo/9-caching-strategies-for-system-design-interviews-369g)
-- [Understanding the different CSS viewport units &lpar;dvh, svh, lvh&rpar;](https://dev.to/roushannn/understanding-the-different-css-viewport-units-dvh-svh-lvh-9eo)
+- [Docker Build with Mac](https://dev.to/anilxnmdrz/docker-build-with-mac-2j9d)
+- [Understanding JavaScript keyword var, let, const and hoisting.](https://dev.to/sromelrey/understanding-javascript-keyword-var-let-const-and-hoisting-jhh)
+- [Answer: Cannot read properties of undefined &lpar;reading &#39;invalidatesTags&#39;&rpar; [duplicate]](https://dev.to/hossain45/answer-cannot-read-properties-of-undefined-reading-invalidatestags-duplicate-igp)
+- [OpenAI Assistant with NextJS](https://dev.to/nhd2106/openai-assistant-with-nextjs-1c1n)
+- [Why I still struggle with estimates](https://dev.to/adaschevici/why-i-still-struggle-with-estimates-357k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
