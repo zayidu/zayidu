@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Unit Tests with MongoDB in a Node.js Express Application using Jest](https://dev.to/ndohjapan/running-unit-tests-with-mongodb-in-a-nodejs-express-application-using-jest-42de)
-- [Next.js 15 RC Unveiled: A Close Look at the Framework&#39;s Latest Features](https://dev.to/devmirx/nextjs-15-rc-unveiled-a-close-look-at-the-frameworks-latest-features-4lc1)
-- [Mask multiple lines text in GitHub Actions Workflow](https://dev.to/yuyatakeyama/mask-multiple-lines-text-in-github-actions-workflow-1a0)
-- [Backend cheatsheet suggestions &lpar;Upcoming&rpar;](https://dev.to/kervyntjw/backend-cheatsheet-suggestions-upcoming-4g5n)
-- [Understanding the Differences Between SQL and MySQL](https://dev.to/shubhadip_bhowmik/understanding-the-differences-between-sql-and-mysql-1po0)
+- [Reverse a String in Python in 60 Seconds!](https://dev.to/dipakahirav/reverse-a-string-in-python-in-60-seconds-4lk0)
+- [Javascript&#39;s Single Threaded Nature](https://dev.to/ikbalarslan/javascripts-single-threaded-nature-m33)
+- [WhatsApp for Developers](https://dev.to/kehindedaniels/whatsapp-for-developers-28dg)
+- [AWS announces new edge location in Egypt](https://dev.to/basel5001/aws-announces-new-edge-location-in-egypt-4e78)
+- [My Linux Journey: Top 5 Distros Based on Trial and Error](https://dev.to/christiandale/my-linux-journey-top-5-distros-based-on-trial-and-error-dam)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
