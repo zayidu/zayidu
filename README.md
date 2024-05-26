@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide To Choose A Database For Your Next Design](https://dev.to/isurumax26/guide-to-choose-a-database-for-your-next-design-5cam)
-- [**SOLID PRINCIPLE OF SOFTWARE ENGINEERING**](https://dev.to/hussain101/solid-principle-of-software-engineering-8cf)
-- [How to inject simple dummy data at a large scale in MySQL](https://dev.to/siddhantkcode/how-to-inject-simple-dummy-data-at-a-large-scale-in-mysql-eci)
-- [Share Text Securely with AWS Amplify Gen 2](https://dev.to/henryjw/share-text-securely-with-aws-amplify-gen-2-59c5)
-- [AWS Amplify Fullstack TypeScript Challenge Submission](https://dev.to/davidlewisgardin/aws-amplify-fullstack-typescript-challenge-submission-41fn)
+- [Dependency Injection in PHP simply explained with an example](https://dev.to/vimuth7/dependency-injection-in-php-simply-explained-with-an-example-4fo4)
+- [Passkeys F.A.Q.](https://dev.to/dagnelies/passkeys-faq-8jo)
+- [Captura de erros, operadores relacionais para string e procedures](https://dev.to/alexgarzao/captura-de-erros-operadores-relacionais-para-string-e-procedures-3e46)
+- [Pure HTML with CDN json schema form element has typo](https://dev.to/wsq/pure-html-with-cdn-json-schema-form-element-has-typo-3dal)
+- [Fin Alchemist MVP with AWS Amplify Gen 2](https://dev.to/gokhantamkoc/fin-alchemist-mvp-with-aws-amplify-gen-2-22kc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
