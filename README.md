@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced CSS Grid Layout Techniques](https://dev.to/kartikmehta8/advanced-css-grid-layout-techniques-35o9)
-- [File shares with limited access &lpar;corporate virtual networks&rpar; - Azure Files and Azure Blobs](https://dev.to/olawaleoloye/file-shares-with-limited-access-corporate-virtual-networks-azure-files-and-azure-blobs-4p3p)
-- [Yogify : Your Yoga community builder app](https://dev.to/dailydev/yogify-your-yoga-community-builder-app-jb5)
-- [PHP vs. Node.js: A Full-Stack Developer’s Guide to Choosing the Right Technology](https://dev.to/callumdev1337/php-vs-nodejs-a-full-stack-developers-guide-to-choosing-the-right-technology-25c0)
-- [Good alternatives to Heroku](https://dev.to/diogoviana19/good-alternatives-to-heroku-4ach)
+- [🚀 Exploring Front-End Development with HTML, CSS, and React.js! 🌟](https://dev.to/erasmuskotoka/exploring-front-end-development-with-html-css-and-reactjs-4h7k)
+- [Why I came over to dev.to](https://dev.to/kination/why-i-came-over-to-devto-3kdm)
+- [JavaScript Promises: Explaining then &amp; catch to a 5 year old.](https://dev.to/geny/javascript-promises-explaining-then-catch-to-a-5-year-old-3agc)
+- [Creating my portfolio my way](https://dev.to/thekrmichaels/creating-my-portfolio-my-way-253e)
+- [First post!](https://dev.to/oscarvege/first-post-5574)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
