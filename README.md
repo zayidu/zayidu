@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Join Me on X Now!](https://dev.to/bingecoder89/join-me-on-x-now-3aj7)
-- [[DAY 18-20] I Built A Game &amp; A Calorie Counter In Javascript](https://dev.to/thomascansino/day-18-20-i-built-a-game-a-calorie-counter-in-javascript-32ih)
-- [Number input on Flutter TextFields the RIGHT way!](https://dev.to/gabbygreat/number-input-on-flutter-textfields-the-right-way-4ip0)
-- [Creating GPT Actions with ValTown](https://dev.to/xkonti/creating-gpt-actions-with-valtown-35bp)
-- [Strategies for Optimizing Docker Image Creation and Runtime Container Management](https://dev.to/nevinn/strategies-for-optimizing-docker-image-creation-and-runtime-container-management-j1b)
+- [How to protect your Next.js Routes with reCAPTCHA](https://dev.to/ikoichi/how-to-protect-your-nextjs-routes-with-recaptcha-4p3k)
+- [Debugging Shaders: Mastering Tools and Methods for Effective Shader Debugging](https://dev.to/hayyanstudio/debugging-shaders-mastering-tools-and-methods-for-effective-shader-debugging-3en8)
+- [A Step-by-Step Tutorial on Setting Up Jenkins for Spring Boot Development](https://dev.to/fullstackjava/jenkins-and-spring-boot-a-comprehensive-guide-5f20)
+- [5 WordPress Plugin that You Must Have to Speed up Your Website in 2024](https://dev.to/ajeetraina/5-wordpress-plugin-that-you-must-have-to-speed-up-your-website-in-2024-o7b)
+- [Roadmap to Becoming a Java Backend Developer in 2024](https://dev.to/fullstackjava/roadmap-to-becoming-a-java-backend-developer-in-2024-375)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
