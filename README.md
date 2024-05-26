@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Different Ways to Include External JavaScript in HTML](https://dev.to/imabhinavdev/different-ways-to-include-external-javascript-in-html-34ab)
-- [IPFS &lpar;InterPlanetary File System&rpar; Explained](https://dev.to/kamilrashidev/ipfs-interplanetary-file-system-explained-2kn1)
-- [Making Your GitHub Readme Profile Stand Out](https://dev.to/raielly/making-your-github-readme-profile-stand-out-4m52)
-- [Let&#39;s Talk Cloud Computing](https://dev.to/oliviaoputa_/lets-talk-cloud-computing-5c1c)
-- [Microsoft VS2022 Cascadia Code font](https://dev.to/karenpayneoregon/microsoft-vs2022-cascadia-code-font-2400)
+- [Open document in &quot;Viewing&quot; mode](https://dev.to/rationalkunal/open-document-in-viewing-mode-5ej1)
+- [Rule Changing Poker Game &quot;Balatro&quot; recreated in JavaScript - Behind the Code](https://dev.to/michi/rule-changing-poker-game-balatro-recreated-in-javascript-behind-the-code-42bg)
+- [Understanding Lombok: Simplifying Java Code with Ease](https://dev.to/fullstackjava/understanding-lombok-simplifying-java-code-with-ease-o5i)
+- [Understanding the Scope Chain in JavaScript🚀](https://dev.to/madhurop/understanding-the-scope-chain-in-javascript-4390)
+- [How to migrate DNS records from CloudFlare to AWS Route53 with Terraform&amp;Terragrunt](https://dev.to/yyarmoshyk/how-to-migrate-dns-records-from-cloudflare-to-aws-route53-with-terraformterragrunt-2ebj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
