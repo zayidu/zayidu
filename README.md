@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse a String in Python in 60 Seconds!](https://dev.to/dipakahirav/reverse-a-string-in-python-in-60-seconds-4lk0)
-- [Javascript&#39;s Single Threaded Nature](https://dev.to/ikbalarslan/javascripts-single-threaded-nature-m33)
-- [WhatsApp for Developers](https://dev.to/kehindedaniels/whatsapp-for-developers-28dg)
-- [AWS announces new edge location in Egypt](https://dev.to/basel5001/aws-announces-new-edge-location-in-egypt-4e78)
-- [My Linux Journey: Top 5 Distros Based on Trial and Error](https://dev.to/christiandale/my-linux-journey-top-5-distros-based-on-trial-and-error-dam)
+- [Learning AWS Day by Day — Day 75 — AWS CloudFront](https://dev.to/rksalo88/learning-aws-day-by-day-day-75-aws-cloudfront-4ndp)
+- [Prototyping different storage scenarios for an IT department in Azure Portal.](https://dev.to/tundeiness/prototyping-different-storage-scenarios-for-an-it-department-in-azure-portal-20mg)
+- [Top-Down Shooter Update: Day 2 &lpar;Done: Health &amp; Score&rpar;](https://dev.to/quantumbyte-studios/top-down-shooter-update-day-2-done-health-score-5cmc)
+- [How to deploy a Windows Server in Azure Portal on MacOS](https://dev.to/tundeiness/how-to-deploy-a-windows-server-in-azure-portal-on-macos-4gjc)
+- [Join Me on X Now!](https://dev.to/bingecoder89/join-me-on-x-now-2n6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
