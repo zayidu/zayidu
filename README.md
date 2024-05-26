@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I solve React&#39;s functional component and hooks limitation that cause a lot of troubles/bugs](https://dev.to/bi_khi_647aa6dba9175191/how-i-solve-reacts-functional-component-and-hooks-limitation-that-cause-a-lot-of-troublesbugs-4kj1)
-- [Getting Started with ESLint and Husky in Your Node.js Project](https://dev.to/ajeetraina/getting-started-with-eslint-and-husky-in-your-nodejs-project-2i36)
-- [&quot;sh: next: command not found&quot; in Next.js Development? Here&#39;s the Fix!](https://dev.to/ajeetraina/sh-next-command-not-found-in-nextjs-development-heres-the-fix-1ndb)
-- [Kubernetes Service External IP Stuck on Pending? Here&#39;s How to Fix It](https://dev.to/ajeetraina/kubernetes-service-external-ip-stuck-on-pending-heres-how-to-fix-it-43dh)
-- [Kubernetes and AI: 3 Open Source Tools Powered by OpenAI](https://dev.to/ajeetraina/kubernetes-and-ai-3-open-source-tools-powered-by-openai-5144)
+- [Join Me on X Now!](https://dev.to/bingecoder89/join-me-on-x-now-3aj7)
+- [[DAY 18-20] I Built A Game &amp; A Calorie Counter In Javascript](https://dev.to/thomascansino/day-18-20-i-built-a-game-a-calorie-counter-in-javascript-32ih)
+- [Number input on Flutter TextFields the RIGHT way!](https://dev.to/gabbygreat/number-input-on-flutter-textfields-the-right-way-4ip0)
+- [Creating GPT Actions with ValTown](https://dev.to/xkonti/creating-gpt-actions-with-valtown-35bp)
+- [Strategies for Optimizing Docker Image Creation and Runtime Container Management](https://dev.to/nevinn/strategies-for-optimizing-docker-image-creation-and-runtime-container-management-j1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
