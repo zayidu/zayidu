@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nginx WebServer on Ubuntu OS running via EC2 &lpar;AWS&rpar;](https://dev.to/olawaleoloye/nginx-webserver-on-ubuntu-os-running-via-ec2-aws-1l5g)
-- [I give up on AngularFire](https://dev.to/stephenfluin/i-give-up-on-angularfire-4hof)
-- [Best Hosting Options for Developers in 2024](https://dev.to/sotergreco/best-hosting-options-for-developers-in-2024-3h0b)
-- [Typing env variables on typescript](https://dev.to/wmartzh/typing-env-variables-on-typescript-5ee4)
-- [CodeBehind Framework Tutorial Series has Started](https://dev.to/elanatframework/codebehind-framework-tutorial-series-has-started-k8k)
+- [Advanced CSS Grid Layout Techniques](https://dev.to/kartikmehta8/advanced-css-grid-layout-techniques-35o9)
+- [File shares with limited access &lpar;corporate virtual networks&rpar; - Azure Files and Azure Blobs](https://dev.to/olawaleoloye/file-shares-with-limited-access-corporate-virtual-networks-azure-files-and-azure-blobs-4p3p)
+- [Yogify : Your Yoga community builder app](https://dev.to/dailydev/yogify-your-yoga-community-builder-app-jb5)
+- [PHP vs. Node.js: A Full-Stack Developer’s Guide to Choosing the Right Technology](https://dev.to/callumdev1337/php-vs-nodejs-a-full-stack-developers-guide-to-choosing-the-right-technology-25c0)
+- [Good alternatives to Heroku](https://dev.to/diogoviana19/good-alternatives-to-heroku-4ach)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
