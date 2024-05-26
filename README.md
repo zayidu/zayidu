@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chaotic Schedule v1.1 released!](https://dev.to/skywarth/chaotic-schedule-v11-released-4e2)
-- [WSGI als Python runtime - Django in Produktion Teil 5](https://dev.to/rubenvoss/wsgi-als-python-runtime-django-in-produktion-teil-5-1701)
-- [My experience with preparation and passing the AWS Cloud Practitioner exam](https://dev.to/lyumotech/my-experience-with-preparation-and-passing-the-aws-cloud-practitioner-exam-pn0)
-- [Auction House Hunter &lpar;amplify awschallenge entry&rpar;](https://dev.to/jake_horvath_b58f87019ef1/auction-house-hunter-amplify-awschallenge-entry-4g94)
-- [My first DEV community post](https://dev.to/mihailocv/my-first-dev-community-post-38b6)
+- [Dev: Software](https://dev.to/r4nd3l/dev-software-3bh1)
+- [Dev: Software](https://dev.to/r4nd3l/dev-software-3pmh)
+- [Creating PDF and EPUB eBook from Laravel Documentation using Ibis Next](https://dev.to/robertobutti/creating-pdf-and-epub-ebook-from-laravel-documentation-using-ibis-next-3bgc)
+- [¿Morirá React como jQuery?](https://dev.to/gfouz/morira-react-como-jquery-13bl)
+- [¿Morirá React como jQuery?](https://dev.to/gfouz/morira-react-como-jquery-31ce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
