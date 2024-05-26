@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning AWS Day by Day — Day 75 — AWS CloudFront](https://dev.to/rksalo88/learning-aws-day-by-day-day-75-aws-cloudfront-4ndp)
-- [Prototyping different storage scenarios for an IT department in Azure Portal.](https://dev.to/tundeiness/prototyping-different-storage-scenarios-for-an-it-department-in-azure-portal-20mg)
-- [Top-Down Shooter Update: Day 2 &lpar;Done: Health &amp; Score&rpar;](https://dev.to/quantumbyte-studios/top-down-shooter-update-day-2-done-health-score-5cmc)
-- [How to deploy a Windows Server in Azure Portal on MacOS](https://dev.to/tundeiness/how-to-deploy-a-windows-server-in-azure-portal-on-macos-4gjc)
-- [Join Me on X Now!](https://dev.to/bingecoder89/join-me-on-x-now-2n6m)
+- [552. Student Attendance Record II](https://dev.to/mdarifulhaque/552-student-attendance-record-ii-1n4b)
+- [Introduction to Frida for Reverse Engineering](https://dev.to/phantomthreads/introduction-to-frida-for-reverse-engineering-1gc9)
+- [Learning to Learn: A Tech Girl’s Guide to Staying Ahead](https://dev.to/daisyauma/learning-to-learn-a-tech-girls-guide-to-staying-ahead-30ec)
+- [Managing Machine Learning Projects](https://dev.to/hangry_coder/managing-machine-learning-projects-kfc)
+- [Understanding JS getters and setters](https://dev.to/draczihper/understanding-js-getters-and-setters-436a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
