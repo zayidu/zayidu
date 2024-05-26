@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Build with Mac](https://dev.to/anilxnmdrz/docker-build-with-mac-2j9d)
-- [Understanding JavaScript keyword var, let, const and hoisting.](https://dev.to/sromelrey/understanding-javascript-keyword-var-let-const-and-hoisting-jhh)
-- [Answer: Cannot read properties of undefined &lpar;reading &#39;invalidatesTags&#39;&rpar; [duplicate]](https://dev.to/hossain45/answer-cannot-read-properties-of-undefined-reading-invalidatestags-duplicate-igp)
-- [OpenAI Assistant with NextJS](https://dev.to/nhd2106/openai-assistant-with-nextjs-1c1n)
-- [Why I still struggle with estimates](https://dev.to/adaschevici/why-i-still-struggle-with-estimates-357k)
+- [Different Ways to Include External JavaScript in HTML](https://dev.to/imabhinavdev/different-ways-to-include-external-javascript-in-html-34ab)
+- [IPFS &lpar;InterPlanetary File System&rpar; Explained](https://dev.to/kamilrashidev/ipfs-interplanetary-file-system-explained-2kn1)
+- [Making Your GitHub Readme Profile Stand Out](https://dev.to/raielly/making-your-github-readme-profile-stand-out-4m52)
+- [Let&#39;s Talk Cloud Computing](https://dev.to/oliviaoputa_/lets-talk-cloud-computing-5c1c)
+- [Microsoft VS2022 Cascadia Code font](https://dev.to/karenpayneoregon/microsoft-vs2022-cascadia-code-font-2400)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
