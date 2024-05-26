@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a shopping cart using React, Redux toolkit](https://dev.to/clarenceg01/building-a-shopping-cart-using-react-redux-toolkit-1fd5)
-- [Differences between Public, Private, Protected, and Abstract Modifiers in TypeScript](https://dev.to/doccaio/differences-between-public-private-protected-and-abstract-modifiers-in-typescript-4mgk)
-- [What is Natural Language Processing &lpar;NLP&rpar;?](https://dev.to/gevorg_grigoryan_576e0dc8/what-is-natural-language-processing-nlp-4dnf)
-- [Dynamic Language v.s. Static Language](https://dev.to/ikbalarslan/dynamic-language-vs-static-language-942)
-- [What types of Nginx configuration files exist?](https://dev.to/takahiro_82jp/what-types-of-nginx-configuration-files-exist-3o72)
+- [Running Unit Tests with MongoDB in a Node.js Express Application using Jest](https://dev.to/ndohjapan/running-unit-tests-with-mongodb-in-a-nodejs-express-application-using-jest-42de)
+- [Next.js 15 RC Unveiled: A Close Look at the Framework&#39;s Latest Features](https://dev.to/devmirx/nextjs-15-rc-unveiled-a-close-look-at-the-frameworks-latest-features-4lc1)
+- [Mask multiple lines text in GitHub Actions Workflow](https://dev.to/yuyatakeyama/mask-multiple-lines-text-in-github-actions-workflow-1a0)
+- [Backend cheatsheet suggestions &lpar;Upcoming&rpar;](https://dev.to/kervyntjw/backend-cheatsheet-suggestions-upcoming-4g5n)
+- [Understanding the Differences Between SQL and MySQL](https://dev.to/shubhadip_bhowmik/understanding-the-differences-between-sql-and-mysql-1po0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
