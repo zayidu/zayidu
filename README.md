@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding MongoDB Atlas](https://dev.to/vidyarathna/understanding-mongodb-atlas-i2)
-- [Terraform pipeline &lpar;IaC for AWS&rpar;](https://dev.to/monica_escobar/terraform-pipeline-iac-for-aws-438e)
-- [I Got a Patent Pending part II 🦄🦄 - Why Is Mutual Authentication?](https://dev.to/vitalipom/i-got-a-patent-pending-part-ii-why-is-mutual-authentication-32cf)
-- [** ¡MVP en desarrollo de software: la Pantera Rosa a la conquista del mundo digital! **🐾](https://dev.to/orlidev/-mvp-en-desarrollo-de-software-la-pantera-rosa-a-la-conquista-del-mundo-digital--2h0d)
-- [Marco de Trabajo para la Creación de Agencias de Inteligencia Artificial](https://dev.to/enolcasielles/marco-de-trabajo-para-la-creacion-de-agencias-de-inteligencia-artificial-39e9)
+- [Turbocharge Your Web: Mastering Performance JavaScript.🚀🚀🚀](https://dev.to/dharamgfx/turbocharge-your-web-mastering-performance-javascript-b77)
+- [Unveiling the Magic of Web APIs: An In-Depth Guide🚀](https://dev.to/dharamgfx/unveiling-the-magic-of-web-apis-an-in-depth-guide-4lme)
+- [How I Resolved Prisma Issues and Fixed Vercel 500 INTERNAL_SERVER_ERROR 🚀](https://dev.to/whoisarjen/how-i-resolved-prisma-issues-and-fixed-vercel-500-internalservererror-401j)
+- [SamGIS - Alcuni appunti su Segment Anything](https://dev.to/trincadev/samgis-alcuni-appunti-su-segment-anything-144p)
+- [SamGIS - Some notes about Segment Anything](https://dev.to/trincadev/samgis-some-notes-about-segment-anything-5a3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
