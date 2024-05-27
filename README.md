@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Sunucuları: İnternetin Temel Taşları](https://dev.to/teknikbilimler/web-sunuculari-internetin-temel-taslari-36k9)
-- [Avoiding the pitfalls of Architecture Astronautics](https://dev.to/asvid/avoiding-the-pitfalls-of-architecture-astronautics-5l8)
-- [Unlocking the Power of YOLOv10: Step-by-Step Guide with Real-World Examples](https://dev.to/tarek_eissa/unlocking-the-power-of-yolov10-step-by-step-guide-with-real-world-examples-1lp7)
-- [Recursos para Design com estilo &quot;brasileiro&quot; - de Cordel](https://dev.to/isa56/recursos-para-design-com-estilo-brasileiro-de-cordel-4ldg)
-- [DNS Sunucuları: İnternetin Gizli Kahramanları](https://dev.to/teknikbilimler/dns-sunuculari-internetin-gizli-kahramanlari-ck9)
+- [How to Fix Stuck Ready Event in Discord Embedded App SDK](https://dev.to/waveplay/how-to-fix-stuck-ready-event-in-discord-embedded-app-sdk-h9e)
+- [JOTAI&lpar;GLOBAL STATE MANGEMENT&rpar;](https://dev.to/hussain101/jotaiglobal-state-mangement-2aaa)
+- [¿Qué esta pasando con Gemini AI de Google?](https://dev.to/marianocodes/que-esta-pasando-con-gemini-ai-de-google-h06)
+- [Setup Eslint + Prettier for code standardization in React](https://dev.to/griseduardo/setup-eslint-prettier-for-code-standardization-in-react-112p)
+- [Setup Eslint + Prettier para padronização de código em React](https://dev.to/griseduardo/setup-eslint-prettier-para-padronizacao-de-codigo-em-react-4029)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
