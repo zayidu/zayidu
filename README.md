@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Turbocharge Your Web: Mastering Performance JavaScript.🚀🚀🚀](https://dev.to/dharamgfx/turbocharge-your-web-mastering-performance-javascript-b77)
-- [Unveiling the Magic of Web APIs: An In-Depth Guide🚀](https://dev.to/dharamgfx/unveiling-the-magic-of-web-apis-an-in-depth-guide-4lme)
-- [How I Resolved Prisma Issues and Fixed Vercel 500 INTERNAL_SERVER_ERROR 🚀](https://dev.to/whoisarjen/how-i-resolved-prisma-issues-and-fixed-vercel-500-internalservererror-401j)
-- [SamGIS - Alcuni appunti su Segment Anything](https://dev.to/trincadev/samgis-alcuni-appunti-su-segment-anything-144p)
-- [SamGIS - Some notes about Segment Anything](https://dev.to/trincadev/samgis-some-notes-about-segment-anything-5a3)
+- [How to install Aseprite on Windows 11 &lpar;2024 - Guide&rpar;](https://dev.to/eray_chumak/how-to-install-aseprite-on-windows-11-2024-guide-4ea)
+- [One month after leaving the internet and leaving everyone believing I&#39;m still active.](https://dev.to/isyuricunha/one-month-after-leaving-the-internet-and-leaving-everyone-believing-im-still-active-2leh)
+- [My last goodbye](https://dev.to/isyuricunha/my-last-goodbye-3cjp)
+- [Train Release: Uma abordagem para entrega de apps mobile](https://dev.to/yagoliveira92/train-release-uma-abordagem-para-entrega-de-apps-mobile-j26)
+- [Communication Among Services in Microservices Architecture? Let&#39;s Clear it Out!](https://dev.to/hzahar/communication-among-services-in-microservices-architecture-lets-clear-it-out-14h6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
