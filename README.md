@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Different Looping Techniques in JavaScript 🚀🔄](https://dev.to/amatisse/exploring-different-looping-techniques-in-javascript-3j9n)
-- [Weekly Roundup 054 &lpar;May 20&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-054-may-20-hot-topics-in-workplace-sharepoint-and-powerplatform-jd6)
-- [Title Guessing Game 🎯](https://dev.to/kammarianand/title-guessing-game-4hki)
-- [Add clamped sizes to TailwindCSS](https://dev.to/neophen/add-clamped-sizes-to-tailwindcss-59ac)
-- [Day 43/366](https://dev.to/vishalmx3/day-43366-1jep)
+- [GitHub Basics: Creating Repository and Maintaining It](https://dev.to/swahilipotdevs/github-basics-creating-repository-and-maintaining-it-4i04)
+- [How to Create Storage Account With High Availability On Microsoft Azure.](https://dev.to/olaraph/how-to-create-storage-account-with-high-availability-on-microsoft-azure-42a4)
+- [Unable to verify digital signature with public key and detached payload](https://dev.to/shreya_dalvi_40fd31b69610/unable-to-verify-digital-signature-with-public-key-and-detached-payload-3dh5)
+- [Cybersecurity Basics: Beginner’s Guide](https://dev.to/swahilipotdevs/cybersecurity-basics-beginners-guide-381d)
+- [F# For Dummys - Day 15 Collections Set](https://dev.to/pythonzhu/f-for-dummys-day-15-collections-set-3884)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
