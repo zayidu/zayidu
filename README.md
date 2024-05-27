@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-4l95)
-- [Build a Scalable REST API with TypeScript, Express, Drizzle ORM, and Turso Database: A Step-by-Step Guide](https://dev.to/ibrocodes/build-a-scalable-rest-api-with-typescript-express-drizzle-orm-and-turso-database-a-step-by-step-guide-2hnd)
-- [GRAPHQL](https://dev.to/dariusc16/graphql-38ei)
-- [I made a clicker game in scratch in just 1 hour](https://dev.to/dino2328/i-made-a-clicker-game-in-scratch-in-just-an-hour-27k3)
-- [A CSS-only game playable with keyboard! 🤯 &lpar;No, you are not dreaming&rpar;](https://dev.to/afif/a-css-only-game-playable-with-keyboard-no-you-are-not-dreaming-480n)
+- [Host a Static Website using Amazon S3 and Serve it Through Amazon CloudFront.](https://dev.to/chigozieco/host-a-static-website-using-amazon-s3-and-serve-it-through-amazon-cloudfront-3om8)
+- [My suitable posts](https://dev.to/hieupham259/my-suitable-posts-5d1i)
+- [Configuring the CodeBehind Framework in the ASP.NET Core Project](https://dev.to/elanatframework/configuring-the-codebehind-framework-in-the-aspnet-core-project-4a0p)
+- [Install Apache Web Server in Ubuntu AWS EC2 Instance](https://dev.to/suravshrestha/install-apache-web-server-in-ubuntu-aws-ec2-instance-5fgf)
+- [Steps To Create A Simple Web Driver Script](https://dev.to/akshara_chandran_0f2b21d7/steps-to-create-a-simple-web-driver-script-30k8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
