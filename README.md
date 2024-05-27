@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Provide storage for the public website](https://dev.to/opsyog/provide-storage-for-the-public-website-2e3p)
-- [Zabbix ile Prometheus Metrik Formatında Kafka İzleme](https://dev.to/aciklab/zabbix-ile-prometheus-metrik-formatinda-kafka-izleme-3knk)
-- [Blog App using AWS Amplify, Angular](https://dev.to/vuchuru27916/blog-app-using-aws-amplify-angular-3dd3)
-- [Recruitify - Where Talent Meets Opportunity](https://dev.to/thegeekyamit/recruitify-where-talent-meets-opportunity-1185)
-- [Perl Weekly #670 - Conference Season ...](https://dev.to/szabgab/perl-weekly-670-conference-season--2c9a)
+- [How to Use DbVisualizer for Oracle Database Links](https://dev.to/dbvismarketing/how-to-use-dbvisualizer-for-oracle-database-links-467g)
+- [Where MonDev tools comes from](https://dev.to/giuliano1993/where-mondev-tools-comes-from-57ni)
+- [Build Nuxt authentication with Logto](https://dev.to/logto/build-nuxt-authentication-with-logto-5g9h)
+- [Hacked by a Power Automate Trojan Virus](https://dev.to/wyattdave/hacked-by-a-power-automate-trojan-virus-15kc)
+- [News posting website with AWS Amplify](https://dev.to/lizardkinglk/news-posting-website-with-aws-amplify-2oi8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
