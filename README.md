@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Stuck Ready Event in Discord Embedded App SDK](https://dev.to/waveplay/how-to-fix-stuck-ready-event-in-discord-embedded-app-sdk-h9e)
-- [JOTAI&lpar;GLOBAL STATE MANGEMENT&rpar;](https://dev.to/hussain101/jotaiglobal-state-mangement-2aaa)
-- [¿Qué esta pasando con Gemini AI de Google?](https://dev.to/marianocodes/que-esta-pasando-con-gemini-ai-de-google-h06)
-- [Setup Eslint + Prettier for code standardization in React](https://dev.to/griseduardo/setup-eslint-prettier-for-code-standardization-in-react-112p)
-- [Setup Eslint + Prettier para padronização de código em React](https://dev.to/griseduardo/setup-eslint-prettier-para-padronizacao-de-codigo-em-react-4029)
+- [64-Bit Assembly Language Lab 3 part-3](https://dev.to/yuktimulani/64-bit-assembly-language-lab-3-part-3-3ipi)
+- [Showcase Your GitHub Profile: Contribute to the &quot;Cool GitHub Profile README&quot; Repository!](https://dev.to/nikhilshukla/showcase-your-github-profile-contribute-to-the-cool-github-profile-readme-repository-4c1p)
+- [JavaScript&#39;s Gotchas, also known as &quot;WTF JS](https://dev.to/falselight/javascripts-gotchas-also-known-as-wtf-js-obf)
+- [help with apps script](https://dev.to/emily_tischer_bf4f731fb26/help-with-apps-script-4180)
+- [Structural-Based Testing: A Simple Guide](https://dev.to/tiuwill/structural-based-testing-a-simple-guide-5035)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
