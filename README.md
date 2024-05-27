@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to install Aseprite on Windows 11 &lpar;2024 - Guide&rpar;](https://dev.to/eray_chumak/how-to-install-aseprite-on-windows-11-2024-guide-4ea)
-- [One month after leaving the internet and leaving everyone believing I&#39;m still active.](https://dev.to/isyuricunha/one-month-after-leaving-the-internet-and-leaving-everyone-believing-im-still-active-2leh)
-- [My last goodbye](https://dev.to/isyuricunha/my-last-goodbye-3cjp)
-- [Train Release: Uma abordagem para entrega de apps mobile](https://dev.to/yagoliveira92/train-release-uma-abordagem-para-entrega-de-apps-mobile-j26)
-- [Communication Among Services in Microservices Architecture? Let&#39;s Clear it Out!](https://dev.to/hzahar/communication-among-services-in-microservices-architecture-lets-clear-it-out-14h6)
+- [Web Sunucuları: İnternetin Temel Taşları](https://dev.to/teknikbilimler/web-sunuculari-internetin-temel-taslari-36k9)
+- [Avoiding the pitfalls of Architecture Astronautics](https://dev.to/asvid/avoiding-the-pitfalls-of-architecture-astronautics-5l8)
+- [Unlocking the Power of YOLOv10: Step-by-Step Guide with Real-World Examples](https://dev.to/tarek_eissa/unlocking-the-power-of-yolov10-step-by-step-guide-with-real-world-examples-1lp7)
+- [Recursos para Design com estilo &quot;brasileiro&quot; - de Cordel](https://dev.to/isa56/recursos-para-design-com-estilo-brasileiro-de-cordel-4ldg)
+- [DNS Sunucuları: İnternetin Gizli Kahramanları](https://dev.to/teknikbilimler/dns-sunuculari-internetin-gizli-kahramanlari-ck9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
