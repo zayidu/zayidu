@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding WP-Cron: The Essential Guide](https://dev.to/mikevarenek/understanding-wp-cron-the-essential-guide-3mn7)
-- [Explaining the Concept of the State Pattern in Flutter](https://dev.to/anurika_joy_c83cb5039b071/explaining-the-concept-of-the-state-pattern-in-flutter-4ool)
-- [How To Build a Data Analytics Dashboard](https://dev.to/domfive/how-to-build-a-data-analytics-dashboard-5805)
-- [Online Journal](https://dev.to/imkarthikeyan/online-journal-2icm)
-- [Exploring 64 Bit Asseembly lanaguage](https://dev.to/yuktimulani/exploring-64-bit-asseembly-lanaguage-4fin)
+- [Introduction to Time Series Analysis with Python](https://dev.to/kartikmehta8/introduction-to-time-series-analysis-with-python-15o1)
+- [Say Goodbye to Flaky Rendering &amp; Animation Issues](https://dev.to/anurika_joy_c83cb5039b071/say-goodbye-to-flaky-rendering-animation-issues-h0)
+- [[Game of Purpose] Day 8](https://dev.to/humberd/game-of-purpose-day-8-3bab)
+- [10 Key Data Structures We Use Every Day](https://dev.to/emmauche001/10-key-data-structures-we-use-every-day-2l42)
+- [FileSyncDrive](https://dev.to/godwinagedah/filesyncdrive-3adf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
