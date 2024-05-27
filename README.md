@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Manage IAM Access Analyzer in AWS Organizations Using Terraform](https://dev.to/aws-builders/how-to-manage-iam-access-analyzer-in-aws-organizations-using-terraform-34fi)
-- [7 Reasons, Why You Should Learn the Power Platform.](https://dev.to/primado/7-reasons-why-you-should-learn-the-power-platform-39io)
-- [Interactive Loading Animation with CSS](https://dev.to/alikhanzada577/interactive-loading-animation-with-css-26fm)
-- [How to Use GitHub Actions to Display Dev.to Blog Posts on Your README.md](https://dev.to/arafatweb/how-to-use-github-actions-to-display-devto-blog-posts-on-your-readmemd-362f)
-- [30 Days of JavaScript - Day 1](https://dev.to/lmscunha/30-days-of-javascript-day-1-2kcm)
+- [Integrating Atlantis with OpenTofu.](https://dev.to/jmateusousa/integrating-atlantis-with-opentofu-lnd)
+- [Introducing LibVLCSharp for MAUI](https://dev.to/mfkl/introducing-libvlcsharp-for-maui-naj)
+- [Learning AWS Day by Day — Day 76 — AWS Backup](https://dev.to/rksalo88/learning-aws-day-by-day-day-76-aws-backup-4oop)
+- [C# Excel read/write on the cheap](https://dev.to/karenpayneoregon/c-excel-readwrite-on-the-cheap-36km)
+- [AWS Solution Architect Associate Exam: Experiencia y Recomendaciones](https://dev.to/madriz03/aws-solution-architect-associate-exam-experiencia-y-recomendaciones-1jp5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
