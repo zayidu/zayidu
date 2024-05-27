@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Disable Dualsence touchpad on Ubuntu](https://dev.to/gordinmitya/disable-dualsence-touchpad-on-ubuntu-2j2i)
-- [Getting Started with VSCode: A Beginner&#39;s Guide](https://dev.to/umeshtharukaofficial/getting-started-with-vscode-a-beginners-guide-2mic)
-- [PHP Interfaces and Their Usage with Dependency Injection](https://dev.to/vimuth7/php-interfaces-and-their-usage-with-dependency-injection-18cl)
-- [How to create a linux VM on Azure &lpar;using PowerShell and install ‘NGINX’ Engine&rpar;](https://dev.to/busybrain/how-to-create-a-linux-vm-on-azure-using-powershell-and-install-nginx-engine-3d27)
-- [What is AKS Cluster](https://dev.to/abhiram_cdx/what-is-aks-cluster-45ec)
+- [O que é strict mode no JavaScript?](https://dev.to/cristuker/o-que-e-strict-mode-no-javascript-16cb)
+- [Terraform Destroy Command: A Guide to Controlled Infrastructure Removal](https://dev.to/env0/terraform-destroy-command-a-guide-to-controlled-infrastructure-removal-4af8)
+- [VTable usage issue: How to make the table automatically calculate column width based only on the table header](https://dev.to/rayssss/vtable-usage-issue-how-to-make-the-table-automatically-calculate-column-width-based-only-on-the-table-header-1e4p)
+- [Next.js: Unleashing the Power of Performance and SEO for Web Development](https://dev.to/kharkizi/nextjs-unleashing-the-power-of-performance-and-seo-for-web-development-2go)
+- [How I Replaced Gaming with Coding and Became a Web Developer](https://dev.to/proflead/how-i-replaced-gaming-with-coding-and-became-a-web-developer-18bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
