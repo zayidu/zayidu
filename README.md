@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Atlantis with OpenTofu.](https://dev.to/jmateusousa/integrating-atlantis-with-opentofu-lnd)
-- [Introducing LibVLCSharp for MAUI](https://dev.to/mfkl/introducing-libvlcsharp-for-maui-naj)
-- [Learning AWS Day by Day — Day 76 — AWS Backup](https://dev.to/rksalo88/learning-aws-day-by-day-day-76-aws-backup-4oop)
-- [C# Excel read/write on the cheap](https://dev.to/karenpayneoregon/c-excel-readwrite-on-the-cheap-36km)
-- [AWS Solution Architect Associate Exam: Experiencia y Recomendaciones](https://dev.to/madriz03/aws-solution-architect-associate-exam-experiencia-y-recomendaciones-1jp5)
+- [Understanding MongoDB Atlas](https://dev.to/vidyarathna/understanding-mongodb-atlas-i2)
+- [Terraform pipeline &lpar;IaC for AWS&rpar;](https://dev.to/monica_escobar/terraform-pipeline-iac-for-aws-438e)
+- [I Got a Patent Pending part II 🦄🦄 - Why Is Mutual Authentication?](https://dev.to/vitalipom/i-got-a-patent-pending-part-ii-why-is-mutual-authentication-32cf)
+- [** ¡MVP en desarrollo de software: la Pantera Rosa a la conquista del mundo digital! **🐾](https://dev.to/orlidev/-mvp-en-desarrollo-de-software-la-pantera-rosa-a-la-conquista-del-mundo-digital--2h0d)
+- [Marco de Trabajo para la Creación de Agencias de Inteligencia Artificial](https://dev.to/enolcasielles/marco-de-trabajo-para-la-creacion-de-agencias-de-inteligencia-artificial-39e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
