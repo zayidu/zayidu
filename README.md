@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A PAGE TALKS ABOUT &lpar;WCAG — Framework View&rpar;](https://dev.to/rewirebyautomation/a-page-talks-about-wcag-framework-view-53b2)
-- [The Essential Zsh Config for Beginners](https://dev.to/hackman78/the-essential-zsh-config-for-beginners-o40)
-- [Introduction to k6 Load Chaos in LitmusChaos](https://dev.to/litmus-chaos/introduction-to-k6-load-chaos-in-litmuschaos-4l2k)
-- [VideoShift](https://dev.to/kartikjoshiuk/videoshift-g0f)
-- [Provide shared file storage for the company offices.](https://dev.to/opsyog/provide-shared-file-storage-for-the-company-offices-12k)
+- [Why I Chose Vite.js for My React Projects](https://dev.to/guillaumeduhan/why-i-chose-vitejs-for-my-react-projects-p43)
+- [National Identity-focused Social Platform](https://dev.to/floratobydev/national-identity-focused-social-platform-150o)
+- [Provide storage for the IT department testing and training](https://dev.to/opsyog/provide-storage-for-the-it-department-testing-and-training-caj)
+- [Reimagining Design Elements for the Future](https://dev.to/pepper_square/reimagining-design-elements-for-the-future-2cm1)
+- [Switching to Vite from React-Scripts](https://dev.to/liaob/switching-to-vite-from-react-scripts-2bln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
