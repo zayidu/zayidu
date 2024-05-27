@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [A PAGE TALKS ABOUT &lpar;WCAG — Framework View&rpar;](https://dev.to/rewirebyautomation/a-page-talks-about-wcag-framework-view-53b2)
+- [The Essential Zsh Config for Beginners](https://dev.to/hackman78/the-essential-zsh-config-for-beginners-o40)
+- [Introduction to k6 Load Chaos in LitmusChaos](https://dev.to/litmus-chaos/introduction-to-k6-load-chaos-in-litmuschaos-4l2k)
+- [VideoShift](https://dev.to/kartikjoshiuk/videoshift-g0f)
 - [Provide shared file storage for the company offices.](https://dev.to/opsyog/provide-shared-file-storage-for-the-company-offices-12k)
-- [Implement React v18 from Scratch Using WASM and Rust - [14] Implement Scheduler](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-14-implement-scheduler-dm2)
-- [Fix &quot;The permission &#39;KILL DATABASE CONNECTION&#39; is not supported in this version of SQL Server&quot; while importing a D365FO .bacpac](https://dev.to/edoardu/fix-the-permission-kill-database-connection-is-not-supported-in-this-version-of-sql-server-while-importing-a-d365fo-bacpac-4k81)
-- [How to Deploy a Django Full-stack Application over Kubernetes](https://dev.to/devtron_/how-to-deploy-a-django-full-stack-application-over-kubernetes-1h5p)
-- [Bread in a Jar](https://dev.to/firebaseme/bread-in-a-jar-3nah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
