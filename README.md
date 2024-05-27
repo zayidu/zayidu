@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [O que é strict mode no JavaScript?](https://dev.to/cristuker/o-que-e-strict-mode-no-javascript-16cb)
-- [Terraform Destroy Command: A Guide to Controlled Infrastructure Removal](https://dev.to/env0/terraform-destroy-command-a-guide-to-controlled-infrastructure-removal-4af8)
-- [VTable usage issue: How to make the table automatically calculate column width based only on the table header](https://dev.to/rayssss/vtable-usage-issue-how-to-make-the-table-automatically-calculate-column-width-based-only-on-the-table-header-1e4p)
-- [Next.js: Unleashing the Power of Performance and SEO for Web Development](https://dev.to/kharkizi/nextjs-unleashing-the-power-of-performance-and-seo-for-web-development-2go)
-- [How I Replaced Gaming with Coding and Became a Web Developer](https://dev.to/proflead/how-i-replaced-gaming-with-coding-and-became-a-web-developer-18bf)
+- [Meme Monday](https://dev.to/ben/meme-monday-4l95)
+- [Build a Scalable REST API with TypeScript, Express, Drizzle ORM, and Turso Database: A Step-by-Step Guide](https://dev.to/ibrocodes/build-a-scalable-rest-api-with-typescript-express-drizzle-orm-and-turso-database-a-step-by-step-guide-2hnd)
+- [GRAPHQL](https://dev.to/dariusc16/graphql-38ei)
+- [I made a clicker game in scratch in just 1 hour](https://dev.to/dino2328/i-made-a-clicker-game-in-scratch-in-just-an-hour-27k3)
+- [A CSS-only game playable with keyboard! 🤯 &lpar;No, you are not dreaming&rpar;](https://dev.to/afif/a-css-only-game-playable-with-keyboard-no-you-are-not-dreaming-480n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
