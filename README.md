@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are The Uses of JavaScript](https://dev.to/thekarlesi/what-are-the-uses-of-javascript-32io)
-- [HTML may be adding a native switch attribute to checkbox inputs!](https://dev.to/rphilippe2/html-may-be-adding-a-native-switch-attribute-to-checkbox-inputs-42db)
-- [Usando a IA do Google SafeSearch em um cenário real](https://dev.to/fillipedornelas/usando-a-ia-do-google-safesearch-em-um-cenario-real-2fii)
-- [What&#39;s the method to hook into the side panel to add panels in the settings group?](https://dev.to/kirk_wallace/whats-the-method-to-hook-into-the-side-panel-to-add-panels-in-the-settings-group-2oca)
-- [Issue with User Role-Based Authorization in ASP.NET Core 5 REST API using JWT](https://dev.to/mcdvoiceforyou/issue-with-user-role-based-authorization-in-aspnet-core-5-rest-api-using-jwt-3hj6)
+- [Provide shared file storage for the company offices.](https://dev.to/opsyog/provide-shared-file-storage-for-the-company-offices-12k)
+- [Implement React v18 from Scratch Using WASM and Rust - [14] Implement Scheduler](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-14-implement-scheduler-dm2)
+- [Fix &quot;The permission &#39;KILL DATABASE CONNECTION&#39; is not supported in this version of SQL Server&quot; while importing a D365FO .bacpac](https://dev.to/edoardu/fix-the-permission-kill-database-connection-is-not-supported-in-this-version-of-sql-server-while-importing-a-d365fo-bacpac-4k81)
+- [How to Deploy a Django Full-stack Application over Kubernetes](https://dev.to/devtron_/how-to-deploy-a-django-full-stack-application-over-kubernetes-1h5p)
+- [Bread in a Jar](https://dev.to/firebaseme/bread-in-a-jar-3nah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
