@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use loading state in React with Mantine](https://dev.to/aaronnfs/how-to-use-loading-state-in-react-with-mantine-3dnd)
-- [What can we learn from Bootstrap CSS](https://dev.to/paras594/what-can-we-learn-from-bootstrap-css-42ll)
-- [What is AI in Cybersecurity?](https://dev.to/whotarusharora/what-is-ai-in-cybersecurity-5ali)
-- [Ace Your Interviews with this ONE Technique!](https://dev.to/magi-magificient/ace-your-interviews-with-this-one-technique-1lh5)
-- [Enhancing Security for Sign-In with Ethereum: Phishing and Replay Attacks](https://dev.to/shahbaz17/enhancing-security-for-sign-in-with-ethereum-phishing-and-replay-attacks-2fe3)
+- [How to Install Ngrok in Termux: A Step-by-Step Guide](https://dev.to/fazilchengapra/how-to-install-ngrok-in-termux-a-step-by-step-guide-4dnk)
+- [Easily Understanding Lifecycles in Programming](https://dev.to/claudye/easily-understanding-lifecycles-in-programming-3k6m)
+- [Elasticsearch Fundamentals](https://dev.to/chaira/elasticsearch-fundamentals-151j)
+- [The Power of Typescript Satisfied Operator in Less than 2 Minutes](https://dev.to/whoisarjen/the-power-of-typescript-satisfied-operator-in-less-than-2-minutes-208a)
+- [How to Build a Simple Web App with Angular](https://dev.to/ulyana_mykhailiv_82896052/how-to-build-a-simple-web-app-with-angular-2jcn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
