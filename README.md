@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Basics: Creating Repository and Maintaining It](https://dev.to/swahilipotdevs/github-basics-creating-repository-and-maintaining-it-4i04)
-- [How to Create Storage Account With High Availability On Microsoft Azure.](https://dev.to/olaraph/how-to-create-storage-account-with-high-availability-on-microsoft-azure-42a4)
-- [Unable to verify digital signature with public key and detached payload](https://dev.to/shreya_dalvi_40fd31b69610/unable-to-verify-digital-signature-with-public-key-and-detached-payload-3dh5)
-- [Cybersecurity Basics: Beginner’s Guide](https://dev.to/swahilipotdevs/cybersecurity-basics-beginners-guide-381d)
-- [F# For Dummys - Day 15 Collections Set](https://dev.to/pythonzhu/f-for-dummys-day-15-collections-set-3884)
+- [How to Use loading state in React with Mantine](https://dev.to/aaronnfs/how-to-use-loading-state-in-react-with-mantine-3dnd)
+- [What can we learn from Bootstrap CSS](https://dev.to/paras594/what-can-we-learn-from-bootstrap-css-42ll)
+- [What is AI in Cybersecurity?](https://dev.to/whotarusharora/what-is-ai-in-cybersecurity-5ali)
+- [Ace Your Interviews with this ONE Technique!](https://dev.to/magi-magificient/ace-your-interviews-with-this-one-technique-1lh5)
+- [Enhancing Security for Sign-In with Ethereum: Phishing and Replay Attacks](https://dev.to/shahbaz17/enhancing-security-for-sign-in-with-ethereum-phishing-and-replay-attacks-2fe3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
