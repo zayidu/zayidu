@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Host a Static Website using Amazon S3 and Serve it Through Amazon CloudFront.](https://dev.to/chigozieco/host-a-static-website-using-amazon-s3-and-serve-it-through-amazon-cloudfront-3om8)
-- [My suitable posts](https://dev.to/hieupham259/my-suitable-posts-5d1i)
-- [Configuring the CodeBehind Framework in the ASP.NET Core Project](https://dev.to/elanatframework/configuring-the-codebehind-framework-in-the-aspnet-core-project-4a0p)
-- [Install Apache Web Server in Ubuntu AWS EC2 Instance](https://dev.to/suravshrestha/install-apache-web-server-in-ubuntu-aws-ec2-instance-5fgf)
-- [Steps To Create A Simple Web Driver Script](https://dev.to/akshara_chandran_0f2b21d7/steps-to-create-a-simple-web-driver-script-30k8)
+- [How To Manage IAM Access Analyzer in AWS Organizations Using Terraform](https://dev.to/aws-builders/how-to-manage-iam-access-analyzer-in-aws-organizations-using-terraform-34fi)
+- [7 Reasons, Why You Should Learn the Power Platform.](https://dev.to/primado/7-reasons-why-you-should-learn-the-power-platform-39io)
+- [Interactive Loading Animation with CSS](https://dev.to/alikhanzada577/interactive-loading-animation-with-css-26fm)
+- [How to Use GitHub Actions to Display Dev.to Blog Posts on Your README.md](https://dev.to/arafatweb/how-to-use-github-actions-to-display-devto-blog-posts-on-your-readmemd-362f)
+- [30 Days of JavaScript - Day 1](https://dev.to/lmscunha/30-days-of-javascript-day-1-2kcm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
