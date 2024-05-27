@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Time Series Analysis with Python](https://dev.to/kartikmehta8/introduction-to-time-series-analysis-with-python-15o1)
-- [Say Goodbye to Flaky Rendering &amp; Animation Issues](https://dev.to/anurika_joy_c83cb5039b071/say-goodbye-to-flaky-rendering-animation-issues-h0)
-- [[Game of Purpose] Day 8](https://dev.to/humberd/game-of-purpose-day-8-3bab)
-- [10 Key Data Structures We Use Every Day](https://dev.to/emmauche001/10-key-data-structures-we-use-every-day-2l42)
-- [FileSyncDrive](https://dev.to/godwinagedah/filesyncdrive-3adf)
+- [How to provide private storage for internal company documents.](https://dev.to/opsyog/how-to-provide-private-storage-for-internal-company-documents-4077)
+- [Community Central - AWS Amplify](https://dev.to/kushagra102/community-central-aws-amplify-1en3)
+- [ChatGPT and how it is a great learning tool](https://dev.to/slydragonn/chatgpt-and-how-it-is-a-great-learning-tool-1pk2)
+- [Enhancing AWS VPC Security: Accessing Your Network with a Private Jumpbox using Tailscale](https://dev.to/tevindeale/enhancing-aws-vpc-security-accessing-your-network-with-a-private-jumpbox-using-tailscale-1k83)
+- [Dev na Gringa: Processos Seletivos e Onde Estudar Para Eles](https://dev.to/lucasheriques/dev-na-gringa-processos-seletivos-e-onde-estudar-para-eles-b9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
