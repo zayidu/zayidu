@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use DbVisualizer for Oracle Database Links](https://dev.to/dbvismarketing/how-to-use-dbvisualizer-for-oracle-database-links-467g)
-- [Where MonDev tools comes from](https://dev.to/giuliano1993/where-mondev-tools-comes-from-57ni)
-- [Build Nuxt authentication with Logto](https://dev.to/logto/build-nuxt-authentication-with-logto-5g9h)
-- [Hacked by a Power Automate Trojan Virus](https://dev.to/wyattdave/hacked-by-a-power-automate-trojan-virus-15kc)
-- [News posting website with AWS Amplify](https://dev.to/lizardkinglk/news-posting-website-with-aws-amplify-2oi8)
+- [Exploring Different Looping Techniques in JavaScript 🚀🔄](https://dev.to/amatisse/exploring-different-looping-techniques-in-javascript-3j9n)
+- [Weekly Roundup 054 &lpar;May 20&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://dev.to/jaloplo/weekly-roundup-054-may-20-hot-topics-in-workplace-sharepoint-and-powerplatform-jd6)
+- [Title Guessing Game 🎯](https://dev.to/kammarianand/title-guessing-game-4hki)
+- [Add clamped sizes to TailwindCSS](https://dev.to/neophen/add-clamped-sizes-to-tailwindcss-59ac)
+- [Day 43/366](https://dev.to/vishalmx3/day-43366-1jep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
