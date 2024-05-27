@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to provide private storage for internal company documents.](https://dev.to/opsyog/how-to-provide-private-storage-for-internal-company-documents-4077)
-- [Community Central - AWS Amplify](https://dev.to/kushagra102/community-central-aws-amplify-1en3)
-- [ChatGPT and how it is a great learning tool](https://dev.to/slydragonn/chatgpt-and-how-it-is-a-great-learning-tool-1pk2)
-- [Enhancing AWS VPC Security: Accessing Your Network with a Private Jumpbox using Tailscale](https://dev.to/tevindeale/enhancing-aws-vpc-security-accessing-your-network-with-a-private-jumpbox-using-tailscale-1k83)
-- [Dev na Gringa: Processos Seletivos e Onde Estudar Para Eles](https://dev.to/lucasheriques/dev-na-gringa-processos-seletivos-e-onde-estudar-para-eles-b9f)
+- [What Are The Uses of JavaScript](https://dev.to/thekarlesi/what-are-the-uses-of-javascript-32io)
+- [HTML may be adding a native switch attribute to checkbox inputs!](https://dev.to/rphilippe2/html-may-be-adding-a-native-switch-attribute-to-checkbox-inputs-42db)
+- [Usando a IA do Google SafeSearch em um cenário real](https://dev.to/fillipedornelas/usando-a-ia-do-google-safesearch-em-um-cenario-real-2fii)
+- [What&#39;s the method to hook into the side panel to add panels in the settings group?](https://dev.to/kirk_wallace/whats-the-method-to-hook-into-the-side-panel-to-add-panels-in-the-settings-group-2oca)
+- [Issue with User Role-Based Authorization in ASP.NET Core 5 REST API using JWT](https://dev.to/mcdvoiceforyou/issue-with-user-role-based-authorization-in-aspnet-core-5-rest-api-using-jwt-3hj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
