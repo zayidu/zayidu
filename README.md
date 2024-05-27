@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Chose Vite.js for My React Projects](https://dev.to/guillaumeduhan/why-i-chose-vitejs-for-my-react-projects-p43)
-- [National Identity-focused Social Platform](https://dev.to/floratobydev/national-identity-focused-social-platform-150o)
-- [Provide storage for the IT department testing and training](https://dev.to/opsyog/provide-storage-for-the-it-department-testing-and-training-caj)
-- [Reimagining Design Elements for the Future](https://dev.to/pepper_square/reimagining-design-elements-for-the-future-2cm1)
-- [Switching to Vite from React-Scripts](https://dev.to/liaob/switching-to-vite-from-react-scripts-2bln)
+- [Provide storage for the public website](https://dev.to/opsyog/provide-storage-for-the-public-website-2e3p)
+- [Zabbix ile Prometheus Metrik Formatında Kafka İzleme](https://dev.to/aciklab/zabbix-ile-prometheus-metrik-formatinda-kafka-izleme-3knk)
+- [Blog App using AWS Amplify, Angular](https://dev.to/vuchuru27916/blog-app-using-aws-amplify-angular-3dd3)
+- [Recruitify - Where Talent Meets Opportunity](https://dev.to/thegeekyamit/recruitify-where-talent-meets-opportunity-1185)
+- [Perl Weekly #670 - Conference Season ...](https://dev.to/szabgab/perl-weekly-670-conference-season--2c9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
