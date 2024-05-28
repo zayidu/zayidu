@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Java Application Development for Businesses?](https://dev.to/justinsaran/what-is-java-application-development-for-businesses-1ej2)
-- [Liman MYS - Cihaz Yönetimi -Windows Miço Ajan Defender Problem Çözümü](https://dev.to/aciklab/liman-mys-cihaz-yonetimi-windows-mico-ajan-defender-problem-cozumu-2ppn)
-- [Liman MYS - Cihaz Yönetimi - Windows RDP Erişim Problemi ve Çözümü](https://dev.to/aciklab/liman-mys-cihaz-yonetimi-windows-rdp-erisim-problemi-ve-cozumu-1j9d)
-- [Windows Üzerinde Miço Ajan Kurulumu](https://dev.to/aciklab/windows-uzerinde-mico-ajan-kurulumu-417c)
-- [Best Way To Write Frontend Components](https://dev.to/sotergreco/best-way-to-write-frontend-components-4a2l)
+- [System Design: Crafting Scalable and Robust Architectures](https://dev.to/plemonsbrett/system-design-crafting-scalable-and-robust-architectures-amo)
+- [Open Source And The Tragedy Of The Commons](https://dev.to/opensourceadvocate/open-source-and-the-tragedy-of-the-commons-boe)
+- [Issue with Mongoose Database Switching Middleware in Express.js](https://dev.to/jalish_chauhan/issue-with-mongoose-database-switching-middleware-in-expressjs-1mf3)
+- [Alternatives to Makefiles written in Go](https://dev.to/eminetto/alternatives-to-makefiles-written-in-go-dig)
+- [The Importance of Regular .NET Framework Upgrades and How to Mitigate Associated Risks](https://dev.to/shahabfar/the-importance-of-regular-net-framework-upgrades-and-how-to-mitigate-associated-risks-50e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
