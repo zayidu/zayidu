@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [RAID Nedir? Nerelerde Kullanılır?](https://dev.to/teknikbilimler/raid-nedir-nerelerde-kullanilir-4okl)
+- [Yangi escape ketma-ketligi \e](https://dev.to/farkhadk/yangi-escape-ketma-ketligi-e-4apg)
+- [🌟 Components and Props in React.js 🌟](https://dev.to/erasmuskotoka/components-and-props-in-reactjs-3g1e)
 - [Guía Completa sobre Pruebas Unitarias en Angular 16](https://dev.to/nerm_frontend/guia-completa-sobre-pruebas-unitarias-en-angular-16-4djl)
 - [Quantum Convolutional Neural Networks](https://dev.to/zachbenson/quantum-convolutional-neural-networks-clm)
-- [VTable usage issue: How to add column total information to the list](https://dev.to/rayssss/vtable-usage-issue-how-to-add-column-total-information-to-the-list-p1m)
-- [How to deploy your own website on AWS](https://dev.to/rolfstreefkerk/how-to-deploy-your-own-website-on-aws-1l05)
-- [Creating a Custom Log Generator Helper Class in Python](https://dev.to/learn_with_santosh/creating-a-custom-log-generator-helper-class-in-python-40fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
