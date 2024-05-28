@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamline Development with Effective API Mocking](https://dev.to/getambassador2024/streamline-development-with-effective-api-mocking-3ji8)
-- [Rejeição de teste fechado do Google ~Você precisa pensar em como conseguir testadores~](https://dev.to/zmsoft/rejeicao-de-teste-fechado-do-google-voce-precisa-pensar-em-como-conseguir-testadores-5bk8)
-- [What is Low Code Test Automation?](https://dev.to/abhayit2000/what-is-low-code-test-automation-47pj)
-- [Zed Editor - My honest opinion](https://dev.to/fadhilsaheer/zed-editor-my-honest-opinion-3818)
-- [ML Intro : IRIS DATASET](https://dev.to/kammarianand/ml-intro-iris-dataset-4e13)
+- [Uncontrolled vs Controlled React Components](https://dev.to/shehzadhussain/uncontrolled-vs-controlled-react-components-4295)
+- [Game Development Diary #8 : Still Second Course](https://dev.to/hizrawandwioka/game-development-diary-8-still-second-course-5g85)
+- [Creating Line Plots with Object-Oriented API and Subplot Function in Python](https://dev.to/lohith0512/creating-line-plots-with-object-oriented-api-and-subplot-function-in-python-4nel)
+- [Top 10 Code Review Tools for Developers](https://dev.to/hyscaler/top-10-code-review-tools-for-developers-26o4)
+- [Writing High Quality Tests to Foster Abstractions to Evolve](https://dev.to/mohsenbazmi/writing-high-quality-tests-to-foster-abstractions-to-evolve-4b2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
