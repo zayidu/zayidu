@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [64-Bit Assembly Language Lab 3 part-3](https://dev.to/yuktimulani/64-bit-assembly-language-lab-3-part-3-3ipi)
-- [Showcase Your GitHub Profile: Contribute to the &quot;Cool GitHub Profile README&quot; Repository!](https://dev.to/nikhilshukla/showcase-your-github-profile-contribute-to-the-cool-github-profile-readme-repository-4c1p)
-- [JavaScript&#39;s Gotchas, also known as &quot;WTF JS](https://dev.to/falselight/javascripts-gotchas-also-known-as-wtf-js-obf)
-- [help with apps script](https://dev.to/emily_tischer_bf4f731fb26/help-with-apps-script-4180)
-- [Structural-Based Testing: A Simple Guide](https://dev.to/tiuwill/structural-based-testing-a-simple-guide-5035)
+- [Building a Multiplayer Game Server with Node.js](https://dev.to/kartikmehta8/building-a-multiplayer-game-server-with-nodejs-68g)
+- [Django: Sample data](https://dev.to/samuellubliner/django-sample-data-ng2)
+- [Simplify React Form Validation with Trivule](https://dev.to/claudye/simplify-react-form-validation-with-trivule-a-revolutionary-approach-28k8)
+- [Getting Started with TanStack Query](https://dev.to/john_dunn_ec1dda9d69d5743/getting-started-with-tanstack-query-5b58)
+- [params key-word](https://dev.to/farkhadk/params-key-word-16n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
