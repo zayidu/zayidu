@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Resolve Java.net.ConnectException: Connection Refused Err](https://dev.to/markwilliams21/how-to-resolve-javanetconnectexception-connection-refused-err-21k3)
-- [NestJS Custom Decorator Usage: A Complete Guide](https://dev.to/jeena_alfredo_b9f53a2a784/nestjs-custom-decorator-usage-a-complete-guide-46ij)
-- [HFDP&lpar;11&rpar; - Proxy Pattern](https://dev.to/jzfrank/hfdp11-proxy-pattern-4ef8)
-- [Python Language for Beginners](https://dev.to/aisha_javed_2423b548aa1e9/python-language-for-beginners-3gpi)
-- [Building Vue3 Component Library from Scratch #6 Gulp Introduce](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-6-gulp-introduce-3o4f)
+- [What is Java Application Development for Businesses?](https://dev.to/justinsaran/what-is-java-application-development-for-businesses-1ej2)
+- [Liman MYS - Cihaz Yönetimi -Windows Miço Ajan Defender Problem Çözümü](https://dev.to/aciklab/liman-mys-cihaz-yonetimi-windows-mico-ajan-defender-problem-cozumu-2ppn)
+- [Liman MYS - Cihaz Yönetimi - Windows RDP Erişim Problemi ve Çözümü](https://dev.to/aciklab/liman-mys-cihaz-yonetimi-windows-rdp-erisim-problemi-ve-cozumu-1j9d)
+- [Windows Üzerinde Miço Ajan Kurulumu](https://dev.to/aciklab/windows-uzerinde-mico-ajan-kurulumu-417c)
+- [Best Way To Write Frontend Components](https://dev.to/sotergreco/best-way-to-write-frontend-components-4a2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
