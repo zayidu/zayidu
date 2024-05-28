@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What are Websockets: The detailed Guide.](https://dev.to/alakkadshaw/what-are-websockets-the-detailed-guide-3hke)
-- [Sorting Arrays](https://dev.to/paulike/sorting-arrays-25n4)
-- [Create AI Assistents with Magic Cloud](https://dev.to/polterguy/create-ai-assistents-with-magic-cloud-3njm)
-- [Mastering Laravel Routing: The Backbone of Robust Applications](https://dev.to/luxauto/mastering-laravel-routing-the-backbone-of-robust-applications-cm5)
-- [Searching Arrays](https://dev.to/paulike/searching-arrays-4fb7)
+- [Post-Processing Effects with Shaders: Enhancing Rendered Scenes with Post-Processing Effects](https://dev.to/hayyanstudio/post-processing-effects-with-shaders-enhancing-rendered-scenes-with-post-processing-effects-ocp)
+- [Introduction to AWS](https://dev.to/arsalanmemon130/introduction-to-aws-4inc)
+- [How to use feature flags for staged rollouts](https://dev.to/pradumnasaraf/how-to-use-feature-flags-for-staged-rollouts-187g)
+- [OWL Odoo framework](https://dev.to/jeevanizm/owl-odoo-framework-48de)
+- [Bridging the Gap Between Observability and Automation with Causal Reasoning](https://dev.to/causely/bridging-the-gap-between-observability-and-automation-with-causal-reasoning-323i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
