@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s Updated Algorithm](https://dev.to/christopherchhim/googles-updated-algorithm-13oe)
-- [Top Open Source Tools](https://dev.to/samglish/top-open-source-tools-4841)
-- [LeetCode Meditations: Design Add and Search Words Data Structure](https://dev.to/rivea0/leetcode-meditations-design-add-and-search-words-data-structure-58dn)
-- [The Best Way To Integrate APIs In React JS](https://dev.to/sajithpj/integrate-apis-using-a-common-function-in-react-js-the-best-way-to-integrate-apis-in-react-js-53he)
-- [Understanding JavaScript Blocks and Scope](https://dev.to/bhavesh_jadhav_dc5b8ed28b/understanding-javascript-blocks-and-scope-515l)
+- [My first ever company meeting.](https://dev.to/angeljrp/my-first-ever-business-meeting-1kjl)
+- [React 19 example of new useOptimistic&lpar;&rpar; hook](https://dev.to/sensorario/react-19-example-of-new-useoptimistic-hook-27lf)
+- [Entendendo a Lei de Demeter em Design de Software](https://dev.to/dsb88/entendendo-a-lei-de-demeter-em-design-de-software-3p5g)
+- [Securing My First Internship with Open Source](https://dev.to/iarchitsharma/securing-my-first-internship-with-open-source-15bn)
+- [From Slow Code to Lightning Fast: Mastering the Trampolining Technique](https://dev.to/silverindigo/from-slow-code-to-lightning-fast-mastering-the-trampolining-technique-3cem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
