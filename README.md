@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RAID Nedir? Nerelerde Kullanılır?](https://dev.to/teknikbilimler/raid-nedir-nerelerde-kullanilir-4okl)
-- [Yangi escape ketma-ketligi \e](https://dev.to/farkhadk/yangi-escape-ketma-ketligi-e-4apg)
-- [🌟 Components and Props in React.js 🌟](https://dev.to/erasmuskotoka/components-and-props-in-reactjs-3g1e)
-- [Guía Completa sobre Pruebas Unitarias en Angular 16](https://dev.to/nerm_frontend/guia-completa-sobre-pruebas-unitarias-en-angular-16-4djl)
-- [Quantum Convolutional Neural Networks](https://dev.to/zachbenson/quantum-convolutional-neural-networks-clm)
+- [Streamline Development with Effective API Mocking](https://dev.to/getambassador2024/streamline-development-with-effective-api-mocking-3ji8)
+- [Rejeição de teste fechado do Google ~Você precisa pensar em como conseguir testadores~](https://dev.to/zmsoft/rejeicao-de-teste-fechado-do-google-voce-precisa-pensar-em-como-conseguir-testadores-5bk8)
+- [What is Low Code Test Automation?](https://dev.to/abhayit2000/what-is-low-code-test-automation-47pj)
+- [Zed Editor - My honest opinion](https://dev.to/fadhilsaheer/zed-editor-my-honest-opinion-3818)
+- [ML Intro : IRIS DATASET](https://dev.to/kammarianand/ml-intro-iris-dataset-4e13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
