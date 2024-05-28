@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My first ever company meeting.](https://dev.to/angeljrp/my-first-ever-business-meeting-1kjl)
-- [React 19 example of new useOptimistic&lpar;&rpar; hook](https://dev.to/sensorario/react-19-example-of-new-useoptimistic-hook-27lf)
-- [Entendendo a Lei de Demeter em Design de Software](https://dev.to/dsb88/entendendo-a-lei-de-demeter-em-design-de-software-3p5g)
-- [Securing My First Internship with Open Source](https://dev.to/iarchitsharma/securing-my-first-internship-with-open-source-15bn)
-- [From Slow Code to Lightning Fast: Mastering the Trampolining Technique](https://dev.to/silverindigo/from-slow-code-to-lightning-fast-mastering-the-trampolining-technique-3cem)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-160j)
+- [Pele Radiante:Os Melhores Óleos Essenciais para Limpeza Profunda](https://dev.to/vidacomartesanato/pele-radianteos-melhores-oleos-essenciais-para-limpeza-profunda-4lfk)
+- [How to Resolve Node.js ERR_OSSL_EVP_UNSUPPORTED Error](https://dev.to/saint_vandora/how-to-resolve-nodejs-errosslevpunsupported-error-1cd1)
+- [Self-Hosted WordPress Plugin Updates](https://dev.to/drazenbebic/self-hosted-wordpress-plugin-updates-dc9)
+- [Instalar Docker en modo rootless &lpar;Sin privilegios root&rpar;](https://dev.to/systemsapatrick/instalar-docker-en-modo-rootless-sin-privilegios-root-52df)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
