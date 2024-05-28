@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [System Design: Crafting Scalable and Robust Architectures](https://dev.to/plemonsbrett/system-design-crafting-scalable-and-robust-architectures-amo)
-- [Open Source And The Tragedy Of The Commons](https://dev.to/opensourceadvocate/open-source-and-the-tragedy-of-the-commons-boe)
-- [Issue with Mongoose Database Switching Middleware in Express.js](https://dev.to/jalish_chauhan/issue-with-mongoose-database-switching-middleware-in-expressjs-1mf3)
-- [Alternatives to Makefiles written in Go](https://dev.to/eminetto/alternatives-to-makefiles-written-in-go-dig)
-- [The Importance of Regular .NET Framework Upgrades and How to Mitigate Associated Risks](https://dev.to/shahabfar/the-importance-of-regular-net-framework-upgrades-and-how-to-mitigate-associated-risks-50e5)
+- [Create a Code Explanation Tool using ToolJet and Gemini API](https://dev.to/tooljet/create-a-code-explanation-tool-using-tooljet-and-gemini-api-7l3)
+- [Introducing AlphaFold 3: Revolutionizing Biological Research and Drug Discovery](https://dev.to/aishikl/introducing-alphafold-3-revolutionizing-biological-research-and-drug-discovery-4ag)
+- [Amplify vs. EC2](https://dev.to/sh20raj/amplify-vs-ec2-4o00)
+- [Deploying an Application on AWS: Amplify vs. EC2](https://dev.to/sh20raj/deploying-an-application-on-aws-amplify-vs-ec2-533f)
+- [Developing a Nomad Autoscaler for Harvester](https://dev.to/danquack/developing-a-nomad-autoscaler-for-harvester-1dcf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
