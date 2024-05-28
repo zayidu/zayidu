@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Uncontrolled vs Controlled React Components](https://dev.to/shehzadhussain/uncontrolled-vs-controlled-react-components-4295)
-- [Game Development Diary #8 : Still Second Course](https://dev.to/hizrawandwioka/game-development-diary-8-still-second-course-5g85)
-- [Creating Line Plots with Object-Oriented API and Subplot Function in Python](https://dev.to/lohith0512/creating-line-plots-with-object-oriented-api-and-subplot-function-in-python-4nel)
-- [Top 10 Code Review Tools for Developers](https://dev.to/hyscaler/top-10-code-review-tools-for-developers-26o4)
-- [Writing High Quality Tests to Foster Abstractions to Evolve](https://dev.to/mohsenbazmi/writing-high-quality-tests-to-foster-abstractions-to-evolve-4b2k)
+- [The problem with “async void”](https://dev.to/ben-witt/the-problem-with-async-void-5f0j)
+- [Scaling Up Your Design System: From Seedling to Flourishing Forest](https://dev.to/shieldstring/scaling-up-your-design-system-from-seedling-to-flourishing-forest-4l2n)
+- [Creation of Private Storage for Internal Comapny Document with Restricted Access on Azure .](https://dev.to/olaraph/creation-of-private-storage-for-internal-comapny-document-with-restricted-access-on-azure--of0)
+- [Step-By-Step: Learn Parallel Programming with C# and .NET 2024 🧠](https://dev.to/bytehide/step-by-step-learn-parallel-programming-with-c-and-net-2024-61e)
+- [MUST KNOW LINUX COMMANDS FOR BEGINNERS](https://dev.to/shreeprabha_bhat/must-know-linux-commands-for-beginners-14hn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
