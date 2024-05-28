@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Code Explanation Tool using ToolJet and Gemini API](https://dev.to/tooljet/create-a-code-explanation-tool-using-tooljet-and-gemini-api-7l3)
-- [Introducing AlphaFold 3: Revolutionizing Biological Research and Drug Discovery](https://dev.to/aishikl/introducing-alphafold-3-revolutionizing-biological-research-and-drug-discovery-4ag)
-- [Amplify vs. EC2](https://dev.to/sh20raj/amplify-vs-ec2-4o00)
-- [Deploying an Application on AWS: Amplify vs. EC2](https://dev.to/sh20raj/deploying-an-application-on-aws-amplify-vs-ec2-533f)
-- [Developing a Nomad Autoscaler for Harvester](https://dev.to/danquack/developing-a-nomad-autoscaler-for-harvester-1dcf)
+- [Rails: Switches Serializer according to STI Type](https://dev.to/weseek-inc/rails-switches-serializer-according-to-sti-type-4pc7)
+- [What is the Best way to Learn to Think Like a Programmer?](https://dev.to/anitaolsen/what-is-the-best-way-to-learn-to-think-like-a-programmer-2498)
+- [Variable-Length Argument Lists](https://dev.to/paulike/variable-length-argument-lists-4li7)
+- [Memory Management and Garbage Collection In Java](https://dev.to/akamzchidi/memory-management-and-garbage-collection-in-java-3odf)
+- [Digital Transformation and Insurance – The Evolution of Self-Service Solutions for Enhanced Customer Satisfaction](https://dev.to/danubiusio/digital-transformation-and-insurance-the-evolution-of-self-service-solutions-for-enhanced-customer-satisfaction-31hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
