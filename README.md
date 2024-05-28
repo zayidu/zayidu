@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Customize the Turbo Progress Bar](https://dev.to/railsdesigner/customize-the-turbo-progress-bar-p6j)
-- [Exploring the Intersection of JavaScript Development and Cryptocurrency Exchanges](https://dev.to/klimd1389/exploring-the-intersection-of-javascript-development-and-cryptocurrency-exchanges-3f71)
-- [Building Dynamic Web Applications with React: A Comprehensive Guide](https://dev.to/andylarkin677/building-dynamic-web-applications-with-react-a-comprehensive-guide-3g31)
-- [📊📈 Create charts using Recharts](https://dev.to/refine/create-charts-using-recharts-26j7)
-- [Unveiling GitHub: The Premier Platform for Developers](https://dev.to/alexroor4/unveiling-github-the-premier-platform-for-developers-5bb6)
+- [How to Resolve Java.net.ConnectException: Connection Refused Err](https://dev.to/markwilliams21/how-to-resolve-javanetconnectexception-connection-refused-err-21k3)
+- [NestJS Custom Decorator Usage: A Complete Guide](https://dev.to/jeena_alfredo_b9f53a2a784/nestjs-custom-decorator-usage-a-complete-guide-46ij)
+- [HFDP&lpar;11&rpar; - Proxy Pattern](https://dev.to/jzfrank/hfdp11-proxy-pattern-4ef8)
+- [Python Language for Beginners](https://dev.to/aisha_javed_2423b548aa1e9/python-language-for-beginners-3gpi)
+- [Building Vue3 Component Library from Scratch #6 Gulp Introduce](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-6-gulp-introduce-3o4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
