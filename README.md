@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multiplayer Game Server with Node.js](https://dev.to/kartikmehta8/building-a-multiplayer-game-server-with-nodejs-68g)
-- [Django: Sample data](https://dev.to/samuellubliner/django-sample-data-ng2)
-- [Simplify React Form Validation with Trivule](https://dev.to/claudye/simplify-react-form-validation-with-trivule-a-revolutionary-approach-28k8)
-- [Getting Started with TanStack Query](https://dev.to/john_dunn_ec1dda9d69d5743/getting-started-with-tanstack-query-5b58)
-- [params key-word](https://dev.to/farkhadk/params-key-word-16n8)
+- [Whitelisting Specific Paths on Modsecurity 3 with OWASP Rules](https://dev.to/henri_sekeladi/whitelisting-specific-paths-on-modsecurity-3-with-owasp-rules-39d5)
+- [Handy Open source image editor](https://dev.to/nihaojob/handy-open-source-image-editor-2900)
+- [A Comprehensive Guide to NPM &lpar;Node Package Manager&rpar;](https://dev.to/smkbukhari/a-comprehensive-guide-to-npm-node-package-manager-30n4)
+- [Install Modsecurity + OWASP CRS for Nginx Webserver on Centos 7](https://dev.to/henri_sekeladi/install-modsecurity-owasp-crs-for-nginx-webserver-on-centos-7-4fgo)
+- [Install Nginx with Modsecurity 3 + OWASP CRS on Ubuntu 22.04](https://dev.to/henri_sekeladi/install-nginx-with-modsecurity-3-owasp-crs-on-ubuntu-2204-5d6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
