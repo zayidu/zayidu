@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JavaScript Frameworks: A Comprehensive Guide.🚀🚀](https://dev.to/dharamgfx/mastering-javascript-frameworks-a-comprehensive-guide-338p)
-- [🔍 Testing Your JavaScript: Best Practices for Robust Applications.](https://dev.to/dharamgfx/testing-your-javascript-best-practices-for-robust-applications-428a)
-- [How to Assess Your Skill Level Before Contributing to Open Source](https://dev.to/opensauced/how-to-assess-your-skill-level-before-contributing-to-open-source-4pn3)
-- [🛡️ Securing Your JavaScript: Best Practices for Security and Privacy](https://dev.to/dharamgfx/securing-your-javascript-best-practices-for-security-and-privacy-4hbc)
-- [Protecting Data Integrity: Excel Security Best Practices](https://dev.to/demo_demo_60437eea92a126c/protecting-data-integrity-excel-security-best-practices-54lp)
+- [When Shouldn&#39;t You Use Redis?](https://dev.to/itskunal/when-shouldnt-you-use-redis-1hd1)
+- [How to create and deploy a storage account to support testing and training](https://dev.to/stippy4real/how-to-create-and-deploy-a-storage-account-to-support-testing-and-training-55cm)
+- [How to create a resource group](https://dev.to/stippy4real/how-to-create-a-resource-group-3igg)
+- [How we automated displaying error pages based on API responses](https://dev.to/tsudhishnair/how-we-automated-displaying-error-pages-based-on-api-responses-1nkj)
+- [AIM Weekly 27 May 2024](https://dev.to/tspannhw/aim-weekly-27-may-2024-2om0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
