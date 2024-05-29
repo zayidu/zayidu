@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MithrilJS component with state management](https://dev.to/pablo_74/mithriljs-component-with-state-management-1l59)
-- [Multidimensional Arrays](https://dev.to/paulike/multidimensional-arrays-5hl1)
-- [The Power of Decorators: Separation Of Concerns &lpar;SOC&rpar; in Python Code](https://dev.to/myexamcloud/the-power-of-decorators-separation-of-concerns-soc-in-python-code-5ci9)
-- [Boost Your Interview Calls: Update Your Resume with ATS Score Checker, ChatGPT, and JobForm Automator](https://dev.to/s_belote_dev/boost-your-interview-calls-update-your-resume-with-ats-score-checker-chatgpt-and-jobform-automator-312h)
-- [Is Serverless Still Relevant? &lpar;GCP Addition&rpar;](https://dev.to/thenjdevopsguy/is-serverless-still-relevant-gcp-addition-ic8)
+- [Accessibility Breakdown | Navigating Landmarks](https://dev.to/devsatasurion/accessibility-breakdown-navigating-landmarks-1g8g)
+- [Top 10 Skills Every Junior Developer Should Learn](https://dev.to/bingecoder89/top-10-skills-every-junior-developer-should-learn-5fl8)
+- [Generating PDFs in Angular using jsPDF](https://dev.to/vidyarathna/generating-pdfs-in-angular-using-jspdf-3a6)
+- [GCP Cloud Run vs Kubernetes](https://dev.to/thenjdevopsguy/gcp-cloud-run-vs-kubernetes-5g2b)
+- [HFDP&lpar;12&rpar; - Compound Pattern](https://dev.to/jzfrank/hfdp12-compound-pattern-2e2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
