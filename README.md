@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Writing Effective Git Commits](https://dev.to/monikaprajapati_70/the-art-of-writing-effective-git-commits-4fed)
-- [Easy to Dev a Gpts Chat APP with hono bun htmx](https://dev.to/rockfire/easy-to-dev-a-gpts-chat-app-p4l)
-- [The Joy of Single Sources of Truth](https://dev.to/codinsonn/the-joy-of-single-sources-of-truth-277o)
-- [I developed a VSCode client for Bluesky](https://dev.to/zuk246/i-developed-a-vscode-client-for-bluesky-1o1g)
-- [The Unseen Crisis: Missing Children](https://dev.to/anonymous2029/the-unseen-crisis-missing-children-5b3k)
+- [RabbitMQ Upgrade Best Practices](https://dev.to/stoft/rabbitmq-upgrade-best-practices-1i82)
+- [Setting Up An Angular Project](https://dev.to/reliable25/setting-up-an-angular-project-383n)
+- [Creating Forms in Ruby on Rails with Simple Form](https://dev.to/appsignal/creating-forms-in-ruby-on-rails-with-simple-form-3od1)
+- [Adding external domains in nextjs project.](https://dev.to/shahbaazx786/adding-external-domains-in-nextjs-project-48p2)
+- [Google’s AI Research in Healthcare: Med-PaLM and Beyond](https://dev.to/aishikl/googles-ai-research-in-healthcare-med-palm-and-beyond-2ddg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
