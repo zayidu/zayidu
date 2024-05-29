@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Postgres ORMs](https://dev.to/neurelo/postgres-orms-4g91)
-- [Case Study: Two-Dimensional Array](https://dev.to/paulike/case-study-two-dimensional-array-4l30)
-- [Getting Started with Prometheus: Your Path to Efficient Monitoring](https://dev.to/ayushgupta/getting-started-with-prometheus-your-path-to-efficient-monitoring-4b3o)
-- [Chat with my UI/UX Book and Get Tips for your Projects](https://dev.to/creativetim_official/chat-with-my-uiux-book-and-get-tips-for-your-projects-42en)
-- [Testing Stable Diffusion Inference Performance with Latest NVIDIA Driver including TensorRT ONNX](https://dev.to/furkangozukara/testing-stable-diffusion-inference-performance-with-latest-nvidia-driver-including-tensorrt-onnx-46mc)
+- [MithrilJS component with state management](https://dev.to/pablo_74/mithriljs-component-with-state-management-1l59)
+- [Multidimensional Arrays](https://dev.to/paulike/multidimensional-arrays-5hl1)
+- [The Power of Decorators: Separation Of Concerns &lpar;SOC&rpar; in Python Code](https://dev.to/myexamcloud/the-power-of-decorators-separation-of-concerns-soc-in-python-code-5ci9)
+- [Boost Your Interview Calls: Update Your Resume with ATS Score Checker, ChatGPT, and JobForm Automator](https://dev.to/s_belote_dev/boost-your-interview-calls-update-your-resume-with-ats-score-checker-chatgpt-and-jobform-automator-312h)
+- [Is Serverless Still Relevant? &lpar;GCP Addition&rpar;](https://dev.to/thenjdevopsguy/is-serverless-still-relevant-gcp-addition-ic8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
