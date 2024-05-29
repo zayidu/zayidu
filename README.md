@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding MySQL Query Optimizer: COUNT&lpar;id&rpar; vs COUNT&lpar;*&rpar;](https://dev.to/darkotodoric/understanding-mysql-query-optimizer-countid-vs-count-2ed5)
-- [How to Do a Code Review of Bash Scripts](https://dev.to/karandaid/how-to-do-a-code-review-of-bash-scripts-4bpo)
-- [Codepen editor](https://dev.to/tidycoder/codepen-editor-f7i)
-- [Difference between Libraries and Frameworks](https://dev.to/devmatsu/difference-between-libraries-and-frameworks-3fca)
-- [How to Generate Random Passwords in Bash using `/dev/urandom`](https://dev.to/karandaid/how-to-generate-random-passwords-in-bash-using-devurandom-4cp8)
+- [🔍 Unleash the Power of ChatGPT - Essential Prompts for Developers](https://dev.to/adam/unleash-the-power-of-chatgpt-essential-prompts-for-developers-7f8)
+- [How Function And Variables Works in JavaScript : Behind the Scenes](https://dev.to/pervez/how-function-and-variables-works-in-javascript-behind-the-scenes-gc5)
+- [Styling HTML Elements with CSS](https://dev.to/harsh_dev26/styling-html-elements-with-css-flf)
+- [Building a Movie Recommendation Program in Python](https://dev.to/medo_id99/building-a-movie-recommendation-program-in-python-2dni)
+- [** ¡Los Caballeros del Zodiaco te enseñan JSON!**🛡️](https://dev.to/orlidev/-los-caballeros-del-zodiaco-te-ensenan-json-20mb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
