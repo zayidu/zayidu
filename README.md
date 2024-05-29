@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Software Development: Trends and Predictions](https://dev.to/markwilliams21/the-future-of-software-development-trends-and-predictions-5d8n)
-- [Tokens in JavaScript](https://dev.to/vman_eesh/tokens-in-programming-languages-4hke)
-- [How to Enable Dark Mode Using CSS](https://dev.to/xd199c/how-to-enable-dark-mode-using-css-2ced)
-- [Reminder: You might want to quit peppering Password Now!](https://dev.to/achianumba/reminder-you-might-want-to-quit-peppering-password-now-1eem)
-- [Write Minimal ES6 Code](https://dev.to/mursalfk/write-minimal-es6-code-1o81)
+- [Amazing React 19 Updates 🔥🔥😍...](https://dev.to/srijanbaniyal/amazing-react-19-updates--4g5a)
+- [Java Unit Testing: A Comprehensive Guide](https://dev.to/keploy/java-unit-testing-a-comprehensive-guide-4930)
+- [How to use Quill Editor with Laravel 10 and Livewire v3](https://dev.to/adetolaaremu/how-to-use-quill-editor-with-laravel-10-and-livewire-v3-2l6c)
+- [10 Microservices Architecture Challenges for System Design Interviews](https://dev.to/somadevtoo/10-microservices-architecture-challenges-for-system-design-interviews-6g0)
+- [Razor pages vs MVC](https://dev.to/ifourtechnolab/razor-pages-vs-mvc-3onb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
