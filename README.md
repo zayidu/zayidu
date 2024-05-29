@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 Unleash the Power of ChatGPT - Essential Prompts for Developers](https://dev.to/adam/unleash-the-power-of-chatgpt-essential-prompts-for-developers-7f8)
-- [How Function And Variables Works in JavaScript : Behind the Scenes](https://dev.to/pervez/how-function-and-variables-works-in-javascript-behind-the-scenes-gc5)
-- [Styling HTML Elements with CSS](https://dev.to/harsh_dev26/styling-html-elements-with-css-flf)
-- [Building a Movie Recommendation Program in Python](https://dev.to/medo_id99/building-a-movie-recommendation-program-in-python-2dni)
-- [** ¡Los Caballeros del Zodiaco te enseñan JSON!**🛡️](https://dev.to/orlidev/-los-caballeros-del-zodiaco-te-ensenan-json-20mb)
+- [Correcting iBus/X-Windows compose key conflicts](https://dev.to/peateasea/correcting-ibusx-windows-compose-key-conflicts-44df)
+- [Market Weekly Recap: Ethereum ETF Ignites the Market; PEPE and NOT Mark New Highs](https://dev.to/endeo/market-weekly-recap-ethereum-etf-ignites-the-market-pepe-and-not-mark-new-highs-4d7h)
+- [Understanding Closures in JavaScript](https://dev.to/bhavesh_jadhav_dc5b8ed28b/understanding-closures-in-javascript-5437)
+- [Vue.js 101: Mastering Computed Properties and Watchers for Reactive Data](https://dev.to/delia_code/vuejs-101-mastering-computed-properties-and-watchers-for-reactive-data-18mb)
+- [Ephemeral Environments: A Getting Started Guide](https://dev.to/the_real_zan/ephemeral-environments-a-getting-started-guide-454)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
