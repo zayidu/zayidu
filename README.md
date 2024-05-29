@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Threat Detection and Response &lpar;TDR&rpar;?](https://dev.to/clouddefenseai/what-is-threat-detection-and-response-tdr-1ib1)
-- [How to track your GitHub todos and accomplishments](https://dev.to/sdotson/how-to-track-your-github-todos-and-accomplishments-3n59)
-- [The Ultimate beginners guide to open source – part 1](https://dev.to/dunsincodes/the-ultimate-beginners-guide-to-open-source-part-1-2la9)
-- [for Loops in JavaScript](https://dev.to/vman_eesh/for-loops-in-javascript-48ld)
-- [Different Testing Techniques](https://dev.to/s1eb0d54/different-testing-techniques-4ipf)
+- [Postgres ORMs](https://dev.to/neurelo/postgres-orms-4g91)
+- [Case Study: Two-Dimensional Array](https://dev.to/paulike/case-study-two-dimensional-array-4l30)
+- [Getting Started with Prometheus: Your Path to Efficient Monitoring](https://dev.to/ayushgupta/getting-started-with-prometheus-your-path-to-efficient-monitoring-4b3o)
+- [Chat with my UI/UX Book and Get Tips for your Projects](https://dev.to/creativetim_official/chat-with-my-uiux-book-and-get-tips-for-your-projects-42en)
+- [Testing Stable Diffusion Inference Performance with Latest NVIDIA Driver including TensorRT ONNX](https://dev.to/furkangozukara/testing-stable-diffusion-inference-performance-with-latest-nvidia-driver-including-tensorrt-onnx-46mc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
