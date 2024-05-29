@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Iteration vs Recursion ➰](https://dev.to/sh20raj/iteration-vs-recursion-1n2g)
-- [Univalued Binary Tree | LeetCode | Java](https://dev.to/tanujav/univalued-binary-tree-leetcode-java-37l3)
-- [Text to SQL - Simple way to generate the SQL in Flowtrail AI](https://dev.to/flowtrail-admin/text-to-sql-simple-way-to-generate-the-sql-in-flowtrail-ai-1717)
-- [Introducing the Online Free JSON Visualizer: Your Data Exploration Companion!](https://dev.to/codegirl0101/introducing-the-online-free-json-visualizer-your-data-exploration-companion-bl4)
-- [Integrating with Supabase](https://dev.to/logto/integrating-with-supabase-4d0i)
+- [A programming language coding in a grid](https://dev.to/esproc_spl/a-programming-language-coding-in-a-grid-2mhc)
+- [Mastering Matplotlib: A Guide to Bar Charts, Histograms, Scatter Plots, and Pie Charts](https://dev.to/lohith0512/mastering-matplotlib-a-guide-to-bar-charts-histograms-scatter-plots-and-pie-charts-mgb)
+- [Seeking Guidance: How Can a Cloud Data Engineer Harness the Power of GenAI?](https://dev.to/rajaryan/seeking-guidance-how-can-a-cloud-data-engineer-harness-the-power-of-genai-322p)
+- [Creating Eye-Catching Plots with Matplotlib: A Guide to Custom Titles](https://dev.to/lohith0512/creating-eye-catching-plots-with-matplotlib-a-guide-to-custom-titles-558)
+- [Building Vue3 Component Library from Scratch #9 Setting Up and Deploying Documentation with VitePress](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-9-setting-up-and-deploying-documentation-with-vitepress-1hgc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
