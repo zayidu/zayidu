@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;20/05/2024-26/05/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-20052024-26052024-4888)
-- [A protoc compiler plugin that generates useful extension code for Kotlin/JVM](https://dev.to/behase/a-protoc-compiler-plugin-that-generates-useful-extension-code-for-kotlinjvm-3j0j)
-- [Day 1: Getting Started with JavaScript](https://dev.to/dipakahirav/day-1-getting-started-with-javascript-16p3)
-- [Mastering Code Quality: Applying SOLID Principles in a Library Checkout System](https://dev.to/nichetti/mastering-code-quality-applying-solid-principles-in-a-library-checkout-system-kp6)
-- [Variables](https://dev.to/xojiakbar_abdulaxatov_48e/variables-1eje)
+- [1 Common Mistake Qualified Developers Make in Job Interviews](https://dev.to/thekarlesi/1-common-mistake-qualified-developers-make-in-job-interviews-3173)
+- [Help im stuck](https://dev.to/jth1903/help-im-stuck-1k1m)
+- [Day 1: Getting Started with HTML](https://dev.to/dipakahirav/day-1-getting-started-with-html-1dj1)
+- [JS Versialari haqida: JS Data types: Variables &lpar;O&#39;zgaruvchilar&rpar;:](https://dev.to/bekmuhammaddev/js-versialari-haqida-js-data-types-variables-ozgaruvchilar-16fh)
+- [¿Como Personalizar Neovim?](https://dev.to/erickvasm/como-personalizar-neovim-3gg8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
