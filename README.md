@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Data Types](https://dev.to/xojiakbar_abdulaxatov_48e/javascript-data-types-1d0n)
+- [Mastering Algorithms: The Simple Path to Becoming a Coding Pro](https://dev.to/venigallapraveen/mastering-algorithms-the-simple-path-to-becoming-a-coding-pro-2gce)
+- [The Cloud Resume Challenge](https://dev.to/jmkriz/the-cloud-resume-challenge-19d5)
+- [SAP BTP, RISE and AWS network patterns](https://dev.to/sourabh_chordiya_08c34bcc/sap-btp-rise-and-aws-network-patterns-1765)
 - [Exploring the Capabilities of the Docker Engine](https://dev.to/kartikmehta8/exploring-the-capabilities-of-the-docker-engine-j4g)
-- [Welcome Thread - v278](https://dev.to/devteam/welcome-thread-v278-2jha)
-- [Nol indekslangan to&#39;plamlar](https://dev.to/farkhadk/nol-indekslangan-toplamlar-6c3)
-- [View in CodeBehind Framework](https://dev.to/elanatframework/view-in-codebehind-framework-5h8g)
-- [[Game of Purpose] Day 10](https://dev.to/humberd/game-of-purpose-day-10-673)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
