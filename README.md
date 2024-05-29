@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A programming language coding in a grid](https://dev.to/esproc_spl/a-programming-language-coding-in-a-grid-2mhc)
-- [Mastering Matplotlib: A Guide to Bar Charts, Histograms, Scatter Plots, and Pie Charts](https://dev.to/lohith0512/mastering-matplotlib-a-guide-to-bar-charts-histograms-scatter-plots-and-pie-charts-mgb)
-- [Seeking Guidance: How Can a Cloud Data Engineer Harness the Power of GenAI?](https://dev.to/rajaryan/seeking-guidance-how-can-a-cloud-data-engineer-harness-the-power-of-genai-322p)
-- [Creating Eye-Catching Plots with Matplotlib: A Guide to Custom Titles](https://dev.to/lohith0512/creating-eye-catching-plots-with-matplotlib-a-guide-to-custom-titles-558)
-- [Building Vue3 Component Library from Scratch #9 Setting Up and Deploying Documentation with VitePress](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-9-setting-up-and-deploying-documentation-with-vitepress-1hgc)
+- [The Future of Software Development: Trends and Predictions](https://dev.to/markwilliams21/the-future-of-software-development-trends-and-predictions-5d8n)
+- [Tokens in JavaScript](https://dev.to/vman_eesh/tokens-in-programming-languages-4hke)
+- [How to Enable Dark Mode Using CSS](https://dev.to/xd199c/how-to-enable-dark-mode-using-css-2ced)
+- [Reminder: You might want to quit peppering Password Now!](https://dev.to/achianumba/reminder-you-might-want-to-quit-peppering-password-now-1eem)
+- [Write Minimal ES6 Code](https://dev.to/mursalfk/write-minimal-es6-code-1o81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
