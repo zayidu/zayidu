@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Event Listeners in Javascript](https://dev.to/spencer_adler_880da14d230/event-listeners-in-javascript-489f)
+- [Streamlining Webpage Deployment on Multi-VMs Using Bash Scripts](https://dev.to/ritik_saxena/streamlining-webpage-deployment-on-multi-vms-using-bash-scripts-2ml2)
+- [How To Host a Static Website in Azure Blob Storage](https://dev.to/emmamag/how-to-host-a-static-website-in-azure-blob-storage-bab)
+- [Instruction Set Architecture, a linguagem das máquinas](https://dev.to/erick_tmr/instruction-set-architecture-a-linguagem-das-maquinas-4o8d)
 - [Generative AI Serverless - RAG using Bedrock Knowledge base, &amp; Single document chat via AWS Console!](https://dev.to/bhatiagirish/generative-ai-serverless-rag-using-bedrock-knowledge-base-single-document-chat-via-aws-console-5adi)
-- [Introduction to AWS Config](https://dev.to/diegotrujillo/introduction-to-aws-config-544k)
-- [How to manage identical files?](https://dev.to/1seamy/how-to-manage-identical-files-2e2c)
-- [Microsoft Recall - EW...](https://dev.to/mustafif/microsoft-recall-ew-4hi)
-- [Securing App Development with Managed Identities and Role-Based Access Control](https://dev.to/olaraph/securing-app-development-with-managed-identities-and-role-based-access-control-484h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
