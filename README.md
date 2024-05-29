@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [1 Common Mistake Qualified Developers Make in Job Interviews](https://dev.to/thekarlesi/1-common-mistake-qualified-developers-make-in-job-interviews-3173)
-- [Help im stuck](https://dev.to/jth1903/help-im-stuck-1k1m)
-- [Day 1: Getting Started with HTML](https://dev.to/dipakahirav/day-1-getting-started-with-html-1dj1)
-- [JS Versialari haqida: JS Data types: Variables &lpar;O&#39;zgaruvchilar&rpar;:](https://dev.to/bekmuhammaddev/js-versialari-haqida-js-data-types-variables-ozgaruvchilar-16fh)
-- [¿Como Personalizar Neovim?](https://dev.to/erickvasm/como-personalizar-neovim-3gg8)
+- [Integrating with Supabase](https://dev.to/logto/integrating-with-supabase-4d0i)
+- [Django 9: Scheduled tasks](https://dev.to/doctorserone/django-9-scheduled-tasks-3m4n)
+- [Building Vue3 Component Library from Scratch #8 Publish](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-8-publish-2dgl)
+- [Junior Designers vs. Senior Designers](https://dev.to/vrajparikh/junior-designers-vs-senior-designers-5co6)
+- [Running Cron Jobs with Go on AWS Lambda](https://dev.to/burgossrodrigo/running-cron-jobs-with-go-on-aws-lambda-3j38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
