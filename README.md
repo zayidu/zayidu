@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RabbitMQ Upgrade Best Practices](https://dev.to/stoft/rabbitmq-upgrade-best-practices-1i82)
-- [Setting Up An Angular Project](https://dev.to/reliable25/setting-up-an-angular-project-383n)
-- [Creating Forms in Ruby on Rails with Simple Form](https://dev.to/appsignal/creating-forms-in-ruby-on-rails-with-simple-form-3od1)
-- [Adding external domains in nextjs project.](https://dev.to/shahbaazx786/adding-external-domains-in-nextjs-project-48p2)
-- [Google’s AI Research in Healthcare: Med-PaLM and Beyond](https://dev.to/aishikl/googles-ai-research-in-healthcare-med-palm-and-beyond-2ddg)
+- [ReactJS Interview Questions and Answers](https://dev.to/lalyadav/reactjs-interview-questions-and-answers-3586)
+- [What is OpenTofu?](https://dev.to/spacelift/what-is-opentofu-4jgn)
+- [mysql: using json data and not hating it](https://dev.to/gbhorwood/mysql-using-json-data-and-not-hating-it-6lc)
+- [Top Plugins for Importing HTML Content into WordPress](https://dev.to/__6097f/top-plugins-for-importing-html-content-into-wordpress-332n)
+- [Building multi platform games in Flutter News 2024 #21 ʚїɞ](https://dev.to/lucianojung/i-will-develop-any-flutter-ui-for-your-flutter-app-development-in-flutter-news-2024-21-eyie-nh4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
