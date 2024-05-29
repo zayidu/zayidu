@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility Breakdown | Navigating Landmarks](https://dev.to/devsatasurion/accessibility-breakdown-navigating-landmarks-1g8g)
-- [Top 10 Skills Every Junior Developer Should Learn](https://dev.to/bingecoder89/top-10-skills-every-junior-developer-should-learn-5fl8)
-- [Generating PDFs in Angular using jsPDF](https://dev.to/vidyarathna/generating-pdfs-in-angular-using-jspdf-3a6)
-- [GCP Cloud Run vs Kubernetes](https://dev.to/thenjdevopsguy/gcp-cloud-run-vs-kubernetes-5g2b)
-- [HFDP&lpar;12&rpar; - Compound Pattern](https://dev.to/jzfrank/hfdp12-compound-pattern-2e2b)
+- [Understanding MySQL Query Optimizer: COUNT&lpar;id&rpar; vs COUNT&lpar;*&rpar;](https://dev.to/darkotodoric/understanding-mysql-query-optimizer-countid-vs-count-2ed5)
+- [How to Do a Code Review of Bash Scripts](https://dev.to/karandaid/how-to-do-a-code-review-of-bash-scripts-4bpo)
+- [Codepen editor](https://dev.to/tidycoder/codepen-editor-f7i)
+- [Difference between Libraries and Frameworks](https://dev.to/devmatsu/difference-between-libraries-and-frameworks-3fca)
+- [How to Generate Random Passwords in Bash using `/dev/urandom`](https://dev.to/karandaid/how-to-generate-random-passwords-in-bash-using-devurandom-4cp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
