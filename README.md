@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ReactJS Interview Questions and Answers](https://dev.to/lalyadav/reactjs-interview-questions-and-answers-3586)
-- [What is OpenTofu?](https://dev.to/spacelift/what-is-opentofu-4jgn)
-- [mysql: using json data and not hating it](https://dev.to/gbhorwood/mysql-using-json-data-and-not-hating-it-6lc)
-- [Top Plugins for Importing HTML Content into WordPress](https://dev.to/__6097f/top-plugins-for-importing-html-content-into-wordpress-332n)
-- [Building multi platform games in Flutter News 2024 #21 ʚїɞ](https://dev.to/lucianojung/i-will-develop-any-flutter-ui-for-your-flutter-app-development-in-flutter-news-2024-21-eyie-nh4)
+- [What is Threat Detection and Response &lpar;TDR&rpar;?](https://dev.to/clouddefenseai/what-is-threat-detection-and-response-tdr-1ib1)
+- [How to track your GitHub todos and accomplishments](https://dev.to/sdotson/how-to-track-your-github-todos-and-accomplishments-3n59)
+- [The Ultimate beginners guide to open source – part 1](https://dev.to/dunsincodes/the-ultimate-beginners-guide-to-open-source-part-1-2la9)
+- [for Loops in JavaScript](https://dev.to/vman_eesh/for-loops-in-javascript-48ld)
+- [Different Testing Techniques](https://dev.to/s1eb0d54/different-testing-techniques-4ipf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
