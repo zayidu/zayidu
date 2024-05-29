@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Spiner! a package/project manager. first look](https://dev.to/eliaondacs/spiner-a-packageproject-manager-first-look-4h17)
-- [Building Vue3 Component Library from Scratch #10 Create Cli Scaffold](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-10-create-cli-scaffold-1om0)
-- [How to run npm scripts concurrently?](https://dev.to/przemyslawjanbeigert/how-to-run-npm-scripts-concurrently-2l4c)
-- [Building Blocks Of Zig: Understanding Structs](https://dev.to/dayvster/building-blocks-of-zig-understanding-structs-3mp7)
-- [The Art of AI: How NigmaBot.ai’s Image Generator is Empowering Artists](https://dev.to/saumya27/the-art-of-ai-how-nigmabotais-image-generator-is-empowering-artists-1lc5)
+- [The Art of Writing Effective Git Commits](https://dev.to/monikaprajapati_70/the-art-of-writing-effective-git-commits-4fed)
+- [Easy to Dev a Gpts Chat APP with hono bun htmx](https://dev.to/rockfire/easy-to-dev-a-gpts-chat-app-p4l)
+- [The Joy of Single Sources of Truth](https://dev.to/codinsonn/the-joy-of-single-sources-of-truth-277o)
+- [I developed a VSCode client for Bluesky](https://dev.to/zuk246/i-developed-a-vscode-client-for-bluesky-1o1g)
+- [The Unseen Crisis: Missing Children](https://dev.to/anonymous2029/the-unseen-crisis-missing-children-5b3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
