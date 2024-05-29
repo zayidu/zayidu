@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Javascript Data Types](https://dev.to/xojiakbar_abdulaxatov_48e/javascript-data-types-1d0n)
-- [Mastering Algorithms: The Simple Path to Becoming a Coding Pro](https://dev.to/venigallapraveen/mastering-algorithms-the-simple-path-to-becoming-a-coding-pro-2gce)
-- [The Cloud Resume Challenge](https://dev.to/jmkriz/the-cloud-resume-challenge-19d5)
-- [SAP BTP, RISE and AWS network patterns](https://dev.to/sourabh_chordiya_08c34bcc/sap-btp-rise-and-aws-network-patterns-1765)
-- [Exploring the Capabilities of the Docker Engine](https://dev.to/kartikmehta8/exploring-the-capabilities-of-the-docker-engine-j4g)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;20/05/2024-26/05/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-20052024-26052024-4888)
+- [A protoc compiler plugin that generates useful extension code for Kotlin/JVM](https://dev.to/behase/a-protoc-compiler-plugin-that-generates-useful-extension-code-for-kotlinjvm-3j0j)
+- [Day 1: Getting Started with JavaScript](https://dev.to/dipakahirav/day-1-getting-started-with-javascript-16p3)
+- [Mastering Code Quality: Applying SOLID Principles in a Library Checkout System](https://dev.to/nichetti/mastering-code-quality-applying-solid-principles-in-a-library-checkout-system-kp6)
+- [Variables](https://dev.to/xojiakbar_abdulaxatov_48e/variables-1eje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
