@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazing React 19 Updates 🔥🔥😍...](https://dev.to/srijanbaniyal/amazing-react-19-updates--4g5a)
-- [Java Unit Testing: A Comprehensive Guide](https://dev.to/keploy/java-unit-testing-a-comprehensive-guide-4930)
-- [How to use Quill Editor with Laravel 10 and Livewire v3](https://dev.to/adetolaaremu/how-to-use-quill-editor-with-laravel-10-and-livewire-v3-2l6c)
-- [10 Microservices Architecture Challenges for System Design Interviews](https://dev.to/somadevtoo/10-microservices-architecture-challenges-for-system-design-interviews-6g0)
-- [Razor pages vs MVC](https://dev.to/ifourtechnolab/razor-pages-vs-mvc-3onb)
+- [Spiner! a package/project manager. first look](https://dev.to/eliaondacs/spiner-a-packageproject-manager-first-look-4h17)
+- [Building Vue3 Component Library from Scratch #10 Create Cli Scaffold](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-10-create-cli-scaffold-1om0)
+- [How to run npm scripts concurrently?](https://dev.to/przemyslawjanbeigert/how-to-run-npm-scripts-concurrently-2l4c)
+- [Building Blocks Of Zig: Understanding Structs](https://dev.to/dayvster/building-blocks-of-zig-understanding-structs-3mp7)
+- [The Art of AI: How NigmaBot.ai’s Image Generator is Empowering Artists](https://dev.to/saumya27/the-art-of-ai-how-nigmabotais-image-generator-is-empowering-artists-1lc5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
