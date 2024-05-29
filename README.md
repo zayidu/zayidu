@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to monitor all AWS Console logins and failed attempts with CloudTrail and CloudWatch - Terraform automation](https://dev.to/montaigu/how-to-monitor-all-aws-console-logins-and-failed-attempts-with-cloudtrail-and-cloudwatch-terraform-automation-2pi1)
-- [Cloudd](https://dev.to/ozcankara/cloudd-1f7f)
-- [HOW TO CONNECT AN IOT FIELD DEVICE &lpar;RASPBERRY PI SIMULATOR&rpar; FROM THE FIELD TO AN AZURE CLOUD IOT HUB FOR COMMUNICATION AND DATA](https://dev.to/atony07/how-to-connect-an-iot-field-device-raspberry-pi-simulator-from-the-field-to-an-azure-cloud-iot-hub-for-communication-and-data-iob)
-- [Datalists or 50 lines of extra JavaScript and HTML?](https://dev.to/wagenrace/datalists-or-50-lines-of-extra-javascript-and-html-51j1)
-- [Mysterious /sink route in ui.shadcn.com](https://dev.to/ramunarasinga/mysterious-sink-route-in-uishadcncom-13a4)
+- [Generative AI Serverless - RAG using Bedrock Knowledge base, &amp; Single document chat via AWS Console!](https://dev.to/bhatiagirish/generative-ai-serverless-rag-using-bedrock-knowledge-base-single-document-chat-via-aws-console-5adi)
+- [Introduction to AWS Config](https://dev.to/diegotrujillo/introduction-to-aws-config-544k)
+- [How to manage identical files?](https://dev.to/1seamy/how-to-manage-identical-files-2e2c)
+- [Microsoft Recall - EW...](https://dev.to/mustafif/microsoft-recall-ew-4hi)
+- [Securing App Development with Managed Identities and Role-Based Access Control](https://dev.to/olaraph/securing-app-development-with-managed-identities-and-role-based-access-control-484h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
