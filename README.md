@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Correcting iBus/X-Windows compose key conflicts](https://dev.to/peateasea/correcting-ibusx-windows-compose-key-conflicts-44df)
-- [Market Weekly Recap: Ethereum ETF Ignites the Market; PEPE and NOT Mark New Highs](https://dev.to/endeo/market-weekly-recap-ethereum-etf-ignites-the-market-pepe-and-not-mark-new-highs-4d7h)
-- [Understanding Closures in JavaScript](https://dev.to/bhavesh_jadhav_dc5b8ed28b/understanding-closures-in-javascript-5437)
-- [Vue.js 101: Mastering Computed Properties and Watchers for Reactive Data](https://dev.to/delia_code/vuejs-101-mastering-computed-properties-and-watchers-for-reactive-data-18mb)
-- [Ephemeral Environments: A Getting Started Guide](https://dev.to/the_real_zan/ephemeral-environments-a-getting-started-guide-454)
+- [How to monitor all AWS Console logins and failed attempts with CloudTrail and CloudWatch - Terraform automation](https://dev.to/montaigu/how-to-monitor-all-aws-console-logins-and-failed-attempts-with-cloudtrail-and-cloudwatch-terraform-automation-2pi1)
+- [Cloudd](https://dev.to/ozcankara/cloudd-1f7f)
+- [HOW TO CONNECT AN IOT FIELD DEVICE &lpar;RASPBERRY PI SIMULATOR&rpar; FROM THE FIELD TO AN AZURE CLOUD IOT HUB FOR COMMUNICATION AND DATA](https://dev.to/atony07/how-to-connect-an-iot-field-device-raspberry-pi-simulator-from-the-field-to-an-azure-cloud-iot-hub-for-communication-and-data-iob)
+- [Datalists or 50 lines of extra JavaScript and HTML?](https://dev.to/wagenrace/datalists-or-50-lines-of-extra-javascript-and-html-51j1)
+- [Mysterious /sink route in ui.shadcn.com](https://dev.to/ramunarasinga/mysterious-sink-route-in-uishadcncom-13a4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
