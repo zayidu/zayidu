@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Iteration vs Recursion ➰](https://dev.to/sh20raj/iteration-vs-recursion-1n2g)
+- [Univalued Binary Tree | LeetCode | Java](https://dev.to/tanujav/univalued-binary-tree-leetcode-java-37l3)
+- [Text to SQL - Simple way to generate the SQL in Flowtrail AI](https://dev.to/flowtrail-admin/text-to-sql-simple-way-to-generate-the-sql-in-flowtrail-ai-1717)
+- [Introducing the Online Free JSON Visualizer: Your Data Exploration Companion!](https://dev.to/codegirl0101/introducing-the-online-free-json-visualizer-your-data-exploration-companion-bl4)
 - [Integrating with Supabase](https://dev.to/logto/integrating-with-supabase-4d0i)
-- [Django 9: Scheduled tasks](https://dev.to/doctorserone/django-9-scheduled-tasks-3m4n)
-- [Building Vue3 Component Library from Scratch #8 Publish](https://dev.to/markliu2013/building-vue3-component-library-from-scratch-8-publish-2dgl)
-- [Junior Designers vs. Senior Designers](https://dev.to/vrajparikh/junior-designers-vs-senior-designers-5co6)
-- [Running Cron Jobs with Go on AWS Lambda](https://dev.to/burgossrodrigo/running-cron-jobs-with-go-on-aws-lambda-3j38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
