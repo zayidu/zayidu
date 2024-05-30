@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Retrieval Augmented Generation &lpar;RAG&rpar; Work](https://dev.to/cybersasa/how-retrieval-augmented-generation-rag-work-101e)
-- [Natural type of Method group](https://dev.to/farkhadk/natural-type-of-method-group-4kp0)
-- [Natural type of Method group](https://dev.to/farkhadk/natural-type-of-method-group-min)
-- [The No PLAN-B Mindset &amp; How Champions Win](https://dev.to/jobreadyprogrammer/the-no-plan-b-mindset-how-champions-win-37ji)
-- [Exploring Angular v18: Zoneless Change Detection and More](https://dev.to/dipakahirav/exploring-angular-v18-zoneless-change-detection-and-more-565)
+- [Views vs. Materialized Views: What’s the Difference?](https://dev.to/dbvismarketing/views-vs-materialized-views-whats-the-difference-2e5b)
+- [My 1st Post! - Intro &amp; why I joined Dev.to](https://dev.to/ryoichihomma/my-1st-post-intro-why-i-joined-devto-ind)
+- [Enhancing Workstation Security with Single Sign-On &lpar;SSO&rpar; Solutions](https://dev.to/blogginger/enhancing-workstation-security-with-single-sign-on-sso-solutions-17jb)
+- [Telehealth Solutions on AWS: Connecting Patients and Providers](https://dev.to/sidrasaleem296/telehealth-solutions-on-aws-connecting-patients-and-providers-32i3)
+- [Generating Ideas and Driving them to completion](https://dev.to/moozzyk/generating-ideas-and-driving-them-to-completion-1l05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
