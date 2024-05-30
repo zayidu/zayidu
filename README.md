@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learnings on tech leading: Making estimations](https://dev.to/kaityhallman/learnings-on-tech-leading-making-estimations-gp7)
-- [Building a TailwindCSS-Powered Laravel Application with Email Verification and Queued Jobs](https://dev.to/haseebmirza/building-a-tailwindcss-powered-laravel-application-with-email-verification-and-queued-jobs-1m31)
-- [**Pac-Man y los Comandos de la Línea de Comandos: ¡Come, Ejecuta, Repite! **🍒](https://dev.to/orlidev/pac-man-y-los-comandos-de-la-linea-de-comandos-come-ejecuta-repite--5573)
-- [PLSQL - Day 1](https://dev.to/technonotes/plsql-day-1-3j4i)
-- [Am I toast?](https://dev.to/taylor_d7a1a3474487661ed3/am-i-toast-dan)
+- [Software Design and Architecture: Understanding Their Roles and Challenges in Development](https://dev.to/mathsena/software-design-and-architecture-understanding-their-roles-and-challenges-in-development-4jkf)
+- [การป้องกันการทำให้สัตว์เลี้ยงหายออกจากบ้าน: วิธีการง่ายๆ ที่คุณสามารถทำได้](https://dev.to/poom-sci/kaarpngkankaarthamaihsatweliiynghaaykcchaakbaan-withiikaarngaay-thiikhunsaamaarththamaid-31pf)
+- [실시간 GitHub 대시보드 커밋 추적하기](https://dev.to/pubnub-ko/silsigan-github-daesibodeu-keomis-cujeoghagi-39fc)
+- [Conquer Your Cloud Bill: Mastering Azure Cost Optimization](https://dev.to/unicloud/conquer-your-cloud-bill-mastering-azure-cost-optimization-4o7k)
+- [Śledzenie zatwierdzeń na pulpicie nawigacyjnym GitHub w czasie rzeczywistym](https://dev.to/pubnub-pl/sledzenie-zatwierdzen-na-pulpicie-nawigacyjnym-github-w-czasie-rzeczywistym-5a7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
