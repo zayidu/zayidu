@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Event Listeners in Javascript](https://dev.to/spencer_adler_880da14d230/event-listeners-in-javascript-489f)
-- [Streamlining Webpage Deployment on Multi-VMs Using Bash Scripts](https://dev.to/ritik_saxena/streamlining-webpage-deployment-on-multi-vms-using-bash-scripts-2ml2)
-- [How To Host a Static Website in Azure Blob Storage](https://dev.to/emmamag/how-to-host-a-static-website-in-azure-blob-storage-bab)
-- [Instruction Set Architecture, a linguagem das máquinas](https://dev.to/erick_tmr/instruction-set-architecture-a-linguagem-das-maquinas-4o8d)
-- [Generative AI Serverless - RAG using Bedrock Knowledge base, &amp; Single document chat via AWS Console!](https://dev.to/bhatiagirish/generative-ai-serverless-rag-using-bedrock-knowledge-base-single-document-chat-via-aws-console-5adi)
+- [Item 32: Seja criterioso ao combinar os genéricos com os varargs](https://dev.to/giselecoder/item-32-seja-criterioso-ao-combinar-os-genericos-com-os-varargs-2llj)
+- [DEPLOYING A WINDOWS SERVER VIRTUAL MACHINE RUNNING IIS](https://dev.to/himora22/deploying-a-windows-server-virtual-machine-running-iis-1in2)
+- [The Transformative Power of AI: Shaping the Future of Our World](https://dev.to/ghp82601/the-transformative-power-of-ai-shaping-the-future-of-our-world-54db)
+- [Before WWDC 2024: Reviewing Key SwiftUI Upgrades from 2019 to 2023 and Their Impact](https://dev.to/fatbobman/before-wwdc-2024-reviewing-key-swiftui-upgrades-from-2019-to-2023-and-their-impact-3bkm)
+- [A minigame of spacecrafts and learning](https://dev.to/angeljrp/a-minigame-of-spacecrafts-and-learning-443m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
