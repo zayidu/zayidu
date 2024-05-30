@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Enabling Slow Query Log Enhances Postgres Observability](https://dev.to/metis/how-enabling-slow-query-log-enhances-postgres-observability-cpb)
-- [Mastering Clipboard Operations in JavaScript: A Guide to Copying Text with the Clipboard API](https://dev.to/iamcymentho/mastering-clipboard-operations-in-javascript-a-guide-to-copying-text-with-the-clipboard-api-180k)
-- [&quot;The ChatGPT: The Ultimate Roller-coaster of AI&quot;](https://dev.to/tanisha_chopra_15/the-chatgpt-the-ultimate-roller-coaster-of-ai-447m)
-- [When I had no ideas for writing a paper, I found a useful tool](https://dev.to/writegoai/when-i-had-no-ideas-for-writing-a-paper-i-found-a-useful-tool-3236)
-- [We have to talk about Dev](https://dev.to/shalaw_fatah_09a3aef863eb/we-have-to-talk-about-dev-3g0d)
+- [Lesser Known Rails Helpers to Write Cleaner View Code](https://dev.to/railsdesigner/lesser-known-rails-helpers-to-write-cleaner-view-code-5d3n)
+- [Naming Conventions in Programming](https://dev.to/kellyblaire/naming-conventions-in-programming-20ak)
+- [What Crawls Into My Mind When My Free Trial Expires](https://dev.to/lolllla/what-crawls-into-my-mind-when-my-free-trial-expires-3dih)
+- [Laravel Polymorphic Models By Type](https://dev.to/paulund/laravel-polymorphic-models-by-type-3fkh)
+- [The Decorator Pattern in Modern C#](https://dev.to/gfraiteur/the-decorator-pattern-in-modern-c-e0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
