@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Self-Made Type Guard with TypeScript &quot;is&quot; Operator](https://dev.to/weseek-inc/use-self-made-type-guard-with-typescript-is-operator-13e6)
-- [Use WhatsApp com Python com nosso Package de maneira simples e totalmente local](https://dev.to/marco0antonio0/use-whatsapp-com-python-com-nosso-package-de-maneira-simples-e-totalmente-local-2obf)
-- [Make a Travel Website by Using Pure HTML CSS](https://dev.to/asheelahmedsiddiqui/submission-for-frontend-challenge-1mi8)
-- [How to Incorporate Animations and Micro interactions in Web Design](https://dev.to/robertadler/how-to-incorporate-animations-and-micro-interactions-in-web-design-308)
-- [Top 23 React UI Component Libraries for Your Next Project🚀](https://dev.to/dharamgfx/top-23-react-ui-component-libraries-for-your-next-project-924)
+- [Elvis operator ?: vs Null coalescing operator](https://dev.to/thibaultchatelain/elvis-operator-vs-null-coalescing-operator-2l31)
+- [11 Tools To Improve Your Developer Experience by 10x 🚀](https://dev.to/latitude/11-tools-to-improve-your-developer-experience-by-10x-1f22)
+- [Learning flask and prepping for the end of boot camp](https://dev.to/bgeierbk/learning-flask-and-prepping-for-the-end-of-boot-camp-i25)
+- [CLI Games and Git struggles](https://dev.to/bgeierbk/cli-games-and-git-struggles-5gcp)
+- [The Ultimate beginners guide to open source – Part 2: Defeating the fear of contributing](https://dev.to/dunsincodes/the-ultimate-beginners-guide-to-open-source-part-2-defeating-the-fear-of-contributing-1olj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
