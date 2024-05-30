@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Strategy Pattern: A Real-World Example in E-commerce Shipping with Java](https://dev.to/waqaryounis7564/mastering-the-strategy-pattern-a-real-world-example-in-e-commerce-shipping-with-java-ni)
-- [What I learnt at the Web Performance workshop by Cloudinary](https://dev.to/kervyntjw/what-i-learnt-at-the-web-performance-workshop-by-cloudinary-4fc)
-- [BEGINNERS COMMAND - GIT](https://dev.to/shreeprabha_bhat/beginners-command-git-5354)
-- [Mastering Magento PIM Integration](https://dev.to/charleslyman/mastering-magento-pim-integration-3cf1)
-- [Hello C# Devs](https://dev.to/mohamedabdiahmed/hello-c-devs-271e)
+- [Using the New Milvus-Lite](https://dev.to/tspannhw/using-the-new-milvus-lite-4dea)
+- [Using Milvus-Lite Now](https://dev.to/tspannhw/using-milvus-lite-now-4n59)
+- [Navigating Through the Nuances of Various Testing Types: Unit, Integration, and End-to-End Testing](https://dev.to/abhayit2000/navigating-through-the-nuances-of-various-testing-types-unit-integration-and-end-to-end-testing-2lkk)
+- [You’re reporting bugs like cavemen](https://dev.to/qvstio/youre-reporting-bugs-like-cavemen-5bko)
+- [Distributed validator technology with Obol Labs](https://dev.to/st1p3kolovrat/distributed-validator-technology-with-obol-labs-4d38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
