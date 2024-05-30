@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Item 32: Seja criterioso ao combinar os genéricos com os varargs](https://dev.to/giselecoder/item-32-seja-criterioso-ao-combinar-os-genericos-com-os-varargs-2llj)
-- [DEPLOYING A WINDOWS SERVER VIRTUAL MACHINE RUNNING IIS](https://dev.to/himora22/deploying-a-windows-server-virtual-machine-running-iis-1in2)
-- [The Transformative Power of AI: Shaping the Future of Our World](https://dev.to/ghp82601/the-transformative-power-of-ai-shaping-the-future-of-our-world-54db)
-- [Before WWDC 2024: Reviewing Key SwiftUI Upgrades from 2019 to 2023 and Their Impact](https://dev.to/fatbobman/before-wwdc-2024-reviewing-key-swiftui-upgrades-from-2019-to-2023-and-their-impact-3bkm)
-- [A minigame of spacecrafts and learning](https://dev.to/angeljrp/a-minigame-of-spacecrafts-and-learning-443m)
+- [Connecting to IRC with Halloy](https://dev.to/djdesu/connecting-to-irc-with-halloy-5i8)
+- [How Moonrepo Recognizes Project Languages](https://dev.to/suin/how-moonrepo-recognizes-project-languages-5ck5)
+- [How I became a better software engineer by using a visual knowledge management tool](https://dev.to/leonardoventurini/how-i-became-a-better-software-engineer-by-using-a-visual-knowledge-management-tool-33kf)
+- [C# dagi Method overload va Method group.](https://dev.to/farkhadk/c-dagi-method-overload-va-method-group-3p7k)
+- [Entenda o que é CORS &lpar;Cross-Origin Resource Sharing&rpar;](https://dev.to/thiagohnrt/entenda-o-que-e-cors-cross-origin-resource-sharing-2601)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
