@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding what iterator to use and when from a beginner!](https://dev.to/killerfox007/finding-what-iterator-to-use-and-when-from-a-beginner-441h)
-- [Im accused of being a micromanager. Higher-ups want to build team capacity at the expense of quality](https://dev.to/humanspecimen/im-accused-of-being-a-micromanager-higher-ups-want-to-build-team-capacity-at-the-expense-of-quality-2lmb)
-- [Web App Pentesting on AWS: A Comprehensive Guide](https://dev.to/sudoconsultants/web-app-pentesting-on-aws-a-comprehensive-guide-3opa)
-- [Contextual Software Development](https://dev.to/rasharm_/contextual-software-development-18c6)
-- [What is Intermediate Representation - A Gist](https://dev.to/k-srivastava/what-is-intermediate-representation-a-gist-225g)
+- [How Retrieval Augmented Generation &lpar;RAG&rpar; Work](https://dev.to/cybersasa/how-retrieval-augmented-generation-rag-work-101e)
+- [Natural type of Method group](https://dev.to/farkhadk/natural-type-of-method-group-4kp0)
+- [Natural type of Method group](https://dev.to/farkhadk/natural-type-of-method-group-min)
+- [The No PLAN-B Mindset &amp; How Champions Win](https://dev.to/jobreadyprogrammer/the-no-plan-b-mindset-how-champions-win-37ji)
+- [Exploring Angular v18: Zoneless Change Detection and More](https://dev.to/dipakahirav/exploring-angular-v18-zoneless-change-detection-and-more-565)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
