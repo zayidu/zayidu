@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Elvis operator ?: vs Null coalescing operator](https://dev.to/thibaultchatelain/elvis-operator-vs-null-coalescing-operator-2l31)
-- [11 Tools To Improve Your Developer Experience by 10x 🚀](https://dev.to/latitude/11-tools-to-improve-your-developer-experience-by-10x-1f22)
-- [Learning flask and prepping for the end of boot camp](https://dev.to/bgeierbk/learning-flask-and-prepping-for-the-end-of-boot-camp-i25)
-- [CLI Games and Git struggles](https://dev.to/bgeierbk/cli-games-and-git-struggles-5gcp)
-- [The Ultimate beginners guide to open source – Part 2: Defeating the fear of contributing](https://dev.to/dunsincodes/the-ultimate-beginners-guide-to-open-source-part-2-defeating-the-fear-of-contributing-1olj)
+- [Notre retour &lpar;Build &amp; Deploy&rpar; sur Devoxx France 2024](https://dev.to/onepoint/notre-retour-build-deploy-sur-devoxx-france-2024-kg7)
+- [Buy Some Happiness This Summer! - Web Page](https://dev.to/sarmittal/buy-some-happiness-this-summer-web-page-202h)
+- [Implementing Semantic Caching using Qdrant and Rust](https://dev.to/shuttle_dev/implementing-semantic-caching-using-qdrant-and-rust-4nbj)
+- [Mastering Terraform Contains and Strcontains Functions](https://dev.to/heyvaldemar/mastering-terraform-contains-and-strcontains-functions-2l17)
+- [Network Visibility For Application Performance](https://dev.to/thenjdevopsguy/network-visibility-for-application-performance-4139)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
