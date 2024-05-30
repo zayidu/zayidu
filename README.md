@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Views vs. Materialized Views: What’s the Difference?](https://dev.to/dbvismarketing/views-vs-materialized-views-whats-the-difference-2e5b)
-- [My 1st Post! - Intro &amp; why I joined Dev.to](https://dev.to/ryoichihomma/my-1st-post-intro-why-i-joined-devto-ind)
-- [Enhancing Workstation Security with Single Sign-On &lpar;SSO&rpar; Solutions](https://dev.to/blogginger/enhancing-workstation-security-with-single-sign-on-sso-solutions-17jb)
-- [Telehealth Solutions on AWS: Connecting Patients and Providers](https://dev.to/sidrasaleem296/telehealth-solutions-on-aws-connecting-patients-and-providers-32i3)
-- [Generating Ideas and Driving them to completion](https://dev.to/moozzyk/generating-ideas-and-driving-them-to-completion-1l05)
+- [How Enabling Slow Query Log Enhances Postgres Observability](https://dev.to/metis/how-enabling-slow-query-log-enhances-postgres-observability-cpb)
+- [Mastering Clipboard Operations in JavaScript: A Guide to Copying Text with the Clipboard API](https://dev.to/iamcymentho/mastering-clipboard-operations-in-javascript-a-guide-to-copying-text-with-the-clipboard-api-180k)
+- [&quot;The ChatGPT: The Ultimate Roller-coaster of AI&quot;](https://dev.to/tanisha_chopra_15/the-chatgpt-the-ultimate-roller-coaster-of-ai-447m)
+- [When I had no ideas for writing a paper, I found a useful tool](https://dev.to/writegoai/when-i-had-no-ideas-for-writing-a-paper-i-found-a-useful-tool-3236)
+- [We have to talk about Dev](https://dev.to/shalaw_fatah_09a3aef863eb/we-have-to-talk-about-dev-3g0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
