@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Search Accuracy with RRF&lpar;Reciprocal Rank Fusion&rpar; in Alibaba Cloud Elasticsearch 8.x](https://dev.to/a_lucas/enhancing-search-accuracy-with-rrfreciprocal-rank-fusion-in-alibaba-cloud-elasticsearch-8x-2i5l)
-- [Connecting to IRC with Halloy](https://dev.to/djdesu/connecting-to-irc-with-halloy-5i8)
-- [How Moonrepo Recognizes Project Languages](https://dev.to/suin/how-moonrepo-recognizes-project-languages-5ck5)
-- [How I became a better software engineer by using a visual knowledge management tool](https://dev.to/leonardoventurini/how-i-became-a-better-software-engineer-by-using-a-visual-knowledge-management-tool-33kf)
-- [C# dagi Method overload va Method group.](https://dev.to/farkhadk/c-dagi-method-overload-va-method-group-3p7k)
+- [Brute to Beaut](https://dev.to/snackcode/brute-to-beaut-1kb7)
+- [How to Control the Number of Concurrent Promises in JavaScript](https://dev.to/zacharylee/how-to-control-the-number-of-concurrent-promises-in-javascript-3mg8)
+- [Has tu README realmente útil](https://dev.to/jairofernandez/has-tu-readme-realmente-util-49ea)
+- [Display a phone &lpar;or any other PNG file&rpar; with a customizable background image and an optional dark theme](https://dev.to/lucassul/display-a-phone-or-any-other-png-file-with-a-customizable-background-image-and-an-optional-dark-theme-125c)
+- [10 modern Node.js runtime features to start using in 2024](https://dev.to/snyk/10-modern-nodejs-runtime-features-to-start-using-in-2024-4ek0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
