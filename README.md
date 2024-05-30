@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance Your Search Capabilities Using Algoboost as a Vector Store](https://dev.to/tshidisoisazi/enhance-your-search-capabilities-using-algoboost-as-a-vector-store-30ll)
-- [Concurrency Limit](https://dev.to/officialbidisha/concurrency-limit-1ajg)
-- [Take me to the beach Frontend Challenge: June Edition](https://dev.to/chintanonweb/take-me-to-the-beach-frontend-challenge-june-edition-1b5d)
-- [Scraper compania Blackline](https://dev.to/ale23yfm/scraper-compania-ccc)
-- [Understanding /var/run/docker.sock: The Key to Docker&#39;s Inner Workings 🐳](https://dev.to/piyushbagani15/understanding-varrundockersock-the-key-to-dockers-inner-workings-nm7)
+- [Go Lang Advance Concepts](https://dev.to/syedmuhammadaliraza/go-lang-advance-concepts-2dpi)
+- [What is DevOps?](https://dev.to/bhuvaneshwa/what-is-devops-36f6)
+- [Mastering React Hooks: Best Practices for Efficient and Maintainable Code](https://dev.to/shantih_palani/mastering-react-hooks-best-practices-for-efficient-and-maintainable-code-4mp5)
+- [Migrating a SQLite3 Database to PostgreSQL in Dokku](https://dev.to/swanny85/migrating-a-sqlite3-database-to-postgresql-in-dokku-22j0)
+- [HOW TO SECURE A WINDOWS SERVER WITH IIS AND AZURE NETWORK SECURITY FEATURES](https://dev.to/droz79/how-to-secure-a-windows-server-with-iis-and-azure-network-security-features-1g8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
