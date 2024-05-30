@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🗳️ 5 Top Free Resources to Learn AWS Amplify](https://dev.to/evergrowingdev/5-top-free-resources-to-learn-aws-amplify-4pp9)
-- [Understanding CSS Units: px, rem, and em](https://dev.to/sidramaqbool/understanding-css-units-px-rem-and-em-390h)
-- [How To Make Money On The Side As A Developer](https://dev.to/sotergreco/how-to-make-money-on-the-side-as-a-developer-260h)
-- [Announcing DevTools Premium](https://dev.to/crabnebula/announcing-devtools-premium-5hc1)
-- [Implementing Role Based Access Control in SvelteKit](https://dev.to/permify/implementing-role-based-access-control-in-sveltekit-56hf)
+- [Build a QA Bot for your documentation with Langchain](https://dev.to/winglang/build-a-qa-bot-for-your-documentation-with-langchain-48g9)
+- [What is AWS Identity and Access Management &lpar;IAM&rpar;?](https://dev.to/jay_tillu/what-is-aws-identity-and-access-management-iam-39kp)
+- [Terraform for_each: Examples, Tips and Best Practices](https://dev.to/env0/terraform-foreach-examples-tips-and-best-practices-4847)
+- [Starting Your Journey into Generative AI: A Beginner&#39;s Guide](https://dev.to/aws-heroes/starting-your-journey-into-generative-ai-a-beginners-guide-27am)
+- [What is AWS Organization?](https://dev.to/jay_tillu/what-is-aws-organization-416o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
