@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Fast and Consistent Deployments with Terraform](https://dev.to/scottwrobinson/fast-and-consistent-deployments-with-terraform-43k)
+- [Building My First iOS Application](https://dev.to/emmanuellebe24/building-my-first-ios-application-4oba)
+- [[Game of Purpose] Day 12 - VCS thoughts](https://dev.to/humberd/game-of-purpose-day-12-vcs-thoughts-bdb)
 - [Dev: Embedded Systems](https://dev.to/r4nd3l/dev-embedded-systems-3l6h)
 - [Database Design](https://dev.to/brvarner/database-design-5g4j)
-- [app/&lpar;app&rpar; route group in shadcn-ui/ui](https://dev.to/ramunarasinga/appapp-route-group-in-shadcn-uiui-j3)
-- [Ruby Sinatra Bootstrap view accordion](https://dev.to/adolfonava/ruby-sinatra-bootstrap-view-accordion-2ok4)
-- [Ruby Sinatra Bootstrap view accordion](https://dev.to/adolfonava/ruby-sinatra-bootstrap-view-accordion-1ekk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
