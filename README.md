@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Design and Architecture: Understanding Their Roles and Challenges in Development](https://dev.to/mathsena/software-design-and-architecture-understanding-their-roles-and-challenges-in-development-4jkf)
-- [การป้องกันการทำให้สัตว์เลี้ยงหายออกจากบ้าน: วิธีการง่ายๆ ที่คุณสามารถทำได้](https://dev.to/poom-sci/kaarpngkankaarthamaihsatweliiynghaaykcchaakbaan-withiikaarngaay-thiikhunsaamaarththamaid-31pf)
-- [실시간 GitHub 대시보드 커밋 추적하기](https://dev.to/pubnub-ko/silsigan-github-daesibodeu-keomis-cujeoghagi-39fc)
-- [Conquer Your Cloud Bill: Mastering Azure Cost Optimization](https://dev.to/unicloud/conquer-your-cloud-bill-mastering-azure-cost-optimization-4o7k)
-- [Śledzenie zatwierdzeń na pulpicie nawigacyjnym GitHub w czasie rzeczywistym](https://dev.to/pubnub-pl/sledzenie-zatwierdzen-na-pulpicie-nawigacyjnym-github-w-czasie-rzeczywistym-5a7b)
+- [#1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://dev.to/karleb/1442-count-triplets-that-can-form-two-arrays-of-equal-xor-2lp1)
+- [Frontend Challenge June Edition - Take me to the beach](https://dev.to/shantih_palani/frontend-challenge-june-edition-take-me-to-the-beach-2h6h)
+- [Learn React composition in 15 minutes](https://dev.to/lgtome/react-components-composition-2djl)
+- [Creating a Smaller Docker Image: A Practical Guide](https://dev.to/nmend/creating-a-smaller-docker-image-a-practical-guide-17b)
+- [Defer Statements in Go: A Short Crash Course](https://dev.to/blazingbits/defer-statements-in-go-a-short-crash-course-3khl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
