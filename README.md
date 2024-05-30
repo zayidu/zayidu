@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a QA Bot for your documentation with Langchain](https://dev.to/winglang/build-a-qa-bot-for-your-documentation-with-langchain-48g9)
-- [What is AWS Identity and Access Management &lpar;IAM&rpar;?](https://dev.to/jay_tillu/what-is-aws-identity-and-access-management-iam-39kp)
-- [Terraform for_each: Examples, Tips and Best Practices](https://dev.to/env0/terraform-foreach-examples-tips-and-best-practices-4847)
-- [Starting Your Journey into Generative AI: A Beginner&#39;s Guide](https://dev.to/aws-heroes/starting-your-journey-into-generative-ai-a-beginners-guide-27am)
-- [What is AWS Organization?](https://dev.to/jay_tillu/what-is-aws-organization-416o)
+- [Use Self-Made Type Guard with TypeScript &quot;is&quot; Operator](https://dev.to/weseek-inc/use-self-made-type-guard-with-typescript-is-operator-13e6)
+- [Use WhatsApp com Python com nosso Package de maneira simples e totalmente local](https://dev.to/marco0antonio0/use-whatsapp-com-python-com-nosso-package-de-maneira-simples-e-totalmente-local-2obf)
+- [Make a Travel Website by Using Pure HTML CSS](https://dev.to/asheelahmedsiddiqui/submission-for-frontend-challenge-1mi8)
+- [How to Incorporate Animations and Micro interactions in Web Design](https://dev.to/robertadler/how-to-incorporate-animations-and-micro-interactions-in-web-design-308)
+- [Top 23 React UI Component Libraries for Your Next Project🚀](https://dev.to/dharamgfx/top-23-react-ui-component-libraries-for-your-next-project-924)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
