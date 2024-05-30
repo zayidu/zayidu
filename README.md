@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using the New Milvus-Lite](https://dev.to/tspannhw/using-the-new-milvus-lite-4dea)
-- [Using Milvus-Lite Now](https://dev.to/tspannhw/using-milvus-lite-now-4n59)
-- [Navigating Through the Nuances of Various Testing Types: Unit, Integration, and End-to-End Testing](https://dev.to/abhayit2000/navigating-through-the-nuances-of-various-testing-types-unit-integration-and-end-to-end-testing-2lkk)
-- [You’re reporting bugs like cavemen](https://dev.to/qvstio/youre-reporting-bugs-like-cavemen-5bko)
-- [Distributed validator technology with Obol Labs](https://dev.to/st1p3kolovrat/distributed-validator-technology-with-obol-labs-4d38)
+- [🗳️ 5 Top Free Resources to Learn AWS Amplify](https://dev.to/evergrowingdev/5-top-free-resources-to-learn-aws-amplify-4pp9)
+- [Understanding CSS Units: px, rem, and em](https://dev.to/sidramaqbool/understanding-css-units-px-rem-and-em-390h)
+- [How To Make Money On The Side As A Developer](https://dev.to/sotergreco/how-to-make-money-on-the-side-as-a-developer-260h)
+- [Announcing DevTools Premium](https://dev.to/crabnebula/announcing-devtools-premium-5hc1)
+- [Implementing Role Based Access Control in SvelteKit](https://dev.to/permify/implementing-role-based-access-control-in-sveltekit-56hf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
