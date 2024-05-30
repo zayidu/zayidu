@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Notre retour &lpar;Build &amp; Deploy&rpar; sur Devoxx France 2024](https://dev.to/onepoint/notre-retour-build-deploy-sur-devoxx-france-2024-kg7)
-- [Buy Some Happiness This Summer! - Web Page](https://dev.to/sarmittal/buy-some-happiness-this-summer-web-page-202h)
-- [Implementing Semantic Caching using Qdrant and Rust](https://dev.to/shuttle_dev/implementing-semantic-caching-using-qdrant-and-rust-4nbj)
-- [Mastering Terraform Contains and Strcontains Functions](https://dev.to/heyvaldemar/mastering-terraform-contains-and-strcontains-functions-2l17)
-- [Network Visibility For Application Performance](https://dev.to/thenjdevopsguy/network-visibility-for-application-performance-4139)
+- [Enhance Your Search Capabilities Using Algoboost as a Vector Store](https://dev.to/tshidisoisazi/enhance-your-search-capabilities-using-algoboost-as-a-vector-store-30ll)
+- [Concurrency Limit](https://dev.to/officialbidisha/concurrency-limit-1ajg)
+- [Take me to the beach Frontend Challenge: June Edition](https://dev.to/chintanonweb/take-me-to-the-beach-frontend-challenge-june-edition-1b5d)
+- [Scraper compania Blackline](https://dev.to/ale23yfm/scraper-compania-ccc)
+- [Understanding /var/run/docker.sock: The Key to Docker&#39;s Inner Workings 🐳](https://dev.to/piyushbagani15/understanding-varrundockersock-the-key-to-dockers-inner-workings-nm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
