@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast and Consistent Deployments with Terraform](https://dev.to/scottwrobinson/fast-and-consistent-deployments-with-terraform-43k)
-- [Building My First iOS Application](https://dev.to/emmanuellebe24/building-my-first-ios-application-4oba)
-- [[Game of Purpose] Day 12 - VCS thoughts](https://dev.to/humberd/game-of-purpose-day-12-vcs-thoughts-bdb)
-- [Dev: Embedded Systems](https://dev.to/r4nd3l/dev-embedded-systems-3l6h)
-- [Database Design](https://dev.to/brvarner/database-design-5g4j)
+- [Open AI with Vercel: Solution to Gateway Timeouts](https://dev.to/buildwebcrumbs/open-ai-with-vercel-a-way-around-gateway-timeouts-1ec9)
+- [HELP ME](https://dev.to/msalman12345/help-me-2o9c)
+- [AWS DevOps Projects List 2024](https://dev.to/aws-builders/aws-devops-projects-list-2024-41fn)
+- [AWS Cost Optimization To-Do List](https://dev.to/nmend/aws-cost-optimization-to-do-list-21a1)
+- [Live Coding React Interview Questions](https://dev.to/allenarduino/live-coding-react-interview-questions-2ndh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
