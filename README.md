@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1: Unveiling Flutter - Understanding Its Architecture and Core Components](https://dev.to/amanda_guan_582314203565d/day-1-unveiling-flutter-understanding-its-architecture-and-core-components-5g88)
-- [How to Over Engineer a Todo App &lpar;The Zenith Gradient Algorithm&rpar;](https://dev.to/skyjaheim2/how-to-over-engineer-a-todo-app-the-zenith-gradient-algorithm-fc2)
-- [Guia de React re-render: tudo, tudo de uma vez](https://dev.to/dougsource/guia-de-react-re-render-tudo-tudo-de-uma-vez-22ai)
-- [Professional Java Developer Ready to Elevate Your Projects](https://dev.to/shashank_naroliya_c356e96/professional-java-developer-ready-to-elevate-your-projects-1dam)
-- [JS Data types &lpar;Ma&#39;lumot turlari&rpar;](https://dev.to/muxiddin/js-data-types-malumot-turlari-3obk)
+- [Important Terminologies in JavaScript](https://dev.to/bhavesh_jadhav_dc5b8ed28b/important-terminologies-in-javascript-4cp6)
+- [Babylon.js Browser MMO - DevLog - Update #1 - Rewriting to ECS framework](https://dev.to/maiu/babylonjs-browser-mmo-devlog-update-1-rewriting-to-ecs-framework-1pme)
+- [Essential Helper Functions for Your JavaScript Projects](https://dev.to/timmy471/essential-helper-functions-for-your-javascript-projects-4n5f)
+- [AWS CloudEndure Migration: Seamlessly Transitioning Workloads to the Cloud](https://dev.to/sudoconsultants/aws-cloudendure-migration-seamlessly-transitioning-workloads-to-the-cloud-32am)
+- [RSC: Back to the Server](https://dev.to/adebayoileri/rsc-back-to-the-server-3h20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
