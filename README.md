@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Software is Couture: Tailoring Technology to Individual Needs](https://dev.to/shieldstring/the-future-of-software-is-couture-tailoring-technology-to-individual-needs-30aj)
-- [Generics in Rust: visualizing Bezier curves in a Jupyter notebook -- Part 3](https://dev.to/iprosk/generics-in-rust-visualizing-bezier-curves-in-a-jupyter-notebook-part-3-565n)
-- [Crafting a Cohesive UI Color Palette: A Step-by-Step Guide😬👀](https://dev.to/sahilshityalkar/crafting-a-cohesive-ui-color-palette-a-step-by-step-guide-48bp)
-- [AI and Developers: Positive Impacts, Concerns, and Solutions](https://dev.to/kukhoonryou/ai-and-developers-positive-impacts-concerns-and-solutions-48ie)
-- [Enhance Insights with Azure Digital Twin Integrations into Azure Services](https://dev.to/nicholajones075/enhance-insights-with-azure-digital-twin-integrations-into-azure-services-3jec)
+- [The Four P’s of Platform Engineering for Prosperity](https://dev.to/getambassador2024/the-four-ps-of-platform-engineering-for-prosperity-25pb)
+- [What is Interaction to Next Paint &lpar;INP&rpar; and Why is it important for FE dev?](https://dev.to/uttu316/what-is-interaction-to-next-paint-inp-and-why-is-it-important-for-fe-dev-1hka)
+- [Autonomous Software Development is here!](https://dev.to/akkiprime/autonomous-software-development-is-here-460i)
+- [Think Atomic: Break Complex UI Into React Components For Better Design](https://dev.to/mroman7/think-atomic-break-complex-ui-into-react-components-for-better-design-41c7)
+- [Introduction to Full Stack Development](https://dev.to/suhaspalani/introduction-to-full-stack-development-2bj9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
