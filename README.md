@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API Integration: A Game-Changer for Your Business](https://dev.to/apidna/api-integration-a-game-changer-for-your-business-59il)
-- [how to use navbar in react ant design 5](https://dev.to/aaronnfs/how-to-use-navbar-in-react-ant-design-5-1bfp)
-- [Why My Rubber Duck Quit on Me: A Developer’s Tale](https://dev.to/buildwebcrumbs/why-my-rubber-duck-quit-on-me-a-developers-tale-3op4)
-- [Web ou App? Qual o melhor para criar em Flutter?](https://dev.to/suamirochadev/web-ou-app-qual-o-melhor-para-criar-em-flutter-4oio)
-- [Privacy Assured: Inside Crawlbase&#39;s Data Security and Privacy](https://dev.to/crawlbase/privacy-assured-inside-crawlbases-data-security-and-privacy-38ki)
+- [How I Manage to Do Everything I Love: Time Blocking Tips and Personal Insights](https://dev.to/per-starke-642/how-i-manage-to-do-everything-i-love-time-blocking-tips-and-personal-insights-2pen)
+- [Decorating with React and TypeScript](https://dev.to/abglassford/decorating-with-react-and-typescript-237p)
+- [How to secure a WordPress site: auditing and monitoring tools](https://dev.to/ispmanager_com/how-to-secure-a-wordpress-site-auditing-and-monitoring-tools-4ba9)
+- [HOW TO CONNECT AN INTERNET OF THINGS &lpar;IoT&rpar; TO RASPBERRY PI SIMULATOR IN AZURE CLOUD THROUGH IoT HUB FOR COMMUNICATION AND DATA](https://dev.to/latoniw/how-to-connect-an-internet-of-things-iot-to-raspberry-pi-simulator-in-azure-cloud-through-iot-hub-for-communication-and-data-7ek)
+- [Day 1 of 30](https://dev.to/francis_ngugi/day-1-of-30-2oed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
