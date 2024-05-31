@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Guide to SQL Operators](https://dev.to/kellyblaire/comprehensive-guide-to-sql-operators-1l81)
-- [AWS DataSync Accelerating Data Transfer for Software and Hardware Teams](https://dev.to/sudoconsultants/aws-datasync-accelerating-data-transfer-for-software-and-hardware-teams-3d2c)
-- [“Mail” example in shadcn-ui/ui manages state using Jotai.](https://dev.to/ramunarasinga/mail-example-in-shadcn-uiui-manages-state-using-jotai-5bb8)
-- [I built a React Native Boilerplate to ship your apps faster🚀](https://dev.to/rudolfsrijkuris/i-built-a-react-native-boilerplate-to-ship-your-apps-faster-2246)
-- [Upstream preview: Life after the xz utils backdoor hack](https://dev.to/tidelift/upstream-preview-life-after-the-xz-utils-backdoor-hack-3m3l)
+- [How to build a fully-fledged telegram bot in Python](https://dev.to/emiloju/how-to-build-a-fully-fledged-telegram-bot-in-python-2al0)
+- [On VSCode, how to open the selected folder from Explorer view into the current open terminal &lpar;without opening a new one&rpar;?](https://dev.to/eduardohilariodev/on-vscode-how-to-open-the-selected-folder-from-explorer-view-into-the-current-open-terminal-without-opening-a-new-one-2d93)
+- [Cloud Resume Challenge - Chunk 3](https://dev.to/brianhaas/cloud-resume-challenge-chunk-3-4ana)
+- [Node.js is not single-threaded](https://dev.to/nowaliraza/nodejs-is-not-single-threaded-2i1l)
+- [Why Are You Here?](https://dev.to/belsabbagh/why-are-you-here-1ili)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
