@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory-efficient mass data transfer between Excel and database using Apache POI, Spring Event, Async Threads](https://dev.to/andrewkangg/memory-efficient-mass-data-transfer-between-excel-and-database-using-apache-poi-spring-event-async-threads-3ejc)
-- [Day 5 of Machine Learning|| Exploratory Data Analysis Part 2](https://dev.to/ngneha09/day-5-of-machine-learning-exploratory-data-analysis-part-2-2afl)
-- [Cool Tools &amp; Hot Trends: Generative AI &amp; Smart Scraping](https://dev.to/shreyvijayvargiya/cool-tools-hot-trends-generative-ai-smart-scraping-3lg)
-- [AR Game ~Research of AR Foundation~](https://dev.to/takeda1411123/ar-game-research-of-ar-foundation-13eg)
-- [Sparky - simple and efficient alternative to Ansible](https://dev.to/melezhik/sparky-simple-and-efficient-alternative-to-ansible-1fod)
+- [Easy Web3 Coding: The Ultimate Tool You Need For DApp Development — TransactionKit](https://dev.to/etherspot/easy-web3-coding-the-ultimate-tool-you-need-for-dapp-development-transactionkit-5ded)
+- [RSA Conference 2024: AI and the Future Of Security](https://dev.to/gitguardian/rsa-conference-2024-ai-and-the-future-of-security-5463)
+- [JavaScript Geolocation Tracking mit Google Maps API](https://dev.to/pubnub-de/javascript-geolocation-tracking-mit-google-maps-api-1e41)
+- [🎯 Strategies for Effective Urgent Ticket Classification](https://dev.to/kibumpng/strategies-for-effective-urgent-ticket-classification-3ian)
+- [How to Use CI/CD for Software Development in 2024?](https://dev.to/remotebase/how-to-use-cicd-for-software-development-in-2024-1f2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
