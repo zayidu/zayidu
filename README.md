@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scroll to the end of x bookmarks](https://dev.to/luisgmoreno/scroll-to-the-end-of-x-bookmarks-3m8d)
-- [Building My Trips Sharing App in Just One Week with React Native and Supabase](https://dev.to/zeeshanhshaheen/building-my-trips-sharing-app-in-just-one-week-with-react-native-and-supabase-2ked)
-- [managing product manager relationship with you](https://dev.to/kevin074/managing-product-manager-relationship-with-you-1gc6)
-- [The Ultimate Guide to Vue 3 Composition API: Tips and Best Practices](https://dev.to/delia_code/the-ultimate-guide-to-vue-3-composition-api-tips-and-best-practices-54a6)
-- [Learn CSS BOX MODEL](https://dev.to/jitendrachoudhary/learn-css-box-model-mgh)
+- [Day 1: Unveiling Flutter - Understanding Its Architecture and Core Components](https://dev.to/amanda_guan_582314203565d/day-1-unveiling-flutter-understanding-its-architecture-and-core-components-5g88)
+- [How to Over Engineer a Todo App &lpar;The Zenith Gradient Algorithm&rpar;](https://dev.to/skyjaheim2/how-to-over-engineer-a-todo-app-the-zenith-gradient-algorithm-fc2)
+- [Guia de React re-render: tudo, tudo de uma vez](https://dev.to/dougsource/guia-de-react-re-render-tudo-tudo-de-uma-vez-22ai)
+- [Professional Java Developer Ready to Elevate Your Projects](https://dev.to/shashank_naroliya_c356e96/professional-java-developer-ready-to-elevate-your-projects-1dam)
+- [JS Data types &lpar;Ma&#39;lumot turlari&rpar;](https://dev.to/muxiddin/js-data-types-malumot-turlari-3obk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
