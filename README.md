@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Four P’s of Platform Engineering for Prosperity](https://dev.to/getambassador2024/the-four-ps-of-platform-engineering-for-prosperity-25pb)
-- [What is Interaction to Next Paint &lpar;INP&rpar; and Why is it important for FE dev?](https://dev.to/uttu316/what-is-interaction-to-next-paint-inp-and-why-is-it-important-for-fe-dev-1hka)
-- [Autonomous Software Development is here!](https://dev.to/akkiprime/autonomous-software-development-is-here-460i)
-- [Think Atomic: Break Complex UI Into React Components For Better Design](https://dev.to/mroman7/think-atomic-break-complex-ui-into-react-components-for-better-design-41c7)
-- [Introduction to Full Stack Development](https://dev.to/suhaspalani/introduction-to-full-stack-development-2bj9)
+- [Understanding JavaScript Object Accessors](https://dev.to/jps27cse/understanding-javascript-object-accessors-3i25)
+- [A Beginner’s Guide to Using Vuex](https://dev.to/delia_code/a-beginners-guide-to-using-vuex-4egh)
+- [Querying DNS Records with PowerShell](https://dev.to/techielass/querying-dns-records-with-powershell-35pp)
+- [Search a 2D Matrix | LeetCode | Java](https://dev.to/tanujav/search-a-2d-matrix-leetcode-java-1e1n)
+- [Handling Events and Forms in React.js](https://dev.to/erasmuskotoka/handling-events-and-forms-in-reactjs-4mm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
