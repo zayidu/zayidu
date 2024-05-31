@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Important Terminologies in JavaScript](https://dev.to/bhavesh_jadhav_dc5b8ed28b/important-terminologies-in-javascript-4cp6)
-- [Babylon.js Browser MMO - DevLog - Update #1 - Rewriting to ECS framework](https://dev.to/maiu/babylonjs-browser-mmo-devlog-update-1-rewriting-to-ecs-framework-1pme)
-- [Essential Helper Functions for Your JavaScript Projects](https://dev.to/timmy471/essential-helper-functions-for-your-javascript-projects-4n5f)
-- [AWS CloudEndure Migration: Seamlessly Transitioning Workloads to the Cloud](https://dev.to/sudoconsultants/aws-cloudendure-migration-seamlessly-transitioning-workloads-to-the-cloud-32am)
-- [RSC: Back to the Server](https://dev.to/adebayoileri/rsc-back-to-the-server-3h20)
+- [Comprehensive Guide to SQL Operators](https://dev.to/kellyblaire/comprehensive-guide-to-sql-operators-1l81)
+- [AWS DataSync Accelerating Data Transfer for Software and Hardware Teams](https://dev.to/sudoconsultants/aws-datasync-accelerating-data-transfer-for-software-and-hardware-teams-3d2c)
+- [“Mail” example in shadcn-ui/ui manages state using Jotai.](https://dev.to/ramunarasinga/mail-example-in-shadcn-uiui-manages-state-using-jotai-5bb8)
+- [I built a React Native Boilerplate to ship your apps faster🚀](https://dev.to/rudolfsrijkuris/i-built-a-react-native-boilerplate-to-ship-your-apps-faster-2246)
+- [Upstream preview: Life after the xz utils backdoor hack](https://dev.to/tidelift/upstream-preview-life-after-the-xz-utils-backdoor-hack-3m3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
