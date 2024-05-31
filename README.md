@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Manage to Do Everything I Love: Time Blocking Tips and Personal Insights](https://dev.to/per-starke-642/how-i-manage-to-do-everything-i-love-time-blocking-tips-and-personal-insights-2pen)
-- [Decorating with React and TypeScript](https://dev.to/abglassford/decorating-with-react-and-typescript-237p)
-- [How to secure a WordPress site: auditing and monitoring tools](https://dev.to/ispmanager_com/how-to-secure-a-wordpress-site-auditing-and-monitoring-tools-4ba9)
-- [HOW TO CONNECT AN INTERNET OF THINGS &lpar;IoT&rpar; TO RASPBERRY PI SIMULATOR IN AZURE CLOUD THROUGH IoT HUB FOR COMMUNICATION AND DATA](https://dev.to/latoniw/how-to-connect-an-internet-of-things-iot-to-raspberry-pi-simulator-in-azure-cloud-through-iot-hub-for-communication-and-data-7ek)
-- [Day 1 of 30](https://dev.to/francis_ngugi/day-1-of-30-2oed)
+- [JS Versialar haqida ma&#39;lumot](https://dev.to/muxiddin/js-versialar-haqida-malumot-dgd)
+- [Distributed Snapshots: Chandy-Lamport protocol](https://dev.to/federico_ponzi/distributed-snapshots-chandy-lamport-protocol-32o7)
+- [Upstream preview: Secure by design with Aeva Black and Jack Cable from CISA](https://dev.to/tidelift/upstream-preview-secure-by-design-with-aeva-black-and-jack-cable-from-cisa-182h)
+- [NFTGo Platform: Features, Usage, and Benefits](https://dev.to/getblockapi/nftgo-platform-features-usage-and-benefits-24ko)
+- [Probability for Data Science and Machine Learning](https://dev.to/harshm03/probability-for-data-science-and-machine-learning-5ef4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
