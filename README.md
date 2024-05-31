@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [1. Concorrência Java: Threads! Processando em Paralelo e Ganhando Throughput](https://dev.to/kauegatto/1-concorrencia-java-threads-processando-em-paralelo-e-ganhando-throughput-426)
+- [Glam Up My Markup: Beaches](https://dev.to/altafsyah/glam-up-my-markup-beaches-4hfg)
+- [Next.js: Simple Example using revalidateTag](https://dev.to/jonathan-dev/nextjs-simple-example-using-revalidatetag-41f5)
+- [Why You Should Choose TypeScript Over JavaScript](https://dev.to/vyan/why-you-should-choose-typescript-over-javascript-d5m)
 - [Azure - Building Multimodal Generative Experiences. Part 2](https://dev.to/manjunani/azure-building-multimodal-generative-experiences-part-2-i3)
-- [How To Tell An Amateur Programmer From a Professional](https://dev.to/thekarlesi/how-to-tell-an-amateur-programmer-from-a-professional-1dnn)
-- [Dev Archetypes: How to Recognize Yours and Leverage It](https://dev.to/jeriel/dev-archetypes-how-to-recognize-yours-and-leverage-it-3o4o)
-- [First Glance at Ansible](https://dev.to/feng_wei/first-glance-at-ansible-3522)
-- [How to host your Next14 app on Netlify in 2 minutes](https://dev.to/joeskills/how-to-host-your-next14-app-on-netlify-in-2-minutes-566f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
