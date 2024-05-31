@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet MajorDom: a smart home of the future that is really smart](https://dev.to/markparker5/meet-majordom-a-smart-home-of-the-future-that-is-really-smart-22gk)
-- [Build Serverless Application In AWS](https://dev.to/anson_ly/build-serverless-application-in-aws-4b2i)
-- [Book Synopsis &amp; Review - Docs Like Code](https://dev.to/dreamlogic/book-synopsis-review-docs-like-code-5g7c)
-- [Open AI with Vercel: Solution to Gateway Timeouts](https://dev.to/buildwebcrumbs/open-ai-with-vercel-a-way-around-gateway-timeouts-1ec9)
-- [What programming language would be dealing more with AI?](https://dev.to/gaebh/what-programming-language-would-be-dealing-more-with-ai-kgh)
+- [Azure - Building Multimodal Generative Experiences. Part 2](https://dev.to/manjunani/azure-building-multimodal-generative-experiences-part-2-i3)
+- [How To Tell An Amateur Programmer From a Professional](https://dev.to/thekarlesi/how-to-tell-an-amateur-programmer-from-a-professional-1dnn)
+- [Dev Archetypes: How to Recognize Yours and Leverage It](https://dev.to/jeriel/dev-archetypes-how-to-recognize-yours-and-leverage-it-3o4o)
+- [First Glance at Ansible](https://dev.to/feng_wei/first-glance-at-ansible-3522)
+- [How to host your Next14 app on Netlify in 2 minutes](https://dev.to/joeskills/how-to-host-your-next14-app-on-netlify-in-2-minutes-566f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
