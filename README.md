@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JS Versialar haqida ma&#39;lumot](https://dev.to/muxiddin/js-versialar-haqida-malumot-dgd)
-- [Distributed Snapshots: Chandy-Lamport protocol](https://dev.to/federico_ponzi/distributed-snapshots-chandy-lamport-protocol-32o7)
-- [Upstream preview: Secure by design with Aeva Black and Jack Cable from CISA](https://dev.to/tidelift/upstream-preview-secure-by-design-with-aeva-black-and-jack-cable-from-cisa-182h)
-- [NFTGo Platform: Features, Usage, and Benefits](https://dev.to/getblockapi/nftgo-platform-features-usage-and-benefits-24ko)
-- [Probability for Data Science and Machine Learning](https://dev.to/harshm03/probability-for-data-science-and-machine-learning-5ef4)
+- [Scroll to the end of x bookmarks](https://dev.to/luisgmoreno/scroll-to-the-end-of-x-bookmarks-3m8d)
+- [Building My Trips Sharing App in Just One Week with React Native and Supabase](https://dev.to/zeeshanhshaheen/building-my-trips-sharing-app-in-just-one-week-with-react-native-and-supabase-2ked)
+- [managing product manager relationship with you](https://dev.to/kevin074/managing-product-manager-relationship-with-you-1gc6)
+- [The Ultimate Guide to Vue 3 Composition API: Tips and Best Practices](https://dev.to/delia_code/the-ultimate-guide-to-vue-3-composition-api-tips-and-best-practices-54a6)
+- [Learn CSS BOX MODEL](https://dev.to/jitendrachoudhary/learn-css-box-model-mgh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
