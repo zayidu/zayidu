@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Monthly Challenge: Mid-Year Check-In — Recharge and Refocus for an Amazing Second Half!](https://dev.to/virtualcoffee/monthly-challenge-mid-year-check-in-recharge-and-refocus-for-an-amazing-second-half-2k4c)
-- [Top Ionic Interview Questions and Answers](https://dev.to/lalyadav/top-ionic-interview-questions-and-answers-46gh)
-- [Kubernetes Deployment Best Practices: Ensuring Stability and Scalability](https://dev.to/rachgrey/kubernetes-deployment-best-practices-ensuring-stability-and-scalability-14e6)
-- [Anonymous functions in JavaScript](https://dev.to/vman_eesh/anonymous-functions-in-javascript-17b4)
-- [10 Pro Tips for Setting Up Your Large Computer Monitor for Ultimate Comfort](https://dev.to/trammygombez/10-pro-tips-for-setting-up-your-large-computer-monitor-for-ultimate-comfort-58md)
+- [Mastering JavaScript Loops🔁: for, for...in, for...of, and forEach.🚀](https://dev.to/dharamgfx/mastering-javascript-loops-for-forin-forof-and-foreach-1ded)
+- [Ultimate Guide to Basic Server Types](https://dev.to/kernelrb/ultimate-guide-to-basic-server-types-56i1)
+- [TailwindCSS | Group Selector](https://dev.to/shubhamtiwari909/tailwindcss-group-focus-4pao)
+- [Part 3 Angular&#39;s ngOnInit: Your Key to Component Initialization Excellence](https://dev.to/chintanonweb/part-3-angulars-ngoninit-your-key-to-component-initialization-excellence-11gm)
+- [How to track your Jira todos and accomplishments](https://dev.to/sdotson/how-to-track-your-jira-todos-and-accomplishments-1920)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
