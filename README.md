@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JavaScript Loops🔁: for, for...in, for...of, and forEach.🚀](https://dev.to/dharamgfx/mastering-javascript-loops-for-forin-forof-and-foreach-1ded)
-- [Ultimate Guide to Basic Server Types](https://dev.to/kernelrb/ultimate-guide-to-basic-server-types-56i1)
-- [TailwindCSS | Group Selector](https://dev.to/shubhamtiwari909/tailwindcss-group-focus-4pao)
-- [Part 3 Angular&#39;s ngOnInit: Your Key to Component Initialization Excellence](https://dev.to/chintanonweb/part-3-angulars-ngoninit-your-key-to-component-initialization-excellence-11gm)
-- [How to track your Jira todos and accomplishments](https://dev.to/sdotson/how-to-track-your-jira-todos-and-accomplishments-1920)
+- [Memory-efficient mass data transfer between Excel and database using Apache POI, Spring Event, Async Threads](https://dev.to/andrewkangg/memory-efficient-mass-data-transfer-between-excel-and-database-using-apache-poi-spring-event-async-threads-3ejc)
+- [Day 5 of Machine Learning|| Exploratory Data Analysis Part 2](https://dev.to/ngneha09/day-5-of-machine-learning-exploratory-data-analysis-part-2-2afl)
+- [Cool Tools &amp; Hot Trends: Generative AI &amp; Smart Scraping](https://dev.to/shreyvijayvargiya/cool-tools-hot-trends-generative-ai-smart-scraping-3lg)
+- [AR Game ~Research of AR Foundation~](https://dev.to/takeda1411123/ar-game-research-of-ar-foundation-13eg)
+- [Sparky - simple and efficient alternative to Ansible](https://dev.to/melezhik/sparky-simple-and-efficient-alternative-to-ansible-1fod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
