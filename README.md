@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging Multicore Processors &lpar;M1 &amp; M2&rpar; for Delay Sensitive Audio Application Development in MacOS](https://dev.to/mrasyadc/leveraging-multicore-processors-m1-m2-for-delay-sensitive-audio-application-development-in-macos-26kn)
-- [Announcing an Open-Source 200-JavaScript Project List](https://dev.to/dk119819/announcing-an-open-source-200-javascript-project-list-58g4)
-- [🔍📊 Mastering the Magic: Algorithms &amp; Data Structures in Programming ✨](https://dev.to/learn_with_santosh/mastering-the-magic-algorithms-data-structures-in-programming-3fjh)
-- [Dotenvx with Docker, the better way to manage project environment variables with secrets](https://dev.to/nullbio/dotenvx-with-docker-the-better-way-to-do-environment-variable-management-5c0n)
-- [Database Design](https://dev.to/codexy/database-design-2l1f)
+- [The Future of Software is Couture: Tailoring Technology to Individual Needs](https://dev.to/shieldstring/the-future-of-software-is-couture-tailoring-technology-to-individual-needs-30aj)
+- [Generics in Rust: visualizing Bezier curves in a Jupyter notebook -- Part 3](https://dev.to/iprosk/generics-in-rust-visualizing-bezier-curves-in-a-jupyter-notebook-part-3-565n)
+- [Crafting a Cohesive UI Color Palette: A Step-by-Step Guide😬👀](https://dev.to/sahilshityalkar/crafting-a-cohesive-ui-color-palette-a-step-by-step-guide-48bp)
+- [AI and Developers: Positive Impacts, Concerns, and Solutions](https://dev.to/kukhoonryou/ai-and-developers-positive-impacts-concerns-and-solutions-48ie)
+- [Enhance Insights with Azure Digital Twin Integrations into Azure Services](https://dev.to/nicholajones075/enhance-insights-with-azure-digital-twin-integrations-into-azure-services-3jec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
