@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A data analysis engine reducing application cost by N times](https://dev.to/esproc_spl/a-data-analysis-engine-reducing-application-cost-by-n-times-3ph6)
-- [Time Traveling Through Your Repo: Git Reset vs. Revert](https://dev.to/nguonodave/time-traveling-through-your-repo-git-reset-vs-revert-1en4)
-- [Moving Work from the Main Branch to a New Branch in Git](https://dev.to/mochafreddo/moving-work-from-the-main-branch-to-a-new-branch-in-git-o60)
-- [In Excel, Insert Group Headers to Detail Data Rows in Each Group](https://dev.to/judithliu677/in-excel-insert-group-headers-to-detail-data-rows-in-each-group-d7p)
-- [Spiner 0.1.3 beta | New Editor!](https://dev.to/eliaondacs/spiner-013-beta-new-editor-4428)
+- [MY Submission for dev/Frontend_Challenge June edition](https://dev.to/prakhar30/my-submission-for-devfrontendchallenge-june-edition-434n)
+- [Why migrate VB6 to .NET code in 2024](https://dev.to/abtosoftware/why-migrate-vb6-to-net-code-in-2024-1ni9)
+- [Critical CSS with NextJS](https://dev.to/focusreactive/critical-css-with-nextjs-3cia)
+- [#260. Single Number III](https://dev.to/karleb/260-single-number-iii-4npn)
+- [How to create urban discord command in python?](https://dev.to/ihazratummar/how-to-create-urban-discord-command-in-python-18kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
