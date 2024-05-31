@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Easy Web3 Coding: The Ultimate Tool You Need For DApp Development — TransactionKit](https://dev.to/etherspot/easy-web3-coding-the-ultimate-tool-you-need-for-dapp-development-transactionkit-5ded)
-- [RSA Conference 2024: AI and the Future Of Security](https://dev.to/gitguardian/rsa-conference-2024-ai-and-the-future-of-security-5463)
-- [JavaScript Geolocation Tracking mit Google Maps API](https://dev.to/pubnub-de/javascript-geolocation-tracking-mit-google-maps-api-1e41)
-- [🎯 Strategies for Effective Urgent Ticket Classification](https://dev.to/kibumpng/strategies-for-effective-urgent-ticket-classification-3ian)
-- [How to Use CI/CD for Software Development in 2024?](https://dev.to/remotebase/how-to-use-cicd-for-software-development-in-2024-1f2i)
+- [API Integration: A Game-Changer for Your Business](https://dev.to/apidna/api-integration-a-game-changer-for-your-business-59il)
+- [how to use navbar in react ant design 5](https://dev.to/aaronnfs/how-to-use-navbar-in-react-ant-design-5-1bfp)
+- [Why My Rubber Duck Quit on Me: A Developer’s Tale](https://dev.to/buildwebcrumbs/why-my-rubber-duck-quit-on-me-a-developers-tale-3op4)
+- [Web ou App? Qual o melhor para criar em Flutter?](https://dev.to/suamirochadev/web-ou-app-qual-o-melhor-para-criar-em-flutter-4oio)
+- [Privacy Assured: Inside Crawlbase&#39;s Data Security and Privacy](https://dev.to/crawlbase/privacy-assured-inside-crawlbases-data-security-and-privacy-38ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
