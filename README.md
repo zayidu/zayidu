@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [A data analysis engine reducing application cost by N times](https://dev.to/esproc_spl/a-data-analysis-engine-reducing-application-cost-by-n-times-3ph6)
+- [Time Traveling Through Your Repo: Git Reset vs. Revert](https://dev.to/nguonodave/time-traveling-through-your-repo-git-reset-vs-revert-1en4)
+- [Moving Work from the Main Branch to a New Branch in Git](https://dev.to/mochafreddo/moving-work-from-the-main-branch-to-a-new-branch-in-git-o60)
+- [In Excel, Insert Group Headers to Detail Data Rows in Each Group](https://dev.to/judithliu677/in-excel-insert-group-headers-to-detail-data-rows-in-each-group-d7p)
 - [Spiner 0.1.3 beta | New Editor!](https://dev.to/eliaondacs/spiner-013-beta-new-editor-4428)
-- [Creative ways to use Array.map&lpar;&rpar;](https://dev.to/aneeqakhan/creative-ways-to-use-arraymap-4ce1)
-- [Advanced MongoDB: Mastering Query Optimization and Complex Aggregations](https://dev.to/bilelsalemdev/advanced-mongodb-mastering-query-optimization-and-complex-aggregations-28gb)
-- [Need help in SvelteKit query based tab navigation.](https://dev.to/sarandha/need-help-in-sveltekit-query-based-tab-navigation-31id)
-- [Compatibility Testing to Create Perfectly Working Apps](https://dev.to/talenttinaapi/compatibility-testing-to-create-perfectly-working-apps-4ikd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
