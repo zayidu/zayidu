@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Unlock the Future of Quantum Computing: Your Ultimate Career Guide!](https://dev.to/futuristicgeeks/unlock-the-future-of-quantum-computing-your-ultimate-career-guide-2l6l)
-- [Use git pull --rebase origin develop when you pull latest develop branch](https://dev.to/takahiro_82jp/use-git-pull-rebase-origin-develop-when-you-pull-latest-develop-branch-gmi)
-- [Are Front-End and Back-End Developers Still Relevant in the Age of SaaS?](https://dev.to/jehnz/are-front-end-and-back-end-developers-still-relevant-in-the-age-of-saas-53g3)
-- [How to Use ChatGPT to Kickstart Your Project and Begin Your Journey as a Programmer](https://dev.to/homayunmmdy/how-to-use-chatgpt-to-kickstart-your-project-and-begin-your-journey-as-a-programmer-2kko)
-- [The proposed CSS @when/@else Rules](https://dev.to/nattive/the-proposed-css-whenelse-rules-1i9f)
+- [Lively Search Input with Animated Border Progress](https://dev.to/stefanak-michal/lively-search-input-with-animated-border-progress-37op)
+- [C# - Flatter structure vs Nested structure](https://dev.to/js123/c-flatter-structure-vs-nested-structure-3368)
+- [Optimizing Performance in Next.js 13+ Applications: Techniques for Faster Rendering](https://dev.to/codesensei/optimizing-performance-in-nextjs-13-applications-techniques-for-faster-rendering-1b6l)
+- [Integrate Slack with Jenkins to receive CICD pipeline notification](https://dev.to/rgupta87/integrate-slack-with-jenkins-to-receive-cicd-pipeline-notification-9mi)
+- [Using GPT4o for Learning and Practice Exams &lpar;SAFe Framework as example &rpar;](https://dev.to/devaaai/using-gpt4o-for-learning-and-practice-exams-safe-framework-as-example--330h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
