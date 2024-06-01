@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Crack the Code: Hosting Your Website on GitHub Pages](https://dev.to/angelika_jolly_4aa3821499/crack-the-code-hosting-your-website-on-github-pages-1na)
-- [How to compile, deploy and interact with smart contracts using Apeworx&lpar;ape&rpar; and VS Code.](https://dev.to/mosesmuwawu/how-to-compile-deploy-and-interact-with-smart-contracts-using-apeworxape-and-vs-code-4hie)
-- [Navigating the Cloud: My Journey through AWS Certification](https://dev.to/amitkolekar/navigating-the-cloud-my-journey-through-aws-certification-4p70)
-- [Python Basics 1: Variables](https://dev.to/coderanger08/python-basics-1-variables-1hf7)
-- [Glam Up My Markup: Beaches - with new shiny CSS features](https://dev.to/oleks/glam-up-my-markup-beaches-with-new-shiny-css-features-1di9)
+- [Currying in JavaScript](https://dev.to/mrhimanshusahni/currying-in-javascript-20d5)
+- [🌊 Glam Up My Markup: Beach Edition 🌴](https://dev.to/programordie/glam-up-my-markup-beach-edition-17d4)
+- [On Writing Good Code](https://dev.to/primalskill/on-writing-good-code-3p3f)
+- [Beaches and More Beaches](https://dev.to/salladshooter/beaches-and-more-beaches-epj)
+- [Three.js Code Generator](https://dev.to/tushar_sharma_a9e72b816e8/threejs-code-generator-1kck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
