@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a deep copy of a JS Object](https://dev.to/justanordinaryperson/creating-a-deep-copy-of-a-js-object-342e)
-- [Using VSCode for Web Development: HTML, CSS, and JavaScript](https://dev.to/umeshtharukaofficial/using-vscode-for-web-development-html-css-and-javascript-1jpb)
-- [# 5 Testing Frameworks for JavaScript Developers](https://dev.to/oyedeletemitope/-5-testing-frameworks-for-javascript-developers-cb6)
-- [[DAY 36-38] I Built An Ecommerce Webpage](https://dev.to/thomascansino/day-36-38-i-built-an-ecommerce-webpage-1be2)
-- [Join Us in Developing a Flutter Client for Mattermost with AI-Generated Code! 🚀](https://dev.to/princebansal/join-us-in-developing-a-flutter-client-for-mattermost-with-ai-generated-code-2d6h)
+- [Crack the Code: Hosting Your Website on GitHub Pages](https://dev.to/angelika_jolly_4aa3821499/crack-the-code-hosting-your-website-on-github-pages-1na)
+- [How to compile, deploy and interact with smart contracts using Apeworx&lpar;ape&rpar; and VS Code.](https://dev.to/mosesmuwawu/how-to-compile-deploy-and-interact-with-smart-contracts-using-apeworxape-and-vs-code-4hie)
+- [Navigating the Cloud: My Journey through AWS Certification](https://dev.to/amitkolekar/navigating-the-cloud-my-journey-through-aws-certification-4p70)
+- [Python Basics 1: Variables](https://dev.to/coderanger08/python-basics-1-variables-1hf7)
+- [Glam Up My Markup: Beaches - with new shiny CSS features](https://dev.to/oleks/glam-up-my-markup-beaches-with-new-shiny-css-features-1di9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
