@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PAT TASK 17 Selenium](https://dev.to/jalikatti/pat-task-17-selenium-4aae)
-- [Let&#39;s Start Exploring OOP without saying OOPS. #Day1](https://dev.to/developervignesh/lets-start-exploring-oop-without-saying-oops-day1-3c9e)
-- [Creating a Reusable Component in React: Handling Unlimited Future Changes](https://dev.to/nadeemkhanrtm/creating-a-reusable-component-in-react-handling-unlimited-future-changes-mgi)
-- [Dynamic Report Generation in Laravel: Introducing `laravel-dynamic-report-generator`](https://dev.to/md-sazzadul-islam/dynamic-report-generation-in-laravel-introducing-laravel-dynamic-report-generator-55ee)
-- [3110. Score of a String](https://dev.to/mdarifulhaque/3110-score-of-a-string-fbl)
+- [TLDR; Suspense in react-query](https://dev.to/thechaudhrysab/tldr-suspense-in-react-query-5f4c)
+- [EP-1: WTF is Spring Boot?](https://dev.to/0x4e43/ep-1-wtf-is-spring-boot-a31)
+- [Building Zerocalc, part I - rustc lexer and a lexer in rust](https://dev.to/michal1024/building-zerocalc-part-i-rustc-lexer-and-a-lexer-in-rust-3ipf)
+- [I&#39;m New To Flutter.](https://dev.to/lyzab/im-new-to-flutter-3j7g)
+- [How I made a drag-and-drop file uploader with Vue3 and Firebase](https://dev.to/pentektimi/how-i-made-a-drag-and-drop-file-uploader-with-vue3-and-firebase-1697)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
