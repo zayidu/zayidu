@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you understand what a Microservice or Monolith architecture is after all?](https://dev.to/sourabpramanik/how-do-you-understand-what-a-microservice-or-monolith-architecture-is-after-all-2i1o)
-- [I Got Rejected by Y Combinator This Week &#39;S24 😅](https://dev.to/omranic/i-got-rejected-by-y-combinator-this-week-s24-522c)
-- [How to create a beautiful square in HTML CSS No JS](https://dev.to/tidycoder/how-to-create-a-beautiful-square-in-html-css-no-js-i20)
-- [3 Tips to Use DEV Better](https://dev.to/mikeselva/3-tips-to-use-dev-better-1l7i)
-- [Solidity Alchemy - Course &lpar;ESCROW SMART CONTRACT&rpar;](https://dev.to/zuru122/solidity-alchemy-course-escrow-smart-contract-55ek)
+- [Building a Timer Chrome Plugin with ChatGPT: A Journey](https://dev.to/yordiverkroost/building-a-timer-chrome-plugin-with-chatgpt-a-journey-2dbg)
+- [minimal-mvc: Frugal PHP micro-framework with basic routing and templating](https://dev.to/prahladyeri/minimal-mvc-frugal-php-micro-framework-with-basic-routing-and-templating-157)
+- [🎨 Collection of Bento designs CSS &amp; Tailwind 🎨](https://dev.to/miguelrodriguezp99/collection-of-bento-designs-css-tailwind-171b)
+- [Security Features in Push Protocol: Ensuring Safe Communication](https://dev.to/luffy251/security-features-in-push-protocol-ensuring-safe-communication-3051)
+- [Day 2 of 30](https://dev.to/francis_ngugi/day-2-of-30-2bdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
