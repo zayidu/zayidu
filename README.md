@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mi primer Google I/O experience](https://dev.to/karmenatwork/mi-primer-google-io-experience-1d4k)
-- [Storing and Handling Confidential Data in ClickHouse](https://dev.to/ranjbaryshahab/storing-and-handling-confidential-data-in-clickhouse-2p04)
-- [Destructuring is Bad!](https://dev.to/imabhinavdev/destructuring-is-bad-4ioc)
-- [🚀 Innic —— Pioneering the AI SQL Revolution, Now Officially Launched!](https://dev.to/innicdata/innic-pioneering-the-ai-sql-revolution-now-officially-launched-51gp)
-- [Understanding JSON Web Tokens &lpar;JWT&rpar; and Their Use in Web Authentication](https://dev.to/vidyarathna/understanding-json-web-tokens-jwt-and-their-use-in-web-authentication-4oaj)
+- [Personal Free Open Source OpenAI-like GPT](https://dev.to/sein_digital/personal-free-open-source-openai-like-gpt-4an7)
+- [Particle Systems with Shaders: Creating particle systems for effects like fire, smoke, and magic spells.](https://dev.to/hayyanstudio/particle-systems-with-shaders-creating-particle-systems-for-effects-like-fire-smoke-and-magic-spells-1d74)
+- [Android Studio Jellyfish](https://dev.to/shubhadip_bhowmik/android-studio-jellyfish-5e8l)
+- [The DevRel Digest May 2024: Documentation and the Developer Journey](https://dev.to/lizzzzz/the-devrel-digest-may-2024-documentation-and-the-developer-journey-28m8)
+- [Why do I only see the private IP address when logged into an AWS EC2 instance?](https://dev.to/lakhera2015/why-do-i-only-see-the-private-ip-address-when-logged-into-an-aws-ec2-instance-11fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
