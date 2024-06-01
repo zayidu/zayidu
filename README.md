@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [REST API Design Rules](https://dev.to/ezekiel_77/rest-api-design-rules-2c4j)
+- [Introduction to EigenLayer](https://dev.to/gaj/introduction-to-eigenlayer-45ob)
+- [My Top 5 Favorite Algorithm Problems at Codewars](https://dev.to/zeedu_dev/my-top-5-favorite-algorithm-problems-at-codewars-545k)
+- [Por que o Dia 31 Causa Problemas e Como Solucioná-los](https://dev.to/yagocosta/por-que-o-dia-31-causa-problemas-e-como-soluciona-los-50ba)
 - [Need Suggestion](https://dev.to/abdullah_ali_eb8b6b0c2208/need-suggestion-2i8g)
-- [Take me to a Beach! T-T](https://dev.to/dhrutisubham03/take-me-to-a-beach-t-t-5c5a)
-- [What state management system should I use with React Query for my MERN Stack project?](https://dev.to/said96dev/what-state-management-system-should-i-use-with-react-query-for-my-mern-stack-project-40hi)
-- [The No-Cheat Code Challenge - Surviving The Odin Project](https://dev.to/codebyblazej/the-no-cheat-code-challenge-surviving-the-odin-project-2oaa)
-- [Error Boundary in React js](https://dev.to/imashwani/error-boundary-in-react-js-1n5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
