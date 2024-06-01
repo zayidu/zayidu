@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Timer Chrome Plugin with ChatGPT: A Journey](https://dev.to/yordiverkroost/building-a-timer-chrome-plugin-with-chatgpt-a-journey-2dbg)
-- [minimal-mvc: Frugal PHP micro-framework with basic routing and templating](https://dev.to/prahladyeri/minimal-mvc-frugal-php-micro-framework-with-basic-routing-and-templating-157)
-- [🎨 Collection of Bento designs CSS &amp; Tailwind 🎨](https://dev.to/miguelrodriguezp99/collection-of-bento-designs-css-tailwind-171b)
-- [Security Features in Push Protocol: Ensuring Safe Communication](https://dev.to/luffy251/security-features-in-push-protocol-ensuring-safe-communication-3051)
-- [Day 2 of 30](https://dev.to/francis_ngugi/day-2-of-30-2bdk)
+- [【Reducing costs】Automatically remove old docker container image using Artifact Registry cleanup policies](https://dev.to/yukionishi1129/reducing-costs-automatically-remove-old-docker-container-image-using-artifact-registry-cleanup-policies-734)
+- [🌟 Discover 5 Must-Have VSCode Extensions You Haven&#39;t Tried Yet](https://dev.to/g3nt/discover-5-must-have-vscode-extensions-you-havent-tried-yet-185m)
+- [Creating In-Video Search](https://dev.to/suyashthakur/creating-in-video-search-2lk3)
+- [Angular CDK Tutorial: Copy to Clipboard](https://dev.to/brianmtreese/angular-cdk-tutorial-copy-to-clipboard-3ked)
+- [Real-Time Notifications with WebSocket in Spring Boot](https://dev.to/fullstackjava/real-time-notifications-with-websocket-in-spring-boot-40ao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
