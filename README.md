@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Security Breach: Protect Yourself from Ransomware and Data Theft](https://dev.to/goktugerol/apple-security-breach-protect-yourself-from-ransomware-and-data-theft-1dg9)
-- [RESTful APIs: Fundamentos, Práticas e Implementação](https://dev.to/thiagohnrt/restful-apis-fundamentos-praticas-e-implementacao-gle)
-- [Unlocking Business Success: How DevOps Propels Profits for Companies, Big or Small](https://dev.to/arbythecoder/unlocking-business-success-how-devops-propels-profits-for-companies-big-or-small-4p0n)
-- [Announcing the Ultimate JavaScript Project List as Open Source](https://dev.to/dk119819/announcing-the-ultimate-javascript-project-list-as-open-source-24l4)
-- [Day1 #90daysofdevops](https://dev.to/oncloud7/day1-90daysofdevops-2pj0)
+- [Which Vector Database is the best?](https://dev.to/vectorize/which-vector-database-is-the-best-2anl)
+- [Por teoria ou por instinto.](https://dev.to/biosbug/por-teoria-ou-por-instinto-36mh)
+- [Securing your data](https://dev.to/stevetechie/securing-your-data-107n)
+- [Being Conceptual as a web developer](https://dev.to/stevetechie/being-conceptual-as-a-web-developer-fp2)
+- [FastAPI Beyond CRUD Part 5 - Databases With SQLModel &lpar;Connection, Lifespan Events, And Models&rpar;](https://dev.to/jod35/fastapi-beyond-crud-part-5-databases-with-sqlmodel-connection-lifespan-events-and-models-db2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
