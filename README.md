@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Object-Oriented Programming in Java](https://dev.to/kartikmehta8/advanced-object-oriented-programming-in-java-5a77)
-- [Why Spring Matters for Java Developers](https://dev.to/tiuwill/why-spring-matters-for-java-developers-2jf2)
-- [Practical advice for writing React Components](https://dev.to/lime517/practical-advice-for-writing-react-components-1o85)
-- [Project Stage 1: Preparation&lpar;part-1&rpar;](https://dev.to/yuktimulani/project-stage-1-preparationpart-1-4jad)
-- [Profile Card Using HTML CSS &amp; GSAP](https://dev.to/hussein09/profile-card-using-html-css-gsap-3bjl)
+- [Flower](https://dev.to/araguaci/flower-3oc3)
+- [Abstract Color Theme Tool](https://dev.to/araguaci/abstract-color-theme-tool-amj)
+- [An Easy Guide To Next14 Authentication With Kinde Auth](https://dev.to/joeskills/an-easy-guide-to-next14-authentication-with-kinde-auth-5f50)
+- [An Easy Guide To Next14 Authentication With Kinde Auth](https://dev.to/joeskills/an-easy-guide-to-next14-authentication-with-kinde-auth-2n41)
+- [How to setup ishaan1013/sandbox locally](https://dev.to/jamesmurdza/how-to-setup-ishaan1013sandbox-locally-503p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
