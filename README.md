@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Currying in JavaScript](https://dev.to/mrhimanshusahni/currying-in-javascript-20d5)
-- [🌊 Glam Up My Markup: Beach Edition 🌴](https://dev.to/programordie/glam-up-my-markup-beach-edition-17d4)
-- [On Writing Good Code](https://dev.to/primalskill/on-writing-good-code-3p3f)
-- [Beaches and More Beaches](https://dev.to/salladshooter/beaches-and-more-beaches-epj)
-- [Three.js Code Generator](https://dev.to/tushar_sharma_a9e72b816e8/threejs-code-generator-1kck)
+- [Apple Security Breach: Protect Yourself from Ransomware and Data Theft](https://dev.to/goktugerol/apple-security-breach-protect-yourself-from-ransomware-and-data-theft-1dg9)
+- [RESTful APIs: Fundamentos, Práticas e Implementação](https://dev.to/thiagohnrt/restful-apis-fundamentos-praticas-e-implementacao-gle)
+- [Unlocking Business Success: How DevOps Propels Profits for Companies, Big or Small](https://dev.to/arbythecoder/unlocking-business-success-how-devops-propels-profits-for-companies-big-or-small-4p0n)
+- [Announcing the Ultimate JavaScript Project List as Open Source](https://dev.to/dk119819/announcing-the-ultimate-javascript-project-list-as-open-source-24l4)
+- [Day1 #90daysofdevops](https://dev.to/oncloud7/day1-90daysofdevops-2pj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
