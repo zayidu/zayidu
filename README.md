@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Mi primer Google I/O experience](https://dev.to/karmenatwork/mi-primer-google-io-experience-1d4k)
+- [Storing and Handling Confidential Data in ClickHouse](https://dev.to/ranjbaryshahab/storing-and-handling-confidential-data-in-clickhouse-2p04)
+- [Destructuring is Bad!](https://dev.to/imabhinavdev/destructuring-is-bad-4ioc)
 - [🚀 Innic —— Pioneering the AI SQL Revolution, Now Officially Launched!](https://dev.to/innicdata/innic-pioneering-the-ai-sql-revolution-now-officially-launched-51gp)
 - [Understanding JSON Web Tokens &lpar;JWT&rpar; and Their Use in Web Authentication](https://dev.to/vidyarathna/understanding-json-web-tokens-jwt-and-their-use-in-web-authentication-4oaj)
-- [One JS Class to speak them all](https://dev.to/mobilepadawan/one-js-class-to-speak-them-all-dl1)
-- [Formulating Git Commit Message Best Practices](https://dev.to/cheikh_sadbouh_abd98924d6/formulating-git-commit-message-best-practices-1he)
-- [Cómo Exponer un Servicio Local a Internet Usando ngrok en una Mac](https://dev.to/olverarobertp/como-exponer-un-servicio-local-a-internet-usando-ngrok-en-una-mac-1o3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
