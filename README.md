@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Innic —— Pioneering the AI SQL Revolution, Now Officially Launched!](https://dev.to/innicdata/innic-pioneering-the-ai-sql-revolution-now-officially-launched-51gp)
+- [Understanding JSON Web Tokens &lpar;JWT&rpar; and Their Use in Web Authentication](https://dev.to/vidyarathna/understanding-json-web-tokens-jwt-and-their-use-in-web-authentication-4oaj)
+- [One JS Class to speak them all](https://dev.to/mobilepadawan/one-js-class-to-speak-them-all-dl1)
+- [Formulating Git Commit Message Best Practices](https://dev.to/cheikh_sadbouh_abd98924d6/formulating-git-commit-message-best-practices-1he)
 - [Cómo Exponer un Servicio Local a Internet Usando ngrok en una Mac](https://dev.to/olverarobertp/como-exponer-un-servicio-local-a-internet-usando-ngrok-en-una-mac-1o3c)
-- [Unlocking the Decentralized Future: Exploring Web3 Technology 🔓](https://dev.to/vyan/unlocking-the-decentralized-future-exploring-web3-technology-3l01)
-- [Introduction To Mathematical Thinking](https://dev.to/niladridas/introduction-to-mathematical-thinking-57mc)
-- [Flower](https://dev.to/araguaci/flower-3oc3)
-- [Abstract Color Theme Tool](https://dev.to/araguaci/abstract-color-theme-tool-amj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
