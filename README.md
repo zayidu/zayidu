@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [【Reducing costs】Automatically remove old docker container image using Artifact Registry cleanup policies](https://dev.to/yukionishi1129/reducing-costs-automatically-remove-old-docker-container-image-using-artifact-registry-cleanup-policies-734)
-- [🌟 Discover 5 Must-Have VSCode Extensions You Haven&#39;t Tried Yet](https://dev.to/g3nt/discover-5-must-have-vscode-extensions-you-havent-tried-yet-185m)
-- [Creating In-Video Search](https://dev.to/suyashthakur/creating-in-video-search-2lk3)
-- [Angular CDK Tutorial: Copy to Clipboard](https://dev.to/brianmtreese/angular-cdk-tutorial-copy-to-clipboard-3ked)
-- [Real-Time Notifications with WebSocket in Spring Boot](https://dev.to/fullstackjava/real-time-notifications-with-websocket-in-spring-boot-40ao)
+- [PAT TASK 17 Selenium](https://dev.to/jalikatti/pat-task-17-selenium-4aae)
+- [Let&#39;s Start Exploring OOP without saying OOPS. #Day1](https://dev.to/developervignesh/lets-start-exploring-oop-without-saying-oops-day1-3c9e)
+- [Creating a Reusable Component in React: Handling Unlimited Future Changes](https://dev.to/nadeemkhanrtm/creating-a-reusable-component-in-react-handling-unlimited-future-changes-mgi)
+- [Dynamic Report Generation in Laravel: Introducing `laravel-dynamic-report-generator`](https://dev.to/md-sazzadul-islam/dynamic-report-generation-in-laravel-introducing-laravel-dynamic-report-generator-55ee)
+- [3110. Score of a String](https://dev.to/mdarifulhaque/3110-score-of-a-string-fbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
