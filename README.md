@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey to Achieving the AWS Cloud Practitioner Badge](https://dev.to/yasodha_n_d0cc5b4deb74194/my-journey-to-achieving-the-aws-cloud-practitioner-badge-21ai)
-- [Scaling Your Storage Needs: A Deep Dive into AWS S3](https://dev.to/virajlakshitha/scaling-your-storage-needs-a-deep-dive-into-aws-s3-8bg)
-- [Take control! Run ChatGPT and Github Copilot yourself!](https://dev.to/sein_digital/personal-free-open-source-openai-like-gpt-4an7)
-- [Particle Systems with Shaders: Creating particle systems for effects like fire, smoke, and magic spells.](https://dev.to/hayyanstudio/particle-systems-with-shaders-creating-particle-systems-for-effects-like-fire-smoke-and-magic-spells-1d74)
-- [Android Studio Jellyfish](https://dev.to/shubhadip_bhowmik/android-studio-jellyfish-5e8l)
+- [My Journey Through the AWS Cloud Practitioner Course](https://dev.to/magesh_sri_2bf29ab9cdbbc8/my-journey-through-the-aws-cloud-practitioner-course-22if)
+- [Embarking on the AWS Cloud Quest: A Journey Towards Cloud Proficiency](https://dev.to/ishwarya_ishwarya_49961ca/embarking-on-the-aws-cloud-quest-a-journey-towards-cloud-proficiency-1gkj)
+- [Building Message Component in Vue3](https://dev.to/markliu2013/building-message-component-in-vue3-4b4d)
+- [Unlocking the Power of the Cloud: My Journey to AWS Cloud Practitioner Certification&quot;](https://dev.to/ayaz_mohammad_4ca3950e052/unlocking-the-power-of-the-cloud-my-journey-to-aws-cloud-practitioner-certification-3ofk)
+- [Navigating the Cloud: My Journey with AWS Cloud Quest Practitioner](https://dev.to/priyalakshmi_r_257b44ee43/navigating-the-cloud-my-journey-with-aws-cloud-quest-practitioner-50fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
