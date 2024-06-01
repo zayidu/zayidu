@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Cómo Exponer un Servicio Local a Internet Usando ngrok en una Mac](https://dev.to/olverarobertp/como-exponer-un-servicio-local-a-internet-usando-ngrok-en-una-mac-1o3c)
+- [Unlocking the Decentralized Future: Exploring Web3 Technology 🔓](https://dev.to/vyan/unlocking-the-decentralized-future-exploring-web3-technology-3l01)
+- [Introduction To Mathematical Thinking](https://dev.to/niladridas/introduction-to-mathematical-thinking-57mc)
 - [Flower](https://dev.to/araguaci/flower-3oc3)
 - [Abstract Color Theme Tool](https://dev.to/araguaci/abstract-color-theme-tool-amj)
-- [An Easy Guide To Next14 Authentication With Kinde Auth](https://dev.to/joeskills/an-easy-guide-to-next14-authentication-with-kinde-auth-5f50)
-- [An Easy Guide To Next14 Authentication With Kinde Auth](https://dev.to/joeskills/an-easy-guide-to-next14-authentication-with-kinde-auth-2n41)
-- [How to setup ishaan1013/sandbox locally](https://dev.to/jamesmurdza/how-to-setup-ishaan1013sandbox-locally-503p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
