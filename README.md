@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Personal Free Open Source OpenAI-like GPT](https://dev.to/sein_digital/personal-free-open-source-openai-like-gpt-4an7)
+- [My Journey to Achieving the AWS Cloud Practitioner Badge](https://dev.to/yasodha_n_d0cc5b4deb74194/my-journey-to-achieving-the-aws-cloud-practitioner-badge-21ai)
+- [Scaling Your Storage Needs: A Deep Dive into AWS S3](https://dev.to/virajlakshitha/scaling-your-storage-needs-a-deep-dive-into-aws-s3-8bg)
+- [Take control! Run ChatGPT and Github Copilot yourself!](https://dev.to/sein_digital/personal-free-open-source-openai-like-gpt-4an7)
 - [Particle Systems with Shaders: Creating particle systems for effects like fire, smoke, and magic spells.](https://dev.to/hayyanstudio/particle-systems-with-shaders-creating-particle-systems-for-effects-like-fire-smoke-and-magic-spells-1d74)
 - [Android Studio Jellyfish](https://dev.to/shubhadip_bhowmik/android-studio-jellyfish-5e8l)
-- [The DevRel Digest May 2024: Documentation and the Developer Journey](https://dev.to/lizzzzz/the-devrel-digest-may-2024-documentation-and-the-developer-journey-28m8)
-- [Why do I only see the private IP address when logged into an AWS EC2 instance?](https://dev.to/lakhera2015/why-do-i-only-see-the-private-ip-address-when-logged-into-an-aws-ec2-instance-11fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
