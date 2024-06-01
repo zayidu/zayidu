@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Which Vector Database is the best?](https://dev.to/vectorize/which-vector-database-is-the-best-2anl)
-- [Por teoria ou por instinto.](https://dev.to/biosbug/por-teoria-ou-por-instinto-36mh)
-- [Securing your data](https://dev.to/stevetechie/securing-your-data-107n)
-- [Being Conceptual as a web developer](https://dev.to/stevetechie/being-conceptual-as-a-web-developer-fp2)
-- [FastAPI Beyond CRUD Part 5 - Databases With SQLModel &lpar;Connection, Lifespan Events, And Models&rpar;](https://dev.to/jod35/fastapi-beyond-crud-part-5-databases-with-sqlmodel-connection-lifespan-events-and-models-db2)
+- [How do you understand what a Microservice or Monolith architecture is after all?](https://dev.to/sourabpramanik/how-do-you-understand-what-a-microservice-or-monolith-architecture-is-after-all-2i1o)
+- [I Got Rejected by Y Combinator This Week &#39;S24 😅](https://dev.to/omranic/i-got-rejected-by-y-combinator-this-week-s24-522c)
+- [How to create a beautiful square in HTML CSS No JS](https://dev.to/tidycoder/how-to-create-a-beautiful-square-in-html-css-no-js-i20)
+- [3 Tips to Use DEV Better](https://dev.to/mikeselva/3-tips-to-use-dev-better-1l7i)
+- [Solidity Alchemy - Course &lpar;ESCROW SMART CONTRACT&rpar;](https://dev.to/zuru122/solidity-alchemy-course-escrow-smart-contract-55ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
