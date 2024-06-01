@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey Through the AWS Cloud Practitioner Course](https://dev.to/magesh_sri_2bf29ab9cdbbc8/my-journey-through-the-aws-cloud-practitioner-course-22if)
-- [Embarking on the AWS Cloud Quest: A Journey Towards Cloud Proficiency](https://dev.to/ishwarya_ishwarya_49961ca/embarking-on-the-aws-cloud-quest-a-journey-towards-cloud-proficiency-1gkj)
-- [Building Message Component in Vue3](https://dev.to/markliu2013/building-message-component-in-vue3-4b4d)
-- [Unlocking the Power of the Cloud: My Journey to AWS Cloud Practitioner Certification&quot;](https://dev.to/ayaz_mohammad_4ca3950e052/unlocking-the-power-of-the-cloud-my-journey-to-aws-cloud-practitioner-certification-3ofk)
-- [Navigating the Cloud: My Journey with AWS Cloud Quest Practitioner](https://dev.to/priyalakshmi_r_257b44ee43/navigating-the-cloud-my-journey-with-aws-cloud-quest-practitioner-50fm)
+- [🚀 Unlock the Future of Quantum Computing: Your Ultimate Career Guide!](https://dev.to/futuristicgeeks/unlock-the-future-of-quantum-computing-your-ultimate-career-guide-2l6l)
+- [Use git pull --rebase origin develop when you pull latest develop branch](https://dev.to/takahiro_82jp/use-git-pull-rebase-origin-develop-when-you-pull-latest-develop-branch-gmi)
+- [Are Front-End and Back-End Developers Still Relevant in the Age of SaaS?](https://dev.to/jehnz/are-front-end-and-back-end-developers-still-relevant-in-the-age-of-saas-53g3)
+- [How to Use ChatGPT to Kickstart Your Project and Begin Your Journey as a Programmer](https://dev.to/homayunmmdy/how-to-use-chatgpt-to-kickstart-your-project-and-begin-your-journey-as-a-programmer-2kko)
+- [The proposed CSS @when/@else Rules](https://dev.to/nattive/the-proposed-css-whenelse-rules-1i9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
