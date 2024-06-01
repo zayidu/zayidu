@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lively Search Input with Animated Border Progress](https://dev.to/stefanak-michal/lively-search-input-with-animated-border-progress-37op)
-- [C# - Flatter structure vs Nested structure](https://dev.to/js123/c-flatter-structure-vs-nested-structure-3368)
-- [Optimizing Performance in Next.js 13+ Applications: Techniques for Faster Rendering](https://dev.to/codesensei/optimizing-performance-in-nextjs-13-applications-techniques-for-faster-rendering-1b6l)
-- [Integrate Slack with Jenkins to receive CICD pipeline notification](https://dev.to/rgupta87/integrate-slack-with-jenkins-to-receive-cicd-pipeline-notification-9mi)
-- [Using GPT4o for Learning and Practice Exams &lpar;SAFe Framework as example &rpar;](https://dev.to/devaaai/using-gpt4o-for-learning-and-practice-exams-safe-framework-as-example--330h)
+- [How to create your own PWA! #pwasAreNotDead 💀](https://dev.to/webdeasy/how-to-create-your-own-pwa-pwasarenotdead-c3p)
+- [My first challenge&lpar;June Weather&rpar;](https://dev.to/shreya_mulay0711/my-first-challengejune-weather-2h3l)
+- [Join Me on My JavaScript Journey: From Beginner to Expert with 20 Projects!](https://dev.to/milkybeargeek/join-me-on-my-javascript-journey-from-beginner-to-expert-with-20-projects-493g)
+- [Ultimate HTML Reference | HTML Cheatsheet](https://dev.to/bhargablinx/ultimate-html-reference-html-cheatsheet-b62)
+- [Introduction to Python](https://dev.to/amanagnihotri/introduction-to-python-3pil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
