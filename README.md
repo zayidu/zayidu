@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create your own PWA! #pwasAreNotDead 💀](https://dev.to/webdeasy/how-to-create-your-own-pwa-pwasarenotdead-c3p)
-- [My first challenge&lpar;June Weather&rpar;](https://dev.to/shreya_mulay0711/my-first-challengejune-weather-2h3l)
-- [Join Me on My JavaScript Journey: From Beginner to Expert with 20 Projects!](https://dev.to/milkybeargeek/join-me-on-my-javascript-journey-from-beginner-to-expert-with-20-projects-493g)
-- [Ultimate HTML Reference | HTML Cheatsheet](https://dev.to/bhargablinx/ultimate-html-reference-html-cheatsheet-b62)
-- [Introduction to Python](https://dev.to/amanagnihotri/introduction-to-python-3pil)
+- [Creating a deep copy of a JS Object](https://dev.to/justanordinaryperson/creating-a-deep-copy-of-a-js-object-342e)
+- [Using VSCode for Web Development: HTML, CSS, and JavaScript](https://dev.to/umeshtharukaofficial/using-vscode-for-web-development-html-css-and-javascript-1jpb)
+- [# 5 Testing Frameworks for JavaScript Developers](https://dev.to/oyedeletemitope/-5-testing-frameworks-for-javascript-developers-cb6)
+- [[DAY 36-38] I Built An Ecommerce Webpage](https://dev.to/thomascansino/day-36-38-i-built-an-ecommerce-webpage-1be2)
+- [Join Us in Developing a Flutter Client for Mattermost with AI-Generated Code! 🚀](https://dev.to/princebansal/join-us-in-developing-a-flutter-client-for-mattermost-with-ai-generated-code-2d6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
