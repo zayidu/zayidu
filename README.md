@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JWT Token using Ktor and Kotlin](https://dev.to/neverloveddev/jwt-token-using-ktor-and-kotlin-1ibl)
-- [Another way to deserialise DateTime in Rust](https://dev.to/thiagomg/another-way-to-deserialise-datetime-in-rust-kja)
-- [Hello &lpar;Dev&rpar; world](https://dev.to/ian808/hello-dev-world-42ab)
-- [Building a Simple ATM System in Python: A Casual Walkthrough](https://dev.to/bhavesh_jadhav_dc5b8ed28b/building-a-simple-atm-system-in-python-a-casual-walkthrough-194n)
-- [Building an Alternative to Examine.com: A Challenging Journey!](https://dev.to/lilouartz/building-an-alternative-to-examinecom-a-challenging-journey-2omo)
+- [Key Tips for Database Design](https://dev.to/mauritzkurt/key-tips-for-database-design-1f8)
+- [Demystifying the Cloud: A Beginner&#39;s Guide to Cloud Computing Concepts](https://dev.to/jimi487/demystifying-the-cloud-a-beginners-guide-to-cloud-computing-concepts-9fk)
+- [Playing with the embryonic connections in Java with the Foreign Function](https://dev.to/ulrich/playing-with-the-embryonic-connections-in-java-with-the-foreign-function-24k7)
+- [Entendiendo la Mutabilidad y la Re-asignación](https://dev.to/javascriptchile/entendiendo-la-mutabilidad-y-la-re-asignacion-ihf)
+- [Babylon.js Browser MMO - DevLog - Update #3 - Displaying other players](https://dev.to/maiu/babylonjs-browser-mmo-devlog-update-3-displaying-other-players-ifn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
