@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 8-Hour Debug: How a Silly Mistake Cost Me a Day](https://dev.to/mmvergara/the-8-hour-debug-how-a-silly-mistake-cost-me-a-day-543e)
-- [[Game of Purpose] Day 14](https://dev.to/humberd/game-of-purpose-day-14-520)
-- [The Start of E.V.O T](https://dev.to/kevinpalma21/the-start-of-evo-t-ibf)
-- [Transform Game Visuals Using Meta AI](https://dev.to/gift_mugweni_1c055b418706/transform-game-visuals-using-meta-ai-1hn5)
-- [Hello World AVS: Dev Entrypoint](https://dev.to/gaj/hello-world-avs-dev-entrypoint-f92)
+- [Exploring the Power of Hooks in React](https://dev.to/kartikmehta8/exploring-the-power-of-hooks-in-react-4a1)
+- [Running Lua C modules in a pure Lua environment &lpar;1&rpar;](https://dev.to/jackmacwindows/running-lua-c-modules-in-a-pure-lua-environment-part-1-2aho)
+- [Software Engineers Learn More from Failures than Wins: A Perspective](https://dev.to/bede_hampo/software-engineers-learn-more-from-failures-than-wins-a-perspective-3a6b)
+- [Re-installing AIO - Azure IoT Operations](https://dev.to/danuw/re-installing-aio-azure-iot-operations-5f73)
+- [Dicas e truques: Ferramentas para produtividade para dev no Sistema operacional 🪟 Windows 11](https://dev.to/neiesc/dicas-e-truques-ferramentas-para-produtividade-para-dev-no-sistema-operacional-windows-11-1627)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
