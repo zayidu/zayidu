@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [50+ resources to learn web dev without going broke.](https://dev.to/swastikyadav/50-resources-to-learn-web-dev-without-going-broke-1aj8)
-- [Use CloudFlare Workers and D1 to Create a Completely Free CRUD API](https://dev.to/designly/use-cloudflare-workers-and-d1-to-create-a-completely-free-crud-api-54a5)
-- [SIP Calculator](https://dev.to/vinkalprajapati/sip-calculator-pgp)
-- [Using AWS Credits effectively as a startup.](https://dev.to/nicholaschun/using-aws-credits-effectively-as-a-startup-2ola)
-- [Why You Should Learn the Swift Programming Language. 🦅](https://dev.to/creuserr/why-you-should-learn-the-swift-programming-language-79)
+- [Unleash The Power of Azure: Creating A Linux VM with SSH keys Security.](https://dev.to/fola2royal/unleash-the-power-of-azure-creating-a-linux-vm-with-ssh-keys-security-17i4)
+- [Essential Helper Functions for Your JavaScript Projects](https://dev.to/utkuyceng/essential-helper-functions-for-your-javascript-projects-1o7e)
+- [VS Code extensions for React developers](https://dev.to/utkuyceng/vs-code-extensions-for-react-developers-4i7a)
+- [Avoiding Pitfalls: The Case Against Passing setState as a Prop in React](https://dev.to/utkuyceng/avoiding-pitfalls-the-case-against-passing-setstate-as-a-prop-in-react-5018)
+- [Email Marketing Made Easy: Leveraging Amazon SES for Powerful Campaigns](https://dev.to/virajlakshitha/email-marketing-made-easy-leveraging-amazon-ses-for-powerful-campaigns-1opp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
