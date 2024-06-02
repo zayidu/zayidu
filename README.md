@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleash The Power of Azure: Creating A Linux VM with SSH keys Security.](https://dev.to/fola2royal/unleash-the-power-of-azure-creating-a-linux-vm-with-ssh-keys-security-17i4)
-- [Essential Helper Functions for Your JavaScript Projects](https://dev.to/utkuyceng/essential-helper-functions-for-your-javascript-projects-1o7e)
-- [VS Code extensions for React developers](https://dev.to/utkuyceng/vs-code-extensions-for-react-developers-4i7a)
-- [Avoiding Pitfalls: The Case Against Passing setState as a Prop in React](https://dev.to/utkuyceng/avoiding-pitfalls-the-case-against-passing-setstate-as-a-prop-in-react-5018)
-- [Email Marketing Made Easy: Leveraging Amazon SES for Powerful Campaigns](https://dev.to/virajlakshitha/email-marketing-made-easy-leveraging-amazon-ses-for-powerful-campaigns-1opp)
+- [Keyoxide/Ariadne Identity Verification](https://dev.to/zelnickb/keyoxideariadne-identity-verification-5ai4)
+- [The best personal Note-taking app 📙 Fast 🚀 Secure 🔐 and Free 💯](https://dev.to/hoaitx/the-best-personal-note-taking-app-fast-secure-and-free-257k)
+- [Rails on Docker - Simplify Your Rails Development with Docker and VSCode](https://dev.to/shettigarc/simplify-your-rails-development-with-docker-and-vscode-3ld8)
+- [let vs var vs Const](https://dev.to/kameshoff/let-vs-var-vs-const-197c)
+- [Mobilizing Others: Some Reflections](https://dev.to/rossli/mobilizing-others-some-reflections-eic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
