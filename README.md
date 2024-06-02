@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To: Install Homebrew on Amazon Linux](https://dev.to/sh20raj/how-to-install-homebrew-on-amazon-linux-1cd3)
-- [flying dots](https://dev.to/rafaeldevvv/flying-dots-4l7d)
-- [Streamlining STM32 Projects: VS Code, CMake and clangd](https://dev.to/mcmattia/streamlining-stm32-projects-vs-code-cmake-and-clangd-bhp)
-- [Day 2: LINUX FUNDAMENTALS](https://dev.to/oncloud7/day-2-linux-fundamentals-4092)
-- [Simplifying Next.js: A Quick Guide to Pros and Cons](https://dev.to/saudtech/simplifying-nextjs-a-quick-guide-to-pros-and-cons-1b15)
+- [Inaccessible forms](https://dev.to/emmadawsondev/inaccessible-forms-47f6)
+- [Day 8 of my progress as a vue dev](https://dev.to/zain725342/day-8-of-my-progress-as-a-vue-dev-2g8a)
+- [C# Fundamentals](https://dev.to/suneeh/c-fundamentals-3n08)
+- [Linked List, Data Structures](https://dev.to/harshm03/linked-list-data-structures-4i35)
+- [Modern PHP Development in 2024](https://dev.to/lunamiller/modern-php-development-in-2024-45jd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
