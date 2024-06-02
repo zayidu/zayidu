@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Really Matters in Your 20s?](https://dev.to/chinnanj/what-really-matters-in-your-20s-4a39)
-- [Babylon.js Browser MMO - DevLog - Update #2 - 8 way WASD movement](https://dev.to/maiu/babylonjs-browser-mmo-devlog-update-2-8-way-wasd-movement-39e8)
-- [Network Policy in Kubernetes](https://dev.to/sirlawdin/network-policy-in-kubernetes-47i9)
-- [I Created a Password Manager with AI: Powered by GPT-4](https://dev.to/king_triton/i-created-a-password-manager-with-ai-powered-by-gpt-4-4jml)
-- [Async React with Suspense](https://dev.to/varenya/async-react-with-suspense-3d1o)
+- [How to install lando on mac for Acquia Recipe](https://dev.to/sanjay_mogra/how-to-install-lando-on-mac-for-acquia-recipe-3p15)
+- [Clock App](https://dev.to/sudhanshuambastha/clock-app-1n9m)
+- [Error v/s Exception](https://dev.to/dipesh_the_dev/error-vs-exception-5h7d)
+- [Revolutionizing Development with Type-Safe Dropbox SDK](https://dev.to/bilelsalemdev/revolutionizing-development-with-type-safe-dropbox-sdk-nod)
+- [Let’s highlight](https://dev.to/rationalkunal/lets-highlight-5lc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
