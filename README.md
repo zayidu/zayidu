@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get start Elixir](https://dev.to/rhaenyraliang/how-to-get-start-elixir-3l65)
-- [Connect-Four Game](https://dev.to/sarmittal/connect-four-game-5k5)
-- [Supabase: The Open-Source Superhero That Saves You From Firebase](https://dev.to/anshul_bhartiya_37e68ba7b/supabase-the-open-source-superhero-that-saves-you-from-firebase-3klj)
-- [How to add Animations and Transitions in React](https://dev.to/jehnz/mastering-animations-and-transitions-in-react-32ki)
-- [Building a Chat with PDF - RAG Application - NextJS and NestJS](https://dev.to/codexam/building-a-chat-with-pdf-rag-application-nextjs-and-nestjs-j88)
+- [How To: Install Homebrew on Amazon Linux](https://dev.to/sh20raj/how-to-install-homebrew-on-amazon-linux-1cd3)
+- [flying dots](https://dev.to/rafaeldevvv/flying-dots-4l7d)
+- [Streamlining STM32 Projects: VS Code, CMake and clangd](https://dev.to/mcmattia/streamlining-stm32-projects-vs-code-cmake-and-clangd-bhp)
+- [Day 2: LINUX FUNDAMENTALS](https://dev.to/oncloud7/day-2-linux-fundamentals-4092)
+- [Simplifying Next.js: A Quick Guide to Pros and Cons](https://dev.to/saudtech/simplifying-nextjs-a-quick-guide-to-pros-and-cons-1b15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
