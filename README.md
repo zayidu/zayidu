@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sites e ferramentas para Frontend](https://dev.to/marcythany/sites-e-ferramentas-para-frontend-595k)
-- [in, out, ref, Boxing, Unboxing, and Strings Explained](https://dev.to/ipazooki/in-out-ref-boxing-unboxing-and-strings-explained-1eb4)
-- [11-20 Сustom Utility Types for TypeScript Projects](https://dev.to/antonzo/11-20-sustom-utility-types-for-typescript-projects-2bg5)
-- [c# Debounce and Throttle](https://dev.to/coddicat/c-debounce-and-throttle-3a1g)
-- [Javascript:](https://dev.to/bekmuhammaddev/javascript-520h)
+- [ProcGen](https://dev.to/ccwell11/procgen-14j9)
+- [How To Manage an Amazon Bedrock Knowledge Base Using Terraform](https://dev.to/aws-builders/how-to-manage-an-amazon-bedrock-knowledge-base-using-terraform-2688)
+- [VS Code Extensions to have](https://dev.to/kaushal01/vs-code-extensions-to-have-2k30)
+- [7. Gunicorn als service - Django in Produktion Teil 7](https://dev.to/rubenvoss/7-gunicorn-als-service-django-in-produktion-teil-7-3jdh)
+- [Create a Spelling App](https://dev.to/ryanjames1729/create-a-spelling-app-2be7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
