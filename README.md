@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ProcGen](https://dev.to/ccwell11/procgen-14j9)
-- [How To Manage an Amazon Bedrock Knowledge Base Using Terraform](https://dev.to/aws-builders/how-to-manage-an-amazon-bedrock-knowledge-base-using-terraform-2688)
-- [VS Code Extensions to have](https://dev.to/kaushal01/vs-code-extensions-to-have-2k30)
-- [7. Gunicorn als service - Django in Produktion Teil 7](https://dev.to/rubenvoss/7-gunicorn-als-service-django-in-produktion-teil-7-3jdh)
-- [Create a Spelling App](https://dev.to/ryanjames1729/create-a-spelling-app-2be7)
+- [Building a Simple ATM System in Python: A Casual Walkthrough](https://dev.to/bhavesh_jadhav_dc5b8ed28b/building-a-simple-atm-system-in-python-a-casual-walkthrough-194n)
+- [Building an Alternative to Examine.com: A Challenging Journey!](https://dev.to/lilouartz/building-an-alternative-to-examinecom-a-challenging-journey-2omo)
+- [Lagos City Of Dreams](https://dev.to/stegen54/lagos-city-of-dreams-2nfn)
+- [Understanding Forward Proxy: Exploring Multiple Scenarios](https://dev.to/_akajuthi_/understanding-forward-proxy-exploring-multiple-scenarios-59d4)
+- [Top 10 Free Resources to Learn Data Structures and Algorithms in 2024](https://dev.to/naime_molla/top-10-free-resources-to-learn-data-structures-and-algorithms-in-2024-4i4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
