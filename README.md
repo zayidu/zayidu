@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [JWT Token using Ktor and Kotlin](https://dev.to/neverloveddev/jwt-token-using-ktor-and-kotlin-1ibl)
+- [Another way to deserialise DateTime in Rust](https://dev.to/thiagomg/another-way-to-deserialise-datetime-in-rust-kja)
+- [Hello &lpar;Dev&rpar; world](https://dev.to/ian808/hello-dev-world-42ab)
 - [Building a Simple ATM System in Python: A Casual Walkthrough](https://dev.to/bhavesh_jadhav_dc5b8ed28b/building-a-simple-atm-system-in-python-a-casual-walkthrough-194n)
 - [Building an Alternative to Examine.com: A Challenging Journey!](https://dev.to/lilouartz/building-an-alternative-to-examinecom-a-challenging-journey-2omo)
-- [Lagos City Of Dreams](https://dev.to/stegen54/lagos-city-of-dreams-2nfn)
-- [Understanding Forward Proxy: Exploring Multiple Scenarios](https://dev.to/_akajuthi_/understanding-forward-proxy-exploring-multiple-scenarios-59d4)
-- [Top 10 Free Resources to Learn Data Structures and Algorithms in 2024](https://dev.to/naime_molla/top-10-free-resources-to-learn-data-structures-and-algorithms-in-2024-4i4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
