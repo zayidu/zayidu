@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple Weather Dashboard with JavaScript and Mock APIs](https://dev.to/rharshit82/building-a-simple-weather-dashboard-with-javascript-and-mock-apis-2k7i)
-- [Wave Function Collapse](https://dev.to/excaliburjs/wave-function-collapse-d3c)
-- [My Pen on CodePen](https://dev.to/muzammil_iqbal_cdeacd8cb8/my-pen-on-codepen-1dlk)
-- [A step-by-step guide on how to use the Amazon Bedrock Converse API](https://dev.to/aws-builders/a-step-by-step-guide-on-how-to-use-the-amazon-bedrock-converse-api-2mnl)
-- [React-Compiler: When React becomes Svelte](https://dev.to/artiumws/react-compiler-when-react-becomes-svelte-5969)
+- [Sites e ferramentas para Frontend](https://dev.to/marcythany/sites-e-ferramentas-para-frontend-595k)
+- [in, out, ref, Boxing, Unboxing, and Strings Explained](https://dev.to/ipazooki/in-out-ref-boxing-unboxing-and-strings-explained-1eb4)
+- [11-20 Сustom Utility Types for TypeScript Projects](https://dev.to/antonzo/11-20-sustom-utility-types-for-typescript-projects-2bg5)
+- [c# Debounce and Throttle](https://dev.to/coddicat/c-debounce-and-throttle-3a1g)
+- [Javascript:](https://dev.to/bekmuhammaddev/javascript-520h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
