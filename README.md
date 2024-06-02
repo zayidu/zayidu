@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get a Free Custom Domain](https://dev.to/ryoichihomma/how-to-get-a-free-custom-domain-4d56)
-- [Top 5 tools to improve your Web Page Designs](https://dev.to/amanagnihotri/top-5-tools-to-improve-your-web-page-designs-hpe)
-- [เริ่มต้น Quarkus 3 part 1](https://dev.to/pramoth/erimtn-quarkus-3-part-1-ane)
-- [Rebuilding TensorFlow 2.8.4 on Ubuntu 22.04 to patch vulnerabilities](https://dev.to/dchaley/rebuilding-tensorflow-284-on-ubuntu-2204-to-patch-vulnerabilities-3j3m)
-- [How to Commit Multiline Messages in git commit](https://dev.to/zacharylee/how-to-commit-multiline-messages-in-git-commit-1ap3)
+- [How to package and deploy a Lambda function as a container image](https://dev.to/seifrajhi/how-to-package-and-deploy-a-lambda-function-as-a-container-image-3d1a)
+- [Choosing Between Node.js with JavaScript and Node.js with TypeScript](https://dev.to/vyan/choosing-between-nodejs-with-javascript-and-nodejs-with-typescript-41d8)
+- [[DAY 39-41] I Built 2 Minigames &amp; Solved 4 Leetcode Challenges](https://dev.to/thomascansino/day-39-41-i-built-2-minigames-solved-4-leetcode-challenges-4k28)
+- [Easiest Way to Tinker with Your Laravel Application](https://dev.to/bedram-tamang/easiest-way-to-tinker-with-your-laravel-application-1aaj)
+- [API Versioning in Minimal API.](https://dev.to/ayush_k_mandal/api-versioning-in-minimal-api-1omi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
