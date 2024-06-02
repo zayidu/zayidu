@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Keyoxide/Ariadne Identity Verification](https://dev.to/zelnickb/keyoxideariadne-identity-verification-5ai4)
-- [The best personal Note-taking app 📙 Fast 🚀 Secure 🔐 and Free 💯](https://dev.to/hoaitx/the-best-personal-note-taking-app-fast-secure-and-free-257k)
-- [Rails on Docker - Simplify Your Rails Development with Docker and VSCode](https://dev.to/shettigarc/simplify-your-rails-development-with-docker-and-vscode-3ld8)
-- [let vs var vs Const](https://dev.to/kameshoff/let-vs-var-vs-const-197c)
-- [Mobilizing Others: Some Reflections](https://dev.to/rossli/mobilizing-others-some-reflections-eic)
+- [Building your own Productivity app using React JS and Mock API&#39;s](https://dev.to/prankurpandeyy/building-your-own-productivity-app-using-react-js-and-mock-apis-3hd2)
+- [Keyoxide Identity Proof](https://dev.to/zelnickb/keyoxide-identity-proof-22b0)
+- [Reactive vs. Template-Driven Approaches: Exploring Angular Forms](https://dev.to/bytebantz/reactive-vs-template-driven-approaches-exploring-angular-forms-e2f)
+- [Understanding Nodes in Java: The Building Blocks of Data Structures](https://dev.to/fullstackjava/understanding-nodes-in-java-the-building-blocks-of-data-structures-5di3)
+- [Middleware to Asp.net Core MVC Application + Custom Middleware](https://dev.to/harshchandwani/middleware-to-aspnet-core-mvc-application-custom-middleware-4k4h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
