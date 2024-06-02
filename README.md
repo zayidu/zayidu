@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to package and deploy a Lambda function as a container image](https://dev.to/seifrajhi/how-to-package-and-deploy-a-lambda-function-as-a-container-image-3d1a)
-- [Choosing Between Node.js with JavaScript and Node.js with TypeScript](https://dev.to/vyan/choosing-between-nodejs-with-javascript-and-nodejs-with-typescript-41d8)
-- [[DAY 39-41] I Built 2 Minigames &amp; Solved 4 Leetcode Challenges](https://dev.to/thomascansino/day-39-41-i-built-2-minigames-solved-4-leetcode-challenges-4k28)
-- [Easiest Way to Tinker with Your Laravel Application](https://dev.to/bedram-tamang/easiest-way-to-tinker-with-your-laravel-application-1aaj)
-- [API Versioning in Minimal API.](https://dev.to/ayush_k_mandal/api-versioning-in-minimal-api-1omi)
+- [What Really Matters in Your 20s?](https://dev.to/chinnanj/what-really-matters-in-your-20s-4a39)
+- [Babylon.js Browser MMO - DevLog - Update #2 - 8 way WASD movement](https://dev.to/maiu/babylonjs-browser-mmo-devlog-update-2-8-way-wasd-movement-39e8)
+- [Network Policy in Kubernetes](https://dev.to/sirlawdin/network-policy-in-kubernetes-47i9)
+- [I Created a Password Manager with AI: Powered by GPT-4](https://dev.to/king_triton/i-created-a-password-manager-with-ai-powered-by-gpt-4-4jml)
+- [Async React with Suspense](https://dev.to/varenya/async-react-with-suspense-3d1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
