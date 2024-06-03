@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Unveiling JavaScript AsyncFunction and AsyncFunction&lpar;&rpar; Constructor: A Deep Dive](https://dev.to/dharamgfx/unveiling-javascript-asyncfunction-and-asyncfunction-constructor-a-deep-dive-2lpb)
-- [🚀 Mastering JavaScript ArrayBuffer: A Comprehensive Guide](https://dev.to/dharamgfx/mastering-javascript-arraybuffer-a-comprehensive-guide-1d5h)
-- [Python vs. JavaScript](https://dev.to/dakota_day/python-vs-javascript-3cpl)
-- [Power BI vs. Tableau: Picking the Perfect BI Tool for You &lpar;2024&rpar;](https://dev.to/akaksha/power-bi-vs-tableau-picking-the-perfect-bi-tool-for-you-2024-2eb4)
-- [How to Build a Web App from Scratch](https://dev.to/twinkle123/how-to-build-a-web-app-from-scratch-5hca)
+- [Does Serverless Still Matter?](https://dev.to/aws-builders/does-serverless-still-matter-2jag)
+- [The Future of Blockchain Gaming on Solana](https://dev.to/aishikl/the-future-of-blockchain-gaming-on-solana-3c84)
+- [JavaScript 🚀Troubleshooting Guide: What Went Wrong❌?](https://dev.to/dharamgfx/javascript-troubleshooting-guide-what-went-wrong-2fpa)
+- [Code Smell 254 - Mystery Guest](https://dev.to/mcsee/code-smell-254-mystery-guest-4lbg)
+- [Enhancing Your Flutter Project with Typesafe Packages](https://dev.to/dinko7/enhancing-your-flutter-project-with-typesafe-packages-34ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
