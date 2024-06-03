@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Styling in ReactJS: Exploring the Best Libraries](https://dev.to/vyan/styling-in-reactjs-exploring-the-best-libraries-j42)
-- [Web Dev Day 5: Bootstrap Guide](https://dev.to/_bhupeshk_/web-dev-day-5-bootstrap-guide-359p)
-- [Top 4 Reasons Why I Learnt JavaScript](https://dev.to/thekarlesi/top-4-reasons-to-learn-javascript-7m3)
-- [Use Gemini to Understand Errors with Google Chrome Dev Tools](https://dev.to/0xkoji/use-gemini-to-understand-errors-with-google-chrome-dev-tools-4b54)
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;27/05/2024 - 02/06/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-27052024-02062024-nb0)
+- [Shallow Copy v/s Deep Copy](https://dev.to/kiransm/shallow-copy-vs-deep-copy-a8l)
+- [Building Custom Hooks in React: Best Practices and Use Cases](https://dev.to/delia_code/building-custom-hooks-in-react-best-practices-and-use-cases-273l)
+- [What is DevSecOps? A Comprehensive Look at DevSecOps](https://dev.to/gauri1504/what-is-devsecops-a-comprehensive-look-at-devsecops-4892)
+- [How new Builders Tame Mode Network](https://dev.to/wolfcito/how-new-builders-tame-mode-network-b1l)
+- [What is Google auth&lpar;Oauth 2.0&rpar;](https://dev.to/gagecantrelle/what-is-google-authoauth-20-n5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
