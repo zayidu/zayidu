@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Arrays in JavaScript](https://dev.to/huericnan/introduction-to-arrays-in-javascript-599h)
-- [YouTube Video Transcripts Using LangChain](https://dev.to/samagra07/youtube-video-transcripts-using-langchain-25g4)
-- [What is JSX?](https://dev.to/ark7/what-is-jsx-5f60)
-- [Top Tools for Modern Web Developers](https://dev.to/buildwebcrumbs/top-tools-for-modern-web-developers-1ba3)
-- [piano music application](https://dev.to/hussein09/piano-music-application-505)
+- [Introducing &quot;Speed&quot;](https://dev.to/stroiman/introducing-speed-2ofk)
+- [ServBay 1.3.5 Official Release: Significant Updates and Enhancements](https://dev.to/servbay/servbay-135-official-release-significant-updates-and-enhancements-25kn)
+- [Brod; boss kafka in elixir](https://dev.to/darnahsan/brod-boss-kafka-in-elixir-eo)
+- [Extracting Text from Uploaded Files in Node.js: A Continuation](https://dev.to/luqmanshaban/extracting-text-from-uploaded-files-in-nodejs-a-continuation-416j)
+- [Achieve Game-Like Scaling in Discord Activities and Web Apps Using CSS](https://dev.to/waveplay/achieve-game-like-scaling-in-discord-activities-and-web-apps-using-css-874)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
