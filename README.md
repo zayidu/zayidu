@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Combining Inheritance and Polymorphism in Real-World Applications](https://dev.to/techtobe101/combining-inheritance-and-polymorphism-in-real-world-applications-384)
-- [Diving Deeper into Polymorphism](https://dev.to/techtobe101/diving-deeper-into-polymorphism-3i0i)
-- [Introduction to Inheritance in Object-Oriented Programming](https://dev.to/techtobe101/introduction-to-inheritance-in-object-oriented-programming-1cg2)
-- [Accessing Objects via Reference Variables](https://dev.to/paulike/accessing-objects-via-reference-variables-44p7)
-- [Controlled &amp; Uncontrolled Component](https://dev.to/jorjishasan/controlled-uncontrolled-component-3h3h)
+- [PUT it at REST](https://dev.to/jwtiller_c47bdfa134adf302/put-it-at-rest-395a)
+- [Understanding the differences between JavaScript, Node.js, and Express.js](https://dev.to/richardshaju/understanding-the-differences-between-javascript-nodejs-and-expressjs-5cb9)
+- [The Future of Bug Logging and Internet Security](https://dev.to/owasp/the-future-of-bug-logging-and-internet-security-2fp4)
+- [How to Integrate Firebase in NestJS for Notifications 🚀](https://dev.to/shahharsh/how-to-integrate-firebase-in-nestjs-for-notifications-gik)
+- [How to link your Blob file storage to Azure SQL database](https://dev.to/busybrain/how-to-link-your-blob-file-storage-to-azure-sql-database-2d91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
