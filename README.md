@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Load Testing Solium Infernum with Docker, Kubernetes and Enemy AI](https://dev.to/romesh_dev/load-testing-solium-infernum-with-docker-kubernetes-and-enemy-ai-9pl)
-- [EMI Calculator](https://dev.to/vinkalprajapati/emi-calculator-b2b)
-- [The flow of creating digital signature and verification in Python](https://dev.to/u2633/the-flow-of-creating-digital-signature-and-verification-in-python-37ng)
-- [Menjelajahi Dunia Domain, Entities, dan Value Objects di Golang: Panduan Asik Buat Ngoding Lebih Rapi dan Efektif](https://dev.to/yogameleniawan/menjelajahi-dunia-domain-entities-dan-value-objects-di-golang-panduan-asik-buat-ngoding-lebih-rapi-dan-efektif-42db)
-- [THE FASTEST LOCAL DATABASE EVER WITH CLI??!!!](https://dev.to/jedi-studio/the-fastest-local-database-ever-with-cli-lm6)
+- [Styling in ReactJS: Exploring the Best Libraries](https://dev.to/vyan/styling-in-reactjs-exploring-the-best-libraries-j42)
+- [Top 4 Reasons Why I Learnt JavaScript](https://dev.to/thekarlesi/top-4-reasons-to-learn-javascript-7m3)
+- [Use Gemini to Understand Errors with Google Chrome Dev Tools](https://dev.to/0xkoji/use-gemini-to-understand-errors-with-google-chrome-dev-tools-4b54)
+- [Introducing Idyllic Apps AI Dictionary: Redefining the Way You Understand Words](https://dev.to/tonux-jan/introducing-idyllic-apps-ai-dictionary-redefining-the-way-you-understand-words-2dpb)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;27/05/2024 - 02/06/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-27052024-02062024-nb0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
