@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a NestJS Application on Vercel with a PostgreSQL Database](https://dev.to/bilalurrehman27/deploying-a-nestjs-application-on-vercel-with-a-postgresql-database-2be0)
-- [How to Create Your Own Memes Generator Project](https://dev.to/dk119819/meme-generator-project-466c)
-- [One Year of DevOps at Idus: Reflections and Learnings](https://dev.to/paikend/one-year-of-devops-at-idus-reflections-and-learnings-5ehb)
-- [Introduction to React Fiber](https://dev.to/jehnz/introduction-to-react-fiber-48c4)
-- [LibSQL Driver for Laravel](https://dev.to/darkterminal/libsql-driver-for-laravel-2g62)
+- [How to animate objects on scroll with Tailwind CSS and the JavaScript intersection observer API](https://dev.to/mike_andreuzza/how-to-animate-objects-on-scroll-with-tailwind-css-and-the-javascript-intersection-observer-api-4kd)
+- [Building a Drop-Down-List with Country-Code + Flag + Telephone](https://dev.to/markliu2013/building-a-drop-down-list-with-country-code-flag-telephone-3al7)
+- [What&#39;s the next big trend in CRM development?](https://dev.to/zoyazenniefer/whats-the-next-big-trend-in-crm-development-oll)
+- [Mastering Test Automation: Crafting Your Ultimate Automation Test Planning Strategy](https://dev.to/grjoeay/mastering-test-automation-crafting-your-ultimate-automation-test-planning-strategy-2h2o)
+- [Function and loop in JS](https://dev.to/mirabbos-dev/function-and-loop-in-js-59d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
