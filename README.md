@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Does Serverless Still Matter?](https://dev.to/aws-builders/does-serverless-still-matter-2jag)
-- [The Future of Blockchain Gaming on Solana](https://dev.to/aishikl/the-future-of-blockchain-gaming-on-solana-3c84)
-- [JavaScript 🚀Troubleshooting Guide: What Went Wrong❌?](https://dev.to/dharamgfx/javascript-troubleshooting-guide-what-went-wrong-2fpa)
-- [Code Smell 254 - Mystery Guest](https://dev.to/mcsee/code-smell-254-mystery-guest-4lbg)
-- [Enhancing Your Flutter Project with Typesafe Packages](https://dev.to/dinko7/enhancing-your-flutter-project-with-typesafe-packages-34ia)
+- [Which is good for making scrappers in Golang?](https://dev.to/7h33mp7ym4n/which-is-good-for-making-scrappers-in-golang-4118)
+- [Which is good for making scrappers in Golang?](https://dev.to/7h33mp7ym4n/which-is-good-for-making-scrappers-in-golang-17kf)
+- [BSides312 2024: Insights and Innovations in Cybersecurity](https://dev.to/gitguardian/bsides312-2024-insights-and-innovations-in-cybersecurity-m56)
+- [ViBox Can Transform Your Desktop Experience](https://dev.to/tufik2/vibox-can-transform-your-desktop-experience-big)
+- [How to Upload Images to Google Gemini for Next.js](https://dev.to/ppaanngggg/how-to-upload-images-to-google-gemini-for-nextjs-2c75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
