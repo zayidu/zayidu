@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Which is good for making scrappers in Golang?](https://dev.to/7h33mp7ym4n/which-is-good-for-making-scrappers-in-golang-4118)
-- [Which is good for making scrappers in Golang?](https://dev.to/7h33mp7ym4n/which-is-good-for-making-scrappers-in-golang-17kf)
-- [BSides312 2024: Insights and Innovations in Cybersecurity](https://dev.to/gitguardian/bsides312-2024-insights-and-innovations-in-cybersecurity-m56)
-- [ViBox Can Transform Your Desktop Experience](https://dev.to/tufik2/vibox-can-transform-your-desktop-experience-big)
-- [How to Upload Images to Google Gemini for Next.js](https://dev.to/ppaanngggg/how-to-upload-images-to-google-gemini-for-nextjs-2c75)
+- [Introduction to Arrays in JavaScript](https://dev.to/huericnan/introduction-to-arrays-in-javascript-599h)
+- [YouTube Video Transcripts Using LangChain](https://dev.to/samagra07/youtube-video-transcripts-using-langchain-25g4)
+- [What is JSX?](https://dev.to/ark7/what-is-jsx-5f60)
+- [Top Tools for Modern Web Developers](https://dev.to/buildwebcrumbs/top-tools-for-modern-web-developers-1ba3)
+- [piano music application](https://dev.to/hussein09/piano-music-application-505)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
