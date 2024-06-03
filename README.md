@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Key Tips for Database Design](https://dev.to/mauritzkurt/key-tips-for-database-design-1f8)
-- [Demystifying the Cloud: A Beginner&#39;s Guide to Cloud Computing Concepts](https://dev.to/jimi487/demystifying-the-cloud-a-beginners-guide-to-cloud-computing-concepts-9fk)
-- [Playing with the embryonic connections in Java with the Foreign Function](https://dev.to/ulrich/playing-with-the-embryonic-connections-in-java-with-the-foreign-function-24k7)
-- [Entendiendo la Mutabilidad y la Re-asignación](https://dev.to/javascriptchile/entendiendo-la-mutabilidad-y-la-re-asignacion-ihf)
-- [Babylon.js Browser MMO - DevLog - Update #3 - Displaying other players](https://dev.to/maiu/babylonjs-browser-mmo-devlog-update-3-displaying-other-players-ifn)
+- [Building a Personal Finance Application with Python](https://dev.to/kartikmehta8/building-a-personal-finance-application-with-python-525e)
+- [Building with Supra: Powering Decentralized Applications with Better Data](https://dev.to/tosynthegeek/building-with-supra-powering-decentralized-applications-with-better-data-5d3c)
+- [Merkle Proofs: A Simple Guide](https://dev.to/olanetsoft/merkle-proofs-a-simple-guide-3l02)
+- [Azure PostgreSQL, Entra ID Authentication and .NET](https://dev.to/azure/azure-postgresql-entra-id-authentication-and-net-2pbe)
+- [Implementing Progressive Web Apps &lpar;PWAs&rpar; with React](https://dev.to/emmanuelj/implementing-progressive-web-apps-pwas-with-react-oem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
