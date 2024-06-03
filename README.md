@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shallow Copy v/s Deep Copy](https://dev.to/kiransm/shallow-copy-vs-deep-copy-a8l)
-- [Building Custom Hooks in React: Best Practices and Use Cases](https://dev.to/delia_code/building-custom-hooks-in-react-best-practices-and-use-cases-273l)
-- [What is DevSecOps? A Comprehensive Look at DevSecOps](https://dev.to/gauri1504/what-is-devsecops-a-comprehensive-look-at-devsecops-4892)
-- [How new Builders Tame Mode Network](https://dev.to/wolfcito/how-new-builders-tame-mode-network-b1l)
-- [What is Google auth&lpar;Oauth 2.0&rpar;](https://dev.to/gagecantrelle/what-is-google-authoauth-20-n5g)
+- [Beyond Utility: Bringing Delight to Everyday Apps](https://dev.to/shieldstring/beyond-utility-bringing-delight-to-everyday-apps-53b0)
+- [Why Do Some Software Projects Fail?](https://dev.to/canro91/why-do-some-software-projects-fail-n16)
+- [Mozilla Firefox Politikası - Proxy Ayarları](https://dev.to/aciklab/mozilla-firefox-politikasi-proxy-ayarlari-4op5)
+- [Yazıcı Politikası](https://dev.to/aciklab/yazici-politikasi-10fb)
+- [Yetkili Kullanıcı Politikası](https://dev.to/aciklab/yetkili-kullanici-politikasi-21hb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
