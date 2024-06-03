@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Scope of Variables](https://dev.to/paulike/the-scope-of-variables-2h0m)
-- [Immutable Objects and Classes](https://dev.to/paulike/immutable-objects-and-classes-31gj)
-- [Comparing C++ range libraries for filter+reverse case with non-trivial lambda](https://dev.to/serpent7776/comparing-c-range-libraries-for-filterreverse-case-with-non-trivial-lambda-4lj7)
-- [How to Install and Configure Cloudflared on Linux](https://dev.to/sh20raj/how-to-install-and-configure-cloudflared-on-linux-4l3)
-- [Burn It All! Tired of Sweepers, Monitor and Watch Each Block Burn 🔥](https://dev.to/wolfcito/burn-it-all-tired-of-sweepers-monitor-and-watch-each-block-burn-12d0)
+- [Smart contracts privados con Solidity y Circom](https://dev.to/turupawn/smart-contracts-privados-con-solidity-y-circom-3a8h)
+- [Managing Architectural Tech Debt](https://dev.to/johnjvester/managing-architectural-tech-debt-i82)
+- [Simple &quot;Infinite&quot; Grid Shader](https://dev.to/javiersalcedopuyo/simple-infinite-grid-shader-5fah)
+- [Exploring Weatherstack API: Pricing, Features, and Alternatives](https://dev.to/ericksmith14/exploring-weatherstack-api-pricing-features-and-alternatives-565m)
+- [Investing in Web3 Projects: A Modern Business and Finance Guide](https://dev.to/korofetova_mila/investing-in-web3-projects-a-modern-business-and-finance-guide-3jj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
