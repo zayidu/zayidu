@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWESOME MOUSE 🤩 !](https://dev.to/mince/awesome-mouse--3l1n)
-- [Host web application on EC2 instance with Ansible Playbook](https://dev.to/rgupta87/host-web-application-on-ec2-instance-with-ansible-playbook-346o)
-- [Elastic Beanstalk: Developer&#39;s AWS paradise](https://dev.to/marbleit/elastic-beanstalk-developers-aws-paradise-41g5)
-- [Using the Web as your API](https://dev.to/polterguy/using-the-web-as-your-api-2p0i)
-- [The Software Testing Pyramid: Ensuring Robust and Reliable Software](https://dev.to/keploy/the-software-testing-pyramid-ensuring-robust-and-reliable-software-2n1i)
+- [🚀 Unveiling JavaScript AsyncFunction and AsyncFunction&lpar;&rpar; Constructor: A Deep Dive](https://dev.to/dharamgfx/unveiling-javascript-asyncfunction-and-asyncfunction-constructor-a-deep-dive-2lpb)
+- [🚀 Mastering JavaScript ArrayBuffer: A Comprehensive Guide](https://dev.to/dharamgfx/mastering-javascript-arraybuffer-a-comprehensive-guide-1d5h)
+- [Python vs. JavaScript](https://dev.to/dakota_day/python-vs-javascript-3cpl)
+- [Power BI vs. Tableau: Picking the Perfect BI Tool for You &lpar;2024&rpar;](https://dev.to/akaksha/power-bi-vs-tableau-picking-the-perfect-bi-tool-for-you-2024-2eb4)
+- [How to Build a Web App from Scratch](https://dev.to/twinkle123/how-to-build-a-web-app-from-scratch-5hca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
