@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PUT it at REST](https://dev.to/jwtiller_c47bdfa134adf302/put-it-at-rest-395a)
-- [Understanding the differences between JavaScript, Node.js, and Express.js](https://dev.to/richardshaju/understanding-the-differences-between-javascript-nodejs-and-expressjs-5cb9)
-- [The Future of Bug Logging and Internet Security](https://dev.to/owasp/the-future-of-bug-logging-and-internet-security-2fp4)
-- [How to Integrate Firebase in NestJS for Notifications 🚀](https://dev.to/shahharsh/how-to-integrate-firebase-in-nestjs-for-notifications-gik)
-- [How to link your Blob file storage to Azure SQL database](https://dev.to/busybrain/how-to-link-your-blob-file-storage-to-azure-sql-database-2d91)
+- [The Scope of Variables](https://dev.to/paulike/the-scope-of-variables-2h0m)
+- [Immutable Objects and Classes](https://dev.to/paulike/immutable-objects-and-classes-31gj)
+- [Comparing C++ range libraries for filter+reverse case with non-trivial lambda](https://dev.to/serpent7776/comparing-c-range-libraries-for-filterreverse-case-with-non-trivial-lambda-4lj7)
+- [How to Install and Configure Cloudflared on Linux](https://dev.to/sh20raj/how-to-install-and-configure-cloudflared-on-linux-4l3)
+- [Burn It All! Tired of Sweepers, Monitor and Watch Each Block Burn 🔥](https://dev.to/wolfcito/burn-it-all-tired-of-sweepers-monitor-and-watch-each-block-burn-12d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
