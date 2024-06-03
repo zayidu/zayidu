@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This week&#39;s API highlights round-up: Container Info, Container Legs and shipments](https://dev.to/worldindata/this-weeks-api-highlights-round-up-container-info-container-legs-and-shipments-39n1)
-- [Innovation in Shared Storage Makes Kafka Great Again](https://dev.to/automq/innovation-in-shared-storage-makes-kafka-great-again-m86)
-- [Creative Testimonial Slider - Swiper Slider](https://dev.to/creative_salahu/creative-testimonial-slider-swiper-slider-f70)
-- [Home Made Without Oven Taftan Recipe](https://dev.to/kinza_jafri_b30d65c3c1fa9/home-made-without-oven-taftan-recipe-2oeg)
-- [Why You Should Learn Prompt Engineering Right Now!!!](https://dev.to/wafa_bergaoui/why-you-should-learn-prompt-engineering-right-now-ia4)
+- [AWESOME MOUSE 🤩 !](https://dev.to/mince/awesome-mouse--3l1n)
+- [Host web application on EC2 instance with Ansible Playbook](https://dev.to/rgupta87/host-web-application-on-ec2-instance-with-ansible-playbook-346o)
+- [Elastic Beanstalk: Developer&#39;s AWS paradise](https://dev.to/marbleit/elastic-beanstalk-developers-aws-paradise-41g5)
+- [Using the Web as your API](https://dev.to/polterguy/using-the-web-as-your-api-2p0i)
+- [The Software Testing Pyramid: Ensuring Robust and Reliable Software](https://dev.to/keploy/the-software-testing-pyramid-ensuring-robust-and-reliable-software-2n1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
