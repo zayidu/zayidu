@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2486. Append Characters to String to Make Subsequence](https://dev.to/mdarifulhaque/2486-append-characters-to-string-to-make-subsequence-5633)
-- [Blockchain Beyond Bitcoin: Innovative Uses in Various Industries](https://dev.to/bingecoder89/blockchain-beyond-bitcoin-innovative-uses-in-various-industries-5boo)
-- [Implementing API Rate Limiting with a Token Bucket 🪣](https://dev.to/keploy/implementing-api-rate-limiting-with-a-token-bucket-jmd)
-- [System Design Resources that are Not ByteByteGo](https://dev.to/vladi-stevanovic/system-design-resources-that-are-not-bytebytego-1h2j)
-- [Hands-on Basic Linux Commands: #Day3 of 90DaysofDevOps](https://dev.to/oncloud7/hands-on-basic-linux-commands-day3-of-90daysofdevops-49ma)
+- [Combining Inheritance and Polymorphism in Real-World Applications](https://dev.to/techtobe101/combining-inheritance-and-polymorphism-in-real-world-applications-384)
+- [Diving Deeper into Polymorphism](https://dev.to/techtobe101/diving-deeper-into-polymorphism-3i0i)
+- [Introduction to Inheritance in Object-Oriented Programming](https://dev.to/techtobe101/introduction-to-inheritance-in-object-oriented-programming-1cg2)
+- [Accessing Objects via Reference Variables](https://dev.to/paulike/accessing-objects-via-reference-variables-44p7)
+- [Controlled &amp; Uncontrolled Component](https://dev.to/jorjishasan/controlled-uncontrolled-component-3h3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
