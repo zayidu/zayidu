@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Utility: Bringing Delight to Everyday Apps](https://dev.to/shieldstring/beyond-utility-bringing-delight-to-everyday-apps-53b0)
-- [Why Do Some Software Projects Fail?](https://dev.to/canro91/why-do-some-software-projects-fail-n16)
-- [Mozilla Firefox Politikası - Proxy Ayarları](https://dev.to/aciklab/mozilla-firefox-politikasi-proxy-ayarlari-4op5)
-- [Yazıcı Politikası](https://dev.to/aciklab/yazici-politikasi-10fb)
-- [Yetkili Kullanıcı Politikası](https://dev.to/aciklab/yetkili-kullanici-politikasi-21hb)
+- [A dive into hacking and its evolution](https://dev.to/cougarred1/a-dive-into-hacking-and-its-evolution-3iop)
+- [Getting ImagePullBackOff in K8s? How to Fix and 4 Ways to Prevent It](https://dev.to/giladmaayan/getting-imagepullbackoff-in-k8s-how-to-fix-and-4-ways-to-prevent-it-31g0)
+- [SOAP vs. REST API: Understanding the Battle of Web Services](https://dev.to/keploy/soap-vs-rest-api-understanding-the-battle-of-web-services-5g9a)
+- [Demystifying Object-Oriented Programming &lpar;OOP&rpar; Concepts](https://dev.to/manavcodaty/demystifying-object-oriented-programming-oop-concepts-df5)
+- [The Art and Science of Logo Design: Crafting the Perfect Identity](https://dev.to/witsow_branding/the-art-and-science-of-logo-design-crafting-the-perfect-identity-33j3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
