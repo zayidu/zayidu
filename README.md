@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Personal Finance Application with Python](https://dev.to/kartikmehta8/building-a-personal-finance-application-with-python-525e)
-- [Building with Supra: Powering Decentralized Applications with Better Data](https://dev.to/tosynthegeek/building-with-supra-powering-decentralized-applications-with-better-data-5d3c)
-- [Merkle Proofs: A Simple Guide](https://dev.to/olanetsoft/merkle-proofs-a-simple-guide-3l02)
-- [Azure PostgreSQL, Entra ID Authentication and .NET](https://dev.to/azure/azure-postgresql-entra-id-authentication-and-net-2pbe)
-- [Implementing Progressive Web Apps &lpar;PWAs&rpar; with React](https://dev.to/emmanuelj/implementing-progressive-web-apps-pwas-with-react-oem)
+- [Load Testing Solium Infernum with Docker, Kubernetes and Enemy AI](https://dev.to/romesh_dev/load-testing-solium-infernum-with-docker-kubernetes-and-enemy-ai-9pl)
+- [EMI Calculator](https://dev.to/vinkalprajapati/emi-calculator-b2b)
+- [The flow of creating digital signature and verification in Python](https://dev.to/u2633/the-flow-of-creating-digital-signature-and-verification-in-python-37ng)
+- [Menjelajahi Dunia Domain, Entities, dan Value Objects di Golang: Panduan Asik Buat Ngoding Lebih Rapi dan Efektif](https://dev.to/yogameleniawan/menjelajahi-dunia-domain-entities-dan-value-objects-di-golang-panduan-asik-buat-ngoding-lebih-rapi-dan-efektif-42db)
+- [THE FASTEST LOCAL DATABASE EVER WITH CLI??!!!](https://dev.to/jedi-studio/the-fastest-local-database-ever-with-cli-lm6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
