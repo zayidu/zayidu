@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart contracts privados con Solidity y Circom](https://dev.to/turupawn/smart-contracts-privados-con-solidity-y-circom-3a8h)
-- [Managing Architectural Tech Debt](https://dev.to/johnjvester/managing-architectural-tech-debt-i82)
-- [Simple &quot;Infinite&quot; Grid Shader](https://dev.to/javiersalcedopuyo/simple-infinite-grid-shader-5fah)
-- [Exploring Weatherstack API: Pricing, Features, and Alternatives](https://dev.to/ericksmith14/exploring-weatherstack-api-pricing-features-and-alternatives-565m)
-- [Investing in Web3 Projects: A Modern Business and Finance Guide](https://dev.to/korofetova_mila/investing-in-web3-projects-a-modern-business-and-finance-guide-3jj4)
+- [Principais Hooks no React com exercícios](https://dev.to/parkournick3/principais-hooks-no-react-com-exercicios-46m7)
+- [Git Commands](https://dev.to/mayas1111/git-commands-2mm)
+- [Testing Bunjs Web Application With Cucumber Js And Keploy](https://dev.to/keploy/testing-bunjs-web-application-with-cucumber-js-and-keploy-4d9d)
+- [Shadcn-ui codebase analysis: Perfect Next.js dark mode in 2 lines of code with next-themes.](https://dev.to/ramunarasinga/shadcn-ui-codebase-analysis-perfect-nextjs-dark-mode-in-2-lines-of-code-with-next-themes-8f5)
+- [Integrate Snowflake with Laravel](https://dev.to/emanuelnav/integrate-snowflake-with-laravel-450g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
