@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficiently Managing Unstructured Data with PostgreSQL hstore](https://dev.to/dbvismarketing/efficiently-managing-unstructured-data-with-postgresql-hstore-377f)
-- [Danger: keep order in your PRs](https://dev.to/giuliano1993/danger-keep-order-in-your-prs-281d)
-- [AWS Security Best Practices: Leveraging IAM for Service-to-Service Authentication and Authorization](https://dev.to/aws-heroes/aws-security-best-practices-leveraging-iam-for-service-to-service-authentication-and-authorization-5doi)
-- [Day 1: What is Node.js?](https://dev.to/learn_with_santosh/day-1-what-is-nodejs-436p)
-- [Histogram: Your first statistical Analysis](https://dev.to/madhuripatil/histogram-your-first-statistical-analysis-1af2)
+- [Deploying a NestJS Application on Vercel with a PostgreSQL Database](https://dev.to/bilalurrehman27/deploying-a-nestjs-application-on-vercel-with-a-postgresql-database-2be0)
+- [How to Create Your Own Memes Generator Project](https://dev.to/dk119819/meme-generator-project-466c)
+- [One Year of DevOps at Idus: Reflections and Learnings](https://dev.to/paikend/one-year-of-devops-at-idus-reflections-and-learnings-5ehb)
+- [Introduction to React Fiber](https://dev.to/jehnz/introduction-to-react-fiber-48c4)
+- [LibSQL Driver for Laravel](https://dev.to/darkterminal/libsql-driver-for-laravel-2g62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
