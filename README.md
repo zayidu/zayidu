@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💣Not Learning New Things at Work is Destroying Your Career](https://dev.to/lucaschitolina/not-learning-new-things-at-work-is-destroying-your-career-34g9)
-- [Design para programadores](https://dev.to/terminalcoffee/design-para-programadores-1m28)
-- [Why &quot;Chat over Your Data&quot; Is Harder Than You Think](https://dev.to/sahinera/why-chat-over-your-data-is-harder-than-you-think-1e69)
-- [Quick Guide | MERN Stack Application Development](https://dev.to/ishi_hisashi/quick-guide-mern-stack-application-development-4noe)
-- [Nginx Alias Path Traversal](https://dev.to/c4ng4c31r0/nginx-alias-path-traversal-1498)
+- [Dev: Blockchain](https://dev.to/r4nd3l/dev-blockchain-akg)
+- [SAST Scanning with SonarQube and Docker](https://dev.to/damienjburks/sast-scanning-with-sonarqube-and-docker-4cp7)
+- [Build Advanced QR Code Generator App with NextJS](https://dev.to/gkhan205/build-advanced-qr-code-generator-app-with-nextjs-1kol)
+- [2024 Complete Full-Stack Developers Roadmap](https://dev.to/code_queen/2024-complete-full-stack-developers-roadmap-1co9)
+- [Revolutionizing Business Intelligence: Unicloud’s Pioneering Approach to Cloud-Enabled Data Analytics and AI](https://dev.to/unicloud/revolutionizing-business-intelligence-uniclouds-pioneering-approach-to-cloud-enabled-data-analytics-and-ai-5hge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
