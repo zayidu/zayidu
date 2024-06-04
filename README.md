@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Technology and Programming Help My Hikes](https://dev.to/outofyourcomfortzone/how-technology-and-programming-help-my-hikes-28ap)
-- [Day 10 of my progress as a vue dev](https://dev.to/zain725342/day-10-of-my-progress-as-a-vue-dev-177b)
-- [409. Longest Palindrome](https://dev.to/mdarifulhaque/409-longest-palindrome-127o)
-- [App runner with CloudFormation AWS &lpar;json, nodejs, java &rpar;](https://dev.to/huydanggdg/app-runner-with-cloudformation-aws-json-nodejs-java--433i)
-- [Nvidia&#39;s 1000x Performance Boost Claim Verified](https://dev.to/maximsaplin/nvidias-1000x-performance-boost-claim-verified-j7f)
+- [Introduction to Trees and Binary Tree, Data Structures: &lpar;Trees, Part I&rpar;](https://dev.to/harshm03/introduction-to-trees-and-binary-tree-data-structures-trees-part-i-4cmf)
+- [Introduction to &quot;Accel Record&quot;: A TypeScript ORM Using the Active Record Pattern](https://dev.to/koyopro/introduction-to-accel-record-a-typescript-orm-using-the-active-record-pattern-2oeh)
+- [Building An E-Commerce Store With NextJS](https://dev.to/novu/building-an-e-commerce-store-with-nextjs-49m)
+- [Exception In java and hierarchy](https://dev.to/rajubora/exception-in-java-and-hierarchy-53f5)
+- [Populating Select Input with data from an API using Nextjs and typescript](https://dev.to/romkev/populating-select-input-with-data-from-an-api-using-nextjs-and-typescript-4jcn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
