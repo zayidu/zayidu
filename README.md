@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Script to get the emails of your dev.to followers](https://dev.to/plutov/script-to-get-the-emails-of-your-devto-followers-4bff)
-- [SQLtest.online: a great platform to test and improve your SQL skills](https://dev.to/gerda/sqltestonline-a-great-platform-to-test-and-improve-your-sql-skills-ae3)
-- [Java URI Library Compliant with RFC 3986](https://dev.to/authlete/java-uri-library-compliant-with-rfc-3986-21bb)
-- [Page Load Speed: The Cornerstone of Web Success](https://dev.to/elainecbennet/page-load-speed-the-cornerstone-of-web-success-k3e)
-- [One-click MFA integration: Software OTP, Passkey, and backup code](https://dev.to/logto/one-click-mfa-integration-software-otp-passkey-and-backup-code-580e)
+- [How to set up a Python WebSocket Server with Godot 4&#39;s WebSocketPeer Client. [Tutorial]](https://dev.to/olaf007/how-to-set-up-a-python-websocket-server-with-godot-4s-websocketpeer-client-tutorial-1a5f)
+- [The Product Engineer Checklist](https://dev.to/epilot/the-product-engineer-checklist-469d)
+- [Checked &amp; Unchecked statements in C# reference](https://dev.to/ozodbek_soft/checked-unchecked-statements-in-c-reference-2onk)
+- [100 Days of Swift &lpar;in 30&rpar;](https://dev.to/tonybermea/100-days-of-swift-in-30-5g22)
+- [HELLO WORLD!](https://dev.to/aizeon/hello-world-49gd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
