@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the SQL ORDER BY Clause](https://dev.to/kellyblaire/understanding-the-sql-order-by-clause-llg)
-- [OpenID Connect Flows: From Implicit to Authorization Code with PKCE &amp; BFF](https://dev.to/alexey-abblix/openid-connect-flows-from-implicit-to-authorization-code-with-pkce-bff-4ke8)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-pg0)
-- [NULL Handling in SQL](https://dev.to/kellyblaire/null-handling-in-sql-1mp2)
-- [Resum tècnic de l&#39;&quot;Artificial Intelligence Risk Management Framework &lpar;AI RMF 1.0&rpar;](https://dev.to/gcjordi/resum-tecnic-de-lartificial-intelligence-risk-management-framework-ai-rmf-10-4aia)
+- [💣Not Learning New Things at Work is Destroying Your Career](https://dev.to/lucaschitolina/not-learning-new-things-at-work-is-destroying-your-career-34g9)
+- [Design para programadores](https://dev.to/terminalcoffee/design-para-programadores-1m28)
+- [Why &quot;Chat over Your Data&quot; Is Harder Than You Think](https://dev.to/sahinera/why-chat-over-your-data-is-harder-than-you-think-1e69)
+- [Quick Guide | MERN Stack Application Development](https://dev.to/ishi_hisashi/quick-guide-mern-stack-application-development-4noe)
+- [Nginx Alias Path Traversal](https://dev.to/c4ng4c31r0/nginx-alias-path-traversal-1498)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
