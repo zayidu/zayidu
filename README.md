@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev: Blockchain](https://dev.to/r4nd3l/dev-blockchain-akg)
-- [SAST Scanning with SonarQube and Docker](https://dev.to/damienjburks/sast-scanning-with-sonarqube-and-docker-4cp7)
-- [Build Advanced QR Code Generator App with NextJS](https://dev.to/gkhan205/build-advanced-qr-code-generator-app-with-nextjs-1kol)
-- [2024 Complete Full-Stack Developers Roadmap](https://dev.to/code_queen/2024-complete-full-stack-developers-roadmap-1co9)
-- [Revolutionizing Business Intelligence: Unicloud’s Pioneering Approach to Cloud-Enabled Data Analytics and AI](https://dev.to/unicloud/revolutionizing-business-intelligence-uniclouds-pioneering-approach-to-cloud-enabled-data-analytics-and-ai-5hge)
+- [Deploying static webs apps with the Azure cli and bicep](https://dev.to/danwright/deploying-static-webs-apps-1dib)
+- [Best Practices for Working with Next.js](https://dev.to/enitanogun1/best-practices-for-working-with-nextjs-49np)
+- [How to create a Storage Account in Microsoft Azure](https://dev.to/atony07/how-to-create-a-storage-account-in-microsoft-azure-44e7)
+- [Mastering Python Comprehensions: Crafting Efficient and Readable Code](https://dev.to/sahilfruitwala/mastering-python-comprehensions-crafting-efficient-and-readable-code-a89)
+- [Day 963 : My Computer](https://dev.to/dwane/day-963-my-computer-4eog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
