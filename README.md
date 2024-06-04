@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MICROSOFT AZURE CORE SERVICES](https://dev.to/aizeon/microsoft-azure-core-services-24g1)
-- [JavaScript30 - 4 Array Cardio Day 1](https://dev.to/virtualsobriety/javascript30-4-array-cardio-day-1-3a0b)
-- [Creando un Tetris con JavaScript](https://dev.to/baltasarq/creando-un-tetris-con-javascript-15ba)
-- [Why is Kubernetes Debugging so Problematic?](https://dev.to/codenameone/why-is-kubernetes-debugging-so-problematic-4feo)
-- [Search Component React](https://dev.to/fatimaalam1234/search-component-react-11b8)
+- [** Los Mejores Entornos de Desarrollo Integrado &lpar;IDE&rpar; Explicados con la Magia de Escandalosos **🐻‍❄️🐼🐻](https://dev.to/orlidev/-los-mejores-entornos-de-desarrollo-integrado-ide-explicados-con-la-magia-de-escandalosos--m07)
+- [Upstream preview: The value of open source software](https://dev.to/tidelift/upstream-preview-the-value-of-open-source-software-2pfm)
+- [Top 10 Youtube channels to follow if you&#39;re a Programmer 🚀](https://dev.to/prathamjagga/top-10-youtube-channels-to-follow-if-youre-a-programmer-28c8)
+- [เริ่มต้น Quarkus 3 part 2.3 Renarde](https://dev.to/pramoth/erimtn-quarkus-3-part-23-renarde-2bgd)
+- [Jenkins on Kubernetes: A Comprehensive Guide 🚀](https://dev.to/tungbq/jenkins-on-kubernetes-a-comprehensive-guide-5d6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
