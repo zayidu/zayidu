@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Contribution Guidelines](https://dev.to/vauntdev/level-up-your-contribution-guidelines-3jc7)
-- [C# Attributes In Practice — Building A Payment Terminal](https://dev.to/turalsuleymani/c-attributes-in-practice-building-a-payment-terminal-2ofa)
-- [How to learn Nest JS?](https://dev.to/nadim_ch0wdhury/how-to-learn-nest-js-20nc)
-- [How to Ensure Docker Compose Uses Environment Variables from the `.env` File](https://dev.to/mochafreddo/how-to-ensure-docker-compose-uses-environment-variables-from-the-env-file-2ib6)
-- [Intro to React Native](https://dev.to/ajgamer/intro-to-react-native-3b4g)
+- [Task vs ValueTask](https://dev.to/ben-witt/task-vs-valuetask-499n)
+- [Excel Perform COUNT on Each Category and Concatenate Results into a String](https://dev.to/judith677/excel-perform-count-on-each-category-and-concatenate-results-into-a-string-4fn4)
+- [Installing a Custom Plugin in Docker: Kong Plugin Development](https://dev.to/zelarsoft/installing-a-custom-plugin-in-docker-kong-plugin-development-4m5f)
+- [Common pitfalls when designing widgets in Flutter](https://dev.to/harsh8088/common-pitfalls-when-designing-widgets-in-flutter-afd)
+- [How to setup a free, self-hosted AI model for use with VS Code](https://dev.to/glsolaria/how-to-setup-a-free-self-hosted-ai-model-for-use-with-vs-code-4704)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
