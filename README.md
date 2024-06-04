@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Task vs ValueTask](https://dev.to/ben-witt/task-vs-valuetask-499n)
-- [Excel Perform COUNT on Each Category and Concatenate Results into a String](https://dev.to/judith677/excel-perform-count-on-each-category-and-concatenate-results-into-a-string-4fn4)
-- [Installing a Custom Plugin in Docker: Kong Plugin Development](https://dev.to/zelarsoft/installing-a-custom-plugin-in-docker-kong-plugin-development-4m5f)
-- [Common pitfalls when designing widgets in Flutter](https://dev.to/harsh8088/common-pitfalls-when-designing-widgets-in-flutter-afd)
-- [How to setup a free, self-hosted AI model for use with VS Code](https://dev.to/glsolaria/how-to-setup-a-free-self-hosted-ai-model-for-use-with-vs-code-4704)
+- [Script to get the emails of your dev.to followers](https://dev.to/plutov/script-to-get-the-emails-of-your-devto-followers-4bff)
+- [SQLtest.online: a great platform to test and improve your SQL skills](https://dev.to/gerda/sqltestonline-a-great-platform-to-test-and-improve-your-sql-skills-ae3)
+- [Java URI Library Compliant with RFC 3986](https://dev.to/authlete/java-uri-library-compliant-with-rfc-3986-21bb)
+- [Page Load Speed: The Cornerstone of Web Success](https://dev.to/elainecbennet/page-load-speed-the-cornerstone-of-web-success-k3e)
+- [One-click MFA integration: Software OTP, Passkey, and backup code](https://dev.to/logto/one-click-mfa-integration-software-otp-passkey-and-backup-code-580e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
