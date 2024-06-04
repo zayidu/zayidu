@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Spiner || community discussion](https://dev.to/eliaondacs/spiner-community-discussion-4hm1)
-- [How we migrated our codebase from fp-ts to Effect](https://dev.to/laurerc/how-we-migrated-our-codebase-from-fp-ts-to-effect-5bbk)
-- [Top External Email Providers for Your Strapi Application](https://dev.to/strapi/top-external-email-providers-for-your-strapi-application-591h)
-- [Heroku for ChatOps: Start and Monitor Deployments from Slack](https://dev.to/thawkin3/heroku-for-chatops-start-and-monitor-deployments-from-slack-3kle)
-- [Do you know how the code you write in JavaScript gets executed? How JavaScript supports asynchronous execution?](https://dev.to/afnan_ahmed/do-you-know-how-the-code-you-write-in-javascript-gets-executed-how-javascript-supports-asynchronous-execution-315d)
+- [MICROSOFT AZURE CORE SERVICES](https://dev.to/aizeon/microsoft-azure-core-services-24g1)
+- [JavaScript30 - 4 Array Cardio Day 1](https://dev.to/virtualsobriety/javascript30-4-array-cardio-day-1-3a0b)
+- [Creando un Tetris con JavaScript](https://dev.to/baltasarq/creando-un-tetris-con-javascript-15ba)
+- [Why is Kubernetes Debugging so Problematic?](https://dev.to/codenameone/why-is-kubernetes-debugging-so-problematic-4feo)
+- [Search Component React](https://dev.to/fatimaalam1234/search-component-react-11b8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
