@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to set up a Python WebSocket Server with Godot 4&#39;s WebSocketPeer Client. [Tutorial]](https://dev.to/olaf007/how-to-set-up-a-python-websocket-server-with-godot-4s-websocketpeer-client-tutorial-1a5f)
-- [The Product Engineer Checklist](https://dev.to/epilot/the-product-engineer-checklist-469d)
-- [Checked &amp; Unchecked statements in C# reference](https://dev.to/ozodbek_soft/checked-unchecked-statements-in-c-reference-2onk)
-- [100 Days of Swift &lpar;in 30&rpar;](https://dev.to/tonybermea/100-days-of-swift-in-30-5g22)
-- [HELLO WORLD!](https://dev.to/aizeon/hello-world-49gd)
+- [Ibuprofeno.py💊| #118: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-118-explica-este-codigo-python-el5)
+- [How to Build a Classic Snake Game Using React.js](https://dev.to/bibekkakati/how-to-build-a-classic-snake-game-using-reactjs-5dn8)
+- [Is Google&#39;s search algorithm hurting smaller websites?](https://dev.to/robole/is-googles-search-algorithm-hurting-smaller-websites-54jm)
+- [Building A Restful API With Amazon S3: Efficient Data Management In The Cloud](https://dev.to/saumya27/building-a-restful-api-with-amazon-s3-efficient-data-management-in-the-cloud-50k0)
+- [Cloudflare&#39;s ZeroTrust Part 1: How can I access to my web/app in private network without NAT](https://dev.to/bachhuynh/cloudflares-zerotrust-part-1-how-can-i-access-to-my-webapp-in-private-network-without-nat-50g3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
