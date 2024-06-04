@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Firebase Authentication for Secure User Login](https://dev.to/dk119819/how-to-use-firebase-authentication-for-secure-user-login-3df9)
-- [Training-Free Long-Context Scaling of Large Language Models](https://dev.to/mikeyoung44/training-free-long-context-scaling-of-large-language-models-1dpi)
-- [Certifiably Robust RAG against Retrieval Corruption](https://dev.to/mikeyoung44/certifiably-robust-rag-against-retrieval-corruption-3a7p)
-- [Sparse maximal update parameterization: A holistic approach to sparse training dynamics](https://dev.to/mikeyoung44/sparse-maximal-update-parameterization-a-holistic-approach-to-sparse-training-dynamics-270e)
-- [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://dev.to/mikeyoung44/grokfast-accelerated-grokking-by-amplifying-slow-gradients-41on)
+- [RTSP: Real Time Streaming Protocol Explained](https://dev.to/alakkadshaw/rtsp-real-time-streaming-protocol-explained-3p82)
+- [Advanced Error Handling in Node.js](https://dev.to/amritak27/advanced-error-handling-in-nodejs-1ep8)
+- [VScode: How to Chain Multiple Devcontainer for Development](https://dev.to/weseek-inc/vscode-how-to-chain-multiple-devcontainer-for-development-2aep)
+- [What are Your Best Tips for Building a Coding Portfolio?](https://dev.to/anitaolsen/what-are-your-best-tips-for-building-a-coding-portfolio-415f)
+- [For vs While vs Map](https://dev.to/terminator_true/for-vs-while-vs-map-4956)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
