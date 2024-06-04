@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RTSP: Real Time Streaming Protocol Explained](https://dev.to/alakkadshaw/rtsp-real-time-streaming-protocol-explained-3p82)
-- [Advanced Error Handling in Node.js](https://dev.to/amritak27/advanced-error-handling-in-nodejs-1ep8)
-- [VScode: How to Chain Multiple Devcontainer for Development](https://dev.to/weseek-inc/vscode-how-to-chain-multiple-devcontainer-for-development-2aep)
-- [What are Your Best Tips for Building a Coding Portfolio?](https://dev.to/anitaolsen/what-are-your-best-tips-for-building-a-coding-portfolio-415f)
-- [For vs While vs Map](https://dev.to/terminator_true/for-vs-while-vs-map-4956)
+- [Spiner || community discussion](https://dev.to/eliaondacs/spiner-community-discussion-4hm1)
+- [How we migrated our codebase from fp-ts to Effect](https://dev.to/laurerc/how-we-migrated-our-codebase-from-fp-ts-to-effect-5bbk)
+- [Top External Email Providers for Your Strapi Application](https://dev.to/strapi/top-external-email-providers-for-your-strapi-application-591h)
+- [Heroku for ChatOps: Start and Monitor Deployments from Slack](https://dev.to/thawkin3/heroku-for-chatops-start-and-monitor-deployments-from-slack-3kle)
+- [Do you know how the code you write in JavaScript gets executed? How JavaScript supports asynchronous execution?](https://dev.to/afnan_ahmed/do-you-know-how-the-code-you-write-in-javascript-gets-executed-how-javascript-supports-asynchronous-execution-315d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
