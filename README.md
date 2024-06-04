@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Still Struggling with JavaScript Promises?](https://dev.to/godinhojoao/still-struggling-with-javascript-promises-kdh)
-- [Opt-In VS Opt-Out](https://dev.to/cxdezign/opt-in-vs-opt-out-2c48)
-- [[Game of Purpose] Day 16](https://dev.to/humberd/game-of-purpose-day-16-1pm3)
-- [Handle state management and concurrency issues in Terraform and Ansible?](https://dev.to/vaibhavhariaramani/handle-state-management-and-concurrency-issues-in-terraform-and-ansible-2dp8)
-- [Setting Up GitHub Environment Configurations in Neovim on Linux](https://dev.to/gokayburuc/setting-up-github-environment-configurations-in-neovim-on-linux-5499)
+- [How to Instantly Track Message Broker Job Status Within the Same Request With NestJS and RabbitMQ](https://dev.to/luscasleo/how-to-instantly-track-message-broker-job-status-within-the-same-request-with-nestjs-and-rabbitmq-1g60)
+- [Introduction to Machine Learning Algorithms in R](https://dev.to/kartikmehta8/introduction-to-machine-learning-algorithms-in-r-3eg5)
+- [Criei um banco de dados baseado no Universo de One Piece](https://dev.to/me_saulo/crie-um-banco-de-dados-baseado-no-universo-de-one-piece-7jo)
+- [Making My Own Karaoke Videos with AI](https://dev.to/muddylemon/making-my-own-karaoke-videos-with-ai-4b8l)
+- [How to get people to use your app as a solopreneur](https://dev.to/leonardoventurini/how-to-get-people-to-use-your-app-as-a-solopreneur-2o2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
