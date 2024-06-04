@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [** Los Mejores Entornos de Desarrollo Integrado &lpar;IDE&rpar; Explicados con la Magia de Escandalosos **🐻‍❄️🐼🐻](https://dev.to/orlidev/-los-mejores-entornos-de-desarrollo-integrado-ide-explicados-con-la-magia-de-escandalosos--m07)
-- [Upstream preview: The value of open source software](https://dev.to/tidelift/upstream-preview-the-value-of-open-source-software-2pfm)
-- [Top 10 Youtube channels to follow if you&#39;re a Programmer 🚀](https://dev.to/prathamjagga/top-10-youtube-channels-to-follow-if-youre-a-programmer-28c8)
-- [เริ่มต้น Quarkus 3 part 2.3 Renarde](https://dev.to/pramoth/erimtn-quarkus-3-part-23-renarde-2bgd)
-- [Jenkins on Kubernetes: A Comprehensive Guide 🚀](https://dev.to/tungbq/jenkins-on-kubernetes-a-comprehensive-guide-5d6a)
+- [How Technology and Programming Help My Hikes](https://dev.to/outofyourcomfortzone/how-technology-and-programming-help-my-hikes-28ap)
+- [Day 10 of my progress as a vue dev](https://dev.to/zain725342/day-10-of-my-progress-as-a-vue-dev-177b)
+- [409. Longest Palindrome](https://dev.to/mdarifulhaque/409-longest-palindrome-127o)
+- [App runner with CloudFormation AWS &lpar;json, nodejs, java &rpar;](https://dev.to/huydanggdg/app-runner-with-cloudformation-aws-json-nodejs-java--433i)
+- [Nvidia&#39;s 1000x Performance Boost Claim Verified](https://dev.to/maximsaplin/nvidias-1000x-performance-boost-claim-verified-j7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
