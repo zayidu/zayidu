@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust vs Typescript Variables](https://dev.to/daveturissini/rust-vs-typescript-variables-38ab)
-- [A Developer&#39;s Guide to Boosting Ecommerce Sales: From Code to Checkout Success](https://dev.to/elena143/a-developers-guide-to-boosting-ecommerce-sales-from-code-to-checkout-success-4p3h)
-- [Why should you automate your architecture on AWS?](https://dev.to/welcloud-io/why-should-you-automate-your-architecture-on-aws-333c)
-- [Creating a Windows Server Virtual Machine and deploying a Windows Server.](https://dev.to/opsyog/create-a-windows-server-and-install-windows-server-on-it-52ec)
-- [Embedding AI into the DNA of Your Company](https://dev.to/dev3l/embedding-ai-into-the-dna-of-your-company-35nb)
+- [Are Passkeys SCA-Compliant?](https://dev.to/corbado/are-passkeys-sca-compliant-12jp)
+- [How to create an Authentication &amp; Authorization feature in Express JS RESTful API?](https://dev.to/nadim_ch0wdhury/how-to-create-an-authentication-authorization-feature-in-express-js-restful-api-ge8)
+- [How to create an Authentication &amp; Authorization feature in Nest JS GraphQL API?](https://dev.to/nadim_ch0wdhury/how-to-create-an-authentication-authorization-feature-in-nest-js-graphql-api-35em)
+- [How to Connect RESTful API &amp; Express JS backend with MongoDB database?](https://dev.to/nadim_ch0wdhury/how-to-connect-restful-api-express-js-backend-with-mongodb-database-2aaa)
+- [AWS Config for Organizations](https://dev.to/diegotrujillo/aws-config-for-organizations-3i6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
