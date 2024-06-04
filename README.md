@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Instantly Track Message Broker Job Status Within the Same Request With NestJS and RabbitMQ](https://dev.to/luscasleo/how-to-instantly-track-message-broker-job-status-within-the-same-request-with-nestjs-and-rabbitmq-1g60)
-- [Introduction to Machine Learning Algorithms in R](https://dev.to/kartikmehta8/introduction-to-machine-learning-algorithms-in-r-3eg5)
-- [Criei um banco de dados baseado no Universo de One Piece](https://dev.to/me_saulo/crie-um-banco-de-dados-baseado-no-universo-de-one-piece-7jo)
-- [Making My Own Karaoke Videos with AI](https://dev.to/muddylemon/making-my-own-karaoke-videos-with-ai-4b8l)
-- [How to get people to use your app as a solopreneur](https://dev.to/leonardoventurini/how-to-get-people-to-use-your-app-as-a-solopreneur-2o2f)
+- [Higher Order Components &lpar;HOC&rpar; React](https://dev.to/fatimaalam1234/higher-order-components-hoc-react-hb2)
+- [Simplifying Dependency Management with Spring IoC](https://dev.to/tiuwill/simplifying-dependency-management-with-spring-ioc-58nl)
+- [We&#39;re software developers, but are we?](https://dev.to/hectorzr/were-software-developers-but-are-we-bd6)
+- [Bug: Docker-compose up?](https://dev.to/fabiobazurtobla/bug-docker-compose-up-1coj)
+- [ReactJS and JavaScript, in Frontend Development](https://dev.to/buildwebcrumbs/reactjs-and-javascript-in-frontend-development-2eek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
