@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to my Blog](https://dev.to/ganatrajay2000/welcome-to-my-blog-1cmh)
+- [Embarking on My Coding Journey](https://dev.to/william_nguyen_88/embarking-on-my-coding-journey-2fl1)
 - [Higher Order Components &lpar;HOC&rpar; React](https://dev.to/fatimaalam1234/higher-order-components-hoc-react-hb2)
 - [Simplifying Dependency Management with Spring IoC](https://dev.to/tiuwill/simplifying-dependency-management-with-spring-ioc-58nl)
 - [We&#39;re software developers, but are we?](https://dev.to/hectorzr/were-software-developers-but-are-we-bd6)
-- [Bug: Docker-compose up?](https://dev.to/fabiobazurtobla/bug-docker-compose-up-1coj)
-- [ReactJS and JavaScript, in Frontend Development](https://dev.to/buildwebcrumbs/reactjs-and-javascript-in-frontend-development-2eek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
