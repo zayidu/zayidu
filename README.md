@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Trees and Binary Tree, Data Structures: &lpar;Trees, Part I&rpar;](https://dev.to/harshm03/introduction-to-trees-and-binary-tree-data-structures-trees-part-i-4cmf)
-- [Introduction to &quot;Accel Record&quot;: A TypeScript ORM Using the Active Record Pattern](https://dev.to/koyopro/introduction-to-accel-record-a-typescript-orm-using-the-active-record-pattern-2oeh)
-- [Building An E-Commerce Store With NextJS](https://dev.to/novu/building-an-e-commerce-store-with-nextjs-49m)
-- [Exception In java and hierarchy](https://dev.to/rajubora/exception-in-java-and-hierarchy-53f5)
-- [Populating Select Input with data from an API using Nextjs and typescript](https://dev.to/romkev/populating-select-input-with-data-from-an-api-using-nextjs-and-typescript-4jcn)
+- [Understanding the SQL ORDER BY Clause](https://dev.to/kellyblaire/understanding-the-sql-order-by-clause-llg)
+- [OpenID Connect Flows: From Implicit to Authorization Code with PKCE &amp; BFF](https://dev.to/alexey-abblix/openid-connect-flows-from-implicit-to-authorization-code-with-pkce-bff-4ke8)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-pg0)
+- [NULL Handling in SQL](https://dev.to/kellyblaire/null-handling-in-sql-1mp2)
+- [Resum tècnic de l&#39;&quot;Artificial Intelligence Risk Management Framework &lpar;AI RMF 1.0&rpar;](https://dev.to/gcjordi/resum-tecnic-de-lartificial-intelligence-risk-management-framework-ai-rmf-10-4aia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
