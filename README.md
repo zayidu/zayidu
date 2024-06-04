@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Test REST APIs in Seconds! 🚀](https://dev.to/miguelrodriguezp99/create-test-rest-apis-in-seconds-cag)
-- [Day 3](https://dev.to/han_han/day-3-155)
-- [GSAP &lpar;GreenSock Animation Platform&rpar;: Revolutionizing Web Animations](https://dev.to/italohgs/gsap-greensock-animation-platform-revolutionizing-web-animations-14ga)
-- [Entendendo e Utilizando Tipos Condicionais &lpar;TypeScript&rpar;](https://dev.to/iagobelo/entendendo-e-utilizando-tipos-condicionais-typescript-40ib)
-- [Implement React v18 from Scratch Using WASM and Rust - [15] Implement useEffect](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-15-implement-useeffect-5gb4)
+- [Memahami CQRS &lpar;Command Query Responsibility Segregation&rpar; Kenapa dan Bagaimana Menggunakannya](https://dev.to/yogameleniawan/memahami-cqrs-command-query-responsibility-segregation-kenapa-dan-bagaimana-menggunakannya-4hmf)
+- [Word Frequency Analysis using Elasticsearch on Alibaba Cloud](https://dev.to/a_lucas/word-frequency-analysis-using-elasticsearch-on-alibaba-cloud-4i6j)
+- [Enhancing React Development with npx: A Comparison with npm](https://dev.to/imparth/enhancing-react-development-with-npx-a-comparison-with-npm-17p4)
+- [How do you optimize your code for performance and efficiency?](https://dev.to/learn_with_santosh/how-do-you-optimize-your-code-for-performance-and-efficiency-3c0h)
+- [Panduan Pemula untuk Belajar Pemrograman: Bahasa Mana yang Harus Dipilih?](https://dev.to/yogameleniawan/panduan-pemula-untuk-belajar-pemrograman-bahasa-mana-yang-harus-dipilih-3a71)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
