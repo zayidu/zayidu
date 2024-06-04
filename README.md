@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Memahami CQRS &lpar;Command Query Responsibility Segregation&rpar; Kenapa dan Bagaimana Menggunakannya](https://dev.to/yogameleniawan/memahami-cqrs-command-query-responsibility-segregation-kenapa-dan-bagaimana-menggunakannya-4hmf)
-- [Word Frequency Analysis using Elasticsearch on Alibaba Cloud](https://dev.to/a_lucas/word-frequency-analysis-using-elasticsearch-on-alibaba-cloud-4i6j)
-- [Enhancing React Development with npx: A Comparison with npm](https://dev.to/imparth/enhancing-react-development-with-npx-a-comparison-with-npm-17p4)
-- [How do you optimize your code for performance and efficiency?](https://dev.to/learn_with_santosh/how-do-you-optimize-your-code-for-performance-and-efficiency-3c0h)
-- [Panduan Pemula untuk Belajar Pemrograman: Bahasa Mana yang Harus Dipilih?](https://dev.to/yogameleniawan/panduan-pemula-untuk-belajar-pemrograman-bahasa-mana-yang-harus-dipilih-3a71)
+- [Rust vs Typescript Variables](https://dev.to/daveturissini/rust-vs-typescript-variables-38ab)
+- [A Developer&#39;s Guide to Boosting Ecommerce Sales: From Code to Checkout Success](https://dev.to/elena143/a-developers-guide-to-boosting-ecommerce-sales-from-code-to-checkout-success-4p3h)
+- [Why should you automate your architecture on AWS?](https://dev.to/welcloud-io/why-should-you-automate-your-architecture-on-aws-333c)
+- [Creating a Windows Server Virtual Machine and deploying a Windows Server.](https://dev.to/opsyog/create-a-windows-server-and-install-windows-server-on-it-52ec)
+- [Embedding AI into the DNA of Your Company](https://dev.to/dev3l/embedding-ai-into-the-dna-of-your-company-35nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
