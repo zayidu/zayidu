@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build AI-Driven Retrieval by Integrating Langchain and Elasticsearch](https://dev.to/a_lucas/how-to-build-ai-driven-retrieval-by-integrating-langchain-and-elasticsearch-35j0)
-- [Streamlining Image Annotation with Annotate-Lab](https://dev.to/sumn2u/streamlining-image-annotation-with-annotate-lab-6hc)
-- [The Backbone of Collaboration: Understanding Merge Request Reviews](https://dev.to/iswanjumat/the-backbone-of-collaboration-understanding-merge-request-reviews-3c8g)
-- [How to make basic express api](https://dev.to/cache/how-to-make-basic-express-api-2o7g)
-- [Understanding Spring Annotations: A Comprehensive Overview](https://dev.to/tiuwill/understanding-spring-annotations-a-comprehensive-overview-2hg3)
+- [SELENIUM](https://dev.to/jayshankark/selenium-2c2d)
+- [Ace Your Exams: Automated Question Generation for the Diligent Student](https://dev.to/roomals/ace-your-exams-automated-question-generation-for-the-diligent-student-11c)
+- [Constraints &amp; Validations](https://dev.to/gasparericmartin/constraints-validations-2n1i)
+- [🚀 First Week of Computer Programming Courses: What I’ve Learned! 🚀](https://dev.to/itschristinamba/first-week-of-computer-programming-courses-what-ive-learned-3p45)
+- [CSS Naming Convention yang Perlu Diketahui dan Kenapa Perlu Digunakan](https://dev.to/yogameleniawan/css-naming-convention-yang-perlu-diketahui-dan-kenapa-perlu-digunakan-1l7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
