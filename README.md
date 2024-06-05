@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Take Your First Steps for Building on LLMs with Google Gemini](https://dev.to/alvinslee/take-your-first-steps-for-building-on-llms-with-google-gemini-4169)
-- [Implementing Role Based Access Control &lpar;RBAC&rpar; in Node.js and Express App](https://dev.to/permify/implementing-role-based-access-control-rbac-in-nodejs-and-express-app-5df4)
-- [Generative AI: Revolutionizing Content Creation and Beyond](https://dev.to/data_expertise/generative-ai-revolutionizing-content-creation-and-beyond-gi9)
-- [How to get started with OpenProject on-premises installation](https://dev.to/openproject/how-to-get-started-with-openproject-on-premises-installation-22ia)
-- [Perform RAG in JSON formatted data](https://dev.to/samitha10/perform-rag-in-json-formatted-data-15gf)
+- [Debugging beyond console.log&lpar;&rpar; in JavaScript](https://dev.to/codeparrot/debugging-beyond-consolelog-in-javascript-32g6)
+- [Difference between Asynchronous Javascript and Synchronous Javascript](https://dev.to/sloppenheimer/difference-between-asynchronous-javascript-and-synchronous-javascript-174c)
+- [Linux Package Management: A Basic Overview - DevOps Prerequisite 4](https://dev.to/iaadidev/linux-package-management-a-basic-overview-4b05)
+- [Array / Array Method / Function](https://dev.to/bekmuhammaddev/array-array-method-function-2hip)
+- [Announcing: Theme Builder for Angular Material](https://dev.to/ngmaterialdev/announcing-theme-builder-for-angular-material-3kpf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
