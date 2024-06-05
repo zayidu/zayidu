@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Reactive Contexts in Angular 18](https://dev.to/diegoquesadadev/understanding-reactive-contexts-in-angular-18-17b9)
-- [Class Relationships](https://dev.to/paulike/class-relationships-324b)
-- [On-Scroll Animation](https://dev.to/alikhanzada577/on-scroll-animation-11am)
-- [How to debug a Python and Django application inside a Docker container](https://dev.to/danielcandidos/how-to-debug-a-python-and-django-application-inside-a-docker-container-504f)
-- [Leveraging SOAP APIs for Outbound Integration: A Step-by-Step Guide.](https://dev.to/sophiasemga/leveraging-soap-apis-for-outbound-integration-a-step-by-step-guide-245c)
+- [The BigInteger and BigDecimal Classes](https://dev.to/paulike/the-biginteger-and-bigdecimal-classes-1eeg)
+- [Automatic Conversion between Primitive Types and Wrapper Class Types](https://dev.to/paulike/automatic-conversion-between-primitive-types-and-wrapper-class-types-46en)
+- [Configuração de ambiente BackEnd](https://dev.to/anuntech/configuracao-de-ambiente-backend-3j9k)
+- [Configuração de ambiente Web](https://dev.to/anuntech/configuracao-de-ambiente-web-n4f)
+- [Achieving Lifecycle in React Functional Components](https://dev.to/geraldhamiltonwicks/achieving-lifecycle-in-react-functional-components-482i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
