@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SELENIUM](https://dev.to/jayshankark/selenium-2c2d)
-- [Ace Your Exams: Automated Question Generation for the Diligent Student](https://dev.to/roomals/ace-your-exams-automated-question-generation-for-the-diligent-student-11c)
-- [Constraints &amp; Validations](https://dev.to/gasparericmartin/constraints-validations-2n1i)
-- [🚀 First Week of Computer Programming Courses: What I’ve Learned! 🚀](https://dev.to/itschristinamba/first-week-of-computer-programming-courses-what-ive-learned-3p45)
-- [CSS Naming Convention yang Perlu Diketahui dan Kenapa Perlu Digunakan](https://dev.to/yogameleniawan/css-naming-convention-yang-perlu-diketahui-dan-kenapa-perlu-digunakan-1l7j)
+- [The Best Alternatives to Postman for API Testing](https://dev.to/vyan/the-best-alternatives-to-postman-for-api-testing-2bno)
+- [React: Design Patterns | Controlled &amp; Uncontrolled Components](https://dev.to/andresz74/react-design-patterns-controlled-uncontrolled-components-e2c)
+- [How to setup a Svelte project](https://dev.to/dumorando/how-to-setup-a-svelte-project-4kho)
+- [SPA vs MPA: Which is better?](https://dev.to/twinkle123/spa-vs-mpa-which-is-better-4mb7)
+- [Cloud-Native Security: A Guide to Microservices and Serverless Protection](https://dev.to/gauri1504/cloud-native-security-a-guide-to-microservices-and-serverless-protection-12d8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
