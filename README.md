@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Configurar uma Pipeline para Bitbucket Pipelines em um Projeto Node.js](https://dev.to/vitorrios1001/como-configurar-uma-pipeline-para-bitbucket-pipelines-em-um-projeto-nodejs-32ph)
-- [7 Ways to Improve Asset Visibility](https://dev.to/yayabobi/7-ways-to-improve-asset-visibility-8kj)
-- [shan kalyar](https://dev.to/shan_kalyar_10bd41e74f014/shan-kalyar-5den)
-- [A Quick Guide to RAG Using Algoboost for Embedding Vector Inference](https://dev.to/tshidisoisazi/a-quick-guide-to-rag-using-algoboost-for-embedding-vector-inference-2gch)
-- [Item 33: Pense na possibilidade de usar contêineres heterogêneos typesafe](https://dev.to/giselecoder/item-33-pense-na-possibilidade-de-usar-conteineres-heterogeneos-typesafe-370a)
+- [Augmented Reality &lpar;AR&rpar; in Everyday Life: Current Applications and Future Trends](https://dev.to/bingecoder89/augmented-reality-ar-in-everyday-life-current-applications-and-future-trends-1jca)
+- [Automatically remove automatic IPv4 address assignment to Amazon EC2 instances](https://dev.to/nishikawaakira/automatically-remove-automatic-ipv4-address-assignment-to-amazon-ec2-instances-12fl)
+- [Release 0.37.0 of Spellcheck &lpar;GitHub&rpar; Action - yet another maintenance release](https://dev.to/jonasbn/release-0370-of-spellcheck-github-action-yet-another-maintenance-release-2dj9)
+- [ASO 101: App store optimization for Amazon Developers](https://dev.to/amazonappdev/aso-101-app-store-optimization-for-amazon-developers-57lp)
+- [A day at the beach](https://dev.to/medmor_65/a-day-at-the-beach-2k41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
