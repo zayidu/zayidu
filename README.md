@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Title: Unpacking the Core Architectural Components of Microsoft Azure](https://dev.to/francis_mbamara_05cc4a12d/title-unpacking-the-core-architectural-components-of-microsoft-azure-2cgo)
-- [☸️ Why Managed Kubernetes is a Viable Solution for even Modest but Actively Developed Applications](https://dev.to/zenika/why-managed-kubernetes-is-a-viable-solution-for-even-modest-but-actively-developed-applications-357g)
-- [Understanding SQL Joins: A Comprehensive Guide](https://dev.to/johnnyk/understanding-sql-joins-a-comprehensive-guide-3c9g)
-- [Angular Material Theming with CSS Variables](https://dev.to/ngmaterialdev/angular-material-theming-with-css-variables-1jne)
-- [A inclusão de pessoas introvertidas no mundo de negócios, um contraponto necessário.](https://dev.to/biosbug/a-inclusao-de-pessoas-introvertidas-no-mundo-de-negocios-um-contraponto-necessario-37n8)
+- [Evaluation Metrics: Machine Learning Models 🤖🐍](https://dev.to/kammarianand/evaluation-metrics-machine-learning-models-lg5)
+- [What are the most promising decentralized applications available today?](https://dev.to/sanaellie/what-are-the-most-promising-decentralized-applications-available-today-1af1)
+- [Sachin Dev Duggal - Future Employment and AI: Moving Beyond Technological Displacement](https://dev.to/triptivermaa01/sachin-dev-duggal-future-employment-and-ai-moving-beyond-technological-displacement-lf6)
+- [What is MANUAL TESTING its DRAWBACKS and BENEFITS.](https://dev.to/s1eb0d54/what-is-manual-testing-its-drawbacks-and-benefits-4830)
+- [Understanding Type Casting in Java: Importance, Usage, and Necessity](https://dev.to/fullstackjava/understanding-type-casting-in-java-importance-usage-and-necessity-p8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
