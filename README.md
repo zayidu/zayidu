@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Perform Semantic Search using ChromaDB in JavaScript](https://dev.to/vaatiesther/how-to-perform-semantic-search-using-chromadb-in-javascript-3og8)
-- [Understanding AI Code Analysis and Real-Time Performance Monitoring](https://dev.to/get_pieces/understanding-ai-code-analysis-and-real-time-performance-monitoring-1ao4)
-- [SQL Mastery: Unleashing the Power of Queries](https://dev.to/mahabubr/sql-mastery-unleashing-the-power-of-queries-5bnl)
-- [HOW TO HOST AN APPLICATION USING GITHUB](https://dev.to/shreeprabha_bhat/how-to-host-an-application-using-github-49bh)
-- [Device limit reached for this Apple ID - Solution](https://dev.to/dmitrysemenov/device-limit-reached-for-this-apple-id-solution-16ak)
+- [Take Your First Steps for Building on LLMs with Google Gemini](https://dev.to/alvinslee/take-your-first-steps-for-building-on-llms-with-google-gemini-4169)
+- [Implementing Role Based Access Control &lpar;RBAC&rpar; in Node.js and Express App](https://dev.to/permify/implementing-role-based-access-control-rbac-in-nodejs-and-express-app-5df4)
+- [Generative AI: Revolutionizing Content Creation and Beyond](https://dev.to/data_expertise/generative-ai-revolutionizing-content-creation-and-beyond-gi9)
+- [How to get started with OpenProject on-premises installation](https://dev.to/openproject/how-to-get-started-with-openproject-on-premises-installation-22ia)
+- [Perform RAG in JSON formatted data](https://dev.to/samitha10/perform-rag-in-json-formatted-data-15gf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
