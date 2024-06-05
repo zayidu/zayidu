@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Data Types in Java with Examples](https://dev.to/fullstackjava/a-comprehensive-guide-to-data-types-in-java-with-examples-2716)
-- [Rendering a list of elements in JSX](https://dev.to/ark7/rendering-a-list-of-elements-in-jsx-35am)
-- [What is Func Keyword in C#? Main Usages ⭐](https://dev.to/bytehide/what-is-func-keyword-in-c-main-usages-3gmj)
-- [Automating Insulin Ordering: Sending the Email to the Pharmacy &lpar;Part 4&rpar;](https://dev.to/goudekettingrm/automating-insulin-ordering-sending-the-email-to-the-pharmacy-part-4-1bp)
-- [How I made my own screenshot-to-code project](https://dev.to/dancemove_marscode/how-i-made-my-own-screenshot-to-code-project-2enh)
+- [Level Up Your Backend Engineering with Self-Directed Learning](https://dev.to/bede_hampo/level-up-your-backend-engineering-with-self-directed-learning-13a5)
+- [What is Machine Learning?](https://dev.to/madhuripatil/what-is-machine-learning-53cl)
+- [Amazon Inspector](https://dev.to/aws-builders/amazon-inspector-4fk4)
+- [Separate GitHub Accounts for Work and Personal Projects: A Step-by-Step Guide](https://dev.to/nkrumahthis/separate-github-accounts-for-work-and-personal-projects-a-step-by-step-guide-28jk)
+- [17 Tailwind CSS Tips &amp; Tricks You Probably Don&#39;t Know](https://dev.to/syakirurahman/17-tailwind-css-tips-tricks-you-probably-dont-know-4m68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
