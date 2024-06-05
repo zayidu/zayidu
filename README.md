@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pipeline Integrity and Security in DevSecOps](https://dev.to/gitguardian/pipeline-integrity-and-security-in-devsecops-2p81)
-- [Thrive as a Junior Engineer: Embrace Deliberate Progress](https://dev.to/alexroor4/thrive-as-a-junior-engineer-embrace-deliberate-progress-5bnn)
-- [Karyam: Simples everyday writing app](https://dev.to/shreyvijayvargiya/karyam-simples-everyday-writing-app-489m)
-- [Next.js 15 just got faster: Comprehensive guide to testing Turbopack](https://dev.to/perisicnikola37/nextjs-15-just-got-faster-comprehensive-guide-to-testing-turbopack-4a7n)
-- [Mastering JavaScript: Your Ultimate Guide🚀](https://dev.to/dharamgfx/mastering-javascript-your-ultimate-guide-4mic)
+- [How to Perform Semantic Search using ChromaDB in JavaScript](https://dev.to/vaatiesther/how-to-perform-semantic-search-using-chromadb-in-javascript-3og8)
+- [Understanding AI Code Analysis and Real-Time Performance Monitoring](https://dev.to/get_pieces/understanding-ai-code-analysis-and-real-time-performance-monitoring-1ao4)
+- [SQL Mastery: Unleashing the Power of Queries](https://dev.to/mahabubr/sql-mastery-unleashing-the-power-of-queries-5bnl)
+- [HOW TO HOST AN APPLICATION USING GITHUB](https://dev.to/shreeprabha_bhat/how-to-host-an-application-using-github-49bh)
+- [Device limit reached for this Apple ID - Solution](https://dev.to/dmitrysemenov/device-limit-reached-for-this-apple-id-solution-16ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
