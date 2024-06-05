@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Backend Engineering with Self-Directed Learning](https://dev.to/bede_hampo/level-up-your-backend-engineering-with-self-directed-learning-13a5)
-- [What is Machine Learning?](https://dev.to/madhuripatil/what-is-machine-learning-53cl)
-- [Amazon Inspector](https://dev.to/aws-builders/amazon-inspector-4fk4)
-- [Separate GitHub Accounts for Work and Personal Projects: A Step-by-Step Guide](https://dev.to/nkrumahthis/separate-github-accounts-for-work-and-personal-projects-a-step-by-step-guide-28jk)
-- [17 Tailwind CSS Tips &amp; Tricks You Probably Don&#39;t Know](https://dev.to/syakirurahman/17-tailwind-css-tips-tricks-you-probably-dont-know-4m68)
+- [Title: Unpacking the Core Architectural Components of Microsoft Azure](https://dev.to/francis_mbamara_05cc4a12d/title-unpacking-the-core-architectural-components-of-microsoft-azure-2cgo)
+- [☸️ Why Managed Kubernetes is a Viable Solution for even Modest but Actively Developed Applications](https://dev.to/zenika/why-managed-kubernetes-is-a-viable-solution-for-even-modest-but-actively-developed-applications-357g)
+- [Understanding SQL Joins: A Comprehensive Guide](https://dev.to/johnnyk/understanding-sql-joins-a-comprehensive-guide-3c9g)
+- [Angular Material Theming with CSS Variables](https://dev.to/ngmaterialdev/angular-material-theming-with-css-variables-1jne)
+- [A inclusão de pessoas introvertidas no mundo de negócios, um contraponto necessário.](https://dev.to/biosbug/a-inclusao-de-pessoas-introvertidas-no-mundo-de-negocios-um-contraponto-necessario-37n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
