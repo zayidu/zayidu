@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PSD3 &amp; PSR Implications for Passkey Authentication](https://dev.to/corbado/psd3-psr-implications-for-passkey-authentication-22e2)
-- [Optimize your Chrome options for testing to get x1.25 impact](https://dev.to/jetthoughts/optimize-your-chrome-options-for-testing-to-get-x125-impact-djf)
-- [Manage Bundler indirect dependencies versions](https://dev.to/jetthoughts/manage-bundler-indirect-dependencies-versions-50cf)
-- [Onboarding Tests into Legacy Project](https://dev.to/jetthoughts/onboarding-tests-into-legacy-project-54f3)
-- [Checklist for the non-tech founder*](https://dev.to/jetthoughts/checklist-for-the-non-tech-founder-dim)
+- [A Comprehensive Guide to Data Types in Java with Examples](https://dev.to/fullstackjava/a-comprehensive-guide-to-data-types-in-java-with-examples-2716)
+- [Rendering a list of elements in JSX](https://dev.to/ark7/rendering-a-list-of-elements-in-jsx-35am)
+- [What is Func Keyword in C#? Main Usages ⭐](https://dev.to/bytehide/what-is-func-keyword-in-c-main-usages-3gmj)
+- [Automating Insulin Ordering: Sending the Email to the Pharmacy &lpar;Part 4&rpar;](https://dev.to/goudekettingrm/automating-insulin-ordering-sending-the-email-to-the-pharmacy-part-4-1bp)
+- [How I made my own screenshot-to-code project](https://dev.to/dancemove_marscode/how-i-made-my-own-screenshot-to-code-project-2enh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
