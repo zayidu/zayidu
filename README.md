@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging beyond console.log&lpar;&rpar; in JavaScript](https://dev.to/codeparrot/debugging-beyond-consolelog-in-javascript-32g6)
-- [Difference between Asynchronous Javascript and Synchronous Javascript](https://dev.to/sloppenheimer/difference-between-asynchronous-javascript-and-synchronous-javascript-174c)
-- [Linux Package Management: A Basic Overview - DevOps Prerequisite 4](https://dev.to/iaadidev/linux-package-management-a-basic-overview-4b05)
-- [Array / Array Method / Function](https://dev.to/bekmuhammaddev/array-array-method-function-2hip)
-- [Announcing: Theme Builder for Angular Material](https://dev.to/ngmaterialdev/announcing-theme-builder-for-angular-material-3kpf)
+- [Como Configurar uma Pipeline para Bitbucket Pipelines em um Projeto Node.js](https://dev.to/vitorrios1001/como-configurar-uma-pipeline-para-bitbucket-pipelines-em-um-projeto-nodejs-32ph)
+- [7 Ways to Improve Asset Visibility](https://dev.to/yayabobi/7-ways-to-improve-asset-visibility-8kj)
+- [shan kalyar](https://dev.to/shan_kalyar_10bd41e74f014/shan-kalyar-5den)
+- [A Quick Guide to RAG Using Algoboost for Embedding Vector Inference](https://dev.to/tshidisoisazi/a-quick-guide-to-rag-using-algoboost-for-embedding-vector-inference-2gch)
+- [Item 33: Pense na possibilidade de usar contêineres heterogêneos typesafe](https://dev.to/giselecoder/item-33-pense-na-possibilidade-de-usar-conteineres-heterogeneos-typesafe-370a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
