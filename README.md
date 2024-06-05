@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Evaluation Metrics: Machine Learning Models 🤖🐍](https://dev.to/kammarianand/evaluation-metrics-machine-learning-models-lg5)
-- [What are the most promising decentralized applications available today?](https://dev.to/sanaellie/what-are-the-most-promising-decentralized-applications-available-today-1af1)
-- [Sachin Dev Duggal - Future Employment and AI: Moving Beyond Technological Displacement](https://dev.to/triptivermaa01/sachin-dev-duggal-future-employment-and-ai-moving-beyond-technological-displacement-lf6)
-- [What is MANUAL TESTING its DRAWBACKS and BENEFITS.](https://dev.to/s1eb0d54/what-is-manual-testing-its-drawbacks-and-benefits-4830)
-- [Understanding Type Casting in Java: Importance, Usage, and Necessity](https://dev.to/fullstackjava/understanding-type-casting-in-java-importance-usage-and-necessity-p8f)
+- [How I Overcame The Imposter Syndrome](https://dev.to/thekarlesi/embracing-and-overcoming-the-imposter-syndrome-oo2)
+- [The Fascinating Journey of Frontend and Web Development](https://dev.to/ismailk/the-fascinating-journey-of-frontend-and-web-development-8g)
+- [Algoritmo A* &lpar;A Estrela&rpar;](https://dev.to/cristianomafrajunior/algoritmo-a-a-estrela-19ne)
+- [NextUI Theme Generator](https://dev.to/filipf/nextui-theme-generator-4lm5)
+- [Understanding Dependency Injection in Spring Boot](https://dev.to/tharindufdo/understanding-dependency-injection-in-spring-boot-2ll0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
