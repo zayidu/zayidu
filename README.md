@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Overcame The Imposter Syndrome](https://dev.to/thekarlesi/embracing-and-overcoming-the-imposter-syndrome-oo2)
-- [The Fascinating Journey of Frontend and Web Development](https://dev.to/ismailk/the-fascinating-journey-of-frontend-and-web-development-8g)
-- [Algoritmo A* &lpar;A Estrela&rpar;](https://dev.to/cristianomafrajunior/algoritmo-a-a-estrela-19ne)
-- [NextUI Theme Generator](https://dev.to/filipf/nextui-theme-generator-4lm5)
-- [Understanding Dependency Injection in Spring Boot](https://dev.to/tharindufdo/understanding-dependency-injection-in-spring-boot-2ll0)
+- [Streamlining Trade Operations with Intelligent Document Processing &lpar;IDP&rpar;](https://dev.to/john_hall/streamlining-trade-operations-with-intelligent-document-processing-idp-1hpi)
+- [Day 5 of #90daysofdevops Advanced Linux Shell Scripting for DevOps Engineers with User Management](https://dev.to/oncloud7/day-5-of-90daysofdevops-advanced-linux-shell-scripting-for-devops-engineers-with-user-management-2lg2)
+- [✨ 10 useful webdev insight &amp; learning resources!](https://dev.to/thexdev/10-useful-webdev-insight-learning-resources-eoe)
+- [Understanding gRPC: A Modern Approach to Remote Procedure Calls](https://dev.to/arefin6/understanding-grpc-a-modern-approach-to-remote-procedure-calls-59c)
+- [CSS Art: June - 14 de Junho Dia Mundial do Doador de Sangue](https://dev.to/hmontarroyos/css-art-june-14-de-junho-dia-mundial-do-doador-de-sangue-9fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
