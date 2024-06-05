@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying static webs apps with the Azure cli and bicep](https://dev.to/danwright/deploying-static-webs-apps-1dib)
-- [Best Practices for Working with Next.js](https://dev.to/enitanogun1/best-practices-for-working-with-nextjs-49np)
-- [How to create a Storage Account in Microsoft Azure](https://dev.to/atony07/how-to-create-a-storage-account-in-microsoft-azure-44e7)
-- [Mastering Python Comprehensions: Crafting Efficient and Readable Code](https://dev.to/sahilfruitwala/mastering-python-comprehensions-crafting-efficient-and-readable-code-a89)
-- [Day 963 : My Computer](https://dev.to/dwane/day-963-my-computer-4eog)
+- [Developing Interactive E-Learning Content with HTML5 and JavaScript](https://dev.to/kartikmehta8/developing-interactive-e-learning-content-with-html5-and-javascript-2hio)
+- [GraphQL vs. REST: Qual é a Melhor Escolha para sua API?](https://dev.to/thiagohnrt/graphql-vs-rest-qual-e-a-melhor-escolha-para-sua-api-59cj)
+- [Welcome Thread - v279](https://dev.to/devteam/welcome-thread-v279-2mg1)
+- [Implementing Native Code in React Native](https://dev.to/paulocappa/implementing-native-code-in-react-native-2282)
+- [How to Create a Responsive Card Using Plain HTML &amp; CSS](https://dev.to/george_kingi/how-to-create-a-responsive-card-using-plain-html-css-1j3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
