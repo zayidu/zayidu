@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Thinking in Objects](https://dev.to/paulike/thinking-in-objects-44nb)
-- [Unlocking the Potential of Free Shipping APIs](https://dev.to/ericksmith14/unlocking-the-potential-of-free-shipping-apis-5f0m)
-- [What I learned after burnout](https://dev.to/leonardoventurini/what-i-learned-after-burnout-105n)
-- [[WIP] Test UI?](https://dev.to/linediconsine/wip-test-ui-dl4)
-- [Millisecond Scale-to-Zero with Unikernels](https://dev.to/plutov/millisecond-scale-to-zero-with-unikernels-5bjl)
+- [Understanding Reactive Contexts in Angular 18](https://dev.to/diegoquesadadev/understanding-reactive-contexts-in-angular-18-17b9)
+- [Class Relationships](https://dev.to/paulike/class-relationships-324b)
+- [On-Scroll Animation](https://dev.to/alikhanzada577/on-scroll-animation-11am)
+- [How to debug a Python and Django application inside a Docker container](https://dev.to/danielcandidos/how-to-debug-a-python-and-django-application-inside-a-docker-container-504f)
+- [Leveraging SOAP APIs for Outbound Integration: A Step-by-Step Guide.](https://dev.to/sophiasemga/leveraging-soap-apis-for-outbound-integration-a-step-by-step-guide-245c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
