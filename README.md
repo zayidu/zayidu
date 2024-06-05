@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make basic express api](https://dev.to/cache/how-to-make-basic-express-api-2o7g)
+- [Understanding Spring Annotations: A Comprehensive Overview](https://dev.to/tiuwill/understanding-spring-annotations-a-comprehensive-overview-2hg3)
+- [it&#39;s all about the least worst combination of trade-offs](https://dev.to/marcostx/its-all-about-the-least-worst-combination-of-trade-offs-17fc)
+- [How to Merge Two Arrays in Java: A Simple Guide](https://dev.to/dk119819/how-to-merge-two-arrays-in-java-a-simple-guide-13hc)
 - [Developing Interactive E-Learning Content with HTML5 and JavaScript](https://dev.to/kartikmehta8/developing-interactive-e-learning-content-with-html5-and-javascript-2hio)
-- [GraphQL vs. REST: Qual é a Melhor Escolha para sua API?](https://dev.to/thiagohnrt/graphql-vs-rest-qual-e-a-melhor-escolha-para-sua-api-59cj)
-- [Welcome Thread - v279](https://dev.to/devteam/welcome-thread-v279-2mg1)
-- [Implementing Native Code in React Native](https://dev.to/paulocappa/implementing-native-code-in-react-native-2282)
-- [How to Create a Responsive Card Using Plain HTML &amp; CSS](https://dev.to/george_kingi/how-to-create-a-responsive-card-using-plain-html-css-1j3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
