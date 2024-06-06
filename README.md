@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Microservices Architecture](https://dev.to/kartikmehta8/understanding-microservices-architecture-3278)
-- [Case Study: Ignoring Nonalphanumeric Characters When Checking Palindromes](https://dev.to/paulike/case-study-ignoring-nonalphanumeric-characters-when-checking-palindromes-34n9)
-- [[Game of Purpose] Day 18 - making flying animations](https://dev.to/humberd/game-of-purpose-day-18-making-flying-animations-2d38)
-- [The StringBuilder and StringBuffer Classes](https://dev.to/paulike/the-stringbuilder-and-stringbuffer-classes-4gdc)
-- [A Beginner&#39;s Guide to Networking Protocols: TCP, UDP, HTTP, and HTTP/3](https://dev.to/dev_ojay/a-beginners-guide-to-networking-protocols-tcp-udp-http-and-http3-3pp6)
+- [Are multi-tenant apps = SaaS?](https://dev.to/logto/are-multi-tenant-apps-saas-1ph1)
+- [Primera parte: Introducción API Rest](https://dev.to/alfredtester/primera-parte-introduccion-api-rest-4109)
+- [Linear Regression Neural Network with nn.Linear&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/linear-regression-neural-network-with-nnlinear-in-pytorch-h4k)
+- [Como utilizar o Ack do RabbitMQ de forma eficiente](https://dev.to/mrdiniz88/como-utilizar-o-ack-do-rabbitmq-de-forma-eficiente-3i2m)
+- [What would I say to my past self 2 years ago?](https://dev.to/mateussousa00/what-would-i-say-to-my-past-self-2-years-ago-fm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
