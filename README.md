@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #120: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-120-explica-este-codigo-python-2p9)
-- [Service Discovery and Service Registry](https://dev.to/mustafacam/service-registry-n97)
-- [Bahas Tipis Seputar Redis](https://dev.to/revtm/bahas-tipis-seputar-redis-65d)
-- [The Effects of AI in Technical Writing](https://dev.to/cyberlord/the-effects-of-ai-in-technical-writing-4cl4)
-- [Title: My Coding Journey so far:A Dynamic Transformation](https://dev.to/worlu_prince/title-my-coding-journey-so-fara-dynamic-transformation-3li8)
+- [Sloan&#39;s Inbox: Should You Trust Developers Who Use Light Mode? 😝](https://dev.to/devteam/sloans-inbox-should-you-trust-developers-who-use-light-mode-5009)
+- [The Adventures of Blink #26: GPT4All! &lpar;and All4GPT!&rpar;](https://dev.to/linkbenjamin/the-adventures-of-blink-26-gpt4all-and-all4gpt-2hdp)
+- [Mastering Google Ads: A Guide to Planning, Analyzing, and Improving Your Campaigns](https://dev.to/liong/mastering-google-ads-a-guide-to-planning-analyzing-and-improving-your-campaigns-4ggl)
+- [Creating Custom Dashboards with Vizro: A Comprehensive Guide](https://dev.to/syed_affan_6a617a4b5a4106/creating-custom-dashboards-with-vizro-a-comprehensive-guide-5689)
+- [Crypto Trading on Binance.US via Cryptorobotics](https://dev.to/12crypto12/crypto-trading-on-binanceus-via-cryptorobotics-3d7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
