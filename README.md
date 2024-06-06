@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Even more Opentelemetry!](https://dev.to/apisix/even-more-opentelemetry-2pmo)
-- [Ask everybody to share experiences on analytics](https://dev.to/litlyx/ask-everybody-to-share-experiences-on-analytics-54eh)
-- [Update a Progress Bar using Turbo Streams &lpar;using Custom Actions&rpar;](https://dev.to/railsdesigner/update-a-progress-bar-using-turbo-streams-using-custom-actions-j2c)
-- [12 tips for starting an online business](https://dev.to/martinbaun/12-tips-for-starting-an-online-business-1bn6)
-- [Top Free Game Engines for Aspiring Developers](https://dev.to/zoltan_fehervari_52b16d1d/top-free-game-engines-for-aspiring-developers-68a)
+- [Not 💩, here&#39;s how to write actually good commit messages &lpar;hint: It&#39;s not just adding commit-lint&rpar;](https://dev.to/middleware/not-heres-how-to-write-actually-good-commit-messages-hint-its-not-just-adding-commit-lint-j2i)
+- [Maximizing ROI: From Google Analytics To Custom Analytics](https://dev.to/sotergreco/maximizing-roi-from-google-analytics-to-custom-analytics-5915)
+- [Why API Flow Diagrams are Needed](https://dev.to/tomjohnson3/why-api-flow-diagrams-are-needed-2049)
+- [Understanding Where Deleted Files Go After Deleting them from Recycle Bin and How to Recover Them](https://dev.to/e-tech/understanding-where-deleted-files-go-after-deleting-them-from-recycle-bin-and-how-to-recover-them-2aej)
+- [Navigating Your Career Path: From Messy Startups to High-End Companies](https://dev.to/nadim_ch0wdhury/navigating-your-career-path-from-messy-startups-to-high-end-companies-9jj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
