@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Bytecode: A Beginner’s Guide](https://dev.to/emminex/python-bytecode-a-beginners-guide-35bb)
-- [Using Azure Bicep to deploy MS Graph resources](https://dev.to/omiossec/using-azure-bicep-to-deploy-ms-graph-resources-gh)
-- [SwiftUI and Navigation](https://dev.to/simplykyra/swiftui-and-navigation-1p2i)
-- [Core azure Architectural Componets](https://dev.to/emeka_moses_c752f2bdde061/core-azure-architectural-componets-5875)
-- [How a beginner should start coding 2024](https://dev.to/gigo_dev/how-a-beginner-should-start-coding-2024-3mo4)
+- [Node.js Performance Optimization: Unleashing the Full Potential of Your Applications](https://dev.to/raksbisht/nodejs-performance-optimization-unleashing-the-full-potential-of-your-applications-4njm)
+- [Take User Input in JavaScript Without Prompt Method](https://dev.to/yasminsardar/take-user-input-in-javascript-without-prompt-method-5mh)
+- [Optimizing Matplotlib Performance: Handling Memory Leaks Efficiently](https://dev.to/siddhantkcode/optimizing-matplotlib-performance-handling-memory-leaks-efficiently-5cj2)
+- [DevTools guide for web developers](https://dev.to/codeparrot/devtools-guide-for-web-developers-4hac)
+- [Disable the right-click context menu in JavaScript?](https://dev.to/manojkumar20/disable-the-right-click-context-menu-in-javascript-gin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
