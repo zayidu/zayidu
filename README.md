@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My first Pull, Commit, and Push with Git!](https://dev.to/manish_dev/my-first-pull-commit-and-push-with-git-38j5)
-- [ScoutSuite](https://dev.to/stefanalfbo/scoutsuite-2l1n)
-- [HTTP Status Codes: Your Guide to Web Communication and Error Handling 🌐](https://dev.to/raksbisht/http-status-codes-your-guide-to-web-communication-and-error-handling-1cej)
-- [Geração de IDs únicos no Salesforce sem chance de colisão](https://dev.to/lucasvalhos/geracao-de-ids-unicos-no-salesforce-sem-chance-de-colisao-4jpm)
-- [Is JWT Safe When Anyone Can Decode Plain Text Claims](https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-2j7o)
+- [Multitenant Considerations In Azure](https://dev.to/chethankumblekar/multitenant-considerations-in-azure-bbn)
+- [Four Fundamental JS Array Methods to Memorize](https://dev.to/miguel_c/four-fundamental-js-array-methods-to-memorize-24k)
+- [PHP 8.4: Property Hooks](https://dev.to/spo0q/php-84-property-hooks-45i8)
+- [Launch of the Edudu App for iOS and Android](https://dev.to/marciofrayze/release-of-edudu-app-1529)
+- [A maneira correta de utilizar a nomenclatura BEM](https://dev.to/codigoaoponto/a-maneira-correta-de-utilizar-a-nomenclatura-bem-40l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
