@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Excels in Small Domains](https://dev.to/max_prehoda_9cb09ea7c8d07/ai-excels-in-small-domains-50gi)
-- [Understanding Spring&#39;s @Required Annotation: A Legacy Perspective](https://dev.to/tiuwill/understanding-springs-required-annotation-a-legacy-perspective-5il)
-- [I had to create a Guest Mode mechanism in React.JS](https://dev.to/pvinicius/i-had-to-create-a-guest-mode-mechanism-in-reactjs-5abf)
-- [Understanding the core architectural components of Azure](https://dev.to/adah_okwara_3c43c95a89a2e/understanding-the-core-architectural-components-of-azure-26me)
-- [So I Built This: Broadening the Impact of What You’ve Built in the Lab](https://dev.to/jasoncorso/so-i-built-this-broadening-the-impact-of-what-youve-built-in-the-lab-1pb3)
+- [Breaking Free from Tutorial Hell: My Journey to Becoming a Web Developer](https://dev.to/aniiketpal/breaking-free-from-tutorial-hell-my-journey-to-becoming-a-web-developer-3889)
+- [Obtendo Dados do WhoScored: Projeto de Web Scraping com Selenium](https://dev.to/lisandramelo/obtendo-dados-do-whoscored-projeto-de-web-scraping-com-selenium-4538)
+- [Resilis: Global Low Latency APIs](https://dev.to/resilis/resilis-global-low-latency-apis-7l1)
+- [Dev: Machine Learning](https://dev.to/r4nd3l/dev-machine-learning-f9a)
+- [Gopherizing some puppeteer code](https://dev.to/adaschevici/gopherizing-some-puppeteer-code-29g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
