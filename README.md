@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multitenant Considerations In Azure](https://dev.to/chethankumblekar/multitenant-considerations-in-azure-bbn)
-- [Four Fundamental JS Array Methods to Memorize](https://dev.to/miguel_c/four-fundamental-js-array-methods-to-memorize-24k)
-- [PHP 8.4: Property Hooks](https://dev.to/spo0q/php-84-property-hooks-45i8)
-- [Launch of the Edudu App for iOS and Android](https://dev.to/marciofrayze/release-of-edudu-app-1529)
-- [A maneira correta de utilizar a nomenclatura BEM](https://dev.to/codigoaoponto/a-maneira-correta-de-utilizar-a-nomenclatura-bem-40l6)
+- [Broadcast Audio URI](https://dev.to/denladeside/broadcast-audio-uri-1kkd)
+- [The Art of Being Bored: The Upside to Downtime](https://dev.to/tdesseyn/the-art-of-being-bored-the-upside-to-downtime-4ggo)
+- [Google Search themed portfolio website](https://dev.to/enjeck/google-search-themed-portfolio-website-4kim)
+- [GenAI is Shaping the Future of Software Development](https://dev.to/get_pieces/genai-is-shaping-the-future-of-software-development-1m36)
+- [How AI Automation Benefits World-Class Developers](https://dev.to/get_pieces/how-ai-automation-benefits-world-class-developers-2oap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
