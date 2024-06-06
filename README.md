@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential GitHub Commands for Beginners](https://dev.to/vyan/essential-github-commands-for-beginners-34ia)
-- [Como a AWS Cloud Control API e o novo Terraform provider impactam sua vida?](https://dev.to/aws-builders/como-a-aws-cloud-control-api-e-o-novo-terraform-provider-impactam-sua-vida-3jg8)
-- [In Excel, Combine Every N Row into A New Row](https://dev.to/judith677/in-excel-combine-every-n-row-into-a-new-row-21k2)
-- [Parallel Sub-tests in Go: A Cautionary Tale](https://dev.to/blazingbits/parallel-sub-tests-in-go-a-cautionary-tale-54ha)
-- [How to Build and Containerise Sentiment Analysis Using Python, Twitter and Docker](https://dev.to/ajeetraina/how-to-build-and-containerise-sentiment-analysis-using-python-twitter-and-docker-2bnb)
+- [Diabetes Prediction Bot](https://dev.to/sudhanshuambastha/diabetes-prediction-bot-1fh3)
+- [Introduction to Feature Flags and OTA Updates with CodePush in React Native](https://dev.to/paulocappa/introduction-to-feature-flags-and-ota-updates-with-codepush-in-react-native-4b9j)
+- [Heart Disease Prediction System](https://dev.to/sudhanshuambastha/heart-disease-prediction-system-2e4k)
+- [Basic Operations and Integration in Python &amp; SQLite](https://dev.to/sherylmichaela/basic-operations-and-integration-in-python-sqlite-4900)
+- [Essential Git Commands for Beginners](https://dev.to/vyan/essential-github-commands-for-beginners-34ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
