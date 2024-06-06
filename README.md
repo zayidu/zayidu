@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The BigInteger and BigDecimal Classes](https://dev.to/paulike/the-biginteger-and-bigdecimal-classes-1eeg)
-- [Automatic Conversion between Primitive Types and Wrapper Class Types](https://dev.to/paulike/automatic-conversion-between-primitive-types-and-wrapper-class-types-46en)
-- [Configuração de ambiente BackEnd](https://dev.to/anuntech/configuracao-de-ambiente-backend-3j9k)
-- [Configuração de ambiente Web](https://dev.to/anuntech/configuracao-de-ambiente-web-n4f)
-- [Achieving Lifecycle in React Functional Components](https://dev.to/geraldhamiltonwicks/achieving-lifecycle-in-react-functional-components-482i)
+- [Understanding Microservices Architecture](https://dev.to/kartikmehta8/understanding-microservices-architecture-3278)
+- [Case Study: Ignoring Nonalphanumeric Characters When Checking Palindromes](https://dev.to/paulike/case-study-ignoring-nonalphanumeric-characters-when-checking-palindromes-34n9)
+- [[Game of Purpose] Day 18 - making flying animations](https://dev.to/humberd/game-of-purpose-day-18-making-flying-animations-2d38)
+- [The StringBuilder and StringBuffer Classes](https://dev.to/paulike/the-stringbuilder-and-stringbuffer-classes-4gdc)
+- [A Beginner&#39;s Guide to Networking Protocols: TCP, UDP, HTTP, and HTTP/3](https://dev.to/dev_ojay/a-beginners-guide-to-networking-protocols-tcp-udp-http-and-http3-3pp6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
