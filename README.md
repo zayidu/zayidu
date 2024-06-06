@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Ways to Use the @Value Annotation in Spring for Flexible and Maintainable Applications](https://dev.to/tiuwill/12-ways-to-use-the-value-annotation-in-spring-for-flexible-and-maintainable-applications-2fg2)
-- [How I leveled-up my Github projects with Gitflow](https://dev.to/dedsyn4ps3/how-i-leveled-up-my-github-projects-with-gitflow-25k)
-- [Tenant isolation in multi-tenant application](https://dev.to/logto/tenant-isolation-in-multi-tenant-application-52f)
-- [Top SQL IDEs in 2024](https://dev.to/concerate/top-sql-ides-in-2024-14bj)
-- [Bringing It All Together: Integrating GraphQL with Gin in Go](https://dev.to/mikeyglitz/bringing-it-all-together-integrating-graphql-with-gin-in-go-49b9)
+- [Day 4: Control Structures in JavaScript](https://dev.to/dipakahirav/day-4-control-structures-in-javascript-fnh)
+- [Using a custom domain name in a Private REST API Gateway](https://dev.to/aws-builders/using-a-custom-domain-name-in-a-private-rest-api-gateway-1c2h)
+- [Unraveling the Potential of AI in Testing: A Comprehensive Guide for Gen AI](https://dev.to/sureshayyanna/unraveling-the-potential-of-ai-in-testing-a-comprehensive-guide-for-gen-ai-3k3j)
+- [Robot Framework](https://dev.to/sureshayyanna/robot-framework-3ndn)
+- [Is there any service extracts important keywords through text](https://dev.to/modjm/is-there-any-service-extracts-important-keywords-through-text-402o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
