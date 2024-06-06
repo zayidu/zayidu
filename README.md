@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Recovering from burn out by building in public](https://dev.to/liaob/recovering-from-burn-out-by-building-in-public-3lb1)
-- [Terraform Best Practices: State Management, Reusability, Security and Beyond](https://dev.to/env0/terraform-best-practices-state-management-reusability-security-and-beyond-27ch)
-- [🕸️ A Guide to Lean Web Design for Developers](https://dev.to/evergrowingdev/a-guide-to-lean-web-design-for-developers-p90)
-- [Why ModHeader Users Are Moving to Requestly](https://dev.to/requestlyio/why-modheader-users-are-moving-to-requestly-4192)
-- [A simplified version of Clean Arch](https://dev.to/henriqueleite42/a-simplified-version-of-clean-arch-10i5)
+- [Key principles to writing better Javascript](https://dev.to/mtendekuyokwa19/key-principles-to-writing-better-javascript-no9)
+- [Python Essentials for Beginners](https://dev.to/tushrv/python-essentials-for-beginners-4edm)
+- [O Poder das Tarefas: Como Pequenas Entregas Levam a Grandes Resultados](https://dev.to/kecbm/o-poder-das-tarefas-como-pequenas-entregas-levam-a-grandes-resultados-2of6)
+- [O que eu diria para meu Eu a 2 anos atrás](https://dev.to/mateussousa00/o-que-eu-diria-para-meu-eu-a-2-anos-atras-c3e)
+- [4 Free Tailwind CSS Badge Components [Open-Source]](https://dev.to/creativetim_official/4-free-tailwind-css-badge-components-open-source-589p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
