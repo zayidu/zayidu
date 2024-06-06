@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌊 Beach Quest with Finley and Friends !](https://dev.to/everlygif/beach-quest-with-finley-and-friends--bmk)
-- [But do you have a portfolio?](https://dev.to/amandakoster/but-do-you-have-a-portfolio-bf3)
-- [How To Create a Virtual ATM Card using Plain HTML &amp; CSS](https://dev.to/george_kingi/how-to-create-a-virtual-atm-card-using-plain-html-css-nmj)
-- [Unleash the True Potential of Your Web Applications with React to Next.js](https://dev.to/s0330b/unleash-the-true-potential-of-your-web-applications-with-react-to-nextjs-314k)
-- [Day 2 - Learning basic Linux Commands](https://dev.to/anakin/day-2-learning-basic-linux-commands-2mkl)
+- [Python Bytecode: A Beginner’s Guide](https://dev.to/emminex/python-bytecode-a-beginners-guide-35bb)
+- [Using Azure Bicep to deploy MS Graph resources](https://dev.to/omiossec/using-azure-bicep-to-deploy-ms-graph-resources-gh)
+- [SwiftUI and Navigation](https://dev.to/simplykyra/swiftui-and-navigation-1p2i)
+- [Core azure Architectural Componets](https://dev.to/emeka_moses_c752f2bdde061/core-azure-architectural-componets-5875)
+- [How a beginner should start coding 2024](https://dev.to/gigo_dev/how-a-beginner-should-start-coding-2024-3mo4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
