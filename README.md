@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Training LLMs for Text Classification using DQC Toolkit](https://dev.to/sumanthprabhu/self-training-llms-for-text-classification-using-dqc-toolkit-13a4)
-- [A Comprehensive Guide to Game Art Outsourcing for Smooth Collaboration](https://dev.to/ediiie/a-comprehensive-guide-to-game-art-outsourcing-for-smooth-collaboration-3kh8)
-- [15 Libraries You Should Know if You Build with React](https://dev.to/afzalimdad9/15-libraries-you-should-know-if-you-build-with-react-4eg5)
-- [How to become a junior React developer to Senior React Developer](https://dev.to/subhadeep-das/how-to-become-a-junior-react-developer-to-senior-react-developer-3c7k)
-- [Embracing Asynchronous JavaScript: A Deep Dive🚀](https://dev.to/dharamgfx/embracing-asynchronous-javascript-a-deep-dive-559l)
+- [How to Build a Command-Line Barcode Reader with Rust and C++ Barcode SDK](https://dev.to/yushulx/how-to-build-a-command-line-barcode-reader-with-rust-and-c-barcode-sdk-20l8)
+- [Deploying WordPress on a Private Subnet in AWS EC2 Using a Linux Server](https://dev.to/madhesh_waran_63/deploying-wordpress-on-a-private-subnet-in-aws-ec2-using-a-linux-server-4a65)
+- [Mastering Package Management in Debian and Ubuntu Systems](https://dev.to/iaadidev/mastering-package-management-in-debian-and-ubuntu-systems-2omc)
+- [CSS Art: June was made for happiness](https://dev.to/tanveermahendra/css-art-june-was-made-for-happiness-5acm)
+- [What is Performance Testing?Types of Performance Testing](https://dev.to/testscenario/what-is-performance-testingtypes-of-performance-testing-4mfi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
