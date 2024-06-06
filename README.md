@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Diabetes Prediction Bot](https://dev.to/sudhanshuambastha/diabetes-prediction-bot-1fh3)
-- [Introduction to Feature Flags and OTA Updates with CodePush in React Native](https://dev.to/paulocappa/introduction-to-feature-flags-and-ota-updates-with-codepush-in-react-native-4b9j)
-- [Heart Disease Prediction System](https://dev.to/sudhanshuambastha/heart-disease-prediction-system-2e4k)
-- [Basic Operations and Integration in Python &amp; SQLite](https://dev.to/sherylmichaela/basic-operations-and-integration-in-python-sqlite-4900)
-- [Essential Git Commands for Beginners](https://dev.to/vyan/essential-github-commands-for-beginners-34ia)
+- [Combining Edge Stack &amp; Istio to Unlock the Full Potential of Your K8s Microservices](https://dev.to/getambassador2024/combining-edge-stack-istio-to-unlock-the-full-potential-of-your-k8s-microservices-4bel)
+- [Vim-style repeatable key bindings for navigating windows in Emacs](https://dev.to/rajasegar/vim-style-repeatable-key-bindings-for-navigating-windows-in-emacs-5c4l)
+- [Is distributed technology the panacea for big data processing?](https://dev.to/esproc_spl/is-distributed-technology-the-panacea-for-big-data-processing-5hgh)
+- [Book Recommendations](https://dev.to/jobreadyprogrammer/book-recommendations-281h)
+- [Conventional Commits for Writing Effective Git Commit Messages](https://dev.to/armanrahman/conventional-commits-for-writing-effective-git-commit-messages-47b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
