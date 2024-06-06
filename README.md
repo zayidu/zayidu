@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Key principles to writing better Javascript](https://dev.to/mtendekuyokwa19/key-principles-to-writing-better-javascript-no9)
-- [Python Essentials for Beginners](https://dev.to/tushrv/python-essentials-for-beginners-4edm)
-- [O Poder das Tarefas: Como Pequenas Entregas Levam a Grandes Resultados](https://dev.to/kecbm/o-poder-das-tarefas-como-pequenas-entregas-levam-a-grandes-resultados-2of6)
-- [O que eu diria para meu Eu a 2 anos atrás](https://dev.to/mateussousa00/o-que-eu-diria-para-meu-eu-a-2-anos-atras-c3e)
-- [4 Free Tailwind CSS Badge Components [Open-Source]](https://dev.to/creativetim_official/4-free-tailwind-css-badge-components-open-source-589p)
+- [How &lpar;Not&rpar; To Use AI When Learning to Code](https://dev.to/nmiller15/how-not-to-use-ai-when-learning-to-code-4jgf)
+- [Deploy Postgres on any Kubernetes using CloudNativePG](https://dev.to/gangaprasad_07bcb0289de5d/deploy-postgres-on-any-kubernetes-using-cloudnativepg-3bn4)
+- [Secrets management with Azure Key Vault](https://dev.to/borisgigovic/secrets-management-with-azure-key-vault-15dg)
+- [The difference between the P tag and the PRE tag in HTML](https://dev.to/tidycoder/the-difference-between-the-p-tag-and-the-pre-tag-in-html-15in)
+- [12 Creative Toggle Designs for Your Inspiration &lpar;with Code&rpar; 🎨💖](https://dev.to/madza/12-creative-toggle-designs-for-your-inspiration-with-code-50bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
