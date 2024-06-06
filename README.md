@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Are multi-tenant apps = SaaS?](https://dev.to/logto/are-multi-tenant-apps-saas-1ph1)
-- [Primera parte: Introducción API Rest](https://dev.to/alfredtester/primera-parte-introduccion-api-rest-4109)
-- [Linear Regression Neural Network with nn.Linear&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/linear-regression-neural-network-with-nnlinear-in-pytorch-h4k)
-- [Como utilizar o Ack do RabbitMQ de forma eficiente](https://dev.to/mrdiniz88/como-utilizar-o-ack-do-rabbitmq-de-forma-eficiente-3i2m)
-- [What would I say to my past self 2 years ago?](https://dev.to/mateussousa00/what-would-i-say-to-my-past-self-2-years-ago-fm0)
+- [12 Ways to Use the @Value Annotation in Spring for Flexible and Maintainable Applications](https://dev.to/tiuwill/12-ways-to-use-the-value-annotation-in-spring-for-flexible-and-maintainable-applications-2fg2)
+- [How I leveled-up my Github projects with Gitflow](https://dev.to/dedsyn4ps3/how-i-leveled-up-my-github-projects-with-gitflow-25k)
+- [Tenant isolation in multi-tenant application](https://dev.to/logto/tenant-isolation-in-multi-tenant-application-52f)
+- [Top SQL IDEs in 2024](https://dev.to/concerate/top-sql-ides-in-2024-14bj)
+- [Bringing It All Together: Integrating GraphQL with Gin in Go](https://dev.to/mikeyglitz/bringing-it-all-together-integrating-graphql-with-gin-in-go-49b9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
