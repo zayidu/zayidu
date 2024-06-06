@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 4: Control Structures in JavaScript](https://dev.to/dipakahirav/day-4-control-structures-in-javascript-fnh)
-- [Using a custom domain name in a Private REST API Gateway](https://dev.to/aws-builders/using-a-custom-domain-name-in-a-private-rest-api-gateway-1c2h)
-- [Unraveling the Potential of AI in Testing: A Comprehensive Guide for Gen AI](https://dev.to/sureshayyanna/unraveling-the-potential-of-ai-in-testing-a-comprehensive-guide-for-gen-ai-3k3j)
-- [Robot Framework](https://dev.to/sureshayyanna/robot-framework-3ndn)
-- [Is there any service extracts important keywords through text](https://dev.to/modjm/is-there-any-service-extracts-important-keywords-through-text-402o)
+- [Essential GitHub Commands for Beginners](https://dev.to/vyan/essential-github-commands-for-beginners-34ia)
+- [Como a AWS Cloud Control API e o novo Terraform provider impactam sua vida?](https://dev.to/aws-builders/como-a-aws-cloud-control-api-e-o-novo-terraform-provider-impactam-sua-vida-3jg8)
+- [In Excel, Combine Every N Row into A New Row](https://dev.to/judith677/in-excel-combine-every-n-row-into-a-new-row-21k2)
+- [Parallel Sub-tests in Go: A Cautionary Tale](https://dev.to/blazingbits/parallel-sub-tests-in-go-a-cautionary-tale-54ha)
+- [How to Build and Containerise Sentiment Analysis Using Python, Twitter and Docker](https://dev.to/ajeetraina/how-to-build-and-containerise-sentiment-analysis-using-python-twitter-and-docker-2bnb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
