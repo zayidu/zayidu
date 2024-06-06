@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sloan&#39;s Inbox: Should You Trust Developers Who Use Light Mode? 😝](https://dev.to/devteam/sloans-inbox-should-you-trust-developers-who-use-light-mode-5009)
-- [The Adventures of Blink #26: GPT4All! &lpar;and All4GPT!&rpar;](https://dev.to/linkbenjamin/the-adventures-of-blink-26-gpt4all-and-all4gpt-2hdp)
-- [Mastering Google Ads: A Guide to Planning, Analyzing, and Improving Your Campaigns](https://dev.to/liong/mastering-google-ads-a-guide-to-planning-analyzing-and-improving-your-campaigns-4ggl)
-- [Creating Custom Dashboards with Vizro: A Comprehensive Guide](https://dev.to/syed_affan_6a617a4b5a4106/creating-custom-dashboards-with-vizro-a-comprehensive-guide-5689)
-- [Crypto Trading on Binance.US via Cryptorobotics](https://dev.to/12crypto12/crypto-trading-on-binanceus-via-cryptorobotics-3d7)
+- [Recovering from burn out by building in public](https://dev.to/liaob/recovering-from-burn-out-by-building-in-public-3lb1)
+- [Terraform Best Practices: State Management, Reusability, Security and Beyond](https://dev.to/env0/terraform-best-practices-state-management-reusability-security-and-beyond-27ch)
+- [🕸️ A Guide to Lean Web Design for Developers](https://dev.to/evergrowingdev/a-guide-to-lean-web-design-for-developers-p90)
+- [Why ModHeader Users Are Moving to Requestly](https://dev.to/requestlyio/why-modheader-users-are-moving-to-requestly-4192)
+- [A simplified version of Clean Arch](https://dev.to/henriqueleite42/a-simplified-version-of-clean-arch-10i5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
