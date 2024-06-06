@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Performance Optimization: Unleashing the Full Potential of Your Applications](https://dev.to/raksbisht/nodejs-performance-optimization-unleashing-the-full-potential-of-your-applications-4njm)
-- [Take User Input in JavaScript Without Prompt Method](https://dev.to/yasminsardar/take-user-input-in-javascript-without-prompt-method-5mh)
-- [Optimizing Matplotlib Performance: Handling Memory Leaks Efficiently](https://dev.to/siddhantkcode/optimizing-matplotlib-performance-handling-memory-leaks-efficiently-5cj2)
-- [DevTools guide for web developers](https://dev.to/codeparrot/devtools-guide-for-web-developers-4hac)
-- [Disable the right-click context menu in JavaScript?](https://dev.to/manojkumar20/disable-the-right-click-context-menu-in-javascript-gin)
+- [My first Pull, Commit, and Push with Git!](https://dev.to/manish_dev/my-first-pull-commit-and-push-with-git-38j5)
+- [ScoutSuite](https://dev.to/stefanalfbo/scoutsuite-2l1n)
+- [HTTP Status Codes: Your Guide to Web Communication and Error Handling 🌐](https://dev.to/raksbisht/http-status-codes-your-guide-to-web-communication-and-error-handling-1cej)
+- [Geração de IDs únicos no Salesforce sem chance de colisão](https://dev.to/lucasvalhos/geracao-de-ids-unicos-no-salesforce-sem-chance-de-colisao-4jpm)
+- [Is JWT Safe When Anyone Can Decode Plain Text Claims](https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-2j7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
