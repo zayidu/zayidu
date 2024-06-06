@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Combining Edge Stack &amp; Istio to Unlock the Full Potential of Your K8s Microservices](https://dev.to/getambassador2024/combining-edge-stack-istio-to-unlock-the-full-potential-of-your-k8s-microservices-4bel)
-- [Vim-style repeatable key bindings for navigating windows in Emacs](https://dev.to/rajasegar/vim-style-repeatable-key-bindings-for-navigating-windows-in-emacs-5c4l)
-- [Is distributed technology the panacea for big data processing?](https://dev.to/esproc_spl/is-distributed-technology-the-panacea-for-big-data-processing-5hgh)
-- [Book Recommendations](https://dev.to/jobreadyprogrammer/book-recommendations-281h)
-- [Conventional Commits for Writing Effective Git Commit Messages](https://dev.to/armanrahman/conventional-commits-for-writing-effective-git-commit-messages-47b6)
+- [Self-Training LLMs for Text Classification using DQC Toolkit](https://dev.to/sumanthprabhu/self-training-llms-for-text-classification-using-dqc-toolkit-13a4)
+- [A Comprehensive Guide to Game Art Outsourcing for Smooth Collaboration](https://dev.to/ediiie/a-comprehensive-guide-to-game-art-outsourcing-for-smooth-collaboration-3kh8)
+- [15 Libraries You Should Know if You Build with React](https://dev.to/afzalimdad9/15-libraries-you-should-know-if-you-build-with-react-4eg5)
+- [How to become a junior React developer to Senior React Developer](https://dev.to/subhadeep-das/how-to-become-a-junior-react-developer-to-senior-react-developer-3c7k)
+- [Embracing Asynchronous JavaScript: A Deep Dive🚀](https://dev.to/dharamgfx/embracing-asynchronous-javascript-a-deep-dive-559l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
