@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This week trending news in tech](https://dev.to/shreyvijayvargiya/this-week-trending-news-in-tech-fj)
-- [How To Install and Use Composer on Ubuntu 20.04](https://dev.to/sh20raj/how-to-install-and-use-composer-on-ubuntu-2004-4pe)
-- [The Curious Case of Bugs that Fix Themselves](https://dev.to/moozzyk/the-curious-case-of-bugs-that-fix-themselves-28cl)
-- [Managing POSIX ACL Permissions in JuiceFS](https://dev.to/daswu/managing-posix-acl-permissions-in-juicefs-5hbe)
-- [ZhongAn Insurance&#39;s Wang Kai Analyzes Kafka Network Communication](https://dev.to/automq/zhongan-insurances-wang-kai-analyzes-kafka-network-communication-1p6i)
+- [✨ 5 useful productivity apps for every developer!](https://dev.to/thexdev/5-useful-productivity-apps-for-every-developer-357b)
+- [Core Architectural Component of Azure, Step by Step Guide](https://dev.to/romanus_onyekwere/core-architectural-component-of-azure-step-by-step-guide-1mjf)
+- [Creating a CRUD Application With Express and HTMX](https://dev.to/ethand91/creating-a-crud-application-with-express-and-htmx-1o08)
+- [Building Reliable Microservices: Testing Strategies for Success](https://dev.to/akaksha/building-reliable-microservices-testing-strategies-for-success-3i7b)
+- [How to Fetch Data from any API in JavaScript](https://dev.to/tejodeepmitraroy/how-to-fetch-data-from-any-api-in-javascript-5cdd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
