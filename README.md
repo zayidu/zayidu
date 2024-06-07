@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web3: The Future of the Internet](https://dev.to/sam15x6/web3-the-future-of-the-internet-1jfp)
-- [Yes. You can deploy Nuxt on Firebase App Hosting &lpar;2024&rpar;](https://dev.to/rootasjey/yes-you-can-deploy-nuxt-on-firebase-app-hosting-2024-44bd)
-- [Simplest guide to Next.js APIs](https://dev.to/joeskills/simplest-guide-to-nextjs-apis-204g)
-- [Software Outsourcing vs. In-House Development: Pros and Cons](https://dev.to/liong/software-outsourcing-vs-in-house-development-pros-and-cons-2261)
-- [Release Radar · May 2024 Edition: Major updates from the open source community](https://dev.to/github/release-radar-may-2024-edition-major-updates-from-the-open-source-community-4oj3)
+- [Transform Your Video Transcripts: From Raw to Readable Text](https://dev.to/roomals/transform-your-video-transcripts-from-raw-to-readable-text-15ep)
+- [The Future of AI: Exploring AGI and ASI](https://dev.to/nandha_krishnan_nk/the-future-of-ai-exploring-agi-and-asi-5aep)
+- [Advice for Effective Developers](https://dev.to/jonoyeong/advice-for-effective-developers-5bk4)
+- [11 Useful Tips for New Coders and Developers in 2024](https://dev.to/cynthia_kramer_db0fcf897f/11-useful-tips-for-new-coders-and-developers-in-2024-3442)
+- [The incident that highlighted the importance of code quality](https://dev.to/mmvergara/the-incident-that-highlighted-the-importance-of-code-quality-454d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
