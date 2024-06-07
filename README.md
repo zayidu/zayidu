@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Time management tips for professionals](https://dev.to/swati_sharma/time-management-tips-for-professionals-469)
-- [Perform text translation using Vertex AI, Gemini, and NodeJS](https://dev.to/railsstudent/perform-text-translation-using-vertex-ai-gemini-and-nodejs-127h)
-- [Tips and Тricks to Мodernizing Your App with Blazor](https://dev.to/galinaj/tips-and-tricks-to-modernizing-your-app-with-blazor-9np)
-- [What is robots.txt file ? How to add into your Next.js app ?](https://dev.to/swhabitation/what-is-robotstxt-file-how-to-add-into-your-nextjs-app--3em4)
-- [A Beginner&#39;s Guide to Nodemailer](https://dev.to/scofieldidehen/a-beginners-guide-to-nodemailer-33d1)
+- [What was your win this week? 🙌](https://dev.to/devteam/what-was-your-win-this-week-5ep8)
+- [Create your own GenAI Text-to-Speech App in TypeScript](https://dev.to/encore/create-your-own-genai-text-to-speech-app-in-typescript-11h7)
+- [Who&#39;s Hiring?](https://dev.to/opensauced/whos-hiring-4j82)
+- [Select best cluster of game-servers connection using PowerShell like the Wargaming launcher does. 🚀🎮](https://dev.to/uyriq/select-best-cluster-of-game-servers-connection-using-powershell-like-the-wargaming-launcher-does-n20)
+- [How To Set Up Docker Selenium GRID](https://dev.to/debasmita-a/how-to-set-up-docker-selenium-grid-2e8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
