@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Step Functionsに入門する](https://dev.to/aws-builders/aws-step-functionsniru-men-suru-2b7p)
-- [How to monitor events in data dimensions and obtain corresponding data?](https://dev.to/purpose233/how-to-monitor-events-in-data-dimensions-and-obtain-corresponding-data-14lh)
-- [Deploy React.js application using AWS S3 &amp; GitLab pipelines for automatic deployment 2024](https://dev.to/perisicnikola37/deploy-reactjs-application-using-aws-s3-gitlab-pipelines-for-automatic-deployment-2024-nbd)
-- [Open-Source Question](https://dev.to/litlyx/open-source-question-2j48)
-- [Passkeys &amp; Dynamic Linking](https://dev.to/corbado/passkeys-dynamic-linking-1o41)
+- [Is CSS Tricks back?](https://dev.to/robole/is-css-tricks-back-4jh3)
+- [THE FIRST TIME USING GODOT](https://dev.to/dino2328/the-first-time-using-godot-2b37)
+- [The Easiest Way to Get Started with Kubernetes](https://dev.to/cyclops-ui/the-easiest-way-to-get-started-with-kubernetes-3mg7)
+- [20 Key Factors To Consider While Designing A Test Automation Framework](https://dev.to/jamescantor38/20-key-factors-to-consider-while-designing-a-test-automation-framework-2cb3)
+- [Revise Your Stylesheets. Part 1. Color Scheme](https://dev.to/jetthoughts/revise-your-stylesheets-part-1-color-scheme-1a9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
