@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Rumo do dev.to e aprendizado.](https://dev.to/matheuscsnt/rumo-do-devto-e-aprendizado-50m1)
+- [Elevate Your Next.js E-commerce App with Google Tag Manager](https://dev.to/abdur_rakibrony_97cea0e9/elevate-your-nextjs-e-commerce-app-with-google-tag-manager-1ke0)
+- [Use non-root user in scratch docker image](https://dev.to/hsatac/use-non-root-user-in-scratch-docker-image-1c0o)
+- [Questions to identify/assess culture &lpar;fit&rpar; in tech](https://dev.to/rvprasad/questions-to-identifyassess-culture-fit-in-tech-1d98)
 - [Transform Your Video Transcripts: From Raw to Readable Text](https://dev.to/roomals/transform-your-video-transcripts-from-raw-to-readable-text-15ep)
-- [The Future of AI: Exploring AGI and ASI](https://dev.to/nandha_krishnan_nk/the-future-of-ai-exploring-agi-and-asi-5aep)
-- [Advice for Effective Developers](https://dev.to/jonoyeong/advice-for-effective-developers-5bk4)
-- [11 Useful Tips for New Coders and Developers in 2024](https://dev.to/cynthia_kramer_db0fcf897f/11-useful-tips-for-new-coders-and-developers-in-2024-3442)
-- [The incident that highlighted the importance of code quality](https://dev.to/mmvergara/the-incident-that-highlighted-the-importance-of-code-quality-454d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
