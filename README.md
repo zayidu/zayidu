@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Reverse a String in Java: A Comprehensive Guide](https://dev.to/fullstackjava/how-to-reverse-a-string-in-java-a-comprehensive-guide-10n4)
-- [Fixtures do Cypress para testes](https://dev.to/gustavoacaetano/fixtures-do-cypress-para-testes-1748)
-- [Foreign Exchange API: Enhancing Financial Applications with Accurate Data](https://dev.to/sameeranthony/foreign-exchange-api-enhancing-financial-applications-with-accurate-data-3126)
-- [242. Valid Anagram](https://dev.to/whereislijah/242-valid-anagram-35o7)
-- [Announcing runtime-environment: A Rust Crate for Detecting Operating Systems at Runtime](https://dev.to/dhanushnehru/announcing-runtime-environment-a-rust-crate-for-detecting-operating-systems-at-runtime-3fc2)
+- [MicrosoftLearning/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage](https://dev.to/emmyfx1/microsoftlearningsecure-storage-for-azure-files-and-azure-blob-storage-978)
+- [From Whispers to Wildfire: Celebrating a Decade of Kubernetes](https://dev.to/fermyon/from-whispers-to-wildfire-celebrating-a-decade-of-kubernetes-112l)
+- [Deep Learning for Camera Calibration and Beyond: A Survey](https://dev.to/mikeyoung44/deep-learning-for-camera-calibration-and-beyond-a-survey-2hf0)
+- [Enhancing Multimodal Large Language Models with Vision Detection Models: An Empirical Study](https://dev.to/mikeyoung44/enhancing-multimodal-large-language-models-with-vision-detection-models-an-empirical-study-2ef3)
+- [Coding Phase Begins](https://dev.to/chiemezuo/coding-phase-begins-2emo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
