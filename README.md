@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to API Endpoints](https://dev.to/getambassador2024/a-comprehensive-guide-to-api-endpoints-1agl)
-- [Version Control Systems and Their Importance](https://dev.to/shariqahmed525/version-control-systems-and-their-importance-1jjk)
-- [Deploy a full-stack cloud-native app with SSL to CloudFront, API Gateway, and Route53 with a custom domain](https://dev.to/joelwembo/deploy-a-full-stack-cloud-native-app-with-ssl-to-cloudfront-api-gateway-and-route53-with-a-custom-domain-3epc)
-- [Technical Guide: End-to-End CI/CD DevOps with Jenkins and Terraform](https://dev.to/joelwembo/technical-guide-end-to-end-cicd-devops-with-jenkins-and-terraform-3im3)
-- [The Art of Creating Microservice Diagrams](https://dev.to/tomjohnson3/the-art-of-creating-microservice-diagrams-3jl6)
+- [Understanding Core Architectural Components of Microsoft Azure](https://dev.to/temidayo_adeoye_ccfea1cab/understanding-core-architectural-components-of-microsoft-azure-5no)
+- [Automating Kong Konnect Configuration with Terraform](https://dev.to/robincher/automating-kong-konnect-configuration-with-terraform-3c0c)
+- [Setting Up Your GoLang Environment](https://dev.to/muhammadsaim/setting-up-your-golang-environment-40hm)
+- [System Monitoring and Performance Tuning in Linux -DevOps Prerequisite 5](https://dev.to/iaadidev/system-monitoring-and-performance-tuning-in-linux-devops-prerequisite-5-4ck0)
+- [Hoppscotch Cloud vs. Self-Hosted Community vs. Self-Hosted Enterprise – Which One Should You Choose?](https://dev.to/hoppscotch/hoppscotch-cloud-vs-self-hosted-community-vs-self-hosted-enterprise-which-one-should-you-choose-4f4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
