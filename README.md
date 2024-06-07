@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Need help with GPO](https://dev.to/kalyan333/need-help-with-gpo-3ch2)
-- [FastAPI Beyond CRUD Part 8 - User Account Creation &lpar;Email &amp; Password Auth&rpar;](https://dev.to/jod35/fastapi-beyond-crud-part-8-user-account-creation-email-password-auth-47p5)
-- [Game for PYTHON](https://dev.to/praket_singh_1c341a50266b/game-for-python-png)
-- [Leetcode Day3 Linked List](https://dev.to/flame_chan_a3b11ee24d487d/leetcode-day3-linked-list-2n6e)
-- [Storage-first pattern using Serverless](https://dev.to/skaznowiecki/storage-first-pattern-using-serverless-m6)
+- [How to Reverse a String in Java: A Comprehensive Guide](https://dev.to/fullstackjava/how-to-reverse-a-string-in-java-a-comprehensive-guide-10n4)
+- [Fixtures do Cypress para testes](https://dev.to/gustavoacaetano/fixtures-do-cypress-para-testes-1748)
+- [Foreign Exchange API: Enhancing Financial Applications with Accurate Data](https://dev.to/sameeranthony/foreign-exchange-api-enhancing-financial-applications-with-accurate-data-3126)
+- [242. Valid Anagram](https://dev.to/whereislijah/242-valid-anagram-35o7)
+- [Announcing runtime-environment: A Rust Crate for Detecting Operating Systems at Runtime](https://dev.to/dhanushnehru/announcing-runtime-environment-a-rust-crate-for-detecting-operating-systems-at-runtime-3fc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
