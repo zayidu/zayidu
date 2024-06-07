@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to customize the labels of a pie chart in VChart?](https://dev.to/neuqzxy/how-to-customize-the-labels-of-a-pie-chart-in-vchart-55kb)
-- [SIMILAR TERMS USED IN CLOUD COMPUTING](https://dev.to/aizeon/similar-terms-used-in-cloud-computing-53a8)
-- [In Excel, Enter Values of the same Category in Cells on the Right of the Grouping Cell in Order](https://dev.to/judith677/in-excel-enter-values-of-the-same-category-in-cells-on-the-right-of-the-grouping-cell-in-order-3g2f)
-- [How does Amazon explain its value of EKS support](https://dev.to/abhiram_cdx/how-does-amazon-explain-its-value-of-eks-support-5hga)
-- [How AI is Shaping the Future of Education](https://dev.to/arpit_dhiman_afe108fe83fb/how-ai-is-shaping-the-future-of-education-dng)
+- [AWS Step Functionsに入門する](https://dev.to/aws-builders/aws-step-functionsniru-men-suru-2b7p)
+- [How to monitor events in data dimensions and obtain corresponding data?](https://dev.to/purpose233/how-to-monitor-events-in-data-dimensions-and-obtain-corresponding-data-14lh)
+- [Deploy React.js application using AWS S3 &amp; GitLab pipelines for automatic deployment 2024](https://dev.to/perisicnikola37/deploy-reactjs-application-using-aws-s3-gitlab-pipelines-for-automatic-deployment-2024-nbd)
+- [Open-Source Question](https://dev.to/litlyx/open-source-question-2j48)
+- [Passkeys &amp; Dynamic Linking](https://dev.to/corbado/passkeys-dynamic-linking-1o41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
