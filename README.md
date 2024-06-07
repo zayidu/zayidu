@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Explaining Async/Await in JavaScript in 10 Minutes](https://dev.to/chauhoangminhnguyen/explaining-asyncawait-in-javascript-in-10-minutes-9o5)
-- [The Basics of Big Data: What You Need to Know](https://dev.to/bvanderbilt0033/the-basics-of-big-data-what-you-need-to-know-260e)
-- [Penerapan Domain-Driven Design dan CQRS Pattern di Golang untuk Pemula](https://dev.to/yogameleniawan/penerapan-domain-driven-design-dan-cqrs-pattern-di-golang-untuk-pemula-4bdl)
-- [Approving My New Developer Portfolio](https://dev.to/kiraaziz/approving-my-new-developer-portfolio-1p4g)
-- [Rumo do dev.to e aprendizado.](https://dev.to/matheuscsnt/rumo-do-devto-e-aprendizado-50m1)
+- [This week trending news in tech](https://dev.to/shreyvijayvargiya/this-week-trending-news-in-tech-fj)
+- [How To Install and Use Composer on Ubuntu 20.04](https://dev.to/sh20raj/how-to-install-and-use-composer-on-ubuntu-2004-4pe)
+- [The Curious Case of Bugs that Fix Themselves](https://dev.to/moozzyk/the-curious-case-of-bugs-that-fix-themselves-28cl)
+- [Managing POSIX ACL Permissions in JuiceFS](https://dev.to/daswu/managing-posix-acl-permissions-in-juicefs-5hbe)
+- [ZhongAn Insurance&#39;s Wang Kai Analyzes Kafka Network Communication](https://dev.to/automq/zhongan-insurances-wang-kai-analyzes-kafka-network-communication-1p6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
