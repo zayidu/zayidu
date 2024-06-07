@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MicrosoftLearning/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage](https://dev.to/emmyfx1/microsoftlearningsecure-storage-for-azure-files-and-azure-blob-storage-978)
-- [From Whispers to Wildfire: Celebrating a Decade of Kubernetes](https://dev.to/fermyon/from-whispers-to-wildfire-celebrating-a-decade-of-kubernetes-112l)
-- [Deep Learning for Camera Calibration and Beyond: A Survey](https://dev.to/mikeyoung44/deep-learning-for-camera-calibration-and-beyond-a-survey-2hf0)
-- [Enhancing Multimodal Large Language Models with Vision Detection Models: An Empirical Study](https://dev.to/mikeyoung44/enhancing-multimodal-large-language-models-with-vision-detection-models-an-empirical-study-2ef3)
-- [Coding Phase Begins](https://dev.to/chiemezuo/coding-phase-begins-2emo)
+- [Nếu một ngày Service account và API key trên Google Cloud không cánh mà bay ?](https://dev.to/huydanggdg/neu-mot-ngay-service-account-va-api-key-tren-google-cloud-khong-canh-ma-bay--2l0l)
+- [Keep Your Monorepo Clean in VS Code with a Workspace Checkout Script](https://dev.to/mizanrifat/keep-your-monorepo-clean-in-vs-code-with-a-workspace-checkout-script-fkl)
+- [Laravel 11 + Inertia JS &lpar;VUE&rpar; CRUD Example: Part 1](https://dev.to/snehalkadwe/laravel-11-inertia-js-vue-crud-example-part-1-18oc)
+- [Gerador de currículos otimizado para os sistemas de ATS utilizados no Brasil, como Gupy e 99Jobs &lpar; gratuito 😎&rpar;](https://dev.to/pedrobarreto/gerador-de-curriculos-otimizado-para-os-sistemas-de-ats-utilizados-no-brasil-como-gupy-e-99jobs-gratuito--4po7)
+- [I spent hours debugging an issue which was not even in my code! Docker could have saved my time](https://dev.to/mhm13dev/i-spent-hours-debugging-an-issue-which-was-not-even-in-my-code-docker-could-have-saved-my-time-1al9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
