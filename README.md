@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Effortlessly Migrate Your Databases to Azure SQL With Expert Guide](https://dev.to/dhruvil_joshi14/effortlessly-migrate-your-databases-to-azure-sql-with-expert-guide-561o)
-- [Creating Different Build Variants in Android](https://dev.to/matthewluke150/creating-different-build-variants-in-android-1i4k)
-- [Role of AI in Fintech Industry](https://dev.to/ailearning/role-of-ai-in-fintech-industry-24df)
-- [It’s Time For Active Job](https://dev.to/jetthoughts/its-time-for-active-job-eph)
-- [How We Generated a 10K Dataset Using LLM to Fine-Tune Another LLM](https://dev.to/maelghrib/how-we-generated-a-10k-dataset-using-llm-to-fine-tune-another-llm-3nkh)
+- [Time management tips for professionals](https://dev.to/swati_sharma/time-management-tips-for-professionals-469)
+- [Perform text translation using Vertex AI, Gemini, and NodeJS](https://dev.to/railsstudent/perform-text-translation-using-vertex-ai-gemini-and-nodejs-127h)
+- [Tips and Тricks to Мodernizing Your App with Blazor](https://dev.to/galinaj/tips-and-tricks-to-modernizing-your-app-with-blazor-9np)
+- [What is robots.txt file ? How to add into your Next.js app ?](https://dev.to/swhabitation/what-is-robotstxt-file-how-to-add-into-your-nextjs-app--3em4)
+- [A Beginner&#39;s Guide to Nodemailer](https://dev.to/scofieldidehen/a-beginners-guide-to-nodemailer-33d1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
