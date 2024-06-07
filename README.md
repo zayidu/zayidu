@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week? 🙌](https://dev.to/devteam/what-was-your-win-this-week-5ep8)
-- [Create your own GenAI Text-to-Speech App in TypeScript](https://dev.to/encore/create-your-own-genai-text-to-speech-app-in-typescript-11h7)
-- [Who&#39;s Hiring?](https://dev.to/opensauced/whos-hiring-4j82)
-- [Select best cluster of game-servers connection using PowerShell like the Wargaming launcher does. 🚀🎮](https://dev.to/uyriq/select-best-cluster-of-game-servers-connection-using-powershell-like-the-wargaming-launcher-does-n20)
-- [How To Set Up Docker Selenium GRID](https://dev.to/debasmita-a/how-to-set-up-docker-selenium-grid-2e8f)
+- [Elevate Your Web Projects: Mastering JavaScript Accessibility🚀🚀](https://dev.to/dharamgfx/elevate-your-web-projects-mastering-javascript-accessibility-40oo)
+- [Elevate Your Web Forms: Mastering JavaScript Form Submission🚀](https://dev.to/dharamgfx/elevate-your-web-forms-mastering-javascript-form-submission-5d0c)
+- [Can you explain the caching mechanism available in Spring Boot?](https://dev.to/codegreen/can-you-explain-the-caching-mechanism-available-in-spring-boot-4ea9)
+- [Create your own content management system with Remix and Xata](https://dev.to/xata/create-your-own-content-management-system-with-remix-and-xata-2ac2)
+- [What is TypeScript and what are it&#39;s advantages and disadvantages?](https://dev.to/afnan_ahmed/what-is-typescript-and-what-are-its-advantages-and-disadvantages-3m7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
