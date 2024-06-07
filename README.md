@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Elevate Your Web Projects: Mastering JavaScript Accessibility🚀🚀](https://dev.to/dharamgfx/elevate-your-web-projects-mastering-javascript-accessibility-40oo)
-- [Elevate Your Web Forms: Mastering JavaScript Form Submission🚀](https://dev.to/dharamgfx/elevate-your-web-forms-mastering-javascript-form-submission-5d0c)
-- [Can you explain the caching mechanism available in Spring Boot?](https://dev.to/codegreen/can-you-explain-the-caching-mechanism-available-in-spring-boot-4ea9)
-- [Create your own content management system with Remix and Xata](https://dev.to/xata/create-your-own-content-management-system-with-remix-and-xata-2ac2)
-- [What is TypeScript and what are it&#39;s advantages and disadvantages?](https://dev.to/afnan_ahmed/what-is-typescript-and-what-are-its-advantages-and-disadvantages-3m7h)
+- [Need help with GPO](https://dev.to/kalyan333/need-help-with-gpo-3ch2)
+- [FastAPI Beyond CRUD Part 8 - User Account Creation &lpar;Email &amp; Password Auth&rpar;](https://dev.to/jod35/fastapi-beyond-crud-part-8-user-account-creation-email-password-auth-47p5)
+- [Game for PYTHON](https://dev.to/praket_singh_1c341a50266b/game-for-python-png)
+- [Leetcode Day3 Linked List](https://dev.to/flame_chan_a3b11ee24d487d/leetcode-day3-linked-list-2n6e)
+- [Storage-first pattern using Serverless](https://dev.to/skaznowiecki/storage-first-pattern-using-serverless-m6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
