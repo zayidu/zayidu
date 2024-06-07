@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is CSS Tricks back?](https://dev.to/robole/is-css-tricks-back-4jh3)
-- [THE FIRST TIME USING GODOT](https://dev.to/dino2328/the-first-time-using-godot-2b37)
-- [The Easiest Way to Get Started with Kubernetes](https://dev.to/cyclops-ui/the-easiest-way-to-get-started-with-kubernetes-3mg7)
-- [20 Key Factors To Consider While Designing A Test Automation Framework](https://dev.to/jamescantor38/20-key-factors-to-consider-while-designing-a-test-automation-framework-2cb3)
-- [Revise Your Stylesheets. Part 1. Color Scheme](https://dev.to/jetthoughts/revise-your-stylesheets-part-1-color-scheme-1a9k)
+- [Effortlessly Migrate Your Databases to Azure SQL With Expert Guide](https://dev.to/dhruvil_joshi14/effortlessly-migrate-your-databases-to-azure-sql-with-expert-guide-561o)
+- [Creating Different Build Variants in Android](https://dev.to/matthewluke150/creating-different-build-variants-in-android-1i4k)
+- [Role of AI in Fintech Industry](https://dev.to/ailearning/role-of-ai-in-fintech-industry-24df)
+- [It’s Time For Active Job](https://dev.to/jetthoughts/its-time-for-active-job-eph)
+- [How We Generated a 10K Dataset Using LLM to Fine-Tune Another LLM](https://dev.to/maelghrib/how-we-generated-a-10k-dataset-using-llm-to-fine-tune-another-llm-3nkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
