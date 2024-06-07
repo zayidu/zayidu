@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Normalization and Normal Forms &lpar;1NF, 2NF, 3NF&rpar;](https://dev.to/kellyblaire/normalization-and-normal-forms-1nf-2nf-3nf-240a)
-- [Advice 65 Million Years in the Making: How Jurassic Park Made Me a Better Programmer](https://dev.to/daniel_ankofski_0c1a307be/advice-65-million-years-in-the-making-how-jurassic-park-made-me-a-better-programmer-3bcd)
-- [Database Design and Entity-Relationship Diagrams &lpar;ERDs&rpar;](https://dev.to/kellyblaire/database-design-and-entity-relationship-diagrams-erds-2909)
-- [Weekly Updates - June 7, 2024](https://dev.to/couchbase/weekly-updates-june-7-2024-1d7b)
-- [Data Warehousing Concepts: A Comprehensive Guide](https://dev.to/kellyblaire/data-warehousing-concepts-a-comprehensive-guide-14pa)
+- [Migrate from Heroku to AWS: A Best Practices Guide](https://dev.to/the_real_zan/migrate-from-heroku-to-aws-a-best-practices-guide-29f)
+- [648. Replace Words](https://dev.to/mdarifulhaque/648-replace-words-4f20)
+- [When Less is More: Why You Don&#39;t Always Need JavaScript in B2B Ruby on Rails Web Apps](https://dev.to/mariomarroquim/when-less-is-more-why-you-dont-always-need-javascript-in-b2b-ruby-on-rails-web-apps-4ecp)
+- [Automatically Test Your Regex Without Writing a Single C# Line of Code](https://dev.to/dimonsmart/automatically-test-your-regex-without-writing-a-single-c-line-of-code-1k9p)
+- [The Fates of Famous Figures Under the Pressure of Power from the Russian Empire to Our Days](https://dev.to/heyvaldemar/the-fates-of-famous-figures-under-the-pressure-of-power-from-the-russian-empire-to-our-days-2ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
