@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking Free from Tutorial Hell: My Journey to Becoming a Web Developer](https://dev.to/aniiketpal/breaking-free-from-tutorial-hell-my-journey-to-becoming-a-web-developer-3889)
-- [Obtendo Dados do WhoScored: Projeto de Web Scraping com Selenium](https://dev.to/lisandramelo/obtendo-dados-do-whoscored-projeto-de-web-scraping-com-selenium-4538)
-- [Resilis: Global Low Latency APIs](https://dev.to/resilis/resilis-global-low-latency-apis-7l1)
-- [Dev: Machine Learning](https://dev.to/r4nd3l/dev-machine-learning-f9a)
-- [Gopherizing some puppeteer code](https://dev.to/adaschevici/gopherizing-some-puppeteer-code-29g4)
+- [Web3: The Future of the Internet](https://dev.to/sam15x6/web3-the-future-of-the-internet-1jfp)
+- [Yes. You can deploy Nuxt on Firebase App Hosting &lpar;2024&rpar;](https://dev.to/rootasjey/yes-you-can-deploy-nuxt-on-firebase-app-hosting-2024-44bd)
+- [Simplest guide to Next.js APIs](https://dev.to/joeskills/simplest-guide-to-nextjs-apis-204g)
+- [Software Outsourcing vs. In-House Development: Pros and Cons](https://dev.to/liong/software-outsourcing-vs-in-house-development-pros-and-cons-2261)
+- [Release Radar · May 2024 Edition: Major updates from the open source community](https://dev.to/github/release-radar-may-2024-edition-major-updates-from-the-open-source-community-4oj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
