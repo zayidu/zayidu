@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Explaining Async/Await in JavaScript in 10 Minutes](https://dev.to/chauhoangminhnguyen/explaining-asyncawait-in-javascript-in-10-minutes-9o5)
+- [The Basics of Big Data: What You Need to Know](https://dev.to/bvanderbilt0033/the-basics-of-big-data-what-you-need-to-know-260e)
+- [Penerapan Domain-Driven Design dan CQRS Pattern di Golang untuk Pemula](https://dev.to/yogameleniawan/penerapan-domain-driven-design-dan-cqrs-pattern-di-golang-untuk-pemula-4bdl)
+- [Approving My New Developer Portfolio](https://dev.to/kiraaziz/approving-my-new-developer-portfolio-1p4g)
 - [Rumo do dev.to e aprendizado.](https://dev.to/matheuscsnt/rumo-do-devto-e-aprendizado-50m1)
-- [Elevate Your Next.js E-commerce App with Google Tag Manager](https://dev.to/abdur_rakibrony_97cea0e9/elevate-your-nextjs-e-commerce-app-with-google-tag-manager-1ke0)
-- [Use non-root user in scratch docker image](https://dev.to/hsatac/use-non-root-user-in-scratch-docker-image-1c0o)
-- [Questions to identify/assess culture &lpar;fit&rpar; in tech](https://dev.to/rvprasad/questions-to-identifyassess-culture-fit-in-tech-1d98)
-- [Transform Your Video Transcripts: From Raw to Readable Text](https://dev.to/roomals/transform-your-video-transcripts-from-raw-to-readable-text-15ep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
