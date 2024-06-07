@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nếu một ngày Service account và API key trên Google Cloud không cánh mà bay ?](https://dev.to/huydanggdg/neu-mot-ngay-service-account-va-api-key-tren-google-cloud-khong-canh-ma-bay--2l0l)
-- [Keep Your Monorepo Clean in VS Code with a Workspace Checkout Script](https://dev.to/mizanrifat/keep-your-monorepo-clean-in-vs-code-with-a-workspace-checkout-script-fkl)
-- [Laravel 11 + Inertia JS &lpar;VUE&rpar; CRUD Example: Part 1](https://dev.to/snehalkadwe/laravel-11-inertia-js-vue-crud-example-part-1-18oc)
-- [Gerador de currículos otimizado para os sistemas de ATS utilizados no Brasil, como Gupy e 99Jobs &lpar; gratuito 😎&rpar;](https://dev.to/pedrobarreto/gerador-de-curriculos-otimizado-para-os-sistemas-de-ats-utilizados-no-brasil-como-gupy-e-99jobs-gratuito--4po7)
-- [I spent hours debugging an issue which was not even in my code! Docker could have saved my time](https://dev.to/mhm13dev/i-spent-hours-debugging-an-issue-which-was-not-even-in-my-code-docker-could-have-saved-my-time-1al9)
+- [Normalization and Normal Forms &lpar;1NF, 2NF, 3NF&rpar;](https://dev.to/kellyblaire/normalization-and-normal-forms-1nf-2nf-3nf-240a)
+- [Advice 65 Million Years in the Making: How Jurassic Park Made Me a Better Programmer](https://dev.to/daniel_ankofski_0c1a307be/advice-65-million-years-in-the-making-how-jurassic-park-made-me-a-better-programmer-3bcd)
+- [Database Design and Entity-Relationship Diagrams &lpar;ERDs&rpar;](https://dev.to/kellyblaire/database-design-and-entity-relationship-diagrams-erds-2909)
+- [Weekly Updates - June 7, 2024](https://dev.to/couchbase/weekly-updates-june-7-2024-1d7b)
+- [Data Warehousing Concepts: A Comprehensive Guide](https://dev.to/kellyblaire/data-warehousing-concepts-a-comprehensive-guide-14pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
