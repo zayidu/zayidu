@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [eBPF, sidecars, and the future of the service mesh](https://dev.to/gulcantopcu/ebpf-sidecars-and-the-future-of-the-service-mesh-32ad)
-- [5 C# OCR Libraries commonly Used by Developers](https://dev.to/xeshan6981/5-c-ocr-libraries-commonly-used-by-developers-429b)
-- [How to Perform Rake Tasks in Rails](https://dev.to/afaq_shahid/how-to-perform-rake-tasks-in-rails-ol2)
-- [Understanding Canary Testing: A Comprehensive Guide](https://dev.to/keploy/understanding-canary-testing-a-comprehensive-guide-2i5i)
-- [AI tools you can try out 2024](https://dev.to/kevinbenjamin77/ai-tools-you-can-try-out-in-2024-53ck)
+- [How to customize the labels of a pie chart in VChart?](https://dev.to/neuqzxy/how-to-customize-the-labels-of-a-pie-chart-in-vchart-55kb)
+- [SIMILAR TERMS USED IN CLOUD COMPUTING](https://dev.to/aizeon/similar-terms-used-in-cloud-computing-53a8)
+- [In Excel, Enter Values of the same Category in Cells on the Right of the Grouping Cell in Order](https://dev.to/judith677/in-excel-enter-values-of-the-same-category-in-cells-on-the-right-of-the-grouping-cell-in-order-3g2f)
+- [How does Amazon explain its value of EKS support](https://dev.to/abhiram_cdx/how-does-amazon-explain-its-value-of-eks-support-5hga)
+- [How AI is Shaping the Future of Education](https://dev.to/arpit_dhiman_afe108fe83fb/how-ai-is-shaping-the-future-of-education-dng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
