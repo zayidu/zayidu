@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CRUD Operations with PHP and MySQL](https://dev.to/rkadriu/mastering-crud-operations-with-php-and-mysql-51gh)
-- [[Kafka] 1.Cài Đặt Kafka Server Trong 1 Phút](https://dev.to/opendev_dev/kafka-1cai-dat-kafka-server-trong-1-phut-52of)
-- [LeetCode Day4 LinkedList part2](https://dev.to/flame_chan_a3b11ee24d487d/leetcode-day4-linkedlist-part2-4lac)
-- [Forget Shadcn, Tailus UI React is now stable](https://dev.to/meschacirung/forget-shadcn-tailus-ui-react-is-now-stable-d16)
-- [How to Quickly Learn Programming Languages](https://dev.to/_itskish0re/how-to-quickly-learn-programming-languages-3gho)
+- [Run Laravel locally on Ubuntu using Apache virtual host](https://dev.to/medilies/run-laravel-locally-on-ubuntu-using-apache-virtual-host-chd)
+- [One beach to rule them all](https://dev.to/rcmonteiro/one-beach-to-rule-them-all-3nid)
+- [A Beginner&#39;s Guide to Linux Networking Fundamentals - Dev-ops Prerequisite 7](https://dev.to/iaadidev/a-beginners-guide-to-linux-networking-fundamentals-dev-ops-prerequisite-7-434o)
+- [PHP sem nada de Xampp e com muito Xdebug no Windows](https://dev.to/wesleyotio/php-sem-nada-de-xampp-e-com-muito-xdebug-no-windows-opa)
+- [Day:07 Understanding package manager and systemctl](https://dev.to/oncloud7/day07-understanding-package-manager-and-systemctl-14b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
