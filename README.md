@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Run Laravel locally on Ubuntu using Apache virtual host](https://dev.to/medilies/run-laravel-locally-on-ubuntu-using-apache-virtual-host-chd)
-- [One beach to rule them all](https://dev.to/rcmonteiro/one-beach-to-rule-them-all-3nid)
-- [A Beginner&#39;s Guide to Linux Networking Fundamentals - Dev-ops Prerequisite 7](https://dev.to/iaadidev/a-beginners-guide-to-linux-networking-fundamentals-dev-ops-prerequisite-7-434o)
-- [PHP sem nada de Xampp e com muito Xdebug no Windows](https://dev.to/wesleyotio/php-sem-nada-de-xampp-e-com-muito-xdebug-no-windows-opa)
-- [Day:07 Understanding package manager and systemctl](https://dev.to/oncloud7/day07-understanding-package-manager-and-systemctl-14b1)
+- [🌐 Speed Up Your React Apps With Code Splitting](https://dev.to/shehzadhussain/speed-up-your-react-apps-with-code-splitting-57cg)
+- [All about Google Firebase](https://dev.to/shafayeat/all-about-google-firebase-2onk)
+- [What Has Tech Done For You](https://dev.to/scofieldidehen/what-has-tech-done-for-you-3og3)
+- [Should you join TCS, Wipro or startup as a junior software developer?](https://dev.to/yatin300701/should-you-join-tcs-wipro-or-startup-as-a-junior-software-developer-27df)
+- [Efficient Code Splitting in React: A Practical Guide](https://dev.to/codewithjohnson/efficient-code-splitting-in-react-a-practical-guide-273i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
