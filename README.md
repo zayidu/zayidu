@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚫 8 Signs Programming Might Not Be Your Jam 🚫](https://dev.to/learn_with_santosh/8-signs-programming-might-not-be-your-jam-g9m)
-- [Relational Databases: PostgreSQL Vs. MariaDB Vs. MySQL Vs. SQLite](https://dev.to/strapi/relational-databases-postgresql-vs-mariadb-vs-mysql-vs-sqlite-5dn7)
-- [Latest Newsletter: Collaborating on a Rocky Road &lpar;Issue #167&rpar;](https://dev.to/mjgs/latest-newsletter-collaborating-on-a-rocky-road-issue-167-3ph5)
-- [My Pen on CodePen](https://dev.to/dog_man/my-pen-on-codepen-30e5)
-- [Configuring Hibernate for Azure Virtual Desktop &lpar;AVD&rpar; | Step-by-Step Guide](https://dev.to/amalkabraham001/configuring-hibernate-for-azure-virtual-desktop-avd-step-by-step-guide-67a)
+- [#Rest-Assured: A Powerful Framework for RESTful API Testing](https://dev.to/ronal_daniellupacamaman/rest-assured-a-powerful-framework-for-restful-api-testing-2e0b)
+- [Menu Animation in Action](https://dev.to/dipakahirav/menu-animation-in-action-1hng)
+- [Laravel 11 - Building API using Sanctum](https://dev.to/akramghaleb/laravel-11-building-api-using-sanctum-18m)
+- [Need help to fix vulnerabilities](https://dev.to/aman_kaliwar_23cada90e79b/need-help-to-fix-vulnerabilities-ge7)
+- [unwrap_or_else in Rust](https://dev.to/francescoxx/unwraporelse-in-rust-2ogh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
