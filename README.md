@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Speed Up Your React Apps With Code Splitting](https://dev.to/shehzadhussain/speed-up-your-react-apps-with-code-splitting-57cg)
-- [All about Google Firebase](https://dev.to/shafayeat/all-about-google-firebase-2onk)
-- [What Has Tech Done For You](https://dev.to/scofieldidehen/what-has-tech-done-for-you-3og3)
-- [Should you join TCS, Wipro or startup as a junior software developer?](https://dev.to/yatin300701/should-you-join-tcs-wipro-or-startup-as-a-junior-software-developer-27df)
-- [Efficient Code Splitting in React: A Practical Guide](https://dev.to/codewithjohnson/efficient-code-splitting-in-react-a-practical-guide-273i)
+- [🚨 CSS Injection on GitHub: What Happened and How to Stay Safe 🚨](https://dev.to/sh20raj/css-injection-on-github-what-happened-and-how-to-stay-safe-j2h)
+- [Dynamic Testimonial Showcase Slider](https://dev.to/creative_salahu/dynamic-testimonial-showcase-slider-56ep)
+- [523. Continuous Subarray Sum](https://dev.to/mdarifulhaque/523-continuous-subarray-sum-2b4)
+- [Step-by-Step nextpalestine Setup: Complete Overview](https://dev.to/adelpro/step-by-step-nextpalestine-setup-complete-overview-484e)
+- [gRPC with NestJS: A Comprehensive Beginner&#39;s Guide](https://dev.to/adewalecodes/grpc-with-nestjs-a-comprehensive-beginners-guide-4mi9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
