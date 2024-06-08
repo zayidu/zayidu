@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Services for Microservice Architectures: A Beginner&#39;s Overview &lpar;Part 1 - Computing&rpar;](https://dev.to/edriste/aws-services-for-microservice-architectures-a-beginners-overview-part-1-computing-4c36)
-- [Resolving the &quot;Length of LOB Data &lpar;78862&rpar; to be Replicated Exceeds Configured Maximum 65536&quot; Error](https://dev.to/shekhartarare/resolving-the-length-of-lob-data-78862-to-be-replicated-exceeds-configured-maximum-65536-error-bfb)
-- [A Step-by-Step Guide to Writing Your First Move Smart Contract on Aptos](https://dev.to/amity808/a-step-by-step-guide-to-writing-your-first-move-smart-contract-on-aptos-ae8)
-- [Understanding Primary Keys and Foreign Keys in SQL: A Simple and Detailed Guide](https://dev.to/kellyblaire/understanding-primary-keys-and-foreign-keys-in-sql-a-simple-and-detailed-guide-28jm)
-- [Fintech&#39;s role in mainstreaming cryptocurrency adoption](https://dev.to/osa_obaseki/fintechs-role-in-mainstreaming-cryptocurrency-adoption-4k9l)
+- [Learning the Basics of Large Language Model &lpar;LLM&rpar; Applications with LangChainJS](https://dev.to/praveencs87/learning-the-basics-of-large-language-model-llm-applications-with-langchainjs-4035)
+- [Beginner&#39;s Guide to Clocks: Understanding the Essentials](https://dev.to/dk119819/beginners-guide-to-clocks-understanding-the-essentials-1g0l)
+- [Exploring Data Structures and Algorithms in C](https://dev.to/kartikmehta8/exploring-data-structures-and-algorithms-in-c-2am9)
+- [Best beaches in the world](https://dev.to/elmerurbina/best-beaches-in-the-world-5ghd)
+- [Testando das trincheiras: Usando um &quot;clock&quot; fixo](https://dev.to/hugaomarques/testando-das-trincheiras-usando-um-clock-fixo-4gl6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
