@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Aced the DP-100 Exam and Became an Azure Data Scientist Associate](https://dev.to/mohamed-bekheet/how-i-aced-the-dp-100-exam-and-became-an-azure-data-scientist-associate-1ng)
+- [1. Two Sum](https://dev.to/whereislijah/1-two-sum-4a4n)
+- [Statistics for Data Science and Machine Learning](https://dev.to/harshm03/statistics-for-data-science-and-machine-learning-8f1)
 - [Building PDF Open Source Services with Angular &amp; GCP — Deploy services to Cloud Run](https://dev.to/dalenguyen/building-pdf-open-source-services-with-angular-gcp-deploy-services-to-cloud-run-56i)
 - [Frontend Challenge: June Beach Sunset](https://dev.to/jarvisscript/frontend-challenge-june-beach-sunset-48pa)
-- [Awesome List](https://dev.to/litlyx/awesome-list-3pdc)
-- [Connecting ServiceNow to Jira](https://dev.to/vivek_soni/connecting-servicenow-to-jira-4390)
-- [What Makes a Great Developer Onboarding Process?](https://dev.to/jwtiller_c47bdfa134adf302/what-makes-a-great-developer-onboarding-process-2jhj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
