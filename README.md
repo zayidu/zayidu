@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL generation: Golang&#39;s builder pattern vs Clojure&#39;s persistent map](https://dev.to/veer66/sql-generation-builder-pattern-vs-persistent-map-1bfl)
-- [React Server Components: How Did We Get Here?](https://dev.to/modydz/react-server-components-how-did-we-get-here-1oah)
-- [Enhancing Red Wine Quality Prediction: Leveraging Machine Learning for Multiclass Classification and Data Imbalance Management](https://dev.to/martins_adegbaju/enhancing-red-wine-quality-prediction-leveraging-machine-learning-for-multiclass-classification-and-data-imbalance-management-2bk2)
-- [Navigating the Early Days: Essential Tips for Junior Developers, Steering Clear of Common Pitfalls 💡](https://dev.to/g3nt/navigating-the-early-days-essential-tips-for-junior-developers-steering-clear-of-common-pitfalls-71n)
-- [Creating an Interactive Map with the Google Maps API in Next.js](https://dev.to/adrianbailador/creating-an-interactive-map-with-the-google-maps-api-in-nextjs-54a4)
+- [Can you fix 2 GPT Web Component errors??](https://dev.to/dannyengelman/can-you-fix-2-gpt-web-component-errors-52n3)
+- [Navigating Salary Disparities: Small vs. Large Companies 💵♟](https://dev.to/_hm/navigating-salary-disparities-small-vs-large-companies-4ncj)
+- [How to Use Custom Fonts with Tailwind CSS: A Step-by-Step Guide](https://dev.to/swhabitation/how-to-use-custom-fonts-with-tailwind-css-a-step-by-step-guide-907)
+- [Creative Swiper Slider with Autoplay and Navigation](https://dev.to/creative_salahu/creative-swiper-slider-with-autoplay-and-navigation-4el2)
+- [What mistakes do beginners do when they create Restful APIs?](https://dev.to/mbshehzad/what-mistakes-do-beginners-do-when-they-create-restful-apis-31kp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
