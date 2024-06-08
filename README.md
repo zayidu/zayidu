@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Are Device-Bound Passkeys AAL2- or AAL3-Compliant?](https://dev.to/corbado/are-device-bound-passkeys-aal2-or-aal3-compliant-504b)
-- [What is Amazon RDS &lpar;Relational Database Service&rpar;?](https://dev.to/devops_den/what-is-amazon-rds-relational-database-service-22ld)
-- [The Role of a C-Rank Executive in Corporate Operations](https://dev.to/nandha_krishnan_nk/the-role-of-a-c-rank-executive-in-corporate-operations-3087)
-- [summer 2024 june](https://dev.to/omprakash2929/summer-2024-june-4d35)
-- [What is the difference between type vs interface in Typescript](https://dev.to/xuanmingl/what-is-the-difference-between-type-vs-interface-in-typescript-2f1i)
+- [🚫 8 Signs Programming Might Not Be Your Jam 🚫](https://dev.to/learn_with_santosh/8-signs-programming-might-not-be-your-jam-g9m)
+- [Relational Databases: PostgreSQL Vs. MariaDB Vs. MySQL Vs. SQLite](https://dev.to/strapi/relational-databases-postgresql-vs-mariadb-vs-mysql-vs-sqlite-5dn7)
+- [Latest Newsletter: Collaborating on a Rocky Road &lpar;Issue #167&rpar;](https://dev.to/mjgs/latest-newsletter-collaborating-on-a-rocky-road-issue-167-3ph5)
+- [My Pen on CodePen](https://dev.to/dog_man/my-pen-on-codepen-30e5)
+- [Configuring Hibernate for Azure Virtual Desktop &lpar;AVD&rpar; | Step-by-Step Guide](https://dev.to/amalkabraham001/configuring-hibernate-for-azure-virtual-desktop-avd-step-by-step-guide-67a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
