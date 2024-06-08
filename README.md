@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Seamlessly Connect MongoDB with Node.js: A Practical Guide with Mongoose](https://dev.to/vyan/seamlessly-connect-mongodb-with-nodejs-a-practical-guide-with-mongoose-1gk6)
-- [Setting Up Docker in a Next.js Project: A Comprehensive Guide](https://dev.to/hasancse/setting-up-docker-in-a-nextjs-project-a-comprehensive-guide-3m5d)
-- [Endless Summer](https://dev.to/srishti_01/endless-summer-4964)
-- [Get wallet address for multiple chains in cosmos app chains](https://dev.to/tqmvt/get-wallet-address-for-multiple-chains-in-cosmos-app-chains-56pb)
-- [Exploring the Tech Stack of Major Banks: Key Tools and Technologies for Software Engineers](https://dev.to/isamarsoftwareengineer/exploring-the-tech-stack-of-major-banks-key-tools-and-technologies-for-software-engineers-3o7f)
+- [🛠️ How to Review Code Effectively: A Simple Guide for Developers](https://dev.to/raksbisht/how-to-review-code-effectively-a-simple-guide-for-developers-556e)
+- [Getting spell checker working in Neovim](https://dev.to/rafi993/getting-spell-checker-working-in-neovim-2375)
+- [Can you explain how LPPE works to protect users&#39; location data from precise tracking?](https://dev.to/richerdjames/can-you-explain-how-lppe-works-to-protect-users-location-data-from-precise-tracking-afp)
+- [Understanding Generative AI and LLMs](https://dev.to/gervaisamoah/understanding-generative-ai-and-llms-47cb)
+- [Exploring Functional Programming in Java &lpar;for JavaScript Developers&rpar;](https://dev.to/gervaisamoah/exploring-functional-programming-in-java-for-javascript-developers-372)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
