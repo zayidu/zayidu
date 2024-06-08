@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Aced the DP-100 Exam and Became an Azure Data Scientist Associate](https://dev.to/mohamed-bekheet/how-i-aced-the-dp-100-exam-and-became-an-azure-data-scientist-associate-1ng)
-- [1. Two Sum](https://dev.to/whereislijah/1-two-sum-4a4n)
-- [Statistics for Data Science and Machine Learning](https://dev.to/harshm03/statistics-for-data-science-and-machine-learning-8f1)
-- [Building PDF Open Source Services with Angular &amp; GCP — Deploy services to Cloud Run](https://dev.to/dalenguyen/building-pdf-open-source-services-with-angular-gcp-deploy-services-to-cloud-run-56i)
-- [Frontend Challenge: June Beach Sunset](https://dev.to/jarvisscript/frontend-challenge-june-beach-sunset-48pa)
+- [A Beginner&#39;s Journey into Graphics Programming](https://dev.to/gift_mugweni_1c055b418706/a-beginners-journey-into-graphics-programming-4p9p)
+- [Understanding MongoDB and Its Differences from SQL Databases](https://dev.to/ayas_tech_2b0560ee159e661/understanding-mongodb-and-its-differences-from-sql-databases-7h6)
+- [Securing Your Next.js with Arcjet on Fly.io with Lightning-Fast Deployment](https://dev.to/nickolasbenakis/securing-your-nextjs-with-arcjet-on-flyio-with-lightning-fast-deployment-4kl0)
+- [Mastering SEO: A Beginner&#39;s Guide to Ethical and Effective Strategies](https://dev.to/gohil1401/mastering-seo-a-beginners-guide-to-ethical-and-effective-strategies-35a6)
+- [Symfony Station Communiqué — 07 June 2024: A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-07-june-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-49jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
