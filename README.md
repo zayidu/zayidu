@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Software Architecture: The Indispensable Role of Diagrams](https://dev.to/tomjohnson3/mastering-software-architecture-the-indispensable-role-of-diagrams-2847)
-- [How many ways to import a package?](https://dev.to/levihoang/how-many-ways-to-import-a-package-32b1)
-- [Writing custom platform-specific code](https://dev.to/levihoang/writing-custom-platform-specific-code-4o14)
-- [Top Redis Use Cases](https://dev.to/raksbisht/top-redis-use-cases-322k)
-- [Populating Next Right Pointers in Each Node | LeetCode | Java](https://dev.to/tanujav/populating-next-right-pointers-in-each-node-leetcode-java-1l9l)
+- [Are Device-Bound Passkeys AAL2- or AAL3-Compliant?](https://dev.to/corbado/are-device-bound-passkeys-aal2-or-aal3-compliant-504b)
+- [What is Amazon RDS &lpar;Relational Database Service&rpar;?](https://dev.to/devops_den/what-is-amazon-rds-relational-database-service-22ld)
+- [The Role of a C-Rank Executive in Corporate Operations](https://dev.to/nandha_krishnan_nk/the-role-of-a-c-rank-executive-in-corporate-operations-3087)
+- [summer 2024 june](https://dev.to/omprakash2929/summer-2024-june-4d35)
+- [What is the difference between type vs interface in Typescript](https://dev.to/xuanmingl/what-is-the-difference-between-type-vs-interface-in-typescript-2f1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
