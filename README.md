@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 CSS Injection on GitHub: What Happened and How to Stay Safe 🚨](https://dev.to/sh20raj/css-injection-on-github-what-happened-and-how-to-stay-safe-j2h)
-- [Dynamic Testimonial Showcase Slider](https://dev.to/creative_salahu/dynamic-testimonial-showcase-slider-56ep)
-- [523. Continuous Subarray Sum](https://dev.to/mdarifulhaque/523-continuous-subarray-sum-2b4)
-- [Step-by-Step nextpalestine Setup: Complete Overview](https://dev.to/adelpro/step-by-step-nextpalestine-setup-complete-overview-484e)
-- [gRPC with NestJS: A Comprehensive Beginner&#39;s Guide](https://dev.to/adewalecodes/grpc-with-nestjs-a-comprehensive-beginners-guide-4mi9)
+- [Redux For Beginners](https://dev.to/jemmyasjd/redux-for-beginners-4l16)
+- [generate-sitemap 1.10.1 Released](https://dev.to/cicirello/generate-sitemap-1101-released-3f73)
+- [Developing Modern Web Applications with Rails: Choosing the Right Component Tool](https://dev.to/fbzsaullo/developing-modern-web-applications-with-rails-choosing-the-right-component-tool-253p)
+- [June Frontend Challenge: Birthday Month](https://dev.to/codewithtee/june-frontend-challenge-birthday-month-2boi)
+- [100 Days To Offload - completed](https://dev.to/stefanalfbo/100-days-to-offload-completed-3n2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
