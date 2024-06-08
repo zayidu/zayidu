@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Event-Driven Architecture with NestJS: Using the EventEmitter Module](https://dev.to/ezilemdodana/event-driven-architecture-with-nestjs-using-the-eventemitter-module-35fe)
-- [How to Create a Window Server Virtual Machine and install and IIS Web server role on the VM](https://dev.to/olaraph/how-to-create-a-window-server-virtual-machine-and-install-and-iis-web-server-role-on-the-vm-4d04)
-- [Day 7: Building a React Project](https://dev.to/dipakahirav/day-7-building-a-react-project-5gld)
-- [Beginner 101: How to contribute to open source projects ? &lpar;Javascript&rpar;](https://dev.to/aadesh_kulkarni_ff9fad10b/beginner-101-how-to-contribute-to-open-source-projects-javascript-1gkf)
-- [The First AGI Company on Earth](https://dev.to/polterguy/the-first-agi-company-on-earth-3kcl)
+- [Go concurrency in the smoothiest way](https://dev.to/lucasherlon/go-concurrency-in-the-smoothiest-way-15kk)
+- [Convert JPG, PNG to WebP Pro: Optimize Your Website Images](https://dev.to/digital_accolades/convert-jpg-png-to-webp-pro-optimize-your-website-images-2bc0)
+- [Frontend Challenge: June Edition](https://dev.to/thaisavieira/frontend-challenge-june-edition-3bce)
+- [HackTheBox - Writeup Nunchucks [Retired]](https://dev.to/mrtnsgs/hackthebox-writeup-nunchucks-retired-4gik)
+- [Learning Rust by Parsing Regex with Recursive Descent](https://dev.to/prefixsum/learning-rust-by-parsing-regex-with-recursive-descent-23cm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
