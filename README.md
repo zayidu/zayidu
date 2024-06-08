@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Redux For Beginners](https://dev.to/jemmyasjd/redux-for-beginners-4l16)
-- [generate-sitemap 1.10.1 Released](https://dev.to/cicirello/generate-sitemap-1101-released-3f73)
-- [Developing Modern Web Applications with Rails: Choosing the Right Component Tool](https://dev.to/fbzsaullo/developing-modern-web-applications-with-rails-choosing-the-right-component-tool-253p)
-- [June Frontend Challenge: Birthday Month](https://dev.to/codewithtee/june-frontend-challenge-birthday-month-2boi)
-- [100 Days To Offload - completed](https://dev.to/stefanalfbo/100-days-to-offload-completed-3n2b)
+- [Building PDF Open Source Services with Angular &amp; GCP — Deploy services to Cloud Run](https://dev.to/dalenguyen/building-pdf-open-source-services-with-angular-gcp-deploy-services-to-cloud-run-56i)
+- [Frontend Challenge: June Beach Sunset](https://dev.to/jarvisscript/frontend-challenge-june-beach-sunset-48pa)
+- [Awesome List](https://dev.to/litlyx/awesome-list-3pdc)
+- [Connecting ServiceNow to Jira](https://dev.to/vivek_soni/connecting-servicenow-to-jira-4390)
+- [What Makes a Great Developer Onboarding Process?](https://dev.to/jwtiller_c47bdfa134adf302/what-makes-a-great-developer-onboarding-process-2jhj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
