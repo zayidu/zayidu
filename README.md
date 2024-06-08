@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ How to Review Code Effectively: A Simple Guide for Developers](https://dev.to/raksbisht/how-to-review-code-effectively-a-simple-guide-for-developers-556e)
-- [Getting spell checker working in Neovim](https://dev.to/rafi993/getting-spell-checker-working-in-neovim-2375)
-- [Can you explain how LPPE works to protect users&#39; location data from precise tracking?](https://dev.to/richerdjames/can-you-explain-how-lppe-works-to-protect-users-location-data-from-precise-tracking-afp)
-- [Understanding Generative AI and LLMs](https://dev.to/gervaisamoah/understanding-generative-ai-and-llms-47cb)
-- [Exploring Functional Programming in Java &lpar;for JavaScript Developers&rpar;](https://dev.to/gervaisamoah/exploring-functional-programming-in-java-for-javascript-developers-372)
+- [Mastering Software Architecture: The Indispensable Role of Diagrams](https://dev.to/tomjohnson3/mastering-software-architecture-the-indispensable-role-of-diagrams-2847)
+- [How many ways to import a package?](https://dev.to/levihoang/how-many-ways-to-import-a-package-32b1)
+- [Writing custom platform-specific code](https://dev.to/levihoang/writing-custom-platform-specific-code-4o14)
+- [Top Redis Use Cases](https://dev.to/raksbisht/top-redis-use-cases-322k)
+- [Populating Next Right Pointers in Each Node | LeetCode | Java](https://dev.to/tanujav/populating-next-right-pointers-in-each-node-leetcode-java-1l9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
