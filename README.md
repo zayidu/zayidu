@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning the Basics of Large Language Model &lpar;LLM&rpar; Applications with LangChainJS](https://dev.to/praveencs87/learning-the-basics-of-large-language-model-llm-applications-with-langchainjs-4035)
-- [Beginner&#39;s Guide to Clocks: Understanding the Essentials](https://dev.to/dk119819/beginners-guide-to-clocks-understanding-the-essentials-1g0l)
-- [Exploring Data Structures and Algorithms in C](https://dev.to/kartikmehta8/exploring-data-structures-and-algorithms-in-c-2am9)
-- [Best beaches in the world](https://dev.to/elmerurbina/best-beaches-in-the-world-5ghd)
-- [Testando das trincheiras: Usando um &quot;clock&quot; fixo](https://dev.to/hugaomarques/testando-das-trincheiras-usando-um-clock-fixo-4gl6)
+- [What are the top-level steps to create an API ?](https://dev.to/mbshehzad/what-are-the-top-level-steps-to-create-an-api--53nc)
+- [Tipos Básicos em Kotlin](https://dev.to/oliversieto/tipos-basicos-em-kotlin-10i2)
+- [Bryan Builds in Public - 1](https://dev.to/liaob/bryan-builds-in-public-1-2kek)
+- [A comprehensive comparison between MySQL and PostgreSQL](https://dev.to/concerate/a-comprehensive-comparison-between-mysql-and-postgresql-53oi)
+- [A Declaration of World Peace](https://dev.to/thedesirfoundation/a-declaration-of-world-peace-44o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
