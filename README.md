@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#Rest-Assured: A Powerful Framework for RESTful API Testing](https://dev.to/ronal_daniellupacamaman/rest-assured-a-powerful-framework-for-restful-api-testing-2e0b)
-- [Menu Animation in Action](https://dev.to/dipakahirav/menu-animation-in-action-1hng)
-- [Laravel 11 - Building API using Sanctum](https://dev.to/akramghaleb/laravel-11-building-api-using-sanctum-18m)
-- [Need help to fix vulnerabilities](https://dev.to/aman_kaliwar_23cada90e79b/need-help-to-fix-vulnerabilities-ge7)
-- [unwrap_or_else in Rust](https://dev.to/francescoxx/unwraporelse-in-rust-2ogh)
+- [How AI can optimize Continuous Integration and Continuous Deployment &lpar;CI/CD&rpar; processes.](https://dev.to/devops_den/how-ai-can-optimize-continuous-integration-and-continuous-deployment-cicd-processes-4f67)
+- [How the web works?](https://dev.to/34shifty/how-the-web-works-12il)
+- [Route Rider System](https://dev.to/akramghaleb/route-rider-system-3dc8)
+- [The Best Programming Languages for Modern Web Browsers](https://dev.to/karthik_n/the-best-programming-languages-for-modern-web-browsers-2p1a)
+- [Legacy No More: Deprecated JavaScript Methods to Know About](https://dev.to/karthik_n/legacy-no-more-deprecated-javascript-methods-to-know-about-5gkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
