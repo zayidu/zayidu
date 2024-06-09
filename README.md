@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bash Scripting for Software Engineers - A Beginner&#39;s Guide](https://dev.to/alexindevs/bash-scripting-for-software-engineers-a-beginners-guide-1j65)
-- [Understanding DNS: The Backbone of the Internet](https://dev.to/elizabethsobiya/understanding-dns-the-backbone-of-the-internet-49d7)
-- [PACX ⁓ Working with solutions](https://dev.to/_neronotte/pacx-working-with-solutions-5fil)
-- [JavaScript Coding Interview Questions](https://dev.to/fatimaalam1234/javascript-interview-questions-576j)
-- [Why You Need a Portfolio Website](https://dev.to/abdullah_ali_eb8b6b0c2208/why-you-need-a-portfolio-website-445l)
+- [Node.js vs. NestJS: A Comparative Analysis](https://dev.to/yelethe1st/nodejs-vs-nestjs-a-comparative-analysis-3f7o)
+- [Glam Markup Beaches](https://dev.to/thabangrammitlwa/glam-markup-beaches-3ln3)
+- [Advice for Intermediate developers](https://dev.to/rampa2510/advice-for-intermediate-developers-4777)
+- [How to Use NgRx Selectors in Angular](https://dev.to/danywalls/how-to-use-ngrx-selectors-in-angular-5cem)
+- [JavaScript Essentials](https://dev.to/suhaspalani/javascript-essentials-5e44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
