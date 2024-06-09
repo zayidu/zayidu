@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing the Draggable Element Background Issue in Chromium Browsers](https://dev.to/ganatrajay2000/fixing-the-draggable-element-background-issue-in-chromium-browsers-25g3)
-- [Documenting my pin collection with Segment Anything: Part 1](https://dev.to/feregri_no/documenting-my-pin-collection-with-segment-anything-part-1-4k3o)
-- [Wie man django in Entwicklung Containerisiert - via docker compose](https://dev.to/rubenvoss/wie-man-django-in-entwicklung-containerisiert-via-docker-compose-3n0b)
-- [Two Flags, One Country, Same Message](https://dev.to/cbid2/two-flags-one-country-same-message-6d7)
-- [Frontend Challenge: CSS is a Beach](https://dev.to/kelseyrh/frontend-challenge-css-is-a-beach-5911)
+- [World Bicycle Day CSS Art : Frontend Challenge &lpar;June Edition&rpar;](https://dev.to/israebenboujema/world-bicycle-day-css-art-frontend-challenge-june-edition-31oc)
+- [How to get html from the server using javascript using fetch?](https://dev.to/antonmak1/how-to-get-html-from-the-server-using-javascript-using-fetch-1kih)
+- [Solving Tailwind&#39;s &quot;Unknown at rule @apply&quot;](https://dev.to/mahdava/solving-tailwinds-unknown-at-rule-apply-3c7g)
+- [Using interactive rebase in Git](https://dev.to/lyumotech/using-interactive-rebase-in-git-361d)
+- [Why Python is a Great Language for Coding Games](https://dev.to/walkera1/why-python-is-a-great-language-for-coding-games-3088)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
