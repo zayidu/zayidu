@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Know Your Neighborhood: General and Zero-Shot Capable Binary Function Search Powered by Call Graphlets](https://dev.to/mikeyoung44/know-your-neighborhood-general-and-zero-shot-capable-binary-function-search-powered-by-call-graphlets-106m)
-- [Scalable MatMul-free Language Modeling](https://dev.to/mikeyoung44/scalable-matmul-free-language-modeling-16lc)
-- [Wav2Prompt: End-to-End Speech Prompt Generation and Tuning For LLM in Zero and Few-shot Learning](https://dev.to/mikeyoung44/wav2prompt-end-to-end-speech-prompt-generation-and-tuning-for-llm-in-zero-and-few-shot-learning-4ee1)
-- [Bootstrap3D: Improving 3D Content Creation with Synthetic Data](https://dev.to/mikeyoung44/bootstrap3d-improving-3d-content-creation-with-synthetic-data-54h0)
-- [Graph Convolutional Branch and Bound](https://dev.to/mikeyoung44/graph-convolutional-branch-and-bound-5f07)
+- [Logging Done Right](https://dev.to/markadel/logging-done-right-1nnm)
+- [Mastering Async/Await in TypeScript: A Comprehensive Guide](https://dev.to/hasancse/mastering-asyncawait-in-typescript-a-comprehensive-guide-22kf)
+- [Frontend Challenge: Pride Month Pure CSS Pixel Art](https://dev.to/vivitt/frontend-challenge-pride-month-pure-css-pixel-art-213i)
+- [How To Access Web Camera Using JavaScript And Capture Images And Record Video With Audio](https://dev.to/manojkadam8/how-to-access-web-camera-using-javascript-and-capture-images-and-record-video-with-audio-3kco)
+- [Smooth Scroll](https://dev.to/kakimaru/smooth-scroll-oil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
