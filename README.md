@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Debouncing in JavaScript](https://dev.to/dipakahirav/understanding-debouncing-in-javascript-5g30)
-- [Understand the Liskov substitution principle using a simple example.](https://dev.to/muhammad_salem/understand-the-liskov-substitution-principle-using-a-simple-example-3apo)
-- [Image Scraping with HtmlAgilityPack: A Practical Guide Using ConsoleWebScraper](https://dev.to/themysteriousstranger90/image-scraping-with-htmlagilitypack-a-practical-guide-using-consolewebscraper-57km)
-- [How do you create a full CRUD GraphQL API for posts in Nest JS?](https://dev.to/nadim_ch0wdhury/how-do-you-create-a-full-crud-graphql-api-for-posts-in-nest-js-4l1k)
-- [Debouncing in JavaScript](https://dev.to/mrhimanshusahni/debouncing-in-javascript-2p3o)
+- [How I built a rhymes dictionary ?](https://dev.to/camarm/how-i-built-a-rhymes-dictionary--3fme)
+- [Building a Gym Management App with Laravel, Filament, Herd, and Blueprint](https://dev.to/hassanshahzadaheer/building-a-gym-management-app-with-laravel-filament-herd-and-blueprint-2b3m)
+- [3d rotating pyramid](https://dev.to/kemiowoyele1/3d-rotating-pyramid-2bdf)
+- [CSS spaceship](https://dev.to/kemiowoyele1/css-spaceship-292g)
+- [react js useEffect hook](https://dev.to/kemiowoyele1/react-js-useeffect-hook-1a5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
