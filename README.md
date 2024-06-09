@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ethical AI: Balancing Innovation with Responsibility](https://dev.to/bingecoder89/ethical-ai-balancing-innovation-with-responsibility-2lgk)
-- [TOP 38 react hooks every developer must bookmark](https://dev.to/kumarkalyan/top-38-react-hooks-every-developer-must-bookmark-4oj3)
-- [12 React Best Practices Every Developer Should Know](https://dev.to/mayank_tamrkar/12-best-practices-every-developer-should-know-dle)
-- [Searching with Umbraco Examine: Avoid these common filtering mistakes](https://dev.to/jemayn/searching-with-umbraco-examine-avoid-these-common-filtering-mistakes-1oin)
-- [AWSKRUG Community Chronicles: Insights from a Community Hero &lpar;2/2&rpar;](https://dev.to/aws-heroes/awskrug-community-chronicles-insights-from-a-community-hero-22-2h0b)
+- [Integrating Google Translate API with Yii2](https://dev.to/toru/integrating-google-translate-api-with-yii2-c7o)
+- [Take me to the beach: Frontend](https://dev.to/gloria_gyemfa/take-me-to-the-beach-frontend-1oij)
+- [Can you beat the &#39;Maze Of Monsters&#39;?](https://dev.to/bryson_noblesbemomusi/can-you-beat-the-maze-of-monsters-23ce)
+- [Deploying a Web Socket Application on Kubernetes](https://dev.to/adilansari/deploying-a-web-socket-application-on-kubernetes-2h33)
+- [CSS CANVAS](https://dev.to/176_shivaya_gupta_516b185/css-canvas-30fi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
