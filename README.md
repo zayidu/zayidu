@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Google Translate API with Yii2](https://dev.to/toru/integrating-google-translate-api-with-yii2-c7o)
-- [Take me to the beach: Frontend](https://dev.to/gloria_gyemfa/take-me-to-the-beach-frontend-1oij)
-- [Can you beat the &#39;Maze Of Monsters&#39;?](https://dev.to/bryson_noblesbemomusi/can-you-beat-the-maze-of-monsters-23ce)
-- [Deploying a Web Socket Application on Kubernetes](https://dev.to/adilansari/deploying-a-web-socket-application-on-kubernetes-2h33)
-- [CSS CANVAS](https://dev.to/176_shivaya_gupta_516b185/css-canvas-30fi)
+- [React hooks nobody told you before](https://dev.to/kumarkalyan/react-hooks-nobody-told-you-before-14)
+- [JavaScript Latest Version: What&#39;s New?](https://dev.to/azeem_shafeeq/javascript-latest-version-whats-new-532m)
+- [HackerRank SQL Preparation: Weather Observation Station 1&lpar;MySQL&rpar;](https://dev.to/christianpaez/hackerrank-sql-preparation-weather-observation-station-1mysql-1gke)
+- [Handling AWS WAF Capacity Limits with Terraform](https://dev.to/mukulsharma/handling-aws-waf-capacity-limits-with-terraform-1741)
+- [HackerRank SQL Preparation: Japanese Cities&#39; Names&lpar;MySQL&rpar;](https://dev.to/christianpaez/hackerrank-sql-preparation-japanese-cities-namesmysql-5ap1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
