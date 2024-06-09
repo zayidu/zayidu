@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js vs. NestJS: A Comparative Analysis](https://dev.to/yelethe1st/nodejs-vs-nestjs-a-comparative-analysis-3f7o)
-- [Glam Markup Beaches](https://dev.to/thabangrammitlwa/glam-markup-beaches-3ln3)
-- [Advice for Intermediate developers](https://dev.to/rampa2510/advice-for-intermediate-developers-4777)
-- [How to Use NgRx Selectors in Angular](https://dev.to/danywalls/how-to-use-ngrx-selectors-in-angular-5cem)
-- [JavaScript Essentials](https://dev.to/suhaspalani/javascript-essentials-5e44)
+- [Ethical AI: Balancing Innovation with Responsibility](https://dev.to/bingecoder89/ethical-ai-balancing-innovation-with-responsibility-2lgk)
+- [TOP 38 react hooks every developer must bookmark](https://dev.to/kumarkalyan/top-38-react-hooks-every-developer-must-bookmark-4oj3)
+- [12 React Best Practices Every Developer Should Know](https://dev.to/mayank_tamrkar/12-best-practices-every-developer-should-know-dle)
+- [Searching with Umbraco Examine: Avoid these common filtering mistakes](https://dev.to/jemayn/searching-with-umbraco-examine-avoid-these-common-filtering-mistakes-1oin)
+- [AWSKRUG Community Chronicles: Insights from a Community Hero &lpar;2/2&rpar;](https://dev.to/aws-heroes/awskrug-community-chronicles-insights-from-a-community-hero-22-2h0b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
