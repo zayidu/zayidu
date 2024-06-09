@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Compile your NodeJS application to single file executable](https://dev.to/sudospace/compile-your-nodejs-application-to-single-file-executable-5aoe)
-- [Mastering JavaScript MathML: Writing Mathematics with MathML](https://dev.to/dharamgfx/mastering-javascript-mathml-writing-mathematics-with-mathml-1fll)
-- [Identifying Container Image Vulnerabilities with Docker Scout](https://dev.to/plutov/identifying-container-image-vulnerabilities-with-docker-scout-503o)
-- [Java Stream API](https://dev.to/abhishek999/java-stream-api-lh2)
-- [Unified Cache Keys: How Namespaced Keys Improve Service Interoperability](https://dev.to/plutov/unified-cache-keys-how-namespaced-keys-improve-service-interoperability-2p2c)
+- [Bash Scripting for Software Engineers - A Beginner&#39;s Guide](https://dev.to/alexindevs/bash-scripting-for-software-engineers-a-beginners-guide-1j65)
+- [Understanding DNS: The Backbone of the Internet](https://dev.to/elizabethsobiya/understanding-dns-the-backbone-of-the-internet-49d7)
+- [PACX ⁓ Working with solutions](https://dev.to/_neronotte/pacx-working-with-solutions-5fil)
+- [JavaScript Coding Interview Questions](https://dev.to/fatimaalam1234/javascript-interview-questions-576j)
+- [Why You Need a Portfolio Website](https://dev.to/abdullah_ali_eb8b6b0c2208/why-you-need-a-portfolio-website-445l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
