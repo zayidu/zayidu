@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Release Action for the Python Package Index](https://dev.to/jphutchins/github-release-action-for-the-python-package-index-1m7n)
-- [Deep Learning Workflow in PyTorch](https://dev.to/hyperkai/deep-learning-workflow-in-pytorch-10ik)
-- [Runtime Environment Config in Angular, but Without Dependency Injection](https://dev.to/bwca/runtime-environment-config-in-angular-but-without-dependency-injection-kno)
-- [Why you need to sell yourself](https://dev.to/arjunrao87/why-you-need-to-sell-yourself-48jg)
-- [Understanding SOAP APIs and Their Usage](https://dev.to/ayas_tech_2b0560ee159e661/understanding-soap-apis-and-their-usage-2mak)
+- [Introduction to Cloud Native Applications with Kubernetes](https://dev.to/kartikmehta8/introduction-to-cloud-native-applications-with-kubernetes-1j6o)
+- [Transforming GitHub Codespace Log Files to OpenTelemetry Traces](https://dev.to/agardnerit/transforming-github-codespace-log-files-to-opentelemetry-traces-23m3)
+- [A Photo Caption API](https://dev.to/sraveend/a-photo-caption-api-f90)
+- [HashiCorp Vault Quickstart](https://dev.to/darkedges/hashicorp-vault-quickstart-26g6)
+- [Beach CSS Art: Frontend Challenge: June Edition](https://dev.to/pinky057/beach-css-art-frontend-challenge-june-edition-2lp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
