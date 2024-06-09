@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I created my own search engine](https://dev.to/schbenedikt/i-created-my-own-search-engine-go4)
-- [laravel-nuxt-template](https://dev.to/akramghaleb/laravel-nuxt-template-1c6j)
-- [Performance Optimization of LazyColumn in Jetpack Compose](https://dev.to/aritradas/performance-optimization-of-lazycolumn-in-jetpack-compose-2pf2)
-- [Tabs](https://dev.to/kakimaru/tabs-2e6l)
-- [Python Cheat Sheet: Essential Guide for Beginners](https://dev.to/terrancoder/python-cheat-sheet-essential-guide-for-beginners-2bdl)
+- [Database Sharding for System Design Interview](https://dev.to/somadevtoo/database-sharding-for-system-design-interview-1k6b)
+- [Deployment Strategies: All at Once, Rolling Deploys, Blue-Green, and Canary Releases](https://dev.to/spantheslayer/deployment-and-delivery-strategies-all-at-once-rolling-deploys-blue-green-and-canary-releases-fd5)
+- [IntersectionObserver](https://dev.to/kakimaru/intersectionobserver-161c)
+- [A Comprehensive Guide to TypeScript’s `any`, `unknown`, and `never` Types](https://dev.to/dipakahirav/a-comprehensive-guide-to-typescripts-any-unknown-and-never-types-4ba7)
+- [Why there are so many assertAll methods in Junit class AssertAll? What is the use of each.](https://dev.to/kasid_khan_98865d77a5fe2e/why-there-are-so-many-assertall-methods-in-junit-class-assertall-what-is-the-use-of-each-17gk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
