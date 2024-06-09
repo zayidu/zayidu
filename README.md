@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running a python script as a standalone task in ECS](https://dev.to/harsh_vardhansingh_69340/running-a-python-script-as-a-standalone-task-in-ecs-317l)
-- [Auto suggest vscode plugins for your team through the settings in your repo.](https://dev.to/matthewbill/auto-suggest-vscode-plugins-for-your-team-through-the-settings-in-your-repo-1l6m)
-- [Building a Audience Analyzer using Lyzr SDK](https://dev.to/akshay007/building-a-audience-analyzer-using-lyzr-sdk-1kb6)
-- [.gitignore file IGNORED my .env file](https://dev.to/bkaush/gitignore-file-ignored-my-env-file-3lgf)
-- [Automating and Integrating Testing into Your CI/CD Pipeline: Because Who Needs Sleep Anyway?](https://dev.to/spantheslayer/automating-and-integrating-testing-into-your-cicd-pipeline-because-who-needs-sleep-anyway-3bea)
+- [Effortless – Free Tailwind CSS Website Template](https://dev.to/mikevarenek/effortless-free-tailwind-css-website-template-5ghd)
+- [Navigating the Testing Challenges in Machine Learning Systems](https://dev.to/pravinkumar/navigating-the-testing-challenges-in-machine-learning-systems-1o5c)
+- [SOLID Principles for Android](https://dev.to/rishi2062/solid-principles-for-android-4f62)
+- [Use CSS to Remove PNG Image Background Color](https://dev.to/yasminsardar/use-css-to-remove-png-image-background-color-460h)
+- [State and Props In React](https://dev.to/pervez/state-and-props-in-react-4eib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
