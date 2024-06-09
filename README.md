@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a rhymes dictionary ?](https://dev.to/camarm/how-i-built-a-rhymes-dictionary--3fme)
-- [Building a Gym Management App with Laravel, Filament, Herd, and Blueprint](https://dev.to/hassanshahzadaheer/building-a-gym-management-app-with-laravel-filament-herd-and-blueprint-2b3m)
-- [3d rotating pyramid](https://dev.to/kemiowoyele1/3d-rotating-pyramid-2bdf)
-- [CSS spaceship](https://dev.to/kemiowoyele1/css-spaceship-292g)
-- [react js useEffect hook](https://dev.to/kemiowoyele1/react-js-useeffect-hook-1a5l)
+- [Intro to MultiversX blockchain interactions with JavaScript SDK](https://dev.to/julian-io/intro-to-multiversx-blockchain-interactions-with-javascript-sdk-1hc0)
+- [Swift Custom Array Implementation Using UnsafeMutablePointer](https://dev.to/binoy123/swift-custom-array-implementation-using-unsafemutablepointer-fl5)
+- [YOLOv10 on Custom Dataset](https://dev.to/wydoinn/yolov10-on-custom-dataset-4dld)
+- [How to setup Deep Links for Android applications](https://dev.to/rmmgc/how-to-setup-deep-links-for-android-applications-509e)
+- [Postmortem: A Guide to Learning from Failure](https://dev.to/ferdi_code/postmortem-a-guide-to-learning-from-failure-1bbm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
