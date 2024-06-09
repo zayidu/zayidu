@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [World Bicycle Day CSS Art : Frontend Challenge &lpar;June Edition&rpar;](https://dev.to/israebenboujema/world-bicycle-day-css-art-frontend-challenge-june-edition-31oc)
-- [How to get html from the server using javascript using fetch?](https://dev.to/antonmak1/how-to-get-html-from-the-server-using-javascript-using-fetch-1kih)
-- [Solving Tailwind&#39;s &quot;Unknown at rule @apply&quot;](https://dev.to/mahdava/solving-tailwinds-unknown-at-rule-apply-3c7g)
-- [Using interactive rebase in Git](https://dev.to/lyumotech/using-interactive-rebase-in-git-361d)
-- [Why Python is a Great Language for Coding Games](https://dev.to/walkera1/why-python-is-a-great-language-for-coding-games-3088)
+- [Dev: Data Engineer](https://dev.to/r4nd3l/dev-data-engineer-on1)
+- [Budgtr Downtime incident report.](https://dev.to/thobeats/budgtr-downtime-incident-report-2lph)
+- [I&#39;m not a designer, but ...](https://dev.to/lisacee/im-not-a-designer-but--lke)
+- [🌐Extensões para produtividade de um dev no Navegador &lpar;Arc Browser&rpar;](https://dev.to/neiesc/extensoes-para-produtividade-de-um-dev-no-navegador-arc-browser-3of)
+- [Babylon.js Browser MMORPG - DevLog- Update #7 - Player combat abilities](https://dev.to/maiu/babylonjs-browser-mmorpg-devlog-update-7-player-combat-abilities-2g7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
