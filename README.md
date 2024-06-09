@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Sharding for System Design Interview](https://dev.to/somadevtoo/database-sharding-for-system-design-interview-1k6b)
-- [Deployment Strategies: All at Once, Rolling Deploys, Blue-Green, and Canary Releases](https://dev.to/spantheslayer/deployment-and-delivery-strategies-all-at-once-rolling-deploys-blue-green-and-canary-releases-fd5)
-- [IntersectionObserver](https://dev.to/kakimaru/intersectionobserver-161c)
-- [A Comprehensive Guide to TypeScript’s `any`, `unknown`, and `never` Types](https://dev.to/dipakahirav/a-comprehensive-guide-to-typescripts-any-unknown-and-never-types-4ba7)
-- [Why there are so many assertAll methods in Junit class AssertAll? What is the use of each.](https://dev.to/kasid_khan_98865d77a5fe2e/why-there-are-so-many-assertall-methods-in-junit-class-assertall-what-is-the-use-of-each-17gk)
+- [Running a python script as a standalone task in ECS](https://dev.to/harsh_vardhansingh_69340/running-a-python-script-as-a-standalone-task-in-ecs-317l)
+- [Auto suggest vscode plugins for your team through the settings in your repo.](https://dev.to/matthewbill/auto-suggest-vscode-plugins-for-your-team-through-the-settings-in-your-repo-1l6m)
+- [Building a Audience Analyzer using Lyzr SDK](https://dev.to/akshay007/building-a-audience-analyzer-using-lyzr-sdk-1kb6)
+- [.gitignore file IGNORED my .env file](https://dev.to/bkaush/gitignore-file-ignored-my-env-file-3lgf)
+- [Automating and Integrating Testing into Your CI/CD Pipeline: Because Who Needs Sleep Anyway?](https://dev.to/spantheslayer/automating-and-integrating-testing-into-your-cicd-pipeline-because-who-needs-sleep-anyway-3bea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
