@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev: Data Engineer](https://dev.to/r4nd3l/dev-data-engineer-on1)
-- [Budgtr Downtime incident report.](https://dev.to/thobeats/budgtr-downtime-incident-report-2lph)
-- [I&#39;m not a designer, but ...](https://dev.to/lisacee/im-not-a-designer-but--lke)
-- [🌐Extensões para produtividade de um dev no Navegador &lpar;Arc Browser&rpar;](https://dev.to/neiesc/extensoes-para-produtividade-de-um-dev-no-navegador-arc-browser-3of)
-- [Babylon.js Browser MMORPG - DevLog- Update #7 - Player combat abilities](https://dev.to/maiu/babylonjs-browser-mmorpg-devlog-update-7-player-combat-abilities-2g7i)
+- [Polling in React](https://dev.to/tangoindiamango/polling-in-react-3h8a)
+- [Update Profile README with Latest Blog Posts](https://dev.to/justingoncat/update-profile-readme-with-latest-blog-posts-2ogi)
+- [How to authenticate a Spotify User in next.js 14 using NextAuth](https://dev.to/matdweb/how-to-authenticate-a-spotify-user-in-nextjs-14-using-nextauth-5f6i)
+- [My idea and submission for problem 1 on Leetcode&lpar;very detailed&rpar;](https://dev.to/hallowaw/my-idea-and-submission-for-problem-1-on-leetcodevery-detailed-4p57)
+- [Building Android Automotive OS: A Beginner-Friendly Guide](https://dev.to/hpnightowl/building-android-automotive-os-a-beginner-friendly-guide-4f67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
