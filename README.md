@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Intro to MultiversX blockchain interactions with JavaScript SDK](https://dev.to/julian-io/intro-to-multiversx-blockchain-interactions-with-javascript-sdk-1hc0)
-- [Swift Custom Array Implementation Using UnsafeMutablePointer](https://dev.to/binoy123/swift-custom-array-implementation-using-unsafemutablepointer-fl5)
-- [YOLOv10 on Custom Dataset](https://dev.to/wydoinn/yolov10-on-custom-dataset-4dld)
-- [How to setup Deep Links for Android applications](https://dev.to/rmmgc/how-to-setup-deep-links-for-android-applications-509e)
-- [Postmortem: A Guide to Learning from Failure](https://dev.to/ferdi_code/postmortem-a-guide-to-learning-from-failure-1bbm)
+- [Compile your NodeJS application to single file executable](https://dev.to/sudospace/compile-your-nodejs-application-to-single-file-executable-5aoe)
+- [Mastering JavaScript MathML: Writing Mathematics with MathML](https://dev.to/dharamgfx/mastering-javascript-mathml-writing-mathematics-with-mathml-1fll)
+- [Identifying Container Image Vulnerabilities with Docker Scout](https://dev.to/plutov/identifying-container-image-vulnerabilities-with-docker-scout-503o)
+- [Java Stream API](https://dev.to/abhishek999/java-stream-api-lh2)
+- [Unified Cache Keys: How Namespaced Keys Improve Service Interoperability](https://dev.to/plutov/unified-cache-keys-how-namespaced-keys-improve-service-interoperability-2p2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
