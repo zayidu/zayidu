@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Effortless – Free Tailwind CSS Website Template](https://dev.to/mikevarenek/effortless-free-tailwind-css-website-template-5ghd)
-- [Navigating the Testing Challenges in Machine Learning Systems](https://dev.to/pravinkumar/navigating-the-testing-challenges-in-machine-learning-systems-1o5c)
-- [SOLID Principles for Android](https://dev.to/rishi2062/solid-principles-for-android-4f62)
-- [Use CSS to Remove PNG Image Background Color](https://dev.to/yasminsardar/use-css-to-remove-png-image-background-color-460h)
-- [State and Props In React](https://dev.to/pervez/state-and-props-in-react-4eib)
+- [Understanding Debouncing in JavaScript](https://dev.to/dipakahirav/understanding-debouncing-in-javascript-5g30)
+- [Understand the Liskov substitution principle using a simple example.](https://dev.to/muhammad_salem/understand-the-liskov-substitution-principle-using-a-simple-example-3apo)
+- [Image Scraping with HtmlAgilityPack: A Practical Guide Using ConsoleWebScraper](https://dev.to/themysteriousstranger90/image-scraping-with-htmlagilitypack-a-practical-guide-using-consolewebscraper-57km)
+- [How do you create a full CRUD GraphQL API for posts in Nest JS?](https://dev.to/nadim_ch0wdhury/how-do-you-create-a-full-crud-graphql-api-for-posts-in-nest-js-4l1k)
+- [Debouncing in JavaScript](https://dev.to/mrhimanshusahni/debouncing-in-javascript-2p3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
