@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Vue Component Documentation tools](https://dev.to/thejaredwilcurt/comparing-vue-component-documentation-tools-1b1f)
-- [5 Essential Tips and Tricks for Mastering Next.js](https://dev.to/vyan/5-essential-tips-and-tricks-for-mastering-nextjs-1p7g)
-- [How JavaScript Tries to Imitate Classes and Is There a Better Way?](https://dev.to/huudyy/how-javascript-tries-to-imitate-classes-and-is-there-a-better-way-24pk)
-- [How to validate constructor arguments when using constructor property promotion](https://dev.to/xwero/how-to-validate-constructor-arguments-when-using-constructor-property-promotion-5dp6)
-- [Software Quality Infrastructure Components](https://dev.to/developedbyjk/software-quality-infrastructure-components-2hj7)
+- [Passkeys: How to work with CBOR &amp; COSE](https://dev.to/corbado/passkeys-how-to-work-with-cbor-cose-26h)
+- [Must Join Discord Servers for Developers 💬](https://dev.to/lilxyzz/must-join-discord-servers-for-developers-4k6)
+- [Override TailwindCSS classes in ReactJs](https://dev.to/sinaghadimi/override-tailwindcss-class-in-reactjs-44de)
+- [49. Group Anagrams](https://dev.to/whereislijah/49-group-anagrams-2fhg)
+- [[Flutter] Future 대신 void 를 사용하는 이유](https://dev.to/sidcodeme/flutter-future-daesin-void-reul-sayonghaneun-iyu-3ckh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
