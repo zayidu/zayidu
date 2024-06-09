@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Passkeys: How to work with CBOR &amp; COSE](https://dev.to/corbado/passkeys-how-to-work-with-cbor-cose-26h)
-- [Must Join Discord Servers for Developers 💬](https://dev.to/lilxyzz/must-join-discord-servers-for-developers-4k6)
-- [Override TailwindCSS classes in ReactJs](https://dev.to/sinaghadimi/override-tailwindcss-class-in-reactjs-44de)
-- [49. Group Anagrams](https://dev.to/whereislijah/49-group-anagrams-2fhg)
-- [[Flutter] Future 대신 void 를 사용하는 이유](https://dev.to/sidcodeme/flutter-future-daesin-void-reul-sayonghaneun-iyu-3ckh)
+- [I created my own search engine](https://dev.to/schbenedikt/i-created-my-own-search-engine-go4)
+- [laravel-nuxt-template](https://dev.to/akramghaleb/laravel-nuxt-template-1c6j)
+- [Performance Optimization of LazyColumn in Jetpack Compose](https://dev.to/aritradas/performance-optimization-of-lazycolumn-in-jetpack-compose-2pf2)
+- [Tabs](https://dev.to/kakimaru/tabs-2e6l)
+- [Python Cheat Sheet: Essential Guide for Beginners](https://dev.to/terrancoder/python-cheat-sheet-essential-guide-for-beginners-2bdl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
