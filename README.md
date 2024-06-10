@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Intro to Embedded Systems](https://dev.to/ccwell11/intro-to-embedded-systems-5c7p)
-- [Update: Live Feedback script](https://dev.to/juliankominovic/update-live-feedback-script-35oi)
-- [How to study React to become a pro. Introduction to React.](https://dev.to/yukionishi1129/how-to-study-react-to-become-a-pro-introduction-to-react-p3l)
-- [Interface Segregation Principle](https://dev.to/palanivel_sundararajangu/interface-segregation-principle-2edj)
-- [How To Get Out Of Tutorial Hell](https://dev.to/thekarlesi/how-to-get-out-of-tutorial-hell-3mpf)
+- [Automatically Update the Local Branch with the Remote Version When Switching Branches in Git](https://dev.to/untilyou58/automatically-update-the-local-branch-with-the-remote-version-when-switching-branches-in-git-3114)
+- [Everything you need to know about monitoring CoreDNS for DNS performance](https://dev.to/aws-builders/everything-you-need-to-know-about-monitoring-coredns-for-dns-performance-5hi9)
+- [Building a Bulletproof CI/CD Pipeline: A Comprehensive Guide](https://dev.to/gauri1504/building-a-bulletproof-cicd-pipeline-a-comprehensive-guide-3jg3)
+- [Glam Up my Markup: Beaches](https://dev.to/2023_anshika_gupta_/glam-up-my-markup-beaches-ekh)
+- [11 Best SQL IDEs or SQL Editors for 2024](https://dev.to/concerate/11-best-sql-ides-or-sql-editors-for-2024-447p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
