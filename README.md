@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 6 of Machine Learning||Supervised ML Algorithms](https://dev.to/ngneha09/day-6-of-machine-learningsupervised-ml-algorithms-2op8)
-- [Single Server Setup: Basics of System Design](https://dev.to/bkaush/single-server-setup-basics-of-system-design-b59)
-- [Day 14 of my progress as a vue dev](https://dev.to/zain725342/day-14-of-my-progress-as-a-vue-dev-36g3)
-- [Epoch - Ethereum 2.0](https://dev.to/st1p3kolovrat/epoch-ethereum-20-k9f)
-- [AIM Weekly for 10 June 2024](https://dev.to/tspannhw/aim-weekly-for-10-june-2024-3op7)
+- [Choosing Between SQL and NoSQL](https://dev.to/adrianbailador/choosing-between-sql-and-nosql-n9i)
+- [How To Create an NPM Package For React Native?](https://dev.to/amitkumar13/how-to-create-an-npm-package-for-react-native-4bkj)
+- [Creative HTML Cards | Style 1](https://dev.to/creative_salahu/creative-html-cards-style-1-5h8a)
+- [Shopify’s product overhaul: 2,000 variants, new GraphQL mutations, and a farewell to REST](https://dev.to/gadgetdev/shopifys-product-overhaul-2000-variants-new-graphql-mutations-and-a-farewell-to-rest-4kei)
+- [2024-06-10: v0 complete](https://dev.to/armantark/2024-06-10-v0-complete-3dil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
