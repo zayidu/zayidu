@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI Chatbot with Python and Gemini API: Comprehensive Guide](https://dev.to/proflead/how-to-build-an-ai-chatbot-with-python-and-gemini-api-comprehensive-guide-4dep)
-- [Using AI to improve security and learning in your AWS environment.](https://dev.to/monica_escobar/using-ai-to-improve-security-and-learning-in-your-aws-environment-p90)
-- [A Beginner&#39;s Guide to Prompt Engineering with GitHub Copilot](https://dev.to/manam_saiteja_e83fd9ab159/a-beginners-guide-to-prompt-engineering-with-github-copilot-147n)
-- [TOP 5 Best JavaScript Gantt Chart Library](https://dev.to/lenormor/top-5-best-javascript-gantt-chart-library-fjg)
-- [The Role of IT Infrastructure in Digital Transformation](https://dev.to/buzzclan/the-role-of-it-infrastructure-in-digital-transformation-2c5e)
+- [WebRTC Vs Websocket: Which is best for your application](https://dev.to/alakkadshaw/webrtc-vs-websocket-which-is-best-for-your-application-1eon)
+- [RAG using Ollama](https://dev.to/urvesh/rag-using-ollama-1bam)
+- [How to Dockerize a React App](https://dev.to/hemanthreddyb/how-to-dockerize-a-react-app-3g5m)
+- [CSS Only Cards Carousel](https://dev.to/brookesb91/css-only-cards-carousel-950)
+- [Using Snippets in Visual Studio Code](https://dev.to/7jw92nvd1klaq1/using-snippets-in-visual-studio-code-1j97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
