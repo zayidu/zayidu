@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Don’t Be a Hero](https://dev.to/canro91/dont-be-a-hero-5gko)
-- [Elasticsearch APM Server Kurulumu ve Uygulama İzleme](https://dev.to/aciklab/elasticsearch-apm-server-kurulumu-ve-uygulama-izleme-17m0)
-- [The Power of Visual Studio: A Match Made in Developer Heaven](https://dev.to/akaksha/the-power-of-visual-studio-a-match-made-in-developer-heaven-1cjm)
-- [TypeScript Interfaces: Crafting Code with Creative Precision](https://dev.to/bilelsalemdev/typescript-interfaces-crafting-code-with-creative-precision-65m)
-- [How I Built My Portfolio Using NextJS and MDX](https://dev.to/beginarjun/how-i-built-my-portfolio-using-nextjs-and-mdx-168a)
+- [Perl Weekly #672 - It&#39;s time ...](https://dev.to/szabgab/perl-weekly-672-its-time--2dab)
+- [Async Nx Monorepo: Enhancing Productivity and Scalability](https://dev.to/hasancse/async-nx-monorepo-enhancing-productivity-and-scalability-2iim)
+- [Full-Stack Development: Bridging the Gap](https://dev.to/rachana/full-stack-development-bridging-the-gap-211i)
+- [Nuxt Your Way to Native: Building Mobile Apps with Capacitor](https://dev.to/sarveshk76/nuxt-your-way-to-native-building-mobile-apps-with-capacitor-2lbf)
+- [Let&#39;s Talk About Dataverse Low-Code Plugins](https://dev.to/wyattdave/lets-talk-about-dataverse-low-code-plugins-4im2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
