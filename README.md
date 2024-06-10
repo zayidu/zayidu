@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Animal Mart &lpar;Part 1&rpar; - The outline shader problem.](https://dev.to/longchau/my-animal-mart-part-1-the-outline-shader-problem-447f)
-- [Inheritance, Superclasses and Subclasses.](https://dev.to/paulike/inheritance-superclasses-and-subclasses-5ede)
-- [Component Generation with Figma API: Bridging the Gap Between Development and Design](https://dev.to/krjakbrjak/component-generation-with-figma-api-bridging-the-gap-between-development-and-design-1nho)
-- [Building a Commute Navigator using Lyzr SDK](https://dev.to/akshay007/building-a-commute-navigator-using-lyzr-sdk-1c60)
-- [Women in Tech: Challenges and Opportunities](https://dev.to/techstuff/women-in-tech-challenges-and-opportunities-551k)
+- [Get Certified with GitHub Article Giving Proceeds](https://dev.to/mukuastephen/get-certified-with-github-article-giving-proceeds-2dbd)
+- [Awesome | Top 20 Starred Repo on Github](https://dev.to/litlyx/awesome-top-20-starred-repo-on-github-14f7)
+- [Using the super Keyword](https://dev.to/paulike/using-the-super-keyword-3kip)
+- [How to Hire a WordPress Development Services Company: The Complete Guide](https://dev.to/pixlogix1/how-to-hire-a-wordpress-development-services-company-the-complete-guide-342m)
+- [Looking for memecoins on Stonfi in TON or is there life beyond Notcoin](https://dev.to/roma_i_m/looking-for-memecoins-on-stonfi-in-ton-or-is-there-life-beyond-notcoin-29b8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
