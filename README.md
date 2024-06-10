@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Get Certified with GitHub Article Giving Proceeds](https://dev.to/mukuastephen/get-certified-with-github-article-giving-proceeds-2dbd)
-- [Awesome | Top 20 Starred Repo on Github](https://dev.to/litlyx/awesome-top-20-starred-repo-on-github-14f7)
-- [Using the super Keyword](https://dev.to/paulike/using-the-super-keyword-3kip)
-- [How to Hire a WordPress Development Services Company: The Complete Guide](https://dev.to/pixlogix1/how-to-hire-a-wordpress-development-services-company-the-complete-guide-342m)
-- [Looking for memecoins on Stonfi in TON or is there life beyond Notcoin](https://dev.to/roma_i_m/looking-for-memecoins-on-stonfi-in-ton-or-is-there-life-beyond-notcoin-29b8)
+- [How to disable Rails Form&#39;s `.field_with_errors`](https://dev.to/railsdesigner/how-to-disable-rails-forms-fieldwitherrors-2mbj)
+- [0 downtime is a myth with deployment slots](https://dev.to/c0dingpanda/0-downtime-is-a-myth-with-deployment-slots-3o7j)
+- [AWS open source newsletter, #199](https://dev.to/aws/aws-open-source-newsletter-199-4ed7)
+- [Checkcup - Browserless Puppetter Project Build.](https://dev.to/priyanshuverma/checkcup-browserless-puppetter-project-build-1ga6)
+- [Google&#39;s AI-Powered Cloud IDE Project IDX Goes Open Beta!](https://dev.to/devarshishimpi/googles-ai-powered-cloud-ide-project-idx-goes-open-beta-3lgl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
