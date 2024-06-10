@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Perl Weekly #672 - It&#39;s time ...](https://dev.to/szabgab/perl-weekly-672-its-time--2dab)
-- [Async Nx Monorepo: Enhancing Productivity and Scalability](https://dev.to/hasancse/async-nx-monorepo-enhancing-productivity-and-scalability-2iim)
-- [Full-Stack Development: Bridging the Gap](https://dev.to/rachana/full-stack-development-bridging-the-gap-211i)
-- [Nuxt Your Way to Native: Building Mobile Apps with Capacitor](https://dev.to/sarveshk76/nuxt-your-way-to-native-building-mobile-apps-with-capacitor-2lbf)
-- [Let&#39;s Talk About Dataverse Low-Code Plugins](https://dev.to/wyattdave/lets-talk-about-dataverse-low-code-plugins-4im2)
+- [InnoDB&#39;s ibdata1: Essential Management Tips for MySQL](https://dev.to/dbvismarketing/innodbs-ibdata1-essential-management-tips-for-mysql-4ccd)
+- [Docker DevTools Day 2.0: Dive Deep into the Docker Developer Ecosystem](https://dev.to/ajeetraina/docker-devtools-day-20-dive-deep-into-the-docker-developer-ecosystem-75m)
+- [Recruitment Databases Explained: Benefits and Best Practices](https://dev.to/jchristopher0033/recruitment-databases-explained-benefits-and-best-practices-104b)
+- [Dynamic Datasets and Customizable Parameters for Data Analysis](https://dev.to/flowtrail-ai/dynamic-datasets-and-customizable-parameters-for-data-analysis-dl2)
+- [Challenge Submission: Glam Up My Markup](https://dev.to/agagag/challenge-submission-glam-up-my-markup-4954)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
