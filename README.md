@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JavaScript Cross-Browser Testing🧪](https://dev.to/dharamgfx/mastering-javascript-cross-browser-testing-4meg)
-- [JavaScript Client-Side Frameworks: A Comprehensive Guide🚀](https://dev.to/dharamgfx/javascript-client-side-frameworks-a-comprehensive-guide-1a46)
-- [Dynamic Binding](https://dev.to/paulike/dynamic-binding-5f8i)
-- [The Future of Cross-Chain Starts Here: In-Depth Understanding of Broken Bound’s Grand Vision and Prospects](https://dev.to/brokenbound/the-future-of-cross-chain-starts-here-in-depth-understanding-of-broken-bounds-grand-vision-and-prospects-2d8f)
-- [Docker running Python code without copying the files](https://dev.to/pvgomes/docker-running-python-code-without-copying-the-files-23l1)
+- [Day 9 - Deep Dive in Git &amp; GitHub for DevOps Engineers](https://dev.to/oncloud7/day-9-deep-dive-in-git-github-for-devops-engineers-bck)
+- [How does 10x programmer test code?](https://dev.to/krystofee/how-does-10x-programmer-test-code-3lc9)
+- [Useful Methods for Lists](https://dev.to/paulike/useful-methods-for-lists-eol)
+- [Unpacking Cloud Infrastructure and Virtualization: A Deep Dive into Their Differences](https://dev.to/liong/unpacking-cloud-infrastructure-and-virtualization-a-deep-dive-into-their-differences-e8j)
+- [Getting Started with Bluetooth Low Energy &lpar;BLE&rpar; in Android](https://dev.to/nirav_panchal_e531c758f1d/getting-started-with-bluetooth-low-energy-ble-in-android-3c7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
