@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to disable Rails Form&#39;s `.field_with_errors`](https://dev.to/railsdesigner/how-to-disable-rails-forms-fieldwitherrors-2mbj)
-- [0 downtime is a myth with deployment slots](https://dev.to/c0dingpanda/0-downtime-is-a-myth-with-deployment-slots-3o7j)
-- [AWS open source newsletter, #199](https://dev.to/aws/aws-open-source-newsletter-199-4ed7)
-- [Checkcup - Browserless Puppetter Project Build.](https://dev.to/priyanshuverma/checkcup-browserless-puppetter-project-build-1ga6)
-- [Google&#39;s AI-Powered Cloud IDE Project IDX Goes Open Beta!](https://dev.to/devarshishimpi/googles-ai-powered-cloud-ide-project-idx-goes-open-beta-3lgl)
+- [Why Choose ReactJS for Frontend Development: Unveiling the Advantages](https://dev.to/jottyjohn/why-choose-reactjs-for-frontend-development-unveiling-the-advantages-k0d)
+- [How to Stream Pure Flix on Your Smart TV](https://dev.to/charlotte_wesker_2b851e4f/how-to-stream-pure-flix-on-your-smart-tv-3o3a)
+- [Best Chrome Extensions for Web Developers](https://dev.to/sandip2196/best-chrome-extensions-for-web-developers-3358)
+- [Save Time Building Jamstack / Headless CMS Backed Websites](https://dev.to/alangleeson/save-time-building-jamstack-headless-cms-backed-websites-4e3m)
+- [How to Build A Weather App in HTML CSS and JavaScript](https://dev.to/codingnepal/how-to-build-a-weather-app-in-html-css-and-javascript-1576)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
