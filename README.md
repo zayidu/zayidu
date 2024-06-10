@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WebRTC Vs Websocket: Which is best for your application](https://dev.to/alakkadshaw/webrtc-vs-websocket-which-is-best-for-your-application-1eon)
-- [RAG using Ollama](https://dev.to/urvesh/rag-using-ollama-1bam)
-- [How to Dockerize a React App](https://dev.to/hemanthreddyb/how-to-dockerize-a-react-app-3g5m)
-- [CSS Only Cards Carousel](https://dev.to/brookesb91/css-only-cards-carousel-950)
-- [Using Snippets in Visual Studio Code](https://dev.to/7jw92nvd1klaq1/using-snippets-in-visual-studio-code-1j97)
+- [Day 6 of Machine Learning||Supervised ML Algorithms](https://dev.to/ngneha09/day-6-of-machine-learningsupervised-ml-algorithms-2op8)
+- [Single Server Setup: Basics of System Design](https://dev.to/bkaush/single-server-setup-basics-of-system-design-b59)
+- [Day 14 of my progress as a vue dev](https://dev.to/zain725342/day-14-of-my-progress-as-a-vue-dev-36g3)
+- [Epoch - Ethereum 2.0](https://dev.to/st1p3kolovrat/epoch-ethereum-20-k9f)
+- [AIM Weekly for 10 June 2024](https://dev.to/tspannhw/aim-weekly-for-10-june-2024-3op7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
