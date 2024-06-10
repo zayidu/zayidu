@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Server Side Components no React: O Futuro da Renderização?](https://dev.to/vitorrios1001/server-side-components-no-react-o-futuro-da-renderizacao-2b03)
+- [Understanding Weatherstack&#39;s API Pricing and Real-Time Weather Data](https://dev.to/sameeranthony/understanding-weatherstacks-api-pricing-and-real-time-weather-data-41i0)
+- [Create CSS Animations with AI](https://dev.to/max_prehoda_9cb09ea7c8d07/create-css-animations-with-ai-5b4o)
 - [shadcn-ui/ui codebase analysis: examples route explained.](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-examples-route-explained-58mk)
 - [🌟 Comprehensive Guide to Firebase Cloud Messaging in React with Vite 🚀](https://dev.to/shahharsh/comprehensive-guide-to-firebase-cloud-messaging-in-react-with-vite-abm)
-- [Future-proof software development with the Azure Serverless Modulith](https://dev.to/florianlenz/future-proof-software-development-with-the-azure-serverless-modulith-12bl)
-- [Enforcing &#39;noImplicitAny&#39; on callbacks to generic functions](https://dev.to/seasonedcc/enforcing-noimplicitany-on-callbacks-to-generic-functions-7f1)
-- [Overcoming Childhood Struggles and Embracing a Career in Software Engineering](https://dev.to/bmoreinspiring/overcoming-childhood-struggles-and-embracing-a-career-in-software-engineering-63c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
