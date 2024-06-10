@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Nodemailer: The Ultimate Guide to Sending Emails from Node.js](https://dev.to/scofieldidehen/master-nodemailer-the-ultimate-guide-to-sending-emails-from-nodejs-24a3)
-- [Day 15 of 30 of JavaScript](https://dev.to/akshat0610/day-15-of-30-of-javascript-2a4c)
-- [Introduction to Git](https://dev.to/aws-builders/introduction-to-git-ga9)
-- [React Native and OpenAI](https://dev.to/oivoodoo/react-native-and-openai-4e9a)
-- [Different ways to get a Job!](https://dev.to/avinash201199/different-wasy-to-get-a-job-2i8i)
+- [Nucleoid: Reasoning Engine for Neuro-Symbolic AI](https://dev.to/nucleoid/nucleoid-reasoning-engine-for-neuro-symbolic-ai-14c5)
+- [CodeBehind 2.6 Released](https://dev.to/elanatframework/codebehind-26-released-1dne)
+- [Demystifying Observability 2.0](https://dev.to/avillela/demystifying-observability-20-3j18)
+- [How to Deploy Flutter on Upsun](https://dev.to/upsun/how-to-deploy-flutter-on-upsun-3m1g)
+- [1051. Height Checker](https://dev.to/mdarifulhaque/1051-height-checker-ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
