@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Vídeo de apresentação e artigo do projeto de identificação facial com AWS Rekognition](https://dev.to/aws-builders/video-de-apresentacao-e-artigo-do-projeto-de-identificacao-facial-com-aws-rekognition-4efa)
+- [Vertical or Horizontal Scale?](https://dev.to/fidsouza/vertical-or-horizontal-scale-1dje)
+- [[DAY 48-53] I Built A Pokemon Search App](https://dev.to/thomascansino/day-48-53-i-built-a-pokemon-search-app-pmk)
 - [Sử dụng MongoDB hiệu quả trong Nodejs](https://dev.to/duongphan/su-dung-mongodb-hieu-qua-trong-nodejs-2kh9)
 - [How I Built My Own Personalized Google: A Step-by-Step Guide to AI Mastery](https://dev.to/exploredataaiml/how-i-built-my-own-personalized-google-a-step-by-step-guide-to-ai-mastery-48ne)
-- [CSS Art: June](https://dev.to/soorajsnblaze333/css-art-june-4hme)
-- [Các Thư Viện React.js Nên Sử Dụng](https://dev.to/duongphan/cac-thu-vien-reactjs-nen-su-dung-4cea)
-- [Top Methods to Find GitHub Users](https://dev.to/dk119819/best-ways-to-search-for-github-users-53no)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
