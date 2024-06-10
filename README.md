@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Source Exploitation](https://dev.to/dagnelies/open-source-exploitation-2eh4)
-- [Dreamin&#39; in Color Countdown](https://dev.to/arbrazil/dreamin-in-color-countdown-3ldh)
-- [PACX ⁓ Create a table](https://dev.to/_neronotte/pacx-create-a-table-1lgo)
-- [Create Email Template Using HTML and CSS only](https://dev.to/yasminsardar/create-email-template-using-html-and-css-only-3phm)
-- [Designed by JavaScript without tree](https://dev.to/hussein09/designed-by-javascript-without-tree-f2o)
+- [Master Nodemailer: The Ultimate Guide to Sending Emails from Node.js](https://dev.to/scofieldidehen/master-nodemailer-the-ultimate-guide-to-sending-emails-from-nodejs-24a3)
+- [Day 15 of 30 of JavaScript](https://dev.to/akshat0610/day-15-of-30-of-javascript-2a4c)
+- [Introduction to Git](https://dev.to/aws-builders/introduction-to-git-ga9)
+- [React Native and OpenAI](https://dev.to/oivoodoo/react-native-and-openai-4e9a)
+- [Different ways to get a Job!](https://dev.to/avinash201199/different-wasy-to-get-a-job-2i8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
