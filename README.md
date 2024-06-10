@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 9 - Deep Dive in Git &amp; GitHub for DevOps Engineers](https://dev.to/oncloud7/day-9-deep-dive-in-git-github-for-devops-engineers-bck)
-- [How does 10x programmer test code?](https://dev.to/krystofee/how-does-10x-programmer-test-code-3lc9)
-- [Useful Methods for Lists](https://dev.to/paulike/useful-methods-for-lists-eol)
-- [Unpacking Cloud Infrastructure and Virtualization: A Deep Dive into Their Differences](https://dev.to/liong/unpacking-cloud-infrastructure-and-virtualization-a-deep-dive-into-their-differences-e8j)
-- [Getting Started with Bluetooth Low Energy &lpar;BLE&rpar; in Android](https://dev.to/nirav_panchal_e531c758f1d/getting-started-with-bluetooth-low-energy-ble-in-android-3c7f)
+- [How to Build an AI Chatbot with Python and Gemini API: Comprehensive Guide](https://dev.to/proflead/how-to-build-an-ai-chatbot-with-python-and-gemini-api-comprehensive-guide-4dep)
+- [Using AI to improve security and learning in your AWS environment.](https://dev.to/monica_escobar/using-ai-to-improve-security-and-learning-in-your-aws-environment-p90)
+- [A Beginner&#39;s Guide to Prompt Engineering with GitHub Copilot](https://dev.to/manam_saiteja_e83fd9ab159/a-beginners-guide-to-prompt-engineering-with-github-copilot-147n)
+- [TOP 5 Best JavaScript Gantt Chart Library](https://dev.to/lenormor/top-5-best-javascript-gantt-chart-library-fjg)
+- [The Role of IT Infrastructure in Digital Transformation](https://dev.to/buzzclan/the-role-of-it-infrastructure-in-digital-transformation-2c5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
