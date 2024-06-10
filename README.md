@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vídeo de apresentação e artigo do projeto de identificação facial com AWS Rekognition](https://dev.to/aws-builders/video-de-apresentacao-e-artigo-do-projeto-de-identificacao-facial-com-aws-rekognition-4efa)
-- [Vertical or Horizontal Scale?](https://dev.to/fidsouza/vertical-or-horizontal-scale-1dje)
-- [[DAY 48-53] I Built A Pokemon Search App](https://dev.to/thomascansino/day-48-53-i-built-a-pokemon-search-app-pmk)
-- [Sử dụng MongoDB hiệu quả trong Nodejs](https://dev.to/duongphan/su-dung-mongodb-hieu-qua-trong-nodejs-2kh9)
-- [How I Built My Own Personalized Google: A Step-by-Step Guide to AI Mastery](https://dev.to/exploredataaiml/how-i-built-my-own-personalized-google-a-step-by-step-guide-to-ai-mastery-48ne)
+- [Intro to Embedded Systems](https://dev.to/ccwell11/intro-to-embedded-systems-5c7p)
+- [Update: Live Feedback script](https://dev.to/juliankominovic/update-live-feedback-script-35oi)
+- [How to study React to become a pro. Introduction to React.](https://dev.to/yukionishi1129/how-to-study-react-to-become-a-pro-introduction-to-react-p3l)
+- [Interface Segregation Principle](https://dev.to/palanivel_sundararajangu/interface-segregation-principle-2edj)
+- [How To Get Out Of Tutorial Hell](https://dev.to/thekarlesi/how-to-get-out-of-tutorial-hell-3mpf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
