@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [InnoDB&#39;s ibdata1: Essential Management Tips for MySQL](https://dev.to/dbvismarketing/innodbs-ibdata1-essential-management-tips-for-mysql-4ccd)
-- [Docker DevTools Day 2.0: Dive Deep into the Docker Developer Ecosystem](https://dev.to/ajeetraina/docker-devtools-day-20-dive-deep-into-the-docker-developer-ecosystem-75m)
-- [Recruitment Databases Explained: Benefits and Best Practices](https://dev.to/jchristopher0033/recruitment-databases-explained-benefits-and-best-practices-104b)
-- [Dynamic Datasets and Customizable Parameters for Data Analysis](https://dev.to/flowtrail-ai/dynamic-datasets-and-customizable-parameters-for-data-analysis-dl2)
-- [Challenge Submission: Glam Up My Markup](https://dev.to/agagag/challenge-submission-glam-up-my-markup-4954)
+- [My Animal Mart &lpar;Part 1&rpar; - The outline shader problem.](https://dev.to/longchau/my-animal-mart-part-1-the-outline-shader-problem-447f)
+- [Inheritance, Superclasses and Subclasses.](https://dev.to/paulike/inheritance-superclasses-and-subclasses-5ede)
+- [Component Generation with Figma API: Bridging the Gap Between Development and Design](https://dev.to/krjakbrjak/component-generation-with-figma-api-bridging-the-gap-between-development-and-design-1nho)
+- [Building a Commute Navigator using Lyzr SDK](https://dev.to/akshay007/building-a-commute-navigator-using-lyzr-sdk-1c60)
+- [Women in Tech: Challenges and Opportunities](https://dev.to/techstuff/women-in-tech-challenges-and-opportunities-551k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
