@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nucleoid: Reasoning Engine for Neuro-Symbolic AI](https://dev.to/nucleoid/nucleoid-reasoning-engine-for-neuro-symbolic-ai-14c5)
-- [CodeBehind 2.6 Released](https://dev.to/elanatframework/codebehind-26-released-1dne)
-- [Demystifying Observability 2.0](https://dev.to/avillela/demystifying-observability-20-3j18)
-- [How to Deploy Flutter on Upsun](https://dev.to/upsun/how-to-deploy-flutter-on-upsun-3m1g)
-- [1051. Height Checker](https://dev.to/mdarifulhaque/1051-height-checker-ai)
+- [shadcn-ui/ui codebase analysis: examples route explained.](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-examples-route-explained-58mk)
+- [🌟 Comprehensive Guide to Firebase Cloud Messaging in React with Vite 🚀](https://dev.to/shahharsh/comprehensive-guide-to-firebase-cloud-messaging-in-react-with-vite-abm)
+- [Future-proof software development with the Azure Serverless Modulith](https://dev.to/florianlenz/future-proof-software-development-with-the-azure-serverless-modulith-12bl)
+- [Enforcing &#39;noImplicitAny&#39; on callbacks to generic functions](https://dev.to/seasonedcc/enforcing-noimplicitany-on-callbacks-to-generic-functions-7f1)
+- [Overcoming Childhood Struggles and Embracing a Career in Software Engineering](https://dev.to/bmoreinspiring/overcoming-childhood-struggles-and-embracing-a-career-in-software-engineering-63c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
