@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Polling in React](https://dev.to/tangoindiamango/polling-in-react-3h8a)
-- [Update Profile README with Latest Blog Posts](https://dev.to/justingoncat/update-profile-readme-with-latest-blog-posts-2ogi)
-- [How to authenticate a Spotify User in next.js 14 using NextAuth](https://dev.to/matdweb/how-to-authenticate-a-spotify-user-in-nextjs-14-using-nextauth-5f6i)
-- [My idea and submission for problem 1 on Leetcode&lpar;very detailed&rpar;](https://dev.to/hallowaw/my-idea-and-submission-for-problem-1-on-leetcodevery-detailed-4p57)
-- [Building Android Automotive OS: A Beginner-Friendly Guide](https://dev.to/hpnightowl/building-android-automotive-os-a-beginner-friendly-guide-4f67)
+- [Effective Methods to Secure Your Online Store Against Cyber Threats](https://dev.to/jchristopher0033/effective-methods-to-secure-your-online-store-against-cyber-threats-457e)
+- [Developing IoT Applications with Raspberry Pi](https://dev.to/kartikmehta8/developing-iot-applications-with-raspberry-pi-53el)
+- [Capturing Beach Memories: A Polaroid Showcase of the World&#39;s Top Beaches](https://dev.to/jennavisions/capturing-beach-memories-a-polaroid-showcase-of-the-worlds-top-beaches-4gjf)
+- [How to Install &lpar;and Uninstall&rpar; MySQL on a Mac](https://dev.to/olsido/how-to-install-and-uninstall-mysql-on-a-mac-16l8)
+- [Glammed Up The Beaches With Blurry Animations.](https://dev.to/_zaihl/glammed-up-with-blurry-animations-401o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
