@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Choose ReactJS for Frontend Development: Unveiling the Advantages](https://dev.to/jottyjohn/why-choose-reactjs-for-frontend-development-unveiling-the-advantages-k0d)
-- [How to Stream Pure Flix on Your Smart TV](https://dev.to/charlotte_wesker_2b851e4f/how-to-stream-pure-flix-on-your-smart-tv-3o3a)
-- [Best Chrome Extensions for Web Developers](https://dev.to/sandip2196/best-chrome-extensions-for-web-developers-3358)
-- [Save Time Building Jamstack / Headless CMS Backed Websites](https://dev.to/alangleeson/save-time-building-jamstack-headless-cms-backed-websites-4e3m)
-- [How to Build A Weather App in HTML CSS and JavaScript](https://dev.to/codingnepal/how-to-build-a-weather-app-in-html-css-and-javascript-1576)
+- [Mastering JavaScript Cross-Browser Testing🧪](https://dev.to/dharamgfx/mastering-javascript-cross-browser-testing-4meg)
+- [JavaScript Client-Side Frameworks: A Comprehensive Guide🚀](https://dev.to/dharamgfx/javascript-client-side-frameworks-a-comprehensive-guide-1a46)
+- [Dynamic Binding](https://dev.to/paulike/dynamic-binding-5f8i)
+- [The Future of Cross-Chain Starts Here: In-Depth Understanding of Broken Bound’s Grand Vision and Prospects](https://dev.to/brokenbound/the-future-of-cross-chain-starts-here-in-depth-understanding-of-broken-bounds-grand-vision-and-prospects-2d8f)
+- [Docker running Python code without copying the files](https://dev.to/pvgomes/docker-running-python-code-without-copying-the-files-23l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
