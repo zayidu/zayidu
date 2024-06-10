@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing Between SQL and NoSQL](https://dev.to/adrianbailador/choosing-between-sql-and-nosql-n9i)
-- [How To Create an NPM Package For React Native?](https://dev.to/amitkumar13/how-to-create-an-npm-package-for-react-native-4bkj)
-- [Creative HTML Cards | Style 1](https://dev.to/creative_salahu/creative-html-cards-style-1-5h8a)
-- [Shopify’s product overhaul: 2,000 variants, new GraphQL mutations, and a farewell to REST](https://dev.to/gadgetdev/shopifys-product-overhaul-2000-variants-new-graphql-mutations-and-a-farewell-to-rest-4kei)
-- [2024-06-10: v0 complete](https://dev.to/armantark/2024-06-10-v0-complete-3dil)
+- [Open-Source Exploitation](https://dev.to/dagnelies/open-source-exploitation-2eh4)
+- [Dreamin&#39; in Color Countdown](https://dev.to/arbrazil/dreamin-in-color-countdown-3ldh)
+- [PACX ⁓ Create a table](https://dev.to/_neronotte/pacx-create-a-table-1lgo)
+- [Create Email Template Using HTML and CSS only](https://dev.to/yasminsardar/create-email-template-using-html-and-css-only-3phm)
+- [Designed by JavaScript without tree](https://dev.to/hussein09/designed-by-javascript-without-tree-f2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
