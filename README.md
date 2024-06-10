@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Effective Methods to Secure Your Online Store Against Cyber Threats](https://dev.to/jchristopher0033/effective-methods-to-secure-your-online-store-against-cyber-threats-457e)
-- [Developing IoT Applications with Raspberry Pi](https://dev.to/kartikmehta8/developing-iot-applications-with-raspberry-pi-53el)
-- [Capturing Beach Memories: A Polaroid Showcase of the World&#39;s Top Beaches](https://dev.to/jennavisions/capturing-beach-memories-a-polaroid-showcase-of-the-worlds-top-beaches-4gjf)
-- [How to Install &lpar;and Uninstall&rpar; MySQL on a Mac](https://dev.to/olsido/how-to-install-and-uninstall-mysql-on-a-mac-16l8)
-- [Glammed Up The Beaches With Blurry Animations.](https://dev.to/_zaihl/glammed-up-with-blurry-animations-401o)
+- [Sử dụng MongoDB hiệu quả trong Nodejs](https://dev.to/duongphan/su-dung-mongodb-hieu-qua-trong-nodejs-2kh9)
+- [How I Built My Own Personalized Google: A Step-by-Step Guide to AI Mastery](https://dev.to/exploredataaiml/how-i-built-my-own-personalized-google-a-step-by-step-guide-to-ai-mastery-48ne)
+- [CSS Art: June](https://dev.to/soorajsnblaze333/css-art-june-4hme)
+- [Các Thư Viện React.js Nên Sử Dụng](https://dev.to/duongphan/cac-thu-vien-reactjs-nen-su-dung-4cea)
+- [Top Methods to Find GitHub Users](https://dev.to/dk119819/best-ways-to-search-for-github-users-53no)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
