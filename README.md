@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 16 of 30 of JavaScript](https://dev.to/akshat0610/day-16-of-30-of-javascript-1ci4)
-- [API7 API Gateway Performance Benchmark: P99 = 2.3 ms &amp; 160k QPS](https://dev.to/api7/api7-api-gateway-performance-benchmark-p99-23-ms-160k-qps-38de)
-- [Understanding Angular Life Cycle Hooks: A Comprehensive Guide](https://dev.to/manthanank/understanding-angular-life-cycle-hooks-a-comprehensive-guide-34oa)
-- [Nuxt build vs Nuxt Generate what is the difference?](https://dev.to/leamsigc/nuxt-build-vs-nuxt-generate-what-is-the-difference-759)
-- [Confusion Matrix: A Clear Guide to Understanding It](https://dev.to/yaswanthteja/confusion-matrix-a-clear-guide-to-understanding-it-4e0p)
+- [Cómo desarrollar habilidades de resolución de problemas en programación](https://dev.to/rodri-oliveira-dev/como-desarrollar-habilidades-de-resolucion-de-problemas-en-programacion-3i83)
+- [In Excel, Generate a List of All Days of the Month Where a Specified Data Belongs](https://dev.to/judith677/in-excel-generate-a-list-of-all-days-of-the-month-where-a-specified-data-belongs-2ehn)
+- [Create a fantastic GitHub developer portfolio with next js.🚀🚀](https://dev.to/dharamgfx/create-a-fantastic-github-developer-portfolio-with-next-js-50c4)
+- [Persuasive Tech Presentations and Public Speaking Algorithm](https://dev.to/martinbaun/persuasive-tech-presentations-and-public-speaking-algorithm-2ono)
+- [Workflow Orchestration on AWS: The Ultimate Guide to AWS Step Functions](https://dev.to/kelvinskell/workflow-orchestration-on-aws-the-ultimate-guide-to-aws-step-functions-2oe2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
