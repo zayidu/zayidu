@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Passkeys Protect Against Phishing](https://dev.to/corbado/how-passkeys-protect-against-phishing-2cgo)
-- [Why Do We Write `super&lpar;props&rpar;` in React?](https://dev.to/emal_isuranga_22428bdd80e/why-do-we-write-superprops-in-react-3g08)
-- [Remove All Adjacent Duplicates In String | LeetCode | Java](https://dev.to/tanujav/remove-all-adjacent-duplicates-in-string-leetcode-java-4f81)
-- [Why Do I Love Code Formatters?](https://dev.to/yardenporat/why-do-i-love-code-formatters-a87)
-- [How to Protect Business and Employee Information: Top 5 Tips](https://dev.to/bocruz0033/how-to-protect-business-and-employee-information-top-5-tips-3dh7)
+- [GitHub Streak: What I Learned? 🚀💻](https://dev.to/perisicnikola37/github-streak-what-i-learned-b8k)
+- [Show Your Recently Played Song using Netlify Functions and Last.fm](https://dev.to/yordiverkroost/show-your-recently-played-song-using-netlify-functions-and-lastfm-407b)
+- [Practical considerations with commitment based Pricing models on AWS](https://dev.to/virajnadkarni/practical-considerations-with-commitment-based-pricing-models-on-aws-3l6h)
+- [Hands on favicons](https://dev.to/algoorgoal/hands-on-favicons-3j8)
+- [Streamline Your JavaScript with Modules and Bundlers](https://dev.to/dipakahirav/streamline-your-javascript-with-modules-and-bundlers-3ebo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
