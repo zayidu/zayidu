@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [On Writing a ComputerCraft OS](https://dev.to/jackmacwindows/on-writing-a-computercraft-os-4lnk)
-- [Dokku](https://dev.to/cerico/dokku-kdh)
-- [DevSecOps with AWS- IaC at scale - Building your own platform - Part 2 - CI for IaC](https://dev.to/aws-builders/devsecops-with-aws-iac-at-scale-building-your-own-platform-part-2-ci-for-iac-275c)
-- [How to Prevent Flexbox Items from Stretching to Full Width in Tailwind CSS](https://dev.to/szwn/how-to-prevent-flexbox-items-from-stretching-to-full-width-in-tailwind-css-4o9m)
-- [Why you should write a good resume on your github profile page?](https://dev.to/mlodovico/why-you-should-write-a-good-resume-on-your-github-profile-page-516i)
+- [Streamline Your Coding Workflow with 12 Powerful VS Code Shortcuts](https://dev.to/vyan/streamline-your-coding-workflow-with-12-powerful-vs-code-shortcuts-55b9)
+- [Building in Public - 2](https://dev.to/liaob/building-in-public-2-i75)
+- [𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐃𝐞𝐬𝐢𝐠𝐧 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬 𝐢𝐧 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭: 𝟤/𝟔 - 𝐑𝐞𝐯𝐞𝐚𝐥𝐢𝐧𝐠 𝐌𝐨𝐝𝐮𝐥𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧](https://dev.to/kiransm/--5bf0)
+- [Optimizing Bank Data Growth with Sharding Architecture](https://dev.to/joaomarques/optimizing-bank-data-growth-with-sharding-architecture-3pnf)
+- [Extracting and Converting Transaction Input Data in Go](https://dev.to/burgossrodrigo/extracting-and-converting-transaction-input-data-in-go-2klb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
