@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Node Application with Docker + Nginx + Postgres + Docker Compose](https://dev.to/abraaoduarte/simple-node-application-with-docker-nginx-postgres-docker-compose-16p3)
-- [I&#39;ve been writing TypeScript without understanding it](https://dev.to/wasp/ive-been-writing-typescript-without-understanding-it-5ef4)
-- [Using Env Vars to Include &amp; Exclude OpenTelemetry Node.js Libraries](https://dev.to/kubeshop/using-env-vars-to-include-exclude-opentelemetry-nodejs-libraries-6ke)
-- [Unlock Smart Car Ownership with the 20/4/10 Rule: A Comprehensive Guide](https://dev.to/jasskarley/unlock-smart-car-ownership-with-the-20410-rule-a-comprehensive-guide-2p9p)
-- [Today I learned about Variables in PHP](https://dev.to/ahtshamajus/today-i-learned-about-variables-in-php-39ml)
+- [Create an App Like Nextdoor: The Ultimate Guide](https://dev.to/keliaewart/create-an-app-like-nextdoor-the-ultimate-guide-3bea)
+- [Debugging docker-compose errors](https://dev.to/anyigortobias_5/debugging-docker-compose-errors-2b29)
+- [How I created a live subscribers counter in NextJS &lpar;with source code&rpar;](https://dev.to/pierremouchan/how-i-created-a-live-subscribers-counter-with-peoples-avatars-in-nextjs-with-source-code-1l07)
+- [Open-Source No-Code/Low-Code Platform NocoBase v1.0.1-alpha.1: Blocks support height settings](https://dev.to/nocobase/open-source-no-codelow-code-platform-nocobase-v101-alpha1-blocks-support-height-settings-5ep0)
+- [Implementando uma Solução MultiTenancy com o NHibernate.](https://dev.to/unhacked/implementando-uma-solucao-multitenancy-com-o-nhibernate-3n2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
