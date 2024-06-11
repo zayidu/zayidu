@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Observability 101: A Beginner&#39;s Journey Free of Print Statements.](https://dev.to/cloudnative_eng/observability-101-a-beginners-journey-free-of-print-statements-3lb2)
-- [Mastering JavaScript Promises: Best Practices for Clean and Efficient Code](https://dev.to/hkp22/mastering-javascript-promises-best-practices-for-clean-and-efficient-code-519)
-- [DevOps Fundamentals : Harnessing the Power of Collaboration and Automation](https://dev.to/pateldeep34/devops-fundamentals-harnessing-the-power-of-collaboration-and-automation-4888)
-- [Effortless Global Trade: Unleashing the Power of Customs Clearance Software](https://dev.to/john_hall/effortless-global-trade-unleashing-the-power-of-customs-clearance-software-4ga4)
-- [Project of deploying simple cloud infrastructure as code with Aws Cloudformation.](https://dev.to/mantizo_dedon_c5190cdc65/project-of-deploying-simple-cloud-infrastructure-as-code-with-aws-cloudformation-18ob)
+- [Simple Node Application with Docker + Nginx + Postgres + Docker Compose](https://dev.to/abraaoduarte/simple-node-application-with-docker-nginx-postgres-docker-compose-16p3)
+- [I&#39;ve been writing TypeScript without understanding it](https://dev.to/wasp/ive-been-writing-typescript-without-understanding-it-5ef4)
+- [Using Env Vars to Include &amp; Exclude OpenTelemetry Node.js Libraries](https://dev.to/kubeshop/using-env-vars-to-include-exclude-opentelemetry-nodejs-libraries-6ke)
+- [Unlock Smart Car Ownership with the 20/4/10 Rule: A Comprehensive Guide](https://dev.to/jasskarley/unlock-smart-car-ownership-with-the-20410-rule-a-comprehensive-guide-2p9p)
+- [Today I learned about Variables in PHP](https://dev.to/ahtshamajus/today-i-learned-about-variables-in-php-39ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
