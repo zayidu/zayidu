@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create an App Like Nextdoor: The Ultimate Guide](https://dev.to/keliaewart/create-an-app-like-nextdoor-the-ultimate-guide-3bea)
-- [Debugging docker-compose errors](https://dev.to/anyigortobias_5/debugging-docker-compose-errors-2b29)
-- [How I created a live subscribers counter in NextJS &lpar;with source code&rpar;](https://dev.to/pierremouchan/how-i-created-a-live-subscribers-counter-with-peoples-avatars-in-nextjs-with-source-code-1l07)
-- [Open-Source No-Code/Low-Code Platform NocoBase v1.0.1-alpha.1: Blocks support height settings](https://dev.to/nocobase/open-source-no-codelow-code-platform-nocobase-v101-alpha1-blocks-support-height-settings-5ep0)
-- [Implementando uma Solução MultiTenancy com o NHibernate.](https://dev.to/unhacked/implementando-uma-solucao-multitenancy-com-o-nhibernate-3n2d)
+- [The End of the Personal Computer](https://dev.to/bascodes/the-end-of-the-personal-computer-5ie)
+- [Are Certificates From Code-Learning Websites Worth Anything?](https://dev.to/anitaolsen/are-certificates-from-code-learning-websites-worth-anything-3loh)
+- [Estudos de Quality Assurance &lpar;QA&rpar; - Tipos de Testes](https://dev.to/julianoquites/estudos-de-quality-assurance-qa-tipos-de-testes-1k35)
+- [Securing Kubernetes Pods For Production Workloads](https://dev.to/thenjdevopsguy/securing-kubernetes-pods-for-production-workloads-51oh)
+- [Python: Generate Random Integers in Range](https://dev.to/hichem-mg/python-generate-random-integers-in-range-4m0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
