@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Common SEO Mistakes and How to Fix Them](https://dev.to/juddiy/common-seo-mistakes-and-how-to-fix-them-4011)
-- [7 Habits that Programmers Must Have!](https://dev.to/tentanganak/7-habits-that-programmers-must-have-1dfj)
-- [Generating replies using Huggingface interference and Mistrial in NestJS](https://dev.to/railsstudent/generating-replies-using-huggingface-interference-and-mistrial-in-nestjs-mfp)
-- [Top 25 SQL Interview Question for SDET](https://dev.to/sureshayyanna/top-25-sql-interview-question-for-sdet-2jlk)
-- [Learn SQL in 7 days - &lpar;SDET&rpar;](https://dev.to/sureshayyanna/learn-sql-in-7-days-sdet-5hc8)
+- [On Writing a ComputerCraft OS](https://dev.to/jackmacwindows/on-writing-a-computercraft-os-4lnk)
+- [Dokku](https://dev.to/cerico/dokku-kdh)
+- [DevSecOps with AWS- IaC at scale - Building your own platform - Part 2 - CI for IaC](https://dev.to/aws-builders/devsecops-with-aws-iac-at-scale-building-your-own-platform-part-2-ci-for-iac-275c)
+- [How to Prevent Flexbox Items from Stretching to Full Width in Tailwind CSS](https://dev.to/szwn/how-to-prevent-flexbox-items-from-stretching-to-full-width-in-tailwind-css-4o9m)
+- [Why you should write a good resume on your github profile page?](https://dev.to/mlodovico/why-you-should-write-a-good-resume-on-your-github-profile-page-516i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
