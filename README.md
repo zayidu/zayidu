@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Promoting your website for traffic](https://dev.to/sh20raj/promoting-your-website-for-traffic-1emk)
-- [Day 15 of my progress as a vue dev](https://dev.to/zain725342/day-15-of-my-progress-as-a-vue-dev-43fj)
-- [Build multi-turn RAG Chatbots easily with Ragable! &lpar;Open-Source&rpar;](https://dev.to/kwnaidoo/build-multi-turn-rag-chatbots-easily-with-ragable-open-source-5614)
-- [Exposing an Amazon SageMaker Endpoint via a Custom Domain Name](https://dev.to/sammy_cloud/exposing-an-amazon-sagemaker-endpoint-via-a-custom-domain-name-3ai7)
-- [Creativity Has Left the Chat: The Price of Debiasing Language Models](https://dev.to/mikeyoung44/creativity-has-left-the-chat-the-price-of-debiasing-language-models-1k9l)
+- [Understanding Memory Management, Pointers, and Function Pointers in C](https://dev.to/emanuelgustafzon/understanding-memory-management-pointers-and-function-pointers-in-c-8ld)
+- [Creative HTML Accordion | Style 1](https://dev.to/creative_salahu/creative-html-accordion-style-1-4ml1)
+- [Exploring Test Case Generators: Revolutionizing Software Testing](https://dev.to/keploy/exploring-test-case-generators-revolutionizing-software-testing-7pe)
+- [Imagine No More Info Chaos: we built the solution that keeps your work in perfect harmony](https://dev.to/reich/imagine-no-more-info-chaos-we-built-the-solution-that-keeps-your-work-in-perfect-harmony-ea4)
+- [What is an API? A Beginner&#39;s Guide](https://dev.to/codevicky/what-is-an-api-a-beginners-guide-5baa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
