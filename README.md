@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [238. Products of Array Discluding Self](https://dev.to/whereislijah/products-of-array-discluding-self-4mb2)
-- [Beginner Project Ideas with GitHub repos](https://dev.to/evansifyke/beginner-project-ideas-with-github-repos-ao7)
-- [No Longer DEV&#39;s Community Manager, But Still Got Lotsa Love For Y&#39;all! 💚](https://dev.to/michaeltharrington/no-longer-devs-community-manager-but-still-got-love-for-yall-3ocp)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3dk1)
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;03/06/2024 - 09/06/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-03062024-09062024-1f93)
+- [Implementing MLOps with GitHub Actions](https://dev.to/craftworkai/implementing-mlops-with-github-actions-30nn)
+- [Download all LeetCode solved questions](https://dev.to/theshubham99/download-all-leetcode-solved-questions-4lk)
+- [This is for you, let&#39;s build some cool stuff! 🚀✨](https://dev.to/sauravshah31/this-is-for-you-lets-build-some-cool-stuff-15kn)
+- [Desafío de Nombres y Apellidos](https://dev.to/javascriptchile/desafio-de-nombres-y-apellidos-540f)
+- [What is String Manipulation and Algorithms](https://dev.to/m__mdy__m/what-is-string-manipulation-and-algorithms-42m1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
