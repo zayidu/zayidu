@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tips to debug authentication error with Kerberos on Windows Server](https://dev.to/lucaspsilveira/tips-to-debug-authentication-error-with-kerberos-on-windows-server-a45)
-- [Mastering Timing Control in JavaScript: Throttling and Debouncing](https://dev.to/ashsajal/mastering-timing-control-in-javascript-throttling-and-debouncing-4fbe)
-- [Inteiros sem sinais no Kotlin](https://dev.to/oliversieto/inteiros-sem-sinal-no-kotlin-1gg3)
-- [Deploying A Linux Virtual Machine with Nginx on AWS](https://dev.to/jimi487/deploying-a-linux-virtual-machine-with-nginx-on-aws-3m13)
-- [Deploying a Linux Virtual Machine with Nginx on Microsoft Azure](https://dev.to/jimi487/deploying-a-linux-virtual-machine-with-nginx-on-microsoft-azure-1eka)
+- [Setting Up an Nx Monorepo: A Step-by-Step Guide](https://dev.to/hasancse/setting-up-an-nx-monorepo-a-step-by-step-guide-9k4)
+- [Top 8 Best Practices to Develop Secure Mobile Apps](https://dev.to/twinkle123/top-8-best-practices-to-develop-secure-mobile-apps-3e8o)
+- [Building a Full-Stack Web Application with Free Resources](https://dev.to/jgar514/building-a-full-stack-web-application-with-free-resources-54eg)
+- [Key Concepts](https://dev.to/bdporomon/key-concepts-explanation-1n06)
+- [Issue 47 and 48 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-47-and-48-of-aws-cloud-security-weekly-4c0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
