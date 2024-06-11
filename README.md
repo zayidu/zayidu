@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn SQL in 7 days - &lpar;SDET&rpar;](https://dev.to/sureshayyanna/learn-sql-in-7-days-sdet-5hc8)
+- [Snowflake Schema vs. Star Schema: Pros, Cons, and Use Cases](https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-2701)
+- [Make your own music downloader website](https://dev.to/rafaeljohn9/make-your-own-music-downloader-website-4o1p)
 - [Setting Up an Nx Monorepo: A Step-by-Step Guide](https://dev.to/hasancse/setting-up-an-nx-monorepo-a-step-by-step-guide-9k4)
 - [Top 8 Best Practices to Develop Secure Mobile Apps](https://dev.to/twinkle123/top-8-best-practices-to-develop-secure-mobile-apps-3e8o)
-- [Building a Full-Stack Web Application with Free Resources](https://dev.to/jgar514/building-a-full-stack-web-application-with-free-resources-54eg)
-- [Key Concepts](https://dev.to/bdporomon/key-concepts-explanation-1n06)
-- [Issue 47 and 48 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-47-and-48-of-aws-cloud-security-weekly-4c0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
