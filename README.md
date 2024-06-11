@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AWS app in depth like never before with sls-mentor](https://dev.to/pchol22/your-aws-app-in-depth-like-never-before-with-sls-mentor-1dgf)
-- [Hibernate Connection Library with GUI Generation](https://dev.to/luisfrasnelli/hibernate-connection-library-with-gui-generation-2i80)
-- [Mastering the First Steps of AI Development: Problem Definition and Data Collection](https://dev.to/dev_2311/mastering-the-first-steps-of-ai-development-problem-definition-and-data-collection-h4o)
-- [Congrats to the Frontend Challenge: June Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-june-edition-winners-26kd)
-- [Optimizing rendering in Vue](https://dev.to/logrocket/optimizing-rendering-in-vue-4c6b)
+- [Why Do Codes Have Bugs?](https://dev.to/scofieldidehen/-why-does-my-code-have-bugs-1b0l)
+- [How to Read a JSON File in JavaScript](https://dev.to/markliu2013/how-to-read-a-json-file-in-javascript-3cfn)
+- [Unlock the Power of Generators and Iterators in JavaScript: A Comprehensive Guide](https://dev.to/dipakahirav/unlock-the-power-of-generators-and-iterators-in-javascript-a-comprehensive-guide-3mc9)
+- [Meilleures pratiques pour créer une application Express.js](https://dev.to/land-bit/meilleures-pratiques-pour-creer-une-application-expressjs-583g)
+- [Rising Like A Phoenix, ShowMeCon 2024 Resurrects A Security Community In The Midwest](https://dev.to/gitguardian/rising-like-a-phoenix-showmecon-2024-resurrects-a-security-community-in-the-midwest-1fol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
