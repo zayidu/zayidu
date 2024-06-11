@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Streak: What I Learned? 🚀💻](https://dev.to/perisicnikola37/github-streak-what-i-learned-b8k)
-- [Show Your Recently Played Song using Netlify Functions and Last.fm](https://dev.to/yordiverkroost/show-your-recently-played-song-using-netlify-functions-and-lastfm-407b)
-- [Practical considerations with commitment based Pricing models on AWS](https://dev.to/virajnadkarni/practical-considerations-with-commitment-based-pricing-models-on-aws-3l6h)
-- [Hands on favicons](https://dev.to/algoorgoal/hands-on-favicons-3j8)
-- [Streamline Your JavaScript with Modules and Bundlers](https://dev.to/dipakahirav/streamline-your-javascript-with-modules-and-bundlers-3ebo)
+- [Result Pattern](https://dev.to/ben-witt/result-pattern-5290)
+- [Weak memoization in Javascript](https://dev.to/thekashey/weak-memoization-in-javascript-4po6)
+- [How to sign in with LinkedIn in a Strapi and Next.js app with custom authentication](https://dev.to/stanojevicbojan/how-to-sign-in-with-linkedin-in-a-strapi-and-nextjs-app-with-custom-authentication-a53)
+- [Selenium](https://dev.to/priyanka624/selenium-54l2)
+- [Building a tree Gantt](https://dev.to/lenormor/building-a-tree-gantt-43kf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
