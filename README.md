@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How to Create React Components Really Quick 🛠️](https://dev.to/buildwebcrumbs/how-to-create-react-components-really-quick-c84)
-- [@Duolingo is amazing! 🤩](https://dev.to/maatheusgois/duolingo-is-amazing-9i5)
-- [D&#39;orsogna Delights: Navigating the Culinary Riches of Italian Tradition with Emphasis on Food Safety and Quality](https://dev.to/dorsogna/dorsogna-delights-navigating-the-culinary-riches-of-italian-tradition-with-emphasis-on-food-safety-and-quality-5fi1)
-- [Como Escrever Testes Unitários para Serviços Backend com Dependências de Banco de Dados Usando SQLite In-Memory](https://dev.to/vitorrios1001/como-escrever-testes-unitarios-para-servicos-backend-com-dependencias-de-banco-de-dados-usando-sqlite-in-memory-4526)
-- [shadcn-ui/ui codebase analysis: Mail example explained.](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-mail-example-explained-1746)
+- [Extracting the Sender from a Transaction with Go-Ethereum](https://dev.to/burgossrodrigo/extracting-the-sender-from-a-transaction-with-go-ethereum-1cn3)
+- [Understanding DML, DDL, DCL,TCL SQL Commands in MySQL](https://dev.to/ayas_tech_2b0560ee159e661/understanding-dml-ddl-dcltcl-sql-commands-in-mysql-o1f)
+- [Understanding the Difference Between JavaScript and TypeScript](https://dev.to/ayas_tech_2b0560ee159e661/understanding-the-difference-between-javascript-and-typescript-jm1)
+- [Creating mocked data for EF Core using Bogus and more](https://dev.to/karenpayneoregon/creating-mocked-data-for-ef-core-using-bogus-and-more-2l0i)
+- [Unlocking the Power of Geolocation with IPStack&#39;s API](https://dev.to/ipstackapi/unlocking-the-power-of-geolocation-with-ipstacks-api-30jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
