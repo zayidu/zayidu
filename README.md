@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Memory Management, Pointers, and Function Pointers in C](https://dev.to/emanuelgustafzon/understanding-memory-management-pointers-and-function-pointers-in-c-8ld)
-- [Creative HTML Accordion | Style 1](https://dev.to/creative_salahu/creative-html-accordion-style-1-4ml1)
-- [Exploring Test Case Generators: Revolutionizing Software Testing](https://dev.to/keploy/exploring-test-case-generators-revolutionizing-software-testing-7pe)
-- [Imagine No More Info Chaos: we built the solution that keeps your work in perfect harmony](https://dev.to/reich/imagine-no-more-info-chaos-we-built-the-solution-that-keeps-your-work-in-perfect-harmony-ea4)
-- [What is an API? A Beginner&#39;s Guide](https://dev.to/codevicky/what-is-an-api-a-beginners-guide-5baa)
+- [238. Products of Array Discluding Self](https://dev.to/whereislijah/products-of-array-discluding-self-4mb2)
+- [Beginner Project Ideas with GitHub repos](https://dev.to/evansifyke/beginner-project-ideas-with-github-repos-ao7)
+- [No Longer DEV&#39;s Community Manager, But Still Got Lotsa Love For Y&#39;all! 💚](https://dev.to/michaeltharrington/no-longer-devs-community-manager-but-still-got-love-for-yall-3ocp)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3dk1)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;03/06/2024 - 09/06/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-03062024-09062024-1f93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
