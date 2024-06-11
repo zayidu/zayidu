@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo desarrollar habilidades de resolución de problemas en programación](https://dev.to/rodri-oliveira-dev/como-desarrollar-habilidades-de-resolucion-de-problemas-en-programacion-3i83)
-- [In Excel, Generate a List of All Days of the Month Where a Specified Data Belongs](https://dev.to/judith677/in-excel-generate-a-list-of-all-days-of-the-month-where-a-specified-data-belongs-2ehn)
-- [Create a fantastic GitHub developer portfolio with next js.🚀🚀](https://dev.to/dharamgfx/create-a-fantastic-github-developer-portfolio-with-next-js-50c4)
-- [Persuasive Tech Presentations and Public Speaking Algorithm](https://dev.to/martinbaun/persuasive-tech-presentations-and-public-speaking-algorithm-2ono)
-- [Workflow Orchestration on AWS: The Ultimate Guide to AWS Step Functions](https://dev.to/kelvinskell/workflow-orchestration-on-aws-the-ultimate-guide-to-aws-step-functions-2oe2)
+- [Observability 101: A Beginner&#39;s Journey Free of Print Statements.](https://dev.to/cloudnative_eng/observability-101-a-beginners-journey-free-of-print-statements-3lb2)
+- [Mastering JavaScript Promises: Best Practices for Clean and Efficient Code](https://dev.to/hkp22/mastering-javascript-promises-best-practices-for-clean-and-efficient-code-519)
+- [DevOps Fundamentals : Harnessing the Power of Collaboration and Automation](https://dev.to/pateldeep34/devops-fundamentals-harnessing-the-power-of-collaboration-and-automation-4888)
+- [Effortless Global Trade: Unleashing the Power of Customs Clearance Software](https://dev.to/john_hall/effortless-global-trade-unleashing-the-power-of-customs-clearance-software-4ga4)
+- [Project of deploying simple cloud infrastructure as code with Aws Cloudformation.](https://dev.to/mantizo_dedon_c5190cdc65/project-of-deploying-simple-cloud-infrastructure-as-code-with-aws-cloudformation-18ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
