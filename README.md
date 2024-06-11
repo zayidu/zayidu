@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Babylon.js Browser MMORPG - DevLog - Update #8 - Syncing combat animations, sound and damage text](https://dev.to/maiu/babylonjs-browser-mmorpg-devlog-update-8-syncing-combat-animations-sound-and-damage-text-glg)
-- [Day 967 : Magnificence](https://dev.to/dwane/day-967-magnificence-29oc)
-- [[Game of Purpose] Day 23](https://dev.to/humberd/game-of-purpose-day-23-1jif)
-- [git commit -m is a lie! How to commit like a pro](https://dev.to/andrews1022/git-commit-m-is-a-lie-how-to-commit-like-a-pro-l1)
-- [My story creating a new React meta-framework](https://dev.to/lazarv/my-story-creating-a-new-react-meta-framework-732)
+- [Tips to debug authentication error with Kerberos on Windows Server](https://dev.to/lucaspsilveira/tips-to-debug-authentication-error-with-kerberos-on-windows-server-a45)
+- [Mastering Timing Control in JavaScript: Throttling and Debouncing](https://dev.to/ashsajal/mastering-timing-control-in-javascript-throttling-and-debouncing-4fbe)
+- [Inteiros sem sinais no Kotlin](https://dev.to/oliversieto/inteiros-sem-sinal-no-kotlin-1gg3)
+- [Deploying A Linux Virtual Machine with Nginx on AWS](https://dev.to/jimi487/deploying-a-linux-virtual-machine-with-nginx-on-aws-3m13)
+- [Deploying a Linux Virtual Machine with Nginx on Microsoft Azure](https://dev.to/jimi487/deploying-a-linux-virtual-machine-with-nginx-on-microsoft-azure-1eka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
