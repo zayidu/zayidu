@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS Refund Form Component Examples](https://dev.to/themesberg/tailwind-css-refund-form-component-examples-78a)
-- [Spiking Neural Networks](https://dev.to/serpapi/spiking-neural-networks-2k5p)
-- [How I learned JavaScript](https://dev.to/muchai_joseph/how-i-learned-javascript-22dl)
-- [Fixing Laptop Time Issues: Solving Clock Problems with Dead CMOS and Battery](https://dev.to/edwin_gichira_92748e19bb6/fixing-laptop-time-issues-solving-clock-problems-with-dead-cmos-and-battery-8ef)
-- [Top 20 Awesome on Github](https://dev.to/litlyx/top-20-awesome-on-github-3be2)
+- [Decoding Web Hosting: Understanding the landlords of the digital Realm Landscape](https://dev.to/freta/decoding-web-hosting-understanding-the-landlords-of-the-digital-realm-landscape-14f2)
+- [What are cyber security tools? Why are they important?](https://dev.to/komal00/what-are-cyber-security-tools-why-are-they-important-5alf)
+- [Comprehensive Guide to AWS API Gateway: Everything You Need to Know - Part I](https://dev.to/kelvinskell/comprehensive-guide-to-aws-api-gateway-everything-you-need-to-know-part-i-1hia)
+- [BC Boilerplates: Recent Updates](https://dev.to/rodik/bc-boilerplates-recent-updates-37eh)
+- [AWS CloudFormation Templates: Because Clicking Buttons is Too Old](https://dev.to/spantheslayer/aws-cloudformation-templates-because-clicking-buttons-is-too-old-5e69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
