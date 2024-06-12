@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Issues with Modern Games, or, How to Engage a Game&#39;s Community](https://dev.to/chigbeef_77/issues-with-modern-games-or-how-to-engage-a-games-community-1ic5)
-- [Access Modifiers in TypeScript: The Gatekeepers](https://dev.to/nahidulislam/access-modifiers-in-typescript-the-gatekeepers-50i)
-- [Stop Hardcoding Maps Platform API Keys!](https://dev.to/bamnet/stop-hardcoding-maps-platform-api-keys-5c2n)
-- [Exploring TypeScript Functions: A Comprehensive Guide](https://dev.to/hasancse/exploring-typescript-functions-a-comprehensive-guide-3hii)
-- [On Writing a Sane API](https://dev.to/jackmacwindows/on-writing-a-sane-api-4enm)
+- [Single Sign-On &lpar;SSO&rpar; using AWS Cognito and Azure AD](https://dev.to/getambassador2024/single-sign-on-sso-using-aws-cognito-and-azure-ad-851)
+- [Comprehensive Guide to Angular Forms: Fundamental Concepts and Examples](https://dev.to/manthanank/comprehensive-guide-to-angular-forms-fundamental-concepts-and-examples-4ljc)
+- [Top Best Web Scraping API Services](https://dev.to/ionegarza/top-best-web-scraping-api-services-21o4)
+- [Things Every Programmer Should *NOT* Do](https://dev.to/pranjol-dev/things-every-programmer-should-not-do-3f9e)
+- [Why HONO JS Should Be Your Next Web Framework](https://dev.to/_ismailbouaddi/why-hono-js-should-be-your-next-web-framework-4o6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
