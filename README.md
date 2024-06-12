@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Use of AI in Web Development](https://dev.to/kartikmehta8/exploring-the-use-of-ai-in-web-development-3f6h)
-- [Button Animation](https://dev.to/sabeerjuniad/button-animation-2n3f)
-- [Valentine&#39;s Card Flip](https://dev.to/enrique_portillo_3af96727/valentines-card-flip-2gc7)
-- [Understanding API Architecture Styles Using SOAP](https://dev.to/fabiola_estefanipomamac/understanding-api-architecture-styles-using-soap-324l)
-- [Padrão 7-1 do SASS](https://dev.to/yagopeixinho/padrao-7-1-do-sass-1jl7)
+- [flower with heart](https://dev.to/uzumaki156/flower-with-heart-2c0)
+- [SQL IDEs/Editors for making MySQL usage Easier and more Efficient](https://dev.to/concerate/sql-ideseditors-for-making-mysql-usage-easier-and-more-efficient-1fgd)
+- [Behind the Code: Variables And Functions](https://dev.to/whevaltech/behind-the-code-variables-and-functions-41ih)
+- [Using Secure Base Images](https://dev.to/batistagabriel/using-secure-base-images-5e6o)
+- [Usando Imagens Base Seguras](https://dev.to/batistagabriel/usando-imagens-base-seguras-2dc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
