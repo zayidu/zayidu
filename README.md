@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding Web Hosting: Understanding the landlords of the digital Realm Landscape](https://dev.to/freta/decoding-web-hosting-understanding-the-landlords-of-the-digital-realm-landscape-14f2)
-- [What are cyber security tools? Why are they important?](https://dev.to/komal00/what-are-cyber-security-tools-why-are-they-important-5alf)
-- [Comprehensive Guide to AWS API Gateway: Everything You Need to Know - Part I](https://dev.to/kelvinskell/comprehensive-guide-to-aws-api-gateway-everything-you-need-to-know-part-i-1hia)
-- [BC Boilerplates: Recent Updates](https://dev.to/rodik/bc-boilerplates-recent-updates-37eh)
-- [AWS CloudFormation Templates: Because Clicking Buttons is Too Old](https://dev.to/spantheslayer/aws-cloudformation-templates-because-clicking-buttons-is-too-old-5e69)
+- [Fine-Grained Access Control &lpar;FGAC&rpar;: Comprehensive Guidance](https://dev.to/permify/fine-grained-access-control-fgac-comprehensive-guidance-3f19)
+- [10 Must-Have Libraries &amp; Frameworks to Boost your Django skills](https://dev.to/devella/10-must-have-libraries-frameworks-to-boost-your-django-skills-5hni)
+- [Implementing MLOps with GitHub Actions](https://dev.to/craftworkai/implementing-mlops-with-github-actions-1knm)
+- [Documenting Rate Limits and Throttling in REST APIs](https://dev.to/ovaisnaseem/documenting-rate-limits-and-throttling-in-rest-apis-307f)
+- [7 Pandas Challenges for Aspiring Data Scientists 🚀](https://dev.to/labex/7-pandas-challenges-for-aspiring-data-scientists-2jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
