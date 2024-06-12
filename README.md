@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The current Lakehouse is like a false proposition](https://dev.to/esproc_spl/the-current-lakehouse-is-like-a-false-proposition-2le4)
-- [Hierarchical filter on Select tags &amp; Select.Option of Ant Design](https://dev.to/trn_thanhhiu_f59ffe159/hierarchical-filter-on-select-tags-selectoption-of-ant-design-2c9i)
-- [A PAGE TALKS ABOUT &lpar;The 2-Minute Guide: Accessibility Evaluation Approach, Methods, and Tools&rpar;](https://dev.to/rewirebyautomation/a-page-talks-about-the-2-minute-guide-accessibility-evaluation-approach-methods-and-tools-2km)
-- [🚀 Routing and Navigation in React.js🚀](https://dev.to/erasmuskotoka/routing-and-navigation-in-reactjs-2767)
-- [Dynamic CSS Shadows Creation](https://dev.to/labex/dynamic-css-shadows-creation-3056)
+- [On Writing a Sane API](https://dev.to/jackmacwindows/on-writing-a-sane-api-4enm)
+- [Introducing LaravelCart: A Streamlined Shopping Cart Solution for Laravel Developers](https://dev.to/abiruzzamanmolla/introducing-laravelcart-a-streamlined-shopping-cart-solution-for-laravel-developers-287a)
+- [Building a Fort Knox DevSecOps: Comprehensive Security Practices](https://dev.to/gauri1504/building-a-fort-knox-devsecops-comprehensive-security-practices-3h7m)
+- [regexp lazy match](https://dev.to/eiguleo/regexp-lazy-match-4bjf)
+- [Step-by-Step Guide: Making Your Angular Application SEO-Friendly with Server-Side Rendering and Firebase Deployment](https://dev.to/khatiwadasaurav/angular-universal-and-firebase-deployment-38g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
