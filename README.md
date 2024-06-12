@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Sidecars to Zero in Kubernetes](https://dev.to/fermyon/scaling-sidecars-to-zero-in-kubernetes-2m23)
-- [Formas simples de escrever mensagens de git](https://dev.to/raulbattistini/formas-simples-de-escrever-mensagens-de-git-29do)
-- [How to Setup Jest on Typescript Monorepo Projects](https://dev.to/mikhaelesa/how-to-setup-jest-on-typescript-monorepo-projects-o4d)
-- [Maximizing Software Quality with Python Code Coverage](https://dev.to/keploy/maximizing-software-quality-with-python-code-coverage-2i69)
-- [Balancing Life as a Remote Developer and a Dad: Tips from Newborn to Toddler Stage](https://dev.to/danjiro/balancing-life-as-a-remote-developer-and-a-dad-tips-from-newborn-to-toddler-stage-43c1)
+- [Watercooler Wednesday](https://dev.to/ben/watercooler-wednesday-5bel)
+- [Understanding JavaScript Array Methods: forEach, map, filter, reduce, and find](https://dev.to/wafa_bergaoui/understanding-javascript-array-methods-foreach-map-filter-reduce-and-find-2o4f)
+- [Announcing Micro Frontends Conference 2024](https://dev.to/smapiot/announcing-micro-frontends-conference-2024-15lg)
+- [From Zero to MindMaps... Without Writing a Single Line of Code? 🤯](https://dev.to/red_54/from-zero-to-mindmaps-without-writing-a-single-line-of-code-32hl)
+- [Tips for Using Drag and Drop Interfaces Effectively](https://dev.to/dk119819/drag-and-drop-interface-5578)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
