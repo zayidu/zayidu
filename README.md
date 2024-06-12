@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Issues with Modern Games, or, How to Engage a Game&#39;s Community](https://dev.to/chigbeef_77/issues-with-modern-games-or-how-to-engage-a-games-community-1ic5)
+- [Access Modifiers in TypeScript: The Gatekeepers](https://dev.to/nahidulislam/access-modifiers-in-typescript-the-gatekeepers-50i)
+- [Stop Hardcoding Maps Platform API Keys!](https://dev.to/bamnet/stop-hardcoding-maps-platform-api-keys-5c2n)
+- [Exploring TypeScript Functions: A Comprehensive Guide](https://dev.to/hasancse/exploring-typescript-functions-a-comprehensive-guide-3hii)
 - [On Writing a Sane API](https://dev.to/jackmacwindows/on-writing-a-sane-api-4enm)
-- [Introducing LaravelCart: A Streamlined Shopping Cart Solution for Laravel Developers](https://dev.to/abiruzzamanmolla/introducing-laravelcart-a-streamlined-shopping-cart-solution-for-laravel-developers-287a)
-- [Building a Fort Knox DevSecOps: Comprehensive Security Practices](https://dev.to/gauri1504/building-a-fort-knox-devsecops-comprehensive-security-practices-3h7m)
-- [regexp lazy match](https://dev.to/eiguleo/regexp-lazy-match-4bjf)
-- [Step-by-Step Guide: Making Your Angular Application SEO-Friendly with Server-Side Rendering and Firebase Deployment](https://dev.to/khatiwadasaurav/angular-universal-and-firebase-deployment-38g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
