@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Cloud SRE Efficiency with Distributed Tracing](https://dev.to/harishpadmanaban/enhancing-cloud-sre-efficiency-with-distributed-tracing-47lm)
-- [8 Best Automated Android App Testing Tools and Framework](https://dev.to/jennife05918349/8-best-automated-android-app-testing-tools-and-framework-3fh7)
-- [Mastering the Cloud: Building a High-Performing SRE Team on AWS, Azure, and GCP](https://dev.to/harishpadmanaban/mastering-the-cloud-building-a-high-performing-sre-team-on-aws-azure-and-gcp-4mon)
-- [Hello everyone!!](https://dev.to/estudiante71/hello-everyone-4p47)
-- [The Power of Synthetic Monitoring for Cloud SRE: Ensuring Seamless Performance and Reliability](https://dev.to/harishpadmanaban/the-power-of-synthetic-monitoring-for-cloud-sre-ensuring-seamless-performance-and-reliability-4kkf)
+- [How To Dockerize Remix Apps 💿🐳](https://dev.to/code42cate/how-to-dockerize-remix-apps-2ack)
+- [List of All My Blog Posts - with direct links](https://dev.to/whatminjacodes/direct-links-to-all-my-blog-posts-fap)
+- [RTT Reduction Strategies for Enhanced Network Performance](https://dev.to/softwebsolution/rtt-reduction-strategies-for-enhanced-network-performance-29of)
+- [Why I chose Svelte over React?](https://dev.to/alishgiri/why-i-chose-svelte-over-react-29i9)
+- [Demystifying Service Level acronyms and Error Budgets](https://dev.to/verifacrew/demystifying-service-level-acronyms-and-error-budgets-1m57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
