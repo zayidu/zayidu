@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Watercooler Wednesday](https://dev.to/ben/watercooler-wednesday-5bel)
-- [Understanding JavaScript Array Methods: forEach, map, filter, reduce, and find](https://dev.to/wafa_bergaoui/understanding-javascript-array-methods-foreach-map-filter-reduce-and-find-2o4f)
-- [Announcing Micro Frontends Conference 2024](https://dev.to/smapiot/announcing-micro-frontends-conference-2024-15lg)
-- [From Zero to MindMaps... Without Writing a Single Line of Code? 🤯](https://dev.to/red_54/from-zero-to-mindmaps-without-writing-a-single-line-of-code-32hl)
-- [Tips for Using Drag and Drop Interfaces Effectively](https://dev.to/dk119819/drag-and-drop-interface-5578)
+- [How Does SAP Migration Work?](https://dev.to/templatewallet/how-does-sap-migration-work-3784)
+- [Using Arktype in Place of Zod - How to Adapt Parsers](https://dev.to/seasonedcc/using-arktype-in-place-of-zod-how-to-adapt-parsers-3bd5)
+- [Day 16 of my progress as a vue dev](https://dev.to/zain725342/day-16-of-my-progress-as-a-vue-dev-46af)
+- [Join us for the Twilio Challenge: $5,000 in Prizes!](https://dev.to/devteam/join-us-for-the-twilio-challenge-5000-in-prizes-4fdi)
+- [Asserting Integrity in Ethereum Data Extraction with Go through tests](https://dev.to/burgossrodrigo/asserting-integrity-in-ethereum-data-extraction-with-go-through-tests-i8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
