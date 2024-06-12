@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Single Sign-On &lpar;SSO&rpar; using AWS Cognito and Azure AD](https://dev.to/getambassador2024/single-sign-on-sso-using-aws-cognito-and-azure-ad-851)
-- [Comprehensive Guide to Angular Forms: Fundamental Concepts and Examples](https://dev.to/manthanank/comprehensive-guide-to-angular-forms-fundamental-concepts-and-examples-4ljc)
-- [Top Best Web Scraping API Services](https://dev.to/ionegarza/top-best-web-scraping-api-services-21o4)
-- [Things Every Programmer Should *NOT* Do](https://dev.to/pranjol-dev/things-every-programmer-should-not-do-3f9e)
-- [Why HONO JS Should Be Your Next Web Framework](https://dev.to/_ismailbouaddi/why-hono-js-should-be-your-next-web-framework-4o6h)
+- [Essential VS Code Extensions for Web Developers](https://dev.to/vyan/essential-vs-code-extensions-for-web-developers-90m)
+- [Cultivating Trust and Innovation: Top 10 .NET Development Partners You Can Rely On](https://dev.to/akaksha/cultivating-trust-and-innovation-top-10-net-development-partners-you-can-rely-on-1h28)
+- [AI copilot tools for your terminal](https://dev.to/gopher65/ai-copilot-tools-for-your-terminal-18hk)
+- [Interactive Learning Activities: Engaging Exercises for Novice Musicians by Charles Barnett](https://dev.to/charlesbarnett/interactive-learning-activities-engaging-exercises-for-novice-musicians-by-charles-barnett-2eff)
+- [The 5 Stages Of My Software Development Process](https://dev.to/ontowhee/the-5-stages-of-my-software-development-process-52d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
