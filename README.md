@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Extracting the Sender from a Transaction with Go-Ethereum](https://dev.to/burgossrodrigo/extracting-the-sender-from-a-transaction-with-go-ethereum-1cn3)
-- [Understanding DML, DDL, DCL,TCL SQL Commands in MySQL](https://dev.to/ayas_tech_2b0560ee159e661/understanding-dml-ddl-dcltcl-sql-commands-in-mysql-o1f)
-- [Understanding the Difference Between JavaScript and TypeScript](https://dev.to/ayas_tech_2b0560ee159e661/understanding-the-difference-between-javascript-and-typescript-jm1)
-- [Creating mocked data for EF Core using Bogus and more](https://dev.to/karenpayneoregon/creating-mocked-data-for-ef-core-using-bogus-and-more-2l0i)
-- [Unlocking the Power of Geolocation with IPStack&#39;s API](https://dev.to/ipstackapi/unlocking-the-power-of-geolocation-with-ipstacks-api-30jb)
+- [Exploring the Use of AI in Web Development](https://dev.to/kartikmehta8/exploring-the-use-of-ai-in-web-development-3f6h)
+- [Button Animation](https://dev.to/sabeerjuniad/button-animation-2n3f)
+- [Valentine&#39;s Card Flip](https://dev.to/enrique_portillo_3af96727/valentines-card-flip-2gc7)
+- [Understanding API Architecture Styles Using SOAP](https://dev.to/fabiola_estefanipomamac/understanding-api-architecture-styles-using-soap-324l)
+- [Padrão 7-1 do SASS](https://dev.to/yagopeixinho/padrao-7-1-do-sass-1jl7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
