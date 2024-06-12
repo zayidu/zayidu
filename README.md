@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Dockerize Remix Apps 💿🐳](https://dev.to/code42cate/how-to-dockerize-remix-apps-2ack)
-- [List of All My Blog Posts - with direct links](https://dev.to/whatminjacodes/direct-links-to-all-my-blog-posts-fap)
-- [RTT Reduction Strategies for Enhanced Network Performance](https://dev.to/softwebsolution/rtt-reduction-strategies-for-enhanced-network-performance-29of)
-- [Why I chose Svelte over React?](https://dev.to/alishgiri/why-i-chose-svelte-over-react-29i9)
-- [Demystifying Service Level acronyms and Error Budgets](https://dev.to/verifacrew/demystifying-service-level-acronyms-and-error-budgets-1m57)
+- [Scaling Sidecars to Zero in Kubernetes](https://dev.to/fermyon/scaling-sidecars-to-zero-in-kubernetes-2m23)
+- [Formas simples de escrever mensagens de git](https://dev.to/raulbattistini/formas-simples-de-escrever-mensagens-de-git-29do)
+- [How to Setup Jest on Typescript Monorepo Projects](https://dev.to/mikhaelesa/how-to-setup-jest-on-typescript-monorepo-projects-o4d)
+- [Maximizing Software Quality with Python Code Coverage](https://dev.to/keploy/maximizing-software-quality-with-python-code-coverage-2i69)
+- [Balancing Life as a Remote Developer and a Dad: Tips from Newborn to Toddler Stage](https://dev.to/danjiro/balancing-life-as-a-remote-developer-and-a-dad-tips-from-newborn-to-toddler-stage-43c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
