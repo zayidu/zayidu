@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic CSS Shadows Creation](https://dev.to/labex/dynamic-css-shadows-creation-3056)
+- [Access Google Cloud Storage from AWS Lambda using Workload Identity Federation](https://dev.to/specky_shooter/access-google-cloud-storage-from-aws-lambda-using-workload-identity-federation-3laj)
+- [Why I Developed a Salesforce Chrome Extension?](https://dev.to/dyn/why-i-developed-a-salesforce-chrome-extension-361a)
 - [flower with heart](https://dev.to/uzumaki156/flower-with-heart-2c0)
 - [SQL IDEs/Editors for making MySQL usage Easier and more Efficient](https://dev.to/concerate/sql-ideseditors-for-making-mysql-usage-easier-and-more-efficient-1fgd)
-- [Behind the Code: Variables And Functions](https://dev.to/whevaltech/behind-the-code-variables-and-functions-41ih)
-- [Using Secure Base Images](https://dev.to/batistagabriel/using-secure-base-images-5e6o)
-- [Usando Imagens Base Seguras](https://dev.to/batistagabriel/usando-imagens-base-seguras-2dc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
