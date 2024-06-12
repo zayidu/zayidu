@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fine-Grained Access Control &lpar;FGAC&rpar;: Comprehensive Guidance](https://dev.to/permify/fine-grained-access-control-fgac-comprehensive-guidance-3f19)
-- [10 Must-Have Libraries &amp; Frameworks to Boost your Django skills](https://dev.to/devella/10-must-have-libraries-frameworks-to-boost-your-django-skills-5hni)
-- [Implementing MLOps with GitHub Actions](https://dev.to/craftworkai/implementing-mlops-with-github-actions-1knm)
-- [Documenting Rate Limits and Throttling in REST APIs](https://dev.to/ovaisnaseem/documenting-rate-limits-and-throttling-in-rest-apis-307f)
-- [7 Pandas Challenges for Aspiring Data Scientists 🚀](https://dev.to/labex/7-pandas-challenges-for-aspiring-data-scientists-2jm)
+- [Enhancing Cloud SRE Efficiency with Distributed Tracing](https://dev.to/harishpadmanaban/enhancing-cloud-sre-efficiency-with-distributed-tracing-47lm)
+- [8 Best Automated Android App Testing Tools and Framework](https://dev.to/jennife05918349/8-best-automated-android-app-testing-tools-and-framework-3fh7)
+- [Mastering the Cloud: Building a High-Performing SRE Team on AWS, Azure, and GCP](https://dev.to/harishpadmanaban/mastering-the-cloud-building-a-high-performing-sre-team-on-aws-azure-and-gcp-4mon)
+- [Hello everyone!!](https://dev.to/estudiante71/hello-everyone-4p47)
+- [The Power of Synthetic Monitoring for Cloud SRE: Ensuring Seamless Performance and Reliability](https://dev.to/harishpadmanaban/the-power-of-synthetic-monitoring-for-cloud-sre-ensuring-seamless-performance-and-reliability-4kkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
