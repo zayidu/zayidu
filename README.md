@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ꜱᴄᴀʟɪɴɢ ᴀɴᴅ ɴᴏʀᴍᴀʟɪᴢɪɴɢ ᴅᴀᴛᴀ ꜰᴏʀ ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ᴍᴏᴅᴇʟꜱ](https://dev.to/kammarianand/ling-n-nrliing-r-hin-lrning-l-4bij)
-- [Access Tokens vs Refresh Tokens vs ID Tokens](https://dev.to/rahulvijayvergiya/access-tokens-vs-refresh-tokens-vs-id-tokens-3c97)
-- [Pros and Cons of Benchmark Testing](https://dev.to/ngocninh123/pros-and-cons-of-benchmark-testing-2ki3)
-- [Frontend 항해99 취업 리부트 코스 회고.](https://dev.to/hxxtae/frontend-hanghae99-cwieob-ributeu-koseu-hoego-4153)
-- [Revision of Javascript Step by Step](https://dev.to/mdiffshashank/revision-of-javascript-step-by-step-2p14)
+- [Tailwind CSS Refund Form Component Examples](https://dev.to/themesberg/tailwind-css-refund-form-component-examples-78a)
+- [Spiking Neural Networks](https://dev.to/serpapi/spiking-neural-networks-2k5p)
+- [How I learned JavaScript](https://dev.to/muchai_joseph/how-i-learned-javascript-22dl)
+- [Fixing Laptop Time Issues: Solving Clock Problems with Dead CMOS and Battery](https://dev.to/edwin_gichira_92748e19bb6/fixing-laptop-time-issues-solving-clock-problems-with-dead-cmos-and-battery-8ef)
+- [Top 20 Awesome on Github](https://dev.to/litlyx/top-20-awesome-on-github-3be2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
