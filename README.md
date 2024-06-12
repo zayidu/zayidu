@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dates References: A Timely Affair](https://dev.to/cedricfrancoys/dates-references-a-timely-affair-2kmh)
-- [A feature needs a strong reason to exist](https://dev.to/seasonedcc/a-feature-needs-a-strong-reason-to-exist-3e77)
-- [C# Passing by Value vs Passing by Reference](https://dev.to/mahm00dmahm00d/c-passing-by-value-vs-passing-by-reference-5140)
-- [What is Cloud Cost Optimization? A Comprehensive Guide](https://dev.to/unicloud/what-is-cloud-cost-optimization-a-comprehensive-guide-2469)
-- [Building React Apps with the Nx Standalone Setup](https://dev.to/ak_23/building-react-apps-with-the-nx-standalone-setup-171m)
+- [css girl](https://dev.to/kemiowoyele1/css-girl-adc)
+- [GDSC at Mbeya University of Science and Technology: A Community History](https://dev.to/fareedcodez/gdsc-at-mbeya-university-of-science-and-technology-a-community-history-44cd)
+- [Debugging 101 - How to Fix Software Errors Efficiently](https://dev.to/alexindevs/debugging-101-how-to-fix-software-errors-efficiently-5hm2)
+- [Advanced JavaScript](https://dev.to/suhaspalani/advanced-javascript-f4l)
+- [L1SLOAD el nuevo opcode para Keystores seguras y escalables](https://dev.to/turupawn/l1sload-el-nuevo-opcode-para-keystores-seguras-y-escalables-50of)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
