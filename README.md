@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The current Lakehouse is like a false proposition](https://dev.to/esproc_spl/the-current-lakehouse-is-like-a-false-proposition-2le4)
+- [Hierarchical filter on Select tags &amp; Select.Option of Ant Design](https://dev.to/trn_thanhhiu_f59ffe159/hierarchical-filter-on-select-tags-selectoption-of-ant-design-2c9i)
+- [A PAGE TALKS ABOUT &lpar;The 2-Minute Guide: Accessibility Evaluation Approach, Methods, and Tools&rpar;](https://dev.to/rewirebyautomation/a-page-talks-about-the-2-minute-guide-accessibility-evaluation-approach-methods-and-tools-2km)
+- [🚀 Routing and Navigation in React.js🚀](https://dev.to/erasmuskotoka/routing-and-navigation-in-reactjs-2767)
 - [Dynamic CSS Shadows Creation](https://dev.to/labex/dynamic-css-shadows-creation-3056)
-- [Access Google Cloud Storage from AWS Lambda using Workload Identity Federation](https://dev.to/specky_shooter/access-google-cloud-storage-from-aws-lambda-using-workload-identity-federation-3laj)
-- [Why I Developed a Salesforce Chrome Extension?](https://dev.to/dyn/why-i-developed-a-salesforce-chrome-extension-361a)
-- [flower with heart](https://dev.to/uzumaki156/flower-with-heart-2c0)
-- [SQL IDEs/Editors for making MySQL usage Easier and more Efficient](https://dev.to/concerate/sql-ideseditors-for-making-mysql-usage-easier-and-more-efficient-1fgd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
