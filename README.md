@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Does SAP Migration Work?](https://dev.to/templatewallet/how-does-sap-migration-work-3784)
-- [Using Arktype in Place of Zod - How to Adapt Parsers](https://dev.to/seasonedcc/using-arktype-in-place-of-zod-how-to-adapt-parsers-3bd5)
-- [Day 16 of my progress as a vue dev](https://dev.to/zain725342/day-16-of-my-progress-as-a-vue-dev-46af)
-- [Join us for the Twilio Challenge: $5,000 in Prizes!](https://dev.to/devteam/join-us-for-the-twilio-challenge-5000-in-prizes-4fdi)
-- [Asserting Integrity in Ethereum Data Extraction with Go through tests](https://dev.to/burgossrodrigo/asserting-integrity-in-ethereum-data-extraction-with-go-through-tests-i8m)
+- [Asynchronous JavaScript: Practical Tips for Better Code](https://dev.to/buildwebcrumbs/demystifying-asynchronous-javascript-practical-tips-for-better-code-15m1)
+- [Unlocking Data Relationships: MongoDB&#39;s $lookup vs. Mongoose&#39;s Populate](https://dev.to/sujeetsingh123/unlocking-data-relationships-mongodbs-lookup-vs-mongooses-populate-mc5)
+- [Unlocking Data Relationships: MongoDB&#39;s $lookup vs. Mongoose&#39;s Populate](https://dev.to/sujeetsingh123/unlocking-data-relationships-mongodbs-lookup-vs-mongooses-populate-lgk)
+- [Choosing the Right Database Solution for Your Project: SQL or NoSQL?](https://dev.to/sujeetsingh123/choosing-the-right-database-solution-for-your-project-sql-or-nosql-2nno)
+- [How can we version REST API?](https://dev.to/sujeetsingh123/how-can-we-version-rest-api-5eka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
