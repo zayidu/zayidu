@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an Antivirus with Python &lpar;Beginners Guide&rpar;](https://dev.to/scofieldidehen/build-an-antivirus-with-python-beginners-guide-16oh)
-- [Implement JWT Refresh Token Authentication with Elysia JS and Prisma: A Step-by-Step Guide](https://dev.to/harshmangalam/implement-jwt-refresh-token-authentication-with-elysia-js-and-prisma-a-step-by-step-guide-1dc)
-- [HANCITOR - TRAFFIC ANALYSIS - SOL-LIGHTNET](https://dev.to/mihika/hancitor-traffic-analysis-sol-lightnet-1m7n)
-- [Oracle Global Trade Management Cloud Testing: The Comprehensive Guide](https://dev.to/johnste39558689/oracle-global-trade-management-cloud-testing-the-comprehensive-guide-ha2)
-- [File Organizer Pro](https://dev.to/dulanga/file-organizer-pro-4j3c)
+- [I Learned JavaScript &amp; Made A Web App That Went Viral 🤯](https://dev.to/rammcodes/i-learned-javascript-made-a-web-app-that-went-viral-3no0)
+- [Cryptography: The Art of Secure Communication](https://dev.to/adhikarisonit/cryptography-the-art-of-secure-communication-5abc)
+- [How to check if variable is not None in Python](https://dev.to/hichem-mg/how-to-check-if-variable-is-not-none-in-python-f5o)
+- [Day 17 of 30 of JavaScript](https://dev.to/akshat0610/day-17-of-30-of-javascript-5f6i)
+- [The Reason Behind My Career Change: Why I Decided to Leave My Previous Job and Pursue Programming](https://dev.to/palak/the-reason-behind-my-career-change-why-i-decided-to-leave-my-previous-job-and-pursue-programming-5bm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
