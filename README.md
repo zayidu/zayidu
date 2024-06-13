@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Layouts Work in Rails](https://dev.to/railsdesigner/how-layouts-work-in-rails-2cfl)
-- [Tools and Tool_Choice - Azure GPT4](https://dev.to/praveenr2998/tools-and-toolchoice-azure-gpt4-4f81)
-- [UUID: A Profundidade dos Identificadores Únicos Universais](https://dev.to/iamthiago/uuid-a-profundidade-dos-identificadores-unicos-universais-2ced)
-- [The Bug Bounty Dilemma: Are We Rewarding Skills or Exploits in Blockchain?](https://dev.to/calyptus_ninja/the-bug-bounty-dilemma-are-we-rewarding-skills-or-exploits-in-blockchain-1f1p)
-- [Odoo version 15 pip error](https://dev.to/jeevanizm/odoo-version-15-pip-error-1c09)
+- [Mastering Immutable Types with TypeScript `as const`](https://dev.to/adeelibr/mastering-immutable-types-with-typescript-as-const-gh1)
+- [4 Ways to backup mySql database to a csv file](https://dev.to/instanceofgod/4-ways-to-backup-mysql-database-to-a-csv-file-3e9j)
+- [Look what they need to mimic a fraction of our power](https://dev.to/manuartero/look-what-they-need-to-mimic-a-fraction-of-our-power-40j)
+- [Why Even Bother with Project Management?](https://dev.to/hasanbisha/why-even-bother-with-project-management-3cji)
+- [🚀 Day 1: Embarking on My DevOps Journey 🌐](https://dev.to/sanjishmaharjan/day-1-embarking-on-my-devops-journey-36mc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
