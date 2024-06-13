@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Tokens in Node.js and NestJS 🚀](https://dev.to/shahharsh/understanding-tokens-in-nodejs-and-nestjs-4a55)
-- [Write content to file in Magento2](https://dev.to/pabodah/write-content-to-file-in-magento2-aa5)
-- [Exploring Python Coverage Tools: Enhancing Testing Effectiveness](https://dev.to/keploy/exploring-python-coverage-tools-enhancing-testing-effectiveness-in0)
-- [Handling SEO in Sitecore XM Cloud Projects: Best Practices and Implementation](https://dev.to/sebasab/handling-seo-in-sitecore-xm-cloud-projects-best-practices-and-implementation-3o61)
-- [DevOps 101: Understanding Theory, Practices, and Evolution](https://dev.to/iaadidev/devops-101-understanding-theory-practices-and-evolution-1gee)
+- [&lt;h1&gt;&lt;/h1&gt;](https://dev.to/aishik_chatterjee_0060e71/-54f1)
+- [&lt;h1&gt;&lt;/h1&gt;](https://dev.to/aishik_chatterjee_0060e71/-979)
+- [Warning for Front-End Dev Careers!](https://dev.to/jobreadyprogrammer/warning-for-front-end-dev-careers-224k)
+- [Apple&#39;s new feature that just killed my startup 🤯](https://dev.to/darkinventor/apple-just-killed-my-startup-with-its-apple-intelligence-integration-1ihj)
+- [Where do VDI costs hide? - A detailed TCO breakdown](https://dev.to/struthi/where-do-vdi-costs-hide-a-detailed-tco-breakdown-5b7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
