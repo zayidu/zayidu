@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Alternatives to npm: Exploring Different Package Managers for JavaScript Development](https://dev.to/vyan/alternatives-to-npm-exploring-different-package-managers-for-javascript-development-1h7g)
-- [Fastest Way To Learn a Programming Language](https://dev.to/thekarlesi/fastest-way-to-learn-a-programming-language-2kc3)
-- [How to efficiently use drf_social_oauth2 and django_rest_framework_simplejwt](https://dev.to/codewitgabi/how-to-efficiently-use-drfsocialoauth2-and-djangorestframeworksimplejwt-23i5)
-- [Gemika&#39;s Awesome Git Adventures: A Fun Guide to Coding Magic! 🧙‍♂️✨](https://dev.to/gerryleonugroho/gemikas-awesome-git-adventures-a-fun-guide-to-coding-magic--4p49)
-- [Containers - DEV Computer Science Challenge](https://dev.to/andresordazrs/containers-dev-computer-science-challenge-1576)
+- [Deadlock](https://dev.to/anshsaini/deadlocks-3h3n)
+- [Import Excel to MySQL, Create Tables Easily with One Click! This SQL Editor is All You Need](https://dev.to/concerate/import-excel-to-mysql-create-tables-easily-with-one-click-this-sql-editor-is-all-you-need-3mb7)
+- [How to restore Ubuntu desktop UI After an Unexpected tty1 Boot without initial internet access](https://dev.to/sammybarasa/how-to-restore-ubuntu-desktop-ui-after-an-unexpected-tty1-boot-without-initial-internet-access-2g1j)
+- [You don&#39;t need `forEach&lpar;&rpar;`](https://dev.to/bruts002/you-dont-need-foreach-1jif)
+- [Func Declaration vs Expression vs Statement vs Anonymous vs First Class](https://dev.to/imabhinavdev/func-declaration-vs-expression-vs-statement-vs-anonymous-vs-first-class-2ogm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
