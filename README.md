@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One-Byte: CAP Theorem](https://dev.to/stunspot/one-byte-cap-theorem-107i)
-- [Design Pattern #2 - Facade Pattern](https://dev.to/superviz/design-pattern-2-facade-pattern-1dhl)
-- [LeetCode Day7 String Part.1](https://dev.to/flame_chan_llll/leetcode-day8-string-3mln)
-- [Deploying and Connecting to a Virtual Machine in Azure.](https://dev.to/tojumercy1/deploying-and-connecting-to-a-virtual-machine-in-azure-373o)
-- [🚀 Disaster Recovery Solution Using AWS Backups 🌐](https://dev.to/alerabello/disaster-recovery-solution-using-aws-backups-2p28)
+- [Understanding Types and Interfaces in TypeScript: A Comprehensive Guide](https://dev.to/hasancse/understanding-types-and-interfaces-in-typescript-a-comprehensive-guide-1pm7)
+- [Introduction to Sorting Algorithms in JavaScript](https://dev.to/alexmercedcoder/introduction-to-sorting-algorithms-in-javascript-b60)
+- [Currying function🤓](https://dev.to/__khojiakbar__/currying-function-1f7a)
+- [How to create School Management System Mobile App with React native](https://dev.to/nadim_ch0wdhury/how-to-create-school-management-system-mobile-app-with-react-native-2e4b)
+- [Day 17 of my progress as a vue dev](https://dev.to/zain725342/day-17-of-my-progress-as-a-vue-dev-1a9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
