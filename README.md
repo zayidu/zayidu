@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Differences Between &quot;Test Coverage&quot; and &quot;Code Coverage&quot;](https://dev.to/accreditly/the-differences-between-test-coverage-and-code-coverage-20fc)
-- [Don&#39;t worry! Deploy! Metis has your database covered.](https://dev.to/metis/dont-worry-deploy-metis-has-your-database-covered-4jj)
-- [Importance of CyberSecurity](https://dev.to/deepesh_patil_611/importance-of-cybersecurity-11h1)
-- [Creating a Face Swapping Application with Python and OpenCV](https://dev.to/ethand91/creating-a-face-swapping-application-with-python-and-opencv-1cbb)
-- [Simplifying TailwindCSS with Tailwind Variants in React](https://dev.to/suhag_lapani_ac1bd0b026f2/simplifying-tailwindcss-with-tailwind-variants-in-react-2mo7)
+- [Tech Stack for Minimalists [FTMHP] 👌](https://dev.to/rudransh61/tech-stack-for-minimalists-ftmhp-1n48)
+- [Random and fixed routes with Apache APISIX](https://dev.to/apisix/random-and-fixed-routes-with-apache-apisix-12b)
+- [Awesome GitHub Profile](https://dev.to/zemerik/awesome-github-profile-5bc5)
+- [ReductStore v1.10.0: downsampling and optimization](https://dev.to/reductstore/reductstore-v1100-downsampling-and-optimization-27h3)
+- [How to use Excel-like editing in your DataGrid](https://dev.to/radubrehar/how-to-use-excel-like-editing-in-your-datagrid-2j0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
