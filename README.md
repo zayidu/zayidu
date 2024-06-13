@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Let’s Build Small AI Buzz, Offer ‘Claim Processing’ to Mid/Big Companies](https://dev.to/exploredataaiml/lets-build-small-ai-buzz-offer-claim-processing-to-midbig-companies-3dkn)
-- [Simple way to obtain largest Number in an array or slice in golang](https://dev.to/toluwasethomas/simple-way-to-obtain-largest-number-in-an-array-or-slice-in-golang-2o06)
-- [Day 696 : keep](https://dev.to/dwane/day-696-keep-5c5h)
-- [Recursion](https://dev.to/ismailajat14162/recursion-4jnh)
-- [[JavaScript] Generate Unique Code](https://dev.to/jkdevarg/javascript-generate-unique-code-2jlj)
+- [Simplifying Serverless Architecture with Terraform and AWS Lambda](https://dev.to/etorralbab/simplifying-serverless-architecture-with-terraform-and-aws-lambda-2o7n)
+- [AI to the world Care](https://dev.to/stromlight/ai-to-the-world-care-2lmj)
+- [Cloud deployment models](https://dev.to/leonardosantosbr/cloud-deployment-models-368b)
+- [Real-Time Communication with WebSockets: A Complete Guide](https://dev.to/dipakahirav/real-time-communication-with-websockets-a-complete-guide-32g4)
+- [Hello DEV Community! 👋](https://dev.to/techgirlkaydee/hello-dev-community-4mb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
