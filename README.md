@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Difference Between APIs and Endpoints](https://dev.to/msnmongare/understanding-the-difference-between-apis-and-endpoints-402a)
-- [Big O Notation](https://dev.to/bpk45_0670a02e0f3a6839b3a/big-o-notation-3nnf)
-- [Step-by-Step Guide for Web Scraping Using BeautifulSoup](https://dev.to/ionegarza/step-by-step-guide-for-web-scraping-using-beautifulsoup-hcd)
-- [Continuous Integration Testing: Streamlining Software Development and Ensuring Quality](https://dev.to/keploy/continuous-integration-testing-streamlining-software-development-and-ensuring-quality-10mc)
-- [Tips for soft skills development](https://dev.to/techstuff/tips-for-soft-skills-development-3cpm)
+- [The Differences Between &quot;Test Coverage&quot; and &quot;Code Coverage&quot;](https://dev.to/accreditly/the-differences-between-test-coverage-and-code-coverage-20fc)
+- [Don&#39;t worry! Deploy! Metis has your database covered.](https://dev.to/metis/dont-worry-deploy-metis-has-your-database-covered-4jj)
+- [Importance of CyberSecurity](https://dev.to/deepesh_patil_611/importance-of-cybersecurity-11h1)
+- [Creating a Face Swapping Application with Python and OpenCV](https://dev.to/ethand91/creating-a-face-swapping-application-with-python-and-opencv-1cbb)
+- [Simplifying TailwindCSS with Tailwind Variants in React](https://dev.to/suhag_lapani_ac1bd0b026f2/simplifying-tailwindcss-with-tailwind-variants-in-react-2mo7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
