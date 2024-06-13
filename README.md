@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Learned JavaScript &amp; Made A Web App That Went Viral 🤯](https://dev.to/rammcodes/i-learned-javascript-made-a-web-app-that-went-viral-3no0)
-- [Cryptography: The Art of Secure Communication](https://dev.to/adhikarisonit/cryptography-the-art-of-secure-communication-5abc)
-- [How to check if variable is not None in Python](https://dev.to/hichem-mg/how-to-check-if-variable-is-not-none-in-python-f5o)
-- [Day 17 of 30 of JavaScript](https://dev.to/akshat0610/day-17-of-30-of-javascript-5f6i)
-- [The Reason Behind My Career Change: Why I Decided to Leave My Previous Job and Pursue Programming](https://dev.to/palak/the-reason-behind-my-career-change-why-i-decided-to-leave-my-previous-job-and-pursue-programming-5bm7)
+- [Don&#39;t refactor the code](https://dev.to/katafrakt/dont-refactor-the-code-igk)
+- [Redux: As a beginner](https://dev.to/georgiosdrivas/redux-as-a-beginner-5akb)
+- [Error after upgrade on Ubuntu 24.04 &quot;Oh no! Something went wrong&quot;](https://dev.to/justplegend/error-after-upgrade-on-ubuntu-2404-oh-no-something-went-wrong-1840)
+- [2037. Minimum Number of Moves to Seat Everyone](https://dev.to/mdarifulhaque/2037-minimum-number-of-moves-to-seat-everyone-164a)
+- [Project Stage-2 Implementation [part-1]](https://dev.to/yuktimulani/project-stage-2-implementation-part-1-1p4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
