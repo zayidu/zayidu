@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Stack for Minimalists [FTMHP] 👌](https://dev.to/rudransh61/tech-stack-for-minimalists-ftmhp-1n48)
-- [Random and fixed routes with Apache APISIX](https://dev.to/apisix/random-and-fixed-routes-with-apache-apisix-12b)
-- [Awesome GitHub Profile](https://dev.to/zemerik/awesome-github-profile-5bc5)
-- [ReductStore v1.10.0: downsampling and optimization](https://dev.to/reductstore/reductstore-v1100-downsampling-and-optimization-27h3)
-- [How to use Excel-like editing in your DataGrid](https://dev.to/radubrehar/how-to-use-excel-like-editing-in-your-datagrid-2j0d)
+- [How Layouts Work in Rails](https://dev.to/railsdesigner/how-layouts-work-in-rails-2cfl)
+- [Tools and Tool_Choice - Azure GPT4](https://dev.to/praveenr2998/tools-and-toolchoice-azure-gpt4-4f81)
+- [UUID: A Profundidade dos Identificadores Únicos Universais](https://dev.to/iamthiago/uuid-a-profundidade-dos-identificadores-unicos-universais-2ced)
+- [The Bug Bounty Dilemma: Are We Rewarding Skills or Exploits in Blockchain?](https://dev.to/calyptus_ninja/the-bug-bounty-dilemma-are-we-rewarding-skills-or-exploits-in-blockchain-1f1p)
+- [Odoo version 15 pip error](https://dev.to/jeevanizm/odoo-version-15-pip-error-1c09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
