@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Contributing to ODK: the go-to mobile form data collection tool](https://dev.to/spwoodcock/contributing-to-odk-the-go-to-mobile-form-data-collection-tool-3mco)
-- [computer science concept in 256](https://dev.to/fabelt14/computer-science-concept-in-256-2al6)
-- [Blockchain in Fintech: Uses and Early Case Applications](https://dev.to/osa_obaseki/blockchain-in-fintech-uses-and-early-case-applications-148a)
-- [Decoding Backend Architecture: Crafting Effective Folder Structures](https://dev.to/mahabubr/decoding-backend-architecture-crafting-effective-folder-structures-in7)
-- [THAT Conference: THAT&#39;s Where the Best Networking Is At!](https://dev.to/michaellarocca/that-conference-thats-where-the-best-networking-is-at-fmc)
+- [Cyclic has shut down and I am migrating my data to another service](https://dev.to/devlawrence/cyclic-has-shut-down-and-i-am-migrating-my-data-to-another-service-4nj6)
+- [Docker + MariaDB](https://dev.to/thiagoeti/docker-mariadb-4n2c)
+- [Understanding the differences between micro-service and monolithic architecture.](https://dev.to/xcoder03/understanding-the-differences-between-micro-service-and-monolithic-architecture-14dc)
+- [📚 How to Handle Multiple MSW Handlers in Storybook Stories](https://dev.to/enszrlu/how-to-handle-multiple-msw-handlers-in-storybook-stories-2mo2)
+- [Day 970 : Chosen](https://dev.to/dwane/day-970-chosen-1ek3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
