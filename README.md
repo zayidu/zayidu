@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running a Node Service with PM2](https://dev.to/spiritmoney/running-a-node-service-with-pm2-3319)
-- [Python Basics Cheat Sheet](https://dev.to/documendous/python-basics-cheat-sheet-3edj)
-- [Instant 3D Human Avatar Generation using Image Diffusion Models](https://dev.to/mikeyoung44/instant-3d-human-avatar-generation-using-image-diffusion-models-3mnl)
-- [The Power of Less: Streamlining Dependencies with Remult](https://dev.to/jycouet/the-power-of-less-streamlining-dependencies-with-remult-55e2)
-- [Top 10 common errors I wish I hadn’t made using SQS](https://dev.to/slsbytheodo/top-10-common-errors-i-wish-i-hadnt-made-using-sqs-3jg2)
+- [Build an AI Business Proposal Writer Using Gemini API and ToolJet in 10 minutes](https://dev.to/tooljet/build-an-ai-business-proposal-writer-using-gemini-api-and-tooljet-in-10-minutes-4j3j)
+- [Deep learning with cats](https://dev.to/mishmanners/deep-learning-with-cats-5ae1)
+- [Revolutionize Your Web Apps with Service Workers and PWAs: The Ultimate Guide](https://dev.to/dipakahirav/revolutionize-your-web-apps-with-service-workers-and-pwas-the-ultimate-guide-51p2)
+- [NEXT JS STARTER PACK](https://dev.to/shubhamtiwari909/next-js-starter-pack-3283)
+- [What are the most common English words you use at work?](https://dev.to/__2b27d4c/what-are-the-most-common-english-words-you-use-at-work-14hh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
