@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&lt;h1&gt;&lt;/h1&gt;](https://dev.to/aishik_chatterjee_0060e71/-54f1)
-- [&lt;h1&gt;&lt;/h1&gt;](https://dev.to/aishik_chatterjee_0060e71/-979)
-- [Warning for Front-End Dev Careers!](https://dev.to/jobreadyprogrammer/warning-for-front-end-dev-careers-224k)
-- [Apple&#39;s new feature that just killed my startup 🤯](https://dev.to/darkinventor/apple-just-killed-my-startup-with-its-apple-intelligence-integration-1ihj)
-- [Where do VDI costs hide? - A detailed TCO breakdown](https://dev.to/struthi/where-do-vdi-costs-hide-a-detailed-tco-breakdown-5b7d)
+- [Understanding the Difference Between APIs and Endpoints](https://dev.to/msnmongare/understanding-the-difference-between-apis-and-endpoints-402a)
+- [Big O Notation](https://dev.to/bpk45_0670a02e0f3a6839b3a/big-o-notation-3nnf)
+- [Step-by-Step Guide for Web Scraping Using BeautifulSoup](https://dev.to/ionegarza/step-by-step-guide-for-web-scraping-using-beautifulsoup-hcd)
+- [Continuous Integration Testing: Streamlining Software Development and Ensuring Quality](https://dev.to/keploy/continuous-integration-testing-streamlining-software-development-and-ensuring-quality-10mc)
+- [Tips for soft skills development](https://dev.to/techstuff/tips-for-soft-skills-development-3cpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
