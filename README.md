@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing coroutines in Swift using Swift Concurrency](https://dev.to/jackmacwindows/implementing-coroutines-in-swift-using-swift-concurrency-453g)
-- [Creating AI Applications with Pixie: A Step-by-Step Guide](https://dev.to/gptconsole/creating-ai-applications-with-pixie-a-step-by-step-guide-1bfn)
-- [Beware of Memory Leaks: How Node.js Timeouts Can Cause Major Issues](https://dev.to/srijan_karki/nodejs-timeouts-and-memory-leaks-3l64)
-- [Node.js Timeouts and Memory Leaks](https://dev.to/srijan_karki/nodejs-timeouts-and-memory-leaks-5g1p)
-- [[Docker] Laravel, Nginx MySQL](https://dev.to/jkdevarg/docker-laravel-nginx-mysql-4lp0)
+- [Understanding Tokens in Node.js and NestJS 🚀](https://dev.to/shahharsh/understanding-tokens-in-nodejs-and-nestjs-4a55)
+- [Write content to file in Magento2](https://dev.to/pabodah/write-content-to-file-in-magento2-aa5)
+- [Exploring Python Coverage Tools: Enhancing Testing Effectiveness](https://dev.to/keploy/exploring-python-coverage-tools-enhancing-testing-effectiveness-in0)
+- [Handling SEO in Sitecore XM Cloud Projects: Best Practices and Implementation](https://dev.to/sebasab/handling-seo-in-sitecore-xm-cloud-projects-best-practices-and-implementation-3o61)
+- [DevOps 101: Understanding Theory, Practices, and Evolution](https://dev.to/iaadidev/devops-101-understanding-theory-practices-and-evolution-1gee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
