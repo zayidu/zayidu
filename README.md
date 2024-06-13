@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Terraform: A Guide to Effective IaC Practices](https://dev.to/hassan_aftab/understanding-terraform-a-guide-to-effective-iac-practices-28pn)
-- [Clean Code With AI](https://dev.to/mcsee/clean-code-with-ai-4kck)
-- [[Game of Purpose] Day 25](https://dev.to/humberd/game-of-purpose-day-25-3kk9)
-- [How to make Apache&#39;s CloseableHttpAsyncClient explicitly use HTTP/1 or HTTP/2](https://dev.to/jonathan-dev/how-to-make-apaches-closeablehttpasyncclient-explicitly-use-http1-or-http2-2l2g)
-- [run.bash &amp; migrate.bash - Pimpe deine .bashrc auf 🔝🔥](https://dev.to/rubenvoss/runbash-migratebash-pimpe-deine-bashrc-auf-307h)
+- [Let’s Build Small AI Buzz, Offer ‘Claim Processing’ to Mid/Big Companies](https://dev.to/exploredataaiml/lets-build-small-ai-buzz-offer-claim-processing-to-midbig-companies-3dkn)
+- [Simple way to obtain largest Number in an array or slice in golang](https://dev.to/toluwasethomas/simple-way-to-obtain-largest-number-in-an-array-or-slice-in-golang-2o06)
+- [Day 696 : keep](https://dev.to/dwane/day-696-keep-5c5h)
+- [Recursion](https://dev.to/ismailajat14162/recursion-4jnh)
+- [[JavaScript] Generate Unique Code](https://dev.to/jkdevarg/javascript-generate-unique-code-2jlj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
