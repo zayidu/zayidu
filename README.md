@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Types and Interfaces in TypeScript: A Comprehensive Guide](https://dev.to/hasancse/understanding-types-and-interfaces-in-typescript-a-comprehensive-guide-1pm7)
-- [Introduction to Sorting Algorithms in JavaScript](https://dev.to/alexmercedcoder/introduction-to-sorting-algorithms-in-javascript-b60)
-- [Currying function🤓](https://dev.to/__khojiakbar__/currying-function-1f7a)
-- [How to create School Management System Mobile App with React native](https://dev.to/nadim_ch0wdhury/how-to-create-school-management-system-mobile-app-with-react-native-2e4b)
-- [Day 17 of my progress as a vue dev](https://dev.to/zain725342/day-17-of-my-progress-as-a-vue-dev-1a9h)
+- [Build an Antivirus with Python &lpar;Beginners Guide&rpar;](https://dev.to/scofieldidehen/build-an-antivirus-with-python-beginners-guide-16oh)
+- [Implement JWT Refresh Token Authentication with Elysia JS and Prisma: A Step-by-Step Guide](https://dev.to/harshmangalam/implement-jwt-refresh-token-authentication-with-elysia-js-and-prisma-a-step-by-step-guide-1dc)
+- [HANCITOR - TRAFFIC ANALYSIS - SOL-LIGHTNET](https://dev.to/mihika/hancitor-traffic-analysis-sol-lightnet-1m7n)
+- [Oracle Global Trade Management Cloud Testing: The Comprehensive Guide](https://dev.to/johnste39558689/oracle-global-trade-management-cloud-testing-the-comprehensive-guide-ha2)
+- [File Organizer Pro](https://dev.to/dulanga/file-organizer-pro-4j3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
