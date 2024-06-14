@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exception-Handling Overview](https://dev.to/paulike/exception-handling-overview-5eo8)
-- [Top 17 Fast-Growing Github Repo of 2024](https://dev.to/litlyx/top-17-fast-growing-github-repo-of-2024-cm7)
-- [Docker for Dummies- Introduction to docker](https://dev.to/swikritit/docker-for-dummies-introduction-to-docker-5h67)
-- [Step-by-Step Guide: Creating a Virtual Machine in Azure](https://dev.to/dera2024/step-by-step-guide-creating-a-virtual-machine-in-azure-153k)
-- [Introducing Verse.db: The Future of Databases is Here](https://dev.to/jedi-studio/introducing-versedb-the-future-of-databases-is-here-610)
+- [More on Exception Handling](https://dev.to/paulike/more-on-exception-handling-529c)
+- [How to Invoke the Same API with Varying Parameters](https://dev.to/satokenta/how-to-invoke-the-same-api-with-varying-parameters-3aaf)
+- [Difference between Docker, Kubernetes, and Podman for System Design Interview?](https://dev.to/somadevtoo/difference-between-docker-kubernetes-and-podman-for-system-design-interview-3an6)
+- [One Byte Explainer](https://dev.to/sharmi2020/one-byte-explainer-57b0)
+- [Coil and Ktor in Kotlin Multiplatform Compose project](https://dev.to/gochev/coil-and-ktor-in-kotlin-multiplatform-compose-project-5d3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
