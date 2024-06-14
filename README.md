@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Internet Search Works](https://dev.to/jay818/how-internet-search-works-5fma)
-- [Exploring Common JavaScript Methods](https://dev.to/jlotti2/exploring-common-javascript-methods-35np)
-- [Step by Step Guide to Create Deploy and Connect to a Virtual Machine on Azure](https://dev.to/florence_8042063da11e29d1/step-by-step-guide-to-create-deploy-and-connect-to-a-virtual-machine-on-azure-1b00)
-- [Eclipse Shortcuts for Java Developers](https://dev.to/marudhu99/eclipse-shortcuts-for-java-developers-1la5)
-- [Requestly Update – May, 2024](https://dev.to/requestlyio/requestly-update-may-2024-3160)
+- [Laravel Scope to get locations nearest the user location](https://dev.to/johndivam/laravel-scope-to-get-locations-nearest-the-user-location-2fk5)
+- [Azure Virtual Machine &lpar;VM&rpar; and It&#39;s Deployment](https://dev.to/franklin_onuegbu/azure-virtual-machine-vm-and-its-deployment-3ikh)
+- [945. Minimum Increment to Make Array Unique](https://dev.to/mdarifulhaque/945-minimum-increment-to-make-array-unique-4am8)
+- [Exploring Microsoft Azure AI Capabilities Using React, Github Actions, Azure Static Apps and Azure AI](https://dev.to/yutee_okon/exploring-microsoft-azure-ai-capabilities-using-react-github-actions-azure-static-apps-and-azure-ai-4d8g)
+- [First program/CCademy/CS101](https://dev.to/murphea/first-programccademycs101-2pj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
