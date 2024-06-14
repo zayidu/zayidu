@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Semantic Kernel](https://dev.to/thwani47/introducing-semantic-kernel-41d5)
-- [Building a CRUD app with React Query, TypeScript, and Axios](https://dev.to/thwani47/building-a-crud-app-with-react-query-typescript-and-axios-2d0j)
-- [Build a chat room with custom bots powered by OpenAI/Gemini](https://dev.to/encore/build-a-chat-room-with-custom-bots-powered-by-openaigemini-47h3)
-- [Programming for Non-professionals](https://dev.to/esproc_spl/programming-for-non-professionals-f1e)
-- [AI in Agriculture: Optimizing Food Production and Sustainability](https://dev.to/jottyjohn/ai-in-agriculture-optimizing-food-production-and-sustainability-4l97)
+- [Exception-Handling Overview](https://dev.to/paulike/exception-handling-overview-5eo8)
+- [Top 17 Fast-Growing Github Repo of 2024](https://dev.to/litlyx/top-17-fast-growing-github-repo-of-2024-cm7)
+- [Docker for Dummies- Introduction to docker](https://dev.to/swikritit/docker-for-dummies-introduction-to-docker-5h67)
+- [Step-by-Step Guide: Creating a Virtual Machine in Azure](https://dev.to/dera2024/step-by-step-guide-creating-a-virtual-machine-in-azure-153k)
+- [Introducing Verse.db: The Future of Databases is Here](https://dev.to/jedi-studio/introducing-versedb-the-future-of-databases-is-here-610)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
