@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux and Git-GitHub Cheat Sheet](https://dev.to/oncloud7/linux-and-git-github-cheat-sheet-i93)
-- [HTML TAGS](https://dev.to/michweb/html-tags-2h3o)
-- [What it&#39;s like to be a woman developer](https://dev.to/webdevqueen/what-its-like-to-be-a-woman-developer-4d0)
-- [JavaScript: JWT Token](https://dev.to/fatimaalam1234/javascript-cookies-jwt-token-25kf)
-- [My Wins of the Week! 🪄](https://dev.to/anitaolsen/my-wins-of-the-week-57hp)
+- [Version Control Best Practices with Git and GitHub](https://dev.to/haseebmirza/version-control-best-practices-with-git-and-github-364h)
+- [CVPR Pre-Show: Open3DSG: an Open-Vocabulary 3D Scene Graph Generation Method](https://dev.to/voxel51/unpublished-video-586k-4c4)
+- [Part 7: Connecting to a Database with Node.js](https://dev.to/dipakahirav/part-7-connecting-to-a-database-with-nodejs-4be1)
+- [Day 8: Angular Signals and Infinite Scrolling](https://dev.to/dipakahirav/day-8-angular-signals-and-infinite-scrolling-5e4f)
+- [3d rotating octahedron](https://dev.to/kemiowoyele1/3d-rotating-octahedron-hfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
