@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Data Generator: A Vital Tool in Software Development](https://dev.to/keploy/test-data-generator-a-vital-tool-in-software-development-205k)
-- [Exploring the New Features in TypeScript 5.5 Beta](https://dev.to/jenueldev/exploring-the-new-features-in-typescript-55-beta-cpi)
-- [Futuristic Worms Micelio](https://dev.to/kevgutierrez09_/futuristic-worms-micelio-112i)
-- [Animated Slider | Punishing Gray Graven #Team](https://dev.to/kevgutierrez09_/animated-slider-punishing-gray-graven-team-41ni)
-- [Mastering NextJS: Exploration of Its 12 Key Concepts](https://dev.to/vyan/mastering-nextjs-exploration-of-its-12-key-concepts-14e1)
+- [Top 10 App Stores with High Traffic for Publishing Your Apps | Google Play Store Alternatives](https://dev.to/sh20raj/top-10-app-stores-with-high-traffic-for-publishing-your-apps-google-play-store-alternatives-58k3)
+- [Angular 18 app | Zoneless All the way](https://dev.to/john_kirathe/angular-18-app-zoneless-all-the-way-2nbb)
+- [ACID Properties in Database transactions](https://dev.to/the_guy_richie/acid-properties-in-database-transactions-5n7)
+- [Which Technologies and Tools Are Used for Netflix Clone Development?](https://dev.to/dilshaddurani/which-technologies-and-tools-are-used-for-netflix-clone-development-256i)
+- [User Story EP3: How to Practice LeetCode Problems](https://dev.to/marscode/user-story-ep3-how-to-practice-leetcode-problems-5elj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
