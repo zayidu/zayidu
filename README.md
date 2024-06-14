@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Ethical Hacking with Kali Linux](https://dev.to/kartikmehta8/introduction-to-ethical-hacking-with-kali-linux-1fl4)
-- [BSides Knoxville 2024: A Community Celebrating A Decade of Cybersecurity](https://dev.to/gitguardian/bsides-knoxville-2024-a-community-celebrating-a-decade-of-cybersecurity-2mpf)
-- [Exploring ssh](https://dev.to/georg4313/exploring-ssh-20oj)
-- [gRPC Quick start - Coding with streams and bidirectional streaming](https://dev.to/andrefsilveira1/grpc-quick-start-coding-with-streams-and-bidirectional-streaming-4dkd)
-- [Computer Science Concept: Hash Function](https://dev.to/sweta_kangurisonulkar_/computer-science-concept-hash-function-gm5)
+- [Laravel 11.x Sanctum SPA authentication with Postman!](https://dev.to/prismlabsdev/laravel-11x-sanctum-spa-authentication-with-postman-3ji0)
+- [Breaking Out of Tutorial Hell](https://dev.to/kevin-jin/breaking-out-of-tutorial-hell-lgf)
+- [Why Relying on Manual Tolerance or Thresholding in Visual Testing Tools is a Bad Idea](https://dev.to/jackrover/why-relying-on-manual-tolerance-or-thresholding-in-visual-testing-tools-is-a-bad-idea-260i)
+- [Understanding API Keys, JWT, and Secure Authentication Methods](https://dev.to/mochafreddo/understanding-api-keys-jwt-and-secure-authentication-methods-11af)
+- [Mastering PostgreSQL JSONB type in one article](https://dev.to/logto/mastering-postgresql-jsonb-type-in-one-article-a45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
