@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 App Stores with High Traffic for Publishing Your Apps | Google Play Store Alternatives](https://dev.to/sh20raj/top-10-app-stores-with-high-traffic-for-publishing-your-apps-google-play-store-alternatives-58k3)
-- [Angular 18 app | Zoneless All the way](https://dev.to/john_kirathe/angular-18-app-zoneless-all-the-way-2nbb)
-- [ACID Properties in Database transactions](https://dev.to/the_guy_richie/acid-properties-in-database-transactions-5n7)
-- [Which Technologies and Tools Are Used for Netflix Clone Development?](https://dev.to/dilshaddurani/which-technologies-and-tools-are-used-for-netflix-clone-development-256i)
-- [User Story EP3: How to Practice LeetCode Problems](https://dev.to/marscode/user-story-ep3-how-to-practice-leetcode-problems-5elj)
+- [INTERVIEW Question : Local Storage - Access between Tabs](https://dev.to/zeeshanali0704/interview-question-local-storage-access-between-tabs-5aol)
+- [Mon aventure en tant que stagiaire chez Kali Academy : Une immersion dans l&#39;open source](https://dev.to/land-bit/mon-aventure-en-tant-que-stagiaire-chez-kali-academy-une-immersion-dans-lopen-source-1an)
+- [Copy Javascript Object from Safari Browser Console](https://dev.to/dinesh_d/copy-javascript-object-from-safari-browser-console-4kfl)
+- [Why iOS beta versions don&#39;t belong on everyday devices](https://dev.to/disane/why-ios-beta-versions-dont-belong-on-everyday-devices-1blc)
+- [Warum iOS-Beta Versionen nicht auf alltägliche Geräte gehören](https://dev.to/disane/warum-ios-beta-versionen-nicht-auf-alltagliche-gerate-gehoren-3h4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
