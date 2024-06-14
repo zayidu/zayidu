@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Deutsche Telekom MMS optimizes Ansible Playbooks with Steampunk Spotter](https://dev.to/xlab_steampunk/how-deutsche-telekom-mms-optimizes-ansible-playbooks-with-steampunk-spotter-n26)
-- [12 Best Google Play Store Alternatives in 2024](https://dev.to/sh20raj/12-best-google-play-store-alternatives-in-2024-5chi)
-- [How to Deploy an Express.js App on GitHub Pages Using GitHub Actions](https://dev.to/sh20raj/how-to-deploy-an-expressjs-app-on-github-pages-using-github-actions-4h0f)
-- [TOP 8 Best Gantt Chart Frameworks for Project Management](https://dev.to/lenormor/top-8-best-gantt-chart-frameworks-for-project-management-5fp8)
-- [Case Study: Replacing Text](https://dev.to/paulike/case-study-replacing-text-f0p)
+- [OPAL Fetcher using GraphQL and Neon](https://dev.to/nithamitabh/opal-fetcher-using-graphql-and-neon-394b)
+- [5 Unique Features that Put Goleko Ahead of the Game](https://dev.to/odhiambo_ouko/5-unique-features-that-put-goleko-ahead-of-the-game-3o0d)
+- [What is Microservices Architecture? Examples, Challenges, Benefits and Best Practices](https://dev.to/hyscaler/what-is-microservices-architecture-examples-challenges-benefits-and-best-practices-10be)
+- [Nodemon is not for production!](https://dev.to/kameshoff/nodemon-is-not-for-production-3mdj)
+- [Introduction to MongoDB Queries](https://dev.to/saumya27/introduction-to-mongodb-queries-3a8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
