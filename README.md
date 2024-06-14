@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Un buen libro para aprender y educar en programación](https://dev.to/chema/un-buen-libro-para-aprender-y-educar-en-programacion-20li)
-- [Benefits of Having a High Google Page Ranking](https://dev.to/juddiy/benefits-of-having-a-high-google-page-ranking-1g1j)
-- [Steps to create Azure Virtual Machine](https://dev.to/ikay/steps-to-create-azure-virtual-machine-5a74)
-- [Unveiling URI, URL, and URN](https://dev.to/logto/unveiling-uri-url-and-urn-12b6)
-- [Ready, Set, LAUNCH!! How to Launch and Connect to an AWS EC2 Instance.](https://dev.to/techgirlkaydee/ready-set-launch-how-to-launch-and-connect-to-an-aws-ec2-instance-1jbj)
+- [O que é um mapeamento de estoque?](https://dev.to/marlonjerold/o-que-e-um-mapeamento-de-estoque-1kmn)
+- [How to connect MySQL using SQLynx](https://dev.to/concerate/how-to-connect-mysql-using-sqlynx-50g3)
+- [Compilado dicas de carreira - parte 3](https://dev.to/hugaomarques/compilado-dicas-de-carreira-parte-3-4fd6)
+- [Mastering Custom Hooks in React: A Comprehensive Guide](https://dev.to/hasancse/mastering-custom-hooks-in-react-a-comprehensive-guide-1bfb)
+- [Building Infrastructure as Code: Unlocking the Power of AWS CloudFormation](https://dev.to/virajlakshitha/building-infrastructure-as-code-unlocking-the-power-of-aws-cloudformation-3273)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
