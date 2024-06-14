@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 971 : The Upgrade](https://dev.to/dwane/day-971-the-upgrade-5212)
-- [Unique combinations of a string](https://dev.to/johnscode/unique-combinations-of-a-string-ekj)
-- [Security news weekly round-up - 14th June 2024](https://dev.to/ziizium/security-news-weekly-round-up-14th-june-2024-8ac)
-- [Playwright with Python - A Quick Guide](https://dev.to/lrenzi/playwright-with-python-a-quick-guide-356p)
-- [Automate NSE Stock Prices in Google Sheets with Ease!](https://dev.to/vikranth3140/automate-nse-stock-prices-in-google-sheets-with-ease-3mop)
+- [Improving coding skills with games! 🎮](https://dev.to/buildwebcrumbs/improving-coding-skills-with-games-aco)
+- [SUR LE CHEMIN DU HACKING ! Kali Academy, trois mois d’initiation 👺](https://dev.to/tacite243/sur-le-chemin-du-hacking-kali-academy-trois-mois-dinitiation-1k9m)
+- [Computer Science Challenge: Algorithm](https://dev.to/izuchi/computer-science-challenge-algorithm-2dl)
+- [Afinal, o que são os 0&#39;s e 1&#39;s?](https://dev.to/xornotor/afinal-o-que-sao-os-0s-e-1s-3jdb)
+- [Create A Vim Plugin For Your Next Programming Language, Structure, and syntax highlight.](https://dev.to/ezpzdevelopement/create-a-vim-plugin-for-your-next-programming-language-structure-and-syntax-highlight-4gd1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
