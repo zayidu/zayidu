@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Scope to get locations nearest the user location](https://dev.to/johndivam/laravel-scope-to-get-locations-nearest-the-user-location-2fk5)
-- [Azure Virtual Machine &lpar;VM&rpar; and It&#39;s Deployment](https://dev.to/franklin_onuegbu/azure-virtual-machine-vm-and-its-deployment-3ikh)
-- [945. Minimum Increment to Make Array Unique](https://dev.to/mdarifulhaque/945-minimum-increment-to-make-array-unique-4am8)
-- [Exploring Microsoft Azure AI Capabilities Using React, Github Actions, Azure Static Apps and Azure AI](https://dev.to/yutee_okon/exploring-microsoft-azure-ai-capabilities-using-react-github-actions-azure-static-apps-and-azure-ai-4d8g)
-- [First program/CCademy/CS101](https://dev.to/murphea/first-programccademycs101-2pj4)
+- [Litlyx | The One-Line Code Analytics | Plug anywhere!](https://dev.to/litlyx/litlyx-the-one-line-code-analytics-plug-anywhere-e6h)
+- [Sending GitHub Secrets to Docker Apps on VMs Using adnanh/webhooks](https://dev.to/burgossrodrigo/sending-github-secrets-to-docker-apps-on-vms-using-adnanhwebhooks-1jdo)
+- [Como fui aprovada em Duas Iniciações Cientificas: Uma Com Bolsa e Outra Voluntária](https://dev.to/ianevictoria/como-fui-aprovada-em-duas-iniciacoes-cientificas-uma-com-bolsa-e-outra-voluntaria-1pf1)
+- [P vs NP Problem](https://dev.to/syedmuhammadaliraza/p-vs-np-problem-4hai)
+- [How I Developed a Classic Snake Game Using Python and Pygame](https://dev.to/codecounsel/how-i-developed-a-classic-snake-game-using-python-and-pygame-3ll3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
