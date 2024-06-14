@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Version Control Best Practices with Git and GitHub](https://dev.to/haseebmirza/version-control-best-practices-with-git-and-github-364h)
-- [CVPR Pre-Show: Open3DSG: an Open-Vocabulary 3D Scene Graph Generation Method](https://dev.to/voxel51/unpublished-video-586k-4c4)
-- [Part 7: Connecting to a Database with Node.js](https://dev.to/dipakahirav/part-7-connecting-to-a-database-with-nodejs-4be1)
-- [Day 8: Angular Signals and Infinite Scrolling](https://dev.to/dipakahirav/day-8-angular-signals-and-infinite-scrolling-5e4f)
-- [3d rotating octahedron](https://dev.to/kemiowoyele1/3d-rotating-octahedron-hfd)
+- [Introduction to HTML: The Backbone of the Web by Michael Savage](https://dev.to/savagenewcanaan/introduction-to-html-the-backbone-of-the-web-48m)
+- [Rapport de Stage chez Kali Academy](https://dev.to/cub_ger24/rapport-de-stage-chez-kali-academy-2gn4)
+- [What are props in ReactJs?](https://dev.to/mojahidulislam11/what-are-props-in-reactjs-3d0a)
+- [Use Kafka in your Web Api](https://dev.to/vzldev/use-kafka-in-your-web-api-38ha)
+- [Creative CSS Border](https://dev.to/kemiowoyele1/creative-css-border-1cme)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
