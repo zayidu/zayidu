@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyclic has shut down and I am migrating my data to another service](https://dev.to/devlawrence/cyclic-has-shut-down-and-i-am-migrating-my-data-to-another-service-4nj6)
-- [Docker + MariaDB](https://dev.to/thiagoeti/docker-mariadb-4n2c)
-- [Understanding the differences between micro-service and monolithic architecture.](https://dev.to/xcoder03/understanding-the-differences-between-micro-service-and-monolithic-architecture-14dc)
-- [📚 How to Handle Multiple MSW Handlers in Storybook Stories](https://dev.to/enszrlu/how-to-handle-multiple-msw-handlers-in-storybook-stories-2mo2)
-- [Day 970 : Chosen](https://dev.to/dwane/day-970-chosen-1ek3)
+- [Introduction to Ethical Hacking with Kali Linux](https://dev.to/kartikmehta8/introduction-to-ethical-hacking-with-kali-linux-1fl4)
+- [BSides Knoxville 2024: A Community Celebrating A Decade of Cybersecurity](https://dev.to/gitguardian/bsides-knoxville-2024-a-community-celebrating-a-decade-of-cybersecurity-2mpf)
+- [Exploring ssh](https://dev.to/georg4313/exploring-ssh-20oj)
+- [gRPC Quick start - Coding with streams and bidirectional streaming](https://dev.to/andrefsilveira1/grpc-quick-start-coding-with-streams-and-bidirectional-streaming-4dkd)
+- [Computer Science Concept: Hash Function](https://dev.to/sweta_kangurisonulkar_/computer-science-concept-hash-function-gm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
