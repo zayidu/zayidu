@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OPAL Fetcher using GraphQL and Neon](https://dev.to/nithamitabh/opal-fetcher-using-graphql-and-neon-394b)
-- [5 Unique Features that Put Goleko Ahead of the Game](https://dev.to/odhiambo_ouko/5-unique-features-that-put-goleko-ahead-of-the-game-3o0d)
-- [What is Microservices Architecture? Examples, Challenges, Benefits and Best Practices](https://dev.to/hyscaler/what-is-microservices-architecture-examples-challenges-benefits-and-best-practices-10be)
-- [Nodemon is not for production!](https://dev.to/kameshoff/nodemon-is-not-for-production-3mdj)
-- [Introduction to MongoDB Queries](https://dev.to/saumya27/introduction-to-mongodb-queries-3a8h)
+- [Como recuperar arquivos perdidos no Git utilizando o VSCode](https://dev.to/codigoaoponto/como-recuperar-arquivos-perdidos-no-git-utilizando-o-vscode-2ec3)
+- [Building a Cloud-Native Spreadsheet Copilot with Winglang and LangChain](https://dev.to/winglang/building-a-cloud-native-spreadsheet-copilot-with-winglang-and-langchain-68h)
+- [Remote Startup Chaos: Do This and Thrive](https://dev.to/opensourceyllen/remote-startup-chaos-do-this-and-thrive-23j3)
+- [STEP BY STEP ON HOW TO DEPLOY AND CONNECT A VIRTUAL MACHINE ON AZURE CLOUD.](https://dev.to/phillip_ajifowobaje_68724/step-by-step-on-how-to-deploy-and-connect-a-virtual-machine-on-azure-cloud-44oe)
+- [Automating the Building of VMs with Packer](https://dev.to/krjakbrjak/automating-the-building-of-vms-with-packer-420)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
