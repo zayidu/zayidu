@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to HTML: The Backbone of the Web by Michael Savage](https://dev.to/savagenewcanaan/introduction-to-html-the-backbone-of-the-web-48m)
-- [Rapport de Stage chez Kali Academy](https://dev.to/cub_ger24/rapport-de-stage-chez-kali-academy-2gn4)
-- [What are props in ReactJs?](https://dev.to/mojahidulislam11/what-are-props-in-reactjs-3d0a)
-- [Use Kafka in your Web Api](https://dev.to/vzldev/use-kafka-in-your-web-api-38ha)
-- [Creative CSS Border](https://dev.to/kemiowoyele1/creative-css-border-1cme)
+- [How Internet Search Works](https://dev.to/jay818/how-internet-search-works-5fma)
+- [Exploring Common JavaScript Methods](https://dev.to/jlotti2/exploring-common-javascript-methods-35np)
+- [Step by Step Guide to Create Deploy and Connect to a Virtual Machine on Azure](https://dev.to/florence_8042063da11e29d1/step-by-step-guide-to-create-deploy-and-connect-to-a-virtual-machine-on-azure-1b00)
+- [Eclipse Shortcuts for Java Developers](https://dev.to/marudhu99/eclipse-shortcuts-for-java-developers-1la5)
+- [Requestly Update – May, 2024](https://dev.to/requestlyio/requestly-update-may-2024-3160)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
