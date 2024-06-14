@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como recuperar arquivos perdidos no Git utilizando o VSCode](https://dev.to/codigoaoponto/como-recuperar-arquivos-perdidos-no-git-utilizando-o-vscode-2ec3)
-- [Building a Cloud-Native Spreadsheet Copilot with Winglang and LangChain](https://dev.to/winglang/building-a-cloud-native-spreadsheet-copilot-with-winglang-and-langchain-68h)
-- [Remote Startup Chaos: Do This and Thrive](https://dev.to/opensourceyllen/remote-startup-chaos-do-this-and-thrive-23j3)
-- [STEP BY STEP ON HOW TO DEPLOY AND CONNECT A VIRTUAL MACHINE ON AZURE CLOUD.](https://dev.to/phillip_ajifowobaje_68724/step-by-step-on-how-to-deploy-and-connect-a-virtual-machine-on-azure-cloud-44oe)
-- [Automating the Building of VMs with Packer](https://dev.to/krjakbrjak/automating-the-building-of-vms-with-packer-420)
+- [NumPy&#39;s Argmax? How it Finds Max Elements from Arrays](https://dev.to/sachingeek/numpys-argmax-how-it-finds-max-elements-from-arrays-3d70)
+- [Updates from the 102nd TC39 meeting](https://dev.to/hemanth/updates-from-the-102nd-tc39-meeting-i4i)
+- [Generate a SSL with certbot on digitalocean droplet](https://dev.to/sokngoun/generate-a-ssl-with-certbot-on-digitalocean-droplet-2h5f)
+- [Securely Importing Customer Data to Your Azure SaaS Product](https://dev.to/vaibhavi_shah/securely-importing-customer-data-to-your-azure-saas-product-444c)
+- [Modifique qualquer tema no VSCode](https://dev.to/maiquitome/modifique-qualquer-tema-no-vscode-3fch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
