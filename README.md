@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [O que é um mapeamento de estoque?](https://dev.to/marlonjerold/o-que-e-um-mapeamento-de-estoque-1kmn)
-- [How to connect MySQL using SQLynx](https://dev.to/concerate/how-to-connect-mysql-using-sqlynx-50g3)
-- [Compilado dicas de carreira - parte 3](https://dev.to/hugaomarques/compilado-dicas-de-carreira-parte-3-4fd6)
-- [Mastering Custom Hooks in React: A Comprehensive Guide](https://dev.to/hasancse/mastering-custom-hooks-in-react-a-comprehensive-guide-1bfb)
-- [Building Infrastructure as Code: Unlocking the Power of AWS CloudFormation](https://dev.to/virajlakshitha/building-infrastructure-as-code-unlocking-the-power-of-aws-cloudformation-3273)
+- [Test Data Generator: A Vital Tool in Software Development](https://dev.to/keploy/test-data-generator-a-vital-tool-in-software-development-205k)
+- [Exploring the New Features in TypeScript 5.5 Beta](https://dev.to/jenueldev/exploring-the-new-features-in-typescript-55-beta-cpi)
+- [Futuristic Worms Micelio](https://dev.to/kevgutierrez09_/futuristic-worms-micelio-112i)
+- [Animated Slider | Punishing Gray Graven #Team](https://dev.to/kevgutierrez09_/animated-slider-punishing-gray-graven-team-41ni)
+- [Mastering NextJS: Exploration of Its 12 Key Concepts](https://dev.to/vyan/mastering-nextjs-exploration-of-its-12-key-concepts-14e1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
