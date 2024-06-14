@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ReactJS vs NextJS: A Comprehensive Comparison for JavaScript Enthusiasts.🚀](https://dev.to/dharamgfx/reactjs-vs-nextjs-a-comprehensive-comparison-for-javascript-enthusiasts-18o)
-- [How to delete the content of the selected cell using hotkeys in VTable?](https://dev.to/fangsmile/how-to-delete-the-content-of-the-selected-cell-using-hotkeys-in-vtable-4p0)
-- [The File Class](https://dev.to/paulike/the-file-class-f7h)
-- [Hey there Folks - It&#39;s my First Post !](https://dev.to/tonic/hey-there-folks-its-my-first-post--52k)
-- [Liman Uygulama İzleme Eklentisi Kurulumu](https://dev.to/aciklab/liman-uygulama-izleme-eklentisi-kurulumu-2ji4)
+- [How Deutsche Telekom MMS optimizes Ansible Playbooks with Steampunk Spotter](https://dev.to/xlab_steampunk/how-deutsche-telekom-mms-optimizes-ansible-playbooks-with-steampunk-spotter-n26)
+- [12 Best Google Play Store Alternatives in 2024](https://dev.to/sh20raj/12-best-google-play-store-alternatives-in-2024-5chi)
+- [How to Deploy an Express.js App on GitHub Pages Using GitHub Actions](https://dev.to/sh20raj/how-to-deploy-an-expressjs-app-on-github-pages-using-github-actions-4h0f)
+- [TOP 8 Best Gantt Chart Frameworks for Project Management](https://dev.to/lenormor/top-8-best-gantt-chart-frameworks-for-project-management-5fp8)
+- [Case Study: Replacing Text](https://dev.to/paulike/case-study-replacing-text-f0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
