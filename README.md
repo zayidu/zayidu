@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NumPy&#39;s Argmax? How it Finds Max Elements from Arrays](https://dev.to/sachingeek/numpys-argmax-how-it-finds-max-elements-from-arrays-3d70)
-- [Updates from the 102nd TC39 meeting](https://dev.to/hemanth/updates-from-the-102nd-tc39-meeting-i4i)
-- [Generate a SSL with certbot on digitalocean droplet](https://dev.to/sokngoun/generate-a-ssl-with-certbot-on-digitalocean-droplet-2h5f)
-- [Securely Importing Customer Data to Your Azure SaaS Product](https://dev.to/vaibhavi_shah/securely-importing-customer-data-to-your-azure-saas-product-444c)
-- [Modifique qualquer tema no VSCode](https://dev.to/maiquitome/modifique-qualquer-tema-no-vscode-3fch)
+- [Linux and Git-GitHub Cheat Sheet](https://dev.to/oncloud7/linux-and-git-github-cheat-sheet-i93)
+- [HTML TAGS](https://dev.to/michweb/html-tags-2h3o)
+- [What it&#39;s like to be a woman developer](https://dev.to/webdevqueen/what-its-like-to-be-a-woman-developer-4d0)
+- [JavaScript: JWT Token](https://dev.to/fatimaalam1234/javascript-cookies-jwt-token-25kf)
+- [My Wins of the Week! 🪄](https://dev.to/anitaolsen/my-wins-of-the-week-57hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
