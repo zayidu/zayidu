@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Un buen libro para aprender y educar en programación](https://dev.to/chema/un-buen-libro-para-aprender-y-educar-en-programacion-20li)
+- [Benefits of Having a High Google Page Ranking](https://dev.to/juddiy/benefits-of-having-a-high-google-page-ranking-1g1j)
+- [Steps to create Azure Virtual Machine](https://dev.to/ikay/steps-to-create-azure-virtual-machine-5a74)
 - [Unveiling URI, URL, and URN](https://dev.to/logto/unveiling-uri-url-and-urn-12b6)
 - [Ready, Set, LAUNCH!! How to Launch and Connect to an AWS EC2 Instance.](https://dev.to/techgirlkaydee/ready-set-launch-how-to-launch-and-connect-to-an-aws-ec2-instance-1jbj)
-- [Laravel 11.x Sanctum SPA authentication with Postman!](https://dev.to/prismlabsdev/laravel-11x-sanctum-spa-authentication-with-postman-3ji0)
-- [Breaking Out of Tutorial Hell](https://dev.to/kevin-jin/breaking-out-of-tutorial-hell-lgf)
-- [Why Relying on Manual Tolerance or Thresholding in Visual Testing Tools is a Bad Idea](https://dev.to/jackrover/why-relying-on-manual-tolerance-or-thresholding-in-visual-testing-tools-is-a-bad-idea-260i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
