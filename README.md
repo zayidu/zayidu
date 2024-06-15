@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving coding skills with games! 🎮](https://dev.to/buildwebcrumbs/improving-coding-skills-with-games-aco)
-- [SUR LE CHEMIN DU HACKING ! Kali Academy, trois mois d’initiation 👺](https://dev.to/tacite243/sur-le-chemin-du-hacking-kali-academy-trois-mois-dinitiation-1k9m)
-- [Computer Science Challenge: Algorithm](https://dev.to/izuchi/computer-science-challenge-algorithm-2dl)
-- [Afinal, o que são os 0&#39;s e 1&#39;s?](https://dev.to/xornotor/afinal-o-que-sao-os-0s-e-1s-3jdb)
-- [Create A Vim Plugin For Your Next Programming Language, Structure, and syntax highlight.](https://dev.to/ezpzdevelopement/create-a-vim-plugin-for-your-next-programming-language-structure-and-syntax-highlight-4gd1)
+- [Idempotência: Conceito e Aplicação na Garantia da Qualidade de Softwar](https://dev.to/yuri-aprendendoqa/idempotencia-conceito-e-aplicacao-na-garantia-da-qualidade-de-softwar-1gic)
+- [Developing Cloud-Based Applications with Azure](https://dev.to/kartikmehta8/developing-cloud-based-applications-with-azure-2kfh)
+- [[Game of Purpose] Day 27](https://dev.to/humberd/game-of-purpose-day-27-1i9p)
+- [Unleashing Reactive Programming: Boosting Responsiveness, Resilience, and Scalability](https://dev.to/tutorialq/unleashing-reactive-programming-boosting-responsiveness-resilience-and-scalability-503)
+- [GitHub Copilot asking multiple questions](https://dev.to/karenpayneoregon/github-copilot-asking-multiple-questions-54de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
