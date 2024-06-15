@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Fundamentals: Understanding Microsoft&#39;s Cloud Platform](https://dev.to/prakash_rao/azure-fundamentals-understanding-microsofts-cloud-platform-86o)
-- [502. IPO](https://dev.to/mdarifulhaque/502-ipo-295e)
-- [Must-Have Software for macOS Developers in 2024](https://dev.to/lunamiller/must-have-software-for-macos-developers-in-2024-3885)
-- [Types of Scopes in javascript](https://dev.to/kiransm/types-of-scopes-in-javascript-4lm3)
-- [SpringAI, llama3 and pgvector: bRAGging rights!](https://dev.to/mcadariu/springai-llama3-and-pgvector-bragging-rights-2n8o)
+- [ZGC Major Collection &lpar;Proactive&rpar; 日志详解](https://dev.to/truman_999999999/zgc-major-collection-proactive-ri-zhi-xiang-jie-453g)
+- [New Linux distro: PyTermOS](https://dev.to/markdev/new-linux-distro-pytermos-2h3p)
+- [Moving Beyond Prediction into the Realm of Trading Strategy and Simulation](https://dev.to/annaliesetech/moving-beyond-prediction-into-the-realm-of-trading-strategy-and-simulation-3mk1)
+- [How to Integrate Cloudinary with TinyMCE for Image Uploads](https://dev.to/joshydev/how-to-integrate-cloudinary-with-tinymce-for-image-uploads-fm9)
+- [Building Command Line Interface &lpar;CLI&rpar; Tools with Node.js](https://dev.to/sojida/building-command-line-interface-cli-tools-with-nodejs-4mob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
