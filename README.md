@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Resource Preloading in HTML | One Byte Explainer](https://dev.to/everlygif/resource-preloading-in-html-one-byte-explainer-25pl)
-- [JavaScript: CallBack Hell](https://dev.to/fatimaalam1234/javascript-callback-hell-1a1f)
-- [Made a simple Tic-Tac-Toe game](https://dev.to/zoobob5/made-a-simple-tic-tac-toe-game-4of0)
-- [AI-Powered Landing Pages: The Future of SaaS Marketing](https://dev.to/gptconsole/ai-powered-landing-pages-the-future-of-saas-marketing-46h)
-- [Optimizing Cloud Performance: Monitoring and Observability in the AWS Cloud](https://dev.to/kelvinskell/optimizing-cloud-performance-monitoring-and-observability-in-the-aws-cloud-3pe0)
+- [Left-aligned headings in the hero section are the best](https://dev.to/meschacirung/left-aligned-headings-in-the-hero-section-are-the-best-5fn8)
+- [React Reconciliation is a Shit](https://dev.to/ashsajal/react-reconciliation-is-a-shit-16g1)
+- [MacroPilot: Piloting Tasks with Automated Macros](https://dev.to/shiahalan/macropilot-piloting-tasks-with-automated-macros-24m4)
+- [Top GitHub Alternatives for Developers and Teams](https://dev.to/sh20raj/top-github-alternatives-for-developers-and-teams-197i)
+- [Kafka vs SQS: A Comprehensive Comparison](https://dev.to/vipratechsolutions/kafka-vs-sqs-a-comprehensive-comparison-5fj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
