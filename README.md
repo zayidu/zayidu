@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing an Optimal Database Schema for a Followers-Following System in a Blog-Post App](https://dev.to/zobaidulkazi/designing-an-optimal-database-schema-for-a-followers-following-system-in-a-blog-post-app-fj4)
+- [Proposal - Blockchain Coordination](https://dev.to/nkianil/proposal-blockchain-coordination-5793)
+- [How to Create a Library Package from an existing Angular App](https://dev.to/jcarloscandela/how-to-create-a-library-package-from-an-existing-angular-app-using-ng-packagr-3b62)
+- [Vue.js Loyihamizning tuzilmasi haqida.](https://dev.to/mukhriddinweb/vuejs-loyihamizning-tuzilmasi-haqida-3cek)
 - [BharatGPT: The Next Generation AI Language Model](https://dev.to/nashetking/bharatgpt-the-next-generation-ai-language-model-296c)
-- [Creating a RESTful API with Flight Framework](https://dev.to/n0nag0n/creating-a-restful-api-with-flight-framework-56lj)
-- [Iterating Data Structures in JavaScript](https://dev.to/masonbarnes645/iterating-data-structures-in-javascript-o26)
-- [Generate Tailwind components with AI](https://dev.to/elreco_/generate-tailwind-components-with-ai-n79)
-- [Vite orqali Vue loyiha qurish.](https://dev.to/mukhriddinweb/vite-orqali-vue-loyiha-qurish-21ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
