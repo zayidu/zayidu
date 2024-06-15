@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🐣 Assignment Expressions &lpar;The Walrus Operator&rpar; in Python](https://dev.to/talaatmagdy/assignment-expressions-the-walrus-operator-in-python-1m2d)
+- [1-Introdução](https://dev.to/devsjavagirls/1-introducao-2cpf)
+- [Running DeepCell on Google Batch with node pools](https://dev.to/dchaley/running-deepcell-on-google-batch-with-node-pools-3hfd)
+- [Virtualization &amp; Containerization with Docker.](https://dev.to/michellebuchiokonicha/virtualization-containerization-with-docker-storage-and-network-services-2bjf)
 - [Idempotência: Conceito e Aplicação na Garantia da Qualidade de Softwar](https://dev.to/yuri-aprendendoqa/idempotencia-conceito-e-aplicacao-na-garantia-da-qualidade-de-softwar-1gic)
-- [Developing Cloud-Based Applications with Azure](https://dev.to/kartikmehta8/developing-cloud-based-applications-with-azure-2kfh)
-- [[Game of Purpose] Day 27](https://dev.to/humberd/game-of-purpose-day-27-1i9p)
-- [Unleashing Reactive Programming: Boosting Responsiveness, Resilience, and Scalability](https://dev.to/tutorialq/unleashing-reactive-programming-boosting-responsiveness-resilience-and-scalability-503)
-- [GitHub Copilot asking multiple questions](https://dev.to/karenpayneoregon/github-copilot-asking-multiple-questions-54de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
