@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Custom Attributes in C#](https://dev.to/antonmartyniuk/creating-custom-attributes-in-c-4k56)
+- [Poly repo support for Dotnet Aspire](https://dev.to/olivierus/poly-repo-support-for-dotnet-aspire-14d5)
+- [Tecnologia: a desunião entre a academia e o mercado de trabalho privado](https://dev.to/lexipedia/tecnologia-a-desuniao-entre-a-academia-e-o-mercado-de-trabalho-privado-33f7)
+- [How to Move Zeros to the End of an Array](https://dev.to/masum-dev/how-to-move-zeros-to-the-end-of-an-array-5ea3)
 - [Using lerp and damp in javascript](https://dev.to/iliketoplay/using-lerp-and-damp-in-javascript-3f7p)
-- [Shades of Open Source - Understanding The Many Meanings of &quot;Open&quot;](https://dev.to/alexmercedcoder/shades-of-open-source-understanding-the-many-meanings-of-open-35je)
-- [Nega aynan Vue.js ?](https://dev.to/mystery9807/nega-aynan-vuejs--3cf5)
-- [One Byte Explainer - Closures](https://dev.to/imkarthikeyan/one-byte-explainer-closures-o84)
-- [Step-by-Step Guide to Publish Internal SaaS Applications via Citrix Secure Private Access](https://dev.to/amalkabraham001/step-by-step-guide-to-publish-internal-saas-applications-via-citrix-secure-private-access-17k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
