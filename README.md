@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Custom Attributes in C#](https://dev.to/antonmartyniuk/creating-custom-attributes-in-c-4k56)
-- [Poly repo support for Dotnet Aspire](https://dev.to/olivierus/poly-repo-support-for-dotnet-aspire-14d5)
-- [Tecnologia: a desunião entre a academia e o mercado de trabalho privado](https://dev.to/lexipedia/tecnologia-a-desuniao-entre-a-academia-e-o-mercado-de-trabalho-privado-33f7)
-- [How to Move Zeros to the End of an Array](https://dev.to/masum-dev/how-to-move-zeros-to-the-end-of-an-array-5ea3)
-- [Using lerp and damp in javascript](https://dev.to/iliketoplay/using-lerp-and-damp-in-javascript-3f7p)
+- [BharatGPT: The Next Generation AI Language Model](https://dev.to/nashetking/bharatgpt-the-next-generation-ai-language-model-296c)
+- [Creating a RESTful API with Flight Framework](https://dev.to/n0nag0n/creating-a-restful-api-with-flight-framework-56lj)
+- [Iterating Data Structures in JavaScript](https://dev.to/masonbarnes645/iterating-data-structures-in-javascript-o26)
+- [Generate Tailwind components with AI](https://dev.to/elreco_/generate-tailwind-components-with-ai-n79)
+- [Vite orqali Vue loyiha qurish.](https://dev.to/mukhriddinweb/vite-orqali-vue-loyiha-qurish-21ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
