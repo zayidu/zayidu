@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Cognito Inception: How to add Cognito as OIDC Identity Provider in Cognito](https://dev.to/aws-builders/cognito-inception-how-to-add-cognito-as-oidc-identity-provider-in-cognito-1bk1)
+- [Difference between XHTML and HTML](https://dev.to/wasifali/difference-between-xhtml-and-html-2gm4)
 - [Unlocking Opportunities: The Microsoft Learn Student Ambassadors Program 2024](https://dev.to/safi-ullah/unlocking-opportunities-the-microsoft-learn-student-ambassadors-program-2024-2cnm)
 - [Introduction to Nodejs](https://dev.to/sojida/introduction-to-nodejs-4ne8)
-- [Meet Kazi Byte Your Partner in Digital Innovation](https://dev.to/zobaidulkazi/meet-kazi-byte-your-partner-in-digital-innovation-3m8c)
-- [Comprehensive Guide to Logging in Node.js](https://dev.to/sojida/comprehensive-guide-to-logging-in-nodejs-23m7)
-- [Creative HTML Cards | Style 2](https://dev.to/creative_salahu/creative-html-cards-style-2-229p)
+- [Introduction to Docker: Revolutionizing Software Deployment](https://dev.to/sojida/introduction-to-docker-revolutionizing-software-deployment-2nap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
