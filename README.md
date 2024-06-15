@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Information Overload: A Beginner&#39;s Guide to Starting Your Cloud Engineering Journey](https://dev.to/ikoh_sylva/navigating-information-overload-a-beginners-guide-to-starting-your-cloud-engineering-journey-46hb)
-- [Exploring ORM - Object Relational Mapping](https://dev.to/sashafbrockman/exploring-orm-object-relational-mapping-51lm)
-- [Creative HTML Coming Soon Template | Theme 1](https://dev.to/creative_salahu/creative-html-coming-soon-template-theme-1-4aln)
-- [Python in the Browser, Fetching JSON from an AWS S3 bucket into a Bokeh Line Chart, a Serverless solution](https://dev.to/rickdelpo1/python-in-the-browser-fetching-json-from-an-aws-s3-bucket-a-serverless-solution-55hg)
-- [Go is a platform](https://dev.to/eminetto/go-is-a-platform-2562)
+- [How to Improve User Experience with Image Previews: A Step-by-Step Guide](https://dev.to/dk119819/how-to-improve-user-experience-with-image-previews-a-step-by-step-guide-1p87)
+- [An interesting promise use case | Handling user interactions](https://dev.to/vishalgaurav/an-interesting-promise-use-case-handling-user-interactions-1f1g)
+- [What is low Latency?](https://dev.to/alakkadshaw/what-is-low-latency-355g)
+- [What programming language should you choose](https://dev.to/henriqueleite42/what-programming-language-should-you-choose-4ed2)
+- [React useRef is easy!](https://dev.to/justanordinaryperson/react-useref-is-easy-4bj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
