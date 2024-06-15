@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Improve User Experience with Image Previews: A Step-by-Step Guide](https://dev.to/dk119819/how-to-improve-user-experience-with-image-previews-a-step-by-step-guide-1p87)
-- [An interesting promise use case | Handling user interactions](https://dev.to/vishalgaurav/an-interesting-promise-use-case-handling-user-interactions-1f1g)
-- [What is low Latency?](https://dev.to/alakkadshaw/what-is-low-latency-355g)
-- [What programming language should you choose](https://dev.to/henriqueleite42/what-programming-language-should-you-choose-4ed2)
-- [React useRef is easy!](https://dev.to/justanordinaryperson/react-useref-is-easy-4bj2)
+- [Azure Fundamentals: Understanding Microsoft&#39;s Cloud Platform](https://dev.to/prakash_rao/azure-fundamentals-understanding-microsofts-cloud-platform-86o)
+- [502. IPO](https://dev.to/mdarifulhaque/502-ipo-295e)
+- [Must-Have Software for macOS Developers in 2024](https://dev.to/lunamiller/must-have-software-for-macos-developers-in-2024-3885)
+- [Types of Scopes in javascript](https://dev.to/kiransm/types-of-scopes-in-javascript-4lm3)
+- [SpringAI, llama3 and pgvector: bRAGging rights!](https://dev.to/mcadariu/springai-llama3-and-pgvector-bragging-rights-2n8o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
