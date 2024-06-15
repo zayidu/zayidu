@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Left-aligned headings in the hero section are the best](https://dev.to/meschacirung/left-aligned-headings-in-the-hero-section-are-the-best-5fn8)
-- [React Reconciliation is a Shit](https://dev.to/ashsajal/react-reconciliation-is-a-shit-16g1)
-- [MacroPilot: Piloting Tasks with Automated Macros](https://dev.to/shiahalan/macropilot-piloting-tasks-with-automated-macros-24m4)
-- [Top GitHub Alternatives for Developers and Teams](https://dev.to/sh20raj/top-github-alternatives-for-developers-and-teams-197i)
-- [Kafka vs SQS: A Comprehensive Comparison](https://dev.to/vipratechsolutions/kafka-vs-sqs-a-comprehensive-comparison-5fj8)
+- [Unlocking Opportunities: The Microsoft Learn Student Ambassadors Program 2024](https://dev.to/safi-ullah/unlocking-opportunities-the-microsoft-learn-student-ambassadors-program-2024-2cnm)
+- [Introduction to Nodejs](https://dev.to/sojida/introduction-to-nodejs-4ne8)
+- [Meet Kazi Byte Your Partner in Digital Innovation](https://dev.to/zobaidulkazi/meet-kazi-byte-your-partner-in-digital-innovation-3m8c)
+- [Comprehensive Guide to Logging in Node.js](https://dev.to/sojida/comprehensive-guide-to-logging-in-nodejs-23m7)
+- [Creative HTML Cards | Style 2](https://dev.to/creative_salahu/creative-html-cards-style-2-229p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
