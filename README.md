@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Firebase Auth Template &lpar;With Protected Routes&rpar;](https://dev.to/mmvergara/react-firebase-auth-template-with-protected-routes-1974)
-- [Hexaflare: Exploring Data Structures](https://dev.to/gazayas/hexaflare-exploring-data-structures-1ond)
-- [Evolution of the concept of open source](https://dev.to/abcsxyz/evolution-of-open-source-49h5)
-- [One Byte Explainer - Promise](https://dev.to/imkarthikeyan/one-byte-explainer-promise-m5c)
-- [A Jolly Good Guide to Collections in C#](https://dev.to/ipazooki/a-jolly-good-guide-to-collections-in-c-k1h)
+- [5 Must-Try Kubernetes Lab Tutorials 🚀](https://dev.to/labex/5-must-try-kubernetes-lab-tutorials-2j8a)
+- [Hello Everyone](https://dev.to/natdcoder/hello-everyone-nhk)
+- [How to Easily Add Translations to Your React Apps with i18next](https://dev.to/codeparrot/how-to-easily-add-translations-to-your-react-apps-with-i18next-66h)
+- [Latest Newsletter: Big Changes At Every Layer &lpar;Issue #168&rpar;](https://dev.to/mjgs/latest-newsletter-big-changes-at-every-layer-issue-168-3765)
+- [Maximizing Productivity with ChatGPT: Comparing ChatGPT-3.5 and ChatGPT-4 Omni for Diverse AI Applications](https://dev.to/apoorvtomar/maximizing-productivity-with-chatgpt-comparing-chatgpt-35-and-chatgpt-4-omni-for-diverse-ai-applications-31le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
