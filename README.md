@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🐣 Assignment Expressions &lpar;The Walrus Operator&rpar; in Python](https://dev.to/talaatmagdy/assignment-expressions-the-walrus-operator-in-python-1m2d)
-- [Mastering the Adapter Design Pattern: Bridging Incompatible Interfaces](https://dev.to/rupesh_mishra/mastering-the-adapter-design-pattern-bridging-incompatible-interfaces-4ici)
-- [Shell &gt;&gt; Redirections &gt;&gt; Capture](https://dev.to/technonotes/shell-redirections-capture-2geo)
-- [Academic research on motivation in IT developers](https://dev.to/simone_fce419129/academic-research-on-motivation-in-it-developers-323j)
-- [Mastering Node.js Development with Node Version Manager &lpar;NVM&rpar;](https://dev.to/sayuj/mastering-nodejs-development-with-node-version-manager-nvm-53o0)
+- [Build your own SSO Service with next-auth integration](https://dev.to/priyanshuverma/build-your-own-sso-service-with-next-auth-integration-4i2k)
+- [Custom SSO Implementation](https://dev.to/priyanshuverma/custom-sso-implementation-38pl)
+- [How to create Windows 11 VM on Microsoft Azure &lpar;Step by step guide&rpar;](https://dev.to/ayospecie/how-to-create-windows-11-vm-on-microsoft-azure-step-by-step-guide-2hnh)
+- [JavaScript: All about Cookies](https://dev.to/fatimaalam1234/javascript-cookies-13ml)
+- [Create laravel project on Project IDX](https://dev.to/asadut_zaman/create-laravel-project-on-project-idx-3aho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
