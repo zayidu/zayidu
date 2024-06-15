@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mock Data: A Cornerstone of Efficient Software Testing](https://dev.to/keploy/mock-data-a-cornerstone-of-efficient-software-testing-e0m)
-- [Integration testing with Spring Boot and embedded kafka](https://dev.to/steffenwda/integration-testing-with-spring-boot-and-embedded-kafka-1ld0)
-- [Day 19 of my progress as a vue dev](https://dev.to/zain725342/day-19-of-my-progress-as-a-vue-dev-1j0n)
-- [5 Auth0 Gotchas to Consider](https://dev.to/ujjavala/5-auth0-gotchas-to-consider-3g96)
-- [Install zsh-autocomplete on WSL2](https://dev.to/0xkoji/install-zsh-autocomplete-on-wsl2-21ij)
+- [What is a Queue?](https://dev.to/codewitgabi/what-is-a-queue-18p7)
+- [1.2 - Um segundo programa simples](https://dev.to/devsjavagirls/12-um-segundo-programa-simples-m5l)
+- [Video: Modify Angular Material &lpar;v18&rpar; themes with CSS Variables using Theme Builder](https://dev.to/ngmaterialdev/video-modify-angular-material-v18-themes-with-css-variables-using-theme-builder-3278)
+- [Troubleshooting with PipeOps: Error 502 with React apps](https://dev.to/orunto/troubleshooting-with-pipeops-error-502-with-react-apps-cb)
+- [Huawei Cloud - Migration](https://dev.to/ozcankara/huwaei-cloud-migration-2all)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
