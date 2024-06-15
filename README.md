@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing an Optimal Database Schema for a Followers-Following System in a Blog-Post App](https://dev.to/zobaidulkazi/designing-an-optimal-database-schema-for-a-followers-following-system-in-a-blog-post-app-fj4)
-- [Proposal - Blockchain Coordination](https://dev.to/nkianil/proposal-blockchain-coordination-5793)
-- [How to Create a Library Package from an existing Angular App](https://dev.to/jcarloscandela/how-to-create-a-library-package-from-an-existing-angular-app-using-ng-packagr-3b62)
-- [Vue.js Loyihamizning tuzilmasi haqida.](https://dev.to/mukhriddinweb/vuejs-loyihamizning-tuzilmasi-haqida-3cek)
-- [BharatGPT: The Next Generation AI Language Model](https://dev.to/nashetking/bharatgpt-the-next-generation-ai-language-model-296c)
+- [Mase JS is a new way to write HTML entirely in your JavaScript.](https://dev.to/imasquarebtw_54da5fa9e72a/mase-js-is-a-new-way-to-write-html-entirely-in-your-javascript-bd8)
+- [Discussion: How do you approach building websites or apps?](https://dev.to/jennavisions/discussion-how-do-you-approach-building-websites-or-apps-3oi9)
+- [🚀 Continuous Integration and Continuous Delivery &lpar;CI/CD&rpar;: A Must-Have for SMBs 🚀](https://dev.to/vaibhavhariaramani/continuous-integration-and-continuous-delivery-cicd-a-must-have-for-smbs-4pm)
+- [Enhancing Kubernetes Security with RBAC](https://dev.to/vaibhavhariaramani/enhancing-kubernetes-security-with-rbac-1mc9)
+- [Docker Layers for Efficient Image Building](https://dev.to/vaibhavhariaramani/docker-layers-for-efficient-image-building-48an)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
