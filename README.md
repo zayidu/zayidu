@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cognito Inception: How to add Cognito as OIDC Identity Provider in Cognito](https://dev.to/aws-builders/cognito-inception-how-to-add-cognito-as-oidc-identity-provider-in-cognito-1bk1)
-- [Difference between XHTML and HTML](https://dev.to/wasifali/difference-between-xhtml-and-html-2gm4)
-- [Unlocking Opportunities: The Microsoft Learn Student Ambassadors Program 2024](https://dev.to/safi-ullah/unlocking-opportunities-the-microsoft-learn-student-ambassadors-program-2024-2cnm)
-- [Introduction to Nodejs](https://dev.to/sojida/introduction-to-nodejs-4ne8)
-- [Introduction to Docker: Revolutionizing Software Deployment](https://dev.to/sojida/introduction-to-docker-revolutionizing-software-deployment-2nap)
+- [The Azure Hub ☁️ Your Azure learning resources 📚](https://dev.to/tungbq/the-azure-hub-your-azure-learning-resources-3b6n)
+- [Invoke Dataverse AI Actions via Powershell](https://dev.to/_neronotte/invoke-dataverse-ai-actions-via-powershell-10em)
+- [What is Big-O?](https://dev.to/muchai_joseph/what-is-big-o-18c)
+- [Generating Random Colors in JavaScript: A Step-by-Step Guide](https://dev.to/dk119819/generating-random-colors-in-javascript-a-step-by-step-guide-2a4d)
+- [How to Right Rotate an Array by D Positions](https://dev.to/masum-dev/how-to-right-rotate-an-array-by-d-positions-1ih5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
