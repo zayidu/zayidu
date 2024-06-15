@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ZGC Major Collection &lpar;Proactive&rpar; 日志详解](https://dev.to/truman_999999999/zgc-major-collection-proactive-ri-zhi-xiang-jie-453g)
-- [New Linux distro: PyTermOS](https://dev.to/markdev/new-linux-distro-pytermos-2h3p)
-- [Moving Beyond Prediction into the Realm of Trading Strategy and Simulation](https://dev.to/annaliesetech/moving-beyond-prediction-into-the-realm-of-trading-strategy-and-simulation-3mk1)
-- [How to Integrate Cloudinary with TinyMCE for Image Uploads](https://dev.to/joshydev/how-to-integrate-cloudinary-with-tinymce-for-image-uploads-fm9)
-- [Building Command Line Interface &lpar;CLI&rpar; Tools with Node.js](https://dev.to/sojida/building-command-line-interface-cli-tools-with-nodejs-4mob)
+- [Mock Data: A Cornerstone of Efficient Software Testing](https://dev.to/keploy/mock-data-a-cornerstone-of-efficient-software-testing-e0m)
+- [Integration testing with Spring Boot and embedded kafka](https://dev.to/steffenwda/integration-testing-with-spring-boot-and-embedded-kafka-1ld0)
+- [Day 19 of my progress as a vue dev](https://dev.to/zain725342/day-19-of-my-progress-as-a-vue-dev-1j0n)
+- [5 Auth0 Gotchas to Consider](https://dev.to/ujjavala/5-auth0-gotchas-to-consider-3g96)
+- [Install zsh-autocomplete on WSL2](https://dev.to/0xkoji/install-zsh-autocomplete-on-wsl2-21ij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
