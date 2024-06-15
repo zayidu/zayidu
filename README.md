@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Queue?](https://dev.to/codewitgabi/what-is-a-queue-18p7)
-- [1.2 - Um segundo programa simples](https://dev.to/devsjavagirls/12-um-segundo-programa-simples-m5l)
-- [Video: Modify Angular Material &lpar;v18&rpar; themes with CSS Variables using Theme Builder](https://dev.to/ngmaterialdev/video-modify-angular-material-v18-themes-with-css-variables-using-theme-builder-3278)
-- [Troubleshooting with PipeOps: Error 502 with React apps](https://dev.to/orunto/troubleshooting-with-pipeops-error-502-with-react-apps-cb)
-- [Huawei Cloud - Migration](https://dev.to/ozcankara/huwaei-cloud-migration-2all)
+- [Using lerp and damp in javascript](https://dev.to/iliketoplay/using-lerp-and-damp-in-javascript-3f7p)
+- [Shades of Open Source - Understanding The Many Meanings of &quot;Open&quot;](https://dev.to/alexmercedcoder/shades-of-open-source-understanding-the-many-meanings-of-open-35je)
+- [Nega aynan Vue.js ?](https://dev.to/mystery9807/nega-aynan-vuejs--3cf5)
+- [One Byte Explainer - Closures](https://dev.to/imkarthikeyan/one-byte-explainer-closures-o84)
+- [Step-by-Step Guide to Publish Internal SaaS Applications via Citrix Secure Private Access](https://dev.to/amalkabraham001/step-by-step-guide-to-publish-internal-saas-applications-via-citrix-secure-private-access-17k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
