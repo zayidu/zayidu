@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Must-Try Kubernetes Lab Tutorials 🚀](https://dev.to/labex/5-must-try-kubernetes-lab-tutorials-2j8a)
-- [Hello Everyone](https://dev.to/natdcoder/hello-everyone-nhk)
-- [How to Easily Add Translations to Your React Apps with i18next](https://dev.to/codeparrot/how-to-easily-add-translations-to-your-react-apps-with-i18next-66h)
-- [Latest Newsletter: Big Changes At Every Layer &lpar;Issue #168&rpar;](https://dev.to/mjgs/latest-newsletter-big-changes-at-every-layer-issue-168-3765)
-- [Maximizing Productivity with ChatGPT: Comparing ChatGPT-3.5 and ChatGPT-4 Omni for Diverse AI Applications](https://dev.to/apoorvtomar/maximizing-productivity-with-chatgpt-comparing-chatgpt-35-and-chatgpt-4-omni-for-diverse-ai-applications-31le)
+- [Navigating Information Overload: A Beginner&#39;s Guide to Starting Your Cloud Engineering Journey](https://dev.to/ikoh_sylva/navigating-information-overload-a-beginners-guide-to-starting-your-cloud-engineering-journey-46hb)
+- [Exploring ORM - Object Relational Mapping](https://dev.to/sashafbrockman/exploring-orm-object-relational-mapping-51lm)
+- [Creative HTML Coming Soon Template | Theme 1](https://dev.to/creative_salahu/creative-html-coming-soon-template-theme-1-4aln)
+- [Python in the Browser, Fetching JSON from an AWS S3 bucket into a Bokeh Line Chart, a Serverless solution](https://dev.to/rickdelpo1/python-in-the-browser-fetching-json-from-an-aws-s3-bucket-a-serverless-solution-55hg)
+- [Go is a platform](https://dev.to/eminetto/go-is-a-platform-2562)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
