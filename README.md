@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build your own SSO Service with next-auth integration](https://dev.to/priyanshuverma/build-your-own-sso-service-with-next-auth-integration-4i2k)
-- [Custom SSO Implementation](https://dev.to/priyanshuverma/custom-sso-implementation-38pl)
-- [How to create Windows 11 VM on Microsoft Azure &lpar;Step by step guide&rpar;](https://dev.to/ayospecie/how-to-create-windows-11-vm-on-microsoft-azure-step-by-step-guide-2hnh)
-- [JavaScript: All about Cookies](https://dev.to/fatimaalam1234/javascript-cookies-13ml)
-- [Create laravel project on Project IDX](https://dev.to/asadut_zaman/create-laravel-project-on-project-idx-3aho)
+- [Array high order methods](https://dev.to/__khojiakbar__/array-high-order-methods-l5f)
+- [How to Deploy Your Backend on Vercel Using `vercel.json`: A Step-by-Step Guide](https://dev.to/vyan/how-to-deploy-your-backend-on-vercel-using-verceljson-a-step-by-step-guide-5a78)
+- [🧙‍♂️ 10 Magical Tips Every Programmer Should Know from &quot;97 Things Every Programmer Should Know&quot; 🧙‍♀️](https://dev.to/kalyani_borkar_87ce4bb608/10-magical-tips-every-programmer-should-know-from-97-things-every-programmer-should-know-5786)
+- [Creating a Character Device Driver for Raspberry Pi Using Buildroot](https://dev.to/devdoesit17/creating-a-character-device-driver-for-raspberry-pi-using-buildroot-2i9a)
+- [Mastering Form Handling with Custom Hooks in React](https://dev.to/hasancse/mastering-form-handling-with-custom-hooks-in-react-h02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
