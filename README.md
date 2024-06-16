@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Refactoring 013 - Remove Repeated Code](https://dev.to/mcsee/refactoring-013-remove-repeated-code-4npi)
+- [As a matter of fact AWS Chatbot uses us-east-2 region](https://dev.to/takahiro_82jp/as-a-matter-of-fact-aws-chatbot-uses-us-east-2-region-2ghk)
+- [[Game of Purpose] Day 28 - ChatGPT to the rescue](https://dev.to/humberd/game-of-purpose-day-28-chatgpt-to-the-rescue-2fh7)
 - [Understanding the Principles of Clean Code](https://dev.to/kartikmehta8/understanding-the-principles-of-clean-code-3pcc)
 - [How to Create a Shortcut for an Application in Ubuntu](https://dev.to/pcabreram1234/how-to-create-a-shortcut-for-an-application-in-ubuntu-39j6)
-- [Introducing Cart: Simplifying Shopping Cart Management for Laravel](https://dev.to/realrashid/introducing-cart-simplifying-shopping-cart-management-for-laravel-28ek)
-- [SQL](https://dev.to/devincb93/sql-533b)
-- [Coding Standards in the Software Industry: A Focus on Ruby](https://dev.to/davidmrtz-dev/coding-standards-in-the-software-industry-a-focus-on-ruby-n6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
