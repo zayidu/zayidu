@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scroll progress timeline bar in easy step.](https://dev.to/sunder_mehra_246c4308e1dd/scroll-progress-timeline-bar-in-easy-step-1mk0)
-- [Twilio Challenge: AI-Powered Voice Assistant](https://dev.to/thatcoolguy/twilio-challenge-ai-powered-voice-assistant-30j8)
-- [A beginners guide to Kubernetes with Docker](https://dev.to/ferdousazad/a-beginners-guide-to-kubernetes-with-docker-1e4m)
-- [Transform your Use Cases to Software with ZERO Code](https://dev.to/polterguy/transform-your-use-cases-to-software-with-zero-code-51a)
-- [Get Rid of Tightly Coupled Modules and Circular Dependencies in NestJS](https://dev.to/kishieel/get-rid-of-tightly-coupled-modules-and-circular-dependencies-in-nestjs-3do1)
+- [Unlock the Secrets to Writing Clean and Structured JavaScript Code: Essential Practices for Developers](https://dev.to/futuristicgeeks/unlock-the-secrets-to-writing-clean-and-structured-javascript-code-essential-practices-for-developers-43ml)
+- [Enhancing Rust Enums in the State Pattern](https://dev.to/digclo/enhancing-rust-enums-in-the-state-pattern-35pa)
+- [Exploring the World of Generative AI: Key Takeaways](https://dev.to/bishop_bhaumik_fcd744a89e/exploring-the-world-of-generative-ai-key-takeaways-3hea)
+- [Criando componentes para Web #01: Acessibilidade &lpar;a11y&rpar; na prática com WAI-ARIA](https://dev.to/afonsopacifer/criando-componentes-para-web-01-acessibilidade-a11y-na-pratica-com-wai-aria-45ef)
+- [Changing typescale with CSS Variables in Angular Material Demo](https://dev.to/shhdharmen/changing-typescale-with-css-variables-in-angular-material-demo-49m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
