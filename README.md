@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 things you should be aware of when dealing with AI models](https://dev.to/devot/top-5-things-you-should-be-aware-of-when-dealing-with-ai-models-5fd4)
-- [Elanat Brings Web-Forms Back to ASP.NET Core!](https://dev.to/elanatframework/elanat-brings-web-forms-back-to-aspnet-core-44ej)
-- [Newsletter &quot;What&#39;s up devs ?&quot; is born !](https://dev.to/happytodev/newsletter-whats-up-devs-is-born--pl9)
-- [Grub-customizer:Install to MBR - NVME Disk](https://dev.to/ajeebkp23/grub-customizerinstall-to-mbr-nvme-disk-21hg)
-- [Squares+Circles background in HTML/CSS/JS](https://dev.to/tidycoder/squarescircles-background-in-htmlcssjs-4g98)
+- [Heroes of Domain-Driven Design: Prologue](https://dev.to/mateusznowak/heroes-of-domain-driven-design-prologue-f37)
+- [Arquitetura Hexagonal Explicada: como transformar seu desenvolvimento de software](https://dev.to/pmafra/arquitetura-hexagonal-explicada-como-transformar-seu-desenvolvimento-de-software-43d9)
+- [Creation of Resource Group in MS Azure](https://dev.to/kennyig/creation-of-resource-group-in-ms-azure-5f9i)
+- [Career Transition at 31: How I Became a Front-End Developer](https://dev.to/artcodes/career-transition-at-31-how-i-became-a-front-end-developer-2c8l)
+- [Enterprise-Level Authentication in a Containerized Environment for NextJS 13](https://dev.to/ozdemirrulass/enterprise-level-authentication-in-a-containerized-environment-for-nextjs-13-43m3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
