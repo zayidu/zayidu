@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Browser MMORPG #indiegamedev #babylonjs Ep20 - Client Side Prediction &amp; Reconciliation](https://dev.to/maiu/browser-mmorpg-indiegamedev-babylonjs-ep20-client-side-prediction-reconciliation-3fc7)
-- [Optimizing React Performance: Avoiding Unnecessary Rendering with Hooks](https://dev.to/ayas_tech_2b0560ee159e661/optimizing-react-performance-avoiding-unnecessary-rendering-with-hooks-446i)
-- [C++ Best Practices : Naming Conventions](https://dev.to/parthkamal/c-best-practices-naming-conventions-235m)
-- [Unlock New Features: RazorSharp CLI &amp; Dashboard Updates!](https://dev.to/jwtiller_c47bdfa134adf302/unlock-new-features-razorsharp-cli-dashboard-updates-i50)
-- [Backblaze B2: How to store a file](https://dev.to/artiumws/backblaze-b2-how-to-store-a-file-3obj)
+- [Reading Transaction Events from a Smart Contract Using ethers.js](https://dev.to/spiritmoney/reading-transaction-events-from-a-smart-contract-using-ethersjs-4goo)
+- [How to build a custom React table component with Typescript &lpar;Part 1&rpar;](https://dev.to/igbominadeveloper/how-to-build-a-custom-react-table-component-with-typescript-part-1-1ln)
+- [Engenharia de Software: produto vs plataforma](https://dev.to/lucasheriques/engenharia-de-software-produto-vs-plataforma-18p3)
+- [6 Captivating Web Development Tutorials to Boost Your Skills 🚀](https://dev.to/labex/6-captivating-web-development-tutorials-to-boost-your-skills-m4h)
+- [The Golden Key of Cloud Computing](https://dev.to/delta02/the-golden-key-of-cloud-computing-1mkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
