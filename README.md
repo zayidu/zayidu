@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Difoosion, a Simple Web-Interface for Stable Diffusion Models](https://dev.to/sn3llius/difoosion-a-simple-web-interface-for-stable-diffusion-models-dd2)
-- [PACX ⁓ Create columns: Numeric](https://dev.to/_neronotte/pacx-create-columns-numeric-4nk5)
-- [Twilio Challenge: Language Translator via Twilio Functions, WhatsApp, &amp; OpenAI](https://dev.to/adityaoberai/twilio-challenge-language-translator-via-twilio-functions-whatsapp-openai-5hmc)
-- [Part 7 — Draw Camera Output](https://dev.to/kurohuku/part-7-draw-camera-output-4l3a)
-- [What Is Decentralized Finance &lpar;DeFi&rpar; and How Does It Work?](https://dev.to/sardiusjay/what-is-decentralized-finance-defi-and-how-does-it-work-5801)
+- [How to Create a Memory Game: Step-by-Step Guide](https://dev.to/dk119819/how-to-create-a-memory-game-step-by-step-guide-4c4l)
+- [Open Web Application Security Project OWASP Top Ten](https://dev.to/ferdousazad/open-web-application-security-project-owasp-top-ten-l7o)
+- [What is full stack developer ?](https://dev.to/vicky435435/what-is-full-stack-developer--4ka9)
+- [Unlocking the Future: Passwordless Authentication&lpar;Passkey&rpar; With Flutter and Node.js](https://dev.to/djsmk123/unlocking-the-future-passwordless-authenticationpasskey-with-flutter-and-nodejs-1ojh)
+- [Super-charging Django: Tips &amp; Tricks](https://dev.to/kagemanjoroge/super-charging-django-tips-tricks-24bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
