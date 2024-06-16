@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring 013 - Remove Repeated Code](https://dev.to/mcsee/refactoring-013-remove-repeated-code-4npi)
-- [As a matter of fact AWS Chatbot uses us-east-2 region](https://dev.to/takahiro_82jp/as-a-matter-of-fact-aws-chatbot-uses-us-east-2-region-2ghk)
-- [[Game of Purpose] Day 28 - ChatGPT to the rescue](https://dev.to/humberd/game-of-purpose-day-28-chatgpt-to-the-rescue-2fh7)
-- [Understanding the Principles of Clean Code](https://dev.to/kartikmehta8/understanding-the-principles-of-clean-code-3pcc)
-- [How to Create a Shortcut for an Application in Ubuntu](https://dev.to/pcabreram1234/how-to-create-a-shortcut-for-an-application-in-ubuntu-39j6)
+- [Mastering Client and Server Components in Next.js: A Comprehensive Guide](https://dev.to/vyan/mastering-client-and-server-components-in-nextjs-a-comprehensive-guide-42hp)
+- [Dealing with Unicode string, done right and better.](https://dev.to/cometkim/dealing-with-unicode-string-done-right-and-better-2nei)
+- [aws cli on windows vscode](https://dev.to/bartdev/aws-cli-on-windows-vscode-2h16)
+- [Top JavaScript Frameworks in 2024](https://dev.to/1saptarshi/top-javascript-frameworks-in-2024-1i7i)
+- [A PAGE TALKS ABOUT &lpar;Postbot: The AI Assistant By Postman&rpar;](https://dev.to/rewirebyautomation/a-page-talks-about-postbot-the-ai-assistant-by-postman-1lkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
