@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Front end in 7 days?](https://dev.to/siri999/front-end-in-7-days-5a8n)
+- [3D Glowing Card Carousel Slider](https://dev.to/divinector/3d-glowing-card-carousel-slider-4io)
+- [Explain X Like I&#39;m Five](https://dev.to/ahmad_rifai_54a20be09025e/explain-x-like-im-five-n8j)
+- [Unleashing the Power of Serverless Data Analysis with AWS Athena](https://dev.to/virajlakshitha/unleashing-the-power-of-serverless-data-analysis-with-aws-athena-3amh)
 - [Mastering Client and Server Components in Next.js: A Comprehensive Guide](https://dev.to/vyan/mastering-client-and-server-components-in-nextjs-a-comprehensive-guide-42hp)
-- [Dealing with Unicode string, done right and better.](https://dev.to/cometkim/dealing-with-unicode-string-done-right-and-better-2nei)
-- [aws cli on windows vscode](https://dev.to/bartdev/aws-cli-on-windows-vscode-2h16)
-- [Top JavaScript Frameworks in 2024](https://dev.to/1saptarshi/top-javascript-frameworks-in-2024-1i7i)
-- [A PAGE TALKS ABOUT &lpar;Postbot: The AI Assistant By Postman&rpar;](https://dev.to/rewirebyautomation/a-page-talks-about-postbot-the-ai-assistant-by-postman-1lkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
