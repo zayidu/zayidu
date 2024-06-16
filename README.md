@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding things](https://dev.to/simongreennet/finding-things-1f34)
-- [Create your self-hosted Wordpress for €5 a month, in 30 seconds.](https://dev.to/gurghet/create-your-self-hosted-wordpress-for-eu5-a-month-in-30-seconds-1kap)
-- [Part 1 — Create Project](https://dev.to/kurohuku/part-1-create-project-29nb)
-- [Introduction](https://dev.to/kurohuku/introduction-1gbn)
-- [Binary Tree](https://dev.to/olgabraginskaya/binary-tree-5eij)
+- [Python for DevOps: #Day13 of 90DaysofDevops](https://dev.to/oncloud7/python-for-devops-day13-of-90daysofdevops-1bdo)
+- [Part 5 — Change Size and Position](https://dev.to/kurohuku/part-5-change-size-and-position-2dj7)
+- [Guia Completo: Instalando Elixir no Fedora/Linux 40](https://dev.to/jpstudioweb/guia-completo-instalando-elixir-no-fedoralinux-40-100f)
+- [10 Captivating JavaScript Programming Tutorials on LabEx 🌟](https://dev.to/labex/10-captivating-javascript-programming-tutorials-on-labex-2k4j)
+- [How to focus on self learning and grow in an Operations and Delivery team](https://dev.to/vaishnavi_rajagopal_1f34b/how-to-focus-on-self-learning-and-grow-in-an-operations-and-delivery-team-3630)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
