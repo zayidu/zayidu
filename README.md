@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rejected, Not Deflected: My Journey After Out in Tech](https://dev.to/annaliesetech/rejected-not-deflected-my-journey-after-out-in-tech-18pd)
-- [cheap countries to visit in March in europ](https://dev.to/blogland/cheap-countries-to-visit-in-march-in-europ-34bc)
-- [Creating and Managing Multiple Projects and Servers with Mockingbird](https://dev.to/ozkeisar/creating-and-managing-multiple-projects-and-servers-with-mockingbird-a7b)
-- [cheap countries to visit in February with family and friends](https://dev.to/blogland/cheap-countries-to-visit-in-february-with-family-and-friends-3492)
-- [Polling in Vue.js](https://dev.to/pulkit30/polling-in-vuejs-205j)
+- [Finding things](https://dev.to/simongreennet/finding-things-1f34)
+- [Create your self-hosted Wordpress for €5 a month, in 30 seconds.](https://dev.to/gurghet/create-your-self-hosted-wordpress-for-eu5-a-month-in-30-seconds-1kap)
+- [Part 1 — Create Project](https://dev.to/kurohuku/part-1-create-project-29nb)
+- [Introduction](https://dev.to/kurohuku/introduction-1gbn)
+- [Binary Tree](https://dev.to/olgabraginskaya/binary-tree-5eij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
