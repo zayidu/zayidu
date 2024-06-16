@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [If Else In Python](https://dev.to/pulkitgovrani/if-else-in-python-2315)
-- [Project: Echopad](https://dev.to/paras594/project-echopad-37jc)
-- [How to build a Web IDE like codesandbox?](https://dev.to/abdul_165bf98345e29aea8ef/how-to-build-a-web-ide-like-codesandbox-38e6)
-- [Stack &amp; Heap](https://dev.to/jawadalisoomro/stack-heap-lpc)
-- [How I have added a custom ASCII Art Banner to the React Server](https://dev.to/deepcodr/how-i-have-added-a-custom-ascii-art-banner-to-the-react-server-5eig)
+- [Rejected, Not Deflected: My Journey After Out in Tech](https://dev.to/annaliesetech/rejected-not-deflected-my-journey-after-out-in-tech-18pd)
+- [cheap countries to visit in March in europ](https://dev.to/blogland/cheap-countries-to-visit-in-march-in-europ-34bc)
+- [Creating and Managing Multiple Projects and Servers with Mockingbird](https://dev.to/ozkeisar/creating-and-managing-multiple-projects-and-servers-with-mockingbird-a7b)
+- [cheap countries to visit in February with family and friends](https://dev.to/blogland/cheap-countries-to-visit-in-february-with-family-and-friends-3492)
+- [Polling in Vue.js](https://dev.to/pulkit30/polling-in-vuejs-205j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
