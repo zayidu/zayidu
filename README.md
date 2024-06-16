@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Memory Game: Step-by-Step Guide](https://dev.to/dk119819/how-to-create-a-memory-game-step-by-step-guide-4c4l)
-- [Open Web Application Security Project OWASP Top Ten](https://dev.to/ferdousazad/open-web-application-security-project-owasp-top-ten-l7o)
-- [What is full stack developer ?](https://dev.to/vicky435435/what-is-full-stack-developer--4ka9)
-- [Unlocking the Future: Passwordless Authentication&lpar;Passkey&rpar; With Flutter and Node.js](https://dev.to/djsmk123/unlocking-the-future-passwordless-authenticationpasskey-with-flutter-and-nodejs-1ojh)
-- [Super-charging Django: Tips &amp; Tricks](https://dev.to/kagemanjoroge/super-charging-django-tips-tricks-24bi)
+- [Scroll progress timeline bar in easy step.](https://dev.to/sunder_mehra_246c4308e1dd/scroll-progress-timeline-bar-in-easy-step-1mk0)
+- [Twilio Challenge: AI-Powered Voice Assistant](https://dev.to/thatcoolguy/twilio-challenge-ai-powered-voice-assistant-30j8)
+- [A beginners guide to Kubernetes with Docker](https://dev.to/ferdousazad/a-beginners-guide-to-kubernetes-with-docker-1e4m)
+- [Transform your Use Cases to Software with ZERO Code](https://dev.to/polterguy/transform-your-use-cases-to-software-with-zero-code-51a)
+- [Get Rid of Tightly Coupled Modules and Circular Dependencies in NestJS](https://dev.to/kishieel/get-rid-of-tightly-coupled-modules-and-circular-dependencies-in-nestjs-3do1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
