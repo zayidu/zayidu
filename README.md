@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reading Transaction Events from a Smart Contract Using ethers.js](https://dev.to/spiritmoney/reading-transaction-events-from-a-smart-contract-using-ethersjs-4goo)
-- [How to build a custom React table component with Typescript &lpar;Part 1&rpar;](https://dev.to/igbominadeveloper/how-to-build-a-custom-react-table-component-with-typescript-part-1-1ln)
-- [Engenharia de Software: produto vs plataforma](https://dev.to/lucasheriques/engenharia-de-software-produto-vs-plataforma-18p3)
-- [6 Captivating Web Development Tutorials to Boost Your Skills 🚀](https://dev.to/labex/6-captivating-web-development-tutorials-to-boost-your-skills-m4h)
-- [The Golden Key of Cloud Computing](https://dev.to/delta02/the-golden-key-of-cloud-computing-1mkh)
+- [Top 5 things you should be aware of when dealing with AI models](https://dev.to/devot/top-5-things-you-should-be-aware-of-when-dealing-with-ai-models-5fd4)
+- [Elanat Brings Web-Forms Back to ASP.NET Core!](https://dev.to/elanatframework/elanat-brings-web-forms-back-to-aspnet-core-44ej)
+- [Newsletter &quot;What&#39;s up devs ?&quot; is born !](https://dev.to/happytodev/newsletter-whats-up-devs-is-born--pl9)
+- [Grub-customizer:Install to MBR - NVME Disk](https://dev.to/ajeebkp23/grub-customizerinstall-to-mbr-nvme-disk-21hg)
+- [Squares+Circles background in HTML/CSS/JS](https://dev.to/tidycoder/squarescircles-background-in-htmlcssjs-4g98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
