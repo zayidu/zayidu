@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Web Development: Embracing Emerging Technologies and Trends](https://dev.to/matin_mollapur/the-future-of-web-development-embracing-emerging-technologies-and-trends-4pno)
-- [Generate Dynamic Open Graph Images using Nextjs](https://dev.to/shrihari/generate-dynamic-open-graph-images-using-nextjs-4k9g)
-- [What I Discovered About Making Great Widgets: Insights From 100+ Real Users](https://dev.to/lincemathew/what-i-discovered-about-making-great-widgets-insights-from-100-real-users-1ml3)
-- [330. Patching Array](https://dev.to/mdarifulhaque/330-patching-array-4oo9)
-- [Best cross-platform CMS for Flutter web and mobile apps?](https://dev.to/shaerif/best-cross-platform-cms-for-flutter-web-and-mobile-apps-15j5)
+- [GSoC Week 3](https://dev.to/chiemezuo/gsoc-week-3-12h3)
+- [Getting Started with Flutter: Understanding the Basics and State Management](https://dev.to/ayas_tech_2b0560ee159e661/getting-started-with-flutter-understanding-the-basics-and-state-management-g3e)
+- [How to configure Pulumi using YAML Config Files](https://dev.to/nicolaimagnussen/how-to-configure-pulumi-using-yaml-config-files-2nfm)
+- [Part 3 — Create Overlay](https://dev.to/kurohuku/part-3-create-overlay-3em1)
+- [Introduction to Queue Data Structure In JavaScript](https://dev.to/rolalove/introduction-to-queue-data-structure-in-javascript-4li8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
