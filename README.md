@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to Component Design in React](https://dev.to/lovishduggal/a-beginners-guide-to-component-design-in-react-521g)
-- [Websites to Inspire Web Design and Development in 2024](https://dev.to/lilxyzz/websites-to-inspire-web-design-and-development-in-2024-40am)
-- [10 Ways Automation is Revolutionizing Cost and Time Savings for Businesses](https://dev.to/futuristicgeeks/10-ways-automation-is-revolutionizing-cost-and-time-savings-for-businesses-365b)
-- [How to use Stable Diffusion to create AI-generated images](https://dev.to/ajeetraina/how-to-use-stable-diffusion-to-create-ai-generated-images-2497)
-- [Exploring HTTP and HTTPS Protocols in Network Security](https://dev.to/iaadidev/exploring-http-and-https-protocols-in-network-security-530j)
+- [Best Practices for Creating Reusable Custom Hooks in React](https://dev.to/hasancse/best-practices-for-creating-reusable-custom-hooks-in-react-37nj)
+- [Amazon RDS Multi-AZ Deployments vs Read Replica](https://dev.to/sachithmayantha/amazon-rds-multi-az-deployments-vs-read-replica-1ki3)
+- [Duo Studio UI clone 🚀](https://dev.to/sameer07x19/duo-studio-ui-clone-1ldk)
+- [Problem : - Your project requires a newer version of the Kotlin Gradle plugin in Flutter.](https://dev.to/ozonexkeshav07/problem-your-project-requires-a-newer-version-of-the-kotlin-gradle-plugin-in-flutter-5da3)
+- [Mastering PHP File Paths: Simplifying Your Project&#39;s Structure](https://dev.to/anwar_sadat/mastering-php-file-paths-simplifying-your-projects-structure-650)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
