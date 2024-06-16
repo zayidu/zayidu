@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GSoC Week 3](https://dev.to/chiemezuo/gsoc-week-3-12h3)
-- [Getting Started with Flutter: Understanding the Basics and State Management](https://dev.to/ayas_tech_2b0560ee159e661/getting-started-with-flutter-understanding-the-basics-and-state-management-g3e)
-- [How to configure Pulumi using YAML Config Files](https://dev.to/nicolaimagnussen/how-to-configure-pulumi-using-yaml-config-files-2nfm)
-- [Part 3 — Create Overlay](https://dev.to/kurohuku/part-3-create-overlay-3em1)
-- [Introduction to Queue Data Structure In JavaScript](https://dev.to/rolalove/introduction-to-queue-data-structure-in-javascript-4li8)
+- [Browser MMORPG #indiegamedev #babylonjs Ep20 - Client Side Prediction &amp; Reconciliation](https://dev.to/maiu/browser-mmorpg-indiegamedev-babylonjs-ep20-client-side-prediction-reconciliation-3fc7)
+- [Optimizing React Performance: Avoiding Unnecessary Rendering with Hooks](https://dev.to/ayas_tech_2b0560ee159e661/optimizing-react-performance-avoiding-unnecessary-rendering-with-hooks-446i)
+- [C++ Best Practices : Naming Conventions](https://dev.to/parthkamal/c-best-practices-naming-conventions-235m)
+- [Unlock New Features: RazorSharp CLI &amp; Dashboard Updates!](https://dev.to/jwtiller_c47bdfa134adf302/unlock-new-features-razorsharp-cli-dashboard-updates-i50)
+- [Backblaze B2: How to store a file](https://dev.to/artiumws/backblaze-b2-how-to-store-a-file-3obj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
