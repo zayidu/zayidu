@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Push notifications from server with Telegram Bot API](https://dev.to/climentea/push-notifications-from-server-with-telegram-bot-api-32b3)
-- [EXPLOITING DEV MACHINE](https://dev.to/babsarena/exploiting-dev-machine-3e17)
-- [From React to Hotwire - Part I - [EN]](https://dev.to/cirdes/from-react-to-hotwire-part-i-en-2o6g)
-- [Discover the VERN Stack: Revolutionizing Web Development with VERSE.DB, Express, React, and Node](https://dev.to/marco5dev/discover-the-vern-stack-revolutionizing-web-development-with-versedb-express-react-and-node-4ki1)
-- [Do React ao Hotwire - Parte I - [PT-BR]](https://dev.to/cirdes/do-react-ao-hotwire-parte-i-pt-br-1hm2)
+- [Difoosion, a Simple Web-Interface for Stable Diffusion Models](https://dev.to/sn3llius/difoosion-a-simple-web-interface-for-stable-diffusion-models-dd2)
+- [PACX ⁓ Create columns: Numeric](https://dev.to/_neronotte/pacx-create-columns-numeric-4nk5)
+- [Twilio Challenge: Language Translator via Twilio Functions, WhatsApp, &amp; OpenAI](https://dev.to/adityaoberai/twilio-challenge-language-translator-via-twilio-functions-whatsapp-openai-5hmc)
+- [Part 7 — Draw Camera Output](https://dev.to/kurohuku/part-7-draw-camera-output-4l3a)
+- [What Is Decentralized Finance &lpar;DeFi&rpar; and How Does It Work?](https://dev.to/sardiusjay/what-is-decentralized-finance-defi-and-how-does-it-work-5801)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
