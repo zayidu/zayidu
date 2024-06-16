@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Front end in 7 days?](https://dev.to/siri999/front-end-in-7-days-5a8n)
-- [3D Glowing Card Carousel Slider](https://dev.to/divinector/3d-glowing-card-carousel-slider-4io)
-- [Explain X Like I&#39;m Five](https://dev.to/ahmad_rifai_54a20be09025e/explain-x-like-im-five-n8j)
-- [Unleashing the Power of Serverless Data Analysis with AWS Athena](https://dev.to/virajlakshitha/unleashing-the-power-of-serverless-data-analysis-with-aws-athena-3amh)
-- [Mastering Client and Server Components in Next.js: A Comprehensive Guide](https://dev.to/vyan/mastering-client-and-server-components-in-nextjs-a-comprehensive-guide-42hp)
+- [A Beginner&#39;s Guide to Component Design in React](https://dev.to/lovishduggal/a-beginners-guide-to-component-design-in-react-521g)
+- [Websites to Inspire Web Design and Development in 2024](https://dev.to/lilxyzz/websites-to-inspire-web-design-and-development-in-2024-40am)
+- [10 Ways Automation is Revolutionizing Cost and Time Savings for Businesses](https://dev.to/futuristicgeeks/10-ways-automation-is-revolutionizing-cost-and-time-savings-for-businesses-365b)
+- [How to use Stable Diffusion to create AI-generated images](https://dev.to/ajeetraina/how-to-use-stable-diffusion-to-create-ai-generated-images-2497)
+- [Exploring HTTP and HTTPS Protocols in Network Security](https://dev.to/iaadidev/exploring-http-and-https-protocols-in-network-security-530j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
