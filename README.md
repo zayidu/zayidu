@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python for DevOps: #Day13 of 90DaysofDevops](https://dev.to/oncloud7/python-for-devops-day13-of-90daysofdevops-1bdo)
-- [Part 5 — Change Size and Position](https://dev.to/kurohuku/part-5-change-size-and-position-2dj7)
-- [Guia Completo: Instalando Elixir no Fedora/Linux 40](https://dev.to/jpstudioweb/guia-completo-instalando-elixir-no-fedoralinux-40-100f)
-- [10 Captivating JavaScript Programming Tutorials on LabEx 🌟](https://dev.to/labex/10-captivating-javascript-programming-tutorials-on-labex-2k4j)
-- [How to focus on self learning and grow in an Operations and Delivery team](https://dev.to/vaishnavi_rajagopal_1f34b/how-to-focus-on-self-learning-and-grow-in-an-operations-and-delivery-team-3630)
+- [Push notifications from server with Telegram Bot API](https://dev.to/climentea/push-notifications-from-server-with-telegram-bot-api-32b3)
+- [EXPLOITING DEV MACHINE](https://dev.to/babsarena/exploiting-dev-machine-3e17)
+- [From React to Hotwire - Part I - [EN]](https://dev.to/cirdes/from-react-to-hotwire-part-i-en-2o6g)
+- [Discover the VERN Stack: Revolutionizing Web Development with VERSE.DB, Express, React, and Node](https://dev.to/marco5dev/discover-the-vern-stack-revolutionizing-web-development-with-versedb-express-react-and-node-4ki1)
+- [Do React ao Hotwire - Parte I - [PT-BR]](https://dev.to/cirdes/do-react-ao-hotwire-parte-i-pt-br-1hm2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
