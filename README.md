@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SSL context creation crashes of c++ native module in Electron application](https://dev.to/codert0109/ssl-context-creation-crashes-of-c-native-module-in-electron-application-307a)
-- [The Basics of BABEL](https://dev.to/gagecantrelle/the-basics-of-babel-2d8f)
-- [Top CSS Websites for Developers: Elevate Your Frontend Skills](https://dev.to/vyan/top-css-websites-for-developers-elevate-your-frontend-skills-550l)
-- [Azure Resource Naming Conventions! Best Practices for Optimal Management](https://dev.to/karthiksdevopsengineer/azure-resource-naming-conventions-best-practices-for-optimal-management-9d0)
-- [How to Extract Text From PDF in C# &lpar;Beginner Tutorial&rpar;](https://dev.to/tayyabcodes/how-to-extract-text-from-pdf-in-c-beginner-tutorial-20li)
+- [The Humans of OpenTelemetry: KubeCon EU 2024](https://dev.to/avillela/the-humans-of-opentelemetry-kubecon-eu-2024-1hm5)
+- [Building a Rock-Solid Foundation with Infrastructure as Code &lpar;IaC&rpar;](https://dev.to/gauri1504/building-a-rock-solid-foundation-with-infrastructure-as-code-iac-efo)
+- [Understanding OIDC back-channel logout](https://dev.to/logto/understanding-oidc-back-channel-logout-f95)
+- [Day 1: Introduction to Data Structures and Algorithms &lpar;DSA&rpar;🚀](https://dev.to/dipakahirav/day-1-introduction-to-data-structures-and-algorithms-dsa-122o)
+- [Day 1: Introduction to Data Structures and Algorithms &lpar;DSA&rpar;🚀](https://dev.to/dipakahirav/day-1-introduction-to-data-structures-and-algorithms-dsa-3d43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
