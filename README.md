@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Weather Application with OpenWeatherMap API](https://dev.to/kartikmehta8/building-a-weather-application-with-openweathermap-api-3ldh)
-- [Install PHP 8.3 and config Apache in Ubuntu 22.04](https://dev.to/automata/install-php-83-and-to-config-apache-in-ubuntu-2204-602)
-- [React Native &lpar;Native Modules&rpar;](https://dev.to/gokulrajalp/react-native-native-modules-4dj0)
-- [Twilio Challenge: Can You Beat Gemini? Tic Tac Toe](https://dev.to/thatcoolguy/twilio-challenge-can-you-beat-gemini-tic-tac-toe-1em8)
-- [UI vs UX: Understanding the Difference](https://dev.to/dev_king_22/ui-vs-ux-understanding-the-difference-4541)
+- [Data structure](https://dev.to/suhngeun_yang/data-structure-kan)
+- [NestJS and TypeORM — Efficient Schema-Level Multi-Tenancy with Auto Generated Migrations: A DX Approach](https://dev.to/logeek/nestjs-and-typeorm-efficient-schema-level-multi-tenancy-with-auto-generated-migrations-a-dx-approach-jla)
+- [Pyenv para Iniciantes.](https://dev.to/theleanz/pyenv-para-iniciantes-3jkl)
+- [The loss functions for Neural Network in PyTorch](https://dev.to/hyperkai/the-loss-functions-for-neural-network-in-pytorch-hf9)
+- [Data Dynamics: Exploring Information Theory Essentials](https://dev.to/kevinbg012/data-dynamics-exploring-information-theory-essentials-1eoa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
