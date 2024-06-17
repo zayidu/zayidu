@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET 8.0 - JWT Token Authentication Using The Example API](https://dev.to/techiesdiary/net-60-jwt-token-authentication-using-the-example-api-91l)
-- [The Joy Of &lpar;Digital&rpar; &quot;Painting&quot;](https://dev.to/tremartin/the-joy-of-digital-painting-33ia)
-- [I&#39;m building a collection of Awesome Frontend Resources, and need contributors.](https://dev.to/asachanfbd/im-building-a-collection-of-awesome-frontend-resources-and-need-contributors-3bmd)
-- [I&#39;m building a collection of Awesome Frontend Resources, and need contributors.](https://dev.to/asachanfbd/im-building-a-collection-of-awesome-frontend-resources-and-need-contributors-4337)
-- [Stay ahead in web development: latest news, tools, and insights #37](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-37-3i5e)
+- [In Excel, Identify Data Layers Correctly and Convert Them to a Standardized Table](https://dev.to/judith677/in-excel-identify-data-layers-correctly-and-convert-them-to-a-standardized-table-epl)
+- [Python Interview Questions and Answers for Freshers](https://dev.to/lalyadav/python-interview-questions-and-answers-for-freshers-165h)
+- [Embracing Struggles: My Journey Through the Outreachy Internship](https://dev.to/ccokeke/embracing-struggles-my-journey-through-the-outreachy-internship-9a7)
+- [Custom Browser Engines Frontend Development](https://dev.to/syedmuhammadaliraza/custom-browser-engines-frontend-development-2e0o)
+- [How to configure Minikube](https://dev.to/ajayi/how-to-configure-minikube-f00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
