@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting a web SDK for Logto in minutes](https://dev.to/logto/crafting-a-web-sdk-for-logto-in-minutes-i4p)
-- [5 Quick Fixes for Power Automate](https://dev.to/wyattdave/5-quick-fixes-for-power-automate-1ola)
-- [How to deploy a React app with Kamal &lpar;formerly known as MRSK&rpar; &amp; GitHub Action](https://dev.to/tannakartikey/how-to-deploy-a-react-app-with-kamal-formerly-known-as-mrsk-github-action-32i8)
-- [which web development agency excels in both creativity and functionality?](https://dev.to/akshiya_50c4f18ab5c50370c/which-web-development-agency-excels-in-both-creativity-and-functionality-2fi2)
-- [Compiler In One Byte](https://dev.to/sharavana/compiler-in-one-byte-4hf1)
+- [.NET 8.0 - JWT Token Authentication Using The Example API](https://dev.to/techiesdiary/net-60-jwt-token-authentication-using-the-example-api-91l)
+- [The Joy Of &lpar;Digital&rpar; &quot;Painting&quot;](https://dev.to/tremartin/the-joy-of-digital-painting-33ia)
+- [I&#39;m building a collection of Awesome Frontend Resources, and need contributors.](https://dev.to/asachanfbd/im-building-a-collection-of-awesome-frontend-resources-and-need-contributors-3bmd)
+- [I&#39;m building a collection of Awesome Frontend Resources, and need contributors.](https://dev.to/asachanfbd/im-building-a-collection-of-awesome-frontend-resources-and-need-contributors-4337)
+- [Stay ahead in web development: latest news, tools, and insights #37](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-37-3i5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
