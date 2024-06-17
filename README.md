@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Resolve Content Security Policy &lpar;CSP&rpar; Issues in Your Discord Activity Using a Node.js Proxy](https://dev.to/waveplay/resolve-content-security-policy-csp-issues-in-your-discord-activity-using-a-nodejs-proxy-2634)
-- [Interval Score Matching: Enhancing Fidelity in Text-to-3D Models with LucidDreamer](https://dev.to/voxel51/interval-score-matching-enhancing-fidelity-in-text-to-3d-models-with-luciddreamer-33ja)
-- [Fixing CLIP’s Blind Spots: How New Research Tackles AI’s Visual Misinterpretations](https://dev.to/voxel51/fixing-clips-blind-spots-how-new-research-tackles-ais-visual-misinterpretations-2m6a)
-- [Improving CSS Loading in React Applications: Avoiding `@import` in `createGlobalStyle`](https://dev.to/mochafreddo/improving-css-loading-in-react-applications-avoiding-import-in-createglobalstyle-4d9p)
-- [Lukas Höllein on the Challenges and Opportunities of Text-to-3D with “ViewDiff”](https://dev.to/voxel51/lukas-hollein-on-the-challenges-and-opportunities-of-text-to-3d-with-viewdiff-3jn8)
+- [Step-by-Step Diffusion: An Elementary Tutorial](https://dev.to/mikeyoung44/step-by-step-diffusion-an-elementary-tutorial-7cc)
+- [Rough Set improved Therapy-Based Metaverse Assisting System](https://dev.to/mikeyoung44/rough-set-improved-therapy-based-metaverse-assisting-system-450l)
+- [AES: The Power of Advanced Encryption Standard for Data Security](https://dev.to/harish_05/aes-the-power-of-advanced-encryption-standard-for-data-security-g6c)
+- [Open Problems in DAOs](https://dev.to/mikeyoung44/open-problems-in-daos-35cn)
+- [Unlearning Traces the Influential Training Data of Language Models](https://dev.to/mikeyoung44/unlearning-traces-the-influential-training-data-of-language-models-87m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
