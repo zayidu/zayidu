@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [In Excel, Identify Data Layers Correctly and Convert Them to a Standardized Table](https://dev.to/judith677/in-excel-identify-data-layers-correctly-and-convert-them-to-a-standardized-table-epl)
-- [Python Interview Questions and Answers for Freshers](https://dev.to/lalyadav/python-interview-questions-and-answers-for-freshers-165h)
-- [Embracing Struggles: My Journey Through the Outreachy Internship](https://dev.to/ccokeke/embracing-struggles-my-journey-through-the-outreachy-internship-9a7)
-- [Custom Browser Engines Frontend Development](https://dev.to/syedmuhammadaliraza/custom-browser-engines-frontend-development-2e0o)
-- [How to configure Minikube](https://dev.to/ajayi/how-to-configure-minikube-f00)
+- [BEM Modifiers in Pure CSS Nesting](https://dev.to/what1s1ove/bem-modifiers-in-pure-css-nesting-4j9k)
+- [Onshoring vs. Offshoring Developer Comparison](https://dev.to/zoey_nguyen/onshoring-vs-offshoring-developer-comparison-49m9)
+- [Mastering Web Breakpoints: Creating Responsive Designs for All Devices 🔥](https://dev.to/alisamirali/mastering-web-breakpoints-creating-responsive-designs-for-all-devices-3jmj)
+- [How to Check for Key Presence in a JavaScript Object](https://dev.to/keploy/how-to-check-for-key-presence-in-a-javascript-object-3589)
+- [Security Hazards in the Use of startActivityForResult and setResult](https://dev.to/tecno-security/security-hazards-in-the-use-of-startactivityforresult-and-setresult-3p54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
