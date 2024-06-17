@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Heroes of Domain-Driven Design: Prologue](https://dev.to/mateusznowak/heroes-of-domain-driven-design-prologue-f37)
-- [Arquitetura Hexagonal Explicada: como transformar seu desenvolvimento de software](https://dev.to/pmafra/arquitetura-hexagonal-explicada-como-transformar-seu-desenvolvimento-de-software-43d9)
-- [Creation of Resource Group in MS Azure](https://dev.to/kennyig/creation-of-resource-group-in-ms-azure-5f9i)
-- [Career Transition at 31: How I Became a Front-End Developer](https://dev.to/artcodes/career-transition-at-31-how-i-became-a-front-end-developer-2c8l)
-- [Enterprise-Level Authentication in a Containerized Environment for NextJS 13](https://dev.to/ozdemirrulass/enterprise-level-authentication-in-a-containerized-environment-for-nextjs-13-43m3)
+- [Building a Weather Application with OpenWeatherMap API](https://dev.to/kartikmehta8/building-a-weather-application-with-openweathermap-api-3ldh)
+- [Install PHP 8.3 and config Apache in Ubuntu 22.04](https://dev.to/automata/install-php-83-and-to-config-apache-in-ubuntu-2204-602)
+- [React Native &lpar;Native Modules&rpar;](https://dev.to/gokulrajalp/react-native-native-modules-4dj0)
+- [Twilio Challenge: Can You Beat Gemini? Tic Tac Toe](https://dev.to/thatcoolguy/twilio-challenge-can-you-beat-gemini-tic-tac-toe-1em8)
+- [UI vs UX: Understanding the Difference](https://dev.to/dev_king_22/ui-vs-ux-understanding-the-difference-4541)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
