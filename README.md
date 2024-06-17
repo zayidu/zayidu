@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sharing composable state in Vue apps](https://dev.to/jacobandrewsky/sharing-composable-state-in-vue-apps-41l1)
-- [Starting from Scratch in IT in 2024: Things you shouldn&#39;t worry about](https://dev.to/vorniches/starting-from-scratch-in-it-in-2024-things-you-shouldnt-worry-about-4p17)
-- [Associations in EF Core](https://dev.to/muhammad_salem/associations-in-ef-core-14d3)
-- [Decorator Pattern](https://dev.to/muhammad_salem/decorator-pattern-1adl)
-- [Top 9 SwaggerHub Alternatives for API Design and Documentation](https://dev.to/sattyam/top-9-swaggerhub-alternatives-for-api-design-and-documentation-2gdp)
+- [Explore What is Azure Monitor: Features, Benefits, and Use Cases](https://dev.to/dhruvil_joshi14/explore-what-is-azure-monitor-features-benefits-and-use-cases-2m8g)
+- [Types for React components with children](https://dev.to/zeedu_dev/types-for-react-components-with-children-5d7k)
+- [The backdrop-filter CSS property has been unprefixed](https://dev.to/robole/the-backdrop-filter-css-property-has-been-unprefixed-1c82)
+- [Understanding the Basics: What is Electronic Data Interchange &lpar;EDI&rpar;?](https://dev.to/actionedi/understanding-the-basics-what-is-electronic-data-interchange-edi-1h3n)
+- [Linux Text Display](https://dev.to/labex/linux-text-display-28jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
