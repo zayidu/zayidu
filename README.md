@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Virtual Realm: Tips and Strategies for Managing Remote Teams](https://dev.to/techstuff/navigating-the-virtual-realm-tips-and-strategies-for-managing-remote-teams-1pic)
-- [MySQL to GBase 8c Migration Guide](https://dev.to/congcong/mysql-to-gbase-8c-migration-guide-31ch)
-- [Postgres to Snowflake Data Integration with Estuary Flow](https://dev.to/techsourabh/postgres-to-snowflake-data-integration-with-estuary-flow-5ba8)
-- [Redux-Toolkit vs React Context API: A Deep Dive into State Management.💪🚀🚀](https://dev.to/dharamgfx/redux-toolkit-vs-react-context-api-a-deep-dive-into-state-management-2b2n)
-- [Deploy a ReactJS App with ViteJS to GitHub Pages using GitHub Actions | Step-by-Step Tutorial](https://dev.to/gkhan205/deploy-a-reactjs-app-with-vitejs-to-github-pages-using-github-actions-step-by-step-tutorial-1gii)
+- [Sharing composable state in Vue apps](https://dev.to/jacobandrewsky/sharing-composable-state-in-vue-apps-41l1)
+- [Starting from Scratch in IT in 2024: Things you shouldn&#39;t worry about](https://dev.to/vorniches/starting-from-scratch-in-it-in-2024-things-you-shouldnt-worry-about-4p17)
+- [Associations in EF Core](https://dev.to/muhammad_salem/associations-in-ef-core-14d3)
+- [Decorator Pattern](https://dev.to/muhammad_salem/decorator-pattern-1adl)
+- [Top 9 SwaggerHub Alternatives for API Design and Documentation](https://dev.to/sattyam/top-9-swaggerhub-alternatives-for-api-design-and-documentation-2gdp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
