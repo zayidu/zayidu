@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#babylonjs Browser MMORPG #indiegamedev Ep21 - Spatial Hash Grid Area of Interest](https://dev.to/maiu/babylonjs-browser-mmorpg-indiegamedev-ep21-spatial-hash-grid-area-of-interest-4fmc)
-- [Are we all prompting wrong? Balancing Creativity and Consistency in RAG.](https://dev.to/llmware/are-we-all-prompting-wrong-balancing-creativity-and-consistency-in-rag-20fm)
-- [Machine Learning Roadmap for Beginners &lpar; If you have a Non-CSE background like me😉&rpar;](https://dev.to/shemanto_sharkar/machine-learning-roadmap-for-beginners-if-you-have-a-non-cse-background-like-me-7g3)
-- [Scroll-snap property Exemple](https://dev.to/tidycoder/scroll-snap-property-exemple-20eg)
-- [How I Befriended Segment Trees](https://dev.to/speckoflight/how-i-befriended-segment-trees-4p8a)
+- [🧱 Inmutabilidad](https://dev.to/oscareduardolp6/inmutabilidad-2n1n)
+- [🧱 Immutability](https://dev.to/oscareduardolp6/immutability-5gph)
+- [The Cloneable Interface](https://dev.to/paulike/the-cloneable-interface-icp)
+- [Automatisons l&#39;enregistrement du User sur n&#39;importe quelle entité [Symfony]](https://dev.to/aratinau/automatisons-lenregistrement-du-user-sur-nimporte-quelle-entite-4f68)
+- [Understanding Shopify Functions. Part 1: What they are, and why they’re important](https://dev.to/gadgetdev/understanding-shopify-functions-part-1-what-they-are-and-why-theyre-important-3fli)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
