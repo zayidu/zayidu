@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Valibot: A New Approach to Data Validation in JavaScript](https://dev.to/opensauced/valibot-a-new-approach-to-data-validation-in-javascript-1mgb)
-- [Your First Project in Blup A Step-by-Step Guide in Flutter News 2024 #24 ʚїɞ](https://dev.to/lucianojung/your-first-project-in-blup-a-step-by-step-guide-in-flutter-news-2024-24-eyie-1p1e)
-- [Exploring FTP and SSL/TLS Protocols in Networking: A Comprehensive Guide](https://dev.to/iaadidev/exploring-ftp-and-ssltls-protocols-in-networking-a-comprehensive-guide-1l02)
-- [Getting started with Valkey using JavaScript](https://dev.to/aws/getting-started-with-valkey-using-javascript-3fc9)
-- [Paguina](https://dev.to/walter_sanchez/paguina-1i85)
+- [Crafting a web SDK for Logto in minutes](https://dev.to/logto/crafting-a-web-sdk-for-logto-in-minutes-i4p)
+- [5 Quick Fixes for Power Automate](https://dev.to/wyattdave/5-quick-fixes-for-power-automate-1ola)
+- [How to deploy a React app with Kamal &lpar;formerly known as MRSK&rpar; &amp; GitHub Action](https://dev.to/tannakartikey/how-to-deploy-a-react-app-with-kamal-formerly-known-as-mrsk-github-action-32i8)
+- [which web development agency excels in both creativity and functionality?](https://dev.to/akshiya_50c4f18ab5c50370c/which-web-development-agency-excels-in-both-creativity-and-functionality-2fi2)
+- [Compiler In One Byte](https://dev.to/sharavana/compiler-in-one-byte-4hf1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
