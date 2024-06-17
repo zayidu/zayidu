@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BEM Modifiers in Pure CSS Nesting](https://dev.to/what1s1ove/bem-modifiers-in-pure-css-nesting-4j9k)
-- [Onshoring vs. Offshoring Developer Comparison](https://dev.to/zoey_nguyen/onshoring-vs-offshoring-developer-comparison-49m9)
-- [Mastering Web Breakpoints: Creating Responsive Designs for All Devices 🔥](https://dev.to/alisamirali/mastering-web-breakpoints-creating-responsive-designs-for-all-devices-3jmj)
-- [How to Check for Key Presence in a JavaScript Object](https://dev.to/keploy/how-to-check-for-key-presence-in-a-javascript-object-3589)
-- [Security Hazards in the Use of startActivityForResult and setResult](https://dev.to/tecno-security/security-hazards-in-the-use-of-startactivityforresult-and-setresult-3p54)
+- [Navigating the Virtual Realm: Tips and Strategies for Managing Remote Teams](https://dev.to/techstuff/navigating-the-virtual-realm-tips-and-strategies-for-managing-remote-teams-1pic)
+- [MySQL to GBase 8c Migration Guide](https://dev.to/congcong/mysql-to-gbase-8c-migration-guide-31ch)
+- [Postgres to Snowflake Data Integration with Estuary Flow](https://dev.to/techsourabh/postgres-to-snowflake-data-integration-with-estuary-flow-5ba8)
+- [Redux-Toolkit vs React Context API: A Deep Dive into State Management.💪🚀🚀](https://dev.to/dharamgfx/redux-toolkit-vs-react-context-api-a-deep-dive-into-state-management-2b2n)
+- [Deploy a ReactJS App with ViteJS to GitHub Pages using GitHub Actions | Step-by-Step Tutorial](https://dev.to/gkhan205/deploy-a-reactjs-app-with-vitejs-to-github-pages-using-github-actions-step-by-step-tutorial-1gii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
