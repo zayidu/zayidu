@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master The Behavioral Interview: 5 Effective Storytelling Frameworks](https://dev.to/alexr/master-the-behavioral-interview-5-effective-storytelling-frameworks-5df4)
-- [Top 8 Gaming open-source projects](https://dev.to/litlyx/top-9-gaming-open-source-projects-5f6f)
-- [A Straightforward Guide for MySQL Locks](https://dev.to/eyo000000/a-straightforward-guide-for-mysql-locks-56i1)
-- [HTML Elements](https://dev.to/nmiller15/html-elements-38m4)
-- [Thank you for support [dil s acha lagta h❤]](https://dev.to/aryan015/thank-you-for-support-dil-s-acha-lagta-h-27nj)
+- [ABSTRACTION](https://dev.to/ojus_coder/abstraction-4eg7)
+- [Why Contribute to Open Source: Pros and Cons for Beginners](https://dev.to/usulpro/why-contribute-to-open-source-pros-and-cons-for-beginners-5cgm)
+- [Meme Monday](https://dev.to/ben/meme-monday-53am)
+- [How I Reverse-Engineered My CPU Cooler LED Display](https://dev.to/rodpadev/how-i-reverse-engineered-my-cpu-cooler-led-display-2106)
+- [** ¡Imagina lo adorable! Prompts creativos para imágenes tiernas en Copilot**✨🧙‍♀️](https://dev.to/orlidev/-imagina-lo-adorable-prompts-creativos-para-imagenes-tiernas-en-copilot-18ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
