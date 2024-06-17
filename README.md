@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ABSTRACTION](https://dev.to/ojus_coder/abstraction-4eg7)
-- [Why Contribute to Open Source: Pros and Cons for Beginners](https://dev.to/usulpro/why-contribute-to-open-source-pros-and-cons-for-beginners-5cgm)
-- [Meme Monday](https://dev.to/ben/meme-monday-53am)
-- [How I Reverse-Engineered My CPU Cooler LED Display](https://dev.to/rodpadev/how-i-reverse-engineered-my-cpu-cooler-led-display-2106)
-- [** ¡Imagina lo adorable! Prompts creativos para imágenes tiernas en Copilot**✨🧙‍♀️](https://dev.to/orlidev/-imagina-lo-adorable-prompts-creativos-para-imagenes-tiernas-en-copilot-18ej)
+- [#babylonjs Browser MMORPG #indiegamedev Ep21 - Spatial Hash Grid Area of Interest](https://dev.to/maiu/babylonjs-browser-mmorpg-indiegamedev-ep21-spatial-hash-grid-area-of-interest-4fmc)
+- [Are we all prompting wrong? Balancing Creativity and Consistency in RAG.](https://dev.to/llmware/are-we-all-prompting-wrong-balancing-creativity-and-consistency-in-rag-20fm)
+- [Machine Learning Roadmap for Beginners &lpar; If you have a Non-CSE background like me😉&rpar;](https://dev.to/shemanto_sharkar/machine-learning-roadmap-for-beginners-if-you-have-a-non-cse-background-like-me-7g3)
+- [Scroll-snap property Exemple](https://dev.to/tidycoder/scroll-snap-property-exemple-20eg)
+- [How I Befriended Segment Trees](https://dev.to/speckoflight/how-i-befriended-segment-trees-4p8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
