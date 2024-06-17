@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Community Day 2024: A Landmark Event in Kenya&#39;s Tech Landscape](https://dev.to/aws-builders/aws-community-day-2024-a-landmark-event-in-kenyas-tech-landscape-5073)
-- [Class Design Guidelines](https://dev.to/paulike/class-design-guidelines-58gc)
-- [What are the Benefits of Using ECMAScript Classes Over Traditional Prototype-Based Inheritance?](https://dev.to/orases1/what-are-the-benefits-of-using-ecmascript-classes-over-traditional-prototype-based-inheritance-2j7h)
-- [Creating a browser extension for Chrome / Edge](https://dev.to/prakashm88/creating-a-browser-extension-for-chrome-edge-3d69)
-- [How to Manage Terraform Versions](https://dev.to/kvendingoldo/how-to-manage-terraform-versions-2e2l)
+- [Rendering Images The Good Way In Your React Application](https://dev.to/stan015/rendering-images-the-good-way-in-your-react-application-3fdl)
+- [Task Unity- Achieve More Together](https://dev.to/mdkaifansari04/task-unity-achieve-more-together-2co2)
+- [THE ROTATION THING PART 2](https://dev.to/kevinpalma21/the-rotation-thing-part-2-3nnm)
+- [Are Sync Engines The Future of Web Applications?](https://dev.to/isaachagoel/are-sync-engines-the-future-of-web-applications-1bbi)
+- [Analyzing Svenskalag Data using DBT and DuckDB](https://dev.to/calleo/analyzing-svenskalag-data-using-dbt-and-duckdb-4lcf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
