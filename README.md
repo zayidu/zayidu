@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Diffusion: An Elementary Tutorial](https://dev.to/mikeyoung44/step-by-step-diffusion-an-elementary-tutorial-7cc)
-- [Rough Set improved Therapy-Based Metaverse Assisting System](https://dev.to/mikeyoung44/rough-set-improved-therapy-based-metaverse-assisting-system-450l)
-- [AES: The Power of Advanced Encryption Standard for Data Security](https://dev.to/harish_05/aes-the-power-of-advanced-encryption-standard-for-data-security-g6c)
-- [Open Problems in DAOs](https://dev.to/mikeyoung44/open-problems-in-daos-35cn)
-- [Unlearning Traces the Influential Training Data of Language Models](https://dev.to/mikeyoung44/unlearning-traces-the-influential-training-data-of-language-models-87m)
+- [Master The Behavioral Interview: 5 Effective Storytelling Frameworks](https://dev.to/alexr/master-the-behavioral-interview-5-effective-storytelling-frameworks-5df4)
+- [Top 8 Gaming open-source projects](https://dev.to/litlyx/top-9-gaming-open-source-projects-5f6f)
+- [A Straightforward Guide for MySQL Locks](https://dev.to/eyo000000/a-straightforward-guide-for-mysql-locks-56i1)
+- [HTML Elements](https://dev.to/nmiller15/html-elements-38m4)
+- [Thank you for support [dil s acha lagta h❤]](https://dev.to/aryan015/thank-you-for-support-dil-s-acha-lagta-h-27nj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
