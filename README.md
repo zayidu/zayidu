@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Explore What is Azure Monitor: Features, Benefits, and Use Cases](https://dev.to/dhruvil_joshi14/explore-what-is-azure-monitor-features-benefits-and-use-cases-2m8g)
-- [Types for React components with children](https://dev.to/zeedu_dev/types-for-react-components-with-children-5d7k)
-- [The backdrop-filter CSS property has been unprefixed](https://dev.to/robole/the-backdrop-filter-css-property-has-been-unprefixed-1c82)
-- [Understanding the Basics: What is Electronic Data Interchange &lpar;EDI&rpar;?](https://dev.to/actionedi/understanding-the-basics-what-is-electronic-data-interchange-edi-1h3n)
-- [Linux Text Display](https://dev.to/labex/linux-text-display-28jg)
+- [Image Optimization and Lazy Loading](https://dev.to/joaopaulo_avila/image-optimization-and-lazy-loading-30gj)
+- [I discovered Rust&#39;s zero-cost abstraction](https://dev.to/ashsajal/i-discovered-rusts-zero-cost-abstraction-akk)
+- [From Noise to Art: Building Your First Generative Adversarial Network](https://dev.to/yuval728/from-noise-to-art-building-your-first-generative-adversarial-network-472o)
+- [Experience the Future of Icon Creation with IconSnap!](https://dev.to/stokry/experience-the-future-of-icon-creation-with-iconsnap-2dmf)
+- [Difference Between Performance Testing, Load Testing, and Stress Testing](https://dev.to/testscenario/difference-between-performance-testing-load-testing-and-stress-testing-29eh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
