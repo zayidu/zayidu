@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Humans of OpenTelemetry: KubeCon EU 2024](https://dev.to/avillela/the-humans-of-opentelemetry-kubecon-eu-2024-1hm5)
-- [Building a Rock-Solid Foundation with Infrastructure as Code &lpar;IaC&rpar;](https://dev.to/gauri1504/building-a-rock-solid-foundation-with-infrastructure-as-code-iac-efo)
-- [Understanding OIDC back-channel logout](https://dev.to/logto/understanding-oidc-back-channel-logout-f95)
-- [Day 1: Introduction to Data Structures and Algorithms &lpar;DSA&rpar;🚀](https://dev.to/dipakahirav/day-1-introduction-to-data-structures-and-algorithms-dsa-122o)
-- [Day 1: Introduction to Data Structures and Algorithms &lpar;DSA&rpar;🚀](https://dev.to/dipakahirav/day-1-introduction-to-data-structures-and-algorithms-dsa-3d43)
+- [Valibot: A New Approach to Data Validation in JavaScript](https://dev.to/opensauced/valibot-a-new-approach-to-data-validation-in-javascript-1mgb)
+- [Your First Project in Blup A Step-by-Step Guide in Flutter News 2024 #24 ʚїɞ](https://dev.to/lucianojung/your-first-project-in-blup-a-step-by-step-guide-in-flutter-news-2024-24-eyie-1p1e)
+- [Exploring FTP and SSL/TLS Protocols in Networking: A Comprehensive Guide](https://dev.to/iaadidev/exploring-ftp-and-ssltls-protocols-in-networking-a-comprehensive-guide-1l02)
+- [Getting started with Valkey using JavaScript](https://dev.to/aws/getting-started-with-valkey-using-javascript-3fc9)
+- [Paguina](https://dev.to/walter_sanchez/paguina-1i85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
