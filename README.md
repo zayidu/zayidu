@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rendering Images The Good Way In Your React Application](https://dev.to/stan015/rendering-images-the-good-way-in-your-react-application-3fdl)
-- [Task Unity- Achieve More Together](https://dev.to/mdkaifansari04/task-unity-achieve-more-together-2co2)
-- [THE ROTATION THING PART 2](https://dev.to/kevinpalma21/the-rotation-thing-part-2-3nnm)
-- [Are Sync Engines The Future of Web Applications?](https://dev.to/isaachagoel/are-sync-engines-the-future-of-web-applications-1bbi)
-- [Analyzing Svenskalag Data using DBT and DuckDB](https://dev.to/calleo/analyzing-svenskalag-data-using-dbt-and-duckdb-4lcf)
+- [Mastering API Integrations: A Step-by-Step Guide to Secure API Authentication in Java](https://dev.to/joaomarques/mastering-api-integrations-a-step-by-step-guide-to-secure-api-authentication-in-java-3b36)
+- [Quamtum Computing and its importance](https://dev.to/elmerurbina/quamtum-computing-and-its-importance-29on)
+- [Latest Redux Toolkit: Using the Builder Callback Notation in createReducer 💻](https://dev.to/adii/latest-redux-toolkit-using-the-builder-callback-notation-in-createreducer-1p5)
+- [OpenAI has a new .NET SDK!](https://dev.to/michaeljolley/openai-has-a-new-net-sdk-4lpg)
+- [My first experience with the LAMP stack](https://dev.to/marko_k/my-first-experience-with-the-lamp-stack-b0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
