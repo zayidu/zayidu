@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AIM Weekly 17 June 2024](https://dev.to/tspannhw/aim-weekly-17-june-2024-3cmp)
-- [Tech radar: Keep an eye on the technology landscape](https://dev.to/jdxlabs/tech-radar-keep-an-eye-on-the-technology-landscape-2pnd)
-- [Day 18 of 30 of JavaScript](https://dev.to/akshat0610/day-18-of-30-of-javascript-1ph8)
-- [In Java how to create a custom ArrayList that doesn&#39;t allow duplicate?](https://dev.to/codegreen/in-java-how-to-create-a-custom-arraylist-that-doesnt-allow-duplicate-dbj)
-- [Error Handling and Testing in Go](https://dev.to/gophers_kisumu/error-handling-and-testing-in-go-4c9n)
+- [Resolve Content Security Policy &lpar;CSP&rpar; Issues in Your Discord Activity Using a Node.js Proxy](https://dev.to/waveplay/resolve-content-security-policy-csp-issues-in-your-discord-activity-using-a-nodejs-proxy-2634)
+- [Interval Score Matching: Enhancing Fidelity in Text-to-3D Models with LucidDreamer](https://dev.to/voxel51/interval-score-matching-enhancing-fidelity-in-text-to-3d-models-with-luciddreamer-33ja)
+- [Fixing CLIP’s Blind Spots: How New Research Tackles AI’s Visual Misinterpretations](https://dev.to/voxel51/fixing-clips-blind-spots-how-new-research-tackles-ais-visual-misinterpretations-2m6a)
+- [Improving CSS Loading in React Applications: Avoiding `@import` in `createGlobalStyle`](https://dev.to/mochafreddo/improving-css-loading-in-react-applications-avoiding-import-in-createglobalstyle-4d9p)
+- [Lukas Höllein on the Challenges and Opportunities of Text-to-3D with “ViewDiff”](https://dev.to/voxel51/lukas-hollein-on-the-challenges-and-opportunities-of-text-to-3d-with-viewdiff-3jn8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
