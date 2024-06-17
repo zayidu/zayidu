@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data structure](https://dev.to/suhngeun_yang/data-structure-kan)
-- [NestJS and TypeORM — Efficient Schema-Level Multi-Tenancy with Auto Generated Migrations: A DX Approach](https://dev.to/logeek/nestjs-and-typeorm-efficient-schema-level-multi-tenancy-with-auto-generated-migrations-a-dx-approach-jla)
-- [Pyenv para Iniciantes.](https://dev.to/theleanz/pyenv-para-iniciantes-3jkl)
-- [The loss functions for Neural Network in PyTorch](https://dev.to/hyperkai/the-loss-functions-for-neural-network-in-pytorch-hf9)
-- [Data Dynamics: Exploring Information Theory Essentials](https://dev.to/kevinbg012/data-dynamics-exploring-information-theory-essentials-1eoa)
+- [SSL context creation crashes of c++ native module in Electron application](https://dev.to/codert0109/ssl-context-creation-crashes-of-c-native-module-in-electron-application-307a)
+- [The Basics of BABEL](https://dev.to/gagecantrelle/the-basics-of-babel-2d8f)
+- [Top CSS Websites for Developers: Elevate Your Frontend Skills](https://dev.to/vyan/top-css-websites-for-developers-elevate-your-frontend-skills-550l)
+- [Azure Resource Naming Conventions! Best Practices for Optimal Management](https://dev.to/karthiksdevopsengineer/azure-resource-naming-conventions-best-practices-for-optimal-management-9d0)
+- [How to Extract Text From PDF in C# &lpar;Beginner Tutorial&rpar;](https://dev.to/tayyabcodes/how-to-extract-text-from-pdf-in-c-beginner-tutorial-20li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
