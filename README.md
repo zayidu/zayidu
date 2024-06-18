@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Environment Variables in Node.js: A Step-by-Step Guide Using DotEnv](https://dev.to/spiritmoney/mastering-environment-variables-in-nodejs-a-step-by-step-guide-using-dotenv-39h9)
-- [Create A Responsive Coffee Website in HTML and CSS](https://dev.to/codingnepal/create-a-responsive-coffee-website-in-html-and-css-1ehm)
-- [Resend: Transformando a Forma Como Enviamos E-mails Transacionais](https://dev.to/iamthiago/resend-transformando-a-forma-como-enviamos-e-mails-transacionais-49k4)
-- [6 Captivating Pandas Programming Challenges 🔍](https://dev.to/labex/6-captivating-pandas-programming-challenges-4cmg)
-- [8+ Tailwind CSS Alert Examples [Open-Source &amp; Free]](https://dev.to/creativetim_official/8-tailwind-css-alert-examples-open-source-free-25jp)
+- [Lock / Mutex to a CS undergraduate](https://dev.to/sauravshah31/lock-mutex-to-a-cs-undergraduate-59me)
+- [Building a SQL Report Generator using Gemini AI + ToolJet](https://dev.to/tooljet/building-a-sql-report-generator-using-gemini-ai-tooljet-424p)
+- [Summer coding projects](https://dev.to/hppranaav02/summer-coding-projects-2iko)
+- [wc tool in python](https://dev.to/hppranaav02/wc-tool-in-python-3lke)
+- [Automating Well-Architected reviews](https://dev.to/niklaswesterstrahle/automating-well-architected-reviews-2m6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
