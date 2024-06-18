@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A journey to Flutter liveness &lpar;pt1&rpar;](https://dev.to/jodamco/a-journey-to-flutter-liveness-pt1-4164)
-- [Design Pattern Operation Result em C#](https://dev.to/felipesntr/design-pattern-operation-result-em-c-2g8o)
-- [Byte: Beads on a Bracelet](https://dev.to/avishek_chowdhury/byte-beads-on-a-bracelet-f5b)
-- [JPG to WebP: Enhancing Image Efficiency](https://dev.to/msmith99994/jpg-to-webp-enhancing-image-efficiency-205p)
-- [Mastering Scalable React Apps. Your Ultimate Guide to High-Performance Development!](https://dev.to/michael_osas/mastering-scalable-react-apps-your-ultimate-guide-to-high-performance-development-59fo)
+- [Twilio Challenge: SmartyCall - AI Powered Competitive Trivia](https://dev.to/bengreenberg/twilio-challenge-smartycall-ai-powered-competitive-trivia-409l)
+- [Generate QR Codes Easily with Our Modern QR Code Generator API](https://dev.to/pr0biex/generate-qr-codes-easily-with-our-modern-qr-code-generator-api-1o3m)
+- [Lock / Mutex to a software engineer &lpar;Difficulty 3&rpar;](https://dev.to/sauravshah31/lock-mutex-to-a-software-engineer-5hm8)
+- [Embarking on My UI/UX Design Journey: Day 1 - Introduction and Course Outline](https://dev.to/prince_chouhan/embarking-on-my-uiux-design-journey-day-1-introduction-and-course-outline-20e6)
+- [How To Map PostgreSQL `point` Data Type To Java PGpoint Data Type?](https://dev.to/georgech2/how-to-map-postgresql-point-data-type-to-java-pgpoint-data-type-4d8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
