@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Fundamentals of Data Visualization with ggplot2](https://dev.to/kartikmehta8/exploring-the-fundamentals-of-data-visualization-with-ggplot2-2f0h)
-- [A Trigger Analogy](https://dev.to/thedigitalbricklayer/a-trigger-analogy-1gkc)
-- [Importance of JPG Images](https://dev.to/msmith99994/importance-of-jpg-images-3ffe)
-- [El estado actual de la IA en LMS de código abierto: Comparación entre Moodle, Canvas, Open edX y Sakai](https://dev.to/jobcespedes/el-estado-actual-de-la-ia-en-lms-de-codigo-abierto-comparacion-entre-moodle-canvas-open-edx-y-sakai-1jl6)
-- [Deploying a &quot;Hello World&quot; Application to AWS Elastic Beanstalk](https://dev.to/prakash_rao/deploying-a-hello-world-application-to-aws-elastic-beanstalk-pag)
+- [Little Bugs, Big Problems](https://dev.to/mlr/little-bugs-big-problems-59gg)
+- [Idconfig](https://dev.to/nicholas_cheza_4d291be7f2/idconfig-7ob)
+- [Git for Beginners: Basic Commands...](https://dev.to/andresordazrs/git-for-beginners-basic-commands-4b4i)
+- [Deco Hackathon focused on HTMX. Up to $5k in prizes!](https://dev.to/gbrantunes/deco-hackathon-focused-on-htmx-up-to-5k-in-prizes-1g2k)
+- [Food tracker app &lpar;Phase 1/?&rpar; for show how you split your money](https://dev.to/caresle/food-tracker-app-phase-1-for-show-how-you-split-your-money-3p8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
