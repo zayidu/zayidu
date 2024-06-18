@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Basics 4: Input Function](https://dev.to/coderanger08/python-basics-4-input-function-5e94)
-- [EXCEPTİON HANDLİNG FOR SHADY PEOPLE WİTH SHADY CODE](https://dev.to/kerkg/exception-handling-for-shady-people-with-shady-code-40pl)
-- [A Thank You ❤️](https://dev.to/magnificode/a-thank-you-3od1)
-- [One Byte Explainer](https://dev.to/danny_monyela_df495ca7abc/one-byte-explainer-2kn4)
-- [Conflict-Free Replicated Data Types &lpar;CRDTs&rpar; in Frontend Development](https://dev.to/syedmuhammadaliraza/conflict-free-replicated-data-types-crdts-in-frontend-development-4nh3)
+- [SQLynx - Best Web-Based SQL Editor for Developers and Data Analysts](https://dev.to/concerate/sqlynx-best-web-based-sql-editor-for-developers-and-data-analysts-1p0f)
+- [Day 973 : Deal With That](https://dev.to/dwane/day-973-deal-with-that-2d78)
+- [Hashing](https://dev.to/valentintt/hashing-318p)
+- [PNG to JPG: Optimizing Your Image Formats](https://dev.to/msmith99994/png-to-jpg-optimizing-your-image-formats-3ogd)
+- [Nuxt + ESLint 9 + TypeScript + Prettier - Configuration Guide 2024](https://dev.to/jeanjavi/nuxt-eslint-9-typescript-prettier-configuration-guide-2024-4h2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
