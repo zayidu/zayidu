@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Automatically Approve All Posts in Your Reddit Subreddit](https://dev.to/sh20raj/how-to-automatically-approve-all-posts-in-your-reddit-subreddit-1hmk)
-- [How to Empower Developers with Guardrails Instead of Cages](https://dev.to/getambassador2024/how-to-empower-developers-with-guardrails-instead-of-cages-395l)
-- [Pull Request Review using AI: A Technical Guide](https://dev.to/coderbotics_ai/pull-request-review-using-ai-a-technical-guide-55cm)
-- [Every Google &amp;udm=? in the world](https://dev.to/terrytanys/every-google-udm-in-the-world-2a88)
-- [cTop Python Libraries for Data Science in 2024](https://dev.to/sh20raj/ctop-python-libraries-for-data-science-in-2024-2a3f)
+- [PACX ⁓ Create columns: Choice &lpar;Picklist&rpar;](https://dev.to/_neronotte/pacx-create-columns-choice-picklist-3m11)
+- [Security Principles an overview of containers](https://dev.to/saumya27/security-principles-an-overview-of-containers-23ej)
+- [Top 6 Productivity Web Development Tools](https://dev.to/shyam1806/top-6-productivity-web-development-tools-3ib7)
+- [Essential Education and Certifications for Data Science Careers](https://dev.to/kavana-bm/essential-education-and-certifications-for-data-science-careers-4opg)
+- [Day 6 of 30... Was to be posted yesterday](https://dev.to/francis_ngugi/day-6-of-30-was-to-be-posted-yesterday-2c3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
