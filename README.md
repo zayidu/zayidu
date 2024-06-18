@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Configure ESLint for TypeScript Projects](https://dev.to/jupri-organization/how-to-configure-eslint-for-typescript-projects-1aip)
-- [A Brief History Of The Internet And The World Wide Web](https://dev.to/baraq/a-brief-history-of-the-internet-and-the-world-wide-web-1mhm)
-- [One Byte Explainer Challenge solution&lpar;Recursion&rpar;](https://dev.to/sakutiriko/one-byte-explainer-challenge-solutionrecursion-13bo)
-- [A Modern Python Toolkit: Pydantic, Ruff, MyPy, and UV](https://dev.to/devasservice/a-modern-python-toolkit-pydantic-ruff-mypy-and-uv-4b2f)
-- [Filtering and Mapping in JavaScript](https://dev.to/tamikaxuross/filtering-and-mapping-in-javascript-lac)
+- [Empleabilidad en el ámbito cloud, by Experis](https://dev.to/aws-espanol/empleabilidad-en-el-ambito-cloud-by-experis-3df)
+- [Papo e Ideias: Conectando Tecnologia e Negócios!](https://dev.to/pedrobarreto/papo-e-ideias-conectando-tecnologia-e-negocios-203d)
+- [amber: writing bash scripts in amber instead. pt. 1: commands and error handling](https://dev.to/gbhorwood/amber-writing-bash-scripts-in-amber-instead-pt-1-commands-and-error-handling-1aao)
+- [Mixture-of-Agents Enhances Large Language Model Capabilities✨](https://dev.to/pratikwayase/mixture-of-agents-enhances-large-language-model-capabilities-1938)
+- [Case Study: How JavaScript Gantt Charts Facilitate Planning](https://dev.to/lenormor/case-study-how-javascript-gantt-charts-facilitate-planning-4f7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
