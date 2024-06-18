@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lock / Mutex to a CS undergraduate](https://dev.to/sauravshah31/lock-mutex-to-a-cs-undergraduate-59me)
-- [Building a SQL Report Generator using Gemini AI + ToolJet](https://dev.to/tooljet/building-a-sql-report-generator-using-gemini-ai-tooljet-424p)
-- [Summer coding projects](https://dev.to/hppranaav02/summer-coding-projects-2iko)
-- [wc tool in python](https://dev.to/hppranaav02/wc-tool-in-python-3lke)
-- [Automating Well-Architected reviews](https://dev.to/niklaswesterstrahle/automating-well-architected-reviews-2m6c)
+- [How to Configure ESLint for TypeScript Projects](https://dev.to/jupri-organization/how-to-configure-eslint-for-typescript-projects-1aip)
+- [A Brief History Of The Internet And The World Wide Web](https://dev.to/baraq/a-brief-history-of-the-internet-and-the-world-wide-web-1mhm)
+- [One Byte Explainer Challenge solution&lpar;Recursion&rpar;](https://dev.to/sakutiriko/one-byte-explainer-challenge-solutionrecursion-13bo)
+- [A Modern Python Toolkit: Pydantic, Ruff, MyPy, and UV](https://dev.to/devasservice/a-modern-python-toolkit-pydantic-ruff-mypy-and-uv-4b2f)
+- [Filtering and Mapping in JavaScript](https://dev.to/tamikaxuross/filtering-and-mapping-in-javascript-lac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
