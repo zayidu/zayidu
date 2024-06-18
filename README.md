@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Authentication Providers in Next.js](https://dev.to/vyan/exploring-authentication-providers-in-nextjs-4nh7)
-- [Top 10 Web3 Grants You Should Know About](https://dev.to/scofieldidehen/top-10-web3-grants-you-should-know-about-ff4)
-- [How to Set Up a Reverse Proxy](https://dev.to/iaadidev/how-to-set-up-a-reverse-proxy-124n)
-- [Unhandled Runtime Error TypeError: Cannot read properties of undefined &lpar;reading &#39;sizes&#39;&rpar;](https://dev.to/muhammad_usman_279dbe6379/unhandled-runtime-errortypeerror-cannot-read-properties-of-undefined-reading-sizes-4071)
-- [Optimizing Cloud Ops for Maximum Efficiency](https://dev.to/brian_bates_5abcb676a549c/optimizing-cloud-ops-for-maximum-efficiency-3o1e)
+- [How to Automatically Approve All Posts in Your Reddit Subreddit](https://dev.to/sh20raj/how-to-automatically-approve-all-posts-in-your-reddit-subreddit-1hmk)
+- [How to Empower Developers with Guardrails Instead of Cages](https://dev.to/getambassador2024/how-to-empower-developers-with-guardrails-instead-of-cages-395l)
+- [Pull Request Review using AI: A Technical Guide](https://dev.to/coderbotics_ai/pull-request-review-using-ai-a-technical-guide-55cm)
+- [Every Google &amp;udm=? in the world](https://dev.to/terrytanys/every-google-udm-in-the-world-2a88)
+- [cTop Python Libraries for Data Science in 2024](https://dev.to/sh20raj/ctop-python-libraries-for-data-science-in-2024-2a3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
