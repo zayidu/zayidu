@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [1.WHAT IS SELENIUM 2.USE OF SELENIUM FOR AUTOMATION](https://dev.to/sunmathi/1what-is-selenium-2use-of-selenium-for-automation-jhf)
-- [** Perdidos en la Isla del Internet de las Cosas: IoT y la Serie &quot;Lost&quot;** 🏝️](https://dev.to/orlidev/-perdidos-en-la-isla-del-internet-de-las-cosas-iot-y-la-serie-lost-41n3)
-- [Understanding Concurrency and Parallelism: What&#39;s the Difference?](https://dev.to/ryanmabrouk/understanding-concurrency-and-parallelism-whats-the-difference-3d45)
-- [Developer Updates - May 2024](https://dev.to/supabase/developer-updates-may-2024-34ki)
-- [Learning about 3D model](https://dev.to/lmacanda/learning-about-3d-model-f3m)
+- [A journey to Flutter liveness &lpar;pt1&rpar;](https://dev.to/jodamco/a-journey-to-flutter-liveness-pt1-4164)
+- [Design Pattern Operation Result em C#](https://dev.to/felipesntr/design-pattern-operation-result-em-c-2g8o)
+- [Byte: Beads on a Bracelet](https://dev.to/avishek_chowdhury/byte-beads-on-a-bracelet-f5b)
+- [JPG to WebP: Enhancing Image Efficiency](https://dev.to/msmith99994/jpg-to-webp-enhancing-image-efficiency-205p)
+- [Mastering Scalable React Apps. Your Ultimate Guide to High-Performance Development!](https://dev.to/michael_osas/mastering-scalable-react-apps-your-ultimate-guide-to-high-performance-development-59fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
