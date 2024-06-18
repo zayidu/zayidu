@@ -31,13 +31,6 @@ Here are some ideas to get you started: -->
 - 🌏 I love to explore new places and love reading books 📕📚📖 ...
 - 👯 I’m looking to collaborate on Github React Projects...
 - 🏋🏼 CrossFit 🚴Cycling...
-<!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: <a href="https://zayidu.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-zayidu.github.io/portfolio-blue"></img></a>...
-
-### Tools I work upon : 🛠
-
-
-<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" ></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" ></a>   <a href="https://www.sap.com/index.html" target="_blank"><img src="https://img.shields.io/badge/SAP%20-fff.svg?&style=for-the-badge&logo=sap&logoColor=%fff" ></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" ></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" ></a>   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" ></a>   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>   <a href="https://code.visualstudio.com/" target="_blank"><img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue" ></a>
 
 ## Follow Me On Strava
 
@@ -49,6 +42,13 @@ Here are some ideas to get you started: -->
   <p>Click the badge to view my Strava profile and recent activities!</p>
 </div>
 
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: <a href="https://zayidu.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-zayidu.github.io/portfolio-blue"></img></a>...
+
+### Tools I work upon : 🛠
+
+
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" ></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" ></a>   <a href="https://www.sap.com/index.html" target="_blank"><img src="https://img.shields.io/badge/SAP%20-fff.svg?&style=for-the-badge&logo=sap&logoColor=%fff" ></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" ></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" ></a>   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" ></a>   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>   <a href="https://code.visualstudio.com/" target="_blank"><img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue" ></a>
 
 
 ## Github Stats:
