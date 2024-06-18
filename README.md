@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust vs. C++: Modern Developers’ Dilemma](https://dev.to/zoltan_fehervari_52b16d1d/rust-vs-c-modern-developers-dilemma-1i0p)
-- [Swithing Data Types: Understanding the &#39;Type Switch&#39; in GoLang](https://dev.to/ishmam_abir/swithing-data-types-understanding-the-type-switch-in-golang-4enc)
-- [Combatting Food Waste with Code: Python for Perishable Goods](https://dev.to/akaksha/combatting-food-waste-with-code-python-for-perishable-goods-2e56)
-- [Lessons from Google’s technical writing course for engineering blogs](https://dev.to/annelaure13/lessons-from-googles-technical-writing-course-for-engineering-blogs-4458)
-- [Common Mistakes Beginners Make in Frontend Development](https://dev.to/klimd1389/common-mistakes-beginners-make-in-frontend-development-12oc)
+- [HMPL - new template language for fetching HTML from API](https://dev.to/antonmak1/hmpl-new-template-language-for-fetching-html-from-api-5a7c)
+- [In Excel, Combine Multiple Detail Data Columns into One Row in Each Group](https://dev.to/judith677/in-excel-combine-multiple-detail-data-columns-into-one-row-in-each-group-39d)
+- [Top 19 Contributed Repositories on GitHub](https://dev.to/litlyx/top-19-contributed-repositories-on-github-2aei)
+- [Navbar components built for e-commerce with Tailwind CSS and Flowbite](https://dev.to/themesberg/navbar-components-built-for-e-commerce-with-tailwind-css-and-flowbite-423a)
+- [The Concept of Abstraction](https://dev.to/sarahokolo/the-concept-of-abstraction-2fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
