@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Interceptors: The basics and their use under Entity Framework](https://dev.to/ben-witt/interceptors-the-basics-and-their-use-under-entity-framework-j8f)
-- [Understanding Null, Undefined, and Undeclared in JavaScript](https://dev.to/dk119819/understanding-null-undefined-and-undeclared-in-javascript-3k66)
-- [Day 2: Understanding Big O Notation 📊](https://dev.to/dipakahirav/day-2-understanding-big-o-notation-1l7m)
-- [Why You Should Choose MicroPython for Prototyping and Research Work](https://dev.to/shemanto_sharkar/why-you-should-choose-micropython-for-prototyping-and-research-work-41p7)
-- [Luma AI Dream Machine: The Ultimate AI Video Creator](https://dev.to/hyscaler/luma-ai-dream-machine-the-ultimate-ai-video-creator-4hc2)
+- [Rust vs. C++: Modern Developers’ Dilemma](https://dev.to/zoltan_fehervari_52b16d1d/rust-vs-c-modern-developers-dilemma-1i0p)
+- [Swithing Data Types: Understanding the &#39;Type Switch&#39; in GoLang](https://dev.to/ishmam_abir/swithing-data-types-understanding-the-type-switch-in-golang-4enc)
+- [Combatting Food Waste with Code: Python for Perishable Goods](https://dev.to/akaksha/combatting-food-waste-with-code-python-for-perishable-goods-2e56)
+- [Lessons from Google’s technical writing course for engineering blogs](https://dev.to/annelaure13/lessons-from-googles-technical-writing-course-for-engineering-blogs-4458)
+- [Common Mistakes Beginners Make in Frontend Development](https://dev.to/klimd1389/common-mistakes-beginners-make-in-frontend-development-12oc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
