@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Twilio Challenge: SmartyCall - AI Powered Competitive Trivia](https://dev.to/bengreenberg/twilio-challenge-smartycall-ai-powered-competitive-trivia-409l)
-- [Generate QR Codes Easily with Our Modern QR Code Generator API](https://dev.to/pr0biex/generate-qr-codes-easily-with-our-modern-qr-code-generator-api-1o3m)
-- [Lock / Mutex to a software engineer &lpar;Difficulty 3&rpar;](https://dev.to/sauravshah31/lock-mutex-to-a-software-engineer-5hm8)
-- [Embarking on My UI/UX Design Journey: Day 1 - Introduction and Course Outline](https://dev.to/prince_chouhan/embarking-on-my-uiux-design-journey-day-1-introduction-and-course-outline-20e6)
-- [How To Map PostgreSQL `point` Data Type To Java PGpoint Data Type?](https://dev.to/georgech2/how-to-map-postgresql-point-data-type-to-java-pgpoint-data-type-4d8h)
+- [Case Study - TDD in Node.js Inspector Server and Other Projects](https://dev.to/eugeneo_17/case-study-tdd-in-nodejs-inspector-server-and-other-projects-30e6)
+- [CSS Variables &lpar;CSS Custom properties&rpar; for Beginners](https://dev.to/udoka033/css-variables-css-custom-properties-for-beginners-3oha)
+- [GO — Estrutura de projetos](https://dev.to/espigah/go-estrutura-de-projetos-1j0k)
+- [🎉 Celebrating 90 Hours of Coding! 🚀](https://dev.to/zobaidulkazi/celebrating-90-hours-of-coding-3mln)
+- [jjnjnjnj](https://dev.to/abdul_almas_e03ad36f27fa7/jjnjnjnj-18ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
