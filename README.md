@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Munster - Webhooks processing engine for Rails](https://dev.to/skatkov/munster-webhooks-processing-engine-for-rails-2l10)
-- [Day 8 of Machine Learning ||Linear Regression Part 2](https://dev.to/ngneha09/day-8-of-machine-learning-linear-regression-part-2-28i8)
-- [Day 22 of my progress as a vue dev](https://dev.to/zain725342/day-22-of-my-progress-as-a-vue-dev-4ol7)
-- [Top HTML Secrets: Unveiling the Hidden Gems of Web Development by Michael Savage](https://dev.to/savagenewcanaan/top-html-secrets-unveiling-the-hidden-gems-of-web-development-4ael)
-- [How to join tables data already exist in table](https://dev.to/akash_chawan/how-to-join-tables-data-already-exist-in-table-2j80)
+- [1.WHAT IS SELENIUM 2.USE OF SELENIUM FOR AUTOMATION](https://dev.to/sunmathi/1what-is-selenium-2use-of-selenium-for-automation-jhf)
+- [** Perdidos en la Isla del Internet de las Cosas: IoT y la Serie &quot;Lost&quot;** 🏝️](https://dev.to/orlidev/-perdidos-en-la-isla-del-internet-de-las-cosas-iot-y-la-serie-lost-41n3)
+- [Understanding Concurrency and Parallelism: What&#39;s the Difference?](https://dev.to/ryanmabrouk/understanding-concurrency-and-parallelism-whats-the-difference-3d45)
+- [Developer Updates - May 2024](https://dev.to/supabase/developer-updates-may-2024-34ki)
+- [Learning about 3D model](https://dev.to/lmacanda/learning-about-3d-model-f3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
