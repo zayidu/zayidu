@@ -41,8 +41,14 @@ Here are some ideas to get you started: -->
 
 ## Follow Me On Strava
 
-<!-- Embedding Strava profile activity summary -->
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/32322110/activity-summary/0bb3afb8994aa1e19242d3acc1bcaf2c453a8a55'></iframe>
+<div align="center">
+  <!-- Strava badge -->
+  <a href="https://www.strava.com/athletes/32322110" target="_blank">
+    <img src="https://img.shields.io/badge/Strava-Follow%20me%20on%20Strava-orange?style=for-the-badge&logo=strava&logoColor=white" alt="Follow me on Strava">
+  </a>
+  <p>Click the badge to view my Strava profile and recent activities!</p>
+</div>
+
 
 
 
