@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Constants, Object.freeze, Object.seal and Immutable in JavaScript](https://dev.to/chauhoangminhnguyen/constants-objectfreeze-objectseal-and-immutable-in-javascript-3iha)
-- [The Ultimate Guide to Prisma ORM: Transforming Database Management for Developers](https://dev.to/abhilaksharora/the-ultimate-guide-to-prisma-orm-transforming-database-management-for-developers-470n)
-- [Big O Notation](https://dev.to/userleo/big-o-notation-43pd)
-- [ASCII &lpar;248 chars&rpar;](https://dev.to/userleo/ascii-248-chars-a52)
-- [Como almacenar imágenes de docker en tu propio servidor &lpar;manualmente&rpar;](https://dev.to/oswa/como-almacenar-imagenes-de-docker-en-tu-propio-servidor-manualmente-5e0i)
+- [Mastering Distributed Systems: Essential Design Patterns for Scalability and Resilience](https://dev.to/tutorialq/mastering-distributed-systems-essential-design-patterns-for-scalability-and-resilience-35ck)
+- [Directory Structure : Selenium Automation](https://dev.to/parthkamal/directory-structure-selenium-automation-52ic)
+- [HTML5 API&#39;s](https://dev.to/kiransm/html5-apis-1dbb)
+- [Stepping into Storage: A Guide to Creating an S3 Bucket and Uploading Files on AWS](https://dev.to/techgirlkaydee/stepping-into-storage-a-guide-to-creating-an-s3-bucket-and-uploading-files-on-aws-2624)
+- [lets-have-fun-with-console-in-javascript ❤](https://dev.to/aryan015/lets-have-fun-with-console-in-javascript-13bd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
