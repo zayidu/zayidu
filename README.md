@@ -31,6 +31,9 @@ Here are some ideas to get you started: -->
 - 🌏 I love to explore new places and love reading books 📕📚📖 ...
 - 👯 I’m looking to collaborate on Github React Projects...
 - 🏋🏼 CrossFit 🚴Cycling...
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: <a href="https://zayidu.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-zayidu.github.io/portfolio-blue"></img></a>...
+
 
 ## Follow Me On Strava
 
@@ -41,9 +44,6 @@ Here are some ideas to get you started: -->
   </a>
   <p>Click the badge to view my Strava profile and recent activities!</p>
 </div>
-
-<!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: <a href="https://zayidu.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-zayidu.github.io/portfolio-blue"></img></a>...
 
 ### Tools I work upon : 🛠
 
