@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 of My 90-Day DevOps Journey: Getting Started with Terraform and AWS](https://dev.to/arbythecoder/day-1-of-my-90-day-devops-journey-getting-started-with-terraform-and-aws-2d5g)
-- [Why is SEO So Important? How Does It Work?](https://dev.to/juddiy/why-is-seo-so-important-how-does-it-work-3n9e)
-- [PHP HyperF -&gt; Overhead + Circuit Breaker](https://dev.to/thiagoeti/php-hyperf-overhead-circuit-breaker-2fg2)
-- [Java prep for 3+ years](https://dev.to/mallikarjunht/java-prep-for-3-years-4n8b)
-- [Enhancing Security with FacePlugin’s ID Card Recognition from 200 countries](https://dev.to/faceplugin/enhancing-security-with-faceplugins-id-card-recognition-from-200-countries-52ba)
+- [Constants, Object.freeze, Object.seal and Immutable in JavaScript](https://dev.to/chauhoangminhnguyen/constants-objectfreeze-objectseal-and-immutable-in-javascript-3iha)
+- [The Ultimate Guide to Prisma ORM: Transforming Database Management for Developers](https://dev.to/abhilaksharora/the-ultimate-guide-to-prisma-orm-transforming-database-management-for-developers-470n)
+- [Big O Notation](https://dev.to/userleo/big-o-notation-43pd)
+- [ASCII &lpar;248 chars&rpar;](https://dev.to/userleo/ascii-248-chars-a52)
+- [Como almacenar imágenes de docker en tu propio servidor &lpar;manualmente&rpar;](https://dev.to/oswa/como-almacenar-imagenes-de-docker-en-tu-propio-servidor-manualmente-5e0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
