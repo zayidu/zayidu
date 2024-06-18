@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PACX ⁓ Create columns: Choice &lpar;Picklist&rpar;](https://dev.to/_neronotte/pacx-create-columns-choice-picklist-3m11)
-- [Security Principles an overview of containers](https://dev.to/saumya27/security-principles-an-overview-of-containers-23ej)
-- [Top 6 Productivity Web Development Tools](https://dev.to/shyam1806/top-6-productivity-web-development-tools-3ib7)
-- [Essential Education and Certifications for Data Science Careers](https://dev.to/kavana-bm/essential-education-and-certifications-for-data-science-careers-4opg)
-- [Day 6 of 30... Was to be posted yesterday](https://dev.to/francis_ngugi/day-6-of-30-was-to-be-posted-yesterday-2c3g)
+- [Interceptors: The basics and their use under Entity Framework](https://dev.to/ben-witt/interceptors-the-basics-and-their-use-under-entity-framework-j8f)
+- [Understanding Null, Undefined, and Undeclared in JavaScript](https://dev.to/dk119819/understanding-null-undefined-and-undeclared-in-javascript-3k66)
+- [Day 2: Understanding Big O Notation 📊](https://dev.to/dipakahirav/day-2-understanding-big-o-notation-1l7m)
+- [Why You Should Choose MicroPython for Prototyping and Research Work](https://dev.to/shemanto_sharkar/why-you-should-choose-micropython-for-prototyping-and-research-work-41p7)
+- [Luma AI Dream Machine: The Ultimate AI Video Creator](https://dev.to/hyscaler/luma-ai-dream-machine-the-ultimate-ai-video-creator-4hc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
