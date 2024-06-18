@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Little Bugs, Big Problems](https://dev.to/mlr/little-bugs-big-problems-59gg)
-- [Idconfig](https://dev.to/nicholas_cheza_4d291be7f2/idconfig-7ob)
-- [Git for Beginners: Basic Commands...](https://dev.to/andresordazrs/git-for-beginners-basic-commands-4b4i)
-- [Deco Hackathon focused on HTMX. Up to $5k in prizes!](https://dev.to/gbrantunes/deco-hackathon-focused-on-htmx-up-to-5k-in-prizes-1g2k)
-- [Food tracker app &lpar;Phase 1/?&rpar; for show how you split your money](https://dev.to/caresle/food-tracker-app-phase-1-for-show-how-you-split-your-money-3p8e)
+- [Day 1 of My 90-Day DevOps Journey: Getting Started with Terraform and AWS](https://dev.to/arbythecoder/day-1-of-my-90-day-devops-journey-getting-started-with-terraform-and-aws-2d5g)
+- [Why is SEO So Important? How Does It Work?](https://dev.to/juddiy/why-is-seo-so-important-how-does-it-work-3n9e)
+- [PHP HyperF -&gt; Overhead + Circuit Breaker](https://dev.to/thiagoeti/php-hyperf-overhead-circuit-breaker-2fg2)
+- [Java prep for 3+ years](https://dev.to/mallikarjunht/java-prep-for-3-years-4n8b)
+- [Enhancing Security with FacePlugin’s ID Card Recognition from 200 countries](https://dev.to/faceplugin/enhancing-security-with-faceplugins-id-card-recognition-from-200-countries-52ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
