@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering API Integrations: A Step-by-Step Guide to Secure API Authentication in Java](https://dev.to/joaomarques/mastering-api-integrations-a-step-by-step-guide-to-secure-api-authentication-in-java-3b36)
-- [Quamtum Computing and its importance](https://dev.to/elmerurbina/quamtum-computing-and-its-importance-29on)
-- [Latest Redux Toolkit: Using the Builder Callback Notation in createReducer 💻](https://dev.to/adii/latest-redux-toolkit-using-the-builder-callback-notation-in-createreducer-1p5)
-- [OpenAI has a new .NET SDK!](https://dev.to/michaeljolley/openai-has-a-new-net-sdk-4lpg)
-- [My first experience with the LAMP stack](https://dev.to/marko_k/my-first-experience-with-the-lamp-stack-b0h)
+- [Exploring the Fundamentals of Data Visualization with ggplot2](https://dev.to/kartikmehta8/exploring-the-fundamentals-of-data-visualization-with-ggplot2-2f0h)
+- [A Trigger Analogy](https://dev.to/thedigitalbricklayer/a-trigger-analogy-1gkc)
+- [Importance of JPG Images](https://dev.to/msmith99994/importance-of-jpg-images-3ffe)
+- [El estado actual de la IA en LMS de código abierto: Comparación entre Moodle, Canvas, Open edX y Sakai](https://dev.to/jobcespedes/el-estado-actual-de-la-ia-en-lms-de-codigo-abierto-comparacion-entre-moodle-canvas-open-edx-y-sakai-1jl6)
+- [Deploying a &quot;Hello World&quot; Application to AWS Elastic Beanstalk](https://dev.to/prakash_rao/deploying-a-hello-world-application-to-aws-elastic-beanstalk-pag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
