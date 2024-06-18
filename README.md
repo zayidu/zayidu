@@ -51,11 +51,12 @@ Here are some ideas to get you started: -->
 
 
 
+## Github Stats:
 
 [![Zayidu's github stats](https://github-readme-stats.vercel.app/api?username=zayidu&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19)](https://github.com/zayidu/github-readme-stats)
 
-[![](https://github.com/zayidu/zayidu/blob/main/dino.gif)](#)
 
+## DEV:
 <!-- DEVCARD -->
 <!-- https://app.daily.dev/devcard -->
 <!-- https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp -->
@@ -65,3 +66,5 @@ Here are some ideas to get you started: -->
 <!-- <a href="https://app.daily.dev/zayidu"><img src="./devcard.png" width="356" alt="Zayidu's Dev Card"/></a> -->
 
 ![github-readme-banner](https://githubcard.rajaryan.work/user/zayidu)
+
+[![](https://github.com/zayidu/zayidu/blob/main/dino.gif)](#)
