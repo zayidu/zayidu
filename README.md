@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Distributed Systems: Essential Design Patterns for Scalability and Resilience](https://dev.to/tutorialq/mastering-distributed-systems-essential-design-patterns-for-scalability-and-resilience-35ck)
-- [Directory Structure : Selenium Automation](https://dev.to/parthkamal/directory-structure-selenium-automation-52ic)
-- [HTML5 API&#39;s](https://dev.to/kiransm/html5-apis-1dbb)
-- [Stepping into Storage: A Guide to Creating an S3 Bucket and Uploading Files on AWS](https://dev.to/techgirlkaydee/stepping-into-storage-a-guide-to-creating-an-s3-bucket-and-uploading-files-on-aws-2624)
-- [lets-have-fun-with-console-in-javascript ❤](https://dev.to/aryan015/lets-have-fun-with-console-in-javascript-13bd)
+- [Exploring Authentication Providers in Next.js](https://dev.to/vyan/exploring-authentication-providers-in-nextjs-4nh7)
+- [Top 10 Web3 Grants You Should Know About](https://dev.to/scofieldidehen/top-10-web3-grants-you-should-know-about-ff4)
+- [How to Set Up a Reverse Proxy](https://dev.to/iaadidev/how-to-set-up-a-reverse-proxy-124n)
+- [Unhandled Runtime Error TypeError: Cannot read properties of undefined &lpar;reading &#39;sizes&#39;&rpar;](https://dev.to/muhammad_usman_279dbe6379/unhandled-runtime-errortypeerror-cannot-read-properties-of-undefined-reading-sizes-4071)
+- [Optimizing Cloud Ops for Maximum Efficiency](https://dev.to/brian_bates_5abcb676a549c/optimizing-cloud-ops-for-maximum-efficiency-3o1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
