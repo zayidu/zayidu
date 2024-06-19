@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplified Virtual Development Environment on the Browser: GitHub Codespace](https://dev.to/paschalogu/simplified-virtual-development-environment-on-the-browser-github-codespace-1lab)
-- [Iniciando em DevOps e Linux](https://dev.to/ebagabe/iniciando-em-devops-e-linux-22l8)
-- [a web perfomance introduction and why you should care;](https://dev.to/nosylasairaf/web-perfomance-and-why-you-should-care-4n8j)
-- [Start Your Coding Journey](https://dev.to/gigo_dev/start-your-coding-journey-1egp)
-- [Part Two: Creating Our Recipe Reusable Skeleton Component](https://dev.to/topeogunleye/part-two-creating-our-recipe-reusable-skeleton-component-cgj)
+- [React: Prevent UI Blocking from Busy Logic Using Web Workers API](https://dev.to/lico/react-prevent-ui-blocking-from-busy-logic-using-web-workers-api-59eo)
+- [# HTTP Caching 101](https://dev.to/godinhojoao/-http-caching-101-4ib0)
+- [Explorando Linux Server](https://dev.to/ebagabe/explorando-linux-server-30k0)
+- [Self-host - Part 1 - Securing your remote server](https://dev.to/davorj94/self-host-part-1-securing-your-remote-server-3l94)
+- [How to Register Middleware in Laravel 11](https://dev.to/msnmongare/how-to-register-middleware-in-laravel-11-3mkd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
