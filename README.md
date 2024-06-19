@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [전역 상태 관리 Recoil과 Zustand.](https://dev.to/hxxtae/jeonyeog-sangtae-gwanri-recoilgwa-zustand-d2k)
-- [Developer Mental Health Tips](https://dev.to/jgdevelopments/developer-mental-health-tips-ghp)
-- [3. Building JavaScript Array Methods from Scratch in 2024 - Easy tutorial for beginners.](https://dev.to/itric/3-building-javascript-array-methods-from-scratch-in-2024-easy-tutorial-for-beginners-4b45)
-- [What is Parallel Computing?](https://dev.to/codefatale/what-is-parallel-computing-37l4)
-- [Starting with C++: The Classic &#39;Hello, World!&#39; Guide](https://dev.to/komsenapati/starting-with-c-the-classic-hello-world-guide-235p)
+- [Getting Started With Terraform For Infrastructure Provisioning 🛠️](https://dev.to/angelotheman/getting-started-with-terraform-for-infrastructure-provisioning-15hi)
+- [Step-by-Step Instructions for Task Management Apps](https://dev.to/dk119819/step-by-step-instructions-for-task-management-apps-24di)
+- [Implementing Light/Dark Mode in Your Vite App with shadcn/ui](https://dev.to/ashsajal/implementing-lightdark-mode-in-your-vite-app-with-shadcnui-1ae4)
+- [Select Element in Array&lpar;&rpar; to a new Array&lpar;&rpar; JavaScript](https://dev.to/tsitohaina/select-element-in-array-to-a-new-array-javascript-2805)
+- [Your Path to Success: How to Become a Self-Taught Frontend Developer in 2024](https://dev.to/delia_code/your-path-to-success-how-to-become-a-self-taught-frontend-developer-in-2024-4jbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
