@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The History Of JavaScript: A Journey Through Time](https://dev.to/swhabitation/the-history-of-javascript-a-journey-through-time-1k0)
-- [Cebolas e camadas para padrões de projetos no Front-end — Parte I](https://dev.to/tino-tech/cebolas-e-camadas-para-padroes-de-projetos-no-front-end-parte-i-55af)
-- [OpenAI api RAG system with Qdrant](https://dev.to/adaschevici/openai-api-rag-system-with-qdrant-7km)
-- [Use Gemini Pro Asynchronously in Python](https://dev.to/muhammadnizamani/use-gemini-pro-asynchronously-in-python-5b6a)
-- [What is SSL pinning, and how do you implement it in a mobile app?](https://dev.to/chariesdevil/what-is-ssl-pinning-and-how-do-you-implement-it-in-a-mobile-app-1gjl)
+- [How to Use Tailwind CSS for Your Ruby On Rails Project](https://dev.to/appsignal/how-to-use-tailwind-css-for-your-ruby-on-rails-project-ak2)
+- [OpenTelemetry Trace Context Propagation for gRPC Streams](https://dev.to/kubeshop/opentelemetry-trace-context-propagation-for-grpc-streams-4511)
+- [How to Write an Effective README File - A Guide for Software Engineers](https://dev.to/kfir-g/how-to-write-an-effective-readme-file-a-guide-for-software-engineers-207b)
+- [How AI Coding Tools Might Set You Up for Failure](https://dev.to/iwooky/how-ai-coding-tools-might-set-you-up-for-failure-1pdf)
+- [Parse, Don’t Validate: Embracing Data Integrity in Elixir](https://dev.to/zoedsoupe/parse-dont-validate-embracing-data-integrity-in-elixir-5c94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
