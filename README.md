@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Tailwind CSS for Your Ruby On Rails Project](https://dev.to/appsignal/how-to-use-tailwind-css-for-your-ruby-on-rails-project-ak2)
-- [OpenTelemetry Trace Context Propagation for gRPC Streams](https://dev.to/kubeshop/opentelemetry-trace-context-propagation-for-grpc-streams-4511)
-- [How to Write an Effective README File - A Guide for Software Engineers](https://dev.to/kfir-g/how-to-write-an-effective-readme-file-a-guide-for-software-engineers-207b)
-- [How AI Coding Tools Might Set You Up for Failure](https://dev.to/iwooky/how-ai-coding-tools-might-set-you-up-for-failure-1pdf)
-- [Parse, Don’t Validate: Embracing Data Integrity in Elixir](https://dev.to/zoedsoupe/parse-dont-validate-embracing-data-integrity-in-elixir-5c94)
+- [Open-Source, Let&#39;s Talk About it](https://dev.to/litlyx/open-source-lets-talk-about-it-42jo)
+- [Características de la gestión de proyectos en construcción](https://dev.to/selmagalarza/caracteristicas-de-la-gestion-de-proyectos-en-construccion-2a9l)
+- [Introducing solar-powered serverless!](https://dev.to/josh_mo_91f294fcef0333006/introducing-solar-powered-serverless-34ma)
+- [My journey into cybersecurity](https://dev.to/clom/my-journey-in-cybersecurity-1b07)
+- [To Add a new header in second line of the existing file and 3 rd. column should be sum of the records](https://dev.to/rahul_mahendru_45d895855b/to-add-a-new-header-in-second-line-of-the-existing-file-and-3-rd-column-should-be-sum-of-the-records-2a7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
