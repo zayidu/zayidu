@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C++ 的 string 物件到底佔幾個位元組？](https://dev.to/codemee/c-de-string-wu-jian-dao-di-zhan-ji-ge-wei-yuan-zu--42ea)
-- [SALTING: Process explained?](https://dev.to/aritra-iss/salting-process-explained-30b0)
-- [Mastering CSS Variables: A Beginner&#39;s Guide to Custom Properties](https://dev.to/delia_code/mastering-css-variables-a-beginners-guide-to-custom-properties-1gdk)
-- [CSS Resetting And Normalizing](https://dev.to/srijan_karki/css-resetting-and-normalizing-27m4)
-- [The working of 2FA-Authorization..](https://dev.to/aritra-iss/the-working-of-2fa-authorization-o9c)
+- [Understanding JWT Authentication: A Complete Guide](https://dev.to/dk119819/understanding-jwt-authentication-a-complete-guide-34fo)
+- [constructor function /](https://dev.to/bekmuhammaddev/constructor-function--40id)
+- [Beyond Traditional Email Services: Dynamic Solutions for Developers](https://dev.to/shreyvijayvargiya/beyond-traditional-email-services-dynamic-solutions-for-developers-4e28)
+- [ANOVA : Building and Understanding ANOVA in Python 🐍📶](https://dev.to/kammarianand/anova-building-and-understanding-anova-in-python-3km7)
+- [Hooks in React](https://dev.to/ark7/hooks-in-react-5c8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
