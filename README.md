@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 11 Open Source Design Systems](https://dev.to/litlyx/top-11-open-source-design-systems-1m70)
-- [Software Solutions That Solve Your Real Problems: Topiax to the Rescue!](https://dev.to/cypriantinasheaarons/software-solutions-that-solve-your-real-problems-topiax-to-the-rescue-1j6i)
-- [Implementing a contextual menu](https://dev.to/lenormor/implementing-a-contextual-menu-4mck)
-- [AGI- Artificial General Intelligence.](https://dev.to/amandu25/agi-artificial-general-intelligence-3a0b)
-- [Creating and Appending a Heading in React but with basic JS](https://dev.to/tushar_pal/creating-and-appending-a-heading-in-react-but-with-basic-js-5a32)
+- [3-step process to break into tech in 180 days.](https://dev.to/swastikyadav/3-step-process-to-break-into-tech-in-180-days-2193)
+- [Enhancing Enum Constants in Laravel with Description and Label Attributes](https://dev.to/realrashid/enhancing-enum-constants-in-laravel-with-description-and-label-attributes-5df5)
+- [Removing sensitive content from GIT | BFG](https://dev.to/roitpak/removing-sensitive-content-from-git-bfg-5blf)
+- [Why I chose Supabase as BaaS for my projects](https://dev.to/edubchenko/why-i-chose-supabase-as-baas-for-my-projects-2pnf)
+- [How Secure Cloud Development Replaces Virtual Desktop Infrastructures](https://dev.to/loransha256/how-secure-cloud-development-replaces-virtual-desktop-infrastructures-1mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
