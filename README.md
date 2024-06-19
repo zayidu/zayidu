@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing AI for Zero Carbonization: Innovations and Impacts](https://dev.to/jottyjohn/harnessing-ai-for-zero-carbonization-innovations-and-impacts-3aga)
-- [Exploring the World of HTML and HTML5](https://dev.to/menukfernando/exploring-the-world-of-html-and-html5-34a7)
-- [Free Space Management in Operating Systems](https://dev.to/pushpendra_sharma_f1d2cbe/free-space-management-in-operating-systems-523)
-- [How to Set Permanent and Temporary Aliases in PowerShell and Bash: A Step-by-Step Guide](https://dev.to/adityashrivastavv/how-to-set-permanent-and-temporary-aliases-in-powershell-and-bash-a-step-by-step-guide-1mn9)
-- [Discover How Easy It Is to Stay Updated with daily.dev! Join Our Laravel Developers Squad Today!](https://dev.to/realrashid/discover-how-easy-it-is-to-stay-updated-with-dailydev-join-our-laravel-developers-squad-today-2848)
+- [Develop a Serverless TypeScript API on AWS ECS with Fargate](https://dev.to/appsignal/develop-a-serverless-typescript-api-on-aws-ecs-with-fargate-1l3n)
+- [Free Database Hosting](https://dev.to/sh20raj/free-database-hosting-12f6)
+- [Let’s get on Global Illumination in Games: What Is It &amp; How Does It Work?](https://dev.to/zoltan_fehervari_52b16d1d/lets-get-on-global-illumination-in-games-what-is-it-how-does-it-work-2h5k)
+- [Comparing AWS RDS to NoSQL Databases like DynamoDB: When to Use Which](https://dev.to/kelvinskell/comparing-aws-rds-to-nosql-databases-like-dynamodb-when-to-use-which-1k0n)
+- [How to Joyfully Launch and Use Butterflies: A Guide to AI-Human Social Networking](https://dev.to/hyscaler/how-to-joyfully-launch-and-use-butterflies-a-guide-to-ai-human-social-networking-3583)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
