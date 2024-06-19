@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3-step process to break into tech in 180 days.](https://dev.to/swastikyadav/3-step-process-to-break-into-tech-in-180-days-2193)
-- [Enhancing Enum Constants in Laravel with Description and Label Attributes](https://dev.to/realrashid/enhancing-enum-constants-in-laravel-with-description-and-label-attributes-5df5)
-- [Removing sensitive content from GIT | BFG](https://dev.to/roitpak/removing-sensitive-content-from-git-bfg-5blf)
-- [Why I chose Supabase as BaaS for my projects](https://dev.to/edubchenko/why-i-chose-supabase-as-baas-for-my-projects-2pnf)
-- [How Secure Cloud Development Replaces Virtual Desktop Infrastructures](https://dev.to/loransha256/how-secure-cloud-development-replaces-virtual-desktop-infrastructures-1mk)
+- [Harnessing AI for Zero Carbonization: Innovations and Impacts](https://dev.to/jottyjohn/harnessing-ai-for-zero-carbonization-innovations-and-impacts-3aga)
+- [Exploring the World of HTML and HTML5](https://dev.to/menukfernando/exploring-the-world-of-html-and-html5-34a7)
+- [Free Space Management in Operating Systems](https://dev.to/pushpendra_sharma_f1d2cbe/free-space-management-in-operating-systems-523)
+- [How to Set Permanent and Temporary Aliases in PowerShell and Bash: A Step-by-Step Guide](https://dev.to/adityashrivastavv/how-to-set-permanent-and-temporary-aliases-in-powershell-and-bash-a-step-by-step-guide-1mn9)
+- [Discover How Easy It Is to Stay Updated with daily.dev! Join Our Laravel Developers Squad Today!](https://dev.to/realrashid/discover-how-easy-it-is-to-stay-updated-with-dailydev-join-our-laravel-developers-squad-today-2848)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
