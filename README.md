@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started With Terraform For Infrastructure Provisioning 🛠️](https://dev.to/angelotheman/getting-started-with-terraform-for-infrastructure-provisioning-15hi)
-- [Step-by-Step Instructions for Task Management Apps](https://dev.to/dk119819/step-by-step-instructions-for-task-management-apps-24di)
-- [Implementing Light/Dark Mode in Your Vite App with shadcn/ui](https://dev.to/ashsajal/implementing-lightdark-mode-in-your-vite-app-with-shadcnui-1ae4)
-- [Select Element in Array&lpar;&rpar; to a new Array&lpar;&rpar; JavaScript](https://dev.to/tsitohaina/select-element-in-array-to-a-new-array-javascript-2805)
-- [Your Path to Success: How to Become a Self-Taught Frontend Developer in 2024](https://dev.to/delia_code/your-path-to-success-how-to-become-a-self-taught-frontend-developer-in-2024-4jbk)
+- [Deploying Flutter Web to S3 with CodeCommit, Codepipeline, Codebuild and CodeDeploy](https://dev.to/xreyc/deploying-flutter-web-to-s3-with-codecommit-codepipeline-codebuild-and-codedeploy-3i4h)
+- [Wednesday Links - Edition 2024-06-19](https://dev.to/wyhasany/wednesday-links-edition-2024-06-19-160e)
+- [Next.js Image File Upload and Preview with shadcn/ui](https://dev.to/aaronnfs/nextjs-image-file-upload-and-preview-with-shadcnui-1bmd)
+- [Mount Up! A Step-by-Step Guide to Creating and Using Amazon EFS on Ubuntu](https://dev.to/techgirlkaydee/mount-up-a-step-by-step-guide-to-creating-and-using-amazon-efs-on-ubuntu-2i86)
+- [Lifetimes in Rust](https://dev.to/ashsajal/lifetimes-in-rust-28c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
