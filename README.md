@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding CORS for your LLM applications](https://dev.to/gaw/understanding-cors-for-your-llm-applications-i7h)
-- [Exploring Metrics with Thanos Query UI and PromQL](https://dev.to/agagag/exploring-metrics-with-thanos-query-ui-and-promql-3he9)
-- [Create and Connect to a Linux VM using a Public Key](https://dev.to/tracyee_/create-and-connect-to-a-linux-vm-using-a-public-key-4jfe)
-- [Microservices Architecture](https://dev.to/musabaku/microservices-architecture-3dn0)
-- [** La Danza de los Frameworks: React vs Angular **🐉🔥👑](https://dev.to/orlidev/-la-danza-de-los-frameworks-react-vs-angular--4o85)
+- [No More Cutting in Line: Crafting Fairness in Queues](https://dev.to/gaw/no-more-cutting-in-line-crafting-fairness-in-queues-17ij)
+- [Validating LLM Responses: Pydantic &amp; Instructor Integration with LLMs &lpar;Part II&rpar;](https://dev.to/gaw/validating-llm-responses-pydantic-instructor-integration-with-llms-part-ii-2f93)
+- [Leverage ServiceNow REST API: Integrate &amp; Create Records Selectively](https://dev.to/sophiasemga/servicenow-rest-apis-1mej)
+- [Introduction to Kubernetes](https://dev.to/pratikjagrut/introduction-to-kubernetes-3p1i)
+- [Testing LLMs with Elixir](https://dev.to/samuelpordeus/testing-llm-output-with-elixir-1l71)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
