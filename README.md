@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JWT Authentication: A Complete Guide](https://dev.to/dk119819/understanding-jwt-authentication-a-complete-guide-34fo)
-- [constructor function /](https://dev.to/bekmuhammaddev/constructor-function--40id)
-- [Beyond Traditional Email Services: Dynamic Solutions for Developers](https://dev.to/shreyvijayvargiya/beyond-traditional-email-services-dynamic-solutions-for-developers-4e28)
-- [ANOVA : Building and Understanding ANOVA in Python 🐍📶](https://dev.to/kammarianand/anova-building-and-understanding-anova-in-python-3km7)
-- [Hooks in React](https://dev.to/ark7/hooks-in-react-5c8c)
+- [5 Free AI Coding Copilots to Help You Fly Out of the Dev Blackhole](https://dev.to/middleware/5-free-ai-coding-copilots-to-help-you-fly-out-of-the-dev-blackhole-4p53)
+- [Top 9 Websites for Remote Developer Job Opportunities](https://dev.to/dk119819/top-9-websites-for-remote-developer-job-opportunities-3d4i)
+- [Day 19 of 30 of JavaScript](https://dev.to/akshat0610/day-19-of-30-of-javascript-2bki)
+- [TIL: Max/MSP/Jitter](https://dev.to/prettyalana/til-maxmspjitter-36l2)
+- [Created a plugin to display embedded YouTube URLs in GROWI](https://dev.to/goofmint/created-a-plugin-to-display-embedded-youtube-urls-in-growi-45ij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
