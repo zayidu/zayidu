@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Printing in C#: How To Do It Correctly 🔮](https://dev.to/bytehide/printing-in-c-how-to-do-it-correctly-1007)
-- [Building a Desktop C++ Barcode Scanner with Slimmed-Down OpenCV and Webcam](https://dev.to/yushulx/building-a-desktop-c-barcode-scanner-with-slimmed-down-opencv-and-webcam-2o22)
-- [My online HTML editor in action](https://dev.to/anjandutta/my-online-html-editor-in-action-19pf)
-- [[Unity] Dropdown menu with search](https://dev.to/piler-tam/unity-dropdown-menu-with-search-3a4c)
-- [[Unity] Create Dropdown in PropertyDrawer](https://dev.to/piler-tam/unity-create-dropdown-in-propertydrawer-1gme)
+- [Top 11 Open Source Design Systems](https://dev.to/litlyx/top-11-open-source-design-systems-1m70)
+- [Software Solutions That Solve Your Real Problems: Topiax to the Rescue!](https://dev.to/cypriantinasheaarons/software-solutions-that-solve-your-real-problems-topiax-to-the-rescue-1j6i)
+- [Implementing a contextual menu](https://dev.to/lenormor/implementing-a-contextual-menu-4mck)
+- [AGI- Artificial General Intelligence.](https://dev.to/amandu25/agi-artificial-general-intelligence-3a0b)
+- [Creating and Appending a Heading in React but with basic JS](https://dev.to/tushar_pal/creating-and-appending-a-heading-in-react-but-with-basic-js-5a32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
