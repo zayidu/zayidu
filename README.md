@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No More Cutting in Line: Crafting Fairness in Queues](https://dev.to/gaw/no-more-cutting-in-line-crafting-fairness-in-queues-17ij)
-- [Validating LLM Responses: Pydantic &amp; Instructor Integration with LLMs &lpar;Part II&rpar;](https://dev.to/gaw/validating-llm-responses-pydantic-instructor-integration-with-llms-part-ii-2f93)
-- [Leverage ServiceNow REST API: Integrate &amp; Create Records Selectively](https://dev.to/sophiasemga/servicenow-rest-apis-1mej)
-- [Introduction to Kubernetes](https://dev.to/pratikjagrut/introduction-to-kubernetes-3p1i)
-- [Testing LLMs with Elixir](https://dev.to/samuelpordeus/testing-llm-output-with-elixir-1l71)
+- [Measured now supports your favorite Kotlin platform](https://dev.to/pusolito/measured-now-supports-your-favorite-kotlin-platform-1e1b)
+- [Effortlessly Create Your React Portfolio with the Frontend AI Tool](https://dev.to/buildwebcrumbs/effortlessly-create-your-react-portfolio-with-the-frontend-ai-tool-1i4e)
+- [How CAPTCHAs work - The Internet&#39;s Annoying but Essential Gatekeepers](https://dev.to/gaw/how-captchas-work-the-internets-annoying-but-essential-gatekeepers-p4j)
+- [Automatische Backups von PostgreSQL via Cronjob](https://dev.to/rubenvoss/automatische-backups-von-postgresql-via-cronjob-2ib4)
+- [CVPR Survival Guide: Discovering Research That&#39;s Interesting to YOU!](https://dev.to/voxel51/cvpr-survival-guide-discovering-research-thats-interesting-to-you-3ac8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
