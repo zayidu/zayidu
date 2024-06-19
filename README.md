@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building My Own JSON Parser in Rust](https://dev.to/krymancer/building-my-own-json-parser-in-rust-fk3)
-- [Comparison of Navicat and SQLynx Features &lpar;Overall Comparison&rpar;](https://dev.to/concerate/comparison-of-navicat-and-sqlynx-features-overall-comparison-2hhf)
-- [How to conduct keyword research and choose the most effective keywords for your website](https://dev.to/juddiy/how-to-conduct-keyword-research-and-choose-the-most-effective-keywords-for-your-website-4ld3)
-- [Challenge twilio](https://dev.to/yhordic/challenge-twilio-554o)
-- [Learn to Build a GitHub Repository Showcase Using HTML, CSS, and JavaScript](https://dev.to/dk119819/learn-to-build-a-github-repository-showcase-using-html-css-and-javascript-3bbo)
+- [Why Coding Is Scary And How To Learn Better](https://dev.to/thekarlesi/why-coding-is-scary-and-how-to-learn-better-6e0)
+- [Mastering Git Rebase: Streamlining Your Commit History](https://dev.to/vyan/mastering-git-rebase-streamlining-your-commit-history-3ce4)
+- [Measure and optimize your Flutter app size](https://dev.to/tentanganak/measure-and-optimize-your-flutter-app-size-1nde)
+- [Is mitt dead? 🥊](https://dev.to/stackoverfloweth/is-mitt-dead-3lb0)
+- [In Excel, Find the Maximum Value and the Neighboring N Members Before and After](https://dev.to/judith677/in-excel-find-the-maximum-value-and-the-neighboring-n-members-before-and-after-16l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
