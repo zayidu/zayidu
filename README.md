@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Building My Own JSON Parser in Rust](https://dev.to/krymancer/building-my-own-json-parser-in-rust-fk3)
+- [Comparison of Navicat and SQLynx Features &lpar;Overall Comparison&rpar;](https://dev.to/concerate/comparison-of-navicat-and-sqlynx-features-overall-comparison-2hhf)
+- [How to conduct keyword research and choose the most effective keywords for your website](https://dev.to/juddiy/how-to-conduct-keyword-research-and-choose-the-most-effective-keywords-for-your-website-4ld3)
 - [Challenge twilio](https://dev.to/yhordic/challenge-twilio-554o)
 - [Learn to Build a GitHub Repository Showcase Using HTML, CSS, and JavaScript](https://dev.to/dk119819/learn-to-build-a-github-repository-showcase-using-html-css-and-javascript-3bbo)
-- [S3 File uploader project](https://dev.to/caresle/s3-file-uploader-project-d3f)
-- [Open Successfully iOS Simulator with React Native &amp; Expo](https://dev.to/arielmejiadev/open-successfully-ios-simulator-with-react-native-expo-472b)
-- [The Halting Problem](https://dev.to/damari/the-halting-problem-2o4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
