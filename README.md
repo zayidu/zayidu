@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Paradigma procedural x orientado a objetos: um paralelo](https://dev.to/lvteixeira/paradigma-procedural-x-orientado-a-objetos-um-paralelo-28dg)
-- [API Testing: A Journey into Reconnaissance and Vulnerability Identification using BurpSuite](https://dev.to/adebiyiitunuayo/api-testing-a-journey-into-reconnaissance-and-vulnerability-identification-using-burpsuite-50o)
-- [&lpar;Part 8&rpar;Golang Framework Hands-on - Cache/Params Data Caching and Data Parameters](https://dev.to/aceld/part-8golang-framework-hands-on-cacheparams-data-caching-and-data-parameters-5df5)
-- [Decoupling Your Applications with AWS SQS: A Deep Dive](https://dev.to/virajlakshitha/decoupling-your-applications-with-aws-sqs-a-deep-dive-1elm)
-- [Set &lpar;One Byte Explainer&rpar;](https://dev.to/leaft/set-one-byte-explainer-1pi)
+- [C++ 的 string 物件到底佔幾個位元組？](https://dev.to/codemee/c-de-string-wu-jian-dao-di-zhan-ji-ge-wei-yuan-zu--42ea)
+- [SALTING: Process explained?](https://dev.to/aritra-iss/salting-process-explained-30b0)
+- [Mastering CSS Variables: A Beginner&#39;s Guide to Custom Properties](https://dev.to/delia_code/mastering-css-variables-a-beginners-guide-to-custom-properties-1gdk)
+- [CSS Resetting And Normalizing](https://dev.to/srijan_karki/css-resetting-and-normalizing-27m4)
+- [The working of 2FA-Authorization..](https://dev.to/aritra-iss/the-working-of-2fa-authorization-o9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
