@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Source, Let&#39;s Talk About it](https://dev.to/litlyx/open-source-lets-talk-about-it-42jo)
-- [Características de la gestión de proyectos en construcción](https://dev.to/selmagalarza/caracteristicas-de-la-gestion-de-proyectos-en-construccion-2a9l)
-- [Introducing solar-powered serverless!](https://dev.to/josh_mo_91f294fcef0333006/introducing-solar-powered-serverless-34ma)
-- [My journey into cybersecurity](https://dev.to/clom/my-journey-in-cybersecurity-1b07)
-- [To Add a new header in second line of the existing file and 3 rd. column should be sum of the records](https://dev.to/rahul_mahendru_45d895855b/to-add-a-new-header-in-second-line-of-the-existing-file-and-3-rd-column-should-be-sum-of-the-records-2a7g)
+- [전역 상태 관리 Recoil과 Zustand.](https://dev.to/hxxtae/jeonyeog-sangtae-gwanri-recoilgwa-zustand-d2k)
+- [Developer Mental Health Tips](https://dev.to/jgdevelopments/developer-mental-health-tips-ghp)
+- [3. Building JavaScript Array Methods from Scratch in 2024 - Easy tutorial for beginners.](https://dev.to/itric/3-building-javascript-array-methods-from-scratch-in-2024-easy-tutorial-for-beginners-4b45)
+- [What is Parallel Computing?](https://dev.to/codefatale/what-is-parallel-computing-37l4)
+- [Starting with C++: The Classic &#39;Hello, World!&#39; Guide](https://dev.to/komsenapati/starting-with-c-the-classic-hello-world-guide-235p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
