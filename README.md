@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Coding Is Scary And How To Learn Better](https://dev.to/thekarlesi/why-coding-is-scary-and-how-to-learn-better-6e0)
-- [Mastering Git Rebase: Streamlining Your Commit History](https://dev.to/vyan/mastering-git-rebase-streamlining-your-commit-history-3ce4)
-- [Measure and optimize your Flutter app size](https://dev.to/tentanganak/measure-and-optimize-your-flutter-app-size-1nde)
-- [Is mitt dead? 🥊](https://dev.to/stackoverfloweth/is-mitt-dead-3lb0)
-- [In Excel, Find the Maximum Value and the Neighboring N Members Before and After](https://dev.to/judith677/in-excel-find-the-maximum-value-and-the-neighboring-n-members-before-and-after-16l9)
+- [Paradigma procedural x orientado a objetos: um paralelo](https://dev.to/lvteixeira/paradigma-procedural-x-orientado-a-objetos-um-paralelo-28dg)
+- [API Testing: A Journey into Reconnaissance and Vulnerability Identification using BurpSuite](https://dev.to/adebiyiitunuayo/api-testing-a-journey-into-reconnaissance-and-vulnerability-identification-using-burpsuite-50o)
+- [&lpar;Part 8&rpar;Golang Framework Hands-on - Cache/Params Data Caching and Data Parameters](https://dev.to/aceld/part-8golang-framework-hands-on-cacheparams-data-caching-and-data-parameters-5df5)
+- [Decoupling Your Applications with AWS SQS: A Deep Dive](https://dev.to/virajlakshitha/decoupling-your-applications-with-aws-sqs-a-deep-dive-1elm)
+- [Set &lpar;One Byte Explainer&rpar;](https://dev.to/leaft/set-one-byte-explainer-1pi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
