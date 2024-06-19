@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Aya Rust Tutorial part 5: Using Maps](https://dev.to/stevelatif/aya-rust-tutorial-part-5-using-maps-1boe)
-- [Introduction to the Internet of Things &lpar;IoT&rpar; Security](https://dev.to/kartikmehta8/introduction-to-the-internet-of-things-iot-security-1n27)
-- [K8sGPT + Ollama - A Free Kubernetes Automated Diagnostic Solution](https://dev.to/addozhang/k8sgpt-ollama-a-free-kubernetes-automated-diagnostic-solution-3c8o)
-- [Tutorial de instalação do Storybook com Tailwind](https://dev.to/gustavoacaetano/tutorial-de-instalacao-do-storybook-com-tailwind-324l)
-- [Welcome Thread - v281](https://dev.to/devteam/welcome-thread-v281-5fc7)
+- [Challenge twilio](https://dev.to/yhordic/challenge-twilio-554o)
+- [Learn to Build a GitHub Repository Showcase Using HTML, CSS, and JavaScript](https://dev.to/dk119819/learn-to-build-a-github-repository-showcase-using-html-css-and-javascript-3bbo)
+- [S3 File uploader project](https://dev.to/caresle/s3-file-uploader-project-d3f)
+- [Open Successfully iOS Simulator with React Native &amp; Expo](https://dev.to/arielmejiadev/open-successfully-ios-simulator-with-react-native-expo-472b)
+- [The Halting Problem](https://dev.to/damari/the-halting-problem-2o4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
