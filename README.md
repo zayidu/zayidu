@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Develop a Serverless TypeScript API on AWS ECS with Fargate](https://dev.to/appsignal/develop-a-serverless-typescript-api-on-aws-ecs-with-fargate-1l3n)
-- [Free Database Hosting](https://dev.to/sh20raj/free-database-hosting-12f6)
-- [Let’s get on Global Illumination in Games: What Is It &amp; How Does It Work?](https://dev.to/zoltan_fehervari_52b16d1d/lets-get-on-global-illumination-in-games-what-is-it-how-does-it-work-2h5k)
-- [Comparing AWS RDS to NoSQL Databases like DynamoDB: When to Use Which](https://dev.to/kelvinskell/comparing-aws-rds-to-nosql-databases-like-dynamodb-when-to-use-which-1k0n)
-- [How to Joyfully Launch and Use Butterflies: A Guide to AI-Human Social Networking](https://dev.to/hyscaler/how-to-joyfully-launch-and-use-butterflies-a-guide-to-ai-human-social-networking-3583)
+- [The History Of JavaScript: A Journey Through Time](https://dev.to/swhabitation/the-history-of-javascript-a-journey-through-time-1k0)
+- [Cebolas e camadas para padrões de projetos no Front-end — Parte I](https://dev.to/tino-tech/cebolas-e-camadas-para-padroes-de-projetos-no-front-end-parte-i-55af)
+- [OpenAI api RAG system with Qdrant](https://dev.to/adaschevici/openai-api-rag-system-with-qdrant-7km)
+- [Use Gemini Pro Asynchronously in Python](https://dev.to/muhammadnizamani/use-gemini-pro-asynchronously-in-python-5b6a)
+- [What is SSL pinning, and how do you implement it in a mobile app?](https://dev.to/chariesdevil/what-is-ssl-pinning-and-how-do-you-implement-it-in-a-mobile-app-1gjl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
