@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Measured now supports your favorite Kotlin platform](https://dev.to/pusolito/measured-now-supports-your-favorite-kotlin-platform-1e1b)
-- [Effortlessly Create Your React Portfolio with the Frontend AI Tool](https://dev.to/buildwebcrumbs/effortlessly-create-your-react-portfolio-with-the-frontend-ai-tool-1i4e)
-- [How CAPTCHAs work - The Internet&#39;s Annoying but Essential Gatekeepers](https://dev.to/gaw/how-captchas-work-the-internets-annoying-but-essential-gatekeepers-p4j)
-- [Automatische Backups von PostgreSQL via Cronjob](https://dev.to/rubenvoss/automatische-backups-von-postgresql-via-cronjob-2ib4)
-- [CVPR Survival Guide: Discovering Research That&#39;s Interesting to YOU!](https://dev.to/voxel51/cvpr-survival-guide-discovering-research-thats-interesting-to-you-3ac8)
+- [Simplified Virtual Development Environment on the Browser: GitHub Codespace](https://dev.to/paschalogu/simplified-virtual-development-environment-on-the-browser-github-codespace-1lab)
+- [Iniciando em DevOps e Linux](https://dev.to/ebagabe/iniciando-em-devops-e-linux-22l8)
+- [a web perfomance introduction and why you should care;](https://dev.to/nosylasairaf/web-perfomance-and-why-you-should-care-4n8j)
+- [Start Your Coding Journey](https://dev.to/gigo_dev/start-your-coding-journey-1egp)
+- [Part Two: Creating Our Recipe Reusable Skeleton Component](https://dev.to/topeogunleye/part-two-creating-our-recipe-reusable-skeleton-component-cgj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
