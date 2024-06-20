@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Firebase Authentication Made Simple: Detailed Code Examples](https://dev.to/dk119819/firebase-authentication-made-simple-detailed-code-examples-31gl)
-- [Streamline Git Workflows: Automate with Hooks - Branch Name &amp; Commit Convention Example](https://dev.to/smy/streamline-git-workflows-automate-with-hooks-branch-name-commit-convention-example-2hg)
-- [&quot;Think Big&quot; or make progress?](https://dev.to/moozzyk/think-big-or-make-progress-d9i)
-- [The Calculator Project - Easier, Yet Full of Hurdles](https://dev.to/codebyblazej/the-calculator-project-easier-yet-full-of-hurdles-2gke)
-- [Top eCommerce Platforms: Which One is Right for You?](https://dev.to/grapestechsolution/top-ecommerce-platforms-which-one-is-right-for-you-41ee)
+- [Key Data Structures for SQL Database Efficiency](https://dev.to/dbvismarketing/key-data-structures-for-sql-database-efficiency-4om4)
+- [Introducing Django Headless CMS: A Powerful and Flexible CMS Solution](https://dev.to/huynguyengl99/introducing-django-headless-cms-a-powerful-and-flexible-cms-solution-82d)
+- [Understanding Virtual Environments in Python](https://dev.to/vidyarathna/understanding-virtual-environments-in-python-l5a)
+- [I wish Google work this way](https://dev.to/terrytanys/i-wish-google-work-this-way-9od)
+- [Big O Short Explanation](https://dev.to/jgdevelopments/big-o-short-explanation-5hln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
