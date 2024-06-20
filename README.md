@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev: Automation](https://dev.to/r4nd3l/dev-automation-2233)
-- [Day 975 : Alright](https://dev.to/dwane/day-975-alright-5e7f)
-- [Mastering UI Design Principles: Day 3 of My UI/UX Learning Journey](https://dev.to/prince_chouhan/mastering-ui-design-principles-day-3-of-my-uiux-learning-journey-1pmh)
-- [[Game of Purpose] Day 33](https://dev.to/humberd/game-of-purpose-day-33-5bng)
-- [A Guide to Better Understand Props in React.js!](https://dev.to/gianni_cast/a-guide-to-better-understand-props-in-reactjs-40of)
+- [Should you really Roll your own auth?](https://dev.to/devlawrence/should-you-really-roll-your-own-auth-4dj)
+- [Entendendo as Nomenclaturas getBy..., findBy... e queryBy... no Jest](https://dev.to/vitorrios1001/entendendo-as-nomenclaturas-getby-findby-e-queryby-no-jest-2ni4)
+- [Modelo de Desing de Aplicações Backend](https://dev.to/brunobrolesi/modelo-de-desing-de-aplicacoes-backend-47jp)
+- [MICROSOFT APPLIED SKILL. Guided Project:](https://dev.to/sethgiddy/microsoft-applied-skill-guided-project-4ci9)
+- [Understanding the Factory Method Design Pattern](https://dev.to/bilelsalemdev/understanding-the-factory-method-design-pattern-45gk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
