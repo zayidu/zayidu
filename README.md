@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Simulcasting?](https://dev.to/alakkadshaw/what-is-simulcasting-nb3)
-- [How to handle user input in a React Native application](https://dev.to/chariesdevil/how-to-handle-user-input-in-a-react-native-application-3dpf)
-- [Deploy ReactJs website on Apache server &lpar;Hostgator&rpar; with Vite](https://dev.to/luiztux/deploy-reactjs-website-on-apache-server-hostgator-with-vite-jl6)
-- [How to Maintain Physical Health with a Sedentary Job](https://dev.to/techstuff/how-to-maintain-physical-health-with-a-sedentary-job-2hgm)
-- [Mastering Asynchronous JavaScript with Generators: Comprehensive Tutorial](https://dev.to/chintanonweb/mastering-asynchronous-javascript-with-generators-comprehensive-tutorial-53b2)
+- [Understanding the Difference Between Spread and Rest Operators in JavaScript](https://dev.to/dk119819/understanding-the-difference-between-spread-and-rest-operators-in-javascript-3ooc)
+- [amber: writing bash scripts in amber instead. pt. 2: loops and ifs](https://dev.to/gbhorwood/amber-writing-bash-scripts-in-amber-instead-pt-2-loops-and-ifs-1694)
+- [The &lt;map&gt; Tag in HTML](https://dev.to/mhmd-salah/the-tag-in-html-2691)
+- [Started learning HTML and CSS :&rpar;](https://dev.to/krsna_11/started-learning-html-and-css--343n)
+- [Warlock.js From Nodejs Course Into a fine grained framework](https://dev.to/hassanzohdy/warlockjs-from-nodejs-course-into-a-fine-grained-framework-36kp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
