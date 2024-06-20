@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [First Post](https://dev.to/xdoggox/first-post-2h20)
-- [I&#39;m Moth, and this is my first post!](https://dev.to/moth668/im-moth-and-this-is-my-first-post-3mn)
-- [Test Creation using Record and Playback Testing](https://dev.to/elle_richard_232/test-creation-using-record-and-playback-testing-56nf)
-- [Effortless Container Deployment with AWS App Runner 🏃‍♂️🚀](https://dev.to/virajlakshitha/effortless-container-deployment-with-aws-app-runner-3n3j)
-- [Using Miniconda with Conda-Forge to Avoid Anaconda Licensing Issues](https://dev.to/kaamisan/using-miniconda-with-conda-forge-to-avoid-anaconda-licensing-issues-5hkj)
+- [10 Hidden AI Tools Every Developer Should Know About](https://dev.to/delia_code/10-hidden-ai-tools-every-developer-should-know-about-36gf)
+- [Ultimate Guide to Effective Project Progress Communication with Top Management](https://dev.to/futuristicgeeks/ultimate-guide-to-effective-project-progress-communication-with-top-management-10id)
+- [Boost Your Coding Efficiency: 10 Productivity Tips for Developers](https://dev.to/delia_code/boost-your-coding-efficiency-10-productivity-tips-for-developers-2b45)
+- [Salah reminder Apple Shortcuts in Bahasa Indonesia](https://dev.to/azet/salah-reminder-in-bahasa-indonesia-1036)
+- [Setting up NVIDIA stuff on Pop!_OS](https://dev.to/tallesl/setting-up-nvidia-stuff-on-popos-3o17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
