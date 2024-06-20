@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why should you use Django Framework?](https://dev.to/zeedu_dev/why-should-you-use-django-framework-3m5a)
-- [Handling Eventual Consistency in Webhook](https://dev.to/woovi/handling-eventual-consistency-in-webhook-2oel)
-- [What Parsing is, in 256 chars or less](https://dev.to/tavi/what-parsing-is-in-256-chars-or-less-5cm5)
-- [Top 10 Websites Built with React.js [In 2024]](https://dev.to/vikas_brilworks/top-10-websites-built-with-reactjs-in-2024-55fi)
-- [This is a huge cannonball into the pool of Operating System Concepts](https://dev.to/zoltan_fehervari_52b16d1d/this-is-a-huge-cannonball-into-the-pool-of-operating-system-concepts-2609)
+- [Create a QR Code Generator Using ToolJet and Python in 5 Minutes! 🛠️](https://dev.to/tooljet/create-a-qr-code-generator-using-tooljet-and-python-in-5-minutes-19m6)
+- [Beyond Coding: Learn to interact with AI](https://dev.to/rishika_kalita_80ef41e273/beyond-coding-learn-to-interact-with-ai-23l7)
+- [Google Youtube Codepen icons+search inputs &lpar;only CSS&rpar;](https://dev.to/tidycoder/google-youtube-codepen-iconssearch-inputs-only-css-4fjf)
+- [Async/await and SwiftUI](https://dev.to/ishouldhaveknown/asyncawait-and-swiftui-3b2h)
+- [Stable Diffusion 3 Medium: Unleashing Photorealistic AI Art on Consumer PCs](https://dev.to/hyscaler/stable-diffusion-3-medium-unleashing-photorealistic-ai-art-on-consumer-pcs-4efn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
