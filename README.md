@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a QR Code Generator Using ToolJet and Python in 5 Minutes! 🛠️](https://dev.to/tooljet/create-a-qr-code-generator-using-tooljet-and-python-in-5-minutes-19m6)
-- [Beyond Coding: Learn to interact with AI](https://dev.to/rishika_kalita_80ef41e273/beyond-coding-learn-to-interact-with-ai-23l7)
-- [Google Youtube Codepen icons+search inputs &lpar;only CSS&rpar;](https://dev.to/tidycoder/google-youtube-codepen-iconssearch-inputs-only-css-4fjf)
-- [Async/await and SwiftUI](https://dev.to/ishouldhaveknown/asyncawait-and-swiftui-3b2h)
-- [Stable Diffusion 3 Medium: Unleashing Photorealistic AI Art on Consumer PCs](https://dev.to/hyscaler/stable-diffusion-3-medium-unleashing-photorealistic-ai-art-on-consumer-pcs-4efn)
+- [What is Simulcasting?](https://dev.to/alakkadshaw/what-is-simulcasting-nb3)
+- [How to handle user input in a React Native application](https://dev.to/chariesdevil/how-to-handle-user-input-in-a-react-native-application-3dpf)
+- [Deploy ReactJs website on Apache server &lpar;Hostgator&rpar; with Vite](https://dev.to/luiztux/deploy-reactjs-website-on-apache-server-hostgator-with-vite-jl6)
+- [How to Maintain Physical Health with a Sedentary Job](https://dev.to/techstuff/how-to-maintain-physical-health-with-a-sedentary-job-2hgm)
+- [Mastering Asynchronous JavaScript with Generators: Comprehensive Tutorial](https://dev.to/chintanonweb/mastering-asynchronous-javascript-with-generators-comprehensive-tutorial-53b2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
