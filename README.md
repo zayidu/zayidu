@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing a Custom Content Management System with Laravel](https://dev.to/kartikmehta8/developing-a-custom-content-management-system-with-laravel-5ff7)
-- [Understanding HTML5: Key Elements and Attributes](https://dev.to/vidyarathna/understanding-html5-key-elements-and-attributes-5h17)
-- [Domain Driven Design &lpar;DDD&rpar; with stakeholders: using content production contracting as an example](https://dev.to/ma2mori/domain-driven-design-ddd-with-stakeholders-using-content-production-contracting-as-an-example-526a)
-- [HTMX: por que eu uso?](https://dev.to/eduardojm/htmx-por-que-eu-uso-akl)
-- [neofetch is archived: what&#39;s next for terminal lovers?](https://dev.to/girordo/neofetch-is-archived-whats-next-for-terminal-lovers-342j)
+- [Item 36: Use a classe EnumSet em vez dos campos de bits](https://dev.to/giselecoder/item-36-use-a-classe-enumset-em-vez-dos-campos-de-bits-1gh6)
+- [Exploring the full potential of the Logto Management API](https://dev.to/logto/exploring-the-full-potential-of-the-logto-management-api-3c8m)
+- [SDLC without DevOps](https://dev.to/abir101/sdlc-without-devops-4jj3)
+- [Item 35: Use os campos de instância em vez dos valores ordinais](https://dev.to/giselecoder/item-35-use-os-campos-de-instancia-em-vez-dos-valores-ordinais-59l1)
+- [Experience completing LeetCode SQL 50 &lpar;1/?&rpar;](https://dev.to/caresle/experience-completing-leetcode-sql-50-1-e2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
