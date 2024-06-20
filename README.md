@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A React Global State that can persist data too!](https://dev.to/ajejey/a-react-global-state-that-can-persist-data-too-41ib)
-- [Understanding the Testing Pyramid: A Comprehensive Guide](https://dev.to/keploy/understanding-the-testing-pyramid-a-comprehensive-guide-1p5k)
-- [MICROSOFT APPLIED SKILL. Guided Project: Provide storage for the IT department testing and training](https://dev.to/sethgiddy/microsoft-applied-skill-guided-project-provide-storage-for-the-it-department-testing-and-training-31je)
-- [MsSQL on MacOs](https://dev.to/pranjal_sharma_38482a3041/mssql-on-macos-2l3e)
-- [HOW TO CREATE AND CONNECT TO A LINUX VM USING A PUBLIC KEY.](https://dev.to/agana_adebayoo_876a06/how-to-create-and-connect-to-a-linux-vm-using-a-public-key-550o)
+- [Episode 24/24: Vertical Architectures, WebAssembly, Angular v9&#39;s Secret, NgRx](https://dev.to/this-is-angular/episode-2424-vertical-architectures-webassembly-angular-v9s-secret-ngrx-1265)
+- [10 In-Demand Highest-Paying Python Jobs in 2024](https://dev.to/devella/10-in-demand-highest-paying-python-jobs-in-2024-4o5k)
+- [The Open Source Paradox: Fragility and Promise](https://dev.to/opensauced/the-open-source-paradox-fragility-and-promise-2j0)
+- [Securing CouchDB with Keycloak Behind Nginx Reverse Proxy – Part 1](https://dev.to/kishieel/securing-couchdb-with-keycloak-behind-nginx-reverse-proxy-part-1-m0e)
+- [Short Overview: Frontend Architectures 🧩](https://dev.to/buildwebcrumbs/short-overview-frontend-architectures-4778)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
