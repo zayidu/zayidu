@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [t3twilio: Never Forget Again!](https://dev.to/kanav_gupta/t3twilio-never-forget-again-20bl)
-- [🧠 Neural Networks Explained](https://dev.to/aviralgarg05/neural-networks-explained-2c0p)
-- [Python Decorators: Simplified Explanation](https://dev.to/francescoagati/python-decorators-simplified-explanation-hm1)
-- [Dapper Stored Procedure tip](https://dev.to/karenpayneoregon/dapper-stored-procedure-tip-13j4)
-- [State in React](https://dev.to/spencer_adler_880da14d230/state-in-react-4pmg)
+- [Dev: Automation](https://dev.to/r4nd3l/dev-automation-2233)
+- [Day 975 : Alright](https://dev.to/dwane/day-975-alright-5e7f)
+- [Mastering UI Design Principles: Day 3 of My UI/UX Learning Journey](https://dev.to/prince_chouhan/mastering-ui-design-principles-day-3-of-my-uiux-learning-journey-1pmh)
+- [[Game of Purpose] Day 33](https://dev.to/humberd/game-of-purpose-day-33-5bng)
+- [A Guide to Better Understand Props in React.js!](https://dev.to/gianni_cast/a-guide-to-better-understand-props-in-reactjs-40of)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
