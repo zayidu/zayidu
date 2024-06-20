@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Microservice Best Practices for Building Scalable and Resilient Apps](https://dev.to/somadevtoo/10-microservice-best-practices-for-building-scalable-and-resilient-apps-1p0j)
-- [Unit Testing: Why It Matters and How to Do It Effectively in Python](https://dev.to/manavcodaty/unit-testing-why-it-matters-and-how-to-do-it-effectively-in-python-g65)
-- [Forget your database exists! Leave it to Metis](https://dev.to/metis/forget-your-database-exists-leave-it-to-metis-5c4m)
-- [DHT22 with MicroPython on ESP32](https://dev.to/shemanto_sharkar/dht22-with-micropython-on-esp32-16j6)
-- [MicroPython ESP32: Blink LED](https://dev.to/shemanto_sharkar/micropython-esp32-blink-led-210d)
+- [A refresher on GitHub Pages](https://dev.to/nfrankel/a-refresher-on-github-pages-20b8)
+- [Why Can’t Robots Click The “I’m Not a Robot” Box On Websites?](https://dev.to/safdarali/why-cant-robots-click-the-im-not-a-robot-box-on-websites-2bo5)
+- [Database generated events: LiveSync’s database connector vs CDC](https://dev.to/ably/database-generated-events-livesyncs-database-connector-vs-cdc-lhk)
+- [Making Memories Last: Gift Box Manufacturer Ensuring Durability](https://dev.to/barret_riendeaumdhj_eea4/making-memories-last-gift-box-manufacturer-ensuring-durability-2dbd)
+- [How to avoid the outline being blocked when hovering the pie chart sector?](https://dev.to/xuefei1313/how-to-avoid-the-outline-being-blocked-when-hovering-the-pie-chart-sector-34fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
