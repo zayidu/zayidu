@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Item 36: Use a classe EnumSet em vez dos campos de bits](https://dev.to/giselecoder/item-36-use-a-classe-enumset-em-vez-dos-campos-de-bits-1gh6)
-- [Exploring the full potential of the Logto Management API](https://dev.to/logto/exploring-the-full-potential-of-the-logto-management-api-3c8m)
-- [SDLC without DevOps](https://dev.to/abir101/sdlc-without-devops-4jj3)
-- [Item 35: Use os campos de instância em vez dos valores ordinais](https://dev.to/giselecoder/item-35-use-os-campos-de-instancia-em-vez-dos-valores-ordinais-59l1)
-- [Experience completing LeetCode SQL 50 &lpar;1/?&rpar;](https://dev.to/caresle/experience-completing-leetcode-sql-50-1-e2a)
+- [EC2 Snapshot Management: How to get AWS EC2 Snapshot Information with Python](https://dev.to/aws-builders/ec2-snapshot-management-how-to-get-aws-ec2-snapshot-information-with-python-753)
+- [Essential HTTP Status Codes Every Web Developer Should Know](https://dev.to/vyan/essential-http-status-codes-every-web-developer-should-know-2gnd)
+- [🕒 Understanding the Event Loop and Concurrency Model in JavaScript](https://dev.to/dipakahirav/understanding-the-event-loop-and-concurrency-model-in-javascript-1ml2)
+- [Understanding Zod: A Comprehensive Guide to Schema Validation in JavaScript/Typescript](https://dev.to/abhilaksharora/understanding-zod-a-comprehensive-guide-to-schema-validation-in-javascripttypescript-171k)
+- [Elixir Tricks &amp; Tips for develop &amp; debugging](https://dev.to/manhvanvu/elixir-tricks-tips-for-develop-debugging-1p0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
