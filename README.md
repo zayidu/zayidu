@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring AI-Assisted UI Development: Lessons from Creating a Hacker News Clone](https://dev.to/spencertower/exploring-ai-assisted-ui-development-lessons-from-creating-a-hacker-news-clone-1nne)
 - [EC2 Snapshot Management: How to get AWS EC2 Snapshot Information with Python](https://dev.to/aws-builders/ec2-snapshot-management-how-to-get-aws-ec2-snapshot-information-with-python-753)
 - [Essential HTTP Status Codes Every Web Developer Should Know](https://dev.to/vyan/essential-http-status-codes-every-web-developer-should-know-2gnd)
 - [🕒 Understanding the Event Loop and Concurrency Model in JavaScript](https://dev.to/dipakahirav/understanding-the-event-loop-and-concurrency-model-in-javascript-1ml2)
 - [Understanding Zod: A Comprehensive Guide to Schema Validation in JavaScript/Typescript](https://dev.to/abhilaksharora/understanding-zod-a-comprehensive-guide-to-schema-validation-in-javascripttypescript-171k)
-- [Elixir Tricks &amp; Tips for develop &amp; debugging](https://dev.to/manhvanvu/elixir-tricks-tips-for-develop-debugging-1p0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
