@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Specifying the Node.js Version is Essential](https://dev.to/robertoumbelino/why-specifying-the-nodejs-version-is-essential-4nhp)
-- [Testing Your API with Fastify and Vitest: A Step-by-Step Guide](https://dev.to/robertoumbelino/testing-your-api-with-fastify-and-vitest-a-step-by-step-guide-2840)
-- [ChatGPT Slack Bot](https://dev.to/pranjal_sharma_38482a3041/chatgpt-slack-bot-3bfe)
-- [Day 24 of my progress as a vue dev](https://dev.to/zain725342/day-24-of-my-progress-as-a-vue-dev-5ggi)
-- [I’m switching from Laravel to Rails](https://dev.to/reshadman/im-switching-from-laravel-to-rails-50on)
+- [A React Global State that can persist data too!](https://dev.to/ajejey/a-react-global-state-that-can-persist-data-too-41ib)
+- [Understanding the Testing Pyramid: A Comprehensive Guide](https://dev.to/keploy/understanding-the-testing-pyramid-a-comprehensive-guide-1p5k)
+- [MICROSOFT APPLIED SKILL. Guided Project: Provide storage for the IT department testing and training](https://dev.to/sethgiddy/microsoft-applied-skill-guided-project-provide-storage-for-the-it-department-testing-and-training-31je)
+- [MsSQL on MacOs](https://dev.to/pranjal_sharma_38482a3041/mssql-on-macos-2l3e)
+- [HOW TO CREATE AND CONNECT TO A LINUX VM USING A PUBLIC KEY.](https://dev.to/agana_adebayoo_876a06/how-to-create-and-connect-to-a-linux-vm-using-a-public-key-550o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
