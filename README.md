@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React: Prevent UI Blocking from Busy Logic Using Web Workers API](https://dev.to/lico/react-prevent-ui-blocking-from-busy-logic-using-web-workers-api-59eo)
-- [# HTTP Caching 101](https://dev.to/godinhojoao/-http-caching-101-4ib0)
-- [Explorando Linux Server](https://dev.to/ebagabe/explorando-linux-server-30k0)
-- [Self-host - Part 1 - Securing your remote server](https://dev.to/davorj94/self-host-part-1-securing-your-remote-server-3l94)
-- [How to Register Middleware in Laravel 11](https://dev.to/msnmongare/how-to-register-middleware-in-laravel-11-3mkd)
+- [Developing a Custom Content Management System with Laravel](https://dev.to/kartikmehta8/developing-a-custom-content-management-system-with-laravel-5ff7)
+- [Understanding HTML5: Key Elements and Attributes](https://dev.to/vidyarathna/understanding-html5-key-elements-and-attributes-5h17)
+- [Domain Driven Design &lpar;DDD&rpar; with stakeholders: using content production contracting as an example](https://dev.to/ma2mori/domain-driven-design-ddd-with-stakeholders-using-content-production-contracting-as-an-example-526a)
+- [HTMX: por que eu uso?](https://dev.to/eduardojm/htmx-por-que-eu-uso-akl)
+- [neofetch is archived: what&#39;s next for terminal lovers?](https://dev.to/girordo/neofetch-is-archived-whats-next-for-terminal-lovers-342j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
