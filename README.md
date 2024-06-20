@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Episode 24/24: Vertical Architectures, WebAssembly, Angular v9&#39;s Secret, NgRx](https://dev.to/this-is-angular/episode-2424-vertical-architectures-webassembly-angular-v9s-secret-ngrx-1265)
-- [10 In-Demand Highest-Paying Python Jobs in 2024](https://dev.to/devella/10-in-demand-highest-paying-python-jobs-in-2024-4o5k)
-- [The Open Source Paradox: Fragility and Promise](https://dev.to/opensauced/the-open-source-paradox-fragility-and-promise-2j0)
-- [Securing CouchDB with Keycloak Behind Nginx Reverse Proxy – Part 1](https://dev.to/kishieel/securing-couchdb-with-keycloak-behind-nginx-reverse-proxy-part-1-m0e)
-- [Short Overview: Frontend Architectures 🧩](https://dev.to/buildwebcrumbs/short-overview-frontend-architectures-4778)
+- [Build a website with Next.js using next/images](https://dev.to/malvinjay/build-a-website-with-nextjs-using-nextimages-2d2d)
+- [Introducing Identity Server 7.0 - The Most Powerful and Developer-Friendly Release Yet](https://dev.to/harsha_thirimanna_39edfd6/introducing-identity-server-70-the-most-powerful-and-developer-friendly-release-yet-5dk5)
+- [Build RESTful APIs with Express.js 🚀](https://dev.to/erasmuskotoka/build-restful-apis-with-expressjs-2fo7)
+- [Shapes](https://dev.to/paulike/shapes-9gl)
+- [Dart Streams with RxDart: Debounce, Throttle, and Distinct](https://dev.to/francescoagati/exploring-dart-streams-with-rxdart-debounce-throttle-and-distinct-4023)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
