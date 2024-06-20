@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a QR Code Generator in JavaScript: Easy Tutorial](https://dev.to/dk119819/how-to-create-a-qr-code-generator-in-javascript-easy-tutorial-de8)
-- [A beginner&#39;s guide to the Clarity-Upscaler model by Philz1337x on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-clarity-upscaler-model-by-philz1337x-on-replicate-28j4)
-- [A beginner&#39;s guide to the Whisperx model by Erium on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-whisperx-model-by-erium-on-replicate-c7l)
-- [A beginner&#39;s guide to the Multilingual-E5-Large model by Beautyyuyanli on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-multilingual-e5-large-model-by-beautyyuyanli-on-replicate-18in)
-- [&gt;1 RDBMS in Spring Data JPA](https://dev.to/pranjal_sharma_38482a3041/1-rdbms-in-spring-data-jpa-5ge4)
+- [Why Specifying the Node.js Version is Essential](https://dev.to/robertoumbelino/why-specifying-the-nodejs-version-is-essential-4nhp)
+- [Testing Your API with Fastify and Vitest: A Step-by-Step Guide](https://dev.to/robertoumbelino/testing-your-api-with-fastify-and-vitest-a-step-by-step-guide-2840)
+- [ChatGPT Slack Bot](https://dev.to/pranjal_sharma_38482a3041/chatgpt-slack-bot-3bfe)
+- [Day 24 of my progress as a vue dev](https://dev.to/zain725342/day-24-of-my-progress-as-a-vue-dev-5ggi)
+- [I’m switching from Laravel to Rails](https://dev.to/reshadman/im-switching-from-laravel-to-rails-50on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
