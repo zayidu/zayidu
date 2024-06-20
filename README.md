@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a website with Next.js using next/images](https://dev.to/malvinjay/build-a-website-with-nextjs-using-nextimages-2d2d)
-- [Introducing Identity Server 7.0 - The Most Powerful and Developer-Friendly Release Yet](https://dev.to/harsha_thirimanna_39edfd6/introducing-identity-server-70-the-most-powerful-and-developer-friendly-release-yet-5dk5)
-- [Build RESTful APIs with Express.js 🚀](https://dev.to/erasmuskotoka/build-restful-apis-with-expressjs-2fo7)
-- [Shapes](https://dev.to/paulike/shapes-9gl)
-- [Dart Streams with RxDart: Debounce, Throttle, and Distinct](https://dev.to/francescoagati/exploring-dart-streams-with-rxdart-debounce-throttle-and-distinct-4023)
+- [t3twilio: Never Forget Again!](https://dev.to/kanav_gupta/t3twilio-never-forget-again-20bl)
+- [🧠 Neural Networks Explained](https://dev.to/aviralgarg05/neural-networks-explained-2c0p)
+- [Python Decorators: Simplified Explanation](https://dev.to/francescoagati/python-decorators-simplified-explanation-hm1)
+- [Dapper Stored Procedure tip](https://dev.to/karenpayneoregon/dapper-stored-procedure-tip-13j4)
+- [State in React](https://dev.to/spencer_adler_880da14d230/state-in-react-4pmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
