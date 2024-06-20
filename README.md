@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Difference Between Spread and Rest Operators in JavaScript](https://dev.to/dk119819/understanding-the-difference-between-spread-and-rest-operators-in-javascript-3ooc)
-- [amber: writing bash scripts in amber instead. pt. 2: loops and ifs](https://dev.to/gbhorwood/amber-writing-bash-scripts-in-amber-instead-pt-2-loops-and-ifs-1694)
-- [The &lt;map&gt; Tag in HTML](https://dev.to/mhmd-salah/the-tag-in-html-2691)
-- [Started learning HTML and CSS :&rpar;](https://dev.to/krsna_11/started-learning-html-and-css--343n)
-- [Warlock.js From Nodejs Course Into a fine grained framework](https://dev.to/hassanzohdy/warlockjs-from-nodejs-course-into-a-fine-grained-framework-36kp)
+- [How to Create a QR Code Generator in JavaScript: Easy Tutorial](https://dev.to/dk119819/how-to-create-a-qr-code-generator-in-javascript-easy-tutorial-de8)
+- [A beginner&#39;s guide to the Clarity-Upscaler model by Philz1337x on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-clarity-upscaler-model-by-philz1337x-on-replicate-28j4)
+- [A beginner&#39;s guide to the Whisperx model by Erium on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-whisperx-model-by-erium-on-replicate-c7l)
+- [A beginner&#39;s guide to the Multilingual-E5-Large model by Beautyyuyanli on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-multilingual-e5-large-model-by-beautyyuyanli-on-replicate-18in)
+- [&gt;1 RDBMS in Spring Data JPA](https://dev.to/pranjal_sharma_38482a3041/1-rdbms-in-spring-data-jpa-5ge4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
