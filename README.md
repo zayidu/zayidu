@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go from one page to another with javascript](https://dev.to/raz41/go-from-one-page-to-another-with-javascript-dil)
-- [Pure Functions in Next.js](https://dev.to/sabermekki/pure-functions-in-nextjs-4ni4)
-- [🚀 API Maker : Release Notes for v1.6.0](https://dev.to/apimaker/api-maker-release-notes-for-v160-5786)
-- [Data Migration from GaussDB to GBase8a](https://dev.to/congcong/data-migration-from-gaussdb-to-gbase8a-8b7)
-- [Data Migration from GaussDB to GBase8a](https://dev.to/congcong/data-migration-from-gaussdb-to-gbase8a-4dfc)
+- [Path To A Clean&lpar;er&rpar; React Architecture &lpar;Part 6&rpar; - Business Logic Separation](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-part-6-business-logic-separation-221g)
+- [Why CLIs are STILL important](https://dev.to/cyclops-ui/why-clis-are-still-important-425a)
+- [How to Integrate Cloud Security Tools into Your Existing IT Infrastructure](https://dev.to/micromindercs/how-to-integrate-cloud-security-tools-into-your-existing-it-infrastructure-46gi)
+- [GCP Cloud Armor - How to Leverage and add extra layer of security](https://dev.to/chetan_menge/gcp-cloud-armor-how-to-leverage-and-add-extra-layer-of-security-4ol7)
+- [6 Captivating Python Programming Tutorials from LabEx 🚀](https://dev.to/labex/6-captivating-python-programming-tutorials-from-labex-4f5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
