@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is React Native? A Comprehensive Guide for 2024](https://dev.to/vikas_brilworks/what-is-react-native-a-comprehensive-guide-for-2024-1kk9)
-- [Solving Cloud Cost Monitoring](https://dev.to/badalpatel6534/solving-cloud-cost-monitoring-8dh)
-- [JWT vs PASETO: New Era of Token-Based Authentication](https://dev.to/manojgohel/jwt-vs-paseto-new-era-of-token-based-authentication-59l4)
-- [Machine Learning](https://dev.to/prathik_bsgowda_48f2241/machine-learning-4i16)
-- [Create a high-availability storage account with public access, a blob container, soft delete, and blob versioning enabled.](https://dev.to/bdporomon/create-a-high-availability-storage-account-with-public-access-a-blob-container-soft-delete-and-blob-versioning-enabled-le4)
+- [Join Us in Building IconSnap.me: Revolutionizing Real-Time Icon Correction](https://dev.to/stokry/join-us-in-building-iconsnapme-revolutionizing-real-time-icon-correction-4mcc)
+- [Big-Oh defined &lpar;the fun way &rpar;](https://dev.to/mitchiemt11/big-oh-defined-the-fun-way--16h5)
+- [What is Java’s default GC algorithm?](https://dev.to/ram_lakshmanan_001/what-is-javas-default-gc-algorithm-4fgb)
+- [Bit Wars: 32-bit vs 64-bit Systems Explained](https://dev.to/shravan20/bit-wars-32-bit-vs-64-bit-systems-explained-511a)
+- [End of Phase 3: Diving into Backend Development](https://dev.to/johnjohnpenafiel/end-of-phase-3-diving-into-backend-development-2d19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
