@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CA Intermediate Registration 2025: Deadline Alert](https://dev.to/ananya_seth12/ca-intermediate-registration-2025-deadline-alert-2fn1)
-- [Understanding Microservices: A Technical Overview](https://dev.to/adaumircosta/understanding-microservices-a-technical-overview-4li1)
-- [JuiceFS 1.2: Introducing Enterprise-Grade Permission Management and Smooth Upgrades](https://dev.to/daswu/juicefs-12-introducing-enterprise-grade-permission-management-and-smooth-upgrades-aeg)
-- [Top 10 React Libraries and Tools You Should Know in 2024](https://dev.to/delia_code/top-10-react-libraries-and-tools-you-should-know-in-2024-1jok)
-- [How to create a Next.js 14 dynamic sitemap?](https://dev.to/syketb/how-to-create-a-nextjs-14-dynamic-sitemap-2e1b)
+- [What Is React Native? A Comprehensive Guide for 2024](https://dev.to/vikas_brilworks/what-is-react-native-a-comprehensive-guide-for-2024-1kk9)
+- [Solving Cloud Cost Monitoring](https://dev.to/badalpatel6534/solving-cloud-cost-monitoring-8dh)
+- [JWT vs PASETO: New Era of Token-Based Authentication](https://dev.to/manojgohel/jwt-vs-paseto-new-era-of-token-based-authentication-59l4)
+- [Machine Learning](https://dev.to/prathik_bsgowda_48f2241/machine-learning-4i16)
+- [Create a high-availability storage account with public access, a blob container, soft delete, and blob versioning enabled.](https://dev.to/bdporomon/create-a-high-availability-storage-account-with-public-access-a-blob-container-soft-delete-and-blob-versioning-enabled-le4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
