@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Join Us in Building IconSnap.me: Revolutionizing Real-Time Icon Correction](https://dev.to/stokry/join-us-in-building-iconsnapme-revolutionizing-real-time-icon-correction-4mcc)
-- [Big-Oh defined &lpar;the fun way &rpar;](https://dev.to/mitchiemt11/big-oh-defined-the-fun-way--16h5)
-- [What is Java’s default GC algorithm?](https://dev.to/ram_lakshmanan_001/what-is-javas-default-gc-algorithm-4fgb)
-- [Bit Wars: 32-bit vs 64-bit Systems Explained](https://dev.to/shravan20/bit-wars-32-bit-vs-64-bit-systems-explained-511a)
-- [End of Phase 3: Diving into Backend Development](https://dev.to/johnjohnpenafiel/end-of-phase-3-diving-into-backend-development-2d19)
+- [Tech to Non-tech in Search of better Tech Roles again!](https://dev.to/parthmagicss/tech-to-non-tech-in-search-of-better-tech-roles-again-104f)
+- [CMA Foundation Passing Marks : A Deep Dive](https://dev.to/samina_fatima_d743b381a14/cma-foundation-passing-marks-a-deep-dive-2p7a)
+- [VSCode C++ extension 執行程式時的工作路徑](https://dev.to/codemee/vscode-c-extension-zhi-xing-cheng-shi-shi-de-gong-zuo-lu-jing-1lgc)
+- [Flashback in GBase 8c for Data Consistency](https://dev.to/congcong/flashback-in-gbase-8c-for-data-consistency-hgk)
+- [Why You Should Focus On One Programming Language](https://dev.to/thekarlesi/why-you-should-focus-on-one-programming-language-1ed2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
