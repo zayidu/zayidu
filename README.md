@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Destructuring in JavaScript](https://dev.to/ddebajyati/exploring-destructuring-in-javascript-5a24)
-- [AWS Storage](https://dev.to/vidhey071/aws-storage-196c)
-- [Namaste Your Way to Wellness: AI-Powered Yoga Recommendations](https://dev.to/engineeredsoul/namaste-your-way-to-wellness-ai-powered-yoga-recommendations-2n3p)
-- [10 Best Tools for Secure and Efficient File Sharing in 2024](https://dev.to/sh20raj/10-best-tools-for-secure-and-efficient-file-sharing-in-2024-1hh2)
-- [Participe da maior competição de IA do Brasil!](https://dev.to/guiachcar/participe-da-maior-competicao-de-ia-do-brasil-47n4)
+- [🧩 JavaScript Closures 🧩](https://dev.to/chinwuba_okafor_fed1ed88f/javascript-closures-35e6)
+- [Don&#39;t Be The Next Victim! This Library Will Keep You Safe!](https://dev.to/ashsajal/dont-be-the-next-victim-this-library-will-keep-you-safe-27jo)
+- [Building a Custom Flutter Widget from Scratch](https://dev.to/harsh8088/building-a-custom-flutter-widget-from-scratch-335i)
+- [How to Write a Resume that Doesn&#39;t Suck](https://dev.to/tdesseyn/how-to-write-a-resume-that-doesnt-suck-4kei)
+- [Weekly Updates - June 21, 2024](https://dev.to/couchbase/weekly-updates-june-21-2024-c2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
