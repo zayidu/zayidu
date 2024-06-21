@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Ledger and Why Floating Points Are Not Recommended?](https://dev.to/woovi/what-is-a-ledger-and-why-floating-points-are-not-recommended-1f4l)
-- [Documentar tu proyecto ASP.Net y mostrarlo como un formulario mas](https://dev.to/re-al-/documentar-tu-proyecto-aspnet-y-mostrarlo-como-un-formulario-mas-1na1)
-- [HOW TO CREATE AND CONNECT TO A LINUX VM USING A PUBLIC KEY](https://dev.to/presh1/how-to-create-and-connect-to-a-linux-vm-using-a-public-key-2h1h)
-- [#TestInPublic: Charty App](https://dev.to/ashleygraf_/testinpublic-charty-app-151a)
-- [OpenLDAP con CSharp](https://dev.to/re-al-/openldap-con-csharp-3h8n)
+- [My Flow and Productivity has Improved with the Simplicity of Neovim](https://dev.to/aws-builders/my-flow-and-productivity-has-improved-with-the-simplicity-of-neovim-2lhm)
+- [What do a bug screen and a firewall have in common?](https://dev.to/yowise/what-do-a-bug-screen-and-a-firewall-have-in-common-olg)
+- [Preparing for AWS Cloud Practitioner CLF-C02: A Beginner’s Guide to Getting Started](https://dev.to/rahul_chandra/preparing-for-aws-cloud-practitioner-clf-c02-a-beginners-guide-to-getting-started-370o)
+- [React Router | React Router DOM](https://dev.to/geetika_bajpai_a654bfd1e0/react-router-react-router-dom-1blo)
+- [Security news weekly round-up - 21st June 2024](https://dev.to/ziizium/security-news-weekly-round-up-21st-june-2024-34j0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
