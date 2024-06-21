@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Cybersecurity Tools. Effective open-source.](https://dev.to/litlyx/top-10-cybersecurity-tools-effective-open-source-35ak)
-- [File Performance Issues](https://dev.to/esproc_spl/file-performance-issues-1m0k)
-- [I wrote code to generate fixtures for Zone01 Kisumu&#39;s Go Foosball League.](https://dev.to/zone01kisumu/i-wrote-code-to-generate-fixtures-for-zone01-kisumus-go-foosball-league-p9o)
-- [The Ultimate Guide to Transforming Anxiety into Triumph with #Go](https://dev.to/zone01kisumu/the-ultimate-guide-to-transforming-anxiety-into-triumph-with-go-2n35)
-- [Recursion is king.](https://dev.to/luan_jubica/recursion-is-king-39fj)
+- [Top 10 Popular Kubernetes Interview Questions](https://dev.to/iarchitsharma/top-10-popular-kubernetes-interview-questions-3kfd)
+- [New Course Launch: SPL Programming on esProc Desktop](https://dev.to/judith677/new-course-launch-spl-programming-on-esproc-desktop-2lma)
+- [Turing Machine: Foundation of Computation](https://dev.to/dee_codes/turing-machine-foundation-of-computation-1144)
+- [Make a TEXT loading template.](https://dev.to/sunder_mehra_246c4308e1dd/make-a-text-loading-template-2609)
+- [AddGraph can be used to draw product prototype design diagrams](https://dev.to/fridaymeng/addgraph-can-be-used-to-draw-product-prototype-design-diagrams-4m7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
