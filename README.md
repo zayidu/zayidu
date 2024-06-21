@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Make a Billion in 6 Month in Tech &lpar;Only For Billionaires&rpar;](https://dev.to/scofieldidehen/make-a-billion-in-6-month-in-tech-only-for-billionaires-a14)
-- [HealthLingo Talk to Doctors in any language from WhatsApp | Twilio with GPT](https://dev.to/ashiqsultan/healthlingo-consult-doctors-from-whatsapp-in-your-native-language-twilio-with-gpt-544m)
-- [F1 app made in react](https://dev.to/itzale/f1-app-made-in-react-4187)
-- [Remote-first companies we should know about 🤔](https://dev.to/devonremote/remote-first-companies-we-should-know-about-2lgm)
-- [An Ultralearning Approach to the Technical Interview](https://dev.to/himynameisoleg/an-ultralearning-approach-to-the-technical-interview-njg)
+- [How RAG with txtai works](https://dev.to/neuml/how-rag-with-txtai-works-4lkh)
+- [DAY3 -&gt; Scaling Databases &lpar;Replication&rpar;](https://dev.to/taniskannpurna/day3-scaling-databases-replication-30pd)
+- [Are you burning your money?](https://dev.to/sein_digital/are-you-burning-your-money-2m6f)
+- [O que é JSON &lpar;Javasript Object Notation&rpar; e como usamos ?](https://dev.to/henriqueleme/o-que-e-json-javasript-object-notation-e-como-usamos--2b1d)
+- [How to learn programming without a computer?](https://dev.to/thisishemmi/how-to-learn-to-program-without-a-computer-5eb3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
