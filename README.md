@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OAuth 2.1 is Here: What You Need to Know](https://dev.to/logto/oauth-21-is-here-what-you-need-to-know-28b8)
-- [Breadth-First Search](https://dev.to/nickocruzm/breadth-first-search-178c)
-- [Apple Silicon, State-of-the-art ARM CPU](https://dev.to/choonho/apple-silicon-state-of-the-art-arm-cpu-4131)
-- [Profiles in Visual Studio Code &lpar;VSCode&rpar;](https://dev.to/mhmd-salah/profiles-in-visual-studio-code-vscode-3j9l)
-- [Postgres Arrays](https://dev.to/mrpercival/postgres-arrays-2nni)
+- [Building a Secure CI/CD Pipeline: Beyond the Basics of Security Testing](https://dev.to/gauri1504/building-a-secure-cicd-pipeline-beyond-the-basics-of-security-testing-gpk)
+- [Getting Started with ReductStore in Node.js](https://dev.to/reductstore/getting-started-with-reductstore-in-nodejs-4p8l)
+- [Recycling comes to WhatsApp ♻️](https://dev.to/anshsaini/recycling-comes-to-whatsapp-63a)
+- [Mastering AWS Cloud Architecture: A Comprehensive Guide to the Well-Architected Framework](https://dev.to/kelvinskell/mastering-aws-cloud-architecture-a-comprehensive-guide-to-the-well-architected-framework-48ba)
+- [Master the Stock Span Problem by 3 Easy Steps in Python](https://dev.to/rk042/master-the-stock-span-problem-by-3-easy-steps-in-python-3i8p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
