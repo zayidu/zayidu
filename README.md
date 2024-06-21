@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Should you really Roll your own auth?](https://dev.to/devlawrence/should-you-really-roll-your-own-auth-4dj)
-- [Entendendo as Nomenclaturas getBy..., findBy... e queryBy... no Jest](https://dev.to/vitorrios1001/entendendo-as-nomenclaturas-getby-findby-e-queryby-no-jest-2ni4)
-- [Modelo de Desing de Aplicações Backend](https://dev.to/brunobrolesi/modelo-de-desing-de-aplicacoes-backend-47jp)
-- [MICROSOFT APPLIED SKILL. Guided Project:](https://dev.to/sethgiddy/microsoft-applied-skill-guided-project-4ci9)
-- [Understanding the Factory Method Design Pattern](https://dev.to/bilelsalemdev/understanding-the-factory-method-design-pattern-45gk)
+- [Top IT Staffing Companies in the USA](https://dev.to/balazsrefi/top-it-staffing-companies-in-the-usa-2jnb)
+- [Understanding @Primary in Spring](https://dev.to/tiuwill/understanding-primary-in-spring-54dm)
+- [Understanding Context API in ReactJS Made Simple](https://dev.to/dk119819/understanding-context-api-in-reactjs-made-simple-53hp)
+- [Greedy Algorithm](https://dev.to/pains_arch/greedy-algorithm-10c1)
+- [Automating Windows Display Settings](https://dev.to/juanjosada/automating-windows-display-settings-1c6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
