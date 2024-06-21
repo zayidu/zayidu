@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Path To A Clean&lpar;er&rpar; React Architecture &lpar;Part 6&rpar; - Business Logic Separation](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-part-6-business-logic-separation-221g)
-- [Why CLIs are STILL important](https://dev.to/cyclops-ui/why-clis-are-still-important-425a)
-- [How to Integrate Cloud Security Tools into Your Existing IT Infrastructure](https://dev.to/micromindercs/how-to-integrate-cloud-security-tools-into-your-existing-it-infrastructure-46gi)
-- [GCP Cloud Armor - How to Leverage and add extra layer of security](https://dev.to/chetan_menge/gcp-cloud-armor-how-to-leverage-and-add-extra-layer-of-security-4ol7)
-- [6 Captivating Python Programming Tutorials from LabEx 🚀](https://dev.to/labex/6-captivating-python-programming-tutorials-from-labex-4f5p)
+- [Seamless State Management using Async Iterators](https://dev.to/matatbread/seamless-state-management-using-async-iterators-fp7)
+- [Static in C# - Part 1](https://dev.to/locnguyenpv/static-in-c-part-1-51h1)
+- [How to Create and Connect to a Linux VM Using a Public Key](https://dev.to/florence_8042063da11e29d1/how-to-create-and-connect-to-a-linux-vm-using-a-public-key-if3)
+- [Code Your Way to Freedom: A Hard-Earned Guide](https://dev.to/trae_z/code-your-way-to-freedom-a-hard-earned-guide-2k39)
+- [How to Set Up Solargraph in VS Code with WSL2](https://dev.to/lucasldemello/how-to-set-up-solargraph-in-vs-code-with-wsl2-283b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
