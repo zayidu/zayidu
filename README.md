@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [OAuth 2.1 is Here: What You Need to Know](https://dev.to/logto/oauth-21-is-here-what-you-need-to-know-28b8)
+- [Breadth-First Search](https://dev.to/nickocruzm/breadth-first-search-178c)
 - [Apple Silicon, State-of-the-art ARM CPU](https://dev.to/choonho/apple-silicon-state-of-the-art-arm-cpu-4131)
-- [Implement React v18 from Scratch Using WASM and Rust - [17] Implement Concurrent Mode](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-17-implement-concurrent-mode-3680)
-- [Easily Migrate DataBase Data in Just 3 Steps, Even for Beginners](https://dev.to/concerate/easily-migrate-database-data-in-just-3-steps-even-for-beginners-37o0)
-- [How to Enhance File Security: Three Key Measures for Your Business](https://dev.to/jeffreyboyle0033/how-to-enhance-file-security-three-key-measures-for-your-business-589)
-- [Day 3 of My 90 Days of DevOps Projects: Monitoring with Prometheus and Grafana](https://dev.to/arbythecoder/day-3-of-my-90-days-of-devops-projects-monitoring-with-prometheus-and-grafana-1abf)
+- [Profiles in Visual Studio Code &lpar;VSCode&rpar;](https://dev.to/mhmd-salah/profiles-in-visual-studio-code-vscode-3j9l)
+- [Postgres Arrays](https://dev.to/mrpercival/postgres-arrays-2nni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
