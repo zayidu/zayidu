@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Day 13 Binary Tree Part 4](https://dev.to/flame_chan_llll/leetcode-day-13-binary-tree-part-4-3dbm)
-- [What is Recursion ?](https://dev.to/snehabn3012/what-is-recursion--ij5)
-- [AWS Billing and Cost Management](https://dev.to/vidhey071/aws-billing-and-cost-management-2ib5)
-- [Building a production system with Generative AI](https://dev.to/ejb503/building-a-production-system-with-generative-ai-1k66)
-- [Nations attacking their own internet &lpar;to stop cheating on exams&rpar;](https://dev.to/peter/nations-attacking-their-own-internet-to-stop-cheating-on-exams-4f6c)
+- [AWS Certification Exam 8](https://dev.to/vidhey071/aws-certification-exam-8-nf9)
+- [Master Object Oriented Programming with TypeScript | OOP Concepts Part 1](https://dev.to/drsimplegraffiti/master-object-oriented-programming-with-typescript-oop-concepts-part-1-2pp3)
+- [AWS Backup Primer](https://dev.to/vidhey071/aws-backup-primer-1m94)
+- [Mastering .env File Usage in React Applications](https://dev.to/dk119819/mastering-env-file-usage-in-react-applications-1og5)
+- [The Complete Guide To Full Stack Development On BSV Blockchain with React, sCrypt, Typescript and Panda.](https://dev.to/bravolakmedia/the-complete-guide-to-full-stack-development-on-bsv-blockchain-with-react-scrypt-typescript-and-panda-22h6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
