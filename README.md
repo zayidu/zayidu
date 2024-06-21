@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Secure CI/CD Pipeline: Beyond the Basics of Security Testing](https://dev.to/gauri1504/building-a-secure-cicd-pipeline-beyond-the-basics-of-security-testing-gpk)
-- [Getting Started with ReductStore in Node.js](https://dev.to/reductstore/getting-started-with-reductstore-in-nodejs-4p8l)
-- [Recycling comes to WhatsApp ♻️](https://dev.to/anshsaini/recycling-comes-to-whatsapp-63a)
-- [Mastering AWS Cloud Architecture: A Comprehensive Guide to the Well-Architected Framework](https://dev.to/kelvinskell/mastering-aws-cloud-architecture-a-comprehensive-guide-to-the-well-architected-framework-48ba)
-- [Master the Stock Span Problem by 3 Easy Steps in Python](https://dev.to/rk042/master-the-stock-span-problem-by-3-easy-steps-in-python-3i8p)
+- [CA Intermediate Registration 2025: Deadline Alert](https://dev.to/ananya_seth12/ca-intermediate-registration-2025-deadline-alert-2fn1)
+- [Understanding Microservices: A Technical Overview](https://dev.to/adaumircosta/understanding-microservices-a-technical-overview-4li1)
+- [JuiceFS 1.2: Introducing Enterprise-Grade Permission Management and Smooth Upgrades](https://dev.to/daswu/juicefs-12-introducing-enterprise-grade-permission-management-and-smooth-upgrades-aeg)
+- [Top 10 React Libraries and Tools You Should Know in 2024](https://dev.to/delia_code/top-10-react-libraries-and-tools-you-should-know-in-2024-1jok)
+- [How to create a Next.js 14 dynamic sitemap?](https://dev.to/syketb/how-to-create-a-nextjs-14-dynamic-sitemap-2e1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
