@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the difference between Library and Framework](https://dev.to/chintamani_pala/what-is-the-difference-between-library-and-framework-1b8g)
-- [Worker Pool Design Pattern Explanation](https://dev.to/zeedu_dev/worker-pool-design-pattern-explanation-3kil)
-- [The &quot;Works on My Machine&quot; Curse: Slaying the Productivity Dragon in Local Development](https://dev.to/ssadasivuni/the-works-on-my-machine-curse-slaying-the-productivity-dragon-in-local-development-276)
-- [The MEVN Stack: A Modern Web Development Powerhouse](https://dev.to/matin_mollapur/the-mevn-stack-a-modern-web-development-powerhouse-34ji)
-- [2024 and Beyond: The Evolving Role of Scriptless Test Automation in Agile Development](https://dev.to/sophie_wilson0412/2024-and-beyond-the-evolving-role-of-scriptless-test-automation-in-agile-development-2e6l)
+- [What is a Ledger and Why Floating Points Are Not Recommended?](https://dev.to/woovi/what-is-a-ledger-and-why-floating-points-are-not-recommended-1f4l)
+- [Documentar tu proyecto ASP.Net y mostrarlo como un formulario mas](https://dev.to/re-al-/documentar-tu-proyecto-aspnet-y-mostrarlo-como-un-formulario-mas-1na1)
+- [HOW TO CREATE AND CONNECT TO A LINUX VM USING A PUBLIC KEY](https://dev.to/presh1/how-to-create-and-connect-to-a-linux-vm-using-a-public-key-2h1h)
+- [#TestInPublic: Charty App](https://dev.to/ashleygraf_/testinpublic-charty-app-151a)
+- [OpenLDAP con CSharp](https://dev.to/re-al-/openldap-con-csharp-3h8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
