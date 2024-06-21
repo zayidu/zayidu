@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Flow and Productivity has Improved with the Simplicity of Neovim](https://dev.to/aws-builders/my-flow-and-productivity-has-improved-with-the-simplicity-of-neovim-2lhm)
-- [What do a bug screen and a firewall have in common?](https://dev.to/yowise/what-do-a-bug-screen-and-a-firewall-have-in-common-olg)
-- [Preparing for AWS Cloud Practitioner CLF-C02: A Beginner’s Guide to Getting Started](https://dev.to/rahul_chandra/preparing-for-aws-cloud-practitioner-clf-c02-a-beginners-guide-to-getting-started-370o)
-- [React Router | React Router DOM](https://dev.to/geetika_bajpai_a654bfd1e0/react-router-react-router-dom-1blo)
-- [Security news weekly round-up - 21st June 2024](https://dev.to/ziizium/security-news-weekly-round-up-21st-june-2024-34j0)
+- [4 useState Mistakes You Should Avoid in React🚫](https://dev.to/safdarali/4-usestate-mistakes-you-should-avoid-in-react-1ol0)
+- [Firebase Authentication: Are you truly secure?](https://dev.to/oyegoke/firebase-authentication-are-you-truly-secure-1bo4)
+- [[Game of Purpose] Day 34](https://dev.to/humberd/game-of-purpose-day-34-47j4)
+- [Networking and Sockets: Syn and Accept queue](https://dev.to/douglasmakey/networking-and-sockets-syn-and-accept-queue-1lgn)
+- [Project Stage-3: Error Analysis](https://dev.to/yuktimulani/project-stage-3-error-analysis-3lm4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
