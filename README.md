@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top IT Staffing Companies in the USA](https://dev.to/balazsrefi/top-it-staffing-companies-in-the-usa-2jnb)
-- [Understanding @Primary in Spring](https://dev.to/tiuwill/understanding-primary-in-spring-54dm)
-- [Understanding Context API in ReactJS Made Simple](https://dev.to/dk119819/understanding-context-api-in-reactjs-made-simple-53hp)
-- [Greedy Algorithm](https://dev.to/pains_arch/greedy-algorithm-10c1)
-- [Automating Windows Display Settings](https://dev.to/juanjosada/automating-windows-display-settings-1c6f)
+- [REST Console: A Powerful Tool for Testing APIs](https://dev.to/edward_hernnapazamaman/rest-console-a-powerful-tool-for-testing-apis-k4i)
+- [Decoding User Feedback at Collision Conf: The Power of AI-powered Image Analysis](https://dev.to/sid16/decoding-user-feedback-at-collision-conf-the-power-of-ai-powered-image-analysis-9b9)
+- [Pros and Cons of AI-Assisted Software Development](https://dev.to/olivia1202/pros-and-cons-of-ai-assisted-software-development-3373)
+- [Top Anker Products for Developers in 2024](https://dev.to/judescripts/top-anker-products-for-developers-in-2024-3enm)
+- [BLUETTI Portable Power Stations for Developers](https://dev.to/judescripts/bluetti-portable-power-stations-for-developers-503p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
