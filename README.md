@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧩 JavaScript Closures 🧩](https://dev.to/chinwuba_okafor_fed1ed88f/javascript-closures-35e6)
-- [Don&#39;t Be The Next Victim! This Library Will Keep You Safe!](https://dev.to/ashsajal/dont-be-the-next-victim-this-library-will-keep-you-safe-27jo)
-- [Building a Custom Flutter Widget from Scratch](https://dev.to/harsh8088/building-a-custom-flutter-widget-from-scratch-335i)
-- [How to Write a Resume that Doesn&#39;t Suck](https://dev.to/tdesseyn/how-to-write-a-resume-that-doesnt-suck-4kei)
-- [Weekly Updates - June 21, 2024](https://dev.to/couchbase/weekly-updates-june-21-2024-c2f)
+- [Make a Billion in 6 Month in Tech &lpar;Only For Billionaires&rpar;](https://dev.to/scofieldidehen/make-a-billion-in-6-month-in-tech-only-for-billionaires-a14)
+- [HealthLingo Talk to Doctors in any language from WhatsApp | Twilio with GPT](https://dev.to/ashiqsultan/healthlingo-consult-doctors-from-whatsapp-in-your-native-language-twilio-with-gpt-544m)
+- [F1 app made in react](https://dev.to/itzale/f1-app-made-in-react-4187)
+- [Remote-first companies we should know about 🤔](https://dev.to/devonremote/remote-first-companies-we-should-know-about-2lgm)
+- [An Ultralearning Approach to the Technical Interview](https://dev.to/himynameisoleg/an-ultralearning-approach-to-the-technical-interview-njg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
