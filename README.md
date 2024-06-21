@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech to Non-tech in Search of better Tech Roles again!](https://dev.to/parthmagicss/tech-to-non-tech-in-search-of-better-tech-roles-again-104f)
-- [CMA Foundation Passing Marks : A Deep Dive](https://dev.to/samina_fatima_d743b381a14/cma-foundation-passing-marks-a-deep-dive-2p7a)
-- [VSCode C++ extension 執行程式時的工作路徑](https://dev.to/codemee/vscode-c-extension-zhi-xing-cheng-shi-shi-de-gong-zuo-lu-jing-1lgc)
-- [Flashback in GBase 8c for Data Consistency](https://dev.to/congcong/flashback-in-gbase-8c-for-data-consistency-hgk)
-- [Why You Should Focus On One Programming Language](https://dev.to/thekarlesi/why-you-should-focus-on-one-programming-language-1ed2)
+- [Top 10 Cybersecurity Tools. Effective open-source.](https://dev.to/litlyx/top-10-cybersecurity-tools-effective-open-source-35ak)
+- [File Performance Issues](https://dev.to/esproc_spl/file-performance-issues-1m0k)
+- [I wrote code to generate fixtures for Zone01 Kisumu&#39;s Go Foosball League.](https://dev.to/zone01kisumu/i-wrote-code-to-generate-fixtures-for-zone01-kisumus-go-foosball-league-p9o)
+- [The Ultimate Guide to Transforming Anxiety into Triumph with #Go](https://dev.to/zone01kisumu/the-ultimate-guide-to-transforming-anxiety-into-triumph-with-go-2n35)
+- [Recursion is king.](https://dev.to/luan_jubica/recursion-is-king-39fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
