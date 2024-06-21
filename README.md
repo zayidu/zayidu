@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [REST Console: A Powerful Tool for Testing APIs](https://dev.to/edward_hernnapazamaman/rest-console-a-powerful-tool-for-testing-apis-k4i)
-- [Decoding User Feedback at Collision Conf: The Power of AI-powered Image Analysis](https://dev.to/sid16/decoding-user-feedback-at-collision-conf-the-power-of-ai-powered-image-analysis-9b9)
-- [Pros and Cons of AI-Assisted Software Development](https://dev.to/olivia1202/pros-and-cons-of-ai-assisted-software-development-3373)
-- [Top Anker Products for Developers in 2024](https://dev.to/judescripts/top-anker-products-for-developers-in-2024-3enm)
-- [BLUETTI Portable Power Stations for Developers](https://dev.to/judescripts/bluetti-portable-power-stations-for-developers-503p)
+- [Apple Silicon, State-of-the-art ARM CPU](https://dev.to/choonho/apple-silicon-state-of-the-art-arm-cpu-4131)
+- [Implement React v18 from Scratch Using WASM and Rust - [17] Implement Concurrent Mode](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-17-implement-concurrent-mode-3680)
+- [Easily Migrate DataBase Data in Just 3 Steps, Even for Beginners](https://dev.to/concerate/easily-migrate-database-data-in-just-3-steps-even-for-beginners-37o0)
+- [How to Enhance File Security: Three Key Measures for Your Business](https://dev.to/jeffreyboyle0033/how-to-enhance-file-security-three-key-measures-for-your-business-589)
+- [Day 3 of My 90 Days of DevOps Projects: Monitoring with Prometheus and Grafana](https://dev.to/arbythecoder/day-3-of-my-90-days-of-devops-projects-monitoring-with-prometheus-and-grafana-1abf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
