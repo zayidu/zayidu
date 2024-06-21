@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Certification Exam 8](https://dev.to/vidhey071/aws-certification-exam-8-nf9)
-- [Master Object Oriented Programming with TypeScript | OOP Concepts Part 1](https://dev.to/drsimplegraffiti/master-object-oriented-programming-with-typescript-oop-concepts-part-1-2pp3)
-- [AWS Backup Primer](https://dev.to/vidhey071/aws-backup-primer-1m94)
-- [Mastering .env File Usage in React Applications](https://dev.to/dk119819/mastering-env-file-usage-in-react-applications-1og5)
-- [The Complete Guide To Full Stack Development On BSV Blockchain with React, sCrypt, Typescript and Panda.](https://dev.to/bravolakmedia/the-complete-guide-to-full-stack-development-on-bsv-blockchain-with-react-scrypt-typescript-and-panda-22h6)
+- [Exploring Destructuring in JavaScript](https://dev.to/ddebajyati/exploring-destructuring-in-javascript-5a24)
+- [AWS Storage](https://dev.to/vidhey071/aws-storage-196c)
+- [Namaste Your Way to Wellness: AI-Powered Yoga Recommendations](https://dev.to/engineeredsoul/namaste-your-way-to-wellness-ai-powered-yoga-recommendations-2n3p)
+- [10 Best Tools for Secure and Efficient File Sharing in 2024](https://dev.to/sh20raj/10-best-tools-for-secure-and-efficient-file-sharing-in-2024-1hh2)
+- [Participe da maior competição de IA do Brasil!](https://dev.to/guiachcar/participe-da-maior-competicao-de-ia-do-brasil-47n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
