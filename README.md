@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Popular Kubernetes Interview Questions](https://dev.to/iarchitsharma/top-10-popular-kubernetes-interview-questions-3kfd)
-- [New Course Launch: SPL Programming on esProc Desktop](https://dev.to/judith677/new-course-launch-spl-programming-on-esproc-desktop-2lma)
-- [Turing Machine: Foundation of Computation](https://dev.to/dee_codes/turing-machine-foundation-of-computation-1144)
-- [Make a TEXT loading template.](https://dev.to/sunder_mehra_246c4308e1dd/make-a-text-loading-template-2609)
-- [AddGraph can be used to draw product prototype design diagrams](https://dev.to/fridaymeng/addgraph-can-be-used-to-draw-product-prototype-design-diagrams-4m7l)
+- [Go from one page to another with javascript](https://dev.to/raz41/go-from-one-page-to-another-with-javascript-dil)
+- [Pure Functions in Next.js](https://dev.to/sabermekki/pure-functions-in-nextjs-4ni4)
+- [🚀 API Maker : Release Notes for v1.6.0](https://dev.to/apimaker/api-maker-release-notes-for-v160-5786)
+- [Data Migration from GaussDB to GBase8a](https://dev.to/congcong/data-migration-from-gaussdb-to-gbase8a-8b7)
+- [Data Migration from GaussDB to GBase8a](https://dev.to/congcong/data-migration-from-gaussdb-to-gbase8a-4dfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
