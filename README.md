@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced NVM Commands for Efficient Node.js Version Management](https://dev.to/rigalpatel001/advanced-nvm-commands-for-efficient-nodejs-version-management-4h5l)
-- [One Byte Explainer - Djikstra&#39;s Algorithm](https://dev.to/vanshgoel/one-byte-explainer-djikstras-algorithm-40o2)
-- [CMA Foundation Registration: Significant Details](https://dev.to/saumya03/cma-foundation-registration-significant-details-42ak)
-- [Generative AI: The Next Frontier of Artificial Intelligence](https://dev.to/deepakbhagat7/generative-ai-the-next-frontier-of-artificial-intelligence-2igo)
-- [How to Dynamically Render HTML Tags in Angular 16.2+](https://dev.to/sidmohanty11/how-to-dynamically-render-html-tags-in-angular-162-42b7)
+- [How to Make a Flowchart](https://dev.to/fridaymeng/how-to-make-a-flowchart-383m)
+- [Level Up Your Customer Support With Telinga API, Twilio APIs &amp; Gemini AI](https://dev.to/onwuagba/level-up-your-customer-support-with-telinga-api-twilio-apis-gemini-ai-3kfc)
+- [Using yup to build schema with value parsing and validation.](https://dev.to/belloshehu/using-yup-to-build-schema-with-value-parsing-and-validation-7if)
+- [Enhancing React Apps: Server Image Preview Component](https://dev.to/amritapadhy/enhancing-react-apps-server-image-preview-component-1pn0)
+- [Pass by Mystery: Unraveling Value Changes in Go](https://dev.to/go-dev-001/pass-by-mystery-unraveling-value-changes-in-go-3o2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
