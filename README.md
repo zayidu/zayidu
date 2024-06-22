@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Letz Understand NPM Versioning: A Beginner&#39;s Guide](https://dev.to/darshanraval/letz-understand-npm-versioning-a-beginners-guide-58pf)
-- [Pro Tips: Dos and Don&#39;ts for Efficient Coding](https://dev.to/dipakahirav/pro-tips-dos-and-donts-for-efficient-coding-425p)
-- [Completed MySQL and Database Design Course](https://dev.to/csathishkumar/completed-mysql-and-database-design-course-59a1)
-- [How to authorize user to view only their own created notes?](https://dev.to/ghulam_mujtaba_247/how-to-authorize-user-to-view-only-their-own-created-notes-5h49)
-- [7 Use Cases for Javascript Proxies 🧙](https://dev.to/mattlewandowski93/7-use-cases-for-javascript-proxies-3b29)
+- [Advanced NVM Commands for Efficient Node.js Version Management](https://dev.to/rigalpatel001/advanced-nvm-commands-for-efficient-nodejs-version-management-4h5l)
+- [One Byte Explainer - Djikstra&#39;s Algorithm](https://dev.to/vanshgoel/one-byte-explainer-djikstras-algorithm-40o2)
+- [CMA Foundation Registration: Significant Details](https://dev.to/saumya03/cma-foundation-registration-significant-details-42ak)
+- [Generative AI: The Next Frontier of Artificial Intelligence](https://dev.to/deepakbhagat7/generative-ai-the-next-frontier-of-artificial-intelligence-2igo)
+- [How to Dynamically Render HTML Tags in Angular 16.2+](https://dev.to/sidmohanty11/how-to-dynamically-render-html-tags-in-angular-162-42b7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
