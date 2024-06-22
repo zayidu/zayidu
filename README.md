@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make a Flowchart](https://dev.to/fridaymeng/how-to-make-a-flowchart-383m)
-- [Level Up Your Customer Support With Telinga API, Twilio APIs &amp; Gemini AI](https://dev.to/onwuagba/level-up-your-customer-support-with-telinga-api-twilio-apis-gemini-ai-3kfc)
-- [Using yup to build schema with value parsing and validation.](https://dev.to/belloshehu/using-yup-to-build-schema-with-value-parsing-and-validation-7if)
-- [Enhancing React Apps: Server Image Preview Component](https://dev.to/amritapadhy/enhancing-react-apps-server-image-preview-component-1pn0)
-- [Pass by Mystery: Unraveling Value Changes in Go](https://dev.to/go-dev-001/pass-by-mystery-unraveling-value-changes-in-go-3o2p)
+- [A Comprehensive Guide to the Data Science Life Cycle with Python Libraries 🐍🤖](https://dev.to/kammarianand/a-comprehensive-guide-to-the-data-science-life-cycle-with-python-libraries-dgd)
+- [Build A CSS Word Search Game In ... CSS!](https://dev.to/madsstoumann/build-a-css-word-search-game-in-css-10d1)
+- [Understanding CSS: Advantages and Disadvantages of Inline, Internal, and External Styles](https://dev.to/brendan_frasser/understanding-css-advantages-and-disadvantages-of-inline-internal-and-external-styles-glk)
+- [Understanding DevOps: Principles, Practices, and Culture - Day 3 Recap](https://dev.to/dilshavijay/understanding-devops-principles-practices-and-culture-day-3-recap-8la)
+- [Display dropdown in blade in laravel](https://dev.to/msnmongare/display-dropdown-in-blade-in-laravel-3dco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
