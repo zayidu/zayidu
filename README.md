@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Body Shop of Security: Biometrics](https://dev.to/swayam_248/the-body-shop-of-security-biometrics-2hba)
-- [Real Graceful Shutdown in Kubernetes and ASP.NET Core](https://dev.to/arminshoeibi/real-graceful-shutdown-in-kubernetes-and-aspnet-core-2290)
-- [What is recursion?](https://dev.to/gift_mugweni_1c055b418706/what-is-recursion-1o34)
-- [Focus](https://dev.to/mlr/focus-421d)
-- [WebGPU Basics: How to Create a Triangle](https://dev.to/gift_mugweni_1c055b418706/webgpu-basics-how-to-create-a-triangle-447m)
+- [Mastering Prompting &amp; Training in LLMs - II](https://dev.to/mahakfaheem/mastering-prompting-training-in-llms-ii-nk4)
+- [Versatility in Action: Exploring Key Fields Where MERN Stack Developers Excel](https://dev.to/ridoy_hasan/versatility-in-action-exploring-key-fields-where-mern-stack-developers-excel-4bdc)
+- [We all want a good DevEx. Here&#39;s how to do it right](https://dev.to/opensourcee/we-all-want-a-good-devex-heres-how-to-do-it-right-11hj)
+- [Twilio challenge submission](https://dev.to/mr-simze/twilio-challenge-submission-2680)
+- [Build your Service Mesh: Admission Controller](https://dev.to/ramonberrutti/build-your-service-mesh-part-2-9c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
