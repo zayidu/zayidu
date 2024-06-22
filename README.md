@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 4 of 90 Days of DevOps: Resetting the Jenkins Password on Windows and Setting Up CI with Jenkins](https://dev.to/arbythecoder/day-4-of-90-days-of-devops-resetting-the-jenkins-password-on-windows-and-setting-up-ci-with-jenkins-1n9j)
+- [Filtering in JOIN or WHERE in MySQL: Differences and Performance Impact](https://dev.to/robertoumbelino/filtering-in-join-or-where-in-mysql-differences-and-performance-impact-1a4g)
 - [Pseudocode/Python Project](https://dev.to/thefoxlion/pseudocodepython-project-4p7n)
 - [Building Custom PCs for Developers: Three Different Approaches](https://dev.to/judescripts/building-custom-pcs-for-developers-three-different-approaches-nll)
 - [Cloud technologies and virtualization - demystify complexities](https://dev.to/mibii/cloud-technologies-and-virtualization-key-concepts-lk1)
-- [Debug Diary: Vscode Extension Development Host Can&#39;t Fully Simulate Actual Vscode](https://dev.to/rossli/debug-diary-vscode-extension-development-host-cant-fully-simulate-actual-vscode-1gd3)
-- [Облачные технологии и виртуализация — демистификация сложности](https://dev.to/mibii/oblachnykh-tiekhnologhii-i-virtualizatsii-kliuchievyie-kontsieptsii-1ca4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
