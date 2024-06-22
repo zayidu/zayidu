@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Blockchain Technology Beyond Cryptocurrencies](https://dev.to/kartikmehta8/exploring-blockchain-technology-beyond-cryptocurrencies-2k48)
-- [How to create and connect to a Linux VM on Azure using a Public Key.](https://dev.to/phillip_ajifowobaje_68724/how-to-create-and-connect-to-a-linux-vm-on-azure-using-a-public-key-5fm1)
-- [GIF to JPG: Transitioning Between Image Formats](https://dev.to/msmith99994/gif-to-jpg-transitioning-between-image-formats-2e28)
-- [Discover the Heart of Ethical Software Development: Principles, Practices, and Real-World Examples](https://dev.to/andresordazrs/discover-the-heart-of-ethical-software-development-principles-practices-and-real-world-examples-2eb)
-- [How To Create And Connect To A Linux Virtual Machine Using A Public Key](https://dev.to/romanus_onyekwere/how-to-create-and-connect-to-a-linux-virtual-machine-using-a-public-key-53dc)
+- [Pseudocode/Python Project](https://dev.to/thefoxlion/pseudocodepython-project-4p7n)
+- [Building Custom PCs for Developers: Three Different Approaches](https://dev.to/judescripts/building-custom-pcs-for-developers-three-different-approaches-nll)
+- [Cloud technologies and virtualization - demystify complexities](https://dev.to/mibii/cloud-technologies-and-virtualization-key-concepts-lk1)
+- [Debug Diary: Vscode Extension Development Host Can&#39;t Fully Simulate Actual Vscode](https://dev.to/rossli/debug-diary-vscode-extension-development-host-cant-fully-simulate-actual-vscode-1gd3)
+- [Облачные технологии и виртуализация — демистификация сложности](https://dev.to/mibii/oblachnykh-tiekhnologhii-i-virtualizatsii-kliuchievyie-kontsieptsii-1ca4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
