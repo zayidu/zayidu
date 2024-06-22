@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer Programming: What is Looping?](https://dev.to/codesmith/computer-programming-what-is-looping-4oda)
-- [The Concept of Looping in Computer Programming](https://dev.to/codesmith/the-concept-of-looping-in-computer-programming-27ic)
-- [Elanat CMS 2.2 Released - Under .NET Core](https://dev.to/elanatframework/elanat-cms-22-released-under-net-core-5fmm)
-- [Entity Framework e SQL Server](https://dev.to/ebagabe/entity-framework-e-sql-server-4eif)
-- [The Power of Schema Markup: Enhancing SEO and Visibility](https://dev.to/gohil1401/the-power-of-schema-markup-enhancing-seo-and-visibility-2p9j)
+- [Django Basics: A Comprehensive Guide](https://dev.to/kihuni/django-basics-a-comprehensive-guide-4dhl)
+- [SOLID PRIINCIPLES](https://dev.to/dev_eze/solid-priinciples-g5c)
+- [More accessible line graphs](https://dev.to/emmadawsondev/more-accessible-line-graphs-3dli)
+- [KUMMEE QARCOO](https://dev.to/jonse_ketela_b13c463d2acf/kummee-qarcoo-3n9i)
+- [How a newsletter system can save you time](https://dev.to/disane/how-a-newsletter-system-can-save-you-time-4bam)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
