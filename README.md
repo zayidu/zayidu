@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Django Basics: A Comprehensive Guide](https://dev.to/kihuni/django-basics-a-comprehensive-guide-4dhl)
-- [SOLID PRIINCIPLES](https://dev.to/dev_eze/solid-priinciples-g5c)
-- [More accessible line graphs](https://dev.to/emmadawsondev/more-accessible-line-graphs-3dli)
-- [KUMMEE QARCOO](https://dev.to/jonse_ketela_b13c463d2acf/kummee-qarcoo-3n9i)
-- [How a newsletter system can save you time](https://dev.to/disane/how-a-newsletter-system-can-save-you-time-4bam)
+- [The Body Shop of Security: Biometrics](https://dev.to/swayam_248/the-body-shop-of-security-biometrics-2hba)
+- [Real Graceful Shutdown in Kubernetes and ASP.NET Core](https://dev.to/arminshoeibi/real-graceful-shutdown-in-kubernetes-and-aspnet-core-2290)
+- [What is recursion?](https://dev.to/gift_mugweni_1c055b418706/what-is-recursion-1o34)
+- [Focus](https://dev.to/mlr/focus-421d)
+- [WebGPU Basics: How to Create a Triangle](https://dev.to/gift_mugweni_1c055b418706/webgpu-basics-how-to-create-a-triangle-447m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
