@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Database Offerings](https://dev.to/vidhey071/aws-database-offerings-5f25)
-- [AWS Certified Solutions Architect - Professional](https://dev.to/vidhey071/aws-certified-solutions-architect-professional-2p27)
-- [Simplifying Persistent Storage in Kubernetes: A Deep Dive into PVs, PVCs, and SCs](https://dev.to/piyushbagani15/simplifying-persistent-storage-in-kubernetes-a-deep-dive-into-pvs-pvcs-and-scs-1p3c)
-- [AWS Security, Identity and Compliance](https://dev.to/vidhey071/aws-security-identity-and-compliance-2121)
-- [Database Migration](https://dev.to/vidhey071/database-migration-33ej)
+- [JpaRepository ve JpaSpecificationExecutor](https://dev.to/mustafacam/jparepository-ve-jpaspecificationexecutor-3nch)
+- [Differences of JPG and GIF](https://dev.to/msmith99994/differences-of-jpg-and-gif-4mo6)
+- [Optimizing Development: Insights into Effective System Design](https://dev.to/a_shokn/optimizing-development-insights-into-effective-system-design-5fc4)
+- [GalaxyBot: A Cosmic WhatsApp Chatbot with Laravel, Twilio, and Cloudflare AI](https://dev.to/snehalkadwe/galaxybot-a-cosmic-whatsapp-chatbot-with-laravel-twilio-and-cloudflare-ai-3oho)
+- [Amazon Direct Connect](https://dev.to/vidhey071/amazon-direct-connect-3lh5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
