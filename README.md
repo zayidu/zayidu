@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Certifications](https://dev.to/bvidhey/aws-certifications-5ejc)
-- [O que é Blochchain e como a tecnologia funciona?](https://dev.to/starch1/o-que-e-blochchain-e-como-a-tecnologia-funciona-24b0)
-- [Excited to Join and Learn: My Journey in Tech](https://dev.to/ruturajj/excited-to-join-and-learn-my-journey-in-tech-59b9)
-- [javascript exeuction context](https://dev.to/mhmd-salah/javascript-exeuction-context-12le)
-- [Enable Touch ID Authentication for sudo on macOS Sonoma 14.x](https://dev.to/siddhantkcode/enable-touch-id-authentication-for-sudo-on-macos-sonoma-14x-4d28)
+- [Computer Programming: What is Looping?](https://dev.to/codesmith/computer-programming-what-is-looping-4oda)
+- [The Concept of Looping in Computer Programming](https://dev.to/codesmith/the-concept-of-looping-in-computer-programming-27ic)
+- [Elanat CMS 2.2 Released - Under .NET Core](https://dev.to/elanatframework/elanat-cms-22-released-under-net-core-5fmm)
+- [Entity Framework e SQL Server](https://dev.to/ebagabe/entity-framework-e-sql-server-4eif)
+- [The Power of Schema Markup: Enhancing SEO and Visibility](https://dev.to/gohil1401/the-power-of-schema-markup-enhancing-seo-and-visibility-2p9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
