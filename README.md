@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive on AWS Clean Rooms with Integration to AWS Glue](https://dev.to/aws-builders/deep-dive-on-aws-clean-rooms-with-integration-to-aws-glue-3dbf)
-- [5 Reasons Why You Are Losing Hackathons](https://dev.to/code42cate/5-reasons-why-you-are-losing-hackathons-4k70)
-- [Resolving Log Permission Issues in Laravel](https://dev.to/fernandomullerjr/resolving-log-permission-issues-in-laravel-2mko)
-- [Delete Documents, Drop Collection in MongoDB](https://dev.to/kawsarkabir/delete-documents-drop-collection-in-mongodb-4i09)
-- [Count Number of Nice Subarrays](https://dev.to/zeeshanali0704/count-number-of-nice-subarrays-3id2)
+- [Mastering Clean Code: Essential Practices Every Developer Should Know](https://dev.to/delia_code/mastering-clean-code-essential-practices-every-developer-should-know-5a93)
+- [Implementing Caching Strategies: Techniques for High-Performance Web Apps](https://dev.to/nayanraj-adhikary/implementing-caching-strategies-techniques-for-high-performance-web-apps-3dm7)
+- [docker config auths reverse engineering](https://dev.to/malikbenkirane/docker-config-auths-reverse-engineering-b02)
+- [Exclusive Free eBook: Mastering Solidity and Ethereum Development](https://dev.to/superxdev/exclusive-free-ebook-master-solidity-and-ethereum-development-2ajo)
+- [Reusable React Hook Form](https://dev.to/nisharga_kabir/reusable-react-hook-form-dmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
