@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Clean Code: Essential Practices Every Developer Should Know](https://dev.to/delia_code/mastering-clean-code-essential-practices-every-developer-should-know-5a93)
-- [Implementing Caching Strategies: Techniques for High-Performance Web Apps](https://dev.to/nayanraj-adhikary/implementing-caching-strategies-techniques-for-high-performance-web-apps-3dm7)
-- [docker config auths reverse engineering](https://dev.to/malikbenkirane/docker-config-auths-reverse-engineering-b02)
-- [Exclusive Free eBook: Mastering Solidity and Ethereum Development](https://dev.to/superxdev/exclusive-free-ebook-master-solidity-and-ethereum-development-2ajo)
-- [Reusable React Hook Form](https://dev.to/nisharga_kabir/reusable-react-hook-form-dmb)
+- [Unleashing the Power of CDK and Terraform in Cloud Deployments](https://dev.to/aws-builders/unleashing-the-power-of-cdk-and-terraform-in-cloud-deployments-5680)
+- [Purple Team Assessment](https://dev.to/certcube/purple-team-assessment-2ma5)
+- [What is Tailwind CSS? Modern Web Designing](https://dev.to/pererayesh17/what-is-tailwind-css-modern-web-designing-2kge)
+- [Serverless Saga: Building Scalable Apps in the Cloud Kingdom](https://dev.to/victoramit/serverless-saga-building-scalable-apps-in-the-cloud-kingdom-21k3)
+- [10 Modern JavaScript Features You Should Be Using Today](https://dev.to/delia_code/10-modern-javascript-features-you-should-be-using-today-4aem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
