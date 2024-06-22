@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [High-speed, adaptive streaming video player for web](https://dev.to/ahmetilhn/high-speed-adaptive-streaming-video-player-for-web-2ld2)
-- [WordPress PHP Unit Testing | Step-by-Step Guide | 2024](https://dev.to/adeleyeayodeji/wordpress-php-unit-testing-step-by-step-guide-2024-1a1l)
-- [A Short Intro to Prompt Engineering And Generative AI](https://dev.to/paraspanchal/a-short-intro-to-prompt-engineering-and-generative-ai-1gnk)
-- [A Short Intro to Prompt Engineering And Generative AI](https://dev.to/paraspanchal/a-short-intro-to-prompt-engineering-and-generative-ai-2n8b)
-- [A Short Intro to Prompt Engineering And Generative AI](https://dev.to/paraspanchal/a-short-intro-to-prompt-engineering-and-generative-ai-2gi1)
+- [Letz Understand NPM Versioning: A Beginner&#39;s Guide](https://dev.to/darshanraval/letz-understand-npm-versioning-a-beginners-guide-58pf)
+- [Pro Tips: Dos and Don&#39;ts for Efficient Coding](https://dev.to/dipakahirav/pro-tips-dos-and-donts-for-efficient-coding-425p)
+- [Completed MySQL and Database Design Course](https://dev.to/csathishkumar/completed-mysql-and-database-design-course-59a1)
+- [How to authorize user to view only their own created notes?](https://dev.to/ghulam_mujtaba_247/how-to-authorize-user-to-view-only-their-own-created-notes-5h49)
+- [7 Use Cases for Javascript Proxies 🧙](https://dev.to/mattlewandowski93/7-use-cases-for-javascript-proxies-3b29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
