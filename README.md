@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Brief Evolution of Data Management: From Business Intelligence to Artificial Intelligence](https://dev.to/jestevesv/the-evolution-of-data-management-from-business-intelligence-to-artificial-intelligence-6l7)
+- [Setup a Next.JS project for production-ready](https://dev.to/es_pythonus/setup-a-nextjs-project-for-production-ready-2nho)
+- [Generating training data with OpenAI function calling](https://dev.to/maurerkrisztian/generating-training-data-with-openai-function-calling-2c7l)
+- [A Brief Evolution of Data Management: From Business Intelligence to Artificial Intelligence](https://dev.to/jestevesv/a-brief-evolution-of-data-management-from-business-intelligence-to-artificial-intelligence-1d71)
 - [How to get test net coins](https://dev.to/uthmancpder/how-to-get-test-net-coins-2d6a)
 - [Exploring Option Constructors in Effect-TS](https://dev.to/almaclaine/exploring-option-constructors-in-effect-ts-4ka0)
-- [AI-powered market analysis for currency pairs with Hono.js, Cloudflare Workers and Twilio](https://dev.to/desmondsanctity/ai-powered-market-analysis-for-currency-pairs-with-honojs-cloudflare-workers-and-twilio-5edo)
-- [3 Tips to make your Repositories Stand out](https://dev.to/nhelchitnis/3-tips-to-make-your-repositories-stand-out-449e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
