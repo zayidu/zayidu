@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer science](https://dev.to/wafaberr/computer-science-1eaa)
-- [Ondoarding new developers](https://dev.to/jwtiller_c47bdfa134adf302/ondoarding-new-developers-kmf)
-- [Mastering Debouncing in JavaScript: Improve Performance with Ease](https://dev.to/habib_nuhu_0140c764f0141d/mastering-debouncing-in-javascript-improve-performance-with-ease-1n4p)
-- [AI assistant/chatbot for use/support](https://dev.to/tophepzz1/ai-assistantchatbot-for-usesupport-jei)
-- [Importance of Soft Skills for Job Interviews](https://dev.to/m_midas/the-importance-of-soft-skills-5)
+- [Wie man Wordpress lokal mit docker compose aufsetzt](https://dev.to/rubenvoss/wie-man-wordpress-lokal-mit-docker-compose-aufsetzt-3m33)
+- [WordPress Classic vs. Block Themes](https://dev.to/mikevarenek/wordpress-classic-vs-block-themes-4pi1)
+- [My 2024 Software Development Goals Update](https://dev.to/evansifyke/my-2024-software-development-goals-update-49o2)
+- [Introducing the Schengen Area Calculator: Plan Your European Travels Seamlessly](https://dev.to/dany_trakhtenberg_11a414b/introducing-the-schengen-area-calculator-plan-your-european-travels-seamlessly-398k)
+- [How to Write Tests](https://dev.to/labex/how-to-write-tests-1f1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
