@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MY NEW PROJECT IS NOW ON GITHUB : NOSHII](https://dev.to/1hamzabek/my-new-project-is-now-on-github-noshii-38kk)
-- [React Supabase Auth Template &lpar;With Protected Routes&rpar;](https://dev.to/mmvergara/react-supabase-auth-template-with-protected-routes-41ib)
-- [Helpline Triager: Your buddy during distress](https://dev.to/thepurpleowl/helpline-triager-your-buddy-during-distress-1d7l)
-- [🎉 Building Interactive Web Applications with Vanilla JavaScript](https://dev.to/parthchovatiya/building-interactive-web-applications-with-vanilla-javascript-42m2)
-- [tile&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/tile-in-pytorch-3dna)
+- [Exploring CRUD: What It Is and How It Works](https://dev.to/dk119819/exploring-crud-what-it-is-and-how-it-works-4nnk)
+- [repeat_interleave&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/repeatinterleave-in-pytorch-201n)
+- [Bytes: The Meal That Makes Your Computer Feast Like Crazy](https://dev.to/cbid2/bytes-the-meal-that-makes-your-computer-feast-like-crazy-5bgc)
+- [在Web工程中使用CSS级联层](https://dev.to/tm-sunnyday/zai-webgong-cheng-zhong-shi-yong-cssji-lian-ceng-322b)
+- [Utilize React Native&#39;s Headless JS for developing advanced features! 🚀](https://dev.to/manjotdhiman/utilize-react-natives-headless-js-for-developing-advanced-features-2ekb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
