@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is It Spam?](https://dev.to/briandoesdev/is-it-spam-2ink)
-- [Creating and Connecting to a Linux VM using a Public Key](https://dev.to/tojumercy1/creating-and-connecting-to-a-linux-vm-using-a-public-key-3b1)
-- [Guia Completo para Navegação no React Native com TypeScript](https://dev.to/leeodev/guia-completo-para-navegacao-no-react-native-com-typescript-45mf)
-- [I built my first SaaS - NotiFast](https://dev.to/jjablonskiit/i-built-my-first-saas-notifast-47do)
-- [Javascript](https://dev.to/bekmuhammaddev/javascript-4na1)
+- [One Byte Explainer: the Halting Problem](https://dev.to/dchaley/one-byte-explainer-the-halting-problem-p18)
+- [Vs code extension that are a must use ⭐](https://dev.to/mince/vs-code-extension-that-are-a-must-use-1d7)
+- [Comparing JavaScript and TypeScript: Key Differences and Features](https://dev.to/vyan/comparing-javascript-and-typescript-key-differences-and-features-1fm7)
+- [A tool that combines force-directed graphs and flow charts](https://dev.to/fridaymeng/a-tool-that-combines-force-directed-graphs-and-flow-charts-3okn)
+- [How to Contribute to Laravel: A Step-by-Step Guide](https://dev.to/msamgan/how-to-contribute-to-laravel-a-step-by-step-guide-560k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
