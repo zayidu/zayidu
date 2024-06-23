@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Scalar and Vector in Front-End Web Development with React](https://dev.to/godblessed/understanding-scalar-and-vector-in-front-end-web-development-with-react-igc)
-- [DAY 1 PROJECT](https://dev.to/shrishti_srivastava_/day-1-project-2hg9)
-- [Understanding Deadlock: When Computers Play Musical Chairs](https://dev.to/vidyarathna/understanding-deadlock-when-computers-play-musical-chairs-28c)
-- [GCP for beginners 2024: Build a simple web app with Cloud Run and Cloud Build through terminal](https://dev.to/robertasaservice/gcp-for-beginners-2024-build-a-simple-web-app-with-cloud-run-and-cloud-build-through-terminal-2kop)
-- [The Art of Falling](https://dev.to/tacodes/the-art-of-falling-2aoa)
+- [To build Twilio AI Assistants](https://dev.to/olatunjiayodel9/to-build-twilio-ai-assistants-hhp)
+- [How to Integrate Embedded MongoDB for Unit Testing in a Spring Application](https://dev.to/fullstackjava/how-to-integrate-embedded-mongodb-for-unit-testing-in-a-spring-application-49pi)
+- [The new and shiny](https://dev.to/armen138/the-new-and-shiny-4eil)
+- [🚀 Exploring Predictive Analysis of Breast Tumor Diagnosis with Streamlit and SVM! 🚀](https://dev.to/amna200123/exploring-predictive-analysis-of-breast-tumor-diagnosis-with-streamlit-and-svm-dh3)
+- [Pitch-Tonic](https://dev.to/tonic/pitch-tonic-500a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
