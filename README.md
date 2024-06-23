@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setup a Next.JS project for production-ready](https://dev.to/es_pythonus/setup-a-nextjs-project-for-production-ready-2nho)
-- [Generating training data with OpenAI function calling](https://dev.to/maurerkrisztian/generating-training-data-with-openai-function-calling-2c7l)
-- [A Brief Evolution of Data Management: From Business Intelligence to Artificial Intelligence](https://dev.to/jestevesv/a-brief-evolution-of-data-management-from-business-intelligence-to-artificial-intelligence-1d71)
-- [How to get test net coins](https://dev.to/uthmancpder/how-to-get-test-net-coins-2d6a)
-- [Exploring Option Constructors in Effect-TS](https://dev.to/almaclaine/exploring-option-constructors-in-effect-ts-4ka0)
+- [Building a Cryptocurrency Trading Bot with Python](https://dev.to/kartikmehta8/building-a-cryptocurrency-trading-bot-with-python-1n8b)
+- [We all operate at four altitudes…](https://dev.to/horaceshmorace/we-all-operate-at-four-altitudes-5e1n)
+- [How to Deploy Applications Using Tomcat on a Web Server](https://dev.to/iaadidev/how-to-deploy-applications-using-tomcat-on-a-web-server-2d5n)
+- [Modular Next.js Folder Strategy](https://dev.to/trisogene/modular-nextjs-folder-strategy-5dhe)
+- [Deploy laravel project on vercel](https://dev.to/prof_cisco_2a53d5af352521/deploy-laravel-project-on-vercel-195)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
