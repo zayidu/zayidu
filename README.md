@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Idempotency in 256 characters or less](https://dev.to/derlin/idempotency-in-256-characters-or-less-118c)
-- [Leveraging GitHub Copilot Chat syntax: chat participants, chat variables, slash commands](https://dev.to/webmaxru/leveraging-github-copilot-chat-syntax-chat-participants-chat-variables-slash-commands-34c9)
-- [What is Docker | Visual thinking |2024](https://dev.to/rahulcolud2023/what-is-docker-visual-thinking-2024-4e62)
-- [Concurrency and Parallelism](https://dev.to/mr_destructive/concurrency-and-parallelism-37hl)
-- [AWS: Karpenter and SSH for Kubernetes WorkerNodes](https://dev.to/aws-builders/aws-karpenter-and-ssh-for-kubernetes-workernodes-16km)
+- [Leetcode - Next Greater Element II](https://dev.to/rakeshreddy512/leetcode-next-greater-element-ii-6g)
+- [Stylish Accordion Animation](https://dev.to/alcu1n/stylish-accordion-animation-233f)
+- [How to fix migration was modified after it was applied in prisma ?](https://dev.to/uttammarandi/how-to-fix-the-migration-was-modified-after-it-was-applied-in-prisma--14h7)
+- [Concept of computer science](https://dev.to/milesonerd/concept-of-computer-science-4g31)
+- [Weaving Your Enterprise Together: Implementing Integration Patterns with AWS Messaging Services](https://dev.to/virajlakshitha/weaving-your-enterprise-together-implementing-integration-patterns-with-aws-messaging-services-14o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
