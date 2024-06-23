@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode - Next Greater Element II](https://dev.to/rakeshreddy512/leetcode-next-greater-element-ii-6g)
-- [Stylish Accordion Animation](https://dev.to/alcu1n/stylish-accordion-animation-233f)
-- [How to fix migration was modified after it was applied in prisma ?](https://dev.to/uttammarandi/how-to-fix-the-migration-was-modified-after-it-was-applied-in-prisma--14h7)
-- [Concept of computer science](https://dev.to/milesonerd/concept-of-computer-science-4g31)
-- [Weaving Your Enterprise Together: Implementing Integration Patterns with AWS Messaging Services](https://dev.to/virajlakshitha/weaving-your-enterprise-together-implementing-integration-patterns-with-aws-messaging-services-14o6)
+- [Understanding Scalar and Vector in Front-End Web Development with React](https://dev.to/godblessed/understanding-scalar-and-vector-in-front-end-web-development-with-react-igc)
+- [DAY 1 PROJECT](https://dev.to/shrishti_srivastava_/day-1-project-2hg9)
+- [Understanding Deadlock: When Computers Play Musical Chairs](https://dev.to/vidyarathna/understanding-deadlock-when-computers-play-musical-chairs-28c)
+- [GCP for beginners 2024: Build a simple web app with Cloud Run and Cloud Build through terminal](https://dev.to/robertasaservice/gcp-for-beginners-2024-build-a-simple-web-app-with-cloud-run-and-cloud-build-through-terminal-2kop)
+- [The Art of Falling](https://dev.to/tacodes/the-art-of-falling-2aoa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
