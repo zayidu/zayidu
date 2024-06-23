@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Cryptocurrency Trading Bot with Python](https://dev.to/kartikmehta8/building-a-cryptocurrency-trading-bot-with-python-1n8b)
-- [We all operate at four altitudes…](https://dev.to/horaceshmorace/we-all-operate-at-four-altitudes-5e1n)
-- [How to Deploy Applications Using Tomcat on a Web Server](https://dev.to/iaadidev/how-to-deploy-applications-using-tomcat-on-a-web-server-2d5n)
-- [Modular Next.js Folder Strategy](https://dev.to/trisogene/modular-nextjs-folder-strategy-5dhe)
-- [Deploy laravel project on vercel](https://dev.to/prof_cisco_2a53d5af352521/deploy-laravel-project-on-vercel-195)
+- [Is It Spam?](https://dev.to/briandoesdev/is-it-spam-2ink)
+- [Creating and Connecting to a Linux VM using a Public Key](https://dev.to/tojumercy1/creating-and-connecting-to-a-linux-vm-using-a-public-key-3b1)
+- [Guia Completo para Navegação no React Native com TypeScript](https://dev.to/leeodev/guia-completo-para-navegacao-no-react-native-com-typescript-45mf)
+- [I built my first SaaS - NotiFast](https://dev.to/jjablonskiit/i-built-my-first-saas-notifast-47do)
+- [Javascript](https://dev.to/bekmuhammaddev/javascript-4na1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
