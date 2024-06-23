@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [O básico de mirror do Istio](https://dev.to/wandpsilva/o-basico-de-mirror-do-istio-4k5)
-- [Lists and tuples in Elixir](https://dev.to/rhaenyraliang/lists-and-tuples-in-elixir-2lme)
-- [Get started with Fullstack Development: React + SpringBoot + MySQL + Postman](https://dev.to/kajal_mapare24/get-started-with-fullstack-development-react-springboot-mysql-postman-5997)
-- [When You Need More Power Than a Lambda Provides](https://dev.to/johnjvester/when-you-need-more-power-than-a-lambda-provides-3061)
-- [Converting px in SCSS](https://dev.to/nicm42/converting-px-in-scss-3f0)
+- [The Book That Can Save You from Failing the AWS Certified Cloud Practitioner Exam — CLF-C02](https://dev.to/mannan/the-book-that-can-save-you-from-failing-the-aws-certified-cloud-practitioner-exam-clf-c02-kme)
+- [Variables](https://dev.to/vlad__siomga11/variables-l0m)
+- [Quickly Set Up a Local Web Server on Mac with ServBay](https://dev.to/servbay/quickly-set-up-a-local-web-server-on-mac-with-servbay-4mml)
+- [Speaking Goat Latin on the fastest bus to town](https://dev.to/simongreennet/speaking-goat-latin-on-the-fastest-bus-to-town-59b2)
+- [How I published my first app to Apple Store #2](https://dev.to/uladzmi/how-i-published-my-first-app-to-apple-store-2-4g34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
