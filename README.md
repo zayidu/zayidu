@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nike Website](https://dev.to/sudhanshuambastha/nike-website-54gn)
-- [Firebase hosting issue on Flutter Web](https://dev.to/pagebook1/firebase-hosting-issue-on-flutter-web-2c8n)
-- [Thread fundamentals in Java](https://dev.to/rafaaraujoo/thread-fundamentals-in-java-43h1)
-- [Make your own Arc at home](https://dev.to/qostya/make-your-own-arc-at-home-4cn7)
-- [Advanced MongoDB Lookup: Complex MongoDB lookup Queries with Multiple Conditions](https://dev.to/codegirl0101/advanced-mongodb-lookup-complex-mongodb-lookup-queries-with-multiple-conditions-18jf)
+- [What is Google OAuth 2.0 ?](https://dev.to/yaswanth_bonumaddi/understanding-google-oauth-20-57fn)
+- [Difference Between Branches](https://dev.to/labex/difference-between-branches-1cg2)
+- [Golang Web: POST Method](https://dev.to/mr_destructive/golang-web-post-method-34ab)
+- [useEffect, useRef and useCallback with 1 project](https://dev.to/geetika_bajpai_a654bfd1e0/useeffect-useref-and-usecallback-with-1-project-f7e)
+- [Beginner&#39;s Guide to Setting Up a Django Project](https://dev.to/rupesh_mishra/beginners-guide-to-setting-up-a-django-project-ep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
