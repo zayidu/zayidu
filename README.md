@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Structured Approach to Designing an Airline Management System](https://dev.to/muhammad_salem/structured-approach-to-designing-an-airline-management-system-47if)
-- [Deploying an Application Using Apache as a Web Server](https://dev.to/iaadidev/deploying-an-application-using-apache-as-a-web-server-1f9j)
-- [I utilized Twilio’s powerful SMS and Voice APIs to build the reminder system:](https://dev.to/aditya_kushwaha_0a7aa61d6/i-utilized-twilios-powerful-sms-and-voice-apis-to-build-the-reminder-system-2bcc)
-- [Event Booking System with Twilio and OpenAi](https://dev.to/toubielawbar/event-booking-system-with-twilio-and-openai-15m3)
-- [AWS Summit TokyoのAWS Jamに参加しました](https://dev.to/regent0ro/aws-summit-tokyonoaws-jamnican-jia-simasita-50n7)
+- [Computer science](https://dev.to/wafaberr/computer-science-1eaa)
+- [Ondoarding new developers](https://dev.to/jwtiller_c47bdfa134adf302/ondoarding-new-developers-kmf)
+- [Mastering Debouncing in JavaScript: Improve Performance with Ease](https://dev.to/habib_nuhu_0140c764f0141d/mastering-debouncing-in-javascript-improve-performance-with-ease-1n4p)
+- [AI assistant/chatbot for use/support](https://dev.to/tophepzz1/ai-assistantchatbot-for-usesupport-jei)
+- [Importance of Soft Skills for Job Interviews](https://dev.to/m_midas/the-importance-of-soft-skills-5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
