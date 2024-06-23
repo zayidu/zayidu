@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Api-platform : filtrer les résultats uniquement sur l&#39;utilisateur connecté](https://dev.to/aratinau/api-platform-filtrer-les-resultats-uniquement-sur-lutilisateur-connecte-1fp6)
-- [HTML input attributes with examples](https://dev.to/wasifali/html-input-attributes-with-examples-48jn)
-- [Types of Machine Learning: Supervised, Unsupervised, and Reinforcement](https://dev.to/gigarazkiarianda/types-of-machine-learning-supervised-unsupervised-and-reinforcement-4ipm)
-- [Unlocking the Power of NoSQL in the Cloud: Breaking Free from Relational Constraints](https://dev.to/queryhub/unlocking-the-power-of-nosql-in-the-cloud-breaking-free-from-relational-constraints-3fdj)
-- [React Project Outgrowing Expectations? Learn These Basic Principles to Manage Better](https://dev.to/lovestaco/react-project-outgrowing-expectations-learn-these-basic-principles-to-manage-better-9bn)
+- [Nike Website](https://dev.to/sudhanshuambastha/nike-website-54gn)
+- [Firebase hosting issue on Flutter Web](https://dev.to/pagebook1/firebase-hosting-issue-on-flutter-web-2c8n)
+- [Thread fundamentals in Java](https://dev.to/rafaaraujoo/thread-fundamentals-in-java-43h1)
+- [Make your own Arc at home](https://dev.to/qostya/make-your-own-arc-at-home-4cn7)
+- [Advanced MongoDB Lookup: Complex MongoDB lookup Queries with Multiple Conditions](https://dev.to/codegirl0101/advanced-mongodb-lookup-complex-mongodb-lookup-queries-with-multiple-conditions-18jf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
