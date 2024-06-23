@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Retro on &quot;Docker Compose for Developers&quot;](https://dev.to/agagag/retro-on-docker-compose-for-developers-28mn)
-- [Featherless - running any llama model serverless](https://dev.to/shiling/featherless-running-any-llama-model-serverless-4jcn)
-- [Bitcoin OP_CAT Use Cases Series #2: Merkle Trees](https://dev.to/scrypt/bitcoin-opcat-use-cases-series-2-merkle-trees-447c)
-- [My Journey in Authorization with OPAL](https://dev.to/chiragagg5k/my-journey-in-authorization-with-opal-1072)
-- [How to create a progress-bar with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-progress-bar-with-tailwind-css-and-javascript-27fe)
+- [4 Ideas to Create Organic Growth for a Web App](https://dev.to/alvinscherdin/4-ideas-to-create-organic-growth-for-a-web-app-j9m)
+- [Install local environment - CachyOS](https://dev.to/sebiboga/install-local-environment-cachyos-3953)
+- [Simple YAML Linter/Validator Workflow for GitHub Actions](https://dev.to/codewithcaen/simple-yaml-lintervalidator-workflow-for-github-actions-4ipg)
+- [React App Inbox with 0 Notification Costs.](https://dev.to/suprsend/react-app-inbox-with-0-notification-costs-jik)
+- [Bash Scripting Fundamentals](https://dev.to/zeshancodes/bash-scripting-fundamentals-5a0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
