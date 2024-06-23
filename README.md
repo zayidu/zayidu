@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Book That Can Save You from Failing the AWS Certified Cloud Practitioner Exam — CLF-C02](https://dev.to/mannan/the-book-that-can-save-you-from-failing-the-aws-certified-cloud-practitioner-exam-clf-c02-kme)
-- [Variables](https://dev.to/vlad__siomga11/variables-l0m)
-- [Quickly Set Up a Local Web Server on Mac with ServBay](https://dev.to/servbay/quickly-set-up-a-local-web-server-on-mac-with-servbay-4mml)
-- [Speaking Goat Latin on the fastest bus to town](https://dev.to/simongreennet/speaking-goat-latin-on-the-fastest-bus-to-town-59b2)
-- [How I published my first app to Apple Store #2](https://dev.to/uladzmi/how-i-published-my-first-app-to-apple-store-2-4g34)
+- [Idempotency in 256 characters or less](https://dev.to/derlin/idempotency-in-256-characters-or-less-118c)
+- [Leveraging GitHub Copilot Chat syntax: chat participants, chat variables, slash commands](https://dev.to/webmaxru/leveraging-github-copilot-chat-syntax-chat-participants-chat-variables-slash-commands-34c9)
+- [What is Docker | Visual thinking |2024](https://dev.to/rahulcolud2023/what-is-docker-visual-thinking-2024-4e62)
+- [Concurrency and Parallelism](https://dev.to/mr_destructive/concurrency-and-parallelism-37hl)
+- [AWS: Karpenter and SSH for Kubernetes WorkerNodes](https://dev.to/aws-builders/aws-karpenter-and-ssh-for-kubernetes-workernodes-16km)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
