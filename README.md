@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One Byte Explainer: the Halting Problem](https://dev.to/dchaley/one-byte-explainer-the-halting-problem-p18)
-- [Vs code extension that are a must use ⭐](https://dev.to/mince/vs-code-extension-that-are-a-must-use-1d7)
-- [Comparing JavaScript and TypeScript: Key Differences and Features](https://dev.to/vyan/comparing-javascript-and-typescript-key-differences-and-features-1fm7)
-- [A tool that combines force-directed graphs and flow charts](https://dev.to/fridaymeng/a-tool-that-combines-force-directed-graphs-and-flow-charts-3okn)
-- [How to Contribute to Laravel: A Step-by-Step Guide](https://dev.to/msamgan/how-to-contribute-to-laravel-a-step-by-step-guide-560k)
+- [MY NEW PROJECT IS NOW ON GITHUB : NOSHII](https://dev.to/1hamzabek/my-new-project-is-now-on-github-noshii-38kk)
+- [React Supabase Auth Template &lpar;With Protected Routes&rpar;](https://dev.to/mmvergara/react-supabase-auth-template-with-protected-routes-41ib)
+- [Helpline Triager: Your buddy during distress](https://dev.to/thepurpleowl/helpline-triager-your-buddy-during-distress-1d7l)
+- [🎉 Building Interactive Web Applications with Vanilla JavaScript](https://dev.to/parthchovatiya/building-interactive-web-applications-with-vanilla-javascript-42m2)
+- [tile&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/tile-in-pytorch-3dna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
