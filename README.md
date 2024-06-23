@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Config-Driven UI: A Beginner&#39;s Guide to Flexible and Scalable Interfaces](https://dev.to/lovishduggal/mastering-config-driven-ui-a-beginners-guide-to-flexible-and-scalable-interfaces-3l91)
-- [Exploring CRUD: What It Is and How It Works](https://dev.to/dk119819/exploring-crud-what-it-is-and-how-it-works-4nnk)
-- [repeat_interleave&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/repeatinterleave-in-pytorch-201n)
-- [Bytes: The Meal That Makes Your Computer Feast Like Crazy](https://dev.to/cbid2/bytes-the-meal-that-makes-your-computer-feast-like-crazy-5bgc)
-- [在Web工程中使用CSS级联层](https://dev.to/tm-sunnyday/zai-webgong-cheng-zhong-shi-yong-cssji-lian-ceng-322b)
+- [What is Threads and its use in Node.js](https://dev.to/m__mdy__m/what-is-threads-and-its-use-in-nodejs-3j8p)
+- [A Comprehensive Guide to Using Arrays in JavaScript](https://dev.to/fridaymeng/a-comprehensive-guide-to-using-arrays-in-javascript-2i88)
+- [BEST CSS🧡GUIDELINES BY Aryan🤣](https://dev.to/aryan015/best-cssguidelines-by-aryan-5cie)
+- [Debounce Method for Searching](https://dev.to/nisharga_kabir/debounce-method-for-searching-25nc)
+- [5 log parsing commands](https://dev.to/cuongnp/5-log-parsing-commands-3oc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
