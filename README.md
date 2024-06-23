@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Google OAuth 2.0 ?](https://dev.to/yaswanth_bonumaddi/understanding-google-oauth-20-57fn)
-- [Difference Between Branches](https://dev.to/labex/difference-between-branches-1cg2)
-- [Golang Web: POST Method](https://dev.to/mr_destructive/golang-web-post-method-34ab)
-- [useEffect, useRef and useCallback with 1 project](https://dev.to/geetika_bajpai_a654bfd1e0/useeffect-useref-and-usecallback-with-1-project-f7e)
-- [Beginner&#39;s Guide to Setting Up a Django Project](https://dev.to/rupesh_mishra/beginners-guide-to-setting-up-a-django-project-ep)
+- [O básico de mirror do Istio](https://dev.to/wandpsilva/o-basico-de-mirror-do-istio-4k5)
+- [Lists and tuples in Elixir](https://dev.to/rhaenyraliang/lists-and-tuples-in-elixir-2lme)
+- [Get started with Fullstack Development: React + SpringBoot + MySQL + Postman](https://dev.to/kajal_mapare24/get-started-with-fullstack-development-react-springboot-mysql-postman-5997)
+- [When You Need More Power Than a Lambda Provides](https://dev.to/johnjvester/when-you-need-more-power-than-a-lambda-provides-3061)
+- [Converting px in SCSS](https://dev.to/nicm42/converting-px-in-scss-3f0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
