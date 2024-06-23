@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [To build Twilio AI Assistants](https://dev.to/olatunjiayodel9/to-build-twilio-ai-assistants-hhp)
-- [How to Integrate Embedded MongoDB for Unit Testing in a Spring Application](https://dev.to/fullstackjava/how-to-integrate-embedded-mongodb-for-unit-testing-in-a-spring-application-49pi)
-- [The new and shiny](https://dev.to/armen138/the-new-and-shiny-4eil)
-- [🚀 Exploring Predictive Analysis of Breast Tumor Diagnosis with Streamlit and SVM! 🚀](https://dev.to/amna200123/exploring-predictive-analysis-of-breast-tumor-diagnosis-with-streamlit-and-svm-dh3)
-- [Pitch-Tonic](https://dev.to/tonic/pitch-tonic-500a)
+- [Structured Approach to Designing an Airline Management System](https://dev.to/muhammad_salem/structured-approach-to-designing-an-airline-management-system-47if)
+- [Deploying an Application Using Apache as a Web Server](https://dev.to/iaadidev/deploying-an-application-using-apache-as-a-web-server-1f9j)
+- [I utilized Twilio’s powerful SMS and Voice APIs to build the reminder system:](https://dev.to/aditya_kushwaha_0a7aa61d6/i-utilized-twilios-powerful-sms-and-voice-apis-to-build-the-reminder-system-2bcc)
+- [Event Booking System with Twilio and OpenAi](https://dev.to/toubielawbar/event-booking-system-with-twilio-and-openai-15m3)
+- [AWS Summit TokyoのAWS Jamに参加しました](https://dev.to/regent0ro/aws-summit-tokyonoaws-jamnican-jia-simasita-50n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
