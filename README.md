@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wie man Wordpress lokal mit docker compose aufsetzt](https://dev.to/rubenvoss/wie-man-wordpress-lokal-mit-docker-compose-aufsetzt-3m33)
-- [WordPress Classic vs. Block Themes](https://dev.to/mikevarenek/wordpress-classic-vs-block-themes-4pi1)
-- [My 2024 Software Development Goals Update](https://dev.to/evansifyke/my-2024-software-development-goals-update-49o2)
-- [Introducing the Schengen Area Calculator: Plan Your European Travels Seamlessly](https://dev.to/dany_trakhtenberg_11a414b/introducing-the-schengen-area-calculator-plan-your-european-travels-seamlessly-398k)
-- [How to Write Tests](https://dev.to/labex/how-to-write-tests-1f1k)
+- [Dev: Web](https://dev.to/r4nd3l/dev-web-4f7k)
+- [Bizzen: Business, Made Zen](https://dev.to/jhhayashi/bizzen-business-made-zen-155b)
+- [Generative AI Assistant for Loyalty Reward System Using Amazon Bedrock Knowledge bases &amp; Agent](https://dev.to/girishmukim/generative-ai-assistant-for-loyalty-reward-system-using-amazon-bedrock-knowledge-bases-agent-1670)
+- [How to create LazyColumn with drag and drop elements in Jetpack Compose. Part 1.](https://dev.to/mardsoul/how-to-create-lazycolumn-with-drag-and-drop-elements-in-jetpack-compose-part-1-4bn5)
+- [How to Create a Dark Mode in Figma and Not Die Trying](https://dev.to/amanda_montero/how-to-create-a-dark-mode-in-figma-and-not-die-trying-20pm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
