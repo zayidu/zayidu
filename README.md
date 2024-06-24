@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Authentication in Modern Next.js Apps](https://dev.to/vyan/mastering-authentication-in-modern-nextjs-apps-32eh)
-- [Crafting a social connector for Logto](https://dev.to/logto/crafting-a-social-connector-for-logto-5c2k)
-- [Garzón - Your Daily Dose of Organization and Inspiration!](https://dev.to/asyncerror/garzon-your-daily-dose-of-organization-and-inspiration-lkc)
-- [AI Podcasts powered by Project X 🎼](https://dev.to/nishithp2004/ai-podcasts-powered-by-project-x-10kk)
-- [How to Optimize SEO for a Low-Visibility Website](https://dev.to/juddiy/how-to-optimize-seo-for-a-low-visibility-website-2j4)
+- [Computer Science Challenge - Structure Padding](https://dev.to/harshitads44217/computer-science-challenge-structure-padding-37ie)
+- [How to Build a Travel Agent with OpenAI API](https://dev.to/jackyxbb/how-to-build-a-travel-agent-with-openai-api-2hoj)
+- [One Byte Explainer: Large Language Models](https://dev.to/dchaley/one-byte-explainer-large-language-models-5dpp)
+- [Maintaining Work-Life Balance: Dos and Don&#39;ts for Developers](https://dev.to/dipakahirav/maintaining-work-life-balance-dos-and-donts-for-developers-1if4)
+- [One Byte Explainer: Recursion](https://dev.to/dchaley/one-byte-explainer-recursion-3lid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
