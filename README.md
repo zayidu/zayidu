@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Video Compression? How does it work?](https://dev.to/alakkadshaw/what-is-video-compression-how-does-it-work-ide)
-- [CREATING A VIRTUAL MACHINE USING AZURE QUICKSTART TEMPLATE](https://dev.to/aizeon/creating-a-virtual-machine-using-azure-quickstart-template-keb)
-- [Configuration Vitest in Nuxt 3](https://dev.to/jjbit_eth/configuration-vitest-in-nuxt-3-2n0a)
-- [Static in C# - Part 2](https://dev.to/locnguyenpv/static-in-c-part-2-9eo)
-- [Events and Event Sources](https://dev.to/paulike/events-and-event-sources-4ihi)
+- [Exploiting Smart Contracts - Understanding and Performing Reentrancy Attacks in Solidity](https://dev.to/passandscore/exploiting-smart-contracts-understanding-and-performing-reentrancy-attacks-in-solidity-40df)
+- [Handling complex events with Bacon.js and combineTemplate](https://dev.to/francescoagati/handling-complex-events-with-baconjs-and-combinetemplate-4cfi)
+- [NextJS loading problem 🤨 - refetching api data on revisit #64822](https://dev.to/sh20raj/nextjs-loading-problem-refetching-api-data-on-revisit-64822-3i10)
+- [Simplifying Event Handling Using Lambda Expressions](https://dev.to/paulike/simplifying-event-handling-using-lambda-expressions-5ajf)
+- [Linux History Demystified P:1](https://dev.to/skyinhaler/linux-history-demystified-p1-2mkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
