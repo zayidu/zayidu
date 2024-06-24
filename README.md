@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HOW TO CONFIGURE PING URL TESTS AND HEALTH CHECKS WITH AZURE MONITOR APPLICATION INSIGHTS](https://dev.to/droz79/how-to-configure-ping-url-tests-and-health-checks-with-azure-monitor-application-insights-2615)
-- [Data types in JavaScript.!](https://dev.to/samandarhodiev/data-types-in-javascript-3bmi)
-- [Computer Networking Essentials for Developers: Tools and Best Practices](https://dev.to/elainecbennet/computer-networking-essentials-for-developers-tools-and-best-practices-32ad)
-- [Complex Full Stack projects idea for resume](https://dev.to/nadim_ch0wdhury/complex-full-stack-projects-idea-for-resume-1bfp)
-- [How to create a new note using form and request methods in PHP?](https://dev.to/ghulam_mujtaba_247/how-to-create-a-new-note-using-form-and-request-methods-in-php-27kp)
+- [AWS open source newsletter, #200](https://dev.to/aws/aws-open-source-newsletter-200-2595)
+- [Understanding closures, promises, and async/await](https://dev.to/sumit_01/understanding-closures-promises-and-asyncawait-2601)
+- [Number of Closed Islands | LeetCode](https://dev.to/tanujav/number-of-closed-islands-leetcode-4i)
+- [Variables, Constants, Data Types, and Namespaces in C++](https://dev.to/komsenapati/variables-constants-data-types-and-namespaces-in-c-2i24)
+- [You are Using ChatGPT Wrong! — #1 Mistake 99% of Users Make](https://dev.to/safdarali/you-are-using-chatgpt-wrong-1-mistake-99-of-users-make-4kll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
