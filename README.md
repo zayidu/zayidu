@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What are Controlled and Uncontrolled Components in React.js?](https://dev.to/dk119819/what-are-controlled-and-uncontrolled-components-in-reactjs-51a0)
-- [DOM | Selectors](https://dev.to/__khojiakbar__/dom-selectors-4ep3)
-- [Ultimate Guide to Coding Anarchy](https://dev.to/ibrahim_mohammed_47/ultimate-guide-to-coding-anarchy-12po)
-- [Dive Into the Heart of Git with Ugit 🔍](https://dev.to/getvm/dive-into-the-heart-of-git-with-ugit-2ji7)
-- [Computers Come Alive: Neural Networks Explained](https://dev.to/rptb0b0/computers-come-alive-neural-networks-explained-3k8k)
+- [Attaching To Containers Using the Attach Command](https://dev.to/kalkwst/attaching-to-containers-using-the-attach-command-aaa)
+- [Power Platform Dataverse 101](https://dev.to/wyattdave/power-platform-dataverse-101-11g5)
+- [JavaScript Ninja Tricks: Mastering the Art of Shortcuts](https://dev.to/ayushh/javascript-ninja-tricks-mastering-the-art-of-shortcuts-7d2)
+- [Simple chatbot to improve Happiness](https://dev.to/agkosd/simple-chatbot-to-improve-happiness-2e2n)
+- [ReactJS: onClick={someFunction} VS onClick={&lpar;&rpar;=&gt;someFunction}](https://dev.to/sayyedasad786/reactjs-onclicksomefunction-vs-onclicksomefunction-53c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
