@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hardest Problem in RAG... Handling &#39;NOT FOUND&#39; Answers 🔍🤔](https://dev.to/llmware/the-hardest-problem-in-rag-handling-not-found-answers-7md)
-- [Docker: Introduction step-by-step guide for beginners DevOps Engineers.](https://dev.to/oncloud7/docker-introduction-step-by-step-guide-for-beginners-devops-engineers-5fee)
-- [DreamMachineAI - free luma ai video generator](https://dev.to/runningdogg/dreammachineai-free-luma-ai-video-generator-3d0h)
-- [Meme Monday](https://dev.to/td_inc/meme-monday-nf7)
-- [Debugging React Native with Reactotron: A Step-by-Step Guide](https://dev.to/rohanrajgautam/debugging-react-native-with-reactotron-a-step-by-step-guide-2f02)
+- [Day 21 of 30 of JavaScript](https://dev.to/akshat0610/day-21-of-30-of-javascript-2hdp)
+- [HOW TO CREATE AND CONNECT TO A LINUX VM USING A PUBLIC KEY.](https://dev.to/temidayo_adeoye_ccfea1cab/how-to-create-and-connect-to-a-linux-vm-using-a-public-key-c5i)
+- [Deep Dive into Kubernetes Architecture](https://dev.to/jensen1806/deep-dive-into-kubernetes-architecture-5fg2)
+- [Curses, space heists and found family - My freefall into Jessie Kwak fandom](https://dev.to/ajkerrigan/curses-space-heists-and-found-family-my-freefall-into-jessie-kwak-fandom-4oj0)
+- [Speed Up Your React App: Essential Performance Optimization Tips](https://dev.to/dev_habib_nuhu/speed-up-your-react-app-essential-performance-optimization-tips-4dkd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
