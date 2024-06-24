@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #200](https://dev.to/aws/aws-open-source-newsletter-200-2595)
-- [Understanding closures, promises, and async/await](https://dev.to/sumit_01/understanding-closures-promises-and-asyncawait-2601)
-- [Number of Closed Islands | LeetCode](https://dev.to/tanujav/number-of-closed-islands-leetcode-4i)
-- [Variables, Constants, Data Types, and Namespaces in C++](https://dev.to/komsenapati/variables-constants-data-types-and-namespaces-in-c-2i24)
-- [You are Using ChatGPT Wrong! — #1 Mistake 99% of Users Make](https://dev.to/safdarali/you-are-using-chatgpt-wrong-1-mistake-99-of-users-make-4kll)
+- [AIM Weekly for 24 June 2024](https://dev.to/tspannhw/aim-weekly-for-24-june-2024-4o5l)
+- [Como Transformar-se em uma Máquina de Aprender: Um Guia Pragmático](https://dev.to/dev-mais-eficiente/como-transformar-se-em-uma-maquina-de-aprender-um-guia-pragmatico-31l)
+- [C# PDF Generator Tutorial &lpar;HTML to PDF, Merge, Watermark. Extract&rpar;](https://dev.to/mhamzap10/c-pdf-generator-tutorial-html-to-pdf-merge-watermark-extract-h3i)
+- [Tricky Golang interview questions - Part 4: Concurrent Consumption](https://dev.to/crusty0gphr/tricky-golang-interview-questions-part-4-concurrent-consumption-34oe)
+- [Sharing is Caring: Securely Extending AWS Resources Across Accounts](https://dev.to/virajlakshitha/sharing-is-caring-securely-extending-aws-resources-across-accounts-54ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
