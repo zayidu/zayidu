@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploiting Smart Contracts - Understanding and Performing Reentrancy Attacks in Solidity](https://dev.to/passandscore/exploiting-smart-contracts-understanding-and-performing-reentrancy-attacks-in-solidity-40df)
-- [Handling complex events with Bacon.js and combineTemplate](https://dev.to/francescoagati/handling-complex-events-with-baconjs-and-combinetemplate-4cfi)
-- [NextJS loading problem 🤨 - refetching api data on revisit #64822](https://dev.to/sh20raj/nextjs-loading-problem-refetching-api-data-on-revisit-64822-3i10)
-- [Simplifying Event Handling Using Lambda Expressions](https://dev.to/paulike/simplifying-event-handling-using-lambda-expressions-5ajf)
-- [Linux History Demystified P:1](https://dev.to/skyinhaler/linux-history-demystified-p1-2mkb)
+- [Laravel RAG System in 4 Steps!](https://dev.to/alnutile/laravel-rag-system-in-4-steps-2jc)
+- [Listeners for Observable Objects](https://dev.to/paulike/listeners-for-observable-objects-37pc)
+- [Was accepted into Buildspace S5](https://dev.to/newtonmusyimi/was-accepted-into-buildspace-s5-3g65)
+- [Key Features of Exceptional Website Design in 2024](https://dev.to/joycesemma/key-features-of-exceptional-website-design-in-2024-3npd)
+- [Key Events](https://dev.to/paulike/key-events-4j35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
