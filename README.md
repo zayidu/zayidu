@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DarkSIDE of AI : Power Hungry process](https://dev.to/balagmadhu/darkside-of-ai-power-hungry-process-42oi)
-- [Persistencia para frontends](https://dev.to/dezkareid/persistencia-para-frontends-2b64)
-- [WHY CAN&#39;T I get Chrome devtools frontend to display message in the console panel through Chrome Devtools Protocol?](https://dev.to/wwereal/cant-get-chrome-devtools-frontend-to-display-message-in-the-console-panel-through-chrome-devtools-protocol-h3b)
-- [Mastering Enterprise Test Automation: Key Strategies for Enhancing Digital Quality](https://dev.to/berthaw82414312/mastering-enterprise-test-automation-key-strategies-for-enhancing-digital-quality-1ji)
-- [How to become a better Learner](https://dev.to/happy56/how-to-become-a-better-learner-3091)
+- [Launching 50+ FREE website templates - React, Next.js, Tailwind CSS](https://dev.to/darkinventor/launching-50-free-website-templates-react-nextjs-tailwind-css-gep)
+- [Launching 50+ FREE website templates - React, Next.js, Tailwind CSS](https://dev.to/darkinventor/launching-50-free-website-templates-react-nextjs-tailwind-css-44g7)
+- [Launching 50+ FREE website templates - React, Next.js, Tailwind CSS](https://dev.to/darkinventor/launching-50-free-website-templates-react-nextjs-tailwind-css-2caf)
+- [Python &amp; SQL DJ Database](https://dev.to/saradomincroft/python-sql-dj-database-4p99)
+- [A standard client access server process](https://dev.to/fridaymeng/a-standard-client-access-server-process-297p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
