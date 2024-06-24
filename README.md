@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Attaching To Containers Using the Attach Command](https://dev.to/kalkwst/attaching-to-containers-using-the-attach-command-aaa)
-- [Power Platform Dataverse 101](https://dev.to/wyattdave/power-platform-dataverse-101-11g5)
-- [JavaScript Ninja Tricks: Mastering the Art of Shortcuts](https://dev.to/ayushh/javascript-ninja-tricks-mastering-the-art-of-shortcuts-7d2)
-- [Simple chatbot to improve Happiness](https://dev.to/agkosd/simple-chatbot-to-improve-happiness-2e2n)
-- [ReactJS: onClick={someFunction} VS onClick={&lpar;&rpar;=&gt;someFunction}](https://dev.to/sayyedasad786/reactjs-onclicksomefunction-vs-onclicksomefunction-53c9)
+- [🕸 Networking is easy, fun, and probably not what you think it is.](https://dev.to/samuelfaure/networking-is-easy-fun-and-probably-not-what-you-think-it-is-2ijc)
+- [Creating a CRUD App With Go](https://dev.to/ethand91/creating-a-crud-app-with-go-4dc3)
+- [Very Own bookmarks](https://dev.to/suyashsrivastavadev/very-own-bookmarks-f4c)
+- [In Excel, Parse Hexadecimal Numbers And Make Queries](https://dev.to/judith677/in-excel-parse-hexadecimal-numbers-and-make-queries-4ljk)
+- [Building an AI-Powered Product Scheduler using Lyzr and OpenAI](https://dev.to/harshitlyzr/building-an-ai-powered-product-scheduler-using-lyzr-and-openai-3fml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
