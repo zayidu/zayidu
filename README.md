@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel RAG System in 4 Steps!](https://dev.to/alnutile/laravel-rag-system-in-4-steps-2jc)
-- [Listeners for Observable Objects](https://dev.to/paulike/listeners-for-observable-objects-37pc)
-- [Was accepted into Buildspace S5](https://dev.to/newtonmusyimi/was-accepted-into-buildspace-s5-3g65)
-- [Key Features of Exceptional Website Design in 2024](https://dev.to/joycesemma/key-features-of-exceptional-website-design-in-2024-3npd)
-- [Key Events](https://dev.to/paulike/key-events-4j35)
+- [Case Study: Bouncing Ball](https://dev.to/paulike/case-study-bouncing-ball-39cj)
+- [Implementing a Mail Delivery Switch in Python for Local and AWS Environments Using Amazon SES](https://dev.to/kojiisd/implementing-a-mail-delivery-switch-in-python-for-local-and-aws-environments-using-amazon-ses-2kp2)
+- [Implementing localization to your Svelte App: A step-by-step guide](https://dev.to/harshil1712/implementing-localization-to-your-svelte-app-a-step-by-step-guide-4cf)
+- [The Role of Technology in Optimizing Clinical Trial Processes](https://dev.to/mcdowell/the-role-of-technology-in-optimizing-clinical-trial-processes-50d5)
+- [Animation](https://dev.to/paulike/animation-56l4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
