@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java: The WHORE Without The H](https://dev.to/one/java-the-whore-without-the-h-4c0n)
-- [&#39;memba?: Twilio &amp; Vertex AI Reminder System for Seniors who don&#39;t &#39;memba.](https://dev.to/richardevcom/memba-twilio-vertex-ai-reminder-system-for-seniors-who-dont-memba-5h02)
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;17/06/2024–23/06/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-17062024-23062024-5g3n)
-- [Ducky Fog - Puzzle game](https://dev.to/ivanaxei/ducky-fog-puzzle-game-2km5)
-- [FitSnap: image-to-workout](https://dev.to/matt_permentier_8d9ea83d9/fitsnap-image-to-workout-p81)
+- [What is Video Compression? How does it work?](https://dev.to/alakkadshaw/what-is-video-compression-how-does-it-work-ide)
+- [CREATING A VIRTUAL MACHINE USING AZURE QUICKSTART TEMPLATE](https://dev.to/aizeon/creating-a-virtual-machine-using-azure-quickstart-template-keb)
+- [Configuration Vitest in Nuxt 3](https://dev.to/jjbit_eth/configuration-vitest-in-nuxt-3-2n0a)
+- [Static in C# - Part 2](https://dev.to/locnguyenpv/static-in-c-part-2-9eo)
+- [Events and Event Sources](https://dev.to/paulike/events-and-event-sources-4ihi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
