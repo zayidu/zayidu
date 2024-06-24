@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Core Concepts List](https://dev.to/ashsajal/rust-core-concepts-list-27of)
+- [Elixir/Nerves: blinking LED](https://dev.to/mnishiguchi/elixirnerves-blinking-led-5gf1)
+- [How to Seamlessly Integrate OSS with Alibaba Cloud Elasticsearch Using Regular Service Roles](https://dev.to/a_lucas/how-to-seamlessly-integrate-oss-with-alibaba-cloud-elasticsearch-using-regular-service-roles-59lm)
 - [Understanding OOPs in Python 🐍🌠](https://dev.to/kammarianand/understanding-oops-in-python-1k4k)
 - [Unlocking Developer Secrets: Insights Beyond the Code](https://dev.to/vuyokazimkane/unlocking-developer-secrets-insights-beyond-the-code-ehf)
-- [Understanding Props, Parent, and Child Components in React Native using TypeScript.](https://dev.to/nehi_rugue/understanding-props-parent-and-child-components-in-react-native-using-typescript-3c6e)
-- [Cutting Down Docker Image Sizes: Next.js Standalone Mode for Easy Kubernetes Deployments on EKS and AKS](https://dev.to/alessandrorodrigo/cutting-down-docker-image-sizes-nextjs-standalone-mode-for-easy-kubernetes-deployments-on-eks-and-aks-4pno)
-- [Sincronizando data entre tabs](https://dev.to/dezkareid/sincronizando-data-entre-tabs-5951)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
