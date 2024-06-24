@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Projects from DEV Community Post](https://dev.to/litlyx/open-source-projects-from-dev-community-post-406c)
-- [Meme Monday](https://dev.to/ben/meme-monday-5b9c)
-- [Learn how to create a awesome cards component using HTML &amp; CSS only](https://dev.to/ehsancoder/learn-how-to-create-a-awesome-cards-component-using-html-css-only-1dba)
-- [Data Science in Marketing: Unlocking Customer Insights and Personalization](https://dev.to/fizza_c3e734ee2a307cf35e5/data-science-in-marketing-unlocking-customer-insights-and-personalization-2fao)
-- [Issue with Currency Display in Odoo QWeb Report &lpar;Odoo 17&rpar;](https://dev.to/hello_lawrence/issue-with-currency-display-in-odoo-qweb-report-odoo-17-1lkl)
+- [3 Essentials For Landing Your Dream Tech Job](https://dev.to/thekarlesi/3-essentials-for-landing-your-dream-tech-job-4le8)
+- [Mobile Development: Engineering the Future of Applications](https://dev.to/jinesh_vora_ab4d7886e6a8d/mobile-development-engineering-the-future-of-applications-d53)
+- [Building a Telegram Bot to deliver weekly stock open and close prices](https://dev.to/pluri45/building-a-telegram-bot-to-deliver-weekly-stock-open-and-close-prices-moh)
+- [Drupal Access Policy demystified](https://dev.to/sparkfabrik/drupal-access-policy-demystified-44bj)
+- [TailwindCSS ECommerce Website Template - Freshcart](https://dev.to/easetemplates/tailwindcss-ecommerce-website-template-freshcart-6f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
