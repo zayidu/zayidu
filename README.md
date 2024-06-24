@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 21 of 30 of JavaScript](https://dev.to/akshat0610/day-21-of-30-of-javascript-2hdp)
-- [HOW TO CREATE AND CONNECT TO A LINUX VM USING A PUBLIC KEY.](https://dev.to/temidayo_adeoye_ccfea1cab/how-to-create-and-connect-to-a-linux-vm-using-a-public-key-c5i)
-- [Deep Dive into Kubernetes Architecture](https://dev.to/jensen1806/deep-dive-into-kubernetes-architecture-5fg2)
-- [Curses, space heists and found family - My freefall into Jessie Kwak fandom](https://dev.to/ajkerrigan/curses-space-heists-and-found-family-my-freefall-into-jessie-kwak-fandom-4oj0)
-- [Speed Up Your React App: Essential Performance Optimization Tips](https://dev.to/dev_habib_nuhu/speed-up-your-react-app-essential-performance-optimization-tips-4dkd)
+- [Java: The WHORE Without The H](https://dev.to/one/java-the-whore-without-the-h-4c0n)
+- [&#39;memba?: Twilio &amp; Vertex AI Reminder System for Seniors who don&#39;t &#39;memba.](https://dev.to/richardevcom/memba-twilio-vertex-ai-reminder-system-for-seniors-who-dont-memba-5h02)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;17/06/2024–23/06/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-17062024-23062024-5g3n)
+- [Ducky Fog - Puzzle game](https://dev.to/ivanaxei/ducky-fog-puzzle-game-2km5)
+- [FitSnap: image-to-workout](https://dev.to/matt_permentier_8d9ea83d9/fitsnap-image-to-workout-p81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
