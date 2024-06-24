@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Taxi Dispatch Operator](https://dev.to/alaba_mustapha/ai-taxi-dispatch-operator-2kop)
-- [Simplify Phone Screening with Twilio and AI Automation](https://dev.to/bibekkakati/simplify-phone-screening-with-twilio-and-ai-automation-3e8e)
-- [A Journey into Microservices — Part 1](https://dev.to/gervaisamoah/a-journey-into-microservices-part-1-4gck)
-- [The Magical World of Machine Learning at Hogwarts &lpar;Part #1&rpar;](https://dev.to/gerryleonugroho/the-magical-world-of-machine-learning-at-hogwarts-part-1-2jp4)
-- [Differences between JPG and AVIF](https://dev.to/msmith99994/differences-between-jpg-and-avif-252m)
+- [Introduction to Game AI Development](https://dev.to/kartikmehta8/introduction-to-game-ai-development-3oa4)
+- [Chappy: Your Friendly and Quirky Chat Buddy](https://dev.to/ketanrajpal/chappy-your-friendly-and-quirky-chat-buddy-14pl)
+- [Leverage AI with Twilio for Hotelier](https://dev.to/tryhendri/leverage-ai-with-twilio-for-hotelier-4kha)
+- [Iteration - a Stream Generator for Recursive Minds](https://dev.to/fluentfuture/iteration-a-stream-generator-m75)
+- [AI Journal App with WhatsApp Integration](https://dev.to/preveenraj/journal-app-with-ai-capabilities-and-whatsapp-integration-23dh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
