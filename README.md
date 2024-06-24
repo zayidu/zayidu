@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer Science Challenge - Structure Padding](https://dev.to/harshitads44217/computer-science-challenge-structure-padding-37ie)
-- [How to Build a Travel Agent with OpenAI API](https://dev.to/jackyxbb/how-to-build-a-travel-agent-with-openai-api-2hoj)
-- [One Byte Explainer: Large Language Models](https://dev.to/dchaley/one-byte-explainer-large-language-models-5dpp)
-- [Maintaining Work-Life Balance: Dos and Don&#39;ts for Developers](https://dev.to/dipakahirav/maintaining-work-life-balance-dos-and-donts-for-developers-1if4)
-- [One Byte Explainer: Recursion](https://dev.to/dchaley/one-byte-explainer-recursion-3lid)
+- [What are Controlled and Uncontrolled Components in React.js?](https://dev.to/dk119819/what-are-controlled-and-uncontrolled-components-in-reactjs-51a0)
+- [DOM | Selectors](https://dev.to/__khojiakbar__/dom-selectors-4ep3)
+- [Ultimate Guide to Coding Anarchy](https://dev.to/ibrahim_mohammed_47/ultimate-guide-to-coding-anarchy-12po)
+- [Dive Into the Heart of Git with Ugit 🔍](https://dev.to/getvm/dive-into-the-heart-of-git-with-ugit-2ji7)
+- [Computers Come Alive: Neural Networks Explained](https://dev.to/rptb0b0/computers-come-alive-neural-networks-explained-3k8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
