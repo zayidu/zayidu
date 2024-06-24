@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [21 Amazing CSS Buttons You Have to Check Out](https://dev.to/devshefali/21-amazing-css-buttons-you-have-to-check-out-45hc)
-- [Creating Chat Bubbles with curls in React Native &lpar;svg&rpar;](https://dev.to/tobs_dl/creating-chat-bubbles-with-curls-in-react-native-svg-4hde)
-- [Análise das reservas federais - parte 2](https://dev.to/devsnorte/analise-das-reservas-federais-parte-2-1hcc)
-- [How to amend files in WP-Engine with VS Code](https://dev.to/brisbanewebdeveloper/how-to-amend-files-in-wp-engine-with-vs-code-ljn)
-- [Binary Addition in Java: A Comprehensive Guide](https://dev.to/fullstackjava/binary-addition-in-java-a-comprehensive-guide-9cf)
+- [Tailstore - Free Tailwind CSS eCommerce Template](https://dev.to/mikevarenek/tailstore-free-tailwind-css-ecommerce-template-fbm)
+- [How to Cloud: IaC](https://dev.to/aws-builders/how-to-cloud-iac-3ifl)
+- [Swiftwave PaaS: One Year in Development](https://dev.to/tanmoysrt/swiftwave-paas-one-year-in-development-3nph)
+- [Why Choose Laravel for Web Development?](https://dev.to/samantha_hayes/why-choose-laravel-for-web-development-46im)
+- [What is Docker and why do we use it?](https://dev.to/mesonu/what-is-docker-and-why-do-we-use-it-280n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
