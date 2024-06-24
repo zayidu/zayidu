@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🕸 Networking is easy, fun, and probably not what you think it is.](https://dev.to/samuelfaure/networking-is-easy-fun-and-probably-not-what-you-think-it-is-2ijc)
-- [Creating a CRUD App With Go](https://dev.to/ethand91/creating-a-crud-app-with-go-4dc3)
-- [Very Own bookmarks](https://dev.to/suyashsrivastavadev/very-own-bookmarks-f4c)
-- [In Excel, Parse Hexadecimal Numbers And Make Queries](https://dev.to/judith677/in-excel-parse-hexadecimal-numbers-and-make-queries-4ljk)
-- [Building an AI-Powered Product Scheduler using Lyzr and OpenAI](https://dev.to/harshitlyzr/building-an-ai-powered-product-scheduler-using-lyzr-and-openai-3fml)
+- [DarkSIDE of AI : Power Hungry process](https://dev.to/balagmadhu/darkside-of-ai-power-hungry-process-42oi)
+- [Persistencia para frontends](https://dev.to/dezkareid/persistencia-para-frontends-2b64)
+- [WHY CAN&#39;T I get Chrome devtools frontend to display message in the console panel through Chrome Devtools Protocol?](https://dev.to/wwereal/cant-get-chrome-devtools-frontend-to-display-message-in-the-console-panel-through-chrome-devtools-protocol-h3b)
+- [Mastering Enterprise Test Automation: Key Strategies for Enhancing Digital Quality](https://dev.to/berthaw82414312/mastering-enterprise-test-automation-key-strategies-for-enhancing-digital-quality-1ji)
+- [How to become a better Learner](https://dev.to/happy56/how-to-become-a-better-learner-3091)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
