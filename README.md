@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching 50+ FREE website templates - React, Next.js, Tailwind CSS](https://dev.to/darkinventor/launching-50-free-website-templates-react-nextjs-tailwind-css-gep)
-- [Launching 50+ FREE website templates - React, Next.js, Tailwind CSS](https://dev.to/darkinventor/launching-50-free-website-templates-react-nextjs-tailwind-css-44g7)
-- [Launching 50+ FREE website templates - React, Next.js, Tailwind CSS](https://dev.to/darkinventor/launching-50-free-website-templates-react-nextjs-tailwind-css-2caf)
-- [Python &amp; SQL DJ Database](https://dev.to/saradomincroft/python-sql-dj-database-4p99)
-- [A standard client access server process](https://dev.to/fridaymeng/a-standard-client-access-server-process-297p)
+- [Open Source Projects from DEV Community Post](https://dev.to/litlyx/open-source-projects-from-dev-community-post-406c)
+- [Meme Monday](https://dev.to/ben/meme-monday-5b9c)
+- [Learn how to create a awesome cards component using HTML &amp; CSS only](https://dev.to/ehsancoder/learn-how-to-create-a-awesome-cards-component-using-html-css-only-1dba)
+- [Data Science in Marketing: Unlocking Customer Insights and Personalization](https://dev.to/fizza_c3e734ee2a307cf35e5/data-science-in-marketing-unlocking-customer-insights-and-personalization-2fao)
+- [Issue with Currency Display in Odoo QWeb Report &lpar;Odoo 17&rpar;](https://dev.to/hello_lawrence/issue-with-currency-display-in-odoo-qweb-report-odoo-17-1lkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
