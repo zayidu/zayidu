@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailstore - Free Tailwind CSS eCommerce Template](https://dev.to/mikevarenek/tailstore-free-tailwind-css-ecommerce-template-fbm)
-- [How to Cloud: IaC](https://dev.to/aws-builders/how-to-cloud-iac-3ifl)
-- [Swiftwave PaaS: One Year in Development](https://dev.to/tanmoysrt/swiftwave-paas-one-year-in-development-3nph)
-- [Why Choose Laravel for Web Development?](https://dev.to/samantha_hayes/why-choose-laravel-for-web-development-46im)
-- [What is Docker and why do we use it?](https://dev.to/mesonu/what-is-docker-and-why-do-we-use-it-280n)
+- [HOW TO CONFIGURE PING URL TESTS AND HEALTH CHECKS WITH AZURE MONITOR APPLICATION INSIGHTS](https://dev.to/droz79/how-to-configure-ping-url-tests-and-health-checks-with-azure-monitor-application-insights-2615)
+- [Data types in JavaScript.!](https://dev.to/samandarhodiev/data-types-in-javascript-3bmi)
+- [Computer Networking Essentials for Developers: Tools and Best Practices](https://dev.to/elainecbennet/computer-networking-essentials-for-developers-tools-and-best-practices-32ad)
+- [Complex Full Stack projects idea for resume](https://dev.to/nadim_ch0wdhury/complex-full-stack-projects-idea-for-resume-1bfp)
+- [How to create a new note using form and request methods in PHP?](https://dev.to/ghulam_mujtaba_247/how-to-create-a-new-note-using-form-and-request-methods-in-php-27kp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
