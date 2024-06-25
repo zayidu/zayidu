@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Full-Stack Web Application with MERN Stack: A Beginner&#39;s Guide](https://dev.to/princenzmw/building-a-full-stack-web-application-with-mern-stack-a-beginners-guide-19m0)
-- [Software Product Development | Definition and Stages](https://dev.to/igor_ag_aaa2341e64b1f4cb4/software-product-development-1kal)
-- [Understanding and Resolving Infinite Consumer Lag Growth on Compacted Kafka Topics](https://dev.to/berlin-tech-blog/understanding-and-resolving-infinite-consumer-lag-growth-on-compacted-kafka-topics-787)
-- [Understanding JWT and Validating Tokens with Expiry Dates](https://dev.to/aamirkhancr7/understanding-jwt-and-validating-tokens-with-expiry-dates-232)
-- [How to develop full stack software platform like Zoom/Google Meet?](https://dev.to/nadim_ch0wdhury/how-to-develop-full-stack-software-platform-like-zoomgoogle-meet-2n5i)
+- [5 Cheap Ways to Host Redis](https://dev.to/code42cate/5-cheap-ways-to-host-redis-2njm)
+- [Difference between templatetag: linebreaks and linebreaksbr in Django template](https://dev.to/doridoro/difference-between-templatetag-linebreaks-and-linebreaksbr-in-django-template-50hg)
+- [How do we resolve race conditions?](https://dev.to/codermansithakur/how-do-we-resolve-race-conditions-416c)
+- [Overview of Deep Learning](https://dev.to/fridaymeng/overview-of-deep-learning-2lgi)
+- [Engineering as Marketing Theory and Practice](https://dev.to/martinbaun/engineering-as-marketing-theory-and-practice-27aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
