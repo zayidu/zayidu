@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Manipulating Elements](https://dev.to/__khojiakbar__/manipulating-elements-1m5g)
-- [Unlocking Affordable Storage Magic: Our Journey with Uploadthing! 🚀✨](https://dev.to/shu12388y/unlocking-affordable-storage-magic-our-journey-with-uploadthing-41ma)
-- [Implementing an Interceptor for RestClient &lpar;Java + Spring Boot&rpar;](https://dev.to/felipejansendev/implementing-an-interceptor-for-restclient-java-spring-boot-3h75)
-- [Real-Time Stream Processing with AWS Lambda and Kinesis: Building Real-Time Analytics Pipelines](https://dev.to/virajlakshitha/real-time-stream-processing-with-aws-lambda-and-kinesis-building-real-time-analytics-pipelines-da2)
-- [DEjango twilio mms fowarding](https://dev.to/tim_bennett_d721431c8295a/dejango-twilio-mms-fowarding-309b)
+- [CREATING A VIRTUAL MACHINE USING AZURE CLI](https://dev.to/aizeon/creating-a-virtual-machine-using-azure-cli-5ec7)
+- [DAY 3 PROJECT](https://dev.to/shrishti_srivastava_/day-3-project-3hd2)
+- [The various modules of Digital Marketing.](https://dev.to/khushithakuri/the-various-modules-of-digital-marketing-8i0)
+- [Super Club Net: Libro de Introducción a HTML, CSS y JS](https://dev.to/javascriptchile/super-club-net-libro-de-introduccion-a-html-css-y-js-32hc)
+- [How AppMap Navie solved the SWE bench AI coding challenge](https://dev.to/appmap/how-appmap-navie-solved-the-swe-bench-ai-coding-challenge-20an)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
