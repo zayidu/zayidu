@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C++ 指向類別成員的指位器的實作細節](https://dev.to/codemee/c-zhi-xiang-lei-bie-cheng-yuan-de-zhi-wei-qi-de-shi-zuo-xi-jie-19f7)
-- [Introduction to the Periodic Table of DevOps Tools](https://dev.to/iaadidev/introduction-to-the-periodic-table-of-devops-tools-55bn)
-- [🔧 Advanced JavaScript Performance Optimization: Techniques and Patterns](https://dev.to/parthchovatiya/advanced-javascript-performance-optimization-techniques-and-patterns-26g0)
-- [Find the Largest Number: A Comprehensive C Programming Tutorial](https://dev.to/labex/find-the-largest-number-a-comprehensive-c-programming-tutorial-4jf)
-- [Effectively Marketing Devtools with Educational Content](https://dev.to/jeffmorhous/effectively-marketing-devtools-with-educational-content-iip)
+- [How to Write an Outline for a Technical Article.](https://dev.to/spiff/how-to-write-an-outline-for-a-technical-article-oha)
+- [Virtual Production Studio Dimension Selects AWS and Arch Platform](https://dev.to/maxhar/virtual-production-studio-dimension-selects-aws-and-arch-platform-11b)
+- [A better way to learn programming.](https://dev.to/itric/a-better-way-to-learn-programming-h6l)
+- [Load Balancer vs Reverse Proxy vs API Gateway](https://dev.to/manojgohel/load-balancer-vs-reverse-proxy-vs-api-gateway-3ged)
+- [Dive into the World of NoSQL Databases 🌐](https://dev.to/getvm/dive-into-the-world-of-nosql-databases-igg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
