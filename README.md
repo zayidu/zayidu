@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Public APIs for Web Development Projects](https://dev.to/vyan/public-apis-for-web-development-projects-lhk)
+- [React: No Test Coverage BABEL Type Error](https://dev.to/nani_moka/react-no-test-coverage-babel-type-error-1o5g)
 - [Set dtype with dtype argument functions and get it in PyTorch](https://dev.to/hyperkai/set-dtype-with-dtype-argument-functions-and-get-it-in-pytorch-13h2)
 - [Comparing 13 LLM Providers API Performance with Node.js: Latency and Response Times Across Models](https://dev.to/samestrin/comparing-13-llm-providers-api-performance-with-nodejs-latency-and-response-times-across-models-2ka4)
 - [Automatizing Git Branches Cleanup: Streamlining Your Workflow](https://dev.to/fernandomullerjr/automatizing-git-branches-cleanup-streamlining-your-workflow-1584)
-- [AWS IoT projects](https://dev.to/sherlockyadav/aws-iot-projects-4e1f)
-- [Behind the Scenes of AI: How Language Models Like ChatGPT Work](https://dev.to/takitajwar17/behind-the-scenes-of-ai-how-language-models-like-chatgpt-work-3eb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
