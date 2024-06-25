@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We started creating extendable-with-Vue admin panel](https://dev.to/ivictbor/we-started-creating-extendable-with-vue-admin-solution-i00)
-- [Creating an Opensource E-Learning Solution: Structuring the base of the Project&#39;s codebase](https://dev.to/inaryo/creating-an-opensource-e-learning-solution-structuring-the-base-of-the-projects-codebase-2ao5)
-- [Top 5 medium Rust open source project to contribute.](https://dev.to/grenierdudev/top-5-medium-rust-open-source-project-to-contribute-2a2i)
-- [Building Your First Web Application with Flask: A Step-by-Step Guide](https://dev.to/zaiba_sa/building-your-first-web-application-with-flask-a-step-by-step-guide-5p8)
-- [HTML Graphics, HTML Canvas, HTML SVG in detail with examples](https://dev.to/wasifali/html-graphics-html-canvas-html-svg-in-detail-with-examples-4960)
+- [4090 - ECC ON vs ECC OFF](https://dev.to/maximsaplin/4090-ecc-on-vs-ecc-off-36m4)
+- [Building Your Own SpicyChat AI: A Developer&#39;s Guide](https://dev.to/elisaray/building-your-own-spicychat-ai-a-developers-guide-4l7h)
+- [Landing Page For Client](https://dev.to/pranav-29/landing-page-for-client-496p)
+- [Technical Documentation: The Story of a Failure](https://dev.to/umairk/technical-documentation-the-story-of-a-failure-3f10)
+- [9 Captivating Programming Challenges from LabEx 🚀](https://dev.to/labex/9-captivating-programming-challenges-from-labex-574h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
