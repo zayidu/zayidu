@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Video Conferencing APIs and SDKs](https://dev.to/emilyrobertsatstream/the-best-video-conferencing-apis-and-sdks-2eac)
-- [Juniors Are Doomed And This Is Good &lpar;LLMs Hype, Copilots, and The Turning Point&rpar;](https://dev.to/kubeden/juniors-are-doomed-and-this-is-good-llms-hype-copilots-and-the-turning-point-168b)
-- [Interpreting Benchmarks and Evaluations in LLMs](https://dev.to/jivaniyash/interpreting-benchmarks-and-evaluations-in-llms-312h)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3jj5)
-- [Day 6 of 90 Days of DevOps: Dockerizing a Node.js App](https://dev.to/arbythecoder/day-6-of-90-days-of-devops-dockerizing-a-nodejs-app-2fam)
+- [The Terms for a Meeting with Me](https://dev.to/polterguy/the-terms-for-a-meeting-with-me-1koa)
+- [Emotional Intelligence: The Key to Professional Success](https://dev.to/devmercy/emotional-intelligence-the-key-to-professional-success-eec)
+- [Hoisting](https://dev.to/abhinavkushagra/hoisting-1l7p)
+- [Mastering Typography in UI Design: Enhancing Readability and User Experience](https://dev.to/prince_chouhan/mastering-typography-in-ui-design-enhancing-readability-and-user-experience-1627)
+- [Word Embeddings](https://dev.to/rohab_shabbir/word-embeddings-446a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
