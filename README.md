@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why B2C Auth is Fundamentally Broken](https://dev.to/corbado/why-b2c-auth-is-fundamentally-broken-3fpb)
-- [Why B2C Auth is Fundamentally Broken](https://dev.to/corbado/why-b2c-auth-is-fundamentally-broken-3akf)
-- [Memory Allocations in Rust](https://dev.to/gritmax/memory-allocations-in-rust-3m7l)
-- [Cloud Migration Services: Your Roadmap to a Scalable, Cost-Effective IT Future](https://dev.to/unicloud/cloud-migration-services-your-roadmap-to-a-scalable-cost-effective-it-future-44f9)
-- [Add liquid tag for podcasters.spotify.com](https://dev.to/codercatdev/add-liquid-tag-for-podcastersspotifycom-3o34)
+- [JSON – JavaScript Object Notation](https://dev.to/n3rdnerd/json-javascript-object-notation-5ad2)
+- [🚀 Connecting to Databases with Node.js: MongoDB and Mongoose 🌐](https://dev.to/erasmuskotoka/connecting-to-databases-with-nodejs-mongodb-and-mongoose-2bdd)
+- [How I making my career transition and why?](https://dev.to/devmarianasouza/how-i-making-my-career-transition-and-why-17i0)
+- [Day 978 : Rain](https://dev.to/dwane/day-978-rain-pd6)
+- [Resourcely founder-led in person or virtual hands-on workshop](https://dev.to/resourcely/resourcely-founder-led-in-person-or-virtual-hands-on-workshop-1o46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
