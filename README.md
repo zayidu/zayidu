@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Firebase Security Rules: Effortless control over your app&#39;s data.](https://dev.to/codingcatdev/firebase-security-rules-effortless-control-over-your-apps-data-550m)
-- [Congrats to the Twilio Challenge Winners!](https://dev.to/devteam/congrats-to-the-twilio-challenge-winners-2b1n)
-- [Diving into .NET: From Confusion to Clarity](https://dev.to/ganatrajay2000/diving-into-net-from-confusion-to-clarity-9ck)
-- [From Hobbyist to Professional 🚀](https://dev.to/sushilmagare10/from-hobbyist-to-professional-3774)
-- [How to Create A Snake Game in HTML CSS &amp; JavaScript](https://dev.to/codingnepal/how-to-create-a-snake-game-in-html-css-javascript-2j0j)
+- [The Best Video Conferencing APIs and SDKs](https://dev.to/emilyrobertsatstream/the-best-video-conferencing-apis-and-sdks-2eac)
+- [Juniors Are Doomed And This Is Good &lpar;LLMs Hype, Copilots, and The Turning Point&rpar;](https://dev.to/kubeden/juniors-are-doomed-and-this-is-good-llms-hype-copilots-and-the-turning-point-168b)
+- [Interpreting Benchmarks and Evaluations in LLMs](https://dev.to/jivaniyash/interpreting-benchmarks-and-evaluations-in-llms-312h)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3jj5)
+- [Day 6 of 90 Days of DevOps: Dockerizing a Node.js App](https://dev.to/arbythecoder/day-6-of-90-days-of-devops-dockerizing-a-nodejs-app-2fam)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
