@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CREATING A VIRTUAL MACHINE USING AZURE CLI](https://dev.to/aizeon/creating-a-virtual-machine-using-azure-cli-5ec7)
-- [DAY 3 PROJECT](https://dev.to/shrishti_srivastava_/day-3-project-3hd2)
-- [The various modules of Digital Marketing.](https://dev.to/khushithakuri/the-various-modules-of-digital-marketing-8i0)
-- [Super Club Net: Libro de Introducción a HTML, CSS y JS](https://dev.to/javascriptchile/super-club-net-libro-de-introduccion-a-html-css-y-js-32hc)
-- [How AppMap Navie solved the SWE bench AI coding challenge](https://dev.to/appmap/how-appmap-navie-solved-the-swe-bench-ai-coding-challenge-20an)
+- [JavaScript “this” keyword in simple words](https://dev.to/skorphil/javascript-this-keyword-in-simple-words-2ch0)
+- [Initialize a Go project with “go-blueprint”](https://dev.to/hieunguyendev/initialize-a-go-project-with-go-blueprint-2bd1)
+- [What Googlers can teach you about Security part 2](https://dev.to/cyber_zeal/what-googlers-can-teach-you-about-security-part-2-1ko1)
+- [Mistakes we all make in FOSS](https://dev.to/litlyx/mistakes-we-all-make-in-foss-3f68)
+- [How I Explored Recursion by Building a Simple Chatbot Using Python](https://dev.to/codecounsel/how-i-explored-recursion-by-building-a-simple-chatbot-using-python-2mc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
