@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a WebRTC Video Streaming App: A Step-by-Step Guide](https://dev.to/1saptarshi/building-a-webrtc-video-streaming-app-a-step-by-step-guide-234a)
-- [Can I monetize my blog ????](https://dev.to/dk119819/can-i-monetize-my-blog--30on)
-- [Integration with Jenkins!](https://dev.to/gadekar_sachin/integration-with-jenkins-5288)
-- [Como criar um Load Balancer no Microsoft Azure](https://dev.to/laisrz/como-criar-um-load-balancer-no-microsoft-azure-p2o)
-- [Add Audit Log Streaming to Auth0 authentication in &lt; 2 mins](https://dev.to/pangea/add-audit-log-streaming-to-auth0-authentication-in-2-mins-413)
+- [Set dtype with dtype argument functions and get it in PyTorch](https://dev.to/hyperkai/set-dtype-with-dtype-argument-functions-and-get-it-in-pytorch-13h2)
+- [Comparing 13 LLM Providers API Performance with Node.js: Latency and Response Times Across Models](https://dev.to/samestrin/comparing-13-llm-providers-api-performance-with-nodejs-latency-and-response-times-across-models-2ka4)
+- [Automatizing Git Branches Cleanup: Streamlining Your Workflow](https://dev.to/fernandomullerjr/automatizing-git-branches-cleanup-streamlining-your-workflow-1584)
+- [AWS IoT projects](https://dev.to/sherlockyadav/aws-iot-projects-4e1f)
+- [Behind the Scenes of AI: How Language Models Like ChatGPT Work](https://dev.to/takitajwar17/behind-the-scenes-of-ai-how-language-models-like-chatgpt-work-3eb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
