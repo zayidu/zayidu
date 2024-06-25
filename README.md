@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing the Cached Repository Pattern in C#](https://dev.to/ben-witt/implementing-the-cached-repository-pattern-in-c-o85)
-- [🧠 50 Outstanding WebDev Articles](https://dev.to/florianrappl/50-outstanding-webdev-articles-4b82)
-- [Building Your Own 2048 Game: Complete Instructions](https://dev.to/dk119819/step-by-step-2048-game-tutorial-569g)
-- [Deno : Let&#39;s Make JavaScript Uncomplicated. A Powerful NextGen JavaScript Runtime](https://dev.to/a4arpon/deno-lets-make-javascript-uncomplicated-a-powerful-nextgen-javascript-runtime-1h2o)
-- [In Excel, Search A Target Value And Hide Columns To Its Right](https://dev.to/judith677/in-excel-search-a-target-value-and-hide-columns-to-its-right-54a)
+- [Building a Full-Stack Web Application with MERN Stack: A Beginner&#39;s Guide](https://dev.to/princenzmw/building-a-full-stack-web-application-with-mern-stack-a-beginners-guide-19m0)
+- [Software Product Development | Definition and Stages](https://dev.to/igor_ag_aaa2341e64b1f4cb4/software-product-development-1kal)
+- [Understanding and Resolving Infinite Consumer Lag Growth on Compacted Kafka Topics](https://dev.to/berlin-tech-blog/understanding-and-resolving-infinite-consumer-lag-growth-on-compacted-kafka-topics-787)
+- [Understanding JWT and Validating Tokens with Expiry Dates](https://dev.to/aamirkhancr7/understanding-jwt-and-validating-tokens-with-expiry-dates-232)
+- [How to develop full stack software platform like Zoom/Google Meet?](https://dev.to/nadim_ch0wdhury/how-to-develop-full-stack-software-platform-like-zoomgoogle-meet-2n5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
