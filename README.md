@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating multiple databases in a todos app &lpar;Personal project&rpar;](https://dev.to/caresle/integrating-multiple-databases-in-a-todos-app-personal-project-6kh)
-- [AWS services for the AWS Certified Solutions Architect](https://dev.to/zeshancodes/aws-services-for-the-aws-certified-solutions-architect-34h3)
-- [Comandos Linux para Redes: Um Guia Completo para DevOps](https://dev.to/fernandomullerjr/comandos-linux-para-redes-um-guia-completo-para-devops-2g9j)
-- [PHP HyperF + MariaDB -&gt; Async / Parallel](https://dev.to/thiagoeti/php-hyperf-mariadb-async-parallel-4aj5)
-- [[Game of Purpose] Day 37](https://dev.to/humberd/game-of-purpose-day-37-49cj)
+- [Building a WebRTC Video Streaming App: A Step-by-Step Guide](https://dev.to/1saptarshi/building-a-webrtc-video-streaming-app-a-step-by-step-guide-234a)
+- [Can I monetize my blog ????](https://dev.to/dk119819/can-i-monetize-my-blog--30on)
+- [Integration with Jenkins!](https://dev.to/gadekar_sachin/integration-with-jenkins-5288)
+- [Como criar um Load Balancer no Microsoft Azure](https://dev.to/laisrz/como-criar-um-load-balancer-no-microsoft-azure-p2o)
+- [Add Audit Log Streaming to Auth0 authentication in &lt; 2 mins](https://dev.to/pangea/add-audit-log-streaming-to-auth0-authentication-in-2-mins-413)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
