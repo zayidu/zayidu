@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Cheap Ways to Host Redis](https://dev.to/code42cate/5-cheap-ways-to-host-redis-2njm)
-- [Difference between templatetag: linebreaks and linebreaksbr in Django template](https://dev.to/doridoro/difference-between-templatetag-linebreaks-and-linebreaksbr-in-django-template-50hg)
-- [How do we resolve race conditions?](https://dev.to/codermansithakur/how-do-we-resolve-race-conditions-416c)
-- [Overview of Deep Learning](https://dev.to/fridaymeng/overview-of-deep-learning-2lgi)
-- [Engineering as Marketing Theory and Practice](https://dev.to/martinbaun/engineering-as-marketing-theory-and-practice-27aj)
+- [We started creating extendable-with-Vue admin panel](https://dev.to/ivictbor/we-started-creating-extendable-with-vue-admin-solution-i00)
+- [Creating an Opensource E-Learning Solution: Structuring the base of the Project&#39;s codebase](https://dev.to/inaryo/creating-an-opensource-e-learning-solution-structuring-the-base-of-the-projects-codebase-2ao5)
+- [Top 5 medium Rust open source project to contribute.](https://dev.to/grenierdudev/top-5-medium-rust-open-source-project-to-contribute-2a2i)
+- [Building Your First Web Application with Flask: A Step-by-Step Guide](https://dev.to/zaiba_sa/building-your-first-web-application-with-flask-a-step-by-step-guide-5p8)
+- [HTML Graphics, HTML Canvas, HTML SVG in detail with examples](https://dev.to/wasifali/html-graphics-html-canvas-html-svg-in-detail-with-examples-4960)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
