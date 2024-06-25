@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Terms for a Meeting with Me](https://dev.to/polterguy/the-terms-for-a-meeting-with-me-1koa)
-- [Emotional Intelligence: The Key to Professional Success](https://dev.to/devmercy/emotional-intelligence-the-key-to-professional-success-eec)
-- [Hoisting](https://dev.to/abhinavkushagra/hoisting-1l7p)
-- [Mastering Typography in UI Design: Enhancing Readability and User Experience](https://dev.to/prince_chouhan/mastering-typography-in-ui-design-enhancing-readability-and-user-experience-1627)
-- [Word Embeddings](https://dev.to/rohab_shabbir/word-embeddings-446a)
+- [Why B2C Auth is Fundamentally Broken](https://dev.to/corbado/why-b2c-auth-is-fundamentally-broken-3fpb)
+- [Why B2C Auth is Fundamentally Broken](https://dev.to/corbado/why-b2c-auth-is-fundamentally-broken-3akf)
+- [Memory Allocations in Rust](https://dev.to/gritmax/memory-allocations-in-rust-3m7l)
+- [Cloud Migration Services: Your Roadmap to a Scalable, Cost-Effective IT Future](https://dev.to/unicloud/cloud-migration-services-your-roadmap-to-a-scalable-cost-effective-it-future-44f9)
+- [Add liquid tag for podcasters.spotify.com](https://dev.to/codercatdev/add-liquid-tag-for-podcastersspotifycom-3o34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
