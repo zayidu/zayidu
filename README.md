@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write an Outline for a Technical Article.](https://dev.to/spiff/how-to-write-an-outline-for-a-technical-article-oha)
-- [Virtual Production Studio Dimension Selects AWS and Arch Platform](https://dev.to/maxhar/virtual-production-studio-dimension-selects-aws-and-arch-platform-11b)
-- [A better way to learn programming.](https://dev.to/itric/a-better-way-to-learn-programming-h6l)
-- [Load Balancer vs Reverse Proxy vs API Gateway](https://dev.to/manojgohel/load-balancer-vs-reverse-proxy-vs-api-gateway-3ged)
-- [Dive into the World of NoSQL Databases 🌐](https://dev.to/getvm/dive-into-the-world-of-nosql-databases-igg)
+- [Next JS 15 pre-release](https://dev.to/wadizaatour/next-js-15-pre-release-3885)
+- [Kubernetes Backup Solutions](https://dev.to/raza_shaikh_eb0dd7d1ca772/kubernetes-backup-solutions-2k15)
+- [The Builder Pattern in TypeScript](https://dev.to/bilelsalemdev/the-builder-pattern-in-typescript-ljn)
+- [use SVG to draw php Basic knowledge of PHP](https://dev.to/fridaymeng/use-svg-to-draw-php-basic-knowledge-of-php-dd0)
+- [Mastering CRUD Operations in JavaScript: Building a To-Do App.🚀](https://dev.to/dharamgfx/mastering-crud-operations-in-javascript-building-a-to-do-app-glp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
