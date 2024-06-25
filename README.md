@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Case Study: Bouncing Ball](https://dev.to/paulike/case-study-bouncing-ball-39cj)
-- [Implementing a Mail Delivery Switch in Python for Local and AWS Environments Using Amazon SES](https://dev.to/kojiisd/implementing-a-mail-delivery-switch-in-python-for-local-and-aws-environments-using-amazon-ses-2kp2)
-- [Implementing localization to your Svelte App: A step-by-step guide](https://dev.to/harshil1712/implementing-localization-to-your-svelte-app-a-step-by-step-guide-4cf)
-- [The Role of Technology in Optimizing Clinical Trial Processes](https://dev.to/mcdowell/the-role-of-technology-in-optimizing-clinical-trial-processes-50d5)
-- [Animation](https://dev.to/paulike/animation-56l4)
+- [Integrating multiple databases in a todos app &lpar;Personal project&rpar;](https://dev.to/caresle/integrating-multiple-databases-in-a-todos-app-personal-project-6kh)
+- [AWS services for the AWS Certified Solutions Architect](https://dev.to/zeshancodes/aws-services-for-the-aws-certified-solutions-architect-34h3)
+- [Comandos Linux para Redes: Um Guia Completo para DevOps](https://dev.to/fernandomullerjr/comandos-linux-para-redes-um-guia-completo-para-devops-2g9j)
+- [PHP HyperF + MariaDB -&gt; Async / Parallel](https://dev.to/thiagoeti/php-hyperf-mariadb-async-parallel-4aj5)
+- [[Game of Purpose] Day 37](https://dev.to/humberd/game-of-purpose-day-37-49cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
