@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript “this” keyword in simple words](https://dev.to/skorphil/javascript-this-keyword-in-simple-words-2ch0)
-- [Initialize a Go project with “go-blueprint”](https://dev.to/hieunguyendev/initialize-a-go-project-with-go-blueprint-2bd1)
-- [What Googlers can teach you about Security part 2](https://dev.to/cyber_zeal/what-googlers-can-teach-you-about-security-part-2-1ko1)
-- [Mistakes we all make in FOSS](https://dev.to/litlyx/mistakes-we-all-make-in-foss-3f68)
-- [How I Explored Recursion by Building a Simple Chatbot Using Python](https://dev.to/codecounsel/how-i-explored-recursion-by-building-a-simple-chatbot-using-python-2mc4)
+- [Firebase Security Rules: Effortless control over your app&#39;s data.](https://dev.to/codingcatdev/firebase-security-rules-effortless-control-over-your-apps-data-550m)
+- [Congrats to the Twilio Challenge Winners!](https://dev.to/devteam/congrats-to-the-twilio-challenge-winners-2b1n)
+- [Diving into .NET: From Confusion to Clarity](https://dev.to/ganatrajay2000/diving-into-net-from-confusion-to-clarity-9ck)
+- [From Hobbyist to Professional 🚀](https://dev.to/sushilmagare10/from-hobbyist-to-professional-3774)
+- [How to Create A Snake Game in HTML CSS &amp; JavaScript](https://dev.to/codingnepal/how-to-create-a-snake-game-in-html-css-javascript-2j0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
