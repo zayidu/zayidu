@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Supply Chain Security in Mobile App Development: Why is it Important? 📲](https://dev.to/bytehide/supply-chain-security-in-mobile-app-development-why-is-it-important-afd)
-- [MongoDB database cloud migration](https://dev.to/woovi/mongodb-database-cloud-migration-14ea)
-- [Going Pro](https://dev.to/aws-builders/going-pro-20m7)
-- [Building a Mock Data Generator with Google Sheets, Gemini AI &amp; ToolJet](https://dev.to/tooljet/building-a-mock-data-generator-with-google-sheets-gemini-ai-tooljet-24f2)
-- [The Magical World of Machine Learning at Hogwarts &lpar;Part #3&rpar;](https://dev.to/gerryleonugroho/the-magical-world-of-machine-learning-at-hogwarts-part-3-km2)
+- [Congrats to our first Computer Science Challenge Winners!](https://dev.to/devteam/congrats-to-our-first-computer-science-challenge-winners-2mg2)
+- [MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data](https://dev.to/mikeyoung44/mindeye2-shared-subject-models-enable-fmri-to-image-with-1-hour-of-data-9pi)
+- [i Build a Cli Tool like Shadcn for Nextjs😅](https://dev.to/random_ti/i-build-a-cli-tool-like-shadcn-for-nextjs-29e0)
+- [StreamBench: Towards Benchmarking Continuous Improvement of Language Agents](https://dev.to/mikeyoung44/streambench-towards-benchmarking-continuous-improvement-of-language-agents-5h0o)
+- [A Survey on Large Language Models for Recommendation](https://dev.to/mikeyoung44/a-survey-on-large-language-models-for-recommendation-37lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
