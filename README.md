@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [4090 - ECC ON vs ECC OFF](https://dev.to/maximsaplin/4090-ecc-on-vs-ecc-off-36m4)
-- [Building Your Own SpicyChat AI: A Developer&#39;s Guide](https://dev.to/elisaray/building-your-own-spicychat-ai-a-developers-guide-4l7h)
-- [Landing Page For Client](https://dev.to/pranav-29/landing-page-for-client-496p)
-- [Technical Documentation: The Story of a Failure](https://dev.to/umairk/technical-documentation-the-story-of-a-failure-3f10)
-- [9 Captivating Programming Challenges from LabEx 🚀](https://dev.to/labex/9-captivating-programming-challenges-from-labex-574h)
+- [For Engineers in a Hurry: A Guide for Implementing Security](https://dev.to/llxd/for-engineers-in-a-hurry-a-guide-for-implementing-security-1o8m)
+- [Build a real-time voting app with WebSockets, React &amp; TypeScript 🔌⚡️](https://dev.to/wasp/build-a-real-time-voting-app-with-websockets-react-typescript-3oof)
+- [String methods in JavaScript.! part&lpar;1&rpar;](https://dev.to/samandarhodiev/string-methods-in-javascript-part1-14h5)
+- [Cloud-based Tax Software vs. Tax Software Hosting Solutions](https://dev.to/him_tyagi/cloud-based-tax-software-vs-tax-software-hosting-solutions-2a02)
+- [What is GraphQl?](https://dev.to/sameer472/what-is-graphql-1bec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
