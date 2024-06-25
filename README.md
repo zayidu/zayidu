@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Public APIs for Web Development Projects](https://dev.to/vyan/public-apis-for-web-development-projects-lhk)
-- [React: No Test Coverage BABEL Type Error](https://dev.to/nani_moka/react-no-test-coverage-babel-type-error-1o5g)
-- [Set dtype with dtype argument functions and get it in PyTorch](https://dev.to/hyperkai/set-dtype-with-dtype-argument-functions-and-get-it-in-pytorch-13h2)
-- [Comparing 13 LLM Providers API Performance with Node.js: Latency and Response Times Across Models](https://dev.to/samestrin/comparing-13-llm-providers-api-performance-with-nodejs-latency-and-response-times-across-models-2ka4)
-- [Automatizing Git Branches Cleanup: Streamlining Your Workflow](https://dev.to/fernandomullerjr/automatizing-git-branches-cleanup-streamlining-your-workflow-1584)
+- [C++ 指向類別成員的指位器的實作細節](https://dev.to/codemee/c-zhi-xiang-lei-bie-cheng-yuan-de-zhi-wei-qi-de-shi-zuo-xi-jie-19f7)
+- [Introduction to the Periodic Table of DevOps Tools](https://dev.to/iaadidev/introduction-to-the-periodic-table-of-devops-tools-55bn)
+- [🔧 Advanced JavaScript Performance Optimization: Techniques and Patterns](https://dev.to/parthchovatiya/advanced-javascript-performance-optimization-techniques-and-patterns-26g0)
+- [Find the Largest Number: A Comprehensive C Programming Tutorial](https://dev.to/labex/find-the-largest-number-a-comprehensive-c-programming-tutorial-4jf)
+- [Effectively Marketing Devtools with Educational Content](https://dev.to/jeffmorhous/effectively-marketing-devtools-with-educational-content-iip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
