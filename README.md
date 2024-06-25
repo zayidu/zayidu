@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Openshift Kubernetes Distribution &lpar;OKD&rpar;](https://dev.to/lanamaulanna/openshift-kubernetes-distribution-okd-4g23)
-- [5 Unsuspected Ways You Can Already Be Documenting Your Projects &lpar;Without Even Knowing!&rpar;](https://dev.to/jaloplo/5-unsuspected-ways-you-can-already-be-documenting-your-projects-without-even-knowing-23af)
-- [Event loop in Node.js](https://dev.to/tofail/event-loop-in-nodejs-eoa)
-- [How to create fully functional Learning Management System React Native Mobile App?](https://dev.to/nadim_ch0wdhury/how-to-create-fully-functional-learning-management-system-react-native-mobile-app-3o16)
-- [Thank You For 10k followers on Dev.to!](https://dev.to/thekarlesi/thank-you-for-10k-followers-2ek2)
+- [Implementing the Cached Repository Pattern in C#](https://dev.to/ben-witt/implementing-the-cached-repository-pattern-in-c-o85)
+- [🧠 50 Outstanding WebDev Articles](https://dev.to/florianrappl/50-outstanding-webdev-articles-4b82)
+- [Building Your Own 2048 Game: Complete Instructions](https://dev.to/dk119819/step-by-step-2048-game-tutorial-569g)
+- [Deno : Let&#39;s Make JavaScript Uncomplicated. A Powerful NextGen JavaScript Runtime](https://dev.to/a4arpon/deno-lets-make-javascript-uncomplicated-a-powerful-nextgen-javascript-runtime-1h2o)
+- [In Excel, Search A Target Value And Hide Columns To Its Right](https://dev.to/judith677/in-excel-search-a-target-value-and-hide-columns-to-its-right-54a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
