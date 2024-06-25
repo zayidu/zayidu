@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to our first Computer Science Challenge Winners!](https://dev.to/devteam/congrats-to-our-first-computer-science-challenge-winners-2mg2)
-- [MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data](https://dev.to/mikeyoung44/mindeye2-shared-subject-models-enable-fmri-to-image-with-1-hour-of-data-9pi)
-- [i Build a Cli Tool like Shadcn for Nextjs😅](https://dev.to/random_ti/i-build-a-cli-tool-like-shadcn-for-nextjs-29e0)
-- [StreamBench: Towards Benchmarking Continuous Improvement of Language Agents](https://dev.to/mikeyoung44/streambench-towards-benchmarking-continuous-improvement-of-language-agents-5h0o)
-- [A Survey on Large Language Models for Recommendation](https://dev.to/mikeyoung44/a-survey-on-large-language-models-for-recommendation-37lf)
+- [Manipulating Elements](https://dev.to/__khojiakbar__/manipulating-elements-1m5g)
+- [Unlocking Affordable Storage Magic: Our Journey with Uploadthing! 🚀✨](https://dev.to/shu12388y/unlocking-affordable-storage-magic-our-journey-with-uploadthing-41ma)
+- [Implementing an Interceptor for RestClient &lpar;Java + Spring Boot&rpar;](https://dev.to/felipejansendev/implementing-an-interceptor-for-restclient-java-spring-boot-3h75)
+- [Real-Time Stream Processing with AWS Lambda and Kinesis: Building Real-Time Analytics Pipelines](https://dev.to/virajlakshitha/real-time-stream-processing-with-aws-lambda-and-kinesis-building-real-time-analytics-pipelines-da2)
+- [DEjango twilio mms fowarding](https://dev.to/tim_bennett_d721431c8295a/dejango-twilio-mms-fowarding-309b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
