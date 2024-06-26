@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an Interior AI Clone Using HTMX and ExpressJS](https://dev.to/mikeyny_zw/build-an-interior-ai-clone-using-htmx-and-expressjs-4mn6)
-- [How Does GenAI Powered Search Engine Work?](https://dev.to/ragavi_document360/how-does-genai-powered-search-engine-work-122n)
-- [How to draw a combination diagram with React](https://dev.to/simaq/how-to-draw-a-combination-diagram-with-react-362b)
-- [The combination chart and line chart are blocked, causing the tooltip to not be hover.](https://dev.to/simaq/the-combination-chart-and-line-chart-are-blocked-causing-the-tooltip-to-not-be-hover-4pdk)
-- [AWS IAM &amp; Cost Management](https://dev.to/ahsan598/aws-iam-cost-management-51ai)
+- [SuperDuperDB v0.2](https://dev.to/guerra2fernando/superduperdb-v02-1d0k)
+- [Understanding Behavior Driven Development &lpar;BDD&rpar;](https://dev.to/keploy/understanding-behavior-driven-development-bdd-26kc)
+- [Get Started With XDP e-BPF](https://dev.to/ahmed_abir/get-started-with-xdp-e-bpf-1a)
+- [Create full backend API with Nest JS for eCommerce website](https://dev.to/nadim_ch0wdhury/create-full-backend-api-with-nest-js-for-ecommerce-website-59ae)
+- [Introducing Thin: The App for Rapid, Concise Content Sharing](https://dev.to/frulow/introducing-thin-the-app-for-rapid-concise-content-sharing-9pp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
