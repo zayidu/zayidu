@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SuperDuperDB v0.2](https://dev.to/guerra2fernando/superduperdb-v02-1d0k)
-- [Understanding Behavior Driven Development &lpar;BDD&rpar;](https://dev.to/keploy/understanding-behavior-driven-development-bdd-26kc)
-- [Get Started With XDP e-BPF](https://dev.to/ahmed_abir/get-started-with-xdp-e-bpf-1a)
-- [Create full backend API with Nest JS for eCommerce website](https://dev.to/nadim_ch0wdhury/create-full-backend-api-with-nest-js-for-ecommerce-website-59ae)
-- [Introducing Thin: The App for Rapid, Concise Content Sharing](https://dev.to/frulow/introducing-thin-the-app-for-rapid-concise-content-sharing-9pp)
+- [Star Rating](https://dev.to/sportivearavind/star-rating-57da)
+- [Understanding Lazy Initialization in Spring Boot](https://dev.to/tharindufdo/understanding-lazy-initialization-in-spring-boot-2fbd)
+- [TypeScript What &#39;string &amp; {}&#39; mean meaning?](https://dev.to/nhannguyendevjs/typescript-what-string-mean-meaning-2f70)
+- [Bishop on Chessboard](https://dev.to/sportivearavind/bishop-on-chessboard-45p2)
+- [Back2Basics: Monitoring Workloads on Amazon EKS](https://dev.to/aws-builders/back2basics-monitoring-workloads-on-amazon-eks-4442)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
