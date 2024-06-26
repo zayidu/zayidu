@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DAY 17: Docker Project for DevOps Engineers](https://dev.to/oncloud7/day-17-docker-project-for-devops-engineers-45cp)
-- [The Complete Guide to Serverless Apps I - Introduction](https://dev.to/fermyon/the-complete-guide-to-serverless-apps-i-introduction-1ga4)
-- [C# event-driven programming with delegates and events.](https://dev.to/emanuelgustafzon/c-event-driven-programming-with-delegates-and-events-47lh)
-- [Front-End Technologies](https://dev.to/pothuganti_arun_920006d12/front-end-technologies-58jn)
-- [Mastering SOLID Principles in Java: A Practical Guide](https://dev.to/adaumircosta/mastering-solid-principles-in-java-a-practical-guide-10kb)
+- [[DAY 63-65] I built a markdown previewer using React](https://dev.to/thomascansino/day-63-65-i-built-a-markdown-previewer-18a4)
+- [alternate way of doing word split/phrase segmentation in python](https://dev.to/alexey_27/alternate-way-of-doing-word-splitphrase-segmentation-in-python-pj1)
+- [EDR vs. XDR vs. SIEM vs. MDR vs. SOAR](https://dev.to/sachindra149/edr-vs-xdr-vs-siem-vs-mdr-vs-soar-2blp)
+- [Blog: Creating, Modifying, and Destroying an EC2 Instance and Hosting a Static Website Using S3 in AWS with Terraform](https://dev.to/jeshlin_pv_1628a63168e90/blog-creating-modifying-and-destroying-an-ec2-instance-and-hosting-a-static-website-using-s3-in-aws-with-terraform-11md)
+- [How to Implement a Data-Driven Marketing Strategy to Improve ROI](https://dev.to/mlpds011/how-to-implement-a-data-driven-marketing-strategy-to-improve-roi-45k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
