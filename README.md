@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Slack emojis that developers should use](https://dev.to/gabrielpineda/10-slack-emojis-that-developers-should-use-387c)
-- [ChatGPT: Más que un Asistente, un Confidente en la Era Digital](https://dev.to/jzchannel03/chatgpt-mas-que-un-asistente-un-confidente-en-la-era-digital-555)
-- [6 Reasons Your Documentation Efforts Might Be a Waste of Time &lpar;And How to Fix It&rpar;](https://dev.to/ifrah/6-reasons-your-documentation-efforts-might-be-a-waste-of-time-and-how-to-fix-it-aol)
-- [Demasiados frameworks de JS, pero por qué?](https://dev.to/jzchannel03/demasiados-frameworks-de-js-pero-por-que-25n6)
-- [Mastering Contrast in UI Design: Enhancing User Experience Through Visual Dynamics](https://dev.to/prince_chouhan/mastering-contrast-in-ui-design-enhancing-user-experience-through-visual-dynamics-1njh)
+- [ACCELERATING DEVOPS TESTING: Advanced Parallel Testing Techniques with Python](https://dev.to/davidbosah/accelerating-devops-testing-advanced-parallel-testing-techniques-with-python-6ka)
+- [Understanding Array Data Structures](https://dev.to/m__mdy__m/understanding-array-data-structures-8do)
+- [Memory management and other weird blobs](https://dev.to/artiumws/memory-management-and-other-weird-blobs-36bj)
+- [🎯 Elevate Your TypeScript Skills with `type-guards-ts`!](https://dev.to/geraldhamiltonwicks/elevate-your-typescript-skills-with-type-guards-ts-36k7)
+- [Introdução à linguagens de programação](https://dev.to/moprius/introducao-a-linguagens-de-programacao-4j90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
