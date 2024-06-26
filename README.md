@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [There is no excuse to not start improving accessibility](https://dev.to/pancompany/there-is-no-excuse-to-not-start-improving-accessibility-50hj)
-- [Watercooler Wednesday](https://dev.to/ben/watercooler-wednesday-4mm9)
-- [Boletín AWS Open Source, June Edition](https://dev.to/iaasgeek/boletin-aws-open-source-june-edition-3go3)
-- [Mastering the Virtual DOM in JavaScript: Your Gateway to Efficient UI Updates 🚀](https://dev.to/gadekar_sachin/mastering-the-virtual-dom-in-javascript-your-gateway-to-efficient-ui-updates-3eda)
-- [I am looking for new role](https://dev.to/william_jin_a67c15000737b/i-am-looking-for-new-role-2k0a)
+- [Build an Interior AI Clone Using HTMX and ExpressJS](https://dev.to/mikeyny_zw/build-an-interior-ai-clone-using-htmx-and-expressjs-4mn6)
+- [How Does GenAI Powered Search Engine Work?](https://dev.to/ragavi_document360/how-does-genai-powered-search-engine-work-122n)
+- [How to draw a combination diagram with React](https://dev.to/simaq/how-to-draw-a-combination-diagram-with-react-362b)
+- [The combination chart and line chart are blocked, causing the tooltip to not be hover.](https://dev.to/simaq/the-combination-chart-and-line-chart-are-blocked-causing-the-tooltip-to-not-be-hover-4pdk)
+- [AWS IAM &amp; Cost Management](https://dev.to/ahsan598/aws-iam-cost-management-51ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
