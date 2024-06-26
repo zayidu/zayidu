@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why do we need clean code?](https://dev.to/wraith/why-do-we-need-clean-code-1cea)
-- [Day 22 of 30 of JavaScript](https://dev.to/akshat0610/day-22-of-30-of-javascript-2omi)
-- [Flutter liveness: 300% performance enhance](https://dev.to/jodamco/flutter-liveness-300-performance-enhance-3kkh)
-- [Creating a Virtual Machine Scale-Set in Azure &lpar;VMSS&rpar;.](https://dev.to/laoluafolami/creating-a-virtual-machine-scale-set-in-azure-vmss-21g9)
-- [Control Rate Limit using Queues](https://dev.to/woovi/control-rate-limit-using-queues-eh5)
+- [Build an AI-Powered Resume &amp; Cover Letter Generator &lpar;CopilotKit, LangChain, Tavily &amp; Next.js&rpar;](https://dev.to/copilotkit/build-an-ai-powered-resume-cover-letter-generator-copilotkit-langchain-tavily-nextjs-1nkc)
+- [Git Branch Management](https://dev.to/abir101/git-branch-management-1170)
+- [Segunda parte: Definiciones/Conceptos del día a día](https://dev.to/alfredtester/segunda-parte-definicionesconceptos-del-dia-a-dia-4oa2)
+- [How even the simplest RAG can empower your team](https://dev.to/bitcrowd/how-even-the-simplest-rag-can-empower-your-team-15ai)
+- [Predictive Maintenance of vehicles in the Automotive Industry](https://dev.to/ludwig023/predictive-maintenance-of-vehicles-in-the-automotive-industry-46d5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
