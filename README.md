@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Transactions : Concurrency Control](https://dev.to/aharmaz/database-transactions-concurrency-control-1h6i)
-- [Differences between Asp.net and Asp.net Core](https://dev.to/pains_arch/differences-between-aspnet-and-aspnet-core-23o7)
-- [Top 5 Must-Ask Questions About Your Career in IT](https://dev.to/usulpro/top-5-must-ask-questions-about-your-career-in-it-2245)
-- [1382. Balance a Binary Search Tree](https://dev.to/mdarifulhaque/1382-balance-a-binary-search-tree-1bj8)
-- [Running pgAdmin to manage a PostgreSQL cluster in Kubernetes](https://dev.to/dbazhenov/running-pgadmin-to-manage-a-postgresql-cluster-in-kubernetes-616)
+- [Studying for the AWS SAA](https://dev.to/tklevits/studying-for-the-aws-saa-4000)
+- [React Server Component is perfect for Backends-for-Frontends](https://dev.to/yaodingyd/react-server-component-is-perfect-for-backends-for-frontends-123n)
+- [A Disposable Firefox Instance](https://dev.to/terminaldweller/a-disposable-firefox-instance-3p03)
+- [RES-Q: Evaluating Code-Editing Large Language Model Systems at the Repository Scale](https://dev.to/mikeyoung44/res-q-evaluating-code-editing-large-language-model-systems-at-the-repository-scale-1p6d)
+- [WARP: On the Benefits of Weight Averaged Rewarded Policies](https://dev.to/mikeyoung44/warp-on-the-benefits-of-weight-averaged-rewarded-policies-4mj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
