@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Studying for the AWS SAA](https://dev.to/tklevits/studying-for-the-aws-saa-4000)
-- [React Server Component is perfect for Backends-for-Frontends](https://dev.to/yaodingyd/react-server-component-is-perfect-for-backends-for-frontends-123n)
-- [A Disposable Firefox Instance](https://dev.to/terminaldweller/a-disposable-firefox-instance-3p03)
-- [RES-Q: Evaluating Code-Editing Large Language Model Systems at the Repository Scale](https://dev.to/mikeyoung44/res-q-evaluating-code-editing-large-language-model-systems-at-the-repository-scale-1p6d)
-- [WARP: On the Benefits of Weight Averaged Rewarded Policies](https://dev.to/mikeyoung44/warp-on-the-benefits-of-weight-averaged-rewarded-policies-4mj)
+- [10 Slack emojis that developers should use](https://dev.to/gabrielpineda/10-slack-emojis-that-developers-should-use-387c)
+- [ChatGPT: Más que un Asistente, un Confidente en la Era Digital](https://dev.to/jzchannel03/chatgpt-mas-que-un-asistente-un-confidente-en-la-era-digital-555)
+- [6 Reasons Your Documentation Efforts Might Be a Waste of Time &lpar;And How to Fix It&rpar;](https://dev.to/ifrah/6-reasons-your-documentation-efforts-might-be-a-waste-of-time-and-how-to-fix-it-aol)
+- [Demasiados frameworks de JS, pero por qué?](https://dev.to/jzchannel03/demasiados-frameworks-de-js-pero-por-que-25n6)
+- [Mastering Contrast in UI Design: Enhancing User Experience Through Visual Dynamics](https://dev.to/prince_chouhan/mastering-contrast-in-ui-design-enhancing-user-experience-through-visual-dynamics-1njh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
