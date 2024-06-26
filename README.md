@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cornerstones of Ethical Software Development: Privacy, Transparency, Fairness, Security, and Accountability](https://dev.to/andresordazrs/the-cornerstones-of-ethical-software-development-privacy-transparency-fairness-security-and-accountability-296c)
-- [Monitor the Performance of Your Ruby on Rails Application Using AppSignal](https://dev.to/appsignal/monitor-the-performance-of-your-ruby-on-rails-application-using-appsignal-2bih)
-- [⚙️ How do you manage your infra code? ⚙️](https://dev.to/cyclops-ui/how-do-you-manage-your-infra-code-390e)
-- [Google Unveils AlphaFold3 for Predicting Behavior of Human Molecules](https://dev.to/hyscaler/google-unveils-alphafold3-for-predicting-behavior-of-human-molecules-2e8e)
-- [🎉 Fullstack CRUD in Next.js Server Actions, React.js, Typescript, TailwindCSS and PostgresSQL on Neon](https://dev.to/chaoocharles/fullstack-crud-in-nextjs-server-actions-reactjs-typescript-tailwindcss-and-postgressql-on-neon-4oha)
+- [Why do we need clean code?](https://dev.to/wraith/why-do-we-need-clean-code-1cea)
+- [Day 22 of 30 of JavaScript](https://dev.to/akshat0610/day-22-of-30-of-javascript-2omi)
+- [Flutter liveness: 300% performance enhance](https://dev.to/jodamco/flutter-liveness-300-performance-enhance-3kkh)
+- [Creating a Virtual Machine Scale-Set in Azure &lpar;VMSS&rpar;.](https://dev.to/laoluafolami/creating-a-virtual-machine-scale-set-in-azure-vmss-21g9)
+- [Control Rate Limit using Queues](https://dev.to/woovi/control-rate-limit-using-queues-eh5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
