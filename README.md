@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Guide to Mastering JavaScript Object Methods](https://dev.to/dk119819/ultimate-guide-to-mastering-javascript-object-methods-o0i)
-- [How to Determine API Slow Downs, Part 2](https://dev.to/lazypro/how-to-determine-api-slow-downs-part-2-433)
-- [Finding and fixing exposed hardcoded secrets in your GitHub project with Snyk](https://dev.to/snyk/finding-and-fixing-exposed-hardcoded-secrets-in-your-github-project-with-snyk-3ldl)
-- [How to Quickly Drive Traffic to Your Website](https://dev.to/juddiy/how-to-quickly-drive-traffic-to-your-website-2dlp)
-- [Terraform Basics](https://dev.to/sanjaikumar2311/terraform-basics-1d2j)
+- [Troubleshooting Heap Memory Errors in Sitecore XM Cloud Next.js Projects](https://dev.to/sebasab/troubleshooting-heap-memory-errors-in-sitecore-xm-cloud-nextjs-projects-bl6)
+- [Enterprise Software Development: A Comprehensive Workflow Overview Example](https://dev.to/vyan/enterprise-software-development-a-comprehensive-workflow-overview-example-2jfn)
+- [Uploading Files to Amazon S3 in a Next.js Application Using AWS SDK v3](https://dev.to/sh20raj/uploading-files-to-amazon-s3-in-a-nextjs-application-using-aws-sdk-v3-21a2)
+- [How to create a Node.js web server with cPanel](https://dev.to/_briannw/how-to-create-a-nodejs-web-server-with-cpanel-21lb)
+- [Closures in JS 🔒](https://dev.to/bibschan/closures-in-js-1gik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
