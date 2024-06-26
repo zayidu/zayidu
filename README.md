@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON – JavaScript Object Notation](https://dev.to/n3rdnerd/json-javascript-object-notation-5ad2)
-- [🚀 Connecting to Databases with Node.js: MongoDB and Mongoose 🌐](https://dev.to/erasmuskotoka/connecting-to-databases-with-nodejs-mongodb-and-mongoose-2bdd)
-- [How I making my career transition and why?](https://dev.to/devmarianasouza/how-i-making-my-career-transition-and-why-17i0)
-- [Day 978 : Rain](https://dev.to/dwane/day-978-rain-pd6)
-- [Resourcely founder-led in person or virtual hands-on workshop](https://dev.to/resourcely/resourcely-founder-led-in-person-or-virtual-hands-on-workshop-1o46)
+- [How to accept Cash App payments on your Node.js web server without Cash App Pay!](https://dev.to/_briannw/how-to-accept-cash-app-payments-on-your-nodejs-web-server-without-cash-app-pay-1k7g)
+- [WebRTC in WebView in IOS](https://dev.to/alakkadshaw/webrtc-in-webview-in-ios-ci2)
+- [Understanding Cross-Site Scripting &lpar;XSS&rpar; Attacks and Prevention](https://dev.to/kartikmehta8/understanding-cross-site-scripting-xss-attacks-and-prevention-c59)
+- [Estratégias de cache | Cache Strategies](https://dev.to/jonasbarros/estrategias-de-cache-cache-strategies-klk)
+- [How to Write your First C++ Program on the Raspberry Pi Pico](https://dev.to/shilleh/how-to-write-your-first-c-program-on-the-raspberry-pi-pico-25h2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
