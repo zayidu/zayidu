@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing PicRanker: Your Ultimate Image Categorization and Management App.🚀](https://dev.to/dharamgfx/introducing-picranker-your-ultimate-image-categorization-and-management-app-4o57)
-- [Learn How to Use Postman for Sending POST Requests](https://dev.to/satokenta/learn-how-to-use-postman-for-sending-post-requests-4hff)
-- [Healthcare Web Application Development: Definition, Process and Cost](https://dev.to/bytesfarms/healthcare-web-application-development-definition-process-and-cost-3j2)
-- [Introducing Crisp Chat: Enhance Your Flutter Apps with Real-time Customer Support](https://dev.to/alaminkarno/introducing-crisp-chat-enhance-your-flutter-apps-with-real-time-customer-support-nfe)
-- [Adding search to a static Astro website](https://dev.to/thomasledoux1/adding-search-to-a-static-astro-website-3m0p)
+- [The Cornerstones of Ethical Software Development: Privacy, Transparency, Fairness, Security, and Accountability](https://dev.to/andresordazrs/the-cornerstones-of-ethical-software-development-privacy-transparency-fairness-security-and-accountability-296c)
+- [Monitor the Performance of Your Ruby on Rails Application Using AppSignal](https://dev.to/appsignal/monitor-the-performance-of-your-ruby-on-rails-application-using-appsignal-2bih)
+- [⚙️ How do you manage your infra code? ⚙️](https://dev.to/cyclops-ui/how-do-you-manage-your-infra-code-390e)
+- [Google Unveils AlphaFold3 for Predicting Behavior of Human Molecules](https://dev.to/hyscaler/google-unveils-alphafold3-for-predicting-behavior-of-human-molecules-2e8e)
+- [🎉 Fullstack CRUD in Next.js Server Actions, React.js, Typescript, TailwindCSS and PostgresSQL on Neon](https://dev.to/chaoocharles/fullstack-crud-in-nextjs-server-actions-reactjs-typescript-tailwindcss-and-postgressql-on-neon-4oha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
