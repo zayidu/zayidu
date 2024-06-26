@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshooting Heap Memory Errors in Sitecore XM Cloud Next.js Projects](https://dev.to/sebasab/troubleshooting-heap-memory-errors-in-sitecore-xm-cloud-nextjs-projects-bl6)
-- [Enterprise Software Development: A Comprehensive Workflow Overview Example](https://dev.to/vyan/enterprise-software-development-a-comprehensive-workflow-overview-example-2jfn)
-- [Uploading Files to Amazon S3 in a Next.js Application Using AWS SDK v3](https://dev.to/sh20raj/uploading-files-to-amazon-s3-in-a-nextjs-application-using-aws-sdk-v3-21a2)
-- [How to create a Node.js web server with cPanel](https://dev.to/_briannw/how-to-create-a-nodejs-web-server-with-cpanel-21lb)
-- [Closures in JS 🔒](https://dev.to/bibschan/closures-in-js-1gik)
+- [🚀 Understanding the V8 Engine: Optimizing JavaScript for Peak Performance](https://dev.to/parthchovatiya/understanding-the-v8-engine-optimizing-javascript-for-peak-performance-1c9b)
+- [Streaming Camera with C++ WebRTC GStreamer](https://dev.to/ethand91/streaming-camera-with-c-webrtc-gstreamer-pof)
+- [How ChatGPT Works: The Model Behind The Bot](https://dev.to/manojgohel/how-chatgpt-works-the-model-behind-the-bot-195j)
+- [How to Manage On-premise Infrastructure with Terraform](https://dev.to/spacelift/how-to-manage-on-premise-infrastructure-with-terraform-4f2)
+- [Padronização de Respostas de Erro em APIs com RFC-9457: Implementando no Spring Framework](https://dev.to/dsb88/padronizacao-de-respostas-de-erro-em-apis-com-rfc-9457-implementando-no-spring-framework-4kk0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
