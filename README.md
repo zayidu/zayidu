@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Ultimate Guide to Mastering JavaScript Object Methods](https://dev.to/dk119819/ultimate-guide-to-mastering-javascript-object-methods-o0i)
+- [How to Determine API Slow Downs, Part 2](https://dev.to/lazypro/how-to-determine-api-slow-downs-part-2-433)
 - [Finding and fixing exposed hardcoded secrets in your GitHub project with Snyk](https://dev.to/snyk/finding-and-fixing-exposed-hardcoded-secrets-in-your-github-project-with-snyk-3ldl)
 - [How to Quickly Drive Traffic to Your Website](https://dev.to/juddiy/how-to-quickly-drive-traffic-to-your-website-2dlp)
 - [Terraform Basics](https://dev.to/sanjaikumar2311/terraform-basics-1d2j)
-- [Amazon S3 Storage Classes](https://dev.to/sachithmayantha/amazon-s3-storage-classes-1kjn)
-- [Ultimate Guide to Mastering JavaScript Array Methods](https://dev.to/dk119819/ultimate-guide-to-mastering-javascript-array-methods-2m1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
