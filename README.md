@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI-Powered Resume &amp; Cover Letter Generator &lpar;CopilotKit, LangChain, Tavily &amp; Next.js&rpar;](https://dev.to/copilotkit/build-an-ai-powered-resume-cover-letter-generator-copilotkit-langchain-tavily-nextjs-1nkc)
-- [Git Branch Management](https://dev.to/abir101/git-branch-management-1170)
-- [Segunda parte: Definiciones/Conceptos del día a día](https://dev.to/alfredtester/segunda-parte-definicionesconceptos-del-dia-a-dia-4oa2)
-- [How even the simplest RAG can empower your team](https://dev.to/bitcrowd/how-even-the-simplest-rag-can-empower-your-team-15ai)
-- [Predictive Maintenance of vehicles in the Automotive Industry](https://dev.to/ludwig023/predictive-maintenance-of-vehicles-in-the-automotive-industry-46d5)
+- [DAY 17: Docker Project for DevOps Engineers](https://dev.to/oncloud7/day-17-docker-project-for-devops-engineers-45cp)
+- [The Complete Guide to Serverless Apps I - Introduction](https://dev.to/fermyon/the-complete-guide-to-serverless-apps-i-introduction-1ga4)
+- [C# event-driven programming with delegates and events.](https://dev.to/emanuelgustafzon/c-event-driven-programming-with-delegates-and-events-47lh)
+- [Front-End Technologies](https://dev.to/pothuganti_arun_920006d12/front-end-technologies-58jn)
+- [Mastering SOLID Principles in Java: A Practical Guide](https://dev.to/adaumircosta/mastering-solid-principles-in-java-a-practical-guide-10kb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
