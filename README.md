@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 14: App with OpenAI API Integration](https://dev.to/wadizaatour/nextjs-14-app-with-openai-api-integration-293k)
-- [Why single sign-on &lpar;SSO&rpar; is better](https://dev.to/logto/why-single-sign-on-sso-is-better-4maf)
-- [In Excel, Re-arrange A Sequence N Times Randomly](https://dev.to/judith677/in-excel-re-arrange-a-sequence-n-times-randomly-3g0d)
-- [Unlock Your Coding Potential with &quot;Data Structures and Algorithms&quot; 🔑](https://dev.to/getvm/unlock-your-coding-potential-with-data-structures-and-algorithms-hdf)
-- [Top Node.js Backend Frameworks for 2024](https://dev.to/3a5abi/top-nodejs-backend-frameworks-for-2024-4f57)
+- [There is no excuse to not start improving accessibility](https://dev.to/pancompany/there-is-no-excuse-to-not-start-improving-accessibility-50hj)
+- [Watercooler Wednesday](https://dev.to/ben/watercooler-wednesday-4mm9)
+- [Boletín AWS Open Source, June Edition](https://dev.to/iaasgeek/boletin-aws-open-source-june-edition-3go3)
+- [Mastering the Virtual DOM in JavaScript: Your Gateway to Efficient UI Updates 🚀](https://dev.to/gadekar_sachin/mastering-the-virtual-dom-in-javascript-your-gateway-to-efficient-ui-updates-3eda)
+- [I am looking for new role](https://dev.to/william_jin_a67c15000737b/i-am-looking-for-new-role-2k0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
