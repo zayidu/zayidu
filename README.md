@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Understanding the V8 Engine: Optimizing JavaScript for Peak Performance](https://dev.to/parthchovatiya/understanding-the-v8-engine-optimizing-javascript-for-peak-performance-1c9b)
-- [Streaming Camera with C++ WebRTC GStreamer](https://dev.to/ethand91/streaming-camera-with-c-webrtc-gstreamer-pof)
-- [How ChatGPT Works: The Model Behind The Bot](https://dev.to/manojgohel/how-chatgpt-works-the-model-behind-the-bot-195j)
-- [How to Manage On-premise Infrastructure with Terraform](https://dev.to/spacelift/how-to-manage-on-premise-infrastructure-with-terraform-4f2)
-- [Padronização de Respostas de Erro em APIs com RFC-9457: Implementando no Spring Framework](https://dev.to/dsb88/padronizacao-de-respostas-de-erro-em-apis-com-rfc-9457-implementando-no-spring-framework-4kk0)
+- [Next.js 14: App with OpenAI API Integration](https://dev.to/wadizaatour/nextjs-14-app-with-openai-api-integration-293k)
+- [Why single sign-on &lpar;SSO&rpar; is better](https://dev.to/logto/why-single-sign-on-sso-is-better-4maf)
+- [In Excel, Re-arrange A Sequence N Times Randomly](https://dev.to/judith677/in-excel-re-arrange-a-sequence-n-times-randomly-3g0d)
+- [Unlock Your Coding Potential with &quot;Data Structures and Algorithms&quot; 🔑](https://dev.to/getvm/unlock-your-coding-potential-with-data-structures-and-algorithms-hdf)
+- [Top Node.js Backend Frameworks for 2024](https://dev.to/3a5abi/top-nodejs-backend-frameworks-for-2024-4f57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
