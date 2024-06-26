@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Star Rating](https://dev.to/sportivearavind/star-rating-57da)
-- [Understanding Lazy Initialization in Spring Boot](https://dev.to/tharindufdo/understanding-lazy-initialization-in-spring-boot-2fbd)
-- [TypeScript What &#39;string &amp; {}&#39; mean meaning?](https://dev.to/nhannguyendevjs/typescript-what-string-mean-meaning-2f70)
-- [Bishop on Chessboard](https://dev.to/sportivearavind/bishop-on-chessboard-45p2)
-- [Back2Basics: Monitoring Workloads on Amazon EKS](https://dev.to/aws-builders/back2basics-monitoring-workloads-on-amazon-eks-4442)
+- [Introducing PicRanker: Your Ultimate Image Categorization and Management App.🚀](https://dev.to/dharamgfx/introducing-picranker-your-ultimate-image-categorization-and-management-app-4o57)
+- [Learn How to Use Postman for Sending POST Requests](https://dev.to/satokenta/learn-how-to-use-postman-for-sending-post-requests-4hff)
+- [Healthcare Web Application Development: Definition, Process and Cost](https://dev.to/bytesfarms/healthcare-web-application-development-definition-process-and-cost-3j2)
+- [Introducing Crisp Chat: Enhance Your Flutter Apps with Real-time Customer Support](https://dev.to/alaminkarno/introducing-crisp-chat-enhance-your-flutter-apps-with-real-time-customer-support-nfe)
+- [Adding search to a static Astro website](https://dev.to/thomasledoux1/adding-search-to-a-static-astro-website-3m0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
