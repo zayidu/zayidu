@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding and fixing exposed hardcoded secrets in your GitHub project with Snyk](https://dev.to/snyk/finding-and-fixing-exposed-hardcoded-secrets-in-your-github-project-with-snyk-3ldl)
+- [How to Quickly Drive Traffic to Your Website](https://dev.to/juddiy/how-to-quickly-drive-traffic-to-your-website-2dlp)
+- [Terraform Basics](https://dev.to/sanjaikumar2311/terraform-basics-1d2j)
+- [Amazon S3 Storage Classes](https://dev.to/sachithmayantha/amazon-s3-storage-classes-1kjn)
 - [Ultimate Guide to Mastering JavaScript Array Methods](https://dev.to/dk119819/ultimate-guide-to-mastering-javascript-array-methods-2m1c)
-- [Creating a nextjs chat app for learning to integrate sockets](https://dev.to/caresle/creating-a-nextjs-chat-app-for-learning-to-integrate-sockets-34af)
-- [Ilya Sutskever&#39;s Vision: Safe Superintelligent AI](https://dev.to/frtechy/ilya-sutskevers-vision-safe-superintelligent-ai-17n2)
-- [How to Customize Your GitHub Profile: Part 2](https://dev.to/ryoichihomma/how-to-customize-your-github-profile-part-2-32g2)
-- [Essential DevOps Principles for Beginners](https://dev.to/iaadidev/essential-devops-principles-for-beginners-14on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
