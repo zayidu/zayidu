@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Technologies](https://dev.to/sardiusjay/frontend-technologies-2c27)
-- [Umbraco Helper Labels](https://dev.to/phil_93fe5acfd2fc42/umbraco-helper-labels-3okc)
-- [Practical usages of Idempotency](https://dev.to/woovi/practical-usages-of-idempotency-3926)
-- [Easy image management for MDX blogs](https://dev.to/indyman/frictionless-image-management-for-mdx-blogs-4015)
-- [5 Great Reasons Why Manual Testing is Not Efficient](https://dev.to/morrismoses149/5-great-reasons-why-manual-testing-is-not-efficient-23b9)
+- [Design Patterns](https://dev.to/oigorrudel/design-patterns-agb)
+- [Don&#39;t write npx prisma generate command](https://dev.to/ashsajal/dont-write-npx-prisma-generate-command-42i6)
+- [Showing progress for page transitions in Next.js](https://dev.to/logrocket/showing-progress-for-page-transitions-in-nextjs-878)
+- [AWS Foundation - Root Account, I.A.M and how to not get a $500 Bill](https://dev.to/pokkan70/aws-foundation-root-account-iam-and-how-to-not-get-a-500-bill-5b32)
+- [Interesting Things I learned Writing Rspec Tests](https://dev.to/sakuramilktea/interesting-things-i-learned-writing-rspec-tests-3o4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
