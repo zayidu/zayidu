@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-4o — Are We Being LIED To?](https://dev.to/safdarali/gpt-4o-are-we-being-lied-to-4h0d)
-- [Optimizing the API Lifecycle: A Complete Guide](https://dev.to/getambassador2024/optimizing-the-api-lifecycle-a-complete-guide-i4c)
-- [Enhancing Performance in Your React Application](https://dev.to/msubhro/enhancing-performance-in-your-react-application-4pno)
-- [Stop using one table for your client&#39;s](https://dev.to/alfianriv/stop-using-one-table-for-your-clients-4d67)
-- [Introduction to Flask Package for Building APIs for React](https://dev.to/plug_panther_3129828fadf0/introduction-to-flask-package-for-building-apis-for-react-p9l)
+- [How to develop comprehensive food delivery React Native mobile app?](https://dev.to/nadim_ch0wdhury/how-to-develop-comprehensive-food-delivery-react-native-mobile-app-2lap)
+- [Connect a VM with VS Code for Remote Development](https://dev.to/arabian619/connect-a-vm-with-vs-code-for-remote-development-50n7)
+- [aa](https://dev.to/ducanhmoi/a-95n)
+- [GBase 8c SQL Performance Optimization with Sharding Keys](https://dev.to/congcong/gbase-8c-sql-performance-optimization-with-sharding-keys-32f5)
+- [GBase 8c SQL Performance Optimization with Sharding Keys](https://dev.to/congcong/gbase-8c-sql-performance-optimization-with-sharding-keys-2844)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
