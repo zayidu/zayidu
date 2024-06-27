@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #126: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-126-explica-este-codigo-python-bc6)
-- [The Adventures of Blink #29: How to Unalive Your Company](https://dev.to/linkbenjamin/the-adventures-of-blink-29-how-to-unalive-your-company-11i9)
-- [Building Advanced Chatbots with MindsDB: A Comprehensive Guide](https://dev.to/visheshrwl/building-advanced-chatbots-with-mindsdb-a-comprehensive-guide-6fk)
-- [Learn CSS Positions: with Real Examples](https://dev.to/jitendrachoudhary/learn-css-positions-with-real-examples-4kbd)
-- [Understanding JWT and Bearer Tokens: What Every Developer Should Know](https://dev.to/satokenta/understanding-jwt-and-bearer-tokens-what-every-developer-should-know-35j8)
+- [How to Manage Terraform Locals](https://dev.to/env0/how-to-manage-terraform-locals-4onb)
+- [Python Built-in Functions](https://dev.to/harshm03/python-built-in-functions-4m5f)
+- [Python Collections](https://dev.to/harshm03/python-collections-33m1)
+- [Building a Job Search Function with Prisma in Next.js](https://dev.to/ashsajal/building-a-job-search-function-with-prisma-in-nextjs-2m8f)
+- [Python Strings](https://dev.to/harshm03/python-strings-bo6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
