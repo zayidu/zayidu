@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable API with NestJS: A Comprehensive Guide](https://dev.to/3a5abi/building-a-scalable-api-with-nestjs-a-comprehensive-guide-15jj)
-- [Building a Custom Analytics Dashboard with React and D3.js](https://dev.to/kartikmehta8/building-a-custom-analytics-dashboard-with-react-and-d3js-3amf)
-- [🚀 Authentication and Authorization in Node.js 🚀](https://dev.to/erasmuskotoka/authentication-and-authorization-in-nodejs-4j5b)
-- [Como Escanear Portas em um Website com Python](https://dev.to/moprius/como-escanear-portas-em-um-website-com-python-bdm)
-- [Boost Your Vocabulary Effortlessly with Vocabulary Booster!](https://dev.to/huseyn0w/boost-your-vocabulary-effortlessly-with-vocabulary-booster-11fd)
+- [understanding react hooks](https://dev.to/yelldutz/understanding-react-hooks-3e69)
+- [Empowering Diversity: Imposter Syndrome and Economic Inclusion in Tech Worldwide](https://dev.to/frtechy/empowering-diversity-imposter-syndrome-and-economic-inclusion-in-tech-worldwide-59pe)
+- [How to Memoize Client-Side Fetched Data in Next.js Using the App Router](https://dev.to/sh20raj/how-to-memoize-client-side-fetched-data-in-nextjs-using-the-app-router-2fp7)
+- [Gym Planner | My Coding Adventure as a Code Newbie](https://dev.to/s-city/gym-planner-my-coding-adventure-as-a-code-newbie-h8p)
+- [Understanding Network Access Control Lists and Security Groups in AWS](https://dev.to/aws-builders/understanding-network-access-control-lists-and-security-groups-in-aws-3bk4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
