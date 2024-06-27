@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Revolution of 3D Printing in Construction Lower Costs Faster Builds](https://dev.to/eric_dequ/the-revolution-of-3d-printing-in-construction-lower-costs-faster-builds-3e8o)
-- [PHP Version of console.log&lpar;&rpar; for Laravel](https://dev.to/scaleupsaas/php-version-of-consolelog-for-laravel-4pl7)
-- [Display A Text File In A Browser](https://dev.to/theholyspirit/display-a-text-file-in-a-browser-5202)
-- [Elevating Construction The Impact of Drones and LiDAR Technology](https://dev.to/eric_dequ/elevating-construction-the-impact-of-drones-and-lidar-technology-3lcf)
-- [Computer Vision Meetup: Leveraging Pre-trained Text2Image Diffusion Models for Zero-Shot Video Editing](https://dev.to/jguerrero-voxel51/computer-vision-meetup-leveraging-pre-trained-text2image-diffusion-models-for-zero-shot-video-editing-3a3a)
+- [THE DIFFERENT BETWEEN LIBRARY AND FRAMEWORK AND NOT USING BOTH WITH REAL LIFE  ILLUSTRATIONS](https://dev.to/abdulsalamamtech/the-different-between-library-and-framework-and-not-using-both-with-real-life-illustrations-48o4)
+- [Integrating RTMP and WebRTC for Real-Time Streaming](https://dev.to/harshitk/integrating-rtmp-and-webrtc-for-real-time-streaming-2lbb)
+- [Comparing two different frontend technologies: React and Angular](https://dev.to/famzyjr/comparing-two-different-frontend-technologies-react-and-angular-5f58)
+- [ICAM Cutting-Edge Identity Management for Optimal Security](https://dev.to/eric_dequ/icam-cutting-edge-identity-management-for-optimal-security-31jf)
+- [Mastering Color Palettes in UI/UX Design: Seeking Guidance from Experts](https://dev.to/prince_chouhan/mastering-color-palettes-in-uiux-design-seeking-guidance-from-experts-4j8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
