@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript MMORPG - Maiu Online #babylonjs - Ep: 25 - Monsters AI System](https://dev.to/maiu/javascript-mmorpg-maiu-online-babylonjs-ep-25-monsters-ai-system-1gc)
-- [Case Study: National Flags and Anthems](https://dev.to/paulike/case-study-national-flags-and-anthems-931)
-- [Unlocking the Power of ReactJS: Top Features Every Product Manager Should Know](https://dev.to/cachemerrill/unlocking-the-power-of-reactjs-top-features-every-product-manager-should-know-2o0m)
-- [How I Solved Deployment Challenges: A Guide to Using Gunicorn and Nginx with a Flask Application on Ubuntu](https://dev.to/ukeme/how-i-solved-deployment-challenges-a-guide-to-using-gunicorn-and-nginx-with-a-flask-application-on-ubuntu-3gc4)
-- [32 bit vs 64 bit vs 128 bit](https://dev.to/entangledcognition/32-bit-vs-64-bit-vs-128-bit-5d0i)
+- [The Revolution of 3D Printing in Construction Lower Costs Faster Builds](https://dev.to/eric_dequ/the-revolution-of-3d-printing-in-construction-lower-costs-faster-builds-3e8o)
+- [PHP Version of console.log&lpar;&rpar; for Laravel](https://dev.to/scaleupsaas/php-version-of-consolelog-for-laravel-4pl7)
+- [Display A Text File In A Browser](https://dev.to/theholyspirit/display-a-text-file-in-a-browser-5202)
+- [Elevating Construction The Impact of Drones and LiDAR Technology](https://dev.to/eric_dequ/elevating-construction-the-impact-of-drones-and-lidar-technology-3lcf)
+- [Computer Vision Meetup: Leveraging Pre-trained Text2Image Diffusion Models for Zero-Shot Video Editing](https://dev.to/jguerrero-voxel51/computer-vision-meetup-leveraging-pre-trained-text2image-diffusion-models-for-zero-shot-video-editing-3a3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
