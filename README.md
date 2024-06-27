@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS S3 Bucket Website Hosting using Terraform](https://dev.to/camillehe1992/aws-s3-bucket-website-hosting-using-terraform-4fk5)
-- [Lo nuevo de React 19](https://dev.to/iencotech/lo-nuevo-de-react-19-1eia)
-- [了解用户中心与单点登录 （SSO）](https://dev.to/hotentbpm/liao-jie-yong-hu-zhong-xin-yu-dan-dian-deng-lu-sso-1ao9)
-- [用户中心研究报告](https://dev.to/hotentbpm/yong-hu-zhong-xin-yan-jiu-bao-gao-2oj4)
-- [Item 37: Use EnumMap em vez da indexação ordinal](https://dev.to/devsjavagirls/item-37-use-enummap-em-vez-da-indexacao-ordinal-52if)
+- [Design Systems: The Backbone of Cohesive and Efficient Design](https://dev.to/shieldstring/design-systems-the-backbone-of-cohesive-and-efficient-design-1ojl)
+- [Mitigating disruption during Amazon EKS cluster upgrade with blue/green deployment](https://dev.to/haintkit/mitigating-disruption-during-amazon-eks-cluster-upgrade-with-bluegreen-deployments-5co)
+- [Which Database is Perfect for You? A Comprehensive Guide to MySQL, PostgreSQL, NoSQL, and More](https://dev.to/mmainulhasan/which-database-is-perfect-for-you-a-comprehensive-guide-to-mysql-postgresql-nosql-and-more-50jk)
+- [Laravel Timestamps – Automatic Handling of Created and Updated Dates](https://dev.to/n3rdnerd/laravel-timestamps-automatic-handling-of-created-and-updated-dates-530l)
+- [Migrating from Gitlap to Github enterprise](https://dev.to/basel5001/migrating-from-gitlap-to-github-enterprise-2f45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
