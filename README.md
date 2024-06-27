@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to develop comprehensive food delivery React Native mobile app?](https://dev.to/nadim_ch0wdhury/how-to-develop-comprehensive-food-delivery-react-native-mobile-app-2lap)
-- [Connect a VM with VS Code for Remote Development](https://dev.to/arabian619/connect-a-vm-with-vs-code-for-remote-development-50n7)
-- [aa](https://dev.to/ducanhmoi/a-95n)
-- [GBase 8c SQL Performance Optimization with Sharding Keys](https://dev.to/congcong/gbase-8c-sql-performance-optimization-with-sharding-keys-32f5)
-- [GBase 8c SQL Performance Optimization with Sharding Keys](https://dev.to/congcong/gbase-8c-sql-performance-optimization-with-sharding-keys-2844)
+- [Seeking Guidance on Advancing My Career as a Web Developer](https://dev.to/jay818/seeking-guidance-on-advancing-my-career-as-a-web-developer-55gj)
+- [Metis Enables your teams to own their databases with ease](https://dev.to/metis/metis-enables-your-teams-to-own-their-databases-with-ease-30f0)
+- [Understanding Phone Lookup APIs](https://dev.to/sameeranthony/understanding-phone-lookup-apis-4j65)
+- [PowerShell Development in Neovim](https://dev.to/kas_m/powershell-development-in-neovim-4e9)
+- [7 Open Source Projects You Should Know - C# Edition ✔️](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-c-edition-2bmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
