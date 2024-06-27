@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Renovate for everything](https://dev.to/nfrankel/renovate-for-everything-1483)
-- [How to add “Save and add another” feature to Rails apps](https://dev.to/railsdesigner/how-to-add-save-and-add-another-feature-to-rails-apps-1ofa)
-- [How to use GHC plugin to save any part of a webpage as pure css component?](https://dev.to/liushuigs/how-to-use-ghc-plugin-to-save-any-part-of-a-webpage-as-pure-css-component-pp2)
-- [Import A TXT File Where The Separator Is Missing In A Column To Excel](https://dev.to/judith677/import-a-txt-file-where-the-separator-is-missing-in-a-column-to-excel-1ac6)
-- [Bundle and Publish TypeScript Package using Rollup](https://dev.to/jazimabbas/bundle-and-publish-typescript-package-using-rollup-3mf0)
+- [Automating AWS Cost and Usage Report with CloudFormation](https://dev.to/felipe_de_godoy/automating-aws-cost-and-usage-report-with-cloudformation-1d3k)
+- [Why Beginners Should Start Writing Code in a Plain Text Editor](https://dev.to/md_shariarhaque_11695a3/why-beginners-should-start-writing-code-in-a-plain-text-editor-37h)
+- [How the Page Visibility API Improves Web Performance and User Experience](https://dev.to/sachinchaurasiya/how-the-page-visibility-api-improves-web-performance-and-user-experience-1gnh)
+- [For those who want to create a site to dynamically display GAS data using Ajax](https://dev.to/sharu2920/for-those-who-want-to-create-a-site-to-dynamically-display-gas-data-using-ajax-4b1g)
+- [From Stores to Screens: How Technology is Reshaping Retail](https://dev.to/nicholaswinst14/from-stores-to-screens-how-technology-is-reshaping-retail-150l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
