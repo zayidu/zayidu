@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Patterns](https://dev.to/oigorrudel/design-patterns-agb)
-- [Don&#39;t write npx prisma generate command](https://dev.to/ashsajal/dont-write-npx-prisma-generate-command-42i6)
-- [Showing progress for page transitions in Next.js](https://dev.to/logrocket/showing-progress-for-page-transitions-in-nextjs-878)
-- [AWS Foundation - Root Account, I.A.M and how to not get a $500 Bill](https://dev.to/pokkan70/aws-foundation-root-account-iam-and-how-to-not-get-a-500-bill-5b32)
-- [Interesting Things I learned Writing Rspec Tests](https://dev.to/sakuramilktea/interesting-things-i-learned-writing-rspec-tests-3o4n)
+- [Understanding MicroPython: Python for Small Devices](https://dev.to/richardshaju/understanding-micropython-python-for-small-devices-1i0)
+- [DORA is More Than DORA](https://dev.to/peteking/dora-is-more-than-dora-22ic)
+- [ezpkg.io - Collection of packages to make writing Go code easier](https://dev.to/olvrng/ezpkgio-collection-of-packages-to-make-writing-go-code-easier-2fid)
+- [What&#39;s the most difficult and time-consuming part from development to production?](https://dev.to/vamshi2506/whats-the-most-difficult-and-time-consuming-part-from-development-to-production-96n)
+- [Rustify some puppeteer code](https://dev.to/adaschevici/rustify-some-puppeteer-code-3n33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
