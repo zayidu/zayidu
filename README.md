@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [100 FREE Frontend Challenges](https://dev.to/bigsondev/100-free-frontend-challenges-3f0)
-- [Understanding APIs: 10 API Concepts and Examples](https://dev.to/latitude/understanding-apis-10-api-concepts-and-examples-23cn)
-- [-LocalStorage, Session, Cookies](https://dev.to/husniddin6939/-localstorage-session-cookies-3f3f)
-- [Mastering Cypher Queries in Apache AGE](https://dev.to/nim12/mastering-cypher-queries-in-apache-age-2kc8)
-- [VS Code Extensions 2024: VSCode Top Picks by Developers Worldwide](https://dev.to/proflead/vs-code-extensions-2024-vscode-top-picks-by-developers-worldwide-4ib7)
+- [Frontend Technologies](https://dev.to/sardiusjay/frontend-technologies-2c27)
+- [Umbraco Helper Labels](https://dev.to/phil_93fe5acfd2fc42/umbraco-helper-labels-3okc)
+- [Practical usages of Idempotency](https://dev.to/woovi/practical-usages-of-idempotency-3926)
+- [Easy image management for MDX blogs](https://dev.to/indyman/frictionless-image-management-for-mdx-blogs-4015)
+- [5 Great Reasons Why Manual Testing is Not Efficient](https://dev.to/morrismoses149/5-great-reasons-why-manual-testing-is-not-efficient-23b9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
