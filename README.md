@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating AWS Cost and Usage Report with CloudFormation](https://dev.to/felipe_de_godoy/automating-aws-cost-and-usage-report-with-cloudformation-1d3k)
-- [Why Beginners Should Start Writing Code in a Plain Text Editor](https://dev.to/md_shariarhaque_11695a3/why-beginners-should-start-writing-code-in-a-plain-text-editor-37h)
-- [How the Page Visibility API Improves Web Performance and User Experience](https://dev.to/sachinchaurasiya/how-the-page-visibility-api-improves-web-performance-and-user-experience-1gnh)
-- [For those who want to create a site to dynamically display GAS data using Ajax](https://dev.to/sharu2920/for-those-who-want-to-create-a-site-to-dynamically-display-gas-data-using-ajax-4b1g)
-- [From Stores to Screens: How Technology is Reshaping Retail](https://dev.to/nicholaswinst14/from-stores-to-screens-how-technology-is-reshaping-retail-150l)
+- [Ibuprofeno.py💊| #126: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-126-explica-este-codigo-python-bc6)
+- [The Adventures of Blink #29: How to Unalive Your Company](https://dev.to/linkbenjamin/the-adventures-of-blink-29-how-to-unalive-your-company-11i9)
+- [Building Advanced Chatbots with MindsDB: A Comprehensive Guide](https://dev.to/visheshrwl/building-advanced-chatbots-with-mindsdb-a-comprehensive-guide-6fk)
+- [Learn CSS Positions: with Real Examples](https://dev.to/jitendrachoudhary/learn-css-positions-with-real-examples-4kbd)
+- [Understanding JWT and Bearer Tokens: What Every Developer Should Know](https://dev.to/satokenta/understanding-jwt-and-bearer-tokens-what-every-developer-should-know-35j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
