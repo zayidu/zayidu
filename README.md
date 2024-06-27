@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [understanding react hooks](https://dev.to/yelldutz/understanding-react-hooks-3e69)
-- [Empowering Diversity: Imposter Syndrome and Economic Inclusion in Tech Worldwide](https://dev.to/frtechy/empowering-diversity-imposter-syndrome-and-economic-inclusion-in-tech-worldwide-59pe)
-- [How to Memoize Client-Side Fetched Data in Next.js Using the App Router](https://dev.to/sh20raj/how-to-memoize-client-side-fetched-data-in-nextjs-using-the-app-router-2fp7)
-- [Gym Planner | My Coding Adventure as a Code Newbie](https://dev.to/s-city/gym-planner-my-coding-adventure-as-a-code-newbie-h8p)
-- [Understanding Network Access Control Lists and Security Groups in AWS](https://dev.to/aws-builders/understanding-network-access-control-lists-and-security-groups-in-aws-3bk4)
+- [程序员在企业中是如何做需求的](https://dev.to/javapub/cheng-xu-yuan-zai-qi-ye-zhong-shi-ru-he-zuo-xu-qiu-de-3g6a)
+- [How to Dynamically Assign Ports and Access Your Next.js App Across the Network](https://dev.to/xanderselorm/how-to-dynamically-assign-ports-and-access-your-nextjs-app-across-the-network-3p57)
+- [What happens when you Enter a URL in browser &amp; hit enter](https://dev.to/zeeshanali0704/what-happens-when-you-enter-a-url-in-browser-hit-enter-2i2a)
+- [VMSS CREATION AND CONNECTING.](https://dev.to/collins_uwa_1f4dc406f079c/vmss-creation-and-connecting-1g3f)
+- [Software design using OOP + FP — Part 1](https://dev.to/fedelochbaum/software-design-using-oop-fp-part-1-2fgh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
