@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Interview with Vitor Ayres, a Tauri Maintainer](https://dev.to/crabnebula/interview-with-vitor-ayres-a-tauri-maintainer-c7l)
-- [TextField](https://dev.to/paulike/textfield-4jgh)
-- [Jornada para se tornar um tech lead](https://dev.to/rscholant/jornada-para-se-tornar-um-tech-lead-2b8k)
-- [Jornada para se tornar um tech lead](https://dev.to/rscholant/jornada-para-se-tornar-um-tech-lead-1m6j)
-- [Flutter Version Management A Guide to Effortless Project Switching in Flutter News 2024 #25 ʚїɞ](https://dev.to/lucianojung/flutter-version-management-a-guide-to-effortless-project-switching-in-flutter-news-2024-25-eyie-4jgl)
+- [Create a React Tooltip component using Popover API](https://dev.to/hnrq/create-a-react-tooltip-component-using-popover-api-155o)
+- [Building a Motion Detection Camera with OpenCvSharp in .NET](https://dev.to/jwtiller_c47bdfa134adf302/building-a-motion-detection-camera-with-opencvsharp-in-net-kd4)
+- [Understanding Asynchronous JavaScript: Callbacks, Promise Chains, and Order of Execution](https://dev.to/faisalmh4045/understanding-asynchronous-javascript-callbacks-promise-chains-and-order-of-execution-2486)
+- [ComboBox](https://dev.to/paulike/combobox-34o9)
+- [How to automate NPM authentication to avoid providing credentials every time](https://dev.to/deepcodr/how-to-automate-npm-authentication-to-avoid-providing-credentials-every-time-2e1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
