@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What it’s like to put code in production](https://dev.to/shreyvijayvargiya/what-its-like-to-put-code-in-production-4m61)
-- [Availability Sets vs Availability Zones](https://dev.to/dera2024/availability-sets-vs-availability-zones-2a4n)
-- [AZURE VIRTUAL MACHINE SCALE SET &lpar;VMSS&rpar;](https://dev.to/presh1/azure-virtual-machine-scale-set-vmss-2lo3)
-- [AWS Cost Optimization: Periodic Deletion of ECR Container Images](https://dev.to/siddhantkcode/aws-cost-optimization-periodic-deletion-of-ecr-container-images-3636)
-- [Hybrid Quantum-Classical Computing Leveraging Ternary Logic for Enhanced Performance](https://dev.to/eric_dequ/hybrid-quantum-classical-computing-leveraging-ternary-logic-for-enhanced-performance-5aje)
+- [JavaScript MMORPG - Maiu Online #babylonjs - Ep: 25 - Monsters AI System](https://dev.to/maiu/javascript-mmorpg-maiu-online-babylonjs-ep-25-monsters-ai-system-1gc)
+- [Case Study: National Flags and Anthems](https://dev.to/paulike/case-study-national-flags-and-anthems-931)
+- [Unlocking the Power of ReactJS: Top Features Every Product Manager Should Know](https://dev.to/cachemerrill/unlocking-the-power-of-reactjs-top-features-every-product-manager-should-know-2o0m)
+- [How I Solved Deployment Challenges: A Guide to Using Gunicorn and Nginx with a Flask Application on Ubuntu](https://dev.to/ukeme/how-i-solved-deployment-challenges-a-guide-to-using-gunicorn-and-nginx-with-a-flask-application-on-ubuntu-3gc4)
+- [32 bit vs 64 bit vs 128 bit](https://dev.to/entangledcognition/32-bit-vs-64-bit-vs-128-bit-5d0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
