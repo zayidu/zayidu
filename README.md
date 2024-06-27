@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ว่าด้วย Extension บน PostgreSQL](https://dev.to/iconnext/waadwy-extension-bn-postgresql-22pn)
-- [Optimizing Re-Rendering in React: Why It Matters and How to Do It](https://dev.to/vyan/optimizing-re-rendering-in-react-why-it-matters-and-how-to-do-it-1gob)
-- [The Lifecycle of a JavaScript File in the Browser: Request, Load, Execute](https://dev.to/mhmd-salah/the-lifecycle-of-a-javascript-file-in-the-browser-request-load-execute-53e1)
-- [Behavioral Interviews For Software Engineers](https://dev.to/thekarlesi/behavioral-interviews-for-software-engineers-4p68)
-- [Which SEO Strategies Are Always Effective?](https://dev.to/juddiy/which-seo-strategies-are-always-effective-4ldm)
+- [AWS S3 Bucket Website Hosting using Terraform](https://dev.to/camillehe1992/aws-s3-bucket-website-hosting-using-terraform-4fk5)
+- [Lo nuevo de React 19](https://dev.to/iencotech/lo-nuevo-de-react-19-1eia)
+- [了解用户中心与单点登录 （SSO）](https://dev.to/hotentbpm/liao-jie-yong-hu-zhong-xin-yu-dan-dian-deng-lu-sso-1ao9)
+- [用户中心研究报告](https://dev.to/hotentbpm/yong-hu-zhong-xin-yan-jiu-bao-gao-2oj4)
+- [Item 37: Use EnumMap em vez da indexação ordinal](https://dev.to/devsjavagirls/item-37-use-enummap-em-vez-da-indexacao-ordinal-52if)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
