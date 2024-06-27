@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding MicroPython: Python for Small Devices](https://dev.to/richardshaju/understanding-micropython-python-for-small-devices-1i0)
-- [DORA is More Than DORA](https://dev.to/peteking/dora-is-more-than-dora-22ic)
-- [ezpkg.io - Collection of packages to make writing Go code easier](https://dev.to/olvrng/ezpkgio-collection-of-packages-to-make-writing-go-code-easier-2fid)
-- [What&#39;s the most difficult and time-consuming part from development to production?](https://dev.to/vamshi2506/whats-the-most-difficult-and-time-consuming-part-from-development-to-production-96n)
-- [Rustify some puppeteer code](https://dev.to/adaschevici/rustify-some-puppeteer-code-3n33)
+- [Deployments and Replica Sets in Kubernetes](https://dev.to/jensen1806/deployments-and-replica-sets-in-kubernetes-3ef5)
+- [Set requires_grad with requires_grad argument functions and get it in PyTorch](https://dev.to/hyperkai/set-requiresgrad-with-requiresgrad-argument-functions-and-get-it-in-pytorch-39c3)
+- [Balancing Side Projects with Full-Time Development Work](https://dev.to/bingecoder89/balancing-side-projects-with-full-time-development-work-13gc)
+- [-Events, Events Object, Window Elemnts, ClassList](https://dev.to/husniddin6939/-events-events-object-window-elemnts-classlist-ke5)
+- [My First Contribution to Open Source](https://dev.to/rasyidfam/my-first-contribution-to-open-source-479l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
