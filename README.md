@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Manage Terraform Locals](https://dev.to/env0/how-to-manage-terraform-locals-4onb)
-- [Python Built-in Functions](https://dev.to/harshm03/python-built-in-functions-4m5f)
-- [Python Collections](https://dev.to/harshm03/python-collections-33m1)
-- [Building a Job Search Function with Prisma in Next.js](https://dev.to/ashsajal/building-a-job-search-function-with-prisma-in-nextjs-2m8f)
-- [Python Strings](https://dev.to/harshm03/python-strings-bo6)
+- [100 FREE Frontend Challenges](https://dev.to/bigsondev/100-free-frontend-challenges-3f0)
+- [Understanding APIs: 10 API Concepts and Examples](https://dev.to/latitude/understanding-apis-10-api-concepts-and-examples-23cn)
+- [-LocalStorage, Session, Cookies](https://dev.to/husniddin6939/-localstorage-session-cookies-3f3f)
+- [Mastering Cypher Queries in Apache AGE](https://dev.to/nim12/mastering-cypher-queries-in-apache-age-2kc8)
+- [VS Code Extensions 2024: VSCode Top Picks by Developers Worldwide](https://dev.to/proflead/vs-code-extensions-2024-vscode-top-picks-by-developers-worldwide-4ib7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
