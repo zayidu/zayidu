@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Seeking Guidance on Advancing My Career as a Web Developer](https://dev.to/jay818/seeking-guidance-on-advancing-my-career-as-a-web-developer-55gj)
-- [Metis Enables your teams to own their databases with ease](https://dev.to/metis/metis-enables-your-teams-to-own-their-databases-with-ease-30f0)
-- [Understanding Phone Lookup APIs](https://dev.to/sameeranthony/understanding-phone-lookup-apis-4j65)
-- [PowerShell Development in Neovim](https://dev.to/kas_m/powershell-development-in-neovim-4e9)
-- [7 Open Source Projects You Should Know - C# Edition ✔️](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-c-edition-2bmh)
+- [Renovate for everything](https://dev.to/nfrankel/renovate-for-everything-1483)
+- [How to add “Save and add another” feature to Rails apps](https://dev.to/railsdesigner/how-to-add-save-and-add-another-feature-to-rails-apps-1ofa)
+- [How to use GHC plugin to save any part of a webpage as pure css component?](https://dev.to/liushuigs/how-to-use-ghc-plugin-to-save-any-part-of-a-webpage-as-pure-css-component-pp2)
+- [Import A TXT File Where The Separator Is Missing In A Column To Excel](https://dev.to/judith677/import-a-txt-file-where-the-separator-is-missing-in-a-column-to-excel-1ac6)
+- [Bundle and Publish TypeScript Package using Rollup](https://dev.to/jazimabbas/bundle-and-publish-typescript-package-using-rollup-3mf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
