@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [“Good Commit” vs “Your Commit”: How to Write a Perfect Git Commit Message](https://dev.to/safdarali/good-commit-vs-your-commit-how-to-write-a-perfect-git-commit-message-59ol)
-- [GSA Contract Vehicle](https://dev.to/quantumcybersolution/gsa-contract-vehicle-1ohg)
-- [Building Relationships The Key to Long-Term Government Sales Success](https://dev.to/eric_dequ/building-relationships-the-key-to-long-term-government-sales-success-47a3)
-- [Finding Your Niche Identifying the Right Government Contract Opportunities](https://dev.to/quantumcybersolution/finding-your-niche-identifying-the-right-government-contract-opportunities-21oo)
-- [Get Free Image Hosting with Gur IMG](https://dev.to/sh20raj/get-free-image-hosting-with-gur-img-4p8i)
+- [Implementing Earned Value Management EVM in Government Projects](https://dev.to/quantumcybersolution/implementing-earned-value-management-evm-in-government-projects-4gh6)
+- [Protect Your Website from XSS Attacks](https://dev.to/eric_dequ/protect-your-website-from-xss-attacks-2fpo)
+- [How Artificial Intelligence is Improving Construction Site Security](https://dev.to/quantumcybersolution/how-artificial-intelligence-is-improving-construction-site-security-ijk)
+- [Implementing Continuous Improvement Practices in Government Contracting](https://dev.to/quantumcybersolution/implementing-continuous-improvement-practices-in-government-contracting-bff)
+- [TypeScript Node.js Boilerplate](https://dev.to/rohanyh101/typescript-nodejs-boilerplate-1fpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
