@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Mongoose](https://dev.to/mbugua70/getting-started-with-mongoose-150h)
-- [Comparing React.js and Svelte: A Deep Dive into Frontend Technologies](https://dev.to/reverd_ssounds_f3fff44526/comparing-reactjs-and-svelte-a-deep-dive-into-frontend-technologies-2dp4)
-- [13 Meetup Alternatives for 2024](https://dev.to/lonare/13-meetupcom-alternatives-for-2024-2jgn)
-- [Why Typescript is better than JavaScript](https://dev.to/heythematic/why-typescript-is-better-than-javascript-2d2i)
-- [Minimization of Finite Automata](https://dev.to/pushpendra_sharma_f1d2cbe/minimization-of-finite-automata-4ccb)
+- [Day 23 of 30 of JavaScript](https://dev.to/akshat0610/day-23-of-30-of-javascript-2042)
+- [How Crawlee uses tiered proxies to avoid getting blocked](https://dev.to/crawlee/how-crawlee-uses-tiered-proxies-to-avoid-getting-blocked-2jho)
+- [&quot;Advancing Galaxy Analysis: AI-Powered Detection and Segmentation of Edge-On Galaxies&quot;](https://dev.to/karla_contreras_1904c68c4/advancing-galaxy-analysis-ai-powered-detection-and-segmentation-of-edge-on-galaxies-48gm)
+- [Pondy Marina Boat House: Where Memories Are Made](https://dev.to/shivam_kushwaha_a070ed655/pondy-marina-boat-house-where-memories-are-made-3ka6)
+- [Hamster Kombat: listing is coming!](https://dev.to/nishantbijani/hamster-kombat-listing-is-coming-18li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
