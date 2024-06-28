@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Honeywell Quantum Solutions Advancing Ion Trap Quantum Computing](https://dev.to/quantumcybersolution/honeywell-quantum-solutions-advancing-ion-trap-quantum-computing-3idi)
-- [Overview of the Retail Sales Kaggle Dataset](https://dev.to/paulinebanye/overview-of-the-retail-sales-kaggle-dataset-51e6)
-- [Using AI-Generated Alt Text for Better Search Ranking](https://dev.to/divine-ikechukwu/using-ai-generated-alt-text-for-better-search-ranking-3j1n)
-- [Google Advancing Quantum Computing with Superconducting Qubits and Quantum AI](https://dev.to/quantumcybersolution/google-advancing-quantum-computing-with-superconducting-qubits-and-quantum-ai-mmf)
-- [Mastering Back Pressure in Reactive Distributed Systems](https://dev.to/tutorialq/mastering-back-pressure-in-reactive-distributed-systems-37mk)
+- [How To Build A Cool Portfolio Website](https://dev.to/nelson_bermeo/how-to-build-a-cool-portfolio-website-4288)
+- [Formas de truncar texto en CSS](https://dev.to/codechappie/formas-de-truncar-texto-en-css-l01)
+- [Backing Up MongoDB Data: A Comprehensive Guide to mongodump and mongoexport](https://dev.to/chaets/backing-up-mongodb-data-a-comprehensive-guide-to-mongodump-and-mongoexport-3h8k)
+- [Firebase Security Rules: Effortless control over your app&#39;s data.](https://dev.to/codingcatdev/firebase-security-rules-effortless-control-over-your-apps-data-20kc)
+- [Video Tap: Automate Your Video Marketing with Chris Sev](https://dev.to/codingcatdev/video-tap-automate-your-video-marketing-with-chris-sev-bmk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
