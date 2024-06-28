@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a Virtual Machine Scale Set](https://dev.to/adeola_adebari/how-to-create-a-virtual-machine-scale-set-549k)
-- [The Benefits of Modular Construction in Modern Building Projects](https://dev.to/quantumcybersolution/the-benefits-of-modular-construction-in-modern-building-projects-1b60)
-- [The Magic of Wireless Power Transmission Unleashing Teslas Vision](https://dev.to/eric_dequ/the-magic-of-wireless-power-transmission-unleashing-teslas-vision-34b0)
-- [Redefining Time Introducing New Words for a Fundamental Dimension](https://dev.to/eric_dequ/redefining-time-introducing-new-words-for-a-fundamental-dimension-j73)
-- [The Warping of Time From Light Speed to Particle Temperature](https://dev.to/eric_dequ/the-warping-of-time-from-light-speed-to-particle-temperature-4fan)
+- [🤖AI-Powered Contract Queries: Use Language Models for Effective Analysis!🔥](https://dev.to/llmware/ai-powered-contract-queries-use-language-models-for-effective-analysis-461o)
+- [The Quantum Revolution Harnessing Natures Alternating Currents for Sustainable Computing](https://dev.to/eric_dequ/the-quantum-revolution-harnessing-natures-alternating-currents-for-sustainable-computing-59cj)
+- [Handling Currency In Golang And Other Programming Language](https://dev.to/tentanganak/handling-currency-in-golang-and-other-programming-language-518h)
+- [Pharmacist transitioning to software developer](https://dev.to/vvk_ramees/pharmacist-transitioning-to-software-developer-204m)
+- [Acoustic Quantum Computing Harnessing the Power of Sound](https://dev.to/eric_dequ/acoustic-quantum-computing-harnessing-the-power-of-sound-2k3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
