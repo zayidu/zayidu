@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TanStack Table Explained: Everything You Need to Know](https://dev.to/arnabsahawrk/tanstack-table-explained-everything-you-need-to-know-16g9)
-- [Quality Assurance Best Practices for Government Contract Performance](https://dev.to/quantumcybersolution/quality-assurance-best-practices-for-government-contract-performance-h71)
-- [How to evolve a product](https://dev.to/jameshfisher/how-to-evolve-a-product-52l4)
-- [Master Base64 Decoding Today!](https://dev.to/keploy/master-base64-decoding-today-4dph)
-- [Visionary Leadership with Reuven Kahane - The Future-Focused Trait of Entrepreneurs](https://dev.to/reuvenkahane01/visionary-leadership-with-reuven-kahane-the-future-focused-trait-of-entrepreneurs-3ke1)
+- [Relationship-Based IoT Models Enhancing Accuracy Efficiency and Security](https://dev.to/eric_dequ/relationship-based-iot-models-enhancing-accuracy-efficiency-and-security-1fah)
+- [Solving a Complex Backend Problem: My Journey with an Expense Tracker](https://dev.to/greatkalaso/solving-a-complex-backend-problem-my-journey-with-an-expense-tracker-3pc8)
+- [Setting Up NativeWind in React Native](https://dev.to/dubjay18/setting-up-nativewind-in-react-native-1cen)
+- [The Basics of Government Contracting A Beginners Guide to Getting Started](https://dev.to/quantumcybersolution/the-basics-of-government-contracting-a-beginners-guide-to-getting-started-2kf5)
+- [Controlling AWS Lambda Costs](https://dev.to/kodsama/controlling-aws-lambda-costs-2kn8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
