@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Build A Cool Portfolio Website](https://dev.to/nelson_bermeo/how-to-build-a-cool-portfolio-website-4288)
-- [Formas de truncar texto en CSS](https://dev.to/codechappie/formas-de-truncar-texto-en-css-l01)
-- [Backing Up MongoDB Data: A Comprehensive Guide to mongodump and mongoexport](https://dev.to/chaets/backing-up-mongodb-data-a-comprehensive-guide-to-mongodump-and-mongoexport-3h8k)
-- [Firebase Security Rules: Effortless control over your app&#39;s data.](https://dev.to/codingcatdev/firebase-security-rules-effortless-control-over-your-apps-data-20kc)
-- [Video Tap: Automate Your Video Marketing with Chris Sev](https://dev.to/codingcatdev/video-tap-automate-your-video-marketing-with-chris-sev-bmk)
+- [How to create a Virtual Machine Scale Set](https://dev.to/adeola_adebari/how-to-create-a-virtual-machine-scale-set-549k)
+- [The Benefits of Modular Construction in Modern Building Projects](https://dev.to/quantumcybersolution/the-benefits-of-modular-construction-in-modern-building-projects-1b60)
+- [The Magic of Wireless Power Transmission Unleashing Teslas Vision](https://dev.to/eric_dequ/the-magic-of-wireless-power-transmission-unleashing-teslas-vision-34b0)
+- [Redefining Time Introducing New Words for a Fundamental Dimension](https://dev.to/eric_dequ/redefining-time-introducing-new-words-for-a-fundamental-dimension-j73)
+- [The Warping of Time From Light Speed to Particle Temperature](https://dev.to/eric_dequ/the-warping-of-time-from-light-speed-to-particle-temperature-4fan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
