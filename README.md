@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving a Complex Backend Challenge: Integrating OpenAI and Termii for Multilingual SMS Delivery](https://dev.to/dhamolahedonist/solving-a-complex-backend-challenge-integrating-openai-and-termii-for-multilingual-sms-delivery-5fmd)
-- [The Future of Construction Workforce Embracing Automation and Technology](https://dev.to/quantumcybersolution/the-future-of-construction-workforce-embracing-automation-and-technology-3kl3)
-- [Challenges and Opportunities in Developing Space-Based Transportation Systems for Cargo and Personnel](https://dev.to/quantumcybersolution/challenges-and-opportunities-in-developing-space-based-transportation-systems-for-cargo-and-personnel-19bp)
-- [LeetCode Meditations: Climbing Stairs](https://dev.to/rivea0/leetcode-meditations-climbing-stairs-52ko)
-- [Software Engineer](https://dev.to/shruti_maheshwari_/software-engineer-mgp)
+- [@PreDestroy and @PostConstruct in Spring](https://dev.to/tiuwill/predestroy-and-postconstruct-in-spring-2ff)
+- [Build a Responsive Website Step-by-Step HTML CSS and JavaScript](https://dev.to/quantumcybersolution/build-a-responsive-website-step-by-step-html-css-and-javascript-20l0)
+- [Tutorial to Create a Virtual Machine Scale Set in Microsoft Azure.](https://dev.to/ikay/tutorial-to-create-a-virtual-machine-scale-set-in-microsoft-azure-5a69)
+- [Mastering Logging with Winston in Node.js](https://dev.to/abigail_nneoma/mastering-logging-with-winston-in-nodejs-5fnl)
+- [Quantum Computing Revolutionizing Industries and Shaping the Future](https://dev.to/eric_dequ/quantum-computing-revolutionizing-industries-and-shaping-the-future-38jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
