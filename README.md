@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WebRTC vs WebSocket: Key Differences and Which to Use](https://dev.to/stephen568hub/webrtc-vs-websocket-key-differences-and-which-to-use-20bi)
-- [Tutorial to Build a Flutter Live Streaming App](https://dev.to/stephen568hub/tutorial-to-build-a-flutter-live-streaming-app-5bfh)
-- [core java](https://dev.to/sahithi_puppala/core-java-4ch6)
-- [Building Business Logic with a Software Engineer Mentality](https://dev.to/jaloplo/building-business-logic-with-a-software-engineer-mentality-eaa)
-- [Beyond Bots: 5 Ways AI-Powered Chatbots Revolutionize the Developer Experience](https://dev.to/swati1267/beyond-bots-5-ways-ai-powered-chatbots-revolutionize-the-developer-experience-3a1b)
+- [Nitro Card, Why AWS is best!](https://dev.to/choonho/nitro-card-why-aws-is-best-46ph)
+- [What Makes AngularJS Developers Essential for Modern Web Application Management?](https://dev.to/hirelaraveldevelopers/what-makes-angularjs-developers-essential-for-modern-web-application-management-13h8)
+- [Will AI Replace Programmers?](https://dev.to/devot/will-ai-replace-programmers-1634)
+- [Rust for Gophers](https://dev.to/plutov/rust-for-gophers-k9h)
+- [How to Register Your Own Domain Extension: A Comprehensive Guide](https://dev.to/manojgohel/how-to-register-your-own-domain-extension-a-comprehensive-guide-fl5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
