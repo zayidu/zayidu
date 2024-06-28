@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Things You Should Take Care During Angular Web Development](https://dev.to/dhruvjoshi9/top-10-things-you-should-take-care-during-angular-web-development-53cb)
-- [How Smart Sensors are Enhancing Construction Site Monitoring](https://dev.to/quantumcybersolution/how-smart-sensors-are-enhancing-construction-site-monitoring-59h2)
-- [Francisco de Quevedo](https://dev.to/eric_dequ/francisco-de-quevedo-e5a)
-- [Richard Feynman The Quantum Visionary Who Shaped the Future](https://dev.to/eric_dequ/richard-feynman-the-quantum-visionary-who-shaped-the-future-4lb2)
-- [Navigating Subcontracting Plan Requirements for Large Contractors](https://dev.to/quantumcybersolution/navigating-subcontracting-plan-requirements-for-large-contractors-1037)
+- [The Influence of Nature on Design: From Evolutionary Lessons to Practical Applications](https://dev.to/frtechy/the-influence-of-nature-on-design-from-evolutionary-lessons-to-practical-applications-4141)
+- [How Technology is Transforming Construction Site Logistics](https://dev.to/quantumcybersolution/how-technology-is-transforming-construction-site-logistics-3957)
+- [DIY Summer Dinghy Project Build Your Own Floating Deck](https://dev.to/eric_dequ/diy-summer-dinghy-project-build-your-own-floating-deck-2bke)
+- [Regression Testing: Ensuring Stability and Reliability in Software Development](https://dev.to/keploy/regression-testing-ensuring-stability-and-reliability-in-software-development-1228)
+- [Proposal Management Software Streamlining Your Government Contracting Process](https://dev.to/quantumcybersolution/proposal-management-software-streamlining-your-government-contracting-process-3nog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
