@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nitro Card, Why AWS is best!](https://dev.to/choonho/nitro-card-why-aws-is-best-46ph)
-- [What Makes AngularJS Developers Essential for Modern Web Application Management?](https://dev.to/hirelaraveldevelopers/what-makes-angularjs-developers-essential-for-modern-web-application-management-13h8)
-- [Will AI Replace Programmers?](https://dev.to/devot/will-ai-replace-programmers-1634)
-- [Rust for Gophers](https://dev.to/plutov/rust-for-gophers-k9h)
-- [How to Register Your Own Domain Extension: A Comprehensive Guide](https://dev.to/manojgohel/how-to-register-your-own-domain-extension-a-comprehensive-guide-fl5)
+- [Goodbye, Singleton! Should We Implement this in Flutter?](https://dev.to/tentanganak/goodbye-singleton-should-we-implement-this-in-flutter-4gf4)
+- [How to Make React Applications SEO Friendly?](https://dev.to/wirefuture/how-to-make-react-applications-seo-friendly-23lo)
+- [Building a Scalable Authentication System: My Journey and Insights](https://dev.to/adewunmioladele/building-a-scalable-authentication-system-my-journey-and-insights-131k)
+- [The 5 Myths of QA](https://dev.to/martinbaun/the-5-myths-of-qa-1m7j)
+- [🚀 Elevate Your GitHub Profile with the Merged PRs GitHub Action](https://dev.to/parth_johri/elevate-your-github-profile-with-the-merged-prs-github-action-31ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
