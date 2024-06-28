@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖AI-Powered Contract Queries: Use Language Models for Effective Analysis!🔥](https://dev.to/llmware/ai-powered-contract-queries-use-language-models-for-effective-analysis-461o)
-- [The Quantum Revolution Harnessing Natures Alternating Currents for Sustainable Computing](https://dev.to/eric_dequ/the-quantum-revolution-harnessing-natures-alternating-currents-for-sustainable-computing-59cj)
-- [Handling Currency In Golang And Other Programming Language](https://dev.to/tentanganak/handling-currency-in-golang-and-other-programming-language-518h)
-- [Pharmacist transitioning to software developer](https://dev.to/vvk_ramees/pharmacist-transitioning-to-software-developer-204m)
-- [Acoustic Quantum Computing Harnessing the Power of Sound](https://dev.to/eric_dequ/acoustic-quantum-computing-harnessing-the-power-of-sound-2k3a)
+- [Solving a Complex Backend Challenge: Integrating OpenAI and Termii for Multilingual SMS Delivery](https://dev.to/dhamolahedonist/solving-a-complex-backend-challenge-integrating-openai-and-termii-for-multilingual-sms-delivery-5fmd)
+- [The Future of Construction Workforce Embracing Automation and Technology](https://dev.to/quantumcybersolution/the-future-of-construction-workforce-embracing-automation-and-technology-3kl3)
+- [Challenges and Opportunities in Developing Space-Based Transportation Systems for Cargo and Personnel](https://dev.to/quantumcybersolution/challenges-and-opportunities-in-developing-space-based-transportation-systems-for-cargo-and-personnel-19bp)
+- [LeetCode Meditations: Climbing Stairs](https://dev.to/rivea0/leetcode-meditations-climbing-stairs-52ko)
+- [Software Engineer](https://dev.to/shruti_maheshwari_/software-engineer-mgp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
