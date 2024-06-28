@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to share tailwind configuration between nuxt layers](https://dev.to/leamsigc/how-to-share-tailwind-configuration-between-nuxt-layers-1gk5)
-- [Observability - Why logging its important](https://dev.to/tentanganak/observability-why-logging-its-important-104b)
-- [Next.js Vs React.Js: What you need to know](https://dev.to/mikeya-yo/nextjs-vs-reactjs-what-you-need-to-know-319k)
-- [Ruby on Rails](https://dev.to/m_hussain/ruby-on-rails-57cb)
-- [The Transformative Power of AI in Marketing](https://dev.to/jhonharry65/the-transformative-power-of-ai-in-marketing-42l)
+- [Getting Started with Mongoose](https://dev.to/mbugua70/getting-started-with-mongoose-150h)
+- [Comparing React.js and Svelte: A Deep Dive into Frontend Technologies](https://dev.to/reverd_ssounds_f3fff44526/comparing-reactjs-and-svelte-a-deep-dive-into-frontend-technologies-2dp4)
+- [13 Meetup Alternatives for 2024](https://dev.to/lonare/13-meetupcom-alternatives-for-2024-2jgn)
+- [Why Typescript is better than JavaScript](https://dev.to/heythematic/why-typescript-is-better-than-javascript-2d2i)
+- [Minimization of Finite Automata](https://dev.to/pushpendra_sharma_f1d2cbe/minimization-of-finite-automata-4ccb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
