@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 23 of 30 of JavaScript](https://dev.to/akshat0610/day-23-of-30-of-javascript-2042)
-- [How Crawlee uses tiered proxies to avoid getting blocked](https://dev.to/crawlee/how-crawlee-uses-tiered-proxies-to-avoid-getting-blocked-2jho)
-- [&quot;Advancing Galaxy Analysis: AI-Powered Detection and Segmentation of Edge-On Galaxies&quot;](https://dev.to/karla_contreras_1904c68c4/advancing-galaxy-analysis-ai-powered-detection-and-segmentation-of-edge-on-galaxies-48gm)
-- [Pondy Marina Boat House: Where Memories Are Made](https://dev.to/shivam_kushwaha_a070ed655/pondy-marina-boat-house-where-memories-are-made-3ka6)
-- [Hamster Kombat: listing is coming!](https://dev.to/nishantbijani/hamster-kombat-listing-is-coming-18li)
+- [TanStack Table Explained: Everything You Need to Know](https://dev.to/arnabsahawrk/tanstack-table-explained-everything-you-need-to-know-16g9)
+- [Quality Assurance Best Practices for Government Contract Performance](https://dev.to/quantumcybersolution/quality-assurance-best-practices-for-government-contract-performance-h71)
+- [How to evolve a product](https://dev.to/jameshfisher/how-to-evolve-a-product-52l4)
+- [Master Base64 Decoding Today!](https://dev.to/keploy/master-base64-decoding-today-4dph)
+- [Visionary Leadership with Reuven Kahane - The Future-Focused Trait of Entrepreneurs](https://dev.to/reuvenkahane01/visionary-leadership-with-reuven-kahane-the-future-focused-trait-of-entrepreneurs-3ke1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
