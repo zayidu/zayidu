@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [amber: writing bash scripts in amber instead. pt. 3: the standard library](https://dev.to/gbhorwood/amber-writing-bash-scripts-in-amber-instead-pt-3-the-standard-library-53e8)
-- [The Impact of the National Defense Authorization Act NDAA on Contracting](https://dev.to/quantumcybersolution/the-impact-of-the-national-defense-authorization-act-ndaa-on-contracting-5ehe)
-- [Let’s solve the error of GROUP BY clause and contains nonaggregated column in MySQL](https://dev.to/imashwani/lets-solve-the-error-of-group-by-clause-and-contains-nonaggregated-column-in-mysql-1l6m)
-- [How Generative AI is impacting Developer Productivity?](https://dev.to/middleware/how-generative-ai-is-impacting-developer-productivity-33fl)
-- [Quantum Computing and Psychedelic Drug Trials Unlocking New Frontiers in Mental Health Treatment](https://dev.to/eric_dequ/quantum-computing-and-psychedelic-drug-trials-unlocking-new-frontiers-in-mental-health-treatment-aog)
+- [Matlab](https://dev.to/eric_dequ/matlab-1e1c)
+- [Exploring Number Theory and Digit Sums](https://dev.to/eric_dequ/exploring-number-theory-and-digit-sums-elh)
+- [My Journey into Mobile Development](https://dev.to/monyasau/my-journey-into-mobile-development-3g52)
+- [Test-Driven Development in Python using Unittest and Nose](https://dev.to/h4ck3rd33p/test-driven-development-in-python-using-unittest-and-nosetest-24ck)
+- [How to Use Advanced Analytics for Construction Resource Optimization](https://dev.to/quantumcybersolution/how-to-use-advanced-analytics-for-construction-resource-optimization-1bib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
