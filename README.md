@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Matlab](https://dev.to/eric_dequ/matlab-1e1c)
-- [Exploring Number Theory and Digit Sums](https://dev.to/eric_dequ/exploring-number-theory-and-digit-sums-elh)
-- [My Journey into Mobile Development](https://dev.to/monyasau/my-journey-into-mobile-development-3g52)
-- [Test-Driven Development in Python using Unittest and Nose](https://dev.to/h4ck3rd33p/test-driven-development-in-python-using-unittest-and-nosetest-24ck)
-- [How to Use Advanced Analytics for Construction Resource Optimization](https://dev.to/quantumcybersolution/how-to-use-advanced-analytics-for-construction-resource-optimization-1bib)
+- [Astrology and Quantum Entanglement Unveiling the Cosmic Dance](https://dev.to/eric_dequ/astrology-and-quantum-entanglement-unveiling-the-cosmic-dance-74g)
+- [Protecting User Data: Encryption and Secure Storage in Frontend](https://dev.to/outstandingvick/protecting-user-data-encryption-and-secure-storage-in-frontend-53ak)
+- [Unacceptable Lobster](https://dev.to/myrojyn/unacceptable-lobster-5afd)
+- [Unlocking Government Contract Opportunities with the SAMgov API](https://dev.to/quantumcybersolution/unlocking-government-contract-opportunities-with-the-samgov-api-1bm9)
+- [How to Utilize Advanced Surveying Tools for Precision Engineering](https://dev.to/quantumcybersolution/how-to-utilize-advanced-surveying-tools-for-precision-engineering-262c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
