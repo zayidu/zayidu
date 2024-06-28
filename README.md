@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Github as Helm repository](https://dev.to/boris/github-as-helm-repository-1lcf)
-- [Difference between CommonJS and ESM modules](https://dev.to/vinay_madan/difference-between-commonjs-and-esm-modules-4pff)
-- [Probiotics and Prebiotics Unleashing the Power of Gut Health for Mental Well-being](https://dev.to/eric_dequ/probiotics-and-prebiotics-unleashing-the-power-of-gut-health-for-mental-well-being-16mi)
-- [Diferença entre Strings e Literais de Caracteres](https://dev.to/devsjavagirls/diferenca-entre-strings-e-literais-de-caracteres-414n)
-- [How Big Data is Driving Decision-Making in Construction Projects](https://dev.to/quantumcybersolution/how-big-data-is-driving-decision-making-in-construction-projects-2k86)
+- [Maximizing the Benefits of the Women-Owned Small Business WOSB Program](https://dev.to/quantumcybersolution/maximizing-the-benefits-of-the-women-owned-small-business-wosb-program-5cb5)
+- [How Digital Twins are Revolutionizing Construction Project Management](https://dev.to/quantumcybersolution/how-digital-twins-are-revolutionizing-construction-project-management-1oph)
+- [Mastering Your DCAA Audit Preparation](https://dev.to/quantumcybersolution/mastering-your-dcaa-audit-preparation-1lom)
+- [Modafinil The Smart Drug for Enhanced Cognitive Performance](https://dev.to/eric_dequ/modafinil-the-smart-drug-for-enhanced-cognitive-performance-8po)
+- [Mastering the Contractor Purchasing System Review CPSR](https://dev.to/quantumcybersolution/mastering-the-contractor-purchasing-system-review-cpsr-3cii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
