@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Benefits of Ingesting Cordyceps A Natural Boost for Health and Vitality](https://dev.to/eric_dequ/the-benefits-of-ingesting-cordyceps-a-natural-boost-for-health-and-vitality-2io6)
-- [Developing a Conflict of Interest Policy for Government Contracting](https://dev.to/quantumcybersolution/developing-a-conflict-of-interest-policy-for-government-contracting-3ffn)
-- [Common Mistakes That Cause Unhandled Runtime Errors in React Typescript](https://dev.to/ashsajal/common-mistakes-that-cause-unhandled-runtime-errors-in-react-typescript-436b)
-- [Quantum Portfolio Optimization A Deep Dive into Algorithms and Data Encoding](https://dev.to/eric_dequ/quantum-portfolio-optimization-a-deep-dive-into-algorithms-and-data-encoding-42hm)
-- [The Career Advice No One Told Us &lpar;But We Wish They Had&rpar;](https://dev.to/tdesseyn/the-career-advice-no-one-told-us-but-we-wish-they-had-2192)
+- [“Good Commit” vs “Your Commit”: How to Write a Perfect Git Commit Message](https://dev.to/safdarali/good-commit-vs-your-commit-how-to-write-a-perfect-git-commit-message-59ol)
+- [GSA Contract Vehicle](https://dev.to/quantumcybersolution/gsa-contract-vehicle-1ohg)
+- [Building Relationships The Key to Long-Term Government Sales Success](https://dev.to/eric_dequ/building-relationships-the-key-to-long-term-government-sales-success-47a3)
+- [Finding Your Niche Identifying the Right Government Contract Opportunities](https://dev.to/quantumcybersolution/finding-your-niche-identifying-the-right-government-contract-opportunities-21oo)
+- [Get Free Image Hosting with Gur IMG](https://dev.to/sh20raj/get-free-image-hosting-with-gur-img-4p8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
