@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Influence of Nature on Design: From Evolutionary Lessons to Practical Applications](https://dev.to/frtechy/the-influence-of-nature-on-design-from-evolutionary-lessons-to-practical-applications-4141)
-- [How Technology is Transforming Construction Site Logistics](https://dev.to/quantumcybersolution/how-technology-is-transforming-construction-site-logistics-3957)
-- [DIY Summer Dinghy Project Build Your Own Floating Deck](https://dev.to/eric_dequ/diy-summer-dinghy-project-build-your-own-floating-deck-2bke)
-- [Regression Testing: Ensuring Stability and Reliability in Software Development](https://dev.to/keploy/regression-testing-ensuring-stability-and-reliability-in-software-development-1228)
-- [Proposal Management Software Streamlining Your Government Contracting Process](https://dev.to/quantumcybersolution/proposal-management-software-streamlining-your-government-contracting-process-3nog)
+- [WebRTC vs WebSocket: Key Differences and Which to Use](https://dev.to/stephen568hub/webrtc-vs-websocket-key-differences-and-which-to-use-20bi)
+- [Tutorial to Build a Flutter Live Streaming App](https://dev.to/stephen568hub/tutorial-to-build-a-flutter-live-streaming-app-5bfh)
+- [core java](https://dev.to/sahithi_puppala/core-java-4ch6)
+- [Building Business Logic with a Software Engineer Mentality](https://dev.to/jaloplo/building-business-logic-with-a-software-engineer-mentality-eaa)
+- [Beyond Bots: 5 Ways AI-Powered Chatbots Revolutionize the Developer Experience](https://dev.to/swati1267/beyond-bots-5-ways-ai-powered-chatbots-revolutionize-the-developer-experience-3a1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
