@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Astrology and Quantum Entanglement Unveiling the Cosmic Dance](https://dev.to/eric_dequ/astrology-and-quantum-entanglement-unveiling-the-cosmic-dance-74g)
-- [Protecting User Data: Encryption and Secure Storage in Frontend](https://dev.to/outstandingvick/protecting-user-data-encryption-and-secure-storage-in-frontend-53ak)
-- [Unacceptable Lobster](https://dev.to/myrojyn/unacceptable-lobster-5afd)
-- [Unlocking Government Contract Opportunities with the SAMgov API](https://dev.to/quantumcybersolution/unlocking-government-contract-opportunities-with-the-samgov-api-1bm9)
-- [How to Utilize Advanced Surveying Tools for Precision Engineering](https://dev.to/quantumcybersolution/how-to-utilize-advanced-surveying-tools-for-precision-engineering-262c)
+- [Honeywell Quantum Solutions Advancing Ion Trap Quantum Computing](https://dev.to/quantumcybersolution/honeywell-quantum-solutions-advancing-ion-trap-quantum-computing-3idi)
+- [Overview of the Retail Sales Kaggle Dataset](https://dev.to/paulinebanye/overview-of-the-retail-sales-kaggle-dataset-51e6)
+- [Using AI-Generated Alt Text for Better Search Ranking](https://dev.to/divine-ikechukwu/using-ai-generated-alt-text-for-better-search-ranking-3j1n)
+- [Google Advancing Quantum Computing with Superconducting Qubits and Quantum AI](https://dev.to/quantumcybersolution/google-advancing-quantum-computing-with-superconducting-qubits-and-quantum-ai-mmf)
+- [Mastering Back Pressure in Reactive Distributed Systems](https://dev.to/tutorialq/mastering-back-pressure-in-reactive-distributed-systems-37mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
