@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximizing the Benefits of the Women-Owned Small Business WOSB Program](https://dev.to/quantumcybersolution/maximizing-the-benefits-of-the-women-owned-small-business-wosb-program-5cb5)
-- [How Digital Twins are Revolutionizing Construction Project Management](https://dev.to/quantumcybersolution/how-digital-twins-are-revolutionizing-construction-project-management-1oph)
-- [Mastering Your DCAA Audit Preparation](https://dev.to/quantumcybersolution/mastering-your-dcaa-audit-preparation-1lom)
-- [Modafinil The Smart Drug for Enhanced Cognitive Performance](https://dev.to/eric_dequ/modafinil-the-smart-drug-for-enhanced-cognitive-performance-8po)
-- [Mastering the Contractor Purchasing System Review CPSR](https://dev.to/quantumcybersolution/mastering-the-contractor-purchasing-system-review-cpsr-3cii)
+- [Top 10 Things You Should Take Care During Angular Web Development](https://dev.to/dhruvjoshi9/top-10-things-you-should-take-care-during-angular-web-development-53cb)
+- [How Smart Sensors are Enhancing Construction Site Monitoring](https://dev.to/quantumcybersolution/how-smart-sensors-are-enhancing-construction-site-monitoring-59h2)
+- [Francisco de Quevedo](https://dev.to/eric_dequ/francisco-de-quevedo-e5a)
+- [Richard Feynman The Quantum Visionary Who Shaped the Future](https://dev.to/eric_dequ/richard-feynman-the-quantum-visionary-who-shaped-the-future-4lb2)
+- [Navigating Subcontracting Plan Requirements for Large Contractors](https://dev.to/quantumcybersolution/navigating-subcontracting-plan-requirements-for-large-contractors-1037)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
