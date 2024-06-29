@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How everyone could have prevented the polyfill dot io supply chain attacks ?](https://dev.to/franklinthaker/how-everyone-could-have-prevented-the-polyfill-dot-io-supply-chain-attacks--5f9o)
-- [⏰🚀Understanding setTimeout, setImmediate, process.nextTick, and setInterval in Node.js ⏳⏰👨‍💻](https://dev.to/rajusaha/understanding-settimeout-setimmediate-processnexttick-and-setinterval-in-nodejs-1ngc)
-- [Automate EC2 Instance Management with AWS Lambda](https://dev.to/manojspace/automate-ec2-instance-management-with-aws-lambda-ono)
-- [JavaScript 𝗠𝗶𝗰𝗿𝗼𝘁𝗮𝘀𝗸 𝗤𝘂𝗲𝘂𝗲 and 𝗠𝗮𝗰𝗿𝗼𝘁𝗮𝘀𝗸 𝗤𝘂𝗲𝘂𝗲](https://dev.to/nhannguyendevjs/javascript-and-nem)
-- [Understanding Recent Widespread Visibility of the Northern Lights](https://dev.to/eric_dequ/understanding-recent-widespread-visibility-of-the-northern-lights-k9i)
+- [A Beginner&#39;s Guide to Mastering Data Science: Key Tips and Strategies 🤖](https://dev.to/kammarianand/a-beginners-guide-to-mastering-data-science-key-tips-and-strategies-h8a)
+- [Exploring the Kardashev Scale A Cosmic Metric for Advanced Civilizations](https://dev.to/quantumcybersolution/exploring-the-kardashev-scale-a-cosmic-metric-for-advanced-civilizations-38l)
+- [Quantum-Enhanced Orbital Mechanics Unlocking Unprecedented Efficiency in Space Logistics](https://dev.to/eric_dequ/quantum-enhanced-orbital-mechanics-unlocking-unprecedented-efficiency-in-space-logistics-f63)
+- [10 frases que suelen decir los developers &lpar;Parte 1&rpar;](https://dev.to/codechappie/10-frases-que-suelen-decir-los-developers-parte-1-5ap6)
+- [What is AWS CloudFormation??](https://dev.to/abhiramvarma/what-is-aws-cloudformation-ha2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
