@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use JSON Files in React JS](https://dev.to/sudhanshu_gaikwad_4a7a633/how-to-use-json-files-in-react-js-42ad)
-- [Top 10 React.js Tips and Tricks Everyone Should Know](https://dev.to/vyan/top-10-reactjs-tips-and-tricks-everyone-should-know-2m18)
-- [The Curious Case of Goosebumps Why Do We Get Them](https://dev.to/eric_dequ/the-curious-case-of-goosebumps-why-do-we-get-them-395h)
-- [The Chilling Mystery of Brain Freeze Why Do We Get It](https://dev.to/eric_dequ/the-chilling-mystery-of-brain-freeze-why-do-we-get-it-6am)
-- [The Role of Autonomous Vehicles in Construction Material Transport](https://dev.to/quantumcybersolution/the-role-of-autonomous-vehicles-in-construction-material-transport-1075)
+- [Planning My Prework Study Guide Website](https://dev.to/moth668/planning-my-prework-study-guide-website-1n38)
+- [How to Land Your First Job as a Web Developer: Tips and Resources](https://dev.to/rehmanofficial/how-to-land-your-first-job-as-a-web-developer-tips-and-resources-2o6l)
+- [Putty A Guide for SSH Connections](https://dev.to/eric_dequ/putty-a-guide-for-ssh-connections-40e9)
+- [The Role of Construction Tech in Reducing Environmental Impact](https://dev.to/quantumcybersolution/the-role-of-construction-tech-in-reducing-environmental-impact-1h29)
+- [Setting Up a Raspberry Pi A Step-by-Step Guide](https://dev.to/eric_dequ/setting-up-a-raspberry-pi-a-step-by-step-guide-1fhb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
