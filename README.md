@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Title: Svelte vs Astro: A Comparison of Frontend Technologies.](https://dev.to/agunwachidiebelecalistus/title-svelte-vs-astro-a-comparison-of-frontend-technologies-3e5b)
-- [Mastering Adobe Lightroom From Importing to Exporting](https://dev.to/quantumcybersolution/mastering-adobe-lightroom-from-importing-to-exporting-2p8f)
-- [LeetCode Day21 BackTracking Part 3](https://dev.to/flame_chan_llll/leetcode-day21-backtracking-part-3-2hhk)
-- [Asynchronous JavaScript: An In-Depth Guide](https://dev.to/genius1k/asynchronous-javascript-an-in-depth-guide-oea)
-- [OWASP Dependency Check in Node js 🛡️](https://dev.to/silentwatcher_95/owasp-dependency-check-in-node-js-1oo6)
+- [Mastering JavaScript Your Ultimate Journey Begins Here](https://dev.to/quantumcybersolution/mastering-javascript-your-ultimate-journey-begins-here-3062)
+- [Setting Up a Modem in Bridge Mode for a UDM router: A Step-by-Step Guide](https://dev.to/cloudx/setting-up-a-modem-in-bridge-mode-for-a-udm-router-a-step-by-step-guide-2c09)
+- [Case Study Template For Designing A Product](https://dev.to/iam_divs/case-study-template-for-designing-a-product-4nn4)
+- [dev tools inpect elements](https://dev.to/numanijaz_47/dev-tools-inpect-elements-4jg5)
+- [The Future of Data Analytics with AI: Transformations and Opportunities](https://dev.to/sejal_4218d5cae5da24da188/the-future-of-data-analytics-with-ai-transformations-and-opportunities-1hel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
