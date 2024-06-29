@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Potential Applications of Quantum Computing in Drug Discovery and Materials Science](https://dev.to/quantumcybersolution/exploring-the-potential-applications-of-quantum-computing-in-drug-discovery-and-materials-science-2776)
-- [SQL AND THE DJANGO ORM](https://dev.to/mustopha-mubarak/sql-and-the-django-orm-2dch)
-- [Agave Revolutionizing Construction Data Integration and Interoperability](https://dev.to/quantumcybersolution/agave-revolutionizing-construction-data-integration-and-interoperability-23b5)
-- [Frontend Technologies](https://dev.to/bright_abel_bce200514b51a/frontend-technologies-41l4)
-- [Why is website performance important?](https://dev.to/blessing_ovhorokpa_da16ad/why-is-website-performance-important-on1)
+- [Unlock the Secret to Perfect UI Design!](https://dev.to/prince_chouhan/unlock-the-secret-to-perfect-ui-design-3b0)
+- [Managing Existing AWS Resources with Terraform Import](https://dev.to/sepiyush/managing-existing-aws-resources-with-terraform-import-dd)
+- [Gravitational Waves The Symphony of the Cosmos](https://dev.to/quantumcybersolution/gravitational-waves-the-symphony-of-the-cosmos-ji6)
+- [Error handling in Next.js App Router](https://dev.to/syketb/error-handling-in-nextjs-app-router-5b8a)
+- [Architectural Patterns In Mobile Development](https://dev.to/cephasarowolo/architectural-patterns-in-mobile-development-3f3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
