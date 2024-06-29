@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Sensing Ushering in a New Era of Precision Measurements](https://dev.to/quantumcybersolution/quantum-sensing-ushering-in-a-new-era-of-precision-measurements-179k)
-- [Overcoming the challenges of backend development : My experience and application for the HNG internship](https://dev.to/land-bit/overcoming-the-challenges-of-backend-development-my-experience-and-application-for-the-hng-internship-558a)
-- [My Journey to Becoming a BackEnd Developer: Overcoming Challenges and Embracing Growth](https://dev.to/babalola_taiwojoseph_4a8/my-journey-to-becoming-a-backend-developer-overcoming-challenges-and-embracing-growth-11m5)
-- [My Dev Journey: Tackling Real-Time Challenge with Django and the HNG Internship](https://dev.to/folafolu/my-dev-journey-tackling-real-time-challenge-with-django-and-the-hng-internship-483j)
-- [Quantum Sensing The Future of Gravitational Wave Detection](https://dev.to/quantumcybersolution/quantum-sensing-the-future-of-gravitational-wave-detection-8bf)
+- [Revolutionizing Energy Storage The Game-Changer for Renewable Energy](https://dev.to/quantumcybersolution/revolutionizing-energy-storage-the-game-changer-for-renewable-energy-56ko)
+- [Tab Closer Pro v1.0.1: Sorting, and Search Features](https://dev.to/plsankar/tab-closer-pro-v101-sorting-and-search-features-o0l)
+- [Understanding prisma codes for beginners in 100 seconds](https://dev.to/jamescroissant/understanding-prisma-codes-for-beginners-in-100-seconds-489)
+- [Handling multiple request in a controller action: a note management](https://dev.to/ghulam_mujtaba_247/handling-multiple-request-in-a-controller-action-a-note-management-53kg)
+- [Sales Data Analysis: Initial Insights.](https://dev.to/owayemi_owaniyi_2824a1b73/sales-data-analysis-initial-insights-40dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
