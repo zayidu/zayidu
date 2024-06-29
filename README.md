@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Analyzing a Dataset and Writing a “First Glance” Technical Report](https://dev.to/isah_katunadam_00cd9ef1f/analyzing-a-dataset-and-writing-a-first-glance-technical-report-2jg7)
-- [A Comparative Dive into Alpine.js and Stimulus.js: Niche Frontend Technologies](https://dev.to/nwogu_precious_52ab8ab48c/a-comparative-dive-into-alpinejs-and-stimulusjs-niche-frontend-technologies-9og)
-- [React JS vs Angular, What’s The Difference?](https://dev.to/zoeyahmi/react-js-and-angular-whats-the-difference-npb)
-- [Comparing Frontend Technologies: ReactJS vs. Pure HTML, CSS, and JavaScript](https://dev.to/jomagene/comparing-frontend-technologies-reactjs-vs-pure-html-css-and-javascript-3ofb)
-- [A Simple Fix to A Major Banking Blunder](https://dev.to/hephzy/a-simple-fix-to-a-major-banking-blunder-2dbp)
+- [About the &quot;S&quot; in Solid](https://dev.to/efpage/about-the-s-in-solid-4gcl)
+- [After 1 Year, ASP.NET Core CodeBehind Framework](https://dev.to/elanatframework/after-1-year-aspnet-core-codebehind-framework-2e99)
+- [Understanding Frontend Technologies by Comparing React vs. Angular](https://dev.to/islot/understanding-frontend-technologies-by-comparing-react-vs-angular-4ga7)
+- [Neural Network From Scratch Project](https://dev.to/nelson_bermeo/neural-network-from-scratch-project-12ec)
+- [Generating a result with a context](https://dev.to/cmcrawford2/generating-a-result-with-a-context-2cc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
