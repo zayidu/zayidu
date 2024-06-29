@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Throw Away your Code!](https://dev.to/noriller/throw-away-your-code-4152)
-- [Tree data structures in Rust with tree-ds &lpar;#2: Tree Operations&rpar;](https://dev.to/clementwanjau/tree-data-structures-in-rust-with-tree-ds-2-tree-operations-54ph)
-- [Telegram Mini App Development: Enhancing the Memory Game with Card Upgrades](https://dev.to/king_triton/telegram-mini-app-development-enhancing-the-memory-game-with-card-upgrades-hn4)
-- [Reactjs or Vuejs](https://dev.to/habib0007/reactjs-or-vuejs-1345)
-- [Refactoring Nuxt Token Authentication Module to Use Nitro&#39;s Default db0 Layer](https://dev.to/rrd/refactoring-nuxt-token-authentication-module-to-use-nitros-default-db0-layer-18fd)
+- [Quantum Sensing Ushering in a New Era of Precision Measurements](https://dev.to/quantumcybersolution/quantum-sensing-ushering-in-a-new-era-of-precision-measurements-179k)
+- [Overcoming the challenges of backend development : My experience and application for the HNG internship](https://dev.to/land-bit/overcoming-the-challenges-of-backend-development-my-experience-and-application-for-the-hng-internship-558a)
+- [My Journey to Becoming a BackEnd Developer: Overcoming Challenges and Embracing Growth](https://dev.to/babalola_taiwojoseph_4a8/my-journey-to-becoming-a-backend-developer-overcoming-challenges-and-embracing-growth-11m5)
+- [My Dev Journey: Tackling Real-Time Challenge with Django and the HNG Internship](https://dev.to/folafolu/my-dev-journey-tackling-real-time-challenge-with-django-and-the-hng-internship-483j)
+- [Quantum Sensing The Future of Gravitational Wave Detection](https://dev.to/quantumcybersolution/quantum-sensing-the-future-of-gravitational-wave-detection-8bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
