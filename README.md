@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to provide shared file storage for the company offices in Azure](https://dev.to/bdporomon/how-to-provide-shared-file-storage-for-the-company-offices-in-azure-9m1)
-- [Set out with out argument functions PyTorch](https://dev.to/hyperkai/set-out-with-out-argument-functions-pytorch-3ee)
-- [The Impact of Emerging Technologies on Construction Industry Regulations](https://dev.to/quantumcybersolution/the-impact-of-emerging-technologies-on-construction-industry-regulations-362n)
-- [Hamiltonian Simulation Trotterization](https://dev.to/eric_dequ/hamiltonian-simulation-trotterization-4ena)
-- [Quantum Simulation Ideas and Issues](https://dev.to/eric_dequ/quantum-simulation-ideas-and-issues-4aeo)
+- [Real-time chat communication for a messaging system with NodeJs and Socket.IO](https://dev.to/ericblak_x/real-time-chat-communication-for-a-messaging-system-with-nodejs-and-socketio-4ac)
+- [Heartbeat Harmony How Does a Pacemaker Regulate the Heart](https://dev.to/eric_dequ/heartbeat-harmony-how-does-a-pacemaker-regulate-the-heart-1g30)
+- [The Impact of Technology on Construction Supply Chain Management](https://dev.to/quantumcybersolution/the-impact-of-technology-on-construction-supply-chain-management-21o1)
+- [The Magic of Microwaves Unraveling the Science Behind Quick and Easy Meals](https://dev.to/eric_dequ/the-magic-of-microwaves-unraveling-the-science-behind-quick-and-easy-meals-380m)
+- [Underwater Breathing How Do Fish Breathe Underwater](https://dev.to/eric_dequ/underwater-breathing-how-do-fish-breathe-underwater-2d00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
