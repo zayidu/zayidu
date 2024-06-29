@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Polymorphic vs Shared Table: Is speed a valid concern?](https://dev.to/lucaskuhn/polymorphic-vs-shared-table-is-speed-a-valid-concern-22ki)
-- [Quantum Computing The Next Frontier in Cybersecurity](https://dev.to/quantumcybersolution/quantum-computing-the-next-frontier-in-cybersecurity-1lo6)
-- [CSS for VR and AR: Styling for Virtual Worlds](https://dev.to/adewale_gbenga/css-for-vr-and-ar-styling-for-virtual-worlds-4g2)
-- [19 Next.js Project Ideas For You to Get Hired](https://dev.to/codebymedu/19-nextjs-project-ideas-for-you-to-get-hired-3i84)
-- [Building Blocks Of Zig: Unions](https://dev.to/dayvster/building-blocks-of-zig-unions-3bmg)
+- [Quantum Key Distribution Revolutionizing Secure Communications](https://dev.to/quantumcybersolution/quantum-key-distribution-revolutionizing-secure-communications-1dbg)
+- [Por que a Apple Odeia o Brasil? A História Proibida que Ninguém Contou!](https://dev.to/terminalcoffee/por-que-a-apple-odeia-o-brasil-a-historia-proibida-que-ninguem-contou-21ek)
+- [AI-powered Resume and Cover Letter Generator &lpar;Next.js, GPT4, Langchain &amp; CopilotKit&rpar;](https://dev.to/the_greatbonnie/ai-powered-resume-and-cover-letter-generator-nextjs-gpt4-langchain-copilotkit-53pb)
+- [Day 19 Task: Docker for DevOps Engineers](https://dev.to/oncloud7/day-19-task-docker-for-devops-engineers-5ck5)
+- [Profile Card UI using Html &amp; Css - flexbox](https://dev.to/syedmuhammadaliraza/pro-file-card-ui-using-html-css-flexbox-518f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
