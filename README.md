@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Purple Shampoo The Science Behind Blonde Hair Maintenance](https://dev.to/eric_dequ/purple-shampoo-the-science-behind-blonde-hair-maintenance-b9o)
-- [The Role of Advanced Simulation Software in Construction Planning](https://dev.to/quantumcybersolution/the-role-of-advanced-simulation-software-in-construction-planning-401c)
-- [In-Depth Analysis of BEBE Platform Token: The Core and Future Prospects of the Broken Bound Ecosystem](https://dev.to/brokenbound/in-depth-analysis-of-bebe-platform-token-the-core-and-future-prospects-of-the-broken-bound-ecosystem-1ng0)
-- [The Invisible Armor Unraveling the Science of Vaccines](https://dev.to/eric_dequ/the-invisible-armor-unraveling-the-science-of-vaccines-554i)
-- [How I faced my first backend bug.](https://dev.to/nweke_19/how-i-faced-my-first-backend-bug-ai2)
+- [How to Use JSON Files in React JS](https://dev.to/sudhanshu_gaikwad_4a7a633/how-to-use-json-files-in-react-js-42ad)
+- [Top 10 React.js Tips and Tricks Everyone Should Know](https://dev.to/vyan/top-10-reactjs-tips-and-tricks-everyone-should-know-2m18)
+- [The Curious Case of Goosebumps Why Do We Get Them](https://dev.to/eric_dequ/the-curious-case-of-goosebumps-why-do-we-get-them-395h)
+- [The Chilling Mystery of Brain Freeze Why Do We Get It](https://dev.to/eric_dequ/the-chilling-mystery-of-brain-freeze-why-do-we-get-it-6am)
+- [The Role of Autonomous Vehicles in Construction Material Transport](https://dev.to/quantumcybersolution/the-role-of-autonomous-vehicles-in-construction-material-transport-1075)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
