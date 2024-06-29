@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Planning My Prework Study Guide Website](https://dev.to/moth668/planning-my-prework-study-guide-website-1n38)
-- [How to Land Your First Job as a Web Developer: Tips and Resources](https://dev.to/rehmanofficial/how-to-land-your-first-job-as-a-web-developer-tips-and-resources-2o6l)
-- [Putty A Guide for SSH Connections](https://dev.to/eric_dequ/putty-a-guide-for-ssh-connections-40e9)
-- [The Role of Construction Tech in Reducing Environmental Impact](https://dev.to/quantumcybersolution/the-role-of-construction-tech-in-reducing-environmental-impact-1h29)
-- [Setting Up a Raspberry Pi A Step-by-Step Guide](https://dev.to/eric_dequ/setting-up-a-raspberry-pi-a-step-by-step-guide-1fhb)
+- [How everyone could have prevented the polyfill dot io supply chain attacks ?](https://dev.to/franklinthaker/how-everyone-could-have-prevented-the-polyfill-dot-io-supply-chain-attacks--5f9o)
+- [⏰🚀Understanding setTimeout, setImmediate, process.nextTick, and setInterval in Node.js ⏳⏰👨‍💻](https://dev.to/rajusaha/understanding-settimeout-setimmediate-processnexttick-and-setinterval-in-nodejs-1ngc)
+- [Automate EC2 Instance Management with AWS Lambda](https://dev.to/manojspace/automate-ec2-instance-management-with-aws-lambda-ono)
+- [JavaScript 𝗠𝗶𝗰𝗿𝗼𝘁𝗮𝘀𝗸 𝗤𝘂𝗲𝘂𝗲 and 𝗠𝗮𝗰𝗿𝗼𝘁𝗮𝘀𝗸 𝗤𝘂𝗲𝘂𝗲](https://dev.to/nhannguyendevjs/javascript-and-nem)
+- [Understanding Recent Widespread Visibility of the Northern Lights](https://dev.to/eric_dequ/understanding-recent-widespread-visibility-of-the-northern-lights-k9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
