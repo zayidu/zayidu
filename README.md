@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock the Secret to Perfect UI Design!](https://dev.to/prince_chouhan/unlock-the-secret-to-perfect-ui-design-3b0)
-- [Managing Existing AWS Resources with Terraform Import](https://dev.to/sepiyush/managing-existing-aws-resources-with-terraform-import-dd)
-- [Gravitational Waves The Symphony of the Cosmos](https://dev.to/quantumcybersolution/gravitational-waves-the-symphony-of-the-cosmos-ji6)
-- [Error handling in Next.js App Router](https://dev.to/syketb/error-handling-in-nextjs-app-router-5b8a)
-- [Architectural Patterns In Mobile Development](https://dev.to/cephasarowolo/architectural-patterns-in-mobile-development-3f3b)
+- [Kickstart Your Python Journey A Beginners Guide](https://dev.to/quantumcybersolution/kickstart-your-python-journey-a-beginners-guide-14c5)
+- [Demystifying AI: A Beginner&#39;s Guide to Artificial Intelligence](https://dev.to/akshay5651/demystifying-ai-a-beginners-guide-to-artificial-intelligence-3p4d)
+- [MyFirstApp - React Native with Expo &lpar;P5&rpar; - Code Layout Cart Screen](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p5-code-layout-cart-screen-1nnj)
+- [core java -Basics](https://dev.to/sahithi_puppala/core-java-basics-2aec)
+- [MyFirstApp - React Native with Expo &lpar;P4&rpar; - Add Fix Footer Screen](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p4-add-fix-footer-screen-15cd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
