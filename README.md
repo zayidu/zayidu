@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to Mastering Data Science: Key Tips and Strategies 🤖](https://dev.to/kammarianand/a-beginners-guide-to-mastering-data-science-key-tips-and-strategies-h8a)
-- [Exploring the Kardashev Scale A Cosmic Metric for Advanced Civilizations](https://dev.to/quantumcybersolution/exploring-the-kardashev-scale-a-cosmic-metric-for-advanced-civilizations-38l)
-- [Quantum-Enhanced Orbital Mechanics Unlocking Unprecedented Efficiency in Space Logistics](https://dev.to/eric_dequ/quantum-enhanced-orbital-mechanics-unlocking-unprecedented-efficiency-in-space-logistics-f63)
-- [10 frases que suelen decir los developers &lpar;Parte 1&rpar;](https://dev.to/codechappie/10-frases-que-suelen-decir-los-developers-parte-1-5ap6)
-- [What is AWS CloudFormation??](https://dev.to/abhiramvarma/what-is-aws-cloudformation-ha2)
+- [Exploring the Potential Applications of Quantum Computing in Drug Discovery and Materials Science](https://dev.to/quantumcybersolution/exploring-the-potential-applications-of-quantum-computing-in-drug-discovery-and-materials-science-2776)
+- [SQL AND THE DJANGO ORM](https://dev.to/mustopha-mubarak/sql-and-the-django-orm-2dch)
+- [Agave Revolutionizing Construction Data Integration and Interoperability](https://dev.to/quantumcybersolution/agave-revolutionizing-construction-data-integration-and-interoperability-23b5)
+- [Frontend Technologies](https://dev.to/bright_abel_bce200514b51a/frontend-technologies-41l4)
+- [Why is website performance important?](https://dev.to/blessing_ovhorokpa_da16ad/why-is-website-performance-important-on1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
