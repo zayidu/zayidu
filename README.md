@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Entendendo o MTU nas Redes de Computadores](https://dev.to/iamthiago/entendendo-o-mtu-nas-redes-de-computadores-21d5)
-- [Exploring Frontend Technologies: Elm vs. Svelte](https://dev.to/0mobolaji/exploring-frontend-technologies-elm-vs-svelte-4hp0)
-- [CodeBehind 2.8 Released, Cache the Pages and the Controller](https://dev.to/elanatframework/codebehind-28-released-cache-the-pages-and-the-controller-j6h)
-- [Databricks - Variant Type Analysis](https://dev.to/dadak5/databricks-variant-type-analysis-1bh1)
-- [🦊 GitLab: A Python Script Displaying Latest Pipelines in Group&#39;s Projects](https://dev.to/zenika/gitlab-a-python-script-displaying-latest-pipelines-in-groups-projects-5b5a)
+- [Building Cross-Platform Solutions with Wearable App Integration](https://dev.to/chariesdevil/building-cross-platform-solutions-with-wearable-app-integration-2n2d)
+- [Angular vs. Vue.js: Choosing the Right Tool for the Job](https://dev.to/milesssssss/angular-vs-vuejs-choosing-the-right-tool-for-the-job-4pdd)
+- [Jenkins Ci/Cd Pipeline to Build a Go Application into a Docker Image with Multistage build](https://dev.to/audu97/jenkins-cicd-pipeline-to-build-a-go-application-into-a-docker-image-with-multistage-build-394j)
+- [Install and Set Up Kubernetes on Linux](https://dev.to/markliu2013/install-and-set-up-kubernetes-on-linux-1pgo)
+- [Bitwise Operations for CP &lpar;DSA - 1&rpar;](https://dev.to/madgan95/bitwise-operations-for-cp-dsa-1-5e2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
