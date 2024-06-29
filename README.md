@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JavaScript Your Ultimate Journey Begins Here](https://dev.to/quantumcybersolution/mastering-javascript-your-ultimate-journey-begins-here-3062)
-- [Setting Up a Modem in Bridge Mode for a UDM router: A Step-by-Step Guide](https://dev.to/cloudx/setting-up-a-modem-in-bridge-mode-for-a-udm-router-a-step-by-step-guide-2c09)
-- [Case Study Template For Designing A Product](https://dev.to/iam_divs/case-study-template-for-designing-a-product-4nn4)
-- [dev tools inpect elements](https://dev.to/numanijaz_47/dev-tools-inpect-elements-4jg5)
-- [The Future of Data Analytics with AI: Transformations and Opportunities](https://dev.to/sejal_4218d5cae5da24da188/the-future-of-data-analytics-with-ai-transformations-and-opportunities-1hel)
+- [Entendendo o MTU nas Redes de Computadores](https://dev.to/iamthiago/entendendo-o-mtu-nas-redes-de-computadores-21d5)
+- [Exploring Frontend Technologies: Elm vs. Svelte](https://dev.to/0mobolaji/exploring-frontend-technologies-elm-vs-svelte-4hp0)
+- [CodeBehind 2.8 Released, Cache the Pages and the Controller](https://dev.to/elanatframework/codebehind-28-released-cache-the-pages-and-the-controller-j6h)
+- [Databricks - Variant Type Analysis](https://dev.to/dadak5/databricks-variant-type-analysis-1bh1)
+- [🦊 GitLab: A Python Script Displaying Latest Pipelines in Group&#39;s Projects](https://dev.to/zenika/gitlab-a-python-script-displaying-latest-pipelines-in-groups-projects-5b5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
