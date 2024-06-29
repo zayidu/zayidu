@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kickstart Your Python Journey A Beginners Guide](https://dev.to/quantumcybersolution/kickstart-your-python-journey-a-beginners-guide-14c5)
-- [Demystifying AI: A Beginner&#39;s Guide to Artificial Intelligence](https://dev.to/akshay5651/demystifying-ai-a-beginners-guide-to-artificial-intelligence-3p4d)
-- [MyFirstApp - React Native with Expo &lpar;P5&rpar; - Code Layout Cart Screen](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p5-code-layout-cart-screen-1nnj)
-- [core java -Basics](https://dev.to/sahithi_puppala/core-java-basics-2aec)
-- [MyFirstApp - React Native with Expo &lpar;P4&rpar; - Add Fix Footer Screen](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p4-add-fix-footer-screen-15cd)
+- [Title: Svelte vs Astro: A Comparison of Frontend Technologies.](https://dev.to/agunwachidiebelecalistus/title-svelte-vs-astro-a-comparison-of-frontend-technologies-3e5b)
+- [Mastering Adobe Lightroom From Importing to Exporting](https://dev.to/quantumcybersolution/mastering-adobe-lightroom-from-importing-to-exporting-2p8f)
+- [LeetCode Day21 BackTracking Part 3](https://dev.to/flame_chan_llll/leetcode-day21-backtracking-part-3-2hhk)
+- [Asynchronous JavaScript: An In-Depth Guide](https://dev.to/genius1k/asynchronous-javascript-an-in-depth-guide-oea)
+- [OWASP Dependency Check in Node js 🛡️](https://dev.to/silentwatcher_95/owasp-dependency-check-in-node-js-1oo6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
