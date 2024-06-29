@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [@PreDestroy and @PostConstruct in Spring](https://dev.to/tiuwill/predestroy-and-postconstruct-in-spring-2ff)
-- [Build a Responsive Website Step-by-Step HTML CSS and JavaScript](https://dev.to/quantumcybersolution/build-a-responsive-website-step-by-step-html-css-and-javascript-20l0)
-- [Tutorial to Create a Virtual Machine Scale Set in Microsoft Azure.](https://dev.to/ikay/tutorial-to-create-a-virtual-machine-scale-set-in-microsoft-azure-5a69)
-- [Mastering Logging with Winston in Node.js](https://dev.to/abigail_nneoma/mastering-logging-with-winston-in-nodejs-5fnl)
-- [Quantum Computing Revolutionizing Industries and Shaping the Future](https://dev.to/eric_dequ/quantum-computing-revolutionizing-industries-and-shaping-the-future-38jp)
+- [How to provide shared file storage for the company offices in Azure](https://dev.to/bdporomon/how-to-provide-shared-file-storage-for-the-company-offices-in-azure-9m1)
+- [Set out with out argument functions PyTorch](https://dev.to/hyperkai/set-out-with-out-argument-functions-pytorch-3ee)
+- [The Impact of Emerging Technologies on Construction Industry Regulations](https://dev.to/quantumcybersolution/the-impact-of-emerging-technologies-on-construction-industry-regulations-362n)
+- [Hamiltonian Simulation Trotterization](https://dev.to/eric_dequ/hamiltonian-simulation-trotterization-4ena)
+- [Quantum Simulation Ideas and Issues](https://dev.to/eric_dequ/quantum-simulation-ideas-and-issues-4aeo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
