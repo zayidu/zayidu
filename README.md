@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Defying Gravity The Science Behind Airplanes Staying Aloft](https://dev.to/eric_dequ/defying-gravity-the-science-behind-airplanes-staying-aloft-hb8)
-- [The Role of Advanced Robotics in Construction Automation](https://dev.to/quantumcybersolution/the-role-of-advanced-robotics-in-construction-automation-5893)
-- [The Marvel of Gecko Adhesion How Geckos Stick to Walls](https://dev.to/eric_dequ/the-marvel-of-gecko-adhesion-how-geckos-stick-to-walls-48fh)
-- [The Rhythm of the Ocean How Do Tides Work](https://dev.to/eric_dequ/the-rhythm-of-the-ocean-how-do-tides-work-48dh)
-- [React.js vs. Vue.js: A Quick Comparison of Frontend Technologies](https://dev.to/folanuel/reactjs-vs-vuejs-a-quick-comparison-of-frontend-technologies-1df4)
+- [Purple Shampoo The Science Behind Blonde Hair Maintenance](https://dev.to/eric_dequ/purple-shampoo-the-science-behind-blonde-hair-maintenance-b9o)
+- [The Role of Advanced Simulation Software in Construction Planning](https://dev.to/quantumcybersolution/the-role-of-advanced-simulation-software-in-construction-planning-401c)
+- [In-Depth Analysis of BEBE Platform Token: The Core and Future Prospects of the Broken Bound Ecosystem](https://dev.to/brokenbound/in-depth-analysis-of-bebe-platform-token-the-core-and-future-prospects-of-the-broken-bound-ecosystem-1ng0)
+- [The Invisible Armor Unraveling the Science of Vaccines](https://dev.to/eric_dequ/the-invisible-armor-unraveling-the-science-of-vaccines-554i)
+- [How I faced my first backend bug.](https://dev.to/nweke_19/how-i-faced-my-first-backend-bug-ai2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
