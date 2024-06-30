@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Array search methods in JavaScript.!](https://dev.to/samandarhodiev/array-search-methods-in-javascript-406p)
-- [Understanding Security Context in Kubernetes](https://dev.to/piyushbagani15/understanding-security-context-in-kubernetes-1gkn)
-- [Ego, Not Pride, Comes Before a Fall](https://dev.to/thesimpledev/ego-not-pride-comes-before-a-fall-3bcl)
-- [Kubernetes-project-using-an-EKS-cluster](https://dev.to/sukuru_naga_sai_srinivasu/kubernetes-project-using-an-eks-cluster-42kg)
-- [Effective Debugging Techniques for React JS: Debugging Doesn’t Have to Be a Drag!](https://dev.to/a_shokn/effective-debugging-techniques-for-react-js-debugging-doesnt-have-to-be-a-drag-2iea)
+- [Automating Email Notifications for S3 Object Uploads using SNS](https://dev.to/mohanapriya_s_1808/automating-email-notifications-for-s3-object-uploads-using-sns-5efb)
+- [Issue 005 - The Bottleneck of Continuous Writing](https://dev.to/justin3go/issue-005-the-bottleneck-of-continuous-writing-313b)
+- [7 Books That Make You A Great Tech Lead](https://dev.to/codebymedu/7-books-that-make-you-a-great-tech-lead-16gf)
+- [React vs Flutter](https://dev.to/cebuka/react-vs-flutter-1mac)
+- [Page navigation with react-router-dom](https://dev.to/thinhkhang97/page-navigation-with-react-router-dom-a38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
