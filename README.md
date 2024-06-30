@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP in the Age of AI: Don&#39;t Overlook This Web Powerhouse for Your Next Smart Project](https://dev.to/kareem-khaled/php-in-the-age-of-ai-dont-overlook-this-web-powerhouse-for-your-next-smart-project-1hie)
-- [function declarations vs function expressions in Javascript 🤔✌️](https://dev.to/rajusaha/function-declarations-vs-function-expressions-in-javascript-353l)
-- [how to Learn Dijkstra&#39;s Algorithm?](https://dev.to/fridaymeng/how-to-learn-dijkstras-algorithm-17e3)
-- [DAY 6 PROJECT: POLL SYSTEM](https://dev.to/shrishti_srivastava_/day-6-project-poll-system-47n0)
-- [From Zero to Hero: Building Your First Serverless Application with AWS Lambda](https://dev.to/raazketan/from-zero-to-hero-building-your-first-serverless-application-with-aws-lambda-5h2i)
+- [8 mistakes that noob product managers make. Tips from a productperson who has been through it all](https://dev.to/ispmanager/8-mistakes-that-noob-product-managers-make-tips-from-a-productperson-who-has-been-through-it-all-44no)
+- [Difference between normal links &amp; tag links in Next.js](https://dev.to/parsafarahani84/difference-between-normal-links-tag-links-in-nextjs-8m7)
+- [The Ultimate Guide to Laravel: A PHP Framework for Modern Web Applications](https://dev.to/arafatweb/the-ultimate-guide-to-laravel-a-php-framework-for-modern-web-applications-2c3g)
+- [AWS: Your Ally in Amplifying Reliability with GenAI](https://dev.to/aws-builders/aws-your-ally-in-amplifying-reliability-with-genai-41of)
+- [How SHELL-GPT Revolutionized My Workflow](https://dev.to/karleeov/how-shell-gpt-revolutionized-my-workflow-4o88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
