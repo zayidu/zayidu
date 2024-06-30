@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Vertically Align Content with Tailwind CSS Across a Full-Screen Div](https://dev.to/bobbyiliev/how-to-vertically-align-content-with-tailwind-css-across-a-full-screen-div-4265)
-- [My Journey into Backend Development](https://dev.to/chris_friday_35d646ff4972/my-journey-into-backend-development-1aan)
-- [EVM Reverse Engineering Challenge 0x01](https://dev.to/gealber/evm-reverse-engineering-challenge-0x01-462d)
-- [My 111-Day Experience with The Odin Project](https://dev.to/codebyblazej/my-111-day-experience-with-the-odin-project-4f5n)
-- [Understanding FastAPI: How FastAPI works](https://dev.to/ceb10n/understanding-fastapi-how-fastapi-works-37od)
+- [Svelte vs. ReactJS in Modern Frontend Development](https://dev.to/setgram/svelte-vs-reactjs-in-modern-frontend-development-dee)
+- [API Key Authentication with API Gateway using AWS CDK](https://dev.to/aws-builders/api-key-authentication-with-api-gateway-using-aws-cdk-5cjd)
+- [How to validate requests in Amazon API Gateway](https://dev.to/iamsherif/how-to-validate-requests-in-amazon-api-gateway-4n78)
+- [O que aprendi sobre Monitoramento de Aplicações Front-End nos últimos meses.](https://dev.to/soares_pedro/o-que-aprendi-sobre-monitoramento-de-aplicacoes-front-end-nos-ultimos-meses-18ol)
+- [O que aprendi sobre Monitoramento de Aplicações Front-End nos últimos meses.](https://dev.to/soares_pedro/o-que-aprendi-sobre-monitoramento-de-aplicacoes-front-end-nos-ultimos-meses-aom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
