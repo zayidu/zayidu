@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Legendary Emails in Node js with mjml 📩](https://dev.to/silentwatcher_95/legendary-emails-in-node-js-with-mjml-4gp9)
-- [React State Management: When &amp; Where add your states?](https://dev.to/atenajoon/react-state-management-when-where-add-your-states-3g61)
-- [Top SQL Interview Questions](https://dev.to/shruti_maheshwari_/top-sql-interview-questions-3gp0)
-- [CVE-2024-27867- Eavesdropping vulnerability AirPods](https://dev.to/yowise/cve-2024-27867-eavesdropping-vulnerability-airpods-3c4j)
-- [SQL Database Migration in .NET with Entity Framework Core](https://dev.to/fredchuks/sql-database-migration-in-net-with-entity-framework-core-3117)
+- [How to Vertically Align Content with Tailwind CSS Across a Full-Screen Div](https://dev.to/bobbyiliev/how-to-vertically-align-content-with-tailwind-css-across-a-full-screen-div-4265)
+- [My Journey into Backend Development](https://dev.to/chris_friday_35d646ff4972/my-journey-into-backend-development-1aan)
+- [EVM Reverse Engineering Challenge 0x01](https://dev.to/gealber/evm-reverse-engineering-challenge-0x01-462d)
+- [My 111-Day Experience with The Odin Project](https://dev.to/codebyblazej/my-111-day-experience-with-the-odin-project-4f5n)
+- [Understanding FastAPI: How FastAPI works](https://dev.to/ceb10n/understanding-fastapi-how-fastapi-works-37od)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
