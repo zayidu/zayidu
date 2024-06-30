@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Load Balancers in AWS](https://dev.to/vivekalhat/load-balancers-in-aws-5gbb)
-- [Immutable Object in C#](https://dev.to/ipazooki/immutable-object-in-c-o0g)
-- [Intro to solidity](https://dev.to/arsh_the_coder/intro-to-solidity-2dbi)
-- [I was told it&#39;s not discrimination](https://dev.to/sarah_bruce_83fc98defc6d5/i-was-told-its-not-discrimination-3ceg)
-- [Key Features of Functional Programming in C#](https://dev.to/waelhabbal/key-features-of-functional-programming-in-c-13ia)
+- [Customize Filament Table Query](https://dev.to/arielmejiadev/customize-filament-table-query-2c2c)
+- [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://dev.to/mdarifulhaque/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable-4h7)
+- [Self-Healing Test Automation: A Key Enabler for Agile and DevOps Teams](https://dev.to/jamescantor38/self-healing-test-automation-a-key-enabler-for-agile-and-devops-teams-1e8i)
+- [Beyond File Explorer: Alternatives for Windows File Explorer](https://dev.to/coffmans/beyond-file-explorer-alternatives-for-windows-file-explorer-46c0)
+- [RAG Systems Simplified - IV](https://dev.to/mahakfaheem/rag-systems-simplified-iv-1dbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
