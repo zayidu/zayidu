@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [About the &quot;S&quot; in Solid](https://dev.to/efpage/about-the-s-in-solid-4gcl)
-- [After 1 Year, ASP.NET Core CodeBehind Framework](https://dev.to/elanatframework/after-1-year-aspnet-core-codebehind-framework-2e99)
-- [Understanding Frontend Technologies by Comparing React vs. Angular](https://dev.to/islot/understanding-frontend-technologies-by-comparing-react-vs-angular-4ga7)
-- [Neural Network From Scratch Project](https://dev.to/nelson_bermeo/neural-network-from-scratch-project-12ec)
-- [Generating a result with a context](https://dev.to/cmcrawford2/generating-a-result-with-a-context-2cc8)
+- [Developing Serverless Applications with Cloudflare Workers](https://dev.to/kartikmehta8/developing-serverless-applications-with-cloudflare-workers-414a)
+- [Reason you are not valuable as a web developer](https://dev.to/crown_code_43cc4b866d2688/reason-you-are-not-valuable-as-a-web-developer-h5p)
+- [Overcoming Challenges](https://dev.to/megawatts/overcoming-challenges-4bad)
+- [Prolog first steps: predicates, metapredicates, lambdas](https://dev.to/escribapetrus/prolog-first-steps-predicates-metapredicates-lambdas-47md)
+- [React vs Angular: Tips to help you choose ⚔️💻](https://dev.to/joebim/react-vs-angular-tips-to-help-you-choose-49ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
