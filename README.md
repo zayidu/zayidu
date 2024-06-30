@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Symfony Station Communiqué - 28 June 2024: A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-28-june-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-5dmk)
-- [Symfony Station Communiqué - 28 June 2024: A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-28-june-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-2n6n)
-- [SwiftUI Environment Variables: Navigating the Same-Type Constraint](https://dev.to/asafhuseyn/swiftui-environment-variables-navigating-the-same-type-constraint-3lno)
-- [Building a DOCX to Markdown Converter with Node.js](https://dev.to/sacode/building-a-docx-to-markdown-converter-with-nodejs-1106)
-- [Developing Serverless Applications with Cloudflare Workers](https://dev.to/kartikmehta8/developing-serverless-applications-with-cloudflare-workers-414a)
+- [Using JSONB in PostgreSQL](https://dev.to/chauhoangminhnguyen/using-jsonb-in-postgresql-55ao)
+- [What is an Observability Pipeline?](https://dev.to/rickysarora/what-is-an-observability-pipeline-2n56)
+- [How I created reusable React Icon Component using react-icons library in an AstroJs Project.](https://dev.to/mrpaulishaili/how-i-created-reusable-react-icon-component-using-react-icons-library-in-an-astrojs-project-nk4)
+- [Remove Duplicate Elements from JavaScript Array](https://dev.to/dharam/remove-duplicate-elements-from-javascript-array-3862)
+- [Boost Your Angular App&#39;s Speed: Code Splitting Strategies](https://dev.to/wirefuture/boost-your-angular-apps-speed-code-splitting-strategies-5e5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
