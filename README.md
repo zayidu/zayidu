@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Your Sidebar Hurting Your UX? Our Redesign Journey to Effortless Navigation](https://dev.to/ganesh-kumar/is-your-sidebar-hurting-your-ux-our-redesign-journey-to-effortless-navigation-391d)
-- [“==” and “===” difference in javascript](https://dev.to/sagar7170/-and-difference-in-javascript-44c1)
-- [Confusion vs Diffusion in cryptography](https://dev.to/himanshu_raj55/confusion-vs-diffusion-in-cryptography-i0n)
-- [Variable &amp; Variable Scope in PHP](https://dev.to/gunawanefendi/variable-variable-scope-in-php-3l4a)
-- [MyFirstApp - React Native with Expo &lpar;P11&rpar; - Create a Layout Settings](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p11-create-a-layout-settings-4fd4)
+- [Load Balancers in AWS](https://dev.to/vivekalhat/load-balancers-in-aws-5gbb)
+- [Immutable Object in C#](https://dev.to/ipazooki/immutable-object-in-c-o0g)
+- [Intro to solidity](https://dev.to/arsh_the_coder/intro-to-solidity-2dbi)
+- [I was told it&#39;s not discrimination](https://dev.to/sarah_bruce_83fc98defc6d5/i-was-told-its-not-discrimination-3ceg)
+- [Key Features of Functional Programming in C#](https://dev.to/waelhabbal/key-features-of-functional-programming-in-c-13ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
