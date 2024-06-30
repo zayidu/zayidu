@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Customizing Your Lazyvim Setup for Personal Preferences](https://dev.to/insideee_dev/customizing-your-lazyvim-setup-for-personal-preferences-57)
-- [Unveiling the Shield: Ensuring Security with Open Source 2FA](https://dev.to/verifyvault/unveiling-the-shield-ensuring-security-with-open-source-2fa-nn6)
-- [Comparing Javascript Front-end technologies &lpar;Angular and React&rpar;](https://dev.to/iam_nick/comparing-javascript-front-end-technologies-angular-and-react-d3c)
-- [My Mobile Development Journey and Architectural Insights](https://dev.to/akpamzy_junior_cc600a044d/my-mobile-development-journey-and-architectural-insights-pmg)
-- [Tipar automáticamente Swagger/OpenAPI endpoints con NSwag](https://dev.to/altaskur/tipar-automaticamente-swaggeropenapi-endpoints-con-nswag-397g)
+- [Is Your Sidebar Hurting Your UX? Our Redesign Journey to Effortless Navigation](https://dev.to/ganesh-kumar/is-your-sidebar-hurting-your-ux-our-redesign-journey-to-effortless-navigation-391d)
+- [“==” and “===” difference in javascript](https://dev.to/sagar7170/-and-difference-in-javascript-44c1)
+- [Confusion vs Diffusion in cryptography](https://dev.to/himanshu_raj55/confusion-vs-diffusion-in-cryptography-i0n)
+- [Variable &amp; Variable Scope in PHP](https://dev.to/gunawanefendi/variable-variable-scope-in-php-3l4a)
+- [MyFirstApp - React Native with Expo &lpar;P11&rpar; - Create a Layout Settings](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p11-create-a-layout-settings-4fd4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
