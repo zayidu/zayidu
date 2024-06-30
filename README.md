@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling databases with AWS RDS and read replicas](https://dev.to/vivekalhat/scaling-databases-with-aws-rds-and-read-replicas-58h9)
-- [How to Customize GitHub Profile: Part 4](https://dev.to/ryoichihomma/how-to-customize-github-profile-part-4-29h)
-- [Running Livebook as a Systemd Service for Your User](https://dev.to/dkuku/running-livebook-as-a-systemd-service-for-your-user-1b9c)
-- [This is not a button](https://dev.to/tim_tom_13d2d04a6b587c4a3/this-is-not-a-button-51p0)
-- [This is not a button](https://dev.to/tim_tom_13d2d04a6b587c4a3/this-is-not-a-button-b70)
+- [[DAY 66-68] I built a drum set app using React](https://dev.to/thomascansino/day-66-68-i-built-a-drum-set-app-using-react-4i19)
+- [Use AWS Serverless to sell items in Habitica](https://dev.to/aws-builders/use-aws-serverless-to-sell-items-in-habitica-91)
+- [Understanding Declarative Programming in React](https://dev.to/imabhinavdev/understanding-declarative-programming-in-react-197i)
+- [Top Cloud Providers in 2024](https://dev.to/devops_den/top-cloud-providers-in-2024-fne)
+- [Understanding JavaScript Closures: A Comprehensive Guide](https://dev.to/mukeshb/understanding-javascript-closures-a-comprehensive-guide-306p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
