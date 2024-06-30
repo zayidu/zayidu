@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [8 mistakes that noob product managers make. Tips from a productperson who has been through it all](https://dev.to/ispmanager/8-mistakes-that-noob-product-managers-make-tips-from-a-productperson-who-has-been-through-it-all-44no)
-- [Difference between normal links &amp; tag links in Next.js](https://dev.to/parsafarahani84/difference-between-normal-links-tag-links-in-nextjs-8m7)
-- [The Ultimate Guide to Laravel: A PHP Framework for Modern Web Applications](https://dev.to/arafatweb/the-ultimate-guide-to-laravel-a-php-framework-for-modern-web-applications-2c3g)
-- [AWS: Your Ally in Amplifying Reliability with GenAI](https://dev.to/aws-builders/aws-your-ally-in-amplifying-reliability-with-genai-41of)
-- [How SHELL-GPT Revolutionized My Workflow](https://dev.to/karleeov/how-shell-gpt-revolutionized-my-workflow-4o88)
+- [Scaling databases with AWS RDS and read replicas](https://dev.to/vivekalhat/scaling-databases-with-aws-rds-and-read-replicas-58h9)
+- [How to Customize GitHub Profile: Part 4](https://dev.to/ryoichihomma/how-to-customize-github-profile-part-4-29h)
+- [Running Livebook as a Systemd Service for Your User](https://dev.to/dkuku/running-livebook-as-a-systemd-service-for-your-user-1b9c)
+- [This is not a button](https://dev.to/tim_tom_13d2d04a6b587c4a3/this-is-not-a-button-51p0)
+- [This is not a button](https://dev.to/tim_tom_13d2d04a6b587c4a3/this-is-not-a-button-b70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
