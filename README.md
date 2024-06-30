@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Weekly Dive into Programming, Web3, and Open-Source Tools](https://dev.to/shreyvijayvargiya/your-weekly-dive-into-programming-web3-and-open-source-tools-28pb)
-- [Backend Development from my view - a little story.](https://dev.to/jprof/backend-development-from-my-view-a-little-story-gfn)
-- [React vs. Angular: A Comprehensive Comparison](https://dev.to/tinkerrbelle/react-vs-angular-a-comprehensive-comparison-4cbl)
-- [Creating and Managing IAM users from Your EC2 instance](https://dev.to/rashmitha_v_d0cfc20ba7152/creating-and-managing-iam-users-from-your-ec2-instance-4a6l)
-- [Coding an Arduino snake game using a TFT LCD screen](https://dev.to/luis_felipelpez_b2a2968/coding-an-arduino-snake-game-using-a-tft-lcd-screen-2e4)
+- [Creating a Synchronized Vertical and Horizontal Scrolling Component for Web Apps](https://dev.to/rahul_patwa_f99f19cd1519b/creating-a-synchronized-vertical-and-horizontal-scrolling-component-for-web-apps-1igc)
+- [Mastering Grids in UI Design](https://dev.to/prince_chouhan/mastering-grids-in-ui-design-3pbb)
+- [USB HID Down the rabbit hole: Logitech G435 dongle](https://dev.to/endes/usb-hid-down-the-rabbit-hole-logitech-g435-dongle-33if)
+- [VIP in GCP](https://dev.to/intersystems/vip-in-gcp-3f2d)
+- [Learning CRUD Operations with NodeJS](https://dev.to/ojerahi_daniel/learning-crud-operations-with-nodejs-11i1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
