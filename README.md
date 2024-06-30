@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Symfony Station Communiqué - 28 June 2024: A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-28-june-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-5dmk)
+- [Symfony Station Communiqué - 28 June 2024: A look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-28-june-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-2n6n)
+- [SwiftUI Environment Variables: Navigating the Same-Type Constraint](https://dev.to/asafhuseyn/swiftui-environment-variables-navigating-the-same-type-constraint-3lno)
+- [Building a DOCX to Markdown Converter with Node.js](https://dev.to/sacode/building-a-docx-to-markdown-converter-with-nodejs-1106)
 - [Developing Serverless Applications with Cloudflare Workers](https://dev.to/kartikmehta8/developing-serverless-applications-with-cloudflare-workers-414a)
-- [Reason you are not valuable as a web developer](https://dev.to/crown_code_43cc4b866d2688/reason-you-are-not-valuable-as-a-web-developer-h5p)
-- [Overcoming Challenges](https://dev.to/megawatts/overcoming-challenges-4bad)
-- [Prolog first steps: predicates, metapredicates, lambdas](https://dev.to/escribapetrus/prolog-first-steps-predicates-metapredicates-lambdas-47md)
-- [React vs Angular: Tips to help you choose ⚔️💻](https://dev.to/joebim/react-vs-angular-tips-to-help-you-choose-49ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
