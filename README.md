@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📚 How to Fork Your Own Repository on GitHub](https://dev.to/marmariadev/how-to-fork-your-own-repository-on-github-4oof)
-- [Security: BitPower&#39;s impeccable security](https://dev.to/pings_iman_934c7bc4590ba4/security-bitpowers-impeccable-security-10mk)
-- [BitPower: Security Analysis of Decentralized Lending Platform](https://dev.to/aimm/bitpower-security-analysis-of-decentralized-lending-platform-1fkd)
-- [Security: BitPower&#39;s impeccable security](https://dev.to/pingd_iman_9228b54c026437/security-bitpowers-impeccable-security-hk4)
-- [Transforming Cloud Infrastructure with Terraform: Build, Change, Deploy](https://dev.to/rashmitha_v_d0cfc20ba7152/transforming-cloud-infrastructure-with-terraform-build-change-deploy-4o4g)
+- [Array search methods in JavaScript.!](https://dev.to/samandarhodiev/array-search-methods-in-javascript-406p)
+- [Understanding Security Context in Kubernetes](https://dev.to/piyushbagani15/understanding-security-context-in-kubernetes-1gkn)
+- [Ego, Not Pride, Comes Before a Fall](https://dev.to/thesimpledev/ego-not-pride-comes-before-a-fall-3bcl)
+- [Kubernetes-project-using-an-EKS-cluster](https://dev.to/sukuru_naga_sai_srinivasu/kubernetes-project-using-an-eks-cluster-42kg)
+- [Effective Debugging Techniques for React JS: Debugging Doesn’t Have to Be a Drag!](https://dev.to/a_shokn/effective-debugging-techniques-for-react-js-debugging-doesnt-have-to-be-a-drag-2iea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
