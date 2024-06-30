@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Synchronized Vertical and Horizontal Scrolling Component for Web Apps](https://dev.to/rahul_patwa_f99f19cd1519b/creating-a-synchronized-vertical-and-horizontal-scrolling-component-for-web-apps-1igc)
-- [Mastering Grids in UI Design](https://dev.to/prince_chouhan/mastering-grids-in-ui-design-3pbb)
-- [USB HID Down the rabbit hole: Logitech G435 dongle](https://dev.to/endes/usb-hid-down-the-rabbit-hole-logitech-g435-dongle-33if)
-- [VIP in GCP](https://dev.to/intersystems/vip-in-gcp-3f2d)
-- [Learning CRUD Operations with NodeJS](https://dev.to/ojerahi_daniel/learning-crud-operations-with-nodejs-11i1)
+- [📚 How to Fork Your Own Repository on GitHub](https://dev.to/marmariadev/how-to-fork-your-own-repository-on-github-4oof)
+- [Security: BitPower&#39;s impeccable security](https://dev.to/pings_iman_934c7bc4590ba4/security-bitpowers-impeccable-security-10mk)
+- [BitPower: Security Analysis of Decentralized Lending Platform](https://dev.to/aimm/bitpower-security-analysis-of-decentralized-lending-platform-1fkd)
+- [Security: BitPower&#39;s impeccable security](https://dev.to/pingd_iman_9228b54c026437/security-bitpowers-impeccable-security-hk4)
+- [Transforming Cloud Infrastructure with Terraform: Build, Change, Deploy](https://dev.to/rashmitha_v_d0cfc20ba7152/transforming-cloud-infrastructure-with-terraform-build-change-deploy-4o4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
