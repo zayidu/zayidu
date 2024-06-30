@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[DAY 66-68] I built a drum set app using React](https://dev.to/thomascansino/day-66-68-i-built-a-drum-set-app-using-react-4i19)
-- [Use AWS Serverless to sell items in Habitica](https://dev.to/aws-builders/use-aws-serverless-to-sell-items-in-habitica-91)
-- [Understanding Declarative Programming in React](https://dev.to/imabhinavdev/understanding-declarative-programming-in-react-197i)
-- [Top Cloud Providers in 2024](https://dev.to/devops_den/top-cloud-providers-in-2024-fne)
-- [Understanding JavaScript Closures: A Comprehensive Guide](https://dev.to/mukeshb/understanding-javascript-closures-a-comprehensive-guide-306p)
+- [Implementing Batch Write Operations in Firestore with Express](https://dev.to/itselftools/implementing-batch-write-operations-in-firestore-with-express-5h64)
+- [Keep listening or do your job and finish](https://dev.to/altavir/keep-listening-or-do-your-job-and-finish-2hej)
+- [c program for counting numbers](https://dev.to/legend01/c-program-for-counting-numbers-4o8p)
+- [What is Associative Arrays in Computer Science](https://dev.to/m__mdy__m/what-is-associative-arrays-in-computer-science-1dhe)
+- [Using Multiple DbContexts in a Single Query Execution](https://dev.to/nilebits/using-multiple-dbcontexts-in-a-single-query-execution-p13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
