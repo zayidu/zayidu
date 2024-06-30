@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Email Notifications for S3 Object Uploads using SNS](https://dev.to/mohanapriya_s_1808/automating-email-notifications-for-s3-object-uploads-using-sns-5efb)
-- [Issue 005 - The Bottleneck of Continuous Writing](https://dev.to/justin3go/issue-005-the-bottleneck-of-continuous-writing-313b)
-- [7 Books That Make You A Great Tech Lead](https://dev.to/codebymedu/7-books-that-make-you-a-great-tech-lead-16gf)
-- [React vs Flutter](https://dev.to/cebuka/react-vs-flutter-1mac)
-- [Page navigation with react-router-dom](https://dev.to/thinhkhang97/page-navigation-with-react-router-dom-a38)
+- [Customizing Your Lazyvim Setup for Personal Preferences](https://dev.to/insideee_dev/customizing-your-lazyvim-setup-for-personal-preferences-57)
+- [Unveiling the Shield: Ensuring Security with Open Source 2FA](https://dev.to/verifyvault/unveiling-the-shield-ensuring-security-with-open-source-2fa-nn6)
+- [Comparing Javascript Front-end technologies &lpar;Angular and React&rpar;](https://dev.to/iam_nick/comparing-javascript-front-end-technologies-angular-and-react-d3c)
+- [My Mobile Development Journey and Architectural Insights](https://dev.to/akpamzy_junior_cc600a044d/my-mobile-development-journey-and-architectural-insights-pmg)
+- [Tipar automáticamente Swagger/OpenAPI endpoints con NSwag](https://dev.to/altaskur/tipar-automaticamente-swaggeropenapi-endpoints-con-nswag-397g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
