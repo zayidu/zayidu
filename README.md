@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a RESTful API with Spring Boot: A Comprehensive Guide to @RequestMapping](https://dev.to/jottyjohn/building-a-restful-api-with-spring-boot-a-comprehensive-guide-to-requestmapping-49lf)
-- [Liberty Beats - Build a DAW in React](https://dev.to/coluzziandrea/liberty-beats-build-a-daw-in-react-1l89)
-- [Build a Responsive Modern Website with Next.js14, TypeScript, and Tailwind CSS](https://dev.to/sudhanshuambastha/build-a-responsive-modern-website-with-nextjs14-typescript-and-tailwind-css-10pn)
-- [GitOps: Streamlining Kubernetes Application Deployment with GitLab CI/CD, Helm Charts, and ArgoCD](https://dev.to/pankaj892/gitops-streamlining-kubernetes-application-deployment-with-gitlab-cicd-helm-charts-and-argocd-685)
-- [Share File Across Devices without Internet or USB](https://dev.to/sh20raj1/share-file-across-devices-without-internet-or-usb-562j)
+- [Como usamos tunelamento de rede para criar um servidor de minecraft.](https://dev.to/nevidomyyb/como-usamos-tunelamento-de-rede-para-criar-um-servidor-de-minecraft-3ih7)
+- [Understanding JavaScript&#39;s `==` and `===`: Equality and Identity](https://dev.to/manthanank/understanding-javascripts-and-equality-and-identity-34lj)
+- [4DEV: The Ultimate Toolkit Collection for Developers 🚀](https://dev.to/raja_rakoto/4dev-the-ultimate-toolkit-collection-for-developers-3l9n)
+- [How to hack your Google Lighthouse scores in 2024](https://dev.to/whitep4nth3r/how-to-hack-your-google-lighthouse-scores-in-2024-4439)
+- [📋 📝 Manage your clipboard in the CLI with Python](https://dev.to/audreyk/manage-your-clipboard-in-the-cli-with-python-5f0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
