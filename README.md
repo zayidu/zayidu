@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-4p8i)
-- [Functional Patterns: Composition and Implicitness](https://dev.to/if-els/functional-patterns-composition-and-implicitness-4n08)
-- [Alternatives of Microsoft Project with the highest review ratings](https://dev.to/nicklasmikke1sen/alternatives-of-microsoft-project-with-the-highest-review-ratings-1h2)
-- [Haskell Programming](https://dev.to/bekbrace/haskell-programming-2ll2)
-- [ASTRO JS | WEB DEV](https://dev.to/shubhamtiwari909/astro-js-web-dev-15fp)
+- [AIM Weekly for 01-July-2024](https://dev.to/tspannhw/aim-weekly-for-01-july-2024-1li2)
+- [How to Implement Two-Factor Authentication &lpar;2FA&rpar; in Golang](https://dev.to/permify/how-to-implement-two-factor-authentication-2fa-in-golang-2jg3)
+- [Mobile app development with LiveView Native and Elixir. Part - 2](https://dev.to/rushikeshpandit/mobile-app-development-with-liveview-native-and-elixir-part-2-4mkj)
+- [Object I/O](https://dev.to/paulike/object-io-1koh)
+- [SQL Course Get Started.](https://dev.to/emanuelgustafzon/sql-course-get-started-4ho6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
