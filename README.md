@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux User Creation Bash Script](https://dev.to/kahuna04/linux-user-creation-bash-script-1p97)
-- [Making Common Table Expression SQL More Railsy](https://dev.to/mdchaney/making-common-table-expression-sql-more-railsy-363j)
-- [Top 5 Coolest shadcn/ui Extensions](https://dev.to/dellboyan/top-5-coolest-shadcnui-extensions-4n7i)
-- [Implementando Lazy Loading em Componentes React](https://dev.to/vitorrios1001/implementando-lazy-loading-em-componentes-react-49fg)
-- [IAC - Azure WebApp creation](https://dev.to/learnwithsrini/iac-azure-webapp-creation-3nlo)
+- [Advanced Networking Concepts with Cisco Packet Tracer](https://dev.to/kartikmehta8/advanced-networking-concepts-with-cisco-packet-tracer-35bc)
+- [[Help] [Telegram Bot] Can I get the user IP address with telegram bot?](https://dev.to/dev188007/help-telegram-bot-can-i-get-the-user-ip-address-with-telegram-bot-ke5)
+- [Why you didn&#39;t get that promotion](https://dev.to/gretchen/why-you-didnt-get-that-promotion-39el)
+- [Primeros pasos con cliente de NEAR escrito en RUST NEAR-CLI-RS 😎](https://dev.to/sergiotechx/primeros-pasos-con-cliente-de-near-escrito-en-rust-near-cli-rs-4amn)
+- [Entendendo Código Legado: Uma Abordagem Prática](https://dev.to/asouza/entendendo-codigo-legado-uma-abordagem-pratica-4bdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
