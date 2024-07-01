@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React vs. React Native: Unveiling the Dynamic Duo of Modern Development](https://dev.to/globaljoye/react-vs-react-native-unveiling-the-dynamic-duo-of-modern-development-4jbf)
-- [Técnicas de Auto-Supervisión en Aprendizaje Profundo](https://dev.to/gcjordi/tecnicas-de-auto-supervision-en-aprendizaje-profundo-2i41)
-- [DevOps Engineering: The Career Nobody Dreams of as a Kid](https://dev.to/nilebits/devops-engineering-the-career-nobody-dreams-of-as-a-kid-4foe)
-- [Automating User and Group Management with a Bash Script in Linux](https://dev.to/alexindevs/automating-user-and-group-management-with-a-bash-script-in-linux-225j)
-- [The best way to debug slow web pages](https://dev.to/sentry/the-number-1-best-way-to-debug-slow-web-pages-41kj)
+- [Automated User Management with Bash Script](https://dev.to/tesddev/automated-user-management-with-bash-script-3b3e)
+- [Inline if&lpar;&rpar; in CSS 🤔: What You Need to Know About This Upcoming Feature](https://dev.to/hunzaboy/inline-if-in-css-what-you-need-to-know-about-this-upcoming-feature-1cak)
+- [How the Pandemic Fostered One of the Most Valuable Meetings for My Teams](https://dev.to/lee_nicholls/how-the-pandemic-fostered-one-of-the-most-valuable-meetings-for-my-teams-1fnb)
+- [Microservices: Set Up a Gateway with UI &lpar;Thymeleaf&rpar;](https://dev.to/dmsosa/microservices-set-up-a-gateway-with-ui-thymeleaf-1l12)
+- [Memory Location Behavior in JavaScript](https://dev.to/pervez/memory-location-behavior-in-javascript-4c6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
