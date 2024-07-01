@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cybersecurity 101 for Developers: From Zero to Hero](https://dev.to/3a5abi/cybersecurity-101-for-developers-from-zero-to-hero-22mc)
-- [You Don&#39;t Know Undo/Redo](https://dev.to/isaachagoel/you-dont-know-undoredo-4hol)
-- [Mental Challenges](https://dev.to/mutantmalu/mental-challenges-3ji5)
-- [How I Build Projects Faster - My Stack and Strategies](https://dev.to/juanemilio31323/how-i-build-projects-faster-my-stack-and-strategies-3hpg)
-- [Playwright vs. Cypress: Comparing E2E Tools](https://dev.to/shipyard/playwright-vs-cypress-comparing-e2e-tools-16mj)
+- [Comparing Sass and Vue: A Deep Dive into Two Frontend Technologies](https://dev.to/variant/comparing-sass-and-vue-a-deep-dive-into-two-frontend-technologies-578f)
+- [Abstract &amp; Interface in C#](https://dev.to/locnguyenpv/abstract-interface-in-c-23f2)
+- [SQL Course: Self Join](https://dev.to/emanuelgustafzon/sql-course-self-join-5g0g)
+- [Don&#39;t be a jack of all trades: The incredible importance of domain knowledge for software testers.](https://dev.to/lanr3waju/dont-be-a-jack-of-all-trades-the-incredible-importance-of-domain-knowledge-for-software-testers-2pgc)
+- [Setup Ubuntu para desenvolver com Ruby / Rails](https://dev.to/serradura/setup-ubuntu-para-desenvolver-com-ruby-rails-5g2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
