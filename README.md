@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction On IDE.&lpar;Part 1&rpar;.](https://dev.to/bhat_vishwas/introduction-on-idepart-1-34ag)
-- [Linux Users and Groups Management using Bash Script](https://dev.to/fajmayor/linux-users-and-groups-management-using-bash-script-oj2)
-- [What are your goals for week 27 of 2024? Midyear.](https://dev.to/jarvisscript/what-are-your-goals-for-week-27-of-2024-midyear-4b6j)
-- [Tackling a Tough Backend Challenge: Building a Distributed Task Scheduler](https://dev.to/fikan/tackling-a-tough-backend-challenge-building-a-distributed-task-scheduler-29i0)
-- [Unsolicited Wisdom: My Take on Clean Code in the Frontend](https://dev.to/stackoverfloweth/unsolicited-wisdom-my-take-on-clean-code-in-the-frontend-22bb)
+- [Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics](https://dev.to/mikeyoung44/do-llms-have-distinct-and-consistent-personality-trait-personality-testset-designed-for-llms-with-psychometrics-12c1)
+- [From Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs by Finetuning on Synthetic Data](https://dev.to/mikeyoung44/from-artificial-needles-to-real-haystacks-improving-retrieval-capabilities-in-llms-by-finetuning-on-synthetic-data-308g)
+- [Day 9 of Machine Learning|| Linear Regression implementation](https://dev.to/ngneha09/day-9-of-machine-learning-linear-regression-implementation-5487)
+- [Top 3 PHP Frameworks: Speed, Response Time, and Efficiency Compared](https://dev.to/arafatweb/top-3-php-frameworks-speed-response-time-and-efficiency-compared-25bi)
+- [Comparing ReactJS vs Alpine.js: A Deep Dive into Frontend Technologies.](https://dev.to/adurangba/comparing-reactjs-vs-alpinejs-a-deep-dive-into-frontend-technologies-2f47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
