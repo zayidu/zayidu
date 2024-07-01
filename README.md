@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Networking Concepts with Cisco Packet Tracer](https://dev.to/kartikmehta8/advanced-networking-concepts-with-cisco-packet-tracer-35bc)
-- [[Help] [Telegram Bot] Can I get the user IP address with telegram bot?](https://dev.to/dev188007/help-telegram-bot-can-i-get-the-user-ip-address-with-telegram-bot-ke5)
-- [Why you didn&#39;t get that promotion](https://dev.to/gretchen/why-you-didnt-get-that-promotion-39el)
-- [Primeros pasos con cliente de NEAR escrito en RUST NEAR-CLI-RS 😎](https://dev.to/sergiotechx/primeros-pasos-con-cliente-de-near-escrito-en-rust-near-cli-rs-4amn)
-- [Entendendo Código Legado: Uma Abordagem Prática](https://dev.to/asouza/entendendo-codigo-legado-uma-abordagem-pratica-4bdk)
+- [Bare-bones unit testing in OCaml with dune](https://dev.to/yawaramin/bare-bones-unit-testing-in-ocaml-with-dune-1lkb)
+- [This is how SSL certificates work: Https explained in 15 minutes](https://dev.to/dinesh_arora_ceece3475e16/this-is-how-ssl-certificates-work-https-explained-in-15-minutes-3llj)
+- [Turbo 8 InstantClick &lpar;Turbo-Prefetch&rpar; Feature](https://dev.to/jessalejo/instantclick-turbo-prefetch-in-rails-8-a-quick-guide-2a8e)
+- [The Modern SOC Platform](https://dev.to/rickysarora/the-modern-soc-platform-586d)
+- [Designing Flexible and Extensible Software Systems with OOP](https://dev.to/muhammad_salem/designing-flexible-and-extensible-software-systems-with-oop-3a28)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
