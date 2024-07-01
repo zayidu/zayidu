@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning VisionPro: Let&#39;s Build a Stock Market App](https://dev.to/quintonwall/learning-visionpro-lets-build-a-stock-market-app-2opk)
-- [Architect level: React State and Props](https://dev.to/david_zamoraballesteros_/architect-level-react-state-and-props-426f)
-- [Add Filter choices to resources](https://dev.to/ccokeke/add-filter-choices-to-resources-4g3a)
-- [Subsets and Backtracking, Coding Interview Pattern](https://dev.to/harshm03/subsets-and-backtracking-coding-interview-pattern-11of)
-- [How to deploy React App to GitHub Pages - Caveman Style 🌋 🔥🦴](https://dev.to/uxxxjp/how-to-deploy-react-app-to-github-pages-caveman-style-2alh)
+- [Cybersecurity 101 for Developers: From Zero to Hero](https://dev.to/3a5abi/cybersecurity-101-for-developers-from-zero-to-hero-22mc)
+- [You Don&#39;t Know Undo/Redo](https://dev.to/isaachagoel/you-dont-know-undoredo-4hol)
+- [Mental Challenges](https://dev.to/mutantmalu/mental-challenges-3ji5)
+- [How I Build Projects Faster - My Stack and Strategies](https://dev.to/juanemilio31323/how-i-build-projects-faster-my-stack-and-strategies-3hpg)
+- [Playwright vs. Cypress: Comparing E2E Tools](https://dev.to/shipyard/playwright-vs-cypress-comparing-e2e-tools-16mj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
