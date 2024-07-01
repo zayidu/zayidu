@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [User Management Automation : Bash Script Guide](https://dev.to/augusthottie/user-management-automation-bash-script-guide-14pl)
-- [Architect level: Setting Up the React Environment](https://dev.to/david_zamoraballesteros_/architect-level-setting-up-the-react-environment-304)
-- [Building a Training Schedule Generator using Lyzr SDK](https://dev.to/akshay007/building-a-training-schedule-generator-using-lyzr-sdk-1432)
-- [Breaking down pointers &lpar;in C++&rpar;](https://dev.to/shafspecs/breaking-down-pointers-in-c-1ib5)
-- [Lead level: Setting Up the React Environment](https://dev.to/david_zamoraballesteros_/lead-level-setting-up-the-react-environment-3ona)
+- [Learning VisionPro: Let&#39;s Build a Stock Market App](https://dev.to/quintonwall/learning-visionpro-lets-build-a-stock-market-app-2opk)
+- [Architect level: React State and Props](https://dev.to/david_zamoraballesteros_/architect-level-react-state-and-props-426f)
+- [Add Filter choices to resources](https://dev.to/ccokeke/add-filter-choices-to-resources-4g3a)
+- [Subsets and Backtracking, Coding Interview Pattern](https://dev.to/harshm03/subsets-and-backtracking-coding-interview-pattern-11of)
+- [How to deploy React App to GitHub Pages - Caveman Style 🌋 🔥🦴](https://dev.to/uxxxjp/how-to-deploy-react-app-to-github-pages-caveman-style-2alh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
