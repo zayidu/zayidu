@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AIM Weekly for 01-July-2024](https://dev.to/tspannhw/aim-weekly-for-01-july-2024-1li2)
-- [How to Implement Two-Factor Authentication &lpar;2FA&rpar; in Golang](https://dev.to/permify/how-to-implement-two-factor-authentication-2fa-in-golang-2jg3)
-- [Mobile app development with LiveView Native and Elixir. Part - 2](https://dev.to/rushikeshpandit/mobile-app-development-with-liveview-native-and-elixir-part-2-4mkj)
-- [Object I/O](https://dev.to/paulike/object-io-1koh)
-- [SQL Course Get Started.](https://dev.to/emanuelgustafzon/sql-course-get-started-4ho6)
+- [React vs. React Native: Unveiling the Dynamic Duo of Modern Development](https://dev.to/globaljoye/react-vs-react-native-unveiling-the-dynamic-duo-of-modern-development-4jbf)
+- [Técnicas de Auto-Supervisión en Aprendizaje Profundo](https://dev.to/gcjordi/tecnicas-de-auto-supervision-en-aprendizaje-profundo-2i41)
+- [DevOps Engineering: The Career Nobody Dreams of as a Kid](https://dev.to/nilebits/devops-engineering-the-career-nobody-dreams-of-as-a-kid-4foe)
+- [Automating User and Group Management with a Bash Script in Linux](https://dev.to/alexindevs/automating-user-and-group-management-with-a-bash-script-in-linux-225j)
+- [The best way to debug slow web pages](https://dev.to/sentry/the-number-1-best-way-to-debug-slow-web-pages-41kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
