@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Under DDoS Attack](https://dev.to/hoaitx/im-under-ddos-attack-2p5j)
-- [How to Scrape Amazon: A Comprehensive Guide](https://dev.to/ionegarza/how-to-scrape-amazon-a-comprehensive-guide-502a)
-- [How to - Process CSV in Power Automate](https://dev.to/wyattdave/how-to-process-csv-in-power-automate-535f)
-- [Best Practices for Using Middleware in ASP.NET Core Web API for Exception Handling, Authentication, and Error Logging](https://dev.to/abdullah_sameer/best-practices-for-using-middleware-in-aspnet-core-web-api-for-exception-handling-authentication-and-error-logging-1d5a)
-- [Best Practices for Using Middleware in ASP.NET Core Web API for Exception Handling, Authentication, and Error Logging](https://dev.to/abdullah_sameer/best-practices-for-using-middleware-in-aspnet-core-web-api-for-exception-handling-authentication-and-error-logging-528i)
+- [Building a RESTful API with Spring Boot: A Comprehensive Guide to @RequestMapping](https://dev.to/jottyjohn/building-a-restful-api-with-spring-boot-a-comprehensive-guide-to-requestmapping-49lf)
+- [Liberty Beats - Build a DAW in React](https://dev.to/coluzziandrea/liberty-beats-build-a-daw-in-react-1l89)
+- [Build a Responsive Modern Website with Next.js14, TypeScript, and Tailwind CSS](https://dev.to/sudhanshuambastha/build-a-responsive-modern-website-with-nextjs14-typescript-and-tailwind-css-10pn)
+- [GitOps: Streamlining Kubernetes Application Deployment with GitLab CI/CD, Helm Charts, and ArgoCD](https://dev.to/pankaj892/gitops-streamlining-kubernetes-application-deployment-with-gitlab-cicd-helm-charts-and-argocd-685)
+- [Share File Across Devices without Internet or USB](https://dev.to/sh20raj1/share-file-across-devices-without-internet-or-usb-562j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
