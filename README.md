@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Sass and Vue: A Deep Dive into Two Frontend Technologies](https://dev.to/variant/comparing-sass-and-vue-a-deep-dive-into-two-frontend-technologies-578f)
-- [Abstract &amp; Interface in C#](https://dev.to/locnguyenpv/abstract-interface-in-c-23f2)
-- [SQL Course: Self Join](https://dev.to/emanuelgustafzon/sql-course-self-join-5g0g)
-- [Don&#39;t be a jack of all trades: The incredible importance of domain knowledge for software testers.](https://dev.to/lanr3waju/dont-be-a-jack-of-all-trades-the-incredible-importance-of-domain-knowledge-for-software-testers-2pgc)
-- [Setup Ubuntu para desenvolver com Ruby / Rails](https://dev.to/serradura/setup-ubuntu-para-desenvolver-com-ruby-rails-5g2l)
+- [10 Essential VS Code Tips &amp; Tricks For Greater Productivity](https://dev.to/safdarali/10-essential-vs-code-tips-tricks-for-greater-productivity-1cao)
+- [Learning to Program: The resources and methods I used to teach myself coding.](https://dev.to/palak/learning-to-program-the-resources-and-methods-i-used-to-teach-myself-coding-5ajb)
+- [Demystifying Frontend: A Dive into ReactJS vs. Svelte](https://dev.to/faith_josephs_78ded4b72ba/demystifying-frontend-a-dive-into-reactjs-vs-svelte-2did)
+- [Generics &lt;T&gt;【TypeScript】](https://dev.to/makoto0825/generics-typescript-18gd)
+- [Technical Article: Automating Linux User Creation with Bash Script](https://dev.to/fikan/technical-article-automating-linux-user-creation-with-bash-script-677)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
