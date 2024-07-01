@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Log and trace management made easy. Quickwit Integration via Glasskube](https://dev.to/glasskube/log-and-trace-management-made-easy-quickwit-integration-via-glasskube-2hg2)
-- [Error solved flutter_rating_bar in flutter tips astuce in Flutter News 2024 #26 ʚїɞ](https://dev.to/lucianojung/error-solved-flutterratingbar-in-flutter-tips-astuce-in-flutter-news-2024-26-eyie-f92)
-- [A difficult backend problem I had to solve](https://dev.to/dee_codes/a-difficult-backend-problem-i-had-to-solve-i3k)
-- [Google, the Thieves of Silicon Valley](https://dev.to/polterguy/google-the-thieves-of-silicon-valley-2kom)
-- [A beginner’s guide to system design interviews at FAANG/MAANG](https://dev.to/fahimulhaq/a-beginners-guide-to-system-design-interviews-at-faangmaang-em6)
+- [Meme Monday](https://dev.to/ben/meme-monday-4p8i)
+- [Functional Patterns: Composition and Implicitness](https://dev.to/if-els/functional-patterns-composition-and-implicitness-4n08)
+- [Alternatives of Microsoft Project with the highest review ratings](https://dev.to/nicklasmikke1sen/alternatives-of-microsoft-project-with-the-highest-review-ratings-1h2)
+- [Haskell Programming](https://dev.to/bekbrace/haskell-programming-2ll2)
+- [ASTRO JS | WEB DEV](https://dev.to/shubhamtiwari909/astro-js-web-dev-15fp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
