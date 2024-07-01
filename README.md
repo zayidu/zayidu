@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Analizando el &quot;Hola mundo&quot; en NEAR Contrato y Frontend 🤠](https://dev.to/sergiotechx/analizando-el-hola-mundo-en-near-contrato-y-frontend-1lpf)
-- [Rotating Dodecahedron](https://dev.to/dan52242644dan/rotating-dodecahedron-k0i)
-- [Frontend developer must read about polyfill? why?](https://dev.to/davidwilliam_/frontend-must-delete-polyfillwhy-52p1)
-- [Kubernetes Port Forward Command: A Comprehensive Guide](https://dev.to/labex/kubernetes-port-forward-command-a-comprehensive-guide-33g1)
-- [How to Quickly Shut Down Windows 10 with the Slide-to-Shut-Down Feature](https://dev.to/tahirdotdev/how-to-quickly-shut-down-windows-10-with-the-slide-to-shut-down-feature-4nfp)
+- [&quot;🧠Amazon Bedrock&#39;s Foundation Models: The Backbone of Gen-AI⚡&quot;](https://dev.to/aws-builders/aws-foundation-models-the-backbone-of-gen-ai-2g8c)
+- [Hoppscotch v2024.6.0: Collection Runner on CLI, Team Invite Links, Client Certificates, and more](https://dev.to/hoppscotch/hoppscotch-v202460-collection-runner-on-cli-team-invite-links-client-certificates-and-more-1k4n)
+- [Explaining Decorators in Django: A Guide for Beginners](https://dev.to/ismailsoftdev/explaining-decorators-in-django-a-guide-for-beginners-9gl)
+- [🔐Never Forget a Password Again: Build Your Own Secure Manager](https://dev.to/brokarim/never-forget-a-password-again-build-your-own-secure-manager-i34)
+- [Creating a Developer Content Strategy](https://dev.to/jacobandrewsky/creating-a-developer-content-strategy-1nlh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
