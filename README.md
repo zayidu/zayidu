@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como usamos tunelamento de rede para criar um servidor de minecraft.](https://dev.to/nevidomyyb/como-usamos-tunelamento-de-rede-para-criar-um-servidor-de-minecraft-3ih7)
-- [Understanding JavaScript&#39;s `==` and `===`: Equality and Identity](https://dev.to/manthanank/understanding-javascripts-and-equality-and-identity-34lj)
-- [4DEV: The Ultimate Toolkit Collection for Developers 🚀](https://dev.to/raja_rakoto/4dev-the-ultimate-toolkit-collection-for-developers-3l9n)
-- [How to hack your Google Lighthouse scores in 2024](https://dev.to/whitep4nth3r/how-to-hack-your-google-lighthouse-scores-in-2024-4439)
-- [📋 📝 Manage your clipboard in the CLI with Python](https://dev.to/audreyk/manage-your-clipboard-in-the-cli-with-python-5f0d)
+- [How I Built an AI-Powered YouTube Video Summarizer to Save Time](https://dev.to/enzocheva/how-i-built-an-ai-powered-youtube-video-summarizer-to-save-time-5dd5)
+- [Avoiding Common useState&lpar;&rpar; Mistakes in React](https://dev.to/harsh8088/avoiding-common-usestate-mistakes-in-react-3aao)
+- [Enhancing Project Accuracy with Architectural CAD Design and Drafting Services](https://dev.to/pavan_sai_7/enhancing-project-accuracy-with-architectural-cad-design-and-drafting-services-4mf4)
+- [React vs. Next.js: A Detailed Comparison](https://dev.to/ucodes/react-vs-nextjs-a-detailed-comparison-33kk)
+- [Top 5+ Free Shadcn UI &amp; NextJS Boilerplates/Templates for 2024](https://dev.to/fredy/top-5-free-shadcn-ui-nextjs-boilerplatestemplates-for-2024-34m0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
