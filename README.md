@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics](https://dev.to/mikeyoung44/do-llms-have-distinct-and-consistent-personality-trait-personality-testset-designed-for-llms-with-psychometrics-12c1)
-- [From Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs by Finetuning on Synthetic Data](https://dev.to/mikeyoung44/from-artificial-needles-to-real-haystacks-improving-retrieval-capabilities-in-llms-by-finetuning-on-synthetic-data-308g)
-- [Day 9 of Machine Learning|| Linear Regression implementation](https://dev.to/ngneha09/day-9-of-machine-learning-linear-regression-implementation-5487)
-- [Top 3 PHP Frameworks: Speed, Response Time, and Efficiency Compared](https://dev.to/arafatweb/top-3-php-frameworks-speed-response-time-and-efficiency-compared-25bi)
-- [Comparing ReactJS vs Alpine.js: A Deep Dive into Frontend Technologies.](https://dev.to/adurangba/comparing-reactjs-vs-alpinejs-a-deep-dive-into-frontend-technologies-2f47)
+- [User Management Automation : Bash Script Guide](https://dev.to/augusthottie/user-management-automation-bash-script-guide-14pl)
+- [Architect level: Setting Up the React Environment](https://dev.to/david_zamoraballesteros_/architect-level-setting-up-the-react-environment-304)
+- [Building a Training Schedule Generator using Lyzr SDK](https://dev.to/akshay007/building-a-training-schedule-generator-using-lyzr-sdk-1432)
+- [Breaking down pointers &lpar;in C++&rpar;](https://dev.to/shafspecs/breaking-down-pointers-in-c-1ib5)
+- [Lead level: Setting Up the React Environment](https://dev.to/david_zamoraballesteros_/lead-level-setting-up-the-react-environment-3ona)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
