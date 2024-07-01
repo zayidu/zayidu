@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;Part 11&rpar;Golang Framework Hands-on - Adaptive Registration of FaaS Parameter Types Based on Reflection](https://dev.to/aceld/part-11golang-framework-hands-on-adaptive-registration-of-faas-parameter-types-based-on-reflection-15i9)
-- [Javascript Quizzes You Can&#39;t Solve](https://dev.to/untilyou58/javascript-quizzes-you-cant-solve-44mp)
-- [GBase 8a Implementation Guide: Parameter Optimization &lpar;2&rpar;](https://dev.to/congcong/gbase-8a-implementation-guide-parameter-optimization-2-5h8m)
-- [Rotating Dodecahedron](https://dev.to/dan52242644dan/rotating-dodecahedron-1367)
-- [How Small Business Owners Can Boost Their Website’s SEO Without Paying Others](https://dev.to/juddiy/how-small-business-owners-can-boost-their-websites-seo-without-paying-others-1o7l)
+- [Analizando el &quot;Hola mundo&quot; en NEAR Contrato y Frontend 🤠](https://dev.to/sergiotechx/analizando-el-hola-mundo-en-near-contrato-y-frontend-1lpf)
+- [Rotating Dodecahedron](https://dev.to/dan52242644dan/rotating-dodecahedron-k0i)
+- [Frontend developer must read about polyfill? why?](https://dev.to/davidwilliam_/frontend-must-delete-polyfillwhy-52p1)
+- [Kubernetes Port Forward Command: A Comprehensive Guide](https://dev.to/labex/kubernetes-port-forward-command-a-comprehensive-guide-33g1)
+- [How to Quickly Shut Down Windows 10 with the Slide-to-Shut-Down Feature](https://dev.to/tahirdotdev/how-to-quickly-shut-down-windows-10-with-the-slide-to-shut-down-feature-4nfp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
