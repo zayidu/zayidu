@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Arrow Functions in JavaScript: Advantages and Best Practices](https://dev.to/imranparthib/understanding-arrow-functions-in-javascript-advantages-and-best-practices-1am7)
-- [Speeding Up Go Concurrency: Unlocking the Power of Array Segmentation](https://dev.to/agtabesh/speeding-up-go-concurrency-unlocking-the-power-of-array-segmentation-3dl2)
-- [Why Apache Doris is the Best Open Source Alternative to Rockset](https://dev.to/apachedoris/why-apache-doris-is-the-best-open-source-alternative-to-rockset-3phg)
-- [How to avoid N + 1 and keep your Ruby on Rails controller clean](https://dev.to/jetthoughts/how-to-avoid-n-1-and-keep-your-ruby-on-rails-controller-clean-bb)
-- [Use Cases of Blockchain in Supply Chain Management: What Are the Benefits?](https://dev.to/alvaropicazo/use-cases-of-blockchain-in-supply-chain-management-what-are-the-benefits-2206)
+- [15 amazing things you can do with simple JavaScript 🤯](https://dev.to/anmolbaranwal/15-amazing-things-you-can-do-with-simple-javascript-g88)
+- [How I Befriended Segment Trees](https://dev.to/speckoflight/how-i-befriended-segment-trees-347l)
+- [LeetCode Day22 BackTracking Part 4](https://dev.to/flame_chan_llll/leetcode-day22-backtracking-part-4-16fa)
+- [Recursion, Design and Analysis of Algorithms](https://dev.to/harshm03/recursion-design-and-analysis-of-algorithms-kmo)
+- [I NEED HELP CAN SOMEONE SHARE THEIR EXPERIENCE IN USING HOSTINGER VPS FOR HOSTING WEB APP BUILT WITH ANGULAR,NODE.JS?](https://dev.to/mezieb/i-need-help-can-someone-share-their-experience-in-using-hostinger-vps-for-hosting-web-app-built-with-angularnodejs-54cc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
