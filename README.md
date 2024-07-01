@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bare-bones unit testing in OCaml with dune](https://dev.to/yawaramin/bare-bones-unit-testing-in-ocaml-with-dune-1lkb)
-- [This is how SSL certificates work: Https explained in 15 minutes](https://dev.to/dinesh_arora_ceece3475e16/this-is-how-ssl-certificates-work-https-explained-in-15-minutes-3llj)
-- [Turbo 8 InstantClick &lpar;Turbo-Prefetch&rpar; Feature](https://dev.to/jessalejo/instantclick-turbo-prefetch-in-rails-8-a-quick-guide-2a8e)
-- [The Modern SOC Platform](https://dev.to/rickysarora/the-modern-soc-platform-586d)
-- [Designing Flexible and Extensible Software Systems with OOP](https://dev.to/muhammad_salem/designing-flexible-and-extensible-software-systems-with-oop-3a28)
+- [&lpar;Part 11&rpar;Golang Framework Hands-on - Adaptive Registration of FaaS Parameter Types Based on Reflection](https://dev.to/aceld/part-11golang-framework-hands-on-adaptive-registration-of-faas-parameter-types-based-on-reflection-15i9)
+- [Javascript Quizzes You Can&#39;t Solve](https://dev.to/untilyou58/javascript-quizzes-you-cant-solve-44mp)
+- [GBase 8a Implementation Guide: Parameter Optimization &lpar;2&rpar;](https://dev.to/congcong/gbase-8a-implementation-guide-parameter-optimization-2-5h8m)
+- [Rotating Dodecahedron](https://dev.to/dan52242644dan/rotating-dodecahedron-1367)
+- [How Small Business Owners Can Boost Their Website’s SEO Without Paying Others](https://dev.to/juddiy/how-small-business-owners-can-boost-their-websites-seo-without-paying-others-1o7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
