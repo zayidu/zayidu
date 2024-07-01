@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [15 amazing things you can do with simple JavaScript 🤯](https://dev.to/anmolbaranwal/15-amazing-things-you-can-do-with-simple-javascript-g88)
-- [How I Befriended Segment Trees](https://dev.to/speckoflight/how-i-befriended-segment-trees-347l)
-- [LeetCode Day22 BackTracking Part 4](https://dev.to/flame_chan_llll/leetcode-day22-backtracking-part-4-16fa)
-- [Recursion, Design and Analysis of Algorithms](https://dev.to/harshm03/recursion-design-and-analysis-of-algorithms-kmo)
-- [I NEED HELP CAN SOMEONE SHARE THEIR EXPERIENCE IN USING HOSTINGER VPS FOR HOSTING WEB APP BUILT WITH ANGULAR,NODE.JS?](https://dev.to/mezieb/i-need-help-can-someone-share-their-experience-in-using-hostinger-vps-for-hosting-web-app-built-with-angularnodejs-54cc)
+- [Log and trace management made easy. Quickwit Integration via Glasskube](https://dev.to/glasskube/log-and-trace-management-made-easy-quickwit-integration-via-glasskube-2hg2)
+- [Error solved flutter_rating_bar in flutter tips astuce in Flutter News 2024 #26 ʚїɞ](https://dev.to/lucianojung/error-solved-flutterratingbar-in-flutter-tips-astuce-in-flutter-news-2024-26-eyie-f92)
+- [A difficult backend problem I had to solve](https://dev.to/dee_codes/a-difficult-backend-problem-i-had-to-solve-i3k)
+- [Google, the Thieves of Silicon Valley](https://dev.to/polterguy/google-the-thieves-of-silicon-valley-2kom)
+- [A beginner’s guide to system design interviews at FAANG/MAANG](https://dev.to/fahimulhaq/a-beginners-guide-to-system-design-interviews-at-faangmaang-em6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
