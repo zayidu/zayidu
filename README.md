@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI-Powered YouTube Video Summarizer to Save Time](https://dev.to/enzocheva/how-i-built-an-ai-powered-youtube-video-summarizer-to-save-time-5dd5)
-- [Avoiding Common useState&lpar;&rpar; Mistakes in React](https://dev.to/harsh8088/avoiding-common-usestate-mistakes-in-react-3aao)
-- [Enhancing Project Accuracy with Architectural CAD Design and Drafting Services](https://dev.to/pavan_sai_7/enhancing-project-accuracy-with-architectural-cad-design-and-drafting-services-4mf4)
-- [React vs. Next.js: A Detailed Comparison](https://dev.to/ucodes/react-vs-nextjs-a-detailed-comparison-33kk)
-- [Top 5+ Free Shadcn UI &amp; NextJS Boilerplates/Templates for 2024](https://dev.to/fredy/top-5-free-shadcn-ui-nextjs-boilerplatestemplates-for-2024-34m0)
+- [Understanding Arrow Functions in JavaScript: Advantages and Best Practices](https://dev.to/imranparthib/understanding-arrow-functions-in-javascript-advantages-and-best-practices-1am7)
+- [Speeding Up Go Concurrency: Unlocking the Power of Array Segmentation](https://dev.to/agtabesh/speeding-up-go-concurrency-unlocking-the-power-of-array-segmentation-3dl2)
+- [Why Apache Doris is the Best Open Source Alternative to Rockset](https://dev.to/apachedoris/why-apache-doris-is-the-best-open-source-alternative-to-rockset-3phg)
+- [How to avoid N + 1 and keep your Ruby on Rails controller clean](https://dev.to/jetthoughts/how-to-avoid-n-1-and-keep-your-ruby-on-rails-controller-clean-bb)
+- [Use Cases of Blockchain in Supply Chain Management: What Are the Benefits?](https://dev.to/alvaropicazo/use-cases-of-blockchain-in-supply-chain-management-what-are-the-benefits-2206)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
