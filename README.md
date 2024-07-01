@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;🧠Amazon Bedrock&#39;s Foundation Models: The Backbone of Gen-AI⚡&quot;](https://dev.to/aws-builders/aws-foundation-models-the-backbone-of-gen-ai-2g8c)
-- [Hoppscotch v2024.6.0: Collection Runner on CLI, Team Invite Links, Client Certificates, and more](https://dev.to/hoppscotch/hoppscotch-v202460-collection-runner-on-cli-team-invite-links-client-certificates-and-more-1k4n)
-- [Explaining Decorators in Django: A Guide for Beginners](https://dev.to/ismailsoftdev/explaining-decorators-in-django-a-guide-for-beginners-9gl)
-- [🔐Never Forget a Password Again: Build Your Own Secure Manager](https://dev.to/brokarim/never-forget-a-password-again-build-your-own-secure-manager-i34)
-- [Creating a Developer Content Strategy](https://dev.to/jacobandrewsky/creating-a-developer-content-strategy-1nlh)
+- [I&#39;m Under DDoS Attack](https://dev.to/hoaitx/im-under-ddos-attack-2p5j)
+- [How to Scrape Amazon: A Comprehensive Guide](https://dev.to/ionegarza/how-to-scrape-amazon-a-comprehensive-guide-502a)
+- [How to - Process CSV in Power Automate](https://dev.to/wyattdave/how-to-process-csv-in-power-automate-535f)
+- [Best Practices for Using Middleware in ASP.NET Core Web API for Exception Handling, Authentication, and Error Logging](https://dev.to/abdullah_sameer/best-practices-for-using-middleware-in-aspnet-core-web-api-for-exception-handling-authentication-and-error-logging-1d5a)
+- [Best Practices for Using Middleware in ASP.NET Core Web API for Exception Handling, Authentication, and Error Logging](https://dev.to/abdullah_sameer/best-practices-for-using-middleware-in-aspnet-core-web-api-for-exception-handling-authentication-and-error-logging-528i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
