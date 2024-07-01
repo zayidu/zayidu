@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated User Management with Bash Script](https://dev.to/tesddev/automated-user-management-with-bash-script-3b3e)
-- [Inline if&lpar;&rpar; in CSS 🤔: What You Need to Know About This Upcoming Feature](https://dev.to/hunzaboy/inline-if-in-css-what-you-need-to-know-about-this-upcoming-feature-1cak)
-- [How the Pandemic Fostered One of the Most Valuable Meetings for My Teams](https://dev.to/lee_nicholls/how-the-pandemic-fostered-one-of-the-most-valuable-meetings-for-my-teams-1fnb)
-- [Microservices: Set Up a Gateway with UI &lpar;Thymeleaf&rpar;](https://dev.to/dmsosa/microservices-set-up-a-gateway-with-ui-thymeleaf-1l12)
-- [Memory Location Behavior in JavaScript](https://dev.to/pervez/memory-location-behavior-in-javascript-4c6c)
+- [Introduction On IDE.&lpar;Part 1&rpar;.](https://dev.to/bhat_vishwas/introduction-on-idepart-1-34ag)
+- [Linux Users and Groups Management using Bash Script](https://dev.to/fajmayor/linux-users-and-groups-management-using-bash-script-oj2)
+- [What are your goals for week 27 of 2024? Midyear.](https://dev.to/jarvisscript/what-are-your-goals-for-week-27-of-2024-midyear-4b6j)
+- [Tackling a Tough Backend Challenge: Building a Distributed Task Scheduler](https://dev.to/fikan/tackling-a-tough-backend-challenge-building-a-distributed-task-scheduler-29i0)
+- [Unsolicited Wisdom: My Take on Clean Code in the Frontend](https://dev.to/stackoverfloweth/unsolicited-wisdom-my-take-on-clean-code-in-the-frontend-22bb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
