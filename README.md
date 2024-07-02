@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Call to Action: 8 Convincing CTA Design Tips](https://dev.to/agunwachidiebelecalistus/call-to-action-8convincing-cta-designtips-c2f)
-- [30 days of AWS - Part 3: AWS Well-Architected Framework](https://dev.to/achenchi/30-days-of-aws-part-3-aws-well-architected-framework-8c0)
-- [I lost $93 while testing the newly released Open AI vision](https://dev.to/mrsaadfazal/i-lost-93-while-testing-the-newly-released-open-ai-vision-1k20)
-- [Recursion](https://dev.to/paulike/recursion-d1a)
-- [Apps Script: o ambiente JS para o Ecossistema Google](https://dev.to/fabianoraiser/apps-script-o-ambiente-js-para-o-ecossistema-google-2ihb)
+- [What is the difference between null and undefined?](https://dev.to/abdurahmon_mansurov/what-is-the-difference-between-null-and-undefined-5hg7)
+- [Recursive Selection Sort](https://dev.to/paulike/recursive-selection-sort-2jkl)
+- [Recursive Helper Methods](https://dev.to/paulike/recursive-helper-methods-4fpd)
+- [Automation with Bash](https://dev.to/olavic/automation-with-bash-772)
+- [Technical Article: Explaining the create_users.sh Script](https://dev.to/orunsolu/technical-article-explaining-the-createuserssh-script-4opm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
