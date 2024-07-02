@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Validate Command: Practical Examples and Best Practices](https://dev.to/env0/terraform-validate-command-practical-examples-and-best-practices-4pam)
-- [APIs vs. Endpoints: Breaking Down the Differences](https://dev.to/nilebits/apis-vs-endpoints-breaking-down-the-differences-45gd)
-- [Discussion on the rationality of BitPower mechanism](https://dev.to/woy_ca2a85cabb11e9fa2bd0d/discussion-on-the-rationality-of-bitpower-mechanism-eff)
-- [Introduction to BitPower Smart Contracts](https://dev.to/aimm_y/introduction-to-bitpower-smart-contracts-2b1k)
-- [comprehensive list of Linux commands](https://dev.to/zeshancodes/comprehensive-list-of-linux-commands-396m)
+- [Content Projection Fallback in ng-content in Angular](https://dev.to/railsstudent/content-projection-fallback-in-ng-content-in-angular-3pnd)
+- [Merging Startup.cs and Program.cs in .NET 8: A Simplified Approach](https://dev.to/manhhungtran/merging-startupcs-and-programcs-in-net-8-a-simplified-approach-4bnc)
+- [Implementing Pinia for Efficient State Management in Nuxt.js Online Stores](https://dev.to/webcraft-notes/implementing-pinia-for-efficient-state-management-in-nuxtjs-online-stores-165m)
+- [Journey to Backend Development](https://dev.to/nifilat/journey-to-backend-development-4pla)
+- [Using OpenAI Whisper to Transcribe Podcasts on Koyeb](https://dev.to/koyeb/using-openai-whisper-to-transcribe-podcasts-on-koyeb-18gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
