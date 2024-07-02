@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Mengenal Asymmetric Encryption: Keamanan Data Tingkat Tinggi dengan Golang](https://dev.to/yogameleniawan/mengenal-asymmetric-encryption-keamanan-data-tingkat-tinggi-dengan-golang-4b17)
+- [Implementing Redux into your React App](https://dev.to/zemorath/implementing-redux-into-your-react-app-2hmf)
+- [Exploring the Scala Play Framework for Web Development](https://dev.to/kartikmehta8/exploring-the-scala-play-framework-for-web-development-1o0p)
 - [Introduction to Nuxt.js: The Framework for Universal Vue.js Applications](https://dev.to/hi_iam_chris/introduction-to-nuxtjs-the-framework-for-universal-vuejs-applications-4noh)
 - [Day 982 : Last Nite](https://dev.to/dwane/day-982-last-nite-bo)
-- [How to use Midjourney AI on Make.com?](https://dev.to/renaud7/how-to-use-midjourney-ai-on-makecom-5cb6)
-- [GSoC Week 5](https://dev.to/chiemezuo/gsoc-week-5-5gba)
-- [New Learning Journal](https://dev.to/vdircio/new-learning-journal-2nm6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
