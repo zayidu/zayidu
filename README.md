@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Domain Events](https://dev.to/ben-witt/domain-events-2772)
-- [My first product - BatchGPT](https://dev.to/penguin_dev/my-first-product-batchgpt-4dl8)
-- [Demystifying Concurrency and Parallelism in Software Development](https://dev.to/ruzny_ma/demystifying-concurrency-and-parallelism-in-software-development-25cm)
-- [Frontend Technology: An Overview of Modern Tools and Trends](https://dev.to/matthew1/frontend-technology-an-overview-of-modern-tools-and-trends-2boc)
-- [Difference Between TailwindCSS and Bootstrap](https://dev.to/darshan_kumar_c9883cffc18/difference-between-tailwindcss-and-bootstrap-2dei)
+- [The Ultimate MongoDB Configuration Cheatsheet: Tips and Commands](https://dev.to/stormsidali2001/the-ultimate-mongodb-configuration-cheatsheet-tips-and-commands-1j5p)
+- [Navigating the Future: Exploring Appium Testing for Smart TVs](https://dev.to/jennife05918349/navigating-the-future-exploring-appium-testing-for-smart-tvs-3d9a)
+- [Navigating the Future: Exploring Appium Testing for Smart TVs](https://dev.to/jennife05918349/navigating-the-future-exploring-appium-testing-for-smart-tvs-fjg)
+- [{SDK vs Runtime}](https://dev.to/firdavs090/sdk-vs-runtime-28b)
+- [A Comprehensive Guide to NFT Drops](https://dev.to/ram_kumar_c4ad6d3828441f2/a-comprehensive-guide-to-nft-drops-1jm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
