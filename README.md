@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Gemini AI and Google AI Features that We Have Been Waiting For](https://dev.to/hyscaler/the-gemini-ai-and-google-ai-features-that-we-have-been-waiting-for-l1b)
-- [How to Store Vibration Sensor Data | Part 1](https://dev.to/reductstore/how-to-store-vibration-sensor-data-part-1-2p66)
-- [How to get Single Console](https://dev.to/raja_musawir/how-to-get-single-console-1of0)
-- [GBase 8a Implementation Guide: Parameter Optimization &lpar;3&rpar;](https://dev.to/congcong/gbase-8a-implementation-guide-parameter-optimization-3-2be3)
-- [A linux session after a while](https://dev.to/anakin/a-linux-session-after-a-while-2m50)
+- [Domain Events](https://dev.to/ben-witt/domain-events-2772)
+- [My first product - BatchGPT](https://dev.to/penguin_dev/my-first-product-batchgpt-4dl8)
+- [Demystifying Concurrency and Parallelism in Software Development](https://dev.to/ruzny_ma/demystifying-concurrency-and-parallelism-in-software-development-25cm)
+- [Frontend Technology: An Overview of Modern Tools and Trends](https://dev.to/matthew1/frontend-technology-an-overview-of-modern-tools-and-trends-2boc)
+- [Difference Between TailwindCSS and Bootstrap](https://dev.to/darshan_kumar_c9883cffc18/difference-between-tailwindcss-and-bootstrap-2dei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
