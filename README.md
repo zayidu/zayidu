@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate MongoDB Configuration Cheatsheet: Tips and Commands](https://dev.to/stormsidali2001/the-ultimate-mongodb-configuration-cheatsheet-tips-and-commands-1j5p)
-- [Navigating the Future: Exploring Appium Testing for Smart TVs](https://dev.to/jennife05918349/navigating-the-future-exploring-appium-testing-for-smart-tvs-3d9a)
-- [Navigating the Future: Exploring Appium Testing for Smart TVs](https://dev.to/jennife05918349/navigating-the-future-exploring-appium-testing-for-smart-tvs-fjg)
-- [{SDK vs Runtime}](https://dev.to/firdavs090/sdk-vs-runtime-28b)
-- [A Comprehensive Guide to NFT Drops](https://dev.to/ram_kumar_c4ad6d3828441f2/a-comprehensive-guide-to-nft-drops-1jm9)
+- [How to Get the Directory Where a Bash Script is Located](https://dev.to/bobbyiliev/how-to-get-the-directory-where-a-bash-script-is-located-em3)
+- [The Ultimate Redis Command Cheatsheet: A Comprehensive Guide](https://dev.to/stormsidali2001/the-ultimate-redis-command-cheatsheet-a-comprehensive-guide-4ii5)
+- [Quarterly Rewards for security researchers！](https://dev.to/tecno-security/quarterly-rewards-for-security-researchers-2d34)
+- [Challenge with RBAC Authentication](https://dev.to/emmanuelomoiya/challenge-with-rbac-authentication-329h)
+- [Comparing Svelte and Vue.js: A Battle of Frontend Technologies](https://dev.to/mundianderi/comparing-svelte-and-vuejs-a-battle-of-frontend-technologies-1co2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
