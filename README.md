@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the difference between null and undefined?](https://dev.to/abdurahmon_mansurov/what-is-the-difference-between-null-and-undefined-5hg7)
-- [Recursive Selection Sort](https://dev.to/paulike/recursive-selection-sort-2jkl)
-- [Recursive Helper Methods](https://dev.to/paulike/recursive-helper-methods-4fpd)
-- [Automation with Bash](https://dev.to/olavic/automation-with-bash-772)
-- [Technical Article: Explaining the create_users.sh Script](https://dev.to/orunsolu/technical-article-explaining-the-createuserssh-script-4opm)
+- [User&lpar;s&rpar; Creation Automation with Bash](https://dev.to/0xugochukwu/users-creation-automation-with-bash-461m)
+- [Recursion vs. Iteration](https://dev.to/paulike/recursion-vs-iteration-df)
+- [Case Study: Fractals](https://dev.to/paulike/case-study-fractals-70m)
+- [Using OCI Bucket for Terraform/OpenTofu remote state backend](https://dev.to/farisdurrani/using-oci-bucket-for-terraformopentofu-remote-state-backend-n15)
+- [What is the difference between git commit -m and git commit -am?](https://dev.to/mbshehzad/what-is-the-difference-between-git-commit-m-and-git-commit-am-1151)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
