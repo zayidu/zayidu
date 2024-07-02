@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A new react dev slack group](https://dev.to/jhobbie_board_3a35020a47f/a-new-react-dev-slack-group-44e6)
-- [Understanding Chain-of-Thought Prompting: A Revolution in Artificial Intelligence](https://dev.to/sgaglione/understanding-chain-of-thought-prompting-a-revolution-in-artificial-intelligence-36i1)
-- [Automating User On-Boarding With Bash Scripting.](https://dev.to/eben/automating-user-on-boarding-with-bash-scripting-3p00)
-- [Install Module in Powershell without Install-Module](https://dev.to/kinneko-de/install-module-in-powershell-without-install-module-5ae7)
-- [Automating User Management on Linux using Bash Script](https://dev.to/danielfavour/automating-user-management-on-linux-using-bash-script-3o9l)
+- [Boost Team Efficiency with Smaller PRs](https://dev.to/merico/boost-team-efficiency-with-smaller-prs-4314)
+- [Day 983 : Weary](https://dev.to/dwane/day-983-weary-370a)
+- [Using a Bash script to Automate the Creation of Users and Groups](https://dev.to/christian_ochenehipeter_/using-a-bash-script-to-automate-the-creation-of-users-and-groups-2i8e)
+- [Migrating from Nuxt 2 to Nuxt 3: A Comprehensive Guide](https://dev.to/fido1hn/migrating-from-nuxt-2-to-nuxt-3-a-comprehensive-guide-56na)
+- [Overcoming Backend Challenges: My Journey and Aspirations with HNG Internship](https://dev.to/that_khayy/overcoming-backend-challenges-my-journey-and-aspirations-with-hng-internship-42jc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
