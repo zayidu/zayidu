@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [User&lpar;s&rpar; Creation Automation with Bash](https://dev.to/0xugochukwu/users-creation-automation-with-bash-461m)
-- [Recursion vs. Iteration](https://dev.to/paulike/recursion-vs-iteration-df)
-- [Case Study: Fractals](https://dev.to/paulike/case-study-fractals-70m)
-- [Using OCI Bucket for Terraform/OpenTofu remote state backend](https://dev.to/farisdurrani/using-oci-bucket-for-terraformopentofu-remote-state-backend-n15)
-- [What is the difference between git commit -m and git commit -am?](https://dev.to/mbshehzad/what-is-the-difference-between-git-commit-m-and-git-commit-am-1151)
+- [A new react dev slack group](https://dev.to/jhobbie_board_3a35020a47f/a-new-react-dev-slack-group-44e6)
+- [Understanding Chain-of-Thought Prompting: A Revolution in Artificial Intelligence](https://dev.to/sgaglione/understanding-chain-of-thought-prompting-a-revolution-in-artificial-intelligence-36i1)
+- [Automating User On-Boarding With Bash Scripting.](https://dev.to/eben/automating-user-on-boarding-with-bash-scripting-3p00)
+- [Install Module in Powershell without Install-Module](https://dev.to/kinneko-de/install-module-in-powershell-without-install-module-5ae7)
+- [Automating User Management on Linux using Bash Script](https://dev.to/danielfavour/automating-user-management-on-linux-using-bash-script-3o9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
