@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Truth: Debunking Myths and Misconceptions about 2FA](https://dev.to/verifyvault/unveiling-the-truth-debunking-myths-and-misconceptions-about-2fa-2a1f)
-- [10 Fun JavaScript Ideas to Try Today](https://dev.to/mukeshb/10-fun-javascript-ideas-to-try-today-1gha)
-- [Million.js adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/millionjs-adoption-guide-overview-examples-and-alternatives-hc4)
-- [EVM Reverse Engineering Challenge 0x02](https://dev.to/gealber/evm-reverse-engineering-challenge-0x02-5o4)
-- [How do I close my DEV account](https://dev.to/michael_riat_4fd70bc4717e/how-do-i-close-my-dev-account-3lk)
+- [What&#39;s the difference between Css &amp; Scss](https://dev.to/peterbabs/whats-the-difference-between-css-scss-29b2)
+- [My HNG journey. Stage Zero: How to Deploy a Static Webpage Using Nginx](https://dev.to/ravencodess/my-hng-journey-stage-zero-how-to-deploy-a-static-webpage-using-nginx-55ij)
+- [Creating a Dynamic Blog with Flask, HTMX, TailwindCSS, and Authentication &lpar;Part 2&rpar;](https://dev.to/3a5abi/creating-a-dynamic-blog-with-flask-htmx-tailwindcss-and-authentication-part-2-3n2i)
+- [10 Examples of Cyber-Physical Systems](https://dev.to/yayabobi/10-examples-of-cyber-physical-systems-4din)
+- [Overcoming an Unidentified Bug in our SpringBoot Application: My Inspiring Journey with the HNG Internship](https://dev.to/realest-techy-leidi/overcoming-an-unidentified-bug-in-our-springboot-application-my-inspiring-journey-with-the-hng-internship-1al7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
