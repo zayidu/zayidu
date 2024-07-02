@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 15 Tools for Frontend Developers: Optimize Your Workflow](https://dev.to/vyan/top-15-tools-for-frontend-developers-optimize-your-workflow-374o)
-- [New HTML &lt;dialog&gt; tag: An absolute game changer](https://dev.to/manojgohel/new-html-tag-an-absolute-game-changer-3j8j)
-- [The DevTool Content Machine: How to Use AI to Crank Out Awesome Content &lpar;Even With a Tiny Team&rpar;](https://dev.to/swati1267/the-devtool-content-machine-how-to-use-ai-to-crank-out-awesome-content-even-with-a-tiny-team-4d2k)
-- [⚡ MyFirstApp - React Native with Expo &lpar;P18&rpar; - Code Layout Favourites](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p18-code-layout-favourites-53ne)
-- [⚡ MyFirstApp - React Native with Expo &lpar;P17&rpar; - Code Layout Location](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p17-code-layout-location-2a05)
+- [Develop APIs Quicker With API Testing](https://dev.to/getambassador2024/develop-apis-quicker-with-api-testing-1122)
+- [MOBILE DEVELOPMENT PLATFORMS. Software Architecture Patterns](https://dev.to/oreoluwa_eniola_eaa58bdf3/mobile-development-platforms-software-architecture-patterns-24k4)
+- [How To Hire A Software Developer?](https://dev.to/bytesfarms/how-to-hire-a-software-developer-1m06)
+- [History of .NET](https://dev.to/fazliddin7777/history-of-net-5fcl)
+- [La función atoi y strcat en C](https://dev.to/omem/la-funcion-atoi-y-strcat-en-c-1go4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
