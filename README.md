@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An application form asked me what I feel about their value &quot;doing what it takes&quot;. I shared a story about an old dog.](https://dev.to/tacodes/some-application-form-asked-me-what-i-feel-about-their-value-doing-what-it-takes-i-shared-a-story-about-an-old-dog-den)
-- [350. Intersection of Two Arrays II](https://dev.to/mdarifulhaque/350-intersection-of-two-arrays-ii-3fgm)
-- [Event Delegation](https://dev.to/__khojiakbar__/event-delegation-1f8)
-- [Working with Databases in Django Using PostgreSQL](https://dev.to/kihuni/working-with-databases-in-django-using-postgresql-9co)
-- [July 3: Virtual AI, Machine Learning and Computer Vision Meetup](https://dev.to/voxel51/july-3-virtual-ai-machine-learning-and-computer-vision-meetup-3i51)
+- [Unveiling the Truth: Debunking Myths and Misconceptions about 2FA](https://dev.to/verifyvault/unveiling-the-truth-debunking-myths-and-misconceptions-about-2fa-2a1f)
+- [10 Fun JavaScript Ideas to Try Today](https://dev.to/mukeshb/10-fun-javascript-ideas-to-try-today-1gha)
+- [Million.js adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/millionjs-adoption-guide-overview-examples-and-alternatives-hc4)
+- [EVM Reverse Engineering Challenge 0x02](https://dev.to/gealber/evm-reverse-engineering-challenge-0x02-5o4)
+- [How do I close my DEV account](https://dev.to/michael_riat_4fd70bc4717e/how-do-i-close-my-dev-account-3lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
