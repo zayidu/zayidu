@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mengenal Asymmetric Encryption: Keamanan Data Tingkat Tinggi dengan Golang](https://dev.to/yogameleniawan/mengenal-asymmetric-encryption-keamanan-data-tingkat-tinggi-dengan-golang-4b17)
-- [Implementing Redux into your React App](https://dev.to/zemorath/implementing-redux-into-your-react-app-2hmf)
-- [Exploring the Scala Play Framework for Web Development](https://dev.to/kartikmehta8/exploring-the-scala-play-framework-for-web-development-1o0p)
-- [Introduction to Nuxt.js: The Framework for Universal Vue.js Applications](https://dev.to/hi_iam_chris/introduction-to-nuxtjs-the-framework-for-universal-vuejs-applications-4noh)
-- [Day 982 : Last Nite](https://dev.to/dwane/day-982-last-nite-bo)
+- [The Ultimate NixOS Homelab Guide - Flakes, Modules and Fail2Ban w/ Cloudflare](https://dev.to/jasper-at-windswept/the-ultimate-nixos-homelab-guide-flakes-modules-and-fail2ban-w-cloudflare-25ba)
+- [Mapping LLM Integration Levels to Levels of Autonomous Driving, it does not have to be all or nothing!](https://dev.to/alnutile/mapping-llm-integration-levels-to-levels-of-autonomous-driving-it-does-not-have-to-be-all-or-nothing-2m0j)
+- [Step Toward Better Tenant Provisioning](https://dev.to/aws-builders/step-toward-better-tenant-provisioning-30e0)
+- [Why you can play Super Mario 64 from the browser &lpar;and become a frontend dev without Javascript&rpar;](https://dev.to/mauroaccorinti/why-you-can-play-super-mario-64-from-the-browser-and-become-a-frontend-dev-without-javascript-3710)
+- [Case &lpar;I&rpar; - KisFlow-Golang Stream Real-Time Computing - Quick Start Guide](https://dev.to/aceld/case-i-kisflow-golang-stream-real-time-computing-quick-start-guide-f51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
