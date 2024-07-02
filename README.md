@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy a React App to GitHub Pages](https://dev.to/sh20raj/how-to-deploy-a-react-app-to-github-pages-29li)
-- [Crafting a Node.js based framework SDK for Logto in minutes](https://dev.to/logto/crafting-a-nodejs-based-framework-sdk-for-logto-in-minutes-1b63)
-- [Page Object Model and Page Factory in Selenium](https://dev.to/elle_richard_232/page-object-model-and-page-factory-in-selenium-56d5)
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;24/06/2024 - 30/06/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-24062024-30062024-2mjl)
-- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;24/06/2024 - 30/06/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-24062024-30062024-26f4)
+- [MyFirstApp - React Native with Expo &lpar;P15&rpar; - Code Layout My Profile](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p15-code-layout-my-profile-2kc2)
+- [AWS Three-Tier Architecture: Practical Implementation and Strategies for Secure Private Instance Access](https://dev.to/dpa2024/aws-three-tier-architecture-practical-implementation-and-strategies-for-secure-private-instance-access-3i7g)
+- [Terraform, OpenTofu and state encryption](https://dev.to/aws-builders/terraform-opentofu-and-state-encryption-4am1)
+- [Mastering Binary Search in JavaScript Part I: Iterative, Recursive. Day 2 of 30 Days of DSA 🚀🦾](https://dev.to/rajusaha/mastering-binary-search-in-javascript-part-i-iterative-recursive-day-2-of-30-days-of-dsa-1mg5)
+- [Automating Linux User Management with Bash Scripting](https://dev.to/by_segun_moses/automating-linux-user-management-with-bash-scripting-3f8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
