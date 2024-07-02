@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB vs. Relational Databases: A Comprehensive Guide](https://dev.to/stormsidali2001/mongodb-vs-relational-databases-a-comprehensive-guide-474g)
-- [The Ultimate Guide to Finding and Using Free APIs](https://dev.to/sattyam/the-ultimate-guide-to-finding-and-using-free-apis-2imb)
-- [AWS cost control last resort, the killer lambda](https://dev.to/kodsama/aws-cost-control-last-resort-the-killer-lambda-5mk)
-- [Building a Universal React app with Expo, NextJS &amp; Nativewind](https://dev.to/adebayoileri/building-a-universal-react-app-with-expo-nextjs-nativewind-3829)
-- [Exploring Mobile Development Platforms and Software Architecture Patterns](https://dev.to/lkendi003/exploring-mobile-development-platforms-and-software-architecture-patterns-46ne)
+- [Step-by-Step Guide to Creating a Fullstack Mood Tracker CRUD App with React, Node.js, and SQLite.](https://dev.to/jm27/step-by-step-guide-to-creating-a-fullstack-mood-tracker-crud-app-with-react-nodejs-and-sqlite-30gb)
+- [Svelte vs. React](https://dev.to/dannytech/svelte-vs-react-18al)
+- [Enhance Your Application Security with NMAP and OWASP ZAP: A Practical Guide](https://dev.to/ashhadali/enhance-your-application-security-with-nmap-and-owasp-zap-a-practical-guide-5690)
+- [Introduction to BitPower Smart Contracts](https://dev.to/aimm_w_1761d19cef7fa886fd/introduction-to-bitpower-smart-contracts-5656)
+- [Browser refresh on click of Home button using href](https://dev.to/ariya_vijaykumar/browser-refresh-on-click-of-home-button-using-href-2iko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
