@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Content Projection Fallback in ng-content in Angular](https://dev.to/railsstudent/content-projection-fallback-in-ng-content-in-angular-3pnd)
-- [Merging Startup.cs and Program.cs in .NET 8: A Simplified Approach](https://dev.to/manhhungtran/merging-startupcs-and-programcs-in-net-8-a-simplified-approach-4bnc)
-- [Implementing Pinia for Efficient State Management in Nuxt.js Online Stores](https://dev.to/webcraft-notes/implementing-pinia-for-efficient-state-management-in-nuxtjs-online-stores-165m)
-- [Journey to Backend Development](https://dev.to/nifilat/journey-to-backend-development-4pla)
-- [Using OpenAI Whisper to Transcribe Podcasts on Koyeb](https://dev.to/koyeb/using-openai-whisper-to-transcribe-podcasts-on-koyeb-18gj)
+- [Top 5 best UI libraries to Use in your Next Project](https://dev.to/strapi/top-5-best-ui-libraries-to-use-in-your-next-project-690)
+- [Introduction to Cassandra Database: Features, Commands, and Data Structures](https://dev.to/stormsidali2001/introduction-to-cassandra-database-features-commands-and-data-structures-1n9m)
+- [A Guide to Higher-Order Functions in JavaScript](https://dev.to/muchai_joseph/a-guide-to-higher-order-functions-in-javascript-2o3d)
+- [Average City Temperature Calculation Interview Question EPAM](https://dev.to/manishthakurani/average-city-temperature-calculation-interview-question-epam-ldd)
+- [Automating User and Group Creation Using Bash script](https://dev.to/adebimpe_peter_285cdfed0c/automating-user-and-group-creation-using-bash-script-a00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
