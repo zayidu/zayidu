@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Essential VS Code Tips &amp; Tricks For Greater Productivity](https://dev.to/safdarali/10-essential-vs-code-tips-tricks-for-greater-productivity-1cao)
-- [Learning to Program: The resources and methods I used to teach myself coding.](https://dev.to/palak/learning-to-program-the-resources-and-methods-i-used-to-teach-myself-coding-5ajb)
-- [Demystifying Frontend: A Dive into ReactJS vs. Svelte](https://dev.to/faith_josephs_78ded4b72ba/demystifying-frontend-a-dive-into-reactjs-vs-svelte-2did)
-- [Generics &lt;T&gt;【TypeScript】](https://dev.to/makoto0825/generics-typescript-18gd)
-- [Technical Article: Automating Linux User Creation with Bash Script](https://dev.to/fikan/technical-article-automating-linux-user-creation-with-bash-script-677)
+- [Introduction to Nuxt.js: The Framework for Universal Vue.js Applications](https://dev.to/hi_iam_chris/introduction-to-nuxtjs-the-framework-for-universal-vuejs-applications-4noh)
+- [Day 982 : Last Nite](https://dev.to/dwane/day-982-last-nite-bo)
+- [How to use Midjourney AI on Make.com?](https://dev.to/renaud7/how-to-use-midjourney-ai-on-makecom-5cb6)
+- [GSoC Week 5](https://dev.to/chiemezuo/gsoc-week-5-5gba)
+- [New Learning Journal](https://dev.to/vdircio/new-learning-journal-2nm6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
