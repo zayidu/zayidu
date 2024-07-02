@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate NixOS Homelab Guide - Flakes, Modules and Fail2Ban w/ Cloudflare](https://dev.to/jasper-at-windswept/the-ultimate-nixos-homelab-guide-flakes-modules-and-fail2ban-w-cloudflare-25ba)
-- [Mapping LLM Integration Levels to Levels of Autonomous Driving, it does not have to be all or nothing!](https://dev.to/alnutile/mapping-llm-integration-levels-to-levels-of-autonomous-driving-it-does-not-have-to-be-all-or-nothing-2m0j)
-- [Step Toward Better Tenant Provisioning](https://dev.to/aws-builders/step-toward-better-tenant-provisioning-30e0)
-- [Why you can play Super Mario 64 from the browser &lpar;and become a frontend dev without Javascript&rpar;](https://dev.to/mauroaccorinti/why-you-can-play-super-mario-64-from-the-browser-and-become-a-frontend-dev-without-javascript-3710)
-- [Case &lpar;I&rpar; - KisFlow-Golang Stream Real-Time Computing - Quick Start Guide](https://dev.to/aceld/case-i-kisflow-golang-stream-real-time-computing-quick-start-guide-f51)
+- [How to Deploy a React App to GitHub Pages](https://dev.to/sh20raj/how-to-deploy-a-react-app-to-github-pages-29li)
+- [Crafting a Node.js based framework SDK for Logto in minutes](https://dev.to/logto/crafting-a-nodejs-based-framework-sdk-for-logto-in-minutes-1b63)
+- [Page Object Model and Page Factory in Selenium](https://dev.to/elle_richard_232/page-object-model-and-page-factory-in-selenium-56d5)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;24/06/2024 - 30/06/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-24062024-30062024-2mjl)
+- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;24/06/2024 - 30/06/2024&rpar;](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-24062024-30062024-26f4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
