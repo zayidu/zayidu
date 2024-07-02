@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 best UI libraries to Use in your Next Project](https://dev.to/strapi/top-5-best-ui-libraries-to-use-in-your-next-project-690)
-- [Introduction to Cassandra Database: Features, Commands, and Data Structures](https://dev.to/stormsidali2001/introduction-to-cassandra-database-features-commands-and-data-structures-1n9m)
-- [A Guide to Higher-Order Functions in JavaScript](https://dev.to/muchai_joseph/a-guide-to-higher-order-functions-in-javascript-2o3d)
-- [Average City Temperature Calculation Interview Question EPAM](https://dev.to/manishthakurani/average-city-temperature-calculation-interview-question-epam-ldd)
-- [Automating User and Group Creation Using Bash script](https://dev.to/adebimpe_peter_285cdfed0c/automating-user-and-group-creation-using-bash-script-a00)
+- [An application form asked me what I feel about their value &quot;doing what it takes&quot;. I shared a story about an old dog.](https://dev.to/tacodes/some-application-form-asked-me-what-i-feel-about-their-value-doing-what-it-takes-i-shared-a-story-about-an-old-dog-den)
+- [350. Intersection of Two Arrays II](https://dev.to/mdarifulhaque/350-intersection-of-two-arrays-ii-3fgm)
+- [Event Delegation](https://dev.to/__khojiakbar__/event-delegation-1f8)
+- [Working with Databases in Django Using PostgreSQL](https://dev.to/kihuni/working-with-databases-in-django-using-postgresql-9co)
+- [July 3: Virtual AI, Machine Learning and Computer Vision Meetup](https://dev.to/voxel51/july-3-virtual-ai-machine-learning-and-computer-vision-meetup-3i51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
