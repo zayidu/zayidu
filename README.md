@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide to Creating a Fullstack Mood Tracker CRUD App with React, Node.js, and SQLite.](https://dev.to/jm27/step-by-step-guide-to-creating-a-fullstack-mood-tracker-crud-app-with-react-nodejs-and-sqlite-30gb)
-- [Svelte vs. React](https://dev.to/dannytech/svelte-vs-react-18al)
-- [Enhance Your Application Security with NMAP and OWASP ZAP: A Practical Guide](https://dev.to/ashhadali/enhance-your-application-security-with-nmap-and-owasp-zap-a-practical-guide-5690)
-- [Introduction to BitPower Smart Contracts](https://dev.to/aimm_w_1761d19cef7fa886fd/introduction-to-bitpower-smart-contracts-5656)
-- [Browser refresh on click of Home button using href](https://dev.to/ariya_vijaykumar/browser-refresh-on-click-of-home-button-using-href-2iko)
+- [Terraform Validate Command: Practical Examples and Best Practices](https://dev.to/env0/terraform-validate-command-practical-examples-and-best-practices-4pam)
+- [APIs vs. Endpoints: Breaking Down the Differences](https://dev.to/nilebits/apis-vs-endpoints-breaking-down-the-differences-45gd)
+- [Discussion on the rationality of BitPower mechanism](https://dev.to/woy_ca2a85cabb11e9fa2bd0d/discussion-on-the-rationality-of-bitpower-mechanism-eff)
+- [Introduction to BitPower Smart Contracts](https://dev.to/aimm_y/introduction-to-bitpower-smart-contracts-2b1k)
+- [comprehensive list of Linux commands](https://dev.to/zeshancodes/comprehensive-list-of-linux-commands-396m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
