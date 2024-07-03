@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Single Page Application: Authentication and Authorization in Angular](https://dev.to/starneit/single-page-application-authentication-and-authorization-in-angular-118b)
-- [Enhancing Video to Text Transcription with AI: An Asynchronous Solution on Google Cloud Platform](https://dev.to/stack-labs/enhancing-video-to-text-transcription-with-ai-an-asynchronous-solution-on-google-cloud-platform-59el)
-- [19 Best Startup Directories to Promote Your Business for Free](https://dev.to/martinbaun/19-best-startup-directories-to-promote-your-business-for-free-32ej)
-- [1. Series introduction](https://dev.to/stroiman/series-introduction-2o3n)
-- [3. Essential Keymapping and Settings](https://dev.to/stroiman/3-essential-keymapping-and-settings-3e8)
+- [Understanding TypeScript “as” Keyword](https://dev.to/starneit/understanding-typescript-as-keyword-2ne4)
+- [Time Travel in React with Immer: A Step-by-Step Tutorial](https://dev.to/starneit/time-travel-in-react-with-immer-a-step-by-step-tutorial-78p)
+- [Event driven architecture : Overview and comparison of AWS Messaging services](https://dev.to/distinction-dev/event-driven-architecture-overview-and-comparison-of-aws-messaging-service-18lb)
+- [How to Setup Users and User Groups on Linux](https://dev.to/soji/how-to-setup-users-and-user-groups-on-linux-25ia)
+- [Enhance your TypeScript with Type Guards](https://dev.to/starneit/enhance-your-typescript-with-type-guards-4jk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
