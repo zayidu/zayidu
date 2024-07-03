@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode Day 2: Palindrome Number](https://dev.to/simona-cancian/leetcode-day-2-palindrome-number-377i)
-- [Day 1: Error: &quot;Module not found: Error: Can&#39;t resolve &#39;@angular/core&#39;&quot;](https://dev.to/dipakahirav/day-1-error-module-not-found-error-cant-resolve-angularcore-2il0)
-- [NoInfer in Typescript 5.4](https://dev.to/makoto0825/noinfer-in-typescript-54-4k72)
-- [Git and GitHub Explained Like You&#39;re Five](https://dev.to/thekarlesi/git-and-github-explain-like-youre-five-2c2p)
-- [Linux User Creation With Bash Script](https://dev.to/daniaernest/linux-user-creation-with-bash-script-46ec)
+- [Sistemas Operacionais: FIFO](https://dev.to/iamthiago/sistemas-operacionais-fifo-4ebo)
+- [Formik vs. React Hook Form](https://dev.to/abelotegbola/formik-vs-react-hook-form-3dcj)
+- [Set GitHub Actions timeout-minutes](https://dev.to/suzukishunsuke/set-github-actions-timeout-minutes-1jkk)
+- [Issue with NPM Package Installing Globally](https://dev.to/kiranuknow/issue-with-npm-package-installing-globally-cgi)
+- [Exploring the Power of Python and Object-Oriented Programming](https://dev.to/minorpianokeys/exploring-the-power-of-python-and-object-oriented-programming-4ai3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
