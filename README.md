@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Manage the Overwhelming Information Online as a Beginner in HTML, CSS, and JavaScript](https://dev.to/george_kingi/how-to-manage-the-overwhelming-information-online-as-a-beginner-in-html-css-and-javascript-2cjp)
-- [Understanding Deep vs Shallow Copy in JavaScript: A Comprehensive Guide](https://dev.to/dev_habib_nuhu/understanding-deep-vs-shallow-copy-in-javascript-a-comprehensive-guide-1k09)
-- [Singleton Design Pattern](https://dev.to/rflpazini/singleton-design-pattern-1n51)
-- [MVP: The best Tech Stack](https://dev.to/raphael-dumhart/mvp-the-best-tech-stack-3994)
-- [STAGE ZERO: BACKEND TRACK!](https://dev.to/danielcaleb/stage-zero-backend-track-1f1d)
+- [How to mock a hidden dependency](https://dev.to/clarenced/how-to-mock-a-hidden-dependency-17ih)
+- [Automating User and Group Management with Bash Scripting](https://dev.to/mukhtar_devops/automating-user-and-group-management-with-bash-scripting-4hlk)
+- [Automating User and Group Management Using Bash Script](https://dev.to/florenceokoli/automating-user-and-group-management-using-bash-script-4a7o)
+- [Servidores](https://dev.to/fernandomoyano/servidores-l1c)
+- [Automating User and Group Creation with Bash: A Practical Guide](https://dev.to/josephomotosho/automating-user-and-group-creation-with-bash-a-practical-guide-38ne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
