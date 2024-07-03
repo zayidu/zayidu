@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React 101](https://dev.to/achal_tiwari/react-101-kei)
-- [Temporary saving of work using git stash](https://dev.to/untilyou58/temporary-saving-of-work-using-git-stash-hpl)
-- [Finding Numbers Divisible by 3 and 5](https://dev.to/moksh57/finding-numbers-divisible-by-3-and-5-30cb)
-- [My first Django project, the problem I faced and how I overcome it.](https://dev.to/jamiukayode27/my-first-django-project-the-problem-i-faced-and-how-i-overcome-it-4j23)
-- [SDK](https://dev.to/asadbekit/sdk-1k6n)
+- [amber: writing bash scripts in amber instead. pt. 4: functions](https://dev.to/gbhorwood/amber-writing-bash-scripts-in-amber-instead-pt-4-functions-5ba0)
+- [How to Create and Deploy a Custom Theme for VS Code](https://dev.to/sh20raj/how-to-create-and-deploy-a-custom-theme-for-vs-code-111i)
+- [Hello world, I&#39;m Mh Mitas](https://dev.to/mhmitas/hello-world-38id)
+- [The carbon footprint of email - Top facts and questions](https://dev.to/againstdata/the-carbon-footprint-of-email-top-facts-and-questions-2277)
+- [TYPO3 v13.2—Release Notes](https://dev.to/typo3/typo3-v132-release-notes-73h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
