@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Easy задача с собеседования в Facebook: Contains Duplicate ||](https://dev.to/faangmaster/easy-zadacha-s-sobiesiedovaniia-v-facebook-contains-duplicate--4ief)
-- [Cheat Sheet for React Bootstrap. Layout and Forms](https://dev.to/jsha/cheat-sheet-for-react-bootstrap-layout-and-forms-5d75)
-- [Cheat Sheet for React Bootstrap. Installation and components](https://dev.to/jsha/cheat-sheet-for-react-bootstrap-installation-and-components-4n43)
-- [Cheat Sheet for Bootstrap. Utilities and helpers](https://dev.to/jsha/cheat-sheet-for-bootstrap-utilities-and-helpers-20g2)
-- [Cheat Sheet for Bootstrap. Layout](https://dev.to/jsha/cheat-sheet-for-bootstrap-layout-11bk)
+- [Learn Backend Development for Free: Top Websites to Get You Started 🎓✨](https://dev.to/devella/learn-backend-development-for-free-top-websites-to-get-you-started-1d3j)
+- [How to run Llama model locally on MacBook Pro and Function calling in LLM -Llama web search agent breakdown](https://dev.to/selvapal/how-to-run-llama-model-locally-on-macbook-pro-and-function-calling-in-llm-llama-web-search-agent-breakdown-12dl)
+- [Mastering BI Dashboards for Business Success](https://dev.to/sejal_4218d5cae5da24da188/mastering-bi-dashboards-for-business-success-3gi2)
+- [Understanding the Token Bucket Algorithm](https://dev.to/keploy/understanding-the-token-bucket-algorithm-5800)
+- [Automating Linux User Creation with Bash Scripting](https://dev.to/sylvude/automating-linux-user-creation-with-bash-scripting-508d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
