@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Team Efficiency with Smaller PRs](https://dev.to/merico/boost-team-efficiency-with-smaller-prs-4314)
-- [Day 983 : Weary](https://dev.to/dwane/day-983-weary-370a)
-- [Using a Bash script to Automate the Creation of Users and Groups](https://dev.to/christian_ochenehipeter_/using-a-bash-script-to-automate-the-creation-of-users-and-groups-2i8e)
-- [Migrating from Nuxt 2 to Nuxt 3: A Comprehensive Guide](https://dev.to/fido1hn/migrating-from-nuxt-2-to-nuxt-3-a-comprehensive-guide-56na)
-- [Overcoming Backend Challenges: My Journey and Aspirations with HNG Internship](https://dev.to/that_khayy/overcoming-backend-challenges-my-journey-and-aspirations-with-hng-internship-42jc)
+- [Issue 51 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-51-of-aws-cloud-security-weekly-355m)
+- [Another Approach to Screen Routing in SwiftUI](https://dev.to/mrasyadc/another-approach-to-screen-routing-in-swiftui-42ao)
+- [Automating User and Group Management with a Bash Script.](https://dev.to/candy-devops/automating-user-and-group-management-with-a-bash-script-2jli)
+- [Welcome Thread - v283](https://dev.to/devteam/welcome-thread-v283-g1a)
+- [User creation script using bash shell.](https://dev.to/linuxinator/user-creation-script-using-bash-shell-kem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
