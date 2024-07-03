@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 25 of 30 of JavaScript](https://dev.to/akshat0610/day-25-of-30-of-javascript-4k94)
-- [⚡ MyFirstApp - React Native with Expo &lpar;P21&rpar;](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p21-5cej)
-- [Patch your servers! It&#39;s time of regreSSHion](https://dev.to/krzwiatrzyk/patch-your-servers-its-time-of-regresshion-1f5)
-- [Key Data Science Innovations to Embrace in 2024](https://dev.to/sejal_4218d5cae5da24da188/key-data-science-innovations-to-embrace-in-2024-35jm)
-- [CJIS and Its Importance in Access Control](https://dev.to/blogginger/cjis-and-its-importance-in-access-control-4g19)
+- [ASTRO JS | P2 | SSG and SSR](https://dev.to/shubhamtiwari909/astro-js-p2-ssg-and-ssr-2l2l)
+- [react-popupify: Simplify Popup Management in Your React Apps](https://dev.to/viditkushwaha/react-popupify-simplify-popup-management-in-your-react-apps-4109)
+- [3 Easy Steps to Setup Gmail Less Secure Apps&lpar;Django&rpar;](https://dev.to/titusnjuguna/3-easy-steps-to-setup-gmail-less-secure-appsdjango-2eoe)
+- [Automating User Managment system with Bash: in a linux environment.](https://dev.to/mauricemakafui/automating-user-managment-system-with-bash-in-a-linux-environment-5dj3)
+- [Building a Cloud Development Kit &lpar;CDK&rpar;](https://dev.to/samyfodil/building-a-cloud-development-kit-cdk-3lgd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
