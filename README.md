@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Created My Portfolio](https://dev.to/hirohata/created-my-portfolio-1hnf)
-- [Deep Dive: Fortifying Your Cloud Defences with AWS Multi-Factor Authentication &lpar;MFA&rpar;](https://dev.to/ikoh_sylva/deep-dive-fortifying-your-cloud-defences-with-aws-multi-factor-authentication-mfa-2cjc)
-- [Developing Smart Contracts for Cross-Chain Operations: A Comprehensive Guide](https://dev.to/vincent_lee_190635/developing-smart-contracts-for-cross-chain-operations-a-comprehensive-guide-1efi)
-- [ServiceNow Mid-Server Insights](https://dev.to/sophiasemga/servicenow-mid-server-insights-48b9)
-- [Understanding Virtual Machines and Hypervisors](https://dev.to/hacker_haii/understanding-virtual-machines-and-hypervisors-13em)
+- [Ultimate CSS Cheat Sheets and Blogs resources](https://dev.to/shreyvijayvargiya/ultimate-css-cheat-sheets-and-blogs-resources-8h7)
+- [STAGE ZERO: BACKEND TRACK!](https://dev.to/danielcaleb/stage-zero-backend-track-1f1d)
+- [How To Create a Linux virtual machine in the Azure portal. by moses emeka](https://dev.to/emeka_moses_c752f2bdde061/how-to-create-a-linux-virtual-machine-in-the-azure-portal-by-moses-emeka-lfh)
+- [Avoid Candidates Who Hide Details](https://dev.to/jetthoughts/avoid-candidates-who-hide-details-5f7e)
+- [Como ser um Programador Pragmático?](https://dev.to/loremimpsu/como-ser-um-programador-pragmatico-gek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
