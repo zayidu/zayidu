@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Issue 51 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-51-of-aws-cloud-security-weekly-355m)
-- [Another Approach to Screen Routing in SwiftUI](https://dev.to/mrasyadc/another-approach-to-screen-routing-in-swiftui-42ao)
-- [Automating User and Group Management with a Bash Script.](https://dev.to/candy-devops/automating-user-and-group-management-with-a-bash-script-2jli)
-- [Welcome Thread - v283](https://dev.to/devteam/welcome-thread-v283-g1a)
-- [User creation script using bash shell.](https://dev.to/linuxinator/user-creation-script-using-bash-shell-kem)
+- [Top ShowdownJS Extensions and Their Usage](https://dev.to/sh20raj/top-showdownjs-extensions-and-their-usage-18an)
+- [Greetings!](https://dev.to/bearmsu/greetings-512l)
+- [HNG STAGE ZERO: ANALYZING RETAIL SALES DATA AT FIRST GLANCE](https://dev.to/devbassey/hng-stage-zero-analyzing-retail-sales-data-at-first-glance-2gp3)
+- [How to use an auto-tiling technique in your next game project](https://dev.to/excaliburjs/how-to-use-an-auto-tiling-technique-in-your-next-game-project-1ek9)
+- [20 Ways to Improve Node.js Performance at Scale 🚀](https://dev.to/dipakahirav/20-ways-to-improve-nodejs-performance-at-scale-25nf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
