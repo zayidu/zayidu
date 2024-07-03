@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ASTRO JS | P2 | SSG and SSR](https://dev.to/shubhamtiwari909/astro-js-p2-ssg-and-ssr-2l2l)
-- [react-popupify: Simplify Popup Management in Your React Apps](https://dev.to/viditkushwaha/react-popupify-simplify-popup-management-in-your-react-apps-4109)
-- [3 Easy Steps to Setup Gmail Less Secure Apps&lpar;Django&rpar;](https://dev.to/titusnjuguna/3-easy-steps-to-setup-gmail-less-secure-appsdjango-2eoe)
-- [Automating User Managment system with Bash: in a linux environment.](https://dev.to/mauricemakafui/automating-user-managment-system-with-bash-in-a-linux-environment-5dj3)
-- [Building a Cloud Development Kit &lpar;CDK&rpar;](https://dev.to/samyfodil/building-a-cloud-development-kit-cdk-3lgd)
+- [Nested validation in .NET](https://dev.to/ilya-chumakov/nested-validation-in-net-3j6j)
+- [Automating Linux User Management with a Bash Script](https://dev.to/zkyusya/automating-linux-user-management-with-a-bash-script-1f07)
+- [React Native vs. Native App Development: Choosing the Right Path for Your Mobile App](https://dev.to/ngocninh123/react-native-vs-native-app-development-choosing-the-right-path-for-your-mobile-app-16d0)
+- [Determine which CBV &lpar;classed-base-view&rpar; of Django to use](https://dev.to/doridoro/determine-which-cbv-classed-base-view-of-django-to-use-4gf1)
+- [Bitcoin As A Safe Haven Asset: A Viable Option Or Not?](https://dev.to/cleaningmarble_667c21bf45/bitcoin-as-a-safe-haven-asset-a-viable-option-or-not-4h6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
