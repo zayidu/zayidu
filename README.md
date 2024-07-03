@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [amber: writing bash scripts in amber instead. pt. 4: functions](https://dev.to/gbhorwood/amber-writing-bash-scripts-in-amber-instead-pt-4-functions-5ba0)
-- [How to Create and Deploy a Custom Theme for VS Code](https://dev.to/sh20raj/how-to-create-and-deploy-a-custom-theme-for-vs-code-111i)
-- [Hello world, I&#39;m Mh Mitas](https://dev.to/mhmitas/hello-world-38id)
-- [The carbon footprint of email - Top facts and questions](https://dev.to/againstdata/the-carbon-footprint-of-email-top-facts-and-questions-2277)
-- [TYPO3 v13.2—Release Notes](https://dev.to/typo3/typo3-v132-release-notes-73h)
+- [[DAY 69-71] I started building a calculator using React and I failed](https://dev.to/thomascansino/day-69-71-i-started-building-a-calculator-using-react-and-i-failed-4dkj)
+- [Make a digital clock in Mini Micro](https://dev.to/joestrout/make-a-digital-clock-in-mini-micro-3mpl)
+- [Startups: Lessons I Learned](https://dev.to/douglaspujol/startups-lessons-i-learned-47fk)
+- [Weekly Watercooler Thread](https://dev.to/ben/weekly-watercooler-thread-110g)
+- [Chat-Moderation mit OpenAI](https://dev.to/pubnub-de/chat-moderation-mit-openai-jho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
