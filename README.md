@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Chrome’s Document Picture-in-Picture API in React](https://dev.to/logrocket/using-chromes-document-picture-in-picture-api-in-react-38oo)
-- [**🌟 Mastering the Java Collections Framework 🌟**](https://dev.to/gadekar_sachin/-mastering-the-java-collections-framework--4kcd)
-- [AWS/GCP/Azure Consoles, Embedded inside Your Docs](https://dev.to/sourishkrout/awsgcpazure-consoles-embedded-inside-your-docs-1a3l)
-- [Styling React Using CSS 6 Methods](https://dev.to/sudhanshu_developer/styling-react-using-css-6-methods-4oi6)
-- [# 🌳 Dive into Decision Trees: A Fun Guide! 🌳](https://dev.to/aviralgarg05/-dive-into-decision-trees-a-fun-guide-590l)
+- [AdGuard Home: Your ultimate protection on the internet 🧑🏼‍🚀](https://dev.to/disane/adguard-home-your-ultimate-protection-on-the-internet-1oc9)
+- [Free Resources for Aspiring Programmers and Beyond](https://dev.to/annavi11arrea1/free-resources-for-aspiring-programmers-and-beyond-21jo)
+- [Creating a Markdown Editor with @uiw/react-md-editor](https://dev.to/promathieuthiry/creating-a-markdown-editor-with-uiwreact-md-editor-5foe)
+- [React.js Essentials: Your Roadmap to Entry-Level Proficiency](https://dev.to/muhammad_khalilzadeh/reactjs-essentials-your-roadmap-to-entry-level-proficiency-3gcp)
+- [Como integrar ASP.NET + ChatGPT](https://dev.to/danilosilva/como-integrar-aspnet-chatgpt-4hha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
