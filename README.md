@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[DAY 69-71] I started building a calculator using React and I failed](https://dev.to/thomascansino/day-69-71-i-started-building-a-calculator-using-react-and-i-failed-4dkj)
-- [Make a digital clock in Mini Micro](https://dev.to/joestrout/make-a-digital-clock-in-mini-micro-3mpl)
-- [Startups: Lessons I Learned](https://dev.to/douglaspujol/startups-lessons-i-learned-47fk)
-- [Weekly Watercooler Thread](https://dev.to/ben/weekly-watercooler-thread-110g)
-- [Chat-Moderation mit OpenAI](https://dev.to/pubnub-de/chat-moderation-mit-openai-jho)
+- [Using Chrome’s Document Picture-in-Picture API in React](https://dev.to/logrocket/using-chromes-document-picture-in-picture-api-in-react-38oo)
+- [**🌟 Mastering the Java Collections Framework 🌟**](https://dev.to/gadekar_sachin/-mastering-the-java-collections-framework--4kcd)
+- [AWS/GCP/Azure Consoles, Embedded inside Your Docs](https://dev.to/sourishkrout/awsgcpazure-consoles-embedded-inside-your-docs-1a3l)
+- [Styling React Using CSS 6 Methods](https://dev.to/sudhanshu_developer/styling-react-using-css-6-methods-4oi6)
+- [# 🌳 Dive into Decision Trees: A Fun Guide! 🌳](https://dev.to/aviralgarg05/-dive-into-decision-trees-a-fun-guide-590l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
