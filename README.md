@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top ShowdownJS Extensions and Their Usage](https://dev.to/sh20raj/top-showdownjs-extensions-and-their-usage-18an)
-- [Greetings!](https://dev.to/bearmsu/greetings-512l)
-- [HNG STAGE ZERO: ANALYZING RETAIL SALES DATA AT FIRST GLANCE](https://dev.to/devbassey/hng-stage-zero-analyzing-retail-sales-data-at-first-glance-2gp3)
-- [How to use an auto-tiling technique in your next game project](https://dev.to/excaliburjs/how-to-use-an-auto-tiling-technique-in-your-next-game-project-1ek9)
-- [20 Ways to Improve Node.js Performance at Scale 🚀](https://dev.to/dipakahirav/20-ways-to-improve-nodejs-performance-at-scale-25nf)
+- [Leetcode Day 2: Palindrome Number](https://dev.to/simona-cancian/leetcode-day-2-palindrome-number-377i)
+- [Day 1: Error: &quot;Module not found: Error: Can&#39;t resolve &#39;@angular/core&#39;&quot;](https://dev.to/dipakahirav/day-1-error-module-not-found-error-cant-resolve-angularcore-2il0)
+- [NoInfer in Typescript 5.4](https://dev.to/makoto0825/noinfer-in-typescript-54-4k72)
+- [Git and GitHub Explained Like You&#39;re Five](https://dev.to/thekarlesi/git-and-github-explain-like-youre-five-2c2p)
+- [Linux User Creation With Bash Script](https://dev.to/daniaernest/linux-user-creation-with-bash-script-46ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
