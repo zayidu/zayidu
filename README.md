@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding TypeScript “as” Keyword](https://dev.to/starneit/understanding-typescript-as-keyword-2ne4)
-- [Time Travel in React with Immer: A Step-by-Step Tutorial](https://dev.to/starneit/time-travel-in-react-with-immer-a-step-by-step-tutorial-78p)
-- [Event driven architecture : Overview and comparison of AWS Messaging services](https://dev.to/distinction-dev/event-driven-architecture-overview-and-comparison-of-aws-messaging-service-18lb)
-- [How to Setup Users and User Groups on Linux](https://dev.to/soji/how-to-setup-users-and-user-groups-on-linux-25ia)
-- [Enhance your TypeScript with Type Guards](https://dev.to/starneit/enhance-your-typescript-with-type-guards-4jk6)
+- [Easy задача с собеседования в Facebook: Contains Duplicate ||](https://dev.to/faangmaster/easy-zadacha-s-sobiesiedovaniia-v-facebook-contains-duplicate--4ief)
+- [Cheat Sheet for React Bootstrap. Layout and Forms](https://dev.to/jsha/cheat-sheet-for-react-bootstrap-layout-and-forms-5d75)
+- [Cheat Sheet for React Bootstrap. Installation and components](https://dev.to/jsha/cheat-sheet-for-react-bootstrap-installation-and-components-4n43)
+- [Cheat Sheet for Bootstrap. Utilities and helpers](https://dev.to/jsha/cheat-sheet-for-bootstrap-utilities-and-helpers-20g2)
+- [Cheat Sheet for Bootstrap. Layout](https://dev.to/jsha/cheat-sheet-for-bootstrap-layout-11bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
