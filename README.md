@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JWT for Developers: Behind the Scenes.](https://dev.to/andres_fernandez_05a8738d/jwt-for-developers-behind-the-scenes-445p)
-- [Learning Conditional Statements in Python](https://dev.to/davitacols/learning-conditional-statements-in-python-3224)
-- [ROC-AUC Curve in Machine Learning](https://dev.to/harsimranjit_singh_0133dc/roc-auc-curve-in-machine-learning-55ig)
-- [Exploring Leonardo AI: Features, Benefits, and Applications](https://dev.to/jettliya/exploring-leonardo-ai-features-benefits-and-applications-3ncg)
-- [Migrating data in production &lpar;with zero downtime&rpar;](https://dev.to/bjorndcode/migrating-data-in-production-with-zero-downtime-29lm)
+- [5 Layer of Softwares](https://dev.to/syedmuhammadaliraza/5-layer-of-softwares-2lc6)
+- [Kazi Byte: Empowering Digital Solutions for a Connected World.](https://dev.to/kazibyte/kazi-byte-empowering-digital-solutions-for-a-connected-world-3p5a)
+- [Demystifying the Ellipsis &lpar;...&rpar;: Spread Operator vs Rest Operator in JavaScript](https://dev.to/rajusaha/demystifying-the-ellipsis-spread-operator-vs-rest-operator-in-javascript-25gj)
+- [Using match with Option in Effect](https://dev.to/almaclaine/using-match-with-option-in-effect-1ho9)
+- [Using match with Option in Effect](https://dev.to/almaclaine/using-match-with-option-in-effect-35p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
