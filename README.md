@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Layer of Softwares](https://dev.to/syedmuhammadaliraza/5-layer-of-softwares-2lc6)
-- [Kazi Byte: Empowering Digital Solutions for a Connected World.](https://dev.to/kazibyte/kazi-byte-empowering-digital-solutions-for-a-connected-world-3p5a)
-- [Demystifying the Ellipsis &lpar;...&rpar;: Spread Operator vs Rest Operator in JavaScript](https://dev.to/rajusaha/demystifying-the-ellipsis-spread-operator-vs-rest-operator-in-javascript-25gj)
-- [Using match with Option in Effect](https://dev.to/almaclaine/using-match-with-option-in-effect-1ho9)
-- [Using match with Option in Effect](https://dev.to/almaclaine/using-match-with-option-in-effect-35p7)
+- [Dynamically render columns in Angular material table](https://dev.to/ngmaterialdev/dynamically-render-columns-in-angular-material-table-3b6p)
+- [What is Actually GitLab?](https://dev.to/shariqahmed525/what-is-actually-gitlab-1260)
+- [Creating Intelligent Apps Made Easy: AI-Powered Development With FlutterFlow](https://dev.to/solutelabs/creating-intelligent-apps-made-easy-ai-powered-development-with-flutterflow-4igb)
+- [Exploring Cloud Deployment Models in Azure: Public, Private, and Hybrid](https://dev.to/azizularif/exploring-cloud-deployment-models-in-azure-public-private-and-hybrid-41ac)
+- [Exploring Cloud Deployment Models in Azure: Public, Private, and Hybrid](https://dev.to/azizularif/exploring-cloud-deployment-models-in-azure-public-private-and-hybrid-2b5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
