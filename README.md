@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamically render columns in Angular material table](https://dev.to/ngmaterialdev/dynamically-render-columns-in-angular-material-table-3b6p)
-- [What is Actually GitLab?](https://dev.to/shariqahmed525/what-is-actually-gitlab-1260)
-- [Creating Intelligent Apps Made Easy: AI-Powered Development With FlutterFlow](https://dev.to/solutelabs/creating-intelligent-apps-made-easy-ai-powered-development-with-flutterflow-4igb)
-- [Exploring Cloud Deployment Models in Azure: Public, Private, and Hybrid](https://dev.to/azizularif/exploring-cloud-deployment-models-in-azure-public-private-and-hybrid-41ac)
-- [Exploring Cloud Deployment Models in Azure: Public, Private, and Hybrid](https://dev.to/azizularif/exploring-cloud-deployment-models-in-azure-public-private-and-hybrid-2b5p)
+- [Day 25 of 30 of JavaScript](https://dev.to/akshat0610/day-25-of-30-of-javascript-4k94)
+- [⚡ MyFirstApp - React Native with Expo &lpar;P21&rpar;](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p21-5cej)
+- [Patch your servers! It&#39;s time of regreSSHion](https://dev.to/krzwiatrzyk/patch-your-servers-its-time-of-regresshion-1f5)
+- [Key Data Science Innovations to Embrace in 2024](https://dev.to/sejal_4218d5cae5da24da188/key-data-science-innovations-to-embrace-in-2024-35jm)
+- [CJIS and Its Importance in Access Control](https://dev.to/blogginger/cjis-and-its-importance-in-access-control-4g19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
