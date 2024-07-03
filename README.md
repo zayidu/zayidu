@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sistemas Operacionais: FIFO](https://dev.to/iamthiago/sistemas-operacionais-fifo-4ebo)
-- [Formik vs. React Hook Form](https://dev.to/abelotegbola/formik-vs-react-hook-form-3dcj)
-- [Set GitHub Actions timeout-minutes](https://dev.to/suzukishunsuke/set-github-actions-timeout-minutes-1jkk)
-- [Issue with NPM Package Installing Globally](https://dev.to/kiranuknow/issue-with-npm-package-installing-globally-cgi)
-- [Exploring the Power of Python and Object-Oriented Programming](https://dev.to/minorpianokeys/exploring-the-power-of-python-and-object-oriented-programming-4ai3)
+- [JWT for Developers: Behind the Scenes.](https://dev.to/andres_fernandez_05a8738d/jwt-for-developers-behind-the-scenes-445p)
+- [Learning Conditional Statements in Python](https://dev.to/davitacols/learning-conditional-statements-in-python-3224)
+- [ROC-AUC Curve in Machine Learning](https://dev.to/harsimranjit_singh_0133dc/roc-auc-curve-in-machine-learning-55ig)
+- [Exploring Leonardo AI: Features, Benefits, and Applications](https://dev.to/jettliya/exploring-leonardo-ai-features-benefits-and-applications-3ncg)
+- [Migrating data in production &lpar;with zero downtime&rpar;](https://dev.to/bjorndcode/migrating-data-in-production-with-zero-downtime-29lm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
