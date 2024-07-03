@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AdGuard Home: Your ultimate protection on the internet 🧑🏼‍🚀](https://dev.to/disane/adguard-home-your-ultimate-protection-on-the-internet-1oc9)
-- [Free Resources for Aspiring Programmers and Beyond](https://dev.to/annavi11arrea1/free-resources-for-aspiring-programmers-and-beyond-21jo)
-- [Creating a Markdown Editor with @uiw/react-md-editor](https://dev.to/promathieuthiry/creating-a-markdown-editor-with-uiwreact-md-editor-5foe)
-- [React.js Essentials: Your Roadmap to Entry-Level Proficiency](https://dev.to/muhammad_khalilzadeh/reactjs-essentials-your-roadmap-to-entry-level-proficiency-3gcp)
-- [Como integrar ASP.NET + ChatGPT](https://dev.to/danilosilva/como-integrar-aspnet-chatgpt-4hha)
+- [Created My Portfolio](https://dev.to/hirohata/created-my-portfolio-1hnf)
+- [Deep Dive: Fortifying Your Cloud Defences with AWS Multi-Factor Authentication &lpar;MFA&rpar;](https://dev.to/ikoh_sylva/deep-dive-fortifying-your-cloud-defences-with-aws-multi-factor-authentication-mfa-2cjc)
+- [Developing Smart Contracts for Cross-Chain Operations: A Comprehensive Guide](https://dev.to/vincent_lee_190635/developing-smart-contracts-for-cross-chain-operations-a-comprehensive-guide-1efi)
+- [ServiceNow Mid-Server Insights](https://dev.to/sophiasemga/servicenow-mid-server-insights-48b9)
+- [Understanding Virtual Machines and Hypervisors](https://dev.to/hacker_haii/understanding-virtual-machines-and-hypervisors-13em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
