@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular: A Deep Dive into `:host` &amp; `:host-context` Pseudo-Classes](https://dev.to/manthanank/angular-a-deep-dive-into-host-host-context-pseudo-classes-5ged)
-- [From development to production what can go wrong with your databases &lpar;and how to avoid and fix them&rpar;](https://dev.to/metis/from-development-to-production-what-can-go-wrong-with-your-databases-and-how-to-avoid-and-fix-them-5aff)
-- [Javascript Set operations can now be performed natively](https://dev.to/untilyou58/javascript-set-operations-can-now-be-performed-natively-1lhb)
-- [Isolated Storage and Enhanced Security in AI](https://dev.to/polterguy/isolated-storage-and-enhanced-security-in-ai-3d4i)
-- [Apache Answer 1.3.5: Flexibility. Reaction. Extension.](https://dev.to/apacheanswer/apache-answer-135-flexibility-reaction-extension-1man)
+- [Dynamic watermarking on the JVM](https://dev.to/nfrankel/dynamic-watermarking-on-the-jvm-ffh)
+- [UI Design Tips Using Tailwind CSS for Developers](https://dev.to/railsdesigner/ui-design-tips-using-tailwind-css-for-developers-4lg0)
+- [Welcome to JavaScript: From Novice to Expert](https://dev.to/buildwebcrumbs/welcome-to-javascript-from-novice-to-expert-38fh)
+- [TypeScript VS Angular for Gantt charts](https://dev.to/lenormor/typescript-vs-angular-for-gantt-charts-38gn)
+- [50+ Essential Windows 11 URI Commands!](https://dev.to/winsides/50-essential-windows-11-uri-commands-3bdj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
