@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Erasure and Restrictions on Generics](https://dev.to/paulike/erasure-and-restrictions-on-generics-54bm)
-- [Encoding](https://dev.to/devsjavagirls/encoding-3oi8)
-- [Implementando Clean Architecture com TypeScript](https://dev.to/dvorlandi/implementando-clean-architecture-com-typescript-20pb)
-- [AWS Dynamobd](https://dev.to/walterjesus88/api-gateway-a73)
-- [Implementing Clean Architecture with TypeScript](https://dev.to/dvorlandi/implementing-clean-architecture-with-typescript-3jpc)
+- [Cross-Compilation in Go for AWS Lambda](https://dev.to/gatij/cross-compilation-in-go-for-aws-lambda-1io9)
+- [Joining an existing team can be quite challenging](https://dev.to/akotek/joining-an-existing-team-can-be-quite-challenging-47cm)
+- [HTML Forms- In details](https://dev.to/ridoy_hasan/html-forms-in-details-514m)
+- [Facebook-OpenAI Knowledge Base Chatbot](https://dev.to/tahsin000/facebook-openai-knowledge-base-chatbot-23ih)
+- [Why Losing Weight is Only Possible with Programming](https://dev.to/ivanbalmasov/why-losing-weight-is-only-possible-with-programming-4ifo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
