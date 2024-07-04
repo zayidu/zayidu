@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 ways to skip QA approval forever!](https://dev.to/middleware/5-ways-to-skip-qa-approval-forever-9b6)
-- [Build an HTML To Markdown Converter using ToolJet📋](https://dev.to/tooljet/build-an-html-to-markdown-converter-using-tooljet-4p7h)
-- [Our Custom Chatbot Gets Supercharged with New Features](https://dev.to/edenai/our-custom-chatbot-gets-supercharged-with-new-features-pe1)
-- [Revamped Mock-API.net: Simplifying API Mocking for Developers](https://dev.to/samirfcis/revamped-mock-apinet-simplifying-api-mocking-for-developers-5b9h)
-- [Setting Up Node.js and Creating a Basic HTTP Server: A Beginner&#39;s Guide](https://dev.to/sudhanshu_developer/setting-up-nodejs-and-creating-a-basic-http-server-a-beginners-guide-5fjb)
+- [VSCode Settings for NextJS Project](https://dev.to/maxwiggedal/vscode-settings-for-nextjs-project-7ld)
+- [Pessoas desenvolvedoras precisam estudar todos os dias](https://dev.to/kecbm/pessoas-desenvolvedoras-precisam-estudar-todos-os-dias-5dea)
+- [Quick guide on Migrations in Ruby on Rails for beginners](https://dev.to/dumebii/quick-guide-to-migrations-in-ruby-on-rails-for-beginners-4gmb)
+- [Opa Gatekeeper: How To Write Policies For Kubernetes Clusters](https://dev.to/permify/opa-gatekeeper-how-to-write-policies-for-kubernetes-clusters-4o3)
+- [From Framework Consumer to Framework Creator: Mastering Design Patterns](https://dev.to/sharoztanveer/from-framework-consumer-to-framework-creator-mastering-design-patterns-4c46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
