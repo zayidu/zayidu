@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VSCode Settings for NextJS Project](https://dev.to/maxwiggedal/vscode-settings-for-nextjs-project-7ld)
-- [Pessoas desenvolvedoras precisam estudar todos os dias](https://dev.to/kecbm/pessoas-desenvolvedoras-precisam-estudar-todos-os-dias-5dea)
-- [Quick guide on Migrations in Ruby on Rails for beginners](https://dev.to/dumebii/quick-guide-to-migrations-in-ruby-on-rails-for-beginners-4gmb)
-- [Opa Gatekeeper: How To Write Policies For Kubernetes Clusters](https://dev.to/permify/opa-gatekeeper-how-to-write-policies-for-kubernetes-clusters-4o3)
-- [From Framework Consumer to Framework Creator: Mastering Design Patterns](https://dev.to/sharoztanveer/from-framework-consumer-to-framework-creator-mastering-design-patterns-4c46)
+- [Setting up a helm OCI registry with ArgoCD hosted on Azure](https://dev.to/nastaliss/setting-up-a-helm-oci-registry-with-argocd-hosted-on-azure-4idd)
+- [WRITING VIRTUAL MACHINE SCALE SET.](https://dev.to/agana_adebayoo_876a06/writing-virtual-machine-scale-set-c6p)
+- [Beginner&#39;s Guide to NLP and NLTK 🐍📑](https://dev.to/kammarianand/beginners-guide-to-nlp-and-nltk-433)
+- [Seeking Arabic Open-Source MERN Stack Blog Projects](https://dev.to/mrxmaidx/seeking-arabic-open-source-mern-stack-blog-projects-57ho)
+- [env0 Workflows: Simplifying Advanced IaC Setups and Managing Dependencies](https://dev.to/env0/env0-workflows-simplifying-advanced-iac-setups-and-managing-dependencies-3080)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
