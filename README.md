@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Functional Programming in JavaScript: Closure #2](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-closure-2-4m4g)
-- [User Creation Automation in Linux with Bash Scripts](https://dev.to/donfolayan/user-creation-automation-in-linux-with-bash-scripts-3p61)
-- [Why Still Use Django Over FastAPI?](https://dev.to/seifalmotaz/why-still-use-django-over-fastapi-5b0d)
-- [22 amazing 🤯 NPM packages you should Try](https://dev.to/r4jv33r/22-amazing-npm-packages-you-should-know-20kl)
-- [Continued Learnings](https://dev.to/ssotka/continued-learnings-33mo)
+- [Como usar IntelliJ IDEA ou Android Studio no Wayland](https://dev.to/danroxha/como-usar-intellij-idea-ou-android-studio-no-wayland-27ga)
+- [Google PubSub: Number of Unread Messages](https://dev.to/shannonlal/google-pubsub-number-of-unread-messages-57jh)
+- [Deploying a Node.js Application on AWS Elastic Beastalk](https://dev.to/fabiola_estefanipomamac/deploying-a-nodejs-application-on-aws-elastic-beastalk-2nld)
+- [The Importance of Using Granted for Managing Multiple AWS Accounts](https://dev.to/fernandomullerjr/the-importance-of-using-granted-for-managing-multiple-aws-accounts-203c)
+- [One tool to rule them all - Terraform: EKS Golang Client &amp; E2E AWS Lambda CI/CD via IaC](https://dev.to/wardove/from-code-to-cloud-with-terraform-eks-golang-client-e2e-aws-lambda-cicd-with-iac-2id8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
