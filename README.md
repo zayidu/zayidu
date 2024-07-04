@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🐍 Answer the phone! with Python](https://dev.to/kwnaidoo/answer-the-phone-with-python-2h4l)
-- [Don&#39;t Be a Victim: The Ultimate Guide to Defending Against Cybersecurity Threats](https://dev.to/verifyvault/dont-be-a-victim-the-ultimate-guide-to-defending-against-cybersecurity-threats-20kl)
-- [Crafting Custom Methods in JavaScript with Prototypes](https://dev.to/geraldhamiltonwicks/crafting-custom-methods-in-javascript-with-prototypes-5c41)
-- [OpenAI &lpar;LLM&rpar; Function Call Schema Generator from Swagger &lpar;OpenAPI&rpar; Document](https://dev.to/samchon/openai-llm-function-call-schema-generator-from-swagger-openapi-document-3g4n)
-- [ReactJs vs VueJs: A Comparison Between Frontend Technologies.](https://dev.to/yeeshadev/reactjs-vs-vuejs-a-comparison-between-frontend-technologies-34pi)
+- [Innovative JavaScript Features in 2024: Enhancing Developer Experience and Codebase Quality](https://dev.to/fido1hn/innovative-javascript-features-in-2024-enhancing-developer-experience-and-codebase-quality-5ah4)
+- [Mastering Cypher Query Language for Neo4j Graph NoSQL Databases](https://dev.to/stormsidali2001/mastering-cypher-query-language-for-neo4j-graph-nosql-databases-f00)
+- [Linux users creation with Bash script](https://dev.to/adesokan_israel_109436759/linux-users-creation-with-bash-script-4733)
+- [⚡ MyFirstApp - React Native with Expo &lpar;P24&rpar; - Code Layout Register Screen](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p24-code-layout-register-screen-2iid)
+- [⚡ MyFirstApp - React Native with Expo &lpar;P23&rpar; - Update Layout Splash Screen](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p23-update-layout-splash-screen-1hc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
