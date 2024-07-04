@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Image Lazy Loading](https://dev.to/sundarbadagala081/image-lazy-loading-31jb)
-- [Generics](https://dev.to/paulike/generics-54e4)
-- [Azure Synapse Analytics Security: Data Protection](https://dev.to/ayush9892/azure-synapse-analytics-security-data-protection-ecp)
-- [How to report Postgres custom errors in Ecto Changeset](https://dev.to/utopos/how-to-report-postgres-custom-errors-in-ecto-changeset-54m)
-- [Get webmentions with shell script using jq &amp; yq](https://dev.to/22mahmoud/get-webmentions-with-shell-script-using-jq-amp-yq-237e)
+- [Pieces: Your Ultimate Coding AI Best Friend](https://dev.to/cbid2/pieces-your-ultimate-coding-ai-best-friend-6me)
+- [Desvendando o Async/Await: Simplificando a Programação Assíncrona com JavaScript](https://dev.to/gabrielteixeira44/desvendando-o-asyncawait-simplificando-a-programacao-assincrona-e0c)
+- [Marrying Perl to Assembly](https://dev.to/chrisarg/marrying-perl-to-assembly-91m)
+- [Top 3 SaaS Services for Importing CSV Files](https://dev.to/developerpartners/top-3-saas-services-for-importing-csv-files-gjn)
+- [Solving the version conflicts between the Nvidia driver and CUDA toolkit](https://dev.to/moseo/solving-the-version-conflicts-between-the-nvidia-driver-and-cuda-toolkit-2n2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
