@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 8 Powerful No-Code Development Platforms in 2024](https://dev.to/nocobase/top-8-powerful-no-code-development-platforms-in-2024-3mof)
-- [Understanding SAML and SSO: A Detailed Comparison](https://dev.to/satokenta/understanding-saml-and-sso-a-detailed-comparison-2953)
-- [OpenID vs OAuth](https://dev.to/api7/openid-vs-oauth-dog)
-- [Help Needed: Integrating Laravel with Next.js for University E-commerce Project](https://dev.to/tharushkadinujaya05/help-needed-integrating-laravel-with-nextjs-for-university-e-commerce-project-53fj)
-- [python venv](https://dev.to/youngjoonwon/python-venv-4jf7)
+- [Storing partial HTML elements in separate files?](https://dev.to/marcos_/storing-partial-html-elements-in-separate-files-4775)
+- [Top 3 Ways to Test Ideas Without Developers](https://dev.to/jetthoughts/top-3-ways-to-test-ideas-without-developers-1fjd)
+- [Getting Started with ReductStore in Rust](https://dev.to/reductstore/getting-started-with-reductstore-in-rust-pke)
+- [7 strategies to master git reset:](https://dev.to/jawad_hayat/7-strategies-to-master-git-reset-1cg3)
+- [Hosting a Static Website Using Microsoft Azure Blob Storage](https://dev.to/laoluafolami/hosting-a-static-website-using-microsoft-azure-blob-storage-9o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
