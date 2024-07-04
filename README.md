@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pieces: Your Ultimate Coding AI Best Friend](https://dev.to/cbid2/pieces-your-ultimate-coding-ai-best-friend-6me)
-- [Desvendando o Async/Await: Simplificando a Programação Assíncrona com JavaScript](https://dev.to/gabrielteixeira44/desvendando-o-asyncawait-simplificando-a-programacao-assincrona-e0c)
-- [Marrying Perl to Assembly](https://dev.to/chrisarg/marrying-perl-to-assembly-91m)
-- [Top 3 SaaS Services for Importing CSV Files](https://dev.to/developerpartners/top-3-saas-services-for-importing-csv-files-gjn)
-- [Solving the version conflicts between the Nvidia driver and CUDA toolkit](https://dev.to/moseo/solving-the-version-conflicts-between-the-nvidia-driver-and-cuda-toolkit-2n2)
+- [Erasure and Restrictions on Generics](https://dev.to/paulike/erasure-and-restrictions-on-generics-54bm)
+- [Encoding](https://dev.to/devsjavagirls/encoding-3oi8)
+- [Implementando Clean Architecture com TypeScript](https://dev.to/dvorlandi/implementando-clean-architecture-com-typescript-20pb)
+- [AWS Dynamobd](https://dev.to/walterjesus88/api-gateway-a73)
+- [Implementing Clean Architecture with TypeScript](https://dev.to/dvorlandi/implementing-clean-architecture-with-typescript-3jpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
