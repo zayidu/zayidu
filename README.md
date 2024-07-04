@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Leveraging Regular Service Role for Secured Alibaba Cloud Elasticsearch Integrations](https://dev.to/a_lucas/leveraging-regular-service-role-for-secured-alibaba-cloud-elasticsearch-integrations-3fhn)
+- [Leveraging PySpark.Pandas for Efficient Data Pipelines](https://dev.to/felipe_de_godoy/leveraging-pysparkpandas-for-efficient-data-pipelines-2opf)
 - [Come and see China：Beijing，a city that blends ancient and modern beauty！](https://dev.to/pang_jack/come-and-see-chinabeijinga-city-that-blends-ancient-and-modern-beauty-51bj)
 - [Solving Complex Backend Challenges: My Journey with Node.js and HNG Internship](https://dev.to/sunday_covenant/solving-complex-backend-challenges-my-journey-with-nodejs-and-hng-internship-2bak)
 - [The Ultimate React Roadmap for 2024 - Learn React the Right Way](https://dev.to/docusignlog-in/the-ultimate-react-roadmap-for-2024-learn-react-the-right-way-4680)
-- [Definitive guide to Higher Order Function &lpar;HOC&rpar;](https://dev.to/codewithjohnson/definitive-guide-to-higher-order-function-hoc-28b5)
-- [Developers Listen: If You Don&#39;t Have a Rich Domain Model, You Don&#39;t Leverage OOP](https://dev.to/muhammad_salem/developers-listen-if-you-dont-have-a-rich-domain-model-you-dont-leverage-oop-aid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
