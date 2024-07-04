@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up a helm OCI registry with ArgoCD hosted on Azure](https://dev.to/nastaliss/setting-up-a-helm-oci-registry-with-argocd-hosted-on-azure-4idd)
-- [WRITING VIRTUAL MACHINE SCALE SET.](https://dev.to/agana_adebayoo_876a06/writing-virtual-machine-scale-set-c6p)
-- [Beginner&#39;s Guide to NLP and NLTK 🐍📑](https://dev.to/kammarianand/beginners-guide-to-nlp-and-nltk-433)
-- [Seeking Arabic Open-Source MERN Stack Blog Projects](https://dev.to/mrxmaidx/seeking-arabic-open-source-mern-stack-blog-projects-57ho)
-- [env0 Workflows: Simplifying Advanced IaC Setups and Managing Dependencies](https://dev.to/env0/env0-workflows-simplifying-advanced-iac-setups-and-managing-dependencies-3080)
+- [🐍 Answer the phone! with Python](https://dev.to/kwnaidoo/answer-the-phone-with-python-2h4l)
+- [Don&#39;t Be a Victim: The Ultimate Guide to Defending Against Cybersecurity Threats](https://dev.to/verifyvault/dont-be-a-victim-the-ultimate-guide-to-defending-against-cybersecurity-threats-20kl)
+- [Crafting Custom Methods in JavaScript with Prototypes](https://dev.to/geraldhamiltonwicks/crafting-custom-methods-in-javascript-with-prototypes-5c41)
+- [OpenAI &lpar;LLM&rpar; Function Call Schema Generator from Swagger &lpar;OpenAPI&rpar; Document](https://dev.to/samchon/openai-llm-function-call-schema-generator-from-swagger-openapi-document-3g4n)
+- [ReactJs vs VueJs: A Comparison Between Frontend Technologies.](https://dev.to/yeeshadev/reactjs-vs-vuejs-a-comparison-between-frontend-technologies-34pi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
