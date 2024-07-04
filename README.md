@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Geologist to Backend Developer with HNG Internship](https://dev.to/cub_ger24/from-geologist-to-backend-developer-with-hng-internship-3glf)
-- [Introduction to BitPower: Decentralized Lending Platform](https://dev.to/aimm_w_1761d19cef7fa886fd/introduction-to-bitpower-decentralized-lending-platform-3k9i)
-- [Cara Memanggil REST API dari SQL Server Menggunakan Store Procedure](https://dev.to/amry_maftuh/cara-memanggil-rest-api-dari-sql-server-menggunakan-prosedur-tersimpan-5ebn)
-- [Google Analytics With React Typescript](https://dev.to/itayeylath/google-analytics-with-react-typescript-j9f)
-- [Modern Front End Development: A Comparative Analysis of Angular and React](https://dev.to/bienvenudk57/modern-front-end-development-a-comparative-analysis-of-angular-and-react-2idf)
+- [5 ways to skip QA approval forever!](https://dev.to/middleware/5-ways-to-skip-qa-approval-forever-9b6)
+- [Build an HTML To Markdown Converter using ToolJet📋](https://dev.to/tooljet/build-an-html-to-markdown-converter-using-tooljet-4p7h)
+- [Our Custom Chatbot Gets Supercharged with New Features](https://dev.to/edenai/our-custom-chatbot-gets-supercharged-with-new-features-pe1)
+- [Revamped Mock-API.net: Simplifying API Mocking for Developers](https://dev.to/samirfcis/revamped-mock-apinet-simplifying-api-mocking-for-developers-5b9h)
+- [Setting Up Node.js and Creating a Basic HTTP Server: A Beginner&#39;s Guide](https://dev.to/sudhanshu_developer/setting-up-nodejs-and-creating-a-basic-http-server-a-beginners-guide-5fjb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
