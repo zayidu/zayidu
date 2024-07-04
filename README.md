@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Compilation in Go for AWS Lambda](https://dev.to/gatij/cross-compilation-in-go-for-aws-lambda-1io9)
-- [Joining an existing team can be quite challenging](https://dev.to/akotek/joining-an-existing-team-can-be-quite-challenging-47cm)
-- [HTML Forms- In details](https://dev.to/ridoy_hasan/html-forms-in-details-514m)
-- [Facebook-OpenAI Knowledge Base Chatbot](https://dev.to/tahsin000/facebook-openai-knowledge-base-chatbot-23ih)
-- [Why Losing Weight is Only Possible with Programming](https://dev.to/ivanbalmasov/why-losing-weight-is-only-possible-with-programming-4ifo)
+- [Introduction to Functional Programming in JavaScript: Closure #2](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-closure-2-4m4g)
+- [User Creation Automation in Linux with Bash Scripts](https://dev.to/donfolayan/user-creation-automation-in-linux-with-bash-scripts-3p61)
+- [Why Still Use Django Over FastAPI?](https://dev.to/seifalmotaz/why-still-use-django-over-fastapi-5b0d)
+- [22 amazing 🤯 NPM packages you should Try](https://dev.to/r4jv33r/22-amazing-npm-packages-you-should-know-20kl)
+- [Continued Learnings](https://dev.to/ssotka/continued-learnings-33mo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
