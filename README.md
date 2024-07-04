@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Definitive guide to Higher Order Function &lpar;HOC&rpar;](https://dev.to/codewithjohnson/definitive-guide-to-higher-order-function-hoc-28b5)
+- [Developers Listen: If You Don&#39;t Have a Rich Domain Model, You Don&#39;t Leverage OOP](https://dev.to/muhammad_salem/developers-listen-if-you-dont-have-a-rich-domain-model-you-dont-leverage-oop-aid)
+- [why login not working after form submission ?](https://dev.to/samir_soupape/why-login-not-working-after-form-submission--4lli)
+- [VS Code settings that every front-end developer should know](https://dev.to/mhmd-salah/vs-code-settings-that-every-front-end-developer-should-know-2c1h)
 - [Introduction to Data Engineering with Apache Airflow](https://dev.to/kartikmehta8/introduction-to-data-engineering-with-apache-airflow-3m41)
-- [How To Automate User Creation With Bash Script](https://dev.to/toluwalemi/how-to-automate-user-creation-with-bash-script-3kkk)
-- [Adding parameters to my Serverless Web Scraper API](https://dev.to/aws/adding-parameters-to-my-serverless-web-scraper-api-j67)
-- [Fun and Fantastic Algorithms Every Developer Should Know](https://dev.to/3a5abi/fun-and-fantastic-algorithms-every-developer-should-know-6aj)
-- [Next.js Deployment: Vercel&#39;s Charm vs. GCP&#39;s Muscle](https://dev.to/solitary-polymath/nextjs-deployment-vercels-charm-vs-gcps-muscle-l0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
