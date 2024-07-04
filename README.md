@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Storing partial HTML elements in separate files?](https://dev.to/marcos_/storing-partial-html-elements-in-separate-files-4775)
-- [Top 3 Ways to Test Ideas Without Developers](https://dev.to/jetthoughts/top-3-ways-to-test-ideas-without-developers-1fjd)
-- [Getting Started with ReductStore in Rust](https://dev.to/reductstore/getting-started-with-reductstore-in-rust-pke)
-- [7 strategies to master git reset:](https://dev.to/jawad_hayat/7-strategies-to-master-git-reset-1cg3)
-- [Hosting a Static Website Using Microsoft Azure Blob Storage](https://dev.to/laoluafolami/hosting-a-static-website-using-microsoft-azure-blob-storage-9o0)
+- [From Geologist to Backend Developer with HNG Internship](https://dev.to/cub_ger24/from-geologist-to-backend-developer-with-hng-internship-3glf)
+- [Introduction to BitPower: Decentralized Lending Platform](https://dev.to/aimm_w_1761d19cef7fa886fd/introduction-to-bitpower-decentralized-lending-platform-3k9i)
+- [Cara Memanggil REST API dari SQL Server Menggunakan Store Procedure](https://dev.to/amry_maftuh/cara-memanggil-rest-api-dari-sql-server-menggunakan-prosedur-tersimpan-5ebn)
+- [Google Analytics With React Typescript](https://dev.to/itayeylath/google-analytics-with-react-typescript-j9f)
+- [Modern Front End Development: A Comparative Analysis of Angular and React](https://dev.to/bienvenudk57/modern-front-end-development-a-comparative-analysis-of-angular-and-react-2idf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
