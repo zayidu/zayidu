@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Innovative JavaScript Features in 2024: Enhancing Developer Experience and Codebase Quality](https://dev.to/fido1hn/innovative-javascript-features-in-2024-enhancing-developer-experience-and-codebase-quality-5ah4)
-- [Mastering Cypher Query Language for Neo4j Graph NoSQL Databases](https://dev.to/stormsidali2001/mastering-cypher-query-language-for-neo4j-graph-nosql-databases-f00)
-- [Linux users creation with Bash script](https://dev.to/adesokan_israel_109436759/linux-users-creation-with-bash-script-4733)
-- [⚡ MyFirstApp - React Native with Expo &lpar;P24&rpar; - Code Layout Register Screen](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p24-code-layout-register-screen-2iid)
-- [⚡ MyFirstApp - React Native with Expo &lpar;P23&rpar; - Update Layout Splash Screen](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p23-update-layout-splash-screen-1hc6)
+- [Image Lazy Loading](https://dev.to/sundarbadagala081/image-lazy-loading-31jb)
+- [Generics](https://dev.to/paulike/generics-54e4)
+- [Azure Synapse Analytics Security: Data Protection](https://dev.to/ayush9892/azure-synapse-analytics-security-data-protection-ecp)
+- [How to report Postgres custom errors in Ecto Changeset](https://dev.to/utopos/how-to-report-postgres-custom-errors-in-ecto-changeset-54m)
+- [Get webmentions with shell script using jq &amp; yq](https://dev.to/22mahmoud/get-webmentions-with-shell-script-using-jq-amp-yq-237e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
