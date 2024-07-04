@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Rotate Property Explained](https://dev.to/code_passion/css-rotate-property-explained-1j48)
-- [Salesforce Developer Outsourcing: A Comprehensive Guide](https://dev.to/bytesfarms/salesforce-developer-outsourcing-a-comprehensive-guide-4gne)
-- [I just made an automatic translator for your language files into many languages using AI, such as Claude.](https://dev.to/kargnas/i-just-made-an-automatic-translator-for-your-language-files-into-many-languages-using-ai-such-as-claude-3cjp)
-- [&quot;Connecting to an EC2 Instance Using SSH: Easy Steps to Access Your Instance&quot;](https://dev.to/vishal_raju_6a7ca9503a75b/connecting-to-an-ec2-instance-using-ssh-easy-steps-to-access-your-instance-dhk)
-- [Building a Successful Career: Key Insights for Junior Developers](https://dev.to/grover_sumrit/building-a-successful-career-key-insights-for-junior-developers-2c1a)
+- [Angular: A Deep Dive into `:host` &amp; `:host-context` Pseudo-Classes](https://dev.to/manthanank/angular-a-deep-dive-into-host-host-context-pseudo-classes-5ged)
+- [From development to production what can go wrong with your databases &lpar;and how to avoid and fix them&rpar;](https://dev.to/metis/from-development-to-production-what-can-go-wrong-with-your-databases-and-how-to-avoid-and-fix-them-5aff)
+- [Javascript Set operations can now be performed natively](https://dev.to/untilyou58/javascript-set-operations-can-now-be-performed-natively-1lhb)
+- [Isolated Storage and Enhanced Security in AI](https://dev.to/polterguy/isolated-storage-and-enhanced-security-in-ai-3d4i)
+- [Apache Answer 1.3.5: Flexibility. Reaction. Extension.](https://dev.to/apacheanswer/apache-answer-135-flexibility-reaction-extension-1man)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
