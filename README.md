@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a React Application to Production: A Comprehensive Guide](https://dev.to/vyan/deploying-a-react-application-to-production-a-comprehensive-guide-4pm)
-- [Understanding .NET Core Service Lifetimes: A Beginner&#39;s Guide](https://dev.to/mahendraputra21/understanding-net-core-service-lifetimes-a-beginners-guide-1d3a)
-- [How the VTable component progressively loads sub-nodes in a list?](https://dev.to/rayssss/how-the-vtable-component-progressively-loads-sub-nodes-in-a-list-5hhm)
-- [How the VTable component progressively loads sub-nodes in pivot tables](https://dev.to/rayssss/how-the-vtable-component-progressively-loads-sub-nodes-in-pivot-tables-2n60)
-- [Revolutionizing Database Migration: From MongoDB to SQL with AI](https://dev.to/coderbotics_ai/revolutionizing-database-migration-from-mongodb-to-sql-with-ai-1809)
+- [Leetcode Day 3: Roman to Integer Explained](https://dev.to/simona-cancian/leetcode-day-3-roman-to-integer-explained-329o)
+- [Exploring the Uncharted: Fun and Weird Stuff in Python](https://dev.to/subham_behera/exploring-the-uncharted-fun-and-weird-stuff-in-python-19hg)
+- [Why We Built a MongoDB-Message Queue and Reinvented the Wheel](https://dev.to/allquiet/why-we-built-a-mongodb-message-queue-and-reinvented-the-wheel-al3)
+- [Multi-Tenant vs. Single-Tenant Applications](https://dev.to/sh20raj/multi-tenant-vs-single-tenant-applications-3gc4)
+- [Can you become a Software Developer?](https://dev.to/jobreadyprogrammer/can-you-become-a-software-developer-29g6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
