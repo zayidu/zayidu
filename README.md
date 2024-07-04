@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging Regular Service Role for Secured Alibaba Cloud Elasticsearch Integrations](https://dev.to/a_lucas/leveraging-regular-service-role-for-secured-alibaba-cloud-elasticsearch-integrations-3fhn)
-- [Leveraging PySpark.Pandas for Efficient Data Pipelines](https://dev.to/felipe_de_godoy/leveraging-pysparkpandas-for-efficient-data-pipelines-2opf)
-- [Come and see China：Beijing，a city that blends ancient and modern beauty！](https://dev.to/pang_jack/come-and-see-chinabeijinga-city-that-blends-ancient-and-modern-beauty-51bj)
-- [Solving Complex Backend Challenges: My Journey with Node.js and HNG Internship](https://dev.to/sunday_covenant/solving-complex-backend-challenges-my-journey-with-nodejs-and-hng-internship-2bak)
-- [The Ultimate React Roadmap for 2024 - Learn React the Right Way](https://dev.to/docusignlog-in/the-ultimate-react-roadmap-for-2024-learn-react-the-right-way-4680)
+- [Deploying a React Application to Production: A Comprehensive Guide](https://dev.to/vyan/deploying-a-react-application-to-production-a-comprehensive-guide-4pm)
+- [Understanding .NET Core Service Lifetimes: A Beginner&#39;s Guide](https://dev.to/mahendraputra21/understanding-net-core-service-lifetimes-a-beginners-guide-1d3a)
+- [How the VTable component progressively loads sub-nodes in a list?](https://dev.to/rayssss/how-the-vtable-component-progressively-loads-sub-nodes-in-a-list-5hhm)
+- [How the VTable component progressively loads sub-nodes in pivot tables](https://dev.to/rayssss/how-the-vtable-component-progressively-loads-sub-nodes-in-pivot-tables-2n60)
+- [Revolutionizing Database Migration: From MongoDB to SQL with AI](https://dev.to/coderbotics_ai/revolutionizing-database-migration-from-mongodb-to-sql-with-ai-1809)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
