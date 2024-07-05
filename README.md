@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Conquering Your First Database: Essential SQL Queries for Newbies](https://dev.to/fizza_c3e734ee2a307cf35e5/conquering-your-first-database-essential-sql-queries-for-newbies-gdl)
-- [Make the right choice between React and Vue in 2024](https://dev.to/salscodes/make-the-right-choice-between-react-and-vue-in-2024-3g09)
-- [Automating User and Group Management on Linux with a Bash Script](https://dev.to/hellowale/automating-user-and-group-management-on-linux-with-a-bash-script-46gl)
-- [Virtual Columns in GBase 8s: Enhancing Data Operation Flexibility](https://dev.to/congcong/virtual-columns-in-gbase-8s-enhancing-data-operation-flexibility-48m)
-- [GPGPU: Harnessing GPU Power for General-Purpose Computing](https://dev.to/rajai_kumar/gpgpu-harnessing-gpu-power-for-general-purpose-computing-pc7)
+- [Ibuprofeno.py💊| #133: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-133-explica-este-codigo-python-29hg)
+- [WatchYourPorts - self-hosted ports inventory](https://dev.to/aceberg/watchyourports-self-hosted-ports-inventory-55ek)
+- [Slicing CPU as GPU &lpar;with Example&rpar;](https://dev.to/manishfoodtechs/slicing-cpu-as-gpu-with-example-269o)
+- [QuickBooks Database Server Manager: Optimizing Multi-User Access and Performance](https://dev.to/jasskarley/quickbooks-database-server-manager-optimizing-multi-user-access-and-performance-4epk)
+- [Top 8 API Documentation Tools for Professional Developers](https://dev.to/satokenta/top-8-api-documentation-tools-for-professional-developers-2kf5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
