@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is JavaScript Really as Insecure as They Say?](https://dev.to/nikl/is-javascript-really-as-insecure-as-they-say-mi8)
-- [How to Build Your Own Distributed KV Storage System Using the etcd Raft Library](https://dev.to/justlorain/how-to-build-your-own-distributed-kv-storage-system-using-the-etcd-raft-library-2j69)
-- [Introduction to CSS Frameworks](https://dev.to/hillaryprosper_wahua_bce/introduction-to-css-frameworks-1g4b)
-- [Gantt Project Planners in Software Development: Powerful Tools in Action](https://dev.to/thomasy0ung/gantt-project-planners-in-software-development-powerful-tools-in-action-233c)
-- [Supercharge Your Knowledge Base: Turning Your Developer Community into Content Creators](https://dev.to/swati1267/supercharge-your-knowledge-base-turning-your-developer-community-into-content-creators-338o)
+- [What is a Hybrid Cloud and Why is it Important?](https://dev.to/softwebsolution/what-is-a-hybrid-cloud-and-why-is-it-important-3pg5)
+- [The impasse of SQL performance optimizing](https://dev.to/esproc_spl/the-impasse-of-sql-performance-optimizing-gde)
+- [Introduction to REST API: A Beginner&#39;s Guide](https://dev.to/mahendraputra21/introduction-to-rest-api-a-beginners-guide-1i4o)
+- [Practical Introduction to Environment Variables Using Node.js](https://dev.to/gyulizh/practical-introduction-to-environment-variables-using-nodejs-k9k)
+- [Where to Add Your Additional JavaScript in Elementor Pro?](https://dev.to/rashedulhridoy/where-to-add-your-additional-javascript-in-elementor-pro-21na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
