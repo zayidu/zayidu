@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Server side &lpar;vulnerability scanning&rpar;](https://dev.to/samglish/server-side-vulnerability-scanning-1hf9)
-- [How to Build a MySQL Admin Panel &lpar;Fast &amp; Easy&rpar;](https://dev.to/domfive/how-to-build-a-mysql-admin-panel-fast-easy-1ch7)
-- [Deploy a Java application using Spring Boot on Google Cloud](https://dev.to/marioflores7/deploy-a-java-application-using-spring-boot-on-google-cloud-4mik)
-- [Considerations for Unicode and Searching](https://dev.to/mdchaney/considerations-for-unicode-and-searching-jo4)
-- [Como usar IntelliJ IDEA ou Android Studio no Wayland](https://dev.to/danroxha/como-usar-intellij-idea-ou-android-studio-no-wayland-27ga)
+- [Bash Script Automation for User and Group Management in Linux](https://dev.to/princessonyi/bash-script-automation-for-user-and-group-management-in-linux-54c6)
+- [How to store password in Database](https://dev.to/zeeshanali0704/how-to-store-password-in-database-bbh)
+- [How to Call an API in JavaScript](https://dev.to/mibii/how-to-call-an-api-in-javascript-31oj)
+- [What is the difference between SDK, JDK, OpenJDK, JRE, JVM, java compiler in java platform ?](https://dev.to/grenierdudev/what-is-the-difference-between-sdk-jdk-openjdk-jre-jvm-java-compiler-in-java-platform--3d71)
+- [What is Wasm or WebAssembly ? Learn WebAssembly Basics with Rust Part C](https://dev.to/grenierdudev/what-is-wasm-or-webassembly-learn-webassembly-basics-with-rust-part-c-2nfg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
