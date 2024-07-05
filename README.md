@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I think the web is broken, or i am](https://dev.to/oarabiledev/im-definitely-a-certified-quiche-eater-a8p)
-- [Are you facing hard times as a developer?](https://dev.to/evansifyke/are-you-facing-hard-times-as-a-developer-fm9)
-- [Automating User Management on Linux with Bash](https://dev.to/isaac_obuor_4ec2278316110/automating-user-management-on-linux-with-bash-1b4b)
-- [Building Stunning Portfolio Websites for Clients in 2024: A Case Study](https://dev.to/syedahmedullah14/building-stunning-portfolio-websites-for-clients-in-2024-a-case-study-4cdo)
-- [Install GO in UBUNTU machines](https://dev.to/ahmed_abir/install-go-in-ubuntu-machines-4a5m)
+- [🚀How to Use MediatR Pipeline Behavior in .NET 8](https://dev.to/mahendraputra21/how-to-use-mediatr-pipeline-behavior-in-net-8-3f90)
+- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.7](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-27-2mpl)
+- [Creating Virtual Machine Scale Set Using Azure Portal](https://dev.to/romanus_onyekwere/creating-virtual-machine-scale-set-using-azure-portal-1fp2)
+- [Security news weekly round-up - 5th July 2024](https://dev.to/ziizium/security-news-weekly-round-up-5th-july-2024-kmd)
+- [How to Implement a Tree of Thoughts in Python](https://dev.to/stephenc222/how-to-implement-a-tree-of-thoughts-in-python-4jmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
