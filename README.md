@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a New Umbraco Project: A Step-by-Step Guide](https://dev.to/shekhartarare/how-to-create-a-new-umbraco-project-a-step-by-step-guide-4bel)
-- [Machine Learning](https://dev.to/pouyasonej/machine-learning-59jf)
-- [SSH Config for Multiple SSH Authentication](https://dev.to/mikhaelesa/ssh-config-for-multiple-ssh-authentication-58jc)
-- [Creating an iOS-like Slide-Up Drawer with React Portals](https://dev.to/vikas_bansal_9782d825ae5d/a-journey-through-creating-an-ios-like-slide-up-drawer-in-react-with-typescript-and-react-portals-1lok)
-- [Step-by-Step Guide to Reading CSV Files in ASP.NET Core](https://dev.to/shekhartarare/step-by-step-guide-to-reading-csv-files-in-aspnet-core-5ca)
+- [Encryption and decyption filesysytem](https://dev.to/awais_684/encryption-and-decyption-filesysytem-42n6)
+- [Learning Coding](https://dev.to/angel_sanchez_56/learning-coding-942)
+- [Good practices that make a difference #2 📝](https://dev.to/superp0sit1on/good-practices-that-make-a-difference-2-30lk)
+- [The Critical Role of Writing Tests in Software Development](https://dev.to/davitacols/the-critical-role-of-writing-tests-in-software-development-34k5)
+- [Automating User Management with Bash Scripting](https://dev.to/0xmobi/automating-user-management-with-bash-scripting-4e53)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
