@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using the @Lookup Annotation in Spring](https://dev.to/tiuwill/using-the-lookup-annotation-in-spring-2eb6)
-- [Learn AI The Best Way Bite Size](https://dev.to/ameet/learn-ai-the-best-way-bite-size-460p)
-- [Stronger AI, Weaker Security? The Quantum Computing Conundrum](https://dev.to/aisquare/stronger-ai-weaker-security-the-quantum-computing-conundrum-3m4j)
-- [AWS - Well-architected framework and I.A.M in practice](https://dev.to/pokkan70/aws-well-architected-framework-and-iam-in-practice-2ch)
-- [How to show guide lines at the top of the other objects include selected object in Fabirc.js?](https://dev.to/youthdream0925/how-to-show-guide-lines-at-the-top-of-the-other-objects-include-selected-object-in-fabircjs-52gc)
+- [I think the web is broken, or i am](https://dev.to/oarabiledev/im-definitely-a-certified-quiche-eater-a8p)
+- [Are you facing hard times as a developer?](https://dev.to/evansifyke/are-you-facing-hard-times-as-a-developer-fm9)
+- [Automating User Management on Linux with Bash](https://dev.to/isaac_obuor_4ec2278316110/automating-user-management-on-linux-with-bash-1b4b)
+- [Building Stunning Portfolio Websites for Clients in 2024: A Case Study](https://dev.to/syedahmedullah14/building-stunning-portfolio-websites-for-clients-in-2024-a-case-study-4cdo)
+- [Install GO in UBUNTU machines](https://dev.to/ahmed_abir/install-go-in-ubuntu-machines-4a5m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
