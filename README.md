@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic Of Javascript - Day 1 of #100DaysOfFullStackChallnege](https://dev.to/zendeaditya/basic-of-javascript-day-1-of-100daysoffullstackchallneg-1a54)
-- [Computer Vision Meetup: Performance Optimisation for Multimodal LLMs](https://dev.to/voxel51/computer-vision-meetup-performance-optimisation-for-multimodal-llms-k5l)
-- [How I stopped my procrastination: Insights into developer mindset](https://dev.to/middleware/how-i-stopped-my-procrastination-insights-into-developer-mindset-23hl)
-- [Finding Your True North: A Concise Guide to Authenticity](https://dev.to/rishiabee/finding-your-true-north-a-concise-guide-to-authenticity-5cbp)
-- [BLOG ON HOW TO HOST STATIC WEBSITE ON AZURE BLOB STORAGE](https://dev.to/free2soar007/blog-on-how-to-host-static-website-on-azure-blob-storage-4jo0)
+- [Using the @Lookup Annotation in Spring](https://dev.to/tiuwill/using-the-lookup-annotation-in-spring-2eb6)
+- [Learn AI The Best Way Bite Size](https://dev.to/ameet/learn-ai-the-best-way-bite-size-460p)
+- [Stronger AI, Weaker Security? The Quantum Computing Conundrum](https://dev.to/aisquare/stronger-ai-weaker-security-the-quantum-computing-conundrum-3m4j)
+- [AWS - Well-architected framework and I.A.M in practice](https://dev.to/pokkan70/aws-well-architected-framework-and-iam-in-practice-2ch)
+- [How to show guide lines at the top of the other objects include selected object in Fabirc.js?](https://dev.to/youthdream0925/how-to-show-guide-lines-at-the-top-of-the-other-objects-include-selected-object-in-fabircjs-52gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
