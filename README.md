@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlock the Power of Digital Image Processing with UC Berkeley&#39;s EE225B Course 🚀](https://dev.to/getvm/unlock-the-power-of-digital-image-processing-with-uc-berkeleys-ee225b-course-38pn)
+- [Looking to Contribute to Open Source Startups Using .NET and Angular](https://dev.to/jawad_hayat/looking-to-contribute-to-open-source-startups-using-net-and-angular-hf8)
+- [Simple Guide to Callback function in Javascript](https://dev.to/srijan_karki/unlocking-the-power-of-asynchronous-javascript-callback-functions-promises-and-asyncawait-5fgj)
+- [Use React 19 with server components without a framework](https://dev.to/roggc/use-react-19-with-server-components-without-a-framework-cl8)
 - [10 Facts About ReactJS Lazy Loading: Optimizing Your Web Application&#39;s Performance](https://dev.to/vyan/10-facts-about-reactjs-lazy-loading-optimizing-your-web-applications-performance-13ck)
-- [Master Minimize Maximum Difference in an Array in C# by 3 Easy Steps](https://dev.to/rk042/master-minimize-maximum-difference-in-an-array-in-c-by-3-easy-steps-4pai)
-- [Implementasi Metode Standard Symmetric Encryption Signature pada Golang](https://dev.to/yogameleniawan/implementasi-metode-standard-symmetric-encryption-signature-pada-golang-2m5m)
-- [Creating and Managing Users and Groups on Linux with Bash Scripts: An Efficient Guide 🚀🐧](https://dev.to/adeshile_osunkoya_4201f36/creating-and-managing-users-and-groups-on-linux-with-bash-scripts-an-efficient-guide-2pog)
-- [Setup para Ruby / Rails: Ubuntu](https://dev.to/serradura/setup-para-ruby-rails-ubuntu-2ip8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
