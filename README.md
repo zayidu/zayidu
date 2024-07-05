@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀How to Use MediatR Pipeline Behavior in .NET 8](https://dev.to/mahendraputra21/how-to-use-mediatr-pipeline-behavior-in-net-8-3f90)
-- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.7](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-27-2mpl)
-- [Creating Virtual Machine Scale Set Using Azure Portal](https://dev.to/romanus_onyekwere/creating-virtual-machine-scale-set-using-azure-portal-1fp2)
-- [Security news weekly round-up - 5th July 2024](https://dev.to/ziizium/security-news-weekly-round-up-5th-july-2024-kmd)
-- [How to Implement a Tree of Thoughts in Python](https://dev.to/stephenc222/how-to-implement-a-tree-of-thoughts-in-python-4jmc)
+- [Render Angular Components in Markdown](https://dev.to/shhdharmen/render-angular-components-in-markdown-496l)
+- [Sintayew4/keplr-chain-registry/draft/exciting-turing](https://dev.to/sintayew4/sintayew4keplr-chain-registrydraftexciting-turing-2fcm)
+- [🎨 Day 18: Mastering Layers in Figma 🎨](https://dev.to/prince_chouhan/day-18-mastering-layers-in-figma-1mob)
+- [Building a CRUD API with FastAPI and MongoDB](https://dev.to/aquibpy/building-a-crud-api-with-fastapi-and-mongodb-32n)
+- [Vite + Github Actions + One Build many deploy](https://dev.to/nv_conqueror/vite-github-actions-one-build-many-deploy-1m2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
