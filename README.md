@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Major updates from the open source community: Release Radar · June 2024](https://dev.to/github/major-updates-from-the-open-source-community-release-radar-june-2024-4mf5)
-- [A produtividade do desenvolvedor](https://dev.to/ramonduraes/a-produtividade-do-desenvolvedor-2cm9)
-- [Automate User Management on Linux with a Bash Script](https://dev.to/shirley_5e2405f86bcff245a/automate-user-management-on-linux-with-a-bash-script-1i60)
-- [Setting Up Node.js and Creating a Basic HTTP Server: A Beginner&#39;s Guide](https://dev.to/sudhanshu_developer/setting-up-nodejs-and-creating-a-basic-http-server-a-beginners-guide-j12)
-- [Best practice use Ansible](https://dev.to/martabakgosong/best-practice-use-ansible-4lda)
+- [What is HTTPS and How Does it Work?](https://dev.to/sh20raj/what-is-https-and-how-does-it-work-3nj1)
+- [Umami: An Open-Source Web Analytics Solution](https://dev.to/sh20raj/umami-an-open-source-web-analytics-solution-4010)
+- [What is SSL | How does SSL work](https://dev.to/sh20raj/what-is-ssl-how-does-ssl-work-30eb)
+- [July 10: Developing Data-Centric AI Workshop](https://dev.to/voxel51/developing-data-centric-ai-workshop-50gh)
+- [Linux User Creation Bash Script](https://dev.to/devdera/linux-user-creation-bash-script-1hfm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
