@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Hybrid Cloud and Why is it Important?](https://dev.to/softwebsolution/what-is-a-hybrid-cloud-and-why-is-it-important-3pg5)
-- [The impasse of SQL performance optimizing](https://dev.to/esproc_spl/the-impasse-of-sql-performance-optimizing-gde)
-- [Introduction to REST API: A Beginner&#39;s Guide](https://dev.to/mahendraputra21/introduction-to-rest-api-a-beginners-guide-1i4o)
-- [Practical Introduction to Environment Variables Using Node.js](https://dev.to/gyulizh/practical-introduction-to-environment-variables-using-nodejs-k9k)
-- [Where to Add Your Additional JavaScript in Elementor Pro?](https://dev.to/rashedulhridoy/where-to-add-your-additional-javascript-in-elementor-pro-21na)
+- [How To Write Problem Statement For A Project.?](https://dev.to/iam_divs/how-to-write-problem-statement-for-a-project-4fmm)
+- [Mastering Java: A Collection of Insightful Programming Tutorials 🚀](https://dev.to/labex/mastering-java-a-collection-of-insightful-programming-tutorials-l0k)
+- [React 19 Actions - Simplifying form submission and loading states](https://dev.to/shrutikapoor08/react-19-actions-simplifying-form-submission-and-loading-states-2idc)
+- [High-Performance Storage Solution for PostgreSQL in Virtual Environments with XIRAID Engine and Kioxia PCIe5 Drives](https://dev.to/pltnvs/high-performance-storage-solution-for-postgresql-in-virtual-environments-with-xiraid-engine-and-kioxia-pcie5-drives-fo6)
+- [Pipeline Concept](https://dev.to/sukmarizki04/pipeline-concept-4a1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
