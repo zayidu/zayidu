@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Why and How to Use Box-Sizing: &#39;Border-Box&#39; in Your CSS Layouts](https://dev.to/cindykandie/why-and-how-to-use-box-sizing-border-box-in-your-css-layouts-30ei)
+- [Export any Web Page to Markdown](https://dev.to/amit_kharel_aae65abe2b111/export-any-web-page-to-markdown-23f)
+- [How to Create Virtual Machine Scale Set.](https://dev.to/emeka_moses_c752f2bdde061/how-to-create-virtual-machine-scale-set-1l0m)
+- [Fundamental Parts of a Successful SEO Plan in Digital Marketing](https://dev.to/juddiy/fundamental-parts-of-a-successful-seo-plan-in-digital-marketing-24ol)
 - [Here&#39;s how you can build and train GPT-2 from scratch using PyTorch](https://dev.to/amit_kharel_aae65abe2b111/heres-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-345n)
-- [A Simple Instagram Tracking Script Written in Python](https://dev.to/ibnaleem/a-simple-instagram-tracking-script-written-in-python-in9)
-- [I created a nosql DB using rust](https://dev.to/arindam_roy_382/i-created-a-nosql-db-using-rust-4lo5)
-- [Using Redux Toolkit Query to Create an Authentication API with ``injectEndpoints``](https://dev.to/forhad96/using-redux-toolkit-query-to-create-an-authentication-api-with-injectendpoints-2h57)
-- [Bash Script Automation for User and Group Management in Linux](https://dev.to/princessonyi/bash-script-automation-for-user-and-group-management-in-linux-54c6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
