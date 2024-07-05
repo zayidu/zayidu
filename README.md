@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Check colors in Angular Material theme builder](https://dev.to/ngmaterialdev/check-colors-in-angular-material-theme-builder-poi)
-- [Build an Angular Video Chat App](https://dev.to/amosgyamfi/build-an-angular-video-chat-app-3g9c)
-- [Create Convincing UX mockups using PowerPoint!](https://dev.to/chandruchiku/eye-catching-ux-mockups-using-powerpoint-544a)
-- [Leetcode Day 4: Longest Common Prefix Explained](https://dev.to/simona-cancian/leetcode-day-4-longest-common-prefix-explained-62n)
-- [Implementing JWT Authentication in Node.js](https://dev.to/mbugua70/implementing-jwt-authentication-in-nodejs-3m8g)
+- [Is JavaScript Really as Insecure as They Say?](https://dev.to/nikl/is-javascript-really-as-insecure-as-they-say-mi8)
+- [How to Build Your Own Distributed KV Storage System Using the etcd Raft Library](https://dev.to/justlorain/how-to-build-your-own-distributed-kv-storage-system-using-the-etcd-raft-library-2j69)
+- [Introduction to CSS Frameworks](https://dev.to/hillaryprosper_wahua_bce/introduction-to-css-frameworks-1g4b)
+- [Gantt Project Planners in Software Development: Powerful Tools in Action](https://dev.to/thomasy0ung/gantt-project-planners-in-software-development-powerful-tools-in-action-233c)
+- [Supercharge Your Knowledge Base: Turning Your Developer Community into Content Creators](https://dev.to/swati1267/supercharge-your-knowledge-base-turning-your-developer-community-into-content-creators-338o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
