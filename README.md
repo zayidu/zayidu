@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is HTTPS and How Does it Work?](https://dev.to/sh20raj/what-is-https-and-how-does-it-work-3nj1)
-- [Umami: An Open-Source Web Analytics Solution](https://dev.to/sh20raj/umami-an-open-source-web-analytics-solution-4010)
-- [What is SSL | How does SSL work](https://dev.to/sh20raj/what-is-ssl-how-does-ssl-work-30eb)
-- [July 10: Developing Data-Centric AI Workshop](https://dev.to/voxel51/developing-data-centric-ai-workshop-50gh)
-- [Linux User Creation Bash Script](https://dev.to/devdera/linux-user-creation-bash-script-1hfm)
+- [Basic Of Javascript - Day 1 of #100DaysOfFullStackChallnege](https://dev.to/zendeaditya/basic-of-javascript-day-1-of-100daysoffullstackchallneg-1a54)
+- [Computer Vision Meetup: Performance Optimisation for Multimodal LLMs](https://dev.to/voxel51/computer-vision-meetup-performance-optimisation-for-multimodal-llms-k5l)
+- [How I stopped my procrastination: Insights into developer mindset](https://dev.to/middleware/how-i-stopped-my-procrastination-insights-into-developer-mindset-23hl)
+- [Finding Your True North: A Concise Guide to Authenticity](https://dev.to/rishiabee/finding-your-true-north-a-concise-guide-to-authenticity-5cbp)
+- [BLOG ON HOW TO HOST STATIC WEBSITE ON AZURE BLOB STORAGE](https://dev.to/free2soar007/blog-on-how-to-host-static-website-on-azure-blob-storage-4jo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
