@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock the Power of Digital Image Processing with UC Berkeley&#39;s EE225B Course 🚀](https://dev.to/getvm/unlock-the-power-of-digital-image-processing-with-uc-berkeleys-ee225b-course-38pn)
-- [Looking to Contribute to Open Source Startups Using .NET and Angular](https://dev.to/jawad_hayat/looking-to-contribute-to-open-source-startups-using-net-and-angular-hf8)
-- [Simple Guide to Callback function in Javascript](https://dev.to/srijan_karki/unlocking-the-power-of-asynchronous-javascript-callback-functions-promises-and-asyncawait-5fgj)
-- [Use React 19 with server components without a framework](https://dev.to/roggc/use-react-19-with-server-components-without-a-framework-cl8)
-- [10 Facts About ReactJS Lazy Loading: Optimizing Your Web Application&#39;s Performance](https://dev.to/vyan/10-facts-about-reactjs-lazy-loading-optimizing-your-web-applications-performance-13ck)
+- [Check colors in Angular Material theme builder](https://dev.to/ngmaterialdev/check-colors-in-angular-material-theme-builder-poi)
+- [Build an Angular Video Chat App](https://dev.to/amosgyamfi/build-an-angular-video-chat-app-3g9c)
+- [Create Convincing UX mockups using PowerPoint!](https://dev.to/chandruchiku/eye-catching-ux-mockups-using-powerpoint-544a)
+- [Leetcode Day 4: Longest Common Prefix Explained](https://dev.to/simona-cancian/leetcode-day-4-longest-common-prefix-explained-62n)
+- [Implementing JWT Authentication in Node.js](https://dev.to/mbugua70/implementing-jwt-authentication-in-nodejs-3m8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
