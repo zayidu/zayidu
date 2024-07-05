@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Write Problem Statement For A Project.?](https://dev.to/iam_divs/how-to-write-problem-statement-for-a-project-4fmm)
-- [Mastering Java: A Collection of Insightful Programming Tutorials 🚀](https://dev.to/labex/mastering-java-a-collection-of-insightful-programming-tutorials-l0k)
-- [React 19 Actions - Simplifying form submission and loading states](https://dev.to/shrutikapoor08/react-19-actions-simplifying-form-submission-and-loading-states-2idc)
-- [High-Performance Storage Solution for PostgreSQL in Virtual Environments with XIRAID Engine and Kioxia PCIe5 Drives](https://dev.to/pltnvs/high-performance-storage-solution-for-postgresql-in-virtual-environments-with-xiraid-engine-and-kioxia-pcie5-drives-fo6)
-- [Pipeline Concept](https://dev.to/sukmarizki04/pipeline-concept-4a1c)
+- [Conquering Your First Database: Essential SQL Queries for Newbies](https://dev.to/fizza_c3e734ee2a307cf35e5/conquering-your-first-database-essential-sql-queries-for-newbies-gdl)
+- [Make the right choice between React and Vue in 2024](https://dev.to/salscodes/make-the-right-choice-between-react-and-vue-in-2024-3g09)
+- [Automating User and Group Management on Linux with a Bash Script](https://dev.to/hellowale/automating-user-and-group-management-on-linux-with-a-bash-script-46gl)
+- [Virtual Columns in GBase 8s: Enhancing Data Operation Flexibility](https://dev.to/congcong/virtual-columns-in-gbase-8s-enhancing-data-operation-flexibility-48m)
+- [GPGPU: Harnessing GPU Power for General-Purpose Computing](https://dev.to/rajai_kumar/gpgpu-harnessing-gpu-power-for-general-purpose-computing-pc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
