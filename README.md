@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What the Helm?!](https://dev.to/cyclops-ui/what-the-helm-155f)
-- [10 Ways to Improve for a Junior Developer](https://dev.to/arnaudrenaud/10-ways-to-improve-for-a-junior-developer-22pj)
-- [Path To A Clean&lpar;er&rpar; React Architecture &lpar;Part 7&rpar; - Domain Logic](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-part-7-domain-logic-lg)
-- [Are you using OpenAI API? Then you need to be prepared!](https://dev.to/skywarth/are-you-using-openai-api-then-you-need-to-be-prepared-2o60)
-- [How to host Static Website on Azure Blob Storage](https://dev.to/yuddy/how-to-host-static-website-on-azure-blob-storage-1fdd)
+- [How to Create a New Umbraco Project: A Step-by-Step Guide](https://dev.to/shekhartarare/how-to-create-a-new-umbraco-project-a-step-by-step-guide-4bel)
+- [Machine Learning](https://dev.to/pouyasonej/machine-learning-59jf)
+- [SSH Config for Multiple SSH Authentication](https://dev.to/mikhaelesa/ssh-config-for-multiple-ssh-authentication-58jc)
+- [Creating an iOS-like Slide-Up Drawer with React Portals](https://dev.to/vikas_bansal_9782d825ae5d/a-journey-through-creating-an-ios-like-slide-up-drawer-in-react-with-typescript-and-react-portals-1lok)
+- [Step-by-Step Guide to Reading CSV Files in ASP.NET Core](https://dev.to/shekhartarare/step-by-step-guide-to-reading-csv-files-in-aspnet-core-5ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
