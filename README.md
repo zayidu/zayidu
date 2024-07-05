@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DiscriminatorMap de Doctrine avec Api-platform](https://dev.to/aratinau/discriminatormap-de-doctrine-avec-api-platform-4koa)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-99h)
-- [Cloud computing: CaaS vs SaaS- What&#39;s the difference- full comparison](https://dev.to/momciloo/cloud-computing-caas-vs-saas-whats-the-difference-full-comparison-462j)
-- [How to Set Up a New TypeScript Project](https://dev.to/asimnp/how-to-set-up-a-new-typescript-project-56ae)
-- [Create an API in Umbraco in 5 Minutes: A Quick Guide for Developers](https://dev.to/shekhartarare/create-an-api-in-umbraco-in-5-minutes-a-quick-guide-for-developers-32cj)
+- [Major updates from the open source community: Release Radar · June 2024](https://dev.to/github/major-updates-from-the-open-source-community-release-radar-june-2024-4mf5)
+- [A produtividade do desenvolvedor](https://dev.to/ramonduraes/a-produtividade-do-desenvolvedor-2cm9)
+- [Automate User Management on Linux with a Bash Script](https://dev.to/shirley_5e2405f86bcff245a/automate-user-management-on-linux-with-a-bash-script-1i60)
+- [Setting Up Node.js and Creating a Basic HTTP Server: A Beginner&#39;s Guide](https://dev.to/sudhanshu_developer/setting-up-nodejs-and-creating-a-basic-http-server-a-beginners-guide-j12)
+- [Best practice use Ansible](https://dev.to/martabakgosong/best-practice-use-ansible-4lda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
