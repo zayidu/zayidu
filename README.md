@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Render Angular Components in Markdown](https://dev.to/shhdharmen/render-angular-components-in-markdown-496l)
-- [Sintayew4/keplr-chain-registry/draft/exciting-turing](https://dev.to/sintayew4/sintayew4keplr-chain-registrydraftexciting-turing-2fcm)
-- [🎨 Day 18: Mastering Layers in Figma 🎨](https://dev.to/prince_chouhan/day-18-mastering-layers-in-figma-1mob)
-- [Building a CRUD API with FastAPI and MongoDB](https://dev.to/aquibpy/building-a-crud-api-with-fastapi-and-mongodb-32n)
-- [Vite + Github Actions + One Build many deploy](https://dev.to/nv_conqueror/vite-github-actions-one-build-many-deploy-1m2h)
+- [Automating Linux User Creation with Bash Script](https://dev.to/anthony_obotidem_4e5d7748/automating-linux-user-creation-with-bash-script-3lgb)
+- [Documenting APIs in Ruby on Rails using Swagger](https://dev.to/abdullah_saleh_7b00752404/documenting-apis-in-ruby-on-rails-using-swagger-28gp)
+- [[Game of Purpose] Day 48](https://dev.to/humberd/game-of-purpose-day-48-4inn)
+- [Hosting a static website on Azure Blob Storage](https://dev.to/abidemi/hosting-a-static-website-on-azure-blob-storage-5bk6)
+- [Reverse Thinking and Sequential Thinking: A Comparison in Setting Life Goals &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/reverse-thinking-and-sequential-thinking-a-comparison-in-setting-life-goals-bite-size-article-1616)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
