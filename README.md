@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Should I stick to Mern or move to java](https://dev.to/coddiekrishna/should-i-stick-to-mern-or-move-to-java-4h5n)
-- [Dive into the Cutting-Edge of Multi-Task and Meta-Learning 🚀](https://dev.to/getvm/dive-into-the-cutting-edge-of-multi-task-and-meta-learning-35a8)
-- [Elixir Task, Task.Supervisor - Another way to work with Elixir process](https://dev.to/manhvanvu/elixir-task-tasksupervisor-another-way-to-work-with-elixir-process-5d70)
-- [⚡ MyFirstApp - React Native with Expo &lpar;P26&rpar; - Code Layout Login Phone Number](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p26-code-layout-login-phone-number-291k)
-- [⚡ MyFirstApp - React Native with Expo &lpar;P25&rpar; - Code Layout Login Screen](https://dev.to/skipperhoa/myfirstapp-react-native-with-expo-p25-code-layout-login-screen-4pcl)
+- [Badges on github can anybody explain me about this?](https://dev.to/aadarshk7/badges-on-github-can-anybody-explain-me-about-this-53om)
+- [Unleash the Power of Dropdown Menu](https://dev.to/code_passion/unleash-the-power-of-dropdown-menu-26eo)
+- [ExpressoTS - DB in Memory](https://dev.to/expressots/expressots-db-in-memory-259n)
+- [Stop Using OBS: Why Vidova.ai is the Screen Recorder You Didn’t Know You Needed](https://dev.to/vidova/stop-using-obs-why-vidovaai-is-the-screen-recorder-you-didnt-know-you-needed-43pg)
+- [Building a Sustainable Future: The Importance of Solar Systems](https://dev.to/julie_andersonv_6d4551eeb/building-a-sustainable-future-the-importance-of-solar-systems-g0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
