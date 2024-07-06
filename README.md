@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Let’s Build Market Analysis Team with AI Agents](https://dev.to/exploredataaiml/lets-build-market-analysis-team-with-ai-agents-iee)
-- [Turn Your GitHub Contributions into a Tetris GIF! 🎮](https://dev.to/debba/turn-your-github-contributions-into-a-tetris-gif-29b0)
-- [Building a CRUD Application with the MERN Stack: A Step-by-Step Guide](https://dev.to/muhammedshamal/building-a-crud-application-with-the-mern-stack-a-step-by-step-guide-5d16)
-- [Destructuring Assignment: Unleashing the Power of Simplicity](https://dev.to/waelhabbal/destructuring-assignment-unleashing-the-power-of-simplicity-21ol)
-- [Building Full-Stack Applications with the MERN Stack: A Comprehensive Guide](https://dev.to/muhammedshamal/building-full-stack-applications-with-the-mern-stack-a-comprehensive-guide-4g6h)
+- [How to save time when run RSpec tests](https://dev.to/alanmaik/how-to-save-time-when-run-rspec-tests-10ld)
+- [Getting started with Pionia Framework](https://dev.to/jet_ezra/getting-started-with-pionia-frameowrk-54lo)
+- [HTML Semantic Elements&lpar;A to Z&rpar;](https://dev.to/ridoy_hasan/html-semantic-elementsa-to-z-56p)
+- [Are All Swift Functions Actually Returning Tuples?](https://dev.to/asafhuseyn/are-all-swift-functions-actually-returning-tuples-o)
+- [The AI That Knows Everything &lpar;Except What You Need&rpar;](https://dev.to/samadpls/the-ai-that-knows-everything-except-what-you-need-5cpe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
