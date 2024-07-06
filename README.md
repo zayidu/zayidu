@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No hook libraries - Handle infinitely scrolling in ReactJS](https://dev.to/thinhkhang97/no-hook-libraries-handle-infinitely-scrolling-in-reactjs-34b6)
-- [Elixir process - Explain more](https://dev.to/manhvanvu/elixir-process-explain-more-1lgl)
-- [Day 26 of 30 of JavaScript](https://dev.to/akshat0610/day-26-of-30-of-javascript-2dfb)
-- [First Steps in SQL Operators: A Beginner&#39;s Guide](https://dev.to/angelika_jolly_4aa3821499/first-steps-in-sql-operators-a-beginners-guide-505n)
-- [Securing JavaScript Applications with Subresource Integrity &lpar;SRI&rpar;: A Comprehensive Guide](https://dev.to/rigalpatel001/securing-javascript-applications-with-subresource-integrity-sri-a-comprehensive-guide-570o)
+- [System Design Basics - Caching](https://dev.to/somadevtoo/system-design-basics-caching-4fge)
+- [How to Install Homebrew on Ubuntu](https://dev.to/sh20raj/how-to-install-homebrew-on-ubuntu-1k9h)
+- [Hybrid Rendering Architecture using Astro and Go Fiber](https://dev.to/falselight/hybrid-rendering-architecture-using-astro-and-go-fiber-56h3)
+- [Installing Cloudflared on DigitalOcean Ubuntu](https://dev.to/sh20raj/installing-cloudflared-on-digitalocean-ubuntu-51kc)
+- [Effortless Log Management: Using TTL Indexes in MongoDB to Automate Data Cleanup](https://dev.to/vaishak10/effortless-log-management-using-ttl-indexes-in-mongodb-to-automate-data-cleanup-33c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
