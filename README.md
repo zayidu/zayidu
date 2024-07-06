@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL with Vector Search : MyScale, Spring and Java - Step by Step tutorial!](https://dev.to/vishalmysore/sql-with-vector-search-myscale-spring-and-java-step-by-step-tutorial-1fde)
+- [WIX Studio Submitted](https://dev.to/alla_santoshpavankumar_/wix-studio-submitted-15bb)
 - [IMPLEMENTING AZURE KEY VAULT](https://dev.to/aizeon/implementing-azure-key-vault-7he)
 - [How to Enable SonarCloud for Your Project](https://dev.to/olsido/how-to-enable-sonarcloud-for-your-project-aoi)
 - [Creating Users and Groups with Bash Script: A Comprehensive Guide](https://dev.to/udealor_ngozika_d9ec8be50/creating-users-and-groups-with-bash-script-a-comprehensive-guide-1n8e)
-- [Creating Users and Groups with Bash Script: A Comprehensive Guide](https://dev.to/udealor_ngozika_d9ec8be50/creating-users-and-groups-with-bash-script-a-comprehensive-guide-396g)
-- [Send email with nodejs](https://dev.to/patzi275/send-email-with-nodejs-1ajh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
