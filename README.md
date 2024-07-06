@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying an Application on Azure: Guide](https://dev.to/paltadash/deploying-an-application-on-azure-guide-5680)
-- [Understanding the Basics of Cryptocurrency Mining](https://dev.to/kartikmehta8/understanding-the-basics-of-cryptocurrency-mining-498o)
-- [Day 985 : The Thing](https://dev.to/dwane/day-985-the-thing-25n2)
-- [Mastering Number Systems: Binary, Decimal, Hexadecimal, and More](https://dev.to/m__mdy__m/understanding-number-systems-binary-decimal-hexadecimal-and-beyond-55i4)
-- [My Journey as a Backend Developer: Tackling Complex Problems and Embracing the HNG Internship](https://dev.to/oj_redifined/my-journey-as-a-backend-developer-tackling-complex-problems-and-embracing-the-hng-internship-10gd)
+- [IMPLEMENTING AZURE KEY VAULT](https://dev.to/aizeon/implementing-azure-key-vault-7he)
+- [How to Enable SonarCloud for Your Project](https://dev.to/olsido/how-to-enable-sonarcloud-for-your-project-aoi)
+- [Creating Users and Groups with Bash Script: A Comprehensive Guide](https://dev.to/udealor_ngozika_d9ec8be50/creating-users-and-groups-with-bash-script-a-comprehensive-guide-1n8e)
+- [Creating Users and Groups with Bash Script: A Comprehensive Guide](https://dev.to/udealor_ngozika_d9ec8be50/creating-users-and-groups-with-bash-script-a-comprehensive-guide-396g)
+- [Send email with nodejs](https://dev.to/patzi275/send-email-with-nodejs-1ajh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
