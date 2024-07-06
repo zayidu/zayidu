@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Analysis of the Educational Landscape of Diploma Programs in Web Design](https://dev.to/wisdom_collegecreativity/a-comprehensive-analysis-of-the-educational-landscape-of-diploma-programs-in-web-design-186h)
-- [Dataverse Web Resources with React, Typescript and FluentUI &lpar;_neronotte&#39;s way&rpar;](https://dev.to/_neronotte/dataverse-web-resources-with-react-typescript-and-fluentui-neronottes-way-3n40)
-- [Run Flyway DB migrations with AWS Lambda and RDS - Part 1](https://dev.to/aws-builders/run-flyway-db-migrations-with-aws-lambda-and-rds-part-1-2a6j)
-- [How to Create a Virtual Machine Scale Set in Azure](https://dev.to/florence_8042063da11e29d1/how-to-create-a-virtual-machine-scale-set-in-azure-5agg)
-- [Smoke and Fire Detection integrated with LoRA Module](https://dev.to/swhaadi/smoke-and-fire-detection-integrated-with-lora-module-3il2)
+- [Introduction to Functional Programming in JavaScript: Function compositions #4](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-function-compositions-4-5hjm)
+- [Day 6 of 100 Days of Code](https://dev.to/jacobsternx/day-6-of-100-days-of-code-4dkg)
+- [Algorithmic Trading Architecture and Quants: A Deep Dive with Case Studies on BlackRock and Tower Research](https://dev.to/nashetking/algorithmic-trading-architecture-and-quants-a-deep-dive-with-case-studies-on-blackrock-and-tower-research-55ao)
+- [JavaScript MMORPG - Maiu Online - #babylonjs - Ep: 26 Abilities definitions and new targeting marks](https://dev.to/maiu/javascript-mmorpg-maiu-online-babylonjs-ep-26-abilities-definitions-and-new-targeting-marks-hc5)
+- [Popular Interview Questions for Senior .NET ✅Developer](https://dev.to/shahed1bd/popular-interview-questions-for-senior-net-developer-4cpe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
