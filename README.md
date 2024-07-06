@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [manual testing](https://dev.to/kavithagovindaraj/manual-testing-3c83)
-- [Beverage Bottles: Trends in Design and Functionality](https://dev.to/sharon_collinst_b2c646661/beverage-bottles-trends-in-design-and-functionality-36l3)
-- [Cloudflare Launches Free Tool to Combat AI Bot Scraping](https://dev.to/hyscaler/cloudflare-launches-free-tool-to-combat-ai-bot-scraping-24ce)
-- [Converting bit of CPU to GPU : Rendering AI Models on CPU only](https://dev.to/manishfoodtechs/converting-bit-of-cpu-to-gpu-rendering-ai-models-on-cpu-only-22oh)
-- [Progressive Web Apps &lpar;PWA&rpar;: A Comprehensive Guide](https://dev.to/udoka033/progressive-web-apps-pwa-a-comprehensive-guide-57ii)
+- [Discover India: Tailored Tourism Packages for Every Traveler](https://dev.to/indiatourismpackagess/discover-india-tailored-tourism-packages-for-every-traveler-dap)
+- [Leetcode Day 5: Valid Parentheses Explained](https://dev.to/simona-cancian/leetcode-day-5-valid-parentheses-explained-18jf)
+- [Leetcode Day 5: Valid Parentheses Explained](https://dev.to/simona-cancian/leetcode-day-5-valid-parentheses-explained-5d97)
+- [New Feature in ECMAScript 2024 - groupBy&lpar;&rpar;](https://dev.to/rajusaha/new-feature-in-ecmascript-2024-groupby-582g)
+- [Bash Script: A Demo of User Account and Group Creation.](https://dev.to/k3n3/bash-script-a-demo-of-user-account-and-group-creation-3na3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
