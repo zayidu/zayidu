@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Badges on github can anybody explain me about this?](https://dev.to/aadarshk7/badges-on-github-can-anybody-explain-me-about-this-53om)
-- [Unleash the Power of Dropdown Menu](https://dev.to/code_passion/unleash-the-power-of-dropdown-menu-26eo)
-- [ExpressoTS - DB in Memory](https://dev.to/expressots/expressots-db-in-memory-259n)
-- [Stop Using OBS: Why Vidova.ai is the Screen Recorder You Didn’t Know You Needed](https://dev.to/vidova/stop-using-obs-why-vidovaai-is-the-screen-recorder-you-didnt-know-you-needed-43pg)
-- [Building a Sustainable Future: The Importance of Solar Systems](https://dev.to/julie_andersonv_6d4551eeb/building-a-sustainable-future-the-importance-of-solar-systems-g0f)
+- [manual testing](https://dev.to/kavithagovindaraj/manual-testing-3c83)
+- [Beverage Bottles: Trends in Design and Functionality](https://dev.to/sharon_collinst_b2c646661/beverage-bottles-trends-in-design-and-functionality-36l3)
+- [Cloudflare Launches Free Tool to Combat AI Bot Scraping](https://dev.to/hyscaler/cloudflare-launches-free-tool-to-combat-ai-bot-scraping-24ce)
+- [Converting bit of CPU to GPU : Rendering AI Models on CPU only](https://dev.to/manishfoodtechs/converting-bit-of-cpu-to-gpu-rendering-ai-models-on-cpu-only-22oh)
+- [Progressive Web Apps &lpar;PWA&rpar;: A Comprehensive Guide](https://dev.to/udoka033/progressive-web-apps-pwa-a-comprehensive-guide-57ii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
