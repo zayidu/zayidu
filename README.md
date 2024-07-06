@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Linux User Creation with Bash Script](https://dev.to/anthony_obotidem_4e5d7748/automating-linux-user-creation-with-bash-script-3lgb)
-- [Documenting APIs in Ruby on Rails using Swagger](https://dev.to/abdullah_saleh_7b00752404/documenting-apis-in-ruby-on-rails-using-swagger-28gp)
-- [[Game of Purpose] Day 48](https://dev.to/humberd/game-of-purpose-day-48-4inn)
-- [Hosting a static website on Azure Blob Storage](https://dev.to/abidemi/hosting-a-static-website-on-azure-blob-storage-5bk6)
-- [Reverse Thinking and Sequential Thinking: A Comparison in Setting Life Goals &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/reverse-thinking-and-sequential-thinking-a-comparison-in-setting-life-goals-bite-size-article-1616)
+- [Deploying an Application on Azure: Guide](https://dev.to/paltadash/deploying-an-application-on-azure-guide-5680)
+- [Understanding the Basics of Cryptocurrency Mining](https://dev.to/kartikmehta8/understanding-the-basics-of-cryptocurrency-mining-498o)
+- [Day 985 : The Thing](https://dev.to/dwane/day-985-the-thing-25n2)
+- [Mastering Number Systems: Binary, Decimal, Hexadecimal, and More](https://dev.to/m__mdy__m/understanding-number-systems-binary-decimal-hexadecimal-and-beyond-55i4)
+- [My Journey as a Backend Developer: Tackling Complex Problems and Embracing the HNG Internship](https://dev.to/oj_redifined/my-journey-as-a-backend-developer-tackling-complex-problems-and-embracing-the-hng-internship-10gd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
