@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Functional Programming in JavaScript: Function compositions #4](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-function-compositions-4-5hjm)
-- [Day 6 of 100 Days of Code](https://dev.to/jacobsternx/day-6-of-100-days-of-code-4dkg)
-- [Algorithmic Trading Architecture and Quants: A Deep Dive with Case Studies on BlackRock and Tower Research](https://dev.to/nashetking/algorithmic-trading-architecture-and-quants-a-deep-dive-with-case-studies-on-blackrock-and-tower-research-55ao)
-- [JavaScript MMORPG - Maiu Online - #babylonjs - Ep: 26 Abilities definitions and new targeting marks](https://dev.to/maiu/javascript-mmorpg-maiu-online-babylonjs-ep-26-abilities-definitions-and-new-targeting-marks-hc5)
-- [Popular Interview Questions for Senior .NET ✅Developer](https://dev.to/shahed1bd/popular-interview-questions-for-senior-net-developer-4cpe)
+- [[Game of Purpose] Day 49 - Bone collision detection](https://dev.to/humberd/game-of-purpose-day-49-bone-collision-detection-3f2d)
+- [Javascript OOP](https://dev.to/bekmuhammaddev/javascript-oop-2d8b)
+- [Microservices vs Monolith](https://dev.to/wallacefreitas/microservices-vs-monolith-5gd0)
+- [Building a Custom Enable/Disable + Input Field Component in Angular](https://dev.to/mateuscechetto/building-a-custom-enabledisable-input-field-component-in-angular-5bgc)
+- [Comment héberger une application Express sur Vercel](https://dev.to/abdelkarimain/comment-heberger-une-application-express-sur-vercel-5h26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
