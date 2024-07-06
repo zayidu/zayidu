@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Website](https://dev.to/sudhanshuambastha/apple-website-4kgn)
-- [How to create awaitable prompt as React Component](https://dev.to/ku6ryo/how-to-create-awaitable-prompt-as-react-component-m9l)
-- [Why Your AI Assistant Is Smarter Than You Think](https://dev.to/samadpls/why-your-ai-assistant-is-smarter-than-you-think-17n2)
-- [UNRAVELING THE SECRETS OF THE ICONIC IRIS DATASET](https://dev.to/browhnshuga/unraveling-the-secrets-of-the-iconic-iris-dataset-4gf0)
-- [Automate Your local VM workflow](https://dev.to/0ussamabernou/automate-your-local-vm-workflow-3ddi)
+- [Struggling with Node.js](https://dev.to/thomasspare/struggling-with-nodejs-5ch3)
+- [#4 React Coding - 2 Way Data Binding &lpar;Exercise&rpar;](https://dev.to/nsen59341/4-react-coding-2-way-data-binding-exercise-596i)
+- [The JavaScript Labyrinth: Unseen Dangers and Hidden Truths](https://dev.to/solitary-polymath/the-javascript-labyrinth-unseen-dangers-and-hidden-truths-49op)
+- [2582. Pass the Pillow](https://dev.to/mdarifulhaque/2582-pass-the-pillow-4gf8)
+- [4. Add Git Support Through a Plugin Manager](https://dev.to/stroiman/4-add-git-support-through-a-plugin-manager-3gdh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
