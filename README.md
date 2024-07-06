@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 github profiles every developer must follow](https://dev.to/agunwachidiebelecalistus/5-github-profiles-every-developer-must-follow-1441)
-- [Getting started as a Mobile App Developer](https://dev.to/mutiatbash/getting-started-as-a-mobile-app-developer-ji8)
-- [Guard Your Digital Fortress: Essential Privacy Best Practices Revealed](https://dev.to/verifyvault/guard-your-digital-fortress-essential-privacy-best-practices-revealed-26o4)
-- [AWS Security Hub](https://dev.to/cyb3rcloud8888/aws-security-hub-3n19)
-- [Descomplicando algoritmos](https://dev.to/brunociccarino/descomplicando-algoritmos-51n9)
+- [Exploring the concept of the Typescript - Day 2 Of #100DaysOfFullStackChallnege](https://dev.to/zendeaditya/exploring-the-concept-of-the-typescript-day-2-of-100daysoffullstackchallnege-37fk)
+- [[Conceito] - Meus 3 Tipos Preferidos de Diagramas](https://dev.to/zanfranceschi/conceito-meus-3-tipos-preferidos-de-diagramas-20me)
+- [Conventional Commits](https://dev.to/ericarodrigs/conventional-commits-8mh)
+- [Conventional Commits](https://dev.to/ericarodrigs/conventional-commits-5c1o)
+- [Laravel Caching - Explained Simply](https://dev.to/karandatwani92/laravel-caching-explained-simply-2ef0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
