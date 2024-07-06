@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover India: Tailored Tourism Packages for Every Traveler](https://dev.to/indiatourismpackagess/discover-india-tailored-tourism-packages-for-every-traveler-dap)
-- [Leetcode Day 5: Valid Parentheses Explained](https://dev.to/simona-cancian/leetcode-day-5-valid-parentheses-explained-18jf)
-- [Leetcode Day 5: Valid Parentheses Explained](https://dev.to/simona-cancian/leetcode-day-5-valid-parentheses-explained-5d97)
-- [New Feature in ECMAScript 2024 - groupBy&lpar;&rpar;](https://dev.to/rajusaha/new-feature-in-ecmascript-2024-groupby-582g)
-- [Bash Script: A Demo of User Account and Group Creation.](https://dev.to/k3n3/bash-script-a-demo-of-user-account-and-group-creation-3na3)
+- [No hook libraries - Handle infinitely scrolling in ReactJS](https://dev.to/thinhkhang97/no-hook-libraries-handle-infinitely-scrolling-in-reactjs-34b6)
+- [Elixir process - Explain more](https://dev.to/manhvanvu/elixir-process-explain-more-1lgl)
+- [Day 26 of 30 of JavaScript](https://dev.to/akshat0610/day-26-of-30-of-javascript-2dfb)
+- [First Steps in SQL Operators: A Beginner&#39;s Guide](https://dev.to/angelika_jolly_4aa3821499/first-steps-in-sql-operators-a-beginners-guide-505n)
+- [Securing JavaScript Applications with Subresource Integrity &lpar;SRI&rpar;: A Comprehensive Guide](https://dev.to/rigalpatel001/securing-javascript-applications-with-subresource-integrity-sri-a-comprehensive-guide-570o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
