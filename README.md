@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the concept of the Typescript - Day 2 Of #100DaysOfFullStackChallnege](https://dev.to/zendeaditya/exploring-the-concept-of-the-typescript-day-2-of-100daysoffullstackchallnege-37fk)
-- [[Conceito] - Meus 3 Tipos Preferidos de Diagramas](https://dev.to/zanfranceschi/conceito-meus-3-tipos-preferidos-de-diagramas-20me)
-- [Conventional Commits](https://dev.to/ericarodrigs/conventional-commits-8mh)
-- [Conventional Commits](https://dev.to/ericarodrigs/conventional-commits-5c1o)
-- [Laravel Caching - Explained Simply](https://dev.to/karandatwani92/laravel-caching-explained-simply-2ef0)
+- [Let’s Build Market Analysis Team with AI Agents](https://dev.to/exploredataaiml/lets-build-market-analysis-team-with-ai-agents-iee)
+- [Turn Your GitHub Contributions into a Tetris GIF! 🎮](https://dev.to/debba/turn-your-github-contributions-into-a-tetris-gif-29b0)
+- [Building a CRUD Application with the MERN Stack: A Step-by-Step Guide](https://dev.to/muhammedshamal/building-a-crud-application-with-the-mern-stack-a-step-by-step-guide-5d16)
+- [Destructuring Assignment: Unleashing the Power of Simplicity](https://dev.to/waelhabbal/destructuring-assignment-unleashing-the-power-of-simplicity-21ol)
+- [Building Full-Stack Applications with the MERN Stack: A Comprehensive Guide](https://dev.to/muhammedshamal/building-full-stack-applications-with-the-mern-stack-a-comprehensive-guide-4g6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
