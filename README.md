@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Functional Patterns: The Monad](https://dev.to/if-els/functional-patterns-the-monad-cc2)
-- [Lazy Loading :&rpar;](https://dev.to/justanordinaryperson/lazy-loading--3f11)
-- [Effortlessly Feed Your Code to AI Chatbots with CrazyNote!](https://dev.to/globalkonvict/effortlessly-feed-your-code-to-ai-chatbots-with-crazynote-1njd)
-- [Vuetify Tutorial: Design a Website About section using Vuetify || Vuetify Bangla Tutorial](https://dev.to/minit61/vuetify-tutorial-design-a-website-about-section-using-vuetify-vuetify-bangla-tutorial-5acp)
-- [Blockchain, Crypto and Web3: Understanding the correlations](https://dev.to/neelxie/blockchain-crypto-and-web3-understanding-the-correlations-1f0f)
+- [Apple Website](https://dev.to/sudhanshuambastha/apple-website-4kgn)
+- [How to create awaitable prompt as React Component](https://dev.to/ku6ryo/how-to-create-awaitable-prompt-as-react-component-m9l)
+- [Why Your AI Assistant Is Smarter Than You Think](https://dev.to/samadpls/why-your-ai-assistant-is-smarter-than-you-think-17n2)
+- [UNRAVELING THE SECRETS OF THE ICONIC IRIS DATASET](https://dev.to/browhnshuga/unraveling-the-secrets-of-the-iconic-iris-dataset-4gf0)
+- [Automate Your local VM workflow](https://dev.to/0ussamabernou/automate-your-local-vm-workflow-3ddi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
