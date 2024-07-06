@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to save time when run RSpec tests](https://dev.to/alanmaik/how-to-save-time-when-run-rspec-tests-10ld)
-- [Getting started with Pionia Framework](https://dev.to/jet_ezra/getting-started-with-pionia-frameowrk-54lo)
-- [HTML Semantic Elements&lpar;A to Z&rpar;](https://dev.to/ridoy_hasan/html-semantic-elementsa-to-z-56p)
-- [Are All Swift Functions Actually Returning Tuples?](https://dev.to/asafhuseyn/are-all-swift-functions-actually-returning-tuples-o)
-- [The AI That Knows Everything &lpar;Except What You Need&rpar;](https://dev.to/samadpls/the-ai-that-knows-everything-except-what-you-need-5cpe)
+- [A Comprehensive Analysis of the Educational Landscape of Diploma Programs in Web Design](https://dev.to/wisdom_collegecreativity/a-comprehensive-analysis-of-the-educational-landscape-of-diploma-programs-in-web-design-186h)
+- [Dataverse Web Resources with React, Typescript and FluentUI &lpar;_neronotte&#39;s way&rpar;](https://dev.to/_neronotte/dataverse-web-resources-with-react-typescript-and-fluentui-neronottes-way-3n40)
+- [Run Flyway DB migrations with AWS Lambda and RDS - Part 1](https://dev.to/aws-builders/run-flyway-db-migrations-with-aws-lambda-and-rds-part-1-2a6j)
+- [How to Create a Virtual Machine Scale Set in Azure](https://dev.to/florence_8042063da11e29d1/how-to-create-a-virtual-machine-scale-set-in-azure-5agg)
+- [Smoke and Fire Detection integrated with LoRA Module](https://dev.to/swhaadi/smoke-and-fire-detection-integrated-with-lora-module-3il2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
