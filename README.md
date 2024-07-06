@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3. Finale of complete SASS 🤣&lpar;longer&rpar;](https://dev.to/aryan015/3-finale-of-complete-sass-longer-2gpe)
-- [How does Javascript work under the hood?](https://dev.to/ronak_navadia_0611/how-does-javascript-work-under-the-hood-3ofh)
-- [Networking: A Journey through the Internet Galaxy](https://dev.to/siashish/networking-a-journey-through-the-internet-galaxy-3eib)
-- [Chunking an Array in JavaScript: Four Ways Compared](https://dev.to/readwanmd/chunking-an-array-in-javascript-four-ways-compared-48ok)
-- [Federated Airflow with SQS](https://dev.to/aws-heroes/federated-airflow-with-sqs-36bg)
+- [Functional Patterns: The Monad](https://dev.to/if-els/functional-patterns-the-monad-cc2)
+- [Lazy Loading :&rpar;](https://dev.to/justanordinaryperson/lazy-loading--3f11)
+- [Effortlessly Feed Your Code to AI Chatbots with CrazyNote!](https://dev.to/globalkonvict/effortlessly-feed-your-code-to-ai-chatbots-with-crazynote-1njd)
+- [Vuetify Tutorial: Design a Website About section using Vuetify || Vuetify Bangla Tutorial](https://dev.to/minit61/vuetify-tutorial-design-a-website-about-section-using-vuetify-vuetify-bangla-tutorial-5acp)
+- [Blockchain, Crypto and Web3: Understanding the correlations](https://dev.to/neelxie/blockchain-crypto-and-web3-understanding-the-correlations-1f0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
