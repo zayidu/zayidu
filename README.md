@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Callback Functions in JS](https://dev.to/__khojiakbar__/callback-functions-in-js-3a05)
+- [Mastering Kubernetes DaemonSets: Deploy Pods Across Your Cluster](https://dev.to/labex/mastering-kubernetes-daemonsets-deploy-pods-across-your-cluster-881)
+- [OOP🚌](https://dev.to/__khojiakbar__/oop-1lap)
+- [You&#39;re starting SaaS startups wrong](https://dev.to/joshlawson100/youre-starting-saas-startups-wrong-5ama)
 - [Using Apache Superset, a Powerful and Free Data Analysis Tool](https://dev.to/chauhoangminhnguyen/using-apache-superset-a-powerful-and-free-data-analysis-tool-1e79)
-- [Saving the planet with AWS: What you can do as a Cloud Architect](https://dev.to/aws-builders/saving-the-planet-with-aws-what-you-can-do-as-a-cloud-architect-1i2o)
-- [RF Word Counter](https://dev.to/rahatfaruk/rf-word-counter-3jph)
-- [OSS Licensing and Legal Issues](https://dev.to/isttiiak/oss-licensing-and-legal-issues-454h)
-- [Monthly Amazon Location Service Updates - 2024.06](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202406-5a86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
