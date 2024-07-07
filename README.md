@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Callback Functions in JS](https://dev.to/__khojiakbar__/callback-functions-in-js-3a05)
-- [Mastering Kubernetes DaemonSets: Deploy Pods Across Your Cluster](https://dev.to/labex/mastering-kubernetes-daemonsets-deploy-pods-across-your-cluster-881)
-- [OOP🚌](https://dev.to/__khojiakbar__/oop-1lap)
-- [You&#39;re starting SaaS startups wrong](https://dev.to/joshlawson100/youre-starting-saas-startups-wrong-5ama)
-- [Using Apache Superset, a Powerful and Free Data Analysis Tool](https://dev.to/chauhoangminhnguyen/using-apache-superset-a-powerful-and-free-data-analysis-tool-1e79)
+- [เผื่อใครอยากทำ mp4 to gif แบบคมๆ](https://dev.to/dvgamerr/ephuueaikhryaaktham-mp4-to-gif-aebbkhm-569)
+- [Introducing PhishShield: The Ultimate Phishing Simulation Platform for Robust Security Testing !!!](https://dev.to/skandashield/introducing-phishshield-the-ultimate-phishing-simulation-platform-for-robust-security-testing--4ifc)
+- [Stay ahead in web development: latest news, tools, and insights #40](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-40-1bpk)
+- [Learning HTML Elements](https://dev.to/dgarcia1399/learning-html-elements-1h7)
+- [Dive into the Fascinating World of Computer Architecture with UW Madison CS 354 🖥️](https://dev.to/getvm/dive-into-the-fascinating-world-of-computer-architecture-with-uw-madison-cs-354-4dom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
