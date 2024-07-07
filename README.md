@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to JavaScript Objects](https://dev.to/nilebits/the-ultimate-guide-to-javascript-objects-32e5)
-- [Portfolio or no portfolio?](https://dev.to/devonremote/portfolio-or-no-portfolio-5d5g)
-- [Protected route by token](https://dev.to/debos_das_9a77be9788e2d6e/protected-route-by-token-2ecl)
-- [Why You Shouldn&#39;t Stick with Just JavaScript](https://dev.to/themuneebh/why-you-shouldnt-stick-with-just-javascript-5h23)
-- [5 Things to Keep in Mind while designing a Website](https://dev.to/lakshita_kumawat/5-things-to-keep-in-mind-while-designing-a-website-2gl9)
+- [Issue 006 -- Independent Development Will Always Have Similar Products](https://dev.to/justin3go/issue-006-independent-development-will-always-have-similar-products-2c62)
+- [Let’s Build A Simple ‘Real Estate’ Business Using AI Agents](https://dev.to/exploredataaiml/lets-build-a-simple-real-estate-business-using-ai-agents-339e)
+- [The Ultimate React Guide for 2024: What&#39;s New and What&#39;s Next](https://dev.to/matin_mollapur/the-ultimate-react-guide-for-2024-whats-new-and-whats-next-2kf3)
+- [Considerations for Deploying Software Test Automation](https://dev.to/talenttinaapi/considerations-for-deploying-software-test-automation-1a8j)
+- [Introduction to BitPower Decentralized Lending](https://dev.to/aimm_y/introduction-to-bitpower-decentralized-lending-1jfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
