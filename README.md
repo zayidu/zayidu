@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Giving Clients Options](https://dev.to/tacodes/the-art-of-giving-clients-options-1a7m)
-- [Understanding Prop Drilling and How to Solve It](https://dev.to/paulocappa/understanding-prop-drilling-and-how-to-solve-it-2bnd)
-- [Understanding self-assumption and scoped down policy of an AWS IAM role](https://dev.to/aws-builders/understanding-self-assumption-and-scoped-down-policy-of-an-aws-iam-role-36pn)
-- [Launch React from Visual Studio Code](https://dev.to/kinneko-de/launch-react-from-visual-studio-code-24do)
-- [Bridging the Gap: Solving Common Business Connectivity Challenges with Hybrid DNS Architecture](https://dev.to/monica_escobar/bridging-the-gap-solving-common-business-connectivity-challenges-with-hybrid-dns-architecture-50kb)
+- [Automate Your Expo Builds with EAS Using GitHub Actions: A Step-by-Step Guide](https://dev.to/jocanola/automate-your-expo-builds-with-eas-using-github-actions-a-step-by-step-guide-bik)
+- [npm install falls into timeout, what can you do?](https://dev.to/ferreira_mariana/npm-install-falls-into-timeout-what-can-you-do-42i7)
+- [how to find the second largest number in an array](https://dev.to/ishivendratripathi/how-to-find-the-second-largest-number-in-an-array-30m1)
+- [Go and MongoDB: Building a CRUD API from Scratch](https://dev.to/aquibpy/go-and-mongodb-building-a-crud-api-from-scratch-10p6)
+- [Software isn&#39;t always the answer](https://dev.to/msnmongare/software-isnt-always-the-answer-4e7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
