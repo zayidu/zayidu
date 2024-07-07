@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Your Expo Builds with EAS Using GitHub Actions: A Step-by-Step Guide](https://dev.to/jocanola/automate-your-expo-builds-with-eas-using-github-actions-a-step-by-step-guide-bik)
-- [npm install falls into timeout, what can you do?](https://dev.to/ferreira_mariana/npm-install-falls-into-timeout-what-can-you-do-42i7)
-- [how to find the second largest number in an array](https://dev.to/ishivendratripathi/how-to-find-the-second-largest-number-in-an-array-30m1)
-- [Go and MongoDB: Building a CRUD API from Scratch](https://dev.to/aquibpy/go-and-mongodb-building-a-crud-api-from-scratch-10p6)
-- [Software isn&#39;t always the answer](https://dev.to/msnmongare/software-isnt-always-the-answer-4e7m)
+- [Introduction to Functional Programming in JavaScript: Partial functions #5](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-partial-functions-5-4lc3)
+- [Rotating Colorful Venn Diagram](https://dev.to/dan52242644dan/rotating-colorful-venn-diagram-36ai)
+- [Build a Dynamic Searchable Blog with React Native](https://dev.to/aneeqakhan/build-a-dynamic-searchable-blog-with-react-native-3m54)
+- [3D Parametric Plot](https://dev.to/dan52242644dan/3d-parametric-plot-30jg)
+- [3D Rainbow Plot](https://dev.to/dan52242644dan/3d-rainbow-plot-4ih2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
