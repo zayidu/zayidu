@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [เผื่อใครอยากทำ mp4 to gif แบบคมๆ](https://dev.to/dvgamerr/ephuueaikhryaaktham-mp4-to-gif-aebbkhm-569)
-- [Introducing PhishShield: The Ultimate Phishing Simulation Platform for Robust Security Testing !!!](https://dev.to/skandashield/introducing-phishshield-the-ultimate-phishing-simulation-platform-for-robust-security-testing--4ifc)
-- [Stay ahead in web development: latest news, tools, and insights #40](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-40-1bpk)
-- [Learning HTML Elements](https://dev.to/dgarcia1399/learning-html-elements-1h7)
-- [Dive into the Fascinating World of Computer Architecture with UW Madison CS 354 🖥️](https://dev.to/getvm/dive-into-the-fascinating-world-of-computer-architecture-with-uw-madison-cs-354-4dom)
+- [StateFile: A Minimalist Design for Permanent State Management](https://dev.to/_moehab/statefile-a-minimalist-design-for-permanent-state-management-43d7)
+- [The Brazilian National Policy of Informatics Or How-To Not Create A Tech Industry In Your Country](https://dev.to/dinowilliam/the-brazilian-national-policy-of-informatics-or-how-to-not-create-a-tech-industry-in-your-country-5h44)
+- [Counting empty lines in a file](https://dev.to/abbazs/counting-empty-lines-in-a-file-22cl)
+- [CSS Animated Blobs and Groovy Web Design](https://dev.to/gperilli/css-animated-blobs-and-groovy-web-design-395o)
+- [How to print header and footer each and every page when I print the page using mobile browser?](https://dev.to/time_west_f944fd586784aff/how-to-print-header-and-footer-each-and-every-page-when-i-print-the-page-using-mobile-browser-2aai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
