@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 12-Factor App Methodology](https://dev.to/kartikdevsharma/the-12-factor-app-methodology-32f1)
-- [Você foi enganado! Encapsulamento não é apenas sobre getters e setters](https://dev.to/terminalcoffee/voce-foi-enganado-encapsulamento-nao-e-apenas-sobre-getters-e-setters-42g4)
-- [Optimizing Stock Trading with AI Technology](https://dev.to/okibayu/optimizing-stock-trading-with-ai-technology-1f60)
-- [Aide mémoire Programmation Orientée Objet](https://dev.to/abdelkarimain/aide-memoire-programmation-orientee-objet-3dog)
-- [Introducing Flitter: Bringing Flutter&#39;s Power to Web-Based Data Visualization](https://dev.to/moondaeseung/introducing-flitter-bringing-flutters-power-to-web-based-data-visualization-4o27)
+- [God&#39;s Vue: An immersive tale &lpar;Chapter 1&rpar;](https://dev.to/zain725342/gods-vue-an-immersive-tale-chapter-1-1gfl)
+- [Mastering Web Automation with Cypress: A Comprehensive Guide](https://dev.to/aswani25/mastering-web-automation-with-cypress-a-comprehensive-guide-234l)
+- [Análise das estações meteorológicas - parte extra 1](https://dev.to/devsnorte/analise-das-estacoes-meteorologicas-parte-extra-1-4734)
+- [Fetch vs Axios: Which One Should You Use for HTTP Requests in JavaScript? 🚀](https://dev.to/marmariadev/fetch-vs-axios-which-one-should-you-use-for-http-requests-in-javascript-4d38)
+- [Inner classes in Java](https://dev.to/prashantrmishra/inner-classes-in-java-2ln1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
