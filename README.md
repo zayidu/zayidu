@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Is Easy](https://dev.to/farzanapomy/frontend-is-easy-2d3p)
-- [What is Adobe Experience Manager](https://dev.to/ashish5187/what-is-adobe-experience-manager-1fid)
-- [10 JavaScript One-Liner Code You Should Know](https://dev.to/manjushsh/10-javascript-one-liner-code-you-should-know-23cl)
-- [Intro to solidity II](https://dev.to/arsh_the_coder/intro-to-solidity-ii-5f37)
-- [Open Source Software - an Introduction](https://dev.to/hariharanumapathi/open-source-software-an-introduction-2hi3)
+- [The Art of Giving Clients Options](https://dev.to/tacodes/the-art-of-giving-clients-options-1a7m)
+- [Understanding Prop Drilling and How to Solve It](https://dev.to/paulocappa/understanding-prop-drilling-and-how-to-solve-it-2bnd)
+- [Understanding self-assumption and scoped down policy of an AWS IAM role](https://dev.to/aws-builders/understanding-self-assumption-and-scoped-down-policy-of-an-aws-iam-role-36pn)
+- [Launch React from Visual Studio Code](https://dev.to/kinneko-de/launch-react-from-visual-studio-code-24do)
+- [Bridging the Gap: Solving Common Business Connectivity Challenges with Hybrid DNS Architecture](https://dev.to/monica_escobar/bridging-the-gap-solving-common-business-connectivity-challenges-with-hybrid-dns-architecture-50kb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
