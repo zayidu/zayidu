@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Laravel is better then NodeJs/Express?](https://dev.to/yogeshgalav7/why-laravel-is-better-then-nodejsexpress-19lo)
-- [🌳 Getting Started with Random Forest Machine Learning Model Training](https://dev.to/aviralgarg05/getting-started-with-random-forest-machine-learning-model-training-5f7p)
-- [Understanding Switch Case and Functions and What is Hoisting](https://dev.to/darshan_kumar_c9883cffc18/understanding-switch-case-and-functions-and-what-is-hoisting-5180)
-- [JavaScript Developer Roadmap: From Beginner to Pro in 2024](https://dev.to/durgesh94/javascript-developer-roadmap-from-beginner-to-pro-in-2024-1nhk)
-- [Mastering the Basics of Machine Learning Statistics Introduction](https://dev.to/hemanth5666/mastering-the-basics-of-machine-learning-statistics-introduction-1kd3)
+- [Example article title](https://dev.to/target-ops/example-article-title-3n2a)
+- [next master](https://dev.to/chaopas/next-master-mo9)
+- [What is a Promise in JS?](https://dev.to/__khojiakbar__/what-is-a-promise-in-js-3dj8)
+- [Supabase versus Magic - You win!](https://dev.to/polterguy/supabase-versus-magic-you-win-5n)
+- [Understanding TypeScript Generics: A Deep Dive with Practical Examples](https://dev.to/blitzkrieg/understanding-typescript-generics-a-deep-dive-with-practical-examples-27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
