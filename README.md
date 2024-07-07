@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MapReduce Vs Tez](https://dev.to/shvshydv/mapreduce-vs-tez-171g)
-- [Speculation Rules API: Selectores y carga dinámica](https://dev.to/dezkareid/speculation-rules-api-selectores-y-carga-dinamica-4il8)
-- [Example article title](https://dev.to/target-ops/example-article-title-1onp)
-- [Build an AI UI Generator with Gemini API, Next.js &lpar;Tutorial&rpar;](https://dev.to/avionmission/build-an-ai-ui-generator-with-gemini-api-nextjs-tutorial-237p)
-- [Difference between main branches and master branches in #git and #github](https://dev.to/aadarshk7/difference-between-main-branches-and-master-branches-in-git-and-github-1kb9)
+- [Dependency Injection in .NET with Microsoft.Extensions.DependencyInjection and Scrutor](https://dev.to/adrianbailador/dependency-injection-in-net-with-microsoftextensionsdependencyinjection-and-scrutor-49pc)
+- [Creating a Product Card with Cart Items](https://dev.to/codeswithpankaj/creating-a-product-card-with-cart-items-299e)
+- [Redux : State Management Tool](https://dev.to/achal_tiwari/redux-state-management-tool-4242)
+- [How to Create a &quot;Show Password&quot; Toggle](https://dev.to/codeswithpankaj/how-to-create-a-show-password-toggle-4me0)
+- [Step-by-Step Guide to Creating a CSS Carousel](https://dev.to/mdhassanpatwary/step-by-step-guide-to-creating-a-css-carousel-g7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
