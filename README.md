@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Bizarre World of JavaScript Type Coercion](https://dev.to/subham_behera/the-bizarre-world-of-javascript-type-coercion-58h0)
-- [5 reasons to use open source event ticketing for your next event](https://dev.to/daveearley/5-reasons-to-use-open-source-event-ticketing-for-your-next-event-14gg)
-- [Day 13 of Cloud Computing](https://dev.to/okalu2625/day-13-of-cloud-computing-31ig)
-- [How to Host a Static Website on Azure Blob Storage Using Visual Studio Code](https://dev.to/florence_8042063da11e29d1/how-to-host-a-static-website-on-azure-blob-storage-using-visual-studio-code-o2m)
-- [Image to ASCII](https://dev.to/jmartsdesign/image-to-ascii-mk3)
+- [Using Apache Superset, a Powerful and Free Data Analysis Tool](https://dev.to/chauhoangminhnguyen/using-apache-superset-a-powerful-and-free-data-analysis-tool-1e79)
+- [Saving the planet with AWS: What you can do as a Cloud Architect](https://dev.to/aws-builders/saving-the-planet-with-aws-what-you-can-do-as-a-cloud-architect-1i2o)
+- [RF Word Counter](https://dev.to/rahatfaruk/rf-word-counter-3jph)
+- [OSS Licensing and Legal Issues](https://dev.to/isttiiak/oss-licensing-and-legal-issues-454h)
+- [Monthly Amazon Location Service Updates - 2024.06](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202406-5a86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
