@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Sports Score App with Flutter](https://dev.to/kartikmehta8/building-a-sports-score-app-with-flutter-3961)
-- [Leetcode Day 6: Merge Two Sorted Lists Explained](https://dev.to/simona-cancian/leetcode-day-6-merge-two-sorted-lists-explained-55n2)
-- [The Gemika&#39;s Magical Guide to Sorting Hogwarts Students using the Decision Tree Algorithm &lpar;Part #3&rpar;](https://dev.to/gerryleonugroho/the-gemikas-magical-guide-to-sorting-hogwarts-students-using-the-decision-tree-algorithm-part-3-4naa)
-- [The strategic value of a Security Champions Program.](https://dev.to/cybertica/the-strategic-value-of-a-security-champions-program-1n86)
-- [Unwritten Rules of Stackoverflow](https://dev.to/mmvergara/unwritten-rules-of-stackoverflow-odm)
+- [The Bizarre World of JavaScript Type Coercion](https://dev.to/subham_behera/the-bizarre-world-of-javascript-type-coercion-58h0)
+- [5 reasons to use open source event ticketing for your next event](https://dev.to/daveearley/5-reasons-to-use-open-source-event-ticketing-for-your-next-event-14gg)
+- [Day 13 of Cloud Computing](https://dev.to/okalu2625/day-13-of-cloud-computing-31ig)
+- [How to Host a Static Website on Azure Blob Storage Using Visual Studio Code](https://dev.to/florence_8042063da11e29d1/how-to-host-a-static-website-on-azure-blob-storage-using-visual-studio-code-o2m)
+- [Image to ASCII](https://dev.to/jmartsdesign/image-to-ascii-mk3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
