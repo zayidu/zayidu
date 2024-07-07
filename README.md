@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;neo&rpar;vim search and replace, with quickfix and capture groups](https://dev.to/22mahmoud/neovim-search-and-replace-with-quickfix-and-capture-groups-30en)
-- [Understanding the Differences between Overriding and Overloading in C#](https://dev.to/alisson_podgurski/understanding-the-differences-between-overriding-and-overloading-in-c-1h75)
-- [Simplify EC2-S3 File Access with Instance Roles](https://dev.to/rahulkspace/simplify-ec2-s3-file-access-with-instance-roles-4ljp)
-- [Game Jam Experience&lpar;&rpar;;](https://dev.to/muhammad_faseeh_1717/game-jam-experience-1m6o)
-- [iOS vs. Android: Why I&#39;ll Never Go Back to Android](https://dev.to/jehnz/ios-vs-android-why-ill-never-go-back-to-android-1o30)
+- [DevOps Meets Cybersecurity -&gt; DevSecOps](https://dev.to/fpesre/devops-meets-cybersecurity-devsecops-2faa)
+- [Number - Javascript](https://dev.to/fernandomoyano/number-javascript-581n)
+- [Example article title](https://dev.to/target-ops/example-article-title-mnj)
+- [Example article title](https://dev.to/target-ops/example-article-title-155i)
+- [Example article title](https://dev.to/target-ops/example-article-title-2noi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
