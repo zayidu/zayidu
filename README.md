@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CRUD in Firebase](https://dev.to/arunkrish11/crud-in-firebase-5hk3)
-- [Mastering JavaScript, Python, and Java: The Path to Becoming a Successful Software Developer in 2024](https://dev.to/myexamcloud/mastering-javascript-python-and-java-the-path-to-becoming-a-successful-software-developer-in-2024-55po)
-- [Wk 4: Deployment - MLOPs with DataTalks](https://dev.to/afrologicinsect/wk-4-deployment-mlops-with-datatalks-ei2)
-- [My Journey Through Laracasts: 30 Days to Learn Laravel](https://dev.to/hassanshahzadaheer/my-journey-through-laracasts-30-days-to-learn-laravel-34ee)
-- [Modern Software Architecture is a Joke](https://dev.to/vbilopav/modern-software-architecture-is-a-joke-23d9)
+- [The Ultimate Guide to JavaScript Objects](https://dev.to/nilebits/the-ultimate-guide-to-javascript-objects-32e5)
+- [Portfolio or no portfolio?](https://dev.to/devonremote/portfolio-or-no-portfolio-5d5g)
+- [Protected route by token](https://dev.to/debos_das_9a77be9788e2d6e/protected-route-by-token-2ecl)
+- [Why You Shouldn&#39;t Stick with Just JavaScript](https://dev.to/themuneebh/why-you-shouldnt-stick-with-just-javascript-5h23)
+- [5 Things to Keep in Mind while designing a Website](https://dev.to/lakshita_kumawat/5-things-to-keep-in-mind-while-designing-a-website-2gl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
