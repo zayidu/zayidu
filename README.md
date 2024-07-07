@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Example article title](https://dev.to/uplift3r/example-article-title-2fj8)
-- [Learning Platform [Astro.js]](https://dev.to/itsrajcode/learning-platform-38j5)
-- [Example article title](https://dev.to/uplift3r/example-article-title-319c)
-- [AWS Billing Scare](https://dev.to/okalu2625/aws-billing-scare-39o1)
-- [Suporte às funções do Pascal](https://dev.to/alexgarzao/suporte-as-funcoes-do-pascal-2fl9)
+- [Frontend Is Easy](https://dev.to/farzanapomy/frontend-is-easy-2d3p)
+- [What is Adobe Experience Manager](https://dev.to/ashish5187/what-is-adobe-experience-manager-1fid)
+- [10 JavaScript One-Liner Code You Should Know](https://dev.to/manjushsh/10-javascript-one-liner-code-you-should-know-23cl)
+- [Intro to solidity II](https://dev.to/arsh_the_coder/intro-to-solidity-ii-5f37)
+- [Open Source Software - an Introduction](https://dev.to/hariharanumapathi/open-source-software-an-introduction-2hi3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
