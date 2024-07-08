@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering React: Essential Practices and Patterns for 2024](https://dev.to/matin_mollapur/mastering-react-essential-practices-and-patterns-for-2024-2o2n)
-- [21 HTML Tips You Must Know About](https://dev.to/agunwachidiebelecalistus/21-html-tips-you-must-know-about-315c)
-- [Demystifying C# Data Structures: A Veteran Developer&#39;s Guide](https://dev.to/waelhabbal/demystifying-c-data-structures-a-veteran-developers-guide-3a63)
-- [10 Cool JavaScript Tricks and Tips](https://dev.to/koolkamalkishor/10-cool-javascript-tricks-and-tips-1g40)
-- [Tech Debt: Code Todos Never Get Done?](https://dev.to/grantdotdev/tech-debt-code-todos-never-get-done-2i31)
+- [Add a custom Tailwind CSS class for reusability and speed](https://dev.to/railsdesigner/add-a-custom-tailwind-css-class-with-for-reusability-and-speed-4k5i)
+- [Meme Monday](https://dev.to/ben/meme-monday-49f9)
+- [How to turn a Jupyter Notebook into a deployable artifact](https://dev.to/kitops/how-to-turn-a-jupyter-notebook-into-a-deployable-artifact-2jdl)
+- [Informacje o wersji dokumentacji - czerwiec 2024 r.](https://dev.to/pubnub-pl/informacje-o-wersji-dokumentacji-czerwiec-2024-r-lni)
+- [Documentation Release Notes - June 2024](https://dev.to/pubnub/documentation-release-notes-june-2024-5ap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
