@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Difference Between Views and Tables in SQL](https://dev.to/devartteam/difference-between-views-and-tables-in-sql-4hej)
-- [The Importance of Semantic HTML for SEO and Accessibility](https://dev.to/paul_w/the-importance-of-semantic-html-for-seo-and-accessibility-3kgj)
-- [Why are NoSQL Databases beeter at Horizontal Scaling Compared to SQL Databases](https://dev.to/jacktt/why-are-nosql-databases-beeter-at-horizontal-scaling-compared-to-sql-databases-1hk2)
-- [50 basic Linux commands](https://dev.to/dev-nnamdi/50-basic-linux-commands-42dg)
-- [Oktoberfest Outfit Shopping: How to Get the Best Deals](https://dev.to/sharphunter28/oktoberfest-outfit-shopping-how-to-get-the-best-deals-4d25)
+- [Official deprecation announcement Storyblok Vue 2 &amp; Nuxt 2 SDKs](https://dev.to/storyblok/official-deprecation-announcement-storyblok-vue-2-nuxt-2-sdks-n1g)
+- [Creating a Scalable Serverless Chat Application on AWS](https://dev.to/harshana_vivekanandhan_88/creating-a-scalable-serverless-chat-application-on-aws-1h7d)
+- [Exploring the Latest JavaScript Trends: What You Need to Know](https://dev.to/ayushh/exploring-the-latest-javascript-trends-what-you-need-to-know-b4a)
+- [How to use the Context API, What is Context API?](https://dev.to/negusnati/how-to-use-the-context-api-what-is-context-api-4455)
+- [Amazon Software Engineer Levels: Roles and Expectations [With Salary]](https://dev.to/alexr/amazon-software-engineer-levels-roles-and-expectations-with-salary-1017)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
