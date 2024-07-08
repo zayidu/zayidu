@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.8](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-28-28kg)
-- [Advanced Data Visualization Techniques with D3.js and Plotly](https://dev.to/3a5abi/advanced-data-visualization-techniques-with-d3js-and-plotly-1a08)
-- [Automating Semantic Versioning with Github Actions and Branch Naming Conventions](https://dev.to/plutov/automating-semantic-versioning-with-github-actions-and-branch-naming-conventions-mpa)
-- [Really keen for quality full stack engineer and finding it very hard!](https://dev.to/thepingopango_0efd37c1c57/really-keen-for-quality-full-engineer-and-finding-it-very-hard-1dfp)
-- [npm Overview and Key Concepts](https://dev.to/anurag_singh_2jz/npm-overview-and-key-concepts-2m1a)
+- [Introduction to Functional Programming in JavaScript: Immutability #6](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-immutability-6-3bfg)
+- [Reverse engineering Perplexity AI: prompt injection tricks to reveal its system prompts and speed secrets](https://dev.to/paka/reverse-engineering-perplexity-ai-prompt-injection-tricks-to-reveal-its-system-prompts-and-speed-secrets-16ce)
+- [JavaScript Array Const.!](https://dev.to/samandarhodiev/javascript-array-const-2ah)
+- [பைத்தானுடன் எனது அறிமுகம்](https://dev.to/jothilingam88/paittaannnuttnnn-ennntu-arrimukm-3lpb)
+- [CSS: Learning box model with analogies](https://dev.to/fhmurakami/css-learning-box-model-with-analogies-20jj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
