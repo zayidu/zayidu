@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Colecciones y bases de dinámicas en base a campos de tipo fecha](https://dev.to/avbravo/colecciones-y-bases-de-dinamicas-en-base-a-campos-de-tipo-fecha-45d6)
-- [Bubble Sort: Given an Array of Unsorted Items, Return A Sorted Array](https://dev.to/redbonzai/bubble-sort-given-an-array-of-unsorted-items-return-a-sorted-array-e63)
-- [12 Free Figma Screens Hero Section Templates](https://dev.to/faisalgg/12-free-figma-screens-hero-section-templates-4929)
-- [Custom hook for Api calls&lpar;Reactjs&rpar;](https://dev.to/a8rts/custom-hook-for-api-callsreactjs-4bnn)
-- [Vue 3 para Iniciantes: Dicas que Gostaria de Ter Sabido ao Começar com a Composition API e TypeScript](https://dev.to/dienik/vue-3-para-iniciantes-dicas-que-gostaria-de-ter-sabido-ao-comecar-com-a-composition-api-e-typescript-kc)
+- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.8](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-28-28kg)
+- [Advanced Data Visualization Techniques with D3.js and Plotly](https://dev.to/3a5abi/advanced-data-visualization-techniques-with-d3js-and-plotly-1a08)
+- [Automating Semantic Versioning with Github Actions and Branch Naming Conventions](https://dev.to/plutov/automating-semantic-versioning-with-github-actions-and-branch-naming-conventions-mpa)
+- [Really keen for quality full stack engineer and finding it very hard!](https://dev.to/thepingopango_0efd37c1c57/really-keen-for-quality-full-engineer-and-finding-it-very-hard-1dfp)
+- [npm Overview and Key Concepts](https://dev.to/anurag_singh_2jz/npm-overview-and-key-concepts-2m1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
