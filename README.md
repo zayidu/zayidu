@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET Digest #1](https://dev.to/anogneva/net-digest-1-285m)
-- [Setting your remote development environment](https://dev.to/algoorgoal/setting-your-remote-development-environment-1npd)
-- [This web application layout is free](https://dev.to/meschacirung/this-application-layout-is-free-g8d)
-- [Meme Monday](https://dev.to/davitacols/meme-monday-j4i)
-- [The Power of Unit Testing Tools in Software Development](https://dev.to/keploy/the-power-of-unit-testing-tools-in-software-development-2670)
+- [Difference Between Views and Tables in SQL](https://dev.to/devartteam/difference-between-views-and-tables-in-sql-4hej)
+- [The Importance of Semantic HTML for SEO and Accessibility](https://dev.to/paul_w/the-importance-of-semantic-html-for-seo-and-accessibility-3kgj)
+- [Why are NoSQL Databases beeter at Horizontal Scaling Compared to SQL Databases](https://dev.to/jacktt/why-are-nosql-databases-beeter-at-horizontal-scaling-compared-to-sql-databases-1hk2)
+- [50 basic Linux commands](https://dev.to/dev-nnamdi/50-basic-linux-commands-42dg)
+- [Oktoberfest Outfit Shopping: How to Get the Best Deals](https://dev.to/sharphunter28/oktoberfest-outfit-shopping-how-to-get-the-best-deals-4d25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
