@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML web storage and web storage objects](https://dev.to/wasifali/html-web-storage-and-web-storage-objects-hcd)
-- [How to Monitor your AWS EC2/Workspace with Datadog](https://dev.to/shrihariharidass/how-to-monitor-your-aws-ec2workspace-with-datadog-15jd)
-- [Log In or Log Out Registered Users using php](https://dev.to/ghulam_mujtaba_247/log-in-or-log-out-registered-users-using-php-3g2o)
-- [Host Multiple Node Apps with nginx, pm2 with SSL certificate](https://dev.to/hussain_mohammed/host-multiple-node-apps-with-nginx-pm2-with-ssl-certificate-5dji)
-- [LeetCode Day28 Dynamic Programming Part1](https://dev.to/flame_chan_llll/leetcode-day28-dynamic-programming-part1-17o0)
+- [Mastering React: Essential Practices and Patterns for 2024](https://dev.to/matin_mollapur/mastering-react-essential-practices-and-patterns-for-2024-2o2n)
+- [21 HTML Tips You Must Know About](https://dev.to/agunwachidiebelecalistus/21-html-tips-you-must-know-about-315c)
+- [Demystifying C# Data Structures: A Veteran Developer&#39;s Guide](https://dev.to/waelhabbal/demystifying-c-data-structures-a-veteran-developers-guide-3a63)
+- [10 Cool JavaScript Tricks and Tips](https://dev.to/koolkamalkishor/10-cool-javascript-tricks-and-tips-1g40)
+- [Tech Debt: Code Todos Never Get Done?](https://dev.to/grantdotdev/tech-debt-code-todos-never-get-done-2i31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
