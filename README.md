@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the Difference between &quot;sequel&quot; and &quot;SQL&quot;?](https://dev.to/thekarlesi/what-is-the-difference-between-sequel-and-sql-oh0)
-- [Alarm Android permission &amp; Receivers](https://dev.to/sidcodeme/alarm-android-permission-receivers-318i)
-- [Concatenate Column Values and Perform Grouping &amp; Aggregation](https://dev.to/judith677/concatenate-column-values-and-perform-grouping-aggregation-3b3)
-- [A new beginning](https://dev.to/yuga/a-new-beginning-3glf)
-- [HackerRank 3 Months Preparation Kit&lpar;JavaScript&rpar; - Plus Minus](https://dev.to/saiteja_amshala_035a7d7f1/hackerrank-3-months-preparation-kit-plus-minus-3cgn)
+- [4 Essential UI Design Tips That Will Transform Your Interfaces](https://dev.to/syedumaircodes/4-essential-ui-design-tips-that-will-transform-your-interfaces-5e5p)
+- [Self-Hosting Perplexica and Ollama](https://dev.to/blacknight318/self-hosting-perplexica-and-ollama-48al)
+- [Open-Source Website Directory System AigoTools, Deploy Your Website Directory Site with One Click!](https://dev.to/someu/open-source-website-directory-system-aigotools-deploy-your-website-directory-site-with-one-click-235l)
+- [3D Venn Diagram Chess Game](https://dev.to/dan52242644dan/3d-venn-diagram-chess-game-pea)
+- [Dynamic Typing vs. Static Typing: Which is Better?](https://dev.to/test_automation/dynamic-typing-vs-static-typing-which-is-better-553a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
