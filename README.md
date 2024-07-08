@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and Data Privacy: Balancing Innovation and Security in the Digital Age](https://dev.to/digitalsamba/ai-and-data-privacy-balancing-innovation-and-security-in-the-digital-age-hoh)
-- [15 Git Questions on Stackoverflow Will Make You Better Developer](https://dev.to/mammadyahyayev/15-git-questions-on-stackoverflow-will-make-you-better-developer-4bo7)
-- [Getting started with Tailwind + Daisy UI in Angular 18](https://dev.to/jplazaro/getting-started-with-tailwind-daisy-ui-in-angular-18-e53)
-- [Let&#39;s Measure Performance with Playwright Feat: Chrome Trace](https://dev.to/moondaeseung/lets-measure-performance-with-playwright-feat-chrome-trace-3ino)
-- [Liman Dağıtım Eklentisi Kurulumu](https://dev.to/aciklab/liman-dagitim-eklentisi-kurulumu-8f8)
+- [Kdash - a true opensource K8s micro IDE](https://dev.to/target-ops/kdash-a-true-opensource-k8s-micro-ide-3168)
+- [Clean Architecture in Node.js: An Approach with TypeScript and Dependency Injection.](https://dev.to/evangunawan/clean-architecture-in-nodejs-an-approach-with-typescript-and-dependency-injection-16o)
+- [Isolation of git_sync and task &lpar;uses scripts from codebase&rpar; running in a DAG](https://dev.to/anantha_lakshmimeruva_51/isolation-of-gitsync-and-task-uses-scripts-from-codebase-running-in-a-dag-2g39)
+- [தொடக்கம்...](https://dev.to/mahaloghu/tottkkm-1630)
+- [Python first program - Getting started with Python](https://dev.to/kannansubramanian/python-first-program-getting-started-with-python-2i07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
