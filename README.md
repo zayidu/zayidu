@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using useRef&lpar;&rpar;, useState&lpar;&rpar;, useEffect](https://dev.to/masonbarnes645/using-useref-usestate-useeffect-4kmi)
-- [JavaScript MMORPG - Maiu Online - #babylonjs - Ep28: Global countdown](https://dev.to/maiu/javascript-mmorpg-maiu-online-babylonjs-ep28-global-countdown-1bob)
-- [JavaScript MMORPG - Maiu Online - #babylonjs - Ep27: Music and sound settings](https://dev.to/maiu/javascript-mmorpg-maiu-online-babylonjs-ep27-music-and-sound-settings-1n13)
-- [Interesting testing techniques for frontend development](https://dev.to/khairullin/interesting-testing-techniques-for-frontend-development-2fdl)
-- [Exploring Angular&#39;s Change Detection: In-Depth Analysis](https://dev.to/jzolnowski/exploring-angulars-change-detection-in-depth-analysis-h3j)
+- [Exploring Advanced Features of TypeScript](https://dev.to/kartikmehta8/exploring-advanced-features-of-typescript-807)
+- [Building Flexible and Maintainable Go-Lang Apps](https://dev.to/dyaksaa_/building-flexible-and-maintainable-go-lang-apps-56kn)
+- [&lpar;JavaScript Proxy vs Object.define Property&rpar; Vue.js dagi reaktivlikni ortida nima turadi va qanday ishlaydi ?](https://dev.to/mukhriddinweb/vuejs-dagi-reaktivlikni-ortida-nima-turadi-va-qanday-ishlaydi--p4g)
+- [4 Database tips for Java Developers 💡](https://dev.to/joaomarques/4-database-tips-for-java-developers-2hg9)
+- [Vue 3 da reaktivlik &lpar;reactivity&rpar;](https://dev.to/mukhriddinweb/vue-3-da-reaktivlik-reactivity-5amf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
