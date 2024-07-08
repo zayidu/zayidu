@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js with Shadcn UI Progress Bar Example](https://dev.to/aaronnfs/nextjs-with-shadcn-ui-progress-bar-example-3j27)
-- [how to deploy backend](https://dev.to/ashleyd480/how-to-deploy-backend-4b05)
-- [Automating EC2 Instance Management with AWS Lambda and EventBridge Using Terraform](https://dev.to/mohanapriya_s_1808/automating-ec2-instance-management-with-aws-lambda-and-eventbridge-using-terraform-38jm)
-- [React Native or Flutter for App development](https://dev.to/aadarshk7/react-native-or-flutter-for-app-development-6hg)
-- [10 Tips for Building a Cyber Resilience Strategy](https://dev.to/clouddefenseai/10-tips-for-building-a-cyber-resilience-strategy-15jd)
+- [Common Lisp VS C: a testimony](https://dev.to/vindarel/common-lisp-vs-c-a-testimony-42ga)
+- [How to connect keycloak and Nuxt](https://dev.to/leamsigc/how-to-connect-keycloak-and-nuxt-3blc)
+- [How to Protect Your Application from AI Bots](https://dev.to/permit_io/how-to-protect-your-application-from-ai-bots-49ab)
+- [My HNG Journey. Stage Two: Containerization and Deployment of a Three tier application Using Docker and Nginx Proxy Manager](https://dev.to/ravencodess/my-hng-journey-stage-two-containerization-and-deployment-of-a-three-tier-application-using-docker-and-nginx-proxy-manager-2eh6)
+- [Using NgModule vs Standalone components](https://dev.to/yash_saxena_/using-ngmodule-vs-standalone-components-8d8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
