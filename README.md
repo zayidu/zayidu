@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React is Slow? 6 Strategies for Performance Optimisation](https://dev.to/nikl/react-is-slow-6-strategies-for-performance-optimisation-4l53)
-- [Effective Strategies for MySQL User Management](https://dev.to/dbvismarketing/effective-strategies-for-mysql-user-management-4i53)
-- [How to Create a Directory and Save It to a File](https://dev.to/mahir_dasare_333/how-to-create-a-directory-and-save-it-to-a-file-4kgc)
-- [Knight of Knowledge: How Copilot’s Generative Answers Illuminate Data](https://dev.to/balagmadhu/knight-of-knowledge-how-copilots-generative-answers-illuminate-data-28el)
-- [Implementing Secure Multi-Party Computation &lpar;SMPC&rpar; with NodeJs: A Practical Guide](https://dev.to/rigalpatel001/implementing-secure-multi-party-computation-smpc-with-nodejs-a-practical-guide-55pj)
+- [.NET Digest #1](https://dev.to/anogneva/net-digest-1-285m)
+- [Setting your remote development environment](https://dev.to/algoorgoal/setting-your-remote-development-environment-1npd)
+- [This web application layout is free](https://dev.to/meschacirung/this-application-layout-is-free-g8d)
+- [Meme Monday](https://dev.to/davitacols/meme-monday-j4i)
+- [The Power of Unit Testing Tools in Software Development](https://dev.to/keploy/the-power-of-unit-testing-tools-in-software-development-2670)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
