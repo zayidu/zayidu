@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kdash - a true opensource K8s micro IDE](https://dev.to/target-ops/kdash-a-true-opensource-k8s-micro-ide-3168)
-- [Clean Architecture in Node.js: An Approach with TypeScript and Dependency Injection.](https://dev.to/evangunawan/clean-architecture-in-nodejs-an-approach-with-typescript-and-dependency-injection-16o)
-- [Isolation of git_sync and task &lpar;uses scripts from codebase&rpar; running in a DAG](https://dev.to/anantha_lakshmimeruva_51/isolation-of-gitsync-and-task-uses-scripts-from-codebase-running-in-a-dag-2g39)
-- [தொடக்கம்...](https://dev.to/mahaloghu/tottkkm-1630)
-- [Python first program - Getting started with Python](https://dev.to/kannansubramanian/python-first-program-getting-started-with-python-2i07)
+- [Next.js with Shadcn UI Progress Bar Example](https://dev.to/aaronnfs/nextjs-with-shadcn-ui-progress-bar-example-3j27)
+- [how to deploy backend](https://dev.to/ashleyd480/how-to-deploy-backend-4b05)
+- [Automating EC2 Instance Management with AWS Lambda and EventBridge Using Terraform](https://dev.to/mohanapriya_s_1808/automating-ec2-instance-management-with-aws-lambda-and-eventbridge-using-terraform-38jm)
+- [React Native or Flutter for App development](https://dev.to/aadarshk7/react-native-or-flutter-for-app-development-6hg)
+- [10 Tips for Building a Cyber Resilience Strategy](https://dev.to/clouddefenseai/10-tips-for-building-a-cyber-resilience-strategy-15jd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
