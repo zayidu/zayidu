@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Official deprecation announcement Storyblok Vue 2 &amp; Nuxt 2 SDKs](https://dev.to/storyblok/official-deprecation-announcement-storyblok-vue-2-nuxt-2-sdks-n1g)
-- [Creating a Scalable Serverless Chat Application on AWS](https://dev.to/harshana_vivekanandhan_88/creating-a-scalable-serverless-chat-application-on-aws-1h7d)
-- [Exploring the Latest JavaScript Trends: What You Need to Know](https://dev.to/ayushh/exploring-the-latest-javascript-trends-what-you-need-to-know-b4a)
-- [How to use the Context API, What is Context API?](https://dev.to/negusnati/how-to-use-the-context-api-what-is-context-api-4455)
-- [Amazon Software Engineer Levels: Roles and Expectations [With Salary]](https://dev.to/alexr/amazon-software-engineer-levels-roles-and-expectations-with-salary-1017)
+- [HTML web storage and web storage objects](https://dev.to/wasifali/html-web-storage-and-web-storage-objects-hcd)
+- [How to Monitor your AWS EC2/Workspace with Datadog](https://dev.to/shrihariharidass/how-to-monitor-your-aws-ec2workspace-with-datadog-15jd)
+- [Log In or Log Out Registered Users using php](https://dev.to/ghulam_mujtaba_247/log-in-or-log-out-registered-users-using-php-3g2o)
+- [Host Multiple Node Apps with nginx, pm2 with SSL certificate](https://dev.to/hussain_mohammed/host-multiple-node-apps-with-nginx-pm2-with-ssl-certificate-5dji)
+- [LeetCode Day28 Dynamic Programming Part1](https://dev.to/flame_chan_llll/leetcode-day28-dynamic-programming-part1-17o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
