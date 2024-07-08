@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use AI Code Generation to Enhance Developer Productivity](https://dev.to/getambassador2024/how-to-use-ai-code-generation-to-enhance-developer-productivity-5b81)
-- [Building Docker Images](https://dev.to/kalkwst/building-docker-images-55f1)
-- [The DevTool Content Marketing Dashboard: Metrics That Actually Matter](https://dev.to/swati1267/the-devtool-content-marketing-dashboard-metrics-that-actually-matter-29di)
-- [Why do AI articles trend on Dev.to?](https://dev.to/paul_freeman/why-do-ai-articles-trend-on-devto-hh8)
-- [Step-by-Step Guide to Creating RESTful APIs with Node.js and PostgreSQL](https://dev.to/a_shokn/step-by-step-guide-to-creating-restful-apis-with-nodejs-and-postgresql-1k26)
+- [React is Slow? 6 Strategies for Performance Optimisation](https://dev.to/nikl/react-is-slow-6-strategies-for-performance-optimisation-4l53)
+- [Effective Strategies for MySQL User Management](https://dev.to/dbvismarketing/effective-strategies-for-mysql-user-management-4i53)
+- [How to Create a Directory and Save It to a File](https://dev.to/mahir_dasare_333/how-to-create-a-directory-and-save-it-to-a-file-4kgc)
+- [Knight of Knowledge: How Copilot’s Generative Answers Illuminate Data](https://dev.to/balagmadhu/knight-of-knowledge-how-copilots-generative-answers-illuminate-data-28el)
+- [Implementing Secure Multi-Party Computation &lpar;SMPC&rpar; with NodeJs: A Practical Guide](https://dev.to/rigalpatel001/implementing-secure-multi-party-computation-smpc-with-nodejs-a-practical-guide-55pj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
