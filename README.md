@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step to AI Engineering Mastery](https://dev.to/thenomadevel/step-by-step-to-ai-engineering-mastery-1mpn)
-- [Creating a DynamoDB Table and Setting Up IAM Access Control](https://dev.to/rashmitha_v_d0cfc20ba7152/creating-a-dynamodb-table-and-setting-up-iam-access-control-4f1k)
-- [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-5351)
-- [Understanding Proprietary and Open Source Software](https://dev.to/jakvel/understanding-proprietary-and-open-source-software-4m6)
-- [Introducing CurlDock: Simplify API Testing with Docker and Curl](https://dev.to/ietxaniz/introducing-curldock-simplify-api-testing-with-docker-and-curl-5ajo)
+- [Colecciones y bases de dinámicas en base a campos de tipo fecha](https://dev.to/avbravo/colecciones-y-bases-de-dinamicas-en-base-a-campos-de-tipo-fecha-45d6)
+- [Bubble Sort: Given an Array of Unsorted Items, Return A Sorted Array](https://dev.to/redbonzai/bubble-sort-given-an-array-of-unsorted-items-return-a-sorted-array-e63)
+- [12 Free Figma Screens Hero Section Templates](https://dev.to/faisalgg/12-free-figma-screens-hero-section-templates-4929)
+- [Custom hook for Api calls&lpar;Reactjs&rpar;](https://dev.to/a8rts/custom-hook-for-api-callsreactjs-4bnn)
+- [Vue 3 para Iniciantes: Dicas que Gostaria de Ter Sabido ao Começar com a Composition API e TypeScript](https://dev.to/dienik/vue-3-para-iniciantes-dicas-que-gostaria-de-ter-sabido-ao-comecar-com-a-composition-api-e-typescript-kc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
