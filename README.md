@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Say Goodbye to Solo Coding 👋: Collaborate with Others on SocialCode 🤝](https://dev.to/socialcodeclub/say-goodbye-to-solo-coding-collaborate-with-others-on-socialcode-4ip7)
-- [What a W.I.T.C.H!](https://dev.to/ajparadith/what-a-witch-5gmp)
-- [Navigating Common Git Errors: A Guide for Developers](https://dev.to/saint_vandora/navigating-common-git-errors-a-guide-for-developers-35bk)
-- [Deep Dive into PandApache3: Code de lancement](https://dev.to/pykpyky/deep-dive-into-pandapache3-code-de-lancement-327n)
-- [Python class first day](https://dev.to/mahesh_s_369d8f0b1ccd1b9e/python-class-first-day-4o9c)
+- [Step-by-Step to AI Engineering Mastery](https://dev.to/thenomadevel/step-by-step-to-ai-engineering-mastery-1mpn)
+- [Creating a DynamoDB Table and Setting Up IAM Access Control](https://dev.to/rashmitha_v_d0cfc20ba7152/creating-a-dynamodb-table-and-setting-up-iam-access-control-4f1k)
+- [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-5351)
+- [Understanding Proprietary and Open Source Software](https://dev.to/jakvel/understanding-proprietary-and-open-source-software-4m6)
+- [Introducing CurlDock: Simplify API Testing with Docker and Curl](https://dev.to/ietxaniz/introducing-curldock-simplify-api-testing-with-docker-and-curl-5ajo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
