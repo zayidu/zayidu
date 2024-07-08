@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Add a custom Tailwind CSS class for reusability and speed](https://dev.to/railsdesigner/add-a-custom-tailwind-css-class-with-for-reusability-and-speed-4k5i)
-- [Meme Monday](https://dev.to/ben/meme-monday-49f9)
-- [How to turn a Jupyter Notebook into a deployable artifact](https://dev.to/kitops/how-to-turn-a-jupyter-notebook-into-a-deployable-artifact-2jdl)
-- [Informacje o wersji dokumentacji - czerwiec 2024 r.](https://dev.to/pubnub-pl/informacje-o-wersji-dokumentacji-czerwiec-2024-r-lni)
-- [Documentation Release Notes - June 2024](https://dev.to/pubnub/documentation-release-notes-june-2024-5ap)
+- [AI and Data Privacy: Balancing Innovation and Security in the Digital Age](https://dev.to/digitalsamba/ai-and-data-privacy-balancing-innovation-and-security-in-the-digital-age-hoh)
+- [15 Git Questions on Stackoverflow Will Make You Better Developer](https://dev.to/mammadyahyayev/15-git-questions-on-stackoverflow-will-make-you-better-developer-4bo7)
+- [Getting started with Tailwind + Daisy UI in Angular 18](https://dev.to/jplazaro/getting-started-with-tailwind-daisy-ui-in-angular-18-e53)
+- [Let&#39;s Measure Performance with Playwright Feat: Chrome Trace](https://dev.to/moondaeseung/lets-measure-performance-with-playwright-feat-chrome-trace-3ino)
+- [Liman Dağıtım Eklentisi Kurulumu](https://dev.to/aciklab/liman-dagitim-eklentisi-kurulumu-8f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
