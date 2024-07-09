@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering React&#39;s useMediaQuery Hook](https://dev.to/labex/mastering-reacts-usemediaquery-hook-1n1b)
+- [Adding Tailwind CSS to Django](https://dev.to/paul_freeman/adding-tailwind-css-to-django-14a)
+- [A Simple Guide to Python Variables](https://dev.to/syedumaircodes/a-simple-guide-to-python-variables-2geb)
+- [Infinite list loading 🤔, with React Query - useInfiniteQuery hook !](https://dev.to/delisrey/infinite-list-loading-with-react-query-useinfinitequery-hook--19i)
 - [Adding custom video player to website](https://dev.to/sh20raj/adding-custom-video-player-to-website-6l0)
-- [Understand Just-in-Time provisioning](https://dev.to/logto/understand-just-in-time-provisioning-2dmn)
-- [Python: print method](https://dev.to/aravind_p_8c2c1f5d858ba36/python-print-method-3ef9)
-- [Understanding Google AI for Website Rankings on Search Pages](https://dev.to/juddiy/understanding-google-ai-for-website-rankings-on-search-pages-37ao)
-- [From Prototype to Production: The Limits of Low-Code/No-Code Platforms](https://dev.to/madia/from-prototype-to-production-the-limits-of-low-codeno-code-platforms-24ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
