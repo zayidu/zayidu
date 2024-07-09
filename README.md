@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Localization Made Easy with Python and DeepL](https://dev.to/mattdark/localization-made-easy-with-python-and-deepl-1l1e)
-- [Leetcode Day 8: Remove Element Explained](https://dev.to/simona-cancian/leetcode-day-8-remove-element-explained-212a)
-- [Using Localstack for Component tests](https://dev.to/vinay_madan/using-localstack-for-component-tests-36b9)
-- [Case &lpar;III&rpar; - KisFlow-Golang Stream Real- Application of KisFlow in Multi-Goroutines](https://dev.to/aceld/case-iii-kisflow-golang-stream-real-application-of-kisflow-in-multi-goroutines-4m7g)
-- [Creating a Symmetrical Star Pattern in Dart](https://dev.to/ahzem/creating-a-symmetrical-star-pattern-in-dart-57kj)
+- [Adding custom video player to website](https://dev.to/sh20raj/adding-custom-video-player-to-website-6l0)
+- [Understand Just-in-Time provisioning](https://dev.to/logto/understand-just-in-time-provisioning-2dmn)
+- [Python: print method](https://dev.to/aravind_p_8c2c1f5d858ba36/python-print-method-3ef9)
+- [Understanding Google AI for Website Rankings on Search Pages](https://dev.to/juddiy/understanding-google-ai-for-website-rankings-on-search-pages-37ao)
+- [From Prototype to Production: The Limits of Low-Code/No-Code Platforms](https://dev.to/madia/from-prototype-to-production-the-limits-of-low-codeno-code-platforms-24ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
