@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Seamless Integration: Using Node.js as an API Server in Next.js Applications | Sachin Dev Duggal Builder.ai](https://dev.to/triptivermaa01/unlocking-seamless-integration-using-nodejs-as-an-api-server-in-nextjs-applications-sachin-dev-duggal-builderai-28h)
-- [Best and Worst Situations to Use Zustand and Jotai with Next.js](https://dev.to/manojgohel/best-and-worst-situations-to-use-zustand-and-jotai-with-nextjs-4908)
-- [Ingeniería de Software y el Manejo de la Ira: Estrategias para un Desarrollo Exitoso](https://dev.to/christhoval/ingenieria-de-software-y-el-manejo-de-la-ira-estrategias-para-un-desarrollo-exitoso-obf)
-- [Unleash Your Inner Compiler Genius with &quot;Writing a C Compiler&quot; 🤖](https://dev.to/getvm/unleash-your-inner-compiler-genius-with-writing-a-c-compiler-4o93)
-- [What are the free promotion channels for Indie hacker?](https://dev.to/fridaymeng/what-are-the-free-promotion-channels-for-indie-hacker-2pa9)
+- [Day 1](https://dev.to/ramesh_ramasamy/day-1-bhm)
+- [dropdown open in portal for using table in react](https://dev.to/parth24072001/dropdown-open-in-portal-for-using-table-in-react-2odd)
+- [Using React Portals to Render Elements Anywhere in the DOM](https://dev.to/parth24072001/using-react-portals-to-render-elements-anywhere-in-the-dom-1h9h)
+- [Creating Modals in React: A Comprehensive Guide to Opening Elements in Modals](https://dev.to/parth24072001/creating-modals-in-react-a-comprehensive-guide-to-opening-elements-in-modals-49j1)
+- [Revisiting Python: A New Chapter in My Learning Journey](https://dev.to/niroash/revisiting-python-a-new-chapter-in-my-learning-journey-5bf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
