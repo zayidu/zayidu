@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Symmetrical Star Pattern in Dart](https://dev.to/ahzem/creating-a-symmetrical-star-pattern-in-dart-57kj)
+- [From Code to Clarity: Embedding Technical Writers in Engineering Teams](https://dev.to/daniellewashington/from-code-to-clarity-embedding-technical-writers-in-engineering-teams-47gc)
+- [Docker: A Playground for App Deployment](https://dev.to/mibii/docker-a-playground-for-app-deployment-1a0f)
+- [Essential Linux Utilities and Tools for DevOps Engineers : Day 2 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/essential-linux-utilities-and-tools-for-devops-engineers-day-2-of-50-days-devops-tools-series-40p2)
 - [Introduction to Bioinformatics with Python](https://dev.to/kartikmehta8/introduction-to-bioinformatics-with-python-4jl5)
-- [How To Host Static Website on Azure Blob Storage](https://dev.to/emeka_moses_c752f2bdde061/how-to-host-static-website-on-azure-blob-storage-33dj)
-- [Understanding Git Stashes](https://dev.to/debuggingrabbit/understanding-git-stashes-12l)
-- [An easy way to start with Dart Spotify!](https://dev.to/rockyondabeat/an-easy-way-to-start-with-dart-spotify-193j)
-- [Lo que costó mi escritorio](https://dev.to/viistorrr/lo-que-costo-mi-escritorio-2acn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
