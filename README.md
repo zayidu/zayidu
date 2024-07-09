@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Oque é o Dunder Py](https://dev.to/dunderpy/oque-e-o-dunder-py-inh)
-- [Let&#39;s Understand JavaScript Closures: A Fundamental Concept](https://dev.to/readwanmd/lets-understand-javascript-closures-a-fundamental-concept-1c54)
-- [Celebrating 100 Days of Continuous GitHub Contributions](https://dev.to/fmcalisto/celebrating-100-days-of-continuous-github-contributions-7h8)
-- [Evoluindo os teste para FileUpload com Spring Test e Amazon S3](https://dev.to/jordihofc/3-estrategias-para-escrita-de-testes-automatizados-com-spring-test-e-amazon-s3-4kii)
-- [Would you happen to know about Serverless Computing?](https://dev.to/aws-builders/would-you-happen-to-know-about-serverless-computing-3cl7)
+- [After Effects: The Basics](https://dev.to/kocreative/after-effects-the-basics-915)
+- [Introduction to Functional Programming in JavaScript: Monad and functors #7](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-monad-and-functors-7-1l6l)
+- [Website Navigation: Is a &#39;Home&#39; Link Necessary in the Main Menu?](https://dev.to/jennavisions/website-navigation-is-a-home-link-necessary-in-the-main-menu-4ja)
+- [Building A SimpleNote to Obsidian notes converter](https://dev.to/ayush_saran/building-a-simplenote-to-obsidian-notes-converter-33j9)
+- [Queues and Priority Queues](https://dev.to/paulike/queues-and-priority-queues-3aji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
