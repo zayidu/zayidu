@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Crawlee Python: Now you can use Python to build reliable web crawlers](https://dev.to/crawlee/announcing-crawlee-python-now-you-can-use-python-to-build-reliable-web-crawlers-3dab)
-- [Building a Serverless CRUD API with AWS: A Comprehensive Guide](https://dev.to/kaviya_kathirvelu_0505/building-a-serverless-crud-api-with-aws-a-comprehensive-guide-ljm)
-- [C# 👨🏻‍💻 is one of the best for job security!](https://dev.to/kwnaidoo/c-is-one-of-the-best-for-job-security-283b)
-- [Python_In_Tamil-002 - Statements](https://dev.to/govi1964/pythonintamil-002-statements-92e)
-- [Mengirim Pesan WhatsApp dengan JavaScript](https://dev.to/mahib22/mengirim-pesan-whatsapp-dengan-javascript-269j)
+- [The Chain of Responsibility](https://dev.to/ben-witt/the-chain-of-responsibility-1pl4)
+- [Overview of GBase 8c B Compatibility Database](https://dev.to/congcong/overview-of-gbase-8c-b-compatibility-database-5eba)
+- [Day 8 of 100 Days of Code](https://dev.to/jacobsternx/day-8-of-100-days-of-code-4a2p)
+- [Setting up Server for the Vehicle Tracking - Free](https://dev.to/fleet_stack_21/setting-up-server-for-the-vehicle-tracking-free-4ena)
+- [Best 10+ AI Tools For Data Analysis](https://dev.to/flatlogic/best-10-ai-tools-for-data-analysis-3d06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
