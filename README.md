@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1](https://dev.to/ramesh_ramasamy/day-1-bhm)
-- [dropdown open in portal for using table in react](https://dev.to/parth24072001/dropdown-open-in-portal-for-using-table-in-react-2odd)
-- [Using React Portals to Render Elements Anywhere in the DOM](https://dev.to/parth24072001/using-react-portals-to-render-elements-anywhere-in-the-dom-1h9h)
-- [Creating Modals in React: A Comprehensive Guide to Opening Elements in Modals](https://dev.to/parth24072001/creating-modals-in-react-a-comprehensive-guide-to-opening-elements-in-modals-49j1)
-- [Revisiting Python: A New Chapter in My Learning Journey](https://dev.to/niroash/revisiting-python-a-new-chapter-in-my-learning-journey-5bf7)
+- [Announcing Crawlee Python: Now you can use Python to build reliable web crawlers](https://dev.to/crawlee/announcing-crawlee-python-now-you-can-use-python-to-build-reliable-web-crawlers-3dab)
+- [Building a Serverless CRUD API with AWS: A Comprehensive Guide](https://dev.to/kaviya_kathirvelu_0505/building-a-serverless-crud-api-with-aws-a-comprehensive-guide-ljm)
+- [C# 👨🏻‍💻 is one of the best for job security!](https://dev.to/kwnaidoo/c-is-one-of-the-best-for-job-security-283b)
+- [Python_In_Tamil-002 - Statements](https://dev.to/govi1964/pythonintamil-002-statements-92e)
+- [Mengirim Pesan WhatsApp dengan JavaScript](https://dev.to/mahib22/mengirim-pesan-whatsapp-dengan-javascript-269j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
