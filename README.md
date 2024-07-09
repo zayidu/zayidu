@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Localization Made Easy with Python and DeepL](https://dev.to/mattdark/localization-made-easy-with-python-and-deepl-1l1e)
+- [Leetcode Day 8: Remove Element Explained](https://dev.to/simona-cancian/leetcode-day-8-remove-element-explained-212a)
+- [Using Localstack for Component tests](https://dev.to/vinay_madan/using-localstack-for-component-tests-36b9)
+- [Case &lpar;III&rpar; - KisFlow-Golang Stream Real- Application of KisFlow in Multi-Goroutines](https://dev.to/aceld/case-iii-kisflow-golang-stream-real-application-of-kisflow-in-multi-goroutines-4m7g)
 - [Creating a Symmetrical Star Pattern in Dart](https://dev.to/ahzem/creating-a-symmetrical-star-pattern-in-dart-57kj)
-- [From Code to Clarity: Embedding Technical Writers in Engineering Teams](https://dev.to/daniellewashington/from-code-to-clarity-embedding-technical-writers-in-engineering-teams-47gc)
-- [Docker: A Playground for App Deployment](https://dev.to/mibii/docker-a-playground-for-app-deployment-1a0f)
-- [Essential Linux Utilities and Tools for DevOps Engineers : Day 2 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/essential-linux-utilities-and-tools-for-devops-engineers-day-2-of-50-days-devops-tools-series-40p2)
-- [Introduction to Bioinformatics with Python](https://dev.to/kartikmehta8/introduction-to-bioinformatics-with-python-4jl5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
