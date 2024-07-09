@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying native Quarkus REST API&#39;s in AWS Lambda](https://dev.to/patryk_szczypie_f1c7101c/deploying-quarkus-rest-apis-in-aws-lambda-1j62)
-- [What was your win this week?](https://dev.to/sheru/what-was-your-win-this-week-477j)
-- [Creating an Azure Virtual Network with Subnets](https://dev.to/tracyee_/creating-an-azure-virtual-network-with-subnets-1e1h)
-- [Extraction of Form Validation Object and Authenticate Class](https://dev.to/ghulam_mujtaba_247/extraction-of-form-validation-object-and-authenticate-class-b8m)
-- [** ¡Únete a Try Catch Factory y Descubre un Mundo de Beneficios Tecnológicos! **🌐](https://dev.to/orlidev/-unete-a-try-catch-factory-y-descubre-un-mundo-de-beneficios-tecnologicos--5bbd)
+- [Oque é o Dunder Py](https://dev.to/dunderpy/oque-e-o-dunder-py-inh)
+- [Let&#39;s Understand JavaScript Closures: A Fundamental Concept](https://dev.to/readwanmd/lets-understand-javascript-closures-a-fundamental-concept-1c54)
+- [Celebrating 100 Days of Continuous GitHub Contributions](https://dev.to/fmcalisto/celebrating-100-days-of-continuous-github-contributions-7h8)
+- [Evoluindo os teste para FileUpload com Spring Test e Amazon S3](https://dev.to/jordihofc/3-estrategias-para-escrita-de-testes-automatizados-com-spring-test-e-amazon-s3-4kii)
+- [Would you happen to know about Serverless Computing?](https://dev.to/aws-builders/would-you-happen-to-know-about-serverless-computing-3cl7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
