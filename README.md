@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Terabox Video Downloader HD Quality Fast](https://dev.to/banmyaccount/free-terabox-video-downloader-hd-quality-fast-39gk)
-- [Free Terabox Video Downloader HD Quality Fast](https://dev.to/banmyaccount/free-terabox-video-downloader-hd-quality-fast-2fl9)
-- [The importance of semantic HTML for SEO and accessibility.](https://dev.to/elijah_mengo_927f1447d4c8/the-importance-of-semantic-html-for-seo-and-accessibility-197n)
-- [Code Transformation with Amazon Q](https://dev.to/aws-heroes/code-transformation-with-amazon-q-40df)
-- [⚡ MySecondApp - React Native with Expo &lpar;P3&rpar;- Add Slide Carousel](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p3-add-slide-carousel-nl7)
+- [Ibuprofeno.py💊| #136: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-136-explica-este-codigo-python-2bcg)
+- [Concurrency &amp; Async programming in C#](https://dev.to/ipazooki/concurrency-async-programming-in-c-1eda)
+- [Python &lpar;&quot;Hello World&quot;&rpar; Notes and Learning Experience](https://dev.to/vivekmurugadoss/python-hello-world-notes-and-learning-experience-261i)
+- [Designing B2B Authentication Experiences: Universal vs. Organization-Specific Login](https://dev.to/scalekit/designing-b2b-authentication-experiences-universal-vs-organization-specific-login-275a)
+- [YouTube Music AI Radio: A New Era of Personalized Music](https://dev.to/hyscaler/youtube-music-ai-radio-a-new-era-of-personalized-music-239j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
