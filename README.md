@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Advanced Terminal Calculator: Your Ultimate Dev Tool! 🌟](https://dev.to/safwanayyan/advanced-terminal-calculator-your-ultimate-dev-tool-15l0)
-- [Design Patterns in Flutter: Building &quot;BBB - Ba Ba Bank&quot; Application](https://dev.to/pablonax/design-patterns-in-flutter-building-bbb-ba-ba-bank-application-38ap)
-- [Understanding the Josephus Problem: A Comprehensive Guide](https://dev.to/vampirepapi/understanding-the-josephus-problem-a-comprehensive-guide-5b6m)
-- [Por quê eu estou aprendendo e acho que vocês também deveriam aprender scala em 2024](https://dev.to/brunociccarino/por-que-eu-estou-aprendendo-e-acho-que-voces-tambem-deveriam-aprender-scala-em-2024-25b1)
-- [Collections](https://dev.to/paulike/collections-3le7)
+- [Getting Started with Vanilla JavaScript: Setting Up Your Development Environment](https://dev.to/buchilazarus4/getting-started-with-vanilla-javascript-setting-up-your-development-environment-2od5)
+- [Headless UI alternatives: Radix Primitives, React Aria, Ark UI](https://dev.to/logrocket/headless-ui-alternatives-radix-primitives-react-aria-ark-ui-gka)
+- [Development Made Easy for Lazy and Productive Devs - Get Code Snippets for Full or Basic Props for Native or Expo Components](https://dev.to/cre8stevedev/development-made-easy-for-lazy-and-productive-devs-get-code-snippets-for-full-or-basic-props-for-native-or-expo-components-2c85)
+- [Host a Static Website in Azure Storage by Bastus Babajide Mark](https://dev.to/jdbastus/host-a-static-website-in-azure-storage-by-bastus-babajide-mark-1m6j)
+- [Skillcertpro Review? Is it any good for Azure &amp; AWS?](https://dev.to/bren67/skillcertpro-review-is-it-any-good-for-azure-aws-24ji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
