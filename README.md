@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #136: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-136-explica-este-codigo-python-2bcg)
-- [Concurrency &amp; Async programming in C#](https://dev.to/ipazooki/concurrency-async-programming-in-c-1eda)
-- [Python &lpar;&quot;Hello World&quot;&rpar; Notes and Learning Experience](https://dev.to/vivekmurugadoss/python-hello-world-notes-and-learning-experience-261i)
-- [Designing B2B Authentication Experiences: Universal vs. Organization-Specific Login](https://dev.to/scalekit/designing-b2b-authentication-experiences-universal-vs-organization-specific-login-275a)
-- [YouTube Music AI Radio: A New Era of Personalized Music](https://dev.to/hyscaler/youtube-music-ai-radio-a-new-era-of-personalized-music-239j)
+- [Day 27 of 30 of JavaScript](https://dev.to/akshat0610/day-27-of-30-of-javascript-3262)
+- [17 Libraries to Become a React Wizard 🧙‍♂️🔮✨](https://dev.to/copilotkit/17-libraries-to-become-a-react-wizard-1g6k)
+- [Simple steps on how to create a Windows 11 Virtual machine that is highly available, with a free tier azure account.](https://dev.to/sethgiddy/simple-steps-on-how-to-create-a-windows-11-virtual-machine-that-is-highly-available-with-a-free-tier-azure-account-2f33)
+- [Creating a Generative AI Chatbot using GPT-2 and Flask](https://dev.to/jeanvalve/creating-a-generative-ai-chatbot-using-gpt-2-and-flask-de6)
+- [Creating a Generative AI Chatbot using GPT-2 and Flask](https://dev.to/jeanvalve/creating-a-generative-ai-chatbot-using-gpt-2-and-flask-1jm6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
