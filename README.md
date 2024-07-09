@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Batman-Comic.CSS](https://dev.to/alvaromontoro/batman-comiccss-hh1)
-- [Python in Tamil](https://dev.to/umanathmsri/python-in-tamil-12pm)
-- [Mejora la Experiencia del Usuario con Loading Request](https://dev.to/urian121/mejora-la-experiencia-del-usuario-con-loading-request-23da)
-- [The Cloud Resume Challenge: My Cloud Adventure ☁️](https://dev.to/yuan_hy/the-cloud-resume-challenge-my-cloud-adventure-5439)
-- [j-Exec — Total.js](https://dev.to/palo/j-exec-totaljs-2bo4)
+- [How to Identify and Mitigate Flaky Tests: Best Practices and Strategies.](https://dev.to/apoorvtomar/how-to-identify-and-mitigate-flaky-tests-best-practices-and-strategies-1cb0)
+- [Preview let syntax in HTML template in Angular 18](https://dev.to/railsstudent/preview-let-syntax-in-html-template-in-angular-18-1m61)
+- [The Art of Reusability: Generics in TypeScript and React](https://dev.to/gboladetrue/the-art-of-reusability-generics-in-typescript-and-react-21mi)
+- [Asinxron/Fetch/Https](https://dev.to/bekmuhammaddev/asinxronfetchhttps-inc)
+- [React Router v6: A Comprehensive Guide to Page Routing in React](https://dev.to/get_pieces/react-router-v6-a-comprehensive-guide-to-page-routing-in-react-55pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
