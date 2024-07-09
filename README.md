@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Identify and Mitigate Flaky Tests: Best Practices and Strategies.](https://dev.to/apoorvtomar/how-to-identify-and-mitigate-flaky-tests-best-practices-and-strategies-1cb0)
-- [Preview let syntax in HTML template in Angular 18](https://dev.to/railsstudent/preview-let-syntax-in-html-template-in-angular-18-1m61)
-- [The Art of Reusability: Generics in TypeScript and React](https://dev.to/gboladetrue/the-art-of-reusability-generics-in-typescript-and-react-21mi)
-- [Asinxron/Fetch/Https](https://dev.to/bekmuhammaddev/asinxronfetchhttps-inc)
-- [React Router v6: A Comprehensive Guide to Page Routing in React](https://dev.to/get_pieces/react-router-v6-a-comprehensive-guide-to-page-routing-in-react-55pe)
+- [🚀 Advanced Terminal Calculator: Your Ultimate Dev Tool! 🌟](https://dev.to/safwanayyan/advanced-terminal-calculator-your-ultimate-dev-tool-15l0)
+- [Design Patterns in Flutter: Building &quot;BBB - Ba Ba Bank&quot; Application](https://dev.to/pablonax/design-patterns-in-flutter-building-bbb-ba-ba-bank-application-38ap)
+- [Understanding the Josephus Problem: A Comprehensive Guide](https://dev.to/vampirepapi/understanding-the-josephus-problem-a-comprehensive-guide-5b6m)
+- [Por quê eu estou aprendendo e acho que vocês também deveriam aprender scala em 2024](https://dev.to/brunociccarino/por-que-eu-estou-aprendendo-e-acho-que-voces-tambem-deveriam-aprender-scala-em-2024-25b1)
+- [Collections](https://dev.to/paulike/collections-3le7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
