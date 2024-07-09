@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [After Effects: The Basics](https://dev.to/kocreative/after-effects-the-basics-915)
-- [Introduction to Functional Programming in JavaScript: Monad and functors #7](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-monad-and-functors-7-1l6l)
-- [Website Navigation: Is a &#39;Home&#39; Link Necessary in the Main Menu?](https://dev.to/jennavisions/website-navigation-is-a-home-link-necessary-in-the-main-menu-4ja)
-- [Building A SimpleNote to Obsidian notes converter](https://dev.to/ayush_saran/building-a-simplenote-to-obsidian-notes-converter-33j9)
-- [Queues and Priority Queues](https://dev.to/paulike/queues-and-priority-queues-3aji)
+- [An excellent Modbus slave &lpar;server&rpar; simulator and serial port debugging tool.](https://dev.to/redisant/an-excellent-modbus-slave-server-simulator-and-serial-port-debugging-tool-c0a)
+- [BigQuery Schema Generation Made Easier with PyPI’s bigquery-schema-generator](https://dev.to/noela_tenku/bigquery-schema-generation-made-easier-with-pypis-bigquery-schema-generator-3iej)
+- [Não deveria ser tão simples inserir um bug na sua aplicação e eu te conto o porquê](https://dev.to/ramonborges15/nao-deveria-ser-tao-simples-inserir-um-bug-na-sua-aplicacao-e-eu-te-conto-o-porque-902)
+- [Creating a Simple Generative AI Chatbot with Python and TensorFlow](https://dev.to/csar_fabinchvezlinar/creating-a-simple-generative-ai-chatbot-with-python-and-tensorflow-13mc)
+- [Case Study: Evaluating Expressions](https://dev.to/paulike/case-study-evaluating-expressions-1bgg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
