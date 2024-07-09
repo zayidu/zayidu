@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Chain of Responsibility](https://dev.to/ben-witt/the-chain-of-responsibility-1pl4)
-- [Overview of GBase 8c B Compatibility Database](https://dev.to/congcong/overview-of-gbase-8c-b-compatibility-database-5eba)
-- [Day 8 of 100 Days of Code](https://dev.to/jacobsternx/day-8-of-100-days-of-code-4a2p)
-- [Setting up Server for the Vehicle Tracking - Free](https://dev.to/fleet_stack_21/setting-up-server-for-the-vehicle-tracking-free-4ena)
-- [Best 10+ AI Tools For Data Analysis](https://dev.to/flatlogic/best-10-ai-tools-for-data-analysis-3d06)
+- [Linux Commands for Software Engineers](https://dev.to/iamcymentho/linux-commands-for-software-engineers-55ag)
+- [A Beginner&#39;s Guide to Generative AI: Understanding, Learning, and Implementing with Python and Hugging Face🐍🤗🤖](https://dev.to/kammarianand/a-beginners-guide-to-generative-ai-understanding-learning-and-implementing-with-python-and-hugging-face-jif)
+- [Top 5 Must-Read Books for Software Architects](https://dev.to/tectrain_academy/top-5-must-read-books-for-software-architects-46en)
+- [Understanding Branch Coverage: A Comprehensive Guide](https://dev.to/keploy/understanding-branch-coverage-a-comprehensive-guide-1k32)
+- [Beyond the Dogma: An unpopular opinion on Clean Code](https://dev.to/selmaohneh/beyond-the-dogma-an-unpopular-opinion-on-clean-code-14l4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
