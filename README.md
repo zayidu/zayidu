@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Commands for Software Engineers](https://dev.to/iamcymentho/linux-commands-for-software-engineers-55ag)
-- [A Beginner&#39;s Guide to Generative AI: Understanding, Learning, and Implementing with Python and Hugging Face🐍🤗🤖](https://dev.to/kammarianand/a-beginners-guide-to-generative-ai-understanding-learning-and-implementing-with-python-and-hugging-face-jif)
-- [Top 5 Must-Read Books for Software Architects](https://dev.to/tectrain_academy/top-5-must-read-books-for-software-architects-46en)
-- [Understanding Branch Coverage: A Comprehensive Guide](https://dev.to/keploy/understanding-branch-coverage-a-comprehensive-guide-1k32)
-- [Beyond the Dogma: An unpopular opinion on Clean Code](https://dev.to/selmaohneh/beyond-the-dogma-an-unpopular-opinion-on-clean-code-14l4)
+- [Free Terabox Video Downloader HD Quality Fast](https://dev.to/banmyaccount/free-terabox-video-downloader-hd-quality-fast-39gk)
+- [Free Terabox Video Downloader HD Quality Fast](https://dev.to/banmyaccount/free-terabox-video-downloader-hd-quality-fast-2fl9)
+- [The importance of semantic HTML for SEO and accessibility.](https://dev.to/elijah_mengo_927f1447d4c8/the-importance-of-semantic-html-for-seo-and-accessibility-197n)
+- [Code Transformation with Amazon Q](https://dev.to/aws-heroes/code-transformation-with-amazon-q-40df)
+- [⚡ MySecondApp - React Native with Expo &lpar;P3&rpar;- Add Slide Carousel](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p3-add-slide-carousel-nl7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
