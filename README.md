@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ready to Dive into React? Let&#39;s Build Your First App!](https://dev.to/mahiya_khan_1d2dc6061abb7/ready-to-dive-into-react-lets-build-your-first-app-2j0p)
-- [Tailwind CSS Is So Much More Than Just Inline CSS](https://dev.to/safdarali/tailwind-css-is-so-much-more-than-just-inline-css-358n)
-- [Lists](https://dev.to/paulike/lists-3e1p)
-- [Underrated React Hook - useSyncExternalStore](https://dev.to/starneit/underrated-react-hook-usesyncexternalstore-4igj)
-- [Run A NodeJs Application In a Docker Container](https://dev.to/ejay11/run-a-nodejs-application-in-a-docker-container-4d16)
+- [Deploying native Quarkus REST API&#39;s in AWS Lambda](https://dev.to/patryk_szczypie_f1c7101c/deploying-quarkus-rest-apis-in-aws-lambda-1j62)
+- [What was your win this week?](https://dev.to/sheru/what-was-your-win-this-week-477j)
+- [Creating an Azure Virtual Network with Subnets](https://dev.to/tracyee_/creating-an-azure-virtual-network-with-subnets-1e1h)
+- [Extraction of Form Validation Object and Authenticate Class](https://dev.to/ghulam_mujtaba_247/extraction-of-form-validation-object-and-authenticate-class-b8m)
+- [** ¡Únete a Try Catch Factory y Descubre un Mundo de Beneficios Tecnológicos! **🌐](https://dev.to/orlidev/-unete-a-try-catch-factory-y-descubre-un-mundo-de-beneficios-tecnologicos--5bbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
