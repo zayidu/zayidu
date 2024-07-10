@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Watercooler Thread](https://dev.to/ben/weekly-watercooler-thread-1gd1)
-- [Ambient Mesh with Istio like a boss!](https://dev.to/mateothegreat/ambient-mesh-with-istio-like-a-boss-3gle)
-- [4 Pro CSS Tricks Will Blow Your Mind](https://dev.to/designobit/4-pro-css-tricks-will-blow-your-mind-4mgg)
-- [Lessons from $25,000-Monthly Founders](https://dev.to/resource_bunk_1077cab07da/lessons-from-25000-monthly-founders-512o)
-- [Insights from Founders Who Grew $25,000 Monthly](https://dev.to/resource_bunk_1077cab07da/insights-from-founders-who-grew-25000-monthly-2gdp)
+- [Redux VS Redux Toolkit &amp;&amp; Redux Thunk VS Redux-Saga](https://dev.to/wafa_bergaoui/redux-vs-redux-toolkit-redux-thunk-vs-redux-saga-59cd)
+- [18 Projects Announced as part of XRPL Accelerator First Launch Cohort](https://dev.to/ripplexdev/18-projects-announced-as-part-of-xrpl-accelerator-first-launch-cohort-3eb0)
+- [Share to PWA from mobile](https://dev.to/koffeinfrei/share-to-pwa-from-mobile-302i)
+- [Join Us For The First Community Smart Contract Challenge With $50,000 In Prizes!](https://dev.to/devteam/join-us-for-the-first-community-smart-contract-challenge-with-50000-in-prizes-41gl)
+- [Session Handling with the PRG pattern and Flashing](https://dev.to/ghulam_mujtaba_247/session-handling-with-the-prg-pattern-and-flashing-1jog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
