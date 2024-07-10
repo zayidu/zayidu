@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Composing JavaScript Decorators](https://dev.to/frehner/composing-javascript-decorators-2o38)
-- [JavaScript Decorators and Auto-Accessors](https://dev.to/frehner/javascript-decorators-and-auto-accessors-437i)
-- [How To Install SQLite On Windows](https://dev.to/kotect/how-to-install-sqlite-on-windows-4b3g)
-- [Regra 1: O mais simples possível, mas não mais simples do que isso](https://dev.to/fernanda_leite_febc2f0459/regra-1-o-mais-simples-possivel-mas-nao-mais-simples-do-que-isso-563p)
-- [Developing Smart Contracts with Truffle and Ganache](https://dev.to/kartikmehta8/developing-smart-contracts-with-truffle-and-ganache-2670)
+- [How to Do Android App Security Testing: A Guide for Developers and Testers](https://dev.to/wetest/how-to-do-android-app-security-testing-a-guide-for-developers-and-testers-3j8b)
+- [Unlocking the Power of Alibaba Cloud Elasticsearch: A Step-by-Step Guide to Accessing Your Cluster](https://dev.to/a_lucas/unlocking-the-power-of-alibaba-cloud-elasticsearch-a-step-by-step-guide-to-accessing-your-cluster-3jg1)
+- [Comparing Limit-Offset and Cursor Pagination](https://dev.to/jacktt/comparing-limit-offset-and-cursor-pagination-1n81)
+- [Supercharging Your Cypress Tests with Custom Commands](https://dev.to/aswani25/supercharging-your-cypress-tests-with-custom-commands-4jlc)
+- [Help needed urgently! Webpack + Reack app is blank after deployed on Vercel](https://dev.to/snookums/need-help-urgently-webpack-reack-app-is-blank-after-deployed-on-vercel-1eoi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
