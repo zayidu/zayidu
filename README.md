@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Composing JavaScript Decorators](https://dev.to/frehner/composing-javascript-decorators-2o38)
+- [JavaScript Decorators and Auto-Accessors](https://dev.to/frehner/javascript-decorators-and-auto-accessors-437i)
+- [How To Install SQLite On Windows](https://dev.to/kotect/how-to-install-sqlite-on-windows-4b3g)
+- [Regra 1: O mais simples possível, mas não mais simples do que isso](https://dev.to/fernanda_leite_febc2f0459/regra-1-o-mais-simples-possivel-mas-nao-mais-simples-do-que-isso-563p)
 - [Developing Smart Contracts with Truffle and Ganache](https://dev.to/kartikmehta8/developing-smart-contracts-with-truffle-and-ganache-2670)
-- [Framer Motion | Introduction - Part 1](https://dev.to/boraacici/framer-motion-introduction-part-1-4858)
-- [Acessibilidade digital - Dicas de NVDA para desenvolvedores web](https://dev.to/julioduartedev/acessibilidade-digital-dicas-de-nvda-para-desenvolvedores-web-32g5)
-- [Day 987 : Side Quest](https://dev.to/dwane/day-987-side-quest-273c)
-- [Forcing Angular SSR to Wait in 2024](https://dev.to/jdgamble555/forcing-angular-ssr-to-wait-in-2024-4lc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
