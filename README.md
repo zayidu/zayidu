@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Total Madness #1: Async/Await](https://dev.to/gmelodie/total-madness-1-asyncawait-1omk)
-- [Different Problem, One Solution : API Gateways](https://dev.to/grenishrai/different-problem-one-solution-api-gateways-j1d)
-- [Do you know these 4 API monitoring pillars?](https://dev.to/ehikioya/do-you-know-these-4-api-monitoring-pillars-3796)
-- [Most In-Demand Programming Languages in Europe and Worldwide: A Discussion](https://dev.to/burakboduroglu/most-in-demand-programming-languages-in-europe-and-worldwide-a-discussion-1jdf)
-- [Os Principais Pontos para uma Documentação Técnica de Negócios com Arquitetura de Sistemas](https://dev.to/annamatias/desvendando-os-segredos-os-principais-pontos-para-uma-documentacao-tecnica-de-negocios-com-arquitetura-de-sistemas-5blj)
+- [Foremost ที่ไม่ใช่ นม](https://dev.to/iyosnu/foremost-thiiaimaich-nm-217d)
+- [Testing the new discord bot.](https://dev.to/aud/testing-the-new-discord-bot-2m9n)
+- [Implementando Transactional Outbox com Go, DynamoDB, MongoDB, Kafka e RabbitMq](https://dev.to/ederfmatos/implementando-transactional-outbox-com-go-dynamodb-e-mongodb-1kn3)
+- [[Game of Purpose] Day 53](https://dev.to/humberd/game-of-purpose-day-53-1j96)
+- [30 things I wish I could go back and tell my junior engineer self👇](https://dev.to/msnmongare/30-things-i-wish-i-could-go-back-and-tell-my-junior-engineer-self-5ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
