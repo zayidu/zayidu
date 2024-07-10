@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing DOCSCAN: The Ultimate Global ID Document Scanning API](https://dev.to/vyan/introducing-docscan-the-ultimate-global-id-document-scanning-api-2lo4)
-- [DBOS-Cloud Simple and Robust Workflow Orchestration](https://dev.to/vince_hirefunnel_co/dbos-cloud-simple-and-robust-workflow-orchestration-cn4)
-- [Decode the 10K Resistor Color Code Like a Pro!](https://dev.to/candice88771483/decode-the-10k-resistor-color-code-like-a-pro-51d0)
-- [3 Rs of Software Architecture for iOS based in SwiftUI](https://dev.to/maatheusgois/3-rs-of-software-architecture-for-ios-based-in-swiftui-c6j)
-- [How to Build a Data Entry System &lpar;Quick &amp; Easy Guide&rpar;](https://dev.to/domfive/how-to-build-a-data-entry-system-quick-easy-guide-25p4)
+- [Free and Open-Source Alternatives to TablePlus and DataGrip for Database Management](https://dev.to/sh20raj/free-and-open-source-alternatives-to-tableplus-and-datagrip-for-database-management-1di4)
+- [Summarize Data in Every Two Columns under Each Category](https://dev.to/judith677/summarize-data-in-every-two-columns-under-each-category-12gg)
+- [Group Rows and Concatenate Cell Values](https://dev.to/judith677/group-rows-and-concatenate-cell-values-3oni)
+- [Group Rows and Concatenate Cell Values](https://dev.to/judith677/group-rows-and-concatenate-cell-values-475n)
+- [Coding timelapse Video for landing page](https://dev.to/paul_freeman/coding-timelapse-video-for-landing-page-6lo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
