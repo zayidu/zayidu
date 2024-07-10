@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [100+ FREE Resources Every Web Developer Must Try](https://dev.to/agunwachidiebelecalistus/100-free-resources-every-web-developer-must-try-47ln)
-- [Mastering Dependency Management with Architect: Tips and Best Practices](https://dev.to/joswellahwasike/mastering-dependency-management-with-architect-tips-and-best-practices-2ooi)
-- [Mastering Dependency Management with Architect: Tips and Best Practices](https://dev.to/joswellahwasike/mastering-dependency-management-with-architect-tips-and-best-practices-5bjk)
-- [How to publish Docker images to AWS ECR](https://dev.to/justplegend/how-to-publish-docker-images-to-aws-ecr-1n8p)
-- [benefits of parcel as a bundler](https://dev.to/anurag_singh_2jz/benefits-of-parcel-as-a-bundler-1fbi)
+- [Aula 00.py uma breve introdução](https://dev.to/dunderpy/aula-00py-uma-breve-introducao-3pkd)
+- [Iterating Over a Visual Editor Compiler](https://dev.to/eletroswing/iterating-over-a-visual-editor-compiler-51l9)
+- [Typescript Coding Chronicles: Reverse Vowels of a String](https://dev.to/__zamora__/typescript-coding-chronicles-reverse-vowels-of-a-string-2c9p)
+- [How to Invoke AWS Lambda Functions from Amazon SQS Message](https://dev.to/albine_peter_c2ffb10b422f/how-to-invoke-aws-lambda-functions-from-amazon-sqs-message-1npg)
+- [Creating a CV in 2024](https://dev.to/ivorjetski/creating-a-cv-in-2024-21be)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
