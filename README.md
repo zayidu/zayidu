@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Free and Open-Source Alternatives to TablePlus and DataGrip for Database Management](https://dev.to/sh20raj/free-and-open-source-alternatives-to-tableplus-and-datagrip-for-database-management-1di4)
-- [Summarize Data in Every Two Columns under Each Category](https://dev.to/judith677/summarize-data-in-every-two-columns-under-each-category-12gg)
-- [Group Rows and Concatenate Cell Values](https://dev.to/judith677/group-rows-and-concatenate-cell-values-3oni)
-- [Group Rows and Concatenate Cell Values](https://dev.to/judith677/group-rows-and-concatenate-cell-values-475n)
-- [Coding timelapse Video for landing page](https://dev.to/paul_freeman/coding-timelapse-video-for-landing-page-6lo)
+- [Beyond the Hype: A Critical Look at Design Systems](https://dev.to/shieldstring/beyond-the-hype-a-critical-look-at-design-systems-2eip)
+- [Axios](https://dev.to/l_thomas_7c618d0460a87887/axios-ndn)
+- [🌟 Are You Learning Basic Java? This Repository is Here to Help! 🌟](https://dev.to/aadarshk7/are-you-learning-basic-java-this-repository-is-here-to-help-fb)
+- [Hack The Box — Archetype Walkthrough](https://dev.to/gabe-blog/hack-the-box-archetype-walkthrough-p5n)
+- [Unlock Your Algorithm Superpowers with this Incredible Course! 🚀](https://dev.to/getvm/unlock-your-algorithm-superpowers-with-this-incredible-course-4a7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
