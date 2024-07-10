@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Hype: A Critical Look at Design Systems](https://dev.to/shieldstring/beyond-the-hype-a-critical-look-at-design-systems-2eip)
-- [Axios](https://dev.to/l_thomas_7c618d0460a87887/axios-ndn)
-- [🌟 Are You Learning Basic Java? This Repository is Here to Help! 🌟](https://dev.to/aadarshk7/are-you-learning-basic-java-this-repository-is-here-to-help-fb)
-- [Hack The Box — Archetype Walkthrough](https://dev.to/gabe-blog/hack-the-box-archetype-walkthrough-p5n)
-- [Unlock Your Algorithm Superpowers with this Incredible Course! 🚀](https://dev.to/getvm/unlock-your-algorithm-superpowers-with-this-incredible-course-4a7j)
+- [Understanding API Gateway Pricing: Maximizing Features While Minimizing Costs](https://dev.to/getambassador2024/understanding-api-gateway-pricing-maximizing-features-while-minimizing-costs-1lde)
+- [Best Tailwind Extensions for Productivity](https://dev.to/codeparrot/best-tailwind-extensions-for-productivity-58m0)
+- [Introducing DOCSCAN: The Ultimate Global ID Document Scanning API](https://dev.to/vyan/introducing-docscan-the-ultimate-global-id-document-scanning-api-4c7a)
+- [Git Commands for Software Engineers](https://dev.to/bitlearners/git-commands-for-software-engineers-m8k)
+- [Deploying Django website to Vercel](https://dev.to/paul_freeman/deploying-django-website-to-vercel-19ed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
