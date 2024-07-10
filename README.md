@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Image Processing Transforms Industries: 5 Key Use Cases](https://dev.to/api4ai/how-image-processing-transforms-industries-5-key-use-cases-n0a)
-- [Building Batching Notifications Using MongoDB, Django, Celery and Sendgrid](https://dev.to/nikl/building-batching-notifications-using-mongodb-django-celery-and-sendgrid-4n9f)
-- [Jenkins Step-by-Step Guide on Crafting a Continuous Delivery and Deployment Pipeline](https://dev.to/oncloud7/jenkins-step-by-step-guide-on-crafting-a-continuous-delivery-and-deployment-pipeline-3d99)
-- [normal&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/normal-in-pytorch-2jb)
-- [randint&lpar;&rpar; and randperm&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/randint-and-randperm-in-pytorch-8gm)
+- [3D Riemann Surface Matrix](https://dev.to/dan52242644dan/3d-riemann-surface-matrix-12oj)
+- [Leveraging Web3 to Enhance JavaScript Development](https://dev.to/asmsc/leveraging-web3-to-enhance-javascript-development-4aeo)
+- [Introducing Cora: A Powerful File Concatenation Tool for Developers](https://dev.to/shaharia/introducing-cora-a-powerful-file-concatenation-tool-for-developers-p9n)
+- [State Management in React: A Beginner&#39;s Guide](https://dev.to/lovishduggal/state-management-in-react-a-beginners-guide-40mg)
+- [How to Use ServBay to Enable npm](https://dev.to/servbay/how-to-use-servbay-to-enable-npm-2k3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
