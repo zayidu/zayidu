@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Layout types](https://dev.to/lenormor/the-layout-types-1kf5)
-- [Add Novel Editor to NextJS website with Image Uploading Support](https://dev.to/sh20raj/add-novel-editor-to-nextjs-website-with-image-uploading-support-3obb)
-- [Integration of ScheduleJS with Selligent CRM for a Leading Beauty Brand](https://dev.to/lenormor/integration-of-schedulejs-with-selligent-crm-for-a-leading-beauty-brand-4593)
-- [Deploy a Static Website with Route53, CloudFront and AWS Certificate using a Terraform Script](https://dev.to/chigozieco/deploy-a-static-website-with-route53-cloudfront-and-aws-certificate-using-a-terraform-script-25i8)
-- [Day1 of 100DaysOfJavaScript](https://dev.to/koichiarai/day1-of-100daysofjavascript-3g4)
+- [How Image Processing Transforms Industries: 5 Key Use Cases](https://dev.to/api4ai/how-image-processing-transforms-industries-5-key-use-cases-n0a)
+- [Building Batching Notifications Using MongoDB, Django, Celery and Sendgrid](https://dev.to/nikl/building-batching-notifications-using-mongodb-django-celery-and-sendgrid-4n9f)
+- [Jenkins Step-by-Step Guide on Crafting a Continuous Delivery and Deployment Pipeline](https://dev.to/oncloud7/jenkins-step-by-step-guide-on-crafting-a-continuous-delivery-and-deployment-pipeline-3d99)
+- [normal&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/normal-in-pytorch-2jb)
+- [randint&lpar;&rpar; and randperm&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/randint-and-randperm-in-pytorch-8gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
