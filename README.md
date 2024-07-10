@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [picoCTF Mod 26 Write Up](https://dev.to/president-xd/picoctf-mod-26-write-up-pnh)
-- [Drawing animations in ScheduleJS](https://dev.to/lenormor/drawing-animations-in-schedulejs-56fo)
-- [How to Integrate Abstract Email and Phone Validation for Zoho CRM](https://dev.to/jamesellis/how-to-integrate-abstract-email-and-phone-validation-for-zoho-crm-30i2)
-- [Methods to Improve Your UX](https://dev.to/danieldavis/methods-to-improve-your-ux-33l)
-- [How To Deal With Side Effects](https://dev.to/ark7/how-to-deal-with-side-effects-5f22)
+- [Javascript Can Make a Phenomenal Numerology Website](https://dev.to/robertdcosta/javascript-can-make-a-phenomenal-numerology-website-2aen)
+- [Automatic Repair Blue screen issue &lpar;BSOD&rpar;](https://dev.to/madgan95/automatic-repair-blue-screen-issue-bsod-5bf8)
+- [Efficiently Reading Millions of Rows of SQL Data with Python](https://dev.to/pawandeore/efficiently-reading-millions-of-rows-of-sql-data-with-python-16m7)
+- [Embarking on a 100-Day Project Management Journey](https://dev.to/devopsking/embarking-on-a-100-day-project-management-journey-fe7)
+- [Crafting .less Docker Containers That Will Blow Your Mind and Make You Ask &quot;WTF?&quot;](https://dev.to/pointlesscode/crafting-less-docker-containers-that-will-blow-your-mind-and-make-you-ask-wtf-44hh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
