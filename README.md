@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding API Gateway Pricing: Maximizing Features While Minimizing Costs](https://dev.to/getambassador2024/understanding-api-gateway-pricing-maximizing-features-while-minimizing-costs-1lde)
-- [Best Tailwind Extensions for Productivity](https://dev.to/codeparrot/best-tailwind-extensions-for-productivity-58m0)
-- [Introducing DOCSCAN: The Ultimate Global ID Document Scanning API](https://dev.to/vyan/introducing-docscan-the-ultimate-global-id-document-scanning-api-4c7a)
-- [Git Commands for Software Engineers](https://dev.to/bitlearners/git-commands-for-software-engineers-m8k)
-- [Deploying Django website to Vercel](https://dev.to/paul_freeman/deploying-django-website-to-vercel-19ed)
+- [Property-Based Testing: Ensuring Robust Software with Comprehensive Test Scenarios](https://dev.to/keploy/property-based-testing-ensuring-robust-software-with-comprehensive-test-scenarios-m5o)
+- [How Infrastructure Monitoring Can Prevent a Cyber Attack](https://dev.to/ila_bandhiya/how-infrastructure-monitoring-can-prevent-a-cyber-attack-35hl)
+- [Web Application Firewall &lpar;WAF&rpar;: Safeguarding Your Web Applications](https://dev.to/motorbuy6/web-application-firewall-waf-safeguarding-your-web-applications-o35)
+- [How to Improve Your Skills as a Web Developer](https://dev.to/iamnotusama/how-to-improve-your-skills-as-a-web-developer-2382)
+- [Как увеличить конверсию сайта с помощью UX/UI-дизайна](https://dev.to/cosmoweb2024/kak-uvielichit-konviersiiu-saita-s-pomoshchiu-uxui-dizaina-59m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
