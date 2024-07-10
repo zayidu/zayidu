@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Python Django App on AWS Lightsail](https://dev.to/haroffcode/deploying-a-python-django-app-on-aws-lightsail-3no4)
-- [Deploy a Python FastAPI Application to Render](https://dev.to/appsignal/deploy-a-python-fastapi-application-to-render-5g48)
-- [Providing Tons of Features While Keeping the Design Clean is Really Hard🥵](https://dev.to/darkinventor/providing-tons-of-features-while-keeping-the-design-clean-is-really-hard-oo0)
-- [The DevOps Revolution services](https://dev.to/porat/breaking-barriers-the-devops-revolution-services-3453)
-- [Building a Rick and Morty Character Explorer with HTMX and Express.js](https://dev.to/mikeyny_zw/building-a-rick-and-morty-character-explorer-with-htmx-and-expressjs-12n3)
+- [How to center a div?](https://dev.to/mb337/how-to-center-a-div-3c2a)
+- [Integrating ScheduleJS into AG-Grid](https://dev.to/lenormor/integrating-schedulejs-into-ag-grid-5hfm)
+- [Javascript Array/Object Destructuring - With Some Tricks You Probably Dont Know](https://dev.to/syakirurahman/javascript-arrayobject-destructuring-with-some-tricks-you-probably-dont-know-41ho)
+- [The main differences between EC2 and ECS](https://dev.to/aws-builders/the-main-differences-between-ec2-and-ecs-11oc)
+- [What is different between undefined and null in Java Script](https://dev.to/noah-00/what-is-different-between-undefined-and-null-in-java-script-1mdf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
