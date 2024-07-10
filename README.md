@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to center a div?](https://dev.to/mb337/how-to-center-a-div-3c2a)
-- [Integrating ScheduleJS into AG-Grid](https://dev.to/lenormor/integrating-schedulejs-into-ag-grid-5hfm)
-- [Javascript Array/Object Destructuring - With Some Tricks You Probably Dont Know](https://dev.to/syakirurahman/javascript-arrayobject-destructuring-with-some-tricks-you-probably-dont-know-41ho)
-- [The main differences between EC2 and ECS](https://dev.to/aws-builders/the-main-differences-between-ec2-and-ecs-11oc)
-- [What is different between undefined and null in Java Script](https://dev.to/noah-00/what-is-different-between-undefined-and-null-in-java-script-1mdf)
+- [How to Handle Secrets in Jupyter Notebooks](https://dev.to/gitguardian/how-to-handle-secrets-in-jupyter-notebooks-466o)
+- [Building an ActivityRenderer](https://dev.to/lenormor/building-an-activityrenderer-3o0)
+- [Count the occurrence of a character in a string - Javascript](https://dev.to/dindustack/count-the-occurrence-of-a-character-in-a-string-javascript-4np7)
+- [Compliance and Regulatory Updates for 2024](https://dev.to/infosectrain_education_84/compliance-and-regulatory-updates-for-2024-2jn6)
+- [Real time rendering with web-sockets](https://dev.to/lenormor/real-time-rendering-with-web-sockets-50b7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
