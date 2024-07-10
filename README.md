@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Javascript Can Make a Phenomenal Numerology Website](https://dev.to/robertdcosta/javascript-can-make-a-phenomenal-numerology-website-2aen)
-- [Automatic Repair Blue screen issue &lpar;BSOD&rpar;](https://dev.to/madgan95/automatic-repair-blue-screen-issue-bsod-5bf8)
-- [Efficiently Reading Millions of Rows of SQL Data with Python](https://dev.to/pawandeore/efficiently-reading-millions-of-rows-of-sql-data-with-python-16m7)
-- [Embarking on a 100-Day Project Management Journey](https://dev.to/devopsking/embarking-on-a-100-day-project-management-journey-fe7)
-- [Crafting .less Docker Containers That Will Blow Your Mind and Make You Ask &quot;WTF?&quot;](https://dev.to/pointlesscode/crafting-less-docker-containers-that-will-blow-your-mind-and-make-you-ask-wtf-44hh)
+- [Deploying a Python Django App on AWS Lightsail](https://dev.to/haroffcode/deploying-a-python-django-app-on-aws-lightsail-3no4)
+- [Deploy a Python FastAPI Application to Render](https://dev.to/appsignal/deploy-a-python-fastapi-application-to-render-5g48)
+- [Providing Tons of Features While Keeping the Design Clean is Really Hard🥵](https://dev.to/darkinventor/providing-tons-of-features-while-keeping-the-design-clean-is-really-hard-oo0)
+- [The DevOps Revolution services](https://dev.to/porat/breaking-barriers-the-devops-revolution-services-3453)
+- [Building a Rick and Morty Character Explorer with HTMX and Express.js](https://dev.to/mikeyny_zw/building-a-rick-and-morty-character-explorer-with-htmx-and-expressjs-12n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
