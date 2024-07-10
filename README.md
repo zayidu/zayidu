@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is the VCR plugged in? Common Sense Troubleshooting For Web Devs](https://dev.to/cjav_dev/is-the-vcr-plugged-in-common-sense-troubleshooting-for-web-devs-78o)
-- [Understanding Node Affinity in Kubernetes](https://dev.to/jensen1806/understanding-node-affinity-in-kubernetes-3l5j)
-- [Introduction to GCD &lpar;Grand Central Dispatch&rpar;](https://dev.to/vinaykumar0339/introduction-to-gcd-grand-central-dispatch-16b9)
-- [What is Selenium? Why do we use selenium for automation?](https://dev.to/pat28we/what-is-selenium-why-do-we-use-selenium-for-automation-hjn)
-- [Homeowners Find Help, Handymen Find Work: Building HomeSquad](https://dev.to/dawit_yifru_51528038a6adf/homeowners-find-help-handymen-find-work-building-homesquad-30hn)
+- [Weekly Watercooler Thread](https://dev.to/ben/weekly-watercooler-thread-1gd1)
+- [Ambient Mesh with Istio like a boss!](https://dev.to/mateothegreat/ambient-mesh-with-istio-like-a-boss-3gle)
+- [4 Pro CSS Tricks Will Blow Your Mind](https://dev.to/designobit/4-pro-css-tricks-will-blow-your-mind-4mgg)
+- [Lessons from $25,000-Monthly Founders](https://dev.to/resource_bunk_1077cab07da/lessons-from-25000-monthly-founders-512o)
+- [Insights from Founders Who Grew $25,000 Monthly](https://dev.to/resource_bunk_1077cab07da/insights-from-founders-who-grew-25000-monthly-2gdp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
