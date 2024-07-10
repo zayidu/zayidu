@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Handle Secrets in Jupyter Notebooks](https://dev.to/gitguardian/how-to-handle-secrets-in-jupyter-notebooks-466o)
-- [Building an ActivityRenderer](https://dev.to/lenormor/building-an-activityrenderer-3o0)
-- [Count the occurrence of a character in a string - Javascript](https://dev.to/dindustack/count-the-occurrence-of-a-character-in-a-string-javascript-4np7)
-- [Compliance and Regulatory Updates for 2024](https://dev.to/infosectrain_education_84/compliance-and-regulatory-updates-for-2024-2jn6)
-- [Real time rendering with web-sockets](https://dev.to/lenormor/real-time-rendering-with-web-sockets-50b7)
+- [The Layout types](https://dev.to/lenormor/the-layout-types-1kf5)
+- [Add Novel Editor to NextJS website with Image Uploading Support](https://dev.to/sh20raj/add-novel-editor-to-nextjs-website-with-image-uploading-support-3obb)
+- [Integration of ScheduleJS with Selligent CRM for a Leading Beauty Brand](https://dev.to/lenormor/integration-of-schedulejs-with-selligent-crm-for-a-leading-beauty-brand-4593)
+- [Deploy a Static Website with Route53, CloudFront and AWS Certificate using a Terraform Script](https://dev.to/chigozieco/deploy-a-static-website-with-route53-cloudfront-and-aws-certificate-using-a-terraform-script-25i8)
+- [Day1 of 100DaysOfJavaScript](https://dev.to/koichiarai/day1-of-100daysofjavascript-3g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
