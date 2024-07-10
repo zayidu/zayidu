@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Redux VS Redux Toolkit &amp;&amp; Redux Thunk VS Redux-Saga](https://dev.to/wafa_bergaoui/redux-vs-redux-toolkit-redux-thunk-vs-redux-saga-59cd)
-- [18 Projects Announced as part of XRPL Accelerator First Launch Cohort](https://dev.to/ripplexdev/18-projects-announced-as-part-of-xrpl-accelerator-first-launch-cohort-3eb0)
-- [Share to PWA from mobile](https://dev.to/koffeinfrei/share-to-pwa-from-mobile-302i)
-- [Join Us For The First Community Smart Contract Challenge With $50,000 In Prizes!](https://dev.to/devteam/join-us-for-the-first-community-smart-contract-challenge-with-50000-in-prizes-41gl)
-- [Session Handling with the PRG pattern and Flashing](https://dev.to/ghulam_mujtaba_247/session-handling-with-the-prg-pattern-and-flashing-1jog)
+- [100+ FREE Resources Every Web Developer Must Try](https://dev.to/agunwachidiebelecalistus/100-free-resources-every-web-developer-must-try-47ln)
+- [Mastering Dependency Management with Architect: Tips and Best Practices](https://dev.to/joswellahwasike/mastering-dependency-management-with-architect-tips-and-best-practices-2ooi)
+- [Mastering Dependency Management with Architect: Tips and Best Practices](https://dev.to/joswellahwasike/mastering-dependency-management-with-architect-tips-and-best-practices-5bjk)
+- [How to publish Docker images to AWS ECR](https://dev.to/justplegend/how-to-publish-docker-images-to-aws-ecr-1n8p)
+- [benefits of parcel as a bundler](https://dev.to/anurag_singh_2jz/benefits-of-parcel-as-a-bundler-1fbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
