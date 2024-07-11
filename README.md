@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular 18.1: Template Local Variables with @let](https://dev.to/debba/angular-181-template-local-variables-with-let-3mh9)
-- [The Battle of Databases: SQL, PostgreSQL, MongoDB, and Redis Explored](https://dev.to/aquibpy/the-battle-of-databases-sql-postgresql-mongodb-and-redis-explored-jbc)
-- [Phase 3 sql, tuples, and object problems](https://dev.to/daniel_trejo14/phase-3-sql-tuples-and-object-problems-1k8d)
-- [Cities as Codebases](https://dev.to/youssefibrahim/cities-as-codebases-2mj9)
-- [Unlocking Protected PDFs](https://dev.to/dpaluy/unlocking-protected-pdfs-99b)
+- [Master Linear Regression with NumPy: Step-by-Step Guide to Building and Optimizing Your First Model!](https://dev.to/moubarakmohame4/master-linear-regression-with-numpy-step-by-step-guide-to-building-and-optimizing-your-first-model-oo7)
+- [Discord bot dashboard authentication &lpar;Nextjs&rpar;](https://dev.to/clxrityy/discord-bot-dashboard-authentication-nextjs-1ecg)
+- [HOST STATIC WEBSITE ON NETTLIFY; A BEGINNER-FRIENDLY GUIDE TO WEB DEVELOPMENT](https://dev.to/psam4ord/host-static-website-on-nettlify-a-beginner-friendly-guide-to-web-development-3kog)
+- [Pros and Cons of Using Terraform with FluxCD for GitOps](https://dev.to/aws-builders/pros-and-cons-of-using-terraform-with-fluxcd-for-gitops-4k9h)
+- [Card Portfolio UI Component](https://dev.to/sofidev/card-portfolio-ui-component-1c0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
