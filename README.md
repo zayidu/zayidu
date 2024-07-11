@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Choose An Enterprise Software Development Company For Your Business](https://dev.to/adnanali007/why-choose-an-enterprise-software-development-company-for-your-business-5ejk)
-- [Metadata to actionable insights in Grafana: How to view Parseable metrics](https://dev.to/parseable/metadata-to-actionable-insights-in-grafana-how-to-view-parseable-metrics-3oa4)
-- [Generate Signable PDF Forms with React](https://dev.to/fileforge/generate-signable-pdf-forms-with-react-1ha6)
-- [Developer diary #13. Pomodoro life](https://dev.to/kiolk/developer-diary-13-pomodoro-life-38hc)
-- [Free Figma Brand Book Template 100+ Slides](https://dev.to/faisalgg/free-figma-brand-book-template-100-slides-4041)
+- [How To Protect Source Code: Best Practices for NDAs](https://dev.to/mister_jerry_37e1ecf9b7f7/how-to-protect-source-code-best-practices-for-ndas-3nl1)
+- [how to show the app electronjs in the systemTray](https://dev.to/fwldom/how-to-show-the-app-electronjs-in-the-systemtray-4250)
+- [7 Essential Tips to Avoid Code Smells in Your Projects](https://dev.to/wallacefreitas/7-essential-tips-to-avoid-code-smells-in-your-projects-4fo8)
+- [Quiz Management System Project in Python | Django](https://dev.to/codzap/quiz-management-system-project-in-python-django-4f1j)
+- [The 21 Days Challenge: Pt. 1](https://dev.to/sxryadipta/the-21-days-challenge-pt-1-3cnk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
