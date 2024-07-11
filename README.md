@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Expand Multi-Row Text in A Cell to Multiple Cells](https://dev.to/judith677/expand-multi-row-text-in-a-cell-to-multiple-cells-gcf)
-- [Fisrt time](https://dev.to/rteless/fisrt-time-34lj)
-- [Cloud Migration Strategies: Your Roadmap to a Successful Transition](https://dev.to/unicloud/cloud-migration-strategies-your-roadmap-to-a-successful-transition-gli)
-- [Space Container Inspection: Secure Your Futuristic City](https://dev.to/labex/space-container-inspection-secure-your-futuristic-city-3pff)
-- [🐧👾💅 The First Bash Prompt Customization I NEED to Do - Linux](https://dev.to/uxxxjp/the-first-bash-prompt-customization-i-need-to-do-linux-2e4p)
+- [Migrating from MySQL to PostgreSQL](https://dev.to/mrpercival/migrating-from-mysql-to-postgresql-1oh7)
+- [Day 29 of 30 of JavaScript](https://dev.to/akshat0610/day-29-of-30-of-javascript-4fom)
+- [Django AllAuth Chapter 2 - How to install and configure Django AllAuth](https://dev.to/doctorserone/django-allauth-chapter-2-how-to-install-and-configure-django-allauth-513p)
+- [Unlock the &quot;Beauty and Joy of Computing&quot; with UC Berkeley&#39;s Captivating Computer Science Course! 🤖](https://dev.to/getvm/unlock-the-beauty-and-joy-of-computing-with-uc-berkeleys-captivating-computer-science-course-9p5)
+- [GIT Cheatsheet](https://dev.to/thrtn85dev/git-cheatsheet-429o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
