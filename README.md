@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python RegEx Cheat Sheet](https://dev.to/volodyslav/python-regex-cheat-sheet-3d21)
-- [SQLite Built-In: A Game-Changer for Node.js Development](https://dev.to/pineapplegrits/sqlite-built-in-a-game-changer-for-nodejs-development-1c7h)
-- [Secure Your Server Access with the &#39;Configuring SSH Certificates for Secure Login&#39; Project](https://dev.to/labex/secure-your-server-access-with-the-configuring-ssh-certificates-for-secure-login-project-c9a)
-- [What is Docker? - Day 3 Of #100DaysOfFullStackChallnege](https://dev.to/zendeaditya/what-is-docker-day-3-of-100daysoffullstackchallnege-2igo)
-- [Building a Simple Load Balancer in Go](https://dev.to/marialuizaleitao/building-a-simple-load-balancer-in-go-pbd)
+- [Design Pattern #5 - Adapter Pattern](https://dev.to/superviz/design-pattern-5-adapter-pattern-4gif)
+- [How to Improve Java Application Performance](https://dev.to/renan_almeidasv/how-to-improve-java-application-performance-55if)
+- [How to add hover in markdown](https://dev.to/aryan015/how-to-add-hover-in-markdown-27lm)
+- [Semantic HTML And Accessibility](https://dev.to/james_kiboi_cf745aa43cf22/semantic-html-and-accessibility-2pp7)
+- [Types of casing in programming](https://dev.to/aryan015/types-of-casing-in-programming-2j0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
