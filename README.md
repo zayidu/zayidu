@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Prompt Libraries you should know as a AI Engineer](https://dev.to/portkey/three-prompt-libraries-you-should-know-as-a-ai-engineer-32m8)
-- [print &lpar;விளைவு&rpar; நிரல்](https://dev.to/neyakkoo/print-villaivu-nirl-37jn)
-- [HTB Academy: Information Gathering - Web Edition Module: Skills Assessment &lpar;Part II, Question 5&rpar;](https://dev.to/saramazal/htb-academy-information-gathering-web-edition-module-skills-assessment-part-ii-question-5-5bef)
-- [How to create an animated input field with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-an-animated-input-field-with-tailwind-css-ndb)
-- [Getting Started with Rust](https://dev.to/danielmwandiki/getting-started-with-rust-2c3l)
+- [NVIDIA NIM is mind blowing!!!](https://dev.to/fretny/nvidia-nim-is-mind-blowing-34gc)
+- [ER Diagrams for University Databases in DBMS](https://dev.to/pushpendra_sharma_f1d2cbe/er-diagrams-for-university-databases-in-dbms-5bej)
+- [NO BullShit Generative AI Tools to use for Resume in Job Hunting](https://dev.to/fretny/no-bullshit-generative-ai-tools-to-use-for-resume-in-job-hunting-1i6n)
+- [DoLa and MT-Bench - A Quick Eval of a new LLM trick](https://dev.to/maximsaplin/dola-and-mt-bench-a-quick-eval-of-a-new-llm-trick-4n5g)
+- [Useless but Fun home brew packages](https://dev.to/litlyx/useless-but-fun-home-brew-packages-31dm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
