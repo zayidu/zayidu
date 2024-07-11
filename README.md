@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini AI inside Chrome DevTools to Debug Errors](https://dev.to/shameel/gemini-ai-inside-chrome-devtools-to-debug-errors-3jpe)
-- [5 Must-Know Techniques to Boost API Performance](https://dev.to/iamcymentho/5-must-know-techniques-to-boost-api-performance-17e1)
-- [Amazon S3](https://dev.to/mohammed_zubair_43bf67b9a/amazon-s3-3i4a)
-- [Different POVs on AI efficiency at Devōt](https://dev.to/devot/different-povs-on-ai-efficiency-at-devot-1aih)
-- [Adding Auto complete Feature in Terminal of VS code](https://dev.to/shoeb_uddin944/adding-auto-complete-feature-in-terminal-of-vs-code-5gmp)
+- [Email Deliverability Audit: Ensuring Your Emails Reach the Inbox](https://dev.to/accuwebhosting/email-deliverability-audit-ensuring-your-emails-reach-the-inbox-43)
+- [The Future of Full Stack Development: AI, Machine Learning, and Beyond](https://dev.to/jhk_info/the-future-of-full-stack-development-ai-machine-learning-and-beyond-2ac2)
+- [25 Open Source AI Tools to Cut Your Development Time in Half](https://dev.to/kitops/25-open-source-ai-tools-to-cut-your-development-time-in-half-4h5j)
+- [Explore how BitPower Loop works](https://dev.to/sang_ce3ded81da27406cb32c/explore-how-bitpower-loop-works-oh2)
+- [Restaurant Landing page](https://dev.to/paul_freeman/restaurant-landing-page-1mkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
