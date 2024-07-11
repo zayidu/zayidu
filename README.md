@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Short-Circuiting Conditions in JavaScript: The Ternary Operator ES6](https://dev.to/fwldom/short-circuiting-conditions-in-javascript-the-ternary-operator-es6-1b12)
-- [Day 6](https://dev.to/myrojyn/day-6-mfe)
-- [Mastering RecyclerView in Java for Android Development](https://dev.to/ankittmeena/mastering-recyclerview-in-java-for-android-development-2f6m)
-- [Meetings vs no meetings team?](https://dev.to/devonremote/meetings-vs-no-meetings-4of6)
-- [Unlocking JavaScript: Innovative Features for Modern Developers](https://dev.to/rn_dev_lalit/unlocking-javascript-innovative-features-for-modern-developers-1h6e)
+- [What Is Pulumi And How To Use It](https://dev.to/env0/what-is-pulumi-and-how-to-use-it-1imc)
+- [Table Extraction and Processing from PDFs - A Tutorial](https://dev.to/shuveb_hussain/table-extraction-and-processing-from-pdfs-a-tutorial-1je7)
+- [Understanding RAID Levels: A Comprehensive Guide to RAID 0, 1, 5, 6, 10, and Beyond](https://dev.to/pltnvs/understanding-raid-levels-a-comprehensive-guide-to-raid-0-1-5-6-10-and-beyond-5948)
+- [Unlocking the Full Potential of GitGuardian: Empowering Developers In Code Security](https://dev.to/gitguardian/unlocking-the-full-potential-of-gitguardian-empowering-developers-in-code-security-k09)
+- [Sharing state between unrelated React components](https://dev.to/asmyshlyaev177/sharing-state-between-unrelated-react-components-4aia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
