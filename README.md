@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Open/Closed Principle in C# with Filters and Specifications](https://dev.to/moh_moh701/the-openclosed-principle-in-c-with-filters-and-specifications-3dd6)
-- [Are You On The Cloud, In The Cloud or Under The Cloud?](https://dev.to/evretech/are-you-on-the-cloud-in-the-cloud-or-under-the-cloud-1ff1)
-- [Shared Library &lpar;Dynamic linking&rpar; - It&#39;s not about libs](https://dev.to/nivicius/shared-library-dynamic-linking-its-not-about-libs-a9m)
-- [Creating a New Fast Tower Defence](https://dev.to/chigbeef_77/creating-a-new-fast-tower-defence-1j95)
-- [zsh: permission denied: ./gradlew](https://dev.to/deni_sugiarto_1a01ad7c3fb/zsh-permission-denied-gradlew-52dp)
+- [This one tool will Take your Landing Pages to the Next Level](https://dev.to/vidova/this-one-tool-will-take-your-landing-pages-to-the-next-level-2l88)
+- [Case &lpar;IV&rpar; - KisFlow-Golang Stream Real- KisFlow in Message Queue &lpar;MQ&rpar; Applications](https://dev.to/aceld/case-iv-kisflow-golang-stream-real--4k3e)
+- [Customer Satisfaction: The Key to Success is an Efficient and Motivated Workforce](https://dev.to/wallacefreitas/customer-satisfaction-the-key-to-success-is-an-efficient-and-motivated-workforce-2l6n)
+- [[Java] Multi-threading - Nhiều luồng liệu có thực sự khiến chương trình của chúng ta trở nên nhanh hơn ?](https://dev.to/bu_0107/java-multi-threading-nhieu-luong-lieu-co-thuc-su-khien-chuong-trinh-cua-chung-ta-tro-nen-nhanh-hon--47bl)
+- [Understanding the Monad Design Pattern](https://dev.to/rmaurodev/understanding-the-monad-design-pattern-1d9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
