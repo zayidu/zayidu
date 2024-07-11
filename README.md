@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This one tool will Take your Landing Pages to the Next Level](https://dev.to/vidova/this-one-tool-will-take-your-landing-pages-to-the-next-level-2l88)
-- [Case &lpar;IV&rpar; - KisFlow-Golang Stream Real- KisFlow in Message Queue &lpar;MQ&rpar; Applications](https://dev.to/aceld/case-iv-kisflow-golang-stream-real--4k3e)
-- [Customer Satisfaction: The Key to Success is an Efficient and Motivated Workforce](https://dev.to/wallacefreitas/customer-satisfaction-the-key-to-success-is-an-efficient-and-motivated-workforce-2l6n)
-- [[Java] Multi-threading - Nhiều luồng liệu có thực sự khiến chương trình của chúng ta trở nên nhanh hơn ?](https://dev.to/bu_0107/java-multi-threading-nhieu-luong-lieu-co-thuc-su-khien-chuong-trinh-cua-chung-ta-tro-nen-nhanh-hon--47bl)
-- [Understanding the Monad Design Pattern](https://dev.to/rmaurodev/understanding-the-monad-design-pattern-1d9e)
+- [Expand Multi-Row Text in A Cell to Multiple Cells](https://dev.to/judith677/expand-multi-row-text-in-a-cell-to-multiple-cells-gcf)
+- [Fisrt time](https://dev.to/rteless/fisrt-time-34lj)
+- [Cloud Migration Strategies: Your Roadmap to a Successful Transition](https://dev.to/unicloud/cloud-migration-strategies-your-roadmap-to-a-successful-transition-gli)
+- [Space Container Inspection: Secure Your Futuristic City](https://dev.to/labex/space-container-inspection-secure-your-futuristic-city-3pff)
+- [🐧👾💅 The First Bash Prompt Customization I NEED to Do - Linux](https://dev.to/uxxxjp/the-first-bash-prompt-customization-i-need-to-do-linux-2e4p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
