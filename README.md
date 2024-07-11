@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Foremost ที่ไม่ใช่ นม](https://dev.to/iyosnu/foremost-thiiaimaich-nm-217d)
-- [Testing the new discord bot.](https://dev.to/aud/testing-the-new-discord-bot-2m9n)
-- [Implementando Transactional Outbox com Go, DynamoDB, MongoDB, Kafka e RabbitMq](https://dev.to/ederfmatos/implementando-transactional-outbox-com-go-dynamodb-e-mongodb-1kn3)
-- [[Game of Purpose] Day 53](https://dev.to/humberd/game-of-purpose-day-53-1j96)
-- [30 things I wish I could go back and tell my junior engineer self👇](https://dev.to/msnmongare/30-things-i-wish-i-could-go-back-and-tell-my-junior-engineer-self-5ae)
+- [Understanding Cloud Computing: A Beginner&#39;s Guide](https://dev.to/richard_bonney_eb884870a1/understanding-cloud-computing-a-beginners-guide-3ha8)
+- [Understanding Cloud Computing: A Beginner&#39;s Guide](https://dev.to/richard_bonney_eb884870a1/understanding-cloud-computing-a-beginners-guide-48dm)
+- [Building Apps That Don&#39;t Make Any Money](https://dev.to/m4rcoperuano/building-apps-that-dont-make-any-money-4k9k)
+- [Difference between MySQL and PostgreSQL](https://dev.to/squad_team_986b85db08e8d2/difference-between-mysql-and-postgresql-40b)
+- [First STAG Game Post Mortem](https://dev.to/chigbeef_77/first-stag-game-post-mortem-1e8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
