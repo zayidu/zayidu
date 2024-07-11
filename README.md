@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Linear Regression with NumPy: Step-by-Step Guide to Building and Optimizing Your First Model!](https://dev.to/moubarakmohame4/master-linear-regression-with-numpy-step-by-step-guide-to-building-and-optimizing-your-first-model-oo7)
-- [Discord bot dashboard authentication &lpar;Nextjs&rpar;](https://dev.to/clxrityy/discord-bot-dashboard-authentication-nextjs-1ecg)
-- [HOST STATIC WEBSITE ON NETTLIFY; A BEGINNER-FRIENDLY GUIDE TO WEB DEVELOPMENT](https://dev.to/psam4ord/host-static-website-on-nettlify-a-beginner-friendly-guide-to-web-development-3kog)
-- [Pros and Cons of Using Terraform with FluxCD for GitOps](https://dev.to/aws-builders/pros-and-cons-of-using-terraform-with-fluxcd-for-gitops-4k9h)
-- [Card Portfolio UI Component](https://dev.to/sofidev/card-portfolio-ui-component-1c0f)
+- [New HTML &lt;dialog&gt; tag: An absolute game changer](https://dev.to/safdarali/new-html-tag-an-absolute-game-changer-3mg4)
+- [What is WebRTC protocol?](https://dev.to/alakkadshaw/what-is-webrtc-protocol-3jd5)
+- [The Ongoing War Between CJS &amp; ESM: A Tale of Two Module Systems](https://dev.to/greenteaisgreat/the-ongoing-war-between-cjs-esm-a-tale-of-two-module-systems-1jdg)
+- [Want to get started as a Data Engineer](https://dev.to/johnscode/want-to-get-started-as-a-data-engineer-1amn)
+- [Running Tests in GitLab CI: From Zero to Pipeline](https://dev.to/thiagoematos/running-tests-in-gitlab-ci-from-zero-to-pipeline-5ece)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
