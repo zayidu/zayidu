@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Email Deliverability Audit: Ensuring Your Emails Reach the Inbox](https://dev.to/accuwebhosting/email-deliverability-audit-ensuring-your-emails-reach-the-inbox-43)
-- [The Future of Full Stack Development: AI, Machine Learning, and Beyond](https://dev.to/jhk_info/the-future-of-full-stack-development-ai-machine-learning-and-beyond-2ac2)
-- [25 Open Source AI Tools to Cut Your Development Time in Half](https://dev.to/kitops/25-open-source-ai-tools-to-cut-your-development-time-in-half-4h5j)
-- [Explore how BitPower Loop works](https://dev.to/sang_ce3ded81da27406cb32c/explore-how-bitpower-loop-works-oh2)
-- [Restaurant Landing page](https://dev.to/paul_freeman/restaurant-landing-page-1mkh)
+- [Short-Circuiting Conditions in JavaScript: The Ternary Operator ES6](https://dev.to/fwldom/short-circuiting-conditions-in-javascript-the-ternary-operator-es6-1b12)
+- [Day 6](https://dev.to/myrojyn/day-6-mfe)
+- [Mastering RecyclerView in Java for Android Development](https://dev.to/ankittmeena/mastering-recyclerview-in-java-for-android-development-2f6m)
+- [Meetings vs no meetings team?](https://dev.to/devonremote/meetings-vs-no-meetings-4of6)
+- [Unlocking JavaScript: Innovative Features for Modern Developers](https://dev.to/rn_dev_lalit/unlocking-javascript-innovative-features-for-modern-developers-1h6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
