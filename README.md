@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic watermarking with imgproxy and Apache APISIX](https://dev.to/apisix/dynamic-watermarking-with-imgproxy-and-apache-apisix-1mc5)
-- [JavaScript Basics: Understanding Syntax and Structure](https://dev.to/buildwebcrumbs/javascript-basics-understanding-syntax-and-structure-5d9b)
-- [Email authentication - Understanding headers](https://dev.to/sweego/email-authentication-understanding-headers-1pn1)
-- [How to digitally sign a job offer letter.](https://dev.to/opensign001/how-to-digitally-sign-a-job-offer-letter-28i6)
-- [Oracle Cloud Financials 24C Release: What’s New?](https://dev.to/johnste39558689/oracle-cloud-financials-24c-release-whats-new-3p1)
+- [Three Prompt Libraries you should know as a AI Engineer](https://dev.to/portkey/three-prompt-libraries-you-should-know-as-a-ai-engineer-32m8)
+- [print &lpar;விளைவு&rpar; நிரல்](https://dev.to/neyakkoo/print-villaivu-nirl-37jn)
+- [HTB Academy: Information Gathering - Web Edition Module: Skills Assessment &lpar;Part II, Question 5&rpar;](https://dev.to/saramazal/htb-academy-information-gathering-web-edition-module-skills-assessment-part-ii-question-5-5bef)
+- [How to create an animated input field with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-an-animated-input-field-with-tailwind-css-ndb)
+- [Getting Started with Rust](https://dev.to/danielmwandiki/getting-started-with-rust-2c3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
