@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NVIDIA NIM is mind blowing!!!](https://dev.to/fretny/nvidia-nim-is-mind-blowing-34gc)
-- [ER Diagrams for University Databases in DBMS](https://dev.to/pushpendra_sharma_f1d2cbe/er-diagrams-for-university-databases-in-dbms-5bej)
-- [NO BullShit Generative AI Tools to use for Resume in Job Hunting](https://dev.to/fretny/no-bullshit-generative-ai-tools-to-use-for-resume-in-job-hunting-1i6n)
-- [DoLa and MT-Bench - A Quick Eval of a new LLM trick](https://dev.to/maximsaplin/dola-and-mt-bench-a-quick-eval-of-a-new-llm-trick-4n5g)
-- [Useless but Fun home brew packages](https://dev.to/litlyx/useless-but-fun-home-brew-packages-31dm)
+- [Gemini AI inside Chrome DevTools to Debug Errors](https://dev.to/shameel/gemini-ai-inside-chrome-devtools-to-debug-errors-3jpe)
+- [5 Must-Know Techniques to Boost API Performance](https://dev.to/iamcymentho/5-must-know-techniques-to-boost-api-performance-17e1)
+- [Amazon S3](https://dev.to/mohammed_zubair_43bf67b9a/amazon-s3-3i4a)
+- [Different POVs on AI efficiency at Devōt](https://dev.to/devot/different-povs-on-ai-efficiency-at-devot-1aih)
+- [Adding Auto complete Feature in Terminal of VS code](https://dev.to/shoeb_uddin944/adding-auto-complete-feature-in-terminal-of-vs-code-5gmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
