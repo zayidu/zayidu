@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why React JS is the Optimal Choice for Your Next Project: A Deep Dive](https://dev.to/vyan/why-react-js-is-the-optimal-choice-for-your-next-project-a-deep-dive-195a)
-- [Transform Work into Play: Discover the Secrets to Enjoyable Productivity in My New Class](https://dev.to/per-starke-642/transform-work-into-play-discover-the-secrets-to-enjoyable-productivity-in-my-new-class-5ep4)
-- [What specific data inputs are required to use the HECS repayment calculator effectively?](https://dev.to/george_423a8b9f09bc2b7663/what-specific-data-inputs-are-required-to-use-the-hecs-repayment-calculator-effectively-41ac)
-- [The paradox of test coverage](https://dev.to/moozzyk/the-paradox-of-test-coverage-1ipk)
-- [Developer Activity and Collaboration Analysis with Airbyte Quickstarts ft. Dagster, BigQuery, Google Colab, dbt and Terraform](https://dev.to/btkcodedev/developer-activity-and-collaboration-analysis-with-airbyte-quickstarts-ft-dagster-bigquery-google-colab-dbt-and-terraform-4184)
+- [Building with and Testing Rapyd&#39;s OpenAPI](https://dev.to/rapyd/building-with-and-testing-rapyds-openapi-17le)
+- [Delete automatic assignment of Public IPv4 addresses to Amazon EC2 instances using the AWS Systems Manager Automation runbook.](https://dev.to/nishikawaakira/delete-automatic-assignment-of-public-ipv4-addresses-to-amazon-ec2-instances-using-the-aws-systems-manager-automation-runbook-15h8)
+- [Unveiling the Power of TCP: Building Apps with Node.js&#39;s net Module](https://dev.to/devstoriesplayground/unveiling-the-power-of-tcp-building-apps-with-nodejss-net-module-2n8c)
+- [Spring MVC Interview Asked Questions](https://dev.to/vampirepapi/spring-mvc-interview-asked-questions-2d15)
+- [Using SQL editor to batch execute SQL files.&lpar;Taking MySQL &amp; SQLynx as examples&rpar;](https://dev.to/senkae_ll/using-sql-editors-to-batch-execute-sql-filestaking-mysql-sqlynx-as-examples-1p59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
