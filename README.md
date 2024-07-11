@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Pulumi And How To Use It](https://dev.to/env0/what-is-pulumi-and-how-to-use-it-1imc)
-- [Table Extraction and Processing from PDFs - A Tutorial](https://dev.to/shuveb_hussain/table-extraction-and-processing-from-pdfs-a-tutorial-1je7)
-- [Understanding RAID Levels: A Comprehensive Guide to RAID 0, 1, 5, 6, 10, and Beyond](https://dev.to/pltnvs/understanding-raid-levels-a-comprehensive-guide-to-raid-0-1-5-6-10-and-beyond-5948)
-- [Unlocking the Full Potential of GitGuardian: Empowering Developers In Code Security](https://dev.to/gitguardian/unlocking-the-full-potential-of-gitguardian-empowering-developers-in-code-security-k09)
-- [Sharing state between unrelated React components](https://dev.to/asmyshlyaev177/sharing-state-between-unrelated-react-components-4aia)
+- [Why Choose An Enterprise Software Development Company For Your Business](https://dev.to/adnanali007/why-choose-an-enterprise-software-development-company-for-your-business-5ejk)
+- [Metadata to actionable insights in Grafana: How to view Parseable metrics](https://dev.to/parseable/metadata-to-actionable-insights-in-grafana-how-to-view-parseable-metrics-3oa4)
+- [Generate Signable PDF Forms with React](https://dev.to/fileforge/generate-signable-pdf-forms-with-react-1ha6)
+- [Developer diary #13. Pomodoro life](https://dev.to/kiolk/developer-diary-13-pomodoro-life-38hc)
+- [Free Figma Brand Book Template 100+ Slides](https://dev.to/faisalgg/free-figma-brand-book-template-100-slides-4041)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
