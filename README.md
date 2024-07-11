@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Protect Source Code: Best Practices for NDAs](https://dev.to/mister_jerry_37e1ecf9b7f7/how-to-protect-source-code-best-practices-for-ndas-3nl1)
-- [how to show the app electronjs in the systemTray](https://dev.to/fwldom/how-to-show-the-app-electronjs-in-the-systemtray-4250)
-- [7 Essential Tips to Avoid Code Smells in Your Projects](https://dev.to/wallacefreitas/7-essential-tips-to-avoid-code-smells-in-your-projects-4fo8)
-- [Quiz Management System Project in Python | Django](https://dev.to/codzap/quiz-management-system-project-in-python-django-4f1j)
-- [The 21 Days Challenge: Pt. 1](https://dev.to/sxryadipta/the-21-days-challenge-pt-1-3cnk)
+- [Python RegEx Cheat Sheet](https://dev.to/volodyslav/python-regex-cheat-sheet-3d21)
+- [SQLite Built-In: A Game-Changer for Node.js Development](https://dev.to/pineapplegrits/sqlite-built-in-a-game-changer-for-nodejs-development-1c7h)
+- [Secure Your Server Access with the &#39;Configuring SSH Certificates for Secure Login&#39; Project](https://dev.to/labex/secure-your-server-access-with-the-configuring-ssh-certificates-for-secure-login-project-c9a)
+- [What is Docker? - Day 3 Of #100DaysOfFullStackChallnege](https://dev.to/zendeaditya/what-is-docker-day-3-of-100daysoffullstackchallnege-2igo)
+- [Building a Simple Load Balancer in Go](https://dev.to/marialuizaleitao/building-a-simple-load-balancer-in-go-pbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
