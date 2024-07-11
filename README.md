@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an Auto-Scaling Web Server Architecture](https://dev.to/aktran321/creating-an-auto-scaling-web-server-architecture-1i3k)
-- [About that time](https://dev.to/lostoneway/about-that-time-312i)
-- [Item 41: Use as interfaces marcadoras para definir tipos](https://dev.to/giselecoder/item-41-use-as-interfaces-marcadoras-para-definir-tipos-dac)
-- [[Italian] Trasforma le Eccezioni da Incubo a Opportunità con IExceptionHandler in ASP.NET Core!](https://dev.to/cosminirimescucom/trasforma-le-eccezioni-da-incubo-a-opportunita-con-iexceptionhandler-in-aspnet-core-7h4)
-- [Day 0: Hello, World!](https://dev.to/hafijul233/day-0-hello-world-3217)
+- [Angular 18.1: Template Local Variables with @let](https://dev.to/debba/angular-181-template-local-variables-with-let-3mh9)
+- [The Battle of Databases: SQL, PostgreSQL, MongoDB, and Redis Explored](https://dev.to/aquibpy/the-battle-of-databases-sql-postgresql-mongodb-and-redis-explored-jbc)
+- [Phase 3 sql, tuples, and object problems](https://dev.to/daniel_trejo14/phase-3-sql-tuples-and-object-problems-1k8d)
+- [Cities as Codebases](https://dev.to/youssefibrahim/cities-as-codebases-2mj9)
+- [Unlocking Protected PDFs](https://dev.to/dpaluy/unlocking-protected-pdfs-99b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
