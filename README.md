@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from MySQL to PostgreSQL](https://dev.to/mrpercival/migrating-from-mysql-to-postgresql-1oh7)
-- [Day 29 of 30 of JavaScript](https://dev.to/akshat0610/day-29-of-30-of-javascript-4fom)
-- [Django AllAuth Chapter 2 - How to install and configure Django AllAuth](https://dev.to/doctorserone/django-allauth-chapter-2-how-to-install-and-configure-django-allauth-513p)
-- [Unlock the &quot;Beauty and Joy of Computing&quot; with UC Berkeley&#39;s Captivating Computer Science Course! 🤖](https://dev.to/getvm/unlock-the-beauty-and-joy-of-computing-with-uc-berkeleys-captivating-computer-science-course-9p5)
-- [GIT Cheatsheet](https://dev.to/thrtn85dev/git-cheatsheet-429o)
+- [THE EVOLUTION OF CLOUD HOSTING!](https://dev.to/1hamzabek/the-evolution-of-cloud-hosting-5g33)
+- [Optimizing Web Design with CSS Variables](https://dev.to/code_passion/optimizing-web-design-with-css-variables-h23)
+- [What is Blockchain Testing?](https://dev.to/testscenario/what-is-blockchain-testing-18nb)
+- [Husky and lint-staged: Keeping Code Consistent](https://dev.to/joylee/automating-code-quality-checks-with-husky-and-lint-staged-4ckg)
+- [Learn React: Linux Env Setup](https://dev.to/ken2511/learn-react-linux-env-setup-bb1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
