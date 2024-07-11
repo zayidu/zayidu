@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Pattern #5 - Adapter Pattern](https://dev.to/superviz/design-pattern-5-adapter-pattern-4gif)
-- [How to Improve Java Application Performance](https://dev.to/renan_almeidasv/how-to-improve-java-application-performance-55if)
-- [How to add hover in markdown](https://dev.to/aryan015/how-to-add-hover-in-markdown-27lm)
-- [Semantic HTML And Accessibility](https://dev.to/james_kiboi_cf745aa43cf22/semantic-html-and-accessibility-2pp7)
-- [Types of casing in programming](https://dev.to/aryan015/types-of-casing-in-programming-2j0d)
+- [Creating an Auto-Scaling Web Server Architecture](https://dev.to/aktran321/creating-an-auto-scaling-web-server-architecture-1i3k)
+- [About that time](https://dev.to/lostoneway/about-that-time-312i)
+- [Item 41: Use as interfaces marcadoras para definir tipos](https://dev.to/giselecoder/item-41-use-as-interfaces-marcadoras-para-definir-tipos-dac)
+- [[Italian] Trasforma le Eccezioni da Incubo a Opportunità con IExceptionHandler in ASP.NET Core!](https://dev.to/cosminirimescucom/trasforma-le-eccezioni-da-incubo-a-opportunita-con-iexceptionhandler-in-aspnet-core-7h4)
+- [Day 0: Hello, World!](https://dev.to/hafijul233/day-0-hello-world-3217)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
