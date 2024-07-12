@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Revolutionizing tech and society through innovation and ethics.](https://dev.to/dainwi/ai-revolutionizing-tech-and-society-through-innovation-and-ethics-4pe4)
+- [Unleashing the Future: Blockchain, Web 3.0, and Solidity](https://dev.to/mukunzi_ndahirojames_d6a/unleashing-the-future-blockchain-web-30-and-solidity-23ml)
+- [Create a Next.js AI Chatbot App with Vercel AI SDK](https://dev.to/milu_franz/create-a-nextjs-ai-chatbot-app-with-vercel-ai-sdk-42je)
+- [⚡ MySecondApp - React Native with Expo &lpar;P5&rpar;- Custom Bottom Tabs Navigator](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p5-custom-bottom-tabs-navigator-fd0)
 - [Demo project](https://dev.to/ozcankara/demo-project-3d4b)
-- [Tutorial: Creación de un Proyecto Vue desde Cero e Integración con Bootstrap](https://dev.to/lesniergonzalez/tutorial-creacion-de-un-proyecto-vue-desde-cero-e-integracion-con-bootstrap-2l3m)
-- [What&#39;s New in API7 Enterprise: IAM for Granular Access Control](https://dev.to/api7/whats-new-in-api7-enterprise-iam-for-granular-access-control-2241)
-- [Meta](https://dev.to/alla_santoshpavankumar_/meta-f0j)
-- [Running Kubernetes locally with Kind and .NET 8 &lpar;plus a bonus with Lens&rpar;](https://dev.to/thomazperes/running-kubernetes-locally-with-kind-and-net-8-plus-a-bonus-with-lens-oi8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
