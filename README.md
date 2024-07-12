@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 essential tips to supercharge VS Code and code faster](https://dev.to/manojgohel/10-essential-tips-to-supercharge-vs-code-and-code-faster-5b0c)
-- [Creating Complex Animations with CSS](https://dev.to/tailwine/creating-complex-animations-with-css-4m96)
-- [Quine: Self replicating computer programs](https://dev.to/darshan-as/quine-self-replicating-computer-programs-1c5g)
-- [React: useEffect](https://dev.to/ken2511/react-useeffect-3jk4)
-- [This is not a presentation...&quot;](https://dev.to/viquitor/isso-nao-e-uma-apresentacao-eme)
+- [The Mathematics of Algorithms](https://dev.to/kalkwst/algorithmic-thinking-4n9p)
+- [Creating an Azure Virtual Network with Multiple Subnets](https://dev.to/wisegeorge1/creating-an-azure-virtual-network-with-multiple-subnets-4oko)
+- [Building a VS Code Extension to Fetch and Display Content from an API](https://dev.to/shriya_5/building-a-vs-code-extension-to-fetch-and-display-content-from-an-api-31f1)
+- [COMMON CLOUD SERVICES &amp; BENEFITS OF CLOUD COMPUTING](https://dev.to/1hamzabek/common-cloud-services-benefits-of-cloud-computing-1j5d)
+- [What are Vector Databases? A Beginner&#39;s Guide](https://dev.to/samkulkarni20/what-are-vector-databases-a-beginners-guide-iid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
