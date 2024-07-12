@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mathematics of Algorithms](https://dev.to/kalkwst/algorithmic-thinking-4n9p)
-- [Creating an Azure Virtual Network with Multiple Subnets](https://dev.to/wisegeorge1/creating-an-azure-virtual-network-with-multiple-subnets-4oko)
-- [Building a VS Code Extension to Fetch and Display Content from an API](https://dev.to/shriya_5/building-a-vs-code-extension-to-fetch-and-display-content-from-an-api-31f1)
-- [COMMON CLOUD SERVICES &amp; BENEFITS OF CLOUD COMPUTING](https://dev.to/1hamzabek/common-cloud-services-benefits-of-cloud-computing-1j5d)
-- [What are Vector Databases? A Beginner&#39;s Guide](https://dev.to/samkulkarni20/what-are-vector-databases-a-beginners-guide-iid)
+- [Installation of Python, Pycharm, Selenium and Web Drivers](https://dev.to/michael_chepala_7267688a0/installation-of-python-pycharm-selenium-and-web-drivers-509)
+- [Automatically rerun your GitHub workflow after failure](https://dev.to/logto/automatically-rerun-your-github-workflow-after-failure-26hi)
+- [Understanding SLIs and SLOs in Microservices Architecture with PowerShell Commands and Code Observability](https://dev.to/stackify/understanding-slis-and-slos-in-microservices-architecture-with-powershell-commands-and-code-observability-1c3a)
+- [Top 5 JavaScript Libraries for Building Interactive UI 🌟](https://dev.to/dipakahirav/top-5-javascript-libraries-for-building-interactive-ui-1lnd)
+- [Find All Top-level Folders from a List of Folders #eg10](https://dev.to/esproc_spl/find-all-top-level-folders-from-a-list-of-folders-eg10-1pee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
