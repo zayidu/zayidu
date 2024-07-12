@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #139: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-139-explica-este-codigo-python-37ic)
-- [Why Metrics Are Important](https://dev.to/litlyx-org/why-metrics-are-important-1fbc)
-- [Intersection of AI and Data Privacy](https://dev.to/calsoftinc/intersection-of-ai-and-data-privacy-2d0g)
-- [Agile Methodologies and Best Practices](https://dev.to/sumit_01/agile-methodologies-and-best-practices-34md)
-- [Tutorial and User Experience on Activating Dynamic Protection in Safeline WAF](https://dev.to/aeriewhole123/tutorial-and-user-experience-on-activating-dynamic-protection-in-safeline-waf-39g6)
+- [Exploring Transformer Networks: Revolutionizing Deep Learning](https://dev.to/monish3004/exploring-transformer-networks-revolutionizing-deep-learning-hmh)
+- [An easy intro to edge computing](https://dev.to/fastly/an-easy-intro-to-edge-computing-3ced)
+- [Keyboards for the win](https://dev.to/stacy_cash/keyboards-for-the-win-8bm)
+- [SEMANTIC HTML](https://dev.to/mercyline_obote_49c49bb3a/semantic-html-13gf)
+- [Variables and Mutability](https://dev.to/danielmwandiki/variables-and-mutability-4700)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
