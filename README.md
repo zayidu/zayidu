@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Game of Purpose] Day 55](https://dev.to/humberd/game-of-purpose-day-55-1j8k)
-- [Deploying a Django App to Kubernetes with Amazon ECR and EKS](https://dev.to/aktran321/deploying-a-django-app-to-kubernetes-with-amazon-ecr-and-eks-3736)
-- [Vulnerability Detection with Code Language Models: How Far Are We?](https://dev.to/mikeyoung44/vulnerability-detection-with-code-language-models-how-far-are-we-1c1i)
-- [Simulacra as Conscious Exotica](https://dev.to/mikeyoung44/simulacra-as-conscious-exotica-3f6i)
-- [Same Task, More Tokens: the Impact of Input Length on the Reasoning Performance of Large Language Models](https://dev.to/mikeyoung44/same-task-more-tokens-the-impact-of-input-length-on-the-reasoning-performance-of-large-language-models-2hin)
+- [Introduction to Functional Programming in JavaScript: Lenses #9](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-lenses-9-3217)
+- [Simplify CAPTCHA Implementation with EasyCaptchaJs! 🎉🔐](https://dev.to/hichemtab-tech/simplify-captcha-implementation-with-easycaptchajs-95f)
+- [BASIC CSS SELECTORS](https://dev.to/kemiowoyele1/basic-css-selectors-4182)
+- [Day 3 - Coming Soon](https://dev.to/ryoichihomma/day-3-coming-soon-1l32)
+- [Mastering Modern Web Design with Tailwind CSS](https://dev.to/irohomolola/mastering-modern-web-design-with-tailwind-css-hp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
