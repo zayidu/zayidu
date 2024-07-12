@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Revolutionizing tech and society through innovation and ethics.](https://dev.to/dainwi/ai-revolutionizing-tech-and-society-through-innovation-and-ethics-4pe4)
-- [Unleashing the Future: Blockchain, Web 3.0, and Solidity](https://dev.to/mukunzi_ndahirojames_d6a/unleashing-the-future-blockchain-web-30-and-solidity-23ml)
-- [Create a Next.js AI Chatbot App with Vercel AI SDK](https://dev.to/milu_franz/create-a-nextjs-ai-chatbot-app-with-vercel-ai-sdk-42je)
-- [⚡ MySecondApp - React Native with Expo &lpar;P5&rpar;- Custom Bottom Tabs Navigator](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p5-custom-bottom-tabs-navigator-fd0)
-- [Demo project](https://dev.to/ozcankara/demo-project-3d4b)
+- [Understanding Vite Flow and Structure in a React Project](https://dev.to/vyan/understanding-vite-flow-and-structure-in-a-react-project-2e84)
+- [Calculating Adaptive Threshold in OpenCV](https://dev.to/catheryn/calculating-adaptive-threshold-in-opencv-1hh3)
+- [HealthHub - Your Complete Wellness Companion 🏥💪](https://dev.to/sneha422/healthhub-your-complete-wellness-companion-37c1)
+- [Website Traffic Strategies: Comparing SEO and Content Promotion](https://dev.to/juddiy/website-traffic-strategies-comparing-seo-and-content-promotion-4m5b)
+- [Binary Images &amp; Image Thresholding](https://dev.to/catheryn/binary-images-image-thresholding-282)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
