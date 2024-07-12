@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Rebuild Yourself - an Intro to Nix Package Caches](https://dev.to/jetify/dont-rebuild-yourself-an-intro-to-nix-package-caches-4c4k)
-- [LG Calls for Developers to Participate in LG webOS Hackathon 2024](https://dev.to/sarabuechler/lg-calls-for-developers-to-participate-in-lg-webos-hackathon-2024-16io)
-- [Proactive Monitoring and Anomaly Detection in MySQL Server Performance](https://dev.to/shiviyer/proactive-monitoring-and-anomaly-detection-in-mysql-server-performance-5epk)
-- [United States History Game By Omer Adar](https://dev.to/mer_adar_ada76e5dafb3db6/united-states-history-exam-by-omer-adar-4kc6)
-- [Automatically Redirect Back Upon Failed Validation](https://dev.to/ghulam_mujtaba_247/automatically-redirect-back-upon-failed-validation-1b9d)
+- [[Game of Purpose] Day 55](https://dev.to/humberd/game-of-purpose-day-55-1j8k)
+- [Deploying a Django App to Kubernetes with Amazon ECR and EKS](https://dev.to/aktran321/deploying-a-django-app-to-kubernetes-with-amazon-ecr-and-eks-3736)
+- [Vulnerability Detection with Code Language Models: How Far Are We?](https://dev.to/mikeyoung44/vulnerability-detection-with-code-language-models-how-far-are-we-1c1i)
+- [Simulacra as Conscious Exotica](https://dev.to/mikeyoung44/simulacra-as-conscious-exotica-3f6i)
+- [Same Task, More Tokens: the Impact of Input Length on the Reasoning Performance of Large Language Models](https://dev.to/mikeyoung44/same-task-more-tokens-the-impact-of-input-length-on-the-reasoning-performance-of-large-language-models-2hin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
