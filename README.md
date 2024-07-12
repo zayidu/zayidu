@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to avoid one of the biggest risks in mobile security as an iOS developer](https://dev.to/alex_lotsu/how-to-avoid-one-of-the-biggest-risks-in-mobile-security-as-an-ios-developer-1hd)
-- [📝The Terraform Getting Started Guide 🚀](https://dev.to/tungbq/the-terraform-getting-started-guide-3oe2)
-- [REST vs. GraphQL: Choosing the Right API for Your Project](https://dev.to/wallacefreitas/rest-vs-graphql-choosing-the-right-api-for-your-project-4if9)
-- [HOW TO PUSH CODE FROM A LOCAL REPOSITORY TO A REMOTE REPOSITORY LIKE GITHUB USING GIT BASH](https://dev.to/kellyt/how-to-configure-and-push-a-resume-from-a-local-to-a-remote-repository-like-github-4jaj)
-- [Building an E-commerce Website Using HTML, CSS, and JavaScript](https://dev.to/arishn/building-an-e-commerce-website-using-html-css-and-javascript-2bm4)
+- [Custom signup redirection to external URL not working](https://dev.to/nazmul_alom_dfd38a4363246/custom-signup-redirection-to-external-url-not-working-260c)
+- [Getting Started with Your CDK TypeScript Project](https://dev.to/sates/getting-started-with-your-cdk-typescript-project-254e)
+- [How 2 Hours Cost Me Tens of Thousands of Dollars](https://dev.to/aslisachin/how-2-hours-cost-me-tens-of-thousands-of-dollars-194f)
+- [Mastering React Component Exports: A Comprehensive Guide for Developers](https://dev.to/ayon_ssp/mastering-react-component-exports-a-comprehensive-guide-for-developers-2553)
+- [HOW TO CREATE A VIRTUAL NETWORK WITH FOUR SUBNETS](https://dev.to/phillip_ajifowobaje_68724/how-to-create-a-virtual-network-with-four-subnets-2ph6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
