@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#24 — Repeat the Value of Each Cell N times According to the Value of the Neighboring cell](https://dev.to/judith677/24-repeat-the-value-of-each-cell-n-times-according-to-the-value-of-the-neighboring-cell-1fb4)
-- [How to Use the Gemini API: A Comprehensive Guide](https://dev.to/rajprajapati/how-to-use-the-gemini-api-a-comprehensive-guide-4bcg)
-- [Unit Tests &amp; Mocking: the bread and the butter](https://dev.to/ossan/unit-tests-mocking-the-bread-and-the-butter-1hap)
-- [Create a Spotify Playlist Generator with Arcjet Protection](https://dev.to/arindam_1729/create-a-spotify-playlist-generator-with-arcjet-protection-2j93)
-- [Day 2: Conquering Containers and Kubernetes on the Cloud!](https://dev.to/tutorialhelldev/day-2-conquering-containers-and-kubernetes-on-the-cloud-g6e)
+- [A Comprehensive Guide to Android NDK Development with Android Studio](https://dev.to/wetest/a-comprehensive-guide-to-android-ndk-development-with-android-studio-1d5c)
+- [What is GitHub Copilot: detailed overview](https://dev.to/abtosoftware/what-is-github-copilot-detailed-overview-20pk)
+- [Design a multi-tier decision-making system to determine the eligibility criteria for a scholarship.](https://dev.to/kavya-sahai-god/design-a-multi-tier-decision-making-system-to-determine-the-eligibility-criteria-for-a-scholarship-52m8)
+- [A New AI Tool for my Rust Open Source Project](https://dev.to/francescoxx/a-new-ai-tool-for-my-rust-open-source-project-5c52)
+- [Managing Kubernetes Clusters like a PRO](https://dev.to/raunaqness/managing-kubernetes-clusters-like-a-pro-10ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
