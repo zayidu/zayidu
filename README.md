@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Transformer Networks: Revolutionizing Deep Learning](https://dev.to/monish3004/exploring-transformer-networks-revolutionizing-deep-learning-hmh)
-- [An easy intro to edge computing](https://dev.to/fastly/an-easy-intro-to-edge-computing-3ced)
-- [Keyboards for the win](https://dev.to/stacy_cash/keyboards-for-the-win-8bm)
-- [SEMANTIC HTML](https://dev.to/mercyline_obote_49c49bb3a/semantic-html-13gf)
-- [Variables and Mutability](https://dev.to/danielmwandiki/variables-and-mutability-4700)
+- [Data Science? Never Heard Of It.](https://dev.to/cyrildotexe/data-science-never-heard-of-it-4epf)
+- [Zplots: Collaborative Maps with Scalable Drawing and Secure Data Storage on Stellar](https://dev.to/hugo_silva_c33f29f9a29ed4/zplot-collaborative-maps-with-scalable-drawing-and-secure-data-storage-on-stellar-3efg)
+- [Embrace Eventual Consistency](https://dev.to/woovi/embrace-eventual-consistency-50f4)
+- [Le saviez vous ? - ?? vs ||](https://dev.to/tontz/le-saviez-vous-vs--3c03)
+- [OpenTofu State File Encryption Overview](https://dev.to/spacelift/opentofu-state-file-encryption-overview-2gk8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
