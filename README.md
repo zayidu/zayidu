@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Functional Programming in JavaScript: Lenses #9](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-lenses-9-3217)
-- [Simplify CAPTCHA Implementation with EasyCaptchaJs! 🎉🔐](https://dev.to/hichemtab-tech/simplify-captcha-implementation-with-easycaptchajs-95f)
-- [BASIC CSS SELECTORS](https://dev.to/kemiowoyele1/basic-css-selectors-4182)
-- [Day 3 - Coming Soon](https://dev.to/ryoichihomma/day-3-coming-soon-1l32)
-- [Mastering Modern Web Design with Tailwind CSS](https://dev.to/irohomolola/mastering-modern-web-design-with-tailwind-css-hp8)
+- [Day 990 : Opportunity Knocks](https://dev.to/dwane/day-990-opportunity-knocks-59h2)
+- [Trending in Web Development in 2024](https://dev.to/byteom/trending-in-web-development-in-2024-5dj6)
+- [Tech Essentials Every CSE Student Should Know and Why They Matter](https://dev.to/byteom/tech-essentials-every-cse-student-should-know-and-why-they-matter-9pe)
+- [How to deploy refactored mainframe applications on AWS](https://dev.to/aws-builders/how-to-deploy-refactored-mainframe-applications-on-aws-5a6m)
+- [Mastering @Observable: Introduction to Swift Observation](https://dev.to/andy_kolean/mastering-observable-introduction-to-swift-observation-268)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
