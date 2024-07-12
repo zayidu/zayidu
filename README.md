@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: Learning HTML](https://dev.to/dgarcia1399/part-2-learning-html-ide)
-- [Solving the Pass The Pillow Problem in C# With 2 Easy Algorithms](https://dev.to/rk042/solving-the-pass-the-pillow-problem-in-c-with-2-easy-algorithms-4n9k)
-- [Review: Fifine Ampligame AM6 Condenser Mic](https://dev.to/nickytonline/review-fifine-ampligame-am6-condenser-mic-714)
-- [Mastering File Management with Ansible](https://dev.to/labex/mastering-file-management-with-ansible-593o)
-- [ข้อมูล JSON ใน PostgreSQL: โลกใหม่ของการจัดการข้อมูลบน Postgres](https://dev.to/everthing-was-postgres/khmuul-json-ain-postgresql-olkaihmkhngkaarcchadkaarkhmuulbn-postgres-3omk)
+- [10 essential tips to supercharge VS Code and code faster](https://dev.to/manojgohel/10-essential-tips-to-supercharge-vs-code-and-code-faster-5b0c)
+- [Creating Complex Animations with CSS](https://dev.to/tailwine/creating-complex-animations-with-css-4m96)
+- [Quine: Self replicating computer programs](https://dev.to/darshan-as/quine-self-replicating-computer-programs-1c5g)
+- [React: useEffect](https://dev.to/ken2511/react-useeffect-3jk4)
+- [This is not a presentation...&quot;](https://dev.to/viquitor/isso-nao-e-uma-apresentacao-eme)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
