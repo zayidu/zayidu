@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2gej)
-- [Create and Configure a Virtual Network with Four Subnets](https://dev.to/dera2024/how-to-create-and-configure-a-virtual-network-with-four-subnets-o40)
-- [Importance of HTML Semantics in SEO Optimization and Accessibility Improvements](https://dev.to/sharon_wangui_/importance-of-html-semantics-in-seo-optimization-and-accessibility-improvements-jk9)
-- [Task 3](https://dev.to/tamizh/task-3-56j1)
-- [Styling in React](https://dev.to/imparth/styling-in-react-594n)
+- [Transforming Simplicity: Adapting Linear Regression to Capture Complex Non-Linear Phenomena with NumPy](https://dev.to/moubarakmohame4/transforming-simplicity-adapting-linear-regression-to-capture-complex-non-linear-phenomena-with-numpy-5efn)
+- [My Journey into Mobile and Web Development](https://dev.to/jihed_benothmen/my-journey-into-mobile-and-web-development-2bhc)
+- [Databases Deconstructed: The Value of Data Lakhoues and Table Formats](https://dev.to/alexmercedcoder/databases-deconstructed-the-value-of-data-lakhoues-and-table-formats-32en)
+- [Singly Linked List using C++](https://dev.to/praneshchow/singly-linked-list-using-c-5008)
+- [Dive into Vector Search for Amazon MemoryDB: A Game-Changer for Enterprise Customers](https://dev.to/stevewoodard/dive-into-vector-search-for-amazon-memorydb-a-game-changer-for-enterprise-customers-5gl3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
