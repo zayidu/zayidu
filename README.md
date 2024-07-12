@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Era of LLM Agents: Next Big Wave in Knowledge Management](https://dev.to/ragavi_document360/the-era-of-llm-agents-next-big-wave-in-knowledge-management-3mm3)
-- [What is Offline Authentication](https://dev.to/blogginger/what-is-offline-authentication-4a37)
-- [RDP in Linux](https://dev.to/karunakaran/rdp-in-linux-8hd)
-- [#Learn](https://dev.to/farheen_sk/learn-222c)
-- [Advanced-Data Modeling Techniques for Big Data Applications](https://dev.to/anshul_kichara/advanced-data-modeling-techniques-for-big-data-applications-52me)
+- [#24 — Repeat the Value of Each Cell N times According to the Value of the Neighboring cell](https://dev.to/judith677/24-repeat-the-value-of-each-cell-n-times-according-to-the-value-of-the-neighboring-cell-1fb4)
+- [How to Use the Gemini API: A Comprehensive Guide](https://dev.to/rajprajapati/how-to-use-the-gemini-api-a-comprehensive-guide-4bcg)
+- [Unit Tests &amp; Mocking: the bread and the butter](https://dev.to/ossan/unit-tests-mocking-the-bread-and-the-butter-1hap)
+- [Create a Spotify Playlist Generator with Arcjet Protection](https://dev.to/arindam_1729/create-a-spotify-playlist-generator-with-arcjet-protection-2j93)
+- [Day 2: Conquering Containers and Kubernetes on the Cloud!](https://dev.to/tutorialhelldev/day-2-conquering-containers-and-kubernetes-on-the-cloud-g6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
