@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 WordPress page builders from a web developer&#39;s perspective](https://dev.to/ingosteinke/5-wordpress-page-builders-from-a-web-developers-perspective-259j)
-- [Docker Installation in Windows: Easy for beginners](https://dev.to/rakibtweets/docker-installation-in-windows-easy-for-beginners-1cca)
-- [How to explain to your family what you do 🤯🧠🧙🏼](https://dev.to/buildwebcrumbs/how-to-explain-to-your-family-what-you-do-1358)
-- [Angular Tutorial: Creating a Custom Loading Screen](https://dev.to/brianmtreese/angular-tutorial-creating-a-custom-loading-screen-54i6)
-- [Hospede seu site Django com arquivos estáticos na Vercel gratuitamente &lpar;Novo Método&rpar;](https://dev.to/aghastygd/hospede-seu-site-django-com-arquivos-estaticos-na-vercel-gratuitamente-novo-metodo-339p)
+- [Don&#39;t Rebuild Yourself - an Intro to Nix Package Caches](https://dev.to/jetify/dont-rebuild-yourself-an-intro-to-nix-package-caches-4c4k)
+- [LG Calls for Developers to Participate in LG webOS Hackathon 2024](https://dev.to/sarabuechler/lg-calls-for-developers-to-participate-in-lg-webos-hackathon-2024-16io)
+- [Proactive Monitoring and Anomaly Detection in MySQL Server Performance](https://dev.to/shiviyer/proactive-monitoring-and-anomaly-detection-in-mysql-server-performance-5epk)
+- [United States History Game By Omer Adar](https://dev.to/mer_adar_ada76e5dafb3db6/united-states-history-exam-by-omer-adar-4kc6)
+- [Automatically Redirect Back Upon Failed Validation](https://dev.to/ghulam_mujtaba_247/automatically-redirect-back-upon-failed-validation-1b9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
