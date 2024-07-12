@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transforming Simplicity: Adapting Linear Regression to Capture Complex Non-Linear Phenomena with NumPy](https://dev.to/moubarakmohame4/transforming-simplicity-adapting-linear-regression-to-capture-complex-non-linear-phenomena-with-numpy-5efn)
-- [My Journey into Mobile and Web Development](https://dev.to/jihed_benothmen/my-journey-into-mobile-and-web-development-2bhc)
-- [Databases Deconstructed: The Value of Data Lakhoues and Table Formats](https://dev.to/alexmercedcoder/databases-deconstructed-the-value-of-data-lakhoues-and-table-formats-32en)
-- [Singly Linked List using C++](https://dev.to/praneshchow/singly-linked-list-using-c-5008)
-- [Dive into Vector Search for Amazon MemoryDB: A Game-Changer for Enterprise Customers](https://dev.to/stevewoodard/dive-into-vector-search-for-amazon-memorydb-a-game-changer-for-enterprise-customers-5gl3)
+- [Top 3 JavaScript Concepts Every Developer Should Know](https://dev.to/devstoriesplayground/top-3-javascript-concepts-every-developer-should-know-5bjm)
+- [Create File Upload UI in Next.js with Shadcn UI](https://dev.to/aaronnfs/create-file-upload-ui-in-nextjs-with-shadcn-ui-1pja)
+- [Creating Azure Virtual Network with 4 Subnets Using the Address Space 192.148.30.0/26](https://dev.to/laoluafolami/creating-azure-virtual-network-with-4-subnets-using-the-address-space-19214830026-46ii)
+- [Part 3: How to Create a Book App with React.js - A Step-by-Step Tutorial.](https://dev.to/ijay/part-3-how-to-create-a-book-app-with-reactjs-a-step-by-step-tutorial-5ff5)
+- [Dive into the Depths of Deep Learning: Comprehensive Online Tutorials](https://dev.to/getvm/dive-into-the-depths-of-deep-learning-comprehensive-online-tutorials-3e05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
