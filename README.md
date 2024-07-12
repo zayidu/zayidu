@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New HTML &lt;dialog&gt; tag: An absolute game changer](https://dev.to/safdarali/new-html-tag-an-absolute-game-changer-3mg4)
-- [What is WebRTC protocol?](https://dev.to/alakkadshaw/what-is-webrtc-protocol-3jd5)
-- [The Ongoing War Between CJS &amp; ESM: A Tale of Two Module Systems](https://dev.to/greenteaisgreat/the-ongoing-war-between-cjs-esm-a-tale-of-two-module-systems-1jdg)
-- [Want to get started as a Data Engineer](https://dev.to/johnscode/want-to-get-started-as-a-data-engineer-1amn)
-- [Running Tests in GitLab CI: From Zero to Pipeline](https://dev.to/thiagoematos/running-tests-in-gitlab-ci-from-zero-to-pipeline-5ece)
+- [Running Kubernetes locally with Kind and .NET 8 &lpar;plus a bonus with Lens&rpar;](https://dev.to/thomazperes/running-kubernetes-locally-with-kind-and-net-8-plus-a-bonus-with-lens-oi8)
+- [Exploring the Internet Computer Protocol &lpar;ICP&rpar;](https://dev.to/kartikmehta8/exploring-the-internet-computer-protocol-icp-4bp8)
+- [Recursion vs Loop: a low-level analysis](https://dev.to/lucaslealllc/recursion-vs-loop-a-low-level-analysis-4akc)
+- [Optimizing Data Manipulation with JavaScript&#39;s reduce Method](https://dev.to/ayoashy/optimizing-data-manipulation-with-javascripts-reduce-method-e2l)
+- [Implementando Teste Contínuo: Garantindo Qualidade em Cada Commit](https://dev.to/womakerscode/implementando-teste-continuo-garantindo-qualidade-em-cada-commit-3bon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
