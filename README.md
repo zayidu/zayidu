@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tips on how to Pass Your AWS Advanced Networking Specialty Exam ANS-C01](https://dev.to/aws-builders/tips-on-how-to-pass-your-aws-advanced-networking-specialty-exam-ans-c01-55md)
-- [Sets and Maps](https://dev.to/paulike/sets-and-maps-2pjp)
-- [Responsive Web Design: Techniques Using Media Queries, Viewport Units, and Fluid Layouts](https://dev.to/mdhassanpatwary/responsive-web-design-techniques-using-media-queries-viewport-units-and-fluid-layouts-31el)
-- [Seamlessly Transform Your Smart Phone into a Second Screen for FREE with Zero Configuration: Experience Seamless Multitasking!](https://dev.to/smy/seamlessly-transform-your-smart-phone-into-a-second-screen-for-free-with-zero-configuration-experience-seamless-multitasking-48bk)
-- [Latest Newsletter: This is Funworld &lpar;Issue #172&rpar;](https://dev.to/mjgs/latest-newsletter-this-is-funworld-issue-172-2hcd)
+- [asdf &lpar;what?? 🤔&rpar;](https://dev.to/mainendra/asdf-what--2p20)
+- [Tailwind Commands Cheat Sheet](https://dev.to/madgan95/tailwind-commands-cheat-sheet-2mb3)
+- [Luminous Wicks: Enchanting Aromas and Elegant Candles with Wix Studio](https://dev.to/syed_nasreen_ebac74a250d1/luminous-wicks-enchanting-aromas-and-elegant-candles-with-wix-studio-1da9)
+- [How SQL Enhances Your Data Science Skills](https://dev.to/mesfin_t/how-sql-enhances-your-data-science-skills-bkl)
+- [Linear Regression, Regression: Supervised Machine Learning](https://dev.to/harshm03/linear-regression-regression-supervised-machine-learning-3mek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
