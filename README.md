@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Emailing Hacks you might want to know - 🥶 Cold Marketing](https://dev.to/1geek/emailing-hacks-you-might-want-to-know-cold-marketing-4fdl)
+- [# Installing Laravel 11: A Step-by-Step Guide](https://dev.to/jsandaruwan/-installing-laravel-11-a-step-by-step-guide-2mkj)
+- [AWS GuardDuty: The Unstoppable Sentinel - Mastering Cloud Threat Detection with AI-Powered Vigilance](https://dev.to/ikoh_sylva/aws-guardduty-the-unstoppable-sentinel-mastering-cloud-threat-detection-with-ai-powered-vigilance-8a7)
+- [Smart Subnet Allocation: Optimizing Your AWS Infrastructure with Terraform](https://dev.to/suvankit/smart-subnet-allocation-optimizing-your-aws-infrastructure-with-terraform-5c90)
 - [O que é Design system e por que usar](https://dev.to/wps13/o-que-e-design-system-e-por-que-usar-4dij)
-- [Be an Energy Radiator: Ignite Your Influence](https://dev.to/rishiabee/be-an-energy-radiator-ignite-your-influence-48ke)
-- [Oracle Database Object List](https://dev.to/nabhaas/oracle-database-object-list-1bko)
-- [Next-Level Web Applications with On-Device Generative AI: A Look at Google Chrome&#39;s Built-In Gemini Nano LLM](https://dev.to/ptvty/next-level-web-applications-with-on-device-generative-ai-a-look-at-google-chromes-built-in-gemini-nano-llm-4bng)
-- [How the internet works](https://dev.to/jideotetic/how-the-internet-works-4ocd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
