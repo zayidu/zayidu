@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ Browser Extensions](https://dev.to/dhrn/browser-extensions-4oac)
-- [Code Smell 258 - Secrets in Code](https://dev.to/mcsee/code-smell-258-secrets-in-code-1pg2)
-- [Develop and Test AWS S3 Applications Locally with Node.js and LocalStack](https://dev.to/srishtikprasad/develop-and-test-aws-s3-applications-locally-with-nodejs-and-localstack-5efb)
-- [🚀 How to Start a Discord Bot Using Node.js with Google Bard API 🤖](https://dev.to/mrimran/how-to-start-a-discord-bot-using-nodejs-with-google-bard-api-b5o)
-- [How to Build Dynamic Grafana Dashboards and Visualize Open-Source Community Data](https://dev.to/justlorain/how-to-build-dynamic-grafana-dashboards-and-visualize-open-source-community-data-4caa)
+- [10 essential tips to supercharge VS Code and code faster &lpar;0 to 100&rpar;](https://dev.to/safdarali/10-essential-tips-to-supercharge-vs-code-and-code-faster-0-to-100-21b4)
+- [Creating a Simple Real-Time Chat Application with Socket.IO](https://dev.to/sanx/creating-a-simple-real-time-chat-application-with-socketio-33j2)
+- [Understanding Dependencies in Node.js Projects](https://dev.to/tushar_pal/understanding-dependencies-in-nodejs-projects-44i3)
+- [100 Days of Cloud: Day 3 - Dockerizing a Go App for Dita Daystar &lpar;Apologies for the Delay!&rpar;](https://dev.to/tutorialhelldev/100-days-of-cloud-day-3-dockerizing-a-go-app-for-dita-daystar-apologies-for-the-delay-1hgi)
+- [Elevate Your MySQL Mastery with the &#39;MySQL Practice Challenges&#39; Course](https://dev.to/labex/elevate-your-mysql-mastery-with-the-mysql-practice-challenges-course-3obl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
