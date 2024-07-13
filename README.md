@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 essential tips to supercharge VS Code and code faster &lpar;0 to 100&rpar;](https://dev.to/safdarali/10-essential-tips-to-supercharge-vs-code-and-code-faster-0-to-100-21b4)
-- [Creating a Simple Real-Time Chat Application with Socket.IO](https://dev.to/sanx/creating-a-simple-real-time-chat-application-with-socketio-33j2)
-- [Understanding Dependencies in Node.js Projects](https://dev.to/tushar_pal/understanding-dependencies-in-nodejs-projects-44i3)
-- [100 Days of Cloud: Day 3 - Dockerizing a Go App for Dita Daystar &lpar;Apologies for the Delay!&rpar;](https://dev.to/tutorialhelldev/100-days-of-cloud-day-3-dockerizing-a-go-app-for-dita-daystar-apologies-for-the-delay-1hgi)
-- [Elevate Your MySQL Mastery with the &#39;MySQL Practice Challenges&#39; Course](https://dev.to/labex/elevate-your-mysql-mastery-with-the-mysql-practice-challenges-course-3obl)
+- [O que é Design system e por que usar](https://dev.to/wps13/o-que-e-design-system-e-por-que-usar-4dij)
+- [Be an Energy Radiator: Ignite Your Influence](https://dev.to/rishiabee/be-an-energy-radiator-ignite-your-influence-48ke)
+- [Oracle Database Object List](https://dev.to/nabhaas/oracle-database-object-list-1bko)
+- [Next-Level Web Applications with On-Device Generative AI: A Look at Google Chrome&#39;s Built-In Gemini Nano LLM](https://dev.to/ptvty/next-level-web-applications-with-on-device-generative-ai-a-look-at-google-chromes-built-in-gemini-nano-llm-4bng)
+- [How the internet works](https://dev.to/jideotetic/how-the-internet-works-4ocd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
