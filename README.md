@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding and Fixing &quot;Object Reference Not Set to an Instance of an Object&quot; in C#](https://dev.to/iamcymentho/understanding-and-fixing-object-reference-not-set-to-an-instance-of-an-object-in-c-2794)
-- [Undress AI Tool: An Advanced Guide for Professional Photographers](https://dev.to/gogato2980/undress-ai-tool-an-advanced-guide-for-professional-photographers-2bpo)
-- [Cryptomator: end-to-end encrypt files in any cloud](https://dev.to/andreagrandi/cryptomator-end-to-end-encrypt-files-in-any-cloud-54kc)
-- [Extending Prisma ORM with Custom Middleware: Logging, Validation, and Security](https://dev.to/emal_isuranga_2d9d79931d7/extending-prisma-orm-with-custom-middleware-logging-validation-and-security-29cc)
-- [self vs Self in Swift Programming](https://dev.to/vinaykumar0339/self-vs-self-in-swift-programming-fhg)
+- [🛠️ Browser Extensions](https://dev.to/dhrn/browser-extensions-4oac)
+- [Code Smell 258 - Secrets in Code](https://dev.to/mcsee/code-smell-258-secrets-in-code-1pg2)
+- [Develop and Test AWS S3 Applications Locally with Node.js and LocalStack](https://dev.to/srishtikprasad/develop-and-test-aws-s3-applications-locally-with-nodejs-and-localstack-5efb)
+- [🚀 How to Start a Discord Bot Using Node.js with Google Bard API 🤖](https://dev.to/mrimran/how-to-start-a-discord-bot-using-nodejs-with-google-bard-api-b5o)
+- [How to Build Dynamic Grafana Dashboards and Visualize Open-Source Community Data](https://dev.to/justlorain/how-to-build-dynamic-grafana-dashboards-and-visualize-open-source-community-data-4caa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
