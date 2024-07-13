@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Horizontal Navigation Bar Using CSS](https://dev.to/arsalanmee/how-to-create-a-horizontal-navigation-bar-using-css-1cdm)
-- [Data Migration from Digital Ocean Space to AWS S3](https://dev.to/sammy_cloud/data-migration-from-digital-ocean-space-to-aws-s3-4m85)
-- [Automate text Message&lpar;SMS&rpar; notification using SNS and AWS lambda](https://dev.to/rashmitha_v_d0cfc20ba7152/automate-text-messagesms-notification-using-sns-and-aws-lambda-26hg)
-- [Just Got Back](https://dev.to/theholyspirit/just-got-back-1kln)
-- [Real-Time 3D: My Journey in Building a C++ OpenGL Rendering Engine](https://dev.to/yuvsouce/real-time-3d-my-journey-in-building-a-c-opengl-rendering-engine-2bj4)
+- [Hello](https://dev.to/zubair_abdullah/hello-1ilm)
+- [From Zero to K8s Hero: 5 Must-Have Tools for Kubernetes](https://dev.to/cloudnative_eng/from-zero-to-k8s-hero-5-must-have-tools-for-kubernetes-4hia)
+- [How to add new Node version to Laragon](https://dev.to/fullstackhardev/how-to-add-new-node-version-to-laragon-5hjh)
+- [WordPress 6.6: What’s new for developers? news in july 10th](https://dev.to/hub24/wordpress-66-whats-new-for-developers-news-in-july-10th-2kk9)
+- [What is DTO? Why use?](https://dev.to/jeanv0/what-is-dto-why-use-5foj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
