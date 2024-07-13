@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 990 : Opportunity Knocks](https://dev.to/dwane/day-990-opportunity-knocks-59h2)
-- [Trending in Web Development in 2024](https://dev.to/byteom/trending-in-web-development-in-2024-5dj6)
-- [Tech Essentials Every CSE Student Should Know and Why They Matter](https://dev.to/byteom/tech-essentials-every-cse-student-should-know-and-why-they-matter-9pe)
-- [How to deploy refactored mainframe applications on AWS](https://dev.to/aws-builders/how-to-deploy-refactored-mainframe-applications-on-aws-5a6m)
-- [Mastering @Observable: Introduction to Swift Observation](https://dev.to/andy_kolean/mastering-observable-introduction-to-swift-observation-268)
+- [Mastering Python&#39;s itertools Module](https://dev.to/kartikmehta8/mastering-pythons-itertools-module-4h7m)
+- [ShopEase](https://dev.to/sweta_kangurisonulkar_/shopease-21ii)
+- [🚀 Next.js Starter: Kickstart Your Next.js Project with Ease](https://dev.to/imevanc/nextjs-starter-kickstart-your-nextjs-project-with-ease-449b)
+- [BUTLER MACHINE EXPLOIT WALKTHROUGH](https://dev.to/babsarena/butler-machine-exploit-walkthrough-5cfb)
+- [SECURING NETWORK TRAFFIC USING NETWORK SECURITY GROUP](https://dev.to/aizeon/securing-network-traffic-using-network-security-group-44k5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
