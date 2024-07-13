@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I started with the Power Platform - My first powerapps application experience](https://dev.to/puskark4/how-i-started-with-the-power-platform-my-first-powerapps-application-experience-2i3c)
-- [Prisoner or Architect: The Mindset of a Coder](https://dev.to/makowskid/prisoner-or-architect-the-mindset-of-a-coder-4kdo)
-- [BitPower Security](https://dev.to/_046dbf5471eab6b9306bb6/bitpower-security-4jfm)
-- [Three important steps before jumping to the code](https://dev.to/stebunovd/three-important-steps-before-jumping-to-the-code-4j7i)
-- [FHIR crud app using aspnet core 8.0 and sql server](https://dev.to/mannawar/fhir-crud-app-using-aspnet-core-80-and-sql-server-59p1)
+- [Tips on how to Pass Your AWS Advanced Networking Specialty Exam ANS-C01](https://dev.to/aws-builders/tips-on-how-to-pass-your-aws-advanced-networking-specialty-exam-ans-c01-55md)
+- [Sets and Maps](https://dev.to/paulike/sets-and-maps-2pjp)
+- [Responsive Web Design: Techniques Using Media Queries, Viewport Units, and Fluid Layouts](https://dev.to/mdhassanpatwary/responsive-web-design-techniques-using-media-queries-viewport-units-and-fluid-layouts-31el)
+- [Seamlessly Transform Your Smart Phone into a Second Screen for FREE with Zero Configuration: Experience Seamless Multitasking!](https://dev.to/smy/seamlessly-transform-your-smart-phone-into-a-second-screen-for-free-with-zero-configuration-experience-seamless-multitasking-48bk)
+- [Latest Newsletter: This is Funworld &lpar;Issue #172&rpar;](https://dev.to/mjgs/latest-newsletter-this-is-funworld-issue-172-2hcd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
