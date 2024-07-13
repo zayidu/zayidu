@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Web Performance with Image Sprites](https://dev.to/mdhassanpatwary/enhancing-web-performance-with-image-sprites-54n5)
-- [Boost Engagement with Katorymnd Reaction Process Plugin](https://dev.to/katorymnddev/boost-engagement-with-katorymnd-reaction-process-a-wordpress-5510)
-- [Advanced Techniques for Detecting and Preventing JavaScript Injection Attacks](https://dev.to/rigalpatel001/advanced-techniques-for-detecting-and-preventing-javascript-injection-attacks-4n61)
-- [O Laço do-while em Java](https://dev.to/devsjavagirls/o-laco-do-while-em-java-1io3)
-- [O Laço while em Java](https://dev.to/devsjavagirls/o-laco-while-em-java-113o)
+- [New Css Media Query Syntax&lpar;Media Query Level 4 or MQ4&rpar;](https://dev.to/e-tech/new-css-media-query-syntaxmedia-query-level-4-or-mq4-2ha3)
+- [Creating a CSS Dark/Light Mode Switcher](https://dev.to/mdhassanpatwary/creating-a-css-darklight-mode-switcher-26cd)
+- [Key Linux Commands to Learn: Top 49 for Normal Users](https://dev.to/mahir_dasare_333/key-linux-commands-to-learn-top-49-for-normal-users-3k1e)
+- [Setting Up Traefik and mkcert for Local Development](https://dev.to/agusrdz/setting-up-traefik-and-mkcert-for-local-development-48j5)
+- [🚀 Unlock Your Business Potential with Custom Software Development!](https://dev.to/cygnismedia/unlock-your-business-potential-with-custom-software-development-4icm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
