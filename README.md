@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #140: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-140-explica-este-codigo-python-cfn)
-- [Introduction to Cloud☁ Computing and AWS](https://dev.to/noorscript/introduction-to-cloud-computing-and-aws-29il)
-- [Testing Components In Angular: NO ERRORS SCHEMA, Stub Components, and NgMocks](https://dev.to/this-is-angular/testing-components-in-angular-no-errors-schema-stub-components-and-ngmocks-2bih)
-- [Understanding the Difference Between `Array&lt;T&gt;` and `T[]` in TypeScript](https://dev.to/cole_ruche/understanding-the-difference-between-array-and-t-in-typescript-55g3)
-- [Empowering Your Developer Community: A Deep Dive into Peer-to-Peer Knowledge Sharing and Collaboration](https://dev.to/swati1267/empowering-your-developer-community-a-deep-dive-into-peer-to-peer-knowledge-sharing-and-collaboration-3mll)
+- [How I started with the Power Platform - My first powerapps application experience](https://dev.to/puskark4/how-i-started-with-the-power-platform-my-first-powerapps-application-experience-2i3c)
+- [Prisoner or Architect: The Mindset of a Coder](https://dev.to/makowskid/prisoner-or-architect-the-mindset-of-a-coder-4kdo)
+- [BitPower Security](https://dev.to/_046dbf5471eab6b9306bb6/bitpower-security-4jfm)
+- [Three important steps before jumping to the code](https://dev.to/stebunovd/three-important-steps-before-jumping-to-the-code-4j7i)
+- [FHIR crud app using aspnet core 8.0 and sql server](https://dev.to/mannawar/fhir-crud-app-using-aspnet-core-80-and-sql-server-59p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
