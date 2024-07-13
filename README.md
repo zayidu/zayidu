@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing React App Using Vitest &amp; React Testing Library](https://dev.to/zaarza/testing-react-app-using-vitest-react-testing-library-457j)
-- [Automate Gitlab Repository Settings with Terraform](https://dev.to/cschindlbeck/gitlab-repository-manager-1056)
-- [Day 12 of 100 Days of Code](https://dev.to/jacobsternx/day-12-of-100-days-of-code-2hn8)
-- [How I Lift My Business Site With a Bunch of &quot;Code Convincion&quot;](https://dev.to/eshaka/how-i-lift-my-business-site-with-a-bunch-of-code-convincion-1po1)
-- [New Css Media Query Syntax&lpar;Media Query Level 4 or MQ4&rpar;](https://dev.to/e-tech/new-css-media-query-syntaxmedia-query-level-4-or-mq4-2ha3)
+- [TensorFlow for Beginners: Your First Neural Network](https://dev.to/rajprajapati/tensorflow-for-beginners-your-first-neural-network-2kjm)
+- [🥳Entering into 5K🔥](https://dev.to/swhabitation/entering-into-5k-24an)
+- [Know Backend of Stake’s Mine Game](https://dev.to/hemantcode625/know-backend-of-stakes-mine-game-2d11)
+- [Game Zone - gaming community](https://dev.to/pains_arch/game-zone-gaming-community-3n31)
+- [Portfolio v2.0 🚀](https://dev.to/shinnthant2004/portfolio-v20-52j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
