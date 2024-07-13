@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Emailing Hacks you might want to know - 🥶 Cold Marketing](https://dev.to/1geek/emailing-hacks-you-might-want-to-know-cold-marketing-4fdl)
-- [# Installing Laravel 11: A Step-by-Step Guide](https://dev.to/jsandaruwan/-installing-laravel-11-a-step-by-step-guide-2mkj)
-- [AWS GuardDuty: The Unstoppable Sentinel - Mastering Cloud Threat Detection with AI-Powered Vigilance](https://dev.to/ikoh_sylva/aws-guardduty-the-unstoppable-sentinel-mastering-cloud-threat-detection-with-ai-powered-vigilance-8a7)
-- [Smart Subnet Allocation: Optimizing Your AWS Infrastructure with Terraform](https://dev.to/suvankit/smart-subnet-allocation-optimizing-your-aws-infrastructure-with-terraform-5c90)
-- [O que é Design system e por que usar](https://dev.to/wps13/o-que-e-design-system-e-por-que-usar-4dij)
+- [How to Create a Horizontal Navigation Bar Using CSS](https://dev.to/arsalanmee/how-to-create-a-horizontal-navigation-bar-using-css-1cdm)
+- [Data Migration from Digital Ocean Space to AWS S3](https://dev.to/sammy_cloud/data-migration-from-digital-ocean-space-to-aws-s3-4m85)
+- [Automate text Message&lpar;SMS&rpar; notification using SNS and AWS lambda](https://dev.to/rashmitha_v_d0cfc20ba7152/automate-text-messagesms-notification-using-sns-and-aws-lambda-26hg)
+- [Just Got Back](https://dev.to/theholyspirit/just-got-back-1kln)
+- [Real-Time 3D: My Journey in Building a C++ OpenGL Rendering Engine](https://dev.to/yuvsouce/real-time-3d-my-journey-in-building-a-c-opengl-rendering-engine-2bj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
