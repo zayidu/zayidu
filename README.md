@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Button Morph Animation](https://dev.to/tom_ford_6543e5db41fdbb68/button-morph-animation-2gjk)
-- [Turn the Table](https://dev.to/tom_ford_6543e5db41fdbb68/turn-the-table-pc4)
-- [Key Skills for Tech Freelancers](https://dev.to/baaraku/key-skills-for-tech-freelancers-3ooe)
-- [Optimizing Performance in React Applications](https://dev.to/khalidkhankakar/optimizing-performance-in-react-applications-59k0)
-- [[Book Review] Beej&#39;s Guide to Network Programming](https://dev.to/uponthesky/book-review-beejs-guide-to-network-programming-9mg)
+- [Crafting React Components: Readability, Reusability, and Efficiency](https://dev.to/vyan/crafting-react-components-readability-reusability-and-efficiency-6a1)
+- [Creating API Documentation with Swagger on NodeJS](https://dev.to/chauhoangminhnguyen/creating-api-documentation-with-swagger-on-nodejs-4da3)
+- [Bitmasking em Go: Uma Técnica Poderosa para Gerenciamento de Opções](https://dev.to/leonancarvalho/bitmasking-em-go-uma-tecnica-poderosa-para-gerenciamento-de-opcoes-2idb)
+- [Achieving a 3x reduction in React Bundle size: A case study](https://dev.to/amaggi/achieving-a-3x-reduction-in-react-bundle-size-a-case-study-30l1)
+- [Day 10 &amp; 11 of my Devops Journey: Kubernetes Networking Fundamentals - Challenges and Solutions](https://dev.to/arbythecoder/day-10-11-of-my-devops-journey-kubernetes-networking-fundamentals-challenges-and-solutions-3c59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
