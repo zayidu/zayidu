@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Next.Js configuration](https://dev.to/itzsrikanth/my-nextjs-configuration-5fbh)
-- [Types of Cloud Computing](https://dev.to/1hamzabek/types-of-cloud-computing-4965)
-- [From Zero to Hero: Build Full stack Food Delivery App using Next.js and PostgreSQL](https://dev.to/lakshmananarumugam/from-zero-to-hero-build-full-stack-food-delivery-app-using-nextjs-and-postgresql-4ebo)
-- [Hello, dev community, I&#39;m joining just now.](https://dev.to/ahmedmshakil/hello-dev-community-im-joining-just-now-2g6a)
-- [AWS Aurora Global Database](https://dev.to/dm8ry/aws-aurora-36na)
+- [Enhancing Web Performance with Image Sprites](https://dev.to/mdhassanpatwary/enhancing-web-performance-with-image-sprites-54n5)
+- [Boost Engagement with Katorymnd Reaction Process Plugin](https://dev.to/katorymnddev/boost-engagement-with-katorymnd-reaction-process-a-wordpress-5510)
+- [Advanced Techniques for Detecting and Preventing JavaScript Injection Attacks](https://dev.to/rigalpatel001/advanced-techniques-for-detecting-and-preventing-javascript-injection-attacks-4n61)
+- [O Laço do-while em Java](https://dev.to/devsjavagirls/o-laco-do-while-em-java-1io3)
+- [O Laço while em Java](https://dev.to/devsjavagirls/o-laco-while-em-java-113o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
