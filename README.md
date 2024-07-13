@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [asdf &lpar;what?? 🤔&rpar;](https://dev.to/mainendra/asdf-what--2p20)
-- [Tailwind Commands Cheat Sheet](https://dev.to/madgan95/tailwind-commands-cheat-sheet-2mb3)
-- [Luminous Wicks: Enchanting Aromas and Elegant Candles with Wix Studio](https://dev.to/syed_nasreen_ebac74a250d1/luminous-wicks-enchanting-aromas-and-elegant-candles-with-wix-studio-1da9)
-- [How SQL Enhances Your Data Science Skills](https://dev.to/mesfin_t/how-sql-enhances-your-data-science-skills-bkl)
-- [Linear Regression, Regression: Supervised Machine Learning](https://dev.to/harshm03/linear-regression-regression-supervised-machine-learning-3mek)
+- [Front-End Development Tools Installation and Configuration &lpar;Mac&rpar;](https://dev.to/lunamiller/front-end-development-tools-installation-and-configuration-mac-5hbe)
+- [7 New JavaScript Set Methods](https://dev.to/zacharylee/7-new-javascript-set-methods-4737)
+- [Resolving Module Version Chaos: Locking Down Dependencies in Python Projects with Poetry](https://dev.to/ma7dev/resolving-module-version-chaos-locking-down-dependencies-in-python-projects-with-poetry-4mlf)
+- [Case Study: Counting Keywords](https://dev.to/paulike/case-study-counting-keywords-4kfa)
+- [Comparing the Performance of Sets and Lists](https://dev.to/paulike/comparing-the-performance-of-sets-and-lists-3di7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
