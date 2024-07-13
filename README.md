@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Oops at 28 Jun 2024](https://dev.to/teminian/oops-at-28-jun-2024-ead)
-- [You&#39;re facing conflicts with your boss. How can you resolve them without harming your relationship?](https://dev.to/gourav_sharma_00/youre-facing-conflicts-with-your-boss-how-can-you-resolve-them-without-harming-your-relationship-4bnc)
-- [How to Create and Publish a WordPress Plugin](https://dev.to/sh20raj/how-to-create-and-publish-a-wordpress-plugin-3bbi)
-- [Array Without Last Element | Programming Tutorials | Lab](https://dev.to/labex/array-without-last-element-programming-tutorials-lab-29d0)
-- [Python : Intro](https://dev.to/jokergosha/python-intro-3njm)
+- [Node Docker App](https://dev.to/nisharga_kabir/node-docker-app-2f1e)
+- [Unlock the Power of Node.js with Design Patterns 🚀](https://dev.to/getvm/unlock-the-power-of-nodejs-with-design-patterns-5a14)
+- [Creating an Azure Virtual Network with Four Subnets &lpar;192.148.30.0/26&rpar;](https://dev.to/adah_okwara_3c43c95a89a2e/creating-an-azure-virtual-network-with-four-subnets-19214830026-478l)
+- [Create an Azure Virtual Network &lpar;VNet&rpar;](https://dev.to/celestina_odili/create-an-azure-virtual-network-vnet-48fp)
+- [How Elite Engg. Teams Deploy 208X More Frequently Compared to Us Mere Mortals?](https://dev.to/middleware/how-elite-engg-teams-deploy-208x-more-frequently-compared-to-us-mere-mortals-1gjp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
