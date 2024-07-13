@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Node Docker App](https://dev.to/nisharga_kabir/node-docker-app-2f1e)
-- [Unlock the Power of Node.js with Design Patterns 🚀](https://dev.to/getvm/unlock-the-power-of-nodejs-with-design-patterns-5a14)
-- [Creating an Azure Virtual Network with Four Subnets &lpar;192.148.30.0/26&rpar;](https://dev.to/adah_okwara_3c43c95a89a2e/creating-an-azure-virtual-network-with-four-subnets-19214830026-478l)
-- [Create an Azure Virtual Network &lpar;VNet&rpar;](https://dev.to/celestina_odili/create-an-azure-virtual-network-vnet-48fp)
-- [How Elite Engg. Teams Deploy 208X More Frequently Compared to Us Mere Mortals?](https://dev.to/middleware/how-elite-engg-teams-deploy-208x-more-frequently-compared-to-us-mere-mortals-1gjp)
+- [My Next.Js configuration](https://dev.to/itzsrikanth/my-nextjs-configuration-5fbh)
+- [Types of Cloud Computing](https://dev.to/1hamzabek/types-of-cloud-computing-4965)
+- [From Zero to Hero: Build Full stack Food Delivery App using Next.js and PostgreSQL](https://dev.to/lakshmananarumugam/from-zero-to-hero-build-full-stack-food-delivery-app-using-nextjs-and-postgresql-4ebo)
+- [Hello, dev community, I&#39;m joining just now.](https://dev.to/ahmedmshakil/hello-dev-community-im-joining-just-now-2g6a)
+- [AWS Aurora Global Database](https://dev.to/dm8ry/aws-aurora-36na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
