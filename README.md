@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Button Morph Animation](https://dev.to/tom_ford_6543e5db41fdbb68/button-morph-animation-2gjk)
+- [Turn the Table](https://dev.to/tom_ford_6543e5db41fdbb68/turn-the-table-pc4)
+- [Key Skills for Tech Freelancers](https://dev.to/baaraku/key-skills-for-tech-freelancers-3ooe)
+- [Optimizing Performance in React Applications](https://dev.to/khalidkhankakar/optimizing-performance-in-react-applications-59k0)
 - [[Book Review] Beej&#39;s Guide to Network Programming](https://dev.to/uponthesky/book-review-beejs-guide-to-network-programming-9mg)
-- [Você sabe o que seria um modelo de IA?](https://dev.to/programadriano/voce-sabe-o-que-seria-um-modelo-de-ia-281)
-- [Why I made TabbyAPI](https://dev.to/kingbri/why-i-made-tabbyapi-385f)
-- [Merge 2 sorted lists](https://dev.to/johnscode/merge-2-sorted-lists-22m)
-- [How To Provision And Deploy Virtual Network On Azure Portal](https://dev.to/romanus_onyekwere/how-to-provision-and-deploy-virtual-network-on-azure-portal-5129)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
