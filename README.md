@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting React Components: Readability, Reusability, and Efficiency](https://dev.to/vyan/crafting-react-components-readability-reusability-and-efficiency-6a1)
-- [Creating API Documentation with Swagger on NodeJS](https://dev.to/chauhoangminhnguyen/creating-api-documentation-with-swagger-on-nodejs-4da3)
-- [Bitmasking em Go: Uma Técnica Poderosa para Gerenciamento de Opções](https://dev.to/leonancarvalho/bitmasking-em-go-uma-tecnica-poderosa-para-gerenciamento-de-opcoes-2idb)
-- [Achieving a 3x reduction in React Bundle size: A case study](https://dev.to/amaggi/achieving-a-3x-reduction-in-react-bundle-size-a-case-study-30l1)
-- [Day 10 &amp; 11 of my Devops Journey: Kubernetes Networking Fundamentals - Challenges and Solutions](https://dev.to/arbythecoder/day-10-11-of-my-devops-journey-kubernetes-networking-fundamentals-challenges-and-solutions-3c59)
+- [Oops at 28 Jun 2024](https://dev.to/teminian/oops-at-28-jun-2024-ead)
+- [You&#39;re facing conflicts with your boss. How can you resolve them without harming your relationship?](https://dev.to/gourav_sharma_00/youre-facing-conflicts-with-your-boss-how-can-you-resolve-them-without-harming-your-relationship-4bnc)
+- [How to Create and Publish a WordPress Plugin](https://dev.to/sh20raj/how-to-create-and-publish-a-wordpress-plugin-3bbi)
+- [Array Without Last Element | Programming Tutorials | Lab](https://dev.to/labex/array-without-last-element-programming-tutorials-lab-29d0)
+- [Python : Intro](https://dev.to/jokergosha/python-intro-3njm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
