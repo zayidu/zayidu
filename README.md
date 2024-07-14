@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Elevate Your eCommerce Experience: Discover VeloShop an Innovative Wix-Powered Platform!](https://dev.to/dailydev/elevate-your-ecommerce-experience-discover-veloshop-an-innovative-wix-powered-platform-4jf5)
-- [Manage Telegram Webhooks Using curl](https://dev.to/sh20raj/manage-telegram-webhooks-using-curl-5391)
-- [[DAY 72–74] I built a calculator using React](https://dev.to/thomascansino/day-72-74-i-built-a-calculator-using-react-38i5)
-- [I made a Infinite Tic Tac Toe , and its amazin....](https://dev.to/rudransh61/i-made-a-infinite-tic-tac-toe-and-its-amazin-56jh)
-- [Seeking Feedback on My Portfolio Site](https://dev.to/carter_22cea9c0d8b4a4ba7f/seeking-feedback-on-my-portfolio-site-299l)
+- [A Complete Guide To props.children In React](https://dev.to/writech/a-complete-guide-to-propschildren-in-react-196k)
+- [My Journey as a Self-Taught Full-Stack Developer: Helping New Coders Master MERN and Beyond](https://dev.to/muhammedshamal/my-journey-as-a-self-taught-full-stack-developer-helping-new-coders-master-mern-and-beyond-4lmj)
+- [OTA updates in React Native](https://dev.to/ponikar/ota-updates-in-react-native-1pbo)
+- [✨Top 9 Open-Source Hidden Gems🤯](https://dev.to/dev_kiran/top-9-open-source-hidden-gems-56d9)
+- [O que é um engenheiro de produto e como se tornar um](https://dev.to/lucasheriques/o-que-e-um-engenheiro-de-produto-e-como-se-tornar-um-3eml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
