@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Server Side Forms in NextJS](https://dev.to/jawadulhassan/use-server-side-forms-in-nextjs-1j31)
-- [Essential modules for developing applications with FastAPI &lpar;P1 - Migration&rpar;](https://dev.to/pham_bach_7cded53e4c5439e/essential-modules-for-developing-applications-with-fastapi-4hkm)
-- [Effortless Database Migration: CockroachDB to MongoDB with CoderboticsAI](https://dev.to/coderbotics_ai/effortless-database-migration-cockroachdb-to-mongodb-with-coderboticsai-4mgh)
-- [Day 25 Task: Complete Jenkins CI/CD Project - Continued with Documentation](https://dev.to/oncloud7/day-25-task-complete-jenkins-cicd-project-continued-with-documentation-2p5a)
-- [REPL in Nestjs](https://dev.to/rubiin/repl-in-nestjs-32ph)
+- [TelcoCloud 101](https://dev.to/muhammadantar/telcocloud-101-5d02)
+- [God&#39;s Vue: An immersive tale &lpar;Chapter 2&rpar;](https://dev.to/zain725342/gods-vue-an-immersive-tale-chapter-2-2ppp)
+- [George and Robert walk into a bar...](https://dev.to/codejet/george-and-robert-walk-into-a-bar-413e)
+- [Top 6 React Hook Mistakes Beginners Make](https://dev.to/markliu2013/top-6-react-hook-mistakes-beginners-make-1135)
+- [Introducing Browset: Simplify Environment Variable Management for Web Frontends](https://dev.to/minuth/introducing-browset-simplify-environment-variable-management-for-web-frontends-37cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
