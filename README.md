@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Accessible Web Forms: A Beginner&#39;s Guide 🎉](https://dev.to/soham1300/creating-accessible-web-forms-a-beginners-guide-349c)
-- [Unlocking the Power of Amazon S3](https://dev.to/noorscript/unlocking-the-power-of-amazon-s3-571k)
-- [Introduction](https://dev.to/ashcript/1-introduction-4cpg)
-- [Crafting Modern Web APIs with Django and Django REST Framework: A Comprehensive Guide](https://dev.to/terrancoder/crafting-modern-web-apis-with-django-and-django-rest-framework-a-comprehensive-guide-4fh7)
-- [Slider Component - JavaScript &amp; CSS](https://dev.to/boibolang/slider-component-javascript-css-1oai)
+- [Unlocking the Power of Modern CSS Color Functions: History, Uses, and Practical Applications](https://dev.to/mdhassanpatwary/unlocking-the-power-of-modern-css-color-functions-history-uses-and-practical-applications-3j2a)
+- [Easily Use Selenium with AWS Lambda](https://dev.to/shilleh/easily-use-selenium-with-aws-lambda-lml)
+- [Golang WebRTC. Como usar Pion 🌐Remote Controller](https://dev.to/piterweb/golang-webrtc-como-usar-pion-remote-controller-5d8e)
+- [build a instagram message chat app](https://dev.to/zwd321081/build-a-instagram-message-chat-app-ibn)
+- [การนำเข้าข้อมูลจากไฟล์ CSV เข้ามาใน Posstgres : ทักษะเบื้องต้นของ Data Engineer](https://dev.to/everthing-was-postgres/kaarnamekhaakhmuulcchaakaifl-csv-ekhaamaaain-posstgres-thaksaebuuengtnkhng-data-engineer-5hgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
