@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Modern CSS Color Functions: History, Uses, and Practical Applications](https://dev.to/mdhassanpatwary/unlocking-the-power-of-modern-css-color-functions-history-uses-and-practical-applications-3j2a)
-- [Easily Use Selenium with AWS Lambda](https://dev.to/shilleh/easily-use-selenium-with-aws-lambda-lml)
-- [Golang WebRTC. Como usar Pion 🌐Remote Controller](https://dev.to/piterweb/golang-webrtc-como-usar-pion-remote-controller-5d8e)
-- [build a instagram message chat app](https://dev.to/zwd321081/build-a-instagram-message-chat-app-ibn)
-- [การนำเข้าข้อมูลจากไฟล์ CSV เข้ามาใน Posstgres : ทักษะเบื้องต้นของ Data Engineer](https://dev.to/everthing-was-postgres/kaarnamekhaakhmuulcchaakaifl-csv-ekhaamaaain-posstgres-thaksaebuuengtnkhng-data-engineer-5hgm)
+- [How to 10x downsize fonts](https://dev.to/wimadev/how-to-10x-downsize-fonts-29nl)
+- [Hướng dẫn tích hợp Checkout SDK Zalo &lpar;COD&rpar;](https://dev.to/huylv/huong-dan-tich-hop-checkout-sdk-zalo-cod-4b5j)
+- [19 Microservices Patterns for System Design Interviews](https://dev.to/somadevtoo/19-microservices-patterns-for-system-design-interviews-3o39)
+- [Makefile - .h - .c exemple.](https://dev.to/ashcript/makefile-h-c-exemple-2m9)
+- [Run of Queries in Amazon Timestream Database for LiveAnalytics](https://dev.to/aws-builders/run-of-queries-in-amazon-timestream-database-for-liveanalytics-23p2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
