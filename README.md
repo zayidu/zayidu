@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to 10x downsize fonts](https://dev.to/wimadev/how-to-10x-downsize-fonts-29nl)
-- [Hướng dẫn tích hợp Checkout SDK Zalo &lpar;COD&rpar;](https://dev.to/huylv/huong-dan-tich-hop-checkout-sdk-zalo-cod-4b5j)
-- [19 Microservices Patterns for System Design Interviews](https://dev.to/somadevtoo/19-microservices-patterns-for-system-design-interviews-3o39)
-- [Makefile - .h - .c exemple.](https://dev.to/ashcript/makefile-h-c-exemple-2m9)
-- [Run of Queries in Amazon Timestream Database for LiveAnalytics](https://dev.to/aws-builders/run-of-queries-in-amazon-timestream-database-for-liveanalytics-23p2)
+- [The Struggles of Manual Project Timeline Visualization](https://dev.to/xuho/the-struggles-of-manual-project-timeline-visualization-f9k)
+- [How to make Animation in Css?](https://dev.to/lakshita_kumawat/how-to-make-animation-in-css-1f97)
+- [Creating a Smooth Transitioning Dialog Component in React &lpar;Part 1/4&rpar;](https://dev.to/copet80/creating-a-smooth-transitioning-dialog-component-in-react-part-14-7nd)
+- [My Experience Learning TypeScript](https://dev.to/bridget_amana/my-experience-learning-typescript-1jn0)
+- [Decolonize The Internet](https://dev.to/mosbat/decolonize-the-internet-1mf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
