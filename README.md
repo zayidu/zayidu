@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Detecting Browser DevTools: A Guide to `devtools-detect`](https://dev.to/sh20raj/detecting-browser-devtools-a-guide-to-devtools-detect-4kgd)
-- [Understanding Cohesion](https://dev.to/waqas334/understanding-cohesion-h9o)
-- [A little about promises in Javascript](https://dev.to/joaoreider/a-little-about-promises-in-javascript-4oh7)
-- [Find something worth solving, not what you can solve.](https://dev.to/waqas334/find-something-worth-solving-not-what-you-can-solve-52ln)
-- [Simplest Chrome Extension Tutorial for 2024 Using Manifest V3](https://dev.to/azadshukor/simplest-chrome-extension-tutorial-for-2024-using-manifest-v3-h3m)
+- [Triangle to pixel](https://dev.to/x64x2/triangle-to-pixel-3ga0)
+- [Harnessing NgRx for Effortless Angular State Management](https://dev.to/3a5abi/harnessing-ngrx-for-effortless-angular-state-management-4o8b)
+- [Construindo um web server em Assembly x86, the grand finale, multi-threading](https://dev.to/leandronsp/construindo-um-web-server-em-assembly-x86-the-grand-finale-multi-threading-24hp)
+- [Implementing Background Jobs with Hangfire: A Hands-On Guide](https://dev.to/rmaurodev/implementing-background-jobs-with-hangfire-a-hands-on-guide-43bk)
+- [I am developing a Text Input Component based on Skia and Canvas](https://dev.to/gezilinll/i-am-developing-a-text-input-component-based-on-skia-and-canvas-1407)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
