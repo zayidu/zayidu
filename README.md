@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fui commitar e deu branco. E agora?](https://dev.to/guim/fui-commitar-e-deu-branco-e-agora-2ne1)
-- [A Brilliant read on developer first product!](https://dev.to/shubhsk/a-brilliant-read-on-developer-first-product-4odo)
-- [Mood Commerce: Personalized Fashion Discovery with AI-Powered Shopping](https://dev.to/asyncerror/mood-commerce-personalized-fashion-discovery-with-ai-powered-shopping-1ig6)
-- [Automatically Redirect Back Upon Failed Validation](https://dev.to/ghulam_mujtaba_247/automatically-redirect-back-upon-failed-validation-4lhe)
-- [Implementing Role-Based Access Control in React: A Deep Dive into useRoleManagement Hook](https://dev.to/veaceslav/implementing-role-based-access-control-in-react-a-deep-dive-into-userolemanagement-hook-129i)
+- [What is Web4 — And How to Start for Free?](https://dev.to/web4/what-is-web4-and-how-to-start-for-free-4kjo)
+- [Website Makeovers](https://dev.to/salladshooter/website-makeovers-1ap6)
+- [API de Upload de arquivo na AWS S3 + Interface de usuário](https://dev.to/pedro_borgesdev_ee699bec/api-de-upload-de-arquivo-na-aws-s3-interface-de-usuario-15a0)
+- [Simplifying State Management with @Observable and @ObservedObject](https://dev.to/andy_kolean/simplifying-state-management-with-observable-and-observedobject-ee6)
+- [Introducing BiteStats: Your Ultimate DoorDash &amp; Grubhub Expense Tracker](https://dev.to/codemystic/introducing-bitestats-your-ultimate-doordash-grubhub-expense-tracker-2h0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
