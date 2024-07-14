@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Free Hosting for Your Full-Stack Spring Boot Application](https://dev.to/philipathanasopoulos/guide-to-free-hosting-for-your-full-stack-spring-boot-application-4fak)
-- [Generar APK con EAS ⚛️ React Native](https://dev.to/jvegax/generar-apk-con-eas-react-native-1eob)
-- [Unleashing the Power of Kubernetes Network Policies](https://dev.to/piyushbagani15/unleashing-the-power-of-kubernetes-network-policies-1gp4)
-- [Unlocking the Potential of Smart Customer Support with Sista AI](https://dev.to/sista-ai/unlocking-the-potential-of-smart-customer-support-with-sista-ai-34ip)
-- [Day3, 4, 5&lpar;OMG&rpar;of 100DaysOfJavaScript](https://dev.to/koichiarai/day3-4-5omgof-100daysofjavascript-3l87)
+- [Elevate Your eCommerce Experience: Discover VeloShop an Innovative Wix-Powered Platform!](https://dev.to/dailydev/elevate-your-ecommerce-experience-discover-veloshop-an-innovative-wix-powered-platform-4jf5)
+- [Manage Telegram Webhooks Using curl](https://dev.to/sh20raj/manage-telegram-webhooks-using-curl-5391)
+- [[DAY 72–74] I built a calculator using React](https://dev.to/thomascansino/day-72-74-i-built-a-calculator-using-react-38i5)
+- [I made a Infinite Tic Tac Toe , and its amazin....](https://dev.to/rudransh61/i-made-a-infinite-tic-tac-toe-and-its-amazin-56jh)
+- [Seeking Feedback on My Portfolio Site](https://dev.to/carter_22cea9c0d8b4a4ba7f/seeking-feedback-on-my-portfolio-site-299l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
