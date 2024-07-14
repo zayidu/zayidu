@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Filament WhatsApp Notifications](https://dev.to/megoxv/filament-whatsapp-notifications-2k43)
-- [BitPower Security](https://dev.to/_d098065643d164867d59ab/bitpower-security-8o5)
-- [How to Send WhatsApp Notifications in Laravel 11](https://dev.to/megoxv/how-to-send-whatsapp-notifications-in-laravel-11-520m)
-- [IS WEB DEV HARD ? 🙃](https://dev.to/mince/is-web-dev-hard--3add)
-- [Event Delegation vs Event Propagation in JavaScript](https://dev.to/mdhassanpatwary/event-delegation-vs-event-propagation-in-javascript-m9n)
+- [Guide to Free Hosting for Your Full-Stack Spring Boot Application](https://dev.to/philipathanasopoulos/guide-to-free-hosting-for-your-full-stack-spring-boot-application-4fak)
+- [Generar APK con EAS ⚛️ React Native](https://dev.to/jvegax/generar-apk-con-eas-react-native-1eob)
+- [Unleashing the Power of Kubernetes Network Policies](https://dev.to/piyushbagani15/unleashing-the-power-of-kubernetes-network-policies-1gp4)
+- [Unlocking the Potential of Smart Customer Support with Sista AI](https://dev.to/sista-ai/unlocking-the-potential-of-smart-customer-support-with-sista-ai-34ip)
+- [Day3, 4, 5&lpar;OMG&rpar;of 100DaysOfJavaScript](https://dev.to/koichiarai/day3-4-5omgof-100daysofjavascript-3l87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
