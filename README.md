@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Web4 — And How to Start for Free?](https://dev.to/web4/what-is-web4-and-how-to-start-for-free-4kjo)
-- [Website Makeovers](https://dev.to/salladshooter/website-makeovers-1ap6)
-- [API de Upload de arquivo na AWS S3 + Interface de usuário](https://dev.to/pedro_borgesdev_ee699bec/api-de-upload-de-arquivo-na-aws-s3-interface-de-usuario-15a0)
-- [Simplifying State Management with @Observable and @ObservedObject](https://dev.to/andy_kolean/simplifying-state-management-with-observable-and-observedobject-ee6)
-- [Introducing BiteStats: Your Ultimate DoorDash &amp; Grubhub Expense Tracker](https://dev.to/codemystic/introducing-bitestats-your-ultimate-doordash-grubhub-expense-tracker-2h0p)
+- [The Ultimate Guide to Node.js in 2024: Trends, Tools, and Best Practices](https://dev.to/matin_mollapur/the-ultimate-guide-to-nodejs-in-2024-trends-tools-and-best-practices-279n)
+- [Trendy Treasure Wix studio ecommerce](https://dev.to/chintanonweb/trendy-treasure-wix-studio-ecommerce-28gh)
+- [First Step](https://dev.to/iarc13/first-step-ggb)
+- [float_power&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/floatpower-in-pytorch-3696)
+- [square&lpar;&rpar; and pow&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/square-and-pow-in-pytorch-541m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
