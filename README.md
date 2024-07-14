@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Guide To props.children In React](https://dev.to/writech/a-complete-guide-to-propschildren-in-react-196k)
-- [My Journey as a Self-Taught Full-Stack Developer: Helping New Coders Master MERN and Beyond](https://dev.to/muhammedshamal/my-journey-as-a-self-taught-full-stack-developer-helping-new-coders-master-mern-and-beyond-4lmj)
-- [OTA updates in React Native](https://dev.to/ponikar/ota-updates-in-react-native-1pbo)
-- [✨Top 9 Open-Source Hidden Gems🤯](https://dev.to/dev_kiran/top-9-open-source-hidden-gems-56d9)
-- [O que é um engenheiro de produto e como se tornar um](https://dev.to/lucasheriques/o-que-e-um-engenheiro-de-produto-e-como-se-tornar-um-3eml)
+- [Use Server Side Forms in NextJS](https://dev.to/jawadulhassan/use-server-side-forms-in-nextjs-1j31)
+- [Essential modules for developing applications with FastAPI &lpar;P1 - Migration&rpar;](https://dev.to/pham_bach_7cded53e4c5439e/essential-modules-for-developing-applications-with-fastapi-4hkm)
+- [Effortless Database Migration: CockroachDB to MongoDB with CoderboticsAI](https://dev.to/coderbotics_ai/effortless-database-migration-cockroachdb-to-mongodb-with-coderboticsai-4mgh)
+- [Day 25 Task: Complete Jenkins CI/CD Project - Continued with Documentation](https://dev.to/oncloud7/day-25-task-complete-jenkins-cicd-project-continued-with-documentation-2p5a)
+- [REPL in Nestjs](https://dev.to/rubiin/repl-in-nestjs-32ph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
