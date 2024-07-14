@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TelcoCloud 101](https://dev.to/muhammadantar/telcocloud-101-5d02)
-- [God&#39;s Vue: An immersive tale &lpar;Chapter 2&rpar;](https://dev.to/zain725342/gods-vue-an-immersive-tale-chapter-2-2ppp)
-- [George and Robert walk into a bar...](https://dev.to/codejet/george-and-robert-walk-into-a-bar-413e)
-- [Top 6 React Hook Mistakes Beginners Make](https://dev.to/markliu2013/top-6-react-hook-mistakes-beginners-make-1135)
-- [Introducing Browset: Simplify Environment Variable Management for Web Frontends](https://dev.to/minuth/introducing-browset-simplify-environment-variable-management-for-web-frontends-37cg)
+- [Mood Commerce: Personalized Fashion Discovery with AI-Powered Shopping](https://dev.to/asyncerror/mood-commerce-personalized-fashion-discovery-with-ai-powered-shopping-1ig6)
+- [Mastering Responsive Layouts: Achieving Complex Designs with CSS Grid](https://dev.to/jangya/mastering-responsive-layouts-achieving-complex-designs-with-css-grid-5b1p)
+- [Join These 6 Must-Join Discord Servers for ML Enthusiasts! 🚀](https://dev.to/ma7dev/join-these-6-must-join-discord-servers-for-ml-enthusiasts-1him)
+- [Follow my squad for DevX](https://dev.to/shubhsk/follow-my-squad-for-devx-3310)
+- [Securing Data at Rest: The Importance of Encryption and How to Implement It](https://dev.to/iamsherif/securing-data-at-rest-the-importance-of-encryption-and-how-to-implement-it-81a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
