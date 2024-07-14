@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Higher-Order Functions in JavaScript](https://dev.to/kartikmehta8/understanding-higher-order-functions-in-javascript-18hh)
-- [QR Code Component for Spotify Playlist](https://dev.to/der12kl/qr-code-component-for-spotify-playlist-52l8)
-- [Is Transitioning from React.js to React Native as Easy as It Seems? 🚀📱](https://dev.to/sh20raj/is-transitioning-from-reactjs-to-react-native-as-easy-as-it-seems-3emj)
-- [Testing a React Application with Vitest and React Testing Library](https://dev.to/manjushsh/testing-a-react-application-with-vitest-and-react-testing-library-c40)
-- [Building a Simple zK Circuit &lpar;Developers&rpar;](https://dev.to/ajtech0001/building-a-simple-zk-circuit-developers-42a)
+- [Detecting Browser DevTools: A Guide to `devtools-detect`](https://dev.to/sh20raj/detecting-browser-devtools-a-guide-to-devtools-detect-4kgd)
+- [Understanding Cohesion](https://dev.to/waqas334/understanding-cohesion-h9o)
+- [A little about promises in Javascript](https://dev.to/joaoreider/a-little-about-promises-in-javascript-4oh7)
+- [Find something worth solving, not what you can solve.](https://dev.to/waqas334/find-something-worth-solving-not-what-you-can-solve-52ln)
+- [Simplest Chrome Extension Tutorial for 2024 Using Manifest V3](https://dev.to/azadshukor/simplest-chrome-extension-tutorial-for-2024-using-manifest-v3-h3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
