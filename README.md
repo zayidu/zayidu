@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Functional Programming in JavaScript: Applicatives #10](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-applicatives-10-1n9h)
-- [Python - Print &lpar;&rpar; - Interview Questions](https://dev.to/technonotes/python-print-interview-questions-306j)
-- [Constructing XML output with dream-html](https://dev.to/yawaramin/constructing-xml-output-with-dream-html-1pgb)
-- [AWS Solutions Architect Professional](https://dev.to/kuljotbiring/aws-solutions-architect-professional-20e)
-- [sub&lpar;&rpar; and mul&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/sub-and-mul-in-pytorch-4eo9)
+- [How to upload Project on GitHub: A Step-by-Step Guide](https://dev.to/johnmaths9/how-to-upload-project-on-github-a-step-by-step-guide-14dp)
+- [Host your own PaaS &lpar;platform as a service&rpar; on Amazon Web Services](https://dev.to/jamesmurdza/host-your-own-paas-platform-as-a-service-on-amazon-web-services-3f0d)
+- [📦 &quot;OaaS&quot; : A short intro to &quot;Operations as a Service&quot; &amp; its tremendous benefits](https://dev.to/adriens/oaas-a-short-intro-to-operations-as-a-service-its-tremendous-benefits-3h99)
+- [Cloud Buzzwords every Software Engineer needs to know](https://dev.to/alexindevs/cloud-buzzwords-every-software-engineer-needs-to-know-57k0)
+- [Improve Productivity with CMake and Compiler Cache Integration](https://dev.to/maxim_radugin/improve-productivity-with-cmake-and-compiler-cache-integration-36p0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
