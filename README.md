@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The process of setting up a Mysql container with Docker Desktop and connecting from the host machine](https://dev.to/lnoueryo/the-process-of-setting-up-a-mysql-container-with-docker-desktop-and-connecting-from-the-host-machine-gl5)
-- [Golang File Paths | Portable Path Operations](https://dev.to/labex/golang-file-paths-portable-path-operations-1cb9)
-- [Taming the Unpredictable - How Continuous Alignment Testing Keeps LLMs in Check](https://dev.to/dev3l/taming-the-unpredictable-how-continuous-alignment-testing-keeps-llms-in-check-df6)
-- [cat&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/cat-in-pytorch-4jea)
-- [stack&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/stack-in-pytorch-1bp1)
+- [hstack&lpar;&rpar; and column_stack&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/hstack-and-columnstack-in-pytorch-2mfb)
+- [Dive into the Fascinating World of Robotics with Prof. D K Pratihar 🤖](https://dev.to/getvm/dive-into-the-fascinating-world-of-robotics-with-prof-d-k-pratihar-7a5)
+- [Mastering Loops and Conditional Statements in C Programming](https://dev.to/code_passion/mastering-loops-and-conditional-statements-in-c-programming-3mke)
+- [Rust tutorials for Python DEV: Variables and Mutability in Rust](https://dev.to/ahmed__elboshi/rust-tutorials-for-python-dev-variables-and-mutability-in-rust-4hpf)
+- [Understanding Core Web Vitals: Essential Metrics for Web Performance](https://dev.to/mdhassanpatwary/understanding-core-web-vitals-essential-metrics-for-web-performance-33jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
