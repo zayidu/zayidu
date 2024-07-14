@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Remove Nth from end of linked list](https://dev.to/johnscode/remove-nth-from-end-of-linked-list-54bf)
-- [Comandos Avanzados](https://dev.to/miltondiazco/comandos-avanzados-3a10)
-- [Comandos de Red](https://dev.to/miltondiazco/comandos-de-red-560)
-- [Comandos de Fecha](https://dev.to/miltondiazco/comandos-de-fecha-306e)
-- [Comandos para Manipular Archivos y Directorios](https://dev.to/miltondiazco/cmd-comandos-para-manipular-archivos-y-directorios-5g0)
+- [Understanding Higher-Order Functions in JavaScript](https://dev.to/kartikmehta8/understanding-higher-order-functions-in-javascript-18hh)
+- [QR Code Component for Spotify Playlist](https://dev.to/der12kl/qr-code-component-for-spotify-playlist-52l8)
+- [Is Transitioning from React.js to React Native as Easy as It Seems? 🚀📱](https://dev.to/sh20raj/is-transitioning-from-reactjs-to-react-native-as-easy-as-it-seems-3emj)
+- [Testing a React Application with Vitest and React Testing Library](https://dev.to/manjushsh/testing-a-react-application-with-vitest-and-react-testing-library-c40)
+- [Building a Simple zK Circuit &lpar;Developers&rpar;](https://dev.to/ajtech0001/building-a-simple-zk-circuit-developers-42a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
