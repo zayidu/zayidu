@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Fui commitar e deu branco. E agora?](https://dev.to/guim/fui-commitar-e-deu-branco-e-agora-2ne1)
+- [A Brilliant read on developer first product!](https://dev.to/shubhsk/a-brilliant-read-on-developer-first-product-4odo)
 - [Mood Commerce: Personalized Fashion Discovery with AI-Powered Shopping](https://dev.to/asyncerror/mood-commerce-personalized-fashion-discovery-with-ai-powered-shopping-1ig6)
-- [Mastering Responsive Layouts: Achieving Complex Designs with CSS Grid](https://dev.to/jangya/mastering-responsive-layouts-achieving-complex-designs-with-css-grid-5b1p)
-- [Join These 6 Must-Join Discord Servers for ML Enthusiasts! 🚀](https://dev.to/ma7dev/join-these-6-must-join-discord-servers-for-ml-enthusiasts-1him)
-- [Follow my squad for DevX](https://dev.to/shubhsk/follow-my-squad-for-devx-3310)
-- [Securing Data at Rest: The Importance of Encryption and How to Implement It](https://dev.to/iamsherif/securing-data-at-rest-the-importance-of-encryption-and-how-to-implement-it-81a)
+- [Automatically Redirect Back Upon Failed Validation](https://dev.to/ghulam_mujtaba_247/automatically-redirect-back-upon-failed-validation-4lhe)
+- [Implementing Role-Based Access Control in React: A Deep Dive into useRoleManagement Hook](https://dev.to/veaceslav/implementing-role-based-access-control-in-react-a-deep-dive-into-userolemanagement-hook-129i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
