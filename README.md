@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Platforms for Deploying Bots: Free and Paid Options](https://dev.to/sh20raj/top-platforms-for-deploying-bots-free-and-paid-options-53e)
-- [7 Essential grep command for software engineers](https://dev.to/hashcode01/7-essential-grep-command-for-software-engineers-19b3)
-- [Streamline MySQL Deployment with Docker and DbVisualizer](https://dev.to/dbvismarketing/streamline-mysql-deployment-with-docker-and-dbvisualizer-54lf)
-- [CC-Shoes: An innovative ecommerce website for buying and personalizing sneakers with an engaging menu design](https://dev.to/ogbotemi2000/cc-shoes-an-innovative-ecommerce-website-for-buying-and-personalizing-sneakers-with-an-engaging-menu-design-317g)
-- [TERRA FlipFlop - Sustainable Footwear Solution - Wix Studio Challenge - My Submission](https://dev.to/harshitads44217/terra-flipflop-sustainable-footwear-solution-wix-studio-challenge-my-submission-2m63)
+- [Create a String to Color Helper with Ruby &lpar;and Rails&rpar;](https://dev.to/railsdesigner/create-a-string-to-color-helper-with-rub-2l5a)
+- [Debugging C Programs: Tools and Techniques for Error-Free Code](https://dev.to/emma_olatujoye/debugging-c-programs-tools-and-techniques-for-error-free-code-8hc)
+- [Gitlab python-based job to remove stale branches](https://dev.to/art_ptushkin/gitlab-python-based-job-to-remove-stale-branches-1i6i)
+- [Understanding Command Line Execution and Environment Configuration](https://dev.to/jaber-said/understanding-command-line-execution-and-environment-configuration-1hd5)
+- [Best VS Code extensions for developers in 2024](https://dev.to/sh20raj/best-vs-code-extensions-for-developers-in-2024-3he1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
