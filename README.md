@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing CQRS and Event Sourcing in Distributed Systems](https://dev.to/tutorialq/implementing-cqrs-and-event-sourcing-in-distributed-systems-5ehd)
-- [i have quesetions in a Usestate demo](https://dev.to/yinguzwg1/i-have-quesetions-in-a-usestate-demo-kpp)
-- [A PAGE TALKS ABOUT &lpar;The Outlook: JetBrains AI Assistant&rpar;](https://dev.to/rewirebyautomation/a-page-talks-about-the-outlook-jetbrains-ai-assistant-3acn)
-- [Day6 of 100DaysOfJavaScript](https://dev.to/koichiarai/day6-of-100daysofjavascript-440o)
-- [Beating the Odds: The Mathematics Behind Casino Profits](https://dev.to/ezhillragesh/beating-the-odds-the-mathematics-behind-casino-profits-313o)
+- [Play Game 🎮 Earn Coupon | Wix Studio eCommerce Engagement 📈 Tool](https://dev.to/rajeshj3/play-game-earn-coupon-wix-studio-ecommerce-engagement-tool-29l0)
+- [Guía Completa para Crear una Web Estática con AWS S3 y AWS CLI](https://dev.to/fernandosilvot/guia-completa-para-crear-una-web-estatica-con-aws-s3-y-aws-cli-c2j)
+- [Journey to Creating and Publishing a Custom CLI Command in Go](https://dev.to/tttol/journey-to-creating-and-publishing-a-custom-cli-command-in-go-99o)
+- [Top 15 JavaScript Projects to Boost Your Portfolio 🚀](https://dev.to/dipakahirav/top-15-javascript-projects-to-boost-your-portfolio-1fem)
+- [Olá mundo!](https://dev.to/unimatrix2/ola-mundo-40ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
