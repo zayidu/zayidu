@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Next.js: A Beginner’s Guide](https://dev.to/zaehicks/getting-started-with-nextjs-a-beginners-guide-f2j)
-- [Progressive Web Apps &lpar;PWAs&rpar;: A Comprehensive Guide](https://dev.to/sfestus90/progressive-web-apps-pwas-a-comprehensive-guide-1hf2)
-- [Multithreading in Java : A Deep Dive](https://dev.to/vidhi_jayswal/multithreading-in-java-a-deep-dive-51h2)
-- [Computational Geometry: Finding a Convex Hull](https://dev.to/paulike/computational-geometry-finding-a-convex-hull-4jc7)
-- [Container Security in 2024: Trends and Best Practices](https://dev.to/giladmaayan/container-security-in-2024-trends-and-best-practices-of5)
+- [How to Prevent Speaker Feedback in Speech Transcription Using Web Audio API](https://dev.to/fosteman/how-to-prevent-speaker-feedback-in-speech-transcription-using-web-audio-api-2da4)
+- [How I build simple Mac apps using Go](https://dev.to/progrium/how-i-build-simple-mac-apps-using-go-104j)
+- [Understanding SOLID design principles with easy coding examples](https://dev.to/aneeqakhan/understanding-solid-design-principles-with-easy-coding-examples-1k1d)
+- [Ulisse @ CyberChallenge.IT 2024](https://dev.to/ulisse/ulisse-cyberchallengeit-2024-opo)
+- [Building Responsive Web Applications with React and Java Spring Boot](https://dev.to/vidhi_jayswal/building-responsive-web-applications-with-react-and-java-spring-boot-28lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
