@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to add a table of contents in Ghost without editing default.hbs](https://dev.to/dango0812/how-to-add-a-table-of-contents-in-ghost-without-editing-defaulthbs-53jd)
-- [SvelteKit responsive helper](https://dev.to/hefeust/sveltekit-responsive-helper-283c)
-- [I passed my driver&#39;s license and I&#39;m very happy!🥳🚗 I didn’t expect that I would succeed, especially on the very first try😅](https://dev.to/kelly_grabill_usa/i-passed-my-drivers-license-and-im-very-happy-i-didnt-expect-that-i-would-succeed-especially-on-the-very-first-try-3pf3)
-- [16 Free New APIs to Supercharge Your Next Project](https://dev.to/halimshams/16-free-new-apis-to-supercharge-your-next-project-4j26)
-- [Learn About the Nonlocal Keyword in Python Programming](https://dev.to/devstoriesplayground/learn-about-the-nonlocal-keyword-in-python-programming-4h24)
+- [Introduction to MongoDB: A NoSQL Database for Modern Applications](https://dev.to/fakii254/introduction-to-mongodb-a-nosql-database-for-modern-applications-149n)
+- [Guide to Using GBase 8s JDBC Driver URL](https://dev.to/congcong/guide-to-using-gbase-8s-jdbc-driver-url-g5n)
+- [Use Guardrails to prevent hallucinations in generative AI applications](https://dev.to/aws/use-guardrails-to-prevent-hallucinations-in-generative-ai-applications-kdg)
+- [How to Enable Two-Factor Authentication &lpar;2FA&rpar; in Boxleo System](https://dev.to/mwacharo6/how-to-enable-two-factor-authentication-2fa-in-boxleo-system-53ll)
+- [Junior Java Developer &lpar;Torino&rpar;](https://dev.to/inrebusrecruiting2023/junior-java-developer-torino-5hcj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
