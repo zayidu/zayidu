@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Simple Docker Cleanup Script to Save Your Day](https://dev.to/itayeylath/a-simple-docker-cleanup-script-to-save-your-day-4n28)
-- [Examples: Determining Big O](https://dev.to/paulike/examples-determining-big-o-430b)
-- [Exploiting Smart Contracts - Strict Equality](https://dev.to/passandscore/exploiting-smart-contracts-strict-equality-12oj)
-- [LeetCode Day33 Dynamic Programming](https://dev.to/flame_chan_llll/leetcode-day33-dynamic-programming-269l)
-- [Developing Efficient Algorithms - Measuring Algorithm Efficiency Using Big O Notation](https://dev.to/paulike/developing-efficient-algorithms-measuring-algorithm-efficiency-using-big-o-notation-1c1h)
+- [Mastering Selenium WebDriver for Efficient Automation Testing](https://dev.to/gadekar_sachin/mastering-selenium-webdriver-for-efficient-automation-testing-316h)
+- [Mastering CSS: Understanding the Cascade](https://dev.to/mustapha/mastering-css-understanding-the-cascade-15g)
+- [Os desafios para a modernização de software](https://dev.to/ramonduraes/os-desafios-para-a-modernizacao-de-software-3eo9)
+- [Service: O pattern que virou anti-pattern](https://dev.to/asouza/service-o-pattern-que-virou-anti-pattern-568f)
+- [Flutter Design Systems: Exploring Modern Alternatives to Material Design](https://dev.to/dinko7/flutter-design-systems-exploring-modern-alternatives-to-material-design-23e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
