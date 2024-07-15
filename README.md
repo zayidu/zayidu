@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Differences Between Edge Stack and Emissary: A Breakdown](https://dev.to/getambassador2024/differences-between-edge-stack-and-emissary-a-breakdown-2dm)
-- [Managing Docker Images](https://dev.to/kalkwst/managing-docker-images-875)
-- [Mega Mart](https://dev.to/deapco/mega-mart-3b9p)
-- [The Latest in Open Source AI from Alibaba&#39;s Tongyi Lab: FunAudioLLM](https://dev.to/xidaisme/the-latest-in-open-source-ai-from-alibabas-tongyi-lab-funaudiollm-3ebd)
-- [Diverse Kaleidoscopes](https://dev.to/luisjcl/diverse-kaleidoscopes-189h)
+- [Top Platforms for Deploying Bots: Free and Paid Options](https://dev.to/sh20raj/top-platforms-for-deploying-bots-free-and-paid-options-53e)
+- [7 Essential grep command for software engineers](https://dev.to/hashcode01/7-essential-grep-command-for-software-engineers-19b3)
+- [Streamline MySQL Deployment with Docker and DbVisualizer](https://dev.to/dbvismarketing/streamline-mysql-deployment-with-docker-and-dbvisualizer-54lf)
+- [CC-Shoes: An innovative ecommerce website for buying and personalizing sneakers with an engaging menu design](https://dev.to/ogbotemi2000/cc-shoes-an-innovative-ecommerce-website-for-buying-and-personalizing-sneakers-with-an-engaging-menu-design-317g)
+- [TERRA FlipFlop - Sustainable Footwear Solution - Wix Studio Challenge - My Submission](https://dev.to/harshitads44217/terra-flipflop-sustainable-footwear-solution-wix-studio-challenge-my-submission-2m63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
