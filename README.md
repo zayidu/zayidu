@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Play Game 🎮 Earn Coupon | Wix Studio eCommerce Engagement 📈 Tool](https://dev.to/rajeshj3/play-game-earn-coupon-wix-studio-ecommerce-engagement-tool-29l0)
-- [Guía Completa para Crear una Web Estática con AWS S3 y AWS CLI](https://dev.to/fernandosilvot/guia-completa-para-crear-una-web-estatica-con-aws-s3-y-aws-cli-c2j)
-- [Journey to Creating and Publishing a Custom CLI Command in Go](https://dev.to/tttol/journey-to-creating-and-publishing-a-custom-cli-command-in-go-99o)
-- [Top 15 JavaScript Projects to Boost Your Portfolio 🚀](https://dev.to/dipakahirav/top-15-javascript-projects-to-boost-your-portfolio-1fem)
-- [Olá mundo!](https://dev.to/unimatrix2/ola-mundo-40ge)
+- [Understanding the `this` Keyword in JavaScript](https://dev.to/mdhassanpatwary/understanding-the-this-keyword-in-javascript-12ea)
+- [JavaScript Event Loop: A Deep Dive](https://dev.to/mdhassanpatwary/javascript-event-loop-a-deep-dive-2289)
+- [Yet another attempt to get better at chess](https://dev.to/mrdimosthenis/yet-another-attempt-to-get-better-at-chess-5fjm)
+- [#25 — Write Continuous Numbers in A String of Numbers as Intervals](https://dev.to/judith677/25-write-continuous-numbers-in-a-string-of-numbers-as-intervals-2i5o)
+- [Matplotlib | Custom Box Styles | Python Tutorials](https://dev.to/labex/matplotlib-custom-box-styles-python-tutorials-46em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
