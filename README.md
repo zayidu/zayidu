@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Data Structures in Java](https://dev.to/kartikmehta8/advanced-data-structures-in-java-99l)
-- [My HNG Journey. Stage Three: Building a Robust Messaging System with FastAPI and RabbitMQ/Celery for Asynchronous Email Handling](https://dev.to/ravencodess/my-hng-journey-stage-three-building-a-robust-messaging-system-with-fastapi-and-rabbitmqcelery-for-asynchronous-email-handling-2ibj)
-- [🚀 Announcing the Ultimate Repository for Data Structures in Multiple Languages! 🚀](https://dev.to/harrisahmad/announcing-the-ultimate-repository-for-data-structures-in-multiple-languages-3hfa)
-- [Explain toSignal custom equality checking in Angular 18](https://dev.to/railsstudent/explain-tosignal-custom-equality-checking-in-angular-18-g2i)
-- [Ready for the iPhone 16?](https://dev.to/anshsaini/ready-for-the-iphone-16-4eah)
+- [Implementing CQRS and Event Sourcing in Distributed Systems](https://dev.to/tutorialq/implementing-cqrs-and-event-sourcing-in-distributed-systems-5ehd)
+- [i have quesetions in a Usestate demo](https://dev.to/yinguzwg1/i-have-quesetions-in-a-usestate-demo-kpp)
+- [A PAGE TALKS ABOUT &lpar;The Outlook: JetBrains AI Assistant&rpar;](https://dev.to/rewirebyautomation/a-page-talks-about-the-outlook-jetbrains-ai-assistant-3acn)
+- [Day6 of 100DaysOfJavaScript](https://dev.to/koichiarai/day6-of-100daysofjavascript-440o)
+- [Beating the Odds: The Mathematics Behind Casino Profits](https://dev.to/ezhillragesh/beating-the-odds-the-mathematics-behind-casino-profits-313o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
