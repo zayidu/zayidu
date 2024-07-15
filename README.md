@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS S3 : Object ACLS and Bucket Policies](https://dev.to/oladipupoabeeb/aws-s3-object-acls-and-bucket-policies-14i9)
-- [A Journey with React, Tailwind CSS, and 3D Magic 🎨✨](https://dev.to/randolphdy9/a-journey-with-react-tailwind-css-and-3d-magic-4b62)
-- [Exploring Amazon EC2 Instance Purchasing Options](https://dev.to/sachithmayantha/exploring-amazon-ec2-instance-purchasing-options-4am2)
-- [Understanding Auto Scaling in Kubernetes](https://dev.to/jensen1806/understanding-auto-scaling-in-kubernetes-5gl1)
-- [Docker log rotation](https://dev.to/apetryla/docker-log-rotation-1d59)
+- [What is `foo` `bar` REALLY?](https://dev.to/opensourcee/what-is-foo-bar-really-4n8g)
+- [Kubernetes in Action: Architecture, Features and Free Resources](https://dev.to/subodh_bagde/kubernetes-in-action-architecture-features-and-free-resources-d52)
+- [Building UIs with Franken UI, a Shadcn alternative](https://dev.to/logrocket/building-uis-with-franken-ui-a-shadcn-alternative-2jml)
+- [diagflat&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/diagflat-in-pytorch-2fl0)
+- [Unleash Your Algorithmic Prowess: Explore the Best Free Programming Resources 🔍](https://dev.to/getvm/unleash-your-algorithmic-prowess-explore-the-best-free-programming-resources-fa9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
