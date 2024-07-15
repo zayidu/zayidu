@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tracking User Account Changes in Real-Time: A Debezium and ClickHouse Implementation](https://dev.to/ranjbaryshahab/tracking-user-account-changes-in-real-time-a-debezium-and-clickhouse-implementation-350)
-- [Mastering Classes and Objects in Programming: A Comprehensive Guide](https://dev.to/shubham_kolkar/mastering-classes-and-objects-in-programming-a-comprehensive-guide-4j12)
-- [40 Days Of Kubernetes &lpar;14/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-1440-m3a)
-- [Recommended Project: Searching for Specific Files](https://dev.to/labex/recommended-project-searching-for-specific-files-5cmc)
-- [Integrating the ruff language server](https://dev.to/jackhodkinson/integrating-the-ruff-language-server-13pa)
+- [Deploying a Flask App on Cloud Run with Terraform: A Comprehensive Guide](https://dev.to/jay_sheth/deploying-a-flask-app-on-cloud-run-with-terraform-a-comprehensive-guide-2ne0)
+- [Day 1: Scary attempt at building in the open](https://dev.to/mikgross/day-1-scary-attempt-at-building-in-the-open-m5d)
+- [BIG phyal Update](https://dev.to/salladshooter/big-phyal-update-3e9b)
+- [I&#39;m struggling with some error on my react-native-expo project...](https://dev.to/wei_chen_5d8ce7675b352017/im-struggling-with-some-error-on-my-react-native-expo-project-4lf4)
+- [Mastering Maven: Beyond Build Management](https://dev.to/mini2809/mastering-maven-beyond-build-management-6fd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
