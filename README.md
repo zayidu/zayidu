@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Flask App on Cloud Run with Terraform: A Comprehensive Guide](https://dev.to/jay_sheth/deploying-a-flask-app-on-cloud-run-with-terraform-a-comprehensive-guide-2ne0)
-- [Day 1: Scary attempt at building in the open](https://dev.to/mikgross/day-1-scary-attempt-at-building-in-the-open-m5d)
-- [BIG phyal Update](https://dev.to/salladshooter/big-phyal-update-3e9b)
-- [I&#39;m struggling with some error on my react-native-expo project...](https://dev.to/wei_chen_5d8ce7675b352017/im-struggling-with-some-error-on-my-react-native-expo-project-4lf4)
-- [Mastering Maven: Beyond Build Management](https://dev.to/mini2809/mastering-maven-beyond-build-management-6fd)
+- [Getting Started with Next.js: A Beginner’s Guide](https://dev.to/zaehicks/getting-started-with-nextjs-a-beginners-guide-f2j)
+- [Progressive Web Apps &lpar;PWAs&rpar;: A Comprehensive Guide](https://dev.to/sfestus90/progressive-web-apps-pwas-a-comprehensive-guide-1hf2)
+- [Multithreading in Java : A Deep Dive](https://dev.to/vidhi_jayswal/multithreading-in-java-a-deep-dive-51h2)
+- [Computational Geometry: Finding a Convex Hull](https://dev.to/paulike/computational-geometry-finding-a-convex-hull-4jc7)
+- [Container Security in 2024: Trends and Best Practices](https://dev.to/giladmaayan/container-security-in-2024-trends-and-best-practices-of5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
