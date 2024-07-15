@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of DORA Metrics in Accelerating Software Delivery](https://dev.to/rose_rusell_8839af0b0bba5/the-role-of-dora-metrics-in-accelerating-software-delivery-4505)
-- [Les meilleurs templates gratuits pour vos sites web](https://dev.to/mscholzdev/les-meilleurs-templates-gratuits-pour-vos-sites-web-op3)
-- [Mastering the Fine Art of Web Development with PHP](https://dev.to/jinesh_vora_ab4d7886e6a8d/mastering-the-fine-art-of-web-development-with-php-59kd)
-- [Task 2 - Constants and variables](https://dev.to/ganesh_balaraman_6edae0d9/task-2-constants-and-variables-fkn)
-- [Six Principles of Effective Writing](https://dev.to/martinbaun/six-principles-of-effective-writing-2644)
+- [A Simple Docker Cleanup Script to Save Your Day](https://dev.to/itayeylath/a-simple-docker-cleanup-script-to-save-your-day-4n28)
+- [Examples: Determining Big O](https://dev.to/paulike/examples-determining-big-o-430b)
+- [Exploiting Smart Contracts - Strict Equality](https://dev.to/passandscore/exploiting-smart-contracts-strict-equality-12oj)
+- [LeetCode Day33 Dynamic Programming](https://dev.to/flame_chan_llll/leetcode-day33-dynamic-programming-269l)
+- [Developing Efficient Algorithms - Measuring Algorithm Efficiency Using Big O Notation](https://dev.to/paulike/developing-efficient-algorithms-measuring-algorithm-efficiency-using-big-o-notation-1c1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
