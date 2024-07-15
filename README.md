@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to upload Project on GitHub: A Step-by-Step Guide](https://dev.to/johnmaths9/how-to-upload-project-on-github-a-step-by-step-guide-14dp)
-- [Host your own PaaS &lpar;platform as a service&rpar; on Amazon Web Services](https://dev.to/jamesmurdza/host-your-own-paas-platform-as-a-service-on-amazon-web-services-3f0d)
-- [📦 &quot;OaaS&quot; : A short intro to &quot;Operations as a Service&quot; &amp; its tremendous benefits](https://dev.to/adriens/oaas-a-short-intro-to-operations-as-a-service-its-tremendous-benefits-3h99)
-- [Cloud Buzzwords every Software Engineer needs to know](https://dev.to/alexindevs/cloud-buzzwords-every-software-engineer-needs-to-know-57k0)
-- [Improve Productivity with CMake and Compiler Cache Integration](https://dev.to/maxim_radugin/improve-productivity-with-cmake-and-compiler-cache-integration-36p0)
+- [Advanced Data Structures in Java](https://dev.to/kartikmehta8/advanced-data-structures-in-java-99l)
+- [My HNG Journey. Stage Three: Building a Robust Messaging System with FastAPI and RabbitMQ/Celery for Asynchronous Email Handling](https://dev.to/ravencodess/my-hng-journey-stage-three-building-a-robust-messaging-system-with-fastapi-and-rabbitmqcelery-for-asynchronous-email-handling-2ibj)
+- [🚀 Announcing the Ultimate Repository for Data Structures in Multiple Languages! 🚀](https://dev.to/harrisahmad/announcing-the-ultimate-repository-for-data-structures-in-multiple-languages-3hfa)
+- [Explain toSignal custom equality checking in Angular 18](https://dev.to/railsstudent/explain-tosignal-custom-equality-checking-in-angular-18-g2i)
+- [Ready for the iPhone 16?](https://dev.to/anshsaini/ready-for-the-iphone-16-4eah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
