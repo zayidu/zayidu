@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is `foo` `bar` REALLY?](https://dev.to/opensourcee/what-is-foo-bar-really-4n8g)
-- [Kubernetes in Action: Architecture, Features and Free Resources](https://dev.to/subodh_bagde/kubernetes-in-action-architecture-features-and-free-resources-d52)
-- [Building UIs with Franken UI, a Shadcn alternative](https://dev.to/logrocket/building-uis-with-franken-ui-a-shadcn-alternative-2jml)
-- [diagflat&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/diagflat-in-pytorch-2fl0)
-- [Unleash Your Algorithmic Prowess: Explore the Best Free Programming Resources 🔍](https://dev.to/getvm/unleash-your-algorithmic-prowess-explore-the-best-free-programming-resources-fa9)
+- [Implementing Queues Using Linked Lists in NestJS](https://dev.to/ezilemdodana/implementing-queues-using-linked-lists-in-nestjs-539h)
+- [What is manual Testing?What are the benefits and drawbacks of manual testing?Give some Examples in support of your answer?](https://dev.to/dhivya_04/what-is-manual-testingwhat-are-the-benefits-and-drawbacks-of-manual-testinggive-some-examples-in-support-of-your-answer-359n)
+- [Asynchronous JavaScript: The TL;DR Version You&#39;ll Always Recall](https://dev.to/adityabhattad/asynchronous-javascript-a-comprehensive-guide-hkf)
+- [Python : Simple Calculator](https://dev.to/rajkannan_rajagopal/python-simple-calculator-29jf)
+- [What are your goals for week 29 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-29-of-2024-48bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
