@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the TLS/SSL Protocol: How Ciphers and Keys are Generated](https://dev.to/adityabhuyan/understanding-the-tlsssl-protocol-how-ciphers-and-keys-are-generated-3a6n)
-- [Dive into the World of Serverless with &quot;Building Serverless Applications with Google Cloud Run&quot; 🚀](https://dev.to/getvm/dive-into-the-world-of-serverless-with-building-serverless-applications-with-google-cloud-run-43im)
-- [Understanding Server-Side Scripting in Web Application Development](https://dev.to/adityabhuyan/understanding-server-side-scripting-in-web-application-development-5a9)
-- [Creating a Seamless Shopping Experience: My Wix eCommerce Website for the Dev.to Challenge](https://dev.to/harish_05/creating-a-seamless-shopping-experience-my-wix-ecommerce-website-for-the-devto-challenge-2bo1)
-- [Popular Tech Stacks for Full-Stack Development in 2024](https://dev.to/adityabhuyan/popular-tech-stacks-for-full-stack-development-in-2024-1ogj)
+- [Differences Between Edge Stack and Emissary: A Breakdown](https://dev.to/getambassador2024/differences-between-edge-stack-and-emissary-a-breakdown-2dm)
+- [Managing Docker Images](https://dev.to/kalkwst/managing-docker-images-875)
+- [Mega Mart](https://dev.to/deapco/mega-mart-3b9p)
+- [The Latest in Open Source AI from Alibaba&#39;s Tongyi Lab: FunAudioLLM](https://dev.to/xidaisme/the-latest-in-open-source-ai-from-alibabas-tongyi-lab-funaudiollm-3ebd)
+- [Diverse Kaleidoscopes](https://dev.to/luisjcl/diverse-kaleidoscopes-189h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
