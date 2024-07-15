@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Queues Using Linked Lists in NestJS](https://dev.to/ezilemdodana/implementing-queues-using-linked-lists-in-nestjs-539h)
-- [What is manual Testing?What are the benefits and drawbacks of manual testing?Give some Examples in support of your answer?](https://dev.to/dhivya_04/what-is-manual-testingwhat-are-the-benefits-and-drawbacks-of-manual-testinggive-some-examples-in-support-of-your-answer-359n)
-- [Asynchronous JavaScript: The TL;DR Version You&#39;ll Always Recall](https://dev.to/adityabhattad/asynchronous-javascript-a-comprehensive-guide-hkf)
-- [Python : Simple Calculator](https://dev.to/rajkannan_rajagopal/python-simple-calculator-29jf)
-- [What are your goals for week 29 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-29-of-2024-48bp)
+- [Tracking User Account Changes in Real-Time: A Debezium and ClickHouse Implementation](https://dev.to/ranjbaryshahab/tracking-user-account-changes-in-real-time-a-debezium-and-clickhouse-implementation-350)
+- [Mastering Classes and Objects in Programming: A Comprehensive Guide](https://dev.to/shubham_kolkar/mastering-classes-and-objects-in-programming-a-comprehensive-guide-4j12)
+- [40 Days Of Kubernetes &lpar;14/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-1440-m3a)
+- [Recommended Project: Searching for Specific Files](https://dev.to/labex/recommended-project-searching-for-specific-files-5cmc)
+- [Integrating the ruff language server](https://dev.to/jackhodkinson/integrating-the-ruff-language-server-13pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
