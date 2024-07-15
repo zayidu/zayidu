@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the `this` Keyword in JavaScript](https://dev.to/mdhassanpatwary/understanding-the-this-keyword-in-javascript-12ea)
-- [JavaScript Event Loop: A Deep Dive](https://dev.to/mdhassanpatwary/javascript-event-loop-a-deep-dive-2289)
-- [Yet another attempt to get better at chess](https://dev.to/mrdimosthenis/yet-another-attempt-to-get-better-at-chess-5fjm)
-- [#25 — Write Continuous Numbers in A String of Numbers as Intervals](https://dev.to/judith677/25-write-continuous-numbers-in-a-string-of-numbers-as-intervals-2i5o)
-- [Matplotlib | Custom Box Styles | Python Tutorials](https://dev.to/labex/matplotlib-custom-box-styles-python-tutorials-46em)
+- [Understanding the TLS/SSL Protocol: How Ciphers and Keys are Generated](https://dev.to/adityabhuyan/understanding-the-tlsssl-protocol-how-ciphers-and-keys-are-generated-3a6n)
+- [Dive into the World of Serverless with &quot;Building Serverless Applications with Google Cloud Run&quot; 🚀](https://dev.to/getvm/dive-into-the-world-of-serverless-with-building-serverless-applications-with-google-cloud-run-43im)
+- [Understanding Server-Side Scripting in Web Application Development](https://dev.to/adityabhuyan/understanding-server-side-scripting-in-web-application-development-5a9)
+- [Creating a Seamless Shopping Experience: My Wix eCommerce Website for the Dev.to Challenge](https://dev.to/harish_05/creating-a-seamless-shopping-experience-my-wix-ecommerce-website-for-the-devto-challenge-2bo1)
+- [Popular Tech Stacks for Full-Stack Development in 2024](https://dev.to/adityabhuyan/popular-tech-stacks-for-full-stack-development-in-2024-1ogj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
