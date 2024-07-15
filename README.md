@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a String to Color Helper with Ruby &lpar;and Rails&rpar;](https://dev.to/railsdesigner/create-a-string-to-color-helper-with-rub-2l5a)
-- [Debugging C Programs: Tools and Techniques for Error-Free Code](https://dev.to/emma_olatujoye/debugging-c-programs-tools-and-techniques-for-error-free-code-8hc)
-- [Gitlab python-based job to remove stale branches](https://dev.to/art_ptushkin/gitlab-python-based-job-to-remove-stale-branches-1i6i)
-- [Understanding Command Line Execution and Environment Configuration](https://dev.to/jaber-said/understanding-command-line-execution-and-environment-configuration-1hd5)
-- [Best VS Code extensions for developers in 2024](https://dev.to/sh20raj/best-vs-code-extensions-for-developers-in-2024-3he1)
+- [How to add a table of contents in Ghost without editing default.hbs](https://dev.to/dango0812/how-to-add-a-table-of-contents-in-ghost-without-editing-defaulthbs-53jd)
+- [SvelteKit responsive helper](https://dev.to/hefeust/sveltekit-responsive-helper-283c)
+- [I passed my driver&#39;s license and I&#39;m very happy!🥳🚗 I didn’t expect that I would succeed, especially on the very first try😅](https://dev.to/kelly_grabill_usa/i-passed-my-drivers-license-and-im-very-happy-i-didnt-expect-that-i-would-succeed-especially-on-the-very-first-try-3pf3)
+- [16 Free New APIs to Supercharge Your Next Project](https://dev.to/halimshams/16-free-new-apis-to-supercharge-your-next-project-4j26)
+- [Learn About the Nonlocal Keyword in Python Programming](https://dev.to/devstoriesplayground/learn-about-the-nonlocal-keyword-in-python-programming-4h24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
