@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Selenium WebDriver for Efficient Automation Testing](https://dev.to/gadekar_sachin/mastering-selenium-webdriver-for-efficient-automation-testing-316h)
-- [Mastering CSS: Understanding the Cascade](https://dev.to/mustapha/mastering-css-understanding-the-cascade-15g)
-- [Os desafios para a modernização de software](https://dev.to/ramonduraes/os-desafios-para-a-modernizacao-de-software-3eo9)
-- [Service: O pattern que virou anti-pattern](https://dev.to/asouza/service-o-pattern-que-virou-anti-pattern-568f)
-- [Flutter Design Systems: Exploring Modern Alternatives to Material Design](https://dev.to/dinko7/flutter-design-systems-exploring-modern-alternatives-to-material-design-23e)
+- [AWS S3 : Object ACLS and Bucket Policies](https://dev.to/oladipupoabeeb/aws-s3-object-acls-and-bucket-policies-14i9)
+- [A Journey with React, Tailwind CSS, and 3D Magic 🎨✨](https://dev.to/randolphdy9/a-journey-with-react-tailwind-css-and-3d-magic-4b62)
+- [Exploring Amazon EC2 Instance Purchasing Options](https://dev.to/sachithmayantha/exploring-amazon-ec2-instance-purchasing-options-4am2)
+- [Understanding Auto Scaling in Kubernetes](https://dev.to/jensen1806/understanding-auto-scaling-in-kubernetes-5gl1)
+- [Docker log rotation](https://dev.to/apetryla/docker-log-rotation-1d59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
