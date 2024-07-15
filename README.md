@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to MongoDB: A NoSQL Database for Modern Applications](https://dev.to/fakii254/introduction-to-mongodb-a-nosql-database-for-modern-applications-149n)
-- [Guide to Using GBase 8s JDBC Driver URL](https://dev.to/congcong/guide-to-using-gbase-8s-jdbc-driver-url-g5n)
-- [Use Guardrails to prevent hallucinations in generative AI applications](https://dev.to/aws/use-guardrails-to-prevent-hallucinations-in-generative-ai-applications-kdg)
-- [How to Enable Two-Factor Authentication &lpar;2FA&rpar; in Boxleo System](https://dev.to/mwacharo6/how-to-enable-two-factor-authentication-2fa-in-boxleo-system-53ll)
-- [Junior Java Developer &lpar;Torino&rpar;](https://dev.to/inrebusrecruiting2023/junior-java-developer-torino-5hcj)
+- [The Role of DORA Metrics in Accelerating Software Delivery](https://dev.to/rose_rusell_8839af0b0bba5/the-role-of-dora-metrics-in-accelerating-software-delivery-4505)
+- [Les meilleurs templates gratuits pour vos sites web](https://dev.to/mscholzdev/les-meilleurs-templates-gratuits-pour-vos-sites-web-op3)
+- [Mastering the Fine Art of Web Development with PHP](https://dev.to/jinesh_vora_ab4d7886e6a8d/mastering-the-fine-art-of-web-development-with-php-59kd)
+- [Task 2 - Constants and variables](https://dev.to/ganesh_balaraman_6edae0d9/task-2-constants-and-variables-fkn)
+- [Six Principles of Effective Writing](https://dev.to/martinbaun/six-principles-of-effective-writing-2644)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
