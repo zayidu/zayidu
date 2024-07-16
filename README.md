@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3 productivity tips for .NET developers](https://dev.to/uno-platform/3-productivity-tips-for-net-developers-4mmo)
-- [Lead level: Lifecycle Methods and Hooks in React](https://dev.to/__zamora__/lead-level-lifecycle-methods-and-hooks-in-react-gna)
-- [Mathematics for Machine Learning](https://dev.to/pourlehommes/mathematics-for-machine-learning-41b2)
-- [Intern level: Lifecycle Methods and Hooks in React](https://dev.to/__zamora__/intern-level-lifecycle-methods-and-hooks-in-react-17ef)
-- [How Bhaiya and Didi Killed the Fresher Job Market](https://dev.to/ankit_raj_61f3ec64f48a491/how-bhaiya-and-didi-killed-the-fresher-job-market-1hd6)
+- [Top 10 Cloud Security Startups to Watch in 2024](https://dev.to/nashetking/top-10-cloud-security-startups-to-watch-in-2024-5964)
+- [Create perfect anime characters with GPT-4o and SDXL](https://dev.to/appbaza/create-perfect-anime-characters-with-gpt-4o-and-sdxl-5a36)
+- [What is an Array in the C Programming Language?](https://dev.to/scholarhattraining/what-is-an-array-in-the-c-programming-language-3gb8)
+- [Simplifying Form Handling in Vue Applications with Form JS - Inspired by Inertia JS](https://dev.to/bedram-tamang/simplifying-form-handling-in-vue-applications-with-form-js-inspired-by-inertia-js-135j)
+- [Local First from Scratch - How to make a web app with local data](https://dev.to/stolinski/local-first-from-scratch-how-to-make-a-web-app-with-local-data-21ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
