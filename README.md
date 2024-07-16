@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices in JavaScript Development](https://dev.to/sh20raj/best-practices-in-javascript-development-2amp)
-- [Why[&#39;1&#39;,&#39;5&#39;,&#39;11&#39;].map&lpar;parseInt&rpar; returns [1, NaN, 3] in Javascript](https://dev.to/safdarali/why1511mapparseint-returns-1-nan-3-in-javascript-2mhm)
-- [Kubernetes- Advanced Concepts: Day 8 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/kubernetes-advanced-concepts-day-8-of-50-days-devops-tools-series-5f0p)
-- [Visual Test Automation with Python and Applitools: Using Ignore Regions](https://dev.to/jeissyguimaraes/visual-test-automation-with-python-and-applitools-using-ignore-regions-2k4p)
-- [How I added a guestbook to my website with Clerk, Neon, and Netlify Functions](https://dev.to/brianmmdev/how-i-added-a-guestbook-to-my-website-with-clerk-neon-and-netlify-functions-5abe)
+- [What are Azure&#39;s Deployment Models?](https://dev.to/1hamzabek/what-are-azures-deployment-models-21if)
+- [Can End-To-End Encryption be Hacked? – Details Explained](https://dev.to/clouddefenseai/can-end-to-end-encryption-be-hacked-details-explained-lg4)
+- [A beginner&#39;s guide to the Sdxl-Emoji model by Fofr on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-sdxl-emoji-model-by-fofr-on-replicate-48m2)
+- [HTML Semântico: O que, por quê e como](https://dev.to/dougsource/html-semantico-o-que-por-que-e-como-2i33)
+- [HTML Semântico: O que, por quê e como](https://dev.to/dougsource/html-semantico-o-que-por-que-e-como-k4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
