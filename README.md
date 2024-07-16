@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You need to start learning MySQL right now!](https://dev.to/valterseu/you-need-to-start-learning-mysql-right-now-4ll0)
-- [No-Spoiler FF14 Progress Checks](https://dev.to/tarsir/no-spoiler-ff14-progress-checks-2dhi)
-- [Virtual DOM: Revolutionizing Modern Web Development](https://dev.to/mdhassanpatwary/virtual-dom-revolutionizing-modern-web-development-18f9)
-- [Product Discovery Toolkit](https://dev.to/zerocodilla/product-discovery-toolkit-42i)
-- [Code Refactoring: Avoid Prop Drilling in Vue with Provide/Inject](https://dev.to/nazirul_amin/code-refactoring-avoid-prop-drilling-in-vue-with-provideinject-19le)
+- [Beginner Frontend Mistakes and How to Avoid Them](https://dev.to/klimd1389/beginner-frontend-mistakes-and-how-to-avoid-them-4j6a)
+- [Safely Experiment with Angular 18: A Guide for Developers with Existing 16 &amp; 17 Projects](https://dev.to/ingila185/safely-experiment-with-angular-18-a-guide-for-developers-with-existing-16-17-projects-3c3)
+- [Integrate APIs in Android: Compose, MVVM, Retrofit](https://dev.to/tappai/integrate-apis-in-android-compose-mvvm-retrofit-4ec4)
+- [Understanding OpenAi’s Temperature Parameter](https://dev.to/mrunmaylangdb/understanding-openais-temperature-parameter-2pj6)
+- [Feature Engineering in ML](https://dev.to/ngneha09/feature-engineering-in-ml-35id)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
