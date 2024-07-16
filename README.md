@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source C++ Stack](https://dev.to/eugeneo_17/open-source-c-stack-2j67)
-- [🚀 20 Days to Azure DevOps Superstardom! 🌟](https://dev.to/narashim_reddy_7a38c654ba/20-days-to-azure-devops-superstardom-4lg6)
-- [Top 10 Cloud Security Startups to Watch in 2024](https://dev.to/nashetking/top-10-cloud-security-startups-to-watch-in-2024-5964)
-- [Build a Compiler in C language](https://dev.to/bekbrace/build-a-compiler-in-c-language-3lgb)
-- [Como configurar o VSCode para seus projetos de React](https://dev.to/dougsource/como-configurar-o-vscode-para-seus-projetos-de-react-k2b)
+- [Beginner&#39;s Tutorial for CRUD Operations in NodeJS and MongoDB](https://dev.to/danmusembi/beginners-tutorial-for-crud-operations-in-nodejs-and-mongodb-k7k)
+- [Have you tried all API calls in JavaScript? Here are 4 ways to do it](https://dev.to/tomasdevs/have-you-tried-all-api-calls-in-javascript-here-are-4-ways-to-do-it-4l4d)
+- [System Architecture Design Methodologies Part1](https://dev.to/usmanatx/system-architecture-design-methodologies-part1-3g6p)
+- [How often do you run your agile retrospectives?](https://dev.to/mattlewandowski93/how-often-do-you-run-your-agile-retrospectives-19lg)
+- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.14](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-214-4p20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
