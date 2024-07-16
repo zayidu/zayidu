@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Artificial Intelligence with ML.NET for text classifications](https://dev.to/ben-witt/artificial-intelligence-with-mlnet-for-text-classifications-42j6)
-- [Top 10 must use Nuxt modules](https://dev.to/leamsigc/top-10-must-use-nuxt-modules-dmo)
-- [6 Top Courses to Master Software Architecture](https://dev.to/tectrain_academy/6-top-courses-to-master-software-architecture-3j0g)
-- [A Detailed Guide to the React JS Roadmap: Your Path to Mastering React in 2024](https://dev.to/javafullstackdev/a-detailed-guide-to-the-react-js-roadmap-your-path-to-mastering-react-in-2024-4pad)
-- [The Fragmentation in API Tooling: Specialized Tools, Inefficient Processes](https://dev.to/iamspathan/the-fragmentation-in-api-tooling-specialized-tools-inefficient-processes-h58)
+- [You need to start learning MySQL right now!](https://dev.to/valterseu/you-need-to-start-learning-mysql-right-now-4ll0)
+- [No-Spoiler FF14 Progress Checks](https://dev.to/tarsir/no-spoiler-ff14-progress-checks-2dhi)
+- [Virtual DOM: Revolutionizing Modern Web Development](https://dev.to/mdhassanpatwary/virtual-dom-revolutionizing-modern-web-development-18f9)
+- [Product Discovery Toolkit](https://dev.to/zerocodilla/product-discovery-toolkit-42i)
+- [Code Refactoring: Avoid Prop Drilling in Vue with Provide/Inject](https://dev.to/nazirul_amin/code-refactoring-avoid-prop-drilling-in-vue-with-provideinject-19le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
