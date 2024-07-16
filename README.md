@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are SOLID Principles? Simplifying Software Architecture](https://dev.to/vampirepapi/what-are-solid-principles-simplifying-software-architecture-2cbf)
-- [How to build a full stack blog application using NodeJS MongoDB ExpressJS](https://dev.to/codewithsadee/how-to-build-a-full-stack-blog-application-using-nodejs-mongodb-expressjs-4mkj)
-- [Best Architecture for Your Next Project, Framework Doesn’t Matter! 🎉](https://dev.to/middleware/best-architecture-for-your-next-project-framework-doesnt-matter-29em)
-- [Typescript tuples aren&#39;t tuples](https://dev.to/rrees/typescript-tuples-arent-tuples-28kj)
-- [How Wedding App Development Can Simplify Your Big Day](https://dev.to/chariesdevil/how-wedding-app-development-can-simplify-your-big-day-o5j)
+- [Best Practices in JavaScript Development](https://dev.to/sh20raj/best-practices-in-javascript-development-2amp)
+- [Why[&#39;1&#39;,&#39;5&#39;,&#39;11&#39;].map&lpar;parseInt&rpar; returns [1, NaN, 3] in Javascript](https://dev.to/safdarali/why1511mapparseint-returns-1-nan-3-in-javascript-2mhm)
+- [Kubernetes- Advanced Concepts: Day 8 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/kubernetes-advanced-concepts-day-8-of-50-days-devops-tools-series-5f0p)
+- [Visual Test Automation with Python and Applitools: Using Ignore Regions](https://dev.to/jeissyguimaraes/visual-test-automation-with-python-and-applitools-using-ignore-regions-2k4p)
+- [How I added a guestbook to my website with Clerk, Neon, and Netlify Functions](https://dev.to/brianmmdev/how-i-added-a-guestbook-to-my-website-with-clerk-neon-and-netlify-functions-5abe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
