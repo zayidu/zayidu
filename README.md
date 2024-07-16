@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VSCode Tips &amp; Tricks - Open Class per Name](https://dev.to/intersystems/vscode-tips-tricks-open-class-per-name-1fpo)
-- [The Future of Full-Stack Development in 2024: Trends and Best Practices](https://dev.to/matin_mollapur/the-future-of-full-stack-development-in-2024-trends-and-best-practices-2736)
-- [Troubleshooting Karpenter Errors: Resolving the ImagePullBackoff issue](https://dev.to/fernandomullerjr/troubleshooting-karpenter-errors-resolving-the-imagepullbackoff-issue-c70)
-- [Teste do Capítulo 3](https://dev.to/devsjavagirls/teste-do-capitulo-3-59e0)
-- [Laços aninhados](https://dev.to/devsjavagirls/lacos-aninhados-5e00)
+- [3 productivity tips for .NET developers](https://dev.to/uno-platform/3-productivity-tips-for-net-developers-4mmo)
+- [Lead level: Lifecycle Methods and Hooks in React](https://dev.to/__zamora__/lead-level-lifecycle-methods-and-hooks-in-react-gna)
+- [Mathematics for Machine Learning](https://dev.to/pourlehommes/mathematics-for-machine-learning-41b2)
+- [Intern level: Lifecycle Methods and Hooks in React](https://dev.to/__zamora__/intern-level-lifecycle-methods-and-hooks-in-react-17ef)
+- [How Bhaiya and Didi Killed the Fresher Job Market](https://dev.to/ankit_raj_61f3ec64f48a491/how-bhaiya-and-didi-killed-the-fresher-job-market-1hd6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
