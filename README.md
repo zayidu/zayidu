@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Game-Changing ReactJS Shortcuts for Writing Clean Code in 2024](https://dev.to/vyan/8-game-changing-reactjs-shortcuts-for-writing-clean-code-in-2024-5a21)
-- [The Ultimate Guide to Refreshing Programming Tutorials](https://dev.to/jeffmorhous/the-ultimate-guide-to-refreshing-programming-tutorials-15c3)
-- [Docker: Introdução](https://dev.to/felipeboliveiraptbr/docker-introducao-893)
-- [Command line tools for deploying based on node.js](https://dev.to/longlongago/command-line-tools-for-deploying-based-on-nodejs-3nng)
-- [MongoDB Schema Design, Indexes &amp; More Best Practices](https://dev.to/tarikul01/mongodb-schema-design-indexes-more-best-practices-3p75)
+- [How to Add an AI Voice Assistant to Your React App](https://dev.to/mahmoudz/how-to-add-an-ai-voice-assistant-to-your-react-app-15ne)
+- [Tips for Resource Allocation in Project Management](https://dev.to/bryany/tips-for-resource-allocation-in-project-management-153f)
+- [VS Code Shortcut Tips: Boost Your Productivity](https://dev.to/mdhassanpatwary/vs-code-shortcut-tips-boost-your-productivity-2ba7)
+- [First Python Program](https://dev.to/mani_prabhu_m/first-python-program-36e4)
+- [Hinton Diagrams | Weight Matrix Visualization](https://dev.to/labex/hinton-diagrams-weight-matrix-visualization-5e1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
