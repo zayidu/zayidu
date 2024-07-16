@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What are Azure&#39;s Deployment Models?](https://dev.to/1hamzabek/what-are-azures-deployment-models-21if)
-- [Can End-To-End Encryption be Hacked? – Details Explained](https://dev.to/clouddefenseai/can-end-to-end-encryption-be-hacked-details-explained-lg4)
-- [A beginner&#39;s guide to the Sdxl-Emoji model by Fofr on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-sdxl-emoji-model-by-fofr-on-replicate-48m2)
-- [HTML Semântico: O que, por quê e como](https://dev.to/dougsource/html-semantico-o-que-por-que-e-como-2i33)
-- [HTML Semântico: O que, por quê e como](https://dev.to/dougsource/html-semantico-o-que-por-que-e-como-k4k)
+- [Single Page Applications &lpar;SPAs&rpar;](https://dev.to/sh20raj/single-page-applications-spas-5a7i)
+- [T-shirt Tuesday!](https://dev.to/buildwebcrumbs/t-shirt-tuesday-4k7o)
+- [Deep Dive into Elastic Cloud Enterprise &lpar;ECE&rpar;](https://dev.to/sennovate/deep-dive-into-elastic-cloud-enterprise-ece-44g2)
+- [Pergunte ao especialista - Break e goto](https://dev.to/devsjavagirls/pergunte-ao-especialista-break-e-goto-12dm)
+- [Break para sair de um laço](https://dev.to/devsjavagirls/break-para-sair-de-um-laco-5d18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
