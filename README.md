@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source C++ Stack](https://dev.to/eugeneo_17/open-source-c-stack-2j67)
+- [🚀 20 Days to Azure DevOps Superstardom! 🌟](https://dev.to/narashim_reddy_7a38c654ba/20-days-to-azure-devops-superstardom-4lg6)
 - [Top 10 Cloud Security Startups to Watch in 2024](https://dev.to/nashetking/top-10-cloud-security-startups-to-watch-in-2024-5964)
-- [Create perfect anime characters with GPT-4o and SDXL](https://dev.to/appbaza/create-perfect-anime-characters-with-gpt-4o-and-sdxl-5a36)
-- [What is an Array in the C Programming Language?](https://dev.to/scholarhattraining/what-is-an-array-in-the-c-programming-language-3gb8)
-- [Simplifying Form Handling in Vue Applications with Form JS - Inspired by Inertia JS](https://dev.to/bedram-tamang/simplifying-form-handling-in-vue-applications-with-form-js-inspired-by-inertia-js-135j)
-- [Local First from Scratch - How to make a web app with local data](https://dev.to/stolinski/local-first-from-scratch-how-to-make-a-web-app-with-local-data-21ia)
+- [Build a Compiler in C language](https://dev.to/bekbrace/build-a-compiler-in-c-language-3lgb)
+- [Como configurar o VSCode para seus projetos de React](https://dev.to/dougsource/como-configurar-o-vscode-para-seus-projetos-de-react-k2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
