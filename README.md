@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Modular Decoupled Backend using a Monorepo](https://dev.to/woovi/building-a-modular-decoupled-backend-using-a-monorepo-2fik)
-- [Cloning Reactive Objects in JavaScript](https://dev.to/akshayashet/cloning-reactive-objects-in-javascript-2h8f)
-- [Question: HTML Elements in Laravel](https://dev.to/alan_kilgore_51a5a5e99574/html-elements-in-laravel-4127)
-- [Linking multiple API requests: A new approach](https://dev.to/nikoldimit/linking-multiple-api-requests-a-new-approach-1a88)
-- [How to Learn Xcode: A Comprehensive Guide](https://dev.to/bilal_zafar_2f9fbe7ef50b5/how-to-learn-xcode-a-comprehensive-guide-50d)
+- [Comparing Embedded Systems and Desktop Systems](https://dev.to/jpdengler/comparing-embedded-systems-and-desktop-systems-2lm6)
+- [Human-in-the-Loop Visual Re-ID for Population Size Estimation](https://dev.to/mikeyoung44/human-in-the-loop-visual-re-id-for-population-size-estimation-1an)
+- [UNSAT Solver Synthesis via Monte Carlo Forest Search](https://dev.to/mikeyoung44/unsat-solver-synthesis-via-monte-carlo-forest-search-3m22)
+- [Pexl Keys - How to Upgrade Microsoft Office 2019 to 2021](https://dev.to/pexlkeys/pexl-keys-how-to-upgrade-microsoft-office-2019-to-2021-8i7)
+- [SparQ Attention: Bandwidth-Efficient LLM Inference](https://dev.to/mikeyoung44/sparq-attention-bandwidth-efficient-llm-inference-493p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
