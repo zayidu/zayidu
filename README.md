@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Obtain M2M access tokens in minutes with Postman](https://dev.to/logto/obtain-m2m-access-tokens-in-minutes-with-postman-3c7h)
-- [How I migrated my course platform to the SPARTAN stack &lpar;Angular Global Summit 2024&rpar;](https://dev.to/chrislydemann/how-i-migrated-my-course-platform-to-the-spartan-stack-angular-global-summit-2024-17kf)
-- [Send certificate &amp; Key file in Rest Api](https://dev.to/shahanshah_alam_e5655bc6d/send-certificate-key-file-in-rest-api-47f8)
-- [IntelliType: Python Type Hinting with Hoverable Docstrings](https://dev.to/crimson206/intellitype-python-type-hinting-with-hoverable-docstrings-2bck)
-- [How to SSH to a Linux server](https://dev.to/stippy4real/how-to-ssh-to-a-linux-server-4oo6)
+- [Building a Modular Decoupled Backend using a Monorepo](https://dev.to/woovi/building-a-modular-decoupled-backend-using-a-monorepo-2fik)
+- [Cloning Reactive Objects in JavaScript](https://dev.to/akshayashet/cloning-reactive-objects-in-javascript-2h8f)
+- [Question: HTML Elements in Laravel](https://dev.to/alan_kilgore_51a5a5e99574/html-elements-in-laravel-4127)
+- [Linking multiple API requests: A new approach](https://dev.to/nikoldimit/linking-multiple-api-requests-a-new-approach-1a88)
+- [How to Learn Xcode: A Comprehensive Guide](https://dev.to/bilal_zafar_2f9fbe7ef50b5/how-to-learn-xcode-a-comprehensive-guide-50d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
