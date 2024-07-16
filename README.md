@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is prisma orm bad?](https://dev.to/yelldutz/why-is-prisma-orm-bad-2aba)
-- [Good morning Developers](https://dev.to/aadarshk7/good-morning-developers-e9m)
-- [Mastering Git Log: Unlocking the power of Version Control](https://dev.to/fernandomullerjr/mastering-git-log-unlocking-the-power-of-version-control-d3b)
-- [Common Lisp&#39;s group-by is Serapeum:assort](https://dev.to/vindarel/common-lisps-group-by-is-serapeumassort-32ma)
-- [Day 12 of my 90-Devops Journey: CI/CD for Containerized Applications: A GitLab Guide](https://dev.to/arbythecoder/day-12-of-my-90-devops-journey-cicd-for-containerized-applications-a-gitlab-guide-1hfd)
+- [8 Game-Changing ReactJS Shortcuts for Writing Clean Code in 2024](https://dev.to/vyan/8-game-changing-reactjs-shortcuts-for-writing-clean-code-in-2024-5a21)
+- [The Ultimate Guide to Refreshing Programming Tutorials](https://dev.to/jeffmorhous/the-ultimate-guide-to-refreshing-programming-tutorials-15c3)
+- [Docker: Introdução](https://dev.to/felipeboliveiraptbr/docker-introducao-893)
+- [Command line tools for deploying based on node.js](https://dev.to/longlongago/command-line-tools-for-deploying-based-on-nodejs-3nng)
+- [MongoDB Schema Design, Indexes &amp; More Best Practices](https://dev.to/tarikul01/mongodb-schema-design-indexes-more-best-practices-3p75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
