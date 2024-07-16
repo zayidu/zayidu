@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Single Page Applications &lpar;SPAs&rpar;](https://dev.to/sh20raj/single-page-applications-spas-5a7i)
-- [T-shirt Tuesday!](https://dev.to/buildwebcrumbs/t-shirt-tuesday-4k7o)
-- [Deep Dive into Elastic Cloud Enterprise &lpar;ECE&rpar;](https://dev.to/sennovate/deep-dive-into-elastic-cloud-enterprise-ece-44g2)
-- [Pergunte ao especialista - Break e goto](https://dev.to/devsjavagirls/pergunte-ao-especialista-break-e-goto-12dm)
-- [Break para sair de um laço](https://dev.to/devsjavagirls/break-para-sair-de-um-laco-5d18)
+- [VSCode Tips &amp; Tricks - Open Class per Name](https://dev.to/intersystems/vscode-tips-tricks-open-class-per-name-1fpo)
+- [The Future of Full-Stack Development in 2024: Trends and Best Practices](https://dev.to/matin_mollapur/the-future-of-full-stack-development-in-2024-trends-and-best-practices-2736)
+- [Troubleshooting Karpenter Errors: Resolving the ImagePullBackoff issue](https://dev.to/fernandomullerjr/troubleshooting-karpenter-errors-resolving-the-imagepullbackoff-issue-c70)
+- [Teste do Capítulo 3](https://dev.to/devsjavagirls/teste-do-capitulo-3-59e0)
+- [Laços aninhados](https://dev.to/devsjavagirls/lacos-aninhados-5e00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
