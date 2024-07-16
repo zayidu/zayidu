@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fighting the Battle of the Bulge Against Windows](https://dev.to/coffmans/fighting-the-battle-of-the-bulge-against-windows-5582)
-- [Python Loops 1](https://dev.to/coderanger08/python-loops-1-5dho)
-- [Os principais erros de programadores em entrevistas de emprego](https://dev.to/codigoaoponto/os-principais-erros-de-programadores-em-entrevistas-de-emprego-1ae9)
-- [Day 991 : All Kind Of Ideas](https://dev.to/dwane/day-991-all-kind-of-ideas-4k2e)
-- [Introduction to Functional Programming in JavaScript: Different monads #11](https://dev.to/francescoagati/introduction-to-functional-programming-in-javascript-different-monads-11-2je1)
+- [Day 12 of my 90-Devops Journey: CI/CD for Containerized Applications: A GitLab Guide](https://dev.to/arbythecoder/day-12-of-my-90-devops-journey-cicd-for-containerized-applications-a-gitlab-guide-1hfd)
+- [Building Web APIs with Ruby on Rails](https://dev.to/kartikmehta8/building-web-apis-with-ruby-on-rails-ea)
+- [[Game of Purpose] Day 58](https://dev.to/humberd/game-of-purpose-day-58-5cmg)
+- [Monolithic vs Microservice Architecture: A Beginner&#39;s Guide](https://dev.to/dev_habib_nuhu/monolithic-vs-microservice-architecture-a-beginners-guide-3cge)
+- [Benefícios do Uso de Streams em Node.js](https://dev.to/vitorrios1001/beneficios-do-uso-de-streams-em-nodejs-3o50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
