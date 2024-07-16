@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Day34 Dynamic Programming part8](https://dev.to/flame_chan_llll/leetcode-day34-dynamic-programming-part8-55hh)
-- [How to Avoid the Lottery Factor](https://dev.to/joaomarques/how-to-avoid-the-lottery-factor-52e2)
-- [Flexbox Cheatsheet : Learn in Easy Way](https://dev.to/srijan_karki/flexbox-cheatsheet-learn-in-easy-way-456b)
-- [Different Encoding Methods for your Dataset.](https://dev.to/krishsharma0413/different-encoding-methods-for-your-dataset-3ceh)
-- [Introduction to High Availability in GBase 8a](https://dev.to/congcong/introduction-to-high-availability-in-gbase-8a-7jf)
+- [Digital Accessibility, Why Does It Matter?](https://dev.to/mdhassanpatwary/digital-accessibility-why-does-it-matter-133j)
+- [Enhancing User Experience With Browser Synthetic Monitoring](https://dev.to/supratipb/enhancing-user-experience-with-browser-synthetic-monitoring-g7c)
+- [How to Use Appium for Fire TV App Test Automation](https://dev.to/berthaw82414312/how-to-use-appium-for-fire-tv-app-test-automation-2ag1)
+- [Ceph의 이해&lpar;2&rpar; - backfill, scrub](https://dev.to/hj_lee/cephyi-ihae2-backfill-scrub-4311)
+- [DevOps on the Cloud: Top 10 Careers Soaring in the Future](https://dev.to/marufhossain/devops-on-the-cloud-top-10-careers-soaring-in-the-future-27em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
