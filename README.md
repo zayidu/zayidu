@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [shadcn-ui/ui codebase analysis: How does shadcn-ui CLI work? — Part 2.15](https://dev.to/ramunarasinga/shadcn-uiui-codebase-analysis-how-does-shadcn-ui-cli-work-part-215-1f9p)
-- [Software Developers: 7 Proven Steps to Navigate Complex Software](https://dev.to/dishitdevasia/software-developers-7-proven-steps-to-navigate-complex-software-4mjp)
-- [Open Stats for LLM Usage](https://dev.to/lina_lam_9ee459f98b67e9d5/open-stats-for-llm-usage-50ai)
-- [Easy PHPMailer Tutorial: Build an Email System in No Time [2024] ✉🚀](https://dev.to/devella/easy-phpmailer-tutorial-build-an-email-system-in-no-time-2024-23mg)
-- [Practical LLM - Matching and Ranking by Erik Schmiegelow, CEO of Hivemind Technologies AG](https://dev.to/nikitakoselev/practical-llm-matching-and-ranking-by-erik-schmiegelow-ceo-of-hivemind-technologies-ag-55mj)
+- [Fundamentals of Entity Framework: Simplifying Data Access in .NET](https://dev.to/fabrcio_marcondessantos/fundamentals-of-entity-framework-simplifying-data-access-in-net-2a2b)
+- [How to Choose a Web Host?](https://dev.to/hjgonzalez06/how-to-choose-a-web-host-oh1)
+- [Remix Authentication with Amazon Cognito](https://dev.to/slamflipstrom/remix-authentication-with-amazon-cognito-ool)
+- [2 v 1 Turret](https://dev.to/kevinpalma21/2-v-1-turret-40f4)
+- [Creating Better Test Scenarios in Ruby on Rails](https://dev.to/alanmaik/creating-better-test-scenarios-in-ruby-on-rails-1hee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
