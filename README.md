@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NestJS Testing Unit and E2E](https://dev.to/tkssharma/nestjs-testing-unit-and-e2e-km2)
-- [Publishing Packages to GitHub with GitHub Actions](https://dev.to/tkssharma/publishing-packages-to-github-with-github-actions-54bm)
-- [From Callback Chaos to Promise Paradise: Simplify Asynchronous JavaScript](https://dev.to/devishraq/from-callback-chaos-to-promise-paradise-simplify-asynchronous-javascript-46mg)
-- [The Value of Community Conferences](https://dev.to/amandamartindev/the-value-of-community-conferences-5fh3)
-- [Dynamic programming: Teach me like I am 5!](https://dev.to/yourtechsiss/dynamic-programming-teach-me-like-i-am-5-6o)
+- [#27 — Group and Summarize A Table Where Every N Rows Consists of A Range by Column](https://dev.to/judith677/27-group-and-summarize-a-table-where-every-n-rows-consists-of-a-range-by-column-3863)
+- [Practicing with Google Cloud Platform - Google Kubernetes Engine to deploy nginx](https://dev.to/chauhoangminhnguyen/practicing-with-google-cloud-platform-google-kubernetes-engine-to-deploy-nginx-4hpk)
+- [🔒 Essential Node.js Security Best Practices](https://dev.to/dipakahirav/essential-nodejs-security-best-practices-2mh8)
+- [Fixing AWS MFA Entity Already Exists error](https://dev.to/vsrnth/fixing-aws-mfa-entity-already-exists-error-1b6h)
+- [React is not hard - React from 0 to expert](https://dev.to/juanemilio31323/react-is-not-hard-react-from-0-to-expert-2ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
