@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to CSS Button Animations](https://dev.to/arsalanmee/introduction-to-css-button-animations-4322)
-- [What is Data-Driven Testing with Selenium WebDriver and Java #interviewQuestion](https://dev.to/codegreen/what-is-data-driven-testing-with-selenium-webdriver-and-java-interviewquestion-3p1i)
-- [Day8 of 100DaysOfHTML](https://dev.to/koichiarai/day8-of-100daysofhtml-ik3)
-- [Wasp Launch Week #6: The Fun Side of Web Development 🕺](https://dev.to/wasp/wasp-launch-week-6-the-fun-side-of-web-development-52go)
-- [Are Next.js Server Actions Secure?](https://dev.to/sh20raj/are-nextjs-server-actions-secure-e04)
+- [PhpGram - A PHP library for interacting with the Telegram Bot API.](https://dev.to/sh20raj/phpgram-a-php-library-for-interacting-with-the-telegram-bot-api-3pip)
+- [What Happens When You Type https://www.google.com in Your Browser and Press Enter?](https://dev.to/code_japi/what-happens-when-you-type-httpswwwgooglecom-in-your-browser-and-press-enter-4m7h)
+- [Deep Dive into PandApache3: Understanding Connection Management and Response Generation](https://dev.to/pykpyky/deep-dive-into-pandapache3-understanding-connection-management-and-response-generation-1afo)
+- [Try the Integration Challenge – run our Android SDK in 10 minutes or less](https://dev.to/scanbot-sdk/try-the-integration-challenge-run-our-android-sdk-in-10-minutes-or-less-nob)
+- [The Epic Tales of Shahnameh: Heroes and Legends of Persian Mythology](https://dev.to/saeedhasani_55/the-epic-tales-of-shahnameh-heroes-and-legends-of-persian-mythology-2m8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
