@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why learn coding?](https://dev.to/qbts_load_1d475b5619cf613/why-learn-coding-51cg)
-- [Deploy Microservice to AWS EC2 Instances](https://dev.to/tkssharma/deploy-microservice-to-aws-ec2-instances-35o6)
-- [The Ultimate Guide to Custom Theming with React Native Paper, Expo and Expo Router](https://dev.to/hemanshum/the-ultimate-guide-to-custom-theming-with-react-native-paper-expo-and-expo-router-3hjl)
-- [Mastering Microservices: Node.js 12 Factor App Development](https://dev.to/tkssharma/mastering-microservices-nodejs-12-factor-app-development-23d5)
-- [Integrated Traffic Management System with Predictive Modeling and Visualization](https://dev.to/ekemini_thompson/integrated-traffic-management-system-with-predictive-modeling-and-visualization-37ef)
+- [Newbie](https://dev.to/luke_manyamazi_14765e8475/newbie-5hi9)
+- [Handling Outliers|| Feature Engineering || Machine Learning](https://dev.to/ngneha09/handling-outliers-feature-engineering-machine-learning-3316)
+- [What is Digital Experience Monitoring? - A Comprehensive Guide to DEM](https://dev.to/grjoeay/what-is-digital-experience-monitoring-a-comprehensive-guide-to-dem-47i3)
+- [Storing and Securing User Data: Methods Used by Facebook and Google](https://dev.to/adityabhuyan/storing-and-securing-user-data-methods-used-by-facebook-and-google-3f9p)
+- [Day 3: Data types and variables in python 🧡](https://dev.to/aryan015/day-3-data-types-and-variables-in-python-3e3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
