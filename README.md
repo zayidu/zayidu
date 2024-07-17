@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Nextjs 15 &amp; React 19 Dashboard App Step By Step](https://dev.to/basir/nextjs-15-react-19-dashboard-app-step-by-step-4l2n)
-- [Good news is here! 🎉🎉🎉Use Artipub to automatically publish the article to more platforms](https://dev.to/yxw007/good-news-is-here-use-artipub-to-automatically-publish-the-article-to-more-platforms-2abo)
-- [Matplotlib in Flask Web Application Server](https://dev.to/labex/matplotlib-in-flask-web-application-server-2okj)
-- [Security Meetup](https://dev.to/tecno-security/security-meetup-4d75)
-- [Best Practices for Cloud Maturity Model: Elevate your Cloud Adoption](https://dev.to/emma_wags_8dd9b74533690da/best-practices-for-cloud-maturity-model-elevate-your-cloud-adoption-1n38)
+- [Why learn coding?](https://dev.to/qbts_load_1d475b5619cf613/why-learn-coding-51cg)
+- [Deploy Microservice to AWS EC2 Instances](https://dev.to/tkssharma/deploy-microservice-to-aws-ec2-instances-35o6)
+- [The Ultimate Guide to Custom Theming with React Native Paper, Expo and Expo Router](https://dev.to/hemanshum/the-ultimate-guide-to-custom-theming-with-react-native-paper-expo-and-expo-router-3hjl)
+- [Mastering Microservices: Node.js 12 Factor App Development](https://dev.to/tkssharma/mastering-microservices-nodejs-12-factor-app-development-23d5)
+- [Integrated Traffic Management System with Predictive Modeling and Visualization](https://dev.to/ekemini_thompson/integrated-traffic-management-system-with-predictive-modeling-and-visualization-37ef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
