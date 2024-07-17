@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How can I start web development?](https://dev.to/ramiroangelb/how-can-i-start-web-development-27p3)
-- [AMD’s Strategic Acquisition of Silo AI: A Catalyst for AI Dominance](https://dev.to/hyscaler/amds-strategic-acquisition-of-silo-ai-a-catalyst-for-ai-dominance-2af6)
-- [Bubble Sort](https://dev.to/paulike/bubble-sort-4k1o)
-- [JavaScript Event Loop: A Deep Dive](https://dev.to/just_ritik/javascript-event-loop-a-deep-dive-4g00)
-- [10 Captivating C Programming Challenges from LabEx 🧠](https://dev.to/labex/10-captivating-c-programming-challenges-from-labex-33gm)
+- [Qwen2 Technical Report](https://dev.to/mikeyoung44/qwen2-technical-report-o8c)
+- [Kubernetes -Services, Ingress, and ConfigurationsDay 9 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/kubernetes-services-ingress-and-configurationsday-9-of-50-days-devops-tools-series-95b)
+- [Rede de criação de valor em DevRel](https://dev.to/awdren/rede-de-criacao-de-valor-em-devrel-25n)
+- [TypeScript strictly typed - Part 3: safe nullability](https://dev.to/cyrilletuzi/typescript-strictly-typed-part-3-safe-nullability-38mf)
+- [Best Practices for Using Pydantic in Python](https://dev.to/devasservice/best-practices-for-using-pydantic-in-python-2021)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
