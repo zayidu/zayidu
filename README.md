@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Has to Be Fun - How I Learn](https://dev.to/juanemilio31323/learning-has-to-be-fun-how-i-learn-5akd)
-- [Architect level: Routing with React Router](https://dev.to/__zamora__/architect-level-routing-with-react-router-3c0j)
-- [Lead level: Routing with React Router](https://dev.to/__zamora__/lead-level-routing-with-react-router-2b2c)
-- [Declarative Multi-Engine Data Stack with Ibis](https://dev.to/letsql/declarative-multi-engine-data-stack-with-ibis-3015)
-- [Senior level: Routing with React Router](https://dev.to/__zamora__/senior-level-routing-with-react-router-17pb)
+- [Start With Creating a Simple Project on MongoDB with NodeJs](https://dev.to/devops_den/start-with-creating-a-simple-project-on-mongodb-with-nodejs-45ih)
+- [Exploring the World of Chatbots: From Rule-Based to AI-Powered](https://dev.to/balagmadhu/exploring-the-world-of-chatbots-from-rule-based-to-ai-powered-2ja5)
+- [40 Days Of Kubernetes &lpar;16/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-1640-3670)
+- [6 Years of Teaching to 6 Figures](https://dev.to/muydanny/6-years-of-teaching-to-6-figures-h61)
+- [Any Tips or Resources for Beginners?](https://dev.to/grant_ghost_d5a51e2c0d7c5/any-tips-or-resources-for-beginners-del)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
