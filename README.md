@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Uptime Kuma: Monitor and track the uptime of services 🔎](https://dev.to/disane/uptime-kuma-monitor-and-track-the-uptime-of-services-3a3o)
-- [O Developer e a Síndrome da Ilha Deserta](https://dev.to/ramonduraes/o-developer-e-a-sindrome-da-ilha-deserta-bi1)
-- [Todo Mundo Precisa de um Design System... Mas Ninguém Quer Mantê-lo!](https://dev.to/viquitor/todo-mundo-precisa-de-um-design-system-mas-ninguem-quer-mante-lo-2bfo)
-- [Navigating the Complexities: How to Disable the Back Button in React Navigation](https://dev.to/scholarhattraining/navigating-the-complexities-how-to-disable-the-back-button-in-react-navigation-7hg)
-- [Unveiling AWS Inspector: The Unstoppable Cyber Sentinel - Mastering Vulnerability Assessment with Cloud Omniscience](https://dev.to/ikoh_sylva/unveiling-aws-inspector-the-unstoppable-cyber-sentinel-mastering-vulnerability-assessment-with-cloud-omniscience-2o2)
+- [Learning Has to Be Fun - How I Learn](https://dev.to/juanemilio31323/learning-has-to-be-fun-how-i-learn-5akd)
+- [Architect level: Routing with React Router](https://dev.to/__zamora__/architect-level-routing-with-react-router-3c0j)
+- [Lead level: Routing with React Router](https://dev.to/__zamora__/lead-level-routing-with-react-router-2b2c)
+- [Declarative Multi-Engine Data Stack with Ibis](https://dev.to/letsql/declarative-multi-engine-data-stack-with-ibis-3015)
+- [Senior level: Routing with React Router](https://dev.to/__zamora__/senior-level-routing-with-react-router-17pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
