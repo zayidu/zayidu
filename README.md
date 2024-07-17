@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Smooth Transitioning Dialog Component in React &lpar;Part 4/4&rpar;](https://dev.to/copet80/creating-a-smooth-transitioning-dialog-component-in-react-part-44-5236)
-- [21 Open Source LLM Projects to Become 10x AI Developer](https://dev.to/latitude/21-open-source-llm-projects-to-become-10x-ai-developer-fe0)
-- [Android: Determine how many users are using DarkMode](https://dev.to/paulfranco/android-determine-how-many-users-are-using-darkmode-58dj)
-- [Import Excel/datasheet data to your Nextjs application](https://dev.to/shagun/import-exceldatasheet-data-to-your-nextjs-application-i64)
-- [Mastering CSS Specificity: Simplified Guide](https://dev.to/mdhassanpatwary/mastering-css-specificity-simplified-guide-38cc)
+- [Gaming &amp; Web3 - How an Open and Secure Future of Ownership in Games Could Look](https://dev.to/hendrikebbers/gaming-web3-how-an-open-and-secure-future-of-ownership-in-games-could-look-2ihf)
+- [Wednesday Links - Edition 2024-07-17](https://dev.to/wyhasany/wednesday-links-edition-2024-07-17-52cf)
+- [GBase 8c Compatibility Guide](https://dev.to/congcong/gbase-8c-compatibility-guide-4e3e)
+- [Proteger mediante CloudFlare un sitio alojado en S3](https://dev.to/sjim-akt/proteger-mediante-cloudflare-un-sitio-alojado-en-s3-4n4e)
+- [@let: New feature compiler in Angular 18.1](https://dev.to/this-is-angular/let-new-feature-compiler-in-angular-181-jen)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
