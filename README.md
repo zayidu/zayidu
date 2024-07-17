@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gaming &amp; Web3 - How an Open and Secure Future of Ownership in Games Could Look](https://dev.to/hendrikebbers/gaming-web3-how-an-open-and-secure-future-of-ownership-in-games-could-look-2ihf)
-- [Wednesday Links - Edition 2024-07-17](https://dev.to/wyhasany/wednesday-links-edition-2024-07-17-52cf)
-- [GBase 8c Compatibility Guide](https://dev.to/congcong/gbase-8c-compatibility-guide-4e3e)
-- [Proteger mediante CloudFlare un sitio alojado en S3](https://dev.to/sjim-akt/proteger-mediante-cloudflare-un-sitio-alojado-en-s3-4n4e)
-- [@let: New feature compiler in Angular 18.1](https://dev.to/this-is-angular/let-new-feature-compiler-in-angular-181-jen)
+- [Sorting](https://dev.to/paulike/sorting-2pp7)
+- [How I would learn to code in 2024 &lpar;if I could start over&rpar;](https://dev.to/agunwachidiebelecalistus/how-i-would-learn-to-code-in-2024-if-i-could-start-over-5b7i)
+- [How to stop form spam without using ReCaptcha?](https://dev.to/ingosteinke/how-to-stop-form-spam-without-using-recaptcha-13i8)
+- [Mastering Concurrent Programming in Elixir](https://dev.to/gustavo_oliveira_1e7fcebe/mastering-concurrent-programming-in-elixir-cjf)
+- [Python - Operators and Conditionals](https://dev.to/abys_learning_2024/python-operators-and-conditionals-2b3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
