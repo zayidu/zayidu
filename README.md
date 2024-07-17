@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Newbie](https://dev.to/luke_manyamazi_14765e8475/newbie-5hi9)
-- [Handling Outliers|| Feature Engineering || Machine Learning](https://dev.to/ngneha09/handling-outliers-feature-engineering-machine-learning-3316)
-- [What is Digital Experience Monitoring? - A Comprehensive Guide to DEM](https://dev.to/grjoeay/what-is-digital-experience-monitoring-a-comprehensive-guide-to-dem-47i3)
-- [Storing and Securing User Data: Methods Used by Facebook and Google](https://dev.to/adityabhuyan/storing-and-securing-user-data-methods-used-by-facebook-and-google-3f9p)
-- [Day 3: Data types and variables in python 🧡](https://dev.to/aryan015/day-3-data-types-and-variables-in-python-3e3j)
+- [Top 15 Animation Libraries for React &amp; Modern Javascript Apps](https://dev.to/syakirurahman/top-15-animation-libraries-for-react-modern-javascript-apps-2i9m)
+- [10 Common Mistakes Beginners Make](https://dev.to/ezilemdodana/10-common-mistakes-beginners-make-53c6)
+- [Objects in JavaScript : A Comprehensive Guide](https://dev.to/sadanandgadwal/objects-in-javascript-a-comprehensive-guide-6n9)
+- [The Gemika&#39;s Magical Guide to Sorting Hogwarts Students using the Decision Tree Algorithm &lpar;Part #4A&rpar;](https://dev.to/gerryleonugroho/the-gemikas-magical-guide-to-sorting-hogwarts-students-using-the-decision-tree-algorithm-part-4a-4n3n)
+- [Apa itu Laravel Blueprint?](https://dev.to/mahib22/apa-itu-laravel-blueprint-5747)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
