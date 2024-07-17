@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fullstack Blog with Tanstack Query, Zustand, Flask, JWT, Cookies | Register, Login, CRUD Post Tutorial](https://dev.to/henry_lee_1787e739b0c8191/fullstack-blog-with-tanstack-query-zustand-flask-jwt-cookies-register-login-crud-post-tutorial-2kjh)
-- [EnvLock: The Ultimate Env Manager](https://dev.to/siyabuilt/envlock-the-ultimate-env-manager-11ha)
-- [Confused by var, let, and const? Let&#39;s Clear the Mess](https://dev.to/i-sultan0/confused-by-var-let-and-const-lets-clear-the-mess-4kn7)
-- [Host A Static Website On Microsoft Azure Blob Storage](https://dev.to/sangifeanyi/host-a-static-website-on-microsoft-azure-blob-storage-2l62)
-- [Packer &amp; Proxmox: A Bumpy Road](https://dev.to/shandoncodes/packer-proxmox-a-bumpy-road-1de2)
+- [Welcome Thread - v285](https://dev.to/devteam/welcome-thread-v285-3ddb)
+- [Top Github repositories for 10+ programming languages](https://dev.to/shreyvijayvargiya/top-github-repositories-for-10-programming-languages-10pi)
+- [Access Request Headers in a Rails Controller](https://dev.to/kevin_j_m/access-request-headers-in-a-rails-controller-3b27)
+- [How to structure your files with VIPER Architecture](https://dev.to/sazardev/how-to-structure-your-files-with-viper-architecture-4do)
+- [[Game of Purpose] Day 59 - Following a path either by distance or Spline points](https://dev.to/humberd/game-of-purpose-day-59-4d5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
