@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 15 Animation Libraries for React &amp; Modern Javascript Apps](https://dev.to/syakirurahman/top-15-animation-libraries-for-react-modern-javascript-apps-2i9m)
-- [10 Common Mistakes Beginners Make](https://dev.to/ezilemdodana/10-common-mistakes-beginners-make-53c6)
-- [Objects in JavaScript : A Comprehensive Guide](https://dev.to/sadanandgadwal/objects-in-javascript-a-comprehensive-guide-6n9)
-- [The Gemika&#39;s Magical Guide to Sorting Hogwarts Students using the Decision Tree Algorithm &lpar;Part #4A&rpar;](https://dev.to/gerryleonugroho/the-gemikas-magical-guide-to-sorting-hogwarts-students-using-the-decision-tree-algorithm-part-4a-4n3n)
-- [Apa itu Laravel Blueprint?](https://dev.to/mahib22/apa-itu-laravel-blueprint-5747)
+- [R Programming: Zero to Hero Series 🚀](https://dev.to/raghavtwenty/r-programming-zero-to-hero-series-4ank)
+- [Day 2 of NodeJS || Get Started](https://dev.to/akshat0610/day-2-of-nodejs-get-started-570e)
+- [Midjourney: A Product Strategy Case Study](https://dev.to/lankan01/midjourney-a-product-strategy-case-study-5058)
+- [Natural Numbers](https://dev.to/kalkwst/natural-numbers-4em4)
+- [Building a Scalable AWS Serverless Architecture with NestJS](https://dev.to/tkssharma/building-a-scalable-aws-serverless-architecture-with-nestjs-4973)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
