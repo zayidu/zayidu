@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v285](https://dev.to/devteam/welcome-thread-v285-3ddb)
-- [Top Github repositories for 10+ programming languages](https://dev.to/shreyvijayvargiya/top-github-repositories-for-10-programming-languages-10pi)
-- [Access Request Headers in a Rails Controller](https://dev.to/kevin_j_m/access-request-headers-in-a-rails-controller-3b27)
-- [How to structure your files with VIPER Architecture](https://dev.to/sazardev/how-to-structure-your-files-with-viper-architecture-4do)
-- [[Game of Purpose] Day 59 - Following a path either by distance or Spline points](https://dev.to/humberd/game-of-purpose-day-59-4d5i)
+- [NestJS Testing Unit and E2E](https://dev.to/tkssharma/nestjs-testing-unit-and-e2e-km2)
+- [Publishing Packages to GitHub with GitHub Actions](https://dev.to/tkssharma/publishing-packages-to-github-with-github-actions-54bm)
+- [From Callback Chaos to Promise Paradise: Simplify Asynchronous JavaScript](https://dev.to/devishraq/from-callback-chaos-to-promise-paradise-simplify-asynchronous-javascript-46mg)
+- [The Value of Community Conferences](https://dev.to/amandamartindev/the-value-of-community-conferences-5fh3)
+- [Dynamic programming: Teach me like I am 5!](https://dev.to/yourtechsiss/dynamic-programming-teach-me-like-i-am-5-6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
