@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Blockchain in Liquidity Matching: Insights from Zama CAO](https://dev.to/deniz_tutku/the-role-of-blockchain-in-liquidity-matching-insights-from-zama-cao-172m)
-- [The CTO&#39;s Guide to Stress-Free Task Delegation ft. Sergio Visinoni, CTO coach](https://dev.to/grocto/the-ctos-guide-to-stress-free-task-delegation-ft-sergio-visinoni-cto-coach-1lp1)
-- [Scalable Microservices in AWS: Best Practices](https://dev.to/citrux-digital/scalable-microservices-in-aws-best-practices-20kc)
-- [Good-Bye Numeric IP addresses: The Alias Trick That&#39;ll Make You Feel Like a Tech Superhero](https://dev.to/mnamesujit/good-bye-numeric-ip-addresses-the-alias-trick-thatll-make-you-feel-like-a-tech-superhero-53f2)
-- [My Simple GNU Screen Set-up 🧑‍💻 &lpar;TMUX Alternative&rpar;](https://dev.to/kj_sh604/my-simple-gnu-screen-set-up-tmux-alternative-41j0)
+- [Uptime Kuma: Monitor and track the uptime of services 🔎](https://dev.to/disane/uptime-kuma-monitor-and-track-the-uptime-of-services-3a3o)
+- [O Developer e a Síndrome da Ilha Deserta](https://dev.to/ramonduraes/o-developer-e-a-sindrome-da-ilha-deserta-bi1)
+- [Todo Mundo Precisa de um Design System... Mas Ninguém Quer Mantê-lo!](https://dev.to/viquitor/todo-mundo-precisa-de-um-design-system-mas-ninguem-quer-mante-lo-2bfo)
+- [Navigating the Complexities: How to Disable the Back Button in React Navigation](https://dev.to/scholarhattraining/navigating-the-complexities-how-to-disable-the-back-button-in-react-navigation-7hg)
+- [Unveiling AWS Inspector: The Unstoppable Cyber Sentinel - Mastering Vulnerability Assessment with Cloud Omniscience](https://dev.to/ikoh_sylva/unveiling-aws-inspector-the-unstoppable-cyber-sentinel-mastering-vulnerability-assessment-with-cloud-omniscience-2o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
