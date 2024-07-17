@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Qwen2 Technical Report](https://dev.to/mikeyoung44/qwen2-technical-report-o8c)
-- [Kubernetes -Services, Ingress, and ConfigurationsDay 9 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/kubernetes-services-ingress-and-configurationsday-9-of-50-days-devops-tools-series-95b)
-- [Rede de criação de valor em DevRel](https://dev.to/awdren/rede-de-criacao-de-valor-em-devrel-25n)
-- [TypeScript strictly typed - Part 3: safe nullability](https://dev.to/cyrilletuzi/typescript-strictly-typed-part-3-safe-nullability-38mf)
-- [Best Practices for Using Pydantic in Python](https://dev.to/devasservice/best-practices-for-using-pydantic-in-python-2021)
+- [Introduction to CSS Button Animations](https://dev.to/arsalanmee/introduction-to-css-button-animations-4322)
+- [What is Data-Driven Testing with Selenium WebDriver and Java #interviewQuestion](https://dev.to/codegreen/what-is-data-driven-testing-with-selenium-webdriver-and-java-interviewquestion-3p1i)
+- [Day8 of 100DaysOfHTML](https://dev.to/koichiarai/day8-of-100daysofhtml-ik3)
+- [Wasp Launch Week #6: The Fun Side of Web Development 🕺](https://dev.to/wasp/wasp-launch-week-6-the-fun-side-of-web-development-52go)
+- [Are Next.js Server Actions Secure?](https://dev.to/sh20raj/are-nextjs-server-actions-secure-e04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
