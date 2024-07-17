@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sorting](https://dev.to/paulike/sorting-2pp7)
-- [How I would learn to code in 2024 &lpar;if I could start over&rpar;](https://dev.to/agunwachidiebelecalistus/how-i-would-learn-to-code-in-2024-if-i-could-start-over-5b7i)
-- [How to stop form spam without using ReCaptcha?](https://dev.to/ingosteinke/how-to-stop-form-spam-without-using-recaptcha-13i8)
-- [Mastering Concurrent Programming in Elixir](https://dev.to/gustavo_oliveira_1e7fcebe/mastering-concurrent-programming-in-elixir-cjf)
-- [Python - Operators and Conditionals](https://dev.to/abys_learning_2024/python-operators-and-conditionals-2b3k)
+- [How can I start web development?](https://dev.to/ramiroangelb/how-can-i-start-web-development-27p3)
+- [AMD’s Strategic Acquisition of Silo AI: A Catalyst for AI Dominance](https://dev.to/hyscaler/amds-strategic-acquisition-of-silo-ai-a-catalyst-for-ai-dominance-2af6)
+- [Bubble Sort](https://dev.to/paulike/bubble-sort-4k1o)
+- [JavaScript Event Loop: A Deep Dive](https://dev.to/just_ritik/javascript-event-loop-a-deep-dive-4g00)
+- [10 Captivating C Programming Challenges from LabEx 🧠](https://dev.to/labex/10-captivating-c-programming-challenges-from-labex-33gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
