@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My first blog post. Build in public.](https://dev.to/litlyx-org/my-first-blog-post-build-in-public-3oi7)
-- [Mathematics for Machine Learning - Day 10](https://dev.to/pourlehommes/mathematics-for-machine-learning-day-10-19b6)
-- [Altern: Navigating the Future of AI Tools and Technology](https://dev.to/dariubs/altern-navigating-the-future-of-ai-tools-and-technology-44e8)
-- [ArrayQuery: ORM-like Querying for JavaScript Arrays](https://dev.to/chronicstone/arrayquery-orm-like-querying-for-javascript-arrays-fe1)
-- [ArrayQuery: ORM-like Querying for JavaScript Arrays](https://dev.to/chronicstone/arrayquery-orm-like-querying-for-javascript-arrays-9kb)
+- [The Role of Blockchain in Liquidity Matching: Insights from Zama CAO](https://dev.to/deniz_tutku/the-role-of-blockchain-in-liquidity-matching-insights-from-zama-cao-172m)
+- [The CTO&#39;s Guide to Stress-Free Task Delegation ft. Sergio Visinoni, CTO coach](https://dev.to/grocto/the-ctos-guide-to-stress-free-task-delegation-ft-sergio-visinoni-cto-coach-1lp1)
+- [Scalable Microservices in AWS: Best Practices](https://dev.to/citrux-digital/scalable-microservices-in-aws-best-practices-20kc)
+- [Good-Bye Numeric IP addresses: The Alias Trick That&#39;ll Make You Feel Like a Tech Superhero](https://dev.to/mnamesujit/good-bye-numeric-ip-addresses-the-alias-trick-thatll-make-you-feel-like-a-tech-superhero-53f2)
+- [My Simple GNU Screen Set-up 🧑‍💻 &lpar;TMUX Alternative&rpar;](https://dev.to/kj_sh604/my-simple-gnu-screen-set-up-tmux-alternative-41j0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
