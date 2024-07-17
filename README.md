@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [R Programming: Zero to Hero Series 🚀](https://dev.to/raghavtwenty/r-programming-zero-to-hero-series-4ank)
-- [Day 2 of NodeJS || Get Started](https://dev.to/akshat0610/day-2-of-nodejs-get-started-570e)
-- [Midjourney: A Product Strategy Case Study](https://dev.to/lankan01/midjourney-a-product-strategy-case-study-5058)
-- [Natural Numbers](https://dev.to/kalkwst/natural-numbers-4em4)
-- [Building a Scalable AWS Serverless Architecture with NestJS](https://dev.to/tkssharma/building-a-scalable-aws-serverless-architecture-with-nestjs-4973)
+- [Creating a Smooth Transitioning Dialog Component in React &lpar;Part 4/4&rpar;](https://dev.to/copet80/creating-a-smooth-transitioning-dialog-component-in-react-part-44-5236)
+- [21 Open Source LLM Projects to Become 10x AI Developer](https://dev.to/latitude/21-open-source-llm-projects-to-become-10x-ai-developer-fe0)
+- [Android: Determine how many users are using DarkMode](https://dev.to/paulfranco/android-determine-how-many-users-are-using-darkmode-58dj)
+- [Import Excel/datasheet data to your Nextjs application](https://dev.to/shagun/import-exceldatasheet-data-to-your-nextjs-application-i64)
+- [Mastering CSS Specificity: Simplified Guide](https://dev.to/mdhassanpatwary/mastering-css-specificity-simplified-guide-38cc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
