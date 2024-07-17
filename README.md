@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PhpGram - A PHP library for interacting with the Telegram Bot API.](https://dev.to/sh20raj/phpgram-a-php-library-for-interacting-with-the-telegram-bot-api-3pip)
-- [What Happens When You Type https://www.google.com in Your Browser and Press Enter?](https://dev.to/code_japi/what-happens-when-you-type-httpswwwgooglecom-in-your-browser-and-press-enter-4m7h)
-- [Deep Dive into PandApache3: Understanding Connection Management and Response Generation](https://dev.to/pykpyky/deep-dive-into-pandapache3-understanding-connection-management-and-response-generation-1afo)
-- [Try the Integration Challenge – run our Android SDK in 10 minutes or less](https://dev.to/scanbot-sdk/try-the-integration-challenge-run-our-android-sdk-in-10-minutes-or-less-nob)
-- [The Epic Tales of Shahnameh: Heroes and Legends of Persian Mythology](https://dev.to/saeedhasani_55/the-epic-tales-of-shahnameh-heroes-and-legends-of-persian-mythology-2m8c)
+- [My first blog post. Build in public.](https://dev.to/litlyx-org/my-first-blog-post-build-in-public-3oi7)
+- [Mathematics for Machine Learning - Day 10](https://dev.to/pourlehommes/mathematics-for-machine-learning-day-10-19b6)
+- [Altern: Navigating the Future of AI Tools and Technology](https://dev.to/dariubs/altern-navigating-the-future-of-ai-tools-and-technology-44e8)
+- [ArrayQuery: ORM-like Querying for JavaScript Arrays](https://dev.to/chronicstone/arrayquery-orm-like-querying-for-javascript-arrays-fe1)
+- [ArrayQuery: ORM-like Querying for JavaScript Arrays](https://dev.to/chronicstone/arrayquery-orm-like-querying-for-javascript-arrays-9kb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
