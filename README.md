@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode Day 35 Dynamic Programming Part 9](https://dev.to/flame_chan_llll/leetcode-day-35-dynamic-programming-part-9-3fd5)
+- [10 Dimensions of Python Static Analysis](https://dev.to/snyk/10-dimensions-of-python-static-analysis-4h5c)
 - [[DAY 78-80] I learned about APIs, D3 library, and rebuilt my pokemon app](https://dev.to/thomascansino/day-78-80-i-learned-about-apis-d3-library-and-rebuilt-my-pokemon-app-5djp)
-- [Why we built Resourcely](https://dev.to/resourcely/why-we-built-resourcely-4blc)
-- [Publish a Windows application that automatically backs up files](https://dev.to/uni928/publish-a-windows-application-that-automatically-backs-up-files-44ph)
-- [Ativando o Dark Mode em React.js com SCSS Modules 🌙](https://dev.to/dougsource/ativando-o-dark-mode-em-reactjs-com-scss-modules-2l47)
-- [Sherlock Holmes: The Case of the Content Length Mismatch](https://dev.to/programmerraja/sherlock-holmes-the-case-of-the-content-length-mismatch-4i2b)
+- [Advanced Python Concepts: A Comprehensive Guide](https://dev.to/thelinuxman/advanced-python-concepts-a-comprehensive-guide-37o2)
+- [Comprehensive Python Data Structures Cheat sheet](https://dev.to/thelinuxman/comprehensive-python-data-structures-cheat-sheet-2j3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
