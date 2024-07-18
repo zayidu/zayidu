@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [These Tailwind Classes I Wish You Knew Sooner](https://dev.to/safdarali/these-tailwind-classes-i-wish-you-knew-sooner-5b30)
-- [About myself](https://dev.to/muhammadaziz/about-myself-3o7d)
-- [Dive into the Fascinating World of Distributed Systems with CSEP 552 🌐](https://dev.to/getvm/dive-into-the-fascinating-world-of-distributed-systems-with-csep-552-8c9)
-- [Python Try-Except: When to Avoid It](https://dev.to/azayshrestha/python-try-except-when-to-avoid-it-3b00)
-- [Efficient Ruby Coding: A Guide to Immediate and Non-Immediate Objects](https://dev.to/alexandrecalaca/efficient-ruby-coding-a-guide-to-immediate-and-non-immediate-objects-5h83)
+- [User Interface Design Inspiration – 9 Websites That Will Get You There](https://dev.to/pepper_square/user-interface-design-inspiration-9-websites-that-will-get-you-there-1ah0)
+- [Continuous Integration Testing: Streamlining Software Development and Ensuring Quality](https://dev.to/keploy/continuous-integration-testing-streamlining-software-development-and-ensuring-quality-14ba)
+- [Large Language Models &lpar;LLMs&rpar;: Revolutionizing AI and Communication](https://dev.to/jottyjohn/large-language-models-llms-revolutionizing-ai-and-communication-23bl)
+- [Why Threat Modeling is Crucial for Banking Industries in 2024](https://dev.to/jesscica_jones/why-threat-modeling-is-crucial-for-banking-industries-in-2024-334)
+- [A No-BS Guide to Master Coding and Land a job](https://dev.to/halimshams/a-no-bs-guide-to-master-coding-and-land-a-job-5e7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
