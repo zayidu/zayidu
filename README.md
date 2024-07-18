@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a new Next.js project with Cloudflare Pages and Workers](https://dev.to/devarshishimpi/how-to-create-a-new-nextjs-project-with-cloudflare-pages-and-workers-43d9)
-- [prod&lpar;&rpar; and cartesian_prod&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/prod-and-cartesianprod-in-pytorch-89i)
-- [Step-by-Step Instructions to Create an Expense Tracker](https://dev.to/raajaryan/step-by-step-instructions-to-create-an-expense-tracker-4gdg)
-- [sum&lpar;&rpar; and nansum&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/sum-and-nansum-in-pytorch-4bdk)
-- [Como Receber Mensagens no Discord com Cloudflare Functions](https://dev.to/rhuan/como-receber-mensagens-diretas-no-discord-com-cloudflare-functions-4if)
+- [JWT Refresh with Axios Interceptors in React](https://dev.to/ayon_ssp/jwt-refresh-with-axios-interceptors-in-react-2bnk)
+- [Chmodcast 104: The floor is Lava&lpar;Moat&rpar; with Zbyszek Tenerowicz](https://dev.to/upsun/chmodcast-104-the-floor-is-lavamoat-with-zbyszek-tenerowicz-2jfo)
+- [Chmodcast 103: Community is built through happy accidents with Aisha Bello and Leona So](https://dev.to/upsun/chmodcast-103-community-is-built-through-happy-accidents-with-aisha-bello-and-leona-so-495e)
+- [Chmodcast 102: COUNT your blessings &lpar;and check your indexes&rpar; with Lætitia Avrot](https://dev.to/upsun/chmodcast-102-count-your-blessings-and-check-your-indexes-with-laetitia-avrot-1a4f)
+- [Mathematics for Machine Learning - Day 11](https://dev.to/pourlehommes/mathematics-for-machine-learning-day-11-417l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
