@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is unserializing an object in PHP a bad idea?](https://dev.to/denzyldick/why-is-unserializing-an-object-in-php-a-bad-idea-3odl)
-- [Navigating Take-Home Assignments: A Journey to Scoring Interviews](https://dev.to/ganatrajay2000/navigating-take-home-assignments-a-journey-to-scoring-interviews-4hd8)
-- [Advanced Entity Framework: Mapping and Queries](https://dev.to/fabrcio_marcondessantos/advanced-entity-framework-mapping-and-queries-lgm)
-- [DevOps Monitoring and Automation Tool using Jenkins, Prometheus, Grafana and Docker](https://dev.to/nigel_bomett/devops-monitoring-and-automation-tool-using-jenkins-prometheus-grafana-and-docker-m8n)
-- [Island Architecture with Web Components](https://dev.to/begin/island-architecture-with-web-components-3hnp)
+- [Struggeling Dev Takes Notes](https://dev.to/downtherabbithole/struggeling-dev-takes-notes-55cp)
+- [Estruturas Condicionais em Programação](https://dev.to/andersoncode66/estruturas-condicionais-em-programacao-45cb)
+- [Top 3 Best React Books 2024](https://dev.to/priya_sharma/top-3-best-react-books-2024-28dm)
+- [Creating a 3D Gallery App with Three.js, HTML, and CSS - Part 2](https://dev.to/aliozzaim/creating-a-3d-gallery-app-with-threejs-html-and-css-part-2-1ce8)
+- [Plang: Abstracting Away the Complexity](https://dev.to/ingigauti/plang-abstracting-away-the-complexity-50mm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
