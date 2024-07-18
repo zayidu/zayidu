@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to setup a service in a SSH Server](https://dev.to/sazardev/how-to-setup-a-service-in-a-ssh-server-4iik)
-- [What is a Set in JS?](https://dev.to/__khojiakbar__/what-is-a-set-in-js-2pom)
-- [What is a Set in JS?](https://dev.to/__khojiakbar__/what-is-a-set-in-js-4mb8)
-- [Movies Recommendation Software](https://dev.to/ioanpapuc/movies-recommendation-software-1fkd)
-- [Troubleshooting and Re-Installing Outlook 365 Made Easy](https://dev.to/companionlink-1/troubleshooting-and-re-installing-outlook-365-made-easy-2o5h)
+- [Why is unserializing an object in PHP a bad idea?](https://dev.to/denzyldick/why-is-unserializing-an-object-in-php-a-bad-idea-3odl)
+- [Navigating Take-Home Assignments: A Journey to Scoring Interviews](https://dev.to/ganatrajay2000/navigating-take-home-assignments-a-journey-to-scoring-interviews-4hd8)
+- [Advanced Entity Framework: Mapping and Queries](https://dev.to/fabrcio_marcondessantos/advanced-entity-framework-mapping-and-queries-lgm)
+- [DevOps Monitoring and Automation Tool using Jenkins, Prometheus, Grafana and Docker](https://dev.to/nigel_bomett/devops-monitoring-and-automation-tool-using-jenkins-prometheus-grafana-and-docker-m8n)
+- [Island Architecture with Web Components](https://dev.to/begin/island-architecture-with-web-components-3hnp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
