@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jenkins Declarative Pipeline - An Overview with example](https://dev.to/oncloud7/jenkins-declarative-pipeline-an-overview-with-example-4e5b)
-- [Exploring the Single Sign-On Feature of Postman](https://dev.to/satokenta/exploring-the-single-sign-on-feature-of-postman-3bo)
-- [8 Essential Skills for a Cloud Consulting Professional](https://dev.to/theintellify1/8-essential-skills-for-a-cloud-consulting-professional-5fjd)
-- [Why I am Looking For a Postman Alternative and I Found This Awesome Tool](https://dev.to/ralphsebastian/why-i-am-looking-for-a-postman-alternative-and-i-found-this-awesome-tool-23pb)
-- [list of some popular Version Control Systems &lpar;VCS&rpar;](https://dev.to/ayyappan_java/list-of-some-popular-version-control-systems-vcs-1kb2)
+- [[Roast: Day 3] - UI Additions, Components, and an Installable Application](https://dev.to/nmiller15/roast-day-3-ui-additions-components-and-an-installable-application-4ec8)
+- [Form Validation In TypeScipt Projects Using Zod and React Hook Form](https://dev.to/strapi/form-validation-in-typescipt-projects-using-zod-and-react-hook-form-49g6)
+- [Epic Next.js 14 Tutorial Part 10: Frontend Deployment To Vercel](https://dev.to/strapi/epic-nextjs-14-tutorial-part-10-frontend-deployment-to-vercel-1p10)
+- [Instruments15.3&lpar;From XCode15.4&rpar;Can&#39;t find source code for selected symbol](https://dev.to/jacoli/instruments153from-xcode154cant-find-source-code-for-selected-symbol-ob0)
+- [IaaS vs PaaS vs SaaS: The Key Differences](https://dev.to/strapi/iaas-vs-paas-vs-saas-the-key-differences-il4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
