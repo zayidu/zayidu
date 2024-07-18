@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [INTRODUCING ZEMPOSTS](https://dev.to/zemerik/introducing-zemposts-17nb)
-- [Exploring the Exciting New Additions in React 19](https://dev.to/rn_dev_lalit/exploring-the-exciting-new-additions-in-react-19-248b)
-- [Best Practices for Using GitHub Secrets - Part 1](https://dev.to/pwd9000/best-practices-for-using-github-secrets-part-1-596f)
-- [How Websites Work: A Step-by-Step Guide with Node.js &amp; Express.](https://dev.to/rajondey/how-websites-work-a-step-by-step-guide-with-nodejs-express-1h75)
-- [Architecting Scalable Microservices: Best Practices and Patterns](https://dev.to/alexroor4/architecting-scalable-microservices-best-practices-and-patterns-33ke)
+- [Jenkins Declarative Pipeline - An Overview with example](https://dev.to/oncloud7/jenkins-declarative-pipeline-an-overview-with-example-4e5b)
+- [Exploring the Single Sign-On Feature of Postman](https://dev.to/satokenta/exploring-the-single-sign-on-feature-of-postman-3bo)
+- [8 Essential Skills for a Cloud Consulting Professional](https://dev.to/theintellify1/8-essential-skills-for-a-cloud-consulting-professional-5fjd)
+- [Why I am Looking For a Postman Alternative and I Found This Awesome Tool](https://dev.to/ralphsebastian/why-i-am-looking-for-a-postman-alternative-and-i-found-this-awesome-tool-23pb)
+- [list of some popular Version Control Systems &lpar;VCS&rpar;](https://dev.to/ayyappan_java/list-of-some-popular-version-control-systems-vcs-1kb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
