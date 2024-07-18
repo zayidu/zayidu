@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Roast: Day 3] - UI Additions, Components, and an Installable Application](https://dev.to/nmiller15/roast-day-3-ui-additions-components-and-an-installable-application-4ec8)
-- [Form Validation In TypeScipt Projects Using Zod and React Hook Form](https://dev.to/strapi/form-validation-in-typescipt-projects-using-zod-and-react-hook-form-49g6)
-- [Epic Next.js 14 Tutorial Part 10: Frontend Deployment To Vercel](https://dev.to/strapi/epic-nextjs-14-tutorial-part-10-frontend-deployment-to-vercel-1p10)
-- [Instruments15.3&lpar;From XCode15.4&rpar;Can&#39;t find source code for selected symbol](https://dev.to/jacoli/instruments153from-xcode154cant-find-source-code-for-selected-symbol-ob0)
-- [IaaS vs PaaS vs SaaS: The Key Differences](https://dev.to/strapi/iaas-vs-paas-vs-saas-the-key-differences-il4)
+- [What are low-code open-source tools? – Guideline](https://dev.to/alesiasirotka/what-are-low-code-open-source-tools-guideline-gg5)
+- [Understanding the Node.js Event Loop](https://dev.to/rahulvijayvergiya/understanding-the-nodejs-event-loop-26eb)
+- [Starting a Docker Web App in aaPanel](https://dev.to/pixcel_tree/starting-a-docker-web-app-in-aapanel-2bc6)
+- [Everything About Account Abstraction: Particle Network’s Coalition, TON’s Polygon-Based L2, Ethereum’s $2M Attackathon](https://dev.to/alexandradev/everything-about-account-abstraction-particle-networks-coalition-tons-polygon-based-l2-ethereums-2m-attackathon-5g8f)
+- [Best 10+ Open Source CRM Systems](https://dev.to/alesiasirotka/best-10-open-source-crm-systems-1ibe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
