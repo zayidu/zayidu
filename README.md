@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shims in Web Development](https://dev.to/waddellmp/shims-in-web-development-1h3b)
-- [Exploring JavaScript Console Methods: Beyond `console.log&lpar;&rpar;`](https://dev.to/srijan_karki/exploring-javascript-console-methods-beyond-consolelog-4en7)
-- [As a Google Web Developer, I’d like to introduce my top 5 go-to tools](https://dev.to/shemika_donalene/as-a-google-web-developer-id-like-to-introduce-my-top-5-go-to-tools-2pcf)
-- [dnd-kit for react: modern and light drag](https://dev.to/nysa_macroryacaibird_8/dnd-kit-for-react-modern-and-light-drag-1hlj)
-- [Scheduling Pods with Node Affinity in Kubernetes](https://dev.to/labex/scheduling-pods-with-node-affinity-in-kubernetes-2287)
+- [These Tailwind Classes I Wish You Knew Sooner](https://dev.to/safdarali/these-tailwind-classes-i-wish-you-knew-sooner-5b30)
+- [About myself](https://dev.to/muhammadaziz/about-myself-3o7d)
+- [Dive into the Fascinating World of Distributed Systems with CSEP 552 🌐](https://dev.to/getvm/dive-into-the-fascinating-world-of-distributed-systems-with-csep-552-8c9)
+- [Python Try-Except: When to Avoid It](https://dev.to/azayshrestha/python-try-except-when-to-avoid-it-3b00)
+- [Efficient Ruby Coding: A Guide to Immediate and Non-Immediate Objects](https://dev.to/alexandrecalaca/efficient-ruby-coding-a-guide-to-immediate-and-non-immediate-objects-5h83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
