@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JWT Refresh with Axios Interceptors in React](https://dev.to/ayon_ssp/jwt-refresh-with-axios-interceptors-in-react-2bnk)
-- [Chmodcast 104: The floor is Lava&lpar;Moat&rpar; with Zbyszek Tenerowicz](https://dev.to/upsun/chmodcast-104-the-floor-is-lavamoat-with-zbyszek-tenerowicz-2jfo)
-- [Chmodcast 103: Community is built through happy accidents with Aisha Bello and Leona So](https://dev.to/upsun/chmodcast-103-community-is-built-through-happy-accidents-with-aisha-bello-and-leona-so-495e)
-- [Chmodcast 102: COUNT your blessings &lpar;and check your indexes&rpar; with Lætitia Avrot](https://dev.to/upsun/chmodcast-102-count-your-blessings-and-check-your-indexes-with-laetitia-avrot-1a4f)
-- [Mathematics for Machine Learning - Day 11](https://dev.to/pourlehommes/mathematics-for-machine-learning-day-11-417l)
+- [Map in JS](https://dev.to/__khojiakbar__/map-in-js-59k6)
+- [React components composition: como acertar isso](https://dev.to/dougsource/react-components-composition-como-acertar-isso-ehj)
+- [Compliance.sol | Contracts](https://dev.to/evire/compliancesol-contracts-4141)
+- [Conditional Control Statements in Python](https://dev.to/vishnu_vardhanvaddi_632a/conditional-control-statements-in-python-4fj5)
+- [Docker Caching with Compose](https://dev.to/mbround18/docker-caching-with-compose-3l5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
