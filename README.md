@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Map in JS](https://dev.to/__khojiakbar__/map-in-js-59k6)
-- [React components composition: como acertar isso](https://dev.to/dougsource/react-components-composition-como-acertar-isso-ehj)
-- [Compliance.sol | Contracts](https://dev.to/evire/compliancesol-contracts-4141)
-- [Conditional Control Statements in Python](https://dev.to/vishnu_vardhanvaddi_632a/conditional-control-statements-in-python-4fj5)
-- [Docker Caching with Compose](https://dev.to/mbround18/docker-caching-with-compose-3l5i)
+- [Fresher baby steps in learning programming !...](https://dev.to/akhila_rani_kukunuri/fresher-baby-steps-in-learning-programming--38jj)
+- [The Importance of Guardrails in LLMs, AAAL Pt. 2](https://dev.to/tunehqai/the-importance-of-guardrails-in-llms-aaal-pt-2-4oke)
+- [Exploring Headlamp - A Kubernetes UI Tool : Day 10 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/exploring-headlamp-a-kubernetes-ui-tool-day-10-of-50-days-devops-tools-series-544c)
+- [Event Loop in JavaScript: How it Works and Why it Matters](https://dev.to/itsshaikhaj/event-loop-in-javascript-how-it-works-and-why-it-matters-29k8)
+- [Understanding Callback Functions with a Practical Example](https://dev.to/tomasdevs/understanding-callback-functions-with-a-practical-example-86g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
