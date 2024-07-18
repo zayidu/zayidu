@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced URL rewriting with Apache APISIX](https://dev.to/apisix/advanced-url-rewriting-with-apache-apisix-31ij)
-- [How to Write a Thoughtful Apology Letter to Your Principal?](https://dev.to/daletcouch/how-to-write-a-thoughtful-apology-letter-to-your-principal-52dj)
-- [GBase 8c Compatibility - Oracle Partition Syntax](https://dev.to/congcong/gbase-8c-compatibility-oracle-partition-syntax-3o1e)
-- [The importance of effective communication in the workplace 🏢🗣️](https://dev.to/hey_rishabh/the-importance-of-effective-communication-in-the-workplace-41j9)
-- [Calculating Fingerprints For SQL Queries](https://dev.to/metis/calculating-fingerprints-for-sql-queries-44i5)
+- [INTRODUCING ZEMPOSTS](https://dev.to/zemerik/introducing-zemposts-17nb)
+- [Exploring the Exciting New Additions in React 19](https://dev.to/rn_dev_lalit/exploring-the-exciting-new-additions-in-react-19-248b)
+- [Best Practices for Using GitHub Secrets - Part 1](https://dev.to/pwd9000/best-practices-for-using-github-secrets-part-1-596f)
+- [How Websites Work: A Step-by-Step Guide with Node.js &amp; Express.](https://dev.to/rajondey/how-websites-work-a-step-by-step-guide-with-nodejs-express-1h75)
+- [Architecting Scalable Microservices: Best Practices and Patterns](https://dev.to/alexroor4/architecting-scalable-microservices-best-practices-and-patterns-33ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
