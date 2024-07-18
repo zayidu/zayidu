@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡ MySecondApp - React Native with Expo &lpar;P8&rpar; - Add Animated QR Code](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p8-add-animated-qr-code-4i1p)
-- [Deploy Frontend Web Application with React to cPanel.](https://dev.to/sumberweb/deploy-frontend-web-application-with-react-to-cpanel-2kk7)
-- [Remote Desktop Error code 0x207 on Mac for Ubuntu 24](https://dev.to/emile1636/rdp-error-code-0x207-on-mac-for-ubuntu-24-d6d)
-- [Developing a Desktop Document Scanner Application with .NET MAUI Blazor](https://dev.to/yushulx/developing-a-desktop-document-scanner-application-with-net-maui-blazor-1408)
-- [Building a Secure Employee Dashboard with Facial Authentication: A Comprehensive Next.js Tutorial](https://dev.to/vyan/building-a-secure-employee-dashboard-with-facial-authentication-a-comprehensive-nextjs-tutorial-2c4g)
+- [Shims in Web Development](https://dev.to/waddellmp/shims-in-web-development-1h3b)
+- [Exploring JavaScript Console Methods: Beyond `console.log&lpar;&rpar;`](https://dev.to/srijan_karki/exploring-javascript-console-methods-beyond-consolelog-4en7)
+- [As a Google Web Developer, I’d like to introduce my top 5 go-to tools](https://dev.to/shemika_donalene/as-a-google-web-developer-id-like-to-introduce-my-top-5-go-to-tools-2pcf)
+- [dnd-kit for react: modern and light drag](https://dev.to/nysa_macroryacaibird_8/dnd-kit-for-react-modern-and-light-drag-1hlj)
+- [Scheduling Pods with Node Affinity in Kubernetes](https://dev.to/labex/scheduling-pods-with-node-affinity-in-kubernetes-2287)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
