@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL is Dead? Get Started with mongoDB](https://dev.to/nikhil27b/sql-is-dead-get-started-with-mongodb-4dc3)
-- [Leaving Uber in 2022 was the best thing I did for myself 🚶💼](https://dev.to/middleware/leaving-uber-in-2022-was-the-best-thing-i-did-for-myself-4kf9)
-- [Access Token &amp; Refresh Token: A Breakdown](https://dev.to/arnabsahawrk/access-token-refresh-token-a-breakdown-5f81)
-- [Introduction to Virtual and Augmented Reality &lpar;VR/AR&rpar;](https://dev.to/code_passion/introduction-to-virtual-and-augmented-reality-vrar-ab9)
-- [Day 14: Advanced Logging and Monitoring with Prometheus, Grafana, and Alertmanager &lpar;Termux Edition!&rpar;](https://dev.to/arbythecoder/day-14-advanced-logging-and-monitoring-with-prometheus-grafana-and-alertmanager-termux-edition-dk1)
+- [Add a “X is writing…” with Rails and Turbo](https://dev.to/railsdesigner/add-a-x-is-writing-with-rails-and-turbo-4e5a)
+- [Breaking Free from the Endless Learning Loop](https://dev.to/bridget_amana/breaking-free-from-the-endless-learning-loop-1lhb)
+- [Securing network from chinese anti ukraine hackers](https://dev.to/bartdev/securing-network-from-chinese-anti-ukraine-hackers-398m)
+- [Salesforce Regression Testing: Definition, Benefits, and Best Practices](https://dev.to/berthaw82414312/salesforce-regression-testing-definition-benefits-and-best-practices-4dm1)
+- [6.Functions | py](https://dev.to/ranjith_jr_fbf2e375879b08/functions-py-3805)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
