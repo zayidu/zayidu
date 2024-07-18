@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What are low-code open-source tools? – Guideline](https://dev.to/alesiasirotka/what-are-low-code-open-source-tools-guideline-gg5)
-- [Understanding the Node.js Event Loop](https://dev.to/rahulvijayvergiya/understanding-the-nodejs-event-loop-26eb)
-- [Starting a Docker Web App in aaPanel](https://dev.to/pixcel_tree/starting-a-docker-web-app-in-aapanel-2bc6)
-- [Everything About Account Abstraction: Particle Network’s Coalition, TON’s Polygon-Based L2, Ethereum’s $2M Attackathon](https://dev.to/alexandradev/everything-about-account-abstraction-particle-networks-coalition-tons-polygon-based-l2-ethereums-2m-attackathon-5g8f)
-- [Best 10+ Open Source CRM Systems](https://dev.to/alesiasirotka/best-10-open-source-crm-systems-1ibe)
+- [13 Hidden Open-source Libraries to Become an AI Wizard 🧙‍♂️🪄](https://dev.to/composiodev/13-hidden-open-source-libraries-to-become-an-ai-wizard-4ng9)
+- [பைத்தான் பயிற்சி வகுப்பின் மூலம் விளையாட்டு நிரல் எழுத முடிந்து](https://dev.to/neyakkoo/paittaannn-pyirrci-vkuppil-villaiyaattttu-nirl-4ep7)
+- [Fun &amp; Mental: Visualizing Data Structures and Algorithms with React Flow and Monaco Editor](https://dev.to/abdelaziz79/fun-mental-visualizing-data-structures-and-algorithms-with-react-flow-and-monaco-editor-5ekn)
+- [Measuring the impact of Developer Relations on Revenue](https://dev.to/jerdog/measuring-the-impact-of-developer-relations-on-revenue-17ia)
+- [Automated Kubernetes Cluster Cleanup at Scale](https://dev.to/gianlucam76/automated-kubernetes-cluster-cleanup-at-scale-5df1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
