@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [13 Hidden Open-source Libraries to Become an AI Wizard 🧙‍♂️🪄](https://dev.to/composiodev/13-hidden-open-source-libraries-to-become-an-ai-wizard-4ng9)
-- [பைத்தான் பயிற்சி வகுப்பின் மூலம் விளையாட்டு நிரல் எழுத முடிந்து](https://dev.to/neyakkoo/paittaannn-pyirrci-vkuppil-villaiyaattttu-nirl-4ep7)
-- [Fun &amp; Mental: Visualizing Data Structures and Algorithms with React Flow and Monaco Editor](https://dev.to/abdelaziz79/fun-mental-visualizing-data-structures-and-algorithms-with-react-flow-and-monaco-editor-5ekn)
-- [Measuring the impact of Developer Relations on Revenue](https://dev.to/jerdog/measuring-the-impact-of-developer-relations-on-revenue-17ia)
-- [Automated Kubernetes Cluster Cleanup at Scale](https://dev.to/gianlucam76/automated-kubernetes-cluster-cleanup-at-scale-5df1)
+- [How to create a new Next.js project with Cloudflare Pages and Workers](https://dev.to/devarshishimpi/how-to-create-a-new-nextjs-project-with-cloudflare-pages-and-workers-43d9)
+- [prod&lpar;&rpar; and cartesian_prod&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/prod-and-cartesianprod-in-pytorch-89i)
+- [Step-by-Step Instructions to Create an Expense Tracker](https://dev.to/raajaryan/step-by-step-instructions-to-create-an-expense-tracker-4gdg)
+- [sum&lpar;&rpar; and nansum&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/sum-and-nansum-in-pytorch-4bdk)
+- [Como Receber Mensagens no Discord com Cloudflare Functions](https://dev.to/rhuan/como-receber-mensagens-diretas-no-discord-com-cloudflare-functions-4if)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
