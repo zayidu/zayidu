@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎉 Finally! Official launch of the Gowebly project on ProductHunt](https://dev.to/koddr/finally-official-launch-of-the-gowebly-project-on-producthunt-3o4g)
-- [Balance is killing your ambition: How to become world class](https://dev.to/drpraze/balance-is-killing-your-ambition-how-to-become-world-class-1ooo)
-- [Introducing Micro Agent: An &lpar;Actually Reliable&rpar; AI Coding Agent](https://dev.to/builderio/introducing-micro-agent-an-actually-reliable-ai-coding-agent-10k2)
-- [[Roast: Day 4] - Creating an Expandable Card in React](https://dev.to/nmiller15/roast-day-4-creating-an-expandable-card-in-react-1ld3)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3cke)
+- [How to create a slick CSS animation from The Fall Guy](https://dev.to/robole/how-to-create-a-slick-css-animation-from-the-fall-guy-5f2a)
+- [Day 3 of NodeJS||Important Modules](https://dev.to/akshat0610/day-3-of-nodejsimportant-modules-153e)
+- [Practical IoT Solution Using Azure IoT Hub](https://dev.to/dera2024/practical-iot-solution-using-azure-iot-hub-42hh)
+- [Global Outage of Microsoft Services](https://dev.to/winsides/global-outage-of-microsoft-services-2817)
+- [Why should you have a Staging environment?](https://dev.to/woovi/why-should-you-have-a-staging-environment-3d75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
