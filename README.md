@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Redefining Software Development: Human Architects and AI Builders](https://dev.to/miltonian33/redefining-software-development-human-architects-and-ai-builders-3f4p)
+- [Stay Compliant, Mitigate Risks: Understanding AML/KYC as a technologist](https://dev.to/horaceshmorace/stay-compliant-mitigate-risks-understanding-amlkyc-as-a-technologist-5go3)
+- [Why You Should Write Good Code](https://dev.to/thekarlesi/why-you-should-write-good-code-4hlg)
 - [Introduction to C++](https://dev.to/madgan95/introduction-to-c-4gfa)
-- [Field-Deployed MARL for Dynamic Variable Speed Limit Optimization](https://dev.to/mikeyoung44/field-deployed-marl-for-dynamic-variable-speed-limit-optimization-1118)
-- [Unlocking AI&#39;s Compositional Generalization: Skills-in-Context Boosts Language Model Performance](https://dev.to/mikeyoung44/unlocking-ais-compositional-generalization-skills-in-context-boosts-language-model-performance-3jeb)
-- [Context Augmented Retrieval: Boosting LLM Performance with Efficient Information Retrieval](https://dev.to/mikeyoung44/context-augmented-retrieval-boosting-llm-performance-with-efficient-information-retrieval-3a81)
-- [&quot;LLMs Unlock Mathematical Discovery: New Method Outperforms Traditional Symbolic Regression&quot;](https://dev.to/mikeyoung44/llms-unlock-mathematical-discovery-new-method-outperforms-traditional-symbolic-regression-218b)
+- [Auto-Tuning HIP: Boosting Performance on AMD and Nvidia GPUs, Challenges Unveiled](https://dev.to/mikeyoung44/auto-tuning-hip-boosting-performance-on-amd-and-nvidia-gpus-challenges-unveiled-1759)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
