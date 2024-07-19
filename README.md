@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Funny Friday and Self-care](https://dev.to/pachicodes/funny-friday-and-self-care-560m)
-- [🎡 Enhancing CyclopsUI: Modernizing the Node Details Page with Ant-D!](https://dev.to/arnavk-09/enhancing-cyclops-modernizing-the-node-details-page-with-ant-d-pca)
-- [Exploring AI-Assisted UI Development: Lessons from Creating a Hacker News Clone - pt. 3](https://dev.to/spencertower/exploring-ai-assisted-ui-development-lessons-from-creating-a-hacker-news-clone-pt-3-1l9d)
-- [Building a Trend Analysis Tool with the FeedRika API - Part I - Setup](https://dev.to/ayush_saran/building-a-trend-analysis-tool-with-the-feedrika-api-part-i-setup-50dp)
-- [30 days of AWS - Part 6: AWS Security](https://dev.to/achenchi/30-days-of-aws-part-6-aws-security-13pe)
+- [Desvendando Mistérios: Como Tentar Resolver Problemas Sem Pedir Ajuda](https://dev.to/viquitor/desvendando-misterios-como-tentar-resolver-problemas-sem-pedir-ajuda-38l4)
+- [How Dynamodb partition keys work under the hood](https://dev.to/praveenmuthu/how-dynamodb-partition-keys-work-under-the-hood-21k5)
+- [challenging my brain](https://dev.to/myrojyn/challenging-my-brain-1h0m)
+- [Client Mapping Made Easy: Leveraging Autonomous Agents in API Integrations](https://dev.to/apidna/client-mapping-made-easy-leveraging-autonomous-agents-in-api-integrations-2509)
+- [Understanding Single Points of Failure &lpar;SPOF&rpar; in Software Systems](https://dev.to/moezmissaoui/understanding-single-points-of-failure-spof-in-software-systems-57md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
