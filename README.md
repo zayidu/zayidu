@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #145: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-145-explica-este-codigo-python-35mj)
-- [Key Considerations for Cloud Migration Services](https://dev.to/unicloud/key-considerations-for-cloud-migration-services-2535)
-- [Path To A Clean&lpar;er&rpar; React Architecture &lpar;Part 8&rpar; - How Does React-Query Fit Into The Picture?](https://dev.to/jkettmann/path-to-a-cleaner-react-architecture-part-8-how-does-react-query-fit-into-the-picture-1b99)
-- [Messaging in Plang](https://dev.to/ingigauti/messaging-in-plang-9mb)
-- [The Vital Importance of System Testing in Software Development](https://dev.to/robort_smith/the-vital-importance-of-system-testing-in-software-development-3bg7)
+- [🎉 Finally! Official launch of the Gowebly project on ProductHunt](https://dev.to/koddr/finally-official-launch-of-the-gowebly-project-on-producthunt-3o4g)
+- [Balance is killing your ambition: How to become world class](https://dev.to/drpraze/balance-is-killing-your-ambition-how-to-become-world-class-1ooo)
+- [Introducing Micro Agent: An &lpar;Actually Reliable&rpar; AI Coding Agent](https://dev.to/builderio/introducing-micro-agent-an-actually-reliable-ai-coding-agent-10k2)
+- [[Roast: Day 4] - Creating an Expandable Card in React](https://dev.to/nmiller15/roast-day-4-creating-an-expandable-card-in-react-1ld3)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3cke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
