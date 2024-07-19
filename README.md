@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 27 Task: Jenkins Declarative Pipeline with Docker](https://dev.to/oncloud7/day-27-task-jenkins-declarative-pipeline-with-docker-1jp2)
-- [Use zig cc to cross-compile a CMake project](https://dev.to/jcbhmr/use-zig-cc-to-cross-compile-a-cmake-project-36e7)
-- [Weekly Updates - July 19, 2024](https://dev.to/couchbase/weekly-updates-july-19-2024-b30)
-- [Enabling Hot Reloading for Next.js in Docker](https://dev.to/yuvraajsj18/enabling-hot-reloading-for-nextjs-in-docker-4k39)
-- [Predictive Maintenance in the Upstream Sector: Implementing Machine Learning with Flask](https://dev.to/ekemini_thompson/predictive-maintenance-in-the-upstream-sector-implementing-machine-learning-with-flask-2oam)
+- [Iniciando com o Ansible](https://dev.to/nataliagranato/iniciando-com-o-ansible-1dfg)
+- [Supercharging LLMs: RoT Fuses Language Models with Decision Tree Search to Boost Reasoning Power](https://dev.to/mikeyoung44/supercharging-llms-rot-fuses-language-models-with-decision-tree-search-to-boost-reasoning-power-1ik9)
+- [Tools and Skills for .NET 8: Episode 1](https://dev.to/priya_sharma/tools-and-skills-for-net-8-episode-1-11nn)
+- [Unleash Your VSCode Mastery: A Project to Build an Extension with ChatGPT](https://dev.to/labex/unleash-your-vscode-mastery-a-project-to-build-an-extension-with-chatgpt-25k)
+- [5. Writing our first program in python with home🧡work](https://dev.to/aryan015/5-writing-our-first-program-in-python-with-homework-4g6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
