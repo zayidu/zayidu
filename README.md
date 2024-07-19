@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Redefining Software Development: Human Architects and AI Builders](https://dev.to/miltonian33/redefining-software-development-human-architects-and-ai-builders-3f4p)
-- [Stay Compliant, Mitigate Risks: Understanding AML/KYC as a technologist](https://dev.to/horaceshmorace/stay-compliant-mitigate-risks-understanding-amlkyc-as-a-technologist-5go3)
-- [Why You Should Write Good Code](https://dev.to/thekarlesi/why-you-should-write-good-code-4hlg)
-- [Introduction to C++](https://dev.to/madgan95/introduction-to-c-4gfa)
-- [Auto-Tuning HIP: Boosting Performance on AMD and Nvidia GPUs, Challenges Unveiled](https://dev.to/mikeyoung44/auto-tuning-hip-boosting-performance-on-amd-and-nvidia-gpus-challenges-unveiled-1759)
+- [Mastering GitHub: 30 Essential Commands Every Developer Should Know](https://dev.to/vyan/mastering-github-30-essential-commands-every-developer-should-know-51nn)
+- [Enhancing OIDC security with demonstrating proof of possession &lpar;DPoP&rpar;](https://dev.to/logto/enhancing-oidc-security-with-demonstrating-proof-of-possession-dpop-24j4)
+- [The Power of Automation in Project Management](https://dev.to/bryany/the-power-of-automation-in-project-management-16dn)
+- [SLIDER ANIMATION HELP](https://dev.to/mixertmk_mixertime_0d7de2/slider-animation-help-23li)
+- [Nginx vs Apache: A Comprehensive Comparison](https://dev.to/devops_den/nginx-vs-apache-a-comprehensive-comparison-2cap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
