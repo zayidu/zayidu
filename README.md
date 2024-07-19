@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon EC2 &lpar;Elastic Compute Cloud&rpar; : Launching First Instance](https://dev.to/noorscript/amazon-ec2-elastic-compute-cloud-launching-first-instance-d10)
-- [WeakSet in JS?](https://dev.to/__khojiakbar__/weakset-in-js-op1)
-- [Airflow for RAG based GenAI application](https://dev.to/shubhsk/airflow-for-rag-based-genai-application-1ac4)
-- [Unraveling the Mysteries of Docker: A Python Masterclass 🐳](https://dev.to/getvm/unraveling-the-mysteries-of-docker-a-python-masterclass-g8n)
-- [⚡ MySecondApp - React Native with Expo &lpar;P9&rpar; - Drawer Navigator](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p9-drawer-navigator-49fm)
+- [Creating a Smooth Transitioning Dialog Component in React: My Journey](https://dev.to/copet80/creating-a-smooth-transitioning-dialog-component-in-react-my-journey-5a44)
+- [Use Lambda and DynamoDB to resize S3 Image Uploaded using TERRAFORM](https://dev.to/nivekalara237/use-lambda-and-dynamodb-to-resize-s3-image-uploaded-using-terraform-1nak)
+- [How is mobile-first web design different from adaptive and responsive design?](https://dev.to/pepper_square/how-is-mobile-first-web-design-different-from-adaptive-and-responsive-design-27c6)
+- [LeetCode Day37 Dynamic Programming part 11](https://dev.to/flame_chan_llll/leetcode-day37-dynamic-programming-2079)
+- [Steps to Preventing Prototype Pollution Attacks in JavaScript](https://dev.to/rigalpatel001/steps-to-preventing-prototype-pollution-attacks-in-javascript-118g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
