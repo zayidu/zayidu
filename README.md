@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Iniciando com o Ansible](https://dev.to/nataliagranato/iniciando-com-o-ansible-1dfg)
-- [Supercharging LLMs: RoT Fuses Language Models with Decision Tree Search to Boost Reasoning Power](https://dev.to/mikeyoung44/supercharging-llms-rot-fuses-language-models-with-decision-tree-search-to-boost-reasoning-power-1ik9)
-- [Tools and Skills for .NET 8: Episode 1](https://dev.to/priya_sharma/tools-and-skills-for-net-8-episode-1-11nn)
-- [Unleash Your VSCode Mastery: A Project to Build an Extension with ChatGPT](https://dev.to/labex/unleash-your-vscode-mastery-a-project-to-build-an-extension-with-chatgpt-25k)
-- [5. Writing our first program in python with home🧡work](https://dev.to/aryan015/5-writing-our-first-program-in-python-with-homework-4g6o)
+- [AI in DevOps: Enhancing Automation and Efficiency](https://dev.to/ldatb/ai-in-devops-enhancing-automation-and-efficiency-4jka)
+- [My 2 cents on react &amp; next](https://dev.to/codewithtejas/getting-my-hands-dirty-with-react-next-1hg)
+- [Debuggin no VS code com React Native Tools](https://dev.to/pripoliveira50/debuggin-no-vs-code-com-react-native-tools-4pgi)
+- [Kubernetes Vanilla em instâncias ec2](https://dev.to/nataliagranato/kubernetes-vanilla-em-instancias-ec2-12lo)
+- [Parâmetros avançados no Docker Compose](https://dev.to/nataliagranato/parametros-avancados-no-docker-compose-1p2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
