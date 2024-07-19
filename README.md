@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What to do as your first project?](https://dev.to/feliciakwame/what-to-do-as-your-first-project-3nne)
-- [Book Review - Mastering Node.js by Adam Freeman](https://dev.to/priya_sharma/book-review-mastering-nodejs-by-adam-freeman-51dm)
-- [The Role of Polynomials in Machine Learning and Data Science](https://dev.to/lilyneema/the-role-of-polynomials-in-machine-learning-and-data-science-542l)
-- [Artificial Intelligence and Linguistics: Generative AI](https://dev.to/oadaramola/artificial-intelligence-and-linguistics-generative-ai-2a83)
-- [vivo Migrated from GlusterFS to a Distributed File System for AI Training](https://dev.to/daswu/vivo-migrated-from-glusterfs-to-a-distributed-file-system-for-ai-training-4fph)
+- [SafeLine Community Edition releases dynamic protection capabilities.](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-community-edition-releases-dynamic-protection-capabilities-k9p)
+- [Stripe Subscription Payments With Nest.js and Prisma — Part 1](https://dev.to/ferhat/stripe-subscription-payments-with-nestjs-and-prisma-part-1-177)
+- [How To Refactor Your Codebase](https://dev.to/jully/how-to-refactor-your-codebase-41f4)
+- [How To Refactor Your Codebase](https://dev.to/jully/how-to-refactor-your-codebase-57e9)
+- [Bridging the Physical and Digital: IoT Solution with Azure IoT Hub, Device Connectivity, and Telemetry to Blob Storage](https://dev.to/adah_okwara_3c43c95a89a2e/bridging-the-physical-and-digital-iot-solution-with-azure-iot-hub-device-connectivity-and-telemetry-to-blob-storage-4fml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
