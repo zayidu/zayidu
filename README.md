@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Desvendando Mistérios: Como Tentar Resolver Problemas Sem Pedir Ajuda](https://dev.to/viquitor/desvendando-misterios-como-tentar-resolver-problemas-sem-pedir-ajuda-38l4)
-- [How Dynamodb partition keys work under the hood](https://dev.to/praveenmuthu/how-dynamodb-partition-keys-work-under-the-hood-21k5)
-- [challenging my brain](https://dev.to/myrojyn/challenging-my-brain-1h0m)
-- [Client Mapping Made Easy: Leveraging Autonomous Agents in API Integrations](https://dev.to/apidna/client-mapping-made-easy-leveraging-autonomous-agents-in-api-integrations-2509)
-- [Understanding Single Points of Failure &lpar;SPOF&rpar; in Software Systems](https://dev.to/moezmissaoui/understanding-single-points-of-failure-spof-in-software-systems-57md)
+- [Day 27 Task: Jenkins Declarative Pipeline with Docker](https://dev.to/oncloud7/day-27-task-jenkins-declarative-pipeline-with-docker-1jp2)
+- [Use zig cc to cross-compile a CMake project](https://dev.to/jcbhmr/use-zig-cc-to-cross-compile-a-cmake-project-36e7)
+- [Weekly Updates - July 19, 2024](https://dev.to/couchbase/weekly-updates-july-19-2024-b30)
+- [Enabling Hot Reloading for Next.js in Docker](https://dev.to/yuvraajsj18/enabling-hot-reloading-for-nextjs-in-docker-4k39)
+- [Predictive Maintenance in the Upstream Sector: Implementing Machine Learning with Flask](https://dev.to/ekemini_thompson/predictive-maintenance-in-the-upstream-sector-implementing-machine-learning-with-flask-2oam)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
