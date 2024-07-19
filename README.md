@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Smooth Transitioning Dialog Component in React: My Journey](https://dev.to/copet80/creating-a-smooth-transitioning-dialog-component-in-react-my-journey-5a44)
-- [Use Lambda and DynamoDB to resize S3 Image Uploaded using TERRAFORM](https://dev.to/nivekalara237/use-lambda-and-dynamodb-to-resize-s3-image-uploaded-using-terraform-1nak)
-- [How is mobile-first web design different from adaptive and responsive design?](https://dev.to/pepper_square/how-is-mobile-first-web-design-different-from-adaptive-and-responsive-design-27c6)
-- [LeetCode Day37 Dynamic Programming part 11](https://dev.to/flame_chan_llll/leetcode-day37-dynamic-programming-2079)
-- [Steps to Preventing Prototype Pollution Attacks in JavaScript](https://dev.to/rigalpatel001/steps-to-preventing-prototype-pollution-attacks-in-javascript-118g)
+- [Getting Started with Next.js: Part 8 - State Management and API Integration](https://dev.to/dipakahirav/getting-started-with-nextjs-part-8-state-management-and-api-integration-13l)
+- [Practical IoT solution using Azure IoT Hub.](https://dev.to/laoluafolami/practical-iot-solution-using-azure-iot-hub-2apc)
+- [How to Learn Project Management?](https://dev.to/devops_den/how-to-learn-project-management-98a)
+- [From Code Newbie to Dev Community Whiz: How Doc-E.ai Became My Secret Weapon](https://dev.to/swati1267/from-code-newbie-to-dev-community-whiz-how-doc-eai-became-my-secret-weapon-46l)
+- [What is the Role of Authentication in Cybersecurity](https://dev.to/blogginger/what-is-the-role-of-authentication-in-cybersecurity-10ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
