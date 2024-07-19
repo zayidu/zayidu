@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering GitHub: 30 Essential Commands Every Developer Should Know](https://dev.to/vyan/mastering-github-30-essential-commands-every-developer-should-know-51nn)
-- [Enhancing OIDC security with demonstrating proof of possession &lpar;DPoP&rpar;](https://dev.to/logto/enhancing-oidc-security-with-demonstrating-proof-of-possession-dpop-24j4)
-- [The Power of Automation in Project Management](https://dev.to/bryany/the-power-of-automation-in-project-management-16dn)
-- [SLIDER ANIMATION HELP](https://dev.to/mixertmk_mixertime_0d7de2/slider-animation-help-23li)
-- [Nginx vs Apache: A Comprehensive Comparison](https://dev.to/devops_den/nginx-vs-apache-a-comprehensive-comparison-2cap)
+- [#29 — Group an Excel table and Store It as Multiple Files According to Part of The Values of Specified Cells](https://dev.to/judith677/29-group-an-excel-table-and-store-it-as-multiple-files-according-to-part-of-the-values-of-specified-cells-5777)
+- [The fastest way to build an authentication system](https://dev.to/logto/the-fastest-way-to-build-an-authentication-system-6o6)
+- [15 Short &amp; Sweet JavaScript Snippets](https://dev.to/matin676/15-short-sweet-javascript-snippets-ee4)
+- [Mastering Basic Arithmetic Operations in C Programming](https://dev.to/labex/mastering-basic-arithmetic-operations-in-c-programming-4dal)
+- [Dive into Web Designing Basics with My New GitHub Repository](https://dev.to/rushikeshsonwane03/dive-into-web-designing-basics-with-my-new-github-repository-2607)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
