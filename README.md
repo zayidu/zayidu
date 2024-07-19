@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Struggeling Dev Takes Notes](https://dev.to/downtherabbithole/struggeling-dev-takes-notes-55cp)
-- [Estruturas Condicionais em Programação](https://dev.to/andersoncode66/estruturas-condicionais-em-programacao-45cb)
-- [Top 3 Best React Books 2024](https://dev.to/priya_sharma/top-3-best-react-books-2024-28dm)
-- [Creating a 3D Gallery App with Three.js, HTML, and CSS - Part 2](https://dev.to/aliozzaim/creating-a-3d-gallery-app-with-threejs-html-and-css-part-2-1ce8)
-- [Plang: Abstracting Away the Complexity](https://dev.to/ingigauti/plang-abstracting-away-the-complexity-50mm)
+- [Introduction to C++](https://dev.to/madgan95/introduction-to-c-4gfa)
+- [Field-Deployed MARL for Dynamic Variable Speed Limit Optimization](https://dev.to/mikeyoung44/field-deployed-marl-for-dynamic-variable-speed-limit-optimization-1118)
+- [Unlocking AI&#39;s Compositional Generalization: Skills-in-Context Boosts Language Model Performance](https://dev.to/mikeyoung44/unlocking-ais-compositional-generalization-skills-in-context-boosts-language-model-performance-3jeb)
+- [Context Augmented Retrieval: Boosting LLM Performance with Efficient Information Retrieval](https://dev.to/mikeyoung44/context-augmented-retrieval-boosting-llm-performance-with-efficient-information-retrieval-3a81)
+- [&quot;LLMs Unlock Mathematical Discovery: New Method Outperforms Traditional Symbolic Regression&quot;](https://dev.to/mikeyoung44/llms-unlock-mathematical-discovery-new-method-outperforms-traditional-symbolic-regression-218b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
