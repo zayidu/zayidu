@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in DevOps: Enhancing Automation and Efficiency](https://dev.to/ldatb/ai-in-devops-enhancing-automation-and-efficiency-4jka)
-- [My 2 cents on react &amp; next](https://dev.to/codewithtejas/getting-my-hands-dirty-with-react-next-1hg)
-- [Debuggin no VS code com React Native Tools](https://dev.to/pripoliveira50/debuggin-no-vs-code-com-react-native-tools-4pgi)
-- [Kubernetes Vanilla em instâncias ec2](https://dev.to/nataliagranato/kubernetes-vanilla-em-instancias-ec2-12lo)
-- [Parâmetros avançados no Docker Compose](https://dev.to/nataliagranato/parametros-avancados-no-docker-compose-1p2a)
+- [How To Use TanStack &lpar;React Query&rpar;](https://dev.to/ewenikeemmanue4/how-to-use-tanstack-react-query-52bd)
+- [Dealing with Flutter Dependency Conflicts and Third-Party Plugin Changes](https://dev.to/vpalania/dealing-with-flutter-dependency-conflicts-and-third-party-plugin-changes-50d)
+- [Exploring Generative Adversarial Networks &lpar;GANs&rpar;](https://dev.to/nd_18b1e31aad9b7eca9e465a/exploring-generative-adversarial-networks-gans-48n5)
+- [Secure and Resilient Design](https://dev.to/owasp/secure-and-resilient-design-2f1k)
+- [Build de Imagens no Kubernetes com Gitlab Runner e Kaniko](https://dev.to/nataliagranato/build-de-imagens-no-kubernetes-com-gitlab-runner-e-kaniko-17e4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
