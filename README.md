@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Caption this image! &lpar;Azure &amp; CrowdStrike outages&rpar;](https://dev.to/kgilpin/caption-this-image-azure-crowdstrike-outages-57dh)
-- [Partial Routing in React](https://dev.to/alikhanzada577/partial-routing-in-react-290p)
-- [A Deep Dive into AI Advancements and Applications](https://dev.to/citrux-digital/a-deep-dive-into-ai-advancements-and-applications-44li)
-- [Flutter vs. React Native](https://dev.to/sh20raj/flutter-vs-react-native-1die)
-- [Innovative Object Detection in Images: Technologies, Applications, and Leading Solutions](https://dev.to/api4ai/innovative-object-detection-in-images-technologies-applications-and-leading-solutions-1hgl)
+- [Funny Friday and Self-care](https://dev.to/pachicodes/funny-friday-and-self-care-560m)
+- [🎡 Enhancing CyclopsUI: Modernizing the Node Details Page with Ant-D!](https://dev.to/arnavk-09/enhancing-cyclops-modernizing-the-node-details-page-with-ant-d-pca)
+- [Exploring AI-Assisted UI Development: Lessons from Creating a Hacker News Clone - pt. 3](https://dev.to/spencertower/exploring-ai-assisted-ui-development-lessons-from-creating-a-hacker-news-clone-pt-3-1l9d)
+- [Building a Trend Analysis Tool with the FeedRika API - Part I - Setup](https://dev.to/ayush_saran/building-a-trend-analysis-tool-with-the-feedrika-api-part-i-setup-50dp)
+- [30 days of AWS - Part 6: AWS Security](https://dev.to/achenchi/30-days-of-aws-part-6-aws-security-13pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
