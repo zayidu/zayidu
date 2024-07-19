@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Use TanStack &lpar;React Query&rpar;](https://dev.to/ewenikeemmanue4/how-to-use-tanstack-react-query-52bd)
-- [Dealing with Flutter Dependency Conflicts and Third-Party Plugin Changes](https://dev.to/vpalania/dealing-with-flutter-dependency-conflicts-and-third-party-plugin-changes-50d)
-- [Exploring Generative Adversarial Networks &lpar;GANs&rpar;](https://dev.to/nd_18b1e31aad9b7eca9e465a/exploring-generative-adversarial-networks-gans-48n5)
-- [Secure and Resilient Design](https://dev.to/owasp/secure-and-resilient-design-2f1k)
-- [Build de Imagens no Kubernetes com Gitlab Runner e Kaniko](https://dev.to/nataliagranato/build-de-imagens-no-kubernetes-com-gitlab-runner-e-kaniko-17e4)
+- [Using the Actor System in ASP.NET](https://dev.to/edexade/using-the-actor-system-in-aspnet-481k)
+- [Linked Lists](https://dev.to/paulike/linked-lists-lko)
+- [How To Verify Forms Using Formik in React js](https://dev.to/ewenikeemmanue4/how-to-verify-forms-using-formik-in-react-js-3a4o)
+- [Unlocking the Power of TypeScript&#39;s &quot;as const&quot;: The Underrated Feature You Need to Know](https://dev.to/sharoztanveer/unlocking-the-power-of-typescripts-as-const-the-underrated-feature-you-need-to-know-25l7)
+- [First Day as a Software Developer: The Surprising Truth](https://dev.to/ninjavaz/first-day-as-a-software-developer-the-surprising-truth-3pdi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
