@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Next.js: Part 8 - State Management and API Integration](https://dev.to/dipakahirav/getting-started-with-nextjs-part-8-state-management-and-api-integration-13l)
-- [Practical IoT solution using Azure IoT Hub.](https://dev.to/laoluafolami/practical-iot-solution-using-azure-iot-hub-2apc)
-- [How to Learn Project Management?](https://dev.to/devops_den/how-to-learn-project-management-98a)
-- [From Code Newbie to Dev Community Whiz: How Doc-E.ai Became My Secret Weapon](https://dev.to/swati1267/from-code-newbie-to-dev-community-whiz-how-doc-eai-became-my-secret-weapon-46l)
-- [What is the Role of Authentication in Cybersecurity](https://dev.to/blogginger/what-is-the-role-of-authentication-in-cybersecurity-10ca)
+- [What to do as your first project?](https://dev.to/feliciakwame/what-to-do-as-your-first-project-3nne)
+- [Book Review - Mastering Node.js by Adam Freeman](https://dev.to/priya_sharma/book-review-mastering-nodejs-by-adam-freeman-51dm)
+- [The Role of Polynomials in Machine Learning and Data Science](https://dev.to/lilyneema/the-role-of-polynomials-in-machine-learning-and-data-science-542l)
+- [Artificial Intelligence and Linguistics: Generative AI](https://dev.to/oadaramola/artificial-intelligence-and-linguistics-generative-ai-2a83)
+- [vivo Migrated from GlusterFS to a Distributed File System for AI Training](https://dev.to/daswu/vivo-migrated-from-glusterfs-to-a-distributed-file-system-for-ai-training-4fph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
