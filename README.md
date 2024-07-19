@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#29 — Group an Excel table and Store It as Multiple Files According to Part of The Values of Specified Cells](https://dev.to/judith677/29-group-an-excel-table-and-store-it-as-multiple-files-according-to-part-of-the-values-of-specified-cells-5777)
-- [The fastest way to build an authentication system](https://dev.to/logto/the-fastest-way-to-build-an-authentication-system-6o6)
-- [15 Short &amp; Sweet JavaScript Snippets](https://dev.to/matin676/15-short-sweet-javascript-snippets-ee4)
-- [Mastering Basic Arithmetic Operations in C Programming](https://dev.to/labex/mastering-basic-arithmetic-operations-in-c-programming-4dal)
-- [Dive into Web Designing Basics with My New GitHub Repository](https://dev.to/rushikeshsonwane03/dive-into-web-designing-basics-with-my-new-github-repository-2607)
+- [Amazon EC2 &lpar;Elastic Compute Cloud&rpar; : Launching First Instance](https://dev.to/noorscript/amazon-ec2-elastic-compute-cloud-launching-first-instance-d10)
+- [WeakSet in JS?](https://dev.to/__khojiakbar__/weakset-in-js-op1)
+- [Airflow for RAG based GenAI application](https://dev.to/shubhsk/airflow-for-rag-based-genai-application-1ac4)
+- [Unraveling the Mysteries of Docker: A Python Masterclass 🐳](https://dev.to/getvm/unraveling-the-mysteries-of-docker-a-python-masterclass-g8n)
+- [⚡ MySecondApp - React Native with Expo &lpar;P9&rpar; - Drawer Navigator](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p9-drawer-navigator-49fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
