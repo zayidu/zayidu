@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a slick CSS animation from The Fall Guy](https://dev.to/robole/how-to-create-a-slick-css-animation-from-the-fall-guy-5f2a)
-- [Day 3 of NodeJS||Important Modules](https://dev.to/akshat0610/day-3-of-nodejsimportant-modules-153e)
-- [Practical IoT Solution Using Azure IoT Hub](https://dev.to/dera2024/practical-iot-solution-using-azure-iot-hub-42hh)
-- [Global Outage of Microsoft Services](https://dev.to/winsides/global-outage-of-microsoft-services-2817)
-- [Why should you have a Staging environment?](https://dev.to/woovi/why-should-you-have-a-staging-environment-3d75)
+- [Caption this image! &lpar;Azure &amp; CrowdStrike outages&rpar;](https://dev.to/kgilpin/caption-this-image-azure-crowdstrike-outages-57dh)
+- [Partial Routing in React](https://dev.to/alikhanzada577/partial-routing-in-react-290p)
+- [A Deep Dive into AI Advancements and Applications](https://dev.to/citrux-digital/a-deep-dive-into-ai-advancements-and-applications-44li)
+- [Flutter vs. React Native](https://dev.to/sh20raj/flutter-vs-react-native-1die)
+- [Innovative Object Detection in Images: Technologies, Applications, and Leading Solutions](https://dev.to/api4ai/innovative-object-detection-in-images-technologies-applications-and-leading-solutions-1hgl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
