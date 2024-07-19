@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SafeLine Community Edition releases dynamic protection capabilities.](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-community-edition-releases-dynamic-protection-capabilities-k9p)
-- [Stripe Subscription Payments With Nest.js and Prisma — Part 1](https://dev.to/ferhat/stripe-subscription-payments-with-nestjs-and-prisma-part-1-177)
-- [How To Refactor Your Codebase](https://dev.to/jully/how-to-refactor-your-codebase-41f4)
-- [How To Refactor Your Codebase](https://dev.to/jully/how-to-refactor-your-codebase-57e9)
-- [Bridging the Physical and Digital: IoT Solution with Azure IoT Hub, Device Connectivity, and Telemetry to Blob Storage](https://dev.to/adah_okwara_3c43c95a89a2e/bridging-the-physical-and-digital-iot-solution-with-azure-iot-hub-device-connectivity-and-telemetry-to-blob-storage-4fml)
+- [How to Quickly Fix Crowdstrike BSOD](https://dev.to/ralphsebastian/how-to-quickly-fix-crowdstrike-bsod-58a6)
+- [Running Phi-3-vision via ONNX on Jetson Platform](https://dev.to/jambochen/running-phi-3-vision-via-onnx-on-jetson-platform-35m1)
+- [JavaScript Design Patterns - Behavioral - Memento](https://dev.to/nhannguyendevjs/javascript-design-patterns-behavioral-memento-14o4)
+- [Magento 2 Slack Notifier Module](https://dev.to/hamza_hannad/introducing-the-magento-2-slack-notifier-module-1nb)
+- [Fixing Package Dependencies](https://dev.to/ijlee2/fixing-package-dependencies-5557)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
