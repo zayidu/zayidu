@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Go lang? and why would you use it?](https://dev.to/vaibhavt14/what-is-go-lang-and-why-would-you-use-it-1260)
-- [Fix wezterm’s terminfo on arch](https://dev.to/burnskp/fix-wezterms-terminfo-on-arch-1k0a)
-- [Day 8: Advanced React Topics 🚀](https://dev.to/dipakahirav/day-8-advanced-react-topics-2jei)
-- [Odd-even LinkedList](https://dev.to/prashantrmishra/odd-even-linkedlist-16ol)
-- [Code Smell 260 - Crowdstrike NULL](https://dev.to/mcsee/code-smell-260-crowdstrike-null-gh4)
+- [Assign an IAM role to a Kubernetes service account](https://dev.to/aws-builders/assign-an-iam-role-to-a-kubernetes-service-account-3nc7)
+- [After Working Super Hard for 7 Years, We Released the New Kooboo CMS Under the EPL Open Source License Today](https://dev.to/kooboo/after-working-super-hard-for-7-years-we-released-the-new-kooboo-cms-under-the-epl-open-source-license-today-4no6)
+- [Prefer Empty Objects over Compiler tricks](https://dev.to/mjbradvica/prefer-empty-objects-over-compiler-tricks-116a)
+- [Project Homelab: Configuring proxmox with Ansible](https://dev.to/burnskp/project-homelab-configuring-proxmox-with-ansible-5eo8)
+- [CA1848 High-performance logging in .NET Framework 4.8 and .NET 5.0+](https://dev.to/flatrick/ca1848-high-performance-logging-in-net-framework-48-and-net-50-3l25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
