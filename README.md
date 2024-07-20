@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 CSS One-Liners I Love to Use](https://dev.to/safdarali/top-10-css-one-liners-i-love-to-use-5d24)
-- [How to make a replica of GPT Actions with the OpenAI API only ?](https://dev.to/obaydmerz/how-to-make-a-replica-of-gpt-actions-with-the-openai-api-only--jge)
-- [How to start with React Native as ReactJS developer?](https://dev.to/hellonehha/how-to-start-with-react-native-as-reactjs-developer-2d61)
-- [First blog post!](https://dev.to/princeu/first-blog-post-3l72)
-- [Strava for Productivity - weekend end-to-end project](https://dev.to/timbroome/strava-for-productivity-weekend-end-to-end-project-2kk3)
+- [Building Microservices with .NET Core](https://dev.to/kartikmehta8/building-microservices-with-net-core-298d)
+- [First Vertical - log a time period against a user - iPhone app to Supabase - WIP](https://dev.to/timbroome/first-vertical-log-a-time-period-against-a-user-iphone-app-to-superbase-wip-1g2p)
+- [Tech choices and why - WIP](https://dev.to/timbroome/tech-choices-and-why-wip-1h78)
+- [High-level vision, vision board and requirements - WIP](https://dev.to/timbroome/high-level-vision-vision-board-and-requirements-wip-5k9)
+- [🚀Enhancing Your Next.js Starter: Introducing Renovate, SonarCloud, and CodeFactor🚀](https://dev.to/imevanc/enhancing-your-nextjs-starter-introducing-renovate-sonarcloud-and-codefactor-2f4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
