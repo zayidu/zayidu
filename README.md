@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a DIY Smart Home Device: Get S**t Done](https://dev.to/agafox/building-a-diy-smart-home-device-get-st-done-ekg)
-- [We have been doomed by those best practices books](https://dev.to/playma256/we-have-been-doomed-by-those-best-practices-books-56km)
-- [AI and Cybersecurity: Navigating the Evolving Landscape](https://dev.to/azeem_shafeeq/ai-and-cybersecurity-navigating-the-evolving-landscape-52ma)
-- [Comprehensive Guide to Using GetX in Flutter](https://dev.to/ahmaddarwesh/comprehensive-guide-to-using-getx-in-flutter-1nnj)
-- [Terraform project for creating Azure Resources](https://dev.to/hbolajraf/terraform-project-for-creating-azure-resources-dia)
+- [A Arte de identificar o Problema Antes de Buscar Soluções](https://dev.to/viquitor/a-arte-de-focar-no-problema-antes-de-buscar-solucoes-dlh)
+- [Data Structure #1 Stack](https://dev.to/elijah57/data-structure-1-stack-31e4)
+- [Hello, World!](https://dev.to/isaacdyor/hello-world-2kk5)
+- [LeetCode Meditations: Palindromic Substrings](https://dev.to/rivea0/leetcode-meditations-palindromic-substrings-21c3)
+- [Multipage Vite Vanilla JavaScript](https://dev.to/mochamadboval/multipage-vite-vanilla-javascript-3i0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
