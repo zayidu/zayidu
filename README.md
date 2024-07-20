@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting the Actual Client IP When Using Application Load Balancer &lpar;ALB&rpar; in AWS Lambda](https://dev.to/rkj180220/getting-the-actual-client-ip-when-using-application-load-balancer-alb-in-aws-lambda-4fcn)
-- [Memfree](https://dev.to/malik_hamid_311d4b4c65819/memfree-31b9)
-- [Gradient animated text with Tailwind CSS](https://dev.to/byakkuya/gradient-animated-text-with-tailwind-css-1g2k)
-- [How to Use Google Cloud Run Jobs for Background Tasks](https://dev.to/mkdev/how-to-use-google-cloud-run-jobs-for-background-tasks-3ej1)
-- [Interactive debugging with Symfony Console](https://dev.to/woodygilk/interactive-debugging-with-symfony-console-1cfb)
+- [Space Defender - part 1 - setting up the project](https://dev.to/mrlinxed/space-defender-part-1-setting-up-the-project-3hfk)
+- [中国社区日: 王宇 &lpar;AWS解决方案架构师&rpar; 生成式AI](https://dev.to/aws-builders/china-community-day-yu-wong-aws-solution-architect-generative-ai-4fe1)
+- [中国社区日: 王昊文 &lpar;AWS布道师&rpar; 生成式AI](https://dev.to/aws-builders/zhong-guo-she-qu-ri-wang-hao-wen-awsdai-yan-ren-sheng-cheng-shi-ai-2n1e)
+- [中国社区日: 马克·伯奇 &lpar;AWS布道师&rpar; 初创企业](https://dev.to/aws-builders/zhong-guo-she-qu-ri-ma-ke-bo-qi-awsdai-yan-ren-chu-chuang-qi-ye-285)
+- [中国社区日: 郑宇彬 &lpar;AWS布道师&rpar; AWS文化](https://dev.to/aws-builders/zhong-guo-she-qu-ri-zheng-yu-bin-awsdai-yan-ren-awswen-hua-3nj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
