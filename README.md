@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering React: A Developer&#39;s Guide to Structuring Your Frontend Code](https://dev.to/vyan/mastering-react-a-developers-guide-to-structuring-your-frontend-code-45a5)
-- [Connecting to Your Linux EC2 Instance Using PuTTY on Window](https://dev.to/noorscript/connecting-to-your-linux-ec2-instance-using-putty-on-window-hcp)
-- [Building a full-stack app with Python &amp; Django](https://dev.to/prvnbist/building-a-full-stack-app-with-python-django-20j4)
-- [Appwork School - Week 0](https://dev.to/ivavay/appworks-school-week-0-2gfl)
-- [Getting to the meat and potatoes of serverless recipe parsing with Amazon Bedrock](https://dev.to/willdady/getting-to-the-meat-and-potatoes-of-serverless-recipe-parsing-with-amazon-bedrock-4ifc)
+- [Solving Common Issues with Hotwire in Ruby on Rails: Tips and Tricks](https://dev.to/shahzaib/solving-common-issues-with-hotwire-in-ruby-on-rails-tips-and-tricks-5ah5)
+- [What are the eligibility requirements for the state scholarship program?](https://dev.to/william_732a7fb4164dd99c8/what-are-the-eligibility-requirements-for-the-state-scholarship-program-4ado)
+- [Connecting to Your Windows EC2 Instance Using Remote Desktop Connection &lpar;RDC&rpar;](https://dev.to/noorscript/connecting-to-your-windows-ec2-instance-using-remote-desktop-connection-rdc-286e)
+- [Message Delivery System using AWS Step Functions](https://dev.to/brandongautama/message-delivery-system-using-aws-step-functions-jda)
+- [How Forex Rates APIs are Powering the Future of Finance](https://dev.to/sameeranthony/how-forex-rates-apis-are-powering-the-future-of-finance-373p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
