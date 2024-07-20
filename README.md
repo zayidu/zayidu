@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate HTML Guide: Kickstart Your Web Development Journey](https://dev.to/saamsheron/the-ultimate-html-guide-kickstart-your-web-development-journey-2hpm)
-- [How to Improve Your Development Workflow with Gemini Code Assist](https://dev.to/michellebuchiokonicha/how-to-improve-your-development-workflow-with-gemini-code-assist-10lm)
-- [Day 18 of 100 Days of Code](https://dev.to/jacobsternx/day-18-of-100-days-of-code-pak)
-- [Simple Azure OpenAi RAG Microservice Architecture.](https://dev.to/vinoth_thulukanam/simple-azure-openai-rag-microservice-architecture-3kbd)
-- [Struggling Dev&#39;s sneaky Domain Driven Design](https://dev.to/downtherabbithole/struggling-devs-sneaky-domain-driven-design-3j2c)
+- [You don&#39;t need a frontend framework](https://dev.to/oryoffe/you-dont-need-a-frontend-framework-408m)
+- [Top 30 MongoDB Interview Questions and Answers](https://dev.to/raynecoder/top-30-mongodb-interview-questions-and-answers-6a4)
+- [Don&#39;t use &#39;BuildContext&#39;s across async gaps.](https://dev.to/sidcodeme/dont-use-buildcontexts-across-async-gaps-pe)
+- [Create API Routes Using Next Js](https://dev.to/maskoding/create-api-routes-using-next-js-4a1m)
+- [The Cloud and DevOps Revolution: Shaping the Future of Technology](https://dev.to/0sujal/the-cloud-and-devops-revolution-shaping-the-future-of-technology-bi6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
