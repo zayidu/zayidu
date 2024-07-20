@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Backend framework using Node.js](https://dev.to/ramiahmed68/backend-framework-using-nodejs-408i)
+- [The 3 Best Tools for API Design for Software Architects](https://dev.to/finally_code/the-3-best-tools-for-api-design-for-software-architects-3odj)
+- [Top SQL Server Interview Questions for 2024](https://dev.to/raynecoder/top-sql-server-interview-questions-for-2024-4kg2)
 - [You don&#39;t need a frontend framework](https://dev.to/oryoffe/you-dont-need-a-frontend-framework-408m)
 - [Top 30 MongoDB Interview Questions and Answers](https://dev.to/raynecoder/top-30-mongodb-interview-questions-and-answers-6a4)
-- [Don&#39;t use &#39;BuildContext&#39;s across async gaps.](https://dev.to/sidcodeme/dont-use-buildcontexts-across-async-gaps-pe)
-- [Create API Routes Using Next Js](https://dev.to/maskoding/create-api-routes-using-next-js-4a1m)
-- [The Cloud and DevOps Revolution: Shaping the Future of Technology](https://dev.to/0sujal/the-cloud-and-devops-revolution-shaping-the-future-of-technology-bi6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
