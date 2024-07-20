@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DBOS-Cloud: Fast and Free Automatic Data Aggregator](https://dev.to/vince_hirefunnel_co/dbos-cloud-fast-and-free-automatic-data-aggregator-2gdd)
-- [DBOS-Cloud: Fast and Free Automatic Supabase Table Copier](https://dev.to/vince_hirefunnel_co/dbos-cloud-fast-and-free-automatic-supabase-table-copier-2d65)
-- [Understanding the Core Node.js Environment](https://dev.to/shieldstring/understanding-the-core-nodejs-environment-20hc)
-- [Developing GROWI Plug-ins &lpar;Remark Plug-ins&rpar;](https://dev.to/goofmint/developing-growi-plug-ins-remark-plug-ins-1g7g)
-- [We Got a Job Offer in SECourses Discord Channel Related to AI &lpar;Stable Diffusion&rpar;](https://dev.to/furkangozukara/we-got-a-job-offer-in-secourses-discord-channel-related-to-ai-stable-diffusion-a28)
+- [Angular Tutorial: Local Component Template Variables with @let](https://dev.to/brianmtreese/angular-tutorial-local-component-template-variables-with-let-2p5i)
+- [Essential Tech Support Practices for Remote Developers](https://dev.to/aaronsmithcs/essential-tech-support-practices-for-remote-developers-3jl6)
+- [cummin&lpar;&rpar; and cummax&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/cummin-and-cummax-in-pytorch-4l8l)
+- [Gorm Pagination With Ease](https://dev.to/sheenazien8/gorm-pagination-with-ease-28m6)
+- [Mastering NumPy Array Mean Calculation](https://dev.to/labex/mastering-numpy-array-mean-calculation-4pig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
