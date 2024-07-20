@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Roast: Day 5] - Creating flow using useState](https://dev.to/nmiller15/-roast-day-5-creating-flow-using-usestate-3e6p)
-- [Creating and Publishing a vue-file-validator plugin with Vite and npm : A Comprehensive Guide](https://dev.to/kelvin-igbinoba/creating-and-publishing-a-vue-file-validator-plugin-with-vite-and-npm-a-comprehensive-guide-bi0)
-- [Event-Driven Magic: Exploring AWS EventBridge](https://dev.to/aws-builders/event-driven-magic-exploring-aws-eventbridge-1hoa)
-- [Building an Interactive Map Application with React and Node.js](https://dev.to/mibii/building-an-interactive-map-application-with-react-and-nodejs-3a85)
-- [பைத்தான் பயிற்சி வகுப்பின் மூலம் அடைந்த முயற்சி - இரண்டு](https://dev.to/neyakkoo/paittaannn-pyirrci-vkuppinnn-muulm-attaint-muyrrci-irnnttu-3i2m)
+- [Getting the Actual Client IP When Using Application Load Balancer &lpar;ALB&rpar; in AWS Lambda](https://dev.to/rkj180220/getting-the-actual-client-ip-when-using-application-load-balancer-alb-in-aws-lambda-4fcn)
+- [Memfree](https://dev.to/malik_hamid_311d4b4c65819/memfree-31b9)
+- [Gradient animated text with Tailwind CSS](https://dev.to/byakkuya/gradient-animated-text-with-tailwind-css-1g2k)
+- [How to Use Google Cloud Run Jobs for Background Tasks](https://dev.to/mkdev/how-to-use-google-cloud-run-jobs-for-background-tasks-3ej1)
+- [Interactive debugging with Symfony Console](https://dev.to/woodygilk/interactive-debugging-with-symfony-console-1cfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
