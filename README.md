@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Assign an IAM role to a Kubernetes service account](https://dev.to/aws-builders/assign-an-iam-role-to-a-kubernetes-service-account-3nc7)
-- [After Working Super Hard for 7 Years, We Released the New Kooboo CMS Under the EPL Open Source License Today](https://dev.to/kooboo/after-working-super-hard-for-7-years-we-released-the-new-kooboo-cms-under-the-epl-open-source-license-today-4no6)
-- [Prefer Empty Objects over Compiler tricks](https://dev.to/mjbradvica/prefer-empty-objects-over-compiler-tricks-116a)
-- [Project Homelab: Configuring proxmox with Ansible](https://dev.to/burnskp/project-homelab-configuring-proxmox-with-ansible-5eo8)
-- [CA1848 High-performance logging in .NET Framework 4.8 and .NET 5.0+](https://dev.to/flatrick/ca1848-high-performance-logging-in-net-framework-48-and-net-50-3l25)
+- [Society Issue Management System](https://dev.to/madhubankhatri/society-issue-management-system-ko2)
+- [How are you doing deployment and CI?](https://dev.to/baradm100/how-are-you-doing-deployment-and-ci-1lnk)
+- [Guide to Redux: A Robust State Management Library for JavaScript Applications](https://dev.to/abdullah-dev0/guide-to-redux-a-robust-state-management-library-for-javascript-applications-2emj)
+- [AI&#39;s Powerhouse: How Large Language Models are Revolutionizing the Game](https://dev.to/hayyanstudio/ais-powerhouse-how-large-language-models-are-revolutionizing-the-game-55a7)
+- [Counting Sort](https://dev.to/johnscode/counting-sort-4e47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
