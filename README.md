@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Backend framework using Node.js](https://dev.to/ramiahmed68/backend-framework-using-nodejs-408i)
-- [The 3 Best Tools for API Design for Software Architects](https://dev.to/finally_code/the-3-best-tools-for-api-design-for-software-architects-3odj)
-- [Top SQL Server Interview Questions for 2024](https://dev.to/raynecoder/top-sql-server-interview-questions-for-2024-4kg2)
-- [You don&#39;t need a frontend framework](https://dev.to/oryoffe/you-dont-need-a-frontend-framework-408m)
-- [Top 30 MongoDB Interview Questions and Answers](https://dev.to/raynecoder/top-30-mongodb-interview-questions-and-answers-6a4)
+- [[Roast: Day 5] - Creating flow using useState](https://dev.to/nmiller15/-roast-day-5-creating-flow-using-usestate-3e6p)
+- [Creating and Publishing a vue-file-validator plugin with Vite and npm : A Comprehensive Guide](https://dev.to/kelvin-igbinoba/creating-and-publishing-a-vue-file-validator-plugin-with-vite-and-npm-a-comprehensive-guide-bi0)
+- [Event-Driven Magic: Exploring AWS EventBridge](https://dev.to/aws-builders/event-driven-magic-exploring-aws-eventbridge-1hoa)
+- [Building an Interactive Map Application with React and Node.js](https://dev.to/mibii/building-an-interactive-map-application-with-react-and-nodejs-3a85)
+- [பைத்தான் பயிற்சி வகுப்பின் மூலம் அடைந்த முயற்சி - இரண்டு](https://dev.to/neyakkoo/paittaannn-pyirrci-vkuppinnn-muulm-attaint-muyrrci-irnnttu-3i2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
