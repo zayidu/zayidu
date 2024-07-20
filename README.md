@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Missing Values || Feature Engineering || Machine Learning &lpar;Part1&rpar;](https://dev.to/ngneha09/handling-missing-values-feature-engineering-machine-learning-part1-4h7b)
-- [Fine-tuning LLAMA 3 for Text Classification with Limited Resources](https://dev.to/jkyamog/fine-tuning-llama-3-for-text-classification-with-limited-resources-4i06)
-- [Advanced Techniques for Checking the IP Address of a Website and Detecting Threats](https://dev.to/johnmiller/advanced-techniques-for-checking-the-ip-address-of-a-website-and-detecting-threats-9gi)
-- [My Personal Tips for Learning Software Development in 2024](https://dev.to/saiarlen/my-personal-tips-for-learning-software-development-in-2024-170p)
-- [QML: Focus - Gerenciar e Depurar](https://dev.to/eguinaldo98/qml-focus-gerenciar-e-depurar-4m6o)
+- [The Ultimate HTML Guide: Kickstart Your Web Development Journey](https://dev.to/saamsheron/the-ultimate-html-guide-kickstart-your-web-development-journey-2hpm)
+- [How to Improve Your Development Workflow with Gemini Code Assist](https://dev.to/michellebuchiokonicha/how-to-improve-your-development-workflow-with-gemini-code-assist-10lm)
+- [Day 18 of 100 Days of Code](https://dev.to/jacobsternx/day-18-of-100-days-of-code-pak)
+- [Simple Azure OpenAi RAG Microservice Architecture.](https://dev.to/vinoth_thulukanam/simple-azure-openai-rag-microservice-architecture-3kbd)
+- [Struggling Dev&#39;s sneaky Domain Driven Design](https://dev.to/downtherabbithole/struggling-devs-sneaky-domain-driven-design-3j2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
