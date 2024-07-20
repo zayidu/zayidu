@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Milvus Adventures July 20, 2024](https://dev.to/chrischurilo/milvus-adventures-july-20-2024-2bpe)
-- [My WordPress Template 2024 made from Vite and TypeScript](https://dev.to/yuichi_nabeshima_canada/my-wordpress-template-2024-made-from-vite-and-typescript-4db8)
-- [Rebuild Hooks in the Nexca](https://dev.to/homayunmmdy/rebuild-hooks-in-the-nexca-bn5)
-- [OpenTelemetry Metrics meets Azure](https://dev.to/kinneko-de/opentelemetry-metrics-meets-azure-3o6o)
-- [What happens when you type google.com in your browser and press Enter](https://dev.to/appsbymuss/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter-4nc7)
+- [Building a DIY Smart Home Device: Get S**t Done](https://dev.to/agafox/building-a-diy-smart-home-device-get-st-done-ekg)
+- [We have been doomed by those best practices books](https://dev.to/playma256/we-have-been-doomed-by-those-best-practices-books-56km)
+- [AI and Cybersecurity: Navigating the Evolving Landscape](https://dev.to/azeem_shafeeq/ai-and-cybersecurity-navigating-the-evolving-landscape-52ma)
+- [Comprehensive Guide to Using GetX in Flutter](https://dev.to/ahmaddarwesh/comprehensive-guide-to-using-getx-in-flutter-1nnj)
+- [Terraform project for creating Azure Resources](https://dev.to/hbolajraf/terraform-project-for-creating-azure-resources-dia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
