@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [What are your thoughts on Rust?](https://dev.to/mikeselva123/what-are-your-thoughts-on-rust-576k)
 - [Building Microservices with .NET Core](https://dev.to/kartikmehta8/building-microservices-with-net-core-298d)
 - [First Vertical - log a time period against a user - iPhone app to Supabase - WIP](https://dev.to/timbroome/first-vertical-log-a-time-period-against-a-user-iphone-app-to-superbase-wip-1g2p)
 - [Tech choices and why - WIP](https://dev.to/timbroome/tech-choices-and-why-wip-1h78)
 - [High-level vision, vision board and requirements - WIP](https://dev.to/timbroome/high-level-vision-vision-board-and-requirements-wip-5k9)
-- [🚀Enhancing Your Next.js Starter: Introducing Renovate, SonarCloud, and CodeFactor🚀](https://dev.to/imevanc/enhancing-your-nextjs-starter-introducing-renovate-sonarcloud-and-codefactor-2f4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
