@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌇 China Community Day - An Energetic Tech Hub in Shen Zhen! 🌆](https://dev.to/aws-builders/china-aws-community-day-an-energetic-tech-hub-in-shen-zhen-1hbo)
-- [🌇 中国社区日 - 深圳,充满活力的技术中心! 🌆](https://dev.to/aws-builders/zhong-guo-awsshe-qu-ri-shen-zhen-chong-man-huo-li-de-ji-zhu-zhong-xin--1k30)
-- [Intersection of two LinkedLists](https://dev.to/prashantrmishra/intersection-of-two-linkedlists-15g7)
-- [How to use the Zustand in ReactJS for State Management?](https://dev.to/raynecoder/how-to-use-the-zustand-in-reactjs-for-state-management-1ed5)
-- [Transformando a conciliação contábil com GPT-4o!](https://dev.to/biosbug/transformando-a-conciliacao-contabil-com-gpt-4o-ifk)
+- [What is Go lang? and why would you use it?](https://dev.to/vaibhavt14/what-is-go-lang-and-why-would-you-use-it-1260)
+- [Fix wezterm’s terminfo on arch](https://dev.to/burnskp/fix-wezterms-terminfo-on-arch-1k0a)
+- [Day 8: Advanced React Topics 🚀](https://dev.to/dipakahirav/day-8-advanced-react-topics-2jei)
+- [Odd-even LinkedList](https://dev.to/prashantrmishra/odd-even-linkedlist-16ol)
+- [Code Smell 260 - Crowdstrike NULL](https://dev.to/mcsee/code-smell-260-crowdstrike-null-gh4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
