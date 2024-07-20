@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving Common Issues with Hotwire in Ruby on Rails: Tips and Tricks](https://dev.to/shahzaib/solving-common-issues-with-hotwire-in-ruby-on-rails-tips-and-tricks-5ah5)
-- [What are the eligibility requirements for the state scholarship program?](https://dev.to/william_732a7fb4164dd99c8/what-are-the-eligibility-requirements-for-the-state-scholarship-program-4ado)
-- [Connecting to Your Windows EC2 Instance Using Remote Desktop Connection &lpar;RDC&rpar;](https://dev.to/noorscript/connecting-to-your-windows-ec2-instance-using-remote-desktop-connection-rdc-286e)
-- [Message Delivery System using AWS Step Functions](https://dev.to/brandongautama/message-delivery-system-using-aws-step-functions-jda)
-- [How Forex Rates APIs are Powering the Future of Finance](https://dev.to/sameeranthony/how-forex-rates-apis-are-powering-the-future-of-finance-373p)
+- [Handling Missing Values || Feature Engineering || Machine Learning &lpar;Part1&rpar;](https://dev.to/ngneha09/handling-missing-values-feature-engineering-machine-learning-part1-4h7b)
+- [Fine-tuning LLAMA 3 for Text Classification with Limited Resources](https://dev.to/jkyamog/fine-tuning-llama-3-for-text-classification-with-limited-resources-4i06)
+- [Advanced Techniques for Checking the IP Address of a Website and Detecting Threats](https://dev.to/johnmiller/advanced-techniques-for-checking-the-ip-address-of-a-website-and-detecting-threats-9gi)
+- [My Personal Tips for Learning Software Development in 2024](https://dev.to/saiarlen/my-personal-tips-for-learning-software-development-in-2024-170p)
+- [QML: Focus - Gerenciar e Depurar](https://dev.to/eguinaldo98/qml-focus-gerenciar-e-depurar-4m6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
