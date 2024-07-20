@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Tutorial: Local Component Template Variables with @let](https://dev.to/brianmtreese/angular-tutorial-local-component-template-variables-with-let-2p5i)
-- [Essential Tech Support Practices for Remote Developers](https://dev.to/aaronsmithcs/essential-tech-support-practices-for-remote-developers-3jl6)
-- [cummin&lpar;&rpar; and cummax&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/cummin-and-cummax-in-pytorch-4l8l)
-- [Gorm Pagination With Ease](https://dev.to/sheenazien8/gorm-pagination-with-ease-28m6)
-- [Mastering NumPy Array Mean Calculation](https://dev.to/labex/mastering-numpy-array-mean-calculation-4pig)
+- [Answer: How do I convert from a char array [char; N] to a string slice &amp;str?](https://dev.to/towry/answer-how-do-i-convert-from-a-char-array-char-n-to-a-string-slice-str-1gbh)
+- [Laravel Unit Test Exceptions](https://dev.to/buddhieash/laravel-unit-test-exceptions-4dgc)
+- [Debug and find logical errors in the C program using dev c++ IDE](https://dev.to/madhawaawishka/debug-and-find-logical-errors-in-the-c-program-using-dev-c-ide-38hk)
+- [Vagrant and VMWare Fusion in Mac M1](https://dev.to/theenmanuel23/vagrant-and-vmware-fusion-in-mac-m1-34dd)
+- [Dive into the Fascinating World of Compilers with Cornell University&#39;s Self-Guided Course 🚀](https://dev.to/getvm/dive-into-the-fascinating-world-of-compilers-with-cornell-universitys-self-guided-course-1lc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
