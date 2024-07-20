@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Space Defender - part 1 - setting up the project](https://dev.to/mrlinxed/space-defender-part-1-setting-up-the-project-3hfk)
-- [中国社区日: 王宇 &lpar;AWS解决方案架构师&rpar; 生成式AI](https://dev.to/aws-builders/china-community-day-yu-wong-aws-solution-architect-generative-ai-4fe1)
-- [中国社区日: 王昊文 &lpar;AWS布道师&rpar; 生成式AI](https://dev.to/aws-builders/zhong-guo-she-qu-ri-wang-hao-wen-awsdai-yan-ren-sheng-cheng-shi-ai-2n1e)
-- [中国社区日: 马克·伯奇 &lpar;AWS布道师&rpar; 初创企业](https://dev.to/aws-builders/zhong-guo-she-qu-ri-ma-ke-bo-qi-awsdai-yan-ren-chu-chuang-qi-ye-285)
-- [中国社区日: 郑宇彬 &lpar;AWS布道师&rpar; AWS文化](https://dev.to/aws-builders/zhong-guo-she-qu-ri-zheng-yu-bin-awsdai-yan-ren-awswen-hua-3nj8)
+- [🌇 China Community Day - An Energetic Tech Hub in Shen Zhen! 🌆](https://dev.to/aws-builders/china-aws-community-day-an-energetic-tech-hub-in-shen-zhen-1hbo)
+- [🌇 中国社区日 - 深圳,充满活力的技术中心! 🌆](https://dev.to/aws-builders/zhong-guo-awsshe-qu-ri-shen-zhen-chong-man-huo-li-de-ji-zhu-zhong-xin--1k30)
+- [Intersection of two LinkedLists](https://dev.to/prashantrmishra/intersection-of-two-linkedlists-15g7)
+- [How to use the Zustand in ReactJS for State Management?](https://dev.to/raynecoder/how-to-use-the-zustand-in-reactjs-for-state-management-1ed5)
+- [Transformando a conciliação contábil com GPT-4o!](https://dev.to/biosbug/transformando-a-conciliacao-contabil-com-gpt-4o-ifk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
