@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Developers in the UK: How Much Do They Earn?](https://dev.to/alexzel992/laravel-developers-in-the-uk-how-much-do-they-earn-6bd)
-- [New Age New ASM: Syscall](https://dev.to/yakupcemilk/new-age-new-asm-syscall-3b3a)
-- [Valid Parentheses &lpar;Leetcode 20&rpar;](https://dev.to/rtambunt/valid-parentheses-leetcode-20-3p40)
-- [Shifting Gears for a Better Tour de France User Experience](https://dev.to/majidzeno/shifting-gears-for-a-better-tour-de-france-user-experience-1ome)
-- [Protecting Your Applications: Error Middlewares](https://dev.to/fabrcio_marcondessantos/protecting-your-applications-error-middlewares-5338)
+- [Milvus Adventures July 20, 2024](https://dev.to/chrischurilo/milvus-adventures-july-20-2024-2bpe)
+- [My WordPress Template 2024 made from Vite and TypeScript](https://dev.to/yuichi_nabeshima_canada/my-wordpress-template-2024-made-from-vite-and-typescript-4db8)
+- [Rebuild Hooks in the Nexca](https://dev.to/homayunmmdy/rebuild-hooks-in-the-nexca-bn5)
+- [OpenTelemetry Metrics meets Azure](https://dev.to/kinneko-de/opentelemetry-metrics-meets-azure-3o6o)
+- [What happens when you type google.com in your browser and press Enter](https://dev.to/appsbymuss/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter-4nc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
