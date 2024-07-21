@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sample MFE - Angular Apps with Module Federation](https://dev.to/tomyum/sample-mfe-angular-apps-with-module-federation-4ic)
-- [How to Deploy a Next.js Application on AWS Amplify for Free](https://dev.to/sh20raj/how-to-deploy-a-nextjs-application-on-aws-amplify-for-free-37bj)
-- [Deleting an Element from an Array in JavaScript](https://dev.to/vrajparikh/deleting-an-element-from-an-array-in-javascript-287o)
-- [Advanced State Management - XState](https://dev.to/shagun/advanced-state-management-xstate-lmh)
-- [.NET Core](https://dev.to/rashmi_badatia_64adacde9a/net-core-3h07)
+- [Embracing TON Blockchain: A Journey from Web2 to Web3](https://dev.to/aries4491/embracing-ton-blockchain-a-journey-from-web2-to-web3-jin)
+- [daily code 77 | js fetch practice](https://dev.to/gregor_schafroth/daily-code-77-js-fetch-practice-4ann)
+- [Update Your npm Packages with npm-check](https://dev.to/naicigam28/update-your-npm-packages-with-npm-check-45ii)
+- [Advanced ESP32: Exploring Key Features and Versatile Uses](https://dev.to/jane_white_74334c599bfafa/advanced-esp32-exploring-key-features-and-versatile-uses-301h)
+- [Unleashing the Sentinel&#39;s Might: Mastering Centralized Security with AWS Security Hub – Your Cloud Fortress Guardian](https://dev.to/ikoh_sylva/unleashing-the-sentinels-might-mastering-centralized-security-with-aws-security-hub-your-cloud-fortress-guardian-4p44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
