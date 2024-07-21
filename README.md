@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The Translator Wizard: A Deep Dive into the AI Encoder](https://dev.to/tumyet0/the-translator-wizard-a-deep-dive-into-the-ai-encoder-332j)
+- [Vector image conversion](https://dev.to/yujisue/vector-image-conversion-4b26)
+- [Microsserviços, uma abordagem prática - &lpar;Parte - 1&rpar;](https://dev.to/miltonlima/micros-servicos-por-exemplos-parte-1--8k3)
 - [CSS Grid vs. Flexbox: When to Use Which](https://dev.to/kartikmehta8/css-grid-vs-flexbox-when-to-use-which-4oje)
 - [Java Beans](https://dev.to/diegosilva13/java-beans-53c5)
-- [CrowdStrike vs. DevOps](https://dev.to/andrewtetzeli/crowdstrike-vs-devops-39ie)
-- [[Game of Purpose] Day 62](https://dev.to/humberd/game-of-purpose-day-62-d2n)
-- [Hover Preview: My First VsCode extension to preview on hover [Beta release]](https://dev.to/paul_freeman/hover-preview-my-first-vscode-extension-to-preview-on-hover-beta-release-36hd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
