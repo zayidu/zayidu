@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevSecOps en las pipelines de Terraform](https://dev.to/sjim-bcloudsec/devsecops-en-las-pipelines-de-terraform-11oi)
-- [Essential Guide to React useEffect for Developers](https://dev.to/udoka_emmanuel/essential-guide-to-react-useeffect-for-developers-fml)
-- [Execute Powershell using Docker container](https://dev.to/devesh_omar_b599bc4be3ee7/execute-powershell-using-docker-container-2oh8)
-- [Postura de seguridad cloud-native](https://dev.to/sjim-bcloudsec/postura-de-seguridad-cloud-native-g80)
-- [Decoding MP3: Understanding Key Audio Concepts](https://dev.to/rajasekhar_beemireddy_cb8/decoding-mp3-understanding-key-audio-concepts-21cp)
+- [&quot;From Concept to Code: Building a Reminder App with Python&quot;](https://dev.to/fortune0/from-concept-to-code-building-a-reminder-app-with-python-1ng9)
+- [How To Parse HTML Using Powershell](https://dev.to/arsalanmeee/how-to-parse-html-using-powershell-58ih)
+- [Mastering Helm Charts for Spring Boot: Managing Common Properties](https://dev.to/rajasekhar_beemireddy_cb8/mastering-helm-charts-for-spring-boot-managing-common-properties-3em3)
+- [Roles based authentication using Nextauth and next.js](https://dev.to/arindam_roy_382/roles-based-authentication-using-nextauth-and-nextjs-51h1)
+- [Docker Networking: Port Expose vs. Host Network Mode](https://dev.to/rajasekhar_beemireddy_cb8/docker-networking-port-expose-vs-host-network-mode-m7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
