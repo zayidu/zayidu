@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Deleted a table in production and lost four more table data with ON DELETE CASCADE](https://dev.to/nobu0605/deleted-a-table-in-production-and-lost-four-more-table-data-with-on-delete-cascade-17k9)
+- [Levelling up as Developers](https://dev.to/kervyntjw/levelling-up-as-developers-448n)
+- [The Only Guide You Need to Pass the CKAD &lpar;Certified Kubernetes Application Developer&rpar; Exam](https://dev.to/idsulik/the-only-guide-you-need-to-pass-the-ckad-certified-kubernetes-application-developer-exam-1fb4)
 - [‘hi’ shows it’s colors](https://dev.to/jbobbylopez/hi-shows-its-colors-57f4)
 - [This Language has just Solved Concurrency in your Backend Services.](https://dev.to/jasper-at-windswept/this-language-has-just-solved-concurrency-in-your-backend-services-1043)
-- [Dive into the World of Data Mining with Google&#39;s Comprehensive Course 🚀](https://dev.to/getvm/dive-into-the-world-of-data-mining-with-googles-comprehensive-course-pjn)
-- [Bootstrap 5: New Features and Updates](https://dev.to/tailwine/bootstrap-5-new-features-and-updates-28od)
-- [Happy Birthday message](https://dev.to/bhupesh_singhnitwal_d34c/happy-birthday-message-27e0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
