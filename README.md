@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CRM Features Every Business Should Have](https://dev.to/companionlink-1/crm-features-every-business-should-have-hce)
-- [Do some interesting stuff with console-fun](https://dev.to/akgondber/do-some-interesting-stuff-with-console-fun-3bgd)
-- [When Bad Code Crashes a Billion Windows Computers 🚨](https://dev.to/arjuncodess/when-bad-code-crashes-a-billion-windows-computers-3bii)
-- [Monday is back and So am I](https://dev.to/alex_coder/monday-is-back-and-so-am-i-41m3)
-- [Beginner&#39;s Guide to UML Class Diagrams](https://dev.to/vampirepapi/beginners-guide-to-uml-class-diagrams-2860)
+- [[Game of Purpose] Day 63](https://dev.to/humberd/game-of-purpose-day-63-3hoj)
+- [Why use Angular in 2024](https://dev.to/mashablair/why-use-angular-in-2024-34kh)
+- [How to configure akky email with Digital ocean hosting](https://dev.to/koffer/how-to-configure-akky-email-with-digital-ocean-hosting-456h)
+- [[Rust]Making struct for getting directory path](https://dev.to/nk_maker/rustmaking-struct-for-getting-directory-path-2322)
+- [YAML reference and important concepts.](https://dev.to/morphzg/yaml-reference-and-important-concepts-21p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
