@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 Google Unveils Project IDX, a Game-Changer for App Development 🚨](https://dev.to/sh20raj/google-unveils-project-idx-a-game-changer-for-app-development-51pi)
-- [Windows Authentication login react](https://dev.to/lakshmi_naidu_952e356a392/windows-authentication-login-react-51o7)
-- [String and Trailing comma, get couple and become, Tuple &lpar;&rpar;: A copy &amp; paste mistake to Error and concept](https://dev.to/ajitkumar/string-and-trailing-comma-get-couple-and-become-tuple-a-copy-paste-mistake-to-error-and-concept-3gfl)
-- [Supercharge Your Neovim Workflow with project-cli-commands.nvim](https://dev.to/dimaportenko/supercharge-your-neovim-workflow-with-project-cli-commandsnvim-4o06)
-- [Write custom formulae in Libreoffice Calc with Python](https://dev.to/gokullan/write-custom-formulae-in-libreoffice-calc-with-python-2cm7)
+- [C# Dealing with duplicates](https://dev.to/karenpayneoregon/c-dealing-with-duplicates-28hg)
+- [Practical Implementation of the Observer Pattern: Elegant Update Mechanism in Spring Boot](https://dev.to/bseayin/practical-implementation-of-the-observer-pattern-elegant-update-mechanism-in-spring-boot-2nda)
+- [Mastering Keyboard Shortcuts for Enhanced Productivity](https://dev.to/gokilp_25/mastering-keyboard-shortcuts-for-enhanced-productivity-3eon)
+- [I&#39;m tired of it](https://dev.to/syeo66/im-tired-of-it-5fe2)
+- [Javascript](https://dev.to/dongdiri96/javascript-2jp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
