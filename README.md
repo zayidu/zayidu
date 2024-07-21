@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Dealing with duplicates](https://dev.to/karenpayneoregon/c-dealing-with-duplicates-28hg)
-- [Practical Implementation of the Observer Pattern: Elegant Update Mechanism in Spring Boot](https://dev.to/bseayin/practical-implementation-of-the-observer-pattern-elegant-update-mechanism-in-spring-boot-2nda)
-- [Mastering Keyboard Shortcuts for Enhanced Productivity](https://dev.to/gokilp_25/mastering-keyboard-shortcuts-for-enhanced-productivity-3eon)
-- [I&#39;m tired of it](https://dev.to/syeo66/im-tired-of-it-5fe2)
-- [Javascript](https://dev.to/dongdiri96/javascript-2jp4)
+- [Three Ways to Cause Infinite Loops When Using UseEffect in React and How to Prevent Them](https://dev.to/oyedeletemitope/three-ways-to-cause-infinite-loops-when-using-useeffect-in-react-and-how-to-prevent-them-3ip3)
+- [Day 28 - 90daysofdevops : Jenkins Agents](https://dev.to/oncloud7/day-28-90daysofdevops-jenkins-agents-86b)
+- [Building a RAG application using LangChain and LangSmith](https://dev.to/vigneshm243/building-a-rag-application-using-langchain-and-langsmith-1m59)
+- [AI and the Modern Developer](https://dev.to/dev3l/ai-and-the-modern-developer-mf)
+- [TCP/IP - Under The Hood](https://dev.to/abdulmuminyqn/tcpip-under-the-hood-4o02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
