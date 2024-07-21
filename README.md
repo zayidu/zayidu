@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LLD : N X N Tic Tac Toe with O&lpar;1&rpar; checks](https://dev.to/code0monkey1/lld-n-x-n-tic-tac-toe-with-o1-checks-2ih0)
-- [🌇 China community day: excellent way to build a community with 1000+ members! 🎉](https://dev.to/danc/china-community-day-excellent-way-to-build-a-community-with-1000-members-1igf)
-- [where the world build software](https://dev.to/melaniecreator/where-the-world-build-software-141j)
-- [Deep Dive on Amazon ElastiCache Service as Redis Cluster with Amazon EC2 Instance](https://dev.to/aws-builders/deep-dive-on-amazon-elasticache-service-as-redis-cluster-with-amazon-ec2-instance-1864)
-- [ResourceAllocation.sol | Contracts](https://dev.to/evire/resourceallocationsol-contracts-1jo5)
+- [Sample MFE - Angular Apps with Module Federation](https://dev.to/tomyum/sample-mfe-angular-apps-with-module-federation-4ic)
+- [How to Deploy a Next.js Application on AWS Amplify for Free](https://dev.to/sh20raj/how-to-deploy-a-nextjs-application-on-aws-amplify-for-free-37bj)
+- [Deleting an Element from an Array in JavaScript](https://dev.to/vrajparikh/deleting-an-element-from-an-array-in-javascript-287o)
+- [Advanced State Management - XState](https://dev.to/shagun/advanced-state-management-xstate-lmh)
+- [.NET Core](https://dev.to/rashmi_badatia_64adacde9a/net-core-3h07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
