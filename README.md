@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Length Arrays: A Cornerstone of C# Development](https://dev.to/waelhabbal/zero-length-arrays-a-cornerstone-of-c-development-3bh7)
-- [How To Press Enter Without WebElement In Selenium Python](https://dev.to/lambdatest/how-to-press-enter-without-webelement-in-selenium-python-mn9)
-- [Distributing PostgreSQL on Amazon Elastic Kubernetes](https://dev.to/aws-heroes/distributing-postgresql-on-amazon-elastic-kubernetes-2f5g)
-- [Dev portfolio](https://dev.to/paul_freeman/dev-portfolio-35lc)
-- [Cloud Resume API Challenge with GCP](https://dev.to/instanceofgod/cloud-resume-api-challenge-with-gcp-c1j)
+- [DevSecOps en las pipelines de Terraform](https://dev.to/sjim-bcloudsec/devsecops-en-las-pipelines-de-terraform-11oi)
+- [Essential Guide to React useEffect for Developers](https://dev.to/udoka_emmanuel/essential-guide-to-react-useeffect-for-developers-fml)
+- [Execute Powershell using Docker container](https://dev.to/devesh_omar_b599bc4be3ee7/execute-powershell-using-docker-container-2oh8)
+- [Postura de seguridad cloud-native](https://dev.to/sjim-bcloudsec/postura-de-seguridad-cloud-native-g80)
+- [Decoding MP3: Understanding Key Audio Concepts](https://dev.to/rajasekhar_beemireddy_cb8/decoding-mp3-understanding-key-audio-concepts-21cp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
