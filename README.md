@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Translator Wizard: A Deep Dive into the AI Encoder](https://dev.to/tumyet0/the-translator-wizard-a-deep-dive-into-the-ai-encoder-332j)
-- [Vector image conversion](https://dev.to/yujisue/vector-image-conversion-4b26)
-- [Microsserviços, uma abordagem prática - &lpar;Parte - 1&rpar;](https://dev.to/miltonlima/micros-servicos-por-exemplos-parte-1--8k3)
-- [CSS Grid vs. Flexbox: When to Use Which](https://dev.to/kartikmehta8/css-grid-vs-flexbox-when-to-use-which-4oje)
-- [Java Beans](https://dev.to/diegosilva13/java-beans-53c5)
+- [Create `nan` and `inf` in PyTorch](https://dev.to/hyperkai/create-nan-and-inf-in-pytorch-2dj7)
+- [中国大陆用户解决 Shopify Storefront API 网络问题的详细指南](https://dev.to/longlikun/zhong-guo-da-lu-yong-hu-jie-jue-shopify-storefront-api-wang-luo-wen-ti-de-xiang-xi-zhi-nan-3acp)
+- [The Ultimate Guide to Frontend Development: Best Practices for Building Stellar Websites](https://dev.to/vyan/the-ultimate-frontend-developers-playbook-8-game-changing-practices-for-killer-websites-n1b)
+- [Today&#39;s Trending Projects: Modifying the Teacher Table Using PreparedStatement and More](https://dev.to/labex/todays-trending-projects-modifying-the-teacher-table-using-preparedstatement-and-more-omp)
+- [40 Commonly Asked General Interview Questions and How to Answer Them](https://dev.to/dipakahirav/40-commonly-asked-general-interview-questions-and-how-to-answer-them-56km)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
