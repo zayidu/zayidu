@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[] == ![] || Wtf JavaScript](https://dev.to/sh20raj/-wtf-javascript-4mc9)
-- [Day 19 of 100 Days of Code](https://dev.to/jacobsternx/day-19-of-100-days-of-code-1og)
-- [Which programming languages run faster in the browser?](https://dev.to/vincentdchan/which-programming-languages-run-faster-in-the-browser-1fac)
-- [[python] defaultdict](https://dev.to/blackdead263/python-defaultdict-1ndg)
-- [How to Set Up Microsoft Office on Linux Mint 21.3: A Comprehensive Guide](https://dev.to/ryantehhoonmeng/how-to-set-up-microsoft-office-on-linux-mint-213-a-comprehensive-guide-bco)
+- [Crowdstrike: Who is getting fired?](https://dev.to/scofieldidehen/crowdstrike-who-is-getting-fired-2pd2)
+- [[DAY 81-83] I skipped a course and went straight into learning databases](https://dev.to/thomascansino/day-81-83-i-skipped-a-course-and-went-straight-into-learning-databases-cj1)
+- [The Intersection of Language and Technology: Why It Matters](https://dev.to/thebbiearthur/the-intersection-of-language-and-technology-why-it-matters-1hi5)
+- [Crash and Timeout Simulation](https://dev.to/ibrohhm/crash-and-timeout-simulation-jbp)
+- [Talk with You Series #2](https://dev.to/maxisbusy/talk-with-you-series-2-2n62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
