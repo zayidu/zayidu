@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Ways to Cause Infinite Loops When Using UseEffect in React and How to Prevent Them](https://dev.to/oyedeletemitope/three-ways-to-cause-infinite-loops-when-using-useeffect-in-react-and-how-to-prevent-them-3ip3)
-- [Day 28 - 90daysofdevops : Jenkins Agents](https://dev.to/oncloud7/day-28-90daysofdevops-jenkins-agents-86b)
-- [Building a RAG application using LangChain and LangSmith](https://dev.to/vigneshm243/building-a-rag-application-using-langchain-and-langsmith-1m59)
-- [AI and the Modern Developer](https://dev.to/dev3l/ai-and-the-modern-developer-mf)
-- [TCP/IP - Under The Hood](https://dev.to/abdulmuminyqn/tcpip-under-the-hood-4o02)
+- [Introducing CodeQuill: Your Free, Local Code Snippet Manager](https://dev.to/best_codes/introducing-codequill-your-free-local-code-snippet-manager-5cmf)
+- [Expo51 Jotai Template, ready to use](https://dev.to/undeplus/expo51-jotai-template-ready-to-use-1n75)
+- [博客与周刊 - FAV0周刊008期](https://dev.to/justin3go/bo-ke-yu-zhou-kan-fav0zhou-kan-008qi-3ce7)
+- [40 Days Of Kubernetes &lpar;18/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-1840-1ik)
+- [Blog and Weekly - FAV0 Weekly #008](https://dev.to/justin3go/blog-and-weekly-fav0-weekly-008-36hb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
