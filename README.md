@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;From Concept to Code: Building a Reminder App with Python&quot;](https://dev.to/fortune0/from-concept-to-code-building-a-reminder-app-with-python-1ng9)
-- [How To Parse HTML Using Powershell](https://dev.to/arsalanmeee/how-to-parse-html-using-powershell-58ih)
-- [Mastering Helm Charts for Spring Boot: Managing Common Properties](https://dev.to/rajasekhar_beemireddy_cb8/mastering-helm-charts-for-spring-boot-managing-common-properties-3em3)
-- [Roles based authentication using Nextauth and next.js](https://dev.to/arindam_roy_382/roles-based-authentication-using-nextauth-and-nextjs-51h1)
-- [Docker Networking: Port Expose vs. Host Network Mode](https://dev.to/rajasekhar_beemireddy_cb8/docker-networking-port-expose-vs-host-network-mode-m7k)
+- [What we can learn from the faulty CrowdStrike update](https://dev.to/giovannimazzuoccolo/what-we-can-learn-from-the-faulty-crowdstrike-update-2ie)
+- [How to Build a Machine Learning Model in Rust](https://dev.to/dexterxt/how-to-build-a-machine-learning-model-in-rust-54dd)
+- [Lightning-Fast Code Assistant with Groq in VSCode](https://dev.to/dani_avila7/lightning-fast-code-assistant-with-groq-in-vscode-4eme)
+- [Using C# source code generators to automate development tasks](https://dev.to/alisson_podgurski/using-c-source-code-generators-to-automate-development-tasks-2do5)
+- [📚 Writing Testable Code in React](https://dev.to/marmariadev/writing-testable-code-in-react-jci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
