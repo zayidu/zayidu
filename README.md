@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing CodeQuill: Your Free, Local Code Snippet Manager](https://dev.to/best_codes/introducing-codequill-your-free-local-code-snippet-manager-5cmf)
-- [Expo51 Jotai Template, ready to use](https://dev.to/undeplus/expo51-jotai-template-ready-to-use-1n75)
-- [博客与周刊 - FAV0周刊008期](https://dev.to/justin3go/bo-ke-yu-zhou-kan-fav0zhou-kan-008qi-3ce7)
-- [40 Days Of Kubernetes &lpar;18/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-1840-1ik)
-- [Blog and Weekly - FAV0 Weekly #008](https://dev.to/justin3go/blog-and-weekly-fav0-weekly-008-36hb)
+- [Zero-Length Arrays: A Cornerstone of C# Development](https://dev.to/waelhabbal/zero-length-arrays-a-cornerstone-of-c-development-3bh7)
+- [How To Press Enter Without WebElement In Selenium Python](https://dev.to/lambdatest/how-to-press-enter-without-webelement-in-selenium-python-mn9)
+- [Distributing PostgreSQL on Amazon Elastic Kubernetes](https://dev.to/aws-heroes/distributing-postgresql-on-amazon-elastic-kubernetes-2f5g)
+- [Dev portfolio](https://dev.to/paul_freeman/dev-portfolio-35lc)
+- [Cloud Resume API Challenge with GCP](https://dev.to/instanceofgod/cloud-resume-api-challenge-with-gcp-c1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
