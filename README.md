@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Arte de identificar o Problema Antes de Buscar Soluções](https://dev.to/viquitor/a-arte-de-focar-no-problema-antes-de-buscar-solucoes-dlh)
-- [Data Structure #1 Stack](https://dev.to/elijah57/data-structure-1-stack-31e4)
-- [Hello, World!](https://dev.to/isaacdyor/hello-world-2kk5)
-- [LeetCode Meditations: Palindromic Substrings](https://dev.to/rivea0/leetcode-meditations-palindromic-substrings-21c3)
-- [Multipage Vite Vanilla JavaScript](https://dev.to/mochamadboval/multipage-vite-vanilla-javascript-3i0l)
+- [CSS Grid vs. Flexbox: When to Use Which](https://dev.to/kartikmehta8/css-grid-vs-flexbox-when-to-use-which-4oje)
+- [Java Beans](https://dev.to/diegosilva13/java-beans-53c5)
+- [CrowdStrike vs. DevOps](https://dev.to/andrewtetzeli/crowdstrike-vs-devops-39ie)
+- [[Game of Purpose] Day 62](https://dev.to/humberd/game-of-purpose-day-62-d2n)
+- [Hover Preview: My First VsCode extension to preview on hover [Beta release]](https://dev.to/paul_freeman/hover-preview-my-first-vscode-extension-to-preview-on-hover-beta-release-36hd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
