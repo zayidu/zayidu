@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deleted a table in production and lost four more table data with ON DELETE CASCADE](https://dev.to/nobu0605/deleted-a-table-in-production-and-lost-four-more-table-data-with-on-delete-cascade-17k9)
-- [Levelling up as Developers](https://dev.to/kervyntjw/levelling-up-as-developers-448n)
-- [The Only Guide You Need to Pass the CKAD &lpar;Certified Kubernetes Application Developer&rpar; Exam](https://dev.to/idsulik/the-only-guide-you-need-to-pass-the-ckad-certified-kubernetes-application-developer-exam-1fb4)
-- [‘hi’ shows it’s colors](https://dev.to/jbobbylopez/hi-shows-its-colors-57f4)
-- [This Language has just Solved Concurrency in your Backend Services.](https://dev.to/jasper-at-windswept/this-language-has-just-solved-concurrency-in-your-backend-services-1043)
+- [[python] count words in a text](https://dev.to/blackdead263/python-count-words-in-a-text-3k8d)
+- [Good Commit ✅ vs Bad Commit❎: Commit Message Comparisons🧭](https://dev.to/kamleshsah_33/good-commit-vs-bad-commit-commit-message-comparisons-1ggp)
+- [This weird IFRAME thing wasted my 2 days &lpar;and counting...&rpar;](https://dev.to/vaib215/this-weird-iframe-thing-wasted-my-2-days-and-counting-3aj2)
+- [Enhancing Web APIs with Django REST Framework at EazeAlliance](https://dev.to/eazealliance_services/enhancing-web-apis-with-django-rest-framework-at-eazealliance-pff)
+- [How I Passed my HashiCorp Terraform Certified Asscoiate Exam](https://dev.to/pratik_nalawade/how-i-passed-my-hashicorp-terraform-certified-asscoiate-exam-115g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
