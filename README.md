@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Crowdstrike: Who is getting fired?](https://dev.to/scofieldidehen/crowdstrike-who-is-getting-fired-2pd2)
-- [[DAY 81-83] I skipped a course and went straight into learning databases](https://dev.to/thomascansino/day-81-83-i-skipped-a-course-and-went-straight-into-learning-databases-cj1)
-- [The Intersection of Language and Technology: Why It Matters](https://dev.to/thebbiearthur/the-intersection-of-language-and-technology-why-it-matters-1hi5)
-- [Crash and Timeout Simulation](https://dev.to/ibrohhm/crash-and-timeout-simulation-jbp)
-- [Talk with You Series #2](https://dev.to/maxisbusy/talk-with-you-series-2-2n62)
+- [🌇 中国社区日: 构建拥有1000+成员社区的绝佳方式! 🎉](https://dev.to/danc/zhong-guo-she-qu-ri-gou-jian-yong-you-1000cheng-yuan-de-she-qu-de-jue-jia-fang-shi--2og9)
+- [Squadcast + Auvik Integration: Routing alert made easy](https://dev.to/squadcast/squadcast-auvik-integration-routing-alert-made-easy-2de6)
+- [Ways to load data in DW from External Data Source](https://dev.to/ayush9892/ways-to-load-data-in-dw-from-external-data-source-4e2d)
+- [What are Webhooks and why should developers use them?](https://dev.to/squadcasthq/what-are-webhooks-and-why-should-developers-use-them-h6l)
+- [Enhancing Rust Error Handling: Macro to add Program Flow Trace to your applications](https://dev.to/ietxaniz/enhancing-rust-error-handling-macro-to-add-program-flow-trace-to-your-applications-409)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
