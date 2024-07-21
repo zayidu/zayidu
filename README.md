@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[python] count words in a text](https://dev.to/blackdead263/python-count-words-in-a-text-3k8d)
-- [Good Commit ✅ vs Bad Commit❎: Commit Message Comparisons🧭](https://dev.to/kamleshsah_33/good-commit-vs-bad-commit-commit-message-comparisons-1ggp)
-- [This weird IFRAME thing wasted my 2 days &lpar;and counting...&rpar;](https://dev.to/vaib215/this-weird-iframe-thing-wasted-my-2-days-and-counting-3aj2)
-- [Enhancing Web APIs with Django REST Framework at EazeAlliance](https://dev.to/eazealliance_services/enhancing-web-apis-with-django-rest-framework-at-eazealliance-pff)
-- [How I Passed my HashiCorp Terraform Certified Asscoiate Exam](https://dev.to/pratik_nalawade/how-i-passed-my-hashicorp-terraform-certified-asscoiate-exam-115g)
+- [[] == ![] || Wtf JavaScript](https://dev.to/sh20raj/-wtf-javascript-4mc9)
+- [Day 19 of 100 Days of Code](https://dev.to/jacobsternx/day-19-of-100-days-of-code-1og)
+- [Which programming languages run faster in the browser?](https://dev.to/vincentdchan/which-programming-languages-run-faster-in-the-browser-1fac)
+- [[python] defaultdict](https://dev.to/blackdead263/python-defaultdict-1ndg)
+- [How to Set Up Microsoft Office on Linux Mint 21.3: A Comprehensive Guide](https://dev.to/ryantehhoonmeng/how-to-set-up-microsoft-office-on-linux-mint-213-a-comprehensive-guide-bco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
