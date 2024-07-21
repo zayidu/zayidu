@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What we can learn from the faulty CrowdStrike update](https://dev.to/giovannimazzuoccolo/what-we-can-learn-from-the-faulty-crowdstrike-update-2ie)
-- [How to Build a Machine Learning Model in Rust](https://dev.to/dexterxt/how-to-build-a-machine-learning-model-in-rust-54dd)
-- [Lightning-Fast Code Assistant with Groq in VSCode](https://dev.to/dani_avila7/lightning-fast-code-assistant-with-groq-in-vscode-4eme)
-- [Using C# source code generators to automate development tasks](https://dev.to/alisson_podgurski/using-c-source-code-generators-to-automate-development-tasks-2do5)
-- [📚 Writing Testable Code in React](https://dev.to/marmariadev/writing-testable-code-in-react-jci)
+- [CRM Features Every Business Should Have](https://dev.to/companionlink-1/crm-features-every-business-should-have-hce)
+- [Do some interesting stuff with console-fun](https://dev.to/akgondber/do-some-interesting-stuff-with-console-fun-3bgd)
+- [When Bad Code Crashes a Billion Windows Computers 🚨](https://dev.to/arjuncodess/when-bad-code-crashes-a-billion-windows-computers-3bii)
+- [Monday is back and So am I](https://dev.to/alex_coder/monday-is-back-and-so-am-i-41m3)
+- [Beginner&#39;s Guide to UML Class Diagrams](https://dev.to/vampirepapi/beginners-guide-to-uml-class-diagrams-2860)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
