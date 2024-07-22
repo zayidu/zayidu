@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I 10x’d my Coding Productivity Using this AI Tool: I wish I had known it Earlier 🤯](https://dev.to/github20k/i-10xd-my-coding-productivity-using-this-ai-tool-i-wish-i-had-known-it-earlier-2eoo)
-- [How to stream data over HTTP using Java Servlet and Fetch API](https://dev.to/bsorrentino/how-to-stream-data-over-http-using-java-servlet-and-fetch-api-4gcn)
-- [Hello DEVs, any advices for a beginner for industry best-practices &#39;full-stack&#39; journey!](https://dev.to/vasanth_chandran/hello-devs-any-advices-for-a-beginner-for-industry-best-practices-full-stack-journey-524b)
-- [Becoming a Professional ChromeOS Administrator](https://dev.to/tobidelly/becoming-a-professional-chromeos-administrator-4dkl)
-- [CSV Schema Validation](https://dev.to/davidayres/csv-schema-validation-1p23)
+- [ECS service-to-service communication](https://dev.to/aws-builders/ecs-service-to-service-communication-4clk)
+- [Integrating Governance, Processes, People, and Technology with Cloud-Native Application Protection Platforms &lpar;CNAPP&rpar;](https://dev.to/seccodingguy/integrating-governance-processes-people-and-technology-with-cloud-native-application-protection-platforms-cnapp-39ja)
+- [Migrating from Google&#39;s reCAPTCHA to Cloudflare Turnstile?](https://dev.to/frenchcooc/migrating-from-googles-recaptcha-to-cloudflare-turnstile-17lf)
+- [Sort the given LinkedList](https://dev.to/prashantrmishra/sort-the-given-linkedlist-2ja2)
+- [Create a slide show presentation with React Flow](https://dev.to/xyflow/create-a-slide-show-presentation-with-react-flow-1e3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
