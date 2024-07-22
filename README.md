@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Game of Purpose] Day 63](https://dev.to/humberd/game-of-purpose-day-63-3hoj)
-- [Why use Angular in 2024](https://dev.to/mashablair/why-use-angular-in-2024-34kh)
-- [How to configure akky email with Digital ocean hosting](https://dev.to/koffer/how-to-configure-akky-email-with-digital-ocean-hosting-456h)
-- [[Rust]Making struct for getting directory path](https://dev.to/nk_maker/rustmaking-struct-for-getting-directory-path-2322)
-- [YAML reference and important concepts.](https://dev.to/morphzg/yaml-reference-and-important-concepts-21p9)
+- [Writing Efficient Python Code](https://dev.to/kartikmehta8/writing-efficient-python-code-582a)
+- [Dive into the World of Machine Learning with GetVM&#39;s Free Tutorials](https://dev.to/getvm/dive-into-the-world-of-machine-learning-with-getvms-free-tutorials-4anh)
+- [My first experience as a Tech Lead](https://dev.to/sampseiol1/my-first-experience-as-a-tech-lead-5g28)
+- [Effective Tests](https://dev.to/roubertedgar/effective-tests-30h0)
+- [How I built a custom image file uploader](https://dev.to/bolajibolajoko51/how-i-built-a-custom-image-file-uploader-5aje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
