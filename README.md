@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Simple OpenAI Chatbot](https://dev.to/vietjovi/a-simple-openai-chatbot-5ap)
-- [Level up your env var tooling in Next.js with DMNO](https://dev.to/theoephraim/level-up-your-env-var-tooling-in-nextjs-with-dmno-2d43)
-- [Understanding Range Requests: Partial Downloads vs. Full Downloads in Media Players](https://dev.to/rajasekhar_beemireddy_cb8/understanding-range-requests-partial-downloads-vs-full-downloads-in-media-players-4661)
-- [What is software testing?](https://dev.to/imranc07/what-is-software-testing-33)
-- [A dive into Jenkins Configuration as Code &lpar;JCasC&rpar;](https://dev.to/selmaguedidi/a-dive-into-jenkins-configuration-as-code-jcasc-4dj0)
+- [How to Build a Chatbot with Next.js, TailwindCSS, and OpenAI Chat Completion API - Full Tutorial](https://dev.to/abetavarez/how-to-build-a-chatbot-with-nextjs-tailwindcss-and-openai-chat-completion-api-full-tutorial-4ee1)
+- [Modern CSS hamburger using :has&lpar;&rpar;](https://dev.to/charlesloder/modern-css-hamburger-using-has-2ijc)
+- [Enhancing Manila UI: Adding Metadata Support to Share Snapshot Creation and Editing](https://dev.to/ccokeke/enhancing-manila-ui-adding-metadata-support-to-share-snapshot-creation-and-editing-3m6e)
+- [How I Turned Feedback into Fuel: A Solopreneur’s Journey](https://dev.to/antoniodipinto/how-i-turned-feedback-into-fuel-a-solopreneurs-journey-4kpg)
+- [Exploring Java Agent Programming](https://dev.to/adaumircosta/exploring-java-agent-programming-o77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
