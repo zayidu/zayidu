@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Efficient Python Code](https://dev.to/kartikmehta8/writing-efficient-python-code-582a)
-- [Dive into the World of Machine Learning with GetVM&#39;s Free Tutorials](https://dev.to/getvm/dive-into-the-world-of-machine-learning-with-getvms-free-tutorials-4anh)
-- [My first experience as a Tech Lead](https://dev.to/sampseiol1/my-first-experience-as-a-tech-lead-5g28)
-- [Effective Tests](https://dev.to/roubertedgar/effective-tests-30h0)
-- [How I built a custom image file uploader](https://dev.to/bolajibolajoko51/how-i-built-a-custom-image-file-uploader-5aje)
+- [How to calculate time and space complexity? &lpar;DSA - 2&rpar;](https://dev.to/madgan95/how-to-calculate-time-and-space-complexity-dsa-2-2jd1)
+- [Today&#39;s Trending Projects: Real-Time Sales Dashboard with Echarts and More](https://dev.to/labex/todays-trending-projects-real-time-sales-dashboard-with-echarts-and-more-432f)
+- [NESTOI Powerful nodejs library](https://dev.to/noeurnneang/nestoi-powerful-nodejs-library-37fn)
+- [How to Build a Web App In 6 Steps](https://dev.to/domfive/how-to-build-a-web-app-in-6-steps-nip)
+- [Arithmetic operations with `nan` and `inf` in PyTorch](https://dev.to/hyperkai/arithmetic-operations-with-nan-and-inf-in-pytorch-2k8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
