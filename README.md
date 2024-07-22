@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Content Moderation using AI](https://dev.to/swarnimsawane/content-moderation-using-ai-5694)
-- [Meme Monday](https://dev.to/ben/meme-monday-2p6h)
-- [Learn How to Use JavaScript&#39;s `.filter&lpar;&rpar;` Method Effectively](https://dev.to/hkp22/learn-how-to-use-javascripts-filter-method-effectively-l0n)
-- [Advanced Data Wrangling Techniques in Python and R](https://dev.to/pangaea_x/advanced-data-wrangling-techniques-in-python-and-r-4j78)
-- [IS Django Dying?](https://dev.to/krishnaa192/is-django-dying-1d7b)
+- [Something special](https://dev.to/kartik_gaur_41c2a409d626d/something-special-249b)
+- [DevOps Fun #2: how long command will sleep?](https://dev.to/devopspass-ai/devops-fun-2-how-long-command-will-sleep-4cd7)
+- [Improving the Speed of Software Delivery from Development to End Users](https://dev.to/pipscript/improving-the-speed-of-software-delivery-from-development-to-end-users-11n4)
+- [Working with Date in Javascript: new Date&lpar;&rpar; vs Day.js vs Moment.js](https://dev.to/syakirurahman/working-with-date-in-javascript-new-date-vs-dayjs-vs-momentjs-k01)
+- [redux的使用](https://dev.to/dennischeung/reduxde-shi-yong-345n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
