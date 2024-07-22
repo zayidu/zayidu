@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 29 - Jenkins Important interview Questions.](https://dev.to/oncloud7/day-29-jenkins-important-interview-questions-3hkl)
-- [Alpine.js: A quick Intro of Vue to the DOM](https://dev.to/trinitymace/alpinejs-a-quick-intro-of-vue-to-the-dom-44p2)
-- [AI SaaS Landing page](https://dev.to/paul_freeman/ai-saas-landing-page-499c)
-- [Local First HTMX pt1](https://dev.to/elijah_m_e515ebd6b90c78d1/local-first-htmx-pt1-109p)
-- [Preventing Spammers in Laravel: Using rahulalam31/laravel-abuse-ip Package](https://dev.to/rahulalam31/preventing-spammers-in-laravel-using-rahulalam31laravel-abuse-ip-package-j0l)
+- [Design System no Flutter](https://dev.to/redrodrigoc/design-system-no-flutter-4d53)
+- [Discover the Magic of SearXNG Service and Empower Your Search Engine API](https://dev.to/zand/discover-the-magic-of-searxng-service-and-empower-your-search-engine-api-87l)
+- [Biden Step-Down: Effect on the Tech Eco-system](https://dev.to/scofieldidehen/biden-step-down-effect-on-the-tech-eco-system-37ip)
+- [WPDoods: Easily Integrate WordPress and Doodstream](https://dev.to/zerobytecode/wpdoods-easily-integrate-wordpress-and-doodstream-3c0g)
+- [Mastering JavaScript: The &quot;JavaScript Practice Challenges&quot; Course](https://dev.to/labex/mastering-javascript-the-javascript-practice-challenges-course-211n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
