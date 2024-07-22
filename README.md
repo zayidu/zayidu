@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [To the New Developers Looking for a Mentor, Here are 8 Free Lessons](https://dev.to/canro91/to-the-new-developers-looking-for-a-mentor-here-are-8-free-lessons-595l)
-- [transform[stderr]: [BABEL] Note: The code generator has deoptimised](https://dev.to/aspsptyd/transformstderr-babel-note-the-code-generator-has-deoptimised-11ba)
-- [Dive into Database Systems with CMU&#39;s Comprehensive Course 🌐](https://dev.to/getvm/dive-into-database-systems-with-cmus-comprehensive-course-1e9e)
-- [Case Study: Energy company Turcomp, empowers agile and secure development with NocoBase](https://dev.to/nocobase/case-study-energy-company-turcomp-empowers-agile-and-secure-development-with-nocobase-b9b)
-- [Leveraging AI for Automated Documentation Generation](https://dev.to/nd_18b1e31aad9b7eca9e465a/leveraging-ai-for-automated-documentation-generation-4i64)
+- [UPLOAD IMAGES, VIDEOS, AND AUDIO IN REACT JS USING CLOUDINARY.](https://dev.to/shieldstring/upload-images-videos-and-audio-in-react-js-using-cloudinary-3ji)
+- [Implementing Traffic Shadowing and Dark Launch in Modern API Gateways](https://dev.to/getambassador2024/implementing-traffic-shadowing-and-dark-launch-in-modern-api-gateways-2fea)
+- [Creating Base Docker Images](https://dev.to/kalkwst/creating-base-docker-images-5ao3)
+- [How to Start a Developer Community From Scratch &lpar;Even on a Shoestring Budget&rpar;](https://dev.to/rakeshdoc-e/how-to-start-a-developer-community-from-scratch-even-on-a-shoestring-budget-5bhd)
+- [Networking concepts for devops](https://dev.to/pratik_nalawade/networking-concepts-for-devops-1bp9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
