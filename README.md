@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to calculate time and space complexity? &lpar;DSA - 2&rpar;](https://dev.to/madgan95/how-to-calculate-time-and-space-complexity-dsa-2-2jd1)
-- [Today&#39;s Trending Projects: Real-Time Sales Dashboard with Echarts and More](https://dev.to/labex/todays-trending-projects-real-time-sales-dashboard-with-echarts-and-more-432f)
-- [NESTOI Powerful nodejs library](https://dev.to/noeurnneang/nestoi-powerful-nodejs-library-37fn)
-- [How to Build a Web App In 6 Steps](https://dev.to/domfive/how-to-build-a-web-app-in-6-steps-nip)
-- [Arithmetic operations with `nan` and `inf` in PyTorch](https://dev.to/hyperkai/arithmetic-operations-with-nan-and-inf-in-pytorch-2k8j)
+- [Planning out the 2024 &quot;State of…&quot; Surveys](https://dev.to/sachagreif/planning-out-the-2024-state-of-surveys-4lb9)
+- [Announcing GPT-4o Mini: OpenAI’s Most Cost-Efficient Small Model](https://dev.to/soorajsuresh/announcing-gpt-4o-mini-openais-most-cost-efficient-small-model-2j9m)
+- [Level up your Karate Testing with Spring Boot DI](https://dev.to/tdpero0516/level-up-your-karate-testing-with-spring-boot-di-42em)
+- [Understanding NestJS Middleware](https://dev.to/nehi_rugue/understanding-nestjs-middleware-3094)
+- [Dev na Gringa: contratação, impostos, hardware e começando do zero.](https://dev.to/lucasheriques/dev-na-gringa-contratacao-impostos-hardware-e-comecando-do-zero-1lgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
