@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I made my own chatbot using RAG](https://dev.to/atharvpatwardhan/how-i-made-my-own-chatbot-using-rag-3jhf)
-- [Security in Focus: Authentication in .NET](https://dev.to/fabrcio_marcondessantos/security-in-focus-authentication-in-net-16a7)
-- [Go Mastery: Advanced Structs and Interfaces](https://dev.to/rowjay007/go-mastery-advanced-structs-and-interfaces-kc)
-- [Building a REST API with Spring Boot: A Step-by-Step Guide](https://dev.to/mohamed_manbar/building-a-rest-api-with-spring-boot-a-step-by-step-guide-1a7p)
-- [Practice your english by what-is-word-cli console game](https://dev.to/akgondber/practice-your-english-by-little-terminal-game-g0n)
+- [SURPRISE 2024!, Web-Forms Back to ASP.NET Core](https://dev.to/elanatframework/surprise-2024-web-forms-back-to-aspnet-core-j1h)
+- [Realtime log streaming in Go](https://dev.to/gatij/realtime-log-streaming-in-go-4530)
+- [Issue 54 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-54-of-aws-cloud-security-weekly-24pg)
+- [[Rust]get file name](https://dev.to/nk_maker/rustget-file-name-3pka)
+- [JavaScript30 - 10 Hold Shift to Check Multiple Checkboxes!](https://dev.to/virtualsobriety/javascript30-10-hold-shift-to-check-multiple-checkboxes-4ln5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
