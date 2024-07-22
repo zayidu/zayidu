@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrent and Parallel Programming in Python &lpar;course&rpar;](https://dev.to/apetryla/concurrent-and-parallel-programming-in-python-course-3oaa)
-- [Performance Testing for E-commerce Websites: A Comprehensive Guide](https://dev.to/testscenario/performance-testing-for-e-commerce-websites-a-comprehensive-guide-332)
-- [Personal Finance Tracker: Manage Your Income and Expenses Efficiently](https://dev.to/vinkalprajapati/personal-finance-tracker-manage-your-income-and-expenses-efficiently-i93)
-- [GBase 8s Database HAC Cluster Switch and Recovery Operations](https://dev.to/congcong/gbase-8s-database-hac-cluster-switch-and-recovery-operations-j7c)
-- [Java &amp; Spring Best Practices | Dependency Injection](https://dev.to/agitrubard/java-spring-best-practices-dependency-injection-58ac)
+- [Postmark + Squadcast Integration: Simplifying Alert Routing](https://dev.to/squadcast/postmark-squadcast-integration-simplifying-alert-routing-4h8n)
+- [First post!](https://dev.to/ugankhuyag/first-post-3mp8)
+- [Exploring DN404: An Innovative NFT Standard](https://dev.to/nft_research/exploring-dn404-an-innovative-nft-standard-47bi)
+- [Runtime Log Level Change using Golang &amp; GoFr](https://dev.to/aryanmehrotra/remote-runtime-log-level-change-using-golang-gofr-54d8)
+- [A Importância da Indireção em Arquiteturas de Software](https://dev.to/asouza/a-importancia-da-indirecao-em-arquiteturas-de-software-493b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
