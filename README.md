@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Planning out the 2024 &quot;State of…&quot; Surveys](https://dev.to/sachagreif/planning-out-the-2024-state-of-surveys-4lb9)
-- [Announcing GPT-4o Mini: OpenAI’s Most Cost-Efficient Small Model](https://dev.to/soorajsuresh/announcing-gpt-4o-mini-openais-most-cost-efficient-small-model-2j9m)
-- [Level up your Karate Testing with Spring Boot DI](https://dev.to/tdpero0516/level-up-your-karate-testing-with-spring-boot-di-42em)
-- [Understanding NestJS Middleware](https://dev.to/nehi_rugue/understanding-nestjs-middleware-3094)
-- [Dev na Gringa: contratação, impostos, hardware e começando do zero.](https://dev.to/lucasheriques/dev-na-gringa-contratacao-impostos-hardware-e-comecando-do-zero-1lgm)
+- [#30 — Align Rows of Data To A Specified Column](https://dev.to/judith677/30-align-rows-of-data-to-a-specified-column-1pne)
+- [Llama Guard, AAAL Pt.3](https://dev.to/tunehqai/llama-guard-aaal-pt3-530o)
+- [Preventing Multiple Processing of SQS Messages](https://dev.to/joaomarques/preventing-multiple-processing-of-sqs-messages-3i9)
+- [Python Matplotlib | Triangular Grid Interpolation](https://dev.to/labex/python-matplotlib-triangular-grid-interpolation-5cng)
+- [Publishing Amplitude Events in Your React Application](https://dev.to/rajasekhar_beemireddy_cb8/publishing-amplitude-events-in-your-react-application-43j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
