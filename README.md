@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ECS service-to-service communication](https://dev.to/aws-builders/ecs-service-to-service-communication-4clk)
-- [Integrating Governance, Processes, People, and Technology with Cloud-Native Application Protection Platforms &lpar;CNAPP&rpar;](https://dev.to/seccodingguy/integrating-governance-processes-people-and-technology-with-cloud-native-application-protection-platforms-cnapp-39ja)
-- [Migrating from Google&#39;s reCAPTCHA to Cloudflare Turnstile?](https://dev.to/frenchcooc/migrating-from-googles-recaptcha-to-cloudflare-turnstile-17lf)
-- [Sort the given LinkedList](https://dev.to/prashantrmishra/sort-the-given-linkedlist-2ja2)
-- [Create a slide show presentation with React Flow](https://dev.to/xyflow/create-a-slide-show-presentation-with-react-flow-1e3c)
+- [Day 29 - Jenkins Important interview Questions.](https://dev.to/oncloud7/day-29-jenkins-important-interview-questions-3hkl)
+- [Alpine.js: A quick Intro of Vue to the DOM](https://dev.to/trinitymace/alpinejs-a-quick-intro-of-vue-to-the-dom-44p2)
+- [AI SaaS Landing page](https://dev.to/paul_freeman/ai-saas-landing-page-499c)
+- [Local First HTMX pt1](https://dev.to/elijah_m_e515ebd6b90c78d1/local-first-htmx-pt1-109p)
+- [Preventing Spammers in Laravel: Using rahulalam31/laravel-abuse-ip Package](https://dev.to/rahulalam31/preventing-spammers-in-laravel-using-rahulalam31laravel-abuse-ip-package-j0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
