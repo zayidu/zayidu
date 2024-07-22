@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Something special](https://dev.to/kartik_gaur_41c2a409d626d/something-special-249b)
-- [DevOps Fun #2: how long command will sleep?](https://dev.to/devopspass-ai/devops-fun-2-how-long-command-will-sleep-4cd7)
-- [Improving the Speed of Software Delivery from Development to End Users](https://dev.to/pipscript/improving-the-speed-of-software-delivery-from-development-to-end-users-11n4)
-- [Working with Date in Javascript: new Date&lpar;&rpar; vs Day.js vs Moment.js](https://dev.to/syakirurahman/working-with-date-in-javascript-new-date-vs-dayjs-vs-momentjs-k01)
-- [redux的使用](https://dev.to/dennischeung/reduxde-shi-yong-345n)
+- [Docs as Code: The Best Guide for Technical Writers](https://dev.to/dumebii/docs-as-code-the-best-guide-for-technical-writers-97c)
+- [Kickstarting My Python Journey: Seeking Guidance and Mentorship](https://dev.to/alhassan_mayei_c7ad24217f/kickstarting-my-python-journey-seeking-guidance-and-mentorship-5bnj)
+- [From Lab to Code: My Journey with Develop Carolina](https://dev.to/snmeans/from-lab-to-code-my-journey-with-develop-carolina-1f41)
+- [Fixing ko local image publishing on MacOs](https://dev.to/antweiss/fixing-ko-local-image-publishing-on-macos-2p0d)
+- [Understanding Idempotent Operations: A Deep Dive](https://dev.to/keploy/understanding-idempotent-operations-a-deep-dive-4322)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
