@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rename macOS Devices with JAMF API Tokens](https://dev.to/blacknight318/rename-macos-devices-with-jamf-api-tokens-32ac)
-- [20 Super Useful CSS Animation Libraries](https://dev.to/hosseinyazdi/20-super-useful-css-animation-libraries-59pc)
-- [Enhancing Security in ASP.NET Core APIs with Content Security Policy &lpar;CSP&rpar;](https://dev.to/samira_talebi_cca34ce28b8/enhancing-security-in-aspnet-core-apis-with-content-security-policy-csp-1l70)
-- [Generative AI in Code Generation](https://dev.to/ai-horizon/generative-ai-in-code-generation-2mmk)
-- [Navigating the World of API Testing: A Comparative Guide to Postman and SoapUI](https://dev.to/sattyam/navigating-the-world-of-api-testing-a-comparative-guide-to-postman-and-soapui-5c6d)
+- [Protect Your Web Application: A Tutorial Guide to Using SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/protect-your-web-application-a-tutorial-guide-to-using-safeline-waf-jjn)
+- [Deep Dive into PandApache3: Implementation d&#39;authentification et de la securité](https://dev.to/pykpyky/deep-dive-into-pandapache3-implementation-dauthentification-et-de-la-securite-462n)
+- [How to GET HTML from API and Display In DOM using HMPL.js &lpar;fetch&rpar;?](https://dev.to/antonmak1/how-to-get-html-from-api-and-display-in-dom-using-hmpljs-fetch-1ipe)
+- [A Comprehensive Python Framework for Web Development by Eazealliance](https://dev.to/eazealliance_services/a-comprehensive-python-framework-for-web-development-by-eazealliance-2b19)
+- [getByRole 的用法](https://dev.to/dennischeung/getbyrole-de-yong-fa-3ba9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
