@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Chatbot with Next.js, TailwindCSS, and OpenAI Chat Completion API - Full Tutorial](https://dev.to/abetavarez/how-to-build-a-chatbot-with-nextjs-tailwindcss-and-openai-chat-completion-api-full-tutorial-4ee1)
-- [Modern CSS hamburger using :has&lpar;&rpar;](https://dev.to/charlesloder/modern-css-hamburger-using-has-2ijc)
-- [Enhancing Manila UI: Adding Metadata Support to Share Snapshot Creation and Editing](https://dev.to/ccokeke/enhancing-manila-ui-adding-metadata-support-to-share-snapshot-creation-and-editing-3m6e)
-- [How I Turned Feedback into Fuel: A Solopreneur’s Journey](https://dev.to/antoniodipinto/how-i-turned-feedback-into-fuel-a-solopreneurs-journey-4kpg)
-- [Exploring Java Agent Programming](https://dev.to/adaumircosta/exploring-java-agent-programming-o77)
+- [How I made my own chatbot using RAG](https://dev.to/atharvpatwardhan/how-i-made-my-own-chatbot-using-rag-3jhf)
+- [Security in Focus: Authentication in .NET](https://dev.to/fabrcio_marcondessantos/security-in-focus-authentication-in-net-16a7)
+- [Go Mastery: Advanced Structs and Interfaces](https://dev.to/rowjay007/go-mastery-advanced-structs-and-interfaces-kc)
+- [Building a REST API with Spring Boot: A Step-by-Step Guide](https://dev.to/mohamed_manbar/building-a-rest-api-with-spring-boot-a-step-by-step-guide-1a7p)
+- [Practice your english by what-is-word-cli console game](https://dev.to/akgondber/practice-your-english-by-little-terminal-game-g0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
