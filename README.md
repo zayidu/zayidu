@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [UPLOAD IMAGES, VIDEOS, AND AUDIO IN REACT JS USING CLOUDINARY.](https://dev.to/shieldstring/upload-images-videos-and-audio-in-react-js-using-cloudinary-3ji)
-- [Implementing Traffic Shadowing and Dark Launch in Modern API Gateways](https://dev.to/getambassador2024/implementing-traffic-shadowing-and-dark-launch-in-modern-api-gateways-2fea)
-- [Creating Base Docker Images](https://dev.to/kalkwst/creating-base-docker-images-5ao3)
-- [How to Start a Developer Community From Scratch &lpar;Even on a Shoestring Budget&rpar;](https://dev.to/rakeshdoc-e/how-to-start-a-developer-community-from-scratch-even-on-a-shoestring-budget-5bhd)
-- [Networking concepts for devops](https://dev.to/pratik_nalawade/networking-concepts-for-devops-1bp9)
+- [Concurrent and Parallel Programming in Python &lpar;course&rpar;](https://dev.to/apetryla/concurrent-and-parallel-programming-in-python-course-3oaa)
+- [Performance Testing for E-commerce Websites: A Comprehensive Guide](https://dev.to/testscenario/performance-testing-for-e-commerce-websites-a-comprehensive-guide-332)
+- [Personal Finance Tracker: Manage Your Income and Expenses Efficiently](https://dev.to/vinkalprajapati/personal-finance-tracker-manage-your-income-and-expenses-efficiently-i93)
+- [GBase 8s Database HAC Cluster Switch and Recovery Operations](https://dev.to/congcong/gbase-8s-database-hac-cluster-switch-and-recovery-operations-j7c)
+- [Java &amp; Spring Best Practices | Dependency Injection](https://dev.to/agitrubard/java-spring-best-practices-dependency-injection-58ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
