@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The JavaScript Array Methods for Kids!](https://dev.to/sh20raj/the-javascript-array-methods-for-kids-3b8e)
-- [JavaScript Array Methods: `forEach`, `map`, `filter`, and `reduce`](https://dev.to/sh20raj/javascript-array-methods-foreach-map-filter-and-reduce-2bh7)
-- [SDLC - Waterfall Model](https://dev.to/sandeepsangu/sdlc-waterfall-model-ibc)
-- [Graph Database Use Cases](https://dev.to/nim12/graph-database-use-cases-3pfg)
-- [Introducing SkillScore: A New Way to Match Talents with Companies—Seeking Feedback from Freelancers, Employees, and Employers!](https://dev.to/alexfriedl/introducing-skillscore-a-new-way-to-match-talents-with-companies-seeking-feedback-from-freelancers-employees-and-employers-320e)
+- [Rename macOS Devices with JAMF API Tokens](https://dev.to/blacknight318/rename-macos-devices-with-jamf-api-tokens-32ac)
+- [20 Super Useful CSS Animation Libraries](https://dev.to/hosseinyazdi/20-super-useful-css-animation-libraries-59pc)
+- [Enhancing Security in ASP.NET Core APIs with Content Security Policy &lpar;CSP&rpar;](https://dev.to/samira_talebi_cca34ce28b8/enhancing-security-in-aspnet-core-apis-with-content-security-policy-csp-1l70)
+- [Generative AI in Code Generation](https://dev.to/ai-horizon/generative-ai-in-code-generation-2mmk)
+- [Navigating the World of API Testing: A Comparative Guide to Postman and SoapUI](https://dev.to/sattyam/navigating-the-world-of-api-testing-a-comparative-guide-to-postman-and-soapui-5c6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
