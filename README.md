@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docs as Code: The Best Guide for Technical Writers](https://dev.to/dumebii/docs-as-code-the-best-guide-for-technical-writers-97c)
-- [Kickstarting My Python Journey: Seeking Guidance and Mentorship](https://dev.to/alhassan_mayei_c7ad24217f/kickstarting-my-python-journey-seeking-guidance-and-mentorship-5bnj)
-- [From Lab to Code: My Journey with Develop Carolina](https://dev.to/snmeans/from-lab-to-code-my-journey-with-develop-carolina-1f41)
-- [Fixing ko local image publishing on MacOs](https://dev.to/antweiss/fixing-ko-local-image-publishing-on-macos-2p0d)
-- [Understanding Idempotent Operations: A Deep Dive](https://dev.to/keploy/understanding-idempotent-operations-a-deep-dive-4322)
+- [I 10x’d my Coding Productivity Using this AI Tool: I wish I had known it Earlier 🤯](https://dev.to/github20k/i-10xd-my-coding-productivity-using-this-ai-tool-i-wish-i-had-known-it-earlier-2eoo)
+- [How to stream data over HTTP using Java Servlet and Fetch API](https://dev.to/bsorrentino/how-to-stream-data-over-http-using-java-servlet-and-fetch-api-4gcn)
+- [Hello DEVs, any advices for a beginner for industry best-practices &#39;full-stack&#39; journey!](https://dev.to/vasanth_chandran/hello-devs-any-advices-for-a-beginner-for-industry-best-practices-full-stack-journey-524b)
+- [Becoming a Professional ChromeOS Administrator](https://dev.to/tobidelly/becoming-a-professional-chromeos-administrator-4dkl)
+- [CSV Schema Validation](https://dev.to/davidayres/csv-schema-validation-1p23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
