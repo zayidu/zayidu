@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Protect Your Web Application: A Tutorial Guide to Using SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/protect-your-web-application-a-tutorial-guide-to-using-safeline-waf-jjn)
-- [Deep Dive into PandApache3: Implementation d&#39;authentification et de la securité](https://dev.to/pykpyky/deep-dive-into-pandapache3-implementation-dauthentification-et-de-la-securite-462n)
-- [How to GET HTML from API and Display In DOM using HMPL.js &lpar;fetch&rpar;?](https://dev.to/antonmak1/how-to-get-html-from-api-and-display-in-dom-using-hmpljs-fetch-1ipe)
-- [A Comprehensive Python Framework for Web Development by Eazealliance](https://dev.to/eazealliance_services/a-comprehensive-python-framework-for-web-development-by-eazealliance-2b19)
-- [getByRole 的用法](https://dev.to/dennischeung/getbyrole-de-yong-fa-3ba9)
+- [Content Moderation using AI](https://dev.to/swarnimsawane/content-moderation-using-ai-5694)
+- [Meme Monday](https://dev.to/ben/meme-monday-2p6h)
+- [Learn How to Use JavaScript&#39;s `.filter&lpar;&rpar;` Method Effectively](https://dev.to/hkp22/learn-how-to-use-javascripts-filter-method-effectively-l0n)
+- [Advanced Data Wrangling Techniques in Python and R](https://dev.to/pangaea_x/advanced-data-wrangling-techniques-in-python-and-r-4j78)
+- [IS Django Dying?](https://dev.to/krishnaa192/is-django-dying-1d7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
