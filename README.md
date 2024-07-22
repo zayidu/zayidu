@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Design System no Flutter](https://dev.to/redrodrigoc/design-system-no-flutter-4d53)
-- [Discover the Magic of SearXNG Service and Empower Your Search Engine API](https://dev.to/zand/discover-the-magic-of-searxng-service-and-empower-your-search-engine-api-87l)
-- [Biden Step-Down: Effect on the Tech Eco-system](https://dev.to/scofieldidehen/biden-step-down-effect-on-the-tech-eco-system-37ip)
-- [WPDoods: Easily Integrate WordPress and Doodstream](https://dev.to/zerobytecode/wpdoods-easily-integrate-wordpress-and-doodstream-3c0g)
-- [Mastering JavaScript: The &quot;JavaScript Practice Challenges&quot; Course](https://dev.to/labex/mastering-javascript-the-javascript-practice-challenges-course-211n)
+- [HTML in One Video - Development, Deployment and Quiz](https://dev.to/sh20raj/html-in-one-video-development-deployment-and-quiz-697)
+- [My Home Lab](https://dev.to/mlem_dev/my-home-lab-4lji)
+- [My Journey into the World of Development: From Beginner to Builder!](https://dev.to/olehrab/my-journey-into-the-world-of-development-from-beginner-to-builder-3m5l)
+- [Why We Should Move to OPEX in Cloud Services?!](https://dev.to/1hamzabek/why-we-should-move-to-opex-in-cloud-services-1bo3)
+- [Asynchronous Non-Blocking REST API Using Java and its impact in Financial Services](https://dev.to/gauravshekhar13/asynchronous-non-blocking-rest-api-using-java-and-its-impact-in-financial-services-2717)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
