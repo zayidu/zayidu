@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Postmark + Squadcast Integration: Simplifying Alert Routing](https://dev.to/squadcast/postmark-squadcast-integration-simplifying-alert-routing-4h8n)
-- [First post!](https://dev.to/ugankhuyag/first-post-3mp8)
-- [Exploring DN404: An Innovative NFT Standard](https://dev.to/nft_research/exploring-dn404-an-innovative-nft-standard-47bi)
-- [Runtime Log Level Change using Golang &amp; GoFr](https://dev.to/aryanmehrotra/remote-runtime-log-level-change-using-golang-gofr-54d8)
-- [A Importância da Indireção em Arquiteturas de Software](https://dev.to/asouza/a-importancia-da-indirecao-em-arquiteturas-de-software-493b)
+- [The JavaScript Array Methods for Kids!](https://dev.to/sh20raj/the-javascript-array-methods-for-kids-3b8e)
+- [JavaScript Array Methods: `forEach`, `map`, `filter`, and `reduce`](https://dev.to/sh20raj/javascript-array-methods-foreach-map-filter-and-reduce-2bh7)
+- [SDLC - Waterfall Model](https://dev.to/sandeepsangu/sdlc-waterfall-model-ibc)
+- [Graph Database Use Cases](https://dev.to/nim12/graph-database-use-cases-3pfg)
+- [Introducing SkillScore: A New Way to Match Talents with Companies—Seeking Feedback from Freelancers, Employees, and Employers!](https://dev.to/alexfriedl/introducing-skillscore-a-new-way-to-match-talents-with-companies-seeking-feedback-from-freelancers-employees-and-employers-320e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
