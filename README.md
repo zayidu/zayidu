@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Legacy WordPress web development workflow](https://dev.to/ingosteinke/legacy-wordpress-web-development-workflow-2lic)
-- [How to Master User Interviews? Essential Tips for Effective Research](https://dev.to/wednesdaysol/how-to-master-user-interviews-essential-tips-for-effective-research-52ja)
-- [AI : Conquering Cancer](https://dev.to/stephmarira/ai-conquering-cancer-55bi)
-- [How Random Numbers are Generated](https://dev.to/sh20raj/how-random-numbers-are-generated-40e0)
-- [10 Advanced Python Hacks 4 You](https://dev.to/hisham_elamir/10-advanced-python-hacks-4-you-j2o)
+- [Lifetimes in Rust explained](https://dev.to/francescoxx/lifetimes-in-rust-explained-4og8)
+- [Una Visión Completa de los Hooks Integrados en React 🚀](https://dev.to/marmariadev/una-vision-completa-de-los-hooks-integrados-en-react-g7e)
+- [A Complete Overview of Built-in React Hooks 🚀](https://dev.to/marmariadev/a-complete-overview-of-built-in-react-hooks-5h58)
+- [Making a Chess.com clone - 1](https://dev.to/jay818/making-a-chesscom-clone-1-417b)
+- [Designing Your Codebase for Optimized AI-Driven Development](https://dev.to/bitdev_/designing-your-codebase-for-optimized-ai-driven-development-43l5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
