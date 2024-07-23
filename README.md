@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering React Router DOM: Your Guide to Building Slick Single-Page Apps](https://dev.to/vyan/mastering-react-router-dom-your-guide-to-building-slick-single-page-apps-5g3o)
-- [Common SEO Errors That Lower Your Website&#39;s Performance](https://dev.to/juddiy/common-seo-errors-that-lower-your-websites-performance-4gc1)
-- [dotshare.it website for share your dot files](https://dev.to/sahandsarhangi/dotshareit-website-for-share-your-dot-files-337f)
-- [eBPF: Revolutionizing Linux Kernel Programming](https://dev.to/mochafreddo/ebpf-revolutionizing-linux-kernel-programming-4al5)
-- [Delete All Stashes in Git Repository](https://dev.to/labex/delete-all-stashes-in-git-repository-3pip)
+- [Elevate Your Development Workflow with GitHub PR Templates! 🌟](https://dev.to/smy/elevate-your-development-workflow-with-github-pr-templates-3k87)
+- [5 application performance monitoring and observability practices every organization should implement](https://dev.to/manageengineapm/5-application-performance-monitoring-and-observability-practices-every-organization-should-implement-4omk)
+- [Unlock the Secrets of Image Processing and Computer Vision 🔍](https://dev.to/getvm/unlock-the-secrets-of-image-processing-and-computer-vision-1kh)
+- [Use cosmocc to cross‐compile a CMake project](https://dev.to/jcbhmr/use-cosmocc-to-cross-compile-a-cmake-project-1a1g)
+- [What are Some Biggest Myths and Misconceptions about MongoDB?](https://dev.to/codegirl0101/what-are-some-biggest-myths-and-misconceptions-about-mongodb-1b3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
