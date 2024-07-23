@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Debug Scripts in Bash](https://dev.to/umairk/how-to-debug-scripts-in-bash-3fa0)
-- [Step by Step: Implementing Authentication with Identity](https://dev.to/fabrcio_marcondessantos/step-by-step-implementing-authentication-with-identity-1l4i)
-- [How to list all indexes of a specific table in a Rails application](https://dev.to/alexandrecalaca/how-to-list-all-indexes-of-a-specific-table-in-a-rails-application-heg)
-- [Building a Serverless File Sharing Platform](https://dev.to/lokewrites/building-a-serverless-file-sharing-platform-2ofb)
-- [Free Design Templates for Your ML Project](https://dev.to/freiberg-roman/free-design-templates-for-your-ml-project-29k4)
+- [Audio issue in react native release apk file](https://dev.to/sandipan_ghorai_84e1397ab/audio-issue-in-react-native-release-apk-file-32db)
+- [I just hit 2 Years on DEV](https://dev.to/sarahokolo/i-just-hit-2-years-on-dev-27hb)
+- [Introduction to Project Loom](https://dev.to/adaumircosta/introduction-to-project-loom-2m98)
+- [Docker do Zero](https://dev.to/daveloper/docker-do-zero-2180)
+- [Docker from Zero](https://dev.to/daveloper/docker-from-zero-4fci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
