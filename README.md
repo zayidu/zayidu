@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One possible evolution of software development industry thanks to LLM](https://dev.to/matks/one-possible-evolution-of-software-development-industry-thanks-to-llm-1hc7)
-- [Configuring the Kubernetes Horizontal Pod Autoscaler to scale based on custom metrics from Prometheus](https://dev.to/tsudhishnair/configuring-the-kubernetes-horizontal-pod-autoscaler-to-scale-based-on-custom-metrics-from-prometheus-1fle)
-- [Python: From Beginners to Pro Part 4](https://dev.to/scofieldidehen/python-from-beginners-to-pro-part-4-25gp)
-- [How to use async function in useEffect?](https://dev.to/bondaspecta/how-to-use-async-function-in-useeffect-2m6a)
-- [Livestream platform backend — Detailed architecture](https://dev.to/teyz/livestream-platform-backend-detailed-architecture-1f62)
+- [Understanding CORS: A Crucial Security Feature for Your React Applications](https://dev.to/nagakumar_reddy_316f25396/understanding-cors-a-crucial-security-feature-for-your-react-applications-1fpk)
+- [A Modern Approach to Routing in React Applications](https://dev.to/patrick_chibueze_e2567f25/a-modern-approach-to-routing-in-react-applications-ih3)
+- [Recommended Project: Implement User Login Function](https://dev.to/labex/recommended-project-implement-user-login-function-546c)
+- [Ways to fix Crowstrike in Azure VMs](https://dev.to/omiossec/ways-to-fix-crowstrike-in-azure-vms-bel)
+- [Exploring the Power of awk: A Guide for DevOps Engineers](https://dev.to/toogoodyshoes/exploring-the-power-of-awk-a-guide-for-devops-engineers-4k6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
