@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Color Scheme for Your Website: A Guide](https://dev.to/mariajack/choosing-the-right-color-scheme-for-your-website-a-guide-eoh)
-- [TubeBuddy Review: Your Ultimate YouTube Cheat Code 🚀](https://dev.to/nicolerivers358/tubebuddy-review-your-ultimate-youtube-cheat-code-2fd7)
-- [Git | Tips and Tricks](https://dev.to/hbolajraf/git-tips-and-tricks-5326)
-- [C# | TDD Example using xUnit and Moq](https://dev.to/hbolajraf/c-tdd-example-using-xunit-and-moq-1kcc)
-- [Azure | Azure Functions By Example](https://dev.to/hbolajraf/azure-azure-functions-by-example-45lb)
+- [Legacy WordPress web development workflow](https://dev.to/ingosteinke/legacy-wordpress-web-development-workflow-2lic)
+- [How to Master User Interviews? Essential Tips for Effective Research](https://dev.to/wednesdaysol/how-to-master-user-interviews-essential-tips-for-effective-research-52ja)
+- [AI : Conquering Cancer](https://dev.to/stephmarira/ai-conquering-cancer-55bi)
+- [How Random Numbers are Generated](https://dev.to/sh20raj/how-random-numbers-are-generated-40e0)
+- [10 Advanced Python Hacks 4 You](https://dev.to/hisham_elamir/10-advanced-python-hacks-4-you-j2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
