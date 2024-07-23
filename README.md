@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lifetimes in Rust explained](https://dev.to/francescoxx/lifetimes-in-rust-explained-4og8)
-- [Una Visión Completa de los Hooks Integrados en React 🚀](https://dev.to/marmariadev/una-vision-completa-de-los-hooks-integrados-en-react-g7e)
-- [A Complete Overview of Built-in React Hooks 🚀](https://dev.to/marmariadev/a-complete-overview-of-built-in-react-hooks-5h58)
-- [Making a Chess.com clone - 1](https://dev.to/jay818/making-a-chesscom-clone-1-417b)
-- [Designing Your Codebase for Optimized AI-Driven Development](https://dev.to/bitdev_/designing-your-codebase-for-optimized-ai-driven-development-43l5)
+- [Zoneless change detection in Angular 18](https://dev.to/logrocket/zoneless-change-detection-in-angular-18-327)
+- [Filter Azure costs by Tags](https://dev.to/techielass/filter-azure-costs-by-tags-3o7o)
+- [I conducted a community survey and here’s what I learned](https://dev.to/whitep4nth3r/i-conducted-a-community-survey-and-heres-what-i-learned-2mgk)
+- [Gateways de Pagamento no Node.js - PIX e Cartão de crédito de forma genérica &lpar;Woovi, Stripe e Pagar.me&rpar;](https://dev.to/devdoido/gateways-de-pagamento-no-nodejs-de-forma-generica-woovi-stripe-e-pagarme-12k8)
+- [Web Development Made Easy: Your Beginner&#39;s Guide to Kickstarting Your Journey!](https://dev.to/ijay/web-development-made-easy-your-beginners-guide-to-kickstarting-your-journey-5945)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
