@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;15/07/2024-21/07/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-15072024-21072024-4lfa)
-- [MID INTERNSHIP TASK: Building devopsfetch for Server Information Retrieval and Monitoring.](https://dev.to/efosa-dev/mid-internship-task-building-devopsfetch-for-server-information-retrieval-and-monitoring-2bj2)
-- [How to migrate your Google Forms to Odoo surveys](https://dev.to/m1k3lm/how-to-migrate-your-google-forms-to-odoo-surveys-m56)
-- [How to Create Wealth and Passive Income - How to Create Wealth and Passive Income](https://dev.to/juanemilio31323/how-to-create-wealth-and-passive-income-how-to-create-wealth-and-passive-income-2e4k)
-- [Day 994 : Tomorrow](https://dev.to/dwane/day-994-tomorrow-3l1c)
+- [Mastering React Router DOM: Your Guide to Building Slick Single-Page Apps](https://dev.to/vyan/mastering-react-router-dom-your-guide-to-building-slick-single-page-apps-5g3o)
+- [Common SEO Errors That Lower Your Website&#39;s Performance](https://dev.to/juddiy/common-seo-errors-that-lower-your-websites-performance-4gc1)
+- [dotshare.it website for share your dot files](https://dev.to/sahandsarhangi/dotshareit-website-for-share-your-dot-files-337f)
+- [eBPF: Revolutionizing Linux Kernel Programming](https://dev.to/mochafreddo/ebpf-revolutionizing-linux-kernel-programming-4al5)
+- [Delete All Stashes in Git Repository](https://dev.to/labex/delete-all-stashes-in-git-repository-3pip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
