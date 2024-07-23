@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 9 of 100 Days of Cloud: Building a Paystack-Zoho CRM Pipeline &lpar;Part 2&rpar;](https://dev.to/tutorialhelldev/day-9-of-100-days-of-cloud-building-a-paystack-zoho-crm-pipeline-part-2-1h21)
-- [Leading Node.js Frameworks for Backend Development in 2024](https://dev.to/devstoriesplayground/leading-nodejs-frameworks-for-backend-development-in-2024-2fgg)
-- [My Pen on CodePen](https://dev.to/matte800/my-pen-on-codepen-3418)
-- [Understanding Different Types of Mental Health Disorders](https://dev.to/the_healingjourney/understanding-different-types-of-mental-health-disorders-5c8o)
-- [Introduction to React JS : by Eazealliance](https://dev.to/eazealliance_services/eazealliance-article-on-react-js-4l9)
+- [5 UI Components Library for Ruby on Rails &lpar;in 2024&rpar;](https://dev.to/railsdesigner/5-ui-components-library-for-ruby-on-rails-in-2024-2cbg)
+- [target=”blank”](https://dev.to/bridget_amana/targetblank-20en)
+- [Q&amp;A: failure, inspiration, portfolios](https://dev.to/star-codex/qa-failure-inspiration-portfolios-27gl)
+- [Deep Dive into PandApache3: Implementation of Authentication and Security](https://dev.to/pykpyky/deep-dive-into-pandapache3-implementation-of-authentication-and-security-2da9)
+- [20 Life hacks for DevOps Engineers](https://dev.to/glasskube/20-life-hacks-for-devops-engineers-3dn7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
