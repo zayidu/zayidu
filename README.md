@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [jest 关于定时器](https://dev.to/dennischeung/jest-guan-yu-ding-shi-qi-3hil)
-- [How to make “Input validation” easy for your devs](https://dev.to/owasp/how-to-make-input-validation-easy-for-your-devs-2o6b)
-- [OpenAI Launches GPT-4o Mini: A Cost-Effective AI Model](https://dev.to/aishik_chatterjee_0060e71/openai-launches-gpt-4o-mini-a-cost-effective-ai-model-3hgo)
-- [Learning Python.](https://dev.to/ibad/learning-python-288g)
-- [Handling Authentication with Supabase, Analog and tRPC](https://dev.to/chrislydemann/handling-authentication-with-supabase-analog-and-trpc-27f0)
+- [Unlocking Security: The Ultimate Guide to Password Managers](https://dev.to/verifyvault/unlocking-security-the-ultimate-guide-to-password-managers-2bo9)
+- [FAQ page in HTML only](https://dev.to/taylor_william_82482c9a4c/faq-page-in-html-only-2h5h)
+- [Announcing “Permit Share-If&quot; Embeddable Access Sharing Components](https://dev.to/permit_io/announcing-permit-share-if-embeddable-access-sharing-components-4pgo)
+- [LEGACY APP MIGRATION TO AZURE](https://dev.to/danclem/legacy-app-migration-to-azure-187n)
+- [Day 11 of 100DaysOfCode](https://dev.to/koichiarai/day-11-of-100daysofcode-2k9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
