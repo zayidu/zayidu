@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 UI Components Library for Ruby on Rails &lpar;in 2024&rpar;](https://dev.to/railsdesigner/5-ui-components-library-for-ruby-on-rails-in-2024-2cbg)
-- [target=”blank”](https://dev.to/bridget_amana/targetblank-20en)
-- [Q&amp;A: failure, inspiration, portfolios](https://dev.to/star-codex/qa-failure-inspiration-portfolios-27gl)
-- [Deep Dive into PandApache3: Implementation of Authentication and Security](https://dev.to/pykpyky/deep-dive-into-pandapache3-implementation-of-authentication-and-security-2da9)
-- [20 Life hacks for DevOps Engineers](https://dev.to/glasskube/20-life-hacks-for-devops-engineers-3dn7)
+- [Choosing the Right Color Scheme for Your Website: A Guide](https://dev.to/mariajack/choosing-the-right-color-scheme-for-your-website-a-guide-eoh)
+- [TubeBuddy Review: Your Ultimate YouTube Cheat Code 🚀](https://dev.to/nicolerivers358/tubebuddy-review-your-ultimate-youtube-cheat-code-2fd7)
+- [Git | Tips and Tricks](https://dev.to/hbolajraf/git-tips-and-tricks-5326)
+- [C# | TDD Example using xUnit and Moq](https://dev.to/hbolajraf/c-tdd-example-using-xunit-and-moq-1kcc)
+- [Azure | Azure Functions By Example](https://dev.to/hbolajraf/azure-azure-functions-by-example-45lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
