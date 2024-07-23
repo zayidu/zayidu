@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Audio issue in react native release apk file](https://dev.to/sandipan_ghorai_84e1397ab/audio-issue-in-react-native-release-apk-file-32db)
-- [I just hit 2 Years on DEV](https://dev.to/sarahokolo/i-just-hit-2-years-on-dev-27hb)
-- [Introduction to Project Loom](https://dev.to/adaumircosta/introduction-to-project-loom-2m98)
-- [Docker do Zero](https://dev.to/daveloper/docker-do-zero-2180)
-- [Docker from Zero](https://dev.to/daveloper/docker-from-zero-4fci)
+- [Desenvolvimento Orientado a SOLID](https://dev.to/womakerscode/desenvolvimento-orientado-a-solid-al7)
+- [Case Study: Loosely Coupled Architecture](https://dev.to/dishitdevasia/case-study-loosely-coupled-architecture-1j58)
+- [Making a Roguelike while chillin out part I](https://dev.to/pablosoifer1/making-a-roguelike-while-chillin-out-part-i-3cho)
+- [How to Monitor App Router Next.js Applications with New Relic](https://dev.to/set808/how-to-monitor-app-router-nextjs-applications-with-new-relic-ghp)
+- [Serving Static Files and Single Page Applications on Oat++ &lpar;OatPP&rpar;](https://dev.to/myilmaz/serving-static-files-and-single-page-applications-on-oat-oatpp-30ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
