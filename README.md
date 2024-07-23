@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Perfect Portfolio Website for you | Easy UI Diaries | Free Templates Part-7](https://dev.to/darkinventor/perfect-portfolio-website-for-you-easy-ui-diaries-free-templates-part-6-1o4i)
-- [3 cool open-source UI Frontend Components Libraries](https://dev.to/shreyvijayvargiya/3-cool-open-source-ui-frontend-components-libraries-eh8)
-- [Simplest implementation of Fumadocs | Easy UI Diaries | Free Templates Part-5](https://dev.to/darkinventor/simplest-implementation-of-fumadocs-easy-ui-diaries-free-templates-part-5-22jh)
-- [Polling 2 Python web frameworks.](https://dev.to/davitacols/polling-2-python-web-frameworks-d88)
-- [Webhooks vs. polling](https://dev.to/palomino/webhooks-vs-polling-37d1)
+- [Goodbye Webflow, Hello Our Shiny New Website](https://dev.to/zerodays/goodbye-webflow-hello-our-shiny-new-website-1m31)
+- [Leverage ChatGPT to Implement a Notification List in Your Intranet](https://dev.to/jaloplo/leverage-chatgpt-to-implement-a-notification-list-in-your-intranet-56k6)
+- [Adding Custom Fonts to Laravel-Dompdf](https://dev.to/rafaelogic/adding-custom-fonts-to-laravel-dompdf-4na8)
+- [POST only? Let&#39;s end this absurd API design debate](https://dev.to/logto/post-only-lets-end-this-absurd-api-design-debate-3a0k)
+- [Virtual Fittings: How Technology is Changing the Custom Suit Industry](https://dev.to/haroon_ch_d5802dded29606b/virtual-fittings-how-technology-is-changing-the-custom-suit-industry-3l82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
