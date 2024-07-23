@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SURPRISE 2024!, Web-Forms Back to ASP.NET Core](https://dev.to/elanatframework/surprise-2024-web-forms-back-to-aspnet-core-j1h)
-- [Realtime log streaming in Go](https://dev.to/gatij/realtime-log-streaming-in-go-4530)
-- [Issue 54 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-54-of-aws-cloud-security-weekly-24pg)
-- [[Rust]get file name](https://dev.to/nk_maker/rustget-file-name-3pka)
-- [JavaScript30 - 10 Hold Shift to Check Multiple Checkboxes!](https://dev.to/virtualsobriety/javascript30-10-hold-shift-to-check-multiple-checkboxes-4ln5)
+- [Concurrency in Modern JavaScript](https://dev.to/kartikmehta8/concurrency-in-modern-javascript-2o37)
+- [Visualização de métricas k6 em tempo real com Prometheus remote write](https://dev.to/marlo2222/visualizacao-de-metricas-k6-em-tempo-real-com-prometheus-remote-write-3hj4)
+- [SQL Beginner](https://dev.to/gokilp_25/sql-beginner-4o3l)
+- [CacheerPHP: The Minimalist Caching Solution for PHP](https://dev.to/silviooosilva/cacheerphp-the-minimalist-caching-solution-for-php-5dd6)
+- [Flat table with conditional formatting](https://dev.to/muhammad_auwal_9fc9dda53f/flat-table-with-conditional-formatting-12p8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
