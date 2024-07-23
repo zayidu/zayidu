@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Intelligent Document Processing &amp; How Does It Work](https://dev.to/derek-compdf/what-is-intelligent-document-processing-how-does-it-work-j1m)
-- [Building a URL Shortener App with Node.js and MongoDB](https://dev.to/manthanank/building-a-url-shortener-app-with-nodejs-and-mongodb-bhh)
-- [Implementing the Cached Repository Pattern in C#](https://dev.to/ben-witt/cached-repository-in-c-432c)
-- [Understanding Request Waterfalls: A Key to Optimizing Web Performance](https://dev.to/h_n_agnihotri/understanding-request-waterfalls-a-key-to-optimizing-web-performance-46i1)
-- [CrowdStrike security update triggering mass Windows outage](https://dev.to/konst_/crowdstrike-security-update-triggering-mass-windows-outage-48c2)
+- [Day 9 of 100 Days of Cloud: Building a Paystack-Zoho CRM Pipeline &lpar;Part 2&rpar;](https://dev.to/tutorialhelldev/day-9-of-100-days-of-cloud-building-a-paystack-zoho-crm-pipeline-part-2-1h21)
+- [Leading Node.js Frameworks for Backend Development in 2024](https://dev.to/devstoriesplayground/leading-nodejs-frameworks-for-backend-development-in-2024-2fgg)
+- [My Pen on CodePen](https://dev.to/matte800/my-pen-on-codepen-3418)
+- [Understanding Different Types of Mental Health Disorders](https://dev.to/the_healingjourney/understanding-different-types-of-mental-health-disorders-5c8o)
+- [Introduction to React JS : by Eazealliance](https://dev.to/eazealliance_services/eazealliance-article-on-react-js-4l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
