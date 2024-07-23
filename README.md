@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Git autocorrect needs more marketing](https://dev.to/cloudx/git-autocorrect-needs-more-marketing-20gg)
-- [NeoVim Recipes: An Adventure in a Plugin-less Configuration](https://dev.to/jrop/configuring-neovim-an-adventure-in-a-plugin-less-configuration-2kna)
-- [Mastering Client-Side Routing with React Router DOM 6.25.1](https://dev.to/nagakumar_reddy_316f25396/mastering-client-side-routing-with-react-router-dom-6251-5a7d)
-- [Understanding Credit Card Decline Codes: A Developer&#39;s Guide to Error Handling with Rapyd](https://dev.to/rapyd/understanding-credit-card-decline-codes-a-developers-guide-to-error-handling-with-rapyd-22n2)
-- [1636. Sort Array by Increasing Frequency](https://dev.to/mdarifulhaque/1636-sort-array-by-increasing-frequency-1gkj)
+- [How to Debug Scripts in Bash](https://dev.to/umairk/how-to-debug-scripts-in-bash-3fa0)
+- [Step by Step: Implementing Authentication with Identity](https://dev.to/fabrcio_marcondessantos/step-by-step-implementing-authentication-with-identity-1l4i)
+- [How to list all indexes of a specific table in a Rails application](https://dev.to/alexandrecalaca/how-to-list-all-indexes-of-a-specific-table-in-a-rails-application-heg)
+- [Building a Serverless File Sharing Platform](https://dev.to/lokewrites/building-a-serverless-file-sharing-platform-2ofb)
+- [Free Design Templates for Your ML Project](https://dev.to/freiberg-roman/free-design-templates-for-your-ml-project-29k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
