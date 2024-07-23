@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding CORS: A Crucial Security Feature for Your React Applications](https://dev.to/nagakumar_reddy_316f25396/understanding-cors-a-crucial-security-feature-for-your-react-applications-1fpk)
-- [A Modern Approach to Routing in React Applications](https://dev.to/patrick_chibueze_e2567f25/a-modern-approach-to-routing-in-react-applications-ih3)
-- [Recommended Project: Implement User Login Function](https://dev.to/labex/recommended-project-implement-user-login-function-546c)
-- [Ways to fix Crowstrike in Azure VMs](https://dev.to/omiossec/ways-to-fix-crowstrike-in-azure-vms-bel)
-- [Exploring the Power of awk: A Guide for DevOps Engineers](https://dev.to/toogoodyshoes/exploring-the-power-of-awk-a-guide-for-devops-engineers-4k6i)
+- [Git autocorrect needs more marketing](https://dev.to/cloudx/git-autocorrect-needs-more-marketing-20gg)
+- [NeoVim Recipes: An Adventure in a Plugin-less Configuration](https://dev.to/jrop/configuring-neovim-an-adventure-in-a-plugin-less-configuration-2kna)
+- [Mastering Client-Side Routing with React Router DOM 6.25.1](https://dev.to/nagakumar_reddy_316f25396/mastering-client-side-routing-with-react-router-dom-6251-5a7d)
+- [Understanding Credit Card Decline Codes: A Developer&#39;s Guide to Error Handling with Rapyd](https://dev.to/rapyd/understanding-credit-card-decline-codes-a-developers-guide-to-error-handling-with-rapyd-22n2)
+- [1636. Sort Array by Increasing Frequency](https://dev.to/mdarifulhaque/1636-sort-array-by-increasing-frequency-1gkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
