@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Key To Growing As A Programmer? Getting Really Good At This 1 Thing](https://dev.to/jeffbuildstech/the-key-to-growing-as-a-programmer-getting-really-good-at-this-1-thing-3il5)
-- [5 tools every developer should use](https://dev.to/zain725342/5-tools-every-developer-should-use-17m0)
-- [Factorial Function in JavaScript - Quick Explanation.](https://dev.to/jessicaagorye/factorial-function-in-javascript-quick-explanation-a2f)
-- [Today&#39;s Trending Projects: Sum of Prime Numbers Under 100 and More](https://dev.to/labex/todays-trending-projects-sum-of-prime-numbers-under-100-and-more-32c2)
-- [An Opinionated Ramp Up Guide to AWS Pentesting](https://dev.to/lmoratti/an-opinionated-ramp-up-guide-to-aws-pentesting-1bc5)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;15/07/2024-21/07/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-15072024-21072024-4lfa)
+- [MID INTERNSHIP TASK: Building devopsfetch for Server Information Retrieval and Monitoring.](https://dev.to/efosa-dev/mid-internship-task-building-devopsfetch-for-server-information-retrieval-and-monitoring-2bj2)
+- [How to migrate your Google Forms to Odoo surveys](https://dev.to/m1k3lm/how-to-migrate-your-google-forms-to-odoo-surveys-m56)
+- [How to Create Wealth and Passive Income - How to Create Wealth and Passive Income](https://dev.to/juanemilio31323/how-to-create-wealth-and-passive-income-how-to-create-wealth-and-passive-income-2e4k)
+- [Day 994 : Tomorrow](https://dev.to/dwane/day-994-tomorrow-3l1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
