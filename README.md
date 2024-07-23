@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoneless change detection in Angular 18](https://dev.to/logrocket/zoneless-change-detection-in-angular-18-327)
-- [Filter Azure costs by Tags](https://dev.to/techielass/filter-azure-costs-by-tags-3o7o)
-- [I conducted a community survey and here’s what I learned](https://dev.to/whitep4nth3r/i-conducted-a-community-survey-and-heres-what-i-learned-2mgk)
-- [Gateways de Pagamento no Node.js - PIX e Cartão de crédito de forma genérica &lpar;Woovi, Stripe e Pagar.me&rpar;](https://dev.to/devdoido/gateways-de-pagamento-no-nodejs-de-forma-generica-woovi-stripe-e-pagarme-12k8)
-- [Web Development Made Easy: Your Beginner&#39;s Guide to Kickstarting Your Journey!](https://dev.to/ijay/web-development-made-easy-your-beginners-guide-to-kickstarting-your-journey-5945)
+- [jest 关于定时器](https://dev.to/dennischeung/jest-guan-yu-ding-shi-qi-3hil)
+- [How to make “Input validation” easy for your devs](https://dev.to/owasp/how-to-make-input-validation-easy-for-your-devs-2o6b)
+- [OpenAI Launches GPT-4o Mini: A Cost-Effective AI Model](https://dev.to/aishik_chatterjee_0060e71/openai-launches-gpt-4o-mini-a-cost-effective-ai-model-3hgo)
+- [Learning Python.](https://dev.to/ibad/learning-python-288g)
+- [Handling Authentication with Supabase, Analog and tRPC](https://dev.to/chrislydemann/handling-authentication-with-supabase-analog-and-trpc-27f0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
