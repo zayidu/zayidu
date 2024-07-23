@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye Webflow, Hello Our Shiny New Website](https://dev.to/zerodays/goodbye-webflow-hello-our-shiny-new-website-1m31)
-- [Leverage ChatGPT to Implement a Notification List in Your Intranet](https://dev.to/jaloplo/leverage-chatgpt-to-implement-a-notification-list-in-your-intranet-56k6)
-- [Adding Custom Fonts to Laravel-Dompdf](https://dev.to/rafaelogic/adding-custom-fonts-to-laravel-dompdf-4na8)
-- [POST only? Let&#39;s end this absurd API design debate](https://dev.to/logto/post-only-lets-end-this-absurd-api-design-debate-3a0k)
-- [Virtual Fittings: How Technology is Changing the Custom Suit Industry](https://dev.to/haroon_ch_d5802dded29606b/virtual-fittings-how-technology-is-changing-the-custom-suit-industry-3l82)
+- [What Is Intelligent Document Processing &amp; How Does It Work](https://dev.to/derek-compdf/what-is-intelligent-document-processing-how-does-it-work-j1m)
+- [Building a URL Shortener App with Node.js and MongoDB](https://dev.to/manthanank/building-a-url-shortener-app-with-nodejs-and-mongodb-bhh)
+- [Implementing the Cached Repository Pattern in C#](https://dev.to/ben-witt/cached-repository-in-c-432c)
+- [Understanding Request Waterfalls: A Key to Optimizing Web Performance](https://dev.to/h_n_agnihotri/understanding-request-waterfalls-a-key-to-optimizing-web-performance-46i1)
+- [CrowdStrike security update triggering mass Windows outage](https://dev.to/konst_/crowdstrike-security-update-triggering-mass-windows-outage-48c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
