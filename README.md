@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency in Modern JavaScript](https://dev.to/kartikmehta8/concurrency-in-modern-javascript-2o37)
-- [Visualização de métricas k6 em tempo real com Prometheus remote write](https://dev.to/marlo2222/visualizacao-de-metricas-k6-em-tempo-real-com-prometheus-remote-write-3hj4)
-- [SQL Beginner](https://dev.to/gokilp_25/sql-beginner-4o3l)
-- [CacheerPHP: The Minimalist Caching Solution for PHP](https://dev.to/silviooosilva/cacheerphp-the-minimalist-caching-solution-for-php-5dd6)
-- [Flat table with conditional formatting](https://dev.to/muhammad_auwal_9fc9dda53f/flat-table-with-conditional-formatting-12p8)
+- [The Key To Growing As A Programmer? Getting Really Good At This 1 Thing](https://dev.to/jeffbuildstech/the-key-to-growing-as-a-programmer-getting-really-good-at-this-1-thing-3il5)
+- [5 tools every developer should use](https://dev.to/zain725342/5-tools-every-developer-should-use-17m0)
+- [Factorial Function in JavaScript - Quick Explanation.](https://dev.to/jessicaagorye/factorial-function-in-javascript-quick-explanation-a2f)
+- [Today&#39;s Trending Projects: Sum of Prime Numbers Under 100 and More](https://dev.to/labex/todays-trending-projects-sum-of-prime-numbers-under-100-and-more-32c2)
+- [An Opinionated Ramp Up Guide to AWS Pentesting](https://dev.to/lmoratti/an-opinionated-ramp-up-guide-to-aws-pentesting-1bc5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
