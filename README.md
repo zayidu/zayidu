@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Desenvolvimento Orientado a SOLID](https://dev.to/womakerscode/desenvolvimento-orientado-a-solid-al7)
-- [Case Study: Loosely Coupled Architecture](https://dev.to/dishitdevasia/case-study-loosely-coupled-architecture-1j58)
-- [Making a Roguelike while chillin out part I](https://dev.to/pablosoifer1/making-a-roguelike-while-chillin-out-part-i-3cho)
-- [How to Monitor App Router Next.js Applications with New Relic](https://dev.to/set808/how-to-monitor-app-router-nextjs-applications-with-new-relic-ghp)
-- [Serving Static Files and Single Page Applications on Oat++ &lpar;OatPP&rpar;](https://dev.to/myilmaz/serving-static-files-and-single-page-applications-on-oat-oatpp-30ag)
+- [Persistent and Immutable Java LinkedList](https://dev.to/billsoumakis/persistent-and-immutable-java-linkedlist-5a5d)
+- [Задача с собеседования в Microsoft: Наибольшая подстрока без повторяющихся символов.](https://dev.to/faangmaster/zadacha-s-sobiesiedovaniia-v-microsoft-naibolshaia-podstroka-biez-povtoriaiushchikhsia-simvolov-8hm)
+- [Understanding Eloquent Relationships in Laravel](https://dev.to/msnmongare/-understanding-eloquent-relationships-in-laravel-9ob)
+- [Build your own SQLite, Part 1: Listing tables](https://dev.to/geoffreycopin/build-your-own-sqlite-part-1-listing-tables-1b28)
+- [Day 995 : Closer](https://dev.to/dwane/day-995-closer-4g31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
