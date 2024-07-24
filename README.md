@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The One Thing Nobody Seems To Be Talking About](https://dev.to/thekarlesi/the-one-thing-nobody-seems-to-be-talking-about-5d2e)
-- [Creating Custom Annotations for Validation in Spring Boot](https://dev.to/eric6166/creating-custom-annotations-for-validation-in-spring-boot-16j1)
-- [Configuring Bedrock as your LLM with llamindex-TS](https://dev.to/aws-builders/configuring-bedrock-as-your-llm-with-llamindex-ts-3e3a)
-- [Leveraging Sitecore JSS Tags for Seamless Integration with Next.js in XM Cloud](https://dev.to/sebasab/leveraging-sitecore-jss-tags-for-seamless-integration-with-nextjs-in-xm-cloud-1d4l)
-- [Mathematics for Machine Learning - Day 16](https://dev.to/pourlehommes/mathematics-for-machine-learning-day-16-4de2)
+- [AI Research Agent with memory using GPT-4o-mini: Step-by-Step Guide.](https://dev.to/spiff/ai-research-agent-with-memory-using-gpt-4o-mini-step-by-step-guide-3142)
+- [Enhancing Python Applications with Pyttsx3: A Comprehensive Guide to Text-to-Speech Conversion](https://dev.to/jhparmar/enhancing-python-applications-with-pyttsx3-a-comprehensive-guide-to-text-to-speech-conversion-4bmh)
+- [AI Speech Assistant](https://dev.to/jhparmar/ai-speech-assistant-4lep)
+- [Why Every Software Developer Should Learn Project Management Skills](https://dev.to/schusterbraun/why-every-software-developer-should-learn-project-management-skills-6b6)
+- [📸 Building a Live Streaming Viewer with Python and OpenCV 📸](https://dev.to/jhparmar/building-a-live-streaming-viewer-with-python-and-opencv-1ike)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
