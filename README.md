@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 -->
 
-![Name](Zayidu_Hi.gif)
+![Name](https://github.com/zayidu/zayidu/blob/assets/images/Zayidu_Hi.gif)
 
-![Name](Zayidu_Salut_v2.gif)
+![Name](https://github.com/zayidu/zayidu/blob/assets/images/Zayidu_Salut_v2.gif)
 
 <!-- # Blog posts -->
 
@@ -63,8 +63,8 @@ Here are some ideas to get you started: -->
 
 <a href="https://app.daily.dev/zayidu"><img src="https://api.daily.dev/devcards/v2/VG0uBq4mZ.png?r=dy2" width="356" alt="ZAYIDU ANSARI's Dev Card"/></a>
 
-<!-- <a href="https://app.daily.dev/zayidu"><img src="./devcard.png" width="356" alt="Zayidu's Dev Card"/></a> -->
+<!-- <a href="https://app.daily.dev/zayidu"><img src="https://github.com/zayidu/zayidu/blob/assets/images/devcard.png" width="356" alt="Zayidu's Dev Card"/></a> -->
 
 ![github-readme-banner](https://githubcard.rajaryan.work/user/zayidu)
 
-[![](https://github.com/zayidu/zayidu/blob/main/dino.gif)](#)
+[![](https://github.com/zayidu/zayidu/blob/assets/images/dino.gif)](#)
