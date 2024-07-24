@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep dive into Mentat coding assistant](https://dev.to/ykgoon/deep-dive-into-mentat-coding-assistant-12no)
-- [Angular SSR: Your server-side rendering implementation guide](https://dev.to/pzurawski/angular-ssr-your-server-side-rendering-implementation-guide-50j9)
-- [Junior Developers and AI Tools: Beneficial or Detrimental?](https://dev.to/andersonceci/junior-developers-and-ai-tools-beneficial-or-detrimental-1j6f)
-- [Agile Methodology](https://dev.to/sandeepsangu/agile-methodology-1l4o)
-- [RapidSpike + Squadcast: Routing Alerts Made Easy](https://dev.to/squadcast/rapidspike-squadcast-routing-alerts-made-easy-32h6)
+- [Setting up the Environment and Hello world in WASM with Rust 🦀](https://dev.to/prathamjagga/setting-up-the-environment-and-hello-world-in-wasm-with-rust-2iga)
+- [Insights into AI Benchmarking with Release of Llama 3.1](https://dev.to/iwooky/insights-into-ai-benchmarking-with-release-of-llama-31-jl3)
+- [How to Use Star Rating in Tailwind CSS](https://dev.to/saim_ansari/how-to-use-star-rating-in-tailwind-css-25ok)
+- [Okta vs Keycloak: Comparison and easy Okta to Keycloak migration guide](https://dev.to/tkurek/okta-vs-keycloak-comparison-and-easy-okta-to-keycloak-migration-guide-426g)
+- [Understanding Go Test Coverage: A Guide to Improving Code Quality](https://dev.to/keploy/understanding-go-test-coverage-a-guide-to-improving-code-quality-2ffp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
