@@ -16,7 +16,7 @@ I pride myself in being a resourceful Full-Stack Developer 👨🏻‍💻 MERN 
 
 When I'm not coding/running my IDEs, you can catch me exploring the world, doing CrossFit 🏋🏼🚴, or trying to catch up on my never-ending reading list📚. Thanks for coming here. Nice day to you!✨
 
-<details>
+<details open>
  <summary><h2> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/about.png" width="37" /> Resume</h2></summary>
  
  <details>
@@ -66,7 +66,7 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-  ![Express.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
+  ![Express.js](https://img.shields.io/badge/ExpressJS-black?style=for-the-badge&logo=three.js&logoColor=white) 
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -86,7 +86,7 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
  <details>
   <summary><h4> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/projects.gif"  width="29"/> Projects</h2></summary>
 
-  #### <a href="https://zayidu.github.io/portfolio/#projects">Check my projects</a>
+  #### <a href="https://zayidu.github.io/portfolio/#projects">Check out my projects here</a>
   <span> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></span>  
 </details>
 
