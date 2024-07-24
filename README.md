@@ -16,7 +16,6 @@ I pride myself in being a resourceful Full-Stack Developer 👨🏻‍💻 MERN 
 
 When I'm not coding/running my IDEs, you can catch me exploring the world, doing CrossFit 🏋🏼🚴, or trying to catch up on my never-ending reading list📚. Thanks for coming here. Nice day to you!✨
 
-<details open>
  <summary><h2> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/about.png" width="37" /> Resume</h2></summary>
  
  <details open>
@@ -88,8 +87,6 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 
   #### <a href="https://zayidu.github.io/portfolio/#projects">Check out my projects here</a>
   <span> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></span>  
-</details>
-
 </details>
 
 <details open>
