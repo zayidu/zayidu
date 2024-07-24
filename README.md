@@ -19,14 +19,14 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <details open>
  <summary><h2> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/about.png" width="37" /> Resume</h2></summary>
  
- <details>
+ <details open>
   <summary><h4> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/academics.gif"  width="29"/> Academics</h2></summary>
 
   <span><img src="https://img.shields.io/badge/BTECH-EEE'2015-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/GPA-7.95/10.0-EFEEE9?style=for-the-badge"></span>
 </details>
 
- <details>
+ <details open>
   <summary><h4> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
 - **Senior Consultant** at Eviden/ Atos
@@ -35,7 +35,7 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 - **Software Engineer** at Larsen & Toubro Infotech (LTI)
 </details>
   
-<details>
+<details open>
   <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"  width="29"/> Coding Handles</h2></summary>
 
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/zayidu)
@@ -46,7 +46,7 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 </details>
 
 
-<details>
+<details open>
   <summary><h4> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
 
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" ></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" ></a>   <a href="https://www.sap.com/index.html" target="_blank"><img src="https://img.shields.io/badge/SAP%20-fff.svg?&style=for-the-badge&logo=sap&logoColor=%fff" ></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" ></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" ></a>   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" ></a>   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>   <a href="https://code.visualstudio.com/" target="_blank"><img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue" ></a>
@@ -83,7 +83,7 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </details>
  
- <details>
+ <details open>
   <summary><h4> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/projects.gif"  width="29"/> Projects</h2></summary>
 
   #### <a href="https://zayidu.github.io/portfolio/#projects">Check out my projects here</a>
@@ -92,7 +92,7 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 
 </details>
 
-<details>
+<details open>
   <summary><h2> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/stats.gif"  width="32"/> Stats</h2></summary>
 
   <!-- ### Leetcode
@@ -121,7 +121,7 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
   </div>
 </details>
 
-<details>
+<details open>
   <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
@@ -203,7 +203,7 @@ Here are some ideas to get you started: -->
 
 ## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke 
 
-<details>
+<details open>
   <summary>Click to see a random joke</summary>
   <div align="center">
    
