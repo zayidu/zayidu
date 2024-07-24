@@ -28,10 +28,10 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
  <details open>
   <summary><h4> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
-- **Senior Consultant** at Eviden/ Atos
-- **Senior Software Engineer** at Emirates Group
-- **Full Stack Develop SAP** at Elseco Limited
-- **Software Engineer** at Larsen & Toubro Infotech (LTI)
+- **Senior Consultant** at **Eviden/Atos**
+- **Senior Software Engineer** at **Emirates Group**
+- **Full Stack Develop SAP** at **Elseco Limited**
+- **Software Engineer** at **Larsen & Toubro Infotech (LTI)**
 </details>
   
 <details open>
