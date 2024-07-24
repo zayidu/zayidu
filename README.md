@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hexo et Hugo : deux générateurs statiques bien pratiques](https://dev.to/dawhistler/hexo-et-hugo-deux-generateurs-statiques-bien-pratiques-57e)
-- [How to become a problem-solver](https://dev.to/zain725342/how-to-become-a-problem-solver-1ifc)
-- [TD Genre is Stale, What Would Fix It?](https://dev.to/chigbeef_77/td-genre-is-stale-what-would-fix-it-2goe)
-- [Roadmap to being a good Web Developer.](https://dev.to/paul_ameh_c6f95df8b725981/roadmap-to-being-a-good-web-developer-d60)
-- [Today&#39;s Trending Projects: Creating a Minesweeper Game With JavaScript and More](https://dev.to/labex/todays-trending-projects-creating-a-minesweeper-game-with-javascript-and-more-bbk)
+- [How to use razorpay api and integrate payment gateway](https://dev.to/ankitmalikg/how-to-use-razorpay-api-and-integrate-payment-gateway-keg)
+- [My Journey Creating My First npm Library](https://dev.to/best_codes/my-journey-creating-my-first-npm-library-15aj)
+- [AWS CDK and security group configuration &lpar;Golang&rpar;](https://dev.to/oleg_sydorov/aws-cdk-and-security-group-configuration-golang-21nl)
+- [Svelte Series-5: Props](https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-5-props-d22)
+- [CLI Maker: More Than We See](https://dev.to/jairofernandez/-cli-maker-more-than-we-see-3gk4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
