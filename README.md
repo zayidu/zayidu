@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up the Environment and Hello world in WASM with Rust 🦀](https://dev.to/prathamjagga/setting-up-the-environment-and-hello-world-in-wasm-with-rust-2iga)
-- [Insights into AI Benchmarking with Release of Llama 3.1](https://dev.to/iwooky/insights-into-ai-benchmarking-with-release-of-llama-31-jl3)
-- [How to Use Star Rating in Tailwind CSS](https://dev.to/saim_ansari/how-to-use-star-rating-in-tailwind-css-25ok)
-- [Okta vs Keycloak: Comparison and easy Okta to Keycloak migration guide](https://dev.to/tkurek/okta-vs-keycloak-comparison-and-easy-okta-to-keycloak-migration-guide-426g)
-- [Understanding Go Test Coverage: A Guide to Improving Code Quality](https://dev.to/keploy/understanding-go-test-coverage-a-guide-to-improving-code-quality-2ffp)
+- [Monitor the Performance of your Python FastAPI App with AppSignal](https://dev.to/appsignal/monitor-the-performance-of-your-python-fastapi-app-with-appsignal-0)
+- [How we manage secrets, the Kubernetes way](https://dev.to/cyclops-ui/how-we-manage-secrets-the-kubernetes-way-451)
+- [Developer Digest: This Week&#39;s Top Stories &lpar;July 17-23&rpar;](https://dev.to/racheljackson/developer-digest-this-weeks-top-stories-july-17-23-296n)
+- [Fixing bugs in your AI: let&#39;s analyze bugs in OpenVINO](https://dev.to/anogneva/fixing-bugs-in-your-ai-lets-analyze-bugs-in-openvino-52b4)
+- [Day 2 of 30 of JavaScript](https://dev.to/shoyab1707/day-2-of-30-of-javascript-3kj9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
