@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use razorpay api and integrate payment gateway](https://dev.to/ankitmalikg/how-to-use-razorpay-api-and-integrate-payment-gateway-keg)
-- [My Journey Creating My First npm Library](https://dev.to/best_codes/my-journey-creating-my-first-npm-library-15aj)
-- [AWS CDK and security group configuration &lpar;Golang&rpar;](https://dev.to/oleg_sydorov/aws-cdk-and-security-group-configuration-golang-21nl)
-- [Svelte Series-5: Props](https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-5-props-d22)
-- [CLI Maker: More Than We See](https://dev.to/jairofernandez/-cli-maker-more-than-we-see-3gk4)
+- [My first single file webpage I have no idea if this is right so pls give me some feedback](https://dev.to/barirah/my-first-single-file-webpage-i-have-no-idea-if-this-is-right-so-pls-give-me-some-feedback-1l5j)
+- [Adding A Confirmation Interstitial On Create in REST](https://dev.to/mdchaney/adding-a-confirmation-interstitial-on-create-in-rest-4an0)
+- [Protecting Your JavaScript Applications from DOM-based XSS Attacks](https://dev.to/rigalpatel001/protecting-your-javascript-applications-from-dom-based-xss-attacks-j0c)
+- [Dive into the World of Algorithms and Data Structures with C! 🚀](https://dev.to/getvm/dive-into-the-world-of-algorithms-and-data-structures-with-c-ice)
+- [CSS Transitions and Transformations](https://dev.to/tailwine/css-transitions-and-transformations-55dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
