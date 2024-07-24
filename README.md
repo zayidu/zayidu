@@ -162,7 +162,7 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
   <p>Click the badge to view my Strava profile and recent activities!</p>
 </div>
 
-
+## Blog posts:
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
