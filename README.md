@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Differences Between Fiber Channel and Ethernet Optical Transceiver Modules](https://dev.to/yash_sharma_/differences-between-fiber-channel-and-ethernet-optical-transceiver-modules-28kp)
-- [Cloud Development Assignment 1 on Azure Fundamental](https://dev.to/wedekaov/cloud-development-assignment-1-on-azure-fundamental-583k)
-- [Three reasons to remove old LinkedIn connections](https://dev.to/samelawrence/three-reasons-to-remove-old-linkedin-connections-3jgl)
-- [7 Developer Tools to Prepare Your Stack for the GenAI Era](https://dev.to/gemanor/7-developer-tools-to-prepare-your-stack-for-the-genai-era-2e6m)
-- [Running Trace-Based Tests with GitHub Actions and Secrets](https://dev.to/kubeshop/running-trace-based-tests-with-github-actions-and-secrets-1n9j)
+- [The One Thing Nobody Seems To Be Talking About](https://dev.to/thekarlesi/the-one-thing-nobody-seems-to-be-talking-about-5d2e)
+- [Creating Custom Annotations for Validation in Spring Boot](https://dev.to/eric6166/creating-custom-annotations-for-validation-in-spring-boot-16j1)
+- [Configuring Bedrock as your LLM with llamindex-TS](https://dev.to/aws-builders/configuring-bedrock-as-your-llm-with-llamindex-ts-3e3a)
+- [Leveraging Sitecore JSS Tags for Seamless Integration with Next.js in XM Cloud](https://dev.to/sebasab/leveraging-sitecore-jss-tags-for-seamless-integration-with-nextjs-in-xm-cloud-1d4l)
+- [Mathematics for Machine Learning - Day 16](https://dev.to/pourlehommes/mathematics-for-machine-learning-day-16-4de2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
