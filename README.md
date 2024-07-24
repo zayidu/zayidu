@@ -21,12 +21,12 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
  <details open>
   <summary><h4> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/academics.gif"  width="29"/> Academics</h2></summary>
 
-  <span><img src="https://img.shields.io/badge/BTECH-EEE'2015-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Bachelor of Technology/ Engineering-EEE'2015-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/GPA-7.95/10.0-EFEEE9?style=for-the-badge"></span>
 </details>
 
  <details open>
-  <summary><h4> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/experience.gif"  width="29"/> Experience</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/experience.gif"  width="29"/> Experiences</h2></summary>
 
   #### <a href="https://zayidu.github.io/portfolio/#overallExperience">Check out my work experience here</a>
 
