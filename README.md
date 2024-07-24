@@ -16,8 +16,8 @@ I pride myself in being a resourceful Full-Stack Developer 👨🏻‍💻 MERN 
 
 When I'm not coding/running my IDEs, you can catch me exploring the world, doing CrossFit 🏋🏼🚴, or trying to catch up on my never-ending reading list📚. Thanks for coming here. Nice day to you!✨
 
- <summary><h2> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/about.png" width="37" /> Resume</h2></summary>
- 
+<h2> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/about.png" width="37" /> Resume</h2>
+
  <details open>
   <summary><h4> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/academics.gif"  width="29"/> Academics</h2></summary>
 
