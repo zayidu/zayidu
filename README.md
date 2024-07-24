@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python: From Beginners to Pro &lpar;Project Part&rpar;](https://dev.to/scofieldidehen/python-from-beginners-to-pro-project-part-h9e)
-- [JSW ONE Platform SDE-1 Interview Experiance](https://dev.to/ssh3/jsw-one-platform-sde-1-interview-experiance-5fh0)
-- [Reviewed Algorithmic Thinking by Building a Dice 🎲 Game](https://dev.to/mrigank_bhardwaj1304/reviewed-algorithmic-thinking-by-building-a-dice-game-ln2)
-- [My favorite DORA &lpar;metric&rpar;](https://dev.to/ma1eharshil/my-favorite-dora-metric-3pbe)
-- [¿Que es python?](https://dev.to/ludloops/que-es-python-385l)
+- [Deploy docker containers in VPS with GitHub Actions](https://dev.to/ikurotime/deploy-docker-containers-in-vps-with-github-actions-2e28)
+- [1380. Lucky Numbers in a Matrix](https://dev.to/mdarifulhaque/1380-lucky-numbers-in-a-matrix-2l11)
+- [Kubernetes security in practice: implications of running containers as root](https://dev.to/wasiucionekm/kubernetes-security-in-practice-implications-of-running-containers-as-root-474n)
+- [Implementing Drag and Drop to Arrange/Sort Items with React, Tailwind CSS, and Dnd-kit](https://dev.to/devwithshreyash/implementing-drag-and-drop-to-arrangesort-items-with-react-tailwind-css-and-dnd-kit-2b2f)
+- [How to build a Private Link Sharing App Using Next.js](https://dev.to/priyankarpal/how-to-build-a-private-link-sharing-app-using-nextjs-nap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
