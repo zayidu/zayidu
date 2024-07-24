@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Guard Your Digital Fortress: Essential Tips for Safeguarding Your Online Identity](https://dev.to/verifyvault/guard-your-digital-fortress-essential-tips-for-safeguarding-your-online-identity-5g98)
-- [1530. Number of Good Leaf Nodes Pairs](https://dev.to/mdarifulhaque/1530-number-of-good-leaf-nodes-pairs-3b3n)
-- [[DAY 87-89] I created a bash script to build a student database](https://dev.to/thomascansino/day-87-89-i-created-a-bash-script-to-build-a-student-database-444p)
-- [SQL Fun: Tackle 10M Records!](https://dev.to/squad_team_986b85db08e8d2/sql-fun-tackle-10m-records-a19)
-- [Building Your Own S3 Cloud Uploader CLI with Bash](https://dev.to/nlankwei5/building-your-own-s3-cloud-uploader-cli-with-bash-2jek)
+- [Announcing ServBay 1.3.9: More Features, Smoother Experience! 🚀](https://dev.to/servbay/announcing-servbay-139-more-features-smoother-experience-4c9d)
+- [Product Software vs. Project Software: Understanding the Differences &amp; STLC](https://dev.to/michael_chepala_7267688a0/product-software-vs-project-software-understanding-the-differences-stlc-2n)
+- [Enhancing Kubernetes Security with Trivy : Day 15 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/enhancing-kubernetes-security-with-trivy-day-15-of-50-days-devops-tools-series-1f43)
+- [Why Data Replication is Important](https://dev.to/mydbsync/why-data-replication-is-important-1pn1)
+- [How to Launch a Simple Website on AWS EC2: A Step-by-Step Guide](https://dev.to/usamabhatti7/how-to-launch-a-simple-website-on-aws-ec2-a-step-by-step-guide-407i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
