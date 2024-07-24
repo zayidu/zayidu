@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitor the Performance of your Python FastAPI App with AppSignal](https://dev.to/appsignal/monitor-the-performance-of-your-python-fastapi-app-with-appsignal-0)
-- [How we manage secrets, the Kubernetes way](https://dev.to/cyclops-ui/how-we-manage-secrets-the-kubernetes-way-451)
-- [Developer Digest: This Week&#39;s Top Stories &lpar;July 17-23&rpar;](https://dev.to/racheljackson/developer-digest-this-weeks-top-stories-july-17-23-296n)
-- [Fixing bugs in your AI: let&#39;s analyze bugs in OpenVINO](https://dev.to/anogneva/fixing-bugs-in-your-ai-lets-analyze-bugs-in-openvino-52b4)
-- [Day 2 of 30 of JavaScript](https://dev.to/shoyab1707/day-2-of-30-of-javascript-3kj9)
+- [Differences Between Fiber Channel and Ethernet Optical Transceiver Modules](https://dev.to/yash_sharma_/differences-between-fiber-channel-and-ethernet-optical-transceiver-modules-28kp)
+- [Cloud Development Assignment 1 on Azure Fundamental](https://dev.to/wedekaov/cloud-development-assignment-1-on-azure-fundamental-583k)
+- [Three reasons to remove old LinkedIn connections](https://dev.to/samelawrence/three-reasons-to-remove-old-linkedin-connections-3jgl)
+- [7 Developer Tools to Prepare Your Stack for the GenAI Era](https://dev.to/gemanor/7-developer-tools-to-prepare-your-stack-for-the-genai-era-2e6m)
+- [Running Trace-Based Tests with GitHub Actions and Secrets](https://dev.to/kubeshop/running-trace-based-tests-with-github-actions-and-secrets-1n9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
