@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Research Agent with memory using GPT-4o-mini: Step-by-Step Guide.](https://dev.to/spiff/ai-research-agent-with-memory-using-gpt-4o-mini-step-by-step-guide-3142)
-- [Enhancing Python Applications with Pyttsx3: A Comprehensive Guide to Text-to-Speech Conversion](https://dev.to/jhparmar/enhancing-python-applications-with-pyttsx3-a-comprehensive-guide-to-text-to-speech-conversion-4bmh)
-- [AI Speech Assistant](https://dev.to/jhparmar/ai-speech-assistant-4lep)
-- [Why Every Software Developer Should Learn Project Management Skills](https://dev.to/schusterbraun/why-every-software-developer-should-learn-project-management-skills-6b6)
-- [📸 Building a Live Streaming Viewer with Python and OpenCV 📸](https://dev.to/jhparmar/building-a-live-streaming-viewer-with-python-and-opencv-1ike)
+- [Guard Your Digital Fortress: Essential Tips for Safeguarding Your Online Identity](https://dev.to/verifyvault/guard-your-digital-fortress-essential-tips-for-safeguarding-your-online-identity-5g98)
+- [1530. Number of Good Leaf Nodes Pairs](https://dev.to/mdarifulhaque/1530-number-of-good-leaf-nodes-pairs-3b3n)
+- [[DAY 87-89] I created a bash script to build a student database](https://dev.to/thomascansino/day-87-89-i-created-a-bash-script-to-build-a-student-database-444p)
+- [SQL Fun: Tackle 10M Records!](https://dev.to/squad_team_986b85db08e8d2/sql-fun-tackle-10m-records-a19)
+- [Building Your Own S3 Cloud Uploader CLI with Bash](https://dev.to/nlankwei5/building-your-own-s3-cloud-uploader-cli-with-bash-2jek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
