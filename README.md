@@ -141,8 +141,6 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 
 </details>
 
-##  Contact Me
-
 <p> 
  <i>You can reach out to me via</i> 
  &nbsp;<img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/Contact.gif"  width="37"/>
