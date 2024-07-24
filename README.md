@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring C++ STL Containers](https://dev.to/kartikmehta8/exploring-c-stl-containers-1d06)
-- [Python database for a public blockchain](https://dev.to/keven_boudreau_78f969fbd6/python-database-for-a-public-blockchain-gp9)
-- [Perceptron | Função de ativação](https://dev.to/heloisa_ribes/perceptron-funcao-de-ativacao-39ak)
-- [My Favorite Interview Questions for QA Engineers](https://dev.to/samelawrence/my-favorite-interview-questions-for-qa-engineers-485a)
-- [Work Stealing: Load-balancing for compute-heavy tasks](https://dev.to/ianmacartney/work-stealing-load-balancing-for-compute-heavy-tasks-1g77)
+- [Hexo et Hugo : deux générateurs statiques bien pratiques](https://dev.to/dawhistler/hexo-et-hugo-deux-generateurs-statiques-bien-pratiques-57e)
+- [How to become a problem-solver](https://dev.to/zain725342/how-to-become-a-problem-solver-1ifc)
+- [TD Genre is Stale, What Would Fix It?](https://dev.to/chigbeef_77/td-genre-is-stale-what-would-fix-it-2goe)
+- [Roadmap to being a good Web Developer.](https://dev.to/paul_ameh_c6f95df8b725981/roadmap-to-being-a-good-web-developer-d60)
+- [Today&#39;s Trending Projects: Creating a Minesweeper Game With JavaScript and More](https://dev.to/labex/todays-trending-projects-creating-a-minesweeper-game-with-javascript-and-more-bbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
