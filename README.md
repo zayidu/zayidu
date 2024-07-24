@@ -26,6 +26,7 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
   <span><img src="https://img.shields.io/badge/GPA-7.95/10.0-EFEEE9?style=for-the-badge"></span>
 </details>
 
+ <details open>
   <summary><h4> <img align="center" src="https://github.com/zayidu/zayidu/blob/assets/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
 - **Senior Consultant** at Eviden/ Atos
@@ -87,6 +88,8 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 
   #### <a href="https://zayidu.github.io/portfolio/#projects">Check out my projects here</a>
   <span> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></span>  
+</details>
+
 </details>
 
 <details open>
