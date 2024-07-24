@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Request Access Approval System using Next.js](https://dev.to/arindam_1729/how-to-build-a-request-access-approval-system-using-nextjs-p3p)
-- [Harnessing the Power of CherryPy for Efficient Web Development&quot; - by Eazealliance](https://dev.to/eazealliance_services/harnessing-the-power-of-cherrypy-for-efficient-web-development-by-eazealliance-376c)
-- [Testing SMS in Cypress: A Comprehensive Guide](https://dev.to/aswani25/testing-sms-in-cypress-a-comprehensive-guide-1eo7)
-- [Is Anyone Working with Facebook Graph API?](https://dev.to/shahid_alibutt_c3dd51cc9/is-anyone-working-with-facebook-graph-api-1ddm)
-- [The Complete Guide to Successful Cloud Migration: Strategies and Best Practices](https://dev.to/marutitech/the-complete-guide-to-successful-cloud-migration-strategies-and-best-practices-403p)
+- [Rails Designer v1.1 released: FormLabelComponent + MediaList](https://dev.to/railsdesigner/rails-designer-v11-released-formlabelcomponent-medialist-1a83)
+- [Understanding React Hooks: A Beginner&#39;s Guide](https://dev.to/kumarshivam1998/understanding-react-hooks-a-beginners-guide-3ibm)
+- [Im forcing myself to do this](https://dev.to/aiskold/im-forcing-myself-to-do-this-3pdn)
+- [✨Top 3 Video Generation Products This Week in ToolList.ai 🎥](https://dev.to/ayoubbhihi/top-3-video-generation-products-this-week-in-toollistai-2h3b)
+- [GBase 8a Solution in Real-Time Data Transmission System &lpar;2&rpar;](https://dev.to/congcong/gbase-8a-solution-in-real-time-data-transmission-system-2-3paf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
