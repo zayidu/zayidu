@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Future-Proof Your App: Scalability Considerations for Long-Term Success](https://dev.to/marutitech/future-proof-your-app-scalability-considerations-for-long-term-success-4cl4)
-- [Comment system: API Gateway &amp; DynamoDB Integration in Pulumi](https://dev.to/itzsrikanth/comment-system-api-gateway-dynamodb-integration-in-pulumi-46l4)
-- [Hi Everyone!!!](https://dev.to/sukeerth_jonathan/hi-everyone-51e2)
-- [PACX ⁓ WebResource Management Commands - Create JS](https://dev.to/_neronotte/pacx-webresource-management-commands-create-js-40if)
-- [How to build Google calendar clone with React &lpar;Week view&rpar;](https://dev.to/cookiemonsterdev/how-to-build-google-calendar-clone-with-react-week-view-b25)
+- [How to Build a Request Access Approval System using Next.js](https://dev.to/arindam_1729/how-to-build-a-request-access-approval-system-using-nextjs-p3p)
+- [Harnessing the Power of CherryPy for Efficient Web Development&quot; - by Eazealliance](https://dev.to/eazealliance_services/harnessing-the-power-of-cherrypy-for-efficient-web-development-by-eazealliance-376c)
+- [Testing SMS in Cypress: A Comprehensive Guide](https://dev.to/aswani25/testing-sms-in-cypress-a-comprehensive-guide-1eo7)
+- [Is Anyone Working with Facebook Graph API?](https://dev.to/shahid_alibutt_c3dd51cc9/is-anyone-working-with-facebook-graph-api-1ddm)
+- [The Complete Guide to Successful Cloud Migration: Strategies and Best Practices](https://dev.to/marutitech/the-complete-guide-to-successful-cloud-migration-strategies-and-best-practices-403p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
