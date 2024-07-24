@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My first single file webpage I have no idea if this is right so pls give me some feedback](https://dev.to/barirah/my-first-single-file-webpage-i-have-no-idea-if-this-is-right-so-pls-give-me-some-feedback-1l5j)
-- [Adding A Confirmation Interstitial On Create in REST](https://dev.to/mdchaney/adding-a-confirmation-interstitial-on-create-in-rest-4an0)
-- [Protecting Your JavaScript Applications from DOM-based XSS Attacks](https://dev.to/rigalpatel001/protecting-your-javascript-applications-from-dom-based-xss-attacks-j0c)
-- [Dive into the World of Algorithms and Data Structures with C! 🚀](https://dev.to/getvm/dive-into-the-world-of-algorithms-and-data-structures-with-c-ice)
-- [CSS Transitions and Transformations](https://dev.to/tailwine/css-transitions-and-transformations-55dc)
+- [Future-Proof Your App: Scalability Considerations for Long-Term Success](https://dev.to/marutitech/future-proof-your-app-scalability-considerations-for-long-term-success-4cl4)
+- [Comment system: API Gateway &amp; DynamoDB Integration in Pulumi](https://dev.to/itzsrikanth/comment-system-api-gateway-dynamodb-integration-in-pulumi-46l4)
+- [Hi Everyone!!!](https://dev.to/sukeerth_jonathan/hi-everyone-51e2)
+- [PACX ⁓ WebResource Management Commands - Create JS](https://dev.to/_neronotte/pacx-webresource-management-commands-create-js-40if)
+- [How to build Google calendar clone with React &lpar;Week view&rpar;](https://dev.to/cookiemonsterdev/how-to-build-google-calendar-clone-with-react-week-view-b25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
