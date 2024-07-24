@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a devopsfetch tool for Server Information Retrieval and Monitoring](https://dev.to/udoh_deborah_b1e484c474bf/building-a-devopsfetch-tool-for-server-information-retrieval-and-monitoring-8ea)
-- [Github API integration project /Automating Github](https://dev.to/kartik_p/github-api-integration-project-automating-github-4ph8)
-- [Stack va Heap: Umumiy Tasavvur](https://dev.to/islomali99/stack-va-heap-umumiy-tasavvur-1nbi)
-- [How to setup IPv6 Only EC2 Instance in AWS](https://dev.to/praveenkumarkece/how-to-setup-ipv6-only-ec2-instance-in-aws-38kp)
-- [Understanding Value Types &lpar;Project Valhalla&rpar;](https://dev.to/adaumircosta/understanding-value-types-project-valhalla-faf)
+- [Building Your First React Native App: A Step-by-Step Guide](https://dev.to/birajgtm/building-your-first-react-native-app-a-step-by-step-guide-1ibe)
+- [100% Automating Pages With AJAX Using WebFormsJS](https://dev.to/elanatframework/100-automating-pages-with-ajax-using-webformsjs-38c5)
+- [North Korean State Actors Exploit Open Source Supply Chain via Malicious npm Package](https://dev.to/stacklok/north-korean-state-actors-exploit-open-source-supply-chain-via-malicious-npm-package-4obc)
+- [Day 996 : No Flash](https://dev.to/dwane/day-996-no-flash-2k73)
+- [Generating GPG Keys and Signing Commits](https://dev.to/fariasmateuss/generating-gpg-keys-and-signing-commits-j3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
