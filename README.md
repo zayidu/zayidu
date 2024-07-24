@@ -7,11 +7,11 @@
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing ServBay 1.3.9: More Features, Smoother Experience! 🚀](https://dev.to/servbay/announcing-servbay-139-more-features-smoother-experience-4c9d)
-- [Product Software vs. Project Software: Understanding the Differences &amp; STLC](https://dev.to/michael_chepala_7267688a0/product-software-vs-project-software-understanding-the-differences-stlc-2n)
-- [Enhancing Kubernetes Security with Trivy : Day 15 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/enhancing-kubernetes-security-with-trivy-day-15-of-50-days-devops-tools-series-1f43)
-- [Why Data Replication is Important](https://dev.to/mydbsync/why-data-replication-is-important-1pn1)
-- [How to Launch a Simple Website on AWS EC2: A Step-by-Step Guide](https://dev.to/usamabhatti7/how-to-launch-a-simple-website-on-aws-ec2-a-step-by-step-guide-407i)
+- [Python: From Beginners to Pro &lpar;Project Part&rpar;](https://dev.to/scofieldidehen/python-from-beginners-to-pro-project-part-h9e)
+- [JSW ONE Platform SDE-1 Interview Experiance](https://dev.to/ssh3/jsw-one-platform-sde-1-interview-experiance-5fh0)
+- [Reviewed Algorithmic Thinking by Building a Dice 🎲 Game](https://dev.to/mrigank_bhardwaj1304/reviewed-algorithmic-thinking-by-building-a-dice-game-ln2)
+- [My favorite DORA &lpar;metric&rpar;](https://dev.to/ma1eharshil/my-favorite-dora-metric-3pbe)
+- [¿Que es python?](https://dev.to/ludloops/que-es-python-385l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
