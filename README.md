@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Google Cloud Platform Pricing | AI/ML Pricing on Google Cloud Platform](https://dev.to/ddeveloperr/understanding-google-cloud-platform-pricing-gcp-pricing-59h4)
-- [Implementing AWS CloudFront with Multiple Origin Cache Behavior using Terraform](https://dev.to/chinmay13/implementing-aws-cloudfront-with-multiple-origin-cache-behavior-using-terraform-4i51)
-- [How AI Changed Developer Lives](https://dev.to/jay818/how-ai-changed-developer-lives-1b0o)
-- [Unlock Your Docker Mastery with the &#39;Docker In-Depth Mastery&#39; Course](https://dev.to/labex/unlock-your-docker-mastery-with-the-docker-in-depth-mastery-course-3319)
-- [Porting Your Android App from Google Play Billing to Amazon &lpar;While Enjoying Pizza&rpar;](https://dev.to/amazonappdev/porting-your-android-app-from-google-play-billing-to-amazon-while-enjoying-pizza-4m67)
+- [Create a tic-tac-toe game in React.js](https://dev.to/aneeqakhan/create-a-tic-tac-toe-game-in-reactjs-66p)
+- [“Is Learning to Code Difficult? Here’s What You Should Know”](https://dev.to/harikanure/is-learning-to-code-difficult-heres-what-you-should-know-1b6h)
+- [Open Source and Ownership](https://dev.to/opensourceadvocate/open-source-and-ownership-2m4i)
+- [Which custom hooks library do you prefer the most?](https://dev.to/scriptkavi/which-custom-hooks-library-do-you-prefer-the-most-dm8)
+- [NEWBIE](https://dev.to/anuoluwam/newbie-57om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
