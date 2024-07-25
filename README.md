@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Master SQL Querying.](https://dev.to/fullstackdev/a-comprehensive-guide-to-master-sql-querying-12ai)
-- [Agente de soporte de viajes con WhatsApp potenciado por RAG PostreSQL en 4 pasos.](https://dev.to/aws-espanol/agente-de-soporte-de-viajes-con-whatsapp-potenciado-por-rag-postresql-en-4-pasos-273n)
-- [WebP to AVIF: A Guide to Modern Image Formats and Conversion](https://dev.to/msmith99994/webp-to-avif-a-guide-to-modern-image-formats-and-conversion-4gl7)
-- [How to Implement Localization in a Spring Boot Application with Dynamic Language Switching](https://dev.to/t9/how-to-implement-localization-in-a-spring-boot-application-with-dynamic-language-switching-1eh6)
-- [How to automate deployment of applications to Kubernetes cluster using GitHub Actions](https://dev.to/ronilsonalves/how-to-automate-deployment-of-applications-to-kubernetes-cluster-using-github-actions-4g10)
+- [What If CrowdStrike Used APItoolkit Instead?](https://dev.to/irhose/what-if-crowdstrike-used-apitoolkit-2bpe)
+- [The OSI Model: A Comprehensive Overview](https://dev.to/m__mdy__m/the-osi-model-a-comprehensive-overview-52j5)
+- [100 Days of Cloud: Day 10 – Building a Paystack Webhook with Google Apps Script](https://dev.to/tutorialhelldev/100-days-of-cloud-day-10-building-a-paystack-webhook-with-google-apps-script-ik9)
+- [My first 10 years in the world of development](https://dev.to/cadienvan/my-first-10-years-in-the-world-of-development-2l4j)
+- [AVIF to GIF: A Guide to Converting Modern Image Formats](https://dev.to/msmith99994/avif-to-gif-a-guide-to-converting-modern-image-formats-2n7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
