@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create an Engaging React PDF Viewer: a Step-by-Step Guide](https://dev.to/fileforge/create-an-engaging-react-pdf-viewer-a-step-by-step-guide-1hdl)
-- [What are your thoughts on the Rails community?](https://dev.to/nickytonline/what-are-your-thoughts-on-the-rails-community-3p3o)
-- [DAY 8 PROJECT: FEEDBACK UI PAGE](https://dev.to/shrishti_srivastava_/day-8-project-feedback-ui-page-2546)
-- [Flutter: Replace your app icon easily](https://dev.to/arcawebch/flutter-replace-your-app-icon-easily-fb5)
-- [How to deal with the Frankenstein Software Monster](https://dev.to/kalisen/how-to-deal-with-the-frankenstein-software-monster-1jnc)
+- [Intro to Stellar: Get Started in Rust, Set Up Your Development Environment, and Write Your First Smart Contract](https://dev.to/stellar/intro-to-stellar-get-started-in-rust-set-up-your-development-environment-and-write-your-first-smart-contract-2gnp)
+- [Understanding and Implementing Memoization in React](https://dev.to/dipakahirav/understanding-and-implementing-memoization-in-react-39l4)
+- [3 Ways to add Dynamic CSS Custom Properties in Angular](https://dev.to/brianmtreese/3-ways-to-add-dynamic-css-custom-properties-in-angular-4ng4)
+- [Fator Humano por trás dos erros de configuração na nuvem AWS e como evitá-los](https://dev.to/_marceloadriano/fator-humano-por-tras-dos-erros-de-configuracao-na-nuvem-aws-e-como-evita-los-1j7m)
+- [KPIs vs. OKRs: Key Differences](https://dev.to/bryany/kpis-vs-okrs-key-differences-1dc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
