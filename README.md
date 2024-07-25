@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [De Figma para React: Aprimorando o desenvolvimento de UI com Codia AI](https://dev.to/dougsource/de-figma-para-react-aprimorando-o-desenvolvimento-de-ui-com-codia-ai-2oh3)
-- [Building and Running a Node.js Application: A Guide to Using build and start Scripts](https://dev.to/birajgtm/building-and-running-a-nodejs-application-a-guide-to-using-build-and-start-scripts-e38)
-- [3D Rotating Sphere](https://dev.to/dan52242644dan/3d-rotating-sphere-1i8o)
-- [Mastering SwiftUI: A Beginner&#39;s Guide to Building Modern iOS Apps](https://dev.to/birajgtm/mastering-swiftui-a-beginners-guide-to-building-modern-ios-apps-4dg6)
-- [Introduction to React Context API](https://dev.to/kartikmehta8/introduction-to-react-context-api-467o)
+- [A Step-by-Step Guide to Creating and Verifying Factories in Rails](https://dev.to/alexandrecalaca/a-step-by-step-guide-to-creating-and-verifying-factories-in-rails-1m48)
+- [Top 8 Best Crypto Games Based on the TON Network](https://dev.to/cryptogem/top-8-best-crypto-games-based-on-the-ton-network-34ok)
+- [TypeScript](https://dev.to/alamfatima1999/typescript-3iac)
+- [Today&#39;s Trending Projects: Query Teacher Salary Using PreparedStatement and More](https://dev.to/labex/todays-trending-projects-query-teacher-salary-using-preparedstatement-and-more-25ck)
+- [Lite-XL과 함께한 5일](https://dev.to/teminian/lite-xlgwa-hamggehan-5il-453b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
