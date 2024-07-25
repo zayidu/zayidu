@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Alternatives to Docker Desktop](https://dev.to/shohams/5-alternatives-to-docker-desktop-46am)
-- [CSS Magic: Elegant One-Liners](https://dev.to/koolkamalkishor/css-magic-elegant-one-liners-2pm7)
-- [Achieving a Perfect Lighthouse Score: A Comprehensive Guide](https://dev.to/koolkamalkishor/achieving-a-perfect-lighthouse-score-a-comprehensive-guide-1ai8)
-- [Displaying Table Columns and NULL Constraints in SQL](https://dev.to/msnmongare/displaying-table-columns-and-null-constraints-in-sql-3db2)
-- [Preventing Remote Code Execution &lpar;RCE&rpar; Attacks in JavaScript Applications](https://dev.to/rigalpatel001/preventing-remote-code-execution-rce-attacks-in-javascript-applications-ob5)
+- [An Introduction to SQL Stored Procedures](https://dev.to/dbvismarketing/an-introduction-to-sql-stored-procedures-41h)
+- [The easiest guide to generate PDF📜 using Prawn in your Rails project](https://dev.to/pimp_my_ruby/the-easiest-guide-to-generate-pdf-using-prawn-in-your-rails-project-oh3)
+- [Difference between == and ===, that you don&#39;t know yet! 🔥](https://dev.to/alisamir/difference-between-and-that-you-dont-know-yet-2gko)
+- [Create A Good README File](https://dev.to/alisamir/create-a-good-readme-file-1h8k)
+- [Connecting HTML form on google sites to a google Spreadsheet](https://dev.to/adedeji_daniel_1facf1c3f7/connecting-html-form-on-google-sites-to-a-google-spreadsheet-47li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
