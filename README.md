@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Compelling Reasons to Use TypeScript with React in 2024: A Developer&#39;s Guide](https://dev.to/vyan/10-compelling-reasons-to-use-typescript-with-react-in-2024-a-developers-guide-3cpp)
-- [Dive into the Spark-tacular World of Data Analytics! 🚀](https://dev.to/getvm/dive-into-the-spark-tacular-world-of-data-analytics-258h)
-- [Use SQLite as a Celery broker in Django](https://dev.to/tylerlwsmith/use-sqlite-as-a-celery-broker-in-django-1jne)
-- [Creating Custom Bootstrap Themes](https://dev.to/tailwine/creating-custom-bootstrap-themes-49eb)
-- [PlantUML to compute diagrams!](https://dev.to/dragondive/plantuml-to-compute-diagrams-4e76)
+- [5 Alternatives to Docker Desktop](https://dev.to/shohams/5-alternatives-to-docker-desktop-46am)
+- [CSS Magic: Elegant One-Liners](https://dev.to/koolkamalkishor/css-magic-elegant-one-liners-2pm7)
+- [Achieving a Perfect Lighthouse Score: A Comprehensive Guide](https://dev.to/koolkamalkishor/achieving-a-perfect-lighthouse-score-a-comprehensive-guide-1ai8)
+- [Displaying Table Columns and NULL Constraints in SQL](https://dev.to/msnmongare/displaying-table-columns-and-null-constraints-in-sql-3db2)
+- [Preventing Remote Code Execution &lpar;RCE&rpar; Attacks in JavaScript Applications](https://dev.to/rigalpatel001/preventing-remote-code-execution-rce-attacks-in-javascript-applications-ob5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
