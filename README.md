@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Nuxt SSR, how does it work, why is it needed, and what is the benefit of SEO?](https://dev.to/javokhirbekkhaydarov/what-is-nuxt-ssr-how-does-it-work-why-is-it-needed-and-what-is-the-benefit-of-seo-59hh)
-- [Golang Concurrency: A Fun and Fast Ride](https://dev.to/ashsajal/golang-concurrency-a-fun-and-fast-ride-1pjj)
-- [[Roast: Day 8] - Rethinking Application Design](https://dev.to/nmiller15/roast-day-8-rethinking-application-design-o99)
-- [The Adventures of Blink Hiatus Post: Join me at the Dev Marketing Alliance!](https://dev.to/linkbenjamin/the-adventures-of-blink-hiatus-post-join-me-at-the-dev-marketing-alliance-100d)
-- [Python is a versatile language and you can indeed use it for web development](https://dev.to/olatunjiayodel9/python-is-a-versatile-language-and-you-can-indeed-use-it-for-web-development-38f2)
+- [Inline Save and Add Another with Rails and Hotwire](https://dev.to/railsdesigner/inline-save-and-add-another-with-rails-and-hotwire-501m)
+- [Creating a CSV to Graph Generator App Using ToolJet and Python Libraries 🚀](https://dev.to/tooljet/creating-a-csv-to-graph-generator-app-using-tooljet-and-python-libraries-18nb)
+- [JavaScript and HTML](https://dev.to/ark7/javascript-and-html-1d14)
+- [Migrating MySQL Database to PostgreSQL with SQL Tools](https://dev.to/senkae_ll/migrating-mysql-database-to-postgresql-with-sql-tools-315o)
+- [Redis for query caching](https://dev.to/asepwhite/redis-for-query-caching-31o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
