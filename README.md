@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Differentiating rate limits in Apache APISIX](https://dev.to/apisix/differentiating-rate-limits-in-apache-apisix-1f96)
-- [React Custom Hooks Best Practices: With Example Usecases](https://dev.to/syakirurahman/react-custom-hooks-best-practices-with-example-usecases-4e2l)
-- [Everything About Account Abstraction: Enhanced Web3 Wallets Drive Crypto Adoption, Fuse’s TradFi-Web3 Vision](https://dev.to/alexandradev/everything-about-account-abstraction-enhanced-web3-wallets-drive-crypto-adoption-fuses-tradfi-web3-vision-2dle)
-- [Is Visual Basic still used in 2024?](https://dev.to/abtosoftware/is-visual-basic-still-used-in-2024-12bc)
-- [Which Certification is Best for AI Engineers?](https://dev.to/georgiaweston/which-certification-is-best-for-ai-engineers-459i)
+- [How to Display All Databases in Various Ways](https://dev.to/devartteam/how-to-display-all-databases-in-various-ways-1h6g)
+- [Python Quick Review](https://dev.to/jumashafara/python-quick-review-4on1)
+- [How to provision an AWS WAF using AWS CDK](https://dev.to/aws-builders/how-to-provision-an-aws-waf-using-aws-cdk-4e67)
+- [What is Static Testing? Tools, Challenges and Benefits](https://dev.to/morrismoses149/what-is-static-testing-tools-challenges-and-benefits-36n5)
+- [Building an eCommerce Website – What Works and What You Should Avoid!](https://dev.to/pepper_square/building-an-ecommerce-website-what-works-and-what-you-should-avoid-2c4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
