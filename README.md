@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a tic-tac-toe game in React.js](https://dev.to/aneeqakhan/create-a-tic-tac-toe-game-in-reactjs-66p)
-- [“Is Learning to Code Difficult? Here’s What You Should Know”](https://dev.to/harikanure/is-learning-to-code-difficult-heres-what-you-should-know-1b6h)
-- [Open Source and Ownership](https://dev.to/opensourceadvocate/open-source-and-ownership-2m4i)
-- [Which custom hooks library do you prefer the most?](https://dev.to/scriptkavi/which-custom-hooks-library-do-you-prefer-the-most-dm8)
-- [NEWBIE](https://dev.to/anuoluwam/newbie-57om)
+- [A Comprehensive Guide to Master SQL Querying.](https://dev.to/fullstackdev/a-comprehensive-guide-to-master-sql-querying-12ai)
+- [Agente de soporte de viajes con WhatsApp potenciado por RAG PostreSQL en 4 pasos.](https://dev.to/aws-espanol/agente-de-soporte-de-viajes-con-whatsapp-potenciado-por-rag-postresql-en-4-pasos-273n)
+- [WebP to AVIF: A Guide to Modern Image Formats and Conversion](https://dev.to/msmith99994/webp-to-avif-a-guide-to-modern-image-formats-and-conversion-4gl7)
+- [How to Implement Localization in a Spring Boot Application with Dynamic Language Switching](https://dev.to/t9/how-to-implement-localization-in-a-spring-boot-application-with-dynamic-language-switching-1eh6)
+- [How to automate deployment of applications to Kubernetes cluster using GitHub Actions](https://dev.to/ronilsonalves/how-to-automate-deployment-of-applications-to-kubernetes-cluster-using-github-actions-4g10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
