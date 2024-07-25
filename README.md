@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [On-call Manual: Boost your career by improving your team&#39;s on-call](https://dev.to/moozzyk/on-call-manual-boost-your-career-by-improving-your-teams-on-call-10ge)
-- [What&#39;s new in developer trends in 2024?](https://dev.to/bengreenberg/whats-new-in-developer-trends-in-2024-138b)
-- [Tactics for multi-step LLM app experimentation](https://dev.to/joschkabraun/tactics-for-multi-step-llm-app-experimentation-5flm)
-- [Am I already getting AI fatigue?](https://dev.to/nosqlknowhow/am-i-already-getting-ai-fatigue-64)
-- [Introduction to Django: A Comprehensive Beginner&#39;s Guide to Backend Web Development](https://dev.to/mohbohlahji/introduction-to-django-a-comprehensive-beginners-guide-to-backend-web-development-mbl)
+- [Understanding Google Cloud Platform Pricing | AI/ML Pricing on Google Cloud Platform](https://dev.to/ddeveloperr/understanding-google-cloud-platform-pricing-gcp-pricing-59h4)
+- [Implementing AWS CloudFront with Multiple Origin Cache Behavior using Terraform](https://dev.to/chinmay13/implementing-aws-cloudfront-with-multiple-origin-cache-behavior-using-terraform-4i51)
+- [How AI Changed Developer Lives](https://dev.to/jay818/how-ai-changed-developer-lives-1b0o)
+- [Unlock Your Docker Mastery with the &#39;Docker In-Depth Mastery&#39; Course](https://dev.to/labex/unlock-your-docker-mastery-with-the-docker-in-depth-mastery-course-3319)
+- [Porting Your Android App from Google Play Billing to Amazon &lpar;While Enjoying Pizza&rpar;](https://dev.to/amazonappdev/porting-your-android-app-from-google-play-billing-to-amazon-while-enjoying-pizza-4m67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
