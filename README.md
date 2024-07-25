@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First React Native App: A Step-by-Step Guide](https://dev.to/birajgtm/building-your-first-react-native-app-a-step-by-step-guide-1ibe)
-- [100% Automating Pages With AJAX Using WebFormsJS](https://dev.to/elanatframework/100-automating-pages-with-ajax-using-webformsjs-38c5)
-- [North Korean State Actors Exploit Open Source Supply Chain via Malicious npm Package](https://dev.to/stacklok/north-korean-state-actors-exploit-open-source-supply-chain-via-malicious-npm-package-4obc)
-- [Day 996 : No Flash](https://dev.to/dwane/day-996-no-flash-2k73)
-- [Generating GPG Keys and Signing Commits](https://dev.to/fariasmateuss/generating-gpg-keys-and-signing-commits-j3e)
+- [De Figma para React: Aprimorando o desenvolvimento de UI com Codia AI](https://dev.to/dougsource/de-figma-para-react-aprimorando-o-desenvolvimento-de-ui-com-codia-ai-2oh3)
+- [Building and Running a Node.js Application: A Guide to Using build and start Scripts](https://dev.to/birajgtm/building-and-running-a-nodejs-application-a-guide-to-using-build-and-start-scripts-e38)
+- [3D Rotating Sphere](https://dev.to/dan52242644dan/3d-rotating-sphere-1i8o)
+- [Mastering SwiftUI: A Beginner&#39;s Guide to Building Modern iOS Apps](https://dev.to/birajgtm/mastering-swiftui-a-beginners-guide-to-building-modern-ios-apps-4dg6)
+- [Introduction to React Context API](https://dev.to/kartikmehta8/introduction-to-react-context-api-467o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
