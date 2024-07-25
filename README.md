@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Display All Databases in Various Ways](https://dev.to/devartteam/how-to-display-all-databases-in-various-ways-1h6g)
-- [Python Quick Review](https://dev.to/jumashafara/python-quick-review-4on1)
-- [How to provision an AWS WAF using AWS CDK](https://dev.to/aws-builders/how-to-provision-an-aws-waf-using-aws-cdk-4e67)
-- [What is Static Testing? Tools, Challenges and Benefits](https://dev.to/morrismoses149/what-is-static-testing-tools-challenges-and-benefits-36n5)
-- [Building an eCommerce Website – What Works and What You Should Avoid!](https://dev.to/pepper_square/building-an-ecommerce-website-what-works-and-what-you-should-avoid-2c4a)
+- [How to Create a Simple Markdown to HTML Converter in Python](https://dev.to/stokry/how-to-create-a-simple-markdown-to-html-converter-in-python-14li)
+- [7 Best JMeter Alternative](https://dev.to/sattyam/7-best-jmeter-alternative-25b4)
+- [The 5 Ways to Ace Most Common Software Engineer Behavioral Interview Questions](https://dev.to/thekarlesi/the-5-ways-to-ace-most-common-software-engineer-behavioral-interview-questions-254c)
+- [Accessibility Considerations with Stacked Cards Custom Layout](https://dev.to/eevajonnapanula/accessibility-considerations-with-stacked-cards-custom-layout-25me)
+- [Mastering Micro-Frontends: Architecting a Modular Frontend Application](https://dev.to/joshuawasike/mastering-micro-frontends-architecting-a-modular-frontend-application-4m89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
