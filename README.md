@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An Introduction to SQL Stored Procedures](https://dev.to/dbvismarketing/an-introduction-to-sql-stored-procedures-41h)
-- [The easiest guide to generate PDF📜 using Prawn in your Rails project](https://dev.to/pimp_my_ruby/the-easiest-guide-to-generate-pdf-using-prawn-in-your-rails-project-oh3)
-- [Difference between == and ===, that you don&#39;t know yet! 🔥](https://dev.to/alisamir/difference-between-and-that-you-dont-know-yet-2gko)
-- [Create A Good README File](https://dev.to/alisamir/create-a-good-readme-file-1h8k)
-- [Connecting HTML form on google sites to a google Spreadsheet](https://dev.to/adedeji_daniel_1facf1c3f7/connecting-html-form-on-google-sites-to-a-google-spreadsheet-47li)
+- [Tips For Writing Clear And Efficient TypeScript Code 💯 - Part #1](https://dev.to/alisamir/tips-for-writing-clear-and-efficient-typescript-code-part-1-1343)
+- [Flutter: Easy Tips for New Builders](https://dev.to/sa9desh/flutter-easy-tips-for-new-builders-1da4)
+- [How Cycle Time Enhances R&amp;D Efficiency](https://dev.to/allenz_1011/how-cycle-time-enhances-rd-efficiency-3ljk)
+- [React SEO Guide: Mastering SEO Strategies](https://dev.to/codeparrot/react-seo-guide-mastering-seo-strategies-36ca)
+- [Fixing Bugs in Flutter: A Simple Guide](https://dev.to/sa9desh/fixing-bugs-in-flutter-a-simple-guide-a1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
