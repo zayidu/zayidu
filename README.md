@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What If CrowdStrike Used APItoolkit Instead?](https://dev.to/irhose/what-if-crowdstrike-used-apitoolkit-2bpe)
-- [The OSI Model: A Comprehensive Overview](https://dev.to/m__mdy__m/the-osi-model-a-comprehensive-overview-52j5)
-- [100 Days of Cloud: Day 10 – Building a Paystack Webhook with Google Apps Script](https://dev.to/tutorialhelldev/100-days-of-cloud-day-10-building-a-paystack-webhook-with-google-apps-script-ik9)
-- [My first 10 years in the world of development](https://dev.to/cadienvan/my-first-10-years-in-the-world-of-development-2l4j)
-- [AVIF to GIF: A Guide to Converting Modern Image Formats](https://dev.to/msmith99994/avif-to-gif-a-guide-to-converting-modern-image-formats-2n7m)
+- [[Rust]How to make string handing to frontend on tauri app](https://dev.to/nk_maker/rusthow-to-make-string-handing-to-frontend-on-tauri-app-4h2c)
+- [Day 997 : The Mission](https://dev.to/dwane/day-997-the-mission-1flj)
+- [QUICK UPDATE](https://dev.to/kevinpalma21/quick-update-5apk)
+- [I built a React Native boilerplate to ship your apps faster](https://dev.to/rudolfsrijkuris/i-built-a-react-native-boilerplate-to-ship-your-apps-faster-fln)
+- [Mastering Sealed Classes in Java](https://dev.to/adaumircosta/mastering-sealed-classes-in-java-3md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
