@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Docker Diff: Usage and benefits](https://dev.to/fernandomullerjr/mastering-docker-diff-usage-and-benefits-19kj)
-- [Automate Upstream Branch Creation in Git](https://dev.to/labex/automate-upstream-branch-creation-in-git-2750)
-- [How to Increase Organic Website Traffic and Get SEO-Friendly Backlinks](https://dev.to/juddiy/how-to-increase-organic-website-traffic-and-get-seo-friendly-backlinks-338e)
-- [167. Two Sum II - Input Array Is Sorted](https://dev.to/whereislijah/167-two-sum-ii-input-array-is-sorted-4llo)
-- [#33 — Find The Differences Between Contents of Two Cells](https://dev.to/judith677/33-find-the-differences-between-contents-of-two-cells-hh2)
+- [10 Compelling Reasons to Use TypeScript with React in 2024: A Developer&#39;s Guide](https://dev.to/vyan/10-compelling-reasons-to-use-typescript-with-react-in-2024-a-developers-guide-3cpp)
+- [Dive into the Spark-tacular World of Data Analytics! 🚀](https://dev.to/getvm/dive-into-the-spark-tacular-world-of-data-analytics-258h)
+- [Use SQLite as a Celery broker in Django](https://dev.to/tylerlwsmith/use-sqlite-as-a-celery-broker-in-django-1jne)
+- [Creating Custom Bootstrap Themes](https://dev.to/tailwine/creating-custom-bootstrap-themes-49eb)
+- [PlantUML to compute diagrams!](https://dev.to/dragondive/plantuml-to-compute-diagrams-4e76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
