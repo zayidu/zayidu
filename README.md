@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Intro to Stellar: Get Started in Rust, Set Up Your Development Environment, and Write Your First Smart Contract](https://dev.to/stellar/intro-to-stellar-get-started-in-rust-set-up-your-development-environment-and-write-your-first-smart-contract-2gnp)
-- [Understanding and Implementing Memoization in React](https://dev.to/dipakahirav/understanding-and-implementing-memoization-in-react-39l4)
-- [3 Ways to add Dynamic CSS Custom Properties in Angular](https://dev.to/brianmtreese/3-ways-to-add-dynamic-css-custom-properties-in-angular-4ng4)
-- [Fator Humano por trás dos erros de configuração na nuvem AWS e como evitá-los](https://dev.to/_marceloadriano/fator-humano-por-tras-dos-erros-de-configuracao-na-nuvem-aws-e-como-evita-los-1j7m)
-- [KPIs vs. OKRs: Key Differences](https://dev.to/bryany/kpis-vs-okrs-key-differences-1dc1)
+- [On-call Manual: Boost your career by improving your team&#39;s on-call](https://dev.to/moozzyk/on-call-manual-boost-your-career-by-improving-your-teams-on-call-10ge)
+- [What&#39;s new in developer trends in 2024?](https://dev.to/bengreenberg/whats-new-in-developer-trends-in-2024-138b)
+- [Tactics for multi-step LLM app experimentation](https://dev.to/joschkabraun/tactics-for-multi-step-llm-app-experimentation-5flm)
+- [Am I already getting AI fatigue?](https://dev.to/nosqlknowhow/am-i-already-getting-ai-fatigue-64)
+- [Introduction to Django: A Comprehensive Beginner&#39;s Guide to Backend Web Development](https://dev.to/mohbohlahji/introduction-to-django-a-comprehensive-beginners-guide-to-backend-web-development-mbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
