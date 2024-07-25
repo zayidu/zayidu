@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Step-by-Step Guide to Creating and Verifying Factories in Rails](https://dev.to/alexandrecalaca/a-step-by-step-guide-to-creating-and-verifying-factories-in-rails-1m48)
-- [Top 8 Best Crypto Games Based on the TON Network](https://dev.to/cryptogem/top-8-best-crypto-games-based-on-the-ton-network-34ok)
-- [TypeScript](https://dev.to/alamfatima1999/typescript-3iac)
-- [Today&#39;s Trending Projects: Query Teacher Salary Using PreparedStatement and More](https://dev.to/labex/todays-trending-projects-query-teacher-salary-using-preparedstatement-and-more-25ck)
-- [Lite-XL과 함께한 5일](https://dev.to/teminian/lite-xlgwa-hamggehan-5il-453b)
+- [Why React Native is a Good Choice for Cross-Platform Native App Development](https://dev.to/mandeepneupane/why-react-native-is-a-good-choice-for-cross-platform-native-app-development-17eb)
+- [8 Essential Skills for Successful Macro Management](https://dev.to/bryany/8-essential-skills-for-successful-macro-management-1842)
+- [Comandos Linux para analisar ataques DDoS](https://dev.to/fernandomullerjr/comandos-linux-para-analisar-ataques-ddos-1ib)
+- [Practical use of TCO and Pricing Calculator for Cost Management.](https://dev.to/emeka_moses_c752f2bdde061/practical-use-of-tco-and-pricing-calculator-for-cost-management-5a74)
+- [Beyond Code: 6 Lessons I Learned the Hard Way in Tech](https://dev.to/acehand/beyond-code-6-lessons-i-learned-the-hard-way-in-tech-1fi4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
