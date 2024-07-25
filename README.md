@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Simple Markdown to HTML Converter in Python](https://dev.to/stokry/how-to-create-a-simple-markdown-to-html-converter-in-python-14li)
-- [7 Best JMeter Alternative](https://dev.to/sattyam/7-best-jmeter-alternative-25b4)
-- [The 5 Ways to Ace Most Common Software Engineer Behavioral Interview Questions](https://dev.to/thekarlesi/the-5-ways-to-ace-most-common-software-engineer-behavioral-interview-questions-254c)
-- [Accessibility Considerations with Stacked Cards Custom Layout](https://dev.to/eevajonnapanula/accessibility-considerations-with-stacked-cards-custom-layout-25me)
-- [Mastering Micro-Frontends: Architecting a Modular Frontend Application](https://dev.to/joshuawasike/mastering-micro-frontends-architecting-a-modular-frontend-application-4m89)
+- [What is Nuxt SSR, how does it work, why is it needed, and what is the benefit of SEO?](https://dev.to/javokhirbekkhaydarov/what-is-nuxt-ssr-how-does-it-work-why-is-it-needed-and-what-is-the-benefit-of-seo-59hh)
+- [Golang Concurrency: A Fun and Fast Ride](https://dev.to/ashsajal/golang-concurrency-a-fun-and-fast-ride-1pjj)
+- [[Roast: Day 8] - Rethinking Application Design](https://dev.to/nmiller15/roast-day-8-rethinking-application-design-o99)
+- [The Adventures of Blink Hiatus Post: Join me at the Dev Marketing Alliance!](https://dev.to/linkbenjamin/the-adventures-of-blink-hiatus-post-join-me-at-the-dev-marketing-alliance-100d)
+- [Python is a versatile language and you can indeed use it for web development](https://dev.to/olatunjiayodel9/python-is-a-versatile-language-and-you-can-indeed-use-it-for-web-development-38f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
