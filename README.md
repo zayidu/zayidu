@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tips For Writing Clear And Efficient TypeScript Code 💯 - Part #1](https://dev.to/alisamir/tips-for-writing-clear-and-efficient-typescript-code-part-1-1343)
-- [Flutter: Easy Tips for New Builders](https://dev.to/sa9desh/flutter-easy-tips-for-new-builders-1da4)
-- [How Cycle Time Enhances R&amp;D Efficiency](https://dev.to/allenz_1011/how-cycle-time-enhances-rd-efficiency-3ljk)
-- [React SEO Guide: Mastering SEO Strategies](https://dev.to/codeparrot/react-seo-guide-mastering-seo-strategies-36ca)
-- [Fixing Bugs in Flutter: A Simple Guide](https://dev.to/sa9desh/fixing-bugs-in-flutter-a-simple-guide-a1c)
+- [Differentiating rate limits in Apache APISIX](https://dev.to/apisix/differentiating-rate-limits-in-apache-apisix-1f96)
+- [React Custom Hooks Best Practices: With Example Usecases](https://dev.to/syakirurahman/react-custom-hooks-best-practices-with-example-usecases-4e2l)
+- [Everything About Account Abstraction: Enhanced Web3 Wallets Drive Crypto Adoption, Fuse’s TradFi-Web3 Vision](https://dev.to/alexandradev/everything-about-account-abstraction-enhanced-web3-wallets-drive-crypto-adoption-fuses-tradfi-web3-vision-2dle)
+- [Is Visual Basic still used in 2024?](https://dev.to/abtosoftware/is-visual-basic-still-used-in-2024-12bc)
+- [Which Certification is Best for AI Engineers?](https://dev.to/georgiaweston/which-certification-is-best-for-ai-engineers-459i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
