@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to deploy a Next.js app to a VPS on Hetzner using Docker and GitHub Actions](https://dev.to/prudkohliad/how-to-deploy-a-nextjs-app-to-a-vps-on-hetzner-using-docker-and-github-actions-2iae)
-- [Crafting Adaptive UX Across Diverse Devices: Strategies for IoT Software Development](https://dev.to/yetillc/crafting-adaptive-ux-across-diverse-devices-strategies-for-iot-software-development-3hmf)
-- [React ChatBotify v2 Beta Release: What’s Changed, What’s New and What’s Next?](https://dev.to/tjtanjin/react-chatbotify-v2-beta-release-whats-changed-whats-new-and-whats-next-a6n)
-- [Crafting Custom Career Development Matrices for the Tech Industry: A Step by Step Guide](https://dev.to/yetillc/crafting-custom-career-development-matrices-for-the-tech-industry-a-step-by-step-guide-38l2)
-- [The Hidden Costs of Rushing to Market: Navigating Tech Debt](https://dev.to/yetillc/the-hidden-costs-of-rushing-to-market-navigating-tech-debt-15pk)
+- [Day 998 : Bittersweet](https://dev.to/dwane/day-998-bittersweet-3lc6)
+- [🐝 ✉️ Using MailHog in Wasp](https://dev.to/medardm/using-mailhog-in-wasp-4n2p)
+- [TypeScript ✔ vs JavaScript ❌ : How TypeScript Outshines JavaScript](https://dev.to/sheraz4194/typescript-vs-javascript-how-typescript-outshines-javascript-17mf)
+- [Handling JSON Data in Python](https://dev.to/koladev/handling-json-data-in-python-4lii)
+- [Glitched Text &lpar;study of The Verge&rpar;](https://dev.to/rizki_gg_588cc6f011f3f4b6/glitched-text-study-of-the-verge-4pjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
