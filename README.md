@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock the Secrets to Writing Clean JavaScript Code: Transform Your Development Skills with These Expert Techniques!](https://dev.to/aurangzaibramzan/unlock-the-secrets-to-writing-clean-javascript-code-transform-your-development-skills-with-these-expert-techniques-41lj)
-- [The Role of Trees, Soil, and Wetlands in Mitigating Greenhouse Gases](https://dev.to/joshuawasike/the-role-of-trees-soil-and-wetlands-in-mitigating-greenhouse-gases-56pn)
-- [How to Create a Live Streaming App with Flutter.](https://dev.to/stephen568hub/how-to-create-a-live-streaming-app-with-flutter-1b91)
-- [Understanding Closures in JavaScript: A Comprehensive Guide](https://dev.to/prinxard/understanding-closures-in-javascript-a-comprehensive-guide-1ke9)
-- [Mastering Git: An In-Depth Guide](https://dev.to/kumarshivam1998/mastering-git-an-in-depth-guide-53lp)
+- [XGBoost: The Superpower of Gradient Boosting](https://dev.to/aquibpy/xgboost-the-superpower-of-gradient-boosting-519h)
+- [Understanding the Core of SOLID Principles in Object-Oriented Programming](https://dev.to/jignect_technologies/understanding-the-core-of-solid-principles-in-object-oriented-programming-2126)
+- [The Impact of Soil Burning on Bean Growth: Unveiling the Benefits and Mechanisms](https://dev.to/joshuawasike/the-impact-of-soil-burning-on-bean-growth-unveiling-the-benefits-and-mechanisms-29ca)
+- [Etherspot &amp; Rooba Finance: Transforming Real Estate Tokenization with Account Abstraction](https://dev.to/etherspot/etherspot-rooba-finance-transforming-real-estate-tokenization-with-account-abstraction-5012)
+- [2 Minutes to Liferay CE using Docker Desktop](https://dev.to/ajeetraina/2-minutes-to-liferay-ce-using-docker-desktop-2e9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
