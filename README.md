@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating MediaElement.js into a Custom HTML5 Video Player](https://dev.to/sh20raj/integrating-mediaelementjs-into-a-custom-html5-video-player-390p)
-- [How to Integrate Intelligent Document Processing into Your Business Workflow?](https://dev.to/lokeshjoshi/how-to-integrate-intelligent-document-processing-into-your-business-workflow-3b8d)
-- [NestJS Testing Simplified &lpar;Video series&rpar;](https://dev.to/tkssharma/nestjs-testing-simplified-video-series-54e9)
-- [Data Modelling for Multi tenancy apps.](https://dev.to/brightonmboya/data-modelling-for-multi-tenancy-apps-hob)
-- [What would you consider in mind while writing code in Java Application?](https://dev.to/farheen_sk/what-would-you-consider-in-mind-while-writing-code-in-java-application-ge7)
+- [Why you should try React Query?](https://dev.to/codeparrot/why-you-should-try-react-query-5d0g)
+- [10 Essential Mobile App Development Trends for 2024](https://dev.to/theintellify1/10-essential-mobile-app-development-trends-for-2024-40cp)
+- [Exploring the Benefits and Challenges of Virtual Reality &lpar;VR&rpar; in Project Planning and Simulation](https://dev.to/joshuawasike/exploring-the-benefits-and-challenges-of-virtual-reality-vr-in-project-planning-and-simulation-4of0)
+- [Moving from Create-React-App to Vite for Web3Auth Projects](https://dev.to/shahbaz17/moving-from-create-react-app-to-vite-for-web3auth-projects-4nce)
+- [Unlocking Your Coding Potential: A Completion of Python Courses in Kochi](https://dev.to/liya4/unlocking-your-coding-potential-a-completion-of-python-courses-in-kochi-43a9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
