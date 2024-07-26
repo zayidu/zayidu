@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Quest for Performance Part I : Inline C, OpenMP and the Perl Data Language &lpar;PDL&rpar;](https://dev.to/chrisarg/the-quest-for-performance-part-i-inline-c-openmp-and-the-perl-data-language-pdl-48be)
-- [What is Artificial Intelligence and Why It Matters in 2024 by Mike Savage](https://dev.to/savagenewcanaan/what-is-artificial-intelligence-and-why-it-matters-in-2024-by-mike-savage-3i24)
-- [First Day to Code](https://dev.to/kshitizzanand/zebras-shitting-crayons-3oa9)
-- [Understanding Hoisting in JavaScript](https://dev.to/readwanmd/understanding-hoisting-in-javascript-h78)
-- [Apollo GraphQL Integration in Jetpack Compose](https://dev.to/azzamaddouri/apollo-graphql-integration-in-jetpack-compose-3ij3)
+- [Choosing a Cloud Provider: Deep Considerations for the Experienced DevOps Professional](https://dev.to/target-ops/choosing-a-cloud-provider-deep-considerations-for-the-experienced-devops-professional-37ed)
+- [The Magic of Flask Login](https://dev.to/gasparericmartin/the-magic-of-flask-login-4df8)
+- [Good Practices Using Node.js + Sequelize with TypeScript](https://dev.to/luizcalaca/good-practices-using-nodejs-sequelize-with-typescript-275b)
+- [My Journey in Building a Personal Website](https://dev.to/cosminirimescucom/my-journey-in-building-a-personal-website-278i)
+- [2Gview - GitlabCI view like a boss](https://dev.to/target-ops/2gview-gitlabci-view-like-a-boss-3fee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
