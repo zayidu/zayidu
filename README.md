@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-33jf)
-- [java](https://dev.to/santa1701/java-4fbd)
-- [OpenTelemetry - The future is Open](https://dev.to/tobidelly/opentelemetry-the-future-is-open-68j)
-- [Deploying TypeScript Type Definitions for Umbraco v14 Packages](https://dev.to/mattbrailsford/deploying-typescript-type-definitions-for-umbraco-v14-packages-5eg4)
-- [Tech AI Fridays](https://dev.to/techdogs_inc/tech-ai-fridays-58m1)
+- [Integration Testing : Concept](https://dev.to/jay818/integration-testing-concept-k40)
+- [Benefits of Code Reviews for Team Collaboration and Code Quality](https://dev.to/wallacefreitas/benefits-of-code-reviews-for-team-collaboration-and-code-quality-4gco)
+- [Building a Travel Support Agent with RAG and PostgreSQL, Using IaC.](https://dev.to/aws/building-a-travel-support-agent-with-rag-and-postgresql-using-iac-4cbf)
+- [Cypress vs Playwright:In-Depth Comparison](https://dev.to/morrismoses149/cypress-vs-playwrightin-depth-comparison-1fid)
+- [Contact center analytics using AI](https://dev.to/vikas_brilworks/contact-center-analytics-using-ai-1p0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
