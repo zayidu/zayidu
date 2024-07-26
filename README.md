@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chess Player Game 🎉 Building a Vue.js](https://dev.to/kevinmarville/building-a-vuejs-chess-game-2f1)
-- [Day 1: Kicking Off My 21-Day JavaScript Challenge 🚀](https://dev.to/rohit1301/day-1-kicking-off-my-21-day-javascript-challenge-35g6)
-- [Rich Text Trimming Algorithm](https://dev.to/abdulmuminyqn/rich-text-trimming-algorithm-20no)
-- [Understanding Pattern Matching in Java](https://dev.to/adaumircosta/understanding-pattern-matching-in-java-3f0k)
-- [My notes on Andorid optimization. Part 1. Measuring startup time](https://dev.to/theplebdev/my-notes-on-andorid-optimization-part-1-measuring-startup-time-42l3)
+- [Creating a Chrome extension](https://dev.to/sh20raj/creating-a-chrome-extension-nc9)
+- [How to deploy a Next.js app to a VPS on Hetzner using Docker and GitHub Actions](https://dev.to/prudkohliad/how-to-deploy-a-nextjs-app-to-a-vps-on-hetzner-using-docker-and-github-actions-55ch)
+- [Little More Life Cycle Handling](https://dev.to/andrious/little-more-life-cycle-handling-1fp0)
+- [What have I been working on for my docker-like solution native to macOS](https://dev.to/okerew/what-have-i-been-working-on-for-my-docker-like-solution-native-to-macos-256g)
+- [Recommended Project: Creating Interactive Bar Charts with ECharts](https://dev.to/labex/recommended-project-creating-interactive-bar-charts-with-echarts-5ge9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
