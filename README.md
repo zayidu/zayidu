@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 998 : Bittersweet](https://dev.to/dwane/day-998-bittersweet-3lc6)
-- [🐝 ✉️ Using MailHog in Wasp](https://dev.to/medardm/using-mailhog-in-wasp-4n2p)
-- [TypeScript ✔ vs JavaScript ❌ : How TypeScript Outshines JavaScript](https://dev.to/sheraz4194/typescript-vs-javascript-how-typescript-outshines-javascript-17mf)
-- [Handling JSON Data in Python](https://dev.to/koladev/handling-json-data-in-python-4lii)
-- [Glitched Text &lpar;study of The Verge&rpar;](https://dev.to/rizki_gg_588cc6f011f3f4b6/glitched-text-study-of-the-verge-4pjj)
+- [Revolutionize IT Inventory Management with Our Advanced Inventory System](https://dev.to/njabulo240/revolutionize-it-inventory-management-with-our-advanced-inventory-system-4jeb)
+- [Security news weekly round-up - 26th July 2024](https://dev.to/ziizium/security-news-weekly-round-up-26th-july-2024-470d)
+- [SVG vs AVIF](https://dev.to/msmith99994/svg-vs-avif-flc)
+- [JWT Token authorisation in spring boot 3 without any external library](https://dev.to/namantam1/jwt-token-authorisation-in-spring-boot-3-without-any-external-library-3elc)
+- [SVG vs WebP](https://dev.to/msmith99994/svg-vs-webp-g9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
