@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Awesome Open-Source Projects for Developers &lpar;Part 1&rpar;](https://dev.to/nocobase/awesome-open-source-projects-for-developers-part-1-42b8)
-- [Neovim, but it’s in Windows](https://dev.to/vampirepapi/neovim-but-its-in-windows-4mci)
-- [Practical Guide to Creating a Design System](https://dev.to/woovi/practical-guide-to-creating-a-design-system-1b3p)
-- [Export JSON to CSV: a note on CSV and Unicode](https://dev.to/andrewelans/export-json-to-csv-what-is-csv-and-unicode-2341)
-- [Software Engineer Salary in Argentina: An In-Depth Look](https://dev.to/deronward/software-engineer-salary-in-argentina-an-in-depth-look-32ia)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-33jf)
+- [java](https://dev.to/santa1701/java-4fbd)
+- [OpenTelemetry - The future is Open](https://dev.to/tobidelly/opentelemetry-the-future-is-open-68j)
+- [Deploying TypeScript Type Definitions for Umbraco v14 Packages](https://dev.to/mattbrailsford/deploying-typescript-type-definitions-for-umbraco-v14-packages-5eg4)
+- [Tech AI Fridays](https://dev.to/techdogs_inc/tech-ai-fridays-58m1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
