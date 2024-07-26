@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [O que é CRM?](https://dev.to/crija/o-que-e-crm-1kf3)
-- [Step-by-Step Guide to Creating an Azure Virtual Network with Four Subnets](https://dev.to/florence_8042063da11e29d1/step-by-step-guide-to-creating-an-azure-virtual-network-with-four-subnets-4f99)
-- [Automating Kubernetes Security with Kyverno : Day 16 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/automating-kubernetes-security-with-kyverno-day-16-of-50-days-devops-tools-series-8f2)
-- [Print&lpar;&rpar;](https://dev.to/kk_python/print-2a44)
-- [Print&lpar;&rpar;](https://dev.to/kk_python/print-2lbl)
+- [Implement React v18 from Scratch Using WASM and Rust - [20] Implement Context](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-20-implement-context-2h3i)
+- [Top 10 Java Libraries Every Developer Should Know](https://dev.to/mediageneous/top-10-java-libraries-every-developer-should-know-289g)
+- [Boost Your Website&#39;s Google Ranking for Free](https://dev.to/juddiy/boost-your-websites-google-ranking-for-free-55o7)
+- [The Impact of Toxic Positivity on Employee Well-being](https://dev.to/bryany/the-impact-of-toxic-positivity-on-employee-well-being-4ke6)
+- [⚡ MySecondApp - React Native with Expo &lpar;P12&rpar; - Layout Login Phone Screen](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p12-layout-login-phone-screen-3hg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
