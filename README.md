@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Response Mapping in API Integration?](https://dev.to/apidna/what-is-response-mapping-in-api-integration-57o)
-- [Building a Complete IoT Solution Using Azure: Device Registration, Simulation, and Data Routing](https://dev.to/florence_8042063da11e29d1/building-a-complete-iot-solution-using-azure-device-registration-simulation-and-data-routing-58lc)
-- [YaCaC &lpar;Yet another Comment about Comments&rpar;](https://dev.to/pinotattari/yacac-yet-another-comment-about-comments-42jm)
-- [Mathematics for Machine Learning - Day 18](https://dev.to/pourlehommes/mathematics-for-machine-learning-day-18-6ai)
-- [Introducing GPUStack: An open-source GPU cluster manager for running LLMs](https://dev.to/seal-software/introducing-gpustack-an-open-source-gpu-cluster-manager-for-running-llms-2kol)
+- [Chess Player Game 🎉 Building a Vue.js](https://dev.to/kevinmarville/building-a-vuejs-chess-game-2f1)
+- [Day 1: Kicking Off My 21-Day JavaScript Challenge 🚀](https://dev.to/rohit1301/day-1-kicking-off-my-21-day-javascript-challenge-35g6)
+- [Rich Text Trimming Algorithm](https://dev.to/abdulmuminyqn/rich-text-trimming-algorithm-20no)
+- [Understanding Pattern Matching in Java](https://dev.to/adaumircosta/understanding-pattern-matching-in-java-3f0k)
+- [My notes on Andorid optimization. Part 1. Measuring startup time](https://dev.to/theplebdev/my-notes-on-andorid-optimization-part-1-measuring-startup-time-42l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
