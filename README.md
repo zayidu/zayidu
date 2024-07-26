@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Contribute to Open Source Projects](https://dev.to/markliu2013/how-to-contribute-to-open-source-projects-294c)
-- [Modern CSS Layout Techniques: Grid vs. Flexbox](https://dev.to/emmanuelj/modern-css-layout-techniques-grid-vs-flexbox-9f)
-- [What is NodeJS?](https://dev.to/samirabawad/what-is-nodejs-37i5)
-- [My accounts has been Hacked &lpar;compromised&rpar;](https://dev.to/craftingbugs/my-accounts-has-been-hacked-compromised-3o3l)
-- [A Deep Dive into Solidity Visibility Specifiers: Public, Private, Internal, and External](https://dev.to/oxrajesh/a-deep-dive-into-solidity-visibility-specifiers-public-private-internal-and-external-8a)
+- [Choosing the Right API Architecture - A Deep Dive into RESTful API &amp; gRPC Protocols](https://dev.to/getambassador2024/choosing-the-right-api-architecture-a-deep-dive-into-restful-api-grpc-protocols-3475)
+- [What is TAC and What is it For?](https://dev.to/ionegarza/what-is-tac-and-what-is-it-for-5g77)
+- [Create a Warehouse Database In 3 Steps](https://dev.to/domfive/create-a-warehouse-database-in-3-steps-45oc)
+- [Creating test data with Claude Sonnet 3.5](https://dev.to/ashleygraf_/creating-test-data-with-claude-sonnet-35-4b9j)
+- [Reinforcement Learning from Scratch - Part 1 - Tabular Q Learning](https://dev.to/akshayballal/reinforcement-learning-from-scratch-part-1-tabular-q-learning-22k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
