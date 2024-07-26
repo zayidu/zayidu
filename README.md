@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right API Architecture - A Deep Dive into RESTful API &amp; gRPC Protocols](https://dev.to/getambassador2024/choosing-the-right-api-architecture-a-deep-dive-into-restful-api-grpc-protocols-3475)
-- [What is TAC and What is it For?](https://dev.to/ionegarza/what-is-tac-and-what-is-it-for-5g77)
-- [Create a Warehouse Database In 3 Steps](https://dev.to/domfive/create-a-warehouse-database-in-3-steps-45oc)
-- [Creating test data with Claude Sonnet 3.5](https://dev.to/ashleygraf_/creating-test-data-with-claude-sonnet-35-4b9j)
-- [Reinforcement Learning from Scratch - Part 1 - Tabular Q Learning](https://dev.to/akshayballal/reinforcement-learning-from-scratch-part-1-tabular-q-learning-22k3)
+- [Building a Rust Command-Line Utility - wc-rs](https://dev.to/gauravgahlot/building-a-rust-command-line-utility-wc-rs-3ga6)
+- [Oracle Has A Better Generative AI Strategy, What Analysts Say](https://dev.to/astutemarketing/oracle-has-a-better-generative-ai-strategy-what-analysts-say-6jh)
+- [Setting Up Datadog Agent for Nginx Log Collection on AWS EC2](https://dev.to/manojspace/setting-up-datadog-agent-for-nginx-log-collection-on-aws-ec2-1bjj)
+- [Understanding Tdd vs Bdd : A Guide For Developers](https://dev.to/keploy/understanding-tdd-vs-bdd-a-guide-for-developers-5e68)
+- [Understanding Pure Components in React](https://dev.to/code_master/understanding-pure-components-in-react-14le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
