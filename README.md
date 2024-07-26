@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A cleaner node modules ecosystem](https://dev.to/thepassle/a-cleaner-node-modules-ecosystem-13n9)
-- [Permission based components with React&#39;s HOC](https://dev.to/gdstp/permission-based-components-with-reacts-hoc-2ckj)
-- [[Game of Purpose] Day 67](https://dev.to/humberd/game-of-purpose-day-67-cj3)
-- [Sejarah Penemuan Kecerdasan Buatan &lpar;AI&rpar;](https://dev.to/zulfikar_crow/sejarah-penemuan-kecerdasan-buatan-ai-3dc5)
-- [Frontend Challenge August: Cricket League](https://dev.to/kevin-uehara/frontend-challenge-august-cricket-league-4mf3)
+- [AWS Outpost and RDS: Reslotting Checklist](https://dev.to/regis-ud/aws-outpost-and-rds-reslotting-checklist-4o0j)
+- [How to delete entire git commit history?](https://dev.to/axorax/how-to-delete-entire-git-commit-history-35h7)
+- [Don&#39;t ride a donkey when you can drive a brand-new sports car](https://dev.to/themuneebh/dont-ride-a-donkey-when-you-can-drive-a-brand-new-sports-car-4o0)
+- [Express.js needs a funeral](https://dev.to/themuneebh/expressjs-needs-a-funeral-20if)
+- [What Is PNG and JXL? How to Convert PNG to JXL](https://dev.to/msmith99994/what-is-png-and-jxl-how-to-convert-png-to-jxl-1pn4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
