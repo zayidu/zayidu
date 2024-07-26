@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Chrome extension](https://dev.to/sh20raj/creating-a-chrome-extension-nc9)
-- [How to deploy a Next.js app to a VPS on Hetzner using Docker and GitHub Actions](https://dev.to/prudkohliad/how-to-deploy-a-nextjs-app-to-a-vps-on-hetzner-using-docker-and-github-actions-55ch)
-- [Little More Life Cycle Handling](https://dev.to/andrious/little-more-life-cycle-handling-1fp0)
-- [What have I been working on for my docker-like solution native to macOS](https://dev.to/okerew/what-have-i-been-working-on-for-my-docker-like-solution-native-to-macos-256g)
-- [Recommended Project: Creating Interactive Bar Charts with ECharts](https://dev.to/labex/recommended-project-creating-interactive-bar-charts-with-echarts-5ge9)
+- [The Quest for Performance Part I : Inline C, OpenMP and the Perl Data Language &lpar;PDL&rpar;](https://dev.to/chrisarg/the-quest-for-performance-part-i-inline-c-openmp-and-the-perl-data-language-pdl-48be)
+- [What is Artificial Intelligence and Why It Matters in 2024 by Mike Savage](https://dev.to/savagenewcanaan/what-is-artificial-intelligence-and-why-it-matters-in-2024-by-mike-savage-3i24)
+- [First Day to Code](https://dev.to/kshitizzanand/zebras-shitting-crayons-3oa9)
+- [Understanding Hoisting in JavaScript](https://dev.to/readwanmd/understanding-hoisting-in-javascript-h78)
+- [Apollo GraphQL Integration in Jetpack Compose](https://dev.to/azzamaddouri/apollo-graphql-integration-in-jetpack-compose-3ij3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
