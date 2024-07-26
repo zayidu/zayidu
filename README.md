@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 2 - Creating Simple Blog App](https://dev.to/jjayfabor/week-2-creating-simple-blog-app-ie1)
-- [The Key to Successful Deployments: Understanding Your Application&#39;s &quot;Ingredients&quot;](https://dev.to/mibii/the-key-to-successful-deployments-understanding-your-applications-ingredients-4lk0)
-- [Today&#39;s Trending Projects: Statement for Querying Classroom Table and More](https://dev.to/labex/todays-trending-projects-statement-for-querying-classroom-table-and-more-3mdd)
-- [Stack Overflow Survey is out, and what is this??](https://dev.to/webjose/stack-overflow-survey-is-out-and-what-is-this-29e7)
-- [JPG to JXL: A Guide to Converting Modern Image Formats](https://dev.to/msmith99994/jpg-to-jxl-a-guide-to-converting-modern-image-formats-5el3)
+- [O que é CRM?](https://dev.to/crija/o-que-e-crm-1kf3)
+- [Step-by-Step Guide to Creating an Azure Virtual Network with Four Subnets](https://dev.to/florence_8042063da11e29d1/step-by-step-guide-to-creating-an-azure-virtual-network-with-four-subnets-4f99)
+- [Automating Kubernetes Security with Kyverno : Day 16 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/automating-kubernetes-security-with-kyverno-day-16-of-50-days-devops-tools-series-8f2)
+- [Print&lpar;&rpar;](https://dev.to/kk_python/print-2a44)
+- [Print&lpar;&rpar;](https://dev.to/kk_python/print-2lbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
