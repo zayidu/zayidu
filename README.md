@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integration Testing : Concept](https://dev.to/jay818/integration-testing-concept-k40)
-- [Benefits of Code Reviews for Team Collaboration and Code Quality](https://dev.to/wallacefreitas/benefits-of-code-reviews-for-team-collaboration-and-code-quality-4gco)
-- [Building a Travel Support Agent with RAG and PostgreSQL, Using IaC.](https://dev.to/aws/building-a-travel-support-agent-with-rag-and-postgresql-using-iac-4cbf)
-- [Cypress vs Playwright:In-Depth Comparison](https://dev.to/morrismoses149/cypress-vs-playwrightin-depth-comparison-1fid)
-- [Contact center analytics using AI](https://dev.to/vikas_brilworks/contact-center-analytics-using-ai-1p0c)
+- [It’s Time to Move on From Agile Development](https://dev.to/safdarali/its-time-to-move-on-from-agile-development-emp)
+- [Everything You Ever Wanted to Know about Sundials](https://dev.to/pauljlucas/everything-you-ever-wanted-to-know-about-sundials-5h2l)
+- [Game Theory in Action: Pluribus and CFR in Texas Hold&#39;em&lpar;1&rpar; Understanding Nash Equilibrium](https://dev.to/friendneeder/game-theory-in-action-pluribus-and-cfr-in-texas-holdem1-understanding-nash-equilibrium-2nhf)
+- [How to Deploy and Verify a Smart Contract on Mode&#39;s Blockchain using Foundry](https://dev.to/modenetwork/how-to-deploy-and-verify-a-smart-contract-on-modes-blockchain-using-foundry-2p5n)
+- [9 Tips for Building a Secure Web Application with tRPC, Next.js, Prisma, Turbo, and NextAuth](https://dev.to/ktmouk/9-tips-for-building-a-secure-web-application-with-trpc-nextjs-prisma-turbo-and-nextauth-55l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
