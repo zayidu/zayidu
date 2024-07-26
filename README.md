@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Outpost and RDS: Reslotting Checklist](https://dev.to/regis-ud/aws-outpost-and-rds-reslotting-checklist-4o0j)
-- [How to delete entire git commit history?](https://dev.to/axorax/how-to-delete-entire-git-commit-history-35h7)
-- [Don&#39;t ride a donkey when you can drive a brand-new sports car](https://dev.to/themuneebh/dont-ride-a-donkey-when-you-can-drive-a-brand-new-sports-car-4o0)
-- [Express.js needs a funeral](https://dev.to/themuneebh/expressjs-needs-a-funeral-20if)
-- [What Is PNG and JXL? How to Convert PNG to JXL](https://dev.to/msmith99994/what-is-png-and-jxl-how-to-convert-png-to-jxl-1pn4)
+- [Week 2 - Creating Simple Blog App](https://dev.to/jjayfabor/week-2-creating-simple-blog-app-ie1)
+- [The Key to Successful Deployments: Understanding Your Application&#39;s &quot;Ingredients&quot;](https://dev.to/mibii/the-key-to-successful-deployments-understanding-your-applications-ingredients-4lk0)
+- [Today&#39;s Trending Projects: Statement for Querying Classroom Table and More](https://dev.to/labex/todays-trending-projects-statement-for-querying-classroom-table-and-more-3mdd)
+- [Stack Overflow Survey is out, and what is this??](https://dev.to/webjose/stack-overflow-survey-is-out-and-what-is-this-29e7)
+- [JPG to JXL: A Guide to Converting Modern Image Formats](https://dev.to/msmith99994/jpg-to-jxl-a-guide-to-converting-modern-image-formats-5el3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
