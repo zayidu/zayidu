@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing a Cloud Provider: Deep Considerations for the Experienced DevOps Professional](https://dev.to/target-ops/choosing-a-cloud-provider-deep-considerations-for-the-experienced-devops-professional-37ed)
-- [The Magic of Flask Login](https://dev.to/gasparericmartin/the-magic-of-flask-login-4df8)
-- [Good Practices Using Node.js + Sequelize with TypeScript](https://dev.to/luizcalaca/good-practices-using-nodejs-sequelize-with-typescript-275b)
-- [My Journey in Building a Personal Website](https://dev.to/cosminirimescucom/my-journey-in-building-a-personal-website-278i)
-- [2Gview - GitlabCI view like a boss](https://dev.to/target-ops/2gview-gitlabci-view-like-a-boss-3fee)
+- [How to deploy a Next.js app to a VPS on Hetzner using Docker and GitHub Actions](https://dev.to/prudkohliad/how-to-deploy-a-nextjs-app-to-a-vps-on-hetzner-using-docker-and-github-actions-2iae)
+- [Crafting Adaptive UX Across Diverse Devices: Strategies for IoT Software Development](https://dev.to/yetillc/crafting-adaptive-ux-across-diverse-devices-strategies-for-iot-software-development-3hmf)
+- [React ChatBotify v2 Beta Release: What’s Changed, What’s New and What’s Next?](https://dev.to/tjtanjin/react-chatbotify-v2-beta-release-whats-changed-whats-new-and-whats-next-a6n)
+- [Crafting Custom Career Development Matrices for the Tech Industry: A Step by Step Guide](https://dev.to/yetillc/crafting-custom-career-development-matrices-for-the-tech-industry-a-step-by-step-guide-38l2)
+- [The Hidden Costs of Rushing to Market: Navigating Tech Debt](https://dev.to/yetillc/the-hidden-costs-of-rushing-to-market-navigating-tech-debt-15pk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
