@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [XGBoost: The Superpower of Gradient Boosting](https://dev.to/aquibpy/xgboost-the-superpower-of-gradient-boosting-519h)
-- [Understanding the Core of SOLID Principles in Object-Oriented Programming](https://dev.to/jignect_technologies/understanding-the-core-of-solid-principles-in-object-oriented-programming-2126)
-- [The Impact of Soil Burning on Bean Growth: Unveiling the Benefits and Mechanisms](https://dev.to/joshuawasike/the-impact-of-soil-burning-on-bean-growth-unveiling-the-benefits-and-mechanisms-29ca)
-- [Etherspot &amp; Rooba Finance: Transforming Real Estate Tokenization with Account Abstraction](https://dev.to/etherspot/etherspot-rooba-finance-transforming-real-estate-tokenization-with-account-abstraction-5012)
-- [2 Minutes to Liferay CE using Docker Desktop](https://dev.to/ajeetraina/2-minutes-to-liferay-ce-using-docker-desktop-2e9o)
+- [Integrating MediaElement.js into a Custom HTML5 Video Player](https://dev.to/sh20raj/integrating-mediaelementjs-into-a-custom-html5-video-player-390p)
+- [How to Integrate Intelligent Document Processing into Your Business Workflow?](https://dev.to/lokeshjoshi/how-to-integrate-intelligent-document-processing-into-your-business-workflow-3b8d)
+- [NestJS Testing Simplified &lpar;Video series&rpar;](https://dev.to/tkssharma/nestjs-testing-simplified-video-series-54e9)
+- [Data Modelling for Multi tenancy apps.](https://dev.to/brightonmboya/data-modelling-for-multi-tenancy-apps-hob)
+- [What would you consider in mind while writing code in Java Application?](https://dev.to/farheen_sk/what-would-you-consider-in-mind-while-writing-code-in-java-application-ge7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
