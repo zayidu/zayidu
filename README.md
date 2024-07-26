@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why you should try React Query?](https://dev.to/codeparrot/why-you-should-try-react-query-5d0g)
-- [10 Essential Mobile App Development Trends for 2024](https://dev.to/theintellify1/10-essential-mobile-app-development-trends-for-2024-40cp)
-- [Exploring the Benefits and Challenges of Virtual Reality &lpar;VR&rpar; in Project Planning and Simulation](https://dev.to/joshuawasike/exploring-the-benefits-and-challenges-of-virtual-reality-vr-in-project-planning-and-simulation-4of0)
-- [Moving from Create-React-App to Vite for Web3Auth Projects](https://dev.to/shahbaz17/moving-from-create-react-app-to-vite-for-web3auth-projects-4nce)
-- [Unlocking Your Coding Potential: A Completion of Python Courses in Kochi](https://dev.to/liya4/unlocking-your-coding-potential-a-completion-of-python-courses-in-kochi-43a9)
+- [Awesome Open-Source Projects for Developers &lpar;Part 1&rpar;](https://dev.to/nocobase/awesome-open-source-projects-for-developers-part-1-42b8)
+- [Neovim, but it’s in Windows](https://dev.to/vampirepapi/neovim-but-its-in-windows-4mci)
+- [Practical Guide to Creating a Design System](https://dev.to/woovi/practical-guide-to-creating-a-design-system-1b3p)
+- [Export JSON to CSV: a note on CSV and Unicode](https://dev.to/andrewelans/export-json-to-csv-what-is-csv-and-unicode-2341)
+- [Software Engineer Salary in Argentina: An In-Depth Look](https://dev.to/deronward/software-engineer-salary-in-argentina-an-in-depth-look-32ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
