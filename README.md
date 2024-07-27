@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why React Needs a Key Prop?](https://dev.to/alisamir/why-react-needs-a-key-prop-4geh)
-- [Promises vs Callbacks.](https://dev.to/samirabawad/promises-vs-callbacks-abp)
-- [Database Cybersecurity Best Practices &amp; Solutions You Should Know](https://dev.to/grapestechsolution/database-cybersecurity-best-practices-solutions-you-should-know-2060)
-- [Talk with You Series #3](https://dev.to/maxisbusy/talk-with-you-series-3-550p)
-- [Mastering SOLID Principles ✅](https://dev.to/alisamir/mastering-solid-principles-571j)
+- [How to get started with Android Development in 2024](https://dev.to/olise/how-to-get-started-with-android-development-in-2024-1njj)
+- [Mastering SQL: Understanding Group By and Order By](https://dev.to/mayorla/mastering-sql-understanding-group-by-and-order-by-48bm)
+- [Convert String Title to Slug in Javascript](https://dev.to/fikriqx/convert-string-title-to-slug-in-javascript-323d)
+- [Building Chat App Simplified](https://dev.to/vaishnavsherla/building-chat-app-simplified-5cfe)
+- [Sharing a Funny First PR Experience](https://dev.to/bridget_amana/sharing-a-funny-first-pr-experience-e3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
