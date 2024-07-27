@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Projects to master Frontend &amp; Web Development](https://dev.to/bigsondev/10-projects-to-master-frontend-web-development-acm)
-- [Build Your Own SMTP Server in Go](https://dev.to/alexbczpro/build-your-own-smtp-server-in-go-5b90)
-- [From Zero to SAA-C03 Certified: How I Passed the AWS Certification on My First Attempt](https://dev.to/iamdete/from-zero-to-saa-c03-certified-how-i-passed-the-aws-certification-on-my-first-attempt-20m6)
-- [The Challenge of Traditional Expense Management](https://dev.to/receipt_bot/the-challenge-of-traditional-expense-management-29i5)
-- [&quot;Model Required Fields&quot; package](https://dev.to/watheqalshowaiter/model-required-fields-package-33p1)
+- [Tomba.io Email Finder API 2024: The Ultimate Tool for Precision and Speed](https://dev.to/benemohamed/tombaio-email-finder-api-2024-the-ultimate-tool-for-precision-and-speed-4jpn)
+- [Unicode Text Converter v1.0](https://dev.to/thenanosoft/unicode-text-converter-v10-4eah)
+- [Unleashing the Potential: The Power of an Effective Software Testing Environment](https://dev.to/jhk_info/unleashing-the-potential-the-power-of-an-effective-software-testing-environment-l66)
+- [Migrating node-fetch/form-data to Node.js native APIs](https://dev.to/ueokande/migrating-node-fetchform-data-to-nodejs-native-apis-2j7h)
+- [dnenv.py: A Basic Tool to Manage Local .NET SDK Version](https://dev.to/bwhazel/dnenvpy-a-basic-tool-to-manage-local-net-sdk-version-12ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
