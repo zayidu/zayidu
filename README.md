@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get started with Android Development in 2024](https://dev.to/olise/how-to-get-started-with-android-development-in-2024-1njj)
-- [Mastering SQL: Understanding Group By and Order By](https://dev.to/mayorla/mastering-sql-understanding-group-by-and-order-by-48bm)
-- [Convert String Title to Slug in Javascript](https://dev.to/fikriqx/convert-string-title-to-slug-in-javascript-323d)
-- [Building Chat App Simplified](https://dev.to/vaishnavsherla/building-chat-app-simplified-5cfe)
-- [Sharing a Funny First PR Experience](https://dev.to/bridget_amana/sharing-a-funny-first-pr-experience-e3l)
+- [Unlocking the Potential of Cloudflare Workers for Small Projects](https://dev.to/00geekinside00/unlocking-the-potential-of-cloudflare-workers-for-small-projects-45d0)
+- [How to migrate to modular Firebase SDK: A quick guide](https://dev.to/patricklusaya/how-to-migrate-to-modular-firebase-sdk-a-quick-guide-10ac)
+- [🌇 China community day: excellent way to build a community with 1000+ members! 🎉](https://dev.to/aws-builders/china-community-day-excellent-way-to-build-a-community-with-1000-members-3fj7)
+- [🌇 China Community Day - Side Chat with Miss Nan: Reveal the Secrets to Empowering startup with Generative AI 🌟](https://dev.to/aws-builders/china-community-day-side-chat-with-miss-nan-reveal-the-secrets-to-empowering-startup-with-generative-ai-33e4)
+- [🌇 China Community Day - Side Chat with Miss Hai: Reveal the Secrets to Empowering startup with Generative AI 🌟](https://dev.to/aws-builders/china-community-day-side-chat-with-miss-hai-reveal-the-secrets-to-empowering-startup-with-generative-ai-gof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
