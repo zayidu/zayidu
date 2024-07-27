@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Data Handling in React with TanStack Query and TypeScript!](https://dev.to/pramahaditamaputra/simplify-data-handling-in-react-with-tanstack-query-and-typescript-19l8)
-- [Mastering Git Log: A Comprehensive Guide](https://dev.to/samarjaffri/mastering-git-log-a-comprehensive-guide-60o)
-- [Practical use of TCO And Pricing Calculator For Cost Management](https://dev.to/mabis12/practical-use-of-tco-and-pricing-calculator-for-cost-management-3715)
-- [Bikin Data Handling di React Jadi Gampang dengan TanStack Query dan TypeScript!](https://dev.to/pramahaditamaputra/bikin-data-handling-di-react-jadi-gampang-dengan-tanstack-query-dan-typescript-1n2c)
-- [AWS Women in Tech India: Empowering a New Generation of Innovators](https://dev.to/aws-heroes/aws-women-in-tech-india-empowering-a-new-generation-of-innovators-4e2)
+- [Security Best Practices](https://dev.to/suhaspalani/security-best-practices-3klg)
+- [Struggling with consistent blogging? I&#39;m working on something that might help!](https://dev.to/mingi3314/struggling-with-consistent-blogging-im-working-on-something-that-might-help-2b30)
+- [Streamline Workflows with AgentKit: Visual Graph-Based Flow Engineering](https://dev.to/mikeyoung44/streamline-workflows-with-agentkit-visual-graph-based-flow-engineering-2fa1)
+- [Diffree: Seamless Text-Guided Object Inpainting with Diffusion Models](https://dev.to/mikeyoung44/diffree-seamless-text-guided-object-inpainting-with-diffusion-models-dkj)
+- [Track Any Pet and Share Their Location Instantly! 🐾](https://dev.to/pabloa/track-any-pet-and-share-their-location-instantly-2kp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
