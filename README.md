@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Potential of Cloudflare Workers for Small Projects](https://dev.to/00geekinside00/unlocking-the-potential-of-cloudflare-workers-for-small-projects-45d0)
-- [How to migrate to modular Firebase SDK: A quick guide](https://dev.to/patricklusaya/how-to-migrate-to-modular-firebase-sdk-a-quick-guide-10ac)
-- [🌇 China community day: excellent way to build a community with 1000+ members! 🎉](https://dev.to/aws-builders/china-community-day-excellent-way-to-build-a-community-with-1000-members-3fj7)
-- [🌇 China Community Day - Side Chat with Miss Nan: Reveal the Secrets to Empowering startup with Generative AI 🌟](https://dev.to/aws-builders/china-community-day-side-chat-with-miss-nan-reveal-the-secrets-to-empowering-startup-with-generative-ai-33e4)
-- [🌇 China Community Day - Side Chat with Miss Hai: Reveal the Secrets to Empowering startup with Generative AI 🌟](https://dev.to/aws-builders/china-community-day-side-chat-with-miss-hai-reveal-the-secrets-to-empowering-startup-with-generative-ai-gof)
+- [Web Theory - Part 6 : BEM, The Secret Formula for Mastering CSS Organization and Clarity](https://dev.to/teclearn/web-theory-part-6-bem-the-secret-formula-for-mastering-css-organization-and-clarity-5f49)
+- [The visualization and analysis of git commit statistics for IT team leaders.](https://dev.to/responsivecrocodile/the-visualization-and-analysis-of-git-commit-statistics-for-it-team-leaders-2pof)
+- [Kubernetes CIS Benchmarking Tool : Day 17 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/monitoring-kubernetes-cis-benchmarking-tool-day-17-of-50-days-devops-tools-series-46l1)
+- [Setting Up the PHP Environment](https://dev.to/servbay/setting-up-the-php-environment-4g4b)
+- [Remix with PostgreSQL and Prisma from Local Environment Setup to Deploy to Fly.io](https://dev.to/yuichi_nabeshima_canada/remix-with-postgresql-and-prisma-from-local-environment-setup-to-deploy-to-flyio-5537)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
