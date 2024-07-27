@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Clean Code and Why it is important](https://dev.to/yashrajxdev/what-is-clean-code-and-why-it-is-important-2p5d)
-- [The Cron daemon in Linux and how to create a cron job](https://dev.to/letsbsocial1/the-cron-daemon-in-linux-and-how-to-create-a-cron-job-4n09)
-- [Easy on Humans, Hard on Bots](https://dev.to/yagocosta/recaptcha-easy-on-humans-hard-on-bots-4577)
-- [Vagrant: A Comprehensive Guide to Managing Virtual Environments](https://dev.to/bansikah/vagrant-a-comprehensive-guide-to-managing-virtual-environments-4761)
-- [Top Job Posting Boards for Developers &lpar;Hint: Not LinkedIn&rpar;](https://dev.to/hackmamba/top-job-posting-boards-for-developers-hint-not-linkedin-3hkd)
+- [🚀 Next.js Starter Update: Tailwind CSS Landing Page and Testing Enhancements 🎉](https://dev.to/imevanc/nextjs-starter-update-tailwind-css-landing-page-and-testing-enhancements-4ip1)
+- [Building in Public - 5](https://dev.to/liaob/building-in-public-5-2i3j)
+- [Jr Penetration Tester- Intro to Offensive Security](https://dev.to/yowise/jr-penetration-tester-intro-to-offensive-security-4g2d)
+- [Just For Fun](https://dev.to/mamabias/just-for-fun-29ca)
+- [ASP.NET Web API ile Kubernetes Üzerinde Kesintisiz Deployment Kurgusu](https://dev.to/admiralkheir/aspnet-web-api-ile-kubernetes-uzerinde-kesintisiz-deployment-kurgusu-5c9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
