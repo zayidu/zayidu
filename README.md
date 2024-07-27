@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Terabox Video player online with download option || Scraping APIs](https://dev.to/sh20raj/building-a-terabox-video-player-online-with-download-option-scraping-apis-lpn)
-- [Handling Collisions Using Open Addressing](https://dev.to/paulike/handling-collisions-using-open-addressing-1e90)
-- [Failed to Import ICS File](https://dev.to/muhammad_owais_b6cc067bf9/failed-to-import-ics-file-3oa9)
-- [Exploring 2024’s Top Software Market Trends](https://dev.to/shriya_5/exploring-2024s-top-software-market-trends-32o)
-- [Fortress Supreme: Unleashing the Ultimate Web Application Guardian with AWS WAF](https://dev.to/ikoh_sylva/fortress-supreme-unleashing-the-ultimate-web-application-guardian-with-aws-waf-2hl1)
+- [Effort Estimation in Software Project Management](https://dev.to/abedin022/effort-estimation-in-software-project-management-4m78)
+- [Implementing Set Using Hashing](https://dev.to/paulike/implementing-set-using-hashing-1pm7)
+- [Understanding JS and its Single Threaded nature](https://dev.to/tushar_pal/understanding-js-and-its-single-threaded-nature-13j)
+- [getComputedStyle: The good, the bad and the ugly parts](https://dev.to/nikneym/getcomputedstyle-the-good-the-bad-and-the-ugly-parts-1l34)
+- [3 Proven Steps to Becoming a Mentor](https://dev.to/aws-builders/3-proven-steps-to-becoming-a-mentor-628)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
