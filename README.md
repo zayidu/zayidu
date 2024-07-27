@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [useActionState hook in react 19](https://dev.to/m3cv1no/useactionstate-hook-in-react-19-597f)
-- [Create Mock API Like a Breeze!](https://dev.to/mockaron/create-mock-apilike-a-breeze-3fao)
-- [The Evolution of AI and Its Impact on Software Development](https://dev.to/yassincodes/the-evolution-of-ai-and-its-impact-on-software-development-3a3b)
-- [Open-Source LibreChat Database](https://dev.to/farlamo/open-source-librechat-database-31n5)
-- [Exploring the Java Module System &lpar;Project Jigsaw&rpar;](https://dev.to/adaumircosta/exploring-the-java-module-system-project-jigsaw-12m5)
+- [Startig a new journey for coding](https://dev.to/vikas_kumar_2411/startig-a-new-journey-for-coding-18k1)
+- [What are your thoughts on generating a mobile application from a description using ai?](https://dev.to/azizbelabed/what-are-your-thoughts-on-generating-a-mobile-application-from-a-description-using-ai-50kl)
+- [Keyper by Jarrid: Introduce Secure Data Flow](https://dev.to/jarrid-xyz/keyper-by-jarrid-introduce-secure-data-flow-52gh)
+- [How Semantic Caching Can Reduce Your AI Costs by Up to 10x](https://dev.to/ultraai/how-semantic-caching-can-reduce-your-ai-costs-by-up-to-10x-oj4)
+- [Easily Encode/Decode Kubernetes Secrets in Base64](https://dev.to/umairk/easily-encodedecode-kubernetes-secrets-in-base64-3hbp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
