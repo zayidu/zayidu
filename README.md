@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Functional Programming Concepts in Kotlin](https://dev.to/kartikmehta8/functional-programming-concepts-in-kotlin-b1j)
-- [Producer-Consumer Pattern](https://dev.to/johnscode/producer-consumer-pattern-ih4)
-- [Data Orientation in Relational Databases](https://dev.to/hjgonzalez06/data-orientation-in-relational-databases-4ilh)
-- [[Game of Purpose] Day 68](https://dev.to/humberd/game-of-purpose-day-68-3973)
-- [Unsupervised Learning](https://dev.to/opaul/unsupervised-learning-5hle)
+- [A Developer&#39;s Greatest Power](https://dev.to/zain725342/a-developers-greatest-power-2i6p)
+- [Today&#39;s Trending Projects: Push Box Game With Pygame and More](https://dev.to/labex/todays-trending-projects-push-box-game-with-pygame-and-more-mmm)
+- [Listening for HTTP requests on the CLI with tshark](https://dev.to/tallesl/listening-for-http-requests-on-the-cli-with-tshark-3bf1)
+- [แนวทางการใช้ Go package โดย Jaana Dogan&lpar;rakyll&rpar;](https://dev.to/pallat/aenwthaangkaaraich-go-package-ody-jaana-doganrakyll-7jc)
+- [Database design for backend engineers](https://dev.to/codewitgabi/database-design-for-backend-engineers-4pe5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
