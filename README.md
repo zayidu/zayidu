@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Best Practices](https://dev.to/suhaspalani/security-best-practices-3klg)
-- [Struggling with consistent blogging? I&#39;m working on something that might help!](https://dev.to/mingi3314/struggling-with-consistent-blogging-im-working-on-something-that-might-help-2b30)
-- [Streamline Workflows with AgentKit: Visual Graph-Based Flow Engineering](https://dev.to/mikeyoung44/streamline-workflows-with-agentkit-visual-graph-based-flow-engineering-2fa1)
-- [Diffree: Seamless Text-Guided Object Inpainting with Diffusion Models](https://dev.to/mikeyoung44/diffree-seamless-text-guided-object-inpainting-with-diffusion-models-dkj)
-- [Track Any Pet and Share Their Location Instantly! 🐾](https://dev.to/pabloa/track-any-pet-and-share-their-location-instantly-2kp3)
+- [Why React Needs a Key Prop?](https://dev.to/alisamir/why-react-needs-a-key-prop-4geh)
+- [Promises vs Callbacks.](https://dev.to/samirabawad/promises-vs-callbacks-abp)
+- [Database Cybersecurity Best Practices &amp; Solutions You Should Know](https://dev.to/grapestechsolution/database-cybersecurity-best-practices-solutions-you-should-know-2060)
+- [Talk with You Series #3](https://dev.to/maxisbusy/talk-with-you-series-3-550p)
+- [Mastering SOLID Principles ✅](https://dev.to/alisamir/mastering-solid-principles-571j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
