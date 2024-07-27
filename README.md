@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Developer&#39;s Greatest Power](https://dev.to/zain725342/a-developers-greatest-power-2i6p)
-- [Today&#39;s Trending Projects: Push Box Game With Pygame and More](https://dev.to/labex/todays-trending-projects-push-box-game-with-pygame-and-more-mmm)
-- [Listening for HTTP requests on the CLI with tshark](https://dev.to/tallesl/listening-for-http-requests-on-the-cli-with-tshark-3bf1)
-- [แนวทางการใช้ Go package โดย Jaana Dogan&lpar;rakyll&rpar;](https://dev.to/pallat/aenwthaangkaaraich-go-package-ody-jaana-doganrakyll-7jc)
-- [Database design for backend engineers](https://dev.to/codewitgabi/database-design-for-backend-engineers-4pe5)
+- [What is Open Source and How Does It Work?](https://dev.to/tesseract-coding/what-is-open-source-and-how-does-it-work-4bec)
+- [Midjourney for Architecture: Is This The Future?](https://dev.to/devops_den/midjourney-for-architecture-is-this-the-future-34f5)
+- [Api Rest .Net completa com JwtToken e integração com api ViaCep utilizando padrão de arquitetura clean architecture](https://dev.to/2020nani/api-rest-net-completa-com-jwttoken-e-integracao-com-api-viacep-utilizando-padrao-de-arquitetura-clean-architecture-5b1n)
+- [C# Methods](https://dev.to/manzura_kerimova/c-methods-28kf)
+- [Api Rest .Net completa com JwtToken integração com api ViaCep utilizando padrão de arquitetura clean architecture - parte 2](https://dev.to/2020nani/api-rest-net-completa-com-jwttoken-integracao-com-api-viacep-utilizando-padrao-de-arquitetura-clean-architecture-parte-2-im)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
