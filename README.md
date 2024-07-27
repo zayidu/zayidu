@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AITX AI Hackathon - Spark Creativity](https://dev.to/100stacks/aitx-ai-hackathon-spark-creativity-3b15)
-- [5 Essential Tips for Managing a Developer Community on a Budget](https://dev.to/rakesh_kumar_bf8f486c08f9/5-essential-tips-for-managing-a-developer-community-on-a-budget-17g)
-- [JavaScript Promises](https://dev.to/sudhanshu_developer/javascript-promises-4kgk)
-- [The DevRel Renaissance: How AI-Powered Tools are Empowering the Next Generation of Developer Communities](https://dev.to/swati1267/the-devrel-renaissance-how-ai-powered-tools-are-empowering-the-next-generation-of-developer-communities-4f0p)
-- [React / TanStack Query](https://dev.to/pramahaditamaputra/react-tanstack-query-series-part-1-introduction-4i87)
+- [Simplify Data Handling in React with TanStack Query and TypeScript!](https://dev.to/pramahaditamaputra/simplify-data-handling-in-react-with-tanstack-query-and-typescript-19l8)
+- [Mastering Git Log: A Comprehensive Guide](https://dev.to/samarjaffri/mastering-git-log-a-comprehensive-guide-60o)
+- [Practical use of TCO And Pricing Calculator For Cost Management](https://dev.to/mabis12/practical-use-of-tco-and-pricing-calculator-for-cost-management-3715)
+- [Bikin Data Handling di React Jadi Gampang dengan TanStack Query dan TypeScript!](https://dev.to/pramahaditamaputra/bikin-data-handling-di-react-jadi-gampang-dengan-tanstack-query-dan-typescript-1n2c)
+- [AWS Women in Tech India: Empowering a New Generation of Innovators](https://dev.to/aws-heroes/aws-women-in-tech-india-empowering-a-new-generation-of-innovators-4e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
