@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Video Chat App with WebRTC, Socket.io, Node.js, and React .](https://dev.to/emilshiju/building-a-real-time-video-chat-app-with-webrtc-socketio-nodejs-and-react--2e42)
-- [JS: Geek Out with AJAX](https://dev.to/dariansdev/geek-out-with-ajax-5d6l)
-- [NumPy Asarray Function: A Comprehensive Guide](https://dev.to/labex/numpy-asarray-function-a-comprehensive-guide-1cf1)
-- [🤖 100 Days of Generative AI - Day 2 - LLM Tokens vs Parameters ? 🤖](https://dev.to/lakhera2015/100-days-of-generative-ai-day-2-llm-tokens-vs-parameters--18k4)
-- [React 19: A Game-Changer for Modern Web Development](https://dev.to/vyan/react-19-a-game-changer-for-modern-web-development-1bih)
+- [AITX AI Hackathon - Spark Creativity](https://dev.to/100stacks/aitx-ai-hackathon-spark-creativity-3b15)
+- [5 Essential Tips for Managing a Developer Community on a Budget](https://dev.to/rakesh_kumar_bf8f486c08f9/5-essential-tips-for-managing-a-developer-community-on-a-budget-17g)
+- [JavaScript Promises](https://dev.to/sudhanshu_developer/javascript-promises-4kgk)
+- [The DevRel Renaissance: How AI-Powered Tools are Empowering the Next Generation of Developer Communities](https://dev.to/swati1267/the-devrel-renaissance-how-ai-powered-tools-are-empowering-the-next-generation-of-developer-communities-4f0p)
+- [React / TanStack Query](https://dev.to/pramahaditamaputra/react-tanstack-query-series-part-1-introduction-4i87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
