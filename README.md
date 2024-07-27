@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple Chat Application with Go, Gin, MongoDB, and WebSocket](https://dev.to/gbubemi22/building-a-simple-chat-application-with-go-gin-mongodb-and-websocket-2joo)
-- [Automate Spider Creation in Scrapy with Jinja2 and JSON](https://dev.to/ajitkumar/automate-spider-creation-in-scrapy-with-jinja2-and-json-162g)
-- [Your code is NOT special.](https://dev.to/noriller/your-code-is-not-special-2oha)
-- [Dynamic Document Head Management Using React Helmet](https://dev.to/madhawaawishka/dynamic-document-head-management-using-react-helmet-4i1i)
-- [CSS Grid: keywords de dimensionamento](https://dev.to/dougsource/css-grid-keywords-de-dimensionamento-31o3)
+- [useActionState hook in react 19](https://dev.to/m3cv1no/useactionstate-hook-in-react-19-597f)
+- [Create Mock API Like a Breeze!](https://dev.to/mockaron/create-mock-apilike-a-breeze-3fao)
+- [The Evolution of AI and Its Impact on Software Development](https://dev.to/yassincodes/the-evolution-of-ai-and-its-impact-on-software-development-3a3b)
+- [Open-Source LibreChat Database](https://dev.to/farlamo/open-source-librechat-database-31n5)
+- [Exploring the Java Module System &lpar;Project Jigsaw&rpar;](https://dev.to/adaumircosta/exploring-the-java-module-system-project-jigsaw-12m5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
