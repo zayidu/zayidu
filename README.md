@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Real-Time Video Chat App with WebRTC, Socket.io, Node.js, and React .](https://dev.to/emilshiju/building-a-real-time-video-chat-app-with-webrtc-socketio-nodejs-and-react--2e42)
+- [JS: Geek Out with AJAX](https://dev.to/dariansdev/geek-out-with-ajax-5d6l)
+- [NumPy Asarray Function: A Comprehensive Guide](https://dev.to/labex/numpy-asarray-function-a-comprehensive-guide-1cf1)
+- [🤖 100 Days of Generative AI - Day 2 - LLM Tokens vs Parameters ? 🤖](https://dev.to/lakhera2015/100-days-of-generative-ai-day-2-llm-tokens-vs-parameters--18k4)
 - [React 19: A Game-Changer for Modern Web Development](https://dev.to/vyan/react-19-a-game-changer-for-modern-web-development-1bih)
-- [Single Table Design in AWS DynamoDB](https://dev.to/aws-builders/single-table-design-in-aws-dynamodb-ld8)
-- [Vanilla JS Effect Methods](https://dev.to/hungle00/vanilla-js-effect-methods-3pnp)
-- [Indexing and slicing](https://dev.to/kk_python/indexing-and-slicing-59b1)
-- [Easily Encode/Decode Kubernetes Secrets in Base64](https://dev.to/umairk/easily-encodedecode-kubernetes-secrets-in-base64-oj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
