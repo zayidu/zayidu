@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tomba.io Email Finder API 2024: The Ultimate Tool for Precision and Speed](https://dev.to/benemohamed/tombaio-email-finder-api-2024-the-ultimate-tool-for-precision-and-speed-4jpn)
-- [Unicode Text Converter v1.0](https://dev.to/thenanosoft/unicode-text-converter-v10-4eah)
-- [Unleashing the Potential: The Power of an Effective Software Testing Environment](https://dev.to/jhk_info/unleashing-the-potential-the-power-of-an-effective-software-testing-environment-l66)
-- [Migrating node-fetch/form-data to Node.js native APIs](https://dev.to/ueokande/migrating-node-fetchform-data-to-nodejs-native-apis-2j7h)
-- [dnenv.py: A Basic Tool to Manage Local .NET SDK Version](https://dev.to/bwhazel/dnenvpy-a-basic-tool-to-manage-local-net-sdk-version-12ma)
+- [Building a Terabox Video player online with download option || Scraping APIs](https://dev.to/banmyaccount/building-a-terabox-video-player-online-with-download-option-scraping-apis-24f5)
+- [Cloudflare for SaaS: Resolving AWS Connection Issues with Multiple CNAMEs, DNS, and SSL Capabilities](https://dev.to/mkdev/cloudflare-for-saas-resolving-aws-connection-issues-with-multiple-cnames-dns-and-ssl-capabilities-2m96)
+- [Effective Cost Management in Azure Using TCO and Pricing Calculators](https://dev.to/ikay/effective-cost-management-in-azure-using-tco-and-pricing-calculators-4g1m)
+- [How to Setup Path Alias Vite + React](https://dev.to/jumbo02/how-to-setup-path-alias-vite-react-5426)
+- [Defer &amp; Panic Recovery In Go](https://dev.to/os_yana/defer-panic-recovery-in-go-1i4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
