@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionize IT Inventory Management with Our Advanced Inventory System](https://dev.to/njabulo240/revolutionize-it-inventory-management-with-our-advanced-inventory-system-4jeb)
-- [Security news weekly round-up - 26th July 2024](https://dev.to/ziizium/security-news-weekly-round-up-26th-july-2024-470d)
-- [SVG vs AVIF](https://dev.to/msmith99994/svg-vs-avif-flc)
-- [JWT Token authorisation in spring boot 3 without any external library](https://dev.to/namantam1/jwt-token-authorisation-in-spring-boot-3-without-any-external-library-3elc)
-- [SVG vs WebP](https://dev.to/msmith99994/svg-vs-webp-g9o)
+- [Functional Programming Concepts in Kotlin](https://dev.to/kartikmehta8/functional-programming-concepts-in-kotlin-b1j)
+- [Producer-Consumer Pattern](https://dev.to/johnscode/producer-consumer-pattern-ih4)
+- [Data Orientation in Relational Databases](https://dev.to/hjgonzalez06/data-orientation-in-relational-databases-4ilh)
+- [[Game of Purpose] Day 68](https://dev.to/humberd/game-of-purpose-day-68-3973)
+- [Unsupervised Learning](https://dev.to/opaul/unsupervised-learning-5hle)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
