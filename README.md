@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Terabox Video player online with download option || Scraping APIs](https://dev.to/banmyaccount/building-a-terabox-video-player-online-with-download-option-scraping-apis-24f5)
-- [Cloudflare for SaaS: Resolving AWS Connection Issues with Multiple CNAMEs, DNS, and SSL Capabilities](https://dev.to/mkdev/cloudflare-for-saas-resolving-aws-connection-issues-with-multiple-cnames-dns-and-ssl-capabilities-2m96)
-- [Effective Cost Management in Azure Using TCO and Pricing Calculators](https://dev.to/ikay/effective-cost-management-in-azure-using-tco-and-pricing-calculators-4g1m)
-- [How to Setup Path Alias Vite + React](https://dev.to/jumbo02/how-to-setup-path-alias-vite-react-5426)
-- [Defer &amp; Panic Recovery In Go](https://dev.to/os_yana/defer-panic-recovery-in-go-1i4i)
+- [Building a Terabox Video player online with download option || Scraping APIs](https://dev.to/sh20raj/building-a-terabox-video-player-online-with-download-option-scraping-apis-lpn)
+- [Handling Collisions Using Open Addressing](https://dev.to/paulike/handling-collisions-using-open-addressing-1e90)
+- [Failed to Import ICS File](https://dev.to/muhammad_owais_b6cc067bf9/failed-to-import-ics-file-3oa9)
+- [Exploring 2024’s Top Software Market Trends](https://dev.to/shriya_5/exploring-2024s-top-software-market-trends-32o)
+- [Fortress Supreme: Unleashing the Ultimate Web Application Guardian with AWS WAF](https://dev.to/ikoh_sylva/fortress-supreme-unleashing-the-ultimate-web-application-guardian-with-aws-waf-2hl1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
