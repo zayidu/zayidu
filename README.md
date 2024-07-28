@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Oversimplified Golang Channel!](https://dev.to/ashsajal/oversimplified-golang-channel-2e42)
-- [Create Custom Radio Buttons with CSS Animation](https://dev.to/labex/create-custom-radio-buttons-with-css-animation-mpn)
-- [ExpressoTS on The Rise???](https://dev.to/expressots/expressots-on-the-rise-1d5e)
-- [Navigating the React-TypeScript Landscape with React Router](https://dev.to/virajlakshitha/navigating-the-react-typescript-landscape-with-react-router-npg)
-- [[CYBERSECURITY] Tendência Passwordless](https://dev.to/womakerscode/cybersecurity-tendencia-passwordless-1gji)
+- [PHP crash course: PHP MYSQL QUIZ APP](https://dev.to/mdarifulhaque/php-crash-course-php-mysql-quiz-app-io)
+- [Solve Product of Array Except Self Problem in 4 Easy Steps](https://dev.to/rk042/solve-product-of-array-except-self-problem-in-4-easy-steps-2mfp)
+- [Setting Up a PHP Website on EC2 with Nginx, MySQL, PHP, and Git](https://dev.to/manojspace/setting-up-a-php-website-on-ec2-with-nginx-mysql-php-and-git-3471)
+- [Dive into the World of C Programming with &quot;The C Book&quot;! 🚀](https://dev.to/getvm/dive-into-the-world-of-c-programming-with-the-c-book-pk)
+- [Understanding JSON Web Tokens &lpar;JWT&rpar; for Secure Information Sharing](https://dev.to/vyan/understanding-json-web-tokens-jwt-for-secure-information-sharing-5c3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
