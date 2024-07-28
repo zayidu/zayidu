@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP crash course: PHP MYSQL QUIZ APP](https://dev.to/mdarifulhaque/php-crash-course-php-mysql-quiz-app-io)
-- [Solve Product of Array Except Self Problem in 4 Easy Steps](https://dev.to/rk042/solve-product-of-array-except-self-problem-in-4-easy-steps-2mfp)
-- [Setting Up a PHP Website on EC2 with Nginx, MySQL, PHP, and Git](https://dev.to/manojspace/setting-up-a-php-website-on-ec2-with-nginx-mysql-php-and-git-3471)
-- [Dive into the World of C Programming with &quot;The C Book&quot;! 🚀](https://dev.to/getvm/dive-into-the-world-of-c-programming-with-the-c-book-pk)
-- [Understanding JSON Web Tokens &lpar;JWT&rpar; for Secure Information Sharing](https://dev.to/vyan/understanding-json-web-tokens-jwt-for-secure-information-sharing-5c3a)
+- [Mastering Fragments in Java for Android Development](https://dev.to/ankittmeena/mastering-fragments-in-java-for-android-development-1ach)
+- [Transform Your Cloud Skills: A Hands-On Guide to Building a Serverless Resume Application](https://dev.to/zablonoigo/transform-your-cloud-skills-a-hands-on-guide-to-building-a-serverless-resume-application-4i7d)
+- [Differences and Usage of as const and Readonly in TypeScript](https://dev.to/tommykw/differences-and-usage-of-as-const-and-readonly-in-typescript-4bkb)
+- [Boost Your Linux Productivity: Remapping Useless Keys with Kanata](https://dev.to/shanu-kumawat/boost-your-linux-productivity-remapping-useless-keys-with-kanata-3ih5)
+- [First Blog](https://dev.to/rachitsinghh/first-blog-4kdn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
