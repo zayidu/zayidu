@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DBOS-Cloud: Minimal Effort Change Data Capture &lpar;CDC&rpar; Tool](https://dev.to/vince_hirefunnel_co/dbos-cloud-minimal-effort-change-data-capture-cdc-tool-4c0d)
-- [System Design Basics - Load Balancing Algorithms](https://dev.to/somadevtoo/system-design-basics-load-balancing-algorithms-2559)
-- [How the Recomendation System Works...](https://dev.to/krishnaa192/how-the-recomendation-system-works-o97)
-- [let, var or const, what&#39;s the difference?](https://dev.to/marlonmunoz/let-var-or-const-whats-the-difference-33ll)
-- [The Power of Digital Marketing: Transforming Business Strategies in the Modern Age](https://dev.to/eazealliance/the-power-of-digital-marketing-transforming-business-strategies-in-the-modern-age-7fi)
+- [The Hidden Dangers of The Hidden Dangers of Shallow Copying in JavaScript: Lessons from API Response Handling](https://dev.to/akshatsoni26/the-hidden-dangers-of-the-hidden-dangers-of-shallow-copying-in-javascript-lessons-from-api-response-handling-1cp1)
+- [IntersectionObserver API,检测元素是否进入或离开视口](https://dev.to/dennischeung/intersectionobserver-apijian-ce-yuan-su-shi-fou-jin-ru-huo-chi-kai-shi-kou-2f2k)
+- [Understanding the difference between Static Site Generation &lpar;SSG&rpar; and Server Side Rendering &lpar;SSR&rpar;](https://dev.to/krishnasarathi/understanding-the-difference-between-static-site-generation-ssg-and-server-side-rendering-ssr-bbk)
+- [Top 22 C++ Interview Questions and Answers for 2024](https://dev.to/imkrunalkanojiya/top-22-c-interview-questions-and-answers-for-2024-2gok)
+- [图片懒加载组件](https://dev.to/dennischeung/tu-pian-lan-jia-zai-zu-jian-33bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
