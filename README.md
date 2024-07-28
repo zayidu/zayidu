@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a global package using Node.js](https://dev.to/avinash_tare/how-to-create-a-global-package-using-nodejs-2j10)
-- [JavaScript MMORPG - Maiu Online - #babylonjs - Ep32: Fully functional inventory system](https://dev.to/maiu/javascript-mmorpg-maiu-online-babylonjs-ep32-fully-functional-inventory-system-4572)
-- [Setup Linux Box on Local with Docker Container](https://dev.to/binoy_59380e698d318/setup-linux-box-on-local-with-docker-container-3k8)
-- [6 JavaScript features to improve your productivity](https://dev.to/dunsincodes/6-javascript-features-to-improve-your-productivity-54gj)
-- [Symfony Station Communiqué — 26 July 2024: A Look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-26-july-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-4hai)
+- [How to Publish an npm Package](https://dev.to/avinash_tare/how-to-publish-an-npm-package-2hk1)
+- [Joyruns](https://dev.to/oleksandr_veremeyenko_1c0/joyruns-5d0g)
+- [Why settle for a bicycle when you can soar on a jet plane?](https://dev.to/shanu001x/why-settle-for-a-bicycle-when-you-can-soar-on-a-jet-plane-4d4n)
+- [AI/ML Scholarship Registration OPEN](https://dev.to/bellatrix/aiml-scholarship-registration-open-4igb)
+- [Spartan](https://dev.to/rrees/spartan-5525)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
