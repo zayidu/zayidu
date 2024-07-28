@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Publish an npm Package](https://dev.to/avinash_tare/how-to-publish-an-npm-package-2hk1)
-- [Joyruns](https://dev.to/oleksandr_veremeyenko_1c0/joyruns-5d0g)
-- [Why settle for a bicycle when you can soar on a jet plane?](https://dev.to/shanu001x/why-settle-for-a-bicycle-when-you-can-soar-on-a-jet-plane-4d4n)
-- [AI/ML Scholarship Registration OPEN](https://dev.to/bellatrix/aiml-scholarship-registration-open-4igb)
-- [Spartan](https://dev.to/rrees/spartan-5525)
+- [FAV0周刊009期--产品体验与盈利的权衡](https://dev.to/justin3go/fav0zhou-kan-009qi-chan-pin-ti-yan-yu-ying-li-de-quan-heng-5feg)
+- [FAV0 Weekly Issue 009 -- Balancing Product Experience and Profitability](https://dev.to/justin3go/fav0-weekly-issue-009-balancing-product-experience-and-profitability-8d6)
+- [Top 5 online mentorship platforms for technical writers](https://dev.to/hackmamba/top-5-online-mentorship-platforms-for-technical-writers-3gok)
+- [Mis plataforma favoritas 😍 para desplegar tus apps](https://dev.to/yosmarcode/mis-plataforma-favoritas-para-desplegar-tus-apps-2d56)
+- [Empowering Future Cloud Leaders: My Mentorship Journey with Great Learning&#39;s Post Graduate Program in Cloud Computing](https://dev.to/aws-heroes/empowering-future-cloud-leaders-my-mentorship-journey-with-great-learnings-post-graduate-program-in-cloud-computing-331f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
