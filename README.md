@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🔥Uncovering JavaScript&#39;s Hidden Gems: Exceptional Conditional Operators](https://dev.to/noorscript/uncovering-javascripts-hidden-gems-exceptional-conditional-operators-1b58)
+- [TypeScript Generics: Building Flexible and Reusable Components](https://dev.to/nahidulislam/typescript-generics-building-flexible-and-reusable-components-4743)
 - [Mastering Fragments in Java for Android Development](https://dev.to/ankittmeena/mastering-fragments-in-java-for-android-development-1ach)
 - [Transform Your Cloud Skills: A Hands-On Guide to Building a Serverless Resume Application](https://dev.to/zablonoigo/transform-your-cloud-skills-a-hands-on-guide-to-building-a-serverless-resume-application-4i7d)
 - [Differences and Usage of as const and Readonly in TypeScript](https://dev.to/tommykw/differences-and-usage-of-as-const-and-readonly-in-typescript-4bkb)
-- [Boost Your Linux Productivity: Remapping Useless Keys with Kanata](https://dev.to/shanu-kumawat/boost-your-linux-productivity-remapping-useless-keys-with-kanata-3ih5)
-- [First Blog](https://dev.to/rachitsinghh/first-blog-4kdn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
