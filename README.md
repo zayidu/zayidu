@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python - Built-in functions - all&lpar;&rpar;](https://dev.to/rudth/python-built-in-functions-all-hp3)
-- [Some Important Terms to Know in Linux](https://dev.to/letsbsocial1/some-important-terms-to-know-in-linux-46ko)
-- [How to Write BLoC Tests to Improve Code Quality](https://dev.to/supejuice/how-to-write-bloc-tests-to-improve-code-quality-4ol)
-- [Python - Built-in functions - abs&lpar;&rpar;](https://dev.to/rudth/python-built-in-functions-abs-1lji)
-- [Harder HTB: Using only the terminal](https://dev.to/sh4nks/harder-htb-1d9l)
+- [Vue 3 Auto Routing By File Structure](https://dev.to/jenueldev/vue-3-auto-routing-by-file-structure-2hac)
+- [Managing Multiple GitHub Accounts in VS Code: A Comprehensive Guide](https://dev.to/itsfarhankhan28/managing-multiple-github-accounts-in-vs-code-a-comprehensive-guide-2d5g)
+- [This Week&#39;s Learning: Python and Git Basics for DevOps &lpar;Week 2&rpar;](https://dev.to/alifareed0009/this-weeks-learning-python-and-git-basics-for-devops-week-2-5ghc)
+- [2 Authentication Methods in Web Development: Session-Based vs. Token-Based!](https://dev.to/rajondey/2-authentication-methods-in-web-development-session-based-vs-token-based-52cb)
+- [How I built my own SeedBox with K8S](https://dev.to/bounteous17/how-i-built-my-own-seedbox-with-k8s-1gp7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
