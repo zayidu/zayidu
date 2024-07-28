@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎓 HackerRank Skill Certificate: Software Engineer](https://dev.to/zobaidulkazi/hackerrank-skill-certificate-software-engineer-4c4h)
-- [Instalação do Ambiente Linux.](https://dev.to/isaac_pimentel_5fb436f017/instalacao-do-ambiente-linux-9ao)
-- [Fanout-Fanin Pattern in Go](https://dev.to/johnscode/fanout-fanin-in-go-3h9o)
-- [Controlling outgoing rate limit](https://dev.to/rafaquelhodev/controlling-outgoing-rate-limit-3klg)
-- [Simple Git Commands for Beginners](https://dev.to/tripp007/simple-git-commands-for-beginners-3l5j)
+- [Starting from Scratch: My Web Development Journey](https://dev.to/saumya_singh18/starting-from-scratch-my-web-development-journey-ff9)
+- [&quot;Unlocking the Code: My Web Development Adventure Begins](https://dev.to/chitransh_he/unlocking-the-code-my-web-development-adventure-begins-161)
+- [Basic Git commands](https://dev.to/apk_leo0/basic-git-commands-3ibd)
+- [Como instalar o Zabbix no Debian: Guia Completo](https://dev.to/fernandomullerjr/como-instalar-o-zabbix-no-debian-guia-completo-nk2)
+- [Personas - Como perfis psicográficos moldaram o game design](https://dev.to/terminalcoffee/personas-como-perfis-psicograficos-moldaram-o-game-design-5402)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
