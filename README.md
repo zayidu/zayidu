@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Livros de Python que vale à pena você ler](https://dev.to/marcosplusplus/10-livros-de-python-que-vale-a-pena-voce-ler-1p7m)
-- [🤖Dueling AIs: Questioning and Answering with Language Models🚀](https://dev.to/llmware/dueling-ais-questioning-and-answering-with-language-models-5f0l)
-- [Create an e-commerce backend API using Node.js&lpar;TypeScript&rpar; and MongoDB](https://dev.to/theprogrammer/create-an-e-commerce-backend-api-using-nodejstypescript-and-mongodb-4lc4)
-- [Connecting to APIs with Python: Synchronous and Asynchronous Approaches](https://dev.to/koladev/connecting-to-apis-with-python-synchronous-and-asynchronous-approaches-5emf)
-- [The Data Security Duo: Data Encryption and Vulnerability Scans](https://dev.to/jarrid/the-data-security-duo-data-encryption-and-vulnerability-scans-g9b)
+- [🎓 HackerRank Skill Certificate: Software Engineer](https://dev.to/zobaidulkazi/hackerrank-skill-certificate-software-engineer-4c4h)
+- [Instalação do Ambiente Linux.](https://dev.to/isaac_pimentel_5fb436f017/instalacao-do-ambiente-linux-9ao)
+- [Fanout-Fanin Pattern in Go](https://dev.to/johnscode/fanout-fanin-in-go-3h9o)
+- [Controlling outgoing rate limit](https://dev.to/rafaquelhodev/controlling-outgoing-rate-limit-3klg)
+- [Simple Git Commands for Beginners](https://dev.to/tripp007/simple-git-commands-for-beginners-3l5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
