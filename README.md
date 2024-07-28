@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Next.js Starter Update: Tailwind CSS Landing Page and Testing Enhancements 🎉](https://dev.to/imevanc/nextjs-starter-update-tailwind-css-landing-page-and-testing-enhancements-4ip1)
-- [Building in Public - 5](https://dev.to/liaob/building-in-public-5-2i3j)
-- [Jr Penetration Tester- Intro to Offensive Security](https://dev.to/yowise/jr-penetration-tester-intro-to-offensive-security-4g2d)
-- [Just For Fun](https://dev.to/mamabias/just-for-fun-29ca)
-- [ASP.NET Web API ile Kubernetes Üzerinde Kesintisiz Deployment Kurgusu](https://dev.to/admiralkheir/aspnet-web-api-ile-kubernetes-uzerinde-kesintisiz-deployment-kurgusu-5c9o)
+- [Advanced Web Scraping Techniques](https://dev.to/kartikmehta8/advanced-web-scraping-techniques-4bh1)
+- [Fanin Pattern in Go](https://dev.to/johnscode/fanin-pattern-in-go-5e5d)
+- [Emails Setup in Django Using AWS](https://dev.to/yokwejuste/emails-setup-in-django-using-aws-o1e)
+- [Keyper by Jarrid: Introduce Integrated Key + Role Management](https://dev.to/jarrid-xyz/keyper-by-jarrid-introduce-integrated-key-role-management-l67)
+- [Rusty Recipies: sqlx + Uuid](https://dev.to/ellie_sager_elliecat/rusty-recipies-sqlx-uuid-477m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
