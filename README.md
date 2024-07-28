@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Chose Meilisearch Over 10+ Other Search Engines Despite a Major Drawback](https://dev.to/lincemathew/we-chose-meilisearch-over-10-other-search-engines-despite-a-major-drawback-7g8)
-- [🤖 100 Days of Generative AI - Day 3 - Attention Is All You Need 🤖](https://dev.to/lakhera2015/100-days-of-generative-ai-day-3-attention-is-all-you-need-3ioo)
-- [Talk to My Document: A Serverless RAG approach using Huggingface, Amazon Lex and Amazon DynamoDB](https://dev.to/amlana24/talk-to-my-document-a-serverless-rag-approach-using-huggingface-amazon-lex-and-amazon-dynamodb-2jm1)
-- [looking for an entry point into IT](https://dev.to/torajuro/looking-for-an-entry-point-into-it-1c9p)
-- [Object Composition and Abstractions in OOP](https://dev.to/ghulam_mujtaba_247/object-composition-and-abstractions-in-oop-ihk)
+- [Backend developer guidance](https://dev.to/rudra45/backend-developer-guidance-241i)
+- [What does if __name__ =&#39;__main__&#39; do in Python?](https://dev.to/kaustubh_upadhyay_/what-does-if-name-main-do-in-python-40hm)
+- [Maintain the proper naming convention and tagging for resources throughout development](https://dev.to/binoy_59380e698d318/maintain-the-proper-naming-convention-and-tagging-for-resources-throughout-development-3bl1)
+- [Chat Server in Ruby Sockets](https://dev.to/faxriddinmaxmadiyorov/sockets-in-ruby-36c5)
+- [🐧 Some Linux Commands You May Need to Know: Part 1](https://dev.to/dibyataruchakraborty/some-linux-commands-you-may-need-to-know-part-1-4f48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
