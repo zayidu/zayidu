@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How many widgets does flutter have?](https://dev.to/aadarshk7/how-many-widgets-does-flutter-have-3m1a)
-- [top 5 tools](https://dev.to/md_antor_1c69533080e08a51/top-5-tools-1hej)
-- [Emulating USB Protocol over BLE for Data Transfer](https://dev.to/jusgoose/emulating-usb-protocol-over-ble-for-data-transfer-2hn3)
-- [Understanding System Modelling and Design with UML: A Practical Guide](https://dev.to/shahtanya/understanding-system-modelling-and-design-with-uml-a-practical-guide-3mfp)
-- [Day 2: Exploring the Azure Portal - Your Gateway to Cloud Management](https://dev.to/dipakahirav/day-2-exploring-the-azure-portal-your-gateway-to-cloud-management-4k1g)
+- [Oversimplified Golang Channel!](https://dev.to/ashsajal/oversimplified-golang-channel-2e42)
+- [Create Custom Radio Buttons with CSS Animation](https://dev.to/labex/create-custom-radio-buttons-with-css-animation-mpn)
+- [ExpressoTS on The Rise???](https://dev.to/expressots/expressots-on-the-rise-1d5e)
+- [Navigating the React-TypeScript Landscape with React Router](https://dev.to/virajlakshitha/navigating-the-react-typescript-landscape-with-react-router-npg)
+- [[CYBERSECURITY] Tendência Passwordless](https://dev.to/womakerscode/cybersecurity-tendencia-passwordless-1gji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
