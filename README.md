@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥Uncovering JavaScript&#39;s Hidden Gems: Exceptional Conditional Operators](https://dev.to/noorscript/uncovering-javascripts-hidden-gems-exceptional-conditional-operators-1b58)
-- [TypeScript Generics: Building Flexible and Reusable Components](https://dev.to/nahidulislam/typescript-generics-building-flexible-and-reusable-components-4743)
-- [Mastering Fragments in Java for Android Development](https://dev.to/ankittmeena/mastering-fragments-in-java-for-android-development-1ach)
-- [Transform Your Cloud Skills: A Hands-On Guide to Building a Serverless Resume Application](https://dev.to/zablonoigo/transform-your-cloud-skills-a-hands-on-guide-to-building-a-serverless-resume-application-4i7d)
-- [Differences and Usage of as const and Readonly in TypeScript](https://dev.to/tommykw/differences-and-usage-of-as-const-and-readonly-in-typescript-4bkb)
+- [DBOS-Cloud: Minimal Effort Change Data Capture &lpar;CDC&rpar; Tool](https://dev.to/vince_hirefunnel_co/dbos-cloud-minimal-effort-change-data-capture-cdc-tool-4c0d)
+- [System Design Basics - Load Balancing Algorithms](https://dev.to/somadevtoo/system-design-basics-load-balancing-algorithms-2559)
+- [How the Recomendation System Works...](https://dev.to/krishnaa192/how-the-recomendation-system-works-o97)
+- [let, var or const, what&#39;s the difference?](https://dev.to/marlonmunoz/let-var-or-const-whats-the-difference-33ll)
+- [The Power of Digital Marketing: Transforming Business Strategies in the Modern Age](https://dev.to/eazealliance/the-power-of-digital-marketing-transforming-business-strategies-in-the-modern-age-7fi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
