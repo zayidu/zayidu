@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue 3 Auto Routing By File Structure](https://dev.to/jenueldev/vue-3-auto-routing-by-file-structure-2hac)
-- [Managing Multiple GitHub Accounts in VS Code: A Comprehensive Guide](https://dev.to/itsfarhankhan28/managing-multiple-github-accounts-in-vs-code-a-comprehensive-guide-2d5g)
-- [This Week&#39;s Learning: Python and Git Basics for DevOps &lpar;Week 2&rpar;](https://dev.to/alifareed0009/this-weeks-learning-python-and-git-basics-for-devops-week-2-5ghc)
-- [2 Authentication Methods in Web Development: Session-Based vs. Token-Based!](https://dev.to/rajondey/2-authentication-methods-in-web-development-session-based-vs-token-based-52cb)
-- [How I built my own SeedBox with K8S](https://dev.to/bounteous17/how-i-built-my-own-seedbox-with-k8s-1gp7)
+- [5 sites to check website accessibility](https://dev.to/axorax/5-sites-to-check-website-accessibility-21l6)
+- [Refactoring](https://dev.to/framemuse/refactoring-4ln4)
+- [Adding Type Validations and Autocomplete to JSON](https://dev.to/gzamann/adding-type-validations-and-autocomplete-to-json-1mka)
+- [Web Accessibility](https://dev.to/gzamann/web-accessibility-2eg9)
+- [Naming Conventions In Javascript](https://dev.to/gzamann/naming-conventions-in-javascript-ggj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
