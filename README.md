@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Today&#39;s Trending Projects: Soldier Serial Number Generator and More](https://dev.to/labex/todays-trending-projects-soldier-serial-number-generator-and-more-15g6)
-- [Font-size no CSS, qual unidade usar?](https://dev.to/lixeletto/font-size-no-css-qual-unidade-usar-184d)
-- [The Thunder Island Navigator](https://dev.to/mlr/the-thunder-island-navigator-2j2n)
-- [How to Build Responsive Websites with HTML and CSS](https://dev.to/media_geneous/how-to-build-responsive-websites-with-html-and-css-3ja7)
-- [Triumph Over AWS SAP-C02: My Journey from Uncertainty to Success](https://dev.to/vishnu_rachapudi_75e73248/triumph-over-aws-sap-c02-my-journey-from-uncertainty-to-success-1mn2)
+- [How many widgets does flutter have?](https://dev.to/aadarshk7/how-many-widgets-does-flutter-have-3m1a)
+- [top 5 tools](https://dev.to/md_antor_1c69533080e08a51/top-5-tools-1hej)
+- [Emulating USB Protocol over BLE for Data Transfer](https://dev.to/jusgoose/emulating-usb-protocol-over-ble-for-data-transfer-2hn3)
+- [Understanding System Modelling and Design with UML: A Practical Guide](https://dev.to/shahtanya/understanding-system-modelling-and-design-with-uml-a-practical-guide-3mfp)
+- [Day 2: Exploring the Azure Portal - Your Gateway to Cloud Management](https://dev.to/dipakahirav/day-2-exploring-the-azure-portal-your-gateway-to-cloud-management-4k1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
