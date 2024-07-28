@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CrowdStrike is overhauling their QA process](https://dev.to/qacomet/crowdstrike-is-overhauling-their-qa-process-1oh)
-- [Auth with JWT+Cookie](https://dev.to/jay818/auth-with-jwtcookie-10hc)
-- [40 Days Of Kubernetes &lpar;23/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-2340-559o)
-- [Introducing UltraAI.app — All-in-one AI command center for your product.](https://dev.to/ultraai/introducing-ultraaiapp-all-in-one-ai-command-center-for-your-product-4005)
-- [Optimizing Your Work-from-Home Setup for Career Success](https://dev.to/snmeans/optimizing-your-work-from-home-setup-for-career-success-47na)
+- [10 Livros de Python que vale à pena você ler](https://dev.to/marcosplusplus/10-livros-de-python-que-vale-a-pena-voce-ler-1p7m)
+- [🤖Dueling AIs: Questioning and Answering with Language Models🚀](https://dev.to/llmware/dueling-ais-questioning-and-answering-with-language-models-5f0l)
+- [Create an e-commerce backend API using Node.js&lpar;TypeScript&rpar; and MongoDB](https://dev.to/theprogrammer/create-an-e-commerce-backend-api-using-nodejstypescript-and-mongodb-4lc4)
+- [Connecting to APIs with Python: Synchronous and Asynchronous Approaches](https://dev.to/koladev/connecting-to-apis-with-python-synchronous-and-asynchronous-approaches-5emf)
+- [The Data Security Duo: Data Encryption and Vulnerability Scans](https://dev.to/jarrid/the-data-security-duo-data-encryption-and-vulnerability-scans-g9b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
