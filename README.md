@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Remote Workers, Beware: 5 Cybersecurity Pitfalls That Could Ruin Your Job &lpar;And How to Avoid Them!&rpar;](https://dev.to/verifyvault/remote-workers-beware-5-cybersecurity-pitfalls-that-could-ruin-your-job-and-how-to-avoid-them-550h)
-- [A Voyage through Algorithms using Javascript - Bubble Sort](https://dev.to/humblecoder00/a-voyage-through-algorithms-using-javascript-bubble-sort-1enh)
-- [Full Introduction to Golang with Test-Driven Development. Part I](https://dev.to/kovalevsky/full-introduction-to-golang-with-test-driven-development-part-i-12ni)
-- [Serverless Security - Cognito Misconfigurations](https://dev.to/makit/serverless-security-cognito-misconfigurations-1co0)
-- [JS: Promise or Callback?](https://dev.to/dariansdev/js-promise-or-callback-704)
+- [Getting Started with Embedded System Development: A Beginner&#39;s Guide](https://dev.to/adityapandey0502/getting-started-with-embedded-system-development-a-beginners-guide-52gn)
+- [**Day 0: Introduction to My 30-Day DevOps Journey**](https://dev.to/singh_in_cloud/day-0-introduction-to-my-30-day-devops-journey-3ho7)
+- [Become a Tech Leader: Join the Microsoft Learn Student Ambassador Program!](https://dev.to/mahrukh_adeel/become-a-tech-leader-join-the-microsoft-learn-student-ambassador-program-1f3c)
+- [Indeterminacy of the `mime` Package in Go: Trust But Verify](https://dev.to/panic_err/indeterminacy-of-the-mime-package-in-go-trust-but-verify-1lg5)
+- [JavaScript on the Server: Node.js](https://dev.to/achal_tiwari/javascript-on-the-server-nodejs-3lhg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
