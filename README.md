@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Dangers of The Hidden Dangers of Shallow Copying in JavaScript: Lessons from API Response Handling](https://dev.to/akshatsoni26/the-hidden-dangers-of-the-hidden-dangers-of-shallow-copying-in-javascript-lessons-from-api-response-handling-1cp1)
-- [IntersectionObserver API,检测元素是否进入或离开视口](https://dev.to/dennischeung/intersectionobserver-apijian-ce-yuan-su-shi-fou-jin-ru-huo-chi-kai-shi-kou-2f2k)
-- [Understanding the difference between Static Site Generation &lpar;SSG&rpar; and Server Side Rendering &lpar;SSR&rpar;](https://dev.to/krishnasarathi/understanding-the-difference-between-static-site-generation-ssg-and-server-side-rendering-ssr-bbk)
-- [Top 22 C++ Interview Questions and Answers for 2024](https://dev.to/imkrunalkanojiya/top-22-c-interview-questions-and-answers-for-2024-2gok)
-- [图片懒加载组件](https://dev.to/dennischeung/tu-pian-lan-jia-zai-zu-jian-33bk)
+- [Python - Built-in functions - all&lpar;&rpar;](https://dev.to/rudth/python-built-in-functions-all-hp3)
+- [Some Important Terms to Know in Linux](https://dev.to/letsbsocial1/some-important-terms-to-know-in-linux-46ko)
+- [How to Write BLoC Tests to Improve Code Quality](https://dev.to/supejuice/how-to-write-bloc-tests-to-improve-code-quality-4ol)
+- [Python - Built-in functions - abs&lpar;&rpar;](https://dev.to/rudth/python-built-in-functions-abs-1lji)
+- [Harder HTB: Using only the terminal](https://dev.to/sh4nks/harder-htb-1d9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
