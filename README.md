@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 sites to check website accessibility](https://dev.to/axorax/5-sites-to-check-website-accessibility-21l6)
-- [Refactoring](https://dev.to/framemuse/refactoring-4ln4)
-- [Adding Type Validations and Autocomplete to JSON](https://dev.to/gzamann/adding-type-validations-and-autocomplete-to-json-1mka)
-- [Web Accessibility](https://dev.to/gzamann/web-accessibility-2eg9)
-- [Naming Conventions In Javascript](https://dev.to/gzamann/naming-conventions-in-javascript-ggj)
+- [How to create a global package using Node.js](https://dev.to/avinash_tare/how-to-create-a-global-package-using-nodejs-2j10)
+- [JavaScript MMORPG - Maiu Online - #babylonjs - Ep32: Fully functional inventory system](https://dev.to/maiu/javascript-mmorpg-maiu-online-babylonjs-ep32-fully-functional-inventory-system-4572)
+- [Setup Linux Box on Local with Docker Container](https://dev.to/binoy_59380e698d318/setup-linux-box-on-local-with-docker-container-3k8)
+- [6 JavaScript features to improve your productivity](https://dev.to/dunsincodes/6-javascript-features-to-improve-your-productivity-54gj)
+- [Symfony Station Communiqué — 26 July 2024: A Look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-26-july-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-4hai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
