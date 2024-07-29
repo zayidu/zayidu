@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tool call with local model using Ollama and AutoGen.Net](https://dev.to/littlelittlecloud/tool-call-with-local-model-using-ollama-and-autogennet-3o64)
-- [Magic Strings &amp; Magic Numbers 🪄](https://dev.to/thibaultchatelain/magic-strings-magic-numbers-4fa4)
-- [🧱 Custom components 💏 API{GEE} : sms automation w. Power Platform](https://dev.to/optnc/custom-components-apigee-sms-automation-w-power-platform-1mk7)
-- [Dual Node TypeScript Packages - The Easy Way](https://dev.to/ragrag/dual-node-typescript-packages-the-easy-way-1ko4)
-- [What is a better way to handle interdependent tasks?](https://dev.to/ananto30/what-is-a-better-way-to-handle-interdependent-tasks-l50)
+- [The Impact of Poor Endpoint Monitoring and Backend Error Tracking: A CTO&#39;s Perspective](https://dev.to/irhose/the-impact-of-poor-endpoint-monitoring-and-backend-error-tracking-a-ctos-perspective-2ma2)
+- [Boosting Devops Productivity with Forms and Power Automate](https://dev.to/arindam0310018/boosting-devops-productivity-with-forms-and-power-automate-2e63)
+- [An Introduction to TypeScript for JavaScript Developers](https://dev.to/media_geneous/an-introduction-to-typescript-for-javascript-developers-l63)
+- [Well-typed, accelerated ML](https://dev.to/joelberkeley/well-typed-accelerated-ml-alpha-5cme)
+- [Day 999 : Tomorrow](https://dev.to/dwane/day-999-tomorrow-4hdm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
