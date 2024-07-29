@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [37 Common JavaScript Utility Functions for String, Object, Array &amp; Date](https://dev.to/syakirurahman/37-common-javascript-utility-functions-for-string-object-array-date-2afb)
-- [Easily Split and Rename PDFs for Skyward](https://dev.to/blacknight318/easily-split-and-rename-pdfs-for-skyward-17ha)
-- [Introduction to Feature Flagging: A Beginner&#39;s Guide](https://dev.to/flipt/introduction-to-feature-flagging-a-beginners-guide-4o9c)
-- [Building PayBee, a Digital Wallet with Flutter &amp; Laravel: The Rewarding Journey Through Hustle and Heart](https://dev.to/ultracoolbru/building-paybee-a-digital-wallet-with-flutter-laravel-the-rewarding-journey-through-hustle-and-heart-7pj)
-- [&quot;zsh: command not found: flutter&quot; m2 pro silicon](https://dev.to/herik06/zsh-command-not-found-flutter-m2-pro-silicon-1go9)
+- [How to Connect to Google Cloud VM Instances Using Your Terminal](https://dev.to/manojspace/how-to-connect-to-google-cloud-vm-instances-using-your-terminal-4b3i)
+- [Deploy static site manually using Netlify in 2024](https://dev.to/axorax/deploy-static-site-manually-using-netlify-in-2024-hf3)
+- [Linux Mint, A Comprehensive Overview](https://dev.to/jumashafara/linux-mint-a-comprehensive-overview-3ka2)
+- [🌐 **Why Cloud Computing is Crucial in Today&#39;s World** ☁️](https://dev.to/nawazalishah/why-cloud-computing-is-crucial-in-todays-world-1nf9)
+- [Learn How to Add a Theme Switcher with Shadcn UI and NextJS! 🎨🚀](https://dev.to/gkhan205/learn-how-to-add-a-theme-switcher-with-shadcn-ui-and-nextjs-21aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
