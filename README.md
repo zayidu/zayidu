@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming Hard Rate Limits: Efficient Rate Limiting with Token Bucketing and Redis](https://dev.to/middleware/overcoming-hard-rate-limits-efficient-rate-limiting-with-token-bucketing-and-redis-4gcb)
-- [The Imperative of Robust Automotive Software Testing](https://dev.to/abhayit2000/the-imperative-of-robust-automotive-software-testing-58en)
-- [200 Best AI Tools of 2024: Guide to Artificial Intelligence Solutions](https://dev.to/pablonax/200-best-ai-tools-of-2024-guide-to-artificial-intelligence-solutions-2lic)
-- [17 Most Powerful AI Tools for Developers](https://dev.to/marscode/17-most-powerful-ai-tools-for-developers-e6n)
-- [What is Financial Accounting Meaning? Principles, Importance and Why It Matters](https://dev.to/arnav_rathod_c3768799eacc/what-is-financial-accounting-meaning-principles-importance-and-why-it-matters-4de8)
+- [Embed Terabox Videos Without ADS for Free](https://dev.to/banmyaccount/embed-terabox-videos-without-ads-for-free-2no3)
+- [Assessing Mobile Performance of Large Language Models with MELTing Point Framework](https://dev.to/mikeyoung44/assessing-mobile-performance-of-large-language-models-with-melting-point-framework-5aa)
+- [Integration of Apache Iceberg in S3, Glue, Athena, Matillion, and Snowflake – Part 1](https://dev.to/zirkonium88/integration-of-apache-iceberg-in-s3-glue-athena-matillion-and-snowflake-part-1-4gin)
+- [What makes production grade code to production grade ?](https://dev.to/shanu001x/what-makes-production-grade-code-to-production-grade--emn)
+- [NestJs-Mod updated for work with NX v.19.5.3](https://dev.to/endykaufman/nestjs-mod-updated-for-work-with-nx-v1953-42p0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
