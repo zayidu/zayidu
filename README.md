@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SFU vs MCU vs P2P: WebRTC Architectures Explained](https://dev.to/alakkadshaw/sfu-vs-mcu-vs-p2p-webrtc-architectures-explained-163d)
-- [One-Year Summary of Using VIM](https://dev.to/justlorain/one-year-summary-of-using-vim-1gkp)
-- [Parcauto OneTECH](https://dev.to/rabiezouita11/parcauto-onetech-4382)
-- [Azure | Ways to Connect to Microsoft Azure](https://dev.to/hbolajraf/azure-ways-to-connect-to-microsoft-azure-2ngj)
-- [Ice vegas](https://dev.to/rabiezouita11/ice-vegas-137a)
+- [Publishing App on F-Droid for Free](https://dev.to/sh20raj/publishing-app-on-f-droid-for-free-519i)
+- [How AI is Revolutionizing Modern Web Development: Key Trends and Tools](https://dev.to/stokry/how-ai-is-revolutionizing-modern-web-development-key-trends-and-tools-2pfg)
+- [What If You Need to Use useSelector Outside of React Components?](https://dev.to/khaled17/what-if-you-need-to-use-useselector-outside-of-react-components-h7g)
+- [How MySQL Tuning Improves the Laravel Performance](https://dev.to/drupaladmin/how-mysql-tuning-improves-the-laravel-performance-282j)
+- [Equivalence Class Partitioning: A Comprehensive Guide for Effective Software Testing](https://dev.to/robort_smith/equivalence-class-partitioning-a-comprehensive-guide-for-effective-software-testing-2216)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
