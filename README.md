@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP crash course: Simple To-Do List](https://dev.to/mdarifulhaque/php-crash-course-simple-to-do-list-j18)
-- [Improving the Bitcoin network using Utreexo](https://dev.to/alainjr10/improving-the-bitcoin-network-using-utreexo-1dcb)
-- [Why do programs wear out?](https://dev.to/taqmuraz/why-do-programs-wear-out-j58)
-- [Perfomance em Microsserviços](https://dev.to/mario_beani/perfomance-em-microsservicos-5c99)
-- [DEV Challenge: Glam up my Markup-Cricket League](https://dev.to/annavi11arrea1/dev-challenge-glam-up-my-markup-cricket-league-2092)
+- [Tool call with local model using Ollama and AutoGen.Net](https://dev.to/littlelittlecloud/tool-call-with-local-model-using-ollama-and-autogennet-3o64)
+- [Magic Strings &amp; Magic Numbers 🪄](https://dev.to/thibaultchatelain/magic-strings-magic-numbers-4fa4)
+- [🧱 Custom components 💏 API{GEE} : sms automation w. Power Platform](https://dev.to/optnc/custom-components-apigee-sms-automation-w-power-platform-1mk7)
+- [Dual Node TypeScript Packages - The Easy Way](https://dev.to/ragrag/dual-node-typescript-packages-the-easy-way-1ko4)
+- [What is a better way to handle interdependent tasks?](https://dev.to/ananto30/what-is-a-better-way-to-handle-interdependent-tasks-l50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
