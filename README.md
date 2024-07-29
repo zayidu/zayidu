@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Embed Terabox Videos Without ADS for Free](https://dev.to/banmyaccount/embed-terabox-videos-without-ads-for-free-2no3)
-- [Assessing Mobile Performance of Large Language Models with MELTing Point Framework](https://dev.to/mikeyoung44/assessing-mobile-performance-of-large-language-models-with-melting-point-framework-5aa)
-- [Integration of Apache Iceberg in S3, Glue, Athena, Matillion, and Snowflake – Part 1](https://dev.to/zirkonium88/integration-of-apache-iceberg-in-s3-glue-athena-matillion-and-snowflake-part-1-4gin)
-- [What makes production grade code to production grade ?](https://dev.to/shanu001x/what-makes-production-grade-code-to-production-grade--emn)
-- [NestJs-Mod updated for work with NX v.19.5.3](https://dev.to/endykaufman/nestjs-mod-updated-for-work-with-nx-v1953-42p0)
+- [Creating A Virtual Machine in Microsoft Azure](https://dev.to/rofiatabdulkareem/creating-a-virtual-machine-in-microsoft-azure-3d49)
+- [What Is Digital Surface Model?](https://dev.to/satpalda/what-is-digital-surface-model-170a)
+- [Understanding Optional Chaining in JavaScript](https://dev.to/mark_kibuthu/understanding-optional-chaining-in-javascript-3i7)
+- [Understanding Kafka Producer](https://dev.to/automq/understanding-kafka-producer-5b45)
+- [Top Test Automation Tools for Salesforce](https://dev.to/berthaw82414312/top-test-automation-tools-for-salesforce-673)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
