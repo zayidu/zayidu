@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como escalar las consultas de AWS Lambda RDS Proxy conéctese a RDS &lpar;Aurora&rpar;](https://dev.to/kevinl/como-escalar-las-consultas-de-aws-lambda-rds-proxy-conectese-a-rds-aurora-3b19)
-- [Today&#39;s Trending Projects: Identify MVP Recipient in Game and More](https://dev.to/labex/todays-trending-projects-identify-mvp-recipient-in-game-and-more-943)
-- [How Define the Type of Loader in Remix](https://dev.to/yuichi_nabeshima_canada/how-add-the-type-of-loader-in-remix-1od5)
-- [10 Key Benefits of Collaboration and Teamwork](https://dev.to/bryany/10-key-benefits-of-collaboration-and-teamwork-2fcd)
-- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;22/07/2024-28/07/2024](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-22072024-28072024-4ham)
+- [webpack publicpath](https://dev.to/zwd321081/webpack-publicpath-321h)
+- [Implementing Dynamic Social Media Sharing in Your React App with React Share](https://dev.to/michaellarocca/implementing-dynamic-social-media-sharing-in-your-react-app-with-react-share-o52)
+- [Svelte Series-7: The Syntax $](https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-7-the-syntax--37ef)
+- [On asking questions while mentoring](https://dev.to/mariorobles93/on-asking-questions-while-mentoring-45oj)
+- [jQuery&#39;s Role in Modern Web Development: Beginnings, 2024, and Beyond](https://dev.to/wendyver/jquerys-role-in-modern-web-development-beginnings-2024-and-beyond-1223)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
