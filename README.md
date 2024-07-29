@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How we can create a Pix Qrcode using Java ☕ and Spring 🍃](https://dev.to/felipejansendeveloper/how-we-can-create-a-pix-qrcode-using-java-and-spring-17gi)
-- [Day 20 of my 90-day DevOps journey: Configuring Alerting Rules in Prometheus for Beginners and Intermediates](https://dev.to/arbythecoder/day-20-of-my-90-day-devops-journey-configuring-alerting-rules-in-prometheus-for-beginners-and-intermediates-4ef3)
-- [Mastering Next.js: My Journey from SSG to SSR Through Trial and Error](https://dev.to/hs309123/mastering-nextjs-my-journey-from-ssg-to-ssr-through-trial-and-error-3j9c)
-- [Developed an image compression site to fight pandas.](https://dev.to/yosipy/the-story-of-the-development-of-an-image-compression-site-that-fights-pandas-4i84)
-- [Build Bot Web.js to Extract Data from Shopping Receipts](https://dev.to/jennifier_syhne_e8fe4b34f/build-bot-webjs-to-extract-data-from-shopping-receipts-3ekk)
+- [PHP crash course: Simple To-Do List](https://dev.to/mdarifulhaque/php-crash-course-simple-to-do-list-j18)
+- [Improving the Bitcoin network using Utreexo](https://dev.to/alainjr10/improving-the-bitcoin-network-using-utreexo-1dcb)
+- [Why do programs wear out?](https://dev.to/taqmuraz/why-do-programs-wear-out-j58)
+- [Perfomance em Microsserviços](https://dev.to/mario_beani/perfomance-em-microsservicos-5c99)
+- [DEV Challenge: Glam up my Markup-Cricket League](https://dev.to/annavi11arrea1/dev-challenge-glam-up-my-markup-cricket-league-2092)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
