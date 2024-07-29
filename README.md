@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Connect to Google Cloud VM Instances Using Your Terminal](https://dev.to/manojspace/how-to-connect-to-google-cloud-vm-instances-using-your-terminal-4b3i)
-- [Deploy static site manually using Netlify in 2024](https://dev.to/axorax/deploy-static-site-manually-using-netlify-in-2024-hf3)
-- [Linux Mint, A Comprehensive Overview](https://dev.to/jumashafara/linux-mint-a-comprehensive-overview-3ka2)
-- [🌐 **Why Cloud Computing is Crucial in Today&#39;s World** ☁️](https://dev.to/nawazalishah/why-cloud-computing-is-crucial-in-todays-world-1nf9)
-- [Learn How to Add a Theme Switcher with Shadcn UI and NextJS! 🎨🚀](https://dev.to/gkhan205/learn-how-to-add-a-theme-switcher-with-shadcn-ui-and-nextjs-21aj)
+- [AIM Weekly for 29 July 2024](https://dev.to/tspannhw/aim-weekly-for-29-july-2024-4153)
+- [Dark SaaS Landing page template 🔥](https://dev.to/paul_freeman/dark-saas-landing-page-template-1md3)
+- [Is my excitement just a beginner&#39;s thing?](https://dev.to/an5189/is-my-excitement-just-a-beginners-thing-4h4j)
+- [From Monolith to Microservices: How to Improve Agility and Reduce Time-to-Market](https://dev.to/marufhossain/from-monolith-to-microservices-how-to-improve-agility-and-reduce-time-to-market-4m29)
+- [Exposing Salesforce Flows as API Endpoints: A No-Code Approach](https://dev.to/sushant_khandagale/exposing-salesforce-flows-as-api-endpoints-a-no-code-approach-jo1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
