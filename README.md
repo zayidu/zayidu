@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Starting from Scratch: My Web Development Journey](https://dev.to/saumya_singh18/starting-from-scratch-my-web-development-journey-ff9)
-- [&quot;Unlocking the Code: My Web Development Adventure Begins](https://dev.to/chitransh_he/unlocking-the-code-my-web-development-adventure-begins-161)
-- [Basic Git commands](https://dev.to/apk_leo0/basic-git-commands-3ibd)
-- [Como instalar o Zabbix no Debian: Guia Completo](https://dev.to/fernandomullerjr/como-instalar-o-zabbix-no-debian-guia-completo-nk2)
-- [Personas - Como perfis psicográficos moldaram o game design](https://dev.to/terminalcoffee/personas-como-perfis-psicograficos-moldaram-o-game-design-5402)
+- [Python Decorators: Beyond the Basics](https://dev.to/kartikmehta8/python-decorators-beyond-the-basics-3hm5)
+- [Building a React App to Fetch and Display BTC Unspent Outputs: A Beginner&#39;s Guide](https://dev.to/mibii/building-a-react-app-to-fetch-and-display-btc-unspent-outputs-a-beginners-guide-2g82)
+- [Princípios SOLID em GoLang - Open/Closed Principle &lpar;OCP&rpar;](https://dev.to/waliqueiroz/principios-solid-em-golang-openclosed-principle-ocp-422p)
+- [JavaScript Date prototype Property](https://dev.to/lakmal_asela_8be4eb30d9db/javascript-date-prototype-property-5f17)
+- [Slim Framework](https://dev.to/nirav_thakar_5788b01896a2/slim-framework-39b8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
