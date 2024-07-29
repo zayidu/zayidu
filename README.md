@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Servers! What are they?](https://dev.to/jockko/servers-what-are-they-2e1i)
-- [Free ngrok alternative for async web dev - the Hookdeck CLI](https://dev.to/hookdeck/free-ngrok-alternative-for-async-web-dev-the-hookdeck-cli-5f6j)
-- [Concurrency and parallelism in PHP &lpar;part 1&rpar;](https://dev.to/gabrieloliverio/concurrency-and-parallelism-in-php-part-1-21m5)
-- [Node.js Express Sequelize Boilerplate - Exploring the Directory Structure](https://dev.to/chetanppatil/nodejs-express-sequelize-boilerplate-exploring-the-directory-structure-44n8)
-- [Improve the Build Process of your Apps](https://dev.to/luizrebelatto/improve-the-build-process-of-your-apps-5ecn)
+- [How we can create a Pix Qrcode using Java ☕ and Spring 🍃](https://dev.to/felipejansendeveloper/how-we-can-create-a-pix-qrcode-using-java-and-spring-17gi)
+- [Day 20 of my 90-day DevOps journey: Configuring Alerting Rules in Prometheus for Beginners and Intermediates](https://dev.to/arbythecoder/day-20-of-my-90-day-devops-journey-configuring-alerting-rules-in-prometheus-for-beginners-and-intermediates-4ef3)
+- [Mastering Next.js: My Journey from SSG to SSR Through Trial and Error](https://dev.to/hs309123/mastering-nextjs-my-journey-from-ssg-to-ssr-through-trial-and-error-3j9c)
+- [Developed an image compression site to fight pandas.](https://dev.to/yosipy/the-story-of-the-development-of-an-image-compression-site-that-fights-pandas-4i84)
+- [Build Bot Web.js to Extract Data from Shopping Receipts](https://dev.to/jennifier_syhne_e8fe4b34f/build-bot-webjs-to-extract-data-from-shopping-receipts-3ekk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
