@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Proper Use of useEffect in React: A Comprehensive Guide](https://dev.to/srijan_karki/the-proper-use-of-useeffect-in-react-a-comprehensive-guide-1edi)
-- [#35 - Get A Random Row from Each Group](https://dev.to/judith677/35-get-a-random-row-from-each-group-25hi)
-- [Discovering the Charm of Ceramic Keycaps](https://dev.to/mysticcoder/discovering-the-charm-of-ceramic-keycaps-37e5)
-- [Covariance Estimation | Statistical Techniques | Data Analysis](https://dev.to/labex/covariance-estimation-statistical-techniques-data-analysis-42ej)
-- [How to Self-Learn Coding?](https://dev.to/shariqahmed525/how-to-self-learn-coding-27h3)
+- [My Least Favorite Part of C# Evolution: Inconsistency](https://dev.to/canro91/my-least-favorite-part-of-c-evolution-inconsistency-5d8b)
+- [time format ใน Go](https://dev.to/pallat/time-format-ain-go-4g23)
+- [Dive into the Wonderful World of Java with this Beginner-Friendly Course! 🚀](https://dev.to/getvm/dive-into-the-wonderful-world-of-java-with-this-beginner-friendly-course-20go)
+- [Understanding JavaScript Promises](https://dev.to/rahulvijayvergiya/understanding-javascript-promises-29j4)
+- [Integrate Draw.io and MathType with TinyMCE in NextJs Application](https://dev.to/sagar_gurung_7/integrate-drawio-and-mathtype-with-tinymce-in-nextjs-application-1lbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
