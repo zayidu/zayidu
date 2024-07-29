@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Decorators: Beyond the Basics](https://dev.to/kartikmehta8/python-decorators-beyond-the-basics-3hm5)
-- [Building a React App to Fetch and Display BTC Unspent Outputs: A Beginner&#39;s Guide](https://dev.to/mibii/building-a-react-app-to-fetch-and-display-btc-unspent-outputs-a-beginners-guide-2g82)
-- [Princípios SOLID em GoLang - Open/Closed Principle &lpar;OCP&rpar;](https://dev.to/waliqueiroz/principios-solid-em-golang-openclosed-principle-ocp-422p)
-- [JavaScript Date prototype Property](https://dev.to/lakmal_asela_8be4eb30d9db/javascript-date-prototype-property-5f17)
-- [Slim Framework](https://dev.to/nirav_thakar_5788b01896a2/slim-framework-39b8)
+- [Como escalar las consultas de AWS Lambda RDS Proxy conéctese a RDS &lpar;Aurora&rpar;](https://dev.to/kevinl/como-escalar-las-consultas-de-aws-lambda-rds-proxy-conectese-a-rds-aurora-3b19)
+- [Today&#39;s Trending Projects: Identify MVP Recipient in Game and More](https://dev.to/labex/todays-trending-projects-identify-mvp-recipient-in-game-and-more-943)
+- [How Define the Type of Loader in Remix](https://dev.to/yuichi_nabeshima_canada/how-add-the-type-of-loader-in-remix-1od5)
+- [10 Key Benefits of Collaboration and Teamwork](https://dev.to/bryany/10-key-benefits-of-collaboration-and-teamwork-2fcd)
+- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;22/07/2024-28/07/2024](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-22072024-28072024-4ham)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
