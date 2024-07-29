@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [webpack publicpath](https://dev.to/zwd321081/webpack-publicpath-321h)
-- [Implementing Dynamic Social Media Sharing in Your React App with React Share](https://dev.to/michaellarocca/implementing-dynamic-social-media-sharing-in-your-react-app-with-react-share-o52)
-- [Svelte Series-7: The Syntax $](https://dev.to/frost_gary_90f3cf1699bd02/svelte-series-7-the-syntax--37ef)
-- [On asking questions while mentoring](https://dev.to/mariorobles93/on-asking-questions-while-mentoring-45oj)
-- [jQuery&#39;s Role in Modern Web Development: Beginnings, 2024, and Beyond](https://dev.to/wendyver/jquerys-role-in-modern-web-development-beginnings-2024-and-beyond-1223)
+- [The Proper Use of useEffect in React: A Comprehensive Guide](https://dev.to/srijan_karki/the-proper-use-of-useeffect-in-react-a-comprehensive-guide-1edi)
+- [#35 - Get A Random Row from Each Group](https://dev.to/judith677/35-get-a-random-row-from-each-group-25hi)
+- [Discovering the Charm of Ceramic Keycaps](https://dev.to/mysticcoder/discovering-the-charm-of-ceramic-keycaps-37e5)
+- [Covariance Estimation | Statistical Techniques | Data Analysis](https://dev.to/labex/covariance-estimation-statistical-techniques-data-analysis-42ej)
+- [How to Self-Learn Coding?](https://dev.to/shariqahmed525/how-to-self-learn-coding-27h3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
