@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Publishing App on F-Droid for Free](https://dev.to/sh20raj/publishing-app-on-f-droid-for-free-519i)
-- [How AI is Revolutionizing Modern Web Development: Key Trends and Tools](https://dev.to/stokry/how-ai-is-revolutionizing-modern-web-development-key-trends-and-tools-2pfg)
-- [What If You Need to Use useSelector Outside of React Components?](https://dev.to/khaled17/what-if-you-need-to-use-useselector-outside-of-react-components-h7g)
-- [How MySQL Tuning Improves the Laravel Performance](https://dev.to/drupaladmin/how-mysql-tuning-improves-the-laravel-performance-282j)
-- [Equivalence Class Partitioning: A Comprehensive Guide for Effective Software Testing](https://dev.to/robort_smith/equivalence-class-partitioning-a-comprehensive-guide-for-effective-software-testing-2216)
+- [What is a React plugin?](https://dev.to/buildwebcrumbs/what-is-a-react-plugin-47f0)
+- [What is a JavaScript plugin?](https://dev.to/buildwebcrumbs/what-is-a-javascript-plugin-8h2)
+- [7inch raspberry pi touch screen with aosp 13 size problem](https://dev.to/taabouri_rania_96428a1105/7inch-raspberry-pi-touch-screen-with-aosp-13-size-problem-5a27)
+- [Merging PDF Documents Using the .NET PDF Library](https://dev.to/syncfusion/merging-pdf-documents-using-the-net-pdf-library-2db3)
+- [16 Principles for Tech-led Start-ups as a Software Engineer](https://dev.to/gemmablack/16-principles-for-tech-led-start-ups-as-software-engineer-5gjk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
