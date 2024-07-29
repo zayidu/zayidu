@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AIM Weekly for 29 July 2024](https://dev.to/tspannhw/aim-weekly-for-29-july-2024-4153)
-- [Dark SaaS Landing page template 🔥](https://dev.to/paul_freeman/dark-saas-landing-page-template-1md3)
-- [Is my excitement just a beginner&#39;s thing?](https://dev.to/an5189/is-my-excitement-just-a-beginners-thing-4h4j)
-- [From Monolith to Microservices: How to Improve Agility and Reduce Time-to-Market](https://dev.to/marufhossain/from-monolith-to-microservices-how-to-improve-agility-and-reduce-time-to-market-4m29)
-- [Exposing Salesforce Flows as API Endpoints: A No-Code Approach](https://dev.to/sushant_khandagale/exposing-salesforce-flows-as-api-endpoints-a-no-code-approach-jo1)
+- [What is micropython?](https://dev.to/axorax/what-is-micropython-4hb6)
+- [Terraform Datadog Provider Overview](https://dev.to/spacelift/terraform-datadog-provider-overview-h40)
+- [Chasing Curiosity](https://dev.to/davidortinau/chasing-curiosity-4ip2)
+- [10 Ways to Maximize Your Productivity at Work](https://dev.to/bryany/10-ways-to-maximize-your-productivity-at-work-1dhi)
+- [Java Code Optimization: Techniques for Better Performance](https://dev.to/1saptarshi/java-code-optimization-techniques-for-better-performance-51i9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
