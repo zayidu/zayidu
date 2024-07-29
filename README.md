@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is micropython?](https://dev.to/axorax/what-is-micropython-4hb6)
-- [Terraform Datadog Provider Overview](https://dev.to/spacelift/terraform-datadog-provider-overview-h40)
-- [Chasing Curiosity](https://dev.to/davidortinau/chasing-curiosity-4ip2)
-- [10 Ways to Maximize Your Productivity at Work](https://dev.to/bryany/10-ways-to-maximize-your-productivity-at-work-1dhi)
-- [Java Code Optimization: Techniques for Better Performance](https://dev.to/1saptarshi/java-code-optimization-techniques-for-better-performance-51i9)
+- [Day 14 in the books](https://dev.to/myrojyn/day-14-in-the-books-21ld)
+- [Automated Deployment to Google Cloud with Backup to Google Cloud Storage](https://dev.to/manojspace/automated-deployment-to-google-cloud-with-backup-to-google-cloud-storage-knf)
+- [How to Harden IaC Security with KICS](https://dev.to/yayabobi/how-to-harden-iac-security-with-kics-2d9i)
+- [Embracing the Side Project Hustle: My Journey Through the Buildspace Challenge](https://dev.to/dfordp/embracing-the-side-project-hustle-my-journey-through-the-buildspace-challenge-1hcc)
+- [What are the 5 Pillars of Cyber Security?](https://dev.to/clouddefenseai/what-are-the-5-pillars-of-cyber-security-174l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
