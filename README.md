@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating A Virtual Machine in Microsoft Azure](https://dev.to/rofiatabdulkareem/creating-a-virtual-machine-in-microsoft-azure-3d49)
-- [What Is Digital Surface Model?](https://dev.to/satpalda/what-is-digital-surface-model-170a)
-- [Understanding Optional Chaining in JavaScript](https://dev.to/mark_kibuthu/understanding-optional-chaining-in-javascript-3i7)
-- [Understanding Kafka Producer](https://dev.to/automq/understanding-kafka-producer-5b45)
-- [Top Test Automation Tools for Salesforce](https://dev.to/berthaw82414312/top-test-automation-tools-for-salesforce-673)
+- [SFU vs MCU vs P2P: WebRTC Architectures Explained](https://dev.to/alakkadshaw/sfu-vs-mcu-vs-p2p-webrtc-architectures-explained-163d)
+- [One-Year Summary of Using VIM](https://dev.to/justlorain/one-year-summary-of-using-vim-1gkp)
+- [Parcauto OneTECH](https://dev.to/rabiezouita11/parcauto-onetech-4382)
+- [Azure | Ways to Connect to Microsoft Azure](https://dev.to/hbolajraf/azure-ways-to-connect-to-microsoft-azure-2ngj)
+- [Ice vegas](https://dev.to/rabiezouita11/ice-vegas-137a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
