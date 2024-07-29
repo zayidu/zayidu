@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a React plugin?](https://dev.to/buildwebcrumbs/what-is-a-react-plugin-47f0)
-- [What is a JavaScript plugin?](https://dev.to/buildwebcrumbs/what-is-a-javascript-plugin-8h2)
-- [7inch raspberry pi touch screen with aosp 13 size problem](https://dev.to/taabouri_rania_96428a1105/7inch-raspberry-pi-touch-screen-with-aosp-13-size-problem-5a27)
-- [Merging PDF Documents Using the .NET PDF Library](https://dev.to/syncfusion/merging-pdf-documents-using-the-net-pdf-library-2db3)
-- [16 Principles for Tech-led Start-ups as a Software Engineer](https://dev.to/gemmablack/16-principles-for-tech-led-start-ups-as-software-engineer-5gjk)
+- [37 Common JavaScript Utility Functions for String, Object, Array &amp; Date](https://dev.to/syakirurahman/37-common-javascript-utility-functions-for-string-object-array-date-2afb)
+- [Easily Split and Rename PDFs for Skyward](https://dev.to/blacknight318/easily-split-and-rename-pdfs-for-skyward-17ha)
+- [Introduction to Feature Flagging: A Beginner&#39;s Guide](https://dev.to/flipt/introduction-to-feature-flagging-a-beginners-guide-4o9c)
+- [Building PayBee, a Digital Wallet with Flutter &amp; Laravel: The Rewarding Journey Through Hustle and Heart](https://dev.to/ultracoolbru/building-paybee-a-digital-wallet-with-flutter-laravel-the-rewarding-journey-through-hustle-and-heart-7pj)
+- [&quot;zsh: command not found: flutter&quot; m2 pro silicon](https://dev.to/herik06/zsh-command-not-found-flutter-m2-pro-silicon-1go9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
