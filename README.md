@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s a Valuable Skill You Should Have?](https://dev.to/zirkelc/whats-a-valuable-skill-you-should-have-2igi)
-- [Xu hướng SEOer cần chú ý](https://dev.to/duandigi/xu-huong-seoer-can-chu-y-cf2)
-- [Webhook vs. API: What’s the Difference?](https://dev.to/keploy/webhook-vs-api-whats-the-difference-40i0)
-- [Unlocking the Power of useRef: A Comprehensive Guide for React Developers](https://dev.to/srijan_karki/unlocking-the-power-of-useref-a-comprehensive-guide-for-react-developers-2jee)
-- [Forem Proof](https://dev.to/mudhorn/forem-proof-2mm6)
+- [#36 — Match The First Part of The Cell Value](https://dev.to/judith677/36-match-the-first-part-of-the-cell-value-4g17)
+- [Unlock the Secrets of Computer Systems with Carnegie-Mellon&#39;s ICS Course! 🖥️](https://dev.to/getvm/unlock-the-secrets-of-computer-systems-with-carnegie-mellons-ics-course-4le9)
+- [How to Dockerize a React Application](https://dev.to/sh20raj/how-to-dockerize-a-react-application-19kc)
+- [🤖 100 Days of Generative AI - Day 4 - The rise and rise of transformers🤖](https://dev.to/lakhera2015/100-days-of-generative-ai-day-4-the-rise-and-rise-of-transformers-1bom)
+- [Tailwind CSS: Responsive Utilities](https://dev.to/tailwine/tailwind-css-responsive-utilities-bm3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
