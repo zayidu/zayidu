@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Prisma + Supabase Error P1001](https://dev.to/digitaldrreamer/prisma-supabase-error-p1001-4aj8)
+- [How Important is a Bachelor&#39;s Degree for Developers](https://dev.to/marcosconci/how-important-is-a-bachelors-degree-for-developers-2hp0)
+- [Documentando uma API com Java Spring Boot usando Swagger](https://dev.to/marialuizaleitao/documentando-uma-api-com-java-spring-boot-usando-swagger-4hgd)
+- [Day 21 of My 90-Day DevOps Journey: Mastering Terraform Modules for Reusable Infrastructure](https://dev.to/arbythecoder/day-21-of-my-90-day-devops-journey-mastering-terraform-modules-for-reusable-infrastructure-3ghm)
 - [Just Wrapped Up: Cafe Menu Project!](https://dev.to/ack/just-wrapped-up-cafe-menu-project-2ndp)
-- [Internationalisation in Java](https://dev.to/jelilio/internationalisation-in-java-2oec)
-- [API Access for Geolocation: What You Need to Know](https://dev.to/ipstackapi/api-access-for-geolocation-what-you-need-to-know-6dd)
-- [Websocket starter in Rust with client and server example](https://dev.to/campbellgoe/websocket-starter-in-rust-with-client-and-server-example-4ahj)
-- [🚀 React Learning Journey: Day 1 🚀](https://dev.to/mayureshsurve/react-learning-journey-day-1-ch5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
