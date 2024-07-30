@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Today&#39;s Trending Projects: FTP Weak Password Scanner Using Python and More](https://dev.to/labex/todays-trending-projects-ftp-weak-password-scanner-using-python-and-more-21dk)
+- [Stetragy of Crafting Effective Calls to Action for Enhanced Conversions](https://dev.to/luthernams/stetragy-of-crafting-effective-calls-to-action-for-enhanced-conversions-4205)
+- [Embracing Surface-Level Understanding: A Key to Mastering Software Engineering](https://dev.to/muhammad_salem/embracing-surface-level-understanding-a-key-to-mastering-software-engineering-47pl)
 - [LangGraph.js Concept Guide](https://dev.to/zand/langgraphjs-concept-guide-50g0)
 - [Memory Management in Rust](https://dev.to/kartikmehta8/memory-management-in-rust-oj9)
-- [Building a CRUD Application with Ruby on Rails: Step-by-Step Guide](https://dev.to/mhcrocky/building-a-crud-application-with-ruby-on-rails-step-by-step-guide-5e8d)
-- [Optimizing String Concatenation with StringBuilder](https://dev.to/jihoonj/optimizing-string-concatenation-with-stringbuilder-54oa)
-- [Real-Time Webcam DeepFake / Face Swapping with Rope Pearl Live - Single-Click Installation &amp; Effortless Usage](https://dev.to/furkangozukara/real-time-webcam-deepfake-face-swapping-with-rope-pearl-live-single-click-installation-effortless-usage-18k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
