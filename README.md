@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Successful Test Runs Is the Magic Number](https://dev.to/pjcalvo/3-successful-test-runs-is-the-magic-number-264m)
-- [Atomic Design: UI Kit Strategy](https://dev.to/violetadev/atomic-design-ui-kit-strategy-4ogn)
-- [Reconnecting with Front-End Development: Building a Cat Photo App](https://dev.to/ack/reconnecting-with-front-end-development-building-a-cat-photo-app-598k)
-- [Nmap Script Engine &lpar;NSE&rpar; for Network Vulnerability Assessment](https://dev.to/z3t30/nmap-script-engine-nse-for-network-vulnerability-assessment-45cb)
-- [LCP Improvements React Guide](https://dev.to/violetadev/lcp-improvements-react-guide-4obe)
+- [Just Wrapped Up: Cafe Menu Project!](https://dev.to/ack/just-wrapped-up-cafe-menu-project-2ndp)
+- [Internationalisation in Java](https://dev.to/jelilio/internationalisation-in-java-2oec)
+- [API Access for Geolocation: What You Need to Know](https://dev.to/ipstackapi/api-access-for-geolocation-what-you-need-to-know-6dd)
+- [Websocket starter in Rust with client and server example](https://dev.to/campbellgoe/websocket-starter-in-rust-with-client-and-server-example-4ahj)
+- [🚀 React Learning Journey: Day 1 🚀](https://dev.to/mayureshsurve/react-learning-journey-day-1-ch5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
