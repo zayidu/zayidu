@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Use useState Instead of Just Variables in React](https://dev.to/homayunmmdy/why-use-usestate-instead-of-just-variables-in-react-2heo)
-- [Day 29 of 100 Days of Code](https://dev.to/jacobsternx/day-29-of-100-days-of-code-3jj2)
-- [How to Build Successful Payment Systems](https://dev.to/wetest/how-to-build-successful-payment-systems-4n5l)
-- [SharePoint Online vs. SharePoint Embedded: Which to Choose?](https://dev.to/jaloplo/sharepoint-online-vs-sharepoint-embedded-which-to-choose-2afi)
-- [Exception in OOP php](https://dev.to/ghulam_mujtaba_247/exception-in-oop-php-2idg)
+- [WPF Application with Plugin Architecture](https://dev.to/ben-witt/wpf-application-with-plugin-architecture-29nc)
+- [Low code is evil](https://dev.to/gotoxavier2333/low-code-is-evil-3bg0)
+- [Maximize Accuracy: Choosing the Best Accurate IP Location API](https://dev.to/martinbaldwin127/maximize-accuracy-choosing-the-best-accurate-ip-location-api-3b0b)
+- [No SNAPSHOTs](https://dev.to/madhead/no-snapshots-484a)
+- [Part 2/3: How to Implement Refresh Tokens in React](https://dev.to/zenstok/part-23-how-to-implement-refresh-tokens-in-react-84c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
