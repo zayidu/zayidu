@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of Poor Endpoint Monitoring and Backend Error Tracking: A CTO&#39;s Perspective](https://dev.to/irhose/the-impact-of-poor-endpoint-monitoring-and-backend-error-tracking-a-ctos-perspective-2ma2)
-- [Boosting Devops Productivity with Forms and Power Automate](https://dev.to/arindam0310018/boosting-devops-productivity-with-forms-and-power-automate-2e63)
-- [An Introduction to TypeScript for JavaScript Developers](https://dev.to/media_geneous/an-introduction-to-typescript-for-javascript-developers-l63)
-- [Well-typed, accelerated ML](https://dev.to/joelberkeley/well-typed-accelerated-ml-alpha-5cme)
-- [Day 999 : Tomorrow](https://dev.to/dwane/day-999-tomorrow-4hdm)
+- [LangGraph.js Concept Guide](https://dev.to/zand/langgraphjs-concept-guide-50g0)
+- [Memory Management in Rust](https://dev.to/kartikmehta8/memory-management-in-rust-oj9)
+- [Building a CRUD Application with Ruby on Rails: Step-by-Step Guide](https://dev.to/mhcrocky/building-a-crud-application-with-ruby-on-rails-step-by-step-guide-5e8d)
+- [Optimizing String Concatenation with StringBuilder](https://dev.to/jihoonj/optimizing-string-concatenation-with-stringbuilder-54oa)
+- [Real-Time Webcam DeepFake / Face Swapping with Rope Pearl Live - Single-Click Installation &amp; Effortless Usage](https://dev.to/furkangozukara/real-time-webcam-deepfake-face-swapping-with-rope-pearl-live-single-click-installation-effortless-usage-18k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
