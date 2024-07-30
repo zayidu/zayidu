@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Today&#39;s Trending Projects: FTP Weak Password Scanner Using Python and More](https://dev.to/labex/todays-trending-projects-ftp-weak-password-scanner-using-python-and-more-21dk)
-- [Stetragy of Crafting Effective Calls to Action for Enhanced Conversions](https://dev.to/luthernams/stetragy-of-crafting-effective-calls-to-action-for-enhanced-conversions-4205)
-- [Embracing Surface-Level Understanding: A Key to Mastering Software Engineering](https://dev.to/muhammad_salem/embracing-surface-level-understanding-a-key-to-mastering-software-engineering-47pl)
-- [LangGraph.js Concept Guide](https://dev.to/zand/langgraphjs-concept-guide-50g0)
-- [Memory Management in Rust](https://dev.to/kartikmehta8/memory-management-in-rust-oj9)
+- [⚡ MySecondApp - React Native with Expo &lpar;P13&rpar; - Layout Verification Screen](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p13-layout-verification-screen-c6m)
+- [Lógica de programación con estructuras de control en C#](https://dev.to/maadcode/logica-de-programacion-con-estructuras-de-control-en-c-2c8g)
+- [Mastering Web Security: How to Set Up and Test SafeLine with APISIX](https://dev.to/lulu_liu_c90f973e2f954d7f/mastering-web-security-how-to-set-up-and-test-safeline-with-apisix-2645)
+- [CSS Button Animation](https://dev.to/nipundinuranga/css-button-animation-4fgc)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;22/07/2024-28/07/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-22072024-28072024-1odm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
