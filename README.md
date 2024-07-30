@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Best CRISC Study Resources](https://dev.to/shivamchamoli18/top-5-best-crisc-study-resources-2pf1)
-- [Seeding a DB with Irish Counties in Laravel](https://dev.to/briandouglasie/seeding-a-db-with-irish-counties-in-laravel-3b02)
-- [Implementing Self-Service Operations for Internal Developer Teams](https://dev.to/dronahq/implementing-self-service-operations-for-internal-developer-teams-1j76)
-- [React for Modern WebDevelopment: Trends and Best Practices](https://dev.to/aricayajohn/react-for-modern-webdevelopment-trends-and-best-practices-352k)
-- [Getting Started with the Angular File Upload Component](https://dev.to/syncfusion/getting-started-with-the-angular-file-upload-component-3648)
+- [Angular + Sanity CMS: Setting Up Your Sanity CMS Project with TypeScript](https://dev.to/osnoser1/angular-sanity-cms-setting-up-your-sanity-cms-project-with-typescript-5651)
+- [[Roast: Day 12] - Designing a PostgreSQL Database](https://dev.to/nmiller15/roast-day-12-designing-a-postgresql-database-44op)
+- [An SEO aha moment: understanding Core Web Vitals](https://dev.to/builderio/an-seo-aha-moment-understanding-core-web-vitals-42pe)
+- [🚀 Begginer&#39;s Guide: installing and using GitHub CLI 🛠️](https://dev.to/raulpenate/begginers-guide-installing-and-using-github-cli-30ka)
+- [Ensuring Data Integrity with Blockchain Technology](https://dev.to/navinder/ensuring-data-integrity-with-blockchain-technology-43ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
