@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular + Sanity CMS: Setting Up Your Sanity CMS Project with TypeScript](https://dev.to/osnoser1/angular-sanity-cms-setting-up-your-sanity-cms-project-with-typescript-5651)
-- [[Roast: Day 12] - Designing a PostgreSQL Database](https://dev.to/nmiller15/roast-day-12-designing-a-postgresql-database-44op)
-- [An SEO aha moment: understanding Core Web Vitals](https://dev.to/builderio/an-seo-aha-moment-understanding-core-web-vitals-42pe)
-- [🚀 Begginer&#39;s Guide: installing and using GitHub CLI 🛠️](https://dev.to/raulpenate/begginers-guide-installing-and-using-github-cli-30ka)
-- [Ensuring Data Integrity with Blockchain Technology](https://dev.to/navinder/ensuring-data-integrity-with-blockchain-technology-43ah)
+- [How to Write Tests in Rust](https://dev.to/francescoxx/how-to-write-tests-in-rust-2pde)
+- [CSS &lpar;Cascading Style Sheets&rpar; is essential for designing the front end of websites](https://dev.to/olatunjiayodel9/css-cascading-style-sheets-is-essential-for-designing-the-front-end-of-websites-5gbm)
+- [Introduction to Domain-Driven Design &lpar;DDD&rpar; in C# with Microsoft Orleans](https://dev.to/sebastiandevelops/introduction-to-domain-driven-design-ddd-in-c-with-microsoft-orleans-3ekf)
+- [Slugs with an ID fallback in Laravel](https://dev.to/briandouglasie/slugs-with-an-id-fallback-in-laravel-5ai3)
+- [CSS Icons with examples](https://dev.to/wasifali/css-icons-with-examples-5cjm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
