@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡ MySecondApp - React Native with Expo &lpar;P13&rpar; - Layout Verification Screen](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p13-layout-verification-screen-c6m)
-- [Lógica de programación con estructuras de control en C#](https://dev.to/maadcode/logica-de-programacion-con-estructuras-de-control-en-c-2c8g)
-- [Mastering Web Security: How to Set Up and Test SafeLine with APISIX](https://dev.to/lulu_liu_c90f973e2f954d7f/mastering-web-security-how-to-set-up-and-test-safeline-with-apisix-2645)
-- [CSS Button Animation](https://dev.to/nipundinuranga/css-button-animation-4fgc)
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;22/07/2024-28/07/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-22072024-28072024-1odm)
+- [What&#39;s a Valuable Skill You Should Have?](https://dev.to/zirkelc/whats-a-valuable-skill-you-should-have-2igi)
+- [Xu hướng SEOer cần chú ý](https://dev.to/duandigi/xu-huong-seoer-can-chu-y-cf2)
+- [Webhook vs. API: What’s the Difference?](https://dev.to/keploy/webhook-vs-api-whats-the-difference-40i0)
+- [Unlocking the Power of useRef: A Comprehensive Guide for React Developers](https://dev.to/srijan_karki/unlocking-the-power-of-useref-a-comprehensive-guide-for-react-developers-2jee)
+- [Forem Proof](https://dev.to/mudhorn/forem-proof-2mm6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
