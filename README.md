@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run a Docker Container on AWS EC2 and Access It Externally](https://dev.to/engrmark/how-to-run-a-docker-container-on-aws-ec2-and-access-it-externally-107n)
-- [Go mock](https://dev.to/jacktt/go-mock-30a4)
-- [Tente Isto 4-2: coleta de lixo e a finalização](https://dev.to/devsjavagirls/tente-isto-4-2-coleta-de-lixo-e-a-finalizacao-56om)
-- [O método finalize&lpar; &rpar;](https://dev.to/devsjavagirls/o-metodo-finalize--3heh)
-- [Using 1Password with External Secrets Operator in a GitOps way](https://dev.to/3deep5me/using-1password-with-external-secrets-operator-in-a-gitops-way-4lo4)
+- [DevOps Basics: 3 new topics to boost your skills](https://dev.to/tungbq/devops-basics-3-new-topics-to-boost-your-skills-43ah)
+- [Lightweight tuesday&#39;s letter, cool things on internet!!](https://dev.to/shreyvijayvargiya/lightweight-tuesdays-letter-cool-things-on-internet-2i53)
+- [Cybersecurity in Web Development OR Secure Website Is Equally Important For You And User](https://dev.to/rashedulhridoy/cybersecurity-in-web-development-or-secure-website-is-equally-important-for-you-and-user-19o8)
+- [Exceptions and Commit in PostgreSQL PL/pgSQL vs. Oracle PL/SQL](https://dev.to/aws-heroes/exceptions-and-commit-in-postgresql-plpgsql-vs-oracle-plsql-1nk8)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2751)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
