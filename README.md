@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Use CSS&#39; `only-child` instead of `if/else` logic](https://dev.to/railsdesigner/use-css-only-child-instead-of-ifelse-logic-2oof)
-- [5-Week Data Career Boot Camp: Orientation and Foundations.](https://dev.to/grayhat/5-week-data-career-boot-camp-orientation-and-foundations-30cf)
-- [7 Essential React Best Practices for Efficient Code and Lightning-Fast Web Apps in 2024](https://dev.to/vyan/7-essential-react-best-practices-for-efficient-code-and-lightning-fast-web-apps-in-2024-daj)
-- [The Impact of AI on Everyday Work for Developers](https://dev.to/andylarkin677/the-impact-of-ai-on-everyday-work-for-developers-291h)
-- [AI Creates Immersive Multi-Player Sports Gameplay Sequences](https://dev.to/mikeyoung44/ai-creates-immersive-multi-player-sports-gameplay-sequences-39lh)
+- [Top 5 Best CRISC Study Resources](https://dev.to/shivamchamoli18/top-5-best-crisc-study-resources-2pf1)
+- [Seeding a DB with Irish Counties in Laravel](https://dev.to/briandouglasie/seeding-a-db-with-irish-counties-in-laravel-3b02)
+- [Implementing Self-Service Operations for Internal Developer Teams](https://dev.to/dronahq/implementing-self-service-operations-for-internal-developer-teams-1j76)
+- [React for Modern WebDevelopment: Trends and Best Practices](https://dev.to/aricayajohn/react-for-modern-webdevelopment-trends-and-best-practices-352k)
+- [Getting Started with the Angular File Upload Component](https://dev.to/syncfusion/getting-started-with-the-angular-file-upload-component-3648)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
