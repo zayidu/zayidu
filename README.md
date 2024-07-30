@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Basics: 3 new topics to boost your skills](https://dev.to/tungbq/devops-basics-3-new-topics-to-boost-your-skills-43ah)
-- [Lightweight tuesday&#39;s letter, cool things on internet!!](https://dev.to/shreyvijayvargiya/lightweight-tuesdays-letter-cool-things-on-internet-2i53)
-- [Cybersecurity in Web Development OR Secure Website Is Equally Important For You And User](https://dev.to/rashedulhridoy/cybersecurity-in-web-development-or-secure-website-is-equally-important-for-you-and-user-19o8)
-- [Exceptions and Commit in PostgreSQL PL/pgSQL vs. Oracle PL/SQL](https://dev.to/aws-heroes/exceptions-and-commit-in-postgresql-plpgsql-vs-oracle-plsql-1nk8)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2751)
+- [Understanding Time Complexity: A Guide for Developers](https://dev.to/jps27cse/understanding-time-complexity-a-guide-for-developers-304o)
+- [Effortless Rails 7+ Deployment with Kamal Gem on DigitalOcean](https://dev.to/shahzaib/effortless-rails-7-deployment-with-kamal-gem-on-digitalocean-of)
+- [How to Run Llama-3.1 🦙 Model Locally Using Python🐍 and Hugging Face 🤗](https://dev.to/debapriyadas/cloning-and-running-llama-31-model-from-hugging-face-using-python-3m80)
+- [To Reverse a string with out using for loop in python. | DAY 1](https://dev.to/jagannath_ghantenavar_3e9/to-reverse-a-string-with-out-using-for-loop-in-python-day-1-519a)
+- [Keycloak: The Ultimate Open-Source Access Management Solution](https://dev.to/ryanmabrouk/keycloak-the-ultimate-open-source-access-management-solution-3map)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
