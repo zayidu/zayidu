@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WPF Application with Plugin Architecture](https://dev.to/ben-witt/wpf-application-with-plugin-architecture-29nc)
-- [Low code is evil](https://dev.to/gotoxavier2333/low-code-is-evil-3bg0)
-- [Maximize Accuracy: Choosing the Best Accurate IP Location API](https://dev.to/martinbaldwin127/maximize-accuracy-choosing-the-best-accurate-ip-location-api-3b0b)
-- [No SNAPSHOTs](https://dev.to/madhead/no-snapshots-484a)
-- [Part 2/3: How to Implement Refresh Tokens in React](https://dev.to/zenstok/part-23-how-to-implement-refresh-tokens-in-react-84c)
+- [Enhanced Insight into Disaster Recovery Solutions on AWS](https://dev.to/farrukhkhalid/enhanced-insight-into-disaster-recovery-solutions-on-aws-3o3j)
+- [Calculate the Total Price According to the Cumulative Price Table #eg13](https://dev.to/esproc_spl/calculate-the-total-price-according-to-the-cumulative-price-table-2d2i)
+- [From Kubernetes Chaos to Calm: A Cyclops Adventure](https://dev.to/chiragagg5k/from-kubernetes-chaos-to-calm-a-cyclops-adventure-1b5m)
+- [How to use any AI for free, online and without registration](https://dev.to/makiai/how-to-use-any-ai-for-free-online-and-without-registration-2c48)
+- [Introduction to Front-End Development: Key Concepts and Tools](https://dev.to/egbo2255/introduction-to-front-end-development-key-concepts-and-tools-2bff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
