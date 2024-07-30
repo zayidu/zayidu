@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhanced Insight into Disaster Recovery Solutions on AWS](https://dev.to/farrukhkhalid/enhanced-insight-into-disaster-recovery-solutions-on-aws-3o3j)
-- [Calculate the Total Price According to the Cumulative Price Table #eg13](https://dev.to/esproc_spl/calculate-the-total-price-according-to-the-cumulative-price-table-2d2i)
-- [From Kubernetes Chaos to Calm: A Cyclops Adventure](https://dev.to/chiragagg5k/from-kubernetes-chaos-to-calm-a-cyclops-adventure-1b5m)
-- [How to use any AI for free, online and without registration](https://dev.to/makiai/how-to-use-any-ai-for-free-online-and-without-registration-2c48)
-- [Introduction to Front-End Development: Key Concepts and Tools](https://dev.to/egbo2255/introduction-to-front-end-development-key-concepts-and-tools-2bff)
+- [Use CSS&#39; `only-child` instead of `if/else` logic](https://dev.to/railsdesigner/use-css-only-child-instead-of-ifelse-logic-2oof)
+- [5-Week Data Career Boot Camp: Orientation and Foundations.](https://dev.to/grayhat/5-week-data-career-boot-camp-orientation-and-foundations-30cf)
+- [7 Essential React Best Practices for Efficient Code and Lightning-Fast Web Apps in 2024](https://dev.to/vyan/7-essential-react-best-practices-for-efficient-code-and-lightning-fast-web-apps-in-2024-daj)
+- [The Impact of AI on Everyday Work for Developers](https://dev.to/andylarkin677/the-impact-of-ai-on-everyday-work-for-developers-291h)
+- [AI Creates Immersive Multi-Player Sports Gameplay Sequences](https://dev.to/mikeyoung44/ai-creates-immersive-multi-player-sports-gameplay-sequences-39lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
