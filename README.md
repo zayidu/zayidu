@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write Tests in Rust](https://dev.to/francescoxx/how-to-write-tests-in-rust-2pde)
-- [CSS &lpar;Cascading Style Sheets&rpar; is essential for designing the front end of websites](https://dev.to/olatunjiayodel9/css-cascading-style-sheets-is-essential-for-designing-the-front-end-of-websites-5gbm)
-- [Introduction to Domain-Driven Design &lpar;DDD&rpar; in C# with Microsoft Orleans](https://dev.to/sebastiandevelops/introduction-to-domain-driven-design-ddd-in-c-with-microsoft-orleans-3ekf)
-- [Slugs with an ID fallback in Laravel](https://dev.to/briandouglasie/slugs-with-an-id-fallback-in-laravel-5ai3)
-- [CSS Icons with examples](https://dev.to/wasifali/css-icons-with-examples-5cjm)
+- [Next.js - App Router](https://dev.to/lorenzojkrl/nextjs-app-router-4l7e)
+- [What is Syslog? Components, benefits, and best practices](https://dev.to/parseable/what-is-syslog-components-benefits-and-best-practices-4k4i)
+- [Building Your First Responsive Website with HTML and CSS](https://dev.to/egbo2255/building-your-first-responsive-website-with-html-and-css-32eh)
+- [EC2-and-S3-integration-for-Zappy-E-bank](https://dev.to/ooluwatobi_o/ec2-and-s3-integration-for-zappy-e-bank-4in7)
+- [Testing AWS AppSync JavaScript Resolvers](https://dev.to/aws-builders/testing-aws-appsync-javascript-resolvers-174e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
