@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Roast: Day 13] - Auto-Create an API Server Without AI](https://dev.to/nmiller15/roast-day-13-auto-create-an-api-server-without-ai-51lo)
-- [Unlocking Opportunities with AWS Certified Developer Associate Certification](https://dev.to/sarah_miller_8ad506ebc65b/unlocking-opportunities-with-aws-certified-developer-associate-certification-546b)
-- [How I Landed My First Freelance Work](https://dev.to/dheerajjha451/how-i-landed-my-first-freelance-work-3448)
-- [8 Puzzle Problem in AI](https://dev.to/shaiquehossain/8-puzzle-problem-in-ai-2464)
-- [Does sponsoring a developer conference help with sales or marketing?](https://dev.to/tramline/does-sponsoring-a-developer-conference-help-with-sales-or-marketing-4ib8)
+- [Microsserviços, uma abordagem prática - Implantação contínua](https://dev.to/miltonlima/microsservicos-uma-abordagem-pratica-implantacao-continua-2ffd)
+- [Using Postman For API Documentation: All You Need To Know](https://dev.to/dumebii/using-postman-for-api-documentation-all-you-need-to-know-2ap9)
+- [Getting Started with AWS CDK in Python: A Comprehensive and Easy-to-Follow Guide](https://dev.to/kelvinskell/getting-started-with-aws-cdk-in-python-a-comprehensive-and-easy-to-follow-guide-2k44)
+- [TypeScript strictly typed - Part 4: full static types](https://dev.to/cyrilletuzi/typescript-strictly-typed-part-4-full-static-types-8bc)
+- [Automating Zabbix Monitoring for Dynamic Cloud Environments](https://dev.to/digitalpesitacl/automating-zabbix-monitoring-for-dynamic-cloud-environments-59pg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
