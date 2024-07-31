@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 development tools, ✋ Refuse to work overtime and stay up late](https://dev.to/tanping/5-development-tools-refuse-to-work-overtime-and-stay-up-late-5hkm)
-- [DevOps Tool Installer/Uninstaller](https://dev.to/prodevopsguytech/devops-tool-installeruninstaller-24e)
-- [How to Use Generative AI for Exploratory Testing](https://dev.to/berthaw82414312/how-to-use-generative-ai-for-exploratory-testing-3pb5)
-- [Kubernetes Scheduler](https://dev.to/jacktt/kubernetes-scheduler-3opf)
-- [Web Storage API Essentials](https://dev.to/code_passion/web-storage-api-essentials-4io8)
+- [Stop Making These Mistakes in Your React Native App](https://dev.to/aneeqakhan/stop-making-these-mistakes-in-your-react-native-app-2gmf)
+- [[linux] list processes using a file](https://dev.to/nitwit/linux-list-processes-using-a-file-18dl)
+- [GBase 8c Full Encryption with Client Master Key](https://dev.to/congcong/gbase-8c-full-encryption-with-client-master-key-4o3k)
+- [GBase 8c Full Encryption with Client Master Key](https://dev.to/congcong/gbase-8c-full-encryption-with-client-master-key-35ig)
+- [The Role of Blockchain Beyond Cryptocurrencies: Use Cases and Potential](https://dev.to/eazealliance/the-role-of-blockchain-beyond-cryptocurrencies-use-cases-and-potential-431a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
