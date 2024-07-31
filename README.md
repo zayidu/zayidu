@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Making These Mistakes in Your React Native App](https://dev.to/aneeqakhan/stop-making-these-mistakes-in-your-react-native-app-2gmf)
-- [[linux] list processes using a file](https://dev.to/nitwit/linux-list-processes-using-a-file-18dl)
-- [GBase 8c Full Encryption with Client Master Key](https://dev.to/congcong/gbase-8c-full-encryption-with-client-master-key-4o3k)
-- [GBase 8c Full Encryption with Client Master Key](https://dev.to/congcong/gbase-8c-full-encryption-with-client-master-key-35ig)
-- [The Role of Blockchain Beyond Cryptocurrencies: Use Cases and Potential](https://dev.to/eazealliance/the-role-of-blockchain-beyond-cryptocurrencies-use-cases-and-potential-431a)
+- [Boletín AWS Open Source, July Edition](https://dev.to/aws-espanol/boletin-aws-open-source-july-edition-52p1)
+- [Upload remote video to YouTube with GitHub Actions and Google API](https://dev.to/sh20raj/upload-remote-video-to-youtube-with-github-actions-and-google-api-1go8)
+- [Sustainable Technology: Innovations Driving Green Tech and Environmental Impact by Eazealliance](https://dev.to/eazealliance/sustainable-technology-innovations-driving-green-tech-and-environmental-impact-by-eazealliance-11j2)
+- [How to Combine Every Five Values into One Record](https://dev.to/esproc_spl/how-to-combine-every-five-values-into-one-record-1kgg)
+- [Customizing Forex API Integrations: Deep Dive into Forex API Documentation](https://dev.to/yahya_khan_28c17697e4a71c/customizing-forex-api-integrations-deep-dive-into-forex-api-documentation-24bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
