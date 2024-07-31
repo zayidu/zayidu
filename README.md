@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Casting qilish](https://dev.to/islomali99/casting-qilish-27ig)
-- [C# da String Metodlari](https://dev.to/islomali99/c-da-string-metodlari-1l7p)
-- [Why Python and JavaScript are My Favourite Programming Languages](https://dev.to/rashedulhridoy/why-python-and-javascript-are-my-favourite-programming-languages-cog)
-- [Kubernetes Scheduler](https://dev.to/jacktt/kubernetes-scheduler-3b68)
-- [JavaScript Quirks: What You Need to Know](https://dev.to/tomasdevs/javascript-quirks-what-you-need-to-know-363f)
+- [C# da Data tiplar haqida](https://dev.to/islomali99/c-da-data-tiplar-haqida-3fcb)
+- [Top Free PHP Hosting Services](https://dev.to/sh20raj/top-free-php-hosting-services-1872)
+- [Node Will Finally suport Typescript???](https://dev.to/kevin-uehara/node-will-finally-suport-typescript-18k6)
+- [This Week I Learnt: CompletableFuture – Java&#39;s Approach to Asynchronous Programming](https://dev.to/daraolayebi/this-week-i-learnt-completablefuture-javas-approach-to-asynchronous-programming-27ka)
+- [ASCII Table nima](https://dev.to/islomali99/ascii-table-nima-289e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
