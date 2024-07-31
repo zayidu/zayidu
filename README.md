@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Boletín AWS Open Source, July Edition](https://dev.to/aws-espanol/boletin-aws-open-source-july-edition-52p1)
-- [Upload remote video to YouTube with GitHub Actions and Google API](https://dev.to/sh20raj/upload-remote-video-to-youtube-with-github-actions-and-google-api-1go8)
-- [Sustainable Technology: Innovations Driving Green Tech and Environmental Impact by Eazealliance](https://dev.to/eazealliance/sustainable-technology-innovations-driving-green-tech-and-environmental-impact-by-eazealliance-11j2)
-- [How to Combine Every Five Values into One Record](https://dev.to/esproc_spl/how-to-combine-every-five-values-into-one-record-1kgg)
-- [Customizing Forex API Integrations: Deep Dive into Forex API Documentation](https://dev.to/yahya_khan_28c17697e4a71c/customizing-forex-api-integrations-deep-dive-into-forex-api-documentation-24bi)
+- [Be A Millionaire...](https://dev.to/xolisa_vw/be-a-millionaire-286l)
+- [C# {Integral Types}](https://dev.to/firdavs090/c-integral-types-3eli)
+- [Boost Your RAG Performance with Tavily Search API](https://dev.to/octoopt/boost-your-rag-performance-with-tavily-search-api-211b)
+- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-22en)
+- [AWS Summit Japan 2024 Participation Summary](https://dev.to/aws-builders/aws-summit-japan-2024-participation-summary-4d7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
