@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Optimize SQL Queries by Understanding the SQL Execution Order](https://dev.to/marcosconci/how-to-optimize-sql-queries-by-understanding-the-sql-execution-order-1fic)
-- [.NET MVC CAS Authentication](https://dev.to/feridaksahin/net-mvc-cas-authentication-3no3)
-- [5 Reasons Why VS Code is Perfect for Beginners](https://dev.to/mahrukh_adeel/5-reasons-why-vs-code-is-perfect-for-beginners-12n4)
-- [Beyond the Blast Radius: Demystifying and Mitigating Cascading Microservice Issues](https://dev.to/causely/beyond-the-blast-radius-demystifying-and-mitigating-cascading-microservice-issues-418l)
-- [Will AI Replace Programming Languages?](https://dev.to/jwtiller_c47bdfa134adf302/will-ai-replace-programming-languages-4hmn)
+- [React Components: Class vs Functional.](https://dev.to/taiwocodes/react-components-class-vs-functional-5ebm)
+- [Interview: All You Wanted to Know Before Starting Crypto Trading](https://dev.to/endeo/interview-all-you-wanted-to-know-before-starting-crypto-trading-2j9j)
+- [Web Theory - Part 7 : Progressive Enhancement: a Design Philosophy to Build Your Website for Everyone!](https://dev.to/teclearn/web-theory-part-7-progressive-enhancement-a-design-philosophy-to-build-your-website-for-everyone-45b)
+- [hello, maybe i am back for a while](https://dev.to/c33s/hello-maybe-i-am-back-for-a-while-30m3)
+- [Convert a string to camelCase using this function in Javascript.](https://dev.to/ramunarasinga/convert-a-string-to-camelcase-using-this-function-in-javascript-484j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
