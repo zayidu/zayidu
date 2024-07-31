@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsserviços, uma abordagem prática - Implantação contínua](https://dev.to/miltonlima/microsservicos-uma-abordagem-pratica-implantacao-continua-2ffd)
-- [Using Postman For API Documentation: All You Need To Know](https://dev.to/dumebii/using-postman-for-api-documentation-all-you-need-to-know-2ap9)
-- [Getting Started with AWS CDK in Python: A Comprehensive and Easy-to-Follow Guide](https://dev.to/kelvinskell/getting-started-with-aws-cdk-in-python-a-comprehensive-and-easy-to-follow-guide-2k44)
-- [TypeScript strictly typed - Part 4: full static types](https://dev.to/cyrilletuzi/typescript-strictly-typed-part-4-full-static-types-8bc)
-- [Automating Zabbix Monitoring for Dynamic Cloud Environments](https://dev.to/digitalpesitacl/automating-zabbix-monitoring-for-dynamic-cloud-environments-59pg)
+- [Data time vaqt](https://dev.to/jurabek777/data-time-vaqt-3lp6)
+- [How to get notifications when an Upsun infrastructure event occurs](https://dev.to/upsun/how-to-get-notifications-when-an-upsun-infrastructure-event-occurs-2257)
+- [CodePen Home Pricing Card Code Challenge &lpar;Desktop First solution&rpar; #fullstackroadmap](https://dev.to/ddatuhung/codepen-home-pricing-card-code-challenge-desktop-first-solution-fullstackroadmap-3e36)
+- [Simplify State Management with React.js Context API: Full Guide](https://dev.to/codebucks/simplify-state-management-with-reactjs-context-api-full-guide-20pf)
+- [Understanding setInterval and setTimeout: A Comprehensive Guide](https://dev.to/imparth/understanding-setinterval-and-settimeout-a-comprehensive-guide-9jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
