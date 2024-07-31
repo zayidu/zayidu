@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v287](https://dev.to/devteam/welcome-thread-v287-91p)
-- [Common JavaScript Gotchas](https://dev.to/doozieakshay/common-javascript-gotchas-1o1m)
-- [Latest React Tips and Tricks in 2024](https://dev.to/shariqahmed525/latest-react-tips-and-tricks-in-2024-1fh6)
-- [Apache Kafka on Amazon Linux EC2](https://dev.to/sagarlakshmipathy/apache-kafka-on-amazon-linux-ec2-579j)
-- [The Quest for Performance Part II : Perl vs Python](https://dev.to/chrisarg/the-quest-for-performance-part-ii-perl-vs-python-5gdg)
+- [Diary of a Neurodivergent: Chapter 0](https://dev.to/lasr21/diary-of-a-neurodivergent-chapter-0-323d)
+- [Diario de un Neurodivergente: Capítulo 0](https://dev.to/lasr21/diario-de-un-neurodivergente-capitulo-0-3kj6)
+- [Day 2: Introduction to Linux &amp; Basic Commands](https://dev.to/ritesh_dolare/day-2-introduction-to-linux-basic-commands-5a8d)
+- [Understanding State Management in Web Development: A Beginner&#39;s Guide](https://dev.to/srijan_karki/understanding-state-management-in-web-development-a-beginners-guide-2d5a)
+- [Dive into Node.js with This Beginner-Friendly Tutorial! 🚀](https://dev.to/getvm/dive-into-nodejs-with-this-beginner-friendly-tutorial-3kbc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
