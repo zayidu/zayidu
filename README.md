@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Components: Class vs Functional.](https://dev.to/taiwocodes/react-components-class-vs-functional-5ebm)
-- [Interview: All You Wanted to Know Before Starting Crypto Trading](https://dev.to/endeo/interview-all-you-wanted-to-know-before-starting-crypto-trading-2j9j)
-- [Web Theory - Part 7 : Progressive Enhancement: a Design Philosophy to Build Your Website for Everyone!](https://dev.to/teclearn/web-theory-part-7-progressive-enhancement-a-design-philosophy-to-build-your-website-for-everyone-45b)
-- [hello, maybe i am back for a while](https://dev.to/c33s/hello-maybe-i-am-back-for-a-while-30m3)
-- [Convert a string to camelCase using this function in Javascript.](https://dev.to/ramunarasinga/convert-a-string-to-camelcase-using-this-function-in-javascript-484j)
+- [Making a REST API typesafe with React Query and Zod](https://dev.to/noahflk/making-a-rest-api-typesafe-with-react-query-and-zod-41i8)
+- [Server Certificate Chain](https://dev.to/sambo2021/certificate-chain-5a80)
+- [Starknet Protocols: Key Features and MEV Opportunities](https://dev.to/lordghostx/starknet-protocols-key-features-and-mev-opportunities-574i)
+- [Looking for Feedback on My Website!](https://dev.to/novadesign/looking-for-feedback-on-my-website-39o2)
+- [[Game of Purpose] Day 74](https://dev.to/humberd/game-of-purpose-day-74-4ije)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
