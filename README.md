@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Evolution of Database Design in Our Startup](https://dev.to/first_cyber23/evolution-of-database-design-in-our-startup-2fci)
-- [🤖 100 Days of Generative AI - Day 5 - Understanding Inference Parameters in AI Models 🤖](https://dev.to/lakhera2015/100-days-of-generative-ai-day-5-understanding-inference-parameters-in-ai-models-3dch)
-- [Macros in C](https://dev.to/shaiquehossain/macros-in-c-45c7)
-- [Exploring KubeSpy : Day 19 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/exploring-kubespy-day-19-of-50-days-devops-tools-series-p9b)
-- [PhpWebStudy[4.0.0] release. Support macOS/Windows/Linux](https://dev.to/xpf0000/phpwebstudy400-release-support-macoswindowslinux-178a)
+- [Welcome Thread - v287](https://dev.to/devteam/welcome-thread-v287-91p)
+- [Common JavaScript Gotchas](https://dev.to/doozieakshay/common-javascript-gotchas-1o1m)
+- [Latest React Tips and Tricks in 2024](https://dev.to/shariqahmed525/latest-react-tips-and-tricks-in-2024-1fh6)
+- [Apache Kafka on Amazon Linux EC2](https://dev.to/sagarlakshmipathy/apache-kafka-on-amazon-linux-ec2-579j)
+- [The Quest for Performance Part II : Perl vs Python](https://dev.to/chrisarg/the-quest-for-performance-part-ii-perl-vs-python-5gdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
