@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[DAY 93-95] I built an interactive database in PostgreSQL using a shell script](https://dev.to/thomascansino/day-93-95-i-built-an-interactive-database-in-postgresql-using-a-shell-script-2f0p)
-- [Answer: Could not open mysql.plugin table. Some plugins may be not loaded](https://dev.to/pablohub44/answer-could-not-open-mysqlplugin-table-some-plugins-may-be-not-loaded-4ddp)
-- [Transitioning from JavaScript to TypeScript: A Beginner’s Guide 2024](https://dev.to/iamfaham/transitioning-from-javascript-to-typescript-a-beginners-guide-2024-51hj)
-- [Show us your open-source project!](https://dev.to/litlyx/show-us-your-open-source-project-3gha)
-- [9 Must-Know Open-source JavaScript Libraries for Mastering AI Development 🧙✨](https://dev.to/composiodev/9-must-know-open-source-javascript-libraries-for-mastering-ai-development-2i9m)
+- [What is LLM Observability and Monitoring?](https://dev.to/lina_lam_9ee459f98b67e9d5/what-is-llm-observability-and-monitoring-2fmp)
+- [What is LLM Observability and Monitoring?](https://dev.to/lina_lam_9ee459f98b67e9d5/what-is-llm-observability-and-monitoring-4ip0)
+- [Funtoo: the end of a Linux distro](https://dev.to/luiztux/funtoo-the-end-of-a-linux-distro-48n5)
+- [Simplifying Cross-Platform Payments with DAPs](https://dev.to/tbdevs/simplifying-cross-platform-payments-with-daps-2210)
+- [Becoming an Expert Data Scientist](https://dev.to/ekitindi/becoming-an-expert-data-scientist-35j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
