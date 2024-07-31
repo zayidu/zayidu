@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [“Eslint-Summary” — Hack your Eslint Config](https://dev.to/misterion96/eslint-summary-hack-your-eslint-config-2bc2)
-- [How to Build RESTful APIs with Django](https://dev.to/media_geneous/how-to-build-restful-apis-with-django-2gig)
-- [Unlocking the Web’s Potential: A Journey through Web APIs](https://dev.to/goldenthrust/unlocking-the-webs-potential-a-journey-through-web-apis-g68)
-- [Key Ideas About the JavaScript Call Stack You Should Understand](https://dev.to/devstoriesplayground/key-ideas-about-the-javascript-call-stack-you-should-understand-2ehp)
-- [Enhancing Web Application Reliability with the Background Synchronization API](https://dev.to/goldenthrust/enhancing-web-application-reliability-with-the-background-synchronization-api-194i)
+- [5 development tools, ✋ Refuse to work overtime and stay up late](https://dev.to/tanping/5-development-tools-refuse-to-work-overtime-and-stay-up-late-5hkm)
+- [DevOps Tool Installer/Uninstaller](https://dev.to/prodevopsguytech/devops-tool-installeruninstaller-24e)
+- [How to Use Generative AI for Exploratory Testing](https://dev.to/berthaw82414312/how-to-use-generative-ai-for-exploratory-testing-3pb5)
+- [Kubernetes Scheduler](https://dev.to/jacktt/kubernetes-scheduler-3opf)
+- [Web Storage API Essentials](https://dev.to/code_passion/web-storage-api-essentials-4io8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
