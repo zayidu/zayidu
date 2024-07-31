@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# da Data tiplar haqida](https://dev.to/islomali99/c-da-data-tiplar-haqida-3fcb)
-- [Top Free PHP Hosting Services](https://dev.to/sh20raj/top-free-php-hosting-services-1872)
-- [Node Will Finally suport Typescript???](https://dev.to/kevin-uehara/node-will-finally-suport-typescript-18k6)
-- [This Week I Learnt: CompletableFuture – Java&#39;s Approach to Asynchronous Programming](https://dev.to/daraolayebi/this-week-i-learnt-completablefuture-javas-approach-to-asynchronous-programming-27ka)
-- [ASCII Table nima](https://dev.to/islomali99/ascii-table-nima-289e)
+- [How to Optimize SQL Queries by Understanding the SQL Execution Order](https://dev.to/marcosconci/how-to-optimize-sql-queries-by-understanding-the-sql-execution-order-1fic)
+- [.NET MVC CAS Authentication](https://dev.to/feridaksahin/net-mvc-cas-authentication-3no3)
+- [5 Reasons Why VS Code is Perfect for Beginners](https://dev.to/mahrukh_adeel/5-reasons-why-vs-code-is-perfect-for-beginners-12n4)
+- [Beyond the Blast Radius: Demystifying and Mitigating Cascading Microservice Issues](https://dev.to/causely/beyond-the-blast-radius-demystifying-and-mitigating-cascading-microservice-issues-418l)
+- [Will AI Replace Programming Languages?](https://dev.to/jwtiller_c47bdfa134adf302/will-ai-replace-programming-languages-4hmn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
