@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Creative Team Building Exercises for Remote Teams](https://dev.to/bryany/20-creative-team-building-exercises-for-remote-teams-19h7)
-- [Third-Party Cookies Are Gone &lpar;Or Not&rpar;. How Can I Still Embed Cross-Site Apps?](https://dev.to/samiekblad/third-party-cookies-are-gone-how-can-i-still-embed-cross-site-apps-1nf1)
-- [Production-Ready Vault Deployment on EC2: A Detailed Guide](https://dev.to/ifedayo/production-ready-vault-deployment-on-ec2-a-detailed-guide-19g0)
-- [Python for devops](https://dev.to/pratik_nalawade/python-for-devops-15hg)
-- [Spring cleanup: Outdated Git tags](https://dev.to/kinneko-de/spring-cleanup-outdated-git-tags-3fai)
+- [[DAY 93-95] I built an interactive database in PostgreSQL using a shell script](https://dev.to/thomascansino/day-93-95-i-built-an-interactive-database-in-postgresql-using-a-shell-script-2f0p)
+- [Answer: Could not open mysql.plugin table. Some plugins may be not loaded](https://dev.to/pablohub44/answer-could-not-open-mysqlplugin-table-some-plugins-may-be-not-loaded-4ddp)
+- [Transitioning from JavaScript to TypeScript: A Beginner’s Guide 2024](https://dev.to/iamfaham/transitioning-from-javascript-to-typescript-a-beginners-guide-2024-51hj)
+- [Show us your open-source project!](https://dev.to/litlyx/show-us-your-open-source-project-3gha)
+- [9 Must-Know Open-source JavaScript Libraries for Mastering AI Development 🧙✨](https://dev.to/composiodev/9-must-know-open-source-javascript-libraries-for-mastering-ai-development-2i9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
