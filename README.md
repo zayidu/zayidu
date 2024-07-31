@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Prisma + Supabase Error P1001](https://dev.to/digitaldrreamer/prisma-supabase-error-p1001-4aj8)
-- [How Important is a Bachelor&#39;s Degree for Developers](https://dev.to/marcosconci/how-important-is-a-bachelors-degree-for-developers-2hp0)
-- [Documentando uma API com Java Spring Boot usando Swagger](https://dev.to/marialuizaleitao/documentando-uma-api-com-java-spring-boot-usando-swagger-4hgd)
-- [Day 21 of My 90-Day DevOps Journey: Mastering Terraform Modules for Reusable Infrastructure](https://dev.to/arbythecoder/day-21-of-my-90-day-devops-journey-mastering-terraform-modules-for-reusable-infrastructure-3ghm)
-- [Just Wrapped Up: Cafe Menu Project!](https://dev.to/ack/just-wrapped-up-cafe-menu-project-2ndp)
+- [How Does HTTPS Works?](https://dev.to/nayetwolf/how-does-https-works-35mh)
+- [[Game of Purpose] Day 73 - Improving animations with Blend Spaces](https://dev.to/humberd/game-of-purpose-day-73-i18)
+- [Kubernetes 101: Introduction](https://dev.to/danielcristho/kubernetes-101-introduction-2dfa)
+- [What&#39;s the real point of Microservices? - should I start with Monolith](https://dev.to/ivangavlik/whats-the-real-point-of-microservices-should-i-start-with-monolith-1b61)
+- [App Development Process - Compendium from Angela Yu&#39;s class from London app brewery](https://dev.to/valerianagit/app-development-process-compendium-from-angela-yus-class-from-london-app-brewery-dic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
