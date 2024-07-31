@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Git with CI/CD Pipelines – Part 8](https://dev.to/dipakahirav/integrating-git-with-cicd-pipelines-part-8-2i5j)
 - [Part 3: Building Powerful Chains and Agents in LangChain](https://dev.to/jamesbmour/part-3-building-powerful-chains-and-agents-in-langchain-5g04)
+- [Dynamic Table Creation with Alpine JS](https://dev.to/aazwar/dynamic-table-creation-with-alpine-js-2ha4)
+- [Duck Typing Meets Type Hints: Using Protocols in Python](https://dev.to/samkeen/duck-typing-meets-type-hints-using-protocols-in-python-4d8l)
 - [Exploring some Powerful Features of Golang](https://dev.to/jacktt/exploring-some-powerful-features-of-golang-36h0)
-- [Today&#39;s Trending Projects: Database Constraint Design and Implementation and More](https://dev.to/labex/todays-trending-projects-database-constraint-design-and-implementation-and-more-46kh)
-- [Go Performance: Pequenas mudanças que ajudam a melhorar o desempenho do seu app](https://dev.to/rflpazini/go-performance-pequenas-mudancas-que-ajudam-a-melhorar-o-desempenho-do-seu-app-2l8o)
-- [iOS Projects on Github](https://dev.to/clr3/ios-projects-on-github-2ag3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
