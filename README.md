@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tips for Learning Angular](https://dev.to/jottyjohn/tips-for-learning-angular-346l)
-- [Count&lpar;*&rpar; vs Count&lpar;1&rpar; in SQL](https://dev.to/msnmongare/count-vs-count1-in-sql-understanding-the-differences-2j4d)
-- [Python - Lists and Tasks](https://dev.to/sureshlearnspython/python-lists-and-tasks-mo6)
-- [My Pen on CodePen](https://dev.to/etholite/my-pen-on-codepen-mm6)
-- [Chunking Techniques Every Developer Should Know for Enhanced RAG Applications!](https://dev.to/pavanbelagatti/chunking-techniques-every-developer-should-know-for-enhanced-rag-applications-fam)
+- [I added an RSS Feed – You Should Too!](https://dev.to/mrlinxed/i-added-an-rss-feed-you-should-too-26bo)
+- [Understanding IndexOutOfRangeException in C#](https://dev.to/iamcymentho/understanding-indexoutofrangeexception-in-c-2k5g)
+- [The CrowdStrike crash lesson every dev should remember](https://dev.to/fahimulhaq/the-crowdstrike-crash-lesson-every-dev-should-remember-5438)
+- [My Journey to Becoming a Next.js Developer &lpar;and Beyond&rpar;](https://dev.to/ygntechstartup/my-journey-to-becoming-a-nextjs-developer-and-beyond-1g4a)
+- [Integrating C/C++ Libraries to .NET Applications with P/Invoke](https://dev.to/turalsuleymani/integrating-cc-libraries-to-net-applications-with-pinvoke-1n4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
