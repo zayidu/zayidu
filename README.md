@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bellman ford algorithm&lpar;Single Source Shorted Path in DAG&rpar;](https://dev.to/prashantrmishra/bellman-ford-algorithmsingle-source-shorted-path-in-dag-1clc)
-- [How to deploy node server for telegram bot on Vercel](https://dev.to/tanabe_yutaka_18dc6e9adbc/how-to-deploy-node-server-for-telegram-bot-on-vercel-1of4)
-- [What can Taylor Swift teach us about Software Engineering?](https://dev.to/moozzyk/what-can-taylor-swift-teach-us-about-software-engineering-2237)
-- [How to fix auto import not working in a React, TypeScript project](https://dev.to/abdulwahidkahar/how-to-fix-auto-import-not-working-in-a-react-typescript-project-5hm6)
-- [Embrace the Future of Software Delivery with DevOps](https://dev.to/sujal_dua/embrace-the-future-of-software-delivery-with-devops-ef7)
+- [How to connect PostgreSQL with Node.js and Sequelize](https://dev.to/codenoun/how-to-connect-postgresql-with-nodejs-and-sequelize-26jb)
+- [Why Software Engineering Graduates Don&#39;t Get Hired &lpar;The Hard Truth&rpar;](https://dev.to/mathalpha/why-software-engineering-graduates-dont-get-hired-the-hard-truth-2pk5)
+- [15 Common .NET &amp; C# Blunders Based On My Experience](https://dev.to/jamesmh/15-common-net-c-blunders-based-on-my-experience-2lg4)
+- [A Raw Guide to Extraordinary Corporate Success](https://dev.to/iwooky/a-raw-guide-to-extraordinary-corporate-success-3dj2)
+- [Automate Your Vue Deployment: A Step-by-Step Guide to Using GitHub Actions](https://dev.to/shivishbrahma/automate-your-vue-deployment-a-step-by-step-guide-to-using-github-actions-44oa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
