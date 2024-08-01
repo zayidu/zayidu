@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 Comparing and Contrasting Popular Probability Distributions: A Practical Approach 📊](https://dev.to/saivishwa/comparing-and-contrasting-popular-probability-distributions-a-practical-approach-1j2i)
-- [All About - The Domain Name System &lpar;DNS&rpar;](https://dev.to/zeeshanali0704/all-about-the-domain-name-system-dns-2ldk)
-- [Build Your Own Mini Redis with Python! 🚀](https://dev.to/getvm/build-your-own-mini-redis-with-python-4dp5)
-- [🚀 Day 3 - Mastering Advanced Linux Commands 🖥️](https://dev.to/ritesh_dolare/day-3-mastering-advanced-linux-commands-23lh)
-- [OpenResty on NixOS for an API Gateway](https://dev.to/vst/openresty-on-nixos-for-an-api-gateway-240i)
+- [Resetting a Firebase User Password in C# Using Firebase SDK](https://dev.to/i_a_m_g_a_u_r_a_v/resetting-a-firebase-user-password-in-c-using-firebase-sdk-4p9g)
+- [A 10-Step Guide to Migrating From Monolith to Microservices Architecture](https://dev.to/marutitech/a-10-step-guide-to-migrating-from-monolith-to-microservices-architecture-2od4)
+- [React Native State Management: The Ultimate Guide [2024]](https://dev.to/alexsam986/react-native-state-management-the-ultimate-guide-2df6)
+- [Load Balancer in System Design](https://dev.to/zeeshanali0704/load-balancer-in-system-design-cin)
+- [Block games](https://dev.to/aman_kumar_c1afdfa0480d12/block-games-12cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
