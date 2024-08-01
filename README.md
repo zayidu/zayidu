@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MERN Stack Development](https://dev.to/ankansaha/mern-stack-development-32ck)
-- [Building a Scalable API with Node.js and Express](https://dev.to/ankansaha/building-a-scalable-api-with-nodejs-and-express-5b1l)
-- [A Beginner’s Guide to Minimalist Design](https://dev.to/andrewcknight/a-beginners-guide-to-minimalist-design-50mc)
-- [FormEngine Alternative: A Comprehensive Comparison with SurveyJS](https://dev.to/gavinhenderson/formengine-alternative-a-comprehensive-comparison-with-surveyjs-4m5a)
-- [Form.io Alternative: A Comprehensive Comparison with SurveyJS](https://dev.to/gavinhenderson/formio-alternative-a-comprehensive-comparison-with-surveyjs-25d)
+- [Kriptografi](https://dev.to/nabirecybersecurity/kriptografi-3lgd)
+- [Integrate Google OAuth2 authentication into the django-rest-framework](https://dev.to/fromsian/integrate-google-oauth2-authentication-into-the-django-rest-framework-39hj)
+- [How you found your first client as a freelancer?](https://dev.to/obceylan/how-you-found-your-first-client-as-a-freelancer-18nj)
+- [Day 15 of 100 Days of Cloud: Getting Started with OpenTofu](https://dev.to/tutorialhelldev/day-15-of-100-days-of-cloud-getting-started-with-opentofu-1iem)
+- [GIT &amp; GITHUB](https://dev.to/dev_frank/git-github-4lgc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
