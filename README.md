@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Swift Protocol-Oriented Programming](https://dev.to/kartikmehta8/swift-protocol-oriented-programming-199c)
-- [Excel in React by understanding JSX under the hood](https://dev.to/andrescasadev/excel-in-react-by-understanding-jsx-under-the-hood-3e11)
-- [Detection](https://dev.to/kevinpalma21/detection-3c60)
-- [📂How to compile and run MDX in React](https://dev.to/brokarim/how-to-compile-and-run-mdx-in-react-9l)
-- [From Hot to Cold: A Practical Guide to Truly Secure Crypto Wallets](https://dev.to/mibii/from-hot-to-cold-a-practical-guide-to-truly-secure-crypto-wallets-43h)
+- [Today&#39;s Trending Projects: Course Schedule CRUD With MyBatis and More](https://dev.to/labex/todays-trending-projects-course-schedule-crud-with-mybatis-and-more-eph)
+- [Python - List Methods &amp; Tasks II](https://dev.to/amotbeli/python-list-methods-tasks-ii-2cmf)
+- [AWS vs. DevOps](https://dev.to/andrewtetzeli/aws-vs-devops-1p82)
+- [Mastering Azure Cost Management with TCO and Pricing Calculators](https://dev.to/florence_8042063da11e29d1/mastering-azure-cost-management-with-tco-and-pricing-calculators-124f)
+- [🌟 Corporate Ladder to Software Developer 🌟](https://dev.to/muydanny/corporate-ladder-to-software-developer-4cha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
