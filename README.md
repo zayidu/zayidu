@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Making a REST API typesafe with React Query and Zod](https://dev.to/noahflk/making-a-rest-api-typesafe-with-react-query-and-zod-41i8)
-- [Server Certificate Chain](https://dev.to/sambo2021/certificate-chain-5a80)
-- [Starknet Protocols: Key Features and MEV Opportunities](https://dev.to/lordghostx/starknet-protocols-key-features-and-mev-opportunities-574i)
-- [Looking for Feedback on My Website!](https://dev.to/novadesign/looking-for-feedback-on-my-website-39o2)
-- [[Game of Purpose] Day 74](https://dev.to/humberd/game-of-purpose-day-74-4ije)
+- [Swift Protocol-Oriented Programming](https://dev.to/kartikmehta8/swift-protocol-oriented-programming-199c)
+- [Excel in React by understanding JSX under the hood](https://dev.to/andrescasadev/excel-in-react-by-understanding-jsx-under-the-hood-3e11)
+- [Detection](https://dev.to/kevinpalma21/detection-3c60)
+- [📂How to compile and run MDX in React](https://dev.to/brokarim/how-to-compile-and-run-mdx-in-react-9l)
+- [From Hot to Cold: A Practical Guide to Truly Secure Crypto Wallets](https://dev.to/mibii/from-hot-to-cold-a-practical-guide-to-truly-secure-crypto-wallets-43h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
