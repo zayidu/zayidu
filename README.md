@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setup a RTC Module with Ubuntu 24.04 on a Raspberry Pi 4](https://dev.to/dev_neil_a/setup-an-rtc-module-with-ubuntu-2404-on-a-raspberry-pi-4-28mm)
-- [Aplicação do React com Ruby para um Design System](https://dev.to/biosbug/aplicacao-do-react-com-ruby-para-um-design-system-1hap)
-- [Core Concepts and Cutting Edge Technologies in Data Science](https://dev.to/sfctodaymag_6131512de1717/core-concepts-and-cutting-edge-technologies-in-data-science-clh)
-- [Top 10 Cloud Performance Testing Tools in 2024](https://dev.to/jennife05918349/top-10-cloud-performance-testing-tools-in-2024-2jjp)
-- [How to Handle RTK-Query Request Cancellations in React](https://dev.to/rahuls24/how-to-handle-rtk-query-request-cancellations-in-react-292h)
+- [10 Open Source MLOps Projects You Didn’t Know About](https://dev.to/kitops/10-open-source-mlops-projects-you-didnt-know-about-5bf5)
+- [A Beginners Guide to Using Spring Boot Actuator](https://dev.to/isaactony/a-beginners-guide-to-using-spring-boot-actuator-5g3n)
+- [Vite vs NextJs: which frontend framework is for you?](https://dev.to/codeparrot/vite-vs-nextjs-which-frontend-framework-is-for-you-1ejp)
+- [AI Tools and Directories fresh list](https://dev.to/pablonax/ai-tools-and-directories-fresh-list-1cdn)
+- [Custom React Hook: useResizeObserver](https://dev.to/punitsonime/custom-react-hook-useresizeobserver-3m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
