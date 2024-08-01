@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Review of Hybrid Search in Milvus](https://dev.to/zilliz/a-review-of-hybrid-search-in-milvus-36ll)
-- [Getting Started with Svelte from React Dev Perspective, with Code Comparison](https://dev.to/syakirurahman/getting-started-with-svelte-from-react-dev-perspective-with-code-comparison-1ii5)
-- [How to Setup Tailwind CSS Automatic Class Sorting with Prettier in New and Existing Projects](https://dev.to/iamsheye/how-to-setup-tailwind-css-automatic-class-sorting-with-prettier-in-new-and-existing-projects-2ob8)
-- [NextJs Server Actions: Why and How](https://dev.to/codeparrot/nextjs-server-actions-why-and-how-3g5m)
-- [Understanding Design Patterns: Types and Definitions 💡](https://dev.to/alisamir/understanding-design-patterns-types-and-definitions-34p2)
+- [Elevating Software Quality: The Crucial Role of Independent Software Testing Services](https://dev.to/testree/elevating-software-quality-the-crucial-role-of-independent-software-testing-services-gkl)
+- [From ground to production: Deploying Workload Identities on AKS](https://dev.to/anderson_leite_468328fb8b/from-ground-to-production-deploying-workload-identities-on-aks-57lj)
+- [Using RAG on media content with Bedrock Knowledge Bases and Amazon Transcribe](https://dev.to/zied/using-rag-on-media-content-with-bedrock-knowledge-bases-and-amazon-transcribe-2kpf)
+- [On Stealing People&#39;s Attention](https://dev.to/imtiaz101325/on-stealing-peoples-attention-5ej2)
+- [The `goto` Statement in PHP](https://dev.to/ayanozturk/the-goto-statement-in-php-49nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
