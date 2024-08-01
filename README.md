@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gerenciamento de projetos ágeis: O inicio de tudo](https://dev.to/lima1301lucas/gerenciamento-de-projetos-ageis-o-inicio-de-tudo-4kfa)
-- [Postgres major version upgrades with minimal downtime](https://dev.to/xata/postgres-major-version-upgrades-with-minimal-downtime-1k0m)
-- [Instant Message Display in Chat Apps with htmx](https://dev.to/kuba_szw/instant-message-display-in-chat-apps-with-htmx-l9d)
-- [Cutting-Edge Solutions for Facial Detection, Recognition, and Verification](https://dev.to/api4ai/cutting-edge-solutions-for-facial-detection-recognition-and-verification-5him)
-- [10 Biggest Remote Testing Challenges And How To Resolve](https://dev.to/mishrapraveen/10-biggest-remote-testing-challenges-and-how-to-resolve-4351)
+- [A Review of Hybrid Search in Milvus](https://dev.to/zilliz/a-review-of-hybrid-search-in-milvus-36ll)
+- [Getting Started with Svelte from React Dev Perspective, with Code Comparison](https://dev.to/syakirurahman/getting-started-with-svelte-from-react-dev-perspective-with-code-comparison-1ii5)
+- [How to Setup Tailwind CSS Automatic Class Sorting with Prettier in New and Existing Projects](https://dev.to/iamsheye/how-to-setup-tailwind-css-automatic-class-sorting-with-prettier-in-new-and-existing-projects-2ob8)
+- [NextJs Server Actions: Why and How](https://dev.to/codeparrot/nextjs-server-actions-why-and-how-3g5m)
+- [Understanding Design Patterns: Types and Definitions 💡](https://dev.to/alisamir/understanding-design-patterns-types-and-definitions-34p2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
