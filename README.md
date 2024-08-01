@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Open Source MLOps Projects You Didn’t Know About](https://dev.to/kitops/10-open-source-mlops-projects-you-didnt-know-about-5bf5)
-- [A Beginners Guide to Using Spring Boot Actuator](https://dev.to/isaactony/a-beginners-guide-to-using-spring-boot-actuator-5g3n)
-- [Vite vs NextJs: which frontend framework is for you?](https://dev.to/codeparrot/vite-vs-nextjs-which-frontend-framework-is-for-you-1ejp)
-- [AI Tools and Directories fresh list](https://dev.to/pablonax/ai-tools-and-directories-fresh-list-1cdn)
-- [Custom React Hook: useResizeObserver](https://dev.to/punitsonime/custom-react-hook-useresizeobserver-3m8)
+- [Gerenciamento de projetos ágeis: O inicio de tudo](https://dev.to/lima1301lucas/gerenciamento-de-projetos-ageis-o-inicio-de-tudo-4kfa)
+- [Postgres major version upgrades with minimal downtime](https://dev.to/xata/postgres-major-version-upgrades-with-minimal-downtime-1k0m)
+- [Instant Message Display in Chat Apps with htmx](https://dev.to/kuba_szw/instant-message-display-in-chat-apps-with-htmx-l9d)
+- [Cutting-Edge Solutions for Facial Detection, Recognition, and Verification](https://dev.to/api4ai/cutting-edge-solutions-for-facial-detection-recognition-and-verification-5him)
+- [10 Biggest Remote Testing Challenges And How To Resolve](https://dev.to/mishrapraveen/10-biggest-remote-testing-challenges-and-how-to-resolve-4351)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
