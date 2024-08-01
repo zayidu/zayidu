@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Resetting a Firebase User Password in C# Using Firebase SDK](https://dev.to/i_a_m_g_a_u_r_a_v/resetting-a-firebase-user-password-in-c-using-firebase-sdk-4p9g)
-- [A 10-Step Guide to Migrating From Monolith to Microservices Architecture](https://dev.to/marutitech/a-10-step-guide-to-migrating-from-monolith-to-microservices-architecture-2od4)
-- [React Native State Management: The Ultimate Guide [2024]](https://dev.to/alexsam986/react-native-state-management-the-ultimate-guide-2df6)
-- [Load Balancer in System Design](https://dev.to/zeeshanali0704/load-balancer-in-system-design-cin)
-- [Block games](https://dev.to/aman_kumar_c1afdfa0480d12/block-games-12cj)
+- [Tips for Learning Angular](https://dev.to/jottyjohn/tips-for-learning-angular-346l)
+- [Count&lpar;*&rpar; vs Count&lpar;1&rpar; in SQL](https://dev.to/msnmongare/count-vs-count1-in-sql-understanding-the-differences-2j4d)
+- [Python - Lists and Tasks](https://dev.to/sureshlearnspython/python-lists-and-tasks-mo6)
+- [My Pen on CodePen](https://dev.to/etholite/my-pen-on-codepen-mm6)
+- [Chunking Techniques Every Developer Should Know for Enhanced RAG Applications!](https://dev.to/pavanbelagatti/chunking-techniques-every-developer-should-know-for-enhanced-rag-applications-fam)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
