@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Best AI you need as a Developer](https://dev.to/e-tech/9-best-ai-you-need-as-a-developer-d5)
-- [How to Fetch Wikipedia Articles Using Node.js &lpar;Express, TypeScript, Axios&rpar;](https://dev.to/sanditzz/how-to-fetch-wikipedia-articles-using-nodejs-express-typescript-axios-3if3)
-- [If it quacks like a duck 🦆🐥](https://dev.to/rafaeljohn9/if-it-quacks-like-a-duck-1fl8)
-- [If it quacks like a duck 🦆🐥](https://dev.to/rafaeljohn9/if-it-quacks-like-a-duck-2a36)
-- [How to Test ABS Sensor?](https://dev.to/archibald/how-to-test-abs-sensor-3m5m)
+- [Prompt Engineering For Developers: 11 Concepts and Examples 🎯🧙‍♂️⚡](https://dev.to/latitude/prompt-engineering-for-developers-11-concepts-and-examples-in0)
+- [Desktop E-commerce Application](https://dev.to/rabiezouita11/desktop-e-commerce-application-2fff)
+- [“Be wary of time complexity pitfalls&quot;](https://dev.to/mengqinyuan/be-wary-of-time-complexity-pitfalls-13jf)
+- [Building a Single Page Application &lpar;SPA&rpar; with Angular Introduction](https://dev.to/zache_niyokwizera_3ea666/building-a-single-page-application-spa-with-angularintroduction-bd)
+- [Education Connect: Revolutionizing Parent-School Communication](https://dev.to/rabiezouita11/education-connect-revolutionizing-parent-school-communication-24ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
