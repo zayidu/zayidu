@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Elevating Software Quality: The Crucial Role of Independent Software Testing Services](https://dev.to/testree/elevating-software-quality-the-crucial-role-of-independent-software-testing-services-gkl)
-- [From ground to production: Deploying Workload Identities on AKS](https://dev.to/anderson_leite_468328fb8b/from-ground-to-production-deploying-workload-identities-on-aks-57lj)
-- [Using RAG on media content with Bedrock Knowledge Bases and Amazon Transcribe](https://dev.to/zied/using-rag-on-media-content-with-bedrock-knowledge-bases-and-amazon-transcribe-2kpf)
-- [On Stealing People&#39;s Attention](https://dev.to/imtiaz101325/on-stealing-peoples-attention-5ej2)
-- [The `goto` Statement in PHP](https://dev.to/ayanozturk/the-goto-statement-in-php-49nb)
+- [Bellman ford algorithm&lpar;Single Source Shorted Path in DAG&rpar;](https://dev.to/prashantrmishra/bellman-ford-algorithmsingle-source-shorted-path-in-dag-1clc)
+- [How to deploy node server for telegram bot on Vercel](https://dev.to/tanabe_yutaka_18dc6e9adbc/how-to-deploy-node-server-for-telegram-bot-on-vercel-1of4)
+- [What can Taylor Swift teach us about Software Engineering?](https://dev.to/moozzyk/what-can-taylor-swift-teach-us-about-software-engineering-2237)
+- [How to fix auto import not working in a React, TypeScript project](https://dev.to/abdulwahidkahar/how-to-fix-auto-import-not-working-in-a-react-typescript-project-5hm6)
+- [Embrace the Future of Software Delivery with DevOps](https://dev.to/sujal_dua/embrace-the-future-of-software-delivery-with-devops-ef7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
