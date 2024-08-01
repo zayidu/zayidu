@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Software Method-001 Profit = Requirements - Design](https://dev.to/jiayufagao/the-software-method-001-profit-requirements-design-4dja)
-- [#37 — Replace Duplicate Items with The Specified Text](https://dev.to/judith677/37-replace-duplicate-items-with-the-specified-text-2iee)
-- [What are you working on?](https://dev.to/philipjohnbasile/what-are-you-working-on-6mi)
-- [TimeLoc Net: A Quantum-Inspired Framework for Decentralized Communication](https://dev.to/bclonan/timeloc-net-a-quantum-inspired-framework-for-decentralized-communication-4b99)
-- [React Dynamic Table | Programming Tutorial](https://dev.to/labex/react-dynamic-table-programming-tutorial-558h)
+- [🔍 Comparing and Contrasting Popular Probability Distributions: A Practical Approach 📊](https://dev.to/saivishwa/comparing-and-contrasting-popular-probability-distributions-a-practical-approach-1j2i)
+- [All About - The Domain Name System &lpar;DNS&rpar;](https://dev.to/zeeshanali0704/all-about-the-domain-name-system-dns-2ldk)
+- [Build Your Own Mini Redis with Python! 🚀](https://dev.to/getvm/build-your-own-mini-redis-with-python-4dp5)
+- [🚀 Day 3 - Mastering Advanced Linux Commands 🖥️](https://dev.to/ritesh_dolare/day-3-mastering-advanced-linux-commands-23lh)
+- [OpenResty on NixOS for an API Gateway](https://dev.to/vst/openresty-on-nixos-for-an-api-gateway-240i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
