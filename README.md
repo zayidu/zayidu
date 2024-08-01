@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀Advanced JavaScript Techniques and Best Practices](https://dev.to/gadekar_sachin/advanced-javascript-techniques-and-best-practices-2b40)
-- [How To Train Your Codebase: Enhancing Readability, Reusability and Scalability with Modular Code](https://dev.to/shavonharrisdev/how-to-train-your-codebase-enhancing-readability-reusability-and-scalability-with-modular-code-476d)
-- [🛠️ Popular Automation Testing Tools](https://dev.to/gadekar_sachin/popular-automation-testing-tools-ig8)
-- [Day 4: Mastering Variables, JSON, and YAML in DevOps](https://dev.to/singh_in_cloud/day-4-mastering-variables-json-and-yaml-in-devops-gfo)
-- [2678. Number of Senior Citizens](https://dev.to/mdarifulhaque/2678-number-of-senior-citizens-4jk9)
+- [MERN Stack Development](https://dev.to/ankansaha/mern-stack-development-32ck)
+- [Building a Scalable API with Node.js and Express](https://dev.to/ankansaha/building-a-scalable-api-with-nodejs-and-express-5b1l)
+- [A Beginner’s Guide to Minimalist Design](https://dev.to/andrewcknight/a-beginners-guide-to-minimalist-design-50mc)
+- [FormEngine Alternative: A Comprehensive Comparison with SurveyJS](https://dev.to/gavinhenderson/formengine-alternative-a-comprehensive-comparison-with-surveyjs-4m5a)
+- [Form.io Alternative: A Comprehensive Comparison with SurveyJS](https://dev.to/gavinhenderson/formio-alternative-a-comprehensive-comparison-with-surveyjs-25d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
