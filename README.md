@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Background Tasks with FastAPI Background Tasks and Celery + Redis - FastAPI Beyond CRUD &lpar;Part 20&rpar;](https://dev.to/jod35/background-tasks-with-fastapi-background-tasks-and-celery-redis-fastapi-beyond-crud-part-20-1ilh)
-- [Dart-Powered Firebase Security: Exploring Flood&#39;s Drop and Automate Modules](https://dev.to/jakeboychenko/dart-powered-firebase-security-exploring-floods-drop-and-automate-modules-1i9b)
-- [Function overload in TypeScript](https://dev.to/ramunarasinga/function-overload-in-typescript-2he1)
-- [Aug 8 - AI, Machine Learning and Computer Vision Meetup](https://dev.to/voxel51/aug-8-ai-machine-learning-and-computer-vision-meetup-3hnh)
-- [Implement an LRU Cache in Go](https://dev.to/johnscode/implement-an-lru-cache-in-go-1hbc)
+- [[Game of Purpose] Day 75](https://dev.to/humberd/game-of-purpose-day-75-jh7)
+- [Common Ports and Protocols](https://dev.to/nayetwolf/common-ports-and-protocols-2nb9)
+- [I&#39;m launching: RemotyJobs.com! 🚀](https://dev.to/maurobonfietti/im-launching-remotyjobscom-4b08)
+- [Data Structures and Algorithms: Heaps](https://dev.to/faraib/data-structures-and-algorithms-heaps-1n21)
+- [The 5 Top Most-Used Deployment Strategies in Modern Software Development](https://dev.to/wallacefreitas/the-5-top-most-used-deployment-strategies-in-modern-software-development-2h7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
