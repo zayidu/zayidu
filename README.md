@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I added an RSS Feed – You Should Too!](https://dev.to/mrlinxed/i-added-an-rss-feed-you-should-too-26bo)
-- [Understanding IndexOutOfRangeException in C#](https://dev.to/iamcymentho/understanding-indexoutofrangeexception-in-c-2k5g)
-- [The CrowdStrike crash lesson every dev should remember](https://dev.to/fahimulhaq/the-crowdstrike-crash-lesson-every-dev-should-remember-5438)
-- [My Journey to Becoming a Next.js Developer &lpar;and Beyond&rpar;](https://dev.to/ygntechstartup/my-journey-to-becoming-a-nextjs-developer-and-beyond-1g4a)
-- [Integrating C/C++ Libraries to .NET Applications with P/Invoke](https://dev.to/turalsuleymani/integrating-cc-libraries-to-net-applications-with-pinvoke-1n4c)
+- [9 Best AI you need as a Developer](https://dev.to/e-tech/9-best-ai-you-need-as-a-developer-d5)
+- [How to Fetch Wikipedia Articles Using Node.js &lpar;Express, TypeScript, Axios&rpar;](https://dev.to/sanditzz/how-to-fetch-wikipedia-articles-using-nodejs-express-typescript-axios-3if3)
+- [If it quacks like a duck 🦆🐥](https://dev.to/rafaeljohn9/if-it-quacks-like-a-duck-1fl8)
+- [If it quacks like a duck 🦆🐥](https://dev.to/rafaeljohn9/if-it-quacks-like-a-duck-2a36)
+- [How to Test ABS Sensor?](https://dev.to/archibald/how-to-test-abs-sensor-3m5m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
