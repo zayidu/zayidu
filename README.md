@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kriptografi](https://dev.to/nabirecybersecurity/kriptografi-3lgd)
-- [Integrate Google OAuth2 authentication into the django-rest-framework](https://dev.to/fromsian/integrate-google-oauth2-authentication-into-the-django-rest-framework-39hj)
-- [How you found your first client as a freelancer?](https://dev.to/obceylan/how-you-found-your-first-client-as-a-freelancer-18nj)
-- [Day 15 of 100 Days of Cloud: Getting Started with OpenTofu](https://dev.to/tutorialhelldev/day-15-of-100-days-of-cloud-getting-started-with-opentofu-1iem)
-- [GIT &amp; GITHUB](https://dev.to/dev_frank/git-github-4lgc)
+- [Background Tasks with FastAPI Background Tasks and Celery + Redis - FastAPI Beyond CRUD &lpar;Part 20&rpar;](https://dev.to/jod35/background-tasks-with-fastapi-background-tasks-and-celery-redis-fastapi-beyond-crud-part-20-1ilh)
+- [Dart-Powered Firebase Security: Exploring Flood&#39;s Drop and Automate Modules](https://dev.to/jakeboychenko/dart-powered-firebase-security-exploring-floods-drop-and-automate-modules-1i9b)
+- [Function overload in TypeScript](https://dev.to/ramunarasinga/function-overload-in-typescript-2he1)
+- [Aug 8 - AI, Machine Learning and Computer Vision Meetup](https://dev.to/voxel51/aug-8-ai-machine-learning-and-computer-vision-meetup-3hnh)
+- [Implement an LRU Cache in Go](https://dev.to/johnscode/implement-an-lru-cache-in-go-1hbc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
