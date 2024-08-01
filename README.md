@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is the Recommended Number of Hours to Work in a Week?](https://dev.to/bryany/what-is-the-recommended-number-of-hours-to-work-in-a-week-5bdm)
-- [OCR Solutions Uncovered: How to Choose the Best for Different Use Cases](https://dev.to/api4ai/ocr-solutions-uncovered-how-to-choose-the-best-for-different-use-cases-1mel)
-- [Understanding the Roles and Responsibilities of a Software Tester In SDLC](https://dev.to/robort_smith/understanding-the-roles-and-responsibilities-of-a-software-tester-in-sdlc-248g)
-- [Why To Choose Selenium Framework for Automation Testing?](https://dev.to/vijayashree44/why-to-choose-selenium-framework-for-automation-testing-2ol6)
-- [Introducing UnoPIM: The Open-Source PIM Solution for Modern Businesses](https://dev.to/pathaksaurav/introducing-unopim-the-open-source-pim-solution-for-modern-businesses-e14)
+- [Setup a RTC Module with Ubuntu 24.04 on a Raspberry Pi 4](https://dev.to/dev_neil_a/setup-an-rtc-module-with-ubuntu-2404-on-a-raspberry-pi-4-28mm)
+- [Aplicação do React com Ruby para um Design System](https://dev.to/biosbug/aplicacao-do-react-com-ruby-para-um-design-system-1hap)
+- [Core Concepts and Cutting Edge Technologies in Data Science](https://dev.to/sfctodaymag_6131512de1717/core-concepts-and-cutting-edge-technologies-in-data-science-clh)
+- [Top 10 Cloud Performance Testing Tools in 2024](https://dev.to/jennife05918349/top-10-cloud-performance-testing-tools-in-2024-2jjp)
+- [How to Handle RTK-Query Request Cancellations in React](https://dev.to/rahuls24/how-to-handle-rtk-query-request-cancellations-in-react-292h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
