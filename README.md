@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Today&#39;s Trending Projects: Course Schedule CRUD With MyBatis and More](https://dev.to/labex/todays-trending-projects-course-schedule-crud-with-mybatis-and-more-eph)
-- [Python - List Methods &amp; Tasks II](https://dev.to/amotbeli/python-list-methods-tasks-ii-2cmf)
-- [AWS vs. DevOps](https://dev.to/andrewtetzeli/aws-vs-devops-1p82)
-- [Mastering Azure Cost Management with TCO and Pricing Calculators](https://dev.to/florence_8042063da11e29d1/mastering-azure-cost-management-with-tco-and-pricing-calculators-124f)
-- [🌟 Corporate Ladder to Software Developer 🌟](https://dev.to/muydanny/corporate-ladder-to-software-developer-4cha)
+- [Writing Python code like Typescript](https://dev.to/bimaadi/writing-python-code-like-typescript-1le)
+- [Mastering Zabbix Regular Expressions: A Comprehensive Guide](https://dev.to/fernandomullerjr/mastering-zabbix-regular-expressions-a-comprehensive-guide-105k)
+- [A denial of service Regex breaks FastAPI security](https://dev.to/snyk/a-denial-of-service-regex-breaks-fastapi-security-2d22)
+- [Creating relationships using SQLAlchemy in Python](https://dev.to/spencer_adler_880da14d230/creating-relationships-using-sqlalchemy-in-python-572f)
+- [How To Stop Form Bots With Honeypot Fields](https://dev.to/jeffbuildstech/how-to-stop-form-bots-with-honeypot-fields-8od)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
