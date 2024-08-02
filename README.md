@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Java](https://dev.to/madgan95/introduction-to-java-3ed9)
-- [Release Radar · July 2024: Major updates from the open source community](https://dev.to/github/release-radar-july-2024-major-updates-from-the-open-source-community-446f)
-- [Floyd Warshall Algorithm &lpar;Multi-source shorted path&rpar;](https://dev.to/prashantrmishra/floyd-warshall-algorithm-498e)
-- [100FrontendChallenge - Day 4 - Contact us](https://dev.to/t1xx1/100frontendchallenge-day-4-contact-us-3l2h)
-- [[Desafio] - &quot;Low Level&quot; toInt Function](https://dev.to/zanfranceschi/desafio-low-level-toint-function-19hk)
+- [I need help regarding architecture in .NET MVC.](https://dev.to/dev3455/i-need-help-regarding-architecture-in-net-mvc-9lc)
+- [Reverse Engineering?](https://dev.to/kleverkobra/reverse-engineering-1e3b)
+- [Four Reasons Why You Should Code 📚😂:](https://dev.to/lokesh_singh/four-reasons-why-you-should-code--11eb)
+- [Quick Setup- React Router V6 🚀](https://dev.to/rajeshsilvoj/quick-setup-react-router-v6-25c0)
+- [Diving into Event Listeners: Day 8 of My JavaScript Challenge 🚀](https://dev.to/rohit1301/diving-into-event-listeners-day-8-of-my-javascript-challenge-1bb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
