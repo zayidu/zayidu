@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner&#39;s Guide to Scikit-Learn &lpar;sklearn&rpar; 📚](https://dev.to/kammarianand/beginners-guide-to-scikit-learn-sklearn-16ab)
-- [Scrape X.com &lpar;Twitter&rpar; Tweet Pages Using Python](https://dev.to/crawlbase/scrape-xcom-twitter-tweet-pages-using-python-287n)
-- [What is the Template API](https://dev.to/georg-dev/what-is-the-template-api-1opb)
-- [Design Pattern #7 - Builder Pattern](https://dev.to/superviz/design-pattern-7-builder-pattern-10j4)
-- [Go Gin Templates: Break Them Down](https://dev.to/ossan/go-gin-templates-break-them-down-4mob)
+- [Baby steps with Go](https://dev.to/taikedz/baby-steps-with-go-3ibl)
+- [Building dApps on Stellar](https://dev.to/stellar/building-dapps-on-stellar-g7)
+- [Understanding the Role of a SQL Server Database Administrator](https://dev.to/minhduc159/understanding-the-role-of-a-sql-server-database-administrator-3f28)
+- [Strings, Design and Analysis of Algorithms](https://dev.to/harshm03/strings-design-and-analysis-of-algorithms-2c8p)
+- [Decoupling Search Logic in Application Development with OpenSearch Templates and Aliases](https://dev.to/aws-builders/decoupling-search-logic-in-application-development-with-opensearch-templates-and-aliases-2p1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
