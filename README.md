@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Updates: Free and open-source landing page](https://dev.to/paul_freeman/updates-free-and-open-source-landing-page-3n3e)
-- [Web Push Notifications with React and Firebase Cloud Messaging &lpar;FCM&rpar;](https://dev.to/emmanuelayinde/web-push-notifications-with-react-and-firebase-cloud-messaging-fcm-18kb)
-- [CONTROLLER](https://dev.to/muhammadiqbalid83/controller-10c4)
-- [New container names for puppetserver and puppetdb](https://dev.to/voxpupuli/new-container-names-for-puppetserver-and-puppetdb-3aem)
-- [DSA: Linked List Javascript](https://dev.to/jsdevelopermano/dsa-linked-list-javascript-3340)
+- [Beginner&#39;s Guide to Scikit-Learn &lpar;sklearn&rpar; 📚](https://dev.to/kammarianand/beginners-guide-to-scikit-learn-sklearn-16ab)
+- [Scrape X.com &lpar;Twitter&rpar; Tweet Pages Using Python](https://dev.to/crawlbase/scrape-xcom-twitter-tweet-pages-using-python-287n)
+- [What is the Template API](https://dev.to/georg-dev/what-is-the-template-api-1opb)
+- [Design Pattern #7 - Builder Pattern](https://dev.to/superviz/design-pattern-7-builder-pattern-10j4)
+- [Go Gin Templates: Break Them Down](https://dev.to/ossan/go-gin-templates-break-them-down-4mob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
