@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Game of Purpose] Day 75](https://dev.to/humberd/game-of-purpose-day-75-jh7)
-- [Common Ports and Protocols](https://dev.to/nayetwolf/common-ports-and-protocols-2nb9)
-- [I&#39;m launching: RemotyJobs.com! 🚀](https://dev.to/maurobonfietti/im-launching-remotyjobscom-4b08)
-- [Data Structures and Algorithms: Heaps](https://dev.to/faraib/data-structures-and-algorithms-heaps-1n21)
-- [The 5 Top Most-Used Deployment Strategies in Modern Software Development](https://dev.to/wallacefreitas/the-5-top-most-used-deployment-strategies-in-modern-software-development-2h7e)
+- [Using Flows in Kotlin for Asynchronous Programming](https://dev.to/kartikmehta8/using-flows-in-kotlin-for-asynchronous-programming-2hjc)
+- [zod i18n internationalization](https://dev.to/fromsian/zod-i18n-internationalization-4laa)
+- [react internationalization i18n](https://dev.to/fromsian/react-internationalization-i18n-5cj1)
+- [Unraveling the Complexities of Software Design with Domain-Driven Design &lpar;DDD&rpar;](https://dev.to/v1eira/unraveling-the-complexities-of-software-design-with-domain-driven-design-ddd-24ed)
+- [Building Cross-Platform Apps with Flutter](https://dev.to/media_geneous/building-cross-platform-apps-with-flutter-2ej9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
