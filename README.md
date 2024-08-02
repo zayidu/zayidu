@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Flows in Kotlin for Asynchronous Programming](https://dev.to/kartikmehta8/using-flows-in-kotlin-for-asynchronous-programming-2hjc)
-- [zod i18n internationalization](https://dev.to/fromsian/zod-i18n-internationalization-4laa)
-- [react internationalization i18n](https://dev.to/fromsian/react-internationalization-i18n-5cj1)
-- [Unraveling the Complexities of Software Design with Domain-Driven Design &lpar;DDD&rpar;](https://dev.to/v1eira/unraveling-the-complexities-of-software-design-with-domain-driven-design-ddd-24ed)
-- [Building Cross-Platform Apps with Flutter](https://dev.to/media_geneous/building-cross-platform-apps-with-flutter-2ej9)
+- [Use React.lazy with confidence: A safe way to load components when iterating fast](https://dev.to/logto/use-reactlazy-with-confidence-a-safe-way-to-load-components-when-iterating-fast-1gkh)
+- [How to sort correctly arrays in JavaScript?](https://dev.to/pierre/sort-arrays-in-javascript-b78)
+- [Today&#39;s Trending Projects: Build an VSCode Extension With ChatGPT and More](https://dev.to/labex/todays-trending-projects-build-an-vscode-extension-with-chatgpt-and-more-1bim)
+- [Migrate Strapi from Render to Fly.io](https://dev.to/candidosales/migrate-strapi-from-render-to-flyio-lbi)
+- [High Performance with Java: Discover strategies and best practices to develop high performance Java applications](https://dev.to/avbravo/high-performance-with-java-discover-strategies-and-best-practices-to-develop-high-performance-java-applications-3806)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
