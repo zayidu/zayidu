@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Missing Values || Feature Engineering || Machine Learning &lpar;Part2&rpar;](https://dev.to/ngneha09/handling-missing-values-feature-engineering-machine-learning-part2-37l0)
-- [Optimizing React Performance with Redux and React Hooks](https://dev.to/ankansaha/optimizing-react-performance-with-redux-and-react-hooks-1c1l)
-- [Building Scalable APIs with Node.js and Express](https://dev.to/ankansaha/building-scalable-apis-with-nodejs-and-express-3jmo)
-- [Best Practices for Implementing CI/CD in a MERN Stack Application](https://dev.to/ankansaha/best-practices-for-implementing-cicd-in-a-mern-stack-application-145m)
-- [Building Scalable APIs with Node.js and Express](https://dev.to/ankansaha/building-scalable-apis-with-nodejs-and-express-1dlf)
+- [Rails Designer v1.2: Preview Images before Upload](https://dev.to/railsdesigner/rails-designer-v12-preview-images-before-upload-1dg0)
+- [Murphy’s Law is a tester’s best friend](https://dev.to/the_qa_corner/murphys-law-is-a-testers-best-friend-376n)
+- [How private are your class #private fields?](https://dev.to/naugtur/how-private-are-your-class-private-fields-m8n)
+- [Setting up a Node.js Express project with Typescript](https://dev.to/cedricahenkorah/setting-up-a-nodejs-express-project-with-typescript-5dae)
+- [Serializability in Database Management Systems](https://dev.to/pushpendra_sharma_f1d2cbe/serializability-in-database-management-systems-2df1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
