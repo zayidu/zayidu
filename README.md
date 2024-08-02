@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Essential Steps for Change Management in Projects](https://dev.to/bryany/5-essential-steps-for-change-management-in-projects-1g9b)
-- [Key On-Page SEO Elements for Better Google Rankings](https://dev.to/juddiy/key-on-page-seo-elements-for-better-google-rankings-25og)
-- [Exploring Stern : Day 21 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/exploring-stern-day-21-of-50-days-devops-tools-series-4agk)
-- [Front-End &amp; Back-End &lpar;CSR&rpar;](https://dev.to/0xw3ston/front-end-back-end-csr-2lj2)
-- [What is base64 encoding and how is it used in web development?](https://dev.to/brianmmdev/what-is-base64-encoding-and-how-is-it-used-in-web-development-3p4e)
+- [LMQL, AAAL Pt.6](https://dev.to/tunehqai/lmql-aaal-pt6-22ib)
+- [Random Thoughts #2](https://dev.to/isaiahwp/random-thoughts-2-4n97)
+- [Gerenciamento de Formulários Complexos em React com React Hook Form](https://dev.to/vitorrios1001/gerenciamento-de-formularios-complexos-em-react-com-react-hook-form-5782)
+- [⚡ MySecondApp - React Native with Expo &lpar;P15&rpar; - Layout Flight Detail Screen](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p15-layout-flight-detail-screen-5bej)
+- [Matplotlib Arrow Guide: Annotate Plots with Ease](https://dev.to/labex/matplotlib-arrow-guide-annotate-plots-with-ease-4afi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
