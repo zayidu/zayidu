@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a notion themed portfolio 😍](https://dev.to/paul_freeman/i-made-a-notion-themed-portfolio-3g3l)
-- [Compatibility Testing for PC Games: A Full Guide](https://dev.to/wetest/compatibility-testing-for-pc-games-a-full-guide-4j92)
-- [Using pm2 to Manage Node.js Applications](https://dev.to/hoaitx/using-pm2-to-manage-nodejs-applications-5ep7)
-- [Essential Oracle 50 Selected Practice Questions with Answers](https://dev.to/tom8daafe63765434221/essential-oracle-50-selected-practice-questions-with-answers-2l9m)
-- [Essential MySQL 50 Selected Practice Questions with Answers](https://dev.to/tom8daafe63765434221/essential-mysql-50-selected-practice-questions-with-answers-147m)
+- [React Custom Hooks: Crafting Reusable and Clean Code Like a Pro](https://dev.to/gboladetrue/react-custom-hooks-crafting-reusable-and-clean-code-like-a-pro-3kol)
+- [Microsserviços, uma abordagem prática - Resiliência](https://dev.to/miltonlima/microsservicos-uma-abordagem-pratica-resiliencia-3dll)
+- [The Essence &amp; Impact of Pre-Designed Templates in Software Development Project Management](https://dev.to/thomasy0ung/the-essence-impact-of-pre-designed-templates-in-software-development-project-management-3o6a)
+- [Understanding JSON Comments: Exploring the Need and Alternatives](https://dev.to/keploy/understanding-json-comments-exploring-the-need-and-alternatives-7j8)
+- [Enhancing Web Accessibility with Multi-Agent LLM for Visually Impaired Users](https://dev.to/hgky95/enhancing-web-accessibility-with-multi-agent-llm-for-visually-impaired-users-3l2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
