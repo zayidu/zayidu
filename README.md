@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reactions on React](https://dev.to/mikeross99/reactions-on-react-19pp)
-- [The Quest for Performance Part III : C Force](https://dev.to/chrisarg/the-quest-for-performance-part-iii-c-force-3lkf)
-- [Building Secure Authentication Systems with Next.js and Clerk 🚀🔒](https://dev.to/mihir_bhadak/building-secure-authentication-systems-with-nextjs-and-clerk-55a5)
-- [Hello Dev Community](https://dev.to/valdmiro_albano_ede3297bc/hello-dev-community-184h)
-- [Automating Email Notifications for S3 Object Uploads Using AWS SNS](https://dev.to/vishal_raju_6a7ca9503a75b/automating-email-notifications-for-s3-object-uploads-using-aws-sns-2b58)
+- [Personal access tokens, machine-to-machine authentication, and API Keys definition and their real-world scenarios](https://dev.to/logto/personal-access-tokens-machine-to-machine-authentication-and-api-keys-definition-and-their-real-world-scenarios-2m1)
+- [Building Scalable APIs with Node.js and Express](https://dev.to/ankansaha/building-scalable-apis-with-nodejs-and-express-5b9j)
+- [Git: Unlocking the Power of Version Control in Programming](https://dev.to/jignect_technologies/git-unlocking-the-power-of-version-control-in-programming-4ml1)
+- [Creating a Stylish 404 Not Found Page in React with Tailwind CSS](https://dev.to/masterdev/creating-a-stylish-404-not-found-page-in-react-with-tailwind-css-161f)
+- [Top 10 AI fitness app trends that are changing the game in 2024](https://dev.to/solutelabs/top-10-ai-fitness-app-trends-that-are-changing-the-game-in-2024-50pc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
