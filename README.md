@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Improve Readability of Your Code with C# Collection Expressions](https://dev.to/antonmartyniuk/improve-readability-of-your-code-with-c-collection-expressions-o62)
-- [Networking fundamental concepts for DevOps](https://dev.to/pratik_nalawade/networking-fundamental-concepts-for-devops-1bkg)
-- [Learn CSS Grid by Building a Magazine](https://dev.to/elliotvh/learn-css-grid-by-building-a-magazine-1eji)
-- [The loss functions in PyTorch](https://dev.to/hyperkai/the-loss-functions-in-pytorch-3c94)
-- [Powerful Visibility with Rust, Lambda, Datadog, and OpenTelemetry](https://dev.to/aws-builders/powerful-visibility-with-rust-lambda-datadog-and-opentelemetry-4akm)
+- [🚀 Best Practices in Software Development 👨🏻‍💻](https://dev.to/fonteeboa/best-practices-in-software-development-3e53)
+- [Using Redis with .NET](https://dev.to/fabrcio_marcondessantos/using-redis-with-net-4404)
+- [Day 1002 : Go To Sleep](https://dev.to/dwane/day-1002-go-to-sleep-2pk1)
+- [Securing Angular Apps with Keycloak](https://dev.to/phasetwo/securing-angular-apps-with-keycloak-98o)
+- [Cricket league landing page](https://dev.to/uzondu9/cricket-league-landing-page-232d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
