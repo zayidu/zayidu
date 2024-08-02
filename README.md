@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Custom Hooks: Crafting Reusable and Clean Code Like a Pro](https://dev.to/gboladetrue/react-custom-hooks-crafting-reusable-and-clean-code-like-a-pro-3kol)
-- [Microsserviços, uma abordagem prática - Resiliência](https://dev.to/miltonlima/microsservicos-uma-abordagem-pratica-resiliencia-3dll)
-- [The Essence &amp; Impact of Pre-Designed Templates in Software Development Project Management](https://dev.to/thomasy0ung/the-essence-impact-of-pre-designed-templates-in-software-development-project-management-3o6a)
-- [Understanding JSON Comments: Exploring the Need and Alternatives](https://dev.to/keploy/understanding-json-comments-exploring-the-need-and-alternatives-7j8)
-- [Enhancing Web Accessibility with Multi-Agent LLM for Visually Impaired Users](https://dev.to/hgky95/enhancing-web-accessibility-with-multi-agent-llm-for-visually-impaired-users-3l2b)
+- [Updates: Free and open-source landing page](https://dev.to/paul_freeman/updates-free-and-open-source-landing-page-3n3e)
+- [Web Push Notifications with React and Firebase Cloud Messaging &lpar;FCM&rpar;](https://dev.to/emmanuelayinde/web-push-notifications-with-react-and-firebase-cloud-messaging-fcm-18kb)
+- [CONTROLLER](https://dev.to/muhammadiqbalid83/controller-10c4)
+- [New container names for puppetserver and puppetdb](https://dev.to/voxpupuli/new-container-names-for-puppetserver-and-puppetdb-3aem)
+- [DSA: Linked List Javascript](https://dev.to/jsdevelopermano/dsa-linked-list-javascript-3340)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
