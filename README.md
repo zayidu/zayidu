@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Baby steps with Go](https://dev.to/taikedz/baby-steps-with-go-3ibl)
-- [Building dApps on Stellar](https://dev.to/stellar/building-dapps-on-stellar-g7)
-- [Understanding the Role of a SQL Server Database Administrator](https://dev.to/minhduc159/understanding-the-role-of-a-sql-server-database-administrator-3f28)
-- [Strings, Design and Analysis of Algorithms](https://dev.to/harshm03/strings-design-and-analysis-of-algorithms-2c8p)
-- [Decoupling Search Logic in Application Development with OpenSearch Templates and Aliases](https://dev.to/aws-builders/decoupling-search-logic-in-application-development-with-opensearch-templates-and-aliases-2p1e)
+- [Understanding Immutability in JavaScript: A Dive into Mutable and Immutable Data](https://dev.to/brandonc/understanding-immutability-in-javascript-a-dive-into-mutable-and-immutable-data-3gb)
+- [Building a local and private LLM server in Rust](https://dev.to/alexandrughinea/building-a-local-and-private-llm-server-in-rust-32kp)
+- [Mountains](https://dev.to/eoinmcg/mountains-jeb)
+- [Dive into the World of Functional Programming 🌊](https://dev.to/getvm/dive-into-the-world-of-functional-programming-d5f)
+- [AWS CB Swag Kit-Year 2🎉](https://dev.to/wonder717/aws-cb-swag-kit-year-2-3lhl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
