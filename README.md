@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Best Practices in Software Development 👨🏻‍💻](https://dev.to/fonteeboa/best-practices-in-software-development-3e53)
-- [Using Redis with .NET](https://dev.to/fabrcio_marcondessantos/using-redis-with-net-4404)
-- [Day 1002 : Go To Sleep](https://dev.to/dwane/day-1002-go-to-sleep-2pk1)
-- [Securing Angular Apps with Keycloak](https://dev.to/phasetwo/securing-angular-apps-with-keycloak-98o)
-- [Cricket league landing page](https://dev.to/uzondu9/cricket-league-landing-page-232d)
+- [JavaScript Fundamentals: A Beginner&#39;s Guide](https://dev.to/egbo2255/javascript-fundamentals-a-beginners-guide-46gg)
+- [Blade Templates](https://dev.to/muhammadiqbalid83/blade-templates-1l1g)
+- [My Summer Vacation!](https://dev.to/darrenfj/my-summer-vacation-3kel)
+- [[Game of Purpose] Day 76](https://dev.to/humberd/game-of-purpose-day-76-4lhe)
+- [Todo lo que necesitas saber sobre JavaScript, La Guía completa desde Cero.🥇](https://dev.to/urian121/todo-lo-que-necesitas-saber-sobre-javascript-la-guia-completa-desde-cero-28gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
