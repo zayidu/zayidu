@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Coder to Cloud Architect: My Unexpected Path](https://dev.to/jimiog/from-coder-to-cloud-architect-my-unexpected-path-2a4d)
-- [Day 16 of 100 Days of Cloud: Deep Dive into RabbitMQ](https://dev.to/tutorialhelldev/day-16-of-100-days-of-cloud-deep-dive-into-rabbitmq-3n3j)
-- [Mastering Video Editing with InShot: A Comprehensive Guide](https://dev.to/the_rainbow/mastering-video-editing-with-inshot-a-comprehensive-guide-4noe)
-- [Fraud Risk Assessment: 5 Essentials Every Plan Must Have](https://dev.to/yayabobi/fraud-risk-assessment-5-essentials-every-plan-must-have-4j4l)
-- [How to Harden IaC Security with KICS](https://dev.to/yayabobi/how-to-harden-iac-security-with-kics-3ef6)
+- [Improve Readability of Your Code with C# Collection Expressions](https://dev.to/antonmartyniuk/improve-readability-of-your-code-with-c-collection-expressions-o62)
+- [Networking fundamental concepts for DevOps](https://dev.to/pratik_nalawade/networking-fundamental-concepts-for-devops-1bkg)
+- [Learn CSS Grid by Building a Magazine](https://dev.to/elliotvh/learn-css-grid-by-building-a-magazine-1eji)
+- [The loss functions in PyTorch](https://dev.to/hyperkai/the-loss-functions-in-pytorch-3c94)
+- [Powerful Visibility with Rust, Lambda, Datadog, and OpenTelemetry](https://dev.to/aws-builders/powerful-visibility-with-rust-lambda-datadog-and-opentelemetry-4akm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
