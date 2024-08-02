@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I need help regarding architecture in .NET MVC.](https://dev.to/dev3455/i-need-help-regarding-architecture-in-net-mvc-9lc)
-- [Reverse Engineering?](https://dev.to/kleverkobra/reverse-engineering-1e3b)
-- [Four Reasons Why You Should Code 📚😂:](https://dev.to/lokesh_singh/four-reasons-why-you-should-code--11eb)
-- [Quick Setup- React Router V6 🚀](https://dev.to/rajeshsilvoj/quick-setup-react-router-v6-25c0)
-- [Diving into Event Listeners: Day 8 of My JavaScript Challenge 🚀](https://dev.to/rohit1301/diving-into-event-listeners-day-8-of-my-javascript-challenge-1bb2)
+- [From Coder to Cloud Architect: My Unexpected Path](https://dev.to/jimiog/from-coder-to-cloud-architect-my-unexpected-path-2a4d)
+- [Day 16 of 100 Days of Cloud: Deep Dive into RabbitMQ](https://dev.to/tutorialhelldev/day-16-of-100-days-of-cloud-deep-dive-into-rabbitmq-3n3j)
+- [Mastering Video Editing with InShot: A Comprehensive Guide](https://dev.to/the_rainbow/mastering-video-editing-with-inshot-a-comprehensive-guide-4noe)
+- [Fraud Risk Assessment: 5 Essentials Every Plan Must Have](https://dev.to/yayabobi/fraud-risk-assessment-5-essentials-every-plan-must-have-4j4l)
+- [How to Harden IaC Security with KICS](https://dev.to/yayabobi/how-to-harden-iac-security-with-kics-3ef6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
