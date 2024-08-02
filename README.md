@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing React Performance with Redux and Memoization](https://dev.to/ankansaha/optimizing-react-performance-with-redux-and-memoization-45oc)
-- [Building Scalable APIs with Node.js and Express](https://dev.to/ankansaha/building-scalable-apis-with-nodejs-and-express-15p7)
-- [Optimizing React Performance with Redux and Code Splitting](https://dev.to/ankansaha/optimizing-react-performance-with-redux-and-code-splitting-2nhi)
-- [Building Scalable APIs with Node.js and Express](https://dev.to/ankansaha/building-scalable-apis-with-nodejs-and-express-4ah2)
-- [Building Scalable APIs with Node.js and Express](https://dev.to/ankansaha/building-scalable-apis-with-nodejs-and-express-1od1)
+- [Handling Missing Values || Feature Engineering || Machine Learning &lpar;Part2&rpar;](https://dev.to/ngneha09/handling-missing-values-feature-engineering-machine-learning-part2-37l0)
+- [Optimizing React Performance with Redux and React Hooks](https://dev.to/ankansaha/optimizing-react-performance-with-redux-and-react-hooks-1c1l)
+- [Building Scalable APIs with Node.js and Express](https://dev.to/ankansaha/building-scalable-apis-with-nodejs-and-express-3jmo)
+- [Best Practices for Implementing CI/CD in a MERN Stack Application](https://dev.to/ankansaha/best-practices-for-implementing-cicd-in-a-mern-stack-application-145m)
+- [Building Scalable APIs with Node.js and Express](https://dev.to/ankansaha/building-scalable-apis-with-nodejs-and-express-1dlf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
