@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lists &amp; its operations- Day 9](https://dev.to/fathima_shaila/lists-its-operations-day-9-1jhp)
-- [Building Scalable APIs with Node.js and Express](https://dev.to/ankansaha/building-scalable-apis-with-nodejs-and-express-4a42)
-- [What are the Primary Goals of IAM in Cybersecurity](https://dev.to/blogginger/what-are-the-primary-goals-of-iam-in-cybersecurity-3i0j)
-- [Optimizing React Performance with Redux and Memoization](https://dev.to/ankansaha/optimizing-react-performance-with-redux-and-memoization-35c1)
-- [Building Scalable APIs with Node.js and Express](https://dev.to/ankansaha/building-scalable-apis-with-nodejs-and-express-5ega)
+- [Optimizing React Performance with Redux and Memoization](https://dev.to/ankansaha/optimizing-react-performance-with-redux-and-memoization-45oc)
+- [Building Scalable APIs with Node.js and Express](https://dev.to/ankansaha/building-scalable-apis-with-nodejs-and-express-15p7)
+- [Optimizing React Performance with Redux and Code Splitting](https://dev.to/ankansaha/optimizing-react-performance-with-redux-and-code-splitting-2nhi)
+- [Building Scalable APIs with Node.js and Express](https://dev.to/ankansaha/building-scalable-apis-with-nodejs-and-express-4ah2)
+- [Building Scalable APIs with Node.js and Express](https://dev.to/ankansaha/building-scalable-apis-with-nodejs-and-express-1od1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
