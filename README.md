@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Immutability in JavaScript: A Dive into Mutable and Immutable Data](https://dev.to/brandonc/understanding-immutability-in-javascript-a-dive-into-mutable-and-immutable-data-3gb)
-- [Building a local and private LLM server in Rust](https://dev.to/alexandrughinea/building-a-local-and-private-llm-server-in-rust-32kp)
-- [Mountains](https://dev.to/eoinmcg/mountains-jeb)
-- [Dive into the World of Functional Programming 🌊](https://dev.to/getvm/dive-into-the-world-of-functional-programming-d5f)
-- [AWS CB Swag Kit-Year 2🎉](https://dev.to/wonder717/aws-cb-swag-kit-year-2-3lhl)
+- [Introduction to Java](https://dev.to/madgan95/introduction-to-java-3ed9)
+- [Release Radar · July 2024: Major updates from the open source community](https://dev.to/github/release-radar-july-2024-major-updates-from-the-open-source-community-446f)
+- [Floyd Warshall Algorithm &lpar;Multi-source shorted path&rpar;](https://dev.to/prashantrmishra/floyd-warshall-algorithm-498e)
+- [100FrontendChallenge - Day 4 - Contact us](https://dev.to/t1xx1/100frontendchallenge-day-4-contact-us-3l2h)
+- [[Desafio] - &quot;Low Level&quot; toInt Function](https://dev.to/zanfranceschi/desafio-low-level-toint-function-19hk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
