@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Use React.lazy with confidence: A safe way to load components when iterating fast](https://dev.to/logto/use-reactlazy-with-confidence-a-safe-way-to-load-components-when-iterating-fast-1gkh)
-- [How to sort correctly arrays in JavaScript?](https://dev.to/pierre/sort-arrays-in-javascript-b78)
-- [Today&#39;s Trending Projects: Build an VSCode Extension With ChatGPT and More](https://dev.to/labex/todays-trending-projects-build-an-vscode-extension-with-chatgpt-and-more-1bim)
-- [Migrate Strapi from Render to Fly.io](https://dev.to/candidosales/migrate-strapi-from-render-to-flyio-lbi)
-- [High Performance with Java: Discover strategies and best practices to develop high performance Java applications](https://dev.to/avbravo/high-performance-with-java-discover-strategies-and-best-practices-to-develop-high-performance-java-applications-3806)
+- [5 Essential Steps for Change Management in Projects](https://dev.to/bryany/5-essential-steps-for-change-management-in-projects-1g9b)
+- [Key On-Page SEO Elements for Better Google Rankings](https://dev.to/juddiy/key-on-page-seo-elements-for-better-google-rankings-25og)
+- [Exploring Stern : Day 21 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/exploring-stern-day-21-of-50-days-devops-tools-series-4agk)
+- [Front-End &amp; Back-End &lpar;CSR&rpar;](https://dev.to/0xw3ston/front-end-back-end-csr-2lj2)
+- [What is base64 encoding and how is it used in web development?](https://dev.to/brianmmdev/what-is-base64-encoding-and-how-is-it-used-in-web-development-3p4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
