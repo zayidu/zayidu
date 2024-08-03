@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pentesting AWS VPCs: Identifying and Mitigating Risks](https://dev.to/sudoconsultants/pentesting-aws-vpcs-identifying-and-mitigating-risks-1fn)
-- [PHP crash course: Simple Image Gallery](https://dev.to/mdarifulhaque/php-crash-course-simple-image-gallery-h4l)
-- [# Breaking Into Data Science: A Comprehensive Guide for Aspiring Data Scientists](https://dev.to/nderitugichuki/-breaking-into-data-science-a-comprehensive-guide-for-aspiring-data-scientists-1h10)
-- [Introducing Yugo: Revolutionizing AI Integration for Web Developers](https://dev.to/ynishi/introducing-yugo-revolutionizing-ai-integration-for-web-developers-1p55)
-- [What is Prompt Engineering?](https://dev.to/mwlang/what-is-prompt-engineering-1lhj)
+- [100FrontendChallenge - Day 5 - Recipe](https://dev.to/t1xx1/100frontendchallenge-day-5-recipe-4na4)
+- [I&#39;m developing a minimalistic note-taking web app with custom widgets. Can you suggest any widgets you would like to see?](https://dev.to/rita/im-developing-a-minimalistic-note-taking-web-app-with-custom-widgets-can-you-suggest-any-widgets-you-would-like-to-see-5764)
+- [Amazon EC2 Instance:](https://dev.to/mubeen780/amazon-ec2-instance-266e)
+- [Elasticsearch: Finding Missing Documents between 2 indices](https://dev.to/aditya_singh_78be52d82a3a/elasticsearch-reindexing-a-data-engineers-guide-to-finding-missing-documents-2cnj)
+- [1460. Make Two Arrays Equal by Reversing Subarrays](https://dev.to/mdarifulhaque/1460-make-two-arrays-equal-by-reversing-subarrays-4e5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
