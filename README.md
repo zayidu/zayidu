@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Software Engineer&#39;s Journey: Examining Every Option and Its Requirements](https://dev.to/jps27cse/the-software-engineers-journey-examining-every-option-and-its-requirements-1loh)
-- [From Mnemonic to Bitcoin Addresses in JavaScript](https://dev.to/mibii/from-mnemonic-to-bitcoin-addresses-in-javascript-1dmp)
-- [Day 17 of 100 Days of Cloud: Exploring HashiCorp Consul](https://dev.to/tutorialhelldev/day-17-of-100-days-of-cloud-exploring-hashicorp-consul-he6)
-- [Registro 001 — Antes de Escribir Código: La Importancia de Planificar tu Proyecto Flutter](https://dev.to/betoflakes/registro-001-antes-de-escribir-codigo-la-importancia-de-planificar-tu-proyecto-flutter-3p47)
-- [Mastering Git for DevOps: A Comprehensive Guide](https://dev.to/pratik_nalawade/mastering-git-for-devops-a-comprehensive-guide-4h6p)
+- [W.I.P Javascript Interview Preparation](https://dev.to/ashutoshsarangi/wip-javascript-interview-preparation-4c8m)
+- [Make Money Just by Writing a Function!](https://dev.to/mohsenkamrani/make-money-just-by-writing-a-function-21dn)
+- [Understanding the Differences Between JSON and Other Data Formats](https://dev.to/keploy/understanding-the-differences-between-json-and-other-data-formats-2pke)
+- [The Thing Called AI Episode 2: The Big Bang](https://dev.to/zadazini/the-thing-called-ai-episode-2-the-big-bang-15nj)
+- [Python : Print Modifiers](https://dev.to/kvm1917/python-print-modifiers-330g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
