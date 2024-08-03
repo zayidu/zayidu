@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a NodeJS Server on Google Kubernetes Engine](https://dev.to/chauhoangminhnguyen/deploying-a-nodejs-server-on-google-kubernetes-engine-38e6)
-- [Understanding Multi-tenancy](https://dev.to/niamu01/understanding-multi-tenancy-3110)
-- [Bonding curves, simply](https://dev.to/temi0x/bonding-curves-simply-3mm8)
-- [JavaScript: Strings, String Methods, and String Properties](https://dev.to/meganpaffrath/strings-string-methods-and-string-properties-2m05)
-- [Resourcely adds Atlantis Support](https://dev.to/resourcely/resourcely-adds-atlantis-support-8nl)
+- [A Quick Start to Git and GitHub](https://dev.to/celestina_odili/a-quick-start-to-git-and-github-587d)
+- [Integrating Web Technologies: A Brief Journey](https://dev.to/amanmatharukailey/integrating-web-technologies-a-brief-journey-4b63)
+- [Mastering Git Fixup Commits: Streamline Your Workflow](https://dev.to/labex/mastering-git-fixup-commits-streamline-your-workflow-2a77)
+- [What Hockey Has Taught Me About Teamwork](https://dev.to/blazingbits/what-hockey-has-taught-me-about-teamwork-5670)
+- [Why Flutter for app development?](https://dev.to/aadarshk7/why-flutter-for-app-development-2hia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
