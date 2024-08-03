@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [W.I.P Javascript Interview Preparation](https://dev.to/ashutoshsarangi/wip-javascript-interview-preparation-4c8m)
-- [Make Money Just by Writing a Function!](https://dev.to/mohsenkamrani/make-money-just-by-writing-a-function-21dn)
-- [Understanding the Differences Between JSON and Other Data Formats](https://dev.to/keploy/understanding-the-differences-between-json-and-other-data-formats-2pke)
-- [The Thing Called AI Episode 2: The Big Bang](https://dev.to/zadazini/the-thing-called-ai-episode-2-the-big-bang-15nj)
-- [Python : Print Modifiers](https://dev.to/kvm1917/python-print-modifiers-330g)
+- [Voltigo - job searching / bulk applications](https://dev.to/volmarg/voltigo-job-searching-bulk-applications-1h13)
+- [Linux](https://dev.to/chiragkumardev/linux-g27)
+- [Power Pages: how to disable ESC on modals](https://dev.to/andrewelans/power-pages-how-to-disable-esc-on-modals-d4a)
+- [Transform Your Raspberry Pi into a Network-wide Ad Blocker](https://dev.to/mozes721/transform-your-raspberry-pi-into-a-network-wide-ad-blocker-pm5)
+- [Managing Python Versions and Virtual Environments using pyenv](https://dev.to/hisk/managing-python-versions-and-virtual-environments-using-pyenv-3i41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
