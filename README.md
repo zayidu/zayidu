@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Fundamentals: A Beginner&#39;s Guide](https://dev.to/egbo2255/javascript-fundamentals-a-beginners-guide-46gg)
-- [Blade Templates](https://dev.to/muhammadiqbalid83/blade-templates-1l1g)
-- [My Summer Vacation!](https://dev.to/darrenfj/my-summer-vacation-3kel)
-- [[Game of Purpose] Day 76](https://dev.to/humberd/game-of-purpose-day-76-4lhe)
-- [Todo lo que necesitas saber sobre JavaScript, La Guía completa desde Cero.🥇](https://dev.to/urian121/todo-lo-que-necesitas-saber-sobre-javascript-la-guia-completa-desde-cero-28gg)
+- [Graph Traversal Algorithms in Python](https://dev.to/kartikmehta8/graph-traversal-algorithms-in-python-49l4)
+- [Elevating Laravel Development with the Singleton Design Pattern](https://dev.to/moatazkhaled93/elevating-laravel-development-with-the-singleton-design-pattern-p1c)
+- [[13/52] Fundamentals of Systems Engineering Models](https://dev.to/tythos/1352-fundamentals-of-systems-engineering-models-bk4)
+- [[13/52] Fundamentals of Systems Engineering Models](https://dev.to/tythos/1352-fundamentals-of-systems-engineering-models-1hca)
+- [Why Am I Learning This? Understanding the Purpose Behind Your Education By Solih Akorede Lawal](https://dev.to/solih_lawal_b3a683e907714/why-am-i-learning-this-understanding-the-purpose-behind-your-educationby-solih-akorede-lawal-5051)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
