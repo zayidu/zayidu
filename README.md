@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to setup Rails Guides for offline use](https://dev.to/hrishio/how-to-setup-rails-guides-for-offline-use-1ho1)
-- [Assignment 2 Cloud Computing](https://dev.to/wedekaov/assignment-2-cloud-computing-1h8a)
-- [Inkdown, we developed another Markdown editor](https://dev.to/1943time/inkdown-we-developed-another-markdown-editor-4835)
-- [Frontend Challenge: Cricket League Landing Page](https://dev.to/chintanonweb/frontend-challenge-cricket-league-landing-page-24p2)
-- [Added advanced debugging features to my machine learning library like pytorch.](https://dev.to/okerew/added-advanced-debugging-features-to-my-machine-learning-library-like-pytorch-2m37)
+- [[Roast: Day 16] - My `utils` Folder](https://dev.to/nmiller15/roast-day-16-my-utils-folder-33dm)
+- [Understanding Django&#39;s atomic&lpar;&rpar; Context Manager](https://dev.to/zeyrarararara/understanding-djangos-atomic-context-manager-36n8)
+- [Unlocking the Power of Data: A Deep Dive into Data Scraping](https://dev.to/jinesh_vora_ab4d7886e6a8d/unlocking-the-power-of-data-a-deep-dive-into-data-scraping-4goc)
+- [Avoid Common Pitfalls: Octocat&#39;s Tips for Better Git Commits🐙 🐱🐈](https://dev.to/rafaeljohn9/avoid-common-pitfalls-octocats-tips-for-better-git-commits-5d1i)
+- [The Future of SEO: Embracing AI and Machine Learning](https://dev.to/sanchi_jain_78e007de52513/the-future-of-seo-embracing-ai-and-machine-learning-4bo3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
