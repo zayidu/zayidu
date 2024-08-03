@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TRYING TOP 10 VS CODE EXTENSIONS](https://dev.to/mince/trying-top-10-vs-code-extensions-4ag9)
-- [Prisma: The Game-Changer in Database Management](https://dev.to/gleidsonleite/prisma-the-game-changer-in-database-management-164g)
-- [Web Theory - Part 8 : Graceful Degradation, Soft Failure, and Fault Tolerance Explained](https://dev.to/teclearn/web-theory-part-8-graceful-degradation-soft-failure-and-fault-tolerance-explained-7n0)
-- [Day 6: Introducing Containerization in DevOps](https://dev.to/singh_in_cloud/day-6-introducing-containerization-in-devops-1nbb)
-- [Git and GitHub for Beginners: A Comprehensive Step-by-Step Guide](https://dev.to/florence_8042063da11e29d1/git-and-github-for-beginners-a-comprehensive-step-by-step-guide-4oki)
+- [Deploying a Static Website with Docker: A Comprehensive Guide](https://dev.to/omkara18/deploying-a-static-website-with-docker-a-comprehensive-guide-3gk)
+- [&quot;Data Engineering 101: A Beginner&#39;s Guide&quot;](https://dev.to/samtheanalyst/data-engineering-101-a-beginners-guide-2ngn)
+- [Extending YAML p.1 - structuring a meta-programming language](https://dev.to/mimopotato/extending-yaml-p1-structuring-a-meta-programming-language-110m)
+- [How to build Google calendar clone with React &lpar;Month view&rpar;](https://dev.to/cookiemonsterdev/how-to-build-google-calendar-clone-with-react-month-view-218a)
+- [How To Deploy RabbitMQ On Public IP?](https://dev.to/nilebits/how-to-deploy-rabbitmq-on-public-ip-26ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
