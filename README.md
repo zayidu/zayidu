@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re faced with conflicting team members. How do you navigate a resolution between them?](https://dev.to/gourav_sharma_00/youre-faced-with-conflicting-team-members-how-do-you-navigate-a-resolution-between-them-3ch0)
-- [Firebase Crashlytics](https://dev.to/sidcodeme/firebase-crashlytics-4d9)
-- [Taming the Beast: Structuring Large-Scale React Applications](https://dev.to/virajlakshitha/taming-the-beast-structuring-large-scale-react-applications-20a1)
-- [Internationalizing and Localizing a Flutter App | How to Develop an App with Flutter – Part 7](https://dev.to/koral/internationalizing-and-localizing-a-flutter-app-how-to-develop-an-app-with-flutter-part-7-223f)
-- [Today&#39;s Trending Projects: Implementing Queue Data Structure in C and More](https://dev.to/labex/todays-trending-projects-implementing-queue-data-structure-in-c-and-more-1439)
+- [Deploying a NodeJS Server on Google Kubernetes Engine](https://dev.to/chauhoangminhnguyen/deploying-a-nodejs-server-on-google-kubernetes-engine-38e6)
+- [Understanding Multi-tenancy](https://dev.to/niamu01/understanding-multi-tenancy-3110)
+- [Bonding curves, simply](https://dev.to/temi0x/bonding-curves-simply-3mm8)
+- [JavaScript: Strings, String Methods, and String Properties](https://dev.to/meganpaffrath/strings-string-methods-and-string-properties-2m05)
+- [Resourcely adds Atlantis Support](https://dev.to/resourcely/resourcely-adds-atlantis-support-8nl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
