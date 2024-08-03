@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part I: Implement an expression interpreter for building DSL - Introduce the PEG parser](https://dev.to/ccbhj/part-i-implement-an-expression-interpreter-for-building-dsl-introduce-the-peg-parser-omf)
-- [Understanding System Integration Testing: Ensuring Seamless Software Integration](https://dev.to/keploy/understanding-system-integration-testing-ensuring-seamless-software-integration-2m96)
-- [Dynamic for controls not appearing on form](https://dev.to/rbhargava25/dynamic-for-controls-not-appearing-on-form-55j4)
-- [Top 5 Validation Libraries for JavaScript in 2024](https://dev.to/shanu001x/top-5-validation-libraries-for-javascript-in-2024-35la)
-- [My Productive Summer Vacation 🌞📚](https://dev.to/divyansh_tiwari/my-productive-summer-vacation-1h38)
+- [🛡️ Authentication vs Authorization: Every Developer Needs to Know 🛡️](https://dev.to/gadekar_sachin/authentication-vs-authorization-every-developer-needs-to-know-1pid)
+- [Master Full-Stack Monorepos: A Step-by-Step Guide](https://dev.to/hardikidea/master-full-stack-monorepos-a-step-by-step-guide-2196)
+- [How to Launch an Ubuntu EC2 Instance in AWS: A Step-by-Step Guide](https://dev.to/anil_kumar_/how-to-launch-an-ubuntu-ec2-instance-in-aws-a-step-by-step-guide-d5e)
+- [Filter from front end](https://dev.to/webfaisalbd/filter-from-front-end-a4k)
+- [Optimizing Web Performance: Techniques and Tools ⚡️](https://dev.to/alisamir/optimizing-web-performance-techniques-and-tools-2ad5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
