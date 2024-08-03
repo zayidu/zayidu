@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Quick Start to Git and GitHub](https://dev.to/celestina_odili/a-quick-start-to-git-and-github-587d)
-- [Integrating Web Technologies: A Brief Journey](https://dev.to/amanmatharukailey/integrating-web-technologies-a-brief-journey-4b63)
-- [Mastering Git Fixup Commits: Streamline Your Workflow](https://dev.to/labex/mastering-git-fixup-commits-streamline-your-workflow-2a77)
-- [What Hockey Has Taught Me About Teamwork](https://dev.to/blazingbits/what-hockey-has-taught-me-about-teamwork-5670)
-- [Why Flutter for app development?](https://dev.to/aadarshk7/why-flutter-for-app-development-2hia)
+- [Part I: Implement an expression interpreter for building DSL - Introduce the PEG parser](https://dev.to/ccbhj/part-i-implement-an-expression-interpreter-for-building-dsl-introduce-the-peg-parser-omf)
+- [Understanding System Integration Testing: Ensuring Seamless Software Integration](https://dev.to/keploy/understanding-system-integration-testing-ensuring-seamless-software-integration-2m96)
+- [Dynamic for controls not appearing on form](https://dev.to/rbhargava25/dynamic-for-controls-not-appearing-on-form-55j4)
+- [Top 5 Validation Libraries for JavaScript in 2024](https://dev.to/shanu001x/top-5-validation-libraries-for-javascript-in-2024-35la)
+- [My Productive Summer Vacation 🌞📚](https://dev.to/divyansh_tiwari/my-productive-summer-vacation-1h38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
