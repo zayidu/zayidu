@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Roast: Day 16] - My `utils` Folder](https://dev.to/nmiller15/roast-day-16-my-utils-folder-33dm)
-- [Understanding Django&#39;s atomic&lpar;&rpar; Context Manager](https://dev.to/zeyrarararara/understanding-djangos-atomic-context-manager-36n8)
-- [Unlocking the Power of Data: A Deep Dive into Data Scraping](https://dev.to/jinesh_vora_ab4d7886e6a8d/unlocking-the-power-of-data-a-deep-dive-into-data-scraping-4goc)
-- [Avoid Common Pitfalls: Octocat&#39;s Tips for Better Git Commits🐙 🐱🐈](https://dev.to/rafaeljohn9/avoid-common-pitfalls-octocats-tips-for-better-git-commits-5d1i)
-- [The Future of SEO: Embracing AI and Machine Learning](https://dev.to/sanchi_jain_78e007de52513/the-future-of-seo-embracing-ai-and-machine-learning-4bo3)
+- [TRYING TOP 10 VS CODE EXTENSIONS](https://dev.to/mince/trying-top-10-vs-code-extensions-4ag9)
+- [Prisma: The Game-Changer in Database Management](https://dev.to/gleidsonleite/prisma-the-game-changer-in-database-management-164g)
+- [Web Theory - Part 8 : Graceful Degradation, Soft Failure, and Fault Tolerance Explained](https://dev.to/teclearn/web-theory-part-8-graceful-degradation-soft-failure-and-fault-tolerance-explained-7n0)
+- [Day 6: Introducing Containerization in DevOps](https://dev.to/singh_in_cloud/day-6-introducing-containerization-in-devops-1nbb)
+- [Git and GitHub for Beginners: A Comprehensive Step-by-Step Guide](https://dev.to/florence_8042063da11e29d1/git-and-github-for-beginners-a-comprehensive-step-by-step-guide-4oki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
