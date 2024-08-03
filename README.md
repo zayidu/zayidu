@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build your own AI Video editor with Node.js, AssemblyAI &amp; StreamPot &lpar;hosted&rpar;](https://dev.to/jacksbridger/build-your-own-ai-video-editor-with-nodejs-assemblyai-streampot-hosted-25h9)
-- [Understanding SSL for Beginners](https://dev.to/mibii/understanding-ssl-for-beginners-103l)
-- [Building a Rewarding Career in Data Science: Navigating this Complex Landscape.](https://dev.to/jude_onuh/building-a-rewarding-career-in-data-science-navigating-this-complex-landscape-ka)
-- [AI Taxonomy](https://dev.to/sc0v0ne/ai-taxonomy-32lj)
-- [Resolvendo o desafio de um bilhão de linhas em Go &lpar;de 1m40s para 8,4s&rpar;](https://dev.to/jnaraujo/resolvendo-o-desafio-de-um-bilhao-de-linhas-em-go-de-1m40s-para-84s-5hi9)
+- [You&#39;re faced with conflicting team members. How do you navigate a resolution between them?](https://dev.to/gourav_sharma_00/youre-faced-with-conflicting-team-members-how-do-you-navigate-a-resolution-between-them-3ch0)
+- [Firebase Crashlytics](https://dev.to/sidcodeme/firebase-crashlytics-4d9)
+- [Taming the Beast: Structuring Large-Scale React Applications](https://dev.to/virajlakshitha/taming-the-beast-structuring-large-scale-react-applications-20a1)
+- [Internationalizing and Localizing a Flutter App | How to Develop an App with Flutter – Part 7](https://dev.to/koral/internationalizing-and-localizing-a-flutter-app-how-to-develop-an-app-with-flutter-part-7-223f)
+- [Today&#39;s Trending Projects: Implementing Queue Data Structure in C and More](https://dev.to/labex/todays-trending-projects-implementing-queue-data-structure-in-c-and-more-1439)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
