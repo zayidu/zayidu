@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Pentesting AWS VPCs: Identifying and Mitigating Risks](https://dev.to/sudoconsultants/pentesting-aws-vpcs-identifying-and-mitigating-risks-1fn)
+- [PHP crash course: Simple Image Gallery](https://dev.to/mdarifulhaque/php-crash-course-simple-image-gallery-h4l)
+- [# Breaking Into Data Science: A Comprehensive Guide for Aspiring Data Scientists](https://dev.to/nderitugichuki/-breaking-into-data-science-a-comprehensive-guide-for-aspiring-data-scientists-1h10)
 - [Introducing Yugo: Revolutionizing AI Integration for Web Developers](https://dev.to/ynishi/introducing-yugo-revolutionizing-ai-integration-for-web-developers-1p55)
 - [What is Prompt Engineering?](https://dev.to/mwlang/what-is-prompt-engineering-1lhj)
-- [How to Dockerize a Next.js Application](https://dev.to/shanu001x/how-to-dockerize-a-nextjs-application-6c7)
-- [The Importance of Connection Pooling](https://dev.to/kishan_vyas_c86548d338665/the-importance-of-connection-pooling-3km)
-- [Reconciliation: A quick dive](https://dev.to/kashifnehal/reconciliation-a-quick-dive-55o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
