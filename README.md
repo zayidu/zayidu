@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Voltigo - job searching / bulk applications](https://dev.to/volmarg/voltigo-job-searching-bulk-applications-1h13)
-- [Linux](https://dev.to/chiragkumardev/linux-g27)
-- [Power Pages: how to disable ESC on modals](https://dev.to/andrewelans/power-pages-how-to-disable-esc-on-modals-d4a)
-- [Transform Your Raspberry Pi into a Network-wide Ad Blocker](https://dev.to/mozes721/transform-your-raspberry-pi-into-a-network-wide-ad-blocker-pm5)
-- [Managing Python Versions and Virtual Environments using pyenv](https://dev.to/hisk/managing-python-versions-and-virtual-environments-using-pyenv-3i41)
+- [How to setup Rails Guides for offline use](https://dev.to/hrishio/how-to-setup-rails-guides-for-offline-use-1ho1)
+- [Assignment 2 Cloud Computing](https://dev.to/wedekaov/assignment-2-cloud-computing-1h8a)
+- [Inkdown, we developed another Markdown editor](https://dev.to/1943time/inkdown-we-developed-another-markdown-editor-4835)
+- [Frontend Challenge: Cricket League Landing Page](https://dev.to/chintanonweb/frontend-challenge-cricket-league-landing-page-24p2)
+- [Added advanced debugging features to my machine learning library like pytorch.](https://dev.to/okerew/added-advanced-debugging-features-to-my-machine-learning-library-like-pytorch-2m37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
