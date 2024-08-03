@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Static Website with Docker: A Comprehensive Guide](https://dev.to/omkara18/deploying-a-static-website-with-docker-a-comprehensive-guide-3gk)
-- [&quot;Data Engineering 101: A Beginner&#39;s Guide&quot;](https://dev.to/samtheanalyst/data-engineering-101-a-beginners-guide-2ngn)
-- [Extending YAML p.1 - structuring a meta-programming language](https://dev.to/mimopotato/extending-yaml-p1-structuring-a-meta-programming-language-110m)
-- [How to build Google calendar clone with React &lpar;Month view&rpar;](https://dev.to/cookiemonsterdev/how-to-build-google-calendar-clone-with-react-month-view-218a)
-- [How To Deploy RabbitMQ On Public IP?](https://dev.to/nilebits/how-to-deploy-rabbitmq-on-public-ip-26ek)
+- [🤖💻 The Use of Artificial Intelligence in Daily Development: Transforming Challenges into Opportunities](https://dev.to/fonteeboa/the-use-of-artificial-intelligence-in-daily-development-transforming-challenges-into-opportunities-2fhn)
+- [Understanding the Observer Design Pattern in Java](https://dev.to/diegosilva13/understanding-the-observer-design-pattern-in-java-2lpc)
+- [Journey Through CSS: Mastering Colors and Moving Forward](https://dev.to/anu_charleykothamattathi/journey-through-css-mastering-colors-and-moving-forward-1flb)
+- [JS Carousel inspired by shadcn/ui](https://dev.to/cresvin/carousel-inspired-by-shadcnui-4kp9)
+- [Fortalece la Seguridad de tu AWS: Implementación de MFA para Usuarios IAM](https://dev.to/cyb3rcloud8888/fortalece-la-seguridad-de-tu-aws-implementacion-de-mfa-para-usuarios-iam-3akm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
