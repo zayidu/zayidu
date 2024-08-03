@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Graph Traversal Algorithms in Python](https://dev.to/kartikmehta8/graph-traversal-algorithms-in-python-49l4)
-- [Elevating Laravel Development with the Singleton Design Pattern](https://dev.to/moatazkhaled93/elevating-laravel-development-with-the-singleton-design-pattern-p1c)
-- [[13/52] Fundamentals of Systems Engineering Models](https://dev.to/tythos/1352-fundamentals-of-systems-engineering-models-bk4)
-- [[13/52] Fundamentals of Systems Engineering Models](https://dev.to/tythos/1352-fundamentals-of-systems-engineering-models-1hca)
-- [Why Am I Learning This? Understanding the Purpose Behind Your Education By Solih Akorede Lawal](https://dev.to/solih_lawal_b3a683e907714/why-am-i-learning-this-understanding-the-purpose-behind-your-educationby-solih-akorede-lawal-5051)
+- [Build your own AI Video editor with Node.js, AssemblyAI &amp; StreamPot &lpar;hosted&rpar;](https://dev.to/jacksbridger/build-your-own-ai-video-editor-with-nodejs-assemblyai-streampot-hosted-25h9)
+- [Understanding SSL for Beginners](https://dev.to/mibii/understanding-ssl-for-beginners-103l)
+- [Building a Rewarding Career in Data Science: Navigating this Complex Landscape.](https://dev.to/jude_onuh/building-a-rewarding-career-in-data-science-navigating-this-complex-landscape-ka)
+- [AI Taxonomy](https://dev.to/sc0v0ne/ai-taxonomy-32lj)
+- [Resolvendo o desafio de um bilhão de linhas em Go &lpar;de 1m40s para 8,4s&rpar;](https://dev.to/jnaraujo/resolvendo-o-desafio-de-um-bilhao-de-linhas-em-go-de-1m40s-para-84s-5hi9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
