@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖💻 The Use of Artificial Intelligence in Daily Development: Transforming Challenges into Opportunities](https://dev.to/fonteeboa/the-use-of-artificial-intelligence-in-daily-development-transforming-challenges-into-opportunities-2fhn)
-- [Understanding the Observer Design Pattern in Java](https://dev.to/diegosilva13/understanding-the-observer-design-pattern-in-java-2lpc)
-- [Journey Through CSS: Mastering Colors and Moving Forward](https://dev.to/anu_charleykothamattathi/journey-through-css-mastering-colors-and-moving-forward-1flb)
-- [JS Carousel inspired by shadcn/ui](https://dev.to/cresvin/carousel-inspired-by-shadcnui-4kp9)
-- [Fortalece la Seguridad de tu AWS: Implementación de MFA para Usuarios IAM](https://dev.to/cyb3rcloud8888/fortalece-la-seguridad-de-tu-aws-implementacion-de-mfa-para-usuarios-iam-3akm)
+- [Introducing Yugo: Revolutionizing AI Integration for Web Developers](https://dev.to/ynishi/introducing-yugo-revolutionizing-ai-integration-for-web-developers-1p55)
+- [What is Prompt Engineering?](https://dev.to/mwlang/what-is-prompt-engineering-1lhj)
+- [How to Dockerize a Next.js Application](https://dev.to/shanu001x/how-to-dockerize-a-nextjs-application-6c7)
+- [The Importance of Connection Pooling](https://dev.to/kishan_vyas_c86548d338665/the-importance-of-connection-pooling-3km)
+- [Reconciliation: A quick dive](https://dev.to/kashifnehal/reconciliation-a-quick-dive-55o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
