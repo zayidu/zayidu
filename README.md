@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [100FrontendChallenge - Day 5 - Recipe](https://dev.to/t1xx1/100frontendchallenge-day-5-recipe-4na4)
-- [I&#39;m developing a minimalistic note-taking web app with custom widgets. Can you suggest any widgets you would like to see?](https://dev.to/rita/im-developing-a-minimalistic-note-taking-web-app-with-custom-widgets-can-you-suggest-any-widgets-you-would-like-to-see-5764)
-- [Amazon EC2 Instance:](https://dev.to/mubeen780/amazon-ec2-instance-266e)
-- [Elasticsearch: Finding Missing Documents between 2 indices](https://dev.to/aditya_singh_78be52d82a3a/elasticsearch-reindexing-a-data-engineers-guide-to-finding-missing-documents-2cnj)
-- [1460. Make Two Arrays Equal by Reversing Subarrays](https://dev.to/mdarifulhaque/1460-make-two-arrays-equal-by-reversing-subarrays-4e5l)
+- [2/10 HTML | 30 Days of HTML CSS JS](https://dev.to/ofameh/210-html-30-days-of-html-css-js-2d33)
+- [Code Smell 261 - DigiCert Underscores](https://dev.to/mcsee/code-smell-261-digicert-underscores-54aa)
+- [Píldoras TypeScript: type narrowing con &quot;as const&quot;](https://dev.to/kuscamara/pildoras-typescript-type-narrowing-con-as-const-g5)
+- [Why Use Laravel Data?](https://dev.to/robinkashyap_01/why-use-laravel-data-5f8c)
+- [Math Object in JavaScript.!](https://dev.to/samandarhodiev/javascript-matematik-obyektlari-232d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
