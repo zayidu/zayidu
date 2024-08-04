@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome extension that allows font-weight control](https://dev.to/yardenporat/chrome-extension-that-allows-font-weight-control-1gic)
-- [DESIGN PATTERNS JavaScript](https://dev.to/manas_pant/design-patterns-javascript-1pl)
-- [Building a Stunning Hero Section in React with Tailwind CSS](https://dev.to/masterdev/building-a-stunning-hero-section-in-react-with-tailwind-css-317a)
-- [Building Your First Android App: A Beginner&#39;s Guide](https://dev.to/media_geneous/building-your-first-android-app-a-beginners-guide-1pa5)
-- [My 10 hints for AI coding](https://dev.to/alexanderisora/my-10-hints-for-ai-coding-5042)
+- [How to Build Interactive CodePlay App with Real-time Output](https://dev.to/daslaw/how-to-build-interactive-codeplay-app-with-real-time-output-4al1)
+- [Anatomy of Fileless Malware](https://dev.to/muhammad_usman_759c5cbefe/anatomy-of-fileless-malware-n74)
+- [How to Build Scalable Automated Workflows like HubSpot using AWS Lambda, SQS, Node.js, and MongoDB](https://dev.to/bhaskar_sawant/how-to-build-scalable-automated-workflows-like-hubspot-using-aws-lambda-sqs-nodejs-and-mongodb-3dnd)
+- [Is your ISP blocking you from sharing your internet connection?](https://dev.to/fdtm/is-your-isp-blocking-you-from-sharing-your-internet-connection-2cc4)
+- [Base64 Encoding/Decoding in JavaScript](https://dev.to/onurpalaz/base64-encodingdecoding-in-javascript-5f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
