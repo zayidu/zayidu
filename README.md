@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adapter Design Pattern](https://dev.to/abhidatta0/adapter-design-pattern-389f)
-- [Singleton design pattern](https://dev.to/abhidatta0/singleton-design-pattern-3bm1)
-- [Exploring Phantom Type Parameters in Rust](https://dev.to/labex/exploring-phantom-type-parameters-in-rust-29id)
-- [You&#39;re facing a challenging client situation. How can you prioritize your team&#39;s well-being?](https://dev.to/gourav_sharma_00/youre-facing-a-challenging-client-situation-how-can-you-prioritize-your-teams-well-being-1dnh)
-- [Button Ripple Effect, HTML, CSS, JS 💦](https://dev.to/cresvin/button-ripple-effect-html-css-js-2hil)
+- [Static Site Generation](https://dev.to/suhaspalani/static-site-generation-5bb7)
+- [Reasoning 2 - Contextual Conversion](https://dev.to/metaphilosophy/reasoning-2-contextual-conversion-37pa)
+- [JavaScript: Arrays, Array Properties, Array Methods: push, pop, shift, unshift, Stacks, and Queues!](https://dev.to/meganpaffrath/javascript-arrays-array-properties-array-methods-push-pop-shift-unshift-stacks-and-queues-4kea)
+- [Vanishing &amp; Exploding Gradient Problem &amp; Dying ReLU Problem in PyTorch](https://dev.to/hyperkai/vanishing-exploding-gradient-problem-dying-relu-problem-in-pytorch-6bg)
+- [Big Button Form in Microsoft Access, Part 3](https://dev.to/richardrost/big-button-form-in-microsoft-access-part-3-4088)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
