@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Expert advice on how to build a successful career in data science, including tips on education, skills and job searching.](https://dev.to/victor_muthoka/expert-advice-on-how-to-build-a-successful-career-in-data-science-including-tips-on-education-skills-and-job-searching-5fg7)
-- [Boost Your Python Performance with Parallize: A Game-Changer for Parallel Processing](https://dev.to/vikyw89/boost-your-python-performance-with-parallize-a-game-changer-for-parallel-processing-4mp0)
-- [Tree structure of Machine Learning](https://dev.to/kingsmen732/tree-structure-of-machine-learning-4ioj)
-- [Resolving Passport-Local Integration Issues in Your React App](https://dev.to/dipakahirav/resolving-passport-local-integration-issues-in-your-react-app-g5e)
-- [Create Your Own AI Discord Bot with Julep](https://dev.to/julep/create-your-own-ai-discord-bot-with-julep-58lf)
+- [Day 10 of My 21-Day JavaScript Learning Challenge with Hitesh Choudhary! 🚀](https://dev.to/rohit1301/day-10-of-my-21-day-javascript-learning-challenge-with-hitesh-choudhary-423l)
+- [Watch Out For Broken Links, 404 Page With Framer Motion, TailwindCSS and NextJs](https://dev.to/akcanakci/watch-out-for-broken-links-404-page-with-framer-motion-tailwindcss-and-nextjs-58ff)
+- [Python logger](https://dev.to/victorcosta/python-logger-924)
+- [More AI, please. It can aid coding and is not a threat -- survey.](https://dev.to/andrewtetzeli/more-ai-please-it-can-aid-coding-and-is-not-a-threat-survey-3029)
+- [🚀 Ubuntu Unleashed - Stop Struggling with Software 🤯](https://dev.to/best_codes/ubuntu-unleashed-stop-struggling-with-software-1356)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
