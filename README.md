@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build native image from Spring Boot Application with GraalVM builder](https://dev.to/binoy_59380e698d318/build-native-image-from-spring-boot-application-with-graalvm-builder-3b7l)
-- [Benefícios para SEO e Acessibilidade](https://dev.to/mikedsousa/beneficios-para-seo-e-acessibilidade-51j8)
-- [3 Common Mistakes Beginners Make When Learning Rust](https://dev.to/francescoxx/3-common-mistakes-beginners-make-when-learning-rust-4kic)
-- [Cracking the LeetCode 122. Best Time to Buy and Sell Stock II](https://dev.to/this-is-learning/cracking-the-leetcode-122-best-time-to-buy-and-sell-stock-ii-17k5)
-- [I am not a Coder But This Is How I Write CSS](https://dev.to/eshaka/i-am-not-a-coder-but-this-is-how-i-write-css-2049)
+- [The Ultimate Guide to Data Analytics: Techniques and Tools](https://dev.to/clinton_john/the-ultimate-guide-to-data-analytics-techniques-and-tools-583p)
+- [Just Surviving: Working Remotely for Beginners](https://dev.to/lukeocodes/just-surviving-working-remotely-for-beginners-342n)
+- [Power Pages: modified &lt;dialog&gt; functionality](https://dev.to/andrewelans/power-pages-modified-functionality-1l9f)
+- [Glam Up Cricket League!](https://dev.to/tanulathika_deokule/glam-up-cricket-league-2g8)
+- [NSFW API Guide: How to Censor Sexual Content in Videos](https://dev.to/api4ai/nsfw-api-guide-how-to-censor-sexual-content-in-videos-1fai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
