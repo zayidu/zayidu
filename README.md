@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Analysis, The Ultimate Guide to Data Analytics: Techniques and Tools](https://dev.to/sjt/data-analysis-the-ultimate-guide-to-data-analytics-techniques-and-tools-2pfa)
-- [The Ultimate Guide to Data Analytics: Techniques and Tools](https://dev.to/byron_morara_47062585d306/the-ultimate-guide-to-data-analytics-techniques-and-tools-2288)
-- [Expert advice on how to build a successful career in data science, including tips on education, skills, and job searching.](https://dev.to/joshua-km/expert-advice-on-how-to-build-a-successful-career-in-data-science-including-tips-on-education-skills-and-job-searching-2mlm)
-- [Découvrez @codedav/datetime-helper - Simplifiez la gestion des dates et heures en Node.js !](https://dev.to/bilongodavid/decouvrez-codedavdatetime-helper-simplifiez-la-gestion-des-dates-et-heures-en-nodejs--1pkc)
-- [FLUX Local &amp; Cloud Tutorial With SwarmUI - FLUX: The Pioneering Open Source txt2img Model Outperforming Midjourney &amp; Others](https://dev.to/furkangozukara/flux-local-cloud-tutorial-with-swarmui-flux-the-pioneering-open-source-txt2img-model-outperforming-midjourney-others-3fed)
+- [Building a Robust Test Automation Architecture with Java, Selenium, Maven, Docker, and Jenkins CI/CD](https://dev.to/jeissyguimaraes/building-a-robust-test-automation-architecture-with-java-selenium-maven-docker-and-jenkins-cicd-5ccg)
+- [Day 3/10 HTML](https://dev.to/ofameh/day-310-html-i0a)
+- [[Game of Purpose] Day 78](https://dev.to/humberd/game-of-purpose-day-78-4i7c)
+- [Web Development Without &lpar;Build&rpar; Tooling](https://dev.to/louwers/web-development-without-tooling-flk)
+- [Understanding the Basics of Blockchain Development](https://dev.to/media_geneous/understanding-the-basics-of-blockchain-development-58m1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
