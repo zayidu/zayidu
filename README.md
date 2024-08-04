@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [☸️ Kubernetes: A Convenient Variable Substitution Mechanism for Kustomize](https://dev.to/zenika/kubernetes-a-convenient-variable-substitution-mechanism-for-kustomize-lhm)
-- [The Ultimate Guide To Data Analytics: Techniques and Tools](https://dev.to/arbiye/the-ultimate-guide-to-data-analytics-techniques-and-tools-30k7)
-- [🚀Node.js Performance Nightmares: 3 Bottlenecks That Are Costing You Money &lpar;and How to Fix Them FAST&rpar; 🚀](https://dev.to/vadim-tuchila/nodejs-performance-nightmares-3-bottlenecks-that-are-costing-you-money-and-how-to-fix-them-fast-25mg)
-- [Remove chunks from the next js](https://dev.to/jnanendraveer/remove-chunks-from-the-next-js-2m8i)
-- [The Ultimate Guide to Data Analytics: Techniques and Tools](https://dev.to/lameck_oluoch/the-ultimate-guide-to-data-analytics-techniques-and-tools-2oa9)
+- [Merge sort | Recursion](https://dev.to/vampirepapi/merge-sort-recursion-241e)
+- [making an app that solves my problem](https://dev.to/yung_coder_dom/making-an-app-that-solves-my-problem-27pk)
+- [PHP: Understanding Time Zones](https://dev.to/spo0q/php-understanding-time-zones-3b29)
+- [Como as linguagens de programação são criadas?](https://dev.to/marcusxavierr/como-as-linguagens-de-programacao-sao-criadas-5ggd)
+- [Boost Your Web App with PWAs: A Beginner&#39;s Guide](https://dev.to/iamfaham/boost-your-web-app-with-pwas-a-beginners-guide-5b96)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
