@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A 2nd yearer...](https://dev.to/mayankchandratre1/a-2nd-yearer-ch2)
-- [Decoding System Design of Rate Limiter: 1&lpar; Your Goto Protector for backend APIs&rpar;](https://dev.to/ganeshyadav3142/decoding-system-design-of-rate-limiter-1-your-goto-protector-for-backend-apis-292e)
-- [Hiking the Mt. Rainier 7.5 Trail – A Journey of Nature&#39;s Majesty](https://dev.to/aws-heroes/hiking-the-mt-rainier-75-trail-a-journey-of-natures-majesty-1ing)
-- [A Beginner&#39;s Guide to Data Analysis: Techniques and Tools](https://dev.to/gloria_chebet_415b1977b86/a-beginners-guide-to-data-analysis-techniques-and-tools-4iaf)
-- [The Ultimate Guide to Data Analysis: Techniques and Tools](https://dev.to/austine_baraka_19b857f186/the-ultimate-guide-to-data-analysis-techniques-and-tools-2485)
+- [☸️ Kubernetes: A Convenient Variable Substitution Mechanism for Kustomize](https://dev.to/zenika/kubernetes-a-convenient-variable-substitution-mechanism-for-kustomize-lhm)
+- [The Ultimate Guide To Data Analytics: Techniques and Tools](https://dev.to/arbiye/the-ultimate-guide-to-data-analytics-techniques-and-tools-30k7)
+- [🚀Node.js Performance Nightmares: 3 Bottlenecks That Are Costing You Money &lpar;and How to Fix Them FAST&rpar; 🚀](https://dev.to/vadim-tuchila/nodejs-performance-nightmares-3-bottlenecks-that-are-costing-you-money-and-how-to-fix-them-fast-25mg)
+- [Remove chunks from the next js](https://dev.to/jnanendraveer/remove-chunks-from-the-next-js-2m8i)
+- [The Ultimate Guide to Data Analytics: Techniques and Tools](https://dev.to/lameck_oluoch/the-ultimate-guide-to-data-analytics-techniques-and-tools-2oa9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
