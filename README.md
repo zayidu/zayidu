@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Merge sort | Recursion](https://dev.to/vampirepapi/merge-sort-recursion-241e)
-- [making an app that solves my problem](https://dev.to/yung_coder_dom/making-an-app-that-solves-my-problem-27pk)
-- [PHP: Understanding Time Zones](https://dev.to/spo0q/php-understanding-time-zones-3b29)
-- [Como as linguagens de programação são criadas?](https://dev.to/marcusxavierr/como-as-linguagens-de-programacao-sao-criadas-5ggd)
-- [Boost Your Web App with PWAs: A Beginner&#39;s Guide](https://dev.to/iamfaham/boost-your-web-app-with-pwas-a-beginners-guide-5b96)
+- [Data Analysis, The Ultimate Guide to Data Analytics: Techniques and Tools](https://dev.to/sjt/data-analysis-the-ultimate-guide-to-data-analytics-techniques-and-tools-2pfa)
+- [The Ultimate Guide to Data Analytics: Techniques and Tools](https://dev.to/byron_morara_47062585d306/the-ultimate-guide-to-data-analytics-techniques-and-tools-2288)
+- [Expert advice on how to build a successful career in data science, including tips on education, skills, and job searching.](https://dev.to/joshua-km/expert-advice-on-how-to-build-a-successful-career-in-data-science-including-tips-on-education-skills-and-job-searching-2mlm)
+- [Découvrez @codedav/datetime-helper - Simplifiez la gestion des dates et heures en Node.js !](https://dev.to/bilongodavid/decouvrez-codedavdatetime-helper-simplifiez-la-gestion-des-dates-et-heures-en-nodejs--1pkc)
+- [FLUX Local &amp; Cloud Tutorial With SwarmUI - FLUX: The Pioneering Open Source txt2img Model Outperforming Midjourney &amp; Others](https://dev.to/furkangozukara/flux-local-cloud-tutorial-with-swarmui-flux-the-pioneering-open-source-txt2img-model-outperforming-midjourney-others-3fed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
