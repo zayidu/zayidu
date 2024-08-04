@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Jobs in a Container via GitHub Actions Securely](https://dev.to/aws-builders/running-jobs-in-a-container-via-github-actions-securely-p0c)
-- [State Management in Vue 3 with Vuex](https://dev.to/kartikmehta8/state-management-in-vue-3-with-vuex-2ob3)
-- [[Game of Purpose] Day 77](https://dev.to/humberd/game-of-purpose-day-77-61a)
-- [Expert Advice on how to Build a Successful Career in Data Science.](https://dev.to/melbride/expert-advice-on-how-to-build-a-successful-career-in-data-science-eib)
-- [How I built Instagram Clone Lite Using NextJs and Firebase](https://dev.to/mert_izgahi_e1e5719866b86/how-i-built-instagram-clone-lite-using-nextjs-and-firebase-ji1)
+- [Today&#39;s Trending Projects: Change Default Value for Countrylanguage Table and More](https://dev.to/labex/todays-trending-projects-change-default-value-for-countrylanguage-table-and-more-18f5)
+- [Override functions in individual tests using Jest](https://dev.to/tylerlwsmith/override-functions-in-individual-tests-using-jest-dp5)
+- [Implementing Conditional Hover States in Nested Divs with React Hooks](https://dev.to/albertocubeddu/implementing-conditional-hover-states-in-nested-divs-with-react-hooks-119a)
+- [x-for](https://dev.to/muhammadiqbalid83/x-for-3973)
+- [Optimizing Transformations in Pentaho: Case Study](https://dev.to/pcabreram1234/optimizing-transformations-in-pentaho-case-study-1h1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
