@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Shadcn UI Adding Wrong Folder for Components](https://dev.to/rajinh24/how-to-fix-shadcn-ui-adding-wrong-folder-for-components-4p3o)
-- [Free up some space on your VS Code](https://dev.to/anshsaini/free-up-some-space-on-your-vs-code-2d0g)
-- [Expert advice for building a successful career in data science: Education, skills and job search tips](https://dev.to/natasha2020/expert-advice-for-building-a-successful-career-in-data-science-education-skills-and-job-search-tips-32i0)
-- [Why Perl Remains Indispensable in the Age of Modern Programming Languages](https://dev.to/fa5tworm/why-perl-remains-indispensable-in-the-age-of-modern-programming-languages-2io0)
-- [9 Cutting-Edge Web Dev Resources You Should Be Using Now](https://dev.to/agunwachidiebelecalistus/9-cutting-edge-web-dev-resources-you-should-beusing-now-30ho)
+- [Build native image from Spring Boot Application with GraalVM builder](https://dev.to/binoy_59380e698d318/build-native-image-from-spring-boot-application-with-graalvm-builder-3b7l)
+- [Benefícios para SEO e Acessibilidade](https://dev.to/mikedsousa/beneficios-para-seo-e-acessibilidade-51j8)
+- [3 Common Mistakes Beginners Make When Learning Rust](https://dev.to/francescoxx/3-common-mistakes-beginners-make-when-learning-rust-4kic)
+- [Cracking the LeetCode 122. Best Time to Buy and Sell Stock II](https://dev.to/this-is-learning/cracking-the-leetcode-122-best-time-to-buy-and-sell-stock-ii-17k5)
+- [I am not a Coder But This Is How I Write CSS](https://dev.to/eshaka/i-am-not-a-coder-but-this-is-how-i-write-css-2049)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
