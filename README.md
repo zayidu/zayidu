@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Today&#39;s Trending Projects: Change Default Value for Countrylanguage Table and More](https://dev.to/labex/todays-trending-projects-change-default-value-for-countrylanguage-table-and-more-18f5)
-- [Override functions in individual tests using Jest](https://dev.to/tylerlwsmith/override-functions-in-individual-tests-using-jest-dp5)
-- [Implementing Conditional Hover States in Nested Divs with React Hooks](https://dev.to/albertocubeddu/implementing-conditional-hover-states-in-nested-divs-with-react-hooks-119a)
-- [x-for](https://dev.to/muhammadiqbalid83/x-for-3973)
-- [Optimizing Transformations in Pentaho: Case Study](https://dev.to/pcabreram1234/optimizing-transformations-in-pentaho-case-study-1h1f)
+- [Adapter Design Pattern](https://dev.to/abhidatta0/adapter-design-pattern-389f)
+- [Singleton design pattern](https://dev.to/abhidatta0/singleton-design-pattern-3bm1)
+- [Exploring Phantom Type Parameters in Rust](https://dev.to/labex/exploring-phantom-type-parameters-in-rust-29id)
+- [You&#39;re facing a challenging client situation. How can you prioritize your team&#39;s well-being?](https://dev.to/gourav_sharma_00/youre-facing-a-challenging-client-situation-how-can-you-prioritize-your-teams-well-being-1dnh)
+- [Button Ripple Effect, HTML, CSS, JS 💦](https://dev.to/cresvin/button-ripple-effect-html-css-js-2hil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
