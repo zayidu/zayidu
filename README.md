@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2/10 HTML | 30 Days of HTML CSS JS](https://dev.to/ofameh/210-html-30-days-of-html-css-js-2d33)
-- [Code Smell 261 - DigiCert Underscores](https://dev.to/mcsee/code-smell-261-digicert-underscores-54aa)
-- [Píldoras TypeScript: type narrowing con &quot;as const&quot;](https://dev.to/kuscamara/pildoras-typescript-type-narrowing-con-as-const-g5)
-- [Why Use Laravel Data?](https://dev.to/robinkashyap_01/why-use-laravel-data-5f8c)
-- [Math Object in JavaScript.!](https://dev.to/samandarhodiev/javascript-matematik-obyektlari-232d)
+- [Running Jobs in a Container via GitHub Actions Securely](https://dev.to/aws-builders/running-jobs-in-a-container-via-github-actions-securely-p0c)
+- [State Management in Vue 3 with Vuex](https://dev.to/kartikmehta8/state-management-in-vue-3-with-vuex-2ob3)
+- [[Game of Purpose] Day 77](https://dev.to/humberd/game-of-purpose-day-77-61a)
+- [Expert Advice on how to Build a Successful Career in Data Science.](https://dev.to/melbride/expert-advice-on-how-to-build-a-successful-career-in-data-science-eib)
+- [How I built Instagram Clone Lite Using NextJs and Firebase](https://dev.to/mert_izgahi_e1e5719866b86/how-i-built-instagram-clone-lite-using-nextjs-and-firebase-ji1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
