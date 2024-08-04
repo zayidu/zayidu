@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 10 of My 21-Day JavaScript Learning Challenge with Hitesh Choudhary! 🚀](https://dev.to/rohit1301/day-10-of-my-21-day-javascript-learning-challenge-with-hitesh-choudhary-423l)
-- [Watch Out For Broken Links, 404 Page With Framer Motion, TailwindCSS and NextJs](https://dev.to/akcanakci/watch-out-for-broken-links-404-page-with-framer-motion-tailwindcss-and-nextjs-58ff)
-- [Python logger](https://dev.to/victorcosta/python-logger-924)
-- [More AI, please. It can aid coding and is not a threat -- survey.](https://dev.to/andrewtetzeli/more-ai-please-it-can-aid-coding-and-is-not-a-threat-survey-3029)
-- [🚀 Ubuntu Unleashed - Stop Struggling with Software 🤯](https://dev.to/best_codes/ubuntu-unleashed-stop-struggling-with-software-1356)
+- [A 2nd yearer...](https://dev.to/mayankchandratre1/a-2nd-yearer-ch2)
+- [Decoding System Design of Rate Limiter: 1&lpar; Your Goto Protector for backend APIs&rpar;](https://dev.to/ganeshyadav3142/decoding-system-design-of-rate-limiter-1-your-goto-protector-for-backend-apis-292e)
+- [Hiking the Mt. Rainier 7.5 Trail – A Journey of Nature&#39;s Majesty](https://dev.to/aws-heroes/hiking-the-mt-rainier-75-trail-a-journey-of-natures-majesty-1ing)
+- [A Beginner&#39;s Guide to Data Analysis: Techniques and Tools](https://dev.to/gloria_chebet_415b1977b86/a-beginners-guide-to-data-analysis-techniques-and-tools-4iaf)
+- [The Ultimate Guide to Data Analysis: Techniques and Tools](https://dev.to/austine_baraka_19b857f186/the-ultimate-guide-to-data-analysis-techniques-and-tools-2485)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
