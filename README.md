@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Robust Test Automation Architecture with Java, Selenium, Maven, Docker, and Jenkins CI/CD](https://dev.to/jeissyguimaraes/building-a-robust-test-automation-architecture-with-java-selenium-maven-docker-and-jenkins-cicd-5ccg)
-- [Day 3/10 HTML](https://dev.to/ofameh/day-310-html-i0a)
-- [[Game of Purpose] Day 78](https://dev.to/humberd/game-of-purpose-day-78-4i7c)
-- [Web Development Without &lpar;Build&rpar; Tooling](https://dev.to/louwers/web-development-without-tooling-flk)
-- [Understanding the Basics of Blockchain Development](https://dev.to/media_geneous/understanding-the-basics-of-blockchain-development-58m1)
+- [Exploring Java&#39;s Stream API](https://dev.to/kartikmehta8/exploring-javas-stream-api-587m)
+- [The JavaScript Pre-Requisites for Seamless React Learning](https://dev.to/raju_dandigam/the-javascript-pre-requisites-for-seamless-react-learning-28g6)
+- [Escrevendo Lógica em CSS](https://dev.to/dougsource/escrevendo-logica-em-css-dln)
+- [Essential Hacking Tools for the Modern Hacker: Editors, Version Control, Dot Files, Backups and Automation](https://dev.to/jrob112/essential-hacking-tools-for-the-modern-hacker-editors-version-control-dot-files-backups-and-automation-hca)
+- [CSS Art: Favorite Recreation](https://dev.to/osshiya/css-art-favorite-recreation-28nn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
