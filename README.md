@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Theory - Part 9 : the Secrets of Cross-Browser Compatibility: A Beginner’s Guide to Making Your Website Shine Everywhere](https://dev.to/teclearn/web-theory-part-9-the-secrets-of-cross-browser-compatibility-a-beginners-guide-to-making-your-website-shine-everywhere-3l99)
-- [Build a Completely Dynamic UI with Sanity, a Node Server and React](https://dev.to/mathgarb/build-a-completely-dynamic-ui-with-sanity-a-node-server-and-react-1nj9)
-- [Azure AI and Code-First Development: Crafting Your Custom Copilot](https://dev.to/nilebits/azure-ai-and-code-first-development-crafting-your-custom-copilot-5h0k)
-- [What’s New in React 19: A Game of Thrones Saga](https://dev.to/jorgemadson/whats-new-in-react-19-a-game-of-thrones-saga-15lc)
-- [Unveiling Layer 1 of Web3: The Foundation of Decentralized Possibilities](https://dev.to/srobver/unveiling-layer-1-of-web3-the-foundation-of-decentralized-possibilities-30pe)
+- [Error Handling in Node.js: Patterns and Practices](https://dev.to/wallacefreitas/error-handling-in-nodejs-patterns-and-practices-1mg0)
+- [You’re Decent At JavaScript If You Can Answer These 7 Questions Correctly](https://dev.to/lorenzhw/youre-decent-at-javascript-if-you-can-answer-these-7-questions-correctly-36jl)
+- [Internal Developer Platform: A Best Practices Guide](https://dev.to/the_real_zan/internal-developer-platform-a-best-practices-guide-17dh)
+- [How to create own URL Protocol In Windows](https://dev.to/avinash_tare/how-to-create-own-url-protocol-in-windows-42bj)
+- [Deploying FastAPI, PostgreSQL, Celery &amp; Redis on Render - FastAPI Beyond CRUD &lpar;Part 23&rpar;](https://dev.to/jod35/deploying-fastapi-postgresql-celery-redis-on-render-fastapi-beyond-crud-part-23-5ha0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
