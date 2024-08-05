@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Dynamic Links and Deep Linking URLs in Node.js for React Native](https://dev.to/surajprasad13/creating-dynamic-links-and-deep-linking-urls-in-nodejs-for-react-native-175d)
-- [I&#39;m Caleb, I am a beginner in web development with the AdonisJs framework. ---](https://dev.to/calebkakhuba/im-caleb-i-am-a-beginner-in-web-development-with-the-adonisjs-framework--41om)
-- [Dealing With Difficult Stakeholders](https://dev.to/sumusiriwardana/dealing-with-difficult-stakeholders-3d3l)
-- [💉 Injeção de Dependência em Go?](https://dev.to/br4tech/injecao-de-dependencia-em-go-554m)
-- [Join My &quot;Get Started with Python&quot; Microsoft Student Learn Plan!](https://dev.to/hermes-bytes/join-my-get-started-with-python-microsoft-student-learn-plan-5dg3)
+- [X3NOS - Day 1](https://dev.to/xentzenith/x3nos-day-1-4jj)
+- [How to Duplicate a Git Repository? Step-by-step Guide](https://dev.to/koral/how-to-duplicate-a-git-repository-step-by-step-guide-2eeh)
+- [Github Copilot - AI Assistance for developer](https://dev.to/sib_sankarbag_580d956d6a/github-copilot-ai-assistance-for-developer-410l)
+- [Managing Technical Debt: Strategies for Long-Term Success](https://dev.to/rowjay007/managing-technical-debt-strategies-for-long-term-success-3cna)
+- [Maximizing Cloud Efficiency: Turn it Off When Not in Use](https://dev.to/maheshk/maximizing-cloud-efficiency-turn-it-off-when-not-in-use-4gnn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
