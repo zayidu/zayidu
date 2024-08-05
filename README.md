@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Web Authentication: Comparing Session, JWT, SSO, and OAuth 2.0 in 2024](https://dev.to/vyan/the-ultimate-guide-to-web-authentication-comparing-session-jwt-sso-and-oauth-20-in-2024-2og0)
-- [Storing and Publishing your Docker Images](https://dev.to/kalkwst/storing-and-publishing-your-docker-images-4m39)
-- [11 Blogs with Compelling UI Design that will Inspire You](https://dev.to/pepper_square/11-blogs-with-compelling-ui-design-that-will-inspire-you-1c5e)
-- [Intro to CockroachDB &lpar;No exterminator needed!&rpar;](https://dev.to/ccwell11/intro-to-cockroachdb-no-exterminator-needed-bmk)
-- [Why do Frontend and Backend developers use Docker](https://dev.to/ajeetraina/why-do-frontend-and-backend-developers-use-docker-44nk)
+- [QuAlity Drinks](https://dev.to/tremartin/quality-drinks-adp)
+- [Performance of range queries in B-Tree and LSM indexes](https://dev.to/yugabyte/performance-of-range-queries-in-b-tree-and-lsm-indexes-3pbj)
+- [Data on Kubernetes: Part 5 - Making AI/ML simpler Using Kubernetes to deploy and scale AI/ML models efficiently 📈](https://dev.to/aws-builders/data-on-kubernetes-part-5-making-aiml-simplerusing-kubernetes-to-deploy-and-scale-aiml-models-efficiently-6lh)
+- [Polyfill for Call&lpar;&rpar;](https://dev.to/dey24/polyfill-for-call-2fed)
+- [Advanced System Design for principal engineers](https://dev.to/fahimulhaq/advanced-system-design-for-principal-engineers-2caf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
