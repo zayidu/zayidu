@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Help me to solve the AI data-matching problem](https://dev.to/sangwoo_rhie/help-me-to-solve-the-ai-data-matching-problem-35o6)
-- [Implementing a Custom Dropdown Component in React with TypeScript and Floating-UI](https://dev.to/radzion/implementing-a-custom-dropdown-component-in-react-with-typescript-and-floating-ui-494j)
-- [Testing Language Learning Models &lpar;LLMs&rpar; with OpenAI and SQuAD Dataset](https://dev.to/copyleftdev/testing-language-learning-models-llms-with-openai-and-squad-dataset-40i2)
-- [Elixir Of Life](https://dev.to/muhammad_faseeh_1717/elixir-of-life-27fo)
-- [The SSH Protocol](https://dev.to/0xw3ston/the-ssh-protocol-1k1e)
+- [Why do Frontend and Backend developers use Docker](https://dev.to/ajeetraina/why-do-frontend-and-backend-developers-use-docker-44nk)
+- [The Impact of Clock Speed Versus Architecture on Computing Performance](https://dev.to/adityabhuyan/the-impact-of-clock-speed-versus-architecture-on-computing-performance-1ojd)
+- [Squid Game and Decoding the Meaning of Shapes in Design](https://dev.to/pepper_square/squid-game-and-decoding-the-meaning-of-shapes-in-design-4cf1)
+- [How Implement Two-Factor Authentication with Node.JS and otplib](https://dev.to/fortune42/how-implement-two-factor-authentication-with-nodejs-and-otplib-2mlk)
+- [Synergies Between Quantum Computing and Edge Computing for Advancing AI and Machine Learning](https://dev.to/adityabhuyan/synergies-between-quantum-computing-and-edge-computing-for-advancing-ai-and-machine-learning-5d0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
