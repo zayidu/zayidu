@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Financial Side Chat: MongoDB Atlas Vector Search Real-World User Case &lpar;Search Internal PDF Documents&rpar; 💰](https://dev.to/mongodb-builder/financial-side-chat-mongodb-atlas-vector-search-real-world-user-case-search-internal-pdf-documents-5ehj)
-- [🧭 TV Navigation in React Native: A Guide to using TVFocusGuideView](https://dev.to/amazonappdev/tv-navigation-in-react-native-a-guide-to-using-tvfocusguideview-302i)
-- [Deploy React App &amp; Nestjs App to AWS EC2 Instance](https://dev.to/ionknowmyname/deploy-react-app-nestjs-app-to-aws-ec2-instance-554e)
-- [Let&#39;s integrate auth.js with Supabase!](https://dev.to/priyanshuverma/lets-integrate-authjs-with-supabase-mf7)
-- [ทำความรู้จักกับ Meta Programming ใน Typescript](https://dev.to/j4cksw/thamkhwaamruucchakkab-meta-programming-ain-typescript-51on)
+- [101 React Tips &amp; Tricks For Beginners To Experts ✨](https://dev.to/_ndeyefatoudiop/101-react-tips-tricks-for-beginners-to-experts-4m11)
+- [A General Guide to Data Analysis Techniques &amp; Tools](https://dev.to/kennedy_keli_24ed724ac6fe/a-general-guide-to-data-analysis-techniques-tools-4j4o)
+- [🤑 Financial Industry Side Chat: MongoDB Atlas Charts Real-World User Case &lpar;Crypto Trading &amp; Lending&rpar; 🤑](https://dev.to/mongodb-builder/financial-industry-side-chat-mongodb-atlas-charts-real-world-user-case-crypto-trading-lending-1b33)
+- [Deploying a REST API and Angular Frontend Using AWS CDK, S3, and API Gateway](https://dev.to/nivekalara237/deploying-a-rest-api-and-angular-frontend-using-aws-cdk-s3-and-api-gateway-5983)
+- [Depurar sin Puntos de Interrupción](https://dev.to/flounder4130/depurar-sin-puntos-de-interrupcion-31pk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
