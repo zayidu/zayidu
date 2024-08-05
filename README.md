@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Array Grouping in JavaScript &lpar;2024&rpar;](https://dev.to/pmbanugo/array-grouping-in-javascript-2024-5cm9)
-- [Data-Type In Rust&lpar;Gamify&rpar;](https://dev.to/devyuvraaj/data-type-in-rustgamify-121j)
-- [Hello World!](https://dev.to/sumit10/hello-world-54h0)
-- [Day 11: Delving Deeper into JavaScript OOP, this, new, and Prototypes! 🚀](https://dev.to/rohit1301/day-11-delving-deeper-into-javascript-oop-this-new-and-prototypes-1o5f)
-- [Multiple GitHub Accounts on the Same Machine Like a Pro](https://dev.to/kw4rgs/multiple-github-accounts-on-the-same-machine-like-a-pro-4ci1)
+- [Clean architecture with Next.js](https://dev.to/dan1618/clean-architecture-with-nextjs-43cg)
+- [State management in Svelte apps](https://dev.to/debussyman/state-management-in-svelte-apps-30pa)
+- [.Net versiyalari](https://dev.to/sabrina_abcdna123/net-versiyalari-hne)
+- [🚀 Excited to start this journey! 🚀](https://dev.to/zawarvyankatesh/excited-to-start-this-journey-4mp9)
+- [Product listing page in flutter](https://dev.to/muhammedshamal/product-listing-page-in-flutter-370b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
