@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to Web Authentication: Comparing Session, JWT, SSO, and OAuth 2.0 in 2024](https://dev.to/vyan/the-ultimate-guide-to-web-authentication-comparing-session-jwt-sso-and-oauth-20-in-2024-2og0)
+- [Storing and Publishing your Docker Images](https://dev.to/kalkwst/storing-and-publishing-your-docker-images-4m39)
+- [11 Blogs with Compelling UI Design that will Inspire You](https://dev.to/pepper_square/11-blogs-with-compelling-ui-design-that-will-inspire-you-1c5e)
+- [Intro to CockroachDB &lpar;No exterminator needed!&rpar;](https://dev.to/ccwell11/intro-to-cockroachdb-no-exterminator-needed-bmk)
 - [Why do Frontend and Backend developers use Docker](https://dev.to/ajeetraina/why-do-frontend-and-backend-developers-use-docker-44nk)
-- [The Impact of Clock Speed Versus Architecture on Computing Performance](https://dev.to/adityabhuyan/the-impact-of-clock-speed-versus-architecture-on-computing-performance-1ojd)
-- [Squid Game and Decoding the Meaning of Shapes in Design](https://dev.to/pepper_square/squid-game-and-decoding-the-meaning-of-shapes-in-design-4cf1)
-- [How Implement Two-Factor Authentication with Node.JS and otplib](https://dev.to/fortune42/how-implement-two-factor-authentication-with-nodejs-and-otplib-2mlk)
-- [Synergies Between Quantum Computing and Edge Computing for Advancing AI and Machine Learning](https://dev.to/adityabhuyan/synergies-between-quantum-computing-and-edge-computing-for-advancing-ai-and-machine-learning-5d0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
