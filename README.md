@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Java&#39;s Stream API](https://dev.to/kartikmehta8/exploring-javas-stream-api-587m)
-- [The JavaScript Pre-Requisites for Seamless React Learning](https://dev.to/raju_dandigam/the-javascript-pre-requisites-for-seamless-react-learning-28g6)
-- [Escrevendo Lógica em CSS](https://dev.to/dougsource/escrevendo-logica-em-css-dln)
-- [Essential Hacking Tools for the Modern Hacker: Editors, Version Control, Dot Files, Backups and Automation](https://dev.to/jrob112/essential-hacking-tools-for-the-modern-hacker-editors-version-control-dot-files-backups-and-automation-hca)
-- [CSS Art: Favorite Recreation](https://dev.to/osshiya/css-art-favorite-recreation-28nn)
+- [Today&#39;s Trending Projects: Creating Earth&#39;s Orbital Animation with CSS and More](https://dev.to/labex/todays-trending-projects-creating-earths-orbital-animation-with-css-and-more-39cl)
+- [ServiceNow Xanadu Release: An Overview of Key Upgrades](https://dev.to/sophiasemga/servicenow-xanadu-release-an-overview-of-key-upgrades-3f1o)
+- [Exploring Unsupervised Learning in ML](https://dev.to/dakota_day/exploring-unsupervised-learning-in-ml-4hf)
+- [How to Create a Cloudflare Worker in JavaScript](https://dev.to/codenoun/how-to-create-a-cloudflare-worker-in-javascript-32k2)
+- [Recap of C1 Blog“The Past, Present &amp; Future of Cloud Computing for Businesses”](https://dev.to/agagag/recap-of-the-past-present-future-of-cloud-computing-for-businesses-fhj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
