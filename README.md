@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Boosting Angular Performance with @defer and Lazy Loading](https://dev.to/this-is-angular/boosting-angular-performance-with-defer-and-lazy-loading-40f3)
-- [How To Implement Governance Proposals on Polkadot](https://dev.to/polymawutor/how-to-implement-governance-proposals-on-polkadot-10hb)
-- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;29/07/2024-04/08/2024](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-29072024-04082024-4g1f)
-- [Understanding Karpenter: A Modern Approach to Kubernetes Autoscaling](https://dev.to/buzzgk/understanding-karpenter-a-modern-approach-to-kubernetes-autoscaling-3a05)
-- [Unleashing the Potential of Generative AI in Manufacturing](https://dev.to/viksingh/unleashing-the-potential-of-generative-ai-in-manufacturing-4i38)
+- [🌐 Financial Side Chat: MongoDB Atlas Vector Search Real-World User Case &lpar;Search Internal PDF Documents&rpar; 💰](https://dev.to/mongodb-builder/financial-side-chat-mongodb-atlas-vector-search-real-world-user-case-search-internal-pdf-documents-5ehj)
+- [🧭 TV Navigation in React Native: A Guide to using TVFocusGuideView](https://dev.to/amazonappdev/tv-navigation-in-react-native-a-guide-to-using-tvfocusguideview-302i)
+- [Deploy React App &amp; Nestjs App to AWS EC2 Instance](https://dev.to/ionknowmyname/deploy-react-app-nestjs-app-to-aws-ec2-instance-554e)
+- [Let&#39;s integrate auth.js with Supabase!](https://dev.to/priyanshuverma/lets-integrate-authjs-with-supabase-mf7)
+- [ทำความรู้จักกับ Meta Programming ใน Typescript](https://dev.to/j4cksw/thamkhwaamruucchakkab-meta-programming-ain-typescript-51on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
