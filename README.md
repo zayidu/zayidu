@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [QuAlity Drinks](https://dev.to/tremartin/quality-drinks-adp)
-- [Performance of range queries in B-Tree and LSM indexes](https://dev.to/yugabyte/performance-of-range-queries-in-b-tree-and-lsm-indexes-3pbj)
-- [Data on Kubernetes: Part 5 - Making AI/ML simpler Using Kubernetes to deploy and scale AI/ML models efficiently 📈](https://dev.to/aws-builders/data-on-kubernetes-part-5-making-aiml-simplerusing-kubernetes-to-deploy-and-scale-aiml-models-efficiently-6lh)
-- [Polyfill for Call&lpar;&rpar;](https://dev.to/dey24/polyfill-for-call-2fed)
-- [Advanced System Design for principal engineers](https://dev.to/fahimulhaq/advanced-system-design-for-principal-engineers-2caf)
+- [Microsserviços, uma abordagem prática - Facilidade de Manutenção](https://dev.to/miltonlima/microsservicos-uma-abordagem-pratica-facilidade-de-manutencao-3keg)
+- [Tips when upgrading Umbraco from 10 to 13](https://dev.to/d_inventor/tips-when-upgrading-umbraco-from-10-to-13-27dh)
+- [Experimenting with Tailwind CSS: A Quick Guide](https://dev.to/sanditzz/experimenting-with-tailwind-css-a-quick-guide-3dg6)
+- [About Columnar storage in Manticore Search](https://dev.to/sanikolaev/about-columnar-storage-in-manticore-search-4inl)
+- [Coaching Teams Through Change, Prioritising User Value, 12 Signs of Difficult Engineers](https://dev.to/grocto/coaching-teams-through-change-prioritising-user-value-12-signs-of-difficult-engineers-4fme)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
