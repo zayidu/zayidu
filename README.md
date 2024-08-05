@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsserviços, uma abordagem prática - Facilidade de Manutenção](https://dev.to/miltonlima/microsservicos-uma-abordagem-pratica-facilidade-de-manutencao-3keg)
-- [Tips when upgrading Umbraco from 10 to 13](https://dev.to/d_inventor/tips-when-upgrading-umbraco-from-10-to-13-27dh)
-- [Experimenting with Tailwind CSS: A Quick Guide](https://dev.to/sanditzz/experimenting-with-tailwind-css-a-quick-guide-3dg6)
-- [About Columnar storage in Manticore Search](https://dev.to/sanikolaev/about-columnar-storage-in-manticore-search-4inl)
-- [Coaching Teams Through Change, Prioritising User Value, 12 Signs of Difficult Engineers](https://dev.to/grocto/coaching-teams-through-change-prioritising-user-value-12-signs-of-difficult-engineers-4fme)
+- [Proof of Code by BVM](https://dev.to/2836/proof-of-code-by-bvm-3mi4)
+- [Web Application Testing Tools](https://dev.to/testscenario/web-application-testing-tools-1b3d)
+- [Cricket League Registration Landing Page with GSAP Animation](https://dev.to/jennavisions/cricket-league-registration-landing-page-with-gsap-animation-1flo)
+- [How Sephora Transformed Customer Experience with Alibaba Cloud: A Case Study in Data-Driven Personalization](https://dev.to/lara_li_b856f87e31a0c2caf/how-sephora-transformed-customer-experience-with-alibaba-cloud-a-case-study-in-data-driven-personalization-16ij)
+- [Javascript is without a fullstack framework &lpar;and will miss fullstack era this time&rpar;](https://dev.to/senky/javascript-is-without-a-fullstack-framework-and-will-miss-fullstack-era-this-time-22bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
