@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean architecture with Next.js](https://dev.to/dan1618/clean-architecture-with-nextjs-43cg)
-- [State management in Svelte apps](https://dev.to/debussyman/state-management-in-svelte-apps-30pa)
-- [.Net versiyalari](https://dev.to/sabrina_abcdna123/net-versiyalari-hne)
-- [🚀 Excited to start this journey! 🚀](https://dev.to/zawarvyankatesh/excited-to-start-this-journey-4mp9)
-- [Product listing page in flutter](https://dev.to/muhammedshamal/product-listing-page-in-flutter-370b)
+- [Web Theory - Part 9 : the Secrets of Cross-Browser Compatibility: A Beginner’s Guide to Making Your Website Shine Everywhere](https://dev.to/teclearn/web-theory-part-9-the-secrets-of-cross-browser-compatibility-a-beginners-guide-to-making-your-website-shine-everywhere-3l99)
+- [Build a Completely Dynamic UI with Sanity, a Node Server and React](https://dev.to/mathgarb/build-a-completely-dynamic-ui-with-sanity-a-node-server-and-react-1nj9)
+- [Azure AI and Code-First Development: Crafting Your Custom Copilot](https://dev.to/nilebits/azure-ai-and-code-first-development-crafting-your-custom-copilot-5h0k)
+- [What’s New in React 19: A Game of Thrones Saga](https://dev.to/jorgemadson/whats-new-in-react-19-a-game-of-thrones-saga-15lc)
+- [Unveiling Layer 1 of Web3: The Foundation of Decentralized Possibilities](https://dev.to/srobver/unveiling-layer-1-of-web3-the-foundation-of-decentralized-possibilities-30pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
