@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [X3NOS - Day 1](https://dev.to/xentzenith/x3nos-day-1-4jj)
-- [How to Duplicate a Git Repository? Step-by-step Guide](https://dev.to/koral/how-to-duplicate-a-git-repository-step-by-step-guide-2eeh)
-- [Github Copilot - AI Assistance for developer](https://dev.to/sib_sankarbag_580d956d6a/github-copilot-ai-assistance-for-developer-410l)
-- [Managing Technical Debt: Strategies for Long-Term Success](https://dev.to/rowjay007/managing-technical-debt-strategies-for-long-term-success-3cna)
-- [Maximizing Cloud Efficiency: Turn it Off When Not in Use](https://dev.to/maheshk/maximizing-cloud-efficiency-turn-it-off-when-not-in-use-4gnn)
+- [Array Grouping in JavaScript &lpar;2024&rpar;](https://dev.to/pmbanugo/array-grouping-in-javascript-2024-5cm9)
+- [Data-Type In Rust&lpar;Gamify&rpar;](https://dev.to/devyuvraaj/data-type-in-rustgamify-121j)
+- [Hello World!](https://dev.to/sumit10/hello-world-54h0)
+- [Day 11: Delving Deeper into JavaScript OOP, this, new, and Prototypes! 🚀](https://dev.to/rohit1301/day-11-delving-deeper-into-javascript-oop-this-new-and-prototypes-1o5f)
+- [Multiple GitHub Accounts on the Same Machine Like a Pro](https://dev.to/kw4rgs/multiple-github-accounts-on-the-same-machine-like-a-pro-4ci1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
