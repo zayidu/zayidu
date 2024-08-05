@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Proof of Code by BVM](https://dev.to/2836/proof-of-code-by-bvm-3mi4)
-- [Web Application Testing Tools](https://dev.to/testscenario/web-application-testing-tools-1b3d)
-- [Cricket League Registration Landing Page with GSAP Animation](https://dev.to/jennavisions/cricket-league-registration-landing-page-with-gsap-animation-1flo)
-- [How Sephora Transformed Customer Experience with Alibaba Cloud: A Case Study in Data-Driven Personalization](https://dev.to/lara_li_b856f87e31a0c2caf/how-sephora-transformed-customer-experience-with-alibaba-cloud-a-case-study-in-data-driven-personalization-16ij)
-- [Javascript is without a fullstack framework &lpar;and will miss fullstack era this time&rpar;](https://dev.to/senky/javascript-is-without-a-fullstack-framework-and-will-miss-fullstack-era-this-time-22bn)
+- [Miço Sunucusu Kurulumu](https://dev.to/aciklab/mico-sunucusu-kurulumu-2lan)
+- [Jak sformatować datę, liczbę lub walutę w Javascript?](https://dev.to/bartholomeas/jak-sformatowac-date-liczbe-lub-walute-w-javascript-3nkk)
+- [AWS Serverless Scalability- Part 1 Importance of the constant learning](https://dev.to/aws-builders/aws-serverless-scalability-part-1-importance-of-the-constant-learning-12op)
+- [How to format date, currency or time period?](https://dev.to/bartholomeas/how-to-format-date-currency-or-time-period-58kf)
+- [Automating Infrastructure with Ansible](https://dev.to/markdarby/automating-infrastructure-with-ansible-2bao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
