@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Miço Sunucusu Kurulumu](https://dev.to/aciklab/mico-sunucusu-kurulumu-2lan)
-- [Jak sformatować datę, liczbę lub walutę w Javascript?](https://dev.to/bartholomeas/jak-sformatowac-date-liczbe-lub-walute-w-javascript-3nkk)
-- [AWS Serverless Scalability- Part 1 Importance of the constant learning](https://dev.to/aws-builders/aws-serverless-scalability-part-1-importance-of-the-constant-learning-12op)
-- [How to format date, currency or time period?](https://dev.to/bartholomeas/how-to-format-date-currency-or-time-period-58kf)
-- [Automating Infrastructure with Ansible](https://dev.to/markdarby/automating-infrastructure-with-ansible-2bao)
+- [Day 8 of NodeJS|| File System Module || Part2](https://dev.to/akshat0610/day-8-of-nodejs-file-system-module-part2-2ck9)
+- [Meme Monday](https://dev.to/ben/meme-monday-4a0e)
+- [What is Version Control](https://dev.to/thekarlesi/what-is-version-control-1hd5)
+- [A beginner&#39;s guide to data engineering concepts, tools, and responsibilities.](https://dev.to/john_otienoh/a-beginners-guide-to-data-engineering-concepts-tools-and-responsibilities-3pd)
+- [Unlocking Cloud Savings with FinOps: Key Strategies](https://dev.to/unicloud/unlocking-cloud-savings-with-finops-key-strategies-5akg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
