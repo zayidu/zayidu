@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beautifying the HTMLImageElement not-loaded/errored status display, react component](https://dev.to/fromsian/beautifying-the-htmlimageelement-not-loadederrored-status-display-react-component-4dle)
-- [CSS for forms: enhancing user experience](https://dev.to/samsontobiy/css-for-forms-enhancing-user-experience-28)
-- [How to debug a Python and Django application inside a Docker container](https://dev.to/danielcandidos/how-to-debug-a-python-and-django-application-inside-a-docker-container-1nbg)
-- [Ibuprofeno.py💊| #153: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-153-explica-este-codigo-python-2i4e)
-- [100FrontendChallenge - Day 7 - Create account](https://dev.to/t1xx1/100frontendchallenge-day-7-create-account-47o8)
+- [Day 4/10 HTML](https://dev.to/ofameh/day-410-html-4kfl)
+- [ovm &lpar;Obsidian Vaults Manager&rpar;](https://dev.to/mgh/ovm-obsidian-vaults-manager-373k)
+- [Running pyspark jobs on Google Cloud Dataproc](https://dev.to/jader_lima_b72a63be5bbddc/running-pyspark-jobs-on-google-cloud-dataproc-jd1)
+- [Testing JavaScript Code](https://dev.to/tessa001/testing-javascript-code-55ha)
+- [Testing JavaScript Code](https://dev.to/tessa001/testing-javascript-code-3kk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
