@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Today&#39;s Trending Projects: Creating Earth&#39;s Orbital Animation with CSS and More](https://dev.to/labex/todays-trending-projects-creating-earths-orbital-animation-with-css-and-more-39cl)
-- [ServiceNow Xanadu Release: An Overview of Key Upgrades](https://dev.to/sophiasemga/servicenow-xanadu-release-an-overview-of-key-upgrades-3f1o)
-- [Exploring Unsupervised Learning in ML](https://dev.to/dakota_day/exploring-unsupervised-learning-in-ml-4hf)
-- [How to Create a Cloudflare Worker in JavaScript](https://dev.to/codenoun/how-to-create-a-cloudflare-worker-in-javascript-32k2)
-- [Recap of C1 Blog“The Past, Present &amp; Future of Cloud Computing for Businesses”](https://dev.to/agagag/recap-of-the-past-present-future-of-cloud-computing-for-businesses-fhj)
+- [Help me to solve the AI data-matching problem](https://dev.to/sangwoo_rhie/help-me-to-solve-the-ai-data-matching-problem-35o6)
+- [Implementing a Custom Dropdown Component in React with TypeScript and Floating-UI](https://dev.to/radzion/implementing-a-custom-dropdown-component-in-react-with-typescript-and-floating-ui-494j)
+- [Testing Language Learning Models &lpar;LLMs&rpar; with OpenAI and SQuAD Dataset](https://dev.to/copyleftdev/testing-language-learning-models-llms-with-openai-and-squad-dataset-40i2)
+- [Elixir Of Life](https://dev.to/muhammad_faseeh_1717/elixir-of-life-27fo)
+- [The SSH Protocol](https://dev.to/0xw3ston/the-ssh-protocol-1k1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
