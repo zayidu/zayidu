@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [E-Commerce Shopping Cart UI Design – The Best Examples](https://dev.to/pepper_square/e-commerce-shopping-cart-ui-design-the-best-examples-b47)
-- [AWS Interview Questions](https://dev.to/munisekharudavalapat/aws-interview-questions-1232)
-- [Managing Infrastructure as Code at Amazon: Tools, Strategies, and Practices](https://dev.to/adityabhuyan/managing-infrastructure-as-code-at-amazon-tools-strategies-and-practices-3og9)
-- [JavaScript interview questions](https://dev.to/munisekharudavalapat/javascript-interview-questions-5895)
-- [The Key Benefits and Applications of Optical Transceivers in Modern Networking Infrastructure](https://dev.to/adityabhuyan/the-key-benefits-and-applications-of-optical-transceivers-in-modern-networking-infrastructure-10bn)
+- [Encore.ts - Backend Game changer](https://dev.to/shanu001x/encorets-back-end-development-game-changer-3lkl)
+- [The Art of Responsive Web Design: Techniques and Best Practices](https://dev.to/ruthvik_thimmoji_6fde5e61/the-art-of-responsive-web-design-techniques-and-best-practices-2bee)
+- [The Art of Responsive Web Design: Techniques and Best Practices](https://dev.to/ruthvik_thimmoji_6fde5e61/the-art-of-responsive-web-design-techniques-and-best-practices-17io)
+- [Mastering MongoDB Aggregation: A Deep Dive](https://dev.to/alexander_martin_13fd7a40/mastering-mongodb-aggregation-a-deep-dive-3068)
+- [How to test and secure a mail server in Debian and Ubuntu with ispmanager](https://dev.to/ispmanager_com/how-to-test-and-secure-a-mail-server-in-debian-and-ubuntu-with-ispmanager-1ngh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
