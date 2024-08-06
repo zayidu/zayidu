@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reading Fancy Files with Python: A Beginner’s Guide](https://dev.to/stokry/reading-fancy-files-with-python-a-beginners-guide-5fka)
-- [AWS Solution Architect Associate Exam](https://dev.to/subhashbohra/aws-solution-architect-associate-exam-d32)
-- [EC2 Instance Data Persistence and Migration](https://dev.to/mahpara_jabbar_0521a5b816/ec2-instance-data-persistence-and-migration-4glm)
-- [Evolution of Software Architecture: From Mainframes and Monoliths to Distributed Computing](https://dev.to/orkes/evolution-of-software-architecture-from-mainframes-and-monoliths-to-distributed-computing-3g7a)
-- [Mongoose relationship One to One](https://dev.to/munisekharudavalapat/mongoose-relationship-one-to-one-5h1n)
+- [17 Iconic Projects for your Portfolio](https://dev.to/copilotkit/17-iconic-projects-for-your-portfolio-5e5e)
+- [** ¡Alerta spoiler! Desarrolladora + cómic: La combinación perfecta para un superhéroe digital**🧙‍♀️](https://dev.to/orlidev/-alerta-spoiler-desarrolladora-comic-la-combinacion-perfecta-para-un-superheroe-digital-2c8)
+- [Enhancing Your Elixir Codebase with Gleam](https://dev.to/appsignal/enhancing-your-elixir-codebase-with-gleam-329c)
+- [The neophyte developer&#39;s story of creating a product &lpar;2&rpar;](https://dev.to/kingmanimarankv/the-neophyte-developers-story-of-creating-a-product-2-34lp)
+- [Extending Django Models: A Comprehensive Guide](https://dev.to/saim_ansari/extending-django-models-a-comprehensive-guide-o34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
