@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Add Missing Sequence Numbers to One Table according to The Other and Combine Two Tables #eg18](https://dev.to/esproc_spl/add-missing-sequence-numbers-to-one-table-according-to-the-other-and-combine-two-tables-eg18-2m54)
-- [New Rails Designer Tool: beautiful gradients with Tailwind CSS](https://dev.to/railsdesigner/new-rails-designer-tool-beautiful-gradients-with-tailwind-css-ngp)
-- [Optimizing React Applications: Simple Techniques for Better Performance](https://dev.to/zache_niyokwizera_3ea666/optimizing-react-applications-simple-techniques-for-better-performance-30c5)
-- [The Business Value of Refactoring and Testing](https://dev.to/krzykamil/the-business-value-of-refactoring-and-testing-3fce)
-- [Prompt Engineering for Developers: 11 Concepts and Examples](https://dev.to/alexroor4/prompt-engineering-for-developers-11-concepts-and-examples-4d0)
+- [This free AI agent will make you open-source king 👑](https://dev.to/commanddash/this-free-ai-agent-will-make-you-open-source-king-1k9e)
+- [General Coding Standards JavaScript.](https://dev.to/dharamgfx/general-coding-standards-javascript-25kg)
+- [General Coding Standards for Vue js.](https://dev.to/dharamgfx/general-coding-standards-for-vue-js-1e0n)
+- [Message Passing in C++](https://dev.to/pushpendra_sharma_f1d2cbe/message-passing-in-c-128n)
+- [How to Maintain Issue Hierarchy Between Jira and Azure DevOps](https://dev.to/exalateofficial/how-to-maintain-issue-hierarchy-between-jira-and-azure-devops-ilp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
