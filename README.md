@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Data Binding Demo](https://dev.to/chukwuma1976/angular-data-binding-demo-2b1f)
-- [Today&#39;s Trending Projects: Fruit Matching Game with HTML, CSS, JavaScript and More](https://dev.to/labex/todays-trending-projects-fruit-matching-game-with-html-css-javascript-and-more-dd5)
-- [🦫🐘 Advantages of Migrating from PHP to Go](https://dev.to/fonteeboa/advantages-of-migrating-from-php-to-go-4mjk)
-- [I hate Server Actions in Next.js](https://dev.to/themuneebh/i-hate-server-actions-in-nextjs-36mi)
-- [From Parcel to Vite: A short story of a 100K LOC migration](https://dev.to/logto/from-parcel-to-vite-a-short-story-of-a-100k-loc-migration-2m72)
+- [Using Terraform to deploy a docker image on Google Kubernetes Engine](https://dev.to/chauhoangminhnguyen/using-terraform-to-deploy-a-docker-image-on-google-kubernetes-engine-2h0m)
+- [#39 — Define A Dynamic Range of Columns And Perform Aggregation](https://dev.to/judith677/39-define-a-dynamic-range-of-columns-and-perform-aggregation-269b)
+- [Boost Your Productivity with These 50 Essential VS Code Shortcuts 🚀](https://dev.to/gadekar_sachin/boost-your-productivity-with-these-50-essential-vs-code-shortcuts-61h)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;29/07/2024-04/08/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-29072024-04082024-3d7)
+- [My Pen on CodePen](https://dev.to/daire/my-pen-on-codepen-35p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
