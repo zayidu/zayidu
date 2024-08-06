@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Flutter: A Web Developer’s Perspective](https://dev.to/busycaesar/introduction-to-flutter-a-web-developers-perspective-4l8k)
-- [Thinking About Complexity as a Programmer](https://dev.to/ivangavlik/thinking-about-complexity-as-a-programmer-9cd)
-- [VueJS vs ReactJS: Exploring The Key Differences](https://dev.to/get_pieces/vuejs-vs-reactjs-exploring-the-key-differences-1pke)
-- [Cómo Utilizar la Inteligencia Artificial en el Desarrollo de Software](https://dev.to/pakosanchez98/como-utilizar-la-inteligencia-artificial-en-el-desarrollo-de-software-1o0p)
-- [Are You Secretly an Architect?](https://dev.to/davidayres/are-you-secretly-an-architect-phm)
+- [Tired of the punycode deprecation message?](https://dev.to/nullvoxpopuli/tired-of-the-punycode-deprecation-message-40ml)
+- [Programming Memes](https://dev.to/blaze_26/programming-memes-20g6)
+- [What haskellers do not want you to know.](https://dev.to/estebanmarin/what-haskellers-do-not-want-you-to-know-134m)
+- [Programming with AI: Autonomous Agents vs. Our Dream](https://dev.to/refactai_olegklimov/programming-with-ai-autonomous-agents-vs-our-dream-3gon)
+- [How Junior Developers Can Find Project Ideas](https://dev.to/vbr/how-junior-developers-can-find-project-ideas-ckg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
