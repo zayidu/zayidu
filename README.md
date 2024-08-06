@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Personalized Gift Assistant using Lyzr SDK](https://dev.to/akshay007/building-a-personalized-gift-assistant-using-lyzr-sdk-88e)
-- [Exciting New Features in Windowlight&#39;s August Update!](https://dev.to/codewithcaen/exciting-new-features-in-windowlights-august-update-53he)
-- [10 Cool CodePen Demos &lpar;July 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2024-594i)
-- [Introducing OpenSSF Scorecard for OpenSauced](https://dev.to/opensauced/introducing-openssf-scorecard-for-opensauced-1ba7)
-- [SDK vs Runtime](https://dev.to/umida5/sdk-vs-runtime-cfp)
+- [Introduction to Flutter: A Web Developer’s Perspective](https://dev.to/busycaesar/introduction-to-flutter-a-web-developers-perspective-4l8k)
+- [Thinking About Complexity as a Programmer](https://dev.to/ivangavlik/thinking-about-complexity-as-a-programmer-9cd)
+- [VueJS vs ReactJS: Exploring The Key Differences](https://dev.to/get_pieces/vuejs-vs-reactjs-exploring-the-key-differences-1pke)
+- [Cómo Utilizar la Inteligencia Artificial en el Desarrollo de Software](https://dev.to/pakosanchez98/como-utilizar-la-inteligencia-artificial-en-el-desarrollo-de-software-1o0p)
+- [Are You Secretly an Architect?](https://dev.to/davidayres/are-you-secretly-an-architect-phm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
