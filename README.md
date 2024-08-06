@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Terraform to deploy a docker image on Google Kubernetes Engine](https://dev.to/chauhoangminhnguyen/using-terraform-to-deploy-a-docker-image-on-google-kubernetes-engine-2h0m)
-- [#39 — Define A Dynamic Range of Columns And Perform Aggregation](https://dev.to/judith677/39-define-a-dynamic-range-of-columns-and-perform-aggregation-269b)
-- [Boost Your Productivity with These 50 Essential VS Code Shortcuts 🚀](https://dev.to/gadekar_sachin/boost-your-productivity-with-these-50-essential-vs-code-shortcuts-61h)
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;29/07/2024-04/08/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-29072024-04082024-3d7)
-- [My Pen on CodePen](https://dev.to/daire/my-pen-on-codepen-35p)
+- [E-Commerce Shopping Cart UI Design – The Best Examples](https://dev.to/pepper_square/e-commerce-shopping-cart-ui-design-the-best-examples-b47)
+- [AWS Interview Questions](https://dev.to/munisekharudavalapat/aws-interview-questions-1232)
+- [Managing Infrastructure as Code at Amazon: Tools, Strategies, and Practices](https://dev.to/adityabhuyan/managing-infrastructure-as-code-at-amazon-tools-strategies-and-practices-3og9)
+- [JavaScript interview questions](https://dev.to/munisekharudavalapat/javascript-interview-questions-5895)
+- [The Key Benefits and Applications of Optical Transceivers in Modern Networking Infrastructure](https://dev.to/adityabhuyan/the-key-benefits-and-applications-of-optical-transceivers-in-modern-networking-infrastructure-10bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
