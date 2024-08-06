@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leaving the Comfort Zone Behind: The Journey to Developing a Plugin for Obsidian.md](https://dev.to/dariocasciato/leaving-the-comfort-zone-behind-the-journey-to-developing-a-plugin-for-obsidianmd-53hi)
-- [Artificial Intelligence &lpar;AI&rpar; holds immense promis, but it also faces several challenges and risks](https://dev.to/olatunjiayodel9/artificial-intelligence-ai-holds-immense-promis-but-it-also-faces-several-challenges-and-risks-e5m)
-- [📚 技巧和诀窍： MongoDB 属性模式 💻](https://dev.to/mongodb-builder/ji-qiao-he-jue-qiao-mongodbduo-tai-xing-he-yi-chang-zhi-mo-shi-279j)
-- [📚 Tip and Trick: MongoDB Attribute Pattern 💻](https://dev.to/mongodb-builder/tip-and-trick-mongodb-polymorphic-outlier-pattern-2cbg)
-- [How to Scrape Google Shopping with Python: Easy Guide 2024](https://dev.to/oxylabs-io/how-to-scrape-google-shopping-with-python-easy-guide-2024-5149)
+- [OS interview Questions for Freshers 📝](https://dev.to/jemmyasjd/os-interview-questions-for-freshers-4279)
+- [Open to work](https://dev.to/ricardogesteves/open-to-work-3abh)
+- [Análises Estatísticas: Entendendo Quando e Como Utilizá-las](https://dev.to/rvinicius396g/analises-estatisticas-entendendo-quando-e-como-utiliza-las-2n7h)
+- [.NET versiyalari](https://dev.to/sunnat_qayumov_2db67b1ba1/net-versiyalari-20kg)
+- [High-performanc Chat with Websocket &amp; Redis in 10min !](https://dev.to/onepoint/high-performance-chat-with-websocket-redis-in-10min--3337)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
