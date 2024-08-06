@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Embed.WS Early Bird Pro equity on sale](https://dev.to/laohu/embedws-early-bird-pro-equity-on-sale-135c)
-- [Top Project Management Software for Mac Users: What to Choose](https://dev.to/thomasy0ung/top-project-management-software-for-mac-users-what-to-choose-o60)
-- [Day 9 of NodeJS|| HTTP Module](https://dev.to/akshat0610/day-9-of-nodejs-http-module-591j)
-- [Native vs Hybrid vs Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/synapseindia/native-vs-hybrid-vs-progressive-web-apps-pwas-3h9j)
-- [Mongoose Documentation](https://dev.to/munisekharudavalapat/mongoose-documentation-jdc)
+- [.Net tarixi](https://dev.to/mushtariy/net-tarixi-5dkk)
+- [Amazon Event Bridge &lpar;formerly CloudWatch Events&rpar;](https://dev.to/mohsinnaqvipro/amazon-event-bridge-formerly-cloudwatch-events-4k2a)
+- [How to Dockerizing a React App: A Step-by-Step Guide](https://dev.to/om_d_01/how-to-dockerizing-a-react-app-a-step-by-step-guide-9i)
+- [Prerender routes in Angular 18](https://dev.to/xsip/prerender-routes-in-angular-18-3ekl)
+- [Template Literals in TypeScript 📚✍️](https://dev.to/mattlewandowski93/template-literals-in-typescript-i36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
