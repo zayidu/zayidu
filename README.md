@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Releasing LightningChart JS 6.0](https://dev.to/lightningchart/releasing-lightningchart-js-60-2k2e)
-- [The Power of Simplicity: A Forgotten Coding Principle](https://dev.to/doozieakshay/the-power-of-simplicity-a-forgotten-coding-principle-4abf)
-- [New Cert Earned!](https://dev.to/francis_ngugi/new-cert-earned-2jkh)
-- [Creating a Draggable Element Using HTML, CSS, and JavaScript](https://dev.to/code_passion/creating-a-draggable-element-using-html-css-and-javascript-54g7)
-- [What is shift left testing?](https://dev.to/keploy/what-is-shift-left-testing-438b)
+- [Embed.WS Early Bird Pro equity on sale](https://dev.to/laohu/embedws-early-bird-pro-equity-on-sale-135c)
+- [Top Project Management Software for Mac Users: What to Choose](https://dev.to/thomasy0ung/top-project-management-software-for-mac-users-what-to-choose-o60)
+- [Day 9 of NodeJS|| HTTP Module](https://dev.to/akshat0610/day-9-of-nodejs-http-module-591j)
+- [Native vs Hybrid vs Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/synapseindia/native-vs-hybrid-vs-progressive-web-apps-pwas-3h9j)
+- [Mongoose Documentation](https://dev.to/munisekharudavalapat/mongoose-documentation-jdc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
