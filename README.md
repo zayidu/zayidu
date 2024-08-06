@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 4/10 HTML](https://dev.to/ofameh/day-410-html-4kfl)
-- [ovm &lpar;Obsidian Vaults Manager&rpar;](https://dev.to/mgh/ovm-obsidian-vaults-manager-373k)
-- [Running pyspark jobs on Google Cloud Dataproc](https://dev.to/jader_lima_b72a63be5bbddc/running-pyspark-jobs-on-google-cloud-dataproc-jd1)
-- [Testing JavaScript Code](https://dev.to/tessa001/testing-javascript-code-55ha)
-- [Testing JavaScript Code](https://dev.to/tessa001/testing-javascript-code-3kk)
+- [Answers You Need To Know About Azure](https://dev.to/olaniyi_akinkunmi_9c3038f/answers-you-need-to-know-about-azure-fml)
+- [Building Command-Line Tools with Node.js](https://dev.to/kartikmehta8/building-command-line-tools-with-nodejs-47f1)
+- [Building HiddenGems: A Music Discovery Platform](https://dev.to/chimichimi123/building-hiddengems-a-music-discovery-platform-4o4b)
+- [Meta-Programming in JavaScript: An In-Depth Guide](https://dev.to/tessa001/meta-programming-in-javascript-an-in-depth-guide-27j0)
+- [DATA SCIENCE 2024 ROADMAP](https://dev.to/130/data-science-2024-roadmap-331p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
