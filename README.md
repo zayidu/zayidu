@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial: Frontend AI copilot](https://dev.to/buildwebcrumbs/tutorial-frontend-ai-copilot-17db)
-- [The Accessor Protocol](https://dev.to/stdlib/the-accessor-protocol-38eg)
-- [Simple React Component Example](https://dev.to/viveklucky1848/simple-react-component-example-45if)
-- [How would you go about starting your own small webdev agency?](https://dev.to/blaze_26/how-would-you-go-about-starting-your-own-small-webdev-agency-586o)
-- [Difference b/w class variable and instance variable Python](https://dev.to/ankitmalikg/difference-bw-class-variable-and-instance-variable-python-100o)
+- [Arrays multidimensionais](https://dev.to/devsjavagirls/arrays-multidimensionais-1hod)
+- [Tente Isto 5-1: Classifique um array](https://dev.to/devsjavagirls/tente-isto-5-1-classifique-um-array-4790)
+- [Arrays](https://dev.to/devsjavagirls/arrays-4dca)
+- [World of GenAI - Exploring the Depths of Stable Diffusion](https://dev.to/krishsharma0413/world-of-genai-exploring-the-depths-of-stable-diffusion-1id3)
+- [Simulate TCP network congestion with netjam](https://dev.to/bitifet/simulate-tcp-network-congestion-with-netjam-5dm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
