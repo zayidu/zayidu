@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [.Net tarixi](https://dev.to/mushtariy/net-tarixi-5dkk)
-- [Amazon Event Bridge &lpar;formerly CloudWatch Events&rpar;](https://dev.to/mohsinnaqvipro/amazon-event-bridge-formerly-cloudwatch-events-4k2a)
-- [How to Dockerizing a React App: A Step-by-Step Guide](https://dev.to/om_d_01/how-to-dockerizing-a-react-app-a-step-by-step-guide-9i)
-- [Prerender routes in Angular 18](https://dev.to/xsip/prerender-routes-in-angular-18-3ekl)
-- [Template Literals in TypeScript 📚✍️](https://dev.to/mattlewandowski93/template-literals-in-typescript-i36)
+- [Add Missing Sequence Numbers to One Table according to The Other and Combine Two Tables #eg18](https://dev.to/esproc_spl/add-missing-sequence-numbers-to-one-table-according-to-the-other-and-combine-two-tables-eg18-2m54)
+- [New Rails Designer Tool: beautiful gradients with Tailwind CSS](https://dev.to/railsdesigner/new-rails-designer-tool-beautiful-gradients-with-tailwind-css-ngp)
+- [Optimizing React Applications: Simple Techniques for Better Performance](https://dev.to/zache_niyokwizera_3ea666/optimizing-react-applications-simple-techniques-for-better-performance-30c5)
+- [The Business Value of Refactoring and Testing](https://dev.to/krzykamil/the-business-value-of-refactoring-and-testing-3fce)
+- [Prompt Engineering for Developers: 11 Concepts and Examples](https://dev.to/alexroor4/prompt-engineering-for-developers-11-concepts-and-examples-4d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
