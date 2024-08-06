@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Answers You Need To Know About Azure](https://dev.to/olaniyi_akinkunmi_9c3038f/answers-you-need-to-know-about-azure-fml)
-- [Building Command-Line Tools with Node.js](https://dev.to/kartikmehta8/building-command-line-tools-with-nodejs-47f1)
-- [Building HiddenGems: A Music Discovery Platform](https://dev.to/chimichimi123/building-hiddengems-a-music-discovery-platform-4o4b)
-- [Meta-Programming in JavaScript: An In-Depth Guide](https://dev.to/tessa001/meta-programming-in-javascript-an-in-depth-guide-27j0)
-- [DATA SCIENCE 2024 ROADMAP](https://dev.to/130/data-science-2024-roadmap-331p)
+- [Angular Data Binding Demo](https://dev.to/chukwuma1976/angular-data-binding-demo-2b1f)
+- [Today&#39;s Trending Projects: Fruit Matching Game with HTML, CSS, JavaScript and More](https://dev.to/labex/todays-trending-projects-fruit-matching-game-with-html-css-javascript-and-more-dd5)
+- [🦫🐘 Advantages of Migrating from PHP to Go](https://dev.to/fonteeboa/advantages-of-migrating-from-php-to-go-4mjk)
+- [I hate Server Actions in Next.js](https://dev.to/themuneebh/i-hate-server-actions-in-nextjs-36mi)
+- [From Parcel to Vite: A short story of a 100K LOC migration](https://dev.to/logto/from-parcel-to-vite-a-short-story-of-a-100k-loc-migration-2m72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
