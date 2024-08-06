@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Retrieval Augmented Generation &lpar;RAG&rpar;: Chunking, LLMs, and Evaluations](https://dev.to/zilliz/exploring-retrieval-augmented-generation-rag-chunking-llms-and-evaluations-3fbn)
-- [Free Node.js Hosting: A Quick Guide](https://dev.to/adya_kalhari/free-nodejs-hosting-a-quick-guide-3p87)
-- [Accessibility in React: Building Inclusive Web Applications](https://dev.to/wallacefreitas/accessibility-in-react-building-inclusive-web-applications-4b4k)
-- [SAPUI5 - Table Cell Coloring](https://dev.to/kiranuknow/sapui5-table-cell-coloring-368g)
-- [Essential Web Development Tools and Frameworks for 2024](https://dev.to/lee098745/essential-web-development-tools-and-frameworks-for-2024-2d2d)
+- [Secret-Key and Public-Key Cryptography explained as if you&#39;d have the brains of a teenager from a slasher movie](https://dev.to/taskill/secret-key-and-public-key-cryptography-explained-as-if-youd-have-the-brains-of-a-teenager-from-a-slasher-movie-5h54)
+- [Object Literals](https://dev.to/meganpaffrath/object-literals-1d93)
+- [Clustering Factor for YugabyteDB Index Scan: correlation between secondary indexes and the primary key](https://dev.to/yugabyte/clustering-factor-for-yugabytedb-index-scan-correlation-between-secondary-indexes-and-the-primary-key-1fia)
+- [Estudando para a certificação do GCP - Associate Cloud Engineer - 1](https://dev.to/carolrochafloro/estudando-para-a-certificacao-de-associate-cloud-engineer-gcp-12n7)
+- [Trade any Token on Solana, Including Meme Coins, in Your Code](https://dev.to/desprdo/trade-any-token-on-solana-including-meme-coins-in-your-code-3lj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
