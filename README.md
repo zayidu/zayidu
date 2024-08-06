@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Code Snippets:&rpar;](https://dev.to/madgan95/java-code-snippets-3oc3)
-- [Secure Multifunctional Nginx Reverse Proxy](https://dev.to/dameyerdave/secure-multifunctional-nginx-reverse-proxy-2l97)
-- [cypress异步查找元素等待找到立马下一步操作，取消等待](https://dev.to/dennischeung/cypressyi-bu-cha-zhao-yuan-su-deng-dai-zhao-dao-li-ma-xia-bu-cao-zuo-qu-xiao-deng-dai-2h7g)
-- [Automate the Gruntwork: Why Developers and Companies Should Use &#39;Patched&#39;](https://dev.to/greyisheepai/automate-the-gruntwork-why-developers-and-companies-should-use-patched-46l5)
-- [EPP vs EDR: What is the Difference?](https://dev.to/clouddefenseai/epp-vs-edr-what-is-the-difference-4k5j)
+- [Leaving the Comfort Zone Behind: The Journey to Developing a Plugin for Obsidian.md](https://dev.to/dariocasciato/leaving-the-comfort-zone-behind-the-journey-to-developing-a-plugin-for-obsidianmd-53hi)
+- [Artificial Intelligence &lpar;AI&rpar; holds immense promis, but it also faces several challenges and risks](https://dev.to/olatunjiayodel9/artificial-intelligence-ai-holds-immense-promis-but-it-also-faces-several-challenges-and-risks-e5m)
+- [📚 技巧和诀窍： MongoDB 属性模式 💻](https://dev.to/mongodb-builder/ji-qiao-he-jue-qiao-mongodbduo-tai-xing-he-yi-chang-zhi-mo-shi-279j)
+- [📚 Tip and Trick: MongoDB Attribute Pattern 💻](https://dev.to/mongodb-builder/tip-and-trick-mongodb-polymorphic-outlier-pattern-2cbg)
+- [How to Scrape Google Shopping with Python: Easy Guide 2024](https://dev.to/oxylabs-io/how-to-scrape-google-shopping-with-python-easy-guide-2024-5149)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
