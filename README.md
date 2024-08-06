@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of the punycode deprecation message?](https://dev.to/nullvoxpopuli/tired-of-the-punycode-deprecation-message-40ml)
-- [Programming Memes](https://dev.to/blaze_26/programming-memes-20g6)
-- [What haskellers do not want you to know.](https://dev.to/estebanmarin/what-haskellers-do-not-want-you-to-know-134m)
-- [Programming with AI: Autonomous Agents vs. Our Dream](https://dev.to/refactai_olegklimov/programming-with-ai-autonomous-agents-vs-our-dream-3gon)
-- [How Junior Developers Can Find Project Ideas](https://dev.to/vbr/how-junior-developers-can-find-project-ideas-ckg)
+- [Tutorial: Frontend AI copilot](https://dev.to/buildwebcrumbs/tutorial-frontend-ai-copilot-17db)
+- [The Accessor Protocol](https://dev.to/stdlib/the-accessor-protocol-38eg)
+- [Simple React Component Example](https://dev.to/viveklucky1848/simple-react-component-example-45if)
+- [How would you go about starting your own small webdev agency?](https://dev.to/blaze_26/how-would-you-go-about-starting-your-own-small-webdev-agency-586o)
+- [Difference b/w class variable and instance variable Python](https://dev.to/ankitmalikg/difference-bw-class-variable-and-instance-variable-python-100o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
