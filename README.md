@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Arrays multidimensionais](https://dev.to/devsjavagirls/arrays-multidimensionais-1hod)
-- [Tente Isto 5-1: Classifique um array](https://dev.to/devsjavagirls/tente-isto-5-1-classifique-um-array-4790)
-- [Arrays](https://dev.to/devsjavagirls/arrays-4dca)
-- [World of GenAI - Exploring the Depths of Stable Diffusion](https://dev.to/krishsharma0413/world-of-genai-exploring-the-depths-of-stable-diffusion-1id3)
-- [Simulate TCP network congestion with netjam](https://dev.to/bitifet/simulate-tcp-network-congestion-with-netjam-5dm9)
+- [Issue 56 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-56-of-aws-cloud-security-weekly-369b)
+- [Polyglotta -- A Multilingual translator](https://dev.to/afeezee/polyglotta-a-multilingual-translator-33oh)
+- [Understanding Bubble Sort: Simple Sorting Method](https://dev.to/vampirepapi/understanding-bubble-sort-simple-sorting-method-1gj7)
+- [Dynamic Image Sizing &amp; Optimization](https://dev.to/okeamah/dynamic-image-sizing-optimization-3ehb)
+- [3016. Minimum Number of Pushes to Type Word II](https://dev.to/mdarifulhaque/3016-minimum-number-of-pushes-to-type-word-ii-4epo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
