@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OS interview Questions for Freshers 📝](https://dev.to/jemmyasjd/os-interview-questions-for-freshers-4279)
-- [Open to work](https://dev.to/ricardogesteves/open-to-work-3abh)
-- [Análises Estatísticas: Entendendo Quando e Como Utilizá-las](https://dev.to/rvinicius396g/analises-estatisticas-entendendo-quando-e-como-utiliza-las-2n7h)
-- [.NET versiyalari](https://dev.to/sunnat_qayumov_2db67b1ba1/net-versiyalari-20kg)
-- [High-performanc Chat with Websocket &amp; Redis in 10min !](https://dev.to/onepoint/high-performance-chat-with-websocket-redis-in-10min--3337)
+- [Exploring Retrieval Augmented Generation &lpar;RAG&rpar;: Chunking, LLMs, and Evaluations](https://dev.to/zilliz/exploring-retrieval-augmented-generation-rag-chunking-llms-and-evaluations-3fbn)
+- [Free Node.js Hosting: A Quick Guide](https://dev.to/adya_kalhari/free-nodejs-hosting-a-quick-guide-3p87)
+- [Accessibility in React: Building Inclusive Web Applications](https://dev.to/wallacefreitas/accessibility-in-react-building-inclusive-web-applications-4b4k)
+- [SAPUI5 - Table Cell Coloring](https://dev.to/kiranuknow/sapui5-table-cell-coloring-368g)
+- [Essential Web Development Tools and Frameworks for 2024](https://dev.to/lee098745/essential-web-development-tools-and-frameworks-for-2024-2d2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
