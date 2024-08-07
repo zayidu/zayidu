@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Write Commits Like a Pro: 5 Key Rules + 25 Bonus Verbs](https://dev.to/tomasdevs/write-commits-like-a-pro-5-key-rules-25-bonus-verbs-fjo)
-- [🔍 Understanding the N+1 Problem: A Common Performance Pitfall in Database Queries 🛠️](https://dev.to/felipejansendeveloper/understanding-the-n1-problem-a-common-performance-pitfall-in-database-queries-304j)
-- [AI Landing Page](https://dev.to/ricot_trevivi_db742677ac5/ai-landing-page-1oh8)
-- [Variables - o&#39;zgaruvchilar.](https://dev.to/sunnat_qayumov_2db67b1ba1/variables-ozgaruvchilar-2kj5)
-- [Unlocking Ironclad AWS Security: Mastering Network ACLs and Security Groups](https://dev.to/ikoh_sylva/unlocking-ironclad-aws-security-mastering-network-acls-and-security-groups-27ak)
+- [What is &quot;Page&quot; in postgres?](https://dev.to/sudheer_gajula_6e0382c493/what-is-page-in-postgres-3kof)
+- [Day 5/10 | HTML](https://dev.to/ofameh/day-510-html-1d3g)
+- [Day 5/10 | HTML](https://dev.to/ofameh/day-510-html-1k3j)
+- [Weekly Summary](https://dev.to/janet0717/weekly-summary-42l5)
+- [Day 7](https://dev.to/janet0717/day-7-1ck1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
