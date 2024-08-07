@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello](https://dev.to/mycontent/hello-3b2h)
-- [Mastering Android Customization: Unleashing the Full Potential of Your Google Pixel](https://dev.to/srikanthamsa/mastering-android-customization-unleashing-the-full-potential-of-your-google-pixel-53dh)
-- [Day 37 of 100 Days of Code](https://dev.to/jacobsternx/day-37-of-100-days-of-code-56k5)
-- [Dev.to 2-Series: How to get started on writing code](https://dev.to/farheen_sk/devto-2-series-how-to-get-started-on-writing-code-534p)
-- [React Tiptap Editor](https://dev.to/hunghg255/react-tiptap-editor-3i22)
+- [Rest API Testing: How to test Rest APIs properly!](https://dev.to/webdeasy/rest-api-testing-how-to-test-rest-apis-properly-1bh6)
+- [Customer Service: Definition, Roles, and Benefits](https://dev.to/barantumcrm/customer-service-definition-roles-and-benefits-3iab)
+- [🚀 93 Projects, 1 Success Story: My Journey with Easy UI PRO](https://dev.to/darkinventor/93-projects-1-success-story-my-journey-with-easy-ui-pro-3c3e)
+- [Case-Based Depression Detection on Twitter using Large Language Models with Human-Readable Explanations](https://dev.to/mikeyoung44/case-based-depression-detection-on-twitter-using-large-language-models-with-human-readable-explanations-1cjb)
+- [Database Indexes](https://dev.to/sudheer_gajula_6e0382c493/database-indexes-44aa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
