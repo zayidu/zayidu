@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Modern Web APIs: Your Guide to Powerful Browser Features in 2024](https://dev.to/vyan/mastering-modern-web-apis-your-guide-to-powerful-browser-features-in-2024-4ec)
-- [X3NOS - Day 2](https://dev.to/xentzenith/x3nos-day-2-30lg)
-- [#40 — Group And Summarize A Tree Structure Table](https://dev.to/judith677/40-group-and-summarize-a-tree-structure-table-1edm)
-- [When to Consider Design Patterns](https://dev.to/lazypro/when-to-consider-design-patterns-45np)
-- [Looping over string](https://dev.to/babacar_diakite_c72e6eee2/looping-over-string-1l49)
+- [Welcome Thread - v288](https://dev.to/devteam/welcome-thread-v288-2mo)
+- [Kubernetes probes: startupProbe, livenssProbe, and readinessProbe](https://dev.to/jacktt/kubernetes-probes-livenssprobe-readinessprobe-and-startupprobe-3j37)
+- [Implementing a Comprehensive Data Loss Prevention &lpar;DLP&rpar; Strategy](https://dev.to/adityabhuyan/implementing-a-comprehensive-data-loss-prevention-dlp-strategy-4e2a)
+- [Find the Average of N Numbers in C](https://dev.to/labex/find-the-average-of-n-numbers-in-c-1ifp)
+- [How to Quickly Set Up a Rails Development Environment](https://dev.to/hikarimaeda/how-to-quickly-set-up-a-rails-development-environment-7ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
