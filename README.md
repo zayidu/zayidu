@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Issue 56 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-56-of-aws-cloud-security-weekly-369b)
-- [Polyglotta -- A Multilingual translator](https://dev.to/afeezee/polyglotta-a-multilingual-translator-33oh)
-- [Understanding Bubble Sort: Simple Sorting Method](https://dev.to/vampirepapi/understanding-bubble-sort-simple-sorting-method-1gj7)
-- [Dynamic Image Sizing &amp; Optimization](https://dev.to/okeamah/dynamic-image-sizing-optimization-3ehb)
-- [3016. Minimum Number of Pushes to Type Word II](https://dev.to/mdarifulhaque/3016-minimum-number-of-pushes-to-type-word-ii-4epo)
+- [Implementing Wallet Connect Verification with Siwe-java](https://dev.to/embedws/implementing-wallet-connect-verification-with-siwe-java-3ae6)
+- [Using Nuxt.js for Server-Side Rendering in Vue](https://dev.to/kartikmehta8/using-nuxtjs-for-server-side-rendering-in-vue-kik)
+- [Symfony Station Communiqué - 2 August 2024: A Look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-2-august-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-ic1)
+- [Using AI to facilitate backend logic](https://dev.to/brraia/using-ai-to-facilitate-backend-logic-3ahb)
+- [Problemas com rebuilds ao navegar? Acho que posso te ajudar.](https://dev.to/gguedes/tela-sendo-reconstruindo-ao-navegar-acho-que-posso-te-ajudar-2n1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
