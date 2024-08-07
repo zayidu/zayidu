@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Node.js Logging Best Practices for Robust Applications 🚀](https://dev.to/alertyai/top-10-nodejs-logging-best-practices-for-robust-applications-3ol4)
-- [Comparing the copyToClipboard implementations in Shadcn-ui/ui and Codehike.](https://dev.to/ramunarasinga/comparing-the-copytoclipboard-implementations-in-shadcn-uiui-and-codehike-4kog)
-- [Proxy for closed action on Pull Request [DroneCI + GitHub]](https://dev.to/tcharlezin/proxy-for-closed-action-on-pull-request-droneci-github-1f6e)
-- [Hey guys, I&#39;m new to this space and I&#39;m really looking forward to learning a lot.](https://dev.to/mari_tech_sis/hey-guys-im-new-to-this-space-and-im-really-looking-forward-to-learning-a-lot-9ji)
-- [PHP Reference](https://dev.to/moraa_oo_b141544e9be30688/php-reference-1jan)
+- [After Reviewing 500+ React Components, Here’s What I Have Learned](https://dev.to/safdarali/after-reviewing-500-react-components-heres-what-i-have-learned-14be)
+- [The 2024s: State of DevOps](https://dev.to/femolacaster/the-2024s-state-of-devops-4l6i)
+- [Cut the Code: Software Testing Without the Bloat](https://dev.to/rishisap/cut-the-code-software-testing-without-the-bloat-49em)
+- [Day 1005 : Evening](https://dev.to/dwane/day-1005-evening-4lob)
+- [Horizontal vs. Vertical Scaling: A Concise Overview](https://dev.to/suyashsalvi/horizontal-vs-vertical-scaling-a-concise-overview-2ha9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
