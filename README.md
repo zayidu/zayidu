@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rest API Testing: How to test Rest APIs properly!](https://dev.to/webdeasy/rest-api-testing-how-to-test-rest-apis-properly-1bh6)
-- [Customer Service: Definition, Roles, and Benefits](https://dev.to/barantumcrm/customer-service-definition-roles-and-benefits-3iab)
-- [🚀 93 Projects, 1 Success Story: My Journey with Easy UI PRO](https://dev.to/darkinventor/93-projects-1-success-story-my-journey-with-easy-ui-pro-3c3e)
-- [Case-Based Depression Detection on Twitter using Large Language Models with Human-Readable Explanations](https://dev.to/mikeyoung44/case-based-depression-detection-on-twitter-using-large-language-models-with-human-readable-explanations-1cjb)
-- [Database Indexes](https://dev.to/sudheer_gajula_6e0382c493/database-indexes-44aa)
+- [Approaching Brute Force Algorithm Using Javascript](https://dev.to/ashutoshsarangi/approaching-brute-force-algorithm-using-javascript-4ppl)
+- [Understanding Storage in Kubernetes: A Deep Dive into Persistent Volumes and Persistent Volume Claims](https://dev.to/jensen1806/understanding-storage-in-kubernetes-a-deep-dive-into-persistent-volumes-and-persistent-volume-claims-e6k)
+- [Yesterday, I released something on Hacker News for the first time ever. Lesson learned.](https://dev.to/rita/yesterday-i-released-something-on-hacker-news-for-the-first-time-ever-5487)
+- [Integrating LangDB with Your Existing Databases: PostgreSQL, MySQL, MongoDB, and More](https://dev.to/mrunmaylangdb/integrating-langdb-with-your-existing-databases-postgresql-mysql-mongodb-and-more-ed0)
+- [Everyone keeps saying to document your code, what do they actually mean](https://dev.to/dunsincodes/everyone-keeps-saying-to-document-your-code-what-do-they-actually-mean-4fin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
