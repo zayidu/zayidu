@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sending Calendar Invites with React and SMTP Express](https://dev.to/devyoma/sending-calendar-invites-with-react-and-smtp-express-2e57)
-- [How I rebuilt a Front End Mentor Project with TypeScript](https://dev.to/kansoldev/how-i-rebuilt-a-front-end-mentor-project-with-typescript-b59)
-- [Partial Interface Implementation in C# Base/Abstract Classes](https://dev.to/waelhabbal/partial-interface-implementation-in-c-baseabstract-classes-e4a)
-- [Python PDB Code Review Report](https://dev.to/mengqinyuan/python-pdb-code-review-report-3f51)
-- [Form Validation in React: An In-Depth Tutorial with Hooks and React Hook Form](https://dev.to/parthprajapatispan/form-validation-in-react-an-in-depth-tutorial-with-hooks-and-react-hook-form-154m)
+- [Android Dev with web Tools: fastest way to production with Ionic React](https://dev.to/sfundomhlungu/android-dev-with-web-tools-fastest-way-to-production-with-ionic-react-5ag4)
+- [**Superpoderes para tus componentes: Edna Moda y Angular, una combinación explosiva**👩🏻](https://dev.to/orlidev/superpoderes-para-tus-componentes-edna-moda-y-angular-una-combinacion-explosiva-np1)
+- [Open Source and Capitalism](https://dev.to/opensourceadvocate/open-source-and-capitalism-1pdn)
+- [How to Get Data from Google Trends Using Python](https://dev.to/oxylabs-io/how-to-get-data-from-google-trends-using-python-4958)
+- [What I learnt from my first week in Awesomity as an intern](https://dev.to/twizeyimana_gedeon_ef51c1/what-i-learnt-from-my-first-week-in-awesomity-as-an-intern-2abd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
