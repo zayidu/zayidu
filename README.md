@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Android Dev with web Tools: fastest way to production with Ionic React](https://dev.to/sfundomhlungu/android-dev-with-web-tools-fastest-way-to-production-with-ionic-react-5ag4)
-- [**Superpoderes para tus componentes: Edna Moda y Angular, una combinación explosiva**👩🏻](https://dev.to/orlidev/superpoderes-para-tus-componentes-edna-moda-y-angular-una-combinacion-explosiva-np1)
-- [Open Source and Capitalism](https://dev.to/opensourceadvocate/open-source-and-capitalism-1pdn)
-- [How to Get Data from Google Trends Using Python](https://dev.to/oxylabs-io/how-to-get-data-from-google-trends-using-python-4958)
-- [What I learnt from my first week in Awesomity as an intern](https://dev.to/twizeyimana_gedeon_ef51c1/what-i-learnt-from-my-first-week-in-awesomity-as-an-intern-2abd)
+- [How to Create a Adult Membership Website?](https://dev.to/scarlettevans09/how-to-create-a-adult-membership-website-33jg)
+- [Boost Your Job Hunt with Our Application Tracker Tool](https://dev.to/raajaryan/boost-your-job-hunt-with-our-application-tracker-tool-3357)
+- [1. Two Sum-Arrays &amp; Hashing](https://dev.to/vampirepapi/1-two-sum-arrays-hashing-1dpj)
+- [Why You Should Learn Kubernetes](https://dev.to/devsatasurion/why-you-should-learn-kubernetes-p8k)
+- [Desafio: Criar um App em React Native Usando Apenas ChatGPT](https://dev.to/pedrobarreto/desafio-criar-um-app-em-react-native-usando-apenas-chatgpt-27db)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
