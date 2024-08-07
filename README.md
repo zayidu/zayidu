@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript: Functions, Function Expressions, Objects, Methods, and this](https://dev.to/meganpaffrath/javascript-functions-function-expressions-objects-methods-and-this-1jei)
-- [Porting Phi-3-Vision to MLX: A Python Hobbyist&#39;s Journey](https://dev.to/josef_albers_fc59b610c5de/porting-phi-3-vision-to-mlx-a-python-hobbyists-journey-2l2k)
-- [Video Production with Streamtasks](https://dev.to/leopf/video-production-with-streamtasks-36hl)
-- [You won&#39;t believe it! Open-source social media app](https://dev.to/ezpieco/you-wont-believe-it-open-source-social-media-app-n8a)
-- [Today&#39;s Trending Projects: Build a Tic-Tac-Toe Web App and More](https://dev.to/labex/todays-trending-projects-build-a-tic-tac-toe-web-app-and-more-3ii8)
+- [Mastering Modern Web APIs: Your Guide to Powerful Browser Features in 2024](https://dev.to/vyan/mastering-modern-web-apis-your-guide-to-powerful-browser-features-in-2024-4ec)
+- [X3NOS - Day 2](https://dev.to/xentzenith/x3nos-day-2-30lg)
+- [#40 — Group And Summarize A Tree Structure Table](https://dev.to/judith677/40-group-and-summarize-a-tree-structure-table-1edm)
+- [When to Consider Design Patterns](https://dev.to/lazypro/when-to-consider-design-patterns-45np)
+- [Looping over string](https://dev.to/babacar_diakite_c72e6eee2/looping-over-string-1l49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
