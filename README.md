@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Subsystems&quot; Are Actually Requirement Packages](https://dev.to/jiayufagao/subsystems-are-actually-requirement-packages-25l0)
-- [I Built This Tool That Boosted My Coding by 10x: You Can Do It Too! 🚀](https://dev.to/composiodev/i-built-this-tool-that-boosted-my-coding-by-10x-you-can-do-it-too-3l10)
-- [🔍 金融行业对话：MongoDB设备同步（移动应用平台）](https://dev.to/mongodb-builder/jin-rong-xing-ye-dui-hua-mongodbshe-bei-tong-bu-yi-dong-ying-yong-ping-tai--pe1)
-- [🔍 Financial Industry Side Chat: MongoDB Device Sync for Multi-Mobile Application Platform](https://dev.to/mongodb-builder/financial-industry-side-chat-mongodb-device-sync-for-multi-mobile-application-platform-4ob9)
-- [Raising Series A almost killed my startup :&lpar;](https://dev.to/johnrushx/raising-series-a-almost-killed-my-startup--25l)
+- [Ship a SaaS From Zero to Customers in One Month](https://dev.to/railsdesigner/ship-a-saas-from-zero-to-customers-in-one-month-475k)
+- [The Best Tool for Real Content Attribution? The Fermi Problem](https://dev.to/daedtech/the-best-tool-for-real-content-attribution-the-fermi-problem-4mhe)
+- [Testing Only](https://dev.to/engowl/testing-only-3gij)
+- [TEXT এ গ্র্যাডিয়েন্ট লাগান CSS এর মাধ্যমে ।](https://dev.to/shahriarcode/text-e-gryaaddiyyentt-laagaan-css-er-maadhyme--1pm6)
+- [ChatGPT can be used for various business applications](https://dev.to/olatunjiayodel9/chatgpt-can-be-used-for-various-business-applications-2iip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
