@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧑‍💻 5 Tools to Make Your Dev Life Easier in 2024 &lpar;Plus, Master Box Shadows!&rpar;](https://dev.to/adam/5-tools-to-make-your-dev-life-easier-in-2024-plus-master-box-shadows-2p9m)
-- [🛠️ Essential Git Commands for Professional Employers 🌟](https://dev.to/gadekar_sachin/essential-git-commands-for-professional-employers-32k4)
-- [🖥️ Unraveling the Mysteries of ARM Chips: A Comprehensive Analysis for Tech Enthusiasts 🤖](https://dev.to/akarshjha10/unraveling-the-mysteries-of-arm-chips-a-comprehensive-analysis-for-tech-enthusiasts-48l0)
-- [📁 5 Reasons Every Web Developer and Designer Needs a Portfolio](https://dev.to/shahriarcode/5-reasons-every-web-developer-and-designer-needs-a-portfolio-3fol)
-- [The End of X &lpar;Or, It Should Be&rpar;: How Elon Killed Twitter](https://dev.to/lukeocodes/the-end-of-x-or-it-should-be-how-elon-killed-twitter-4586)
+- [Write Commits Like a Pro: 5 Key Rules + 25 Bonus Verbs](https://dev.to/tomasdevs/write-commits-like-a-pro-5-key-rules-25-bonus-verbs-fjo)
+- [🔍 Understanding the N+1 Problem: A Common Performance Pitfall in Database Queries 🛠️](https://dev.to/felipejansendeveloper/understanding-the-n1-problem-a-common-performance-pitfall-in-database-queries-304j)
+- [AI Landing Page](https://dev.to/ricot_trevivi_db742677ac5/ai-landing-page-1oh8)
+- [Variables - o&#39;zgaruvchilar.](https://dev.to/sunnat_qayumov_2db67b1ba1/variables-ozgaruvchilar-2kj5)
+- [Unlocking Ironclad AWS Security: Mastering Network ACLs and Security Groups](https://dev.to/ikoh_sylva/unlocking-ironclad-aws-security-mastering-network-acls-and-security-groups-27ak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
