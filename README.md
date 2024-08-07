@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wings Engine: Smart agriculture enters a new era of intelligence](https://dev.to/samuel67/wings-engine-smart-agriculture-enters-a-new-era-of-intelligence-217n)
-- [Share your LLM-based project! 🤖 🪄](https://dev.to/latitude/share-your-llm-based-project-37ij)
-- [Leveraging ChatGPT to Enhance Developers&#39; Daily Workflow](https://dev.to/mysticcoder/leveraging-chatgpt-to-enhance-developers-daily-workflow-2hi5)
-- [Predictions for the future of startups:](https://dev.to/johnrushx/predictions-for-the-future-of-startups-4io1)
-- [SATURATING INFINIBAND BANDWIDTH WITH XIRAID, TO KEEP NVIDIA DGX BUSY](https://dev.to/pltnvs/saturating-infiniband-bandwidth-with-xiraid-to-keep-nvidia-dgx-busy-c1g)
+- [Sending Calendar Invites with React and SMTP Express](https://dev.to/devyoma/sending-calendar-invites-with-react-and-smtp-express-2e57)
+- [How I rebuilt a Front End Mentor Project with TypeScript](https://dev.to/kansoldev/how-i-rebuilt-a-front-end-mentor-project-with-typescript-b59)
+- [Partial Interface Implementation in C# Base/Abstract Classes](https://dev.to/waelhabbal/partial-interface-implementation-in-c-baseabstract-classes-e4a)
+- [Python PDB Code Review Report](https://dev.to/mengqinyuan/python-pdb-code-review-report-3f51)
+- [Form Validation in React: An In-Depth Tutorial with Hooks and React Hook Form](https://dev.to/parthprajapatispan/form-validation-in-react-an-in-depth-tutorial-with-hooks-and-react-hook-form-154m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
