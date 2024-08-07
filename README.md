@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploratory Data Analysis&lpar;EDA&rpar;](https://dev.to/stephen_quadross/exploratory-data-analysiseda-34oh)
-- [Milvus Adventures August 7, 2024](https://dev.to/chrischurilo/milvus-adventures-august-7-2024-1o10)
-- [Variables](https://dev.to/asilbek_ibragimov_a0c27cc/variables-527f)
-- [Fixing Complex Functions and Making Code Modular and Reusable](https://dev.to/codeantai/fixing-complex-functions-and-making-code-modular-and-reusable-1pip)
-- [Guía Básica de Prompt Engineering: Parte 1 - Técnicas Esenciales para Escribir Prompts Efectivos](https://dev.to/wizsebastian/guia-basica-de-prompt-engineering-parte-1-tecnicas-esenciales-para-escribir-prompts-efectivos-35j8)
+- [Top 10 Node.js Logging Best Practices for Robust Applications 🚀](https://dev.to/alertyai/top-10-nodejs-logging-best-practices-for-robust-applications-3ol4)
+- [Comparing the copyToClipboard implementations in Shadcn-ui/ui and Codehike.](https://dev.to/ramunarasinga/comparing-the-copytoclipboard-implementations-in-shadcn-uiui-and-codehike-4kog)
+- [Proxy for closed action on Pull Request [DroneCI + GitHub]](https://dev.to/tcharlezin/proxy-for-closed-action-on-pull-request-droneci-github-1f6e)
+- [Hey guys, I&#39;m new to this space and I&#39;m really looking forward to learning a lot.](https://dev.to/mari_tech_sis/hey-guys-im-new-to-this-space-and-im-really-looking-forward-to-learning-a-lot-9ji)
+- [PHP Reference](https://dev.to/moraa_oo_b141544e9be30688/php-reference-1jan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
