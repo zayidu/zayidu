@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Adult Membership Website?](https://dev.to/scarlettevans09/how-to-create-a-adult-membership-website-33jg)
-- [Boost Your Job Hunt with Our Application Tracker Tool](https://dev.to/raajaryan/boost-your-job-hunt-with-our-application-tracker-tool-3357)
-- [1. Two Sum-Arrays &amp; Hashing](https://dev.to/vampirepapi/1-two-sum-arrays-hashing-1dpj)
-- [Why You Should Learn Kubernetes](https://dev.to/devsatasurion/why-you-should-learn-kubernetes-p8k)
-- [Desafio: Criar um App em React Native Usando Apenas ChatGPT](https://dev.to/pedrobarreto/desafio-criar-um-app-em-react-native-usando-apenas-chatgpt-27db)
+- [🗒️ Get Started: MongoDB Flexible Document Data Model &amp; Query Overview](https://dev.to/mongodb-builder/get-started-mongodb-flexible-document-data-model-query-overview-3897)
+- [7 best product tour JavaScript libraries for frontend apps](https://dev.to/logrocket/7-best-product-tour-javascript-libraries-for-frontend-apps-1o46)
+- [How I&#39;m fighting my phone addiciton](https://dev.to/nazarhapak/how-im-fighting-my-phone-addiciton-31k5)
+- [What it takes for a growth-stage startup to grow?](https://dev.to/grocto/what-it-takes-for-a-growth-stage-startup-to-grow-328e)
+- [Running Text-To-SQL on MongoDB: Working with Postgres, MySQL, MongoDB and Others](https://dev.to/mrunmaylangdb/running-text-to-sql-on-mongodb-working-with-postgres-mysql-mongodb-and-others-2cgg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
