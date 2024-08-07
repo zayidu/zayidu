@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Wallet Connect Verification with Siwe-java](https://dev.to/embedws/implementing-wallet-connect-verification-with-siwe-java-3ae6)
-- [Using Nuxt.js for Server-Side Rendering in Vue](https://dev.to/kartikmehta8/using-nuxtjs-for-server-side-rendering-in-vue-kik)
-- [Symfony Station Communiqué - 2 August 2024: A Look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-2-august-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-ic1)
-- [Using AI to facilitate backend logic](https://dev.to/brraia/using-ai-to-facilitate-backend-logic-3ahb)
-- [Problemas com rebuilds ao navegar? Acho que posso te ajudar.](https://dev.to/gguedes/tela-sendo-reconstruindo-ao-navegar-acho-que-posso-te-ajudar-2n1e)
+- [JavaScript: Functions, Function Expressions, Objects, Methods, and this](https://dev.to/meganpaffrath/javascript-functions-function-expressions-objects-methods-and-this-1jei)
+- [Porting Phi-3-Vision to MLX: A Python Hobbyist&#39;s Journey](https://dev.to/josef_albers_fc59b610c5de/porting-phi-3-vision-to-mlx-a-python-hobbyists-journey-2l2k)
+- [Video Production with Streamtasks](https://dev.to/leopf/video-production-with-streamtasks-36hl)
+- [You won&#39;t believe it! Open-source social media app](https://dev.to/ezpieco/you-wont-believe-it-open-source-social-media-app-n8a)
+- [Today&#39;s Trending Projects: Build a Tic-Tac-Toe Web App and More](https://dev.to/labex/todays-trending-projects-build-a-tic-tac-toe-web-app-and-more-3ii8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
