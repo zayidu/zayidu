@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🗒️ Get Started: MongoDB Flexible Document Data Model &amp; Query Overview](https://dev.to/mongodb-builder/get-started-mongodb-flexible-document-data-model-query-overview-3897)
-- [7 best product tour JavaScript libraries for frontend apps](https://dev.to/logrocket/7-best-product-tour-javascript-libraries-for-frontend-apps-1o46)
-- [How I&#39;m fighting my phone addiciton](https://dev.to/nazarhapak/how-im-fighting-my-phone-addiciton-31k5)
-- [What it takes for a growth-stage startup to grow?](https://dev.to/grocto/what-it-takes-for-a-growth-stage-startup-to-grow-328e)
-- [Running Text-To-SQL on MongoDB: Working with Postgres, MySQL, MongoDB and Others](https://dev.to/mrunmaylangdb/running-text-to-sql-on-mongodb-working-with-postgres-mysql-mongodb-and-others-2cgg)
+- [&quot;Subsystems&quot; Are Actually Requirement Packages](https://dev.to/jiayufagao/subsystems-are-actually-requirement-packages-25l0)
+- [I Built This Tool That Boosted My Coding by 10x: You Can Do It Too! 🚀](https://dev.to/composiodev/i-built-this-tool-that-boosted-my-coding-by-10x-you-can-do-it-too-3l10)
+- [🔍 金融行业对话：MongoDB设备同步（移动应用平台）](https://dev.to/mongodb-builder/jin-rong-xing-ye-dui-hua-mongodbshe-bei-tong-bu-yi-dong-ying-yong-ping-tai--pe1)
+- [🔍 Financial Industry Side Chat: MongoDB Device Sync for Multi-Mobile Application Platform](https://dev.to/mongodb-builder/financial-industry-side-chat-mongodb-device-sync-for-multi-mobile-application-platform-4ob9)
+- [Raising Series A almost killed my startup :&lpar;](https://dev.to/johnrushx/raising-series-a-almost-killed-my-startup--25l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
