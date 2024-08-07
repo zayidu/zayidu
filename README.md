@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is &quot;Page&quot; in postgres?](https://dev.to/sudheer_gajula_6e0382c493/what-is-page-in-postgres-3kof)
-- [Day 5/10 | HTML](https://dev.to/ofameh/day-510-html-1d3g)
-- [Day 5/10 | HTML](https://dev.to/ofameh/day-510-html-1k3j)
-- [Weekly Summary](https://dev.to/janet0717/weekly-summary-42l5)
-- [Day 7](https://dev.to/janet0717/day-7-1ck1)
+- [Windows Powershall Commands](https://dev.to/asilbek_ibragimov_a0c27cc/windows-powershall-commands-jlf)
+- [Expert advice on how to build a sucessful career in data science](https://dev.to/carol_ajando/expert-advice-on-how-to-build-a-sucessful-career-in-data-science-3h2p)
+- [100FrontendChallenge - Day 8 - Music events](https://dev.to/t1xx1/100frontendchallenge-day-8-music-events-58ia)
+- [Decoding OCR: A Comprehensive Guide](https://dev.to/arinzingade/decoding-ocr-a-comprehensive-guide-4n86)
+- [Urban trees in Niterói - Brazil: Invasive species report](https://dev.to/ph_c/urban-trees-in-niteroi-brazil-invasive-species-report-455l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
