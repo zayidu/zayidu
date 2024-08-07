@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering API Monitoring: A Comprehensive Guide to Ensuring Peak Performance and Reliability](https://dev.to/getambassador2024/mastering-api-monitoring-a-comprehensive-guide-to-ensuring-peak-performance-and-reliability-3nik)
-- [12 Fundamental Steps for Secure Kubernetes Cluster](https://dev.to/jamallmahmoudi/12-fundamental-steps-for-secure-kubernetes-cluster-45h)
-- [10 Top Frustrating Browser Compatibility Issues Devs Face In 2024](https://dev.to/harishrajora12/10-top-frustrating-browser-compatibility-issues-devs-face-in-2024-4g4l)
-- [Upload Image into imgbb.com](https://dev.to/hunter_1225/upload-image-into-imgbbcom-1p58)
-- [AutoMQ: A Cloud-Native Replacement of Apache Kafka](https://dev.to/dev_kiran/automq-a-cloud-native-replacement-of-apache-kafka-59mg)
+- [Hello](https://dev.to/mycontent/hello-3b2h)
+- [Mastering Android Customization: Unleashing the Full Potential of Your Google Pixel](https://dev.to/srikanthamsa/mastering-android-customization-unleashing-the-full-potential-of-your-google-pixel-53dh)
+- [Day 37 of 100 Days of Code](https://dev.to/jacobsternx/day-37-of-100-days-of-code-56k5)
+- [Dev.to 2-Series: How to get started on writing code](https://dev.to/farheen_sk/devto-2-series-how-to-get-started-on-writing-code-534p)
+- [React Tiptap Editor](https://dev.to/hunghg255/react-tiptap-editor-3i22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
