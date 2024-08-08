@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Essential Developer Productivity Tools for 2024](https://dev.to/rohitg00/9-essential-developer-productivity-tools-for-2024-4b5i)
-- [Simplify Localization](https://dev.to/localang/simplify-localization-3b20)
-- [Reading a CSV using OpenCSV and Kotlin](https://dev.to/zion_onwujuba_894fe00cd83/reading-a-csv-using-opencsv-and-kotlin-d02)
-- [From NAS to Kubernetes: Setting Up a Raspberry Pi Cluster with Synology NAS](https://dev.to/fredinono/from-nas-to-kubernetes-setting-up-a-raspberry-pi-cluster-with-synology-nas-57f4)
-- [Creating an empty project using NestJS-mod](https://dev.to/endykaufman/creating-an-empty-project-using-nestjs-mod-2dgo)
+- [Strategies for Ensuring Adequate Test Coverage in Backend Services](https://dev.to/shieldstring/strategies-for-ensuring-adequate-test-coverage-in-backend-services-4e28)
+- [The Hidden Costs of API Downtime: A CTO&#39;s Guide to Proactive Management](https://dev.to/irhose/the-hidden-costs-of-api-downtime-a-ctos-guide-to-proactive-management-1p3a)
+- [Is this thing on?](https://dev.to/bowtiedoffsec/is-this-thing-on-2l6i)
+- [Day 1006 : Decided](https://dev.to/dwane/day-1006-decided-9n2)
+- [10 Livros sobre Linux que vale a pena você ler](https://dev.to/marcosplusplus/10-livros-sobre-linux-que-vale-a-pena-voce-ler-gad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
