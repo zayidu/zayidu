@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Preview an Image Before Upload with Hotwire/Stimulus](https://dev.to/railsdesigner/preview-an-image-before-upload-with-hotwirestimulus-1fen)
-- [Ibuprofeno.py💊| #156: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-156-explica-este-codigo-python-2284)
-- [I 10x&#39;d my X posts using the Twitter API, OpenAI &amp; CopilotKit😱](https://dev.to/github20k/i-10xd-my-x-posts-using-the-twitter-api-openai-copilotkit-2d5n)
-- [Discord-WordPress Post Integration: Streamline Your Blog Notifications 🔔](https://dev.to/danteon/discord-wordpress-post-integration-streamline-your-blog-notifications-hpe)
-- [Give me some sample code in nodejs](https://dev.to/mosininamdar/give-me-some-sample-code-in-nodejs-14pk)
+- [26 Ways to Make Money as a Startup Founder &lpar;for developers&rpar;](https://dev.to/johnrushx/26-ways-to-make-money-as-a-startup-founder-for-developers-2cpi)
+- [We just launched DEV Challenges on product hunt](https://dev.to/devteam/we-just-launched-dev-challenges-on-product-hunt-1bo3)
+- [Use Cases of Generative AI in Banking and Financial Services](https://dev.to/calsoftinc/use-cases-of-generative-ai-in-banking-and-financial-services-2cp8)
+- [Understanding the DevSecOps LifeCycle](https://dev.to/clouddefenseai/understanding-the-devsecops-lifecycle-5fck)
+- [Adding GenAI to Angular Application Using AWS Bedrock](https://dev.to/this-is-angular/adding-genai-to-angular-application-using-aws-bedrock-e0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
