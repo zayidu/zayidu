@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hiring a Lead iOS Engineer - AI note taking team.](https://dev.to/tomyamateo/hiring-a-lead-ios-engineer-ai-note-taking-team-4d00)
-- [Machine Learning with PyTorch](https://dev.to/kartikmehta8/machine-learning-with-pytorch-2ppj)
-- [Why Fish Shell is the Coolest Cat in the Command Line Alley](https://dev.to/fa5tworm/why-fish-shell-is-the-coolest-cat-in-the-command-line-alley-n3l)
-- [[Game of Purpose] Day 81](https://dev.to/humberd/game-of-purpose-day-81-80f)
-- [[15/52] The Three Languages an Engineer Needs To Know &lpar;or maybe it&#39;s more&rpar;](https://dev.to/tythos/1552-the-three-languages-an-engineer-needs-to-know-or-maybe-its-more-11jg)
+- [Optimizing Kubernetes Resource Requests with Goldilocks : Day 25 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/optimizing-kubernetes-resource-requests-with-goldilocks-day-25-of-50-days-devops-tools-series-1c58)
+- [How to convert class to Swagger Schema in NodeJS application - Documentation with Swagger in NodeJS become easier than ever](https://dev.to/chabuuuu/how-to-convert-class-to-swagger-schema-in-nodejs-application-documentation-with-swagger-in-nodejs-become-easier-than-ever-1ek9)
+- [Item 46: Dê preferência às funções sem efeitos colaterais nas streams](https://dev.to/giselecoder/item-46-de-preferencia-as-funcoes-sem-efeitos-colaterais-nas-streams-345d)
+- [When should you ask your teammate?](https://dev.to/rodonguyen/when-should-you-ask-your-teammate-3a6d)
+- [#41 — Group And Summarize Rows While Retaining Columns Whose Values Are Unchanged](https://dev.to/judith677/41-group-and-summarize-rows-while-retaining-columns-whose-values-are-unchanged-3emc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
