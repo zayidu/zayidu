@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Hiring a Lead iOS Engineer - AI note taking team.](https://dev.to/tomyamateo/hiring-a-lead-ios-engineer-ai-note-taking-team-4d00)
 - [Machine Learning with PyTorch](https://dev.to/kartikmehta8/machine-learning-with-pytorch-2ppj)
 - [Why Fish Shell is the Coolest Cat in the Command Line Alley](https://dev.to/fa5tworm/why-fish-shell-is-the-coolest-cat-in-the-command-line-alley-n3l)
 - [[Game of Purpose] Day 81](https://dev.to/humberd/game-of-purpose-day-81-80f)
 - [[15/52] The Three Languages an Engineer Needs To Know &lpar;or maybe it&#39;s more&rpar;](https://dev.to/tythos/1552-the-three-languages-an-engineer-needs-to-know-or-maybe-its-more-11jg)
-- [Yet another website redesign.](https://dev.to/sidcraftscode/yet-another-website-redesign-32l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
