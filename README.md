@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenTelemetry Tracing on Spring Boot, Java Agent vs. Micrometer Tracing](https://dev.to/nfrankel/opentelemetry-tracing-on-spring-boot-java-agent-vs-micrometer-tracing-542d)
-- [10 Basic Steps for Mobile App Development in 2024](https://dev.to/marriemorris/10-basic-steps-for-mobile-app-development-in-2024-3di7)
-- [HTTP/HTTPS and 7 more Network Protocols you should know about.](https://dev.to/alishgiri/httphttps-and-7-more-network-protocols-you-should-know-about-4o4i)
-- [Enabling IPv6 on FreeBSD with DHCPv6 in Stateful Mode](https://dev.to/vinetos/enabling-ipv6-on-freebsd-with-dhcpv6-in-stateful-mode-3142)
-- [Make your App 10x Secure with Arcjet Protection Layer](https://dev.to/anmolbaranwal/make-your-app-10x-secure-with-arcjet-protection-layer-20fj)
+- [Vue &amp; Tailwind admin framework](https://dev.to/ivictbor/vue-tailwind-admin-framework-2pma)
+- [Using Bitmasks for Efficient Data Filtering](https://dev.to/devartteam/using-bitmasks-for-efficient-data-filtering-1lpk)
+- [Best Python Frameworks for 2024](https://dev.to/devstoriesplayground/best-python-frameworks-for-2024-55m8)
+- [How to build a mastaba](https://dev.to/dalerank/how-to-build-a-mastaba-1m65)
+- [CRM 3.0: Reimagining Customer Relationships Using AI Agents](https://dev.to/akkiprime/crm-30-reimagining-customer-relationships-using-ai-agents-23ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
