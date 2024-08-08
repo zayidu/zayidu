@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use .user.ini in ServBay](https://dev.to/servbay/how-to-use-userini-in-servbay-2ee8)
-- [Why You’re Getting Blamed for Delays &lpar;And How Open-Source Dora Metrics Can Help&rpar;](https://dev.to/middleware/why-youre-getting-blamed-for-delays-and-how-open-source-dora-metrics-can-help-1mm3)
-- [Attaching notes to git branches](https://dev.to/pinotattari/attaching-notes-to-git-branches-503k)
-- [Create your own Kubernetes &quot;kind:&quot;](https://dev.to/raymundmelvinchuagithub/create-your-own-kubernetes-kind-1n9o)
-- [Array Method Sort on Numbers;](https://dev.to/jhernandez504/array-method-sort-on-numbers-dlm)
+- [Guía Básica de Python: Domina la Sintaxis y Principios Fundamentales](https://dev.to/wizsebastian/guia-basica-de-python-domina-la-sintaxis-y-principios-fundamentales-4lo4)
+- [The Evolution of Databricks: From Research Project to Data Powerhouse](https://dev.to/citrux-digital/the-evolution-of-databricks-from-research-project-to-data-powerhouse-3p46)
+- [Salesforce Data Cloud](https://dev.to/sib_sankarbag_580d956d6a/salesforce-data-cloud-117e)
+- [Service Workers](https://dev.to/abdulakhatov-dev/service-workers-1bf)
+- [**Effective Deployment Strategies for JavaScript Apps**](https://dev.to/gadekar_sachin/effective-deployment-strategies-for-javascript-apps-5gm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
