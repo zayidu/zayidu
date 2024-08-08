@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Kubernetes Resource Requests with Goldilocks : Day 25 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/optimizing-kubernetes-resource-requests-with-goldilocks-day-25-of-50-days-devops-tools-series-1c58)
-- [How to convert class to Swagger Schema in NodeJS application - Documentation with Swagger in NodeJS become easier than ever](https://dev.to/chabuuuu/how-to-convert-class-to-swagger-schema-in-nodejs-application-documentation-with-swagger-in-nodejs-become-easier-than-ever-1ek9)
-- [Item 46: Dê preferência às funções sem efeitos colaterais nas streams](https://dev.to/giselecoder/item-46-de-preferencia-as-funcoes-sem-efeitos-colaterais-nas-streams-345d)
-- [When should you ask your teammate?](https://dev.to/rodonguyen/when-should-you-ask-your-teammate-3a6d)
-- [#41 — Group And Summarize Rows While Retaining Columns Whose Values Are Unchanged](https://dev.to/judith677/41-group-and-summarize-rows-while-retaining-columns-whose-values-are-unchanged-3emc)
+- [web apps with react](https://dev.to/blindvisionman/web-apps-with-react-3m35)
+- [Understanding the JWT](https://dev.to/dkmen/understanding-the-jwt-3pl5)
+- [Build a Database Schema In 5 Steps](https://dev.to/domfive/build-a-database-schema-in-5-steps-3o1a)
+- [Unlock the Power of Real-Time UI: A Beginner&#39;s Guide to Streaming Data with React.js, gRPC, Envoy, and Golang](https://dev.to/marscode/unlock-the-power-of-real-time-ui-a-beginners-guide-to-streaming-data-with-reactjs-grpc-envoy-and-golang-271p)
+- [Top 40 Frontend Developer Interview Questions &amp; Answers 2024 🪄 ❤️‍🔥](https://dev.to/lakshmananarumugam/top-40-frontend-developer-interview-questions-answers-2024-2hkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
