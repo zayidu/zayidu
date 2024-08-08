@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock the Secrets of Programming Languages with Northeastern University 🔑](https://dev.to/getvm/unlock-the-secrets-of-programming-languages-with-northeastern-university-30b6)
-- [🌟 Day 10: Log Analyzer and Report Generator](https://dev.to/ritesh_dolare/day-10-log-analyzer-and-report-generator-ih)
-- [The Ultimate Guide to API Architectures in 2024: Choosing the Right Approach for Your Project](https://dev.to/vyan/the-ultimate-guide-to-api-architectures-in-2024-choosing-the-right-approach-for-your-project-1fn3)
-- [How to Boost Your Conversion Rate with the Right Hero Image?](https://dev.to/pepper_square/how-to-boost-your-conversion-rate-with-the-right-hero-image-3d5g)
-- [Tailwind CSS: Transition Utilities](https://dev.to/tailwine/tailwind-css-transition-utilities-3n5f)
+- [SQL, split values of two columns respectively and count members of their intersection #eg20](https://dev.to/esproc_spl/sql-split-values-of-two-columns-respectively-and-count-members-of-their-intersection-eg20-pnh)
+- [Unlocking Efficiency: Essential Web Development Tools for Modern Developers](https://dev.to/ruthvik_thimmoji_6fde5e61/unlocking-efficiency-essential-web-development-tools-for-modern-developers-21ib)
+- [4 Effective Strategies for Test Automation with MFA](https://dev.to/jignect_technologies/4-effective-strategies-for-test-automation-with-mfa-31jm)
+- [The Strategic Advantages of Cloud FinOps for Modern Enterprises](https://dev.to/unicloud/the-strategic-advantages-of-cloud-finops-for-modern-enterprises-1g0a)
+- [Top Methods and Tools for JavaScript Animations in Web Development](https://dev.to/raajaryan/top-methods-and-tools-for-javascript-animations-in-web-development-dhp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
