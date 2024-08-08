@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication vs. Authorization in Azure: Decoding the Dynamic Duo of Security](https://dev.to/rofiatabdulkareem/authentication-vs-authorization-in-azure-decoding-the-dynamic-duo-of-security-4pnn)
-- [I am a Strange Dataset: Evaluating Language Models with Metalinguistic Tests](https://dev.to/mikeyoung44/i-am-a-strange-dataset-evaluating-language-models-with-metalinguistic-tests-3gdh)
-- [Why you should participate to Friendly.rb Ruby conference](https://dev.to/lucianghinda/why-you-should-participate-to-friendlyrb-ruby-conference-oco)
-- [Day 38 of 100 Days of Code](https://dev.to/jacobsternx/day-38-of-100-days-of-code-34im)
-- [Developing Language Learning App Like Rosetta Stone](https://dev.to/ideausher/developing-language-learning-app-like-rosetta-stone-2aoe)
+- [OpenTelemetry Tracing on Spring Boot, Java Agent vs. Micrometer Tracing](https://dev.to/nfrankel/opentelemetry-tracing-on-spring-boot-java-agent-vs-micrometer-tracing-542d)
+- [10 Basic Steps for Mobile App Development in 2024](https://dev.to/marriemorris/10-basic-steps-for-mobile-app-development-in-2024-3di7)
+- [HTTP/HTTPS and 7 more Network Protocols you should know about.](https://dev.to/alishgiri/httphttps-and-7-more-network-protocols-you-should-know-about-4o4i)
+- [Enabling IPv6 on FreeBSD with DHCPv6 in Stateful Mode](https://dev.to/vinetos/enabling-ipv6-on-freebsd-with-dhcpv6-in-stateful-mode-3142)
+- [Make your App 10x Secure with Arcjet Protection Layer](https://dev.to/anmolbaranwal/make-your-app-10x-secure-with-arcjet-protection-layer-20fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
