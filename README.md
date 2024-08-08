@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding IP Address Types, Subnets, and Loopback](https://dev.to/mohanavamsi0614/understanding-ip-address-types-subnets-and-loopback-3eoa)
-- [How to Make Money From Coding: A Beginner-Friendly Practical Guide](https://dev.to/syakirurahman/how-to-make-money-from-coding-a-beginner-friendly-practical-guide-5532)
-- [Secure Your AI Project With Model Attestation and Software Bill of Materials &lpar;SBOMs&rpar;](https://dev.to/kitops/secure-your-ai-project-with-model-attestation-and-software-bill-of-materials-sboms-5a7g)
-- [Streamlining Sales Order and Order Response Integration: Importing PDFs into SAP](https://dev.to/hubbroker/streamlining-sales-order-and-order-response-integration-importing-pdfs-into-sap-1ccc)
-- [Deploying A Django App: EC2 vs App Runner with External Celery](https://dev.to/yokwejuste/deploying-a-django-app-ec2-vs-app-runner-with-external-celery-2pne)
+- [Experiencing the Migration from Cypress to Playwright](https://dev.to/rodik/experiencing-the-migration-from-cypress-to-playwright-2e24)
+- [Video autoplay is not working in mobile view](https://dev.to/sruthirose/video-autoplay-is-not-working-in-mobile-view-iif)
+- [Daily Log - 08/08/2024](https://dev.to/makkawai/daily-log-08082024-4chd)
+- [Installing Apache, PHP, and MySQL on Oracle Linux 8](https://dev.to/nhisyamj/installing-apache-php-and-mysql-on-oracle-linux-8-3j7m)
+- [How JavaScript’s Garbage Collection Affects Application Performance](https://dev.to/rigalpatel001/how-javascripts-garbage-collection-affects-application-performance-4k6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
