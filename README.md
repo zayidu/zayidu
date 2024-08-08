@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorials are great! But something is missing...](https://dev.to/francescoxx/tutorials-are-great-but-something-is-missing-2g4k)
-- [Validating String in Jest](https://dev.to/andpeicunha/validating-string-in-jest-393d)
-- [Chapter 1 - Introduction to Git](https://dev.to/yusbuntu/chapter-1-introduction-to-git-k8e)
-- [Data Analysis With Python: Analysis of the global development and Prosperity Index for the year 2023](https://dev.to/theophilus1320/data-analysis-with-pythonanalysis-of-the-global-development-and-prosperity-index-for-the-year-2023-2fj4)
-- [Speed Up Your Work With Git Aliases 🏃](https://dev.to/ikhaledabdelfattah/speed-up-your-work-with-git-aliases-26b1)
+- [9 Essential Developer Productivity Tools for 2024](https://dev.to/rohitg00/9-essential-developer-productivity-tools-for-2024-4b5i)
+- [Simplify Localization](https://dev.to/localang/simplify-localization-3b20)
+- [Reading a CSV using OpenCSV and Kotlin](https://dev.to/zion_onwujuba_894fe00cd83/reading-a-csv-using-opencsv-and-kotlin-d02)
+- [From NAS to Kubernetes: Setting Up a Raspberry Pi Cluster with Synology NAS](https://dev.to/fredinono/from-nas-to-kubernetes-setting-up-a-raspberry-pi-cluster-with-synology-nas-57f4)
+- [Creating an empty project using NestJS-mod](https://dev.to/endykaufman/creating-an-empty-project-using-nestjs-mod-2dgo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
