@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Assistant that 10x&#39;d My Productivity 🚀](https://dev.to/composiodev/i-built-an-ai-assistant-that-10xd-my-productivity-51lb)
-- [How to Airdrop SOL Using Solana CLI: Step-by-Step Guide](https://dev.to/sumana10/how-to-airdrop-sol-using-solana-cli-step-by-step-guide-2764)
-- [Streamline Group Payments with Pay Calculator: A Web App to Balance Shared Expenses](https://dev.to/azratul/streamline-group-payments-with-pay-calculator-a-web-app-to-balance-shared-expenses-17d)
-- [SOLID - Princípios da Programação Orientada a Objetos &lpar;OOP&rpar;](https://dev.to/williamkoller/solid-principios-da-programacao-orientada-a-objetos-oop-50g3)
-- [New features, bug fixes for my docker-like solution native to macOS](https://dev.to/okerew/new-features-bug-fixes-for-my-docker-like-solution-native-to-macos-1n4f)
+- [How to Use .user.ini in ServBay](https://dev.to/servbay/how-to-use-userini-in-servbay-2ee8)
+- [Why You’re Getting Blamed for Delays &lpar;And How Open-Source Dora Metrics Can Help&rpar;](https://dev.to/middleware/why-youre-getting-blamed-for-delays-and-how-open-source-dora-metrics-can-help-1mm3)
+- [Attaching notes to git branches](https://dev.to/pinotattari/attaching-notes-to-git-branches-503k)
+- [Create your own Kubernetes &quot;kind:&quot;](https://dev.to/raymundmelvinchuagithub/create-your-own-kubernetes-kind-1n9o)
+- [Array Method Sort on Numbers;](https://dev.to/jhernandez504/array-method-sort-on-numbers-dlm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
