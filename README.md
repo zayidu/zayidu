@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue &amp; Tailwind admin framework](https://dev.to/ivictbor/vue-tailwind-admin-framework-2pma)
-- [Using Bitmasks for Efficient Data Filtering](https://dev.to/devartteam/using-bitmasks-for-efficient-data-filtering-1lpk)
-- [Best Python Frameworks for 2024](https://dev.to/devstoriesplayground/best-python-frameworks-for-2024-55m8)
-- [How to build a mastaba](https://dev.to/dalerank/how-to-build-a-mastaba-1m65)
-- [CRM 3.0: Reimagining Customer Relationships Using AI Agents](https://dev.to/akkiprime/crm-30-reimagining-customer-relationships-using-ai-agents-23ih)
+- [Preview an Image Before Upload with Hotwire/Stimulus](https://dev.to/railsdesigner/preview-an-image-before-upload-with-hotwirestimulus-1fen)
+- [Ibuprofeno.py💊| #156: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-156-explica-este-codigo-python-2284)
+- [I 10x&#39;d my X posts using the Twitter API, OpenAI &amp; CopilotKit😱](https://dev.to/github20k/i-10xd-my-x-posts-using-the-twitter-api-openai-copilotkit-2d5n)
+- [Discord-WordPress Post Integration: Streamline Your Blog Notifications 🔔](https://dev.to/danteon/discord-wordpress-post-integration-streamline-your-blog-notifications-hpe)
+- [Give me some sample code in nodejs](https://dev.to/mosininamdar/give-me-some-sample-code-in-nodejs-14pk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
