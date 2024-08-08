@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Warehouse Service GaussDB &lpar;DWS&rpar; -1](https://dev.to/ozcankara/data-warehouse-service-gaussdb-dws-16fa)
-- [Introducing Pendulum: A Timer Plugin for Neovim to Boost Your Productivity](https://dev.to/sunny_tamang_a2bce7dea658/introducing-pendulum-a-timer-plugin-for-neovim-to-boost-your-productivity-3ai6)
-- [Serverless Framework | Setting up a Serverless Framework on AWS](https://dev.to/clickit_devops/serverless-framework-setting-up-a-serverless-framework-on-aws-2l1n)
-- [Behind The Scenes: How Your Browser Cooks Up a Webpage.](https://dev.to/taiwocodes/behind-the-scenes-how-your-browser-cooks-up-a-webpage-3kka)
-- [Day 21 of 100 Days of Cloud: Mastering Docker Volumes for Data Persistence](https://dev.to/tutorialhelldev/day-21-of-100-days-of-cloud-mastering-docker-volumes-for-data-persistence-2lcn)
+- [Tutorials are great! But something is missing...](https://dev.to/francescoxx/tutorials-are-great-but-something-is-missing-2g4k)
+- [Validating String in Jest](https://dev.to/andpeicunha/validating-string-in-jest-393d)
+- [Chapter 1 - Introduction to Git](https://dev.to/yusbuntu/chapter-1-introduction-to-git-k8e)
+- [Data Analysis With Python: Analysis of the global development and Prosperity Index for the year 2023](https://dev.to/theophilus1320/data-analysis-with-pythonanalysis-of-the-global-development-and-prosperity-index-for-the-year-2023-2fj4)
+- [Speed Up Your Work With Git Aliases 🏃](https://dev.to/ikhaledabdelfattah/speed-up-your-work-with-git-aliases-26b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
