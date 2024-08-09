@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Azure Security Policy](https://dev.to/rofiatabdulkareem/unlocking-azure-security-policy-po2)
-- [Using Switch Statement in C#](https://dev.to/bytehide/using-switch-statement-in-c-1jl9)
-- [Chatgot vs. ChatGPT: A Comparative Insight](https://dev.to/elisaray/chatgot-vs-chatgpt-a-comparative-insight-3ill)
-- [Exploring the Future of Transportation: The Integration of Wings Engine with Smart Traffic](https://dev.to/samuel67/exploring-the-future-of-transportation-the-integration-of-wings-engine-with-smart-traffic-3gbo)
-- [How to Build a Portfolio Website with HTML, CSS, and JavaScript](https://dev.to/media_geneous/how-to-build-a-portfolio-website-with-html-css-and-javascript-1m4m)
+- [Best CI/CD Platforms For React Native Applications](https://dev.to/aneeqakhan/best-cicd-platforms-for-react-native-applications-82p)
+- [Tools for Starting a Business or Testing an Idea: A Beginner&#39;s Guide](https://dev.to/timoye/tools-for-starting-a-business-or-testing-an-idea-a-beginners-guide-3l9)
+- [Ceph Setup - Ground Up](https://dev.to/sammy_cloud/ceph-setup-ground-up-21kc)
+- [Announcing the Release of my Stripe to SevDesk Integration](https://dev.to/tilwiggers/announcing-the-release-of-my-stripe-to-sevdesk-integration-33el)
+- [The Hidden Costs of &#39;Cheap&#39; Software Agencies: When Low Hourly Rates Lead to Sky-High Bills](https://dev.to/nezirzahirovic/the-hidden-costs-of-cheap-software-agencies-when-low-hourly-rates-lead-to-sky-high-bills-711)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
