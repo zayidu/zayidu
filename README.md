@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Dependencies and Security in JavaScript with NPM](https://dev.to/devarshishimpi/managing-dependencies-and-security-in-javascript-with-npm-2k6m)
-- [Day 32 Task: Launching your Kubernetes Cluster with Deployment](https://dev.to/oncloud7/day-32-task-launching-your-kubernetes-cluster-with-deployment-14bj)
-- [Understanding CSS Background Coloring for Nested Elements](https://dev.to/chrisgen19/understanding-css-background-coloring-for-nested-elements-236)
-- [Understanding The useRef React Hook 🔥](https://dev.to/alisamir/understanding-the-useref-react-hook-286c)
-- [LinkedIn “Detox” &lpar;?!&rpar; 🤔](https://dev.to/seif_sekalala_81e09fe6b9e/linkedin-detox--1koc)
+- [Building a Scalable Notifications and Alerting System 🔥🚀](https://dev.to/middleware/building-a-scalable-notifications-and-alerting-system-kon)
+- [What is the best book for network programming?](https://dev.to/m__mdy__m/what-is-the-best-book-for-network-programming-5ci8)
+- [Pros and Cons of a Custom WordPress Theme](https://dev.to/marijana_nikolic_60700039/pros-and-cons-of-a-custom-wordpress-theme-233i)
+- [100FrontendChallenge - Day 9 - Password generator](https://dev.to/t1xx1/100frontendchallenge-day-9-password-generator-10al)
+- [GSoC’24&lpar;CircuitVerse&rpar; Week 9 &amp; 10](https://dev.to/niladri_adhikary_f11402dc/gsoc24circuitverse-week-9-10-45me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
