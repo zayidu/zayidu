@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best CI/CD Platforms For React Native Applications](https://dev.to/aneeqakhan/best-cicd-platforms-for-react-native-applications-82p)
-- [Tools for Starting a Business or Testing an Idea: A Beginner&#39;s Guide](https://dev.to/timoye/tools-for-starting-a-business-or-testing-an-idea-a-beginners-guide-3l9)
-- [Ceph Setup - Ground Up](https://dev.to/sammy_cloud/ceph-setup-ground-up-21kc)
-- [Announcing the Release of my Stripe to SevDesk Integration](https://dev.to/tilwiggers/announcing-the-release-of-my-stripe-to-sevdesk-integration-33el)
-- [The Hidden Costs of &#39;Cheap&#39; Software Agencies: When Low Hourly Rates Lead to Sky-High Bills](https://dev.to/nezirzahirovic/the-hidden-costs-of-cheap-software-agencies-when-low-hourly-rates-lead-to-sky-high-bills-711)
+- [The Power of Collaboration: Lessons from a Felt World](https://dev.to/dipakahirav/the-power-of-collaboration-lessons-from-a-felt-world-447j)
+- [Design A URL Shortener / Tiny URL](https://dev.to/zeeshanali0704/design-a-url-shortner-tiny-url-4cb5)
+- [Generating UUID in Javascript: A Step-by-Step Guide](https://dev.to/arsalanmeee/generating-uuid-in-javascript-a-step-by-step-guide-3n6l)
+- [Even great mathematicians make mistakes](https://dev.to/anogneva/even-great-mathematicians-make-mistakes-4fi1)
+- [New in WebDev 2024 - Interactive Experiences](https://dev.to/hugaidas/new-in-webdev-2024-interactive-experiences-25c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
