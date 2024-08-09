@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Collaboration: Lessons from a Felt World](https://dev.to/dipakahirav/the-power-of-collaboration-lessons-from-a-felt-world-447j)
-- [Design A URL Shortener / Tiny URL](https://dev.to/zeeshanali0704/design-a-url-shortner-tiny-url-4cb5)
-- [Generating UUID in Javascript: A Step-by-Step Guide](https://dev.to/arsalanmeee/generating-uuid-in-javascript-a-step-by-step-guide-3n6l)
-- [Even great mathematicians make mistakes](https://dev.to/anogneva/even-great-mathematicians-make-mistakes-4fi1)
-- [New in WebDev 2024 - Interactive Experiences](https://dev.to/hugaidas/new-in-webdev-2024-interactive-experiences-25c4)
+- [Hello World!](https://dev.to/mytv_dor_35113e7aa7f055df/hello-world-1gke)
+- [Hello World!](https://dev.to/mytv_dor_35113e7aa7f055df/hello-world-4gb9)
+- [5 Ways to Boost Growth with Gen AI for Business](https://dev.to/transorg/7-ways-to-boost-growth-with-gen-ai-for-business-6jb)
+- [well, hello there !!!](https://dev.to/ashw4thama/well-hello-there--2n1m)
+- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-3hpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
