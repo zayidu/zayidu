@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data types - ma&#39;lumot turlari.](https://dev.to/sunnat_qayumov_2db67b1ba1/data-types-malumot-turlari-207p)
-- [Computer Vision Meetup: Evaluating RAG Models for LLMs - Key Metrics and Frameworks](https://dev.to/voxel51/computer-vision-meetup-evaluating-rag-models-for-llms-key-metrics-and-frameworks-2cpj)
-- [Setting up Golang with debugging and VS Code on MacOS](https://dev.to/nerdherd/setting-up-golang-with-debugging-and-vs-code-on-macos-2haf)
-- [Computer Vision Meetup: GenAI for Video - Diffusion-Based Editing and Generation](https://dev.to/voxel51/computer-vision-meetup-genai-for-video-diffusion-based-editing-and-generation-42mh)
-- [Best 8 Tool for Front-End Developer](https://dev.to/bizmavenhub/best-8-tool-for-front-end-developer-2ilb)
+- [Atomic CSS Deep Dive](https://dev.to/mr150/atomic-css-deep-dive-1hee)
+- [Jasypt CLI tools for encryption and decryption](https://dev.to/mhjaafar/jasypt-cli-tools-for-encryption-and-decryption-2898)
+- [Networking Step-by-Step 👣](https://dev.to/mohanavamsi0614/networking-step-by-step-3n8p)
+- [AWS Centralised Logging with Amazon OpenSearch](https://dev.to/neilclark83/aws-centrilised-logging-with-amazon-opensearch-3bna)
+- [Setting up Delve and Air to debug Golang with VS Code](https://dev.to/nerdherd/setting-up-golang-on-vs-code-with-debugging-1kbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
