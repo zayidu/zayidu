@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Recapping the AI, Machine Learning and Computer Meetup — August 8, 2024](https://dev.to/voxel51/recapping-the-ai-machine-learning-and-computer-meetup-august-8-2024-1akd)
-- [How to build a caching layer for your Laravel API](https://dev.to/nelwhix/how-to-build-a-caching-layer-for-your-laravel-api-1265)
-- [Little More Control](https://dev.to/andrious/little-more-control-3o3b)
-- [React Cookies: A Complete Guide to Managing Cookies in React Applications](https://dev.to/sarthak_niranjan_3bd6cb5f/react-cookies-a-complete-guide-to-managing-cookies-in-react-applications-3cd3)
-- [Will AI take over Web Development Jobs?](https://dev.to/amiryusupov/will-ai-take-over-web-development-jobs-he2)
+- [How to Install DaVinci Resolve 19 &lpar;beta&rpar; on Linux Mint 22 with AMD Radeon Graphics Card](https://dev.to/annietaylorchen/how-to-install-davinci-resolve-19-beta-on-linux-mint-22-with-amd-radeon-graphics-card-1mfb)
+- [Day 22 of 100 Days of Cloud: Mastering AWS Lambda and Lambda Layers](https://dev.to/tutorialhelldev/day-22-of-100-days-of-cloud-mastering-aws-lambda-and-lambda-layers-3icn)
+- [IndexedDb A bigger LocalStorage](https://dev.to/anasmustafa123/indexeddb-a-bigger-localstorage-3g93)
+- [Shift Right e DevOps: Alinhando Testes com a Manutenção em Produção](https://dev.to/womakerscode/shift-right-e-devops-alinhando-testes-com-a-manutencao-em-producao-52j5)
+- [20 Coffee Chats in 2 Weeks: Here&#39;s What Happened](https://dev.to/elliezub/20-coffee-chats-in-2-weeks-heres-what-happened-11em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
