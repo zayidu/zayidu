@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#42 — Skip Empty Cells To Sort Members](https://dev.to/judith677/42-skip-empty-cells-to-sort-members-789)
-- [Using Terraform to Create VM Instances and Connect via SSH](https://dev.to/chauhoangminhnguyen/using-terraform-to-create-vm-instances-and-connect-via-ssh-2gbj)
-- [Web Components and SSR with Next.js](https://dev.to/hasanirogers/web-components-and-ssr-with-nextjs-13b4)
-- [MultiThreading vs MultiProcessing](https://dev.to/vivekyadav200988/multithreading-vs-multiprocessing-11o9)
-- [Passing query parameters through import.meta.url to vue with Laravel Vite](https://dev.to/hadakadenkyu/passing-query-parameters-through-importmetaurl-to-vue-with-laravel-vite-3np4)
+- [Ideas for Faceless YouTube content](https://dev.to/imrankh13332994/ideas-for-faceless-youtube-content-p5e)
+- [How to use OpenAI’s new Structured Outputs API &lpar;with code&rpar;](https://dev.to/emcf/how-to-use-openais-new-structured-outputs-api-with-code-2enl)
+- [Understanding Program Crashes: Types, Causes, and Examples](https://dev.to/vivekyadav200988/understanding-program-crashes-types-causes-and-examples-2o04)
+- [Use Mistral AI to build generative AI applications with Go](https://dev.to/aws/use-mistral-ai-to-build-generative-ai-applications-with-go-2hpa)
+- [DOM Manipulation: Selecting and Manipulating DOM Elements](https://dev.to/srijan_karki/dom-manipulation-selecting-and-manipulating-dom-elements-29gk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
