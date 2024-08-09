@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Node.js Wrapper for Reddit API: A Step-by-Step Guide](https://dev.to/zand/building-a-nodejs-wrapper-for-reddit-api-a-step-by-step-guide-5eea)
-- [How to Migrate From CodeCommit](https://dev.to/aws-builders/how-to-migrate-from-codecommit-3em1)
-- [Code Smell 262 - Not Replaced Constants](https://dev.to/mcsee/code-smell-262-not-replaced-constants-13p2)
-- [Debugging Angular Applications](https://dev.to/kartikmehta8/debugging-angular-applications-3m99)
-- [MacOS 和 iOS app 的版本号冲突](https://dev.to/yo1995/macos-he-ios-app-de-ban-ben-hao-chong-tu-4cpc)
+- [Getting Started with the MEAN Stack](https://dev.to/media_geneous/getting-started-with-the-mean-stack-ce0)
+- [Today&#39;s Trending Projects: Sum of Prime Numbers Under 100 and More 🚀](https://dev.to/labex/todays-trending-projects-sum-of-prime-numbers-under-100-and-more-i4n)
+- [Session #3](https://dev.to/mashcuy_lab/session-3-bnb)
+- [Otimizando Custos na AWS: O Poder do Spot.io para Reduzir seu AWS Billing](https://dev.to/fernandomullerjr/otimizando-custos-na-aws-o-poder-do-spotio-para-reduzir-seu-aws-billing-1i18)
+- [River: Tu Cola de Trabajos Go, Simple y Eficiente](https://dev.to/lucatonyraudales/a-ui-for-golang-jobs-446d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
