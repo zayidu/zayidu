@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Count Strings With Emojis In JavaScript](https://dev.to/jeffbuildstech/how-to-count-strings-with-emojis-in-javascript-4604)
-- [# Common Issues and Resolutions When Setting Up a VPC in AWS](https://dev.to/sepiyush/-common-issues-and-resolutions-when-setting-up-a-vpc-in-aws-3hk2)
-- [How to leverage polymorphism to design flexible and maintainable software that adheres to SOLID principles](https://dev.to/muhammad_salem/how-to-leverage-polymorphism-to-design-flexible-and-maintainable-software-that-adheres-to-solid-principles-36a1)
-- [Mapping the Sky: GPS Receiver Animation](https://dev.to/rodrigoantunes/mapping-the-sky-gps-receiver-animation-1ne2)
-- [Understanding Task in .NET 🌐](https://dev.to/ipazooki/understanding-task-in-net-3cnn)
+- [What is Canvas in Web Development &amp; Advance usage of it?](https://dev.to/nadim_ch0wdhury/what-is-canvas-in-web-development-advance-usage-of-it-4mnd)
+- [Logging Best Practices For Your Node.js App](https://dev.to/alertyai/logging-best-practices-for-your-nodejs-app-4o9k)
+- [Exploring OpenAI&#39;s Project Strawberry: The Future of AI Language Models](https://dev.to/webdev-mohdamir/exploring-openais-project-strawberry-the-future-of-ai-language-models-4g1i)
+- [When I Tackled Rate Limiting Using AWS Step Functions and Lambda](https://dev.to/aws-builders/when-i-tackled-rate-limiting-using-aws-step-functions-and-lambda-354a)
+- [Oct 10 - AI, Machine Learning and Computer Vision Meetup](https://dev.to/voxel51/oct-10-ai-machine-learning-and-computer-vision-meetup-4oin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
