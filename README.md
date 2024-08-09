@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World!](https://dev.to/mytv_dor_35113e7aa7f055df/hello-world-1gke)
-- [Hello World!](https://dev.to/mytv_dor_35113e7aa7f055df/hello-world-4gb9)
-- [5 Ways to Boost Growth with Gen AI for Business](https://dev.to/transorg/7-ways-to-boost-growth-with-gen-ai-for-business-6jb)
-- [well, hello there !!!](https://dev.to/ashw4thama/well-hello-there--2n1m)
-- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-3hpm)
+- [This Week In React #195 : Compiler, Refactoring components, XState Store, Next.js, Redwood, Vitale, Astro, LLMs, Astro...](https://dev.to/sebastienlorber/this-week-in-react-195-compiler-refactoring-components-xstate-store-nextjs-redwood-vitale-astro-llms-astro-pj5)
+- [Real-Time Fraud Detection: A Kafka-Based Microservices Solution](https://dev.to/sshamza/real-time-fraud-detection-a-kafka-based-microservices-solution-4dco)
+- [How to Run Jest Unit Tests in a Typescript Project](https://dev.to/dorinandreidragan/how-to-run-jest-unit-tests-in-a-typescript-project-ccj)
+- [Routing in .NET](https://dev.to/adrianbailador/routing-in-net-315k)
+- [Getting Started with React: A Beginner’s Tale](https://dev.to/ganeshnitalikar/getting-started-with-react-a-beginners-tale-1inn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
