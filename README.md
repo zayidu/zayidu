@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with the MEAN Stack](https://dev.to/media_geneous/getting-started-with-the-mean-stack-ce0)
-- [Today&#39;s Trending Projects: Sum of Prime Numbers Under 100 and More 🚀](https://dev.to/labex/todays-trending-projects-sum-of-prime-numbers-under-100-and-more-i4n)
-- [Session #3](https://dev.to/mashcuy_lab/session-3-bnb)
-- [Otimizando Custos na AWS: O Poder do Spot.io para Reduzir seu AWS Billing](https://dev.to/fernandomullerjr/otimizando-custos-na-aws-o-poder-do-spotio-para-reduzir-seu-aws-billing-1i18)
-- [River: Tu Cola de Trabajos Go, Simple y Eficiente](https://dev.to/lucatonyraudales/a-ui-for-golang-jobs-446d)
+- [#42 — Skip Empty Cells To Sort Members](https://dev.to/judith677/42-skip-empty-cells-to-sort-members-789)
+- [Using Terraform to Create VM Instances and Connect via SSH](https://dev.to/chauhoangminhnguyen/using-terraform-to-create-vm-instances-and-connect-via-ssh-2gbj)
+- [Web Components and SSR with Next.js](https://dev.to/hasanirogers/web-components-and-ssr-with-nextjs-13b4)
+- [MultiThreading vs MultiProcessing](https://dev.to/vivekyadav200988/multithreading-vs-multiprocessing-11o9)
+- [Passing query parameters through import.meta.url to vue with Laravel Vite](https://dev.to/hadakadenkyu/passing-query-parameters-through-importmetaurl-to-vue-with-laravel-vite-3np4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
