@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [spreadsheet/excell-js-css](https://dev.to/eusisaku/spreadsheetexcell-js-css-1cgb)
-- [Ruby Design Patterns &lpar;WIP&rpar;](https://dev.to/mengjia/ruby-design-patterns-wip-5182)
-- [Notes about Chapter 02 of Web Scalability For Startup Engineers](https://dev.to/ezpzdevelopement/notes-about-chapter-02-of-web-scalability-for-startup-engineers-579o)
-- [Blog Site | Websites for Days 7 | 10](https://dev.to/ofameh/blog-site-websites-for-days-7-10-32bd)
-- [Craft Perfect Github Readme&#39;s with READMEKRAFT](https://dev.to/mrknown404/craft-perfect-github-readmes-with-readmekraft-1nmf)
+- [Creating a Calculator app using React/Next](https://dev.to/johnscode/creating-a-calculator-app-using-reactnext-4j4n)
+- [🌟 Thrilled to Announce My Latest Achievement! Snowflake Badge 3🌟](https://dev.to/techwithqasim/thrilled-to-announce-my-latest-achievement-snowflake-badge-3-22nm)
+- [Day 1007 : The Carpenter](https://dev.to/dwane/day-1007-the-carpenter-17do)
+- [Supabase uses Valtio for its state management](https://dev.to/ramunarasinga/supabase-uses-valtio-for-its-state-management-cpf)
+- [The Logging, The AOP and The Clean Code](https://dev.to/thiagoematos/the-logging-the-aop-and-the-clean-code-4od1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
