@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Your Own React Hooks: A Step-by-Step Guide](https://dev.to/dobedosoft/how-to-build-your-own-react-hooks-a-step-by-step-guide-857)
-- [Destructuring in Python](https://dev.to/pham_bach_7cded53e4c5439e/destructuring-in-python-22jc)
-- [Unleash Your C++ Superpowers with This Beginner-Friendly Course! 🚀](https://dev.to/getvm/unleash-your-c-superpowers-with-this-beginner-friendly-course-31k)
-- [Discover the Future of AI with My New Book: Developing GenAI Applications with LangChain, Semantic Kernel and Powered by LLMs](https://dev.to/sreeni5018/discover-the-future-of-ai-with-my-new-book-developing-genai-applications-with-langchain-semantic-kernel-and-powered-by-llms-1fka)
-- [🚀Day 11: How to Handle Errors in Shell Scripting](https://dev.to/ritesh_dolare/day-11-how-to-handle-errors-in-shell-scripting-5c9e)
+- [The Complete Roadmap to Effective API Testing](https://dev.to/getambassador2024/the-complete-roadmap-to-effective-api-testing-37gp)
+- [7 Reasons Why TailwindCSS Outshines Traditional CSS](https://dev.to/muhammad_accama_9279d344c/7-reasons-why-tailwindcss-outshines-traditional-css-3afn)
+- [JavaScript Nested Accordion - Tailwindcss](https://dev.to/dropways/javascript-nested-accordion-tailwindcss-21ea)
+- [Array.slice vs. Array.splice: Clearing Up the Confusion](https://dev.to/ashutoshsarangi/arrayslice-vs-arraysplice-clearing-up-the-confusion-2jch)
+- [Discover 50 Free High Quality NextJS Templates with Easy UI](https://dev.to/darkinventor/discover-50-free-high-quality-nextjs-templates-with-easy-ui-1ohb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
