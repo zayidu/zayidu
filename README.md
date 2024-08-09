@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ideas for Faceless YouTube content](https://dev.to/imrankh13332994/ideas-for-faceless-youtube-content-p5e)
-- [How to use OpenAI’s new Structured Outputs API &lpar;with code&rpar;](https://dev.to/emcf/how-to-use-openais-new-structured-outputs-api-with-code-2enl)
-- [Understanding Program Crashes: Types, Causes, and Examples](https://dev.to/vivekyadav200988/understanding-program-crashes-types-causes-and-examples-2o04)
-- [Use Mistral AI to build generative AI applications with Go](https://dev.to/aws/use-mistral-ai-to-build-generative-ai-applications-with-go-2hpa)
-- [DOM Manipulation: Selecting and Manipulating DOM Elements](https://dev.to/srijan_karki/dom-manipulation-selecting-and-manipulating-dom-elements-29gk)
+- [How to Build Your Own React Hooks: A Step-by-Step Guide](https://dev.to/dobedosoft/how-to-build-your-own-react-hooks-a-step-by-step-guide-857)
+- [Destructuring in Python](https://dev.to/pham_bach_7cded53e4c5439e/destructuring-in-python-22jc)
+- [Unleash Your C++ Superpowers with This Beginner-Friendly Course! 🚀](https://dev.to/getvm/unleash-your-c-superpowers-with-this-beginner-friendly-course-31k)
+- [Discover the Future of AI with My New Book: Developing GenAI Applications with LangChain, Semantic Kernel and Powered by LLMs](https://dev.to/sreeni5018/discover-the-future-of-ai-with-my-new-book-developing-genai-applications-with-langchain-semantic-kernel-and-powered-by-llms-1fka)
+- [🚀Day 11: How to Handle Errors in Shell Scripting](https://dev.to/ritesh_dolare/day-11-how-to-handle-errors-in-shell-scripting-5c9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
