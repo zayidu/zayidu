@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Roadmap to Effective API Testing](https://dev.to/getambassador2024/the-complete-roadmap-to-effective-api-testing-37gp)
-- [7 Reasons Why TailwindCSS Outshines Traditional CSS](https://dev.to/muhammad_accama_9279d344c/7-reasons-why-tailwindcss-outshines-traditional-css-3afn)
-- [JavaScript Nested Accordion - Tailwindcss](https://dev.to/dropways/javascript-nested-accordion-tailwindcss-21ea)
-- [Array.slice vs. Array.splice: Clearing Up the Confusion](https://dev.to/ashutoshsarangi/arrayslice-vs-arraysplice-clearing-up-the-confusion-2jch)
-- [Discover 50 Free High Quality NextJS Templates with Easy UI](https://dev.to/darkinventor/discover-50-free-high-quality-nextjs-templates-with-easy-ui-1ohb)
+- [How to Rank on Amazon &lpar;Amazon SEO&rpar;](https://dev.to/okabarack/how-to-rank-on-amazon-amazon-seo-aaj)
+- [Achieving Sustainable Development Goals through Green Building Standards](https://dev.to/davidsadler/achieving-sustainable-development-goals-through-green-building-standards-3n02)
+- [The Foundations of Data Engineering for AI](https://dev.to/shubham_sri/the-foundations-of-data-engineering-for-ai-274)
+- [Simple and Easy-to-Use Web Security Gateway](https://dev.to/lulu_liu_c90f973e2f954d7f/simple-and-easy-to-use-web-security-gateway-pdk)
+- [Redux-Toolkit/Persist](https://dev.to/lucky_shrivas/redux-toolkitpersist-1d04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
