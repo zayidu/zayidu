@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #195 : Compiler, Refactoring components, XState Store, Next.js, Redwood, Vitale, Astro, LLMs, Astro...](https://dev.to/sebastienlorber/this-week-in-react-195-compiler-refactoring-components-xstate-store-nextjs-redwood-vitale-astro-llms-astro-pj5)
-- [Real-Time Fraud Detection: A Kafka-Based Microservices Solution](https://dev.to/sshamza/real-time-fraud-detection-a-kafka-based-microservices-solution-4dco)
-- [How to Run Jest Unit Tests in a Typescript Project](https://dev.to/dorinandreidragan/how-to-run-jest-unit-tests-in-a-typescript-project-ccj)
-- [Routing in .NET](https://dev.to/adrianbailador/routing-in-net-315k)
-- [Getting Started with React: A Beginner’s Tale](https://dev.to/ganeshnitalikar/getting-started-with-react-a-beginners-tale-1inn)
+- [Managing Dependencies and Security in JavaScript with NPM](https://dev.to/devarshishimpi/managing-dependencies-and-security-in-javascript-with-npm-2k6m)
+- [Day 32 Task: Launching your Kubernetes Cluster with Deployment](https://dev.to/oncloud7/day-32-task-launching-your-kubernetes-cluster-with-deployment-14bj)
+- [Understanding CSS Background Coloring for Nested Elements](https://dev.to/chrisgen19/understanding-css-background-coloring-for-nested-elements-236)
+- [Understanding The useRef React Hook 🔥](https://dev.to/alisamir/understanding-the-useref-react-hook-286c)
+- [LinkedIn “Detox” &lpar;?!&rpar; 🤔](https://dev.to/seif_sekalala_81e09fe6b9e/linkedin-detox--1koc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
