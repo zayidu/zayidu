@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Strategies for Ensuring Adequate Test Coverage in Backend Services](https://dev.to/shieldstring/strategies-for-ensuring-adequate-test-coverage-in-backend-services-4e28)
-- [The Hidden Costs of API Downtime: A CTO&#39;s Guide to Proactive Management](https://dev.to/irhose/the-hidden-costs-of-api-downtime-a-ctos-guide-to-proactive-management-1p3a)
-- [Is this thing on?](https://dev.to/bowtiedoffsec/is-this-thing-on-2l6i)
-- [Day 1006 : Decided](https://dev.to/dwane/day-1006-decided-9n2)
-- [10 Livros sobre Linux que vale a pena você ler](https://dev.to/marcosplusplus/10-livros-sobre-linux-que-vale-a-pena-voce-ler-gad)
+- [Building a Node.js Wrapper for Reddit API: A Step-by-Step Guide](https://dev.to/zand/building-a-nodejs-wrapper-for-reddit-api-a-step-by-step-guide-5eea)
+- [How to Migrate From CodeCommit](https://dev.to/aws-builders/how-to-migrate-from-codecommit-3em1)
+- [Code Smell 262 - Not Replaced Constants](https://dev.to/mcsee/code-smell-262-not-replaced-constants-13p2)
+- [Debugging Angular Applications](https://dev.to/kartikmehta8/debugging-angular-applications-3m99)
+- [MacOS 和 iOS app 的版本号冲突](https://dev.to/yo1995/macos-he-ios-app-de-ban-ben-hao-chong-tu-4cpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
