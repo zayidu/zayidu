@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable Notifications and Alerting System 🔥🚀](https://dev.to/middleware/building-a-scalable-notifications-and-alerting-system-kon)
-- [What is the best book for network programming?](https://dev.to/m__mdy__m/what-is-the-best-book-for-network-programming-5ci8)
-- [Pros and Cons of a Custom WordPress Theme](https://dev.to/marijana_nikolic_60700039/pros-and-cons-of-a-custom-wordpress-theme-233i)
-- [100FrontendChallenge - Day 9 - Password generator](https://dev.to/t1xx1/100frontendchallenge-day-9-password-generator-10al)
-- [GSoC’24&lpar;CircuitVerse&rpar; Week 9 &amp; 10](https://dev.to/niladri_adhikary_f11402dc/gsoc24circuitverse-week-9-10-45me)
+- [Data types - ma&#39;lumot turlari.](https://dev.to/sunnat_qayumov_2db67b1ba1/data-types-malumot-turlari-207p)
+- [Computer Vision Meetup: Evaluating RAG Models for LLMs - Key Metrics and Frameworks](https://dev.to/voxel51/computer-vision-meetup-evaluating-rag-models-for-llms-key-metrics-and-frameworks-2cpj)
+- [Setting up Golang with debugging and VS Code on MacOS](https://dev.to/nerdherd/setting-up-golang-with-debugging-and-vs-code-on-macos-2haf)
+- [Computer Vision Meetup: GenAI for Video - Diffusion-Based Editing and Generation](https://dev.to/voxel51/computer-vision-meetup-genai-for-video-diffusion-based-editing-and-generation-42mh)
+- [Best 8 Tool for Front-End Developer](https://dev.to/bizmavenhub/best-8-tool-for-front-end-developer-2ilb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
