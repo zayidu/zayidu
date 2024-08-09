@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Atomic CSS Deep Dive](https://dev.to/mr150/atomic-css-deep-dive-1hee)
-- [Jasypt CLI tools for encryption and decryption](https://dev.to/mhjaafar/jasypt-cli-tools-for-encryption-and-decryption-2898)
-- [Networking Step-by-Step 👣](https://dev.to/mohanavamsi0614/networking-step-by-step-3n8p)
-- [AWS Centralised Logging with Amazon OpenSearch](https://dev.to/neilclark83/aws-centrilised-logging-with-amazon-opensearch-3bna)
-- [Setting up Delve and Air to debug Golang with VS Code](https://dev.to/nerdherd/setting-up-golang-on-vs-code-with-debugging-1kbe)
+- [How To Count Strings With Emojis In JavaScript](https://dev.to/jeffbuildstech/how-to-count-strings-with-emojis-in-javascript-4604)
+- [# Common Issues and Resolutions When Setting Up a VPC in AWS](https://dev.to/sepiyush/-common-issues-and-resolutions-when-setting-up-a-vpc-in-aws-3hk2)
+- [How to leverage polymorphism to design flexible and maintainable software that adheres to SOLID principles](https://dev.to/muhammad_salem/how-to-leverage-polymorphism-to-design-flexible-and-maintainable-software-that-adheres-to-solid-principles-36a1)
+- [Mapping the Sky: GPS Receiver Animation](https://dev.to/rodrigoantunes/mapping-the-sky-gps-receiver-animation-1ne2)
+- [Understanding Task in .NET 🌐](https://dev.to/ipazooki/understanding-task-in-net-3cnn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
