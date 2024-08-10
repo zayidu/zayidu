@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI Beyond CRUD Full Course - A FastAPI Course](https://dev.to/jod35/fastapi-beyond-crud-full-course-a-fastapi-course-307p)
-- [Copiar objetos en Javascript](https://dev.to/ronny_minda_9d5d396d20428/copiar-objetos-en-javascript-nl1)
-- [AWS SSO Credentials With Multiple Accounts](https://dev.to/rdarrylr/aws-sso-credentials-with-multiple-accounts-2j02)
-- [Update Announcement: ServBay 1.4.0, More Features and Bugs Fixed](https://dev.to/servbay/update-announcement-servbay-140-o59)
-- [Level Basic Junior Programming Go](https://dev.to/sukmarizki04/level-basic-junior-programming-go-30df)
+- [React vs. Next.js](https://dev.to/doccaio/react-vs-nextjs-4gji)
+- [React vs. Next.js](https://dev.to/doccaio/react-vs-nextjs-5033)
+- [Building a Stellar Wallet App with Python : The Backstory](https://dev.to/buzzpy/building-a-steller-wallet-app-with-python-the-backstory-1knn)
+- [📚 Announcing My New Book: Building an LLMOps Pipeline Using Hugging Face 📚](https://dev.to/lakhera2015/announcing-my-new-book-building-an-llmops-pipeline-using-hugging-face-564m)
+- [Asynchronous programming in Javascript](https://dev.to/giridharans1729/asynchronous-programming-in-javascript-50ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
