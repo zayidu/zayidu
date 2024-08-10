@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React vs. Next.js](https://dev.to/doccaio/react-vs-nextjs-4gji)
-- [React vs. Next.js](https://dev.to/doccaio/react-vs-nextjs-5033)
-- [Building a Stellar Wallet App with Python : The Backstory](https://dev.to/buzzpy/building-a-steller-wallet-app-with-python-the-backstory-1knn)
-- [📚 Announcing My New Book: Building an LLMOps Pipeline Using Hugging Face 📚](https://dev.to/lakhera2015/announcing-my-new-book-building-an-llmops-pipeline-using-hugging-face-564m)
-- [Asynchronous programming in Javascript](https://dev.to/giridharans1729/asynchronous-programming-in-javascript-50ek)
+- [Day 12: Advanced AWS Concepts in DevOps – Part 2](https://dev.to/singh_in_cloud/day-12-advanced-aws-concepts-in-devops-part-2-1lai)
+- [Local development with Subdomains, Mobile Testing, and OAuth](https://dev.to/andremleblanc/local-development-with-subdomains-mobile-testing-and-oauth-4a30)
+- [Ripgrep Cheatsheet For Neovim Users](https://dev.to/gokayburuc/ripgrep-cheatsheet-for-neovim-users-3pbh)
+- [959. Regions Cut By Slashes](https://dev.to/mdarifulhaque/959-regions-cut-by-slashes-2cog)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/stephenndegwanderitu/understanding-your-data-the-essentials-of-exploratory-data-analysis-18ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
