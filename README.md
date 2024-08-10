@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IP addresses and DNS. How this dynamic duo is holding the Internet🤔](https://dev.to/abhishekraina/ip-addresses-and-dns-how-this-dynamic-duo-is-holding-the-internet-51mk)
-- [TShark Challenge II: Directory write up - TryHackMe](https://dev.to/franciscomelov/tshark-challenge-ii-directory-write-up-tryhackme-45ok)
-- [Kubernetes Networking with Services | Pods | Containers](https://dev.to/labex/kubernetes-networking-with-services-pods-containers-bj2)
-- [12 Best JavaScript Animation Libraries to Supercharge Your Web Projects in 2024](https://dev.to/vyan/12-best-javascript-animation-libraries-to-supercharge-your-web-projects-in-2024-21ka)
-- [PWC 281 Knight&#39;s Move](https://dev.to/boblied/pwc-281-knights-move-581p)
+- [The Causes of Poor Software Architecture](https://dev.to/diegosilva13/the-causes-of-poor-software-architecture-2gdi)
+- [I&#39;ve created command line based todo manager using Rust](https://dev.to/seonwoo960000/ive-created-command-line-based-todo-manager-using-rust-17ae)
+- [Mastering Linux Server Management with &quot;Making Servers Work&quot; 🐧](https://dev.to/getvm/mastering-linux-server-management-with-making-servers-work-2in8)
+- [How to Deploy a Node.js API with Nginx on a VPS](https://dev.to/shanu001x/how-to-deploy-a-nodejs-api-with-nginx-on-a-vps-5fgf)
+- [🌟Day 12 Insights: Mastering Git and GitHub Basics with Shubham Londhe](https://dev.to/ritesh_dolare/day-12-insights-mastering-git-and-github-basics-with-shubham-londhe-3enn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
