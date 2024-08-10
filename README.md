@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Decentralized Applications with Ethereum](https://dev.to/kartikmehta8/building-decentralized-applications-with-ethereum-4693)
-- [Unveiling the Magic of the Internet](https://dev.to/akashtdev/unveiling-the-magic-of-the-internet-16d3)
-- [Dev challenge](https://dev.to/ind_s_7e19e642a57862a9f50/dev-challenge-367e)
-- [Deploying a web app with CI/CD pipeline on Azure App Service.](https://dev.to/laoluafolami/deploying-a-web-app-with-cicd-pipeline-on-azure-app-service-ikg)
-- [Only 2 papers &amp; 3 assessments to go.](https://dev.to/mrmatt1010/only-2-papers-3-assessments-to-go-257f)
+- [Iterando por arrays multidimensionais](https://dev.to/devsjavagirls/iterando-por-arrays-multidimensionais-5fj4)
+- [O laço for de estilo for-each](https://dev.to/devsjavagirls/o-laco-for-de-estilo-for-each-2kjk)
+- [Today&#39;s Trending Projects: Create a Pixel Art Animator With React and More](https://dev.to/labex/todays-trending-projects-create-a-pixel-art-animator-with-react-and-more-2m26)
+- [Sintaxe alternativa para a declaração de arrays](https://dev.to/devsjavagirls/arrays-irregulares-no-java-2406)
+- [What&#39;s In The BOX?!: Variables](https://dev.to/steviepee/whats-in-the-box-variables-2b9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
