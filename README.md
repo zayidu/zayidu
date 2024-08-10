@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Validación de Datos en NestJS: De la Sintaxis a la Semántica](https://dev.to/juan_carlosvalderrbano/validacion-de-datos-en-nestjs-de-la-sintaxis-a-la-semantica-27d0)
-- [How to Create a Good Data Model？](https://dev.to/nocobase/how-to-create-a-good-data-model-a8o)
-- [Deuces9ersgold](https://dev.to/deuces9ers/deuces9ersgold-1hda)
-- [Ruby2html: Streamline Your Rails Views with Pure Ruby](https://dev.to/sebyx07/ruby2html-streamline-your-rails-views-with-pure-ruby-5e18)
-- [Deploying a Web App with CI/CD Pipeline on Azure App Service](https://dev.to/celestina_odili/deploying-a-web-app-with-cicd-pipeline-on-azure-app-service-3cd3)
+- [IP addresses and DNS. How this dynamic duo is holding the Internet🤔](https://dev.to/abhishekraina/ip-addresses-and-dns-how-this-dynamic-duo-is-holding-the-internet-51mk)
+- [TShark Challenge II: Directory write up - TryHackMe](https://dev.to/franciscomelov/tshark-challenge-ii-directory-write-up-tryhackme-45ok)
+- [Kubernetes Networking with Services | Pods | Containers](https://dev.to/labex/kubernetes-networking-with-services-pods-containers-bj2)
+- [12 Best JavaScript Animation Libraries to Supercharge Your Web Projects in 2024](https://dev.to/vyan/12-best-javascript-animation-libraries-to-supercharge-your-web-projects-in-2024-21ka)
+- [PWC 281 Knight&#39;s Move](https://dev.to/boblied/pwc-281-knights-move-581p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
