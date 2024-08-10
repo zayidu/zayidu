@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From OpenAI to Anthropic: Switching AI Providers Without Breaking Your Code](https://dev.to/ultraai/from-openai-to-anthropic-switching-ai-providers-without-breaking-your-code-526g)
-- [Redis](https://dev.to/satyamkumarsingh/redis-4bge)
-- [The Ultimate Guide to Managing AI Prompts for Developers](https://dev.to/ultraai/the-ultimate-guide-to-managing-ai-prompts-for-developers-43p4)
-- [My web dev. Journey](https://dev.to/thatprettygirlthatcodes/my-web-dev-journey-3if7)
-- [[picoctf]Binary Search writeup](https://dev.to/zerogru/picoctfbinary-search-writeup-2hbo)
+- [The Story behind typeof null returning &quot;object&quot; in Javascript](https://dev.to/surjoyday_kt/the-story-behind-typeof-null-returning-object-in-javascript-2287)
+- [Stellar ecosystem architect for Qaori.coop project](https://dev.to/roshoshin/stellar-ecosystem-architect-for-qaoricoop-project-23oe)
+- [Write a function that filters out all the falsy values from a given array.](https://dev.to/ajaymarathe/create-a-function-which-will-remove-all-the-falsy-values-from-given-array-1ilf)
+- [Recap Asana’s LLM Testing Playbook: A Comprehensive Analysis of Claude 3.5 Sonnet](https://dev.to/agagag/recap-asanas-llm-testing-playbook-a-comprehensive-analysis-of-claude-35-sonnet-46ll)
+- [Beginner’s Guide to Open-Source. Start your Open-Source Journey 🚀](https://dev.to/jfmartinz/beginners-guide-to-open-source-start-your-open-source-journey-470l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
