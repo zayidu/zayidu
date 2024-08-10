@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [W.I.P Functions in javascript](https://dev.to/ashutoshsarangi/wip-functions-in-javascript-3ehj)
+- [How to Install Windows Subsystem for Linux &lpar;WSL&rpar; and Run the Ubuntu Subsystem on Windows Using the Terminal](https://dev.to/divyansh_tiwari/how-to-install-windows-subsystem-for-linux-wsl-and-run-the-ubuntu-subsystem-on-windows-using-the-terminal-4m88)
+- [Show me your open source project](https://dev.to/aadarshk7/show-me-your-open-source-project-2nlm)
+- [How to get Paid in Your JavaScript Applications with LemonSqueezy](https://dev.to/adarshgupta101/how-to-get-paid-in-your-javascript-applications-with-lemonsqueezy-8om)
 - [The Causes of Poor Software Architecture](https://dev.to/diegosilva13/the-causes-of-poor-software-architecture-2gdi)
-- [I&#39;ve created command line based todo manager using Rust](https://dev.to/seonwoo960000/ive-created-command-line-based-todo-manager-using-rust-17ae)
-- [Mastering Linux Server Management with &quot;Making Servers Work&quot; 🐧](https://dev.to/getvm/mastering-linux-server-management-with-making-servers-work-2in8)
-- [How to Deploy a Node.js API with Nginx on a VPS](https://dev.to/shanu001x/how-to-deploy-a-nodejs-api-with-nginx-on-a-vps-5fgf)
-- [🌟Day 12 Insights: Mastering Git and GitHub Basics with Shubham Londhe](https://dev.to/ritesh_dolare/day-12-insights-mastering-git-and-github-basics-with-shubham-londhe-3enn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
