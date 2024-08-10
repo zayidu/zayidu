@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Your Azure Resources: A Guide to Using Read-Only and Delete Locks](https://dev.to/rofiatabdulkareem/securing-your-azure-resources-a-guide-to-using-read-only-and-delete-locks-5a53)
-- [Simplifying API Access with AWS Lambda Function URLs: Handling GET, POST, PUT, and DELETE with Built-in Security](https://dev.to/sunil_yaduvanshi/simplifying-api-access-with-aws-lambda-function-urls-handling-get-post-put-and-delete-with-built-in-security-4665)
-- [Introducing Redis Scheduler](https://dev.to/digital39999/introducing-redis-scheduler-459e)
-- [GraphQL](https://dev.to/suhaspalani/graphql-55mj)
-- [Building a Successful Career in Data Science: A Comprehensive Guide](https://dev.to/evanskiprotich/building-a-successful-career-in-data-science-a-comprehensive-guide-4dbi)
+- [using Ansible to deploy an application](https://dev.to/audu97/using-ansible-to-deploy-an-application-48mc)
+- [Custom React hook to sync state with the URL](https://dev.to/mr_mornin_star/custom-react-hook-to-sync-state-with-the-url-4b6p)
+- [Integration of Calendar for Efficient Meeting Scheduling](https://dev.to/aixart/integration-of-calendar-for-efficient-meeting-scheduling-1b94)
+- [40+ Linux Commands You Need to Know: The Ultimate Guide for Ubuntu Users](https://dev.to/ayush7614/40-linux-commands-you-need-to-know-the-ultimate-guide-for-ubuntu-users-2c6j)
+- [Deploying Kubernetes dashboard on a Kubernetes cluster](https://dev.to/dilanka-rathnasiri/deploying-kubernetes-dashboard-on-a-kubernetes-cluster-kmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
