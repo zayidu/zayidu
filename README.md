@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis](https://dev.to/ezekiel_77/redis-3njh)
-- [QuickJS: Handle Typescript Sourcemap](https://dev.to/yne/quickjs-handle-typescript-sourcemap-3b00)
-- [Execute function after response sent to client - express nodejs](https://dev.to/amanp30/execute-function-after-response-sent-to-client-express-nodejs-3f33)
-- [Estimating Coding Tasks: What Could Go Wrong?](https://dev.to/ninadmhatre/estimating-coding-tasks-what-could-go-wrong-1hhh)
-- [Latest Newsletter: Maximum Frontrun &lpar;Issue #176&rpar;](https://dev.to/mjgs/latest-newsletter-maximum-frontrun-issue-176-5ajo)
+- [Unlocking Private Connectivity in the Cloud Era: Exploring the Power of AWS PrivateLink](https://dev.to/ikoh_sylva/unlocking-private-connectivity-in-the-cloud-era-exploring-the-power-of-aws-privatelink-1ni0)
+- [CMS Starter Portfolio - Coming Soon!](https://dev.to/sivamani18/cms-starter-portfolio-coming-soon-1lbd)
+- [Deploying a Full-Stack PERN App to AWS EC2](https://dev.to/nmiller15/deploying-a-full-stack-pern-app-to-aws-ec2-5ggc)
+- [How Codium PR Agent Works on GitHub](https://dev.to/thekarlesi/how-codium-pr-agent-works-on-github-33jl)
+- [Applying Dark Mode in Next.js using CSS Variables](https://dev.to/riflan0ahmed/applying-dark-mode-in-nextjs-using-css-variables-1kgn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
