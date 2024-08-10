@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [W.I.P Functions in javascript](https://dev.to/ashutoshsarangi/wip-functions-in-javascript-3ehj)
-- [How to Install Windows Subsystem for Linux &lpar;WSL&rpar; and Run the Ubuntu Subsystem on Windows Using the Terminal](https://dev.to/divyansh_tiwari/how-to-install-windows-subsystem-for-linux-wsl-and-run-the-ubuntu-subsystem-on-windows-using-the-terminal-4m88)
-- [Show me your open source project](https://dev.to/aadarshk7/show-me-your-open-source-project-2nlm)
-- [How to get Paid in Your JavaScript Applications with LemonSqueezy](https://dev.to/adarshgupta101/how-to-get-paid-in-your-javascript-applications-with-lemonsqueezy-8om)
-- [The Causes of Poor Software Architecture](https://dev.to/diegosilva13/the-causes-of-poor-software-architecture-2gdi)
+- [Understanding Networks: From Basics to Advanced Concepts.](https://dev.to/luc_omar/understanding-networks-from-basics-to-advanced-concepts-21hd)
+- [Escape Saddle Points with Novel Perturbed Gradient Algorithm](https://dev.to/mikeyoung44/escape-saddle-points-with-novel-perturbed-gradient-algorithm-3aph)
+- [Begin Your Cloud Journey: Learn Azure Fundamentals](https://dev.to/hermes-bytes/begin-your-cloud-journey-learn-azure-fundamentals-5c25)
+- [Dive into Data: Learn Azure Data Fundamentals](https://dev.to/hermes-bytes/dive-into-data-learn-azure-data-fundamentals-2ieh)
+- [Unleash Your Creativity: Learn Microsoft Power Platform Fundamentals](https://dev.to/hermes-bytes/unleash-your-creativity-learn-microsoft-power-platform-fundamentals-4god)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
