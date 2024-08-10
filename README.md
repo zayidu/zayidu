@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Iterando por arrays multidimensionais](https://dev.to/devsjavagirls/iterando-por-arrays-multidimensionais-5fj4)
-- [O laço for de estilo for-each](https://dev.to/devsjavagirls/o-laco-for-de-estilo-for-each-2kjk)
-- [Today&#39;s Trending Projects: Create a Pixel Art Animator With React and More](https://dev.to/labex/todays-trending-projects-create-a-pixel-art-animator-with-react-and-more-2m26)
-- [Sintaxe alternativa para a declaração de arrays](https://dev.to/devsjavagirls/arrays-irregulares-no-java-2406)
-- [What&#39;s In The BOX?!: Variables](https://dev.to/steviepee/whats-in-the-box-variables-2b9h)
+- [Validación de Datos en NestJS: De la Sintaxis a la Semántica](https://dev.to/juan_carlosvalderrbano/validacion-de-datos-en-nestjs-de-la-sintaxis-a-la-semantica-27d0)
+- [How to Create a Good Data Model？](https://dev.to/nocobase/how-to-create-a-good-data-model-a8o)
+- [Deuces9ersgold](https://dev.to/deuces9ers/deuces9ersgold-1hda)
+- [Ruby2html: Streamline Your Rails Views with Pure Ruby](https://dev.to/sebyx07/ruby2html-streamline-your-rails-views-with-pure-ruby-5e18)
+- [Deploying a Web App with CI/CD Pipeline on Azure App Service](https://dev.to/celestina_odili/deploying-a-web-app-with-cicd-pipeline-on-azure-app-service-3cd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
