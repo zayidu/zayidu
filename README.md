@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [using Ansible to deploy an application](https://dev.to/audu97/using-ansible-to-deploy-an-application-48mc)
-- [Custom React hook to sync state with the URL](https://dev.to/mr_mornin_star/custom-react-hook-to-sync-state-with-the-url-4b6p)
-- [Integration of Calendar for Efficient Meeting Scheduling](https://dev.to/aixart/integration-of-calendar-for-efficient-meeting-scheduling-1b94)
-- [40+ Linux Commands You Need to Know: The Ultimate Guide for Ubuntu Users](https://dev.to/ayush7614/40-linux-commands-you-need-to-know-the-ultimate-guide-for-ubuntu-users-2c6j)
-- [Deploying Kubernetes dashboard on a Kubernetes cluster](https://dev.to/dilanka-rathnasiri/deploying-kubernetes-dashboard-on-a-kubernetes-cluster-kmi)
+- [Foundationda 3 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-3-dars-4h51)
+- [Creating an empty Angular project and linking it to an existing server on NestJS](https://dev.to/endykaufman/creating-an-empty-angular-project-and-linking-it-to-an-existing-server-on-nestjs-1bbi)
+- [Machine Learning 101: A Beginner&#39;s Guide to Predictive Analytics](https://dev.to/fizza_c3e734ee2a307cf35e5/machine-learning-101-a-beginners-guide-to-predictive-analytics-15g3)
+- [Music and Memory: How Sound Shapes Our Lives |Daniel Siegel Loanso](https://dev.to/daniel_siegel_loanso/music-and-memory-how-sound-shapes-our-lives-daniel-siegel-loanso-15pn)
+- [5 Must-Have VS Code Extensions to Boost Your Coding Efficiency](https://dev.to/lunamiller/5-must-have-vs-code-extensions-to-boost-your-coding-efficiency-4f86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
