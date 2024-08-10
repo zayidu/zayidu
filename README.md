@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Calculator app using React/Next](https://dev.to/johnscode/creating-a-calculator-app-using-reactnext-4j4n)
-- [🌟 Thrilled to Announce My Latest Achievement! Snowflake Badge 3🌟](https://dev.to/techwithqasim/thrilled-to-announce-my-latest-achievement-snowflake-badge-3-22nm)
-- [Day 1007 : The Carpenter](https://dev.to/dwane/day-1007-the-carpenter-17do)
-- [Supabase uses Valtio for its state management](https://dev.to/ramunarasinga/supabase-uses-valtio-for-its-state-management-cpf)
-- [The Logging, The AOP and The Clean Code](https://dev.to/thiagoematos/the-logging-the-aop-and-the-clean-code-4od1)
+- [Building Decentralized Applications with Ethereum](https://dev.to/kartikmehta8/building-decentralized-applications-with-ethereum-4693)
+- [Unveiling the Magic of the Internet](https://dev.to/akashtdev/unveiling-the-magic-of-the-internet-16d3)
+- [Dev challenge](https://dev.to/ind_s_7e19e642a57862a9f50/dev-challenge-367e)
+- [Deploying a web app with CI/CD pipeline on Azure App Service.](https://dev.to/laoluafolami/deploying-a-web-app-with-cicd-pipeline-on-azure-app-service-ikg)
+- [Only 2 papers &amp; 3 assessments to go.](https://dev.to/mrmatt1010/only-2-papers-3-assessments-to-go-257f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
