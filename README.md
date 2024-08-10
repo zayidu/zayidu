@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Foundationda 3 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-3-dars-4h51)
-- [Creating an empty Angular project and linking it to an existing server on NestJS](https://dev.to/endykaufman/creating-an-empty-angular-project-and-linking-it-to-an-existing-server-on-nestjs-1bbi)
-- [Machine Learning 101: A Beginner&#39;s Guide to Predictive Analytics](https://dev.to/fizza_c3e734ee2a307cf35e5/machine-learning-101-a-beginners-guide-to-predictive-analytics-15g3)
-- [Music and Memory: How Sound Shapes Our Lives |Daniel Siegel Loanso](https://dev.to/daniel_siegel_loanso/music-and-memory-how-sound-shapes-our-lives-daniel-siegel-loanso-15pn)
-- [5 Must-Have VS Code Extensions to Boost Your Coding Efficiency](https://dev.to/lunamiller/5-must-have-vs-code-extensions-to-boost-your-coding-efficiency-4f86)
+- [Redis](https://dev.to/ezekiel_77/redis-3njh)
+- [QuickJS: Handle Typescript Sourcemap](https://dev.to/yne/quickjs-handle-typescript-sourcemap-3b00)
+- [Execute function after response sent to client - express nodejs](https://dev.to/amanp30/execute-function-after-response-sent-to-client-express-nodejs-3f33)
+- [Estimating Coding Tasks: What Could Go Wrong?](https://dev.to/ninadmhatre/estimating-coding-tasks-what-could-go-wrong-1hhh)
+- [Latest Newsletter: Maximum Frontrun &lpar;Issue #176&rpar;](https://dev.to/mjgs/latest-newsletter-maximum-frontrun-issue-176-5ajo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
