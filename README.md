@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/mark_ouma/understanding-your-data-the-essentials-of-exploratory-data-analysis-459i)
-- [Troubleshooting MySQL Server Not Connecting: A Comprehensive Guide](https://dev.to/javafullstackdev/troubleshooting-mysql-server-not-connecting-a-comprehensive-guide-52dp)
-- [You’re Spending Time on the Wrong Thing — Here’s What Really Adds Value](https://dev.to/themuneebh/youre-spending-time-on-the-wrong-thing-heres-what-really-adds-value-572f)
-- [How to Resolve MySQL Error 2003 &lpar;HY000&rpar;: Can&#39;t Connect to MySQL Server on &#39;localhost:3306&#39;](https://dev.to/javafullstackdev/how-to-resolve-mysql-error-2003-hy000-cant-connect-to-mysql-server-on-localhost3306-158l)
-- [An autopsy on the CrowdStrike outage](https://dev.to/document10/an-autopsy-on-the-crowdstrike-outage-282a)
+- [Self-Hosting Forem on AWS](https://dev.to/tonic/self-hosting-forem-on-aws-50pc)
+- [Is ChatBot enough for websites](https://dev.to/desi_valli/is-chatbot-enough-for-websites-19ni)
+- [Nebular Starburst](https://dev.to/dan52242644dan/nebular-starburst-2mg8)
+- [Understanding UTM parameters: A Guide to Effective Campaign Tracking](https://dev.to/negrel/understanding-utm-parameters-a-guide-to-effective-campaign-tracking-3hg4)
+- [Ratmeli](https://dev.to/marcos_sandi_9152d03c3b43/ratmeli-29ep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
