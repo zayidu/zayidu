@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Networks: From Basics to Advanced Concepts.](https://dev.to/luc_omar/understanding-networks-from-basics-to-advanced-concepts-21hd)
-- [Escape Saddle Points with Novel Perturbed Gradient Algorithm](https://dev.to/mikeyoung44/escape-saddle-points-with-novel-perturbed-gradient-algorithm-3aph)
-- [Begin Your Cloud Journey: Learn Azure Fundamentals](https://dev.to/hermes-bytes/begin-your-cloud-journey-learn-azure-fundamentals-5c25)
-- [Dive into Data: Learn Azure Data Fundamentals](https://dev.to/hermes-bytes/dive-into-data-learn-azure-data-fundamentals-2ieh)
-- [Unleash Your Creativity: Learn Microsoft Power Platform Fundamentals](https://dev.to/hermes-bytes/unleash-your-creativity-learn-microsoft-power-platform-fundamentals-4god)
+- [Securing Your Azure Resources: A Guide to Using Read-Only and Delete Locks](https://dev.to/rofiatabdulkareem/securing-your-azure-resources-a-guide-to-using-read-only-and-delete-locks-5a53)
+- [Simplifying API Access with AWS Lambda Function URLs: Handling GET, POST, PUT, and DELETE with Built-in Security](https://dev.to/sunil_yaduvanshi/simplifying-api-access-with-aws-lambda-function-urls-handling-get-post-put-and-delete-with-built-in-security-4665)
+- [Introducing Redis Scheduler](https://dev.to/digital39999/introducing-redis-scheduler-459e)
+- [GraphQL](https://dev.to/suhaspalani/graphql-55mj)
+- [Building a Successful Career in Data Science: A Comprehensive Guide](https://dev.to/evanskiprotich/building-a-successful-career-in-data-science-a-comprehensive-guide-4dbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
