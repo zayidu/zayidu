@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Private Connectivity in the Cloud Era: Exploring the Power of AWS PrivateLink](https://dev.to/ikoh_sylva/unlocking-private-connectivity-in-the-cloud-era-exploring-the-power-of-aws-privatelink-1ni0)
-- [CMS Starter Portfolio - Coming Soon!](https://dev.to/sivamani18/cms-starter-portfolio-coming-soon-1lbd)
-- [Deploying a Full-Stack PERN App to AWS EC2](https://dev.to/nmiller15/deploying-a-full-stack-pern-app-to-aws-ec2-5ggc)
-- [How Codium PR Agent Works on GitHub](https://dev.to/thekarlesi/how-codium-pr-agent-works-on-github-33jl)
-- [Applying Dark Mode in Next.js using CSS Variables](https://dev.to/riflan0ahmed/applying-dark-mode-in-nextjs-using-css-variables-1kgn)
+- [Clean code vs bad code](https://dev.to/asmyshlyaev177/clean-code-vs-bad-code-3bb0)
+- [Exploring the React Typing Effect NPM Library](https://dev.to/sivamani18/exploring-the-react-typing-effect-npm-library-45gc)
+- [Cautions When Using readonly in TypeScript](https://dev.to/noah-00/cautions-when-using-readonly-in-typescript-22d7)
+- [100FrontendChallenge - Day 10 - Sign up](https://dev.to/t1xx1/100frontendchallenge-day-10-sign-up-63g)
+- [Python Packaging is Great Now: `uv` is all you need](https://dev.to/astrojuanlu/python-packaging-is-great-now-uv-is-all-you-need-4i2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
