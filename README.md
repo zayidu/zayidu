@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Healthy Workforce Culture](https://dev.to/christopherchhim/healthy-workforce-culture-34c5)
+- [Day 40 of 100 Days of Code](https://dev.to/jacobsternx/day-40-of-100-days-of-code-5ajd)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/evanskiprotich/understanding-your-data-the-essentials-of-exploratory-data-analysis-385k)
+- [Kaniko : Révolutionner vos builds Docker en toute sécurité](https://dev.to/laformulenuagique/kaniko-revolutionner-vos-builds-docker-en-toute-securite-16pm)
 - [The JavaScript Bible: Your Comprehensive Guide to Web Development 🌐](https://dev.to/getvm/the-javascript-bible-your-comprehensive-guide-to-web-development-4kf7)
-- [🚀 5 Minutes to Master Prompt Engineering 🤖](https://dev.to/lokesh_singh/5-minutes-to-master-prompt-engineering-2i63)
-- [Using CSS Clamp for Responsive Typography](https://dev.to/tailwine/using-css-clamp-for-responsive-typography-2690)
-- [GitOps: The Game-Changer in Software Delivery and Infrastructure Management](https://dev.to/vyan/gitops-the-game-changer-in-software-delivery-and-infrastructure-management-3ibd)
-- [Day 3: Diving into Spring Security](https://dev.to/waldyctt/day-3-diving-into-spring-security-3idi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
