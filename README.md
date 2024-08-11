@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Executable Blog Posts: Second Take](https://dev.to/vst/executable-blog-posts-second-take-1dkn)
-- [Como Classificar Datas em Java](https://dev.to/andersoncode66/como-classificar-datas-em-java-i3m)
-- [Introduction to UI Design: Understanding the Basics](https://dev.to/uicraft_by_pratik/introduction-to-ui-design-understanding-the-basics-ih4)
-- [Securing Testing Secrets with pytest-mask-secrets](https://dev.to/mangan37/securing-testing-secrets-with-pytest-mask-secrets-1ohm)
-- [What is Git ?](https://dev.to/hadil/what-is-git--51j9)
+- [# Creating a Token Faucet on Stellar: A Beginner&#39;s Tutorial 🚰💧](https://dev.to/onwuagba/-creating-a-token-faucet-on-stellar-a-beginners-tutorial-2hla)
+- [Faster, Easier Deployments: How We Simplified Our Infrastructure with Nomad in 15 Hours &lpar;Goodbye, Kubernetes!&rpar;](https://dev.to/hexmos/faster-easier-deployments-how-we-simplified-our-infrastructure-with-nomad-in-15-hours-goodbye-kubernetes-38oi)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/lewis_karimi/understanding-your-data-the-essentials-of-exploratory-data-analysis-n0a)
+- [Learning the Differences Between Web Development and Web Design—How Do You Find the Right Partner?](https://dev.to/chris_keith_b4ab5179445cf/learning-the-differences-between-web-development-and-web-design-how-do-you-find-the-right-partner-2pdo)
+- [Recommended Project: Building a Modern Expense Splitter Web App](https://dev.to/labex/recommended-project-building-a-modern-expense-splitter-web-app-23j7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
