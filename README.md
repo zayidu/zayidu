@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Web Workers for Parallel Processing in JavaScript](https://dev.to/jerrycode06/using-web-workers-for-parallel-processing-in-javascript-3nhd)
-- [ROI of Reducing MTTR: Real-World Benefits and Savings](https://dev.to/squadcast/roi-of-reducing-mttr-real-world-benefits-and-savings-1lbo)
-- [Day 42 of 100 Days of Code](https://dev.to/jacobsternx/day-42-of-100-days-of-code-2ph4)
-- [What is Solid Design Principle in Java?](https://dev.to/rajesh1761/what-is-solid-design-principle-in-java-134j)
-- [How To Configure A Data Connector Data Collection Rule](https://dev.to/vincenthyacienth/how-to-configure-a-data-connector-data-collection-rule-2o8)
+- [AI: An overview of common LLM benchmarks](https://dev.to/hmcodes/ai-an-overview-of-common-llm-benchmarks-3i7b)
+- [BiRefNet State Of The Art Newest Very Best Background Batch Remover APP](https://dev.to/furkangozukara/birefnet-state-of-the-art-newest-very-best-background-batch-remover-app-19k1)
+- [VoteVault: Our Journey from a Lunchtime Idea to dApp](https://dev.to/gr1ll/votevault-our-journey-from-a-lunchtime-idea-to-dapp-2opf)
+- [🐚 My Pacific Dataviz Challenge 2024 submission : violence &amp; graphdatascience](https://dev.to/adriens/my-pacific-dataviz-challenge-2024-submission-violence-graphdatascience-564l)
+- [Ruin has come to your repository!](https://dev.to/skywarth/ruin-has-come-to-your-repository-3oo6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
