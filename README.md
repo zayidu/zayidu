@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Set data to localStorage with limited time to live](https://dev.to/yevheniia_br/set-data-to-localstorage-with-limited-time-to-live-233g)
-- [100+ Game-Changing ChatGPT Prompts for Developers, Product Managers, Designers, and Email Marketers](https://dev.to/ayush7614/100-game-changing-chatgpt-prompts-for-developers-product-managers-designers-and-email-marketers-1c5i)
-- [Product Authenticator Using :Stellar Blockchain Technology](https://dev.to/ankit_sharma333/product-authenticator-using-stellar-blockchain-technology-7mb)
-- [Neovim: My Setup for Developer Assistant with Local Language Models](https://dev.to/ottercyborg/neovim-my-setup-for-developer-assistant-with-local-language-models-2nim)
-- [Data Analysis](https://dev.to/amolo_awuor/data-analysis-1jjn)
+- [[DAY 96-98] I built a script that gets info from a periodic table database](https://dev.to/thomascansino/day-96-98-i-built-a-script-that-gets-info-from-a-periodic-table-database-4oh0)
+- [Nuxt Server-Side Proxy for Open Weather Api](https://dev.to/ratul16/nuxt-server-side-proxy-for-open-weather-api-577a)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/ekitindi/understanding-your-data-the-essentials-of-exploratory-data-analysis-5997)
+- [Demographic dataset analyze](https://dev.to/yowise/demographic-dataset-analyze-1ak2)
+- [Mastering Laravel Localization: A Comprehensive Guide to Multilingual Applications](https://dev.to/bmtmadushanka/mastering-laravel-localization-a-comprehensive-guide-to-multilingual-applications-66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
