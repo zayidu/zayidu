@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Outreachy Experience!❤️](https://dev.to/rose_kivuva_e0025d781778f/my-outreachy-experience-2de0)
-- [How The Adapter Pattern Can Simplify Your Codebase](https://dev.to/nilebits/how-the-adapter-pattern-can-simplify-your-codebase-54jj)
-- [How to Create a &quot;Guess the Number&quot; Game in Python for beginners](https://dev.to/divyansh_tiwari/how-to-create-a-guess-the-number-game-in-python-1840)
-- [🎉 Announcing Cart Package Coupon Feature!](https://dev.to/realrashid/announcing-cart-package-coupon-feature-3dk3)
-- [# Code Optimization Techniques for Front-End Developers](https://dev.to/gadekar_sachin/-code-optimization-techniques-for-front-end-developers-1pbn)
+- [Balancing Data Deletion and Historical Accuracy](https://dev.to/krishnacyber/balancing-data-deletion-and-historical-accuracy-51a8)
+- [Building an AWS Power Calculator Web Application](https://dev.to/sujal_dua/building-an-aws-power-calculator-web-application-3k72)
+- [Creating a Visual Diagram Using Syncfusion in a C# Windows Forms Application](https://dev.to/thedcode/creating-a-visual-diagram-using-syncfusion-in-a-c-windows-forms-application-4jg8)
+- [Trying to get into laravel dependency injection](https://dev.to/blinkinglight/trying-to-get-into-laravel-dependency-injection-160p)
+- [Prop Drilling in React: definition and examples](https://dev.to/ericlefyson/prop-drilling-in-react-definition-and-examples-1395)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
