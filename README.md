@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The JavaScript Bible: Your Comprehensive Guide to Web Development 🌐](https://dev.to/getvm/the-javascript-bible-your-comprehensive-guide-to-web-development-4kf7)
+- [🚀 5 Minutes to Master Prompt Engineering 🤖](https://dev.to/lokesh_singh/5-minutes-to-master-prompt-engineering-2i63)
+- [Using CSS Clamp for Responsive Typography](https://dev.to/tailwine/using-css-clamp-for-responsive-typography-2690)
 - [GitOps: The Game-Changer in Software Delivery and Infrastructure Management](https://dev.to/vyan/gitops-the-game-changer-in-software-delivery-and-infrastructure-management-3ibd)
 - [Day 3: Diving into Spring Security](https://dev.to/waldyctt/day-3-diving-into-spring-security-3idi)
-- [Docker Containers | Linux Namespaces | Container Isolation](https://dev.to/labex/docker-containers-linux-namespaces-container-isolation-3fg5)
-- [Why use ML.NET?](https://dev.to/integerman/why-use-mlnet-5eh2)
-- [How to encrypt Strings in .NET code obfuscation?](https://dev.to/rustemsoft/how-to-encrypt-strings-in-net-code-obfuscation-3io4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
