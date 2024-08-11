@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [huggingface fix: you either need to activate Developer Mode or to run Python as an administrator](https://dev.to/danc/huggingface-fix-you-either-need-to-activate-developer-mode-or-to-run-python-as-an-administrator-307o)
-- [fix: A module that was compiled using NumPy 1.x cannot be run in NumPy 2.0.0 as it may crash](https://dev.to/danc/fix-a-module-that-was-compiled-using-numpy-1x-cannot-be-run-in-numpy-200-as-it-may-crash-jp5)
-- [🚀 教程：通过 MongoDB 向量搜索财务 PDF 报告 &lpar;本地嵌入&rpar;](https://dev.to/mongodb-builder/jiao-cheng-tong-guo-mongodb-xiang-liang-sou-suo-ben-di-qian-ru-cai-wu-pdf-bao-gao-791)
-- [The Future of the Internet](https://dev.to/vithanagedanu/the-future-of-the-internet-pb2)
-- [Fix: Python312\Lib\site-packages\torch\lib\fbgemm.dll](https://dev.to/danc/fix-python312libsite-packagestorchlibfbgemmdll-4omk)
+- [FiveM RAT Analysis](https://dev.to/oggetto/fivem-rat-analysis-2ndb)
+- [Why JavaScript Is Not &#39;True&#39; OOP](https://dev.to/aivantuquero/why-javascript-is-not-true-oop-ah0)
+- [Reimagining EmbeddedChat: GSoC 2024](https://dev.to/spiral_memory/reimagining-embeddedchat-gsoc-2024-1lhn)
+- [Uploading Your First Node.js Code to Azure: A Step-by-Step Guide](https://dev.to/dhaval_upadhyay_30f8292a8/uploading-your-first-nodejs-code-to-azure-a-step-by-step-guide-43k5)
+- [Streamline Your Code Reviews with SHIP SHOW ASK: A Modern Approach](https://dev.to/rouretl/streamline-your-code-reviews-with-ship-show-ask-a-modern-approach-2o5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
