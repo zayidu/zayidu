@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Balancing Data Deletion and Historical Accuracy](https://dev.to/krishnacyber/balancing-data-deletion-and-historical-accuracy-51a8)
-- [Building an AWS Power Calculator Web Application](https://dev.to/sujal_dua/building-an-aws-power-calculator-web-application-3k72)
-- [Creating a Visual Diagram Using Syncfusion in a C# Windows Forms Application](https://dev.to/thedcode/creating-a-visual-diagram-using-syncfusion-in-a-c-windows-forms-application-4jg8)
-- [Trying to get into laravel dependency injection](https://dev.to/blinkinglight/trying-to-get-into-laravel-dependency-injection-160p)
-- [Prop Drilling in React: definition and examples](https://dev.to/ericlefyson/prop-drilling-in-react-definition-and-examples-1395)
+- [Executable Blog Posts: Second Take](https://dev.to/vst/executable-blog-posts-second-take-1dkn)
+- [Como Classificar Datas em Java](https://dev.to/andersoncode66/como-classificar-datas-em-java-i3m)
+- [Introduction to UI Design: Understanding the Basics](https://dev.to/uicraft_by_pratik/introduction-to-ui-design-understanding-the-basics-ih4)
+- [Securing Testing Secrets with pytest-mask-secrets](https://dev.to/mangan37/securing-testing-secrets-with-pytest-mask-secrets-1ohm)
+- [What is Git ?](https://dev.to/hadil/what-is-git--51j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
