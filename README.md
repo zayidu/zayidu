@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Amazon Q Business with AWS CDK - example and best practices](https://dev.to/aws-builders/deploy-amazon-q-business-with-aws-cdk-example-and-best-practices-4ff8)
-- [ShowDEV - We built a All-in-one AI command center for your products.](https://dev.to/namanvyas/showdev-we-built-a-all-in-one-ai-command-center-for-your-products-435e)
-- [TailGrids React: 600+ Tailwind CSS React UI Components](https://dev.to/tailwindcss/tailgrids-react-600-tailwind-css-react-ui-components-n6c)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/gekika/understanding-your-data-the-essentials-of-exploratory-data-analysis-1gm0)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis &lpar;EDA&rpar;](https://dev.to/lewis_dan_f90e608878af127/understanding-your-data-the-essentials-of-exploratory-data-analysis-eda-4cpc)
+- [Using Web Workers for Parallel Processing in JavaScript](https://dev.to/jerrycode06/using-web-workers-for-parallel-processing-in-javascript-3nhd)
+- [ROI of Reducing MTTR: Real-World Benefits and Savings](https://dev.to/squadcast/roi-of-reducing-mttr-real-world-benefits-and-savings-1lbo)
+- [Day 42 of 100 Days of Code](https://dev.to/jacobsternx/day-42-of-100-days-of-code-2ph4)
+- [What is Solid Design Principle in Java?](https://dev.to/rajesh1761/what-is-solid-design-principle-in-java-134j)
+- [How To Configure A Data Connector Data Collection Rule](https://dev.to/vincenthyacienth/how-to-configure-a-data-connector-data-collection-rule-2o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
