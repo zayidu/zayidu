@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[DAY 96-98] I built a script that gets info from a periodic table database](https://dev.to/thomascansino/day-96-98-i-built-a-script-that-gets-info-from-a-periodic-table-database-4oh0)
-- [Nuxt Server-Side Proxy for Open Weather Api](https://dev.to/ratul16/nuxt-server-side-proxy-for-open-weather-api-577a)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/ekitindi/understanding-your-data-the-essentials-of-exploratory-data-analysis-5997)
-- [Demographic dataset analyze](https://dev.to/yowise/demographic-dataset-analyze-1ak2)
-- [Mastering Laravel Localization: A Comprehensive Guide to Multilingual Applications](https://dev.to/bmtmadushanka/mastering-laravel-localization-a-comprehensive-guide-to-multilingual-applications-66)
+- [My Outreachy Experience!❤️](https://dev.to/rose_kivuva_e0025d781778f/my-outreachy-experience-2de0)
+- [How The Adapter Pattern Can Simplify Your Codebase](https://dev.to/nilebits/how-the-adapter-pattern-can-simplify-your-codebase-54jj)
+- [How to Create a &quot;Guess the Number&quot; Game in Python for beginners](https://dev.to/divyansh_tiwari/how-to-create-a-guess-the-number-game-in-python-1840)
+- [🎉 Announcing Cart Package Coupon Feature!](https://dev.to/realrashid/announcing-cart-package-coupon-feature-3dk3)
+- [# Code Optimization Techniques for Front-End Developers](https://dev.to/gadekar_sachin/-code-optimization-techniques-for-front-end-developers-1pbn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
