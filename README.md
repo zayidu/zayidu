@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Tutorial: local embedding financial reports for internal search](https://dev.to/mongodb-builder/tutorial-local-embedding-financial-reports-for-internal-search-3ohb)
-- [Advanced CSS Animations](https://dev.to/kartikmehta8/advanced-css-animations-1bo9)
-- [Introducción a React: Fundamentos para Principiantes](https://dev.to/nandev_16/introduccion-a-react-fundamentos-para-principiantes-2kcm)
-- [Continuous Delivery Is Killing Software Quality](https://dev.to/crisclacerda/continuous-delivery-is-killing-software-quality-2kpl)
-- [Remote software engineer jobs](https://dev.to/araguaci/remote-software-engineer-jobs-3k39)
+- [I Changed My Mind - NixOS is NOT the Best Linux](https://dev.to/jasper-at-windswept/i-changed-my-mind-nixos-is-not-the-best-linux-1cpj)
+- [Universal contract&#39;s interface App](https://dev.to/mibii/universal-contracts-interface-app-2519)
+- [Today&#39;s Trending Projects: Transparent Modification of HTTP Requests and More](https://dev.to/labex/todays-trending-projects-transparent-modification-of-http-requests-and-more-k6)
+- [Improve Code Readability and Efficiency - 11 Tips](https://dev.to/anthonyhawkins/improve-code-readability-and-efficiency-11-tips-41n5)
+- [Project 50 Challenge](https://dev.to/kiinda/project-50-challenge-jk4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
