@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Scrape Data From a Page With Infinite Scroll! ♾️](https://dev.to/karanrathod316/how-to-scrape-data-from-a-page-with-infinite-scroll-2enk)
-- [The developer roadmap YOU need](https://dev.to/bridget_amana/the-developer-roadmap-you-need-6nl)
-- [GrilScript Summer of code](https://dev.to/gokilp_25/grilscript-summer-of-code-4dlh)
-- [Using npm packages in AdonisJS](https://dev.to/mezie/using-npm-packages-in-adonisjs-cnj)
-- [Why Phyton use in Advance level?](https://dev.to/techsolutionblog/why-phyton-use-in-advance-level-1jn5)
+- [huggingface fix: you either need to activate Developer Mode or to run Python as an administrator](https://dev.to/danc/huggingface-fix-you-either-need-to-activate-developer-mode-or-to-run-python-as-an-administrator-307o)
+- [fix: A module that was compiled using NumPy 1.x cannot be run in NumPy 2.0.0 as it may crash](https://dev.to/danc/fix-a-module-that-was-compiled-using-numpy-1x-cannot-be-run-in-numpy-200-as-it-may-crash-jp5)
+- [🚀 教程：通过 MongoDB 向量搜索财务 PDF 报告 &lpar;本地嵌入&rpar;](https://dev.to/mongodb-builder/jiao-cheng-tong-guo-mongodb-xiang-liang-sou-suo-ben-di-qian-ru-cai-wu-pdf-bao-gao-791)
+- [The Future of the Internet](https://dev.to/vithanagedanu/the-future-of-the-internet-pb2)
+- [Fix: Python312\Lib\site-packages\torch\lib\fbgemm.dll](https://dev.to/danc/fix-python312libsite-packagestorchlibfbgemmdll-4omk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
