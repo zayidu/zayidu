@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FiveM RAT Analysis](https://dev.to/oggetto/fivem-rat-analysis-2ndb)
-- [Why JavaScript Is Not &#39;True&#39; OOP](https://dev.to/aivantuquero/why-javascript-is-not-true-oop-ah0)
-- [Reimagining EmbeddedChat: GSoC 2024](https://dev.to/spiral_memory/reimagining-embeddedchat-gsoc-2024-1lhn)
-- [Uploading Your First Node.js Code to Azure: A Step-by-Step Guide](https://dev.to/dhaval_upadhyay_30f8292a8/uploading-your-first-nodejs-code-to-azure-a-step-by-step-guide-43k5)
-- [Streamline Your Code Reviews with SHIP SHOW ASK: A Modern Approach](https://dev.to/rouretl/streamline-your-code-reviews-with-ship-show-ask-a-modern-approach-2o5a)
+- [Define&lpar;&rpar; In Javascript: A Clear Explanation](https://dev.to/arsalanmeee/define-in-javascript-a-clear-explanation-4h6g)
+- [Declaration using const vs freeze in Javascript](https://dev.to/alishgiri/declaration-using-const-vs-freeze-in-javascript-5ak4)
+- [React and Microfrontends: Architecture, Integration, and Scaling](https://dev.to/mdhassanpatwary/react-and-microfrontends-architecture-integration-and-scaling-3fc0)
+- [How to setup SASS in Vite Environment and brief notes on important sass functionalities](https://dev.to/godwin_nj/how-to-work-with-sass-in-vite-environment-and-brief-notes-on-important-sass-functionalities-k2)
+- [20 Lesser-Known CSS Tricks — The Ultimate Collection](https://dev.to/safdarali/20-lesser-known-css-tricks-the-ultimate-collection-268k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
