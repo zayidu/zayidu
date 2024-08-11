@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Story behind typeof null returning &quot;object&quot; in Javascript](https://dev.to/surjoyday_kt/the-story-behind-typeof-null-returning-object-in-javascript-2287)
-- [Stellar ecosystem architect for Qaori.coop project](https://dev.to/roshoshin/stellar-ecosystem-architect-for-qaoricoop-project-23oe)
-- [Write a function that filters out all the falsy values from a given array.](https://dev.to/ajaymarathe/create-a-function-which-will-remove-all-the-falsy-values-from-given-array-1ilf)
-- [Recap Asana’s LLM Testing Playbook: A Comprehensive Analysis of Claude 3.5 Sonnet](https://dev.to/agagag/recap-asanas-llm-testing-playbook-a-comprehensive-analysis-of-claude-35-sonnet-46ll)
-- [Beginner’s Guide to Open-Source. Start your Open-Source Journey 🚀](https://dev.to/jfmartinz/beginners-guide-to-open-source-start-your-open-source-journey-470l)
+- [🚀 Tutorial: local embedding financial reports for internal search](https://dev.to/mongodb-builder/tutorial-local-embedding-financial-reports-for-internal-search-3ohb)
+- [Advanced CSS Animations](https://dev.to/kartikmehta8/advanced-css-animations-1bo9)
+- [Introducción a React: Fundamentos para Principiantes](https://dev.to/nandev_16/introduccion-a-react-fundamentos-para-principiantes-2kcm)
+- [Continuous Delivery Is Killing Software Quality](https://dev.to/crisclacerda/continuous-delivery-is-killing-software-quality-2kpl)
+- [Remote software engineer jobs](https://dev.to/araguaci/remote-software-engineer-jobs-3k39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
