@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Search Engine From Scratch](https://dev.to/unworthyenzyme/search-engine-from-scratch-45ic)
-- [The Essentials of Exploratory Data Analysis](https://dev.to/wanjiru_maureen_16f3ab0fd/the-essentials-of-exploratory-data-analysis-27cp)
-- [Teaching systems thinking through computer games](https://dev.to/read-the-architecture/teaching-systems-thinking-through-computer-games-bnb)
-- [MyPy Introduction](https://dev.to/aniket_purohit/mypy-introduction-1i3)
-- [Understanding Your Data: The Essentials of Explanatory Data Analysis](https://dev.to/lameck_oluoch/understanding-your-data-the-essentials-of-explanatory-data-analysis-nb)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis.](https://dev.to/mutlyn/understanding-your-data-the-essentials-of-exploratory-data-analysis-3ee6)
+- [Debugging AI: Tools and Techniques for Troubleshooting AI Applications](https://dev.to/ultraai/debugging-ai-tools-and-techniques-for-troubleshooting-ai-applications-3h2p)
+- [Introducing the Hrida T2SQL 128k Model](https://dev.to/hrida_ai/introducing-the-hrida-t2sql-128k-model-pbm)
+- [What is Python?](https://dev.to/amirrezakarimip/what-is-python-iok)
+- [Adding the Postgres database to the project and running migrations via Flyway for the NestJS-mod application](https://dev.to/endykaufman/adding-the-postgres-database-to-the-project-and-running-migrations-via-flyway-for-the-nestjs-mod-application-1fao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
