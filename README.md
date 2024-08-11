@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why WHATWG created a separate specification for URL standard ?](https://dev.to/aditya_mishra_b443092009f/why-whatwg-created-a-separate-specification-for-url-standard--58mc)
-- [Differences between HMPL and HTMX](https://dev.to/antonmak1/differences-between-hmpl-and-htmx-1h25)
-- [Preventing Data Leaks in React.js: A Deep Dive into useEffect](https://dev.to/akshatsoni26/preventing-data-leaks-in-reactjs-a-deep-dive-into-useeffect-4b2g)
-- [⚡️ trick: hide youtube video player hud](https://dev.to/volfcan/trick-hide-youtube-video-player-hud-5194)
-- [Data Structures: Arrays](https://dev.to/abdulghani002/data-structures-arrays-1ad4)
+- [Set data to localStorage with limited time to live](https://dev.to/yevheniia_br/set-data-to-localstorage-with-limited-time-to-live-233g)
+- [100+ Game-Changing ChatGPT Prompts for Developers, Product Managers, Designers, and Email Marketers](https://dev.to/ayush7614/100-game-changing-chatgpt-prompts-for-developers-product-managers-designers-and-email-marketers-1c5i)
+- [Product Authenticator Using :Stellar Blockchain Technology](https://dev.to/ankit_sharma333/product-authenticator-using-stellar-blockchain-technology-7mb)
+- [Neovim: My Setup for Developer Assistant with Local Language Models](https://dev.to/ottercyborg/neovim-my-setup-for-developer-assistant-with-local-language-models-2nim)
+- [Data Analysis](https://dev.to/amolo_awuor/data-analysis-1jjn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
