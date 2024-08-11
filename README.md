@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis.](https://dev.to/mutlyn/understanding-your-data-the-essentials-of-exploratory-data-analysis-3ee6)
-- [Debugging AI: Tools and Techniques for Troubleshooting AI Applications](https://dev.to/ultraai/debugging-ai-tools-and-techniques-for-troubleshooting-ai-applications-3h2p)
-- [Introducing the Hrida T2SQL 128k Model](https://dev.to/hrida_ai/introducing-the-hrida-t2sql-128k-model-pbm)
-- [What is Python?](https://dev.to/amirrezakarimip/what-is-python-iok)
-- [Adding the Postgres database to the project and running migrations via Flyway for the NestJS-mod application](https://dev.to/endykaufman/adding-the-postgres-database-to-the-project-and-running-migrations-via-flyway-for-the-nestjs-mod-application-1fao)
+- [Deploy Amazon Q Business with AWS CDK - example and best practices](https://dev.to/aws-builders/deploy-amazon-q-business-with-aws-cdk-example-and-best-practices-4ff8)
+- [ShowDEV - We built a All-in-one AI command center for your products.](https://dev.to/namanvyas/showdev-we-built-a-all-in-one-ai-command-center-for-your-products-435e)
+- [TailGrids React: 600+ Tailwind CSS React UI Components](https://dev.to/tailwindcss/tailgrids-react-600-tailwind-css-react-ui-components-n6c)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/gekika/understanding-your-data-the-essentials-of-exploratory-data-analysis-1gm0)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis &lpar;EDA&rpar;](https://dev.to/lewis_dan_f90e608878af127/understanding-your-data-the-essentials-of-exploratory-data-analysis-eda-4cpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
