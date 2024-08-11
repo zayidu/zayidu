@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Define&lpar;&rpar; In Javascript: A Clear Explanation](https://dev.to/arsalanmeee/define-in-javascript-a-clear-explanation-4h6g)
-- [Declaration using const vs freeze in Javascript](https://dev.to/alishgiri/declaration-using-const-vs-freeze-in-javascript-5ak4)
-- [React and Microfrontends: Architecture, Integration, and Scaling](https://dev.to/mdhassanpatwary/react-and-microfrontends-architecture-integration-and-scaling-3fc0)
-- [How to setup SASS in Vite Environment and brief notes on important sass functionalities](https://dev.to/godwin_nj/how-to-work-with-sass-in-vite-environment-and-brief-notes-on-important-sass-functionalities-k2)
-- [20 Lesser-Known CSS Tricks — The Ultimate Collection](https://dev.to/safdarali/20-lesser-known-css-tricks-the-ultimate-collection-268k)
+- [Why WHATWG created a separate specification for URL standard ?](https://dev.to/aditya_mishra_b443092009f/why-whatwg-created-a-separate-specification-for-url-standard--58mc)
+- [Differences between HMPL and HTMX](https://dev.to/antonmak1/differences-between-hmpl-and-htmx-1h25)
+- [Preventing Data Leaks in React.js: A Deep Dive into useEffect](https://dev.to/akshatsoni26/preventing-data-leaks-in-reactjs-a-deep-dive-into-useeffect-4b2g)
+- [⚡️ trick: hide youtube video player hud](https://dev.to/volfcan/trick-hide-youtube-video-player-hud-5194)
+- [Data Structures: Arrays](https://dev.to/abdulghani002/data-structures-arrays-1ad4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
