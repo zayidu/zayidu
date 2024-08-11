@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Healthy Workforce Culture](https://dev.to/christopherchhim/healthy-workforce-culture-34c5)
-- [Day 40 of 100 Days of Code](https://dev.to/jacobsternx/day-40-of-100-days-of-code-5ajd)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/evanskiprotich/understanding-your-data-the-essentials-of-exploratory-data-analysis-385k)
-- [Kaniko : Révolutionner vos builds Docker en toute sécurité](https://dev.to/laformulenuagique/kaniko-revolutionner-vos-builds-docker-en-toute-securite-16pm)
-- [The JavaScript Bible: Your Comprehensive Guide to Web Development 🌐](https://dev.to/getvm/the-javascript-bible-your-comprehensive-guide-to-web-development-4kf7)
+- [Building A Generative AI Platform: A Deep Dive into Architecture and Implementation](https://dev.to/aadya_madankar_6dc52aeee1/building-a-generative-ai-platform-a-deep-dive-into-architecture-and-implementation-36hk)
+- [How CORS actually works behind the scenes](https://dev.to/shanu001x/how-cors-actually-works-behind-the-scenes-5304)
+- [The Art of Writing Clean Functions: Clean Code Practices](https://dev.to/manjushsh/the-art-of-writing-clean-functions-clean-code-practices-2f5m)
+- [Building Multi-Page Applications in React: A Router Tutorial](https://dev.to/raajaryan/building-multi-page-applications-in-react-a-router-tutorial-3g43)
+- [Aware Interfaces](https://dev.to/jayakumar_reddy/aware-interfaces-5d31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
