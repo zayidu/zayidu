@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Test-Driven Development with Jest](https://dev.to/kartikmehta8/test-driven-development-with-jest-o12)
-- [Hello World!, Hello Dev!](https://dev.to/reezecodee/hello-world-hello-dev-1fo7)
-- [A Importância de Sistematizar a geração de Log nas Aplicações](https://dev.to/asouza/a-importancia-de-sistematizar-a-geracao-de-log-nas-aplicacoes-47o8)
-- [Cómo aplicar un Well Architected Review para asegurar tu infraestructura. Segunda parte](https://dev.to/dcastrocordero22/como-aplicar-un-well-architected-review-para-asegurar-tu-infraestructura-segunda-parte-43bi)
-- [The Evolution of Learning: From 2005 to Today](https://dev.to/adeelmughal4u/the-evolution-of-learning-from-2005-to-today-3dp8)
+- [Sorting Algorithms &lpar;DSA - 4&rpar;](https://dev.to/madgan95/sorting-algorithms-dsa-4-50j5)
+- [Today&#39;s Trending Projects: Real-Time Sales Dashboard with Echarts and More](https://dev.to/labex/todays-trending-projects-real-time-sales-dashboard-with-echarts-and-more-3k8i)
+- [Blockchain: Which Language to Learn First?](https://dev.to/nhd2106/blockchain-which-language-to-learn-first-23k1)
+- [Building an AI Recipe App with Django and GroqCloud:Llama 3.1: My Journey with myChefAssist](https://dev.to/nezer/building-an-ai-recipe-app-with-django-and-groqcloudllama-31-my-journey-with-mychefassist-5b1m)
+- [Interacting with Smart Contract Functions: Providers and Alternatives](https://dev.to/mibii/interacting-with-smart-contract-functions-providers-and-alternatives-36n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
