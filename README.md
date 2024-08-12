@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer Marketing Strategy for Software Developers](https://dev.to/swati1267/developer-marketing-strategy-for-software-developers-3c2o)
+- [Dive into Go: A Python Programmer&#39;s Guide 🚀](https://dev.to/getvm/dive-into-go-a-python-programmers-guide-46d5)
+- [Designing with Flexibility: Responsive Next.js Templates for Any Device](https://dev.to/hitesh_chauhan_42485a44af/designing-with-flexibility-responsive-nextjs-templates-for-any-device-3183)
 - [What is Novu and How Does It Work](https://dev.to/thekarlesi/what-is-novu-and-how-does-it-work-55km)
-- [cypress-cucumber-preprocessor](https://dev.to/dennischeung/cypress-cucumber-preprocessor-10l)
-- [BigQuery and XGBoost Integration: A Jupyter Notebook Tutorial for Binary Classification](https://dev.to/suzuki0430/bigquery-and-xgboost-integration-a-jupyter-notebook-tutorial-for-binary-classification-1ocb)
-- [Go Programming | String Basics | Character Encoding](https://dev.to/labex/go-programming-string-basics-character-encoding-1i01)
-- [A Step-by-Step Guide to LocalStorage and SessionStorage: Storing Data on the Client Side](https://dev.to/srijan_karki/a-step-by-step-guide-to-localstorage-and-sessionstorage-storing-data-on-the-client-side-2kjl)
+- [Which Mobile Test Automation Framework Fits You?](https://dev.to/grgprarup/which-mobile-test-automation-framework-fits-you-57mc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
