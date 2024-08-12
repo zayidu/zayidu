@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps: An Easy-to-follow Guide for Non-IT People](https://dev.to/dareyio/devops-an-easy-to-follow-guide-for-non-it-people-5gde)
-- [From Frontend to Backend: Bridging the Gap in Full-Stack Development](https://dev.to/theayazsoomro/from-frontend-to-backend-bridging-the-gap-in-full-stack-development-23bb)
-- [Pre-deployment Checklist: Setting up Husky 🐶](https://dev.to/aimes/pre-deployment-checklist-setting-up-husky-4i2k)
-- [Entity Framework in .net core 6.0 - Code first and Database first approach](https://dev.to/renukapatil/entity-framework-in-net-core-60-58aj)
-- [Network Performance Testing: A Comprehensive Guide](https://dev.to/berthaw82414312/network-performance-testing-a-comprehensive-guide-3om7)
+- [Ultra AI is Live on Product Hunt – Your Support Means the World! 🚀](https://dev.to/ultraai/ultra-ai-is-live-on-product-hunt-your-support-means-the-world-n8i)
+- [How to Create an HTML Document](https://dev.to/thekarlesi/how-to-create-an-html-document-5d4j)
+- [Retrieval Augmented Generatiom or AI agent implementation](https://dev.to/olatunjiayodel9/retrieval-augmented-generatiom-or-ai-agent-implementation-2nck)
+- [Understanding Angular Interceptors : Beyond HTTP](https://dev.to/asachanfbd/understanding-angular-interceptors-beyond-http-11fe)
+- [Top 5 Technology Trends Shaping the Future in 2024](https://dev.to/organization_admin_b1a89a/top-5-technology-trends-shaping-the-future-in-2024-35hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
