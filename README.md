@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Web Development: Emerging Trends and Technologies Every Developer Should Know](https://dev.to/rashedulhridoy/the-future-of-web-development-emerging-trends-and-technologies-every-developer-should-know-1ceb)
-- [Configuring Multiple Ports With Nginx Reverse Proxies on the Same Domain](https://dev.to/aws-builders/configuring-multiple-ports-with-nginx-reverse-proxies-on-the-same-domain-57ga)
-- [Fixing CORS in your SPA](https://dev.to/eslachance/fixing-cors-in-your-spa-dfg)
-- [10 important things you should know about health](https://dev.to/david_odo_90bf88541f6fd15/10-important-things-you-should-know-about-health-l2m)
-- [Exploring Solidity Data Types: A Beginner Deep Dive on Uint vs Int](https://dev.to/bowtiedoffsec/exploring-solidity-data-types-a-beginner-deep-dive-on-uint-vs-int-2hm4)
+- [Supersaas - A fast, modern, and easy to use Nuxt 3 starter kit.](https://dev.to/fayaz/supersaas-a-fast-modern-and-easy-to-use-nuxt-3-starter-kit-lh2)
+- [Receipt of Deceit: A Tale of Unencrypted RDS Database Blunders and Why You Should Encrypt Data-in-Transit](https://dev.to/femolacaster/receipt-of-deceit-a-tale-of-unencrypted-rds-database-blunders-and-why-you-should-encrypt-data-in-transit-13di)
+- [Moving User Management from In-House to a Product: Why We Did It and What We Learned](https://dev.to/empe/moving-user-management-from-in-house-to-a-product-why-we-did-it-and-what-we-learned-4o8m)
+- [don&#39;t look](https://dev.to/thesameeric/dont-look-3p57)
+- [I Wrote A Batch Script to Enhance My Workflow on Command Prompt](https://dev.to/ddebajyati/i-wrote-a-batch-script-to-enhance-my-workflow-on-command-prompt-2476)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
