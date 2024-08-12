@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Desbravando o poder do markdown](https://dev.to/kauefraga/desbravando-o-poder-do-markdown-3jne)
-- [Suggestions for client website](https://dev.to/ismailyaman/suggestions-for-client-website-akk)
-- [Create an Azure Virtual Machine using an ARM Template](https://dev.to/adeola_adebari/create-an-azure-virtual-machine-using-an-arm-template-1jna)
-- [703. Kth Largest Element in a Stream](https://dev.to/mdarifulhaque/703-kth-largest-element-in-a-stream-3ck0)
-- [1568. Minimum Number of Days to Disconnect Island](https://dev.to/mdarifulhaque/1568-minimum-number-of-days-to-disconnect-island-ddf)
+- [S1E2: 𝐂𝐨𝐝𝐞 &amp; 𝐃𝐞𝐩𝐥𝐨𝐲 - 𝐁𝐮𝐢𝐥𝐝 𝐘𝐨𝐮𝐫 𝐅𝐢𝐫𝐬𝐭 𝐆𝐞𝐧 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭 𝐰𝐢𝐭𝐡 𝐇𝐚𝐲𝐬𝐭𝐚𝐜𝐤](https://dev.to/eze_lanza/--5adc)
+- [The Path to Coding Mastery A Beginner&#39;s Guide](https://dev.to/aigamer/the-path-to-coding-mastery-a-beginners-guide-18od)
+- [Rails Active Record: Quick Start!](https://dev.to/carisaelam/active-record-quick-start-46o5)
+- [Building a Simple Tic-Tac-Toe Game in Python](https://dev.to/rltree/building-a-simple-tic-tac-toe-game-in-python-4ab3)
+- [Learning Programming is Still a Good Idea](https://dev.to/brookzerker/learning-programming-is-still-a-good-idea-3j8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
