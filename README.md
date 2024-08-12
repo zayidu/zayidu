@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sorting Algorithms &lpar;DSA - 4&rpar;](https://dev.to/madgan95/sorting-algorithms-dsa-4-50j5)
-- [Today&#39;s Trending Projects: Real-Time Sales Dashboard with Echarts and More](https://dev.to/labex/todays-trending-projects-real-time-sales-dashboard-with-echarts-and-more-3k8i)
-- [Blockchain: Which Language to Learn First?](https://dev.to/nhd2106/blockchain-which-language-to-learn-first-23k1)
-- [Building an AI Recipe App with Django and GroqCloud:Llama 3.1: My Journey with myChefAssist](https://dev.to/nezer/building-an-ai-recipe-app-with-django-and-groqcloudllama-31-my-journey-with-mychefassist-5b1m)
-- [Interacting with Smart Contract Functions: Providers and Alternatives](https://dev.to/mibii/interacting-with-smart-contract-functions-providers-and-alternatives-36n8)
+- [What is Novu and How Does It Work](https://dev.to/thekarlesi/what-is-novu-and-how-does-it-work-55km)
+- [cypress-cucumber-preprocessor](https://dev.to/dennischeung/cypress-cucumber-preprocessor-10l)
+- [BigQuery and XGBoost Integration: A Jupyter Notebook Tutorial for Binary Classification](https://dev.to/suzuki0430/bigquery-and-xgboost-integration-a-jupyter-notebook-tutorial-for-binary-classification-1ocb)
+- [Go Programming | String Basics | Character Encoding](https://dev.to/labex/go-programming-string-basics-character-encoding-1i01)
+- [A Step-by-Step Guide to LocalStorage and SessionStorage: Storing Data on the Client Side](https://dev.to/srijan_karki/a-step-by-step-guide-to-localstorage-and-sessionstorage-storing-data-on-the-client-side-2kjl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
