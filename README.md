@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 17: I Built a Number Guessing Game in JavaScript! 🎉](https://dev.to/rohit1301/day-17-i-built-a-number-guessing-game-in-javascript-1dj5)
-- [Building a Skribbl.io Clone: From Concept to Completion](https://dev.to/divyanshulohani/building-a-skribblio-clone-from-concept-to-completion-1on4)
-- [Efficient API Fault Tracing with Unique Response IDs and ELK Stack in Microservices](https://dev.to/yogenpokhrel/efficient-api-fault-tracing-with-unique-response-ids-and-elk-stack-285i)
-- [Why Learning Programming Can Be Hard and How to Make It Easier](https://dev.to/jumashafara/why-learning-programming-can-be-hard-and-how-to-make-it-easier-3mp6)
-- [A Guide to Machine Learning System Design and Best Practices](https://dev.to/kitops/a-guide-to-machine-learning-system-design-and-best-practices-g09)
+- [Learnings on tech leading: Asking questions that illuminate uncertainty](https://dev.to/kaityhallman/learnings-on-tech-leading-asking-questions-that-illuminate-uncertainty-3kif)
+- [Report on Exploratory Data Analysis &lpar;EDA&rpar; of Weather Dataset](https://dev.to/emmanuel_b/report-on-exploratory-data-analysis-eda-of-weather-dataset-15l)
+- [Fetching and Updating Solana Wallet Balances](https://dev.to/sumana10/fetching-and-updating-solana-wallet-balances-4epk)
+- [Requisitos funcionais e não Funcionais](https://dev.to/noejunior299/requisitos-funcionais-e-nao-funcionais-2l)
+- [Mastering Error Handling: A Comprehensive Guide](https://dev.to/kfir-g/mastering-error-handling-a-comprehensive-guide-1hmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
