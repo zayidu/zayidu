@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The activation functions in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/the-activation-functions-in-pytorch-1-lm6)
-- [🎓 Understanding the Difference Between Checked and Unchecked Exceptions in Java 🚀](https://dev.to/felipejansendeveloper/understanding-the-difference-between-checked-and-unchecked-exceptions-in-java-bph)
-- [🛠️ A New Era of Data Technology —— Explore Innic, the World&#39;s First AI Database GUI for DuckDB](https://dev.to/innicdata/a-new-era-of-data-technology-explore-innic-the-worlds-first-ai-database-gui-for-duckdb-54fl)
-- [Meme Monday](https://dev.to/ben/meme-monday-el7)
-- [Error Handling and Logging in Python](https://dev.to/koladev/error-handling-and-logging-in-python-mi1)
+- [Define&lpar;&rpar; In Javascript: A Clear Explanation](https://dev.to/arsalanmeee/define-in-javascript-a-clear-explanation-3gnd)
+- [Best Low-Code Platforms For Building Applications In 2024](https://dev.to/ayush7614/best-low-code-platforms-for-building-applications-in-2024-203e)
+- [[DAY 102-104] I took a backend course in freecodecamp](https://dev.to/thomascansino/day-102-104-i-took-a-backend-course-in-freecodecamp-2don)
+- [Error MSB3027 File Locked by Another Process](https://dev.to/hossien014/error-msb3027-file-locked-by-another-process-5ee0)
+- [Trying to get back to coding](https://dev.to/pacmansnr_01/trying-to-get-back-to-coding-4f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
