@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Supersaas - A fast, modern, and easy to use Nuxt 3 starter kit.](https://dev.to/fayaz/supersaas-a-fast-modern-and-easy-to-use-nuxt-3-starter-kit-lh2)
-- [Receipt of Deceit: A Tale of Unencrypted RDS Database Blunders and Why You Should Encrypt Data-in-Transit](https://dev.to/femolacaster/receipt-of-deceit-a-tale-of-unencrypted-rds-database-blunders-and-why-you-should-encrypt-data-in-transit-13di)
-- [Moving User Management from In-House to a Product: Why We Did It and What We Learned](https://dev.to/empe/moving-user-management-from-in-house-to-a-product-why-we-did-it-and-what-we-learned-4o8m)
-- [don&#39;t look](https://dev.to/thesameeric/dont-look-3p57)
-- [I Wrote A Batch Script to Enhance My Workflow on Command Prompt](https://dev.to/ddebajyati/i-wrote-a-batch-script-to-enhance-my-workflow-on-command-prompt-2476)
+- [Desbravando o poder do markdown](https://dev.to/kauefraga/desbravando-o-poder-do-markdown-3jne)
+- [Suggestions for client website](https://dev.to/ismailyaman/suggestions-for-client-website-akk)
+- [Create an Azure Virtual Machine using an ARM Template](https://dev.to/adeola_adebari/create-an-azure-virtual-machine-using-an-arm-template-1jna)
+- [703. Kth Largest Element in a Stream](https://dev.to/mdarifulhaque/703-kth-largest-element-in-a-stream-3ck0)
+- [1568. Minimum Number of Days to Disconnect Island](https://dev.to/mdarifulhaque/1568-minimum-number-of-days-to-disconnect-island-ddf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
