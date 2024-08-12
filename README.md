@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exercício - Simulando Uma Conta Bancária Através Do Terminal](https://dev.to/lnabesima/exercicio-simulando-uma-conta-bancaria-atraves-do-terminal-23e4)
-- [Angular + Sanity CMS: Mastering Images with the Sanity Image Directive](https://dev.to/osnoser1/angular-sanity-cms-mastering-images-with-the-sanity-image-directive-28p8)
-- [More Puzzles](https://dev.to/j2a2k4e/more-puzzles-1nh6)
-- [Payment SDK Integration: Pains &amp; Wünsche](https://dev.to/lenjee_chan_af668b02632f2/payment-sdk-integration-pains-wunsche-1i9b)
-- [Monetizing Mobile Games: A Comprehensive Guide to Game Ads](https://dev.to/ajgamer/monetizing-mobile-games-a-comprehensive-guide-to-game-ads-4aod)
+- [NMS Migration Made Easy: Gathering Information](https://dev.to/adatole/nms-migration-made-easy-gathering-information-54kn)
+- [AIM Weekly for 12 August 2024](https://dev.to/tspannhw/aim-weekly-for-12-august-2024-i6e)
+- [Software testing](https://dev.to/bhavanikannan/software-testing-3mj3)
+- [Which is the best stack for the web today? MERN vs MEAN vs Spring Boot](https://dev.to/deepcodr/which-is-the-best-stack-for-the-web-today-mern-vs-mean-vs-spring-boot-5gkk)
+- [Reinforcing Reinforcement Learning](https://dev.to/dakota_day/reinforcing-reinforcement-learning-5g17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
