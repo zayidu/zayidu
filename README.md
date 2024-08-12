@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An iPhone workaround broke my parallax scrolling effect 📵💔](https://dev.to/ingosteinke/an-iphone-workaround-broke-my-parallax-scrolling-effect-3j7k)
-- [NextJS Starter Kit with NextAuth v4, Prisma, Typescript and Docker](https://dev.to/vaibhav_31/nextjs-starter-kit-2ijc)
-- [Blog Website with Cloudflare Workers and Reactjs](https://dev.to/vaibhav_31/blog-website-with-cloudflare-workers-and-reactjs-4pbi)
-- [Why use declare&lpar;strict_types=1&rpar; in PHP – Fast tips](https://dev.to/inspector/why-use-declarestricttypes1-in-php-fast-tips-3c1)
-- [Building Document PDF Scanner for Windows, Android and iOS with .NET MAUI Blazor](https://dev.to/yushulx/building-document-pdf-scanner-for-windows-android-and-ios-with-net-maui-blazor-4a9a)
+- [Transform Your Website Security with SafeLine WAF&#39;s Advanced Protection Features](https://dev.to/sherbertill6/transform-your-website-security-with-safeline-wafs-advanced-protection-features-1hjo)
+- [Shaping the Future of E-Commerce: Wings Engine Unlocks a New 3D Shopping Experience](https://dev.to/samuel67/shaping-the-future-of-e-commerce-wings-engine-unlocks-a-new-3d-shopping-experience-22bj)
+- [[DAY 99-101] I acquired a database certificate from freecodecamp](https://dev.to/thomascansino/day-99-101-i-acquired-a-database-certificate-from-freecodecamp-2j8m)
+- [HOW I STARTED SQL](https://dev.to/mugomwaniki/how-i-started-sql-4kl6)
+- [Debugging JavaScript Code Like a Pro](https://dev.to/khushboo-tolat/debugging-javascript-code-like-a-pro-267h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
