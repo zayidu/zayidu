@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [S1E2: 𝐂𝐨𝐝𝐞 &amp; 𝐃𝐞𝐩𝐥𝐨𝐲 - 𝐁𝐮𝐢𝐥𝐝 𝐘𝐨𝐮𝐫 𝐅𝐢𝐫𝐬𝐭 𝐆𝐞𝐧 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭 𝐰𝐢𝐭𝐡 𝐇𝐚𝐲𝐬𝐭𝐚𝐜𝐤](https://dev.to/eze_lanza/--5adc)
-- [The Path to Coding Mastery A Beginner&#39;s Guide](https://dev.to/aigamer/the-path-to-coding-mastery-a-beginners-guide-18od)
-- [Rails Active Record: Quick Start!](https://dev.to/carisaelam/active-record-quick-start-46o5)
-- [Building a Simple Tic-Tac-Toe Game in Python](https://dev.to/rltree/building-a-simple-tic-tac-toe-game-in-python-4ab3)
-- [Learning Programming is Still a Good Idea](https://dev.to/brookzerker/learning-programming-is-still-a-good-idea-3j8f)
+- [Criando um módulo com Swift Package Manager](https://dev.to/lys/criando-um-modulo-com-swift-package-manager-3cga)
+- [Zero Downtime Deployment in AWS with Tofu/Terraform and SAM](https://dev.to/aws-builders/zero-downtime-deployment-in-aws-with-tofuterraform-and-sam-14d6)
+- [Introduction to the MERN Stack for Full-Stack Development](https://dev.to/media_geneous/introduction-to-the-mern-stack-for-full-stack-development-211i)
+- [The Hitchhiker’s Guide to Building an Encrypted Filesystem in Rust](https://dev.to/radu_marias_eed98d2e201f6/the-hitchhikers-guide-to-building-an-encrypted-filesystem-in-rust-d8e)
+- [UNDERSTANDING YOUR DATA:THE ESSENTIALS OF EXPLORATORY DATA ANALYSIS.](https://dev.to/kiplimo_patrick_24/understanding-your-datathe-essentials-of-exploratory-data-analysis-4mhd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
