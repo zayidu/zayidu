@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transform Your Website Security with SafeLine WAF&#39;s Advanced Protection Features](https://dev.to/sherbertill6/transform-your-website-security-with-safeline-wafs-advanced-protection-features-1hjo)
-- [Shaping the Future of E-Commerce: Wings Engine Unlocks a New 3D Shopping Experience](https://dev.to/samuel67/shaping-the-future-of-e-commerce-wings-engine-unlocks-a-new-3d-shopping-experience-22bj)
-- [[DAY 99-101] I acquired a database certificate from freecodecamp](https://dev.to/thomascansino/day-99-101-i-acquired-a-database-certificate-from-freecodecamp-2j8m)
-- [HOW I STARTED SQL](https://dev.to/mugomwaniki/how-i-started-sql-4kl6)
-- [Debugging JavaScript Code Like a Pro](https://dev.to/khushboo-tolat/debugging-javascript-code-like-a-pro-267h)
+- [DevOps: An Easy-to-follow Guide for Non-IT People](https://dev.to/dareyio/devops-an-easy-to-follow-guide-for-non-it-people-5gde)
+- [From Frontend to Backend: Bridging the Gap in Full-Stack Development](https://dev.to/theayazsoomro/from-frontend-to-backend-bridging-the-gap-in-full-stack-development-23bb)
+- [Pre-deployment Checklist: Setting up Husky 🐶](https://dev.to/aimes/pre-deployment-checklist-setting-up-husky-4i2k)
+- [Entity Framework in .net core 6.0 - Code first and Database first approach](https://dev.to/renukapatil/entity-framework-in-net-core-60-58aj)
+- [Network Performance Testing: A Comprehensive Guide](https://dev.to/berthaw82414312/network-performance-testing-a-comprehensive-guide-3om7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
