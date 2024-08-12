@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Developers, Meet Us @ Gamescom 2024 to Uncover PerfDog and Other Top QA Testing Tools!](https://dev.to/wetest/developers-meet-us-gamescom-2024-to-uncover-perfdog-and-other-top-qa-testing-tools-1gik)
-- [SQL, get historical status of each ID #eg22](https://dev.to/esproc_spl/sql-get-historical-status-of-each-id-eg22-1219)
-- [Step-by-Step Deployment and Configuration for Optimal Web Security](https://dev.to/lulu_liu_c90f973e2f954d7f/step-by-step-deployment-and-configuration-for-optimal-web-security-1pe7)
-- [AWS Service Retirements: Navigating the Transition Seamlessly](https://dev.to/sujal_dua/aws-service-retirements-navigating-the-transition-seamlessly-ml6)
-- [Un tour sur les gestionnaires de paquets node: npm, yarn ou pnpm ?](https://dev.to/barthez_kenwou/un-tour-sur-les-gestionnaires-de-paquets-node-npm-yarn-ou-pnpm--75p)
+- [An iPhone workaround broke my parallax scrolling effect 📵💔](https://dev.to/ingosteinke/an-iphone-workaround-broke-my-parallax-scrolling-effect-3j7k)
+- [NextJS Starter Kit with NextAuth v4, Prisma, Typescript and Docker](https://dev.to/vaibhav_31/nextjs-starter-kit-2ijc)
+- [Blog Website with Cloudflare Workers and Reactjs](https://dev.to/vaibhav_31/blog-website-with-cloudflare-workers-and-reactjs-4pbi)
+- [Why use declare&lpar;strict_types=1&rpar; in PHP – Fast tips](https://dev.to/inspector/why-use-declarestricttypes1-in-php-fast-tips-3c1)
+- [Building Document PDF Scanner for Windows, Android and iOS with .NET MAUI Blazor](https://dev.to/yushulx/building-document-pdf-scanner-for-windows-android-and-ios-with-net-maui-blazor-4a9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
