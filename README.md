@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Define&lpar;&rpar; In Javascript: A Clear Explanation](https://dev.to/arsalanmeee/define-in-javascript-a-clear-explanation-3gnd)
-- [Best Low-Code Platforms For Building Applications In 2024](https://dev.to/ayush7614/best-low-code-platforms-for-building-applications-in-2024-203e)
-- [[DAY 102-104] I took a backend course in freecodecamp](https://dev.to/thomascansino/day-102-104-i-took-a-backend-course-in-freecodecamp-2don)
-- [Error MSB3027 File Locked by Another Process](https://dev.to/hossien014/error-msb3027-file-locked-by-another-process-5ee0)
-- [Trying to get back to coding](https://dev.to/pacmansnr_01/trying-to-get-back-to-coding-4f9)
+- [Day 17: I Built a Number Guessing Game in JavaScript! 🎉](https://dev.to/rohit1301/day-17-i-built-a-number-guessing-game-in-javascript-1dj5)
+- [Building a Skribbl.io Clone: From Concept to Completion](https://dev.to/divyanshulohani/building-a-skribblio-clone-from-concept-to-completion-1on4)
+- [Efficient API Fault Tracing with Unique Response IDs and ELK Stack in Microservices](https://dev.to/yogenpokhrel/efficient-api-fault-tracing-with-unique-response-ids-and-elk-stack-285i)
+- [Why Learning Programming Can Be Hard and How to Make It Easier](https://dev.to/jumashafara/why-learning-programming-can-be-hard-and-how-to-make-it-easier-3mp6)
+- [A Guide to Machine Learning System Design and Best Practices](https://dev.to/kitops/a-guide-to-machine-learning-system-design-and-best-practices-g09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
