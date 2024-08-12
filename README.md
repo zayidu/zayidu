@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer Marketing Strategy for Software Developers](https://dev.to/swati1267/developer-marketing-strategy-for-software-developers-3c2o)
-- [Dive into Go: A Python Programmer&#39;s Guide 🚀](https://dev.to/getvm/dive-into-go-a-python-programmers-guide-46d5)
-- [Designing with Flexibility: Responsive Next.js Templates for Any Device](https://dev.to/hitesh_chauhan_42485a44af/designing-with-flexibility-responsive-nextjs-templates-for-any-device-3183)
-- [What is Novu and How Does It Work](https://dev.to/thekarlesi/what-is-novu-and-how-does-it-work-55km)
-- [Which Mobile Test Automation Framework Fits You?](https://dev.to/grgprarup/which-mobile-test-automation-framework-fits-you-57mc)
+- [Spending Less Time on Boilerplate with Blackbird](https://dev.to/getambassador2024/spending-less-time-on-boilerplate-with-blackbird-1c8)
+- [7 Open Source Projects You Should Know - Python Edition ✔️](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-python-edition-4h6c)
+- [Multi-Stage Dockerfiles](https://dev.to/kalkwst/multi-stage-dockerfiles-3e90)
+- [Personal website built with MERN stack](https://dev.to/sebin_song_c92c8293860d57/personal-website-built-with-mern-stack-m01)
+- [Web Accessibility and the Role of Semantic HTML](https://dev.to/zain725342/web-accessibility-and-the-role-of-semantic-html-1i14)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
