@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI: An overview of common LLM benchmarks](https://dev.to/hmcodes/ai-an-overview-of-common-llm-benchmarks-3i7b)
-- [BiRefNet State Of The Art Newest Very Best Background Batch Remover APP](https://dev.to/furkangozukara/birefnet-state-of-the-art-newest-very-best-background-batch-remover-app-19k1)
-- [VoteVault: Our Journey from a Lunchtime Idea to dApp](https://dev.to/gr1ll/votevault-our-journey-from-a-lunchtime-idea-to-dapp-2opf)
-- [🐚 My Pacific Dataviz Challenge 2024 submission : violence &amp; graphdatascience](https://dev.to/adriens/my-pacific-dataviz-challenge-2024-submission-violence-graphdatascience-564l)
-- [Ruin has come to your repository!](https://dev.to/skywarth/ruin-has-come-to-your-repository-3oo6)
+- [Test-Driven Development with Jest](https://dev.to/kartikmehta8/test-driven-development-with-jest-o12)
+- [Hello World!, Hello Dev!](https://dev.to/reezecodee/hello-world-hello-dev-1fo7)
+- [A Importância de Sistematizar a geração de Log nas Aplicações](https://dev.to/asouza/a-importancia-de-sistematizar-a-geracao-de-log-nas-aplicacoes-47o8)
+- [Cómo aplicar un Well Architected Review para asegurar tu infraestructura. Segunda parte](https://dev.to/dcastrocordero22/como-aplicar-un-well-architected-review-para-asegurar-tu-infraestructura-segunda-parte-43bi)
+- [The Evolution of Learning: From 2005 to Today](https://dev.to/adeelmughal4u/the-evolution-of-learning-from-2005-to-today-3dp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
