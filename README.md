@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a Enterprise Ready Power Platform](https://dev.to/wyattdave/setting-up-a-enterprise-ready-power-platform-4pma)
-- [Perl Weekly #681 - GitHub and Perl](https://dev.to/szabgab/perl-weekly-681-github-and-perl-5af3)
-- [Simple Wikipedia Search App with Streamlit 🐍🕸️💻](https://dev.to/kammarianand/simple-wikipedia-search-app-with-streamlit-537h)
-- [User Journey Mapping: How and Why Does it Matter for Your Business?](https://dev.to/pepper_square/user-journey-mapping-how-and-why-does-it-matter-for-your-business-15k9)
-- [Could somebody please help me create a good readme similar to this?](https://dev.to/reyanabid123/could-somebody-please-help-me-create-a-good-readme-similar-to-this-4i62)
+- [Developers, Meet Us @ Gamescom 2024 to Uncover PerfDog and Other Top QA Testing Tools!](https://dev.to/wetest/developers-meet-us-gamescom-2024-to-uncover-perfdog-and-other-top-qa-testing-tools-1gik)
+- [SQL, get historical status of each ID #eg22](https://dev.to/esproc_spl/sql-get-historical-status-of-each-id-eg22-1219)
+- [Step-by-Step Deployment and Configuration for Optimal Web Security](https://dev.to/lulu_liu_c90f973e2f954d7f/step-by-step-deployment-and-configuration-for-optimal-web-security-1pe7)
+- [AWS Service Retirements: Navigating the Transition Seamlessly](https://dev.to/sujal_dua/aws-service-retirements-navigating-the-transition-seamlessly-ml6)
+- [Un tour sur les gestionnaires de paquets node: npm, yarn ou pnpm ?](https://dev.to/barthez_kenwou/un-tour-sur-les-gestionnaires-de-paquets-node-npm-yarn-ou-pnpm--75p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
