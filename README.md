@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultra AI is Live on Product Hunt – Your Support Means the World! 🚀](https://dev.to/ultraai/ultra-ai-is-live-on-product-hunt-your-support-means-the-world-n8i)
-- [How to Create an HTML Document](https://dev.to/thekarlesi/how-to-create-an-html-document-5d4j)
-- [Retrieval Augmented Generatiom or AI agent implementation](https://dev.to/olatunjiayodel9/retrieval-augmented-generatiom-or-ai-agent-implementation-2nck)
-- [Understanding Angular Interceptors : Beyond HTTP](https://dev.to/asachanfbd/understanding-angular-interceptors-beyond-http-11fe)
-- [Top 5 Technology Trends Shaping the Future in 2024](https://dev.to/organization_admin_b1a89a/top-5-technology-trends-shaping-the-future-in-2024-35hg)
+- [Exercício - Simulando Uma Conta Bancária Através Do Terminal](https://dev.to/lnabesima/exercicio-simulando-uma-conta-bancaria-atraves-do-terminal-23e4)
+- [Angular + Sanity CMS: Mastering Images with the Sanity Image Directive](https://dev.to/osnoser1/angular-sanity-cms-mastering-images-with-the-sanity-image-directive-28p8)
+- [More Puzzles](https://dev.to/j2a2k4e/more-puzzles-1nh6)
+- [Payment SDK Integration: Pains &amp; Wünsche](https://dev.to/lenjee_chan_af668b02632f2/payment-sdk-integration-pains-wunsche-1i9b)
+- [Monetizing Mobile Games: A Comprehensive Guide to Game Ads](https://dev.to/ajgamer/monetizing-mobile-games-a-comprehensive-guide-to-game-ads-4aod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
