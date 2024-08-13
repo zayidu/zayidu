@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Box Model: The Secret Sauce of Web Layouts](https://dev.to/gdebojyoti/css-box-model-the-secret-sauce-of-web-layouts-1c17)
-- [CSS Project 1](https://dev.to/ofameh/css-project-1-4pl3)
-- [need suggestions](https://dev.to/monwarqx1250/need-suggestions-28lb)
-- [Achieving Atomicity in Mongo DB Database operations](https://dev.to/oluwatobi2001/achieving-atomicity-in-mongo-db-database-operations-15dj)
-- [GLPI - Fechar ticket com API](https://dev.to/joaoprd/glpi-fechar-ticket-com-api-4a9l)
+- [Teste de fogo: fatorial recursivo](https://dev.to/alexgarzao/teste-de-fogo-fatorial-recursivo-1hin)
+- [Breaking a TOTP?](https://dev.to/not-so-genius/breaking-a-totp-2h9a)
+- [hidden-water](https://dev.to/__ed880143c/hidden-water-5ejo)
+- [Recap of Microsoft&#39;s &quot;Let&#39;s Move Away from API Keys!&quot; by Chris Noring](https://dev.to/agagag/recap-of-microsofts-lets-move-away-from-api-keys-by-chris-noring-4e5o)
+- [Simple way to store secrets in Android Project.](https://dev.to/kiolk/simple-way-to-store-secrets-in-android-project-345k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
