@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10+ Advanced Project Ideas for Developers: Challenge Your Skills!](https://dev.to/lokesh_singh/10-advanced-project-ideas-for-developers-challenge-your-skills-2869)
-- [How I Nailed a React Take Home Assessment and landed a 190k+ Job.](https://dev.to/paterson1720/how-i-nailed-a-react-take-home-assessment-and-land-a-190k-job-3kpp)
-- [🤖 100 Days of Generative AI - Day 6 - What is a Vector Database? 🤖](https://dev.to/lakhera2015/100-days-of-generative-ai-day-6-what-is-a-vector-database-3afl)
-- [Unlock the Secrets of Efficient Algorithms with &quot;The Algorithm Design Manual&quot; 🔑](https://dev.to/getvm/unlock-the-secrets-of-efficient-algorithms-with-the-algorithm-design-manual-18b6)
-- [Hugo shortcode for sns with unit.link like button](https://dev.to/callas1900/hugo-shortcode-for-sns-with-unitlink-like-button-24ai)
+- [Introducing Dev Encyclopedia: A &quot;Wikipedia&quot;, but for developers](https://dev.to/buzzpy/introducing-dev-encyclopedia-a-wikipedia-but-for-developers-268e)
+- [How to deploy Llama 3.1 in the Cloud: A Comprehensive Guide](https://dev.to/nodeshiftcloud/how-to-deploy-llama-31-in-the-cloud-a-comprehensive-guide-42a7)
+- [Anyone Interested In becoming a profesional Web Developer Should Watch This Video](https://dev.to/soulis98/anyone-interested-in-becoming-a-profesional-web-developer-should-watch-this-video-4l5m)
+- [Qa Automation in software testing](https://dev.to/keploy/qa-automation-in-software-testing-2fo4)
+- [How to Install Radix UI: A Step-by-Step Guide](https://dev.to/swhabitation/how-to-install-radix-ui-a-step-by-step-guide-56of)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
