@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Dev Encyclopedia: A &quot;Wikipedia&quot;, but for developers](https://dev.to/buzzpy/introducing-dev-encyclopedia-a-wikipedia-but-for-developers-268e)
-- [How to deploy Llama 3.1 in the Cloud: A Comprehensive Guide](https://dev.to/nodeshiftcloud/how-to-deploy-llama-31-in-the-cloud-a-comprehensive-guide-42a7)
-- [Anyone Interested In becoming a profesional Web Developer Should Watch This Video](https://dev.to/soulis98/anyone-interested-in-becoming-a-profesional-web-developer-should-watch-this-video-4l5m)
-- [Qa Automation in software testing](https://dev.to/keploy/qa-automation-in-software-testing-2fo4)
-- [How to Install Radix UI: A Step-by-Step Guide](https://dev.to/swhabitation/how-to-install-radix-ui-a-step-by-step-guide-56of)
+- [#44 — Group Rows And Combine Non-Null Values in Each of The Non-Grouping Columns](https://dev.to/judith677/44-group-rows-and-combine-non-null-values-in-each-of-the-non-grouping-columns-1lce)
+- [Getting Started with NPM &lpar;Node Package Manager&rpar; for Beginners](https://dev.to/dhananjaywarade/getting-started-with-npm-node-package-manager-for-beginners-13m)
+- [Mac Programmers — Tips for Improving Productivity](https://dev.to/violet_alexander_a4a3e5dd/mac-programmers-tips-for-improving-productivity-191e)
+- [Flattening a Deeply Nested Object: A Step-by-Step Guide](https://dev.to/dey24/flattening-a-deeply-nested-object-a-step-by-step-guide-163g)
+- [12 Fun Idioms and Principles for Software Engineers](https://dev.to/madelgeek/12-fun-idioms-and-principles-for-software-engineers-1lfj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
