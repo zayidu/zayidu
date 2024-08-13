@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking the Cycle: Understanding Common Productivity Challenges](https://dev.to/stephanie_adoga/breaking-the-cycle-understanding-common-productivity-challenges-1h3k)
-- [How to find intersection of two singly linked lists in a simple and optimal way in java](https://dev.to/shivam_tyagi/how-to-find-intersection-of-two-singly-linked-lists-in-a-simple-and-optimal-way-in-java-1o96)
-- [Hosting a Custom Login and Registration UI with AWS Amplify and AWS Cognito](https://dev.to/akashdeep/hosting-a-custom-login-and-registration-ui-with-aws-amplify-and-aws-cognito-g72)
-- [Secure Your Website with SafeLine: A Free and Easy-to-Use WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/secure-your-website-with-safeline-a-free-and-easy-to-use-waf-2g2i)
-- [How to Restore SQL Server Database from Backup?](https://dev.to/arun555/how-to-restore-sql-server-database-from-backup-4o5)
+- [How to Make AI Suck Less When Building AI Features](https://dev.to/builderio/how-to-make-ai-suck-less-when-building-ai-features-4h5l)
+- [Create a custom error page with Laravel and Inertia](https://dev.to/capsulescodes/create-a-custom-error-page-with-laravel-and-inertia-47a1)
+- [Three Examples of How AI Expands Developers&#39; Roles](https://dev.to/lorenzojkrl/three-examples-of-how-ai-expands-developers-roles-45fa)
+- [Basic Linux Commands to Know: A Beginner&#39;s Guide](https://dev.to/bennyfmo_237/basic-linux-commands-to-know-a-beginners-guide-41mf)
+- [Mobile Accessibility Testing: Everything you need to know](https://dev.to/grjoeay/mobile-accessibility-testing-everything-you-need-to-know-6fa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
