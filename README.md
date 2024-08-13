@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding YAGNI &lpar;You Aren’t Gonna Need It&rpar;](https://dev.to/shagun/understanding-yagni-you-arent-gonna-need-it-4165)
-- [Exploratory Data Analysis using SQL](https://dev.to/allan-pg/exploratory-data-analysis-using-sql-23dl)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/nyagabree003/understanding-your-data-the-essentials-of-exploratory-data-analysis-h04)
-- [Secure Your Website for Free with SafeLine: The Leading Open-Source WAF](https://dev.to/aeriewhole123/secure-your-website-for-free-with-safeline-the-leading-open-source-waf-1g37)
-- [Elixir&#39;s with statement &amp; pipe operator - Understanding &amp; use cases](https://dev.to/manhvanvu/elixirs-with-statement-pipe-operator-15me)
+- [How to Install and Configure SafeLine WAF: A Quick Start Guide](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-install-and-configure-safeline-waf-a-quick-start-guide-k5h)
+- [Implementing Authentication in Next.js: Comparing Different Strategies](https://dev.to/a_shokn/implementing-authentication-in-nextjs-comparing-different-strategies-4phm)
+- [Beginner&#39;s Guide to Python: From Installation to Understanding Variables](https://dev.to/jobreadyprogrammer/beginners-guide-to-python-from-installation-to-understanding-variables-99a)
+- [Retrieve multiple columns from a csv file to generate a new file #eg23](https://dev.to/esproc_spl/retrieve-multiple-columns-from-a-csv-file-to-generate-a-new-file-eg23-10di)
+- [Day 43 / 100 Days of Code: Embracing the Elegance of JavaScript](https://dev.to/jacobsternx/day-43-100-days-of-code-embracing-the-elegance-of-javascript-dmm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
