@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Micronaut vs. Spring Boot: A Detailed Comparison](https://dev.to/adaumircosta/micronaut-vs-spring-boot-a-detailed-comparison-4og5)
-- [ISP Proxies vs Residential Proxies: Main differences](https://dev.to/oxylabs-io/isp-proxies-vs-residential-proxies-main-differences-40hp)
-- [I LEARNT JAVA ☕](https://dev.to/mince/i-learnt-java-2k2o)
-- [I LEARNT JAVA ☕](https://dev.to/mince/i-learnt-java-5a58)
-- [Comprehensive Guide to Integrating SonarCloud with GitHub Projects](https://dev.to/ittrident/comprehensive-guide-to-integrating-sonarcloud-with-github-projects-3449)
+- [🚀 Have you every made a library? Share it!](https://dev.to/best_codes/have-you-every-made-a-library-share-it-a15)
+- [A Comprehensive and User-Friendly Project README.md Template](https://dev.to/zand/a-comprehensive-and-user-friendly-project-readmemd-template-2ei8)
+- [7 Tools Worth Trying, Have You Used Them?](https://dev.to/lunamiller/7-tools-worth-trying-have-you-used-them-3m7e)
+- [how to connect dev community user&#39;s published post using api and reactjs](https://dev.to/kyawmintun96/how-to-connect-dev-community-users-published-post-using-api-and-reactjs-9af)
+- [Enhancing Performance in React: Why You Should Consider useDeferredValue Over Throttling and Debouncing](https://dev.to/junihoj/enhancing-performance-in-react-why-you-should-consider-usedeferredvalue-over-throttling-and-debouncing-99b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
