@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ll be speaking at Major League Hacking &lpar;MLH&rpar; Hackcon 2024!](https://dev.to/1grace/ill-be-speaking-at-major-league-hacking-mlh-hackcon-2024-5ge5)
-- [How to Write Great API Documentation 🗒](https://dev.to/devella/how-to-write-great-api-documentation-58k0)
-- [digital trends](https://dev.to/faldesign/digital-trends-mdj)
-- [Top 5 Benefits of Combining MLOps and DevOps](https://dev.to/marufhossain/top-5-benefits-of-combining-mlops-and-devops-2o61)
-- [Build a desktop app with Electron + Vite + React EASYLY](https://dev.to/maxbleu/build-a-desktop-app-with-electron-vite-react-easyly-3c81)
+- [Les composants d’un Navigateur Web](https://dev.to/tontz/les-composants-dun-navigateur-web-opg)
+- [How to Build a PWA with Java and Spring Boot: Best Practices for Offline Functionality?](https://dev.to/livenathan/how-to-build-a-pwa-with-java-and-spring-boot-best-practices-for-offline-functionality-4l3k)
+- [Article2](https://dev.to/theqwertypusher/article2-1kpd)
+- [Chapter 2 - Network Models](https://dev.to/yusbuntu/chapter-2-network-models-41j7)
+- [How to Install &amp; Setup K8-Cluster using kubeadm](https://dev.to/sweetestshuga/how-to-install-setup-k8-cluster-using-kubeadm-25p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
