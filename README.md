@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Criando um módulo com Swift Package Manager](https://dev.to/lys/criando-um-modulo-com-swift-package-manager-3cga)
-- [Zero Downtime Deployment in AWS with Tofu/Terraform and SAM](https://dev.to/aws-builders/zero-downtime-deployment-in-aws-with-tofuterraform-and-sam-14d6)
-- [Introduction to the MERN Stack for Full-Stack Development](https://dev.to/media_geneous/introduction-to-the-mern-stack-for-full-stack-development-211i)
-- [The Hitchhiker’s Guide to Building an Encrypted Filesystem in Rust](https://dev.to/radu_marias_eed98d2e201f6/the-hitchhikers-guide-to-building-an-encrypted-filesystem-in-rust-d8e)
-- [UNDERSTANDING YOUR DATA:THE ESSENTIALS OF EXPLORATORY DATA ANALYSIS.](https://dev.to/kiplimo_patrick_24/understanding-your-datathe-essentials-of-exploratory-data-analysis-4mhd)
+- [Data Analysis with Python and Pandas](https://dev.to/kartikmehta8/data-analysis-with-python-and-pandas-1ppi)
+- [Nuke: Deploy ASP. NET Web App to Azure](https://dev.to/raulnq/nuke-deploy-asp-net-web-app-to-azure-351)
+- [Target User Persona](https://dev.to/stephanbranczyk/target-user-persona-22f1)
+- [Letter Creator - My Entry for the Google Gemini Competition](https://dev.to/stephanbranczyk/letter-creator-my-entry-for-the-google-gemini-competition-4pnh)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/christopher_mugwimi/understanding-your-data-the-essentials-of-exploratory-data-analysis-20de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
