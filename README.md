@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My new commitment](https://dev.to/silje_a9b2d7dd03f41d0ccd2/my-new-commitment-1cgk)
-- [Introducing Oats~i - The Open Web Framework](https://dev.to/oatsi/introducing-oatsi-the-open-web-framework-2ehp)
-- [Configure Cross-Account Cross-Region AWS CloudWatch Dashboard](https://dev.to/aws-builders/configure-cross-account-cross-region-aws-cloudwatch-dashboard-4fgl)
-- [Organize your components and layouts in your pages-based Next.js application this way.](https://dev.to/thinkthroo/organize-your-components-and-layouts-in-your-pages-based-nextjs-application-this-way-2m4l)
-- [Variable by Reference &amp; Variable by Value in PHP](https://dev.to/talha_khan74/variable-by-reference-variable-by-value-in-php-25om)
+- [CSS Box Model: The Secret Sauce of Web Layouts](https://dev.to/gdebojyoti/css-box-model-the-secret-sauce-of-web-layouts-1c17)
+- [CSS Project 1](https://dev.to/ofameh/css-project-1-4pl3)
+- [need suggestions](https://dev.to/monwarqx1250/need-suggestions-28lb)
+- [Achieving Atomicity in Mongo DB Database operations](https://dev.to/oluwatobi2001/achieving-atomicity-in-mongo-db-database-operations-15dj)
+- [GLPI - Fechar ticket com API](https://dev.to/joaoprd/glpi-fechar-ticket-com-api-4a9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
