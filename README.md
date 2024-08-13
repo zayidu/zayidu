@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Today&#39;s Trending Projects: Give Your Page a Makeover and More](https://dev.to/labex/todays-trending-projects-give-your-page-a-makeover-and-more-17hl)
-- [What is the difference between Docker ADD &amp; Docker COPY ?](https://dev.to/rajeshsgr/what-is-the-difference-between-docker-add-docker-copy--59op)
-- [The best extension for Visual Studio Code](https://dev.to/belmirofss/the-best-extension-for-visual-studio-code-5eab)
-- [The Relevance of Computational Thinking in Programming](https://dev.to/koobimdi/the-relevance-of-computational-thinking-in-programming-cf8)
-- [Just build it: How we design Streamlit to bias you toward forward progress](https://dev.to/streamlit/just-build-it-how-we-design-streamlit-to-bias-you-toward-forward-progress-520d)
+- [Switching from Windows 11 to Linux Ubuntu](https://dev.to/sayed_touati/switching-from-windows-11-to-linux-ubuntu-3ld8)
+- [Boost Your App Efficiency with GraphQL and React: A Deep Dive](https://dev.to/tl23143/boost-your-app-efficiency-with-graphql-and-react-a-deep-dive-155c)
+- [Deploying a React application to GitHub Pages](https://dev.to/ceedotech/deploying-a-react-application-to-github-3ipm)
+- [Mastering Bash Scripting in DevOps – Essential Scripts for Production : Day 27 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/mastering-bash-scripting-in-devops-essential-scripts-for-production-day-27-of-50-days-devops-tools-series-2h3p)
+- [Como Conectar ao Azure Table Storage e Manipular Dados com PySpark](https://dev.to/madrade1472/como-conectar-ao-azure-table-storage-e-manipular-dados-com-pyspark-5fba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
