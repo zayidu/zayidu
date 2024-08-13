@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Have you every made a library? Share it!](https://dev.to/best_codes/have-you-every-made-a-library-share-it-a15)
-- [A Comprehensive and User-Friendly Project README.md Template](https://dev.to/zand/a-comprehensive-and-user-friendly-project-readmemd-template-2ei8)
-- [7 Tools Worth Trying, Have You Used Them?](https://dev.to/lunamiller/7-tools-worth-trying-have-you-used-them-3m7e)
-- [how to connect dev community user&#39;s published post using api and reactjs](https://dev.to/kyawmintun96/how-to-connect-dev-community-users-published-post-using-api-and-reactjs-9af)
-- [Enhancing Performance in React: Why You Should Consider useDeferredValue Over Throttling and Debouncing](https://dev.to/junihoj/enhancing-performance-in-react-why-you-should-consider-usedeferredvalue-over-throttling-and-debouncing-99b)
+- [Django Unlocked: Beginners&#39; Spawn Point](https://dev.to/0xshr00msz/django-unlocked-beginners-spawn-point-5g5e)
+- [From Rows and Columns to Vectors: The Evolutionary Journey of Database Technologies](https://dev.to/zilliz/from-rows-and-columns-to-vectors-the-evolutionary-journey-of-database-technologies-2e64)
+- [Nested Layouts with Ruby on Rails](https://dev.to/railsdesigner/nested-layouts-with-ruby-on-rails-5889)
+- [Immutable Data Structures: Records and Tuples in ECMA 2024](https://dev.to/wendyver/immutable-data-structures-records-and-tuples-in-ecma-2024-1n39)
+- [Building jargons.dev [#1]: The Base Dictionary](https://dev.to/babblebey/building-jargonsdev-1-the-base-dictionary-3ei3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
