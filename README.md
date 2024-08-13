@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#44 — Group Rows And Combine Non-Null Values in Each of The Non-Grouping Columns](https://dev.to/judith677/44-group-rows-and-combine-non-null-values-in-each-of-the-non-grouping-columns-1lce)
-- [Getting Started with NPM &lpar;Node Package Manager&rpar; for Beginners](https://dev.to/dhananjaywarade/getting-started-with-npm-node-package-manager-for-beginners-13m)
-- [Mac Programmers — Tips for Improving Productivity](https://dev.to/violet_alexander_a4a3e5dd/mac-programmers-tips-for-improving-productivity-191e)
-- [Flattening a Deeply Nested Object: A Step-by-Step Guide](https://dev.to/dey24/flattening-a-deeply-nested-object-a-step-by-step-guide-163g)
-- [12 Fun Idioms and Principles for Software Engineers](https://dev.to/madelgeek/12-fun-idioms-and-principles-for-software-engineers-1lfj)
+- [Understanding YAGNI &lpar;You Aren’t Gonna Need It&rpar;](https://dev.to/shagun/understanding-yagni-you-arent-gonna-need-it-4165)
+- [Exploratory Data Analysis using SQL](https://dev.to/allan-pg/exploratory-data-analysis-using-sql-23dl)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/nyagabree003/understanding-your-data-the-essentials-of-exploratory-data-analysis-h04)
+- [Secure Your Website for Free with SafeLine: The Leading Open-Source WAF](https://dev.to/aeriewhole123/secure-your-website-for-free-with-safeline-the-leading-open-source-waf-1g37)
+- [Elixir&#39;s with statement &amp; pipe operator - Understanding &amp; use cases](https://dev.to/manhvanvu/elixirs-with-statement-pipe-operator-15me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
