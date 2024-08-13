@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Teste de fogo: fatorial recursivo](https://dev.to/alexgarzao/teste-de-fogo-fatorial-recursivo-1hin)
-- [Breaking a TOTP?](https://dev.to/not-so-genius/breaking-a-totp-2h9a)
-- [hidden-water](https://dev.to/__ed880143c/hidden-water-5ejo)
-- [Recap of Microsoft&#39;s &quot;Let&#39;s Move Away from API Keys!&quot; by Chris Noring](https://dev.to/agagag/recap-of-microsofts-lets-move-away-from-api-keys-by-chris-noring-4e5o)
-- [Simple way to store secrets in Android Project.](https://dev.to/kiolk/simple-way-to-store-secrets-in-android-project-345k)
+- [What Testing Frameworks or Methodologies are Most Effective for Backend Testing?](https://dev.to/shieldstring/what-testing-frameworks-or-methodologies-are-most-effective-for-backend-testing-1aj6)
+- [20 New SDXL Fine Tuning Tests and Their Results &lpar;Better Workflow Obtained and Published&rpar;](https://dev.to/furkangozukara/20-new-sdxl-fine-tuning-tests-and-their-results-better-workflow-obtained-and-published-13k4)
+- [🚀 Day 15: Building Tip Calculator with Rect 🚀](https://dev.to/mayureshsurve/day-15-building-tip-calculator-with-rect-1n19)
+- [Effective API Error Handling](https://dev.to/hedley_balance/effective-api-error-handling-2272)
+- [Day 1009 : Ship &#39;Em Out](https://dev.to/dwane/day-1009-ship-em-out-2d0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
