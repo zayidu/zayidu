@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fortify and Safely Test Your Website Against Hackers](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-fortify-and-safely-test-your-website-against-hackers-28jo)
-- [How I Made My Laravel Project More Efficient!](https://dev.to/reasnovynt/how-i-made-my-laravel-project-more-efficient-3n51)
-- [My Development Journey: From Novice to Developer](https://dev.to/sakibreza229/my-development-journey-from-novice-to-developer-24m5)
-- [Design A Paste Bin](https://dev.to/zeeshanali0704/paste-bin-13c)
-- [Help make Solana Transaction faster](https://dev.to/jack_quincy_0397ce6381a91/help-make-solana-transaction-faster-129l)
+- [10+ Advanced Project Ideas for Developers: Challenge Your Skills!](https://dev.to/lokesh_singh/10-advanced-project-ideas-for-developers-challenge-your-skills-2869)
+- [How I Nailed a React Take Home Assessment and landed a 190k+ Job.](https://dev.to/paterson1720/how-i-nailed-a-react-take-home-assessment-and-land-a-190k-job-3kpp)
+- [🤖 100 Days of Generative AI - Day 6 - What is a Vector Database? 🤖](https://dev.to/lakhera2015/100-days-of-generative-ai-day-6-what-is-a-vector-database-3afl)
+- [Unlock the Secrets of Efficient Algorithms with &quot;The Algorithm Design Manual&quot; 🔑](https://dev.to/getvm/unlock-the-secrets-of-efficient-algorithms-with-the-algorithm-design-manual-18b6)
+- [Hugo shortcode for sns with unit.link like button](https://dev.to/callas1900/hugo-shortcode-for-sns-with-unitlink-like-button-24ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
