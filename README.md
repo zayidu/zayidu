@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install and Configure SafeLine WAF: A Quick Start Guide](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-install-and-configure-safeline-waf-a-quick-start-guide-k5h)
-- [Implementing Authentication in Next.js: Comparing Different Strategies](https://dev.to/a_shokn/implementing-authentication-in-nextjs-comparing-different-strategies-4phm)
-- [Beginner&#39;s Guide to Python: From Installation to Understanding Variables](https://dev.to/jobreadyprogrammer/beginners-guide-to-python-from-installation-to-understanding-variables-99a)
-- [Retrieve multiple columns from a csv file to generate a new file #eg23](https://dev.to/esproc_spl/retrieve-multiple-columns-from-a-csv-file-to-generate-a-new-file-eg23-10di)
-- [Day 43 / 100 Days of Code: Embracing the Elegance of JavaScript](https://dev.to/jacobsternx/day-43-100-days-of-code-embracing-the-elegance-of-javascript-dmm)
+- [The Creation of Rooh London: Journey, Challenges, and Future Goals](https://dev.to/echormbringer/the-creation-of-rooh-london-journey-challenges-and-future-goals-3enf)
+- [ES - CAT APIs](https://dev.to/mallikarjunht/es-cat-apis-ilp)
+- [Project: Spreadsheet To Video, Kinetic Text](https://dev.to/kocreative/project-spreadsheet-to-video-kinetic-text-4ad8)
+- [New improvements to my docker-like solution for macOS, 86/64 version.](https://dev.to/okerew/new-improvements-to-my-docker-like-solution-for-macos-8664-version-1nf0)
+- [Introduction to Object-Relational Mappers &lpar;ORMs&rpar;](https://dev.to/sebastiandevelops/introduction-to-object-relational-mappers-orms-3goo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
