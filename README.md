@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Chatbots Could Lead Witnesses to Form False Memories, Study Warns](https://dev.to/mikeyoung44/llm-chatbots-could-lead-witnesses-to-form-false-memories-study-warns-22p)
-- [AI Scientist Enables Fully Automated Open-Ended Scientific Discovery](https://dev.to/mikeyoung44/ai-scientist-enables-fully-automated-open-ended-scientific-discovery-33l5)
-- [ToolSandbox: Realistic Interactive Benchmark for Evaluating LLM Tool Use Capabilities](https://dev.to/mikeyoung44/toolsandbox-realistic-interactive-benchmark-for-evaluating-llm-tool-use-capabilities-3b8l)
-- [Unveiling Transformers&#39; Math: Particles, Clustering, and Gradient Flows](https://dev.to/mikeyoung44/unveiling-transformers-math-particles-clustering-and-gradient-flows-45op)
-- [Understanding Web Storage](https://dev.to/mario130/understanding-web-storage-j0f)
+- [I&#39;ll be speaking at Major League Hacking &lpar;MLH&rpar; Hackcon 2024!](https://dev.to/1grace/ill-be-speaking-at-major-league-hacking-mlh-hackcon-2024-5ge5)
+- [How to Write Great API Documentation 🗒](https://dev.to/devella/how-to-write-great-api-documentation-58k0)
+- [digital trends](https://dev.to/faldesign/digital-trends-mdj)
+- [Top 5 Benefits of Combining MLOps and DevOps](https://dev.to/marufhossain/top-5-benefits-of-combining-mlops-and-devops-2o61)
+- [Build a desktop app with Electron + Vite + React EASYLY](https://dev.to/maxbleu/build-a-desktop-app-with-electron-vite-react-easyly-3c81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
