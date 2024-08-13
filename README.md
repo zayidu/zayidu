@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make AI Suck Less When Building AI Features](https://dev.to/builderio/how-to-make-ai-suck-less-when-building-ai-features-4h5l)
-- [Create a custom error page with Laravel and Inertia](https://dev.to/capsulescodes/create-a-custom-error-page-with-laravel-and-inertia-47a1)
-- [Three Examples of How AI Expands Developers&#39; Roles](https://dev.to/lorenzojkrl/three-examples-of-how-ai-expands-developers-roles-45fa)
-- [Basic Linux Commands to Know: A Beginner&#39;s Guide](https://dev.to/bennyfmo_237/basic-linux-commands-to-know-a-beginners-guide-41mf)
-- [Mobile Accessibility Testing: Everything you need to know](https://dev.to/grjoeay/mobile-accessibility-testing-everything-you-need-to-know-6fa)
+- [Micronaut vs. Spring Boot: A Detailed Comparison](https://dev.to/adaumircosta/micronaut-vs-spring-boot-a-detailed-comparison-4og5)
+- [ISP Proxies vs Residential Proxies: Main differences](https://dev.to/oxylabs-io/isp-proxies-vs-residential-proxies-main-differences-40hp)
+- [I LEARNT JAVA ☕](https://dev.to/mince/i-learnt-java-2k2o)
+- [I LEARNT JAVA ☕](https://dev.to/mince/i-learnt-java-5a58)
+- [Comprehensive Guide to Integrating SonarCloud with GitHub Projects](https://dev.to/ittrident/comprehensive-guide-to-integrating-sonarcloud-with-github-projects-3449)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
