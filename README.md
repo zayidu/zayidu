@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Les composants d’un Navigateur Web](https://dev.to/tontz/les-composants-dun-navigateur-web-opg)
-- [How to Build a PWA with Java and Spring Boot: Best Practices for Offline Functionality?](https://dev.to/livenathan/how-to-build-a-pwa-with-java-and-spring-boot-best-practices-for-offline-functionality-4l3k)
-- [Article2](https://dev.to/theqwertypusher/article2-1kpd)
-- [Chapter 2 - Network Models](https://dev.to/yusbuntu/chapter-2-network-models-41j7)
-- [How to Install &amp; Setup K8-Cluster using kubeadm](https://dev.to/sweetestshuga/how-to-install-setup-k8-cluster-using-kubeadm-25p)
+- [Exploring Kubernetes: Architecture and Use Cases](https://dev.to/citrux-digital/exploring-kubernetes-architecture-and-use-cases-25hf)
+- [React with Vite On Steroids](https://dev.to/ricardogesteves/react-with-vite-on-steroids-4nh0)
+- [Solana Wallet Management with TypeScript](https://dev.to/sumana10/solana-wallet-management-with-typescript-213e)
+- [Event Loop and Concurrency in JavaScript](https://dev.to/rahulvijayvergiya/event-loop-and-concurrency-in-javascript-3flf)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
