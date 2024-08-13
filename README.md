@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Django Unlocked: Beginners&#39; Spawn Point](https://dev.to/0xshr00msz/django-unlocked-beginners-spawn-point-5g5e)
-- [From Rows and Columns to Vectors: The Evolutionary Journey of Database Technologies](https://dev.to/zilliz/from-rows-and-columns-to-vectors-the-evolutionary-journey-of-database-technologies-2e64)
-- [Nested Layouts with Ruby on Rails](https://dev.to/railsdesigner/nested-layouts-with-ruby-on-rails-5889)
-- [Immutable Data Structures: Records and Tuples in ECMA 2024](https://dev.to/wendyver/immutable-data-structures-records-and-tuples-in-ecma-2024-1n39)
-- [Building jargons.dev [#1]: The Base Dictionary](https://dev.to/babblebey/building-jargonsdev-1-the-base-dictionary-3ei3)
+- [LLM Chatbots Could Lead Witnesses to Form False Memories, Study Warns](https://dev.to/mikeyoung44/llm-chatbots-could-lead-witnesses-to-form-false-memories-study-warns-22p)
+- [AI Scientist Enables Fully Automated Open-Ended Scientific Discovery](https://dev.to/mikeyoung44/ai-scientist-enables-fully-automated-open-ended-scientific-discovery-33l5)
+- [ToolSandbox: Realistic Interactive Benchmark for Evaluating LLM Tool Use Capabilities](https://dev.to/mikeyoung44/toolsandbox-realistic-interactive-benchmark-for-evaluating-llm-tool-use-capabilities-3b8l)
+- [Unveiling Transformers&#39; Math: Particles, Clustering, and Gradient Flows](https://dev.to/mikeyoung44/unveiling-transformers-math-particles-clustering-and-gradient-flows-45op)
+- [Understanding Web Storage](https://dev.to/mario130/understanding-web-storage-j0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
