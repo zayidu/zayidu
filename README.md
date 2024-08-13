@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Switching from Windows 11 to Linux Ubuntu](https://dev.to/sayed_touati/switching-from-windows-11-to-linux-ubuntu-3ld8)
-- [Boost Your App Efficiency with GraphQL and React: A Deep Dive](https://dev.to/tl23143/boost-your-app-efficiency-with-graphql-and-react-a-deep-dive-155c)
-- [Deploying a React application to GitHub Pages](https://dev.to/ceedotech/deploying-a-react-application-to-github-3ipm)
-- [Mastering Bash Scripting in DevOps – Essential Scripts for Production : Day 27 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/mastering-bash-scripting-in-devops-essential-scripts-for-production-day-27-of-50-days-devops-tools-series-2h3p)
-- [Como Conectar ao Azure Table Storage e Manipular Dados com PySpark](https://dev.to/madrade1472/como-conectar-ao-azure-table-storage-e-manipular-dados-com-pyspark-5fba)
+- [How to Fortify and Safely Test Your Website Against Hackers](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-fortify-and-safely-test-your-website-against-hackers-28jo)
+- [How I Made My Laravel Project More Efficient!](https://dev.to/reasnovynt/how-i-made-my-laravel-project-more-efficient-3n51)
+- [My Development Journey: From Novice to Developer](https://dev.to/sakibreza229/my-development-journey-from-novice-to-developer-24m5)
+- [Design A Paste Bin](https://dev.to/zeeshanali0704/paste-bin-13c)
+- [Help make Solana Transaction faster](https://dev.to/jack_quincy_0397ce6381a91/help-make-solana-transaction-faster-129l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
