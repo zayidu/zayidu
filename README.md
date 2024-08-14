@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rails Designer v1.3: Two New Components and Nested Forms Utility 🤯](https://dev.to/railsdesigner/rails-designer-v13-two-new-components-and-nested-forms-utility-2d4f)
-- [[DAY 105-107] I built a contacts manager using Node.js &amp; Express](https://dev.to/thomascansino/day-104-106-i-built-a-contacts-manager-using-nodejs-express-30m3)
-- [How to Stay Relevant as an Engineering Leader? End the Dilemma](https://dev.to/grocto/how-to-stay-relevant-as-an-engineering-leader-end-the-dilemma-2185)
-- [# AI and the Future of Human-Computer Interaction &lpar;HCI&rpar;: A New Era of Interaction 🧠🤖](https://dev.to/arjun28ach/-ai-and-the-future-of-human-computer-interaction-hci-a-new-era-of-interaction-154b)
-- [Building Open Source React Components for Real-Time Notifications](https://dev.to/novu/building-open-source-react-components-for-real-time-notifications-1edb)
+- [Ultimate CLI Cheatsheet](https://dev.to/mahf001/ultimate-cli-cheatsheet-1jgb)
+- [DEV Search: 20x Latency Reduction By Layering Algolia On Top of Postgres](https://dev.to/devteam/dev-search-20x-latency-reduction-by-layering-algolia-on-top-of-postgres-3845)
+- [What is wrong here?](https://dev.to/fares_fathi_7f351abcd1b7b/what-is-wrong-here-5f4)
+- [Enhance Visual Testing CI Pipelines with Cypress Image Diff GitHub App](https://dev.to/kienht/enhance-visual-testing-ci-pipelines-with-cypress-image-diff-github-app-4ci0)
+- [Connecting PrismaORM to the NestJS-mod application and checking its operation via REST](https://dev.to/endykaufman/connecting-prismaorm-to-the-nestjs-mod-application-and-checking-its-operation-via-rest-4bbp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
