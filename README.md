@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Interview with Johans Justs Eris, Tauri Developer for Blenderbase at PhysicalAddons](https://dev.to/crabnebula/interview-with-johans-justs-eris-tauri-developer-for-blenderbase-at-physicaladdons-loh)
-- [Survey: The impact of ESG on financial performance: a revisit with a regression discontinuity approach](https://dev.to/tutti/survey-the-impact-of-esg-on-financial-performance-a-revisit-with-a-regression-discontinuity-approach-1ag9)
-- [Artificial Intelligence and Machine Learning.](https://dev.to/morgan_murimi_mithamo/artificial-intelligence-and-machine-learning-1poc)
-- [Simplifying State Management in React with Valtio](https://dev.to/jamel86/simplifying-state-management-in-react-with-valtio-4g97)
-- [The Evolution of Application Architecture: Crafting Code that Stands the Test of Time](https://dev.to/iwooky/the-evolution-of-application-architecture-crafting-code-that-stands-the-test-of-time-1o7l)
+- [Rails Designer v1.3: Two New Components and Nested Forms Utility 🤯](https://dev.to/railsdesigner/rails-designer-v13-two-new-components-and-nested-forms-utility-2d4f)
+- [[DAY 105-107] I built a contacts manager using Node.js &amp; Express](https://dev.to/thomascansino/day-104-106-i-built-a-contacts-manager-using-nodejs-express-30m3)
+- [How to Stay Relevant as an Engineering Leader? End the Dilemma](https://dev.to/grocto/how-to-stay-relevant-as-an-engineering-leader-end-the-dilemma-2185)
+- [# AI and the Future of Human-Computer Interaction &lpar;HCI&rpar;: A New Era of Interaction 🧠🤖](https://dev.to/arjun28ach/-ai-and-the-future-of-human-computer-interaction-hci-a-new-era-of-interaction-154b)
+- [Building Open Source React Components for Real-Time Notifications](https://dev.to/novu/building-open-source-react-components-for-real-time-notifications-1edb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
