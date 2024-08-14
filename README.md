@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Translate Your Next.js App in 5 Minutes With Crowdin](https://dev.to/zerodays/how-to-translate-your-nextjs-app-in-5-minutes-with-crowdin-1pe0)
-- [Ibuprofeno.py💊| #161: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-161-explica-este-codigo-python-c8b)
-- [Generative AI Virtual Agent Application Design](https://dev.to/diamondai/generative-ai-virtual-agent-application-design-4pkj)
-- [Maximizing Your Investment Strategy with Free Stock History Data API](https://dev.to/williamsmithh/maximizing-your-investment-strategy-with-free-stock-history-data-api-23e5)
-- [DIY vs. Managed WordPress Hosting: Choosing the Right Solution for Your Website](https://dev.to/wewphosting/diy-vs-managed-wordpress-hosting-choosing-the-right-solution-for-your-website-57hk)
+- [How I Upped My Frontend Game with Generative UI 🧑‍💻🌠](https://dev.to/copilotkit/how-i-upped-my-frontend-game-with-generative-ui-4fhc)
+- [**Las Mejores Herramientas para Desarrolladores Full Stack**](https://dev.to/orlidev/las-mejores-herramientas-para-desarrolladores-full-stack-1lf6)
+- [WEB DESIGN](https://dev.to/pacmansnr_01/web-design-23d2)
+- [From Jupyter Notebook to deployed application in 4 steps](https://dev.to/kitops/from-jupyter-notebook-to-deployed-application-in-4-steps-2n2n)
+- [The Nose Knows: How AI is Revolutionizing the World of Fragrance ⚗️🧪🧠](https://dev.to/tharuneshwars/the-nose-knows-how-ai-is-revolutionizing-the-world-of-fragrance-109c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
