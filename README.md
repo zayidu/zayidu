@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Irohub Infotech is the Best Python Training in Kochi](https://dev.to/liya4/why-irohub-infotech-is-the-best-python-training-in-kochi-1obc)
-- [Expo vs. React Native: Pros, Cons, and Key Differences](https://dev.to/codeparrot/expo-vs-react-native-pros-cons-and-key-differences-2805)
-- [DevNow：支持集成 Tina CMS](https://dev.to/laughingzhu/devnowzhi-chi-ji-cheng-tina-cms-1o66)
-- [How Gen AI makes a difference](https://dev.to/viksingh/how-gen-ai-makes-a-difference-5a98)
-- [&quot;100 Days of Full Stack Development challenge&quot;](https://dev.to/sim_12/100-days-of-full-stack-development-challenge-1oe3)
+- [Forms Processing](https://dev.to/nitindahiyadev/forms-processing-2ki3)
+- [Clear duplicate lines and lines having missing values from a csv file #eg24](https://dev.to/esproc_spl/clear-duplicate-lines-and-lines-having-missing-values-from-a-csv-file-eg24-2d69)
+- [useCallback VS useMemo](https://dev.to/peteryuan/usecallback-vs-usememo-5gad)
+- [Building and Managing Production-Ready Apache Airflow: From Setup to Troubleshooting](https://dev.to/anshul_kichara/building-and-managing-production-ready-apache-airflow-from-setup-to-troubleshooting-b4k)
+- [Hiring a Company with a Few Lines of Code](https://dev.to/pragyanatvade/hiring-a-company-with-a-few-lines-of-code-mlf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
