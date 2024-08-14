@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Testing Frameworks or Methodologies are Most Effective for Backend Testing?](https://dev.to/shieldstring/what-testing-frameworks-or-methodologies-are-most-effective-for-backend-testing-1aj6)
-- [20 New SDXL Fine Tuning Tests and Their Results &lpar;Better Workflow Obtained and Published&rpar;](https://dev.to/furkangozukara/20-new-sdxl-fine-tuning-tests-and-their-results-better-workflow-obtained-and-published-13k4)
-- [🚀 Day 15: Building Tip Calculator with Rect 🚀](https://dev.to/mayureshsurve/day-15-building-tip-calculator-with-rect-1n19)
-- [Effective API Error Handling](https://dev.to/hedley_balance/effective-api-error-handling-2272)
-- [Day 1009 : Ship &#39;Em Out](https://dev.to/dwane/day-1009-ship-em-out-2d0a)
+- [Getting Readable Crash Reports in Firebase Crashlytics from your Flutter Application](https://dev.to/thefullstackjonin/getting-readable-crash-reports-in-firebase-crashlytics-from-your-flutter-application-1pp0)
+- [The sad story of node update!](https://dev.to/jairofernandez/the-sad-story-of-node-update-21gd)
+- [Mastering Regular Expressions in JavaScript](https://dev.to/kartikmehta8/mastering-regular-expressions-in-javascript-3b04)
+- [Implementing a Singly Linked List](https://dev.to/jihoonj/implementing-a-singly-linked-list-3508)
+- [Alternatives to Amaretto: Improving Your Cocktail](https://dev.to/damilare_abogunrin/alternatives-to-amaretto-improving-your-cocktail-1adm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
