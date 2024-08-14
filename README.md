@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The PACS That Once Were](https://dev.to/femolacaster/the-pacs-that-once-were-4b3g)
-- [CSS Basics](https://dev.to/thekarlesi/css-basics-1261)
-- [Os Melhores Livros para Aprimorar Suas Habilidades em QA](https://dev.to/jojosuelobo/os-melhores-livros-para-aprimorar-suas-habilidades-em-qa-3h4f)
-- [How to remove annoying websites from your search result by default](https://dev.to/lechatthecat/how-to-remove-annoying-websites-from-your-search-result-3mfo)
-- [How to Center a Div: 5 Simple Methods](https://dev.to/danmusembi/how-to-center-a-div-5-simple-methods-3ip8)
+- [🌟 Managing Code School and a Thai Restaurant 🌟](https://dev.to/muydanny/managing-code-school-and-a-thai-restaurant-4bhf)
+- [Why LLM Agnostic Solutions are the Future of Dev Tools](https://dev.to/get_pieces/why-llm-agnostic-solutions-are-the-future-of-dev-tools-36m2)
+- [The 10 Best VS Code Extensions](https://dev.to/get_pieces/the-10-best-vs-code-extensions-1ppo)
+- [Load .Env file into IConfiguration Provider](https://dev.to/rmaurodev/load-env-file-into-iconfiguration-provider-4fk0)
+- [Creating Truly Custom UI Components for AWS Cognito – Amplify in React Native](https://dev.to/niek_dewit_6d1cfcfeaff6a/creating-truly-custom-ui-components-for-aws-cognito-amplify-in-react-native-3gfi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
