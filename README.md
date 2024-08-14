@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Upped My Frontend Game with Generative UI 🧑‍💻🌠](https://dev.to/copilotkit/how-i-upped-my-frontend-game-with-generative-ui-4fhc)
-- [**Las Mejores Herramientas para Desarrolladores Full Stack**](https://dev.to/orlidev/las-mejores-herramientas-para-desarrolladores-full-stack-1lf6)
-- [WEB DESIGN](https://dev.to/pacmansnr_01/web-design-23d2)
-- [From Jupyter Notebook to deployed application in 4 steps](https://dev.to/kitops/from-jupyter-notebook-to-deployed-application-in-4-steps-2n2n)
-- [The Nose Knows: How AI is Revolutionizing the World of Fragrance ⚗️🧪🧠](https://dev.to/tharuneshwars/the-nose-knows-how-ai-is-revolutionizing-the-world-of-fragrance-109c)
+- [Advanced Indexing Techniques with LlamaIndex and Ollama: Part 2](https://dev.to/jamesbmour/advanced-indexing-techniques-with-llamaindex-and-ollama-part-2-1d36)
+- [Build a small chat service using Elixir and deploy it on Amazon ec2 using AWS &lpar;Part 2&rpar;](https://dev.to/tam_ly/build-a-small-chat-service-using-elixir-and-deploy-it-on-amazon-ec2-using-aws-part-2-1j4a)
+- [My Thoughts on Karim Tahiroglu&#39;s Book &quot;I Want to Be a Programmer&quot;](https://dev.to/emaharramov/my-thoughts-on-karim-tahiroglus-book-i-want-to-be-a-programmer-468o)
+- [What is Asp.Net middleware in its simplest definition?](https://dev.to/emrekocadere/what-is-aspnet-middleware-in-its-simplest-definition-9gc)
+- [Webhook vs API: Understanding the Differences](https://dev.to/keploy/webhook-vs-api-understanding-the-differences-2d9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
