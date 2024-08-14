@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Indexing Techniques with LlamaIndex and Ollama: Part 2](https://dev.to/jamesbmour/advanced-indexing-techniques-with-llamaindex-and-ollama-part-2-1d36)
-- [Build a small chat service using Elixir and deploy it on Amazon ec2 using AWS &lpar;Part 2&rpar;](https://dev.to/tam_ly/build-a-small-chat-service-using-elixir-and-deploy-it-on-amazon-ec2-using-aws-part-2-1j4a)
-- [My Thoughts on Karim Tahiroglu&#39;s Book &quot;I Want to Be a Programmer&quot;](https://dev.to/emaharramov/my-thoughts-on-karim-tahiroglus-book-i-want-to-be-a-programmer-468o)
-- [What is Asp.Net middleware in its simplest definition?](https://dev.to/emrekocadere/what-is-aspnet-middleware-in-its-simplest-definition-9gc)
-- [Webhook vs API: Understanding the Differences](https://dev.to/keploy/webhook-vs-api-understanding-the-differences-2d9e)
+- [Go + Docker: Como criar as melhores imagens Docker para aplicações Golang](https://dev.to/rflpazini/go-docker-como-criar-as-melhores-imagens-docker-para-aplicacoes-golang-ikj)
+- [Metrics Can Fool You: Measuring Execution Time in Connection-Pooled Environments](https://dev.to/carc/metrics-can-fool-you-measuring-execution-time-in-connection-pooled-environments-38ep)
+- [Tuples and Sets in Python](https://dev.to/shaiquehossain/tuples-and-sets-in-python-1532)
+- [Error Code 418 - &quot;I&#39;m a Teapot&quot;?! 😲](https://dev.to/best_codes/error-code-418-im-a-teapot-38lk)
+- [Today&#39;s Internet](https://dev.to/belmirofss/todays-internet-1iaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
