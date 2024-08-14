@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Games Data API](https://dev.to/devsdocs/introducing-game-data-api-3f5a)
-- [Kubernetes: A beginner&#39;s guide](https://dev.to/niharikaa/kubernetes-a-beginners-guide-jn1)
-- [7 Steps To Become A Prompt Engineer](https://dev.to/latitude/7-steps-to-become-a-prompt-engineer-4am8)
-- [SafeLine WAF: A Powerful Web Application Firewall](https://dev.to/sherbertill6/safeline-waf-a-powerful-web-application-firewall-24o1)
-- [Podcast Production with streamtasks](https://dev.to/leopf/podcast-production-with-streamtasks-1h09)
+- [How to Translate Your Next.js App in 5 Minutes With Crowdin](https://dev.to/zerodays/how-to-translate-your-nextjs-app-in-5-minutes-with-crowdin-1pe0)
+- [Ibuprofeno.py💊| #161: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-161-explica-este-codigo-python-c8b)
+- [Generative AI Virtual Agent Application Design](https://dev.to/diamondai/generative-ai-virtual-agent-application-design-4pkj)
+- [Maximizing Your Investment Strategy with Free Stock History Data API](https://dev.to/williamsmithh/maximizing-your-investment-strategy-with-free-stock-history-data-api-23e5)
+- [DIY vs. Managed WordPress Hosting: Choosing the Right Solution for Your Website](https://dev.to/wewphosting/diy-vs-managed-wordpress-hosting-choosing-the-right-solution-for-your-website-57hk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
