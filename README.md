@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v289](https://dev.to/devteam/welcome-thread-v289-2ep7)
-- [Top 11 Open-Source API Documentation Tools](https://dev.to/apilover/top-11-open-source-api-documentation-tools-272i)
-- [Primitives, Functions, and WTH The Value won&#39;t Update](https://dev.to/blitzkrieg/primitives-functions-and-wth-the-value-wont-update-4650)
-- [Steps to industry-leading query speed: evolution of the Apache Doris execution engine](https://dev.to/apachedoris/steps-to-industry-leading-query-speed-evolution-of-the-apache-doris-execution-engine-2fna)
-- [Create Image Grids with Matplotlib | Python Tutorials](https://dev.to/labex/create-image-grids-with-matplotlib-python-tutorials-2a26)
+- [The Future Is Now: 10 Technologies Set to Transform 2024 🚀](https://dev.to/lokesh_singh/the-future-is-now-10-technologies-set-to-transform-2024-b0)
+- [Understanding the Basics of Network Security: A Guide for Beginners🔍](https://dev.to/prathameshratthe/understanding-the-basics-of-network-security-a-guide-for-beginners-52fm)
+- [Objects: The King in JavaScript](https://dev.to/zain725342/objects-the-king-in-javascript-30n8)
+- [🚀Mastering JavaScript: Top 10 Concepts Every Developer Should Know!](https://dev.to/gadekar_sachin/mastering-javascript-top-10-concepts-every-developer-should-know-6ka)
+- [Dive into the Fascinating World of Matrix Methods with Stanford University! 🚀](https://dev.to/getvm/dive-into-the-fascinating-world-of-matrix-methods-with-stanford-university-1hnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
