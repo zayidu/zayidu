@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go + Docker: Como criar as melhores imagens Docker para aplicações Golang](https://dev.to/rflpazini/go-docker-como-criar-as-melhores-imagens-docker-para-aplicacoes-golang-ikj)
-- [Metrics Can Fool You: Measuring Execution Time in Connection-Pooled Environments](https://dev.to/carc/metrics-can-fool-you-measuring-execution-time-in-connection-pooled-environments-38ep)
-- [Tuples and Sets in Python](https://dev.to/shaiquehossain/tuples-and-sets-in-python-1532)
-- [Error Code 418 - &quot;I&#39;m a Teapot&quot;?! 😲](https://dev.to/best_codes/error-code-418-im-a-teapot-38lk)
-- [Today&#39;s Internet](https://dev.to/belmirofss/todays-internet-1iaa)
+- [Interview with Johans Justs Eris, Tauri Developer for Blenderbase at PhysicalAddons](https://dev.to/crabnebula/interview-with-johans-justs-eris-tauri-developer-for-blenderbase-at-physicaladdons-loh)
+- [Survey: The impact of ESG on financial performance: a revisit with a regression discontinuity approach](https://dev.to/tutti/survey-the-impact-of-esg-on-financial-performance-a-revisit-with-a-regression-discontinuity-approach-1ag9)
+- [Artificial Intelligence and Machine Learning.](https://dev.to/morgan_murimi_mithamo/artificial-intelligence-and-machine-learning-1poc)
+- [Simplifying State Management in React with Valtio](https://dev.to/jamel86/simplifying-state-management-in-react-with-valtio-4g97)
+- [The Evolution of Application Architecture: Crafting Code that Stands the Test of Time](https://dev.to/iwooky/the-evolution-of-application-architecture-crafting-code-that-stands-the-test-of-time-1o7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
