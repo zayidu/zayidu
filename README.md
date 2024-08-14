@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stack Implementation Using Javascript &lpar;Linked List&rpar;](https://dev.to/ashutoshsarangi/stack-implementation-using-javascript-linked-list-2n56)
-- [Simplify AI with an AI Gateway](https://dev.to/vaibhavacharya/simplify-ai-with-an-ai-gateway-mp4)
-- [C# Hashtable Class: Explained with Examples](https://dev.to/bytehide/c-hashtable-class-explained-with-examples-5chg)
-- [A Comprehensive Guide to Prompt Engineering for AI](https://dev.to/vaibhavacharya/a-comprehensive-guide-to-prompt-engineering-for-ai-3on7)
-- [Understanding and Implementing a Test Case Generator](https://dev.to/keploy/understanding-and-implementing-a-test-case-generator-4pid)
+- [Introducing Games Data API](https://dev.to/devsdocs/introducing-game-data-api-3f5a)
+- [Kubernetes: A beginner&#39;s guide](https://dev.to/niharikaa/kubernetes-a-beginners-guide-jn1)
+- [7 Steps To Become A Prompt Engineer](https://dev.to/latitude/7-steps-to-become-a-prompt-engineer-4am8)
+- [SafeLine WAF: A Powerful Web Application Firewall](https://dev.to/sherbertill6/safeline-waf-a-powerful-web-application-firewall-24o1)
+- [Podcast Production with streamtasks](https://dev.to/leopf/podcast-production-with-streamtasks-1h09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
