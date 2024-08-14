@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [15 JavaScript Array Functions You Should Master as a Senior Dev](https://dev.to/dipakahirav/15-javascript-array-functions-you-should-master-as-a-senior-dev-54gg)
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;05/08/2024-11/08/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-05082024-11082024-25mp)
-- [Efficient UI Validation: Exploring Widget Testing in Flutter &lpar;UI Tests&rpar;](https://dev.to/gguedes/efficient-ui-validation-exploring-widget-testing-in-flutter-ui-tests-31d4)
-- [You&#39;re leading a dispersed team. How can you ensure your vision and goals are effectively communicated?](https://dev.to/gourav_sharma_00/youre-leading-a-dispersed-team-how-can-you-ensure-your-vision-and-goals-are-effectively-communicated-1aga)
-- [Mastering Data Structures and Algorithms: A Comprehensive Guide to Getting Started](https://dev.to/shaswatha_thilaka/mastering-data-structures-and-algorithms-a-comprehensive-guide-to-getting-started-li)
+- [Welcome Thread - v289](https://dev.to/devteam/welcome-thread-v289-2ep7)
+- [Top 11 Open-Source API Documentation Tools](https://dev.to/apilover/top-11-open-source-api-documentation-tools-272i)
+- [Primitives, Functions, and WTH The Value won&#39;t Update](https://dev.to/blitzkrieg/primitives-functions-and-wth-the-value-wont-update-4650)
+- [Steps to industry-leading query speed: evolution of the Apache Doris execution engine](https://dev.to/apachedoris/steps-to-industry-leading-query-speed-evolution-of-the-apache-doris-execution-engine-2fna)
+- [Create Image Grids with Matplotlib | Python Tutorials](https://dev.to/labex/create-image-grids-with-matplotlib-python-tutorials-2a26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
