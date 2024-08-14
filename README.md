@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate CLI Cheatsheet](https://dev.to/mahf001/ultimate-cli-cheatsheet-1jgb)
-- [DEV Search: 20x Latency Reduction By Layering Algolia On Top of Postgres](https://dev.to/devteam/dev-search-20x-latency-reduction-by-layering-algolia-on-top-of-postgres-3845)
-- [What is wrong here?](https://dev.to/fares_fathi_7f351abcd1b7b/what-is-wrong-here-5f4)
-- [Enhance Visual Testing CI Pipelines with Cypress Image Diff GitHub App](https://dev.to/kienht/enhance-visual-testing-ci-pipelines-with-cypress-image-diff-github-app-4ci0)
-- [Connecting PrismaORM to the NestJS-mod application and checking its operation via REST](https://dev.to/endykaufman/connecting-prismaorm-to-the-nestjs-mod-application-and-checking-its-operation-via-rest-4bbp)
+- [The PACS That Once Were](https://dev.to/femolacaster/the-pacs-that-once-were-4b3g)
+- [CSS Basics](https://dev.to/thekarlesi/css-basics-1261)
+- [Os Melhores Livros para Aprimorar Suas Habilidades em QA](https://dev.to/jojosuelobo/os-melhores-livros-para-aprimorar-suas-habilidades-em-qa-3h4f)
+- [How to remove annoying websites from your search result by default](https://dev.to/lechatthecat/how-to-remove-annoying-websites-from-your-search-result-3mfo)
+- [How to Center a Div: 5 Simple Methods](https://dev.to/danmusembi/how-to-center-a-div-5-simple-methods-3ip8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
