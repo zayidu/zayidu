@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future Is Now: 10 Technologies Set to Transform 2024 🚀](https://dev.to/lokesh_singh/the-future-is-now-10-technologies-set-to-transform-2024-b0)
-- [Understanding the Basics of Network Security: A Guide for Beginners🔍](https://dev.to/prathameshratthe/understanding-the-basics-of-network-security-a-guide-for-beginners-52fm)
-- [Objects: The King in JavaScript](https://dev.to/zain725342/objects-the-king-in-javascript-30n8)
-- [🚀Mastering JavaScript: Top 10 Concepts Every Developer Should Know!](https://dev.to/gadekar_sachin/mastering-javascript-top-10-concepts-every-developer-should-know-6ka)
-- [Dive into the Fascinating World of Matrix Methods with Stanford University! 🚀](https://dev.to/getvm/dive-into-the-fascinating-world-of-matrix-methods-with-stanford-university-1hnj)
+- [Understanding the Basics of Cybersecurity](https://dev.to/media_geneous/understanding-the-basics-of-cybersecurity-54gp)
+- [Top 5 JavaScript Frameworks for 2024](https://dev.to/bizmavenhub/top-5-javascript-frameworks-for-2024-534m)
+- [React: The Powerhouse of Modern Front-end Development](https://dev.to/nickmokuadev/react-the-powerhouse-of-modern-front-end-development-266m)
+- [Competing with JSON.stringify - by building a custom one](https://dev.to/riturajborpujari/competing-with-jsonstringify-by-building-a-custom-one-53l5)
+- [How Corporate Greed Killed the Joy of Gaming for Gamers Worldwide](https://dev.to/soulis98/how-corporate-greed-killed-the-joy-of-gaming-for-gamers-worldwide-50k5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
