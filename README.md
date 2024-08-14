@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Managing Code School and a Thai Restaurant 🌟](https://dev.to/muydanny/managing-code-school-and-a-thai-restaurant-4bhf)
-- [Why LLM Agnostic Solutions are the Future of Dev Tools](https://dev.to/get_pieces/why-llm-agnostic-solutions-are-the-future-of-dev-tools-36m2)
-- [The 10 Best VS Code Extensions](https://dev.to/get_pieces/the-10-best-vs-code-extensions-1ppo)
-- [Load .Env file into IConfiguration Provider](https://dev.to/rmaurodev/load-env-file-into-iconfiguration-provider-4fk0)
-- [Creating Truly Custom UI Components for AWS Cognito – Amplify in React Native](https://dev.to/niek_dewit_6d1cfcfeaff6a/creating-truly-custom-ui-components-for-aws-cognito-amplify-in-react-native-3gfi)
+- [TeleportHQ: Getting Started with a Powerful Low-Code Platform](https://dev.to/sarthak_niranjan_3bd6cb5f/teleporthq-getting-started-with-a-powerful-low-code-platform-262i)
+- [Some important concepts for Backend || Part 1](https://dev.to/akshat0610/some-important-concepts-for-backend-part-1-3cfd)
+- [Run &amp; Debug your LLM Apps locally using Ollama &amp; Llama 3.1](https://dev.to/yemi_adejumobi/run-debug-your-llm-apps-locally-using-ollama-llama-31-39mc)
+- [Implementing RAG using LlamaIndex, Pinecone and Langtrace: A Step-by-Step Guide](https://dev.to/obinna_94/implementing-rag-using-llamaindex-pinecone-and-langtrace-a-step-by-step-guide-5hgh)
+- [How AI is Changing IT and Recruitment](https://dev.to/adamgazdiev/how-ai-is-changing-it-and-recruitment-2a7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
