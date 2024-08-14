@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Readable Crash Reports in Firebase Crashlytics from your Flutter Application](https://dev.to/thefullstackjonin/getting-readable-crash-reports-in-firebase-crashlytics-from-your-flutter-application-1pp0)
-- [The sad story of node update!](https://dev.to/jairofernandez/the-sad-story-of-node-update-21gd)
-- [Mastering Regular Expressions in JavaScript](https://dev.to/kartikmehta8/mastering-regular-expressions-in-javascript-3b04)
-- [Implementing a Singly Linked List](https://dev.to/jihoonj/implementing-a-singly-linked-list-3508)
-- [Alternatives to Amaretto: Improving Your Cocktail](https://dev.to/damilare_abogunrin/alternatives-to-amaretto-improving-your-cocktail-1adm)
+- [AWS Lambda with CloudFront configuration guide](https://dev.to/rimutaka/aws-lambda-with-cloudfront-configuration-guide-27lj)
+- [Today&#39;s Trending Projects: Modify Student Table Attributes and More](https://dev.to/labex/todays-trending-projects-modify-student-table-attributes-and-more-2ibc)
+- [Potencialize o desenvolvimento da sua IaC com terraform console](https://dev.to/devsnasnuvens/potencialize-o-desenvolvimento-da-sua-iac-com-terraform-console-21jc)
+- [Boost your IaC development with terraform console](https://dev.to/devsonclouds/boost-your-iac-development-with-terraform-console-332f)
+- [How to Press and Drag to Reposition a Window in Godot](https://dev.to/dragonforge-dev/how-to-press-and-drag-to-reposition-a-window-in-godot-1i3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
