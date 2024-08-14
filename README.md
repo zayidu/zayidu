@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Forms Processing](https://dev.to/nitindahiyadev/forms-processing-2ki3)
-- [Clear duplicate lines and lines having missing values from a csv file #eg24](https://dev.to/esproc_spl/clear-duplicate-lines-and-lines-having-missing-values-from-a-csv-file-eg24-2d69)
-- [useCallback VS useMemo](https://dev.to/peteryuan/usecallback-vs-usememo-5gad)
-- [Building and Managing Production-Ready Apache Airflow: From Setup to Troubleshooting](https://dev.to/anshul_kichara/building-and-managing-production-ready-apache-airflow-from-setup-to-troubleshooting-b4k)
-- [Hiring a Company with a Few Lines of Code](https://dev.to/pragyanatvade/hiring-a-company-with-a-few-lines-of-code-mlf)
+- [Stack Implementation Using Javascript &lpar;Linked List&rpar;](https://dev.to/ashutoshsarangi/stack-implementation-using-javascript-linked-list-2n56)
+- [Simplify AI with an AI Gateway](https://dev.to/vaibhavacharya/simplify-ai-with-an-ai-gateway-mp4)
+- [C# Hashtable Class: Explained with Examples](https://dev.to/bytehide/c-hashtable-class-explained-with-examples-5chg)
+- [A Comprehensive Guide to Prompt Engineering for AI](https://dev.to/vaibhavacharya/a-comprehensive-guide-to-prompt-engineering-for-ai-3on7)
+- [Understanding and Implementing a Test Case Generator](https://dev.to/keploy/understanding-and-implementing-a-test-case-generator-4pid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
