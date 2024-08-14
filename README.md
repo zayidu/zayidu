@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AuraSR GigaGAN 4x Upscaler Local &lpar;Windows&rpar;, Cloud &lpar;RunPod, Massed Compute, Kaggle&rpar; 1-Click Installers and Batch Processing App](https://dev.to/furkangozukara/aurasr-gigagan-4x-upscaler-local-windows-cloud-runpod-massed-compute-kaggle-1-click-installers-and-batch-processing-app-ech)
-- [JS stacks DS&amp;A intro](https://dev.to/cedsengine/js-stacks-dsa-intro-bl3)
-- [The OutSystems Model: Abstracting low-code into a visual language](https://dev.to/outsystems/the-outsystems-model-abstracting-low-code-into-a-visual-language-498p)
-- [.Env Files For Tech Noobs](https://dev.to/mohammed_kareem/env-files-for-tech-noobs-2g37)
-- [Taking Your Releases Into Overdrive with GitHub Actions](https://dev.to/devsatasurion/taking-your-releases-into-overdrive-with-github-actions-3edj)
+- [How to Test the Latest Kubernetes Changes in Version 1.31 &quot;Elli&quot;](https://dev.to/hkhelil/how-to-test-the-latest-kubernetes-changes-in-version-131-elli-39ec)
+- [Design Systems in React – Scaffolding and Setup &lpar;Part 0&rpar;](https://dev.to/tomekbuszewski/design-systems-in-react-scaffolding-and-setup-part-0-5c8o)
+- [Deep Dive Into The Consensus Mechanism of Kaia Chain](https://dev.to/polymawutor/deep-dive-into-the-consensus-mechanism-of-kaia-chain-11j7)
+- [Milvus Adventures August 14, 2024](https://dev.to/chrischurilo/milvus-adventures-august-14-2024-27k3)
+- [Ultimate Sass-Scss Cheatsheet [Live Doc]](https://dev.to/mahf001/ultimate-sass-scss-cheatsheet-live-doc-4gcl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
