@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is channels and the benefits of using it when working with events](https://dev.to/superviz/what-is-channels-and-the-benefits-of-using-it-when-working-with-events-1j8g)
-- [How to Work with an API Gateway: A Comprehensive Guide](https://dev.to/wallacefreitas/how-to-work-with-an-api-gateway-a-comprehensive-guide-4a48)
-- [Building an API for Uploading Images to Google Cloud Storage and Storing Survey Data in PostgreSQL using node](https://dev.to/satyamkumarsingh/building-an-api-for-uploading-images-to-google-cloud-storage-and-storing-survey-data-in-postgresql-using-node-cp2)
-- [Eight Things You Need To Know Before Building on Stellar Blockchain](https://dev.to/ileolami/eight-things-you-need-to-know-before-building-on-stellar-blockchain-434p)
-- [How to Create a Flutter Architecture from Scratch](https://dev.to/red_collar_dev/how-to-create-a-flutter-architecture-from-scratch-37ah)
+- [Telling bedtime stories with generative AI](https://dev.to/jennapederson/telling-bedtime-stories-with-generative-ai-2dba)
+- [Understanding C# Delegates and Events with Real-World Examples](https://dev.to/sebastiandevelops/understanding-c-delegates-and-events-with-real-world-examples-2an6)
+- [Top 5 Technology Trends Shaping the Future in 2024](https://dev.to/organization_admin_b1a89a/top-5-technology-trends-shaping-the-future-in-2024-1011)
+- [The Power of Strategic Partnerships: Unlocking Growth and Innovation](https://dev.to/organization_admin_b1a89a/the-power-of-strategic-partnerships-unlocking-growth-and-innovation-2ing)
+- [40 Days Of Kubernetes &lpar;2/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-240-20d7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
