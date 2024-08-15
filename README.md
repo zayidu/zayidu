@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Jitter? Common Causes and how to reduce internet Jitter](https://dev.to/alakkadshaw/what-is-jitter-common-causes-and-how-to-reduce-internet-jitter-12lk)
-- [WEB BROWSERS](https://dev.to/pacmansnr_01/web-browsers-1c0f)
-- [IMPORTING DATA USING PYTHON TO MYSQL](https://dev.to/allan-pg/importing-data-using-python-to-mysql-4953)
-- [Let&#39;s Make a k3s Cluster with Raspberry Pi and Cloudflare Tunnel](https://dev.to/hiro_111/lets-make-a-k3s-cluster-with-raspberry-pi-and-cloudflare-tunnel-3l33)
-- [AI and Machine Learning Integration in .NET Core with ML.NET](https://dev.to/paulotorrestech/ai-and-machine-learning-integration-in-net-core-with-mlnet-92i)
+- [Nested Forms With Turbo &lpar;without dependencies&rpar;](https://dev.to/railsdesigner/nested-forms-with-turbo-without-dependencies-2d6e)
+- [The Fight Against Low-Quality Automation](https://dev.to/devteam/the-fight-against-low-quality-automation-3p7f)
+- [Become a .NET Workflow Engine Pro: Follow This Step-by-Step Learning Roadmap!](https://dev.to/optimajet/become-a-net-workflow-engine-pro-follow-this-step-by-step-learning-roadmap-561d)
+- [End Game: Congratulate the user and display the number of attempts taken.](https://dev.to/avinash_mathi_483b018e36b/end-game-congratulate-the-user-and-display-the-number-of-attempts-taken-3f9)
+- [Svelte Transition and Animation](https://dev.to/get_pieces/svelte-transition-and-animation-4nk9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
