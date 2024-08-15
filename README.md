@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [LeakyReLU&lpar;&rpar; and PReLU&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/leakyrelu-and-prelu-in-pytorch-1kfo)
+- [Vulnerabilities in NodeJS C/C++ add-on extensions](https://dev.to/snyk/vulnerabilities-in-nodejs-cc-add-on-extensions-14l9)
 - [Today&#39;s Trending Projects: Backup MySQL Database with Mysqldump and More](https://dev.to/labex/todays-trending-projects-backup-mysql-database-with-mysqldump-and-more-5fj7)
 - [The Dotnet, Nx, AnalogJs &lpar;Angular&rpar; Stack is here - Part 2](https://dev.to/luishcastroc/the-dotnet-nx-analogjs-angular-stack-is-here-part-2-4gga)
 - [The Dotnet, Nx, AnalogJs &lpar;Angular&rpar; Stack is here - Part 1](https://dev.to/luishcastroc/the-dotnet-nx-analogjs-angular-stack-is-here-part-1-1eli)
-- [Implementing DataLoader and Understanding Its Advantages Over Lookup](https://dev.to/lusqua/implementing-dataloader-and-understanding-its-advantages-over-lookup-1phb)
-- [How to Sample Multiple Completions &lpar;n&rpar; Directly from Claude API without a for loop?](https://dev.to/brando90/how-to-sample-multiple-completions-n-directly-from-claude-api-without-a-for-loop-2m1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
