@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como adicionar o Google Tag Manager no seu website com Nuxt 3](https://dev.to/codigoaoponto/como-adicionar-o-google-tag-manager-no-seu-website-com-nuxt-3-pp7)
-- [13 Must-know Open-source Software to Build Production-ready AI Apps 🧙‍♂️🪄✨](https://dev.to/composiodev/13-must-know-open-source-software-to-build-production-ready-ai-apps-2ch5)
-- [🤖 End to end LLMOps Pipeline - Part 4 - Trivy 🤖](https://dev.to/lakhera2015/end-to-end-llmops-pipeline-part-4-trivy-fp0)
-- [Maximum Attempts: Set a limit on the number of attempts &lpar;e.g., 5 or 10 attempts&rpar; to increase the challenge.](https://dev.to/avinash_mathi_483b018e36b/maximum-attempts-set-a-limit-on-the-number-of-attempts-eg-5-or-10-attempts-to-increase-the-challenge-21k2)
-- [Building a Clean and Scalable Frontend Architecture 💯](https://dev.to/alisamir/building-a-clean-and-scalable-frontend-architecture-1icc)
+- [PolyDev :: a better &quot;Hello World&quot; for polyglot devs](https://dev.to/taikedz/polydev-a-better-hello-world-for-polyglot-devs-37p2)
+- [Migrating Encache to TS](https://dev.to/ryuusama009/migrating-encache-to-ts-3j1i)
+- [C# - Formatlash.](https://dev.to/sunnat_qayumov/c-formatlash-57ah)
+- [Crafting User Testing Protocols](https://dev.to/citrux-digital/crafting-user-testing-protocols-546g)
+- [What I Learned Today: Exploring JavaScript, TypeScript, Node.js, and Project Updates](https://dev.to/kavishka_dinajara_88/what-i-learned-today-exploring-javascript-typescript-nodejs-and-project-updates-32po)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
