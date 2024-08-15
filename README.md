@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ibuprofeno.py💊| #162: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-162-explica-este-codigo-python-2mj2)
-- [Getting Started with ReductStore in C++](https://dev.to/reductstore/getting-started-with-reductstore-in-c-eme)
-- [5 Best Tools for Automated Frontend Testing](https://dev.to/bizmavenhub/5-best-tools-for-automated-frontend-testing-1j82)
-- [Ephemeral self-hosted GitHub actions runners](https://dev.to/alvic/ephemeral-self-hosted-github-actions-runners-42ma)
-- [Vercel AI SDK 3.3](https://dev.to/lgrammel/vercel-ai-sdk-33-4pff)
+- [What is channels and the benefits of using it when working with events](https://dev.to/superviz/what-is-channels-and-the-benefits-of-using-it-when-working-with-events-1j8g)
+- [How to Work with an API Gateway: A Comprehensive Guide](https://dev.to/wallacefreitas/how-to-work-with-an-api-gateway-a-comprehensive-guide-4a48)
+- [Building an API for Uploading Images to Google Cloud Storage and Storing Survey Data in PostgreSQL using node](https://dev.to/satyamkumarsingh/building-an-api-for-uploading-images-to-google-cloud-storage-and-storing-survey-data-in-postgresql-using-node-cp2)
+- [Eight Things You Need To Know Before Building on Stellar Blockchain](https://dev.to/ileolami/eight-things-you-need-to-know-before-building-on-stellar-blockchain-434p)
+- [How to Create a Flutter Architecture from Scratch](https://dev.to/red_collar_dev/how-to-create-a-flutter-architecture-from-scratch-37ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
