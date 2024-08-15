@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Telling bedtime stories with generative AI](https://dev.to/jennapederson/telling-bedtime-stories-with-generative-ai-2dba)
-- [Understanding C# Delegates and Events with Real-World Examples](https://dev.to/sebastiandevelops/understanding-c-delegates-and-events-with-real-world-examples-2an6)
-- [Top 5 Technology Trends Shaping the Future in 2024](https://dev.to/organization_admin_b1a89a/top-5-technology-trends-shaping-the-future-in-2024-1011)
-- [The Power of Strategic Partnerships: Unlocking Growth and Innovation](https://dev.to/organization_admin_b1a89a/the-power-of-strategic-partnerships-unlocking-growth-and-innovation-2ing)
-- [40 Days Of Kubernetes &lpar;2/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-240-20d7)
+- [What is Jitter? Common Causes and how to reduce internet Jitter](https://dev.to/alakkadshaw/what-is-jitter-common-causes-and-how-to-reduce-internet-jitter-12lk)
+- [WEB BROWSERS](https://dev.to/pacmansnr_01/web-browsers-1c0f)
+- [IMPORTING DATA USING PYTHON TO MYSQL](https://dev.to/allan-pg/importing-data-using-python-to-mysql-4953)
+- [Let&#39;s Make a k3s Cluster with Raspberry Pi and Cloudflare Tunnel](https://dev.to/hiro_111/lets-make-a-k3s-cluster-with-raspberry-pi-and-cloudflare-tunnel-3l33)
+- [AI and Machine Learning Integration in .NET Core with ML.NET](https://dev.to/paulotorrestech/ai-and-machine-learning-integration-in-net-core-with-mlnet-92i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
