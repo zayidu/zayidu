@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LeakyReLU&lpar;&rpar; and PReLU&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/leakyrelu-and-prelu-in-pytorch-1kfo)
-- [Vulnerabilities in NodeJS C/C++ add-on extensions](https://dev.to/snyk/vulnerabilities-in-nodejs-cc-add-on-extensions-14l9)
-- [Today&#39;s Trending Projects: Backup MySQL Database with Mysqldump and More](https://dev.to/labex/todays-trending-projects-backup-mysql-database-with-mysqldump-and-more-5fj7)
-- [The Dotnet, Nx, AnalogJs &lpar;Angular&rpar; Stack is here - Part 2](https://dev.to/luishcastroc/the-dotnet-nx-analogjs-angular-stack-is-here-part-2-4gga)
-- [The Dotnet, Nx, AnalogJs &lpar;Angular&rpar; Stack is here - Part 1](https://dev.to/luishcastroc/the-dotnet-nx-analogjs-angular-stack-is-here-part-1-1eli)
+- [#45 — Copy Each Row N Times &lpar;N Is The Cell Value of The Specified column&rpar;](https://dev.to/judith677/45-copy-each-row-n-times-n-is-the-cell-value-of-the-specified-column-ekc)
+- [I created a simple app by very fast Rust web framework Actix web. Please use this as a sample code.](https://dev.to/lechatthecat/i-created-a-simple-app-by-very-fast-rust-web-framework-actix-web-please-use-this-as-a-sample-code-e60)
+- [🚀Day 15: Git, GitHub, and Linux Cheat Sheet for Beginners](https://dev.to/ritesh_dolare/day-15-git-github-and-linux-cheat-sheet-for-beginners-5ee4)
+- [TypeScript Generics: How to Write Flexible and Type-Safe Code](https://dev.to/shanu001x/typescript-generics-how-to-write-flexible-and-type-safe-code-4dn)
+- [SafeLine: Pioneering the Next Generation of WAF with AI-Powered Semantic Analysis](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-pioneering-the-next-generation-of-waf-with-ai-powered-semantic-analysis-1n72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
