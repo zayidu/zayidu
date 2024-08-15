@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PolyDev :: a better &quot;Hello World&quot; for polyglot devs](https://dev.to/taikedz/polydev-a-better-hello-world-for-polyglot-devs-37p2)
-- [Migrating Encache to TS](https://dev.to/ryuusama009/migrating-encache-to-ts-3j1i)
-- [C# - Formatlash.](https://dev.to/sunnat_qayumov/c-formatlash-57ah)
-- [Crafting User Testing Protocols](https://dev.to/citrux-digital/crafting-user-testing-protocols-546g)
-- [What I Learned Today: Exploring JavaScript, TypeScript, Node.js, and Project Updates](https://dev.to/kavishka_dinajara_88/what-i-learned-today-exploring-javascript-typescript-nodejs-and-project-updates-32po)
+- [We needed to run maintenance queries &lpar;SQL&rpar; with user input](https://dev.to/polysign_lu/we-needed-to-run-maintenance-queries-sql-with-user-input-26eh)
+- [How Amazon Uses AI Technology](https://dev.to/espinosa/how-amazon-uses-ai-technology-2i43)
+- [Someone can help me with angular?](https://dev.to/1gabrieldavi/someone-can-help-me-with-angular-55bj)
+- [Ultimate Git Cheatsheet [Live Doc]](https://dev.to/mahf001/ultimate-git-cheatsheet-live-doc-1o3n)
+- [What Is the Web Development Process?](https://dev.to/hpogfd/what-is-the-web-development-process-38el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
