@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 PROJECT IDEAS FROM BEGINNERS TO HACKERS](https://dev.to/mince/10-project-ideas-from-beginners-to-hackers-mb8)
-- [Cómo hacer scrapping](https://dev.to/terminator_true/como-hacer-scrapping-3dn3)
-- [After 3 Years I Launched 🚀 a New Web Design Course &amp; People Are Loving It](https://dev.to/vijaythapa/after-3-years-i-launched-a-new-web-design-course-people-are-loving-it-2gpp)
-- [an elegant way to fix user IDs in docker containers using docker_userid_fixer](https://dev.to/kforner/an-elegant-way-to-fix-user-ids-in-docker-containers-using-dockeruseridfixer-3c9i)
-- [Webhooks Explained](https://dev.to/idjuric660/webhooks-explained-4a5h)
+- [Ibuprofeno.py💊| #162: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-162-explica-este-codigo-python-2mj2)
+- [Getting Started with ReductStore in C++](https://dev.to/reductstore/getting-started-with-reductstore-in-c-eme)
+- [5 Best Tools for Automated Frontend Testing](https://dev.to/bizmavenhub/5-best-tools-for-automated-frontend-testing-1j82)
+- [Ephemeral self-hosted GitHub actions runners](https://dev.to/alvic/ephemeral-self-hosted-github-actions-runners-42ma)
+- [Vercel AI SDK 3.3](https://dev.to/lgrammel/vercel-ai-sdk-33-4pff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
