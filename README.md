@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deadline Extended for the Nylas AI and Communications Challenge](https://dev.to/devteam/deadline-extended-for-the-nylas-ai-and-communications-challenge-3h1j)
-- [LocalDb Dev on Windows11 ARM](https://dev.to/louisgordon/localdb-dev-on-windows11-arm-cm3)
-- [RoadMap to Data-Analytics 2024!](https://dev.to/parthmagicss/roadmap-to-data-analytics-2024-503i)
-- [Constructor Overloading in Java](https://dev.to/emleons/constructor-overloading-in-java-1c53)
-- [Vitest adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/vitest-adoption-guide-overview-examples-and-alternatives-4c17)
+- [Storybook: Stories for Smart Components](https://dev.to/bymarsel/storybook-stories-for-smart-components-35g5)
+- [require Vs import In JavaScript](https://dev.to/travislramos/require-vs-import-in-javascript-1ah4)
+- [Navigating Open Source Software: All Your Questions Answered](https://dev.to/observiq/navigating-open-source-software-all-your-questions-answered-427)
+- [Code Generated Architecture Diagram](https://dev.to/arindam0310018/code-generated-architecture-diagram-13o3)
+- [🚀 Create a CRUD web API with DATA API builder and EFCORE Power Tools 🚀](https://dev.to/edcsu/create-a-crud-web-api-with-data-api-builder-and-efcore-power-tools-4oge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
