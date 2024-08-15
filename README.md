@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [White Label Dating Apps: The Fast Track to Launching Your Own Platform](https://dev.to/elisaray/white-label-dating-apps-the-fast-track-to-launching-your-own-platform-395i)
-- [Mocking an AI Chatbot API with Blackbird](https://dev.to/getambassador2024/mocking-an-ai-chatbot-api-with-blackbird-507j)
-- [&quot;Enhancing Customer Support with Open Source PHP Ticket Systems&quot;](https://dev.to/loretta_john_e902aa501ab9/enhancing-customer-support-with-open-source-php-ticket-systems-3kbb)
-- [Emacs, a simple tour](https://dev.to/tobidelly/emacs-a-simple-tour-3e0n)
-- [What I learned from writing my Digital Portfolio](https://dev.to/santiparedes/what-i-learned-from-writing-my-digital-portfolio-4io5)
+- [Simplified Methods to List PostgreSQL Users](https://dev.to/dbvismarketing/simplified-methods-to-list-postgresql-users-2dl2)
+- [Deploying Free WAF SafeLine Using Docker](https://dev.to/sherbertill6/deploying-free-waf-safeline-using-docker-12ng)
+- [How to Create a Feature-Rich Swipeable Login Page with React](https://dev.to/shanu001x/how-to-create-a-feature-rich-swipeable-login-page-with-react-547m)
+- [What is SaaS &lpar;Software as a Service&rpar;?](https://dev.to/clouddefenseai/what-is-saas-software-as-a-service-3m7j)
+- [What is JavaScript? One Definition to Cover It All.](https://dev.to/thesanjeevsharma/what-is-javascript-one-definition-to-cover-it-all-43l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
