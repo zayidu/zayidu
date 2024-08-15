@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide: Loading a HuggingFace ControlNet Dataset from a Local Path](https://dev.to/dangattringer/step-by-step-guide-loading-a-huggingface-controlnet-dataset-from-a-local-path-3927)
-- [Setting Up a Laravel for Local Development Environment](https://dev.to/codenoun/setting-up-a-laravel-for-local-development-environment-2m8i)
-- [Introduction to C:&rpar;](https://dev.to/madgan95/introduction-to-c-4khc)
-- [Cloud-Native Security for Multi-Cloud and Hybrid Cloud Environments](https://dev.to/public_cloud/cloud-native-security-for-multi-cloud-and-hybrid-cloud-environments-3bjp)
-- [Tired of Using Axios? Meet Undici, the Fast, Modern HTTP Client You Didn’t Know You Needed](https://dev.to/jamel86/tired-of-using-axios-meet-undici-the-fast-modern-http-client-you-didnt-know-you-needed-3385)
+- [White Label Dating Apps: The Fast Track to Launching Your Own Platform](https://dev.to/elisaray/white-label-dating-apps-the-fast-track-to-launching-your-own-platform-395i)
+- [Mocking an AI Chatbot API with Blackbird](https://dev.to/getambassador2024/mocking-an-ai-chatbot-api-with-blackbird-507j)
+- [&quot;Enhancing Customer Support with Open Source PHP Ticket Systems&quot;](https://dev.to/loretta_john_e902aa501ab9/enhancing-customer-support-with-open-source-php-ticket-systems-3kbb)
+- [Emacs, a simple tour](https://dev.to/tobidelly/emacs-a-simple-tour-3e0n)
+- [What I learned from writing my Digital Portfolio](https://dev.to/santiparedes/what-i-learned-from-writing-my-digital-portfolio-4io5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
