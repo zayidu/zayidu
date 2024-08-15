@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [c++ dasturlash tilida 3- dars](https://dev.to/none2230/c-dasturlash-tilida-3-dars-421d)
-- [Scenario based java interview question](https://dev.to/realnamehidden1_61/scenario-based-java-interview-question-47hi)
-- [Implementing JavaScript’s Map, Filter, and Reduce Methods](https://dev.to/maazkhan/implementing-javascripts-map-filter-and-reduce-methods-b3p)
-- [What happens when you type google.com in your browser and press Enter](https://dev.to/tobidelly/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter-8j6)
-- [Day 45 / 100 Days of Code: Exploring New Patterns](https://dev.to/jacobsternx/day-45-100-days-of-code-exploring-new-patterns-4ad7)
+- [Default map value](https://dev.to/nfrankel/default-map-value-2hjb)
+- [The Benefits of joining the Ambassador Program in Web 3.0](https://dev.to/srobver/the-benefits-of-an-the-benefits-of-an-ambassador-program-in-web-30-4d45)
+- [Azure Kubernetes Best Practices](https://dev.to/wrijugh/azure-kubernetes-best-practices-4lpm)
+- [How to Validate AutoMapper in Unit Tests with Example](https://dev.to/moh_moh701/how-to-validate-automapper-in-unit-tests-with-example-4djj)
+- [Exploring the Differences and Merits of Open Source vs. Closed Source Software](https://dev.to/shinetechsoftwareinc/exploring-the-differences-and-merits-of-open-source-vs-closed-source-software-li0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
