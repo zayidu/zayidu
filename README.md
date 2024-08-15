@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Default map value](https://dev.to/nfrankel/default-map-value-2hjb)
-- [The Benefits of joining the Ambassador Program in Web 3.0](https://dev.to/srobver/the-benefits-of-an-the-benefits-of-an-ambassador-program-in-web-30-4d45)
-- [Azure Kubernetes Best Practices](https://dev.to/wrijugh/azure-kubernetes-best-practices-4lpm)
-- [How to Validate AutoMapper in Unit Tests with Example](https://dev.to/moh_moh701/how-to-validate-automapper-in-unit-tests-with-example-4djj)
-- [Exploring the Differences and Merits of Open Source vs. Closed Source Software](https://dev.to/shinetechsoftwareinc/exploring-the-differences-and-merits-of-open-source-vs-closed-source-software-li0)
+- [10 PROJECT IDEAS FROM BEGINNERS TO HACKERS](https://dev.to/mince/10-project-ideas-from-beginners-to-hackers-mb8)
+- [Cómo hacer scrapping](https://dev.to/terminator_true/como-hacer-scrapping-3dn3)
+- [After 3 Years I Launched 🚀 a New Web Design Course &amp; People Are Loving It](https://dev.to/vijaythapa/after-3-years-i-launched-a-new-web-design-course-people-are-loving-it-2gpp)
+- [an elegant way to fix user IDs in docker containers using docker_userid_fixer](https://dev.to/kforner/an-elegant-way-to-fix-user-ids-in-docker-containers-using-dockeruseridfixer-3c9i)
+- [Webhooks Explained](https://dev.to/idjuric660/webhooks-explained-4a5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
