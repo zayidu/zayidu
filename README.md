@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nested Forms With Turbo &lpar;without dependencies&rpar;](https://dev.to/railsdesigner/nested-forms-with-turbo-without-dependencies-2d6e)
-- [The Fight Against Low-Quality Automation](https://dev.to/devteam/the-fight-against-low-quality-automation-3p7f)
-- [Become a .NET Workflow Engine Pro: Follow This Step-by-Step Learning Roadmap!](https://dev.to/optimajet/become-a-net-workflow-engine-pro-follow-this-step-by-step-learning-roadmap-561d)
-- [End Game: Congratulate the user and display the number of attempts taken.](https://dev.to/avinash_mathi_483b018e36b/end-game-congratulate-the-user-and-display-the-number-of-attempts-taken-3f9)
-- [Svelte Transition and Animation](https://dev.to/get_pieces/svelte-transition-and-animation-4nk9)
+- [Como adicionar o Google Tag Manager no seu website com Nuxt 3](https://dev.to/codigoaoponto/como-adicionar-o-google-tag-manager-no-seu-website-com-nuxt-3-pp7)
+- [13 Must-know Open-source Software to Build Production-ready AI Apps 🧙‍♂️🪄✨](https://dev.to/composiodev/13-must-know-open-source-software-to-build-production-ready-ai-apps-2ch5)
+- [🤖 End to end LLMOps Pipeline - Part 4 - Trivy 🤖](https://dev.to/lakhera2015/end-to-end-llmops-pipeline-part-4-trivy-fp0)
+- [Maximum Attempts: Set a limit on the number of attempts &lpar;e.g., 5 or 10 attempts&rpar; to increase the challenge.](https://dev.to/avinash_mathi_483b018e36b/maximum-attempts-set-a-limit-on-the-number-of-attempts-eg-5-or-10-attempts-to-increase-the-challenge-21k2)
+- [Building a Clean and Scalable Frontend Architecture 💯](https://dev.to/alisamir/building-a-clean-and-scalable-frontend-architecture-1icc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
