@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Principles and Laws of UX Design – Why Every Designer Should Know Them](https://dev.to/pepper_square/the-principles-and-laws-of-ux-design-why-every-designer-should-know-them-4afg)
-- [A Beginner&#39;s Guide to JavaScript](https://dev.to/code_passion/a-beginners-guide-to-javascript-bk0)
-- [This Week In React #196 : Nitro Modules, use dom, macOS, Screens, Autolinking, Cocoapods, Corepack, Node.js, TypeScript...](https://dev.to/sebastienlorber/this-week-in-react-196-nitro-modules-use-dom-macos-screens-autolinking-cocoapods-corepack-nodejs-typescript-46dk)
-- [How BIMI Puts Your Brand Front and Center in Every Inbox 📧](https://dev.to/toru/how-bimi-puts-your-brand-front-and-center-in-every-inbox-4042)
-- [JavaScript Design Patterns - Behavioral - Strategy](https://dev.to/nhannguyendevjs/javascript-design-patterns-behavioral-strategy-152d)
+- [How to Format Your Code](https://dev.to/thekarlesi/how-to-format-your-code-4j1g)
+- [Why Do Django Developers Choose JavaScript Frameworks Like React, Angular or Htmx for Frontend Development?](https://dev.to/hasanalbanna/why-do-django-developers-choose-javascript-frameworks-like-react-angular-or-htmx-for-frontend-development-4n4c)
+- [Configuring a Custom HTTPS Certificate for SafeLine](https://dev.to/sherbertill6/configuring-a-custom-https-certificate-for-safeline-5db2)
+- [Fix Setting Time zone Automatically Greyed out issue Windows 11](https://dev.to/winsides/fix-setting-time-zone-automatically-greyed-out-issue-windows-11-378m)
+- [Kubernetes with Open Policy Agent &lpar;OPA&rpar; &amp; Gatekeeper](https://dev.to/spacelift/kubernetes-with-open-policy-agent-opa-gatekeeper-5f1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
