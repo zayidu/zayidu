@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Recipe Generator with NextJS, LangChain, and OpenAI](https://dev.to/danmusembi/how-to-create-a-recipe-generator-with-nextjs-langchain-and-openai-1e0d)
-- [Navigating the Security Risks of Arbitrary Values in Tailwind CSS](https://dev.to/dansasser/navigating-the-security-risks-of-arbitrary-values-in-tailwind-css-59jj)
-- [Configuring Azure Arc-Enabled Windows Servers with Azure VM Extensions](https://dev.to/jimiog/configuring-azure-arc-enabled-windows-servers-with-azure-vm-extensions-him)
-- [Managing Azure Arc-Enabled Windows Server Updates by Using Azure Update Manager](https://dev.to/jimiog/managing-azure-arc-enabled-windows-server-updates-by-using-azure-update-manager-4bmp)
-- [Screw it! I&#39;ve Developed My Own Static Site Generator!](https://dev.to/shazin/screw-it-ive-developed-my-own-static-site-generator-27cd)
+- [HOW TO SET UP AN IoT HUB IN AZURE.](https://dev.to/god_win/how-to-set-up-an-iot-hub-in-azure-d8h)
+- [Advanced SQL Techniques for Data Analysis](https://dev.to/kartikmehta8/advanced-sql-techniques-for-data-analysis-1kf8)
+- [Data Transfer Between Fragment and BottomSheetDialogFragment Using Dagger and Navigation Component](https://dev.to/den4ic/data-transfer-between-fragment-and-bottomsheetdialogfragment-using-dagger-and-navigation-component-1ml3)
+- [How I built my first bot using Typescript - Part #2: Unit testing, mocking and spying](https://dev.to/skywarth/how-i-built-my-first-bot-using-typescript-part-2-unit-testing-mocking-and-spying-1aka)
+- [React: Good and Bad Code](https://dev.to/carlosrambles/react-good-and-bad-code-43g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
