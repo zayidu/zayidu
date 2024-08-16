@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Get the Width of an Element in JavaScript](https://dev.to/arsalanmeee/get-the-width-of-an-element-in-javascript-55oo)
-- [Design a stack that supports getMin&lpar;&rpar; in O&lpar;1&rpar; time and O&lpar;1&rpar; extra space](https://dev.to/yashdevs/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space-9li)
-- [HTML&#39;s VIPs: The Only Tags You Need to Master CSS Like a Pro](https://dev.to/rana_danish_0b71b5e803397/htmls-vips-the-only-tags-you-need-to-master-css-like-a-pro-2ph7)
-- [How to Display Cart Attributes Information Using Shopify Checkout UI Extensions](https://dev.to/tim_yone/how-to-display-cart-attributes-information-using-shopify-checkout-ui-extensions-4oe2)
-- [How to integrate Amazon Q developer with your codebase?](https://dev.to/citrux-digital/how-to-integrate-amazon-q-developer-with-your-codebase-3kcc)
+- [Unveiling the Dark Sides of JavaScript: Common Pitfalls Every Developer Should Know](https://dev.to/akram6t/unveiling-the-dark-sides-of-javascript-common-pitfalls-every-developer-should-know-5469)
+- [Stand Out in Your Interview with Unique Project Ideas](https://dev.to/rishabh17/stand-out-in-your-interview-with-unique-project-ideas-5a36)
+- [Dockerfile Best Practices: Building Efficient and Secure Containers](https://dev.to/rafaeljohn9/dockerfile-best-practices-building-efficient-and-secure-containers-fa)
+- [How to write clean code](https://dev.to/reiku/how-to-write-clean-code-3o7)
+- [End-to-End Voice Recognition with Python](https://dev.to/gracezzhang/end-to-end-voice-recognition-with-python-1b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
