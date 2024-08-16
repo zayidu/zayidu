@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GUID Method in C#: Usage + Examples](https://dev.to/bytehide/guid-method-in-c-usage-examples-6b1)
-- [Build with any npm package with this AI assist 🦾](https://dev.to/commanddash/build-with-any-npm-package-with-this-ai-assist-11jb)
-- [Getting Started with Free WAF: Configuring HTTP to HTTPS Redirection for Your Site](https://dev.to/lulu_liu_c90f973e2f954d7f/getting-started-with-free-waf-configuring-http-to-https-redirection-for-your-site-kca)
-- [多个v-model?.sync的用途](https://dev.to/leoon_liang_7c64c6ceca7b4/duo-ge-v-modelsyncde-yong-tu-38gl)
-- [Real Life Scenarios I: Avoiding Extra Scripts in Database Operations with JPA/Hibernate 👀](https://dev.to/agitrubard/real-life-scenarios-i-avoiding-extra-scripts-in-database-operations-with-jpahibernate-3fnn)
+- [The Principles and Laws of UX Design – Why Every Designer Should Know Them](https://dev.to/pepper_square/the-principles-and-laws-of-ux-design-why-every-designer-should-know-them-4afg)
+- [A Beginner&#39;s Guide to JavaScript](https://dev.to/code_passion/a-beginners-guide-to-javascript-bk0)
+- [This Week In React #196 : Nitro Modules, use dom, macOS, Screens, Autolinking, Cocoapods, Corepack, Node.js, TypeScript...](https://dev.to/sebastienlorber/this-week-in-react-196-nitro-modules-use-dom-macos-screens-autolinking-cocoapods-corepack-nodejs-typescript-46dk)
+- [How BIMI Puts Your Brand Front and Center in Every Inbox 📧](https://dev.to/toru/how-bimi-puts-your-brand-front-and-center-in-every-inbox-4042)
+- [JavaScript Design Patterns - Behavioral - Strategy](https://dev.to/nhannguyendevjs/javascript-design-patterns-behavioral-strategy-152d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
