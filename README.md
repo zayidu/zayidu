@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Try Out WeTest UDT: The Ultimate Cloud Testing Solution for Developers](https://dev.to/wetest/try-out-wetest-udt-the-ultimate-cloud-testing-solution-for-developers-4mgh)
-- [TLS Fingerprint 保護的網站](https://dev.to/codemee/tls-fingerprint-bao-hu-de-wang-zhan-59i6)
-- [The Difference Between Open Source and Closed Source Software](https://dev.to/shinetechsoftwareinc/the-difference-between-open-source-and-closed-source-software-2dh9)
-- [#46 — Find The Category Meeting The Specified Condition](https://dev.to/judith677/46-find-the-category-meeting-the-specified-condition-4i9p)
-- [git commit -p &lpar;a cool git command&rpar;](https://dev.to/max_cohen_6ace6dbb02bea02/git-commit-p-a-cool-git-command-48ki)
+- [How to Set Up a Jupyter Notebook Server in the Cloud in 5 Minutes](https://dev.to/nodeshiftcloud/how-to-set-up-a-jupyter-notebook-server-in-the-cloud-in-5-minutes-4cec)
+- [GELU&lpar;&rpar; and Mish&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/gelu-and-mish-in-pytorch-3o16)
+- [How to find contributors for your opensource project?](https://dev.to/happer64bit/how-to-find-contributors-for-your-opensource-project-11c1)
+- [SELU&lpar;&rpar; and CELU&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/selu-and-celu-in-pytorch-2ml3)
+- [Unleash the Power of CSS: Discover a Captivating Search Engine 🔍](https://dev.to/getvm/unleash-the-power-of-css-discover-a-captivating-search-engine-4lmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
