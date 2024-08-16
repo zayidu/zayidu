@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Dark Sides of JavaScript: Common Pitfalls Every Developer Should Know](https://dev.to/akram6t/unveiling-the-dark-sides-of-javascript-common-pitfalls-every-developer-should-know-5469)
-- [Stand Out in Your Interview with Unique Project Ideas](https://dev.to/rishabh17/stand-out-in-your-interview-with-unique-project-ideas-5a36)
-- [Dockerfile Best Practices: Building Efficient and Secure Containers](https://dev.to/rafaeljohn9/dockerfile-best-practices-building-efficient-and-secure-containers-fa)
-- [How to write clean code](https://dev.to/reiku/how-to-write-clean-code-3o7)
-- [End-to-End Voice Recognition with Python](https://dev.to/gracezzhang/end-to-end-voice-recognition-with-python-1b1)
+- [Como a tecnologia ajuda a escolher a melhor época do ano para viajar](https://dev.to/outofyourcomfortzone/como-a-tecnologia-ajuda-a-escolher-a-melhor-epoca-do-ano-para-viajar-2i9i)
+- [# UberTrash - Your Uber Ride to a Clean City &lpar;Application&rpar;](https://dev.to/scofieldidehen/-ubertrash-your-uber-ride-to-a-clean-city-application-2ehe)
+- [Rails and Keycloak, Authentication Authorization, part one](https://dev.to/tillawy/rails-and-keycloak-authentication-authorization-part-one-cd5)
+- [Circles of Truth: Overcomplicating simple commands](https://dev.to/tastycode/circles-of-truth-overcomplicating-simple-commands-2lp2)
+- [Building Flexible and Reusable Components with TypeScript Generics](https://dev.to/abhay1kumar/building-flexible-and-reusable-components-with-typescript-generics-1ehm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
