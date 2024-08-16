@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vale a pena ir ao Rio Innovation Week ? Análise sincera sobre este evento de inovação no Rio de Janeiro](https://dev.to/pedrobarreto/vale-a-pena-ir-ao-rio-innovation-week-analise-sincera-sobre-este-evento-de-inovacao-no-rio-de-janeiro-3ag5)
-- [Create your own Custom LLM Agent Using Open Source Models &lpar;llama3.1&rpar;](https://dev.to/emmakodes_/create-your-own-custom-llm-agent-using-open-source-models-llama31-4aag)
-- [What Is Lemmatization?](https://dev.to/olatunji_tech/what-is-lemmatization-53m1)
-- [Create Tokens on Solana with TypeScript](https://dev.to/sumana10/create-tokens-on-solana-with-typescript-3agj)
-- [Tutorial de utilização Storybook](https://dev.to/gustavoacaetano/tutorial-de-utilizacao-storybook-3odb)
+- [Embedded Systems 101: The Silent Powerhouses of Our Digital World](https://dev.to/vanshaj_shah_4f3a7fb89c47/embedded-systems-101-the-silent-powerhouses-of-our-digital-world-2i2d)
+- [Como Logar de Maneira Sistemática](https://dev.to/asouza/como-logar-de-maneira-sistematica-1f53)
+- [5 principais estruturas de dados](https://dev.to/clarafonseca/5-principais-estruturas-de-dados-5028)
+- [6 Proven Strategies to Boost API Performance with Practical Node.js Examples](https://dev.to/wallacefreitas/6-proven-strategies-to-boost-api-performance-with-practical-nodejs-examples-2lmc)
+- [How to Build An Accessible Toggle Switch with Modern HTML &amp; CSS &lpar;and Without JavaScript&rpar;](https://dev.to/tinyoctopus/how-to-build-an-accessible-toggle-switch-without-javascript-using-modern-html-css-3ac7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
