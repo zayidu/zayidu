@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BasilicaEVM: A modern dApp Stack](https://dev.to/gaboesquivel/basilicaevm-a-modern-dapp-stack-39mb)
-- [Creating form](https://dev.to/lusterplus_group_03da511b/creating-form-ngp)
-- [Replace empty images with beautiful GradientPlaceholder](https://dev.to/shahid_b36b77e4beb2a53a2a/replace-empty-images-with-beautiful-gradientplaceholder-fab)
-- [Gap Motivation: An Effective Approach to Achieving Goals](https://dev.to/koshirok096/gap-motivation-an-effective-approach-to-achieving-goals-53ne)
-- [Hulu vs. Major Streaming Platforms: A Competitive Analysis](https://dev.to/sandram/hulu-vs-major-streaming-platforms-a-competitive-analysis-53i4)
+- [I Tested Over 70 AI Image Services for SEO. These Actually Work](https://dev.to/codemarket/i-tested-over-70-ai-image-services-for-seo-these-actually-work-5079)
+- [Google Sheets: SUMIFS para durações &lpar;horas&rpar;, parte 2](https://dev.to/casewinter/google-sheets-sumifs-para-duracoes-horas-parte-2-3bf0)
+- [Automating AWS Resource Management with Shell Scripting](https://dev.to/adesokan_israel_109436759/automating-aws-resource-management-with-shell-scripting-1gg3)
+- [[leitura-compartilhada] Livro Aprenda Python Básico - Rápido e Fácil de Entender](https://dev.to/iniciativashelovelaceblog/leitura-compartilhada-livro-aprenda-python-basico-rapido-e-facil-de-entender-2kkh)
+- [why is random state 42](https://dev.to/anna_lapushner/why-is-random-state-42-l8o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
