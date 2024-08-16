@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrate from ngx-matomo to ngx-matomo-client](https://dev.to/danac0914/migrate-from-ngx-matomo-to-ngx-matomo-client-32pl)
-- [🆕 Introducing the Game-Changer: NFTScan AI Search Explorer](https://dev.to/nft_research/introducing-the-game-changer-nftscan-ai-search-explorer-1o30)
-- [Introducing the Dumbest Data Structure You&#39;ll Never Actually Use: The Linked List](https://dev.to/horaceshmorace/introducing-the-dumbest-data-structure-youll-never-actually-use-the-linked-list-4op3)
-- [Nexus - An analytics tool for Threads](https://dev.to/mrlinxed/nexus-an-analytics-tool-for-threads-1605)
-- [When Must Developers Consider Using No Code Automation Testing?](https://dev.to/misterankit/when-must-developers-consider-using-no-code-automation-testing-299i)
+- [SQL, output associated records having many-to-many relationship row by row #eg26](https://dev.to/esproc_spl/sql-output-associated-records-having-many-to-many-relationship-row-by-row-eg26-47m4)
+- [How to Automate&lpar;create, update&rpar; Excel Files from APIs with Python and Openpyxl.](https://dev.to/michellebuchiokonicha/how-to-automatecreate-update-excel-files-from-apis-with-python-and-openpyxl-2148)
+- [Telemetria: sistemas para melhores sistemas](https://dev.to/eduardo_charapa_4abcf68da/telemetria-sistemas-para-melhores-sistemas-5gh6)
+- [The Ultimate Guide to FRONTIER Miles: Earning, Redeeming, and Maximizing Value](https://dev.to/zolotraveler/the-ultimate-guide-to-frontier-miles-earning-redeeming-and-maximizing-value-30a9)
+- [How to Book Award Flights with FRONTIER Miles: Tips and Tricks](https://dev.to/zolotraveler/how-to-book-award-flights-with-frontier-miles-tips-and-tricks-49jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
