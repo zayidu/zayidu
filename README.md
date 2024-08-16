@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL, output associated records having many-to-many relationship row by row #eg26](https://dev.to/esproc_spl/sql-output-associated-records-having-many-to-many-relationship-row-by-row-eg26-47m4)
-- [How to Automate&lpar;create, update&rpar; Excel Files from APIs with Python and Openpyxl.](https://dev.to/michellebuchiokonicha/how-to-automatecreate-update-excel-files-from-apis-with-python-and-openpyxl-2148)
-- [Telemetria: sistemas para melhores sistemas](https://dev.to/eduardo_charapa_4abcf68da/telemetria-sistemas-para-melhores-sistemas-5gh6)
-- [The Ultimate Guide to FRONTIER Miles: Earning, Redeeming, and Maximizing Value](https://dev.to/zolotraveler/the-ultimate-guide-to-frontier-miles-earning-redeeming-and-maximizing-value-30a9)
-- [How to Book Award Flights with FRONTIER Miles: Tips and Tricks](https://dev.to/zolotraveler/how-to-book-award-flights-with-frontier-miles-tips-and-tricks-49jk)
+- [Transaction Flow Testing Techniques: Ensuring Smooth User Experiences](https://dev.to/robort_smith/transaction-flow-testing-techniques-ensuring-smooth-user-experiences-3efb)
+- [Metabit Trading Built a Cloud-Based Quantitative Research Platform with JuiceFS](https://dev.to/tonybarber2/metabit-trading-built-a-cloud-based-quantitative-research-platform-with-juicefs-21c5)
+- [API7 Enterprise 3.2.14.4: Permission Boundary for Refined Permission Management](https://dev.to/api7/api7-enterprise-32144-permission-boundary-for-refined-permission-management-hni)
+- [What is an API?](https://dev.to/icodemechanic/what-is-an-api-46c9)
+- [Terminal Portfolio with JavaScript in Few easy steps.](https://dev.to/sanjoypaul/terminal-portfolio-with-javascript-in-few-easy-steps-57on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
