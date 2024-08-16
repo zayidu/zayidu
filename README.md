@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Validate your environment variables with Zod](https://dev.to/douglasdemoura/validate-your-environment-variables-with-zod-2gna)
-- [Barcode Reading Problem in Flutter](https://dev.to/gguedes/barcode-reading-problem-in-flutter-3k0g)
-- [Problema Leitura de Código Barras no Flutter](https://dev.to/gguedes/problema-leitura-de-codigo-barras-no-flutter-44od)
-- [The activation functions in PyTorch &lpar;5&rpar;](https://dev.to/hyperkai/the-activation-functions-in-pytorch-5-268k)
-- [Dynamic Programming : The Real Game](https://dev.to/shaswatha_thilaka/dynamic-programming-the-real-game-1dha)
+- [Try Out WeTest UDT: The Ultimate Cloud Testing Solution for Developers](https://dev.to/wetest/try-out-wetest-udt-the-ultimate-cloud-testing-solution-for-developers-4mgh)
+- [TLS Fingerprint 保護的網站](https://dev.to/codemee/tls-fingerprint-bao-hu-de-wang-zhan-59i6)
+- [The Difference Between Open Source and Closed Source Software](https://dev.to/shinetechsoftwareinc/the-difference-between-open-source-and-closed-source-software-2dh9)
+- [#46 — Find The Category Meeting The Specified Condition](https://dev.to/judith677/46-find-the-category-meeting-the-specified-condition-4i9p)
+- [git commit -p &lpar;a cool git command&rpar;](https://dev.to/max_cohen_6ace6dbb02bea02/git-commit-p-a-cool-git-command-48ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
