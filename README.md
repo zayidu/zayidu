@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Can You Succeed as a Freelancer on Upwork in 2024? Tips from Expert](https://dev.to/haris_patel_9b987eb5add00/how-can-you-succeed-as-a-freelancer-on-upwork-in-2024-tips-from-expert-21bd)
-- [Small Swoole Db 2.3](https://dev.to/sebk69/small-swoole-db-23-3e90)
-- [Angular scroll position restoration between pages &lpar;withInMemoryScrolling router settings&rpar;](https://dev.to/fatehmohamed14/angular-scroll-position-restoration-between-pages-withinmemoryscrolling-router-settings-54n8)
-- [How to Stand Out as a Developer: Building Projects that Make an Impact](https://dev.to/rishabh17/how-to-stand-out-as-a-developer-building-projects-that-make-an-impact-14i2)
-- [How to Effectively Write Test Scenarios?](https://dev.to/apilover/how-to-effectively-write-test-scenarios-346d)
+- [Dear AI engineers, lets ship fast and break stuff.](https://dev.to/portkey/dear-ai-engineers-lets-ship-fast-and-break-stuff-5hgk)
+- [Ultimate Git Branches &amp; Merging Cheatsheet [Live Doc]](https://dev.to/mahf001/ultimate-git-branches-merging-cheatsheet-live-doc-22pj)
+- [Mint Expedition Season 2 - Hidden Oasis Starts Now: Join 520K Minters and Counting](https://dev.to/mint_/mint-expedition-season-2-hidden-oasis-starts-now-join-520k-minters-and-counting-2d36)
+- [Visualizing Firebase Data: Unlocking the Power of Real-Time Insights](https://dev.to/victoribironke/visualizing-firebase-data-unlocking-the-power-of-real-time-insights-1efc)
+- [High-Performance Storage Solution for Virtual Environment on Xinnor RAID Engine and Kioxia PCIe 5.0 Drives](https://dev.to/pltnvs/high-performance-storage-solution-for-virtual-environment-on-xinnor-raid-engine-and-kioxia-pcie-50-drives-50lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
