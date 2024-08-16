@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como a tecnologia ajuda a escolher a melhor época do ano para viajar](https://dev.to/outofyourcomfortzone/como-a-tecnologia-ajuda-a-escolher-a-melhor-epoca-do-ano-para-viajar-2i9i)
-- [# UberTrash - Your Uber Ride to a Clean City &lpar;Application&rpar;](https://dev.to/scofieldidehen/-ubertrash-your-uber-ride-to-a-clean-city-application-2ehe)
-- [Rails and Keycloak, Authentication Authorization, part one](https://dev.to/tillawy/rails-and-keycloak-authentication-authorization-part-one-cd5)
-- [Circles of Truth: Overcomplicating simple commands](https://dev.to/tastycode/circles-of-truth-overcomplicating-simple-commands-2lp2)
-- [Building Flexible and Reusable Components with TypeScript Generics](https://dev.to/abhay1kumar/building-flexible-and-reusable-components-with-typescript-generics-1ehm)
+- [Vale a pena ir ao Rio Innovation Week ? Análise sincera sobre este evento de inovação no Rio de Janeiro](https://dev.to/pedrobarreto/vale-a-pena-ir-ao-rio-innovation-week-analise-sincera-sobre-este-evento-de-inovacao-no-rio-de-janeiro-3ag5)
+- [Create your own Custom LLM Agent Using Open Source Models &lpar;llama3.1&rpar;](https://dev.to/emmakodes_/create-your-own-custom-llm-agent-using-open-source-models-llama31-4aag)
+- [What Is Lemmatization?](https://dev.to/olatunji_tech/what-is-lemmatization-53m1)
+- [Create Tokens on Solana with TypeScript](https://dev.to/sumana10/create-tokens-on-solana-with-typescript-3agj)
+- [Tutorial de utilização Storybook](https://dev.to/gustavoacaetano/tutorial-de-utilizacao-storybook-3odb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
