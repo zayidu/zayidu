@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear AI engineers, lets ship fast and break stuff.](https://dev.to/portkey/dear-ai-engineers-lets-ship-fast-and-break-stuff-5hgk)
-- [Ultimate Git Branches &amp; Merging Cheatsheet [Live Doc]](https://dev.to/mahf001/ultimate-git-branches-merging-cheatsheet-live-doc-22pj)
-- [Mint Expedition Season 2 - Hidden Oasis Starts Now: Join 520K Minters and Counting](https://dev.to/mint_/mint-expedition-season-2-hidden-oasis-starts-now-join-520k-minters-and-counting-2d36)
-- [Visualizing Firebase Data: Unlocking the Power of Real-Time Insights](https://dev.to/victoribironke/visualizing-firebase-data-unlocking-the-power-of-real-time-insights-1efc)
-- [High-Performance Storage Solution for Virtual Environment on Xinnor RAID Engine and Kioxia PCIe 5.0 Drives](https://dev.to/pltnvs/high-performance-storage-solution-for-virtual-environment-on-xinnor-raid-engine-and-kioxia-pcie-50-drives-50lh)
+- [Steps To Deploy a Linux Virtual Machine using an ARM Template](https://dev.to/dera2024/steps-to-deploy-a-linux-virtual-machine-using-an-arm-template-2h6p)
+- [Deploying Ruby on Rails applications with Kamal](https://dev.to/jetthoughts/deploying-ruby-on-rails-applications-with-kamal-1m9n)
+- [My Dev Tools 2024: Streamlining Development](https://dev.to/ehsanpo/my-dev-tools-2024-streamlining-development-5f0i)
+- [Using Twitter player cards to improve accessibility of NeetoRecord](https://dev.to/tsudhishnair/using-twitter-player-cards-to-improve-accessibility-of-neetorecord-4acl)
+- [Bootstrap vs. Tailwind CSS: A Comparison of Top CSS Frameworks](https://dev.to/strapi/bootstrap-vs-tailwind-css-a-comparison-of-top-css-frameworks-64i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
