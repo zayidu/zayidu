@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Steps To Deploy a Linux Virtual Machine using an ARM Template](https://dev.to/dera2024/steps-to-deploy-a-linux-virtual-machine-using-an-arm-template-2h6p)
-- [Deploying Ruby on Rails applications with Kamal](https://dev.to/jetthoughts/deploying-ruby-on-rails-applications-with-kamal-1m9n)
-- [My Dev Tools 2024: Streamlining Development](https://dev.to/ehsanpo/my-dev-tools-2024-streamlining-development-5f0i)
-- [Using Twitter player cards to improve accessibility of NeetoRecord](https://dev.to/tsudhishnair/using-twitter-player-cards-to-improve-accessibility-of-neetorecord-4acl)
-- [Bootstrap vs. Tailwind CSS: A Comparison of Top CSS Frameworks](https://dev.to/strapi/bootstrap-vs-tailwind-css-a-comparison-of-top-css-frameworks-64i)
+- [Lightmode &amp; Darkmode](https://dev.to/alex_e985030e626375ab17a4/lightmode-darkmode-llg)
+- [From Stamped to Clean: Transforming Watermarked Images into Clear Visuals](https://dev.to/jivaniyash/from-stamped-to-clean-transforming-watermarked-images-into-clear-visuals-24fp)
+- [Use Terraform module from a private git project with Atlantis](https://dev.to/ebuildy/use-terraform-module-from-a-private-git-project-with-atlantis-18ak)
+- [Introducing valid-correct: Elevate Your Form Validation with Error Handling and Correction](https://dev.to/kumarprateek18/introducing-valid-correct-elevate-your-form-validation-with-error-handling-and-correction-4b97)
+- [Responsive Web Design: Making Your Site Mobile-Friendly](https://dev.to/gdebojyoti/responsive-web-design-making-your-site-mobile-friendly-1elp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
