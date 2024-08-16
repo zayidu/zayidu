@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transaction Flow Testing Techniques: Ensuring Smooth User Experiences](https://dev.to/robort_smith/transaction-flow-testing-techniques-ensuring-smooth-user-experiences-3efb)
-- [Metabit Trading Built a Cloud-Based Quantitative Research Platform with JuiceFS](https://dev.to/tonybarber2/metabit-trading-built-a-cloud-based-quantitative-research-platform-with-juicefs-21c5)
-- [API7 Enterprise 3.2.14.4: Permission Boundary for Refined Permission Management](https://dev.to/api7/api7-enterprise-32144-permission-boundary-for-refined-permission-management-hni)
-- [What is an API?](https://dev.to/icodemechanic/what-is-an-api-46c9)
-- [Terminal Portfolio with JavaScript in Few easy steps.](https://dev.to/sanjoypaul/terminal-portfolio-with-javascript-in-few-easy-steps-57on)
+- [GUID Method in C#: Usage + Examples](https://dev.to/bytehide/guid-method-in-c-usage-examples-6b1)
+- [Build with any npm package with this AI assist 🦾](https://dev.to/commanddash/build-with-any-npm-package-with-this-ai-assist-11jb)
+- [Getting Started with Free WAF: Configuring HTTP to HTTPS Redirection for Your Site](https://dev.to/lulu_liu_c90f973e2f954d7f/getting-started-with-free-waf-configuring-http-to-https-redirection-for-your-site-kca)
+- [多个v-model?.sync的用途](https://dev.to/leoon_liang_7c64c6ceca7b4/duo-ge-v-modelsyncde-yong-tu-38gl)
+- [Real Life Scenarios I: Avoiding Extra Scripts in Database Operations with JPA/Hibernate 👀](https://dev.to/agitrubard/real-life-scenarios-i-avoiding-extra-scripts-in-database-operations-with-jpahibernate-3fnn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
