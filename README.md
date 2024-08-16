@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 16th August 2024](https://dev.to/ziizium/security-news-weekly-round-up-16th-august-2024-4c5k)
-- [Eloquent Trick: Laravel Model from Subquery](https://dev.to/bedram-tamang/eloquent-trick-laravel-model-from-subquery-4im6)
-- [Choosing Between Docker Swarm and Kubernetes for Container Management](https://dev.to/heyvaldemar/choosing-between-docker-swarm-and-kubernetes-for-container-management-1j6a)
-- [Docker - Características Principales y ¿Qué lo Hace tan Poderoso y Popular?](https://dev.to/bhyxen/docker-caracteristicas-principales-y-que-lo-hace-tan-poderoso-y-popular-1le)
-- [Cogumelos Mágicos: explorando e tratando dados nulos com Mage](https://dev.to/deadpunnk/cogumelos-magicos-explorando-e-tratando-dados-nulos-com-mage-ppb)
+- [BasilicaEVM: A modern dApp Stack](https://dev.to/gaboesquivel/basilicaevm-a-modern-dapp-stack-39mb)
+- [Creating form](https://dev.to/lusterplus_group_03da511b/creating-form-ngp)
+- [Replace empty images with beautiful GradientPlaceholder](https://dev.to/shahid_b36b77e4beb2a53a2a/replace-empty-images-with-beautiful-gradientplaceholder-fab)
+- [Gap Motivation: An Effective Approach to Achieving Goals](https://dev.to/koshirok096/gap-motivation-an-effective-approach-to-achieving-goals-53ne)
+- [Hulu vs. Major Streaming Platforms: A Competitive Analysis](https://dev.to/sandram/hulu-vs-major-streaming-platforms-a-competitive-analysis-53i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
