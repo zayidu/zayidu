@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Embedded Systems 101: The Silent Powerhouses of Our Digital World](https://dev.to/vanshaj_shah_4f3a7fb89c47/embedded-systems-101-the-silent-powerhouses-of-our-digital-world-2i2d)
-- [Como Logar de Maneira Sistemática](https://dev.to/asouza/como-logar-de-maneira-sistematica-1f53)
-- [5 principais estruturas de dados](https://dev.to/clarafonseca/5-principais-estruturas-de-dados-5028)
-- [6 Proven Strategies to Boost API Performance with Practical Node.js Examples](https://dev.to/wallacefreitas/6-proven-strategies-to-boost-api-performance-with-practical-nodejs-examples-2lmc)
-- [How to Build An Accessible Toggle Switch with Modern HTML &amp; CSS &lpar;and Without JavaScript&rpar;](https://dev.to/tinyoctopus/how-to-build-an-accessible-toggle-switch-without-javascript-using-modern-html-css-3ac7)
+- [Security news weekly round-up - 16th August 2024](https://dev.to/ziizium/security-news-weekly-round-up-16th-august-2024-4c5k)
+- [Eloquent Trick: Laravel Model from Subquery](https://dev.to/bedram-tamang/eloquent-trick-laravel-model-from-subquery-4im6)
+- [Choosing Between Docker Swarm and Kubernetes for Container Management](https://dev.to/heyvaldemar/choosing-between-docker-swarm-and-kubernetes-for-container-management-1j6a)
+- [Docker - Características Principales y ¿Qué lo Hace tan Poderoso y Popular?](https://dev.to/bhyxen/docker-caracteristicas-principales-y-que-lo-hace-tan-poderoso-y-popular-1le)
+- [Cogumelos Mágicos: explorando e tratando dados nulos com Mage](https://dev.to/deadpunnk/cogumelos-magicos-explorando-e-tratando-dados-nulos-com-mage-ppb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
