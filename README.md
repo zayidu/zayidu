@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Format Your Code](https://dev.to/thekarlesi/how-to-format-your-code-4j1g)
-- [Why Do Django Developers Choose JavaScript Frameworks Like React, Angular or Htmx for Frontend Development?](https://dev.to/hasanalbanna/why-do-django-developers-choose-javascript-frameworks-like-react-angular-or-htmx-for-frontend-development-4n4c)
-- [Configuring a Custom HTTPS Certificate for SafeLine](https://dev.to/sherbertill6/configuring-a-custom-https-certificate-for-safeline-5db2)
-- [Fix Setting Time zone Automatically Greyed out issue Windows 11](https://dev.to/winsides/fix-setting-time-zone-automatically-greyed-out-issue-windows-11-378m)
-- [Kubernetes with Open Policy Agent &lpar;OPA&rpar; &amp; Gatekeeper](https://dev.to/spacelift/kubernetes-with-open-policy-agent-opa-gatekeeper-5f1k)
+- [How Can You Succeed as a Freelancer on Upwork in 2024? Tips from Expert](https://dev.to/haris_patel_9b987eb5add00/how-can-you-succeed-as-a-freelancer-on-upwork-in-2024-tips-from-expert-21bd)
+- [Small Swoole Db 2.3](https://dev.to/sebk69/small-swoole-db-23-3e90)
+- [Angular scroll position restoration between pages &lpar;withInMemoryScrolling router settings&rpar;](https://dev.to/fatehmohamed14/angular-scroll-position-restoration-between-pages-withinmemoryscrolling-router-settings-54n8)
+- [How to Stand Out as a Developer: Building Projects that Make an Impact](https://dev.to/rishabh17/how-to-stand-out-as-a-developer-building-projects-that-make-an-impact-14i2)
+- [How to Effectively Write Test Scenarios?](https://dev.to/apilover/how-to-effectively-write-test-scenarios-346d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
