@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lightmode &amp; Darkmode](https://dev.to/alex_e985030e626375ab17a4/lightmode-darkmode-llg)
-- [From Stamped to Clean: Transforming Watermarked Images into Clear Visuals](https://dev.to/jivaniyash/from-stamped-to-clean-transforming-watermarked-images-into-clear-visuals-24fp)
-- [Use Terraform module from a private git project with Atlantis](https://dev.to/ebuildy/use-terraform-module-from-a-private-git-project-with-atlantis-18ak)
-- [Introducing valid-correct: Elevate Your Form Validation with Error Handling and Correction](https://dev.to/kumarprateek18/introducing-valid-correct-elevate-your-form-validation-with-error-handling-and-correction-4b97)
-- [Responsive Web Design: Making Your Site Mobile-Friendly](https://dev.to/gdebojyoti/responsive-web-design-making-your-site-mobile-friendly-1elp)
+- [Get the Width of an Element in JavaScript](https://dev.to/arsalanmeee/get-the-width-of-an-element-in-javascript-55oo)
+- [Design a stack that supports getMin&lpar;&rpar; in O&lpar;1&rpar; time and O&lpar;1&rpar; extra space](https://dev.to/yashdevs/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space-9li)
+- [HTML&#39;s VIPs: The Only Tags You Need to Master CSS Like a Pro](https://dev.to/rana_danish_0b71b5e803397/htmls-vips-the-only-tags-you-need-to-master-css-like-a-pro-2ph7)
+- [How to Display Cart Attributes Information Using Shopify Checkout UI Extensions](https://dev.to/tim_yone/how-to-display-cart-attributes-information-using-shopify-checkout-ui-extensions-4oe2)
+- [How to integrate Amazon Q developer with your codebase?](https://dev.to/citrux-digital/how-to-integrate-amazon-q-developer-with-your-codebase-3kcc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
