@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Challenge: A Soroban Crowdfactoring dApp](https://dev.to/icolomina/dev-challenge-a-soroban-crowdfactoring-dapp-325e)
-- [Reliable S3 Data Replication: Automatically Mirror New Files Without Worrying About Deletions](https://dev.to/rahulkspace/reliable-s3-data-replication-automatically-mirror-new-files-without-worrying-about-deletions-4mjf)
-- [Entry•X | Decentralized Ticketing Platform](https://dev.to/jose_carlostoscano_3bb03/entryx-decentralized-ticketing-platform-3ak1)
-- [Enabling Legacy Components in Windows 11 in Few Steps!](https://dev.to/winsides/enabling-legacy-components-in-windows-11-in-few-steps-1il1)
-- [Understanding the Linux File System and Logs](https://dev.to/zerodayrebel/understanding-the-linux-file-system-and-logs-14il)
+- [🚀 Beginner&#39;s Guide to SQL and Databases](https://dev.to/kammarianand/beginners-guide-to-sql-and-databases-f72)
+- [Animal Welfare Dapp Build Better on Stellar: Smart Contract Challenge](https://dev.to/chintanonweb/animal-welfare-dapp-build-better-on-stellar-smart-contract-challenge-3eii)
+- [What Effects Do Apple Products Have on the Environment?](https://dev.to/wandah/what-effects-do-apple-products-have-on-the-environment-281h)
+- [Cryptography Concepts Simplified](https://dev.to/4q-u4/cryptography-concepts-simplified-21j0)
+- [Choosing the Right Software Development Pricing Model for Your Project](https://dev.to/tl23143/choosing-the-right-software-development-pricing-model-for-your-project-329j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
