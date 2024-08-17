@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to prepare your NVIDIA card for gaming ?](https://dev.to/ali-alkhawaja/how-to-prepare-your-nvidia-card-for-gaming--630)
-- [Launch Your First Django App Like a Pro 🚀](https://dev.to/oviyan007/launch-your-first-django-app-like-a-pro-3h5n)
-- [Redux developers, please stop doing this!](https://dev.to/nguyenhongphat0/redux-developers-please-stop-doing-this-107a)
-- [Stellar Donations dApp](https://dev.to/jm27/stellar-donations-dapp-ml7)
-- [Building Forms in React.js : A beginners guide](https://dev.to/dualite/building-forms-in-reactjs-a-beginners-guide-11k1)
+- [DOM Flowt JavaScript Library](https://dev.to/staviro/dom-flowt-javascript-library-35gl)
+- [How to host your own radicle node. Contribute to decentralized source control. 🌌](https://dev.to/viiik/how-to-host-your-own-radicle-node-contribute-to-decentralized-source-control-5cgm)
+- [Optimal Entity Retrieval in .NET 8 : FindAsync vs. FirstOrDefaultAsync](https://dev.to/hamza_darouzi_dotnet/optimal-entity-retrieval-in-net-8-findasync-vs-firstordefaultasync-p4o)
+- [🌐 Kubernetes DNS: How to Use In-Cluster and Azure Private DNS Together](https://dev.to/hkhelil/kubernetes-dns-how-to-use-in-cluster-and-azure-private-dns-together-48h3)
+- [Why Am I Getting Access Denied in One Region S3 When I Have Permissions? &lpar;the answer is interesting&rpar;](https://dev.to/aws-builders/why-am-i-getting-access-denied-in-one-region-s3-when-i-have-permissions-the-answer-is-interesting-243j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
