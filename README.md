@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Software Developer Life: Soft Skills, AI Tools, and Team Dynamics](https://dev.to/shaswatha_thilaka/navigating-the-software-developer-life-soft-skills-ai-tools-and-team-dynamics-1bah)
-- [Build a Weight Converter Website](https://dev.to/abhishekgurjar/build-a-weight-converter-website-1fi6)
-- [Connecting Your Enterprise to the Cloud: Exploring AWS VPN and AWS Direct Connect](https://dev.to/ikoh_sylva/connecting-your-enterprise-to-the-cloud-exploring-aws-vpn-and-aws-direct-connect-afm)
-- [My Pen on CodePen](https://dev.to/aarish_arshi_bc12e63ee060/my-pen-on-codepen-1fa7)
-- [AWS Cloud Certifications 2024 - A Comprehensive Guide for Career Growth and Success](https://dev.to/myexamcloud/aws-cloud-certifications-2024-a-comprehensive-guide-for-career-growth-and-success-3e7c)
+- [How to prepare your NVIDIA card for gaming ?](https://dev.to/ali-alkhawaja/how-to-prepare-your-nvidia-card-for-gaming--630)
+- [Launch Your First Django App Like a Pro 🚀](https://dev.to/oviyan007/launch-your-first-django-app-like-a-pro-3h5n)
+- [Redux developers, please stop doing this!](https://dev.to/nguyenhongphat0/redux-developers-please-stop-doing-this-107a)
+- [Stellar Donations dApp](https://dev.to/jm27/stellar-donations-dapp-ml7)
+- [Building Forms in React.js : A beginners guide](https://dev.to/dualite/building-forms-in-reactjs-a-beginners-guide-11k1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
