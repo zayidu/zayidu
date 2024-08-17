@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial 3: Creating and Issuing Custom Assets](https://dev.to/ravixalgorithm/tutorial-3-creating-and-issuing-custom-assets-1ok8)
-- [2-Dars. KIRISH. HTML&#39;da dasturlash. Birinchi web sahifa yaratish.](https://dev.to/miss_code_creaker/2-dars-kirish-htmlda-dasturlash-birinchi-web-sahifa-yaratish-2h2m)
-- [Top 10 Backend Frameworks Every Developer Should Know](https://dev.to/bizmavenhub/top-10-backend-frameworks-every-developer-should-know-3pd2)
-- [July 9, 2024 Print&lpar;&rpar; Python &lpar;Q/A&rpar; - Part 2](https://dev.to/vishal-johnnelson/july-9-2024-print-python-qa-part-2-11n3)
-- [Number Patterns in Javascript](https://dev.to/100rabhcsmc/number-patterns-in-javascript-27k9)
+- [Dev Challenge: A Soroban Crowdfactoring dApp](https://dev.to/icolomina/dev-challenge-a-soroban-crowdfactoring-dapp-325e)
+- [Reliable S3 Data Replication: Automatically Mirror New Files Without Worrying About Deletions](https://dev.to/rahulkspace/reliable-s3-data-replication-automatically-mirror-new-files-without-worrying-about-deletions-4mjf)
+- [Entry•X | Decentralized Ticketing Platform](https://dev.to/jose_carlostoscano_3bb03/entryx-decentralized-ticketing-platform-3ak1)
+- [Enabling Legacy Components in Windows 11 in Few Steps!](https://dev.to/winsides/enabling-legacy-components-in-windows-11-in-few-steps-1il1)
+- [Understanding the Linux File System and Logs](https://dev.to/zerodayrebel/understanding-the-linux-file-system-and-logs-14il)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
