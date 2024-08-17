@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating dynamic route language for i18n in Astro Build](https://dev.to/alancpazetto/creating-dynamic-route-language-for-i18n-in-astro-build-2iim)
-- [A Deep Dive into Elliptic Curve Cryptography &lpar;ECC&rpar; with Code Examples](https://dev.to/cyberbimba/a-deep-dive-into-elliptic-curve-cryptography-ecc-with-code-examples-319a)
-- [Building an Automated Customer Support System with NLP and Machine Learning](https://dev.to/ekemini_thompson/building-an-automated-customer-support-system-with-nlp-and-machine-learning-16f5)
-- [Beware of Phishing: Protect Yourself from Online Threats](https://dev.to/cyberbimba/beware-of-phishing-protect-yourself-from-online-threats-42h7)
-- [Getting Started with ReactJS: Building a Simple React App with a Node.js Backend](https://dev.to/vkoulianos/getting-started-with-reactjs-building-a-simple-react-app-with-a-nodejs-backend-1mgk)
+- [Navigating the Software Developer Life: Soft Skills, AI Tools, and Team Dynamics](https://dev.to/shaswatha_thilaka/navigating-the-software-developer-life-soft-skills-ai-tools-and-team-dynamics-1bah)
+- [Build a Weight Converter Website](https://dev.to/abhishekgurjar/build-a-weight-converter-website-1fi6)
+- [Connecting Your Enterprise to the Cloud: Exploring AWS VPN and AWS Direct Connect](https://dev.to/ikoh_sylva/connecting-your-enterprise-to-the-cloud-exploring-aws-vpn-and-aws-direct-connect-afm)
+- [My Pen on CodePen](https://dev.to/aarish_arshi_bc12e63ee060/my-pen-on-codepen-1fa7)
+- [AWS Cloud Certifications 2024 - A Comprehensive Guide for Career Growth and Success](https://dev.to/myexamcloud/aws-cloud-certifications-2024-a-comprehensive-guide-for-career-growth-and-success-3e7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
