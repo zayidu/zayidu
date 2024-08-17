@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested Over 70 AI Image Services for SEO. These Actually Work](https://dev.to/codemarket/i-tested-over-70-ai-image-services-for-seo-these-actually-work-5079)
-- [Google Sheets: SUMIFS para durações &lpar;horas&rpar;, parte 2](https://dev.to/casewinter/google-sheets-sumifs-para-duracoes-horas-parte-2-3bf0)
-- [Automating AWS Resource Management with Shell Scripting](https://dev.to/adesokan_israel_109436759/automating-aws-resource-management-with-shell-scripting-1gg3)
-- [[leitura-compartilhada] Livro Aprenda Python Básico - Rápido e Fácil de Entender](https://dev.to/iniciativashelovelaceblog/leitura-compartilhada-livro-aprenda-python-basico-rapido-e-facil-de-entender-2kkh)
-- [why is random state 42](https://dev.to/anna_lapushner/why-is-random-state-42-l8o)
+- [Python&#39;s Asyncio: Advanced Concepts](https://dev.to/kartikmehta8/pythons-asyncio-advanced-concepts-9kd)
+- [Deploying a Virtual Machine Using ARM Template](https://dev.to/romanus_onyekwere/deploying-a-virtual-machine-using-arm-template-18g4)
+- [Monitoring Docker Containers with Datadog on Ubuntu](https://dev.to/supernovabirth/monitoring-docker-containers-with-datadog-on-ubuntu-26ih)
+- [100FrontendChallenge - Day 12 - Restaurant reservation](https://dev.to/t1xx1/100frontendchallenge-day-12-restaurant-reservation-5380)
+- [Automate, Relax, Repeat: The Power of Coding &lpar;#1&rpar;](https://dev.to/programmerraja/automate-relax-repeat-the-power-of-coding-1-1egh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
