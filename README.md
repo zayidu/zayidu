@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Build Oracles on Stellar](https://dev.to/mateush/how-to-build-oracles-on-stellar-4f11)
-- [Using Canonical URLs for your next Django project](https://dev.to/osahenru/using-canonical-urls-for-your-next-django-project-59kj)
-- [Push Notification Frontend Setup: Connecting to Your Node.js Backend](https://dev.to/shanu001x/push-notification-frontend-setup-connecting-to-your-nodejs-backend-18h2)
-- [Implementing Push Notifications Using JavaScript: A Production-Grade Approach](https://dev.to/shanu001x/implementing-push-notifications-using-javascript-a-production-grade-approach-1nmf)
-- [Day 17 Guide: Learning YAML and JSON](https://dev.to/ritesh_dolare/day-17-guide-learning-yaml-and-json-2cbb)
+- [The ABC of Steller: The Untold Story of McCaleb](https://dev.to/scofieldidehen/the-abc-of-steller-the-untold-story-of-mccaleb-2hho)
+- [Salesforce Connected App](https://dev.to/darkedges/salesforce-connected-app-57jd)
+- [Need help as a MERN beginner..!!](https://dev.to/sayak_hajra_88e4b7a46af5d/need-help-as-a-mern-beginner-1boi)
+- [PHP Error](https://dev.to/muhammad_falak_shair/php-error-3djg)
+- [Dive into the Fascinating World of Neural Networks for NLP 🧠](https://dev.to/getvm/dive-into-the-fascinating-world-of-neural-networks-for-nlp-31be)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
