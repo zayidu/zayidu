@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m learning CSS](https://dev.to/moth668/im-learning-css-23g3)
-- [Laravel Maps : Leaflet et Google Maps](https://dev.to/etudiantfabre/laravel-maps-leaflet-et-google-maps-3e4m)
-- [Kubernetes API Primitives: Pods, Nodes, and Beyond](https://dev.to/mahakfaheem/kubernetes-api-primitives-pods-nodes-and-beyond-mi8)
-- [Live night sky](https://dev.to/babar_ali/live-night-sky-1fe0)
-- [Inline vs. Block Elements in HTML](https://dev.to/ridoy_hasan/inline-vs-block-elements-in-htm-3pd3)
+- [&quot;Understanding Your Data: The Essentials of Exploratory Data Analysis&quot;. #exploratory data analysis #data science # statistics](https://dev.to/athi47/understanding-your-data-the-essentials-of-exploratory-data-analysis-exploratory-data-analysis-data-science-statistics-3oo3)
+- [I am never coding the same way again](https://dev.to/harish_code/i-am-never-coding-the-same-way-again-k2g)
+- [NodaTime – time offsets C#](https://dev.to/karenpayneoregon/nodatime-time-offsets-c-17ka)
+- [What is Infrastructure as Code &lpar;IaC&rpar; and Why It&#39;s Transforming DevOps](https://dev.to/sipsdaoracle/what-is-infrastructure-as-code-iac-and-why-its-transforming-devops-5h4k)
+- [Arrays em Assembly x86](https://dev.to/leandronsp/arrays-em-assembly-x86-55hb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
