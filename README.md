@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Statistics with R - Introduction to R Language and Statistics](https://dev.to/sc0v0ne/statistics-with-r-introduction-to-r-language-and-statistics-48j1)
-- [Daily Log - 17/08/2024](https://dev.to/makkawai/daily-log-17082024-55ao)
-- [How to create a library and use it in Javascript](https://dev.to/js-libraries/how-to-create-a-library-and-use-it-in-javascript-k30)
-- [Feature Engineering Fundamentals: Best Practices and Practical Tips](https://dev.to/nderitugichuki/feature-engineering-fundamentals-best-practices-and-practical-tips-519o)
-- [My Pen on CodePen](https://dev.to/andreh_lucas_75d7b3f3b26e/my-pen-on-codepen-2bi6)
+- [Salesforce.com REST API for data manipulation](https://dev.to/chuliomartinez_ebd2d8009bdec/salesforcecom-rest-api-for-data-manipulation-32j8)
+- [Correlating the logs for tracking In NestJs](https://dev.to/ashuto7h/correlating-the-logs-for-tracking-in-nestjs-98l)
+- [Statistics with R - Measures of Central Tendency and Measures of Dispersion](https://dev.to/sc0v0ne/statistics-with-r-measures-of-central-tendency-and-measures-of-dispersion-4a40)
+- [Celebrating 2000 Followers on Dev.to 🎉](https://dev.to/cadienvan/celebrating-2000-followers-on-devto-53ko)
+- [Modern API Development with Node.js, Express, and TypeScript using Clean Architecture](https://dev.to/dipakahirav/modern-api-development-with-nodejs-express-and-typescript-using-clean-architecture-1m77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
