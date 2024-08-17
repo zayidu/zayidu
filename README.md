@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Everyone is Talking About React: A Deep Dive into Its Popularity and Power ⚛️](https://dev.to/lokesh_singh/why-everyone-is-talking-about-react-a-deep-dive-into-its-popularity-and-power-96g)
-- [CBJS: File Upload 4](https://dev.to/peppa6/cbjs-file-upload-4-3c61)
-- [Understanding RAG &lpar;Part 4&rpar;: Optimizing the generation component](https://dev.to/parth_roy_a1ec4703407d025/understanding-rag-part-4-optimizing-the-generation-component-4jen)
-- [Understanding Dependency Injection: Pros, Cons, and Real-Life Scenarios](https://dev.to/dev_eze/understanding-dependency-injection-pros-cons-and-real-life-scenarios-480)
-- [Regular Expressions in Compiler Design](https://dev.to/pushpendra_sharma_f1d2cbe/regular-expressions-in-compiler-design-1ici)
+- [Quick Sort using Javascript](https://dev.to/ashutoshsarangi/quick-sort-using-javascript-2odc)
+- [foundationda 7 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-7-dars-192f)
+- [Why do we use OTP libraries when we can just do Math.random&lpar;&rpar;](https://dev.to/ashuto7h/why-do-we-use-otp-libraries-when-we-can-just-do-mathrandom-21gg)
+- [How to Set Up SSH Keys for GitHub: A Step-by-Step Guide](https://dev.to/starkydevs/how-to-set-up-ssh-keys-for-github-a-step-by-step-guide-55p0)
+- [CBJS: File Upload 6](https://dev.to/peppa6/cbjs-file-upload-6-4b07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
