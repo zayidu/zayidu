@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Beginner&#39;s Guide to SQL and Databases](https://dev.to/kammarianand/beginners-guide-to-sql-and-databases-f72)
-- [Animal Welfare Dapp Build Better on Stellar: Smart Contract Challenge](https://dev.to/chintanonweb/animal-welfare-dapp-build-better-on-stellar-smart-contract-challenge-3eii)
-- [What Effects Do Apple Products Have on the Environment?](https://dev.to/wandah/what-effects-do-apple-products-have-on-the-environment-281h)
-- [Cryptography Concepts Simplified](https://dev.to/4q-u4/cryptography-concepts-simplified-21j0)
-- [Choosing the Right Software Development Pricing Model for Your Project](https://dev.to/tl23143/choosing-the-right-software-development-pricing-model-for-your-project-329j)
+- [Using Zod with TypeScript: A Guide for Frontend Developers](https://dev.to/codeparrot/using-zod-with-typescript-a-guide-for-frontend-developers-3hfm)
+- [LLM Support for Your PHP AI Projects](https://dev.to/ardagnsrn/llm-support-for-your-php-ai-projects-5369)
+- [foundationda 6 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-6-dars-igk)
+- [Foundationda 6-dars](https://dev.to/isoqjon_nematov_d21104e35/foundationda-6-dars-3i19)
+- [assalomu aleykum 15.08.24 biz c++ codlash tilida 6 darsnimizni otdik va bu meni tasuryotlarim va tushungan narsalarim.](https://dev.to/_e9348e45782d50818/assalomu-aleykum-150824-biz-c-codlash-tilida-6-darsnimizni-otdik-va-bu-meni-tasuryotlarim-va-tushungan-narsalarim-2m92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
