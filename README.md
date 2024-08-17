@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Criar e Publicar Pacotes TypeScript no NPM](https://dev.to/lucaspereiradesouzat/como-criar-e-publicar-pacotes-typescript-no-npm-3gd4)
-- [Feature Engineering](https://dev.to/christopher_mugwimi/feature-engineering-1oj5)
-- [SolidJs vs React: A Comprehensive Comparison](https://dev.to/codeparrot/solidjs-vs-react-a-comprehensive-comparison-1a6n)
-- [Go Redis Crud quickly example](https://dev.to/luigiescalante/go-redis-crud-quickly-example-2agj)
-- [Augmented Reality: Revolutionising E-Commerce with Virtual Try-On Experiences](https://dev.to/rashedulhridoy/augmented-reality-revolutionising-e-commerce-with-virtual-try-on-experiences-222a)
+- [I&#39;m learning CSS](https://dev.to/moth668/im-learning-css-23g3)
+- [Laravel Maps : Leaflet et Google Maps](https://dev.to/etudiantfabre/laravel-maps-leaflet-et-google-maps-3e4m)
+- [Kubernetes API Primitives: Pods, Nodes, and Beyond](https://dev.to/mahakfaheem/kubernetes-api-primitives-pods-nodes-and-beyond-mi8)
+- [Live night sky](https://dev.to/babar_ali/live-night-sky-1fe0)
+- [Inline vs. Block Elements in HTML](https://dev.to/ridoy_hasan/inline-vs-block-elements-in-htm-3pd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
