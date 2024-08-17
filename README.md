@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DOM Flowt JavaScript Library](https://dev.to/staviro/dom-flowt-javascript-library-35gl)
-- [How to host your own radicle node. Contribute to decentralized source control. 🌌](https://dev.to/viiik/how-to-host-your-own-radicle-node-contribute-to-decentralized-source-control-5cgm)
-- [Optimal Entity Retrieval in .NET 8 : FindAsync vs. FirstOrDefaultAsync](https://dev.to/hamza_darouzi_dotnet/optimal-entity-retrieval-in-net-8-findasync-vs-firstordefaultasync-p4o)
-- [🌐 Kubernetes DNS: How to Use In-Cluster and Azure Private DNS Together](https://dev.to/hkhelil/kubernetes-dns-how-to-use-in-cluster-and-azure-private-dns-together-48h3)
-- [Why Am I Getting Access Denied in One Region S3 When I Have Permissions? &lpar;the answer is interesting&rpar;](https://dev.to/aws-builders/why-am-i-getting-access-denied-in-one-region-s3-when-i-have-permissions-the-answer-is-interesting-243j)
+- [L1Loss&lpar;&rpar; and MSELoss&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/l1loss-and-mseloss-in-pytorch-53b6)
+- [The SOLID Design Principles](https://dev.to/brandongautama/the-solid-design-principles-319f)
+- [kosmos](https://dev.to/angelkalinov4/kosmos-1lc3)
+- [Understanding IP Addressing and Subnetting](https://dev.to/subham_nandi/understanding-ip-addressing-and-subnetting-3h3n)
+- [1937. Maximum Number of Points with Cost](https://dev.to/mdarifulhaque/1937-maximum-number-of-points-with-cost-nh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
