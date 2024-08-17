@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Sort using Javascript](https://dev.to/ashutoshsarangi/quick-sort-using-javascript-2odc)
-- [foundationda 7 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-7-dars-192f)
-- [Why do we use OTP libraries when we can just do Math.random&lpar;&rpar;](https://dev.to/ashuto7h/why-do-we-use-otp-libraries-when-we-can-just-do-mathrandom-21gg)
-- [How to Set Up SSH Keys for GitHub: A Step-by-Step Guide](https://dev.to/starkydevs/how-to-set-up-ssh-keys-for-github-a-step-by-step-guide-55p0)
-- [CBJS: File Upload 6](https://dev.to/peppa6/cbjs-file-upload-6-4b07)
+- [Statistics with R - Introduction to R Language and Statistics](https://dev.to/sc0v0ne/statistics-with-r-introduction-to-r-language-and-statistics-48j1)
+- [Daily Log - 17/08/2024](https://dev.to/makkawai/daily-log-17082024-55ao)
+- [How to create a library and use it in Javascript](https://dev.to/js-libraries/how-to-create-a-library-and-use-it-in-javascript-k30)
+- [Feature Engineering Fundamentals: Best Practices and Practical Tips](https://dev.to/nderitugichuki/feature-engineering-fundamentals-best-practices-and-practical-tips-519o)
+- [My Pen on CodePen](https://dev.to/andreh_lucas_75d7b3f3b26e/my-pen-on-codepen-2bi6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
