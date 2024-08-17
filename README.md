@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [L1Loss&lpar;&rpar; and MSELoss&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/l1loss-and-mseloss-in-pytorch-53b6)
-- [The SOLID Design Principles](https://dev.to/brandongautama/the-solid-design-principles-319f)
-- [kosmos](https://dev.to/angelkalinov4/kosmos-1lc3)
-- [Understanding IP Addressing and Subnetting](https://dev.to/subham_nandi/understanding-ip-addressing-and-subnetting-3h3n)
-- [1937. Maximum Number of Points with Cost](https://dev.to/mdarifulhaque/1937-maximum-number-of-points-with-cost-nh)
+- [Presentation pain](https://dev.to/kiolk/presentation-pain-3ab9)
+- [Git: Update remote url in your local machine](https://dev.to/thiagoematos/git-update-remote-url-in-your-local-machine-1k60)
+- [Razorsharp - Demo](https://dev.to/jwtiller_c47bdfa134adf302/razorsharp-demo-3g70)
+- [JavaScript &amp; TypeScript](https://dev.to/saaransh_gupta_1903/javascript-typescript-3019)
+- [Levanta.me: My Personal Productivity Guardian](https://dev.to/nachokai/levantame-my-personal-productivity-guardian-a08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
