@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Zod with TypeScript: A Guide for Frontend Developers](https://dev.to/codeparrot/using-zod-with-typescript-a-guide-for-frontend-developers-3hfm)
-- [LLM Support for Your PHP AI Projects](https://dev.to/ardagnsrn/llm-support-for-your-php-ai-projects-5369)
-- [foundationda 6 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-6-dars-igk)
-- [Foundationda 6-dars](https://dev.to/isoqjon_nematov_d21104e35/foundationda-6-dars-3i19)
-- [assalomu aleykum 15.08.24 biz c++ codlash tilida 6 darsnimizni otdik va bu meni tasuryotlarim va tushungan narsalarim.](https://dev.to/_e9348e45782d50818/assalomu-aleykum-150824-biz-c-codlash-tilida-6-darsnimizni-otdik-va-bu-meni-tasuryotlarim-va-tushungan-narsalarim-2m92)
+- [Why Everyone is Talking About React: A Deep Dive into Its Popularity and Power ⚛️](https://dev.to/lokesh_singh/why-everyone-is-talking-about-react-a-deep-dive-into-its-popularity-and-power-96g)
+- [CBJS: File Upload 4](https://dev.to/peppa6/cbjs-file-upload-4-3c61)
+- [Understanding RAG &lpar;Part 4&rpar;: Optimizing the generation component](https://dev.to/parth_roy_a1ec4703407d025/understanding-rag-part-4-optimizing-the-generation-component-4jen)
+- [Understanding Dependency Injection: Pros, Cons, and Real-Life Scenarios](https://dev.to/dev_eze/understanding-dependency-injection-pros-cons-and-real-life-scenarios-480)
+- [Regular Expressions in Compiler Design](https://dev.to/pushpendra_sharma_f1d2cbe/regular-expressions-in-compiler-design-1ici)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
