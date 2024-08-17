@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Salesforce.com REST API for data manipulation](https://dev.to/chuliomartinez_ebd2d8009bdec/salesforcecom-rest-api-for-data-manipulation-32j8)
-- [Correlating the logs for tracking In NestJs](https://dev.to/ashuto7h/correlating-the-logs-for-tracking-in-nestjs-98l)
-- [Statistics with R - Measures of Central Tendency and Measures of Dispersion](https://dev.to/sc0v0ne/statistics-with-r-measures-of-central-tendency-and-measures-of-dispersion-4a40)
-- [Celebrating 2000 Followers on Dev.to 🎉](https://dev.to/cadienvan/celebrating-2000-followers-on-devto-53ko)
-- [Modern API Development with Node.js, Express, and TypeScript using Clean Architecture](https://dev.to/dipakahirav/modern-api-development-with-nodejs-express-and-typescript-using-clean-architecture-1m77)
+- [Creating dynamic route language for i18n in Astro Build](https://dev.to/alancpazetto/creating-dynamic-route-language-for-i18n-in-astro-build-2iim)
+- [A Deep Dive into Elliptic Curve Cryptography &lpar;ECC&rpar; with Code Examples](https://dev.to/cyberbimba/a-deep-dive-into-elliptic-curve-cryptography-ecc-with-code-examples-319a)
+- [Building an Automated Customer Support System with NLP and Machine Learning](https://dev.to/ekemini_thompson/building-an-automated-customer-support-system-with-nlp-and-machine-learning-16f5)
+- [Beware of Phishing: Protect Yourself from Online Threats](https://dev.to/cyberbimba/beware-of-phishing-protect-yourself-from-online-threats-42h7)
+- [Getting Started with ReactJS: Building a Simple React App with a Node.js Backend](https://dev.to/vkoulianos/getting-started-with-reactjs-building-a-simple-react-app-with-a-nodejs-backend-1mgk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
