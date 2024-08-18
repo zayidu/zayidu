@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [House Robber Problem](https://dev.to/theyashsawarkar/house-robber-problem-14o4)
-- [Let&#39;s understand the different types of NPM dependencies](https://dev.to/syed_ammar/lets-understand-the-different-types-of-npm-dependencies-bo8)
-- [Stellar by Example: Web2 to Web3 Beginner Guide.](https://dev.to/emee/stellar-by-example-web2-to-web3-beginner-guide-3665)
-- [Selenium](https://dev.to/devi_sudhakar_12ec71f0137/selenium-1k6j)
-- [What is selenium ? Why do we use selenium for automation ?](https://dev.to/nandhini_manikandan_/what-is-selenium-why-do-we-use-selenium-for-automation--hbi)
+- [15 Best System Design Websites for Developers &lpar;2024&rpar;](https://dev.to/somadevtoo/15-best-system-design-websites-for-developers-2024-276l)
+- [Ruby on Rails API Quiz](https://dev.to/hrishio/ruby-on-rails-api-quiz-552o)
+- [How to Contribute to Open Source: A Developer’s Roadmap 🚀](https://dev.to/lokesh_singh/how-to-contribute-to-open-source-a-developers-roadmap-c5p)
+- [Future Engineering: The Ultimate Guide](https://dev.to/evanskiprotich/future-engineering-the-ultimate-guide-4ap)
+- [Dijkstra&#39;s Shortest Path Algorithm Implementation](https://dev.to/theyashsawarkar/dijkstras-shortest-path-algorithm-implementation-20kn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
