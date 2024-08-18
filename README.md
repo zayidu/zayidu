@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create your own AI asking App &lpar;Submit text to an AI model View the AI-generated response&rpar;](https://dev.to/mibii/create-your-own-ai-asking-app-submit-text-to-an-ai-model-view-the-ai-generated-response-1g5g)
-- [How to add Custom Font to Tailwind - For Web and Locally Downloaded Fonts](https://dev.to/michaelanazodo1/how-to-add-custom-font-to-tailwind-for-web-and-locally-downloaded-fonts-1m89)
-- [Error: ENOENT: no such file or directory, stat &#39;/opt/render/project/src/public/index.html&#39;](https://dev.to/mibii/error-enoent-no-such-file-or-directory-stat-optrenderprojectsrcpublicindexhtml-2jj3)
-- [Fundamentals of Transact-SQL &lpar;T-SQL&rpar; Queries](https://dev.to/minhduc159/fundamentals-of-transact-sql-t-sql-queries-pkg)
-- [My Path to AWS Solutions Architect Certification: Tips and Insights for Success](https://dev.to/starkydevs/my-path-to-aws-solutions-architect-certification-tips-and-insights-for-success-3c2n)
+- [15 Advanced TypeScript Tips and Tricks You Might Not Know 🤔💡](https://dev.to/mattlewandowski93/15-advanced-typescript-tips-and-tricks-you-might-not-know-12kk)
+- [New supervisor for Elixir - SuperWorker](https://dev.to/manhvanvu/new-supervisor-for-elixir-superworker-4gie)
+- [Sherlock Holmes: The Case of the Broken Website](https://dev.to/programmerraja/sherlock-holmes-the-case-of-the-broken-website-39lh)
+- [What is AI Swarm?](https://dev.to/zain725342/what-is-ai-swarm-54d4)
+- [WAHA Scaling - How To Handle 500+ WhatsApp Sessions](https://dev.to/waha/waha-scaling-how-to-handle-500-whatsapp-sessions-3fie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
