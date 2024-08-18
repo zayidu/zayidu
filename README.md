@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dive into the Wonderful World of PHP with This Comprehensive Tutorial! 🚀](https://dev.to/getvm/dive-into-the-wonderful-world-of-php-with-this-comprehensive-tutorial-4n68)
-- [Cloud Run vs App Engine: A head-to-head comparison using facts and science](https://dev.to/eswar108/cloud-run-vs-app-engine-a-head-to-head-comparison-using-facts-and-science-27eh)
-- [append VS appendChild](https://dev.to/eswar108/append-vs-appendchild-8mj)
-- [When to Use Server-Side Rendering vs Static Generation in Next.js](https://dev.to/eswar108/when-to-use-server-side-rendering-vs-static-generation-in-nextjs-4e2h)
-- [Constructors in Python &lpar;init vs __new__&rpar;](https://dev.to/eswar108/constructors-in-python-init-vs-new-kh8)
+- [How To Select The Far Corner Of The Taskbar To Show The Desktop In Windows 11?](https://dev.to/winsides/how-to-select-the-far-corner-of-the-taskbar-to-show-the-desktop-in-windows-11-h87)
+- [🙅‍♂️Introducing Animata: New Tool for Effortless Animations in React &amp; Tailwind](https://dev.to/uicraft_by_pratik/introducing-animata-new-tool-for-effortless-animations-in-react-tailwind-19fm)
+- [Key Metrics for Measuring Engineering Team Success](https://dev.to/middleware/key-metrics-for-measuring-engineering-team-success-3695)
+- [Network Penetration Testing: Tools and Techniques](https://dev.to/zerodayrebel/network-penetration-testing-tools-and-techniques-33ik)
+- [Understanding Clean Code: Formatting ⚡️](https://dev.to/alisamir/understanding-clean-code-formatting-4dfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
