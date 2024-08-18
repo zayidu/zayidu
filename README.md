@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Advanced TypeScript Tips and Tricks You Might Not Know 🤔💡](https://dev.to/mattlewandowski93/15-advanced-typescript-tips-and-tricks-you-might-not-know-12kk)
-- [New supervisor for Elixir - SuperWorker](https://dev.to/manhvanvu/new-supervisor-for-elixir-superworker-4gie)
-- [Sherlock Holmes: The Case of the Broken Website](https://dev.to/programmerraja/sherlock-holmes-the-case-of-the-broken-website-39lh)
-- [What is AI Swarm?](https://dev.to/zain725342/what-is-ai-swarm-54d4)
-- [WAHA Scaling - How To Handle 500+ WhatsApp Sessions](https://dev.to/waha/waha-scaling-how-to-handle-500-whatsapp-sessions-3fie)
+- [Dive into the Wonderful World of PHP with This Comprehensive Tutorial! 🚀](https://dev.to/getvm/dive-into-the-wonderful-world-of-php-with-this-comprehensive-tutorial-4n68)
+- [Cloud Run vs App Engine: A head-to-head comparison using facts and science](https://dev.to/eswar108/cloud-run-vs-app-engine-a-head-to-head-comparison-using-facts-and-science-27eh)
+- [append VS appendChild](https://dev.to/eswar108/append-vs-appendchild-8mj)
+- [When to Use Server-Side Rendering vs Static Generation in Next.js](https://dev.to/eswar108/when-to-use-server-side-rendering-vs-static-generation-in-nextjs-4e2h)
+- [Constructors in Python &lpar;init vs __new__&rpar;](https://dev.to/eswar108/constructors-in-python-init-vs-new-kh8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
