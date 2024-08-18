@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Problem Solving Patterns](https://dev.to/kanishkaisuru/problem-solving-patterns-3pf8)
-- [How to create own programming language](https://dev.to/hamda_mirza_c7a7d996a13ef/how-to-create-own-programming-language-39io)
-- [NestJS + Opentelemetry &lpar;Loki&rpar;](https://dev.to/siisee11/nestjs-opentelemetryloki-4490)
-- [Using htmlq to filter web data](https://dev.to/anks/using-htmlq-to-filter-web-data-3mdm)
-- [A New Tech Stack: Quick Read](https://dev.to/danieldevi/a-new-tech-stack-quick-read-1dl0)
+- [Chaos Engineering: Embracing Uncertainty](https://dev.to/pragyasapkota/chaos-engineering-embracing-uncertainty-25jg)
+- [Building and Deploying My Personal Portfolio Using React &amp; Node.js](https://dev.to/lejub/building-and-deploying-my-personal-portfolio-using-react-nodejs-2kjb)
+- [KhataLook - Face Recognition Meets Retail Debt Tracking in React](https://dev.to/akshat_gautam/khatalook-face-recognition-meets-retail-debt-tracking-in-react-21g7)
+- [How Does Uber&#39;s Technology Ensure Accurate Pickup and Drop-Off Locations?](https://dev.to/grantj/how-does-ubers-technology-ensure-accurate-pickup-and-drop-off-locations-2lp8)
+- [React Interview Questions](https://dev.to/nishantsinghchandel/react-interview-questions-e3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
