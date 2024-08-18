@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Today&#39;s Trending Projects: Building a React GitHub Heatmap Contributions and More](https://dev.to/labex/todays-trending-projects-building-a-react-github-heatmap-contributions-and-more-5gi0)
-- [A comprehensive guide to pinia](https://dev.to/primateisdev/a-comprehensive-guide-to-pinia-186l)
-- [How to Add React Three Fiber Rules to Eslint v9.0.0](https://dev.to/chrislanejones/how-to-add-react-three-fiber-rules-to-eslint-v900-36in)
-- [A Comprehensive Guide to Type Casting and Conversions in Go](https://dev.to/zakariachahboun/a-comprehensive-guide-to-type-casting-and-conversions-in-go-26di)
-- [Guidde integrated seamlessly AI create video](https://dev.to/olatunjiayodel9/guidde-integrated-seamlessly-ai-create-video-3p9a)
+- [Create your own AI asking App &lpar;Submit text to an AI model View the AI-generated response&rpar;](https://dev.to/mibii/create-your-own-ai-asking-app-submit-text-to-an-ai-model-view-the-ai-generated-response-1g5g)
+- [How to add Custom Font to Tailwind - For Web and Locally Downloaded Fonts](https://dev.to/michaelanazodo1/how-to-add-custom-font-to-tailwind-for-web-and-locally-downloaded-fonts-1m89)
+- [Error: ENOENT: no such file or directory, stat &#39;/opt/render/project/src/public/index.html&#39;](https://dev.to/mibii/error-enoent-no-such-file-or-directory-stat-optrenderprojectsrcpublicindexhtml-2jj3)
+- [Fundamentals of Transact-SQL &lpar;T-SQL&rpar; Queries](https://dev.to/minhduc159/fundamentals-of-transact-sql-t-sql-queries-pkg)
+- [My Path to AWS Solutions Architect Certification: Tips and Insights for Success](https://dev.to/starkydevs/my-path-to-aws-solutions-architect-certification-tips-and-insights-for-success-3c2n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
