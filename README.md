@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Need All That Support Levels After All?](https://dev.to/femolacaster/do-you-need-all-that-support-levels-after-all-54j7)
-- [3 Essential React Hooks for Beginners](https://dev.to/lavanya_sharma_926cf0ad1f/3-essential-react-hooks-for-beginners-1l5j)
-- [Advanced JS — Refactoring Toward Objects](https://dev.to/turalsuleymani/advanced-js-refactoring-toward-objects-58ef)
-- [Recommended: Linux Practice Labs Course](https://dev.to/labex/recommended-linux-practice-labs-course-4djm)
-- [Symfony Station Communiqué — 16 August 2024: A Look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-16-august-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-2hc1)
+- [Feature flag](https://dev.to/mdawooddev/feature-flag-jbj)
+- [Netflix Skin for JWPLAYER8 v2.0.7](https://dev.to/donmc_kendiez/netflix-skin-for-jwplayer8-v207-5127)
+- [Slider Parallax Effect](https://dev.to/donmc_kendiez/slider-parallax-effect-19a2)
+- [A Guide to Dependency Injection](https://dev.to/xheghun/a-guide-to-dependency-injection-2cf5)
+- [ETL Real Estate Data Engineering with Redfin: From Extraction to Visualization](https://dev.to/arooba_aqeel_b96d53915b06/end-to-end-real-estate-data-analytics-with-redfin-from-extraction-to-visualization-3pgp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
