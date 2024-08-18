@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET tarixi.](https://dev.to/dilmurod_yaqubbayev_073a5/net-tarixi-2cc6)
-- [TIL: Gemini can analyze errors directly on the browser](https://dev.to/klauskpm/til-gemini-can-analyze-errors-directly-on-the-browser-g45)
-- [Creating a Level Editor for Sub-Optimal](https://dev.to/joestrout/creating-a-level-editor-for-sub-optimal-19hd)
-- [Top 5 Cloud Platform News This Week: August 2024](https://dev.to/starkydevs/top-5-cloud-platform-news-this-week-august-2024-1mn4)
-- [Building a Decentralized Election initializing Platform for free and fair Elections.](https://dev.to/frankdevlopes/building-a-decentralized-election-initializing-platform-for-free-and-fair-elections-fad)
+- [Token Marketplace](https://dev.to/arsh_the_coder/token-marketplace-4nld)
+- [What Are the Key Features of Swift 6?](https://dev.to/kathleenbabcock/what-are-the-key-features-of-swift-6-13g7)
+- [Proteção em dispositivos móveis.](https://dev.to/victorzarzar/protecao-em-dispositivos-moveis-31ei)
+- [EcoLedger: Rewarding Sustainable Actions](https://dev.to/binabdulateef/ecoledger-rewarding-sustainable-actions-13g0)
+- [Introducing nextjs-server-action-tester](https://dev.to/bijishjs/introducing-nextjs-server-action-tester-2ffi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
