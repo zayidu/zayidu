@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Select The Far Corner Of The Taskbar To Show The Desktop In Windows 11?](https://dev.to/winsides/how-to-select-the-far-corner-of-the-taskbar-to-show-the-desktop-in-windows-11-h87)
-- [🙅‍♂️Introducing Animata: New Tool for Effortless Animations in React &amp; Tailwind](https://dev.to/uicraft_by_pratik/introducing-animata-new-tool-for-effortless-animations-in-react-tailwind-19fm)
-- [Key Metrics for Measuring Engineering Team Success](https://dev.to/middleware/key-metrics-for-measuring-engineering-team-success-3695)
-- [Network Penetration Testing: Tools and Techniques](https://dev.to/zerodayrebel/network-penetration-testing-tools-and-techniques-33ik)
-- [Understanding Clean Code: Formatting ⚡️](https://dev.to/alisamir/understanding-clean-code-formatting-4dfl)
+- [Elastic RUM &lpar;Real User Monitoring&rpar; with Open Telemetry &lpar;OTel&rpar;](https://dev.to/rranjan/elastic-rum-real-user-monitoring-with-open-telemetry-otel-3nbg)
+- [Making a pastebin clone Part-1 TBC](https://dev.to/aymuos/making-a-pastebin-clone-part-1-tbc-24o0)
+- [Free 32+ APIs for Coders in 2024](https://dev.to/riturajps/free-32-apis-for-coders-in-2024-dam)
+- [DeepSeek-Prover advances theorem proving through reinforcement learning and Monte-Carlo Tree Search with proof assistant feedbac](https://dev.to/mikeyoung44/deepseek-prover-advances-theorem-proving-through-reinforcement-learning-and-monte-carlo-tree-search-with-proof-assistant-feedbac-kb9)
+- [Scientists replace bulky camera lenses with a mask and AI for compact, flexible imaging](https://dev.to/mikeyoung44/scientists-replace-bulky-camera-lenses-with-a-mask-and-ai-for-compact-flexible-imaging-1of6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
