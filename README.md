@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SOLID - Day 1: S - Single Responsibility Principle &lpar;SRP&rpar;](https://dev.to/paulocappa/solid-day-1-s-single-responsibility-principle-srp-1f5k)
-- [5 Use Cases for Using Open Policy Agent](https://dev.to/yayabobi/5-use-cases-for-using-open-policy-agent-11me)
-- [Why every developer should learn Docker and Containers](https://dev.to/johnofgod33/why-every-developer-should-learn-docker-and-containers-341j)
-- [Breaking Into Tech: Transitioning from Medicine to a Coding Career in Just One Year](https://dev.to/snmeans/breaking-into-tech-transitioning-from-medicine-to-a-coding-career-in-just-one-year-15b9)
-- [Selecting selectors, selectively...](https://dev.to/codecara/selecting-selectors-selectively-8gg)
+- [Aplicando o Single Responsability Principle com Typescript e Java](https://dev.to/victorlima142/aplicando-o-single-responsability-principle-com-typescript-e-java-3bah)
+- [Tutorial on fee estimation for soroban transactions](https://dev.to/rahul-soshte/tutorial-on-fee-estimation-for-soroban-transactions-2p1o)
+- [What is EmailJs](https://dev.to/gagecantrelle/what-is-emailjs-3kme)
+- [SDK vs Runtime](https://dev.to/dilmurod_yaqubbayev_073a5/sdk-vs-runtime-3gk7)
+- [What Apache Iceberg REST Catalog is and isn&#39;t](https://dev.to/alexmercedcoder/what-apache-iceberg-rest-catalog-is-and-isnt-3143)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
