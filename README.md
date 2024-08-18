@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Aplicando o Single Responsability Principle com Typescript e Java](https://dev.to/victorlima142/aplicando-o-single-responsability-principle-com-typescript-e-java-3bah)
-- [Tutorial on fee estimation for soroban transactions](https://dev.to/rahul-soshte/tutorial-on-fee-estimation-for-soroban-transactions-2p1o)
-- [What is EmailJs](https://dev.to/gagecantrelle/what-is-emailjs-3kme)
-- [SDK vs Runtime](https://dev.to/dilmurod_yaqubbayev_073a5/sdk-vs-runtime-3gk7)
-- [What Apache Iceberg REST Catalog is and isn&#39;t](https://dev.to/alexmercedcoder/what-apache-iceberg-rest-catalog-is-and-isnt-3143)
+- [A Standard Proposal for Extending Classic Asset&#39;s Behavior - Tutorial](https://dev.to/fazzatti/a-standard-proposal-for-extending-classic-assets-behavior-tutorial-j77)
+- [A Standard Proposal for Extending Classic Asset&#39;s Behavior - Demos](https://dev.to/fazzatti/a-standard-proposal-for-extending-classic-assets-behavior-demos-2e3i)
+- [Covering Index](https://dev.to/ahmedelmehalawi/covering-index-3mni)
+- [IL&lt;&lt;&lpar;Intermedite Language&rpar;](https://dev.to/dilmurod_yaqubbayev_073a5/ilintermedite-language-ph1)
+- [Proxmox Security Series: Strengthening Your Virtual Environment](https://dev.to/sebos/proxmox-security-series-strengthening-your-virtual-environment-5ag9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
