@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Actions Azure Vnet Integration](https://dev.to/maxx_don/github-actions-azure-vnet-integration-mf1)
-- [Re-rebuilding TF2.8 image: 369 patches](https://dev.to/dchaley/re-rebuilding-tf28-image-369-patches-kif)
-- [How Does Apple&#39;s App Store Compare to Google Play?](https://dev.to/willie_brown/how-does-apples-app-store-compare-to-google-play-4ho3)
-- [Checking out code using github action in legacy runner](https://dev.to/kishanbsh/checking-out-code-using-github-action-in-legacy-runner-4a6d)
-- [Grafana Opentelemetry Starter](https://dev.to/siisee11/grafana-opentelemetry-starter-df4)
+- [How to Create Custom Middleware in Azure Functions: A Step-by-Step Guide with .NET 8](https://dev.to/codestreet/how-to-create-custom-middleware-in-azure-functions-a-step-by-step-guide-with-net-8-17gp)
+- [ERR_PNPM_BAD_PM_VERSION This project is configured to use vX of pnpm. Your current pnpm is vY](https://dev.to/michalbryxi/errpnpmbadpmversion-this-project-is-configured-to-use-vx-of-pnpm-your-current-pnpm-is-vy-e0e)
+- [Software Testing](https://dev.to/devi_sudhakar_12ec71f0137/software-testing-5hdh)
+- [HTB Academy: Password Attacks Module – Password Reuse/Default Passwords](https://dev.to/saramazal/htb-academy-password-attacks-module-password-reusedefault-passwords-pae)
+- [HTB Academy: Password Attacks Module - Password Mutations Section](https://dev.to/saramazal/htb-academy-password-attacks-module-password-mutations-section-25jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
