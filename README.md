@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Token Marketplace](https://dev.to/arsh_the_coder/token-marketplace-4nld)
-- [What Are the Key Features of Swift 6?](https://dev.to/kathleenbabcock/what-are-the-key-features-of-swift-6-13g7)
-- [Proteção em dispositivos móveis.](https://dev.to/victorzarzar/protecao-em-dispositivos-moveis-31ei)
-- [EcoLedger: Rewarding Sustainable Actions](https://dev.to/binabdulateef/ecoledger-rewarding-sustainable-actions-13g0)
-- [Introducing nextjs-server-action-tester](https://dev.to/bijishjs/introducing-nextjs-server-action-tester-2ffi)
+- [Do You Need All That Support Levels After All?](https://dev.to/femolacaster/do-you-need-all-that-support-levels-after-all-54j7)
+- [3 Essential React Hooks for Beginners](https://dev.to/lavanya_sharma_926cf0ad1f/3-essential-react-hooks-for-beginners-1l5j)
+- [Advanced JS — Refactoring Toward Objects](https://dev.to/turalsuleymani/advanced-js-refactoring-toward-objects-58ef)
+- [Recommended: Linux Practice Labs Course](https://dev.to/labex/recommended-linux-practice-labs-course-4djm)
+- [Symfony Station Communiqué — 16 August 2024: A Look at Symfony, Drupal, PHP, Cybersec, and Fediverse News!](https://dev.to/reubenwalker64/symfony-station-communique-16-august-2024-a-look-at-symfony-drupal-php-cybersec-and-fediverse-news-2hc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
