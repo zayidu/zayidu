@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Feature flag](https://dev.to/mdawooddev/feature-flag-jbj)
-- [Netflix Skin for JWPLAYER8 v2.0.7](https://dev.to/donmc_kendiez/netflix-skin-for-jwplayer8-v207-5127)
-- [Slider Parallax Effect](https://dev.to/donmc_kendiez/slider-parallax-effect-19a2)
-- [A Guide to Dependency Injection](https://dev.to/xheghun/a-guide-to-dependency-injection-2cf5)
-- [ETL Real Estate Data Engineering with Redfin: From Extraction to Visualization](https://dev.to/arooba_aqeel_b96d53915b06/end-to-end-real-estate-data-analytics-with-redfin-from-extraction-to-visualization-3pgp)
+- [Mastering Docker: A Beginner&#39;s Guide to Containerization](https://dev.to/reesavgupta/mastering-docker-a-beginners-guide-to-containerization-2ae1)
+- [A quick guide for students starting their tech degree](https://dev.to/hellonehha/a-quick-guide-for-students-starting-their-tech-degree-in9)
+- [You are already doing great, you just don&#39;t know it yet.](https://dev.to/mousepotatodoesstuff/you-are-already-doing-great-you-just-dont-know-it-yet-3cd0)
+- [Day 20: Advanced CI/CD Practices in AWS – Blue-Green Deployments and Automated Testing](https://dev.to/singh_in_cloud/day-20-advanced-cicd-practices-in-aws-blue-green-deployments-and-automated-testing-g8e)
+- [React Essentials: Features You Might Be Missing](https://dev.to/saaransh_gupta_1903/react-essentials-features-you-might-be-missing-50ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
