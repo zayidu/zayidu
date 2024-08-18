@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Understanding Your Data: The Essentials of Exploratory Data Analysis&quot;. #exploratory data analysis #data science # statistics](https://dev.to/athi47/understanding-your-data-the-essentials-of-exploratory-data-analysis-exploratory-data-analysis-data-science-statistics-3oo3)
-- [I am never coding the same way again](https://dev.to/harish_code/i-am-never-coding-the-same-way-again-k2g)
-- [NodaTime – time offsets C#](https://dev.to/karenpayneoregon/nodatime-time-offsets-c-17ka)
-- [What is Infrastructure as Code &lpar;IaC&rpar; and Why It&#39;s Transforming DevOps](https://dev.to/sipsdaoracle/what-is-infrastructure-as-code-iac-and-why-its-transforming-devops-5h4k)
-- [Arrays em Assembly x86](https://dev.to/leandronsp/arrays-em-assembly-x86-55hb)
+- [Securing Web Applications with OAuth2](https://dev.to/kartikmehta8/securing-web-applications-with-oauth2-2omj)
+- [How to Host a Static Website on AWS Using S3, Route 53, CloudFront, and Certificate Manager](https://dev.to/jaideep247/how-to-host-a-static-website-on-aws-using-s3-route-53-cloudfront-and-certificate-manager-13p8)
+- [⌨️ 🔍🐛 Corrigindo atalhos no VSCode](https://dev.to/maiquitome/corrigindo-atalhos-no-vscode-4fo7)
+- [Intro2Stellar | Creating Wallet Web App | Using Python](https://dev.to/arnav_mehta__/intro2stellar-creating-wallet-web-app-using-python-34dg)
+- [Nextjs | Parallel routes VS Intercepting routes](https://dev.to/patrick_web/nextjs-parallel-routing-vs-intercepting-routing-1422)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
