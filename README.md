@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chaos Engineering: Embracing Uncertainty](https://dev.to/pragyasapkota/chaos-engineering-embracing-uncertainty-25jg)
-- [Building and Deploying My Personal Portfolio Using React &amp; Node.js](https://dev.to/lejub/building-and-deploying-my-personal-portfolio-using-react-nodejs-2kjb)
-- [KhataLook - Face Recognition Meets Retail Debt Tracking in React](https://dev.to/akshat_gautam/khatalook-face-recognition-meets-retail-debt-tracking-in-react-21g7)
-- [How Does Uber&#39;s Technology Ensure Accurate Pickup and Drop-Off Locations?](https://dev.to/grantj/how-does-ubers-technology-ensure-accurate-pickup-and-drop-off-locations-2lp8)
-- [React Interview Questions](https://dev.to/nishantsinghchandel/react-interview-questions-e3h)
+- [👨‍💻Mastering Git: A Beginner’s Guide to the 12 Most Essential Commands🫠](https://dev.to/uicraft_by_pratik/mastering-git-a-beginners-guide-to-the-12-most-essential-commands-21ci)
+- [🚀 Transform Ubuntu with These GNOME Tweaks! 🔥](https://dev.to/best_codes/transform-ubuntu-with-these-gnome-tweaks-31bp)
+- [Client Side Rendering vs Server side rendering vs Server Components](https://dev.to/ivan_kaminskyi/client-side-rendering-vs-server-side-rendering-vs-server-components-1nk6)
+- [What is BPM and How to Build a BPM App?](https://dev.to/nocobase/what-is-bpm-and-how-to-build-a-bpm-app-3bom)
+- [Implementing Polyfills in JavaScript: A Quick Dive](https://dev.to/kashifnehal/implementing-polyfills-in-javascript-a-quick-dive-39g1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
