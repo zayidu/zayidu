@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [stellar-TUI a terminal user interface for Horizon Stellar](https://dev.to/cirqueira/stellar-tui-a-terminal-user-interface-for-horizon-stellar-11l1)
-- [Snowflake&#39;s Blueprint for Resilience: High Availability and Disaster Recovery](https://dev.to/digitalchemist/snowflakes-blueprint-for-resilience-high-availability-and-disaster-recovery-5h8k)
-- [How to become a better coder](https://dev.to/mosininamdar/how-to-become-a-better-coder-b97)
-- [Use EC2 user data script run a flask app🌐](https://dev.to/jj_tse0405/use-user-data-script-run-a-flask-app-im3)
-- [Depurando Aplicativos Inativos](https://dev.to/flounder4130/depurando-aplicativos-inativos-20o0)
+- [How I Secured My Website with SafeLine WAF: A Beginner’s Guide to Easy Deployment](https://dev.to/lulu_liu_c90f973e2f954d7f/how-i-secured-my-website-with-safeline-waf-a-beginners-guide-to-easy-deployment-1854)
+- [In-depth Experience with SafeLine&#39;s Dynamic Protection](https://dev.to/butterflyi8/in-depth-experience-with-safelines-dynamic-protection-3lcp)
+- [Pickup Project: Ruby Gemmine](https://dev.to/theholyspirit/pickup-project-ruby-gemmine-mja)
+- [Introduction to GROWI TypeScript/JavaScript SDK &lpar;Part 3: manipulating attachments&rpar;](https://dev.to/goofmint/introduction-to-growi-typescriptjavascript-sdk-part-3-manipulating-attachments-2jai)
+- [Mastering Docker Image Tagging for Efficient Deployment](https://dev.to/labex/mastering-docker-image-tagging-for-efficient-deployment-3ijb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
