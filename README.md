@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 0 of #100daysofMiva || Setting up for success](https://dev.to/tobidelly/day-0-of-100daysofmiva-setting-up-for-success-4l6e)
-- [Exploring TypeScript: Types, Interfaces, Generics, and Enums](https://dev.to/iamfaham/exploring-typescript-types-interfaces-generics-and-enums-4g35)
-- [Enabling OpenAI to call functions in your app &lpar;TypeScript / Node.js&rpar;](https://dev.to/encore/how-to-let-chatgpt-call-functions-in-your-app-typescript-nodejs-397i)
-- [RCAs Within Incident Management Tools](https://dev.to/squadcast/rcas-within-incident-management-tools-2ch7)
-- [Enhancing On-Call Efficiency with Squadcast&#39;s Custom Content Templates](https://dev.to/squadcast/enhancing-on-call-efficiency-with-squadcasts-custom-content-templates-2bko)
+- [Dockerize NEXTJS and Setup Drizzle ORM with PostgreSQL locally with docker in NEXT.JS...](https://dev.to/nsrez/dockerize-nextjs-and-setup-drizzle-orm-with-postgresql-locally-with-docker-in-nextjs-4oli)
+- [What are your goals for week 34 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-34-of-2024-kma)
+- [Debugging Common Lisp: &quot;I feel so much faster and free&quot;](https://dev.to/vindarel/debugging-common-lisp-i-feel-so-much-faster-and-free-4m3f)
+- [DevOps Project: Production Level CI/CD Pipeline Project](https://dev.to/prodevopsguytech/devops-project-production-level-cicd-pipeline-project-1iek)
+- [php: concurrency with processes. pt. 2: interprocess communication with shmop](https://dev.to/gbhorwood/php-concurrency-with-processes-pt-2-interprocess-communication-with-shmop-555k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
