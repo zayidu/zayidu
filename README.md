@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🦆 💏 🐘 Let PostgreSQL &amp; duckdb &quot;sql&quot; together](https://dev.to/adriens/let-postgresql-duckdb-sql-together-183o)
-- [Docker Installation Log for WSL 2 on Windows](https://dev.to/eddiegulay/docker-installation-log-for-wsl-2-on-windows-7kl)
-- [Enhancing User Experience: The Power of AI Chatbots](https://dev.to/sista-ai/enhancing-user-experience-the-power-of-ai-chatbots-3eb7)
-- [[MICROSERVICES] Message Queues e REST – Uma Abordagem com Go, NodeJS e Clean Architecture](https://dev.to/williammdsilva/microservices-message-queues-e-rest-uma-abordagem-com-go-nodejs-e-clean-architecture-l4b)
-- [A beginner&#39;s guide to the Flux-Schnell model by Black-Forest-Labs on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-flux-schnell-model-by-black-forest-labs-on-replicate-24e6)
+- [Day 0: Introduction to Backend Development - Setting the Foundation](https://dev.to/adeleke123/day-0-introduction-to-backend-development-setting-the-foundation-gcb)
+- [💡📖 Essential Git Commands: Your Go-To Cheat Sheet for Efficient Version Control](https://dev.to/fonteeboa/essential-git-commands-your-go-to-cheat-sheet-for-efficient-version-control-1iel)
+- [Official Supabase extension for VS Code and GitHub Copilot](https://dev.to/supabase/official-supabase-extension-for-vs-code-and-github-copilot-3gj4)
+- [5 Micro SaaS Ideas - Real-world - Potential](https://dev.to/patrick_web/5-micro-saas-ideas-real-world-potential-3ge5)
+- [Practical use of Pricing Calculator and TCO for Cost Management in Azure.](https://dev.to/tojumercy1/practical-use-of-pricing-calculator-and-tco-for-cost-management-in-azure-2hcl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
