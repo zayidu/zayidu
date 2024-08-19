@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Secured My Website with SafeLine WAF: A Beginner’s Guide to Easy Deployment](https://dev.to/lulu_liu_c90f973e2f954d7f/how-i-secured-my-website-with-safeline-waf-a-beginners-guide-to-easy-deployment-1854)
-- [In-depth Experience with SafeLine&#39;s Dynamic Protection](https://dev.to/butterflyi8/in-depth-experience-with-safelines-dynamic-protection-3lcp)
-- [Pickup Project: Ruby Gemmine](https://dev.to/theholyspirit/pickup-project-ruby-gemmine-mja)
-- [Introduction to GROWI TypeScript/JavaScript SDK &lpar;Part 3: manipulating attachments&rpar;](https://dev.to/goofmint/introduction-to-growi-typescriptjavascript-sdk-part-3-manipulating-attachments-2jai)
-- [Mastering Docker Image Tagging for Efficient Deployment](https://dev.to/labex/mastering-docker-image-tagging-for-efficient-deployment-3ijb)
+- [I Applied at a FAANG and Failed — Three Interviewing Lessons](https://dev.to/canro91/i-applied-at-a-faang-and-failed-three-interviewing-lessons-1a4k)
+- [Stay ahead in web development: latest news, tools, and insights #46](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-46-3hpn)
+- [Build a Modern Blog with Next.js 14 &amp; Sanity: A Step-by-Step Guide](https://dev.to/coderamrin/build-a-modern-blog-with-nextjs-14-sanity-a-step-by-step-guide-3igd)
+- [Pay Picker: Fun way to decide who&#39;s paying | #BuildBetterOnStellar](https://dev.to/hastodev/pay-picker-fun-way-to-decide-whos-paying-buildbetteronstellar-1o4e)
+- [JWT at a Glance](https://dev.to/eugene-zimin/jwt-at-a-glance-4f1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
