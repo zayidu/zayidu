@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How the Stellar Consensus Protocol &lpar;SCP&rpar; Makes Blockchain Trustworthy and Fast](https://dev.to/oma/how-the-stellar-consensus-protocol-scp-makes-blockchain-trustworthy-and-fast-3pm6)
-- [OpenBSD 7.4 を 7.5 へ アップグレード](https://dev.to/nabbisen/openbsd-74-wo-75-he-atupuguredo-1876)
-- [ResShift 1-Click Windows, RunPod, Massed Compute, Kaggle Installers with Amazing Gradio APP and Batch Image Processing](https://dev.to/furkangozukara/resshift-1-click-windows-runpod-massed-compute-kaggle-installers-with-amazing-gradio-app-and-batch-image-processing-4fmp)
-- [Little Movie Recommending Code](https://dev.to/zoobob5/little-movie-recommending-code-15af)
-- [Git: Keeping your email safe in public repositories](https://dev.to/bad-logic/git-keeping-your-email-safe-in-public-repositories-16cg)
+- [stellar-TUI a terminal user interface for Horizon Stellar](https://dev.to/cirqueira/stellar-tui-a-terminal-user-interface-for-horizon-stellar-11l1)
+- [Snowflake&#39;s Blueprint for Resilience: High Availability and Disaster Recovery](https://dev.to/digitalchemist/snowflakes-blueprint-for-resilience-high-availability-and-disaster-recovery-5h8k)
+- [How to become a better coder](https://dev.to/mosininamdar/how-to-become-a-better-coder-b97)
+- [Use EC2 user data script run a flask app🌐](https://dev.to/jj_tse0405/use-user-data-script-run-a-flask-app-im3)
+- [Depurando Aplicativos Inativos](https://dev.to/flounder4130/depurando-aplicativos-inativos-20o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
