@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ejercicios de logica y programacion: Enfoques y Optimización](https://dev.to/jpinodev/ejercicios-de-logica-y-programacion-enfoques-y-optimizacion-aka)
-- [Installing PHP 8.2/8.3+ on ubuntu 23.04+](https://dev.to/niyiojeyinka/installing-php-8283-on-ubuntu-2304-4op3)
-- [Solana Dips After Recovery Hints. What&#39;s Next?](https://dev.to/endeo/solana-dips-after-recovery-hints-whats-next-hbj)
-- [Mastering Laravel Artisan Commands: Optimize, Tinker, and More](https://dev.to/asfiaaiman/mastering-laravel-artisan-commands-optimize-tinker-and-more-2lm1)
-- [Mining Pools: Explaining Concept Behind New Age of Mining](https://dev.to/endeo/mining-pools-explaining-concept-behind-new-age-of-mining-2c3d)
+- [Unveiling the Power of Vara Network 🚀🔗](https://dev.to/srobver/unveiling-the-power-of-vara-network-468o)
+- [End to End LLMOps Pipeline - Part 8 - AWS EKS](https://dev.to/lakhera2015/end-to-end-llmops-pipeline-part-8-aws-eks-o9d)
+- [Milvus Adventures August 19, 2024](https://dev.to/chrischurilo/milvus-adventures-august-19-2024-448a)
+- [🌐🌟 Why Does Git Dominate? A Curious Look at Its Advantages and Alternatives](https://dev.to/fonteeboa/why-does-git-dominate-a-curious-look-at-its-advantages-and-alternatives-53hh)
+- [Building Something That&#39;s Not a Todo App: An Online Multiplayer Snake Game](https://dev.to/oussama_benhassen_9d031c/building-something-thats-not-a-todo-app-an-online-multiplayer-snake-game-n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
