@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Standard Proposal for Extending Classic Asset&#39;s Behavior - Tutorial](https://dev.to/fazzatti/a-standard-proposal-for-extending-classic-assets-behavior-tutorial-j77)
-- [A Standard Proposal for Extending Classic Asset&#39;s Behavior - Demos](https://dev.to/fazzatti/a-standard-proposal-for-extending-classic-assets-behavior-demos-2e3i)
-- [Covering Index](https://dev.to/ahmedelmehalawi/covering-index-3mni)
-- [IL&lt;&lt;&lpar;Intermedite Language&rpar;](https://dev.to/dilmurod_yaqubbayev_073a5/ilintermedite-language-ph1)
-- [Proxmox Security Series: Strengthening Your Virtual Environment](https://dev.to/sebos/proxmox-security-series-strengthening-your-virtual-environment-5ag9)
+- [Hermes: Decentralized Perpetual Exchange on Stellar](https://dev.to/notishansingh/hermes-decentralized-perpetual-exchange-on-stellar-2l12)
+- [File Organizer Desktop app with Go🚀](https://dev.to/leoantony72/file-organizer-desktop-app-with-go-2bg0)
+- [LeetCode Meditations: Coin Change](https://dev.to/rivea0/leetcode-meditations-coin-change-17ff)
+- [10 Python programming optimisation techniques.](https://dev.to/jamesbright/10-python-programming-optimisation-techniques-5ckf)
+- [MongoDB Associate Developer Certification](https://dev.to/gasparin/mongodb-associate-developer-certification-7ii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
