@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial: Building a Charitable Donation Module for Stellar DeFi Applications](https://dev.to/hunterionize/tutorial-building-a-charitable-donation-module-for-stellar-defi-applications-ob9)
-- [Automating SLO Management: Boost Efficiency, Accuracy, and Reliability](https://dev.to/squadcast/automating-slo-management-boost-efficiency-accuracy-and-reliability-27fg)
-- [FEATURE ENGINEERING FOR DATA SCIENCE](https://dev.to/kiplimo_patrick_24/feature-engineering-for-data-science-3hg6)
-- [GnuPG and Digital Signatures](https://dev.to/teooman/gnupg-and-digital-signatures-5dh8)
-- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/davie7/understanding-your-data-the-essentials-of-exploratory-data-analysis-dd5)
+- [Introducing SafeLine: A Decade of Expertise in Web Application Security](https://dev.to/sherbertill6/introducing-safeline-a-decade-of-expertise-in-web-application-security-5a7b)
+- [Understanding the Distinction: Web4 vs. Web4.0](https://dev.to/web4/understanding-the-distinction-web4-vs-web40-c07)
+- [Read Phone Contacts with JavaScript](https://dev.to/alvaromontoro/read-phone-contacts-with-javascript-1j2)
+- [Protect Your Website with SafeLine: The Leading Open-Source Web Application Firewall](https://dev.to/aeriewhole123/protect-your-website-with-safeline-the-leading-open-source-web-application-firewall-1n2j)
+- [The Complete Incident Management Tech Stack To Increase Performance, Reduce Cost And Optimize Tool Sprawl](https://dev.to/squadcast/the-complete-incident-management-tech-stack-to-increase-performance-reduce-cost-and-optimize-tool-sprawl-7gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
