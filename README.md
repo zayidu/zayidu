@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unveiling the Power of Vara Network 🚀🔗](https://dev.to/srobver/unveiling-the-power-of-vara-network-468o)
-- [End to End LLMOps Pipeline - Part 8 - AWS EKS](https://dev.to/lakhera2015/end-to-end-llmops-pipeline-part-8-aws-eks-o9d)
-- [Milvus Adventures August 19, 2024](https://dev.to/chrischurilo/milvus-adventures-august-19-2024-448a)
-- [🌐🌟 Why Does Git Dominate? A Curious Look at Its Advantages and Alternatives](https://dev.to/fonteeboa/why-does-git-dominate-a-curious-look-at-its-advantages-and-alternatives-53hh)
-- [Building Something That&#39;s Not a Todo App: An Online Multiplayer Snake Game](https://dev.to/oussama_benhassen_9d031c/building-something-thats-not-a-todo-app-an-online-multiplayer-snake-game-n6)
+- [VS Code Themes I&#39;ve Made](https://dev.to/leonard/vs-code-themes-i-made-5doi)
+- [Demystifying the JavaScript Call Stack: How Your Code Really Runs](https://dev.to/adriangube/demystifying-the-javascript-call-stack-how-your-code-really-runs-9m)
+- [How can I remove blank part of image using javascript?](https://dev.to/kresi/how-can-i-remove-blank-part-of-image-using-javascript-3o9i)
+- [3d model in flutter](https://dev.to/syedabdulbasit7/3d-model-in-flutter-20la)
+- [Smaller, Free Database Providers I&#39;ve Found](https://dev.to/leonard/smaller-free-database-providers-ive-found-22fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
