@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL vs MySQL: A Concise Comparison](https://dev.to/dbvismarketing/postgresql-vs-mysql-a-concise-comparison-27hj)
-- [Soroban by Example](https://dev.to/koolamusic/soroban-by-example-5bg4)
-- [Startup on the Stellar network](https://dev.to/livichain/startup-on-the-stellar-network-75d)
-- [System design methodologies as a way to create contracts for dApp](https://dev.to/hunterionize/system-design-methodologies-as-a-way-to-create-contracts-for-dapp-ial)
-- [Stellar Fund | Stellar Challenge Submission](https://dev.to/harishkotra/stellar-fund-stellar-challenge-submission-484g)
+- [Tutorial: Building a Charitable Donation Module for Stellar DeFi Applications](https://dev.to/hunterionize/tutorial-building-a-charitable-donation-module-for-stellar-defi-applications-ob9)
+- [Automating SLO Management: Boost Efficiency, Accuracy, and Reliability](https://dev.to/squadcast/automating-slo-management-boost-efficiency-accuracy-and-reliability-27fg)
+- [FEATURE ENGINEERING FOR DATA SCIENCE](https://dev.to/kiplimo_patrick_24/feature-engineering-for-data-science-3hg6)
+- [GnuPG and Digital Signatures](https://dev.to/teooman/gnupg-and-digital-signatures-5dh8)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/davie7/understanding-your-data-the-essentials-of-exploratory-data-analysis-dd5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
