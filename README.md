@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SOLID: O - Open/Closed Principle &lpar;OCP&rpar;](https://dev.to/paulocappa/solid-o-openclosed-principle-ocp-gc8)
-- [Top Open-Source WAF Projects: Secure Your Website with the Best Tools](https://dev.to/motorbuy6/top-open-source-waf-projects-secure-your-website-with-the-best-tools-1e4o)
-- [SQL-Injections💉](https://dev.to/mohanavamsi0614/sql-injections-4b5k)
-- [What Upgrades Does the Apple 16 Bring to the Table?](https://dev.to/tamaraortiz/what-upgrades-does-the-apple-16-bring-to-the-table-1j85)
-- [&quot;Free WAF&quot; SafeLine Performance Testing](https://dev.to/butterflyi8/free-waf-safeline-performance-testing-4o9p)
+- [Master Your DevOps Interview: Top 50 Questions &amp; Answers for 2024](https://dev.to/dareyio/master-your-devops-interview-top-50-questions-answers-for-2024-1ng0)
+- [🧜‍♂️Building a Modern AI Website with Locomotive Scroll and GSAP🫠](https://dev.to/uicraft_by_pratik/building-a-modern-ai-website-with-locomotive-scroll-and-gsap-10il)
+- [The Top 15 API Testing Frameworks: Your Ultimate Guide](https://dev.to/apilover/the-top-15-api-testing-frameworks-your-ultimate-guide-27ok)
+- [iOS&#39;s Local HTML Preview Woes? Solved. Open Source. Ad-Free.](https://dev.to/aimarkdown/ioss-local-html-preview-woes-solved-open-source-ad-free-2430)
+- [Shell scripting Interview Questions](https://dev.to/pratik_nalawade/shell-scripting-interview-questions-16ff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
