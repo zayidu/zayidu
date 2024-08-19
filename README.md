@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerize NEXTJS and Setup Drizzle ORM with PostgreSQL locally with docker in NEXT.JS...](https://dev.to/nsrez/dockerize-nextjs-and-setup-drizzle-orm-with-postgresql-locally-with-docker-in-nextjs-4oli)
-- [What are your goals for week 34 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-34-of-2024-kma)
-- [Debugging Common Lisp: &quot;I feel so much faster and free&quot;](https://dev.to/vindarel/debugging-common-lisp-i-feel-so-much-faster-and-free-4m3f)
-- [DevOps Project: Production Level CI/CD Pipeline Project](https://dev.to/prodevopsguytech/devops-project-production-level-cicd-pipeline-project-1iek)
-- [php: concurrency with processes. pt. 2: interprocess communication with shmop](https://dev.to/gbhorwood/php-concurrency-with-processes-pt-2-interprocess-communication-with-shmop-555k)
+- [Ejercicios de logica y programacion: Enfoques y Optimización](https://dev.to/jpinodev/ejercicios-de-logica-y-programacion-enfoques-y-optimizacion-aka)
+- [Installing PHP 8.2/8.3+ on ubuntu 23.04+](https://dev.to/niyiojeyinka/installing-php-8283-on-ubuntu-2304-4op3)
+- [Solana Dips After Recovery Hints. What&#39;s Next?](https://dev.to/endeo/solana-dips-after-recovery-hints-whats-next-hbj)
+- [Mastering Laravel Artisan Commands: Optimize, Tinker, and More](https://dev.to/asfiaaiman/mastering-laravel-artisan-commands-optimize-tinker-and-more-2lm1)
+- [Mining Pools: Explaining Concept Behind New Age of Mining](https://dev.to/endeo/mining-pools-explaining-concept-behind-new-age-of-mining-2c3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
