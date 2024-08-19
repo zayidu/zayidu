@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Postmortem: The Popcorn Panic](https://dev.to/nturajo/postmortem-the-popcorn-panic-15m0)
-- [Nextjs中使用axios实现一个动态的下载/上传进度条](https://dev.to/longlikun/nextjszhong-shi-yong-axiosshi-xian-ge-dong-tai-de-xia-zai-shang-chuan-jin-du-tiao-1dph)
-- [Beauty on the Blockchain](https://dev.to/bcrebel/beauty-on-the-blockchain-348c)
-- [How to Create Your Own Form with Power Automate](https://dev.to/wyattdave/how-to-create-your-own-form-with-power-automate-4546)
-- [Thoughts on Real-Time Pattern Detection and AI Principles](https://dev.to/mattferrin/thoughts-on-real-time-pattern-detection-and-ai-principles-3egk)
+- [PostgreSQL vs MySQL: A Concise Comparison](https://dev.to/dbvismarketing/postgresql-vs-mysql-a-concise-comparison-27hj)
+- [Soroban by Example](https://dev.to/koolamusic/soroban-by-example-5bg4)
+- [Startup on the Stellar network](https://dev.to/livichain/startup-on-the-stellar-network-75d)
+- [System design methodologies as a way to create contracts for dApp](https://dev.to/hunterionize/system-design-methodologies-as-a-way-to-create-contracts-for-dapp-ial)
+- [Stellar Fund | Stellar Challenge Submission](https://dev.to/harishkotra/stellar-fund-stellar-challenge-submission-484g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
