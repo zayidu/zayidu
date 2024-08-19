@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Your DevOps Interview: Top 50 Questions &amp; Answers for 2024](https://dev.to/dareyio/master-your-devops-interview-top-50-questions-answers-for-2024-1ng0)
-- [🧜‍♂️Building a Modern AI Website with Locomotive Scroll and GSAP🫠](https://dev.to/uicraft_by_pratik/building-a-modern-ai-website-with-locomotive-scroll-and-gsap-10il)
-- [The Top 15 API Testing Frameworks: Your Ultimate Guide](https://dev.to/apilover/the-top-15-api-testing-frameworks-your-ultimate-guide-27ok)
-- [iOS&#39;s Local HTML Preview Woes? Solved. Open Source. Ad-Free.](https://dev.to/aimarkdown/ioss-local-html-preview-woes-solved-open-source-ad-free-2430)
-- [Shell scripting Interview Questions](https://dev.to/pratik_nalawade/shell-scripting-interview-questions-16ff)
+- [How to Control Your Thoughts as a Developer](https://dev.to/thekarlesi/how-to-control-your-thoughts-as-a-developer-4a7j)
+- [How to Enable LPD Print Service in Windows 11?](https://dev.to/winsides/how-to-enable-lpd-print-service-in-windows-11-g0l)
+- [I Like to Move It, Move It &lpar;Part 2&rpar;](https://dev.to/nmiller15/i-like-to-move-it-move-it-part-2-4p12)
+- [Pokemon Puzzle Game with React Js - Full Project Tutorial](https://dev.to/imrankh13332994/pokemon-puzzle-game-with-react-js-full-project-tutorial-14f8)
+- [Feature Engineering 101: The Art of Enhancing Machine Models](https://dev.to/samtheanalyst/feature-engineering-101-the-art-of-enhancing-machine-models-31e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
