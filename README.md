@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Applied at a FAANG and Failed — Three Interviewing Lessons](https://dev.to/canro91/i-applied-at-a-faang-and-failed-three-interviewing-lessons-1a4k)
-- [Stay ahead in web development: latest news, tools, and insights #46](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-46-3hpn)
-- [Build a Modern Blog with Next.js 14 &amp; Sanity: A Step-by-Step Guide](https://dev.to/coderamrin/build-a-modern-blog-with-nextjs-14-sanity-a-step-by-step-guide-3igd)
-- [Pay Picker: Fun way to decide who&#39;s paying | #BuildBetterOnStellar](https://dev.to/hastodev/pay-picker-fun-way-to-decide-whos-paying-buildbetteronstellar-1o4e)
-- [JWT at a Glance](https://dev.to/eugene-zimin/jwt-at-a-glance-4f1d)
+- [Postmortem: The Popcorn Panic](https://dev.to/nturajo/postmortem-the-popcorn-panic-15m0)
+- [Nextjs中使用axios实现一个动态的下载/上传进度条](https://dev.to/longlikun/nextjszhong-shi-yong-axiosshi-xian-ge-dong-tai-de-xia-zai-shang-chuan-jin-du-tiao-1dph)
+- [Beauty on the Blockchain](https://dev.to/bcrebel/beauty-on-the-blockchain-348c)
+- [How to Create Your Own Form with Power Automate](https://dev.to/wyattdave/how-to-create-your-own-form-with-power-automate-4546)
+- [Thoughts on Real-Time Pattern Detection and AI Principles](https://dev.to/mattferrin/thoughts-on-real-time-pattern-detection-and-ai-principles-3egk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
