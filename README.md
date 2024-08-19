@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Control Your Thoughts as a Developer](https://dev.to/thekarlesi/how-to-control-your-thoughts-as-a-developer-4a7j)
-- [How to Enable LPD Print Service in Windows 11?](https://dev.to/winsides/how-to-enable-lpd-print-service-in-windows-11-g0l)
-- [I Like to Move It, Move It &lpar;Part 2&rpar;](https://dev.to/nmiller15/i-like-to-move-it-move-it-part-2-4p12)
-- [Pokemon Puzzle Game with React Js - Full Project Tutorial](https://dev.to/imrankh13332994/pokemon-puzzle-game-with-react-js-full-project-tutorial-14f8)
-- [Feature Engineering 101: The Art of Enhancing Machine Models](https://dev.to/samtheanalyst/feature-engineering-101-the-art-of-enhancing-machine-models-31e)
+- [Scraping Jobs listed on Hacker News](https://dev.to/hamzarahman/scraping-jobs-listed-on-hacker-news-598g)
+- [How Do You Integrate PHP with MySQL for Database Management?](https://dev.to/jeromfdolk/how-do-you-integrate-php-with-mysql-for-database-management-90l)
+- [🚀 Enhance Your Website&#39;s Interactions with Hover.css](https://dev.to/uicraft_by_pratik/enhance-your-websites-interactions-with-hovercss-2i8i)
+- [Meme Monday](https://dev.to/ben/meme-monday-lgn)
+- [Fixing JAMF Renaming Script Issues](https://dev.to/blacknight318/fixing-jamf-renaming-script-issues-4b3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
