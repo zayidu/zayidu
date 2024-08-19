@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scraping Jobs listed on Hacker News](https://dev.to/hamzarahman/scraping-jobs-listed-on-hacker-news-598g)
-- [How Do You Integrate PHP with MySQL for Database Management?](https://dev.to/jeromfdolk/how-do-you-integrate-php-with-mysql-for-database-management-90l)
-- [🚀 Enhance Your Website&#39;s Interactions with Hover.css](https://dev.to/uicraft_by_pratik/enhance-your-websites-interactions-with-hovercss-2i8i)
-- [Meme Monday](https://dev.to/ben/meme-monday-lgn)
-- [Fixing JAMF Renaming Script Issues](https://dev.to/blacknight318/fixing-jamf-renaming-script-issues-4b3d)
+- [How to Build Your First Mobile App in Flutter: A Step-by-Step Guide](https://dev.to/futuristicgeeks/how-to-build-your-first-mobile-app-in-flutter-a-step-by-step-guide-3f67)
+- [Introducing RacingBars 📊](https://dev.to/hatemhosny/introducing-racingbars-245f)
+- [NMS Migration Made Easy: Get Stakeholders Aligned](https://dev.to/adatole/nms-migration-made-easy-get-stakeholders-aligned-nf4)
+- [Building Advanced Solutions with Power Apps and .NET Core](https://dev.to/paulotorrestech/building-advanced-solutions-with-power-apps-and-net-core-31fk)
+- [Intro to Bluetooth](https://dev.to/ccwell11/intro-to-bluetooth-520e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
