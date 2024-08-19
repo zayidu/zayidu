@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 0: Introduction to Backend Development - Setting the Foundation](https://dev.to/adeleke123/day-0-introduction-to-backend-development-setting-the-foundation-gcb)
-- [💡📖 Essential Git Commands: Your Go-To Cheat Sheet for Efficient Version Control](https://dev.to/fonteeboa/essential-git-commands-your-go-to-cheat-sheet-for-efficient-version-control-1iel)
-- [Official Supabase extension for VS Code and GitHub Copilot](https://dev.to/supabase/official-supabase-extension-for-vs-code-and-github-copilot-3gj4)
-- [5 Micro SaaS Ideas - Real-world - Potential](https://dev.to/patrick_web/5-micro-saas-ideas-real-world-potential-3ge5)
-- [Practical use of Pricing Calculator and TCO for Cost Management in Azure.](https://dev.to/tojumercy1/practical-use-of-pricing-calculator-and-tco-for-cost-management-in-azure-2hcl)
+- [Day 1013 : Somehow](https://dev.to/dwane/day-1013-somehow-18a5)
+- [Pare de fazer comparações patéticas](https://dev.to/ebraim_sambo/pare-de-fazer-comparacoes-pateticas-548k)
+- [Exploring the Program.cs File: Key Components and Configuration in ASP.NET Web API](https://dev.to/emrekocadere/exploring-the-programcs-file-key-components-and-configuration-in-aspnet-web-api-kh4)
+- [GSoC Week 12](https://dev.to/chiemezuo/gsoc-week-12-eik)
+- [File Uploads with HTMX and Golang](https://dev.to/coderonfleek/file-uploads-with-htmx-and-golang-57ad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
