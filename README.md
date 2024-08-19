@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hermes: Decentralized Perpetual Exchange on Stellar](https://dev.to/notishansingh/hermes-decentralized-perpetual-exchange-on-stellar-2l12)
-- [File Organizer Desktop app with Go🚀](https://dev.to/leoantony72/file-organizer-desktop-app-with-go-2bg0)
-- [LeetCode Meditations: Coin Change](https://dev.to/rivea0/leetcode-meditations-coin-change-17ff)
-- [10 Python programming optimisation techniques.](https://dev.to/jamesbright/10-python-programming-optimisation-techniques-5ckf)
-- [MongoDB Associate Developer Certification](https://dev.to/gasparin/mongodb-associate-developer-certification-7ii)
+- [How the Stellar Consensus Protocol &lpar;SCP&rpar; Makes Blockchain Trustworthy and Fast](https://dev.to/oma/how-the-stellar-consensus-protocol-scp-makes-blockchain-trustworthy-and-fast-3pm6)
+- [OpenBSD 7.4 を 7.5 へ アップグレード](https://dev.to/nabbisen/openbsd-74-wo-75-he-atupuguredo-1876)
+- [ResShift 1-Click Windows, RunPod, Massed Compute, Kaggle Installers with Amazing Gradio APP and Batch Image Processing](https://dev.to/furkangozukara/resshift-1-click-windows-runpod-massed-compute-kaggle-installers-with-amazing-gradio-app-and-batch-image-processing-4fmp)
+- [Little Movie Recommending Code](https://dev.to/zoobob5/little-movie-recommending-code-15af)
+- [Git: Keeping your email safe in public repositories](https://dev.to/bad-logic/git-keeping-your-email-safe-in-public-repositories-16cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
