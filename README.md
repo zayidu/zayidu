@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VS Code Themes I&#39;ve Made](https://dev.to/leonard/vs-code-themes-i-made-5doi)
-- [Demystifying the JavaScript Call Stack: How Your Code Really Runs](https://dev.to/adriangube/demystifying-the-javascript-call-stack-how-your-code-really-runs-9m)
-- [How can I remove blank part of image using javascript?](https://dev.to/kresi/how-can-i-remove-blank-part-of-image-using-javascript-3o9i)
-- [3d model in flutter](https://dev.to/syedabdulbasit7/3d-model-in-flutter-20la)
-- [Smaller, Free Database Providers I&#39;ve Found](https://dev.to/leonard/smaller-free-database-providers-ive-found-22fo)
+- [🦆 💏 🐘 Let PostgreSQL &amp; duckdb &quot;sql&quot; together](https://dev.to/adriens/let-postgresql-duckdb-sql-together-183o)
+- [Docker Installation Log for WSL 2 on Windows](https://dev.to/eddiegulay/docker-installation-log-for-wsl-2-on-windows-7kl)
+- [Enhancing User Experience: The Power of AI Chatbots](https://dev.to/sista-ai/enhancing-user-experience-the-power-of-ai-chatbots-3eb7)
+- [[MICROSERVICES] Message Queues e REST – Uma Abordagem com Go, NodeJS e Clean Architecture](https://dev.to/williammdsilva/microservices-message-queues-e-rest-uma-abordagem-com-go-nodejs-e-clean-architecture-l4b)
+- [A beginner&#39;s guide to the Flux-Schnell model by Black-Forest-Labs on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-flux-schnell-model-by-black-forest-labs-on-replicate-24e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
