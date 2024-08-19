@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing SafeLine: A Decade of Expertise in Web Application Security](https://dev.to/sherbertill6/introducing-safeline-a-decade-of-expertise-in-web-application-security-5a7b)
-- [Understanding the Distinction: Web4 vs. Web4.0](https://dev.to/web4/understanding-the-distinction-web4-vs-web40-c07)
-- [Read Phone Contacts with JavaScript](https://dev.to/alvaromontoro/read-phone-contacts-with-javascript-1j2)
-- [Protect Your Website with SafeLine: The Leading Open-Source Web Application Firewall](https://dev.to/aeriewhole123/protect-your-website-with-safeline-the-leading-open-source-web-application-firewall-1n2j)
-- [The Complete Incident Management Tech Stack To Increase Performance, Reduce Cost And Optimize Tool Sprawl](https://dev.to/squadcast/the-complete-incident-management-tech-stack-to-increase-performance-reduce-cost-and-optimize-tool-sprawl-7gc)
+- [SOLID: O - Open/Closed Principle &lpar;OCP&rpar;](https://dev.to/paulocappa/solid-o-openclosed-principle-ocp-gc8)
+- [Top Open-Source WAF Projects: Secure Your Website with the Best Tools](https://dev.to/motorbuy6/top-open-source-waf-projects-secure-your-website-with-the-best-tools-1e4o)
+- [SQL-Injections💉](https://dev.to/mohanavamsi0614/sql-injections-4b5k)
+- [What Upgrades Does the Apple 16 Bring to the Table?](https://dev.to/tamaraortiz/what-upgrades-does-the-apple-16-bring-to-the-table-1j85)
+- [&quot;Free WAF&quot; SafeLine Performance Testing](https://dev.to/butterflyi8/free-waf-safeline-performance-testing-4o9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
