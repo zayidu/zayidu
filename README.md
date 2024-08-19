@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CBJS: Path Traversal 2](https://dev.to/peppa6/cbjs-path-traversal-2-3cca)
-- [Nitric is Terraform for Developers](https://dev.to/rsiv/nitric-is-terraform-for-developers-3560)
-- [My Journey into React: Learning, Building, and Sharing on GitHub](https://dev.to/affan818/my-journey-into-react-learning-building-and-sharing-on-github-2in4)
-- [TOP 4 FEATURES IN VS CODE YOU SHOULD USE!](https://dev.to/mince/top-4-features-in-vs-code-you-should-use-3gl9)
-- [10 Code Snippets Every Developer Should Know: Essential Tools for Everyday Coding](https://dev.to/bytesupreme/10-code-snippets-every-developer-should-know-essential-tools-for-everyday-coding-3908)
+- [Day 0 of #100daysofMiva || Setting up for success](https://dev.to/tobidelly/day-0-of-100daysofmiva-setting-up-for-success-4l6e)
+- [Exploring TypeScript: Types, Interfaces, Generics, and Enums](https://dev.to/iamfaham/exploring-typescript-types-interfaces-generics-and-enums-4g35)
+- [Enabling OpenAI to call functions in your app &lpar;TypeScript / Node.js&rpar;](https://dev.to/encore/how-to-let-chatgpt-call-functions-in-your-app-typescript-nodejs-397i)
+- [RCAs Within Incident Management Tools](https://dev.to/squadcast/rcas-within-incident-management-tools-2ch7)
+- [Enhancing On-Call Efficiency with Squadcast&#39;s Custom Content Templates](https://dev.to/squadcast/enhancing-on-call-efficiency-with-squadcasts-custom-content-templates-2bko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
