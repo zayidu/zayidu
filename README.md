@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Your First Mobile App in Flutter: A Step-by-Step Guide](https://dev.to/futuristicgeeks/how-to-build-your-first-mobile-app-in-flutter-a-step-by-step-guide-3f67)
-- [Introducing RacingBars 📊](https://dev.to/hatemhosny/introducing-racingbars-245f)
-- [NMS Migration Made Easy: Get Stakeholders Aligned](https://dev.to/adatole/nms-migration-made-easy-get-stakeholders-aligned-nf4)
-- [Building Advanced Solutions with Power Apps and .NET Core](https://dev.to/paulotorrestech/building-advanced-solutions-with-power-apps-and-net-core-31fk)
-- [Intro to Bluetooth](https://dev.to/ccwell11/intro-to-bluetooth-520e)
+- [CBJS: Path Traversal 2](https://dev.to/peppa6/cbjs-path-traversal-2-3cca)
+- [Nitric is Terraform for Developers](https://dev.to/rsiv/nitric-is-terraform-for-developers-3560)
+- [My Journey into React: Learning, Building, and Sharing on GitHub](https://dev.to/affan818/my-journey-into-react-learning-building-and-sharing-on-github-2in4)
+- [TOP 4 FEATURES IN VS CODE YOU SHOULD USE!](https://dev.to/mince/top-4-features-in-vs-code-you-should-use-3gl9)
+- [10 Code Snippets Every Developer Should Know: Essential Tools for Everyday Coding](https://dev.to/bytesupreme/10-code-snippets-every-developer-should-know-essential-tools-for-everyday-coding-3908)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
