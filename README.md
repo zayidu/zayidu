@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Interview Game with Practice Problems](https://dev.to/bigsondev/level-up-your-interview-game-with-practice-problems-12d5)
-- [Vector Library versus Vector Database](https://dev.to/zilliz/vector-library-versus-vector-database-3el4)
-- [Understanding Tree Shaking in JavaScript: A Quick Guide](https://dev.to/travislramos/understanding-tree-shaking-in-javascript-a-quick-guide-3iah)
-- [&quot;AI&quot; will not replace you](https://dev.to/senky/ai-will-not-replace-you-lc9)
-- [Create and Configure a GitHub Codespace](https://dev.to/rmaurodev/create-and-configure-a-github-codespace-4nap)
+- [Optional Chaining and Nullish Coalescing](https://dev.to/shagun_mistry/optional-chaining-and-nullish-coalescing-o7j)
+- [Let&#39;s Build a Blockchain with JavaScript! A Beginner&#39;s Guide](https://dev.to/bytesupreme/lets-build-a-blockchain-with-javascript-a-beginners-guide-d55)
+- [My Pen on CodePen](https://dev.to/heba_akkari_5b83cf5e6de1a/my-pen-on-codepen-3a8a)
+- [Concept of Backup and Recovery](https://dev.to/minhduc159/concept-of-backup-and-recovery-1f5n)
+- [Understanding Feature Engineering](https://dev.to/mutrogers/feature-engineering-the-good-parts-38ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
