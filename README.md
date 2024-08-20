@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2.14 Prototyping in Figma](https://dev.to/dominicazuka/214-prototyping-in-figma-5ccj)
-- [Quickly Deploy and Test SafeLine: A Free Open-Source WAF](https://dev.to/sherbertill6/quickly-deploy-and-test-safeline-a-free-open-source-waf-369f)
-- [Generating secrets for applications](https://dev.to/7ji9xmel/generating-secrets-for-applications-4iml)
-- [Understanding the Fetch API: The Future of Network Requests in Web Development](https://dev.to/code_passion/understanding-the-fetch-api-the-future-of-network-requests-in-web-development-5191)
-- [JavaScript Design Patterns - Behavioral - Template](https://dev.to/nhannguyendevjs/javascript-design-patterns-behavioral-template-48d5)
+- [Techniques for Staying Productive in a Digital World](https://dev.to/techstuff/techniques-for-staying-productive-in-a-digital-world-3011)
+- [Learning React](https://dev.to/namjr/learning-react-2k2k)
+- [Overcome the Limitations of Traditional WAFs: How SafeLine Enhances Security](https://dev.to/motorbuy6/overcome-the-limitations-of-traditional-wafs-how-safeline-enhances-security-5dk3)
+- [The Power of SEO: How Small Businesses Can Dominate Search Results](https://dev.to/ismailco96/the-power-of-seo-how-small-businesses-can-dominate-search-results-1bod)
+- [Day 1](https://dev.to/timthoi/day-1-i27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
