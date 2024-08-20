@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Tech Debt in Early-Stage Startups: The Double-Edged Sword](https://dev.to/this-is-learning/navigating-tech-debt-in-early-stage-startups-the-double-edged-sword-4fef)
-- [How To Add Auth With Lucia To Your React/Next.js App - A Step By Step Guide](https://dev.to/wasp/how-to-add-auth-with-lucia-to-your-reactnextjs-app-a-step-by-step-guide-114e)
-- [**Cómo Crear una API REST con Nest.js y TypeScript**](https://dev.to/orlidev/como-crear-una-api-rest-con-nestjs-y-typescript-14j0)
-- [Deploying Basic Infrastructure on AWS with Terraform](https://dev.to/bennyfmo_237/deploying-basic-infrastructure-on-aws-with-terraform-1k68)
-- [How to Configure a Proxy for Node.js Web Scraping: A Simple Guide](https://dev.to/lewis_kerr_2d0d4c5b886b02/how-to-configure-a-proxy-for-nodejs-web-scraping-a-simple-guide-19c8)
+- [Why is everything in software development so f*king complicated?](https://dev.to/climentea/why-is-everything-in-software-development-so-fking-complicated-41p9)
+- [A Comprehensive Guide to Scikit-Learn: Unveiling the Power of Python&#39;s Premier Machine Learning Library](https://dev.to/amitchandra/a-comprehensive-guide-to-scikit-learn-unveiling-the-power-of-pythons-premier-machine-learning-library-jhe)
+- [Help! Problems with I18n into my project &lpar;Laravel + Vue.js&rpar;](https://dev.to/alexanderlee/help-problems-with-i18n-into-my-project-laravel-vuejs-1lff)
+- [A comprehensive list of things to consinder when making a network call in mobile app](https://dev.to/prudhvir3ddy/a-comprehensive-list-of-things-to-consinder-when-making-a-network-call-in-mobile-app-1ga3)
+- [15 TypeScript Features That Will Make You a Better JavaScript Developer](https://dev.to/dipakahirav/15-typescript-features-that-will-make-you-a-better-javascript-developer-1lh1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
