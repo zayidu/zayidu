@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Middleware for Step Functions: Automatically Store and Load Payloads from Amazon S3](https://dev.to/aws-builders/middleware-for-step-functions-automatically-store-and-load-payloads-from-amazon-s3-18g4)
-- [Using Cast in C#: Tutorial](https://dev.to/bytehide/using-cast-in-c-tutorial-31di)
-- [What is the Difference Between let, var, and const in JavaScript : Simple Explanation](https://dev.to/homayunmmdy/what-is-the-difference-between-let-var-and-const-in-javascript-simple-explanation-3pd7)
-- [SafeLine WAF Optimization Tips: A Practical Guide for System Operators](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-waf-optimization-tips-a-practical-guide-for-system-operators-3imp)
-- [The 2024 State of CSS Survey is Now Open!](https://dev.to/sachagreif/the-2024-state-of-css-survey-is-now-open-4o5h)
+- [Improve App Availability with Preemptible Pods and PriorityClasses](https://dev.to/antweiss/improve-app-availability-with-preemptible-pods-and-priorityclasses-3gh2)
+- [Visualizing Truth: Large Language Models Linearly Separate True and False Statements](https://dev.to/mikeyoung44/visualizing-truth-large-language-models-linearly-separate-true-and-false-statements-380h)
+- [Redux vs. Redux Toolkit: A Comprehensive Guide](https://dev.to/irohomolola/redux-vs-redux-toolkit-a-comprehensive-guide-2l7)
+- [Tracking Evolution of Hashtags: Graph-Based Approach for Textual Streams](https://dev.to/mikeyoung44/tracking-evolution-of-hashtags-graph-based-approach-for-textual-streams-fc7)
+- [KANs vs MLPs: A Fair Comparison of Capabilities and Performance](https://dev.to/mikeyoung44/kans-vs-mlps-a-fair-comparison-of-capabilities-and-performance-1i4h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
