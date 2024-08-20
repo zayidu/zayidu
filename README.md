@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optional Chaining and Nullish Coalescing](https://dev.to/shagun_mistry/optional-chaining-and-nullish-coalescing-o7j)
-- [Let&#39;s Build a Blockchain with JavaScript! A Beginner&#39;s Guide](https://dev.to/bytesupreme/lets-build-a-blockchain-with-javascript-a-beginners-guide-d55)
-- [My Pen on CodePen](https://dev.to/heba_akkari_5b83cf5e6de1a/my-pen-on-codepen-3a8a)
-- [Concept of Backup and Recovery](https://dev.to/minhduc159/concept-of-backup-and-recovery-1f5n)
-- [Understanding Feature Engineering](https://dev.to/mutrogers/feature-engineering-the-good-parts-38ec)
+- [Fluvio - An open-source In-motion data framework.](https://dev.to/priyanshuverma/fluvio-a-open-source-in-motion-data-framework-3927)
+- [5 Key EF Core Features Every Developer Should Master](https://dev.to/minhduc159/5-key-ef-core-features-every-developer-should-master-5bod)
+- [Configuring and Consuming Fuzzy Search in .NET with Elasticsearch](https://dev.to/moh_moh701/configuring-and-consuming-fuzzy-search-in-net-with-elasticsearch-4dgj)
+- [How to Make a Phone Vibrate Using JavaScript](https://dev.to/free_programmers/how-to-make-a-phone-vibrate-using-javascript-585n)
+- [Step-by-Step Guide: Hosting Static Webapps on Azure](https://dev.to/oluwatobi2001/step-by-step-guide-hosting-static-webapps-on-azure-19ao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
