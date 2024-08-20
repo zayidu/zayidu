@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;12/08/2024-18/08/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-12082024-18082024-234p)
-- [GITHUB page aesthetics and fun! Snake, Stats, Icons and Videos](https://dev.to/annavi11arrea1/github-page-aesthetics-and-fun-snake-stats-icons-and-videos-1dd7)
-- [LIFO or FIFO? Guide to Stacks/Queues](https://dev.to/jihoonj/lifo-or-fifo-guide-to-stacksqueues-2lf1)
-- [How to Learn SEO Easily](https://dev.to/juddiy/how-to-learn-seo-easily-4jjj)
-- [Developing an app for household management with AWS Amplify](https://dev.to/aws-builders/developing-an-app-for-household-management-with-aws-amplify-2nei)
+- [Building a SaaS product should not be complex](https://dev.to/themuneebh/building-a-saas-product-should-not-be-complex-51mg)
+- [The Comprehensive Guide to Code Review vs. Pair Programming: Understanding Key Differences and Best Practices](https://dev.to/adityabhuyan/the-comprehensive-guide-to-code-review-vs-pair-programming-understanding-key-differences-and-best-practices-5893)
+- [Sherlock Holmes: The Great Lambda Mystery](https://dev.to/programmerraja/sherlock-holmes-the-great-lambda-mystery-324g)
+- [The Most Effective Two-Factor Authentication Methods in 2024: Enhancing Security with Multi-Factor Authentication](https://dev.to/adityabhuyan/the-most-effective-two-factor-authentication-methods-in-2024-enhancing-security-with-multi-factor-authentication-1p24)
+- [PowerShell Proxy | How to set proxy for current session or permanently](https://dev.to/01kg/powershell-proxy-how-to-set-proxy-for-current-session-or-permanently-1h8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
