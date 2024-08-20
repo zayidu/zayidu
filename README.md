@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a SaaS product should not be complex](https://dev.to/themuneebh/building-a-saas-product-should-not-be-complex-51mg)
-- [The Comprehensive Guide to Code Review vs. Pair Programming: Understanding Key Differences and Best Practices](https://dev.to/adityabhuyan/the-comprehensive-guide-to-code-review-vs-pair-programming-understanding-key-differences-and-best-practices-5893)
-- [Sherlock Holmes: The Great Lambda Mystery](https://dev.to/programmerraja/sherlock-holmes-the-great-lambda-mystery-324g)
-- [The Most Effective Two-Factor Authentication Methods in 2024: Enhancing Security with Multi-Factor Authentication](https://dev.to/adityabhuyan/the-most-effective-two-factor-authentication-methods-in-2024-enhancing-security-with-multi-factor-authentication-1p24)
-- [PowerShell Proxy | How to set proxy for current session or permanently](https://dev.to/01kg/powershell-proxy-how-to-set-proxy-for-current-session-or-permanently-1h8g)
+- [Widget #2: Notification Card with Call-to-Action](https://dev.to/dilsemonk/widget-2-notification-card-with-call-to-action-38i9)
+- [Query Explain Type](https://dev.to/mossymoo/query-explain-type-44g5)
+- [Dive into the Fascinating World of Embedded Systems with Professor Paz&#39;s Course! 🤖](https://dev.to/getvm/dive-into-the-fascinating-world-of-embedded-systems-with-professor-pazs-course-4in2)
+- [No More Pages](https://dev.to/itaikla/no-more-pages-5gm7)
+- [Why do Developers Hate Writing API Documentation and How to Address It？](https://dev.to/apilover/why-do-developers-hate-writing-api-documentation-and-how-to-address-it-4p4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
