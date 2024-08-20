@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use boto3 with Google Colab and AWS integration](https://dev.to/kyotanakada/how-to-use-boto3-with-google-colab-and-aws-integration-4c2m)
-- [Top 3 projects to build to learn a programming language](https://dev.to/ezpieco/top-3-projects-to-build-to-learn-a-programming-language-4kpi)
-- [React Server Actions: Enhancing Performance with Server-Side Rendering](https://dev.to/tl23143/react-server-actions-enhancing-performance-with-server-side-rendering-5732)
-- [Today&#39;s Trending Projects: Building Reusable Pagination Component and More](https://dev.to/labex/todays-trending-projects-building-reusable-pagination-component-and-more-4769)
-- [Como usar o React Router Dom versão 6.26.0 em seu projeto com react js.](https://dev.to/michaelmoranis/como-usar-o-react-router-dom-versao-6260-e-como-ter-rotas-aninhadas-em-seu-projeto-com-react-js-4pi8)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;12/08/2024-18/08/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-12082024-18082024-234p)
+- [GITHUB page aesthetics and fun! Snake, Stats, Icons and Videos](https://dev.to/annavi11arrea1/github-page-aesthetics-and-fun-snake-stats-icons-and-videos-1dd7)
+- [LIFO or FIFO? Guide to Stacks/Queues](https://dev.to/jihoonj/lifo-or-fifo-guide-to-stacksqueues-2lf1)
+- [How to Learn SEO Easily](https://dev.to/juddiy/how-to-learn-seo-easily-4jjj)
+- [Developing an app for household management with AWS Amplify](https://dev.to/aws-builders/developing-an-app-for-household-management-with-aws-amplify-2nei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
