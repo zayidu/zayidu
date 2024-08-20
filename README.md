@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reminder about Friendly.rb - one month to the conference](https://dev.to/lucianghinda/reminder-about-friendlyrb-one-month-to-the-conference-1c6p)
-- [The Evolution of React State Management: From Local to Async](https://dev.to/ocodista/the-evolution-of-react-state-management-from-local-to-async-30g9)
-- [How To Deploy Your Angular Project in Hostinger](https://dev.to/laynsleaf/how-to-deploy-your-angular-project-in-hostinger-3115)
-- [Finding the Best Web Host as a Beginner](https://dev.to/laynsleaf/finding-the-best-web-host-as-a-beginner-2l49)
-- [The 2024 Software Engineer&#39;s Survival Guide: Navigating the Job Market Jungle](https://dev.to/recruiter-emily/the-2024-software-engineers-survival-guide-navigating-the-job-market-jungle-1cgh)
+- [Hacking Cookies and PWA on Ubuntu](https://dev.to/jswhisperer/hacking-cookies-and-pwa-on-ubuntu-3j8m)
+- [RAG Pipeline Permissions for iPaaS Platforms](https://dev.to/akritikeswani/rag-pipeline-permissions-for-ipaas-platforms-48dh)
+- [postgres.new: In-browser Postgres with an AI interface](https://dev.to/supabase/postgresnew-in-browser-postgres-with-an-ai-interface-3d6n)
+- [Learning Ruby Core Concepts Part 1](https://dev.to/allopez2024/learning-ruby-core-concepts-part-1-1ek5)
+- [Rails Guides 7.2 in Spanish Translated with OpenAI](https://dev.to/isisharris/rails-guides-72-in-spanish-translated-with-openai-14j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
