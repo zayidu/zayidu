@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Principios SOLID](https://dev.to/sebastianbh/principios-solid-52j6)
-- [Off-the-shelf software vs custom software engineering](https://dev.to/abtosoftware/off-the-shelf-software-vs-custom-software-engineering-5667)
-- [The Security of Amazon Q Developer](https://dev.to/lydiadely/the-security-of-amazon-q-developer-50g)
-- [Protein Dataset](https://dev.to/piyush182004/protein-dataset-5ddb)
-- [The Evolution of Commentary in Sports Broadcast](https://dev.to/muhammad_gulfam_577dfe074/the-evolution-of-commentary-in-sports-broadcast-4kme)
+- [Reminder about Friendly.rb - one month to the conference](https://dev.to/lucianghinda/reminder-about-friendlyrb-one-month-to-the-conference-1c6p)
+- [The Evolution of React State Management: From Local to Async](https://dev.to/ocodista/the-evolution-of-react-state-management-from-local-to-async-30g9)
+- [How To Deploy Your Angular Project in Hostinger](https://dev.to/laynsleaf/how-to-deploy-your-angular-project-in-hostinger-3115)
+- [Finding the Best Web Host as a Beginner](https://dev.to/laynsleaf/finding-the-best-web-host-as-a-beginner-2l49)
+- [The 2024 Software Engineer&#39;s Survival Guide: Navigating the Job Market Jungle](https://dev.to/recruiter-emily/the-2024-software-engineers-survival-guide-navigating-the-job-market-jungle-1cgh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
