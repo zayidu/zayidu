@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking Cookies and PWA on Ubuntu](https://dev.to/jswhisperer/hacking-cookies-and-pwa-on-ubuntu-3j8m)
-- [RAG Pipeline Permissions for iPaaS Platforms](https://dev.to/akritikeswani/rag-pipeline-permissions-for-ipaas-platforms-48dh)
-- [postgres.new: In-browser Postgres with an AI interface](https://dev.to/supabase/postgresnew-in-browser-postgres-with-an-ai-interface-3d6n)
-- [Learning Ruby Core Concepts Part 1](https://dev.to/allopez2024/learning-ruby-core-concepts-part-1-1ek5)
-- [Rails Guides 7.2 in Spanish Translated with OpenAI](https://dev.to/isisharris/rails-guides-72-in-spanish-translated-with-openai-14j4)
+- [Why we use snake_case for variables and camelCase for functions](https://dev.to/alexleduc76/why-we-use-snakecase-for-variables-and-camelcase-for-functions-4hm9)
+- [How to Send Emails Using Gmail SMTP with Cloudflare Email Routing?](https://dev.to/pierre/gmail-with-cloudflare-email-routing-4413)
+- [Como Instalar e Rodar uma IA Localmente no seu Computador](https://dev.to/lmartns/como-instalar-e-rodar-uma-ia-localmente-no-seu-computador-25nb)
+- [Looking for a way to optimize my Javascript code](https://dev.to/excelsheets/looking-for-a-way-to-optimize-my-javascript-code-5661)
+- [🌍💻 Unleashing the Power of the Navigator Object in JavaScript](https://dev.to/fonteeboa/unleashing-the-power-of-the-navigator-object-in-javascript-464i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
