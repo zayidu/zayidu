@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding ARCH Models and Their Implications for Financial Market Analysis](https://dev.to/ejime_oghenefejiro_f906bc/understanding-arch-models-and-their-implications-for-financial-market-analysis-470i)
-- [Let&#39;s Implement Overloading/Multiple-Dispatch](https://dev.to/unworthyenzyme/lets-implement-overloadingmultiple-dispatch-1l0b)
-- [🐳🚀Day 21: Lets Dive in Docker with Real-World Project](https://dev.to/ritesh_dolare/day-21-lets-dive-in-docker-with-real-world-project-893)
-- [Writing Your First JavaScript Code: A Beginner&#39;s Guide](https://dev.to/theblipman/writing-your-first-javascript-code-a-beginners-guide-1oa)
-- [Embrace the &quot;START&quot;: Action drives Ideas💡](https://dev.to/pravani_chh/embrace-the-start-action-drives-ideas-cm4)
+- [Principios SOLID](https://dev.to/sebastianbh/principios-solid-52j6)
+- [Off-the-shelf software vs custom software engineering](https://dev.to/abtosoftware/off-the-shelf-software-vs-custom-software-engineering-5667)
+- [The Security of Amazon Q Developer](https://dev.to/lydiadely/the-security-of-amazon-q-developer-50g)
+- [Protein Dataset](https://dev.to/piyush182004/protein-dataset-5ddb)
+- [The Evolution of Commentary in Sports Broadcast](https://dev.to/muhammad_gulfam_577dfe074/the-evolution-of-commentary-in-sports-broadcast-4kme)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
