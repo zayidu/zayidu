@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When to Use call, erb_template, or html.erb in Rails ViewComponents?](https://dev.to/railsdesigner/when-to-use-call-erbtemplate-or-htmlerb-in-rails-viewcomponents-f8j)
-- [Devs shepherding with #SHEPHERD](https://dev.to/rohan_sharma/devs-shepherding-with-shepherd-1jl2)
-- [AWS Security Specialty - I failed &lpar;721&rpar;, Then I passed! &lpar;810&rpar;](https://dev.to/lbastet/aws-security-specialty-i-failed-721-then-i-passed-810-42h6)
-- [Supporting ancient browsers using modern Web-Tooling](https://dev.to/cmdscale/supporting-ancient-browsers-using-modern-web-tooling-482k)
-- [12 Simple and Effective CSS Transition Effects for Your Website🫠](https://dev.to/uicraft_by_pratik/12-simple-and-effective-css-transition-effects-for-your-website-nah)
+- [Level Up Your Interview Game with Practice Problems](https://dev.to/bigsondev/level-up-your-interview-game-with-practice-problems-12d5)
+- [Vector Library versus Vector Database](https://dev.to/zilliz/vector-library-versus-vector-database-3el4)
+- [Understanding Tree Shaking in JavaScript: A Quick Guide](https://dev.to/travislramos/understanding-tree-shaking-in-javascript-a-quick-guide-3iah)
+- [&quot;AI&quot; will not replace you](https://dev.to/senky/ai-will-not-replace-you-lc9)
+- [Create and Configure a GitHub Codespace](https://dev.to/rmaurodev/create-and-configure-a-github-codespace-4nap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
