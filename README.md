@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Widget #2: Notification Card with Call-to-Action](https://dev.to/dilsemonk/widget-2-notification-card-with-call-to-action-38i9)
-- [Query Explain Type](https://dev.to/mossymoo/query-explain-type-44g5)
-- [Dive into the Fascinating World of Embedded Systems with Professor Paz&#39;s Course! 🤖](https://dev.to/getvm/dive-into-the-fascinating-world-of-embedded-systems-with-professor-pazs-course-4in2)
-- [No More Pages](https://dev.to/itaikla/no-more-pages-5gm7)
-- [Why do Developers Hate Writing API Documentation and How to Address It？](https://dev.to/apilover/why-do-developers-hate-writing-api-documentation-and-how-to-address-it-4p4j)
+- [Host a Reverse Proxy in Seconds](https://dev.to/getambassador2024/host-a-reverse-proxy-in-seconds-18em)
+- [Assalomu Aleykum 17.08.24 biz c++ codlash tilida 7 darsimizni otdik va bu meni tasuryotlarim](https://dev.to/_e9348e45782d50818/assalomu-aleykum-170824-biz-c-codlash-tilida-7-darsimizni-otdik-va-bu-meni-tasuryotlarim-4375)
+- [How CI/CD Transforms Serverless Deployments – A Pizza Delivery Analogy 🍕🚀](https://dev.to/routeclouds/how-cicd-transforms-serverless-deployments-a-pizza-delivery-analogy-n54)
+- [Build a Responsive Portfolio Website with HTML and TailwindCSS: A Beginner’s Guide](https://dev.to/gkhan205/build-a-responsive-portfolio-website-with-html-and-tailwindcss-a-beginners-guide-27fn)
+- [The Challenges of Working in Big Tech: Interview with an ex-employee part 3](https://dev.to/latobibor/the-challenges-of-working-in-big-tech-interview-with-an-ex-employee-part-3-21li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
