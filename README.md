@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is everything in software development so f*king complicated?](https://dev.to/climentea/why-is-everything-in-software-development-so-fking-complicated-41p9)
-- [A Comprehensive Guide to Scikit-Learn: Unveiling the Power of Python&#39;s Premier Machine Learning Library](https://dev.to/amitchandra/a-comprehensive-guide-to-scikit-learn-unveiling-the-power-of-pythons-premier-machine-learning-library-jhe)
-- [Help! Problems with I18n into my project &lpar;Laravel + Vue.js&rpar;](https://dev.to/alexanderlee/help-problems-with-i18n-into-my-project-laravel-vuejs-1lff)
-- [A comprehensive list of things to consinder when making a network call in mobile app](https://dev.to/prudhvir3ddy/a-comprehensive-list-of-things-to-consinder-when-making-a-network-call-in-mobile-app-1ga3)
-- [15 TypeScript Features That Will Make You a Better JavaScript Developer](https://dev.to/dipakahirav/15-typescript-features-that-will-make-you-a-better-javascript-developer-1lh1)
+- [When to Use call, erb_template, or html.erb in Rails ViewComponents?](https://dev.to/railsdesigner/when-to-use-call-erbtemplate-or-htmlerb-in-rails-viewcomponents-f8j)
+- [Devs shepherding with #SHEPHERD](https://dev.to/rohan_sharma/devs-shepherding-with-shepherd-1jl2)
+- [AWS Security Specialty - I failed &lpar;721&rpar;, Then I passed! &lpar;810&rpar;](https://dev.to/lbastet/aws-security-specialty-i-failed-721-then-i-passed-810-42h6)
+- [Supporting ancient browsers using modern Web-Tooling](https://dev.to/cmdscale/supporting-ancient-browsers-using-modern-web-tooling-482k)
+- [12 Simple and Effective CSS Transition Effects for Your Website🫠](https://dev.to/uicraft_by_pratik/12-simple-and-effective-css-transition-effects-for-your-website-nah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
