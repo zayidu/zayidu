@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Coding is Scary and How to Learn Better](https://dev.to/thekarlesi/why-coding-is-scary-and-how-to-learn-better-4nmd)
-- [Ibuprofeno.py💊| #166: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-166-explica-este-codigo-python-256i)
-- [Bye Bye, Try-Catch Blocks: Meet JavaScript&#39;s Safe Assignment Operator Proposal😉](https://dev.to/dharamgfx/bye-bye-try-catch-blocks-meet-javascripts-safe-assignment-operator-proposal-1j7)
-- [From Zero to Front-End Hero: My Journey into Web Development](https://dev.to/natasa90/from-zero-to-front-end-hero-my-journey-into-web-development-2hp3)
-- [Building a Dynamic Gradient Tab Indicator in Flutter](https://dev.to/utitofon_udoekong/building-a-dynamic-gradient-tab-indicator-in-flutter-5b8h)
+- [Navigating Tech Debt in Early-Stage Startups: The Double-Edged Sword](https://dev.to/this-is-learning/navigating-tech-debt-in-early-stage-startups-the-double-edged-sword-4fef)
+- [How To Add Auth With Lucia To Your React/Next.js App - A Step By Step Guide](https://dev.to/wasp/how-to-add-auth-with-lucia-to-your-reactnextjs-app-a-step-by-step-guide-114e)
+- [**Cómo Crear una API REST con Nest.js y TypeScript**](https://dev.to/orlidev/como-crear-una-api-rest-con-nestjs-y-typescript-14j0)
+- [Deploying Basic Infrastructure on AWS with Terraform](https://dev.to/bennyfmo_237/deploying-basic-infrastructure-on-aws-with-terraform-1k68)
+- [How to Configure a Proxy for Node.js Web Scraping: A Simple Guide](https://dev.to/lewis_kerr_2d0d4c5b886b02/how-to-configure-a-proxy-for-nodejs-web-scraping-a-simple-guide-19c8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
