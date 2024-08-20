@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Techniques for Staying Productive in a Digital World](https://dev.to/techstuff/techniques-for-staying-productive-in-a-digital-world-3011)
-- [Learning React](https://dev.to/namjr/learning-react-2k2k)
-- [Overcome the Limitations of Traditional WAFs: How SafeLine Enhances Security](https://dev.to/motorbuy6/overcome-the-limitations-of-traditional-wafs-how-safeline-enhances-security-5dk3)
-- [The Power of SEO: How Small Businesses Can Dominate Search Results](https://dev.to/ismailco96/the-power-of-seo-how-small-businesses-can-dominate-search-results-1bod)
-- [Day 1](https://dev.to/timthoi/day-1-i27)
+- [Middleware for Step Functions: Automatically Store and Load Payloads from Amazon S3](https://dev.to/aws-builders/middleware-for-step-functions-automatically-store-and-load-payloads-from-amazon-s3-18g4)
+- [Using Cast in C#: Tutorial](https://dev.to/bytehide/using-cast-in-c-tutorial-31di)
+- [What is the Difference Between let, var, and const in JavaScript : Simple Explanation](https://dev.to/homayunmmdy/what-is-the-difference-between-let-var-and-const-in-javascript-simple-explanation-3pd7)
+- [SafeLine WAF Optimization Tips: A Practical Guide for System Operators](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-waf-optimization-tips-a-practical-guide-for-system-operators-3imp)
+- [The 2024 State of CSS Survey is Now Open!](https://dev.to/sachagreif/the-2024-state-of-css-survey-is-now-open-4o5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
