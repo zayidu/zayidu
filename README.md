@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Careers in Web Development: Opportunities, Challenges, and Growth](https://dev.to/milutin_stefanovic_813404/navigating-careers-in-web-development-opportunities-challenges-and-growth-4an8)
-- [My google developer account was closed](https://dev.to/kiolk/my-google-developer-account-was-closed-3bej)
-- [CSS In Details](https://dev.to/ashutoshsarangi/css-in-details-3hfk)
-- [Why Local-First has better DX](https://dev.to/phillvdm/why-local-first-has-better-dx-5c0a)
-- [Just Launched My First Paid Product: Feedscope](https://dev.to/vulcanwm/just-launched-my-first-paid-product-feedscope-3i96)
+- [Understanding ARCH Models and Their Implications for Financial Market Analysis](https://dev.to/ejime_oghenefejiro_f906bc/understanding-arch-models-and-their-implications-for-financial-market-analysis-470i)
+- [Let&#39;s Implement Overloading/Multiple-Dispatch](https://dev.to/unworthyenzyme/lets-implement-overloadingmultiple-dispatch-1l0b)
+- [🐳🚀Day 21: Lets Dive in Docker with Real-World Project](https://dev.to/ritesh_dolare/day-21-lets-dive-in-docker-with-real-world-project-893)
+- [Writing Your First JavaScript Code: A Beginner&#39;s Guide](https://dev.to/theblipman/writing-your-first-javascript-code-a-beginners-guide-1oa)
+- [Embrace the &quot;START&quot;: Action drives Ideas💡](https://dev.to/pravani_chh/embrace-the-start-action-drives-ideas-cm4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
