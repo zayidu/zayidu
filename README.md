@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP 8.4 Property Hooks](https://dev.to/ashallendesign/php-84-property-hooks-4nbd)
-- [**Todo lo que Necesitas Saber sobre los Microservicios**](https://dev.to/orlidev/todo-lo-que-necesitas-saber-sobre-los-microservicios-38ea)
-- [Comprehensive Guide to Network Effects](https://dev.to/nilukush/comprehensive-guide-to-network-effects-4mg5)
-- [How I built my first bot using Typescript - Part #3: Code Coverage Reports](https://dev.to/skywarth/how-i-built-my-first-bot-using-typescript-part-3-code-coverage-reports-5958)
-- [How to Optimize Android App Performance in 2024](https://dev.to/appvaze/how-to-optimize-android-app-performance-in-2024-2cd1)
+- [SQL Complete guide for Interview](https://dev.to/madgan95/sql-complete-guide-for-interview-1jdm)
+- [7 Best Remote Job Boards to Land Your Next Dev Work in 2024](https://dev.to/bigsondev/7-best-remote-job-boards-to-land-your-next-dev-work-in-2024-53l0)
+- [How to Use the Mockingbird Docker Image](https://dev.to/ozkeisar/how-to-use-the-mockingbird-docker-image-29mf)
+- [Modern Software engineers are not engineers at all.](https://dev.to/estebanmarin/modern-software-engineers-are-not-engineers-at-all-5db0)
+- [How to Deploy Your React Project with a Custom Domain Using AWS?](https://dev.to/shanu001x/how-to-deploy-your-react-project-with-a-custom-domain-using-aws-1030)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
