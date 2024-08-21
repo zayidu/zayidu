@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 UX Growth Tips + 19 Open-Source Gems!](https://dev.to/adam/ux-growth-tips-19-open-source-gems-2j63)
-- [Boost Your Productivity with These Essential Developer Shortcuts in DevTools and VS Code](https://dev.to/tomasdevs/boost-your-productivity-with-these-essential-developer-shortcuts-in-devtools-and-vs-code-3jok)
-- [Advanced Transact-SQL &lpar;T-SQL&rpar; Queries](https://dev.to/minhduc159/advanced-transact-sql-t-sql-queries-52j7)
-- [Introducing Vocalize.ts: Simplify Voice Interaction in Your Web Application](https://dev.to/j3rry320/introducing-vocalizets-simplify-voice-interaction-in-your-web-application-4c0n)
-- [Automating Secure VPN Setup on AWS with Terraform](https://dev.to/deekshagunde/automating-secure-vpn-setup-on-aws-with-terraform-1lp3)
+- [ARIA attributes in HTML: A comprehensive guide 🌐](https://dev.to/disane/aria-attributes-in-html-a-comprehensive-guide-577e)
+- [Self Hosting with Tailscale and Caddy](https://dev.to/dracarys18/self-hosting-with-tailscale-and-caddy-4o94)
+- [Recommended: &quot;Python Practice Labs&quot; Course](https://dev.to/labex/recommended-python-practice-labs-course-1dhc)
+- [Langchain Chat Assistant using Chainlit App](https://dev.to/jivaniyash/langchain-chat-assistant-using-chainlit-app-2j5a)
+- [The Power of Reconnaissance in Cyber Security: Why You Should Prioritize Recon](https://dev.to/zerodayrebel/the-power-of-reconnaissance-in-cyber-security-why-you-should-prioritize-recon-3od4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
