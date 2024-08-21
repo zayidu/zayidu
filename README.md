@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to style your React Native apps?](https://dev.to/hellonehha/how-to-style-your-react-native-apps-4bb0)
-- [Starting Vuejs as a beginner; Top concepts you need to know](https://dev.to/pluri45/starting-vuejs-as-a-beginner-top-concepts-you-need-to-know-9ib)
-- [664. Strange Printer](https://dev.to/mdarifulhaque/664-strange-printer-2mpj)
-- [Back of the envelope estimations, começando a entrevista de system design](https://dev.to/erick_tmr/back-of-the-envelope-estimations-comecando-a-entrevista-de-system-design-5cc0)
-- [Implementing “Get or Create” in YugabyteDB &lpar;or PostgreSQL&rpar;](https://dev.to/yugabyte/implementing-get-or-create-in-yugabytedb-or-postgresql-1p3e)
+- [How to configure git](https://dev.to/olaniyi_olabode_20904dff2/how-to-configure-git-3fch)
+- [How to use asymetric encryption with PHP and OPENSSL 👺](https://dev.to/razielrodrigues/how-to-use-asymetric-encryption-with-php-and-openssl-idl)
+- [A complete guide on being a great manager, written by an engineer](https://dev.to/akash4393/a-complete-guide-on-being-a-great-manager-written-by-an-engineer-4nem)
+- [Project 1: Expanding Cards - My &#39;50 Projects in 50 Days&#39; Journey](https://dev.to/alishata128/project-1-expanding-cards-my-50-projects-in-50-days-journey-1na6)
+- [Web Graphics Tutorial: Learn by doing!](https://dev.to/annavi11arrea1/web-graphics-tutorial-learn-by-doing-474p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
