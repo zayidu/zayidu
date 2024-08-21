@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to start python or ipython with packages pre-imported.](https://dev.to/a-bentofreire/how-to-start-python-or-ipython-with-packages-pre-imported-17h4)
-- [CSS: selectors and properties](https://dev.to/ridoy_hasan/css-selectors-and-properties-5li)
-- [Collaboration for small projects](https://dev.to/ahmedelsayed_elamin_a349/collaboration-for-small-projects-46b4)
-- [Day 1 of #100DaysofMiva: Unlocking the Secrets of JavaScript](https://dev.to/winky_defi/day-1-of-100daysofmiva-unlocking-the-secrets-of-javascript-1f3d)
-- [Day 1 of #100DaysofMiva: Unlocking the Secrets of JavaScript](https://dev.to/winky_defi/day-1-of-100daysofmiva-unlocking-the-secrets-of-javascript-2epo)
+- [How to style your React Native apps?](https://dev.to/hellonehha/how-to-style-your-react-native-apps-4bb0)
+- [Starting Vuejs as a beginner; Top concepts you need to know](https://dev.to/pluri45/starting-vuejs-as-a-beginner-top-concepts-you-need-to-know-9ib)
+- [664. Strange Printer](https://dev.to/mdarifulhaque/664-strange-printer-2mpj)
+- [Back of the envelope estimations, começando a entrevista de system design](https://dev.to/erick_tmr/back-of-the-envelope-estimations-comecando-a-entrevista-de-system-design-5cc0)
+- [Implementing “Get or Create” in YugabyteDB &lpar;or PostgreSQL&rpar;](https://dev.to/yugabyte/implementing-get-or-create-in-yugabytedb-or-postgresql-1p3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
