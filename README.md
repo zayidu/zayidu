@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Widget #3: Image Card with Overlay Text](https://dev.to/dilsemonk/widget-3-image-card-with-overlay-text-4ccp)
-- [A Simpler Way to Calculate WorldQuant 101 Alphas](https://dev.to/dolphindb/a-simpler-way-to-calculate-worldquant-101-alphas-m32)
-- [🧪 vscode test current file task](https://dev.to/omura_519/vscode-test-current-file-task-1bn8)
-- [#Leveraging AI for Bug Bounty Hunting: A Modern Approach](https://dev.to/gadekar_sachin/leveraging-ai-for-bug-bounty-hunting-a-modern-approach-4idl)
-- [Prisma or TypeORM ?](https://dev.to/visiondotio/prisma-or-typeorm--43bj)
+- [Welcome Thread - v290](https://dev.to/devteam/welcome-thread-v290-g2k)
+- [Mastering Reflection in Golang: When and How to Use It](https://dev.to/tl23143/mastering-reflection-in-golang-when-and-how-to-use-it-pfj)
+- [#48 — In An Excel Table, Find Rows Corresponding to The 1st And The Last Non-Empty Cells in Each Column](https://dev.to/judith677/48-in-an-excel-table-find-rows-corresponding-to-the-1st-and-the-last-non-empty-cells-in-each-column-4gob)
+- [Pre-training, Fine-tuning, and Transfer learning. To make these ideas more relatable, let&#39;s use a real-world analogy](https://dev.to/sreeni5018/pre-training-fine-tuning-and-transfer-learning-to-make-these-ideas-more-relatable-lets-use-a-real-world-analogy-3d0o)
+- [SafeLine: A User-Friendly, Free Web Security WAF Solution](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-a-user-friendly-free-web-security-waf-solution-16ee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
