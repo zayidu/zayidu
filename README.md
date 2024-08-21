@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Posting to Hashnode with API](https://dev.to/vst/cross-posting-to-hashnode-with-api-2g9p)
-- [Understanding Array.reduce&lpar;&rpar;](https://dev.to/avellent/understanding-arrayreduce-1lia)
-- [SafeLine: Secure Your Web Applications Effortlessly](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-secure-your-web-applications-effortlessly-39h)
-- [How to Add Stripe Payment Getaway on Laravel | Latest 2024](https://dev.to/armanrahman/how-to-add-stripe-payment-getaway-on-laravel-latest-2024-1p72)
-- [Day 1: Understanding APIs – The Backbone of Web Communication](https://dev.to/adeleke123/day-1-understanding-apis-the-backbone-of-web-communication-4kn2)
+- [PHP 8.4 Property Hooks](https://dev.to/ashallendesign/php-84-property-hooks-4nbd)
+- [**Todo lo que Necesitas Saber sobre los Microservicios**](https://dev.to/orlidev/todo-lo-que-necesitas-saber-sobre-los-microservicios-38ea)
+- [Comprehensive Guide to Network Effects](https://dev.to/nilukush/comprehensive-guide-to-network-effects-4mg5)
+- [How I built my first bot using Typescript - Part #3: Code Coverage Reports](https://dev.to/skywarth/how-i-built-my-first-bot-using-typescript-part-3-code-coverage-reports-5958)
+- [How to Optimize Android App Performance in 2024](https://dev.to/appvaze/how-to-optimize-android-app-performance-in-2024-2cd1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
