@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nylas AI-Driven Email Categorizer with Priority Detection](https://dev.to/chintanonweb/nylas-ai-driven-email-categorizer-with-priority-detection-55k5)
-- [Code Like a Pro part 1 💻✨](https://dev.to/devella/code-like-a-pro-part-1-2l46)
-- [How to avoid requests to inaccessible resources](https://dev.to/clarafonseca/how-to-avoid-requests-to-inaccessible-resources-49km)
-- [Cloud Resume Challenge](https://dev.to/bleedcopper/cloud-resume-challenge-36h7)
-- [The Ins and Outs of POP 3 &lpar;Post Office Protocol 3&rpar;](https://dev.to/idjuric660/the-ins-and-outs-of-pop-3-post-office-protocol-3-3mng)
+- [Join us for the Neon Open Source Starter Kit Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-us-for-the-neon-open-source-starter-kit-challenge-3000-in-prizes-3oe2)
+- [Perfect note taking system](https://dev.to/morphzg/perfect-note-taking-system-4lhe)
+- [Comment j&#39;automatise l&#39;utilisation Conventional Commits ?](https://dev.to/tontz/comment-jautomatise-lutilisation-conventional-commits--29ea)
+- [React: Criando um componente que transforma Json para Csv](https://dev.to/mayconbalves/react-criando-um-componente-que-transforma-json-para-csv-482f)
+- [Forget using AI for work, what about using AI for learning?](https://dev.to/pitifulpete/forget-using-ai-for-work-what-about-using-ai-for-learning-3392)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
