@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Today&#39;s Trending Projects: Flappy Bird Detection in Video Using Match Template and More](https://dev.to/labex/todays-trending-projects-flappy-bird-detection-in-video-using-match-template-and-more-2njh)
+- [Issue 57 &amp; 58 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-57-58-of-aws-cloud-security-weekly-5fo1)
+- [Understanding JavaScript Objects: The Building Blocks of Your Code](https://dev.to/csrafsan/understanding-javascript-objects-the-building-blocks-of-your-code-1odo)
 - [An &lpar;Im&rpar;mutable Shopping List for a Delicious Pesto Pasta](https://dev.to/lakadaize/an-immutable-shopping-list-for-a-delicious-pesto-pasta-2jd6)
 - [Introduction to TensorFlow Extended &lpar;TFX&rpar;](https://dev.to/kartikmehta8/introduction-to-tensorflow-extended-tfx-4981)
-- [Using AI to Covert Image to Functioning Codes in 2024](https://dev.to/stephanie_obiekezie_0d18f/using-ai-to-covert-image-to-functioning-codes-in-2024-3gki)
-- [Create A Sports Team Roster From Google Docs Template Using Google Sheets Data](https://dev.to/nightwolfdev/create-a-sports-team-roster-from-google-docs-template-using-google-sheets-data-3ol2)
-- [Exploring the Future of Web Development with AI-Generated Content](https://dev.to/raycoder/exploring-the-future-of-web-development-with-ai-generated-content-2420)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
