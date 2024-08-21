@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why we use snake_case for variables and camelCase for functions](https://dev.to/alexleduc76/why-we-use-snakecase-for-variables-and-camelcase-for-functions-4hm9)
-- [How to Send Emails Using Gmail SMTP with Cloudflare Email Routing?](https://dev.to/pierre/gmail-with-cloudflare-email-routing-4413)
-- [Como Instalar e Rodar uma IA Localmente no seu Computador](https://dev.to/lmartns/como-instalar-e-rodar-uma-ia-localmente-no-seu-computador-25nb)
-- [Looking for a way to optimize my Javascript code](https://dev.to/excelsheets/looking-for-a-way-to-optimize-my-javascript-code-5661)
-- [🌍💻 Unleashing the Power of the Navigator Object in JavaScript](https://dev.to/fonteeboa/unleashing-the-power-of-the-navigator-object-in-javascript-464i)
+- [An &lpar;Im&rpar;mutable Shopping List for a Delicious Pesto Pasta](https://dev.to/lakadaize/an-immutable-shopping-list-for-a-delicious-pesto-pasta-2jd6)
+- [Introduction to TensorFlow Extended &lpar;TFX&rpar;](https://dev.to/kartikmehta8/introduction-to-tensorflow-extended-tfx-4981)
+- [Using AI to Covert Image to Functioning Codes in 2024](https://dev.to/stephanie_obiekezie_0d18f/using-ai-to-covert-image-to-functioning-codes-in-2024-3gki)
+- [Create A Sports Team Roster From Google Docs Template Using Google Sheets Data](https://dev.to/nightwolfdev/create-a-sports-team-roster-from-google-docs-template-using-google-sheets-data-3ol2)
+- [Exploring the Future of Web Development with AI-Generated Content](https://dev.to/raycoder/exploring-the-future-of-web-development-with-ai-generated-content-2420)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
