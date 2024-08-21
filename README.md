@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ARIA attributes in HTML: A comprehensive guide 🌐](https://dev.to/disane/aria-attributes-in-html-a-comprehensive-guide-577e)
-- [Self Hosting with Tailscale and Caddy](https://dev.to/dracarys18/self-hosting-with-tailscale-and-caddy-4o94)
-- [Recommended: &quot;Python Practice Labs&quot; Course](https://dev.to/labex/recommended-python-practice-labs-course-1dhc)
-- [Langchain Chat Assistant using Chainlit App](https://dev.to/jivaniyash/langchain-chat-assistant-using-chainlit-app-2j5a)
-- [The Power of Reconnaissance in Cyber Security: Why You Should Prioritize Recon](https://dev.to/zerodayrebel/the-power-of-reconnaissance-in-cyber-security-why-you-should-prioritize-recon-3od4)
+- [Create Device Manager Shortcut in Windows 11](https://dev.to/winsides/create-device-manager-shortcut-in-windows-11-208a)
+- [The Role of Sports Broadcasts in Promoting Grassroots Sports&quot;](https://dev.to/muhammad_gulfam_577dfe074/the-role-of-sports-broadcasts-in-promoting-grassroots-sports-4ch6)
+- [Conhecendo a MERN Stack](https://dev.to/thailanelopes/conhecendo-a-mern-stack-46e4)
+- [Simulating keyboard typing with JavaScript](https://dev.to/zsevic/simulating-keyboard-typing-with-javascript-2p5d)
+- [How to Create a Navigation Bar Using HTML and CSS](https://dev.to/bitlearners/how-to-create-a-navigation-bar-using-html-and-css-3lp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
