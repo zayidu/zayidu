@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Island Liquid Animation with React Native Skia](https://dev.to/willkre/dynamic-island-liquid-animation-with-react-native-skia-5aeg)
-- [Reinstalling Required Software Using Winget](https://dev.to/vhsv90/reinstalling-required-software-using-winget-1h3i)
-- [Scroll-Responsive Animated Header Bar with Expo Router](https://dev.to/willkre/scroll-responsive-animated-header-bar-with-expo-router-1o7m)
-- [Understanding Apache Iceberg&#39;s metadata.json file](https://dev.to/alexmercedcoder/understanding-apache-icebergs-metadatajson-file-23f)
-- [13 VS Code extensions that every Frontend developer should have](https://dev.to/mankaa_dev/13-vs-code-extensions-that-every-frontend-developer-should-have-4pkn)
+- [🚀 UX Growth Tips + 19 Open-Source Gems!](https://dev.to/adam/ux-growth-tips-19-open-source-gems-2j63)
+- [Boost Your Productivity with These Essential Developer Shortcuts in DevTools and VS Code](https://dev.to/tomasdevs/boost-your-productivity-with-these-essential-developer-shortcuts-in-devtools-and-vs-code-3jok)
+- [Advanced Transact-SQL &lpar;T-SQL&rpar; Queries](https://dev.to/minhduc159/advanced-transact-sql-t-sql-queries-52j7)
+- [Introducing Vocalize.ts: Simplify Voice Interaction in Your Web Application](https://dev.to/j3rry320/introducing-vocalizets-simplify-voice-interaction-in-your-web-application-4c0n)
+- [Automating Secure VPN Setup on AWS with Terraform](https://dev.to/deekshagunde/automating-secure-vpn-setup-on-aws-with-terraform-1lp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
