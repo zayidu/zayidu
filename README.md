@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python&#39;s shutil module for Automated Testing](https://dev.to/jankaritech/pythons-shutil-module-for-automated-testing-413n)
-- [🙅10 Common React.js Errors and How to Solve Them✨](https://dev.to/uicraft_by_pratik/10-common-reactjs-errors-and-how-to-solve-them-5181)
-- [Mastering React Styled Components: A Friendly Guide for UI Developers](https://dev.to/nnnirajn/mastering-react-styled-components-a-friendly-guide-for-ui-developers-gof)
-- [20 Useful and Exciting Technical Terms for Junior Programmers 🚀💻](https://dev.to/jankaritech/20-useful-and-exciting-technical-terms-for-junior-programmers-59d7)
-- [JavaScript Execution Context!](https://dev.to/mojahidulislam11/javascript-execution-context-1c59)
+- [Crafting Your Developer Identity: A Blueprint for 2024 🌟](https://dev.to/lokesh_singh/crafting-your-developer-identity-a-blueprint-for-2024-p92)
+- [Master API Observability: Enhancing Reliability and Performance in Your Digital Infrastructure](https://dev.to/getambassador2024/master-api-observability-enhancing-reliability-and-performance-in-your-digital-infrastructure-1jal)
+- [Designing a Web Crawler](https://dev.to/zeeshanali0704/designing-a-web-crawler-4h8b)
+- [How to Embed Instagram Stories on Website?](https://dev.to/brad_ford_34bd0f343aa0b86/how-to-embed-instagram-stories-on-website-27fa)
+- [Creating and Maintaining an Online Developer Forum or Community Platform](https://dev.to/swati1267/creating-and-maintaining-an-online-developer-forum-or-community-platform-6ka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
