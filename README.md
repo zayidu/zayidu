@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Server Components &lpar;RSC&rpar;: The Future of Rendering in React 🔮](https://dev.to/margish288/react-server-components-rsc-the-future-of-rendering-in-react-1hd)
-- [Designing HTTP API clients in .NET](https://dev.to/ilya-chumakov/designing-http-api-clients-in-net-j9e)
-- [How to use the time tag for displaying time in an accessible way](https://dev.to/mike_andreuzza/how-to-use-the-time-tag-for-displaying-time-in-an-accessible-way-2ojm)
-- [5 Project Planning Tools You Need to Succeed in Any Business [With Examples]](https://dev.to/thomasy0ung/5-project-planning-tools-you-need-to-succeed-in-any-business-with-examples-8np)
-- [The Case Against Mocking Libraries](https://dev.to/sharma-tech/the-case-against-mocking-libraries-5b35)
+- [How to Implement Push Notifications with Firebase Cloud Messaging &lpar;FCM&rpar; in Angular](https://dev.to/soham_galande/how-to-implement-push-notifications-with-firebase-cloud-messaging-fcm-in-angular-3ghj)
+- [Building a Progressive Web App &lpar;PWA&rpar; with React: A Comprehensive Guide](https://dev.to/raajaryan/building-a-progressive-web-app-pwa-with-react-a-comprehensive-guide-3kcb)
+- [Protecting Your Data with Advanced Disaster Recovery Solutions](https://dev.to/micromindercs/protecting-your-data-with-advanced-disaster-recovery-solutions-46fd)
+- [Asynchronous I/O: A Practical Guide for Optimizing HPC Workflows with xiRAID in Lustre Environments](https://dev.to/pltnvs/asynchronous-io-a-practical-guide-for-optimizing-hpc-workflows-with-xiraid-in-lustre-environments-1h1a)
+- [Puck 0.15: Dynamic fields](https://dev.to/measuredco/puck-015-dynamic-fields-ilc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
