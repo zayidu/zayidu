@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of Micro Frontends: Why They’re the Future of Web Development](https://dev.to/organization_admin_b1a89a/the-rise-of-micro-frontends-why-theyre-the-future-of-web-development-8e3)
-- [Supabase Realtime: Broadcast and Presence Authorization](https://dev.to/supabase/supabase-realtime-broadcast-and-presence-authorization-2ik)
-- [If You are a Terminal User, You MUST try this tool!](https://dev.to/mammadyahyayev/if-you-are-a-terminal-user-you-must-try-this-tool-5bj7)
-- [MERN Stack Guide](https://dev.to/thailanelopes/mern-stack-guide-3bm9)
-- [How to Store Vibration Sensor Data | ReductStore vs InfluxDB](https://dev.to/reductstore/how-to-store-vibration-sensor-data-reductstore-vs-influxdb-4ndb)
+- [How to start python or ipython with packages pre-imported.](https://dev.to/a-bentofreire/how-to-start-python-or-ipython-with-packages-pre-imported-17h4)
+- [CSS: selectors and properties](https://dev.to/ridoy_hasan/css-selectors-and-properties-5li)
+- [Collaboration for small projects](https://dev.to/ahmedelsayed_elamin_a349/collaboration-for-small-projects-46b4)
+- [Day 1 of #100DaysofMiva: Unlocking the Secrets of JavaScript](https://dev.to/winky_defi/day-1-of-100daysofmiva-unlocking-the-secrets-of-javascript-1f3d)
+- [Day 1 of #100DaysofMiva: Unlocking the Secrets of JavaScript](https://dev.to/winky_defi/day-1-of-100daysofmiva-unlocking-the-secrets-of-javascript-2epo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
