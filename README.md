@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Device Manager Shortcut in Windows 11](https://dev.to/winsides/create-device-manager-shortcut-in-windows-11-208a)
-- [The Role of Sports Broadcasts in Promoting Grassroots Sports&quot;](https://dev.to/muhammad_gulfam_577dfe074/the-role-of-sports-broadcasts-in-promoting-grassroots-sports-4ch6)
-- [Conhecendo a MERN Stack](https://dev.to/thailanelopes/conhecendo-a-mern-stack-46e4)
-- [Simulating keyboard typing with JavaScript](https://dev.to/zsevic/simulating-keyboard-typing-with-javascript-2p5d)
-- [How to Create a Navigation Bar Using HTML and CSS](https://dev.to/bitlearners/how-to-create-a-navigation-bar-using-html-and-css-3lp3)
+- [The Rise of Micro Frontends: Why They’re the Future of Web Development](https://dev.to/organization_admin_b1a89a/the-rise-of-micro-frontends-why-theyre-the-future-of-web-development-8e3)
+- [Supabase Realtime: Broadcast and Presence Authorization](https://dev.to/supabase/supabase-realtime-broadcast-and-presence-authorization-2ik)
+- [If You are a Terminal User, You MUST try this tool!](https://dev.to/mammadyahyayev/if-you-are-a-terminal-user-you-must-try-this-tool-5bj7)
+- [MERN Stack Guide](https://dev.to/thailanelopes/mern-stack-guide-3bm9)
+- [How to Store Vibration Sensor Data | ReductStore vs InfluxDB](https://dev.to/reductstore/how-to-store-vibration-sensor-data-reductstore-vs-influxdb-4ndb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
