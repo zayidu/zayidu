@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing POJOs, JavaBeans, and Spring Beans in Detail](https://dev.to/isaactony/comparing-pojos-javabeans-and-spring-beans-in-detail-3f1)
-- [ReductStore v1.11.0: Changing labels and storage engine optimization](https://dev.to/reductstore/release-v1110-changing-labels-and-storage-engine-optimization-3h3f)
-- [Expose EKS tekton pipeline dashboard with ssl enabled](https://dev.to/asraful_haque/expose-eks-tekton-pipeline-dashboard-with-ssl-enabled-3p4c)
-- [2.5 Creating a serious Svelte Information System - &lpar;b&rpar; Security, Error-handling, Deployment](https://dev.to/mjoycemilburn/ngatesystems-post-series-v2-25-539l)
-- [2.4 Creating a serious Svelte webapp - &lpar;a&rpar; Pages, Layouts, Components](https://dev.to/mjoycemilburn/ngatesystems-post-series-v2-24-4421)
+- [React Server Components &lpar;RSC&rpar;: The Future of Rendering in React 🔮](https://dev.to/margish288/react-server-components-rsc-the-future-of-rendering-in-react-1hd)
+- [Designing HTTP API clients in .NET](https://dev.to/ilya-chumakov/designing-http-api-clients-in-net-j9e)
+- [How to use the time tag for displaying time in an accessible way](https://dev.to/mike_andreuzza/how-to-use-the-time-tag-for-displaying-time-in-an-accessible-way-2ojm)
+- [5 Project Planning Tools You Need to Succeed in Any Business [With Examples]](https://dev.to/thomasy0ung/5-project-planning-tools-you-need-to-succeed-in-any-business-with-examples-8np)
+- [The Case Against Mocking Libraries](https://dev.to/sharma-tech/the-case-against-mocking-libraries-5b35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
