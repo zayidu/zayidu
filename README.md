@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement Push Notifications with Firebase Cloud Messaging &lpar;FCM&rpar; in Angular](https://dev.to/soham_galande/how-to-implement-push-notifications-with-firebase-cloud-messaging-fcm-in-angular-3ghj)
-- [Building a Progressive Web App &lpar;PWA&rpar; with React: A Comprehensive Guide](https://dev.to/raajaryan/building-a-progressive-web-app-pwa-with-react-a-comprehensive-guide-3kcb)
-- [Protecting Your Data with Advanced Disaster Recovery Solutions](https://dev.to/micromindercs/protecting-your-data-with-advanced-disaster-recovery-solutions-46fd)
-- [Asynchronous I/O: A Practical Guide for Optimizing HPC Workflows with xiRAID in Lustre Environments](https://dev.to/pltnvs/asynchronous-io-a-practical-guide-for-optimizing-hpc-workflows-with-xiraid-in-lustre-environments-1h1a)
-- [Puck 0.15: Dynamic fields](https://dev.to/measuredco/puck-015-dynamic-fields-ilc)
+- [SOLID: I - Interface Segregation Principle &lpar;ISP&rpar;](https://dev.to/paulocappa/solid-i-interface-segregation-principle-isp-385f)
+- [Everything You Need To Know About Living Documentation](https://dev.to/dumebii/everything-you-need-to-know-about-living-documentation-130j)
+- [Transforming Real Estate Operations with Advanced Analytics: A Case Study Overview](https://dev.to/pangaea_x/transforming-real-estate-operations-with-advanced-analytics-a-case-study-overview-1c7)
+- [Quick Guide: Git Add and the A, U, R, D, M file markers](https://dev.to/bridget_amana/quick-guide-git-add-and-the-a-u-r-d-m-file-markers-172)
+- [Install Shadcn/ui dengan Laravel + React❤️](https://dev.to/ustamirazib/install-shadcnui-dengan-laravel-react-477h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
