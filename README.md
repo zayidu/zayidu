@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Complete guide for Interview](https://dev.to/madgan95/sql-complete-guide-for-interview-1jdm)
-- [7 Best Remote Job Boards to Land Your Next Dev Work in 2024](https://dev.to/bigsondev/7-best-remote-job-boards-to-land-your-next-dev-work-in-2024-53l0)
-- [How to Use the Mockingbird Docker Image](https://dev.to/ozkeisar/how-to-use-the-mockingbird-docker-image-29mf)
-- [Modern Software engineers are not engineers at all.](https://dev.to/estebanmarin/modern-software-engineers-are-not-engineers-at-all-5db0)
-- [How to Deploy Your React Project with a Custom Domain Using AWS?](https://dev.to/shanu001x/how-to-deploy-your-react-project-with-a-custom-domain-using-aws-1030)
+- [Nylas AI-Driven Email Categorizer with Priority Detection](https://dev.to/chintanonweb/nylas-ai-driven-email-categorizer-with-priority-detection-55k5)
+- [Code Like a Pro part 1 💻✨](https://dev.to/devella/code-like-a-pro-part-1-2l46)
+- [How to avoid requests to inaccessible resources](https://dev.to/clarafonseca/how-to-avoid-requests-to-inaccessible-resources-49km)
+- [Cloud Resume Challenge](https://dev.to/bleedcopper/cloud-resume-challenge-36h7)
+- [The Ins and Outs of POP 3 &lpar;Post Office Protocol 3&rpar;](https://dev.to/idjuric660/the-ins-and-outs-of-pop-3-post-office-protocol-3-3mng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
