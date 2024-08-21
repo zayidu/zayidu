@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting Your Developer Identity: A Blueprint for 2024 🌟](https://dev.to/lokesh_singh/crafting-your-developer-identity-a-blueprint-for-2024-p92)
-- [Master API Observability: Enhancing Reliability and Performance in Your Digital Infrastructure](https://dev.to/getambassador2024/master-api-observability-enhancing-reliability-and-performance-in-your-digital-infrastructure-1jal)
-- [Designing a Web Crawler](https://dev.to/zeeshanali0704/designing-a-web-crawler-4h8b)
-- [How to Embed Instagram Stories on Website?](https://dev.to/brad_ford_34bd0f343aa0b86/how-to-embed-instagram-stories-on-website-27fa)
-- [Creating and Maintaining an Online Developer Forum or Community Platform](https://dev.to/swati1267/creating-and-maintaining-an-online-developer-forum-or-community-platform-6ka)
+- [Comparing POJOs, JavaBeans, and Spring Beans in Detail](https://dev.to/isaactony/comparing-pojos-javabeans-and-spring-beans-in-detail-3f1)
+- [ReductStore v1.11.0: Changing labels and storage engine optimization](https://dev.to/reductstore/release-v1110-changing-labels-and-storage-engine-optimization-3h3f)
+- [Expose EKS tekton pipeline dashboard with ssl enabled](https://dev.to/asraful_haque/expose-eks-tekton-pipeline-dashboard-with-ssl-enabled-3p4c)
+- [2.5 Creating a serious Svelte Information System - &lpar;b&rpar; Security, Error-handling, Deployment](https://dev.to/mjoycemilburn/ngatesystems-post-series-v2-25-539l)
+- [2.4 Creating a serious Svelte webapp - &lpar;a&rpar; Pages, Layouts, Components](https://dev.to/mjoycemilburn/ngatesystems-post-series-v2-24-4421)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
