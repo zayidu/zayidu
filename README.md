@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v290](https://dev.to/devteam/welcome-thread-v290-g2k)
-- [Mastering Reflection in Golang: When and How to Use It](https://dev.to/tl23143/mastering-reflection-in-golang-when-and-how-to-use-it-pfj)
-- [#48 — In An Excel Table, Find Rows Corresponding to The 1st And The Last Non-Empty Cells in Each Column](https://dev.to/judith677/48-in-an-excel-table-find-rows-corresponding-to-the-1st-and-the-last-non-empty-cells-in-each-column-4gob)
-- [Pre-training, Fine-tuning, and Transfer learning. To make these ideas more relatable, let&#39;s use a real-world analogy](https://dev.to/sreeni5018/pre-training-fine-tuning-and-transfer-learning-to-make-these-ideas-more-relatable-lets-use-a-real-world-analogy-3d0o)
-- [SafeLine: A User-Friendly, Free Web Security WAF Solution](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-a-user-friendly-free-web-security-waf-solution-16ee)
+- [Python&#39;s shutil module for Automated Testing](https://dev.to/jankaritech/pythons-shutil-module-for-automated-testing-413n)
+- [🙅10 Common React.js Errors and How to Solve Them✨](https://dev.to/uicraft_by_pratik/10-common-reactjs-errors-and-how-to-solve-them-5181)
+- [Mastering React Styled Components: A Friendly Guide for UI Developers](https://dev.to/nnnirajn/mastering-react-styled-components-a-friendly-guide-for-ui-developers-gof)
+- [20 Useful and Exciting Technical Terms for Junior Programmers 🚀💻](https://dev.to/jankaritech/20-useful-and-exciting-technical-terms-for-junior-programmers-59d7)
+- [JavaScript Execution Context!](https://dev.to/mojahidulislam11/javascript-execution-context-1c59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
