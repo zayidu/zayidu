@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to configure git](https://dev.to/olaniyi_olabode_20904dff2/how-to-configure-git-3fch)
-- [How to use asymetric encryption with PHP and OPENSSL 👺](https://dev.to/razielrodrigues/how-to-use-asymetric-encryption-with-php-and-openssl-idl)
-- [A complete guide on being a great manager, written by an engineer](https://dev.to/akash4393/a-complete-guide-on-being-a-great-manager-written-by-an-engineer-4nem)
-- [Project 1: Expanding Cards - My &#39;50 Projects in 50 Days&#39; Journey](https://dev.to/alishata128/project-1-expanding-cards-my-50-projects-in-50-days-journey-1na6)
-- [Web Graphics Tutorial: Learn by doing!](https://dev.to/annavi11arrea1/web-graphics-tutorial-learn-by-doing-474p)
+- [Making headless components easy to style](https://dev.to/jcmosc/making-headless-components-easy-to-style-89m)
+- [SouthMart : My New Project is Here Finally](https://dev.to/1hamzabek/southmart-my-new-project-is-here-finally-539)
+- [MuleSoft RPA Basics: From Start to Finish](https://dev.to/rootstack/mulesoft-rpa-basics-from-start-to-finish-1gi4)
+- [Managing Multiple GitHub Accounts with SSH Keys](https://dev.to/kbhatnagar/managing-multiple-github-accounts-with-ssh-keys-4a9b)
+- [Angular 18.2: Enhanced Template Syntax and Streamlined Migrations](https://dev.to/ingila185/angular-182-enhanced-template-syntax-and-streamlined-migrations-30c3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
