@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Smart Pointers in C++](https://dev.to/jaehyun_park_52/understanding-smart-pointers-in-c-7g9)
-- [Announcing: The Adventures of Blink Season 2! &lpar;Coming Soon&rpar;](https://dev.to/linkbenjamin/announcing-the-adventures-of-blink-season-2-coming-soon-1nkd)
-- [Outsourced Product Development: A Strategic Approach to Innovation](https://dev.to/nithinsys9786/outsourced-product-development-a-strategic-approach-to-innovation-3eld)
-- [Expert advice on how to build a successful career in data science, including tips on education, skills, and job searching.](https://dev.to/professorkarwish/expert-advice-on-how-to-build-a-successful-career-in-data-science-including-tips-on-education-skills-and-job-searching-2oko)
-- [Filament How to redirect to list page after &lpar;create,update&rpar; using Trait](https://dev.to/johndivam/filamtn-how-to-redirect-to-list-page-after-createupdate-using-trait-5b0i)
+- [📝 Git Cheat Sheet for Developers](https://dev.to/nullvoidkage/git-cheat-sheet-for-developers-424d)
+- [Will Robots Finally Beat CAPTCHA?](https://dev.to/itshayder/will-robots-finally-beat-captcha-526f)
+- [ReactJS |Simple React Calculator](https://dev.to/moses619/reactjs-simple-react-calculator-1b20)
+- [📝 SQL Cheat Sheet for Developers](https://dev.to/nullvoidkage/sql-cheat-sheet-for-developers-5hag)
+- [Day #2 of #100daysofMiva || Python Lists](https://dev.to/tobidelly/day-2-of-100daysofmiva-journey-with-python-2602)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
