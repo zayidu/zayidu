@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Expand Content Reach Using AI for SEO and Translation in Your CMS](https://dev.to/apostrophecms/expand-content-reach-using-ai-for-seo-and-translation-in-your-cms-2jfb)
-- [Dynamic Button UI onclick using JavaScript](https://dev.to/marvellye/dynamic-button-ui-onclick-using-javascript-1pk2)
-- [What are you guys building?](https://dev.to/paul_freeman/what-are-you-guys-building-4k1l)
-- [Google Summer of Code &#39;24 Final Submission](https://dev.to/chiemezuo/google-summer-of-code-24-final-submission-1661)
-- [Beyond the Hype: The Human Stories Shaping AI&#39;s Future](https://dev.to/mahesh_vaikri/beyond-the-hype-the-human-stories-shaping-ais-future-2lmg)
+- [What&#39;s the practical benefit of using &lt;section&gt;?](https://dev.to/taliastorymaker/whats-the-practical-benefit-of-using--2iah)
+- [BuddyInjector](https://dev.to/diegodrf/buddyinjector-143l)
+- [Restful Routing - A Flask API Example](https://dev.to/spencer_adler_880da14d230/restful-routing-a-flask-api-example-5cpb)
+- [Top 10 Tips to Get Started with Open Source and GSoC](https://dev.to/middleware/top-10-tips-to-get-started-with-open-source-and-gsoc-41na)
+- [UnoKeyboard](https://dev.to/uno-platform/unokeyboard-23po)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
