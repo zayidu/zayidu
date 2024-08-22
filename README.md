@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Small Collection 2.6](https://dev.to/sebk69/small-collection-26-4pjf)
-- [take&lpar;&rpar; and take_along_dim&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/take-and-takealongdim-in-pytorch-ij9)
-- [How to Use Socket.IO to Build Your First Multiplayer Tic-Tac-Toe Game](https://dev.to/dipakahirav/how-to-use-socketio-to-build-your-first-multiplayer-tic-tac-toe-game-3f4h)
-- [Optimistic UI: Mejora la experiencia de usuario en tus aplicaciones frontend](https://dev.to/joanperamas/optimistic-ui-mejora-la-experiencia-de-usuario-en-tus-aplicaciones-frontend-124e)
-- [Improving Bitcoin: My experience contributing to Utreexo for SOB 2024.](https://dev.to/alainjr10/improving-bitcoin-my-experience-contributing-to-utreexo-for-sob-2024-1g7o)
+- [Build a QR Code Generator Website](https://dev.to/abhishekgurjar/build-a-qr-code-generator-website-3bo)
+- [The Role of AI in Personalized Medicine: Enhancing Treatment and Reducing Costs](https://dev.to/gyrizsystems/the-role-of-ai-in-personalized-medicine-enhancing-treatment-and-reducing-costs-4og5)
+- [The Impact of AI on Coding: Transforming the Future of Programming](https://dev.to/umar_ali_c39700a2234ab1e7/the-impact-of-ai-on-coding-transforming-the-future-of-programming-2kne)
+- [Blazor, dotnet CLI, VS Code &amp; Tailwind - how to set that up?](https://dev.to/voodu/project-configuration-with-blazor-dotnet-cli-vs-code-20b6)
+- [Build a Simple Calculator Website](https://dev.to/abhishekgurjar/build-a-simple-calculator-n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
