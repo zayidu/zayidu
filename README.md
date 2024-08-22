@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to Clarity: The Critical Role of Architecture](https://dev.to/m_midas/from-chaos-to-clarity-the-critical-role-of-architecture-3p7i)
-- [How To Activate Apple Passkeys on iPhones](https://dev.to/corbado/how-to-activate-apple-passkeys-on-iphones-1pg)
-- [Automation: A Game Changer for End-to-End Testing](https://dev.to/calsoftinc/automation-a-game-changer-for-end-to-end-testing-d)
-- [React | Monitor multiple loading status on the same page](https://dev.to/ishi_hisashi/react-detect-completion-of-multiple-loading-on-the-same-page-ebj)
-- [Custom Dialog Box Excitement](https://dev.to/annavi11arrea1/custom-dialog-box-excitement-57j6)
+- [Mastering SQL Views: Simplify and Optimize Your Queries](https://dev.to/dbvismarketing/mastering-sql-views-simplify-and-optimize-your-queries-247k)
+- [The Legacy of Innovation: How Muslim Scholars Shaped Modern Science](https://dev.to/muhammad_raihan/the-legacy-of-innovation-how-muslim-scholars-shaped-modern-science-bdj)
+- [4 Small &lpar;But Easily Fixable&rpar; Mistakes New 3D Artists Make When Starting Out](https://dev.to/soulis98/4-small-but-easily-fixable-mistakes-new-3d-artists-make-when-starting-out-1235)
+- [Maximizing SEO and Performance with Next.js: Strategies from an Activity Booking Platform Project](https://dev.to/marieooq/maximizing-seo-and-performance-with-nextjs-strategies-from-an-activity-booking-platform-project-86a)
+- [Ilmuwan Muslim Yang Memberikan Sumbangsih dalam ilmu pengetahuan modern](https://dev.to/hafid_karim_457853ed77ba9/ilmuwan-muslim-yang-memberikan-sumbangsih-dalam-ilmu-pengetahuan-modern-1kpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
