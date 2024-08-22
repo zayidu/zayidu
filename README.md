@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Ansible - The Beginner’s Guide : Day 30 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/getting-started-with-ansible-the-beginners-guide-day-30-of-50-days-devops-tools-series-1iae)
-- [How to Remove Copilot from Taskbar without Disabling it Permanently?](https://dev.to/winsides/how-to-remove-copilot-from-taskbar-without-disabling-it-permanently-597d)
-- [Hi Devs, I am new here](https://dev.to/saikat_das/hi-devs-i-am-new-here-3la5)
-- [The difference between readonly and const in Type Script](https://dev.to/noah-00/the-difference-between-readonly-and-const-in-type-script-3po3)
-- [Domine Golang com Nunu: Guia completo](https://dev.to/fernandomullerjr/domine-golang-com-nunu-guia-completo-1j81)
+- [Melhorando o desempenho de aplicações Spring Boot - Parte I](https://dev.to/mathstylish/melhorando-a-performance-de-aplicacoes-spring-boot-parte-i-58jl)
+- [🏁Unleash the Full Power of Your Laptop on Linux 🚀](https://dev.to/kpndevroot/unleash-the-full-power-of-your-laptop-on-linux-5dpl)
+- [How to Downsample Your Data Efficiently](https://dev.to/dolphindb/how-to-downsample-your-data-efficiently-3037)
+- [Tutorial memakai node js sampai memunculkan hello world](https://dev.to/gaza_alfath/tutorial-memakai-node-js-sampai-memunculkan-hello-world-2pia)
+- [Alias your module directory with Node standard import mapping](https://dev.to/phyothiha/alias-your-module-directory-with-node-standard-import-mapping-3gpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
