@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OctoTube: Voice Search for YouTube](https://dev.to/gracezzhang/octotube-voice-search-for-youtube-1f3j)
-- [Are you ready for PYTHON?](https://dev.to/ankit_rattan/are-you-ready-for-python-5e79)
-- [Speaker Diarization in Python](https://dev.to/gracezzhang/speaker-diarization-in-python-235i)
-- [Beginners JavaScript](https://dev.to/ankit_rattan/beginners-javascript-4h5e)
-- [How to Switch Your Website to Dark Mode Using CSS and JavaScript](https://dev.to/msarabi/how-to-switch-your-website-to-dark-mode-using-css-and-javascript-670)
+- [Why Naming Domain Rules Is Essential for Code Semantics](https://dev.to/albertsouza1/why-naming-domain-rules-is-essential-for-code-semantics-nfc)
+- [Day 1016 : Unorthodox](https://dev.to/dwane/day-1016-unorthodox-571o)
+- [Leveraging Federated Learning for Privacy-Preserving Systems: A Zero-Knowledge Approach](https://dev.to/nkianil/leveraging-federated-learning-for-privacy-preserving-systems-a-zero-knowledge-approach-20j3)
+- [Redux the beginners guide!](https://dev.to/gianni_cast/redux-the-beginners-guide-dn9)
+- [Effective Map Composables: Draggable Markers](https://dev.to/bubenheimer/effective-map-composables-draggable-markers-3bea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
