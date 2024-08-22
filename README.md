@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Website Security for Free with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/boost-your-website-security-for-free-with-safeline-waf-5d7j)
-- [Why i switched from ChatGPT, Cluade, Gemini and Perpleixty to AyeSoul?](https://dev.to/fretny/why-i-switched-from-chatgpt-cluade-gemini-and-perpleixty-to-ayesoul-428)
-- [How to Set PS1 / What&#39;s your PS1?](https://dev.to/theholyspirit/how-to-set-ps1-whats-your-ps1-4pin)
-- [Data structures 101: How to choose the right data structure](https://dev.to/fahimulhaq/data-structures-101-how-to-choose-the-right-data-structure-13bm)
-- [Introducing New Features on Codest: Generate Flutter and React Native Apps!](https://dev.to/codelink/introducing-new-features-on-codest-generate-flutter-and-react-native-apps-1dme)
+- [Kotlin Coroutines and OpenTelemetry tracing](https://dev.to/nfrankel/kotlin-coroutines-and-opentelemetry-tracing-2kdh)
+- [Optimizing Docker Images for Size and Security: A Comprehensive Guide](https://dev.to/akshat_gautam/optimizing-docker-images-for-size-and-security-a-comprehensive-guide-4df0)
+- [Implement third-party authentication in Electron Desktop applications using the web platform on Linux.](https://dev.to/jacksonmoridev0507/implement-third-party-authentication-in-electron-desktop-applications-using-the-web-platform-on-linux-39bd)
+- [📚 The Ultimate React Journey: From Zero to Hero in 50 Lessons](https://dev.to/lokesh_singh/the-ultimate-react-journey-from-zero-to-hero-in-50-lessons-2gic)
+- [Linux Permissions Weightage Explained !!](https://dev.to/dhavalgojiya/linux-permissions-weightage-explained--c7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
