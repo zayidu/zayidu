@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [foundationda 8 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-8-dars-22i1)
-- [The Ultimate Free WAF For Webmaster-SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/the-ultimate-free-waf-for-webmaster-safeline-2d9j)
-- [Is PHP Really Dead? Unveiling the Truth Through PHP’s Evolution](https://dev.to/gitter4coding/is-php-really-dead-unveiling-the-truth-through-phps-evolution-2d84)
-- [100 days of Miva](https://dev.to/abdul_web/100-days-of-miva-43b3)
-- [Enable touchpad tapping](https://dev.to/darty/enable-touchpad-tapping-3oei)
+- [5 Hourly Planner Templates to Streamline Your Day With Precision](https://dev.to/thomasy0ung/5-hourly-planner-templates-to-streamline-your-day-with-precision-14ec)
+- [SOLID: D - Dependency Inversion Principle &lpar;DIP&rpar;](https://dev.to/paulocappa/solid-d-dependency-inversion-principle-dip-34hd)
+- [Index tables from production console](https://dev.to/epigene/index-tables-from-production-console-5fbm)
+- [Top 5 Tools to Check Domain IP and Improve Network Management](https://dev.to/johnmiller/top-5-tools-to-check-domain-ip-and-improve-network-management-1mg3)
+- [The Best Software Solutions for Modern Software Development](https://dev.to/jhk_info/the-best-software-solutions-for-modern-software-development-3he5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
