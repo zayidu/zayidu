@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Trie Algorithm || Auto Complete feature using Javascript](https://dev.to/ashutoshsarangi/trie-algorithm-auto-complete-feature-using-javascript-2f06)
-- [Do you have a system in place?](https://dev.to/zaparka/do-you-have-a-system-in-place-1ha0)
-- [Node.js&#39;te Pino ile Performanslı Loglama: Nedir ve Nasıl Kullanılır?](https://dev.to/kadirerbas/nodejste-pino-ile-performansli-loglama-nedir-ve-nasil-kullanilir-267o)
-- [Mastering NodeJS: REST APIs, Middleware, and HTTP Headers](https://dev.to/imsushant12/mastering-nodejs-rest-apis-middleware-and-http-headers-1l6n)
-- [15 Clever CSS One-Liners Every UI Developer Should Know](https://dev.to/nnnirajn/15-clever-css-one-liners-every-ui-developer-should-know-50g7)
+- [Expand Content Reach Using AI for SEO and Translation in Your CMS](https://dev.to/apostrophecms/expand-content-reach-using-ai-for-seo-and-translation-in-your-cms-2jfb)
+- [Dynamic Button UI onclick using JavaScript](https://dev.to/marvellye/dynamic-button-ui-onclick-using-javascript-1pk2)
+- [What are you guys building?](https://dev.to/paul_freeman/what-are-you-guys-building-4k1l)
+- [Google Summer of Code &#39;24 Final Submission](https://dev.to/chiemezuo/google-summer-of-code-24-final-submission-1661)
+- [Beyond the Hype: The Human Stories Shaping AI&#39;s Future](https://dev.to/mahesh_vaikri/beyond-the-hype-the-human-stories-shaping-ais-future-2lmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
