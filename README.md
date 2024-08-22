@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📝 Git Cheat Sheet for Developers](https://dev.to/nullvoidkage/git-cheat-sheet-for-developers-424d)
-- [Will Robots Finally Beat CAPTCHA?](https://dev.to/itshayder/will-robots-finally-beat-captcha-526f)
-- [ReactJS |Simple React Calculator](https://dev.to/moses619/reactjs-simple-react-calculator-1b20)
-- [📝 SQL Cheat Sheet for Developers](https://dev.to/nullvoidkage/sql-cheat-sheet-for-developers-5hag)
-- [Day #2 of #100daysofMiva || Python Lists](https://dev.to/tobidelly/day-2-of-100daysofmiva-journey-with-python-2602)
+- [Better Inline Validation for Rails Forms &lpar;with ViewComponent or partials&rpar;](https://dev.to/railsdesigner/better-inline-validation-for-rails-forms-with-viewcomponent-or-partials-436a)
+- [Fun with macOS&#39;s SIP](https://dev.to/aviramha/fun-with-macoss-sip-2646)
+- [foundationda 9 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-9-dars-145o)
+- [아이폰 단축어에서 POST API 호출해서 텔레그램으로 인증코드 공유하기](https://dev.to/__aa3e4bc832ba7032bfa3/aipon-dancugeoeseo-post-api-hoculhaeseo-telregeuraemeuro-injeungkodeu-gongyuhagi-1hj0)
+- [Official Write-Up for the Lucky Panther CTF TryHackMe Room](https://dev.to/saramazal/official-write-up-for-the-lucky-panther-ctf-tryhackme-room-lp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
