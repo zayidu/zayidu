@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Today&#39;s Trending Projects: Extract Rightmost Digit in Python and More](https://dev.to/labex/todays-trending-projects-extract-rightmost-digit-in-python-and-more-2lp4)
-- [Downloading Player Data from Clash of Clans API](https://dev.to/wydoinn/downloading-player-data-from-clash-of-clans-api-a-python-guide-4bdj)
-- [10 Mobile App Projects to Elevate Your Skills to Senior Developer Level](https://dev.to/satoshi_nakamoto_9d16a72a/10-mobile-app-projects-to-elevate-your-skills-to-senior-developer-level-5b1)
-- [Unlocking the Power of Data Science and Big Data: Advanced Insights and Resources](https://dev.to/hamda_mirza_c7a7d996a13ef/unlocking-the-power-of-data-science-and-big-data-advanced-insights-and-resources-5aeo)
-- [I’ve rewritten my JS project in Golang and want to share my experience.](https://dev.to/nesterow/ive-rewritten-one-of-my-nodejs-tools-in-golang-and-want-to-share-my-experience-all)
+- [Getting Started with Ansible - The Beginner’s Guide : Day 30 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/getting-started-with-ansible-the-beginners-guide-day-30-of-50-days-devops-tools-series-1iae)
+- [How to Remove Copilot from Taskbar without Disabling it Permanently?](https://dev.to/winsides/how-to-remove-copilot-from-taskbar-without-disabling-it-permanently-597d)
+- [Hi Devs, I am new here](https://dev.to/saikat_das/hi-devs-i-am-new-here-3la5)
+- [The difference between readonly and const in Type Script](https://dev.to/noah-00/the-difference-between-readonly-and-const-in-type-script-3po3)
+- [Domine Golang com Nunu: Guia completo](https://dev.to/fernandomullerjr/domine-golang-com-nunu-guia-completo-1j81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
