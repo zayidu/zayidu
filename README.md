@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Software Testing: A Comprehensive Guide for Software Testers](https://dev.to/misterankit/automated-software-testing-a-comprehensive-guide-for-software-testers-fb)
-- [Software Component Design Principles](https://dev.to/brandongautama/software-component-design-principles-2g2c)
-- [🚀 Introducing LogLLM: Automate Your ML Experiment Logging with LLMs](https://dev.to/shure/introducing-logllm-automate-your-ml-experiment-logging-with-llms-592j)
-- [Dive into the Theoretical Foundations of Computer Science with MIT&#39;s Automata, Computability, and Complexity Course 🤖](https://dev.to/getvm/dive-into-the-theoretical-foundations-of-computer-science-with-mits-automata-computability-and-complexity-course-53ph)
-- [5 React Mistakes You Should Avoid &lpar;and How to Fix Them&rpar;](https://dev.to/vyan/5-react-mistakes-you-should-avoid-and-how-to-fix-them-339m)
+- [From Chaos to Clarity: The Critical Role of Architecture](https://dev.to/m_midas/from-chaos-to-clarity-the-critical-role-of-architecture-3p7i)
+- [How To Activate Apple Passkeys on iPhones](https://dev.to/corbado/how-to-activate-apple-passkeys-on-iphones-1pg)
+- [Automation: A Game Changer for End-to-End Testing](https://dev.to/calsoftinc/automation-a-game-changer-for-end-to-end-testing-d)
+- [React | Monitor multiple loading status on the same page](https://dev.to/ishi_hisashi/react-detect-completion-of-multiple-loading-on-the-same-page-ebj)
+- [Custom Dialog Box Excitement](https://dev.to/annavi11arrea1/custom-dialog-box-excitement-57j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
