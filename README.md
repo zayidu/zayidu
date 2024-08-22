@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a QR Code Generator Website](https://dev.to/abhishekgurjar/build-a-qr-code-generator-website-3bo)
-- [The Role of AI in Personalized Medicine: Enhancing Treatment and Reducing Costs](https://dev.to/gyrizsystems/the-role-of-ai-in-personalized-medicine-enhancing-treatment-and-reducing-costs-4og5)
-- [The Impact of AI on Coding: Transforming the Future of Programming](https://dev.to/umar_ali_c39700a2234ab1e7/the-impact-of-ai-on-coding-transforming-the-future-of-programming-2kne)
-- [Blazor, dotnet CLI, VS Code &amp; Tailwind - how to set that up?](https://dev.to/voodu/project-configuration-with-blazor-dotnet-cli-vs-code-20b6)
-- [Build a Simple Calculator Website](https://dev.to/abhishekgurjar/build-a-simple-calculator-n6)
+- [Closure in Javascript&lpar;Bangla&rpar; With Joy](https://dev.to/joy5k/closure-in-javascriptbangla-with-joy-5hh9)
+- [Git commands info](https://dev.to/olaniyi_akinkunmi_9c3038f/git-commands-info-379j)
+- [Lista de Exercícios para treinar Lógica de Programação 2.](https://dev.to/pedro_borgesdev_ee699bec/lista-de-exercicios-para-treinar-logica-de-programacao-2-4p0g)
+- [Vue3: diretivas — cheat sheet &lpar;built-in e custom&rpar;](https://dev.to/sucodelarangela/vue-3-diretivas-cheat-sheet-built-in-e-custom-30n8)
+- [How Apple Product Launch Reduced Akamai&#39;s CDN Availability to 97%](https://dev.to/pmbanugo/how-apple-product-launch-reduced-akamais-cdn-availability-to-97-18cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
