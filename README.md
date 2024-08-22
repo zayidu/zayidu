@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Closure in Javascript&lpar;Bangla&rpar; With Joy](https://dev.to/joy5k/closure-in-javascriptbangla-with-joy-5hh9)
-- [Git commands info](https://dev.to/olaniyi_akinkunmi_9c3038f/git-commands-info-379j)
-- [Lista de Exercícios para treinar Lógica de Programação 2.](https://dev.to/pedro_borgesdev_ee699bec/lista-de-exercicios-para-treinar-logica-de-programacao-2-4p0g)
-- [Vue3: diretivas — cheat sheet &lpar;built-in e custom&rpar;](https://dev.to/sucodelarangela/vue-3-diretivas-cheat-sheet-built-in-e-custom-30n8)
-- [How Apple Product Launch Reduced Akamai&#39;s CDN Availability to 97%](https://dev.to/pmbanugo/how-apple-product-launch-reduced-akamais-cdn-availability-to-97-18cj)
+- [OctoTube: Voice Search for YouTube](https://dev.to/gracezzhang/octotube-voice-search-for-youtube-1f3j)
+- [Are you ready for PYTHON?](https://dev.to/ankit_rattan/are-you-ready-for-python-5e79)
+- [Speaker Diarization in Python](https://dev.to/gracezzhang/speaker-diarization-in-python-235i)
+- [Beginners JavaScript](https://dev.to/ankit_rattan/beginners-javascript-4h5e)
+- [How to Switch Your Website to Dark Mode Using CSS and JavaScript](https://dev.to/msarabi/how-to-switch-your-website-to-dark-mode-using-css-and-javascript-670)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
