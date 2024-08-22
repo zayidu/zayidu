@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin Coroutines and OpenTelemetry tracing](https://dev.to/nfrankel/kotlin-coroutines-and-opentelemetry-tracing-2kdh)
-- [Optimizing Docker Images for Size and Security: A Comprehensive Guide](https://dev.to/akshat_gautam/optimizing-docker-images-for-size-and-security-a-comprehensive-guide-4df0)
-- [Implement third-party authentication in Electron Desktop applications using the web platform on Linux.](https://dev.to/jacksonmoridev0507/implement-third-party-authentication-in-electron-desktop-applications-using-the-web-platform-on-linux-39bd)
-- [📚 The Ultimate React Journey: From Zero to Hero in 50 Lessons](https://dev.to/lokesh_singh/the-ultimate-react-journey-from-zero-to-hero-in-50-lessons-2gic)
-- [Linux Permissions Weightage Explained !!](https://dev.to/dhavalgojiya/linux-permissions-weightage-explained--c7j)
+- [foundationda 8 - dars](https://dev.to/rivojiddin_f9740e8fb02701/foundationda-8-dars-22i1)
+- [The Ultimate Free WAF For Webmaster-SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/the-ultimate-free-waf-for-webmaster-safeline-2d9j)
+- [Is PHP Really Dead? Unveiling the Truth Through PHP’s Evolution](https://dev.to/gitter4coding/is-php-really-dead-unveiling-the-truth-through-phps-evolution-2d84)
+- [100 days of Miva](https://dev.to/abdul_web/100-days-of-miva-43b3)
+- [Enable touchpad tapping](https://dev.to/darty/enable-touchpad-tapping-3oei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
