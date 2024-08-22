@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Naming Domain Rules Is Essential for Code Semantics](https://dev.to/albertsouza1/why-naming-domain-rules-is-essential-for-code-semantics-nfc)
-- [Day 1016 : Unorthodox](https://dev.to/dwane/day-1016-unorthodox-571o)
-- [Leveraging Federated Learning for Privacy-Preserving Systems: A Zero-Knowledge Approach](https://dev.to/nkianil/leveraging-federated-learning-for-privacy-preserving-systems-a-zero-knowledge-approach-20j3)
-- [Redux the beginners guide!](https://dev.to/gianni_cast/redux-the-beginners-guide-dn9)
-- [Effective Map Composables: Draggable Markers](https://dev.to/bubenheimer/effective-map-composables-draggable-markers-3bea)
+- [Building a Blog API with Golang using Gin and Gorm](https://dev.to/hazaloolu/building-a-blog-api-with-golang-using-gin-and-gorm-451o)
+- [macOS by Tutorials](https://dev.to/trozware/macos-by-tutorials-52)
+- [Live Demos: Do they always need to be live?](https://dev.to/scottharrisondev/live-demos-do-they-always-need-to-be-live-49if)
+- [Implementing Infinite Scroll with Laravel and Vue.js 3](https://dev.to/rafaelogic/implementing-infinite-scroll-with-laravel-and-vuejs-3-fmd)
+- [Como Lancei Meu Primeiro Produto](https://dev.to/kleysongomes/como-lancei-meu-primeiro-produto-4ljl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
