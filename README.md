@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the practical benefit of using &lt;section&gt;?](https://dev.to/taliastorymaker/whats-the-practical-benefit-of-using--2iah)
-- [BuddyInjector](https://dev.to/diegodrf/buddyinjector-143l)
-- [Restful Routing - A Flask API Example](https://dev.to/spencer_adler_880da14d230/restful-routing-a-flask-api-example-5cpb)
-- [Top 10 Tips to Get Started with Open Source and GSoC](https://dev.to/middleware/top-10-tips-to-get-started-with-open-source-and-gsoc-41na)
-- [UnoKeyboard](https://dev.to/uno-platform/unokeyboard-23po)
+- [Small Collection 2.6](https://dev.to/sebk69/small-collection-26-4pjf)
+- [take&lpar;&rpar; and take_along_dim&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/take-and-takealongdim-in-pytorch-ij9)
+- [How to Use Socket.IO to Build Your First Multiplayer Tic-Tac-Toe Game](https://dev.to/dipakahirav/how-to-use-socketio-to-build-your-first-multiplayer-tic-tac-toe-game-3f4h)
+- [Optimistic UI: Mejora la experiencia de usuario en tus aplicaciones frontend](https://dev.to/joanperamas/optimistic-ui-mejora-la-experiencia-de-usuario-en-tus-aplicaciones-frontend-124e)
+- [Improving Bitcoin: My experience contributing to Utreexo for SOB 2024.](https://dev.to/alainjr10/improving-bitcoin-my-experience-contributing-to-utreexo-for-sob-2024-1g7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
