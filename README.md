@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Melhorando o desempenho de aplicações Spring Boot - Parte I](https://dev.to/mathstylish/melhorando-a-performance-de-aplicacoes-spring-boot-parte-i-58jl)
-- [🏁Unleash the Full Power of Your Laptop on Linux 🚀](https://dev.to/kpndevroot/unleash-the-full-power-of-your-laptop-on-linux-5dpl)
-- [How to Downsample Your Data Efficiently](https://dev.to/dolphindb/how-to-downsample-your-data-efficiently-3037)
-- [Tutorial memakai node js sampai memunculkan hello world](https://dev.to/gaza_alfath/tutorial-memakai-node-js-sampai-memunculkan-hello-world-2pia)
-- [Alias your module directory with Node standard import mapping](https://dev.to/phyothiha/alias-your-module-directory-with-node-standard-import-mapping-3gpa)
+- [Automated Software Testing: A Comprehensive Guide for Software Testers](https://dev.to/misterankit/automated-software-testing-a-comprehensive-guide-for-software-testers-fb)
+- [Software Component Design Principles](https://dev.to/brandongautama/software-component-design-principles-2g2c)
+- [🚀 Introducing LogLLM: Automate Your ML Experiment Logging with LLMs](https://dev.to/shure/introducing-logllm-automate-your-ml-experiment-logging-with-llms-592j)
+- [Dive into the Theoretical Foundations of Computer Science with MIT&#39;s Automata, Computability, and Complexity Course 🤖](https://dev.to/getvm/dive-into-the-theoretical-foundations-of-computer-science-with-mits-automata-computability-and-complexity-course-53ph)
+- [5 React Mistakes You Should Avoid &lpar;and How to Fix Them&rpar;](https://dev.to/vyan/5-react-mistakes-you-should-avoid-and-how-to-fix-them-339m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
