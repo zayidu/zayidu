@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Things to Know Before Making Open Source Contributions](https://dev.to/chishengliu/5-things-to-know-before-making-open-source-contributions-1707)
+- [Impresion de informes a pdf](https://dev.to/julio_rojasaranedavitc/impresion-de-informes-a-pdf-30o9)
+- [Mastering Django: Building a Secure User Authentication API from Scratch](https://dev.to/mayowakalejaiye/mastering-django-building-a-secure-user-authentication-api-from-scratch-4ma3)
+- [Sharing Git Aliases between Windows &amp; WSL](https://dev.to/codycodes/sharing-git-aliases-between-wsl-windows-198a)
 - [Managing API Integrations](https://dev.to/apidna/managing-api-integrations-51ja)
-- [Side Chat Question set with Entrepreneur](https://dev.to/startup-lab/side-chat-question-set-with-entrepreneur-43be)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4hil)
-- [Como processar mensagens de uma Fila RabbitMQ com Golang?](https://dev.to/ortizdavid/como-processar-mensagens-de-uma-fila-rabbitmq-com-golang-302)
-- [Managing NixOS on DigitalOcean with Colmena](https://dev.to/vst/managing-nixos-on-digitalocean-with-colmena-3jb6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
