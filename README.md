@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WormDrive.IO v2.3](https://dev.to/matt_bowen_2b402320a33cfc/wormdriveio-v23-3n37)
-- [Creating an Advanced QR Code Generator Using HTML, CSS, and JavaScript](https://dev.to/hanzla-mirza/creating-an-advanced-qr-code-generator-using-html-css-and-javascript-3c0h)
-- [Day 52 / 100 Days of Code: Rock Paper Scissors &lpar;RPS&rpar; Project](https://dev.to/jacobsternx/day-52-100-days-of-code-rock-paper-scissors-rps-project-o9b)
-- [Rough Draft File Storage App Site blue&amp;yellow](https://dev.to/matt_bowen_2b402320a33cfc/rough-draft-file-storage-app-site-blueyellow-9do)
-- [Today&#39;s Trending Projects: User Permission Management System with JavaScript and More](https://dev.to/labex/todays-trending-projects-user-permission-management-system-with-javascript-and-more-pdf)
+- [Principais Algoritmos em TypeScript: Implementações e Aplicações](https://dev.to/lucaspereiradesouzat/principais-algoritmos-em-typescript-implementacoes-e-aplicacoes-13j8)
+- [assalomu alykum 22.08.24 biz c++ codlash tilida yangi mavzu otdik va men uni sizlarga tushuntirib beraman.](https://dev.to/_e9348e45782d50818/assalomu-alykum-220824-biz-c-codlash-tilida-yangi-mavzu-otdik-va-men-uni-sizlarga-tushuntirib-beraman-1po0)
+- [Important Reasons for Using Python Web Scraping for Ecommerce Business Growth](https://dev.to/jonas_werner_322/important-reasons-for-using-python-web-scraping-for-ecommerce-business-growth-1n2l)
+- [Need help with source code](https://dev.to/ultimate_gamer_4e358688ca/need-help-with-source-code-3b11)
+- [The Bug in JavaScript](https://dev.to/zain725342/the-bug-in-javascript-58il)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
