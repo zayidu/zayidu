@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Splitting the Difference: My Journey into Ergonomic Keyboards and Pain-Free Productivity](https://dev.to/codeferreira/splitting-the-difference-my-journey-into-ergonomic-keyboards-and-pain-free-productivity-22kb)
-- [Unraveling the Mysteries of JavaScript and React: Hooks, Callbacks, and Methods](https://dev.to/brandonc/unraveling-the-mysteries-of-javascript-and-react-hooks-callbacks-and-methods-31he)
-- [Devops](https://dev.to/hritikraj8804/devops-60)
-- [Solving Problems on HackerRank](https://dev.to/dorinandreidragan/solving-problems-on-hackerrank-kah)
-- [LiqPay Async](https://dev.to/taranka/liqpay-async-32a1)
+- [Rails Designer v1.4 introduces: Beautiful Layouts for Your Rails App](https://dev.to/railsdesigner/rails-designer-v14-introducing-beautiful-layouts-for-your-rails-app-9m5)
+- [Improve Your Multifactor Auth With Verify and SIM Swap APIs](https://dev.to/vonagedev/improve-your-multifactor-auth-with-verify-and-sim-swap-apis-55c1)
+- [O Fim das Telas de Loading: A Revolução dos Consoles de Última Geração](https://dev.to/iamthiago/o-fim-das-telas-de-loading-a-revolucao-dos-consoles-de-ultima-geracao-17il)
+- [Cut Costs in OpenSearch Serverless and Bedrock Knowledge Base](https://dev.to/aws-builders/cut-costs-in-opensearch-serverless-and-bedrock-knowledge-base-354c)
+- [How to build a virtualized GPU that executes remotely and keeping your data local?](https://dev.to/radu_marias_eed98d2e201f6/how-to-build-a-virtualized-gpu-that-executes-remotely-and-keeping-your-data-local-1e0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
