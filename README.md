@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Things to Know Before Making Open Source Contributions](https://dev.to/chishengliu/5-things-to-know-before-making-open-source-contributions-1707)
-- [Impresion de informes a pdf](https://dev.to/julio_rojasaranedavitc/impresion-de-informes-a-pdf-30o9)
-- [Mastering Django: Building a Secure User Authentication API from Scratch](https://dev.to/mayowakalejaiye/mastering-django-building-a-secure-user-authentication-api-from-scratch-4ma3)
-- [Sharing Git Aliases between Windows &amp; WSL](https://dev.to/codycodes/sharing-git-aliases-between-wsl-windows-198a)
-- [Managing API Integrations](https://dev.to/apidna/managing-api-integrations-51ja)
+- [Using Packer and Proxmox to Build Templates](https://dev.to/umairk/using-packer-and-proxmox-to-build-templates-455f)
+- [Tech Communities: Important Secrets Everyone Should Know](https://dev.to/mlasunilag/tech-communities-important-secrets-everyone-should-know-3d8p)
+- [Mastering TypeScript Generics for Reusable Logic](https://dev.to/abhay1kumar/mastering-typescript-generics-for-reusable-logic-420g)
+- [🎉 Join Our Creative Hub on Discord: Become Part of Something Amazing! 🎉](https://dev.to/kresi/join-our-creative-hub-on-discord-become-part-of-something-amazing-5dj9)
+- [The Fascinating Power of Open Source](https://dev.to/saurabhkurve/the-fascinating-power-of-open-source-797)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
