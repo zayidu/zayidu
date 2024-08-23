@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Neuro-Hacks to Supercharge Your Focus](https://dev.to/middleware/5-neuro-hacks-to-supercharge-your-focus-4795)
+- [Understanding CloudFormation: Automating Infrastructure with IaC on AWS](https://dev.to/starkydevs/understanding-cloudformation-automating-infrastructure-with-iac-on-aws-1ado)
+- [Mastering JavaScript Functions: Your Guide to Normal vs. Arrow Functions](https://dev.to/kafeel_ahmad/mastering-javascript-functions-your-guide-to-normal-vs-arrow-functions-2onk)
+- [The Complete Guide to Building and Publishing a Python Library](https://dev.to/brijpandeyji/the-complete-guide-to-building-and-publishing-a-python-library-47l)
 - [Using Packer and Proxmox to Build Templates](https://dev.to/umairk/using-packer-and-proxmox-to-build-templates-455f)
-- [Tech Communities: Important Secrets Everyone Should Know](https://dev.to/mlasunilag/tech-communities-important-secrets-everyone-should-know-3d8p)
-- [Mastering TypeScript Generics for Reusable Logic](https://dev.to/abhay1kumar/mastering-typescript-generics-for-reusable-logic-420g)
-- [🎉 Join Our Creative Hub on Discord: Become Part of Something Amazing! 🎉](https://dev.to/kresi/join-our-creative-hub-on-discord-become-part-of-something-amazing-5dj9)
-- [The Fascinating Power of Open Source](https://dev.to/saurabhkurve/the-fascinating-power-of-open-source-797)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
