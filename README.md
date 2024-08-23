@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Pivotal Dates in IT History and Their Impact](https://dev.to/torrezmn/15-pivotal-dates-in-it-history-and-their-impact-2p2p)
-- [My experience with Units Tests using Jest JS](https://dev.to/augusto/my-experience-with-units-tests-using-jest-js-33o1)
-- [Untitled](https://dev.to/matt_bowen_2b402320a33cfc/untitled-1nn9)
-- [Node Backend Kickstart: A Submission for the Neon Open Source Starter Kit Challenge: Ultimate Starter Kit](https://dev.to/fonteeboa/node-backend-kickstart-a-submission-for-the-neon-open-source-starter-kit-challenge-ultimate-starter-kit-21c9)
-- [ReactNode vs React.Element: Understanding the Difference](https://dev.to/cole_ruche/reactnode-vs-reactelement-understanding-the-difference-2fj0)
+- [WormDrive.IO v2.3](https://dev.to/matt_bowen_2b402320a33cfc/wormdriveio-v23-3n37)
+- [Creating an Advanced QR Code Generator Using HTML, CSS, and JavaScript](https://dev.to/hanzla-mirza/creating-an-advanced-qr-code-generator-using-html-css-and-javascript-3c0h)
+- [Day 52 / 100 Days of Code: Rock Paper Scissors &lpar;RPS&rpar; Project](https://dev.to/jacobsternx/day-52-100-days-of-code-rock-paper-scissors-rps-project-o9b)
+- [Rough Draft File Storage App Site blue&amp;yellow](https://dev.to/matt_bowen_2b402320a33cfc/rough-draft-file-storage-app-site-blueyellow-9do)
+- [Today&#39;s Trending Projects: User Permission Management System with JavaScript and More](https://dev.to/labex/todays-trending-projects-user-permission-management-system-with-javascript-and-more-pdf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
