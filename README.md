@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Find Outdated Composer Dependencies Using &quot;composer outdated&quot;](https://dev.to/ashallendesign/find-outdated-composer-dependencies-using-composer-outdated-2jhp)
-- [Neon Scaffolder](https://dev.to/timotej_avsec/neon-scaffolder-42c8)
-- [JavaScript and Selenium Integration: Streamlining Your Web Automation](https://dev.to/jhk_info/javascript-and-selenium-integration-streamlining-your-web-automation-3chk)
-- [Deploy Apache Airflow on AWS Elastic Kubernetes Service &lpar;EKS&rpar;](https://dev.to/meteorops/deploy-apache-airflow-on-aws-elastic-kubernetes-service-eks-5406)
-- [Navigating the Latest Social Security Breach- Protecting Your Identity](https://dev.to/sennovate/navigating-the-latest-social-security-breach-protecting-your-identity-4fi7)
+- [Splitting the Difference: My Journey into Ergonomic Keyboards and Pain-Free Productivity](https://dev.to/codeferreira/splitting-the-difference-my-journey-into-ergonomic-keyboards-and-pain-free-productivity-22kb)
+- [Unraveling the Mysteries of JavaScript and React: Hooks, Callbacks, and Methods](https://dev.to/brandonc/unraveling-the-mysteries-of-javascript-and-react-hooks-callbacks-and-methods-31he)
+- [Devops](https://dev.to/hritikraj8804/devops-60)
+- [Solving Problems on HackerRank](https://dev.to/dorinandreidragan/solving-problems-on-hackerrank-kah)
+- [LiqPay Async](https://dev.to/taranka/liqpay-async-32a1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
