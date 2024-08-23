@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Ways to Store Computer Vision Data](https://dev.to/reductstore/3-ways-to-store-computer-vision-data-1gha)
-- [Advanced Ansible Techniques and Real-World Applications: Day 31 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/advanced-ansible-techniques-and-real-world-applications-day-31-of-50-days-devops-tools-series-484o)
-- [jQuery vs React – Which One Is Better For Your Project?](https://dev.to/pagepro_agency/jquery-vs-react-which-one-is-better-for-your-project-19nc)
-- [Nylas Creative App: Revolutionizing Email Management with AI Integration](https://dev.to/imabutahersiddik/nylas-creative-app-revolutionizing-email-management-with-ai-integration-2lpa)
-- [useState&lpar;&rpar; Hook in React](https://dev.to/sudhanshu_developer/usestate-hook-in-react-42j3)
+- [Find Outdated Composer Dependencies Using &quot;composer outdated&quot;](https://dev.to/ashallendesign/find-outdated-composer-dependencies-using-composer-outdated-2jhp)
+- [Neon Scaffolder](https://dev.to/timotej_avsec/neon-scaffolder-42c8)
+- [JavaScript and Selenium Integration: Streamlining Your Web Automation](https://dev.to/jhk_info/javascript-and-selenium-integration-streamlining-your-web-automation-3chk)
+- [Deploy Apache Airflow on AWS Elastic Kubernetes Service &lpar;EKS&rpar;](https://dev.to/meteorops/deploy-apache-airflow-on-aws-elastic-kubernetes-service-eks-5406)
+- [Navigating the Latest Social Security Breach- Protecting Your Identity](https://dev.to/sennovate/navigating-the-latest-social-security-breach-protecting-your-identity-4fi7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
