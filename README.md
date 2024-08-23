@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Engineer&#39;s Roadmap to Building Resilient Systems in High Growth Environments](https://dev.to/squadcast/the-engineers-roadmap-to-building-resilient-systems-in-high-growth-environments-30km)
-- [Debit Card Scam Courtesy of CashApp](https://dev.to/https_aneesah/debit-card-scam-courtesy-of-cashapp-1169)
-- [Building a DevOps Culture in High-Growth Companies: A Leader’s Blueprint](https://dev.to/squadcast/building-a-devops-culture-in-high-growth-companies-a-leaders-blueprint-1kne)
-- [Streamlining Operations: A Guide to the Top System Monitoring Tools](https://dev.to/squadcast/streamlining-operations-a-guide-to-the-top-system-monitoring-tools-14m5)
-- [What is Site Reliability Engineering and How it Transforms IT Operations?](https://dev.to/squadcast/what-is-site-reliability-engineering-and-how-it-transforms-it-operations-3na4)
+- [Recharts: The Ultimate React Charting Library](https://dev.to/codeparrot/recharts-the-ultimate-react-charting-library-4b8o)
+- [The rise of self-hosted PaaS — is $5 VPS all you need?](https://dev.to/zeropsio/the-rise-of-self-hosted-paas-is-5-vps-all-you-need-55no)
+- [Web Application Firewall &lpar;WAF&rpar; Architecture and Cloud Native Solutions](https://dev.to/getambassador2024/web-application-firewall-waf-architecture-and-cloud-native-solutions-48j6)
+- [Create Angular Components Dynamically at runtime](https://dev.to/nhannguyendevjs/create-angular-components-dynamically-at-runtime-4o72)
+- [From OVA to Qcow2: A Step-by-Step Guide to Unlocking Qemu&#39;s Power](https://dev.to/ken_mwaura1/from-ova-to-qcow2-a-step-by-step-guide-to-unlocking-qemus-power-eoi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
