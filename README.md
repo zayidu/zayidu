@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Notification Center in React](https://dev.to/nikl/building-a-real-time-notification-center-in-react-99b)
-- [Modular CMS: How to use CMS in your modular content strategy](https://dev.to/momciloo/modular-cms-how-to-use-cms-in-your-modular-content-strategy-1loo)
-- [Binary Tree Implementation](https://dev.to/ankit_rattan/binary-tree-implementation-ln4)
-- [Day 9 of 30 of JavaScript](https://dev.to/shoyab1707/day-9-of-30-of-javascript-5ck6)
-- [Deploy Django App Shared Hosting.](https://dev.to/axlgtm/deploy-django-app-shared-hosting-3a1g)
+- [Managing API Integrations](https://dev.to/apidna/managing-api-integrations-51ja)
+- [Side Chat Question set with Entrepreneur](https://dev.to/startup-lab/side-chat-question-set-with-entrepreneur-43be)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4hil)
+- [Como processar mensagens de uma Fila RabbitMQ com Golang?](https://dev.to/ortizdavid/como-processar-mensagens-de-uma-fila-rabbitmq-com-golang-302)
+- [Managing NixOS on DigitalOcean with Colmena](https://dev.to/vst/managing-nixos-on-digitalocean-with-colmena-3jb6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
