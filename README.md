@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Principais Algoritmos em TypeScript: Implementações e Aplicações](https://dev.to/lucaspereiradesouzat/principais-algoritmos-em-typescript-implementacoes-e-aplicacoes-13j8)
-- [assalomu alykum 22.08.24 biz c++ codlash tilida yangi mavzu otdik va men uni sizlarga tushuntirib beraman.](https://dev.to/_e9348e45782d50818/assalomu-alykum-220824-biz-c-codlash-tilida-yangi-mavzu-otdik-va-men-uni-sizlarga-tushuntirib-beraman-1po0)
-- [Important Reasons for Using Python Web Scraping for Ecommerce Business Growth](https://dev.to/jonas_werner_322/important-reasons-for-using-python-web-scraping-for-ecommerce-business-growth-1n2l)
-- [Need help with source code](https://dev.to/ultimate_gamer_4e358688ca/need-help-with-source-code-3b11)
-- [The Bug in JavaScript](https://dev.to/zain725342/the-bug-in-javascript-58il)
+- [Introducing the Free and Open-Source Native Subscription App for Shopify](https://dev.to/axeemhaider/introducing-the-free-and-open-source-native-subscription-app-for-shopify-1oj7)
+- [Submission for the Neon Open Source Starter Kit Challenge: Ultimate Blogging Platform Starter Kit](https://dev.to/imabutahersiddik/submission-for-the-neon-open-source-starter-kit-challenge-ultimate-blogging-platform-starter-kit-1cmb)
+- [day dreaming of v5](https://dev.to/fuzzwah/day-dreaming-of-v5-1a0e)
+- [Mastering React Router Hooks: A Comprehensive Guide](https://dev.to/fullstackdevelper/mastering-react-router-hooks-a-comprehensive-guide-1o50)
+- [Mastering React Router Hooks: A Comprehensive Guide](https://dev.to/vyan/mastering-react-router-hooks-a-comprehensive-guide-4hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
