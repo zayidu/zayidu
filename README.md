@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Relationship Between Access Control, Authorization, and Authentication](https://dev.to/adityabhuyan/the-relationship-between-access-control-authorization-and-authentication-30pp)
-- [methods for keycloak script](https://dev.to/nabim777/helpful-for-keycloak-script-1lpo)
-- [The Evolution of Hardware vs. Software Speed: Analyzing the Growing Gap Over Time](https://dev.to/adityabhuyan/the-evolution-of-hardware-vs-software-speed-analyzing-the-growing-gap-over-time-4feo)
-- [PHP Attributes: how to use PHP Attributes and create custom attribute classes – Fast Tips](https://dev.to/inspector/php-attributes-how-to-use-php-attributes-and-create-custom-attribute-classes-fast-tips-7nf)
-- [Exporting Excel with SheetJS for Dummies](https://dev.to/tamnguyenctg/exporting-excel-with-sheetjs-for-dummies-25kj)
+- [This Week In React #197 : Waku, Effect, TanStack, Framer Motion, use&lpar;&rpar;, Preact, Valtio, Astro, Three.js, Nitrogen...](https://dev.to/sebastienlorber/this-week-in-react-197-waku-effect-tanstack-framer-motion-use-preact-valtio-astro-threejs-nitrogen-3efl)
+- [How to Check If a Database or Object Storage Is Used by JuiceFS](https://dev.to/daswu/how-to-check-if-a-database-or-object-storage-is-used-by-juicefs-m6p)
+- [array, aictionary, for and while loops to score 25 marks in System Commands OPPE](https://dev.to/abbazs/array-aictionary-for-and-while-loops-to-score-25-marks-in-system-commands-oppe-31e0)
+- [Streamlining Task Management with Nylas and AI: My Submission for the Nylas AI Expedition Challenge](https://dev.to/imabutahersiddik/streamlining-task-management-with-nylas-and-ai-my-submission-for-the-nylas-ai-expedition-challenge-40jo)
+- [Essential Interview Skills for Success in 2024](https://dev.to/blogsx/essential-interview-skills-for-success-in-2024-12md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
