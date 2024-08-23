@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Blog API with Golang using Gin and Gorm](https://dev.to/hazaloolu/building-a-blog-api-with-golang-using-gin-and-gorm-451o)
-- [macOS by Tutorials](https://dev.to/trozware/macos-by-tutorials-52)
-- [Live Demos: Do they always need to be live?](https://dev.to/scottharrisondev/live-demos-do-they-always-need-to-be-live-49if)
-- [Implementing Infinite Scroll with Laravel and Vue.js 3](https://dev.to/rafaelogic/implementing-infinite-scroll-with-laravel-and-vuejs-3-fmd)
-- [Como Lancei Meu Primeiro Produto](https://dev.to/kleysongomes/como-lancei-meu-primeiro-produto-4ljl)
+- [15 Pivotal Dates in IT History and Their Impact](https://dev.to/torrezmn/15-pivotal-dates-in-it-history-and-their-impact-2p2p)
+- [My experience with Units Tests using Jest JS](https://dev.to/augusto/my-experience-with-units-tests-using-jest-js-33o1)
+- [Untitled](https://dev.to/matt_bowen_2b402320a33cfc/untitled-1nn9)
+- [Node Backend Kickstart: A Submission for the Neon Open Source Starter Kit Challenge: Ultimate Starter Kit](https://dev.to/fonteeboa/node-backend-kickstart-a-submission-for-the-neon-open-source-starter-kit-challenge-ultimate-starter-kit-21c9)
+- [ReactNode vs React.Element: Understanding the Difference](https://dev.to/cole_ruche/reactnode-vs-reactelement-understanding-the-difference-2fj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
