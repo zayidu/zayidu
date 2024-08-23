@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the Free and Open-Source Native Subscription App for Shopify](https://dev.to/axeemhaider/introducing-the-free-and-open-source-native-subscription-app-for-shopify-1oj7)
-- [Submission for the Neon Open Source Starter Kit Challenge: Ultimate Blogging Platform Starter Kit](https://dev.to/imabutahersiddik/submission-for-the-neon-open-source-starter-kit-challenge-ultimate-blogging-platform-starter-kit-1cmb)
-- [day dreaming of v5](https://dev.to/fuzzwah/day-dreaming-of-v5-1a0e)
-- [Mastering React Router Hooks: A Comprehensive Guide](https://dev.to/fullstackdevelper/mastering-react-router-hooks-a-comprehensive-guide-1o50)
-- [Mastering React Router Hooks: A Comprehensive Guide](https://dev.to/vyan/mastering-react-router-hooks-a-comprehensive-guide-4hm)
+- [The Engineer&#39;s Roadmap to Building Resilient Systems in High Growth Environments](https://dev.to/squadcast/the-engineers-roadmap-to-building-resilient-systems-in-high-growth-environments-30km)
+- [Debit Card Scam Courtesy of CashApp](https://dev.to/https_aneesah/debit-card-scam-courtesy-of-cashapp-1169)
+- [Building a DevOps Culture in High-Growth Companies: A Leader’s Blueprint](https://dev.to/squadcast/building-a-devops-culture-in-high-growth-companies-a-leaders-blueprint-1kne)
+- [Streamlining Operations: A Guide to the Top System Monitoring Tools](https://dev.to/squadcast/streamlining-operations-a-guide-to-the-top-system-monitoring-tools-14m5)
+- [What is Site Reliability Engineering and How it Transforms IT Operations?](https://dev.to/squadcast/what-is-site-reliability-engineering-and-how-it-transforms-it-operations-3na4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
