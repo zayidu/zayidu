@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tente Isto 6-1 Melhore a classe Queue](https://dev.to/devsjavagirls/tente-isto-6-1-melhore-a-classe-queue-3maf)
-- [Developing a App with Swift and AI](https://dev.to/washington_pedrini_538d33/developing-a-app-with-swift-and-ai-2f2i)
-- [Mastering TypeScript Generics: Enhancing Code Reusability and Type Safety](https://dev.to/baransel/mastering-typescript-generics-enhancing-code-reusability-and-type-safety-4aid)
-- [🚀 Build a Simple CRUD API in PHP with the Flight Framework](https://dev.to/soheilkhaledabadi/build-a-simple-crud-api-in-php-with-the-flight-framework-5fnk)
-- [Modificadores de acesso da linguagem Java](https://dev.to/devsjavagirls/modificadores-de-acesso-da-linguagem-java-41)
+- [Day 1017 : The Other Side](https://dev.to/dwane/day-1017-the-other-side-52di)
+- [Kafka Connect: FileStreamSourceConnector in distributed mode](https://dev.to/eidher/kafka-connect-filestreamsourceconnector-in-distributed-mode-4l8)
+- [Building a Responsive Navigation Bar with Flexbox: Lessons from Wes Bos&#39; Course](https://dev.to/divineisnotakid/building-a-responsive-navigation-bar-with-flexbox-lessons-from-wes-bos-course-npp)
+- [Security news weekly round-up - 23rd August 2024](https://dev.to/ziizium/security-news-weekly-round-up-23rd-august-2024-1p16)
+- [[pt-BR] Padrões de código em diferentes empresas - o que devo usar?](https://dev.to/scarlet/padroes-de-codigo-em-diferentes-empresas-o-que-devo-usar-7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
