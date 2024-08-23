@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #197 : Waku, Effect, TanStack, Framer Motion, use&lpar;&rpar;, Preact, Valtio, Astro, Three.js, Nitrogen...](https://dev.to/sebastienlorber/this-week-in-react-197-waku-effect-tanstack-framer-motion-use-preact-valtio-astro-threejs-nitrogen-3efl)
-- [How to Check If a Database or Object Storage Is Used by JuiceFS](https://dev.to/daswu/how-to-check-if-a-database-or-object-storage-is-used-by-juicefs-m6p)
-- [array, aictionary, for and while loops to score 25 marks in System Commands OPPE](https://dev.to/abbazs/array-aictionary-for-and-while-loops-to-score-25-marks-in-system-commands-oppe-31e0)
-- [Streamlining Task Management with Nylas and AI: My Submission for the Nylas AI Expedition Challenge](https://dev.to/imabutahersiddik/streamlining-task-management-with-nylas-and-ai-my-submission-for-the-nylas-ai-expedition-challenge-40jo)
-- [Essential Interview Skills for Success in 2024](https://dev.to/blogsx/essential-interview-skills-for-success-in-2024-12md)
+- [A Powerful, Open-Source WAF to Boost Your Website&#39;s Security](https://dev.to/lulu_liu_c90f973e2f954d7f/a-powerful-open-source-waf-to-boost-your-websites-security-50ce)
+- [Google Earth Engine &amp; QGIS: Querying and Exporting Sentinel-2 Images](https://dev.to/jhparmar/google-earth-engine-qgis-querying-and-exporting-sentinel-2-images-5dm8)
+- [4-5 things necessary for a developer](https://dev.to/codesoup/4-5-things-necessary-for-a-developer-1fek)
+- [Reconstructing Shopping Bill Dataset from OCR Data using Bash](https://dev.to/abbazs/reconstructing-shopping-bill-dataset-from-ocr-data-using-bash-16pk)
+- [TorchGeo: How to Download the NWPU VHR-10 Dataset](https://dev.to/jhparmar/torchgeo-how-to-download-the-nwpu-vhr-10-dataset-21m9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
