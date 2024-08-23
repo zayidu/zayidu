@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Recharts: The Ultimate React Charting Library](https://dev.to/codeparrot/recharts-the-ultimate-react-charting-library-4b8o)
-- [The rise of self-hosted PaaS — is $5 VPS all you need?](https://dev.to/zeropsio/the-rise-of-self-hosted-paas-is-5-vps-all-you-need-55no)
-- [Web Application Firewall &lpar;WAF&rpar; Architecture and Cloud Native Solutions](https://dev.to/getambassador2024/web-application-firewall-waf-architecture-and-cloud-native-solutions-48j6)
-- [Create Angular Components Dynamically at runtime](https://dev.to/nhannguyendevjs/create-angular-components-dynamically-at-runtime-4o72)
-- [From OVA to Qcow2: A Step-by-Step Guide to Unlocking Qemu&#39;s Power](https://dev.to/ken_mwaura1/from-ova-to-qcow2-a-step-by-step-guide-to-unlocking-qemus-power-eoi)
+- [The Relationship Between Access Control, Authorization, and Authentication](https://dev.to/adityabhuyan/the-relationship-between-access-control-authorization-and-authentication-30pp)
+- [methods for keycloak script](https://dev.to/nabim777/helpful-for-keycloak-script-1lpo)
+- [The Evolution of Hardware vs. Software Speed: Analyzing the Growing Gap Over Time](https://dev.to/adityabhuyan/the-evolution-of-hardware-vs-software-speed-analyzing-the-growing-gap-over-time-4feo)
+- [PHP Attributes: how to use PHP Attributes and create custom attribute classes – Fast Tips](https://dev.to/inspector/php-attributes-how-to-use-php-attributes-and-create-custom-attribute-classes-fast-tips-7nf)
+- [Exporting Excel with SheetJS for Dummies](https://dev.to/tamnguyenctg/exporting-excel-with-sheetjs-for-dummies-25kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
