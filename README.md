@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Neuro-Hacks to Supercharge Your Focus](https://dev.to/middleware/5-neuro-hacks-to-supercharge-your-focus-4795)
-- [Understanding CloudFormation: Automating Infrastructure with IaC on AWS](https://dev.to/starkydevs/understanding-cloudformation-automating-infrastructure-with-iac-on-aws-1ado)
-- [Mastering JavaScript Functions: Your Guide to Normal vs. Arrow Functions](https://dev.to/kafeel_ahmad/mastering-javascript-functions-your-guide-to-normal-vs-arrow-functions-2onk)
-- [The Complete Guide to Building and Publishing a Python Library](https://dev.to/brijpandeyji/the-complete-guide-to-building-and-publishing-a-python-library-47l)
-- [Using Packer and Proxmox to Build Templates](https://dev.to/umairk/using-packer-and-proxmox-to-build-templates-455f)
+- [Enable Windows Insider Program in Windows 11!](https://dev.to/winsides/enable-windows-insider-program-in-windows-11-4c1m)
+- [Mastering Jest in Next.js: A Complete Guide for App Router and TypeScript 🚀](https://dev.to/alaa-samy/mastering-jest-in-nextjs-a-complete-guide-for-app-router-and-typescript-o28)
+- [Writing a state management library in 50 lines of JavaScript](https://dev.to/jverneaut/writing-a-state-management-library-in-50-lines-of-javascript-3l41)
+- [Securing Microservices with Spring Security: Implementing JWT](https://dev.to/ayushstwt/securing-microservices-with-spring-security-implementing-jwt-38m6)
+- [Introducing Log Drains](https://dev.to/supabase/introducing-log-drains-1il8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
