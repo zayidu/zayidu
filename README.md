@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rails Designer v1.4 introduces: Beautiful Layouts for Your Rails App](https://dev.to/railsdesigner/rails-designer-v14-introducing-beautiful-layouts-for-your-rails-app-9m5)
-- [Improve Your Multifactor Auth With Verify and SIM Swap APIs](https://dev.to/vonagedev/improve-your-multifactor-auth-with-verify-and-sim-swap-apis-55c1)
-- [O Fim das Telas de Loading: A Revolução dos Consoles de Última Geração](https://dev.to/iamthiago/o-fim-das-telas-de-loading-a-revolucao-dos-consoles-de-ultima-geracao-17il)
-- [Cut Costs in OpenSearch Serverless and Bedrock Knowledge Base](https://dev.to/aws-builders/cut-costs-in-opensearch-serverless-and-bedrock-knowledge-base-354c)
-- [How to build a virtualized GPU that executes remotely and keeping your data local?](https://dev.to/radu_marias_eed98d2e201f6/how-to-build-a-virtualized-gpu-that-executes-remotely-and-keeping-your-data-local-1e0k)
+- [Building a Real-Time Notification Center in React](https://dev.to/nikl/building-a-real-time-notification-center-in-react-99b)
+- [Modular CMS: How to use CMS in your modular content strategy](https://dev.to/momciloo/modular-cms-how-to-use-cms-in-your-modular-content-strategy-1loo)
+- [Binary Tree Implementation](https://dev.to/ankit_rattan/binary-tree-implementation-ln4)
+- [Day 9 of 30 of JavaScript](https://dev.to/shoyab1707/day-9-of-30-of-javascript-5ck6)
+- [Deploy Django App Shared Hosting.](https://dev.to/axlgtm/deploy-django-app-shared-hosting-3a1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
