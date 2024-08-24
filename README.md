@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ethical Hacking : Users password cracking](https://dev.to/samglish/ethical-hacking-users-password-cracking-4f85)
-- [Building Interactive Charts with Chart.js](https://dev.to/kartikmehta8/building-interactive-charts-with-chartjs-3blm)
-- [Build Reactive Web Components with SSR](https://dev.to/aralroca/build-reactive-web-components-with-ssr-3pb9)
-- [EventBridge: working around API Destination 5s maximum client timeout constraint, using Lambda PowerTools idempotency](https://dev.to/aws-builders/eventbridge-working-around-api-destination-5s-maximum-client-timeout-constraint-using-lambda-powertools-idempotency-1cb3)
-- [Access Nvidia gpu inside docker container in Arch linux](https://dev.to/pakos/access-nvidia-gpu-inside-docker-container-in-arch-linux-4k6b)
+- [How to Start Freelance Blogging: A Detailed Guide](https://dev.to/raajaryan/how-to-start-freelance-blogging-a-detailed-guide-3bhc)
+- [How I Mastered CSS: From Basics to Responsive Design](https://dev.to/shivanshu-prajapati/how-i-mastered-css-from-basics-to-responsive-design-39c5)
+- [Crafting a Powerful API Performance CLI: Approach with .NET Core and System.CommandLine](https://dev.to/alisson_podgurski/crafting-a-powerful-api-performance-cli-approach-with-net-core-and-systemcommandline-3i9k)
+- [Today&#39;s Trending Projects: Circular Seating Arrangement Problem Solving and More](https://dev.to/labex/todays-trending-projects-circular-seating-arrangement-problem-solving-and-more-41hm)
+- [🔐 Building a Simple Password Generator with FastHTML](https://dev.to/polcontreras/building-a-simple-password-generator-with-fasthtml-4jhd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
