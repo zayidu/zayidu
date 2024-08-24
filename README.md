@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WTF is a GitHub Profile README.md](https://dev.to/jacobshuman/wtf-is-a-github-profile-readmemd-1p8c)
-- [How to Detect if a User is in Dark Mode In Js](https://dev.to/avinash_tare/how-to-detect-if-a-user-is-in-dark-mode-in-js-5hhp)
-- [Create an EKS Cluster Using Terraform](https://dev.to/aws-builders/create-an-eks-cluster-using-terraform-1734)
-- [🚀 Fine-Tuning GPT-4: Unlocking Custom AI for Developers](https://dev.to/gadekar_sachin/fine-tuning-gpt-4-unlocking-custom-ai-for-developers-2ig1)
-- [React Prop Drilling: Should You Use It?](https://dev.to/apoorvtomar/react-prop-drilling-should-you-use-it-5f81)
+- [I wrote my own Reconciler &lpar;React&rpar;](https://dev.to/shivam-dhaka/i-wrote-my-own-reconciler-react-59kj)
+- [Setting Up and Securing CloudFront for S3 Static Sites with Custom Subdomains Using AWS Cloud Development Kit&lpar;CDK&rpar;](https://dev.to/nivekalara237/setting-up-and-securing-cloudfront-for-s3-static-sites-with-custom-subdomains-using-aws-cloud-development-kitcdk-3ifh)
+- [Solid Principles in GO with examples](https://dev.to/pyrolass/solid-principles-in-go-with-examples-o55)
+- [What&#39;s Next.js server actions](https://dev.to/ccsunnydev/whats-nextjs-server-actions-n2o)
+- [Integrating eSewa Payment in a MERN Stack Web Application &lpar;part 1&rpar;](https://dev.to/invisibleworld/integrating-esewa-payment-in-a-mern-stack-web-application-part-1-35bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
