@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux du Command | Disk Usage Estimation](https://dev.to/labex/linux-du-command-disk-usage-estimation-2fk)
+- [Process multiband rasters &lpar;Sentinel-2&rpar; with h3 index and create indices](https://dev.to/krschap/process-multiband-rasters-sentinel-2-with-h3-index-and-create-indices-bem)
+- [⚡ MySecondApp - React Native with Expo &lpar;P22&rpar; - Add Comment to News Detail](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p22-add-comment-to-news-detail-jfn)
 - [Hello World!](https://dev.to/adinfauzan/hello-world-186n)
 - [A Beginner’s Guide to Terraform: Managing Cloud Infrastructure](https://dev.to/starkydevs/a-beginners-guide-to-terraform-managing-cloud-infrastructure-43gf)
-- [Linux How-TOs ❓ | A must know list of commands in Linux shells](https://dev.to/externref/linux-how-tos-a-must-know-list-of-commands-in-linux-shells-43o0)
-- [Type Conversion in JavaScript Is Confusing](https://dev.to/zain725342/type-conversion-in-javascript-is-confusing-5amn)
-- [Optimizing Costs on AWS: Tips for Small Businesses](https://dev.to/starkydevs/optimizing-costs-on-aws-tips-for-small-businesses-n88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
