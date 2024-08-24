@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring Amazon Q Business with Amazon S3 as a Data Source](https://dev.to/sunil_yaduvanshi/configuring-amazon-q-business-with-amazon-s3-as-a-data-source-3348)
-- [How to use Python to scrape YouTube content using the API provided by YouTube?](https://dev.to/lewis_kerr_2d0d4c5b886b02/how-to-use-python-to-scrape-youtube-content-using-the-api-provided-by-youtube-3npg)
-- [How to add Google Fonts and Custom Fonts to your Web App](https://dev.to/dualite/how-to-add-google-fonts-and-custom-fonts-to-your-web-app-99a)
-- [Creating an Amazon Q Business Application with RDS MySQL Integration](https://dev.to/sunil_yaduvanshi/creating-an-amazon-q-business-application-with-rds-mysql-integration-18ig)
-- [Remove all git local branches except &quot;main&quot;](https://dev.to/arielmejiadev/remove-all-git-local-branches-except-main-mlo)
+- [Practical Guide to Set Up Multiple NodeJS Apps on AWS EC2 Instance with Automatic Deployment using GitHub Actions &lpar;Screenshots&rpar;](https://dev.to/cre8stevedev/practical-guide-to-set-up-multiple-nodejs-apps-on-aws-ec2-instance-with-automatic-deployment-using-github-actions-screenshots-2a39)
+- [100 days of Miva: Day 4](https://dev.to/abdul_web/100-days-of-miva-day-4-36h5)
+- [Postgres tsvector with TypeORM](https://dev.to/ohanhaliuk/postgres-tsvector-with-typeorm-230m)
+- [RPC failed; curl 92 HTTP/2 stream 5 was not closed cleanly: CANCEL &lpar;err 8&rpar;](https://dev.to/hardyweb/rpc-failed-curl-92-http2-stream-5-was-not-closed-cleanly-cancel-err-8-1ngj)
+- [Setting Up a Simple TCP Server](https://dev.to/dheerajgopi/setting-up-a-simple-tcp-server-42ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
