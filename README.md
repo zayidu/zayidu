@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Customized Compliance Policies for Emerging Web3 Threats](https://dev.to/vaibhavaher219/a-guide-to-customized-compliance-policies-for-emerging-web3-threats-26me)
-- [DevOps vs Traditional: A Comprehensive Comparison of Software Development Approaches](https://dev.to/eunice-js/devops-vs-traditional-a-comprehensive-comparison-of-software-development-approaches-ie5)
-- [564. Find the Closest Palindrome](https://dev.to/mdarifulhaque/564-find-the-closest-palindrome-4mlj)
-- [Today&#39;s Javascript Tip: extract multiple properties from an object into variables using destructuring assignment.](https://dev.to/mmourouh/todays-javascript-tip-extract-multiple-properties-from-an-object-into-variables-using-destructuring-assignment-12e)
-- [Git Cheatsheet that will make you a master in Git](https://dev.to/mahmudr/git-cheatsheet-that-will-make-you-a-master-in-git-4j3m)
+- [Actually Useful interview prep tool.](https://dev.to/aveesdev/actually-useful-interview-prep-tool-4lho)
+- [Entendendo @MappedSuperclass em JPA](https://dev.to/gregoriohd/entendendo-mappedsuperclass-em-jpa-4310)
+- [Some Config Ideas for your ZSH](https://dev.to/gokayburuc/some-config-ideas-for-your-zsh-181p)
+- [Exciting News: Windows Community Toolkit v8.1 is here](https://dev.to/mahrukh_adeel/exciting-news-windows-community-toolkit-v81-is-here-4noi)
+- [How Google Tag Manager Empowers Businesses with Efficient Tag Management and Data-Driven Insights](https://dev.to/zobaidulkazi/how-google-tag-manager-empowers-businesses-with-efficient-tag-management-and-data-driven-insights-1n0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
