@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 54 / 100 Days of Code: Lessons on Scope](https://dev.to/jacobsternx/day-54-100-days-of-code-lessons-on-scope-3h11)
-- [Appium Setup: A Step-by-Step Guide For Beginner](https://dev.to/jignect_technologies/appium-setup-a-step-by-step-guide-for-beginner-40hj)
-- [🔍 SSR vs. CSR: Understanding the Differences and When to Use Them](https://dev.to/dipakahirav/ssr-vs-csr-understanding-the-differences-and-when-to-use-them-163c)
-- [Number System Converter Web App! 🌐🚀](https://dev.to/s_hadowheart/number-system-converter-web-app-3o23)
-- [RESTful API Design: Best Practices and Common Pitfalls](https://dev.to/soham_galande/restful-api-design-best-practices-and-common-pitfalls-1lg4)
+- [Configuring Amazon Q Business with Amazon S3 as a Data Source](https://dev.to/sunil_yaduvanshi/configuring-amazon-q-business-with-amazon-s3-as-a-data-source-3348)
+- [How to use Python to scrape YouTube content using the API provided by YouTube?](https://dev.to/lewis_kerr_2d0d4c5b886b02/how-to-use-python-to-scrape-youtube-content-using-the-api-provided-by-youtube-3npg)
+- [How to add Google Fonts and Custom Fonts to your Web App](https://dev.to/dualite/how-to-add-google-fonts-and-custom-fonts-to-your-web-app-99a)
+- [Creating an Amazon Q Business Application with RDS MySQL Integration](https://dev.to/sunil_yaduvanshi/creating-an-amazon-q-business-application-with-rds-mysql-integration-18ig)
+- [Remove all git local branches except &quot;main&quot;](https://dev.to/arielmejiadev/remove-all-git-local-branches-except-main-mlo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
