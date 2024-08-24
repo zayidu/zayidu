@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Web App with ARM Templates and Azure CLI](https://dev.to/dera2024/web-app-with-arm-templates-and-azure-cli-3jl0)
-- [Handling Complexity - functional + object-oriented programming](https://dev.to/ivangavlik/handling-complexity-functional-vs-object-oriented-programming-44je)
-- [[LDC-24.08.2024] 564. Find the Closest Palindrome: Hướng Dẫn Từ Đầu Đến Cuối](https://dev.to/dtruong46me/ldc-24082024-564-find-the-closest-palindrome-huong-dan-tu-dau-den-cuoi-pnh)
-- [What’s New: Upcoming Features and Updates in the ParkQwik App](https://dev.to/park_qwik_a7b04e6bd6a3aab/whats-new-upcoming-features-and-updates-in-the-parkqwik-app-f9l)
-- [Unleash Your Python Prowess: A Collection of Insightful Programming Tutorials](https://dev.to/labex/unleash-your-python-prowess-a-collection-of-insightful-programming-tutorials-2fb9)
+- [WTF is a GitHub Profile README.md](https://dev.to/jacobshuman/wtf-is-a-github-profile-readmemd-1p8c)
+- [How to Detect if a User is in Dark Mode In Js](https://dev.to/avinash_tare/how-to-detect-if-a-user-is-in-dark-mode-in-js-5hhp)
+- [Create an EKS Cluster Using Terraform](https://dev.to/aws-builders/create-an-eks-cluster-using-terraform-1734)
+- [🚀 Fine-Tuning GPT-4: Unlocking Custom AI for Developers](https://dev.to/gadekar_sachin/fine-tuning-gpt-4-unlocking-custom-ai-for-developers-2ig1)
+- [React Prop Drilling: Should You Use It?](https://dev.to/apoorvtomar/react-prop-drilling-should-you-use-it-5f81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
