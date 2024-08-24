@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building RealTimeEdify: A Real-Time Collaborative Document Editing App with MERN Stack &amp; Socket.IO](https://dev.to/slacky300/building-realtimeedify-a-real-time-collaborative-document-editing-app-with-mern-stack-socketio-74b)
-- [Learning to code : My web Development Journey Begins](https://dev.to/muha-coder-dev/learning-to-code-my-web-development-journey-begins-3dk5)
-- [Documentation for Deploying &quot;HNG Boilerplate&quot;, A Next.js Application using GitHub Actions](https://dev.to/lanky23/documentation-for-deploying-hng-boilerplate-a-nextjs-application-using-github-actions-4g5c)
-- [Declarative vs. Imperative Programming in JavaScript](https://dev.to/avwerosuoghene/declarative-vs-imperative-programming-in-javascript-2ipe)
-- [¡Los Mejores Sitios para Aprender Programación GRATIS!](https://dev.to/bhyxen/los-mejores-sitios-para-aprender-programacion-gratis-480h)
+- [How I Built a Scalable, Free URL Shortener.](https://dev.to/asadk/how-i-built-a-scalable-free-url-shortener-1db6)
+- [Scheduled Test Workflow Documentation](https://dev.to/kahuna04/scheduled-test-workflow-documentation-3b8h)
+- [DEPLOYING THE BACKEND OF &quot;HNG_BOILERPLATE&quot; EXPRESSJS APPLICATION TO PROD SERVER](https://dev.to/bankolejohn/deploying-the-backend-of-hngboilerplate-expressjs-application-to-prod-server-1d35)
+- [Understanding the CSS Box Model](https://dev.to/ridoy_hasan/understanding-the-css-box-model-p6m)
+- [My First Two Weeks in Programming: Tools I learnt](https://dev.to/muha-coder-dev/my-first-two-weeks-in-programming-tools-i-learnt-k7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
