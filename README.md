@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Check out a Top Notch Website soft CodeOn](https://dev.to/muhammadaliaffan/check-out-a-top-notch-website-1j5n)
-- [🌟 Micro Frontend vs. Atomic Frontend: A Modern Web Development Showdown 🚀](https://dev.to/mdawooddev/micro-frontend-vs-atomic-frontend-a-modern-web-development-showdown-4906)
-- [DevOps Project - The Ultimate CICD Corporate DevOps Pipeline Project](https://dev.to/prodevopsguytech/devops-project-the-ultimate-cicd-corporate-devops-pipeline-project-3km)
-- [Editor de Texto](https://dev.to/enlineaweb/editor-de-texto-4k59)
-- [Open Oft-used Files when Starting Vim](https://dev.to/fbicknel/open-oft-used-files-when-starting-vim-1lf7)
+- [Node.JS - Foal framework version 4.5 is released 🎉](https://dev.to/loicpoullain/nodejs-foal-framework-version-45-is-released-3lhp)
+- [Integrating Zettelkasten Principles into a Second Brain System for Cloud Engineers](https://dev.to/starkydevs/integrating-zettelkasten-principles-into-a-second-brain-system-for-cloud-engineers-5hc0)
+- [Mastering Docker: A Comprehensive &#39;Quick Start with Docker&#39; Course](https://dev.to/labex/mastering-docker-a-comprehensive-quick-start-with-docker-course-12m6)
+- [Keeping the Your README Fresh and Engaging using AI](https://dev.to/pelikhan/keeping-the-your-readme-fresh-and-engaging-using-ai-111o)
+- [Understanding Database Connection Pooling](https://dev.to/siddharth_g/understanding-database-connection-pooling-420n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
