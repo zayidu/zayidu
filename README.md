@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I wrote my own Reconciler &lpar;React&rpar;](https://dev.to/shivam-dhaka/i-wrote-my-own-reconciler-react-59kj)
-- [Setting Up and Securing CloudFront for S3 Static Sites with Custom Subdomains Using AWS Cloud Development Kit&lpar;CDK&rpar;](https://dev.to/nivekalara237/setting-up-and-securing-cloudfront-for-s3-static-sites-with-custom-subdomains-using-aws-cloud-development-kitcdk-3ifh)
-- [Solid Principles in GO with examples](https://dev.to/pyrolass/solid-principles-in-go-with-examples-o55)
-- [What&#39;s Next.js server actions](https://dev.to/ccsunnydev/whats-nextjs-server-actions-n2o)
-- [Integrating eSewa Payment in a MERN Stack Web Application &lpar;part 1&rpar;](https://dev.to/invisibleworld/integrating-esewa-payment-in-a-mern-stack-web-application-part-1-35bi)
+- [Ask Her Out 👰: A cool JavaScript project for the love of Developer&#39;s life 💖](https://dev.to/rohan_sharma/ask-her-out-a-cool-javascript-project-for-the-love-of-developers-life-6gn)
+- [Rust from a Web perspective](https://dev.to/jswhisperer/rust-from-a-web-perspective-5hk4)
+- [How to build PCF dataset control using REACT](https://dev.to/rohan_goel/how-to-build-pcf-dataset-control-using-react-4e6m)
+- [DevOps Monitoring Project](https://dev.to/pratik_nalawade/devops-monitoring-project-4ipo)
+- [Understanding the Singleton Pattern with PHP Example](https://dev.to/hossamgouda/understanding-the-singleton-pattern-with-php-example-3i31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
