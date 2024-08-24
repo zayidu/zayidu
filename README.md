@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux du Command | Disk Usage Estimation](https://dev.to/labex/linux-du-command-disk-usage-estimation-2fk)
-- [Process multiband rasters &lpar;Sentinel-2&rpar; with h3 index and create indices](https://dev.to/krschap/process-multiband-rasters-sentinel-2-with-h3-index-and-create-indices-bem)
-- [⚡ MySecondApp - React Native with Expo &lpar;P22&rpar; - Add Comment to News Detail](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p22-add-comment-to-news-detail-jfn)
-- [Hello World!](https://dev.to/adinfauzan/hello-world-186n)
-- [A Beginner’s Guide to Terraform: Managing Cloud Infrastructure](https://dev.to/starkydevs/a-beginners-guide-to-terraform-managing-cloud-infrastructure-43gf)
+- [🚀 A Leap Forward: React 19 Introduces the Actions Feature](https://dev.to/abhay1kumar/a-leap-forward-react-19-introduces-the-actions-feature-45gp)
+- [🚀 Node.js vs. Express.js: Mastering Server-Side JavaScript Development](https://dev.to/fullstackdevelper/nodejs-vs-expressjs-mastering-server-side-javascript-development-4on9)
+- [🚀 Node.js vs. Express.js: Mastering Server-Side JavaScript Development](https://dev.to/vyan/nodejs-vs-expressjs-mastering-server-side-javascript-development-7a1)
+- [Unleash the Power of Markdown: A Comprehensive Guide to Elevate Your Technical Documentation 🚀](https://dev.to/getvm/unleash-the-power-of-markdown-a-comprehensive-guide-to-elevate-your-technical-documentation-3971)
+- [VB .Net: Import NameSpace to Project](https://dev.to/vblover_programmer/vb-net-import-namespace-to-project-2o7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
