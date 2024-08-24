@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building your First dApp on Linea &lpar;in under 10 min!&rpar;](https://dev.to/fernandezbaptiste/building-your-first-dapp-on-linea-in-under-10-min-f13)
-- [Setting Up a VPS with Nginx, Docker, and GitHub Actions](https://dev.to/iyadhgallah/setting-up-a-vps-with-nginx-docker-and-github-actions-1jb7)
-- [Comparison of Spring Cloud with Eureka vs. Consul.io](https://dev.to/isaactony/comparison-of-spring-cloud-with-eureka-vs-consulio-3hgm)
-- [Telegram Mini Apps Journey](https://dev.to/haowang604/telegram-mini-apps-journey-28gj)
-- [Maximise Your Productivity: Harness Hot Reloading in Kubernetes](https://dev.to/cloudnative_eng/maximise-your-productivity-harness-hot-reloading-in-kubernetes-29nk)
+- [Deploying a Web App with ARM Templates and Azure CLI](https://dev.to/dera2024/web-app-with-arm-templates-and-azure-cli-3jl0)
+- [Handling Complexity - functional + object-oriented programming](https://dev.to/ivangavlik/handling-complexity-functional-vs-object-oriented-programming-44je)
+- [[LDC-24.08.2024] 564. Find the Closest Palindrome: Hướng Dẫn Từ Đầu Đến Cuối](https://dev.to/dtruong46me/ldc-24082024-564-find-the-closest-palindrome-huong-dan-tu-dau-den-cuoi-pnh)
+- [What’s New: Upcoming Features and Updates in the ParkQwik App](https://dev.to/park_qwik_a7b04e6bd6a3aab/whats-new-upcoming-features-and-updates-in-the-parkqwik-app-f9l)
+- [Unleash Your Python Prowess: A Collection of Insightful Programming Tutorials](https://dev.to/labex/unleash-your-python-prowess-a-collection-of-insightful-programming-tutorials-2fb9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
