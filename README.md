@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Start Freelance Blogging: A Detailed Guide](https://dev.to/raajaryan/how-to-start-freelance-blogging-a-detailed-guide-3bhc)
-- [How I Mastered CSS: From Basics to Responsive Design](https://dev.to/shivanshu-prajapati/how-i-mastered-css-from-basics-to-responsive-design-39c5)
-- [Crafting a Powerful API Performance CLI: Approach with .NET Core and System.CommandLine](https://dev.to/alisson_podgurski/crafting-a-powerful-api-performance-cli-approach-with-net-core-and-systemcommandline-3i9k)
-- [Today&#39;s Trending Projects: Circular Seating Arrangement Problem Solving and More](https://dev.to/labex/todays-trending-projects-circular-seating-arrangement-problem-solving-and-more-41hm)
-- [🔐 Building a Simple Password Generator with FastHTML](https://dev.to/polcontreras/building-a-simple-password-generator-with-fasthtml-4jhd)
+- [Hello World!](https://dev.to/adinfauzan/hello-world-186n)
+- [A Beginner’s Guide to Terraform: Managing Cloud Infrastructure](https://dev.to/starkydevs/a-beginners-guide-to-terraform-managing-cloud-infrastructure-43gf)
+- [Linux How-TOs ❓ | A must know list of commands in Linux shells](https://dev.to/externref/linux-how-tos-a-must-know-list-of-commands-in-linux-shells-43o0)
+- [Type Conversion in JavaScript Is Confusing](https://dev.to/zain725342/type-conversion-in-javascript-is-confusing-5amn)
+- [Optimizing Costs on AWS: Tips for Small Businesses](https://dev.to/starkydevs/optimizing-costs-on-aws-tips-for-small-businesses-n88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
