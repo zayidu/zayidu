@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical Guide to Set Up Multiple NodeJS Apps on AWS EC2 Instance with Automatic Deployment using GitHub Actions &lpar;Screenshots&rpar;](https://dev.to/cre8stevedev/practical-guide-to-set-up-multiple-nodejs-apps-on-aws-ec2-instance-with-automatic-deployment-using-github-actions-screenshots-2a39)
-- [100 days of Miva: Day 4](https://dev.to/abdul_web/100-days-of-miva-day-4-36h5)
-- [Postgres tsvector with TypeORM](https://dev.to/ohanhaliuk/postgres-tsvector-with-typeorm-230m)
-- [RPC failed; curl 92 HTTP/2 stream 5 was not closed cleanly: CANCEL &lpar;err 8&rpar;](https://dev.to/hardyweb/rpc-failed-curl-92-http2-stream-5-was-not-closed-cleanly-cancel-err-8-1ngj)
-- [Setting Up a Simple TCP Server](https://dev.to/dheerajgopi/setting-up-a-simple-tcp-server-42ml)
+- [Building your First dApp on Linea &lpar;in under 10 min!&rpar;](https://dev.to/fernandezbaptiste/building-your-first-dapp-on-linea-in-under-10-min-f13)
+- [Setting Up a VPS with Nginx, Docker, and GitHub Actions](https://dev.to/iyadhgallah/setting-up-a-vps-with-nginx-docker-and-github-actions-1jb7)
+- [Comparison of Spring Cloud with Eureka vs. Consul.io](https://dev.to/isaactony/comparison-of-spring-cloud-with-eureka-vs-consulio-3hgm)
+- [Telegram Mini Apps Journey](https://dev.to/haowang604/telegram-mini-apps-journey-28gj)
+- [Maximise Your Productivity: Harness Hot Reloading in Kubernetes](https://dev.to/cloudnative_eng/maximise-your-productivity-harness-hot-reloading-in-kubernetes-29nk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
