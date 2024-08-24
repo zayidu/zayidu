@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Meshery?](https://dev.to/jamesh/what-is-meshery-2836)
-- [Getting Started with pyenv: A Must-Have Tool for Python Development](https://dev.to/shanu-kumawat/getting-started-with-pyenv-a-must-have-tool-for-python-development-1d3j)
-- [&quot;Backup Tables&quot; package](https://dev.to/watheqalshowaiter/model-required-fields-package-31gl)
-- [Pricing AI products is far more complex than traditional SaaS](https://dev.to/manish_choudhary_3ba21dbd/pricing-ai-products-is-far-more-complex-than-traditional-saas-16c6)
-- [The Ultimate Guide to Create Custom Annotations in Spring Boot](https://dev.to/dishitdevasia/the-ultimate-guide-to-create-custom-annotations-in-spring-boot-fpa)
+- [🚀 Building RealTimeEdify: A Real-Time Collaborative Document Editing App with MERN Stack &amp; Socket.IO](https://dev.to/slacky300/building-realtimeedify-a-real-time-collaborative-document-editing-app-with-mern-stack-socketio-74b)
+- [Learning to code : My web Development Journey Begins](https://dev.to/muha-coder-dev/learning-to-code-my-web-development-journey-begins-3dk5)
+- [Documentation for Deploying &quot;HNG Boilerplate&quot;, A Next.js Application using GitHub Actions](https://dev.to/lanky23/documentation-for-deploying-hng-boilerplate-a-nextjs-application-using-github-actions-4g5c)
+- [Declarative vs. Imperative Programming in JavaScript](https://dev.to/avwerosuoghene/declarative-vs-imperative-programming-in-javascript-2ipe)
+- [¡Los Mejores Sitios para Aprender Programación GRATIS!](https://dev.to/bhyxen/los-mejores-sitios-para-aprender-programacion-gratis-480h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
