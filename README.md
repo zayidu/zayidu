@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 A Leap Forward: React 19 Introduces the Actions Feature](https://dev.to/abhay1kumar/a-leap-forward-react-19-introduces-the-actions-feature-45gp)
-- [🚀 Node.js vs. Express.js: Mastering Server-Side JavaScript Development](https://dev.to/fullstackdevelper/nodejs-vs-expressjs-mastering-server-side-javascript-development-4on9)
-- [🚀 Node.js vs. Express.js: Mastering Server-Side JavaScript Development](https://dev.to/vyan/nodejs-vs-expressjs-mastering-server-side-javascript-development-7a1)
-- [Unleash the Power of Markdown: A Comprehensive Guide to Elevate Your Technical Documentation 🚀](https://dev.to/getvm/unleash-the-power-of-markdown-a-comprehensive-guide-to-elevate-your-technical-documentation-3971)
-- [VB .Net: Import NameSpace to Project](https://dev.to/vblover_programmer/vb-net-import-namespace-to-project-2o7i)
+- [🚀 Understanding the Difference Between `filter` and `map` in Java Stream API](https://dev.to/nullvoidkage/understanding-the-difference-between-filter-and-map-in-java-stream-api-i21)
+- [Getting Started with React: A Beginner’s Guide](https://dev.to/invisibleworld/getting-started-with-react-a-beginners-guide-1f8p)
+- [🚀Java Stream API Cheat Sheet for Developers](https://dev.to/nullvoidkage/java-stream-api-cheat-sheet-for-developers-2me1)
+- [Microservices Interview Cheat Sheet](https://dev.to/nullvoidkage/microservices-interview-cheat-sheet-5he0)
+- [Widget #7: Crafting a Responsive Notification UI Component with Tailwind CSS](https://dev.to/dilsemonk/widget-7-crafting-a-responsive-notification-ui-component-with-tailwind-css-3kp7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
