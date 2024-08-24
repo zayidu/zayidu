@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Version Conflicts in the Package.json file](https://dev.to/himanshu_jangid_e2d30519d/version-conflicts-in-the-packagejson-file-25cb)
-- [🚀 10+ More Advanced Project Ideas to Level Up Your Developer Skills: Part 2](https://dev.to/lokesh_singh/10-more-advanced-project-ideas-to-level-up-your-developer-skills-part-2-4bb0)
-- [Building a Custom Command Palette with React: A Deep Dive into React Portals, Observables, and Event Listeners](https://dev.to/ashutoshsarangi/building-a-custom-command-palette-with-react-a-deep-dive-into-react-portals-observables-and-event-listeners-4kjm)
-- [Japanglish Tech Talk #2 Presentation Introduction](https://dev.to/tamtam0829/japanglish-tech-talk-2-presentation-introduction-9cl)
-- [fsPromises vs fs Module in Modern Node.js](https://dev.to/shanu001x/fspromises-vs-fs-module-in-modern-nodejs-414m)
+- [Day 54 / 100 Days of Code: Lessons on Scope](https://dev.to/jacobsternx/day-54-100-days-of-code-lessons-on-scope-3h11)
+- [Appium Setup: A Step-by-Step Guide For Beginner](https://dev.to/jignect_technologies/appium-setup-a-step-by-step-guide-for-beginner-40hj)
+- [🔍 SSR vs. CSR: Understanding the Differences and When to Use Them](https://dev.to/dipakahirav/ssr-vs-csr-understanding-the-differences-and-when-to-use-them-163c)
+- [Number System Converter Web App! 🌐🚀](https://dev.to/s_hadowheart/number-system-converter-web-app-3o23)
+- [RESTful API Design: Best Practices and Common Pitfalls](https://dev.to/soham_galande/restful-api-design-best-practices-and-common-pitfalls-1lg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
