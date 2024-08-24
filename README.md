@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sign Language Detector with Open CV and Python: Hand Gesture Recognition](https://dev.to/rishi_nalem/sign-language-detector-with-open-cv-and-python-hand-gesture-recognition-56le)
-- [How to use chmod | Understanding File &amp; Directory Permissions](https://dev.to/mahimabhardwaj/how-to-use-chmod-understanding-file-directory-permissions-2b0k)
-- [Integrate Web Component/MFE with plain static HTML](https://dev.to/akdevcraft/integrate-web-componentmfe-with-plain-static-html-2729)
-- [Parallel Programming &amp; Async/Await &amp; Cancellation Token](https://dev.to/ipazooki/parallel-programming-asyncawait-cancellation-token-52ie)
-- [Web Browser Extension Workshop - Part 1](https://dev.to/vst/web-browser-extension-workshop-part-1-2eh)
+- [Check out a Top Notch Website soft CodeOn](https://dev.to/muhammadaliaffan/check-out-a-top-notch-website-1j5n)
+- [🌟 Micro Frontend vs. Atomic Frontend: A Modern Web Development Showdown 🚀](https://dev.to/mdawooddev/micro-frontend-vs-atomic-frontend-a-modern-web-development-showdown-4906)
+- [DevOps Project - The Ultimate CICD Corporate DevOps Pipeline Project](https://dev.to/prodevopsguytech/devops-project-the-ultimate-cicd-corporate-devops-pipeline-project-3km)
+- [Editor de Texto](https://dev.to/enlineaweb/editor-de-texto-4k59)
+- [Open Oft-used Files when Starting Vim](https://dev.to/fbicknel/open-oft-used-files-when-starting-vim-1lf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
