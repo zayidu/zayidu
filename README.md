@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Actually Useful interview prep tool.](https://dev.to/aveesdev/actually-useful-interview-prep-tool-4lho)
-- [Entendendo @MappedSuperclass em JPA](https://dev.to/gregoriohd/entendendo-mappedsuperclass-em-jpa-4310)
-- [Some Config Ideas for your ZSH](https://dev.to/gokayburuc/some-config-ideas-for-your-zsh-181p)
-- [Exciting News: Windows Community Toolkit v8.1 is here](https://dev.to/mahrukh_adeel/exciting-news-windows-community-toolkit-v81-is-here-4noi)
-- [How Google Tag Manager Empowers Businesses with Efficient Tag Management and Data-Driven Insights](https://dev.to/zobaidulkazi/how-google-tag-manager-empowers-businesses-with-efficient-tag-management-and-data-driven-insights-1n0a)
+- [What is Meshery?](https://dev.to/jamesh/what-is-meshery-2836)
+- [Getting Started with pyenv: A Must-Have Tool for Python Development](https://dev.to/shanu-kumawat/getting-started-with-pyenv-a-must-have-tool-for-python-development-1d3j)
+- [&quot;Backup Tables&quot; package](https://dev.to/watheqalshowaiter/model-required-fields-package-31gl)
+- [Pricing AI products is far more complex than traditional SaaS](https://dev.to/manish_choudhary_3ba21dbd/pricing-ai-products-is-far-more-complex-than-traditional-saas-16c6)
+- [The Ultimate Guide to Create Custom Annotations in Spring Boot](https://dev.to/dishitdevasia/the-ultimate-guide-to-create-custom-annotations-in-spring-boot-fpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
