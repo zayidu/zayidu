@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [useReducer: Beyond useState for Complex State Logic](https://dev.to/kada/usereducer-beyond-usestate-for-complex-state-logic-bn0)
-- [UnDistractor](https://dev.to/aaryan_tahir_6c3500b9021f/undistractor-31hn)
-- [Integrating Telegram Stars ⭐️ Payment in a Python Bot](https://dev.to/king_triton/integrating-telegram-stars-payment-in-a-python-bot-3667)
-- [AI’s Role in Frontend Development](https://dev.to/faisal-hanif/ais-role-in-frontend-development-41fg)
-- [Why web application size matters](https://dev.to/relative-ci/why-web-application-size-matters-51bc)
+- [The Solar System in CSS](https://dev.to/madsstoumann/the-solar-system-in-css-51bo)
+- [The Value of Network Administration Skills in Cloud Computing](https://dev.to/seunb/the-value-of-network-administration-skills-in-cloud-computing-b74)
+- [The Ultimate Guide to Data Analytics](https://dev.to/mutrogers/the-ultimate-guide-to-data-analytics-545p)
+- [Dependency Inversion Principle](https://dev.to/prashantrmishra/dependency-inversion-principle-2if7)
+- [Get Started with LINUX&lpar;Basics to Intermediate&rpar;](https://dev.to/utsav_sonkar/get-started-with-linuxbasics-to-intermediate-5eh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
