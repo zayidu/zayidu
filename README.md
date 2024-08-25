@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Scalable, Free URL Shortener.](https://dev.to/asadk/how-i-built-a-scalable-free-url-shortener-1db6)
-- [Scheduled Test Workflow Documentation](https://dev.to/kahuna04/scheduled-test-workflow-documentation-3b8h)
-- [DEPLOYING THE BACKEND OF &quot;HNG_BOILERPLATE&quot; EXPRESSJS APPLICATION TO PROD SERVER](https://dev.to/bankolejohn/deploying-the-backend-of-hngboilerplate-expressjs-application-to-prod-server-1d35)
-- [Understanding the CSS Box Model](https://dev.to/ridoy_hasan/understanding-the-css-box-model-p6m)
-- [My First Two Weeks in Programming: Tools I learnt](https://dev.to/muha-coder-dev/my-first-two-weeks-in-programming-tools-i-learnt-k7m)
+- [Creating Augmented Reality Apps with Unity](https://dev.to/kartikmehta8/creating-augmented-reality-apps-with-unity-3mc2)
+- [Stuck on React and Express? Legacy Code Is Holding You Back—Old Isn’t Gold!](https://dev.to/themuneebh/stuck-on-react-and-express-legacy-code-is-holding-you-back-old-isnt-gold-4fg4)
+- [How to Measure Heart Rate and Blood Oxygen Levels with MAX30102 Sensor on a Raspberry Pi Using Python](https://dev.to/shilleh/how-to-measure-heart-rate-and-blood-oxygen-levels-with-max30102-sensor-on-a-raspberry-pi-using-python-50hc)
+- [Triggering Jenkins Jobs Remotely via API with Ease](https://dev.to/jorgecastro/triggering-jenkins-jobs-remotely-via-api-with-ease-20b)
+- [HTTP Ping on CloudPing](https://dev.to/learnwithsrini/http-ping-on-cloudping-16le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
