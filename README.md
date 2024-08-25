@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [RestAssured RestAPI automation testing Crash Course](https://dev.to/brijendrarai/restassured-restapi-automation-testing-crash-course-n4f)
+- [Introducing Turborepo NestJS + Qwik City Boilerplate](https://dev.to/fyvfyv/introducing-turborepo-nestjs-qwik-city-boilerplate-3def)
 - [Creating Augmented Reality Apps with Unity](https://dev.to/kartikmehta8/creating-augmented-reality-apps-with-unity-3mc2)
 - [Stuck on React and Express? Legacy Code Is Holding You Back—Old Isn’t Gold!](https://dev.to/themuneebh/stuck-on-react-and-express-legacy-code-is-holding-you-back-old-isnt-gold-4fg4)
 - [How to Measure Heart Rate and Blood Oxygen Levels with MAX30102 Sensor on a Raspberry Pi Using Python](https://dev.to/shilleh/how-to-measure-heart-rate-and-blood-oxygen-levels-with-max30102-sensor-on-a-raspberry-pi-using-python-50hc)
-- [Triggering Jenkins Jobs Remotely via API with Ease](https://dev.to/jorgecastro/triggering-jenkins-jobs-remotely-via-api-with-ease-20b)
-- [HTTP Ping on CloudPing](https://dev.to/learnwithsrini/http-ping-on-cloudping-16le)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
