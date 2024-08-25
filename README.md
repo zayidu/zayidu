@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Solar System in CSS](https://dev.to/madsstoumann/the-solar-system-in-css-51bo)
-- [The Value of Network Administration Skills in Cloud Computing](https://dev.to/seunb/the-value-of-network-administration-skills-in-cloud-computing-b74)
-- [The Ultimate Guide to Data Analytics](https://dev.to/mutrogers/the-ultimate-guide-to-data-analytics-545p)
-- [Dependency Inversion Principle](https://dev.to/prashantrmishra/dependency-inversion-principle-2if7)
-- [Get Started with LINUX&lpar;Basics to Intermediate&rpar;](https://dev.to/utsav_sonkar/get-started-with-linuxbasics-to-intermediate-5eh3)
+- [2D Free Noir Game Backgrounds - 4K Layered PSD](https://dev.to/devsdaddy/2d-free-noir-game-backgrounds-4k-layered-psd-2h6d)
+- [Building Accessible React Applications](https://dev.to/manjushsh/building-accessible-react-applications-3obm)
+- [Guía Completa para Crear una Instancia EC2 en AWS](https://dev.to/gabeincloud/guia-completa-para-crear-una-instancia-ec2-en-aws-4770)
+- [Proxmox Security Series:Securing Root Access](https://dev.to/sebos/proxmox-security-seriessecuring-root-access-190e)
+- [AWS EKS - Auth error or Forbidden access](https://dev.to/gustavorglima/aws-eks-auth-error-or-forbidden-access-15l4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
