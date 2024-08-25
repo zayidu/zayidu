@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Regression: The Backbone of Predictive Models](https://dev.to/zain725342/understanding-regression-the-backbone-of-predictive-models-1m7a)
+- [Bienvenidos al Mundo de la Programación: El Arte de Pensar en Pasos](https://dev.to/torrezmn/bienvenidos-al-mundo-de-la-programacion-el-arte-de-pensar-en-pasos-2lok)
+- [Top 11 JavaScript Frameworks and Libraries to Learn in 2024](https://dev.to/dipakahirav/top-11-javascript-frameworks-and-libraries-to-learn-in-2024-a9l)
+- [Today&#39;s Trending Projects: Snake Game Using Python and Pygame and More](https://dev.to/labex/todays-trending-projects-snake-game-using-python-and-pygame-and-more-3c8k)
 - [RestAssured RestAPI automation testing Crash Course](https://dev.to/brijendrarai/restassured-restapi-automation-testing-crash-course-n4f)
-- [Introducing Turborepo NestJS + Qwik City Boilerplate](https://dev.to/fyvfyv/introducing-turborepo-nestjs-qwik-city-boilerplate-3def)
-- [Creating Augmented Reality Apps with Unity](https://dev.to/kartikmehta8/creating-augmented-reality-apps-with-unity-3mc2)
-- [Stuck on React and Express? Legacy Code Is Holding You Back—Old Isn’t Gold!](https://dev.to/themuneebh/stuck-on-react-and-express-legacy-code-is-holding-you-back-old-isnt-gold-4fg4)
-- [How to Measure Heart Rate and Blood Oxygen Levels with MAX30102 Sensor on a Raspberry Pi Using Python](https://dev.to/shilleh/how-to-measure-heart-rate-and-blood-oxygen-levels-with-max30102-sensor-on-a-raspberry-pi-using-python-50hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
