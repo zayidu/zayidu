@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [StockSmart: Revolutionize Your Retail Inventory!](https://dev.to/rishi_nalem/stocksmart-revolutionize-your-retail-inventory-d50)
-- [Object Property Shorthand: When the property name and variable name are the same, you can omit the value.](https://dev.to/mmourouh/object-property-shorthand-when-the-property-name-and-variable-name-are-the-same-you-can-omit-the-value-5dhb)
-- [7 CSS Mistakes that Beginners Often Make](https://dev.to/donvine254/7-css-mistakes-that-beginners-often-make-34om)
-- [🚀 ¡Únete a FCodeX! Buscamos Contribuyentes para Nuestro Framework Open Source 🚀](https://dev.to/javier_alfaro_f470fd905b0/unete-a-fcodex-buscamos-contribuyentes-para-nuestro-framework-open-source-561k)
-- [Get file size from a URL using HttpClient in .NET](https://dev.to/peyman/get-file-size-from-a-url-using-httpclient-in-net-5fj8)
+- [how to implement Laravel SPA reverb broadcasting with vue js cli?](https://dev.to/xbrook_b1d678345e23b22ca2/how-to-implement-laravel-spa-reverb-broadcasting-with-vue-js-cli-48f4)
+- [AI-Powered GitHub README Generator](https://dev.to/shenli3514/ai-powered-github-readme-generator-4pk5)
+- [Sets](https://dev.to/mahf001/sets-4gk7)
+- [My Dream Game Engine](https://dev.to/frodo_alsaka/my-dream-game-engine-3peh)
+- [Advanced Python Techniques: Metaclasses, Decorators, and Context Managers](https://dev.to/oussama_errafif/advanced-python-techniques-metaclasses-decorators-and-context-managers-59af)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
