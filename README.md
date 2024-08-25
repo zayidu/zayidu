@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Session Storage, Local Storage, and Cookies in Web Development](https://dev.to/eddiemuhoro/understanding-session-storage-local-storage-and-cookies-in-web-development-1i14)
-- [Vector Vision: Transform Your Local Image Search](https://dev.to/sumantha_ka/vector-vision-transform-your-local-image-search-56ph)
-- [Leveraging the MERN Stack for Scalable Web Applications](https://dev.to/codewithmahadihasan/leveraging-the-mern-stack-for-scalable-web-applications-23lg)
-- [The ultimate guide to Data Science.](https://dev.to/alvin_mustafa_/the-ultimate-guide-to-data-science-1063)
-- [Intercepted System.exit&lpar;...&rpar; on Java 21](https://dev.to/sualeh/java-systemexit-on-java-21-445a)
+- [.NET 8.0 Web API 🔒 JWT Authentication and Role-Based Authorization](https://dev.to/shahed1bd/net-80-web-api-jwt-authentication-and-role-based-authorization-42f1)
+- [GSoC’24&lpar;CircuitVerse&rpar; Week 11 &amp; 12](https://dev.to/niladri_adhikary_f11402dc/gsoc24circuitverse-week-11-12-2p4h)
+- [How I Structure My Day as a Software Developer](https://dev.to/vkolencik/how-i-structure-my-day-as-a-software-developer-246c)
+- [Designing a Secure Architecture for Distributed Systems](https://dev.to/apssouza22/designing-a-secure-architecture-for-distributed-systems-3nb0)
+- [How I Entered Web Development for the Wrong Reasons &lpar;and Stayed for the Right Ones&rpar;](https://dev.to/mashablair/how-i-entered-web-development-for-the-wrong-reasons-and-stayed-for-the-right-ones-3n5m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
