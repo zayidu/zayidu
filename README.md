@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Regression: The Backbone of Predictive Models](https://dev.to/zain725342/understanding-regression-the-backbone-of-predictive-models-1m7a)
-- [Bienvenidos al Mundo de la Programación: El Arte de Pensar en Pasos](https://dev.to/torrezmn/bienvenidos-al-mundo-de-la-programacion-el-arte-de-pensar-en-pasos-2lok)
-- [Top 11 JavaScript Frameworks and Libraries to Learn in 2024](https://dev.to/dipakahirav/top-11-javascript-frameworks-and-libraries-to-learn-in-2024-a9l)
-- [Today&#39;s Trending Projects: Snake Game Using Python and Pygame and More](https://dev.to/labex/todays-trending-projects-snake-game-using-python-and-pygame-and-more-3c8k)
-- [RestAssured RestAPI automation testing Crash Course](https://dev.to/brijendrarai/restassured-restapi-automation-testing-crash-course-n4f)
+- [🤖🚀Day 25: Understanding Generative AI and Its Impact on DevOps](https://dev.to/ritesh_dolare/day-25-understanding-generative-ai-and-its-impact-on-devops-236m)
+- [Hello World](https://dev.to/alwin_theodoric/hello-world-1c3i)
+- [Mastering Overflow Scroll Gradient with CSS](https://dev.to/labex/mastering-overflow-scroll-gradient-with-css-55n1)
+- [I made a webcomic using HTML/CSS + AI…](https://dev.to/oscar_oro/i-made-a-webcomic-using-htmlcss-ai-1b6d)
+- [Load Balancing Spring Boot Applications with Spring Cloud LoadBalancer](https://dev.to/virajlakshitha/load-balancing-spring-boot-applications-with-spring-cloud-loadbalancer-2ci7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
