@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Rust Is a Good Choice for Web3 Development](https://dev.to/shanu001x/why-rust-is-a-good-choice-for-web3-development-nf3)
-- [Single Responsibility Principle](https://dev.to/prashantrmishra/single-responsibility-principle-m8n)
-- [Make environment to develop commonlisp with NeoVim](https://dev.to/bea91e/make-environment-to-develop-commonlisp-with-neovim-38be)
-- [Build a Password Generator Website](https://dev.to/abhishekgurjar/build-a-password-generator-website-1o9g)
-- [An authentication process with AWS Cognito and node, express Graphql](https://dev.to/kamruzzzaman/an-authentication-process-with-aws-cognito-and-node-express-graphql-1n0)
+- [10 Things You Can Learn from Netflix’s Architecture](https://dev.to/somadevtoo/10-things-you-can-learn-from-netflixs-architecture-1bnn)
+- [Era of Intelligent Transformation - FAV0 Weekly #012](https://dev.to/justin3go/era-of-intelligent-transformation-fav0-weekly-012-8ce)
+- [Angular CDK Drag &amp; Drop: Multi Direction Movement](https://dev.to/ngmaterialdev/angular-cdk-drag-drop-multi-direction-movement-54l5)
+- [智变时代 - FAV0周刊#012](https://dev.to/justin3go/zhi-bian-shi-dai-fav0zhou-kan-012-13bi)
+- [Interface Segregation Principle](https://dev.to/prashantrmishra/interface-segregation-principle-4e97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
