@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 New open-source alert!](https://dev.to/twentyone24/new-open-source-alert-1193)
-- [Selenium](https://dev.to/selvakumar/selenium-3h6a)
-- [Selenium](https://dev.to/selvakumar/selenium-1k7p)
-- [Selenium](https://dev.to/selvakumar/selenium-425b)
-- [Building a Robust Test Suite for Single Page Applications &lpar;SPAs&rpar;](https://dev.to/aswani25/building-a-robust-test-suite-for-single-page-applications-spas-3cbe)
+- [What Are the Risks of Selling on eBay?](https://dev.to/thompsonblog/what-are-the-risks-of-selling-on-ebay-33h8)
+- [How to Turn Off Show Promoted Links&lpar;Disabled&rpar; In Microsoft Edge Browser?](https://dev.to/winsides/how-to-turn-off-show-promoted-linksdisabled-in-microsoft-edge-browser-4f9)
+- [The Business Side Of Tech : Where The Money Is](https://dev.to/dev_olatunji/the-business-side-of-tech-where-the-money-is-4m28)
+- [Bridging Jira and GitLab: Automating CI/CD Pipelines for Releases](https://dev.to/maxim_radugin/bridging-jira-and-gitlab-automating-cicd-pipelines-for-releases-3lob)
+- [What is Software Testing ? What we need to know about Software Testing ? What is the relevance of Software Testing ?](https://dev.to/rvp_pat/what-is-software-testing-what-we-need-to-know-about-software-testing-what-is-the-relevance-of-software-testing--2bbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
