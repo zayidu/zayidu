@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Speeding Up Your Website Using Cloudflare Cache](https://dev.to/lilouartz/speeding-up-your-website-using-cloudflare-cache-25c0)
-- [Scrapy vs Selenium: Which Web Scraping Tool is Best?](https://dev.to/lewis_kerr_2d0d4c5b886b02/scrapy-vs-selenium-which-web-scraping-tool-is-best-3nhi)
-- [Absolutely FREE hosting server for your Backend &lpar;For Life&rpar;](https://dev.to/shivam-dhaka/absolutely-free-hosting-server-for-your-backend-for-life-172)
-- [What&#39;s Next After Learning Python](https://dev.to/vincod/whats-next-after-learning-python-4onh)
-- [How to Automate Image Downloading with Python: A Comprehensive Guide](https://dev.to/dm8ry/how-to-automate-image-downloading-with-python-a-comprehensive-guide-8n9)
+- [useReducer: Beyond useState for Complex State Logic](https://dev.to/kada/usereducer-beyond-usestate-for-complex-state-logic-bn0)
+- [UnDistractor](https://dev.to/aaryan_tahir_6c3500b9021f/undistractor-31hn)
+- [Integrating Telegram Stars ⭐️ Payment in a Python Bot](https://dev.to/king_triton/integrating-telegram-stars-payment-in-a-python-bot-3667)
+- [AI’s Role in Frontend Development](https://dev.to/faisal-hanif/ais-role-in-frontend-development-41fg)
+- [Why web application size matters](https://dev.to/relative-ci/why-web-application-size-matters-51bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
