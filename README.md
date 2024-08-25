@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖🚀Day 25: Understanding Generative AI and Its Impact on DevOps](https://dev.to/ritesh_dolare/day-25-understanding-generative-ai-and-its-impact-on-devops-236m)
-- [Hello World](https://dev.to/alwin_theodoric/hello-world-1c3i)
-- [Mastering Overflow Scroll Gradient with CSS](https://dev.to/labex/mastering-overflow-scroll-gradient-with-css-55n1)
-- [I made a webcomic using HTML/CSS + AI…](https://dev.to/oscar_oro/i-made-a-webcomic-using-htmlcss-ai-1b6d)
-- [Load Balancing Spring Boot Applications with Spring Cloud LoadBalancer](https://dev.to/virajlakshitha/load-balancing-spring-boot-applications-with-spring-cloud-loadbalancer-2ci7)
+- [Photos from OneDrive to HTML](https://dev.to/theholyspirit/photos-from-onedrive-to-html-3a78)
+- [Serve Your Assets Automatically with Bitbucket and AWS](https://dev.to/aws-builders/serve-your-assets-automatically-with-bitbucket-and-aws-1bc0)
+- [Unlock the Secrets of Embedded Systems with this Comprehensive Course! 🤖](https://dev.to/getvm/unlock-the-secrets-of-embedded-systems-with-this-comprehensive-course-3la1)
+- [🚀 Boost Your React App&#39;s Speed: Essential Performance Optimization Tips 💨](https://dev.to/shahharsh/boost-your-react-apps-speed-essential-performance-optimization-tips-cj7)
+- [Advanced SCSS: Function and Mixins](https://dev.to/tailwine/advanced-scss-function-and-mixins-168m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
