@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create chat bot - JO PARIS 2024](https://dev.to/victordalet/create-chat-bot-jo-paris-2024-4dnf)
-- [Tensorflow music prediction](https://dev.to/victordalet/tensorflow-music-prediction-4i6f)
-- [ROBOFLOW - train &amp; test with python](https://dev.to/victordalet/roboflow-train-test-with-python-4bd4)
-- [Amazon product dataset](https://dev.to/victordalet/amazon-product-dataset-h00)
-- [Selenium python and docker](https://dev.to/victordalet/selenium-python-and-docker-2852)
+- [Hill climbing generative AI problems: When ground truth values are expensive to obtain &amp; launching fast is important](https://dev.to/joschkabraun/hill-climbing-generative-ai-problems-when-ground-truth-values-are-expensive-to-obtain-launching-fast-is-important-1d78)
+- [The ultimate guide to Data Analytics](https://dev.to/samkamuli/the-ultimate-guide-to-data-analytics-j3)
+- [145. Binary Tree Postorder Traversal](https://dev.to/mdarifulhaque/145-binary-tree-postorder-traversal-5628)
+- [Intro to the YouTube APIs: searching for videos](https://dev.to/wescpy/intro-to-the-youtube-apis-searching-for-videos-5a0o)
+- [Feature Engineering: The Ultimate Guide](https://dev.to/myrabel/feature-engineering-the-ultimate-guide-331e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
