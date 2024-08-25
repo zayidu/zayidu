@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Photos from OneDrive to HTML](https://dev.to/theholyspirit/photos-from-onedrive-to-html-3a78)
-- [Serve Your Assets Automatically with Bitbucket and AWS](https://dev.to/aws-builders/serve-your-assets-automatically-with-bitbucket-and-aws-1bc0)
-- [Unlock the Secrets of Embedded Systems with this Comprehensive Course! 🤖](https://dev.to/getvm/unlock-the-secrets-of-embedded-systems-with-this-comprehensive-course-3la1)
-- [🚀 Boost Your React App&#39;s Speed: Essential Performance Optimization Tips 💨](https://dev.to/shahharsh/boost-your-react-apps-speed-essential-performance-optimization-tips-cj7)
-- [Advanced SCSS: Function and Mixins](https://dev.to/tailwine/advanced-scss-function-and-mixins-168m)
+- [Flutter Animation](https://dev.to/aadarshk7/flutter-animation-4ddb)
+- [How Can I Improve My Sleep for Better Health?](https://dev.to/mghem2012/how-can-i-improve-my-sleep-for-better-health-28e9)
+- [Why Microservices Are Important Compared to Monolithic Architecture](https://dev.to/lakhansamani/why-microservices-are-important-compared-to-monolithic-architecture-34ne)
+- [Learning Node.js in 30 Days with AI - Day 1](https://dev.to/king_triton/learning-nodejs-in-30-days-with-ai-day-1-1bm)
+- [Web Security Essentials: Protecting Your Applications from Common Vulnerabilities](https://dev.to/soham_galande/web-security-essentials-protecting-your-applications-from-common-vulnerabilities-bdb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
