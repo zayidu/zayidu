@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to learn javascript in best way](https://dev.to/md_khurshedalam_4f693a7/how-to-learn-javascript-in-best-way-ke0)
-- [Fine-tuning veils rather than tailors underlying model powers](https://dev.to/mikeyoung44/fine-tuning-veils-rather-than-tailors-underlying-model-powers-54h4)
-- [Boost Your Machine Learning Skills: Free Courses for Math and Statistics](https://dev.to/sankarsubbu/boost-your-machine-learning-skills-free-courses-for-math-and-statistics-5fo6)
-- [🚀 Level Up Your Web Development with Next.js](https://dev.to/kavishka_dinajara_88/level-up-your-web-development-with-nextjs-2gkn)
-- [Building Hangout AI at the TiDB Future App Hackathon 2024](https://dev.to/ayusudi/building-hangout-ai-at-the-tidb-future-app-hackathon-2024-29j)
+- [How to use the HTML datalist tag](https://dev.to/mike_andreuzza/how-to-use-the-html-datalist-tag-o65)
+- [What&#39;s the difference between ReactNode vs React.Element](https://dev.to/nattive/whats-the-difference-between-reactnode-vs-reactelement-cgc)
+- [Understanding the Key Differences Between | and || in TypeScript](https://dev.to/akshatsoni26/understanding-the-key-differences-between-and-in-typescript-6jd)
+- [🥫 The Secret Sauce of Scalable Backends: Microservices Explained](https://dev.to/praetorian2710/the-secret-sauce-of-scalable-backends-microservices-explained-3644)
+- [Recursion -1](https://dev.to/vishnub33527201/recursion-1-3p1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
