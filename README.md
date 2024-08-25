@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hill climbing generative AI problems: When ground truth values are expensive to obtain &amp; launching fast is important](https://dev.to/joschkabraun/hill-climbing-generative-ai-problems-when-ground-truth-values-are-expensive-to-obtain-launching-fast-is-important-1d78)
-- [The ultimate guide to Data Analytics](https://dev.to/samkamuli/the-ultimate-guide-to-data-analytics-j3)
-- [145. Binary Tree Postorder Traversal](https://dev.to/mdarifulhaque/145-binary-tree-postorder-traversal-5628)
-- [Intro to the YouTube APIs: searching for videos](https://dev.to/wescpy/intro-to-the-youtube-apis-searching-for-videos-5a0o)
-- [Feature Engineering: The Ultimate Guide](https://dev.to/myrabel/feature-engineering-the-ultimate-guide-331e)
+- [Understanding Session Storage, Local Storage, and Cookies in Web Development](https://dev.to/eddiemuhoro/understanding-session-storage-local-storage-and-cookies-in-web-development-1i14)
+- [Vector Vision: Transform Your Local Image Search](https://dev.to/sumantha_ka/vector-vision-transform-your-local-image-search-56ph)
+- [Leveraging the MERN Stack for Scalable Web Applications](https://dev.to/codewithmahadihasan/leveraging-the-mern-stack-for-scalable-web-applications-23lg)
+- [The ultimate guide to Data Science.](https://dev.to/alvin_mustafa_/the-ultimate-guide-to-data-science-1063)
+- [Intercepted System.exit&lpar;...&rpar; on Java 21](https://dev.to/sualeh/java-systemexit-on-java-21-445a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
