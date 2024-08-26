@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-4h5d)
-- [Liman MYS ve Eklenti Senkronizasyonu: Yüksek Erişilebilirlik için Temel Adımlar](https://dev.to/aciklab/liman-mys-ve-eklenti-senkronizasyonu-yuksek-erisilebilirlik-icin-temel-adimlar-4bii)
-- [Blockchain Oracles: Essential Guide to Connecting On-Chain and Off-Chain Data](https://dev.to/aishik_chatterjee_0060e71/blockchain-oracles-essential-guide-to-connecting-on-chain-and-off-chain-data-14ke)
-- [Conventional Commits Pattern](https://dev.to/mspilari/conventional-commits-pattern-4i20)
-- [Configuration Management with Ansible](https://dev.to/spacelift/configuration-management-with-ansible-1f94)
+- [Your Ultimate Django SaaS Starterkit](https://dev.to/paul_freeman/your-ultimate-django-saas-starterkit-1n2o)
+- [Desafio de Código 01 - Explorando Serviços de Telefonia](https://dev.to/lnabesima/desafio-de-codigo-01-explorando-servicos-de-telefonia-d3g)
+- [What&#39;s New in Figma: Latest Features You Should Know](https://dev.to/uicraft_by_pratik/whats-new-in-figma-latest-features-you-should-know-24cg)
+- [System architecture is the backbone of any software system](https://dev.to/tomjohnson3/system-architecture-is-the-backbone-of-any-software-system-3fn9)
+- [Configuring JDBC to Connect to Databricks Using Java Spring Boot and JdbcTemplate](https://dev.to/matheusmartinello/configuring-jdbc-to-connect-to-databricks-using-java-spring-boot-and-jdbctemplate-1pnf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
