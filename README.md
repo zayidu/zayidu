@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Ultimate Django Freelancing Staterkit](https://dev.to/paul_freeman/your-ultimate-django-freelancing-staterkit-5bl0)
-- [Diary of a Software Developer #2 - 26/08/2024](https://dev.to/antoniodev/diary-of-a-software-developer-2-26082024-2f6a)
-- [Save data less in database using theory of bit in C#](https://dev.to/itlvd/save-data-less-in-database-using-theory-of-bit-in-c-2o6i)
-- [Create Histogram Charts With MySQL – Tutorial](https://dev.to/inspector/create-histogram-charts-with-mysql-tutorial-4fed)
-- [MongoDB Data Model &amp; Microservice Architecture](https://dev.to/sreeni5018/mongodb-data-model-microservice-architecture-342)
+- [Introducing: Beautiful Layouts for Your Rails App](https://dev.to/railsdesigner/introducing-beautiful-layouts-for-your-rails-app-4kn2)
+- [Understanding and Managing Technical Debt: The Hidden Cost of Rapid Development](https://dev.to/samuel_kinuthia/understanding-and-managing-technical-debt-the-hidden-cost-of-rapid-development-39ph)
+- [Building a Retrieval-Augmented Generation &lpar;RAG&rpar; System with Langchain, LangGraph, Tavily and LangSmith in TypeScript](https://dev.to/vdrosatos/building-a-retrieval-augmented-generation-rag-system-with-langchain-langgraph-tavily-and-langsmith-in-typescript-mef)
+- [How to make http request without curl or wget in bash](https://dev.to/piotr_zarycki_fe062ceaa4c/how-to-make-http-request-without-curl-or-wget-in-bash-5401)
+- [The Ultimate Guide to Data Analytics: Unlocking the Power of Data](https://dev.to/samtheanalyst/the-ultimate-guide-to-data-analytics-unlocking-the-power-of-data-6lj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
