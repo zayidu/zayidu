@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Today&#39;s Trending Projects: Linux Server Information Retrieval and More](https://dev.to/labex/todays-trending-projects-linux-server-information-retrieval-and-more-3n8a)
-- [Clean Code Architecture and BLoC in Flutter: A Comprehensive Guide for Beginners and Experts](https://dev.to/princetomarappdev/clean-code-architecture-and-bloc-in-flutter-a-comprehensive-guide-for-beginners-and-experts-33k8)
-- [Google Summer of Code 2024: A Retrospective](https://dev.to/kizjkre/google-summer-of-code-2024-a-retrospective-106c)
-- [K8s QuickBites: Helm Basics](https://dev.to/devsatasurion/k8s-quickbites-helm-basics-25hj)
-- [Exploring Distributed Systems with Apache Kafka](https://dev.to/kartikmehta8/exploring-distributed-systems-with-apache-kafka-mbk)
+- [How To Use Node JS By Displaying &lpar;&quot;Hello World&quot;&rpar;](https://dev.to/muhammad_raihan/how-to-use-node-js-by-displaying-hello-world-3lkh)
+- [Efficient React Development: Leveraging Context and Hooks for Seamless Data Handling](https://dev.to/raju_dandigam/efficient-react-development-leveraging-context-and-hooks-for-seamless-data-handling-258c)
+- [Add Memory in AI: Your Chat Experience on Steroids](https://dev.to/harshit_lakhani/add-memory-in-ai-your-chat-experience-on-steroids-575j)
+- [Don&#39;t stop a process once started!](https://dev.to/leg_end/dont-stop-a-process-once-started-1ed3)
+- [Snowflake Time Travel : Handy SQLs](https://dev.to/digitalchemist/snowflake-time-travel-handy-sqls-en6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
