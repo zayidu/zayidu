@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [End-to-End DevOps Project: Building, Deploying, and Monitoring a Full-Stack Application](https://dev.to/prodevopsguytech/end-to-end-devops-project-building-deploying-and-monitoring-a-full-stack-application-ako)
-- [API Gateway Microservices: Optimizing Architecture for Essential Efficiency](https://dev.to/getambassador2024/api-gateway-microservices-optimizing-architecture-for-essential-efficiency-3nk9)
-- [Configuration of Services](https://dev.to/kalkwst/configuration-of-services-2ikj)
-- [7 Open Source Projects You Should Know - Go Edition ✔️](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-go-edition-3bo4)
-- [Cómo implementar el modo oscuro &lpar;Dark mode&rpar; en una web, mediante JavaScript y CSS](https://dev.to/simplicitytree/como-implementar-el-modo-oscuro-dark-mode-en-una-web-mediante-javascript-y-css-10f7)
+- [#51 - Get Rankings of Excel Rows in Each Group While Retaining the Existing Order](https://dev.to/judith677/51-get-rankings-of-excel-rows-in-each-group-while-retaining-the-existing-order-3pi6)
+- [🚀 Most Useful React Hooks for Your Next Project 🚀](https://dev.to/vyan/most-useful-react-hooks-for-your-next-project-2l4i)
+- [Optimizing Data Analysis with Trino and DbVisualizer](https://dev.to/dbvismarketing/optimizing-data-analysis-with-trino-and-dbvisualizer-180)
+- [Unlock New Capabilities with SafeLine 6.7.0: Advanced Features and Essential Fixes](https://dev.to/lulu_liu_c90f973e2f954d7f/new-capabilities-with-safeline-latest-update-brings-advanced-features-and-essential-fixes-2o2c)
+- [July 10, 2024 Python | DataTypes, Variables, Constants](https://dev.to/vishal-johnnelson/july-10-2024-python-datatypes-variables-constants-4ggn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
