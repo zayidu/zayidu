@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deepfake and Elections: Challenges and Implications for Democracy](https://dev.to/mggdev/deepfake-and-elections-challenges-and-implications-for-democracy-2e24)
-- [Exploring Project IDX: The Future of Coding](https://dev.to/prasad97/exploring-project-idx-the-future-of-coding-3pc8)
-- [Setting up Github Integration with AWS CodeBuild using Cloud Development Kit&lpar;CDK&rpar; : Automating Angular App Deployment to S3](https://dev.to/nivekalara237/setting-up-github-integration-with-aws-codebuild-using-cloud-development-kitcdk-automating-angular-app-deployment-to-s3-2j9g)
-- [590. N-ary Tree Postorder Traversa](https://dev.to/mdarifulhaque/590-n-ary-tree-postorder-traversa-1493)
-- [State Management in Modern Web Applications](https://dev.to/haquedot/state-management-in-modern-web-applications-50d6)
+- [How to Handle Millions of Requests per Second: Load Balancing 101 🚀](https://dev.to/jbyte/how-to-handle-millions-of-requests-per-second-load-balancing-101-2f7n)
+- [Controla tus promesa con JavaScript](https://dev.to/bearpoint/controla-tus-promesa-con-javascript-51c8)
+- [Modern Authentication on .NET in Practice: OpenID Connect, BFF and SPA](https://dev.to/kirill-abblix/modern-authentication-on-net-in-practice-openid-connect-bff-and-spa-3gj2)
+- [A Guide to Modern Kubernetes Service Networking 🚀](https://dev.to/hkhelil/a-guide-to-modern-kubernetes-service-networking-4017)
+- [Dia Internacional da Igualdade Feminina: Celebrando conquistas e fortalecendo o futuro das mulheres na tecnologia](https://dev.to/womakerscode/dia-internacional-da-igualdade-feminina-celebrando-conquistas-e-fortalecendo-o-futuro-das-mulheres-na-tecnologia-1nn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
