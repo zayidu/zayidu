@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NextJS Internationalization using Google Translator](https://dev.to/mohammadfaisal/nextjs-internationalization-using-google-translator-4pgk)
-- [Build a Month Calendar Website](https://dev.to/abhishekgurjar/build-a-month-calendar-website-41c9)
-- [Cut Costs in OpenSearch Serverless with Bedrock Knowledge Base - Part 2](https://dev.to/aws-builders/cut-costs-in-opensearch-serverless-with-bedrock-knowledge-base-part-2-47p)
-- [Insights and Tips from a Lead Engineer](https://dev.to/dhanushnehru/insights-and-tips-from-a-lead-engineer-ic5)
-- [Develop yourself to build Web UIs: Part Two: Art of styling the web🎨](https://dev.to/marina_labs/develop-yourself-to-build-web-uis-part-two-art-of-styling-the-web-39g1)
+- [Deepfake and Elections: Challenges and Implications for Democracy](https://dev.to/mggdev/deepfake-and-elections-challenges-and-implications-for-democracy-2e24)
+- [Exploring Project IDX: The Future of Coding](https://dev.to/prasad97/exploring-project-idx-the-future-of-coding-3pc8)
+- [Setting up Github Integration with AWS CodeBuild using Cloud Development Kit&lpar;CDK&rpar; : Automating Angular App Deployment to S3](https://dev.to/nivekalara237/setting-up-github-integration-with-aws-codebuild-using-cloud-development-kitcdk-automating-angular-app-deployment-to-s3-2j9g)
+- [590. N-ary Tree Postorder Traversa](https://dev.to/mdarifulhaque/590-n-ary-tree-postorder-traversa-1493)
+- [State Management in Modern Web Applications](https://dev.to/haquedot/state-management-in-modern-web-applications-50d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
