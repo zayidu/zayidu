@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Business Case Against Massive Unrequested Refactorings](https://dev.to/canro91/a-business-case-against-massive-unrequested-refactorings-17d4)
-- [About me - mrzaizai2k](https://dev.to/mrzaizai2k/about-me-mrzaizai2k-4o64)
-- [Franken UI: A Powerful HTML-First UI Component Library](https://dev.to/uicraft_by_pratik/franken-ui-a-powerful-html-first-ui-component-library-401e)
-- [Warp: Redefining Productivity with AI Right In Your Terminal](https://dev.to/macaoblog/-warp-la-terminal-que-redefine-la-productividad-con-ia-36gg)
-- [Js heap out of memory on running angular 13 project](https://dev.to/developer10_ishtech_c26e1/js-heap-out-of-memory-on-running-angular-13-project-5bkm)
+- [End-to-End DevOps Project: Building, Deploying, and Monitoring a Full-Stack Application](https://dev.to/prodevopsguytech/end-to-end-devops-project-building-deploying-and-monitoring-a-full-stack-application-ako)
+- [API Gateway Microservices: Optimizing Architecture for Essential Efficiency](https://dev.to/getambassador2024/api-gateway-microservices-optimizing-architecture-for-essential-efficiency-3nk9)
+- [Configuration of Services](https://dev.to/kalkwst/configuration-of-services-2ikj)
+- [7 Open Source Projects You Should Know - Go Edition ✔️](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-go-edition-3bo4)
+- [Cómo implementar el modo oscuro &lpar;Dark mode&rpar; en una web, mediante JavaScript y CSS](https://dev.to/simplicitytree/como-implementar-el-modo-oscuro-dark-mode-en-una-web-mediante-javascript-y-css-10f7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
