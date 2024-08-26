@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [See untested code in GitLab MRs](https://dev.to/epigene/see-untested-code-in-gitlab-mrs-3i3k)
-- [Vercel vs Netlify: How to Pick the Right One](https://dev.to/focusreactive/vercel-vs-netlify-how-to-pick-the-right-one-d1e)
-- [If PHP Fell Out of Favor, Which Backend Language Would I Choose?](https://dev.to/violet_alexander_a4a3e5dd/if-php-fell-out-of-favor-which-backend-language-would-i-choose-40m2)
-- [Navigating the Digital Frontier: A Cybersecurity Primer for Business Owners](https://dev.to/zerodayrebel/navigating-the-digital-frontier-a-cybersecurity-primer-for-business-owners-hjl)
-- [Monitoring Third Party Vendors as an Ops Engineer/SRE](https://dev.to/hrishb/monitoring-third-party-vendors-as-an-ops-engineersre-41j1)
+- [Eager vs Lazy Initialization of Spring Beans](https://dev.to/isaactony/eager-vs-lazy-initialization-of-spring-beans-552k)
+- [A Free and Powerful WAF Solution for Web Security-SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/a-free-and-powerful-waf-solution-for-web-security-safeline-47n2)
+- [How I Decided on dev.to as My Writing Home 🖋](https://dev.to/mrzaizai2k/how-i-decided-on-devto-as-my-writing-home-5fel)
+- [Predicting DSA Solutions Using Constraints](https://dev.to/saurabhkurve/predicting-dsa-solutions-using-constraints-4jnf)
+- [How does 3D technology penetrate into our daily lives?](https://dev.to/samuel67/how-does-3d-technology-penetrate-into-our-daily-lives-33o3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
