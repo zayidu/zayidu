@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Ultimate Django SaaS Starterkit](https://dev.to/paul_freeman/your-ultimate-django-saas-starterkit-1n2o)
-- [Desafio de Código 01 - Explorando Serviços de Telefonia](https://dev.to/lnabesima/desafio-de-codigo-01-explorando-servicos-de-telefonia-d3g)
-- [What&#39;s New in Figma: Latest Features You Should Know](https://dev.to/uicraft_by_pratik/whats-new-in-figma-latest-features-you-should-know-24cg)
-- [System architecture is the backbone of any software system](https://dev.to/tomjohnson3/system-architecture-is-the-backbone-of-any-software-system-3fn9)
-- [Configuring JDBC to Connect to Databricks Using Java Spring Boot and JdbcTemplate](https://dev.to/matheusmartinello/configuring-jdbc-to-connect-to-databricks-using-java-spring-boot-and-jdbctemplate-1pnf)
+- [Storefront hero sections for e-commerce built with Tailwind CSS and Flowbite](https://dev.to/themesberg/storefront-hero-sections-for-e-commerce-built-with-tailwind-css-and-flowbite-3j8j)
+- [What is Digital Identity Verification?](https://dev.to/faceplugin/what-is-digital-identity-verification-lb9)
+- [How Cloud-Based Solutions Are Impacting DevOps](https://dev.to/jennife05918349/how-cloud-based-solutions-are-impacting-devops-o92)
+- [Carbon: The new C++?](https://dev.to/gyauelvis/carbon-the-new-c-35fn)
+- [How CheckStat was created: Real-time site analytics](https://dev.to/filmovtv/how-checkstat-was-created-real-time-site-analytics-3h7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
