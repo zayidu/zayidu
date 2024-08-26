@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[18/52] Engineering Fundamentals: Teh Maths](https://dev.to/tythos/1852-engineering-fundamentals-teh-maths-2obn)
-- [Technical Manual Illustration](https://dev.to/davidbosah/technical-manual-illustration-1jae)
-- [Implementing SOLID Principles in React: A Guide for Scalable Development](https://dev.to/mdawooddev/implementing-solid-principles-in-react-a-guide-for-scalable-development-57h8)
-- [Clean Architecture P7:Create Domain Project](https://dev.to/moh_moh701/clean-architecture-p7create-domain-project-eca)
-- [The Ultimate Guide to Data Analytics](https://dev.to/mutanuvivian/the-ultimate-guide-to-data-analytics-47jg)
+- [Why You Should Use AWS Lambda Layers 📦](https://dev.to/aws-heroes/why-you-should-use-aws-lambda-layers-1cke)
+- [AI boosted: Website builders](https://dev.to/rutrus/ai-boosted-website-builders-4gma)
+- [🚀 Building an Open-Source High-Frequency Trading Bot Using Binance Spot API](https://dev.to/avitakiyar/building-an-open-source-high-frequency-trading-bot-using-binance-spot-api-4jci)
+- [Finally](https://dev.to/mustafacam/finally-akg)
+- [How to Fix Session store not set on request Laravel 11?](https://dev.to/abdulwahidkahar/how-to-fix-session-store-not-set-on-request-laravel-11-2d4p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
