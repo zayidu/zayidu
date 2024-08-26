@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Storefront hero sections for e-commerce built with Tailwind CSS and Flowbite](https://dev.to/themesberg/storefront-hero-sections-for-e-commerce-built-with-tailwind-css-and-flowbite-3j8j)
-- [What is Digital Identity Verification?](https://dev.to/faceplugin/what-is-digital-identity-verification-lb9)
-- [How Cloud-Based Solutions Are Impacting DevOps](https://dev.to/jennife05918349/how-cloud-based-solutions-are-impacting-devops-o92)
-- [Carbon: The new C++?](https://dev.to/gyauelvis/carbon-the-new-c-35fn)
-- [How CheckStat was created: Real-time site analytics](https://dev.to/filmovtv/how-checkstat-was-created-real-time-site-analytics-3h7d)
+- [Shebang Line: A Complete Explanation](https://dev.to/vectordatabasetop/shebang-line-a-complete-explaination-4ai1)
+- [Publish C# Project to Nuget.org](https://dev.to/rmaurodev/publish-c-project-to-nugetorg-2leb)
+- [Liman MYS - Politikalar | OU&#39;da Var Olan Politikaların Yeni OU&#39;ya Eklenmesi](https://dev.to/aciklab/liman-mys-politikalar-ouda-var-olan-politikalarin-yeni-ouya-eklenmesi-4ial)
+- [3 System Design Patterns to Know: Ambassador, Circuit Breaker, and CQRS](https://dev.to/tomjohnson3/3-system-design-patterns-to-know-ambassador-circuit-breaker-and-cqrs-2e7b)
+- [Launching ChartDB: Visualize database schemas with a single query](https://dev.to/jonathanfishner/launching-chartdb-visualize-database-schemas-with-a-single-query-3ca0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
