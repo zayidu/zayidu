@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing: Beautiful Layouts for Your Rails App](https://dev.to/railsdesigner/introducing-beautiful-layouts-for-your-rails-app-4kn2)
-- [Understanding and Managing Technical Debt: The Hidden Cost of Rapid Development](https://dev.to/samuel_kinuthia/understanding-and-managing-technical-debt-the-hidden-cost-of-rapid-development-39ph)
-- [Building a Retrieval-Augmented Generation &lpar;RAG&rpar; System with Langchain, LangGraph, Tavily and LangSmith in TypeScript](https://dev.to/vdrosatos/building-a-retrieval-augmented-generation-rag-system-with-langchain-langgraph-tavily-and-langsmith-in-typescript-mef)
-- [How to make http request without curl or wget in bash](https://dev.to/piotr_zarycki_fe062ceaa4c/how-to-make-http-request-without-curl-or-wget-in-bash-5401)
-- [The Ultimate Guide to Data Analytics: Unlocking the Power of Data](https://dev.to/samtheanalyst/the-ultimate-guide-to-data-analytics-unlocking-the-power-of-data-6lj)
+- [NextJS Internationalization using Google Translator](https://dev.to/mohammadfaisal/nextjs-internationalization-using-google-translator-4pgk)
+- [Build a Month Calendar Website](https://dev.to/abhishekgurjar/build-a-month-calendar-website-41c9)
+- [Cut Costs in OpenSearch Serverless with Bedrock Knowledge Base - Part 2](https://dev.to/aws-builders/cut-costs-in-opensearch-serverless-with-bedrock-knowledge-base-part-2-47p)
+- [Insights and Tips from a Lead Engineer](https://dev.to/dhanushnehru/insights-and-tips-from-a-lead-engineer-ic5)
+- [Develop yourself to build Web UIs: Part Two: Art of styling the web🎨](https://dev.to/marina_labs/develop-yourself-to-build-web-uis-part-two-art-of-styling-the-web-39g1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
