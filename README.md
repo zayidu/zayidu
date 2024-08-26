@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cihaz Yönetimi Eklentisi Yazılım Deposundan Paket Yükleme](https://dev.to/aciklab/cihaz-yonetimi-eklentisi-yazilim-deposundan-paket-yukleme-hf7)
-- [What is The Best Time to Learn New Things Effectively?](https://dev.to/mammadyahyayev/what-is-the-best-time-to-learn-new-things-effectively-30dp)
-- [Leveraging Ocelot API Gateway for Seamless Microservices Communication in My Latest .NET Project](https://dev.to/midnightasc/leveraging-ocelot-api-gateway-for-seamless-microservices-communication-in-my-latest-net-project-40eg)
-- [Kenapa Saya Memilih Karir di Bidang IT dan Kenapa Program Devhandal Jadi Pilihan Utama Saya](https://dev.to/pramahaditamaputra/kenapa-saya-memilih-karir-di-bidang-it-dan-kenapa-program-devhandal-jadi-pilihan-utama-saya-4ame)
-- [🛡️ Effective Vulnerability Monitoring in Kubernetes](https://dev.to/hkhelil/effective-vulnerability-monitoring-in-kubernetes-1mge)
+- [Meme Monday](https://dev.to/ben/meme-monday-4h5d)
+- [Liman MYS ve Eklenti Senkronizasyonu: Yüksek Erişilebilirlik için Temel Adımlar](https://dev.to/aciklab/liman-mys-ve-eklenti-senkronizasyonu-yuksek-erisilebilirlik-icin-temel-adimlar-4bii)
+- [Blockchain Oracles: Essential Guide to Connecting On-Chain and Off-Chain Data](https://dev.to/aishik_chatterjee_0060e71/blockchain-oracles-essential-guide-to-connecting-on-chain-and-off-chain-data-14ke)
+- [Conventional Commits Pattern](https://dev.to/mspilari/conventional-commits-pattern-4i20)
+- [Configuration Management with Ansible](https://dev.to/spacelift/configuration-management-with-ansible-1f94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
