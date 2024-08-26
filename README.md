@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [how to implement Laravel SPA reverb broadcasting with vue js cli?](https://dev.to/xbrook_b1d678345e23b22ca2/how-to-implement-laravel-spa-reverb-broadcasting-with-vue-js-cli-48f4)
-- [AI-Powered GitHub README Generator](https://dev.to/shenli3514/ai-powered-github-readme-generator-4pk5)
-- [Sets](https://dev.to/mahf001/sets-4gk7)
-- [My Dream Game Engine](https://dev.to/frodo_alsaka/my-dream-game-engine-3peh)
-- [Advanced Python Techniques: Metaclasses, Decorators, and Context Managers](https://dev.to/oussama_errafif/advanced-python-techniques-metaclasses-decorators-and-context-managers-59af)
+- [Day 55 / 100 Days of Code: Exploring JavaScript Control Flow](https://dev.to/jacobsternx/day-55-100-days-of-code-exploring-javascript-control-flow-5g2g)
+- [Essential Monitoring Tools and Metrics for backend service health](https://dev.to/shieldstring/essential-monitoring-tools-and-metrics-for-backend-service-health-5bii)
+- [Simple Elegant Image Loader](https://dev.to/acronimax/simple-elegant-image-loader-4dl0)
+- [Learn How to Master Shell Scripting with GitHub API, Git Essentials, and AWS EC2 Deployment](https://dev.to/sharjil/mastering-shell-scripting-with-github-api-git-essentials-and-aws-ec2-deployment-44ne)
+- [A PAGE TALKS ABOUT &lpar;The Tricentis Testim Copilot: Generative AI-powered Test Coding Assistant&rpar;](https://dev.to/rewirebyautomation/a-page-talks-about-the-tricentis-testim-copilot-generative-ai-powered-test-coding-assistant-3km3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
