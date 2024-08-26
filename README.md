@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#51 - Get Rankings of Excel Rows in Each Group While Retaining the Existing Order](https://dev.to/judith677/51-get-rankings-of-excel-rows-in-each-group-while-retaining-the-existing-order-3pi6)
-- [🚀 Most Useful React Hooks for Your Next Project 🚀](https://dev.to/vyan/most-useful-react-hooks-for-your-next-project-2l4i)
-- [Optimizing Data Analysis with Trino and DbVisualizer](https://dev.to/dbvismarketing/optimizing-data-analysis-with-trino-and-dbvisualizer-180)
-- [Unlock New Capabilities with SafeLine 6.7.0: Advanced Features and Essential Fixes](https://dev.to/lulu_liu_c90f973e2f954d7f/new-capabilities-with-safeline-latest-update-brings-advanced-features-and-essential-fixes-2o2c)
-- [July 10, 2024 Python | DataTypes, Variables, Constants](https://dev.to/vishal-johnnelson/july-10-2024-python-datatypes-variables-constants-4ggn)
+- [SafeLine WAF: Easy Installation and Pro-Level Web Protection in Minutes](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-easy-installation-and-pro-level-web-protection-in-minutes-59pa)
+- [Understanding Kubernetes: part 52 – Kubernetes 1.31 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-52-kubernetes-131-changelog-5g5d)
+- [🧠 Don&#39;t Miss These 50 Articles](https://dev.to/florianrappl/dont-miss-these-50-articles-5dg4)
+- [To Index Data is To Sort Data](https://dev.to/esproc_spl/to-index-data-is-to-sort-data-2c85)
+- [Improve your understanding of SOLID principles in OOPS.](https://dev.to/ranujmahajan/improve-your-understanding-of-solid-principles-in-oops-29cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
