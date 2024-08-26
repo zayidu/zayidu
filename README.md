@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Eager vs Lazy Initialization of Spring Beans](https://dev.to/isaactony/eager-vs-lazy-initialization-of-spring-beans-552k)
-- [A Free and Powerful WAF Solution for Web Security-SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/a-free-and-powerful-waf-solution-for-web-security-safeline-47n2)
-- [How I Decided on dev.to as My Writing Home 🖋](https://dev.to/mrzaizai2k/how-i-decided-on-devto-as-my-writing-home-5fel)
-- [Predicting DSA Solutions Using Constraints](https://dev.to/saurabhkurve/predicting-dsa-solutions-using-constraints-4jnf)
-- [How does 3D technology penetrate into our daily lives?](https://dev.to/samuel67/how-does-3d-technology-penetrate-into-our-daily-lives-33o3)
+- [Cihaz Yönetimi Eklentisi Yazılım Deposundan Paket Yükleme](https://dev.to/aciklab/cihaz-yonetimi-eklentisi-yazilim-deposundan-paket-yukleme-hf7)
+- [What is The Best Time to Learn New Things Effectively?](https://dev.to/mammadyahyayev/what-is-the-best-time-to-learn-new-things-effectively-30dp)
+- [Leveraging Ocelot API Gateway for Seamless Microservices Communication in My Latest .NET Project](https://dev.to/midnightasc/leveraging-ocelot-api-gateway-for-seamless-microservices-communication-in-my-latest-net-project-40eg)
+- [Kenapa Saya Memilih Karir di Bidang IT dan Kenapa Program Devhandal Jadi Pilihan Utama Saya](https://dev.to/pramahaditamaputra/kenapa-saya-memilih-karir-di-bidang-it-dan-kenapa-program-devhandal-jadi-pilihan-utama-saya-4ame)
+- [🛡️ Effective Vulnerability Monitoring in Kubernetes](https://dev.to/hkhelil/effective-vulnerability-monitoring-in-kubernetes-1mge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
