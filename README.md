@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Use Node JS By Displaying &lpar;&quot;Hello World&quot;&rpar;](https://dev.to/muhammad_raihan/how-to-use-node-js-by-displaying-hello-world-3lkh)
-- [Efficient React Development: Leveraging Context and Hooks for Seamless Data Handling](https://dev.to/raju_dandigam/efficient-react-development-leveraging-context-and-hooks-for-seamless-data-handling-258c)
-- [Add Memory in AI: Your Chat Experience on Steroids](https://dev.to/harshit_lakhani/add-memory-in-ai-your-chat-experience-on-steroids-575j)
-- [Don&#39;t stop a process once started!](https://dev.to/leg_end/dont-stop-a-process-once-started-1ed3)
-- [Snowflake Time Travel : Handy SQLs](https://dev.to/digitalchemist/snowflake-time-travel-handy-sqls-en6)
+- [First fully multi-GPU supporting and very advanced batch image captioner APP with Gradio interface published](https://dev.to/furkangozukara/first-fully-multi-gpu-supporting-and-very-advanced-batch-image-captioner-app-with-gradio-interface-published-4l83)
+- [DIY Deployment of SafeLine WAF on K8s](https://dev.to/lulu_liu_c90f973e2f954d7f/diy-deployment-of-safeline-waf-on-k8s-c2c)
+- [Understanding Your Data: The Essentials of Exploratory Data Analysis](https://dev.to/professorkarwish/understanding-your-data-the-essentials-of-exploratory-data-analysis-9o5)
+- [The Ultimate Guide to Data Science](https://dev.to/evanskiprotich/the-ultimate-guide-to-data-science-323i)
+- [What Is The Best Database For Web Applications?](https://dev.to/domfive/what-is-the-best-database-for-web-applications-26bg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
