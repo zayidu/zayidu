@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shebang Line: A Complete Explanation](https://dev.to/vectordatabasetop/shebang-line-a-complete-explaination-4ai1)
-- [Publish C# Project to Nuget.org](https://dev.to/rmaurodev/publish-c-project-to-nugetorg-2leb)
-- [Liman MYS - Politikalar | OU&#39;da Var Olan Politikaların Yeni OU&#39;ya Eklenmesi](https://dev.to/aciklab/liman-mys-politikalar-ouda-var-olan-politikalarin-yeni-ouya-eklenmesi-4ial)
-- [3 System Design Patterns to Know: Ambassador, Circuit Breaker, and CQRS](https://dev.to/tomjohnson3/3-system-design-patterns-to-know-ambassador-circuit-breaker-and-cqrs-2e7b)
-- [Launching ChartDB: Visualize database schemas with a single query](https://dev.to/jonathanfishner/launching-chartdb-visualize-database-schemas-with-a-single-query-3ca0)
+- [Your Ultimate Django Freelancing Staterkit](https://dev.to/paul_freeman/your-ultimate-django-freelancing-staterkit-5bl0)
+- [Diary of a Software Developer #2 - 26/08/2024](https://dev.to/antoniodev/diary-of-a-software-developer-2-26082024-2f6a)
+- [Save data less in database using theory of bit in C#](https://dev.to/itlvd/save-data-less-in-database-using-theory-of-bit-in-c-2o6i)
+- [Create Histogram Charts With MySQL – Tutorial](https://dev.to/inspector/create-histogram-charts-with-mysql-tutorial-4fed)
+- [MongoDB Data Model &amp; Microservice Architecture](https://dev.to/sreeni5018/mongodb-data-model-microservice-architecture-342)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
