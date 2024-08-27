@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Strengthening AWS Security: A Guide to Identifying, Assessing, and Protecting Your Assets 🛡️🔍](https://dev.to/noorscript/strengthening-aws-security-a-guide-to-identifying-assessing-and-protecting-your-assets-5hkn)
-- [Java, fill each row having a null value in a csv file with values in the directly previous row #eg32](https://dev.to/esproc_spl/java-fill-each-row-having-a-null-value-in-a-csv-file-with-values-in-the-directly-previous-row-eg32-4ng6)
-- [Customization of view fields: Views Conditional in Drupal](https://dev.to/drupal-developer-dewan/customization-of-view-fields-views-conditional-in-drupal-54kp)
-- [🛠️ Tooling Evolution: The 5 Most Innovative JavaScript Proposals for 2024](https://dev.to/dharamgfx/tooling-evolution-the-5-most-innovative-javascript-proposals-for-2024-7c1)
-- [#52 — Get The Last Row of Each Group](https://dev.to/judith677/52-get-the-last-row-of-each-group-475c)
+- [Tailwind Shade Generator: A Powerful Addition to Ctrl+Alt+Cheat](https://dev.to/hkp22/tailwind-shade-generator-a-powerful-addition-to-ctrlaltcheat-2p71)
+- [Liman MYS - LDAP Entegrasyonunun Yapılması](https://dev.to/aciklab/liman-mys-ldap-entegrasyonunun-yapilmasi-38l)
+- [Introducing Origami-State-Manager &lpar;OSM&rpar;: A Lightweight State Management Library with Minimal Boilerplate](https://dev.to/abdulzahir/introducing-origami-state-manager-osm-a-lightweight-state-management-library-with-minimal-boilerplate-5b7n)
+- [Mastering Ruby on Rails: Thoughts and Ideas](https://dev.to/salanoid/mastering-ruby-on-rails-thoughts-and-ideas-57a7)
+- [Simple Explanation of Dependency Injection](https://dev.to/timthoi/simple-explanation-of-dependency-injection-4l0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
