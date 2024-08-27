@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #203](https://dev.to/aws/aws-open-source-newsletter-203-1d23)
-- [Battle of the WAFs: Testing Detection and Performance Across Open-Source Firewalls](https://dev.to/lulu_liu_c90f973e2f954d7f/battle-of-the-wafs-testing-detection-and-performance-across-open-source-firewalls-2m6k)
-- [Data Science Career Guide: Navigating Your Path in 2024](https://dev.to/pangaea_x/data-science-career-guide-navigating-your-path-in-2024-11i0)
-- [Driving Innovation with Automotive Web Development for Transportation Industry](https://dev.to/faith_corrigan_2a7994a43d/driving-innovation-with-automotive-web-development-for-transportation-industry-3oc5)
-- [utf8--》l-》bit32](https://dev.to/__040711563a17902392e7/utf8-l-bit32-39m8)
+- [TipsNOW is LIVE !](https://dev.to/bhavik_rohit_0dde2cae346c/tipsnow-is-live--4hgo)
+- [How to Launch Personalized WordPress Product Demos in No Time?](https://dev.to/shabbir_mw_03f56129cd25/how-to-launch-personalized-wordpress-product-demos-in-no-time-2b5c)
+- [Protect Your Site with SafeLine: A Free, Open-Source WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/protect-your-site-with-safeline-a-free-open-source-waf-3keb)
+- [TicTacToe](https://dev.to/woli_agba_e26c80d56612666/tictactoe-56bg)
+- [The Impact of a Payment Gateway on Consumer Trust](https://dev.to/paytabs/the-impact-of-a-payment-gateway-on-consumer-trust-2m73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
