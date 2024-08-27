@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [go htmx and sse example](https://dev.to/blinkinglight/go-htmx-and-sse-example-55k6)
-- [JS - All about String Primitive](https://dev.to/mahf001/js-all-about-string-primitive-50bp)
-- [How to update your favicon on your website](https://dev.to/rodriveiga01/how-to-update-your-favicon-on-your-website-4k1a)
-- [Leetcode daily 2](https://dev.to/pastapicaso/leetcode-daily-2-3ne5)
-- [How Salomatic Used Langtrace to Build a Reliable Medical Report Generation System](https://dev.to/langtrace/how-salomatic-used-langtrace-to-build-a-reliable-medical-report-generation-system-49hd)
+- [40 Days Of Kubernetes &lpar;4/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-440-3m61)
+- [Code Anywhere, Anytime: Discover the Power of VS Code Web](https://dev.to/mahrukh_adeel/code-anywhere-anytime-discover-the-power-of-vs-code-web-56h)
+- [You Don’t Have to Be a Victim](https://dev.to/femolacaster/you-dont-have-to-be-a-victim-4f20)
+- [Introducing the Smiley Investment Planner 1.0](https://dev.to/jcsmileyjr/introducing-the-smiley-investment-planner-10-178j)
+- [How to avoid using unnecessary useEffect in your React App](https://dev.to/douglas_almeida_05b0db1f9/how-to-avoid-using-unnecessary-useeffect-in-your-react-app-4nlp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
