@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TipsNOW is LIVE !](https://dev.to/bhavik_rohit_0dde2cae346c/tipsnow-is-live--4hgo)
-- [How to Launch Personalized WordPress Product Demos in No Time?](https://dev.to/shabbir_mw_03f56129cd25/how-to-launch-personalized-wordpress-product-demos-in-no-time-2b5c)
-- [Protect Your Site with SafeLine: A Free, Open-Source WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/protect-your-site-with-safeline-a-free-open-source-waf-3keb)
-- [TicTacToe](https://dev.to/woli_agba_e26c80d56612666/tictactoe-56bg)
-- [The Impact of a Payment Gateway on Consumer Trust](https://dev.to/paytabs/the-impact-of-a-payment-gateway-on-consumer-trust-2m73)
+- [Understanding Async JavaScript](https://dev.to/vincod/understanding-async-javascript-2l74)
+- [Janarthanan portfolio](https://dev.to/janarthanancrypto/janarthanan-portfolio-55c5)
+- [Setting Up PM2 for Multi-User Access on Ubuntu Instance](https://dev.to/manojspace/setting-up-pm2-for-multi-user-access-on-ubuntu-instance-5g95)
+- [Rust vs Go? Which should you choose in 2024](https://dev.to/thatcoolguy/rust-vs-go-which-should-you-choose-in-2024-50k5)
+- [Creating a Realistic Solar System with HTML and CSS](https://dev.to/imyusufakhtar/creating-a-realistic-solar-system-with-html-and-css-4hl3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
