@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Collaboration App with WebRTC](https://dev.to/kartikmehta8/building-a-real-time-collaboration-app-with-webrtc-38hd)
-- [Python web3库BSC公链转账USDT](https://dev.to/dragon72463399/python-web3ku-bscgong-lian-zhuan-zhang-usdt-1d39)
-- [How AI is Unraveling the Mysteries of Gene Function](https://dev.to/shagun_mistry/how-ai-is-unraveling-the-mysteries-of-gene-function-2b1b)
-- [Where does return render&lpar; &lt;UserProvider&gt; etc go in a test.js jest file?](https://dev.to/sleepydev/where-does-return-render-etc-go-in-a-testjs-jest-file-4h3k)
-- [Today I learned](https://dev.to/drefox350/today-i-learned-on2)
+- [HackerRank SQL Preparation: Weather Observation Station 3&lpar;MySQL&rpar;](https://dev.to/christianpaez/hackerrank-sql-preparation-weather-observation-station-3mysql-2l73)
+- [c++ 1 1 placeholder](https://dev.to/__040711563a17902392e7/c-1-1-placeholder-m5h)
+- [Today&#39;s Trending Projects: Query Is So Slow and More 🔥](https://dev.to/labex/todays-trending-projects-query-is-so-slow-and-more-1mlb)
+- [萃取](https://dev.to/__040711563a17902392e7/cui-qu-2m56)
+- [win32_api_shortCut](https://dev.to/__040711563a17902392e7/win32apishortcut-16f6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
