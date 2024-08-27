@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How does DevOps enable SRE?](https://dev.to/mcieciora/how-does-devops-enable-sre-51e3)
-- [SQL vs NoSQL: Understand the difference and know when to use each!](https://dev.to/aws-builders/sql-vs-nosql-understand-the-difference-and-know-when-to-use-each-1ak8)
-- [SurvBot🎥: Automatic Surveillance Tagging using Moondream and Streamlit](https://dev.to/aryankargwal/survbot-automatic-surveillance-tagging-using-moondream-and-streamlit-5f3j)
-- [Next.js starter template](https://dev.to/michalskolak/nextjs-starter-template-10gh)
-- [Diary of a Software Developer #3 - Inattention as Code](https://dev.to/antoniodev/diary-of-a-software-developer-3-inattention-as-code-1ogg)
+- [Good vs. great Programmer 💪](https://dev.to/majdsufian/good-vs-great-programmer-4dk2)
+- [The Clojure Paradox](https://dev.to/jorgetovar/the-clojure-paradox-41ke)
+- [Flipping Switch](https://dev.to/ramphele_thamie_0654757e0/flipping-switch-6cd)
+- [How react&#39;s rendering flow works](https://dev.to/douglas_almeida_05b0db1f9/how-reacts-rendering-flow-works-57ke)
+- [Login web](https://dev.to/ramphele_thamie_0654757e0/login-web-28en)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
