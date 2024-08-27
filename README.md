@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial: How to Integrate Passkeys into Angular](https://dev.to/corbado/tutorial-how-to-integrate-passkeys-into-angular-493p)
-- [Variables Part-04](https://dev.to/monirulislam027/variables-part-04-22i4)
-- [An Introduction to Behavior Driven Development &lpar;BDD&rpar;](https://dev.to/keploy/an-introduction-to-behavior-driven-development-bdd-38ci)
-- [Securing your Cloud Infrastructure: A comprehensive guide to hardening, scaling, automating and monitoring your servers](https://dev.to/seunb/securing-your-cloud-infrastructure-a-comprehensive-guide-to-hardening-scaling-automating-and-monitoring-your-servers-ic8)
-- [How I got a job at AWS](https://dev.to/winstonpuckett/how-i-got-a-job-at-aws-5hm3)
+- [Composition in GitHub Actions](https://dev.to/kiolk/composition-in-github-actions-ehh)
+- [Protect Your Website Like a Pro: SafeLine, the Open-Source WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/protect-your-website-like-a-pro-safeline-the-open-source-waf-4p7c)
+- [How to setup MS Teams notifications based on the error log from Azure SQL Database table?](https://dev.to/ron-zhong/how-to-setup-ms-teams-notifications-based-on-the-error-log-from-azure-sql-database-table-43l8)
+- [Add multithreading to shutil ?!](https://dev.to/mengqinyuan/add-multithreading-to-shutil--2lm1)
+- [Rolling Out a Robust On-Call Process to Your Team](https://dev.to/talonx/rolling-out-a-robust-on-call-process-to-your-team-57om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
