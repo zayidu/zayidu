@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Data Import in Neo4j](https://dev.to/kanugorajat/mastering-data-import-in-neo4j-m17)
-- [GitOps Adoption: A Simple Guide to Modern Cloud Management](https://dev.to/sujal_dua/gitops-adoption-a-simple-guide-to-modern-cloud-management-nai)
-- [How to Start a Developer Community From Scratch &lpar;Even on a Shoestring Budget&rpar;](https://dev.to/rakeshdoc-e/how-to-start-a-developer-community-from-scratch-even-on-a-shoestring-budget-2ep)
-- [What is sampling?](https://dev.to/zain725342/what-is-sampling-5d1h)
-- [Create a Cute Dog Moustache 🐶 Wagging Animation with HTML and CSS](https://dev.to/uicraft_by_pratik/create-a-cute-dog-moustache-wagging-animation-with-html-and-css-3f01)
+- [Tutorial: How to Integrate Passkeys into Angular](https://dev.to/corbado/tutorial-how-to-integrate-passkeys-into-angular-493p)
+- [Variables Part-04](https://dev.to/monirulislam027/variables-part-04-22i4)
+- [An Introduction to Behavior Driven Development &lpar;BDD&rpar;](https://dev.to/keploy/an-introduction-to-behavior-driven-development-bdd-38ci)
+- [Securing your Cloud Infrastructure: A comprehensive guide to hardening, scaling, automating and monitoring your servers](https://dev.to/seunb/securing-your-cloud-infrastructure-a-comprehensive-guide-to-hardening-scaling-automating-and-monitoring-your-servers-ic8)
+- [How I got a job at AWS](https://dev.to/winstonpuckett/how-i-got-a-job-at-aws-5hm3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
