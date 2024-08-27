@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Good vs. great Programmer 💪](https://dev.to/majdsufian/good-vs-great-programmer-4dk2)
-- [The Clojure Paradox](https://dev.to/jorgetovar/the-clojure-paradox-41ke)
-- [Flipping Switch](https://dev.to/ramphele_thamie_0654757e0/flipping-switch-6cd)
-- [How react&#39;s rendering flow works](https://dev.to/douglas_almeida_05b0db1f9/how-reacts-rendering-flow-works-57ke)
-- [Login web](https://dev.to/ramphele_thamie_0654757e0/login-web-28en)
+- [Understanding error={!!error} in React: What Does it Mean?](https://dev.to/padmajothi_athimoolam_23d/understanding-errorerror-in-react-what-does-it-mean-3i6e)
+- [Explore My Portfolio and Share Your Feedback! 🕺](https://dev.to/majdsufian/explore-my-portfolio-and-share-your-feedback-mp5)
+- [Announcing Dependency Analysis Gradle Plugin 2.0.0!](https://dev.to/autonomousapps/announcing-dependency-analysis-gradle-plugin-200-426c)
+- [Docker Volumes](https://dev.to/gcharalla_/docker-volumes-2pge)
+- [Documentation of components in React with TypeScript using Storybook](https://dev.to/griseduardo/documentation-of-components-in-react-with-typescript-using-storybook-31hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
