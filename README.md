@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding error={!!error} in React: What Does it Mean?](https://dev.to/padmajothi_athimoolam_23d/understanding-errorerror-in-react-what-does-it-mean-3i6e)
-- [Explore My Portfolio and Share Your Feedback! 🕺](https://dev.to/majdsufian/explore-my-portfolio-and-share-your-feedback-mp5)
-- [Announcing Dependency Analysis Gradle Plugin 2.0.0!](https://dev.to/autonomousapps/announcing-dependency-analysis-gradle-plugin-200-426c)
-- [Docker Volumes](https://dev.to/gcharalla_/docker-volumes-2pge)
-- [Documentation of components in React with TypeScript using Storybook](https://dev.to/griseduardo/documentation-of-components-in-react-with-typescript-using-storybook-31hm)
+- [Creating a Dynamic CSS 🌐Orb with Custom Properties and Gradients &lpar;One Element&rpar;!](https://dev.to/alishata128/creating-a-dynamic-css-orb-with-custom-properties-and-gradients-one-element-43en)
+- [Congrats to the Build Better on Stellar: Smart Contract Challenge Winners!](https://dev.to/devteam/congrats-to-the-build-better-on-stellar-smart-contract-challenge-winners-5h9m)
+- [Learn Ruby and TDD at the same time](https://dev.to/meleu/learn-ruby-and-tdd-at-the-same-time-2en1)
+- [Day7 #100days Miva challenge](https://dev.to/damilola_oyeyipo_1348716f/day7-100days-miva-challenge-fdj)
+- [Just uploaded a new video on arrays in Java Dive in and check it out now!](https://dev.to/mmourouh/just-uploaded-a-new-video-on-arrays-in-java-dive-in-and-check-it-out-now-9el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
