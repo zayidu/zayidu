@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Use AWS Lambda Layers 📦](https://dev.to/aws-heroes/why-you-should-use-aws-lambda-layers-1cke)
-- [AI boosted: Website builders](https://dev.to/rutrus/ai-boosted-website-builders-4gma)
-- [🚀 Building an Open-Source High-Frequency Trading Bot Using Binance Spot API](https://dev.to/avitakiyar/building-an-open-source-high-frequency-trading-bot-using-binance-spot-api-4jci)
-- [Finally](https://dev.to/mustafacam/finally-akg)
-- [How to Fix Session store not set on request Laravel 11?](https://dev.to/abdulwahidkahar/how-to-fix-session-store-not-set-on-request-laravel-11-2d4p)
+- [Building a Real-Time Collaboration App with WebRTC](https://dev.to/kartikmehta8/building-a-real-time-collaboration-app-with-webrtc-38hd)
+- [Python web3库BSC公链转账USDT](https://dev.to/dragon72463399/python-web3ku-bscgong-lian-zhuan-zhang-usdt-1d39)
+- [How AI is Unraveling the Mysteries of Gene Function](https://dev.to/shagun_mistry/how-ai-is-unraveling-the-mysteries-of-gene-function-2b1b)
+- [Where does return render&lpar; &lt;UserProvider&gt; etc go in a test.js jest file?](https://dev.to/sleepydev/where-does-return-render-etc-go-in-a-testjs-jest-file-4h3k)
+- [Today I learned](https://dev.to/drefox350/today-i-learned-on2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
