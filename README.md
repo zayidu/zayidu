@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HackerRank SQL Preparation: Weather Observation Station 3&lpar;MySQL&rpar;](https://dev.to/christianpaez/hackerrank-sql-preparation-weather-observation-station-3mysql-2l73)
-- [c++ 1 1 placeholder](https://dev.to/__040711563a17902392e7/c-1-1-placeholder-m5h)
-- [Today&#39;s Trending Projects: Query Is So Slow and More 🔥](https://dev.to/labex/todays-trending-projects-query-is-so-slow-and-more-1mlb)
-- [萃取](https://dev.to/__040711563a17902392e7/cui-qu-2m56)
-- [win32_api_shortCut](https://dev.to/__040711563a17902392e7/win32apishortcut-16f6)
+- [Introduction to Javascript :&rpar;](https://dev.to/madgan95/introduction-to-javascript--8oi)
+- [⚡ MySecondApp - React Native with Expo &lpar;P23&rpar; - Layout My Account](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p23-layout-my-account-46cb)
+- [Comunidade não é suporte, Comunidade é negócio.](https://dev.to/biosbug/comunidade-nao-e-suporte-comunidade-e-negocio-25ld)
+- [c++11](https://dev.to/__040711563a17902392e7/c11-1oam)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;19/08/2024-25/08/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-19082024-25082024-5hld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
