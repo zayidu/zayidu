@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Async JavaScript](https://dev.to/vincod/understanding-async-javascript-2l74)
-- [Janarthanan portfolio](https://dev.to/janarthanancrypto/janarthanan-portfolio-55c5)
-- [Setting Up PM2 for Multi-User Access on Ubuntu Instance](https://dev.to/manojspace/setting-up-pm2-for-multi-user-access-on-ubuntu-instance-5g95)
-- [Rust vs Go? Which should you choose in 2024](https://dev.to/thatcoolguy/rust-vs-go-which-should-you-choose-in-2024-50k5)
-- [Creating a Realistic Solar System with HTML and CSS](https://dev.to/imyusufakhtar/creating-a-realistic-solar-system-with-html-and-css-4hl3)
+- [AI Tool Is Now Supporting React, Angular, CSS, Svelte, Vue](https://dev.to/buildwebcrumbs/ai-tool-is-now-supporting-react-angular-css-svelte-vue-3m0j)
+- [Tidy up your Rails code with `inquiry`](https://dev.to/railsdesigner/tidy-up-your-rails-code-with-inquiry-1jj)
+- [ERC-20 Token Standard: A basic guide on what you need to know](https://dev.to/ceasermikes002/erc-20-token-standard-a-basic-guide-on-what-you-need-to-know-2kg1)
+- [Create a modern image upload component with vuetify](https://dev.to/3aluw/create-a-modern-image-upload-component-with-vuetify-218p)
+- [The Future of AI in Personalizing User: Trends &amp; Innovations 🤖](https://dev.to/hanzla-mirza/the-future-of-ai-in-personalizing-user-trends-innovations-3gkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
