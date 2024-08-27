@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scanning AWS S3 Buckets for Security Vulnerabilities](https://dev.to/aviator_co/scanning-aws-s3-buckets-for-security-vulnerabilities-3ie5)
-- [Node.js vs. Express.js: Understanding the Difference and Their Roles in Web Development](https://dev.to/david_tevzadze_/nodejs-vs-expressjs-understanding-the-difference-and-their-roles-in-web-development-5d29)
-- [Getting Started with Generative AI](https://dev.to/prasad97/getting-started-with-generative-ai-26bf)
-- [Payroll Software Explained: A Simple Guide for SME’s](https://dev.to/247hrm/payroll-software-explained-a-simple-guide-for-smes-2lbg)
-- [Prevents re-execution of large javascript functions that have been processed once with the same parameter.](https://dev.to/ahmetilhn/prevents-re-execution-of-large-javascript-functions-that-have-been-processed-once-with-the-same-parameter-1ici)
+- [How does DevOps enable SRE?](https://dev.to/mcieciora/how-does-devops-enable-sre-51e3)
+- [SQL vs NoSQL: Understand the difference and know when to use each!](https://dev.to/aws-builders/sql-vs-nosql-understand-the-difference-and-know-when-to-use-each-1ak8)
+- [SurvBot🎥: Automatic Surveillance Tagging using Moondream and Streamlit](https://dev.to/aryankargwal/survbot-automatic-surveillance-tagging-using-moondream-and-streamlit-5f3j)
+- [Next.js starter template](https://dev.to/michalskolak/nextjs-starter-template-10gh)
+- [Diary of a Software Developer #3 - Inattention as Code](https://dev.to/antoniodev/diary-of-a-software-developer-3-inattention-as-code-1ogg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
