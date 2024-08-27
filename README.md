@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding Maximum Profit in Item Sales Based on Categories and Prices](https://dev.to/rk042/finding-maximum-profit-in-item-sales-based-on-categories-and-prices-3bn1)
-- [Mastering TanStack Query: A Comprehensive Guide to Efficient Data Fetching in React](https://dev.to/samuel_kinuthia/mastering-tanstack-query-a-comprehensive-guide-to-efficient-data-fetching-in-react-508p)
-- [GBase 8a MPP Cluster Supported Data Types](https://dev.to/congcong/gbase-8a-mpp-cluster-supported-data-types-4f05)
-- [Creating a Bakery Website using CursorAI in 3 minutes](https://dev.to/thekarlesi/creating-a-bakery-website-using-cursorai-in-3-minutes-1mk4)
-- [Navigating Peer Dependency Conflicts in npm: Understanding and Using `--legacy-peer-deps`](https://dev.to/samuel_kinuthia/navigating-peer-dependency-conflicts-in-npm-understanding-and-using-legacy-peer-deps-1l96)
+- [Mastering Data Import in Neo4j](https://dev.to/kanugorajat/mastering-data-import-in-neo4j-m17)
+- [GitOps Adoption: A Simple Guide to Modern Cloud Management](https://dev.to/sujal_dua/gitops-adoption-a-simple-guide-to-modern-cloud-management-nai)
+- [How to Start a Developer Community From Scratch &lpar;Even on a Shoestring Budget&rpar;](https://dev.to/rakeshdoc-e/how-to-start-a-developer-community-from-scratch-even-on-a-shoestring-budget-2ep)
+- [What is sampling?](https://dev.to/zain725342/what-is-sampling-5d1h)
+- [Create a Cute Dog Moustache 🐶 Wagging Animation with HTML and CSS](https://dev.to/uicraft_by_pratik/create-a-cute-dog-moustache-wagging-animation-with-html-and-css-3f01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
