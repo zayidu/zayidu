@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is URL Phishing and How to Prevent it?](https://dev.to/clouddefenseai/what-is-url-phishing-and-how-to-prevent-it-3f34)
-- [C# Enum Bitwise Operations](https://dev.to/rmaurodev/c-enum-bitwise-operations-339g)
-- [7 Most Popular JavaScript Front-End Frameworks in 2024 Visualized with Graphs 📊📈](https://dev.to/thomasjanuta/7-most-popular-javascript-front-end-frameworks-in-2024-visualized-with-graphs-3ohe)
-- [Programación Orientada a Objetos en TypeScript](https://dev.to/sebastianbh/programacion-orientada-a-objetos-en-typescript-5gg0)
-- [Go 1.23: Funcionalidades, melhorias e como elas impactam seu código](https://dev.to/rflpazini/go-123-funcionalidades-melhorias-e-como-elas-impactam-seu-codigo-1ie5)
+- [go htmx and sse example](https://dev.to/blinkinglight/go-htmx-and-sse-example-55k6)
+- [JS - All about String Primitive](https://dev.to/mahf001/js-all-about-string-primitive-50bp)
+- [How to update your favicon on your website](https://dev.to/rodriveiga01/how-to-update-your-favicon-on-your-website-4k1a)
+- [Leetcode daily 2](https://dev.to/pastapicaso/leetcode-daily-2-3ne5)
+- [How Salomatic Used Langtrace to Build a Reliable Medical Report Generation System](https://dev.to/langtrace/how-salomatic-used-langtrace-to-build-a-reliable-medical-report-generation-system-49hd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
