@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind Shade Generator: A Powerful Addition to Ctrl+Alt+Cheat](https://dev.to/hkp22/tailwind-shade-generator-a-powerful-addition-to-ctrlaltcheat-2p71)
-- [Liman MYS - LDAP Entegrasyonunun Yapılması](https://dev.to/aciklab/liman-mys-ldap-entegrasyonunun-yapilmasi-38l)
-- [Introducing Origami-State-Manager &lpar;OSM&rpar;: A Lightweight State Management Library with Minimal Boilerplate](https://dev.to/abdulzahir/introducing-origami-state-manager-osm-a-lightweight-state-management-library-with-minimal-boilerplate-5b7n)
-- [Mastering Ruby on Rails: Thoughts and Ideas](https://dev.to/salanoid/mastering-ruby-on-rails-thoughts-and-ideas-57a7)
-- [Simple Explanation of Dependency Injection](https://dev.to/timthoi/simple-explanation-of-dependency-injection-4l0g)
+- [AWS open source newsletter, #203](https://dev.to/aws/aws-open-source-newsletter-203-1d23)
+- [Battle of the WAFs: Testing Detection and Performance Across Open-Source Firewalls](https://dev.to/lulu_liu_c90f973e2f954d7f/battle-of-the-wafs-testing-detection-and-performance-across-open-source-firewalls-2m6k)
+- [Data Science Career Guide: Navigating Your Path in 2024](https://dev.to/pangaea_x/data-science-career-guide-navigating-your-path-in-2024-11i0)
+- [Driving Innovation with Automotive Web Development for Transportation Industry](https://dev.to/faith_corrigan_2a7994a43d/driving-innovation-with-automotive-web-development-for-transportation-industry-3oc5)
+- [utf8--》l-》bit32](https://dev.to/__040711563a17902392e7/utf8-l-bit32-39m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
