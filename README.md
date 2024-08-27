@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Javascript :&rpar;](https://dev.to/madgan95/introduction-to-javascript--8oi)
-- [⚡ MySecondApp - React Native with Expo &lpar;P23&rpar; - Layout My Account](https://dev.to/skipperhoa/mysecondapp-react-native-with-expo-p23-layout-my-account-46cb)
-- [Comunidade não é suporte, Comunidade é negócio.](https://dev.to/biosbug/comunidade-nao-e-suporte-comunidade-e-negocio-25ld)
-- [c++11](https://dev.to/__040711563a17902392e7/c11-1oam)
-- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;19/08/2024-25/08/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-19082024-25082024-5hld)
+- [Finding Maximum Profit in Item Sales Based on Categories and Prices](https://dev.to/rk042/finding-maximum-profit-in-item-sales-based-on-categories-and-prices-3bn1)
+- [Mastering TanStack Query: A Comprehensive Guide to Efficient Data Fetching in React](https://dev.to/samuel_kinuthia/mastering-tanstack-query-a-comprehensive-guide-to-efficient-data-fetching-in-react-508p)
+- [GBase 8a MPP Cluster Supported Data Types](https://dev.to/congcong/gbase-8a-mpp-cluster-supported-data-types-4f05)
+- [Creating a Bakery Website using CursorAI in 3 minutes](https://dev.to/thekarlesi/creating-a-bakery-website-using-cursorai-in-3-minutes-1mk4)
+- [Navigating Peer Dependency Conflicts in npm: Understanding and Using `--legacy-peer-deps`](https://dev.to/samuel_kinuthia/navigating-peer-dependency-conflicts-in-npm-understanding-and-using-legacy-peer-deps-1l96)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
