@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: Building a Todo API with FastAPI: Step-by-Step Guide](https://dev.to/jamesbmour/part-2-building-a-todo-api-with-fastapi-step-by-step-guide-3042)
-- [Mobile Compatibility Testing: A Comprehensive Guide](https://dev.to/satya_prakash/mobile-compatibility-testing-a-comprehensive-guide-3anm)
-- [nestjs vs fastify Battle](https://dev.to/tkssharma/nestjs-vs-fastify-battle-4obn)
-- [Javascript Object Assignments, Copy Or Reference?](https://dev.to/shmihad/javascript-object-assignments-copy-or-reference-2c8g)
-- [🚀 WhiteBIT Celebrates WBT’s 2nd Anniversary with a Giveaway](https://dev.to/david_tevzadze_/whitebit-celebrates-wbts-2nd-anniversary-with-a-giveaway-344c)
+- [What is URL Phishing and How to Prevent it?](https://dev.to/clouddefenseai/what-is-url-phishing-and-how-to-prevent-it-3f34)
+- [C# Enum Bitwise Operations](https://dev.to/rmaurodev/c-enum-bitwise-operations-339g)
+- [7 Most Popular JavaScript Front-End Frameworks in 2024 Visualized with Graphs 📊📈](https://dev.to/thomasjanuta/7-most-popular-javascript-front-end-frameworks-in-2024-visualized-with-graphs-3ohe)
+- [Programación Orientada a Objetos en TypeScript](https://dev.to/sebastianbh/programacion-orientada-a-objetos-en-typescript-5gg0)
+- [Go 1.23: Funcionalidades, melhorias e como elas impactam seu código](https://dev.to/rflpazini/go-123-funcionalidades-melhorias-e-como-elas-impactam-seu-codigo-1ie5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
