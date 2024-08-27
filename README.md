@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Tool Is Now Supporting React, Angular, CSS, Svelte, Vue](https://dev.to/buildwebcrumbs/ai-tool-is-now-supporting-react-angular-css-svelte-vue-3m0j)
-- [Tidy up your Rails code with `inquiry`](https://dev.to/railsdesigner/tidy-up-your-rails-code-with-inquiry-1jj)
-- [ERC-20 Token Standard: A basic guide on what you need to know](https://dev.to/ceasermikes002/erc-20-token-standard-a-basic-guide-on-what-you-need-to-know-2kg1)
-- [Create a modern image upload component with vuetify](https://dev.to/3aluw/create-a-modern-image-upload-component-with-vuetify-218p)
-- [The Future of AI in Personalizing User: Trends &amp; Innovations 🤖](https://dev.to/hanzla-mirza/the-future-of-ai-in-personalizing-user-trends-innovations-3gkf)
+- [Introducing New Platform Access Control](https://dev.to/supabase/introducing-new-platform-access-control-3ap)
+- [Understanding How the EVM Stores Mappings, Arrays, and Structs in Solidity](https://dev.to/ceasermikes002/understanding-how-the-evm-stores-mappings-arrays-and-structs-in-solidity-5adh)
+- [Calendar events and emails as a SQL database using Nylas](https://dev.to/julien41/calendar-events-and-emails-as-a-sql-database-using-nylas-3gl)
+- [AWS VPC Peering vs Transit Gateway: Which One Should You Use?](https://dev.to/estebanpiero/aws-vpc-peering-vs-transit-gateway-which-one-should-you-use-4dmm)
+- [Attempt #12 - Learnt few new concepts in React](https://dev.to/dilsemonk/attempt-12-learnt-few-new-concepts-in-react-207l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
