@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing New Platform Access Control](https://dev.to/supabase/introducing-new-platform-access-control-3ap)
-- [Understanding How the EVM Stores Mappings, Arrays, and Structs in Solidity](https://dev.to/ceasermikes002/understanding-how-the-evm-stores-mappings-arrays-and-structs-in-solidity-5adh)
-- [Calendar events and emails as a SQL database using Nylas](https://dev.to/julien41/calendar-events-and-emails-as-a-sql-database-using-nylas-3gl)
-- [AWS VPC Peering vs Transit Gateway: Which One Should You Use?](https://dev.to/estebanpiero/aws-vpc-peering-vs-transit-gateway-which-one-should-you-use-4dmm)
-- [Attempt #12 - Learnt few new concepts in React](https://dev.to/dilsemonk/attempt-12-learnt-few-new-concepts-in-react-207l)
+- [Part 2: Building a Todo API with FastAPI: Step-by-Step Guide](https://dev.to/jamesbmour/part-2-building-a-todo-api-with-fastapi-step-by-step-guide-3042)
+- [Mobile Compatibility Testing: A Comprehensive Guide](https://dev.to/satya_prakash/mobile-compatibility-testing-a-comprehensive-guide-3anm)
+- [nestjs vs fastify Battle](https://dev.to/tkssharma/nestjs-vs-fastify-battle-4obn)
+- [Javascript Object Assignments, Copy Or Reference?](https://dev.to/shmihad/javascript-object-assignments-copy-or-reference-2c8g)
+- [🚀 WhiteBIT Celebrates WBT’s 2nd Anniversary with a Giveaway](https://dev.to/david_tevzadze_/whitebit-celebrates-wbts-2nd-anniversary-with-a-giveaway-344c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
