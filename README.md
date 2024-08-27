@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [40 Days Of Kubernetes &lpar;4/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-440-3m61)
-- [Code Anywhere, Anytime: Discover the Power of VS Code Web](https://dev.to/mahrukh_adeel/code-anywhere-anytime-discover-the-power-of-vs-code-web-56h)
-- [You Don’t Have to Be a Victim](https://dev.to/femolacaster/you-dont-have-to-be-a-victim-4f20)
-- [Introducing the Smiley Investment Planner 1.0](https://dev.to/jcsmileyjr/introducing-the-smiley-investment-planner-10-178j)
-- [How to avoid using unnecessary useEffect in your React App](https://dev.to/douglas_almeida_05b0db1f9/how-to-avoid-using-unnecessary-useeffect-in-your-react-app-4nlp)
+- [Scanning AWS S3 Buckets for Security Vulnerabilities](https://dev.to/aviator_co/scanning-aws-s3-buckets-for-security-vulnerabilities-3ie5)
+- [Node.js vs. Express.js: Understanding the Difference and Their Roles in Web Development](https://dev.to/david_tevzadze_/nodejs-vs-expressjs-understanding-the-difference-and-their-roles-in-web-development-5d29)
+- [Getting Started with Generative AI](https://dev.to/prasad97/getting-started-with-generative-ai-26bf)
+- [Payroll Software Explained: A Simple Guide for SME’s](https://dev.to/247hrm/payroll-software-explained-a-simple-guide-for-smes-2lbg)
+- [Prevents re-execution of large javascript functions that have been processed once with the same parameter.](https://dev.to/ahmetilhn/prevents-re-execution-of-large-javascript-functions-that-have-been-processed-once-with-the-same-parameter-1ici)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
