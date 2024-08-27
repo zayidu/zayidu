@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Composition in GitHub Actions](https://dev.to/kiolk/composition-in-github-actions-ehh)
-- [Protect Your Website Like a Pro: SafeLine, the Open-Source WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/protect-your-website-like-a-pro-safeline-the-open-source-waf-4p7c)
-- [How to setup MS Teams notifications based on the error log from Azure SQL Database table?](https://dev.to/ron-zhong/how-to-setup-ms-teams-notifications-based-on-the-error-log-from-azure-sql-database-table-43l8)
-- [Add multithreading to shutil ?!](https://dev.to/mengqinyuan/add-multithreading-to-shutil--2lm1)
-- [Rolling Out a Robust On-Call Process to Your Team](https://dev.to/talonx/rolling-out-a-robust-on-call-process-to-your-team-57om)
+- [Strengthening AWS Security: A Guide to Identifying, Assessing, and Protecting Your Assets 🛡️🔍](https://dev.to/noorscript/strengthening-aws-security-a-guide-to-identifying-assessing-and-protecting-your-assets-5hkn)
+- [Java, fill each row having a null value in a csv file with values in the directly previous row #eg32](https://dev.to/esproc_spl/java-fill-each-row-having-a-null-value-in-a-csv-file-with-values-in-the-directly-previous-row-eg32-4ng6)
+- [Customization of view fields: Views Conditional in Drupal](https://dev.to/drupal-developer-dewan/customization-of-view-fields-views-conditional-in-drupal-54kp)
+- [🛠️ Tooling Evolution: The 5 Most Innovative JavaScript Proposals for 2024](https://dev.to/dharamgfx/tooling-evolution-the-5-most-innovative-javascript-proposals-for-2024-7c1)
+- [#52 — Get The Last Row of Each Group](https://dev.to/judith677/52-get-the-last-row-of-each-group-475c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
