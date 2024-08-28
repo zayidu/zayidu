@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an AWS MySQL RDS Instance with Terraform](https://dev.to/giasuddin90/creating-an-aws-mysql-rds-instance-with-terraform-4h8g)
-- [python program Lists](https://dev.to/avinash_mathi_483b018e36b/python-program-lists-5hc1)
-- [Day 1: Introduction to ReactJS](https://dev.to/haquedot/day-1-introduction-to-reactjs-3a07)
-- [Deploy Nextjs ke Aws Amplify](https://dev.to/saepulmalik27/deploy-nextjs-ke-aws-amplify-4mjk)
-- [Today&#39;s Trending Projects: Implementation of Polynomial Regression and More](https://dev.to/labex/todays-trending-projects-implementation-of-polynomial-regression-and-more-38eh)
+- [#53 — Get Desired Data Every N Rows And Combine Them Into One Row](https://dev.to/judith677/53-get-desired-data-every-n-rows-and-combine-them-into-one-row-3m3m)
+- [From software developer to waiter in Dubai](https://dev.to/kevincoto/from-software-developer-to-waiter-in-dubai-gfe)
+- [Organic Traffic Recovery: How to Win SERPs and Influence Execs](https://dev.to/daedtech/organic-traffic-recovery-how-to-win-serps-and-influence-execs-1ecm)
+- [Leetcode: minEatingSpeed](https://dev.to/jennthecoder/leetcode-mineatingspeed-1j97)
+- [Tutorial how to use node js until displays &quot;Hello World&quot;](https://dev.to/ghifaris/tutorial-how-to-use-node-js-until-displays-hello-world-54g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
