@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bash Shell Scripting: The Basics](https://dev.to/dev_frank/bash-shell-scripting-the-basics-1o5b)
-- [Introducing the Ultimate Resource for Marketers: The Awesome Marketing Tools List](https://dev.to/stan8086/introducing-the-ultimate-resource-for-marketers-the-awesome-marketing-tools-list-17jf)
-- [DAPR Distributed Application Runtime](https://dev.to/sreeni5018/dapr-distributed-application-runtime-57lm)
-- [Running Mailpit for SMTP and UI on MacOS](https://dev.to/abdulwahidkahar/running-mailpit-for-smtp-and-ui-on-macos-4fkp)
-- [Here&#39;s what I learned from building a chrome extension](https://dev.to/paul_freeman/heres-what-i-learned-from-building-a-chrome-extension-1986)
+- [Decoding Cloud Computing](https://dev.to/sab93/decoding-cloud-computing-5cl9)
+- [Capacity Planning AKS Azure Kubernetes Service Cluster](https://dev.to/sreeni5018/capacity-planning-aks-azure-kubernetes-service-cluster-5552)
+- [AI in Marine Weather Prediction: Enhancing Forecast Accuracy for Smarter Maritime Operations](https://dev.to/navinder/ai-in-marine-weather-prediction-enhancing-forecast-accuracy-forsmarter-maritime-operations-ai2)
+- [Understanding Option Sequencing in Effect-TS](https://dev.to/almaclaine/understanding-option-sequencing-in-effect-ts-22g7)
+- [Statement Coverage: A Foundation for Effective Testing](https://dev.to/keploy/statement-coverage-a-foundation-for-effective-testing-27e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
