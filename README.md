@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Callback Chaos to Async Zen: A JavaScript Journey](https://dev.to/baransel/from-callback-chaos-to-async-zen-a-javascript-journey-5ef0)
-- [Postgres Foreign Data Wrappers with Wasm](https://dev.to/supabase/postgres-foreign-data-wrappers-with-wasm-ld)
-- [Django is for everyone.](https://dev.to/battlecat/django-is-for-everyone-3dkp)
-- [Why Custom Post Types Are a Game Changer for WordPress Sites](https://dev.to/jamesmartindev/why-custom-post-types-are-a-game-changer-for-wordpress-sites-2c04)
-- [A new way to create desktop applications: Tauri + React](https://dev.to/manascodes13/a-new-way-to-create-desktop-applications-tauri-react-59bp)
+- [🧠 How I integrated an AI copilot into Dub.co 🤖🚀](https://dev.to/copilotkit/how-i-integrated-an-ai-copilot-into-dubco-3lkj)
+- [MVC in Frontend is Dead](https://dev.to/daelmaak/mvc-in-frontend-is-dead-19ff)
+- [Exploring the Different Types of PostgreSQL Table Partitioning](https://dev.to/matthewlafalce/exploring-the-different-types-of-postgresql-table-partitioning-4hln)
+- [React Hooks](https://dev.to/vincod/react-hooks-51l)
+- [Adding Search Functionality to a Hugo Static Site Based on INFINI Pizza for WebAssembly](https://dev.to/medcl/adding-search-functionality-to-a-hugo-static-site-based-on-infini-pizza-for-webassembly-4h5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
