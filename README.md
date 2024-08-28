@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL 50 FROM Leetcode](https://dev.to/caresle/sql-50-from-leetcode-26hj)
-- [Introduction to Docker Swarm](https://dev.to/kartikmehta8/introduction-to-docker-swarm-lgm)
-- [Issue 59 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-59-of-aws-cloud-security-weekly-5hn5)
-- [Deploy to Fly.io with bitbucket-pipelines](https://dev.to/schirrel/deploy-to-flyio-with-bitbucket-pipelines-3lkd)
-- [A Review of AI-Based Fire Evacuation Automation Systems: Current Practices, Challenges, and Future Enhancements](https://dev.to/tahirriqball/a-review-of-ai-based-fire-evacuation-automation-systems-current-practices-challenges-and-future-enhancements-4da2)
+- [Creating an AWS MySQL RDS Instance with Terraform](https://dev.to/giasuddin90/creating-an-aws-mysql-rds-instance-with-terraform-4h8g)
+- [python program Lists](https://dev.to/avinash_mathi_483b018e36b/python-program-lists-5hc1)
+- [Day 1: Introduction to ReactJS](https://dev.to/haquedot/day-1-introduction-to-reactjs-3a07)
+- [Deploy Nextjs ke Aws Amplify](https://dev.to/saepulmalik27/deploy-nextjs-ke-aws-amplify-4mjk)
+- [Today&#39;s Trending Projects: Implementation of Polynomial Regression and More](https://dev.to/labex/todays-trending-projects-implementation-of-polynomial-regression-and-more-38eh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
