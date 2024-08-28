@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Shack: Multi-Cluster CI/CD DevOps Project 🌟](https://dev.to/swapi123/devops-shack-multi-cluster-cicd-devops-project-3llf)
-- [The Chrome Extensions Handbook: Memory-Heavy to Production-Ready](https://dev.to/sfundomhlungu/the-chrome-extensions-handbook-memory-heavy-to-production-ready-2a0)
-- [HSL Color Theory: How to Use Hue, Saturation, and Lightness for Perfect Color Schemes](https://dev.to/futuristicgeeks/hsl-color-theory-how-to-use-hue-saturation-and-lightness-for-perfect-color-schemes-3h72)
-- [Building Chrome Extensions 101: A Quick Overview](https://dev.to/sfundomhlungu/building-chrome-extensions-101-a-quick-overview-2p96)
-- [OOP in JS](https://dev.to/mahf001/oop-in-js-48ci)
+- [From Callback Chaos to Async Zen: A JavaScript Journey](https://dev.to/baransel/from-callback-chaos-to-async-zen-a-javascript-journey-5ef0)
+- [Postgres Foreign Data Wrappers with Wasm](https://dev.to/supabase/postgres-foreign-data-wrappers-with-wasm-ld)
+- [Django is for everyone.](https://dev.to/battlecat/django-is-for-everyone-3dkp)
+- [Why Custom Post Types Are a Game Changer for WordPress Sites](https://dev.to/jamesmartindev/why-custom-post-types-are-a-game-changer-for-wordpress-sites-2c04)
+- [A new way to create desktop applications: Tauri + React](https://dev.to/manascodes13/a-new-way-to-create-desktop-applications-tauri-react-59bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
