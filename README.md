@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Renewing Our Commitment: Empowering Women with ADHD in Tech Introduction](https://dev.to/techtobe101/renewing-our-commitment-empowering-women-with-adhd-in-tech-introduction-30dk)
-- [Security Groups &amp; Network ACLs](https://dev.to/clintt/security-groups-network-acls-k29)
-- [Next.js createPage helper with loader pattern](https://dev.to/eelcowiersma/nextjs-createpage-helper-with-loader-pattern-3kb2)
-- [6 Must-Know Advanced Tailwind CSS Utilities for Enhancing Dev Experience](https://dev.to/danishasif/6-must-know-advanced-tailwind-css-utilities-for-enhancing-dev-experience-1kid)
-- [FlutterLibrary.com - Custom Templates &amp; Components](https://dev.to/abuanwar072/flutterlibrarycom-custom-templates-components-ci7)
+- [Bash Shell Scripting: The Basics](https://dev.to/dev_frank/bash-shell-scripting-the-basics-1o5b)
+- [Introducing the Ultimate Resource for Marketers: The Awesome Marketing Tools List](https://dev.to/stan8086/introducing-the-ultimate-resource-for-marketers-the-awesome-marketing-tools-list-17jf)
+- [DAPR Distributed Application Runtime](https://dev.to/sreeni5018/dapr-distributed-application-runtime-57lm)
+- [Running Mailpit for SMTP and UI on MacOS](https://dev.to/abdulwahidkahar/running-mailpit-for-smtp-and-ui-on-macos-4fkp)
+- [Here&#39;s what I learned from building a chrome extension](https://dev.to/paul_freeman/heres-what-i-learned-from-building-a-chrome-extension-1986)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
