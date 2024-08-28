@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Material TailWind - combining Material Design and Tailwind CSS](https://dev.to/codeparrot/material-tailwind-combining-material-design-and-tailwind-css-15ff)
-- [Callbacks, Callback Hell, Promises, Async/Await](https://dev.to/jenil/callbacks-callback-hell-promises-asyncawait-5f48)
-- [Django Tailwind](https://dev.to/wsvincent/django-tailwind-i59)
-- [Django UserProfile Model](https://dev.to/wsvincent/django-userprofile-model-knd)
-- [Beyond the Cloud: How On-Device AI Could Rescue Our Privacy!?](https://dev.to/ooye_sanket/beyond-the-cloud-how-on-device-ai-could-rescue-our-privacy-4abk)
+- [Top 10 Infrastructure as Code Tools](https://dev.to/yayabobi/top-10-infrastructure-as-code-tools-1963)
+- [10 Must-Know JavaScript ES13 Features for Modern Development](https://dev.to/mdawooddev/10-must-know-javascript-es13-features-for-modern-development-3go3)
+- [How to Organize Better with TS Interfaces](https://dev.to/shagun_mistry/how-to-organize-better-with-ts-interfaces-127k)
+- [High or Low Card Game](https://dev.to/erza_kaneki/high-or-low-card-game-1kib)
+- [Project Starter Kit: Neon Postgres Database + ExpressJs + TypeScript and TypeORM](https://dev.to/cre8stevedev/project-starter-kit-neon-postgres-database-expressjs-typescript-and-typeorm-3g6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
