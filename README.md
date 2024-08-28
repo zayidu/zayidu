@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 How I integrated an AI copilot into Dub.co 🤖🚀](https://dev.to/copilotkit/how-i-integrated-an-ai-copilot-into-dubco-3lkj)
-- [MVC in Frontend is Dead](https://dev.to/daelmaak/mvc-in-frontend-is-dead-19ff)
-- [Exploring the Different Types of PostgreSQL Table Partitioning](https://dev.to/matthewlafalce/exploring-the-different-types-of-postgresql-table-partitioning-4hln)
-- [React Hooks](https://dev.to/vincod/react-hooks-51l)
-- [Adding Search Functionality to a Hugo Static Site Based on INFINI Pizza for WebAssembly](https://dev.to/medcl/adding-search-functionality-to-a-hugo-static-site-based-on-infini-pizza-for-webassembly-4h5e)
+- [Add interactivity to disabled components in Angular Material](https://dev.to/ngmaterialdev/add-interactivity-to-disabled-components-in-angular-material-9hc)
+- [Parsing Redis Commands with tokio-util](https://dev.to/dheerajgopi/parsing-redis-commands-with-tokio-util-3dhh)
+- [How Automations, Integrations, and Scripting Can Transform Your Workflow](https://dev.to/meghaghotkar/how-automations-integrations-and-scripting-can-transform-your-workflow-4bpc)
+- [Kubernetes Volumes](https://dev.to/hamza_nasir_06a03aac148a4/kubernetes-volumes-2dp7)
+- [Git: Commit Messages](https://dev.to/jinhiro/git-commit-messages-5g3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
