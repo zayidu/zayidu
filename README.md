@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying SafeLine WAF on CentOS 7 with Docker](https://dev.to/lulu_liu_c90f973e2f954d7f/deploying-safeline-waf-on-centos-7-with-docker-42ci)
-- [Guide to nonfunctional requirements for System Design Interviews](https://dev.to/fahimulhaq/guide-to-nonfunctional-requirements-for-system-design-interviews-4eje)
-- [Understanding Your Data: The Essentials of Data Analysis](https://dev.to/esthermamai/understanding-your-data-the-essentials-of-data-analysis-g9j)
-- [Common WAF Deployment Modes and Free WAF Recommendation](https://dev.to/butterflyi8/common-waf-deployment-modes-and-free-waf-recommendation-4j9a)
-- [Expo, React Hook Form + TypeScript❤️ + Zod](https://dev.to/birolaydin/expo-react-hook-form-typescript-zod-4oac)
+- [Secure Your Website Effortlessly: The Community-Driven WAF Solution](https://dev.to/lulu_liu_c90f973e2f954d7f/secure-your-website-effortlessly-the-community-driven-waf-solution-54op)
+- [Currying in JavaScript সম্পর্কে বিস্তারিত আলোচনা](https://dev.to/rsmacademybd/currying-in-javascript-smprke-bistaarit-aalocnaa-3el7)
+- [10-Day .Net Aspire Challenge: Day 1 — Introduction](https://dev.to/ssukhpinder/10-day-net-aspire-challenge-day-1-introduction-33n6)
+- [How to Run Flux 1 Schnell and Pro Image Generator in the Cloud](https://dev.to/nodeshiftcloud/how-to-run-flux-1-schnell-and-pro-image-generator-in-the-cloud-4d7h)
+- [Recursion in JavaScript সম্পর্কে বিস্তারিত আলোচনা](https://dev.to/rsmacademybd/recursion-in-javascript-smprke-bistaarit-aalocnaa-1h14)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
