@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-World Attack Testing with SafeLine: A Guide to Dynamic Protection](https://dev.to/lulu_liu_c90f973e2f954d7f/real-world-attack-testing-with-safeline-a-guide-to-dynamic-protection-2j5)
-- [Setting Up Keycloak as an OAuth Server](https://dev.to/mtsammy40/setting-up-keycloak-as-an-oauth-server-1acn)
-- [Understanding Headless CMS and Its Benefits for Businesses](https://dev.to/ismailco96/understanding-headless-cms-and-its-benefits-for-businesses-4c57)
-- [Day 58 / 100 Days of Code:](https://dev.to/jacobsternx/day-58-100-days-of-code-5hd6)
-- [Day 58 / 100 Days of Code:](https://dev.to/jacobsternx/day-58-100-days-of-code-16gn)
+- [Deploying SafeLine WAF on CentOS 7 with Docker](https://dev.to/lulu_liu_c90f973e2f954d7f/deploying-safeline-waf-on-centos-7-with-docker-42ci)
+- [Guide to nonfunctional requirements for System Design Interviews](https://dev.to/fahimulhaq/guide-to-nonfunctional-requirements-for-system-design-interviews-4eje)
+- [Understanding Your Data: The Essentials of Data Analysis](https://dev.to/esthermamai/understanding-your-data-the-essentials-of-data-analysis-g9j)
+- [Common WAF Deployment Modes and Free WAF Recommendation](https://dev.to/butterflyi8/common-waf-deployment-modes-and-free-waf-recommendation-4j9a)
+- [Expo, React Hook Form + TypeScript❤️ + Zod](https://dev.to/birolaydin/expo-react-hook-form-typescript-zod-4oac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
