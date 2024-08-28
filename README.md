@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mind-Map for REACT.JS:](https://dev.to/bhu_101/mind-map-for-reactjs-2ad9)
-- [Python Interview Question - Beginner to Advance](https://dev.to/jasper475/python-interview-question-beginner-to-advance-1omp)
-- [Async Loops in JavaScript: for...of vs forEach](https://dev.to/alaa_ezzeldin/async-loops-in-javascript-forof-vs-foreach-5g2m)
-- [🎂 My 2^6 months retro at OPT-NC](https://dev.to/adriens/my-26-months-retro-at-opt-nc-pk2)
-- [Understanding Promises | Javascript - 1](https://dev.to/deepak_kumar_f89e83f79b15/understanding-promises-javascript-1-1ha6)
+- [Bias in Data Science? 3 Most Common Types and Ways to Deal with Them](https://dev.to/kwan/bias-in-data-science-3-most-common-types-and-ways-to-deal-with-them-4onk)
+- [Render Error: arm64-darwin-21 vs x86_64-linux](https://dev.to/mayas1111/error-with-render-27fj)
+- [Day 1019 : 12 Count](https://dev.to/dwane/day-1019-12-count-4mgf)
+- [Easy way to geo-fence your cloud VPS with nftables](https://dev.to/gluecode/easy-way-to-geo-fence-your-cloud-vps-with-nftables-2ee1)
+- [Applied Data Science on data breaches + Bonus](https://dev.to/yowise/applied-data-science-on-data-breaches-bonus-3b8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
