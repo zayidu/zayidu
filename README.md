@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Add interactivity to disabled components in Angular Material](https://dev.to/ngmaterialdev/add-interactivity-to-disabled-components-in-angular-material-9hc)
-- [Parsing Redis Commands with tokio-util](https://dev.to/dheerajgopi/parsing-redis-commands-with-tokio-util-3dhh)
-- [How Automations, Integrations, and Scripting Can Transform Your Workflow](https://dev.to/meghaghotkar/how-automations-integrations-and-scripting-can-transform-your-workflow-4bpc)
-- [Kubernetes Volumes](https://dev.to/hamza_nasir_06a03aac148a4/kubernetes-volumes-2dp7)
-- [Git: Commit Messages](https://dev.to/jinhiro/git-commit-messages-5g3d)
+- [Renewing Our Commitment: Empowering Women with ADHD in Tech Introduction](https://dev.to/techtobe101/renewing-our-commitment-empowering-women-with-adhd-in-tech-introduction-30dk)
+- [Security Groups &amp; Network ACLs](https://dev.to/clintt/security-groups-network-acls-k29)
+- [Next.js createPage helper with loader pattern](https://dev.to/eelcowiersma/nextjs-createpage-helper-with-loader-pattern-3kb2)
+- [6 Must-Know Advanced Tailwind CSS Utilities for Enhancing Dev Experience](https://dev.to/danishasif/6-must-know-advanced-tailwind-css-utilities-for-enhancing-dev-experience-1kid)
+- [FlutterLibrary.com - Custom Templates &amp; Components](https://dev.to/abuanwar072/flutterlibrarycom-custom-templates-components-ci7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
