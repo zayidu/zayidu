@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Middleware in Node.js: The Secret Sauce of Express.js 🥪](https://dev.to/khushindpatel/mastering-middleware-in-nodejs-the-secret-sauce-of-expressjs-4666)
-- [Neon T3 Starter Kit: Supercharging Web Development with Serverless Postgres](https://dev.to/chiragagg5k/neon-t3-starter-kit-supercharging-web-development-with-serverless-postgres-13fg)
-- [Developer diary #16. Don&#39;t miss opportunities](https://dev.to/kiolk/developer-diary-16-dont-miss-opportunities-1eg5)
-- [My First CSS Responsive Project: A Tech Blog Built from Scratch](https://dev.to/shivanshu-prajapati/my-first-css-responsive-project-a-tech-blog-built-from-scratch-101k)
-- [Replicaset vs Daemonset](https://dev.to/dheerajparikh/replicaset-vs-daemonset-3jnm)
+- [Building a Semantic Kernel with F# for Enhanced AI Interaction](https://dev.to/rockfire/building-a-semantic-kernel-with-f-for-enhanced-ai-interaction-302m)
+- [Thunderbird Council, #ChatControl, and me.](https://dev.to/bogomil/thunderbird-council-chatcontrol-and-me-3374)
+- [Does Dropshipping Still Work? &lpar;2024 Overview&rpar;](https://dev.to/ai-info/does-dropshipping-still-work-2024-overview-3g65)
+- [Why You Should Use TypeScript for Medium or Larger Projects](https://dev.to/homayunmmdy/why-you-should-use-typescript-for-medium-or-larger-projects-30g9)
+- [Unlock Android Jetpack Components: Hidden Tricks to Build Successful App](https://dev.to/appvaze/unlock-android-jetpack-components-hidden-tricks-to-build-successful-app-3g5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
