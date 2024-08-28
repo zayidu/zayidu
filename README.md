@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Taskwarrior: The Command-Line Task Manager for Power Users](https://dev.to/stan8086/taskwarrior-the-command-line-task-manager-for-power-users-40ij)
-- [Redux vs. Context.Provider: Choosing State Management in React Applications](https://dev.to/dosht/redux-vs-contextprovider-choosing-state-management-in-react-applications-6bm)
-- [Using asyncio.create_task&lpar;&rpar;](https://dev.to/zeyrarararara/using-asynciocreatetask-4511)
-- [Understanding the Difference Between HTTP and HTTPS](https://dev.to/bizmaven-devworld-organization/understanding-the-difference-between-http-and-https-3hp9)
-- [Building a Basic Convolutional Neural Network &lpar;CNN&rpar; in Python](https://dev.to/abhinowww/building-a-basic-convolutional-neural-network-cnn-in-python-3bab)
+- [Mastering Middleware in Node.js: The Secret Sauce of Express.js 🥪](https://dev.to/khushindpatel/mastering-middleware-in-nodejs-the-secret-sauce-of-expressjs-4666)
+- [Neon T3 Starter Kit: Supercharging Web Development with Serverless Postgres](https://dev.to/chiragagg5k/neon-t3-starter-kit-supercharging-web-development-with-serverless-postgres-13fg)
+- [Developer diary #16. Don&#39;t miss opportunities](https://dev.to/kiolk/developer-diary-16-dont-miss-opportunities-1eg5)
+- [My First CSS Responsive Project: A Tech Blog Built from Scratch](https://dev.to/shivanshu-prajapati/my-first-css-responsive-project-a-tech-blog-built-from-scratch-101k)
+- [Replicaset vs Daemonset](https://dev.to/dheerajparikh/replicaset-vs-daemonset-3jnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
