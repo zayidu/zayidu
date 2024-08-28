@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v291](https://dev.to/devteam/welcome-thread-v291-1fmj)
-- [Server-Side Rendering vs Static Site Generation: Choosing the Right Approach for Your Next.js Project 🚀](https://dev.to/shahharsh/server-side-rendering-vs-static-site-generation-choosing-the-right-approach-for-your-nextjs-project-39op)
-- [Neon OSS Kit: Ship your Next.js apps faster than ever!](https://dev.to/rohittcodes/neon-oss-kit-ship-your-nextjs-apps-faster-than-ever-4n7f)
-- [Scalability](https://dev.to/sonu_sharma/scalability-3pl4)
-- [Availability](https://dev.to/sonu_sharma/availability-bj0)
+- [6 Must-Know JavaScript ES13 Features for Modern Development 🚀](https://dev.to/vyan/6-must-know-javascript-es13-features-for-modern-development-4jha)
+- [Turning Off Search Highlights in Windows 11!](https://dev.to/winsides/turning-off-search-highlights-in-windows-11-52p8)
+- [A Comprehensive Guide to Machine Learning: Your Ticket to Mastering the Future 🚀](https://dev.to/getvm/a-comprehensive-guide-to-machine-learning-your-ticket-to-mastering-the-future-hje)
+- [Understanding the Differences Between Blue-Green Deployment and Canary Deployment](https://dev.to/joshwizard/understanding-the-differences-between-blue-green-deployment-and-canary-deployment-3oec)
+- [Aging Software Developer](https://dev.to/jobreadyprogrammer/aging-software-developer-2iaf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
