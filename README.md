@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding Cloud Computing](https://dev.to/sab93/decoding-cloud-computing-5cl9)
-- [Capacity Planning AKS Azure Kubernetes Service Cluster](https://dev.to/sreeni5018/capacity-planning-aks-azure-kubernetes-service-cluster-5552)
-- [AI in Marine Weather Prediction: Enhancing Forecast Accuracy for Smarter Maritime Operations](https://dev.to/navinder/ai-in-marine-weather-prediction-enhancing-forecast-accuracy-forsmarter-maritime-operations-ai2)
-- [Understanding Option Sequencing in Effect-TS](https://dev.to/almaclaine/understanding-option-sequencing-in-effect-ts-22g7)
-- [Statement Coverage: A Foundation for Effective Testing](https://dev.to/keploy/statement-coverage-a-foundation-for-effective-testing-27e2)
+- [Material TailWind - combining Material Design and Tailwind CSS](https://dev.to/codeparrot/material-tailwind-combining-material-design-and-tailwind-css-15ff)
+- [Callbacks, Callback Hell, Promises, Async/Await](https://dev.to/jenil/callbacks-callback-hell-promises-asyncawait-5f48)
+- [Django Tailwind](https://dev.to/wsvincent/django-tailwind-i59)
+- [Django UserProfile Model](https://dev.to/wsvincent/django-userprofile-model-knd)
+- [Beyond the Cloud: How On-Device AI Could Rescue Our Privacy!?](https://dev.to/ooye_sanket/beyond-the-cloud-how-on-device-ai-could-rescue-our-privacy-4abk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
