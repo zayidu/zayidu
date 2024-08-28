@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Must-Know JavaScript ES13 Features for Modern Development 🚀](https://dev.to/vyan/6-must-know-javascript-es13-features-for-modern-development-4jha)
-- [Turning Off Search Highlights in Windows 11!](https://dev.to/winsides/turning-off-search-highlights-in-windows-11-52p8)
-- [A Comprehensive Guide to Machine Learning: Your Ticket to Mastering the Future 🚀](https://dev.to/getvm/a-comprehensive-guide-to-machine-learning-your-ticket-to-mastering-the-future-hje)
-- [Understanding the Differences Between Blue-Green Deployment and Canary Deployment](https://dev.to/joshwizard/understanding-the-differences-between-blue-green-deployment-and-canary-deployment-3oec)
-- [Aging Software Developer](https://dev.to/jobreadyprogrammer/aging-software-developer-2iaf)
+- [Taskwarrior: The Command-Line Task Manager for Power Users](https://dev.to/stan8086/taskwarrior-the-command-line-task-manager-for-power-users-40ij)
+- [Redux vs. Context.Provider: Choosing State Management in React Applications](https://dev.to/dosht/redux-vs-contextprovider-choosing-state-management-in-react-applications-6bm)
+- [Using asyncio.create_task&lpar;&rpar;](https://dev.to/zeyrarararara/using-asynciocreatetask-4511)
+- [Understanding the Difference Between HTTP and HTTPS](https://dev.to/bizmaven-devworld-organization/understanding-the-difference-between-http-and-https-3hp9)
+- [Building a Basic Convolutional Neural Network &lpar;CNN&rpar; in Python](https://dev.to/abhinowww/building-a-basic-convolutional-neural-network-cnn-in-python-3bab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
