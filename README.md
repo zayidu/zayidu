@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Dynamic CSS 🌐Orb with Custom Properties and Gradients &lpar;One Element&rpar;!](https://dev.to/alishata128/creating-a-dynamic-css-orb-with-custom-properties-and-gradients-one-element-43en)
-- [Congrats to the Build Better on Stellar: Smart Contract Challenge Winners!](https://dev.to/devteam/congrats-to-the-build-better-on-stellar-smart-contract-challenge-winners-5h9m)
-- [Learn Ruby and TDD at the same time](https://dev.to/meleu/learn-ruby-and-tdd-at-the-same-time-2en1)
-- [Day7 #100days Miva challenge](https://dev.to/damilola_oyeyipo_1348716f/day7-100days-miva-challenge-fdj)
-- [Just uploaded a new video on arrays in Java Dive in and check it out now!](https://dev.to/mmourouh/just-uploaded-a-new-video-on-arrays-in-java-dive-in-and-check-it-out-now-9el)
+- [SQL 50 FROM Leetcode](https://dev.to/caresle/sql-50-from-leetcode-26hj)
+- [Introduction to Docker Swarm](https://dev.to/kartikmehta8/introduction-to-docker-swarm-lgm)
+- [Issue 59 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-59-of-aws-cloud-security-weekly-5hn5)
+- [Deploy to Fly.io with bitbucket-pipelines](https://dev.to/schirrel/deploy-to-flyio-with-bitbucket-pipelines-3lkd)
+- [A Review of AI-Based Fire Evacuation Automation Systems: Current Practices, Challenges, and Future Enhancements](https://dev.to/tahirriqball/a-review-of-ai-based-fire-evacuation-automation-systems-current-practices-challenges-and-future-enhancements-4da2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
