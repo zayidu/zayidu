@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why It&#39;s Time to Ditch useState and Upgrade to useEasyState!](https://dev.to/middleware/why-its-time-to-ditch-usestate-and-upgrade-to-useeasystate-5c7j)
-- [Why Devs Love Open Source KitOps–Tales from the ML Trenches](https://dev.to/kitops/why-devs-love-open-source-kitops-tales-from-the-ml-trenches-23pa)
-- [Mastering Code Splitting: Unlocking Faster Load Times for Your JavaScript Applications](https://dev.to/travislramos/mastering-code-splitting-unlocking-faster-load-times-for-your-javascript-applications-71i)
-- [Le CV qui m&#39;a permis d&#39;être embauché chez Microsoft. Trois fois...](https://dev.to/pykpyky/le-cv-qui-ma-permis-detre-embauche-chez-microsoft-trois-fois--40e6)
-- [How To: 3D Flip Cards using Tailwind CSS](https://dev.to/mematthew123/how-to-3d-flip-cards-using-tailwind-css-a2f)
+- [Debugging Your Resume: Key Fixes Software Engineers are Making in 2024](https://dev.to/recruiter-emily/debugging-your-resume-key-fixes-software-engineers-are-making-in-2024-53g2)
+- [&quot;DevFest Prayagraj: A Day of Tech, Learning, and Community&quot;](https://dev.to/avadakedavara0/devfest-prayagraj-a-day-of-tech-learning-and-community-1fn9)
+- [Is CSP Actually Helping with Your Security? 🤔](https://dev.to/middleware/is-csp-actually-helping-with-your-security-4gbm)
+- [Golang: build or modify packages](https://dev.to/admond_tamang_d78c7ab13f1/golang-build-or-modify-packages-50gi)
+- [Mastering AWS Key Management Service &lpar;KMS&rpar; for Robust Data Security](https://dev.to/ikoh_sylva/mastering-aws-key-management-service-kms-for-robust-data-security-3j14)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
