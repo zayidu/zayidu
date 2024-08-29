@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Generative and Traditional AI Improve Revenue Cycle Management: AI&#39;s Role in RCM](https://dev.to/velanhcs/how-generative-and-traditional-ai-improve-revenue-cycle-management-ais-role-in-rcm-2cff)
-- [JavaScript Performance Optimization Techniques](https://dev.to/bizmaven-devworld-organization/javascript-performance-optimization-techniques-1026)
-- [Accelerating Business Growth with a Platform Engineering Team](https://dev.to/pablos4nt0s/accelerating-business-growth-with-a-platform-engineering-team-562e)
-- [Top 5 Things You Should Know About Spark](https://dev.to/sudo_pradip/top-5-things-you-should-know-about-spark-4kg3)
-- [Spring Boot + Feign Client + OAuth2](https://dev.to/oigorrudel/spring-boot-feign-client-oauth2-4a7)
+- [Launch a Turbo Modal with URL Params Using Stimulus](https://dev.to/railsdesigner/launch-a-turbo-modal-with-url-params-using-stimulus-143l)
+- [6+ Stock Market Admin Dashboard Templates](https://dev.to/hitesh_developer/6-stock-market-admin-dashboard-templates-17e9)
+- [Harnessing Apache Kafka on Kubernetes with Strimzi](https://dev.to/vinod827/harnessing-apache-kafka-on-kubernetes-with-strimzi-5fjg)
+- [Serverless: Simplifying Cloud Computing with Google Cloud Functions](https://dev.to/marciofweb/serverless-simplifying-cloud-computing-with-google-cloud-functions-23e4)
+- [Terraform – A Comprehensive Guide from Beginner to Advanced Level : Day 34 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/terraform-a-comprehensive-guide-from-beginner-to-advanced-level-day-34-of-50-days-devops-tools-series-2j39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
