@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FREE Tokyo Build Meetup on Sept. 9 from 16:00 - 19:00 JST](https://dev.to/shelbylee/free-tokyo-build-meetup-on-sept-9-from-1600-1900-jst-3jla)
-- [Enable IIS 6 Metabase and IIS Configuration Compatibility in Windows 11](https://dev.to/winsides/enable-iis-6-metabase-and-iis-configuration-compatibility-in-windows-11-4nbp)
-- [Using Existing GPG Key to Sign Git Commits](https://dev.to/codedir/using-existing-gpg-key-to-sign-git-commits-5181)
-- [Debugging Your Resume: Key Fixes Software Engineers are Making in 2024](https://dev.to/recruiter-emily/debugging-your-resume-key-fixes-software-engineers-are-making-in-2024-53g2)
-- [&quot;DevFest Prayagraj: A Day of Tech, Learning, and Community&quot;](https://dev.to/avadakedavara0/devfest-prayagraj-a-day-of-tech-learning-and-community-1fn9)
+- [Free Project: Use ChatGPT to Plot with Python and Matplotlib](https://dev.to/cognitiveclass/free-project-use-chatgpt-to-plot-with-python-and-matplotlib-5ha6)
+- [Flutter_dotenv Mastery: From Setup to Production](https://dev.to/joel207/flutterdotenv-mastery-from-setup-to-production-1jpo)
+- [Flutter_dotenv Mastery: From Setup to Production](https://dev.to/joel207/flutterdotenv-mastery-from-setup-to-production-2hh8)
+- [NAT Gateway Implementation](https://dev.to/clintt/nat-gateway-implementation-2c6f)
+- [Making UI Layout: Fast, Pixel Perfect, Without Stress 🚀](https://dev.to/niko_doing_dev/making-ui-layout-fast-pixel-perfect-without-stress-1n5m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
