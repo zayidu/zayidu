@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This is all about promo codes for sonic](https://dev.to/lorabrown3215/this-is-all-about-promo-codes-for-sonic-4en3)
-- [Test Staging Consent Management Platforms &lpar;CMP&rpar; Scripts on Production](https://dev.to/requestlyio/test-staging-consent-management-platforms-cmp-scripts-on-production-21gb)
-- [PostgREST 12.2: Prometheus metrics](https://dev.to/supabase/postgrest-122-prometheus-metrics-13cm)
-- [I AM SORRY.......](https://dev.to/mince/i-am-sorry-8a3)
-- [Build An Audio Transcriber and Analyzer using ToolJet and OpenAI](https://dev.to/tooljet/build-an-audio-transcriber-and-analyzer-using-tooljet-and-openai-1109)
+- [How Generative and Traditional AI Improve Revenue Cycle Management: AI&#39;s Role in RCM](https://dev.to/velanhcs/how-generative-and-traditional-ai-improve-revenue-cycle-management-ais-role-in-rcm-2cff)
+- [JavaScript Performance Optimization Techniques](https://dev.to/bizmaven-devworld-organization/javascript-performance-optimization-techniques-1026)
+- [Accelerating Business Growth with a Platform Engineering Team](https://dev.to/pablos4nt0s/accelerating-business-growth-with-a-platform-engineering-team-562e)
+- [Top 5 Things You Should Know About Spark](https://dev.to/sudo_pradip/top-5-things-you-should-know-about-spark-4kg3)
+- [Spring Boot + Feign Client + OAuth2](https://dev.to/oigorrudel/spring-boot-feign-client-oauth2-4a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
