@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Hacked a Company Recruitment Test The Unexpected Tech Adventure of My College Life](https://dev.to/programmerraja/how-i-hacked-a-company-recruitment-test-the-unexpected-tech-adventure-of-my-college-life-4plb)
-- [#54 - Combine Cell Values of Every 3 Rows under Each Column into One Cell](https://dev.to/judith677/54-combine-cell-values-of-every-3-rows-under-each-column-into-one-cell-1ode)
-- [Introduction to Comparison Functions and Operators in GBase 8a MPP Cluster](https://dev.to/congcong/introduction-to-comparison-functions-and-operators-in-gbase-8a-mpp-cluster-37fn)
-- [Why We Built CheatSheet++: Streamlining the Developer’s Journey](https://dev.to/twistor/why-we-built-cheatsheet-streamlining-the-developers-journey-ojo)
-- [How to create a fullstack application using Django and Python Part 5](https://dev.to/letsbsocial1/how-to-create-a-fullstack-application-using-django-and-python-part-5-2m18)
+- [CAP Theorem](https://dev.to/sonu_sharma/cap-theorem-11kp)
+- [Absolutely Best Free Tools for Web Developers](https://dev.to/angelaswift/absolutely-best-free-tools-for-web-developers-4hm4)
+- [Supercharge Your Frontend Skills: 8 Must-Have Tools for Developers in 2024 🚀](https://dev.to/gadekar_sachin/supercharge-your-frontend-skills-8-must-have-tools-for-developers-in-2024-2jpd)
+- [First Impressions of SafeLine: The Most Starred Open-Source WAF on GitHub](https://dev.to/lulu_liu_c90f973e2f954d7f/first-impressions-of-safeline-the-most-starred-open-source-waf-on-github-34b6)
+- [GBase 8c Distributed Cluster TPC-C Performance Tuning Practical Guide](https://dev.to/congcong/gbase-8c-distributed-cluster-tpc-c-performance-tuning-practical-guide-4moj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
