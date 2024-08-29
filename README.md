@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bias in Data Science? 3 Most Common Types and Ways to Deal with Them](https://dev.to/kwan/bias-in-data-science-3-most-common-types-and-ways-to-deal-with-them-4onk)
-- [Render Error: arm64-darwin-21 vs x86_64-linux](https://dev.to/mayas1111/error-with-render-27fj)
-- [Day 1019 : 12 Count](https://dev.to/dwane/day-1019-12-count-4mgf)
-- [Easy way to geo-fence your cloud VPS with nftables](https://dev.to/gluecode/easy-way-to-geo-fence-your-cloud-vps-with-nftables-2ee1)
-- [Applied Data Science on data breaches + Bonus](https://dev.to/yowise/applied-data-science-on-data-breaches-bonus-3b8m)
+- [lista](https://dev.to/gabriel_guiuber/lista-3jha)
+- [estrutura html](https://dev.to/gabriel_guiuber/estrutura-html-477p)
+- [The importance of making your &quot;Workspace&quot; folder on your root path😅](https://dev.to/mayas1111/the-importance-of-making-your-workspace-folder-on-your-root-path-18lo)
+- [Advanced Playwright Testing: Leveraging the Page Object Model &lpar;Part 2&rpar;](https://dev.to/samuel_kinuthia/advanced-playwright-testing-leveraging-the-page-object-model-part-2-5fn4)
+- [How to Automate Your Product Hunt Launch: Lessons from Helicone&#39;s Success](https://dev.to/lina_lam_9ee459f98b67e9d5/how-to-automate-your-product-hunt-launch-lessons-from-helicones-success-3meo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
