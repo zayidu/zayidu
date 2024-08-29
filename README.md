@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Types Part-05](https://dev.to/monirulislam027/data-types-part-05-3l13)
-- [Give me solution: What will be the result of the following codes:](https://dev.to/khursheddev/give-me-solution-what-will-be-the-result-of-the-following-codes-2fp4)
-- [Mathematics &amp; Programming](https://dev.to/danishk7a/mathematics-programming-d65)
-- [Attempt #14 - Continued the React Crash Course](https://dev.to/dilsemonk/attempt-14-continued-the-react-crash-course-5gfk)
-- [goaccess for nginx report](https://dev.to/ugifractal/goaccess-for-nginx-report-19nc)
+- [Building a High-Availability Architecture with Free SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/building-a-high-availability-architecture-with-free-safeline-waf-2lhd)
+- [Top Online React Compiler Comparisons for Developers](https://dev.to/codeparrot/top-online-react-compiler-comparisons-for-developers-2d91)
+- [Font end website design](https://dev.to/akash_singh_575a0f4c1d01b/font-end-website-design-34e8)
+- [Day 2: Setting Up Your Development Environment](https://dev.to/haquedot/day-2-setting-up-your-development-environment-1l0e)
+- [Rust for typescript devs: Immutabilty](https://dev.to/rhl314/rust-for-typescript-devs-immutabilty-2d9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
