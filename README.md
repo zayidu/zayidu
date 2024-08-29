@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ Introducing Faviconify: Dynamic Favicon Generator for React Apps](https://dev.to/sivamani18/introducing-faviconify-dynamic-favicon-generator-for-react-apps-34ng)
-- [[Flutter] Efficient File Handling in Flutter: Beyond FilePicker](https://dev.to/alpenglow/flutter-efficient-file-handling-in-flutter-beyond-filepicker-2mdc)
-- [Polyfills - a filler or a gaping hole? &lpar;Part-2&rpar;](https://dev.to/purnez/polyfills-a-filler-or-a-gaping-hole-part-2-14b3)
-- [Zoom Meetings API Integration Guide](https://dev.to/hrushi_yadav/zoom-meetings-api-integration-guide-1gi8)
-- [[Flatiron SE] Day 1: 08/29/24](https://dev.to/mrdrfeesh/flatiron-se-day-1-082924-4geo)
+- [Item 49: Verifique a validade dos parâmetros](https://dev.to/giselecoder/item-49-verifique-a-validade-dos-parametros-dho)
+- [Day 1020 : In the Spot](https://dev.to/dwane/day-1020-in-the-spot-18k8)
+- [Antivírus Kaspersky bloqueia WSL&lpar;Windows subsystem Linux&rpar;](https://dev.to/daniellesiq/antivirus-kaspersky-bloqueia-wslwindows-subsystem-linux-2adk)
+- [🌤️ Stop Using Margin-Top: Use Margin-Bottom and Gap Instead](https://dev.to/safdarali/stop-using-margin-top-use-margin-bottom-and-gap-instead-27eh)
+- [Retrieval Augmented Generation with Azure SQL](https://dev.to/azure/retrieval-augmented-generation-with-azure-sql-63m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
