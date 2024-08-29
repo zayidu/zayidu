@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [lista](https://dev.to/gabriel_guiuber/lista-3jha)
-- [estrutura html](https://dev.to/gabriel_guiuber/estrutura-html-477p)
-- [The importance of making your &quot;Workspace&quot; folder on your root path😅](https://dev.to/mayas1111/the-importance-of-making-your-workspace-folder-on-your-root-path-18lo)
-- [Advanced Playwright Testing: Leveraging the Page Object Model &lpar;Part 2&rpar;](https://dev.to/samuel_kinuthia/advanced-playwright-testing-leveraging-the-page-object-model-part-2-5fn4)
-- [How to Automate Your Product Hunt Launch: Lessons from Helicone&#39;s Success](https://dev.to/lina_lam_9ee459f98b67e9d5/how-to-automate-your-product-hunt-launch-lessons-from-helicones-success-3meo)
+- [Today&#39;s Trending Projects: Average Salaries Per Department and More 🚀](https://dev.to/labex/todays-trending-projects-average-salaries-per-department-and-more-3lj1)
+- [Telelibre: A Practical Decentralized Messaging System](https://dev.to/ciphernom/telelibre-a-practical-decentralized-messaging-system-5b3n)
+- [A book about arrays](https://dev.to/m__mdy__m/a-book-about-arrays-37ap)
+- [Sites to practice SQL](https://dev.to/caresle/sites-to-practice-sql-15ej)
+- [Discover the Secrets of Effective Learning](https://dev.to/cristovoxdgm/discover-the-secrets-of-effective-learning-4d16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
