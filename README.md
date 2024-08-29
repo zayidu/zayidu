@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [FREE Tokyo Build Meetup on Sept. 9 from 16:00 - 19:00 JST](https://dev.to/shelbylee/free-tokyo-build-meetup-on-sept-9-from-1600-1900-jst-3jla)
+- [Enable IIS 6 Metabase and IIS Configuration Compatibility in Windows 11](https://dev.to/winsides/enable-iis-6-metabase-and-iis-configuration-compatibility-in-windows-11-4nbp)
+- [Using Existing GPG Key to Sign Git Commits](https://dev.to/codedir/using-existing-gpg-key-to-sign-git-commits-5181)
 - [Debugging Your Resume: Key Fixes Software Engineers are Making in 2024](https://dev.to/recruiter-emily/debugging-your-resume-key-fixes-software-engineers-are-making-in-2024-53g2)
 - [&quot;DevFest Prayagraj: A Day of Tech, Learning, and Community&quot;](https://dev.to/avadakedavara0/devfest-prayagraj-a-day-of-tech-learning-and-community-1fn9)
-- [Is CSP Actually Helping with Your Security? 🤔](https://dev.to/middleware/is-csp-actually-helping-with-your-security-4gbm)
-- [Golang: build or modify packages](https://dev.to/admond_tamang_d78c7ab13f1/golang-build-or-modify-packages-50gi)
-- [Mastering AWS Key Management Service &lpar;KMS&rpar; for Robust Data Security](https://dev.to/ikoh_sylva/mastering-aws-key-management-service-kms-for-robust-data-security-3j14)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
