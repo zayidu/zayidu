@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CAP Theorem](https://dev.to/sonu_sharma/cap-theorem-11kp)
-- [Absolutely Best Free Tools for Web Developers](https://dev.to/angelaswift/absolutely-best-free-tools-for-web-developers-4hm4)
-- [Supercharge Your Frontend Skills: 8 Must-Have Tools for Developers in 2024 🚀](https://dev.to/gadekar_sachin/supercharge-your-frontend-skills-8-must-have-tools-for-developers-in-2024-2jpd)
-- [First Impressions of SafeLine: The Most Starred Open-Source WAF on GitHub](https://dev.to/lulu_liu_c90f973e2f954d7f/first-impressions-of-safeline-the-most-starred-open-source-waf-on-github-34b6)
-- [GBase 8c Distributed Cluster TPC-C Performance Tuning Practical Guide](https://dev.to/congcong/gbase-8c-distributed-cluster-tpc-c-performance-tuning-practical-guide-4moj)
+- [Understanding Higher-Order Components in React: Pros, Cons, and Modern Alternatives](https://dev.to/ayako_yk/understanding-higher-order-components-in-react-pros-cons-and-modern-alternatives-2jci)
+- [How to Host an Angular Project on GitHub Pages](https://dev.to/chetan_void/how-to-host-an-angular-project-on-github-pages-1dmo)
+- [Generative AI](https://dev.to/generativeaimasters/generative-ai-lgf)
+- [Enhance Node.js Server Performance with Worker Threads](https://dev.to/saqib29/enhance-nodejs-server-performance-with-worker-threads-igh)
+- [jsDoc npm module quest](https://dev.to/pengeszikra/jsdoc-npm-module-quest-2f7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
