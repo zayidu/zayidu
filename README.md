@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Today&#39;s Trending Projects: Average Salaries Per Department and More 🚀](https://dev.to/labex/todays-trending-projects-average-salaries-per-department-and-more-3lj1)
-- [Telelibre: A Practical Decentralized Messaging System](https://dev.to/ciphernom/telelibre-a-practical-decentralized-messaging-system-5b3n)
-- [A book about arrays](https://dev.to/m__mdy__m/a-book-about-arrays-37ap)
-- [Sites to practice SQL](https://dev.to/caresle/sites-to-practice-sql-15ej)
-- [Discover the Secrets of Effective Learning](https://dev.to/cristovoxdgm/discover-the-secrets-of-effective-learning-4d16)
+- [How I Hacked a Company Recruitment Test The Unexpected Tech Adventure of My College Life](https://dev.to/programmerraja/how-i-hacked-a-company-recruitment-test-the-unexpected-tech-adventure-of-my-college-life-4plb)
+- [#54 - Combine Cell Values of Every 3 Rows under Each Column into One Cell](https://dev.to/judith677/54-combine-cell-values-of-every-3-rows-under-each-column-into-one-cell-1ode)
+- [Introduction to Comparison Functions and Operators in GBase 8a MPP Cluster](https://dev.to/congcong/introduction-to-comparison-functions-and-operators-in-gbase-8a-mpp-cluster-37fn)
+- [Why We Built CheatSheet++: Streamlining the Developer’s Journey](https://dev.to/twistor/why-we-built-cheatsheet-streamlining-the-developers-journey-ojo)
+- [How to create a fullstack application using Django and Python Part 5](https://dev.to/letsbsocial1/how-to-create-a-fullstack-application-using-django-and-python-part-5-2m18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
