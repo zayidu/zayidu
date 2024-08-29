@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Your API ACTUALLY Ready for User Traffic?](https://dev.to/tkssharma/is-your-api-actually-ready-for-user-traffic-16d2)
-- [Robotic Process Automation &lpar;RPA&rpar; Testing: Strategies for Effective Automation Testing](https://dev.to/salman_butt/robotic-process-automation-rpa-testing-strategies-for-effective-automation-testing-4090)
-- [Single and Multi-Threaded Programming with Concurrency and Parallelism - Explain The Differences and Concepts](https://dev.to/a_greynoon/single-and-multi-threaded-programming-with-concurrency-and-parallelism-explain-the-differences-and-concepts-3eec)
-- [Is AI the Future of Code Editing? Let&#39;s Talk Cursor AI!](https://dev.to/sarthaksavvy/is-ai-the-future-of-code-editing-lets-talk-cursor-ai-4anp)
-- [API Gateway](https://dev.to/rakeshreddy512/api-gateway-38co)
+- [When &lpar;not&rpar; to write an Apache APISIX plugin](https://dev.to/apisix/when-not-to-write-an-apache-apisix-plugin-4fpo)
+- [Secure Your Website with SafeLine-Configuring on a Standalone Server](https://dev.to/lulu_liu_c90f973e2f954d7f/secure-your-website-with-safeline-configuring-on-a-standalone-server-3bll)
+- [How to Develop a Voice Chatbot](https://dev.to/ngocninh123/how-to-develop-a-voice-chatbot-4b9j)
+- [Boost Your Mobile App Performance: 4 Testing Best Practices](https://dev.to/jennife05918349/boost-your-mobile-app-performance-10-testing-best-practices-1ado)
+- [Keap: The All-in-One CRM and Marketing Automation Tool for Small Business Growth](https://dev.to/stan8086/keap-the-all-in-one-crm-and-marketing-automation-tool-for-small-business-growth-1hon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
