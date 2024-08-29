@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When &lpar;not&rpar; to write an Apache APISIX plugin](https://dev.to/apisix/when-not-to-write-an-apache-apisix-plugin-4fpo)
-- [Secure Your Website with SafeLine-Configuring on a Standalone Server](https://dev.to/lulu_liu_c90f973e2f954d7f/secure-your-website-with-safeline-configuring-on-a-standalone-server-3bll)
-- [How to Develop a Voice Chatbot](https://dev.to/ngocninh123/how-to-develop-a-voice-chatbot-4b9j)
-- [Boost Your Mobile App Performance: 4 Testing Best Practices](https://dev.to/jennife05918349/boost-your-mobile-app-performance-10-testing-best-practices-1ado)
-- [Keap: The All-in-One CRM and Marketing Automation Tool for Small Business Growth](https://dev.to/stan8086/keap-the-all-in-one-crm-and-marketing-automation-tool-for-small-business-growth-1hon)
+- [Why Some Developers Prefer to Manually Configure PHP Environments Instead of Using Deployment Tools](https://dev.to/gitter4coding/why-some-developers-prefer-to-manually-configure-php-environments-instead-of-using-deployment-tools-2pco)
+- [AWS Trusted Advisor: Everything You Need to Know](https://dev.to/supportfly/aws-trusted-advisor-everything-you-need-to-know-364l)
+- [AI Apps for Your Startup](https://dev.to/quick_technologies_6a47a9/ai-apps-for-your-startup-1ap8)
+- [LLM Agents for Technical writing](https://dev.to/ragavi_document360/llm-agents-for-technical-writing-4le7)
+- [Resizing Partitions on Linux](https://dev.to/pgradot/resizing-partitions-on-linux-408o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
