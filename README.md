@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Secure WordPress Site with Docker, Nginx, and SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/building-a-secure-wordpress-site-with-docker-nginx-and-safeline-waf-31m6)
-- [Active Directory 101: Security, Integrations, and Best Practices](https://dev.to/neverinstall/active-directory-101-security-integrations-and-best-practices-2m1p)
-- [Build Modern Stack with Nextjs and NextAuth 5.x with Prisma](https://dev.to/inditechcoder/build-modern-stack-with-nextjs-and-nextauth-5x-with-prisma-7fi)
-- [Solving A Graph Problem: Part Two](https://dev.to/nurulmasih/solving-a-graph-problem-part-two-3a3h)
-- [How to use open source code safely without losing your software rights](https://dev.to/ispmanager/how-to-use-open-source-code-safely-without-losing-your-software-rights-3cgp)
+- [Supabase Python](https://dev.to/supabase/supabase-python-50j)
+- [Common Lisp with batteries included: CIEL v0.2 &lpar;aka fast scripting with useful libraries&rpar;](https://dev.to/vindarel/common-lisp-with-batteries-included-ciel-v02-aka-fast-scripting-with-useful-libraries-4do9)
+- [How to Download a Chef Cookbook from a Chef Server](https://dev.to/narashim_reddy/how-to-download-a-chef-cookbook-from-a-chef-server-24j9)
+- [DevOps Unleashed Navigating the Future of Continuous Integration and Delivery](https://dev.to/kubeha_18/devops-unleashed-navigating-the-future-of-continuous-integration-and-delivery-35pe)
+- [The Ultimate Guide to the free APIs: Access, Usage, and Integration](https://dev.to/hanzla-mirza/the-ultimate-guide-to-the-free-apis-access-usage-and-integration-1ef7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
