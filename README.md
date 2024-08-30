@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running a Cron Job in Django Using Celery and Docker](https://dev.to/engrmark/running-a-cron-job-in-django-using-celery-and-docker-238d)
-- [Building a Pipeline-as-Code Infrastructure in Jenkins: A Learning Journey](https://dev.to/hamza_nasir_06a03aac148a4/building-a-pipeline-as-code-infrastructure-in-jenkins-a-learning-journey-3l0b)
-- [How to Quickly Distribute Report Files to Each Recipient Individually](https://dev.to/sqlman/how-to-quickly-distribute-report-files-to-each-recipient-individually-m36)
-- [Tech AI Fridays](https://dev.to/techdogs_inc/tech-ai-fridays-4i11)
-- [Build basic microservice online store backend with Golang use Api Gateway Pattern - Part 1](https://dev.to/agustrinaldokurniawan/build-basic-microservice-online-store-backend-with-golang-use-api-gateway-pattern-1bf)
+- [transcripts](https://dev.to/cpit/gong-transcripts-52af)
+- [How web Works](https://dev.to/mahf001/how-web-works-3jpj)
+- [How To Pick A Domain Name That Doesn&#39;t Suck](https://dev.to/slimgee/how-to-pick-a-domain-name-that-doesnt-suck-2d9f)
+- [How to escalate a problem the wrong way; 4 steps to do it right](https://dev.to/openproject/how-to-escalate-a-problem-the-wrong-way-4-steps-to-do-it-right-55ha)
+- [Building a Smart Network Optimization Tool: From Speed Testing to AI-Driven Optimization 🚀](https://dev.to/mayowakalejaiye/building-a-smart-network-optimization-tool-from-speed-testing-to-ai-driven-optimization-5f7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
