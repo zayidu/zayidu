@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Micro-frontend](https://dev.to/i_m_ratan/introduction-to-micro-frontend-11ln)
-- [How to Open .MPP Files Without Hassle: Quick Guide With Example](https://dev.to/thomasy0ung/how-to-open-mpp-files-without-hassle-quick-guide-with-example-5c3n)
-- [How to Build a Simple Chatbot in Python Using OpenAI [Step-by-Step Guide]](https://dev.to/abhinowww/how-to-build-a-simple-chatbot-in-python-using-openai-step-by-step-guide-hfg)
-- [Debugging Your Productivity: A Guide to Mindfulness and Efficiency](https://dev.to/benborla/debugging-your-productivity-a-guide-to-mindfulness-and-efficiency-4le1)
-- [The $150 Million DAO Heist: The Hack That Split Ethereum in Two](https://dev.to/sanskar_singh_js/the-150-million-dao-heist-the-hack-that-split-ethereum-in-two-1879)
+- [Exploring SafeLine: Our Journey with an Open-Source WAF Solution for Enterprise Security](https://dev.to/lulu_liu_c90f973e2f954d7f/exploring-safeline-our-journey-with-an-open-source-waf-solution-for-enterprise-security-53ai)
+- [Wasp: The JavaScript Answer to Django for Web Development](https://dev.to/wasp/wasp-the-javascript-answer-to-django-for-web-development-199m)
+- [10 Best Websites for Free Vanilla CSS Templates](https://dev.to/devluc/10-best-websites-for-free-vanilla-css-templates-3bb9)
+- [A Deep Dive into Zontoken: What Sets It Apart in the Blockchain Space](https://dev.to/ainasanghi/a-deep-dive-into-zontoken-what-sets-it-apart-in-the-blockchain-space-5h3a)
+- [Bash one line to display git commit message without indentation](https://dev.to/lucianghinda/bash-one-line-to-display-git-commit-message-without-indentation-3d1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
