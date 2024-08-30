@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing The Pieces for Neovim Plugin! 🎉](https://dev.to/get_pieces/introducing-the-pieces-for-neovim-plugin-52ek)
-- [2699. Modify Graph Edge Weights](https://dev.to/mdarifulhaque/2699-modify-graph-edge-weights-p7j)
-- [Exploring Nesting with Flexbox](https://dev.to/divineisnotakid/exploring-nesting-with-flexbox-8ol)
-- [Mastering C++: Naming Standards for Variables](https://dev.to/eddiegulay/mastering-c-naming-standards-for-variables-272e)
-- [Android vs iOS](https://dev.to/chhajedji/android-vs-ios-1a4i)
+- [How to Quickly Disable Copilot in Windows 11?](https://dev.to/winsides/how-to-quickly-disable-copilot-in-windows-11-2m0c)
+- [LINQPad for everything&lpar;or at least a lot&rpar;](https://dev.to/constantdeveloper/linqpad-for-everythingor-at-least-a-lot-no1)
+- [Scalability: Explained](https://dev.to/sab93/scalability-explained-4hbd)
+- [Why Reading Official Documentation First Made Me a Better Developer](https://dev.to/this-is-learning/why-reading-official-documentation-first-made-me-a-better-developer-1aol)
+- [Open Source Starter Kit | Cheat Sheets](https://dev.to/emrekanbay/open-source-starter-kit-cheat-sheets-51kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
