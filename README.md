@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Secrets Manager announced an open source release of Secrets Manager Agent on Jul 11, 2024.](https://dev.to/karthiksakthiveltechie/aws-secrets-manager-announced-an-open-source-release-of-secrets-manager-agent-on-jul-11-2024-2dg)
-- [5 Best ReactJS Projects for Beginners in 2024 [Source Code Included]](https://dev.to/abdulbasit313/5-best-reactjs-projects-for-beginners-in-2024-source-code-included-ca9)
-- [AWS Code Build now supports using GitHub Apps to access source repositories](https://dev.to/karthiksakthiveltechie/aws-code-build-now-supports-using-github-apps-to-access-source-repositories-4290)
-- [Game Dev Digest — Issue #248 - Write Better Code, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-248-write-better-code-and-more-3bfj)
-- [Ensuring Disaster Recovery and High Availability in AWS EKS: Best Practices](https://dev.to/aws-builders/ensuring-disaster-recovery-and-high-availability-in-aws-eks-best-practices-4j7l)
+- [Running a Cron Job in Django Using Celery and Docker](https://dev.to/engrmark/running-a-cron-job-in-django-using-celery-and-docker-238d)
+- [Building a Pipeline-as-Code Infrastructure in Jenkins: A Learning Journey](https://dev.to/hamza_nasir_06a03aac148a4/building-a-pipeline-as-code-infrastructure-in-jenkins-a-learning-journey-3l0b)
+- [How to Quickly Distribute Report Files to Each Recipient Individually](https://dev.to/sqlman/how-to-quickly-distribute-report-files-to-each-recipient-individually-m36)
+- [Tech AI Fridays](https://dev.to/techdogs_inc/tech-ai-fridays-4i11)
+- [Build basic microservice online store backend with Golang use Api Gateway Pattern - Part 1](https://dev.to/agustrinaldokurniawan/build-basic-microservice-online-store-backend-with-golang-use-api-gateway-pattern-1bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
