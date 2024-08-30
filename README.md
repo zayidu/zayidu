@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [transcripts](https://dev.to/cpit/gong-transcripts-52af)
-- [How web Works](https://dev.to/mahf001/how-web-works-3jpj)
-- [How To Pick A Domain Name That Doesn&#39;t Suck](https://dev.to/slimgee/how-to-pick-a-domain-name-that-doesnt-suck-2d9f)
-- [How to escalate a problem the wrong way; 4 steps to do it right](https://dev.to/openproject/how-to-escalate-a-problem-the-wrong-way-4-steps-to-do-it-right-55ha)
-- [Building a Smart Network Optimization Tool: From Speed Testing to AI-Driven Optimization 🚀](https://dev.to/mayowakalejaiye/building-a-smart-network-optimization-tool-from-speed-testing-to-ai-driven-optimization-5f7o)
+- [Build a Snap Website](https://dev.to/abhishekgurjar/build-a-snap-website-1ke)
+- [Quntis Double Head LED Tall Desk Lamp Productivity Review](https://dev.to/andrewbaisden/quntis-double-head-led-tall-desk-lamp-productivity-review-122m)
+- [Generative AI-driven Chatbot for the Factory Plant](https://dev.to/fabio_beoni/generative-ai-driven-chatbot-for-the-factory-plant-21j6)
+- [Dynamic IDs in Angular Components](https://dev.to/marcel-goldammer/dynamic-ids-in-angular-components-1b6n)
+- [Microservices: Pub/Sub with Dapr, docker-compose, and .NET](https://dev.to/hungrywolf/microservices-pubsub-with-dapr-docker-compose-and-net-18nf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
