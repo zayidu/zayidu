@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Aprende a pelear tus batallas](https://dev.to/dennistobar/aprende-a-pelear-tus-batallas-2m6p)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4do6)
-- [VPCs, Subnets, Load Balancing, and Content Delivery Networks](https://dev.to/jinesh_vora_ab4d7886e6a8d/vpcs-subnets-load-balancing-and-content-delivery-networks-2aog)
-- [AWS OpsWorks Explained: Automate Your Cloud Infrastructure](https://dev.to/rose_rusell_8839af0b0bba5/aws-opsworks-explained-automate-your-cloud-infrastructure-41li)
-- [Javascript Code Snippets](https://dev.to/madgan95/javascript-code-snippets-56d3)
+- [AWS Secrets Manager announced an open source release of Secrets Manager Agent on Jul 11, 2024.](https://dev.to/karthiksakthiveltechie/aws-secrets-manager-announced-an-open-source-release-of-secrets-manager-agent-on-jul-11-2024-2dg)
+- [5 Best ReactJS Projects for Beginners in 2024 [Source Code Included]](https://dev.to/abdulbasit313/5-best-reactjs-projects-for-beginners-in-2024-source-code-included-ca9)
+- [AWS Code Build now supports using GitHub Apps to access source repositories](https://dev.to/karthiksakthiveltechie/aws-code-build-now-supports-using-github-apps-to-access-source-repositories-4290)
+- [Game Dev Digest — Issue #248 - Write Better Code, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-248-write-better-code-and-more-3bfj)
+- [Ensuring Disaster Recovery and High Availability in AWS EKS: Best Practices](https://dev.to/aws-builders/ensuring-disaster-recovery-and-high-availability-in-aws-eks-best-practices-4j7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
