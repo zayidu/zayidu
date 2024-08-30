@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Explore Wings Engine&#39;s dynamic rain and snow simulation technology](https://dev.to/samuel67/explore-wings-engines-dynamic-rain-and-snow-simulation-technology-3ka3)
-- [Resolving Race Conditions and Critical Sections in C#](https://dev.to/turalsuleymani/resolving-race-conditions-and-critical-sections-in-c-1f24)
-- [Day 6 - Useful Tools for Tailwind CSS 3](https://dev.to/ryoichihomma/day-6-useful-tools-for-tailwind-css-3-4lc9)
-- [5 most common mistakes when using TypeScript with React](https://dev.to/aroldev/5-most-common-mistakes-when-using-typescript-with-react-1ch0)
-- [&quot;Essential Bit Manipulation Techniques in C&quot;](https://dev.to/ayushtiic/essential-bit-manipulation-techniques-in-c-4jdc)
+- [Understanding Arrays: A Look Inside](https://dev.to/vlatushko/understanding-arrays-a-look-inside-4h9b)
+- [What Exactly is the Cloud and How Does it Work?](https://dev.to/faviafavia/what-exactly-is-the-cloud-and-how-does-it-work-33ej)
+- [TypedSQL in Prisma: Type-Safe SQL Made Simple](https://dev.to/fahimahammed/typedsql-in-prisma-type-safe-sql-made-simple-1n5e)
+- [Quality that a Software Engineer should have : CURIOUS.](https://dev.to/afsuyadi/quality-that-a-software-engineer-should-have-curious-4jh6)
+- [Modelling Testability for Startups](https://dev.to/ashleygraf_/modelling-testability-for-startups-4758)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
