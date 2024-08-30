@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with HTML: Your Step-by-Step Guide to Creating Your First Web Page](https://dev.to/roberto_celano/getting-started-with-html-your-step-by-step-guide-to-creating-your-first-web-page-391l)
-- [How to Deploy Segment Anything Model 2 &lpar;SAM 2&rpar; With Modelbit](https://dev.to/victor_isaac_king/how-to-deploy-segment-anything-model-2-sam-2-with-modelbit-47ni)
-- [Why simple and easy apps are not a future but a choice](https://dev.to/rodriveiga01/why-simple-and-easy-apps-are-not-a-future-but-a-choice-12gg)
-- [Go fiber scaffolding cli](https://dev.to/superninjax2/go-fiber-scaffolding-cli-3n3e)
-- [Item 50: Faça cópias defensivas quando necessário](https://dev.to/giselecoder/item-50-faca-copias-defensivas-quando-necessario-1b7k)
+- [Optimizing React Applications with Recoil](https://dev.to/kartikmehta8/optimizing-react-applications-with-recoil-98m)
+- [Tutorial Setup Localhost Mac &lpar;Apache2, MySQL 5.7, and PHP 8.1&rpar;](https://dev.to/dhimaskirana/tutorial-setup-localhost-mac-apache2-mysql-57-and-php-81-1h8p)
+- [🎧 Code Noise: The Ultimate Background Noise Generator for Programmers](https://dev.to/mlamina/code-noise-the-ultimate-background-noise-generator-for-programmers-3l0n)
+- [My first post - Hi, dev.to](https://dev.to/mlamina/my-first-post-hi-devto-1b3i)
+- [&quot;SyntaxError: Cannot use import statement outside a module&quot; error with createContext and useReducer](https://dev.to/cmcclister/syntaxerror-cannot-use-import-statement-outside-a-module-error-with-createcontext-and-usereducer-4nph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
