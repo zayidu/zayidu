@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Arrays: A Look Inside](https://dev.to/vlatushko/understanding-arrays-a-look-inside-4h9b)
-- [What Exactly is the Cloud and How Does it Work?](https://dev.to/faviafavia/what-exactly-is-the-cloud-and-how-does-it-work-33ej)
-- [TypedSQL in Prisma: Type-Safe SQL Made Simple](https://dev.to/fahimahammed/typedsql-in-prisma-type-safe-sql-made-simple-1n5e)
-- [Quality that a Software Engineer should have : CURIOUS.](https://dev.to/afsuyadi/quality-that-a-software-engineer-should-have-curious-4jh6)
-- [Modelling Testability for Startups](https://dev.to/ashleygraf_/modelling-testability-for-startups-4758)
+- [Building a Secure WordPress Site with Docker, Nginx, and SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/building-a-secure-wordpress-site-with-docker-nginx-and-safeline-waf-31m6)
+- [Active Directory 101: Security, Integrations, and Best Practices](https://dev.to/neverinstall/active-directory-101-security-integrations-and-best-practices-2m1p)
+- [Build Modern Stack with Nextjs and NextAuth 5.x with Prisma](https://dev.to/inditechcoder/build-modern-stack-with-nextjs-and-nextauth-5x-with-prisma-7fi)
+- [Solving A Graph Problem: Part Two](https://dev.to/nurulmasih/solving-a-graph-problem-part-two-3a3h)
+- [How to use open source code safely without losing your software rights](https://dev.to/ispmanager/how-to-use-open-source-code-safely-without-losing-your-software-rights-3cgp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
