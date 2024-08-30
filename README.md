@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Quickly Disable Copilot in Windows 11?](https://dev.to/winsides/how-to-quickly-disable-copilot-in-windows-11-2m0c)
-- [LINQPad for everything&lpar;or at least a lot&rpar;](https://dev.to/constantdeveloper/linqpad-for-everythingor-at-least-a-lot-no1)
-- [Scalability: Explained](https://dev.to/sab93/scalability-explained-4hbd)
-- [Why Reading Official Documentation First Made Me a Better Developer](https://dev.to/this-is-learning/why-reading-official-documentation-first-made-me-a-better-developer-1aol)
-- [Open Source Starter Kit | Cheat Sheets](https://dev.to/emrekanbay/open-source-starter-kit-cheat-sheets-51kh)
+- [A Practical Guide to Semantic Versioning: How and When to Update Your Versions](https://dev.to/brunosartori/a-practical-guide-to-semantic-versioning-how-and-when-to-update-your-versions-2c19)
+- [What Does a -2 Reaction Mean? Is It a Bug?](https://dev.to/luca1iu/what-does-a-2-reaction-mean-is-it-a-bug-29c6)
+- [Day 1021 : Won&#39;t End Well](https://dev.to/dwane/day-2021-wont-end-well-4iil)
+- [How to Highlight Your GitHub Repositories on LinkedIn](https://dev.to/brunosartori/how-to-highlight-your-github-repositories-on-linkedin-pg1)
+- [Linux Fundamentals &lpar;1&rpar;](https://dev.to/wedekaov/linux-fundamentals-1-42e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
