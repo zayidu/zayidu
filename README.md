@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Synchronous and Asynchronous Programming in Python: Key Concepts and Applications](https://dev.to/keshavadk/synchronous-and-asynchronous-programming-in-python-key-concepts-and-applications-28da)
-- [Build a Foodie Hamburger Website](https://dev.to/abhishekgurjar/build-a-foodie-hamburger-website-gkl)
-- [Recommended Project: Implement Thread Communication with Guava Monitor](https://dev.to/labex/recommended-project-implement-thread-communication-with-guava-monitor-3ng3)
-- [How to Enable Default Document Service IIS in Windows 11?](https://dev.to/winsides/how-to-enable-default-document-service-iis-in-windows-11-4b3g)
-- [A beginners&#39; guide to Software testing](https://dev.to/gayathribv/s-5951)
+- [Js | Operators |](https://dev.to/ranjith_jr_fbf2e375879b08/js-operators-3nkn)
+- [Importing Data from a Pre-95 Excel 2 Worksheet XLS file.](https://dev.to/gamesover/importing-data-from-a-pre-95-excel-2-worksheet-xls-file-56md)
+- [3 Ways to Leverage MongoDB Atlas for Data Transfer Cost Optimization](https://dev.to/mongodb/3-ways-to-leverage-mongodb-atlas-for-data-transfer-cost-optimization-22lh)
+- [Cold Storage: A Deep Dive into the Frozen Vaults of Data](https://dev.to/femolacaster/cold-storage-a-deep-dive-into-the-frozen-vaults-of-data-66k)
+- [Baby Steps Learning Laravel](https://dev.to/mohammed_kareem/baby-steps-learning-laravel-2bn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
