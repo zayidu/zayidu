@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring SafeLine: Our Journey with an Open-Source WAF Solution for Enterprise Security](https://dev.to/lulu_liu_c90f973e2f954d7f/exploring-safeline-our-journey-with-an-open-source-waf-solution-for-enterprise-security-53ai)
-- [Wasp: The JavaScript Answer to Django for Web Development](https://dev.to/wasp/wasp-the-javascript-answer-to-django-for-web-development-199m)
-- [10 Best Websites for Free Vanilla CSS Templates](https://dev.to/devluc/10-best-websites-for-free-vanilla-css-templates-3bb9)
-- [A Deep Dive into Zontoken: What Sets It Apart in the Blockchain Space](https://dev.to/ainasanghi/a-deep-dive-into-zontoken-what-sets-it-apart-in-the-blockchain-space-5h3a)
-- [Bash one line to display git commit message without indentation](https://dev.to/lucianghinda/bash-one-line-to-display-git-commit-message-without-indentation-3d1e)
+- [Explore Wings Engine&#39;s dynamic rain and snow simulation technology](https://dev.to/samuel67/explore-wings-engines-dynamic-rain-and-snow-simulation-technology-3ka3)
+- [Resolving Race Conditions and Critical Sections in C#](https://dev.to/turalsuleymani/resolving-race-conditions-and-critical-sections-in-c-1f24)
+- [Day 6 - Useful Tools for Tailwind CSS 3](https://dev.to/ryoichihomma/day-6-useful-tools-for-tailwind-css-3-4lc9)
+- [5 most common mistakes when using TypeScript with React](https://dev.to/aroldev/5-most-common-mistakes-when-using-typescript-with-react-1ch0)
+- [&quot;Essential Bit Manipulation Techniques in C&quot;](https://dev.to/ayushtiic/essential-bit-manipulation-techniques-in-c-4jdc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
