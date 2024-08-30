@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Line Graph in Matplotlib | Python Data Visualization Tutorial 📊](https://dev.to/dubeyrock/how-to-build-a-line-graph-in-matplotlib-python-data-visualization-tutorial-4114)
-- [From Static to Dynamic: Building a Responsive One-Page Website](https://dev.to/mibii/from-static-to-dynamic-building-a-responsive-one-page-website-2011)
-- [Writing tests are a bit painful but](https://dev.to/shinnthant_jr/writing-tests-are-a-bit-painful-but-1lp2)
-- [Attempt #15 - Continued the React Crash Course](https://dev.to/dilsemonk/attempt-15-continued-the-react-crash-course-55m8)
-- [Adding passkeys to a Supabase app without using third parties](https://dev.to/jcmosc/adding-passkeys-to-a-supabase-app-without-using-third-parties-2opg)
+- [Tutorial: Integrate Passkeys into Django &lpar;Python&rpar;](https://dev.to/corbado/tutorial-integrate-passkeys-into-django-python-4bip)
+- [Mastering GitHub Actions: Using Parameters and Manual Triggers in Workflows [2024]](https://dev.to/s3cloudhub/mastering-github-actions-using-parameters-and-manual-triggers-in-workflows-2024-35om)
+- [How to Create Your Own Text-to-Speech Chrome Extension](https://dev.to/hackyrupesh/how-to-create-your-own-text-to-speech-chrome-extension-2cci)
+- [Managing Kubernetes Resources Across Multiple Clusters](https://dev.to/devtron_inc/managing-kubernetes-resources-across-multiple-clusters-2jb9)
+- [Expo with Redux Toolkit, File System, and Redux Persist: A Comprehensive Guide](https://dev.to/varnitj178/expo-with-redux-toolkit-file-system-and-redux-persist-a-comprehensive-guide-4mlf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
