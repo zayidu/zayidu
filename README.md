@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Supabase Python](https://dev.to/supabase/supabase-python-50j)
-- [Common Lisp with batteries included: CIEL v0.2 &lpar;aka fast scripting with useful libraries&rpar;](https://dev.to/vindarel/common-lisp-with-batteries-included-ciel-v02-aka-fast-scripting-with-useful-libraries-4do9)
-- [How to Download a Chef Cookbook from a Chef Server](https://dev.to/narashim_reddy/how-to-download-a-chef-cookbook-from-a-chef-server-24j9)
-- [DevOps Unleashed Navigating the Future of Continuous Integration and Delivery](https://dev.to/kubeha_18/devops-unleashed-navigating-the-future-of-continuous-integration-and-delivery-35pe)
-- [The Ultimate Guide to the free APIs: Access, Usage, and Integration](https://dev.to/hanzla-mirza/the-ultimate-guide-to-the-free-apis-access-usage-and-integration-1ef7)
+- [Aprende a pelear tus batallas](https://dev.to/dennistobar/aprende-a-pelear-tus-batallas-2m6p)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4do6)
+- [VPCs, Subnets, Load Balancing, and Content Delivery Networks](https://dev.to/jinesh_vora_ab4d7886e6a8d/vpcs-subnets-load-balancing-and-content-delivery-networks-2aog)
+- [AWS OpsWorks Explained: Automate Your Cloud Infrastructure](https://dev.to/rose_rusell_8839af0b0bba5/aws-opsworks-explained-automate-your-cloud-infrastructure-41li)
+- [Javascript Code Snippets](https://dev.to/madgan95/javascript-code-snippets-56d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
