@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Snap Website](https://dev.to/abhishekgurjar/build-a-snap-website-1ke)
-- [Quntis Double Head LED Tall Desk Lamp Productivity Review](https://dev.to/andrewbaisden/quntis-double-head-led-tall-desk-lamp-productivity-review-122m)
-- [Generative AI-driven Chatbot for the Factory Plant](https://dev.to/fabio_beoni/generative-ai-driven-chatbot-for-the-factory-plant-21j6)
-- [Dynamic IDs in Angular Components](https://dev.to/marcel-goldammer/dynamic-ids-in-angular-components-1b6n)
-- [Microservices: Pub/Sub with Dapr, docker-compose, and .NET](https://dev.to/hungrywolf/microservices-pubsub-with-dapr-docker-compose-and-net-18nf)
+- [Synchronous and Asynchronous Programming in Python: Key Concepts and Applications](https://dev.to/keshavadk/synchronous-and-asynchronous-programming-in-python-key-concepts-and-applications-28da)
+- [Build a Foodie Hamburger Website](https://dev.to/abhishekgurjar/build-a-foodie-hamburger-website-gkl)
+- [Recommended Project: Implement Thread Communication with Guava Monitor](https://dev.to/labex/recommended-project-implement-thread-communication-with-guava-monitor-3ng3)
+- [How to Enable Default Document Service IIS in Windows 11?](https://dev.to/winsides/how-to-enable-default-document-service-iis-in-windows-11-4b3g)
+- [A beginners&#39; guide to Software testing](https://dev.to/gayathribv/s-5951)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
