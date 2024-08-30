@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Semantic Versioning: How and When to Update Your Versions](https://dev.to/brunosartori/a-practical-guide-to-semantic-versioning-how-and-when-to-update-your-versions-2c19)
-- [What Does a -2 Reaction Mean? Is It a Bug?](https://dev.to/luca1iu/what-does-a-2-reaction-mean-is-it-a-bug-29c6)
-- [Day 1021 : Won&#39;t End Well](https://dev.to/dwane/day-2021-wont-end-well-4iil)
-- [How to Highlight Your GitHub Repositories on LinkedIn](https://dev.to/brunosartori/how-to-highlight-your-github-repositories-on-linkedin-pg1)
-- [Linux Fundamentals &lpar;1&rpar;](https://dev.to/wedekaov/linux-fundamentals-1-42e5)
+- [Understanding Kubernetes Architecture: Exploring the Control Plane and Worker Nodes](https://dev.to/emminex/understanding-kubernetes-architecture-exploring-the-control-plane-and-worker-nodes-2n5d)
+- [Strategies for Horizontal and Vertical Scaling of Backend Services](https://dev.to/shieldstring/strategies-for-horizontal-and-vertical-scaling-of-backend-services-1m68)
+- [Embracing the Alté in Development: My Journey as an Alté Developer](https://dev.to/braincodes/embracing-the-alte-in-development-my-journey-as-an-alte-developer-1ch9)
+- [Is AI failing? &lpar;Part 1&rpar;](https://dev.to/eddealmeidajr/is-ai-failing-part-1-3418)
+- [Connect Microsoft Outlook Calendar to Django Application](https://dev.to/karanjot_s/connect-microsoft-outlook-calendar-to-django-application-561p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
