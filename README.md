@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing React Applications with Recoil](https://dev.to/kartikmehta8/optimizing-react-applications-with-recoil-98m)
-- [Tutorial Setup Localhost Mac &lpar;Apache2, MySQL 5.7, and PHP 8.1&rpar;](https://dev.to/dhimaskirana/tutorial-setup-localhost-mac-apache2-mysql-57-and-php-81-1h8p)
-- [🎧 Code Noise: The Ultimate Background Noise Generator for Programmers](https://dev.to/mlamina/code-noise-the-ultimate-background-noise-generator-for-programmers-3l0n)
-- [My first post - Hi, dev.to](https://dev.to/mlamina/my-first-post-hi-devto-1b3i)
-- [&quot;SyntaxError: Cannot use import statement outside a module&quot; error with createContext and useReducer](https://dev.to/cmcclister/syntaxerror-cannot-use-import-statement-outside-a-module-error-with-createcontext-and-usereducer-4nph)
+- [Basic Commands in Linux](https://dev.to/adesikemi_onifade_3c339af/basic-commands-in-linux-ja6)
+- [Understanding Ether Transfers in Solidity: send, transfer, and call](https://dev.to/tchisom17/understanding-ether-transfers-in-solidity-send-transfer-and-call-3k67)
+- [My Honest Review of Harvard’s CS50x: Tips, Guidelines &amp; Free Certificate](https://dev.to/adnansaim/my-honest-review-of-harvards-cs50x-tips-guidelines-free-certificate-32bk)
+- [My Second Year as a Developer Advocate: A Journey Through Different Conferences](https://dev.to/c_yatteau/my-second-year-as-a-developer-advocate-a-journey-through-different-conferences-dl5)
+- [Day 5 - Git Essential Training](https://dev.to/ryoichihomma/day-5-git-essential-training-4hcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
