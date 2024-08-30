@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic Commands in Linux](https://dev.to/adesikemi_onifade_3c339af/basic-commands-in-linux-ja6)
-- [Understanding Ether Transfers in Solidity: send, transfer, and call](https://dev.to/tchisom17/understanding-ether-transfers-in-solidity-send-transfer-and-call-3k67)
-- [My Honest Review of Harvard’s CS50x: Tips, Guidelines &amp; Free Certificate](https://dev.to/adnansaim/my-honest-review-of-harvards-cs50x-tips-guidelines-free-certificate-32bk)
-- [My Second Year as a Developer Advocate: A Journey Through Different Conferences](https://dev.to/c_yatteau/my-second-year-as-a-developer-advocate-a-journey-through-different-conferences-dl5)
-- [Day 5 - Git Essential Training](https://dev.to/ryoichihomma/day-5-git-essential-training-4hcp)
+- [Understanding Abstraction and Remote Procedure Calls in Distributed Systems](https://dev.to/madhujamitra/understanding-abstraction-and-remote-procedure-calls-in-distributed-systems-239p)
+- [How to Work with Markdown Files: A Beginner&#39;s Guide to Creating README Files](https://dev.to/mahendra_singh_7500/how-to-work-with-markdown-files-a-beginners-guide-to-creating-readme-files-1dfa)
+- [The Ultimate Guide to StrawberryAI: Unlocking AI Excellence 🚀 🍓](https://dev.to/hanzla-mirza/the-ultimate-guide-to-strawberryai-unlocking-ai-excellence-3i6i)
+- [Effective Marketing Strategies for Startups](https://dev.to/juddiy/effective-marketing-strategies-for-startups-m9a)
+- [How Liveness Detection SDKs Enhance Security in Biometric Authentication](https://dev.to/faceplugin/how-liveness-detection-sdks-enhance-security-in-biometric-authentication-am9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
