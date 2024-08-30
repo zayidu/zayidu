@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial: Integrate Passkeys into Django &lpar;Python&rpar;](https://dev.to/corbado/tutorial-integrate-passkeys-into-django-python-4bip)
-- [Mastering GitHub Actions: Using Parameters and Manual Triggers in Workflows [2024]](https://dev.to/s3cloudhub/mastering-github-actions-using-parameters-and-manual-triggers-in-workflows-2024-35om)
-- [How to Create Your Own Text-to-Speech Chrome Extension](https://dev.to/hackyrupesh/how-to-create-your-own-text-to-speech-chrome-extension-2cci)
-- [Managing Kubernetes Resources Across Multiple Clusters](https://dev.to/devtron_inc/managing-kubernetes-resources-across-multiple-clusters-2jb9)
-- [Expo with Redux Toolkit, File System, and Redux Persist: A Comprehensive Guide](https://dev.to/varnitj178/expo-with-redux-toolkit-file-system-and-redux-persist-a-comprehensive-guide-4mlf)
+- [Introduction to Micro-frontend](https://dev.to/i_m_ratan/introduction-to-micro-frontend-11ln)
+- [How to Open .MPP Files Without Hassle: Quick Guide With Example](https://dev.to/thomasy0ung/how-to-open-mpp-files-without-hassle-quick-guide-with-example-5c3n)
+- [How to Build a Simple Chatbot in Python Using OpenAI [Step-by-Step Guide]](https://dev.to/abhinowww/how-to-build-a-simple-chatbot-in-python-using-openai-step-by-step-guide-hfg)
+- [Debugging Your Productivity: A Guide to Mindfulness and Efficiency](https://dev.to/benborla/debugging-your-productivity-a-guide-to-mindfulness-and-efficiency-4le1)
+- [The $150 Million DAO Heist: The Hack That Split Ethereum in Two](https://dev.to/sanskar_singh_js/the-150-million-dao-heist-the-hack-that-split-ethereum-in-two-1879)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
