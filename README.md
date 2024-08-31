@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Migration from OnPrem to AWS RDS](https://dev.to/prakash_rao/database-migration-from-onprem-to-aws-rds-5h01)
-- [Explore Ethereal Flow: Adventure-Puzzle Game Demo in Unity!](https://dev.to/rishi_nalem/explore-ethereal-flow-adventure-puzzle-game-demo-in-unity-4nlo)
-- [C# Tip: Out Variables](https://dev.to/juarezasjunior/c-tip-out-variables-2jjb)
-- [Dica C#: Out Variables](https://dev.to/juarezasjunior/dica-c-out-variables-5079)
-- [My Awesome Journey in the #30DayTFChallenge by HUG Yaounde](https://dev.to/pat6339/my-awesome-journey-in-the-30daytfchallenge-by-hug-yaounde-1pm6)
+- [Mikroservis Mimarisinde genelde olabilecek servisler&lpar;Yorumlara açık.&rpar;](https://dev.to/mustafacam/mikroservis-mimarisinde-genelde-olmasi-gereken-servisler-1ae7)
+- [CQRS: The Design Pattern That’s Changing the Game &lpar;and How You Can Use It Too&rpar;](https://dev.to/manish-1614/cqrs-the-design-pattern-thats-changing-the-game-and-how-you-can-use-it-too-jp8)
+- [Mastering Django: How to Render HTML Like a Pro!](https://dev.to/oviyan007/mastering-django-how-to-render-html-like-a-pro-854)
+- [Secure Your Coding: Create an SSH Key on Mac or Windows](https://dev.to/lovelacecoding/secure-your-coding-create-an-ssh-key-on-mac-or-windows-pdd)
+- [Replicação Cross-Region: Garantindo Disponibilidade e Resiliência de Dados](https://dev.to/edgar_jose_412cdf41fb30a0/replicacao-cross-region-garantindo-disponibilidade-e-resiliencia-4b68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
