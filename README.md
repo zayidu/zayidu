@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Kubernetes Architecture: Exploring the Control Plane and Worker Nodes](https://dev.to/emminex/understanding-kubernetes-architecture-exploring-the-control-plane-and-worker-nodes-2n5d)
-- [Strategies for Horizontal and Vertical Scaling of Backend Services](https://dev.to/shieldstring/strategies-for-horizontal-and-vertical-scaling-of-backend-services-1m68)
-- [Embracing the Alté in Development: My Journey as an Alté Developer](https://dev.to/braincodes/embracing-the-alte-in-development-my-journey-as-an-alte-developer-1ch9)
-- [Is AI failing? &lpar;Part 1&rpar;](https://dev.to/eddealmeidajr/is-ai-failing-part-1-3418)
-- [Connect Microsoft Outlook Calendar to Django Application](https://dev.to/karanjot_s/connect-microsoft-outlook-calendar-to-django-application-561p)
+- [[Flatiron SE] Day 3: 08/30/24](https://dev.to/mrdrfeesh/flatiron-se-day-3-083024-2nn2)
+- [How to Share Data Between Components in Angular Without a Parent-Child Relationship](https://dev.to/nazislam/how-to-share-data-between-components-in-angular-without-a-parent-child-relationship-46fm)
+- [ERC 20 TOKEN INTRO:Basics and Keypoints](https://dev.to/chukwuebuka_okeke_1451b54/erc-20-token-introbasics-and-keypoints-2fh6)
+- [Estratégias para escrever código com maior testabilidade - uma análise imperativa](https://dev.to/felipeleao18/estrategias-para-escrever-codigo-com-maior-testabilidade-uma-analise-imperativa-59ol)
+- [Understanding Engagement Models in Software Development](https://dev.to/tl23143/understanding-engagement-models-in-software-development-279k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
