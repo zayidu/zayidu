@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Buy verified BYBIT account](https://dev.to/tumdgjzcindyga/buy-verified-bybit-account-246c)
-- [Why I got a Master&#39;s Degree for AI / ML](https://dev.to/integerman/why-i-got-a-masters-degree-for-ai-ml-3j)
-- [The persistent threat: Why major vulnerabilities like Log4Shell and Spring4Shell remain significant](https://dev.to/snyk/the-persistent-threat-why-major-vulnerabilities-like-log4shell-and-spring4shell-remain-significant-1b3n)
-- [Managing Streaming Data with Min and Max Heaps in JavaScript: A Digital Athlete Health Tech Perspective](https://dev.to/adg29/managing-streaming-data-with-min-and-max-heaps-in-javascript-a-digital-athlete-health-tech-perspective-3d7g)
-- [Introdução às classes aninhadas e internas](https://dev.to/devsjavagirls/introducao-as-classes-aninhadas-e-internas-2on6)
+- [Semantic Versioning with GitVersion &lpar;GitFlow&rpar;](https://dev.to/raulnq/semantic-versioning-with-gitversion-gitflow-1gb4)
+- [&quot;Insect Particlizer&quot; an Experiment of combining Pixel Manipulation with CSS.](https://dev.to/alishata128/insect-particlizer-an-experiment-of-combining-pixel-manipulation-with-css-1m49)
+- [Cartoon Character in a Login Form !](https://dev.to/alishata128/cartoon-character-in-a-login-form--46ol)
+- [Hoppscotch v2024.8.0: AWS Signature, Workspace Management APIs, and more..](https://dev.to/hoppscotch/hoppscotch-v202480-aws-signature-workspace-management-apis-and-more-3o3k)
+- [Engaging and Retaining Community Members](https://dev.to/swati1267/engaging-and-retaining-community-members-25c7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
