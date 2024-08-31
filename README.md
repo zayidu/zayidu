@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Applying the Open/Closed Principle in TypeScript: A Concise Overview](https://dev.to/manas_pant/applying-the-openclosed-principle-in-typescript-a-concise-overview-1ce1)
-- [My First KubeCon Experience: KubeCon 2024 Hong Kong](https://dev.to/ghoshanjega/my-first-kubecon-experience-kubecon-2024-hong-kong-2o1l)
-- [Bug Bounties](https://dev.to/marcusnickp/bug-bounties-3jpc)
-- [Mastering UI/UX Game Design: A Comprehensive Guide](https://dev.to/uicraft_by_pratik/mastering-uiux-game-design-a-comprehensive-guide-be8)
-- [The Ins and Outs of the Kubeconfig File in Kubernetes: A Complete Breakdown](https://dev.to/imransaifi/the-ins-and-outs-of-the-kubeconfig-file-in-kubernetes-a-complete-breakdown-56f4)
+- [Pet Translator Apps: Can We Really Talk to Our Pets?](https://dev.to/elisaray/pet-translator-apps-can-we-really-talk-to-our-pets-2hbo)
+- [Setting up typed environment variables in your next project](https://dev.to/codewithonye/setting-up-typed-environment-variables-in-your-next-project-4bmc)
+- [Why HTML is Not a Programming Language](https://dev.to/agunwachidiebelecalistus/why-html-is-not-a-programming-language-26g1)
+- [A simple step by step guide to setup Eslint automation on your next big project](https://dev.to/codewithonye/a-simple-step-by-step-guide-to-setup-eslint-automation-on-your-next-big-project-lmb)
+- [Setup your own Standalone/Local Stellar Blockchain to test different Smart Contracts &amp; dApps](https://dev.to/riojos/setup-your-own-standalonelocal-stellar-blockchain-to-test-different-smart-contracts-dapps-3dhh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
