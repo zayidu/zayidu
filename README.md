@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Versioning with GitVersion &lpar;GitFlow&rpar;](https://dev.to/raulnq/semantic-versioning-with-gitversion-gitflow-1gb4)
-- [&quot;Insect Particlizer&quot; an Experiment of combining Pixel Manipulation with CSS.](https://dev.to/alishata128/insect-particlizer-an-experiment-of-combining-pixel-manipulation-with-css-1m49)
-- [Cartoon Character in a Login Form !](https://dev.to/alishata128/cartoon-character-in-a-login-form--46ol)
-- [Hoppscotch v2024.8.0: AWS Signature, Workspace Management APIs, and more..](https://dev.to/hoppscotch/hoppscotch-v202480-aws-signature-workspace-management-apis-and-more-3o3k)
-- [Engaging and Retaining Community Members](https://dev.to/swati1267/engaging-and-retaining-community-members-25c7)
+- [Creating Middlewares in FastAPI: A Step-by-Step Guide](https://dev.to/aakashkhanna/creating-middlewares-in-fastapi-a-step-by-step-guide-1b4m)
+- [How to Integrate Passkeys in Python &lpar;FastAPI&rpar;](https://dev.to/corbado/how-to-integrate-passkeys-in-python-fastapi-4oo6)
+- [Type Casting Par-06](https://dev.to/monirulislam027/type-casting-par-06-6ho)
+- [What is Cloudflare? An Overview of the Web Performance and Security Company](https://dev.to/devops_den/what-is-cloudflare-an-overview-of-the-web-performance-and-security-company-180c)
+- [Resolve Lambda URL Error - signature not match when using POST/PUT](https://dev.to/vng_bach/resolve-lambda-url-error-signature-not-match-when-using-postput-44jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
