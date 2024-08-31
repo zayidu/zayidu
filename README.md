@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Array Methods, String Methods, &amp; Math.random&lpar;&rpar;](https://dev.to/michaelflore/javascript-array-methods-string-methods-mathrandom-5hmm)
-- [QA Tester, QA Engineer, QA Automation Engineer, and SDET. What’s the difference?](https://dev.to/johnnyv5g/qa-tester-qa-engineer-qa-automation-engineer-and-sdet-whats-the-difference-17nb)
-- [I built a Free Badge Generator for Everyone](https://dev.to/realvorl/i-built-a-free-badge-generator-for-everyone-42k5)
-- [I built a Free Badge Generator for Everyone](https://dev.to/realvorl/i-built-a-free-badge-generator-for-everyone-2bnp)
-- [5 Essential Tips for New Developers: Boost Your Coding Journey](https://dev.to/shivharigadekar/5-essential-tips-for-new-developers-boost-your-coding-journey-17ep)
+- [Borrowing and References in Rust Explained](https://dev.to/cudilala/borrowing-and-references-in-rust-explained-45m8)
+- [Installing AWS CloudWatch Agent on On-Premises Servers Using SSM](https://dev.to/petereskandar/installing-aws-cloudwatch-agent-on-on-premises-servers-using-ssm-3cjn)
+- [Merge and bundle open api yaml files for swagger](https://dev.to/mehdifaraji/merge-and-bundle-open-api-yaml-files-for-swagger-f5c)
+- [Fix for EPERM: operation not permitted &lpar;...$types.d.ts&rpar;](https://dev.to/digitaldrreamer/fix-for-eperm-operation-not-permitted-typesdts-1k6m)
+- [Let&#39;s GO!](https://dev.to/caffeineordeath/lets-go-4555)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
