@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS AI Practitioner Exam: My Experience, Study Plan, and Resources](https://dev.to/devopsadventurer/aws-ai-practitioner-exam-my-experience-study-plan-and-resources-3p51)
-- [A Beginner’s Guide to Using Cloud-Nuke: Using Cloud-Nuke for Safe and Controlled Cleanup](https://dev.to/onifade_julius_aad5edb783/a-beginners-guide-to-using-cloud-nuke-using-cloud-nuke-for-safe-and-controlled-cleanup-3c04)
-- [The Power of Well-Structured Logs in Software Development](https://dev.to/bgdnvarlamov/the-power-of-well-structured-logs-in-software-development-3o9h)
-- [The LLAMA run](https://dev.to/mayuri2103/the-llama-run-45n4)
-- [C# .NET Exception Handling: Why You Should Avoid Using throw ex in Catch Blocks](https://dev.to/nilebits/c-net-exception-handling-why-you-should-avoid-using-throw-ex-in-catch-blocks-g1n)
+- [LLM Adoption Accelerates Innovation and Industry Development](https://dev.to/k_ilhame/llm-adoption-accelerates-innovation-and-industry-development-kp0)
+- [Regarding Beginner Challenges](https://dev.to/ripul_khurana/regarding-beginner-challenges-1bd8)
+- [Como separar a rede 2.4/5G híbrida da Vivo](https://dev.to/heymarkkop/como-separar-a-rede-245g-hibrida-da-vivo-1nb2)
+- [Cleaning up Obsolete Cloudflare Page Deployments](https://dev.to/maxim_radugin/cleaning-up-obsolete-cloudflare-page-deployments-3f7b)
+- [Deploying Hugo from Self-Hosted GitLab to Cloudflare Pages](https://dev.to/maxim_radugin/deploying-hugo-from-self-hosted-gitlab-to-cloudflare-pages-4nnc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
