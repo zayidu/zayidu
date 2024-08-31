@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Middlewares in FastAPI: A Step-by-Step Guide](https://dev.to/aakashkhanna/creating-middlewares-in-fastapi-a-step-by-step-guide-1b4m)
-- [How to Integrate Passkeys in Python &lpar;FastAPI&rpar;](https://dev.to/corbado/how-to-integrate-passkeys-in-python-fastapi-4oo6)
-- [Type Casting Par-06](https://dev.to/monirulislam027/type-casting-par-06-6ho)
-- [What is Cloudflare? An Overview of the Web Performance and Security Company](https://dev.to/devops_den/what-is-cloudflare-an-overview-of-the-web-performance-and-security-company-180c)
-- [Resolve Lambda URL Error - signature not match when using POST/PUT](https://dev.to/vng_bach/resolve-lambda-url-error-signature-not-match-when-using-postput-44jm)
+- [Applying the Open/Closed Principle in TypeScript: A Concise Overview](https://dev.to/manas_pant/applying-the-openclosed-principle-in-typescript-a-concise-overview-1ce1)
+- [My First KubeCon Experience: KubeCon 2024 Hong Kong](https://dev.to/ghoshanjega/my-first-kubecon-experience-kubecon-2024-hong-kong-2o1l)
+- [Bug Bounties](https://dev.to/marcusnickp/bug-bounties-3jpc)
+- [Mastering UI/UX Game Design: A Comprehensive Guide](https://dev.to/uicraft_by_pratik/mastering-uiux-game-design-a-comprehensive-guide-be8)
+- [The Ins and Outs of the Kubeconfig File in Kubernetes: A Complete Breakdown](https://dev.to/imransaifi/the-ins-and-outs-of-the-kubeconfig-file-in-kubernetes-a-complete-breakdown-56f4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
