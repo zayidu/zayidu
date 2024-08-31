@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Application Load Balancer](https://dev.to/clintt/application-load-balancer-27jh)
-- [Deploy Jenkins, JFrog, Grafana and Prometheus Applications in Kubernetes Cluster - Terraform](https://dev.to/binoy_59380e698d318/deploy-jenkins-frog-grafana-and-prometheus-applications-in-kubernetes-cluster-terraform-2ann)
-- [Benefits of Having a Maths Tutor for Your Child](https://dev.to/joycesemma/benefits-of-having-a-maths-tutor-for-your-child-5991)
-- [Colors and Backgrounds in CSS](https://dev.to/ridoy_hasan/colors-and-backgrounds-in-css-6gf)
-- [Email Buddy: An LLM-Enhanced Inbox](https://dev.to/logarithmicspirals/email-buddy-an-llm-enhanced-inbox-h7b)
+- [JavaScript Array Methods, String Methods, &amp; Math.random&lpar;&rpar;](https://dev.to/michaelflore/javascript-array-methods-string-methods-mathrandom-5hmm)
+- [QA Tester, QA Engineer, QA Automation Engineer, and SDET. What’s the difference?](https://dev.to/johnnyv5g/qa-tester-qa-engineer-qa-automation-engineer-and-sdet-whats-the-difference-17nb)
+- [I built a Free Badge Generator for Everyone](https://dev.to/realvorl/i-built-a-free-badge-generator-for-everyone-42k5)
+- [I built a Free Badge Generator for Everyone](https://dev.to/realvorl/i-built-a-free-badge-generator-for-everyone-2bnp)
+- [5 Essential Tips for New Developers: Boost Your Coding Journey](https://dev.to/shivharigadekar/5-essential-tips-for-new-developers-boost-your-coding-journey-17ep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
