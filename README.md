@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Flatiron SE] Day 3: 08/30/24](https://dev.to/mrdrfeesh/flatiron-se-day-3-083024-2nn2)
-- [How to Share Data Between Components in Angular Without a Parent-Child Relationship](https://dev.to/nazislam/how-to-share-data-between-components-in-angular-without-a-parent-child-relationship-46fm)
-- [ERC 20 TOKEN INTRO:Basics and Keypoints](https://dev.to/chukwuebuka_okeke_1451b54/erc-20-token-introbasics-and-keypoints-2fh6)
-- [Estratégias para escrever código com maior testabilidade - uma análise imperativa](https://dev.to/felipeleao18/estrategias-para-escrever-codigo-com-maior-testabilidade-uma-analise-imperativa-59ol)
-- [Understanding Engagement Models in Software Development](https://dev.to/tl23143/understanding-engagement-models-in-software-development-279k)
+- [Today&#39;s Trending Projects: Implement a Magnifying Glass Effect Using Canvas and More](https://dev.to/labex/todays-trending-projects-implement-a-magnifying-glass-effect-using-canvas-and-more-1287)
+- [Understanding the Differences Between send, transfer, and call in Solidity](https://dev.to/odutayo_adeyemo_235803490/understanding-the-differences-between-send-transfer-and-call-in-solidity-1aml)
+- [Tente Isto 6-3 A classificação rápida](https://dev.to/devsjavagirls/tente-isto-6-3-a-classificacao-rapida-3e8h)
+- [Blocos Estáticos](https://dev.to/devsjavagirls/blocos-estaticos-4kc1)
+- [Entendendo os membros estáticos](https://dev.to/devsjavagirls/entendendo-os-membros-estaticos-2c7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
