@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Adoption Accelerates Innovation and Industry Development](https://dev.to/k_ilhame/llm-adoption-accelerates-innovation-and-industry-development-kp0)
-- [Regarding Beginner Challenges](https://dev.to/ripul_khurana/regarding-beginner-challenges-1bd8)
-- [Como separar a rede 2.4/5G híbrida da Vivo](https://dev.to/heymarkkop/como-separar-a-rede-245g-hibrida-da-vivo-1nb2)
-- [Cleaning up Obsolete Cloudflare Page Deployments](https://dev.to/maxim_radugin/cleaning-up-obsolete-cloudflare-page-deployments-3f7b)
-- [Deploying Hugo from Self-Hosted GitLab to Cloudflare Pages](https://dev.to/maxim_radugin/deploying-hugo-from-self-hosted-gitlab-to-cloudflare-pages-4nnc)
+- [Mastering Laravel Password Reset Customization: A Comprehensive Guide](https://dev.to/alphaolomi/mastering-laravel-password-reset-customization-a-comprehensive-guide-24p3)
+- [Amazon SQS vs. Amazon SNS: Choosing the Right Tool for Your Use Case](https://dev.to/nislamov/amazon-sqs-vs-amazon-sns-choosing-the-right-tool-for-your-use-case-4enj)
+- [OLLAMA + LLAMA3 + RAG + Vector Database &lpar;Local, Open Source, Free&rpar;](https://dev.to/tspannhw/ollama-llama3-rag-vector-database-local-open-source-free-1fid)
+- [Singleton and Prototype Spring Bean Scopes: A Detailed Exploration](https://dev.to/isaactony/singleton-and-prototype-spring-bean-scopes-a-detailed-exploration-1gpl)
+- [I just want to show you my Github profile!](https://dev.to/talauer/i-just-want-to-show-you-my-github-profile-1jg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
