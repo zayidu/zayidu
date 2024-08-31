@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Desbloqueando o Potencial do AWS Bedrock: Entendendo a Personalização, Throughput e Precificação](https://dev.to/vitorcastellani/desbloqueando-o-potencial-do-aws-bedrock-entendendo-a-personalizacao-throughput-e-precificacao-4j1l)
-- [Dica C#: Record Types](https://dev.to/juarezasjunior/dica-c-record-types-41m6)
-- [Building Basic model for Understanding ML](https://dev.to/santoshpremi/building-basic-model-for-understanding-ml-17f4)
-- [Dica C#: Record Types usando With](https://dev.to/juarezasjunior/dica-c-record-types-usando-with-1h2k)
-- [Dica C#: Interpolated String Handlers](https://dev.to/juarezasjunior/dica-c-interpolated-string-handlers-b75)
+- [I have been in this community for a year, and I didn&#39;t even know. Anyone in berlin?](https://dev.to/max1234/i-have-been-in-this-community-for-a-year-and-i-didnt-even-know-eka)
+- [Leetcode: 258](https://dev.to/saifulire/leetcode-258-2ge0)
+- [IA com C# - Exemplo: Prever se um cliente será um bom ou mau pagador de um empréstimo](https://dev.to/juarezasjunior/ia-com-c-exemplo-prever-se-um-cliente-sera-um-bom-ou-mau-pagador-de-um-emprestimo-j25)
+- [Differences between Ethereum’s send/transfer/call functions](https://dev.to/110nard0/understanding-ethereums-sendtransfercall-functions-2f1m)
+- [Array Grouping In JavaScript &lpar;2024&rpar;](https://dev.to/ahmedturaj/array-grouping-in-javascript-2024-3o1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
