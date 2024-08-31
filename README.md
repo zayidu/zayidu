@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mikroservis Mimarisinde genelde olabilecek servisler&lpar;Yorumlara açık.&rpar;](https://dev.to/mustafacam/mikroservis-mimarisinde-genelde-olmasi-gereken-servisler-1ae7)
-- [CQRS: The Design Pattern That’s Changing the Game &lpar;and How You Can Use It Too&rpar;](https://dev.to/manish-1614/cqrs-the-design-pattern-thats-changing-the-game-and-how-you-can-use-it-too-jp8)
-- [Mastering Django: How to Render HTML Like a Pro!](https://dev.to/oviyan007/mastering-django-how-to-render-html-like-a-pro-854)
-- [Secure Your Coding: Create an SSH Key on Mac or Windows](https://dev.to/lovelacecoding/secure-your-coding-create-an-ssh-key-on-mac-or-windows-pdd)
-- [Replicação Cross-Region: Garantindo Disponibilidade e Resiliência de Dados](https://dev.to/edgar_jose_412cdf41fb30a0/replicacao-cross-region-garantindo-disponibilidade-e-resiliencia-4b68)
+- [AWS AI Practitioner Exam: My Experience, Study Plan, and Resources](https://dev.to/devopsadventurer/aws-ai-practitioner-exam-my-experience-study-plan-and-resources-3p51)
+- [A Beginner’s Guide to Using Cloud-Nuke: Using Cloud-Nuke for Safe and Controlled Cleanup](https://dev.to/onifade_julius_aad5edb783/a-beginners-guide-to-using-cloud-nuke-using-cloud-nuke-for-safe-and-controlled-cleanup-3c04)
+- [The Power of Well-Structured Logs in Software Development](https://dev.to/bgdnvarlamov/the-power-of-well-structured-logs-in-software-development-3o9h)
+- [The LLAMA run](https://dev.to/mayuri2103/the-llama-run-45n4)
+- [C# .NET Exception Handling: Why You Should Avoid Using throw ex in Catch Blocks](https://dev.to/nilebits/c-net-exception-handling-why-you-should-avoid-using-throw-ex-in-catch-blocks-g1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
