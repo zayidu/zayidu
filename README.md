@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Attempt #16 - Learnt about routing - Continued the React Crash Course](https://dev.to/dilsemonk/attempt-16-learnt-about-routing-continued-the-react-crash-course-4iin)
-- [Here&#39;s how you can stay relevant as a web developer in a competitive industry.](https://dev.to/visavadiyavrushik/heres-how-you-can-stay-relevant-as-a-web-developer-in-a-competitive-industry-2pl9)
-- [Golang Struct Field Scopes](https://dev.to/nerdherd/golang-struct-field-scopes-4l8k)
-- [AWS DevOps Project: Advanced Automated CI/CD Pipeline with Infrastructure as Code, Microservices, Service Mesh, and Monitoring](https://dev.to/prodevopsguytech/aws-devops-project-advanced-automated-cicd-pipeline-with-infrastructure-as-code-microservices-service-mesh-and-monitoring-3o13)
-- [Promise.finally&lpar;&rpar;: Your Secret Weapon for Smoother Promise](https://dev.to/elukuro/promisefinally-your-secret-weapon-for-smoother-promise-2djk)
+- [Dica C#: Pattern Matching Enhancements em Classes](https://dev.to/juarezasjunior/dica-c-pattern-matching-enhancements-em-classes-kp)
+- [Dica C#: Pattern Matching Enhancements](https://dev.to/juarezasjunior/dica-c-pattern-matching-enhancements-428p)
+- [The Future of Financial Compliance Supported by Blockchain](https://dev.to/rastislavcore/the-future-of-financial-compliance-supported-by-blockchain-3dao)
+- [Dica C#: Global Using Directives](https://dev.to/juarezasjunior/dica-c-global-using-directives-mko)
+- [Completed My Blogging Challenge](https://dev.to/vst/completed-my-blogging-challenge-33i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
