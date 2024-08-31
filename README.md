@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Buy verified BYBIT account](https://dev.to/tumdgjzcindyga/buy-verified-bybit-account-246c)
+- [Why I got a Master&#39;s Degree for AI / ML](https://dev.to/integerman/why-i-got-a-masters-degree-for-ai-ml-3j)
 - [The persistent threat: Why major vulnerabilities like Log4Shell and Spring4Shell remain significant](https://dev.to/snyk/the-persistent-threat-why-major-vulnerabilities-like-log4shell-and-spring4shell-remain-significant-1b3n)
 - [Managing Streaming Data with Min and Max Heaps in JavaScript: A Digital Athlete Health Tech Perspective](https://dev.to/adg29/managing-streaming-data-with-min-and-max-heaps-in-javascript-a-digital-athlete-health-tech-perspective-3d7g)
 - [Introdução às classes aninhadas e internas](https://dev.to/devsjavagirls/introducao-as-classes-aninhadas-e-internas-2on6)
-- [Today&#39;s Trending Projects: Implement a Magnifying Glass Effect Using Canvas and More](https://dev.to/labex/todays-trending-projects-implement-a-magnifying-glass-effect-using-canvas-and-more-1287)
-- [Understanding the Differences Between send, transfer, and call in Solidity](https://dev.to/odutayo_adeyemo_235803490/understanding-the-differences-between-send-transfer-and-call-in-solidity-1aml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
