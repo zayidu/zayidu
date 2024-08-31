@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dica C#: Pattern Matching Enhancements em Classes](https://dev.to/juarezasjunior/dica-c-pattern-matching-enhancements-em-classes-kp)
-- [Dica C#: Pattern Matching Enhancements](https://dev.to/juarezasjunior/dica-c-pattern-matching-enhancements-428p)
-- [The Future of Financial Compliance Supported by Blockchain](https://dev.to/rastislavcore/the-future-of-financial-compliance-supported-by-blockchain-3dao)
-- [Dica C#: Global Using Directives](https://dev.to/juarezasjunior/dica-c-global-using-directives-mko)
-- [Completed My Blogging Challenge](https://dev.to/vst/completed-my-blogging-challenge-33i8)
+- [Desbloqueando o Potencial do AWS Bedrock: Entendendo a Personalização, Throughput e Precificação](https://dev.to/vitorcastellani/desbloqueando-o-potencial-do-aws-bedrock-entendendo-a-personalizacao-throughput-e-precificacao-4j1l)
+- [Dica C#: Record Types](https://dev.to/juarezasjunior/dica-c-record-types-41m6)
+- [Building Basic model for Understanding ML](https://dev.to/santoshpremi/building-basic-model-for-understanding-ml-17f4)
+- [Dica C#: Record Types usando With](https://dev.to/juarezasjunior/dica-c-record-types-usando-with-1h2k)
+- [Dica C#: Interpolated String Handlers](https://dev.to/juarezasjunior/dica-c-interpolated-string-handlers-b75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
