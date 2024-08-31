@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pet Translator Apps: Can We Really Talk to Our Pets?](https://dev.to/elisaray/pet-translator-apps-can-we-really-talk-to-our-pets-2hbo)
-- [Setting up typed environment variables in your next project](https://dev.to/codewithonye/setting-up-typed-environment-variables-in-your-next-project-4bmc)
-- [Why HTML is Not a Programming Language](https://dev.to/agunwachidiebelecalistus/why-html-is-not-a-programming-language-26g1)
-- [A simple step by step guide to setup Eslint automation on your next big project](https://dev.to/codewithonye/a-simple-step-by-step-guide-to-setup-eslint-automation-on-your-next-big-project-lmb)
-- [Setup your own Standalone/Local Stellar Blockchain to test different Smart Contracts &amp; dApps](https://dev.to/riojos/setup-your-own-standalonelocal-stellar-blockchain-to-test-different-smart-contracts-dapps-3dhh)
+- [You Should Know This Before Writing Your First Line of Test in Software Testing](https://dev.to/homayunmmdy/you-should-know-this-before-writing-your-first-line-of-test-in-software-testing-19dd)
+- [Understanding Async JS](https://dev.to/mahf001/understanding-async-js-24hi)
+- [Node.js built-in alternative to nodemon](https://dev.to/fedyk/nodejs-built-in-alternative-to-nodemon-2bo2)
+- [14 Monitoring Tools for Full-Stack Developers](https://dev.to/incidenthub/14-monitoring-tools-for-full-stack-developers-4nkf)
+- [Obsidian: The All-in-One Knowledge Management Tool for Efficient Information Organization](https://dev.to/stan8086/obsidian-the-all-in-one-knowledge-management-tool-for-efficient-information-organization-1ep3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
