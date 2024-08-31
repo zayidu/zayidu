@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Laravel Password Reset Customization: A Comprehensive Guide](https://dev.to/alphaolomi/mastering-laravel-password-reset-customization-a-comprehensive-guide-24p3)
-- [Amazon SQS vs. Amazon SNS: Choosing the Right Tool for Your Use Case](https://dev.to/nislamov/amazon-sqs-vs-amazon-sns-choosing-the-right-tool-for-your-use-case-4enj)
-- [OLLAMA + LLAMA3 + RAG + Vector Database &lpar;Local, Open Source, Free&rpar;](https://dev.to/tspannhw/ollama-llama3-rag-vector-database-local-open-source-free-1fid)
-- [Singleton and Prototype Spring Bean Scopes: A Detailed Exploration](https://dev.to/isaactony/singleton-and-prototype-spring-bean-scopes-a-detailed-exploration-1gpl)
-- [I just want to show you my Github profile!](https://dev.to/talauer/i-just-want-to-show-you-my-github-profile-1jg7)
+- [Application Load Balancer](https://dev.to/clintt/application-load-balancer-27jh)
+- [Deploy Jenkins, JFrog, Grafana and Prometheus Applications in Kubernetes Cluster - Terraform](https://dev.to/binoy_59380e698d318/deploy-jenkins-frog-grafana-and-prometheus-applications-in-kubernetes-cluster-terraform-2ann)
+- [Benefits of Having a Maths Tutor for Your Child](https://dev.to/joycesemma/benefits-of-having-a-maths-tutor-for-your-child-5991)
+- [Colors and Backgrounds in CSS](https://dev.to/ridoy_hasan/colors-and-backgrounds-in-css-6gf)
+- [Email Buddy: An LLM-Enhanced Inbox](https://dev.to/logarithmicspirals/email-buddy-an-llm-enhanced-inbox-h7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
