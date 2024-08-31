@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You Should Know This Before Writing Your First Line of Test in Software Testing](https://dev.to/homayunmmdy/you-should-know-this-before-writing-your-first-line-of-test-in-software-testing-19dd)
-- [Understanding Async JS](https://dev.to/mahf001/understanding-async-js-24hi)
-- [Node.js built-in alternative to nodemon](https://dev.to/fedyk/nodejs-built-in-alternative-to-nodemon-2bo2)
-- [14 Monitoring Tools for Full-Stack Developers](https://dev.to/incidenthub/14-monitoring-tools-for-full-stack-developers-4nkf)
-- [Obsidian: The All-in-One Knowledge Management Tool for Efficient Information Organization](https://dev.to/stan8086/obsidian-the-all-in-one-knowledge-management-tool-for-efficient-information-organization-1ep3)
+- [Full Stack Auth Implementation using Next js and Neon DB for Neon Challenge](https://dev.to/sam_shalemrajtara_8bda2/full-stack-auth-implementation-using-next-js-and-neon-db-for-neon-challenge-22a7)
+- [Js | Type Conversion &amp; Type Coercion |](https://dev.to/ranjith_jr_fbf2e375879b08/js-type-conversion-type-coercion--303g)
+- [OAuth 2.0 Authentication in Spring Boot: A Guide to Integrating Google and GitHub Login](https://dev.to/ayushstwt/oauth-20-authentication-in-spring-boot-a-guide-to-integrating-google-and-github-login-2hga)
+- [Saba Framework: Mempermudah Pekerjaan Frontend dan Backend Developer](https://dev.to/amry_maftuh/saba-framework-mempermudah-pekerjaan-frontend-dan-backend-developer-5e7k)
+- [How many arcade games should I develop in one app?](https://dev.to/nadim_ch0wdhury/how-many-arcade-games-should-i-develop-in-one-app-170b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
