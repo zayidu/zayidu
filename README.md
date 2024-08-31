@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubetools Day 3.0: Call for Participation](https://dev.to/ajeetraina/kubetools-day-30-call-for-participation-432m)
-- [Flexbox 101: A Beginner&#39;s Guide to Flexible Layouts](https://dev.to/gdebojyoti/flexbox-101-a-beginners-guide-to-flexible-layouts-4j5a)
-- [Js | Strict Mode |](https://dev.to/ranjith_jr_fbf2e375879b08/js-strict-mode--5fo0)
-- [Ensuring Data Integrity in Multi-User Environments](https://dev.to/dkmen/ensuring-data-integrity-in-multi-user-environments-21g8)
-- [Introducing Awesome J2ME: An Awesome List About Everything Related to J2ME](https://dev.to/hstsethi/introducing-awesome-j2me-an-awesome-list-about-everything-related-to-j2me-49f0)
+- [Attempt #16 - Learnt about routing - Continued the React Crash Course](https://dev.to/dilsemonk/attempt-16-learnt-about-routing-continued-the-react-crash-course-4iin)
+- [Here&#39;s how you can stay relevant as a web developer in a competitive industry.](https://dev.to/visavadiyavrushik/heres-how-you-can-stay-relevant-as-a-web-developer-in-a-competitive-industry-2pl9)
+- [Golang Struct Field Scopes](https://dev.to/nerdherd/golang-struct-field-scopes-4l8k)
+- [AWS DevOps Project: Advanced Automated CI/CD Pipeline with Infrastructure as Code, Microservices, Service Mesh, and Monitoring](https://dev.to/prodevopsguytech/aws-devops-project-advanced-automated-cicd-pipeline-with-infrastructure-as-code-microservices-service-mesh-and-monitoring-3o13)
+- [Promise.finally&lpar;&rpar;: Your Secret Weapon for Smoother Promise](https://dev.to/elukuro/promisefinally-your-secret-weapon-for-smoother-promise-2djk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
