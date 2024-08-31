@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I have been in this community for a year, and I didn&#39;t even know. Anyone in berlin?](https://dev.to/max1234/i-have-been-in-this-community-for-a-year-and-i-didnt-even-know-eka)
-- [Leetcode: 258](https://dev.to/saifulire/leetcode-258-2ge0)
-- [IA com C# - Exemplo: Prever se um cliente será um bom ou mau pagador de um empréstimo](https://dev.to/juarezasjunior/ia-com-c-exemplo-prever-se-um-cliente-sera-um-bom-ou-mau-pagador-de-um-emprestimo-j25)
-- [Differences between Ethereum’s send/transfer/call functions](https://dev.to/110nard0/understanding-ethereums-sendtransfercall-functions-2f1m)
-- [Array Grouping In JavaScript &lpar;2024&rpar;](https://dev.to/ahmedturaj/array-grouping-in-javascript-2024-3o1h)
+- [Database Migration from OnPrem to AWS RDS](https://dev.to/prakash_rao/database-migration-from-onprem-to-aws-rds-5h01)
+- [Explore Ethereal Flow: Adventure-Puzzle Game Demo in Unity!](https://dev.to/rishi_nalem/explore-ethereal-flow-adventure-puzzle-game-demo-in-unity-4nlo)
+- [C# Tip: Out Variables](https://dev.to/juarezasjunior/c-tip-out-variables-2jjb)
+- [Dica C#: Out Variables](https://dev.to/juarezasjunior/dica-c-out-variables-5079)
+- [My Awesome Journey in the #30DayTFChallenge by HUG Yaounde](https://dev.to/pat6339/my-awesome-journey-in-the-30daytfchallenge-by-hug-yaounde-1pm6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
