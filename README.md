@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SpeakSign Program Demonstration | Rishi Nalem](https://dev.to/rishi_nalem/speaksign-program-demonstration-rishi-nalem-22mf)
-- [Building a Content Scheduler Module in Drupal: A Practical Guide to Custom Module Development](https://dev.to/imustakim/building-a-content-scheduler-module-in-drupal-a-practical-guide-to-custom-module-development-2ihj)
-- [Java Programming changes from Java SE 1.0 to Java SE 23](https://dev.to/myexamcloud/java-programming-changes-from-java-se-10-to-java-se-23-42ke)
-- [In Theory: Self-Correcting Software](https://dev.to/ingigauti/in-theory-self-correcting-software-16bh)
-- [Configurando servidor local no Linux: Nginx, MySQL e PHP](https://dev.to/fernandomullerjr/configurando-servidor-local-no-linux-nginx-mysql-e-php-4015)
+- [WorkFlow. Your AI Powered Secretary.](https://dev.to/anshsaini/workflow-your-ai-powered-secretary-4np5)
+- [Polyfills: A peça que falta no seu quebra-cabeça JavaScript](https://dev.to/julianoalvescode/polyfills-a-peca-que-falta-no-seu-quebra-cabeca-javascript-35ff)
+- [OpportuniTrack - Job Application Tracker Powered by Nylas](https://dev.to/jamesshah/opportunitrack-job-application-tracker-powered-by-nylas-1coj)
+- [Why I Like Golang and Why It&#39;s the Best Language for Me.](https://dev.to/aliahadmd/why-i-like-golang-and-why-its-the-best-language-for-me-25d8)
+- [Windows command lines](https://dev.to/ranjith_jr_fbf2e375879b08/windows-command-lines-2fd8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
