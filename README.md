@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI E-Mail Event Booking Agent](https://dev.to/dmitryrechkin/ai-e-mail-event-booking-agent-16oh)
-- [Vue js : Stripe integration](https://dev.to/ainaluc/vue-js-stripe-integration-3n8m)
-- [.js vs. .jsx: Should You Write Your React Code in .jsx?](https://dev.to/leetcode/js-vs-jsx-should-you-write-your-react-code-in-jsx-3mp9)
-- [How to Install Ruby on Windows, macOS, and Linux](https://dev.to/luigi_2ba3/how-to-install-ruby-on-windows-macos-and-linux-35o3)
-- [Strategies for Writing More Testable Code - An Imperative Approach](https://dev.to/felipeleao18/strategies-for-writing-more-testable-code-an-imperative-approach-1b4g)
+- [Kafka Demystified: A Developer&#39;s Guide to Efficient Data Streaming](https://dev.to/akshat_gautam/kafka-demystified-a-developers-guide-to-efficient-data-streaming-2jo3)
+- [Mastering Axios: A Technical Guide to Building Your Food Delivery App🍔✨](https://dev.to/ankitakanchan/mastering-axios-a-technical-guide-to-building-your-food-delivery-app-1j78)
+- [OpenSourceSmith - Complete Kit to Forge Your Project](https://dev.to/mdabidhussain/opensourcesmith-1e1h)
+- [🚀 Introduction to My 100 Days of System Design](https://dev.to/vikram_kumar_2101/introduction-to-my-100-days-of-system-design-3a4l)
+- [Dynamic Connectivity: A Visual Guide](https://dev.to/raziehahmadi/dynamic-connectivity-a-visual-guide-gea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
