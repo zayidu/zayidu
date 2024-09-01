@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Believe Lombok Should Be Discarded from Java Projects](https://dev.to/yanev/why-i-believe-lombok-should-be-discarded-from-java-projects-1g4h)
-- [In-Memory Database with SQLite](https://dev.to/hungrywolf/in-memory-database-with-sqlite-4en5)
-- [Dive into Artificial Intelligence with the Azure AI Fundamentals Student Learn Plan](https://dev.to/hermes-bytes/dive-into-artificial-intelligence-with-the-azure-ai-fundamentals-student-learn-plan-2m8h)
-- [Start Your Azure Journey with the New Azure Fundamentals Student Learn Plan](https://dev.to/hermes-bytes/start-your-azure-journey-with-the-new-azure-fundamentals-student-learn-plan-50ki)
-- [Enhance Your Data Skills with the Azure Data Fundamentals Student Learn Plan](https://dev.to/hermes-bytes/enhance-your-data-skills-with-the-azure-data-fundamentals-student-learn-plan-5a1p)
+- [Day 2: Creating a Signup Page with Express.js – Building the Foundation for User Registration](https://dev.to/adeleke123/day-2-creating-a-signup-page-with-expressjs-building-the-foundation-for-user-registration-2g3d)
+- [Unlocking WhatsApp Secrets: Analyzing Chat Data with Next.js 14 Web App](https://dev.to/rajeshroyal/unlocking-whatsapp-secrets-analyzing-chat-data-with-nextjs-14-web-app-489i)
+- [Efficient processing of Gzip-compressed files in Google Cloud Storage](https://dev.to/siddhantkcode/efficient-processing-of-gzip-compressed-files-in-google-cloud-storage-1pj)
+- [Lottie Animation: Flutter](https://dev.to/codewithusama/lottie-animation-flutter-3p26)
+- [Pytest and PostgreSQL: Fresh database for every test &lpar;part II&rpar;](https://dev.to/liborjelinek/pytest-and-postgresql-fresh-database-for-every-test-part-ii-48pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
