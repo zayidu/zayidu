@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ 2 Parallax Background Effects in CSS - Simple &amp; Horizontal Parallax : Part1](https://dev.to/uicraft_by_pratik/2-parallax-background-effects-in-css-simple-horizontal-parallax-part1-4n99)
-- [Issues installing XDebug to work with VS Code - php](https://dev.to/frankpulido/issues-installing-xdebug-to-work-with-vs-code-php-1o0b)
-- [Functional Snippet: withSuppress](https://dev.to/nhirschfeld/functional-snippet-withsuppress-4ea0)
-- [Unlocking the World of Technology: My Journey and Skillset](https://dev.to/binaries001/unlocking-the-world-of-technology-my-journey-and-skillset-5836)
-- [Nylas AI-Driven Email Summarizer and Actionable Insights Generator](https://dev.to/rajdhokai/nylas-ai-driven-email-summarizer-and-actionable-insights-generator-47n3)
+- [Frontend Resources V2! 🚀](https://dev.to/miguelrodriguezp99/frontend-resources-v2-57mj)
+- [Building a RESTFul RecipeAPI with Django and SQlite](https://dev.to/alexander784/building-a-restful-recipeapi-with-django-and-sqlite-36i1)
+- [Website Time dataset](https://dev.to/victordalet/website-time-dataset-3k47)
+- [Dev Tip: How to view Dev Tip: How to view localhost web apps on your phone](https://dev.to/e-tech/dev-tip-how-to-view-dev-tip-how-to-view-localhost-web-apps-on-your-phone-1kc5)
+- [Why Your Business Needs Churn Management Software in 2024](https://dev.to/lilykarim529/why-your-business-needs-churn-management-software-in-2024-4de1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
