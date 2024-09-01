@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Essential VS Code Extensions Every Developer Should Know](https://dev.to/itshayder/10-essential-vs-code-extensions-every-developer-should-know-4j92)
-- [Native Naïveté: Why Native Applications Still Have a Future](https://dev.to/dedsyn4ps3/native-naivete-why-native-applications-still-have-a-future-poe)
-- [How to deploy to maven central repo](https://dev.to/ozkanpakdil/how-to-deploy-to-maven-central-repo-4mhp)
-- [AWS Virtual Private Cloud](https://dev.to/ooluwatobi_o/aws-virtual-private-cloud-4i2p)
-- [Neon Meets `create-t3-app`: The PostgreSQL Solution for Modern Developers](https://dev.to/jose_carlostoscano_3bb03/neon-meets-create-t3-app-the-postgresql-solution-for-modern-developers-4273)
+- [Ninetails AI Stack powered by Neon Postgres: Earn your First Dollar on Internet](https://dev.to/raj_savaliya/ninetails-ai-stack-powered-by-neon-postgres-earn-your-first-dollar-on-internet-1b3i)
+- [Not Day One: Did I always suck that bad?](https://dev.to/gabriellafguerra/not-day-one-did-i-always-suck-that-bad-5af0)
+- [Introducing Nurl: Simplify Link Sharing with Nano URLs and QR Codes 🚀](https://dev.to/kulahad/introducing-nurl-simplify-link-sharing-with-nano-urls-and-qr-codes-3226)
+- [Launch your Projects with Galsenext: Next.js, Prisma, NextAuth, Neon and Tailwind CSS](https://dev.to/mouhamedhanne/launch-your-projects-with-galsenext-nextjs-prisma-nextauth-neon-and-tailwind-css-15dl)
+- [Setup UIKIT Without StoryBoard](https://dev.to/luizrebelatto/setup-uikit-without-storyboard-2l0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
