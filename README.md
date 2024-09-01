@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CBJS: Command Injection 6](https://dev.to/peppa6/cbjs-command-injection-6-1668)
-- [Week 2: Building Interactive Games](https://dev.to/igbojionu/week-2-building-interactive-games-41em)
-- [Week 2: Building Interactive Games](https://dev.to/igbojionu/week-2-building-interactive-games-41ok)
-- [Week 2: Building Interactive Games](https://dev.to/igbojionu/week-2-building-interactive-games-5b4c)
-- [Week 2: Building Interactive Games](https://dev.to/igbojionu/week-2-building-interactive-games-1cah)
+- [Advancing Tau LLM: Today’s Breakthroughs and Future Plans](https://dev.to/p3ngu1nzz/advancing-tau-llm-todays-breakthroughs-and-future-plans-41mg)
+- [Understanding Java Memory Leaks and How to Prevent Them](https://dev.to/isaactony/understanding-java-memory-leaks-and-how-to-prevent-them-2gpa)
+- [Mastering Deep Linking and Universal Links in React Native: OpenGraph Share &amp; Node.js Integration](https://dev.to/ajmal_hasan/mastering-deep-linking-and-universal-links-in-react-native-opengraph-share-nodejs-integration-4ppa)
+- [How to Create and Publish Your First NPM Package: A Complete Guide](https://dev.to/dipakahirav/how-to-create-and-publish-your-first-npm-package-a-complete-guide-330j)
+- [Practical Guide to Apache Camel with Quarkus: Building an ETL Application](https://dev.to/yanev/practical-guide-to-apache-camel-with-quarkus-building-an-etl-application-2iji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
