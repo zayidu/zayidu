@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Get Started with GIT: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-git-basic-to-intermediate-4d40)
-- [Grid Layout: The Ultimate Guide for Beginners](https://dev.to/gdebojyoti/grid-layout-the-ultimate-guide-for-beginners-3ek8)
-- [Next JS &amp; Supabase CRUD🚀](https://dev.to/seif_eddinesaad_807a774a/next-js-supabase-crud-1jk5)
-- [Github-dlr: Download individual files and folders from Github recursively.](https://dev.to/rocktimsaikia/github-dlr-download-individual-files-and-folders-from-github-recursively-m92)
-- [NeoChat: A Context-Aware RAG Chatbot Starter kit](https://dev.to/sraveend/neochat-a-context-aware-rag-chatbot-starter-kit-19bf)
+- [SpeakSign Program Demonstration | Rishi Nalem](https://dev.to/rishi_nalem/speaksign-program-demonstration-rishi-nalem-22mf)
+- [Building a Content Scheduler Module in Drupal: A Practical Guide to Custom Module Development](https://dev.to/imustakim/building-a-content-scheduler-module-in-drupal-a-practical-guide-to-custom-module-development-2ihj)
+- [Java Programming changes from Java SE 1.0 to Java SE 23](https://dev.to/myexamcloud/java-programming-changes-from-java-se-10-to-java-se-23-42ke)
+- [In Theory: Self-Correcting Software](https://dev.to/ingigauti/in-theory-self-correcting-software-16bh)
+- [Configurando servidor local no Linux: Nginx, MySQL e PHP](https://dev.to/fernandomullerjr/configurando-servidor-local-no-linux-nginx-mysql-e-php-4015)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
