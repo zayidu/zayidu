@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Problem Solving Patterns](https://dev.to/kanishkaisuru/problem-solving-patterns-2je1)
-- [Memory Management in GraalVM Native Image](https://dev.to/yanev/memory-management-in-graalvm-native-image-4nbe)
-- [Using PGvector with your Django App](https://dev.to/buddhiraz/using-pgvector-with-your-django-app-2o3j)
-- [📚 مفهوم البرمجة الشيئية في JavaScript: البروتوتايب والفئات 🚀](https://dev.to/abuabdelrahman1413/mfhwm-lbrmj-lshyyy-fy-javascript-lbrwtwtyb-wlfyt-4ic0)
-- [📚 مفهوم البرمجة الشيئية في JavaScript: البروتوتايب والفئات 🚀](https://dev.to/abuabdelrahman1413/mfhwm-lbrmj-lshyyy-fy-javascript-lbrwtwtyb-wlfyt-5emh)
+- [Why I Believe Lombok Should Be Discarded from Java Projects](https://dev.to/yanev/why-i-believe-lombok-should-be-discarded-from-java-projects-1g4h)
+- [In-Memory Database with SQLite](https://dev.to/hungrywolf/in-memory-database-with-sqlite-4en5)
+- [Dive into Artificial Intelligence with the Azure AI Fundamentals Student Learn Plan](https://dev.to/hermes-bytes/dive-into-artificial-intelligence-with-the-azure-ai-fundamentals-student-learn-plan-2m8h)
+- [Start Your Azure Journey with the New Azure Fundamentals Student Learn Plan](https://dev.to/hermes-bytes/start-your-azure-journey-with-the-new-azure-fundamentals-student-learn-plan-50ki)
+- [Enhance Your Data Skills with the Azure Data Fundamentals Student Learn Plan](https://dev.to/hermes-bytes/enhance-your-data-skills-with-the-azure-data-fundamentals-student-learn-plan-5a1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
