@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Linux Commands Every DevOps Engineer Should Know](https://dev.to/haythammostafa/top-linux-commands-every-devops-engineer-should-know-1029)
-- [CONFIGURE EXPRESS WITH .EJS TEMPLATE](https://dev.to/hopelesscoder/configure-express-with-ejs-template-1ach)
-- [Median of Two Sorted Arrays – LeetCode Hard Solutions](https://dev.to/imkrunalkanojiya/median-of-two-sorted-arrays-leetcode-hard-solutions-2epd)
-- [How to Build and Manage Successful Software Development Teams in Africa](https://dev.to/tribesquare/how-to-build-and-manage-successful-software-development-teams-in-africa-1k94)
-- [Why You Should Attend Experts Live Europe 2024 in Budapest: Unlocking Opportunities in the Heart of Innovation](https://dev.to/this-is-learning/why-you-should-attend-experts-live-europe-2024-in-budapest-unlocking-opportunities-in-the-heart-of-innovation-3pbg)
+- [10 Essential VS Code Extensions Every Developer Should Know](https://dev.to/itshayder/10-essential-vs-code-extensions-every-developer-should-know-4j92)
+- [Native Naïveté: Why Native Applications Still Have a Future](https://dev.to/dedsyn4ps3/native-naivete-why-native-applications-still-have-a-future-poe)
+- [How to deploy to maven central repo](https://dev.to/ozkanpakdil/how-to-deploy-to-maven-central-repo-4mhp)
+- [AWS Virtual Private Cloud](https://dev.to/ooluwatobi_o/aws-virtual-private-cloud-4i2p)
+- [Neon Meets `create-t3-app`: The PostgreSQL Solution for Modern Developers](https://dev.to/jose_carlostoscano_3bb03/neon-meets-create-t3-app-the-postgresql-solution-for-modern-developers-4273)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
