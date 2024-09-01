@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Enable .NET Framework 4.8 Advanced Services in Windows 11?](https://dev.to/winsides/how-to-enable-net-framework-48-advanced-services-in-windows-11-25ip)
-- [Proxmox Security Series:SSH Through Firewall](https://dev.to/sebos/proxmox-security-seriesssh-through-firewall-405f)
-- [Data Dance Party in Salesforce: Mastering DML &amp; SOQL with Code](https://dev.to/decoders_lord/data-dance-party-in-salesforce-mastering-dml-soql-with-code-4pgl)
-- [Ultimate PHP Resource List: Stay Informed and Up-to-Date](https://dev.to/shimanta_microcodes/ultimate-php-resource-list-stay-informed-and-up-to-date-271b)
-- [3 Word Email : Simplify Your Inbox with AI](https://dev.to/abhi1u/3-word-email-simplify-your-inbox-with-ai-44do)
+- [Top Linux Commands Every DevOps Engineer Should Know](https://dev.to/haythammostafa/top-linux-commands-every-devops-engineer-should-know-1029)
+- [CONFIGURE EXPRESS WITH .EJS TEMPLATE](https://dev.to/hopelesscoder/configure-express-with-ejs-template-1ach)
+- [Median of Two Sorted Arrays – LeetCode Hard Solutions](https://dev.to/imkrunalkanojiya/median-of-two-sorted-arrays-leetcode-hard-solutions-2epd)
+- [How to Build and Manage Successful Software Development Teams in Africa](https://dev.to/tribesquare/how-to-build-and-manage-successful-software-development-teams-in-africa-1k94)
+- [Why You Should Attend Experts Live Europe 2024 in Budapest: Unlocking Opportunities in the Heart of Innovation](https://dev.to/this-is-learning/why-you-should-attend-experts-live-europe-2024-in-budapest-unlocking-opportunities-in-the-heart-of-innovation-3pbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
