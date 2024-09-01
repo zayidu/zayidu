@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Sort Algorithm: Step-by-Step Guide for Efficient Sorting](https://dev.to/vampirepapi/quick-sort-algorithm-step-by-step-guide-for-efficient-sorting-4o35)
-- [Yogurt app](https://dev.to/boby900/yogurt-app-2282)
-- [Automate Your Software Development Workflow with DevOps Essentials](https://dev.to/abdulrafaykhan_dev/automate-your-software-development-workflow-with-devops-essentials-4h83)
-- [The Ultimate Open Source Starter Kit](https://dev.to/travislramos/the-ultimate-open-source-starter-kit-54k6)
-- [Demystifying Closures in JS](https://dev.to/mahf001/demystifying-closures-in-js-43df)
+- [Kickstart Your Serverless Project in a Snap](https://dev.to/babacar_ba_73bfd3422e6805/kickstart-your-serverless-project-in-a-snap-6j3)
+- [Today&#39;s Trending Projects: Implement Card Binding Function and More](https://dev.to/labex/todays-trending-projects-implement-card-binding-function-and-more-1bc1)
+- [O que são Data Warehouses e o sistema OLAP](https://dev.to/feliperfdev/o-que-sao-data-warehouses-e-o-sistema-olap-2d6k)
+- [Enhance Your Spring Boot Skills by Solving Exception Handling Issues: Implement a Global Handler for UserNotFoundException](https://dev.to/anupam_tarai_3250344e48cd/enhance-exception-handling-and-implement-global-exception-handler-for-usernotfoundexception-22ap)
+- [Introducing: A Frontend Architect&#39;s Journey](https://dev.to/santhanam87/introducing-a-frontend-architects-journey-51fc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
