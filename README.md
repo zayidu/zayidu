@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kickstart Your Serverless Project in a Snap](https://dev.to/babacar_ba_73bfd3422e6805/kickstart-your-serverless-project-in-a-snap-6j3)
-- [Today&#39;s Trending Projects: Implement Card Binding Function and More](https://dev.to/labex/todays-trending-projects-implement-card-binding-function-and-more-1bc1)
-- [O que são Data Warehouses e o sistema OLAP](https://dev.to/feliperfdev/o-que-sao-data-warehouses-e-o-sistema-olap-2d6k)
-- [Enhance Your Spring Boot Skills by Solving Exception Handling Issues: Implement a Global Handler for UserNotFoundException](https://dev.to/anupam_tarai_3250344e48cd/enhance-exception-handling-and-implement-global-exception-handler-for-usernotfoundexception-22ap)
-- [Introducing: A Frontend Architect&#39;s Journey](https://dev.to/santhanam87/introducing-a-frontend-architects-journey-51fc)
+- [Handling Errors in Node.js: Turning Oops into Success 🚀](https://dev.to/khushindpatel/handling-errors-in-nodejs-turning-oops-into-success-1h03)
+- [Showcase Your Open-Source Contributions with Ease!](https://dev.to/depapp/showcase-your-open-source-contributions-with-ease-dno)
+- [RegExp in JavaScript](https://dev.to/zain725342/regexp-in-javascript-3g4p)
+- [Updating the Screen: React Documentation Introduction](https://dev.to/labex/updating-the-screen-react-documentation-introduction-3mcl)
+- [Introducing DevOps Toolkit CLI 🐳](https://dev.to/tungbq/introducing-devops-toolkit-cli-4nl0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
