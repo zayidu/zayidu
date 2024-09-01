@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Folderfly : An ultimate AI powered tool using Nylas to enhance your MailBox!](https://dev.to/felixcodeur/introducing-folderfly-an-ultimate-ai-powered-tool-using-nylas-to-enhance-your-mailbox-3hgg)
-- [Mastering box-shadow in CSS: A Quick Guide](https://dev.to/adribyme/mastering-box-shadow-in-css-a-quick-guide-5fh)
-- [Understanding `async` and `defer` in JavaScript: A Guide for Interview Preparation](https://dev.to/nishantsinghchandel/understanding-async-and-defer-in-javascript-a-guide-for-interview-preparation-3fi9)
-- [Leptos + Tauri Tutorial](https://dev.to/davidedelpapa/leptos-tauri-tutorial-3k60)
-- [Recommended Course: Quick Start with HTML](https://dev.to/labex/recommended-course-quick-start-with-html-1la7)
+- [How to Enable .NET Framework 4.8 Advanced Services in Windows 11?](https://dev.to/winsides/how-to-enable-net-framework-48-advanced-services-in-windows-11-25ip)
+- [Proxmox Security Series:SSH Through Firewall](https://dev.to/sebos/proxmox-security-seriesssh-through-firewall-405f)
+- [Data Dance Party in Salesforce: Mastering DML &amp; SOQL with Code](https://dev.to/decoders_lord/data-dance-party-in-salesforce-mastering-dml-soql-with-code-4pgl)
+- [Ultimate PHP Resource List: Stay Informed and Up-to-Date](https://dev.to/shimanta_microcodes/ultimate-php-resource-list-stay-informed-and-up-to-date-271b)
+- [3 Word Email : Simplify Your Inbox with AI](https://dev.to/abhi1u/3-word-email-simplify-your-inbox-with-ai-44do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
