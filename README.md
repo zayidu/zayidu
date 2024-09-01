@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Resources V2! 🚀](https://dev.to/miguelrodriguezp99/frontend-resources-v2-57mj)
-- [Building a RESTFul RecipeAPI with Django and SQlite](https://dev.to/alexander784/building-a-restful-recipeapi-with-django-and-sqlite-36i1)
-- [Website Time dataset](https://dev.to/victordalet/website-time-dataset-3k47)
-- [Dev Tip: How to view Dev Tip: How to view localhost web apps on your phone](https://dev.to/e-tech/dev-tip-how-to-view-dev-tip-how-to-view-localhost-web-apps-on-your-phone-1kc5)
-- [Why Your Business Needs Churn Management Software in 2024](https://dev.to/lilykarim529/why-your-business-needs-churn-management-software-in-2024-4de1)
+- [Get Started with GIT: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-git-basic-to-intermediate-4d40)
+- [Grid Layout: The Ultimate Guide for Beginners](https://dev.to/gdebojyoti/grid-layout-the-ultimate-guide-for-beginners-3ek8)
+- [Next JS &amp; Supabase CRUD🚀](https://dev.to/seif_eddinesaad_807a774a/next-js-supabase-crud-1jk5)
+- [Github-dlr: Download individual files and folders from Github recursively.](https://dev.to/rocktimsaikia/github-dlr-download-individual-files-and-folders-from-github-recursively-m92)
+- [NeoChat: A Context-Aware RAG Chatbot Starter kit](https://dev.to/sraveend/neochat-a-context-aware-rag-chatbot-starter-kit-19bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
