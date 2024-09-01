@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2: Creating a Signup Page with Express.js – Building the Foundation for User Registration](https://dev.to/adeleke123/day-2-creating-a-signup-page-with-expressjs-building-the-foundation-for-user-registration-2g3d)
-- [Unlocking WhatsApp Secrets: Analyzing Chat Data with Next.js 14 Web App](https://dev.to/rajeshroyal/unlocking-whatsapp-secrets-analyzing-chat-data-with-nextjs-14-web-app-489i)
-- [Efficient processing of Gzip-compressed files in Google Cloud Storage](https://dev.to/siddhantkcode/efficient-processing-of-gzip-compressed-files-in-google-cloud-storage-1pj)
-- [Lottie Animation: Flutter](https://dev.to/codewithusama/lottie-animation-flutter-3p26)
-- [Pytest and PostgreSQL: Fresh database for every test &lpar;part II&rpar;](https://dev.to/liborjelinek/pytest-and-postgresql-fresh-database-for-every-test-part-ii-48pn)
+- [The Fastest Llama: Uncovering the Speed of LLMs](https://dev.to/fr4ncis/the-fastest-llama-uncovering-the-speed-of-llms-5ap8)
+- [Understanding call, apply, and bind in JavaScript with Simple Examples](https://dev.to/vamsi_76_89/understanding-call-apply-and-bind-in-javascript-with-simple-examples-4m5p)
+- [Day 3:From Strings to Numbers: Demystifying JavaScript Type Conversions](https://dev.to/alwaysaman/day-3from-strings-to-numbers-demystifying-javascript-type-conversions-1468)
+- [And the Oscar Goes to … Coding a Chronology Component](https://dev.to/madsstoumann/and-the-oscar-goes-to-coding-a-chronology-component-24hf)
+- [Creating safe and fast multiplayer in games on Unity and NodeJS with examples](https://dev.to/devsdaddy/creating-safe-and-fast-multiplayer-in-games-on-unity-and-nodejs-with-examples-3hk8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
