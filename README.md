@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WorkFlow. Your AI Powered Secretary.](https://dev.to/anshsaini/workflow-your-ai-powered-secretary-4np5)
-- [Polyfills: A peça que falta no seu quebra-cabeça JavaScript](https://dev.to/julianoalvescode/polyfills-a-peca-que-falta-no-seu-quebra-cabeca-javascript-35ff)
-- [OpportuniTrack - Job Application Tracker Powered by Nylas](https://dev.to/jamesshah/opportunitrack-job-application-tracker-powered-by-nylas-1coj)
-- [Why I Like Golang and Why It&#39;s the Best Language for Me.](https://dev.to/aliahadmd/why-i-like-golang-and-why-its-the-best-language-for-me-25d8)
-- [Windows command lines](https://dev.to/ranjith_jr_fbf2e375879b08/windows-command-lines-2fd8)
+- [Introducing Folderfly : An ultimate AI powered tool using Nylas to enhance your MailBox!](https://dev.to/felixcodeur/introducing-folderfly-an-ultimate-ai-powered-tool-using-nylas-to-enhance-your-mailbox-3hgg)
+- [Mastering box-shadow in CSS: A Quick Guide](https://dev.to/adribyme/mastering-box-shadow-in-css-a-quick-guide-5fh)
+- [Understanding `async` and `defer` in JavaScript: A Guide for Interview Preparation](https://dev.to/nishantsinghchandel/understanding-async-and-defer-in-javascript-a-guide-for-interview-preparation-3fi9)
+- [Leptos + Tauri Tutorial](https://dev.to/davidedelpapa/leptos-tauri-tutorial-3k60)
+- [Recommended Course: Quick Start with HTML](https://dev.to/labex/recommended-course-quick-start-with-html-1la7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
