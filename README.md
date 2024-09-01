@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fastest Llama: Uncovering the Speed of LLMs](https://dev.to/fr4ncis/the-fastest-llama-uncovering-the-speed-of-llms-5ap8)
-- [Understanding call, apply, and bind in JavaScript with Simple Examples](https://dev.to/vamsi_76_89/understanding-call-apply-and-bind-in-javascript-with-simple-examples-4m5p)
-- [Day 3:From Strings to Numbers: Demystifying JavaScript Type Conversions](https://dev.to/alwaysaman/day-3from-strings-to-numbers-demystifying-javascript-type-conversions-1468)
-- [And the Oscar Goes to … Coding a Chronology Component](https://dev.to/madsstoumann/and-the-oscar-goes-to-coding-a-chronology-component-24hf)
-- [Creating safe and fast multiplayer in games on Unity and NodeJS with examples](https://dev.to/devsdaddy/creating-safe-and-fast-multiplayer-in-games-on-unity-and-nodejs-with-examples-3hk8)
+- [CBJS: Command Injection 6](https://dev.to/peppa6/cbjs-command-injection-6-1668)
+- [Week 2: Building Interactive Games](https://dev.to/igbojionu/week-2-building-interactive-games-41em)
+- [Week 2: Building Interactive Games](https://dev.to/igbojionu/week-2-building-interactive-games-41ok)
+- [Week 2: Building Interactive Games](https://dev.to/igbojionu/week-2-building-interactive-games-5b4c)
+- [Week 2: Building Interactive Games](https://dev.to/igbojionu/week-2-building-interactive-games-1cah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
