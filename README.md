@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Learner&#39;s Guide to Overcoming Deadline Anxiety](https://dev.to/gregharis/a-learners-guide-to-overcoming-deadline-anxiety-1moo)
-- [Scaling Up Your Developer Community](https://dev.to/swati1267/scaling-up-your-developer-community-1kba)
-- [The Observer Patter - A Practical Approach.](https://dev.to/muhammad_salem/the-observer-patter-a-practical-approach-3ibi)
-- [Numerical Alchemy: Converting Numbers to Text in C#](https://dev.to/balagmadhu/numerical-alchemy-converting-numbers-to-text-in-c-2pb5)
-- [Leveraging JavaScript&#39;s Set and Map for an Efficient Content Management System](https://dev.to/code_passion/leveraging-javascripts-set-and-map-for-an-efficient-content-management-system-38c0)
+- [NextJS Authentication Boilerplate from &quot;scratch&quot;](https://dev.to/lovefrom/nextjs-authentication-boilerplate-9h2)
+- [Part 3/3: How to Implement Refresh Tokens through Http-Only Cookie in NestJS and React](https://dev.to/zenstok/part-33-how-to-implement-refresh-tokens-through-http-only-cookie-in-nestjs-and-react-265e)
+- [Building SmartInbox: My Nylas Journey](https://dev.to/spruceemma/building-smartinbox-my-nylas-journey-34nm)
+- [Optimizing Performance in React Native App](https://dev.to/pagepro_agency/optimizing-performance-in-react-native-app-3d67)
+- [Flask Neon Kit: The extension which automatically generates CRUD endpoints](https://dev.to/valentinesean22/flask-neon-kit-the-extension-which-automatically-generates-crud-endpoints-7oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
