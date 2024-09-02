@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Reasons TypeScript is Transforming How We Build Web Apps](https://dev.to/nilebits/10-reasons-typescript-is-transforming-how-we-build-web-apps-2bmc)
-- [The Ultimate Guide to Data Science](https://dev.to/emmanuel_b/the-ultimate-guide-to-data-science-5728)
-- [A real-life scenario where call, apply, and bind use](https://dev.to/sugrivlodhi/a-real-life-scenario-where-call-apply-and-bind-use-4525)
-- [Reference Counting vs Tracing Garbage Collection](https://dev.to/devxbr/reference-counting-vs-tracing-garbage-collection-51ac)
-- [Angular @let declarations: Smart Template Subscriptions](https://dev.to/this-is-angular/angular-let-declarations-smart-template-subscriptions-4d4h)
+- [Pessimistic locking, Read Committed, and all Isolation Levels](https://dev.to/yugabyte/pessimistic-locking-read-committed-and-all-isolation-levels-3n31)
+- [Unique PostgreSQL-compatible Distributed SQL database](https://dev.to/yugabyte/unique-postgresql-compatible-distributed-sql-database-2jc1)
+- [10 Facts About YugabyteDB: Misconceptions Debunked](https://dev.to/yugabyte/10-facts-about-yugabytedb-misconceptions-debunked-4ee4)
+- [Mastering JavaScript: Essential Tips for Beginners](https://dev.to/iamyathz/mastering-javascript-essential-tips-for-beginners-p2j)
+- [Continuous Integration and Continuous Deployment &lpar;CI/CD&rpar; 🕸️](https://dev.to/ram_ram007/continuous-integration-and-continuous-deployment-cicd-2lo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
