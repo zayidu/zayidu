@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Move IO to the Edges of Your App](https://dev.to/canro91/move-io-to-the-edges-of-your-app-kkl)
-- [Handling Concurrency in C#: A Guide to Multithreading and Parallelism](https://dev.to/soham_galande/handling-concurrency-in-c-a-guide-to-multithreading-and-parallelism-446)
-- [Introduce the NestJS starter kit - Release v0.0.4 🚀](https://dev.to/piyushkacha/introduce-the-nestjs-starter-kit-release-v004-4cok)
-- [Image Optimization in Any Web Apps / Mobile Apps](https://dev.to/ashutoshsarangi/image-optimization-in-any-web-apps-mobile-apps-5c1m)
-- [Stay ahead in web development: latest news, tools, and insights #48](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-48-52ld)
+- [A Learner&#39;s Guide to Overcoming Deadline Anxiety](https://dev.to/gregharis/a-learners-guide-to-overcoming-deadline-anxiety-1moo)
+- [Scaling Up Your Developer Community](https://dev.to/swati1267/scaling-up-your-developer-community-1kba)
+- [The Observer Patter - A Practical Approach.](https://dev.to/muhammad_salem/the-observer-patter-a-practical-approach-3ibi)
+- [Numerical Alchemy: Converting Numbers to Text in C#](https://dev.to/balagmadhu/numerical-alchemy-converting-numbers-to-text-in-c-2pb5)
+- [Leveraging JavaScript&#39;s Set and Map for an Efficient Content Management System](https://dev.to/code_passion/leveraging-javascripts-set-and-map-for-an-efficient-content-management-system-38c0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
