@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Embedding RAG VS Graph RAG: &lpar;Under 5 Minutes&rpar;](https://dev.to/needle-ai/embedding-rag-vs-graph-rag-under-5-minutes-20h3)
-- [Introducing DronaHQ Forms - Unlimited forms, unlimited responses](https://dev.to/dronahq/introducing-dronahq-forms-unlimited-forms-unlimited-responses-9pj)
-- [A Beginner&#39;s Guide to Java List Operations](https://dev.to/rahul_b6ad6dacb9dc04cade0/a-beginners-guide-to-java-list-operations-126i)
-- [Deploying and Managing Contour Ingress Controller on Kubernetes](https://dev.to/rd17/deploying-and-managing-contour-ingress-controller-on-kubernetes-55a8)
-- [Modern JavaScript Features: What’s New in ES2023](https://dev.to/manjushsh/modern-javascript-features-whats-new-in-es2023-4i7d)
+- [My Experience with SafeLine: A Powerful and Free Web Application Firewall](https://dev.to/lulu_liu_c90f973e2f954d7f/my-experience-with-safeline-a-powerful-and-free-web-application-firewall-4emc)
+- [Window swap](https://dev.to/babar_ali/window-swap-1o5p)
+- [What is web caching and how to clear cache in WordPress](https://dev.to/c616a1aaf/what-is-web-caching-and-how-to-clear-cache-in-wordpress-33pm)
+- [Understanding React&#39;s useMemo: What It Does, When to Use It, and Best Practices](https://dev.to/ayoashy/understanding-reacts-usememo-what-it-does-when-to-use-it-and-best-practices-4gdh)
+- [Fortify Your Website for Free: Testing the Power of SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/fortify-your-website-for-free-testing-the-power-of-safeline-bpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
