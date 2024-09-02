@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging Cloud Services for Scalable App Development](https://dev.to/abdulrafaykhan_dev/leveraging-cloud-services-for-scalable-app-development-2j7h)
-- [Loadr, an efficient solution for seamlessly loading large images in HTML](https://dev.to/greenestgoat/loadr-an-efficient-solution-for-seamlessly-loading-large-images-in-html-4ao7)
-- [Understanding Class Fields and Static Properties](https://dev.to/pillagerplayz/understanding-class-fields-and-static-properties-2hce)
-- [How to run specific migration in laravel](https://dev.to/msnmongare/how-to-run-specific-migration-in-laravel-4b6a)
-- [Switch Branches in Git Without Losing Your Work](https://dev.to/asadbukhari/switch-branches-in-git-without-losing-your-work-2o18)
+- [Bubble Sort, Selection Sort, Insertion Sort | Data Structures &amp; Algorithms in JavaScript](https://dev.to/gdebojyoti/bubble-sort-selection-sort-insertion-sort-data-structures-algorithms-in-javascript-8ff)
+- [Untitled](https://dev.to/othmane_belalami_21dfee52/untitled-94a)
+- [Untitled](https://dev.to/othmane_belalami_21dfee52/untitled-183h)
+- [The Factory Pattern in C#: Creating Objects the Smart Way](https://dev.to/dazevedo/the-factory-pattern-in-c-creating-objects-the-smart-way-29g1)
+- [Entendendo a Inteligência Artificial: Definição, Funcionamento e Exemplos Práticos](https://dev.to/albericojr/entendendo-a-inteligencia-artificial-definicao-funcionamento-e-exemplos-praticos-3m5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
