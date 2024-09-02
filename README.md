@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Two Lines of CSS That Tanked Performance &lpar;120fps to 40fps&rpar;](https://dev.to/andrico1234/the-two-lines-of-css-that-tanked-performance-120fps-to-40fps-3lnj)
-- [A destination awaits when a journey begins.](https://dev.to/eightrix/a-destination-awaits-when-a-journey-begins-1p48)
-- [Create Shopping Cart using Alpinejs](https://dev.to/andrew-saeed/create-shopping-cart-using-alpinejs-1ncf)
-- [Rust for typescript devs: Functions](https://dev.to/rhl314/rust-for-typescript-devs-functions-1j71)
-- [Strengthening Pact Contract Testing with TypeScript and Data Abstraction](https://dev.to/muratkeremozcan/-strengthening-pact-contract-testing-with-typescript-and-data-abstraction-16hc)
+- [Understanding the Linux Filesystem: An In-Depth Guide for DevOps Engineers](https://dev.to/prodevopsguytech/understanding-the-linux-filesystem-an-in-depth-guide-for-devops-engineers-ona)
+- [Experimenting with pricing: Finding the right strategy for growth!](https://dev.to/nicolasmenicou/experimenting-with-pricing-finding-the-right-strategy-for-growth-34fn)
+- [Git](https://dev.to/ranjith_jr_fbf2e375879b08/git-d6o)
+- [How To Make A Template](https://dev.to/theholyspirit/how-to-make-a-template-5f7k)
+- [Meme Monday](https://dev.to/ben/meme-monday-49ph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
