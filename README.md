@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pessimistic locking, Read Committed, and all Isolation Levels](https://dev.to/yugabyte/pessimistic-locking-read-committed-and-all-isolation-levels-3n31)
-- [Unique PostgreSQL-compatible Distributed SQL database](https://dev.to/yugabyte/unique-postgresql-compatible-distributed-sql-database-2jc1)
-- [10 Facts About YugabyteDB: Misconceptions Debunked](https://dev.to/yugabyte/10-facts-about-yugabytedb-misconceptions-debunked-4ee4)
-- [Mastering JavaScript: Essential Tips for Beginners](https://dev.to/iamyathz/mastering-javascript-essential-tips-for-beginners-p2j)
-- [Continuous Integration and Continuous Deployment &lpar;CI/CD&rpar; 🕸️](https://dev.to/ram_ram007/continuous-integration-and-continuous-deployment-cicd-2lo)
+- [Leveraging Cloud Services for Scalable App Development](https://dev.to/abdulrafaykhan_dev/leveraging-cloud-services-for-scalable-app-development-2j7h)
+- [Loadr, an efficient solution for seamlessly loading large images in HTML](https://dev.to/greenestgoat/loadr-an-efficient-solution-for-seamlessly-loading-large-images-in-html-4ao7)
+- [Understanding Class Fields and Static Properties](https://dev.to/pillagerplayz/understanding-class-fields-and-static-properties-2hce)
+- [How to run specific migration in laravel](https://dev.to/msnmongare/how-to-run-specific-migration-in-laravel-4b6a)
+- [Switch Branches in Git Without Losing Your Work](https://dev.to/asadbukhari/switch-branches-in-git-without-losing-your-work-2o18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
