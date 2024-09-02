@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lifetimes in Rust Explained with Examples](https://dev.to/cudilala/lifetimes-in-rust-explained-with-examples-3p2o)
-- [Understanding Environment Variables in Vite: Why VITE_ Prefix is Important](https://dev.to/stm-akikaze1119/understanding-environment-variables-in-vite-why-vite-prefix-is-important-5c3k)
-- [Fullstack Serverless Starter with Hono.js, Cloudflare Workers, and Neon Postgres](https://dev.to/desmondsanctity/fullstack-serverless-starter-with-honojs-cloudflare-workers-and-neon-postgres-2pgj)
-- [Despliega un WordPress de Alta Disponibilidad en AWS con Terraform en 30 Minutos: Guía Paso a Paso](https://dev.to/francotel/despliega-un-wordpress-de-alta-disponibilidad-en-aws-con-terraform-en-30-minutos-guia-paso-a-paso-4dih)
-- [snow : saas starter kit](https://dev.to/shyynux/snow-saas-starter-kit-3p7m)
+- [Building REST APIs with Flask](https://dev.to/kartikmehta8/building-rest-apis-with-flask-2j01)
+- [Leveraging AI to Upskill!](https://dev.to/christopherchhim/leveraging-ai-to-upskill-15n8)
+- [EF Core queries for unmapped types](https://dev.to/karenpayneoregon/ef-core-queries-for-unmapped-types-20o3)
+- [Intro to Wireframes](https://dev.to/christopherchhim/intro-to-wireframes-3f3o)
+- [Quick Agenda - Your daily brief, simplified](https://dev.to/asyncerror/quick-agenda-your-daily-brief-simplified-384)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
