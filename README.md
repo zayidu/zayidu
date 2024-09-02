@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The impact of insurtech on traditional insurance models](https://dev.to/megaminds/the-impact-of-insurtech-on-traditional-insurance-models-1kb7)
-- [Creating a Websocket server in Hono with Durable Objects](https://dev.to/fiberplane/creating-a-websocket-server-in-hono-with-durable-objects-4ha3)
-- [Hacking in the Movies is Like…](https://dev.to/stokry/hacking-in-the-movies-is-like-191n)
-- [Reflecting on My Journey at HNG11 Internship!](https://dev.to/kahuna04/reflecting-on-my-journey-at-hng11-internship-1k82)
-- [Learn How to Use Git in 30 Minutes: A Beginner’s Guide](https://dev.to/bizmavenhub/learn-how-to-use-git-in-30-minutes-a-beginners-guide-3m4o)
+- [The Two Lines of CSS That Tanked Performance &lpar;120fps to 40fps&rpar;](https://dev.to/andrico1234/the-two-lines-of-css-that-tanked-performance-120fps-to-40fps-3lnj)
+- [A destination awaits when a journey begins.](https://dev.to/eightrix/a-destination-awaits-when-a-journey-begins-1p48)
+- [Create Shopping Cart using Alpinejs](https://dev.to/andrew-saeed/create-shopping-cart-using-alpinejs-1ncf)
+- [Rust for typescript devs: Functions](https://dev.to/rhl314/rust-for-typescript-devs-functions-1j71)
+- [Strengthening Pact Contract Testing with TypeScript and Data Abstraction](https://dev.to/muratkeremozcan/-strengthening-pact-contract-testing-with-typescript-and-data-abstraction-16hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
