@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering IAM in AWS: A Guide to Secure Cloud Access Management](https://dev.to/hammad_khan_efaf55b5cc7b7/mastering-iam-in-aws-a-guide-to-secure-cloud-access-management-41l8)
-- [The Future of Networking: 5G and Beyond](https://dev.to/rasika_dhanokar_5eebc5ec5/the-future-of-networking-5g-and-beyond-43c5)
-- [LLMs Mimic Social Networks But Overestimate Political Homophily, Study Finds](https://dev.to/mikeyoung44/llms-mimic-social-networks-but-overestimate-political-homophily-study-finds-33gf)
-- [Create Repeating Google Calendar Event for Last Working Day of Month](https://dev.to/anuarshaidenov/create-repeating-google-calendar-event-for-last-working-day-of-month-31g4)
-- [current index](https://dev.to/__040711563a17902392e7/current-index-kh6)
+- [Embedding RAG VS Graph RAG: &lpar;Under 5 Minutes&rpar;](https://dev.to/needle-ai/embedding-rag-vs-graph-rag-under-5-minutes-20h3)
+- [Introducing DronaHQ Forms - Unlimited forms, unlimited responses](https://dev.to/dronahq/introducing-dronahq-forms-unlimited-forms-unlimited-responses-9pj)
+- [A Beginner&#39;s Guide to Java List Operations](https://dev.to/rahul_b6ad6dacb9dc04cade0/a-beginners-guide-to-java-list-operations-126i)
+- [Deploying and Managing Contour Ingress Controller on Kubernetes](https://dev.to/rd17/deploying-and-managing-contour-ingress-controller-on-kubernetes-55a8)
+- [Modern JavaScript Features: What’s New in ES2023](https://dev.to/manjushsh/modern-javascript-features-whats-new-in-es2023-4i7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
