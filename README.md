@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with SafeLine: A Powerful and Free Web Application Firewall](https://dev.to/lulu_liu_c90f973e2f954d7f/my-experience-with-safeline-a-powerful-and-free-web-application-firewall-4emc)
-- [Window swap](https://dev.to/babar_ali/window-swap-1o5p)
-- [What is web caching and how to clear cache in WordPress](https://dev.to/c616a1aaf/what-is-web-caching-and-how-to-clear-cache-in-wordpress-33pm)
-- [Understanding React&#39;s useMemo: What It Does, When to Use It, and Best Practices](https://dev.to/ayoashy/understanding-reacts-usememo-what-it-does-when-to-use-it-and-best-practices-4gdh)
-- [Fortify Your Website for Free: Testing the Power of SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/fortify-your-website-for-free-testing-the-power-of-safeline-bpm)
+- [How to Build an AI App?](https://dev.to/vincent_natalie_900aed10e/how-to-build-an-ai-app-17i1)
+- [Benefits of Using React with ASP .Net Core for Modern Web Solutions](https://dev.to/megaminds/benefits-of-using-react-with-asp-net-core-for-modern-web-solutions-jj2)
+- [GBase 8c Backup and Recovery Based on XID](https://dev.to/congcong/gbase-8c-backup-and-recovery-based-on-xid-538n)
+- [Why Choose Node.js Framework for your projects in 2024?](https://dev.to/megaminds/why-choose-nodejs-framework-for-your-projects-in-2024-nhf)
+- [Profitable Projects Without Direct Sales](https://dev.to/tien_ho/profitable-projects-without-direct-sales-65o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
