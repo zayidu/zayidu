@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Common HTML Myths Busted: What Every Developer Should Know!](https://dev.to/areeb_anwar_813df06ee1124/10-common-html-myths-busted-what-every-developer-should-know-cd7)
-- [Self-service BI 101 for B2B SaaS teams](https://dev.to/mklopets/self-service-bi-101-for-b2b-saas-teams-1i15)
-- [Launch website to public from Raspberry Pi](https://dev.to/kutt27/launch-website-to-public-from-raspberry-pi-2klh)
-- [log2&lpar;&rpar; and log10&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/log2-and-log10-in-pytorch-1b0d)
-- [React Suspense for data fetching](https://dev.to/dunedev/react-suspense-for-data-fetching-36dg)
+- [10 Reasons TypeScript is Transforming How We Build Web Apps](https://dev.to/nilebits/10-reasons-typescript-is-transforming-how-we-build-web-apps-2bmc)
+- [The Ultimate Guide to Data Science](https://dev.to/emmanuel_b/the-ultimate-guide-to-data-science-5728)
+- [A real-life scenario where call, apply, and bind use](https://dev.to/sugrivlodhi/a-real-life-scenario-where-call-apply-and-bind-use-4525)
+- [Reference Counting vs Tracing Garbage Collection](https://dev.to/devxbr/reference-counting-vs-tracing-garbage-collection-51ac)
+- [Angular @let declarations: Smart Template Subscriptions](https://dev.to/this-is-angular/angular-let-declarations-smart-template-subscriptions-4d4h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
