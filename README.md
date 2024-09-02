@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bubble Sort, Selection Sort, Insertion Sort | Data Structures &amp; Algorithms in JavaScript](https://dev.to/gdebojyoti/bubble-sort-selection-sort-insertion-sort-data-structures-algorithms-in-javascript-8ff)
-- [Untitled](https://dev.to/othmane_belalami_21dfee52/untitled-94a)
-- [Untitled](https://dev.to/othmane_belalami_21dfee52/untitled-183h)
-- [The Factory Pattern in C#: Creating Objects the Smart Way](https://dev.to/dazevedo/the-factory-pattern-in-c-creating-objects-the-smart-way-29g1)
-- [Entendendo a Inteligência Artificial: Definição, Funcionamento e Exemplos Práticos](https://dev.to/albericojr/entendendo-a-inteligencia-artificial-definicao-funcionamento-e-exemplos-praticos-3m5k)
+- [searchkick resource_already_exists_exception](https://dev.to/ugifractal/searchkick-resourcealreadyexistsexception-2jb2)
+- [Cursor Pagination Example](https://dev.to/antusystem/cursor-pagination-example-3ldg)
+- [Taking LLMs to &lpar;code&rpar; town: parsing robots.txt featuring RFC 9309](https://dev.to/sebs/taking-llms-to-code-town-parsing-robotstxt-featuring-rfc-9309-3g64)
+- [20 Rules to Optimize PHP for High-Traffic Websites](https://dev.to/mdarifulhaque/20-rules-to-optimize-php-for-high-traffic-websites-2728)
+- [RabbitMQ container with Docker Compose](https://dev.to/zsevic/rabbitmq-container-with-docker-compose-4n8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
