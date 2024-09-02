@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NextJS Authentication Boilerplate from &quot;scratch&quot;](https://dev.to/lovefrom/nextjs-authentication-boilerplate-9h2)
-- [Part 3/3: How to Implement Refresh Tokens through Http-Only Cookie in NestJS and React](https://dev.to/zenstok/part-33-how-to-implement-refresh-tokens-through-http-only-cookie-in-nestjs-and-react-265e)
-- [Building SmartInbox: My Nylas Journey](https://dev.to/spruceemma/building-smartinbox-my-nylas-journey-34nm)
-- [Optimizing Performance in React Native App](https://dev.to/pagepro_agency/optimizing-performance-in-react-native-app-3d67)
-- [Flask Neon Kit: The extension which automatically generates CRUD endpoints](https://dev.to/valentinesean22/flask-neon-kit-the-extension-which-automatically-generates-crud-endpoints-7oi)
+- [Mastering IAM in AWS: A Guide to Secure Cloud Access Management](https://dev.to/hammad_khan_efaf55b5cc7b7/mastering-iam-in-aws-a-guide-to-secure-cloud-access-management-41l8)
+- [The Future of Networking: 5G and Beyond](https://dev.to/rasika_dhanokar_5eebc5ec5/the-future-of-networking-5g-and-beyond-43c5)
+- [LLMs Mimic Social Networks But Overestimate Political Homophily, Study Finds](https://dev.to/mikeyoung44/llms-mimic-social-networks-but-overestimate-political-homophily-study-finds-33gf)
+- [Create Repeating Google Calendar Event for Last Working Day of Month](https://dev.to/anuarshaidenov/create-repeating-google-calendar-event-for-last-working-day-of-month-31g4)
+- [current index](https://dev.to/__040711563a17902392e7/current-index-kh6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
