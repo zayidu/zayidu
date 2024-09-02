@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build AI Chat Apps in Minutes: Unleashing the Power of NeonChat Starter Kit](https://dev.to/jeremiahjacinth13/build-ai-chat-apps-in-minutes-unleashing-the-power-of-neonchat-starter-kit-3ip9)
-- [#55 — Remove Duplicate Rows](https://dev.to/judith677/55-remove-duplicate-rows-4dm2)
-- [moment的使用](https://dev.to/dennischeung/momentde-shi-yong-4586)
-- [My first VSCode plugin for syntax conversion of import statements](https://dev.to/feiye/my-first-vscode-plugin-for-syntax-conversion-of-import-statements-2j0p)
-- [Build a FAQ Accordion Website](https://dev.to/abhishekgurjar/build-a-faq-accordion-website-2mce)
+- [Highlights from Laracon US 2024 Keynote](https://dev.to/arafatweb/highlights-from-laracon-us-2024-keynote-110a)
+- [Developing My First ML Workflow: A Journey into Machine Learning on SageMaker](https://dev.to/official_tochy/developing-my-first-ml-workflow-a-journey-into-machine-learning-on-sagemaker-3fj2)
+- [Building My First Machine Learning Workflow: The Journey of &quot;Scones Unlimited&quot;](https://dev.to/official_tochy/building-my-first-machine-learning-workflow-the-journey-of-scones-unlimited-3nfk)
+- [Snowflake Grants : Read only](https://dev.to/digitalchemist/snowflake-grants-read-only-2flh)
+- [Building Recurring Task Feature with React, TypeScript, and Node.js](https://dev.to/radzion/building-recurring-task-feature-with-react-typescript-and-nodejs-5fc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
