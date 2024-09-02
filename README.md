@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nylas AI and Communications Challenge: Nylas and AIOps integration](https://dev.to/davidshaek/nylas-ai-and-communications-challenge-nylas-and-aiops-integration-17an)
-- [Nylas AI and Communications Challenge: Nylas and AIOps integration](https://dev.to/davidshaek/nylas-ai-and-communications-challenge-nylas-and-aiops-integration-59b4)
-- [The Singleton Pattern in C#: Why It’s a Classic Choice](https://dev.to/dazevedo/the-singleton-pattern-in-c-why-its-a-classic-choice-4cfl)
-- [Implementing a Visitor Counter on Azure Resume Challenge](https://dev.to/oluwatobi2001/implementing-a-visitor-counter-on-azure-resume-challenge-2i63)
-- [LocalStorage, SessionStorage e Cookies: Como funcionam e quando usar cada um](https://dev.to/gguife/localstorage-sessionstorage-e-cookies-como-funcionam-e-quando-utiliza-los-51fp)
+- [Build AI Chat Apps in Minutes: Unleashing the Power of NeonChat Starter Kit](https://dev.to/jeremiahjacinth13/build-ai-chat-apps-in-minutes-unleashing-the-power-of-neonchat-starter-kit-3ip9)
+- [#55 — Remove Duplicate Rows](https://dev.to/judith677/55-remove-duplicate-rows-4dm2)
+- [moment的使用](https://dev.to/dennischeung/momentde-shi-yong-4586)
+- [My first VSCode plugin for syntax conversion of import statements](https://dev.to/feiye/my-first-vscode-plugin-for-syntax-conversion-of-import-statements-2j0p)
+- [Build a FAQ Accordion Website](https://dev.to/abhishekgurjar/build-a-faq-accordion-website-2mce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
