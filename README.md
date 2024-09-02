@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Ruby versions on macOS Apple Silicon with rbenv](https://dev.to/sarahcssiqueira/managing-ruby-versions-on-macos-apple-silicon-with-rbenv-1mon)
-- [Enhancing Frontend Security: Protecting Your Applications from Modern Threats](https://dev.to/alexroor4/enhancing-frontend-security-protecting-your-applications-from-modern-threats-5dhd)
-- [Exploring Text Similarity with OpenAIEmbeddings and Dot Products in Python](https://dev.to/sreeni5018/exploring-text-similarity-with-openaiembeddings-and-dot-products-in-python-3h68)
-- [Unlocking the Power of Linux: Essential Command Line Skills from Linux Basics for Hackers](https://dev.to/tan1193/unlocking-the-power-of-linux-essential-command-line-skills-from-linux-basics-for-hackers-3jn9)
-- [Swiftide 0.9, a Rust native library for building LLM applications with RAG, brings Fluvio, Lancedb and Ragas support](https://dev.to/timonv/swiftide-09-a-rust-native-library-for-building-llm-applications-with-rag-brings-fluvio-lancedb-and-ragas-support-3ai6)
+- [Building a D&amp;D 5e Character Generator: A Journey Through SQL and RPG Complexity](https://dev.to/paulama3/building-a-dd-5e-character-generator-a-journey-through-sql-and-rpg-complexity-4pb7)
+- [Part 1 - Gathering PM values from the sensor, pushing and saving them to the cloud storage &lpar;TCH&rpar;](https://dev.to/fabio_beoni/part-1-gathering-pm-values-from-the-sensor-pushing-and-saving-them-to-the-cloud-storage-tch-2l99)
+- [Generics in C# with Practical Examples](https://dev.to/azizularif/generics-in-c-with-practical-examples-odf)
+- [What are your goals for week 36?](https://dev.to/jarvisscript/what-are-your-goals-for-week-36-fnf)
+- [INTRODUCTION TO S3](https://dev.to/purpledame/introduction-to-s3-3c04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
