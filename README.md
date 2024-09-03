@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Second Iteration: Your Key to Finally Writing Excellent Code](https://dev.to/juleswritescode/the-second-iteration-your-key-to-finally-writing-excellent-code-2b9j)
-- [Understanding Type Conversion in Programming: Key Points You Need to Know](https://dev.to/areeb_anwar_813df06ee1124/understanding-type-conversion-in-programming-key-points-you-need-to-know-2o35)
-- [Top 5 Django Rest Framework Features Every Developer Should Know](https://dev.to/apilover/top-5-django-rest-framework-features-every-developer-should-know-3f3d)
-- [How SafeLine&#39;s Dynamic Protection Safeguards Your Website](https://dev.to/lulu_liu_c90f973e2f954d7f/how-safelines-dynamic-protection-safeguards-your-website-5102)
-- [Top Face Recognition SDKs in 2024](https://dev.to/luxandcloud/top-face-recognition-sdks-in-2024-5a6a)
+- [How to Grow Your Open Source Project: 11 Tips and Examples 🎯🎁⚡](https://dev.to/opire/how-to-grow-your-open-source-project-11-tips-and-examples-7ac)
+- [เขียน Go ให้เรียบง่าย บางทีก็ยาก](https://dev.to/pallat/ekhiiyn-go-aiheriiybngaay-baangthiikyaak-2gh5)
+- [Understanding HTTP Status Codes 400 vs. 500 Errors in APIs](https://dev.to/msnmongare/understanding-http-status-codes-400-vs-500-errors-in-apis-209i)
+- [CSS va uning versiyalari.](https://dev.to/miss_code_creaker/css-va-uning-versiyalari-167m)
+- [Guide to Adding Plugins to Apache Answer](https://dev.to/apacheanswer/guide-to-adding-plugins-to-apache-answer-39k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
