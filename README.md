@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Neural Network to Classify Images](https://dev.to/abhinowww/how-to-build-a-neural-network-to-classify-images-1oll)
-- [Learning Roadmap for Generative AI](https://dev.to/shivam_shankhdhar/learning-roadmap-for-generative-ai-ib5)
-- [Tìm Hiểu Về RAG: Công Nghệ Đột Phá Đang &quot;Làm Mưa Làm Gió&quot; Trong Thế Giới Chatbot](https://dev.to/dtruong46me/tim-hieu-ve-rag-cong-nghe-dot-pha-dang-lam-mua-lam-gio-trong-the-gioi-chatbot-nl7)
-- [Dive into the Fascinating World of Game Theory and Mechanism Design 🎮](https://dev.to/getvm/dive-into-the-fascinating-world-of-game-theory-and-mechanism-design-3mik)
-- [The Ultimate Guide: 15 Best Continuous Testing Tools in 2024](https://dev.to/misterankit/the-ultimate-guide-15-best-continuous-testing-tools-in-2024-fih)
+- [What Do You Need for Scraping Amazon?](https://dev.to/toniaread/what-do-you-need-for-scraping-amazon-2aja)
+- [Build a Abhi ki News Website](https://dev.to/abhishekgurjar/build-a-abhi-ki-news-website-3eei)
+- [Seeking Feedback on Kops.dev: Our Journey to Simplify Cloud Infrastructure](https://dev.to/deepkops/seeking-feedback-on-kopsdev-our-journey-to-simplify-cloud-infrastructure-1kif)
+- [Indian Flag](https://dev.to/iamyathz/indian-flag-578f)
+- [Payment Passkeys @ Mastercard: Revolution for Payment Security](https://dev.to/corbado/payment-passkeys-mastercard-revolution-for-payment-security-2ckl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
