@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Seal the Exits: Rethinking the If/Else Statement](https://dev.to/agustus_gloop/seal-the-exits-rethinking-the-ifelse-statement-383l)
-- [Creating a Shooting Star Border Animation with Tailwind CSS](https://dev.to/rawjson/creating-a-shooting-star-border-animation-with-tailwind-css-1hf7)
-- [Does React need Code Review or QA?](https://dev.to/nilanth/does-react-need-code-review-or-qa-14m0)
-- [RabbitMQ vs. Kafka: Which One to Choose for Your Event-Driven Architecture?](https://dev.to/guilhermesiqueira/rabbitmq-vs-kafka-which-one-to-choose-for-your-event-driven-architecture-3enm)
-- [Sem V MYSQL Practical 6](https://dev.to/devabdul/sem-v-mysql-practical-6-715)
+- [🚀 Setting Up Your React Native Development Environment](https://dev.to/uicraft_by_pratik/setting-up-your-react-native-development-environment-3g97)
+- [Submitting form data to a Google Sheet from a React App](https://dev.to/miracool/submitting-form-data-to-a-google-sheet-from-a-react-app-3o83)
+- [Princípio da Responsabilidade Única e as implicações na Orientação a Objetos e Arquitetura de Software](https://dev.to/victorlima142/principio-da-responsabilidade-unica-e-as-implicacoes-na-orientacao-a-objetos-e-arquitetura-de-software-5ah3)
+- [Top 11 Open Source Internal Tools with the Most GitHub Stars](https://dev.to/nocobase/top-11-open-source-internal-tools-with-the-most-github-stars-1dl5)
+- [Day 5](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-5-2d4p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
