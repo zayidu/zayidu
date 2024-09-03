@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Advanced React: Strategies for Efficient Rendering and Re-Rendering](https://dev.to/marwenshili/mastering-advanced-react-strategies-for-efficient-rendering-and-re-rendering-390p)
-- [Building React Native for Windows Apps from a Mac: VM Options](https://dev.to/shyam1/building-react-native-for-windows-apps-from-a-mac-vm-options-47e9)
-- [GitHub Copilot Extensions for C++ and More Now Available in VS Code](https://dev.to/shyam1/github-copilot-extensions-for-c-and-more-now-available-in-vs-code-419i)
-- [Day 01: What is React?](https://dev.to/boryanamk/day-01-what-is-react-3mgg)
-- [Master Python Turtle Graphics](https://dev.to/danieljames/master-python-turtle-graphics-1l8b)
+- [Seal the Exits: Rethinking the If/Else Statement](https://dev.to/agustus_gloop/seal-the-exits-rethinking-the-ifelse-statement-383l)
+- [Creating a Shooting Star Border Animation with Tailwind CSS](https://dev.to/rawjson/creating-a-shooting-star-border-animation-with-tailwind-css-1hf7)
+- [Does React need Code Review or QA?](https://dev.to/nilanth/does-react-need-code-review-or-qa-14m0)
+- [RabbitMQ vs. Kafka: Which One to Choose for Your Event-Driven Architecture?](https://dev.to/guilhermesiqueira/rabbitmq-vs-kafka-which-one-to-choose-for-your-event-driven-architecture-3enm)
+- [Sem V MYSQL Practical 6](https://dev.to/devabdul/sem-v-mysql-practical-6-715)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
