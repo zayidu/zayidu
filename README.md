@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Load Images Faster in Laravel and JavaScript](https://dev.to/rafaelogic/load-images-faster-in-laravel-and-javascript-3a0b)
-- [10x Developer Puzzle, Solved!!!](https://dev.to/andyobtiva/10x-developer-puzzle-solved-3ceh)
-- [The Birth of Linux: A Journey from Minix to the Open-Source Revolution](https://dev.to/romanburdiuzha/the-birth-of-linux-a-journey-from-minix-to-the-open-source-revolution-3meo)
-- [Day 22: Securing AWS Environments with IAM – Best Practices and Implementation](https://dev.to/singh_in_cloud/day-22-securing-aws-environments-with-iam-best-practices-and-implementation-451j)
-- [How We Build User Search at Outside: A Case Study in Database Indexing](https://dev.to/sloekito/how-we-build-user-search-at-outside-a-case-study-in-database-indexing-35f7)
+- [Static Website Hosting Using S3 Bucket](https://dev.to/clintt/static-website-hosting-using-s3bucket-2ee)
+- [Mastering JavaScript Arrays: Techniques, Best Practices, and Advanced Uses](https://dev.to/engrsakib/mastering-javascript-arrays-techniques-best-practices-and-advanced-uses-42mb)
+- [Create a Complete AI Development Environment in Less Than a Minute with Docker Compose.](https://dev.to/bygregonline/create-a-complete-ai-development-environment-in-less-than-a-minute-with-docker-compose-3386)
+- [Modern mining pools: Overview for beginners and experienced miners](https://dev.to/david_tevzadze_/modern-mining-pools-overview-for-beginners-and-experienced-miners-50if)
+- [The new wave: Top 10 emerging .NET content creators](https://dev.to/uno-platform/the-new-wave-top-10-emerging-net-content-creators-28k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
