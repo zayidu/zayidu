@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Setting Up Your React Native Development Environment](https://dev.to/uicraft_by_pratik/setting-up-your-react-native-development-environment-3g97)
-- [Submitting form data to a Google Sheet from a React App](https://dev.to/miracool/submitting-form-data-to-a-google-sheet-from-a-react-app-3o83)
-- [Princípio da Responsabilidade Única e as implicações na Orientação a Objetos e Arquitetura de Software](https://dev.to/victorlima142/principio-da-responsabilidade-unica-e-as-implicacoes-na-orientacao-a-objetos-e-arquitetura-de-software-5ah3)
-- [Top 11 Open Source Internal Tools with the Most GitHub Stars](https://dev.to/nocobase/top-11-open-source-internal-tools-with-the-most-github-stars-1dl5)
-- [Day 5](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-5-2d4p)
+- [Riva - Tailwind CSS Dashboard Template Builder](https://dev.to/rarestoma/riva-tailwind-css-dashboard-template-builder-2464)
+- [Secure Data Stack: Navigating Adoption Challenges of Data Encryption](https://dev.to/jarrid/secure-data-stack-navigating-adoption-challenges-of-data-encryption-2djk)
+- [AIM Weekly 02 September 2024](https://dev.to/tspannhw/aim-weekly-02-september-2024-5doj)
+- [Flutter ListTile](https://dev.to/aadarshk7/flutter-listtile-2c01)
+- [One of the most annoying little things that can happen in development...](https://dev.to/taliastorymaker/one-of-the-most-annoying-little-things-that-can-happen-in-development-fn4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
