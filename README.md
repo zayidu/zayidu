@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Tailwind CSS: Overcome Styling Conflicts with Tailwind Merge and clsx](https://dev.to/sheraz4194/mastering-tailwind-css-overcome-styling-conflicts-with-tailwind-merge-and-clsx-1dol)
-- [Building a Clean and Flexible Pricing Grid with Flexbox: Lessons from Wes Bos&#39; Course](https://dev.to/divineisnotakid/building-a-clean-and-flexible-pricing-grid-with-flexbox-lessons-from-wes-bos-course-2eo6)
-- [DDIA Chapter 2 Summary](https://dev.to/dleedev365/ddia-chapter-2-summary-2h5c)
-- [Decimal numbers with trailing zeros and handling raw body data in Node.js](https://dev.to/__alannorman/decimal-numbers-with-trailing-zeros-and-handling-raw-body-data-in-nodejs-2ajn)
-- [Shopify Liquid REPL with API &amp; JSON](https://dev.to/prashant-ardeshana/shopify-liquid-repl-with-api-json-2g49)
+- [Load Images Faster in Laravel and JavaScript](https://dev.to/rafaelogic/load-images-faster-in-laravel-and-javascript-3a0b)
+- [10x Developer Puzzle, Solved!!!](https://dev.to/andyobtiva/10x-developer-puzzle-solved-3ceh)
+- [The Birth of Linux: A Journey from Minix to the Open-Source Revolution](https://dev.to/romanburdiuzha/the-birth-of-linux-a-journey-from-minix-to-the-open-source-revolution-3meo)
+- [Day 22: Securing AWS Environments with IAM – Best Practices and Implementation](https://dev.to/singh_in_cloud/day-22-securing-aws-environments-with-iam-best-practices-and-implementation-451j)
+- [How We Build User Search at Outside: A Case Study in Database Indexing](https://dev.to/sloekito/how-we-build-user-search-at-outside-a-case-study-in-database-indexing-35f7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
