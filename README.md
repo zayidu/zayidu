@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Machine Learning with Keras](https://dev.to/kartikmehta8/introduction-to-machine-learning-with-keras-5fii)
-- [Pergunte ao especialista - classe aninhada static](https://dev.to/devsjavagirls/pergunte-ao-especialista-classe-aninhada-static-e7c)
-- [Varargs e ambiguidade](https://dev.to/devsjavagirls/varargs-e-ambiguidade-og5)
-- [Training A Public FLUX Style LoRA — All Process Will Be Shared](https://dev.to/furkangozukara/training-a-public-flux-style-lora-all-process-will-be-shared-3d44)
-- [Sobrecarregando métodos varargs](https://dev.to/devsjavagirls/sobrecarregando-metodos-varargs-fda)
+- [Datatype in python](https://dev.to/avinash_mathi_483b018e36b/datatype-in-python-h83)
+- [Today&#39;s Trending Projects: Optimizing Gradient Descent for Global Optimization and More](https://dev.to/labex/todays-trending-projects-optimizing-gradient-descent-for-global-optimization-and-more-5hb)
+- [Azure Cloud - A Comprehensive Suite for Modern Development : Day 37 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/azure-cloud-a-comprehensive-suite-for-modern-development-day-37-of-50-days-devops-tools-series-nn2)
+- [Deploying an application to Amazon Elastic Kubernetes Service](https://dev.to/rishav_paul/deploying-an-application-to-amazon-eks-id7)
+- [Differences Between `var`, `let`, and `const` in JavaScript: A Simple Explanation](https://dev.to/ang-costa-neto/differences-between-var-let-and-const-in-javascript-a-simple-explanation-3b59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
