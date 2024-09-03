@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ACID in Postgres](https://dev.to/jacktt/acid-in-postgres-6h8)
-- [E-Book Share Using Next.js 14, Prisma, TailwindCSS &amp; Next Auth 🤩](https://dev.to/saidmou/e-book-share-using-nextjs-14-prisma-tailwindcss-next-auth-53ff)
-- [CAP Theorem](https://dev.to/aniket-blogs/cap-theorem-5n5)
-- [REST CRUD API](https://dev.to/nhungnguyen04/rest-crud-api-gao)
-- [Introducing Duwa a Chichewa Programming Language](https://dev.to/sevenreup/introducing-duwa-a-chichewa-programming-language-126k)
+- [The Second Iteration: Your Key to Finally Writing Excellent Code](https://dev.to/juleswritescode/the-second-iteration-your-key-to-finally-writing-excellent-code-2b9j)
+- [Understanding Type Conversion in Programming: Key Points You Need to Know](https://dev.to/areeb_anwar_813df06ee1124/understanding-type-conversion-in-programming-key-points-you-need-to-know-2o35)
+- [Top 5 Django Rest Framework Features Every Developer Should Know](https://dev.to/apilover/top-5-django-rest-framework-features-every-developer-should-know-3f3d)
+- [How SafeLine&#39;s Dynamic Protection Safeguards Your Website](https://dev.to/lulu_liu_c90f973e2f954d7f/how-safelines-dynamic-protection-safeguards-your-website-5102)
+- [Top Face Recognition SDKs in 2024](https://dev.to/luxandcloud/top-face-recognition-sdks-in-2024-5a6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
