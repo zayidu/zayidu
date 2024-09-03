@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Grow Your Open Source Project: 11 Tips and Examples 🎯🎁⚡](https://dev.to/opire/how-to-grow-your-open-source-project-11-tips-and-examples-7ac)
-- [เขียน Go ให้เรียบง่าย บางทีก็ยาก](https://dev.to/pallat/ekhiiyn-go-aiheriiybngaay-baangthiikyaak-2gh5)
-- [Understanding HTTP Status Codes 400 vs. 500 Errors in APIs](https://dev.to/msnmongare/understanding-http-status-codes-400-vs-500-errors-in-apis-209i)
-- [CSS va uning versiyalari.](https://dev.to/miss_code_creaker/css-va-uning-versiyalari-167m)
-- [Guide to Adding Plugins to Apache Answer](https://dev.to/apacheanswer/guide-to-adding-plugins-to-apache-answer-39k3)
+- [Secure Coding - Prevention Over Correction.](https://dev.to/nedsoft/secure-coding-prevention-over-correction-4cag)
+- [How to build a Hybrid Search System for RAG?](https://dev.to/hakeem/how-to-build-a-hybrid-search-system-for-rag-4l0i)
+- [How to Build a Basic Chatbot Using TensorFlow and JavaScript](https://dev.to/jideabdqudus/how-to-build-a-basic-chatbot-using-tensorflow-and-javascript-4f9j)
+- [EcoAct releases ecodev-app!](https://dev.to/tepelbaum/ecoact-releases-ecodev-app-18ai)
+- [Flask migration error](https://dev.to/jasper_chris_474ce2fc4c00/flask-migration-error-57hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
