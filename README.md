@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Datatype in python](https://dev.to/avinash_mathi_483b018e36b/datatype-in-python-h83)
-- [Today&#39;s Trending Projects: Optimizing Gradient Descent for Global Optimization and More](https://dev.to/labex/todays-trending-projects-optimizing-gradient-descent-for-global-optimization-and-more-5hb)
-- [Azure Cloud - A Comprehensive Suite for Modern Development : Day 37 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/azure-cloud-a-comprehensive-suite-for-modern-development-day-37-of-50-days-devops-tools-series-nn2)
-- [Deploying an application to Amazon Elastic Kubernetes Service](https://dev.to/rishav_paul/deploying-an-application-to-amazon-eks-id7)
-- [Differences Between `var`, `let`, and `const` in JavaScript: A Simple Explanation](https://dev.to/ang-costa-neto/differences-between-var-let-and-const-in-javascript-a-simple-explanation-3b59)
+- [gpt](https://dev.to/__040711563a17902392e7/gpt-2jgg)
+- [gpt](https://dev.to/__040711563a17902392e7/gpt-2ee2)
+- [How To Create A Telegram Bot In 6 Easy Steps](https://dev.to/dev_olatunji/how-to-create-a-telegram-bot-in-6-easy-steps-4ng9)
+- [Introduction to Control Flow Functions in GBase 8a MPP Cluster](https://dev.to/congcong/introduction-to-control-flow-functions-in-gbase-8a-mpp-cluster-1j36)
+- [Setting and getting clipboard content from terminal](https://dev.to/tallesl/setting-and-getting-clipboard-content-from-terminal-169d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
