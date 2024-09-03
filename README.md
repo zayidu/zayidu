@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Static Website Hosting Using S3 Bucket](https://dev.to/clintt/static-website-hosting-using-s3bucket-2ee)
-- [Mastering JavaScript Arrays: Techniques, Best Practices, and Advanced Uses](https://dev.to/engrsakib/mastering-javascript-arrays-techniques-best-practices-and-advanced-uses-42mb)
-- [Create a Complete AI Development Environment in Less Than a Minute with Docker Compose.](https://dev.to/bygregonline/create-a-complete-ai-development-environment-in-less-than-a-minute-with-docker-compose-3386)
-- [Modern mining pools: Overview for beginners and experienced miners](https://dev.to/david_tevzadze_/modern-mining-pools-overview-for-beginners-and-experienced-miners-50if)
-- [The new wave: Top 10 emerging .NET content creators](https://dev.to/uno-platform/the-new-wave-top-10-emerging-net-content-creators-28k3)
+- [🚀 Releases Seguros y Mantenimiento Proactivo con Cypress.io](https://dev.to/mentatech/releases-seguros-y-mantenimiento-proactivo-con-cypressio-45kn)
+- [The Ultimate Guide to Becoming a Full-Stack Developer](https://dev.to/jahswill_jacob_/the-ultimate-guide-to-becoming-a-full-stack-developer-30en)
+- [100 days of Miva: Day 15](https://dev.to/abdul_web/100-days-of-miva-day-15-46o4)
+- [Avis sur idée site web](https://dev.to/jshtopy/avis-sur-idee-site-web-ap6)
+- [Load Balancer vs. API Gateway: Understanding the Differences](https://dev.to/wallacefreitas/load-balancer-vs-api-gateway-understanding-the-differences-g74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
