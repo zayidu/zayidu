@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 11:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-11-4bm9)
-- [Understanding the Abstract Factory Pattern: A Simple Guide🏭✨](https://dev.to/hossamgouda/understanding-the-abstract-factory-pattern-a-simple-guide-57ik)
-- [Day 10:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-10-52da)
-- [Day 9:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-9-1j2g)
-- [Day 8:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-8-2ld9)
+- [Mastering Tailwind CSS: Overcome Styling Conflicts with Tailwind Merge and clsx](https://dev.to/sheraz4194/mastering-tailwind-css-overcome-styling-conflicts-with-tailwind-merge-and-clsx-1dol)
+- [Building a Clean and Flexible Pricing Grid with Flexbox: Lessons from Wes Bos&#39; Course](https://dev.to/divineisnotakid/building-a-clean-and-flexible-pricing-grid-with-flexbox-lessons-from-wes-bos-course-2eo6)
+- [DDIA Chapter 2 Summary](https://dev.to/dleedev365/ddia-chapter-2-summary-2h5c)
+- [Decimal numbers with trailing zeros and handling raw body data in Node.js](https://dev.to/__alannorman/decimal-numbers-with-trailing-zeros-and-handling-raw-body-data-in-nodejs-2ajn)
+- [Shopify Liquid REPL with API &amp; JSON](https://dev.to/prashant-ardeshana/shopify-liquid-repl-with-api-json-2g49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
