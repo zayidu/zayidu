@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Releases Seguros y Mantenimiento Proactivo con Cypress.io](https://dev.to/mentatech/releases-seguros-y-mantenimiento-proactivo-con-cypressio-45kn)
-- [The Ultimate Guide to Becoming a Full-Stack Developer](https://dev.to/jahswill_jacob_/the-ultimate-guide-to-becoming-a-full-stack-developer-30en)
-- [100 days of Miva: Day 15](https://dev.to/abdul_web/100-days-of-miva-day-15-46o4)
-- [Avis sur idée site web](https://dev.to/jshtopy/avis-sur-idee-site-web-ap6)
-- [Load Balancer vs. API Gateway: Understanding the Differences](https://dev.to/wallacefreitas/load-balancer-vs-api-gateway-understanding-the-differences-g74)
+- [Exploring the Aptos Ecosystem: Empowering Developers with Layer-1 Blockchain and Spheron’s Decentralized Infrastructure](https://dev.to/saur_abhh31/exploring-the-aptos-ecosystem-empowering-developers-with-layer-1-blockchain-and-spherons-decentralized-infrastructure-23h8)
+- [Shiny: Interactive Web Applications in R](https://dev.to/elvismamani/shiny-interactive-web-applications-in-r-239b)
+- [Controlando la tasa de errores de nuestros frontends con Datadog RUM](https://dev.to/mentatech/controlando-la-tasa-de-errores-de-nuestros-frontends-con-datadog-rum-4k83)
+- [REspec Estrutura de Teste em Ruby on Rails](https://dev.to/rochaisadora/respec-estrutura-de-teste-em-ruby-on-rails-3jce)
+- [Day 64 / 100 Days of Code:](https://dev.to/jacobsternx/day-64-100-days-of-code-1haa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
