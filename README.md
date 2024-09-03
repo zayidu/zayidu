@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [searchkick resource_already_exists_exception](https://dev.to/ugifractal/searchkick-resourcealreadyexistsexception-2jb2)
-- [Cursor Pagination Example](https://dev.to/antusystem/cursor-pagination-example-3ldg)
-- [Taking LLMs to &lpar;code&rpar; town: parsing robots.txt featuring RFC 9309](https://dev.to/sebs/taking-llms-to-code-town-parsing-robotstxt-featuring-rfc-9309-3g64)
-- [20 Rules to Optimize PHP for High-Traffic Websites](https://dev.to/mdarifulhaque/20-rules-to-optimize-php-for-high-traffic-websites-2728)
-- [RabbitMQ container with Docker Compose](https://dev.to/zsevic/rabbitmq-container-with-docker-compose-4n8i)
+- [Introduction to Machine Learning with Keras](https://dev.to/kartikmehta8/introduction-to-machine-learning-with-keras-5fii)
+- [Pergunte ao especialista - classe aninhada static](https://dev.to/devsjavagirls/pergunte-ao-especialista-classe-aninhada-static-e7c)
+- [Varargs e ambiguidade](https://dev.to/devsjavagirls/varargs-e-ambiguidade-og5)
+- [Training A Public FLUX Style LoRA — All Process Will Be Shared](https://dev.to/furkangozukara/training-a-public-flux-style-lora-all-process-will-be-shared-3d44)
+- [Sobrecarregando métodos varargs](https://dev.to/devsjavagirls/sobrecarregando-metodos-varargs-fda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
