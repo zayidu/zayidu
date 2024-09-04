@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Future Trends and Innovations in Developer Community Building](https://dev.to/swati1267/future-trends-and-innovations-in-developer-community-building-1gbf)
-- [Top Game Testing Tools Improving Game Performance](https://dev.to/misterankit/top-game-testing-tools-improving-game-performance-38jh)
-- [Explore the Future of Martropolis with Hadoop and Hive](https://dev.to/labex/explore-the-future-of-martropolis-with-hadoop-and-hive-49fl)
-- [Use minio as an external object storage with Gitlab](https://dev.to/adoucoure/use-minio-as-an-external-object-storage-with-gitlab-foi)
-- [CBJS: Command Injection 4in1 level 4](https://dev.to/peppa6/cbjs-command-injection-4in1-level-4-50fj)
+- [Conditions &lpar;If-else-elif&rpar; Part-08](https://dev.to/monirulislam027/conditions-if-else-elif-part-08-3noh)
+- [Next.js Middleware: Simple Guide to Control Requests](https://dev.to/codeparrot/nextjs-middleware-simple-guide-to-control-requests-554p)
+- [A Developer&#39;s Guide to Urban Tech Trends](https://dev.to/patoliyainfotech/a-developers-guide-to-urban-tech-trends-3lgk)
+- [JWTs Explained: Benefits and Drawbacks for Developers](https://dev.to/janith536/jwts-explained-benefits-and-drawbacks-for-developers-3m3l)
+- [Whatsapp Style chat blog HTML CSS js](https://dev.to/babar_ali/whatsapp-style-chat-blog-html-css-js-40j5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
