@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DESIGN PATTERNS : A Deep Dive into Common Design Patterns](https://dev.to/niharikaa/design-patterns-a-deep-dive-into-common-design-patterns-31b9)
-- [Building a Keylogger and Chrome Password and History Extractor That Runs Every 3 Hours, Disguised as a Calculator App](https://dev.to/paulwababu/building-a-keylogger-and-chrome-password-and-history-extractor-that-runs-every-3-hours-disguised-as-a-calculator-app-4bk4)
-- [A Heartfelt Thank You to Everyone Who Supported My DevOps and Cloud Journey on dev.to! 🎉](https://dev.to/prodevopsguytech/a-heartfelt-thank-you-to-everyone-who-supported-my-devops-and-cloud-journey-on-devto-77m)
-- [Guía Rápida: Levantar HashiCorp Vault en Docker y Acceder a Secretos desde una Aplicación Python](https://dev.to/francotel/guia-rapida-levantar-hashicorp-vault-en-docker-y-acceder-a-secretos-desde-una-aplicacion-python-4jgg)
-- [LabEx Trending: Creating the Solar System in OpenGL and More](https://dev.to/labex/labex-trending-creating-the-solar-system-in-opengl-and-more-5g74)
+- [How to deploy a node server in EC2](https://dev.to/thecoollearner/how-to-deploy-a-node-server-in-ec2-14hp)
+- [Token optimization: The backbone of effective prompt engineering](https://dev.to/ibmdeveloper/token-optimization-the-backbone-of-effective-prompt-engineering-5fla)
+- [What are Optimism Fault proofs?](https://dev.to/modenetworkl2/what-is-optimism-faultproofs-db7)
+- [Discover Exciting Updates in Spring Boot 3: Performance, Security, and More](https://dev.to/snapnews-local/discover-exciting-updates-in-spring-boot-3-performance-security-and-more-4p82)
+- [Securing Core Banking Applications on AWS: Best Practices for Protecting Sensitive Financial Data](https://dev.to/ikoh_sylva/securing-core-banking-applications-on-aws-best-practices-for-protecting-sensitive-financial-data-2d9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
