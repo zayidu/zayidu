@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [874. Walking Robot Simulation](https://dev.to/mdarifulhaque/874-walking-robot-simulation-301g)
-- [CSS Transitions and Animations](https://dev.to/ridoy_hasan/css-transitions-and-animations-50b6)
-- [API Design for Data-Driven Websites](https://dev.to/peymaan_abedinpour/api-design-for-data-driven-websites-2aaj)
-- [How to install Nginx on Mac](https://dev.to/deepcodr/how-to-install-nginx-on-mac-157i)
-- [Experimenting with AJAX and APIs: A Comprehensive Guide for Beginners](https://dev.to/peymaan_abedinpour/experimenting-with-ajax-and-apis-a-comprehensive-guide-for-beginners-3g3i)
+- [Unraveling the Complexities of Amazon SQS Quotas: What You Need to Know](https://dev.to/quiver/unraveling-the-complexities-of-amazon-sqs-quotas-what-you-need-to-know-565b)
+- [Construyendo Microfrontends Escalables y Mantenibles con Turborepo 🚀](https://dev.to/mentatech/construyendo-microfrontends-escalables-y-mantenibles-con-turborepo-1pba)
+- [Route53 With Application Loadbalancer](https://dev.to/clintt/route53-with-applicationloadbalancer-5be3)
+- [AI Tools That Can Make Your Life as a Web Developer SO Much Easier 😊!](https://dev.to/respect17/ai-tools-that-can-make-your-life-as-a-web-developer-so-much-easier--1aia)
+- [Transactions in MongoDB](https://dev.to/sasun_davtyan_97386910907/transactions-in-mongodb-2iaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
