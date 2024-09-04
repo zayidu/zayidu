@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Detect VPNs with JavaScript](https://dev.to/ohwow/how-to-detect-vpns-with-javascript-4aj3)
-- [Modules 2/2](https://dev.to/mahf001/iife-module-pattern-commonjs-5gkd)
-- [Microsoft Power platform tools and services](https://dev.to/seenakhan/microsoft-power-platform-tools-and-services-589j)
-- [How to Become an AI Engineer: A Step-by-Step Guide](https://dev.to/ankush_mahore/how-to-become-an-ai-engineer-a-step-by-step-guide-gk3)
-- [Install Oracle Database 19c on Centos using RPM Package](https://dev.to/sammy_cloud/install-oracle-database-19c-on-centos-using-rpm-package-55l)
+- [Setting Up ViewCode Projects for Versions Below iOS 13](https://dev.to/gguedes/setting-up-viewcode-projects-for-versions-below-ios-13-inh)
+- [Master Modal, Tooltips and more with React createPortal](https://dev.to/kada/master-modal-tooltips-and-more-with-react-createportal-2h9o)
+- [A Comprehensive Guide to WooCommerce User Roles: Managing Access and Capabilities in Your Online Store](https://dev.to/stevejacob45678/a-comprehensive-guide-to-woocommerce-user-roles-managing-access-and-capabilities-in-your-online-store-4bl)
+- [js | DOM |](https://dev.to/ranjith_jr_fbf2e375879b08/js-dom--2pn5)
+- [PBAC vs. Zanzibar For User Authorization](https://dev.to/cerbosdev/pbac-vs-zanzibar-for-user-authorization-5h0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
