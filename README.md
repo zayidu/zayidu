@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Art of Front-end Development: Best Practices and Tools](https://dev.to/jahswill_jacob_/mastering-the-art-of-front-end-development-best-practices-and-tools-jmd)
-- [Linux Commands for Beginners](https://dev.to/harshm03/linux-commands-for-beginners-3ncd)
-- [Automate Neon schema changes with Drizzle and GitHub Actions](https://dev.to/clerk/automate-neon-schema-changes-with-drizzle-and-github-actions-1o37)
-- [Build with Me Larachat: the realtime chat package for Laravel](https://dev.to/ramzi-issiakhem/build-with-me-larachat-the-realtime-chat-package-for-laravel-2hon)
-- [Almost 10k Followers!](https://dev.to/travislramos/almost-10k-followers-3hnc)
+- [Mastering Logging and Error Handling backend applications](https://dev.to/shieldstring/mastering-logging-and-error-handling-backend-applications-53pi)
+- [The Future of IoT and Android: What Lies Ahead](https://dev.to/daviekim13/the-future-of-iot-and-android-what-lies-ahead-11dm)
+- [Quantum Computing: What It Means for Mobile App Development](https://dev.to/daviekim13/quantum-computing-what-it-means-for-mobile-app-development-2ha3)
+- [How to Deploy a Full-Stack Application on Vercel &lpar;ReactJS | Vite | NodeJS | TypeScript | Neon | PostgreSQL&rpar;](https://dev.to/stm-akikaze1119/how-to-deploy-a-full-stack-application-on-vercel-reactjs-vite-nodejs-typescript-neon-postgresql-5bnf)
+- [Minimal tips to run isolated code](https://dev.to/slivingston/minimal-tips-to-run-isolated-code-4206)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
