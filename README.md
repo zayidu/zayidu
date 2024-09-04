@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LabEx Trending: Installing and Configuring a Mail Server and More](https://dev.to/labex/labex-trending-installing-and-configuring-a-mail-server-and-more-9bc)
-- [Capture traffic with Golang](https://dev.to/aohorodnyk/capture-traffic-with-golang-2nmo)
-- [Protecting The Web Application From Malicious Traffic And Blocking Unauthorized Access](https://dev.to/vincenthyacienth/protecting-the-web-application-from-malicious-traffic-and-blocking-unauthorized-access-5goj)
-- [apigen-ts – Simple TypeScript API Client Generator](https://dev.to/vladkens/apigen-ts-simple-typescript-api-client-generator-gm2)
-- [Issue 60 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-60-of-aws-cloud-security-weekly-1p95)
+- [Problema HackerRank em Python - Base Data Types Lists](https://dev.to/gusmedeirost/problema-hackerrank-em-python-base-data-types-lists-5h91)
+- [#57 — Concatenate Column Titles Corresponding to Empty Cells](https://dev.to/judith677/57-concatenate-column-titles-corresponding-to-empty-cells-3bc5)
+- [Unlock Your MySQL Mastery: The MySQL Practice Labs Course](https://dev.to/labex/unlock-your-mysql-mastery-the-mysql-practice-labs-course-3931)
+- [🍑understanding windows Command Line Interface](https://dev.to/aryan015/understanding-windows-command-line-interface-330e)
+- [How New Websites Can Rapidly Gain Organic Search Traffic](https://dev.to/juddiy/how-new-websites-can-rapidly-gain-organic-search-traffic-4m10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
