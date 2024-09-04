@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Aptos Ecosystem: Empowering Developers with Layer-1 Blockchain and Spheron’s Decentralized Infrastructure](https://dev.to/saur_abhh31/exploring-the-aptos-ecosystem-empowering-developers-with-layer-1-blockchain-and-spherons-decentralized-infrastructure-23h8)
-- [Shiny: Interactive Web Applications in R](https://dev.to/elvismamani/shiny-interactive-web-applications-in-r-239b)
-- [Controlando la tasa de errores de nuestros frontends con Datadog RUM](https://dev.to/mentatech/controlando-la-tasa-de-errores-de-nuestros-frontends-con-datadog-rum-4k83)
-- [REspec Estrutura de Teste em Ruby on Rails](https://dev.to/rochaisadora/respec-estrutura-de-teste-em-ruby-on-rails-3jce)
-- [Day 64 / 100 Days of Code:](https://dev.to/jacobsternx/day-64-100-days-of-code-1haa)
+- [Issue 60 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-60-of-aws-cloud-security-weekly-1p95)
+- [Using Webpack for Asset Bundling](https://dev.to/kartikmehta8/using-webpack-for-asset-bundling-1i46)
+- [Introduction to AI: Exploring Strong AI and AGI](https://dev.to/damara_lucena/introduction-to-ai-exploring-strong-ai-and-agi-3maa)
+- [When should I use JWTs?](https://dev.to/logto/when-should-i-use-jwts-4hnh)
+- [My Personal Intro to TailwindCSS](https://dev.to/choir/my-personal-intro-to-tailwindcss-3il0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
