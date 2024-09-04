@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Face Recognition System Using FaceNet in Python](https://dev.to/abhinowww/how-to-build-a-face-recognition-system-using-facenet-in-python-27kh)
-- [Shinetech Software achieves Cyber Essentials Plus certification](https://dev.to/shinetechsoftwareinc/shinetech-software-achieves-cyber-essentials-plus-certification-1fl9)
-- [Nix first steps](https://dev.to/alexander_shagov/nix-first-steps-4066)
-- [# Day 3: Monolithic vs. Microservices Architecture: A Detailed Comparison](https://dev.to/vikram_kumar_2101/-day-2-monolithic-vs-microservices-architecture-a-detailed-comparison-fkc)
-- [How to group array by date in PHP – Fast Tips](https://dev.to/inspector/how-to-group-array-by-date-in-php-fast-tips-4oc0)
+- [Build Your Application Faster with These TailwindCSS Components Libraries](https://dev.to/mroman7/build-your-application-faster-with-these-tailwindcss-components-libraries-4jle)
+- [Releasing Flama 1.7](https://dev.to/vortico/releasing-flama-17-3n78)
+- [Understanding Data Types in Python: A Beginner&#39;s Guide](https://dev.to/jobreadyprogrammer/understanding-data-types-in-python-a-beginners-guide-2e62)
+- [How to Build an Auth API in Rust gRPC](https://dev.to/neeraj_sharma_1135657c7f6/how-to-build-an-auth-api-in-rust-grpc-57mc)
+- [Automate Docker Image Creation &amp; Deployment: A Professional Guide Using GitHub Actions, Packer, and Docker Hub](https://dev.to/s3cloudhub/automate-docker-image-creation-deployment-a-professional-guide-using-github-actions-packer-and-docker-hub-3f17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
