@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unraveling the Complexities of Amazon SQS Quotas: What You Need to Know](https://dev.to/quiver/unraveling-the-complexities-of-amazon-sqs-quotas-what-you-need-to-know-565b)
-- [Construyendo Microfrontends Escalables y Mantenibles con Turborepo 🚀](https://dev.to/mentatech/construyendo-microfrontends-escalables-y-mantenibles-con-turborepo-1pba)
-- [Route53 With Application Loadbalancer](https://dev.to/clintt/route53-with-applicationloadbalancer-5be3)
-- [AI Tools That Can Make Your Life as a Web Developer SO Much Easier 😊!](https://dev.to/respect17/ai-tools-that-can-make-your-life-as-a-web-developer-so-much-easier--1aia)
-- [Transactions in MongoDB](https://dev.to/sasun_davtyan_97386910907/transactions-in-mongodb-2iaa)
+- [Mastering the Art of Front-end Development: Best Practices and Tools](https://dev.to/jahswill_jacob_/mastering-the-art-of-front-end-development-best-practices-and-tools-jmd)
+- [Linux Commands for Beginners](https://dev.to/harshm03/linux-commands-for-beginners-3ncd)
+- [Automate Neon schema changes with Drizzle and GitHub Actions](https://dev.to/clerk/automate-neon-schema-changes-with-drizzle-and-github-actions-1o37)
+- [Build with Me Larachat: the realtime chat package for Laravel](https://dev.to/ramzi-issiakhem/build-with-me-larachat-the-realtime-chat-package-for-laravel-2hon)
+- [Almost 10k Followers!](https://dev.to/travislramos/almost-10k-followers-3hnc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
