@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Compiling 🚨TypeScript! Run It Natively in Node.js with This One Flag! 🛑](https://dev.to/dharamgfx/stop-compiling-typescript-run-it-natively-in-nodejs-with-this-one-flag-2bc6)
-- [Why Every Development Team Needs Effective Bug Tracking](https://dev.to/ray_parker01/why-every-development-team-needs-effective-bug-tracking-fij)
-- [Array Searching in DSA using JavaScript: From Basics to Advanced](https://dev.to/manojspace/array-searching-in-dsa-using-javascript-from-basics-to-advanced-593l)
-- [Brave Browser](https://dev.to/hungrywolf/brave-browser-43b5)
-- [Turn DevOps to MLOps Pipelines With This Open-Source Tool](https://dev.to/kitops/turn-devops-to-mlops-pipelines-with-this-open-source-tool-3ehc)
+- [How to deploy Sentry on a Kubernetes cluster with an external custom ingress](https://dev.to/adoucoure/how-to-deploy-sentry-on-a-kubernetes-cluster-with-an-external-custom-ingress-3mmf)
+- [How I Built Lemon Teams: My Journey and How You Can Contribute 🚀](https://dev.to/puneetkumar2010/how-i-built-lemon-teams-my-journey-and-how-you-can-contribute-2p5o)
+- [The Essential Git Cheat Sheet: Master Version Control Like a Pro](https://dev.to/travislramos/the-essential-git-cheat-sheet-master-version-control-like-a-pro-1937)
+- [Panduan Lengkap Belajar HTML, CSS, dan JavaScript dengan Replit untuk Membuat WebGIS Sederhana Menggunakan MapTiler](https://dev.to/hispatial/panduan-lengkap-belajar-html-css-dan-javascript-dengan-replit-untuk-membuat-webgis-sederhana-menggunakan-maptiler-2f40)
+- [Ozan — another Open source knowledge base built on Flutter](https://dev.to/imrofayel/ozan-another-open-source-knowledge-base-built-on-flutter-57ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
