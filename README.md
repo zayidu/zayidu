@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Application Faster with These TailwindCSS Components Libraries](https://dev.to/mroman7/build-your-application-faster-with-these-tailwindcss-components-libraries-4jle)
-- [Releasing Flama 1.7](https://dev.to/vortico/releasing-flama-17-3n78)
-- [Understanding Data Types in Python: A Beginner&#39;s Guide](https://dev.to/jobreadyprogrammer/understanding-data-types-in-python-a-beginners-guide-2e62)
-- [How to Build an Auth API in Rust gRPC](https://dev.to/neeraj_sharma_1135657c7f6/how-to-build-an-auth-api-in-rust-grpc-57mc)
-- [Automate Docker Image Creation &amp; Deployment: A Professional Guide Using GitHub Actions, Packer, and Docker Hub](https://dev.to/s3cloudhub/automate-docker-image-creation-deployment-a-professional-guide-using-github-actions-packer-and-docker-hub-3f17)
+- [Why Most Developers Fail: The Top 10 Pitfalls and How to Avoid Them 🚧](https://dev.to/lokesh_singh/why-most-developers-fail-the-top-10-pitfalls-and-how-to-avoid-them-1b6m)
+- [Nothing is impossible when passion drives you](https://dev.to/chol_mayen_42203f42f001a0/nothing-is-impossible-when-passion-drives-you-l5m)
+- [Is Node.js Bad?](https://dev.to/mrrishimeena/is-nodejs-bad-1j1b)
+- [Unlocking Digital Transformation: How Cloud Ops Powers Agility and Innovation](https://dev.to/hana_sato/unlocking-digital-transformation-how-cloud-ops-powers-agility-and-innovation-5hkf)
+- [Exposing NFT Wash Trading: $3.4B Artificial Volume on Ethereum Blockchain](https://dev.to/mikeyoung44/exposing-nft-wash-trading-34b-artificial-volume-on-ethereum-blockchain-cci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
