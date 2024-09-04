@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Way to Handle Localization For Exception Messages in Spring Boot](https://dev.to/mammadyahyayev/best-way-to-handle-localization-for-exception-messages-in-spring-boot-4ng9)
-- [Join us for the next Frontend Challenge: Space Edition 👾🪐👽](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-space-edition-2d9g)
-- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-160n)
-- [Progressive Web apps: O futuro do desenvolvimento web](https://dev.to/hjdesigner/progressive-web-apps-o-futuro-do-desenvolvimento-web-2a3i)
-- [Day 6:Understanding Stack and Heap in JavaScript](https://dev.to/alwaysaman/day-6understanding-stack-and-heap-in-javascript-3766)
+- [DESIGN PATTERNS : A Deep Dive into Common Design Patterns](https://dev.to/niharikaa/design-patterns-a-deep-dive-into-common-design-patterns-31b9)
+- [Building a Keylogger and Chrome Password and History Extractor That Runs Every 3 Hours, Disguised as a Calculator App](https://dev.to/paulwababu/building-a-keylogger-and-chrome-password-and-history-extractor-that-runs-every-3-hours-disguised-as-a-calculator-app-4bk4)
+- [A Heartfelt Thank You to Everyone Who Supported My DevOps and Cloud Journey on dev.to! 🎉](https://dev.to/prodevopsguytech/a-heartfelt-thank-you-to-everyone-who-supported-my-devops-and-cloud-journey-on-devto-77m)
+- [Guía Rápida: Levantar HashiCorp Vault en Docker y Acceder a Secretos desde una Aplicación Python](https://dev.to/francotel/guia-rapida-levantar-hashicorp-vault-en-docker-y-acceder-a-secretos-desde-una-aplicacion-python-4jgg)
+- [LabEx Trending: Creating the Solar System in OpenGL and More](https://dev.to/labex/labex-trending-creating-the-solar-system-in-opengl-and-more-5g74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
