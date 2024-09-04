@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to deploy Sentry on a Kubernetes cluster with an external custom ingress](https://dev.to/adoucoure/how-to-deploy-sentry-on-a-kubernetes-cluster-with-an-external-custom-ingress-3mmf)
-- [How I Built Lemon Teams: My Journey and How You Can Contribute 🚀](https://dev.to/puneetkumar2010/how-i-built-lemon-teams-my-journey-and-how-you-can-contribute-2p5o)
-- [The Essential Git Cheat Sheet: Master Version Control Like a Pro](https://dev.to/travislramos/the-essential-git-cheat-sheet-master-version-control-like-a-pro-1937)
-- [Panduan Lengkap Belajar HTML, CSS, dan JavaScript dengan Replit untuk Membuat WebGIS Sederhana Menggunakan MapTiler](https://dev.to/hispatial/panduan-lengkap-belajar-html-css-dan-javascript-dengan-replit-untuk-membuat-webgis-sederhana-menggunakan-maptiler-2f40)
-- [Ozan — another Open source knowledge base built on Flutter](https://dev.to/imrofayel/ozan-another-open-source-knowledge-base-built-on-flutter-57ia)
+- [Best Way to Handle Localization For Exception Messages in Spring Boot](https://dev.to/mammadyahyayev/best-way-to-handle-localization-for-exception-messages-in-spring-boot-4ng9)
+- [Join us for the next Frontend Challenge: Space Edition 👾🪐👽](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-space-edition-2d9g)
+- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-160n)
+- [Progressive Web apps: O futuro do desenvolvimento web](https://dev.to/hjdesigner/progressive-web-apps-o-futuro-do-desenvolvimento-web-2a3i)
+- [Day 6:Understanding Stack and Heap in JavaScript](https://dev.to/alwaysaman/day-6understanding-stack-and-heap-in-javascript-3766)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
