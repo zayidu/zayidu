@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerizing a Golang API with MySQL and adding Docker Compose Support](https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1)
-- [How to setup RLS in Microsoft Fabric / Power BI without breaking DirectLake functionality](https://dev.to/jonvoge/how-to-setup-rls-in-microsoft-fabric-power-bi-without-breaking-directlake-functionality-11me)
-- [Free Tailwind CSS Button Animations](https://dev.to/rarestoma/free-tailwind-css-button-animations-5c8m)
-- [Eureka and Consul - Service Discovery Tools](https://dev.to/jottyjohn/eureka-and-consul-service-discovery-tools-inc)
-- [Upgrade Ruby using dual boot](https://dev.to/tsudhishnair/upgrade-ruby-using-dual-boot-46i6)
+- [Scaling DevOps’ Efficiency &amp; How It Relates To DBOps](https://dev.to/metis/scaling-devops-efficiency-how-it-relates-to-dbops-3aj)
+- [Understanding Database Isolation Levels: An Essential Overview](https://dev.to/eric6166/understanding-database-isolation-levels-an-essential-overview-m53)
+- [js | objects |](https://dev.to/ranjith_jr_fbf2e375879b08/js-objects--131f)
+- [Test a listener is called with expected CustomEvent&lpar;&rpar;](https://dev.to/manuartero/test-a-listener-is-called-with-expected-customevent-5b2)
+- [Create your own Picture-In-Picture video feature bookmarklet](https://dev.to/mothy/create-your-own-picture-in-picture-video-feature-bookmarklet-3olo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
