@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to deploy a node server in EC2](https://dev.to/thecoollearner/how-to-deploy-a-node-server-in-ec2-14hp)
-- [Token optimization: The backbone of effective prompt engineering](https://dev.to/ibmdeveloper/token-optimization-the-backbone-of-effective-prompt-engineering-5fla)
-- [What are Optimism Fault proofs?](https://dev.to/modenetworkl2/what-is-optimism-faultproofs-db7)
-- [Discover Exciting Updates in Spring Boot 3: Performance, Security, and More](https://dev.to/snapnews-local/discover-exciting-updates-in-spring-boot-3-performance-security-and-more-4p82)
-- [Securing Core Banking Applications on AWS: Best Practices for Protecting Sensitive Financial Data](https://dev.to/ikoh_sylva/securing-core-banking-applications-on-aws-best-practices-for-protecting-sensitive-financial-data-2d9f)
+- [OTE one time emails](https://dev.to/jswhisperer/ote-one-time-emails-10n0)
+- [Identity 101: Authentication and Authorization](https://dev.to/unknwon/identity-101-authentication-and-authorization-2717)
+- [Mastering Fine-Tuning: A Journey Through Model Optimization](https://dev.to/mohammadshahidbeigh/mastering-fine-tuning-a-journey-through-model-optimization-5hj)
+- [Dark Mode Toggle Html css js](https://dev.to/babar_ali/dark-mode-toggle-html-css-js-mce)
+- [Understanding Reentrancy Attacks in Solidity Smart Contracts](https://dev.to/ceasermikes002/understanding-reentrancy-attacks-in-solidity-smart-contracts-41k6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
