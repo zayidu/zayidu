@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [✨Dive into Markdown Magic!](https://dev.to/qurlarmah/dive-into-markdown-magic-24m4)
-- [The Purpose of Computer Processors &lpar;CPUs&rpar; and How Multiple Cores Improve Speed and Performance](https://dev.to/adityabhuyan/the-purpose-of-computer-processors-cpus-and-how-multiple-cores-improve-speed-and-performance-3f8d)
-- [Guide to Viewing User Permissions in GBase 8s](https://dev.to/congcong/guide-to-viewing-user-permissions-in-gbase-8s-12ol)
-- [25 Must-Read Personal Blogs for Computer Programming Enthusiasts](https://dev.to/ailex/25-must-read-personal-blogs-for-computer-programming-enthusiasts-1552)
-- [Using a Public Repository on GitHub for Personal Projects: A Complete Guide](https://dev.to/adityabhuyan/using-a-public-repository-on-github-for-personal-projects-a-complete-guide-9h8)
+- [Future Trends and Innovations in Developer Community Building](https://dev.to/swati1267/future-trends-and-innovations-in-developer-community-building-1gbf)
+- [Top Game Testing Tools Improving Game Performance](https://dev.to/misterankit/top-game-testing-tools-improving-game-performance-38jh)
+- [Explore the Future of Martropolis with Hadoop and Hive](https://dev.to/labex/explore-the-future-of-martropolis-with-hadoop-and-hive-49fl)
+- [Use minio as an external object storage with Gitlab](https://dev.to/adoucoure/use-minio-as-an-external-object-storage-with-gitlab-foi)
+- [CBJS: Command Injection 4in1 level 4](https://dev.to/peppa6/cbjs-command-injection-4in1-level-4-50fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
