@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Developers Fail: The Top 10 Pitfalls and How to Avoid Them 🚧](https://dev.to/lokesh_singh/why-most-developers-fail-the-top-10-pitfalls-and-how-to-avoid-them-1b6m)
-- [Nothing is impossible when passion drives you](https://dev.to/chol_mayen_42203f42f001a0/nothing-is-impossible-when-passion-drives-you-l5m)
-- [Is Node.js Bad?](https://dev.to/mrrishimeena/is-nodejs-bad-1j1b)
-- [Unlocking Digital Transformation: How Cloud Ops Powers Agility and Innovation](https://dev.to/hana_sato/unlocking-digital-transformation-how-cloud-ops-powers-agility-and-innovation-5hkf)
-- [Exposing NFT Wash Trading: $3.4B Artificial Volume on Ethereum Blockchain](https://dev.to/mikeyoung44/exposing-nft-wash-trading-34b-artificial-volume-on-ethereum-blockchain-cci)
+- [How to Detect VPNs with JavaScript](https://dev.to/ohwow/how-to-detect-vpns-with-javascript-4aj3)
+- [Modules 2/2](https://dev.to/mahf001/iife-module-pattern-commonjs-5gkd)
+- [Microsoft Power platform tools and services](https://dev.to/seenakhan/microsoft-power-platform-tools-and-services-589j)
+- [How to Become an AI Engineer: A Step-by-Step Guide](https://dev.to/ankush_mahore/how-to-become-an-ai-engineer-a-step-by-step-guide-gk3)
+- [Install Oracle Database 19c on Centos using RPM Package](https://dev.to/sammy_cloud/install-oracle-database-19c-on-centos-using-rpm-package-55l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
