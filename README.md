@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [LabEx Trending: Installing and Configuring a Mail Server and More](https://dev.to/labex/labex-trending-installing-and-configuring-a-mail-server-and-more-9bc)
+- [Capture traffic with Golang](https://dev.to/aohorodnyk/capture-traffic-with-golang-2nmo)
+- [Protecting The Web Application From Malicious Traffic And Blocking Unauthorized Access](https://dev.to/vincenthyacienth/protecting-the-web-application-from-malicious-traffic-and-blocking-unauthorized-access-5goj)
+- [apigen-ts – Simple TypeScript API Client Generator](https://dev.to/vladkens/apigen-ts-simple-typescript-api-client-generator-gm2)
 - [Issue 60 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-60-of-aws-cloud-security-weekly-1p95)
-- [Using Webpack for Asset Bundling](https://dev.to/kartikmehta8/using-webpack-for-asset-bundling-1i46)
-- [Introduction to AI: Exploring Strong AI and AGI](https://dev.to/damara_lucena/introduction-to-ai-exploring-strong-ai-and-agi-3maa)
-- [When should I use JWTs?](https://dev.to/logto/when-should-i-use-jwts-4hnh)
-- [My Personal Intro to TailwindCSS](https://dev.to/choir/my-personal-intro-to-tailwindcss-3il0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
