@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Conditions &lpar;If-else-elif&rpar; Part-08](https://dev.to/monirulislam027/conditions-if-else-elif-part-08-3noh)
-- [Next.js Middleware: Simple Guide to Control Requests](https://dev.to/codeparrot/nextjs-middleware-simple-guide-to-control-requests-554p)
-- [A Developer&#39;s Guide to Urban Tech Trends](https://dev.to/patoliyainfotech/a-developers-guide-to-urban-tech-trends-3lgk)
-- [JWTs Explained: Benefits and Drawbacks for Developers](https://dev.to/janith536/jwts-explained-benefits-and-drawbacks-for-developers-3m3l)
-- [Whatsapp Style chat blog HTML CSS js](https://dev.to/babar_ali/whatsapp-style-chat-blog-html-css-js-40j5)
+- [Dockerizing a Golang API with MySQL and adding Docker Compose Support](https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1)
+- [How to setup RLS in Microsoft Fabric / Power BI without breaking DirectLake functionality](https://dev.to/jonvoge/how-to-setup-rls-in-microsoft-fabric-power-bi-without-breaking-directlake-functionality-11me)
+- [Free Tailwind CSS Button Animations](https://dev.to/rarestoma/free-tailwind-css-button-animations-5c8m)
+- [Eureka and Consul - Service Discovery Tools](https://dev.to/jottyjohn/eureka-and-consul-service-discovery-tools-inc)
+- [Upgrade Ruby using dual boot](https://dev.to/tsudhishnair/upgrade-ruby-using-dual-boot-46i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
