@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up ViewCode Projects for Versions Below iOS 13](https://dev.to/gguedes/setting-up-viewcode-projects-for-versions-below-ios-13-inh)
-- [Master Modal, Tooltips and more with React createPortal](https://dev.to/kada/master-modal-tooltips-and-more-with-react-createportal-2h9o)
-- [A Comprehensive Guide to WooCommerce User Roles: Managing Access and Capabilities in Your Online Store](https://dev.to/stevejacob45678/a-comprehensive-guide-to-woocommerce-user-roles-managing-access-and-capabilities-in-your-online-store-4bl)
-- [js | DOM |](https://dev.to/ranjith_jr_fbf2e375879b08/js-dom--2pn5)
-- [PBAC vs. Zanzibar For User Authorization](https://dev.to/cerbosdev/pbac-vs-zanzibar-for-user-authorization-5h0d)
+- [Stop Compiling 🚨TypeScript! Run It Natively in Node.js with This One Flag! 🛑](https://dev.to/dharamgfx/stop-compiling-typescript-run-it-natively-in-nodejs-with-this-one-flag-2bc6)
+- [Why Every Development Team Needs Effective Bug Tracking](https://dev.to/ray_parker01/why-every-development-team-needs-effective-bug-tracking-fij)
+- [Array Searching in DSA using JavaScript: From Basics to Advanced](https://dev.to/manojspace/array-searching-in-dsa-using-javascript-from-basics-to-advanced-593l)
+- [Brave Browser](https://dev.to/hungrywolf/brave-browser-43b5)
+- [Turn DevOps to MLOps Pipelines With This Open-Source Tool](https://dev.to/kitops/turn-devops-to-mlops-pipelines-with-this-open-source-tool-3ehc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
