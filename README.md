@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Publish an Article to DEV Using Python](https://dev.to/luca1iu/how-to-publish-an-article-to-dev-using-python-1clj)
-- [Tutorial: How to create a ReactJS / NextJS Chart component using Shadcn UI](https://dev.to/fredy/tutorial-how-to-create-a-reactjs-nextjs-chart-component-using-shadcn-ui-3o4b)
-- [Close Angular Material Dialog Programmatically](https://dev.to/ngmaterialdev/close-angular-material-dialog-programmatically-3lnd)
-- [Array](https://dev.to/mahf001/array-2jmn)
-- [How to Use Amazon Product API](https://dev.to/cyanspray/how-to-use-amazon-product-api-igk)
+- [Using Kafka with Docker and NodeJS](https://dev.to/chauhoangminhnguyen/using-kafka-with-docker-and-nodejs-c4m)
+- [Web Scraping Made Easy: Parse Any HTML Page with Puppeteer](https://dev.to/niharikaa/web-scraping-made-easy-parse-any-html-page-with-puppeteer-3dk8)
+- [9 open-source gems to become the ultimate developer🔥 🚀](https://dev.to/nevodavid/9-open-source-gems-to-become-the-ultimate-developer-2oj9)
+- [Is it just me, or is everyone sick of these endless QA cycles](https://dev.to/ayushmaniac/gen-ai-x-testing-2jfn)
+- [ReactJS Best Practices: Writing Clean and Efficient Code](https://dev.to/abhishek_kumar_d9009a7ae6/reactjs-best-practices-writing-clean-and-efficient-code-3kd2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
