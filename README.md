@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [makefile mfc](https://dev.to/__040711563a17902392e7/makefile-mfc-60l)
-- [From Shores to Screens: The Oceanic Journey of Internet Data](https://dev.to/ayaaa25/from-shores-to-screens-the-oceanic-journey-of-internet-data-39m7)
-- [Transform Your Workflow with LangSmith Hub: A Game-Changer for JavaScript Engineers](https://dev.to/kenzic/transform-your-workflow-with-langsmith-hub-a-game-changer-for-javascript-engineers-4a8l)
-- [Ferramentas de SEO para GNU/Linux: Otimização de Sites](https://dev.to/fernandomullerjr/ferramentas-de-seo-para-gnulinux-otimizacao-de-sites-39m6)
-- [OSD600 - Just gonna to sneak myself into this blog](https://dev.to/bregwin/osd600-just-gonna-to-sneak-myself-into-this-blog-4of2)
+- [The Impact of Artificial Intelligence on Education](https://dev.to/indusschoolb/the-impact-of-artificial-intelligence-on-education-1d9g)
+- [Introduction to Bitwise Functions in GBase 8a MPP Cluster](https://dev.to/congcong/introduction-to-bitwise-functions-in-gbase-8a-mpp-cluster-10dc)
+- [Ubuntu 22.04: Browser Not Working After Hardening](https://dev.to/feng_wei/ubuntu-2204-browser-not-working-after-hardening-37gc)
+- [NebulaGraph Cloud on AWS：Auto Scale, Start Free](https://dev.to/aws/nebulagraph-cloud-on-awsauto-scale-start-free-1ojm)
+- [Qt error when opening ncu-ui](https://dev.to/tallesl/qt-error-when-opening-ncu-ui-je1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
