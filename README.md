@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ng-News Special Summer Edition](https://dev.to/this-is-angular/ng-news-special-summer-edition-50e6)
-- [Best Free Postman Alternatives 2024](https://dev.to/apilover/best-free-postman-alternatives-2024-59e5)
-- [Achieving Multi-WAF Protection and Failover Using SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/achieving-multi-waf-protection-and-failover-using-safeline-waf-2a2g)
-- [What I Discovered About @Transactional in Spring Boot 🔍](https://dev.to/priya01/what-i-discovered-about-transactional-in-spring-boot-1k9h)
-- [Swift 101: Enumerations](https://dev.to/silviaespanagil/swift-101-enumerations-5h19)
+- [The Adventures of Blink S2e1: Docker for Devs](https://dev.to/linkbenjamin/the-adventures-of-blink-s2e1-docker-for-devs-1e5a)
+- [Dica C#: Ref Locals and Returns](https://dev.to/juarezasjunior/dica-c-ref-locals-and-returns-5a93)
+- [Walk Down the Aisle in Style with the Perfect Wedding Shoes and Accessories](https://dev.to/dreamersand_lovers_cb93a6/walk-down-the-aisle-in-style-with-the-perfect-wedding-shoes-and-accessories-28kb)
+- [Smartsheet vs. Popular Tools: 5 Alternatives to Consider](https://dev.to/thomasy0ung/smartsheet-vs-popular-tools-5-alternatives-to-consider-12aa)
+- [Basics of Routing in Asp .Net Mvc](https://dev.to/mvcwebapiii/basics-of-routing-in-asp-net-mvc-28dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
