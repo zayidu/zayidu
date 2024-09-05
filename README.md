@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Kafka with Docker and NodeJS](https://dev.to/chauhoangminhnguyen/using-kafka-with-docker-and-nodejs-c4m)
-- [Web Scraping Made Easy: Parse Any HTML Page with Puppeteer](https://dev.to/niharikaa/web-scraping-made-easy-parse-any-html-page-with-puppeteer-3dk8)
-- [9 open-source gems to become the ultimate developer🔥 🚀](https://dev.to/nevodavid/9-open-source-gems-to-become-the-ultimate-developer-2oj9)
-- [Is it just me, or is everyone sick of these endless QA cycles](https://dev.to/ayushmaniac/gen-ai-x-testing-2jfn)
-- [ReactJS Best Practices: Writing Clean and Efficient Code](https://dev.to/abhishek_kumar_d9009a7ae6/reactjs-best-practices-writing-clean-and-efficient-code-3kd2)
+- [Consideraciones en los serializadores del DRF](https://dev.to/johnnatan_sandovalcardon/consideraciones-en-los-serializadores-del-drf-1816)
+- [Week 3](https://dev.to/mc_75fd1f9597c94c8df8ec2e/week-3-568)
+- [Small Class Manipulator 2.0](https://dev.to/sebk69/small-class-manipulation-20-5elb)
+- [Recommended Series for Small Rails Development Teams: Error Tracking - Honeybadger](https://dev.to/geeknees/recommended-series-for-small-rails-development-teams-error-tracking-honeybadger-5f7a)
+- [What is Clean Architecture: Part 14-last step in Application Core Layer](https://dev.to/moh_moh701/what-is-clean-architecture-part-14-last-step-in-application-core-layer-435o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
