@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Logging and Error Handling backend applications](https://dev.to/shieldstring/mastering-logging-and-error-handling-backend-applications-53pi)
-- [The Future of IoT and Android: What Lies Ahead](https://dev.to/daviekim13/the-future-of-iot-and-android-what-lies-ahead-11dm)
-- [Quantum Computing: What It Means for Mobile App Development](https://dev.to/daviekim13/quantum-computing-what-it-means-for-mobile-app-development-2ha3)
-- [How to Deploy a Full-Stack Application on Vercel &lpar;ReactJS | Vite | NodeJS | TypeScript | Neon | PostgreSQL&rpar;](https://dev.to/stm-akikaze1119/how-to-deploy-a-full-stack-application-on-vercel-reactjs-vite-nodejs-typescript-neon-postgresql-5bnf)
-- [Minimal tips to run isolated code](https://dev.to/slivingston/minimal-tips-to-run-isolated-code-4206)
+- [🚀 Why Choose Binary Search Over Linear Search?](https://dev.to/mostafa_/why-choose-binary-search-over-linear-search-3ifi)
+- [Python&#39;s Collections Module: Advanced Data Structures](https://dev.to/kartikmehta8/pythons-collections-module-advanced-data-structures-364p)
+- [Embedding Structs in Go](https://dev.to/pbelokon/embedding-structs-in-go-2m2o)
+- [Day 65 / 100 Days of Code: Exploring Getters and Setters with Sports](https://dev.to/jacobsternx/day-65-100-days-of-code-exploring-getters-and-setters-with-sports-l85)
+- [Day 65 / 100 Days of Code: Exploring Getters and Setters with Sports](https://dev.to/jacobsternx/day-65-100-days-of-code-exploring-getters-and-setters-with-sports-9a5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
