@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Switch Statement Oddities](https://dev.to/pauljlucas/switch-statement-oddities-2ci6)
-- [3 New frontend libraries 🎨](https://dev.to/therextordcs/3-new-frontend-libraries-436n)
-- [Journey of a product from Vision to Execution &lpar;feat. Chuks Ejechi&rpar;](https://dev.to/vpalania/journey-of-a-product-from-vision-to-execution-feat-chuks-ejechi-3on8)
-- [A Beginner&#39;s Guide to Git](https://dev.to/farhatsharifh/a-beginners-guide-for-git-4p5)
-- [Beginning my Open Source Journey](https://dev.to/peterdanwan/beginning-my-open-source-journey-1g2b)
+- [Using Keyed Services in .NET 8 for Dynamic Dependency Injection](https://dev.to/dot_nettips_a4e90828daa4/use-keyed-services-in-net-8-for-dynamic-dependency-injection-4hoj)
+- [ASP.NET Core API Gateway with Ocelot Part 1&lpar;Routing&rpar;](https://dev.to/dot_nettips_a4e90828daa4/aspnet-core-api-gateway-with-ocelot-part-1routing-5g35)
+- [Simplifying Angular components with Facade](https://dev.to/brunofpinheiro/simplifying-angular-components-with-facade-1c1f)
+- [Starting something new](https://dev.to/dansilcox/starting-something-new-5ahh)
+- [2028. Find Missing Observations](https://dev.to/mdarifulhaque/2028-find-missing-observations-3i7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
