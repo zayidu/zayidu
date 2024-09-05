@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Consideraciones en los serializadores del DRF](https://dev.to/johnnatan_sandovalcardon/consideraciones-en-los-serializadores-del-drf-1816)
-- [Week 3](https://dev.to/mc_75fd1f9597c94c8df8ec2e/week-3-568)
-- [Small Class Manipulator 2.0](https://dev.to/sebk69/small-class-manipulation-20-5elb)
-- [Recommended Series for Small Rails Development Teams: Error Tracking - Honeybadger](https://dev.to/geeknees/recommended-series-for-small-rails-development-teams-error-tracking-honeybadger-5f7a)
-- [What is Clean Architecture: Part 14-last step in Application Core Layer](https://dev.to/moh_moh701/what-is-clean-architecture-part-14-last-step-in-application-core-layer-435o)
+- [Top 10 Natural Language Processing Tools and Platforms](https://dev.to/zilliz/top-10-natural-language-processing-tools-and-platforms-eg7)
+- [Implementing Platform Engineering and Internal Developer Platforms &lpar;IDPs&rpar;](https://dev.to/sujal_dua/implementing-platform-engineering-and-internal-developer-platforms-idps-3lj1)
+- [How to Create a Custom Deploy &lpar;Vercel/Netlify&rpar; Button for your Sanity Project](https://dev.to/julimancan/how-to-create-a-custom-deploy-vercelnetlify-button-for-your-sanity-project-9e6)
+- [Ive switched my devops org to a tenant but i cant get access however i am an owner in this account i just get a login loop](https://dev.to/terencenrth/ive-switched-my-devops-org-to-a-tenant-but-i-cant-get-access-however-i-am-an-owner-in-this-account-i-just-get-a-login-loop-42g0)
+- [Misconceptions with testing paradigms and how to address them](https://dev.to/hammzj/misconceptions-with-testing-paradigms-and-how-to-address-them-2kok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
