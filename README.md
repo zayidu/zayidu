@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Adventures of Blink S2e1: Docker for Devs](https://dev.to/linkbenjamin/the-adventures-of-blink-s2e1-docker-for-devs-1e5a)
-- [Dica C#: Ref Locals and Returns](https://dev.to/juarezasjunior/dica-c-ref-locals-and-returns-5a93)
-- [Walk Down the Aisle in Style with the Perfect Wedding Shoes and Accessories](https://dev.to/dreamersand_lovers_cb93a6/walk-down-the-aisle-in-style-with-the-perfect-wedding-shoes-and-accessories-28kb)
-- [Smartsheet vs. Popular Tools: 5 Alternatives to Consider](https://dev.to/thomasy0ung/smartsheet-vs-popular-tools-5-alternatives-to-consider-12aa)
-- [Basics of Routing in Asp .Net Mvc](https://dev.to/mvcwebapiii/basics-of-routing-in-asp-net-mvc-28dp)
+- [How to Publish an Article to DEV Using Python](https://dev.to/luca1iu/how-to-publish-an-article-to-dev-using-python-1clj)
+- [Tutorial: How to create a ReactJS / NextJS Chart component using Shadcn UI](https://dev.to/fredy/tutorial-how-to-create-a-reactjs-nextjs-chart-component-using-shadcn-ui-3o4b)
+- [Close Angular Material Dialog Programmatically](https://dev.to/ngmaterialdev/close-angular-material-dialog-programmatically-3lnd)
+- [Array](https://dev.to/mahf001/array-2jmn)
+- [How to Use Amazon Product API](https://dev.to/cyanspray/how-to-use-amazon-product-api-igk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
