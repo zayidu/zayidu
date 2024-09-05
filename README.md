@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Source API Documentation with Zudoku](https://dev.to/zuplo/open-source-api-documentation-with-zudoku-54nk)
-- [How to Setup Multi Tenant App in minutes with Laravel PART 2](https://dev.to/arkdevsolutions/how-to-setup-multi-tenant-app-in-minutes-with-laravel-part-2-5560)
-- [Networking Fundamentals: Understanding Network Types, Data Transmission, and Bandwidth](https://dev.to/isaactony/networking-fundamentals-understanding-network-types-data-transmission-and-bandwidth-in-the-ccna-course-20b1)
-- [API Integration Services in Drupal 10](https://dev.to/drupal-developer-dewan/api-integration-services-in-drupal-10-59b3)
-- [The Power of Lifelong Learning in Tech](https://dev.to/saurabhkurve/the-power-of-lifelong-learning-in-tech-3pd2)
+- [DRY your Apache APISIX config](https://dev.to/apisix/dry-your-apache-apisix-config-85f)
+- [Interview Kit: Recursion.](https://dev.to/sfundomhlungu/interview-kit-recursion-23p)
+- [Best RUST IDEs in 2024 🌟](https://dev.to/imkrunalkanojiya/best-rust-ides-in-2024-398b)
+- [A Free, Beginner-Friendly Web Protection Tool: SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/a-free-beginner-friendly-web-protection-tool-safeline-4j59)
+- [Best Practices for Managing Terraform State Files: A Complete Guide](https://dev.to/pat6339/best-practices-for-managing-terraform-state-files-a-complete-guide-400m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
