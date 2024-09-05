@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Why Choose Binary Search Over Linear Search?](https://dev.to/mostafa_/why-choose-binary-search-over-linear-search-3ifi)
-- [Python&#39;s Collections Module: Advanced Data Structures](https://dev.to/kartikmehta8/pythons-collections-module-advanced-data-structures-364p)
-- [Embedding Structs in Go](https://dev.to/pbelokon/embedding-structs-in-go-2m2o)
-- [Day 65 / 100 Days of Code: Exploring Getters and Setters with Sports](https://dev.to/jacobsternx/day-65-100-days-of-code-exploring-getters-and-setters-with-sports-l85)
-- [Day 65 / 100 Days of Code: Exploring Getters and Setters with Sports](https://dev.to/jacobsternx/day-65-100-days-of-code-exploring-getters-and-setters-with-sports-9a5)
+- [makefile mfc](https://dev.to/__040711563a17902392e7/makefile-mfc-60l)
+- [From Shores to Screens: The Oceanic Journey of Internet Data](https://dev.to/ayaaa25/from-shores-to-screens-the-oceanic-journey-of-internet-data-39m7)
+- [Transform Your Workflow with LangSmith Hub: A Game-Changer for JavaScript Engineers](https://dev.to/kenzic/transform-your-workflow-with-langsmith-hub-a-game-changer-for-javascript-engineers-4a8l)
+- [Ferramentas de SEO para GNU/Linux: Otimização de Sites](https://dev.to/fernandomullerjr/ferramentas-de-seo-para-gnulinux-otimizacao-de-sites-39m6)
+- [OSD600 - Just gonna to sneak myself into this blog](https://dev.to/bregwin/osd600-just-gonna-to-sneak-myself-into-this-blog-4of2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
