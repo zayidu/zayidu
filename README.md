@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DRY your Apache APISIX config](https://dev.to/apisix/dry-your-apache-apisix-config-85f)
-- [Interview Kit: Recursion.](https://dev.to/sfundomhlungu/interview-kit-recursion-23p)
-- [Best RUST IDEs in 2024 🌟](https://dev.to/imkrunalkanojiya/best-rust-ides-in-2024-398b)
-- [A Free, Beginner-Friendly Web Protection Tool: SafeLine](https://dev.to/lulu_liu_c90f973e2f954d7f/a-free-beginner-friendly-web-protection-tool-safeline-4j59)
-- [Best Practices for Managing Terraform State Files: A Complete Guide](https://dev.to/pat6339/best-practices-for-managing-terraform-state-files-a-complete-guide-400m)
+- [My Computer Science Website](https://dev.to/kekeandzeyu/my-computer-science-website-1156)
+- [Hello DEV Community!](https://dev.to/dpraj/hello-dev-community-4g3i)
+- [The quest for a robust and scalable storage solution for home use.](https://dev.to/nalayak_engineer/the-quest-for-a-robust-and-scalable-storage-solution-for-home-use-2j35)
+- [Calculating Ogg Audio Duration in Go: A Step-by-Step Guide](https://dev.to/mmvergara/calculating-ogg-audio-duration-in-go-a-step-by-step-guide-1igh)
+- [Introduction to the GROWI calendar display plug-in](https://dev.to/goofmint/introduction-to-the-growi-calendar-display-plug-in-5168)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
