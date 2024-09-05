@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of Artificial Intelligence on Education](https://dev.to/indusschoolb/the-impact-of-artificial-intelligence-on-education-1d9g)
-- [Introduction to Bitwise Functions in GBase 8a MPP Cluster](https://dev.to/congcong/introduction-to-bitwise-functions-in-gbase-8a-mpp-cluster-10dc)
-- [Ubuntu 22.04: Browser Not Working After Hardening](https://dev.to/feng_wei/ubuntu-2204-browser-not-working-after-hardening-37gc)
-- [NebulaGraph Cloud on AWS：Auto Scale, Start Free](https://dev.to/aws/nebulagraph-cloud-on-awsauto-scale-start-free-1ojm)
-- [Qt error when opening ncu-ui](https://dev.to/tallesl/qt-error-when-opening-ncu-ui-je1)
+- [Solar System - CSS ART](https://dev.to/pinky057/solar-system-css-art-5c0o)
+- [How to integrate Cursor AI with Claude 3.5 Sonnet](https://dev.to/ashinno/how-to-integrate-cursor-ai-with-claude-35-sonnet-8ih)
+- [Boost Your Website Security in 3 Minutes with SafeLine, the Open-Source WAF with 11.8K GitHub Stars](https://dev.to/lulu_liu_c90f973e2f954d7f/boost-your-website-security-in-3-minutes-with-safeline-the-open-source-waf-with-118k-github-stars-4314)
+- [What is an API?](https://dev.to/praveensriram01/what-is-an-api-3501)
+- [Modular Architecture for Scalable Frontend Development](https://dev.to/amirrezasalimi/modular-architecture-for-scalable-frontend-development-2emb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
