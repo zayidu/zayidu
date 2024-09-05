@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing LLM Tool Usage with Converso](https://dev.to/gianfrancodemarco/enhancing-llm-tool-usage-with-converso-3ip3)
-- [Top 10 Clean Code Rules](https://dev.to/anikakash/top-10-clean-code-rules-13i6)
-- [VSCode + Ollama + Continue = chat e tab completions gratuitamente](https://dev.to/bduarte10/vscode-ollama-continue-chat-e-tab-completions-gratuitamente-3806)
-- [Optimizing Performance in CodeIgniter: Tips and Best Practices](https://dev.to/codeigniter-developers/optimizing-performance-in-codeigniter-tips-and-best-practices-34la)
-- [Set&lpar;&rpar; usage in Zustand’s source code.](https://dev.to/thinkthroo/set-usage-in-zustands-source-code-omp)
+- [5 Habits System Developers Must Break for Success](https://dev.to/jahswill_jacob_/5-habits-system-developers-must-break-for-success-chn)
+- [DX UX = U DX UX =](https://dev.to/cpard/dx-ux-u-dx-ux--e94)
+- [Use Cases for working with DynamoDB alongside Node.js and Typescript](https://dev.to/wallacefreitas/use-cases-for-working-with-dynamodb-alongside-nodejs-and-typescript-4hld)
+- [Mastering Linux on Windows: A Complete Guide to Windows Subsystem for Linux &lpar;WSL2 &rpar; Setup and Benefits](https://dev.to/techmystic/mastering-linux-on-windows-a-complete-guide-to-windows-subsystem-for-linux-wsl2-setup-and-benefits-2p9p)
+- [Week 4](https://dev.to/mc_75fd1f9597c94c8df8ec2e/week-4-3bil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
