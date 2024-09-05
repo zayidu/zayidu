@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Opportunity, Gratitude, Progress](https://dev.to/gregharis/opportunity-gratitude-progress-36f1)
-- [Let&#39;s Read – Eloquent Ruby – Ch 8](https://dev.to/baweaver/lets-read-eloquent-ruby-ch-8-4e1g)
-- [A Deep Dive into Retrieval-Augmented Generation &lpar;RAG&rpar;: How It Works Behind the Scenes!](https://dev.to/abhinowww/a-deep-dive-into-retrieval-augmented-generation-rag-how-it-works-behind-the-scenes-4eid)
-- [Developing Mobile Apps with SDLC - Best Practices](https://dev.to/misterankit/developing-mobile-apps-with-sdlc-best-practices-4oe8)
-- [React.js is popular for several reasons:](https://dev.to/kamlesh_gupta_539c974fb0d/reactjs-is-popular-for-several-reasons-58c)
+- [Power Up Your Blazor Project: Unveiling the Top 5 Admin Themes for Ultimate Efficiency](https://dev.to/faciletechnolab/power-up-your-blazor-project-unveiling-the-top-5-admin-themes-for-ultimate-efficiency-446e)
+- [What Is DevOps? A Complete Guide To Basic | Optimity Logics](https://dev.to/optimitylogics/what-is-devops-a-complete-guide-to-basic-optimity-logics-2h3l)
+- [🔎Finding Ceiling and Floor using Binary Search in Java &lpar;Handling Both Ascending and Descending Arrays&rpar;](https://dev.to/mostafa_/finding-ceiling-and-floor-using-binary-search-in-java-handling-both-ascending-and-descending-arrays-424)
+- [4. How Do You Structure a Simple Web Page?](https://dev.to/areeb_anwar_813df06ee1124/4-how-do-you-structure-a-simple-web-page-1g1e)
+- [How I Helped Designz23 Revamp Their Online Presence and Improve Customer Retention](https://dev.to/devopsking/how-i-helped-designz23-revamp-their-online-presence-and-improve-customer-retention-2la3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
