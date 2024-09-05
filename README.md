@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Computer Science Website](https://dev.to/kekeandzeyu/my-computer-science-website-1156)
-- [Hello DEV Community!](https://dev.to/dpraj/hello-dev-community-4g3i)
-- [The quest for a robust and scalable storage solution for home use.](https://dev.to/nalayak_engineer/the-quest-for-a-robust-and-scalable-storage-solution-for-home-use-2j35)
-- [Calculating Ogg Audio Duration in Go: A Step-by-Step Guide](https://dev.to/mmvergara/calculating-ogg-audio-duration-in-go-a-step-by-step-guide-1igh)
-- [Introduction to the GROWI calendar display plug-in](https://dev.to/goofmint/introduction-to-the-growi-calendar-display-plug-in-5168)
+- [Ng-News Special Summer Edition](https://dev.to/this-is-angular/ng-news-special-summer-edition-50e6)
+- [Best Free Postman Alternatives 2024](https://dev.to/apilover/best-free-postman-alternatives-2024-59e5)
+- [Achieving Multi-WAF Protection and Failover Using SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/achieving-multi-waf-protection-and-failover-using-safeline-waf-2a2g)
+- [What I Discovered About @Transactional in Spring Boot 🔍](https://dev.to/priya01/what-i-discovered-about-transactional-in-spring-boot-1k9h)
+- [Swift 101: Enumerations](https://dev.to/silviaespanagil/swift-101-enumerations-5h19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
