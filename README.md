@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Up Your Blazor Project: Unveiling the Top 5 Admin Themes for Ultimate Efficiency](https://dev.to/faciletechnolab/power-up-your-blazor-project-unveiling-the-top-5-admin-themes-for-ultimate-efficiency-446e)
-- [What Is DevOps? A Complete Guide To Basic | Optimity Logics](https://dev.to/optimitylogics/what-is-devops-a-complete-guide-to-basic-optimity-logics-2h3l)
-- [🔎Finding Ceiling and Floor using Binary Search in Java &lpar;Handling Both Ascending and Descending Arrays&rpar;](https://dev.to/mostafa_/finding-ceiling-and-floor-using-binary-search-in-java-handling-both-ascending-and-descending-arrays-424)
-- [4. How Do You Structure a Simple Web Page?](https://dev.to/areeb_anwar_813df06ee1124/4-how-do-you-structure-a-simple-web-page-1g1e)
-- [How I Helped Designz23 Revamp Their Online Presence and Improve Customer Retention](https://dev.to/devopsking/how-i-helped-designz23-revamp-their-online-presence-and-improve-customer-retention-2la3)
+- [Efficiently Analyzing PostgreSQL Queries with EXPLAIN](https://dev.to/dbvismarketing/efficiently-analyzing-postgresql-queries-with-explain-22be)
+- [How to Set Up Free Reverse Proxy with High-Security Protection](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-set-up-free-reverse-proxy-with-high-security-protection-37pp)
+- [Let&#39;s Read – Eloquent Ruby – Ch 9](https://dev.to/baweaver/lets-read-eloquent-ruby-ch-9-2hmb)
+- [Next JS Blog App](https://dev.to/iamyathz/next-js-blog-app-4e1f)
+- [Cross-Platform Development Trends: Harnessing Flutter and React Native for Cost-Effective, Responsive Apps 🚀](https://dev.to/info_generalhazedawn_a3d/cross-platform-development-trends-harnessing-flutter-and-react-native-for-cost-effective-responsive-apps-58f4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
