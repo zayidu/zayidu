@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Natural Language Processing Tools and Platforms](https://dev.to/zilliz/top-10-natural-language-processing-tools-and-platforms-eg7)
-- [Implementing Platform Engineering and Internal Developer Platforms &lpar;IDPs&rpar;](https://dev.to/sujal_dua/implementing-platform-engineering-and-internal-developer-platforms-idps-3lj1)
-- [How to Create a Custom Deploy &lpar;Vercel/Netlify&rpar; Button for your Sanity Project](https://dev.to/julimancan/how-to-create-a-custom-deploy-vercelnetlify-button-for-your-sanity-project-9e6)
-- [Ive switched my devops org to a tenant but i cant get access however i am an owner in this account i just get a login loop](https://dev.to/terencenrth/ive-switched-my-devops-org-to-a-tenant-but-i-cant-get-access-however-i-am-an-owner-in-this-account-i-just-get-a-login-loop-42g0)
-- [Misconceptions with testing paradigms and how to address them](https://dev.to/hammzj/misconceptions-with-testing-paradigms-and-how-to-address-them-2kok)
+- [Writing a Telegram and Email Notifications Script for Zabbix](https://dev.to/kurtchan/writing-a-telegram-and-email-notifications-script-for-zabbix-5ddj)
+- [Looking for new full stack developer opportunity](https://dev.to/dheerajjha451/looking-for-new-full-stack-developer-opportunity-3kn)
+- [My Journey to Aeternity UniHack 2024](https://dev.to/0x_malachi/my-journey-to-aeternity-unihack-2024-19nb)
+- [Using Mapping Tables to Merge Data with Auto-Number Keys Referenced by Other Tables](https://dev.to/konstantin_semenenkov/using-mapping-tables-to-merge-data-with-auto-number-keys-referenced-by-other-tables-25p9)
+- [Django Redirects App Tutorial](https://dev.to/wsvincent/django-redirects-app-tutorial-o6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
