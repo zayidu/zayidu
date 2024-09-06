@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GBase 8a MPP Cluster FTP File Server Configuration Guide](https://dev.to/congcong/gbase-8a-mpp-cluster-ftp-file-server-configuration-guide-ddi)
-- [Day 35:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-35-3k59)
-- [Enjoy Enterprise-Level Security for Free with SafeLine Community Edition](https://dev.to/lulu_liu_c90f973e2f954d7f/enjoy-enterprise-level-security-for-free-with-safeline-community-edition-hmp)
-- [Types of DNS attacks](https://dev.to/kareemzok/types-of-dns-attacks-4aae)
-- [The Role of Data Analysts in Modern Business: How Pangaea X Bridges the Talent Gap](https://dev.to/pangaea_x/the-role-of-data-analysts-in-modern-business-how-pangaea-x-bridges-the-talent-gap-1lfo)
+- [1417 Open Source alternatives to tools you pay for](https://dev.to/johnrushx/1417-open-source-alternatives-to-tools-you-pay-for-5g49)
+- [Mastering MySQL Aggregate Functions: Simplifying Data Analysis](https://dev.to/senkae_ll/mastering-mysql-aggregate-functions-simplifying-data-analysis-1g5o)
+- [Living without &quot;lifecycle hooks&quot;](https://dev.to/dariomannu/living-without-lifecycle-hooks-4oce)
+- [Top 5+ Low-Code/No-Code tools [Based On Flatlogic Research]](https://dev.to/alesiasirotka/top-5-low-codeno-code-top-5-low-codeno-code-tools-5hlj)
+- [why Nestjs is Fav for Backend developers](https://dev.to/tkssharma/why-nestjs-is-fav-for-backend-developers-49gk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
