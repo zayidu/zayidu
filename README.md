@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is React? An Overview of React.js Concepts and Terminology](https://dev.to/ritu03/what-is-react-an-overview-of-reactjs-concepts-and-terminology-2136)
-- [WEB APP DEPLOYMENT WITH A CI/CD PIPELINE ON AZURE APP SERVICE USING GITHUB AND VS CODE](https://dev.to/presh1/web-app-deployment-with-a-cicd-pipeline-on-azure-app-service-using-github-and-vs-code-2nkf)
-- [Writing Pythonic Code: Tips and Tricks for Cleaner Syntax.](https://dev.to/balrajola/writing-pythonic-code-tips-and-tricks-for-cleaner-syntax-3d1p)
-- [A Beginner’s Guide to Object Detection in Python](https://dev.to/abhinowww/a-beginners-guide-to-object-detection-in-python-5ahp)
-- [** De los bits al chi: El sorprendente vínculo entre la programación y el Tai Chi **👩‍💻](https://dev.to/orlidev/-de-los-bits-al-chi-el-sorprendente-vinculo-entre-la-programacion-y-el-tai-chi--34aa)
+- [The Pre-DevOps Era &amp; Introduction to CI/CD: Day 39 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/the-pre-devops-era-introduction-to-cicd-day-39-of-50-days-devops-tools-series-6f1)
+- [DEF CON 32: What We Learned About Secrets Security at AppSec Village](https://dev.to/gitguardian/def-con-32-what-we-learned-about-secrets-security-at-appsec-village-1o1j)
+- [Everything You Need to Know About Postman vs Hoppscotch](https://dev.to/cyanspray/everything-you-need-to-know-about-postman-vs-hoppscotch-38f5)
+- [𝗘𝗻𝗵𝗮𝗻𝗰𝗶𝗻𝗴 𝗔𝗣𝗜 𝗖𝗹𝗮𝗿𝗶𝘁𝘆: 𝗣𝗼𝘀𝘁𝗺𝗮𝗻 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗕𝗲𝘀𝘁 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀](https://dev.to/jay_jethava_3bc967a3da87d/-5gfb)
+- [How to implement authorization in a React application](https://dev.to/cerbosdev/how-to-implement-authorization-in-a-react-application-48fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
