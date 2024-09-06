@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HTTP/1 vs HTTP/2 vs HTTP3](https://dev.to/ashutoshsarangi/http1-vs-http2-vs-http3-2ce6)
-- [Something could double the development efficiency of Java programmers](https://dev.to/esproc_spl/something-could-double-the-development-efficiency-of-java-programmers-2b57)
-- [Authentication Types in Microservices](https://dev.to/tkssharma/authentication-types-in-microservices-1401)
-- [Build standalone applications with Nestjs](https://dev.to/tkssharma/build-standalone-applications-with-nestjs-1pep)
-- [Scale Nodejs Nestjs with Prometheus &amp; Grafana Metrics #series #01](https://dev.to/tkssharma/scale-nodejs-nestjs-with-prometheus-grafana-metrics-series-01-77g)
+- [GBase 8a MPP Cluster FTP File Server Configuration Guide](https://dev.to/congcong/gbase-8a-mpp-cluster-ftp-file-server-configuration-guide-ddi)
+- [Day 35:](https://dev.to/mc_75fd1f9597c94c8df8ec2e/day-35-3k59)
+- [Enjoy Enterprise-Level Security for Free with SafeLine Community Edition](https://dev.to/lulu_liu_c90f973e2f954d7f/enjoy-enterprise-level-security-for-free-with-safeline-community-edition-hmp)
+- [Types of DNS attacks](https://dev.to/kareemzok/types-of-dns-attacks-4aae)
+- [The Role of Data Analysts in Modern Business: How Pangaea X Bridges the Talent Gap](https://dev.to/pangaea_x/the-role-of-data-analysts-in-modern-business-how-pangaea-x-bridges-the-talent-gap-1lfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
