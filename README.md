@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Entity Framework Core Tutorial: Comparing Asynchronous vs Synchronous Queries](https://dev.to/moh_moh701/entity-framework-core-tutorial-comparing-asynchronous-vs-synchronous-queries-551)
-- [First Blog Post // Week 1](https://dev.to/cduarte3/first-blog-post-week-1-5k5)
-- [Building a City Hall Clock App for macOS: A Comprehensive Guide](https://dev.to/rezmoss/building-a-city-hall-clock-app-for-macos-a-comprehensive-guide-48k4)
-- [How to Install and Enable Imagick for PHP 8.3 on macOS](https://dev.to/nasrulhazim/how-to-install-and-enable-imagick-for-php-83-on-macos-2feo)
-- [A Compelling Case for the Comma Operator](https://dev.to/somedood/a-compelling-case-for-the-comma-operator-28bn)
+- [Agentic Framework for Enterprise Java Applications](https://dev.to/vishalmysore/agentic-framework-for-enterprise-java-applications-2107)
+- [Supadart Typesafe Supabase Flutter Queries](https://dev.to/mmvergara/supadart-typesafe-supabase-flutter-queries-2aa2)
+- [Back to development after 3 months](https://dev.to/vpalania/back-to-development-after-3-months-3e24)
+- [Ditch the Server, Own Your Words: Building a Decentralized Blog with IPFS](https://dev.to/mibii/ditch-the-server-own-your-words-building-a-decentralized-blog-with-ipfs-1p56)
+- [Mastering Form Handling in React: The Ultimate Guide](https://dev.to/hiba_baeej_4d14f98b4988a3/mastering-form-handling-in-react-the-ultimate-guide-139e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
