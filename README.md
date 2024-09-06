@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Database] Multi-Version Concurrency Control](https://dev.to/jacktt/database-multi-version-concurrency-control-l9j)
-- [get](https://dev.to/__040711563a17902392e7/get-2ocf)
-- [get](https://dev.to/__040711563a17902392e7/get-12i8)
-- [Chat With Repos&lpar;PRs&rpar; Using Llama 3.1B](https://dev.to/langtrace/chat-with-reposprs-using-llama-31b-25aj)
-- [Terminal-Integrated Coding Assistant](https://dev.to/oscar_rivera_256169965bd3/terminal-integrated-coding-assistant-28n8)
+- [Dive into the Cutting Edge of Natural Language Processing! 🤖](https://dev.to/getvm/dive-into-the-cutting-edge-of-natural-language-processing-441b)
+- [Mastering Element UI: The &#39;Vanished Into Thin Air&#39; Project](https://dev.to/labex/mastering-element-ui-the-vanished-into-thin-air-project-2bi1)
+- [Le Java Memory Model : Comprendre la concurrence en profondeur](https://dev.to/tmohchelios/le-java-memory-model-comprendre-la-concurrence-en-profondeur-40no)
+- [Advance pattern python webkul interview](https://dev.to/navnit73/advance-pattern-python-webkul-interview-2p3o)
+- [Introduction for OSD600 class](https://dev.to/harshil_patel/introduction-for-osd600-class-cfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
