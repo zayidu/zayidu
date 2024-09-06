@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter DropdownButton](https://dev.to/aadarshk7/flutter-dropdownbutton-26f)
-- [nginx: putting your site in ‘downtime’ for everyone except you](https://dev.to/gbhorwood/nginx-putting-your-site-in-downtime-for-everyone-except-you-34g0)
-- [Essential Docker Commands and Best Practices for Developers](https://dev.to/isuru_sajith/essential-docker-commands-and-best-practices-for-developers-106k)
-- [Game Quiz API](https://dev.to/devsdocs/game-quiz-api-4nce)
-- [How to Prevent Infinite Loops in `save_post` Hook in WordPress](https://dev.to/zendyani/how-to-prevent-infinite-loops-in-savepost-hook-in-wordpress-1l75)
+- [Minecraft: A Janela para a POO](https://dev.to/punkdasilva/minecraft-a-janela-para-a-poo-21p)
+- [The Best Way To Validate Objects in .NET in 2024](https://dev.to/antonmartyniuk/the-best-way-to-validate-objects-in-net-in-2024-1lpd)
+- [CSS Grid - A Deep Dive](https://dev.to/ridoy_hasan/css-grid-a-deep-dive-55l7)
+- [Fetching Blog Posts in Next.js Using the DEV.to API](https://dev.to/rajeshkumaryadavdotcom/fetching-blog-posts-in-nextjs-using-the-devto-api-4gdk)
+- [If losing the small battles would win you in the long run then why not?](https://dev.to/ibrahimshamma99/if-losing-the-small-battles-would-win-you-in-the-long-run-then-why-not-53d4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
