@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Re-using Dockerfile.base with your Fly.io deployments](https://dev.to/petercsiba/re-using-dockerfilebase-with-your-flyio-deployments-20fj)
-- [Configuring Entities and Relationships in EF Core](https://dev.to/moh_moh701/configuring-entities-and-relationships-in-ef-core-3ik2)
-- [createStore in Zustand&#39;s source code explained.](https://dev.to/thinkthroo/createstore-in-zustands-source-code-explained-nj6)
-- [Job Alert: Software Developer &lpar;TS/SCI&rpar; - Transform Geospatial Intelligence with Innovative Solutions!](https://dev.to/recruiter-emily/job-alert-software-developer-tssci-transform-geospatial-intelligence-with-innovative-solutions-17ag)
-- [Getting Started with Entity Framework Core](https://dev.to/moh_moh701/getting-started-with-entity-framework-core-1ih2)
+- [Developer diary #20. My favorite podcasts.](https://dev.to/kiolk/developer-diary-20-my-favorite-podcasts-4heh)
+- [Devtool is not necessary](https://dev.to/akinloludavid/devtool-is-not-necessary-535n)
+- [Data, ML, and AI in Google Cloud](https://dev.to/marisbotero/data-ml-and-ai-in-google-cloud-1oie)
+- [L&#39;Impact de l&#39;Intelligence Artificielle sur la Cybersécurité](https://dev.to/regisrobert/limpact-de-lintelligence-artificielle-sur-la-cybersecurite-52mk)
+- [CPU Secrets: What Really Happens Under the Hood](https://dev.to/vanshaj_shah_4f3a7fb89c47/cpu-secrets-what-really-happens-under-the-hood-27e1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
