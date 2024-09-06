@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [1417 Open Source alternatives to tools you pay for](https://dev.to/johnrushx/1417-open-source-alternatives-to-tools-you-pay-for-5g49)
-- [Mastering MySQL Aggregate Functions: Simplifying Data Analysis](https://dev.to/senkae_ll/mastering-mysql-aggregate-functions-simplifying-data-analysis-1g5o)
-- [Living without &quot;lifecycle hooks&quot;](https://dev.to/dariomannu/living-without-lifecycle-hooks-4oce)
-- [Top 5+ Low-Code/No-Code tools [Based On Flatlogic Research]](https://dev.to/alesiasirotka/top-5-low-codeno-code-top-5-low-codeno-code-tools-5hlj)
-- [why Nestjs is Fav for Backend developers](https://dev.to/tkssharma/why-nestjs-is-fav-for-backend-developers-49gk)
+- [Comprehensive Analysis of Attack Events with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/comprehensive-analysis-of-attack-events-with-safeline-waf-45e3)
+- [Creating Malware in Python](https://dev.to/mohanavamsi0614/creating-malware-in-python-2l5d)
+- [Essential Online Tools for Developers](https://dev.to/foxinfotech/essential-online-tools-for-developers-4egm)
+- [Overcoming Electron-Builder Limitations: A C# and NSIS Hybrid Approach](https://dev.to/abdulghaffar349/overcoming-electron-builder-limitations-a-c-and-nsis-hybrid-approach-1oc8)
+- [Como abstrair a conexão com base de dados em Golang?](https://dev.to/ortizdavid/como-abstrair-a-conexao-com-base-de-dados-em-golang-374c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
