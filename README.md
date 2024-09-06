@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Analysis of Attack Events with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/comprehensive-analysis-of-attack-events-with-safeline-waf-45e3)
-- [Creating Malware in Python](https://dev.to/mohanavamsi0614/creating-malware-in-python-2l5d)
-- [Essential Online Tools for Developers](https://dev.to/foxinfotech/essential-online-tools-for-developers-4egm)
-- [Overcoming Electron-Builder Limitations: A C# and NSIS Hybrid Approach](https://dev.to/abdulghaffar349/overcoming-electron-builder-limitations-a-c-and-nsis-hybrid-approach-1oc8)
-- [Como abstrair a conexão com base de dados em Golang?](https://dev.to/ortizdavid/como-abstrair-a-conexao-com-base-de-dados-em-golang-374c)
+- [What is React? An Overview of React.js Concepts and Terminology](https://dev.to/ritu03/what-is-react-an-overview-of-reactjs-concepts-and-terminology-2136)
+- [WEB APP DEPLOYMENT WITH A CI/CD PIPELINE ON AZURE APP SERVICE USING GITHUB AND VS CODE](https://dev.to/presh1/web-app-deployment-with-a-cicd-pipeline-on-azure-app-service-using-github-and-vs-code-2nkf)
+- [Writing Pythonic Code: Tips and Tricks for Cleaner Syntax.](https://dev.to/balrajola/writing-pythonic-code-tips-and-tricks-for-cleaner-syntax-3d1p)
+- [A Beginner’s Guide to Object Detection in Python](https://dev.to/abhinowww/a-beginners-guide-to-object-detection-in-python-5ahp)
+- [** De los bits al chi: El sorprendente vínculo entre la programación y el Tai Chi **👩‍💻](https://dev.to/orlidev/-de-los-bits-al-chi-el-sorprendente-vinculo-entre-la-programacion-y-el-tai-chi--34aa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
