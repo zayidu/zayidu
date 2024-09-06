@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Full-Stack Application with MEAN Stack](https://dev.to/kartikmehta8/building-a-full-stack-application-with-mean-stack-2b5m)
-- [Release Radar · August 2024: Major updates from the open source community](https://dev.to/mishmanners/release-radar-august-2024-major-updates-from-the-open-source-community-54mo)
-- [Wazuh reglas y alertas para detección de intrusos](https://dev.to/aleets_vaaz/wazuh-reglas-y-alertas-para-deteccion-de-intrusos-d5c)
-- [How to send reports to different recipients based on the date](https://dev.to/sqlman/how-to-send-reports-to-different-recipients-based-on-the-date-31d6)
-- [How I Built Huddle Landing Page with Curved Sections](https://dev.to/be_rajeevkumar/how-i-built-huddle-landing-page-with-curved-sections-1lnh)
+- [[Database] Multi-Version Concurrency Control](https://dev.to/jacktt/database-multi-version-concurrency-control-l9j)
+- [get](https://dev.to/__040711563a17902392e7/get-2ocf)
+- [get](https://dev.to/__040711563a17902392e7/get-12i8)
+- [Chat With Repos&lpar;PRs&rpar; Using Llama 3.1B](https://dev.to/langtrace/chat-with-reposprs-using-llama-31b-25aj)
+- [Terminal-Integrated Coding Assistant](https://dev.to/oscar_rivera_256169965bd3/terminal-integrated-coding-assistant-28n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
