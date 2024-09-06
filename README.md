@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My First blog.](https://dev.to/krinskumar/my-first-blog-55hp)
-- [Day 14: React State Management, Hooks, and Java Pattern Problems!](https://dev.to/jasman_deep_58679206bad26/day-14-react-state-management-hooks-and-java-pattern-problems-56lp)
-- [Enhancing API Debugging with Autonomous Agents](https://dev.to/apidna/enhancing-api-debugging-with-autonomous-agents-48i1)
-- [Resolve &quot;Blocked by CORS Policy: No &#39;Access-Control-Allow-Origin&#39;&quot; in Laravel](https://dev.to/robertobutti/resolve-blocked-by-cors-policy-no-access-control-allow-origin-in-laravel-kp1)
-- [Building a RESTful API with Prisma, Express, TypeScript, and PostgreSQL](https://dev.to/samuel_kinuthia/building-a-restful-api-with-prisma-express-typescript-and-postgresql-333p)
+- [Build YouTube API Data Fetching Using Rust](https://dev.to/francescoxx/build-youtube-api-data-fetching-using-rust-2713)
+- [hii](https://dev.to/wesley_gianan_65f64c1ee8d/hii-1fd2)
+- [Embracing AI in Content Creation: Making It Sound Human](https://dev.to/erza_kuru/embracing-ai-in-content-creation-making-it-sound-human-4k1c)
+- [6. Adding Paragraphs, Links, and Lists in HTML: A Beginner&#39;s Guide](https://dev.to/areeb_anwar_813df06ee1124/6-adding-paragraphs-links-and-lists-in-html-a-beginners-guide-5607)
+- [Componentização: A Alma do React no Projeto Text Decoder Challenge](https://dev.to/vania_gomes/componentizacao-a-alma-do-react-no-projeto-text-decoder-challenge-1nk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
