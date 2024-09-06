@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dive into the Cutting Edge of Natural Language Processing! 🤖](https://dev.to/getvm/dive-into-the-cutting-edge-of-natural-language-processing-441b)
-- [Mastering Element UI: The &#39;Vanished Into Thin Air&#39; Project](https://dev.to/labex/mastering-element-ui-the-vanished-into-thin-air-project-2bi1)
-- [Le Java Memory Model : Comprendre la concurrence en profondeur](https://dev.to/tmohchelios/le-java-memory-model-comprendre-la-concurrence-en-profondeur-40no)
-- [Advance pattern python webkul interview](https://dev.to/navnit73/advance-pattern-python-webkul-interview-2p3o)
-- [Introduction for OSD600 class](https://dev.to/harshil_patel/introduction-for-osd600-class-cfn)
+- [How to Set Up Duplicate Detection Rules in Dynamics 365 CRM: A Step-by-Step Guide](https://dev.to/info_generalhazedawn_a3d/how-to-set-up-duplicate-detection-rules-in-dynamics-365-crm-a-step-by-step-guide-1298)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-6ae)
+- [Record the Personal Mac Apps in Use&lpar;Part 2&rpar;](https://dev.to/angelaswift/record-the-personal-mac-apps-in-usepart-2-51od)
+- [5 Common SQL Server Performance Issues and How to Fix Them.](https://dev.to/icodemechanic/5-common-sql-server-performance-issues-and-how-to-fix-them-1efh)
+- [Hello! I&#39;m new here.](https://dev.to/ryvdas05713/hello-im-new-here-48p8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
