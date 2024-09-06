@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Duplicate Detection Rules in Dynamics 365 CRM: A Step-by-Step Guide](https://dev.to/info_generalhazedawn_a3d/how-to-set-up-duplicate-detection-rules-in-dynamics-365-crm-a-step-by-step-guide-1298)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-6ae)
-- [Record the Personal Mac Apps in Use&lpar;Part 2&rpar;](https://dev.to/angelaswift/record-the-personal-mac-apps-in-usepart-2-51od)
-- [5 Common SQL Server Performance Issues and How to Fix Them.](https://dev.to/icodemechanic/5-common-sql-server-performance-issues-and-how-to-fix-them-1efh)
-- [Hello! I&#39;m new here.](https://dev.to/ryvdas05713/hello-im-new-here-48p8)
+- [Grid and Flex Layout in CSS](https://dev.to/ashutoshsarangi/grid-layout-and-flex-layout-in-css-4e8e)
+- [REVIEW#1 Do not feed the monkeys](https://dev.to/aniex/review1-do-not-feed-the-monkeys-1oan)
+- [AWS -IAM Policies Overview](https://dev.to/sreeni5018/aws-iam-policies-overview-4i5i)
+- [How I ended up building my own AI Dev Assistant from scratch](https://dev.to/mlamina/how-i-ended-up-building-my-own-ai-dev-assistant-from-scratch-3018)
+- [#59 - Split IP Addresses And Then Group Rows](https://dev.to/judith677/59-split-ip-addresses-and-then-group-rows-11f3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
