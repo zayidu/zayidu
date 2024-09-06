@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer diary #20. My favorite podcasts.](https://dev.to/kiolk/developer-diary-20-my-favorite-podcasts-4heh)
-- [Devtool is not necessary](https://dev.to/akinloludavid/devtool-is-not-necessary-535n)
-- [Data, ML, and AI in Google Cloud](https://dev.to/marisbotero/data-ml-and-ai-in-google-cloud-1oie)
-- [L&#39;Impact de l&#39;Intelligence Artificielle sur la Cybersécurité](https://dev.to/regisrobert/limpact-de-lintelligence-artificielle-sur-la-cybersecurite-52mk)
-- [CPU Secrets: What Really Happens Under the Hood](https://dev.to/vanshaj_shah_4f3a7fb89c47/cpu-secrets-what-really-happens-under-the-hood-27e1)
+- [Entity Framework Core Tutorial: Comparing Asynchronous vs Synchronous Queries](https://dev.to/moh_moh701/entity-framework-core-tutorial-comparing-asynchronous-vs-synchronous-queries-551)
+- [First Blog Post // Week 1](https://dev.to/cduarte3/first-blog-post-week-1-5k5)
+- [Building a City Hall Clock App for macOS: A Comprehensive Guide](https://dev.to/rezmoss/building-a-city-hall-clock-app-for-macos-a-comprehensive-guide-48k4)
+- [How to Install and Enable Imagick for PHP 8.3 on macOS](https://dev.to/nasrulhazim/how-to-install-and-enable-imagick-for-php-83-on-macos-2feo)
+- [A Compelling Case for the Comma Operator](https://dev.to/somedood/a-compelling-case-for-the-comma-operator-28bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
