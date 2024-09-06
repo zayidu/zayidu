@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Grid and Flex Layout in CSS](https://dev.to/ashutoshsarangi/grid-layout-and-flex-layout-in-css-4e8e)
-- [REVIEW#1 Do not feed the monkeys](https://dev.to/aniex/review1-do-not-feed-the-monkeys-1oan)
-- [AWS -IAM Policies Overview](https://dev.to/sreeni5018/aws-iam-policies-overview-4i5i)
-- [How I ended up building my own AI Dev Assistant from scratch](https://dev.to/mlamina/how-i-ended-up-building-my-own-ai-dev-assistant-from-scratch-3018)
-- [#59 - Split IP Addresses And Then Group Rows](https://dev.to/judith677/59-split-ip-addresses-and-then-group-rows-11f3)
+- [Want to take a bet on an open-source developer?](https://dev.to/paul_freeman/want-to-take-a-bet-on-an-open-source-developer-368)
+- [Marking Grading System with if-else-elif Part-09](https://dev.to/monirulislam027/marking-grading-system-with-if-else-elif-part-09-5g6j)
+- [GBase 8s JDBC Character Set Parameters Explained](https://dev.to/congcong/gbase-8s-jdbc-character-set-parameters-explained-49kk)
+- [Daily screenshot management w/ Crontab on MacOS](https://dev.to/siddhantkcode/daily-screenshot-management-w-crontab-on-macos-g4)
+- [REVIEW#3 Helltaker](https://dev.to/aniex/review3-helltaker-34ck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
