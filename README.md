@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Throttling &amp; Debouncing in JavaScript: A Beginner&#39;s Guide](https://dev.to/alisamir/throttling-debouncing-in-javascript-a-beginners-guide-3j7n)
-- [How to Contribute to a Public GitHub Repository on GitHub by performing a git CLI Pull-Request](https://dev.to/practicing_datscy/how-to-contribute-to-a-public-github-repository-on-github-by-performing-a-git-cli-pull-request-4mk7)
-- [Como conseguir seu primeiro freela](https://dev.to/lincolixavier/como-conseguir-seu-primeiro-freela-d7h)
-- [Celestial Escapade: A Journey through Space and Code](https://dev.to/snehal_kothawade_b304de24/celestial-escapade-a-journey-through-space-and-code-1002)
-- [Machine-Readable Zone &lpar;MRZ&rpar;: Its Role in ID Verification](https://dev.to/faceplugin/machine-readable-zone-mrz-its-role-in-id-verification-35im)
+- [My First blog.](https://dev.to/krinskumar/my-first-blog-55hp)
+- [Day 14: React State Management, Hooks, and Java Pattern Problems!](https://dev.to/jasman_deep_58679206bad26/day-14-react-state-management-hooks-and-java-pattern-problems-56lp)
+- [Enhancing API Debugging with Autonomous Agents](https://dev.to/apidna/enhancing-api-debugging-with-autonomous-agents-48i1)
+- [Resolve &quot;Blocked by CORS Policy: No &#39;Access-Control-Allow-Origin&#39;&quot; in Laravel](https://dev.to/robertobutti/resolve-blocked-by-cors-policy-no-access-control-allow-origin-in-laravel-kp1)
+- [Building a RESTful API with Prisma, Express, TypeScript, and PostgreSQL](https://dev.to/samuel_kinuthia/building-a-restful-api-with-prisma-express-typescript-and-postgresql-333p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
