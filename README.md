@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Pre-DevOps Era &amp; Introduction to CI/CD: Day 39 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/the-pre-devops-era-introduction-to-cicd-day-39-of-50-days-devops-tools-series-6f1)
-- [DEF CON 32: What We Learned About Secrets Security at AppSec Village](https://dev.to/gitguardian/def-con-32-what-we-learned-about-secrets-security-at-appsec-village-1o1j)
-- [Everything You Need to Know About Postman vs Hoppscotch](https://dev.to/cyanspray/everything-you-need-to-know-about-postman-vs-hoppscotch-38f5)
-- [𝗘𝗻𝗵𝗮𝗻𝗰𝗶𝗻𝗴 𝗔𝗣𝗜 𝗖𝗹𝗮𝗿𝗶𝘁𝘆: 𝗣𝗼𝘀𝘁𝗺𝗮𝗻 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗕𝗲𝘀𝘁 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀](https://dev.to/jay_jethava_3bc967a3da87d/-5gfb)
-- [How to implement authorization in a React application](https://dev.to/cerbosdev/how-to-implement-authorization-in-a-react-application-48fb)
+- [Connect Kafka with Golang](https://dev.to/chauhoangminhnguyen/connect-kafka-with-golang-3h4d)
+- [Unlocking the Power of Data Structures and Algorithms &lpar;DSA&rpar; in Laravel](https://dev.to/himanshudevl/unlocking-the-power-of-data-structures-and-algorithms-dsa-in-laravel-kb2)
+- [10 Conditional Rendering Examples in CSS and React.js 🚀&lpar;Part 1&rpar;](https://dev.to/uicraft_by_pratik/10-conditional-rendering-examples-in-css-and-reactjs-part-1-2eij)
+- [Open Source Tools for AWS Cost Optimization: The Ultimate Guide](https://dev.to/harman_diaz/open-source-tools-for-aws-cost-optimization-the-ultimate-guide-17je)
+- [Game Dev Digest — Issue #249 - Game Art, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-249-game-art-and-more-277j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
