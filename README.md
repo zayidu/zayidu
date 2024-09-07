@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Data Science in .NET with Polyglot Notebooks](https://dev.to/integerman/announcing-data-science-in-net-with-polyglot-notebooks-36d5)
+- [Exploring Raylib and Open Source](https://dev.to/add00/exploring-raylib-and-open-source-54jb)
+- [The Start to my Open Source Development Journey](https://dev.to/jadorotan/the-start-to-my-open-source-development-journey-4p15)
 - [Introduction to Apache Cassandra](https://dev.to/kartikmehta8/introduction-to-apache-cassandra-3fg)
 - [Open Source Development](https://dev.to/amullagaliev/open-source-development-5309)
-- [Pruebas Unitarias en Laravel con Sanctum](https://dev.to/rzerostern/pruebas-unitarias-en-laravel-con-sanctum-4556)
-- [A Step-by-Step Guide to Internationalizing Flutter App](https://dev.to/curtlycritchlow/a-step-by-step-guide-to-internationalizing-flutter-app-457e)
-- [My first post](https://dev.to/sych_andrii/my-first-post-1n94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
