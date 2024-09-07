@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Book Tracker Program Demonstration | Rishi Nalem](https://dev.to/rishi_nalem/book-tracker-program-demonstration-rishi-nalem-36n0)
-- [Day 1: Introduction to Algorithmic Complexity](https://dev.to/kartikdevsharma/day-1-introduction-to-algorithmic-complexity-48pc)
-- [🔓 Unlocking the Power of Prompt Engineering with Amazon Bedrock&#39;s Foundation Model 💡](https://dev.to/aws-builders/unlocking-the-power-of-prompt-engineering-with-amazon-bedrocks-foundation-model-5d55)
-- [How SQL Spatial Data Solves Real-World Problems](https://dev.to/nuthankishore/how-sql-spatial-data-solves-real-world-problems-i4j)
-- [In Theory: Self-Correcting Software - Part 2](https://dev.to/ingigauti/in-theory-self-correcting-software-part-2-5gc2)
+- [chapter 1: Introduction to Next.js 13: What’s New? 🚀](https://dev.to/margish288/chapter-1-introduction-to-nextjs-13-whats-new-48o7)
+- [The Rise of AI Story Tools: Transforming Creative Writing](https://dev.to/carol_jensen_707b4bb0ca79/the-rise-of-ai-story-tools-transforming-creative-writing-4028)
+- [Taming the Mega-Component: My Vue.js Refactoring Adventure](https://dev.to/rrd/taming-the-mega-component-my-vuejs-refactoring-adventure-5a3)
+- [What is Typescript ?](https://dev.to/adarsh_mishra/what-is-typescript--ojo)
+- [Dungeon Master’s Guide to Project Management](https://dev.to/deant_/dungeon-masters-guide-to-project-management-de4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
