@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding OAuth 2.0: A Comprehensive Guide](https://dev.to/shwetapalande/understanding-oauth-20-a-comprehensive-guide-5h82)
-- [Mocking Network Requests Made Easy: Integrating Jest and MSW](https://dev.to/rolandawoda/mocking-network-requests-made-easy-integrating-jest-and-msw-58ak)
-- [Using Java EpsilonGC to look at memory allocation.](https://dev.to/vishalendu/using-java-episilongc-to-look-at-memory-allocation-50bi)
-- [The Mysterious Voyage to Purple Planet](https://dev.to/jagroop2001/the-mysterious-voyage-to-purple-planet-4743)
-- [API - Creating a Api in NodeJS with Prisma ORM &amp; MongoDB](https://dev.to/raynecoder/api-creating-a-api-in-nodejs-with-prisma-orm-mongodb-1hc5)
+- [How do you raise funds for an open-source project?](https://dev.to/paul_freeman/how-do-you-raise-funds-for-an-open-source-project-484g)
+- [How can I enable or disable the &quot;Display Over Other Apps&quot; feature on Android?](https://dev.to/thomas_4b3207adb1a95f6d5b/how-can-i-enable-or-disable-the-display-over-other-apps-feature-on-android-ekj)
+- [Hiding all pinned browser extensions by one click](https://dev.to/feiye/hiding-all-pinned-browser-extensions-by-one-click-4pmm)
+- [Let&#39;s Make the Internet a Safer Place! State of Passkeys is Now Live on Product Hunt 🚀](https://dev.to/corbado/lets-make-the-internet-a-safer-place-state-of-passkeys-is-now-live-on-product-hunt-431g)
+- [Semantic Search Using Msmarco Distilbert Base &amp; Faiss Vector Database - AI Project](https://dev.to/samuel_bautista_12/semantic-search-using-msmarco-distilbert-base-faiss-vector-database-ai-project-43ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
