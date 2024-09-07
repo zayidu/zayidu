@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como começar um produto do zero](https://dev.to/kleysongomes/como-comecar-um-produto-do-zero-239g)
-- [Online Machine Learning](https://dev.to/damikaanupama/online-machine-learning-5g6p)
-- [How to delete a git branch &lpar;local and remote&rpar;](https://dev.to/sharmaprash/how-to-delete-a-git-branch-local-and-remote-5ae4)
-- [Git Gud: Survive your 1st Month of Using Git 🚀](https://dev.to/middleware/git-gud-survive-your-1st-month-of-using-git-1j2m)
-- [How to install all the tools you need and want in Kali Linux with one command &lpar;From top 10 to default to everything&rpar;](https://dev.to/hax/how-to-install-all-the-tools-you-need-and-want-in-kali-linux-with-one-command-from-top-10-to-default-to-everything-5221)
+- [Creating and connecting to a Linux VM using a public key.](https://dev.to/abidemi/creating-and-connecting-to-a-linux-vm-using-a-public-key-49o0)
+- [Diary of a Software Developer #6 - End-of-week wrap-up](https://dev.to/antoniodev/diary-of-a-software-developer-6-end-of-week-wrap-up-25bk)
+- [Understanding Angular&#39;s APP_INITIALIZER with Practical Use-Cases](https://dev.to/ayoub_khial/understanding-angulars-appinitializer-with-practical-use-cases-58gp)
+- [Advanced CSS Grid Techniques](https://dev.to/ridoy_hasan/advanced-css-grid-techniques-24fm)
+- [Getting Started with Asynchronous Programming in Dart](https://dev.to/a_greynoon/getting-started-with-asynchronous-programming-in-dart-425)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
