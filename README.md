@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [จัดการ Go dependencies tools ด้วย Go mod](https://dev.to/pallat/cchadkaar-go-dependencies-tools-dwy-go-mod-g91)
-- [Meu caminho na tecnologia: Alguns aprendizados que posso compartilhar.](https://dev.to/feministech/meu-caminho-na-tecnologia-alguns-aprendizados-que-posso-compartilhar-4gin)
-- [Microsoft Planner and Microsoft Project - MS 900 Exam Guide](https://dev.to/david2024mr/microsoft-planner-and-microsoft-project-ms-900-exam-guide-5b7n)
-- [Configuring AWS VPC, Load Balancers, and DNS for WordPress and Moodle Integration](https://dev.to/mateoramirezr/configuring-aws-vpc-load-balancers-and-dns-for-wordpress-and-moodle-integration-47bd)
-- [React State](https://dev.to/kcapers94/react-state-451a)
+- [Advanced Data Fetching Techniques in Next.js](https://dev.to/devgauravjatt/advanced-data-fetching-techniques-in-nextjs-5bd4)
+- [New Adventures in Open Source Development](https://dev.to/buxton_philp-preuss/new-adventures-in-open-source-development-2ije)
+- [My Impression of Open Source](https://dev.to/inderpreet/my-impression-of-open-source-4a6)
+- [Dive into the World of Decentralized Apps with Master Solidity! 🚀](https://dev.to/getvm/dive-into-the-world-of-decentralized-apps-with-master-solidity-387b)
+- [How To Announce Anything!](https://dev.to/theholyspirit/how-to-announce-anything-1hb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
