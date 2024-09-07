@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Data Science in .NET with Polyglot Notebooks](https://dev.to/integerman/announcing-data-science-in-net-with-polyglot-notebooks-36d5)
-- [Exploring Raylib and Open Source](https://dev.to/add00/exploring-raylib-and-open-source-54jb)
-- [The Start to my Open Source Development Journey](https://dev.to/jadorotan/the-start-to-my-open-source-development-journey-4p15)
-- [Introduction to Apache Cassandra](https://dev.to/kartikmehta8/introduction-to-apache-cassandra-3fg)
-- [Open Source Development](https://dev.to/amullagaliev/open-source-development-5309)
+- [จัดการ Go dependencies tools ด้วย Go mod](https://dev.to/pallat/cchadkaar-go-dependencies-tools-dwy-go-mod-g91)
+- [Meu caminho na tecnologia: Alguns aprendizados que posso compartilhar.](https://dev.to/feministech/meu-caminho-na-tecnologia-alguns-aprendizados-que-posso-compartilhar-4gin)
+- [Microsoft Planner and Microsoft Project - MS 900 Exam Guide](https://dev.to/david2024mr/microsoft-planner-and-microsoft-project-ms-900-exam-guide-5b7n)
+- [Configuring AWS VPC, Load Balancers, and DNS for WordPress and Moodle Integration](https://dev.to/mateoramirezr/configuring-aws-vpc-load-balancers-and-dns-for-wordpress-and-moodle-integration-47bd)
+- [React State](https://dev.to/kcapers94/react-state-451a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
