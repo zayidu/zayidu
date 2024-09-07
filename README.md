@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [If you have these three things, you will be fine &lpar;as a dev&rpar;](https://dev.to/noriller/if-you-have-these-three-things-you-will-be-fine-as-a-dev-4pgj)
-- [Working with XML-Based REST API with Spring Boot](https://dev.to/nilan/working-with-xml-based-rest-api-with-spring-boot-2g0h)
-- [Difference between anchor tag &lt;a/&gt; and Link tag &lt;Link&gt; in Next.js](https://dev.to/kashifnehal/difference-between-anchor-tag-and-link-tag-in-nextjs-2a8p)
-- [Analog Clock](https://dev.to/suyxcode/analog-clock-29i)
-- [4 tips for a 10x productivity using Cursor](https://dev.to/romainsimon/4-tips-for-a-10x-productivity-using-cursor-1n3o)
+- [Is it too late to become a web developer in X year? 🤔](https://dev.to/grech_ca/is-it-too-late-to-become-a-web-developer-in-x-year-5bp6)
+- [Client Side Rendering &lpar;CSR&rpar; vs Server Side Rendering &lpar;SSR&rpar;: Simplified Story](https://dev.to/kashifnehal/client-side-rendering-csr-vs-server-side-rendering-ssr-simplified-1bik)
+- [How to reuse queries in Angular Query](https://dev.to/umarhai/how-to-reuse-queries-in-angular-query-1a4i)
+- [Common Problems during the training of Neural Networks](https://dev.to/ragoli86/common-problems-during-the-training-of-neural-networks-561)
+- [JavaScript: How it is done behind the scenes](https://dev.to/reanza_gara_1efe6975708bd/javascript-how-it-is-done-behind-the-scenes-2d03)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
