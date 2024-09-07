@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Size specifications in CSS: A developer&#39;s joys and sorrows 🎨](https://dev.to/disane/size-specifications-in-css-a-developers-joys-and-sorrows-hh3)
-- [Größenangaben in CSS: Freud und Leid eines Entwicklers 🎨](https://dev.to/disane/grossenangaben-in-css-freud-und-leid-eines-entwicklers-ie)
-- [Tech Debt](https://dev.to/syed_sadat_ali/tech-debt-3eo3)
-- [🚀 Introducing NextSolution V2: ASP.NET API + Next.js + Expo Starter Template](https://dev.to/prince272/introducing-nextsolution-v2-aspnet-api-nextjs-expo-starter-template-k9b)
-- [Setting Up an AWS EKS Cluster Using Terraform: A Beginner-Friendly Guide](https://dev.to/iamamash/setting-up-an-aws-eks-cluster-using-terraform-a-beginner-friendly-guide-225d)
+- [How To Build a Basic Search Engine Like Google](https://dev.to/shubhadip_bhowmik/how-to-build-a-basic-search-engine-like-google-4m79)
+- [Talking to a Gmail POP3 server with Python](https://dev.to/paxfeline/talking-to-a-gmail-pop3-server-with-python-59kf)
+- [A website that anyone can edit!](https://dev.to/mistr_anonym_4e867b2d5e4e/a-website-that-anyone-can-edit-30d5)
+- [Python: Interesting Code Patterns](https://dev.to/ninadmhatre/python-interesting-code-patterns-dh3)
+- [Understanding Bing Search History: A Comprehensive Overview](https://dev.to/araminta_arden_a64394cfbc/understanding-bing-search-history-a-comprehensive-overview-4dh1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
