@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Backend Frameworks Every Developer Should Know](https://dev.to/bizmavenhub/top-10-backend-frameworks-every-developer-should-know-1m4b)
-- [ApiManager 的分析](https://dev.to/truman_999999999/apimanager-de-fen-xi-1c1e)
-- [WEB MVC的一些基础配置](https://dev.to/truman_999999999/web-mvcde-xie-ji-chu-pei-zhi-260d)
-- [Let&#39;s Read - Eloquent Ruby - Ch 10](https://dev.to/baweaver/lets-read-eloquent-ruby-ch-10-118k)
-- [Weekly Blog: Four Interesting Things I Encountered This Week](https://dev.to/stockdale_roger_999e292a7/weekly-blog-four-interesting-things-i-encountered-this-week-eo9)
+- [Understanding Mass Assignment in Laravel: How fillable Protects Your Models](https://dev.to/vimuth7/understanding-mass-assignment-in-laravel-how-fillable-protects-your-models-2n4c)
+- [Can you develop and test AR applications using the Unity app for iPhone?](https://dev.to/roger_bcfcd1df4429bb109df/can-you-develop-and-test-ar-applications-using-the-unity-app-for-iphone-37b4)
+- [Automate and Elevate: Integrating GitHub Actions with SonarCloud for Superior Code Quality](https://dev.to/s3cloudhub/automate-and-elevate-integrating-github-actions-with-sonarcloud-for-superior-code-quality-2jj8)
+- [One-To-One Relation in Two Different Entities using Asp .Net 8 Web Api &lpar;Practical&rpar;](https://dev.to/mvcwebapiii/sample-of-one-to-one-relation-in-two-different-entities-using-asp-net-8-web-api-practical-444o)
+- [Django Rest Framework](https://dev.to/shohruh_urolov/django-rest-framework-46o1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
