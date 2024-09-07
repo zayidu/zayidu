@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Installation on different OS.](https://dev.to/theomkarauti/java-installation-on-different-os-6ec)
-- [Day 26: Understanding AWS Cloud for Project Setup – Lift &amp; Shift](https://dev.to/singh_in_cloud/day-26-understanding-aws-cloud-for-project-setup-lift-shift-1h5b)
-- [Don&#39;t Let Code Give You Gray Hair! 15 Python Functions to Save Your Development Life](https://dev.to/harveysun/dont-let-code-give-you-gray-hair-15-python-functions-to-save-your-development-life-46c3)
-- [How does Flutter Engine work?](https://dev.to/nachiket-gohil/how-does-flutter-engine-work-5e21)
-- [VS Code HTML shortcuts that might save your valuable time ⏳🔥](https://dev.to/rabbi_lii_/vs-code-html-shortcuts-that-might-save-your-valuable-time-4h4d)
+- [Book Tracker Program Demonstration | Rishi Nalem](https://dev.to/rishi_nalem/book-tracker-program-demonstration-rishi-nalem-36n0)
+- [Day 1: Introduction to Algorithmic Complexity](https://dev.to/kartikdevsharma/day-1-introduction-to-algorithmic-complexity-48pc)
+- [🔓 Unlocking the Power of Prompt Engineering with Amazon Bedrock&#39;s Foundation Model 💡](https://dev.to/aws-builders/unlocking-the-power-of-prompt-engineering-with-amazon-bedrocks-foundation-model-5d55)
+- [How SQL Spatial Data Solves Real-World Problems](https://dev.to/nuthankishore/how-sql-spatial-data-solves-real-world-problems-i4j)
+- [In Theory: Self-Correcting Software - Part 2](https://dev.to/ingigauti/in-theory-self-correcting-software-part-2-5gc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
