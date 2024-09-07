@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating and connecting to a Linux VM using a public key.](https://dev.to/abidemi/creating-and-connecting-to-a-linux-vm-using-a-public-key-49o0)
-- [Diary of a Software Developer #6 - End-of-week wrap-up](https://dev.to/antoniodev/diary-of-a-software-developer-6-end-of-week-wrap-up-25bk)
-- [Understanding Angular&#39;s APP_INITIALIZER with Practical Use-Cases](https://dev.to/ayoub_khial/understanding-angulars-appinitializer-with-practical-use-cases-58gp)
-- [Advanced CSS Grid Techniques](https://dev.to/ridoy_hasan/advanced-css-grid-techniques-24fm)
-- [Getting Started with Asynchronous Programming in Dart](https://dev.to/a_greynoon/getting-started-with-asynchronous-programming-in-dart-425)
+- [If you have these three things, you will be fine &lpar;as a dev&rpar;](https://dev.to/noriller/if-you-have-these-three-things-you-will-be-fine-as-a-dev-4pgj)
+- [Working with XML-Based REST API with Spring Boot](https://dev.to/nilan/working-with-xml-based-rest-api-with-spring-boot-2g0h)
+- [Difference between anchor tag &lt;a/&gt; and Link tag &lt;Link&gt; in Next.js](https://dev.to/kashifnehal/difference-between-anchor-tag-and-link-tag-in-nextjs-2a8p)
+- [Analog Clock](https://dev.to/suyxcode/analog-clock-29i)
+- [4 tips for a 10x productivity using Cursor](https://dev.to/romainsimon/4-tips-for-a-10x-productivity-using-cursor-1n3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
