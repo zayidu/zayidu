@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [chapter 1: Introduction to Next.js 13: What’s New? 🚀](https://dev.to/margish288/chapter-1-introduction-to-nextjs-13-whats-new-48o7)
-- [The Rise of AI Story Tools: Transforming Creative Writing](https://dev.to/carol_jensen_707b4bb0ca79/the-rise-of-ai-story-tools-transforming-creative-writing-4028)
-- [Taming the Mega-Component: My Vue.js Refactoring Adventure](https://dev.to/rrd/taming-the-mega-component-my-vuejs-refactoring-adventure-5a3)
-- [What is Typescript ?](https://dev.to/adarsh_mishra/what-is-typescript--ojo)
-- [Dungeon Master’s Guide to Project Management](https://dev.to/deant_/dungeon-masters-guide-to-project-management-de4)
+- [Size specifications in CSS: A developer&#39;s joys and sorrows 🎨](https://dev.to/disane/size-specifications-in-css-a-developers-joys-and-sorrows-hh3)
+- [Größenangaben in CSS: Freud und Leid eines Entwicklers 🎨](https://dev.to/disane/grossenangaben-in-css-freud-und-leid-eines-entwicklers-ie)
+- [Tech Debt](https://dev.to/syed_sadat_ali/tech-debt-3eo3)
+- [🚀 Introducing NextSolution V2: ASP.NET API + Next.js + Expo Starter Template](https://dev.to/prince272/introducing-nextsolution-v2-aspnet-api-nextjs-expo-starter-template-k9b)
+- [Setting Up an AWS EKS Cluster Using Terraform: A Beginner-Friendly Guide](https://dev.to/iamamash/setting-up-an-aws-eks-cluster-using-terraform-a-beginner-friendly-guide-225d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
