@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you raise funds for an open-source project?](https://dev.to/paul_freeman/how-do-you-raise-funds-for-an-open-source-project-484g)
-- [How can I enable or disable the &quot;Display Over Other Apps&quot; feature on Android?](https://dev.to/thomas_4b3207adb1a95f6d5b/how-can-i-enable-or-disable-the-display-over-other-apps-feature-on-android-ekj)
-- [Hiding all pinned browser extensions by one click](https://dev.to/feiye/hiding-all-pinned-browser-extensions-by-one-click-4pmm)
-- [Let&#39;s Make the Internet a Safer Place! State of Passkeys is Now Live on Product Hunt 🚀](https://dev.to/corbado/lets-make-the-internet-a-safer-place-state-of-passkeys-is-now-live-on-product-hunt-431g)
-- [Semantic Search Using Msmarco Distilbert Base &amp; Faiss Vector Database - AI Project](https://dev.to/samuel_bautista_12/semantic-search-using-msmarco-distilbert-base-faiss-vector-database-ai-project-43ec)
+- [Top 10 Backend Frameworks Every Developer Should Know](https://dev.to/bizmavenhub/top-10-backend-frameworks-every-developer-should-know-1m4b)
+- [ApiManager 的分析](https://dev.to/truman_999999999/apimanager-de-fen-xi-1c1e)
+- [WEB MVC的一些基础配置](https://dev.to/truman_999999999/web-mvcde-xie-ji-chu-pei-zhi-260d)
+- [Let&#39;s Read - Eloquent Ruby - Ch 10](https://dev.to/baweaver/lets-read-eloquent-ruby-ch-10-118k)
+- [Weekly Blog: Four Interesting Things I Encountered This Week](https://dev.to/stockdale_roger_999e292a7/weekly-blog-four-interesting-things-i-encountered-this-week-eo9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
