@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Eleventy - Is it time to upgrade to version 3?](https://dev.to/robole/eleventy-is-it-time-to-upgrade-to-version-3-4c72)
-- [Advanced Frontend Resources for Next.js Development 🚀](https://dev.to/hamzakhan/advanced-frontend-resources-for-nextjs-development-5fe2)
-- [Best DevOps Automation Tools to Supercharge Your Workflow](https://dev.to/devops_den/best-devops-automation-tools-to-supercharge-your-workflow-44dk)
-- [Function memoizer for every framework](https://dev.to/ahmetilhn/function-memoizer-for-every-framework-2g2)
-- [Create a Wordle Game in HTML,CSS, and JS](https://dev.to/devops_den/create-a-wordle-game-in-htmlcss-and-js-4d17)
+- [10 Chrome extension to make you 10x webdeveloper](https://dev.to/paul_freeman/10-chrome-extension-to-make-you-10x-webdeveloper-4im9)
+- [Migrating to the Cloud: A Step-by-Step Guide for DevOps Engineers](https://dev.to/prodevopsguytech/migrating-to-the-cloud-a-step-by-step-guide-for-devops-engineers-4i3f)
+- [How to Scrape LinkedIn for the Latest Job Postings: A Step-by-Step Guide 🖥️💼](https://dev.to/evgensuit/how-to-scrape-linkedin-for-the-latest-job-postings-a-step-by-step-guide-51if)
+- [8 Essential Big&lpar;O&rpar; Notations for Coding Interviews](https://dev.to/somadevtoo/8-essential-bigo-notations-for-coding-interviews-k4h)
+- [Terraform - Module Jenkins Agent Maven Configuration in Kubernetes](https://dev.to/binoy_59380e698d318/terraform-module-jenkins-agent-maven-configuration-in-kubernetes-427c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
