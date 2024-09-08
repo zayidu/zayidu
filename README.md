@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Roadmap to Learning C Programming](https://dev.to/dev_frank/roadmap-to-learning-c-programming-22e6)
 - [JavaScript Notebook First Edition（Node.js）](https://dev.to/baotlake/javascript-notebook-first-editionnodejs-4ng0)
 - [Why Implement the Repository Pattern in Laravel?](https://dev.to/mdarifulhaque/why-implement-the-repository-pattern-in-laravel-47f0)
 - [Budget handling using npm package saksh-wallet](https://dev.to/susheel_kumar/budget-handling-using-npm-package-saksh-wallet-198f)
 - [Day 68 / 100 Days of Code: Harnessing JavaScript’s Iterative Power](https://dev.to/jacobsternx/day-68-100-days-of-code-harnessing-javascripts-iterative-power-1ff8)
-- [Creating Custom Aliases with Parameters in Bash: Simplify Your Workflow](https://dev.to/paulocappa/creating-custom-aliases-with-parameters-in-bash-simplify-your-workflow-21p8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
