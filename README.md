@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Snow Family](https://dev.to/clintt/aws-snow-family-875)
-- [HTTP Cookies Demystified: A Web Developer&#39;s Guide](https://dev.to/hinedy/http-cookies-demystified-a-web-developers-guide-5e2d)
-- [Silver Button](https://dev.to/cherninlab/silver-button-24l3)
-- [Segregation SSH Traffic](https://dev.to/sebos/segregation-ssh-traffic-1814)
-- [Css responsive screen sizes](https://dev.to/melchizedek404/css-responsive-screen-sizes-3e65)
+- [Enhance Your RAG Application With Web Searching Capability!](https://dev.to/iamnotagentleman/enhance-your-rag-application-with-web-searching-capability-lnn)
+- [Exploring KaneAI Beta: An Innovative Testing Agent by LambdaTest | Excited to be Part of the Beta Journey!](https://dev.to/rewirebyautomation/exploring-kaneai-beta-an-innovative-testing-agent-by-lambdatest-excited-to-be-part-of-the-beta-journey-2aa2)
+- [Building a User-Friendly, Budget-Friendly Alternative to dbt Cloud](https://dev.to/mporracin/building-a-user-friendly-budget-friendly-alternative-to-dbt-cloud-288m)
+- [Coolify: Your All-in-One Open-Source PaaS Solution](https://dev.to/kulahad/coolify-your-all-in-one-open-source-paas-solution-1o05)
+- [Learning Vue Part 3: Building a pomodoro timer](https://dev.to/willowjr/learning-vue-part-3-building-a-pomodoro-timer-4c1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
