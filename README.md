@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding decorators in Python](https://dev.to/21alul21/understanding-decorators-in-python-2fol)
-- [Sepet yönetimi](https://dev.to/mustafacam/sepet-yonetimi-4o4)
-- [Implementing Single Sign-On &lpar;SSO&rpar; in Your Microsoft Teams Bot App [Part II]](https://dev.to/afrazkhan/implementing-single-sign-on-sso-in-your-microsoft-teams-bot-app-part-2-3k7d)
-- [Unlocking the Future of Crypto Wallets: The Power of Starknet Wallets](https://dev.to/ternder/unlocking-the-future-of-crypto-wallets-the-power-of-starknet-wallets-h7p)
-- [Introducing Inspira UI: A Fresh, Open-Source UI Library for Vue! 🚀](https://dev.to/rahul_vashishtha/introducing-inspira-ui-a-fresh-open-source-ui-library-for-vue-12k)
+- [AWS Snow Family](https://dev.to/clintt/aws-snow-family-875)
+- [HTTP Cookies Demystified: A Web Developer&#39;s Guide](https://dev.to/hinedy/http-cookies-demystified-a-web-developers-guide-5e2d)
+- [Silver Button](https://dev.to/cherninlab/silver-button-24l3)
+- [Segregation SSH Traffic](https://dev.to/sebos/segregation-ssh-traffic-1814)
+- [Css responsive screen sizes](https://dev.to/melchizedek404/css-responsive-screen-sizes-3e65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
