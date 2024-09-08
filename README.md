@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Qbasic](https://dev.to/mince/learning-qbasic-3odo)
-- [Analysis of the length of optimal games of Hex game using alphazero-like AI](https://dev.to/hzyhhzy/analysis-of-the-length-of-optimal-games-of-hex-game-using-alphazero-like-ai-16n7)
-- [Improve the Performance of Your React App with Virtualization](https://dev.to/ihebsebai/improve-the-performance-of-your-react-app-with-virtualization-2k72)
-- [HTTP methods](https://dev.to/mrcaption49/http-methods-24ak)
-- [Session, Cookie, JWT, Token, SSO, and OAuth 2.0](https://dev.to/mrcaption49/session-vs-14md)
+- [Ecologic Innovators - EcoVision Application Demonstration | Rishi Nalem](https://dev.to/rishi_nalem/ecologic-innovators-ecovision-application-demonstration-rishi-nalem-3d76)
+- [Optimizing Laravel Queries: The Right Way to Chunk Data](https://dev.to/tubob/optimizing-laravel-queries-the-right-way-to-chunk-data-2bmh)
+- [Transforming a Small Kitchen: Maximizing Space and Style](https://dev.to/yooparchitect/transforming-a-small-kitchen-maximizing-space-and-style-5gff)
+- [Intelligent Automation with RPA and AI: Capturing and Summarizing Emails with Selenium and ChatGPT](https://dev.to/alisson_podgurski/intelligent-automation-with-rpa-and-ai-capturing-and-summarizing-emails-with-selenium-and-chatgpt-48ae)
+- [Introducing GameGift: Create and gift personalised games in minutes](https://dev.to/vulcanwm/introducing-gamegift-create-and-gift-personalised-games-in-minutes-5bng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
