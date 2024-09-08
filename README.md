@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The Blueprint of Logic](https://dev.to/this_mkhy/the-blueprint-of-logic-npp)
+- [How to adding a TXT record to your DNS settings](https://dev.to/dgihost/how-to-adding-a-txt-record-to-your-dns-settings-41a7)
+- [FullGCListener](https://dev.to/truman_999999999/fullgclistener-4p0d)
 - [Easy Web App Deployment: Python Flask, MongoDB, and Nginx with Docker Compose 🚀🐍](https://dev.to/niranyadav/easy-web-app-deployment-python-flask-mongodb-and-nginx-with-docker-compose-20oi)
 - [Visualizing Linux system call in real-time](https://dev.to/rakshyak/visualizing-linux-system-call-in-real-time-o19)
-- [Methods and feature in saksh-wallet class](https://dev.to/susheel_kumar/methods-and-feature-in-saksh-wallet-class-2ki7)
-- [Linux Process Creation and internal working](https://dev.to/rakshyak/linux-process-creation-and-internal-working-3ce1)
-- [Full example of saksh-wallet class](https://dev.to/susheel_kumar/full-example-of-saksh-wallet-class-khb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
