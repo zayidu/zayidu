@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unit testing with Xunit: Introduction](https://dev.to/unbalanced-tree/unit-testing-with-xunit-introduction-3npl)
-- [Clean Code vs Mejores Prácticas: ¿Cuál es la Diferencia?](https://dev.to/raulpenate/clean-code-vs-mejores-practicas-cual-es-la-diferencia-1im9)
-- [Clean Code vs Best Practices: What’s the Difference?](https://dev.to/raulpenate/difference-of-clean-code-vs-best-practices-13lf)
-- [How to swap two variables in Rust without using a third variable?](https://dev.to/fnabinash/how-to-swap-two-variables-in-rust-without-using-a-third-variable-1f1e)
-- [Attempt #20 - Lazy Loading](https://dev.to/dilsemonk/attempt-20-lazy-loading-24gg)
+- [Types of Machine Learning you must know!](https://dev.to/badhonnandi/types-of-machine-learning-you-must-know-1nc)
+- [.NET Aspire Multilanguage](https://dev.to/tommasodotnet/net-aspire-multilanguage-57l3)
+- [Saksh Cart Library: Your All-in-One Solution for E-Commerce Management](https://dev.to/susheel_kumar/saksh-cart-library-your-all-in-one-solution-for-e-commerce-management-b7n)
+- [Making connections](https://dev.to/simongreennet/making-connections-13p8)
+- [Managing Auth State in react using useContext API](https://dev.to/mmvergara/managing-auth-state-in-react-using-usecontext-api-1p4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
