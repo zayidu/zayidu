@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Code: Exerça a habilidade de escrever código simples e eficiente🔥](https://dev.to/hosana/clean-code-exerca-a-habilidade-de-escrever-codigo-simples-e-eficiente-3pjf)
-- [Building a Visual Studio Code Extension to Generate Files from Templates](https://dev.to/dusan100janovic/create-a-visual-studio-code-extension-1i7c)
-- [Mastering the Fundamentals of Systems Engineering 🛠️](https://dev.to/getvm/mastering-the-fundamentals-of-systems-engineering-2gkn)
-- [NPM Package &amp; CDN for Pagination in Javascript / Nodejs](https://dev.to/sujithvsuresh/npm-package-cdn-for-pagination-in-javascript-nodejs-5164)
-- [My First Data Science Project](https://dev.to/deede_omadru_e828a05f40e2/my-first-data-science-project-1c9n)
+- [&quot;Streamlined DevOps: Node.js CI/CD Pipeline with GitHub Actions&quot;](https://dev.to/maryjane_enechukwu/streamlined-devops-nodejs-cicd-pipeline-with-github-actions-4ke0)
+- [Let&#39;s make a TLDR System In TypeScript &lpar;Part 1&rpar;](https://dev.to/grenishrai/lets-make-a-tldr-system-in-typescript-part-1-18pl)
+- [Kernel Panik: The Beginnings!](https://dev.to/kernelpanik/kernel-panik-the-beginnings-5eb1)
+- [Por que é necessário Codar Fofo?](https://dev.to/loremimpsu/por-que-e-necessario-codar-fofo-4p6h)
+- [Building a Quote Generator in React: A Beginner&#39;s Guide](https://dev.to/nishantsinghchandel/building-a-quote-generator-in-react-a-beginners-guide-370e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
