@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ecologic Innovators - EcoVision Application Demonstration | Rishi Nalem](https://dev.to/rishi_nalem/ecologic-innovators-ecovision-application-demonstration-rishi-nalem-3d76)
-- [Optimizing Laravel Queries: The Right Way to Chunk Data](https://dev.to/tubob/optimizing-laravel-queries-the-right-way-to-chunk-data-2bmh)
-- [Transforming a Small Kitchen: Maximizing Space and Style](https://dev.to/yooparchitect/transforming-a-small-kitchen-maximizing-space-and-style-5gff)
-- [Intelligent Automation with RPA and AI: Capturing and Summarizing Emails with Selenium and ChatGPT](https://dev.to/alisson_podgurski/intelligent-automation-with-rpa-and-ai-capturing-and-summarizing-emails-with-selenium-and-chatgpt-48ae)
-- [Introducing GameGift: Create and gift personalised games in minutes](https://dev.to/vulcanwm/introducing-gamegift-create-and-gift-personalised-games-in-minutes-5bng)
+- [Debugging Your Finances: Open Source Future Wealth Calculator for your investments](https://dev.to/lakshitsomani/debugging-your-finances-open-source-future-wealth-calculator-for-your-investments-59a3)
+- [Parchment Style - FAV0 Weekly #014](https://dev.to/justin3go/parchment-style-fav0-weekly-014-39em)
+- [Building a Password Validator with React](https://dev.to/abhishekgurjar/building-a-password-validator-with-react-jhj)
+- [羊皮卷风格 - FAV周刊#014](https://dev.to/justin3go/yang-pi-juan-feng-ge-favzhou-kan-014-1kna)
+- [Sunrise in Space &lpar;Quiet&rpar;](https://dev.to/alvaromontoro/sunrise-in-space-quiet-3nj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
