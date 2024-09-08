@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Types of Machine Learning you must know!](https://dev.to/badhonnandi/types-of-machine-learning-you-must-know-1nc)
-- [.NET Aspire Multilanguage](https://dev.to/tommasodotnet/net-aspire-multilanguage-57l3)
-- [Saksh Cart Library: Your All-in-One Solution for E-Commerce Management](https://dev.to/susheel_kumar/saksh-cart-library-your-all-in-one-solution-for-e-commerce-management-b7n)
-- [Making connections](https://dev.to/simongreennet/making-connections-13p8)
-- [Managing Auth State in react using useContext API](https://dev.to/mmvergara/managing-auth-state-in-react-using-usecontext-api-1p4l)
+- [Diagram as Code with Mermaid](https://dev.to/chauhoangminhnguyen/diagram-as-code-with-mermaid-5gee)
+- [10-Must have tools as a Developer on Linux](https://dev.to/wole/10-must-have-tools-as-a-developer-on-linux-30hn)
+- [Setting Up a Cost-Effective AWS Environment for a Small Tech Startup](https://dev.to/wiko_w/setting-up-a-cost-effective-aws-environment-for-a-small-tech-startup-4dp5)
+- [Transitioning to Angular Signal-Based Inputs](https://dev.to/frontendbase/transitioning-to-angular-signal-based-inputs-1lam)
+- [Creating a Personal Brand as a Developer: Tips and Tools](https://dev.to/blessy-b-sherin/creating-a-personal-brand-as-a-developer-tips-and-tools-3497)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
