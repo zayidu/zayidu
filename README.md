@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Your Finances: Open Source Future Wealth Calculator for your investments](https://dev.to/lakshitsomani/debugging-your-finances-open-source-future-wealth-calculator-for-your-investments-59a3)
-- [Parchment Style - FAV0 Weekly #014](https://dev.to/justin3go/parchment-style-fav0-weekly-014-39em)
-- [Building a Password Validator with React](https://dev.to/abhishekgurjar/building-a-password-validator-with-react-jhj)
-- [羊皮卷风格 - FAV周刊#014](https://dev.to/justin3go/yang-pi-juan-feng-ge-favzhou-kan-014-1kna)
-- [Sunrise in Space &lpar;Quiet&rpar;](https://dev.to/alvaromontoro/sunrise-in-space-quiet-3nj)
+- [how to connect the PostgreSQL database with Django](https://dev.to/devlopersabbir/how-to-connect-the-postgresql-database-with-django-28km)
+- [30 Day C# Challenge](https://dev.to/foziljonov7/30-day-c-challenge-ohg)
+- [Turbocharge Your Go App: Mastering Blazing-Fast Static File Serving Over TCP](https://dev.to/aymanepraxe/turbocharge-your-go-app-mastering-blazing-fast-static-file-serving-over-tcp-1em0)
+- [Newbie here](https://dev.to/innocentia_azal/newbie-here-34ei)
+- [Introduction Blog](https://dev.to/ajogseneca/introduction-blog-4jk1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
