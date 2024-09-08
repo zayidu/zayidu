@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Blueprint of Logic](https://dev.to/this_mkhy/the-blueprint-of-logic-npp)
-- [How to adding a TXT record to your DNS settings](https://dev.to/dgihost/how-to-adding-a-txt-record-to-your-dns-settings-41a7)
-- [FullGCListener](https://dev.to/truman_999999999/fullgclistener-4p0d)
-- [Easy Web App Deployment: Python Flask, MongoDB, and Nginx with Docker Compose 🚀🐍](https://dev.to/niranyadav/easy-web-app-deployment-python-flask-mongodb-and-nginx-with-docker-compose-20oi)
-- [Visualizing Linux system call in real-time](https://dev.to/rakshyak/visualizing-linux-system-call-in-real-time-o19)
+- [Glam Up My Markup: Star Wars Themed Solar System](https://dev.to/menard_codes/glam-up-my-markup-star-wars-themed-solar-system-1e0f)
+- [Smooth Sailing: A Hands-On Guide to Set-Up Concourse CI on Rocky Linux](https://dev.to/kabeer1choudary/smooth-sailing-a-hands-on-guide-to-set-up-concourse-ci-on-rocky-linux-db6)
+- [15 Best React Admin Dashboard Templates 2024 - Handpicked](https://dev.to/syakirurahman/15-best-react-admin-dashboard-templates-2024-handpicked-3ji5)
+- [Mastering Table Creation in HTML: A Comprehensive Guide for Advanced Web Developers](https://dev.to/areeb_anwar_813df06ee1124/mastering-table-creation-in-html-a-comprehensive-guide-for-advanced-web-developers-27oc)
+- [Bokeh an interesting data tool in python for data visualization](https://dev.to/juan_brendonlunajuarez_/bokeh-an-interesting-data-tool-in-python-for-data-visualization-2bd6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
