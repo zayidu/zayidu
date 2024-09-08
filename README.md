@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Diagram as Code with Mermaid](https://dev.to/chauhoangminhnguyen/diagram-as-code-with-mermaid-5gee)
-- [10-Must have tools as a Developer on Linux](https://dev.to/wole/10-must-have-tools-as-a-developer-on-linux-30hn)
-- [Setting Up a Cost-Effective AWS Environment for a Small Tech Startup](https://dev.to/wiko_w/setting-up-a-cost-effective-aws-environment-for-a-small-tech-startup-4dp5)
-- [Transitioning to Angular Signal-Based Inputs](https://dev.to/frontendbase/transitioning-to-angular-signal-based-inputs-1lam)
-- [Creating a Personal Brand as a Developer: Tips and Tools](https://dev.to/blessy-b-sherin/creating-a-personal-brand-as-a-developer-tips-and-tools-3497)
+- [Learning Qbasic](https://dev.to/mince/learning-qbasic-3odo)
+- [Analysis of the length of optimal games of Hex game using alphazero-like AI](https://dev.to/hzyhhzy/analysis-of-the-length-of-optimal-games-of-hex-game-using-alphazero-like-ai-16n7)
+- [Improve the Performance of Your React App with Virtualization](https://dev.to/ihebsebai/improve-the-performance-of-your-react-app-with-virtualization-2k72)
+- [HTTP methods](https://dev.to/mrcaption49/http-methods-24ak)
+- [Session, Cookie, JWT, Token, SSO, and OAuth 2.0](https://dev.to/mrcaption49/session-vs-14md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
