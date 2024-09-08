@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My notes on Android optimization. Part 2. Quick example of benchmarking Kotin regular expressions](https://dev.to/theplebdev/my-notes-on-android-optimization-part-2-quick-example-of-benchmarking-kotin-regular-expressions-54c0)
-- [The Top 5 Mistakes That Can Derail Your Development Projects](https://dev.to/dishitdevasia/the-top-5-mistakes-that-can-derail-your-development-projects-29lp)
-- [My notes on Android optimization. Part 2. Quick example of benchmarking Kotin regular expressions](https://dev.to/theplebdev/my-notes-on-android-optimization-part-2-quick-example-of-benchmarking-kotin-regular-expressions-3fh8)
-- [Optimizing GenAI &amp; AI Deployment: Harnessing Microsoft AI Services for Efficient and Scalable Solutions](https://dev.to/sreeni5018/optimizing-genai-ai-deployment-harnessing-microsoft-ai-services-for-efficient-and-scalable-solutions-5ab1)
-- [Dive into the Wondrous World of Docker 🐳](https://dev.to/labex/dive-into-the-wondrous-world-of-docker-2hf8)
+- [Budget handling using npm package saksh-wallet](https://dev.to/susheel_kumar/budget-handling-using-npm-package-saksh-wallet-198f)
+- [Day 68 / 100 Days of Code: Harnessing JavaScript’s Iterative Power](https://dev.to/jacobsternx/day-68-100-days-of-code-harnessing-javascripts-iterative-power-1ff8)
+- [Creating Custom Aliases with Parameters in Bash: Simplify Your Workflow](https://dev.to/paulocappa/creating-custom-aliases-with-parameters-in-bash-simplify-your-workflow-21p8)
+- [40 Days Of Kubernetes &lpar;35/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-3540-1cp5)
+- [FiveM x TypeScript](https://dev.to/justinmartindev/fivem-x-typescript-3pgd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
