@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Odin Project -Intro to CSS](https://dev.to/iamhrk/the-odin-project-intro-to-css-3opa)
-- [Dive into the Fascinating World of Computer Hardware with this University Course! 🖥️](https://dev.to/getvm/dive-into-the-fascinating-world-of-computer-hardware-with-this-university-course-52l)
-- [Function definitions for the reporting section](https://dev.to/susheel_kumar/function-definitions-for-the-reporting-section-5cd6)
-- [CSS Grid: Nested Grid Layouts](https://dev.to/tailwine/css-grid-nested-grid-layouts-1dm)
-- [How find a remote job in 2024](https://dev.to/remotewlb/how-find-a-remote-job-in-2024-fhc)
+- [Easy Web App Deployment: Python Flask, MongoDB, and Nginx with Docker Compose 🚀🐍](https://dev.to/niranyadav/easy-web-app-deployment-python-flask-mongodb-and-nginx-with-docker-compose-20oi)
+- [Visualizing Linux system call in real-time](https://dev.to/rakshyak/visualizing-linux-system-call-in-real-time-o19)
+- [Methods and feature in saksh-wallet class](https://dev.to/susheel_kumar/methods-and-feature-in-saksh-wallet-class-2ki7)
+- [Linux Process Creation and internal working](https://dev.to/rakshyak/linux-process-creation-and-internal-working-3ce1)
+- [Full example of saksh-wallet class](https://dev.to/susheel_kumar/full-example-of-saksh-wallet-class-khb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
