@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance Your RAG Application With Web Searching Capability!](https://dev.to/iamnotagentleman/enhance-your-rag-application-with-web-searching-capability-lnn)
-- [Exploring KaneAI Beta: An Innovative Testing Agent by LambdaTest | Excited to be Part of the Beta Journey!](https://dev.to/rewirebyautomation/exploring-kaneai-beta-an-innovative-testing-agent-by-lambdatest-excited-to-be-part-of-the-beta-journey-2aa2)
-- [Building a User-Friendly, Budget-Friendly Alternative to dbt Cloud](https://dev.to/mporracin/building-a-user-friendly-budget-friendly-alternative-to-dbt-cloud-288m)
-- [Coolify: Your All-in-One Open-Source PaaS Solution](https://dev.to/kulahad/coolify-your-all-in-one-open-source-paas-solution-1o05)
-- [Learning Vue Part 3: Building a pomodoro timer](https://dev.to/willowjr/learning-vue-part-3-building-a-pomodoro-timer-4c1h)
+- [Building Single Page Applications with Svelte](https://dev.to/kartikmehta8/building-single-page-applications-with-svelte-406j)
+- [Topic : Error Handling &amp; Debugging in Node.js 🔧🐛](https://dev.to/erasmuskotoka/topic-error-handling-debugging-in-nodejs-40e4)
+- [The Benchmarking Puzzle](https://dev.to/ocodista/the-benchmarking-puzzle-gbg)
+- [System Design - Uma introdução](https://dev.to/rodolfostark/system-design-uma-introducao-5469)
+- [Improving the conversion rate 💰](https://dev.to/andrecasal/improving-the-conversion-rate-13nn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
