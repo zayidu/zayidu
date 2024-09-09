@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install K3S on AWS EC2 &amp; Deploy Simple JS Game 🚀](https://dev.to/aws-builders/how-to-install-k3s-on-aws-ec2-deploy-simple-js-game-3cpa)
-- [Bad Optimizations in Business and Life](https://dev.to/martinbaun/bad-optimizations-in-business-and-life-2mpg)
-- [Limit Eager Loaded Relationships on Laravel Models](https://dev.to/ashallendesign/limit-eager-loaded-relationships-on-laravel-models-4c43)
-- [PYTHON: OOP {Beginner&#39;s Edition}](https://dev.to/marlonmunoz/python-oop-beginners-edition-4ph5)
-- [Best Practices for Secure Coding in Crypto Exchanges: Protecting User Data and Assets](https://dev.to/cryptodev/best-practices-for-secure-coding-in-crypto-exchanges-protecting-user-data-and-assets-3bc3)
+- [A New Milestone in Code Security: SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/a-new-milestone-in-code-security-safeline-waf-1ff8)
+- [A Developer’s Guide to Verifying Customer Financial Data in Nigeria](https://dev.to/flutterwaveeng/a-developers-guide-to-verifying-customer-financial-data-in-nigeria-37oj)
+- [Python Clean Code – Stop Writing Bad Code: Key Lessons from Uncle Bob](https://dev.to/proflead/python-clean-code-stop-writing-bad-code-key-lessons-from-uncle-bob-2j0i)
+- [SafeLine: The Open-Source WAF with Powerful Security and Easy Deployment](https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-the-open-source-waf-with-powerful-security-and-easy-deployment-3in3)
+- [Git Gud: Learning Git to survive your first month 🚀](https://dev.to/jayantbh/git-gud-learning-git-to-survive-your-first-month-jbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
