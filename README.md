@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Command-Line Mastery: Exploring Diverse Programming Practices](https://dev.to/labex/linux-command-line-mastery-exploring-diverse-programming-practices-3k6k)
-- [Understanding Optimistic Locking: Handling Conflicts in Concurrent Systems](https://dev.to/faiz_ahmad/understanding-optimistic-locking-handling-conflicts-in-concurrent-systems-3ce8)
-- [Home Lab Networking](https://dev.to/im6h/home-lab-networking-260m)
-- [Dive Into the World of Payments - Join Payment Meetup Group’s First Session!](https://dev.to/gorakh13/dive-into-the-world-of-payments-join-payment-meetup-groups-first-session-41ja)
-- [Introducing KubeDash: Your Kubernetes Cluster Management Dashboard!](https://dev.to/himanshu20/introducing-kubedash-your-kubernetes-cluster-management-dashboard-31mo)
+- [Why Use Codeium over GitHub Copilot](https://dev.to/thekarlesi/why-use-codeium-over-github-copilot-491e)
+- [Guide To Automated Software Testing](https://dev.to/misterankit/guide-to-automated-software-testing-2ljb)
+- [WhatsApp Automation No Code Low Code Step-By-Step Guide - WAHA + n8n](https://dev.to/waha/whatsapp-automation-no-code-low-code-step-by-step-guide-waha-n8n-24h1)
+- [Building a Goal-Tracking System in a Productivity App with React and TypeScript](https://dev.to/radzion/building-a-goal-tracking-system-in-a-productivity-app-with-react-and-typescript-16o5)
+- [tvs](https://dev.to/__040711563a17902392e7/tvs-303b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
