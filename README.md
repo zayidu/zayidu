@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ethical Hacking - This article is about discovering vulnerabilities in web applications.](https://dev.to/samglish/ethical-hacking-this-article-is-about-discovering-vulnerabilities-in-web-applications-3no5)
-- [Piece Table with JS](https://dev.to/werfit/piece-table-with-js-3mm4)
-- [📚 Let&#39;s learn the main GIT commands](https://dev.to/venicode/lets-learn-the-main-git-commands-33np)
-- [Centralize your notification and job handling](https://dev.to/msnmongare/centralize-your-notification-and-job-handling-1oid)
-- [Building an Auto-verified Quote DApp on Morph](https://dev.to/azeezabidoye/building-an-auto-verified-quote-dapp-on-morph-cn9)
+- [Front-End Architecture: How to Host Your Web App for Free](https://dev.to/garciadiazjaime/front-end-architecture-how-to-host-your-web-app-for-free-29ke)
+- [&quot;Day 17: Exploring Context API, Reducer Hook, and DSA!&quot;](https://dev.to/jasman_deep_58679206bad26/day-17-exploring-context-api-reducer-hook-and-dsa-30kn)
+- [Why PHP 8 Has High Performance](https://dev.to/servbay/why-php-8-has-high-performance-21pf)
+- [Coffee and Data: The Unbreakable Bond Between Data Analysts and Their Daily Brew](https://dev.to/tenzintsundue/coffee-and-data-the-unbreakable-bond-between-data-analysts-and-their-daily-brew-1gpf)
+- [Emarah Secure Test: A Penetration Testing Tool for Ethical Hacking](https://dev.to/abdullah_alazmi_12/emarah-secure-test-a-penetration-testing-tool-for-ethical-hacking-5b32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
