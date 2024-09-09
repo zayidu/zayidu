@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Automate - Impact Assessment](https://dev.to/wyattdave/power-automate-impact-assessment-3d1k)
-- [7 Open Source Projects You Should Know - C Edition ✔️](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-c-edition-107k)
-- [[DAY 108-112] I built my first full-stack app with CRUD and auth logins](https://dev.to/thomascansino/day-108-112-i-built-my-first-full-stack-app-with-crud-and-auth-logins-2n5o)
-- [Essential Azure Identity Management Best Practices](https://dev.to/buzzgk/essential-azure-identity-management-best-practices-1o11)
-- [Web Optimization with ETags: An Example with WordPress](https://dev.to/manuelcanga/web-optimization-with-etags-an-example-with-wordpress-5892)
+- [Vue.js Lifecycle Hooks: A Deep Dive Into Component Lifecycle Management 🔄](https://dev.to/dharamgfx/vuejs-lifecycle-hooks-a-deep-dive-into-component-lifecycle-management-417p)
+- [5 Must-Have Milestone Tools for Effective Project Planning](https://dev.to/thomasy0ung/5-must-have-milestone-tools-for-effective-project-planning-52ea)
+- [Vue.js: Option API vs. Composition API - Which One is Right for You? 🤔](https://dev.to/dharamgfx/vuejs-option-api-vs-composition-api-which-one-is-right-for-you-43hn)
+- [Optimizing Your Cypress Mobile Testing Performance](https://dev.to/grjoeay/optimizing-your-cypress-mobile-testing-performance-546l)
+- [Data Fabric Architecture: Unlocking the Full Potential of Data](https://dev.to/buzzgk/data-fabric-architecture-unlocking-the-full-potential-of-data-439l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
