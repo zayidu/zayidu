@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-End Architecture: How to Host Your Web App for Free](https://dev.to/garciadiazjaime/front-end-architecture-how-to-host-your-web-app-for-free-29ke)
-- [&quot;Day 17: Exploring Context API, Reducer Hook, and DSA!&quot;](https://dev.to/jasman_deep_58679206bad26/day-17-exploring-context-api-reducer-hook-and-dsa-30kn)
-- [Why PHP 8 Has High Performance](https://dev.to/servbay/why-php-8-has-high-performance-21pf)
-- [Coffee and Data: The Unbreakable Bond Between Data Analysts and Their Daily Brew](https://dev.to/tenzintsundue/coffee-and-data-the-unbreakable-bond-between-data-analysts-and-their-daily-brew-1gpf)
-- [Emarah Secure Test: A Penetration Testing Tool for Ethical Hacking](https://dev.to/abdullah_alazmi_12/emarah-secure-test-a-penetration-testing-tool-for-ethical-hacking-5b32)
+- [3. Unleash the Fury: Mastering CSS Selectors and Pseudo-Classes for Web Domination](https://dev.to/areeb_anwar_813df06ee1124/3-unleash-the-fury-mastering-css-selectors-and-pseudo-classes-for-web-domination-1ka3)
+- [Building a Quiz Application with React](https://dev.to/abhishekgurjar/building-a-quiz-application-with-react-3je9)
+- [Facade Pattern](https://dev.to/abhidatta0/facade-pattern-5h52)
+- [Install Docker on Mageia 9](https://dev.to/jeanmfdias/install-docker-on-mageia-9-587a)
+- [Object-Oriented Programming &lpar;OOP&rpar; in Python: Classes and Objects Explained](https://dev.to/devasservice/object-oriented-programming-oop-in-python-classes-and-objects-explained-26ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
