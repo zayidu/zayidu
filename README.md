@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Single Page Applications with Svelte](https://dev.to/kartikmehta8/building-single-page-applications-with-svelte-406j)
-- [Topic : Error Handling &amp; Debugging in Node.js 🔧🐛](https://dev.to/erasmuskotoka/topic-error-handling-debugging-in-nodejs-40e4)
-- [The Benchmarking Puzzle](https://dev.to/ocodista/the-benchmarking-puzzle-gbg)
-- [System Design - Uma introdução](https://dev.to/rodolfostark/system-design-uma-introducao-5469)
-- [Improving the conversion rate 💰](https://dev.to/andrecasal/improving-the-conversion-rate-13nn)
+- [How to Scale GraphRAG with Neo4j for Efficient Document Querying](https://dev.to/stephenc222/how-to-scale-graphrag-with-neo4j-for-efficient-document-querying-2did)
+- [How to Use the `ImmutableArray&lt;T&gt;.Builder` Extension Method `ToFrozenDictionary` to Create Efficient Immutable Dictionaries](https://dev.to/rockfire/how-to-use-the-immutablearraybuilder-extension-method-tofrozendictionary-to-create-efficient-immutable-dictionaries-4b5a)
+- [Techniques for Optimizing Performance in React Applications](https://dev.to/manjushsh/techniques-for-optimizing-performance-in-react-applications-406o)
+- [Inline Functions in C and C++](https://dev.to/pauljlucas/inline-functions-in-c-and-c-2040)
+- [Sistemas Numéricos para Computeiros 🔢](https://dev.to/punkdasilva/sistemas-numericos-para-computeiros-3k9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
