@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS vs. Vanilla CSS: When to Use Each for Your Web Development Projects](https://dev.to/iamgoncaloalves/tailwind-css-vs-vanilla-css-when-to-use-each-for-your-web-development-projects-425c)
-- [Day 70 / 100 Days of Code: Flow Control Redux](https://dev.to/jacobsternx/day-70-100-days-of-code-flow-control-redux-59ai)
-- [Mastering Kubernetes Node Management with kubectl](https://dev.to/labex/mastering-kubernetes-node-management-with-kubectl-437o)
-- [Locked in: the inextricable dependency on VMWare](https://dev.to/lvincens/locked-in-the-inextricable-dependency-on-vmware-dib)
-- [How Crash Courses Can Hold You Back](https://dev.to/grech_ca/how-crash-courses-can-hold-you-back-4h32)
+- [You Review My Code and I&#39;ll Review Yours](https://dev.to/majd_almnayer_2101/you-review-my-code-and-ill-review-yours-2j5l)
+- [Camino hacia la escalabilidad &lpar;1&rpar;: Cómo Gestionar Servicios en Frontend.](https://dev.to/agustinrzarate/camino-hacia-la-escalabilidad-1-como-gestionar-servicios-en-frontend-2c1p)
+- [The Challenges of Managing a Successful Fintech: Revenue of R$9,643,141.49 in 30 Days](https://dev.to/3x_pay/the-challenges-of-managing-a-successful-fintech-revenue-of-r964314149-in-30-days-4hjb)
+- [Decomposed vs. Microservices](https://dev.to/aditya_singh001/decomposed-vs-microservices-21cl)
+- [Os Desafios de Gerenciar uma Fintech de Sucesso: Faturamento de R$9.643.141,49 em 30 Dias](https://dev.to/3x_pay/os-desafios-de-gerenciar-uma-fintech-de-sucesso-faturamento-de-r964314149-em-30-dias-2510)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
