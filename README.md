@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3. Unleash the Fury: Mastering CSS Selectors and Pseudo-Classes for Web Domination](https://dev.to/areeb_anwar_813df06ee1124/3-unleash-the-fury-mastering-css-selectors-and-pseudo-classes-for-web-domination-1ka3)
-- [Building a Quiz Application with React](https://dev.to/abhishekgurjar/building-a-quiz-application-with-react-3je9)
-- [Facade Pattern](https://dev.to/abhidatta0/facade-pattern-5h52)
-- [Install Docker on Mageia 9](https://dev.to/jeanmfdias/install-docker-on-mageia-9-587a)
-- [Object-Oriented Programming &lpar;OOP&rpar; in Python: Classes and Objects Explained](https://dev.to/devasservice/object-oriented-programming-oop-in-python-classes-and-objects-explained-26ek)
+- [How to Integrate Search Engine Optimization For Frontend Website](https://dev.to/scofieldidehen/how-to-integrate-search-engine-optimization-for-frontend-website-3m27)
+- [Best Databases for Next.js Applications](https://dev.to/ethanleetech/best-databases-for-nextjs-applications-3ef1)
+- [Function composition pattern in Javascript](https://dev.to/mdiffshashank/function-composition-pattern-in-javascript-o5o)
+- [Introduction To Computer Vision with Python &lpar;Part 1&rpar;](https://dev.to/thecspandz/introduction-to-computer-vision-with-python-part-1-2kd)
+- [Make Wezterm Mimic Tmux](https://dev.to/lovelindhoni/make-wezterm-mimic-tmux-5893)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
