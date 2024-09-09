@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to integrate k6 with Xray/Jira](https://dev.to/skingori/how-to-integrate-k6-with-xrayjira-5g1g)
-- [PyPI supply chain attack targeting old packages found in the wild.](https://dev.to/proteanlabs/pypi-supply-chain-attack-targeting-old-packages-found-in-the-wild-2laf)
-- [Cancellation Token: Handling Infinite Loops with style](https://dev.to/pykpyky/cancellation-token-handling-infinite-loops-with-style-col)
-- [🚀 Supercharge Your Next.js App: Top Databases to Consider](https://dev.to/hamzakhan/supercharge-your-nextjs-app-top-databases-to-consider-3pah)
-- [Cancellation Token : Gérer les Boucles Infinies de avec style](https://dev.to/pykpyky/cancellation-token-gerer-les-boucles-infinies-de-maniere-elegante-12op)
+- [How to Build Your First Open-Source Project](https://dev.to/tajammal_mabool/how-to-build-your-first-open-source-project-5457)
+- [How to Become a Full-Stack Developer Using Just Your Mobile Phone](https://dev.to/michaelobot1/how-to-become-a-full-stack-developer-using-just-your-mobile-phone-2bkd)
+- [How we Built 300μs Typo Correction for 1.3M Words in Rust](https://dev.to/skeptrune/how-we-built-300ms-typo-correction-for-13m-words-in-rust-33l9)
+- [MongoDB Sharding](https://dev.to/oigorrudel/mongodb-sharding-1n22)
+- [How to Master the MERN Stack: A Guide for Full-Stack Developers](https://dev.to/ravi-coding/how-to-master-the-mern-stack-a-guide-for-full-stack-developers-3o7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
