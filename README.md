@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP and Frontend Integration: Bridging the Gap for Dynamic Web Applications | Julio Herrera Via dei Velutini](https://dev.to/julioherreraviadeivelutini/php-and-frontend-integration-bridging-the-gap-for-dynamic-web-applications-julio-herrera-via-dei-velutini-14gb)
-- [Top 5 Salesforce Features Every Developer Should Master in 2024](https://dev.to/itechcloud_solution_01/top-5-salesforce-features-every-developer-should-master-in-2024-4h48)
-- [Roadmap to Mastering the Spring Framework 🚀](https://dev.to/akshay_gengaje/roadmap-to-mastering-the-spring-framework-2o5n)
-- [The Power of Hooks in WordPress Development: An In-Depth Tutorial](https://dev.to/muhammadmedhat/the-power-of-hooks-in-wordpress-development-an-in-depth-tutorial-3d38)
-- [Spring Framework: A Beginner&#39;s Guide to the Ultimate Java Framework 🚀](https://dev.to/akshay_gengaje/spring-framework-a-beginners-guide-to-the-ultimate-java-framework-1h9e)
+- [Using LLMs in Software Development: A Simple Tip for Beginners](https://dev.to/joacod/using-llms-in-software-development-a-simple-tip-for-beginners-5e6d)
+- [How to Add SSH Keys to Your Git Remote Repository: Secure and Simplify Your Workflow](https://dev.to/s3cloudhub/how-to-add-ssh-keys-to-your-git-remote-repository-secure-and-simplify-your-workflow-5gf)
+- [CodingCatchup: 9/1/24 - 9/8/24](https://dev.to/ryandotfurrer/codingcatchup-9124-9824-1hd5)
+- [Centralize API calls in Web Application - A must-have guide](https://dev.to/creowistech/centralize-api-calls-in-web-application-a-must-have-guide-3ppj)
+- [Transforming Email API Chaos into Order](https://dev.to/sanket00123/transforming-email-api-chaos-into-order-25b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
