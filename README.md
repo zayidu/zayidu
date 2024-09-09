@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Your First Open-Source Project](https://dev.to/tajammal_mabool/how-to-build-your-first-open-source-project-5457)
-- [How to Become a Full-Stack Developer Using Just Your Mobile Phone](https://dev.to/michaelobot1/how-to-become-a-full-stack-developer-using-just-your-mobile-phone-2bkd)
-- [How we Built 300μs Typo Correction for 1.3M Words in Rust](https://dev.to/skeptrune/how-we-built-300ms-typo-correction-for-13m-words-in-rust-33l9)
-- [MongoDB Sharding](https://dev.to/oigorrudel/mongodb-sharding-1n22)
-- [How to Master the MERN Stack: A Guide for Full-Stack Developers](https://dev.to/ravi-coding/how-to-master-the-mern-stack-a-guide-for-full-stack-developers-3o7b)
+- [Buildstash joins Techstars NYC](https://dev.to/buildstash/buildstash-joins-techstars-nyc-1pci)
+- [Nest - Upload de arquivo](https://dev.to/leonardominora/nest-upload-de-arquivo-5g1)
+- [Understanding Asynchronous Operations and Using async/await in JavaScript](https://dev.to/syriamme/understanding-asynchronous-operations-and-using-asyncawait-in-javascript-7od)
+- [Encapsulamento: Será que Esconder Todos os Detalhes de Implementação é Sempre uma Boa Decisão?](https://dev.to/asouza/encapsulamento-sera-que-esconder-todos-os-detalhes-de-implementacao-e-sempre-uma-boa-decisao-3nae)
+- [API - An overview](https://dev.to/technonotes/api-an-overview-ffh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
