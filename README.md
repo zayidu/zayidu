@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy NodeJS Typescript to Google App Engine](https://dev.to/chauhoangminhnguyen/deploy-nodejs-typescript-to-google-app-engine-1jka)
-- [UseState and UseEffect Hook in React](https://dev.to/mrcaption49/usestate-and-useeffect-hook-in-react-40hn)
-- [Understanding MySQL CPU Usage: Tools and Techniques](https://dev.to/drupaladmin/understanding-mysql-cpu-usage-tools-and-techniques-4b2a)
-- [Two Years Later: Not Another Portfolio Refresh](https://dev.to/johnrock/two-years-later-not-another-portfolio-refresh-4ncj)
-- [Two Cases in Learning](https://dev.to/mvcwebapiii/why-you-should-care-less-about-the-syntax-dont-be-a-code-monkey-19l8)
+- [Ethical Hacking - This article is about discovering vulnerabilities in web applications.](https://dev.to/samglish/ethical-hacking-this-article-is-about-discovering-vulnerabilities-in-web-applications-3no5)
+- [Piece Table with JS](https://dev.to/werfit/piece-table-with-js-3mm4)
+- [📚 Let&#39;s learn the main GIT commands](https://dev.to/venicode/lets-learn-the-main-git-commands-33np)
+- [Centralize your notification and job handling](https://dev.to/msnmongare/centralize-your-notification-and-job-handling-1oid)
+- [Building an Auto-verified Quote DApp on Morph](https://dev.to/azeezabidoye/building-an-auto-verified-quote-dapp-on-morph-cn9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
