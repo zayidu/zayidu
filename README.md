@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging Roles in Ansible for Streamlined Automation](https://dev.to/ophelie/leveraging-roles-in-ansible-for-streamlined-automation-b46)
-- [Backend filters vs Frontend filters](https://dev.to/shubhamtiwari909/backend-filters-vs-frontend-filters-1k4a)
-- [Best way to catch bugs in Django apps](https://dev.to/stokry/best-way-to-catch-bugs-in-django-apps-48d9)
-- [Laravel Password Hashing With Salt](https://dev.to/inspector/laravel-password-hashing-with-salt-198o)
-- [How to Prevent Unnecessary React Component Re-Rendering](https://dev.to/harshsolanki05/how-to-prevent-unnecessary-react-component-re-rendering-3jg6)
+- [How to Install K3S on AWS EC2 &amp; Deploy Simple JS Game 🚀](https://dev.to/aws-builders/how-to-install-k3s-on-aws-ec2-deploy-simple-js-game-3cpa)
+- [Bad Optimizations in Business and Life](https://dev.to/martinbaun/bad-optimizations-in-business-and-life-2mpg)
+- [Limit Eager Loaded Relationships on Laravel Models](https://dev.to/ashallendesign/limit-eager-loaded-relationships-on-laravel-models-4c43)
+- [PYTHON: OOP {Beginner&#39;s Edition}](https://dev.to/marlonmunoz/python-oop-beginners-edition-4ph5)
+- [Best Practices for Secure Coding in Crypto Exchanges: Protecting User Data and Assets](https://dev.to/cryptodev/best-practices-for-secure-coding-in-crypto-exchanges-protecting-user-data-and-assets-3bc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
