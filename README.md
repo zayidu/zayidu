@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Buildstash joins Techstars NYC](https://dev.to/buildstash/buildstash-joins-techstars-nyc-1pci)
-- [Nest - Upload de arquivo](https://dev.to/leonardominora/nest-upload-de-arquivo-5g1)
-- [Understanding Asynchronous Operations and Using async/await in JavaScript](https://dev.to/syriamme/understanding-asynchronous-operations-and-using-asyncawait-in-javascript-7od)
-- [Encapsulamento: Será que Esconder Todos os Detalhes de Implementação é Sempre uma Boa Decisão?](https://dev.to/asouza/encapsulamento-sera-que-esconder-todos-os-detalhes-de-implementacao-e-sempre-uma-boa-decisao-3nae)
-- [API - An overview](https://dev.to/technonotes/api-an-overview-ffh)
+- [Tailwind CSS vs. Vanilla CSS: When to Use Each for Your Web Development Projects](https://dev.to/iamgoncaloalves/tailwind-css-vs-vanilla-css-when-to-use-each-for-your-web-development-projects-425c)
+- [Day 70 / 100 Days of Code: Flow Control Redux](https://dev.to/jacobsternx/day-70-100-days-of-code-flow-control-redux-59ai)
+- [Mastering Kubernetes Node Management with kubectl](https://dev.to/labex/mastering-kubernetes-node-management-with-kubectl-437o)
+- [Locked in: the inextricable dependency on VMWare](https://dev.to/lvincens/locked-in-the-inextricable-dependency-on-vmware-dib)
+- [How Crash Courses Can Hold You Back](https://dev.to/grech_ca/how-crash-courses-can-hold-you-back-4h32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
