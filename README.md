@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You Review My Code and I&#39;ll Review Yours](https://dev.to/majd_almnayer_2101/you-review-my-code-and-ill-review-yours-2j5l)
-- [Camino hacia la escalabilidad &lpar;1&rpar;: Cómo Gestionar Servicios en Frontend.](https://dev.to/agustinrzarate/camino-hacia-la-escalabilidad-1-como-gestionar-servicios-en-frontend-2c1p)
-- [The Challenges of Managing a Successful Fintech: Revenue of R$9,643,141.49 in 30 Days](https://dev.to/3x_pay/the-challenges-of-managing-a-successful-fintech-revenue-of-r964314149-in-30-days-4hjb)
-- [Decomposed vs. Microservices](https://dev.to/aditya_singh001/decomposed-vs-microservices-21cl)
-- [Os Desafios de Gerenciar uma Fintech de Sucesso: Faturamento de R$9.643.141,49 em 30 Dias](https://dev.to/3x_pay/os-desafios-de-gerenciar-uma-fintech-de-sucesso-faturamento-de-r964314149-em-30-dias-2510)
+- [How to reach a wide audience on social media](https://dev.to/andrecasal/how-to-reach-a-wide-audience-on-social-media-3p43)
+- [Ultimate FLUX LoRA Training Tutorial: Windows and Cloud Deployment](https://dev.to/furkangozukara/ultimate-flux-lora-training-tutorial-windows-and-cloud-deployment-1a20)
+- [Mastering Algorithms: Unlock the Power of Data Structures and Problem-Solving](https://dev.to/getvm/mastering-algorithms-unlock-the-power-of-data-structures-and-problem-solving-5eaf)
+- [DBのレコード更新をトリガーにLambdaを実行する（パート１）](https://dev.to/aws-builders/dbnorekodogeng-xin-wotoriganilambdawoshi-xing-surupato1-30g7)
+- [Building an AI-Powered, Paved Road Platform with Cloud-Native Open source technologies](https://dev.to/intuitdev/building-an-ai-powered-paved-road-platform-with-cloud-native-open-source-technologies-4b2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
