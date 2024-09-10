@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Interview Preparation](https://dev.to/ashutoshsarangi/react-interview-preparation-26g7)
-- [Compare large csv files #eg38](https://dev.to/esproc_spl/compare-large-csv-files-eg38-29m8)
-- [Saksh Recommendation Engine](https://dev.to/susheel_kumar/saksh-recommendation-engine-14cl)
-- [Angular Addicts #29: Angular 18.2, implicit libraries, the future is standalone &amp; more](https://dev.to/this-is-angular/angular-addicts-29-angular-182-implicit-libraries-the-future-is-standalone-more-1g36)
-- [The Dawn of Syntax: A Tale of “Hello, World!”](https://dev.to/kavya-sahai-god/the-dawn-of-syntax-a-tale-of-hello-world-636)
+- [Five Opportunities and Challenges for Retail Healthcare in 2024](https://dev.to/sejaljansari/five-opportunities-and-challenges-for-retail-healthcare-in-2024-2447)
+- [Let&#39;s Read - Eloquent Ruby - Ch 12](https://dev.to/baweaver/lets-read-eloquent-ruby-ch-12-4gja)
+- [Can Postgres replace Redis as a cache?](https://dev.to/raphaeldelio/can-postgres-replace-redis-as-a-cache-2ne1)
+- [How to Effortlessly Integrate JFrog Artifactory with Packer for Seamless Docker Image Management](https://dev.to/s3cloudhub/how-to-effortlessly-integrate-jfrog-artifactory-with-packer-for-seamless-docker-image-management-d67)
+- [💎 of solid-primitives, part 3: set, map, trigger](https://dev.to/lexlohr/of-solid-primitives-part-3-set-map-trigger-ab9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
