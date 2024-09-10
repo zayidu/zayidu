@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Things I Wish I Knew Before I Started Coding.](https://dev.to/balrajola/10-things-i-wish-i-knew-before-i-started-coding-51oo)
-- [Dica C#: ArgumentNullException.ThrowIfNull](https://dev.to/juarezasjunior/dica-c-argumentnullexceptionthrowifnull-5e9d)
-- [C# Tip: ArgumentNullException.ThrowIfNull](https://dev.to/juarezasjunior/c-tip-argumentnullexceptionthrowifnull-2lnj)
-- [Free Tool: Freelance Rate Calculator](https://dev.to/ashallendesign/free-tool-freelance-rate-calculator-f5c)
-- [The Role of Artificial Intelligence &lpar;AI&rpar; in Mobile App Development](https://dev.to/ronika_kashyap/the-role-of-artificial-intelligence-ai-in-mobile-app-development-2aob)
+- [Connected and Disconnected Target Callbacks with Stimulus](https://dev.to/railsdesigner/connected-and-disconnected-target-callbacks-with-stimulus-1dm3)
+- [Looking for your APIs](https://dev.to/nikoldimit/looking-for-your-apis-4neh)
+- [How the Ruby Repository Masters Fast Merges: Cutting Corners or Genius Efficiency?](https://dev.to/middleware/how-the-ruby-repository-masters-fast-merges-cutting-corners-or-genius-efficiency-5fe8)
+- [Game vs. App Testing: A Comparative Guide](https://dev.to/abhayit2000/game-vs-app-testing-a-comparative-guide-5aa3)
+- [CI/CD pipeline](https://dev.to/mrcaption49/cicd-pipeline-18eo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
