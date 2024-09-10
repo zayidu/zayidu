@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Graph RAG](https://dev.to/parth_roy_a1ec4703407d025/graph-rag-5p7)
-- [Simplify File and Directory Paths in Node.js with process.cwd&lpar;&rpar;](https://dev.to/amanp30/simplify-file-and-directory-paths-in-nodejs-with-processcwd-270)
-- [Building a Web-Based Video Editor with Remotion, Next.js, and Tailwind CSS](https://dev.to/sambowenhughes/building-a-web-based-video-editor-with-remotion-nextjs-and-tailwind-css-pfg)
-- [The Best 3D Web Experience Solution](https://dev.to/mpoiiii/the-best-3d-web-experience-solution-5761)
-- [Add a Watermark to a Video Using VideoAlchemy](https://dev.to/hsngerami/add-a-watermark-to-a-video-using-videoalchemy-3hlc)
+- [How to Start Your Career in AI: A Beginner&#39;s Guide](https://dev.to/abhinowww/how-to-start-your-career-in-ai-a-beginners-guide-363l)
+- [Understanding the Role of Git Tags in Version Control](https://dev.to/adityabhuyan/understanding-the-role-of-git-tags-in-version-control-1ie)
+- [Which Operating System Offers Better Hardware Compatibility: Windows or Linux?](https://dev.to/adityabhuyan/which-operating-system-offers-better-hardware-compatibility-windows-or-linux-40ge)
+- [Understanding Instances in Cloud Computing](https://dev.to/devops_den/understanding-instances-in-cloud-computing-2dp5)
+- [Git push: fatal: the remote end hung up unexpectedly](https://dev.to/vidyasagarmsc/git-push-fatal-the-remote-end-hung-up-unexpectedly-29bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
