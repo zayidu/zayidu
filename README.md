@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Connected and Disconnected Target Callbacks with Stimulus](https://dev.to/railsdesigner/connected-and-disconnected-target-callbacks-with-stimulus-1dm3)
-- [Looking for your APIs](https://dev.to/nikoldimit/looking-for-your-apis-4neh)
-- [How the Ruby Repository Masters Fast Merges: Cutting Corners or Genius Efficiency?](https://dev.to/middleware/how-the-ruby-repository-masters-fast-merges-cutting-corners-or-genius-efficiency-5fe8)
-- [Game vs. App Testing: A Comparative Guide](https://dev.to/abhayit2000/game-vs-app-testing-a-comparative-guide-5aa3)
-- [CI/CD pipeline](https://dev.to/mrcaption49/cicd-pipeline-18eo)
+- [Using Nginx on Docker](https://dev.to/chauhoangminhnguyen/using-nginx-on-docker-3472)
+- [Why Open-Source Contributions Might Be Your Best Bet for Getting Hired as a Developer in the AI Era](https://dev.to/samreen_amjid_e85290540ea/why-open-source-contributions-might-be-your-best-bet-for-getting-hired-as-a-developer-in-the-ai-era-333h)
+- [Calculator using html css](https://dev.to/prince_beec5ccde00b7c6c73/calculator-using-html-css-ffk)
+- [JUnit VS TestNG – Core Differences](https://dev.to/testifytech/junit-vs-testng-core-differences-4e4o)
+- [Metrics to pay attention to, when optimizing web page performance](https://dev.to/mfyz/metrics-to-pay-attention-to-when-optimizing-web-page-performance-3h6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
