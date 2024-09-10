@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Custom Countdown Content Type in PWA Studio](https://dev.to/devgfnl/how-to-create-a-custom-countdown-content-type-in-pwa-studio-2je6)
-- [How I Built an AI Assistant for my Operating System](https://dev.to/suhavi/how-i-built-an-ai-assistant-for-my-operating-system-15kl)
-- [Recap and Looking Ahead](https://dev.to/erasmuskotoka/recap-and-looking-ahead-39dn)
-- [Data Visualization Techniques for Text Data](https://dev.to/ragoli86/data-visualization-techniques-for-text-data-bh)
-- [Solving Performance Issues with Redis and Bull](https://dev.to/3x_pay/solving-performance-issues-with-redis-and-bull-4766)
+- [#61 — Split Words as Individual Characters](https://dev.to/judith677/61-split-words-as-individual-characters-43o2)
+- [I Don&#39;t Suggest The Pomodoro Timer Method. Here&#39;s Why](https://dev.to/mvcwebapiii/i-dont-suggest-the-pomodoro-timer-method-heres-why-2meh)
+- [MYSQL](https://dev.to/timthoi/mysql-103)
+- [Troubleshooting Your Way Through the Cloud Resume Challenge](https://dev.to/felipe_costacouto/troubleshooting-your-way-through-the-cloud-resume-challenge-59c3)
+- [How to deal with malicious kcached processes](https://dev.to/henri_sekeladi/how-to-deal-with-malicious-kcached-processes-7gb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
