@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My 7 Reasons Why Django is the Best Choice for Beginners Starting a Career in Web Development](https://dev.to/stokry/my-7-reasons-why-django-is-the-best-choice-for-beginners-starting-a-career-in-web-development-ce0)
-- [5 Amazing APIs That You Should Use In Your Project](https://dev.to/bizmaven-devworld-organization/5-amazing-apis-that-you-should-use-in-your-project-cnd)
-- [Share 4 Animation Libraries to Help You Create a Visual Feast and Double Your Chill Time!](https://dev.to/angelaswift/share-4-animation-libraries-to-help-you-create-a-visual-feast-and-double-your-chill-time-49h9)
-- [The Intersection of Cybersecurity and Artificial Intelligence: A New Frontier](https://dev.to/lilyneema/the-intersection-of-cybersecurity-and-artificial-intelligence-a-new-frontier-9l8)
-- [See you at EuRuKo 2024](https://dev.to/lucianghinda/see-you-at-euruko-2024-2den)
+- [Setting Up SafeLine: Best Practices for Secure Web Traffic](https://dev.to/lulu_liu_c90f973e2f954d7f/setting-up-safeline-best-practices-for-secure-web-traffic-2n17)
+- [📣What Is a UX Engineer? Understanding the Role, Skills, and Responsibilities🎨](https://dev.to/uicraft_by_pratik/what-is-a-ux-engineer-understanding-the-role-skills-and-responsibilities-17i2)
+- [Run WordPress locally using Docker!](https://dev.to/savvasstephnds/run-wordpress-locally-using-docker-5bk2)
+- [React Component Testing using React Testing Library](https://dev.to/ashutoshsarangi/react-component-testing-using-react-testing-library-45n9)
+- [🚀 Boost Your Node.js Security with Helmet.js! 🛡️](https://dev.to/sampodnath/boost-your-nodejs-security-with-helmetjs-27gn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
