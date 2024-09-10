@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [First Day on My First Project](https://dev.to/theoforger/first-day-on-my-first-project-5eob)
-- [First Day on My First Project](https://dev.to/theoforger/first-day-on-my-first-project-4ioj)
-- [The Power of exec&lpar;&rpar; in Mongoose: Unlocking Better Query Execution](https://dev.to/asim_khan_cbe65e41bcbbc65/the-power-of-exec-in-mongoose-unlocking-better-query-execution-17fd)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2ed9)
-- [Effortless Deployment of Project with Ansible &amp; Nginx on AWS](https://dev.to/iamamash/effortless-deployment-of-project-with-ansible-nginx-on-aws-10di)
+- [Continue.dev: The Swiss Army Knife That Sometimes Fails to Cut](https://dev.to/maximsaplin/continuedev-the-swiss-army-knife-that-sometimes-fails-to-cut-4gg3)
+- [Ng-News 24/36: Incremental Hydration, Largest Angular App &amp; more](https://dev.to/this-is-angular/ng-news-2436-incremental-hydration-largest-angular-app-more-52eo)
+- [Uncontrolled Textarea Element in React](https://dev.to/labex/uncontrolled-textarea-element-in-react-4bag)
+- [Deploy a Django and React application using Render and integrate AWS S3](https://dev.to/mrcaption49/deploy-a-django-and-react-application-using-render-and-integrate-aws-s3-4nha)
+- [Deploy a Django application on Render using PostgreSQL as the database and hosting images over AWS](https://dev.to/mrcaption49/deploy-a-django-application-on-render-using-postgresql-as-the-database-and-hosting-images-over-aws-4dl8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
