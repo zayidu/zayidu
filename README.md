@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to DevOps](https://dev.to/harshm03/introduction-to-devops-hdj)
-- [Asynchronous](https://dev.to/mrcaption49/asynchronous-3g80)
-- [Asynchronous programming Callbacks, Promises &amp; Async Await](https://dev.to/mrcaption49/asynchronous-programming-callbacks-promises-async-await-43j5)
-- [Need Help: Merging Background and Menu Codes in Power BI Without JavaScript &lpar;Beginner Seeking Guidance&rpar;](https://dev.to/jovemboemio/need-help-merging-background-and-menu-codes-in-power-bi-without-javascript-beginner-seeking-guidance-fbh)
-- [JavaScript Micro Performance Testing, History, and Limitations](https://dev.to/oculus42/javascript-micro-performance-testing-history-and-limitations-4kke)
+- [✨ Cursor AI Editor — Is It Actually Useful?](https://dev.to/best_codes/cursor-ai-editor-is-it-actually-useful-16mj)
+- [Tips for SEO: Guest posting and listing strategies for clients who are doctors or nurses.](https://dev.to/dgihost/tips-for-seo-guest-posting-and-listing-strategies-for-clients-who-are-doctors-or-nurses-n0a)
+- [useBoundStoreWithEqualityFn in Zustand’s source code explained.](https://dev.to/thinkthroo/useboundstorewithequalityfn-in-zustands-source-code-explained-4fp)
+- [How to migrate data between 02 databases by using Spring batch](https://dev.to/spencer2k24/how-to-migrate-data-between-02-databases-by-using-spring-batch-20lj)
+- [Stop Running Tests With Your CI/CD Tool](https://dev.to/kubeshop/stop-running-tests-with-your-cicd-tool-3ngi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
