@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Nginx on Docker](https://dev.to/chauhoangminhnguyen/using-nginx-on-docker-3472)
-- [Why Open-Source Contributions Might Be Your Best Bet for Getting Hired as a Developer in the AI Era](https://dev.to/samreen_amjid_e85290540ea/why-open-source-contributions-might-be-your-best-bet-for-getting-hired-as-a-developer-in-the-ai-era-333h)
-- [Calculator using html css](https://dev.to/prince_beec5ccde00b7c6c73/calculator-using-html-css-ffk)
-- [JUnit VS TestNG – Core Differences](https://dev.to/testifytech/junit-vs-testng-core-differences-4e4o)
-- [Metrics to pay attention to, when optimizing web page performance](https://dev.to/mfyz/metrics-to-pay-attention-to-when-optimizing-web-page-performance-3h6a)
+- [Understanding Asynchronous Programming in JavaScript: Beginner&#39;s Guide to the Event Loop](https://dev.to/emmanuelayinde/understanding-asynchronous-programming-in-javascript-synchronous-asynchronous-microtasks-macrotasks-and-the-event-loop-h5e)
+- [Array &lpar;DSA - 5&rpar;](https://dev.to/madgan95/array-dsa-5-4j31)
+- [Managing Multiple Git Configs with SSH](https://dev.to/vutlhari/managing-multiple-git-configs-with-ssh-494b)
+- [Proxy : Simplified](https://dev.to/sab93/proxy-simplified-5if)
+- [On building a digital assistant for the rest of us &lpar;part 2&rpar;](https://dev.to/tkuenneth/on-building-a-digital-assistant-for-the-rest-of-us-part-2-92c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
