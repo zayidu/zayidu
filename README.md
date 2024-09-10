@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up SafeLine: Best Practices for Secure Web Traffic](https://dev.to/lulu_liu_c90f973e2f954d7f/setting-up-safeline-best-practices-for-secure-web-traffic-2n17)
-- [📣What Is a UX Engineer? Understanding the Role, Skills, and Responsibilities🎨](https://dev.to/uicraft_by_pratik/what-is-a-ux-engineer-understanding-the-role-skills-and-responsibilities-17i2)
-- [Run WordPress locally using Docker!](https://dev.to/savvasstephnds/run-wordpress-locally-using-docker-5bk2)
-- [React Component Testing using React Testing Library](https://dev.to/ashutoshsarangi/react-component-testing-using-react-testing-library-45n9)
-- [🚀 Boost Your Node.js Security with Helmet.js! 🛡️](https://dev.to/sampodnath/boost-your-nodejs-security-with-helmetjs-27gn)
+- [10 Things I Wish I Knew Before I Started Coding.](https://dev.to/balrajola/10-things-i-wish-i-knew-before-i-started-coding-51oo)
+- [Dica C#: ArgumentNullException.ThrowIfNull](https://dev.to/juarezasjunior/dica-c-argumentnullexceptionthrowifnull-5e9d)
+- [C# Tip: ArgumentNullException.ThrowIfNull](https://dev.to/juarezasjunior/c-tip-argumentnullexceptionthrowifnull-2lnj)
+- [Free Tool: Freelance Rate Calculator](https://dev.to/ashallendesign/free-tool-freelance-rate-calculator-f5c)
+- [The Role of Artificial Intelligence &lpar;AI&rpar; in Mobile App Development](https://dev.to/ronika_kashyap/the-role-of-artificial-intelligence-ai-in-mobile-app-development-2aob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
