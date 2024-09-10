@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to reach a wide audience on social media](https://dev.to/andrecasal/how-to-reach-a-wide-audience-on-social-media-3p43)
-- [Ultimate FLUX LoRA Training Tutorial: Windows and Cloud Deployment](https://dev.to/furkangozukara/ultimate-flux-lora-training-tutorial-windows-and-cloud-deployment-1a20)
-- [Mastering Algorithms: Unlock the Power of Data Structures and Problem-Solving](https://dev.to/getvm/mastering-algorithms-unlock-the-power-of-data-structures-and-problem-solving-5eaf)
-- [DBのレコード更新をトリガーにLambdaを実行する（パート１）](https://dev.to/aws-builders/dbnorekodogeng-xin-wotoriganilambdawoshi-xing-surupato1-30g7)
-- [Building an AI-Powered, Paved Road Platform with Cloud-Native Open source technologies](https://dev.to/intuitdev/building-an-ai-powered-paved-road-platform-with-cloud-native-open-source-technologies-4b2f)
+- [How to Create a Custom Countdown Content Type in PWA Studio](https://dev.to/devgfnl/how-to-create-a-custom-countdown-content-type-in-pwa-studio-2je6)
+- [How I Built an AI Assistant for my Operating System](https://dev.to/suhavi/how-i-built-an-ai-assistant-for-my-operating-system-15kl)
+- [Recap and Looking Ahead](https://dev.to/erasmuskotoka/recap-and-looking-ahead-39dn)
+- [Data Visualization Techniques for Text Data](https://dev.to/ragoli86/data-visualization-techniques-for-text-data-bh)
+- [Solving Performance Issues with Redis and Bull](https://dev.to/3x_pay/solving-performance-issues-with-redis-and-bull-4766)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
