@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Continue.dev: The Swiss Army Knife That Sometimes Fails to Cut](https://dev.to/maximsaplin/continuedev-the-swiss-army-knife-that-sometimes-fails-to-cut-4gg3)
-- [Ng-News 24/36: Incremental Hydration, Largest Angular App &amp; more](https://dev.to/this-is-angular/ng-news-2436-incremental-hydration-largest-angular-app-more-52eo)
-- [Uncontrolled Textarea Element in React](https://dev.to/labex/uncontrolled-textarea-element-in-react-4bag)
-- [Deploy a Django and React application using Render and integrate AWS S3](https://dev.to/mrcaption49/deploy-a-django-and-react-application-using-render-and-integrate-aws-s3-4nha)
-- [Deploy a Django application on Render using PostgreSQL as the database and hosting images over AWS](https://dev.to/mrcaption49/deploy-a-django-application-on-render-using-postgresql-as-the-database-and-hosting-images-over-aws-4dl8)
+- [Introduction to DevOps](https://dev.to/harshm03/introduction-to-devops-hdj)
+- [Asynchronous](https://dev.to/mrcaption49/asynchronous-3g80)
+- [Asynchronous programming Callbacks, Promises &amp; Async Await](https://dev.to/mrcaption49/asynchronous-programming-callbacks-promises-async-await-43j5)
+- [Need Help: Merging Background and Menu Codes in Power BI Without JavaScript &lpar;Beginner Seeking Guidance&rpar;](https://dev.to/jovemboemio/need-help-merging-background-and-menu-codes-in-power-bi-without-javascript-beginner-seeking-guidance-fbh)
+- [JavaScript Micro Performance Testing, History, and Limitations](https://dev.to/oculus42/javascript-micro-performance-testing-history-and-limitations-4kke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
