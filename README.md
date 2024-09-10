@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Asynchronous Programming in JavaScript: Beginner&#39;s Guide to the Event Loop](https://dev.to/emmanuelayinde/understanding-asynchronous-programming-in-javascript-synchronous-asynchronous-microtasks-macrotasks-and-the-event-loop-h5e)
-- [Array &lpar;DSA - 5&rpar;](https://dev.to/madgan95/array-dsa-5-4j31)
-- [Managing Multiple Git Configs with SSH](https://dev.to/vutlhari/managing-multiple-git-configs-with-ssh-494b)
-- [Proxy : Simplified](https://dev.to/sab93/proxy-simplified-5if)
-- [On building a digital assistant for the rest of us &lpar;part 2&rpar;](https://dev.to/tkuenneth/on-building-a-digital-assistant-for-the-rest-of-us-part-2-92c)
+- [A Developer&#39;s Guide to the new iDEAL](https://dev.to/adyen/a-developers-guide-to-the-new-ideal-2o0c)
+- [Comparison of Two Methods for Deploying Azure Functions to Azure Container Apps](https://dev.to/azure/comparison-of-two-methods-for-deploying-azure-functions-to-azure-container-apps-2o7o)
+- [System Architecture Overview for Message-Oriented Alarm Processing System](https://dev.to/chanh_le/system-architecture-overview-for-message-oriented-alarm-processing-system-5enj)
+- [An open source website feedback and bug reporting tool](https://dev.to/mingrelax/an-open-source-website-feedback-and-bug-reporting-tool-51bc)
+- [Implementing Recursive Comments View](https://dev.to/debopamgupta/implementing-recursive-comments-view-13gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
