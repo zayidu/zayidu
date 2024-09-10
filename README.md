@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Five Opportunities and Challenges for Retail Healthcare in 2024](https://dev.to/sejaljansari/five-opportunities-and-challenges-for-retail-healthcare-in-2024-2447)
-- [Let&#39;s Read - Eloquent Ruby - Ch 12](https://dev.to/baweaver/lets-read-eloquent-ruby-ch-12-4gja)
-- [Can Postgres replace Redis as a cache?](https://dev.to/raphaeldelio/can-postgres-replace-redis-as-a-cache-2ne1)
-- [How to Effortlessly Integrate JFrog Artifactory with Packer for Seamless Docker Image Management](https://dev.to/s3cloudhub/how-to-effortlessly-integrate-jfrog-artifactory-with-packer-for-seamless-docker-image-management-d67)
-- [💎 of solid-primitives, part 3: set, map, trigger](https://dev.to/lexlohr/of-solid-primitives-part-3-set-map-trigger-ab9)
+- [Pavel Durov&#39;s Arrest: A Misstep or a Warning for Digital Freedom?](https://dev.to/snapnews/pavel-durovs-arrest-a-misstep-or-a-warning-for-digital-freedom-38hi)
+- [Transforming Marketing: How AI Elevates Efficiency and Customer Engagement](https://dev.to/snapnews/transforming-marketing-how-ai-elevates-efficiency-and-customer-engagement-j1m)
+- [How to Use Color Picker in Windows 11 using PowerToys?](https://dev.to/winsides/how-to-use-color-picker-in-windows-11-using-powertoys-ikn)
+- [Optimizing and Cleaning Up Your WordPress Database: A DIY Guide](https://dev.to/drazenbebic/optimizing-and-cleaning-up-your-wordpress-database-a-diy-guide-15ab)
+- [Azqr](https://dev.to/antoinega/azqr-4kh1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
