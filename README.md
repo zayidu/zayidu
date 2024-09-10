@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ Cursor AI Editor — Is It Actually Useful?](https://dev.to/best_codes/cursor-ai-editor-is-it-actually-useful-16mj)
-- [Tips for SEO: Guest posting and listing strategies for clients who are doctors or nurses.](https://dev.to/dgihost/tips-for-seo-guest-posting-and-listing-strategies-for-clients-who-are-doctors-or-nurses-n0a)
-- [useBoundStoreWithEqualityFn in Zustand’s source code explained.](https://dev.to/thinkthroo/useboundstorewithequalityfn-in-zustands-source-code-explained-4fp)
-- [How to migrate data between 02 databases by using Spring batch](https://dev.to/spencer2k24/how-to-migrate-data-between-02-databases-by-using-spring-batch-20lj)
-- [Stop Running Tests With Your CI/CD Tool](https://dev.to/kubeshop/stop-running-tests-with-your-cicd-tool-3ngi)
+- [Manipulating WebSocket Data Using Breakpoints](https://dev.to/jack_bader_d38c3a1322a61d/manipulating-websocket-data-using-breakpoints-3k32)
+- [A Comprehensive OpenAI Assistants API V2 Wrapper: Simplifying AI Integration](https://dev.to/rahees_ahmed_/a-comprehensive-openai-assistants-api-v2-wrapper-simplifying-ai-integration-1i1n)
+- [Build a Route Generator App with Cloudflare Workers AI, LangChain, Streamlit, and Mapbox](https://dev.to/cloudflare/build-a-route-generator-app-with-cloudflare-workers-ai-langchain-streamlit-and-mapbox-jo3)
+- [How to setup your own &quot;Git Server&quot;](https://dev.to/kurtchan/how-to-setup-your-own-git-server-5b23)
+- [dotnet LATAM Day 2024](https://dev.to/mteheran/dotnet-latam-day-2024-52od)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
