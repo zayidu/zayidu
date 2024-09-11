@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Secure Newsletter Subscription with NextJS, Supabase, Nodemailer and Arcjet 🔐💯](https://dev.to/madza/how-to-create-a-secure-newsletter-subscription-with-nextjs-supabase-nodemailer-and-arcjet-3ll7)
-- [Manage Your Shared Components and Modules in The Cloud](https://dev.to/giteden/manage-your-shared-components-and-modules-in-the-cloud-22ld)
-- [Combining Options in Effect-TS: A Practical Guide](https://dev.to/almaclaine/combining-options-in-effect-ts-a-practical-guide-1gha)
-- [Rocket - The Rust Web Framework - Hello World](https://dev.to/francescoxx/rocket-the-rust-web-framework-hello-world-31po)
-- [React 19 Is Here...Get Ready!](https://dev.to/travislramos/react-19-is-hereget-ready-36da)
+- [How to Completely Hide the StatusBar in React Native](https://dev.to/sharmaprash/how-to-completely-hide-the-statusbar-in-react-native-2m0l)
+- [Why People Love the Pandas Library So Much](https://dev.to/1snakecoder0/why-people-love-the-pandas-library-so-much-12cf)
+- [Deno adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/deno-adoption-guide-overview-examples-and-alternatives-2c7k)
+- [Calculator Projects](https://dev.to/venusiad/calculator-projects-3ic)
+- [Fungible Tokens VS Non-Fungible Tokens &lpar;NFT&rpar;](https://dev.to/blyn/fungible-tokens-vs-non-fungible-tokens-nft-2664)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
