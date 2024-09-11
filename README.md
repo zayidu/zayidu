@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Agas 1.0.0](https://dev.to/m__mdy__m/introducing-agas-100-43bd)
-- [Introducing Meteor Work Groups](https://dev.to/meteor/introducing-meteor-work-groups-3m01)
-- [🔥 Raw-Dogging Websites + CSS Performance Deep Dive &lpar;and more!&rpar;](https://dev.to/adam/raw-dogging-websites-css-performance-deep-dive-and-more-j4i)
-- [Reflections of a Developer](https://dev.to/mpitrowsky/reflections-of-a-developer-24jf)
-- [Expo apk keeps on crashing after build](https://dev.to/amanbhoria/expo-apk-keeps-on-crashing-after-build-pjg)
+- [Why Use AWS App Runner?](https://dev.to/ernestohs/why-use-aws-app-runner-218e)
+- [Book Review: &quot;A Philosophy of Software Design&quot; by John Ousterhout](https://dev.to/ernestohs/book-review-a-philosophy-of-software-design-by-john-ousterhout-4dnh)
+- [Day 2. Networking layer.](https://dev.to/kiolk/day-2-networking-layer-2869)
+- [AWS IAM User Access Keys are a force to be reckoned with &amp; This is how it is done, on exposure !!](https://dev.to/aws-builders/aws-iam-user-access-keys-are-a-force-to-be-reckoned-with-this-is-how-it-is-done-on-exposure--32k)
+- [Closures in JavaScript](https://dev.to/yashrajxdev/closures-in-javascript-11cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
