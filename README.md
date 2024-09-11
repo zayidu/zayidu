@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exciting New Features in ECMAScript 2024 &lpar;ES15&rpar;](https://dev.to/vyan/exciting-new-features-in-ecmascript-2024-es15-48p9)
-- [7 web-developer resume tips to get a response back.](https://dev.to/swastikyadav/7-web-developer-resume-tips-to-get-a-response-back-5hfm)
-- [How AI helps QA teams handle challenging cross-browser and cross-platform testing](https://dev.to/misterankit/how-ai-helps-qa-teams-handle-challenging-cross-browser-and-cross-platform-testing-4gee)
-- [The Importance of Separating Kernels and Userspace in Modern Computing Systems](https://dev.to/adityabhuyan/the-importance-of-separating-kernels-and-userspace-in-modern-computing-systems-2men)
-- [7 Lesser-Known HTML Attributes to Enhance User Experience](https://dev.to/zacharylee/7-lesser-known-html-attributes-to-enhance-user-experience-45gm)
+- [#62 - Search for A Specified String across The Whole Table](https://dev.to/judith677/62-search-for-a-specified-string-across-the-whole-table-2a7c)
+- [Navigating Enterprise AI: Strategy, Governance, and Engineering for Success](https://dev.to/buzzgk/navigating-enterprise-ai-strategy-governance-and-engineering-for-success-2cag)
+- [Top Travel Apps Every Tech-Savvy Explorer Needs](https://dev.to/sachinsharma09/top-travel-apps-every-tech-savvy-explorer-needs-gbk)
+- [Turn Based Multiplayer Beer Game](https://dev.to/lazypro/turn-based-multiplayer-beer-game-3n5k)
+- [Tired of Boring Vocabulary Lessons? Try This Instead!](https://dev.to/mammadyahyayev/tired-of-boring-vocabulary-lessons-try-this-instead-nbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
