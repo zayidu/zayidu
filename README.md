@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy React Application to Google Kubernetes Engine](https://dev.to/chauhoangminhnguyen/deploy-react-application-to-google-kubernetes-engine-1h94)
-- [JavaScript Programming Tutorials: From URL Shortener to Deep Array Flattening](https://dev.to/labex/javascript-programming-tutorials-from-url-shortener-to-deep-array-flattening-4gng)
-- [AbortController with Fetch](https://dev.to/mdiffshashank/abortcontroller-with-fetch-jf0)
-- [Hono for Express Developers: A Modern Alternative for Edge Computing](https://dev.to/mathuraditya7/hono-for-express-developers-a-modern-alternative-for-edge-computing-4pd8)
-- [Breaking Out of Tutorial Hell: Why It&#39;s Time to Start Your Own Projects](https://dev.to/jimmymcbride/breaking-out-of-tutorial-hell-why-its-time-to-start-your-own-projects-3lhd)
+- [Building a Powerful Chatbot with OpenAI and LangChain](https://dev.to/basskibo/building-a-powerful-chatbot-with-openai-and-langchain-394)
+- [The Faces Behind Open Source Projects: Tim Jones and pg-boss](https://dev.to/wasp/the-faces-behind-open-source-projects-tim-jones-and-pg-boss-2po1)
+- [18 Key Points You Must Know When Creating Tables in MySQL](https://dev.to/johnjava/18-key-points-you-must-know-when-creating-tables-in-mysql-42j8)
+- [Building a Manage Landing Page using React](https://dev.to/abhishekgurjar/building-a-manage-landing-page-using-react-228f)
+- [Laravel Livewire: What it is, and how to use it in your web app](https://dev.to/inspector/laravel-livewire-what-it-is-and-how-to-use-it-in-your-web-app-34ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
