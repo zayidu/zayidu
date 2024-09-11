@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#62 - Search for A Specified String across The Whole Table](https://dev.to/judith677/62-search-for-a-specified-string-across-the-whole-table-2a7c)
-- [Navigating Enterprise AI: Strategy, Governance, and Engineering for Success](https://dev.to/buzzgk/navigating-enterprise-ai-strategy-governance-and-engineering-for-success-2cag)
-- [Top Travel Apps Every Tech-Savvy Explorer Needs](https://dev.to/sachinsharma09/top-travel-apps-every-tech-savvy-explorer-needs-gbk)
-- [Turn Based Multiplayer Beer Game](https://dev.to/lazypro/turn-based-multiplayer-beer-game-3n5k)
-- [Tired of Boring Vocabulary Lessons? Try This Instead!](https://dev.to/mammadyahyayev/tired-of-boring-vocabulary-lessons-try-this-instead-nbl)
+- [How to Convert Excel to a Gantt chart: Quick Guide for Project Teams](https://dev.to/thomasy0ung/how-to-convert-excel-to-a-gantt-chart-quick-guide-for-project-teams-14bf)
+- [NODE Interview Questions...](https://dev.to/kamlesh_gupta_539c974fb0d/node-interview-questions-5fg4)
+- [Leetcode - 334. Increasing Triplet Subsequence](https://dev.to/rakeshreddy512/leetcode-334-increasing-triplet-subsequence-4jpp)
+- [Decoding ERC-7007: Shaping the Future of AI-Generated NFTs](https://dev.to/nft_research/decoding-erc-7007-shaping-the-future-of-ai-generated-nfts-7h6)
+- [Opaque token vs JWT](https://dev.to/logto/opaque-token-vs-jwt-54l7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
