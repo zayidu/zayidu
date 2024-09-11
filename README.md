@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Powerful Chatbot with OpenAI and LangChain](https://dev.to/basskibo/building-a-powerful-chatbot-with-openai-and-langchain-394)
-- [The Faces Behind Open Source Projects: Tim Jones and pg-boss](https://dev.to/wasp/the-faces-behind-open-source-projects-tim-jones-and-pg-boss-2po1)
-- [18 Key Points You Must Know When Creating Tables in MySQL](https://dev.to/johnjava/18-key-points-you-must-know-when-creating-tables-in-mysql-42j8)
-- [Building a Manage Landing Page using React](https://dev.to/abhishekgurjar/building-a-manage-landing-page-using-react-228f)
-- [Laravel Livewire: What it is, and how to use it in your web app](https://dev.to/inspector/laravel-livewire-what-it-is-and-how-to-use-it-in-your-web-app-34ae)
+- [How Small PR Improves Team Productivity](https://dev.to/jetthoughts/how-small-pr-improves-team-productivity-25g)
+- [Now, junior, behave yourself!](https://dev.to/cocodelacueva/now-junior-behave-yourself-3004)
+- [Understanding the Strategy Pattern: A Flexible Approach to Salary Processing &lpar;Python&rpar;](https://dev.to/dazevedo/understanding-the-strategy-pattern-a-flexible-approach-to-salary-processing-python-3bh7)
+- [Understanding the Decentralized AI Stack](https://dev.to/swarmzero/understanding-the-decentralized-ai-stack-5e3o)
+- [Fastest way to count in sql](https://dev.to/volland/fastest-way-to-count-in-sql-23m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
