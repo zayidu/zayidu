@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 The Future of Agile: Shifting from Delivery to Discovery – Insights from Gary Cohen 🎯](https://dev.to/edensoftlabs/the-future-of-agile-shifting-from-delivery-to-discovery-insights-from-gary-cohen-4fap)
-- [4 Best Authentication Methods for Next.js](https://dev.to/ethanleetech/4-best-authentication-methods-for-nextjs-2705)
-- [Determine Available Selections Depending on Available Product SKUs](https://dev.to/carlosrambles/determine-available-selections-depending-on-available-product-skus-4c1n)
-- [Go Time and Duration | Programming Tutorials](https://dev.to/labex/go-time-and-duration-programming-tutorials-786)
-- [First Blog Post - Fibonacci Sequence](https://dev.to/aqeelakbari/first-blog-post-fibonacci-sequence-g0f)
+- [Android Carousel Image Slider With Material Design](https://dev.to/ahasanpapon/android-carousel-image-slider-with-material-design-3-1o2f)
+- [Combining the benefits of session tokens and JWTs](https://dev.to/clerk/combining-the-benefits-of-session-tokens-and-jwts-d48)
+- [IR Playbooks TryHackMe](https://dev.to/yowise/ir-playbooks-tryhackme-18n3)
+- [Please Install It for Me](https://dev.to/cacilhas/please-install-it-for-me-3ea9)
+- [The AVIF to PNG : Why We’re Still Talking About Image Formats](https://dev.to/badrnyali/the-avif-to-png-why-were-still-talking-about-image-formats-k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
