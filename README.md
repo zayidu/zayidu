@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Completely Hide the StatusBar in React Native](https://dev.to/sharmaprash/how-to-completely-hide-the-statusbar-in-react-native-2m0l)
-- [Why People Love the Pandas Library So Much](https://dev.to/1snakecoder0/why-people-love-the-pandas-library-so-much-12cf)
-- [Deno adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/deno-adoption-guide-overview-examples-and-alternatives-2c7k)
-- [Calculator Projects](https://dev.to/venusiad/calculator-projects-3ic)
-- [Fungible Tokens VS Non-Fungible Tokens &lpar;NFT&rpar;](https://dev.to/blyn/fungible-tokens-vs-non-fungible-tokens-nft-2664)
+- [Introducing Agas 1.0.0](https://dev.to/m__mdy__m/introducing-agas-100-43bd)
+- [Introducing Meteor Work Groups](https://dev.to/meteor/introducing-meteor-work-groups-3m01)
+- [🔥 Raw-Dogging Websites + CSS Performance Deep Dive &lpar;and more!&rpar;](https://dev.to/adam/raw-dogging-websites-css-performance-deep-dive-and-more-j4i)
+- [Reflections of a Developer](https://dev.to/mpitrowsky/reflections-of-a-developer-24jf)
+- [Expo apk keeps on crashing after build](https://dev.to/amanbhoria/expo-apk-keeps-on-crashing-after-build-pjg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
