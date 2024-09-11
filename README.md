@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v293](https://dev.to/devteam/welcome-thread-v293-kf1)
-- [Microservice Design Patterns](https://dev.to/isaactony/microservice-design-patterns-11p5)
-- [Can a Website Succeed Without SEO or Link Building?](https://dev.to/juddiy/can-a-website-succeed-without-seo-or-link-building-3j1n)
-- [Which Data Synchronization Method is More Senior?](https://dev.to/seatunnel/which-data-synchronization-method-is-more-senior-2nh1)
-- [Finding an Element in an Infinite Array Using Java](https://dev.to/mostafa_/finding-an-element-in-an-infinite-array-using-java-1f1f)
+- [Exciting New Features in ECMAScript 2024 &lpar;ES15&rpar;](https://dev.to/vyan/exciting-new-features-in-ecmascript-2024-es15-48p9)
+- [7 web-developer resume tips to get a response back.](https://dev.to/swastikyadav/7-web-developer-resume-tips-to-get-a-response-back-5hfm)
+- [How AI helps QA teams handle challenging cross-browser and cross-platform testing](https://dev.to/misterankit/how-ai-helps-qa-teams-handle-challenging-cross-browser-and-cross-platform-testing-4gee)
+- [The Importance of Separating Kernels and Userspace in Modern Computing Systems](https://dev.to/adityabhuyan/the-importance-of-separating-kernels-and-userspace-in-modern-computing-systems-2men)
+- [7 Lesser-Known HTML Attributes to Enhance User Experience](https://dev.to/zacharylee/7-lesser-known-html-attributes-to-enhance-user-experience-45gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
