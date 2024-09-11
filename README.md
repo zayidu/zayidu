@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot: A Revolução no Desenvolvimento de Aplicações Java](https://dev.to/devguilara/spring-boot-a-revolucao-no-desenvolvimento-de-aplicacoes-java-1i53)
-- [What is Clean Architecture: Part 16 - Adding Data Persistence with Entity Framework Core](https://dev.to/moh_moh701/what-is-clean-architecture-part-16-adding-data-persistence-with-entity-framework-core-1kih)
-- [Getting Started with Web Scraping in Python &lpar;For Beginners&rpar;](https://dev.to/dazevedo/getting-started-with-web-scraping-in-python-for-beginners-4j26)
-- [Lesson 7 – Working with APIs and Web Scraping for HR Automation](https://dev.to/dazevedo/lesson-7-working-with-apis-and-web-scraping-for-hr-automation-lmj)
-- [DevOps Fail: &quot;Windows Update Zero-Day Being Exploited to Undo Security Fixes&quot;](https://dev.to/andrewtetzeli/devops-fail-windows-update-zero-day-being-exploited-to-undo-security-fixes-1m97)
+- [🚀 The Future of Agile: Shifting from Delivery to Discovery – Insights from Gary Cohen 🎯](https://dev.to/edensoftlabs/the-future-of-agile-shifting-from-delivery-to-discovery-insights-from-gary-cohen-4fap)
+- [4 Best Authentication Methods for Next.js](https://dev.to/ethanleetech/4-best-authentication-methods-for-nextjs-2705)
+- [Determine Available Selections Depending on Available Product SKUs](https://dev.to/carlosrambles/determine-available-selections-depending-on-available-product-skus-4c1n)
+- [Go Time and Duration | Programming Tutorials](https://dev.to/labex/go-time-and-duration-programming-tutorials-786)
+- [First Blog Post - Fibonacci Sequence](https://dev.to/aqeelakbari/first-blog-post-fibonacci-sequence-g0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
