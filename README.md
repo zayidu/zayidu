@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Small PR Improves Team Productivity](https://dev.to/jetthoughts/how-small-pr-improves-team-productivity-25g)
-- [Now, junior, behave yourself!](https://dev.to/cocodelacueva/now-junior-behave-yourself-3004)
-- [Understanding the Strategy Pattern: A Flexible Approach to Salary Processing &lpar;Python&rpar;](https://dev.to/dazevedo/understanding-the-strategy-pattern-a-flexible-approach-to-salary-processing-python-3bh7)
-- [Understanding the Decentralized AI Stack](https://dev.to/swarmzero/understanding-the-decentralized-ai-stack-5e3o)
-- [Fastest way to count in sql](https://dev.to/volland/fastest-way-to-count-in-sql-23m)
+- [How to Create a Secure Newsletter Subscription with NextJS, Supabase, Nodemailer and Arcjet 🔐💯](https://dev.to/madza/how-to-create-a-secure-newsletter-subscription-with-nextjs-supabase-nodemailer-and-arcjet-3ll7)
+- [Manage Your Shared Components and Modules in The Cloud](https://dev.to/giteden/manage-your-shared-components-and-modules-in-the-cloud-22ld)
+- [Combining Options in Effect-TS: A Practical Guide](https://dev.to/almaclaine/combining-options-in-effect-ts-a-practical-guide-1gha)
+- [Rocket - The Rust Web Framework - Hello World](https://dev.to/francescoxx/rocket-the-rust-web-framework-hello-world-31po)
+- [React 19 Is Here...Get Ready!](https://dev.to/travislramos/react-19-is-hereget-ready-36da)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
