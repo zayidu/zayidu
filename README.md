@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Typia] LLM Function Calling Application Composer in TypeScript](https://dev.to/samchon/typia-llm-function-calling-application-composer-in-typescript-3pc9)
-- [Two-Way Data Binding in React.js: A Comprehensive Guide](https://dev.to/ellis22/two-way-data-binding-in-reactjs-a-comprehensive-guide-120b)
-- [Strengthen Your Web Security with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/strengthen-your-web-security-with-safeline-waf-43an)
-- [Automated Testing in Node.js for Efficient API Development](https://dev.to/viitorcloud/automated-testing-in-nodejs-for-efficient-api-development-4pac)
-- [Understanding Flex Properties in CSS](https://dev.to/ramk777stack/understanding-flex-properties-in-css-39ek)
+- [C# Tip: nameof](https://dev.to/juarezasjunior/c-tip-nameof-oif)
+- [Dica C#: nameof](https://dev.to/juarezasjunior/dica-c-nameof-1phl)
+- [Generate react component using visual copilot builder.io](https://dev.to/vvector2/generate-react-component-using-visual-copilot-builderio-14ib)
+- [How to use Rewrite URL tool in Charles Proxy](https://dev.to/requestly/how-to-use-rewrite-url-tool-in-charles-proxy-36ph)
+- [Agentic Frameworks in Java with JADE](https://dev.to/vishalmysore/agentic-frameworks-in-java-with-jade-4ma1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
