@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionize Your Code: 7 Advanced C++ Techniques to Elevate Your Programming Skills and Stay Ahead of the Game](https://dev.to/parkerava/revolutionize-your-code-7-advanced-c-techniques-to-elevate-your-programming-skills-and-stay-ahead-of-the-game-4kdp)
-- [Debugging Low Cache Hit Ratio](https://dev.to/metis/debugging-low-cache-hit-ratio-1loj)
-- [Why React JS is Eating Other Frameworks for Breakfast And Why You Should Care](https://dev.to/sbtechshare/why-react-js-is-eating-other-frameworks-for-breakfast-and-why-you-should-care-2kgl)
-- [Restful-Ecommerce - A simple demo node E-Commerce application for practising API Testing](https://dev.to/mfaisalkhatri/restful-ecommerce-a-simple-demo-node-e-commerce-application-for-practising-api-testing-1jek)
-- [A Simple Guide to Component Props in React](https://dev.to/drlacheheb/a-simple-guide-to-component-props-in-react-1ho0)
+- [A Beginner’s Guide to Docker Networking for Developers](https://dev.to/idsulik/a-beginners-guide-to-docker-networking-for-developers-2ab8)
+- [Process a large csv file with parallel processing #eg39](https://dev.to/esproc_spl/process-a-large-csv-file-with-parallel-processing-eg38-40mo)
+- [ModSecurity + SafeLine WAF for Multi-layer Defense &lpar;2&rpar;](https://dev.to/lulu_liu_c90f973e2f954d7f/modsecurity-safeline-waf-for-multi-layer-defense-2-3im5)
+- [ModSecurity + SafeLine WAF for Multi-layer Defense &lpar;1&rpar;](https://dev.to/lulu_liu_c90f973e2f954d7f/modsecurity-safeline-waf-for-multi-layer-defense-1-832)
+- [Python -How to define public, private and protected variables in a class](https://dev.to/ankitmalikg/python-how-to-define-public-private-and-protected-variables-in-a-class-4g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
