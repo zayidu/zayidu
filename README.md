@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Use AWS App Runner?](https://dev.to/ernestohs/why-use-aws-app-runner-218e)
-- [Book Review: &quot;A Philosophy of Software Design&quot; by John Ousterhout](https://dev.to/ernestohs/book-review-a-philosophy-of-software-design-by-john-ousterhout-4dnh)
-- [Day 2. Networking layer.](https://dev.to/kiolk/day-2-networking-layer-2869)
-- [AWS IAM User Access Keys are a force to be reckoned with &amp; This is how it is done, on exposure !!](https://dev.to/aws-builders/aws-iam-user-access-keys-are-a-force-to-be-reckoned-with-this-is-how-it-is-done-on-exposure--32k)
-- [Closures in JavaScript](https://dev.to/yashrajxdev/closures-in-javascript-11cg)
+- [Spring Boot: A Revolução no Desenvolvimento de Aplicações Java](https://dev.to/devguilara/spring-boot-a-revolucao-no-desenvolvimento-de-aplicacoes-java-1i53)
+- [What is Clean Architecture: Part 16 - Adding Data Persistence with Entity Framework Core](https://dev.to/moh_moh701/what-is-clean-architecture-part-16-adding-data-persistence-with-entity-framework-core-1kih)
+- [Getting Started with Web Scraping in Python &lpar;For Beginners&rpar;](https://dev.to/dazevedo/getting-started-with-web-scraping-in-python-for-beginners-4j26)
+- [Lesson 7 – Working with APIs and Web Scraping for HR Automation](https://dev.to/dazevedo/lesson-7-working-with-apis-and-web-scraping-for-hr-automation-lmj)
+- [DevOps Fail: &quot;Windows Update Zero-Day Being Exploited to Undo Security Fixes&quot;](https://dev.to/andrewtetzeli/devops-fail-windows-update-zero-day-being-exploited-to-undo-security-fixes-1m97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
