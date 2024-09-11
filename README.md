@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Tip: nameof](https://dev.to/juarezasjunior/c-tip-nameof-oif)
-- [Dica C#: nameof](https://dev.to/juarezasjunior/dica-c-nameof-1phl)
-- [Generate react component using visual copilot builder.io](https://dev.to/vvector2/generate-react-component-using-visual-copilot-builderio-14ib)
-- [How to use Rewrite URL tool in Charles Proxy](https://dev.to/requestly/how-to-use-rewrite-url-tool-in-charles-proxy-36ph)
-- [Agentic Frameworks in Java with JADE](https://dev.to/vishalmysore/agentic-frameworks-in-java-with-jade-4ma1)
+- [Seamless Background Removal with ISNET, SAM, and YOLOSegment Integration](https://dev.to/ishworrsubedii/seamless-background-removal-with-isnet-sam-and-yolosegment-integration-4b3f)
+- [Integrating Templ](https://dev.to/caffeineordeath/integrating-templ-3j0m)
+- [Smart Contract Dev : Hands-On with Truffle, Ganache and Solidity](https://dev.to/yessin_at_dev/smart-contract-dev-hands-on-with-truffle-ganache-and-solidity-27jm)
+- [Free Forex API Python](https://dev.to/hard_value_42d13a1ea562bd/free-forex-api-python-24lh)
+- [ErfanOS](https://dev.to/mr-3/erfanos-2ec5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
