@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Manipulating WebSocket Data Using Breakpoints](https://dev.to/jack_bader_d38c3a1322a61d/manipulating-websocket-data-using-breakpoints-3k32)
-- [A Comprehensive OpenAI Assistants API V2 Wrapper: Simplifying AI Integration](https://dev.to/rahees_ahmed_/a-comprehensive-openai-assistants-api-v2-wrapper-simplifying-ai-integration-1i1n)
-- [Build a Route Generator App with Cloudflare Workers AI, LangChain, Streamlit, and Mapbox](https://dev.to/cloudflare/build-a-route-generator-app-with-cloudflare-workers-ai-langchain-streamlit-and-mapbox-jo3)
-- [How to setup your own &quot;Git Server&quot;](https://dev.to/kurtchan/how-to-setup-your-own-git-server-5b23)
-- [dotnet LATAM Day 2024](https://dev.to/mteheran/dotnet-latam-day-2024-52od)
+- [Mastering Product Design: Essential UX/UI Principles for Stunning Results](https://dev.to/mediaclockposts/mastering-product-design-essential-uxui-principles-for-stunning-results-31p9)
+- [Effective Web App Development: Key Tactics for High-Performance Solutions](https://dev.to/mediaclockposts/effective-web-app-development-key-tactics-for-high-performance-solutions-24ja)
+- [Creating Custom Hooks in React](https://dev.to/kartikmehta8/creating-custom-hooks-in-react-5f9a)
+- [What is the process to Sign In with Apple with laravel?](https://dev.to/developeralamin/what-is-the-process-to-sign-in-with-apple-with-laravel-34nd)
+- [Supercharge your applications queries with caching](https://dev.to/sdbarlow/supercharge-your-applications-queries-with-caching-2b17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
