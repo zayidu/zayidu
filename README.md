@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Seamless Background Removal with ISNET, SAM, and YOLOSegment Integration](https://dev.to/ishworrsubedii/seamless-background-removal-with-isnet-sam-and-yolosegment-integration-4b3f)
-- [Integrating Templ](https://dev.to/caffeineordeath/integrating-templ-3j0m)
-- [Smart Contract Dev : Hands-On with Truffle, Ganache and Solidity](https://dev.to/yessin_at_dev/smart-contract-dev-hands-on-with-truffle-ganache-and-solidity-27jm)
-- [Free Forex API Python](https://dev.to/hard_value_42d13a1ea562bd/free-forex-api-python-24lh)
-- [ErfanOS](https://dev.to/mr-3/erfanos-2ec5)
+- [Deploy React Application to Google Kubernetes Engine](https://dev.to/chauhoangminhnguyen/deploy-react-application-to-google-kubernetes-engine-1h94)
+- [JavaScript Programming Tutorials: From URL Shortener to Deep Array Flattening](https://dev.to/labex/javascript-programming-tutorials-from-url-shortener-to-deep-array-flattening-4gng)
+- [AbortController with Fetch](https://dev.to/mdiffshashank/abortcontroller-with-fetch-jf0)
+- [Hono for Express Developers: A Modern Alternative for Edge Computing](https://dev.to/mathuraditya7/hono-for-express-developers-a-modern-alternative-for-edge-computing-4pd8)
+- [Breaking Out of Tutorial Hell: Why It&#39;s Time to Start Your Own Projects](https://dev.to/jimmymcbride/breaking-out-of-tutorial-hell-why-its-time-to-start-your-own-projects-3lhd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
