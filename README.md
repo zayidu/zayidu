@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert Excel to a Gantt chart: Quick Guide for Project Teams](https://dev.to/thomasy0ung/how-to-convert-excel-to-a-gantt-chart-quick-guide-for-project-teams-14bf)
-- [NODE Interview Questions...](https://dev.to/kamlesh_gupta_539c974fb0d/node-interview-questions-5fg4)
-- [Leetcode - 334. Increasing Triplet Subsequence](https://dev.to/rakeshreddy512/leetcode-334-increasing-triplet-subsequence-4jpp)
-- [Decoding ERC-7007: Shaping the Future of AI-Generated NFTs](https://dev.to/nft_research/decoding-erc-7007-shaping-the-future-of-ai-generated-nfts-7h6)
-- [Opaque token vs JWT](https://dev.to/logto/opaque-token-vs-jwt-54l7)
+- [Revolutionize Your Code: 7 Advanced C++ Techniques to Elevate Your Programming Skills and Stay Ahead of the Game](https://dev.to/parkerava/revolutionize-your-code-7-advanced-c-techniques-to-elevate-your-programming-skills-and-stay-ahead-of-the-game-4kdp)
+- [Debugging Low Cache Hit Ratio](https://dev.to/metis/debugging-low-cache-hit-ratio-1loj)
+- [Why React JS is Eating Other Frameworks for Breakfast And Why You Should Care](https://dev.to/sbtechshare/why-react-js-is-eating-other-frameworks-for-breakfast-and-why-you-should-care-2kgl)
+- [Restful-Ecommerce - A simple demo node E-Commerce application for practising API Testing](https://dev.to/mfaisalkhatri/restful-ecommerce-a-simple-demo-node-e-commerce-application-for-practising-api-testing-1jek)
+- [A Simple Guide to Component Props in React](https://dev.to/drlacheheb/a-simple-guide-to-component-props-in-react-1ho0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
