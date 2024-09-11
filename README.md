@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Product Design: Essential UX/UI Principles for Stunning Results](https://dev.to/mediaclockposts/mastering-product-design-essential-uxui-principles-for-stunning-results-31p9)
-- [Effective Web App Development: Key Tactics for High-Performance Solutions](https://dev.to/mediaclockposts/effective-web-app-development-key-tactics-for-high-performance-solutions-24ja)
-- [Creating Custom Hooks in React](https://dev.to/kartikmehta8/creating-custom-hooks-in-react-5f9a)
-- [What is the process to Sign In with Apple with laravel?](https://dev.to/developeralamin/what-is-the-process-to-sign-in-with-apple-with-laravel-34nd)
-- [Supercharge your applications queries with caching](https://dev.to/sdbarlow/supercharge-your-applications-queries-with-caching-2b17)
+- [Java and Kafka: Integration for Real-Time Data Processing](https://dev.to/ricardo_maia_eb9c7a906560/java-and-kafka-integration-for-real-time-data-processing-35fb)
+- [GitHub Repositories Every Software Engineer Should Know](https://dev.to/mosami0/github-repositories-every-software-engineer-should-know-42ni)
+- [Building Loop Studio Using React](https://dev.to/abhishekgurjar/building-loop-studio-using-react-3p2i)
+- [[Journal] Loongson 3A6000 supported Linux versions](https://dev.to/richardbrowning/journal-loongson-3a6000-linux-installation-2e4h)
+- [GitLab CI - A Comprehensive Dive into CI and CD : Day 41 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/gitlab-ci-a-comprehensive-dive-into-ci-and-cd-day-41-of-50-days-devops-tools-series-2abo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
