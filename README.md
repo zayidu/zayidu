@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java and Kafka: Integration for Real-Time Data Processing](https://dev.to/ricardo_maia_eb9c7a906560/java-and-kafka-integration-for-real-time-data-processing-35fb)
-- [GitHub Repositories Every Software Engineer Should Know](https://dev.to/mosami0/github-repositories-every-software-engineer-should-know-42ni)
-- [Building Loop Studio Using React](https://dev.to/abhishekgurjar/building-loop-studio-using-react-3p2i)
-- [[Journal] Loongson 3A6000 supported Linux versions](https://dev.to/richardbrowning/journal-loongson-3a6000-linux-installation-2e4h)
-- [GitLab CI - A Comprehensive Dive into CI and CD : Day 41 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/gitlab-ci-a-comprehensive-dive-into-ci-and-cd-day-41-of-50-days-devops-tools-series-2abo)
+- [Understanding Git&#39;s -m and -am Options: Simplifying Your Commit Workflow](https://dev.to/shyam0118/understanding-gits-m-and-am-options-simplifying-your-commit-workflow-2413)
+- [Reverse Proxy | Host your app with Nginx and Certbot](https://dev.to/01kg/reverse-proxy-host-your-app-with-nginx-and-certbot-gln)
+- [Safety and Performance: ENIG&#39;s Contribution to Advanced Driver Assistance Systems](https://dev.to/aaronsmithcs/safety-and-performance-enigs-contribution-to-advanced-driver-assistance-systems-83)
+- [Abusing Ubuntu 24.04 features for root privilege escalation](https://dev.to/snyk/abusing-ubuntu-2404-features-for-root-privilege-escalation-2anc)
+- [SQLynx, Intelligent SQL Editor](https://dev.to/concerate/sqlynx-intelligent-sql-editor-4k55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
