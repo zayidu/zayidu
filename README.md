@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Interview with Victor Aremu, Creator of Menote, Usezap and more!](https://dev.to/crabnebula/interview-with-victor-aremu-creator-of-menote-usezap-and-more-4mp6)
-- [How to Set Up a Cost-Effective AWS Environment: A Step-by-Step Guide for Startups and Small Businesses.](https://dev.to/spiff/how-to-set-up-a-cost-effective-aws-environment-a-step-by-step-guide-for-startups-and-small-businesses-5afb)
-- [Server Defined Rendering for React Native Using Rise](https://dev.to/fasthedeveloper/server-defined-rendering-for-react-native-using-rise-4mgc)
-- [🚀 Unlock Your Business Potential with Keyed Services Implementation in .NET Core! 🚀](https://dev.to/ahmedshahjr/unlock-your-business-potential-with-keyed-services-implementation-in-net-core-4p9f)
-- [Entity Framework Core Tutorial: Compiling Queries and Caching](https://dev.to/moh_moh701/entity-framework-core-tutorial-compiling-queries-and-caching-28h)
+- [[Typia] LLM Function Calling Application Composer in TypeScript](https://dev.to/samchon/typia-llm-function-calling-application-composer-in-typescript-3pc9)
+- [Two-Way Data Binding in React.js: A Comprehensive Guide](https://dev.to/ellis22/two-way-data-binding-in-reactjs-a-comprehensive-guide-120b)
+- [Strengthen Your Web Security with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/strengthen-your-web-security-with-safeline-waf-43an)
+- [Automated Testing in Node.js for Efficient API Development](https://dev.to/viitorcloud/automated-testing-in-nodejs-for-efficient-api-development-4pac)
+- [Understanding Flex Properties in CSS](https://dev.to/ramk777stack/understanding-flex-properties-in-css-39ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
