@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the React Cache function](https://dev.to/oyedeletemitope/understanding-the-react-cache-function-47jk)
-- [⚠️ The Hidden Dangers of Using `var` in JavaScript: Why It’s Time to Move On](https://dev.to/dharamgfx/the-hidden-dangers-of-using-var-in-javascript-why-its-time-to-move-on-2jgm)
-- [Top 10 API Collaboration Tools](https://dev.to/apilover/top-10-api-collaboration-tools-5clo)
-- [Extract Text From PDF in C# Using iTextSharp VS ComPDFKit](https://dev.to/derek-compdf/extract-text-from-pdf-in-c-using-itextsharp-vs-compdfkit-4ij1)
-- [The Future of Content Management: Top 10 Headless CMS Platforms for 2025!](https://dev.to/rajondey/the-future-of-content-management-top-10-headless-cms-platforms-for-2025-hng)
+- [🎉 Join a squad, contribute code, and win awesome swag from 10 amazing sponsors 🚀](https://dev.to/nevodavid/join-a-squad-contribute-code-and-win-awesome-swag-from-10-amazing-sponsors-5b12)
+- [Fancify your website user experience with edge computing](https://dev.to/glitch/fancify-your-website-user-experience-with-edge-computing-29hk)
+- [Boost API Security: Kong and SafeLine WAF Integration Guide](https://dev.to/lulu_liu_c90f973e2f954d7f/boost-api-security-kong-and-safeline-waf-integration-guide-40o9)
+- [Added the ability to replace environment variables when running the &quot;Copy-Paste&quot; command in the &quot;Rucken&quot; utility](https://dev.to/endykaufman/added-the-ability-to-replace-environment-variables-when-running-the-copy-paste-command-in-the-rucken-utility-2mcj)
+- [How Google Gemini 1.5 Pro is Revolutionizing Document Analysis](https://dev.to/hakeem/how-google-gemini-15-pro-is-revolutionizing-document-analysis-p72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
