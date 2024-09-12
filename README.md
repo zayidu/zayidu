@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [End-to-End &lpar;E2E&rpar; Testing](https://dev.to/ann55/end-to-end-e2e-testing-4p9n)
-- [Full-Stack Developers: Navigating the No-Code Revolution with a Comprehensive Skillset](https://dev.to/vuelancer/how-successful-full-stack-developers-can-stay-ahead-in-the-ai-and-no-code-era-2848)
-- [How to Start Freelancing, Remote, or Open-Source Work as a Developer](https://dev.to/vuelancer/how-to-start-freelancing-remote-or-open-source-work-as-a-developer-1h4b)
-- [The Future of Work: Embracing AI and Automation](https://dev.to/vuelancer/the-future-of-work-embracing-ai-and-automation-4h91)
-- [The Rise of Low-Code/No-Code Development: Democratizing Software Creation](https://dev.to/vuelancer/the-rise-of-low-codeno-code-development-democratizing-software-creation-ja)
+- [A short history of AJAX and SSR](https://dev.to/nfrankel/a-short-history-of-ajax-and-ssr-5602)
+- [How to Secure Your Web Apps: A Free and Powerful WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-secure-your-web-apps-a-free-and-powerful-waf-l3n)
+- [Building REST APIs in Java: Are you a beginner to Java?](https://dev.to/respect17/building-rest-apis-in-java-a-beginners-guidehey-devto-community-121)
+- [Handling Multiple Exceptions in Python: The Clean and Simple Way! 🛠️](https://dev.to/stokry/handling-multiple-exceptions-in-python-the-clean-and-simple-way-156c)
+- [Devlog - 1: Je créé un moteur de jeu !](https://dev.to/roys122/devlog-1-je-cree-un-moteur-de-jeu--3678)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
