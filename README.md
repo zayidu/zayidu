@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Js spreadsheet component](https://dev.to/gabriel_brandaoj/jspreadsheet-1gah)
-- [Websiteprojekt](https://dev.to/el_romeo_ebb56287ee6fe558/websiteprojekt-44am)
-- [Intro to Ray on GKE](https://dev.to/googlecloud/intro-to-ray-on-gke-38ee)
-- [Day 28 - Secure Your Kubernetes Deployments: A Beginner&#39;s Guide to Anchore](https://dev.to/arbythecoder/day-28-secure-your-kubernetes-deployments-a-beginners-guide-to-anchore-106j)
-- [Enhancing LLM Development: Implementing the Oproof Python Package in Tau&#39;s Kernel](https://dev.to/p3ngu1nzz/enhancing-llm-development-implementing-the-oproof-python-package-in-taus-kernel-41p5)
+- [CSS Animations – Bringing Elements to Life](https://dev.to/ridoy_hasan/css-animations-bringing-elements-to-life-4ogo)
+- [FrankenPHP: The Modern PHP App Server, written in Go](https://dev.to/aboozar/frankenphp-the-modern-php-app-serverwritten-in-go-1oj7)
+- [Jupyter vs. VS Code vs. PyCharm: Which One Should You Choose?](https://dev.to/dazevedo/jupyter-vs-vs-code-vs-pycharm-which-one-should-you-choose-37jg)
+- [What multiplayer architecture and solution is suitable for my game](https://dev.to/nik007/what-multiplayer-architecture-and-solution-is-suitable-for-my-game-16mj)
+- [Make Your Github Profile Stand Out With CSS](https://dev.to/theopinionateddev/make-your-github-profile-stand-out-with-css-191m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
