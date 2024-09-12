@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#2 - Expo apk keeps on crashing after build](https://dev.to/amanbhoria/2-expo-apk-keeps-on-crashing-after-build-5fja)
-- [🔥 CSS Jokes That Will Make You LOL 🔥](https://dev.to/areeb_anwar_813df06ee1124/css-jokes-that-will-make-you-lol-41lg)
-- [Challenges I encountered Configuring Vite for React Routing and Static File Integration](https://dev.to/tobidelly/configuring-vite-for-react-routing-and-static-file-integration-day-17-of-100daysofmiva-4pp0)
-- [Frontend dasturchi kim?](https://dev.to/muhammadaziz/frontend-dasturchi-kim-1o49)
-- [Leetcode Solutions #3](https://dev.to/abhinav_yadav_554cab962bb/leetcode-solutions-3-3d6i)
+- [Js spreadsheet component](https://dev.to/gabriel_brandaoj/jspreadsheet-1gah)
+- [Websiteprojekt](https://dev.to/el_romeo_ebb56287ee6fe558/websiteprojekt-44am)
+- [Intro to Ray on GKE](https://dev.to/googlecloud/intro-to-ray-on-gke-38ee)
+- [Day 28 - Secure Your Kubernetes Deployments: A Beginner&#39;s Guide to Anchore](https://dev.to/arbythecoder/day-28-secure-your-kubernetes-deployments-a-beginners-guide-to-anchore-106j)
+- [Enhancing LLM Development: Implementing the Oproof Python Package in Tau&#39;s Kernel](https://dev.to/p3ngu1nzz/enhancing-llm-development-implementing-the-oproof-python-package-in-taus-kernel-41p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
