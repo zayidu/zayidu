@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integration vs End-to-End &lpar;E2E&rpar; Testing: Understanding Their Differences and When to Use Them](https://dev.to/keploy/integration-vs-end-to-end-e2e-testing-understanding-their-differences-and-when-to-use-them-2caf)
-- [17 Best Free React Admin Template 2024 to Speed up Your Web App Development 🚀](https://dev.to/syakirurahman/17-best-free-react-admin-template-2024-to-speed-up-your-web-app-development-3ec)
-- [Automating Docker Deployments to Azure with GitHub Actions: A Step-by-Step Guide](https://dev.to/tino_muc/automating-docker-deployments-to-azure-with-github-actions-a-step-by-step-guide-12i4)
-- [Challenges and Lessons Learned in Web Development 💻](https://dev.to/erasmuskotoka/challenges-and-lessons-learned-in-web-development-e5m)
-- [Building a Saas in five days](https://dev.to/mbv-labs/building-a-saas-in-five-days-4ofn)
+- [Understanding Azure VM States: Stopped &lpar;Deallocated&rpar; vs. Stopped &lpar;Incurring Charges&rpar;](https://dev.to/rajeshkumaryadavdotcom/understanding-azure-vm-states-stopped-deallocated-vs-stopped-incurring-charges-1in8)
+- [1000 JavaScript Interview Questions &amp; Answers](https://dev.to/lokicraft_tricks_49ff592f/1000-javascript-interview-questions-answers-bm1)
+- [Monitoring with cAdvisor, Prometheus and Grafana on Docker](https://dev.to/chauhoangminhnguyen/monitoring-with-cadvisor-prometheus-and-grafana-on-docker-1feo)
+- [Formik adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/formik-adoption-guide-overview-examples-and-alternatives-2mic)
+- [Matplotlib Visualizations: A Comprehensive Guide to Captivating Charts and Plots](https://dev.to/labex/matplotlib-visualizations-a-comprehensive-guide-to-captivating-charts-and-plots-5f1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
