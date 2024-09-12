@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prevent Unnecessary React Component Re-Rendering](https://dev.to/saman_sardari_22e7e9081be/how-to-prevent-unnecessary-react-component-re-rendering-59ib)
-- [Ensuring Data Consistency in Event-Driven Architectures](https://dev.to/isaactony/ensuring-data-consistency-in-event-driven-5hhk)
-- [Why Datawarehousing](https://dev.to/karthik_goutam/why-datawarehosuing-5g4e)
-- [First collaboration with the open source community](https://dev.to/cleobnvntra/first-collaboration-with-the-open-source-community-4ffp)
-- [Microservices: Service Discovery in Distributed Systems](https://dev.to/isaactony/microservices-service-discovery-in-distributed-systems-54ig)
+- [Offloading AI inference to your users&#39; devices](https://dev.to/miguelaeh/offloading-ai-inference-to-your-users-devices-30nb)
+- [Prioritizing Mental Health in Tech Culture](https://dev.to/nens/prioritizing-mental-health-in-tech-culture-1ee5)
+- [Understanding Large Language Models and Their Importance](https://dev.to/travislramos/understanding-large-language-models-and-their-importance-l3l)
+- [Day 30: The Final Day of My DevOps Learning Journey](https://dev.to/singh_in_cloud/day-30-the-final-day-of-my-devops-learning-journey-1dng)
+- [🔥 HTML5 Semantic Elements: Unleash the Power of Meaningful Markup 🔥](https://dev.to/areeb_anwar_813df06ee1124/html5-semantic-elements-unleash-the-power-of-meaningful-markup-40dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
