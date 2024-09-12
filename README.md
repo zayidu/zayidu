@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Animations – Bringing Elements to Life](https://dev.to/ridoy_hasan/css-animations-bringing-elements-to-life-4ogo)
-- [FrankenPHP: The Modern PHP App Server, written in Go](https://dev.to/aboozar/frankenphp-the-modern-php-app-serverwritten-in-go-1oj7)
-- [Jupyter vs. VS Code vs. PyCharm: Which One Should You Choose?](https://dev.to/dazevedo/jupyter-vs-vs-code-vs-pycharm-which-one-should-you-choose-37jg)
-- [What multiplayer architecture and solution is suitable for my game](https://dev.to/nik007/what-multiplayer-architecture-and-solution-is-suitable-for-my-game-16mj)
-- [Make Your Github Profile Stand Out With CSS](https://dev.to/theopinionateddev/make-your-github-profile-stand-out-with-css-191m)
+- [Implementing React tsparticles in website](https://dev.to/rahulchaudhary/implementing-react-tsparticles-in-website-5202)
+- [How to build a Datawarehouse](https://dev.to/karthik_goutam/how-to-build-a-datawarehouse-53op)
+- [Recapping the AI, Machine Learning and Computer Meetup — September 12, 2024](https://dev.to/voxel51/recapping-the-ai-machine-learning-and-computer-meetup-september-12-2024-30j3)
+- [Supercharge Your AI Models: Prompt Engineering, Chaining, and Function Calling](https://dev.to/zhowu/supercharge-your-ai-models-prompt-engineering-chaining-and-function-calling-40om)
+- [He is a participant in the Microsoft Tech Center, the International Developer Center, Google Experts, and Cisco Partners.](https://dev.to/talaq_alotaibi/he-is-a-participant-in-the-microsoft-tech-center-the-international-developer-center-google-experts-and-cisco-partners-fi0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
