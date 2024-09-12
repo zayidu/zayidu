@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Local Storage in JavaScript](https://dev.to/vyan/understanding-local-storage-in-javascript-25e5)
-- [5 Ways ERP Systems are Transforming Schools and Universities](https://dev.to/erpdevelopment/5-ways-erp-systems-are-transforming-schools-and-universities-46jg)
-- [How to Enable the `Allow GitHub Actions to create and approve pull requests` Option When It&#39;s Grayed Out](https://dev.to/suzuki0430/how-to-enable-the-allow-github-actions-to-create-and-approve-pull-requests-option-when-its-grayed-out-3e1i)
-- [Getting Started with Docker: A Guide for Developers](https://dev.to/ankittmeena/getting-started-with-docker-a-guide-for-developers-4d1o)
-- [Provide storage for the IT department testing and training](https://dev.to/rdgmh/provide-storage-for-the-it-department-testing-and-training-3cd3)
+- [The Advantages and Disadvantages of EXT4 vs. EXT3 in Linux Systems](https://dev.to/adityabhuyan/the-advantages-and-disadvantages-of-ext4-vs-ext3-in-linux-systems-4pcp)
+- [Using Windows API Functions to Check for Subdirectory Presence in C++](https://dev.to/adityabhuyan/using-windows-api-functions-to-check-for-subdirectory-presence-in-c-1329)
+- [Is freeCodeCamp Sacrificing Quality for Speed with Their Rapid Deployments?](https://dev.to/middleware/is-freecodecamp-sacrificing-quality-for-speed-with-their-rapid-deployments-276a)
+- [Smoke Testing vs Sanity Testing: What Are the Differences?](https://dev.to/nazneenahmad/smoke-testing-vs-sanity-testing-what-are-the-differences-11oh)
+- [treectrl](https://dev.to/__040711563a17902392e7/treectrl-214e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
