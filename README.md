@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Postgres] Isolation levels](https://dev.to/jacktt/postgres-isolation-levels-72h)
-- [🧑‍💻 Express.js Middleware and Asynchronous Operations](https://dev.to/yaser_sh/expressjs-middleware-and-asynchronous-operations-21o8)
-- [🚀 Best Practices to Boost Your Node.js App Performance 🚀](https://dev.to/yaser_sh/best-practices-to-boost-your-nodejs-app-performance-59m6)
-- [💡 Design Patterns are Cool, But Language Features are Forever 💡](https://dev.to/yaser_sh/design-patterns-are-cool-but-language-features-are-forever-5fd1)
-- [Code Smell 269 - Low-Level Addition](https://dev.to/mcsee/code-smell-269-low-level-addition-ndl)
+- [LabEx Trending: Responsive Flexible Card Layout and More 🌟](https://dev.to/labex/labex-trending-responsive-flexible-card-layout-and-more-4jj8)
+- [When Alerts Don’t Mean Downtime - Preventing SRE Fatigue](https://dev.to/incidenthub/when-alerts-dont-mean-downtime-preventing-sre-fatigue-4ne7)
+- [Are WordPress Meetups Suitable for Beginners?](https://dev.to/wasim_tariq_3f701ff2a0ff1/are-wordpress-meetups-suitable-for-beginners-5abn)
+- [What is Web worker and how to use it in NextJS](https://dev.to/theteabagcoder/what-is-web-worker-and-how-to-use-it-in-nextjs-4ndm)
+- [Issue 0.1](https://dev.to/fadingna/issue-01-3g2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
