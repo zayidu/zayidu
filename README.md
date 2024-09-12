@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Advantages and Disadvantages of EXT4 vs. EXT3 in Linux Systems](https://dev.to/adityabhuyan/the-advantages-and-disadvantages-of-ext4-vs-ext3-in-linux-systems-4pcp)
-- [Using Windows API Functions to Check for Subdirectory Presence in C++](https://dev.to/adityabhuyan/using-windows-api-functions-to-check-for-subdirectory-presence-in-c-1329)
-- [Is freeCodeCamp Sacrificing Quality for Speed with Their Rapid Deployments?](https://dev.to/middleware/is-freecodecamp-sacrificing-quality-for-speed-with-their-rapid-deployments-276a)
-- [Smoke Testing vs Sanity Testing: What Are the Differences?](https://dev.to/nazneenahmad/smoke-testing-vs-sanity-testing-what-are-the-differences-11oh)
-- [treectrl](https://dev.to/__040711563a17902392e7/treectrl-214e)
+- [What is AGI? Understanding Artificial General Intelligence and Its Future Possibilities](https://dev.to/abhinowww/what-is-agi-understanding-artificial-general-intelligence-and-its-future-possibilities-2fbc)
+- [How to Create a Next.js Template Using Low Code [Tutorial]](https://dev.to/rarestoma/how-to-create-a-nextjs-template-using-low-code-tutorial-2b89)
+- [Astro.js Getting started with a static site generator](https://dev.to/codeparrot/astrojs-getting-started-with-a-static-site-generator-1499)
+- [Stars in Your Browser: A Web-tastic Journey Through Space](https://dev.to/ram_nathawat/stars-in-your-browser-a-web-tastic-journey-through-space-141m)
+- [CraftCMS Launchpad - interactive CraftCMS demos in your browser](https://dev.to/mandrasch/craftcms-launchpad-interactive-craftcms-demos-in-your-browser-4c1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
