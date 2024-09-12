@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is AGI? Understanding Artificial General Intelligence and Its Future Possibilities](https://dev.to/abhinowww/what-is-agi-understanding-artificial-general-intelligence-and-its-future-possibilities-2fbc)
-- [How to Create a Next.js Template Using Low Code [Tutorial]](https://dev.to/rarestoma/how-to-create-a-nextjs-template-using-low-code-tutorial-2b89)
-- [Astro.js Getting started with a static site generator](https://dev.to/codeparrot/astrojs-getting-started-with-a-static-site-generator-1499)
-- [Stars in Your Browser: A Web-tastic Journey Through Space](https://dev.to/ram_nathawat/stars-in-your-browser-a-web-tastic-journey-through-space-141m)
-- [CraftCMS Launchpad - interactive CraftCMS demos in your browser](https://dev.to/mandrasch/craftcms-launchpad-interactive-craftcms-demos-in-your-browser-4c1f)
+- [End-to-End &lpar;E2E&rpar; Testing](https://dev.to/ann55/end-to-end-e2e-testing-4p9n)
+- [Full-Stack Developers: Navigating the No-Code Revolution with a Comprehensive Skillset](https://dev.to/vuelancer/how-successful-full-stack-developers-can-stay-ahead-in-the-ai-and-no-code-era-2848)
+- [How to Start Freelancing, Remote, or Open-Source Work as a Developer](https://dev.to/vuelancer/how-to-start-freelancing-remote-or-open-source-work-as-a-developer-1h4b)
+- [The Future of Work: Embracing AI and Automation](https://dev.to/vuelancer/the-future-of-work-embracing-ai-and-automation-4h91)
+- [The Rise of Low-Code/No-Code Development: Democratizing Software Creation](https://dev.to/vuelancer/the-rise-of-low-codeno-code-development-democratizing-software-creation-ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
