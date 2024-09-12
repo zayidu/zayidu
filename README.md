@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [50 Must-Know VS Code Extensions for Faster Development 🚀](https://dev.to/lokesh_singh/50-must-know-vs-code-extensions-for-faster-development-5e7a)
-- [A Complete Guide to Filtering in Vector Search](https://dev.to/qdrant/a-complete-guide-to-filtering-in-vector-search-33lk)
-- [Understanding Streams in Node.js — Efficient Data Handling](https://dev.to/imsushant12/understanding-streams-in-nodejs-efficient-data-handling-5e6l)
-- [Item 54 - Retorne coleções ou arrays vazios, em vez de nulos](https://dev.to/giselecoder/item-54-retorne-colecoes-ou-arrays-vazios-em-vez-de-nulos-1ej6)
-- [Freeware: Java Utility Package &lpar;Version 2024.09.12&rpar; released](https://dev.to/andybrunner/freeware-java-utility-package-version-20240912-released-555g)
+- [In the land of LLMs, can we do better mock data generation?](https://dev.to/neurelo/in-the-land-of-llms-can-we-do-better-mock-data-generation-489)
+- [Inside the Box: August Community Update](https://dev.to/codesandboxio/inside-the-box-august-community-update-5flm)
+- [Achieving IT/OT Convergence with Azure Cloud](https://dev.to/sdtslmn/achieving-itot-convergence-with-azure-cloud-b3j)
+- [Is PHP Dead? No, It&#39;s Thriving](https://dev.to/angelaswift/is-php-dead-no-its-thriving-3l0f)
+- [13 top open-source tools to ship your apps faster ⚡🚀](https://dev.to/composiodev/13-top-open-source-tools-to-ship-your-apps-faster-4ihl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
