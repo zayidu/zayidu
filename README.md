@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Offloading AI inference to your users&#39; devices](https://dev.to/miguelaeh/offloading-ai-inference-to-your-users-devices-30nb)
-- [Prioritizing Mental Health in Tech Culture](https://dev.to/nens/prioritizing-mental-health-in-tech-culture-1ee5)
-- [Understanding Large Language Models and Their Importance](https://dev.to/travislramos/understanding-large-language-models-and-their-importance-l3l)
-- [Day 30: The Final Day of My DevOps Learning Journey](https://dev.to/singh_in_cloud/day-30-the-final-day-of-my-devops-learning-journey-1dng)
-- [🔥 HTML5 Semantic Elements: Unleash the Power of Meaningful Markup 🔥](https://dev.to/areeb_anwar_813df06ee1124/html5-semantic-elements-unleash-the-power-of-meaningful-markup-40dd)
+- [#2 - Expo apk keeps on crashing after build](https://dev.to/amanbhoria/2-expo-apk-keeps-on-crashing-after-build-5fja)
+- [🔥 CSS Jokes That Will Make You LOL 🔥](https://dev.to/areeb_anwar_813df06ee1124/css-jokes-that-will-make-you-lol-41lg)
+- [Challenges I encountered Configuring Vite for React Routing and Static File Integration](https://dev.to/tobidelly/configuring-vite-for-react-routing-and-static-file-integration-day-17-of-100daysofmiva-4pp0)
+- [Frontend dasturchi kim?](https://dev.to/muhammadaziz/frontend-dasturchi-kim-1o49)
+- [Leetcode Solutions #3](https://dev.to/abhinav_yadav_554cab962bb/leetcode-solutions-3-3d6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
