@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [In the land of LLMs, can we do better mock data generation?](https://dev.to/neurelo/in-the-land-of-llms-can-we-do-better-mock-data-generation-489)
-- [Inside the Box: August Community Update](https://dev.to/codesandboxio/inside-the-box-august-community-update-5flm)
-- [Achieving IT/OT Convergence with Azure Cloud](https://dev.to/sdtslmn/achieving-itot-convergence-with-azure-cloud-b3j)
-- [Is PHP Dead? No, It&#39;s Thriving](https://dev.to/angelaswift/is-php-dead-no-its-thriving-3l0f)
-- [13 top open-source tools to ship your apps faster ⚡🚀](https://dev.to/composiodev/13-top-open-source-tools-to-ship-your-apps-faster-4ihl)
+- [How to Prevent Unnecessary React Component Re-Rendering](https://dev.to/saman_sardari_22e7e9081be/how-to-prevent-unnecessary-react-component-re-rendering-59ib)
+- [Ensuring Data Consistency in Event-Driven Architectures](https://dev.to/isaactony/ensuring-data-consistency-in-event-driven-5hhk)
+- [Why Datawarehousing](https://dev.to/karthik_goutam/why-datawarehosuing-5g4e)
+- [First collaboration with the open source community](https://dev.to/cleobnvntra/first-collaboration-with-the-open-source-community-4ffp)
+- [Microservices: Service Discovery in Distributed Systems](https://dev.to/isaactony/microservices-service-discovery-in-distributed-systems-54ig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
