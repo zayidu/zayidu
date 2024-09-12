@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LabEx Trending: Responsive Flexible Card Layout and More 🌟](https://dev.to/labex/labex-trending-responsive-flexible-card-layout-and-more-4jj8)
-- [When Alerts Don’t Mean Downtime - Preventing SRE Fatigue](https://dev.to/incidenthub/when-alerts-dont-mean-downtime-preventing-sre-fatigue-4ne7)
-- [Are WordPress Meetups Suitable for Beginners?](https://dev.to/wasim_tariq_3f701ff2a0ff1/are-wordpress-meetups-suitable-for-beginners-5abn)
-- [What is Web worker and how to use it in NextJS](https://dev.to/theteabagcoder/what-is-web-worker-and-how-to-use-it-in-nextjs-4ndm)
-- [Issue 0.1](https://dev.to/fadingna/issue-01-3g2)
+- [Exploring AI-Powered Web Development: OpenAI, Node.js and Dynamic UI Creation](https://dev.to/spradeep/exploring-ai-powered-web-development-openai-nodejs-and-dynamic-ui-creation-be2)
+- [Lerna – The key of Monorepo Management](https://dev.to/khushindpatel/lerna-the-key-of-monorepo-management-4e7n)
+- [Finding Startup Ideas By Reading Negative Customer Reviews](https://dev.to/fi_investor/finding-startup-ideas-by-reading-negative-customer-reviews-eeo)
+- [Como Instalar o Maizzle no Laravel](https://dev.to/gabrielmoura/como-instalar-o-maizzle-no-laravel-37dn)
+- [Hello World!!!](https://dev.to/ronihdz/hello-world-166)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
