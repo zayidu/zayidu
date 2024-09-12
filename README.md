@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing React tsparticles in website](https://dev.to/rahulchaudhary/implementing-react-tsparticles-in-website-5202)
-- [How to build a Datawarehouse](https://dev.to/karthik_goutam/how-to-build-a-datawarehouse-53op)
-- [Recapping the AI, Machine Learning and Computer Meetup — September 12, 2024](https://dev.to/voxel51/recapping-the-ai-machine-learning-and-computer-meetup-september-12-2024-30j3)
-- [Supercharge Your AI Models: Prompt Engineering, Chaining, and Function Calling](https://dev.to/zhowu/supercharge-your-ai-models-prompt-engineering-chaining-and-function-calling-40om)
-- [He is a participant in the Microsoft Tech Center, the International Developer Center, Google Experts, and Cisco Partners.](https://dev.to/talaq_alotaibi/he-is-a-participant-in-the-microsoft-tech-center-the-international-developer-center-google-experts-and-cisco-partners-fi0)
+- [Essential Guide to Refactoring Code for a Cleaner and Polished Design](https://dev.to/geraldhamiltonwicks/essential-guide-to-refactoring-code-for-a-cleaner-and-polished-design-5330)
+- [Authorization In Laravel - A Beginner&#39;s Guide](https://dev.to/mohammed_kareem/authorization-in-laravel-a-beginners-guide-32kf)
+- [Best Web Design Tools for Designers &amp; Agencies](https://dev.to/christopherchhim/best-web-design-tools-for-designers-agencies-30ga)
+- [Representação numérica na computação](https://dev.to/xornotor/representacao-numerica-na-computacao-31ml)
+- [Computer Vision Meetup: Reducing Hallucinations in ChatGPT and Similar AI Systems](https://dev.to/voxel51/computer-vision-meetup-reducing-hallucinations-in-chatgpt-and-similar-ai-systems-49g2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
