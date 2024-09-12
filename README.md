@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integration tests on Symfony with Testcontainers](https://dev.to/joubertredrat/integration-tests-on-symfony-with-testcontainers-4o7d)
-- [Introduction to Kubernetes &lpar;notes 1&rpar;.](https://dev.to/theenmanuel23/introduction-to-kubernetes-notes-1-513h)
-- [Introduction to Kubernetes &lpar;notes 2&rpar;](https://dev.to/theenmanuel23/introduction-to-kubernetes-notes-2-o4m)
-- [Introduction to the Udon Zettelkasten System - Hackathon Presentation on VRChat](https://dev.to/nawashiro/introduction-to-the-udon-zettelkasten-system-hackathon-presentation-on-vrchat-166d)
-- [Introduction to Cloud Functions for Firebase](https://dev.to/kartikmehta8/introduction-to-cloud-functions-for-firebase-1h7)
+- [[Postgres] Isolation levels](https://dev.to/jacktt/postgres-isolation-levels-72h)
+- [🧑‍💻 Express.js Middleware and Asynchronous Operations](https://dev.to/yaser_sh/expressjs-middleware-and-asynchronous-operations-21o8)
+- [🚀 Best Practices to Boost Your Node.js App Performance 🚀](https://dev.to/yaser_sh/best-practices-to-boost-your-nodejs-app-performance-59m6)
+- [💡 Design Patterns are Cool, But Language Features are Forever 💡](https://dev.to/yaser_sh/design-patterns-are-cool-but-language-features-are-forever-5fd1)
+- [Code Smell 269 - Low-Level Addition](https://dev.to/mcsee/code-smell-269-low-level-addition-ndl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
