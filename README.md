@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A short history of AJAX and SSR](https://dev.to/nfrankel/a-short-history-of-ajax-and-ssr-5602)
-- [How to Secure Your Web Apps: A Free and Powerful WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-secure-your-web-apps-a-free-and-powerful-waf-l3n)
-- [Building REST APIs in Java: Are you a beginner to Java?](https://dev.to/respect17/building-rest-apis-in-java-a-beginners-guidehey-devto-community-121)
-- [Handling Multiple Exceptions in Python: The Clean and Simple Way! 🛠️](https://dev.to/stokry/handling-multiple-exceptions-in-python-the-clean-and-simple-way-156c)
-- [Devlog - 1: Je créé un moteur de jeu !](https://dev.to/roys122/devlog-1-je-cree-un-moteur-de-jeu--3678)
+- [Understanding the React Cache function](https://dev.to/oyedeletemitope/understanding-the-react-cache-function-47jk)
+- [⚠️ The Hidden Dangers of Using `var` in JavaScript: Why It’s Time to Move On](https://dev.to/dharamgfx/the-hidden-dangers-of-using-var-in-javascript-why-its-time-to-move-on-2jgm)
+- [Top 10 API Collaboration Tools](https://dev.to/apilover/top-10-api-collaboration-tools-5clo)
+- [Extract Text From PDF in C# Using iTextSharp VS ComPDFKit](https://dev.to/derek-compdf/extract-text-from-pdf-in-c-using-itextsharp-vs-compdfkit-4ij1)
+- [The Future of Content Management: Top 10 Headless CMS Platforms for 2025!](https://dev.to/rajondey/the-future-of-content-management-top-10-headless-cms-platforms-for-2025-hng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
