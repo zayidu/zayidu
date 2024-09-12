@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎉 Join a squad, contribute code, and win awesome swag from 10 amazing sponsors 🚀](https://dev.to/nevodavid/join-a-squad-contribute-code-and-win-awesome-swag-from-10-amazing-sponsors-5b12)
-- [Fancify your website user experience with edge computing](https://dev.to/glitch/fancify-your-website-user-experience-with-edge-computing-29hk)
-- [Boost API Security: Kong and SafeLine WAF Integration Guide](https://dev.to/lulu_liu_c90f973e2f954d7f/boost-api-security-kong-and-safeline-waf-integration-guide-40o9)
-- [Added the ability to replace environment variables when running the &quot;Copy-Paste&quot; command in the &quot;Rucken&quot; utility](https://dev.to/endykaufman/added-the-ability-to-replace-environment-variables-when-running-the-copy-paste-command-in-the-rucken-utility-2mcj)
-- [How Google Gemini 1.5 Pro is Revolutionizing Document Analysis](https://dev.to/hakeem/how-google-gemini-15-pro-is-revolutionizing-document-analysis-p72)
+- [How to modify response status in charles proxy](https://dev.to/requestly/how-to-modify-response-status-in-charles-proxy-4plf)
+- [Mobile-first website design is crucial in 2024, Why?](https://dev.to/seo_esignature_8b18cc8801/mobile-first-website-design-is-crucial-in-2024-why-l2f)
+- [Cucumber.js: A Complete Guide to Behavior-Driven Testing](https://dev.to/keploy/cucumberjs-a-complete-guide-to-behavior-driven-testing-12h1)
+- [1.2 - MongoDB Document model](https://dev.to/gasparin/12-mongodb-document-model-2n3i)
+- [Understanding OOP in Java: Like Learning to Drive a Car](https://dev.to/akshay_gengaje/understanding-oop-in-java-like-learning-to-drive-a-car-29bo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
