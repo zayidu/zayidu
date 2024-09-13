@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a customized SSH key on Pop!_OS 22.04: step-by-step with screenshots](https://dev.to/alexandrecalaca/creating-a-customized-ssh-key-on-popos-2204-step-by-step-with-screenshots-1e6e)
-- [Differences Between DROP, DELETE and TRUNCATE in SQL](https://dev.to/chat2db/differences-between-drop-delete-and-truncate-in-sql-5983)
-- [# 🔍 Exploring Advanced `console.log&lpar;&rpar;` Techniques for Better Debugging](https://dev.to/gadekar_sachin/-exploring-advanced-consolelog-techniques-for-better-debugging-5ekm)
-- [Why should everyone learn SQL?](https://dev.to/urlewicz_aicha_d14af69bc8/why-should-everyone-learn-sql-4i87)
-- [New Wave of Database Technology: Interpretation of the 2024 Global Database Development Research Report](https://dev.to/urlewicz_aicha_d14af69bc8/new-wave-of-database-technology-interpretation-of-the-2024-global-database-development-research-report-9j5)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1281)
+- [openEuler release 22.03挂载本地iso光盘镜像，配置yum软件仓库](https://dev.to/dbao/openeuler-release-2203gua-zai-ben-di-isoguang-pan-jing-xiang-pei-zhi-yumruan-jian-cang-ku-5cch)
+- [Building a Movie Finder Website using React](https://dev.to/abhishekgurjar/building-a-movie-finder-website-using-react-ce9)
+- [Recommended Codespace Configuration for Polyglot Notebooks](https://dev.to/integerman/recommended-codespace-configuration-for-polyglot-notebooks-116h)
+- [Embracing Cgroup V2:Best Practices for Migrating Kubernetes Clusters to AlmaLinux](https://dev.to/zouyee/embracing-cgroup-v2best-practices-for-migrating-kubernetes-clusters-to-almalinux-37np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
