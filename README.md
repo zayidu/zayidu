@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Financial Terminal](https://dev.to/fintechwarrior/modern-financial-terminal-15k4)
-- [Database Schema Management in Laravel Using Migrations: An In-Depth Tutorial](https://dev.to/mdarifulhaque/database-schema-management-in-laravel-using-migrations-an-in-depth-tutorial-5ac3)
-- [Double row scroll](https://dev.to/gn_3c4a768a6ce8e4fec6735f/double-row-scroll-29b0)
-- [The anatomy of HTML page](https://dev.to/melchizedek404/the-anatomy-of-html-page-5000)
-- [Mastering React.js: How to Build Fast, Scalable, and Performant Web Apps](https://dev.to/sabyasachim/mastering-reactjs-how-to-build-fast-scalable-and-performant-web-apps-154b)
+- [EFCore Tutorial P4:Cleaning Up `OnModelCreating`](https://dev.to/moh_moh701/efcore-tutorial-p5cleaning-up-ef-cores-onmodelcreating-45fg)
+- [9/13/2024 Progress](https://dev.to/jean_clenor/9132024-progress-lkj)
+- [Quão difícil é subir uma aplicação simples e monetizá-la em 2024?](https://dev.to/arthurdiesel/quao-dificil-e-subir-uma-aplicacao-simples-e-monetiza-la-em-2024-1g74)
+- [Building Reusable Infrastructure with Terraform Modules](https://dev.to/pat6339/building-reusable-infrastructure-with-terraform-modules-625)
+- [🚀 Introducing FetchPHP: A Simple, Powerful HTTP Library for PHP, Inspired by JavaScript’s fetch API](https://dev.to/thavarshan/introducing-fetchphp-a-simple-powerful-http-library-for-php-inspired-by-javascripts-fetch-api-l72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
