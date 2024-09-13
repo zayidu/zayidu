@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Insert Excel Tables and Charts into Email Body](https://dev.to/sqlman/insert-excel-tables-and-charts-into-email-body-3b6n)
-- [Unveiling the Future: A Deep Dive into OpenAI&#39;s Groundbreaking o1 Reasoning Model](https://dev.to/bernardkibathi/unveiling-the-future-a-deep-dive-into-openais-groundbreaking-o1-reasoning-model-cg)
-- [Spread and Rest Operators in JavaScript](https://dev.to/amdzakir/spread-and-rest-operators-in-javascript-57j9)
-- [40 Days Of Kubernetes &lpar;7/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-740-ml2)
-- [Serverless CI/CD: How to Build a Pipeline Without Servers](https://dev.to/prodevopsguytech/serverless-cicd-how-to-build-a-pipeline-without-servers-fn2)
+- [How to Install and Run Auraflow Image Generator Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-auraflow-image-generator-locally-1652)
+- [How to Set Up SSL Protocols and Cipher Suites with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-set-up-ssl-protocols-and-cipher-suites-with-safeline-waf-314i)
+- [New PHP Package: Discord Table Builder](https://dev.to/smitmartijn/new-php-package-discord-table-builder-2chk)
+- [Context is all you need.](https://dev.to/szymonst/context-is-all-you-need-1k8a)
+- [The Best API Management Tools You Should Try](https://dev.to/cyanspray/the-best-api-management-tools-you-should-try-2iec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
