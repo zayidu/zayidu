@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Qiu!](https://dev.to/m__mdy__m/introducing-qiu-1771)
-- [Client-Centered Error Handling](https://dev.to/jaeyeophan/client-centered-user-exception-handling-23a1)
-- [HTML in 180 Seconds: Episode 1 - Welcome](https://dev.to/okande-dev/html-in-180-seconds-episode-1-welcome-1p42)
-- [Exploring Cilium Network Integration with AWS EKS](https://dev.to/alpharm/exploring-cilium-network-integration-with-aws-eks-4apn)
-- [[pt-BR] Não negligencie logs na sua solução](https://dev.to/scarlet/pt-br-nao-negligencie-logs-na-sua-solucao-12e2)
+- [Creating a customized SSH key on Pop!_OS 22.04: step-by-step with screenshots](https://dev.to/alexandrecalaca/creating-a-customized-ssh-key-on-popos-2204-step-by-step-with-screenshots-1e6e)
+- [Differences Between DROP, DELETE and TRUNCATE in SQL](https://dev.to/chat2db/differences-between-drop-delete-and-truncate-in-sql-5983)
+- [# 🔍 Exploring Advanced `console.log&lpar;&rpar;` Techniques for Better Debugging](https://dev.to/gadekar_sachin/-exploring-advanced-consolelog-techniques-for-better-debugging-5ekm)
+- [Why should everyone learn SQL?](https://dev.to/urlewicz_aicha_d14af69bc8/why-should-everyone-learn-sql-4i87)
+- [New Wave of Database Technology: Interpretation of the 2024 Global Database Development Research Report](https://dev.to/urlewicz_aicha_d14af69bc8/new-wave-of-database-technology-interpretation-of-the-2024-global-database-development-research-report-9j5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
