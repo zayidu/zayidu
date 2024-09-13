@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL vs MySQL: Which One Fits Your Project?](https://dev.to/seasonedcc/postgresql-vs-mysql-which-one-fits-your-project-2c3)
-- [Настройка линтеров и IDE для Angular 18](https://dev.to/fafnur/nastroika-lintierov-i-ide-dlia-angular-18-2130)
-- [Docker - Introduction, Architecture, and Most used Commands](https://dev.to/akhil_mittal/docker-introduction-architecture-and-most-used-commands-1g1b)
-- [A Beginner&#39;s guide to APIs: Understanding POST, PATCH, GET, and DELETE](https://dev.to/daniel_trejo14/a-beginners-guide-to-apis-understanding-post-patch-get-and-delete-55el)
-- [PubNub vs Pusher creating a realtime messaging app in React](https://dev.to/andrewbaisden/pubnub-vs-pusher-creating-a-realtime-messaging-app-in-react-2h1f)
+- [Game Dev Digest — Issue #250 - The Future Is Bright](https://dev.to/gamedevdigest/game-dev-digest-issue-250-the-future-is-bright-1987)
+- [Monitoring with Grafana](https://dev.to/chauhoangminhnguyen/monitoring-with-grafana-59l5)
+- [JavaScript `string.replace&lpar;&rpar;` useful cases](https://dev.to/maafaishal/javascript-stringreplace-useful-cases-3963)
+- [As últimas novidades do ECMAScript 2024, 2023, 202x…](https://dev.to/diegopinho/as-ultimas-novidades-do-ecmascript-2024-2023-202x-1oo8)
+- [How the Global Talent visa might make you layoff-proof in the UK 🇬🇧](https://dev.to/thewritingdev/how-the-global-talent-visa-might-make-you-layoff-proof-in-the-uk-37om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
