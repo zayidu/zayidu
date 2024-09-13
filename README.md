@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How I launched my first product](https://dev.to/estagiario/how-i-launched-my-first-product-475)
+- [LabEx Trending: Querying Official Languages of Each Country and More](https://dev.to/labex/labex-trending-querying-official-languages-of-each-country-and-more-395n)
+- [How I beat Gupy](https://dev.to/estagiario/how-i-beat-gupy-3b0l)
+- [Automating MySQL Database Creation and Import in Docker: A Comprehensive Guide](https://dev.to/saniyathossain/automating-mysql-database-creation-and-import-in-docker-a-comprehensive-guide-2ejf)
 - [EFCore Tutorial P4:Cleaning Up `OnModelCreating`](https://dev.to/moh_moh701/efcore-tutorial-p5cleaning-up-ef-cores-onmodelcreating-45fg)
-- [9/13/2024 Progress](https://dev.to/jean_clenor/9132024-progress-lkj)
-- [Quão difícil é subir uma aplicação simples e monetizá-la em 2024?](https://dev.to/arthurdiesel/quao-dificil-e-subir-uma-aplicacao-simples-e-monetiza-la-em-2024-1g74)
-- [Building Reusable Infrastructure with Terraform Modules](https://dev.to/pat6339/building-reusable-infrastructure-with-terraform-modules-625)
-- [🚀 Introducing FetchPHP: A Simple, Powerful HTTP Library for PHP, Inspired by JavaScript’s fetch API](https://dev.to/thavarshan/introducing-fetchphp-a-simple-powerful-http-library-for-php-inspired-by-javascripts-fetch-api-l72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
