@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I launched my first product](https://dev.to/estagiario/how-i-launched-my-first-product-475)
-- [LabEx Trending: Querying Official Languages of Each Country and More](https://dev.to/labex/labex-trending-querying-official-languages-of-each-country-and-more-395n)
-- [How I beat Gupy](https://dev.to/estagiario/how-i-beat-gupy-3b0l)
-- [Automating MySQL Database Creation and Import in Docker: A Comprehensive Guide](https://dev.to/saniyathossain/automating-mysql-database-creation-and-import-in-docker-a-comprehensive-guide-2ejf)
-- [EFCore Tutorial P4:Cleaning Up `OnModelCreating`](https://dev.to/moh_moh701/efcore-tutorial-p5cleaning-up-ef-cores-onmodelcreating-45fg)
+- [Let&#39;s Verify Step by Step: How OpenAI o1 was created](https://dev.to/shagun_mistry/lets-verify-step-by-step-how-openai-o1-was-created-2mll)
+- [PGVector&#39;s Missing Features](https://dev.to/skeptrune/pgvectors-missing-features-5h5h)
+- [The Power of Recharging: Overcoming Life&#39;s Stress &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/the-power-of-recharging-overcoming-lifes-stress-bite-size-article-328)
+- [Ned&#39;s Declassified Git Survival Guide 📚](https://dev.to/raulpenate/neds-declassified-git-survival-guide-4p9e)
+- [How Outliers Affect the Mean: An Analogy with Leadership in a Company](https://dev.to/sreeni5018/how-outliers-affect-the-mean-an-analogy-with-leadership-in-a-company-4b29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
