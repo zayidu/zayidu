@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Things Every JavaScript Developer Should Know](https://dev.to/adarshgupta101/10-things-every-javascript-developer-should-know-21l5)
-- [How to set up an Apache2 virtual host with Laravel on Ubuntu](https://dev.to/jrius4/how-to-set-up-an-apache2-virtual-host-with-laravel-on-ubuntu-1n7d)
-- [Does your app need more code?](https://dev.to/polipo_gio/does-your-app-need-more-code-5803)
-- [Send data between tabs in React.](https://dev.to/maqs/send-data-between-tabs-in-react-obk)
-- [Deixando a Matrix: A Jornada de Confiança e Sucesso de um Desenvolvedor Brasileiro](https://dev.to/marcelxv/deixando-a-matrix-a-jornada-de-confianca-e-sucesso-de-um-desenvolvedor-brasileiro-3f32)
+- [Transitioning from React.js to React Native](https://dev.to/wafa_bergaoui/transitioning-from-reactjs-to-react-native-4i6b)
+- [Machine Learning Design Patterns 101](https://dev.to/salman1127/machine-learning-design-patterns-101-2o3h)
+- [AI for Responsible Innovation: Mitigating Bias and Ensuring Fairness in AI Development](https://dev.to/saumya_1i/ai-for-responsible-innovation-mitigating-bias-and-ensuring-fairness-in-ai-development-2419)
+- [Advance React Interview Question and Answer](https://dev.to/ashutoshsarangi/advance-react-interview-question-and-answer-hlj)
+- [Como criar um Repository Genérico em Golang?](https://dev.to/ortizdavid/como-criar-um-repository-generico-em-golang-47fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
