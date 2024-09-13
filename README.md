@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Better Prompts: Unlocking the Full Potential of AI](https://dev.to/hasin_hayder_23a8a83b3d57/better-prompts-unlocking-the-full-potential-of-ai-3m51)
-- [Use effect less in Angular, try signals in computed](https://dev.to/railsstudent/use-effect-less-in-angular-try-signals-in-computed-11ff)
-- [Exploring Alternatives to Luminati](https://dev.to/lewis_kerr_2d0d4c5b886b02/exploring-alternatives-to-luminati-3ldm)
-- [&quot;Exploring Cloud Storage Services: An In-Depth Look at AWS S3, Google Cloud Storage, and Azure Blob.&quot;](https://dev.to/blessedofofon2/exploring-cloud-storage-services-an-in-depth-look-at-aws-s3-google-cloud-storage-and-azure-blob-4jhj)
-- [New Cool Tailwind CSS Properties](https://dev.to/shreyvijayvargiya/new-cool-tailwind-css-properties-l9p)
+- [Laravel and NextJs](https://dev.to/arfn/laravel-and-nextjs-5fk8)
+- [FastHTML: Revolutionizing Web Development with Python in 2024 🚀](https://dev.to/info_generalhazedawn_a3d/fasthtml-revolutionizing-web-development-with-python-in-2024-l5h)
+- [Parse a csv file having a primary-sub tables structure #eg41](https://dev.to/esproc_spl/parse-a-csv-file-having-a-primary-sub-tables-structure-eg41-507)
+- [Cursor AI Editor vs PhpStorm - a quick Laravel comparison](https://dev.to/codewithcaen/cursor-ai-editor-vs-phpstorm-a-quick-laravel-comparison-25c4)
+- [Create Your Own Local AI Using Browser APIs](https://dev.to/drumbler9/create-your-own-local-ai-using-browser-apis-2lje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
