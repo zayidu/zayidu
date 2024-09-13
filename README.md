@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an open source Codepen alternative - Devcanvas](https://dev.to/abdulmuminyqn/i-built-an-open-source-codepen-alternative-devcanvas-1ade)
-- [Map Library Introduction](https://dev.to/gamevillage_ls/map-library-introduction-dem)
-- [How to Become an Apache SeaTunnel Committer?](https://dev.to/seatunnel/how-to-become-an-apache-seatunnel-committer-163k)
-- [A Guide To Custom Animations in Tailwind Css.](https://dev.to/jessethedev/a-guide-to-custom-animations-in-tailwind-css-13cc)
-- [Best Bootstrap Template Builders](https://dev.to/rarestoma/best-bootstrap-template-builders-2gbd)
+- [Better Prompts: Unlocking the Full Potential of AI](https://dev.to/hasin_hayder_23a8a83b3d57/better-prompts-unlocking-the-full-potential-of-ai-3m51)
+- [Use effect less in Angular, try signals in computed](https://dev.to/railsstudent/use-effect-less-in-angular-try-signals-in-computed-11ff)
+- [Exploring Alternatives to Luminati](https://dev.to/lewis_kerr_2d0d4c5b886b02/exploring-alternatives-to-luminati-3ldm)
+- [&quot;Exploring Cloud Storage Services: An In-Depth Look at AWS S3, Google Cloud Storage, and Azure Blob.&quot;](https://dev.to/blessedofofon2/exploring-cloud-storage-services-an-in-depth-look-at-aws-s3-google-cloud-storage-and-azure-blob-4jhj)
+- [New Cool Tailwind CSS Properties](https://dev.to/shreyvijayvargiya/new-cool-tailwind-css-properties-l9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
