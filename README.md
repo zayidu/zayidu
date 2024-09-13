@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install and Run Auraflow Image Generator Locally](https://dev.to/nodeshiftcloud/how-to-install-and-run-auraflow-image-generator-locally-1652)
-- [How to Set Up SSL Protocols and Cipher Suites with SafeLine WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/how-to-set-up-ssl-protocols-and-cipher-suites-with-safeline-waf-314i)
-- [New PHP Package: Discord Table Builder](https://dev.to/smitmartijn/new-php-package-discord-table-builder-2chk)
-- [Context is all you need.](https://dev.to/szymonst/context-is-all-you-need-1k8a)
-- [The Best API Management Tools You Should Try](https://dev.to/cyanspray/the-best-api-management-tools-you-should-try-2iec)
+- [How I started my journey in web development as 13 year old](https://dev.to/aayushchugh/how-i-started-my-journey-in-web-development-as-13-year-old-2n8j)
+- [🚀 50 Must-Have VS Code Extensions to Boost Your Development Speed by 50% 💻](https://dev.to/mirzahanzla/50-must-have-vs-code-extensions-to-boost-your-development-speed-by-50-2h5a)
+- [Performance Impact Using Context API](https://dev.to/ashutoshsarangi/performance-impact-using-context-api-2eka)
+- [1310. XOR Queries of a Subarray](https://dev.to/mdarifulhaque/1310-xor-queries-of-a-subarray-4nki)
+- [Error: rbenv install 3.3.4 - ruby-build: definition not found: 3.3.4](https://dev.to/alexandrecalaca/error-rbenv-install-334-ruby-build-definition-not-found-334-921)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
