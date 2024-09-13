@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Game Dev Digest — Issue #250 - The Future Is Bright](https://dev.to/gamedevdigest/game-dev-digest-issue-250-the-future-is-bright-1987)
-- [Monitoring with Grafana](https://dev.to/chauhoangminhnguyen/monitoring-with-grafana-59l5)
-- [JavaScript `string.replace&lpar;&rpar;` useful cases](https://dev.to/maafaishal/javascript-stringreplace-useful-cases-3963)
-- [As últimas novidades do ECMAScript 2024, 2023, 202x…](https://dev.to/diegopinho/as-ultimas-novidades-do-ecmascript-2024-2023-202x-1oo8)
-- [How the Global Talent visa might make you layoff-proof in the UK 🇬🇧](https://dev.to/thewritingdev/how-the-global-talent-visa-might-make-you-layoff-proof-in-the-uk-37om)
+- [10 Things Every JavaScript Developer Should Know](https://dev.to/adarshgupta101/10-things-every-javascript-developer-should-know-21l5)
+- [How to set up an Apache2 virtual host with Laravel on Ubuntu](https://dev.to/jrius4/how-to-set-up-an-apache2-virtual-host-with-laravel-on-ubuntu-1n7d)
+- [Does your app need more code?](https://dev.to/polipo_gio/does-your-app-need-more-code-5803)
+- [Send data between tabs in React.](https://dev.to/maqs/send-data-between-tabs-in-react-obk)
+- [Deixando a Matrix: A Jornada de Confiança e Sucesso de um Desenvolvedor Brasileiro](https://dev.to/marcelxv/deixando-a-matrix-a-jornada-de-confianca-e-sucesso-de-um-desenvolvedor-brasileiro-3f32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
