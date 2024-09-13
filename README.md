@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction post](https://dev.to/lissnbay/introduction-post-4a2o)
-- [My Journey So Far: #100DaysOfCode Challenge and What I Aim to Achieve](https://dev.to/heritech9/my-journey-so-far-100daysofcode-challenge-and-what-i-aim-to-achieve-22dh)
-- [How To Create And Configure Build Pipeline In Azure DevOps](https://dev.to/s3cloudhub/how-to-create-and-configure-build-pipeline-in-azure-devops-5hf4)
-- [Top DevOps Automation Strategies for Fast-Tracking Success](https://dev.to/patadiarushabh/top-devops-automation-strategies-for-fast-tracking-success-4ckg)
-- [Create and publish an npm library, with TypeScript and Semantic Versioning](https://dev.to/remi-guan/create-and-publish-an-npm-library-with-typescript-and-semantic-versioning-9l)
+- [I built an open source Codepen alternative - Devcanvas](https://dev.to/abdulmuminyqn/i-built-an-open-source-codepen-alternative-devcanvas-1ade)
+- [Map Library Introduction](https://dev.to/gamevillage_ls/map-library-introduction-dem)
+- [How to Become an Apache SeaTunnel Committer?](https://dev.to/seatunnel/how-to-become-an-apache-seatunnel-committer-163k)
+- [A Guide To Custom Animations in Tailwind Css.](https://dev.to/jessethedev/a-guide-to-custom-animations-in-tailwind-css-13cc)
+- [Best Bootstrap Template Builders](https://dev.to/rarestoma/best-bootstrap-template-builders-2gbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
