@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Python&#39;s Requests Library](https://dev.to/kartikmehta8/exploring-pythons-requests-library-2k32)
-- [Choosing an Appropriate Integer Type in C and C++](https://dev.to/pauljlucas/choosing-an-appropriate-integer-type-in-c-and-c-4bp1)
-- [Starting an Open Source Project - OSD#2](https://dev.to/bregwin/starting-a-open-source-project-55d1)
-- [Join Table](https://dev.to/theholyspirit/join-table-4jk1)
-- [EFCore Tutorial P1: Getting Started with EF Core](https://dev.to/moh_moh701/efcore-tutorial-p1-getting-started-with-ef-core-48g0)
+- [Introducing Qiu!](https://dev.to/m__mdy__m/introducing-qiu-1771)
+- [Client-Centered Error Handling](https://dev.to/jaeyeophan/client-centered-user-exception-handling-23a1)
+- [HTML in 180 Seconds: Episode 1 - Welcome](https://dev.to/okande-dev/html-in-180-seconds-episode-1-welcome-1p42)
+- [Exploring Cilium Network Integration with AWS EKS](https://dev.to/alpharm/exploring-cilium-network-integration-with-aws-eks-4apn)
+- [[pt-BR] Não negligencie logs na sua solução](https://dev.to/scarlet/pt-br-nao-negligencie-logs-na-sua-solucao-12e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
