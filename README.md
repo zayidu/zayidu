@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transitioning from React.js to React Native](https://dev.to/wafa_bergaoui/transitioning-from-reactjs-to-react-native-4i6b)
-- [Machine Learning Design Patterns 101](https://dev.to/salman1127/machine-learning-design-patterns-101-2o3h)
-- [AI for Responsible Innovation: Mitigating Bias and Ensuring Fairness in AI Development](https://dev.to/saumya_1i/ai-for-responsible-innovation-mitigating-bias-and-ensuring-fairness-in-ai-development-2419)
-- [Advance React Interview Question and Answer](https://dev.to/ashutoshsarangi/advance-react-interview-question-and-answer-hlj)
-- [Como criar um Repository Genérico em Golang?](https://dev.to/ortizdavid/como-criar-um-repository-generico-em-golang-47fo)
+- [Provide storage for the IT department testing and training](https://dev.to/busa/provide-storage-for-the-it-department-testing-and-training-53jb)
+- [&quot;Day 21: Building a Functional Cart &amp; Revising React Hooks!&quot;](https://dev.to/jasman_deep_58679206bad26/day-21-building-a-functional-cart-revising-react-hooks-52o5)
+- [Git Basics: Branching, Viewing History, Commands, Best Practices, and Tips](https://dev.to/be11amer/git-basics-branching-viewing-history-commands-best-practices-and-tips-3khe)
+- [# 🏗️ Build a Solid Foundation for Generative AI with AWS Databases 🚀](https://dev.to/gadekar_sachin/-build-a-solid-foundation-for-generative-ai-with-aws-databases-2jbn)
+- [Libraries for writing raw SQL safely](https://dev.to/propelauth/libraries-for-writing-raw-sql-safely-2op2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
