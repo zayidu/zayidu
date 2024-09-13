@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel and NextJs](https://dev.to/arfn/laravel-and-nextjs-5fk8)
-- [FastHTML: Revolutionizing Web Development with Python in 2024 🚀](https://dev.to/info_generalhazedawn_a3d/fasthtml-revolutionizing-web-development-with-python-in-2024-l5h)
-- [Parse a csv file having a primary-sub tables structure #eg41](https://dev.to/esproc_spl/parse-a-csv-file-having-a-primary-sub-tables-structure-eg41-507)
-- [Cursor AI Editor vs PhpStorm - a quick Laravel comparison](https://dev.to/codewithcaen/cursor-ai-editor-vs-phpstorm-a-quick-laravel-comparison-25c4)
-- [Create Your Own Local AI Using Browser APIs](https://dev.to/drumbler9/create-your-own-local-ai-using-browser-apis-2lje)
+- [Insert Excel Tables and Charts into Email Body](https://dev.to/sqlman/insert-excel-tables-and-charts-into-email-body-3b6n)
+- [Unveiling the Future: A Deep Dive into OpenAI&#39;s Groundbreaking o1 Reasoning Model](https://dev.to/bernardkibathi/unveiling-the-future-a-deep-dive-into-openais-groundbreaking-o1-reasoning-model-cg)
+- [Spread and Rest Operators in JavaScript](https://dev.to/amdzakir/spread-and-rest-operators-in-javascript-57j9)
+- [40 Days Of Kubernetes &lpar;7/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-740-ml2)
+- [Serverless CI/CD: How to Build a Pipeline Without Servers](https://dev.to/prodevopsguytech/serverless-cicd-how-to-build-a-pipeline-without-servers-fn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
