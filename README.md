@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching Oxy-UI: A Powerful and Modern UI Library for Your Web Projects](https://dev.to/vyan/launching-oxy-ui-a-powerful-and-modern-ui-library-for-your-web-projects-93o)
-- [Vue.js: A Speed Demon or Just a High-Risk Gambler?](https://dev.to/middleware/vuejs-a-speed-demon-or-just-a-high-risk-gambler-327l)
-- [Building a Crypto Finder App with React](https://dev.to/abhishekgurjar/building-a-crypto-finder-app-with-react-b87)
-- [Code Against the Clock: Automating the youtube shorts creation](https://dev.to/programmerraja/code-against-the-clock-automating-the-youtube-shorts-creation-24m7)
-- [Crear un Paquete de NPM - Paso a Paso / TypeScript, commit linting, Husky, Semantic Release](https://dev.to/hijuliancode/crear-un-paquete-de-npm-paso-a-paso-typescript-commit-linting-husky-semantic-release-553d)
+- [Introduction post](https://dev.to/lissnbay/introduction-post-4a2o)
+- [My Journey So Far: #100DaysOfCode Challenge and What I Aim to Achieve](https://dev.to/heritech9/my-journey-so-far-100daysofcode-challenge-and-what-i-aim-to-achieve-22dh)
+- [How To Create And Configure Build Pipeline In Azure DevOps](https://dev.to/s3cloudhub/how-to-create-and-configure-build-pipeline-in-azure-devops-5hf4)
+- [Top DevOps Automation Strategies for Fast-Tracking Success](https://dev.to/patadiarushabh/top-devops-automation-strategies-for-fast-tracking-success-4ckg)
+- [Create and publish an npm library, with TypeScript and Semantic Versioning](https://dev.to/remi-guan/create-and-publish-an-npm-library-with-typescript-and-semantic-versioning-9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
