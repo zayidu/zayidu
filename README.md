@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Provide storage for the IT department testing and training](https://dev.to/busa/provide-storage-for-the-it-department-testing-and-training-53jb)
-- [&quot;Day 21: Building a Functional Cart &amp; Revising React Hooks!&quot;](https://dev.to/jasman_deep_58679206bad26/day-21-building-a-functional-cart-revising-react-hooks-52o5)
-- [Git Basics: Branching, Viewing History, Commands, Best Practices, and Tips](https://dev.to/be11amer/git-basics-branching-viewing-history-commands-best-practices-and-tips-3khe)
-- [# 🏗️ Build a Solid Foundation for Generative AI with AWS Databases 🚀](https://dev.to/gadekar_sachin/-build-a-solid-foundation-for-generative-ai-with-aws-databases-2jbn)
-- [Libraries for writing raw SQL safely](https://dev.to/propelauth/libraries-for-writing-raw-sql-safely-2op2)
+- [Building an LLM-Powered Knowledge Curation System](https://dev.to/anni_chen_4a9af01447bc04/building-an-llm-powered-knowledge-curation-system-26nd)
+- [Twitter Like News Feed UI System Design](https://dev.to/ashutoshsarangi/twitter-like-news-feed-ui-system-design-3pld)
+- [Simplify Form Controls in Flutter with the FForm Package 🚀](https://dev.to/alexhcjp/simplify-form-controls-in-flutter-with-the-fform-package-1bn7)
+- [New to React](https://dev.to/subash_chalise/new-to-react-ndo)
+- [Introduction](https://dev.to/wjlewis/introduction-fpg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
