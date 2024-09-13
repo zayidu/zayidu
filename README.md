@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [YAML to JSON Conversion: A Comprehensive Guide](https://dev.to/keploy/yaml-to-json-conversion-a-comprehensive-guide-40dh)
-- [Frontend Challenge: Space Edition](https://dev.to/lakshita_kumawat/frontend-challenge-space-edition-2bb6)
-- [How NOT to Make Your Second Indie Game](https://dev.to/pashagray/how-not-to-make-your-second-indie-game-13ij)
-- [The Review Roundup](https://dev.to/ajogseneca/the-review-roundup-14p9)
-- [OpenAI o1 Release is so Reminiscent of Apple Events - it&#39;s an Incremental Update](https://dev.to/maximsaplin/openai-o1-release-is-so-reminiscent-of-apple-events-its-an-incremental-update-cm)
+- [Modern Financial Terminal](https://dev.to/fintechwarrior/modern-financial-terminal-15k4)
+- [Database Schema Management in Laravel Using Migrations: An In-Depth Tutorial](https://dev.to/mdarifulhaque/database-schema-management-in-laravel-using-migrations-an-in-depth-tutorial-5ac3)
+- [Double row scroll](https://dev.to/gn_3c4a768a6ce8e4fec6735f/double-row-scroll-29b0)
+- [The anatomy of HTML page](https://dev.to/melchizedek404/the-anatomy-of-html-page-5000)
+- [Mastering React.js: How to Build Fast, Scalable, and Performant Web Apps](https://dev.to/sabyasachim/mastering-reactjs-how-to-build-fast-scalable-and-performant-web-apps-154b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
