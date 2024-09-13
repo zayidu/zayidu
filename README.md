@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I started my journey in web development as 13 year old](https://dev.to/aayushchugh/how-i-started-my-journey-in-web-development-as-13-year-old-2n8j)
-- [🚀 50 Must-Have VS Code Extensions to Boost Your Development Speed by 50% 💻](https://dev.to/mirzahanzla/50-must-have-vs-code-extensions-to-boost-your-development-speed-by-50-2h5a)
-- [Performance Impact Using Context API](https://dev.to/ashutoshsarangi/performance-impact-using-context-api-2eka)
-- [1310. XOR Queries of a Subarray](https://dev.to/mdarifulhaque/1310-xor-queries-of-a-subarray-4nki)
-- [Error: rbenv install 3.3.4 - ruby-build: definition not found: 3.3.4](https://dev.to/alexandrecalaca/error-rbenv-install-334-ruby-build-definition-not-found-334-921)
+- [PostgreSQL vs MySQL: Which One Fits Your Project?](https://dev.to/seasonedcc/postgresql-vs-mysql-which-one-fits-your-project-2c3)
+- [Настройка линтеров и IDE для Angular 18](https://dev.to/fafnur/nastroika-lintierov-i-ide-dlia-angular-18-2130)
+- [Docker - Introduction, Architecture, and Most used Commands](https://dev.to/akhil_mittal/docker-introduction-architecture-and-most-used-commands-1g1b)
+- [A Beginner&#39;s guide to APIs: Understanding POST, PATCH, GET, and DELETE](https://dev.to/daniel_trejo14/a-beginners-guide-to-apis-understanding-post-patch-get-and-delete-55el)
+- [PubNub vs Pusher creating a realtime messaging app in React](https://dev.to/andrewbaisden/pubnub-vs-pusher-creating-a-realtime-messaging-app-in-react-2h1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
