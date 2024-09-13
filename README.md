@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Guide to Refactoring Code for a Cleaner and Polished Design](https://dev.to/geraldhamiltonwicks/essential-guide-to-refactoring-code-for-a-cleaner-and-polished-design-5330)
-- [Authorization In Laravel - A Beginner&#39;s Guide](https://dev.to/mohammed_kareem/authorization-in-laravel-a-beginners-guide-32kf)
-- [Best Web Design Tools for Designers &amp; Agencies](https://dev.to/christopherchhim/best-web-design-tools-for-designers-agencies-30ga)
-- [Representação numérica na computação](https://dev.to/xornotor/representacao-numerica-na-computacao-31ml)
-- [Computer Vision Meetup: Reducing Hallucinations in ChatGPT and Similar AI Systems](https://dev.to/voxel51/computer-vision-meetup-reducing-hallucinations-in-chatgpt-and-similar-ai-systems-49g2)
+- [Exploring Python&#39;s Requests Library](https://dev.to/kartikmehta8/exploring-pythons-requests-library-2k32)
+- [Choosing an Appropriate Integer Type in C and C++](https://dev.to/pauljlucas/choosing-an-appropriate-integer-type-in-c-and-c-4bp1)
+- [Starting an Open Source Project - OSD#2](https://dev.to/bregwin/starting-a-open-source-project-55d1)
+- [Join Table](https://dev.to/theholyspirit/join-table-4jk1)
+- [EFCore Tutorial P1: Getting Started with EF Core](https://dev.to/moh_moh701/efcore-tutorial-p1-getting-started-with-ef-core-48g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
