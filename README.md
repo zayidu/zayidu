@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Logging in Golang](https://dev.to/last9/logging-in-golang-40k2)
+- [Glam Up My Markup: Solar System](https://dev.to/nilima19352938/glam-up-my-markup-solar-system-4oel)
+- [Beyond the Code: A Developer&#39;s Guide to a Healthy Lifestyle](https://dev.to/gregharis/beyond-the-code-a-developers-guide-to-a-healthy-lifestyle-2809)
+- [Github | Encounter &quot;Support for password authentication was removed on August 13, 2021.&quot; error](https://dev.to/01kg/github-encounter-support-for-password-authentication-was-removed-on-august-13-2021-error-1h5e)
 - [React.js Lazy Loading: EXPLAINED](https://dev.to/vyan/reactjs-lazy-loading-explained-4fc2)
-- [Botkube: Facilitando o gerenciamento de clusters Kubernetes](https://dev.to/rafaelbonilha/botkube-facilitando-o-gerenciamento-de-clusters-kubernetes-39g2)
-- [SCSS: Using Map and List Functions](https://dev.to/tailwine/scss-using-map-and-list-functions-49n5)
-- [Swift Deployments: Are they Swift or Recklessly Rushed?](https://dev.to/middleware/swift-deployments-are-they-swift-or-recklessly-rushed-26h0)
-- [Returning Correct StatusCodes in Azure Function Apps](https://dev.to/agbagbarao/returning-correct-statuscodes-in-azure-function-apps-17fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
