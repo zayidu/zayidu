@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Study Stream Web-Extension Demo](https://dev.to/rishi_nalem/study-stream-web-extension-demo-2f7p)
-- [Outbox design pattern](https://dev.to/vijayponnusamy1990/outbox-design-pattern-3080)
-- [My journey into the cloud](https://dev.to/sherif_san/my-journey-into-the-cloud-5h9a)
-- [Church-Rosser proof for CCL](https://dev.to/rdentato/church-rosser-proof-for-ccl-c5l)
-- [Provide storage for the public website](https://dev.to/busa/provide-storage-for-the-public-website-3g75)
+- [🌟 Transform Your GitHub Profile with Our Cutting-Edge Profile Generator](https://dev.to/sushilmagare10/transform-your-github-profile-with-our-cutting-edge-profile-generator-4c27)
+- [Detailed Job Description for Developing a Custom SaaS E-Commerce Platform](https://dev.to/bmspy/detailed-job-description-for-developing-a-custom-saas-e-commerce-platform-p56)
+- [CSS BEM Naming Convention: What It Is, Why It Matters, and How to Use It?](https://dev.to/aepasahan/css-bem-naming-convention-what-it-is-why-it-matters-and-how-to-use-it-3epn)
+- [MaxPool3d&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/maxpool3d-in-pytorch-37b0)
+- [Typing Speed: The Overlooked Catalyst for Developer Productivity in the AI Era 🚀](https://dev.to/fauzulchowdhury/typing-speed-the-overlooked-catalyst-for-developer-productivity-in-the-ai-era-4do7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
