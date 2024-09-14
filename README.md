@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java’s String toCharArray&lpar;&rpar; Method Explained](https://dev.to/realnamehidden1_61/javas-string-tochararray-method-explained-31nc)
-- [Why is 1 == 1 is true but 1000 == 1000 is false When dealing with Wrapper Classes in Java?](https://dev.to/realnamehidden1_61/why-is-1-1-is-true-but-1000-1000-is-false-when-dealing-with-wrapper-classes-in-java-10pe)
-- [Performance optimization of negligently written code.](https://dev.to/ivansphoto/performance-optimization-of-negligently-written-code-44nb)
-- [React Native Best Practices](https://dev.to/hellonehha/react-native-code-practices-6dl)
-- [How to use Twillot Multi Publish](https://dev.to/simongfxu/how-to-use-twillot-multi-publish-3mm5)
+- [Bramus CSS Observer: Dynamically React to CSS Changes with JavaScript](https://dev.to/rajeshkumaryadavdotcom/bramus-css-observer-dynamically-react-to-css-changes-with-javascript-24k1)
+- [Make your Vite applications run a little faster](https://dev.to/modyqyw/make-your-vite-applications-run-a-little-faster-5bp7)
+- [My first open-source project built with Python to inspect databases through CLI fast](https://dev.to/evangelosmeklis/my-first-open-source-project-built-with-python-to-inspect-databases-through-cli-fast-5d31)
+- [Radio code generator for Dodge RAM in Python](https://dev.to/pelock/radio-code-generator-for-dodge-ram-in-python-lda)
+- [The Most Advanced DDoS Attack Methods](https://dev.to/saman_sardari_22e7e9081be/the-most-advanced-ddos-attack-methods-3n6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
