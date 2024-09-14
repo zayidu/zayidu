@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Margins – Spacing Around Elements](https://dev.to/ridoy_hasan/css-margins-spacing-around-elements-549p)
-- [40 Days Of Kubernetes &lpar;37/40&rpar;](https://dev.to/sina14/40-days-of-kubernetes-3740-38co)
-- [Unlocking Web Data with LangChain: A Deep Dive into Web Loaders](https://dev.to/thecodingcutie/unlocking-web-data-with-langchain-a-deep-dive-into-web-loaders-4e6l)
-- [How AI Can Make You a Better Developer: It’s All About the Prompt!](https://dev.to/dev_frank/how-ai-can-make-you-a-better-developer-its-all-about-the-prompt-135k)
-- [Speed Up Your Site A Beginner&#39;s Guide to rel=&#39;preload&#39;](https://dev.to/babar_ali/speed-up-your-site-a-beginners-guide-to-relpreload-2nmn)
+- [Getting Started with Docker.](https://dev.to/sethgiddy/getting-started-with-docker-4g4f)
+- [Conociendo BenchmarkDotNet](https://dev.to/brventurau/conociendo-benchmarkdotnet-kni)
+- [Deploy Your LLM on AWS EC2](https://dev.to/aws-builders/deploy-your-llm-on-aws-ec2-2ig3)
+- [Deploy Your LLM on AWS EC2](https://dev.to/aws-builders/deploy-your-llm-on-aws-ec2-2fmd)
+- [Rome at Night](https://dev.to/babar_ali/rome-at-night-43hd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
