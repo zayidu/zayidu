@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing undb: A Private-First, No-Code Platform for Developers and Makers](https://dev.to/nichenqin/introducing-undb-a-private-first-no-code-platform-for-developers-and-makers-1ain)
-- [Strategy](https://dev.to/prashantrmishra/strategy-5d06)
-- [Analytics dashboard that simplifies developers lives](https://dev.to/litlyx/analytics-dashboard-that-simplifies-developers-lives-5849)
-- [The Electromagnetic Spectrum - 500-425 CAAA Study Guide](https://dev.to/certguide2024/the-electromagnetic-spectrum-500-425-caaa-study-guide-239i)
-- [Factory Network x {Tech: Berlin} AI Hackathon](https://dev.to/nsadeghi97/factory-network-x-tech-berlin-ai-hackathon-1h5b)
+- [How to create a Human-Level Natural Language Understanding &lpar;NLU&rpar; System](https://dev.to/kavya-sahai-god/how-to-create-a-human-level-natural-language-understanding-nlu-system-3gmp)
+- [Routing in React with React Router Dom](https://dev.to/singhpritpal04/react-router-dom-2il9)
+- [Convolutional Neural Networks: How Do Computers Understand Images?](https://dev.to/usamaa/convolutional-neural-networks-how-do-computers-understand-images-4ge6)
+- [AI-powered Github leaderboard.](https://dev.to/sotergreco/ai-powered-github-leaderboard-5gba)
+- [MY CHAT WITH ChatGPT](https://dev.to/goofyfoot/my-chat-with-chatgpt-1mbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
