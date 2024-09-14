@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Docker.](https://dev.to/sethgiddy/getting-started-with-docker-4g4f)
-- [Conociendo BenchmarkDotNet](https://dev.to/brventurau/conociendo-benchmarkdotnet-kni)
-- [Deploy Your LLM on AWS EC2](https://dev.to/aws-builders/deploy-your-llm-on-aws-ec2-2ig3)
-- [Deploy Your LLM on AWS EC2](https://dev.to/aws-builders/deploy-your-llm-on-aws-ec2-2fmd)
-- [Rome at Night](https://dev.to/babar_ali/rome-at-night-43hd)
+- [Cómo escribir archivos de log en Go](https://dev.to/fabkdev/como-escribir-archivos-de-log-en-go-916)
+- [How to configure a split-traffic VPN to access private S3 buckets](https://dev.to/aws-builders/how-to-configure-a-split-traffic-vpn-to-access-private-s3-buckets-420i)
+- [Deploy Simple Java Application using Docker Compose.](https://dev.to/divine_kenechukwu_fc921c4/deploy-simple-java-application-using-docker-compose-41mp)
+- [Aspiring Programmer](https://dev.to/mushfiqul_islam_dfe0370b7/aspiring-programmer-2946)
+- [Load Testing With Postman](https://dev.to/dot_nettips_a4e90828daa4/load-testing-with-postman-1idp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
