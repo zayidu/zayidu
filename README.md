@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Google Cloud Run to Deploy Docker Image](https://dev.to/chauhoangminhnguyen/using-google-cloud-run-to-deploy-docker-image-2im3)
-- [What’s Holding You Back from Landing More Work or Accessing Financial Services?](https://dev.to/ciphertextk/whats-holding-you-back-from-landing-more-work-or-accessing-financial-services-47g3)
-- [Every React Concept Explained in 12 Minutes](https://dev.to/prankurpandeyy/every-react-concept-explained-in-12-minutes-4bif)
-- [Practical Usage of Shell Scripting in Devops/Cloud Engineer Role](https://dev.to/akhil_mittal/practical-usage-of-shell-scripting-in-devopscloud-engineer-role-1692)
-- [Promise.withResolvers: Simplifying Promise Creation in ES2024](https://dev.to/sarvabharan/promisewithresolvers-simplifying-promise-creation-in-es2024-4lim)
+- [How to Create Partials Using EJS for Reusable Code 🚀](https://dev.to/arkadiptakundu/how-to-create-partials-using-ejs-for-reusable-code-3ic0)
+- [Enable Microsoft 365 Backups](https://dev.to/techielass/enable-microsoft-365-backups-3ogl)
+- [Comparing the Drupal and WordPress Implementations of Gutenberg themes, blocks, and more!](https://dev.to/reubenwalker64/comparing-the-drupal-and-wordpress-implementations-of-gutenberg-themes-blocks-and-more-1196)
+- [MaxPool2d&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/maxpool2d-in-pytorch-4p3e)
+- [Guide to Obtaining Java and Python Certifications](https://dev.to/myexamcloud/guide-to-obtaining-java-and-python-certifications-3a8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
