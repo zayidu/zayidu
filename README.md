@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Load Balancer Stickiness: Ensuring a Seamless User Experience](https://dev.to/s3cloudhub/mastering-load-balancer-stickiness-ensuring-a-seamless-user-experience-2ei0)
-- [Performance Optimization in Web and App Development](https://dev.to/snehal_kothawade_sk/performance-optimization-in-web-and-app-development-5889)
-- [MaxPool1d&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/maxpool1d-in-pytorch-32lj)
-- [AI Translation Tools: Boosting Academic Writing Across Languages](https://dev.to/harrywilson/ai-translation-tools-boosting-academic-writing-across-languages-4296)
-- [Bridging Healthcare Gap: GenAI Therapist with human empathy &lpar;Part 5&rpar;](https://dev.to/aws-builders/bridging-healthcare-gap-genai-therapist-with-human-empathy-part-5-1ma7)
+- [Using Google Cloud Run to Deploy Docker Image](https://dev.to/chauhoangminhnguyen/using-google-cloud-run-to-deploy-docker-image-2im3)
+- [What’s Holding You Back from Landing More Work or Accessing Financial Services?](https://dev.to/ciphertextk/whats-holding-you-back-from-landing-more-work-or-accessing-financial-services-47g3)
+- [Every React Concept Explained in 12 Minutes](https://dev.to/prankurpandeyy/every-react-concept-explained-in-12-minutes-4bif)
+- [Practical Usage of Shell Scripting in Devops/Cloud Engineer Role](https://dev.to/akhil_mittal/practical-usage-of-shell-scripting-in-devopscloud-engineer-role-1692)
+- [Promise.withResolvers: Simplifying Promise Creation in ES2024](https://dev.to/sarvabharan/promisewithresolvers-simplifying-promise-creation-in-es2024-4lim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
