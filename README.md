@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Peer Code Review](https://dev.to/elisassa/review-my-partner-code-3po1)
-- [Advanced Functional Programming in JavaScript](https://dev.to/kartikmehta8/advanced-functional-programming-in-javascript-3g1l)
-- [Why Elixir?](https://dev.to/idfy/why-elixir-2i7i)
-- [Optimizing Aurora MySQL Storage by Deleting Unnecessary Data](https://dev.to/suzuki0430/optimizing-aurora-mysql-storage-by-deleting-unnecessary-data-4l92)
-- [Week 2: Lab 1 code review](https://dev.to/mpalhutchinson/week-2-lab-1-code-review-2749)
+- [Doing Code Reviews &amp; Filing Github Issues](https://dev.to/arilloid/doing-code-reviews-filing-github-issues-8b6)
+- [Developing Custom Nodes for n8n with Docker](https://dev.to/hubschrauber/developing-custom-nodes-for-n8n-with-docker-2680)
+- [Developing Custom Nodes for n8n with Docker](https://dev.to/hubschrauber/developing-custom-nodes-for-n8n-with-docker-3poj)
+- [Do You Still Use Git in the Terminal?](https://dev.to/jimmymcbride/do-you-still-use-git-in-the-terminal-2n7a)
+- [Dealing with issues](https://dev.to/aamfahim/dealing-with-issues-ofp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
