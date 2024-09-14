@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Verify Step by Step: How OpenAI o1 was created](https://dev.to/shagun_mistry/lets-verify-step-by-step-how-openai-o1-was-created-2mll)
-- [PGVector&#39;s Missing Features](https://dev.to/skeptrune/pgvectors-missing-features-5h5h)
-- [The Power of Recharging: Overcoming Life&#39;s Stress &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/the-power-of-recharging-overcoming-lifes-stress-bite-size-article-328)
-- [Ned&#39;s Declassified Git Survival Guide 📚](https://dev.to/raulpenate/neds-declassified-git-survival-guide-4p9e)
-- [How Outliers Affect the Mean: An Analogy with Leadership in a Company](https://dev.to/sreeni5018/how-outliers-affect-the-mean-an-analogy-with-leadership-in-a-company-4b29)
+- [Peer Code Review](https://dev.to/elisassa/review-my-partner-code-3po1)
+- [Advanced Functional Programming in JavaScript](https://dev.to/kartikmehta8/advanced-functional-programming-in-javascript-3g1l)
+- [Why Elixir?](https://dev.to/idfy/why-elixir-2i7i)
+- [Optimizing Aurora MySQL Storage by Deleting Unnecessary Data](https://dev.to/suzuki0430/optimizing-aurora-mysql-storage-by-deleting-unnecessary-data-4l92)
+- [Week 2: Lab 1 code review](https://dev.to/mpalhutchinson/week-2-lab-1-code-review-2749)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
