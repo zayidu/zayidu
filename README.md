@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL, extract unique values of JSON format field from each group #eg42](https://dev.to/esproc_spl/sql-extract-unique-values-of-json-format-field-from-each-group-eg42-4cli)
-- [Beware the Language-as-Fixed-Effect Fallacy: Rethinking Claims about GPT-4&#39;s Capabilities](https://dev.to/mikeyoung44/beware-the-language-as-fixed-effect-fallacy-rethinking-claims-about-gpt-4s-capabilities-35kp)
-- [Unlocking language models&#39; potential through synthetic pretraining](https://dev.to/mikeyoung44/unlocking-language-models-potential-through-synthetic-pretraining-lih)
-- [Boosting Diffusion Models with Data Manifold Constraints for Coherent Image Generation](https://dev.to/mikeyoung44/boosting-diffusion-models-with-data-manifold-constraints-for-coherent-image-generation-p15)
-- [The Ultimate Linux Command Line Cheatsheet: Essential Commands for Beginners and Power Users](https://dev.to/hkp22/the-ultimate-linux-command-line-cheatsheet-essential-commands-for-beginners-and-power-users-197f)
+- [Java’s String toCharArray&lpar;&rpar; Method Explained](https://dev.to/realnamehidden1_61/javas-string-tochararray-method-explained-31nc)
+- [Why is 1 == 1 is true but 1000 == 1000 is false When dealing with Wrapper Classes in Java?](https://dev.to/realnamehidden1_61/why-is-1-1-is-true-but-1000-1000-is-false-when-dealing-with-wrapper-classes-in-java-10pe)
+- [Performance optimization of negligently written code.](https://dev.to/ivansphoto/performance-optimization-of-negligently-written-code-44nb)
+- [React Native Best Practices](https://dev.to/hellonehha/react-native-code-practices-6dl)
+- [How to use Twillot Multi Publish](https://dev.to/simongfxu/how-to-use-twillot-multi-publish-3mm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
