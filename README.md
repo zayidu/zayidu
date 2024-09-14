@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey Through the Polkadot Blockchain Academy](https://dev.to/jaypopat/my-journey-through-the-polkadot-blockchain-academy-intense-rewarding-and-transformative-21dj)
-- [Dicas para escrever Tailwind CSS de forma limpa](https://dev.to/wesleywcr/dicas-para-escrever-tailwind-de-forma-limpa-6i)
-- [Reflecting on My First Code Review Experience](https://dev.to/vinhyan/reflecting-on-my-first-code-review-experience-1ih8)
-- [The Best 10 GraphQL Clients for Developers in 2024](https://dev.to/apilover/the-best-10-graphql-clients-for-developers-in-2024-40op)
-- [Nextjs Nested Route/segment](https://dev.to/vjygour/nextjs-nested-routesegment-f2)
+- [Why You Need This Decade-Old Open-Source WAF for Ultimate Web Protection](https://dev.to/lulu_liu_c90f973e2f954d7f/why-you-need-this-decade-old-open-source-waf-for-ultimate-web-protection-2b2)
+- [Building Your Own GitHub Copilot: A Step-by-Step Guide to Code Completion Tools](https://dev.to/nayanraj-adhikary/building-your-own-github-copilot-a-step-by-step-guide-to-code-completion-tools-56gi)
+- [Protect Your Site from Hackers with SafeLine: A Free and Open-Source WAF](https://dev.to/lulu_liu_c90f973e2f954d7f/protect-your-site-from-hackers-with-safeline-a-free-and-open-source-waf-abh)
+- [🌟 From Simple Beginnings to a Real-Time Multiplayer Typing Game! 🎮](https://dev.to/vineet_maurya/from-simple-beginnings-to-a-real-time-multiplayer-typing-game-1oah)
+- [A Journey Through Code Reviews: The Good, The Bad, and The “Wait, What?” Moments](https://dev.to/tasbi03/a-journey-through-code-reviews-the-good-the-bad-and-the-wait-what-moments-3mmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
