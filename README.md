@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Search Functionality in Django Rest Framework &lpar;DRF&rpar;](https://dev.to/theresa_okoro/implementing-search-functionality-in-django-rest-framework-drf-2fp0)
-- [1371. Find the Longest Substring Containing Vowels in Even Counts](https://dev.to/mdarifulhaque/1371-find-the-longest-substring-containing-vowels-in-even-counts-1kdj)
-- [Projeto de Integração: FastAPI, Jinja2 e JSX](https://dev.to/gustavogarciapereira/projeto-de-integracao-fastapi-jinja2-e-jsx-3chf)
-- [Desenvolvendo Soft Skills: Como Um Bootcamp Abriu Minha Mente Para Oportunidades no Mercado de Trabalho](https://dev.to/assis-berlanda/desenvolvendo-soft-skills-como-um-bootcamp-abriu-minha-mente-para-oportunidades-no-mercado-de-trabalho-450m)
-- [Transforming Java 8 Code to Java 17 Using Amazon Q Transformation](https://dev.to/sunil_yaduvanshi/transforming-java-8-code-to-java-17-using-amazon-q-transformation-5bng)
+- [SSR in Next.js 14: What’s New in App Routing Compared to Page Routing](https://dev.to/asim_khan_cbe65e41bcbbc65/understanding-nextjs-page-routing-vs-app-routing-and-ssr-changes-in-nextjs-14-2cge)
+- [Flutter Date and Time Picker](https://dev.to/aadarshk7/flutter-popupmenubutton-1a4i)
+- [Como otimizar seu currículo para vagas na gringa](https://dev.to/lucasheriques/como-otimizar-seu-curriculo-para-vagas-na-gringa-1ffh)
+- [Shut up TensorFlow](https://dev.to/tallesl/shut-up-tensorflow-8)
+- [AWS Pricing Calculator History Tracker](https://dev.to/girishmukim/aws-pricing-calculator-history-tracker-2lce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
