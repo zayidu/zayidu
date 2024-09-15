@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Collections.min&lpar;&rpar; method in Java](https://dev.to/realnamehidden1_61/collectionsmin-method-in-java-4505)
-- [Automate Like a Pro: Mastering Component Generation in React with Generate React CLI](https://dev.to/01erik33/automate-like-a-pro-mastering-component-generation-in-react-with-generate-react-cli-51h)
-- [Minimum window substring](https://dev.to/prashantrmishra/minimum-window-substring-3khn)
-- [Webpak 5 Series Part-2](https://dev.to/mdiffshashank/webpak-series-part-2-2jji)
-- [Laravel Auth Routes Tutorial](https://dev.to/kavya-sahai-god/laravel-auth-routes-tutorial-488c)
+- [Collections frequency method in java | Collections framework | Java](https://dev.to/realnamehidden1_61/collections-frequency-method-in-java-collections-framework-java-25bb)
+- [Understanding UUIDs: A Backend Engineer’s Guide for Junior Developers](https://dev.to/usooldatascience/understanding-uuids-a-backend-engineers-guide-for-junior-developers-5075)
+- [Java logical interview question | Sum a list but ignore any duplicates codewars java solution](https://dev.to/realnamehidden1_61/java-logical-interview-question-sum-a-list-but-ignore-any-duplicates-codewars-java-solution-54lc)
+- [Collections.reverseOrder&lpar;&rpar; method in Java](https://dev.to/realnamehidden1_61/collectionsreverseorder-method-in-java-1dpc)
+- [Automatic Data Normalization: Streamlining Data with MS Azure and AWS](https://dev.to/saboor_ahmedawan_8268070/automatic-data-normalization-streamlining-data-with-ms-azure-and-aws-4179)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
