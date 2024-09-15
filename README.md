@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to add RAG &amp; LLM capability to Amazon Lex using QnA Intent and Amazon Bedrock models](https://dev.to/amlana24/how-to-add-rag-llm-capability-to-amazon-lex-using-qna-intent-and-amazon-bedrock-models-590h)
-- [VSCode Extension for finding Vulnerabilities and Outdated Dependencies.](https://dev.to/sunil_kumar_69cd12f1d738b/vscode-extension-for-finding-vulnerabilities-and-outdated-dependencies-2jmm)
-- [The Power of Reflection: Recognizing Your Efforts. Don&#39;t Let Expectations Steal Your Joy.](https://dev.to/gregharis/the-power-of-reflection-recognizing-your-efforts-dont-let-expectations-steal-your-joy-43nd)
-- [Top 6 Queue Management Solutions for Your Next.js App &lpar;2024&rpar;](https://dev.to/ethanleetech/top-6-queue-management-solutions-for-your-nextjs-app-2024-mal)
-- [Explorando org-babel en emacs](https://dev.to/johnnatan_sandovalcardon/explorando-org-babel-en-emacs-4ak0)
+- [Say Goodbye to Try/Catch with This New ECMAScript Operator! 🚀](https://dev.to/safdarali/say-goodbye-to-trycatch-with-this-new-ecmascript-operator-3a7j)
+- [Let me tell you a story](https://dev.to/morphzg/i-will-tell-you-a-story-n5k)
+- [Open Source Adventures: First Contributions and Collaborations](https://dev.to/majd_almnayer_2101/open-source-adventures-first-contributions-and-collaborations-2060)
+- [Thrilling Week in Sports: Highlights and Standouts](https://dev.to/emma_mblankenship_6be4b/thrilling-week-in-sports-highlights-and-standouts-507k)
+- [Unveiling Azure: The Future of Cloud for .NET Developers](https://dev.to/fabrcio_marcondessantos/unveiling-azure-the-future-of-cloud-for-net-developers-bml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
