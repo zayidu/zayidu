@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Higher-Order Functions in JavaScript](https://dev.to/nozibul_islam_113b1d5334f/higher-order-functions-in-javascript-2p8o)
-- [brainstorm black](https://dev.to/lektorfuja/brainstorm-black-57j8)
-- [Guide to REST API Design and Naming Conventions](https://dev.to/rahul_ranjan_7200/guide-to-rest-api-design-and-naming-conventions-46co)
-- [Microsoft Interview: Tips and Insights from Successful SDE-2 Application &lpar;Offer 2024&rpar;](https://dev.to/alexr/microsoft-interview-tips-and-insights-from-successful-sde-2-application-offer-2024-232f)
-- [Why your API Doc Structure Matters: How these 5 Principles make it easy for your readers](https://dev.to/hexmos/why-your-api-doc-structure-matters-how-these-5-principles-make-it-easy-for-your-readers-1gdp)
+- [Implementing Search Functionality in Django Rest Framework &lpar;DRF&rpar;](https://dev.to/theresa_okoro/implementing-search-functionality-in-django-rest-framework-drf-2fp0)
+- [1371. Find the Longest Substring Containing Vowels in Even Counts](https://dev.to/mdarifulhaque/1371-find-the-longest-substring-containing-vowels-in-even-counts-1kdj)
+- [Projeto de Integração: FastAPI, Jinja2 e JSX](https://dev.to/gustavogarciapereira/projeto-de-integracao-fastapi-jinja2-e-jsx-3chf)
+- [Desenvolvendo Soft Skills: Como Um Bootcamp Abriu Minha Mente Para Oportunidades no Mercado de Trabalho](https://dev.to/assis-berlanda/desenvolvendo-soft-skills-como-um-bootcamp-abriu-minha-mente-para-oportunidades-no-mercado-de-trabalho-450m)
+- [Transforming Java 8 Code to Java 17 Using Amazon Q Transformation](https://dev.to/sunil_yaduvanshi/transforming-java-8-code-to-java-17-using-amazon-q-transformation-5bng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
