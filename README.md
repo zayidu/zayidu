@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure AWS API Gateway with IAM](https://dev.to/adilansari/secure-aws-api-gateway-with-iam-3n29)
-- [Mastering Command-Line Interfaces &lpar;CLI&rpar; in Python: A Comprehensive Guide](https://dev.to/usooldatascience/mastering-command-line-interfaces-cli-in-python-a-comprehensive-guide-10bc)
-- [Efficient Database Management: How SQLynx Helps You Easily Navigate Big Data](https://dev.to/urlewicz_aicha_d14af69bc8/efficient-database-management-how-sqlynx-helps-you-easily-navigate-big-data-2dhi)
-- [Recipe Genie supercharged with AI](https://dev.to/komsenapati/recipe-genie-supercharged-with-ai-121l)
-- [Mastering Python’s argparse: A Comprehensive Guide for Beginners](https://dev.to/usooldatascience/mastering-pythons-argparse-a-comprehensive-guide-for-beginners-48fn)
+- [Visualize Data using Amazon Quick Sight](https://dev.to/safi-ullah/visualize-data-using-amazon-quick-sight-355c)
+- [The React Hooks Explained](https://dev.to/dianalanciano/the-react-hooks-explained-1mlh)
+- [Context in React](https://dev.to/singhpritpal04/context-in-react-20de)
+- [kubewall : A User-Friendly Kubernetes GUI Dashboard](https://dev.to/abhimanyu003/kubewall-a-user-friendly-kubernetes-gui-dashboard-43ik)
+- [My Journey in Mobile App Development: Completing the &quot;Mobile App Development Ecosystem&quot; Module](https://dev.to/iamrupambiswas/my-journey-in-mobile-app-development-completing-the-mobile-app-development-ecosystem-module-49j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
