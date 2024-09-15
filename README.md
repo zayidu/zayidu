@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Object-Oriented Programming - The Bases](https://dev.to/f_rozendo/object-oriented-programming-the-bases-1b7e)
-- [Cómo escribir archivos de log en Go](https://dev.to/fabkdev/como-escribir-archivos-de-log-en-go-916)
-- [How to configure a split-traffic VPN to access private S3 buckets](https://dev.to/aws-builders/how-to-configure-a-split-traffic-vpn-to-access-private-s3-buckets-420i)
-- [Deploy Simple Java Application using Docker Compose.](https://dev.to/divine_kenechukwu_fc921c4/deploy-simple-java-application-using-docker-compose-41mp)
-- [Aspiring Programmer](https://dev.to/mushfiqul_islam_dfe0370b7/aspiring-programmer-2946)
+- [Quick tip: Build Vector Embeddings for Video via Python Notebook &amp; OpenAI CLIP](https://dev.to/singlestore/quick-tip-build-vector-embeddings-for-video-via-python-notebook-openai-clip-24d9)
+- [How I Created a Tool — Medium2Markdown](https://dev.to/aws-builders/how-i-created-a-tool-medium2markdown-40k)
+- [Git: Why Version Control is a Developer&#39;s Best Friend](https://dev.to/malikhaziq/git-why-version-control-is-a-developers-best-friend-3fmh)
+- [Canceling a Coroutine Simplified ❌](https://dev.to/waqas334/canceling-a-coroutine-simplified-amo)
+- [Avoid AWS Billing Surprises: Simplify Cloud FinOps](https://dev.to/mr-ashishpanda/avoid-aws-billing-surprises-simplify-cloud-finops-4jji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
