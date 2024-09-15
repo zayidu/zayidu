@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a secure AWS RDS instance with CDK](https://dev.to/rodrigo_carvajal/create-a-secure-aws-rds-instance-with-cdk-5baf)
-- [Top 7 Backend-as-a-Service &lpar;BaaS&rpar; for Next.js](https://dev.to/ethanleetech/top-7-backend-as-a-service-baas-for-nextjs-32mc)
-- [How to install bootstrap 5 with Webpacker in a Ruby on Rails 6 application on Ubuntu](https://dev.to/alexandrecalaca/how-to-install-bootstrap-5-with-webpacker-in-a-ruby-on-rails-6-application-on-ubuntu-39bi)
-- [Jetmaker - open source framework for building distributed systems in Python](https://dev.to/gavin121/jetmaker-open-source-framework-for-building-distributed-systems-in-python-343g)
-- [Coding Just for Fun](https://dev.to/jairojair/coding-just-for-fun-2g84)
+- [Pooling AMQP TLS connections in Elixir for high throughput and low latency](https://dev.to/darnahsan/pooling-amqp-tls-connections-in-elixir-for-high-throughput-and-low-latency-3pgb)
+- [How do DBAs get promoted in the workplace](https://dev.to/urlewicz_aicha_d14af69bc8/how-do-dbas-get-promoted-in-the-workplace-3cb7)
+- [How AI is Becoming Your Best Friend &lpar;and Secret Weapon&rpar; as a Web Developer](https://dev.to/bhuwan71/how-ai-is-becoming-your-best-friend-and-secret-weapon-as-a-web-developer-2hk3)
+- [Building Scalable SaaS Solutions with Spring Boot](https://dev.to/virajlakshitha/building-scalable-saas-solutions-with-spring-boot-31kd)
+- [XRPL: Console log the ledger index](https://dev.to/ithinkobjects/xrpl-console-log-the-ledger-index-17c6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
