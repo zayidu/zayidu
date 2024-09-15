@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SSR in Next.js 14: What’s New in App Routing Compared to Page Routing](https://dev.to/asim_khan_cbe65e41bcbbc65/understanding-nextjs-page-routing-vs-app-routing-and-ssr-changes-in-nextjs-14-2cge)
-- [Flutter Date and Time Picker](https://dev.to/aadarshk7/flutter-popupmenubutton-1a4i)
-- [Como otimizar seu currículo para vagas na gringa](https://dev.to/lucasheriques/como-otimizar-seu-curriculo-para-vagas-na-gringa-1ffh)
-- [Shut up TensorFlow](https://dev.to/tallesl/shut-up-tensorflow-8)
-- [AWS Pricing Calculator History Tracker](https://dev.to/girishmukim/aws-pricing-calculator-history-tracker-2lce)
+- [Why the Streams API is a Game-Changer for Web Developers](https://dev.to/anasmustafa123/why-the-streams-api-is-a-game-changer-for-web-developers-1030)
+- [Hey I have found a Cool Tool😊: Box Shadow Generator](https://dev.to/areeb_anwar_813df06ee1124/hey-i-have-found-a-cool-tool-box-shadow-generator-36bj)
+- [How to Use Unique Key Constraints in Database Tables](https://dev.to/j700abe/how-to-use-unique-key-constraints-in-database-tables-3h3b)
+- [Why Everyone Should Learn Go &lpar;Even If You Think You Don&#39;t Need Another Language in Your Life&rpar;](https://dev.to/pranta/why-everyone-should-learn-go-even-if-you-think-you-dont-need-another-language-in-your-life-670)
+- [Building a RESTful API with Node.js: A Step-by-Step Guide - Part One](https://dev.to/hakimmohamed/building-a-restful-api-with-nodejs-a-step-by-step-guide-part-one-3pmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
