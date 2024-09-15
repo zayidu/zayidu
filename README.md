@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Array Methods: A Comprehensive Guide](https://dev.to/who_tf_cares/javascript-array-methods-a-comprehensive-guide-4966)
-- [ArgoCD - A GitOps continuous delivery &lpar;CD&rpar; tool: Day 43 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/argocd-a-gitops-continuous-delivery-cd-tool-day-43-of-50-days-devops-tools-series-3533)
-- [Evaluating A Machine Learning Classification Model](https://dev.to/chris22ozor/evaluating-a-machine-learning-classification-model-7m1)
-- [Play Store Pre-registration gotchas](https://dev.to/zlmr/play-store-pre-registration-gotchas-5h51)
-- [NestJS - criar um endpoint para upload de diversos arquivos](https://dev.to/leonardominora/nestjs-upload-e-armazenamento-local-de-arquivo-3gbn)
+- [The Power of Reflection: Recognizing Your Efforts. Don&#39;t Let Expectations Steal Your Joy.](https://dev.to/gregharis/the-power-of-reflection-recognizing-your-efforts-dont-let-expectations-steal-your-joy-43nd)
+- [Top 6 Queue Management Solutions for Your Next.js App &lpar;2024&rpar;](https://dev.to/ethanleetech/top-6-queue-management-solutions-for-your-nextjs-app-2024-mal)
+- [Explorando org-babel en emacs](https://dev.to/johnnatan_sandovalcardon/explorando-org-babel-en-emacs-4ak0)
+- [LEARNING HOW TO: useEFFECT and useSTATE, A REACT APP.](https://dev.to/boitumelo_ngwenya_de/learning-how-to-useeffect-and-usestate-a-react-app-1kap)
+- [Install IBM Db2 Community Edition on Amazon EC2 &lpar;Ubuntu&rpar;](https://dev.to/aws-builders/install-ibm-db2-community-edition-on-amazon-ec2-ubuntu-22io)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
