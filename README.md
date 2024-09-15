@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Views no DRF: Funções ou classes? A escolha simples](https://dev.to/lmancini/views-no-drf-funcoes-ou-classes-a-escolha-simples-4jge)
-- [Kako se Pripremiti za Intervju za React Developera?](https://dev.to/jelena_petkovic/kako-se-pripremiti-za-intervju-za-react-developera-1e5a)
-- [In the future, will it be possible to have links on the Codeberg dev community profile or on Gitlab?](https://dev.to/sc0v0ne/in-the-future-will-it-be-possible-to-have-links-on-the-codeberg-dev-community-profile-or-on-gitlab-4hdn)
-- [Social network X &lpar;Twitter&rpar; was banned in Brazil and is it possible to have new links?](https://dev.to/sc0v0ne/social-network-x-twitter-was-banned-in-brazil-and-is-it-possible-to-have-new-links-3k6e)
-- [Partnership between Dev Community and Kaggle to help writers with their notebooks?](https://dev.to/sc0v0ne/partnership-between-dev-community-and-kaggle-to-help-writers-with-their-notebooks-5e66)
+- [Flashing Message in Laravel](https://dev.to/fadlidotdev/flashing-message-in-laravel-a22)
+- [Can you solve this problem?](https://dev.to/paul_freeman/can-you-solve-this-problem-e22)
+- [Love you all](https://dev.to/babar_ali/a-3hd1)
+- [Transform Your Code with ts-pattern](https://dev.to/babar_ali/transform-your-code-with-ts-pattern-h6d)
+- [GG Coding Tips for Optimizing Performance: Speeding Up Your Code](https://dev.to/bytesupreme/gg-coding-tips-for-optimizing-performance-speeding-up-your-code-4l45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
