@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Gland](https://dev.to/m__mdy__m/introduction-to-gland-1ien)
-- [6 Essential JavaScript Object Static Methods](https://dev.to/jenil/6-essential-javascript-object-static-methods-2477)
-- [Understanding DevOps and Its Impact on Modern Businesses](https://dev.to/ismailco96/understanding-devops-and-its-impact-on-modern-businesses-3pi)
-- [Mediator](https://dev.to/prashantrmishra/mediator-171p)
-- [Signup html and css](https://dev.to/prince_beec5ccde00b7c6c73/signup-html-and-css-37i4)
+- [Spring Boot RestTemplate postForEntity method](https://dev.to/realnamehidden1_61/spring-boot-resttemplate-postforentity-method-4l25)
+- [Dica C#: Required Members](https://dev.to/juarezasjunior/dica-c-required-members-59al)
+- [C# Tip: Required Members](https://dev.to/juarezasjunior/c-tip-required-members-14el)
+- [Building a bill splitting app - splitBhai &lpar;1/n&rpar; as a side project](https://dev.to/abhishek_writes/building-a-bill-splitting-app-splitbhai-1n-as-a-side-project-4p27)
+- [Growing on Twitter | Twitter Cheatsheet](https://dev.to/jmatah/growing-on-twitter-twitter-cheatsheet-212a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
