@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Visualize Data using Amazon Quick Sight](https://dev.to/safi-ullah/visualize-data-using-amazon-quick-sight-355c)
-- [The React Hooks Explained](https://dev.to/dianalanciano/the-react-hooks-explained-1mlh)
-- [Context in React](https://dev.to/singhpritpal04/context-in-react-20de)
-- [kubewall : A User-Friendly Kubernetes GUI Dashboard](https://dev.to/abhimanyu003/kubewall-a-user-friendly-kubernetes-gui-dashboard-43ik)
-- [My Journey in Mobile App Development: Completing the &quot;Mobile App Development Ecosystem&quot; Module](https://dev.to/iamrupambiswas/my-journey-in-mobile-app-development-completing-the-mobile-app-development-ecosystem-module-49j6)
+- [Collections.min&lpar;&rpar; method in Java](https://dev.to/realnamehidden1_61/collectionsmin-method-in-java-4505)
+- [Automate Like a Pro: Mastering Component Generation in React with Generate React CLI](https://dev.to/01erik33/automate-like-a-pro-mastering-component-generation-in-react-with-generate-react-cli-51h)
+- [Minimum window substring](https://dev.to/prashantrmishra/minimum-window-substring-3khn)
+- [Webpak 5 Series Part-2](https://dev.to/mdiffshashank/webpak-series-part-2-2jji)
+- [Laravel Auth Routes Tutorial](https://dev.to/kavya-sahai-god/laravel-auth-routes-tutorial-488c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
