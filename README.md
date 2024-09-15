@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick tip: Build Vector Embeddings for Video via Python Notebook &amp; OpenAI CLIP](https://dev.to/singlestore/quick-tip-build-vector-embeddings-for-video-via-python-notebook-openai-clip-24d9)
-- [How I Created a Tool — Medium2Markdown](https://dev.to/aws-builders/how-i-created-a-tool-medium2markdown-40k)
-- [Git: Why Version Control is a Developer&#39;s Best Friend](https://dev.to/malikhaziq/git-why-version-control-is-a-developers-best-friend-3fmh)
-- [Canceling a Coroutine Simplified ❌](https://dev.to/waqas334/canceling-a-coroutine-simplified-amo)
-- [Avoid AWS Billing Surprises: Simplify Cloud FinOps](https://dev.to/mr-ashishpanda/avoid-aws-billing-surprises-simplify-cloud-finops-4jji)
+- [Create a secure AWS RDS instance with CDK](https://dev.to/rodrigo_carvajal/create-a-secure-aws-rds-instance-with-cdk-5baf)
+- [Top 7 Backend-as-a-Service &lpar;BaaS&rpar; for Next.js](https://dev.to/ethanleetech/top-7-backend-as-a-service-baas-for-nextjs-32mc)
+- [How to install bootstrap 5 with Webpacker in a Ruby on Rails 6 application on Ubuntu](https://dev.to/alexandrecalaca/how-to-install-bootstrap-5-with-webpacker-in-a-ruby-on-rails-6-application-on-ubuntu-39bi)
+- [Jetmaker - open source framework for building distributed systems in Python](https://dev.to/gavin121/jetmaker-open-source-framework-for-building-distributed-systems-in-python-343g)
+- [Coding Just for Fun](https://dev.to/jairojair/coding-just-for-fun-2g84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
