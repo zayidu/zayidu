@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Collections frequency method in java | Collections framework | Java](https://dev.to/realnamehidden1_61/collections-frequency-method-in-java-collections-framework-java-25bb)
-- [Understanding UUIDs: A Backend Engineer’s Guide for Junior Developers](https://dev.to/usooldatascience/understanding-uuids-a-backend-engineers-guide-for-junior-developers-5075)
-- [Java logical interview question | Sum a list but ignore any duplicates codewars java solution](https://dev.to/realnamehidden1_61/java-logical-interview-question-sum-a-list-but-ignore-any-duplicates-codewars-java-solution-54lc)
-- [Collections.reverseOrder&lpar;&rpar; method in Java](https://dev.to/realnamehidden1_61/collectionsreverseorder-method-in-java-1dpc)
-- [Automatic Data Normalization: Streamlining Data with MS Azure and AWS](https://dev.to/saboor_ahmedawan_8268070/automatic-data-normalization-streamlining-data-with-ms-azure-and-aws-4179)
+- [Top Study Strategies for Passing the KCNA Exam](https://dev.to/tondrejk/top-study-strategies-for-passing-the-kcna-exam-368n)
+- [Chain of responsibility](https://dev.to/prashantrmishra/chain-of-responsibility-43a4)
+- [Top Study Strategies for Passing the KCNA Exam](https://dev.to/tondrejk/top-study-strategies-for-passing-the-kcna-exam-bh3)
+- [🚀 10 Automation Tools Every Developer Should Use to Supercharge Productivity ⚙️🤖](https://dev.to/mirzahanzla/10-automation-tools-every-developer-should-use-to-supercharge-productivity-fia)
+- [⚡ 10 Coding Practices That Will Make You a Faster Developer🖥️💨](https://dev.to/mirzahanzla/10-coding-practices-that-will-make-you-a-faster-developer-4n8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
