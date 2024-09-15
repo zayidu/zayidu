@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flashing Message in Laravel](https://dev.to/fadlidotdev/flashing-message-in-laravel-a22)
-- [Can you solve this problem?](https://dev.to/paul_freeman/can-you-solve-this-problem-e22)
-- [Love you all](https://dev.to/babar_ali/a-3hd1)
-- [Transform Your Code with ts-pattern](https://dev.to/babar_ali/transform-your-code-with-ts-pattern-h6d)
-- [GG Coding Tips for Optimizing Performance: Speeding Up Your Code](https://dev.to/bytesupreme/gg-coding-tips-for-optimizing-performance-speeding-up-your-code-4l45)
+- [Higher-Order Functions in JavaScript](https://dev.to/nozibul_islam_113b1d5334f/higher-order-functions-in-javascript-2p8o)
+- [brainstorm black](https://dev.to/lektorfuja/brainstorm-black-57j8)
+- [Guide to REST API Design and Naming Conventions](https://dev.to/rahul_ranjan_7200/guide-to-rest-api-design-and-naming-conventions-46co)
+- [Microsoft Interview: Tips and Insights from Successful SDE-2 Application &lpar;Offer 2024&rpar;](https://dev.to/alexr/microsoft-interview-tips-and-insights-from-successful-sde-2-application-offer-2024-232f)
+- [Why your API Doc Structure Matters: How these 5 Principles make it easy for your readers](https://dev.to/hexmos/why-your-api-doc-structure-matters-how-these-5-principles-make-it-easy-for-your-readers-1gdp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
