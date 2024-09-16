@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I tested OpenAI&#39;s o1-preview for hours—You won&#39;t believe what I found 🤯](https://dev.to/composiodev/i-tested-openais-o1-preview-for-hours-you-wont-believe-what-i-found-n6i)
-- [Milvus Meetup Monday - 16 Sept 2024](https://dev.to/tspannhw/milvus-meetup-monday-16-sept-2024-3id6)
-- [Server-side rendered SPAs with ASP.NET and no Javascript](https://dev.to/dgenezini/server-side-rendered-spas-with-aspnet-and-no-javascript-46d4)
-- [Cursor AI: From Installation to Mastery on Linux 2024 &lpar;Tutorial&rpar;](https://dev.to/proflead/cursor-ai-from-installation-to-mastery-on-linux-2024-tutorial-1k79)
-- [Transitioning from React.js to Next.js || Enhancing Frontend and Backend Synergy](https://dev.to/tobidelly/transitioning-from-reactjs-to-nextjs-enhancing-frontend-and-backend-synergy-4c2k)
+- [Getting Started with AI Development: My Journey with Embeddings and Vector Databases](https://dev.to/bolajibolajoko51/getting-started-with-ai-development-my-journey-with-embeddings-and-vector-databases-588g)
+- [SOLID Principles in object-oriented design](https://dev.to/muzammilnm/solid-principles-in-object-oriented-design-37pg)
+- [Build an image editor with Fabric.js v6](https://dev.to/logrocket/build-an-image-editor-with-fabricjs-v6-35n9)
+- [MERN Stack Employee Management System – Login Functionality &amp; Authentication Setup &lpar;Part 2&rpar;](https://dev.to/m_yousaf/mern-stack-employee-management-system-login-functionality-authentication-setup-part-2-40f4)
+- [New Dashboard: Build, Run, and Scale Apps in Minutes with a Simple and Elegant Interface](https://dev.to/koyeb/new-dashboard-build-run-and-scale-apps-in-minutes-with-a-simple-and-elegant-interface-4pjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
