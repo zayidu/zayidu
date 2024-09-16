@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Next.js API Routes](https://dev.to/kartikmehta8/introduction-to-nextjs-api-routes-372)
-- [Choosing Between MEAN and MERN. Key Differences in 4 Words](https://dev.to/shahfazleelahi/choosing-between-mean-and-mern-key-differences-in-4-words-10hc)
-- [Clean Code: Um Clássico ou um Manual de Burocracia?](https://dev.to/matheuslf/clean-code-um-classico-ou-um-manual-de-burocracia-15mn)
-- [WICK-A11Y Chapter 1.2.1 - Voice Support: The Accessibility Cypress Plugin that Talks More Than John Wick in His Movies](https://dev.to/sebastianclavijo/wick-a11y-v121-voice-the-accessibility-cypress-plugin-that-talks-more-than-john-wick-in-his-movies-8c8)
-- [AvgPool3d&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/avgpool3d-in-pytorch-4bb5)
+- [MSYS2 alternatif kepada WSL2](https://dev.to/hardyweb/msys2-alternatif-kepada-wsl2-1k0k)
+- [How Artificial Intelligence is Revolutionising Pergola Design](https://dev.to/luke_leech_e6bebf0dcc50d6/how-artificial-intelligence-is-revolutionising-pergola-design-132k)
+- [CSS Art: Space - UFO animation](https://dev.to/nataliafdev/css-art-space-ufo-animation-94h)
+- [Securely Connecting Azure Container Apps to Azure OpenAI Using User Managed Identity](https://dev.to/azure/securely-connecting-azure-container-apps-to-azure-openai-using-user-managed-identity-3369)
+- [Refactoring 016 - Build With The Essence](https://dev.to/mcsee/refactoring-016-build-with-the-essence-2c3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
