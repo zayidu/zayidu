@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Full Fine Tuning of FLUX yields way better results than LoRA training as expected, overfitting and bleeding reduced a lot](https://dev.to/furkangozukara/full-fine-tuning-of-flux-yields-way-better-results-than-lora-training-as-expected-overfitting-and-bleeding-reduced-a-lot-3g6g)
-- [How to Implement Prompt Engineering for Optimizing LLM Performance?](https://dev.to/hakeem/how-to-implement-prompt-engineering-for-optimizing-llm-performance-5hhi)
-- [How to Implement Prompt Engineering for Optimizing LLM Performance?](https://dev.to/hakeem/how-to-implement-prompt-engineering-for-optimizing-llm-performance-2709)
-- [Difference Between Spread Syntax &lpar;...&rpar; and Rest Parameters &lpar;...&rpar; in JavaScript.](https://dev.to/catwebdev/difference-between-spread-syntax-and-rest-parameters-in-javascript-cb3)
-- [Test Driven Api Development With Cypress](https://dev.to/papasanto/test-driven-api-development-with-cypress-3l6d)
+- [I tested OpenAI&#39;s o1-preview for hours—You won&#39;t believe what I found 🤯](https://dev.to/composiodev/i-tested-openais-o1-preview-for-hours-you-wont-believe-what-i-found-n6i)
+- [Milvus Meetup Monday - 16 Sept 2024](https://dev.to/tspannhw/milvus-meetup-monday-16-sept-2024-3id6)
+- [Server-side rendered SPAs with ASP.NET and no Javascript](https://dev.to/dgenezini/server-side-rendered-spas-with-aspnet-and-no-javascript-46d4)
+- [Cursor AI: From Installation to Mastery on Linux 2024 &lpar;Tutorial&rpar;](https://dev.to/proflead/cursor-ai-from-installation-to-mastery-on-linux-2024-tutorial-1k79)
+- [Transitioning from React.js to Next.js || Enhancing Frontend and Backend Synergy](https://dev.to/tobidelly/transitioning-from-reactjs-to-nextjs-enhancing-frontend-and-backend-synergy-4c2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
