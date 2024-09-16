@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AIM Weekly for 16 Sept 2024](https://dev.to/tspannhw/aim-weekly-for-16-sept-2024-236h)
-- [What is AWS and How Can It Transform Your Cloud Infrastructure?](https://dev.to/eva_rossi/what-is-aws-and-how-can-it-transform-your-cloud-infrastructure-3m17)
-- [Mastering the Event Loop for High-Performance JavaScript](https://dev.to/sarvabharan/mastering-the-event-loop-for-high-performance-javascript-2754)
-- [Pure Function in JavaScript](https://dev.to/nozibul_islam_113b1d5334f/pure-function-in-javascript-3ck)
-- [Kubernetes- Advanced Concepts](https://dev.to/akhil_mittal/kubernetes-advanced-concepts-4anf)
+- [Full Fine Tuning of FLUX yields way better results than LoRA training as expected, overfitting and bleeding reduced a lot](https://dev.to/furkangozukara/full-fine-tuning-of-flux-yields-way-better-results-than-lora-training-as-expected-overfitting-and-bleeding-reduced-a-lot-3g6g)
+- [How to Implement Prompt Engineering for Optimizing LLM Performance?](https://dev.to/hakeem/how-to-implement-prompt-engineering-for-optimizing-llm-performance-5hhi)
+- [How to Implement Prompt Engineering for Optimizing LLM Performance?](https://dev.to/hakeem/how-to-implement-prompt-engineering-for-optimizing-llm-performance-2709)
+- [Difference Between Spread Syntax &lpar;...&rpar; and Rest Parameters &lpar;...&rpar; in JavaScript.](https://dev.to/catwebdev/difference-between-spread-syntax-and-rest-parameters-in-javascript-cb3)
+- [Test Driven Api Development With Cypress](https://dev.to/papasanto/test-driven-api-development-with-cypress-3l6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
