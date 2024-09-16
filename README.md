@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert PDF Pages to Images in Node.js](https://dev.to/yashnarkhedkar/how-to-convert-pdf-pages-to-images-in-nodejs-2a6k)
-- [Key Differences Between Supervised, Unsupervised, and Reinforcement Learning](https://dev.to/adityabhuyan/key-differences-between-supervised-unsupervised-and-reinforcement-learning-280n)
-- [How to Connect Java Database Connectivity with MySQL in Visual Studio Code on macOS](https://dev.to/adityabhuyan/how-to-connect-java-database-connectivity-with-mysql-in-visual-studio-code-on-macos-1m4g)
-- [How to Create a Type to Retrieve All Keys of an Object in TypeScript](https://dev.to/zacharylee/how-to-create-a-type-to-retrieve-all-keys-of-an-object-in-typescript-54dn)
-- [Why Choose a Relational Database Over NoSQL? A Detailed Analysis](https://dev.to/adityabhuyan/why-choose-a-relational-database-over-nosql-a-detailed-analysis-1n7i)
+- [⚔️ Next.js vs Express: The Battle of Framework Giants in 2024—Which One Should You Choose?](https://dev.to/dharamgfx/nextjs-vs-express-the-battle-of-framework-giants-in-2024-which-one-should-you-choose-128h)
+- [How to Set Up User Cookies and Connect Google Analytics in Your React App](https://dev.to/qobi/how-to-set-up-user-cookies-and-connect-google-analytics-in-your-react-app-2mi5)
+- [Cómo jugar a rol me hizo mejor programadora](https://dev.to/miasalazar/como-jugar-a-rol-me-hizo-mejor-programadora-3f66)
+- [How playing Dungeons and Dragons has made me a better programmer](https://dev.to/miasalazar/how-playing-dungeons-and-dragons-has-made-me-a-better-programmer-1edm)
+- [Using SCSS And TailwindCSS in Laravel Projects Code Examples](https://dev.to/danish/using-scss-and-tailwindcss-in-laravel-projects-code-examples-56a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
