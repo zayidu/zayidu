@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure DevOps Series - Azure Boards](https://dev.to/prodevopsguytech/azure-devops-series-azure-boards-86)
-- [Azure DevOps - Basics](https://dev.to/prodevopsguytech/azure-devops-basics-5ni)
-- [Understanding GDPR and Data Privacy in AI Educational Tools](https://dev.to/emmasmith/understanding-gdpr-and-data-privacy-in-ai-educational-tools-3po1)
-- [Azure DevOps Zero to Hero Series](https://dev.to/prodevopsguytech/azure-devops-zero-to-hero-series-145m)
-- [Uncertain Job Market as a Fresh Graduate](https://dev.to/santosh_kalyankumar_ec11/uncertain-job-market-as-a-fresh-graduate-407f)
+- [I’m thrilled to share my latest project with everyone – my personal portfolio! 🚀](https://dev.to/phongphanq089/im-thrilled-to-share-my-latest-project-with-everyone-my-personal-portfolio-4mdj)
+- [Jergen gets Normal Mapped](https://dev.to/downtherabbithole/jergen-gets-normal-mapped-aaj)
+- [Meme Monday](https://dev.to/techdogs_inc/meme-monday-2nl6)
+- [Team Section using HTML and CSS](https://dev.to/kaja_uvais_a8691e947dd399/team-section-using-html-and-css-47cm)
+- [Day 77 / 100 Days of Code: Credit Card Validator Challenge](https://dev.to/jacobsternx/day-77-100-days-of-code-credit-card-validator-challenge-93m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
