@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Fragments: A Complete Guide](https://dev.to/codeparrot/react-fragments-a-complete-guide-1b4e)
-- [Can AI build a deployable API?](https://dev.to/mattvoget/can-ai-build-a-deployable-api-4j06)
-- [Master the Art of Focus: Proven Strategies for Programmers to Boost Productivity](https://dev.to/vishnusatheesh/master-the-art-of-focus-proven-strategies-for-programmers-to-boost-productivity-17hp)
-- [Kada koristiti type, a kada interface u TypeScript-u?](https://dev.to/jelena_petkovic/kada-koristiti-type-a-kada-interface-u-typescript-u-35np)
-- [4 Best Rate Limiting Solutions for Next.js Apps &lpar;2024&rpar;](https://dev.to/ethanleetech/4-best-rate-limiting-solutions-for-nextjs-apps-2024-3ljj)
+- [Introducing simpledev.css](https://dev.to/jhonkaman/introducing-simpledevcss-15ca)
+- [Are JavaScript Libraries Getting Out of Hand?](https://dev.to/ife_oluwa/are-javascript-libraries-getting-out-of-hand-7lj)
+- [Dashing to the dashboard!](https://dev.to/codecara/dashing-to-the-dashboard-4i4n)
+- [Day 7. First week](https://dev.to/kiolk/day-7-first-week-4a2p)
+- [MuleSoft Associate Certification: Essential Tips and Key Concepts](https://dev.to/ayoub_alouane/mulesoft-associate-certification-essential-tips-and-key-concepts-201c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
