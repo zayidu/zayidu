@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Top Models Like DALL-E 3 Are Accidentally Stealing Superheroes &lpar;And What We Can Do About It&rpar;](https://dev.to/shagun_mistry/how-top-models-like-dall-e-3-are-accidentally-stealing-superheroes-and-what-we-can-do-about-it-1c8j)
-- [How to Turn On Chrome OS Developer Mode: Step-by-Step Guide &lpar;2024&rpar;](https://dev.to/codesolutionshub/how-to-turn-on-chrome-os-developer-mode-step-by-step-guide-2024-190j)
-- [my journey with next,js and django for the past two weeks.](https://dev.to/elvis_munene_eaa0c75fb775/my-journey-with-nextjs-and-django-for-the-past-two-weeks-nd6)
-- [Dropout&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/dropout-in-pytorch-g3d)
-- [YouTube Subscribe Count](https://dev.to/babar_ali/youtube-subscribe-count-5dmj)
+- [React Fragments: A Complete Guide](https://dev.to/codeparrot/react-fragments-a-complete-guide-1b4e)
+- [Can AI build a deployable API?](https://dev.to/mattvoget/can-ai-build-a-deployable-api-4j06)
+- [Master the Art of Focus: Proven Strategies for Programmers to Boost Productivity](https://dev.to/vishnusatheesh/master-the-art-of-focus-proven-strategies-for-programmers-to-boost-productivity-17hp)
+- [Kada koristiti type, a kada interface u TypeScript-u?](https://dev.to/jelena_petkovic/kada-koristiti-type-a-kada-interface-u-typescript-u-35np)
+- [4 Best Rate Limiting Solutions for Next.js Apps &lpar;2024&rpar;](https://dev.to/ethanleetech/4-best-rate-limiting-solutions-for-nextjs-apps-2024-3ljj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
