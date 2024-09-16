@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚔️ Next.js vs Express: The Battle of Framework Giants in 2024—Which One Should You Choose?](https://dev.to/dharamgfx/nextjs-vs-express-the-battle-of-framework-giants-in-2024-which-one-should-you-choose-128h)
-- [How to Set Up User Cookies and Connect Google Analytics in Your React App](https://dev.to/qobi/how-to-set-up-user-cookies-and-connect-google-analytics-in-your-react-app-2mi5)
-- [Cómo jugar a rol me hizo mejor programadora](https://dev.to/miasalazar/como-jugar-a-rol-me-hizo-mejor-programadora-3f66)
-- [How playing Dungeons and Dragons has made me a better programmer](https://dev.to/miasalazar/how-playing-dungeons-and-dragons-has-made-me-a-better-programmer-1edm)
-- [Using SCSS And TailwindCSS in Laravel Projects Code Examples](https://dev.to/danish/using-scss-and-tailwindcss-in-laravel-projects-code-examples-56a7)
+- [Azure DevOps Series - Azure Boards](https://dev.to/prodevopsguytech/azure-devops-series-azure-boards-86)
+- [Azure DevOps - Basics](https://dev.to/prodevopsguytech/azure-devops-basics-5ni)
+- [Understanding GDPR and Data Privacy in AI Educational Tools](https://dev.to/emmasmith/understanding-gdpr-and-data-privacy-in-ai-educational-tools-3po1)
+- [Azure DevOps Zero to Hero Series](https://dev.to/prodevopsguytech/azure-devops-zero-to-hero-series-145m)
+- [Uncertain Job Market as a Fresh Graduate](https://dev.to/santosh_kalyankumar_ec11/uncertain-job-market-as-a-fresh-graduate-407f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
