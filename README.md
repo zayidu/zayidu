@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [High performance Node.js static file serving — using Rust](https://dev.to/encore/high-performance-nodejs-static-file-serving-using-rust-420m)
-- [Micro Frontend Angular Architecture 2024](https://dev.to/viitorcloud/micro-frontend-angular-architecture-2024-4dmk)
-- [AI dev use cases &lpar;other than code gen&rpar;](https://dev.to/dror_wayne_fine/ai-dev-use-cases-other-than-code-gen-3c4a)
-- [Getting Started with AWS CDK: A Comprehensive Guide](https://dev.to/amit_duwal/getting-started-with-aws-cdk-a-comprehensive-guide-1eld)
-- [reasons to work on backend](https://dev.to/nickmokuadev/reasons-to-work-on-backend-4kbb)
+- [🎨 Mastering Dynamic Routing in Next.js: Build Flexible, Scalable Apps 🚀](https://dev.to/hamzakhan/mastering-dynamic-routing-in-nextjs-build-flexible-scalable-apps-ng1)
+- [The Future of Web Hosting: A Guide to Storage-less Web Page Hosting](https://dev.to/imabutahersiddik/the-future-of-web-hosting-a-guide-to-storage-less-web-page-hosting-1095)
+- [How to Tackle Data Structures and Algorithms Like a Pro: Essential Strategies Revealed](https://dev.to/jhk_info/how-to-tackle-data-structures-and-algorithms-like-a-pro-essential-strategies-revealed-2gl)
+- [Better autosave and autoformat in Visual Studio Code](https://dev.to/sapegin/better-autosave-and-autoformat-in-visual-studio-code-1lf2)
+- [Data on Kubernetes: Part 6- Strimzi for running Apache kafka](https://dev.to/aws-builders/data-on-kubernetes-part-6-strimzi-for-running-apache-kafka-100i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
