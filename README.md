@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with AI Development: My Journey with Embeddings and Vector Databases](https://dev.to/bolajibolajoko51/getting-started-with-ai-development-my-journey-with-embeddings-and-vector-databases-588g)
-- [SOLID Principles in object-oriented design](https://dev.to/muzammilnm/solid-principles-in-object-oriented-design-37pg)
-- [Build an image editor with Fabric.js v6](https://dev.to/logrocket/build-an-image-editor-with-fabricjs-v6-35n9)
-- [MERN Stack Employee Management System – Login Functionality &amp; Authentication Setup &lpar;Part 2&rpar;](https://dev.to/m_yousaf/mern-stack-employee-management-system-login-functionality-authentication-setup-part-2-40f4)
-- [New Dashboard: Build, Run, and Scale Apps in Minutes with a Simple and Elegant Interface](https://dev.to/koyeb/new-dashboard-build-run-and-scale-apps-in-minutes-with-a-simple-and-elegant-interface-4pjd)
+- [Unlisted GitHub Repositories](https://dev.to/agentender/unlisted-github-repositories-4jin)
+- [Building Your First AWS VPC with Public and Private Subnets](https://dev.to/prakash_rao/building-your-first-aws-vpc-with-public-and-private-subnets-33jo)
+- [My Journey as a Game Developer: From Single-Player Adventures to Multiplayer Worlds](https://dev.to/hayyanraza/my-journey-as-a-game-developer-from-single-player-adventures-to-multiplayer-worlds-4fm0)
+- [New SDE2 Openings at AWS!](https://dev.to/richivalentine/new-sde2-openings-at-aws-epa)
+- [A Simple Approach to Building a Group Video Chat Web App](https://dev.to/digitallysavvy/a-simple-approach-to-building-a-group-video-chat-web-app-3na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
