@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Developer’s Dilemma: Master the Fundamentals or Fall Behind](https://dev.to/evan_m_wilson/the-developers-dilemma-master-the-fundamentals-or-fall-behind-100p)
-- [ReactDOM.unstable_batchedUpdates in Zustand’s testcase.](https://dev.to/thinkthroo/reactdomunstablebatchedupdates-in-zustands-testcase-4led)
-- [DNS Resolution and TCP Handshake: A Comprehensive Guide](https://dev.to/mahhbubferdous/dns-resolution-and-tcp-handshake-a-comprehensive-guide-4755)
-- [Create Multiple GitHub Actions in a Single Repository](https://dev.to/kimberly_myers_212/create-multiple-github-actions-in-a-single-repository-8d5)
-- [&quot;Learning React&quot; Book Review](https://dev.to/avdev/learning-react-book-review-1d37)
+- [How Top Models Like DALL-E 3 Are Accidentally Stealing Superheroes &lpar;And What We Can Do About It&rpar;](https://dev.to/shagun_mistry/how-top-models-like-dall-e-3-are-accidentally-stealing-superheroes-and-what-we-can-do-about-it-1c8j)
+- [How to Turn On Chrome OS Developer Mode: Step-by-Step Guide &lpar;2024&rpar;](https://dev.to/codesolutionshub/how-to-turn-on-chrome-os-developer-mode-step-by-step-guide-2024-190j)
+- [my journey with next,js and django for the past two weeks.](https://dev.to/elvis_munene_eaa0c75fb775/my-journey-with-nextjs-and-django-for-the-past-two-weeks-nd6)
+- [Dropout&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/dropout-in-pytorch-g3d)
+- [YouTube Subscribe Count](https://dev.to/babar_ali/youtube-subscribe-count-5dmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
