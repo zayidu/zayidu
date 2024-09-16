@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlisted GitHub Repositories](https://dev.to/agentender/unlisted-github-repositories-4jin)
-- [Building Your First AWS VPC with Public and Private Subnets](https://dev.to/prakash_rao/building-your-first-aws-vpc-with-public-and-private-subnets-33jo)
-- [My Journey as a Game Developer: From Single-Player Adventures to Multiplayer Worlds](https://dev.to/hayyanraza/my-journey-as-a-game-developer-from-single-player-adventures-to-multiplayer-worlds-4fm0)
-- [New SDE2 Openings at AWS!](https://dev.to/richivalentine/new-sde2-openings-at-aws-epa)
-- [A Simple Approach to Building a Group Video Chat Web App](https://dev.to/digitallysavvy/a-simple-approach-to-building-a-group-video-chat-web-app-3na)
+- [Rethinking code reviews with stacked PRs](https://dev.to/dphenomenal/rethinking-code-reviews-with-stacked-prs-3dih)
+- [Nest - Armazenamento local de upload](https://dev.to/leonardominora/nest-armazenamento-local-de-upload-7ne)
+- [JavaScript Programming Tutorials: Enhance Your Skills with LabEx](https://dev.to/labex/javascript-programming-tutorials-enhance-your-skills-with-labex-ie1)
+- [Introduction to Python: A Beginner&#39;s Guide](https://dev.to/ragendhu_ss_7f45f1b68cada/introduction-to-python-a-beginners-guide-56ml)
+- [How to Monitor Network Bandwidth of Docker Containers](https://dev.to/syedsadatali/how-to-monitor-network-bandwidth-of-docker-containers-1i3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
