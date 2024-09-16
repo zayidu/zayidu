@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Say Goodbye to Try/Catch with This New ECMAScript Operator! 🚀](https://dev.to/safdarali/say-goodbye-to-trycatch-with-this-new-ecmascript-operator-3a7j)
-- [Let me tell you a story](https://dev.to/morphzg/i-will-tell-you-a-story-n5k)
-- [Open Source Adventures: First Contributions and Collaborations](https://dev.to/majd_almnayer_2101/open-source-adventures-first-contributions-and-collaborations-2060)
-- [Thrilling Week in Sports: Highlights and Standouts](https://dev.to/emma_mblankenship_6be4b/thrilling-week-in-sports-highlights-and-standouts-507k)
-- [Unveiling Azure: The Future of Cloud for .NET Developers](https://dev.to/fabrcio_marcondessantos/unveiling-azure-the-future-of-cloud-for-net-developers-bml)
+- [Introduction to Next.js API Routes](https://dev.to/kartikmehta8/introduction-to-nextjs-api-routes-372)
+- [Choosing Between MEAN and MERN. Key Differences in 4 Words](https://dev.to/shahfazleelahi/choosing-between-mean-and-mern-key-differences-in-4-words-10hc)
+- [Clean Code: Um Clássico ou um Manual de Burocracia?](https://dev.to/matheuslf/clean-code-um-classico-ou-um-manual-de-burocracia-15mn)
+- [WICK-A11Y Chapter 1.2.1 - Voice Support: The Accessibility Cypress Plugin that Talks More Than John Wick in His Movies](https://dev.to/sebastianclavijo/wick-a11y-v121-voice-the-accessibility-cypress-plugin-that-talks-more-than-john-wick-in-his-movies-8c8)
+- [AvgPool3d&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/avgpool3d-in-pytorch-4bb5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
