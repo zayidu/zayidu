@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing simpledev.css](https://dev.to/jhonkaman/introducing-simpledevcss-15ca)
-- [Are JavaScript Libraries Getting Out of Hand?](https://dev.to/ife_oluwa/are-javascript-libraries-getting-out-of-hand-7lj)
-- [Dashing to the dashboard!](https://dev.to/codecara/dashing-to-the-dashboard-4i4n)
-- [Day 7. First week](https://dev.to/kiolk/day-7-first-week-4a2p)
-- [MuleSoft Associate Certification: Essential Tips and Key Concepts](https://dev.to/ayoub_alouane/mulesoft-associate-certification-essential-tips-and-key-concepts-201c)
+- [Cara Jual Kode Next.js dan Meningkatkan Penghasilan](https://dev.to/bayodev/cara-jual-kode-nextjs-dan-meningkatkan-penghasilan-1g8g)
+- [DialectMorph - A CLI Tool To Transpile Code](https://dev.to/kannav02/dialectmorph-a-cli-tool-to-transpile-code-133o)
+- [Mastering Node.js: A Comprehensive Tutorial Series Part 4 - Event Loop](https://dev.to/hakimmohamed/building-a-restful-api-with-node-js-part-4-event-loop-48jh)
+- [Developing Microservices with Spring Boot and Spring Cloud](https://dev.to/matheusmartinello/developing-microservices-with-spring-boot-and-spring-cloud-5feh)
+- [Web Development Algorithms...](https://dev.to/aortega/web-development-algorithms-5gee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
