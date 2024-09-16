@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I’m thrilled to share my latest project with everyone – my personal portfolio! 🚀](https://dev.to/phongphanq089/im-thrilled-to-share-my-latest-project-with-everyone-my-personal-portfolio-4mdj)
-- [Jergen gets Normal Mapped](https://dev.to/downtherabbithole/jergen-gets-normal-mapped-aaj)
-- [Meme Monday](https://dev.to/techdogs_inc/meme-monday-2nl6)
-- [Team Section using HTML and CSS](https://dev.to/kaja_uvais_a8691e947dd399/team-section-using-html-and-css-47cm)
-- [Day 77 / 100 Days of Code: Credit Card Validator Challenge](https://dev.to/jacobsternx/day-77-100-days-of-code-credit-card-validator-challenge-93m)
+- [High performance Node.js static file serving — using Rust](https://dev.to/encore/high-performance-nodejs-static-file-serving-using-rust-420m)
+- [Micro Frontend Angular Architecture 2024](https://dev.to/viitorcloud/micro-frontend-angular-architecture-2024-4dmk)
+- [AI dev use cases &lpar;other than code gen&rpar;](https://dev.to/dror_wayne_fine/ai-dev-use-cases-other-than-code-gen-3c4a)
+- [Getting Started with AWS CDK: A Comprehensive Guide](https://dev.to/amit_duwal/getting-started-with-aws-cdk-a-comprehensive-guide-1eld)
+- [reasons to work on backend](https://dev.to/nickmokuadev/reasons-to-work-on-backend-4kbb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
