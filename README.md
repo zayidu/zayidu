@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Mastering Dynamic Routing in Next.js: Build Flexible, Scalable Apps 🚀](https://dev.to/hamzakhan/mastering-dynamic-routing-in-nextjs-build-flexible-scalable-apps-ng1)
-- [The Future of Web Hosting: A Guide to Storage-less Web Page Hosting](https://dev.to/imabutahersiddik/the-future-of-web-hosting-a-guide-to-storage-less-web-page-hosting-1095)
-- [How to Tackle Data Structures and Algorithms Like a Pro: Essential Strategies Revealed](https://dev.to/jhk_info/how-to-tackle-data-structures-and-algorithms-like-a-pro-essential-strategies-revealed-2gl)
-- [Better autosave and autoformat in Visual Studio Code](https://dev.to/sapegin/better-autosave-and-autoformat-in-visual-studio-code-1lf2)
-- [Data on Kubernetes: Part 6- Strimzi for running Apache kafka](https://dev.to/aws-builders/data-on-kubernetes-part-6-strimzi-for-running-apache-kafka-100i)
+- [Kubescape : Comprehensive Kubernetes Security from Development to Runtime](https://dev.to/farshad_nick/kubescape-comprehensive-kubernetes-security-from-development-to-runtime-2k80)
+- [Unlocking the Power of Ephemeral Environments with Devtron](https://dev.to/devtron_inc/unlocking-the-power-of-ephemeral-environments-with-devtron-3bp7)
+- [Implementing Contextual Binding at Compile Time for Payment Processing in Laravel 11](https://dev.to/websilvercraft/implementing-contextual-binding-at-compile-time-for-payment-processing-in-laravel-11-3h9g)
+- [Proven Tips to Optimize Performance in Your Next.js App ⚡️](https://dev.to/alisamir/proven-tips-to-optimize-performance-in-your-nextjs-app-lpc)
+- [How to Easily Use Feature Flags in Swift with Firebase](https://dev.to/silviaespanagil/how-to-easily-use-feature-flags-in-swift-with-firebase-1g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
