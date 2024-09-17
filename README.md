@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Copy Config Vars from One Heroku App to Another](https://dev.to/h3h/copy-config-vars-from-one-heroku-app-to-another-36o3)
-- [Patch Your Discord Activity’s Network Requests for Smooth CSP Compliance](https://dev.to/waveplay/patch-your-discord-activitys-network-requests-for-smooth-csp-compliance-432c)
-- [A Kubernetes Setup Speedrun 🏃💨](https://dev.to/cyclops-ui/a-kubernetes-setup-speedrun-2o97)
-- [Building a Multimodal Search Engine with Amazon Titan Embeddings, Aurora Serveless PostgreSQL and LangChain](https://dev.to/aws/building-a-multimodal-search-engine-with-amazon-titan-embeddings-aurora-serveless-postgresql-and-langchain-484j)
-- [Prompt Engineering for Community &lpar;Self introduction 2&rpar;](https://dev.to/danc/prompt-engineering-for-community-self-introduction-2-2a9p)
+- [What is the DOM? The Complete Guide for Beginner Developers](https://dev.to/michael_sodovski_e754e9e2/what-is-the-dom-the-complete-guide-for-beginner-developers-18pd)
+- [Why the Command Line? The Power of Shell](https://dev.to/jimmymcbride/why-the-command-line-the-power-of-shell-1gkg)
+- [Streamlining Helm Values Files with YAML Anchors 🚀](https://dev.to/pczavre/streamlining-helm-values-files-with-yaml-anchors-bpp)
+- [Kanban for Multi-Project Management](https://dev.to/garbanea/kanban-for-multi-project-management-28h5)
+- [Useful Terraform commands you need to know🔥](https://dev.to/harshal_rembhotkar/useful-terraform-commands-you-need-to-know-32d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
