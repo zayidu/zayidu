@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amplify Your Impact: How Building in Public Can Accelerate Your Developer Career](https://dev.to/travislramos/amplify-your-impact-how-building-in-public-can-accelerate-your-developer-career-45l6)
-- [How to Write a Compelling Software Engineer Job Description that Attracts Only the Right Candidates](https://dev.to/tribesquare/how-to-write-a-compelling-software-engineer-job-description-that-attracts-only-the-right-candidates-9ba)
-- [Zero, one, or many?](https://dev.to/robc79/zero-one-or-many-4ckg)
-- [Technical Overview of Next.js.](https://dev.to/swahilipotdevs/technical-overview-of-lessons-learnt-12ol)
-- [Beginners guide to Python](https://dev.to/robc79/beginners-guide-to-python-756)
+- [Streamlining Route Data Binding with Angular Signal inputs](https://dev.to/mustapha/streamlining-route-data-binding-with-angular-signal-inputs-hea)
+- [Manuals and Specifications: Your Guide to Mastering JavaScript](https://dev.to/codenextgen/manuals-and-specifications-your-guide-to-mastering-javascript-349b)
+- [Stay Updated with PHP/Laravel: Weekly News Summary &lpar;09/09/2024-15/09/2024](https://dev.to/poovarasu/stay-updated-with-phplaravel-weekly-news-summary-09092024-15092024-55h1)
+- [Implement mTLS on AWS ALB with Self-Signed Certificates](https://dev.to/aws-builders/implement-mtls-on-aws-alb-with-self-signed-certificates-9bf)
+- [Understanding Sorting in MongoDB: A Beginner&#39;s Guide](https://dev.to/hakimmohamed/understanding-sorting-in-mongodb-a-beginners-guide-3po4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
