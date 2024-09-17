@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Smooth Scrolling for a Better User Experience.](https://dev.to/unegbuclinton/implementing-smooth-scrolling-for-a-better-user-experience-3819)
-- [How to send more requests with variable payload size in K6?](https://dev.to/codewithved/how-to-send-many-requests-with-k6-2ng3)
-- [Journey through Frontend, Backend &amp; DevOps || Check-in summary Day 11-20 || 100daysofMiva](https://dev.to/tobidelly/journey-through-frontend-backend-devops-check-in-summary-day-11-20-100daysofmiva-285j)
-- [Test Plan vs Test Strategy: Key Differences](https://dev.to/nazneenahmad/test-plan-vs-test-strategy-key-differences-24g0)
-- [Working with Different File Modes and File Types in Python](https://dev.to/devasservice/working-with-different-file-modes-and-file-types-in-python-132p)
+- [AuthenticationHandler in ASPNET](https://dev.to/hossien014/authenticationhandler-in-aspnet-2h63)
+- [Building Micro Frontends with Vite, React, and TypeScript: A Step-by-Step Guide](https://dev.to/nik-bogachenkov/building-micro-frontends-with-vite-react-and-typescript-a-step-by-step-guide-3f7n)
+- [Introduction to Solana: A fledging&#39;s guide on Web3 development on Solana](https://dev.to/aseneca/introduction-to-solana-a-fledgings-guide-on-web3-development-on-solana-1jg3)
+- [How I ended up caring about my Terminal + IDE + Vim as a Jr. Dev](https://dev.to/lord_sinquadd/how-i-ended-up-caring-about-my-terminal-ide-vim-as-a-jr-dev-5552)
+- [CBJS: Access Control 3](https://dev.to/peppa6/cbjs-access-control-3-2che)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
