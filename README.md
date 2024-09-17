@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cara Jual Kode Next.js dan Meningkatkan Penghasilan](https://dev.to/bayodev/cara-jual-kode-nextjs-dan-meningkatkan-penghasilan-1g8g)
-- [DialectMorph - A CLI Tool To Transpile Code](https://dev.to/kannav02/dialectmorph-a-cli-tool-to-transpile-code-133o)
-- [Mastering Node.js: A Comprehensive Tutorial Series Part 4 - Event Loop](https://dev.to/hakimmohamed/building-a-restful-api-with-node-js-part-4-event-loop-48jh)
-- [Developing Microservices with Spring Boot and Spring Cloud](https://dev.to/matheusmartinello/developing-microservices-with-spring-boot-and-spring-cloud-5feh)
-- [Web Development Algorithms...](https://dev.to/aortega/web-development-algorithms-5gee)
+- [Introduction to Social Listening](https://dev.to/mouralet/introduction-to-social-listening-56l5)
+- [Building Scalable Microservices with Kubernetes](https://dev.to/kartikmehta8/building-scalable-microservices-with-kubernetes-2175)
+- [&quot;PodCast: Memórias e Histórias&quot; do IC UNICAMP](https://dev.to/fronteirases/podcast-do-ic-unicamp-3463)
+- [Database Sharding in MySQL: A Comprehensive Guide](https://dev.to/wallacefreitas/database-sharding-in-mysql-a-comprehensive-guide-2hag)
+- [Prometheus Remote Write](https://dev.to/last9/prometheus-remote-write-51n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
