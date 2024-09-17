@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is Nextjs so popular in startups?](https://dev.to/koladev/why-is-nextjs-so-popular-in-startups-3d3g)
-- [10 Essential Shadcn Components Every Developer Should Know About](https://dev.to/swhabitation/10-essential-shadcn-components-every-developer-should-know-about-31mg)
-- [Execute Syntax on Background Process](https://dev.to/seno21/execute-syntax-on-background-process-851)
-- [Scala is one of the best ways to learn Haskell](https://dev.to/zelenya/scala-is-one-of-the-best-ways-to-learn-haskell-12e6)
-- [FluxCD - A lightweight GitOps CD tool: Day 44 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/fluxcd-a-lightweight-gitops-cd-tool-day-44-of-50-days-devops-tools-series-1p0h)
+- [How Developers Destroy Brain Health](https://dev.to/ssukhpinder/how-developers-destroy-brain-health-4kgd)
+- [Let’s build an AI app - pt. 2](https://dev.to/savannah_norem/lets-build-an-ai-app-pt-2-2e77)
+- [Six Key Every CEO Should Know About Generative AI](https://dev.to/nisargshah/six-key-every-ceo-should-know-about-generative-ai-53bj)
+- [Stop using tcpdump for packet capture! Kyanos helps you troubleshoot network issues in seconds.](https://dev.to/hengyoush/stop-using-tcpdump-for-packet-capture-kyanos-helps-you-troubleshoot-network-issues-in-seconds-1k2l)
+- [Jenkins CI/CD implementation in React + Node Application](https://dev.to/mdiffshashank/jenkins-cicd-implementation-in-react-node-application-3gjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
