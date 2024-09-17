@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 8. Enjoying coding](https://dev.to/kiolk/day-8-enjoying-coding-3mp5)
-- [Google Analytics y Analizadores WPO](https://dev.to/manuelcanga/google-analytics-y-analizadores-wpo-2j5l)
-- [💥 &quot;Do not f*ing miss&quot;: The Mindset for Success in Programming and Beyond💥](https://dev.to/yaser_sh/do-not-fing-miss-the-mindset-for-success-in-programming-and-beyond-1on4)
-- [How to Adapt to New Technologies and Frameworks Quickly](https://dev.to/jps27cse/how-to-adapt-to-new-technologies-and-frameworks-quickly-204n)
-- [Sept 18: FiftyOne Teams Workshop - Do not miss out!](https://dev.to/voxel51/sept-18-fiftyone-teams-workshop-do-not-miss-out-302n)
+- [Introduction To Blockchain](https://dev.to/canhamzacode/introduction-to-blockchain-45dn)
+- [What is Clean Architecture: Part 18 - Adding API](https://dev.to/moh_moh701/what-is-clean-architecture-part-18-adding-api-23l2)
+- [Building Reusable Components with JavaScript Web Components and LIT](https://dev.to/faisalsaysin/building-reusable-components-with-javascript-web-components-and-lit-ji2)
+- [Job Search Fatigue? Here’s How to Fight Burnout and Stay Motivated](https://dev.to/mbround18/job-search-fatigue-heres-how-to-fight-burnout-and-stay-motivated-fm2)
+- [Implementing Event-Driven Architecture in Rails with Active Support Instrumentation](https://dev.to/slimgee/implementing-event-driven-architecture-in-rails-with-active-support-instrumentation-d21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
