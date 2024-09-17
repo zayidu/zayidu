@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Database Management Systems &lpar;DBMS&rpar;: Definition and Functioning](https://dev.to/adityabhuyan/understanding-database-management-systems-dbms-definition-and-functioning-2a7f)
-- [Understanding CISC and RISC Architectures in Modern Computing](https://dev.to/adityabhuyan/understanding-cisc-and-risc-architectures-in-modern-computing-ndc)
-- [Why should you work remotely](https://dev.to/remotewlb/why-should-you-work-remotely-3g99)
-- [Understanding Java Streams: Revolutionizing Data Processing](https://dev.to/adityabhuyan/understanding-java-streams-revolutionizing-data-processing-1nmn)
-- [How does Node.js support RESTful API development?](https://dev.to/adityabhuyan/how-does-nodejs-support-restful-api-development-8l9)
+- [Why is Nextjs so popular in startups?](https://dev.to/koladev/why-is-nextjs-so-popular-in-startups-3d3g)
+- [10 Essential Shadcn Components Every Developer Should Know About](https://dev.to/swhabitation/10-essential-shadcn-components-every-developer-should-know-about-31mg)
+- [Execute Syntax on Background Process](https://dev.to/seno21/execute-syntax-on-background-process-851)
+- [Scala is one of the best ways to learn Haskell](https://dev.to/zelenya/scala-is-one-of-the-best-ways-to-learn-haskell-12e6)
+- [FluxCD - A lightweight GitOps CD tool: Day 44 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/fluxcd-a-lightweight-gitops-cd-tool-day-44-of-50-days-devops-tools-series-1p0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
