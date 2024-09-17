@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [EchoAPI Interceptor: Making API Capture and Debugging Fun and Effortless](https://dev.to/johnjava/echoapi-interceptor-making-api-capture-and-debugging-fun-and-effortless-1epi)
-- [🎁Learn Python in 10 Days: Day 3](https://dev.to/johnjava/learn-python-in-10-days-day-3-3b0g)
-- [Dica C#: Sealed Record Classes](https://dev.to/juarezasjunior/dica-c-sealed-record-classes-4nea)
-- [C# Tip: Sealed Record Classes](https://dev.to/juarezasjunior/c-tip-sealed-record-classes-2539)
-- [Software Engineering Experience](https://dev.to/csathishkumar/software-engineering-experience-3god)
+- [60% of maintainers are &lpar;still&rpar; not paid for their work](https://dev.to/tidelift/60-of-maintainers-are-still-not-paid-for-their-work-35jo)
+- [Key Considerations for Next.js App Router Files](https://dev.to/builderio/key-considerations-for-nextjs-app-router-files-1619)
+- [The Great HTML Showdown: `&lt;b&gt;` vs `&lt;strong&gt;` and `&lt;i&gt;` vs `&lt;em&gt;` – What&#39;s the Difference?🌟](https://dev.to/dharamgfx/the-great-html-showdown-vs-and-vs-whats-the-difference-5hjg)
+- [Building a Dynamic Alert Component with Context in React](https://dev.to/oussamabouyahia/dynamic-alert-component-35ed)
+- [I generated 20+ succesfull Ideas doing this:](https://dev.to/johnrushx/i-generated-20-succesfull-ideas-doing-this-3kc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
