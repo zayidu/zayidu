@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hoisting in JavaScript](https://dev.to/nozibul_islam_113b1d5334f/hoisting-in-javascript-i3p)
-- [Revolutionize Your Workflow: Expert Tips to Supercharge Linux Containers for Blazing-Fast Real-Time and I/O Performance](https://dev.to/emilyjohnsonready/revolutionize-your-workflow-expert-tips-to-supercharge-linux-containers-for-blazing-fast-real-time-and-io-performance-29hl)
-- [A Step-by-Step Guide to String Concatenation in JavaScript](https://dev.to/javatpoint123/a-step-by-step-guide-to-string-concatenation-in-javascript-1h3a)
-- [🚀 Low-Code/No-Code: The Future of Development is Here 🛠️](https://dev.to/hamzakhan/low-codeno-code-the-future-of-development-is-here-3c2d)
-- [Why is &#39;main&#39; function static?](https://dev.to/houdabelhad1/why-is-main-function-static-2l72)
+- [[DAY 113-117] I built 5 backend projects to acquire a backend certificate](https://dev.to/thomascansino/day-113-117-i-built-5-backend-projects-to-acquire-a-backend-certificate-5boj)
+- [Understanding APIs: How Applications Communicate:](https://dev.to/kamlesh_gupta_539c974fb0d/understanding-apis-how-applications-communicate-30f9)
+- [Version Control Best Practices - Mastering Git, Branching Strategies and Collaborative Workflows](https://dev.to/pellenilsen/version-control-best-practices-mastering-git-branching-strategies-and-collaborative-workflows-5gal)
+- [10 Websites every Web developer should at least look](https://dev.to/adarshgupta101/10-websites-every-web-developer-should-at-least-look-5fi2)
+- [Python vs Java: A Deep Dive into the Best Programming Language for You](https://dev.to/respect17/python-vs-java-a-deep-dive-into-the-best-programming-language-for-you-3k6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
