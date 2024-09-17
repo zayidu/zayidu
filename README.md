@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [private vs #private](https://dev.to/old-starchy/private-vs-private-3cbd)
+- [Performing Audio and Video Testing on Real Devices](https://dev.to/grjoeay/performing-audio-and-video-testing-on-real-devices-22h2)
 - [JavaScript Essentials: Part 1](https://dev.to/otumianempire/javascript-essentials-part-1-39c1)
 - [Educational Leadership in the Age of AI: Pioneering the Future](https://dev.to/dms/educational-leadership-in-the-age-of-ai-pioneering-the-future-1ip1)
 - [Decoding Power Dynamics with the 48 Laws](https://dev.to/susheel_kumar/decoding-power-dynamics-with-the-48-laws-43pm)
-- [Request for Resume Review - Frontend Developer](https://dev.to/shubham_oza_a55eb3f5f2ee8/request-for-resume-review-frontend-developer-2pem)
-- [Amazon RDS Read Replica](https://dev.to/clintt/amazon-rds-read-replica-fe5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
