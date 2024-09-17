@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction To Blockchain](https://dev.to/canhamzacode/introduction-to-blockchain-45dn)
-- [What is Clean Architecture: Part 18 - Adding API](https://dev.to/moh_moh701/what-is-clean-architecture-part-18-adding-api-23l2)
-- [Building Reusable Components with JavaScript Web Components and LIT](https://dev.to/faisalsaysin/building-reusable-components-with-javascript-web-components-and-lit-ji2)
-- [Job Search Fatigue? Here’s How to Fight Burnout and Stay Motivated](https://dev.to/mbround18/job-search-fatigue-heres-how-to-fight-burnout-and-stay-motivated-fm2)
-- [Implementing Event-Driven Architecture in Rails with Active Support Instrumentation](https://dev.to/slimgee/implementing-event-driven-architecture-in-rails-with-active-support-instrumentation-d21)
+- [Don&#39;t wait for your feelings to take the action. Take the action and your feelings will change.](https://dev.to/young_afis_a794c45f59671d/dont-wait-for-your-feelings-to-take-the-action-take-the-action-and-your-feelings-will-change-4jnm)
+- [Pergunte ao especialista - Funções virtuais](https://dev.to/devsjavagirls/pergunte-ao-especialista-funcoes-virtuais-221o)
+- [Métodos sobrepostos dão suporte ao polimorfismo](https://dev.to/devsjavagirls/metodos-sobrepostos-dao-suporte-ao-polimorfismo-457j)
+- [Sobreposição de métodos](https://dev.to/devsjavagirls/sobreposicao-de-metodos-1921)
+- [Referências da superclasse e objetos da subclasse](https://dev.to/devsjavagirls/referencias-da-superclasse-e-objetos-da-subclasse-2d45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
