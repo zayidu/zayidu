@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [60% of maintainers are &lpar;still&rpar; not paid for their work](https://dev.to/tidelift/60-of-maintainers-are-still-not-paid-for-their-work-35jo)
-- [Key Considerations for Next.js App Router Files](https://dev.to/builderio/key-considerations-for-nextjs-app-router-files-1619)
-- [The Great HTML Showdown: `&lt;b&gt;` vs `&lt;strong&gt;` and `&lt;i&gt;` vs `&lt;em&gt;` – What&#39;s the Difference?🌟](https://dev.to/dharamgfx/the-great-html-showdown-vs-and-vs-whats-the-difference-5hjg)
-- [Building a Dynamic Alert Component with Context in React](https://dev.to/oussamabouyahia/dynamic-alert-component-35ed)
-- [I generated 20+ succesfull Ideas doing this:](https://dev.to/johnrushx/i-generated-20-succesfull-ideas-doing-this-3kc1)
+- [Copy Config Vars from One Heroku App to Another](https://dev.to/h3h/copy-config-vars-from-one-heroku-app-to-another-36o3)
+- [Patch Your Discord Activity’s Network Requests for Smooth CSP Compliance](https://dev.to/waveplay/patch-your-discord-activitys-network-requests-for-smooth-csp-compliance-432c)
+- [A Kubernetes Setup Speedrun 🏃💨](https://dev.to/cyclops-ui/a-kubernetes-setup-speedrun-2o97)
+- [Building a Multimodal Search Engine with Amazon Titan Embeddings, Aurora Serveless PostgreSQL and LangChain](https://dev.to/aws/building-a-multimodal-search-engine-with-amazon-titan-embeddings-aurora-serveless-postgresql-and-langchain-484j)
+- [Prompt Engineering for Community &lpar;Self introduction 2&rpar;](https://dev.to/danc/prompt-engineering-for-community-self-introduction-2-2a9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
