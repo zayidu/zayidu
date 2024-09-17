@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Cloud flare R2 storage with workers API &amp; S3 compatibility](https://dev.to/sanya_lazy/how-to-use-cloud-flare-r2-storage-with-workers-api-s3-compatibility-44lf)
-- [CSS Position – Controlling Element Placement](https://dev.to/ridoy_hasan/css-position-controlling-element-placement-3f6e)
-- [Fixing the Stripe API Key Error When Migrating Next.js from Vercel to Azure Static Web Apps](https://dev.to/rajeshkumaryadavdotcom/fixing-the-stripe-api-key-error-when-migrating-nextjs-from-vercel-to-azure-static-web-apps-3e7l)
-- [A Poetic Challenge !?](https://dev.to/kavya-sahai-god/a-poetic-challenge--24m1)
-- [Oct 16: FiftyOne Teams Workshop](https://dev.to/voxel51/oct-16-fiftyone-teams-workshop-5f2p)
+- [Day 8. Enjoying coding](https://dev.to/kiolk/day-8-enjoying-coding-3mp5)
+- [Google Analytics y Analizadores WPO](https://dev.to/manuelcanga/google-analytics-y-analizadores-wpo-2j5l)
+- [💥 &quot;Do not f*ing miss&quot;: The Mindset for Success in Programming and Beyond💥](https://dev.to/yaser_sh/do-not-fing-miss-the-mindset-for-success-in-programming-and-beyond-1on4)
+- [How to Adapt to New Technologies and Frameworks Quickly](https://dev.to/jps27cse/how-to-adapt-to-new-technologies-and-frameworks-quickly-204n)
+- [Sept 18: FiftyOne Teams Workshop - Do not miss out!](https://dev.to/voxel51/sept-18-fiftyone-teams-workshop-do-not-miss-out-302n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
