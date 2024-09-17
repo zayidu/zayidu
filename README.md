@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[DAY 113-117] I built 5 backend projects to acquire a backend certificate](https://dev.to/thomascansino/day-113-117-i-built-5-backend-projects-to-acquire-a-backend-certificate-5boj)
-- [Understanding APIs: How Applications Communicate:](https://dev.to/kamlesh_gupta_539c974fb0d/understanding-apis-how-applications-communicate-30f9)
-- [Version Control Best Practices - Mastering Git, Branching Strategies and Collaborative Workflows](https://dev.to/pellenilsen/version-control-best-practices-mastering-git-branching-strategies-and-collaborative-workflows-5gal)
-- [10 Websites every Web developer should at least look](https://dev.to/adarshgupta101/10-websites-every-web-developer-should-at-least-look-5fi2)
-- [Python vs Java: A Deep Dive into the Best Programming Language for You](https://dev.to/respect17/python-vs-java-a-deep-dive-into-the-best-programming-language-for-you-3k6o)
+- [Implementing Smooth Scrolling for a Better User Experience.](https://dev.to/unegbuclinton/implementing-smooth-scrolling-for-a-better-user-experience-3819)
+- [How to send more requests with variable payload size in K6?](https://dev.to/codewithved/how-to-send-many-requests-with-k6-2ng3)
+- [Journey through Frontend, Backend &amp; DevOps || Check-in summary Day 11-20 || 100daysofMiva](https://dev.to/tobidelly/journey-through-frontend-backend-devops-check-in-summary-day-11-20-100daysofmiva-285j)
+- [Test Plan vs Test Strategy: Key Differences](https://dev.to/nazneenahmad/test-plan-vs-test-strategy-key-differences-24g0)
+- [Working with Different File Modes and File Types in Python](https://dev.to/devasservice/working-with-different-file-modes-and-file-types-in-python-132p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
