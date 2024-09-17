@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the DOM? The Complete Guide for Beginner Developers](https://dev.to/michael_sodovski_e754e9e2/what-is-the-dom-the-complete-guide-for-beginner-developers-18pd)
-- [Why the Command Line? The Power of Shell](https://dev.to/jimmymcbride/why-the-command-line-the-power-of-shell-1gkg)
-- [Streamlining Helm Values Files with YAML Anchors 🚀](https://dev.to/pczavre/streamlining-helm-values-files-with-yaml-anchors-bpp)
-- [Kanban for Multi-Project Management](https://dev.to/garbanea/kanban-for-multi-project-management-28h5)
-- [Useful Terraform commands you need to know🔥](https://dev.to/harshal_rembhotkar/useful-terraform-commands-you-need-to-know-32d9)
+- [Amplify Your Impact: How Building in Public Can Accelerate Your Developer Career](https://dev.to/travislramos/amplify-your-impact-how-building-in-public-can-accelerate-your-developer-career-45l6)
+- [How to Write a Compelling Software Engineer Job Description that Attracts Only the Right Candidates](https://dev.to/tribesquare/how-to-write-a-compelling-software-engineer-job-description-that-attracts-only-the-right-candidates-9ba)
+- [Zero, one, or many?](https://dev.to/robc79/zero-one-or-many-4ckg)
+- [Technical Overview of Next.js.](https://dev.to/swahilipotdevs/technical-overview-of-lessons-learnt-12ol)
+- [Beginners guide to Python](https://dev.to/robc79/beginners-guide-to-python-756)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
