@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Mastering AI, Machine Learning, and Deep Learning: A Complete Guide for Developers](https://dev.to/mirzahanzla/mastering-ai-machine-learning-and-deep-learning-a-complete-guide-for-developers-4kmh)
-- [DevOps State-of-the-art handover artifacts, do they even exist?](https://dev.to/sommer/devops-state-of-the-art-handover-artifacts-do-they-even-exist-1lgb)
-- [Top Ten Benefits Of DevOps Maturity Model To Opt In 2024](https://dev.to/piya__c204c9e90/top-ten-benefits-of-devops-maturity-model-to-opt-in-2024-19b9)
-- [🌟 Mastering Clean and Maintainable Code: Best Practices for Developers Worldwide](https://dev.to/mirzahanzla/mastering-clean-and-maintainable-code-best-practices-for-developers-worldwide-4n1o)
-- [5 Open Source Python Projects You Should Know About in 2024](https://dev.to/balrajola/5-open-source-python-projects-you-should-know-about-in-2024-1bd9)
+- [EchoAPI Interceptor: Making API Capture and Debugging Fun and Effortless](https://dev.to/johnjava/echoapi-interceptor-making-api-capture-and-debugging-fun-and-effortless-1epi)
+- [🎁Learn Python in 10 Days: Day 3](https://dev.to/johnjava/learn-python-in-10-days-day-3-3b0g)
+- [Dica C#: Sealed Record Classes](https://dev.to/juarezasjunior/dica-c-sealed-record-classes-4nea)
+- [C# Tip: Sealed Record Classes](https://dev.to/juarezasjunior/c-tip-sealed-record-classes-2539)
+- [Software Engineering Experience](https://dev.to/csathishkumar/software-engineering-experience-3god)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
