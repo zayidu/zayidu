@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Use two triggers in the Keda&#39;s ScaledObject](https://dev.to/codewithved/use-two-triggers-in-the-kedas-scaledobject-3lee)
-- [Rename Multiple Files in Sequence with Just One Click Using PowerShell in Windows! 🚀](https://dev.to/dharamgfx/rename-multiple-files-in-sequence-with-just-one-click-using-powershell-in-windows-jei)
-- [🚀 The Future of Software Development: What’s Coming Next?](https://dev.to/tl23143/the-future-of-software-development-whats-coming-next-3iim)
-- [Architecture with apache kafka](https://dev.to/alex_dediu/architecture-with-apache-kafka-1n09)
-- [5 API Tools That Offer More Than Postman](https://dev.to/apilover/5-api-tools-that-offer-more-than-postman-1dj0)
+- [SQL, in each group modify the null value of a specified column as its neighboring value #eg43](https://dev.to/esproc_spl/sql-in-each-group-modify-the-null-value-of-a-specified-column-as-its-neighboring-value-eg43-4l7b)
+- [Connecting to GBase 8s Database Using Go on Linux](https://dev.to/congcong/connecting-to-gbase-8s-database-using-go-on-linux-4901)
+- [Connecting to GBase 8s Database Using Go on Linux](https://dev.to/congcong/connecting-to-gbase-8s-database-using-go-on-linux-41ld)
+- [Key Reasons for Collaborating with Expert DevOps Teams to Streamline Software Delivery Processes](https://dev.to/marufhossain/key-reasons-for-collaborating-with-expert-devops-teams-to-streamline-software-delivery-processes-57p7)
+- [JavaScript Methods /Functions](https://dev.to/iamyathz/javascript-methods-functions-5d49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
