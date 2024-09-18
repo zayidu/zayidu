@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tested and Proven! 6 Tools to Boost Productivity!](https://dev.to/angelaswift/tested-and-proven-6-tools-to-boost-productivity-37ci)
-- [Organize Your CSS Like a Pro: Logical Grouping of Properties](https://dev.to/tomasdevs/organize-your-css-like-a-pro-logical-grouping-of-properties-3hj8)
-- [this keyword in JS](https://dev.to/abhishekpanwarrr/this-keyword-in-js-4hih)
-- [Single Number I](https://dev.to/prashantrmishra/single-number-i-3fb7)
-- [&quot;Top 10 DevOps Tools You Can’t Live Without in 2024&quot;](https://dev.to/prodevopsguytech/top-10-devops-tools-you-cant-live-without-in-2024-3c1a)
+- [🔍 Did you know that AWS CloudWatch Logs store logs indefinitely by default? - AWS Tip #1🔍](https://dev.to/lakhera2015/did-you-know-that-aws-cloudwatch-logs-store-logs-indefinitely-by-default-aws-tip-1-1gjc)
+- [🚀A Game Changer: Amazon Q Developer-The Future of Cloud Interaction🚀](https://dev.to/lakhera2015/a-game-changer-amazon-q-developer-the-future-of-cloud-interaction-555o)
+- [Build a Portfolio in Moments: Free Template Included! 🚀](https://dev.to/itshayder/build-a-portfolio-in-moments-free-template-included-266o)
+- [Conditional Logic Quick Bits: Requirements &amp; Edge Cases](https://dev.to/oculus42/conditional-logic-quick-bits-requirements-edge-cases-1ob8)
+- [Equivalence and Ordering of Options in Effect-TS: A Practical Guide](https://dev.to/almaclaine/equivalence-and-ordering-of-options-in-effect-ts-a-practical-guide-13di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
