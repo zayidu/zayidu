@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Work with Multidimensional Arrays in JavaScript](https://dev.to/who_tf_cares/how-to-work-with-multidimensional-arrays-in-javascript-9jl)
-- [Unlock the Power of AI with a Free Speech Writer: Your Ultimate Guide to AI-Powered Speechwriting](https://dev.to/fz_jtt_0d60fca652a4b/unlock-the-power-of-ai-with-a-free-speech-writer-your-ultimate-guide-to-ai-powered-speechwriting-3iba)
-- [Running WordPress on Containers](https://dev.to/erikaheidi/running-wordpress-on-containers-4blj)
-- [Automating Birthday Emails with Python](https://dev.to/iamrupambiswas/automating-birthday-emails-with-python-1g4m)
-- [Understanding Service Labels in Kubernetes: A Simple Guide to Swapping Backends](https://dev.to/josephcardillo/understanding-service-labels-in-kubernetes-a-simple-guide-to-swapping-backends-50hg)
+- [🗄️🚀 SQL vs NoSQL: Viability and Comparison](https://dev.to/fonteeboa/sql-vs-nosql-viability-and-comparison-gik)
+- [React Basics Part 2](https://dev.to/mrcaption49/react-basics-part-2-4e1c)
+- [Apache Airflow](https://dev.to/sandeepk27/apache-airflow-lob)
+- [How Custom GitHub Actions Enabled Us to Streamline Thousands of CI/CD Pipelines](https://dev.to/permit_io/how-custom-github-actions-enabled-us-to-streamline-thousands-of-cicd-pipelines-4pb0)
+- [A checklist and guide to get your repository collaboration-ready](https://dev.to/github/a-checklist-and-guide-to-get-your-repository-collaboration-ready-3eld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
