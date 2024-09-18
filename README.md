@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Effortless Communication: Building an Automated Email Writing Service with OpenAI and Spring Boot](https://dev.to/virajlakshitha/effortless-communication-building-an-automated-email-writing-service-with-openai-and-spring-boot-3jie)
-- [How AI Can Help Get Your Content on Google&#39;s Front Page](https://dev.to/juddiy/how-ai-can-help-get-your-content-on-googles-front-page-30pb)
-- [Angular dependency injection using multi-providers](https://dev.to/nhannguyendevjs/angular-dependency-injection-using-multi-providers-mnh)
-- [Dive into Machine Learning: A Curated Collection of Free Programming Resources](https://dev.to/getvm/dive-into-machine-learning-a-curated-collection-of-free-programming-resources-1038)
-- [Effective Strategies for Testing Databases in FastAPI Applications](https://dev.to/greg_bessoni_e5b523ef53a3/effective-strategies-for-testing-databases-in-fastapi-applications-2nh5)
+- [100+ React E-Commerce Components for Modern Stores](https://dev.to/tailwindcss/react-e-commerce-components-4nd4)
+- [Dockerize Local RAG with Models](https://dev.to/lazypro/dockerize-local-rag-with-models-41al)
+- [Create a Feedback Form In 3 Steps](https://dev.to/domfive/create-a-feedback-form-in-3-steps-34i4)
+- [The Easiest Network Attack for Beginners: ARP Spoofing](https://dev.to/mpoiiii/the-easiest-network-attack-for-beginners-arp-spoofing-pn4)
+- [How to create an EC2 instance through Terraform](https://dev.to/sandeepk27/how-to-create-an-ec2-instance-through-terraform-485d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
