@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Coding Best Practices: Optimize Your Workflow and Boost Productivity](https://dev.to/creowistech/mastering-coding-best-practices-optimize-your-workflow-and-boost-productivity-5205)
-- [The Hidden Costs of Technical Debt: Why Cutting Corners Today Can Hurt Tomorrow](https://dev.to/trev_the_dev/the-hidden-costs-of-technical-debt-why-cutting-corners-today-can-hurt-tomorrow-5eh4)
-- [Save 1000 hours in development time. VSCode shortcuts &amp; Window Management](https://dev.to/matowang/save-1000-hours-in-development-time-vscode-shortcuts-window-management-5198)
-- [Convert insert mutation to upsert](https://dev.to/roalcantara/convert-insert-mutation-to-upsert-2n3n)
-- [Fixing vite error for reactjs - global is not defined and process is not defined](https://dev.to/rajinh24/fixing-vite-error-for-reactjs-global-is-not-defined-and-process-is-not-defined-4ffo)
+- [Github CI/CD with Google Cloud Build](https://dev.to/chauhoangminhnguyen/github-cicd-with-google-cloud-build-2532)
+- [Database Terminology](https://dev.to/rajondey/database-terminology-58ef)
+- [🛠️ Master JavaScript Debugging with These Essential Tips 🛠️](https://dev.to/umairqa/master-javascript-debugging-with-these-essential-tips-40i)
+- [Convert LocalDateTime to Date](https://dev.to/taijidude/convert-localdatetime-to-date-4o4c)
+- [Convert LocalDateTime to Date and back](https://dev.to/taijidude/convert-localdatetime-to-date-and-back-4lkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
