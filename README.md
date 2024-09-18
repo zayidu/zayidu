@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 Did you know that AWS CloudWatch Logs store logs indefinitely by default? - AWS Tip #1🔍](https://dev.to/lakhera2015/did-you-know-that-aws-cloudwatch-logs-store-logs-indefinitely-by-default-aws-tip-1-1gjc)
-- [🚀A Game Changer: Amazon Q Developer-The Future of Cloud Interaction🚀](https://dev.to/lakhera2015/a-game-changer-amazon-q-developer-the-future-of-cloud-interaction-555o)
-- [Build a Portfolio in Moments: Free Template Included! 🚀](https://dev.to/itshayder/build-a-portfolio-in-moments-free-template-included-266o)
-- [Conditional Logic Quick Bits: Requirements &amp; Edge Cases](https://dev.to/oculus42/conditional-logic-quick-bits-requirements-edge-cases-1ob8)
-- [Equivalence and Ordering of Options in Effect-TS: A Practical Guide](https://dev.to/almaclaine/equivalence-and-ordering-of-options-in-effect-ts-a-practical-guide-13di)
+- [How to Work with Multidimensional Arrays in JavaScript](https://dev.to/who_tf_cares/how-to-work-with-multidimensional-arrays-in-javascript-9jl)
+- [Unlock the Power of AI with a Free Speech Writer: Your Ultimate Guide to AI-Powered Speechwriting](https://dev.to/fz_jtt_0d60fca652a4b/unlock-the-power-of-ai-with-a-free-speech-writer-your-ultimate-guide-to-ai-powered-speechwriting-3iba)
+- [Running WordPress on Containers](https://dev.to/erikaheidi/running-wordpress-on-containers-4blj)
+- [Automating Birthday Emails with Python](https://dev.to/iamrupambiswas/automating-birthday-emails-with-python-1g4m)
+- [Understanding Service Labels in Kubernetes: A Simple Guide to Swapping Backends](https://dev.to/josephcardillo/understanding-service-labels-in-kubernetes-a-simple-guide-to-swapping-backends-50hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
