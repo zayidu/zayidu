@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL, in each group modify the null value of a specified column as its neighboring value #eg43](https://dev.to/esproc_spl/sql-in-each-group-modify-the-null-value-of-a-specified-column-as-its-neighboring-value-eg43-4l7b)
-- [Connecting to GBase 8s Database Using Go on Linux](https://dev.to/congcong/connecting-to-gbase-8s-database-using-go-on-linux-4901)
-- [Connecting to GBase 8s Database Using Go on Linux](https://dev.to/congcong/connecting-to-gbase-8s-database-using-go-on-linux-41ld)
-- [Key Reasons for Collaborating with Expert DevOps Teams to Streamline Software Delivery Processes](https://dev.to/marufhossain/key-reasons-for-collaborating-with-expert-devops-teams-to-streamline-software-delivery-processes-57p7)
-- [JavaScript Methods /Functions](https://dev.to/iamyathz/javascript-methods-functions-5d49)
+- [Overview of GBase 8c Syntax](https://dev.to/congcong/overview-of-gbase-8c-syntax-11fc)
+- [PSD Batch Editor](https://dev.to/rdereu/psd-batch-editor-246e)
+- [Cut AWS Costs by 90%: How We Saved Big and Gained Flexibility](https://dev.to/parkerava/cut-aws-costs-by-90-how-we-saved-big-and-gained-flexibility-25gl)
+- [Why You Should Hide Your API Key: Best Practices for Cybersecurity](https://dev.to/jlo128456/why-you-should-hide-your-api-key-best-practices-for-cybersecurity-3eo2)
+- [Advance Yup Validations](https://dev.to/kush_bhandari_1/advance-yup-validations-5eii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
