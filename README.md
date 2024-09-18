@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Modules Loadings in angular](https://dev.to/comedy_hub_1acffe1c00ffbf/loadings-in-angular-13jk)
-- [Plug-and-Play Animations: Crafting Lively Websites with asterisk/ui Components](https://dev.to/abhiroopc/plug-and-play-animations-crafting-lively-websites-with-asteriskui-components-50ja)
-- [20 Best Chrome Extensions for Developers in 2024](https://dev.to/nikhiltyagi04/20-best-chrome-extensions-for-developers-in-2024-224m)
-- [Using SQLynx for data comparison offers the following advantages:](https://dev.to/urlewicz_aicha_d14af69bc8/using-sqlynx-for-data-comparison-offers-the-following-advantages-cnc)
-- [Top Future Trends Shaping Azure IoT Hub in 2024 and Beyond](https://dev.to/enna/top-future-trends-shaping-azure-iot-hub-in-2024-and-beyond-54n0)
+- [Use two triggers in the Keda&#39;s ScaledObject](https://dev.to/codewithved/use-two-triggers-in-the-kedas-scaledobject-3lee)
+- [Rename Multiple Files in Sequence with Just One Click Using PowerShell in Windows! 🚀](https://dev.to/dharamgfx/rename-multiple-files-in-sequence-with-just-one-click-using-powershell-in-windows-jei)
+- [🚀 The Future of Software Development: What’s Coming Next?](https://dev.to/tl23143/the-future-of-software-development-whats-coming-next-3iim)
+- [Architecture with apache kafka](https://dev.to/alex_dediu/architecture-with-apache-kafka-1n09)
+- [5 API Tools That Offer More Than Postman](https://dev.to/apilover/5-api-tools-that-offer-more-than-postman-1dj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
