@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to My Blog – A Journey of Learning and Growth!](https://dev.to/shiv-009-dev/welcome-to-my-blog-a-journey-of-learning-and-growth-530o)
-- [Embed a Full HTML Document Inline Using Shadow DOM](https://dev.to/gamesover/embed-a-full-html-document-inline-using-shadow-dom-5d5d)
-- [Directus Instance Dev](https://dev.to/ansango/directus-instance-dev-289d)
-- [Conditional Branching in JavaScript: `if`, `else`, and `?`](https://dev.to/codenextgen/conditional-branching-in-javascript-if-else-and--3d1n)
-- [Mastering JavaScript Comparisons: From Basics to Advanced](https://dev.to/codenextgen/mastering-javascript-comparisons-from-basics-to-advanced-2gj1)
+- [Tudo que Estudar, para se tornar uma Engenheira&lpar;o&rpar; de Software.](https://dev.to/thailanelopes/tudo-que-estudar-para-se-tornar-uma-engenheirao-de-software-3e61)
+- [From Fortresses to Fortbytes: Rethinking Cybersecurity in the Quantum Age](https://dev.to/muneeb0758/from-fortresses-to-fortbytes-rethinking-cybersecurity-in-the-quantum-age-5gle)
+- [Tutorial: Getting Started with @kubernetes-client/node](https://dev.to/turck/tutorial-getting-started-with-kubernetes-clientnode-4l78)
+- [Building a Neural Network from Scratch in Rust](https://dev.to/evolvedev/building-a-neural-network-from-scratch-in-rust-10aa)
+- [Benchmarking Pixtral 12B: MistralAI&#39;s New VLM](https://dev.to/aryankargwal/benchmarking-pixtral-12b-mistralais-new-vlm-ff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
