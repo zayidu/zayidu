@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Try GPT 4.0 API for Free? A Detailed Guide](https://dev.to/explinks/how-to-try-gpt-40-api-for-free-a-detailed-guide-2gm7)
-- [NoSQL Database](https://dev.to/rajondey/nosql-database-1e2k)
-- [Installing and Accessing Tomcat Web-App server in EC2 server](https://dev.to/gitgeetansh/installing-and-accessing-tomcat-web-app-server-in-ec2-server-1g84)
-- [Supabase Launch Week 12 Hackathon](https://dev.to/supabase/supabase-launch-week-12-hackathon-2loh)
-- [Why Bootstrap Users Should Consider Tailwind CSS for Their Next Project ?](https://dev.to/keenthemes/why-bootstrap-users-should-consider-tailwind-css-for-their-next-project--4j20)
+- [Tested and Proven! 6 Tools to Boost Productivity!](https://dev.to/angelaswift/tested-and-proven-6-tools-to-boost-productivity-37ci)
+- [Organize Your CSS Like a Pro: Logical Grouping of Properties](https://dev.to/tomasdevs/organize-your-css-like-a-pro-logical-grouping-of-properties-3hj8)
+- [this keyword in JS](https://dev.to/abhishekpanwarrr/this-keyword-in-js-4hih)
+- [Single Number I](https://dev.to/prashantrmishra/single-number-i-3fb7)
+- [&quot;Top 10 DevOps Tools You Can’t Live Without in 2024&quot;](https://dev.to/prodevopsguytech/top-10-devops-tools-you-cant-live-without-in-2024-3c1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
