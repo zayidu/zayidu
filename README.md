@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Github CI/CD with Google Cloud Build](https://dev.to/chauhoangminhnguyen/github-cicd-with-google-cloud-build-2532)
-- [Database Terminology](https://dev.to/rajondey/database-terminology-58ef)
-- [🛠️ Master JavaScript Debugging with These Essential Tips 🛠️](https://dev.to/umairqa/master-javascript-debugging-with-these-essential-tips-40i)
-- [Convert LocalDateTime to Date](https://dev.to/taijidude/convert-localdatetime-to-date-4o4c)
-- [Convert LocalDateTime to Date and back](https://dev.to/taijidude/convert-localdatetime-to-date-and-back-4lkj)
+- [How to Try GPT 4.0 API for Free? A Detailed Guide](https://dev.to/explinks/how-to-try-gpt-40-api-for-free-a-detailed-guide-2gm7)
+- [NoSQL Database](https://dev.to/rajondey/nosql-database-1e2k)
+- [Installing and Accessing Tomcat Web-App server in EC2 server](https://dev.to/gitgeetansh/installing-and-accessing-tomcat-web-app-server-in-ec2-server-1g84)
+- [Supabase Launch Week 12 Hackathon](https://dev.to/supabase/supabase-launch-week-12-hackathon-2loh)
+- [Why Bootstrap Users Should Consider Tailwind CSS for Their Next Project ?](https://dev.to/keenthemes/why-bootstrap-users-should-consider-tailwind-css-for-their-next-project--4j20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
