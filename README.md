@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 6 FREE💸Tools for Web Developers](https://dev.to/acode123/top-6-freetools-for-web-developers-54da)
-- [Exploring the Features of FastAPI](https://dev.to/kartikmehta8/exploring-the-features-of-fastapi-bo1)
-- [Managing Revisions in Azure Container Apps](https://dev.to/jimiog/managing-revisions-in-azure-container-apps-1384)
-- [Autenticação Stateful x Stateless](https://dev.to/oleobarreto/autenticacao-stateful-x-stateless-e8i)
-- [Creating and Configuring a Secure Container App in Azure Container Apps](https://dev.to/jimiog/creating-and-configuring-a-secure-container-app-in-azure-container-apps-4e3k)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;09/09/2024-15/09/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-09092024-15092024-1oh5)
+- [Managing dependencies like a pro in Android with version catalogs](https://dev.to/leadpresence/managing-dependencies-like-a-pro-in-android-with-version-catalogs-54mf)
+- [Será mesmo que NoSQL pode resolver seus problemas?](https://dev.to/joaodest/sera-mesmo-que-nosql-pode-resolver-seus-problemas-343g)
+- [Será mesmo que NoSQL pode resolver seus problemas?](https://dev.to/joaodest/sera-mesmo-que-nosql-pode-resolver-seus-problemas-147l)
+- [🎁 Special Birthday Announcements: Free Course, AWS Group, and CNCF Discount! 🎁](https://dev.to/lakhera2015/special-birthday-announcements-free-course-aws-group-and-cncf-discount-1e46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
