@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dive into the Monty Hall Problem Project: Simulate and Understand Probability Concepts](https://dev.to/labex/dive-into-the-monty-hall-problem-project-simulate-and-understand-probability-concepts-51n5)
-- [Introducing RefactorCode - Enhance your code with a single command 👨‍💻](https://dev.to/bregwin/introducing-refactorcode-enhance-your-code-with-a-single-command-4982)
-- [Issue 62 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-62-of-aws-cloud-security-weekly-4iji)
-- [Algorithm Analysis](https://dev.to/gabrieldantasds/algorithm-analysis-3904)
-- [Genereadme v0.1 release](https://dev.to/cleobnvntra/genereadme-v01-release-1dm3)
+- [Top 6 FREE💸Tools for Web Developers](https://dev.to/acode123/top-6-freetools-for-web-developers-54da)
+- [Exploring the Features of FastAPI](https://dev.to/kartikmehta8/exploring-the-features-of-fastapi-bo1)
+- [Managing Revisions in Azure Container Apps](https://dev.to/jimiog/managing-revisions-in-azure-container-apps-1384)
+- [Autenticação Stateful x Stateless](https://dev.to/oleobarreto/autenticacao-stateful-x-stateless-e8i)
+- [Creating and Configuring a Secure Container App in Azure Container Apps](https://dev.to/jimiog/creating-and-configuring-a-secure-container-app-in-azure-container-apps-4e3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
