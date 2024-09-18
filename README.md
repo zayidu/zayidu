@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [100+ React E-Commerce Components for Modern Stores](https://dev.to/tailwindcss/react-e-commerce-components-4nd4)
-- [Dockerize Local RAG with Models](https://dev.to/lazypro/dockerize-local-rag-with-models-41al)
-- [Create a Feedback Form In 3 Steps](https://dev.to/domfive/create-a-feedback-form-in-3-steps-34i4)
-- [The Easiest Network Attack for Beginners: ARP Spoofing](https://dev.to/mpoiiii/the-easiest-network-attack-for-beginners-arp-spoofing-pn4)
-- [How to create an EC2 instance through Terraform](https://dev.to/sandeepk27/how-to-create-an-ec2-instance-through-terraform-485d)
+- [Is Carbon Language Moving Towards Success or Self-Destruction? A Case Study in Rapid Deployments](https://dev.to/middleware/is-carbon-language-moving-towards-success-or-self-destruction-a-case-study-in-rapid-deployments-3m50)
+- [Vector Databases vs Graph Databases: Which is Best for Retrieval-Augmented Generation &lpar;RAG&rpar;?](https://dev.to/abhinowww/vector-databases-vs-graph-databases-which-is-best-for-retrieval-augmented-generation-rag-157m)
+- [⚡Mencoba Komparasi Seberapa Kencang Performa Bun dibandingkan Node](https://dev.to/ferryops/mencoba-komparasi-seberapa-kencang-performa-bun-dibandingkan-node-3nl0)
+- [Exploring Azure Service Fabric: A Comprehensive Guide to Microservices Architecture](https://dev.to/adityabhuyan/exploring-azure-service-fabric-a-comprehensive-guide-to-microservices-architecture-1a15)
+- [The Hidden Costs of Skipping Feature Flags: A QA Nightmare Tale from AWS 🐛](https://dev.to/nislamov/the-hidden-costs-of-skipping-feature-flags-a-qa-nightmare-tale-from-aws-46o1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
