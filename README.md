@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Carbon Language Moving Towards Success or Self-Destruction? A Case Study in Rapid Deployments](https://dev.to/middleware/is-carbon-language-moving-towards-success-or-self-destruction-a-case-study-in-rapid-deployments-3m50)
-- [Vector Databases vs Graph Databases: Which is Best for Retrieval-Augmented Generation &lpar;RAG&rpar;?](https://dev.to/abhinowww/vector-databases-vs-graph-databases-which-is-best-for-retrieval-augmented-generation-rag-157m)
-- [⚡Mencoba Komparasi Seberapa Kencang Performa Bun dibandingkan Node](https://dev.to/ferryops/mencoba-komparasi-seberapa-kencang-performa-bun-dibandingkan-node-3nl0)
-- [Exploring Azure Service Fabric: A Comprehensive Guide to Microservices Architecture](https://dev.to/adityabhuyan/exploring-azure-service-fabric-a-comprehensive-guide-to-microservices-architecture-1a15)
-- [The Hidden Costs of Skipping Feature Flags: A QA Nightmare Tale from AWS 🐛](https://dev.to/nislamov/the-hidden-costs-of-skipping-feature-flags-a-qa-nightmare-tale-from-aws-46o1)
+- [Write for “.Net Programming” on Medium! 🚀](https://dev.to/csharp-programming/write-for-net-programming-on-medium-53f7)
+- [Layers of JavaScript](https://dev.to/shieldstring/layers-of-javascript-1ig9)
+- [Mastering Java Collections with Multithreading: Best Practices and Practical Examples](https://dev.to/vishalpaalakurthi/mastering-java-collections-with-multithreading-best-practices-and-practical-examples-33c4)
+- [How to make Image rotate on hover using HTML and CSS](https://dev.to/kaja_uvais_a8691e947dd399/how-to-make-image-rotate-on-hover-using-html-and-css-1d49)
+- [Enabling PHP 8.1 in Apache 2 with Ansible: A Step-by-Step Guide](https://dev.to/devops_den/enabling-php-81-in-apache-2-with-ansible-a-step-by-step-guide-agg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
