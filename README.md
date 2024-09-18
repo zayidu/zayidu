@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Write for “.Net Programming” on Medium! 🚀](https://dev.to/csharp-programming/write-for-net-programming-on-medium-53f7)
-- [Layers of JavaScript](https://dev.to/shieldstring/layers-of-javascript-1ig9)
-- [Mastering Java Collections with Multithreading: Best Practices and Practical Examples](https://dev.to/vishalpaalakurthi/mastering-java-collections-with-multithreading-best-practices-and-practical-examples-33c4)
-- [How to make Image rotate on hover using HTML and CSS](https://dev.to/kaja_uvais_a8691e947dd399/how-to-make-image-rotate-on-hover-using-html-and-css-1d49)
-- [Enabling PHP 8.1 in Apache 2 with Ansible: A Step-by-Step Guide](https://dev.to/devops_den/enabling-php-81-in-apache-2-with-ansible-a-step-by-step-guide-agg)
+- [Modules Loadings in angular](https://dev.to/comedy_hub_1acffe1c00ffbf/loadings-in-angular-13jk)
+- [Plug-and-Play Animations: Crafting Lively Websites with asterisk/ui Components](https://dev.to/abhiroopc/plug-and-play-animations-crafting-lively-websites-with-asteriskui-components-50ja)
+- [20 Best Chrome Extensions for Developers in 2024](https://dev.to/nikhiltyagi04/20-best-chrome-extensions-for-developers-in-2024-224m)
+- [Using SQLynx for data comparison offers the following advantages:](https://dev.to/urlewicz_aicha_d14af69bc8/using-sqlynx-for-data-comparison-offers-the-following-advantages-cnc)
+- [Top Future Trends Shaping Azure IoT Hub in 2024 and Beyond](https://dev.to/enna/top-future-trends-shaping-azure-iot-hub-in-2024-and-beyond-54n0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
