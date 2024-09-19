@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mazal Music Player](https://dev.to/saramazal/mazal-music-player-97b)
-- [🎁Learn Python in 10 Days: Day5](https://dev.to/johnjava/learn-python-in-10-days-day5-142)
-- [Blast from the Past: Build Your Own Space Invaders Game with Python - A Step-by-Step Tutorial](https://dev.to/bernardkibathi/blast-from-the-past-build-your-own-space-invaders-game-with-python-a-step-by-step-tutorial-2ik2)
-- [On building a digital assistant for the rest of us &lpar;part 3&rpar;](https://dev.to/tkuenneth/on-building-a-digital-assistant-for-the-rest-of-us-part-3-4e0k)
-- [14 Case Studies: Master System Design in a Month](https://dev.to/alexr/14-case-studies-master-system-design-in-a-month-2jk2)
+- [10 Developer Tools to Improve Your Daily Life as a Developer: Part 2.](https://dev.to/balrajola/10-developer-tools-to-improve-your-daily-life-as-a-developer-part-2-h53)
+- [My Certified Kubernetes Administrator &lpar;CKA&rpar; Exam Experience](https://dev.to/aws-builders/my-certified-kubernetes-administrator-cka-exam-experience-p45)
+- [🚀 Introducing NeonBlue.Expressions – A C# Expression Evaluation Library for Developers!](https://dev.to/mohamed_ashmawy_d93978442/introducing-neonblueexpressions-a-c-expression-evaluation-library-for-developers-5bme)
+- [Friendly TypeScript Errors: Custom Messages for Easier Debugging](https://dev.to/reallygood/making-typescript-errors-friendly-custom-messages-for-easier-debugging-5672)
+- [5 Tips for Better Code Management with Git](https://dev.to/jaimaldullat/5-tips-for-better-code-management-with-git-5dc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
