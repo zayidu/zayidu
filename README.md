@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quickly index these web pages with IndexNow](https://dev.to/thomasbnt/quickly-index-these-web-pages-with-indexnow-2i9i)
-- [Using Open Source WAF to Address Crawlers Occupying Significant Network Bandwidth](https://dev.to/carrie_luo1/using-open-source-waf-to-address-crawlers-occupying-significant-network-bandwidth-i31)
-- [Interview with Hussein Hareb, Creator of Ηw-monitor!](https://dev.to/crabnebula/interview-with-hussein-hareb-creator-of-ew-monitor-4j7m)
-- [Beginner Questions about ML classification / forecasts](https://dev.to/maximhh/beginner-questions-about-ml-classification-forecasts-1pc1)
-- [Master SQL Like a Pro: The Ultimate SQL Cheatsheet](https://dev.to/niero/master-sql-like-a-pro-the-ultimate-sql-cheatsheet-l11)
+- [Mazal Music Player](https://dev.to/saramazal/mazal-music-player-97b)
+- [🎁Learn Python in 10 Days: Day5](https://dev.to/johnjava/learn-python-in-10-days-day5-142)
+- [Blast from the Past: Build Your Own Space Invaders Game with Python - A Step-by-Step Tutorial](https://dev.to/bernardkibathi/blast-from-the-past-build-your-own-space-invaders-game-with-python-a-step-by-step-tutorial-2ik2)
+- [On building a digital assistant for the rest of us &lpar;part 3&rpar;](https://dev.to/tkuenneth/on-building-a-digital-assistant-for-the-rest-of-us-part-3-4e0k)
+- [14 Case Studies: Master System Design in a Month](https://dev.to/alexr/14-case-studies-master-system-design-in-a-month-2jk2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
