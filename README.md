@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Binary Search: A Powerful Algorithm for Efficient Searching](https://dev.to/nd_18b1e31aad9b7eca9e465a/understanding-binary-search-a-powerful-algorithm-for-efficient-searching-100k)
-- [A Developer’s Tool for Managing Discord Time Zones](https://dev.to/badrnyali/a-developers-tool-for-managing-discord-time-zones-42nj)
-- [Golang and Python In CyberSecurity](https://dev.to/arslan_rajpoot_8bf9292f41/golang-and-python-in-cybersecurity-2b2h)
-- [handlenewtickets](https://dev.to/nicholasg/handlenewtickets-1cch)
-- [Using LLMs to reduce sign-up &amp; onboarding friction](https://dev.to/punkpeye/using-llms-to-reduce-sign-up-onboarding-friction-13if)
+- [Unlocking the Power of Git Worktree: A Game-Changer for Developers 🚀](https://dev.to/rakshyak/unlocking-the-power-of-git-worktree-a-game-changer-for-developers-5b32)
+- [What are HTTP and HTTPS protocols?](https://dev.to/yashrajxdev/what-are-http-and-https-protocols-b81)
+- [Using an AI Coding Tool to Contribute to Open Source Project](https://dev.to/nerevilo/using-an-ai-coding-tool-to-contribute-to-open-source-project-4enf)
+- [Building a 2D Array Visualizer with React: A Step-by-Step Guide](https://dev.to/salsadsid/building-a-2d-array-visualizer-with-react-a-step-by-step-guide-1d9h)
+- [💡A Simple Solution to Reusing Code Without the Hassle](https://dev.to/christapore/a-simple-solution-to-reusing-code-without-the-hassle-mmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
