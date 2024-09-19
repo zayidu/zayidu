@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Server-Side Rendering with Spring Boot](https://dev.to/nfrankel/server-side-rendering-with-spring-boot-2d8k)
-- [AI Creativity: Dissecting Large Language Models&#39; Potential and Pitfalls](https://dev.to/mikeyoung44/ai-creativity-dissecting-large-language-models-potential-and-pitfalls-163e)
-- [Read specified columns from a csv file #eg44](https://dev.to/esproc_spl/read-specified-columns-from-a-csv-file-eg44-244i)
-- [Web Development Legal Rules!](https://dev.to/evergreat/web-development-legal-rules-3lk5)
-- [Ansible with GitHub Actions](https://dev.to/spacelift/ansible-with-github-actions-i80)
+- [Quickly index these web pages with IndexNow](https://dev.to/thomasbnt/quickly-index-these-web-pages-with-indexnow-2i9i)
+- [Using Open Source WAF to Address Crawlers Occupying Significant Network Bandwidth](https://dev.to/carrie_luo1/using-open-source-waf-to-address-crawlers-occupying-significant-network-bandwidth-i31)
+- [Interview with Hussein Hareb, Creator of Ηw-monitor!](https://dev.to/crabnebula/interview-with-hussein-hareb-creator-of-ew-monitor-4j7m)
+- [Beginner Questions about ML classification / forecasts](https://dev.to/maximhh/beginner-questions-about-ml-classification-forecasts-1pc1)
+- [Master SQL Like a Pro: The Ultimate SQL Cheatsheet](https://dev.to/niero/master-sql-like-a-pro-the-ultimate-sql-cheatsheet-l11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
