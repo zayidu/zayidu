@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Developer Tools to Improve Your Daily Life as a Developer: Part 2.](https://dev.to/balrajola/10-developer-tools-to-improve-your-daily-life-as-a-developer-part-2-h53)
-- [My Certified Kubernetes Administrator &lpar;CKA&rpar; Exam Experience](https://dev.to/aws-builders/my-certified-kubernetes-administrator-cka-exam-experience-p45)
-- [🚀 Introducing NeonBlue.Expressions – A C# Expression Evaluation Library for Developers!](https://dev.to/mohamed_ashmawy_d93978442/introducing-neonblueexpressions-a-c-expression-evaluation-library-for-developers-5bme)
-- [Friendly TypeScript Errors: Custom Messages for Easier Debugging](https://dev.to/reallygood/making-typescript-errors-friendly-custom-messages-for-easier-debugging-5672)
-- [5 Tips for Better Code Management with Git](https://dev.to/jaimaldullat/5-tips-for-better-code-management-with-git-5dc8)
+- [17 LLM Tools That Went Viral After Launch 🎯⚡😳](https://dev.to/latitude/17-llm-tools-that-went-viral-after-launch-4gim)
+- [Forks in GitHub](https://dev.to/ledscolatina/forks-in-github-39l7)
+- [EchoAPI vs Insomnia: A Comprehensive Comparison with Practical Examples](https://dev.to/johnjava/echoapi-vs-insomnia-a-comprehensive-comparison-with-practical-examples-2114)
+- [How to Fix Tailwind CSS Not Working in Next.js](https://dev.to/harshit7492/how-to-fix-tailwind-css-not-working-in-nextjs-317m)
+- [How to Fix Tailwind CSS Not Working in Next.js](https://dev.to/harshit7492/how-to-fix-tailwind-css-not-working-in-nextjs-4m71)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
