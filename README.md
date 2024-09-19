@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [17 LLM Tools That Went Viral After Launch 🎯⚡😳](https://dev.to/latitude/17-llm-tools-that-went-viral-after-launch-4gim)
-- [Forks in GitHub](https://dev.to/ledscolatina/forks-in-github-39l7)
-- [EchoAPI vs Insomnia: A Comprehensive Comparison with Practical Examples](https://dev.to/johnjava/echoapi-vs-insomnia-a-comprehensive-comparison-with-practical-examples-2114)
-- [How to Fix Tailwind CSS Not Working in Next.js](https://dev.to/harshit7492/how-to-fix-tailwind-css-not-working-in-nextjs-317m)
-- [How to Fix Tailwind CSS Not Working in Next.js](https://dev.to/harshit7492/how-to-fix-tailwind-css-not-working-in-nextjs-4m71)
+- [Unlocking Success in Data Engineering Interviews](https://dev.to/grayhat/unlocking-success-in-data-engineering-interviews-36ba)
+- [Setup Gitlab CI](https://dev.to/chauhoangminhnguyen/setup-gitlab-ci-1pc1)
+- [Tips for testing queued jobs in Laravel](https://dev.to/eduarguz/tips-for-testing-queued-jobs-in-laravel-4c77)
+- [Top 10 Free APIs You Should Know](https://dev.to/nilebits/top-10-free-apis-you-should-know-525f)
+- [Introducing JDK 23: Java Developer&#39;s Ultimate Upgrade with Advanced AI Enhancements](https://dev.to/myexamcloud/introducing-jdk-23-java-developers-ultimate-upgrade-with-advanced-ai-enhancements-123j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
