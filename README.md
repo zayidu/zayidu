@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;next build&#39; not showing uploaded file : Next.js Image](https://dev.to/tushar_gajwani_0b4e241c8b/next-build-not-showing-uploaded-file-nextjs-image-23h0)
-- [What is ASP.NET used for in software development?](https://dev.to/abtosoftware/what-is-aspnet-used-for-in-software-development-1eke)
-- [Convert Google Slides to PDF](https://dev.to/jkrajniak/convert-google-slides-to-pdf-2jkd)
-- [Allocated case-Kenyatta University Teaching Research &amp; Refferal Hospital&lpar;KUTRRH&rpar;](https://dev.to/ndungu_jeffersonmarira_/allocated-case-kenyatta-university-teaching-research-refferal-hospitalkutrrh-1ehb)
-- [&quot;Embarking on My DevOps Journey: From Zero to Hero with TrainWithShubham&#39;s Junoon&quot;](https://dev.to/singh_in_cloud/embarking-on-my-devops-journey-from-zero-to-hero-with-trainwithshubhams-junoon-1a37)
+- [How to Dockerize Vite](https://dev.to/code42cate/how-to-dockerize-vite-44d3)
+- [How to Start Freelancing?](https://dev.to/itshayder/how-to-start-freelancing-38bo)
+- [Introduction to gen_data](https://dev.to/patfinder/introduction-to-gendata-2p83)
+- [Achieving Clean and Scalable PySpark Code: A Guide to Avoiding Redundancy](https://dev.to/gugomes/achieving-clean-and-scalable-pyspark-code-a-guide-to-avoiding-redundancy-5df0)
+- [Welcome to .NET 9 Preview](https://dev.to/dot_nettips_a4e90828daa4/welcome-to-net-9-preview-2afj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
