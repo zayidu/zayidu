@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing data structures for Advent of Code 2018 Day 24](https://dev.to/robinfivewords/choosing-data-structures-for-advent-of-code-2018-day-24-1ke)
-- [Understanding `try...catch` and `Promises` in JavaScript](https://dev.to/__vamshi_gorre/understanding-trycatch-and-promises-in-javascript-2gh9)
-- [How to Implement Data Encryption and Access Control in the Database Management Software SQLynx](https://dev.to/urlewicz_aicha_d14af69bc8/how-to-implement-data-encryption-and-access-control-in-the-database-management-software-sqlynx-55oh)
-- [Docker Cheat-sheet for beginners 🐳](https://dev.to/keshav___dev/docker-cheat-sheet-for-beginners-18mo)
-- [Managed, self-hosted Arm runners for GitHub Actions using AWS Graviton Processors](https://dev.to/aws-builders/managed-self-hosted-arm-runners-for-github-actions-using-aws-graviton-processors-5g94)
+- [Cluster Your Node.js Application for Better Performance](https://dev.to/jagroop2001/cluster-your-nodejs-application-for-better-performance-2ckn)
+- [How To Create Agent Pools In Azure DevOps](https://dev.to/s3cloudhub/how-to-create-agent-pools-in-azure-devops-1cp3)
+- [The Popularity of Cloud Automation Testing — A Comprehensive Analysis](https://dev.to/misterankit/the-popularity-of-cloud-automation-testing-a-comprehensive-analysis-4mne)
+- [OpenVINO&#39;s AI Success: Brilliance or Cracks Beneath the Surface?](https://dev.to/middleware/openvinos-ai-success-brilliance-or-cracks-beneath-the-surface-1ek)
+- [AWS IoT Device Management: Features and How It Works](https://dev.to/brilworks/aws-iot-device-management-features-and-how-it-works-2ag4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
