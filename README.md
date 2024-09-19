@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Service Workers - One Byte Explainer](https://dev.to/programordie/service-workers-one-byte-explainer-13c9)
-- [SQL Injections](https://dev.to/mohanavamsi0614/sql-injections-2b2i)
-- [Intro to firewalls🔥](https://dev.to/mohanavamsi0614/intro-to-firewalls-2em5)
-- [Data-Driven and Keyword-Driven Framework: Differences, Challenges, and Benefits](https://dev.to/testifytech/data-driven-and-keyword-driven-framework-differences-challenges-and-benefits-305e)
-- [Announcing Resume Enhancer: Your Resume, Perfectly Tailored for Every Job](https://dev.to/harshil_patel/announcing-resume-enhancer-your-resume-perfectly-tailored-for-every-job-4e39)
+- [Introducing FastSchema: A Powerful, Go-Based Web Framework &amp; Headless CMS](https://dev.to/ngocphuongnb/introducing-fastschema-a-powerful-go-based-web-framework-headless-cms-i7j)
+- [How to override laravel nova components](https://dev.to/devjm/how-to-override-laravel-nova-components-4mnf)
+- [Understanding the Importance of gRPC and Its Applications in Modern Software Development](https://dev.to/narmidm/understanding-the-importance-of-grpc-and-its-applications-in-modern-software-development-2dfh)
+- [What Marty Cagan Teaches About What a Product Manager Can and Cannot Delegate to Their Product Ops Team](https://dev.to/edensoftlabs/what-marty-cagan-teaches-about-what-a-product-manager-can-and-cannot-delegate-to-their-product-ops-team-4kjj)
+- [UseState and UseEffect](https://dev.to/mrcaption49/use-state-and-useeffect-cne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
