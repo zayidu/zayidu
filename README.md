@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ensure a robust and secure environment](https://dev.to/anjali_khurana_6d2dce439c/ensure-a-robust-and-secure-environment-1c75)
-- [How to crush your Hacker News launch](https://dev.to/dfarrell/how-to-crush-your-hacker-news-launch-10jk)
-- [Recapping the Visual AI in Healthcare Meetup — September 19, 2024](https://dev.to/voxel51/recapping-the-visual-ai-in-healthcare-meetup-september-19-2024-4hi)
-- [Server-side GTM With Azure App Service](https://dev.to/hardal/server-side-gtm-with-azure-app-service-4gdk)
-- [Server-side GTM With Yandex Cloud](https://dev.to/hardal/server-side-gtm-with-yandex-cloud-1pc0)
+- [These coding fonts are incredible](https://dev.to/safdarali/these-coding-fonts-are-incredible-4247)
+- [Visual AI in Healthcare: Interpretable AI Models in Radiology](https://dev.to/voxel51/visual-ai-in-healthcare-interpretable-ai-models-in-radiology-3na3)
+- [A basic MQTT Docker deployment](https://dev.to/johnscode/a-basic-mqtt-docker-deployment-1aah)
+- [Unlock 2x Faster Async Programming with Java Futures](https://dev.to/emilyjohnsonready/unlock-2x-faster-async-programming-with-java-futures-46o9)
+- [Number Bases and Binary Operations](https://dev.to/davit_hayrapetyan/number-bases-and-binary-operations-3313)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
