@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Does Google Measure the Impact of Search Algorithm Changes?](https://dev.to/juddiy/how-does-google-measure-the-impact-of-search-algorithm-changes-2d39)
-- [Nullish Coalescing Operator `??` in JavaScript](https://dev.to/codenextgen/nullish-coalescing-operator-in-javascript-2m72)
-- [Mastering StringValues in ASP.NET Core](https://dev.to/bytehide/mastering-stringvalues-in-aspnet-core-3p8j)
-- [Synchronous and asynchronous code in javascript](https://dev.to/dianalanciano/synchronous-and-asynchronous-code-in-javascript-44jk)
-- [Modern Web Development Frameworks: Comparing Popular Frameworks and Their Use Cases](https://dev.to/pellenilsen/modern-web-development-frameworks-comparing-popular-frameworks-and-their-use-cases-3p60)
+- [Server-Side Rendering with Spring Boot](https://dev.to/nfrankel/server-side-rendering-with-spring-boot-2d8k)
+- [AI Creativity: Dissecting Large Language Models&#39; Potential and Pitfalls](https://dev.to/mikeyoung44/ai-creativity-dissecting-large-language-models-potential-and-pitfalls-163e)
+- [Read specified columns from a csv file #eg44](https://dev.to/esproc_spl/read-specified-columns-from-a-csv-file-eg44-244i)
+- [Web Development Legal Rules!](https://dev.to/evergreat/web-development-legal-rules-3lk5)
+- [Ansible with GitHub Actions](https://dev.to/spacelift/ansible-with-github-actions-i80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
