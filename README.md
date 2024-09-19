@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Dockerize Vite](https://dev.to/code42cate/how-to-dockerize-vite-44d3)
-- [How to Start Freelancing?](https://dev.to/itshayder/how-to-start-freelancing-38bo)
-- [Introduction to gen_data](https://dev.to/patfinder/introduction-to-gendata-2p83)
-- [Achieving Clean and Scalable PySpark Code: A Guide to Avoiding Redundancy](https://dev.to/gugomes/achieving-clean-and-scalable-pyspark-code-a-guide-to-avoiding-redundancy-5df0)
-- [Welcome to .NET 9 Preview](https://dev.to/dot_nettips_a4e90828daa4/welcome-to-net-9-preview-2afj)
+- [Ensure a robust and secure environment](https://dev.to/anjali_khurana_6d2dce439c/ensure-a-robust-and-secure-environment-1c75)
+- [How to crush your Hacker News launch](https://dev.to/dfarrell/how-to-crush-your-hacker-news-launch-10jk)
+- [Recapping the Visual AI in Healthcare Meetup — September 19, 2024](https://dev.to/voxel51/recapping-the-visual-ai-in-healthcare-meetup-september-19-2024-4hi)
+- [Server-side GTM With Azure App Service](https://dev.to/hardal/server-side-gtm-with-azure-app-service-4gdk)
+- [Server-side GTM With Yandex Cloud](https://dev.to/hardal/server-side-gtm-with-yandex-cloud-1pc0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
