@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Git Worktree: A Game-Changer for Developers 🚀](https://dev.to/rakshyak/unlocking-the-power-of-git-worktree-a-game-changer-for-developers-5b32)
-- [What are HTTP and HTTPS protocols?](https://dev.to/yashrajxdev/what-are-http-and-https-protocols-b81)
-- [Using an AI Coding Tool to Contribute to Open Source Project](https://dev.to/nerevilo/using-an-ai-coding-tool-to-contribute-to-open-source-project-4enf)
-- [Building a 2D Array Visualizer with React: A Step-by-Step Guide](https://dev.to/salsadsid/building-a-2d-array-visualizer-with-react-a-step-by-step-guide-1d9h)
-- [💡A Simple Solution to Reusing Code Without the Hassle](https://dev.to/christapore/a-simple-solution-to-reusing-code-without-the-hassle-mmd)
+- [Flexbox – The Modern Way to Align and Distribute Space](https://dev.to/ridoy_hasan/flexbox-the-modern-way-to-align-and-distribute-space-2il3)
+- [Day 10. TODOs](https://dev.to/kiolk/day-10-todos-5em8)
+- [How I scout the &#39;ideal&#39; YouTube partner at Clerk](https://dev.to/alex_rapp_58f44471ada3639/how-i-scout-the-ideal-youtube-partner-at-clerk-2gjn)
+- [Security of Blockchain Transactions vs. REST API Calls](https://dev.to/sonu_sharma/security-of-blockchain-transactions-vs-rest-api-calls-5fna)
+- [How to Build a Twitter Clone with Rails 8 and Turbo 8](https://dev.to/rob__race/how-to-build-a-twitter-clone-with-rails-8-and-turbo-8-3k4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
