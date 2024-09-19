@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vanilla Javascript](https://dev.to/drupal-developer-dewan/vanilla-javascript-4iho)
-- [Making a custom Bootloader for a Custom OS.](https://dev.to/mr-3/making-a-custom-bootloader-1602)
-- [5 go-to-market lessons I learned from driving a developer-led growth product](https://dev.to/logto/5-go-to-market-lessons-i-learned-from-driving-a-developer-led-growth-product-3ep6)
-- [Exploring Job Market for Software Engineers](https://dev.to/suzumenobu/exploring-job-market-for-software-engineers-3li8)
-- [The Significance of Full SDLC Testing in Mobile App Development](https://dev.to/berthaw82414312/the-significance-of-full-sdlc-testing-in-mobile-app-development-1gdg)
+- [How Does Google Measure the Impact of Search Algorithm Changes?](https://dev.to/juddiy/how-does-google-measure-the-impact-of-search-algorithm-changes-2d39)
+- [Nullish Coalescing Operator `??` in JavaScript](https://dev.to/codenextgen/nullish-coalescing-operator-in-javascript-2m72)
+- [Mastering StringValues in ASP.NET Core](https://dev.to/bytehide/mastering-stringvalues-in-aspnet-core-3p8j)
+- [Synchronous and asynchronous code in javascript](https://dev.to/dianalanciano/synchronous-and-asynchronous-code-in-javascript-44jk)
+- [Modern Web Development Frameworks: Comparing Popular Frameworks and Their Use Cases](https://dev.to/pellenilsen/modern-web-development-frameworks-comparing-popular-frameworks-and-their-use-cases-3p60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
