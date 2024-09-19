@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Microservices Using Knative](https://dev.to/pkaisharis/building-microservices-using-knative-53od)
-- [TIL: HTTP methods are case-sensitive](https://dev.to/dleedev365/til-http-methods-are-case-sensitive-5edh)
-- [Git Cheatsheet that will make you a master in Git](https://dev.to/hichamelhirch/git-cheatsheet-that-will-make-you-a-master-in-git-2m9a)
-- [Building a Terminal TODO App in Rust](https://dev.to/tramposo/building-a-terminal-todo-app-in-rust-39l2)
-- [Code Smell 270 - Boolean APIs](https://dev.to/mcsee/code-smell-270-boolean-apis-3ddn)
+- [LabEx Trending: Implementing Callback Functions in C and More](https://dev.to/labex/labex-trending-implementing-callback-functions-in-c-and-more-164n)
+- [How to Secure OpenResty with a Free WAF](https://dev.to/carrie_luo1/quick-integration-of-free-waf-with-nginx-aa2)
+- [Project Planning](https://dev.to/ianacaburian/project-planning-2deg)
+- [Code Against the Clock: From Clicks to Cash](https://dev.to/programmerraja/code-against-the-clock-from-clicks-to-cash-2dg)
+- [How to Fix Webpack’s error:0308010C on macOS with Node.js 17+](https://dev.to/jessalejo/how-to-fix-webpacks-error0308010c-on-macos-with-nodejs-17-56l7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
