@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flexbox – The Modern Way to Align and Distribute Space](https://dev.to/ridoy_hasan/flexbox-the-modern-way-to-align-and-distribute-space-2il3)
-- [Day 10. TODOs](https://dev.to/kiolk/day-10-todos-5em8)
-- [How I scout the &#39;ideal&#39; YouTube partner at Clerk](https://dev.to/alex_rapp_58f44471ada3639/how-i-scout-the-ideal-youtube-partner-at-clerk-2gjn)
-- [Security of Blockchain Transactions vs. REST API Calls](https://dev.to/sonu_sharma/security-of-blockchain-transactions-vs-rest-api-calls-5fna)
-- [How to Build a Twitter Clone with Rails 8 and Turbo 8](https://dev.to/rob__race/how-to-build-a-twitter-clone-with-rails-8-and-turbo-8-3k4m)
+- [&#39;next build&#39; not showing uploaded file : Next.js Image](https://dev.to/tushar_gajwani_0b4e241c8b/next-build-not-showing-uploaded-file-nextjs-image-23h0)
+- [What is ASP.NET used for in software development?](https://dev.to/abtosoftware/what-is-aspnet-used-for-in-software-development-1eke)
+- [Convert Google Slides to PDF](https://dev.to/jkrajniak/convert-google-slides-to-pdf-2jkd)
+- [Allocated case-Kenyatta University Teaching Research &amp; Refferal Hospital&lpar;KUTRRH&rpar;](https://dev.to/ndungu_jeffersonmarira_/allocated-case-kenyatta-university-teaching-research-refferal-hospitalkutrrh-1ehb)
+- [&quot;Embarking on My DevOps Journey: From Zero to Hero with TrainWithShubham&#39;s Junoon&quot;](https://dev.to/singh_in_cloud/embarking-on-my-devops-journey-from-zero-to-hero-with-trainwithshubhams-junoon-1a37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
