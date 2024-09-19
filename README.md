@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LabEx Trending: Implementing Callback Functions in C and More](https://dev.to/labex/labex-trending-implementing-callback-functions-in-c-and-more-164n)
-- [How to Secure OpenResty with a Free WAF](https://dev.to/carrie_luo1/quick-integration-of-free-waf-with-nginx-aa2)
-- [Project Planning](https://dev.to/ianacaburian/project-planning-2deg)
-- [Code Against the Clock: From Clicks to Cash](https://dev.to/programmerraja/code-against-the-clock-from-clicks-to-cash-2dg)
-- [How to Fix Webpack’s error:0308010C on macOS with Node.js 17+](https://dev.to/jessalejo/how-to-fix-webpacks-error0308010c-on-macos-with-nodejs-17-56l7)
+- [Choosing data structures for Advent of Code 2018 Day 24](https://dev.to/robinfivewords/choosing-data-structures-for-advent-of-code-2018-day-24-1ke)
+- [Understanding `try...catch` and `Promises` in JavaScript](https://dev.to/__vamshi_gorre/understanding-trycatch-and-promises-in-javascript-2gh9)
+- [How to Implement Data Encryption and Access Control in the Database Management Software SQLynx](https://dev.to/urlewicz_aicha_d14af69bc8/how-to-implement-data-encryption-and-access-control-in-the-database-management-software-sqlynx-55oh)
+- [Docker Cheat-sheet for beginners 🐳](https://dev.to/keshav___dev/docker-cheat-sheet-for-beginners-18mo)
+- [Managed, self-hosted Arm runners for GitHub Actions using AWS Graviton Processors](https://dev.to/aws-builders/managed-self-hosted-arm-runners-for-github-actions-using-aws-graviton-processors-5g94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
