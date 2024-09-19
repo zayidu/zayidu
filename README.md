@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create spaces in Hugging Face?](https://dev.to/itstomlie/how-to-create-spaces-in-hugging-face-a9k)
-- [Building a Strong Online Presence: The Role of Tech Alphonic in Reputation Management](https://dev.to/bhawesh_techalphonic_7e66/building-a-strong-online-presence-the-role-of-tech-alphonic-in-reputation-management-44pp)
-- [nestjs &amp; expressjs side by side #nodejs](https://dev.to/inditechcoder/nestjs-expressjs-side-by-side-nodejs-11np)
-- [Best API Designers for Building Robust, Scalable APIs](https://dev.to/apilover/best-api-designers-for-building-robust-scalable-apis-1bj4)
-- [Configuring Tailwind as a Design System](https://dev.to/callumflack/configuring-tailwind-as-a-design-system-2f5h)
+- [Vanilla Javascript](https://dev.to/drupal-developer-dewan/vanilla-javascript-4iho)
+- [Making a custom Bootloader for a Custom OS.](https://dev.to/mr-3/making-a-custom-bootloader-1602)
+- [5 go-to-market lessons I learned from driving a developer-led growth product](https://dev.to/logto/5-go-to-market-lessons-i-learned-from-driving-a-developer-led-growth-product-3ep6)
+- [Exploring Job Market for Software Engineers](https://dev.to/suzumenobu/exploring-job-market-for-software-engineers-3li8)
+- [The Significance of Full SDLC Testing in Mobile App Development](https://dev.to/berthaw82414312/the-significance-of-full-sdlc-testing-in-mobile-app-development-1gdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
