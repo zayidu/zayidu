@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cluster Your Node.js Application for Better Performance](https://dev.to/jagroop2001/cluster-your-nodejs-application-for-better-performance-2ckn)
-- [How To Create Agent Pools In Azure DevOps](https://dev.to/s3cloudhub/how-to-create-agent-pools-in-azure-devops-1cp3)
-- [The Popularity of Cloud Automation Testing — A Comprehensive Analysis](https://dev.to/misterankit/the-popularity-of-cloud-automation-testing-a-comprehensive-analysis-4mne)
-- [OpenVINO&#39;s AI Success: Brilliance or Cracks Beneath the Surface?](https://dev.to/middleware/openvinos-ai-success-brilliance-or-cracks-beneath-the-surface-1ek)
-- [AWS IoT Device Management: Features and How It Works](https://dev.to/brilworks/aws-iot-device-management-features-and-how-it-works-2ag4)
+- [How to create spaces in Hugging Face?](https://dev.to/itstomlie/how-to-create-spaces-in-hugging-face-a9k)
+- [Building a Strong Online Presence: The Role of Tech Alphonic in Reputation Management](https://dev.to/bhawesh_techalphonic_7e66/building-a-strong-online-presence-the-role-of-tech-alphonic-in-reputation-management-44pp)
+- [nestjs &amp; expressjs side by side #nodejs](https://dev.to/inditechcoder/nestjs-expressjs-side-by-side-nodejs-11np)
+- [Best API Designers for Building Robust, Scalable APIs](https://dev.to/apilover/best-api-designers-for-building-robust-scalable-apis-1bj4)
+- [Configuring Tailwind as a Design System](https://dev.to/callumflack/configuring-tailwind-as-a-design-system-2f5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
