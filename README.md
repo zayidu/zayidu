@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Topics in Vue 3](https://dev.to/kartikmehta8/advanced-topics-in-vue-3-3e75)
-- [Afzal and associates](https://dev.to/afzal_tipu/afzal-and-associates-22jf)
-- [Integrando n8n com a API do Google Gemini: Automatizando Processos com Inteligência Artificial](https://dev.to/ronieremarques/integrando-n8n-com-a-api-do-google-gemini-automatizando-processos-com-inteligencia-artificial-1a8i)
-- [[Flatiron SE] Day 20: 09/19/24](https://dev.to/mrdrfeesh/flatiron-se-day-20-091924-3gdi)
-- [How to Deploy a JavaScript Library to npm in 5 Minutes](https://dev.to/geraldhamiltonwicks/how-to-deploy-a-javascript-library-to-npm-in-5-minutes-35k0)
+- [Implement React v18 from Scratch Using WASM and Rust - [26] Implement React.lazy](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-26-implement-reactlazy-4n0n)
+- [Useful shortcuts! 🥸](https://dev.to/ritumka/useful-shortcuts-8hg)
+- [Superpowered Git Aliases using Scripting](https://dev.to/agentender/superpowered-git-aliases-using-scripting-4odf)
+- [Creating Pull Requests to External Repositories](https://dev.to/anhchienvu/creating-pull-requests-to-external-repositories-5183)
+- [Automate your custom sign-in UI deployment with GitHub Actions workflow](https://dev.to/logto/automate-your-custom-sign-in-ui-deployment-with-github-actions-workflow-24oe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
