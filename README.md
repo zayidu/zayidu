@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [40+ Frontend UI Components](https://dev.to/shreyvijayvargiya/40-code-components-339e)
-- [AWS Database Migration Service now includes enhanced monitoring dashboard for your DMS tasks](https://dev.to/karthiksakthiveltechie/aws-database-migration-service-now-includes-enhanced-monitoring-dashboard-for-your-dms-tasks-27pd)
-- [Entity Framework Core &lpar;EF Core&rpar; vs. Dapper](https://dev.to/hamza_darouzi_dotnet/entity-framework-core-ef-core-vs-dapper-2ele)
-- [Introducing the OpenSauced Pizza GitHub Action: Automate Your Repository Management](https://dev.to/opensauced/introducing-the-opensauced-pizza-github-action-automate-your-repository-management-44aj)
-- [What is JSON?](https://dev.to/hakimmohamed/what-is-json-3fi4)
+- [Graph &lpar;DSA - 7&rpar;](https://dev.to/madgan95/graph-dsa-7-214j)
+- [Web Theory - Part 10: Enhancing User Experience: Uncommon Insights for Unforgettable Interfaces](https://dev.to/teclearn/web-theory-part-10-enhancing-user-experience-uncommon-insights-for-unforgettable-interfaces-pio)
+- [Human AI – Humanizing AI Produced Content](https://dev.to/techelopment/human-ai-humanizing-ai-produced-content-4g16)
+- [15 Re-usable ui component libraries with Framer Motion](https://dev.to/kohtet_gintoki/15-re-usable-ui-component-libraries-with-framer-motion-25p9)
+- [Sept 24 - Getting Started with FiftyOne Virtual Workshop](https://dev.to/voxel51/sept-24-getting-started-with-fiftyone-virtual-workshop-1nc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
