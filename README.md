@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Website Plagiarism Checkers in Maintaining Code Quality](https://dev.to/codequiry/the-role-of-website-plagiarism-checkers-in-maintaining-code-quality-1bdn)
-- [Reconciling Conflicting Scaling Laws in Large Language Models](https://dev.to/mikeyoung44/reconciling-conflicting-scaling-laws-in-large-language-models-3g9n)
-- [Top 15 VS Code Extensions for Developers](https://dev.to/nighty3098/top-15-vs-code-extensions-for-developers-27c6)
-- [ELIZA Revisited: World&#39;s First Chatbot Exposed as Experiment on Human Credulity](https://dev.to/mikeyoung44/eliza-revisited-worlds-first-chatbot-exposed-as-experiment-on-human-credulity-6h9)
-- [21 Best QA Testing Tools For 2024](https://dev.to/nazneenahmad/21-best-qa-testing-tools-for-2024-4l4p)
+- [Decrypt Go: varint](https://dev.to/huizhou92/decrypt-go-varint-4d29)
+- [data-testid: Bridging the Gap between QA Engineering and Front End Dev](https://dev.to/johnnyv5g/data-testid-bridging-the-gap-between-qa-engineering-and-front-end-dev-gja)
+- [Interview Question and Answer for Functional Programming](https://dev.to/nozibul_islam_113b1d5334f/interview-question-and-answer-for-functional-programming-57d6)
+- [How to Integrate SMTP in Next.js 14 Using Nodemailer](https://dev.to/chaudharidevam/how-to-integrate-smtp-in-nextjs-14-using-nodemailer-3g6j)
+- [Open Source WAF SafeLine: Offline One-Click Installation, Upgrade, and Configuration](https://dev.to/carrie_luo1/open-source-waf-safeline-offline-one-click-installation-upgrade-and-configuration-3g1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
