@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fun Animation using GSAP](https://dev.to/akshat0610/fun-animation-using-gsap-4bbi)
-- [Cursor AI vs. Void AI Code Editor: The Ultimate Showdown](https://dev.to/dev007777/cursor-ai-vs-void-ai-code-editor-the-ultimate-showdown-309c)
-- [Why is landing an Internship as a Computer science student so hard ?](https://dev.to/coding_quill_3d19fa22547e/why-is-landing-an-internship-as-a-computer-science-student-so-hard--oe0)
-- [Usability Experiences👨🏾‍💻](https://dev.to/taariqelliott/usability-experiences-44m3)
-- [Unleashing Parallel Processing with Node.js Worker Threads](https://dev.to/sarvabharan/unleashing-parallel-processing-with-nodejs-worker-threads-4dab)
+- [Terraform module for S3 static website hosting](https://dev.to/leroykayanda/terraform-module-for-s3-static-website-hosting-1211)
+- [Weekly Updates - September 20, 2024](https://dev.to/couchbase/weekly-updates-september-20-2024-5e3d)
+- [Logging in Python: Best Practices](https://dev.to/nishantmodak/logging-in-python-best-practices-21n8)
+- [Logging in Python: Best Practices](https://dev.to/nishantmodak/logging-in-python-best-practices-48dg)
+- [Boost Your DevOps Security: Comprehensive AWS Strategies for Safe Cloud Operations](https://dev.to/ikoh_sylva/boost-your-devops-security-comprehensive-aws-strategies-for-safe-cloud-operations-2g6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
