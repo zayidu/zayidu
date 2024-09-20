@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implement React v18 from Scratch Using WASM and Rust - [26] Implement React.lazy](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-26-implement-reactlazy-4n0n)
-- [Useful shortcuts! 🥸](https://dev.to/ritumka/useful-shortcuts-8hg)
-- [Superpowered Git Aliases using Scripting](https://dev.to/agentender/superpowered-git-aliases-using-scripting-4odf)
-- [Creating Pull Requests to External Repositories](https://dev.to/anhchienvu/creating-pull-requests-to-external-repositories-5183)
-- [Automate your custom sign-in UI deployment with GitHub Actions workflow](https://dev.to/logto/automate-your-custom-sign-in-ui-deployment-with-github-actions-workflow-24oe)
+- [Mastering Docker: A Comprehensive Collection of Hands-on Labs](https://dev.to/labex/mastering-docker-a-comprehensive-collection-of-hands-on-labs-1598)
+- [Things to do after installing Ubuntu](https://dev.to/tripleo/things-to-do-after-installing-ubuntu-5gno)
+- [Event Propagation - Bubbling vs Capturing Explained with Examples](https://dev.to/rsmacademybd/event-propagation-bubbling-vs-capturing-explained-with-examples-1j1l)
+- [The Ultimate Guide to Setting Up a Windows 11 Web Development Environment](https://dev.to/a99divx/the-ultimate-guide-to-setting-up-a-windows-11-web-development-environment-pj4)
+- [Why is Cursor IDE not Creating an Automatic Git Commit?](https://dev.to/ahmadswalih/why-is-cursor-ide-not-creating-an-automatic-git-commit-4jd9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
