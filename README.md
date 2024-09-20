@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The performance issues of Ruby on Rail](https://dev.to/michel_1211/the-performance-issues-of-ruby-on-rail-io3)
-- [PointaFam: Connecting Farmers with Urban Retailers](https://dev.to/ferdi_code/-pointafam-connecting-farmers-with-urban-retailers-5fn)
-- [Coding with Speed of AI: If you build it, they will come](https://dev.to/petercsiba/coding-with-speed-of-ai-if-you-build-it-they-will-come-4jac)
-- [Como usar o BEM na Refatoração de codigos com CSS/Sass](https://dev.to/andressasantos/como-usar-o-bem-na-refatoracao-de-codigos-com-csssass-4kba)
-- [Strengthen OpenSSH Security through Ansible and GitHub Actions](https://dev.to/atomax/strengthen-openssh-security-through-ansible-and-github-actions-6c7)
+- [A visual tutorial on Trie data type](https://dev.to/turck/a-visual-tutorial-on-tries-np2)
+- [Looking for Passionate Students to Collaborate on a Real-World Python/React Project!](https://dev.to/anugrah_vardhan/looking-for-passionate-students-to-collaborate-on-a-real-world-pythonreact-project-2h8k)
+- [How to Create a WhatsApp Bot in Node.js](https://dev.to/yaasiin-ayeva/how-to-create-a-whatsapp-bot-in-nodejs-4mfd)
+- [Geolocation fun with Gemini](https://dev.to/vkili/geolocation-fun-with-gemini-2jp)
+- [My deep dive into my project, CORS, and Authorization](https://dev.to/sleepysloth/my-deep-dive-into-my-project-cors-and-authorization-fb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
