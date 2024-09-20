@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform module for S3 static website hosting](https://dev.to/leroykayanda/terraform-module-for-s3-static-website-hosting-1211)
-- [Weekly Updates - September 20, 2024](https://dev.to/couchbase/weekly-updates-september-20-2024-5e3d)
-- [Logging in Python: Best Practices](https://dev.to/nishantmodak/logging-in-python-best-practices-21n8)
-- [Logging in Python: Best Practices](https://dev.to/nishantmodak/logging-in-python-best-practices-48dg)
-- [Boost Your DevOps Security: Comprehensive AWS Strategies for Safe Cloud Operations](https://dev.to/ikoh_sylva/boost-your-devops-security-comprehensive-aws-strategies-for-safe-cloud-operations-2g6o)
+- [The performance issues of Ruby on Rail](https://dev.to/michel_1211/the-performance-issues-of-ruby-on-rail-io3)
+- [PointaFam: Connecting Farmers with Urban Retailers](https://dev.to/ferdi_code/-pointafam-connecting-farmers-with-urban-retailers-5fn)
+- [Coding with Speed of AI: If you build it, they will come](https://dev.to/petercsiba/coding-with-speed-of-ai-if-you-build-it-they-will-come-4jac)
+- [Como usar o BEM na Refatoração de codigos com CSS/Sass](https://dev.to/andressasantos/como-usar-o-bem-na-refatoracao-de-codigos-com-csssass-4kba)
+- [Strengthen OpenSSH Security through Ansible and GitHub Actions](https://dev.to/atomax/strengthen-openssh-security-through-ansible-and-github-actions-6c7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
