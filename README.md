@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-48jp)
-- [Web Storage API Explained with Examples](https://dev.to/rsmacademybd/web-storage-api-explained-with-examples-4nph)
-- [vue 通过自定义命令 给项目按钮增加水波纹效果](https://dev.to/kh_lemon_d03f057b837fc044/vue-tong-guo-zi-ding-yi-ming-ling-gei-xiang-mu-an-niu-zeng-jia-shui-bo-wen-xiao-guo-433j)
-- [Assignment 2](https://dev.to/paperdrago/assignment-2-286m)
-- [Web History API Explained with Examples](https://dev.to/rsmacademybd/web-history-api-explained-with-examples-21cf)
+- [LabEx Trending: MySQL Database Administration Essentials and More](https://dev.to/labex/labex-trending-mysql-database-administration-essentials-and-more-1ceh)
+- [Build or Not Build?](https://dev.to/syakirurahman/build-or-not-build-1jaf)
+- [Semantic Search and Algorithms](https://dev.to/ragoli86/semantic-search-and-algorithms-4d0b)
+- [What is Cloud Computing? Know The 7 Myths &amp; Misconceptions with Truth](https://dev.to/certera_/what-is-cloud-computing-know-the-7-myths-misconceptions-with-truth-3ela)
+- [How to Containerize a Node.js Application](https://dev.to/kmsaifullah/how-to-containerize-a-node-js-application-2ei3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
