@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Split a large csv file into smaller files #eg45](https://dev.to/esproc_spl/split-a-large-csv-file-into-smaller-files-eg45-8d4)
-- [The Importance of SIT vs UAT: Strategies, Best Practices, and Real-World Effectiveness](https://dev.to/keploy/the-importance-of-sit-vs-uat-strategies-best-practices-and-real-world-effectiveness-222l)
-- [How to uninstall Forticlient.app in macbook](https://dev.to/04anilr/how-to-uninstall-forticlientapp-in-macbook-1749)
-- [Key Components and Tools for Event-Driven Architectures](https://dev.to/axeldlv/key-components-and-tools-for-event-driven-architectures-3ipc)
-- [What is a Headless CMS? A Comprehensive Guide for Modern Developers](https://dev.to/wewphosting/what-is-a-headless-cms-a-comprehensive-guide-for-modern-developers-116i)
+- [The Role of Website Plagiarism Checkers in Maintaining Code Quality](https://dev.to/codequiry/the-role-of-website-plagiarism-checkers-in-maintaining-code-quality-1bdn)
+- [Reconciling Conflicting Scaling Laws in Large Language Models](https://dev.to/mikeyoung44/reconciling-conflicting-scaling-laws-in-large-language-models-3g9n)
+- [Top 15 VS Code Extensions for Developers](https://dev.to/nighty3098/top-15-vs-code-extensions-for-developers-27c6)
+- [ELIZA Revisited: World&#39;s First Chatbot Exposed as Experiment on Human Credulity](https://dev.to/mikeyoung44/eliza-revisited-worlds-first-chatbot-exposed-as-experiment-on-human-credulity-6h9)
+- [21 Best QA Testing Tools For 2024](https://dev.to/nazneenahmad/21-best-qa-testing-tools-for-2024-4l4p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
