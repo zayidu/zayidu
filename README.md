@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [These coding fonts are incredible](https://dev.to/safdarali/these-coding-fonts-are-incredible-4247)
-- [Visual AI in Healthcare: Interpretable AI Models in Radiology](https://dev.to/voxel51/visual-ai-in-healthcare-interpretable-ai-models-in-radiology-3na3)
-- [A basic MQTT Docker deployment](https://dev.to/johnscode/a-basic-mqtt-docker-deployment-1aah)
-- [Unlock 2x Faster Async Programming with Java Futures](https://dev.to/emilyjohnsonready/unlock-2x-faster-async-programming-with-java-futures-46o9)
-- [Number Bases and Binary Operations](https://dev.to/davit_hayrapetyan/number-bases-and-binary-operations-3313)
+- [Advanced Topics in Vue 3](https://dev.to/kartikmehta8/advanced-topics-in-vue-3-3e75)
+- [Afzal and associates](https://dev.to/afzal_tipu/afzal-and-associates-22jf)
+- [Integrando n8n com a API do Google Gemini: Automatizando Processos com Inteligência Artificial](https://dev.to/ronieremarques/integrando-n8n-com-a-api-do-google-gemini-automatizando-processos-com-inteligencia-artificial-1a8i)
+- [[Flatiron SE] Day 20: 09/19/24](https://dev.to/mrdrfeesh/flatiron-se-day-20-091924-3gdi)
+- [How to Deploy a JavaScript Library to npm in 5 Minutes](https://dev.to/geraldhamiltonwicks/how-to-deploy-a-javascript-library-to-npm-in-5-minutes-35k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
