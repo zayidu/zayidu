@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Essential Transformations for a Java Developer to Secure Future Job Opportunities](https://dev.to/myexamcloud/10-essential-transformations-for-a-java-developer-to-secure-future-job-opportunities-10b8)
-- [AWS EKS vs KOPS: Choosing the Right Kubernetes Solution](https://dev.to/devtron_inc/aws-eks-vs-kops-choosing-the-right-kubernetes-solution-kjj)
-- [If you don&#39;t write unit tests... it&#39;s a skill issue](https://dev.to/manuartero/if-you-dont-write-unit-test-its-a-skill-issue-22db)
-- [What is Storybook and Why It’s Worth Using](https://dev.to/pagepro_agency/what-is-storybook-and-why-its-worth-using-526c)
-- [How to Run Open Source WAF SafeLine on K8s](https://dev.to/carrie_luo1/how-to-run-open-source-waf-safeline-on-k8s-1nb)
+- [Oracle APEX Tutorial: Master Database Development with Vinish.dev](https://dev.to/foxinfotech/oracle-apex-tutorial-master-database-development-with-vinishdev-2ic5)
+- [From Zero to Hero: How to Transition from a Security Enthusiast to a Successful Bug Bounty Hunter](https://dev.to/kamna_singh_0239acbff9a97/from-zero-to-hero-how-to-transition-from-a-security-enthusiast-to-a-successful-bug-bounty-hunter-4li2)
+- [Excited to Join the Developer Community!](https://dev.to/gracerosen/excited-to-join-the-developer-community-19dd)
+- [Top 5 Ethical Hacking Tools Every Security Professional Should Know](https://dev.to/kamna_singh_0239acbff9a97/top-5-ethical-hacking-tools-every-security-professional-should-know-3dni)
+- [Alien Meteor Dodge: A Thrilling HTML5 Game](https://dev.to/itsshaikhaj/alien-meteor-dodge-a-thrilling-html5-game-4fph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
