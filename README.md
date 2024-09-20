@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle APEX Tutorial: Master Database Development with Vinish.dev](https://dev.to/foxinfotech/oracle-apex-tutorial-master-database-development-with-vinishdev-2ic5)
-- [From Zero to Hero: How to Transition from a Security Enthusiast to a Successful Bug Bounty Hunter](https://dev.to/kamna_singh_0239acbff9a97/from-zero-to-hero-how-to-transition-from-a-security-enthusiast-to-a-successful-bug-bounty-hunter-4li2)
-- [Excited to Join the Developer Community!](https://dev.to/gracerosen/excited-to-join-the-developer-community-19dd)
-- [Top 5 Ethical Hacking Tools Every Security Professional Should Know](https://dev.to/kamna_singh_0239acbff9a97/top-5-ethical-hacking-tools-every-security-professional-should-know-3dni)
-- [Alien Meteor Dodge: A Thrilling HTML5 Game](https://dev.to/itsshaikhaj/alien-meteor-dodge-a-thrilling-html5-game-4fph)
+- [GitHub: learning about the feature called Issues☕](https://dev.to/ledscolatina/github-learning-about-the-feature-called-issues-2ifm)
+- [7 SQL Concepts You Should Know as a Data Scientist?](https://dev.to/sachingeek/7-sql-concepts-you-should-know-as-a-data-scientist-28n3)
+- [Medium.com API in Python](https://dev.to/theholyspirit/mediumcom-api-in-python-1kjn)
+- [Como executar várias operações de forma transacional em Golang?](https://dev.to/ortizdavid/como-executar-varias-operacoes-de-forma-transacional-em-golang-2nmo)
+- [Create an Animated Pie Chart in Less Than 20 Lines of Code!](https://dev.to/yashas_gowda_/create-an-animated-pie-chart-in-less-than-20-lines-of-code-4ck0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
