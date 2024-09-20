@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Graph &lpar;DSA - 7&rpar;](https://dev.to/madgan95/graph-dsa-7-214j)
-- [Web Theory - Part 10: Enhancing User Experience: Uncommon Insights for Unforgettable Interfaces](https://dev.to/teclearn/web-theory-part-10-enhancing-user-experience-uncommon-insights-for-unforgettable-interfaces-pio)
-- [Human AI – Humanizing AI Produced Content](https://dev.to/techelopment/human-ai-humanizing-ai-produced-content-4g16)
-- [15 Re-usable ui component libraries with Framer Motion](https://dev.to/kohtet_gintoki/15-re-usable-ui-component-libraries-with-framer-motion-25p9)
-- [Sept 24 - Getting Started with FiftyOne Virtual Workshop](https://dev.to/voxel51/sept-24-getting-started-with-fiftyone-virtual-workshop-1nc6)
+- [Fun Animation using GSAP](https://dev.to/akshat0610/fun-animation-using-gsap-4bbi)
+- [Cursor AI vs. Void AI Code Editor: The Ultimate Showdown](https://dev.to/dev007777/cursor-ai-vs-void-ai-code-editor-the-ultimate-showdown-309c)
+- [Why is landing an Internship as a Computer science student so hard ?](https://dev.to/coding_quill_3d19fa22547e/why-is-landing-an-internship-as-a-computer-science-student-so-hard--oe0)
+- [Usability Experiences👨🏾‍💻](https://dev.to/taariqelliott/usability-experiences-44m3)
+- [Unleashing Parallel Processing with Node.js Worker Threads](https://dev.to/sarvabharan/unleashing-parallel-processing-with-nodejs-worker-threads-4dab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
