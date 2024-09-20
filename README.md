@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Generative AI enhances Master Data Management systems? - Mastech InfoTrellis](https://dev.to/hana_sato/how-generative-ai-enhances-master-data-management-systems-mastech-infotrellis-bm8)
-- [Event Loop in 2 Minutes](https://dev.to/bhataasim/event-loop-in-2-minutes-5895)
-- [API Design and Development: Best practices for creating robust and scalable APIs.](https://dev.to/pellenilsen/api-design-and-development-best-practices-for-creating-robust-and-scalable-apis-47mf)
-- [Error in Jest integration with Vue js](https://dev.to/pankaj_durve_077665afa829/error-in-jest-integration-with-vue-js-55bh)
-- [19 Essential Laravel Performance Optimization Tips](https://dev.to/proprzzzz/19-essential-laravel-performance-optimization-tips-2imf)
+- [Split a large csv file into smaller files #eg45](https://dev.to/esproc_spl/split-a-large-csv-file-into-smaller-files-eg45-8d4)
+- [The Importance of SIT vs UAT: Strategies, Best Practices, and Real-World Effectiveness](https://dev.to/keploy/the-importance-of-sit-vs-uat-strategies-best-practices-and-real-world-effectiveness-222l)
+- [How to uninstall Forticlient.app in macbook](https://dev.to/04anilr/how-to-uninstall-forticlientapp-in-macbook-1749)
+- [Key Components and Tools for Event-Driven Architectures](https://dev.to/axeldlv/key-components-and-tools-for-event-driven-architectures-3ipc)
+- [What is a Headless CMS? A Comprehensive Guide for Modern Developers](https://dev.to/wewphosting/what-is-a-headless-cms-a-comprehensive-guide-for-modern-developers-116i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
