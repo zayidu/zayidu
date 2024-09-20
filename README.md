@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Project I&#39;ve been working for 1 year](https://dev.to/framemuse/project-ive-been-working-for-1-year-12dk)
+- [Add a test case when your open-source project’s issue is fixed.](https://dev.to/thinkthroo/add-a-test-case-when-your-open-source-projects-issue-is-fixed-1cnn)
+- [Object Oriented Programming &lpar;OOP&rpar; in JavaScript - Top to Bottom](https://dev.to/abeertech01/object-oriented-programming-oop-in-javascript-top-to-bottom-b1o)
 - [Dive Into Angular with This Comprehensive Beginner&#39;s Guide! 🚀](https://dev.to/getvm/dive-into-angular-with-this-comprehensive-beginners-guide-4236)
 - [Different types of models in the Cloud](https://dev.to/tjasper/different-types-of-models-in-the-cloud-4e8p)
-- [Setup firewall on Alpine with nftables](https://dev.to/tinkertinker/setup-firewall-on-alpine-with-nftables-3219)
-- [Day 11. Friday evening](https://dev.to/kiolk/day-11-friday-evening-2a67)
-- [CSS Blossoming Flowers at Magical Night](https://dev.to/micha_flores_500bc9e0a2fd/css-blossoming-flowers-at-magical-night-1b9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
