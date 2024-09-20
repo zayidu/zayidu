@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A visual tutorial on Trie data type](https://dev.to/turck/a-visual-tutorial-on-tries-np2)
-- [Looking for Passionate Students to Collaborate on a Real-World Python/React Project!](https://dev.to/anugrah_vardhan/looking-for-passionate-students-to-collaborate-on-a-real-world-pythonreact-project-2h8k)
-- [How to Create a WhatsApp Bot in Node.js](https://dev.to/yaasiin-ayeva/how-to-create-a-whatsapp-bot-in-nodejs-4mfd)
-- [Geolocation fun with Gemini](https://dev.to/vkili/geolocation-fun-with-gemini-2jp)
-- [My deep dive into my project, CORS, and Authorization](https://dev.to/sleepysloth/my-deep-dive-into-my-project-cors-and-authorization-fb7)
+- [Dive Into Angular with This Comprehensive Beginner&#39;s Guide! 🚀](https://dev.to/getvm/dive-into-angular-with-this-comprehensive-beginners-guide-4236)
+- [Different types of models in the Cloud](https://dev.to/tjasper/different-types-of-models-in-the-cloud-4e8p)
+- [Setup firewall on Alpine with nftables](https://dev.to/tinkertinker/setup-firewall-on-alpine-with-nftables-3219)
+- [Day 11. Friday evening](https://dev.to/kiolk/day-11-friday-evening-2a67)
+- [CSS Blossoming Flowers at Magical Night](https://dev.to/micha_flores_500bc9e0a2fd/css-blossoming-flowers-at-magical-night-1b9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
