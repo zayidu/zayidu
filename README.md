@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Word Embeddings: python implementation of Word2Vec and GloVe in Vector Databases](https://dev.to/ragoli86/exploring-word-embeddings-python-implementation-of-word2vec-and-glove-in-vector-databases-2jcf)
-- [Unlocking Context and Semantics: The Critical Role of Embeddings in NLP](https://dev.to/adityabhuyan/unlocking-context-and-semantics-the-critical-role-of-embeddings-in-nlp-m8a)
-- [The Potential of End-to-End Testing: Top Tools and Features](https://dev.to/berthaw82414312/the-potential-of-end-to-end-testing-top-tools-and-features-597m)
-- [Mastering Multithreading in Python: Boost Performance](https://dev.to/bhavesh1456/multithreading-in-python-a-comprehensive-guide-3cl4)
-- [Top 7 DevOps &amp; Containerization Platforms for Next.js 2024](https://dev.to/ethanleetech/top-7-devops-containerization-platforms-for-nextjs-2024-5oe)
+- [How Generative AI enhances Master Data Management systems? - Mastech InfoTrellis](https://dev.to/hana_sato/how-generative-ai-enhances-master-data-management-systems-mastech-infotrellis-bm8)
+- [Event Loop in 2 Minutes](https://dev.to/bhataasim/event-loop-in-2-minutes-5895)
+- [API Design and Development: Best practices for creating robust and scalable APIs.](https://dev.to/pellenilsen/api-design-and-development-best-practices-for-creating-robust-and-scalable-apis-47mf)
+- [Error in Jest integration with Vue js](https://dev.to/pankaj_durve_077665afa829/error-in-jest-integration-with-vue-js-55bh)
+- [19 Essential Laravel Performance Optimization Tips](https://dev.to/proprzzzz/19-essential-laravel-performance-optimization-tips-2imf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
