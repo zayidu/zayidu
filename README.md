@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Project I&#39;ve been working for 1 year](https://dev.to/framemuse/project-ive-been-working-for-1-year-12dk)
-- [Add a test case when your open-source project’s issue is fixed.](https://dev.to/thinkthroo/add-a-test-case-when-your-open-source-projects-issue-is-fixed-1cnn)
-- [Object Oriented Programming &lpar;OOP&rpar; in JavaScript - Top to Bottom](https://dev.to/abeertech01/object-oriented-programming-oop-in-javascript-top-to-bottom-b1o)
-- [Dive Into Angular with This Comprehensive Beginner&#39;s Guide! 🚀](https://dev.to/getvm/dive-into-angular-with-this-comprehensive-beginners-guide-4236)
-- [Different types of models in the Cloud](https://dev.to/tjasper/different-types-of-models-in-the-cloud-4e8p)
+- [PhD thesis topic outline: The Application of Artificial Intelligence in Healthcare: Opportunities and Challenges](https://dev.to/gracerosen/phd-thesis-topic-outline-the-application-of-artificial-intelligence-in-healthcare-opportunities-and-challenges-13eo)
+- [Contributing to another repo](https://dev.to/sych_andrii/first-pull-requests-ever-4mhk)
+- [PhD thesis topic outline: Ethics in Artificial Intelligence: Analysing Bias and Fairness in Machine Learning Algorithms](https://dev.to/gracerosen/phd-thesis-topic-outline-ethics-in-artificial-intelligence-analysing-bias-and-fairness-in-machine-learning-algorithms-1b1d)
+- [js / ts - comando !!](https://dev.to/leonardominora/js-ts-comando--3188)
+- [Mastering Machine Learning: Dive into Top-Notch Online Courses 🧠](https://dev.to/getvm/mastering-machine-learning-dive-into-top-notch-online-courses-4ka2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
