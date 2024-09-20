@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Docker: A Comprehensive Collection of Hands-on Labs](https://dev.to/labex/mastering-docker-a-comprehensive-collection-of-hands-on-labs-1598)
-- [Things to do after installing Ubuntu](https://dev.to/tripleo/things-to-do-after-installing-ubuntu-5gno)
-- [Event Propagation - Bubbling vs Capturing Explained with Examples](https://dev.to/rsmacademybd/event-propagation-bubbling-vs-capturing-explained-with-examples-1j1l)
-- [The Ultimate Guide to Setting Up a Windows 11 Web Development Environment](https://dev.to/a99divx/the-ultimate-guide-to-setting-up-a-windows-11-web-development-environment-pj4)
-- [Why is Cursor IDE not Creating an Automatic Git Commit?](https://dev.to/ahmadswalih/why-is-cursor-ide-not-creating-an-automatic-git-commit-4jd9)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-48jp)
+- [Web Storage API Explained with Examples](https://dev.to/rsmacademybd/web-storage-api-explained-with-examples-4nph)
+- [vue 通过自定义命令 给项目按钮增加水波纹效果](https://dev.to/kh_lemon_d03f057b837fc044/vue-tong-guo-zi-ding-yi-ming-ling-gei-xiang-mu-an-niu-zeng-jia-shui-bo-wen-xiao-guo-433j)
+- [Assignment 2](https://dev.to/paperdrago/assignment-2-286m)
+- [Web History API Explained with Examples](https://dev.to/rsmacademybd/web-history-api-explained-with-examples-21cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
