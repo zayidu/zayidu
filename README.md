@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PhD thesis topic outline: The Application of Artificial Intelligence in Healthcare: Opportunities and Challenges](https://dev.to/gracerosen/phd-thesis-topic-outline-the-application-of-artificial-intelligence-in-healthcare-opportunities-and-challenges-13eo)
-- [Contributing to another repo](https://dev.to/sych_andrii/first-pull-requests-ever-4mhk)
-- [PhD thesis topic outline: Ethics in Artificial Intelligence: Analysing Bias and Fairness in Machine Learning Algorithms](https://dev.to/gracerosen/phd-thesis-topic-outline-ethics-in-artificial-intelligence-analysing-bias-and-fairness-in-machine-learning-algorithms-1b1d)
-- [js / ts - comando !!](https://dev.to/leonardominora/js-ts-comando--3188)
-- [Mastering Machine Learning: Dive into Top-Notch Online Courses 🧠](https://dev.to/getvm/mastering-machine-learning-dive-into-top-notch-online-courses-4ka2)
+- [Creating Custom UI Components with Stencil](https://dev.to/kartikmehta8/creating-custom-ui-components-with-stencil-2kd9)
+- [HelloWorld!](https://dev.to/kenko2002/helloworld-10ia)
+- [Bash-n-Dash: Fast-Track Your Way to Shell Mastery](https://dev.to/jimmymcbride/bash-n-dash-fast-track-your-way-to-shell-mastery-3g1l)
+- [Autocomment 0.1 release!!](https://dev.to/aldrin312/autocomment-01-release-574h)
+- [Welcome to My Blog](https://dev.to/sission/welcome-to-my-blog-55ik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
