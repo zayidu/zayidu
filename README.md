@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Print all unique Pairs with given Sum](https://dev.to/phoenix_238501d86d417e/print-all-unique-pairs-with-given-sum-1o3n)
-- [Streamline Your Development with This Awesome Docker Command](https://dev.to/lucas_draney_5d2d170f082f/streamline-your-development-with-this-awesome-docker-command-43a)
-- [Building a Nuxt.js + Vue.js SaaS Starter: Authentication, Payments, and Supabase Made Easy](https://dev.to/geraldmuvengei06/building-a-nuxtjs-vuejs-saas-starter-authentication-payments-and-supabase-made-easy-3d9p)
-- [Digging Deep to Find the Right Balance Between DDD, Clean and Hexagonal Architectures](https://dev.to/y9vad9/digging-deep-to-find-the-right-balance-between-ddd-clean-and-hexagonal-architectures-4dnn)
-- [Free Online QR Code Generator](https://dev.to/easypagego/free-online-qr-code-generator-2c53)
+- [🎨 VSCode Theme Generator: Create stunning themes using sacred geometry patterns](https://dev.to/rodrigo_luglio_f63c6051de/vscode-theme-generator-create-stunning-themes-using-sacred-geometry-patterns-4k2d)
+- [How to promote your startup with no followers](https://dev.to/johnrushx/how-to-promote-your-startup-with-no-followers-2d9)
+- [Kubernetes &lpar;part-2&rpar;](https://dev.to/praduman_cnd/kubernetes-part-2-1pjl)
+- [TextSpectrum: Unleash Colorful Typography](https://dev.to/areeb_anwar_813df06ee1124/textspectrum-unleash-colorful-typography-bla)
+- [Kubernetes &lpar;part-1&rpar;](https://dev.to/praduman_cnd/kubernetes-part-1-3p46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
