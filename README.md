@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 VSCode Theme Generator: Create stunning themes using sacred geometry patterns](https://dev.to/rodrigo_luglio_f63c6051de/vscode-theme-generator-create-stunning-themes-using-sacred-geometry-patterns-4k2d)
-- [How to promote your startup with no followers](https://dev.to/johnrushx/how-to-promote-your-startup-with-no-followers-2d9)
-- [Kubernetes &lpar;part-2&rpar;](https://dev.to/praduman_cnd/kubernetes-part-2-1pjl)
-- [TextSpectrum: Unleash Colorful Typography](https://dev.to/areeb_anwar_813df06ee1124/textspectrum-unleash-colorful-typography-bla)
-- [Kubernetes &lpar;part-1&rpar;](https://dev.to/praduman_cnd/kubernetes-part-1-3p46)
+- [# 10 Developer Tools to Improve Your Daily Life as a Developer: Part 2 🚀](https://dev.to/hichamelhirch/-10-developer-tools-to-improve-your-daily-life-as-a-developer-part-2-3264)
+- [Kickstart Your Blog with Next.js and MDX: A Ready-to-Use Template](https://dev.to/vigneshiyergithub/kickstart-your-blog-with-nextjs-and-mdx-a-ready-to-use-template-3pf6)
+- [OptimizeIt: Merge Conflicts &amp; Three-Way-Recursive merges](https://dev.to/majd_almnayer_2101/optimizeit-merge-conflicts-three-way-recursive-merges-1i27)
+- [Next goal](https://dev.to/nganhhtuann/next-goal-45b0)
+- [Building a Custom Calculator with Dropdowns to Boost User Engagement on WordPress](https://dev.to/hassan_farooq_1920a5a5287/building-a-custom-calculator-with-dropdowns-to-boost-user-engagement-on-wordpress-nn5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
