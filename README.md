@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 You’ve Come a Long Way, Developer! 🚀](https://dev.to/jagroop2001/youve-come-a-long-way-developer-42ek)
-- [Tầm quan trọng của máy đầm bàn bê tông trong xây dựng](https://dev.to/dienmaygiaphu/tam-quan-trong-cua-may-dam-ban-be-tong-trong-xay-dung-302p)
-- [The Complete Guide to Becoming a Software Development Engineer &lpar;SDE&rpar;](https://dev.to/ngneha09/the-complete-guide-to-becoming-a-software-development-engineer-sde-pn1)
-- [Integrate Cloudinary in a Next.js application](https://dev.to/devops_den/integrate-cloudinary-in-a-nextjs-application-8op)
-- [The Art Of Learning In Public](https://dev.to/iammihirsig/the-art-of-learning-in-public-110m)
+- [Waymap v1.0.3 - Web Vulnerability Scanner](https://dev.to/trixsec/waymap-v103-web-vulnerability-scanner-1bnh)
+- [How To Use Terraform Data Source](https://dev.to/sre_panchanan/how-to-use-terraform-data-source-5of)
+- [How to deploy Django in a subdirectory with Docker, NGINX and Whitenoise](https://dev.to/onticdani/how-to-deploy-django-in-a-subdirectory-with-docker-nginx-and-whitenoise-4hc0)
+- [Introducing zustand-entity-adapter](https://dev.to/michaeljota/introducing-zustand-entity-adapter-2f1b)
+- [ECMAScript - A collection of the main new features of each version](https://dev.to/techelopment/ecmascript-a-collection-of-the-main-new-features-of-each-version-8n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
