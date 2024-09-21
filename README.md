@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Today I want to know something about OPEN AI implementation from other devs, please!](https://dev.to/saanchitapaul/today-i-want-to-know-something-from-other-devs-please-2641)
-- [Por que alguns desenvolvedores conseguem empregos rapidamente e outros não?](https://dev.to/andressasantos/por-que-alguns-desenvolvedores-conseguem-empregos-rapidamente-e-outros-nao-4ic2)
-- [NoSQL vs SQL Databases: A Detailed Comparison](https://dev.to/yashrajxdev/nosql-vs-sql-databases-a-detailed-comparison-1cco)
-- [Simple Guide to Implementing Clerk Authentication](https://dev.to/abhay1kumar/simple-guide-to-implementing-clerk-authentication-ag9)
-- [React is total brainrot! 🤬](https://dev.to/sein_digital/react-is-total-brainrot-2n0j)
+- [Print all unique Pairs with given Sum](https://dev.to/phoenix_238501d86d417e/print-all-unique-pairs-with-given-sum-1o3n)
+- [Streamline Your Development with This Awesome Docker Command](https://dev.to/lucas_draney_5d2d170f082f/streamline-your-development-with-this-awesome-docker-command-43a)
+- [Building a Nuxt.js + Vue.js SaaS Starter: Authentication, Payments, and Supabase Made Easy](https://dev.to/geraldmuvengei06/building-a-nuxtjs-vuejs-saas-starter-authentication-payments-and-supabase-made-easy-3d9p)
+- [Digging Deep to Find the Right Balance Between DDD, Clean and Hexagonal Architectures](https://dev.to/y9vad9/digging-deep-to-find-the-right-balance-between-ddd-clean-and-hexagonal-architectures-4dnn)
+- [Free Online QR Code Generator](https://dev.to/easypagego/free-online-qr-code-generator-2c53)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
