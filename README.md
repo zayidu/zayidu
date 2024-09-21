@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We built a new 3D viewer for Shapemaker! 🚀](https://dev.to/pharzan/we-built-a-new-3d-viewer-for-shapemaker-744)
-- [Top 10 Tips with Code Examples: How to Secure Your C# Application](https://dev.to/ssukhpinder/top-10-tips-with-code-examples-how-to-secure-your-c-application-ia7)
-- [Logging in ASP.NET Core](https://dev.to/prawiropanji/logging-in-aspnet-core-3i2c)
-- [The Promise.all&lpar; &rpar; Dilemma: When it helps and When it hurts](https://dev.to/aryaklahane/the-promiseall-dilemma-when-it-helps-and-when-it-hurts-2eo6)
-- [What is a subnet? | How subnetting works](https://dev.to/abdulmuminyqn/what-is-a-subnet-how-subnetting-works-5d6g)
+- [🌟 You’ve Come a Long Way, Developer! 🚀](https://dev.to/jagroop2001/youve-come-a-long-way-developer-42ek)
+- [Tầm quan trọng của máy đầm bàn bê tông trong xây dựng](https://dev.to/dienmaygiaphu/tam-quan-trong-cua-may-dam-ban-be-tong-trong-xay-dung-302p)
+- [The Complete Guide to Becoming a Software Development Engineer &lpar;SDE&rpar;](https://dev.to/ngneha09/the-complete-guide-to-becoming-a-software-development-engineer-sde-pn1)
+- [Integrate Cloudinary in a Next.js application](https://dev.to/devops_den/integrate-cloudinary-in-a-nextjs-application-8op)
+- [The Art Of Learning In Public](https://dev.to/iammihirsig/the-art-of-learning-in-public-110m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
