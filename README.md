@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3 things to consider migrating WordPress database from local to production](https://dev.to/phyothiha/3-things-to-consider-migrating-wordpress-database-from-local-to-production-232)
-- [Making Contributions](https://dev.to/theoforger/making-contributions-p3p)
-- [🎨 Introducing ReadCraft: A Smart README Generator for Your Code 📜✨](https://dev.to/tasbi03/introducing-readcraft-a-smart-readme-generator-for-your-code-3242)
-- [My Contribution to the `addcom` CLI Tool](https://dev.to/vinhyan/my-contribution-to-the-addcom-cli-tool-538f)
-- [Como hospedar o N8N em uma VPS](https://dev.to/ronieremarques/como-hospedar-o-n8n-em-uma-vps-4a6g)
+- [Pulling Our Weight: Contributing to each other&#39;s projects](https://dev.to/udayrana/pulling-our-weight-contributing-to-each-others-projects-2eej)
+- [Part 1 : Essential Coding Tips &amp; Tricks to Boost Your Productivity 🚀](https://dev.to/imsuraj/part-1-essential-coding-tips-tricks-to-boost-your-productivity-32f8)
+- [URL -&gt; Markdown](https://dev.to/krinskumar/url-markdown-2j8e)
+- [Creating First Pull Request](https://dev.to/mayankpareek/creating-first-pull-request-3j30)
+- [.NET Web API &amp; ServiceStack](https://dev.to/kakashi089/net-web-api-servicestack-2gnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
