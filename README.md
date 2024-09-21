@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Custom UI Components with Stencil](https://dev.to/kartikmehta8/creating-custom-ui-components-with-stencil-2kd9)
-- [HelloWorld!](https://dev.to/kenko2002/helloworld-10ia)
-- [Bash-n-Dash: Fast-Track Your Way to Shell Mastery](https://dev.to/jimmymcbride/bash-n-dash-fast-track-your-way-to-shell-mastery-3g1l)
-- [Autocomment 0.1 release!!](https://dev.to/aldrin312/autocomment-01-release-574h)
-- [Welcome to My Blog](https://dev.to/sission/welcome-to-my-blog-55ik)
+- [🚀 From Code to Collaboration: My Journey Adding Token Usage to AutoComment 🎉](https://dev.to/tasbi03/from-code-to-collaboration-my-journey-adding-token-usage-to-autocomment-2k0b)
+- [The Ultimate Guide to Digitally Signing Code for Open Source Software on GitHub and Bitbucket](https://dev.to/adityabhuyan/the-ultimate-guide-to-digitally-signing-code-for-open-source-software-on-github-and-bitbucket-2laa)
+- [Adding NDK to an existing Android app and using C++ to log](https://dev.to/theplebdev/adding-ndk-to-an-existing-android-app-and-using-c-to-log-525d)
+- [UnitedCTF 2024 - IT Portal Writeup &lpar;Full Track&rpar;](https://dev.to/enderthenetrunner/unitedctf-2024-it-portal-j8i)
+- [Week 3: Release 0.1](https://dev.to/mpalhutchinson/week-3-release-01-11if)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
