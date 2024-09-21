@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 10+ Projects to Win Hackathons in 2024🏆💻](https://dev.to/lokesh_singh/10-projects-to-win-hackathons-in-2024-5596)
-- [Setting up Kubernetes Dashboard with Kind](https://dev.to/chauhoangminhnguyen/setting-up-kubernetes-dashboard-with-kind-5he5)
-- [Why do React components need to start with capital letters?](https://dev.to/bhataasim/why-do-react-components-need-to-start-with-capital-letters-4c8k)
-- [Collision Detection](https://dev.to/aksh247/collision-detection-apc)
-- [Mastering JavaScript Proxy and Reflect API &lpar;Without the Headache&rpar;](https://dev.to/tuzzy08/mastering-javascript-proxy-and-reflect-api-without-the-headache-2919)
+- [Overwhelmed by the AWS Certification Maze?](https://dev.to/mattcsmith/overwhelmed-by-the-aws-certification-maze-49p)
+- [What Happens When You Enter &#39;google.com&#39;: A Deep Dive into the Internet&#39;s Inner Workings](https://dev.to/yashrajxdev/what-happens-when-you-enter-googlecom-a-deep-dive-into-the-internets-inner-workings-1aoi)
+- [History of Node.js](https://dev.to/chintamani_pala/history-of-nodejs-321n)
+- [Alien Math Game](https://dev.to/suleiman_alhajimohammed_/alien-math-game-3ecm)
+- [Treasure Hunt - Engineering | Sep 2024](https://dev.to/goamaral/treasure-hunt-engineering-sep-2024-h20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
