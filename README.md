@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are the Fundamental Core Principles of Software Testing? A Complete Guide](https://dev.to/michael_chepala_7267688a0/what-are-the-fundamental-core-principles-of-software-testing-a-complete-guide-5oh)
-- [Understanding Application Load Balancer: A Comprehensive Guide](https://dev.to/s3cloudhub/understanding-application-load-balancer-a-comprehensive-guide-25go)
-- [DNS Basics: How Domain Name System Connects Websites](https://dev.to/abhixsh/dns-basics-how-domain-name-system-connects-websites-24jj)
-- [Comparing Radix Angular and Angular CDK: A Practical Perspective](https://dev.to/pimenovoleg/comparing-radix-angular-and-angular-cdk-a-practical-perspective-360f)
-- [Managing Themes in React Native Using Context API](https://dev.to/amitkumar13/managing-themes-in-react-native-using-context-api-3dk2)
+- [🚀 10+ Projects to Win Hackathons in 2024🏆💻](https://dev.to/lokesh_singh/10-projects-to-win-hackathons-in-2024-5596)
+- [Setting up Kubernetes Dashboard with Kind](https://dev.to/chauhoangminhnguyen/setting-up-kubernetes-dashboard-with-kind-5he5)
+- [Why do React components need to start with capital letters?](https://dev.to/bhataasim/why-do-react-components-need-to-start-with-capital-letters-4c8k)
+- [Collision Detection](https://dev.to/aksh247/collision-detection-apc)
+- [Mastering JavaScript Proxy and Reflect API &lpar;Without the Headache&rpar;](https://dev.to/tuzzy08/mastering-javascript-proxy-and-reflect-api-without-the-headache-2919)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
