@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# 10 Developer Tools to Improve Your Daily Life as a Developer: Part 2 🚀](https://dev.to/hichamelhirch/-10-developer-tools-to-improve-your-daily-life-as-a-developer-part-2-3264)
-- [Kickstart Your Blog with Next.js and MDX: A Ready-to-Use Template](https://dev.to/vigneshiyergithub/kickstart-your-blog-with-nextjs-and-mdx-a-ready-to-use-template-3pf6)
-- [OptimizeIt: Merge Conflicts &amp; Three-Way-Recursive merges](https://dev.to/majd_almnayer_2101/optimizeit-merge-conflicts-three-way-recursive-merges-1i27)
-- [Next goal](https://dev.to/nganhhtuann/next-goal-45b0)
-- [Building a Custom Calculator with Dropdowns to Boost User Engagement on WordPress](https://dev.to/hassan_farooq_1920a5a5287/building-a-custom-calculator-with-dropdowns-to-boost-user-engagement-on-wordpress-nn5)
+- [Transformers: The Engine Powering ChatGPT and Beyond](https://dev.to/ahmedrauhan/transformers-the-engine-powering-chatgpt-and-beyond-4g7j)
+- [Building a Unit of Work like pattern in NestJS and Sequelize.](https://dev.to/murilogervasio/building-a-unit-of-work-like-pattern-in-nestjs-and-sequelize-4oh1)
+- [15-day free trial available...now!](https://dev.to/rely-io/15-day-free-trial-availablenow-5b5d)
+- [How to Handle Errors When Accessing Context Outside the Provider in React](https://dev.to/surjoyday_kt/how-to-handle-errors-when-accessing-context-outside-the-provider-in-react-41ce)
+- [Como funciona o DDD e a Clean Architecture - De maneira simples para inciantes .](https://dev.to/joo_burgarelli_d38f5e8d5/como-o-ddd-utilizado-no-meu-tcc-f62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
