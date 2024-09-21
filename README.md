@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Use Zapcap API &lpar;API for Subtitles&rpar;](https://dev.to/elliot_brenya/how-to-use-zapcap-api-api-for-subtitles-4ln7)
-- [For the first time ever Rust helps me with my personal problem!🦀](https://dev.to/fnabinash/for-the-first-time-ever-rust-helps-me-with-my-personal-problem-1mli)
-- [Docker for Beginners: Simplifying the Way We Build and Run Applications](https://dev.to/kumarprateek18/docker-for-beginners-simplifying-the-way-we-build-and-run-applications-2a56)
-- [What 10,000 Hours of Coding Taught Me: Don&#39;t Ship Fast](https://dev.to/sotergreco/what-10000-hours-of-coding-taught-me-dont-ship-fast-1ocb)
-- [Understanding JWT in Node.js: A Guide with Pros, Cons, and Code Examples](https://dev.to/hakimmohamed/understanding-jwt-in-nodejs-a-guide-with-pros-cons-and-code-examples-30cj)
+- [Taking VelociPerl for a ride.](https://dev.to/chrisarg/taking-velociperl-for-a-ride-3n5a)
+- [3Sum - Print unique Pairs](https://dev.to/phoenix_238501d86d417e/3sum-print-unique-pairs-3goj)
+- [Multi-GPU FLUX Full Fine Tuning Experiments and Requirements on RunPod and Conclusions](https://dev.to/furkangozukara/multi-gpu-flux-full-fine-tuning-experiments-and-requirements-on-runpod-and-conclusions-2g61)
+- [Two Reasons Why I Often Use Python for Creating Personal Tools &lpar;Plus One Complaint&rpar;](https://dev.to/koyopro/two-reasons-why-i-often-use-python-for-creating-personal-tools-plus-one-complaint-1n9d)
+- [What is Retrieval-Augmented Generation &lpar;RAG&rpar;?](https://dev.to/sachinchaurasiya/what-is-retrieval-augmented-generation-rag-1ep0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
