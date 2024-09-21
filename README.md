@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Arrow Functions in JavaScript](https://dev.to/codenextgen/mastering-arrow-functions-in-javascript-3mkf)
-- [Chat with your Supabase Database using Natural language and Supercog](https://dev.to/emmakodes_/chat-with-your-supabase-database-using-natural-language-and-supercog-28fl)
-- [The Future of DevSecOps: Enhancing Your Software Security Development with NIST Guidelines](https://dev.to/iilness2/the-future-of-devsecops-how-nist-guidelines-enhance-software-security-220m)
-- [Data Display in Gatsby](https://dev.to/shieldstring/data-display-in-gatsby-1l1c)
-- [Space Invasion in Purple Planet - II](https://dev.to/jagroop2001/space-invasion-in-purple-planet-ii-4lo6)
+- [Mastering Python as a Busy Developer: Top Strategies for Quick Learning](https://dev.to/sangeeth_joseph/mastering-python-as-a-busy-developer-top-strategies-for-quick-learning-23la)
+- [Unveiling the Monty Hall Problem: A JavaScript Simulation](https://dev.to/vardanarm_7/unveiling-the-monty-hall-problem-a-javascript-simulation-g82)
+- [Avatar Hover Effect](https://dev.to/akshayap9088/avatar-hover-effect-2b9d)
+- [The Ultimate Guide to GraphQL vs REST: Strategies, Best Practices, and Business Insights](https://dev.to/keploy/the-ultimate-guide-to-graphql-vs-rest-strategies-best-practices-and-business-insights-do5)
+- [The AI News Week 2](https://dev.to/theainews/the-ai-news-week-2-3lan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
