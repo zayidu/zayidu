@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Python as a Busy Developer: Top Strategies for Quick Learning](https://dev.to/sangeeth_joseph/mastering-python-as-a-busy-developer-top-strategies-for-quick-learning-23la)
-- [Unveiling the Monty Hall Problem: A JavaScript Simulation](https://dev.to/vardanarm_7/unveiling-the-monty-hall-problem-a-javascript-simulation-g82)
-- [Avatar Hover Effect](https://dev.to/akshayap9088/avatar-hover-effect-2b9d)
-- [The Ultimate Guide to GraphQL vs REST: Strategies, Best Practices, and Business Insights](https://dev.to/keploy/the-ultimate-guide-to-graphql-vs-rest-strategies-best-practices-and-business-insights-do5)
-- [The AI News Week 2](https://dev.to/theainews/the-ai-news-week-2-3lan)
+- [We built a new 3D viewer for Shapemaker! 🚀](https://dev.to/pharzan/we-built-a-new-3d-viewer-for-shapemaker-744)
+- [Top 10 Tips with Code Examples: How to Secure Your C# Application](https://dev.to/ssukhpinder/top-10-tips-with-code-examples-how-to-secure-your-c-application-ia7)
+- [Logging in ASP.NET Core](https://dev.to/prawiropanji/logging-in-aspnet-core-3i2c)
+- [The Promise.all&lpar; &rpar; Dilemma: When it helps and When it hurts](https://dev.to/aryaklahane/the-promiseall-dilemma-when-it-helps-and-when-it-hurts-2eo6)
+- [What is a subnet? | How subnetting works](https://dev.to/abdulmuminyqn/what-is-a-subnet-how-subnetting-works-5d6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
