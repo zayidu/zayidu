@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Course Overview: Unlocking the Power of Cloud Computing](https://dev.to/s3cloudhub/aws-course-overview-unlocking-the-power-of-cloud-computing-5c3g)
-- [Building GoLang Apps with Github](https://dev.to/caffeineordeath/building-golang-apps-with-github-5b17)
-- [Unlocking AI Secrets: The Power of Principled Questioning for LLaMA and GPT](https://dev.to/programmerraja/unlocking-ai-secrets-the-power-of-principled-questioning-for-llama-and-gpt-45b2)
-- [Strategies in Evaluating Machine Learning Models.](https://dev.to/oduor_arnold/strategies-in-evaluating-machine-learning-models-3jeg)
-- [Understanding Rust Macros: A Comprehensive Guide for Developers](https://dev.to/tramposo/understanding-rust-macros-a-comprehensive-guide-for-developers-am4)
+- [What Are the Fundamental Core Principles of Software Testing? A Complete Guide](https://dev.to/michael_chepala_7267688a0/what-are-the-fundamental-core-principles-of-software-testing-a-complete-guide-5oh)
+- [Understanding Application Load Balancer: A Comprehensive Guide](https://dev.to/s3cloudhub/understanding-application-load-balancer-a-comprehensive-guide-25go)
+- [DNS Basics: How Domain Name System Connects Websites](https://dev.to/abhixsh/dns-basics-how-domain-name-system-connects-websites-24jj)
+- [Comparing Radix Angular and Angular CDK: A Practical Perspective](https://dev.to/pimenovoleg/comparing-radix-angular-and-angular-cdk-a-practical-perspective-360f)
+- [Managing Themes in React Native Using Context API](https://dev.to/amitkumar13/managing-themes-in-react-native-using-context-api-3dk2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
