@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pulling Our Weight: Contributing to each other&#39;s projects](https://dev.to/udayrana/pulling-our-weight-contributing-to-each-others-projects-2eej)
-- [Part 1 : Essential Coding Tips &amp; Tricks to Boost Your Productivity 🚀](https://dev.to/imsuraj/part-1-essential-coding-tips-tricks-to-boost-your-productivity-32f8)
-- [URL -&gt; Markdown](https://dev.to/krinskumar/url-markdown-2j8e)
-- [Creating First Pull Request](https://dev.to/mayankpareek/creating-first-pull-request-3j30)
-- [.NET Web API &amp; ServiceStack](https://dev.to/kakashi089/net-web-api-servicestack-2gnl)
+- [Bagging and Boosting in AI: A Comprehensive Guide to Ensemble Learning](https://dev.to/abhinowww/bagging-and-boosting-in-ai-a-comprehensive-guide-to-ensemble-learning-2cf0)
+- [Why might Rust be a smart choice for developers today?](https://dev.to/francescoxx/why-might-rust-be-a-smart-choice-for-developers-today-4ol1)
+- [A classe Object](https://dev.to/devsjavagirls/a-classe-object-12p9)
+- [Usando final](https://dev.to/devsjavagirls/usando-final-2lf8)
+- [Usando classes abstratas](https://dev.to/devsjavagirls/usando-classes-abstratas-12na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
