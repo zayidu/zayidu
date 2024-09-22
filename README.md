@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [@Qualifier Annotation Spring Boot Explained](https://dev.to/realnamehidden1_61/qualifier-annotation-spring-boot-explained-1f58)
-- [STOLEN CRYPT0 RECOVERY EXPERTS FOR HIRE &gt;&gt; BRUNOE QUICK HACK](https://dev.to/mark_luisagiannetti_6bda/stolen-crypt0-recovery-experts-for-hire-brunoe-quick-hack-3g1m)
-- [Understanding React: A Comprehensive Guide](https://dev.to/shreyvijayvargiya/understanding-react-a-comprehensive-guide-3dhk)
-- [How to Do Software Testing 10x Faster](https://dev.to/anmolbaranwal/how-to-do-software-testing-10x-faster-3cah)
-- [Why BookMyShow &quot;Failed&quot; but Hotstar Succeeded - A System Design Perspective](https://dev.to/shreyaan/why-bookmyshow-failed-but-hotstar-succeeded-a-system-design-perspective-2ngl)
+- [Mastering C# Fundamentals: Setting Up Your Environment for C# Development](https://dev.to/moh_moh701/mastering-c-fundamentals-setting-up-your-environment-for-c-development-df5)
+- [Why must a Kubernetes cluster have an odd number of nodes](https://dev.to/farshad_nick/why-must-a-kubernetes-cluster-have-an-odd-number-of-nodes-5co6)
+- [Why you SHOULD NOT host WordPress in Kubernetes](https://dev.to/kubelet/why-you-should-not-host-wordpress-in-kubernetes-2kk4)
+- [Deploying a Static Website on AWS S3 with Terraform: A Beginner&#39;s Guide](https://dev.to/ephantus_gachomba_/deploying-a-static-website-on-aws-s3-with-terraform-a-beginners-guide-jon)
+- [Why Linux for Your Old PC?](https://dev.to/benslinux2024/why-linux-for-your-old-pc-2m17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
