@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microservices Design Aspects](https://dev.to/tkssharma/microservices-design-aspects-5h9e)
-- [Embracing Change: Trends and Technologies Shaping Our Future](https://dev.to/thazar/embracing-change-trends-and-technologies-shaping-our-future-1mn5)
-- [General vs. Semantic Tags in HTML: Why Structure Matters](https://dev.to/okputu-e/general-vs-semantic-tags-in-html-why-structure-matters-3imn)
-- [General vs. Semantic Tags in HTML: Why Structure Matters](https://dev.to/okputu-e/general-vs-semantic-tags-in-html-why-structure-matters-4e32)
-- [Investigating Azure Regional Capabilities](https://dev.to/martinhc/investigating-azure-regional-capabilities-3nlp)
+- [@Qualifier Annotation Spring Boot Explained](https://dev.to/realnamehidden1_61/qualifier-annotation-spring-boot-explained-1f58)
+- [STOLEN CRYPT0 RECOVERY EXPERTS FOR HIRE &gt;&gt; BRUNOE QUICK HACK](https://dev.to/mark_luisagiannetti_6bda/stolen-crypt0-recovery-experts-for-hire-brunoe-quick-hack-3g1m)
+- [Understanding React: A Comprehensive Guide](https://dev.to/shreyvijayvargiya/understanding-react-a-comprehensive-guide-3dhk)
+- [How to Do Software Testing 10x Faster](https://dev.to/anmolbaranwal/how-to-do-software-testing-10x-faster-3cah)
+- [Why BookMyShow &quot;Failed&quot; but Hotstar Succeeded - A System Design Perspective](https://dev.to/shreyaan/why-bookmyshow-failed-but-hotstar-succeeded-a-system-design-perspective-2ngl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
