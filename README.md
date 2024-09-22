@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Understanding How Next.js Works: A Comparison with React.js](https://dev.to/vyan/understanding-how-nextjs-works-a-comparison-with-reactjs-4f1b)
-- [How to temporarily skip the pending migration check in Rails](https://dev.to/alexandrecalaca/how-to-temporarily-skip-the-pending-migration-check-in-rails-4ahk)
-- [FREE Downloadable Resources](https://dev.to/pawandeore/free-downloadable-resources-2e5n)
-- [Understanding How ChatGPT Generates Human-Like Text](https://dev.to/hichamelhirch/understanding-how-chatgpt-generates-human-like-text-dp5)
-- [Continuous Delivery applied to Authorization with IAM Identity Center and AWS IAM Access Analyzer – Part 2](https://dev.to/avelez/continuous-delivery-applied-to-authorization-with-iam-identity-center-and-aws-iam-access-analyzer-part-2-35lb)
+- [Collections.max&lpar;&rpar; method in Java](https://dev.to/realnamehidden1_61/collectionsmax-method-in-java-3fb9)
+- [🌟 The Ultimate Guide to Dev Community &lpar;Dev.to&rpar;: Empowering Developers Worldwide!](https://dev.to/mirzahanzla/the-ultimate-guide-to-dev-community-devto-empowering-developers-worldwide-501o)
+- [ADDCOM - release 0.1](https://dev.to/arilloid/addcom-release-01-4k3k)
+- [Learn CSS Flexbox in 20 Minutes &lpar;Course&rpar; 🚀](https://dev.to/devwithsuraj/learn-css-flexbox-in-20-minutes-course-1ggi)
+- [C++ vs. Rust: A Comparative Guide to Syntax, Variables, and Control Flow](https://dev.to/anooop102910/c-vs-rust-a-comparative-guide-to-syntax-variables-and-control-flow-3bbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
