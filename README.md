@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LOGIC GATES AND THEIR USAGE](https://dev.to/ara_melkonyan_87f17d84509/logic-gates-and-their-usage-1gm4)
-- [PLSQL Top 10 Interview Questions](https://dev.to/mrcaption49/plsql-top-10-interview-questions-2o01)
-- [Day Two: Stepping Away from UI to Tackle SEO, Security, and Automation](https://dev.to/madhatter5501/day-two-stepping-away-from-ui-to-tackle-seo-security-and-automation-25ni)
-- [Factory Design Pattern](https://dev.to/tommyc/factory-design-pattern-42hc)
-- [WebAssembly: The Superpower You Didn’t Know You Needed](https://dev.to/programordie/webassembly-the-superpower-you-didnt-know-you-needed-c9o)
+- [The Magic of Binary Numbers: Unlocking a new level in life](https://dev.to/nanana776/the-magic-of-binary-numbers-unlocking-a-new-level-in-life-53ba)
+- [CRUD en Flask](https://dev.to/ferstal/crud-en-flask-4ibb)
+- [First Post. Nothing Special.](https://dev.to/isslerman/first-post-nothing-special-b0j)
+- [Using Cloud Functions and Cloud Schedule to process data with Google Dataflow](https://dev.to/jader_lima_b72a63be5bbddc/using-cloud-functions-and-cloud-schedule-to-process-data-with-google-dataflow-1p1k)
+- [Avoiding Memory Leaks in PHP Loops: My Experience with dump&lpar;&rpar;](https://dev.to/slarisch/avoiding-memory-leaks-in-php-loops-my-experience-with-dump-3pc0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
