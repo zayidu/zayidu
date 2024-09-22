@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Collections.max&lpar;&rpar; method in Java](https://dev.to/realnamehidden1_61/collectionsmax-method-in-java-3fb9)
-- [🌟 The Ultimate Guide to Dev Community &lpar;Dev.to&rpar;: Empowering Developers Worldwide!](https://dev.to/mirzahanzla/the-ultimate-guide-to-dev-community-devto-empowering-developers-worldwide-501o)
-- [ADDCOM - release 0.1](https://dev.to/arilloid/addcom-release-01-4k3k)
-- [Learn CSS Flexbox in 20 Minutes &lpar;Course&rpar; 🚀](https://dev.to/devwithsuraj/learn-css-flexbox-in-20-minutes-course-1ggi)
-- [C++ vs. Rust: A Comparative Guide to Syntax, Variables, and Control Flow](https://dev.to/anooop102910/c-vs-rust-a-comparative-guide-to-syntax-variables-and-control-flow-3bbi)
+- [Sed It Right: Mastering the Stream Editor for Text Magic](https://dev.to/jimmymcbride/sed-it-right-mastering-the-stream-editor-for-text-magic-54k9)
+- [Environment Variables in Rust](https://dev.to/francescoxx/environment-variables-in-rust-4m5l)
+- [Singleton Design Pattern](https://dev.to/tommyc/singleton-design-pattern-3b96)
+- [NativeFlow: A Tailwind-Like, Object-Based React Native UI Library 🚀](https://dev.to/mathdebate09/nativeflow-a-tailwind-like-object-based-react-native-ui-library-lap)
+- [A Deep Dive into Docker Compose](https://dev.to/alexmercedcoder/a-deep-dive-into-docker-compose-27h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
