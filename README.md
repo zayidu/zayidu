@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Few Useful Functions in Node.js Util Module](https://dev.to/hoaitx/a-few-useful-functions-in-nodejs-util-module-226d)
-- [How to Enable Work Folders Client in Windows 11?](https://dev.to/winsides/how-to-enable-work-folders-client-in-windows-11-34mi)
-- [JavaScript Asynchronous Behavior, what makes it possible?](https://dev.to/tanishparashar/javascript-asynchronous-behavior-what-makes-it-possible--30kf)
-- [Binary Numbers: Understanding Number Representations in Computing](https://dev.to/liasaiyan/yo-53fp)
-- [Getting Started with Laravel: A Beginner&#39;s Guide to Query Builder](https://dev.to/mdarifulhaque/getting-started-with-laravel-a-beginners-guide-to-query-builder-j0i)
+- [On building a digital assistant for the rest of us &lpar;part 4&rpar;](https://dev.to/tkuenneth/on-building-a-digital-assistant-for-the-rest-of-us-part-4-5a5p)
+- [Code Quest: Taming the Request Beast with Spliterator Magic! 🧙‍♂️✨](https://dev.to/meenachan101/code-quest-taming-the-request-beast-with-spliterator-magic-290m)
+- [Tadej Pogacar](https://dev.to/frbeltran1511/tadej-pogacar-m80)
+- [Customize JavaScript&#39;s console.log](https://dev.to/rokobuljan/customize-javascripts-consolelog-4d2b)
+- [Server-Side Rendering &lpar;SSR&rpar;](https://dev.to/nozibul_islam_113b1d5334f/server-side-rendering-ssr-3fdc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
