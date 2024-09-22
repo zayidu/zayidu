@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating EC2 Patching with AWS Patch Manager](https://dev.to/kkkensuke/automating-ec2-patching-with-aws-patch-manager-a7h)
-- [Iterative Thought Refiner: Enhancing LLM Responses via Dynamic Adaptive Reasoning](https://dev.to/mikeyoung44/iterative-thought-refiner-enhancing-llm-responses-via-dynamic-adaptive-reasoning-4l3f)
-- [New Framework for Evaluating Language Models on Long-Form Text Comprehension](https://dev.to/mikeyoung44/new-framework-for-evaluating-language-models-on-long-form-text-comprehension-947)
-- [AI Generates Novel Cellular Automata with Topology-Agnostic Transformer Model](https://dev.to/mikeyoung44/ai-generates-novel-cellular-automata-with-topology-agnostic-transformer-model-4eci)
-- [Keep Your Code in Sync](https://dev.to/farhatsharifh/keep-your-code-in-sync-3abl)
+- [Java Collections Scenario Based Interview Question](https://dev.to/realnamehidden1_61/java-collections-scenario-based-interview-question-4cbh)
+- [Routing in React vs. Next.js: Extra Work or Easy Wins?](https://dev.to/iamfaham/routing-in-react-vs-nextjs-extra-work-or-easy-wins-3mcf)
+- [#The Future of Design: 5 AI Tools to Transform Your Creative Process 🌈🤖](https://dev.to/toobaliscious/the-future-of-design-5-ai-tools-to-transform-your-creative-process-54ck)
+- [When a Traditional Relational Database Is More Suitable Than Blockchain: Key Scenarios](https://dev.to/adityabhuyan/when-a-traditional-relational-database-is-more-suitable-than-blockchain-key-scenarios-2lg7)
+- [Model2Vec: Making Sentence Transformers 500x faster on CPU, and 15x smaller](https://dev.to/pringled/model2vec-making-sentence-transformers-500x-faster-on-cpu-and-15x-smaller-4k2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
