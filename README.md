@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Collections Scenario Based Interview Question](https://dev.to/realnamehidden1_61/java-collections-scenario-based-interview-question-4cbh)
-- [Routing in React vs. Next.js: Extra Work or Easy Wins?](https://dev.to/iamfaham/routing-in-react-vs-nextjs-extra-work-or-easy-wins-3mcf)
-- [#The Future of Design: 5 AI Tools to Transform Your Creative Process 🌈🤖](https://dev.to/toobaliscious/the-future-of-design-5-ai-tools-to-transform-your-creative-process-54ck)
-- [When a Traditional Relational Database Is More Suitable Than Blockchain: Key Scenarios](https://dev.to/adityabhuyan/when-a-traditional-relational-database-is-more-suitable-than-blockchain-key-scenarios-2lg7)
-- [Model2Vec: Making Sentence Transformers 500x faster on CPU, and 15x smaller](https://dev.to/pringled/model2vec-making-sentence-transformers-500x-faster-on-cpu-and-15x-smaller-4k2b)
+- [Microservices Design Aspects](https://dev.to/tkssharma/microservices-design-aspects-5h9e)
+- [Embracing Change: Trends and Technologies Shaping Our Future](https://dev.to/thazar/embracing-change-trends-and-technologies-shaping-our-future-1mn5)
+- [General vs. Semantic Tags in HTML: Why Structure Matters](https://dev.to/okputu-e/general-vs-semantic-tags-in-html-why-structure-matters-3imn)
+- [General vs. Semantic Tags in HTML: Why Structure Matters](https://dev.to/okputu-e/general-vs-semantic-tags-in-html-why-structure-matters-4e32)
+- [Investigating Azure Regional Capabilities](https://dev.to/martinhc/investigating-azure-regional-capabilities-3nlp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
