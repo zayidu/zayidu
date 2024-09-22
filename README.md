@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Understanding How Next.js Works: A Comparison with React.js](https://dev.to/vyan/understanding-how-nextjs-works-a-comparison-with-reactjs-4f1b)
+- [How to temporarily skip the pending migration check in Rails](https://dev.to/alexandrecalaca/how-to-temporarily-skip-the-pending-migration-check-in-rails-4ahk)
+- [FREE Downloadable Resources](https://dev.to/pawandeore/free-downloadable-resources-2e5n)
 - [Understanding How ChatGPT Generates Human-Like Text](https://dev.to/hichamelhirch/understanding-how-chatgpt-generates-human-like-text-dp5)
 - [Continuous Delivery applied to Authorization with IAM Identity Center and AWS IAM Access Analyzer – Part 2](https://dev.to/avelez/continuous-delivery-applied-to-authorization-with-iam-identity-center-and-aws-iam-access-analyzer-part-2-35lb)
-- [[ML.NET] Predicting the Future with ML.NET with examples](https://dev.to/ngtduc693/predicting-the-future-with-mlnet-machine-learning-net-with-examples-4le0)
-- [Python&#39;s Data Classes: A Deep Dive](https://dev.to/kartikmehta8/pythons-data-classes-a-deep-dive-3245)
-- [Dynamic Tests in Cypress: To Loop or Not To Loop](https://dev.to/sebastianclavijo/dynamic-tests-in-cypress-to-loop-or-not-to-loop-2g22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
