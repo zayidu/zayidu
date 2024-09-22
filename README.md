@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built my first OpenSource project](https://dev.to/iamvaar/i-built-my-first-opensource-project-4340)
-- [How to Disable Button in Android Studio](https://dev.to/mohasinnawaz091/how-to-disable-button-in-android-studio-31m3)
-- [A Tetris Tutorial That&#39;s a Real Gem! 💎](https://dev.to/getvm/a-tetris-tutorial-thats-a-real-gem-518a)
-- [Every web developer should know these websites 👇](https://dev.to/mohasinnawaz091/every-web-developer-should-know-these-websites-14i4)
-- [Lost on Earth &lpar;game in progress by Shahbaz Awan&rpar; player&#39;s name and movements.](https://dev.to/shahbaz_awan/lost-on-earth-game-in-progress-by-shahbaz-awan-players-name-and-movements-30ga)
+- [Automating EC2 Patching with AWS Patch Manager](https://dev.to/kkkensuke/automating-ec2-patching-with-aws-patch-manager-a7h)
+- [Iterative Thought Refiner: Enhancing LLM Responses via Dynamic Adaptive Reasoning](https://dev.to/mikeyoung44/iterative-thought-refiner-enhancing-llm-responses-via-dynamic-adaptive-reasoning-4l3f)
+- [New Framework for Evaluating Language Models on Long-Form Text Comprehension](https://dev.to/mikeyoung44/new-framework-for-evaluating-language-models-on-long-form-text-comprehension-947)
+- [AI Generates Novel Cellular Automata with Topology-Agnostic Transformer Model](https://dev.to/mikeyoung44/ai-generates-novel-cellular-automata-with-topology-agnostic-transformer-model-4eci)
+- [Keep Your Code in Sync](https://dev.to/farhatsharifh/keep-your-code-in-sync-3abl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
