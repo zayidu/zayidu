@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Hooks](https://dev.to/mrcaption49/react-hooks-2n3l)
-- [Back to Basics: The CrowdStrike Incident and Fundamental IT Security Principles](https://dev.to/virteva/back-to-basics-the-crowdstrike-incident-and-fundamental-it-security-principles-435i)
-- [Ottimizzazione delle Performance Web: Velocizzare il Tuo Sito Web | Web Performance Optimization: Speeding Up Your Website](https://dev.to/roberto_celano/ottimizzazione-delle-performance-web-velocizzare-il-tuo-sito-web-web-performance-optimization-speeding-up-your-website-48e7)
-- [Generate meaningful commit messages with Ollama and Kaizen](https://dev.to/sauravpanda/generate-meaningful-commit-messages-with-ollama-and-kaizen-2c01)
-- [Binary number subtraction, multiplication](https://dev.to/eduard_grigoryan_500ba240/binary-number-subtraction-multiplication-40e5)
+- [LOGIC GATES AND THEIR USAGE](https://dev.to/ara_melkonyan_87f17d84509/logic-gates-and-their-usage-1gm4)
+- [PLSQL Top 10 Interview Questions](https://dev.to/mrcaption49/plsql-top-10-interview-questions-2o01)
+- [Day Two: Stepping Away from UI to Tackle SEO, Security, and Automation](https://dev.to/madhatter5501/day-two-stepping-away-from-ui-to-tackle-seo-security-and-automation-25ni)
+- [Factory Design Pattern](https://dev.to/tommyc/factory-design-pattern-42hc)
+- [WebAssembly: The Superpower You Didn’t Know You Needed](https://dev.to/programordie/webassembly-the-superpower-you-didnt-know-you-needed-c9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
