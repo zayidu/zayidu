@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What bits of software engineering faff would you want to get rid of?](https://dev.to/dllewellyn/what-bits-of-software-engineering-faff-would-you-want-to-get-rid-of-1pfk)
-- [🛠️ Rust vs Go: The Ultimate Showdown for Backend Development ⚡](https://dev.to/hamzakhan/rust-vs-go-the-ultimate-showdown-for-backend-development-5cll)
-- [Understanding Array Basics in Java: A Simple Guide](https://dev.to/arshisaxena26/understanding-array-basics-in-java-a-simple-guide-53mb)
-- [From Dependency Inversion to Dependency Injection in Python](https://dev.to/markoulis/from-dependency-inversion-to-dependency-injection-in-python-2h70)
-- [How to Set Up Prettier – Code Formatter](https://dev.to/shieldstring/how-to-set-up-prettier-code-formatter-4a2f)
+- [Setting Up an EXTERNAL-IP for Local LoadBalancer Service](https://dev.to/chauhoangminhnguyen/setting-up-an-external-ip-for-local-loadbalancer-service-4914)
+- [Regrets of Travel - FAV0 Weekly #015](https://dev.to/justin3go/regrets-of-travel-fav0-weekly-015-5djf)
+- [旅行的遗憾 - FAV0周刊#015](https://dev.to/justin3go/lu-xing-de-yi-han-fav0zhou-kan-015-3jkm)
+- [PDF Extraction: Retrieving Text and Tables together using Python🐍](https://dev.to/rishabdugar/pdf-extraction-retrieving-text-and-tables-together-using-python-14c2)
+- [Programmer vs Software Enginner](https://dev.to/ali_mohamed_ai2/programmer-vs-software-enginner-2711)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
