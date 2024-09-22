@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LOGIC GATES](https://dev.to/liana_petrosyan_999b931cb/logic-gates-2egf)
-- [CourseModal](https://dev.to/navnit73/coursemodal-4dhp)
-- [Secure storage for Azure Files and Azure Blob Storage](https://dev.to/ikelechia/secure-storage-for-azure-files-and-azure-blob-storage-4g9h)
-- [AdminCourses](https://dev.to/navnit73/admincourses-3i84)
-- [About us](https://dev.to/navnit73/about-us-5b25)
+- [A Comprehensive Guide to Server-Sent Events &lpar;SSE&rpar; for Real-Time Web Applications](https://dev.to/simranjit884/a-comprehensive-guide-to-server-sent-events-sse-for-real-time-web-applications-29e7)
+- [What is Semantic Markup? ~ GameDev Challenge](https://dev.to/saamiabbaskhan/what-is-semantic-markup-gamedev-challenge-3k2a)
+- [System Design Terminologies: Key Concepts Every Engineer Should Know](https://dev.to/wallacefreitas/system-design-terminologies-key-concepts-every-engineer-should-know-2hi4)
+- [Day 13. Blocker](https://dev.to/kiolk/day-13-blocker-4ebp)
+- [&#39;string&#39; vs &#39;String&#39;: The Battle Between Primitive and Object Types in TypeScript](https://dev.to/osalumense/string-vs-string-the-battle-between-primitive-and-object-types-in-typescript-14cp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
