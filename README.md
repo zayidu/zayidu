@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Some linked CSS Methods](https://dev.to/lmcss/some-linked-css-methods-enc)
-- [Programming with Linux OS— Virtual or Real Machine?](https://dev.to/benslinux/programming-with-linux-os-virtual-or-real-machine-l20)
-- [Building a Unit of Work like pattern in NestJS and Sequelize.](https://dev.to/murilogervasio/building-a-unit-of-work-like-pattern-in-nestjs-and-sequelize-5gah)
-- [Eslint Code Insights from Bitbucket pipelines](https://dev.to/julian_c/eslint-code-insights-from-bitbucket-pipelines-5dgo)
-- [Day 12. Frustration](https://dev.to/kiolk/day-12-frustration-137e)
+- [Dynamic Tests in Cypress: To Loop or Not To Loop](https://dev.to/sebastianclavijo/dynamic-tests-in-cypress-to-loop-or-not-to-loop-2g22)
+- [Output Hub - Knowledge Management System For LLM &amp; GPT Outputs &lpar;Project Outline&rpar;](https://dev.to/danielrosehill/output-hub-knowledge-management-system-for-llm-gpt-outputs-project-outline-21j0)
+- [My First Open Source Contribution: Adding Token Usage Feature to a CLI Project](https://dev.to/inderpreet/my-first-open-source-contribution-adding-token-usage-feature-to-a-cli-project-1gni)
+- [LAPONG DOCKER](https://dev.to/albertguedes/lapong-docker-m19)
+- [Djanblog](https://dev.to/albertguedes/djanblog-1bjo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
