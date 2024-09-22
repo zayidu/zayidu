@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up an EXTERNAL-IP for Local LoadBalancer Service](https://dev.to/chauhoangminhnguyen/setting-up-an-external-ip-for-local-loadbalancer-service-4914)
-- [Regrets of Travel - FAV0 Weekly #015](https://dev.to/justin3go/regrets-of-travel-fav0-weekly-015-5djf)
-- [旅行的遗憾 - FAV0周刊#015](https://dev.to/justin3go/lu-xing-de-yi-han-fav0zhou-kan-015-3jkm)
-- [PDF Extraction: Retrieving Text and Tables together using Python🐍](https://dev.to/rishabdugar/pdf-extraction-retrieving-text-and-tables-together-using-python-14c2)
-- [Programmer vs Software Enginner](https://dev.to/ali_mohamed_ai2/programmer-vs-software-enginner-2711)
+- [Essential Resources for Frontend Developers: Links You Can’t Live Without](https://dev.to/asimachowdhury/essential-resources-for-frontend-developers-links-you-cant-live-without-54o6)
+- [Crypt::OpenSSL::PKCS12 1.92 released to CPAN](https://dev.to/jonasbn/cryptopensslpkcs12-192-released-to-cpan-4n78)
+- [My website design](https://dev.to/rois_wagner_09c5592c25729/my-website-design-pbm)
+- [The Joy of the Unknown: Exploring Audio Streams with Rust and Circular Buffers](https://dev.to/drsh4dow/the-joy-of-the-unknown-exploring-audio-streams-with-rust-and-circular-buffers-494d)
+- [Understanding Web development for Begginers](https://dev.to/javadevone/understanding-web-development-for-begginers-4aep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
