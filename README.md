@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering C# Fundamentals: Setting Up Your Environment for C# Development](https://dev.to/moh_moh701/mastering-c-fundamentals-setting-up-your-environment-for-c-development-df5)
-- [Why must a Kubernetes cluster have an odd number of nodes](https://dev.to/farshad_nick/why-must-a-kubernetes-cluster-have-an-odd-number-of-nodes-5co6)
-- [Why you SHOULD NOT host WordPress in Kubernetes](https://dev.to/kubelet/why-you-should-not-host-wordpress-in-kubernetes-2kk4)
-- [Deploying a Static Website on AWS S3 with Terraform: A Beginner&#39;s Guide](https://dev.to/ephantus_gachomba_/deploying-a-static-website-on-aws-s3-with-terraform-a-beginners-guide-jon)
-- [Why Linux for Your Old PC?](https://dev.to/benslinux2024/why-linux-for-your-old-pc-2m17)
+- [From Dependency Inversion to Dependency Injection in Python](https://dev.to/markoulis/from-dependency-inversion-to-dependency-injection-in-python-2h70)
+- [How to Set Up Prettier – Code Formatter](https://dev.to/shieldstring/how-to-set-up-prettier-code-formatter-4a2f)
+- [The programming language conundrum](https://dev.to/suriya_ganesh_5deb9ce2569/the-programming-language-conundrum-305l)
+- [How do you stay updated with the latest tech trends and tools](https://dev.to/harry_kale_1c677aae7d5f66/how-do-you-stay-updated-with-the-latest-tech-trends-and-tools-4hjc)
+- [WordPress: How to solve &quot;Error establishing a database connection&quot;](https://dev.to/skuzzy_topten/wordpress-how-to-solve-error-establishing-a-database-connection-ml9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
