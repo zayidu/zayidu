@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Coding Should Be a Core Subject in Schools](https://dev.to/indusschoolb/why-coding-should-be-a-core-subject-in-schools-3dhi)
-- [How to Create Your Own IPTV Channel?](https://dev.to/alexsam986/how-to-create-your-own-iptv-channel-3a8)
-- [The Importance of the Token Bucket Algorithm: Key Strategies and Best Practices for Businesses](https://dev.to/keploy/the-importance-of-the-token-bucket-algorithm-key-strategies-and-best-practices-for-businesses-jod)
-- [iOS App Testing &lpar;Automation and Manual&rpar; - A Comprehensive Guide](https://dev.to/jennife05918349/ios-app-testing-automation-and-manual-a-comprehensive-guide-1415)
-- [🛸🛸🚀The Planets Shooter Game For Dev Challenge🌏🛸🚀](https://dev.to/hanzla-mirza/the-planets-shooter-game-for-dev-challenge-22hi)
+- [Storage Wars: Web Edition – or, how we learned to store binary data effectively](https://dev.to/scanbot-sdk/storage-wars-web-edition-or-how-we-learned-to-store-binary-data-effectively-1f7c)
+- [My first issue on GitHub](https://dev.to/gaurav-webdev/my-first-issue-on-github-h9f)
+- [The Importance of DOM Manipulation: Strategies and Best Practices for Businesses](https://dev.to/keploy/the-importance-of-dom-manipulation-strategies-and-best-practices-for-businesses-3no6)
+- [Primeiro](https://dev.to/naotemerro/primeiro-31bo)
+- [Simplify Chrome Extension Development: Add React without CRA](https://dev.to/k_ivanow/simplify-chrome-extension-development-add-react-without-cra-5h4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
