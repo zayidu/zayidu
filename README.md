@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to optimize your Appwrite project for cost and performance](https://dev.to/appwrite/how-to-optimize-your-appwrite-project-for-cost-and-performance-5g2g)
-- [Die Psychologie hinter Social Proof – Wie Du Vertrauen aufbaust](https://dev.to/per-starke-642/die-psychologie-hinter-social-proof-wie-du-vertrauen-aufbaust-2bg0)
-- [Engines to get you started in your web-based gaming development](https://dev.to/davidshaek/engines-to-get-you-started-in-your-web-based-gaming-development-1j45)
-- [Project Ideas Don’t Have to Be Unique: Here’s Why](https://dev.to/mdmarufsarker/project-ideas-dont-have-to-be-unique-heres-why-4fkk)
-- [Optimizing Workflows: Salesforce Automation Best Practices 2024](https://dev.to/itechcloud_solution_01/optimizing-workflows-salesforce-automation-best-practices-2024-52dl)
+- [What is Dynamic Protection in SafeLine WAF](https://dev.to/carrie_luo1/what-is-dynamic-protection-in-safeline-waf-55ep)
+- [How React JSX Gets Transformed Into JavaScript Behind the Scenes](https://dev.to/kashif_ullah_dev/how-react-jsx-gets-transformed-into-javascript-behind-the-scenes-467f)
+- [Best Practices for Securing Your Data with AWS S3 and VPC Endpoints](https://dev.to/emma_wags_8dd9b74533690da/best-practices-for-securing-your-data-with-aws-s3-and-vpc-endpoints-3908)
+- [EFCore Tutorial P8:Filtering, Sorting, and Paging](https://dev.to/moh_moh701/efcore-tutorial-p8filtering-sorting-and-paging-3c3d)
+- [How to Turn Your Device Into a Simple Server Using Python.](https://dev.to/trixsec/how-to-turn-your-device-into-a-simple-server-using-python-47be)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
