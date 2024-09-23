@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SSH to Google Compute Engine](https://dev.to/chauhoangminhnguyen/ssh-to-google-compute-engine-1naj)
-- [5 Project Management Timeline Software to Maximize Business Efficiency](https://dev.to/thomasy0ung/5-project-management-timeline-software-to-maximize-business-efficiency-p0d)
-- [Google Spreadsheets OAuth Authentication with Python](https://dev.to/unarmedscott/google-spreadsheets-oauth-authentication-with-python-1068)
-- [what is YARP vs NGINX](https://dev.to/hossien014/what-is-yarp-vs-nginx-4m59)
-- [40 Days Of Kubernetes &lpar;9/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-940-3k9a)
+- [What is the difference between HashMap and Hashtable?](https://dev.to/codegreen/what-is-the-difference-between-hashmap-and-hashtable-4ng7)
+- [🚀 DevOps for Dev - Simplifying Developers&#39; Work](https://dev.to/skillcr/devops-for-dev-simplifying-developers-work-2kkp)
+- [What are the differences between HashSet and TreeSet?](https://dev.to/codegreen/what-are-the-differences-between-hashset-and-treeset-53b7)
+- [Kth Largest Element in an Array](https://dev.to/codexam/kth-largest-element-in-an-array-173k)
+- [Understanding Data Types in JavaScript](https://dev.to/wisdomudo/understanding-data-types-in-javascript-e3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
