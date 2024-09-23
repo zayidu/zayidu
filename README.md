@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;LLMs: The Answer to All Your Questions&lpar; Except the Meaning of Life💬&rpar;&quot;](https://dev.to/snehal_kothawade_sk/llms-the-answer-to-all-your-questions-except-the-meaning-of-life-c6h)
-- [CSS Variables – Streamlining Your Stylesheets](https://dev.to/ridoy_hasan/css-variables-streamlining-your-stylesheets-3jea)
-- [How to Build Reusable List Components in React with Custom Render Functions?](https://dev.to/vishnusatheesh/how-to-build-reusable-list-components-in-react-with-custom-render-functions-7ge)
-- [Elevating Your Junior Developer Career: Strategies for Standing Out](https://dev.to/travislramos/elevating-your-junior-developer-career-strategies-for-standing-out-b4j)
-- [Cursor Best 2024](https://dev.to/mrcaption49/cursor-best-1f3c)
+- [Mastering C# Fundamentals: Working with Date and Time in C# Using `DateTime` and `DateOnly`](https://dev.to/moh_moh701/mastering-c-fundamentals-working-with-date-and-time-in-c-using-datetime-and-dateonly-47ek)
+- [Logical Processing order of a SQL query](https://dev.to/mrcaption49/logical-processing-order-of-a-sql-query-3ck3)
+- [🛑 Stop Coding Already! 🛑](https://dev.to/paratron/stop-coding-already-44m7)
+- [Day 14. Monday](https://dev.to/kiolk/day-14-monday-3o64)
+- [Agile isn’t tailored for Product and Design needs: Insights from Jessica Hall](https://dev.to/codegardener/agile-isnt-tailored-for-product-and-design-needs-insights-from-jessica-hall-5c23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
