@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Regions](https://dev.to/matthewbill/typescript-regions-5h1f)
-- [The Architecture Behind Crypto Exchange Mining Pools](https://dev.to/alexroor4/the-architecture-behind-crypto-exchange-mining-pools-2gmp)
-- [How to Change Brightness on Windows 11?](https://dev.to/winsides/how-to-change-brightness-on-windows-11-dl9)
-- [Build a SERP rank tracker app with this API](https://dev.to/serpapi/build-a-serp-rank-tracker-app-with-this-api-4nbj)
-- [Adding a Serial ID to MySQL Tables Based on Creation Date: A Step-by-Step Guide](https://dev.to/manojspace/adding-a-serial-id-to-mysql-tables-based-on-creation-date-a-step-by-step-guide-2em3)
+- [How to optimize your Appwrite project for cost and performance](https://dev.to/appwrite/how-to-optimize-your-appwrite-project-for-cost-and-performance-5g2g)
+- [Die Psychologie hinter Social Proof – Wie Du Vertrauen aufbaust](https://dev.to/per-starke-642/die-psychologie-hinter-social-proof-wie-du-vertrauen-aufbaust-2bg0)
+- [Engines to get you started in your web-based gaming development](https://dev.to/davidshaek/engines-to-get-you-started-in-your-web-based-gaming-development-1j45)
+- [Project Ideas Don’t Have to Be Unique: Here’s Why](https://dev.to/mdmarufsarker/project-ideas-dont-have-to-be-unique-heres-why-4fkk)
+- [Optimizing Workflows: Salesforce Automation Best Practices 2024](https://dev.to/itechcloud_solution_01/optimizing-workflows-salesforce-automation-best-practices-2024-52dl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
