@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One Byte Explainer: WebSockets](https://dev.to/zibrasismail/one-byte-explainer-websockets-3o47)
-- [How Modern Browsers Render Websites: A Behind-the-Scenes Look 🎨💻](https://dev.to/hikolakita/how-modern-browsers-render-websites-a-behind-the-scenes-look-5bfn)
-- [Which React render callback pattern do you prefer?](https://dev.to/moraym/which-react-render-callback-pattern-do-you-prefer-3p5a)
-- [Major Mode Comfort Functions, Because I&#39;m Lazy](https://dev.to/downtherabbithole/major-mode-comfort-functions-because-im-lazy-5ego)
-- [Release 0.42.0 of Spellcheck &lpar;GitHub&rpar; Action - yet another maintenance release](https://dev.to/jonasbn/release-0420-of-spellcheck-github-action-yet-another-maintenance-release-4npd)
+- [Comparing the Top 12 Best Python Web Frameworks for Developers](https://dev.to/get_pieces/comparing-the-top-12-best-python-web-frameworks-for-developers-4cn0)
+- [AIM Weekly for 23 September 2024](https://dev.to/tspannhw/aim-weekly-for-23-september-2024-nka)
+- [⚡ **Rust vs Node.js vs Go: Performance Comparison for Backend Development** 🏎️](https://dev.to/hamzakhan/rust-vs-nodejs-vs-go-performance-comparison-for-backend-development-2g69)
+- [Gen AI Hype - the Never Ending Excitement](https://dev.to/maximsaplin/gen-ai-hype-the-never-ending-excitement-1i8a)
+- [Build a Web Game: Alien Invaders Game](https://dev.to/zibrasismail/build-a-web-game-alien-invaders-game-2add)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
