@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I automated the booking of CrossFit &lpar;or any other group activity&rpar; at my gym using Playwright](https://dev.to/vicentecph/how-i-automated-the-booking-of-group-crossfit-or-any-other-activity-classes-at-my-gym-with-playwright-15pd)
-- [Cursors in PL/SQL Part 2](https://dev.to/mrcaption49/cursors-in-plsql-part-2-59ph)
-- [How to deploy Kubernetes Secrets with AWS Secrets Manager](https://dev.to/devtron_inc/how-to-deploy-kubernetes-secrets-with-aws-secrets-manager-48dh)
-- [Optimizing OpenStreetMap’s DevOps Efficiency: A Data-Driven DORA Metrics Analysis](https://dev.to/middleware/optimizing-openstreetmaps-devops-efficiency-a-data-driven-dora-metrics-analysis-4h8)
-- [Learn Fastly Compute in your browser in minutes](https://dev.to/fastly/learn-fastly-compute-in-your-browser-in-minutes-g7g)
+- [Why Coding Should Be a Core Subject in Schools](https://dev.to/indusschoolb/why-coding-should-be-a-core-subject-in-schools-3dhi)
+- [How to Create Your Own IPTV Channel?](https://dev.to/alexsam986/how-to-create-your-own-iptv-channel-3a8)
+- [The Importance of the Token Bucket Algorithm: Key Strategies and Best Practices for Businesses](https://dev.to/keploy/the-importance-of-the-token-bucket-algorithm-key-strategies-and-best-practices-for-businesses-jod)
+- [iOS App Testing &lpar;Automation and Manual&rpar; - A Comprehensive Guide](https://dev.to/jennife05918349/ios-app-testing-automation-and-manual-a-comprehensive-guide-1415)
+- [🛸🛸🚀The Planets Shooter Game For Dev Challenge🌏🛸🚀](https://dev.to/hanzla-mirza/the-planets-shooter-game-for-dev-challenge-22hi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
