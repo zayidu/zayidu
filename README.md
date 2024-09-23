@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deployment and Load Status Monitoring of GBFS Dedicated File Server for GBase 8a MPP Cluster Data Loading](https://dev.to/congcong/deployment-and-load-status-monitoring-of-gbfs-dedicated-file-server-for-gbase-8a-mpp-cluster-data-loading-1ap0)
-- [Step by step to create ESXi customize image](https://dev.to/ashishchorge/step-by-step-to-create-esxi-customize-image-34an)
-- [How Researchers Are Teaching AI to Understand What We Really Want](https://dev.to/exploredataaiml/how-researchers-are-teaching-ai-to-understand-what-we-really-want-32od)
-- [Engineering Leadership: Bridging Gaps and Simplifying Tech](https://dev.to/kumarsiva07/engineering-leadership-bridging-gaps-and-simplifying-tech-142b)
-- [Strange error after build for PROD vite with laravel, vue3 and inertia](https://dev.to/r0bschuh/strange-error-after-build-for-prod-vite-with-laravel-vue3-and-inertia-1m1n)
+- [Awkwardly Awesome: Unlocking the Power of awk](https://dev.to/jimmymcbride/awkwardly-awesome-unlocking-the-power-of-awk-9fo)
+- [Why Haven&#39;t I Been Able to Land a Remote Job?](https://dev.to/anwarhossain1/why-havent-i-been-able-to-land-a-remote-job-2b3a)
+- [How PWAs Make Game Development Easy and Accessible!](https://dev.to/aashwinkumar/how-pwas-make-game-development-easy-and-accessible-53g0)
+- [I REQUIRE HELP FOR MY LEARNING ABOUT PROGRAMMING](https://dev.to/mai_rodriguezzz12/i-require-help-for-my-learning-about-programming-2k4o)
+- [Advanced Multi-Stage, Multi-Vector Querying Using the ColBERT Approach in Qdrant](https://dev.to/exploredataaiml/advanced-multi-stage-multi-vector-querying-using-the-colbert-approach-in-qdrant-2mj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
