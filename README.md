@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Web Applications with ASP.NET Core](https://dev.to/kartikmehta8/building-web-applications-with-aspnet-core-4d6h)
-- [Understanding State and Props in React 💻🌱](https://dev.to/anikakash/understanding-state-and-props-in-react-5b9j)
-- [How My Friend Inspired Me to Reignite My Passion for AI Through Lifelong Learning😊](https://dev.to/fonyuygita/how-my-friend-inspired-me-to-reignite-my-passion-for-ai-through-lifelong-learning-2og2)
-- [How to start a Shadcn project from scratch](https://dev.to/opensourcee/how-to-start-a-shadcn-project-from-scratch-44ln)
-- [Essential Git Commands Every Developer Should Know](https://dev.to/mr_nova/essential-git-commands-every-developer-should-know-4gpk)
+- [Understanding the Essentials of Angular](https://dev.to/darrenheine/understanding-the-essentials-of-angular-2oop)
+- [- binary numbers, other number representations - conversions between different number representations](https://dev.to/tsolak_shahbazyan_4d38b8e/-binary-numbers-other-number-representations-conversions-between-different-number-representations-72a)
+- [Conociendo uv](https://dev.to/johnnatan_sandovalcardon/conociendo-uv-1717)
+- [Scalable SVG&#39;s](https://dev.to/ssukhpinder/scalable-svgs-244c)
+- [Why is less more? Minimalistic UI](https://dev.to/jhernandez504/why-is-less-more-minimalistic-ui-467l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
