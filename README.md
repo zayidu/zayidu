@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Awkwardly Awesome: Unlocking the Power of awk](https://dev.to/jimmymcbride/awkwardly-awesome-unlocking-the-power-of-awk-9fo)
-- [Why Haven&#39;t I Been Able to Land a Remote Job?](https://dev.to/anwarhossain1/why-havent-i-been-able-to-land-a-remote-job-2b3a)
-- [How PWAs Make Game Development Easy and Accessible!](https://dev.to/aashwinkumar/how-pwas-make-game-development-easy-and-accessible-53g0)
-- [I REQUIRE HELP FOR MY LEARNING ABOUT PROGRAMMING](https://dev.to/mai_rodriguezzz12/i-require-help-for-my-learning-about-programming-2k4o)
-- [Advanced Multi-Stage, Multi-Vector Querying Using the ColBERT Approach in Qdrant](https://dev.to/exploredataaiml/advanced-multi-stage-multi-vector-querying-using-the-colbert-approach-in-qdrant-2mj7)
+- [Making a Power App that makes Flows](https://dev.to/wyattdave/making-a-power-app-that-makes-flows-55kk)
+- [7 Open Source Projects You Should Know - Vue Edition ✔️ [BONUS]](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-vue-edition-bonus-i4n)
+- [HTML &lpar;HyperText Markup Language&rpar;: The Structure of Web Pages](https://dev.to/shieldstring/html-hypertext-markup-language-the-structure-of-web-pages-3fjo)
+- [Guide to AWS re:Invent - Tips &amp; Tricks](https://dev.to/aws-heroes/guide-to-aws-reinvent-tips-tricks-l7d)
+- [Deno overview](https://dev.to/lord_n3_/deno-overview-4ppf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
