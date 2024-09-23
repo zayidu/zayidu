@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing the Top 12 Best Python Web Frameworks for Developers](https://dev.to/get_pieces/comparing-the-top-12-best-python-web-frameworks-for-developers-4cn0)
-- [AIM Weekly for 23 September 2024](https://dev.to/tspannhw/aim-weekly-for-23-september-2024-nka)
-- [⚡ **Rust vs Node.js vs Go: Performance Comparison for Backend Development** 🏎️](https://dev.to/hamzakhan/rust-vs-nodejs-vs-go-performance-comparison-for-backend-development-2g69)
-- [Gen AI Hype - the Never Ending Excitement](https://dev.to/maximsaplin/gen-ai-hype-the-never-ending-excitement-1i8a)
-- [Build a Web Game: Alien Invaders Game](https://dev.to/zibrasismail/build-a-web-game-alien-invaders-game-2add)
+- [Enable Microsoft XPS Document Writer in Windows 11](https://dev.to/winsides/enable-microsoft-xps-document-writer-in-windows-11-1oek)
+- [Stop saying “you forgot to …” in code review](https://dev.to/thinkthroo/stop-saying-you-forgot-to-in-code-review-4i6o)
+- [⚛️ Optimizing the Critical Rendering Path in React Applications](https://dev.to/sherifjrr/optimizing-the-critical-rendering-path-in-react-applications-5cpc)
+- [&#39;this&#39; keyword, call&lpar;&rpar;, apply&lpar;&rpar; and bind&lpar;&rpar; methods in JavaScript - simply explained](https://dev.to/abeertech01/this-keyword-call-apply-and-bind-methods-in-javascript-simply-explained-3ag2)
+- [DevOps: Bridging Development and Operations for Faster Delivery](https://dev.to/jeevan_larosh_1ed1a53014a/devops-bridging-development-and-operations-for-faster-delivery-53bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
