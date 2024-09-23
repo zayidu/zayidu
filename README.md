@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the difference between HashMap and Hashtable?](https://dev.to/codegreen/what-is-the-difference-between-hashmap-and-hashtable-4ng7)
-- [🚀 DevOps for Dev - Simplifying Developers&#39; Work](https://dev.to/skillcr/devops-for-dev-simplifying-developers-work-2kkp)
-- [What are the differences between HashSet and TreeSet?](https://dev.to/codegreen/what-are-the-differences-between-hashset-and-treeset-53b7)
-- [Kth Largest Element in an Array](https://dev.to/codexam/kth-largest-element-in-an-array-173k)
-- [Understanding Data Types in JavaScript](https://dev.to/wisdomudo/understanding-data-types-in-javascript-e3c)
+- [Technical Deep Dive: How We Built the Pizza CLI Using Go and Cobra](https://dev.to/opensauced/technical-deep-dive-how-we-built-the-pizza-cli-using-go-and-cobra-oad)
+- [Global Scope in Laravel &lpar;StepWise&rpar;.](https://dev.to/aj_c6413caf1a793de3a2163b/global-scope-in-laravel-stepwise-1ij8)
+- [Hacktoberfest: Your Open Source Journey Starts Here](https://dev.to/shelar1423/hacktoberfest-your-open-source-journey-starts-here-l1d)
+- [AWS CloudFormation Git sync now allows you to review your stack changes via Pull Request &lpar;PR&rpar;](https://dev.to/karthiksakthiveltechie/aws-cloudformation-git-sync-now-allows-you-to-review-your-stack-changes-via-pull-request-pr-4aa4)
+- [Data Visualization on the e-RT3 using Node-RED, InfluxDB Cloud, and Grafana](https://dev.to/yokogawa-yts_india/data-visualization-on-the-e-rt3-using-node-red-influxdb-cloud-and-grafana-30lj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
