@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Storage Wars: Web Edition – or, how we learned to store binary data effectively](https://dev.to/scanbot-sdk/storage-wars-web-edition-or-how-we-learned-to-store-binary-data-effectively-1f7c)
-- [My first issue on GitHub](https://dev.to/gaurav-webdev/my-first-issue-on-github-h9f)
-- [The Importance of DOM Manipulation: Strategies and Best Practices for Businesses](https://dev.to/keploy/the-importance-of-dom-manipulation-strategies-and-best-practices-for-businesses-3no6)
-- [Primeiro](https://dev.to/naotemerro/primeiro-31bo)
-- [Simplify Chrome Extension Development: Add React without CRA](https://dev.to/k_ivanow/simplify-chrome-extension-development-add-react-without-cra-5h4c)
+- [SSH to Google Compute Engine](https://dev.to/chauhoangminhnguyen/ssh-to-google-compute-engine-1naj)
+- [5 Project Management Timeline Software to Maximize Business Efficiency](https://dev.to/thomasy0ung/5-project-management-timeline-software-to-maximize-business-efficiency-p0d)
+- [Google Spreadsheets OAuth Authentication with Python](https://dev.to/unarmedscott/google-spreadsheets-oauth-authentication-with-python-1068)
+- [what is YARP vs NGINX](https://dev.to/hossien014/what-is-yarp-vs-nginx-4m59)
+- [40 Days Of Kubernetes &lpar;9/40&rpar;](https://dev.to/subham_nandi/40-days-of-kubernetes-940-3k9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
