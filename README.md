@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Binary Tree from Preorder and Inorder Traversal: An In-Depth Guide](https://dev.to/samuel_zih_021b92c7d3d485/building-a-binary-tree-from-preorder-and-inorder-traversal-an-in-depth-guide-2528)
-- [The Future of Automated Scissor Lifts: How AI is Enhancing Safety and Efficiency](https://dev.to/luke_leech_e6bebf0dcc50d6/the-future-of-automated-scissor-lifts-how-ai-is-enhancing-safety-and-efficiency-5bn6)
-- [A Guide to Effective Use of the Terraform AWS Cloud Control Provider](https://dev.to/aws-builders/a-guide-to-effective-use-of-the-terraform-aws-cloud-control-provider-4dmn)
-- [Dive into Database Fun with Sequelize Migrations: Users, Vouchers, and Gifts, Oh My!](https://dev.to/hopelesscoder/dive-into-database-fun-with-sequelize-migrations-users-vouchers-and-gifts-oh-my-4p2g)
-- [Understanding the Essentials of Angular](https://dev.to/darrenheine/understanding-the-essentials-of-angular-2oop)
+- [Deployment and Load Status Monitoring of GBFS Dedicated File Server for GBase 8a MPP Cluster Data Loading](https://dev.to/congcong/deployment-and-load-status-monitoring-of-gbfs-dedicated-file-server-for-gbase-8a-mpp-cluster-data-loading-1ap0)
+- [Step by step to create ESXi customize image](https://dev.to/ashishchorge/step-by-step-to-create-esxi-customize-image-34an)
+- [How Researchers Are Teaching AI to Understand What We Really Want](https://dev.to/exploredataaiml/how-researchers-are-teaching-ai-to-understand-what-we-really-want-32od)
+- [Engineering Leadership: Bridging Gaps and Simplifying Tech](https://dev.to/kumarsiva07/engineering-leadership-bridging-gaps-and-simplifying-tech-142b)
+- [Strange error after build for PROD vite with laravel, vue3 and inertia](https://dev.to/r0bschuh/strange-error-after-build-for-prod-vite-with-laravel-vue3-and-inertia-1m1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
