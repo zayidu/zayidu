@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Making a Power App that makes Flows](https://dev.to/wyattdave/making-a-power-app-that-makes-flows-55kk)
-- [7 Open Source Projects You Should Know - Vue Edition ✔️ [BONUS]](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-vue-edition-bonus-i4n)
-- [HTML &lpar;HyperText Markup Language&rpar;: The Structure of Web Pages](https://dev.to/shieldstring/html-hypertext-markup-language-the-structure-of-web-pages-3fjo)
-- [Guide to AWS re:Invent - Tips &amp; Tricks](https://dev.to/aws-heroes/guide-to-aws-reinvent-tips-tricks-l7d)
-- [Deno overview](https://dev.to/lord_n3_/deno-overview-4ppf)
+- [10 Exciting React Projects for Beginners to Build and Sharpen Your Skills](https://dev.to/futuristicgeeks/10-exciting-react-projects-for-beginners-to-build-and-sharpen-your-skills-df8)
+- [Guide: How to add Write-Back capabilities to your Power BI reports with Power Apps - Part 1](https://dev.to/jonvoge/guide-how-to-add-write-back-capabilities-to-your-power-bi-reports-with-power-apps-part-1-49ek)
+- [Troubleshooting Umami Analytics: Resolving Unknown User Country Issue with Proxy Protocol on OCI](https://dev.to/nhisyamj/troubleshooting-umami-analytics-resolving-unknown-user-country-issue-with-proxy-protocol-on-oci-3gke)
+- [Creating a Scholarship Chatbot: A Beginner&#39;s Step-by-Step Guide with HTML, CSS, JavaScript, and Gemini API](https://dev.to/indah780/creating-a-scholarship-chatbot-a-beginners-step-by-step-guide-with-html-css-javascript-and-gemini-api-2d0e)
+- [Exploring Salesforce Web3 Exploring Salesforce Web3 and Blockchain Integration in 2024](https://dev.to/itechcloud_solution_01/exploring-salesforce-web3-exploring-salesforce-web3-and-blockchain-integration-in-2024-1d6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
