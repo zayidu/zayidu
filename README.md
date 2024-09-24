@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Cool Things You Can Do With Regular HTML](https://dev.to/adarsh-gupta/6-cool-things-you-can-do-with-regular-html-1al0)
-- [🚀 The Ultimate Guide to DOs and DON&#39;Ts for Software Developers 🛠️](https://dev.to/hadil/the-ultimate-guide-to-dos-and-donts-for-software-developers-2o34)
-- [How AI Can Elevate You as a Developer](https://dev.to/saamiabbaskhan/how-ai-can-elevate-you-as-a-developer-27fk)
-- [Programación Orientada a Objetos... sin if&#39;s.](https://dev.to/baltasarq/programacion-orientada-a-objetos-sin-ifs-4ek9)
-- [DP-1 Climbing Stairs](https://dev.to/phoenix_238501d86d417e/dp-1-climbing-stairs-4p5j)
+- [The 3 Mechanisms of Interaction between Microservices: Command, Query, and Event](https://dev.to/raphaeldelio/the-3-mechanisms-of-interaction-between-microservices-command-query-and-event-5029)
+- [🎁Learn Python in 10 Days: Day7](https://dev.to/johnjava/learn-python-in-10-days-day7-2dh6)
+- [Terraform Count Meta-Argument 101](https://dev.to/sre_panchanan/terraform-count-meta-argument-101-5fpj)
+- [LLM-Powered Text Simulation Attack Manipulates ID-Free Recommender Systems](https://dev.to/mikeyoung44/llm-powered-text-simulation-attack-manipulates-id-free-recommender-systems-3ko8)
+- [Cross-Chirality Palmprint Verification: Match Left Palm to Right, Enabling New Real-World Uses for Palmprint Biometrics](https://dev.to/mikeyoung44/cross-chirality-palmprint-verification-match-left-palm-to-right-enabling-new-real-world-uses-for-palmprint-biometrics-30i5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
