@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Podman - Interactive Labs](https://dev.to/vuelancer/podman-interactive-labs-451m)
-- [How to Stay Two Steps Ahead of the AI Curse](https://dev.to/arteex/how-to-stay-two-steps-ahead-of-the-ai-curse-1iop)
-- [How One Code Update ⚡ Supercharged My Python Performance 🚀!](https://dev.to/aws-heroes/how-one-code-update-supercharged-my-python-performance--54in)
-- [How I Built an Open Source App That Went Viral](https://dev.to/afadil/how-i-built-an-open-source-app-that-went-viral-160p)
-- [About Me](https://dev.to/pseudodev/about-me-43n4)
+- [`.git-blame-ignore-revs` to ignore bulk formatting changes.](https://dev.to/thinkthroo/git-blame-ignore-revs-to-ignore-bulk-formatting-changes-5fee)
+- [Handling Images and Fonts in Webpack](https://dev.to/orases1/handling-images-and-fonts-in-webpack-3f2a)
+- [React Native: A Smart Choice for Mobile App Development](https://dev.to/sambulosenda_40/react-native-a-smart-choice-for-mobile-app-development-273n)
+- [Tailwind Padding: A Quick Start](https://dev.to/codeparrot/tailwind-padding-a-quick-start-34n1)
+- [Small Swoole Symfony Http Client 1.0.0](https://dev.to/sebk69/small-swoole-symfony-http-client-100-gbn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
