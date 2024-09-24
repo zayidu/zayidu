@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 3 Mechanisms of Interaction between Microservices: Command, Query, and Event](https://dev.to/raphaeldelio/the-3-mechanisms-of-interaction-between-microservices-command-query-and-event-5029)
-- [🎁Learn Python in 10 Days: Day7](https://dev.to/johnjava/learn-python-in-10-days-day7-2dh6)
-- [Terraform Count Meta-Argument 101](https://dev.to/sre_panchanan/terraform-count-meta-argument-101-5fpj)
-- [LLM-Powered Text Simulation Attack Manipulates ID-Free Recommender Systems](https://dev.to/mikeyoung44/llm-powered-text-simulation-attack-manipulates-id-free-recommender-systems-3ko8)
-- [Cross-Chirality Palmprint Verification: Match Left Palm to Right, Enabling New Real-World Uses for Palmprint Biometrics](https://dev.to/mikeyoung44/cross-chirality-palmprint-verification-match-left-palm-to-right-enabling-new-real-world-uses-for-palmprint-biometrics-30i5)
+- [Considerations around Privacy in RAG-Based Architectures](https://dev.to/hakeem/considerations-around-privacy-in-rag-based-architectures-16gb)
+- [Top 10 Mind-Blowing JavaScript Tricks You’ve Never Seen Before](https://dev.to/agunwachidiebelecalistus/top-10-mind-blowing-javascript-tricks-youve-never-seen-before-1klb)
+- [Developers&#39; Best Practices for API Versioning](https://dev.to/cyanspray/developers-best-practices-for-api-versioning-3pj2)
+- [EchoAPI:lightweight alternative to Postman](https://dev.to/johnjava/echoapilightweight-alternative-to-postman-4nig)
+- [C# Design Pattern: Singleton](https://dev.to/juarezasjunior/c-design-pattern-singleton-22f3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
