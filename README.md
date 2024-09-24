@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hitchhiker&#39;s Guide to the Arch Linux Installation](https://dev.to/jimmymcbride/hitchhikers-guide-to-the-arch-linux-installation-40hd)
-- [Measuring Your Website Performance: A Step-by-Step Guide to Page Load Time Tests](https://dev.to/misterankit/measuring-your-website-performance-a-step-by-step-guide-to-page-load-time-tests-1632)
-- [SCSS: Using Interpolation for Dynamic Styles](https://dev.to/tailwine/scss-using-interpolation-for-dynamic-styles-5ho3)
-- [Speeding Up API Development: Handling High-Load Requests Efficiently with Python](https://dev.to/pawandeore/speeding-up-api-development-handling-high-load-requests-efficiently-with-python-4c0i)
-- [[ONLINE EVENT]: What&#39;s New in Docker?](https://dev.to/ajeetraina/online-event-whats-new-in-docker-3nof)
+- [Building a serverless connected BBQ as SaaS - Part 4 - AuthZ](https://dev.to/aws-heroes/building-a-serverless-connected-bbq-as-saas-part-4-authz-81e)
+- [Dreamforce Recap, All Flow Formulas, Multi-Lang Flow Translation](https://dev.to/sfdcnews/dreamforce-recap-all-flow-formulas-multi-lang-flow-translation-1fj0)
+- [☁️ Edition 89: Dreamforce Recap, All Flow Formulas, Multi-Lang Flow Translation](https://dev.to/sfdcnews/edition-89-dreamforce-recap-all-flow-formulas-multi-lang-flow-translation-2eed)
+- [How to setup os Next.js with Tailwind CSS](https://dev.to/04anilr/how-to-setup-os-nextjs-with-tailwind-css-24on)
+- [File Handling in Java: A Comprehensive Guide](https://dev.to/be11amer/file-handling-in-java-a-comprehensive-guide-3nn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
