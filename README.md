@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [`.git-blame-ignore-revs` to ignore bulk formatting changes.](https://dev.to/thinkthroo/git-blame-ignore-revs-to-ignore-bulk-formatting-changes-5fee)
-- [Handling Images and Fonts in Webpack](https://dev.to/orases1/handling-images-and-fonts-in-webpack-3f2a)
-- [React Native: A Smart Choice for Mobile App Development](https://dev.to/sambulosenda_40/react-native-a-smart-choice-for-mobile-app-development-273n)
-- [Tailwind Padding: A Quick Start](https://dev.to/codeparrot/tailwind-padding-a-quick-start-34n1)
-- [Small Swoole Symfony Http Client 1.0.0](https://dev.to/sebk69/small-swoole-symfony-http-client-100-gbn)
+- [Could AI CEOs Be the Future? Where Does That Leave Us?](https://dev.to/jimmymcbride/could-ai-ceos-be-the-future-where-does-that-leave-us-22ak)
+- [Javascript, the Return](https://dev.to/codecara/javascript-the-return-59e9)
+- [Using Pieces for VS Code as a Cursor Extension](https://dev.to/get_pieces/using-pieces-for-vs-code-as-a-cursor-extension-17b3)
+- [Best Practices for Writing CSS – Clean, Scalable, and Maintainable Code](https://dev.to/ridoy_hasan/best-practices-for-writing-css-clean-scalable-and-maintainable-cod-2ac0)
+- [LabEx Trending: Building a Responsive News Website Homepage and More](https://dev.to/labex/labex-trending-building-a-responsive-news-website-homepage-and-more-2kkg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
