@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Issues in GBase 8c Distributed Scenarios &lpar;1&rpar;](https://dev.to/congcong/common-issues-in-gbase-8c-distributed-scenarios-1-2fh2)
-- [Using Tiptap Rich Text Editor with Livewire](https://dev.to/d3adr1nger/using-tiptap-rich-text-editor-with-livewire-5b46)
-- [Dynamic Slot Names Usage](https://dev.to/dtechmaster/dynamic-slot-names-usage-4p2n)
-- [Criando um Sistema de Envio de Emails com Rails e Sidekiq: Um Guia Prático](https://dev.to/bussularf/criando-um-sistema-de-envio-de-emails-com-rails-e-sidekiq-um-guia-pratico-3450)
-- [Getting to Know Copilot Pages](https://dev.to/jaloplo/getting-to-know-copilot-pages-4ilp)
+- [Handling Large Files and Optimizing File Operations in Python](https://dev.to/devasservice/handling-large-files-and-optimizing-file-operations-in-python-47lm)
+- [Best Fullstory Alternatives for 2024](https://dev.to/zipy/best-fullstory-alternatives-for-2024-ip)
+- [My Advice to Beginner Devs](https://dev.to/wignerhuh_0df9be42b477417/my-advice-to-beginner-devs-3mek)
+- [Digital Twins: Virtual Replicas Transforming Industries with Real-Time Insights](https://dev.to/arbisoftcompany/digital-twins-virtual-replicas-transforming-industries-with-real-time-insights-4m67)
+- [Mastering Error Boundaries in React: How to Catch &amp; Handle Errors Effectively](https://dev.to/hellonehha/mastering-error-boundaries-in-react-how-to-catch-handle-errors-effectively-2e01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
