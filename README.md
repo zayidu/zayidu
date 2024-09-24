@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3eoh)
-- [Atomic Design e Design Tokens: Criando Interfaces Modulares com React e Chakra UI](https://dev.to/devdoido/atomic-design-e-design-tokens-agilizando-o-design-de-produtos-digitais-3967)
-- [Designing Twitter – A System Design Interview Question](https://dev.to/zeeshanali0704/designing-twitter-a-system-design-interview-question-221e)
-- [Streamlining Real Estate: How AI APIs Automate Image Analysis and Property Listings](https://dev.to/api4ai/streamlining-real-estate-how-ai-apis-automate-image-analysis-and-property-listings-3ddf)
-- [ESBench: A modern benchmarking tool](https://dev.to/kaciras/esbench-a-modern-benchmarking-tool-2gg0)
+- [Three New Deals Are Live on DEV++ 🎉](https://dev.to/devteam/three-new-deals-are-live-on-dev-31n6)
+- [Every Cyber Attack and how to prevent from them](https://dev.to/hikolakita/every-cyber-attack-and-how-to-prevent-from-them-dj5)
+- [&quot;Day 28: Back from a Break &amp; JavaScript Workshop at Razorpay!&quot;](https://dev.to/jasman_deep_58679206bad26/day-28-back-from-a-break-javascript-workshop-at-razorpay-3elj)
+- [Figma to React with CodeParrot AI: Build Dashboard in minutes](https://dev.to/codeparrot/figma-to-react-with-codeparrot-ai-build-dashboard-in-minutes-3534)
+- [Algoritmos y control de flujo](https://dev.to/fernandomoyano/-algoritmos-y-control-de-flujo-14dh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
