@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pass manual injector to the toSignal function to avoid outside Context Injection error](https://dev.to/railsstudent/pass-manual-injector-to-the-tosignal-function-to-avoid-outside-context-injection-error-48ff)
-- [How to pick the right encoding for exporting - [Salesforce]](https://dev.to/tulip_pattra/how-to-pick-the-right-encoding-for-exporting-salesforce-306l)
-- [Creating a ReAct Agent from the scratch with nodeJS &lpar; wikipedia search &rpar;](https://dev.to/muraraallan/creating-a-react-agent-from-the-scratch-with-nodejs-wikipedia-search--584e)
-- [Building the Neo4j Matrix: Spring Boot, Reactive APIs, and Graph Databases](https://dev.to/polyglot-chameleon/building-the-neo4j-matrix-spring-boot-reactive-apis-and-graph-databases-dmf)
-- [I finally understand OAuth 🤯🤯🤯](https://dev.to/fomalhautb/i-finally-understand-oauth-2ldf)
+- [Getting members based on a specified condition #47](https://dev.to/esproc_spl/getting-members-based-on-a-specified-condition-47-1n3e)
+- [Integrating REST APIs in React: A Comprehensive Guide](https://dev.to/vyan/integrating-rest-apis-in-react-a-comprehensive-guide-4lj8)
+- [rails system test, save failed screenshots](https://dev.to/ugifractal/rails-system-test-save-failed-screenshots-1c0m)
+- [I made my first front-end project](https://dev.to/gavin_griggs_ab03b19c7d33/i-made-my-first-front-end-project-14pe)
+- [Docker: Parte 2 - Criação de Imagens e Execução de Containers](https://dev.to/felipeboliveira/docker-parte-2-criacao-de-imagens-e-execucao-de-containers-3mb3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
