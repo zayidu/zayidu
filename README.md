@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting members based on a specified condition #47](https://dev.to/esproc_spl/getting-members-based-on-a-specified-condition-47-1n3e)
-- [Integrating REST APIs in React: A Comprehensive Guide](https://dev.to/vyan/integrating-rest-apis-in-react-a-comprehensive-guide-4lj8)
-- [rails system test, save failed screenshots](https://dev.to/ugifractal/rails-system-test-save-failed-screenshots-1c0m)
-- [I made my first front-end project](https://dev.to/gavin_griggs_ab03b19c7d33/i-made-my-first-front-end-project-14pe)
-- [Docker: Parte 2 - Criação de Imagens e Execução de Containers](https://dev.to/felipeboliveira/docker-parte-2-criacao-de-imagens-e-execucao-de-containers-3mb3)
+- [5 Reasons why I Started My YouTube Channel and Blog](https://dev.to/lakshmananarumugam/5-reasons-why-i-started-my-youtube-channel-and-blog-80p)
+- [SSR and CSR Explained](https://dev.to/sushant696/ssr-and-csr-explained-3p6m)
+- [Troubleshooting Automatic Scrolling to Cal.com Inline Embed on Page Load](https://dev.to/mohymenul/troubleshooting-automatic-scrolling-to-calcom-inline-embed-on-page-load-28g3)
+- [Let’s talk about some cool Azure AI Speech SDK/API Endpoint](https://dev.to/femolacaster/lets-talk-about-some-cool-azure-ai-speech-sdkapi-endpoint-417g)
+- [#63 — Search for The Nth Value And The Nth Value from Last](https://dev.to/judith677/63-search-for-the-nth-value-and-the-nth-value-from-last-3ejl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
