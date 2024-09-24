@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Considerations around Privacy in RAG-Based Architectures](https://dev.to/hakeem/considerations-around-privacy-in-rag-based-architectures-16gb)
-- [Top 10 Mind-Blowing JavaScript Tricks You’ve Never Seen Before](https://dev.to/agunwachidiebelecalistus/top-10-mind-blowing-javascript-tricks-youve-never-seen-before-1klb)
-- [Developers&#39; Best Practices for API Versioning](https://dev.to/cyanspray/developers-best-practices-for-api-versioning-3pj2)
-- [EchoAPI:lightweight alternative to Postman](https://dev.to/johnjava/echoapilightweight-alternative-to-postman-4nig)
-- [C# Design Pattern: Singleton](https://dev.to/juarezasjunior/c-design-pattern-singleton-22f3)
+- [AI Runner v3.0.0.dev18](https://dev.to/w4ffl35/ai-runner-v300dev18-2ahg)
+- [Create a Stunning Profile README](https://dev.to/vuelancer/create-a-stunning-profile-readme-5fi2)
+- [Optimizing Spring Boot Applications with Redis Caching](https://dev.to/tharindufdo/optimizing-spring-boot-applications-with-redis-caching-37i5)
+- [Mastering C# Fundamentals: Implicit Typing](https://dev.to/moh_moh701/mastering-c-fundamentals-implicit-typing-5edp)
+- [What Are Design Tokens and Why Should We Use Them?](https://dev.to/aepasahan/what-are-design-tokens-and-why-should-we-use-them-1pj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
