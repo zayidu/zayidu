@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From RAGs to Riches: An In-Depth Look at Retrieval-Augmented Generation](https://dev.to/luminousmen/from-rags-to-riches-an-in-depth-look-at-retrieval-augmented-generation-1dok)
-- [Mastering C# Fundamentals: Boolean Values and Operators](https://dev.to/moh_moh701/mastering-c-fundamentals-boolean-values-and-operators-fok)
-- [Building Standalone Executables With Node.js](https://dev.to/subfuzion/building-standalone-executables-with-nodejs-29l1)
-- [From Remote to Local: Git Clone](https://dev.to/farhatsharifh/from-remote-to-local-git-clone-9no)
-- [WordPress Headless + CPT + ACF: Building a Flexible Content Platform](https://dev.to/mfyz/wordpress-headless-cpt-acf-building-a-flexible-content-platform-13oc)
+- [Starting My 100 Days of Code Journey with Python!](https://dev.to/vijayadeep_purushan/starting-my-100-days-of-code-journey-with-python-11cf)
+- [How to use Free dictionary API](https://dev.to/trushmi/how-to-use-free-dictionary-api-gec)
+- [Intro to Ollama: Insights and Reflections](https://dev.to/busycaesar/intro-to-ollama-insights-and-reflections-fg1)
+- [Building a Password Manager in Go: Part 2](https://dev.to/svemaraju/building-a-password-manager-in-go-part-2-5adf)
+- [linalg.vector_norm&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/linalgvectornorm-in-pytorch-15i2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
