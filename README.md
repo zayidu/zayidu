@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Runner v3.0.0.dev18](https://dev.to/w4ffl35/ai-runner-v300dev18-2ahg)
-- [Create a Stunning Profile README](https://dev.to/vuelancer/create-a-stunning-profile-readme-5fi2)
-- [Optimizing Spring Boot Applications with Redis Caching](https://dev.to/tharindufdo/optimizing-spring-boot-applications-with-redis-caching-37i5)
-- [Mastering C# Fundamentals: Implicit Typing](https://dev.to/moh_moh701/mastering-c-fundamentals-implicit-typing-5edp)
-- [What Are Design Tokens and Why Should We Use Them?](https://dev.to/aepasahan/what-are-design-tokens-and-why-should-we-use-them-1pj2)
+- [Kubernetes Horizontal Pod Autoscaling](https://dev.to/chauhoangminhnguyen/kubernetes-horizontal-pod-autoscaling-35io)
+- [14 Best UXCam Alternatives and Competitors in 2024](https://dev.to/zipy/14-best-uxcam-alternatives-and-competitors-in-2024-518g)
+- [Trying Elysia JS: How I Built an App for Meaningful and Memorable Conversations](https://dev.to/gaundergod/trying-elysia-js-how-i-built-an-app-for-meaningful-and-memorable-conversations-154)
+- [Zipy vs Posthog: An in-depth comparison for 2024](https://dev.to/zipy/zipy-vs-posthog-an-in-depth-comparison-for-2024-2hal)
+- [Style guide to write git history](https://dev.to/this-is-learning/style-guide-to-write-git-history-4fok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
