@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Starting My 100 Days of Code Journey with Python!](https://dev.to/vijayadeep_purushan/starting-my-100-days-of-code-journey-with-python-11cf)
-- [How to use Free dictionary API](https://dev.to/trushmi/how-to-use-free-dictionary-api-gec)
-- [Intro to Ollama: Insights and Reflections](https://dev.to/busycaesar/intro-to-ollama-insights-and-reflections-fg1)
-- [Building a Password Manager in Go: Part 2](https://dev.to/svemaraju/building-a-password-manager-in-go-part-2-5adf)
-- [linalg.vector_norm&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/linalgvectornorm-in-pytorch-15i2)
+- [5 Best Ways to Write Clean JavaScript Code](https://dev.to/safdarali/5-best-ways-to-write-clean-javascript-code-48i1)
+- [Sept 24 - Getting Started with the Open Source FiftyOne Computer Vision Toolset](https://dev.to/voxel51/unpublished-video-34k4-281l)
+- [Deploy Express JS container image on Lambda AWS](https://dev.to/janithdisanayake/deploy-express-js-container-image-on-lambda-aws-3ecp)
+- [Providing Private Storage for Internal Company Documents using Microsoft Azure](https://dev.to/onyemachi_doris/providing-private-storage-for-internal-company-documents-using-microsoft-azure-3meb)
+- [How to Check PowerShell Version in Windows 10/11?](https://dev.to/harshh/how-to-check-powershell-version-in-windows-1011-30m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
