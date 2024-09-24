@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Could AI CEOs Be the Future? Where Does That Leave Us?](https://dev.to/jimmymcbride/could-ai-ceos-be-the-future-where-does-that-leave-us-22ak)
-- [Javascript, the Return](https://dev.to/codecara/javascript-the-return-59e9)
-- [Using Pieces for VS Code as a Cursor Extension](https://dev.to/get_pieces/using-pieces-for-vs-code-as-a-cursor-extension-17b3)
-- [Best Practices for Writing CSS – Clean, Scalable, and Maintainable Code](https://dev.to/ridoy_hasan/best-practices-for-writing-css-clean-scalable-and-maintainable-cod-2ac0)
-- [LabEx Trending: Building a Responsive News Website Homepage and More](https://dev.to/labex/labex-trending-building-a-responsive-news-website-homepage-and-more-2kkg)
+- [From RAGs to Riches: An In-Depth Look at Retrieval-Augmented Generation](https://dev.to/luminousmen/from-rags-to-riches-an-in-depth-look-at-retrieval-augmented-generation-1dok)
+- [Mastering C# Fundamentals: Boolean Values and Operators](https://dev.to/moh_moh701/mastering-c-fundamentals-boolean-values-and-operators-fok)
+- [Building Standalone Executables With Node.js](https://dev.to/subfuzion/building-standalone-executables-with-nodejs-29l1)
+- [From Remote to Local: Git Clone](https://dev.to/farhatsharifh/from-remote-to-local-git-clone-9no)
+- [WordPress Headless + CPT + ACF: Building a Flexible Content Platform](https://dev.to/mfyz/wordpress-headless-cpt-acf-building-a-flexible-content-platform-13oc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
