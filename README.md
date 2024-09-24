@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;I HATE QA&quot; - A Perspective from a Senior QA Engineer](https://dev.to/enriqu3l/i-hate-qa-a-perspective-from-a-senior-qa-engineer-46if)
-- [Unit testing in Python with sheepy](https://dev.to/brunociccarino/unit-testing-in-python-with-sheepy-b93)
-- [Show Angular Material Dialog to Prevent Unsaved Form Changes](https://dev.to/ngmaterialdev/show-angular-material-dialog-to-prevent-unsaved-form-changes-38dj)
-- [Streamlit Part 3: Mastering Input Widgets](https://dev.to/jamesbmour/streamlit-part-3-mastering-input-widgets-114l)
-- [Top 10 Video Conferencing APIs &amp; SDKs in 2024.](https://dev.to/stephen568hub/top-10-video-conferencing-apis-sdks-in-2024-1g1h)
+- [Podman - Interactive Labs](https://dev.to/vuelancer/podman-interactive-labs-451m)
+- [How to Stay Two Steps Ahead of the AI Curse](https://dev.to/arteex/how-to-stay-two-steps-ahead-of-the-ai-curse-1iop)
+- [How One Code Update ⚡ Supercharged My Python Performance 🚀!](https://dev.to/aws-heroes/how-one-code-update-supercharged-my-python-performance--54in)
+- [How I Built an Open Source App That Went Viral](https://dev.to/afadil/how-i-built-an-open-source-app-that-went-viral-160p)
+- [About Me](https://dev.to/pseudodev/about-me-43n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
