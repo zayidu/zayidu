@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a serverless connected BBQ as SaaS - Part 4 - AuthZ](https://dev.to/aws-heroes/building-a-serverless-connected-bbq-as-saas-part-4-authz-81e)
-- [Dreamforce Recap, All Flow Formulas, Multi-Lang Flow Translation](https://dev.to/sfdcnews/dreamforce-recap-all-flow-formulas-multi-lang-flow-translation-1fj0)
-- [☁️ Edition 89: Dreamforce Recap, All Flow Formulas, Multi-Lang Flow Translation](https://dev.to/sfdcnews/edition-89-dreamforce-recap-all-flow-formulas-multi-lang-flow-translation-2eed)
-- [How to setup os Next.js with Tailwind CSS](https://dev.to/04anilr/how-to-setup-os-nextjs-with-tailwind-css-24on)
-- [File Handling in Java: A Comprehensive Guide](https://dev.to/be11amer/file-handling-in-java-a-comprehensive-guide-3nn2)
+- [Common Issues in GBase 8c Distributed Scenarios &lpar;1&rpar;](https://dev.to/congcong/common-issues-in-gbase-8c-distributed-scenarios-1-2fh2)
+- [Using Tiptap Rich Text Editor with Livewire](https://dev.to/d3adr1nger/using-tiptap-rich-text-editor-with-livewire-5b46)
+- [Dynamic Slot Names Usage](https://dev.to/dtechmaster/dynamic-slot-names-usage-4p2n)
+- [Criando um Sistema de Envio de Emails com Rails e Sidekiq: Um Guia Prático](https://dev.to/bussularf/criando-um-sistema-de-envio-de-emails-com-rails-e-sidekiq-um-guia-pratico-3450)
+- [Getting to Know Copilot Pages](https://dev.to/jaloplo/getting-to-know-copilot-pages-4ilp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
