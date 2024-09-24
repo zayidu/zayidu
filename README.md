@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React: State X Derived State](https://dev.to/noriller/react-state-x-derived-state-2d2a)
-- [Make your web page faster](https://dev.to/delaterra/make-your-web-page-faster-1bk8)
-- [Netflix Clone to Level Up Your Frontend Skills](https://dev.to/tramposo/netflix-clone-to-level-up-your-frontend-skills-1ghp)
-- [A beautiful mess &lpar;v2b&rpar;](https://dev.to/mhjwbymhmd/a-beautiful-mess-v2b-52a)
-- [Top DevOps Tools for Startups in 2024: From Jenkins to Terraform](https://dev.to/arbythecoder/top-devops-tools-for-startups-in-2024-from-jenkins-to-terraform-2j24)
+- [Server-Side Rendering &lpar;SSR&rpar;: Uma Solução para SEO e Performance em Aplicações React](https://dev.to/sabrinabarros/server-side-rendering-ssr-uma-solucao-para-seo-e-performance-em-aplicacoes-react-1ap1)
+- [How to Use JavaScript&#39;s structuredClone&lpar;&rpar; for Deep Object Cloning](https://dev.to/devyoma/how-to-use-javascripts-structuredclone-for-deep-object-cloning-194h)
+- [LabEx Trending: Calculating Laser Weapon Damage and More](https://dev.to/labex/labex-trending-calculating-laser-weapon-damage-and-more-1oad)
+- [Mastering Unit Testing for Java: The &#39;Student Class Test&#39; Project](https://dev.to/labex/mastering-unit-testing-for-java-the-student-class-test-project-526i)
+- [Automating Deployments with GitHub Actions and Azure App Service](https://dev.to/fabrcio_marcondessantos/automating-deployments-with-github-actions-and-azure-app-service-23e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
