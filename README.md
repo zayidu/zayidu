@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v295](https://dev.to/devteam/welcome-thread-v295-162b)
-- [10,000 Times Cleaner Code Just By Using This Tool.](https://dev.to/ayushniroula/10000-times-cleaner-code-just-by-using-this-tool-19po)
-- [Error yang sering di jumpai ketika Setup NodeJS App pada cPanel.](https://dev.to/sumberweb/error-yang-sering-di-jumpai-ketika-setup-nodejs-app-pada-cpanel-27g6)
-- [Error yang sering di jumpai ketika Setup NodeJS App pada cPanel.](https://dev.to/sumberweb/error-yang-sering-di-jumpai-ketika-setup-nodejs-app-pada-cpanel-4227)
-- [Sitecore Experience Editor Tip to show instructions to Content Authors](https://dev.to/esdanielgomez/sitecore-experience-editor-tip-to-show-instructions-to-content-authors-k63)
+- [Linux, I Choose You! 🐧](https://dev.to/jimmymcbride/linux-i-choose-you-5ebe)
+- [WebGL&#39;s Animation loop, gaming on browsers - One Byte Explainer](https://dev.to/aortega/webgls-animation-loop-gaming-on-browsers-one-byte-explainer-4o1h)
+- [What is Deno JS?](https://dev.to/tanmayp9/what-is-deno-js-294n)
+- [Best Practices for React Js and Next Js Development](https://dev.to/shahharsh/best-practices-for-react-js-and-next-js-development-29eo)
+- [AmrKhalil97/CashApp-UI-clone-flutter-application](https://dev.to/ayuba_yahaya_c87f2bda3d4d/amrkhalil97cashapp-ui-clone-flutter-application-4b9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
