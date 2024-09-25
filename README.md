@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux, I Choose You! 🐧](https://dev.to/jimmymcbride/linux-i-choose-you-5ebe)
-- [WebGL&#39;s Animation loop, gaming on browsers - One Byte Explainer](https://dev.to/aortega/webgls-animation-loop-gaming-on-browsers-one-byte-explainer-4o1h)
-- [What is Deno JS?](https://dev.to/tanmayp9/what-is-deno-js-294n)
-- [Best Practices for React Js and Next Js Development](https://dev.to/shahharsh/best-practices-for-react-js-and-next-js-development-29eo)
-- [AmrKhalil97/CashApp-UI-clone-flutter-application](https://dev.to/ayuba_yahaya_c87f2bda3d4d/amrkhalil97cashapp-ui-clone-flutter-application-4b9)
+- [Multi-condition filtering #eg48](https://dev.to/esproc_spl/multi-condition-filtering-eg48-1g20)
+- [RPC vs REST: A Comprehensive Comparison](https://dev.to/zeeshanali0704/rpc-vs-rest-a-comprehensive-comparison-2e47)
+- [IP Address Information: Essential Knowledge for Developers Regarding Website IP Data and Its Applications](https://dev.to/johnmiller/ip-address-information-essential-knowledge-for-developers-regarding-website-ip-data-and-its-applications-1h6i)
+- [Crafting the Perfect API: A Developer&#39;s Guide to Success](https://dev.to/patoliyainfotech/crafting-the-perfect-api-a-developers-guide-to-success-22bp)
+- [How to Build and Configure a Release Pipeline in Azure DevOps](https://dev.to/s3cloudhub/how-to-build-and-configure-a-release-pipeline-in-azure-devops-lf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
