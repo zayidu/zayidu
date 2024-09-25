@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Developer&#39;s Journey: From Challenges to Confidence](https://dev.to/creowistech/mastering-the-developers-journey-from-challenges-to-confidence-5ffl)
-- [Why does SQLynx perform so well](https://dev.to/urlewicz_aicha_d14af69bc8/why-does-sqlynx-perform-so-well-3j8j)
-- [#64 — Search for Top N Values And Last N Values](https://dev.to/judith677/64-search-for-top-n-values-and-last-n-values-1286)
-- [Avoiding Unnecessary Re-renders in React](https://dev.to/vyan/avoiding-unnecessary-re-renders-in-react-172k)
-- [GraphQL vs REST: Implementing GraphQL in a MERN Application 🚀](https://dev.to/info_generalhazedawn_a3d/graphql-vs-rest-implementing-graphql-in-a-mern-application-5888)
+- [Welcome Thread - v295](https://dev.to/devteam/welcome-thread-v295-162b)
+- [10,000 Times Cleaner Code Just By Using This Tool.](https://dev.to/ayushniroula/10000-times-cleaner-code-just-by-using-this-tool-19po)
+- [Error yang sering di jumpai ketika Setup NodeJS App pada cPanel.](https://dev.to/sumberweb/error-yang-sering-di-jumpai-ketika-setup-nodejs-app-pada-cpanel-27g6)
+- [Error yang sering di jumpai ketika Setup NodeJS App pada cPanel.](https://dev.to/sumberweb/error-yang-sering-di-jumpai-ketika-setup-nodejs-app-pada-cpanel-4227)
+- [Sitecore Experience Editor Tip to show instructions to Content Authors](https://dev.to/esdanielgomez/sitecore-experience-editor-tip-to-show-instructions-to-content-authors-k63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
