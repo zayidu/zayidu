@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [End-to-End AWS DevOps Project: CI/CD Pipeline for ECS Fargate with ECR and RDS](https://dev.to/prodevopsguytech/end-to-end-aws-devops-project-cicd-pipeline-for-ecs-fargate-with-ecr-and-rds-2b07)
-- [Easiest Way to Build a RAG AI Agent Application](https://dev.to/mahamdev/easiest-way-to-build-a-rag-ai-agent-application-4k04)
-- [Window functions](https://dev.to/mrcaption49/window-functions-5d8h)
-- [Amazon S3 is started beginning to apply a default minimum object size of 128 KB for S3 Lifecycle transition](https://dev.to/karthiksakthiveltechie/amazon-s3-is-started-beginning-to-apply-a-default-minimum-object-size-of-128-kb-for-s3-lifecycle-transition-5b3c)
-- [Midweek Fun Activity On Alx](https://dev.to/e-tech/midweek-fun-activity-on-alx-535g)
+- [Mastering Flutter: Your Ultimate Guide to Building Stunning Cross-Platform Apps](https://dev.to/itechburner/mastering-flutter-your-ultimate-guide-to-building-stunning-cross-platform-apps-i4k)
+- [Divide two integers without using division or multiplication operators](https://dev.to/prashantrmishra/divide-two-integers-without-using-division-or-multiplication-operators-2bne)
+- [Building Menuland.ph: A Delicious Journey in Web Development 🍕](https://dev.to/saqib_syed_68931758105445/building-menulandph-a-delicious-journey-in-web-development-2b3m)
+- [Extending NUC with External U.2 SSD](https://dev.to/splix/extending-nuc-with-external-u2-ssd-2e63)
+- [Mastering C# Fundamentals: `switch` Statement](https://dev.to/moh_moh701/mastering-c-fundamentals-switch-statement-3jk4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
