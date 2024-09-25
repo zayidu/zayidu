@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best API Management Tools for Enterprises](https://dev.to/apilover/10-best-api-management-tools-for-enterprises-4ai0)
-- [How to create a table with SQL code?](https://dev.to/chat2db/how-to-create-a-table-with-sql-code-pp0)
-- [Run Ansible on Windows without WSL](https://dev.to/hedgehog/run-ansible-on-windows-without-wsl-5hd3)
-- [How to Implement Search Functionality Using api calls in flutter flow](https://dev.to/amir_muse_1246a7b1549c3b3/how-to-implement-search-functionality-using-api-calls-in-flutter-flow-5d87)
-- [ChatGPT Clone: Revolutionizing AI Conversations with Customized Solutions](https://dev.to/elisaray/chatgpt-clone-revolutionizing-ai-conversations-with-customized-solutions-ndk)
+- [AI-assisted software development lifecycle](https://dev.to/aws/ai-assisted-software-development-lifecycle-289k)
+- [My first CLI with Go](https://dev.to/tuhinbar/my-first-cli-with-go-4eig)
+- [Unraveling the Mysteries of Programming Languages: A Comprehensive Journey](https://dev.to/getvm/unraveling-the-mysteries-of-programming-languages-a-comprehensive-journey-59h6)
+- [How Really File Compressors Actually Works](https://dev.to/something_something_64b2a/how-really-file-compressors-actually-works-ljo)
+- [Show us your open-source project!](https://dev.to/litlyx/show-us-your-open-source-project-32o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
