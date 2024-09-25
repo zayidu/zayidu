@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tree &lpar; DSA - 8 &rpar;](https://dev.to/madgan95/tree-dsa-8--3bnh)
-- [Finding Product Market Fit &lpar;feat. Daniel Mawdsley&rpar;](https://dev.to/vpalania/finding-product-market-fit-feat-daniel-mawdsley-20p9)
-- [Don&#39;t Trip! Mastering the Circuit Breaker Pattern in Distributed Systems](https://dev.to/systemsage/dont-trip-mastering-the-circuit-breaker-pattern-in-distributed-systems-15lf)
-- [GBase 8a MPP Cluster Performance Tuning: GNode Parameter Optimization](https://dev.to/congcong/gbase-8a-mpp-cluster-performance-tuning-gnode-parameter-optimization-27gm)
-- [🚀 100% Free APIs Every Developer Should Know in 2024](https://dev.to/hanzla-mirza/100-free-apis-every-developer-should-know-in-2024-1bdk)
+- [Mastering the Developer&#39;s Journey: From Challenges to Confidence](https://dev.to/creowistech/mastering-the-developers-journey-from-challenges-to-confidence-5ffl)
+- [Why does SQLynx perform so well](https://dev.to/urlewicz_aicha_d14af69bc8/why-does-sqlynx-perform-so-well-3j8j)
+- [#64 — Search for Top N Values And Last N Values](https://dev.to/judith677/64-search-for-top-n-values-and-last-n-values-1286)
+- [Avoiding Unnecessary Re-renders in React](https://dev.to/vyan/avoiding-unnecessary-re-renders-in-react-172k)
+- [GraphQL vs REST: Implementing GraphQL in a MERN Application 🚀](https://dev.to/info_generalhazedawn_a3d/graphql-vs-rest-implementing-graphql-in-a-mern-application-5888)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
