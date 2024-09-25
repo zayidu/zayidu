@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript Equality: A Deep Dive into Array and Object Comparisons](https://dev.to/kiran_kumar/understanding-javascript-equality-a-deep-dive-into-array-and-object-comparisons-37j3)
-- [Why composer is necessary for Drupal installations or upgrades?](https://dev.to/drupal-developer-dewan/why-composer-is-necessary-for-drupal-installations-or-upgrades-hnk)
-- [Streamlining Processes with Salesforce Data Cloud Triggered Flows](https://dev.to/itechcloud_solution_01/streamlining-processes-with-salesforce-data-cloud-triggered-flows-328m)
-- [CSS content-visibility for React devs](https://dev.to/sebastienlorber/css-content-visibility-for-react-devs-4a3i)
-- [An Introduction to Salesforce Data Cloud: Key Concepts](https://dev.to/itechcloud_solution_01/an-introduction-to-salesforce-data-cloud-key-concepts-58a6)
+- [Why You Need &lpar;More Than&rpar; Locks: Ensuring Consistency with Transactions in Your No-Code Applications](https://dev.to/momen_hq/why-you-need-more-than-locks-ensuring-consistency-with-transactions-in-your-no-code-applications-kkj)
+- [select&lpar;&rpar; in PyTorch](https://dev.to/hyperkai/select-in-pytorch-35m6)
+- [MVP Development Process for BioCommunicator: AI-Powered Communication with Nature 🌱](https://dev.to/tomboyle/mvp-development-process-for-biocommunicator-ai-powered-communication-with-nature-5f2l)
+- [2.7 Creating a Serious Svelte Information System &lpar;d&rpar;: Client/Server version](https://dev.to/mjoycemilburn/mjoycemilburnngatesystems-post-series-v2-2p7-2po3)
+- [Data Cloud in Sandbox: A First Look at the Beta Version](https://dev.to/itechcloud_solution_01/data-cloud-in-sandbox-a-first-look-at-the-beta-version-42ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
