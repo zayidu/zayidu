@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Coding Challenges for Beginners Starting a Developer Career](https://dev.to/get_pieces/top-5-coding-challenges-for-beginners-starting-a-developer-career-e87)
-- [Merge Conflicts and Three-Way Merges](https://dev.to/kannav02/merge-conflicts-and-three-way-merges-3365)
-- [Kubernetes Resource Usage Monitoring](https://dev.to/labex/kubernetes-resource-usage-monitoring-3ibd)
-- [Bridging Clouds: A Comprehensive Guide to Connecting AWS Glue Tables with Snowflake](https://dev.to/jverhoeks/bridging-clouds-a-comprehensive-guide-to-connecting-aws-glue-tables-with-snowflake-43n2)
-- [Minimum distance in an Array](https://dev.to/phoenix_238501d86d417e/minimum-distance-in-an-array-m5)
+- [What is Load Balancing ?](https://dev.to/yashrajxdev/what-is-load-balancing--1hp4)
+- [Exploring the Advantages of Gear&#39;s Actor Model in Vara Network](https://dev.to/srobver/exploring-the-advantages-of-gears-actor-model-in-vara-network-444f)
+- [Building Multi-Tenant Applications with Strapi and Docker Introduction](https://dev.to/mark_mwendia_0298dd9c0aad/building-multi-tenant-applications-with-strapi-and-docker-introduction-19ji)
+- [Optimizing CI/CD Pipelines for Kubernetes Deployments with ArgoCD](https://dev.to/mark_mwendia_0298dd9c0aad/optimizing-cicd-pipelines-for-kubernetes-deployments-with-argocd-2gd2)
+- [Implementing Machine Learning APIs with Python and FastAPI](https://dev.to/mark_mwendia_0298dd9c0aad/implementing-machine-learning-apis-with-python-and-fastapi-3c5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
