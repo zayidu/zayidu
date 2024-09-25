@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Best Ways to Write Clean JavaScript Code](https://dev.to/safdarali/5-best-ways-to-write-clean-javascript-code-48i1)
-- [Sept 24 - Getting Started with the Open Source FiftyOne Computer Vision Toolset](https://dev.to/voxel51/unpublished-video-34k4-281l)
-- [Deploy Express JS container image on Lambda AWS](https://dev.to/janithdisanayake/deploy-express-js-container-image-on-lambda-aws-3ecp)
-- [Providing Private Storage for Internal Company Documents using Microsoft Azure](https://dev.to/onyemachi_doris/providing-private-storage-for-internal-company-documents-using-microsoft-azure-3meb)
-- [How to Check PowerShell Version in Windows 10/11?](https://dev.to/harshh/how-to-check-powershell-version-in-windows-1011-30m4)
+- [Challenges of Code Review: How to Be Efficient and Constructive](https://dev.to/bfontes/challenges-of-code-review-how-to-be-efficient-and-constructive-3phj)
+- [Exploring TypeScript&#39;s Utility Types](https://dev.to/kartikmehta8/exploring-typescripts-utility-types-1jc6)
+- [Frame rate &lpar;FPS&rpar;](https://dev.to/aj1904/frame-rate-fps-29jc)
+- [Code Smell 271 - The Hollywood Principle](https://dev.to/mcsee/code-smell-271-the-hollywood-principle-3hh7)
+- [Setting Up a Multi-Tier Web Application Locally: A DevOps Guide](https://dev.to/purveshshende2/setting-up-a-multi-tier-web-application-locally-a-devops-guide-78o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
