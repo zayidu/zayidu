@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make DELETE Requests Using the curl_init&lpar;&rpar; Function in PHP](https://dev.to/therealmrmumba/how-to-make-delete-requests-using-the-curlinit-function-in-php-mpg)
-- [Automating My Job Application Process: A Frustrated Developer’s Journey](https://dev.to/torrezmn/automating-my-job-application-process-a-frustrated-developers-journey-gmc)
-- [Macbook or Windows Laptop?](https://dev.to/jenueldev/macbook-or-windows-laptop-2jom)
-- [Sending email using SMTP via Gmail with OpenSSL](https://dev.to/rinsama77/sending-email-using-smtp-via-gmail-with-openssl-4b9l)
-- [Waymap v1.0.7 - Web Vulnerability Scanner](https://dev.to/trixsec/waymap-v107-web-vulnerability-scanner-1omo)
+- [End-to-End AWS DevOps Project: CI/CD Pipeline for ECS Fargate with ECR and RDS](https://dev.to/prodevopsguytech/end-to-end-aws-devops-project-cicd-pipeline-for-ecs-fargate-with-ecr-and-rds-2b07)
+- [Easiest Way to Build a RAG AI Agent Application](https://dev.to/mahamdev/easiest-way-to-build-a-rag-ai-agent-application-4k04)
+- [Window functions](https://dev.to/mrcaption49/window-functions-5d8h)
+- [Amazon S3 is started beginning to apply a default minimum object size of 128 KB for S3 Lifecycle transition](https://dev.to/karthiksakthiveltechie/amazon-s3-is-started-beginning-to-apply-a-default-minimum-object-size-of-128-kb-for-s3-lifecycle-transition-5b3c)
+- [Midweek Fun Activity On Alx](https://dev.to/e-tech/midweek-fun-activity-on-alx-535g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
