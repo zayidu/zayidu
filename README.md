@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Diving Deep: The Hidden Mechanics of SQL JOINs](https://dev.to/alaev_kostantin/diving-deep-the-hidden-mechanics-of-sql-joins-2b2f)
+- [Elements and Attributes: Understanding HTML elements and their attributes](https://dev.to/shieldstring/elements-and-attributes-understanding-html-elements-and-their-attributes-36g)
 - [What is Load Balancing ?](https://dev.to/yashrajxdev/what-is-load-balancing--1hp4)
 - [Exploring the Advantages of Gear&#39;s Actor Model in Vara Network](https://dev.to/srobver/exploring-the-advantages-of-gears-actor-model-in-vara-network-444f)
 - [Building Multi-Tenant Applications with Strapi and Docker Introduction](https://dev.to/mark_mwendia_0298dd9c0aad/building-multi-tenant-applications-with-strapi-and-docker-introduction-19ji)
-- [Optimizing CI/CD Pipelines for Kubernetes Deployments with ArgoCD](https://dev.to/mark_mwendia_0298dd9c0aad/optimizing-cicd-pipelines-for-kubernetes-deployments-with-argocd-2gd2)
-- [Implementing Machine Learning APIs with Python and FastAPI](https://dev.to/mark_mwendia_0298dd9c0aad/implementing-machine-learning-apis-with-python-and-fastapi-3c5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
