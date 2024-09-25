@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You Gonna LOVE these CLI Shortcuts for GIT, Linux, Docker, Kubernetes...](https://dev.to/mammadyahyayev/you-gonna-love-these-cli-shortcuts-for-git-linux-docker-kubernetes-154m)
-- [Guide: How to add Write Back capabilities to your Power BI reports with Power Apps — Part 3](https://dev.to/jonvoge/guide-how-to-add-write-back-capabilities-to-your-power-bi-reports-with-power-apps-part-3-kak)
-- [Acne on the Penis: Causes Factors](https://dev.to/emily_post_af382b143795eb/acne-on-the-penis-causes-factors-4d7g)
-- [LabEx Trending: Image Viewer Using Python and Tkinter and More](https://dev.to/labex/labex-trending-image-viewer-using-python-and-tkinter-and-more-3bnd)
-- [DevOps Architect: The Backbone of Modern Software Development](https://dev.to/devops_den/devops-architect-the-backbone-of-modern-software-development-4b19)
+- [Comparing Laravel and Symfony: Choosing the Right PHP Framework for Your Project](https://dev.to/westtan/comparing-laravel-and-symfony-choosing-the-right-php-framework-for-your-project-aj)
+- [Conditionals 101: The building blocks of adaptive programs](https://dev.to/fahimulhaq/conditionals-101-the-building-blocks-of-adaptive-programs-28kb)
+- [A Guide to Date and Time in Javascript](https://dev.to/okoth/a-guide-to-date-and-time-in-javascript-5bp1)
+- [Building an Orders Processing Service with ChatGPT &lpar;contribute 70–80% efforts&rpar; and Finished in 2 Days](https://dev.to/jackynote/building-an-orders-processing-service-with-chatgpt-contribute-70-80-efforts-and-finished-in-2-days-3klf)
+- [📧 AWS Simple Email Service &lpar;SES&rpar;](https://dev.to/softden_2005/aws-simple-email-service-ses-1pjb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
