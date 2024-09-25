@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3 ways to use environment Variables in Rust](https://dev.to/francescoxx/3-ways-to-use-environment-variables-in-rust-4eaf)
-- [Custom Text Font Usage in Nuxt.js with Tailwind CSS](https://dev.to/elifnurturk/custom-text-font-usage-in-nuxtjs-with-tailwind-css-j49)
-- [LinkedIn Referral Request Message.](https://dev.to/mrcaption49/linkedin-referral-request-message-1hga)
-- [Análisis Exploratorio de datos &lpar;EDA&rpar; con Apache Spark](https://dev.to/madriz03/analisis-exploratorio-de-datos-eda-con-apache-spark-2ea5)
-- [iSAQB certifications are worthless... Or, are they?](https://dev.to/tectrain_academy/isaqb-certifications-are-worthless-or-are-they-pk4)
+- [How to Make DELETE Requests Using the curl_init&lpar;&rpar; Function in PHP](https://dev.to/therealmrmumba/how-to-make-delete-requests-using-the-curlinit-function-in-php-mpg)
+- [Automating My Job Application Process: A Frustrated Developer’s Journey](https://dev.to/torrezmn/automating-my-job-application-process-a-frustrated-developers-journey-gmc)
+- [Macbook or Windows Laptop?](https://dev.to/jenueldev/macbook-or-windows-laptop-2jom)
+- [Sending email using SMTP via Gmail with OpenSSL](https://dev.to/rinsama77/sending-email-using-smtp-via-gmail-with-openssl-4b9l)
+- [Waymap v1.0.7 - Web Vulnerability Scanner](https://dev.to/trixsec/waymap-v107-web-vulnerability-scanner-1omo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
