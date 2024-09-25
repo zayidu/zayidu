@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-condition filtering #eg48](https://dev.to/esproc_spl/multi-condition-filtering-eg48-1g20)
-- [RPC vs REST: A Comprehensive Comparison](https://dev.to/zeeshanali0704/rpc-vs-rest-a-comprehensive-comparison-2e47)
-- [IP Address Information: Essential Knowledge for Developers Regarding Website IP Data and Its Applications](https://dev.to/johnmiller/ip-address-information-essential-knowledge-for-developers-regarding-website-ip-data-and-its-applications-1h6i)
-- [Crafting the Perfect API: A Developer&#39;s Guide to Success](https://dev.to/patoliyainfotech/crafting-the-perfect-api-a-developers-guide-to-success-22bp)
-- [How to Build and Configure a Release Pipeline in Azure DevOps](https://dev.to/s3cloudhub/how-to-build-and-configure-a-release-pipeline-in-azure-devops-lf9)
+- [You Gonna LOVE these CLI Shortcuts for GIT, Linux, Docker, Kubernetes...](https://dev.to/mammadyahyayev/you-gonna-love-these-cli-shortcuts-for-git-linux-docker-kubernetes-154m)
+- [Guide: How to add Write Back capabilities to your Power BI reports with Power Apps — Part 3](https://dev.to/jonvoge/guide-how-to-add-write-back-capabilities-to-your-power-bi-reports-with-power-apps-part-3-kak)
+- [Acne on the Penis: Causes Factors](https://dev.to/emily_post_af382b143795eb/acne-on-the-penis-causes-factors-4d7g)
+- [LabEx Trending: Image Viewer Using Python and Tkinter and More](https://dev.to/labex/labex-trending-image-viewer-using-python-and-tkinter-and-more-3bnd)
+- [DevOps Architect: The Backbone of Modern Software Development](https://dev.to/devops_den/devops-architect-the-backbone-of-modern-software-development-4b19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
