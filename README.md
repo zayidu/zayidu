@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Flutter: Your Ultimate Guide to Building Stunning Cross-Platform Apps](https://dev.to/itechburner/mastering-flutter-your-ultimate-guide-to-building-stunning-cross-platform-apps-i4k)
-- [Divide two integers without using division or multiplication operators](https://dev.to/prashantrmishra/divide-two-integers-without-using-division-or-multiplication-operators-2bne)
-- [Building Menuland.ph: A Delicious Journey in Web Development 🍕](https://dev.to/saqib_syed_68931758105445/building-menulandph-a-delicious-journey-in-web-development-2b3m)
-- [Extending NUC with External U.2 SSD](https://dev.to/splix/extending-nuc-with-external-u2-ssd-2e63)
-- [Mastering C# Fundamentals: `switch` Statement](https://dev.to/moh_moh701/mastering-c-fundamentals-switch-statement-3jk4)
+- [WebRTC DataChannel Tutorial](https://dev.to/alakkadshaw/webrtc-datachannel-tutorial-3cfp)
+- [Didn&#39;t want to deal with Types. Now suffering :&lpar;](https://dev.to/paul_freeman/didnt-want-to-deal-with-types-now-suffering--5an2)
+- [Generating text description from youtube link using Angular, Gemini and Netlify](https://dev.to/salimchemes/generating-text-description-from-youtube-link-using-angular-gemini-and-netlify-44n)
+- [Infrastructure as Code Security with CloudFormation](https://dev.to/ikoh_sylva/infrastructure-as-code-security-with-cloudformation-fne)
+- [Typescript quick concept refresher and reference](https://dev.to/keshav___dev/typescript-quick-concept-refresher-and-reference-4og1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
