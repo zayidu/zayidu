@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Laravel and Symfony: Choosing the Right PHP Framework for Your Project](https://dev.to/westtan/comparing-laravel-and-symfony-choosing-the-right-php-framework-for-your-project-aj)
-- [Conditionals 101: The building blocks of adaptive programs](https://dev.to/fahimulhaq/conditionals-101-the-building-blocks-of-adaptive-programs-28kb)
-- [A Guide to Date and Time in Javascript](https://dev.to/okoth/a-guide-to-date-and-time-in-javascript-5bp1)
-- [Building an Orders Processing Service with ChatGPT &lpar;contribute 70–80% efforts&rpar; and Finished in 2 Days](https://dev.to/jackynote/building-an-orders-processing-service-with-chatgpt-contribute-70-80-efforts-and-finished-in-2-days-3klf)
-- [📧 AWS Simple Email Service &lpar;SES&rpar;](https://dev.to/softden_2005/aws-simple-email-service-ses-1pjb)
+- [Building a Complex Form with React Hook Form and Yup](https://dev.to/dutchskull/building-a-complex-form-with-react-hook-form-and-yup-200j)
+- [Best Practices for Data Visualization in Tableau and Salesforce](https://dev.to/itechcloud_solution_01/best-practices-for-data-visualization-in-tableau-and-salesforce-j6k)
+- [From Data to Decisions: My AI-Driven QA Metrics Framework Journey &lpar;Part 01&rpar;](https://dev.to/amr_922fec19bbf46d253faee/from-data-to-decisions-my-ai-driven-qa-metrics-framework-journey-part-01-44jd)
+- [AI for Smarter Test Automation Strategies](https://dev.to/jennife05918349/ai-for-smarter-test-automation-strategies-1lon)
+- [Choosing the standard office colour for maximum productivity and comfort](https://dev.to/barry_luxe_1d93d3f6c95d48/choosing-the-standard-office-colour-for-maximum-productivity-and-comfort-2k94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
