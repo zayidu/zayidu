@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Challenges of Code Review: How to Be Efficient and Constructive](https://dev.to/bfontes/challenges-of-code-review-how-to-be-efficient-and-constructive-3phj)
-- [Exploring TypeScript&#39;s Utility Types](https://dev.to/kartikmehta8/exploring-typescripts-utility-types-1jc6)
-- [Frame rate &lpar;FPS&rpar;](https://dev.to/aj1904/frame-rate-fps-29jc)
-- [Code Smell 271 - The Hollywood Principle](https://dev.to/mcsee/code-smell-271-the-hollywood-principle-3hh7)
-- [Setting Up a Multi-Tier Web Application Locally: A DevOps Guide](https://dev.to/purveshshende2/setting-up-a-multi-tier-web-application-locally-a-devops-guide-78o)
+- [Tree &lpar; DSA - 8 &rpar;](https://dev.to/madgan95/tree-dsa-8--3bnh)
+- [Finding Product Market Fit &lpar;feat. Daniel Mawdsley&rpar;](https://dev.to/vpalania/finding-product-market-fit-feat-daniel-mawdsley-20p9)
+- [Don&#39;t Trip! Mastering the Circuit Breaker Pattern in Distributed Systems](https://dev.to/systemsage/dont-trip-mastering-the-circuit-breaker-pattern-in-distributed-systems-15lf)
+- [GBase 8a MPP Cluster Performance Tuning: GNode Parameter Optimization](https://dev.to/congcong/gbase-8a-mpp-cluster-performance-tuning-gnode-parameter-optimization-27gm)
+- [🚀 100% Free APIs Every Developer Should Know in 2024](https://dev.to/hanzla-mirza/100-free-apis-every-developer-should-know-in-2024-1bdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
