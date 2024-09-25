@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WebRTC DataChannel Tutorial](https://dev.to/alakkadshaw/webrtc-datachannel-tutorial-3cfp)
-- [Didn&#39;t want to deal with Types. Now suffering :&lpar;](https://dev.to/paul_freeman/didnt-want-to-deal-with-types-now-suffering--5an2)
-- [Generating text description from youtube link using Angular, Gemini and Netlify](https://dev.to/salimchemes/generating-text-description-from-youtube-link-using-angular-gemini-and-netlify-44n)
-- [Infrastructure as Code Security with CloudFormation](https://dev.to/ikoh_sylva/infrastructure-as-code-security-with-cloudformation-fne)
-- [Typescript quick concept refresher and reference](https://dev.to/keshav___dev/typescript-quick-concept-refresher-and-reference-4og1)
+- [Mastering C# Fundamentals: Do-While and For Loops](https://dev.to/moh_moh701/mastering-c-fundamentals-do-while-and-for-loops-57ol)
+- [QR code with Python in 7 lines of code](https://dev.to/techelopment/qr-code-with-python-in-7-lines-of-code-160m)
+- [Day 1 of my #100DaysOfCode](https://dev.to/vijayadeepu/day-1-of-my-100daysofcode-3c7o)
+- [Desplegando 50 S3 con el Mismo Nombre usando Terraform](https://dev.to/aws-espanol/desplegando-50-s3-con-el-mismo-nombre-usando-terraform-ob6)
+- [Supersim: Simulating the Future of the Superchain Locally](https://dev.to/wolfcito/supersim-simulating-the-future-of-the-superchain-locally-1575)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
