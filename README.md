@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Object Iteration in JavaScript: `for...of` vs `for...in`](https://dev.to/dharamgfx/understanding-object-iteration-in-javascript-forof-vs-forin-bkc)
-- [SQLMap Cheat Sheet: A Quick Guide for Automated SQL Injection](https://dev.to/trixsec/sqlmap-cheat-sheet-a-quick-guide-for-automated-sql-injection-2b95)
-- [Flutter’s Engineering Pipeline: A Great Workflow with Minor Hiccups](https://dev.to/middleware/flutters-engineering-pipeline-a-great-workflow-with-minor-hiccups-1f05)
-- [Performing Backups in Linux: Tools and the 3-2-1 Strategy](https://dev.to/ispmanager/performing-backups-in-linux-tools-and-the-3-2-1-strategy-nfi)
-- [Aggregate Functions vs Window Functions in SQL](https://dev.to/mrcaption49/aggregate-functions-vs-window-functions-576f)
+- [5 Must-Have Chrome Extensions That Will Supercharge Your Developer Workflow](https://dev.to/asimachowdhury/5-must-have-chrome-extensions-that-will-supercharge-your-developer-workflow-5edd)
+- [How to Empty The Recycle Bin in Windows 11?](https://dev.to/winsides/how-to-empty-the-recycle-bin-in-windows-11-2760)
+- [Data, Information, Knowledge, and Insights](https://dev.to/mrcaption49/data-information-knowledge-and-insights-468j)
+- [Mastering JavaScript Objects: Methods, Properties, Prototypes, and __proto__ in Real-Time User Management System](https://dev.to/dharamgfx/mastering-javascript-objects-methods-and-properties-with-real-time-project-scenarios-user-management-system-30d6)
+- [SMTP Server for Bulk Email- Key Features to Look for in a Provider](https://dev.to/otismilburnn/smtp-server-for-bulk-email-key-features-to-look-for-in-a-provider-5bm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
