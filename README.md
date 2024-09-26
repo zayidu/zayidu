@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [List of the best Google Dorks in 2024 for finding SQL injection vulnerabilities and other security issues:](https://dev.to/trixsec/list-of-the-best-google-dorks-in-2024-for-finding-sql-injection-vulnerabilities-and-other-security-issues-5772)
+- [17 Lesser Known Chrome Extensions You Wish You Knew Sooner 🤩⚡](https://dev.to/madza/17-lesser-known-chrome-extensions-you-wish-you-knew-sooner-31l2)
 - [Drag &amp; Drop Images with Preview using Stimulus Outlets](https://dev.to/railsdesigner/drag-drop-images-with-preview-using-stimulus-outlets-4k9h)
 - [Hacktoberfest 2024 with Ghostfolio](https://dev.to/dtslvr/hacktoberfest-2024-with-ghostfolio-572g)
-- [Nitro.js: Revolutionizing server-side JavaScript](https://dev.to/logrocket/nitrojs-revolutionizing-server-side-javascript-26k4)
-- [9 open-source libraries that will make your CV stand out ⚡ 🚀](https://dev.to/composiodev/9-open-source-libraries-that-will-make-your-cv-stand-out-19nf)
-- [Using Storybook with Angular and Vite 🎨](https://dev.to/brandontroberts/using-storybook-with-angular-and-vite-48ga)
+- [How to Securely Store Passwords in Databases](https://dev.to/thinhda/how-to-securely-store-passwords-in-databases-48a5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
