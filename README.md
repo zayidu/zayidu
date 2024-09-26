@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tips for Migrating from KX13 to Xperience by Kentico](https://dev.to/truelime/tips-for-migrating-from-kx13-to-xperience-by-kentico-709)
-- [The Challenge of Building Web Applications with Node.js Frameworks](https://dev.to/iietmoon/the-challenge-of-building-web-applications-with-nodejs-frameworks-3c25)
-- [Assessing Algorithm Complexity in C#: Memory and Time Examples](https://dev.to/byteminds_agency/assessing-algorithm-complexity-in-c-memory-and-time-examples-15k9)
-- [Twitter System Design Example for Tech Interviews](https://dev.to/somadevtoo/twitter-system-design-example-for-tech-interviews-1ihb)
-- [Paint the Stars - Drawing with Compose and Canvas](https://dev.to/eevajonnapanula/paint-the-stars-drawing-with-compose-and-canvas-5m5)
+- [Drag &amp; Drop Images with Preview using Stimulus Outlets](https://dev.to/railsdesigner/drag-drop-images-with-preview-using-stimulus-outlets-4k9h)
+- [Hacktoberfest 2024 with Ghostfolio](https://dev.to/dtslvr/hacktoberfest-2024-with-ghostfolio-572g)
+- [Nitro.js: Revolutionizing server-side JavaScript](https://dev.to/logrocket/nitrojs-revolutionizing-server-side-javascript-26k4)
+- [9 open-source libraries that will make your CV stand out ⚡ 🚀](https://dev.to/composiodev/9-open-source-libraries-that-will-make-your-cv-stand-out-19nf)
+- [Using Storybook with Angular and Vite 🎨](https://dev.to/brandontroberts/using-storybook-with-angular-and-vite-48ga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
