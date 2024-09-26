@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API protocols &lpar;beyond REST&rpar;?](https://dev.to/nikoldimit/api-protocols-beyond-rest-2h9p)
-- [Astro: Just Build Fast](https://dev.to/vuelancer/astro-just-build-fast-555c)
-- [RREF Calculator](https://dev.to/imrankh13332994/rref-calculator-4o95)
-- [Using `call`, `apply`, and `bind` in a Restaurant Billing System.](https://dev.to/dharamgfx/using-call-apply-and-bind-in-a-restaurant-billing-system-249j)
-- [5 Must-Have Chrome Extensions That Will Supercharge Your Developer Workflow](https://dev.to/asimachowdhury/5-must-have-chrome-extensions-that-will-supercharge-your-developer-workflow-5edd)
+- [Sentry can’t fix React hydration errors, but it can really help you debug them](https://dev.to/sentry/sentry-cant-fix-react-hydration-errors-but-it-can-really-help-you-debug-them-40aa)
+- [Augmenting the client with Vue.js](https://dev.to/nfrankel/augmenting-the-client-with-vuejs-2ip7)
+- [Unlocking the Secrets of Digital Decisions: A Beginner’s Guide to Logic Gates](https://dev.to/elen_voskanyan/unlocking-the-secrets-of-digital-decisions-a-beginners-guide-to-logic-gates-224d)
+- [Getting the first record meeting the specified condition #eg49](https://dev.to/esproc_spl/getting-the-first-record-meeting-the-specified-condition-eg49-7nl)
+- [How I boosted my Google impressions from 2 to 200 in a month with a simple SEO tweak 🚀](https://dev.to/nicolasmenicou/how-i-boosted-my-google-impressions-from-2-to-200-in-a-month-with-a-simple-seo-tweak-210c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
