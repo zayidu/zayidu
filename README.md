@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TCS CodeVita: A Complete Guide to the World’s Largest Programming Contest!](https://dev.to/avinash201199/tcs-codevita-a-complete-guide-to-the-worlds-largest-programming-contest-3io4)
-- [how to create HR management solution](https://dev.to/04anilr/how-to-create-hr-management-solution-lf2)
-- [Enhance Form UX with a Single HTML Attribute](https://dev.to/nitinyadav2455/enhance-form-ux-with-a-single-html-attribute-eoh)
-- [Working with Placeholders in Sitecore XM Cloud](https://dev.to/sebasab/working-with-placeholders-in-sitecore-xm-cloud-5fae)
-- [Understanding Error Boundaries in Next.js: A Deep Dive with Examples](https://dev.to/rajeshkumaryadavdotcom/understanding-error-boundaries-in-nextjs-a-deep-dive-with-examples-fk0)
+- [Encore.ts: a new type of framework](https://dev.to/encore/encorets-a-new-type-of-framework-3c48)
+- [Gemini Twitter Bot With Encore.ts](https://dev.to/talhaahsan/gemini-twitter-bot-with-encorets-i77)
+- [Start Contributing to Open Source: A Beginner&#39;s Guide](https://dev.to/nitinyadav2455/start-contributing-to-open-source-a-beginners-guide-3nfm)
+- [Exploring the Jenkins Platform: Automating the Development Lifecycle](https://dev.to/renan_almeidasv/exploring-the-jenkins-platform-automating-the-development-lifecycle-19d5)
+- [🌟 Top 10 CSS Frameworks to Use in React/Next.js Apps in 2024 🎨](https://dev.to/hamzakhan/top-10-css-frameworks-to-use-in-reactnextjs-apps-in-2024-314a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
