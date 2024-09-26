@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring JavaScript Array Methods: A Deep Dive into `.slice&lpar;&rpar;` and `.splice&lpar;&rpar;`](https://dev.to/hkp22/exploring-javascript-array-methods-a-deep-dive-into-slice-and-splice-j93)
+- [From Static to Dynamic: How SvelteKit Handles It All](https://dev.to/jimmymcbride/from-static-to-dynamic-how-sveltekit-handles-it-all-3i2e)
+- [Implement React v18 from Scratch Using WASM and Rust - [27] Implement useTransition](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-27-implement-usetransition-10gb)
+- [Litlyx - Introducing Funnel Events](https://dev.to/litlyx-org/litlyx-introducing-funnel-events-3m7m)
 - [Sentry can’t fix React hydration errors, but it can really help you debug them](https://dev.to/sentry/sentry-cant-fix-react-hydration-errors-but-it-can-really-help-you-debug-them-40aa)
-- [Augmenting the client with Vue.js](https://dev.to/nfrankel/augmenting-the-client-with-vuejs-2ip7)
-- [Unlocking the Secrets of Digital Decisions: A Beginner’s Guide to Logic Gates](https://dev.to/elen_voskanyan/unlocking-the-secrets-of-digital-decisions-a-beginners-guide-to-logic-gates-224d)
-- [Getting the first record meeting the specified condition #eg49](https://dev.to/esproc_spl/getting-the-first-record-meeting-the-specified-condition-eg49-7nl)
-- [How I boosted my Google impressions from 2 to 200 in a month with a simple SEO tweak 🚀](https://dev.to/nicolasmenicou/how-i-boosted-my-google-impressions-from-2-to-200-in-a-month-with-a-simple-seo-tweak-210c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
