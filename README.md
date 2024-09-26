@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WebRTC Data Channels: A guide.](https://dev.to/alakkadshaw/webrtc-data-channels-a-guide-58fj)
-- [&quot;The journey of a thousand miles begins with a single step.&quot;](https://dev.to/imajenasyon/the-journey-of-a-thousand-miles-begins-with-a-single-step-2a5n)
-- [Create a remote port forwarding connection using SSH](https://dev.to/sertxudev/create-a-remote-port-forwarding-connection-using-ssh-1kee)
-- [Implementing Hosted Checkout with ANZ Worldline Payment Solutions in Next.js](https://dev.to/abdur_rakibrony_349a3f89/implementing-hosted-checkout-with-anz-worldline-payment-solutions-in-nextjs-597)
-- [Web Components Are Not the Future](https://dev.to/ryansolid/web-components-are-not-the-future-48bh)
+- [A Gentle Introduction to HPC - High Performance Computing](https://dev.to/sampseiol1/a-gentle-introduction-to-hpc-high-performance-computing-3d00)
+- [Deploy Postgresql with Helm](https://dev.to/frederickollinger/deploy-postgresql-with-helm-1ifi)
+- [Buzz Bee: Alien Invasion](https://dev.to/roadhammergaming/buzz-bee-alien-invasion-26i3)
+- [Javascript is HARD &lpar;with ES6 madness&rpar;](https://dev.to/rockhillz/javascript-is-hard-with-es6-madness-47j9)
+- [Understanding Webhooks: How to Handle Them in Your Application](https://dev.to/ivannalon/understanding-webhooks-how-to-handle-them-in-your-application-17je)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
