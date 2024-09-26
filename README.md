@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [from aguilera.soy to jorge-aguilera.blog](https://dev.to/jagedn/from-aguilerasoy-to-jorge-aguilerablog-5hkp)
+- [A Beginner&#39;s Guide to Implementing Redux in Your Existing System](https://dev.to/futuristicgeeks/a-beginners-guide-to-implementing-redux-in-your-existing-system-1632)
+- [Top 5 VS Code Extensions for JavaScript Developers](https://dev.to/balrajola/top-5-vs-code-extensions-for-javascript-developers-30bf)
 - [Exploring JavaScript Array Methods: A Deep Dive into `.slice&lpar;&rpar;` and `.splice&lpar;&rpar;`](https://dev.to/hkp22/exploring-javascript-array-methods-a-deep-dive-into-slice-and-splice-j93)
 - [From Static to Dynamic: How SvelteKit Handles It All](https://dev.to/jimmymcbride/from-static-to-dynamic-how-sveltekit-handles-it-all-3i2e)
-- [Implement React v18 from Scratch Using WASM and Rust - [27] Implement useTransition](https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-27-implement-usetransition-10gb)
-- [Litlyx - Introducing Funnel Events](https://dev.to/litlyx-org/litlyx-introducing-funnel-events-3m7m)
-- [Sentry can’t fix React hydration errors, but it can really help you debug them](https://dev.to/sentry/sentry-cant-fix-react-hydration-errors-but-it-can-really-help-you-debug-them-40aa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
