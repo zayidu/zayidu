@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Encore.ts: a new type of framework](https://dev.to/encore/encorets-a-new-type-of-framework-3c48)
-- [Gemini Twitter Bot With Encore.ts](https://dev.to/talhaahsan/gemini-twitter-bot-with-encorets-i77)
-- [Start Contributing to Open Source: A Beginner&#39;s Guide](https://dev.to/nitinyadav2455/start-contributing-to-open-source-a-beginners-guide-3nfm)
-- [Exploring the Jenkins Platform: Automating the Development Lifecycle](https://dev.to/renan_almeidasv/exploring-the-jenkins-platform-automating-the-development-lifecycle-19d5)
-- [🌟 Top 10 CSS Frameworks to Use in React/Next.js Apps in 2024 🎨](https://dev.to/hamzakhan/top-10-css-frameworks-to-use-in-reactnextjs-apps-in-2024-314a)
+- [This Month in Azure Static Web Apps | 08/2024](https://dev.to/azure/this-month-in-azure-static-web-apps-082024-39d)
+- [Handling Merge Conflicts in Git: How to Fix and Prevent Them](https://dev.to/htsagara/handling-merge-conflicts-in-git-how-to-fix-and-prevent-them-1m62)
+- [Understanding the Payment Request API: Simplifying Online Payments](https://dev.to/rajeshkumaryadavdotcom/understanding-the-payment-request-api-simplifying-online-payments-3hnp)
+- [Docker BuildX: O Turbo das Builds de Imagens](https://dev.to/rflpazini/docker-buildx-o-turbo-das-builds-de-imagens-1l37)
+- [DevOps: Linux Performance Monitoring](https://dev.to/decoders_lord/devops-linux-performance-monitoring-17oj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
