@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Gentle Introduction to HPC - High Performance Computing](https://dev.to/sampseiol1/a-gentle-introduction-to-hpc-high-performance-computing-3d00)
-- [Deploy Postgresql with Helm](https://dev.to/frederickollinger/deploy-postgresql-with-helm-1ifi)
-- [Buzz Bee: Alien Invasion](https://dev.to/roadhammergaming/buzz-bee-alien-invasion-26i3)
-- [Javascript is HARD &lpar;with ES6 madness&rpar;](https://dev.to/rockhillz/javascript-is-hard-with-es6-madness-47j9)
-- [Understanding Webhooks: How to Handle Them in Your Application](https://dev.to/ivannalon/understanding-webhooks-how-to-handle-them-in-your-application-17je)
+- [Как настроить зеркало реестров для OpenTofu и Terraform](https://dev.to/kvendingoldo/kak-nastroit-zierkalo-rieiestrov-dlia-opentofu-i-terraform-277k)
+- [Collaborate using Pull Requests](https://dev.to/farhatsharifh/collaborate-using-pull-requests-5c2o)
+- [Quantum-Classical Machine Learning: Quanvolutional Neural Network](https://dev.to/ksk0629/quantum-classical-machine-learning-quanvolutional-neural-network-bcl)
+- [The Concise Django Tutorial](https://dev.to/otamm/the-concise-django-tutorial-54lm)
+- [CI/CD Pipelines: Your Startup&#39;s Secret Weapon for Speed and Quality](https://dev.to/arbythecoder/cicd-pipelines-your-startups-secret-weapon-for-speed-and-quality-1cj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
