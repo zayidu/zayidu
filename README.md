@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Portfolio new!!!](https://dev.to/parzival646/portfolio-new-453h)
-- [Is Docker Compose Ready for Production? Here’s What You Need to Know](https://dev.to/dobralin/is-docker-compose-ready-for-production-heres-what-you-need-to-know-4hhl)
-- [How to set up modern React App &lpar;SPA&rpar;](https://dev.to/edwardfedoruk/how-to-set-up-modern-react-app-spa-3knc)
-- [LabEx Trending: Weather Trend Chart with Vue and Echarts and More](https://dev.to/labex/labex-trending-weather-trend-chart-with-vue-and-echarts-and-more-4d7c)
-- [Top 7 Platforms for Ephemeral Environments &lpar;September 2024 Edition&rpar;](https://dev.to/dobralin/top-7-platforms-for-ephemeral-environments-september-2024-edition-3g32)
+- [WebRTC Data Channels: A guide.](https://dev.to/alakkadshaw/webrtc-data-channels-a-guide-58fj)
+- [&quot;The journey of a thousand miles begins with a single step.&quot;](https://dev.to/imajenasyon/the-journey-of-a-thousand-miles-begins-with-a-single-step-2a5n)
+- [Create a remote port forwarding connection using SSH](https://dev.to/sertxudev/create-a-remote-port-forwarding-connection-using-ssh-1kee)
+- [Implementing Hosted Checkout with ANZ Worldline Payment Solutions in Next.js](https://dev.to/abdur_rakibrony_349a3f89/implementing-hosted-checkout-with-anz-worldline-payment-solutions-in-nextjs-597)
+- [Web Components Are Not the Future](https://dev.to/ryansolid/web-components-are-not-the-future-48bh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
