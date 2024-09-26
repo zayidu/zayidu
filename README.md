@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [12 Essential Web APIs Every Developer Should Know](https://dev.to/vyan/12-essential-web-apis-every-developer-should-know-1m28)
+- [DevOps Beginner | Day 109 | Use EC2 Ubuntu Cron Job Automation Backup Database](https://dev.to/aws-builders/devops-beginner-day-109-use-ec2-ubuntu-cron-job-automation-backup-database-5dd2)
 - [File Uploads in MERN Stack with Multer and Cloud Storage 🌐🚀](https://dev.to/info_generalhazedawn_a3d/file-uploads-in-mern-stack-with-multer-and-cloud-storage-jpp)
 - [Understanding and Configuring Oracle Access Control Lists &lpar;ACLs&rpar; for Email Sending Using UTL_MAIL](https://dev.to/digitalpollution/understanding-and-configuring-oracle-access-control-lists-acls-for-email-sending-using-utlmail-oi2)
 - [Asynchronous JavaScript - Get Confusions Cleared](https://dev.to/abeertech01/asynchronous-javascript-get-confusions-cleared-5a2f)
-- [LLMs will lie forever](https://dev.to/mikeyoung44/llms-will-lie-forever-3jd9)
-- [🛠️ Website Development Tools I use every day 💻](https://dev.to/serhii_kolodych/website-development-tools-i-use-every-day-4g2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
