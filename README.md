@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This Month in Azure Static Web Apps | 08/2024](https://dev.to/azure/this-month-in-azure-static-web-apps-082024-39d)
-- [Handling Merge Conflicts in Git: How to Fix and Prevent Them](https://dev.to/htsagara/handling-merge-conflicts-in-git-how-to-fix-and-prevent-them-1m62)
-- [Understanding the Payment Request API: Simplifying Online Payments](https://dev.to/rajeshkumaryadavdotcom/understanding-the-payment-request-api-simplifying-online-payments-3hnp)
-- [Docker BuildX: O Turbo das Builds de Imagens](https://dev.to/rflpazini/docker-buildx-o-turbo-das-builds-de-imagens-1l37)
-- [DevOps: Linux Performance Monitoring](https://dev.to/decoders_lord/devops-linux-performance-monitoring-17oj)
+- [Portfolio new!!!](https://dev.to/parzival646/portfolio-new-453h)
+- [Is Docker Compose Ready for Production? Here’s What You Need to Know](https://dev.to/dobralin/is-docker-compose-ready-for-production-heres-what-you-need-to-know-4hhl)
+- [How to set up modern React App &lpar;SPA&rpar;](https://dev.to/edwardfedoruk/how-to-set-up-modern-react-app-spa-3knc)
+- [LabEx Trending: Weather Trend Chart with Vue and Echarts and More](https://dev.to/labex/labex-trending-weather-trend-chart-with-vue-and-echarts-and-more-4d7c)
+- [Top 7 Platforms for Ephemeral Environments &lpar;September 2024 Edition&rpar;](https://dev.to/dobralin/top-7-platforms-for-ephemeral-environments-september-2024-edition-3g32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
