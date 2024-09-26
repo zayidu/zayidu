@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [API protocols &lpar;beyond REST&rpar;?](https://dev.to/nikoldimit/api-protocols-beyond-rest-2h9p)
+- [Astro: Just Build Fast](https://dev.to/vuelancer/astro-just-build-fast-555c)
+- [RREF Calculator](https://dev.to/imrankh13332994/rref-calculator-4o95)
+- [Using `call`, `apply`, and `bind` in a Restaurant Billing System.](https://dev.to/dharamgfx/using-call-apply-and-bind-in-a-restaurant-billing-system-249j)
 - [5 Must-Have Chrome Extensions That Will Supercharge Your Developer Workflow](https://dev.to/asimachowdhury/5-must-have-chrome-extensions-that-will-supercharge-your-developer-workflow-5edd)
-- [How to Empty The Recycle Bin in Windows 11?](https://dev.to/winsides/how-to-empty-the-recycle-bin-in-windows-11-2760)
-- [Data, Information, Knowledge, and Insights](https://dev.to/mrcaption49/data-information-knowledge-and-insights-468j)
-- [Mastering JavaScript Objects: Methods, Properties, Prototypes, and __proto__ in Real-Time User Management System](https://dev.to/dharamgfx/mastering-javascript-objects-methods-and-properties-with-real-time-project-scenarios-user-management-system-30d6)
-- [SMTP Server for Bulk Email- Key Features to Look for in a Provider](https://dev.to/otismilburnn/smtp-server-for-bulk-email-key-features-to-look-for-in-a-provider-5bm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
