@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is GenAIScript?](https://dev.to/nickytonline/what-is-genaiscript-1mf2)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2cin)
-- [A Quick dive into useCallback hook: concepts and how to use it](https://dev.to/hsline918/a-quick-dive-into-usecallback-hook-concepts-and-how-to-use-it-1eel)
-- [Understanding the Attention Mechanism in Natural Language Processing](https://dev.to/nareshnishad/understanding-the-attention-mechanism-in-natural-language-processing-1pgf)
-- [Working with Merge in Git](https://dev.to/anhchienvu/working-with-merge-in-git-752)
+- [Asynchronous Programming in JavaScript - Callbacks | Promises | Async/Await](https://dev.to/mrcaption49/asynchronous-programming-in-javascript-callbacks-promises-asyncawait-269n)
+- [Fundamentals of Blockchain](https://dev.to/thekarlesi/fundamentals-of-blockchain-2k0e)
+- [How to Enable ASP.NET 4.8 in Windows 11?](https://dev.to/winsides/how-to-enable-aspnet-48-in-windows-11-26ic)
+- [Introducing ToyStack: Managed Postgres Databases for New-Age Developers](https://dev.to/toystack/introducing-toystack-managed-postgres-databases-for-new-age-developers-2oo8)
+- [Kaprekar constant 6174 JavaScript](https://dev.to/raguram90/kaprekar-constant-6174-javascript-1k4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
