@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React useState and how to use them in Forms](https://dev.to/harshm03/react-usestate-and-how-to-use-them-in-forms-175o)
-- [How to invoke a lambda function from your database](https://dev.to/sequin/how-to-invoke-a-lambda-function-from-your-database-5bjp)
-- [Bad CSS-Dad Jokes &lpar;III&rpar;](https://dev.to/alvaromontoro/bad-css-dad-jokes-iii-1ma6)
-- [.py Week 1 with CodersDorm .](https://dev.to/peter_kimulisa_1b7ae28314/py-week-1-with-codersdorm--38n)
-- [Using XState to coordinate Three.js character animations](https://dev.to/hnrq/using-xstate-to-coordinate-threejs-character-animations-p5k)
+- [Stop Supabase Projects From Being Paused](https://dev.to/travisv/stop-supabase-projects-from-being-paused-36nf)
+- [Narrowing Down What Needs to Be Done: Finding What to Quit for the Sake of What Truly Matters &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/narrowing-down-what-needs-to-be-done-finding-what-to-quit-for-the-sake-of-what-truly-matters-bite-size-article-5ckl)
+- [Migrating from shell script to &quot;Bun script&quot;](https://dev.to/edimarlnx/migrating-from-shell-script-to-bun-script-4pnj)
+- [Amazon Simple Queue Service &lpar;SQS&rpar;](https://dev.to/izmroen/amazon-simple-queue-service-sqs-40e1)
+- [How to Build an Icon Library with TypeScript, Tsup, and SVGR](https://dev.to/avoguga/how-to-build-an-icon-library-with-typescript-tsup-and-svgr-1ga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
