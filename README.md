@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the infer Keyword in TypeScript](https://dev.to/zacharylee/understanding-the-infer-keyword-in-typescript-20mg)
-- [Technical article on how to Create a storage account and configure high availability.](https://dev.to/nadico_chris_2344abd174fe/technical-article-on-how-to-create-a-storage-account-and-configure-high-availability-59ge)
-- [TeeChart in a MudBlazor web](https://dev.to/steema/teechart-in-a-mudblazor-web-2j64)
-- [Sexy stroked text, not in CSS. Want to change this?](https://dev.to/robole/sexy-stroked-text-not-in-css-want-to-change-this-315n)
-- [These 5 habits will make you a great code reviewer](https://dev.to/moozzyk/these-5-habits-will-make-you-a-great-code-reviewer-777)
+- [Dark Factory - Smart Manufacturing of the Future](https://dev.to/meenamurali76/dark-factory-smart-manufacturing-of-the-future-4dpm)
+- [Login Form DevZone](https://dev.to/babar_ali/login-form-devzone-4bee)
+- [Speech to Speech RAG](https://dev.to/neuml/speech-to-speech-rag-1438)
+- [Text Repeater HTML CSS Js](https://dev.to/babar_ali/text-repeater-html-css-js-41m6)
+- [The Journey of Migrating Our Browser Extension from Plasmo to WXT Framework](https://dev.to/gorvgoyl/the-journey-of-migrating-our-browser-extension-from-plasmo-to-wxt-framework-2c83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
