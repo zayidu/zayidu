@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Our new Litlyx LP is here!](https://dev.to/litlyx-org/our-new-litlyx-lp-is-here-1j33)
-- [Learn how to isolate CSS with Shadow DOM and Slots in a gallery web component &lpar;Learn Modulo.js - Part 5 of 10&rpar;](https://dev.to/michaelpb/learn-how-to-isolate-css-with-shadow-dom-and-slots-in-to-make-a-gallery-web-component-learn-modulojs-part-5-of-10-18a4)
-- [Introducing JCSwiftCommon, JCSwiftRestful, and JCSwiftUIWedgets](https://dev.to/infilachen/introducing-jcswiftcommon-jcswiftrestful-and-jcswiftuiwedgets-4doi)
-- [100 Days of Servers Distributions- Days 3 and 100](https://dev.to/pirvanm/100-days-of-servers-distributions-days-3-and-100-58hi)
-- [Open-Source Language Models vs. Closed AI Platforms](https://dev.to/ishaanxcoder/open-source-language-models-vs-closed-ai-platforms-17jj)
+- [Docwire SDK -C++20 library for advanced data processing](https://dev.to/novitzmann/docwire-sdk-c20-library-for-advanced-data-processing-4cd1)
+- [Teste de Integração com Banco de Dados](https://dev.to/gilsonsilvati/teste-de-integracao-com-banco-de-dados-47f6)
+- [Dapr in the cloud with Catalyst public beta](https://dev.to/ukmadlz/dapr-in-the-cloud-with-catalyst-public-beta-23j)
+- [Terraform Dynamic Blocks 101](https://dev.to/sre_panchanan/terraform-dynamic-blocks-101-295e)
+- [🚀 Mastering Test Automation with Robot Framework: A Complete Roadmap 🌟](https://dev.to/umairqa/mastering-test-automation-with-robot-framework-a-complete-roadmap-4cj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
