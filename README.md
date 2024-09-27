@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [hello world](https://dev.to/gitfname/hello-world-3c6k)
-- [Lazy Loading: Why Make Your Users Wait? Let&#39;s Make the Web Faster &lpar;and Fun!&rpar; | Web Theory: Part 11](https://dev.to/teclearn/lazy-loading-why-make-your-users-wait-lets-make-the-web-faster-and-fun-3185)
-- [Next.js: Static Site Generation &lpar;SSG&rpar; with Incremental Static Regeneration &lpar;ISR&rpar;](https://dev.to/remejuan/nextjs-static-site-generation-ssg-with-incremental-static-regeneration-isr-3139)
-- [Top Project Cost Estimation Software Solutions for Accurate Budgeting &amp; More](https://dev.to/thomasy0ung/top-project-cost-estimation-software-solutions-for-accurate-budgeting-more-1af4)
-- [Get Started with TypeScript](https://dev.to/debajit13/get-started-with-typescript-dn4)
+- [Building and Sharing an AMI Using AWS Image Builder](https://dev.to/nainarmalik/building-and-sharing-an-ami-using-aws-image-builder-p1e)
+- [.NET8/EF8 - Exception: Microsoft.Data.SqlClient.SqlException &lpar;0x80131904&rpar;: Incorrect syntax near &#39;$](https://dev.to/markpelf/net8ef8-exception-microsoftdatasqlclientsqlexception-0x80131904-incorrect-syntax-near--48f5)
+- [Dynamically start Docker Compose Services with a simple Makefile](https://dev.to/marrouchi/dynamically-start-docker-compose-services-with-a-simple-makefile-2ecb)
+- [Mastering Programming Language Fundamentals: Dive into the Principles, Compilers, and Regex Wonders](https://dev.to/getvm/mastering-programming-language-fundamentals-dive-into-the-principles-compilers-and-regex-wonders-1bg8)
+- [Everything you Need to Know about GUI Testing in Software](https://dev.to/ronika_kashyap/everything-you-need-to-know-about-gui-testing-in-software-34od)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
