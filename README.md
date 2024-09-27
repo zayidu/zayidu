@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dark Factory - Smart Manufacturing of the Future](https://dev.to/meenamurali76/dark-factory-smart-manufacturing-of-the-future-4dpm)
-- [Login Form DevZone](https://dev.to/babar_ali/login-form-devzone-4bee)
-- [Speech to Speech RAG](https://dev.to/neuml/speech-to-speech-rag-1438)
-- [Text Repeater HTML CSS Js](https://dev.to/babar_ali/text-repeater-html-css-js-41m6)
-- [The Journey of Migrating Our Browser Extension from Plasmo to WXT Framework](https://dev.to/gorvgoyl/the-journey-of-migrating-our-browser-extension-from-plasmo-to-wxt-framework-2c83)
+- [Understanding Computer Hardware and How the OS Runs the Show](https://dev.to/hikolakita/understanding-computer-hardware-and-how-the-os-runs-the-show-p91)
+- [Article : L&#39;importance de la Sécurité dans les Systèmes Embarqués : Protéger les Données et les Dispositifs](https://dev.to/kazaditshilumba_marcel_9b/article-3-limportance-de-la-securite-dans-les-systemes-embarques-proteger-les-donnees-et-les-dispositifs-5fmd)
+- [Certainly! Absolutely! I apologize!](https://dev.to/snackcode/certainly-absolutely-i-apologize-2p8m)
+- [My Current Carry](https://dev.to/cyrildotexe/my-current-carry-5abf)
+- [Why SCSS is Better for Writing CSS](https://dev.to/aepasahan/why-scss-is-better-for-writing-css-ghd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
