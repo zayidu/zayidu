@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One must imagine Sisyphus writing a new JS framework](https://dev.to/javiersalcedopuyo/one-must-imagine-sisyphus-writing-a-new-js-framework-3h04)
-- [Setting up a .NET Core Web API project on a Mac using Terminal](https://dev.to/awavieve/setting-up-a-net-core-web-api-project-on-a-mac-using-terminal-4nlo)
-- [LabEx Trending: Reverse Print File Content Command and More](https://dev.to/labex/labex-trending-reverse-print-file-content-command-and-more-2hfd)
-- [How to Create Virtual Machines: A Step-by-Step Guide](https://dev.to/onyemachi_doris/how-to-create-virtual-machines-a-step-by-step-guide-334k)
-- [Developing a Script for Incremental Database Backup](https://dev.to/art_grig/developing-a-script-for-incremental-database-backup-2gdg)
+- [React useState and how to use them in Forms](https://dev.to/harshm03/react-usestate-and-how-to-use-them-in-forms-175o)
+- [How to invoke a lambda function from your database](https://dev.to/sequin/how-to-invoke-a-lambda-function-from-your-database-5bjp)
+- [Bad CSS-Dad Jokes &lpar;III&rpar;](https://dev.to/alvaromontoro/bad-css-dad-jokes-iii-1ma6)
+- [.py Week 1 with CodersDorm .](https://dev.to/peter_kimulisa_1b7ae28314/py-week-1-with-codersdorm--38n)
+- [Using XState to coordinate Three.js character animations](https://dev.to/hnrq/using-xstate-to-coordinate-threejs-character-animations-p5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
