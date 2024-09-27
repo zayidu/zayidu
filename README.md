@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Selectors: Targeting Specific Elements Using CSS](https://dev.to/shieldstring/selectors-targeting-specific-elements-using-css-541h)
-- [Unveiling the myth of Unified Namespace &lpar;UNS&rpar; and implementing with AWS Native Services](https://dev.to/meenamurali76/unveiling-the-myth-of-unified-namespace-uns-and-implementing-with-aws-native-services-3j59)
-- [Top 5 UX Frameworks to measure User Experience](https://dev.to/lollypopdesign/top-5-ux-frameworks-to-measure-user-experience-3mbl)
-- [is angular good for long term projects? like e-comer&#39;s &amp; forms-based app](https://dev.to/kedar_gujare_7e17b6c42ceb/is-angular-good-for-long-term-projects-like-e-comers-forms-based-app-e6n)
-- [Deploy obsidian as container](https://dev.to/jinnabalu/deploy-obsidian-as-container-b04)
+- [Web API Pentesting](https://dev.to/certcube/web-api-pentesting-26gf)
+- [What is ASI &lpar;Artificial Super Intelligence&rpar;? Is it Feasible, and When Will We Achieve It?](https://dev.to/abhinowww/what-is-asi-artificial-super-intelligence-is-it-feasible-and-when-will-we-achieve-it-1p1c)
+- [How I reduced my app size from 75MB to 34MB !!](https://dev.to/suyashdev/how-i-reduced-my-app-size-from-75mb-to-34mb--51m1)
+- [Quick Start with the Angular 18.1 Sample Project - A Simple and Practical Solution for Developers!](https://dev.to/aminkarimi_sis/quick-start-with-the-angular-181-sample-project-a-simple-and-practical-solution-for-developers-2k54)
+- [How Residential Proxies can streamline your Development Workflow](https://dev.to/mangoproxy_bdm/how-residential-proxies-can-streamline-your-development-workflow-c21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
