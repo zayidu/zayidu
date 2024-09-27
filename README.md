@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web API Pentesting](https://dev.to/certcube/web-api-pentesting-26gf)
-- [What is ASI &lpar;Artificial Super Intelligence&rpar;? Is it Feasible, and When Will We Achieve It?](https://dev.to/abhinowww/what-is-asi-artificial-super-intelligence-is-it-feasible-and-when-will-we-achieve-it-1p1c)
-- [How I reduced my app size from 75MB to 34MB !!](https://dev.to/suyashdev/how-i-reduced-my-app-size-from-75mb-to-34mb--51m1)
-- [Quick Start with the Angular 18.1 Sample Project - A Simple and Practical Solution for Developers!](https://dev.to/aminkarimi_sis/quick-start-with-the-angular-181-sample-project-a-simple-and-practical-solution-for-developers-2k54)
-- [How Residential Proxies can streamline your Development Workflow](https://dev.to/mangoproxy_bdm/how-residential-proxies-can-streamline-your-development-workflow-c21)
+- [hello world](https://dev.to/gitfname/hello-world-3c6k)
+- [Lazy Loading: Why Make Your Users Wait? Let&#39;s Make the Web Faster &lpar;and Fun!&rpar; | Web Theory: Part 11](https://dev.to/teclearn/lazy-loading-why-make-your-users-wait-lets-make-the-web-faster-and-fun-3185)
+- [Next.js: Static Site Generation &lpar;SSG&rpar; with Incremental Static Regeneration &lpar;ISR&rpar;](https://dev.to/remejuan/nextjs-static-site-generation-ssg-with-incremental-static-regeneration-isr-3139)
+- [Top Project Cost Estimation Software Solutions for Accurate Budgeting &amp; More](https://dev.to/thomasy0ung/top-project-cost-estimation-software-solutions-for-accurate-budgeting-more-1af4)
+- [Get Started with TypeScript](https://dev.to/debajit13/get-started-with-typescript-dn4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
