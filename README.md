@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building and Sharing an AMI Using AWS Image Builder](https://dev.to/nainarmalik/building-and-sharing-an-ami-using-aws-image-builder-p1e)
-- [.NET8/EF8 - Exception: Microsoft.Data.SqlClient.SqlException &lpar;0x80131904&rpar;: Incorrect syntax near &#39;$](https://dev.to/markpelf/net8ef8-exception-microsoftdatasqlclientsqlexception-0x80131904-incorrect-syntax-near--48f5)
-- [Dynamically start Docker Compose Services with a simple Makefile](https://dev.to/marrouchi/dynamically-start-docker-compose-services-with-a-simple-makefile-2ecb)
-- [Mastering Programming Language Fundamentals: Dive into the Principles, Compilers, and Regex Wonders](https://dev.to/getvm/mastering-programming-language-fundamentals-dive-into-the-principles-compilers-and-regex-wonders-1bg8)
-- [Everything you Need to Know about GUI Testing in Software](https://dev.to/ronika_kashyap/everything-you-need-to-know-about-gui-testing-in-software-34od)
+- [The Difference Between Software Architecture Patterns and Design Principles](https://dev.to/wafa_bergaoui/the-difference-between-software-architecture-patterns-and-design-principles-1hao)
+- [Ibuprofeno.py💊| #185: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-185-explica-este-codigo-python-42ii)
+- [AdminForth got new plugins: RichEditor, Import-Export, AuditLog, 2FA](https://dev.to/ivictbor/adminforth-got-new-plugins-richeditor-import-export-auditlog-2fa-46m8)
+- [Setting Up Jekyll, Resolving Webrick Issues, and Exploring Ruby Version Changes](https://dev.to/tobidelly/setting-up-jekyll-resolving-webrick-issues-and-exploring-ruby-version-changes-24k7)
+- [S - Single Responsibility Principle&lpar;SRP&rpar;](https://dev.to/nozibul_islam_113b1d5334f/s-single-responsibility-principlesrp-h4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
