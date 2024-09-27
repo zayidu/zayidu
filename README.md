@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a REST API with Fastify](https://dev.to/kartikmehta8/building-a-rest-api-with-fastify-1472)
-- [Hacktoberfest](https://dev.to/mensonones/hacktoberfest-2cj2)
-- [Store IoT device data](https://dev.to/johnscode/store-iot-device-data-14om)
-- [API Testing with Cypress: A Complete Guide](https://dev.to/aswani25/api-testing-with-cypress-a-complete-guide-7p7)
-- [Researchers&#39; Night, our project!](https://dev.to/nicocr/researchers-night-our-project-54dp)
+- [Unlocking Innovation: 5 Key Benefits of Cloud Native Applications](https://dev.to/adityabhuyan/unlocking-innovation-5-key-benefits-of-cloud-native-applications-4c0h)
+- [The Ultimate Solution to Tab Close vs. Page Refresh!](https://dev.to/merxibeaucoup/the-ultimate-solution-to-tab-close-vs-page-refresh-cbc)
+- [Essential Design Patterns for React Apps: Leveling Up Your Component Game](https://dev.to/alessandrorodrigo/essential-design-patterns-for-react-apps-leveling-up-your-component-game-l8c)
+- [&#39;git&#39;ting funky with git merge](https://dev.to/peterdanwan/gitting-funky-with-git-merge-5dpm)
+- [The Impact of Data Structures on Performance: Choosing the Right Tool for the Job](https://dev.to/alessandrorodrigo/the-impact-of-data-structures-on-performance-choosing-the-right-tool-for-the-job-166)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
