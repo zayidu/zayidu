@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docwire SDK -C++20 library for advanced data processing](https://dev.to/novitzmann/docwire-sdk-c20-library-for-advanced-data-processing-4cd1)
-- [Teste de Integração com Banco de Dados](https://dev.to/gilsonsilvati/teste-de-integracao-com-banco-de-dados-47f6)
-- [Dapr in the cloud with Catalyst public beta](https://dev.to/ukmadlz/dapr-in-the-cloud-with-catalyst-public-beta-23j)
-- [Terraform Dynamic Blocks 101](https://dev.to/sre_panchanan/terraform-dynamic-blocks-101-295e)
-- [🚀 Mastering Test Automation with Robot Framework: A Complete Roadmap 🌟](https://dev.to/umairqa/mastering-test-automation-with-robot-framework-a-complete-roadmap-4cj3)
+- [One must imagine Sisyphus writing a new JS framework](https://dev.to/javiersalcedopuyo/one-must-imagine-sisyphus-writing-a-new-js-framework-3h04)
+- [Setting up a .NET Core Web API project on a Mac using Terminal](https://dev.to/awavieve/setting-up-a-net-core-web-api-project-on-a-mac-using-terminal-4nlo)
+- [LabEx Trending: Reverse Print File Content Command and More](https://dev.to/labex/labex-trending-reverse-print-file-content-command-and-more-2hfd)
+- [How to Create Virtual Machines: A Step-by-Step Guide](https://dev.to/onyemachi_doris/how-to-create-virtual-machines-a-step-by-step-guide-334k)
+- [Developing a Script for Incremental Database Backup](https://dev.to/art_grig/developing-a-script-for-incremental-database-backup-2gdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
