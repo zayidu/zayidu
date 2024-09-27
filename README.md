@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Как настроить зеркало реестров для OpenTofu и Terraform](https://dev.to/kvendingoldo/kak-nastroit-zierkalo-rieiestrov-dlia-opentofu-i-terraform-277k)
-- [Collaborate using Pull Requests](https://dev.to/farhatsharifh/collaborate-using-pull-requests-5c2o)
-- [Quantum-Classical Machine Learning: Quanvolutional Neural Network](https://dev.to/ksk0629/quantum-classical-machine-learning-quanvolutional-neural-network-bcl)
-- [The Concise Django Tutorial](https://dev.to/otamm/the-concise-django-tutorial-54lm)
-- [CI/CD Pipelines: Your Startup&#39;s Secret Weapon for Speed and Quality](https://dev.to/arbythecoder/cicd-pipelines-your-startups-secret-weapon-for-speed-and-quality-1cj2)
+- [Building a REST API with Fastify](https://dev.to/kartikmehta8/building-a-rest-api-with-fastify-1472)
+- [Hacktoberfest](https://dev.to/mensonones/hacktoberfest-2cj2)
+- [Store IoT device data](https://dev.to/johnscode/store-iot-device-data-14om)
+- [API Testing with Cypress: A Complete Guide](https://dev.to/aswani25/api-testing-with-cypress-a-complete-guide-7p7)
+- [Researchers&#39; Night, our project!](https://dev.to/nicocr/researchers-night-our-project-54dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
