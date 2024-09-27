@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #202 : Next.js, Composition, search params, PPR, Radon, Expo, MiniSim, CSS, Bun, Deno, Node.js...](https://dev.to/sebastienlorber/this-week-in-react-202-nextjs-composition-search-params-ppr-radon-expo-minisim-css-bun-deno-nodejs-34n9)
-- [729. My Calendar I|| Leetcode || Medium](https://dev.to/ngneha09/729-my-calendar-i-leetcode-medium-e6b)
-- [Multiple GitHub accounts on the same computer?](https://dev.to/asimaries/multiple-github-accounts-on-the-same-computer-2k15)
-- [Google Translate](https://dev.to/babar_ali/google-translate-j7b)
-- [Svelte the Difference: Solving Web Challenges with Ease](https://dev.to/jimmymcbride/svelte-the-difference-solving-web-challenges-with-ease-45h5)
+- [Understanding the infer Keyword in TypeScript](https://dev.to/zacharylee/understanding-the-infer-keyword-in-typescript-20mg)
+- [Technical article on how to Create a storage account and configure high availability.](https://dev.to/nadico_chris_2344abd174fe/technical-article-on-how-to-create-a-storage-account-and-configure-high-availability-59ge)
+- [TeeChart in a MudBlazor web](https://dev.to/steema/teechart-in-a-mudblazor-web-2j64)
+- [Sexy stroked text, not in CSS. Want to change this?](https://dev.to/robole/sexy-stroked-text-not-in-css-want-to-change-this-315n)
+- [These 5 habits will make you a great code reviewer](https://dev.to/moozzyk/these-5-habits-will-make-you-a-great-code-reviewer-777)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
