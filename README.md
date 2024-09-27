@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Computer Hardware and How the OS Runs the Show](https://dev.to/hikolakita/understanding-computer-hardware-and-how-the-os-runs-the-show-p91)
-- [Article : L&#39;importance de la Sécurité dans les Systèmes Embarqués : Protéger les Données et les Dispositifs](https://dev.to/kazaditshilumba_marcel_9b/article-3-limportance-de-la-securite-dans-les-systemes-embarques-proteger-les-donnees-et-les-dispositifs-5fmd)
-- [Certainly! Absolutely! I apologize!](https://dev.to/snackcode/certainly-absolutely-i-apologize-2p8m)
-- [My Current Carry](https://dev.to/cyrildotexe/my-current-carry-5abf)
-- [Why SCSS is Better for Writing CSS](https://dev.to/aepasahan/why-scss-is-better-for-writing-css-ghd)
+- [Our new Litlyx LP is here!](https://dev.to/litlyx-org/our-new-litlyx-lp-is-here-1j33)
+- [Learn how to isolate CSS with Shadow DOM and Slots in a gallery web component &lpar;Learn Modulo.js - Part 5 of 10&rpar;](https://dev.to/michaelpb/learn-how-to-isolate-css-with-shadow-dom-and-slots-in-to-make-a-gallery-web-component-learn-modulojs-part-5-of-10-18a4)
+- [Introducing JCSwiftCommon, JCSwiftRestful, and JCSwiftUIWedgets](https://dev.to/infilachen/introducing-jcswiftcommon-jcswiftrestful-and-jcswiftuiwedgets-4doi)
+- [100 Days of Servers Distributions- Days 3 and 100](https://dev.to/pirvanm/100-days-of-servers-distributions-days-3-and-100-58hi)
+- [Open-Source Language Models vs. Closed AI Platforms](https://dev.to/ishaanxcoder/open-source-language-models-vs-closed-ai-platforms-17jj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
