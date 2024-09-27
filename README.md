@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SvelteKit Basics: A Crash Course](https://dev.to/jimmymcbride/sveltekit-basics-a-crash-course-36m2)
-- [A Comprehensive Guide to JavaScript Storage Methods](https://dev.to/vyan/a-comprehensive-guide-to-javascript-storage-methods-137o)
-- [#66 — Search for The Position of A Certain Value And Take Values by Position](https://dev.to/judith677/66-search-for-the-position-of-a-certain-value-and-take-values-by-position-151n)
-- [Installatron &lpar;WordPress&rpar;: How to solve &quot;Backing-Up: Error&quot;](https://dev.to/skuzzy_topten/installatron-how-to-solve-backing-up-error-3k00)
-- [Transforming Small Enterprises: The Benefits of Cloud Computing for Small Businesses](https://dev.to/adityabhuyan/transforming-small-enterprises-the-benefits-of-cloud-computing-for-small-businesses-4904)
+- [What is GenAIScript?](https://dev.to/nickytonline/what-is-genaiscript-1mf2)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2cin)
+- [A Quick dive into useCallback hook: concepts and how to use it](https://dev.to/hsline918/a-quick-dive-into-usecallback-hook-concepts-and-how-to-use-it-1eel)
+- [Understanding the Attention Mechanism in Natural Language Processing](https://dev.to/nareshnishad/understanding-the-attention-mechanism-in-natural-language-processing-1pgf)
+- [Working with Merge in Git](https://dev.to/anhchienvu/working-with-merge-in-git-752)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
