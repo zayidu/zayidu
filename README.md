@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [500 views on the new Landing page in 7 hours!](https://dev.to/litlyx/500-views-on-the-new-landing-page-in-7-hours-558o)
-- [Exploring Nifty 50 Stocks: Analyzing Historical Data and Developing a Trading Strategy with Python](https://dev.to/prakhar_mishra_fb6d66345e/exploring-nifty-50-stocks-analyzing-historical-data-and-developing-a-trading-strategy-with-python-1kn7)
-- [Connecting to an RDS instance via Bastion Host](https://dev.to/neakoh/connecting-to-an-rds-instance-via-bastion-host-20mo)
-- [C# Design Pattern: Builder](https://dev.to/juarezasjunior/c-design-pattern-builder-23eh)
-- [C# Design Pattern: Builder &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-builder-portugues-2dn2)
+- [Rails Designer v1.6: Drag &amp; Drop image support](https://dev.to/railsdesigner/rails-designer-v16-drag-drop-image-support-421c)
+- [The NFL&#39;s Best Kicker is One of Us](https://dev.to/ben/the-nfls-best-kicker-is-one-of-us-5f1k)
+- [React Components &lpar;Class-based vs Functional&rpar;](https://dev.to/imyusufakhtar/react-components-class-based-vs-functional-7nj)
+- [AWS Cost Optimization Parameters and Metrics: Part-2](https://dev.to/devtron_inc/aws-cost-optimization-parameters-and-metrics-part-2-3nim)
+- [Provide storage for the IT department testing and training](https://dev.to/izuabueke/provide-storage-for-the-it-department-testing-and-training-bnb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
