@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Asynchronous Programming in JavaScript - Callbacks | Promises | Async/Await](https://dev.to/mrcaption49/asynchronous-programming-in-javascript-callbacks-promises-asyncawait-269n)
-- [Fundamentals of Blockchain](https://dev.to/thekarlesi/fundamentals-of-blockchain-2k0e)
-- [How to Enable ASP.NET 4.8 in Windows 11?](https://dev.to/winsides/how-to-enable-aspnet-48-in-windows-11-26ic)
-- [Introducing ToyStack: Managed Postgres Databases for New-Age Developers](https://dev.to/toystack/introducing-toystack-managed-postgres-databases-for-new-age-developers-2oo8)
-- [Kaprekar constant 6174 JavaScript](https://dev.to/raguram90/kaprekar-constant-6174-javascript-1k4c)
+- [Automating CI/CD Pipelines with Bitbucket Webhooks and Jenkins: A Dockerized Demo](https://dev.to/rahul_malhotra_3e1d83e2e8/automating-cicd-pipelines-with-bitbucket-webhooks-and-jenkins-a-dockerized-demo-6o8)
+- [What are Advantages of Adopting a Microservices Architecture](https://dev.to/viitorcloud/what-are-advantages-of-adopting-a-microservices-architecture-4855)
+- [Apple&#39;s Privacy Manifest: Aligning Your App with Privacy Standards in 2024 🔒🍎](https://dev.to/info_generalhazedawn_a3d/apples-privacy-manifest-aligning-your-app-with-privacy-standards-in-2024-43fn)
+- [Advanced TypeScript Utility Types in Detail](https://dev.to/bhataasim/advanced-typescript-utility-types-in-detail-4mdh)
+- [The AI Paradox: Why Machines Can&#39;t Mimic Human Writing](https://dev.to/marrouchi/the-ai-paradox-why-machines-cant-mimic-human-writing-26c6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
