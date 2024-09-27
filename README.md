@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rails Designer v1.6: Drag &amp; Drop image support](https://dev.to/railsdesigner/rails-designer-v16-drag-drop-image-support-421c)
-- [The NFL&#39;s Best Kicker is One of Us](https://dev.to/ben/the-nfls-best-kicker-is-one-of-us-5f1k)
-- [React Components &lpar;Class-based vs Functional&rpar;](https://dev.to/imyusufakhtar/react-components-class-based-vs-functional-7nj)
-- [AWS Cost Optimization Parameters and Metrics: Part-2](https://dev.to/devtron_inc/aws-cost-optimization-parameters-and-metrics-part-2-3nim)
-- [Provide storage for the IT department testing and training](https://dev.to/izuabueke/provide-storage-for-the-it-department-testing-and-training-bnb)
+- [This Week In React #202 : Next.js, Composition, search params, PPR, Radon, Expo, MiniSim, CSS, Bun, Deno, Node.js...](https://dev.to/sebastienlorber/this-week-in-react-202-nextjs-composition-search-params-ppr-radon-expo-minisim-css-bun-deno-nodejs-34n9)
+- [729. My Calendar I|| Leetcode || Medium](https://dev.to/ngneha09/729-my-calendar-i-leetcode-medium-e6b)
+- [Multiple GitHub accounts on the same computer?](https://dev.to/asimaries/multiple-github-accounts-on-the-same-computer-2k15)
+- [Google Translate](https://dev.to/babar_ali/google-translate-j7b)
+- [Svelte the Difference: Solving Web Challenges with Ease](https://dev.to/jimmymcbride/svelte-the-difference-solving-web-challenges-with-ease-45h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
