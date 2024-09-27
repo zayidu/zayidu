@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Difference Between Software Architecture Patterns and Design Principles](https://dev.to/wafa_bergaoui/the-difference-between-software-architecture-patterns-and-design-principles-1hao)
-- [Ibuprofeno.py💊| #185: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-185-explica-este-codigo-python-42ii)
-- [AdminForth got new plugins: RichEditor, Import-Export, AuditLog, 2FA](https://dev.to/ivictbor/adminforth-got-new-plugins-richeditor-import-export-auditlog-2fa-46m8)
-- [Setting Up Jekyll, Resolving Webrick Issues, and Exploring Ruby Version Changes](https://dev.to/tobidelly/setting-up-jekyll-resolving-webrick-issues-and-exploring-ruby-version-changes-24k7)
-- [S - Single Responsibility Principle&lpar;SRP&rpar;](https://dev.to/nozibul_islam_113b1d5334f/s-single-responsibility-principlesrp-h4g)
+- [500 views on the new Landing page in 7 hours!](https://dev.to/litlyx/500-views-on-the-new-landing-page-in-7-hours-558o)
+- [Exploring Nifty 50 Stocks: Analyzing Historical Data and Developing a Trading Strategy with Python](https://dev.to/prakhar_mishra_fb6d66345e/exploring-nifty-50-stocks-analyzing-historical-data-and-developing-a-trading-strategy-with-python-1kn7)
+- [Connecting to an RDS instance via Bastion Host](https://dev.to/neakoh/connecting-to-an-rds-instance-via-bastion-host-20mo)
+- [C# Design Pattern: Builder](https://dev.to/juarezasjunior/c-design-pattern-builder-23eh)
+- [C# Design Pattern: Builder &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-builder-portugues-2dn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
