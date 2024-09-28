@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Design Pattern: Prototype &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-prototype-portugues-201)
-- [C# Design Pattern: Prototype](https://dev.to/juarezasjunior/c-design-pattern-prototype-2io1)
-- [Integrating the get_time_ago Package in Flutter: A Comprehensive Guide](https://dev.to/nixrajput/integrating-the-gettimeago-package-in-flutter-a-comprehensive-guide-1a8k)
-- [Hello World!](https://dev.to/byte_sized/hello-world-hai)
-- [Understanding Genkit flows with Czech language tricks](https://dev.to/denisvalasek/understanding-genkit-flows-with-czech-language-tricks-26i3)
+- [Sign Canvas](https://dev.to/prince_beec5ccde00b7c6c73/sign-canvas-28aj)
+- [Digging Deep Into Docker; A Step-by-Step Guide For Begginers](https://dev.to/romanus_onyekwere/digging-deep-into-docker-a-step-by-step-guide-for-begginers-5co7)
+- [Local Development Server for AWS SAM Lambda Projects](https://dev.to/kuba_szw/local-development-server-for-aws-sam-lambda-projects-2dn2)
+- [WordPress Conflict: What’s Happening Between WordPress.org and WP Engine?](https://dev.to/mrdanishsaleem/wordpress-conflict-whats-happening-between-wordpressorg-and-wp-engine-521b)
+- [can&#39;t access let before initialization?](https://dev.to/i_am_advait/cant-access-let-before-initialization-2ifp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
