@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [If You Can Answer These 7 Concepts Correctly, You’re Decent at .NET](https://dev.to/ssukhpinder/if-you-can-answer-these-7-concepts-correctly-youre-decent-at-net-2le4)
-- [Unleashing the Power of Google&#39;s Vertex AI Prompt Optimizer](https://dev.to/agagag/unleashing-the-power-of-googles-vertex-ai-prompt-optimizer-3860)
-- [libaloo &lpar;Aloo&rpar;](https://dev.to/bhjaipal/libaloo-aloo-2aba)
-- [Introduction to V0: Vercel’s UI Generative AI Framework](https://dev.to/gimkelum/introduction-to-v0-vercels-ui-generative-ai-framework-4315)
-- [Mastering the Mysteries of JavaScript Syntax: Discover the Secrets Behind These Symbols](https://dev.to/hoainhoblogdev/mastering-the-mysteries-of-javascript-syntax-discover-the-secrets-behind-these-symbols-3f37)
+- [🦀 Create a Simple Todo List in Rust &lpar;with Response Time Comparison to Node.js&rpar; 📝](https://dev.to/hamzakhan/create-a-simple-todo-list-in-rust-with-response-time-comparison-to-nodejs-28e)
+- [Mastering AWS Serverless: Build and Deploy Applications](https://dev.to/s3cloudhub/mastering-aws-serverless-build-and-deploy-applications-4h26)
+- [A Beginner&#39;s Guide to Packet Sniffing Using Wireshark&lpar;Must Read&rpar;](https://dev.to/trixsec/a-beginners-guide-to-packet-sniffing-using-wiresharkmust-read-36h2)
+- [Nextjs API Router](https://dev.to/turingvangisms/nextjs-api-router-458i)
+- [👽Lucky Alien Game 🚀](https://dev.to/jagroop2001/lucky-alien-game-2kej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
