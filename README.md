@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast-forward and three-way merges](https://dev.to/sych_andrii/fast-forward-and-three-way-merges-3kl5)
-- [System design common pointers](https://dev.to/prashantrmishra/system-design-common-pointers-29b8)
-- [Tackling Merges, Conflicts, and New Features in ReadCraft](https://dev.to/tasbi03/tackling-merges-conflicts-and-new-features-in-readcraft-7jd)
-- [Como fazer deploy no vercel com o seu app web flutter](https://dev.to/devsnorte/como-fazer-deploy-no-vercel-com-o-seu-app-web-flutter-3o43)
-- [First post](https://dev.to/orangesyay/first-post-47a9)
+- [What’s a Progressive Web App &lpar;PWA&rpar;, Anyway?](https://dev.to/dev_frank/whats-a-progressive-web-app-pwa-anyway-1pnl)
+- [MySQL Basics: Understanding Isolation Level and Transaction Anomalies](https://dev.to/ronnychen/mysql-basics-understanding-isolation-level-and-transaction-anomalies-4ec6)
+- [I am a Beginner in Programming](https://dev.to/eisha_hijab/i-am-a-beginner-in-programming-2b9f)
+- [Dive into the Fascinating World of Hibernate with this Beginner-Friendly Tutorial! 🤩](https://dev.to/getvm/dive-into-the-fascinating-world-of-hibernate-with-this-beginner-friendly-tutorial-mm2)
+- [Bhupesh Singh Nitwal Web Developer](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-web-developer-3cd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
