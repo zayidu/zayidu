@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s a Progressive Web App &lpar;PWA&rpar;, Anyway?](https://dev.to/dev_frank/whats-a-progressive-web-app-pwa-anyway-1pnl)
-- [MySQL Basics: Understanding Isolation Level and Transaction Anomalies](https://dev.to/ronnychen/mysql-basics-understanding-isolation-level-and-transaction-anomalies-4ec6)
-- [I am a Beginner in Programming](https://dev.to/eisha_hijab/i-am-a-beginner-in-programming-2b9f)
-- [Dive into the Fascinating World of Hibernate with this Beginner-Friendly Tutorial! 🤩](https://dev.to/getvm/dive-into-the-fascinating-world-of-hibernate-with-this-beginner-friendly-tutorial-mm2)
-- [Bhupesh Singh Nitwal Web Developer](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-web-developer-3cd)
+- [Code Complexity Pro: Conquering Multi-File Support and Error Chaos!](https://dev.to/msaluja/code-complexity-pro-conquering-multi-file-support-and-error-chaos-78f)
+- [Shell Scripting Mastery: 5 Essential Labs for Aspiring Developers](https://dev.to/labex/shell-scripting-mastery-5-essential-labs-for-aspiring-developers-3h3l)
+- [Creating Temporary URLs for Local Files in Laravel](https://dev.to/kachkolasa/creating-temporary-urls-for-local-files-in-laravel-15o9)
+- [Understanding Git Merge](https://dev.to/mayankpareek/understanding-git-merge-4lc2)
+- [How to Set Up MySQL to Autostart on macOS: A Step-by-Step Guide for Developers](https://dev.to/manojspace/autostarting-mysql-on-macos-a-comprehensive-guide-1ikm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
