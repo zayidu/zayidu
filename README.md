@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the React Virtual DOM](https://dev.to/kartikmehta8/understanding-the-react-virtual-dom-1ph5)
-- [Terraform For Expressions](https://dev.to/sre_panchanan/terraform-for-expressions-5hcc)
-- [Monetizing GitHub Issue resolutions with BountyHub](https://dev.to/omarsoufiane/monetizing-github-issue-resolutions-with-bountyhub-3517)
-- [Launching Dev Starter Pack - 10 tools to build your startup, free!](https://dev.to/jamdotdev/launching-dev-starter-pack-10-tools-to-build-your-startup-free-1fip)
-- [Thoughts on AI Beating CAPTHCA](https://dev.to/mirswe/thoughts-on-ai-beating-capthca-1k94)
+- [Fast-forward and three-way merges](https://dev.to/sych_andrii/fast-forward-and-three-way-merges-3kl5)
+- [System design common pointers](https://dev.to/prashantrmishra/system-design-common-pointers-29b8)
+- [Tackling Merges, Conflicts, and New Features in ReadCraft](https://dev.to/tasbi03/tackling-merges-conflicts-and-new-features-in-readcraft-7jd)
+- [Como fazer deploy no vercel com o seu app web flutter](https://dev.to/devsnorte/como-fazer-deploy-no-vercel-com-o-seu-app-web-flutter-3o43)
+- [First post](https://dev.to/orangesyay/first-post-47a9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
