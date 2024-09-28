@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [If You Can Answer These 7 Questions Correctly You’re Decent at JavaScript](https://dev.to/safdarali/if-you-can-answer-these-7-questions-correctly-youre-decent-at-javascript-269d)
-- [How to test authentication JWT on Thunder Client](https://dev.to/cinthiabs/how-to-test-authentication-jwt-on-thunder-client-3mg3)
-- [Dubai Average Software Developer Salaries in 2024](https://dev.to/awwsamu/dubai-average-software-developer-salaries-in-2024-4865)
-- [My First Git Merge: Learning How to Handle Branches](https://dev.to/vinhyan/my-first-git-merge-learning-how-to-handle-branches-206l)
-- [Working on Different Branches &amp; Merging](https://dev.to/arilloid/working-on-different-branches-merging-1dgb)
+- [Understanding the React Virtual DOM](https://dev.to/kartikmehta8/understanding-the-react-virtual-dom-1ph5)
+- [Terraform For Expressions](https://dev.to/sre_panchanan/terraform-for-expressions-5hcc)
+- [Monetizing GitHub Issue resolutions with BountyHub](https://dev.to/omarsoufiane/monetizing-github-issue-resolutions-with-bountyhub-3517)
+- [Launching Dev Starter Pack - 10 tools to build your startup, free!](https://dev.to/jamdotdev/launching-dev-starter-pack-10-tools-to-build-your-startup-free-1fip)
+- [Thoughts on AI Beating CAPTHCA](https://dev.to/mirswe/thoughts-on-ai-beating-capthca-1k94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
