@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging DevStack](https://dev.to/ndutared/debugging-devstack-9pe)
-- [Top 3 Free Web Development Courses with Certificate](https://dev.to/kaja_uvais_a8691e947dd399/top-3-free-web-development-courses-with-certificate-194j)
-- [Better - An AI powered Code Reviewer GitHub Action](https://dev.to/murtuzaalisurti/better-an-ai-powered-code-reviewer-github-action-2n28)
-- [How to Create a Robust Ubuntu Web Server Using Apache, MySQL, PHP, and Virtual Hosts](https://dev.to/codewithashim/how-to-create-a-robust-ubuntu-web-server-using-apache-mysql-php-and-virtual-hosts-4i74)
-- [A Tale of Two Employees: Hard Work vs. Consistency](https://dev.to/justinw7/a-tale-of-two-employees-hard-work-vs-consistency-25fj)
+- [State Management in React Using MobX State Tree &lpar;MST&rpar;](https://dev.to/khairahscorner/state-management-in-react-using-mobx-state-tree-mst-4mmc)
+- [How to make logs useful?](https://dev.to/isma/how-to-make-logs-useful-3b9a)
+- [Securing AWS Lambda Functions Best Practices and Strategies](https://dev.to/ikoh_sylva/securing-aws-lambda-functions-best-practices-and-strategies-2ecj)
+- [The 6 Principles of Microservices Architecture](https://dev.to/raphaeldelio/the-6-principles-of-microservices-architecture-17ng)
+- [ice age](https://dev.to/maco_laco_689d539c41c4b96/ice-age-2j8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
