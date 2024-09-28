@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Complexity Pro: Conquering Multi-File Support and Error Chaos!](https://dev.to/msaluja/code-complexity-pro-conquering-multi-file-support-and-error-chaos-78f)
-- [Shell Scripting Mastery: 5 Essential Labs for Aspiring Developers](https://dev.to/labex/shell-scripting-mastery-5-essential-labs-for-aspiring-developers-3h3l)
-- [Creating Temporary URLs for Local Files in Laravel](https://dev.to/kachkolasa/creating-temporary-urls-for-local-files-in-laravel-15o9)
-- [Understanding Git Merge](https://dev.to/mayankpareek/understanding-git-merge-4lc2)
-- [How to Set Up MySQL to Autostart on macOS: A Step-by-Step Guide for Developers](https://dev.to/manojspace/autostarting-mysql-on-macos-a-comprehensive-guide-1ikm)
+- [If You Can Answer These 7 Concepts Correctly, You’re Decent at .NET](https://dev.to/ssukhpinder/if-you-can-answer-these-7-concepts-correctly-youre-decent-at-net-2le4)
+- [Unleashing the Power of Google&#39;s Vertex AI Prompt Optimizer](https://dev.to/agagag/unleashing-the-power-of-googles-vertex-ai-prompt-optimizer-3860)
+- [libaloo &lpar;Aloo&rpar;](https://dev.to/bhjaipal/libaloo-aloo-2aba)
+- [Introduction to V0: Vercel’s UI Generative AI Framework](https://dev.to/gimkelum/introduction-to-v0-vercels-ui-generative-ai-framework-4315)
+- [Mastering the Mysteries of JavaScript Syntax: Discover the Secrets Behind These Symbols](https://dev.to/hoainhoblogdev/mastering-the-mysteries-of-javascript-syntax-discover-the-secrets-behind-these-symbols-3f37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
