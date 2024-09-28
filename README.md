@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A NEW Quiz is out: JavaScript Hoisting and Scope Quiz](https://dev.to/areeb_anwar_813df06ee1124/a-new-quiz-is-out-javascript-hoisting-and-scope-quiz-5972)
-- [AWS CLOUD SECURITY BASICS](https://dev.to/omodan/aws-cloud-security-basics-ea3)
-- [Mastering C# Fundamentals: Basics of Strings](https://dev.to/moh_moh701/mastering-c-fundamentals-basics-of-strings-4622)
-- [Color Blindness Test](https://dev.to/babar_ali/color-blindness-test-al7)
-- [[Part 2] If You Can Answer These 7 Questions Correctly, You’re a Decent Developer](https://dev.to/ssukhpinder/part-2-if-you-can-answer-these-7-questions-correctly-youre-a-decent-developer-3662)
+- [Kickstarting My DevOps Journey with TrainWithShubham’s Zero to Hero Course](https://dev.to/singh_in_cloud/kickstarting-my-devops-journey-with-trainwithshubhams-zero-to-hero-course-4o83)
+- [Data masking in PL/SQL](https://dev.to/mrcaption49/data-masking-in-plsql-3i25)
+- [BULK COLLECT in PL/SQL](https://dev.to/mrcaption49/bulk-collect-in-plsql-34hc)
+- [A Importância da Qualidade de Software na Era da Inteligência Artificial e Automação](https://dev.to/womakerscode/a-importancia-da-qualidade-de-software-na-era-da-inteligencia-artificial-e-automacao-1cc2)
+- [The Battle of the MSTs: Prim, Kruskal, and Borůvka Duke It Out for Supremacy!](https://dev.to/bhavya_jha/the-battle-of-the-msts-prim-kruskal-and-boruvka-duke-it-out-for-supremacy-3npe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
