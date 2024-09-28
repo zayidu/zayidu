@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [State Management in React Using MobX State Tree &lpar;MST&rpar;](https://dev.to/khairahscorner/state-management-in-react-using-mobx-state-tree-mst-4mmc)
-- [How to make logs useful?](https://dev.to/isma/how-to-make-logs-useful-3b9a)
-- [Securing AWS Lambda Functions Best Practices and Strategies](https://dev.to/ikoh_sylva/securing-aws-lambda-functions-best-practices-and-strategies-2ecj)
-- [The 6 Principles of Microservices Architecture](https://dev.to/raphaeldelio/the-6-principles-of-microservices-architecture-17ng)
-- [ice age](https://dev.to/maco_laco_689d539c41c4b96/ice-age-2j8d)
+- [C# Design Pattern: Prototype &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-prototype-portugues-201)
+- [C# Design Pattern: Prototype](https://dev.to/juarezasjunior/c-design-pattern-prototype-2io1)
+- [Integrating the get_time_ago Package in Flutter: A Comprehensive Guide](https://dev.to/nixrajput/integrating-the-gettimeago-package-in-flutter-a-comprehensive-guide-1a8k)
+- [Hello World!](https://dev.to/byte_sized/hello-world-hai)
+- [Understanding Genkit flows with Czech language tricks](https://dev.to/denisvalasek/understanding-genkit-flows-with-czech-language-tricks-26i3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
