@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kickstarting My DevOps Journey with TrainWithShubham’s Zero to Hero Course](https://dev.to/singh_in_cloud/kickstarting-my-devops-journey-with-trainwithshubhams-zero-to-hero-course-4o83)
-- [Data masking in PL/SQL](https://dev.to/mrcaption49/data-masking-in-plsql-3i25)
-- [BULK COLLECT in PL/SQL](https://dev.to/mrcaption49/bulk-collect-in-plsql-34hc)
-- [A Importância da Qualidade de Software na Era da Inteligência Artificial e Automação](https://dev.to/womakerscode/a-importancia-da-qualidade-de-software-na-era-da-inteligencia-artificial-e-automacao-1cc2)
-- [The Battle of the MSTs: Prim, Kruskal, and Borůvka Duke It Out for Supremacy!](https://dev.to/bhavya_jha/the-battle-of-the-msts-prim-kruskal-and-boruvka-duke-it-out-for-supremacy-3npe)
+- [Deploying a Monitoring Stack with Kubernetes, Helm, and Ingress](https://dev.to/seewhy/deploying-a-monitoring-stack-with-kubernetes-helm-and-ingress-cp5)
+- [Mastering C# Fundamentals: Creating Objects](https://dev.to/moh_moh701/mastering-c-fundamentals-creating-objects-p1m)
+- [Mastering C# Fundamentals: Introduction to Classes](https://dev.to/moh_moh701/mastering-c-fundamentals-introduction-to-classes-o4p)
+- [BadMapPolyfill in React Source Code.](https://dev.to/thinkthroo/badmappolyfill-in-react-source-code-4dnd)
+- [Day 19. 1 percent](https://dev.to/kiolk/day-19-1-percent-5ek9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
