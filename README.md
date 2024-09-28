@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Computing: Why Developers Need to Start Paying Attention](https://dev.to/hikolakita/quantum-computing-why-developers-need-to-start-paying-attention-30e1)
-- [Convert your Figma design to code using Dualite](https://dev.to/dualitedev/convert-your-figma-design-to-code-using-dualite-4leh)
-- [YT for Coding Prep](https://dev.to/sarthakkarora/yt-for-coding-prep-4kjk)
-- [Understanding Maximum Width Classes in Tailwind CSS](https://dev.to/susheel_kumar/understanding-maximum-width-classes-in-tailwind-css-59fe)
-- [Top Hacktoberfest Projects to Contribute to in 2024](https://dev.to/jaysaadana/top-hacktoberfest-projects-to-contribute-to-in-2024-1811)
+- [useActionState: Streamlining React Form State Management 🔄](https://dev.to/charliesay/useactionstate-streamlining-react-form-state-management-f1e)
+- [I created a free CDN for social media icons](https://dev.to/shubhamjain/i-created-a-free-cdn-for-social-media-icons-3kik)
+- [Container Queries in CSS](https://dev.to/gajendra/container-queries-in-css-3o6a)
+- [Kargo - promote your application changes in a controlled &lpar;GitOps&rpar; way!](https://dev.to/krzwiatrzyk/kargo-promote-your-application-changes-in-a-controlled-gitops-way-31ib)
+- [Semi-Supervised Domain Generalization: Robust Pseudo-Labeling for Unseen Domains](https://dev.to/mikeyoung44/semi-supervised-domain-generalization-robust-pseudo-labeling-for-unseen-domains-1l2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
