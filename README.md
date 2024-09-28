@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sign Canvas](https://dev.to/prince_beec5ccde00b7c6c73/sign-canvas-28aj)
-- [Digging Deep Into Docker; A Step-by-Step Guide For Begginers](https://dev.to/romanus_onyekwere/digging-deep-into-docker-a-step-by-step-guide-for-begginers-5co7)
-- [Local Development Server for AWS SAM Lambda Projects](https://dev.to/kuba_szw/local-development-server-for-aws-sam-lambda-projects-2dn2)
-- [WordPress Conflict: What’s Happening Between WordPress.org and WP Engine?](https://dev.to/mrdanishsaleem/wordpress-conflict-whats-happening-between-wordpressorg-and-wp-engine-521b)
-- [can&#39;t access let before initialization?](https://dev.to/i_am_advait/cant-access-let-before-initialization-2ifp)
+- [FIX | MacOS Error ! | Alacritty can’t be opened because Apple cannot check it for malicious software](https://dev.to/shihabdotdev/fix-macos-error-alacritty-cant-be-opened-because-apple-cannot-check-it-for-malicious-software-4b69)
+- [Transform Text to Image for Free with Hugging Face](https://dev.to/kiraaziz/transform-text-to-image-for-free-with-hugging-face-15lk)
+- [27 Powerful Built-in Terraform Functions to Enhance Your Workflow](https://dev.to/sre_panchanan/27-powerful-built-in-terraform-functions-to-enhance-your-workflow-3be0)
+- [Space Invaders - Alien Attack 🌌👾 web game](https://dev.to/omprakash2929/space-invaders-alien-attack-web-game-2fog)
+- [How to Build a Single Page Application &lpar;SPA&rpar; with React](https://dev.to/seyedahmaddv/how-to-build-a-single-page-application-spa-with-react-285)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
