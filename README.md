@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Testable Facade in Laravel](https://dev.to/clintwinter/creating-a-testable-facade-in-laravel-55ei)
-- [Pacotes e o Acesso a Membros](https://dev.to/devsjavagirls/pacotes-e-o-acesso-a-membros-1gif)
-- [Google Directions Script](https://dev.to/max_kleiner_9d12e786b3ecc/google-directions-script-31ee)
-- [Exemplo Breve de Pacote](https://dev.to/devsjavagirls/exemplo-breve-de-pacote-4khd)
-- [rnr: The Tool That Speaks Every Project run scripts](https://dev.to/sujit-shrc/rnr-the-tool-that-speaks-every-project-run-scripts-35kb)
+- [Top 10 weird JavaScript behaviors](https://dev.to/raulpenate/top-10-weird-js-behaviours-that-you-need-to-know-200b)
+- [Laravel CRUD&lpar;Create Read Update and Delete&rpar; Notes](https://dev.to/kogena6100/laravel-crudcreate-read-update-and-delete-notes-aei)
+- [Unlocking the Power of **Switch Statements** 🎛️](https://dev.to/alwaysaman/unlocking-the-power-of-switch-statements-3l94)
+- [CTE](https://dev.to/mrcaption49/cte-30oo)
+- [Experimento de Expansão da Consciência com Inteligências Artificiais](https://dev.to/gurigraphics/experimento-de-expansao-da-consciencia-com-inteligencias-artificiais-1bmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
