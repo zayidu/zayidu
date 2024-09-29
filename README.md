@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Functions in PL/SQL](https://dev.to/mrcaption49/functions-in-plsql-2h61)
-- [Procedure in PLSQL](https://dev.to/mrcaption49/procedure-in-plsql-3832)
-- [From Zero to Hero: A Beginner&#39;s Guide to Building Web Apps with the MERN Stack](https://dev.to/samuel_idowu_6/from-zero-to-hero-a-beginners-guide-to-building-web-apps-with-the-mern-stack-hec)
-- [JavaScript Data Types](https://dev.to/sumayaakter533/javascript-data-types-4i2h)
-- [Strategies for enhancing the security and compliance of healthcare applications through efficient development workflows](https://dev.to/marufhossain/strategies-for-enhancing-the-security-and-compliance-of-healthcare-applications-through-efficient-development-workflows-36l3)
+- [Nuke: Deploy Helm package locally &lpar;special guest, GitVersion&rpar;](https://dev.to/raulnq/nuke-deploy-helm-package-locally-special-guest-gitversion-efo)
+- [Why Java in 2024](https://dev.to/xaviernishanth/why-java-in-2024-1b14)
+- [Mastering Python Project Management with uv Part1: It&#39;s Time to Ditch Poetry](https://dev.to/thomas_bury_b1a50c1156cbf/mastering-python-project-management-with-uv-part1-its-time-to-ditch-poetry-3bi0)
+- [Formal and Actual parameters in Stored Procedure in PLSQL](https://dev.to/mrcaption49/formal-and-actual-parameters-in-stored-procedure-in-plsql-27fg)
+- [The Rise of Virtual Influencers Powered by AI](https://dev.to/learnwithmohit/the-rise-of-virtual-influencers-powered-by-ai-4bh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
