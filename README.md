@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using LLaMA Models with Groq: A Beginner&#39;s Guide](https://dev.to/mohitb_twt/using-llama-models-with-groq-a-beginners-guide-173f)
-- [Event Listeners - One Byte Explainer](https://dev.to/hikolakita/event-listeners-one-byte-explainer-3dgm)
-- [Understanding the Concept of Scoping in CSS](https://dev.to/bilkeesu96/understanding-the-concept-of-scoping-in-css-1m9g)
-- [Your Life in Weeks](https://dev.to/gauravkrp/your-life-in-weeks-228b)
-- [The Concept of Designing Retrospective](https://dev.to/csohei/the-concept-of-designing-retrospective-5do8)
+- [My post post](https://dev.to/sourabh7iwari_39/my-post-post-1o74)
+- [Concurrencia en AWS Lambda](https://dev.to/kcatucuamba/concurrencia-en-aws-lambda-ap2)
+- [Mastering Conditional Expressions in Terraform](https://dev.to/sre_panchanan/mastering-conditional-expressions-in-terraform-11a2)
+- [Merge Two Sorted Lists](https://dev.to/seokjeon/merge-two-sorted-lists-4dkp)
+- [C# Design Pattern: ObjectPool &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-objectpool-portugues-dnd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
