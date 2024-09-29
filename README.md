@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Answer: Shopify GraphQL API Pagination Stuck in Infinite Loop with Same `endCursor`](https://dev.to/nirmalsankalana/answer-shopify-graphql-api-pagination-stuck-in-infinite-loop-with-same-endcursor-3b4c)
-- [Neural Networks - One Byte Explainer](https://dev.to/pragadeeshnehru/neural-networks-one-byte-explainer-2cki)
-- [Are you sure You can get 90%+ score?](https://dev.to/areeb_anwar_813df06ee1124/are-you-sure-you-can-get-90-score-108h)
-- [GRU in PyTorch](https://dev.to/hyperkai/gru-in-pytorch-4l7d)
-- [[Part 3] If You Can Answer These Additional 7 Questions Correctly, You’re Decent at .NET](https://dev.to/ssukhpinder/part-3-if-you-can-answer-these-additional-7-questions-correctly-youre-decent-at-net-30on)
+- [Positional Encoding: Adding Sequence Awareness to Transformers](https://dev.to/nareshnishad/positional-encoding-adding-sequence-awareness-to-transformers-24pg)
+- [Make yourself remarkable](https://dev.to/gabrielski/make-yourself-remarkable-3fe6)
+- [A video summary app using just nextjs + sqlite](https://dev.to/martin2844/a-video-summary-app-using-just-nextjs-sqlite-271m)
+- [Indexing in SQL](https://dev.to/mrcaption49/indexing-in-sql-b8m)
+- [Basic of Docker](https://dev.to/indrasen_9d014cf224a46c4a/basic-of-docker-315c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
