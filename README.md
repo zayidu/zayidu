@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DAILY COMMUNITY: A New Social Network Every Single Day!](https://dev.to/web4/daily-community-a-new-social-network-every-single-day-m53)
-- [The Home Server Journey - 5: Rebuilding Burned Bridges](https://dev.to/ancapepe/the-home-server-journey-5-rebuilding-burned-bridges-6n7)
-- [My Journey into Web Development](https://dev.to/davidcole/my-journey-into-web-development-21kc)
-- [[Web Game Challenge]: Alien Invasion: Developer&#39;s Call](https://dev.to/maurerkrisztian/web-game-challenge-alien-invasion-developers-call-13gn)
-- [[Jornada a física computacional] - Dia 1](https://dev.to/matheusgb/jornada-a-fisica-computacional-dia-1-2ph7)
+- [Come learn the basics of Python with me starting with Variables](https://dev.to/abeck617/come-learn-the-basics-of-python-with-me-starting-with-variables-8co)
+- [TIL: Understanding Design Ideation](https://dev.to/apatel-ai/til-understanding-design-ideation-4a0a)
+- [432. All O`one Data Structure](https://dev.to/mdarifulhaque/432-all-oone-data-structure-5374)
+- [Coletando e Tratando os Dados Climáticos do INMET-BDMEP](https://dev.to/dankkom/coletando-e-tratando-os-dados-climaticos-do-inmet-bdmep-1f8l)
+- [Styling Choices and Why](https://dev.to/annavi11arrea1/styling-choices-and-why-3dh5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
