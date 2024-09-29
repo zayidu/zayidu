@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Block-Level Elements VS Inline Elements](https://dev.to/sudhanshu_developer/block-level-elements-vs-inline-elements-4noj)
-- [Cursor in PLSQL - Best Explanation](https://dev.to/mrcaption49/cursor-in-plsql-best-explanation-413l)
-- [Isolate Workloads with Kubernetes Namespaces](https://dev.to/labex/isolate-workloads-with-kubernetes-namespaces-25g8)
-- [Escape the Mothership](https://dev.to/decoders_lord/escape-the-mothership-2cd4)
-- [Where Should I Start with Cybersecurity](https://dev.to/carrie_luo1/safeline-waf-best-anti-bot-tool-ever-1661)
+- [Handling JWT Authentications Securely: Pitfalls and Best Practices](https://dev.to/saaransh_gupta_1903/handling-jwt-authentications-securely-pitfalls-and-best-practices-j94)
+- [Free Lunch? Nah, Just Free Gas&quot;: The Art of Sponsoring Transactions on Aptos](https://dev.to/atharva3000/free-lunch-nah-just-free-gas-the-art-of-sponsoring-transactions-on-aptos-2bhl)
+- [Unlock the Blockchain: A Comprehensive Journey](https://dev.to/getvm/unlock-the-blockchain-a-comprehensive-journey-4ncp)
+- [15+ Top React Header Components to use in 2024](https://dev.to/tailwindcss/15-top-react-header-components-to-use-in-2024-2adk)
+- [SCSS: Managing Color Palettes](https://dev.to/tailwine/scss-managing-color-palettes-2kpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
