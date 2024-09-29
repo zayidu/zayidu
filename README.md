@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamline Keyper CI/CD Pipeline with Keyper&#39;s Github Action](https://dev.to/jarrid/streamline-keyper-cicd-pipeline-with-keypers-github-action-hbc)
-- [Hello Everyone Out There Using LaTeX -](https://dev.to/crisclacerda/hello-everyone-out-there-using-latex--3344)
-- [&#39;EventTarget&#39; is not assignable to parameter of type &#39;Node&#39;](https://dev.to/turingvangisms/eventtarget-is-not-assignable-to-parameter-of-type-node-231c)
-- [i made a website to track AI open source developers and project](https://dev.to/jamie_h/i-made-a-website-to-track-ai-open-source-developers-and-project-1iik)
-- [Search-35. Search Insert Position](https://dev.to/daniel20030312/search-35-search-insert-position-1g5g)
+- [Block-Level Elements VS Inline Elements](https://dev.to/sudhanshu_developer/block-level-elements-vs-inline-elements-4noj)
+- [Cursor in PLSQL - Best Explanation](https://dev.to/mrcaption49/cursor-in-plsql-best-explanation-413l)
+- [Isolate Workloads with Kubernetes Namespaces](https://dev.to/labex/isolate-workloads-with-kubernetes-namespaces-25g8)
+- [Escape the Mothership](https://dev.to/decoders_lord/escape-the-mothership-2cd4)
+- [Where Should I Start with Cybersecurity](https://dev.to/carrie_luo1/safeline-waf-best-anti-bot-tool-ever-1661)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
