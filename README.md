@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nuke: Deploy Helm package locally &lpar;special guest, GitVersion&rpar;](https://dev.to/raulnq/nuke-deploy-helm-package-locally-special-guest-gitversion-efo)
-- [Why Java in 2024](https://dev.to/xaviernishanth/why-java-in-2024-1b14)
-- [Mastering Python Project Management with uv Part1: It&#39;s Time to Ditch Poetry](https://dev.to/thomas_bury_b1a50c1156cbf/mastering-python-project-management-with-uv-part1-its-time-to-ditch-poetry-3bi0)
-- [Formal and Actual parameters in Stored Procedure in PLSQL](https://dev.to/mrcaption49/formal-and-actual-parameters-in-stored-procedure-in-plsql-27fg)
-- [The Rise of Virtual Influencers Powered by AI](https://dev.to/learnwithmohit/the-rise-of-virtual-influencers-powered-by-ai-4bh9)
+- [How to automatically create S3 lifecycles using AWS CLI and AWS SDK](https://dev.to/haintkit/how-to-automatically-create-s3-lifecycles-using-aws-cli-and-aws-sdk-3kib)
+- [Welcome to My Cybersecurity Journey: A Beginner’s Guide to Cybersecurity](https://dev.to/akansh_pandeyap_041d5b/welcome-to-my-cybersecurity-journey-a-beginners-guide-to-cybersecurity-2e98)
+- [My Journey to DP-900 &amp; DP-203 Certifications](https://dev.to/sphesihle_ndlovu/my-journey-to-dp-900-dp-203-certifications-4chj)
+- [How to learn HTML: 46 great sites, courses and books &lpar;all free&rpar;](https://dev.to/cfried/how-to-learn-html-46-great-sites-courses-and-books-all-free-h2a)
+- [Spectre.Console helpers](https://dev.to/karenpayneoregon/spectreconsole-helpers-3ml3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
