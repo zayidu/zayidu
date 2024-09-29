@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Streamline Keyper CI/CD Pipeline with Keyper&#39;s Github Action](https://dev.to/jarrid/streamline-keyper-cicd-pipeline-with-keypers-github-action-hbc)
 - [Hello Everyone Out There Using LaTeX -](https://dev.to/crisclacerda/hello-everyone-out-there-using-latex--3344)
 - [&#39;EventTarget&#39; is not assignable to parameter of type &#39;Node&#39;](https://dev.to/turingvangisms/eventtarget-is-not-assignable-to-parameter-of-type-node-231c)
 - [i made a website to track AI open source developers and project](https://dev.to/jamie_h/i-made-a-website-to-track-ai-open-source-developers-and-project-1iik)
 - [Search-35. Search Insert Position](https://dev.to/daniel20030312/search-35-search-insert-position-1g5g)
-- [Collections.nCopies method in Java](https://dev.to/realnamehidden1_61/collectionsncopies-method-in-java-2gan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
