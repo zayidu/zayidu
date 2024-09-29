@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build ReAct Agents using SLMs from Scratch](https://dev.to/akshayballal/build-react-agents-using-slms-from-scratch-4877)
-- [GBase 8a MPP Cluster Performance Optimization](https://dev.to/congcong/gbase-8a-mpp-cluster-performance-optimization-2hoa)
-- [Top 5 Features of Apidog That Outshine Postman](https://dev.to/apilover/top-5-features-of-apidog-that-outshine-postman-3ol1)
-- [Mastering React: A Step-by-Step Journey to Building Powerful Web Applications &lpar;Introduction&rpar;](https://dev.to/harshanalk/mastering-react-a-step-by-step-journey-to-building-powerful-web-applications-introduction-2111)
-- [21st Century HTML5 Tags That Make Your Life Easier](https://dev.to/techelopment/21st-century-html5-tags-that-make-your-life-easier-51ej)
+- [Using LLaMA Models with Groq: A Beginner&#39;s Guide](https://dev.to/mohitb_twt/using-llama-models-with-groq-a-beginners-guide-173f)
+- [Event Listeners - One Byte Explainer](https://dev.to/hikolakita/event-listeners-one-byte-explainer-3dgm)
+- [Understanding the Concept of Scoping in CSS](https://dev.to/bilkeesu96/understanding-the-concept-of-scoping-in-css-1m9g)
+- [Your Life in Weeks](https://dev.to/gauravkrp/your-life-in-weeks-228b)
+- [The Concept of Designing Retrospective](https://dev.to/csohei/the-concept-of-designing-retrospective-5do8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
