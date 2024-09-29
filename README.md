@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Positional Encoding: Adding Sequence Awareness to Transformers](https://dev.to/nareshnishad/positional-encoding-adding-sequence-awareness-to-transformers-24pg)
-- [Make yourself remarkable](https://dev.to/gabrielski/make-yourself-remarkable-3fe6)
-- [A video summary app using just nextjs + sqlite](https://dev.to/martin2844/a-video-summary-app-using-just-nextjs-sqlite-271m)
-- [Indexing in SQL](https://dev.to/mrcaption49/indexing-in-sql-b8m)
-- [Basic of Docker](https://dev.to/indrasen_9d014cf224a46c4a/basic-of-docker-315c)
+- [🚀 Mastering AWS S3 with the CLI: A Simple Guide to Creating &amp; Managing Buckets 💻](https://dev.to/elmorjanimohamed/mastering-aws-s3-with-the-cli-a-simple-guide-to-creating-managing-buckets-42k)
+- [Binary Encoding: The Key to Computer Communication](https://dev.to/ebad8931/binary-encoding-the-key-to-computer-communication-1kc)
+- [Getting Smart About AI](https://dev.to/banta/getting-smart-about-ai-2nhe)
+- [Navigation Lens](https://dev.to/babar_ali/navigation-lens-57je)
+- [Mastering C# Fundamentals: Struct](https://dev.to/moh_moh701/mastering-c-fundamentals-struct-5cec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
