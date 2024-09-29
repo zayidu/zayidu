@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Disable HTML codes without deleting](https://dev.to/yasminsardar/how-to-disable-html-codes-without-deleting-48fm)
-- [Continuous Testing in DevOps: Best Practices](https://dev.to/aswani25/continuous-testing-in-devops-best-practices-4mha)
-- [How to Become a Software Architect](https://dev.to/marrouchi/how-to-become-a-software-architect-4ci0)
-- [StudyHelper - my new pet project&lpar;Telegram bot&rpar;](https://dev.to/mezgoodle/studyhelper-my-new-pet-projecttelegram-bot-3f41)
-- [One Byte Explainer](https://dev.to/ahiyankabir13/submission-1m0k)
+- [Functions in PL/SQL](https://dev.to/mrcaption49/functions-in-plsql-2h61)
+- [Procedure in PLSQL](https://dev.to/mrcaption49/procedure-in-plsql-3832)
+- [From Zero to Hero: A Beginner&#39;s Guide to Building Web Apps with the MERN Stack](https://dev.to/samuel_idowu_6/from-zero-to-hero-a-beginners-guide-to-building-web-apps-with-the-mern-stack-hec)
+- [JavaScript Data Types](https://dev.to/sumayaakter533/javascript-data-types-4i2h)
+- [Strategies for enhancing the security and compliance of healthcare applications through efficient development workflows](https://dev.to/marufhossain/strategies-for-enhancing-the-security-and-compliance-of-healthcare-applications-through-efficient-development-workflows-36l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
