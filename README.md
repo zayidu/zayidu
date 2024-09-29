@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Next-Gen Technologies Secretly Shaping the Future &lpar;But Nobody Knows About Yet&rpar; 🚀🔬](https://dev.to/lokesh_singh/10-next-gen-technologies-secretly-shaping-the-future-but-nobody-knows-about-yet-2719)
-- [CVE Search Tools](https://dev.to/ugo/cve-search-tools-44oe)
-- [O - Open/Closed Principle &lpar;OCP&rpar;](https://dev.to/nozibul_islam_113b1d5334f/o-openclosed-principle-ocp-g3l)
-- [Comparing Open-Source LLMs like Hugging Face Transformers with Closed Platforms](https://dev.to/kafkaflow/comparing-open-source-llms-like-hugging-face-transformers-with-closed-platforms-54fc)
-- [TryHackMe.com Mr. Robot Walkthrough](https://dev.to/hax/tryhackmecom-mr-robot-walkthrough-2bdm)
+- [Automated Website Hacking Tool](https://dev.to/trixsec/automated-website-hacking-tool-5ab3)
+- [Masking in SQL](https://dev.to/mrcaption49/masking-in-sql-45i7)
+- [Should you use 3rd party AI services or build your own as an AI Developer?](https://dev.to/ngtduc693/should-you-use-3rd-party-ai-services-or-build-your-own-as-an-ai-developer-540k)
+- [What are OSI Model and HTTP Request for Beginners](https://dev.to/carrie_luo1/what-are-osi-model-and-http-request-for-beginners-1cae)
+- [Reverse Rows in a Text File #eg51](https://dev.to/esproc_spl/reverse-rows-in-a-text-file-eg51-48j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
