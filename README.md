@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stringifying Errors: A Uniquely Javascript Problem](https://dev.to/evanskaufman/stringifying-errors-a-uniquely-javascript-problem-12b)
-- [Building a valid JWT Claims Set](https://dev.to/sigje/building-a-valid-jwt-claims-set-4l58)
-- [LabEx Trending: Implementing Caesar Cipher Encryption and More](https://dev.to/labex/labex-trending-implementing-caesar-cipher-encryption-and-more-4e0g)
-- [Hello WORLD! &lpar;FSCSS&rpar;](https://dev.to/lmcss/hello-world-fscss-22pj)
-- [Launching our very first product: Uniqrate](https://dev.to/damcosset/launching-our-very-first-product-uniqrate-4gn5)
+- [Hello Everyone Out There Using LaTeX -](https://dev.to/crisclacerda/hello-everyone-out-there-using-latex--3344)
+- [&#39;EventTarget&#39; is not assignable to parameter of type &#39;Node&#39;](https://dev.to/turingvangisms/eventtarget-is-not-assignable-to-parameter-of-type-node-231c)
+- [i made a website to track AI open source developers and project](https://dev.to/jamie_h/i-made-a-website-to-track-ai-open-source-developers-and-project-1iik)
+- [Search-35. Search Insert Position](https://dev.to/daniel20030312/search-35-search-insert-position-1g5g)
+- [Collections.nCopies method in Java](https://dev.to/realnamehidden1_61/collectionsncopies-method-in-java-2gan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
