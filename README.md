@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#01 - How to learn Git from scratch](https://dev.to/brunodevphp/how-to-learn-git-from-scratch-3eh1)
-- [Introduction to AWS S3 Remote Backend with Terraform](https://dev.to/sre_panchanan/introduction-to-aws-s3-remote-backend-with-terraform-28i7)
-- [Building a Jupyter Notebook Environment in Docker for Data Analysis on AWS EC2](https://dev.to/zahraajawad/building-a-jupyter-notebook-environment-in-docker-for-data-analysis-on-aws-ec2-376i)
-- [Mastering C# Fundamentals :Memory Management and Garbage Collection](https://dev.to/moh_moh701/mastering-c-fundamentals-memory-management-and-garbage-collection-25k4)
-- [How to implement oAuth with PKCE for third-party integration in react](https://dev.to/konfydev/how-to-implement-oauth-with-pkce-for-third-party-integration-in-react-3jc3)
+- [Breakthrough!!](https://dev.to/raveenaa_m_df8e2d38bd1352/breakthrough-4ac9)
+- [GCP Global Infrastructure](https://dev.to/2nguyenlong000k/gcp-global-infrastructure-44k6)
+- [Boletín AWS Open Source, September Edition](https://dev.to/iaasgeek/boletin-aws-open-source-september-edition-3ca2)
+- [Grow your JavaScript skills with the IBM Full-Stack JavaScript Developer Professional Certificate on Coursera!](https://dev.to/ibmdeveloper/grow-your-javascript-skills-with-the-ibm-full-stack-javascript-developer-professional-certificate-on-coursera-5cke)
+- [Tes](https://dev.to/devtaehong/tes-2jf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
