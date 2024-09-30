@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Promises vs. Async/Await: What&#39;s the Difference?🤔](https://dev.to/ajitkushawaha/promises-vs-asyncawait-whats-the-difference-2hh2)
-- [PCA vs. t-SNE: Unveiling the Best Dimensionality Reduction Technique for Your Data](https://dev.to/sreeni5018/pca-vs-t-sne-unveiling-the-best-dimensionality-reduction-technique-for-your-data-ekc)
-- [XKCD App](https://dev.to/armadillomike/xkcd-app-2mjl)
-- [Why Traditional Bake Times Are Wasteful: Embrace Purposeful Baking with Model-Based Testing](https://dev.to/boris_burakovski_c7420552/why-traditional-bake-times-are-wasteful-embrace-purposeful-baking-with-model-based-testing-3287)
-- [Building Code Grader Feedback System Using Meta LLaMA and Naga AI API](https://dev.to/rajendrakhanal/building-code-grader-feedback-system-using-meta-llama-and-naga-ai-api-194n)
+- [10 Best API Tools for QA Engineers](https://dev.to/apilover/top-10-api-tools-every-qa-engineer-should-know-about-4alc)
+- [Mis primeras 3 lecciones como Arquitecto de Soluciones](https://dev.to/boceto1/mis-primeras-3-lecciones-como-arquitecto-de-soluciones-38g)
+- [Provide storage for the IT department testing and training](https://dev.to/emmanuel_cobham/provide-storage-for-the-it-department-testing-and-training-301e)
+- [CTE](https://dev.to/mrcaption49/cte-3jhp)
+- [Virtual tables in SQL - Views, Materialized View, Global Temporary Table and Inline View](https://dev.to/mrcaption49/virtual-tables-in-sql-views-materialized-view-global-temporary-table-and-inline-view-3coh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
