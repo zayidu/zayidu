@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Data Structures and Algorithms: The Quest Begins](https://dev.to/emmanuelayinde/introduction-to-data-structures-and-algorithms-the-quest-begins-26jn)
-- [How User Manipulation Can Affect Google’s Advertising Model](https://dev.to/aashwinkumar/how-user-manipulation-can-affect-googles-advertising-model-jji)
-- [Day-3: Linux user management and permissions](https://dev.to/mahhbubferdous/day-3-linux-user-management-and-permissions-22ee)
-- [Streamlining AWS Secret Management: A Bash Script for Efficient onboarding of secrets into pipeline](https://dev.to/vijay431/streamlining-aws-secret-management-a-bash-script-for-efficient-onboarding-of-secrets-into-pipeline-422d)
-- [How to Enable HTTP Errors Service IIS in Windows 11](https://dev.to/winsides/how-to-enable-http-errors-service-iis-in-windows-11-2ldi)
+- [Go Basics: Why nil Slices accept new values, but nil Maps don&#39;t](https://dev.to/sai7xp/go-basics-why-nil-slices-accept-new-values-but-nil-maps-dont-23l0)
+- [eBPF Development Practice: Modifying System Call Arguments with eBPF](https://dev.to/yunwei37/ebpf-development-practice-modifying-system-call-arguments-with-ebpf-2ill)
+- [AIM Weekly from 30 September 2024](https://dev.to/tspannhw/aim-weekly-from-30-september-2024-143b)
+- [Update de BIOS no Linux](https://dev.to/0xjeanpierre/update-de-bios-no-linux-9nc)
+- [Building an ERC721 NFT Contract with Solidity](https://dev.to/sumana10/building-an-erc721-nft-contract-with-solidity-jaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
