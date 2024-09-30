@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-20jg)
-- [OpenAI’s Financial Growth and Challenges](https://dev.to/grenishrai/openais-financial-growth-and-challenges-4ib5)
-- [C# Design Pattern: Adapter &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-adapter-portugues-1l97)
-- [C# Design Pattern: Adapter](https://dev.to/juarezasjunior/c-design-pattern-adapter-3jf4)
-- [Typing Effect Animation](https://dev.to/babar_ali/typing-effect-animation-94n)
+- [15 Tips for .NET 8 Microservices Performance Optimization](https://dev.to/viitorcloud/15-tips-for-net-8-microservices-performance-optimization-1b16)
+- [Observable emits synchronous value in the toSignal function with the requireSync option](https://dev.to/railsstudent/observable-emits-synchronous-value-in-the-tosignal-function-with-the-requiresync-option-2nlk)
+- [Creating a Virtual Machine in Azure](https://dev.to/tjasper/creating-a-virtual-machine-in-azure-3gch)
+- [How To add a Telegram chat button to your blog](https://dev.to/babar_ali/how-to-add-a-telegram-chat-button-to-your-blog-7aj)
+- [🚀 Boosting TPC-H Q2 Query Performance by 1000x times: PawSQL Optimization Techniques](https://dev.to/pawsql/boosting-tpc-h-q2-query-performance-by-1000x-times-pawsql-optimization-techniques-4hdb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
