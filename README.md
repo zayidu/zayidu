@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Reality of Balancing Pregnancy in Developer Relations](https://dev.to/blackgirlbytes/the-reality-of-balancing-pregnancy-in-developer-relations-2anp)
-- [Yoo Devs, Where’s Your Old Laptop?](https://dev.to/teejayredex/yoo-devs-wheres-your-old-laptop-41c2)
-- [How I Hacked Large Language Models&lpar;LLMs&rpar; Using Prompt Injection &lpar;And It Worked&rpar;](https://dev.to/fotiecodes/how-i-hacked-large-language-modelsllms-using-prompt-injection-and-it-worked-34jm)
-- [Environments in GitHub &lpar;with example of Next.js deployment to Vercel&rpar;](https://dev.to/nausaf/environments-in-github-with-example-of-nextjs-deployment-to-vercel-3hmm)
-- [Install Ubuntu on WSL 2](https://dev.to/prastha/install-ubuntu-on-wsl-2-3fei)
+- [PCA vs. t-SNE: Unveiling the Best Dimensionality Reduction Technique for Your Data](https://dev.to/sreeni5018/pca-vs-t-sne-unveiling-the-best-dimensionality-reduction-technique-for-your-data-ekc)
+- [XKCD App](https://dev.to/armadillomike/xkcd-app-2mjl)
+- [Why Traditional Bake Times Are Wasteful: Embrace Purposeful Baking with Model-Based Testing](https://dev.to/boris_burakovski_c7420552/why-traditional-bake-times-are-wasteful-embrace-purposeful-baking-with-model-based-testing-3287)
+- [Building Code Grader Feedback System Using Meta LLaMA and Naga AI API](https://dev.to/rajendrakhanal/building-code-grader-feedback-system-using-meta-llama-and-naga-ai-api-194n)
+- [Need Help! php server](https://dev.to/wasim_shakir5/need-help-php-server-37lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
