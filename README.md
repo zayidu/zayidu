@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RailsDesigners.com: Elite Ruby on Rails Product Engineers &amp; UI Designers](https://dev.to/railsdesigner/railsdesignerscom-elite-ruby-on-rails-product-engineers-ui-designers-1ihp)
-- [Hiring Superstitions: Things that aren’t a thing](https://dev.to/adatole/hiring-superstitions-things-that-arent-a-thing-1pep)
-- [What are your goals for week 40? HacktoberFest!](https://dev.to/jarvisscript/what-are-your-goals-for-week-40-hacktoberfest-58df)
-- [Mantine UI: A Complete Guide to Building Modern Web Interfaces](https://dev.to/codeparrot/mantine-ui-a-complete-guide-to-building-modern-web-interfaces-5bk2)
-- [A practical Guide - Migrating to Next.js App Router](https://dev.to/shagun/a-practical-guide-migrating-to-nextjs-app-router-3j5i)
+- [Bridging Machine Learning with TensorFlow: From Python to JavaScript](https://dev.to/garciadiazjaime/bridging-machine-learning-with-tensorflow-from-python-to-javascript-25hp)
+- [EC2 Essentials: Your Gateway to Cloud Computing](https://dev.to/lindiwe09/ec2-essentials-your-gateway-to-cloud-computing-12lh)
+- [Don&#39;t use i18next ❌😢](https://dev.to/nevodavid/dont-use-i18next-n1a)
+- [Building a simple RAG agent with LlamaIndex](https://dev.to/vivekalhat/building-a-simple-rag-agent-with-llamaindex-4c6k)
+- [How to Use Knowledge Distillation to Create Smaller, Faster LLMs?](https://dev.to/hakeem/how-to-use-knowledge-distillation-to-create-smaller-faster-llms-1np6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
