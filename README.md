@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Not to Do in Power Apps](https://dev.to/wyattdave/what-not-to-do-in-power-apps-4a9l)
-- [Intro to the Vue Framework](https://dev.to/sandrockjustin/intro-to-the-vue-framework-3k7i)
-- [دليل خطوة بخطوة للإدارة الفعالة لـ Kubernetes باستخدام cdk8s](https://dev.to/aws-3arabi/dlyl-khtw-bkhtw-lldr-lfl-l-kubernetes-bstkhdm-cdk8s-1a0a)
-- [Unlocking Opportunities in Python Freelancing with Pangaea X](https://dev.to/pangaea_x/unlocking-opportunities-in-python-freelancing-with-pangaea-x-1ede)
-- [Units for Values in CSS](https://dev.to/gajendra/units-for-values-in-css-1eh3)
+- [React Concurrent Mode: Optimizing React Performance](https://dev.to/usman_awan/react-concurrent-mode-optimizing-react-performance-1dn0)
+- [Explore bootstrap 5 components](https://dev.to/codeparrot/explore-bootstrap-5-components-24m3)
+- [JUST: do it](https://dev.to/giuliano1993/just-do-it-321a)
+- [PostgreSQL and DbVisualizer for Better Inventory Management](https://dev.to/dbvismarketing/postgresql-and-dbvisualizer-for-better-inventory-management-2k6h)
+- [Improving Performance of PostgreSQL queries](https://dev.to/jacobandrewsky/improving-performance-of-postgresql-queries-1h7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
