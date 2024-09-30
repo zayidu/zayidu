@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Basics: Why nil Slices accept new values, but nil Maps don&#39;t](https://dev.to/sai7xp/go-basics-why-nil-slices-accept-new-values-but-nil-maps-dont-23l0)
-- [eBPF Development Practice: Modifying System Call Arguments with eBPF](https://dev.to/yunwei37/ebpf-development-practice-modifying-system-call-arguments-with-ebpf-2ill)
-- [AIM Weekly from 30 September 2024](https://dev.to/tspannhw/aim-weekly-from-30-september-2024-143b)
-- [Update de BIOS no Linux](https://dev.to/0xjeanpierre/update-de-bios-no-linux-9nc)
-- [Building an ERC721 NFT Contract with Solidity](https://dev.to/sumana10/building-an-erc721-nft-contract-with-solidity-jaa)
+- [So You Need to Give a Talk...](https://dev.to/abbeyperini/so-you-need-to-give-a-talk-30b4)
+- [Understanding Data Schemas](https://dev.to/chaets/understanding-data-schemas-2a0o)
+- [Maintaining Throughput With Less Physical Connections](https://dev.to/yugabyte/maintaining-throughput-with-less-physical-connections-3f32)
+- [Setting up helix with rust on Alpine](https://dev.to/tinkertinker/setting-up-helix-with-rust-on-alpine-2ech)
+- [[Part 4] If You Can Answer These Additional 7 Questions Correctly, You’re Decent at .NET](https://dev.to/ssukhpinder/part-4-if-you-can-answer-these-additional-7-questions-correctly-youre-decent-at-net-41f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
