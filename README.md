@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Jornada à física computacional] - Dia 2 / Iniciando estudos em C++](https://dev.to/matheusgb/jornada-a-fisica-computacional-dia-2-24k1)
-- [Como utilizar o Type aliases do Kotlin para facilitar o Design de Código](https://dev.to/jordihofc/como-utilizar-o-type-aliases-do-kotlin-para-facilitar-o-design-de-codigo-5baj)
-- [Pengenalan Laravel](https://dev.to/razqaa_fcfe19aee879ffd75a/pengenalan-laravel-3hif)
-- [Top Hacktoberfest Projects to Contribute to in 2024!🚀](https://dev.to/kalpeshb/top-hacktoberfest-projects-to-contribute-to-in-2024-d44)
-- [CodePen: Skeleton Card](https://dev.to/wptricksdk/codepen-skeleton-card-185n)
+- [Introduction to Data Structures and Algorithms: The Quest Begins](https://dev.to/emmanuelayinde/introduction-to-data-structures-and-algorithms-the-quest-begins-26jn)
+- [How User Manipulation Can Affect Google’s Advertising Model](https://dev.to/aashwinkumar/how-user-manipulation-can-affect-googles-advertising-model-jji)
+- [Day-3: Linux user management and permissions](https://dev.to/mahhbubferdous/day-3-linux-user-management-and-permissions-22ee)
+- [Streamlining AWS Secret Management: A Bash Script for Efficient onboarding of secrets into pipeline](https://dev.to/vijay431/streamlining-aws-secret-management-a-bash-script-for-efficient-onboarding-of-secrets-into-pipeline-422d)
+- [How to Enable HTTP Errors Service IIS in Windows 11](https://dev.to/winsides/how-to-enable-http-errors-service-iis-in-windows-11-2ldi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
