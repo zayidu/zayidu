@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging Machine Learning with TensorFlow: From Python to JavaScript](https://dev.to/garciadiazjaime/bridging-machine-learning-with-tensorflow-from-python-to-javascript-25hp)
-- [EC2 Essentials: Your Gateway to Cloud Computing](https://dev.to/lindiwe09/ec2-essentials-your-gateway-to-cloud-computing-12lh)
-- [Don&#39;t use i18next ❌😢](https://dev.to/nevodavid/dont-use-i18next-n1a)
-- [Building a simple RAG agent with LlamaIndex](https://dev.to/vivekalhat/building-a-simple-rag-agent-with-llamaindex-4c6k)
-- [How to Use Knowledge Distillation to Create Smaller, Faster LLMs?](https://dev.to/hakeem/how-to-use-knowledge-distillation-to-create-smaller-faster-llms-1np6)
+- [[Jornada à física computacional] - Dia 2 / Iniciando estudos em C++](https://dev.to/matheusgb/jornada-a-fisica-computacional-dia-2-24k1)
+- [Como utilizar o Type aliases do Kotlin para facilitar o Design de Código](https://dev.to/jordihofc/como-utilizar-o-type-aliases-do-kotlin-para-facilitar-o-design-de-codigo-5baj)
+- [Pengenalan Laravel](https://dev.to/razqaa_fcfe19aee879ffd75a/pengenalan-laravel-3hif)
+- [Top Hacktoberfest Projects to Contribute to in 2024!🚀](https://dev.to/kalpeshb/top-hacktoberfest-projects-to-contribute-to-in-2024-d44)
+- [CodePen: Skeleton Card](https://dev.to/wptricksdk/codepen-skeleton-card-185n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
