@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [So You Need to Give a Talk...](https://dev.to/abbeyperini/so-you-need-to-give-a-talk-30b4)
-- [Understanding Data Schemas](https://dev.to/chaets/understanding-data-schemas-2a0o)
-- [Maintaining Throughput With Less Physical Connections](https://dev.to/yugabyte/maintaining-throughput-with-less-physical-connections-3f32)
-- [Setting up helix with rust on Alpine](https://dev.to/tinkertinker/setting-up-helix-with-rust-on-alpine-2ech)
-- [[Part 4] If You Can Answer These Additional 7 Questions Correctly, You’re Decent at .NET](https://dev.to/ssukhpinder/part-4-if-you-can-answer-these-additional-7-questions-correctly-youre-decent-at-net-41f8)
+- [#30DaysofCode September: My journey to DSA Mastery](https://dev.to/akcumeh/30daysofcode-september-my-journey-to-dsa-mastery-647)
+- [Axios vs Fetch](https://dev.to/doccaio/axios-vs-fetch-53j8)
+- [Day 21. Pagination](https://dev.to/kiolk/day-21-pagination-ohj)
+- [Axios vs Fetch](https://dev.to/doccaio/axios-vs-fetch-1k1k)
+- [We started Building Jam to share what it&#39;s like at our startup 🎧](https://dev.to/jamdotdev/we-started-building-jam-to-share-what-its-like-at-our-startup-5fjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
