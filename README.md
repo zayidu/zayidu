@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of AI on Coding and Development: Will the Trend Continue?](https://dev.to/content/the-impact-of-ai-on-coding-and-development-will-the-trend-continue-54ch)
-- [🍏 If I Got a New Mac, Here&#39;s What I&#39;d Install First as a DevOps Engineer 🧑‍💻](https://dev.to/ptuladhar3/if-i-got-a-new-mac-heres-what-id-install-first-as-a-devops-engineer-3nec)
-- [Monday Motivation: Turning the Page](https://dev.to/gregharis/monday-motivation-turning-the-page-5f4i)
-- [5 tools to Complement Your Tax Workflow](https://dev.to/him_tyagi/5-tools-to-complement-your-tax-workflow-4ja2)
-- [The Beginner&#39;s Guide to Understand TCP/IP Protocol](https://dev.to/carrie_luo1/the-beginners-guide-to-understand-tcpip-protocol-349o)
+- [Troubleshooting GBase 8c Database Scaling Failure](https://dev.to/congcong/troubleshooting-gbase-8c-database-scaling-failure-25f9)
+- [On Python&#39;s @property decorator](https://dev.to/tmarice/on-pythons-property-decorator-el5)
+- [The Software Sensei System](https://dev.to/cheetah100/the-software-sensei-system-462k)
+- [How Semantic Analysis Works in SafeLine WAF](https://dev.to/carrie_luo1/how-semantic-analysis-works-in-safeline-waf-nk9)
+- [Machine Coding Round — What &amp; How to Crack It](https://dev.to/tutortacademy/machine-coding-round-what-how-to-crack-it-59d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
