@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#30DaysofCode September: My journey to DSA Mastery](https://dev.to/akcumeh/30daysofcode-september-my-journey-to-dsa-mastery-647)
-- [Axios vs Fetch](https://dev.to/doccaio/axios-vs-fetch-53j8)
-- [Day 21. Pagination](https://dev.to/kiolk/day-21-pagination-ohj)
-- [Axios vs Fetch](https://dev.to/doccaio/axios-vs-fetch-1k1k)
-- [We started Building Jam to share what it&#39;s like at our startup 🎧](https://dev.to/jamdotdev/we-started-building-jam-to-share-what-its-like-at-our-startup-5fjd)
+- [#01 - How to learn Git from scratch](https://dev.to/brunodevphp/how-to-learn-git-from-scratch-3eh1)
+- [Introduction to AWS S3 Remote Backend with Terraform](https://dev.to/sre_panchanan/introduction-to-aws-s3-remote-backend-with-terraform-28i7)
+- [Building a Jupyter Notebook Environment in Docker for Data Analysis on AWS EC2](https://dev.to/zahraajawad/building-a-jupyter-notebook-environment-in-docker-for-data-analysis-on-aws-ec2-376i)
+- [Mastering C# Fundamentals :Memory Management and Garbage Collection](https://dev.to/moh_moh701/mastering-c-fundamentals-memory-management-and-garbage-collection-25k4)
+- [How to implement oAuth with PKCE for third-party integration in react](https://dev.to/konfydev/how-to-implement-oauth-with-pkce-for-third-party-integration-in-react-3jc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
