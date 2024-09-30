@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Handle the Startup Class When Migrating ASP.NET Core Projects](https://dev.to/canro91/how-to-handle-the-startup-class-when-migrating-aspnet-core-projects-12n7)
-- [Creating a GitHub Copilot Extension: A Step-by-Step Guide](https://dev.to/nickytonline/creating-your-first-github-copilot-extension-a-step-by-step-guide-28g0)
-- [Using Quill Rich Text Editor in the HTML Form element](https://dev.to/kohtet_gintoki/using-quill-rich-text-editor-in-the-html-form-element-2bh8)
-- [Integration Testing in React: Best Practices with Testing Library](https://dev.to/imyusufakhtar/integration-testing-in-react-best-practices-with-testing-library-4akp)
-- [Unit Testing React Components with Jest](https://dev.to/imyusufakhtar/unit-testing-react-components-with-jest-5h48)
+- [What Not to Do in Power Apps](https://dev.to/wyattdave/what-not-to-do-in-power-apps-4a9l)
+- [Intro to the Vue Framework](https://dev.to/sandrockjustin/intro-to-the-vue-framework-3k7i)
+- [دليل خطوة بخطوة للإدارة الفعالة لـ Kubernetes باستخدام cdk8s](https://dev.to/aws-3arabi/dlyl-khtw-bkhtw-lldr-lfl-l-kubernetes-bstkhdm-cdk8s-1a0a)
+- [Unlocking Opportunities in Python Freelancing with Pangaea X](https://dev.to/pangaea_x/unlocking-opportunities-in-python-freelancing-with-pangaea-x-1ede)
+- [Units for Values in CSS](https://dev.to/gajendra/units-for-values-in-css-1eh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
