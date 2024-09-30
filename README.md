@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshooting GBase 8c Database Scaling Failure](https://dev.to/congcong/troubleshooting-gbase-8c-database-scaling-failure-25f9)
-- [On Python&#39;s @property decorator](https://dev.to/tmarice/on-pythons-property-decorator-el5)
-- [The Software Sensei System](https://dev.to/cheetah100/the-software-sensei-system-462k)
-- [How Semantic Analysis Works in SafeLine WAF](https://dev.to/carrie_luo1/how-semantic-analysis-works-in-safeline-waf-nk9)
-- [Machine Coding Round — What &amp; How to Crack It](https://dev.to/tutortacademy/machine-coding-round-what-how-to-crack-it-59d6)
+- [How AI became my secret weapon for faster learning 🧠⚡️](https://dev.to/fullstacktanmay/how-ai-became-my-secret-weapon-for-faster-learning-23ni)
+- [Why I don&#39;t specify pronouns](https://dev.to/asmyshlyaev177/why-i-dont-specify-pronouns-4chj)
+- [The Challenges and Rewards of Front-End Development](https://dev.to/nicholaswinst14/the-challenges-and-rewards-of-front-end-development-7p4)
+- [Mastering State Management in React: A Guide to useContext and useReducer Hooks](https://dev.to/efkumah/mastering-state-management-in-react-a-guide-to-usecontext-and-usereducer-hooks-31nc)
+- [Laravel Http Client Overview and Monitoring](https://dev.to/inspector/laravel-http-client-overview-and-monitoring-479g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
