@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Concurrent Mode: Optimizing React Performance](https://dev.to/usman_awan/react-concurrent-mode-optimizing-react-performance-1dn0)
-- [Explore bootstrap 5 components](https://dev.to/codeparrot/explore-bootstrap-5-components-24m3)
-- [JUST: do it](https://dev.to/giuliano1993/just-do-it-321a)
-- [PostgreSQL and DbVisualizer for Better Inventory Management](https://dev.to/dbvismarketing/postgresql-and-dbvisualizer-for-better-inventory-management-2k6h)
-- [Improving Performance of PostgreSQL queries](https://dev.to/jacobandrewsky/improving-performance-of-postgresql-queries-1h7o)
+- [The Impact of AI on Coding and Development: Will the Trend Continue?](https://dev.to/content/the-impact-of-ai-on-coding-and-development-will-the-trend-continue-54ch)
+- [🍏 If I Got a New Mac, Here&#39;s What I&#39;d Install First as a DevOps Engineer 🧑‍💻](https://dev.to/ptuladhar3/if-i-got-a-new-mac-heres-what-id-install-first-as-a-devops-engineer-3nec)
+- [Monday Motivation: Turning the Page](https://dev.to/gregharis/monday-motivation-turning-the-page-5f4i)
+- [5 tools to Complement Your Tax Workflow](https://dev.to/him_tyagi/5-tools-to-complement-your-tax-workflow-4ja2)
+- [The Beginner&#39;s Guide to Understand TCP/IP Protocol](https://dev.to/carrie_luo1/the-beginners-guide-to-understand-tcpip-protocol-349o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
