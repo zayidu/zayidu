@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Breakthrough!!](https://dev.to/raveenaa_m_df8e2d38bd1352/breakthrough-4ac9)
-- [GCP Global Infrastructure](https://dev.to/2nguyenlong000k/gcp-global-infrastructure-44k6)
-- [Boletín AWS Open Source, September Edition](https://dev.to/iaasgeek/boletin-aws-open-source-september-edition-3ca2)
-- [Grow your JavaScript skills with the IBM Full-Stack JavaScript Developer Professional Certificate on Coursera!](https://dev.to/ibmdeveloper/grow-your-javascript-skills-with-the-ibm-full-stack-javascript-developer-professional-certificate-on-coursera-5cke)
-- [Tes](https://dev.to/devtaehong/tes-2jf4)
+- [6 Underrated Developer Tools That Will Blow Your Mind](https://dev.to/safdarali/6-underrated-developer-tools-that-will-blow-your-mind-3e35)
+- [🚀 Mastering AWS Interoperability: Why Amazon S3 is Essential for DevOps Success](https://dev.to/francotel/mastering-aws-interoperability-why-amazon-s3-is-essential-for-devops-success-466h)
+- [React Meets Disney: Unveiling the Magic of Hooks | The Tale of useState](https://dev.to/parnikagupta/react-meets-disney-unveiling-the-magic-of-hooks-the-tale-of-usestate-4omi)
+- [🎬 Video - WebForms Core Technology Retires React, Vue and Angular](https://dev.to/elanatframework/video-webforms-core-technology-retires-react-vue-and-angular-216n)
+- [Running a SaaS Business: What does it take? &lpar;feat. Rodion Telpizov&rpar;](https://dev.to/vpalania/running-a-saas-business-what-does-it-take-feat-rodion-telpizov-39nk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
