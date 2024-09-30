@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best API Tools for QA Engineers](https://dev.to/apilover/top-10-api-tools-every-qa-engineer-should-know-about-4alc)
-- [Mis primeras 3 lecciones como Arquitecto de Soluciones](https://dev.to/boceto1/mis-primeras-3-lecciones-como-arquitecto-de-soluciones-38g)
-- [Provide storage for the IT department testing and training](https://dev.to/emmanuel_cobham/provide-storage-for-the-it-department-testing-and-training-301e)
-- [CTE](https://dev.to/mrcaption49/cte-3jhp)
-- [Virtual tables in SQL - Views, Materialized View, Global Temporary Table and Inline View](https://dev.to/mrcaption49/virtual-tables-in-sql-views-materialized-view-global-temporary-table-and-inline-view-3coh)
+- [How to Handle the Startup Class When Migrating ASP.NET Core Projects](https://dev.to/canro91/how-to-handle-the-startup-class-when-migrating-aspnet-core-projects-12n7)
+- [Creating a GitHub Copilot Extension: A Step-by-Step Guide](https://dev.to/nickytonline/creating-your-first-github-copilot-extension-a-step-by-step-guide-28g0)
+- [Using Quill Rich Text Editor in the HTML Form element](https://dev.to/kohtet_gintoki/using-quill-rich-text-editor-in-the-html-form-element-2bh8)
+- [Integration Testing in React: Best Practices with Testing Library](https://dev.to/imyusufakhtar/integration-testing-in-react-best-practices-with-testing-library-4akp)
+- [Unit Testing React Components with Jest](https://dev.to/imyusufakhtar/unit-testing-react-components-with-jest-5h48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
