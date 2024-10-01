@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bhupesh Singh Nitwal Web Developer](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-web-developer-3ofg)
-- [How to Create Custom Git Commands on Windows](https://dev.to/dmitry-koleev/how-to-create-a-custom-git-commands-on-windows-4e93)
-- [A Deep Dive into REST and Microservice Architecture for Salesforce by Chirag](https://dev.to/mariliatirachi62/a-deep-dive-into-rest-and-microservice-architecture-for-salesforce-by-chirag-24jb)
-- [Nextjs vs React](https://dev.to/turingvangisms/nextjs-vs-react-4035)
-- [How to get past Sub::Defer in the Perl debugger](https://dev.to/zaphoddont/how-to-get-past-subdefer-in-the-perl-debugger-39g7)
+- [Back to sq1: My basic HTML template](https://dev.to/mbarzeev/back-to-sq1-my-basic-html-template-4kbb)
+- [Creating a synchronized store between main and renderer process in Electron](https://dev.to/tsudhishnair/creating-a-synchronized-store-between-main-and-renderer-process-in-electron-5ao1)
+- [The Best Tools for Building CRUD Applications](https://dev.to/scand/the-best-tools-for-building-crud-applications-mh1)
+- [Python&#39;s Integer Precision is Infinite](https://dev.to/graphpe/pythons-integer-precision-is-infinite-420h)
+- [How Does Angular SEO Work and Why Is It Important?](https://dev.to/parthprajapatispan/how-does-angular-seo-work-and-why-is-it-important-i4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
