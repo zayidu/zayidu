@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dia 3 - Garbage collector e .h](https://dev.to/matheusgb/dia-3-garbage-collector-e-h-16o3)
-- [LeetCode #1. Two Sum](https://dev.to/hectorw_tt/leetcode-1-two-sum-3hp3)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-hi6)
-- [Vue3: directives — cheat sheet &lpar;built-in and custom&rpar; &lpar;en&rpar;](https://dev.to/sucodelarangela/vue3-directives-cheat-sheet-built-in-and-custom-en-35mh)
-- [csPlayer: A Customizable YouTube Video Player for Your Projects](https://dev.to/ashutosh_dev/csplayer-a-customizable-youtube-video-player-for-your-projects-3gmi)
+- [LLM Coder Scorer：一个免费的 GitHub 代码打分工具](https://dev.to/twillot_app/llm-coder-scorer-ge-mian-fei-de-github-dai-ma-da-fen-gong-ju-1n66)
+- [queueMicroTask in JavaScript](https://dev.to/thinkthroo/queuemicrotask-in-javascript-11a8)
+- [Named Calling Notations in PLSQL](https://dev.to/mrcaption49/named-calling-notations-in-plsql-5bk9)
+- [Hatırlamak İçin useState: Değişkenlerinizi React’in Hafızasında Saklayın!](https://dev.to/sonaykara/hatirlamak-icin-usestate-degiskenlerinizi-reactin-hafizasinda-saklayin-eil)
+- [Why You Should Be Using HTTPS for Every Website](https://dev.to/ishanbagchi/why-you-should-be-using-https-for-every-website-j4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
