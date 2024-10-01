@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Coder Scorer：一个免费的 GitHub 代码打分工具](https://dev.to/twillot_app/llm-coder-scorer-ge-mian-fei-de-github-dai-ma-da-fen-gong-ju-1n66)
-- [queueMicroTask in JavaScript](https://dev.to/thinkthroo/queuemicrotask-in-javascript-11a8)
-- [Named Calling Notations in PLSQL](https://dev.to/mrcaption49/named-calling-notations-in-plsql-5bk9)
-- [Hatırlamak İçin useState: Değişkenlerinizi React’in Hafızasında Saklayın!](https://dev.to/sonaykara/hatirlamak-icin-usestate-degiskenlerinizi-reactin-hafizasinda-saklayin-eil)
-- [Why You Should Be Using HTTPS for Every Website](https://dev.to/ishanbagchi/why-you-should-be-using-https-for-every-website-j4g)
+- [Redis caching with Mongoose](https://dev.to/ayanabilothman/redis-caching-with-mongoose-g5m)
+- [Supercharge Your ASP.NET Web API with Linq.Dynamic.Core](https://dev.to/penielx/supercharge-your-aspnet-web-api-with-linqdynamiccore-hml)
+- [Password Authentication with Auth.js in Astro and Customizing Session Information &lpar;auth-astro&rpar;](https://dev.to/koyopro/password-authentication-with-authjs-in-astro-and-customizing-session-information-auth-astro-1n4n)
+- [Congrats to the Winners of Our First Web Game Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-web-game-challenge-32co)
+- [Changing Foreign Key Constraints in PostgreSQL: A Step-by-Step Guide](https://dev.to/sajidurshajib/changing-foreign-key-constraints-in-postgresql-a-step-by-step-guide-3kak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
