@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Storage Solutions for Launching a New Company App](https://dev.to/tjasper/storage-solutions-for-launching-a-new-company-app-3aak)
-- [How to integrate Alerta into your Business](https://dev.to/vincentayorinde/how-to-integrate-alerta-into-your-business-2f4p)
-- [The Best Twitter Bookmarks Extension in 2025](https://dev.to/twillot_app/the-best-twitter-bookmarks-extension-in-2025-33ko)
-- [Forward SMS to Webhook with iPhone Shortcut Automations](https://dev.to/noha1337/forward-sms-to-webhook-with-iphone-shortcut-automations-4d6)
-- [How to install pterodactyl on oracle instance](https://dev.to/kokofixcomputers/how-to-install-pterodactyl-on-oracle-instance-4mf3)
+- [Dia 3 - Garbage collector e .h](https://dev.to/matheusgb/dia-3-garbage-collector-e-h-16o3)
+- [LeetCode #1. Two Sum](https://dev.to/hectorw_tt/leetcode-1-two-sum-3hp3)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-hi6)
+- [Vue3: directives — cheat sheet &lpar;built-in and custom&rpar; &lpar;en&rpar;](https://dev.to/sucodelarangela/vue3-directives-cheat-sheet-built-in-and-custom-en-35mh)
+- [csPlayer: A Customizable YouTube Video Player for Your Projects](https://dev.to/ashutosh_dev/csplayer-a-customizable-youtube-video-player-for-your-projects-3gmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
