@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog Post 2: TypeScript Basics and Our First POS Component](https://dev.to/krishankant/log-post-1-introduction-to-typescript-and-our-restaurant-pos-project-49ai)
-- [WordPress là gì? Tìm hiểu nền tảng tạo website phổ biến nhất hiện nay](https://dev.to/webkinhdoanh/wordpress-la-gi-tim-hieu-nen-tang-tao-website-pho-bien-nhat-hien-nay-1f35)
-- [Post 1: Introduction to TypeScript and Our Restaurant POS Project](https://dev.to/krishankant/post-1-introduction-to-typescript-and-our-restaurant-pos-project-4ogf)
-- [Cómo Utilizar el API Experimental de AI en Chrome](https://dev.to/marianocodes/como-utilizar-el-api-experimental-de-ai-en-chrome-3c4m)
-- [Transform Your Business with Azure AI 🚀](https://dev.to/hasanul_banna_himel/transform-your-business-with-azure-ai-5j4)
+- [Build a Simple Link Checker Tool with HTML, CSS, and JavaScript](https://dev.to/babar_ali/build-a-simple-link-checker-tool-with-html-css-and-javascript-204c)
+- [Simplified: Javascript V8 engine ✨](https://dev.to/fullstacktanmay/simplified-javascript-v8-engine-249o)
+- [Say Hello to Flutter GPT: Your New Flutter Development Buddy 🚀](https://dev.to/sinnoorc/say-hello-to-flutter-gpt-your-new-flutter-development-buddy-3gl)
+- [💡 How JavaScript Works Under the Hood: A Fun Dive Into the Magic ✨](https://dev.to/fullstacktanmay/how-javascript-works-under-the-hood-a-fun-dive-into-the-magic-2o6o)
+- [React Meets Disney: Unveiling the Magic of Hooks | The Tale of useState](https://dev.to/parnikagupta/react-meets-disney-unveiling-the-magic-of-hooks-the-tale-of-usestate-56b0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
