@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to improve DORA metrics as a release engineer](https://dev.to/aviator_co/how-to-improve-dora-metrics-as-a-release-engineer-4and)
-- [Locking Mechanisms in High-Load Systems](https://dev.to/luminousmen/locking-mechanisms-in-high-load-systems-4jo3)
-- [Types of SSL Certificates](https://dev.to/shivamchamoli18/types-of-ssl-certificates-195c)
-- [Email Workflow Automation 101: Templates, Tools, and Best Practices](https://dev.to/idjuric660/email-workflow-automation-101-templates-tools-and-best-practices-1mna)
-- [JavaScript Essentials: Part 2](https://dev.to/otumianempire/javascript-essentials-part-2-3k6j)
+- [C# Design Pattern: Bridge &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-bridge-portugues-3136)
+- [C# Design Pattern: Bridge](https://dev.to/juarezasjunior/c-design-pattern-bridge-4ak6)
+- [Intro to RAG, improving LLMs](https://dev.to/busycaesar/intro-to-rag-solving-llm-limitations-1b7n)
+- [C# Design Pattern: Composite](https://dev.to/juarezasjunior/c-design-pattern-composite-376)
+- [Boost Your Workflow with Smartclip – A Versatile Launcher for Developers](https://dev.to/muelphil/boost-your-workflow-with-smartclip-a-versatile-launcher-for-developers-5a42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
