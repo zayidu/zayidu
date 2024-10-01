@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chat GPT === hell ?](https://dev.to/ankit_rattan/chat-gpt-hell--26dn)
-- [Why Your SaaS Emails Aren’t Being Delivered and How to Fix This Issue](https://dev.to/wasp/why-your-saas-emails-arent-being-delivered-and-how-to-fix-this-issue-3cdi)
-- [You want Fancy Fonts on you website: Fancy Font Generator](https://dev.to/areeb_anwar_813df06ee1124/you-want-fancy-fonts-on-you-website-fancy-font-generator-55gd)
-- [Using Drones and AI to Monitor Plant Health in Agriculture](https://dev.to/gregjones/using-drones-and-ai-to-monitor-plant-health-in-agriculture-4g8a)
-- [Cuando te rechazan por tu nivel de inglés](https://dev.to/jagedn/cuando-te-rechazan-por-tu-nivel-de-ingles-25a8)
+- [Storage Solutions for Launching a New Company App](https://dev.to/tjasper/storage-solutions-for-launching-a-new-company-app-3aak)
+- [How to integrate Alerta into your Business](https://dev.to/vincentayorinde/how-to-integrate-alerta-into-your-business-2f4p)
+- [The Best Twitter Bookmarks Extension in 2025](https://dev.to/twillot_app/the-best-twitter-bookmarks-extension-in-2025-33ko)
+- [Forward SMS to Webhook with iPhone Shortcut Automations](https://dev.to/noha1337/forward-sms-to-webhook-with-iphone-shortcut-automations-4d6)
+- [How to install pterodactyl on oracle instance](https://dev.to/kokofixcomputers/how-to-install-pterodactyl-on-oracle-instance-4mf3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
