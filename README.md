@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Manage User Authentication in React.js, Next.js, Vue.js, and Nuxt.js Using Clerk](https://dev.to/hramonpereira/how-to-manage-user-authentication-in-reactjs-nextjs-vuejs-and-nuxtjs-using-clerk-136l)
-- [Handling Transactions Without Breaking Service-Adapter Decoupling in Hexagonal Architecture with Golang](https://dev.to/2nguyenlong000k/handling-transactions-without-breaking-service-adapter-decoupling-in-hexagonal-architecture-with-golang-5ce1)
-- [Zoom recording to S3 using an AWS Lambda](https://dev.to/germanescobar/zoom-recording-to-s3-using-an-aws-lambda-1lo9)
-- [How to make a quick and pretty PureScript web app](https://dev.to/zelenya/how-to-make-a-quick-and-pretty-purescript-web-app-4cl4)
-- [How Project Ideas Can Come From Anywhere - My Open Source Daily Puzzle Game](https://dev.to/oia20/how-project-ideas-can-come-from-anywhere-my-open-source-daily-puzzle-game-56a0)
+- [Language Feature Deep Dive: Python&#39;s Structural Pattern Matching](https://dev.to/ratan_3511/language-feature-deep-dive-pythons-structural-pattern-matching-3ap4)
+- [Introduction to Genkit: Empowering AI Development with Firebase](https://dev.to/ankit_kumarverma_86a4f3d/introduction-to-genkit-empowering-ai-development-with-firebase-5dpc)
+- [Stay Updated with Python/FastAPI/Django: Weekly News Summary &lpar;23/09/2024-29/09/2024](https://dev.to/poovarasu/stay-updated-with-pythonfastapidjango-weekly-news-summary-23092024-29092024-2b)
+- [Artificial Intelligence and Sustainability](https://dev.to/lolafarias/artificial-intelligence-and-sustainability-4faf)
+- [Tech Stack Showdown: Comparing Popular Technologies for Developers](https://dev.to/ratan_3511/tech-stack-showdown-comparing-popular-technologies-for-developers-4c2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
