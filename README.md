@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How does Apache Kafka work? Why is Kafka So fast?](https://dev.to/somadevtoo/how-does-apache-kafka-work-why-is-kafka-so-fast-463i)
-- [Import CSV to Google Sheets... without the Sheets API?!?](https://dev.to/wescpy/import-csv-to-google-sheets-without-the-sheets-api-20g1)
-- [My Cloud Journey — Week 11: Identity and Security!](https://dev.to/asif_khan/my-cloud-journey-week-11-identity-and-security-l8g)
-- [Tudo o que você precisa saber sobre a arquitetura BEM CSS](https://dev.to/lixeletto/tudo-o-que-voce-precisa-saber-sobre-a-arquitetura-bem-css-415)
-- [My Cloud Journey — Week 10: Learning about EC2 and Pricing Models](https://dev.to/asif_khan/my-cloud-journey-week-10-learning-about-ec2-and-pricing-models-4dfp)
+- [Building a User Feedback Form with Svelte and Perseid](https://dev.to/axi0m/building-a-user-feedback-form-with-svelte-and-perseid-30d5)
+- [Learn How to Creating a 3D Tesla Car Configurator with React, NextJS, and TypeScript: Part 1](https://dev.to/rajesh_edayangatt_a3d8f94/learn-how-to-creating-a-3d-tesla-car-configurator-with-react-nextjs-and-typescript-part-1-4c52)
+- [Provide storage for a new company app](https://dev.to/afeez_adeyemo/provide-storage-for-a-new-company-app-1j7a)
+- [Leveraging Amazon Bedrock Agents for Comprehensive Business Solutions in Telecom and Beyond](https://dev.to/sahil_krishnani_5333e2b7c/leveraging-amazon-bedrock-agents-for-comprehensive-business-solutions-in-telecom-and-beyond-1cf3)
+- [Mongogrator - a MongoDB migration tool for TS &amp; JS](https://dev.to/tepinly/mongogrator-a-mongodb-migration-tool-for-ts-js-205l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
