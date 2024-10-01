@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Survey: C to Rust conversion and corresponding tools](https://dev.to/ayushi_sharma_4351fd303a7/survey-c-to-rust-conversion-and-corresponding-tools-1mge)
-- [10 HTML Features You Need to Know](https://dev.to/tinymce/10-html-features-you-need-to-know-5de7)
-- [Čuvanje Podataka u JavaScript-u](https://dev.to/jelena_petkovic/cuvanje-podataka-u-javascript-u-5hka)
-- [HacktoberFest: Feel free to contribute to my open source project.](https://dev.to/saahen_sriyan_mishra/hacktoberfest-feel-free-to-contribute-to-my-open-source-project-5fmi)
-- [Introducing Ivee in Beta or the story of databases UX](https://dev.to/spronin/introducing-ivee-in-beta-or-the-story-of-databases-ux-11el)
+- [Chat GPT === hell ?](https://dev.to/ankit_rattan/chat-gpt-hell--26dn)
+- [Why Your SaaS Emails Aren’t Being Delivered and How to Fix This Issue](https://dev.to/wasp/why-your-saas-emails-arent-being-delivered-and-how-to-fix-this-issue-3cdi)
+- [You want Fancy Fonts on you website: Fancy Font Generator](https://dev.to/areeb_anwar_813df06ee1124/you-want-fancy-fonts-on-you-website-fancy-font-generator-55gd)
+- [Using Drones and AI to Monitor Plant Health in Agriculture](https://dev.to/gregjones/using-drones-and-ai-to-monitor-plant-health-in-agriculture-4g8a)
+- [Cuando te rechazan por tu nivel de inglés](https://dev.to/jagedn/cuando-te-rechazan-por-tu-nivel-de-ingles-25a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
