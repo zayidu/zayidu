@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [APIs for Concurrent Rendering in React: Optimizing Asynchronous UI Updates](https://dev.to/usman_awan/apis-for-concurrent-rendering-in-react-optimizing-asynchronous-ui-updates-1eig)
-- [The quiet, pervasive devaluation of frontend](https://dev.to/cadienvan/the-quiet-pervasive-devaluation-of-frontend-26h7)
-- [10 AI Assistants for Frontend Developers That Will Change the Way You Code](https://dev.to/astrodevil/10-ai-assistants-for-frontend-developers-that-will-change-the-way-you-code-3fh4)
-- [MoonAlert A CSS Animated Moon Notification Box](https://dev.to/babar_ali/moonalert-a-css-animated-moon-notification-box-jl9)
-- [✨🗳️ JavaScript Variables: 17 Quick Questions You Need To Master](https://dev.to/_ndeyefatoudiop/javascript-variables-17-quick-questions-you-need-to-master-ie3)
+- [Jenkins File Read Vulnerability - CVE-2024-23897](https://dev.to/verylazytech/jenkins-file-read-vulnerability-cve-2024-23897-1f31)
+- [DBConcurrency with EF Core](https://dev.to/ben-witt/dbconcurrency-with-ef-core-e02)
+- [Unleash Your HTML Mastery: The &#39;Machine Learning Practice Challenges&#39; Course](https://dev.to/labex/unleash-your-html-mastery-the-machine-learning-practice-challenges-course-1idh)
+- [Managing Multiple React Apps with the Power of npm Workspaces](https://dev.to/virajlakshitha/managing-multiple-react-apps-with-the-power-of-npm-workspaces-4cca)
+- [02.DEFI ATTACKS - Keine Verfallsfrist/Deadline](https://dev.to/thecodedoctor/02defi-attacks-keine-verfallsfristdeadline-1548)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
