@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Design Pattern: Bridge &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-bridge-portugues-3136)
-- [C# Design Pattern: Bridge](https://dev.to/juarezasjunior/c-design-pattern-bridge-4ak6)
-- [Intro to RAG, improving LLMs](https://dev.to/busycaesar/intro-to-rag-solving-llm-limitations-1b7n)
-- [C# Design Pattern: Composite](https://dev.to/juarezasjunior/c-design-pattern-composite-376)
-- [Boost Your Workflow with Smartclip – A Versatile Launcher for Developers](https://dev.to/muelphil/boost-your-workflow-with-smartclip-a-versatile-launcher-for-developers-5a42)
+- [Opening Our Hearts and Our Repo: Virtual Coffee&#39;s Journey to Open Source](https://dev.to/virtualcoffee/opening-our-hearts-and-our-repo-virtual-coffees-journey-to-open-source-4b6f)
+- [Optimizing Request Validation to External Systems Using Azure Services, Microservices, and Parallel Processing](https://dev.to/leandroveiga/optimizing-request-validation-to-external-systems-using-azure-services-microservices-and-parallel-processing-2img)
+- [Optimizing Angular Build Performance with Nx](https://dev.to/viitorcloud/optimizing-angular-build-performance-with-nx-3f8i)
+- [21 React Projects Too Awesome to Ignore](https://dev.to/copilotkit/21-react-projects-too-awesome-to-ignore-17ec)
+- [What&#39;s the worst codebase you&#39;ve ever worked in?](https://dev.to/ben/whats-the-worst-codebase-youve-ever-worked-in-1ndk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
