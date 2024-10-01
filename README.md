@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Simple Link Checker Tool with HTML, CSS, and JavaScript](https://dev.to/babar_ali/build-a-simple-link-checker-tool-with-html-css-and-javascript-204c)
-- [Simplified: Javascript V8 engine ✨](https://dev.to/fullstacktanmay/simplified-javascript-v8-engine-249o)
-- [Say Hello to Flutter GPT: Your New Flutter Development Buddy 🚀](https://dev.to/sinnoorc/say-hello-to-flutter-gpt-your-new-flutter-development-buddy-3gl)
-- [💡 How JavaScript Works Under the Hood: A Fun Dive Into the Magic ✨](https://dev.to/fullstacktanmay/how-javascript-works-under-the-hood-a-fun-dive-into-the-magic-2o6o)
-- [React Meets Disney: Unveiling the Magic of Hooks | The Tale of useState](https://dev.to/parnikagupta/react-meets-disney-unveiling-the-magic-of-hooks-the-tale-of-usestate-56b0)
+- [Textiles and Tents: The Artistry of Iranian Nomadic Crafts](https://dev.to/saeedhasani_55/textiles-and-tents-the-artistry-of-iranian-nomadic-crafts-3e27)
+- [🚀 Selenium IDE: Remembering Our Automation Origins!](https://dev.to/mdismail_e830c2c4f43ae37/selenium-ide-remembering-our-automation-origins-3ga9)
+- [Creating a Mesmerizing Moonlit Night Sky Animation with CSS](https://dev.to/babar_ali/creating-a-mesmerizing-moonlit-night-sky-animation-with-css-40eb)
+- [Launching Our Fresh &amp; Vibrant Fruit Shop HTML Template! 🍎🍊](https://dev.to/arishn/launching-our-fresh-vibrant-fruit-shop-html-template-3cbb)
+- [React Environment Variables: A Complete Step-By-Step Guide](https://dev.to/iradcn/react-environment-variables-a-complete-step-by-step-guide-99p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
