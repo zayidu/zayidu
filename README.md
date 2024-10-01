@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Back to sq1: My basic HTML template](https://dev.to/mbarzeev/back-to-sq1-my-basic-html-template-4kbb)
-- [Creating a synchronized store between main and renderer process in Electron](https://dev.to/tsudhishnair/creating-a-synchronized-store-between-main-and-renderer-process-in-electron-5ao1)
-- [The Best Tools for Building CRUD Applications](https://dev.to/scand/the-best-tools-for-building-crud-applications-mh1)
-- [Python&#39;s Integer Precision is Infinite](https://dev.to/graphpe/pythons-integer-precision-is-infinite-420h)
-- [How Does Angular SEO Work and Why Is It Important?](https://dev.to/parthprajapatispan/how-does-angular-seo-work-and-why-is-it-important-i4i)
+- [How to improve DORA metrics as a release engineer](https://dev.to/aviator_co/how-to-improve-dora-metrics-as-a-release-engineer-4and)
+- [Locking Mechanisms in High-Load Systems](https://dev.to/luminousmen/locking-mechanisms-in-high-load-systems-4jo3)
+- [Types of SSL Certificates](https://dev.to/shivamchamoli18/types-of-ssl-certificates-195c)
+- [Email Workflow Automation 101: Templates, Tools, and Best Practices](https://dev.to/idjuric660/email-workflow-automation-101-templates-tools-and-best-practices-1mna)
+- [JavaScript Essentials: Part 2](https://dev.to/otumianempire/javascript-essentials-part-2-3k6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
