@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis caching with Mongoose](https://dev.to/ayanabilothman/redis-caching-with-mongoose-g5m)
-- [Supercharge Your ASP.NET Web API with Linq.Dynamic.Core](https://dev.to/penielx/supercharge-your-aspnet-web-api-with-linqdynamiccore-hml)
-- [Password Authentication with Auth.js in Astro and Customizing Session Information &lpar;auth-astro&rpar;](https://dev.to/koyopro/password-authentication-with-authjs-in-astro-and-customizing-session-information-auth-astro-1n4n)
-- [Congrats to the Winners of Our First Web Game Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-web-game-challenge-32co)
-- [Changing Foreign Key Constraints in PostgreSQL: A Step-by-Step Guide](https://dev.to/sajidurshajib/changing-foreign-key-constraints-in-postgresql-a-step-by-step-guide-3kak)
+- [6 GitHub Actions Every DevOps Team Needs](https://dev.to/cicube/6-github-actions-every-devops-team-needs-j0n)
+- [Level Up Your AI Knowledge: Tools, Tips, and Influencers to Watch](https://dev.to/abdulsalamamtech/level-up-your-ai-knowledge-tools-tips-and-influencers-to-watch-3p32)
+- [The Must-Have GitHub Actions Dashboard - CICube](https://dev.to/cicube/the-must-have-github-actions-dashboard-cicube-3jga)
+- [What are Syntax and Semantics](https://dev.to/m__mdy__m/what-are-syntax-and-semantics-1p3e)
+- [How to Set Up Python, CUDA, cuDNN, C++ Build Tools, FFMPEG &amp; Git for AI Applications](https://dev.to/furkangozukara/how-to-set-up-python-cuda-cudnn-c-build-tools-ffmpeg-git-for-ai-applications-4hik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
