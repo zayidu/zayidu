@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Underrated Developer Tools That Will Blow Your Mind](https://dev.to/safdarali/6-underrated-developer-tools-that-will-blow-your-mind-3e35)
-- [🚀 Mastering AWS Interoperability: Why Amazon S3 is Essential for DevOps Success](https://dev.to/francotel/mastering-aws-interoperability-why-amazon-s3-is-essential-for-devops-success-466h)
-- [React Meets Disney: Unveiling the Magic of Hooks | The Tale of useState](https://dev.to/parnikagupta/react-meets-disney-unveiling-the-magic-of-hooks-the-tale-of-usestate-4omi)
-- [🎬 Video - WebForms Core Technology Retires React, Vue and Angular](https://dev.to/elanatframework/video-webforms-core-technology-retires-react-vue-and-angular-216n)
-- [Running a SaaS Business: What does it take? &lpar;feat. Rodion Telpizov&rpar;](https://dev.to/vpalania/running-a-saas-business-what-does-it-take-feat-rodion-telpizov-39nk)
+- [How to Manage User Authentication in React.js, Next.js, Vue.js, and Nuxt.js Using Clerk](https://dev.to/hramonpereira/how-to-manage-user-authentication-in-reactjs-nextjs-vuejs-and-nuxtjs-using-clerk-136l)
+- [Handling Transactions Without Breaking Service-Adapter Decoupling in Hexagonal Architecture with Golang](https://dev.to/2nguyenlong000k/handling-transactions-without-breaking-service-adapter-decoupling-in-hexagonal-architecture-with-golang-5ce1)
+- [Zoom recording to S3 using an AWS Lambda](https://dev.to/germanescobar/zoom-recording-to-s3-using-an-aws-lambda-1lo9)
+- [How to make a quick and pretty PureScript web app](https://dev.to/zelenya/how-to-make-a-quick-and-pretty-purescript-web-app-4cl4)
+- [How Project Ideas Can Come From Anywhere - My Open Source Daily Puzzle Game](https://dev.to/oia20/how-project-ideas-can-come-from-anywhere-my-open-source-daily-puzzle-game-56a0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
