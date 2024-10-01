@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scala vs. Java: The Superior Choice for Big Data and Machine Learning](https://dev.to/adityabhuyan/scala-vs-java-the-superior-choice-for-big-data-and-machine-learning-enm)
-- [Generate tags using gemini AI](https://dev.to/ugifractal/generate-tags-using-gemini-ai-1g5g)
-- [Productivity Hacks for Developers: Boost Your Efficiency](https://dev.to/ratan_3511/productivity-hacks-for-developers-boost-your-efficiency-4joa)
-- [Running a Discord Bot on Raspberry Pi](https://dev.to/beretests/running-a-discord-bot-on-raspberry-pi-4la4)
-- [The Journey of DNS Resolution: How the Internet Finds Websites for You](https://dev.to/umairian/the-journey-of-dns-resolution-how-the-internet-finds-websites-for-you-1naf)
+- [Blog Post 2: TypeScript Basics and Our First POS Component](https://dev.to/krishankant/log-post-1-introduction-to-typescript-and-our-restaurant-pos-project-49ai)
+- [WordPress là gì? Tìm hiểu nền tảng tạo website phổ biến nhất hiện nay](https://dev.to/webkinhdoanh/wordpress-la-gi-tim-hieu-nen-tang-tao-website-pho-bien-nhat-hien-nay-1f35)
+- [Post 1: Introduction to TypeScript and Our Restaurant POS Project](https://dev.to/krishankant/post-1-introduction-to-typescript-and-our-restaurant-pos-project-4ogf)
+- [Cómo Utilizar el API Experimental de AI en Chrome](https://dev.to/marianocodes/como-utilizar-el-api-experimental-de-ai-en-chrome-3c4m)
+- [Transform Your Business with Azure AI 🚀](https://dev.to/hasanul_banna_himel/transform-your-business-with-azure-ai-5j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
