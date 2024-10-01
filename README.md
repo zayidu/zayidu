@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a User Feedback Form with Svelte and Perseid](https://dev.to/axi0m/building-a-user-feedback-form-with-svelte-and-perseid-30d5)
-- [Learn How to Creating a 3D Tesla Car Configurator with React, NextJS, and TypeScript: Part 1](https://dev.to/rajesh_edayangatt_a3d8f94/learn-how-to-creating-a-3d-tesla-car-configurator-with-react-nextjs-and-typescript-part-1-4c52)
-- [Provide storage for a new company app](https://dev.to/afeez_adeyemo/provide-storage-for-a-new-company-app-1j7a)
-- [Leveraging Amazon Bedrock Agents for Comprehensive Business Solutions in Telecom and Beyond](https://dev.to/sahil_krishnani_5333e2b7c/leveraging-amazon-bedrock-agents-for-comprehensive-business-solutions-in-telecom-and-beyond-1cf3)
-- [Mongogrator - a MongoDB migration tool for TS &amp; JS](https://dev.to/tepinly/mongogrator-a-mongodb-migration-tool-for-ts-js-205l)
+- [Survey: C to Rust conversion and corresponding tools](https://dev.to/ayushi_sharma_4351fd303a7/survey-c-to-rust-conversion-and-corresponding-tools-1mge)
+- [10 HTML Features You Need to Know](https://dev.to/tinymce/10-html-features-you-need-to-know-5de7)
+- [Čuvanje Podataka u JavaScript-u](https://dev.to/jelena_petkovic/cuvanje-podataka-u-javascript-u-5hka)
+- [HacktoberFest: Feel free to contribute to my open source project.](https://dev.to/saahen_sriyan_mishra/hacktoberfest-feel-free-to-contribute-to-my-open-source-project-5fmi)
+- [Introducing Ivee in Beta or the story of databases UX](https://dev.to/spronin/introducing-ivee-in-beta-or-the-story-of-databases-ux-11el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
