@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Textiles and Tents: The Artistry of Iranian Nomadic Crafts](https://dev.to/saeedhasani_55/textiles-and-tents-the-artistry-of-iranian-nomadic-crafts-3e27)
-- [🚀 Selenium IDE: Remembering Our Automation Origins!](https://dev.to/mdismail_e830c2c4f43ae37/selenium-ide-remembering-our-automation-origins-3ga9)
-- [Creating a Mesmerizing Moonlit Night Sky Animation with CSS](https://dev.to/babar_ali/creating-a-mesmerizing-moonlit-night-sky-animation-with-css-40eb)
-- [Launching Our Fresh &amp; Vibrant Fruit Shop HTML Template! 🍎🍊](https://dev.to/arishn/launching-our-fresh-vibrant-fruit-shop-html-template-3cbb)
-- [React Environment Variables: A Complete Step-By-Step Guide](https://dev.to/iradcn/react-environment-variables-a-complete-step-by-step-guide-99p)
+- [APIs for Concurrent Rendering in React: Optimizing Asynchronous UI Updates](https://dev.to/usman_awan/apis-for-concurrent-rendering-in-react-optimizing-asynchronous-ui-updates-1eig)
+- [The quiet, pervasive devaluation of frontend](https://dev.to/cadienvan/the-quiet-pervasive-devaluation-of-frontend-26h7)
+- [10 AI Assistants for Frontend Developers That Will Change the Way You Code](https://dev.to/astrodevil/10-ai-assistants-for-frontend-developers-that-will-change-the-way-you-code-3fh4)
+- [MoonAlert A CSS Animated Moon Notification Box](https://dev.to/babar_ali/moonalert-a-css-animated-moon-notification-box-jl9)
+- [✨🗳️ JavaScript Variables: 17 Quick Questions You Need To Master](https://dev.to/_ndeyefatoudiop/javascript-variables-17-quick-questions-you-need-to-master-ie3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
