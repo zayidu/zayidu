@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Design Pattern: Decorator &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-decorator-portugues-leh)
-- [C# Design Pattern: Decorator](https://dev.to/juarezasjunior/c-design-pattern-decorator-903)
-- [Linux Distribution](https://dev.to/meghasharmaaaa/linux-distribution-16fe)
-- [Bhupesh Singh Nitwal BSC Student](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-bsc-student-d4n)
-- [MinIO: The Open-Source S3 Alternative That Cuts Costs and Boosts Flexibility](https://dev.to/oumnya/minio-the-open-source-s3-alternative-that-cuts-costs-and-boosts-flexibility-348g)
+- [An Attempt to Demystify Rust Lifetimes](https://dev.to/jakenherman/an-attempt-to-demystify-rust-lifetimes-2130)
+- [🚀 Level Up Your Cloud Skills: Join the CODE THEFT AUTO Challenge!](https://dev.to/giftedlane/level-up-your-cloud-skills-join-the-code-theft-auto-challenge-3cjg)
+- [What is UUID?](https://dev.to/rosselli00/what-is-uuid-cng)
+- [Mastering C# Fundamentals: Understanding Interfaces](https://dev.to/moh_moh701/mastering-c-fundamentals-understanding-interfaces-4om9)
+- [A Better Hammer?](https://dev.to/dbozhinovski/a-better-hammer-2c26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
