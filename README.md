@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Hacktoberfest: My First Open-Source Contributions](https://dev.to/bregwin/getting-started-with-hacktoberfest-my-first-open-source-contributions-54pc)
-- [Exploring Advanced CSS Selectors](https://dev.to/kartikmehta8/exploring-advanced-css-selectors-1n2f)
-- [Gestor de Iniciativas Ecológicas: Django &lpar;Parte 2&rpar;](https://dev.to/villacisg93/gestor-de-iniciativas-ecologicas-django-parte-2-plh)
-- [TS Dependency Injection with @Findhow/Container No Decorators Required 🔥](https://dev.to/cleancodestudio/ts-dependency-injection-with-findhowcontainer-no-decorators-required-4hjj)
-- [Post 2: Understanding Methods in Java](https://dev.to/sadaf_khan_/post-2-understanding-methods-in-java-3f57)
+- [Problems encountered in learning gem5](https://dev.to/chaos_kao_ff589/problems-encountered-in-learning-gem5-ajc)
+- [Regra 7: Elimine casos de falha](https://dev.to/fernanda_leite_febc2f0459/regra-7-elimine-casos-de-falha-4gnc)
+- [Seeking React, Node.js and web3 engineer](https://dev.to/rauschenbach/seeking-react-nodejs-and-web3-engineer-26f2)
+- [Why I started WFO?](https://dev.to/busycaesar/why-i-started-wfo-4gbh)
+- [My First Hacktoberfest Contribution!!!](https://dev.to/kannav02/my-first-hacktoberfest-contribution-5a06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
