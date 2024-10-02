@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Schedule Workflows in GitHub Actions](https://dev.to/cicube/how-to-schedule-workflows-in-github-actions-1neb)
-- [Spring Boot Annotations Explained: 15 Essential Annotations You Should Know](https://dev.to/isaactony/spring-boot-annotations-explained-15-essential-annotations-you-should-know-mhp)
-- [Creating an NPM package that runs on command line with npx](https://dev.to/nausaf/creating-an-npm-package-that-runs-on-command-line-with-npx-9a0)
-- [Using Natural Language To Generate A Simple Python GUI With An LLM .... In Less Than 15 Minutes](https://dev.to/danielrosehill/using-natural-language-to-generate-a-simple-python-gui-with-an-llm-3d7l)
-- [🔥 Maximize Performance: Essential Next.js Optimization Strategies for 2024 🚀](https://dev.to/hamzakhan/maximize-performance-essential-nextjs-optimization-strategies-for-2024-53i8)
+- [Parse UserParameters sent from AWS CodePipeline to AWS Lambda in Go](https://dev.to/prithvijj/parse-userparameters-sent-from-aws-codepipeline-to-aws-lambda-in-go-ffe)
+- [Navigating Cloud Computing in AWS - Week Eight](https://dev.to/shubham_murti/navigating-cloud-computing-in-aws-week-eight-2mhe)
+- [Join the 2024 Hacktoberfest Writing Challenge: Reflect on your Journey as a Contributor or Maintainer](https://dev.to/devteam/join-the-2024-hacktoberfest-writing-challenge-reflect-on-your-journey-as-a-contributor-or-maintainer-nd0)
+- [SQL and Database Design: A Detailed Exploration - Week Seven](https://dev.to/shubham_murti/sql-and-database-design-a-detailed-exploration-week-seven-6i3)
+- [Guide to build a modern Web App using Next.js 14 &lpar;App Router&rpar;, NextAuth, Theming, Tailwind CSS, and i18n](https://dev.to/alaa-m1/guide-to-build-a-modern-web-app-using-nextjs-14-app-router-nextauth-theming-tailwind-css-and-i18n-32he)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
