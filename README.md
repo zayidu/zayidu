@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Find the First Non-Repeated Character in a String](https://dev.to/realnamehidden1_61/find-the-first-non-repeated-character-in-a-string-34nb)
-- [Troubleshooting PostgreSQL Low Free Memory](https://dev.to/metis/troubleshooting-postgresql-low-free-memory-2e4)
-- [5 open-source tools every developer should know](https://dev.to/codewithshahan/5-open-source-tools-every-developer-should-know-5ffm)
-- [Mastering JavaDoc: How to Document Your Java Code](https://dev.to/arshisaxena26/mastering-javadoc-how-to-document-your-java-code-5hhf)
-- [Introducing Cyber DNA Profiler: A New Open-Source Approach to Cybersecurity Analysis](https://dev.to/alien97/introducing-cyber-dna-profiler-a-new-open-source-approach-to-cybersecurity-analysis-4dcd)
+- [Creational Design Patterns](https://dev.to/manojpatra1991/creational-design-patterns-4i80)
+- [Coding with Streams](https://dev.to/manojpatra1991/coding-with-streams-4gca)
+- [Asynchronous Control Flow Patterns](https://dev.to/manojpatra1991/asynchronous-control-flow-patterns-5358)
+- [Implementing Parallel Merge Sort: 25sec vs 1.5sec](https://dev.to/ssd/implementing-parallel-merge-sort-25sec-vs-15sec-3b8k)
+- [React: Debouncing input with useEffect](https://dev.to/remejuan/react-debouncing-input-with-useeffect-3nhk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
