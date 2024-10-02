@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creational Design Patterns](https://dev.to/manojpatra1991/creational-design-patterns-4i80)
-- [Coding with Streams](https://dev.to/manojpatra1991/coding-with-streams-4gca)
-- [Asynchronous Control Flow Patterns](https://dev.to/manojpatra1991/asynchronous-control-flow-patterns-5358)
-- [Implementing Parallel Merge Sort: 25sec vs 1.5sec](https://dev.to/ssd/implementing-parallel-merge-sort-25sec-vs-15sec-3b8k)
-- [React: Debouncing input with useEffect](https://dev.to/remejuan/react-debouncing-input-with-useeffect-3nhk)
+- [Kubernetes Secrets | Secure Data Management](https://dev.to/labex/kubernetes-secrets-secure-data-management-4p7e)
+- [Cyber Security Labs: Mastering Digital Defense and Ethical Hacking](https://dev.to/labex/cyber-security-labs-mastering-digital-defense-and-ethical-hacking-5h7h)
+- [Clock Master CSS Animation](https://dev.to/babar_ali/clock-master-css-animation-2njc)
+- [Walkthrough / Solution to SBT&#39;s Wireshark Challenge Activity](https://dev.to/immah/walkthrough-solution-to-sbts-wireshark-challenge-activity-36hf)
+- [You Might Not Know These: 5 Important and Lesser-Known Features in JavaScript](https://dev.to/sonaykara/you-might-not-know-these-5-important-and-lesser-known-features-in-javascript-1gdm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
