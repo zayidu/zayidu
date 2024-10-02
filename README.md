@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamline Test Writing with QodoAI](https://dev.to/thekarlesi/streamline-test-writing-with-qodoai-7ap)
-- [Dia 4 - Constructors, Destructors e LBM](https://dev.to/matheusgb/dia-4-constructors-destructors-e-lbm-3203)
-- [Introducing CUDE - All in one platform to protect your software intellectual properties &lpar;IP&rpar;.](https://dev.to/femalb/introducing-cude-all-in-one-platform-to-protect-your-software-intellectual-properties-4j1k)
-- [Top Open Source Projects to Contribute to in the oss.gg Hackathon 2024](https://dev.to/gaz_dev/top-open-source-projects-to-contribute-to-in-the-ossgg-hackathon-2024-1kfi)
-- [Concurrency in Go: From Basics to Advanced Concepts](https://dev.to/chanchals7/concurrency-in-go-from-basics-to-advanced-concepts-1b9n)
+- [How Analog is Revolutionizing Content-Driven Sites with Angular](https://dev.to/rajeshkumaryadavdotcom/how-analog-is-revolutionizing-content-driven-sites-with-angular-2l68)
+- [Unlocking the Power of Event-Driven Architecture](https://dev.to/rajeshkumaryadavdotcom/unlocking-the-power-of-event-driven-architecture-2jl3)
+- [Another Week Another Feature](https://dev.to/aamfahim/another-week-another-feature-2e6k)
+- [What Is WebAuthN: A Developer&#39;s Guide To WebAuthN](https://dev.to/megaconfidence/what-is-webauthn-a-developers-guide-to-webauthn-235e)
+- [🎃🚀 Storacha Halloween Hackathon 2024: Time to Store Some Skeletons and Build Spooky Tech! 💻👻](https://dev.to/hakierka/storacha-halloween-hackathon-2024-time-to-store-some-skeletons-and-build-spooky-tech-4dfe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
