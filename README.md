@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New Features in Angular 16: Signals and RxJS](https://dev.to/samirabawad/new-features-in-angular-16-signals-and-rxjs-ec5)
-- [Fine-tuning BERT: Unlocking the Power of Pre-trained Language Models](https://dev.to/nareshnishad/fine-tuning-bert-unlocking-the-power-of-pre-trained-language-models-4i1k)
-- [The Next Big Thing In Enterprise Low-code](https://dev.to/kyanondigital/the-next-big-thing-in-enterprise-low-code-3cnn)
-- [What&#39;s New in Angular 16: Inputs in Components](https://dev.to/samirabawad/whats-new-in-angular-16-inputs-in-components-35l2)
-- [What&#39;s New in Angular 16: Inputs in Components](https://dev.to/samirabawad/whats-new-in-angular-16-inputs-in-components-3f82)
+- [SQL ain&#39;t that Scary](https://dev.to/drsimplegraffiti/sql-aint-that-scary-18cn)
+- [Mastering Routing Protocols with Cisco Packet Tracer: A Learning Experience](https://dev.to/sanket_chaudhari/mastering-routing-protocols-with-cisco-packet-tracer-a-learning-experience-34e9)
+- [10 Challenges Of Enterprise Low-code](https://dev.to/kyanondigital/10-challenges-of-enterprise-low-code-3237)
+- [UseEffect Vs. UseLayoutEffect: Why UseEffect Is a better Choice?](https://dev.to/mroman7/useeffect-vs-uselayouteffect-why-useeffect-is-a-better-choice-2gp8)
+- [Quiz Saga: JavaScript Variables Quiz](https://dev.to/areeb_anwar_813df06ee1124/quiz-saga-javascript-variables-quiz-491h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
