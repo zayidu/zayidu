@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Parse UserParameters sent from AWS CodePipeline to AWS Lambda in Go](https://dev.to/prithvijj/parse-userparameters-sent-from-aws-codepipeline-to-aws-lambda-in-go-ffe)
-- [Navigating Cloud Computing in AWS - Week Eight](https://dev.to/shubham_murti/navigating-cloud-computing-in-aws-week-eight-2mhe)
-- [Join the 2024 Hacktoberfest Writing Challenge: Reflect on your Journey as a Contributor or Maintainer](https://dev.to/devteam/join-the-2024-hacktoberfest-writing-challenge-reflect-on-your-journey-as-a-contributor-or-maintainer-nd0)
-- [SQL and Database Design: A Detailed Exploration - Week Seven](https://dev.to/shubham_murti/sql-and-database-design-a-detailed-exploration-week-seven-6i3)
-- [Guide to build a modern Web App using Next.js 14 &lpar;App Router&rpar;, NextAuth, Theming, Tailwind CSS, and i18n](https://dev.to/alaa-m1/guide-to-build-a-modern-web-app-using-nextjs-14-app-router-nextauth-theming-tailwind-css-and-i18n-32he)
+- [Share us your project for Hacktoberfest 2024! 🎃](https://dev.to/thomasbnt/share-us-your-project-for-hacktoberfest-2024-ppj)
+- [hi I&#39;m new here](https://dev.to/somewhere_behind_a_computer/hi-im-new-here-4bip)
+- [VS-CoD....evOps - game changer guide.](https://dev.to/target-ops/vs-codevops-game-changer-guide-16hg)
+- [AWS Cognito for User Authentication: A Comprehensive Guide](https://dev.to/ikoh_sylva/aws-cognito-for-user-authentication-a-comprehensive-guide-3oje)
+- [What is Coding](https://dev.to/coding_tech/what-is-coding-334d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
