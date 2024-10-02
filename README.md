@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transformer in PyTorch](https://dev.to/hyperkai/transformer-in-pytorch-24ok)
-- [MLP-Mixer &lpar;Theory&rpar;](https://dev.to/igor1740/mlp-mixer-theory-2dje)
-- [How &lpar;Not&rpar; to Use Python’s Walrus Operator 🐍](https://dev.to/gajanan0707/how-not-to-use-pythons-walrus-operator-446n)
-- [Godot 3D Multiplayer Template: A Starting Point for Creating 3D Multiplayer Games](https://dev.to/devmoreir4/godot-3d-multiplayer-template-a-starting-point-for-creating-3d-multiplayer-games-22ca)
-- [MultiChat AI: A Centralized Hub for Advanced AI Models](https://dev.to/malconm/multichat-ai-a-centralized-hub-for-advanced-ai-models-40cd)
+- [New Features in Angular 16: Signals and RxJS](https://dev.to/samirabawad/new-features-in-angular-16-signals-and-rxjs-ec5)
+- [Fine-tuning BERT: Unlocking the Power of Pre-trained Language Models](https://dev.to/nareshnishad/fine-tuning-bert-unlocking-the-power-of-pre-trained-language-models-4i1k)
+- [The Next Big Thing In Enterprise Low-code](https://dev.to/kyanondigital/the-next-big-thing-in-enterprise-low-code-3cnn)
+- [What&#39;s New in Angular 16: Inputs in Components](https://dev.to/samirabawad/whats-new-in-angular-16-inputs-in-components-35l2)
+- [What&#39;s New in Angular 16: Inputs in Components](https://dev.to/samirabawad/whats-new-in-angular-16-inputs-in-components-3f82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
