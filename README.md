@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tips for working from the office?](https://dev.to/pidgey0403/tips-for-working-from-the-office-5810)
-- [[Leetcode] 2727. Is Object Empty](https://dev.to/luvsense/leetcode-2727-is-object-empty-5h8k)
-- [How AutoML works | Explained](https://dev.to/hakeem/how-automl-works-explained-3fb9)
-- [How to preserve a HTTP param during navigation?](https://dev.to/porton/how-to-preserve-a-http-param-during-navigation-2o2g)
-- [Enhancing Travel and Tourism with AI-Powered Image Recognition](https://dev.to/api4ai/enhancing-travel-and-tourism-with-ai-powered-image-recognition-5a6e)
+- [Transforming Insurance Claims with AI-Powered Damage Assessment and Image Processing](https://dev.to/api4ai/transforming-insurance-claims-with-ai-powered-damage-assessment-and-image-processing-4o91)
+- [Becoming a Freelance Manual Tester in the Crypto Exchange Industry](https://dev.to/andylarkin677/becoming-a-freelance-manual-tester-in-the-crypto-exchange-industry-o2k)
+- [How to Build A Telemedicine App](https://dev.to/stephen568hub/how-to-build-a-telemedicine-app-41a0)
+- [Real-time communication with WebSockets and Socket.IO in Node.js](https://dev.to/imsushant12/real-time-communication-with-websockets-and-socketio-in-nodejs-4p8e)
+- [Hacktoberfest 2024: Create Discord Features or Videos to Win Rewards 🎉](https://dev.to/waveplay/hacktoberfest-2024-create-discord-features-or-videos-to-win-rewards-25pl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
