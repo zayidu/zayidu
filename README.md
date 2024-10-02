@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tauri adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/tauri-adoption-guide-overview-examples-and-alternatives-2plj)
-- [The Framework Overload Controversy: Are We Sacrificing Simplicity for Efficiency?](https://dev.to/niaxusweb/the-framework-overload-controversy-are-we-sacrificing-simplicity-for-efficiency-3c58)
-- [Is Trunk-Based Development the Future or Just Hype? - A Detailed Guide with Examples, Steps, and Simple Explanations](https://dev.to/narmidm/is-trunk-based-development-the-future-or-just-hype-a-detailed-guide-with-examples-steps-and-simple-explanations-533f)
-- [Memory Management in Java: Stack vs. Heap &amp; Garbage Collection](https://dev.to/abhishek_kumar_d9009a7ae6/memory-management-in-java-stack-vs-heap-garbage-collection-1aj2)
-- [🚀 Master Core Web Vitals: 3 Metrics for a Better User Experience](https://dev.to/tomasdevs/master-core-web-vitals-3-metrics-for-a-better-user-experience-59gn)
+- [How to Schedule Workflows in GitHub Actions](https://dev.to/cicube/how-to-schedule-workflows-in-github-actions-1neb)
+- [Spring Boot Annotations Explained: 15 Essential Annotations You Should Know](https://dev.to/isaactony/spring-boot-annotations-explained-15-essential-annotations-you-should-know-mhp)
+- [Creating an NPM package that runs on command line with npx](https://dev.to/nausaf/creating-an-npm-package-that-runs-on-command-line-with-npx-9a0)
+- [Using Natural Language To Generate A Simple Python GUI With An LLM .... In Less Than 15 Minutes](https://dev.to/danielrosehill/using-natural-language-to-generate-a-simple-python-gui-with-an-llm-3d7l)
+- [🔥 Maximize Performance: Essential Next.js Optimization Strategies for 2024 🚀](https://dev.to/hamzakhan/maximize-performance-essential-nextjs-optimization-strategies-for-2024-53i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
