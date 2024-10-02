@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Analog is Revolutionizing Content-Driven Sites with Angular](https://dev.to/rajeshkumaryadavdotcom/how-analog-is-revolutionizing-content-driven-sites-with-angular-2l68)
-- [Unlocking the Power of Event-Driven Architecture](https://dev.to/rajeshkumaryadavdotcom/unlocking-the-power-of-event-driven-architecture-2jl3)
-- [Another Week Another Feature](https://dev.to/aamfahim/another-week-another-feature-2e6k)
-- [What Is WebAuthN: A Developer&#39;s Guide To WebAuthN](https://dev.to/megaconfidence/what-is-webauthn-a-developers-guide-to-webauthn-235e)
-- [🎃🚀 Storacha Halloween Hackathon 2024: Time to Store Some Skeletons and Build Spooky Tech! 💻👻](https://dev.to/hakierka/storacha-halloween-hackathon-2024-time-to-store-some-skeletons-and-build-spooky-tech-4dfe)
+- [How I Secured My Containerized Application Using Anchore &lpar;Day 29 Project&rpar;](https://dev.to/arbythecoder/how-i-secured-my-containerized-application-using-anchore-day-29-project-474l)
+- [System Design Fundamentals: A Complete Guide for Beginners](https://dev.to/kaustubhyerkade/system-design-fundamentals-a-complete-guide-for-beginners-3n95)
+- [Fundamentals of Computed Properties in Vue.js: Composition API](https://dev.to/sonaykara/computed-properties-in-vuejs-composition-api-2l7i)
+- [30 Frontend Interview Questions - TypeScript](https://dev.to/m_midas/30-frontend-interview-questions-typescript-12c2)
+- [Send Information by Submitting Form](https://dev.to/elanatframework/send-information-by-submitting-form-49kc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
