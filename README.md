@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL ain&#39;t that Scary](https://dev.to/drsimplegraffiti/sql-aint-that-scary-18cn)
-- [Mastering Routing Protocols with Cisco Packet Tracer: A Learning Experience](https://dev.to/sanket_chaudhari/mastering-routing-protocols-with-cisco-packet-tracer-a-learning-experience-34e9)
-- [10 Challenges Of Enterprise Low-code](https://dev.to/kyanondigital/10-challenges-of-enterprise-low-code-3237)
-- [UseEffect Vs. UseLayoutEffect: Why UseEffect Is a better Choice?](https://dev.to/mroman7/useeffect-vs-uselayouteffect-why-useeffect-is-a-better-choice-2gp8)
-- [Quiz Saga: JavaScript Variables Quiz](https://dev.to/areeb_anwar_813df06ee1124/quiz-saga-javascript-variables-quiz-491h)
+- [ReScript is not there yet](https://dev.to/asik/rescript-is-not-there-yet-1ood)
+- [Deep Dive Into Git&lpar;Part II&rpar;](https://dev.to/debajit13/deep-dive-into-gitpart-ii-494j)
+- [Demystifying SQLMap: A Practical Guide to Web and SQL Injection Testing](https://dev.to/s3cloudhub/demystifying-sqlmap-a-practical-guide-to-web-and-sql-injection-testing-74b)
+- [Constraint in SQL](https://dev.to/mrcaption49/constraint-in-sql-26ni)
+- [I&#39;ve Used Every Code Editor: What is the best](https://dev.to/sotergreco/ive-used-every-code-editor-what-is-the-best-3nlh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
