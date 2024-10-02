@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Share us your project for Hacktoberfest 2024! 🎃](https://dev.to/thomasbnt/share-us-your-project-for-hacktoberfest-2024-ppj)
-- [hi I&#39;m new here](https://dev.to/somewhere_behind_a_computer/hi-im-new-here-4bip)
-- [VS-CoD....evOps - game changer guide.](https://dev.to/target-ops/vs-codevops-game-changer-guide-16hg)
-- [AWS Cognito for User Authentication: A Comprehensive Guide](https://dev.to/ikoh_sylva/aws-cognito-for-user-authentication-a-comprehensive-guide-3oje)
-- [What is Coding](https://dev.to/coding_tech/what-is-coding-334d)
+- [Streamline Test Writing with QodoAI](https://dev.to/thekarlesi/streamline-test-writing-with-qodoai-7ap)
+- [Dia 4 - Constructors, Destructors e LBM](https://dev.to/matheusgb/dia-4-constructors-destructors-e-lbm-3203)
+- [Introducing CUDE - All in one platform to protect your software intellectual properties &lpar;IP&rpar;.](https://dev.to/femalb/introducing-cude-all-in-one-platform-to-protect-your-software-intellectual-properties-4j1k)
+- [Top Open Source Projects to Contribute to in the oss.gg Hackathon 2024](https://dev.to/gaz_dev/top-open-source-projects-to-contribute-to-in-the-ossgg-hackathon-2024-1kfi)
+- [Concurrency in Go: From Basics to Advanced Concepts](https://dev.to/chanchals7/concurrency-in-go-from-basics-to-advanced-concepts-1b9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
