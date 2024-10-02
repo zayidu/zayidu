@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Apple Passwords User Guide](https://dev.to/corbado/ultimate-apple-passwords-user-guide-14a6)
-- [Dive into Open Source: Make Your Mark with Hacktoberfest 2024](https://dev.to/yaswanthteja/dive-into-open-source-make-your-mark-with-hacktoberfest-2024-2i38)
-- [An Engineer&#39;s Guide to Dating App Development: Features, Process, and Architecture](https://dev.to/patoliyainfotech/an-engineers-guide-to-dating-app-development-features-process-and-architecture-1bop)
-- [Azure Migrate: Streamlining Your Migration Journey to Microsoft Azure](https://dev.to/buzzgk/azure-migrate-streamlining-your-migration-journey-to-microsoft-azure-2np1)
-- [Enhancing T-Mobile&#39;s Security: Embracing Modern Zero-Trust Architecture](https://dev.to/adityabhuyan/enhancing-t-mobiles-security-embracing-modern-zero-trust-architecture-5h08)
+- [Find the First Non-Repeated Character in a String](https://dev.to/realnamehidden1_61/find-the-first-non-repeated-character-in-a-string-34nb)
+- [Troubleshooting PostgreSQL Low Free Memory](https://dev.to/metis/troubleshooting-postgresql-low-free-memory-2e4)
+- [5 open-source tools every developer should know](https://dev.to/codewithshahan/5-open-source-tools-every-developer-should-know-5ffm)
+- [Mastering JavaDoc: How to Document Your Java Code](https://dev.to/arshisaxena26/mastering-javadoc-how-to-document-your-java-code-5hhf)
+- [Introducing Cyber DNA Profiler: A New Open-Source Approach to Cybersecurity Analysis](https://dev.to/alien97/introducing-cyber-dna-profiler-a-new-open-source-approach-to-cybersecurity-analysis-4dcd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
