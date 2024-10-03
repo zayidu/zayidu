@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Properties: Modifying the appearance and layout of elements](https://dev.to/shieldstring/css-properties-modifying-the-appearance-and-layout-of-elements-2fnf)
-- [Top Principles of API Design: Build Robust, Scalable, and Efficient APIs](https://dev.to/getambassador2024/top-principles-of-api-design-build-robust-scalable-and-efficient-apis-35ac)
-- [Neural Networks Simplified: The Future Beyond Traditional ML](https://dev.to/fahadkhanfahad/neural-networks-simplified-the-future-beyond-traditional-ml-1f8k)
-- [Node.js Update](https://dev.to/christopherchhim/nodejs-update-4kg6)
-- [OpenSign v1.7.0 introduces new features including Resend Mail API, Expiry date in create document API](https://dev.to/opensign001/opensign-v170-introduces-new-features-including-resend-mail-api-expiry-date-in-create-document-api-1pcj)
+- [Simplifying Database Management with Ansible and DbVisualizer](https://dev.to/dbvismarketing/simplifying-database-management-with-ansible-and-dbvisualizer-19ok)
+- [Thought-Provoking Questions Every Backend Developer Should Ask](https://dev.to/msnmongare/thought-provoking-questions-every-backend-developer-should-ask-4nl)
+- [Platform Engineering Abstraction: How to Scale IaC for Enterprise](https://dev.to/jarrid/platform-engineering-abstraction-how-to-scale-iac-for-enterprise-4e86)
+- [OpenSign v1.7.3 introduces new features download document before sign, Resend mail functionality, Celebration Confetti.](https://dev.to/opensign001/opensign-v173-introduces-new-features-download-document-before-sign-resend-mail-functionality-celebration-confetti-46fh)
+- [Applying SAST Tools to Any Application](https://dev.to/marioflores7/applying-sast-tools-to-any-application-22id)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
