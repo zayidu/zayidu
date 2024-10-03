@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to NGINX Proxy Manager](https://dev.to/devops_den/introduction-to-nginx-proxy-manager-2036)
-- [Burnout in Tech](https://dev.to/jobreadyprogrammer/burnout-in-tech-3185)
-- [Join AI Agent Championship by Lyzr](https://dev.to/soumyabhardwaj2101/join-ai-agent-championship-by-lyzr-21a7)
-- [UI Testing Excellence: A Comprehensive Guide to Enhancing User Experiences](https://dev.to/misterankit/ui-testing-excellence-a-comprehensive-guide-to-enhancing-user-experiences-128n)
-- [CSS Grid: Building a Responsive Menu](https://dev.to/tailwine/css-grid-building-a-responsive-menu-591i)
+- [CSS Properties: Modifying the appearance and layout of elements](https://dev.to/shieldstring/css-properties-modifying-the-appearance-and-layout-of-elements-2fnf)
+- [Top Principles of API Design: Build Robust, Scalable, and Efficient APIs](https://dev.to/getambassador2024/top-principles-of-api-design-build-robust-scalable-and-efficient-apis-35ac)
+- [Neural Networks Simplified: The Future Beyond Traditional ML](https://dev.to/fahadkhanfahad/neural-networks-simplified-the-future-beyond-traditional-ml-1f8k)
+- [Node.js Update](https://dev.to/christopherchhim/nodejs-update-4kg6)
+- [OpenSign v1.7.0 introduces new features including Resend Mail API, Expiry date in create document API](https://dev.to/opensign001/opensign-v170-introduces-new-features-including-resend-mail-api-expiry-date-in-create-document-api-1pcj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
