@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Claude’s Artifacts feature for UI visualization](https://dev.to/logrocket/implementing-claudes-artifacts-feature-for-ui-visualization-26kh)
-- [Internal Working of Collections:](https://dev.to/abhishek_kumar_d9009a7ae6/internal-working-of-collections-3oom)
-- [Common Methods &amp; Performance of Java Collection Implementations](https://dev.to/abhishek_kumar_d9009a7ae6/common-methods-performance-of-java-collection-implementations-l33)
-- [AWS Project: Deploying a VPC with Terraform](https://dev.to/asif_khan/aws-project-deploying-a-vpc-with-terraform-2h9k)
-- [What are targets for in Rust?](https://dev.to/tekklinuxx/what-are-targets-for-in-rust-4bll)
+- [Everything You Need to Know About Hacktoberfest 2024](https://dev.to/surajkumar00/everything-you-need-to-know-about-hacktoberfest-2024-2ce0)
+- [ActiveStorage Direct Upload with Stimulus](https://dev.to/railsdesigner/activestorage-direct-upload-with-stimulus-54f6)
+- [How to delete pods with kubectl in Kubernetes](https://dev.to/cicube/how-to-delete-pods-with-kubectl-in-kubernetes-5ac1)
+- [How to Use kubectl port-forward for Secure Application Access in Kubernetes](https://dev.to/cicube/how-to-use-kubectl-port-forward-for-secure-application-access-in-kubernetes-34ec)
+- [Converting Hex to Base64 in My Next.js Project 🔄](https://dev.to/joodi/converting-hex-to-base64-in-my-nextjs-project-f8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
