@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [SwissTable: A High-Performance Hash Table Implementation](https://dev.to/huizhou92/swisstable-a-high-performance-hash-table-implementation-1knc)
+- [A Simple Guide to Loading an Entire PDF into a List of Documents Using Langchain](https://dev.to/smuniraj/a-simple-guide-to-loading-an-entire-pdf-into-a-list-of-documents-using-langchain-4hih)
+- [Securing Your Go API with JWT Authentication](https://dev.to/neelp03/securing-your-go-api-with-jwt-authentication-4amj)
 - [Bhupesh Singh Nitwal](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-296d)
 - [Compile Neovim in Debian/Ubuntu Linux](https://dev.to/hardyweb/compile-neovim-in-debianubuntu-linux-1b9a)
-- [Securing Your Website with Basic Auth for NGINX](https://dev.to/nasrulhazim/securing-your-website-with-basic-auth-for-nginx-50h3)
-- [Proactive AppSec continuous vulnerability management for developers and security teams](https://dev.to/snyk/proactive-appsec-continuous-vulnerability-management-for-developers-and-security-teams-49he)
-- [10 Things I Wish I Knew When I Started with React](https://dev.to/mourya_modugula/10-things-i-wish-i-knew-when-i-started-with-react-4i8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
