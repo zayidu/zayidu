@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Starknet Smart Contract Intro With Cairo](https://dev.to/4k_mira/starknet-smart-contract-intro-with-cairo-1pjd)
-- [Spring Boot Meets Firebase: My Journey of Building a File Upload System🚀](https://dev.to/priya01/spring-boot-meets-firebase-my-journey-of-building-a-file-upload-system-4m3i)
-- [Developing modals using only CSS and the Popover API](https://dev.to/logrocket/developing-modals-using-only-css-and-the-popover-api-41hl)
-- [Enable FTP Publishing on a Web Server in Windows 11](https://dev.to/winsides/enable-ftp-publishing-on-a-web-server-in-windows-11-5972)
-- [Responsive Images: a quick example with react](https://dev.to/56_kode/responsive-images-a-quick-example-with-react-54p8)
+- [Mundos grandes 100% On-Chain. ¿Es posible?](https://dev.to/turupawn/mundos-grandes-100-on-chain-es-posible-2h58)
+- [The SaaS Revolution: Don&#39;t Miss Out on the $900 Billion Opportunity!](https://dev.to/dewmal/the-saas-revolution-dont-miss-out-on-the-900-billion-opportunity-44g8)
+- [Functional Programming &lpar;FP&rpar; Principles with examples](https://dev.to/rosselli00/functional-programming-fp-principles-with-examples-pd3)
+- [What is Pascal&#39;s Triangle and Why It&#39;s Important to Software Engineering](https://dev.to/tobidelly/what-is-pascals-triangle-and-why-its-important-to-software-engineering-1b9c)
+- [Introducing our new Developer Center 😎 💪](https://dev.to/upsun/introducing-our-new-developer-center-59ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
