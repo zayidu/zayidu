@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Server-Side Applications with Hapi.js](https://dev.to/kartikmehta8/building-server-side-applications-with-hapijs-3k7g)
-- [Gestor de Iniciativas Ecológicas: Django &lpar;Parte 3&rpar;](https://dev.to/villacisg93/gestor-de-iniciativas-ecologicas-django-parte-3-f4k)
-- [Enforcing Driver Breaks After Departure Time in Google OR-Tools VRP](https://dev.to/thana_b/enforcing-driver-breaks-after-departure-time-in-google-or-tools-vrp-207e)
-- [Explorando a Observabilidade com OpenTelemetry: Propagação de Contexto e Arquiteturas Distribuídas](https://dev.to/dellamas/explorando-a-observabilidade-com-opentelemetry-propagacao-de-contexto-e-arquiteturas-distribuidas-28bi)
-- [Built a Netflix Clone with HTML &amp; CSS – What I Learned Along the Way!](https://dev.to/imrankhan17/built-a-netflix-clone-with-html-css-what-i-learned-along-the-way-3fa4)
+- [Bhupesh Singh Nitwal](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-296d)
+- [Compile Neovim in Debian/Ubuntu Linux](https://dev.to/hardyweb/compile-neovim-in-debianubuntu-linux-1b9a)
+- [Securing Your Website with Basic Auth for NGINX](https://dev.to/nasrulhazim/securing-your-website-with-basic-auth-for-nginx-50h3)
+- [Proactive AppSec continuous vulnerability management for developers and security teams](https://dev.to/snyk/proactive-appsec-continuous-vulnerability-management-for-developers-and-security-teams-49he)
+- [10 Things I Wish I Knew When I Started with React](https://dev.to/mourya_modugula/10-things-i-wish-i-knew-when-i-started-with-react-4i8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
