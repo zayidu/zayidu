@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering C# Fundamentals: A Beginner’s Journey into .NET Development](https://dev.to/iamcymentho/mastering-c-fundamentals-a-beginners-journey-into-net-development-3am1)
-- [I made Webflow but for Python UI. Here&#39;s how I built it](https://dev.to/paul_freeman/i-made-webflow-but-for-python-ui-heres-how-i-built-it-3f7j)
-- [Can AI Write Production-Ready Code? What Every Developer Should Know](https://dev.to/theainews/can-ai-write-production-ready-code-what-every-developer-should-know-33dn)
-- [A Importância do Design Responsivo na Era Mobile](https://dev.to/edrda/a-importancia-do-design-responsivo-na-era-mobile-1gem)
-- [How to Boost the Performance of a Monolithic Application](https://dev.to/wallacefreitas/how-to-boost-the-performance-of-a-monolithic-application-3lil)
+- [Why You Should Hang Around People Doing Better Than You 💪🏽](https://dev.to/fullstacktanmay/why-you-should-hang-around-people-doing-better-than-you-57km)
+- [The AI-Powered Trip Planner, 😻 You Can&#39;t Live Without ⚡](https://dev.to/copilotkit/the-ai-powered-trip-planner-you-cant-live-without-2pk6)
+- [RabbitMQ vs. Kafka vs. ActiveMQ in Fintech: A Comparative Guide with Use Cases, Challenges, and Solutions](https://dev.to/iamcymentho/rabbitmq-vs-kafka-vs-activemq-in-fintech-a-comparative-guide-with-use-cases-challenges-and-solutions-2c00)
+- [Exciting Open Source Events, Useful Tips and Great Projects - Hacktoberfest 2024⚡🔥⭐](https://dev.to/astrodevil/exciting-open-source-events-useful-tips-and-great-projects-hacktoberfest-2024-1n5l)
+- [aku idn](https://dev.to/syafiq1331/aku-idn-2g5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
