@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dia 5 - Deque vs. Vector vs. Array](https://dev.to/matheusgb/dia-5-deque-vs-vector-vs-array-4ffk)
-- [Java Performance Optimization Techniques](https://dev.to/mohamed_kramti/java-performance-optimization-techniques-45d1)
-- [Getting Started with OpenTelemetry](https://dev.to/sixpathssage/getting-started-with-opentelemetry-4kc1)
-- [Prompt engineering AI-Spreadsheet-like experience 🚀](https://dev.to/lina_lam_9ee459f98b67e9d5/prompt-engineering-ai-spreadsheet-like-experience-dhk)
-- [Neo.mjs: A high-performance open-source JavaScript framework.](https://dev.to/htsagara/neomjs-a-high-performance-open-source-javascript-framework-739)
+- [03.10](https://dev.to/vorobey41/0310-3dha)
+- [The Trends and or uses of QR Codes and NFC Tags?](https://dev.to/abzresponsible/the-trends-and-or-uses-of-qr-codes-and-nfc-tags-poh)
+- [Why Client-Side Permissions Aren’t Enough](https://dev.to/daniel-mutuku/why-client-side-permissions-arent-enough-5fpm)
+- [MessageChannel usage in React source code](https://dev.to/thinkthroo/messagechannel-usage-in-react-source-code-3771)
+- [monet&#39;s rainbow, in bright gradient colors](https://dev.to/babar_ali/monets-rainbow-in-bright-gradient-colors-4mk7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
