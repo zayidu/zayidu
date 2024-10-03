@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Hang Around People Doing Better Than You 💪🏽](https://dev.to/fullstacktanmay/why-you-should-hang-around-people-doing-better-than-you-57km)
-- [The AI-Powered Trip Planner, 😻 You Can&#39;t Live Without ⚡](https://dev.to/copilotkit/the-ai-powered-trip-planner-you-cant-live-without-2pk6)
-- [RabbitMQ vs. Kafka vs. ActiveMQ in Fintech: A Comparative Guide with Use Cases, Challenges, and Solutions](https://dev.to/iamcymentho/rabbitmq-vs-kafka-vs-activemq-in-fintech-a-comparative-guide-with-use-cases-challenges-and-solutions-2c00)
-- [Exciting Open Source Events, Useful Tips and Great Projects - Hacktoberfest 2024⚡🔥⭐](https://dev.to/astrodevil/exciting-open-source-events-useful-tips-and-great-projects-hacktoberfest-2024-1n5l)
-- [aku idn](https://dev.to/syafiq1331/aku-idn-2g5o)
+- [Implementing Claude’s Artifacts feature for UI visualization](https://dev.to/logrocket/implementing-claudes-artifacts-feature-for-ui-visualization-26kh)
+- [Internal Working of Collections:](https://dev.to/abhishek_kumar_d9009a7ae6/internal-working-of-collections-3oom)
+- [Common Methods &amp; Performance of Java Collection Implementations](https://dev.to/abhishek_kumar_d9009a7ae6/common-methods-performance-of-java-collection-implementations-l33)
+- [AWS Project: Deploying a VPC with Terraform](https://dev.to/asif_khan/aws-project-deploying-a-vpc-with-terraform-2h9k)
+- [What are targets for in Rust?](https://dev.to/tekklinuxx/what-are-targets-for-in-rust-4bll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
