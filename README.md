@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [03.10](https://dev.to/vorobey41/0310-3dha)
-- [The Trends and or uses of QR Codes and NFC Tags?](https://dev.to/abzresponsible/the-trends-and-or-uses-of-qr-codes-and-nfc-tags-poh)
-- [Why Client-Side Permissions Aren’t Enough](https://dev.to/daniel-mutuku/why-client-side-permissions-arent-enough-5fpm)
-- [MessageChannel usage in React source code](https://dev.to/thinkthroo/messagechannel-usage-in-react-source-code-3771)
-- [monet&#39;s rainbow, in bright gradient colors](https://dev.to/babar_ali/monets-rainbow-in-bright-gradient-colors-4mk7)
+- [Why Do Many People Not Recommend Using JWT?](https://dev.to/safdarali/why-do-many-people-not-recommend-using-jwt-1ol5)
+- [ALL YOU NEED TO KNOW ABOUT AWS VPC PEERING](https://dev.to/dheecloud/all-you-need-to-know-about-aws-vpc-peering-1fjl)
+- [ORM and encapsulation demystifying](https://dev.to/brunociccarino/orm-and-encapsulation-demystifying-f6j)
+- [How I Solved the HackerRank &quot;Picking Numbers&quot; Problem in TypeScript](https://dev.to/kingdraxx/how-i-solved-the-hackerrank-picking-numbers-problem-in-typescript-3jo9)
+- [Mind](https://dev.to/babar_ali/mind-2lom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
