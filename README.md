@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Development and Impact of NFT Platforms](https://dev.to/saeedullah_shah_1b7a5b308/exploring-the-development-and-impact-of-nft-platforms-15ni)
-- [Common Interview Question: Swapping Two Numbers Without a Temporary Variable in Java](https://dev.to/arshisaxena26/common-interview-question-swapping-two-numbers-without-a-temporary-variable-in-java-4e41)
-- [ASO.dev new ASO tool to Optimize your app&#39;s visibility](https://dev.to/asodev/asodev-new-aso-tool-to-optimize-your-apps-visibility-2k4l)
-- [7 Best SaaS Boilerplates to Lauch Your SaaS Startup Faster 🚀](https://dev.to/syakirurahman/7-best-saas-boilerplates-to-lauch-your-saas-startup-faster-47k2)
-- [5 Ways Beginner Python Coders Can Use ChatGPT](https://dev.to/chirsadams1/5-ways-beginner-python-coders-can-use-chatgpt-3acp)
+- [Mastering C# Fundamentals: A Beginner’s Journey into .NET Development](https://dev.to/iamcymentho/mastering-c-fundamentals-a-beginners-journey-into-net-development-3am1)
+- [I made Webflow but for Python UI. Here&#39;s how I built it](https://dev.to/paul_freeman/i-made-webflow-but-for-python-ui-heres-how-i-built-it-3f7j)
+- [Can AI Write Production-Ready Code? What Every Developer Should Know](https://dev.to/theainews/can-ai-write-production-ready-code-what-every-developer-should-know-33dn)
+- [A Importância do Design Responsivo na Era Mobile](https://dev.to/edrda/a-importancia-do-design-responsivo-na-era-mobile-1gem)
+- [How to Boost the Performance of a Monolithic Application](https://dev.to/wallacefreitas/how-to-boost-the-performance-of-a-monolithic-application-3lil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
