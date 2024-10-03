@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deno vs Node.js: Is Deno Really the Better Node?](https://dev.to/charliesay/deno-vs-nodejs-is-deno-really-the-better-node-2fcf)
-- [HTML/CSS Class - Lesson 1 for 5th grade](https://dev.to/tobidelly/htmlcss-class-lesson-1-for-5th-grade-4nol)
-- [post #1 of struggling](https://dev.to/nelsonmalbonecoding/post-1-of-struggling-424o)
-- [Laravel Stats : Filament Charts.js pour faire les statistiques](https://dev.to/developpeurtaf/laravel-stats-filament-chartsjs-386o)
-- [Day 1034 : Money](https://dev.to/dwane/day-1034-money-1fj3)
+- [Building Server-Side Applications with Hapi.js](https://dev.to/kartikmehta8/building-server-side-applications-with-hapijs-3k7g)
+- [Gestor de Iniciativas Ecológicas: Django &lpar;Parte 3&rpar;](https://dev.to/villacisg93/gestor-de-iniciativas-ecologicas-django-parte-3-f4k)
+- [Enforcing Driver Breaks After Departure Time in Google OR-Tools VRP](https://dev.to/thana_b/enforcing-driver-breaks-after-departure-time-in-google-or-tools-vrp-207e)
+- [Explorando a Observabilidade com OpenTelemetry: Propagação de Contexto e Arquiteturas Distribuídas](https://dev.to/dellamas/explorando-a-observabilidade-com-opentelemetry-propagacao-de-contexto-e-arquiteturas-distribuidas-28bi)
+- [Built a Netflix Clone with HTML &amp; CSS – What I Learned Along the Way!](https://dev.to/imrankhan17/built-a-netflix-clone-with-html-css-what-i-learned-along-the-way-3fa4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
