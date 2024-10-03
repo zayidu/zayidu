@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SwissTable: A High-Performance Hash Table Implementation](https://dev.to/huizhou92/swisstable-a-high-performance-hash-table-implementation-1knc)
-- [A Simple Guide to Loading an Entire PDF into a List of Documents Using Langchain](https://dev.to/smuniraj/a-simple-guide-to-loading-an-entire-pdf-into-a-list-of-documents-using-langchain-4hih)
-- [Securing Your Go API with JWT Authentication](https://dev.to/neelp03/securing-your-go-api-with-jwt-authentication-4amj)
-- [Bhupesh Singh Nitwal](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-296d)
-- [Compile Neovim in Debian/Ubuntu Linux](https://dev.to/hardyweb/compile-neovim-in-debianubuntu-linux-1b9a)
+- [Akshata Upadhye&#39;s Guide To Revolutionizing Staffing with Data Science, NLP and Advanced Analytics](https://dev.to/mariliatirachi62/akshata-upadhyes-guide-to-revolutionizing-staffing-with-data-science-nlp-and-advanced-analytics-1feh)
+- [Create an Online Application Form in 3 Steps](https://dev.to/domfive/create-an-online-application-form-in-3-steps-304a)
+- [Introducing Built with Laravel](https://dev.to/arafatweb/introducing-built-with-laravel-1a9e)
+- [AWS Serverless: How to Stop EC2 using Event Bridge and Lambda](https://dev.to/bhatiagirish/aws-serverless-how-to-stop-ec2-using-event-bridge-and-lambda-go5)
+- [Structuring a Rust Project with Modules](https://dev.to/tekklinuxx/structuring-a-rust-project-with-modules-26h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
