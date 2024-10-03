@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Augmenting the client with Alpine.js](https://dev.to/nfrankel/augmenting-the-client-with-alpinejs-15bm)
-- [Seeking a Co-Founder or Collaborator for Innovative Geolocation-Based Cybersecurity Project](https://dev.to/raz_devra/seeking-a-co-founder-or-collaborator-for-innovative-geolocation-based-cybersecurity-project-kfj)
-- [Seeking a Co-Founder or Collaborator for Innovative Geolocation-Based Cybersecurity Project](https://dev.to/raz_devra/seeking-a-co-founder-or-collaborator-for-innovative-geolocation-based-cybersecurity-project-nlm)
-- [Convert URLs to EPUB: Easily Create eBooks](https://dev.to/itbk95/convert-urls-to-epub-easily-create-ebooks-35jf)
-- [Revolutionizing Business with APIs and AI: The New Era of Digital Transformation](https://dev.to/jottyjohn/revolutionizing-business-with-apis-and-ai-the-new-era-of-digital-transformation-2gb2)
+- [Linux file permissions.](https://dev.to/musafci/linux-file-permissions-5a94)
+- [Migrations, Quiry Builder, dan Eloquent Dalam Laravel](https://dev.to/muhammad_nurardi_b1803e2/migrations-quiry-builder-dan-eloquent-dalam-laravel-3oio)
+- [UX Audit: A Stepping Stone to Boost Sales](https://dev.to/lollypopdesign/ux-audit-a-stepping-stone-to-boost-sales-2ngb)
+- [penejelasan terkait Migrations dan Query builder](https://dev.to/shonabil/penejelasan-terkait-migrations-dan-query-builder-1bbm)
+- [The Evolution of ERC-20 Tokens: Past, Present, and Future](https://dev.to/lisaward867/the-evolution-of-erc-20-tokens-past-present-and-future-9nc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
