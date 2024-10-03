@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux file permissions.](https://dev.to/musafci/linux-file-permissions-5a94)
-- [Migrations, Quiry Builder, dan Eloquent Dalam Laravel](https://dev.to/muhammad_nurardi_b1803e2/migrations-quiry-builder-dan-eloquent-dalam-laravel-3oio)
-- [UX Audit: A Stepping Stone to Boost Sales](https://dev.to/lollypopdesign/ux-audit-a-stepping-stone-to-boost-sales-2ngb)
-- [penejelasan terkait Migrations dan Query builder](https://dev.to/shonabil/penejelasan-terkait-migrations-dan-query-builder-1bbm)
-- [The Evolution of ERC-20 Tokens: Past, Present, and Future](https://dev.to/lisaward867/the-evolution-of-erc-20-tokens-past-present-and-future-9nc)
+- [Exploring the Development and Impact of NFT Platforms](https://dev.to/saeedullah_shah_1b7a5b308/exploring-the-development-and-impact-of-nft-platforms-15ni)
+- [Common Interview Question: Swapping Two Numbers Without a Temporary Variable in Java](https://dev.to/arshisaxena26/common-interview-question-swapping-two-numbers-without-a-temporary-variable-in-java-4e41)
+- [ASO.dev new ASO tool to Optimize your app&#39;s visibility](https://dev.to/asodev/asodev-new-aso-tool-to-optimize-your-apps-visibility-2k4l)
+- [7 Best SaaS Boilerplates to Lauch Your SaaS Startup Faster 🚀](https://dev.to/syakirurahman/7-best-saas-boilerplates-to-lauch-your-saas-startup-faster-47k2)
+- [5 Ways Beginner Python Coders Can Use ChatGPT](https://dev.to/chirsadams1/5-ways-beginner-python-coders-can-use-chatgpt-3acp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
