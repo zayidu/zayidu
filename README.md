@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Database Management with Ansible and DbVisualizer](https://dev.to/dbvismarketing/simplifying-database-management-with-ansible-and-dbvisualizer-19ok)
-- [Thought-Provoking Questions Every Backend Developer Should Ask](https://dev.to/msnmongare/thought-provoking-questions-every-backend-developer-should-ask-4nl)
-- [Platform Engineering Abstraction: How to Scale IaC for Enterprise](https://dev.to/jarrid/platform-engineering-abstraction-how-to-scale-iac-for-enterprise-4e86)
-- [OpenSign v1.7.3 introduces new features download document before sign, Resend mail functionality, Celebration Confetti.](https://dev.to/opensign001/opensign-v173-introduces-new-features-download-document-before-sign-resend-mail-functionality-celebration-confetti-46fh)
-- [Applying SAST Tools to Any Application](https://dev.to/marioflores7/applying-sast-tools-to-any-application-22id)
+- [Introduction to Python as a Data Analytics Tool](https://dev.to/victor_muthoka/introduction-to-python-as-a-data-analytics-tool-1599)
+- [Handling Data in SQL: Signed vs. Unsigned Types](https://dev.to/shikha_gupta_080e904b317e/handling-data-in-sql-signed-vs-unsigned-types-1g5c)
+- [Rsyslog ile Kullanıcıların Bash History Bilgilerinin Log Sunucusuna Yönelendirilmesi](https://dev.to/aciklab/rsyslog-ile-kullanicilarin-bash-history-bilgilerinin-log-sunucusuna-yonelendirilmesi-307i)
+- [How to implement immediate in-app updates using Google Play API in Unity?](https://dev.to/abhiishek_28/how-to-implement-immediate-in-app-updates-using-google-play-api-in-unity-mid)
+- [Hi Community](https://dev.to/bohdanai/hi-community-59jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
