@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mundos grandes 100% On-Chain. ¿Es posible?](https://dev.to/turupawn/mundos-grandes-100-on-chain-es-posible-2h58)
-- [The SaaS Revolution: Don&#39;t Miss Out on the $900 Billion Opportunity!](https://dev.to/dewmal/the-saas-revolution-dont-miss-out-on-the-900-billion-opportunity-44g8)
-- [Functional Programming &lpar;FP&rpar; Principles with examples](https://dev.to/rosselli00/functional-programming-fp-principles-with-examples-pd3)
-- [What is Pascal&#39;s Triangle and Why It&#39;s Important to Software Engineering](https://dev.to/tobidelly/what-is-pascals-triangle-and-why-its-important-to-software-engineering-1b9c)
-- [Introducing our new Developer Center 😎 💪](https://dev.to/upsun/introducing-our-new-developer-center-59ni)
+- [Debugging Nightmares: How to Survive and Fix Your Code Without Losing Your Mind](https://dev.to/ratan_3511/debugging-nightmares-how-to-survive-and-fix-your-code-without-losing-your-mind-4gd)
+- [Modernizando Plataformas Monolíticas - Minha experiência com o Strangler Pattern](https://dev.to/felipefreitasffs/modernizando-plataformas-monoliticas-minha-experiencia-com-o-strangler-pattern-164j)
+- [25 Tech Terms Every Tech Beginner Should Know.](https://dev.to/binxthedesigner/25-tech-terms-every-tech-beginner-should-know-4i6e)
+- [Effortlessly Copy Files Between AWS S3 Buckets with a Simple Bash Script](https://dev.to/sherif_san/effortlessly-copy-files-between-aws-s3-buckets-with-a-simple-bash-script-b1h)
+- [Optimizing Next.js Websites for Core Web Vitals and Page Performance](https://dev.to/abhay1kumar/optimizing-nextjs-websites-for-core-web-vitals-and-page-performance-5713)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
