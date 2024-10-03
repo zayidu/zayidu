@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Python as a Data Analytics Tool](https://dev.to/victor_muthoka/introduction-to-python-as-a-data-analytics-tool-1599)
-- [Handling Data in SQL: Signed vs. Unsigned Types](https://dev.to/shikha_gupta_080e904b317e/handling-data-in-sql-signed-vs-unsigned-types-1g5c)
-- [Rsyslog ile Kullanıcıların Bash History Bilgilerinin Log Sunucusuna Yönelendirilmesi](https://dev.to/aciklab/rsyslog-ile-kullanicilarin-bash-history-bilgilerinin-log-sunucusuna-yonelendirilmesi-307i)
-- [How to implement immediate in-app updates using Google Play API in Unity?](https://dev.to/abhiishek_28/how-to-implement-immediate-in-app-updates-using-google-play-api-in-unity-mid)
-- [Hi Community](https://dev.to/bohdanai/hi-community-59jp)
+- [Augmenting the client with Alpine.js](https://dev.to/nfrankel/augmenting-the-client-with-alpinejs-15bm)
+- [Seeking a Co-Founder or Collaborator for Innovative Geolocation-Based Cybersecurity Project](https://dev.to/raz_devra/seeking-a-co-founder-or-collaborator-for-innovative-geolocation-based-cybersecurity-project-kfj)
+- [Seeking a Co-Founder or Collaborator for Innovative Geolocation-Based Cybersecurity Project](https://dev.to/raz_devra/seeking-a-co-founder-or-collaborator-for-innovative-geolocation-based-cybersecurity-project-nlm)
+- [Convert URLs to EPUB: Easily Create eBooks](https://dev.to/itbk95/convert-urls-to-epub-easily-create-ebooks-35jf)
+- [Revolutionizing Business with APIs and AI: The New Era of Digital Transformation](https://dev.to/jottyjohn/revolutionizing-business-with-apis-and-ai-the-new-era-of-digital-transformation-2gb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
