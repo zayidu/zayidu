@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Do Many People Not Recommend Using JWT?](https://dev.to/safdarali/why-do-many-people-not-recommend-using-jwt-1ol5)
-- [ALL YOU NEED TO KNOW ABOUT AWS VPC PEERING](https://dev.to/dheecloud/all-you-need-to-know-about-aws-vpc-peering-1fjl)
-- [ORM and encapsulation demystifying](https://dev.to/brunociccarino/orm-and-encapsulation-demystifying-f6j)
-- [How I Solved the HackerRank &quot;Picking Numbers&quot; Problem in TypeScript](https://dev.to/kingdraxx/how-i-solved-the-hackerrank-picking-numbers-problem-in-typescript-3jo9)
-- [Mind](https://dev.to/babar_ali/mind-2lom)
+- [Day 1035 : Closer](https://dev.to/dwane/day-1035-closer-14oj)
+- [Day 2 tracking](https://dev.to/nelsonmalbonecoding/day-2-tracking-2p61)
+- [How to code a web scraper in c# dotnet 8](https://dev.to/joedev090/how-to-code-a-web-scrapper-in-c-dotnet-8-1c20)
+- [Supercharging Your Debugging Skills with Android Logcat 💻🚀](https://dev.to/gorkemkara/supercharging-your-debugging-skills-with-android-logcat-2ih6)
+- [LabEx Trending: React Colour Filter Application and More](https://dev.to/labex/labex-trending-react-colour-filter-application-and-more-1ijd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
