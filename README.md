@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Keycloak with MSSQL Server Using Docker](https://dev.to/jeanb/setting-up-keycloak-with-mssql-server-using-docker-3pl1)
-- [Introduction to Graph Data Structures](https://dev.to/kartikmehta8/introduction-to-graph-data-structures-4hna)
-- [Understanding and Resolving Node.js Version Conflicts with NVM on macOS](https://dev.to/horace_njoroge_261c15ddae/understanding-and-resolving-nodejs-version-conflicts-with-nvm-on-macos-3a32)
-- [Using Veracode to Improve Your Application](https://dev.to/fabiola_estefanipomamac/using-veracode-to-improve-your-application-4k0a)
-- [SPO Week 2.1 - lab](https://dev.to/krinskumar/spo-week-21-lab-ae8)
+- [What is Asynchronous Code? How to Use It in Python to Speed Up Your Code Learn by Building a Weather App! ☀️🌦️](https://dev.to/ahmed__elboshi/what-is-asynchronous-code-how-to-use-it-in-python-to-speed-up-your-code-learn-by-building-a-weather-app-3md2)
+- [Guide to Adding Info Text in Sanity Studio](https://dev.to/dmuraco3/guide-to-adding-info-text-in-sanity-studio-51od)
+- [How Platforms Enforce Maximum Downloads on Browsers](https://dev.to/daniel-mutuku/how-platforms-enforce-maximum-downloads-on-browsers-2nk0)
+- [Conversing via Local Microphone and Speaker using Realtime API](https://dev.to/m_sea_bass/conversing-via-local-microphone-and-speaker-using-realtime-api-2723)
+- [[K8s] A Complete Series of Articles on Kubernetes Environment Locally](https://dev.to/baoduy2412/k8s-a-complete-series-of-articles-on-kubernetes-environment-locally-1hjg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
