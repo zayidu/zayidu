@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dia 6 - Fim do snake game e materiais que achei sobre física computacional.](https://dev.to/matheusgb/dia-6-fim-do-snake-game-e-materiais-que-achei-sobre-fisica-computacional-4kh2)
-- [Using jQuery](https://dev.to/taytay836/using-jquery-50l9)
-- [A New Programming Language](https://dev.to/myhauntedfork/a-new-programming-language-2gcf)
-- [The Ultimate Dev.to Hacks To Skyrocket Your Blog&#39;s SEO &amp; Traffic](https://dev.to/jimmymcbride/the-ultimate-devto-hacks-to-skyrocket-your-blogs-seo-traffic-3h6k)
-- [Customizing Tailwind CSS – Extending the Framework](https://dev.to/ridoy_hasan/customizing-tailwind-css-extending-the-framework-111c)
+- [Let&#39;s build &quot;Java demos&quot; together during Hacktoberfest](https://dev.to/aloisseckar/lets-build-java-demos-together-during-hacktoberfest-3dkj)
+- [More testing](https://dev.to/jesse_chong_3bcc276c4f950/more-testing-5ame)
+- [Understanding Beckn Protocol: Revolutionizing Open Networks in E-commerce](https://dev.to/kaustubhyerkade/beckn-protocol-6bd)
+- [Building a Blog Management System with .NET and Angular](https://dev.to/marvynharry/building-a-blog-management-system-with-net-and-angular-298k)
+- [Security news weekly round-up - 4th October 2024](https://dev.to/ziizium/security-news-weekly-round-up-4th-october-2024-59g1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
