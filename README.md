@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1035 : Closer](https://dev.to/dwane/day-1035-closer-14oj)
-- [Day 2 tracking](https://dev.to/nelsonmalbonecoding/day-2-tracking-2p61)
-- [How to code a web scraper in c# dotnet 8](https://dev.to/joedev090/how-to-code-a-web-scrapper-in-c-dotnet-8-1c20)
-- [Supercharging Your Debugging Skills with Android Logcat 💻🚀](https://dev.to/gorkemkara/supercharging-your-debugging-skills-with-android-logcat-2ih6)
-- [LabEx Trending: React Colour Filter Application and More](https://dev.to/labex/labex-trending-react-colour-filter-application-and-more-1ijd)
+- [Setting Up Keycloak with MSSQL Server Using Docker](https://dev.to/jeanb/setting-up-keycloak-with-mssql-server-using-docker-3pl1)
+- [Introduction to Graph Data Structures](https://dev.to/kartikmehta8/introduction-to-graph-data-structures-4hna)
+- [Understanding and Resolving Node.js Version Conflicts with NVM on macOS](https://dev.to/horace_njoroge_261c15ddae/understanding-and-resolving-nodejs-version-conflicts-with-nvm-on-macos-3a32)
+- [Using Veracode to Improve Your Application](https://dev.to/fabiola_estefanipomamac/using-veracode-to-improve-your-application-4k0a)
+- [SPO Week 2.1 - lab](https://dev.to/krinskumar/spo-week-21-lab-ae8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
