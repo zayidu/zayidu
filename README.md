@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [npm Vs npx](https://dev.to/jagroop2001/npm-vs-npx-1anc)
-- [C# Design Pattern: Flyweight &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-flyweight-portugues-3hcl)
-- [C# Design Pattern: Flyweight](https://dev.to/juarezasjunior/c-design-pattern-flyweight-29gn)
-- [Gérer la Scalabilité dans les Architectures ESB](https://dev.to/karimatak_26/gerer-la-scalabilite-dans-les-architectures-esb-4hh3)
-- [Essential Soft Skills for Software Engineers](https://dev.to/saikatcdas/essential-soft-skills-for-software-engineers-o57)
+- [Top 5 Production-Ready Open Source AI Libraries for Engineering Teams](https://dev.to/kitops/top-5-production-ready-open-source-ai-libraries-for-engineering-teams-5hjo)
+- [The Journey from Developer to Senior Engineer: More Than Just Code](https://dev.to/abdielbytes/the-journey-from-developer-to-senior-engineer-more-than-just-code-4d3p)
+- [Efficient Data Handling in Triton: Mapping Threads to Data Points](https://dev.to/soket/efficient-data-handling-in-triton-mapping-threads-to-data-points-3p2d)
+- [Privacy first API Testing client for Mac](https://dev.to/juststevemcd/privacy-first-api-testing-client-for-mac-2910)
+- [Manipulating Arrays with PHP](https://dev.to/carloseduardoalvesviana/manipulating-arrays-with-php-ie7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
