@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Telegram Bot and Send Messages Using Laravel 11](https://dev.to/akramghaleb/how-to-create-a-telegram-bot-and-send-messages-using-laravel-11-3709)
-- [Java Backend Management Project](https://dev.to/dinesh_peram_94caa7ef5ce9/java-backend-management-project-31bo)
-- [Cut AWS Costs by 90%: How We Saved Big and Gained Flexibility](https://dev.to/emilyjohnsonready/cut-aws-costs-by-90-how-we-saved-big-and-gained-flexibility-o1o)
-- [What is In-App Messaging?](https://dev.to/stephen568hub/what-is-in-app-messaging-2709)
-- [Next js Middleware – What Is It and When to Use It](https://dev.to/pagepro_agency/next-js-middleware-what-is-it-and-when-to-use-it-1j58)
+- [Bridging Native iOS Code with React Native Using Swift: A Step-by-Step Guide](https://dev.to/amitkumar13/bridging-native-ios-code-with-react-native-using-swift-a-step-by-step-guide-b05)
+- [What Can I do With Rust?](https://dev.to/andi_tan_b22a9332c4007123/what-can-i-do-with-rust-aa7)
+- [Efficient Data Handling with Node.js Streams](https://dev.to/imsushant12/efficient-data-handling-with-nodejs-streams-4483)
+- [What do SSR, CSR, ISR and SSG mean? A complete guide for web developers](https://dev.to/juniormty/what-do-ssr-csr-isr-and-ssg-mean-a-complete-guide-for-web-developers-2pe1)
+- [WEB3 BetCandidate](https://dev.to/dsfhigor/web3-betcandidate-4085)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
