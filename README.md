@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Backstage performance &lpar;by up to 48x&rpar;](https://dev.to/roadie/improving-backstage-performance-by-up-to-48x-12d9)
-- [Integrating Speech Recognition Technology in Applications to Enhance User Experience](https://dev.to/julia_8cb077bca5/integrating-speech-recognition-technology-in-applications-to-enhance-user-experience-3hji)
-- [Icon Banks for Winforms and .NET9](https://dev.to/ramoneeza/icon-banks-for-winforms-and-net9-29n)
-- [help me !!](https://dev.to/nautiyal_ji/help-me--4h3)
-- [Practical Approaches to Key Information Extraction &lpar;Part 1&rpar;](https://dev.to/mrzaizai2k/real-life-key-information-extraction-p1-dont-over-complicate-things-39o9)
+- [Python Generators: A Complete Guide](https://dev.to/oussama_errafif/python-generators-a-complete-guide-33k7)
+- [Key Business Intelligence Tools in Project Development](https://dev.to/freshtech/key-business-intelligence-tools-in-project-development-12am)
+- [Reverse the case of a string - Javascript](https://dev.to/dindustack/reverse-the-case-of-a-string-javascript-1n7l)
+- [🚀Top 5 Open Source Projects to Contribute to During Hacktoberfest 2️⃣0️⃣2️⃣4️⃣](https://dev.to/taipy/top-5-open-source-projects-to-contribute-to-during-hacktoberfest-2024-45c)
+- [🚀 Unlock the Power of .NET Aspire! 🚀](https://dev.to/dot_nettips_a4e90828daa4/unlock-the-power-of-net-aspire-46mg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
