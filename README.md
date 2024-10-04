@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Local SSL Root Certificate &lpar;CA&rpar; Management](https://dev.to/servbay/local-ssl-root-certificate-ca-management-3ahe)
-- [REST Api](https://dev.to/om_vaja/rest-api-1pjg)
-- [How to Set Up MongoDB with Next.js](https://dev.to/dee_codes/how-to-set-up-mongodb-with-nextjs-2lkb)
-- [Terraform Security Best Practices for Securing Infrastructure as Code](https://dev.to/routeclouds/terraform-security-best-practices-for-securing-infrastructure-as-code-2a5a)
-- [How to solve component refresh in Sitecore XM Cloud using Higher-Order Components](https://dev.to/juan_dvd/how-to-solve-component-refresh-in-sitecore-xm-cloud-using-higher-order-components-2lan)
+- [npm Vs npx](https://dev.to/jagroop2001/npm-vs-npx-1anc)
+- [C# Design Pattern: Flyweight &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-flyweight-portugues-3hcl)
+- [C# Design Pattern: Flyweight](https://dev.to/juarezasjunior/c-design-pattern-flyweight-29gn)
+- [Gérer la Scalabilité dans les Architectures ESB](https://dev.to/karimatak_26/gerer-la-scalabilite-dans-les-architectures-esb-4hh3)
+- [Essential Soft Skills for Software Engineers](https://dev.to/saikatcdas/essential-soft-skills-for-software-engineers-o57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
