@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging Native iOS Code with React Native Using Swift: A Step-by-Step Guide](https://dev.to/amitkumar13/bridging-native-ios-code-with-react-native-using-swift-a-step-by-step-guide-b05)
-- [What Can I do With Rust?](https://dev.to/andi_tan_b22a9332c4007123/what-can-i-do-with-rust-aa7)
-- [Efficient Data Handling with Node.js Streams](https://dev.to/imsushant12/efficient-data-handling-with-nodejs-streams-4483)
-- [What do SSR, CSR, ISR and SSG mean? A complete guide for web developers](https://dev.to/juniormty/what-do-ssr-csr-isr-and-ssg-mean-a-complete-guide-for-web-developers-2pe1)
-- [WEB3 BetCandidate](https://dev.to/dsfhigor/web3-betcandidate-4085)
+- [React rendering lists with .map&lpar;&rpar;](https://dev.to/fullhousee/react-rendering-lists-with-map-2l0n)
+- [API Rate Limiting and Throttling with Autonomous Agents](https://dev.to/apidna/api-rate-limiting-and-throttling-with-autonomous-agents-2m7m)
+- [SQL Server Native Backup and Restore on Amazon RDS : AWS Project](https://dev.to/shubham_murti/sql-server-native-backup-and-restore-on-amazon-rds-aws-project-49m4)
+- [Native GLIBC instead of Linuxbrew since 2.21](https://dev.to/yugabyte/native-glibc-instead-of-linuxbrew-since-221-288h)
+- [Mastering DevOps: Practical Projects for Cloud Automation and Deployment](https://dev.to/rose_rusell_8839af0b0bba5/mastering-devops-practical-projects-for-cloud-automation-and-deployment-1d57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
