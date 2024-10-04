@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Small Swoole Entity Manager Bundle](https://dev.to/sebk69/small-swoole-entity-manager-bundle-46hm)
-- [Devlog: Hacktoberfest 2024 &lpar;1/4&rpar;](https://dev.to/peterdanwan/devlog-hacktoberfest-2024-14-23b)
-- [# 🚀 How I Made Your Life Easier with TOML Configs in an Open Source Project](https://dev.to/tasbi03/-how-i-made-your-life-easier-with-toml-configs-in-an-open-source-project-32n1)
-- [Sliding Window Questions](https://dev.to/mdiffshashank/sliding-window-questions-1mgk)
-- [Day 25. Broken endpoint?](https://dev.to/kiolk/day-25-broken-endpoint-4eo7)
+- [Dia 6 - Fim do snake game e materiais que achei sobre física computacional.](https://dev.to/matheusgb/dia-6-fim-do-snake-game-e-materiais-que-achei-sobre-fisica-computacional-4kh2)
+- [Using jQuery](https://dev.to/taytay836/using-jquery-50l9)
+- [A New Programming Language](https://dev.to/myhauntedfork/a-new-programming-language-2gcf)
+- [The Ultimate Dev.to Hacks To Skyrocket Your Blog&#39;s SEO &amp; Traffic](https://dev.to/jimmymcbride/the-ultimate-devto-hacks-to-skyrocket-your-blogs-seo-traffic-3h6k)
+- [Customizing Tailwind CSS – Extending the Framework](https://dev.to/ridoy_hasan/customizing-tailwind-css-extending-the-framework-111c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
