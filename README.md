@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stuck Between Blockchain and Cloud Computing: Seeking Career Advice](https://dev.to/t9fiction/stuck-between-blockchain-and-cloud-computing-seeking-career-advice-140g)
-- [Top 8 Traffic Monitoring Tools for Next.js App](https://dev.to/ethanleetech/top-8-traffic-monitoring-tools-for-nextjs-app-30hn)
-- [Laravel সম্পর্কের চিটশিট](https://dev.to/r_if99/laravel-smprker-cittshitt-1lgm)
-- [Providing Storage for a New Company App](https://dev.to/onyemachi_doris/providing-storage-for-a-new-company-app-2a8j)
-- [Hacktoberfest 2024: 1st Contribution](https://dev.to/arilloid/hacktoberfest-2024-1st-contribution-34i2)
+- [5 Habits of Great Software Engineers](https://dev.to/safdarali/5-habits-of-great-software-engineers-4i73)
+- [Solving the HackerRank&quot;Grading Students&quot; Problem in TypeScript](https://dev.to/kingdraxx/solving-the-hackerrankgrading-students-problem-in-typescript-4h2m)
+- [A Practical Approach to TOML Files and Remote Branch Management](https://dev.to/kannav02/a-practical-approach-to-toml-files-and-remote-branch-management-hh8)
+- [Understanding the Prototype Pattern in C# with Practical Examples](https://dev.to/dazevedo/understanding-the-prototype-pattern-in-c-with-practical-examples-1gg3)
+- [How to Implement Singly Linked List in JavaScript](https://dev.to/emmanuelayinde/how-to-implement-singly-linked-list-in-javascript-2365)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
