@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Development Teams Monitor App Performance, Latency, and Load Times 📊🚀](https://dev.to/info_generalhazedawn_a3d/how-development-teams-monitor-app-performance-latency-and-load-times-31c1)
-- [Creating A Lightweight Code Editor Using Vanilla Js](https://dev.to/codevsom/creating-a-lightweight-code-editor-using-vanilla-js-ak1)
-- [Journey to understand format string attack &lpar;Part 1&rpar;](https://dev.to/duracellrabbid/journey-to-understand-format-string-attack-part-1-5dda)
-- [Image with text overlay using HTML and CSS](https://dev.to/kaja_uvais_a8691e947dd399/image-with-text-overlay-using-html-and-css-1hbj)
-- [SCSS: Working with Functions](https://dev.to/tailwine/scss-working-with-functions-354m)
+- [Podlite: Powering Up Knowledge Management](https://dev.to/zag/podlite-powering-up-knowledge-management-1knn)
+- [How the shell aliases affect shell functions: two pitfalls](https://dev.to/franklinyu/how-the-shell-aliases-affect-shell-functions-two-pitfalls-2ao9)
+- [The Role of Real-Time Finance APIs in Building Automated Trading Systems](https://dev.to/williamsmithh/the-role-of-real-time-finance-apis-in-building-automated-trading-systems-151j)
+- [Cybersecurity Erosion: Addressing the Hidden Threat to Long-Term Security](https://dev.to/viradiaharsh/cybersecurity-erosion-addressing-the-hidden-threat-to-long-term-security-346c)
+- [Software Architecture: A Journey Through Time 🕰️](https://dev.to/ipazooki/software-architecture-a-journey-through-time-map)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
