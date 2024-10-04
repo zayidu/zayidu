@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Activate Apple Passkeys on MacBooks](https://dev.to/corbado/how-to-activate-apple-passkeys-on-macbooks-13hh)
-- [MongoDB Server: An Overview](https://dev.to/keploy/mongodb-server-an-overview-336j)
-- [Has anyone tried Docker Installation on Ubuntu 24.04](https://dev.to/oliverbennet/has-anyone-tried-docker-installation-on-ubuntu-2404-5g88)
-- [Mastering Node.js CI/CD: Build &amp; Deploy with Azure DevOps to Azure Web App](https://dev.to/s3cloudhub/mastering-nodejs-cicd-build-deploy-with-azure-devops-to-azure-web-app-4cl2)
-- [Creating a Simple Web-Based Ethereum Wallet](https://dev.to/codenextgen/creating-a-simple-web-based-ethereum-wallet-1lkd)
+- [Improving Backstage performance &lpar;by up to 48x&rpar;](https://dev.to/roadie/improving-backstage-performance-by-up-to-48x-12d9)
+- [Integrating Speech Recognition Technology in Applications to Enhance User Experience](https://dev.to/julia_8cb077bca5/integrating-speech-recognition-technology-in-applications-to-enhance-user-experience-3hji)
+- [Icon Banks for Winforms and .NET9](https://dev.to/ramoneeza/icon-banks-for-winforms-and-net9-29n)
+- [help me !!](https://dev.to/nautiyal_ji/help-me--4h3)
+- [Practical Approaches to Key Information Extraction &lpar;Part 1&rpar;](https://dev.to/mrzaizai2k/real-life-key-information-extraction-p1-dont-over-complicate-things-39o9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
