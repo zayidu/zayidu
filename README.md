@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React rendering lists with .map&lpar;&rpar;](https://dev.to/fullhousee/react-rendering-lists-with-map-2l0n)
-- [API Rate Limiting and Throttling with Autonomous Agents](https://dev.to/apidna/api-rate-limiting-and-throttling-with-autonomous-agents-2m7m)
-- [SQL Server Native Backup and Restore on Amazon RDS : AWS Project](https://dev.to/shubham_murti/sql-server-native-backup-and-restore-on-amazon-rds-aws-project-49m4)
-- [Native GLIBC instead of Linuxbrew since 2.21](https://dev.to/yugabyte/native-glibc-instead-of-linuxbrew-since-221-288h)
-- [Mastering DevOps: Practical Projects for Cloud Automation and Deployment](https://dev.to/rose_rusell_8839af0b0bba5/mastering-devops-practical-projects-for-cloud-automation-and-deployment-1d57)
+- [Kicking Off My Hacktoberfest Journey!](https://dev.to/vrindagupta25/kicking-off-my-hacktoberfest-journey-5506)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13hp)
+- [&quot;Educational Resources for Preschoolers: Printable Worksheets, Games, and Activities&quot;](https://dev.to/athlen/educational-resources-for-preschoolers-printable-worksheets-games-and-activities-17p1)
+- [Hexabot Setup &amp; Visual Editor Tutorial: Build Your First AI Chatbot](https://dev.to/marrouchi/hexabot-setup-visual-editor-tutorial-build-your-first-ai-chatbot-5hfd)
+- [Laravel 11 Middleware Configuration: A Comprehensive Guide](https://dev.to/bhaidar/laravel-11-middleware-configuration-a-comprehensive-guide-1lic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
