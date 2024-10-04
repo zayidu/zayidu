@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Generators: A Complete Guide](https://dev.to/oussama_errafif/python-generators-a-complete-guide-33k7)
-- [Key Business Intelligence Tools in Project Development](https://dev.to/freshtech/key-business-intelligence-tools-in-project-development-12am)
-- [Reverse the case of a string - Javascript](https://dev.to/dindustack/reverse-the-case-of-a-string-javascript-1n7l)
-- [🚀Top 5 Open Source Projects to Contribute to During Hacktoberfest 2️⃣0️⃣2️⃣4️⃣](https://dev.to/taipy/top-5-open-source-projects-to-contribute-to-during-hacktoberfest-2024-45c)
-- [🚀 Unlock the Power of .NET Aspire! 🚀](https://dev.to/dot_nettips_a4e90828daa4/unlock-the-power-of-net-aspire-46mg)
+- [pgSphere and Q3C on Distributed SQL](https://dev.to/yugabyte/pgsphere-and-q3c-on-distributed-sql-4mmg)
+- [Understanding DDoS Attacks and Their Impact on Businesses](https://dev.to/anupriya/understanding-ddos-attacks-and-their-impact-on-businesses-1lm)
+- [🌟 Building Stateful LLM Agents with LangGraph 🤖✨](https://dev.to/cypriantinasheaarons/building-stateful-llm-agents-with-langgraph-4b9k)
+- [Unit Testing: A Comprehensive Guide](https://dev.to/keploy/unit-testing-a-comprehensive-guide-4mki)
+- [Understanding Developers: How Doc-E Insights Can Help You Build Better Products and Documentation](https://dev.to/rakesh_kumar_bf8f486c08f9/understanding-developers-how-doc-e-insights-can-help-you-build-better-products-and-documentation-hk2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
