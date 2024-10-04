@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kicking Off My Hacktoberfest Journey!](https://dev.to/vrindagupta25/kicking-off-my-hacktoberfest-journey-5506)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13hp)
-- [&quot;Educational Resources for Preschoolers: Printable Worksheets, Games, and Activities&quot;](https://dev.to/athlen/educational-resources-for-preschoolers-printable-worksheets-games-and-activities-17p1)
-- [Hexabot Setup &amp; Visual Editor Tutorial: Build Your First AI Chatbot](https://dev.to/marrouchi/hexabot-setup-visual-editor-tutorial-build-your-first-ai-chatbot-5hfd)
-- [Laravel 11 Middleware Configuration: A Comprehensive Guide](https://dev.to/bhaidar/laravel-11-middleware-configuration-a-comprehensive-guide-1lic)
+- [Introduction to Java: for Beginners](https://dev.to/nenyasha/introduction-to-java-oa8)
+- [How to Pass Information Between Jobs in GitHub Actions](https://dev.to/cicube/how-to-pass-information-between-jobs-in-github-actions-4n9e)
+- [Generating dynamic layouts in Vue using recursive components](https://dev.to/waruna/generating-dynamic-layouts-in-vue-using-recursive-components-4ci7)
+- [Feature Scaling in Machine Learning](https://dev.to/sagar_borse_a8da7af37d6bc/feature-scaling-in-machine-learning-4j1f)
+- [Rethinking GitHub Search: How I built a Chat Interface to search GitHub](https://dev.to/ra_jeeves/rethinking-github-search-how-i-built-a-chat-interface-to-search-github-4c42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
