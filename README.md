@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Production-Ready Open Source AI Libraries for Engineering Teams](https://dev.to/kitops/top-5-production-ready-open-source-ai-libraries-for-engineering-teams-5hjo)
-- [The Journey from Developer to Senior Engineer: More Than Just Code](https://dev.to/abdielbytes/the-journey-from-developer-to-senior-engineer-more-than-just-code-4d3p)
-- [Efficient Data Handling in Triton: Mapping Threads to Data Points](https://dev.to/soket/efficient-data-handling-in-triton-mapping-threads-to-data-points-3p2d)
-- [Privacy first API Testing client for Mac](https://dev.to/juststevemcd/privacy-first-api-testing-client-for-mac-2910)
-- [Manipulating Arrays with PHP](https://dev.to/carloseduardoalvesviana/manipulating-arrays-with-php-ie7)
+- [How to Create a Telegram Bot and Send Messages Using Laravel 11](https://dev.to/akramghaleb/how-to-create-a-telegram-bot-and-send-messages-using-laravel-11-3709)
+- [Java Backend Management Project](https://dev.to/dinesh_peram_94caa7ef5ce9/java-backend-management-project-31bo)
+- [Cut AWS Costs by 90%: How We Saved Big and Gained Flexibility](https://dev.to/emilyjohnsonready/cut-aws-costs-by-90-how-we-saved-big-and-gained-flexibility-o1o)
+- [What is In-App Messaging?](https://dev.to/stephen568hub/what-is-in-app-messaging-2709)
+- [Next js Middleware – What Is It and When to Use It](https://dev.to/pagepro_agency/next-js-middleware-what-is-it-and-when-to-use-it-1j58)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
