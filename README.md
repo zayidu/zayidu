@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Directory of Apache Iceberg Resources](https://dev.to/alexmercedcoder/ultimate-directory-of-apache-iceberg-resources-56i0)
-- [&quot;the diagram below shows lower level details for process x1 of the y1 system&quot;.](https://dev.to/ndungu_jeffersonmarira_/the-diagram-below-shows-lower-level-details-for-process-x1-of-the-y1-system-3j09)
-- [Comprendiendo la copia profunda en JavaScript](https://dev.to/daniel1775/comprendiendo-la-copia-profunda-en-javascript-2oon)
-- [Rasp-Pi Network ID tool](https://dev.to/cisc0_pete/rasp-pi-network-id-tool-5hcm)
-- [CANBUS Speed Converter](https://dev.to/cisc0_pete/canbus-speed-converter-50mi)
+- [Hello World!](https://dev.to/charlottejdcb/hello-world-3joj)
+- [Dia 7 - Diferença entre C e C++, &quot;por que C++ é rápido?&quot; e uso de ponteiros.](https://dev.to/matheusgb/dia-7-diferenca-entre-c-e-c-por-que-c-e-rapido-e-uso-de-ponteiros-3hb0)
+- [4 Conceitos legais do JavaScript que você vai achar legal também](https://dev.to/leomarlinhares/4-conceitos-legais-do-javascript-que-voce-vai-achar-legal-tambem-40dp)
+- [IEnumerable nedir ?](https://dev.to/mustafacam/ienumerable-nedir--2b0c)
+- [Unlock Seamless AWS Integration: 1-Click Cloud Logging Solution](https://dev.to/emilyjohnsonready/unlock-seamless-aws-integration-1-click-cloud-logging-solution-1ln8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
