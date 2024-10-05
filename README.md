@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding NGINX: The Power Behind Modern Web Infrastructure](https://dev.to/rajeshkumaryadavdotcom/understanding-nginx-the-power-behind-modern-web-infrastructure-5agn)
-- [I kept playing with my code and made a function to uppercase a letter instance in a string.](https://dev.to/wormondeck/i-kept-playing-with-my-code-and-made-a-function-to-uppercase-a-letter-instance-in-a-string-5fj9)
-- [Métodos padrão das interfaces e Fundamentos dos métodos padrão e exemplos](https://dev.to/devsjavagirls/metodos-padrao-das-interfaces-e-fundamentos-dos-metodos-padrao-4107)
-- [Project 3 of 100: I created Registration Form. Fieldsets, Hover Effects, Gradients, Popup, Learn How??](https://dev.to/areeb_anwar_813df06ee1124/project-3-of-100-i-created-registration-form-fieldsets-hover-effects-gradients-popup-learn-how-3hif)
-- [How to check System Information in Windows 11?](https://dev.to/winsides/how-to-check-system-information-in-windows-11-181g)
+- [Activation functions in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/activation-functions-in-pytorch-1-4hj)
+- [Memory Unit](https://dev.to/airdrop_crypto_a8053de295/memory-unit-5ckj)
+- [Loss functions in PyTorch](https://dev.to/hyperkai/loss-functions-in-pytorch-3a2c)
+- [Looking for Feedback on My Project : jy95.github.io](https://dev.to/jy95/looking-for-feedback-on-my-project-jy95githubio-4hac)
+- [567. Permutation in String](https://dev.to/mdarifulhaque/567-permutation-in-string-h5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
