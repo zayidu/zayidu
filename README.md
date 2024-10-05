@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Verifiable Credentials &lpar;VCs&rpar; in Web5: A Beginner’s Guide](https://dev.to/kiran_baliga/understanding-verifiable-credentials-vcs-in-web5-a-beginners-guide-f38)
-- [Affordable GPUs for Deep Learning: Top Choices for Budget-Conscious Developers](https://dev.to/adityabhuyan/affordable-gpus-for-deep-learning-top-choices-for-budget-conscious-developers-2ke)
-- [Building Scalable Web Applications: Best Practices for Web Developers](https://dev.to/siddhant_teotia/building-scalable-web-applications-best-practices-for-web-developers-al0)
-- [Take Control of Your VMs: Automating Deployments with PowerCLI in vCenter server.](https://dev.to/vijaymanda06/take-control-of-your-vms-automating-deployments-with-powercli-in-vcenter-server-2idp)
-- [⚔️ Rust vs Go vs Bun vs Node.js: The Ultimate 2024 Performance Showdown 🚀](https://dev.to/hamzakhan/rust-vs-go-vs-bun-vs-nodejs-the-ultimate-2024-performance-showdown-2jml)
+- [C# Design Pattern: Proxy &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-proxy-portugues-28a0)
+- [C# Design Pattern: Proxy](https://dev.to/juarezasjunior/c-design-pattern-proxy-2bhc)
+- [How to fix “fatal reached heap limit allocation failed javascript heap out of memory”](https://dev.to/abdielbytes/how-to-fix-fatal-reached-heap-limit-allocation-failed-javascript-heap-out-of-memory-2ab2)
+- [# Como Utilizar a IA Generativa do Google Cloud com o Vertex AI para Criar um Projeto Simples](https://dev.to/rickeletro/como-utilizar-ia-generativa-do-google-cloud-com-vertex-ai-para-criar-um-projeto-simples-3e2b)
+- [The Future of DevOps – Beyond Automation to Data, AI, and Intelligent Observability : Day 50 of 50 days DevOps Tools Series](https://dev.to/shivam_agnihotri/the-future-of-devops-beyond-automation-to-data-ai-and-intelligent-observability-day-50-of-50-days-devops-tools-series-4682)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
