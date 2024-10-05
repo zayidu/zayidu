@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Firebase Cloud Functions: A Comprehensive Guide.](https://dev.to/pasindumendis/getting-started-with-firebase-cloud-functions-a-comprehensive-guide-59l4)
-- [ChatGPT Canvas: A Game-Changer for Writers and Coders](https://dev.to/proflead/chatgpt-canvas-a-game-changer-for-writers-and-coders-4128)
-- [Getting started on Spring boot and MongoDB - Part 2](https://dev.to/ehrbhein/getting-started-on-spring-boot-and-mongodb-part-2-2jj5)
-- [Code Smell 273 - Overengineering](https://dev.to/mcsee/code-smell-273-overengineering-2b0a)
-- [How to set up VNC on a headless Raspberry Pi with Ubuntu Server 24.04](https://dev.to/okineadev/how-to-set-up-vnc-on-a-headless-raspberry-pi-with-ubuntu-server-2404-402)
+- [The Linux Kernel - Replacing C with Rust](https://dev.to/benslinux2024/the-linux-kernel-replacing-c-with-rust-59g4)
+- [Best Free Game Engines: 2D, 3D | A Quick Guide for Beginners](https://dev.to/balazsrefi/best-free-game-engines-2d-3d-a-quick-guide-for-beginners-16kl)
+- [Recap the highlight of the sorting algorithms using JavaScript for beginners](https://dev.to/mshossain110/recap-the-highlight-of-the-sorting-algorithms-using-javascript-for-beginners-k9n)
+- [Forget if !=null and try/catch and write leaner code](https://dev.to/techelopment/forget-if-null-and-trycatch-and-write-leaner-code-5a3k)
+- [Introducing Brisa: Full-stack Web Platform Framework 🔥](https://dev.to/aralroca/introducing-brisa-full-stack-web-platform-framework-2lm1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
