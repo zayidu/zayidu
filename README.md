@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Habits of Great Software Engineers](https://dev.to/safdarali/5-habits-of-great-software-engineers-4i73)
-- [Solving the HackerRank&quot;Grading Students&quot; Problem in TypeScript](https://dev.to/kingdraxx/solving-the-hackerrankgrading-students-problem-in-typescript-4h2m)
-- [A Practical Approach to TOML Files and Remote Branch Management](https://dev.to/kannav02/a-practical-approach-to-toml-files-and-remote-branch-management-hh8)
-- [Understanding the Prototype Pattern in C# with Practical Examples](https://dev.to/dazevedo/understanding-the-prototype-pattern-in-c-with-practical-examples-1gg3)
-- [How to Implement Singly Linked List in JavaScript](https://dev.to/emmanuelayinde/how-to-implement-singly-linked-list-in-javascript-2365)
+- [Creating Reusable Components with Storybook](https://dev.to/kartikmehta8/creating-reusable-components-with-storybook-127l)
+- [Lab 4 - Remote Git and TOML](https://dev.to/aldrin312/lab-4-remote-git-and-toml-2gmm)
+- [Adding a TOML file Config](https://dev.to/add00_3/adding-a-toml-file-config-1ibi)
+- [First open-source project for Hacktoberfest 2024](https://dev.to/harshil_patel/first-open-source-project-for-hacktoberfest-2024-45al)
+- [Advanced Query Techniques in Spring Data JPA](https://dev.to/krishna-nayak/advanced-query-techniques-in-spring-data-jpa-2j27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
