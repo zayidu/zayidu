@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 of TrainWithShubham’s Junoon Batch 8: My DevOps Journey Begins 🚀](https://dev.to/singh_in_cloud/day-1-of-trainwithshubhams-junoon-batch-8-my-devops-journey-begins-388g)
-- [Modern React with Redux](https://dev.to/ryoichihomma/modern-react-with-redux-ac5)
-- [Junior vs. Senior: Not So Different](https://dev.to/gabrielski/junior-vs-senior-not-so-different-2jkb)
-- [How to create a read-only user in PostgreSQL](https://dev.to/zaratedev/how-to-create-a-read-only-user-in-postgresql-1mok)
-- [Python Core Developer Sprint 2024](https://dev.to/hugovk/python-core-developer-sprint-2024-3dp6)
+- [Ultimate Directory of Apache Iceberg Resources](https://dev.to/alexmercedcoder/ultimate-directory-of-apache-iceberg-resources-56i0)
+- [&quot;the diagram below shows lower level details for process x1 of the y1 system&quot;.](https://dev.to/ndungu_jeffersonmarira_/the-diagram-below-shows-lower-level-details-for-process-x1-of-the-y1-system-3j09)
+- [Comprendiendo la copia profunda en JavaScript](https://dev.to/daniel1775/comprendiendo-la-copia-profunda-en-javascript-2oon)
+- [Rasp-Pi Network ID tool](https://dev.to/cisc0_pete/rasp-pi-network-id-tool-5hcm)
+- [CANBUS Speed Converter](https://dev.to/cisc0_pete/canbus-speed-converter-50mi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
