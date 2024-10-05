@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Media Queries](https://dev.to/shieldstring/css-media-queries-4pfi)
-- [Day 2 - Shepherding Streams of Tokens &amp;&amp; why I call myself Kanzish 🦍](https://dev.to/kanzish/day-2-why-i-call-myself-kanzish-nj6)
-- [Understanding Network Hacking](https://dev.to/s3cloudhub/understanding-network-hacking-26c1)
-- [Count Substrings That Can Be Rearranged to Contain a String I](https://dev.to/prashantrmishra/count-substrings-that-can-be-rearranged-to-contain-a-string-i-5fgj)
-- [Tackling UI Design Challenges in SaaS: Balancing Front-End and Admin Interfaces](https://dev.to/rakesh_nakrani/tackling-ui-design-challenges-in-saas-balancing-front-end-and-admin-interfaces-1kgh)
+- [Access Your Computer Anywhere with VS Code: A Guide to Remote Tunneling](https://dev.to/rajeshkumaryadavdotcom/access-your-computer-anywhere-with-vs-code-a-guide-to-remote-tunneling-2nnf)
+- [Buildozer App convert error](https://dev.to/dineshm/buildozer-app-convert-error-4l0c)
+- [Applying the Data Mapper Pattern in a Customer Relationship Management System](https://dev.to/erick_javiersalinascond/implementing-the-data-mapper-pattern-in-a-customer-management-system-3goc)
+- [10 JavaScript concepts every Node developer must master](https://dev.to/usman_awan/10-javascript-concepts-every-node-developer-must-master-2na)
+- [Exploring Rate Limiting Middleware in .NET 8](https://dev.to/sai_ram_413f7c92188cc2220/exploring-rate-limiting-middleware-in-net-8-3c81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
