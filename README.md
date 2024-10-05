@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 100 Linux Troubleshooting Commands &lpar;Must Know&rpar;](https://dev.to/trixsec/top-100-linux-troubleshooting-commands-must-know-36c1)
-- [Adding Logging and Error Handling Middleware to Your Go API](https://dev.to/neelp03/adding-logging-and-error-handling-middleware-to-your-go-api-2f33)
-- [Playwright vs Cypress: A Brief Comparison for End-to-End Testing](https://dev.to/shubham_playwright/playwright-vs-cypress-a-brief-comparison-for-end-to-end-testing-of5)
-- [Playwright vs Cypress: A Brief Comparison for End-to-End Testing](https://dev.to/shubham_playwright/playwright-vs-cypress-a-brief-comparison-for-end-to-end-testing-4bk5)
-- [Mastering Oracle Fusion Cloud: Thejas Prasad’s Expertise in Financials Implementation and Comprehensive Testing](https://dev.to/mariliatirachi62/mastering-oracle-fusion-cloud-thejas-prasads-expertise-in-financials-implementation-and-comprehensive-testing-3pd6)
+- [CSS Media Queries](https://dev.to/shieldstring/css-media-queries-4pfi)
+- [Day 2 - Shepherding Streams of Tokens &amp;&amp; why I call myself Kanzish 🦍](https://dev.to/kanzish/day-2-why-i-call-myself-kanzish-nj6)
+- [Understanding Network Hacking](https://dev.to/s3cloudhub/understanding-network-hacking-26c1)
+- [Count Substrings That Can Be Rearranged to Contain a String I](https://dev.to/prashantrmishra/count-substrings-that-can-be-rearranged-to-contain-a-string-i-5fgj)
+- [Tackling UI Design Challenges in SaaS: Balancing Front-End and Admin Interfaces](https://dev.to/rakesh_nakrani/tackling-ui-design-challenges-in-saas-balancing-front-end-and-admin-interfaces-1kgh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
