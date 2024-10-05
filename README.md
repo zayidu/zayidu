@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Laravel&#39;s MorphTo Relation: A Practical Guide](https://dev.to/arafatweb/understanding-laravels-morphto-relation-a-practical-guide-2l3p)
-- [The Differences Between let, const, and var in JavaScript.](https://dev.to/laxmann/the-differences-between-let-const-and-var-in-javascript-56f4)
-- [Tech Helpr: Your Ultimate Destination for Gaming and Tech Products](https://dev.to/affan_asghar_1d39fa171ff4/tech-helpr-your-ultimate-destination-for-gaming-and-tech-products-5jl)
-- [Exploring Azure Queue Storage in .NET](https://dev.to/berviantoleo/exploring-azure-queue-storage-in-net-55mk)
-- [DevRel and Marketing: Building a Unified Developer Community](https://dev.to/rakesh_kumar_bf8f486c08f9/devrel-and-marketing-building-a-unified-developer-community-5go5)
+- [The Power of Open-Source: Reflections on Hacktoberfest 2024](https://dev.to/basheer_mohammed/the-power-of-open-source-reflections-on-hacktoberfest-2024-39fn)
+- [I&#39;m Falling in love with Build in Public](https://dev.to/litlyx/im-falling-in-love-with-build-in-public-23fa)
+- [Interactive Portfolio Website](https://dev.to/divyankgupta/interactive-portfolio-website-4cnc)
+- [A button who avoid your mouse 🏃‍♂️](https://dev.to/crisxzu/a-button-who-avoid-your-mouse-2bfp)
+- [𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 𝐒𝐲𝐬𝐭𝐞𝐦 &lpar;𝐕𝐂𝐒&rpar; 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰](https://dev.to/meghasharmaaaa/-195a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
