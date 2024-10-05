@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Compose vs Kubernetes: When to Use What](https://dev.to/grigorkh/docker-compose-vs-kubernetes-when-to-use-what-3l90)
-- [Understanding the useEffect&lpar;&rpar; Hook in React](https://dev.to/sudhanshu_developer/understanding-the-useeffect-hook-in-react-36dj)
-- [How To Create Package in Go](https://dev.to/didikz/how-to-create-package-in-go-3914)
-- [Guía para Aumentar tus Ingresos como desarrollador](https://dev.to/maricarmendev/guia-para-aumentar-tus-ingresos-como-desarrollador-4emi)
-- [Blog Post: &quot;Diving Into Someone Else&#39;s Code: The Tale of a TOML Fix&quot;](https://dev.to/msaluja/blog-post-diving-into-someone-elses-code-the-tale-of-a-toml-fix-25bm)
+- [Top 100 Linux Troubleshooting Commands &lpar;Must Know&rpar;](https://dev.to/trixsec/top-100-linux-troubleshooting-commands-must-know-36c1)
+- [Adding Logging and Error Handling Middleware to Your Go API](https://dev.to/neelp03/adding-logging-and-error-handling-middleware-to-your-go-api-2f33)
+- [Playwright vs Cypress: A Brief Comparison for End-to-End Testing](https://dev.to/shubham_playwright/playwright-vs-cypress-a-brief-comparison-for-end-to-end-testing-of5)
+- [Playwright vs Cypress: A Brief Comparison for End-to-End Testing](https://dev.to/shubham_playwright/playwright-vs-cypress-a-brief-comparison-for-end-to-end-testing-4bk5)
+- [Mastering Oracle Fusion Cloud: Thejas Prasad’s Expertise in Financials Implementation and Comprehensive Testing](https://dev.to/mariliatirachi62/mastering-oracle-fusion-cloud-thejas-prasads-expertise-in-financials-implementation-and-comprehensive-testing-3pd6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
