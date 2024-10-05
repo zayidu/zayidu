@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Linux Kernel - Replacing C with Rust](https://dev.to/benslinux2024/the-linux-kernel-replacing-c-with-rust-59g4)
-- [Best Free Game Engines: 2D, 3D | A Quick Guide for Beginners](https://dev.to/balazsrefi/best-free-game-engines-2d-3d-a-quick-guide-for-beginners-16kl)
-- [Recap the highlight of the sorting algorithms using JavaScript for beginners](https://dev.to/mshossain110/recap-the-highlight-of-the-sorting-algorithms-using-javascript-for-beginners-k9n)
-- [Forget if !=null and try/catch and write leaner code](https://dev.to/techelopment/forget-if-null-and-trycatch-and-write-leaner-code-5a3k)
-- [Introducing Brisa: Full-stack Web Platform Framework 🔥](https://dev.to/aralroca/introducing-brisa-full-stack-web-platform-framework-2lm1)
+- [More Secure JWT | A Better Experience](https://dev.to/adnanbabakan/more-secure-jwt-a-better-experience-16nm)
+- [PHP Apache project with Virtual Host](https://dev.to/xxzeroxx/php-apache-project-with-virtual-host-2npk)
+- [MLSeries: An Introduction to Neural Networks](https://dev.to/samder/mlseries-an-introduction-to-neural-networks-2mo5)
+- [CLOUD RESOURCE DEPLOYMENT ON AZURE USING TERRAFORM](https://dev.to/presh1/cloud-resource-deployment-on-azure-using-terraform-26j2)
+- [Mintr - Open NFT tools with Pinata upload](https://dev.to/spiritbits/mintr-open-nft-tools-with-pinata-upload-ea3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
