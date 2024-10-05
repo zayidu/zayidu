@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Open-Source: Reflections on Hacktoberfest 2024](https://dev.to/basheer_mohammed/the-power-of-open-source-reflections-on-hacktoberfest-2024-39fn)
-- [I&#39;m Falling in love with Build in Public](https://dev.to/litlyx/im-falling-in-love-with-build-in-public-23fa)
-- [Interactive Portfolio Website](https://dev.to/divyankgupta/interactive-portfolio-website-4cnc)
-- [A button who avoid your mouse 🏃‍♂️](https://dev.to/crisxzu/a-button-who-avoid-your-mouse-2bfp)
-- [𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 𝐒𝐲𝐬𝐭𝐞𝐦 &lpar;𝐕𝐂𝐒&rpar; 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰](https://dev.to/meghasharmaaaa/-195a)
+- [Understanding Verifiable Credentials &lpar;VCs&rpar; in Web5: A Beginner’s Guide](https://dev.to/kiran_baliga/understanding-verifiable-credentials-vcs-in-web5-a-beginners-guide-f38)
+- [Affordable GPUs for Deep Learning: Top Choices for Budget-Conscious Developers](https://dev.to/adityabhuyan/affordable-gpus-for-deep-learning-top-choices-for-budget-conscious-developers-2ke)
+- [Building Scalable Web Applications: Best Practices for Web Developers](https://dev.to/siddhant_teotia/building-scalable-web-applications-best-practices-for-web-developers-al0)
+- [Take Control of Your VMs: Automating Deployments with PowerCLI in vCenter server.](https://dev.to/vijaymanda06/take-control-of-your-vms-automating-deployments-with-powercli-in-vcenter-server-2idp)
+- [⚔️ Rust vs Go vs Bun vs Node.js: The Ultimate 2024 Performance Showdown 🚀](https://dev.to/hamzakhan/rust-vs-go-vs-bun-vs-nodejs-the-ultimate-2024-performance-showdown-2jml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
