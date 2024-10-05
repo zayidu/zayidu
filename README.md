@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [More Secure JWT | A Better Experience](https://dev.to/adnanbabakan/more-secure-jwt-a-better-experience-16nm)
-- [PHP Apache project with Virtual Host](https://dev.to/xxzeroxx/php-apache-project-with-virtual-host-2npk)
-- [MLSeries: An Introduction to Neural Networks](https://dev.to/samder/mlseries-an-introduction-to-neural-networks-2mo5)
-- [CLOUD RESOURCE DEPLOYMENT ON AZURE USING TERRAFORM](https://dev.to/presh1/cloud-resource-deployment-on-azure-using-terraform-26j2)
-- [Mintr - Open NFT tools with Pinata upload](https://dev.to/spiritbits/mintr-open-nft-tools-with-pinata-upload-ea3)
+- [Understanding NGINX: The Power Behind Modern Web Infrastructure](https://dev.to/rajeshkumaryadavdotcom/understanding-nginx-the-power-behind-modern-web-infrastructure-5agn)
+- [I kept playing with my code and made a function to uppercase a letter instance in a string.](https://dev.to/wormondeck/i-kept-playing-with-my-code-and-made-a-function-to-uppercase-a-letter-instance-in-a-string-5fj9)
+- [Métodos padrão das interfaces e Fundamentos dos métodos padrão e exemplos](https://dev.to/devsjavagirls/metodos-padrao-das-interfaces-e-fundamentos-dos-metodos-padrao-4107)
+- [Project 3 of 100: I created Registration Form. Fieldsets, Hover Effects, Gradients, Popup, Learn How??](https://dev.to/areeb_anwar_813df06ee1124/project-3-of-100-i-created-registration-form-fieldsets-hover-effects-gradients-popup-learn-how-3hif)
+- [How to check System Information in Windows 11?](https://dev.to/winsides/how-to-check-system-information-in-windows-11-181g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
