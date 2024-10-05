@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Access Your Computer Anywhere with VS Code: A Guide to Remote Tunneling](https://dev.to/rajeshkumaryadavdotcom/access-your-computer-anywhere-with-vs-code-a-guide-to-remote-tunneling-2nnf)
-- [Buildozer App convert error](https://dev.to/dineshm/buildozer-app-convert-error-4l0c)
-- [Applying the Data Mapper Pattern in a Customer Relationship Management System](https://dev.to/erick_javiersalinascond/implementing-the-data-mapper-pattern-in-a-customer-management-system-3goc)
-- [10 JavaScript concepts every Node developer must master](https://dev.to/usman_awan/10-javascript-concepts-every-node-developer-must-master-2na)
-- [Exploring Rate Limiting Middleware in .NET 8](https://dev.to/sai_ram_413f7c92188cc2220/exploring-rate-limiting-middleware-in-net-8-3c81)
+- [Top 15 System Design Resources for Programming Interviews](https://dev.to/somadevtoo/top-15-system-design-resources-for-programming-interviews-1m15)
+- [Difference between HTTP/1.0, HTTP/1.1, HTTP/2, and HTTP/3](https://dev.to/rajeshkumaryadavdotcom/difference-between-http10-http11-http2-and-http3-1pd3)
+- [Nextjs Sentry](https://dev.to/turingvangisms/nextjs-sentry-5ha4)
+- [AWS Firewall Manager: Comprehensive Security Management for Your Cloud Infrastructure](https://dev.to/ikoh_sylva/aws-firewall-manager-comprehensive-security-management-for-your-cloud-infrastructure-1jef)
+- [Top Developer Productivity Tools in 2025](https://dev.to/rajeshkumaryadavdotcom/top-developer-productivity-tools-in-2025-3c86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
