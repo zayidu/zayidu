@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Reusable Components with Storybook](https://dev.to/kartikmehta8/creating-reusable-components-with-storybook-127l)
-- [Lab 4 - Remote Git and TOML](https://dev.to/aldrin312/lab-4-remote-git-and-toml-2gmm)
-- [Adding a TOML file Config](https://dev.to/add00_3/adding-a-toml-file-config-1ibi)
-- [First open-source project for Hacktoberfest 2024](https://dev.to/harshil_patel/first-open-source-project-for-hacktoberfest-2024-45al)
-- [Advanced Query Techniques in Spring Data JPA](https://dev.to/krishna-nayak/advanced-query-techniques-in-spring-data-jpa-2j27)
+- [Week 5, Lab 4](https://dev.to/cduarte3/week-5-lab-4-239p)
+- [New Structured Fields RFC out, and so is my Javascript package](https://dev.to/evert/new-structured-fields-rfc-out-and-so-is-my-javascript-package-o4l)
+- [Your stand-up is bad, and you should feel bad.](https://dev.to/kleeut/your-stand-up-is-bad-and-you-should-feel-bad-2l8k)
+- [Data Transformations: Third Maximum and Jumbled Letters](https://dev.to/aplgr/data-transformations-third-maximum-and-jumbled-letters-np3)
+- [RMSProp in PyTorch](https://dev.to/hyperkai/rmsprop-in-pytorch-1hlo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
