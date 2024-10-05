@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Activation functions in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/activation-functions-in-pytorch-1-4hj)
-- [Memory Unit](https://dev.to/airdrop_crypto_a8053de295/memory-unit-5ckj)
-- [Loss functions in PyTorch](https://dev.to/hyperkai/loss-functions-in-pytorch-3a2c)
-- [Looking for Feedback on My Project : jy95.github.io](https://dev.to/jy95/looking-for-feedback-on-my-project-jy95githubio-4hac)
-- [567. Permutation in String](https://dev.to/mdarifulhaque/567-permutation-in-string-h5k)
+- [Day 1 of TrainWithShubham’s Junoon Batch 8: My DevOps Journey Begins 🚀](https://dev.to/singh_in_cloud/day-1-of-trainwithshubhams-junoon-batch-8-my-devops-journey-begins-388g)
+- [Modern React with Redux](https://dev.to/ryoichihomma/modern-react-with-redux-ac5)
+- [Junior vs. Senior: Not So Different](https://dev.to/gabrielski/junior-vs-senior-not-so-different-2jkb)
+- [How to create a read-only user in PostgreSQL](https://dev.to/zaratedev/how-to-create-a-read-only-user-in-postgresql-1mok)
+- [Python Core Developer Sprint 2024](https://dev.to/hugovk/python-core-developer-sprint-2024-3dp6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
