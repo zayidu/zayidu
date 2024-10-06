@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Defense in Depth approach using AWS](https://dev.to/aws-builders/defense-in-depth-approach-using-aws-3d99)
-- [Independent Software Creators: Why Most Indie Projects Go Unnoticed](https://dev.to/benslinux2024/independent-software-creators-why-most-indie-projects-go-unnoticed-5ff9)
-- [C# Design Pattern: Chain of Responsibility &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-chain-of-responsibility-portugues-c76)
-- [C# Design Pattern: Chain of Responsibility](https://dev.to/juarezasjunior/c-design-pattern-chain-of-responsibility-15ap)
-- [Creating and Using VS Code Snippets: A Beginner&#39;s Guide](https://dev.to/serifcolakel/creating-and-using-vs-code-snippets-a-beginners-guide-53ae)
+- [Ditch the GUI: How to Master Android Emulators with Just the CLI Like a True Terminal Nerd](https://dev.to/sandheep_kumarpatro_1c48/ditch-the-gui-how-to-master-android-emulators-with-just-the-cli-like-a-true-terminal-nerd-3a83)
+- [البدء مع نماذج اللغة الكبيرة: كيف يمكن لـ Amazon Bedrock تعزيز رحلتك في الذكاء الاصطناعي](https://dev.to/cloudranger/lbd-m-nmdhj-llg-lkbyr-kyf-ymkn-l-amazon-bedrock-tzyz-rhltk-fy-ldhk-lstny-3p9i)
+- [Doubly Linked List Implementation in Go](https://dev.to/adnanbabakan/doubly-linked-list-implementation-in-go-4d47)
+- [Controlling an LED with a Snap Using the KY-037 Sound Sensor and Raspberry Pi](https://dev.to/shilleh/controlling-an-led-with-a-snap-using-the-ky-037-sound-sensor-and-raspberry-pi-4581)
+- [How I set up Design System for my React Native Projects for 10x Faster Development](https://dev.to/msaadullah/how-i-set-up-design-system-for-my-react-native-projects-for-10x-faster-development-1k8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
