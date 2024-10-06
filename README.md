@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ditch the GUI: How to Master Android Emulators with Just the CLI Like a True Terminal Nerd](https://dev.to/sandheep_kumarpatro_1c48/ditch-the-gui-how-to-master-android-emulators-with-just-the-cli-like-a-true-terminal-nerd-3a83)
-- [البدء مع نماذج اللغة الكبيرة: كيف يمكن لـ Amazon Bedrock تعزيز رحلتك في الذكاء الاصطناعي](https://dev.to/cloudranger/lbd-m-nmdhj-llg-lkbyr-kyf-ymkn-l-amazon-bedrock-tzyz-rhltk-fy-ldhk-lstny-3p9i)
-- [Doubly Linked List Implementation in Go](https://dev.to/adnanbabakan/doubly-linked-list-implementation-in-go-4d47)
-- [Controlling an LED with a Snap Using the KY-037 Sound Sensor and Raspberry Pi](https://dev.to/shilleh/controlling-an-led-with-a-snap-using-the-ky-037-sound-sensor-and-raspberry-pi-4581)
-- [How I set up Design System for my React Native Projects for 10x Faster Development](https://dev.to/msaadullah/how-i-set-up-design-system-for-my-react-native-projects-for-10x-faster-development-1k8g)
+- [⚡️ Top 10 Tools for Faster Development in Next.js 🚀](https://dev.to/hamzakhan/top-10-tools-for-faster-development-in-nextjs-465i)
+- [Introduction to Gem narabikae: A New Position Management Algorithm Inspired by Figma’s Fractional Indexing](https://dev.to/matazou/introduction-to-gem-narabikae-a-new-position-management-algorithm-inspired-by-figmas-fractional-indexing-2lhg)
+- [Working with HTTP requests in Spring Boot](https://dev.to/olnov/working-with-http-requests-in-spring-boot-5el0)
+- [Unlock Your Data Mastery with the Pandas Practice Labs Course](https://dev.to/labex/unlock-your-data-mastery-with-the-pandas-practice-labs-course-5gfb)
+- [Understanding JavaScript Hoisting: A Simple Guide](https://dev.to/shubhamkhan/understanding-javascript-hoisting-a-simple-guide-59k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
