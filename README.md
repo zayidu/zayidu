@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VoidZero, The New ESLint, MongoDB 8.0, and more - This Week in JS](https://dev.to/thisweekinjavascript/voidzero-the-new-eslint-mongodb-80-and-more-this-week-in-js-575m)
-- [⭐️ Decoding OpenAI Evals](https://dev.to/portkey/decoding-openai-evals-4hpb)
-- [Repair grub Linux/Windows dual boot](https://dev.to/patfinder/repair-grub-linuxwindows-dual-boot-23ki)
-- [🚀 Ever wonder what Sundays have in common with coding? 🤔](https://dev.to/muhammad-ahmed/ever-wonder-what-sundays-have-in-common-with-coding-gfp)
-- [Spirit Hunter - Post-Mortem](https://dev.to/myjsalterego/spirit-hunter-post-mortem-2np8)
+- [The Developer’s Playbook: What I Wish I Knew Starting Out](https://dev.to/felipeleao18/the-developers-playbook-what-i-wish-i-knew-starting-out-3o32)
+- [Host your Obsidian notebook on GitHub Pages for free](https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1)
+- [Boosting Developer Productivity: How Qodo Gen IDE Extension Transforms Coding Practices](https://dev.to/davidking/boosting-developer-productivity-how-qodo-gen-ide-extension-transforms-coding-practices-g8m)
+- [Functional vs Object-Oriented Programming](https://dev.to/diversity/functional-vs-object-oriented-programming-5bni)
+- [Leaving the library...](https://dev.to/codecara/leaving-the-library-348g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
