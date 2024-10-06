@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Contributor’s Journey :HACKTOBERFEST 2024](https://dev.to/shivarajm8234/a-contributors-journey-hacktoberfest-2024-59kg)
-- [Installing Supervisor On Amazon Linux 2023](https://dev.to/afiqiqmal/installing-supervisor-on-amazon-linux-2023-2foc)
-- [Procedure overloading in PL/SQL](https://dev.to/mrcaption49/procedure-overloading-in-plsql-1kg9)
-- [Modifying the 6502 Assembly Program](https://dev.to/arilloid/modifying-the-6502-assembly-program-1j47)
-- [...Loop...](https://dev.to/hrithik_gorane_/loop-2e41)
+- [New Vulnerability Scanner &lpar;Must Try&rpar;](https://dev.to/trixsec/new-vulnerability-scanner-must-try-40g4)
+- [How to Enable MSMQ Triggers in Windows 11?](https://dev.to/winsides/how-to-enable-msmq-triggers-in-windows-11-5cnf)
+- [Mastering Linux: A Collection of Hands-On Programming Labs 🐧](https://dev.to/labex/mastering-linux-a-collection-of-hands-on-programming-labs-24a5)
+- [Understanding Git Rebase](https://dev.to/kiranukamath/understanding-git-rebase-9ca)
+- [Best CSS Frameworks to Use in React.js](https://dev.to/mourya_modugula/best-css-frameworks-to-use-in-reactjs-604)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
