@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Developer’s Playbook: What I Wish I Knew Starting Out](https://dev.to/felipeleao18/the-developers-playbook-what-i-wish-i-knew-starting-out-3o32)
-- [Host your Obsidian notebook on GitHub Pages for free](https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1)
-- [Boosting Developer Productivity: How Qodo Gen IDE Extension Transforms Coding Practices](https://dev.to/davidking/boosting-developer-productivity-how-qodo-gen-ide-extension-transforms-coding-practices-g8m)
-- [Functional vs Object-Oriented Programming](https://dev.to/diversity/functional-vs-object-oriented-programming-5bni)
-- [Leaving the library...](https://dev.to/codecara/leaving-the-library-348g)
+- [How to Build a Collaborative Editor with Next.js and Liveblocks](https://dev.to/sachinchaurasiya/how-to-build-a-collaborative-editor-with-nextjs-and-liveblocks-389m)
+- [Relationship or ability, both of these criteria are used](https://dev.to/linjiezhang/relationship-or-ability-both-of-these-criteria-are-used-1dbd)
+- [Decentralized Identity Simplified: How to Resolve DIDs Effectively](https://dev.to/chrissiku/decentralized-identity-simplified-how-to-resolve-dids-effectively-36kp)
+- [Optimizing OptimizeIt](https://dev.to/majd_almnayer_2101/optimizing-optimizeit-2k73)
+- [Implementing Blue-Green Deployments with Argo CD and Helm: A Practical Guide](https://dev.to/mark_mwendia_0298dd9c0aad/implementing-blue-green-deployments-with-argo-cd-and-helm-a-practical-guide-6b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
