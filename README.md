@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Your Communication As A Software Engineer](https://dev.to/angelito_tubig_5e8fa80f5d/improving-your-communication-as-a-software-engineer-1dka)
-- [GitOps for Edge Computing: Managing Distributed Microservices Across Edge Nodes](https://dev.to/mark_mwendia_0298dd9c0aad/gitops-for-edge-computing-managing-distributed-microservices-across-edge-nodes-3pa)
-- [How to Get Started with Deep Reinforcement Learning &lpar;DRLs&rpar;](https://dev.to/kiran_baliga/how-to-get-started-with-deep-reinforcement-learning-drls-5ama)
-- [Symfony Station Communiqué — 04 October 2024. A look at Symfony, Drupal, PHP, and programming news!](https://dev.to/reubenwalker64/symfony-station-communique-04-october-2024-a-look-at-symfony-drupal-php-and-programming-news-2dl0)
-- [Understanding Server Connections in Distributed Systems](https://dev.to/ujjwall-r/understanding-server-connections-in-distributed-systems-no4)
+- [Law of Demeter &lpar;Principle of Least Knowledge&rpar;](https://dev.to/dazevedo/law-of-demeter-principle-of-least-knowledge-35l2)
+- [Python 101: Introduction to Python as a Data Analytics Tool](https://dev.to/kibowen_8/python-101-introduction-to-python-as-a-data-analytics-tool-35li)
+- [Dia 8 - Iniciando a criação do jfcOS &lpar;sistema operacional&rpar;](https://dev.to/matheusgb/dia-8-iniciando-a-criacao-do-jfcos-sistema-operacional-4kgp)
+- [Reto de backend #2](https://dev.to/caresle/reto-de-backend-2-33ip)
+- [Reto de backend #1](https://dev.to/caresle/reto-de-backend-1-2bpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
