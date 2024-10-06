@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Ngrok?](https://dev.to/femolacaster/what-is-ngrok-1023)
-- [Empowering Healthcare with Data: Choosing the Best Platforms for Advanced Analytics](https://dev.to/chaets/empowering-healthcare-with-data-choosing-the-best-platforms-for-advanced-analytics-1end)
-- [4 - Clean Architecture: Interface Adapters](https://dev.to/dazevedo/4-clean-architecture-interface-adapters-594m)
-- [How To Process Events Exactly-Once](https://dev.to/dbos/how-to-process-events-exactly-once-4dpo)
-- [I Built DeployFast – Because I Got Tired of Using Vercel &lpar;deployfast.cloud&rpar;](https://dev.to/anis_mer/i-built-deployfast-because-i-got-tired-of-using-vercel-deployfastcloud-31n7)
+- [Circular Linked Lists Demystified: From Novice to Node Master](https://dev.to/emmanuelayinde/circular-linked-lists-demystified-from-novice-to-node-master-4d5i)
+- [Fundamentals of Computer Architecture: Understanding the Structure Behind the Hardware](https://dev.to/yihongz/fundamentals-of-computer-architecture-understanding-the-structure-behind-the-hardware-1oka)
+- [Downloading and Converting YouTube Videos to MP3 using yt-dlp in Python](https://dev.to/_ken0x/downloading-and-converting-youtube-videos-to-mp3-using-yt-dlp-in-python-20c5)
+- [Unlock API Potential in 7 Steps: Master RedHat 3-Scale for Beginners](https://dev.to/parkerava/unlock-api-potential-in-7-steps-master-redhat-3-scale-for-beginners-1d89)
+- [Ubuntu hibernate](https://dev.to/patfinder/ubuntu-hibernate-fcl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
