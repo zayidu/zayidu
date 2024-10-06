@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Error 403 Unauthorized: Understanding Its Implications for Apache Security](https://dev.to/gustavo_gallas_4e45019b5c/error-403-unauthorized-understanding-its-implications-for-apache-security-2mk3)
-- [Making Websites Faster With 103 Early Hints](https://dev.to/pmbanugo/making-websites-faster-with-103-early-hints-524a)
-- [The Emotional Side of Software Development: Key Insights from Nicole Novielli at CBSoft 2024](https://dev.to/adolfont/the-emotional-side-of-software-development-key-insights-from-nicole-novielli-at-cbsoft-2024-2d77)
-- [UX Case Study- Travel Planner App](https://dev.to/manishaghosh66/ux-case-study-6dk)
-- [Memory stream is not expandable](https://dev.to/thomaseyde/memory-stream-is-not-expandable-39bp)
+- [5 Commands for Web Developers that just started using Linux](https://dev.to/prozdrljivac/5-commands-for-web-developers-that-just-started-using-linux-6io)
+- [Leaflet library and it&#39;s usecase](https://dev.to/sachin_rastogi_0820ff31c4/leaflet-usecase-566)
+- [Open Source Tool List for Web App Security](https://dev.to/carrie_luo1/open-source-tool-list-for-web-app-security-3eoi)
+- [What is RemoteWLB?](https://dev.to/remotewlb/what-is-remotewlb-44h6)
+- [Configuring Logging in AWS EKS Using Fluent Bit and CloudWatch](https://dev.to/aws-builders/configuring-logging-in-aws-eks-using-fluent-bit-and-cloudwatch-1fpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
