@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Snaplet &amp; Supabase &amp; Flutter | How to create a known user for testing](https://dev.to/01kg/snaplet-supabase-flutter-how-to-create-a-known-user-for-testing-o7j)
-- [Recuperar una Base de Datos Oracle Después de un Error en el Archivo spfile.ora](https://dev.to/zr33_lanor/recuperar-una-base-de-datos-oracle-despues-de-un-error-en-el-archivo-spfileora-55a5)
-- [Avoid Misunderstanding ON DELETE NO ACTION](https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj)
-- [The Day a DDOS Attack Led to the Worlds Most Awkward Hello World](https://dev.to/programmerraja/the-day-a-ddos-attack-led-to-the-worlds-most-awkward-hello-world-1dln)
-- [Day 3 - Bashing bots &amp;&amp; piping dreams 👷](https://dev.to/kanzish/day-3-bashing-bots-piping-dreams-40j6)
+- [A Contributor’s Journey :HACKTOBERFEST 2024](https://dev.to/shivarajm8234/a-contributors-journey-hacktoberfest-2024-59kg)
+- [Installing Supervisor On Amazon Linux 2023](https://dev.to/afiqiqmal/installing-supervisor-on-amazon-linux-2023-2foc)
+- [Procedure overloading in PL/SQL](https://dev.to/mrcaption49/procedure-overloading-in-plsql-1kg9)
+- [Modifying the 6502 Assembly Program](https://dev.to/arilloid/modifying-the-6502-assembly-program-1j47)
+- [...Loop...](https://dev.to/hrithik_gorane_/loop-2e41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
