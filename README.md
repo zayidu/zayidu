@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Contribute to Open Source: A Step-by-Step Guide for Beginners](https://dev.to/sumonta056/how-to-contribute-to-open-source-a-step-by-step-guide-for-beginners-2a80)
-- [TIL: How to Quickly Check Which AWS Regions Support SES Using a Bash Script](https://dev.to/nickciolpan/til-how-to-quickly-check-which-aws-regions-support-ses-using-a-bash-script-262g)
-- [Relational vs Non-Relational Databases](https://dev.to/jayaprasanna_roddam/relational-vs-non-relational-databases-1a39)
-- [Why is Next.js so great?](https://dev.to/turingvangisms/why-is-nextjs-so-great-5749)
-- [Learning Go: 01](https://dev.to/gaurav444/learning-go-01-2h6i)
+- [Design Struggles as a UI developer.](https://dev.to/khervie00/design-struggles-as-a-ui-developer-3mmb)
+- [How AWS provided me access to a private server in AWS from My Laptop](https://dev.to/roheem/how-aws-provided-me-access-to-a-private-server-in-aws-from-my-laptop-49km)
+- [Unlock the Power of Natural Language Processing: Top Free Courses to Elevate Your Skills](https://dev.to/getvm/unlock-the-power-of-natural-language-processing-top-free-courses-to-elevate-your-skills-333e)
+- [MobCheck: Building a QR-Based Entry System for 400+ College Freshers Party Attendees](https://dev.to/realrudrap/mobcheck-building-a-qr-based-entry-system-for-400-college-freshers-party-attendees-12lg)
+- [Learning GO: 06](https://dev.to/gaurav444/learning-go-06-6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
