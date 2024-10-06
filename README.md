@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Commands for Web Developers that just started using Linux](https://dev.to/prozdrljivac/5-commands-for-web-developers-that-just-started-using-linux-6io)
-- [Leaflet library and it&#39;s usecase](https://dev.to/sachin_rastogi_0820ff31c4/leaflet-usecase-566)
-- [Open Source Tool List for Web App Security](https://dev.to/carrie_luo1/open-source-tool-list-for-web-app-security-3eoi)
-- [What is RemoteWLB?](https://dev.to/remotewlb/what-is-remotewlb-44h6)
-- [Configuring Logging in AWS EKS Using Fluent Bit and CloudWatch](https://dev.to/aws-builders/configuring-logging-in-aws-eks-using-fluent-bit-and-cloudwatch-1fpb)
+- [VoidZero, The New ESLint, MongoDB 8.0, and more - This Week in JS](https://dev.to/thisweekinjavascript/voidzero-the-new-eslint-mongodb-80-and-more-this-week-in-js-575m)
+- [⭐️ Decoding OpenAI Evals](https://dev.to/portkey/decoding-openai-evals-4hpb)
+- [Repair grub Linux/Windows dual boot](https://dev.to/patfinder/repair-grub-linuxwindows-dual-boot-23ki)
+- [🚀 Ever wonder what Sundays have in common with coding? 🤔](https://dev.to/muhammad-ahmed/ever-wonder-what-sundays-have-in-common-with-coding-gfp)
+- [Spirit Hunter - Post-Mortem](https://dev.to/myjsalterego/spirit-hunter-post-mortem-2np8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
