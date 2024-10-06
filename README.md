@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Developers in the AI Era](https://dev.to/theainews/the-future-of-developers-in-the-ai-era-4kjl)
-- [Automating Linkedℹ️n Messages✉️ with LinkBot🤖](https://dev.to/manas15coder/automating-linkedn-messages-with-linkbot-4ff4)
-- [DevSecOps Fundamentals: Security in the Jenkins Pipeline](https://dev.to/soumya14041987/devsecops-fundamentals-security-in-the-jenkins-pipeline-20n)
-- [Exploring the Power of WebAssembly: Bridging the Gap Between Web and Native Applications](https://dev.to/deed/exploring-the-power-of-webassembly-bridging-the-gap-between-web-and-native-applications-2kfn)
-- [Cursor AI ? Bolt.new now Install Packages &amp; run Backends Code](https://dev.to/dev007777/cursor-ai-boltnew-now-install-packages-run-backends-code-34cn)
+- [How to Contribute to Open Source?](https://dev.to/zeiadmh/how-to-contribute-to-open-source-80)
+- [Create a website on GitHub pages](https://dev.to/manvendra5/create-a-website-on-github-pages-4g46)
+- [PYTHON 101: INTRODUCTION TO PYTHON FOR DATA ANALYTICS](https://dev.to/john_analytics/python-101-introduction-to-python-for-data-analytics-2nk4)
+- [The Impact of Low-Code/No-Code Tools on Traditional Software Development](https://dev.to/encodingmuzzu/the-impact-of-low-codeno-code-tools-on-traditional-software-development-4c6c)
+- [TIL How to Batch Compress PDF Files Using Ghostscript](https://dev.to/nickciolpan/til-how-to-batch-compress-pdf-files-using-ghostscript-5ejg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
