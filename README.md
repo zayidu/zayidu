@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master How Doubly Linked List is implemented in JavaScript](https://dev.to/emmanuelayinde/master-how-doubly-linked-list-is-implemented-in-javascript-ogi)
-- [Rust Procedural Macros: Unlocking the Power of Custom Code Generation](https://dev.to/benodiwal/rust-procedural-macros-unlocking-the-power-of-custom-code-generation-16po)
-- [Hello World!](https://dev.to/charlottejdcb/hello-world-3joj)
-- [Dia 7 - Diferença entre C e C++, &quot;por que C++ é rápido?&quot; e uso de ponteiros.](https://dev.to/matheusgb/dia-7-diferenca-entre-c-e-c-por-que-c-e-rapido-e-uso-de-ponteiros-3hb0)
-- [4 Conceitos legais do JavaScript que você vai achar legal também](https://dev.to/leomarlinhares/4-conceitos-legais-do-javascript-que-voce-vai-achar-legal-tambem-40dp)
+- [Streamlining Inline Style Conversion in HTML](https://dev.to/fabiodevbr/streamlining-inline-style-conversion-in-html-4f8e)
+- [Monthly Amazon Location Service Updates - 2024.09](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202409-3pi9)
+- [Singly Linked List Implementation in Go](https://dev.to/adnanbabakan/singly-linked-list-implementation-in-go-480o)
+- [6 Surprising Reasons to Ditch Monolithic and Microservices for a Hybrid Approach Now](https://dev.to/jackwilltech/6-surprising-reasons-to-ditch-monolithic-and-microservices-for-a-hybrid-approach-now-392)
+- [Automating Swagger Documentation with Joi in Node.js: Simplify Your API Documentation Workflow](https://dev.to/gleidsonleite/automating-swagger-documentation-with-joi-in-nodejs-simplify-your-api-documentation-workflow-5ad7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
