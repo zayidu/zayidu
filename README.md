@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New Vulnerability Scanner &lpar;Must Try&rpar;](https://dev.to/trixsec/new-vulnerability-scanner-must-try-40g4)
-- [How to Enable MSMQ Triggers in Windows 11?](https://dev.to/winsides/how-to-enable-msmq-triggers-in-windows-11-5cnf)
-- [Mastering Linux: A Collection of Hands-On Programming Labs 🐧](https://dev.to/labex/mastering-linux-a-collection-of-hands-on-programming-labs-24a5)
-- [Understanding Git Rebase](https://dev.to/kiranukamath/understanding-git-rebase-9ca)
-- [Best CSS Frameworks to Use in React.js](https://dev.to/mourya_modugula/best-css-frameworks-to-use-in-reactjs-604)
+- [How to Contribute to Open Source: A Step-by-Step Guide for Beginners](https://dev.to/sumonta056/how-to-contribute-to-open-source-a-step-by-step-guide-for-beginners-2a80)
+- [TIL: How to Quickly Check Which AWS Regions Support SES Using a Bash Script](https://dev.to/nickciolpan/til-how-to-quickly-check-which-aws-regions-support-ses-using-a-bash-script-262g)
+- [Relational vs Non-Relational Databases](https://dev.to/jayaprasanna_roddam/relational-vs-non-relational-databases-1a39)
+- [Why is Next.js so great?](https://dev.to/turingvangisms/why-is-nextjs-so-great-5749)
+- [Learning Go: 01](https://dev.to/gaurav444/learning-go-01-2h6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
