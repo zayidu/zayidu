@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡️ Top 10 Tools for Faster Development in Next.js 🚀](https://dev.to/hamzakhan/top-10-tools-for-faster-development-in-nextjs-465i)
-- [Introduction to Gem narabikae: A New Position Management Algorithm Inspired by Figma’s Fractional Indexing](https://dev.to/matazou/introduction-to-gem-narabikae-a-new-position-management-algorithm-inspired-by-figmas-fractional-indexing-2lhg)
-- [Working with HTTP requests in Spring Boot](https://dev.to/olnov/working-with-http-requests-in-spring-boot-5el0)
-- [Unlock Your Data Mastery with the Pandas Practice Labs Course](https://dev.to/labex/unlock-your-data-mastery-with-the-pandas-practice-labs-course-5gfb)
-- [Understanding JavaScript Hoisting: A Simple Guide](https://dev.to/shubhamkhan/understanding-javascript-hoisting-a-simple-guide-59k0)
+- [Error 403 Unauthorized: Understanding Its Implications for Apache Security](https://dev.to/gustavo_gallas_4e45019b5c/error-403-unauthorized-understanding-its-implications-for-apache-security-2mk3)
+- [Making Websites Faster With 103 Early Hints](https://dev.to/pmbanugo/making-websites-faster-with-103-early-hints-524a)
+- [The Emotional Side of Software Development: Key Insights from Nicole Novielli at CBSoft 2024](https://dev.to/adolfont/the-emotional-side-of-software-development-key-insights-from-nicole-novielli-at-cbsoft-2024-2d77)
+- [UX Case Study- Travel Planner App](https://dev.to/manishaghosh66/ux-case-study-6dk)
+- [Memory stream is not expandable](https://dev.to/thomaseyde/memory-stream-is-not-expandable-39bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
