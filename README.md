@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Inline Style Conversion in HTML](https://dev.to/fabiodevbr/streamlining-inline-style-conversion-in-html-4f8e)
-- [Monthly Amazon Location Service Updates - 2024.09](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202409-3pi9)
-- [Singly Linked List Implementation in Go](https://dev.to/adnanbabakan/singly-linked-list-implementation-in-go-480o)
-- [6 Surprising Reasons to Ditch Monolithic and Microservices for a Hybrid Approach Now](https://dev.to/jackwilltech/6-surprising-reasons-to-ditch-monolithic-and-microservices-for-a-hybrid-approach-now-392)
-- [Automating Swagger Documentation with Joi in Node.js: Simplify Your API Documentation Workflow](https://dev.to/gleidsonleite/automating-swagger-documentation-with-joi-in-nodejs-simplify-your-api-documentation-workflow-5ad7)
+- [Avoid Misunderstanding ON DELETE NO ACTION](https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj)
+- [The Day a DDOS Attack Led to the Worlds Most Awkward Hello World](https://dev.to/programmerraja/the-day-a-ddos-attack-led-to-the-worlds-most-awkward-hello-world-1dln)
+- [Day 3 - Bashing bots &amp;&amp; piping dreams 👷](https://dev.to/kanzish/day-3-bashing-bots-piping-dreams-40j6)
+- [6502 Assembly: Calculating Code Performance](https://dev.to/arilloid/6502-assembly-calculating-code-performance-4fi3)
+- [Hello, world!](https://dev.to/pmayo/hello-world-200m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
