@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Law of Demeter &lpar;Principle of Least Knowledge&rpar;](https://dev.to/dazevedo/law-of-demeter-principle-of-least-knowledge-35l2)
-- [Python 101: Introduction to Python as a Data Analytics Tool](https://dev.to/kibowen_8/python-101-introduction-to-python-as-a-data-analytics-tool-35li)
-- [Dia 8 - Iniciando a criação do jfcOS &lpar;sistema operacional&rpar;](https://dev.to/matheusgb/dia-8-iniciando-a-criacao-do-jfcos-sistema-operacional-4kgp)
-- [Reto de backend #2](https://dev.to/caresle/reto-de-backend-2-33ip)
-- [Reto de backend #1](https://dev.to/caresle/reto-de-backend-1-2bpb)
+- [What is Ngrok?](https://dev.to/femolacaster/what-is-ngrok-1023)
+- [Empowering Healthcare with Data: Choosing the Best Platforms for Advanced Analytics](https://dev.to/chaets/empowering-healthcare-with-data-choosing-the-best-platforms-for-advanced-analytics-1end)
+- [4 - Clean Architecture: Interface Adapters](https://dev.to/dazevedo/4-clean-architecture-interface-adapters-594m)
+- [How To Process Events Exactly-Once](https://dev.to/dbos/how-to-process-events-exactly-once-4dpo)
+- [I Built DeployFast – Because I Got Tired of Using Vercel &lpar;deployfast.cloud&rpar;](https://dev.to/anis_mer/i-built-deployfast-because-i-got-tired-of-using-vercel-deployfastcloud-31n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
