@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Contribute to Open Source?](https://dev.to/zeiadmh/how-to-contribute-to-open-source-80)
-- [Create a website on GitHub pages](https://dev.to/manvendra5/create-a-website-on-github-pages-4g46)
-- [PYTHON 101: INTRODUCTION TO PYTHON FOR DATA ANALYTICS](https://dev.to/john_analytics/python-101-introduction-to-python-for-data-analytics-2nk4)
-- [The Impact of Low-Code/No-Code Tools on Traditional Software Development](https://dev.to/encodingmuzzu/the-impact-of-low-codeno-code-tools-on-traditional-software-development-4c6c)
-- [TIL How to Batch Compress PDF Files Using Ghostscript](https://dev.to/nickciolpan/til-how-to-batch-compress-pdf-files-using-ghostscript-5ejg)
+- [React Unmasked: Episode 1 - The Anatomy of a React App](https://dev.to/adhikareeprayush/react-unmasked-episode-1-the-anatomy-of-a-react-app-2g3o)
+- [Monte Carlo Simulation-Based Scenario Generation in Stochastic Programming: Addressing Uncertainty in the Knapsack Problem](https://dev.to/thana_b/monte-carlo-simulation-based-scenario-generation-in-stochastic-programming-addressing-uncertainty-in-the-knapsack-problem-39ip)
+- [How to solve users unsolvable/infeasible instance issue in Operations Research](https://dev.to/thana_b/how-to-solve-users-unsolvableinfeasible-instance-issue-in-operations-research-33f1)
+- [Understanding Operating Systems: The Three Key Concepts](https://dev.to/benslinux2024/understanding-operating-systems-the-three-key-concepts-5ah5)
+- [The Challenge About SSL in Docker Containers No One Talks About](https://dev.to/marrouchi/the-challenge-about-ssl-in-docker-containers-no-one-talks-about-32gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
