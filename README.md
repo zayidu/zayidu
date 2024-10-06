@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Unmasked: Episode 1 - The Anatomy of a React App](https://dev.to/adhikareeprayush/react-unmasked-episode-1-the-anatomy-of-a-react-app-2g3o)
-- [Monte Carlo Simulation-Based Scenario Generation in Stochastic Programming: Addressing Uncertainty in the Knapsack Problem](https://dev.to/thana_b/monte-carlo-simulation-based-scenario-generation-in-stochastic-programming-addressing-uncertainty-in-the-knapsack-problem-39ip)
-- [How to solve users unsolvable/infeasible instance issue in Operations Research](https://dev.to/thana_b/how-to-solve-users-unsolvableinfeasible-instance-issue-in-operations-research-33f1)
-- [Understanding Operating Systems: The Three Key Concepts](https://dev.to/benslinux2024/understanding-operating-systems-the-three-key-concepts-5ah5)
-- [The Challenge About SSL in Docker Containers No One Talks About](https://dev.to/marrouchi/the-challenge-about-ssl-in-docker-containers-no-one-talks-about-32gh)
+- [React Basics~useState/ count number~](https://dev.to/kkr0423/react-basicsusestate-count-number-5cl2)
+- [The Power of Touch Typing for Developers](https://dev.to/heydathan/the-power-of-touch-typing-for-developers-3jc2)
+- [Cypress and Angular: A Step-by-Step Guide to Efficient E2E Testing](https://dev.to/soumayaerradi/cypress-and-angular-a-step-by-step-guide-to-efficient-e2e-testing-1gj1)
+- [9 Open Source Projects to Contribute to - Hacktoberfest 2024](https://dev.to/bobbyiliev/9-open-source-projects-to-contribute-to-hacktoberfest-2024-42bm)
+- [Mi Opinión sobre WP Engine vs WordPress - Un Caso de Free Riding en la Comunidad Open Source](https://dev.to/misterdigital_/mi-opinion-sobre-wp-engine-vs-wordpress-un-caso-de-free-riding-en-la-comunidad-open-source-g6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
