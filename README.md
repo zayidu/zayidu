@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [User annotations for PVS-Studio](https://dev.to/pvsdev/user-annotations-for-pvs-studio-1hon)
-- [10 Things I’ve Cared About AI.](https://dev.to/rajondey/10-things-ive-cared-about-ai-2131)
-- [Test Reporting Tools - Exploring the Best](https://dev.to/asaianudeep/test-reporting-tools-exploring-the-best-64m)
-- [Neighbourhoodie’s Oct 9 CouchDB Meetup: Get-to-Know 3.4.1 + 3.4.0](https://dev.to/neighbourhoodie/neighbourhoodies-oct-9-couchdb-meetup-get-to-know-341-340-5f93)
-- [How to get the `verbose_name` of an attribute of a model.](https://dev.to/doridoro/how-to-get-the-verbosename-of-an-attribute-of-a-model-12d1)
+- [Understanding os.Stat&lpar;&rpar; vs os.Lstat&lpar;&rpar; in Go: File and Symlink Handling](https://dev.to/moseeh_52/understanding-osstat-vs-oslstat-in-go-file-and-symlink-handling-3p5d)
+- [🎯 Case Study: How AutoKey is Exploring Opire to Attract Python Developers](https://dev.to/opire/case-study-how-autokey-is-exploring-opire-to-attract-python-developers-b8g)
+- [JavaScript Essentials: Part 3](https://dev.to/otumianempire/javascript-essentials-part-3-5cc0)
+- [Two pointers algorithm explained](https://dev.to/okaz/two-pointers-algorithm-explained-3k0e)
+- [Serverless Architecture: A New Era in Application Development and Deployment](https://dev.to/okoye_ndidiamaka_5e3b7d30/serverless-architecture-a-new-era-in-application-development-and-deployment-2hja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
