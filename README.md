@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding os.Stat&lpar;&rpar; vs os.Lstat&lpar;&rpar; in Go: File and Symlink Handling](https://dev.to/moseeh_52/understanding-osstat-vs-oslstat-in-go-file-and-symlink-handling-3p5d)
-- [🎯 Case Study: How AutoKey is Exploring Opire to Attract Python Developers](https://dev.to/opire/case-study-how-autokey-is-exploring-opire-to-attract-python-developers-b8g)
-- [JavaScript Essentials: Part 3](https://dev.to/otumianempire/javascript-essentials-part-3-5cc0)
-- [Two pointers algorithm explained](https://dev.to/okaz/two-pointers-algorithm-explained-3k0e)
-- [Serverless Architecture: A New Era in Application Development and Deployment](https://dev.to/okoye_ndidiamaka_5e3b7d30/serverless-architecture-a-new-era-in-application-development-and-deployment-2hja)
+- [Serverless App - Extração de Textos com Exibição de Layouts com Textract](https://dev.to/gugamainchein/serverless-app-extracao-de-textos-com-exibicao-de-layouts-com-textract-455o)
+- [Building a Word Unscrambler with JavaScript &lpar;part 3&rpar;](https://dev.to/bridget_amana/building-a-word-unscrambler-with-javascript-part-3-2p6f)
+- [Creating your Self-Custodial Ethereum Wallet on Holsekey Network, using Kalp Studio](https://dev.to/kalpstudio/creating-your-self-custodial-ethereum-wallet-on-holsekey-network-using-kalp-studio-381n)
+- [Provision An NGINX Server Using Docker On Windows](https://dev.to/mabis12/provision-an-nginx-server-using-docker-on-windows-1ik5)
+- [Huge news for Kohya GUI - Now you can fully Fine Tune / DreamBooth FLUX Dev with as low as 6 GB GPUs without any quality loss](https://dev.to/furkangozukara/huge-news-for-kohya-gui-now-you-can-fully-fine-tune-dreambooth-flux-dev-with-as-low-as-6-gb-gpus-without-any-quality-loss-1ke7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
