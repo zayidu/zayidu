@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up CrewAI on macOS: A Step-by-Step Guide](https://dev.to/imkven/how-to-set-up-crewai-on-macos-a-step-by-step-guide-48d8)
-- [Disadvantages of Dependency Inversion Principle&lpar;DIP&rpar;](https://dev.to/nozibul_islam_113b1d5334f/disadvantages-of-dependency-inversion-principledip-2pml)
-- [Top open-source repos/projects to contribute &lpar;Hacktoberfest Edition 🎃&rpar;](https://dev.to/rohan_sharma/top-open-source-reposprojects-to-contribute-hacktoberfest-edition--273o)
-- [CodeSnap : prendre des captures d&#39;écran de code dans VS Code](https://dev.to/developpeurtaf/codesnap-prendre-des-captures-decran-de-code-dans-vs-code-2d78)
-- [How to Install WKHTMLTOPDF with Patched QT on Ubuntu and CentOS 8](https://dev.to/afiqiqmal/how-to-install-wkhtmltopdf-with-patched-qt-on-ubuntu-and-centos-8-4j12)
+- [Creating an All-in-One Code Editor Using React and SandPack](https://dev.to/salehmubashar/creating-an-all-in-one-code-editor-using-react-and-sandpack-1pon)
+- [Creating a Word Cloud in React ⚛️🔡](https://dev.to/mattlewandowski93/creating-a-word-cloud-in-react-1999)
+- [How To Create an ECC Certificate on Nginx?](https://dev.to/devops_den/how-to-create-an-ecc-certificate-on-nginx-50c1)
+- [Role of AI In Enhancing VR Experiences](https://dev.to/jhernandez504/role-of-ai-in-enhancing-vr-experiences-531i)
+- [Integrating Apollo Client with React and TypeScript: A Step-by-Step Guide](https://dev.to/mourya_modugula/integrating-apollo-client-with-react-and-typescript-a-step-by-step-guide-3bjk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
