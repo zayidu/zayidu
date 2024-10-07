@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I boosted my App Performance up to 80%](https://dev.to/suyashdev/how-i-boosted-my-app-performance-up-to-80-334n)
-- [Next.js with Docker setup error fixed](https://dev.to/uwancha/nextjs-with-docker-setup-error-fixed-2b3j)
-- [Started my journey as a contributor! it&#39;s LATE, but it&#39;s gonna GREAT!!](https://dev.to/sitam_jyotisahoo_0273f60/started-my-journey-as-a-contributor-its-late-but-its-gonna-great-4if5)
-- [Create a native Kotlin application with Spring Boot Native, Gradle, and GraalVM without Docker for MacOS and Windows](https://dev.to/devslm/create-a-native-kotlin-application-with-spring-boot-native-gradle-and-graalvm-without-docker-for-macos-and-windows-3p4j)
-- [Implementing Long Press Functionality Using React Native Gesture Handler in React Native Application](https://dev.to/tmayank860/implementing-long-press-functionality-using-react-native-gesture-handler-in-react-native-application-3f16)
+- [No Matching Passkeys Available: Troubleshooting Your Login Issue](https://dev.to/corbado/no-matching-passkeys-available-troubleshooting-your-login-issue-5hn4)
+- [Networking Interview Preparation](https://dev.to/shagun/networking-interview-preparation-cnj)
+- [Migrating to the `inject` Function in Angular: A Comprehensive Guide](https://dev.to/manthanank/migrating-to-the-inject-function-in-angular-a-comprehensive-guide-17jb)
+- [Lockdown Your Containers: 11 Docker Security Tips](https://dev.to/bobbyiliev/lockdown-your-containers-11-docker-security-tips-239l)
+- [Celebrating My Hacktoberfest Journey: Productivity At Peak!](https://dev.to/aadii0408/celebrating-my-hacktoberfest-journey-productivity-at-peak-35a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
