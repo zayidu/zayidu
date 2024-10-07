@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Want to Ace Your Next Take-Home Coding Exercises? Follow These 13 Short Tips](https://dev.to/canro91/want-to-ace-your-next-take-home-coding-exercises-follow-these-13-short-tips-5f56)
-- [Emulating classes with functions in Kotlin for maximum performance 🚀](https://dev.to/charlietap/emulating-classes-with-functions-in-kotlin-for-maximum-performance-4fo1)
-- [Designing Ultra-Low Power IoT Devices for Long-Term Environmental Monitoring: Challenges and Solutions](https://dev.to/adityabhuyan/designing-ultra-low-power-iot-devices-for-long-term-environmental-monitoring-challenges-and-solutions-502a)
-- [The Future is Here: Promising Applications of Edge Computing in IoT Devices](https://dev.to/adityabhuyan/the-future-is-here-promising-applications-of-edge-computing-in-iot-devices-1jji)
-- [Async vs Defer in JavaScript: Understanding the Difference](https://dev.to/laxmann/async-vs-defer-in-javascript-understanding-the-difference-44o5)
+- [The Most Important Setting in Your Power Platform](https://dev.to/wyattdave/the-most-important-setting-in-your-power-platform-c71)
+- [JavaScript Variables and Data Types: Storing and manipulating data in JavaScript.](https://dev.to/shieldstring/javascript-variables-and-data-types-storing-and-manipulating-data-in-javascript-ed)
+- [7 Open Source Projects You Should Know - Italian Edition ✔️ [BONUS]](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-italian-edition-bonus-2958)
+- [Memory safety in web services: what about performance](https://dev.to/gliimly/memory-safety-in-web-services-what-about-performance-1bmg)
+- [System design: Designing for High Availability](https://dev.to/jayaprasanna_roddam/system-design-designing-for-high-availability-5edp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
