@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS App Testing: A Comprehensive Step-by-Step Guide](https://dev.to/ronika_kashyap/ios-app-testing-a-comprehensive-step-by-step-guide-3k71)
-- [Building a Password Manager in Go: Part 3](https://dev.to/svemaraju/building-a-password-manager-in-go-part-3-2il1)
-- [DevOps 2.0: The Evolution of Continuous Integration and Delivery &lpar;CI/CD&rpar;](https://dev.to/eugene_starikov/devops-20-the-evolution-of-continuous-integration-and-delivery-cicd-42d4)
-- [How to Use Python for Log Analysis in DevOps](https://dev.to/anshul_kichara/how-to-use-python-for-log-analysis-in-devops-4fdk)
-- [React Basics~map function/ a list of data~](https://dev.to/kkr0423/react-basicsmap-function-a-list-of-data-2ohn)
+- [User annotations for PVS-Studio](https://dev.to/pvsdev/user-annotations-for-pvs-studio-1hon)
+- [10 Things I’ve Cared About AI.](https://dev.to/rajondey/10-things-ive-cared-about-ai-2131)
+- [Test Reporting Tools - Exploring the Best](https://dev.to/asaianudeep/test-reporting-tools-exploring-the-best-64m)
+- [Neighbourhoodie’s Oct 9 CouchDB Meetup: Get-to-Know 3.4.1 + 3.4.0](https://dev.to/neighbourhoodie/neighbourhoodies-oct-9-couchdb-meetup-get-to-know-341-340-5f93)
+- [How to get the `verbose_name` of an attribute of a model.](https://dev.to/doridoro/how-to-get-the-verbosename-of-an-attribute-of-a-model-12d1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
