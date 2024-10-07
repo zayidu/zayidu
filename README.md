@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ETL: Extracting a Person&#39;s Name from Text](https://dev.to/garciadiazjaime/etl-extracting-a-persons-name-from-text-ahl)
-- [Javascript Interview Coding Questions](https://dev.to/neetu_j_29a5c6ffbec1df1c2/javascript-interview-coding-questions-119h)
-- [Testing Laravel with PHPUnit and PCOV](https://dev.to/sertxudev/testing-laravel-with-phpunit-and-pcov-3ic3)
-- [How to not make other developers hate your js code ?](https://dev.to/ali-alkhawaja/how-to-not-make-other-developers-hate-your-js-code--4152)
-- [Good First Issue: Make your first open-source contribution](https://dev.to/opensourcee/good-first-issue-make-your-first-open-source-contribution-2ocm)
+- [Dockerizing Your Go API with Multi-Stage Builds](https://dev.to/neelp03/dockerizing-your-go-api-with-multi-stage-builds-3h9c)
+- [Enhancing Your React Workflows for Maximized Productivity](https://dev.to/surajondev/enhancing-your-react-workflows-for-maximized-productivity-4d6c)
+- [Top 10 Essential JavaScript Concepts Every Developer Should Master](https://dev.to/shoib_ansari/top-10-essential-javascript-concepts-every-developer-should-master-5fnm)
+- [Svelte + Manifest = Giving Svelte a proper backend with 7 lines of code 🧡🦚](https://dev.to/bd_perez/svelte-manifest-giving-svelte-a-proper-backend-with-7-lines-of-code-j6a)
+- [🚀 Deploying Node.js Application with PM2, NGINX, and SSL Configuration 🚀](https://dev.to/mahinur05/deploying-nodejs-application-with-pm2-nginx-and-ssl-configuration-26cm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
