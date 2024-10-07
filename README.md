@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solr Search in Sitecore](https://dev.to/esdanielgomez/solr-search-in-sitecore-399k)
-- [Python and Machine Learning: A Match Made in Heaven](https://dev.to/alexander_yizchak/python-and-machine-learning-a-match-made-in-heaven-29d6)
-- [5 Productivity Boosting Skills for Engineering Managers](https://dev.to/tudor-matei/5-productivity-boosting-skills-for-engineering-managers-13h9)
-- [The Power of Python in Data Science: A Comprehensive Guide](https://dev.to/alexander_yizchak/the-power-of-python-in-data-science-a-comprehensive-guide-3phi)
-- [YugabyteDB as a Graph database with PuppyGraph](https://dev.to/yugabyte/yugabytedb-as-a-graph-database-with-puppygraph-4p6l)
+- [Mastering More JavaScript: Objects, Arrays, Loops, and Beyond!](https://dev.to/imrankhan17/mastering-more-javascript-objects-arrays-loops-and-beyond-4n8c)
+- [Linked List Mastery: Cracking LeetCode Problems on List](https://dev.to/emmanuelayinde/linked-list-mastery-cracking-leetcode-problems-on-list-2i0g)
+- [What orienteering taught me about software development](https://dev.to/vkolencik/what-orienteering-taught-me-about-software-development-5d27)
+- [Criando uma API Simples em Java: Parte 2 - Endpoints PUT e DELETE](https://dev.to/menezesledilson/criando-uma-api-simples-em-java-parte-2-endpoints-put-e-delete-4hfa)
+- [Unlock 100s of Microservices in 5 Easy Steps with Spring Cloud Config &amp; Kotlin!](https://dev.to/parkerava/unlock-100s-of-microservices-in-5-easy-steps-with-spring-cloud-config-kotlin-209a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
