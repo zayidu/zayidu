@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-1jd5)
-- [Dive into Next.js Server-Side Rendering &lpar;SSR&rpar;: From SPA to ISR](https://dev.to/nik-bogachenkov/dive-into-nextjs-server-side-rendering-ssr-from-spa-to-isr-11o2)
-- [Clean Up Your Code: No More Try-Catch!](https://dev.to/gazi2050/clean-up-your-code-no-more-try-catch-109m)
-- [Introduction to React Library :&rpar;](https://dev.to/madgan95/introduction-to-react-library--4k5i)
-- [Recap of Experts Live 2024 in Budapest: Three Days of Cloud, Code, and Connections](https://dev.to/this-is-learning/recap-of-experts-live-2024-in-budapest-three-days-of-cloud-code-and-connections-189h)
+- [ETL: Extracting a Person&#39;s Name from Text](https://dev.to/garciadiazjaime/etl-extracting-a-persons-name-from-text-ahl)
+- [Javascript Interview Coding Questions](https://dev.to/neetu_j_29a5c6ffbec1df1c2/javascript-interview-coding-questions-119h)
+- [Testing Laravel with PHPUnit and PCOV](https://dev.to/sertxudev/testing-laravel-with-phpunit-and-pcov-3ic3)
+- [How to not make other developers hate your js code ?](https://dev.to/ali-alkhawaja/how-to-not-make-other-developers-hate-your-js-code--4152)
+- [Good First Issue: Make your first open-source contribution](https://dev.to/opensourcee/good-first-issue-make-your-first-open-source-contribution-2ocm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
