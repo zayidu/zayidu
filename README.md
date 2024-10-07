@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless App - Extração de Textos com Exibição de Layouts com Textract](https://dev.to/gugamainchein/serverless-app-extracao-de-textos-com-exibicao-de-layouts-com-textract-455o)
-- [Building a Word Unscrambler with JavaScript &lpar;part 3&rpar;](https://dev.to/bridget_amana/building-a-word-unscrambler-with-javascript-part-3-2p6f)
-- [Creating your Self-Custodial Ethereum Wallet on Holsekey Network, using Kalp Studio](https://dev.to/kalpstudio/creating-your-self-custodial-ethereum-wallet-on-holsekey-network-using-kalp-studio-381n)
-- [Provision An NGINX Server Using Docker On Windows](https://dev.to/mabis12/provision-an-nginx-server-using-docker-on-windows-1ik5)
-- [Huge news for Kohya GUI - Now you can fully Fine Tune / DreamBooth FLUX Dev with as low as 6 GB GPUs without any quality loss](https://dev.to/furkangozukara/huge-news-for-kohya-gui-now-you-can-fully-fine-tune-dreambooth-flux-dev-with-as-low-as-6-gb-gpus-without-any-quality-loss-1ke7)
+- [S3 Alternatives for Rails&#39; ActiveStorage](https://dev.to/railsdesigner/s3-alternatives-for-rails-activestorage-39ko)
+- [Building a Spring Boot Consumer Application with Amazon SQS: Setup Infrastructure Using Cloud Development Kit &lpar;CDK&rpar;](https://dev.to/nivekalara237/building-a-spring-boot-consumer-application-with-amazon-sqs-setup-infrastructure-using-cloud-development-kit-cdk-41a2)
+- [Creating a Smart Address Search with Google Maps API and React](https://dev.to/domanskyi/creating-a-smart-address-search-with-google-maps-api-and-react-2iko)
+- [Top Data Analytics Software Companies in 2024](https://dev.to/kzier/top-data-analytics-software-companies-in-2024-2n62)
+- [Need Team Members for Computer Vision Projects &lpar;Python, OpenCV&rpar;](https://dev.to/elymsyr/need-team-members-for-computer-vision-projects-python-opencv-4lih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
