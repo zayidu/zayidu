@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PinFu: A Dual-Purpose Application for Effortless File Uploads to Pinata](https://dev.to/imabutahersiddik/pinfu-a-dual-purpose-application-for-effortless-file-uploads-to-pinata-3m8o)
-- [Unlock Your Database Skills: &#39;Add Student Personal Information&#39; Project](https://dev.to/labex/unlock-your-database-skills-add-student-personal-information-project-54l)
-- [CRUD Operations with Goravel &lpar;Laravel for GO&rpar;](https://dev.to/adewalecharles/crud-operations-with-goravel-laravel-for-go-6c3)
-- [How to Create a Resource Group and Storage Account on Azure](https://dev.to/kelvin_obua/how-to-create-a-resource-group-and-storage-account-on-azure-h2d)
-- [Tracking Data Over Time: Slowly Changing Dimensions &lpar;SCD&rpar;](https://dev.to/chaets/tracking-data-over-time-slowly-changing-dimensions-scd-nc5)
+- [Solr Search in Sitecore](https://dev.to/esdanielgomez/solr-search-in-sitecore-399k)
+- [Python and Machine Learning: A Match Made in Heaven](https://dev.to/alexander_yizchak/python-and-machine-learning-a-match-made-in-heaven-29d6)
+- [5 Productivity Boosting Skills for Engineering Managers](https://dev.to/tudor-matei/5-productivity-boosting-skills-for-engineering-managers-13h9)
+- [The Power of Python in Data Science: A Comprehensive Guide](https://dev.to/alexander_yizchak/the-power-of-python-in-data-science-a-comprehensive-guide-3phi)
+- [YugabyteDB as a Graph database with PuppyGraph](https://dev.to/yugabyte/yugabytedb-as-a-graph-database-with-puppygraph-4p6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
