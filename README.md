@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing a Caesar Cipher Program in Python](https://dev.to/immah/implementing-a-caesar-cipher-program-in-python-1gf3)
-- [How Learning in Public and Networking Can Advance Your Career](https://dev.to/michaellarocca/how-learning-in-public-and-networking-can-advance-your-career-48mk)
-- [Leveling Up: Completed the Meta Front-End Developer Certification!](https://dev.to/mohadev01/leveling-up-completed-the-meta-front-end-developer-certification-12c1)
-- [Statement Coverage: A Foundation for Effective Testing](https://dev.to/keploy/statement-coverage-a-foundation-for-effective-testing-2cbg)
-- [10 Rarely Used HTML Tags You Should Start Using Today](https://dev.to/paharihacker/10-rarely-used-html-tags-you-should-start-using-today-1ad9)
+- [Day 28. Opportunity for growth](https://dev.to/kiolk/day-28-opportunity-for-growth-3g17)
+- [🚀 Launch Your Dream Website in Minutes! 🌟](https://dev.to/thakkarrajan/launch-your-dream-website-in-minutes-1cm5)
+- [Hacktoberfest: First pull request](https://dev.to/aldrin312/hacktoberfest-first-pull-request-1040)
+- [How not to do code reviews](https://dev.to/dphenomenal/how-not-to-do-code-reviews-hh0)
+- [C# Advanced:Delegates](https://dev.to/moh_moh701/c-advanceddelegates-3p6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
