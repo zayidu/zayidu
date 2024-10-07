@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [S3 Alternatives for Rails&#39; ActiveStorage](https://dev.to/railsdesigner/s3-alternatives-for-rails-activestorage-39ko)
-- [Building a Spring Boot Consumer Application with Amazon SQS: Setup Infrastructure Using Cloud Development Kit &lpar;CDK&rpar;](https://dev.to/nivekalara237/building-a-spring-boot-consumer-application-with-amazon-sqs-setup-infrastructure-using-cloud-development-kit-cdk-41a2)
-- [Creating a Smart Address Search with Google Maps API and React](https://dev.to/domanskyi/creating-a-smart-address-search-with-google-maps-api-and-react-2iko)
-- [Top Data Analytics Software Companies in 2024](https://dev.to/kzier/top-data-analytics-software-companies-in-2024-2n62)
-- [Need Team Members for Computer Vision Projects &lpar;Python, OpenCV&rpar;](https://dev.to/elymsyr/need-team-members-for-computer-vision-projects-python-opencv-4lih)
+- [Meme Monday](https://dev.to/ben/meme-monday-1jd5)
+- [Dive into Next.js Server-Side Rendering &lpar;SSR&rpar;: From SPA to ISR](https://dev.to/nik-bogachenkov/dive-into-nextjs-server-side-rendering-ssr-from-spa-to-isr-11o2)
+- [Clean Up Your Code: No More Try-Catch!](https://dev.to/gazi2050/clean-up-your-code-no-more-try-catch-109m)
+- [Introduction to React Library :&rpar;](https://dev.to/madgan95/introduction-to-react-library--4k5i)
+- [Recap of Experts Live 2024 in Budapest: Three Days of Cloud, Code, and Connections](https://dev.to/this-is-learning/recap-of-experts-live-2024-in-budapest-three-days-of-cloud-code-and-connections-189h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
