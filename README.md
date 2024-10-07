@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Circular Linked Lists Demystified: From Novice to Node Master](https://dev.to/emmanuelayinde/circular-linked-lists-demystified-from-novice-to-node-master-4d5i)
-- [Fundamentals of Computer Architecture: Understanding the Structure Behind the Hardware](https://dev.to/yihongz/fundamentals-of-computer-architecture-understanding-the-structure-behind-the-hardware-1oka)
-- [Downloading and Converting YouTube Videos to MP3 using yt-dlp in Python](https://dev.to/_ken0x/downloading-and-converting-youtube-videos-to-mp3-using-yt-dlp-in-python-20c5)
-- [Unlock API Potential in 7 Steps: Master RedHat 3-Scale for Beginners](https://dev.to/parkerava/unlock-api-potential-in-7-steps-master-redhat-3-scale-for-beginners-1d89)
-- [Ubuntu hibernate](https://dev.to/patfinder/ubuntu-hibernate-fcl)
+- [Striking the Right Balance: Rapid Prototyping with Next.js and Vercel](https://dev.to/hayata_yamamoto/striking-the-right-balance-rapid-prototyping-with-nextjs-and-vercel-4jih)
+- [ASP.NET Core unassociated input fix](https://dev.to/karenpayneoregon/aspnet-core-unassociated-input-fix-3lf0)
+- [Use imgp on macOS with Docker](https://dev.to/tomoyk/use-imgp-on-macos-with-docker-3pef)
+- [Next.js and Prisma: Efficiently Creating Seed Data for Your App](https://dev.to/hayata_yamamoto/nextjs-and-prisma-efficiently-creating-seed-data-for-your-app-1a12)
+- [Adding API Rate Limiting to Your Go API](https://dev.to/neelp03/adding-api-rate-limiting-to-your-go-api-3fo8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
