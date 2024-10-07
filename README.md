@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Design Patterns #1: Singleton](https://dev.to/eduardoarndt/go-design-patterns-1-singleton-4ap9)
-- [what the heck is web3](https://dev.to/anurag112/what-the-heck-is-web3-57nk)
-- [Creating a Responsive Layout with Bootstrap](https://dev.to/chami/creating-a-responsive-layout-with-bootstrap-fle)
-- [AWS S3 appears to be down](https://dev.to/ben/aws-s3-appears-to-be-down-4d0b)
-- [Optimizing PostgreSQL Mass Deletions with Table Partitioning](https://dev.to/stringintech/optimizing-postgresql-mass-deletions-with-table-partitioning-4ai4)
+- [PinFu: A Dual-Purpose Application for Effortless File Uploads to Pinata](https://dev.to/imabutahersiddik/pinfu-a-dual-purpose-application-for-effortless-file-uploads-to-pinata-3m8o)
+- [Unlock Your Database Skills: &#39;Add Student Personal Information&#39; Project](https://dev.to/labex/unlock-your-database-skills-add-student-personal-information-project-54l)
+- [CRUD Operations with Goravel &lpar;Laravel for GO&rpar;](https://dev.to/adewalecharles/crud-operations-with-goravel-laravel-for-go-6c3)
+- [How to Create a Resource Group and Storage Account on Azure](https://dev.to/kelvin_obua/how-to-create-a-resource-group-and-storage-account-on-azure-h2d)
+- [Tracking Data Over Time: Slowly Changing Dimensions &lpar;SCD&rpar;](https://dev.to/chaets/tracking-data-over-time-slowly-changing-dimensions-scd-nc5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
