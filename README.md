@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Most Important Setting in Your Power Platform](https://dev.to/wyattdave/the-most-important-setting-in-your-power-platform-c71)
-- [JavaScript Variables and Data Types: Storing and manipulating data in JavaScript.](https://dev.to/shieldstring/javascript-variables-and-data-types-storing-and-manipulating-data-in-javascript-ed)
-- [7 Open Source Projects You Should Know - Italian Edition ✔️ [BONUS]](https://dev.to/this-is-learning/7-open-source-projects-you-should-know-italian-edition-bonus-2958)
-- [Memory safety in web services: what about performance](https://dev.to/gliimly/memory-safety-in-web-services-what-about-performance-1bmg)
-- [System design: Designing for High Availability](https://dev.to/jayaprasanna_roddam/system-design-designing-for-high-availability-5edp)
+- [How I boosted my App Performance up to 80%](https://dev.to/suyashdev/how-i-boosted-my-app-performance-up-to-80-334n)
+- [Next.js with Docker setup error fixed](https://dev.to/uwancha/nextjs-with-docker-setup-error-fixed-2b3j)
+- [Started my journey as a contributor! it&#39;s LATE, but it&#39;s gonna GREAT!!](https://dev.to/sitam_jyotisahoo_0273f60/started-my-journey-as-a-contributor-its-late-but-its-gonna-great-4if5)
+- [Create a native Kotlin application with Spring Boot Native, Gradle, and GraalVM without Docker for MacOS and Windows](https://dev.to/devslm/create-a-native-kotlin-application-with-spring-boot-native-gradle-and-graalvm-without-docker-for-macos-and-windows-3p4j)
+- [Implementing Long Press Functionality Using React Native Gesture Handler in React Native Application](https://dev.to/tmayank860/implementing-long-press-functionality-using-react-native-gesture-handler-in-react-native-application-3f16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
