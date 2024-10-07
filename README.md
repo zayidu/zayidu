@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No Matching Passkeys Available: Troubleshooting Your Login Issue](https://dev.to/corbado/no-matching-passkeys-available-troubleshooting-your-login-issue-5hn4)
-- [Networking Interview Preparation](https://dev.to/shagun/networking-interview-preparation-cnj)
-- [Migrating to the `inject` Function in Angular: A Comprehensive Guide](https://dev.to/manthanank/migrating-to-the-inject-function-in-angular-a-comprehensive-guide-17jb)
-- [Lockdown Your Containers: 11 Docker Security Tips](https://dev.to/bobbyiliev/lockdown-your-containers-11-docker-security-tips-239l)
-- [Celebrating My Hacktoberfest Journey: Productivity At Peak!](https://dev.to/aadii0408/celebrating-my-hacktoberfest-journey-productivity-at-peak-35a8)
+- [iOS App Testing: A Comprehensive Step-by-Step Guide](https://dev.to/ronika_kashyap/ios-app-testing-a-comprehensive-step-by-step-guide-3k71)
+- [Building a Password Manager in Go: Part 3](https://dev.to/svemaraju/building-a-password-manager-in-go-part-3-2il1)
+- [DevOps 2.0: The Evolution of Continuous Integration and Delivery &lpar;CI/CD&rpar;](https://dev.to/eugene_starikov/devops-20-the-evolution-of-continuous-integration-and-delivery-cicd-42d4)
+- [How to Use Python for Log Analysis in DevOps](https://dev.to/anshul_kichara/how-to-use-python-for-log-analysis-in-devops-4fdk)
+- [React Basics~map function/ a list of data~](https://dev.to/kkr0423/react-basicsmap-function-a-list-of-data-2ohn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
