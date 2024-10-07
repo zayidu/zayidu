@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerizing Your Go API with Multi-Stage Builds](https://dev.to/neelp03/dockerizing-your-go-api-with-multi-stage-builds-3h9c)
-- [Enhancing Your React Workflows for Maximized Productivity](https://dev.to/surajondev/enhancing-your-react-workflows-for-maximized-productivity-4d6c)
-- [Top 10 Essential JavaScript Concepts Every Developer Should Master](https://dev.to/shoib_ansari/top-10-essential-javascript-concepts-every-developer-should-master-5fnm)
-- [Svelte + Manifest = Giving Svelte a proper backend with 7 lines of code 🧡🦚](https://dev.to/bd_perez/svelte-manifest-giving-svelte-a-proper-backend-with-7-lines-of-code-j6a)
-- [🚀 Deploying Node.js Application with PM2, NGINX, and SSL Configuration 🚀](https://dev.to/mahinur05/deploying-nodejs-application-with-pm2-nginx-and-ssl-configuration-26cm)
+- [8 Amazing Web Directories For SaaS Builders and Indie Hackers 🤑🚀](https://dev.to/madza/8-amazing-web-directories-for-saas-builders-and-indie-hackers-2h3o)
+- [AIM Weekly for 07 Oct 2024](https://dev.to/tspannhw/aim-weekly-for-07-oct-2024-316b)
+- [Buffers: Node.js](https://dev.to/harshm03/buffers-nodejs-42m1)
+- [Linux Commands for DevOps Engineers: A Practical Guide](https://dev.to/farukh166/linux-commands-for-devops-engineers-a-practical-guide-575o)
+- [DataLoader in PyTorch](https://dev.to/hyperkai/dataloader-in-pytorch-1fie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
