@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering More JavaScript: Objects, Arrays, Loops, and Beyond!](https://dev.to/imrankhan17/mastering-more-javascript-objects-arrays-loops-and-beyond-4n8c)
-- [Linked List Mastery: Cracking LeetCode Problems on List](https://dev.to/emmanuelayinde/linked-list-mastery-cracking-leetcode-problems-on-list-2i0g)
-- [What orienteering taught me about software development](https://dev.to/vkolencik/what-orienteering-taught-me-about-software-development-5d27)
-- [Criando uma API Simples em Java: Parte 2 - Endpoints PUT e DELETE](https://dev.to/menezesledilson/criando-uma-api-simples-em-java-parte-2-endpoints-put-e-delete-4hfa)
-- [Unlock 100s of Microservices in 5 Easy Steps with Spring Cloud Config &amp; Kotlin!](https://dev.to/parkerava/unlock-100s-of-microservices-in-5-easy-steps-with-spring-cloud-config-kotlin-209a)
+- [Introduction to MicroPython](https://dev.to/kartikmehta8/introduction-to-micropython-4k68)
+- [10 Cool CodePen Demos &lpar;September 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-september-2024-1dj8)
+- [Resilience in the Cloud - Fault Isolation Boundaries](https://dev.to/rdbatch02/resilience-in-the-cloud-fault-isolation-boundaries-4nid)
+- [Request for help from the open source community](https://dev.to/hviana/request-for-help-from-the-open-source-community-2354)
+- [Transpiler vs Ployfills](https://dev.to/padmajothi_athimoolam_23d/transpiler-vs-ployfills-1i5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
