@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🌻 Isolating Go Slices: How to Create Independent Slices from an Array Safely](https://dev.to/sai7xp/isolating-go-slices-how-to-create-independent-slices-from-an-array-safely-3n1p)
+- [Trie structure in Golang](https://dev.to/carasco/trie-structure-in-golang-mcp)
+- [Release Automation through Parallel Codefresh Pipelines](https://dev.to/katherine_lin_f690f55bbf7/release-automation-through-parallel-codefresh-pipelines-2h8g)
+- [Tutorial: Deploying Llama 3.1 405B on GKE Autopilot with 8 x A100 80GB](https://dev.to/samos123/tutorial-deploying-llama-31-405b-on-gke-autopilot-with-8-x-a100-80gb-a97)
 - [Can i get help with issues from github here?](https://dev.to/victorsesan/can-i-get-help-with-issues-from-github-here-38cp)
-- [General Computer System Model](https://dev.to/yihongz/general-computer-system-model-56p9)
-- [The Future of Web Development: A Dive into React, Next.js, Svelte, and Vue.js](https://dev.to/bhuwan71/the-future-of-web-development-a-dive-into-react-nextjs-svelte-and-vuejs-259m)
-- [Master Bidirectional One-to-One Relations in 5 Steps: Boost Spring Data JPA Efficiency](https://dev.to/emilyjohnsonready/master-bidirectional-one-to-one-relations-in-5-steps-boost-spring-data-jpa-efficiency-1m13)
-- [OSD - lab - 4 - toml configs](https://dev.to/krinskumar/osd-lab-4-toml-configs-pmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
