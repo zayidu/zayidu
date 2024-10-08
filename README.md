@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Design Pattern: Interpreter](https://dev.to/juarezasjunior/c-design-pattern-interpreter-3nlp)
-- [C# Design Pattern: Interpreter &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-interpreter-portugues-55l)
-- [Dive into Next.js Server Components: Unlocking Performance &amp; Scalability](https://dev.to/nik-bogachenkov/dive-into-nextjs-server-components-unlocking-performance-scalability-29ej)
-- [Docker, beyond deployment, for Image As A Service](https://dev.to/busycaesar/docker-beyond-deployment-for-image-as-a-service-2dgi)
-- [Mastering the Craft of Naming for Better Software 🚀](https://dev.to/agitrubard/mastering-the-craft-of-naming-for-better-software-46hj)
+- [Presenting you Supacharts](https://dev.to/litlyx/presenting-you-supacharts-4pam)
+- [How Rust Manages Memory](https://dev.to/tekk_x/how-rust-manages-memory-40h3)
+- [Authentication and authorization in Node.js applications](https://dev.to/cerbos/authentication-and-authorization-in-nodejs-applications-12fk)
+- [Portainer + gitops ❤️: A simple way to deploy and manage your self-hosted applications](https://dev.to/mfyz/portainer-gitops-a-simple-way-to-deploy-and-manage-your-self-hosted-applications-pkk)
+- [OpenFest festival will provoke your senses and mind with open art.](https://dev.to/bogomil/openfest-festival-will-provoke-your-senses-and-mind-with-open-art-1256)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
