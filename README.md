@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dash: An Intriguing Framework, to Say the Least](https://dev.to/igor1740/dash-an-intriguing-framework-to-say-the-least-31l6)
-- [Python 101: Introduction to Python as a Data Analytics Tool](https://dev.to/clement_mwai/python-101-introduction-to-python-as-a-data-analytics-tool-nef)
-- [What is Input Validation in Web Development](https://dev.to/carrie_luo1/what-is-input-validation-in-web-development-5b8l)
-- [Offload - A unified javascript SDK that enables in-browser AI](https://dev.to/miguelaeh/offload-a-unified-javascript-sdk-that-enables-in-browser-ai-2aii)
-- [Building a Docker-based Monitoring System with Prometheus and Grafana](https://dev.to/yagyandatta/building-a-docker-based-monitoring-system-with-prometheus-and-grafana-30c0)
+- [C# Design Pattern: Interpreter](https://dev.to/juarezasjunior/c-design-pattern-interpreter-3nlp)
+- [C# Design Pattern: Interpreter &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-interpreter-portugues-55l)
+- [Dive into Next.js Server Components: Unlocking Performance &amp; Scalability](https://dev.to/nik-bogachenkov/dive-into-nextjs-server-components-unlocking-performance-scalability-29ej)
+- [Docker, beyond deployment, for Image As A Service](https://dev.to/busycaesar/docker-beyond-deployment-for-image-as-a-service-2dgi)
+- [Mastering the Craft of Naming for Better Software 🚀](https://dev.to/agitrubard/mastering-the-craft-of-naming-for-better-software-46hj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
