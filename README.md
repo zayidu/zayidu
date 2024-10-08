@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build &amp; Deploy a Serverless OpenAI App in 9 Lines of Code](https://dev.to/dbos/build-deploy-a-serverless-openai-app-in-9-lines-of-code-po1)
-- [The Art of Full Stack Debugging](https://dev.to/codenameone/the-art-of-full-stack-debugging-3oba)
-- [Time Data Series: The Rest of the Story](https://dev.to/adatole/time-data-series-the-rest-of-the-story-555h)
-- [Creating a Docker Swarm Cluster on AWS EC2 : AWS Project](https://dev.to/shubham_murti/creating-a-docker-swarm-cluster-on-aws-ec2-aws-project-3g5h)
-- [CountVectorizer vs TfidfVectorizer](https://dev.to/aashwinkumar/countvectorizer-vs-tfidfvectorizer-1kck)
+- [Why Developers Shouldn&#39;t Overlook Roblox Scripting](https://dev.to/johnny_04/why-developers-shouldnt-overlook-roblox-scripting-4m6b)
+- [Sequence in SQL | PART 2](https://dev.to/mrcaption49/sequence-in-sql-part-2-1an8)
+- [sequence in SQL | PART 1](https://dev.to/mrcaption49/sequence-in-sql-part-1-53)
+- [Starting My DevOps Journey: Week 1 - Linux Fundamentals 🚀](https://dev.to/absurd_sapien/starting-my-devops-journey-week-1-linux-fundamentals-5b8g)
+- [A Fast Resume Why You Should Learn About Design Patterns](https://dev.to/vitorbrangioni/a-fast-resume-why-you-should-learn-about-design-patterns-14bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
