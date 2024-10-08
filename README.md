@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to MicroPython](https://dev.to/kartikmehta8/introduction-to-micropython-4k68)
-- [10 Cool CodePen Demos &lpar;September 2024&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-september-2024-1dj8)
-- [Resilience in the Cloud - Fault Isolation Boundaries](https://dev.to/rdbatch02/resilience-in-the-cloud-fault-isolation-boundaries-4nid)
-- [Request for help from the open source community](https://dev.to/hviana/request-for-help-from-the-open-source-community-2354)
-- [Transpiler vs Ployfills](https://dev.to/padmajothi_athimoolam_23d/transpiler-vs-ployfills-1i5l)
+- [Can i get help with issues from github here?](https://dev.to/victorsesan/can-i-get-help-with-issues-from-github-here-38cp)
+- [General Computer System Model](https://dev.to/yihongz/general-computer-system-model-56p9)
+- [The Future of Web Development: A Dive into React, Next.js, Svelte, and Vue.js](https://dev.to/bhuwan71/the-future-of-web-development-a-dive-into-react-nextjs-svelte-and-vuejs-259m)
+- [Master Bidirectional One-to-One Relations in 5 Steps: Boost Spring Data JPA Efficiency](https://dev.to/emilyjohnsonready/master-bidirectional-one-to-one-relations-in-5-steps-boost-spring-data-jpa-efficiency-1m13)
+- [OSD - lab - 4 - toml configs](https://dev.to/krinskumar/osd-lab-4-toml-configs-pmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
