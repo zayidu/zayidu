@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2024 - The Antiguide](https://dev.to/srbhr/hacktoberfest-2024-the-antiguide-4ce5)
-- [How to create a newsletter signup form in just 20 minutes with shadcn/UI and Manifest](https://dev.to/sebconejo/how-to-create-a-newsletter-signup-form-in-just-20-minutes-with-shadcnui-and-manifest-1ile)
-- [Stop Using Traditional Loops in Java: Use Streams and `forEach` 🚀](https://dev.to/nullvoidkage/stop-using-traditional-loops-in-java-use-streams-and-foreach-41le)
-- [The Big Picture of React Component](https://dev.to/hasan_rifat/the-big-picture-of-react-component-1o1m)
-- [DevOps Testing Explained: Types, Benefits, and Proven Best Practices](https://dev.to/ronika_kashyap/devops-testing-explained-types-benefits-and-proven-best-practices-53il)
+- [Building a Simple Python-Based Firewall for Home Networks](https://dev.to/trixsec/building-a-simple-python-based-firewall-for-home-networks-5d93)
+- [LoRA and QLoRA: Simple Fine-Tuning Techniques Explained](https://dev.to/fotiecodes/lora-and-qlora-simple-fine-tuning-techniques-explained-1452)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1k1m)
+- [How I structure my Angular components with Signals](https://dev.to/this-is-angular/how-i-structure-my-angular-components-with-signals-52lj)
+- [What Organizations Forget When Automating Enterprise Application Testing](https://dev.to/johnste39558689/what-organizations-forget-when-automating-enterprise-application-testing-37g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
