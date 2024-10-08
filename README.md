@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantum AI for Cryptographic Defense in DevSecOps: A Future-Ready Approach to Threat Mitigation](https://dev.to/indrajithbandara/quantum-ai-for-cryptographic-defense-in-devsecops-a-future-ready-approach-to-threat-mitigation-4le)
+- [ReductStore v1.12.0 released: record deletion API and storage engine optimization](https://dev.to/reductstore/reductstore-v1120-released-record-deletion-api-and-storage-engine-optimization-3blm)
+- [AI-Powered Ethical Hacking: Automating Penetration Testing in DevSecOps](https://dev.to/indrajithbandara/ai-powered-ethical-hacking-automating-penetration-testing-in-devsecops-5e42)
 - [10 NPM Packages for Productivity](https://dev.to/balrajola/10-npm-packages-for-productivity-1odb)
-- [HealthChecks](https://dev.to/ben-witt/healthchecks-4aie)
-- [Master JavaScript Promises: 10 Tricky Output Questions Every Developer Must Know! &lpar;Part 1&rpar;](https://dev.to/hitheshkumar/master-javascript-promises-10-tricky-output-questions-every-developer-must-know-part-1-1l43)
-- [👾 Tracking CI Metrics for Better Workflow Performance](https://dev.to/cicube/tracking-ci-metrics-for-better-workflow-performance-4ml9)
-- [Python 101: Introduction to Python as a Data Analytics Tool](https://dev.to/ochi3ng/python-101-introduction-to-python-as-a-data-analytics-tool-4hfb)
+- [JWT Authentication in React](https://dev.to/sivamani18/jwt-authentication-in-react-1lh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
