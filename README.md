@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌻 Isolating Go Slices: How to Create Independent Slices from an Array Safely](https://dev.to/sai7xp/isolating-go-slices-how-to-create-independent-slices-from-an-array-safely-3n1p)
-- [Trie structure in Golang](https://dev.to/carasco/trie-structure-in-golang-mcp)
-- [Release Automation through Parallel Codefresh Pipelines](https://dev.to/katherine_lin_f690f55bbf7/release-automation-through-parallel-codefresh-pipelines-2h8g)
-- [Tutorial: Deploying Llama 3.1 405B on GKE Autopilot with 8 x A100 80GB](https://dev.to/samos123/tutorial-deploying-llama-31-405b-on-gke-autopilot-with-8-x-a100-80gb-a97)
-- [Can i get help with issues from github here?](https://dev.to/victorsesan/can-i-get-help-with-issues-from-github-here-38cp)
+- [#68 — Search for Rows That Satisfy The Condition](https://dev.to/judith677/68-search-for-rows-that-satisfy-the-condition-33na)
+- [The Future of Software Engineering: How AI-Assisted Coding Tools Are Transforming Model-Driven Development](https://dev.to/adityabhuyan/the-future-of-software-engineering-how-ai-assisted-coding-tools-are-transforming-model-driven-development-3m2l)
+- [Vue Tip : Setup Store Pinia + Custom Pagination](https://dev.to/skipperhoa/vue-tip-setup-store-pinia-custom-pagination-1ok5)
+- [Unlock 200 Years of Computing Secrets: Babbage&#39;s Lost Machine](https://dev.to/emilyjohnsonready/unlock-200-years-of-computing-secrets-babbages-lost-machine-1ekd)
+- [System design: Design a parking lot system](https://dev.to/jayaprasanna_roddam/system-design-design-a-parking-lot-system-4194)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
