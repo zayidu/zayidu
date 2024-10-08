@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum AI for Cryptographic Defense in DevSecOps: A Future-Ready Approach to Threat Mitigation](https://dev.to/indrajithbandara/quantum-ai-for-cryptographic-defense-in-devsecops-a-future-ready-approach-to-threat-mitigation-4le)
-- [ReductStore v1.12.0 released: record deletion API and storage engine optimization](https://dev.to/reductstore/reductstore-v1120-released-record-deletion-api-and-storage-engine-optimization-3blm)
-- [AI-Powered Ethical Hacking: Automating Penetration Testing in DevSecOps](https://dev.to/indrajithbandara/ai-powered-ethical-hacking-automating-penetration-testing-in-devsecops-5e42)
-- [10 NPM Packages for Productivity](https://dev.to/balrajola/10-npm-packages-for-productivity-1odb)
-- [JWT Authentication in React](https://dev.to/sivamani18/jwt-authentication-in-react-1lh9)
+- [Mastering Git Cherry-Pick: Advanced Guide with Real-World Examples](https://dev.to/314rate/mastering-git-cherry-pick-advanced-guide-with-real-world-examples-5bm3)
+- [Introducing GroupTrack: Simplified Location-Based Services for Flutter](https://dev.to/ishita__14cc5a0ee7a/introducing-grouptrack-simplified-location-based-services-for-flutter-3l9i)
+- [Analyzing Large E-commerce Data: My Journey into Data Science](https://dev.to/arnaud2911/analyzing-large-e-commerce-data-my-journey-into-data-science-1mbm)
+- [Weekly Dev Diary #1 — Crafting the Core Philosophy of Game Existence](https://dev.to/hana_park_eins/weekly-dev-diary-1-crafting-the-core-philosophy-of-game-existence-jg3)
+- [Automatio extension update, bug fixes, and SEO optimization- Weekly progress update #46](https://dev.to/shtefcs/automatio-extension-update-bug-fixes-and-seo-optimization-weekly-progress-update-46-ji9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
