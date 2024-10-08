@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Mastery: A Comprehensive Guide to Essential Git Practices](https://dev.to/labex/git-mastery-a-comprehensive-guide-to-essential-git-practices-36jp)
-- [The Death of a Junior Developer](https://dev.to/devmercy/the-death-of-a-junior-developer-p33)
-- [A Comprehensive Guide to Database Design and Management 🗂️](https://dev.to/getvm/a-comprehensive-guide-to-database-design-and-management-eji)
-- [Do You Really Need &quot;useState&quot; for Everything? Exploring Alternatives](https://dev.to/byte-sized-news/do-you-really-need-usestate-for-everything-exploring-alternatives-107a)
-- [Code Structure with Dapper and Dapper.Contrib](https://dev.to/luizdario/code-structure-with-dapper-and-dappercontrib-2ige)
+- [This New UI Framework Is an Absolute Game Changer 😲](https://dev.to/safdarali/this-new-ui-framework-is-an-absolute-game-changer-3oa7)
+- [Understanding Stack Data Structure: A Step-by-Step Guide to Implementing Stack in JavaScript](https://dev.to/emmanuelayinde/understanding-stack-data-structure-a-step-by-step-guide-to-implementing-stack-in-javascript-3f62)
+- [Project 1: Unit Testing](https://dev.to/paperdrago/project-1-unit-testing-403m)
+- [Issue 65 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-65-of-aws-cloud-security-weekly-1a7o)
+- [Building High-Performance Full-Stack Apps with React, Node.js &amp; MongoDB: A Journey in Scalability, Speed &amp; Solutions](https://dev.to/mukhilpadmanabhan/building-high-performance-full-stack-apps-with-react-nodejs-mongodb-a-journey-in-scalability-speed-solutions-3fk0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
