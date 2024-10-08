@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#68 — Search for Rows That Satisfy The Condition](https://dev.to/judith677/68-search-for-rows-that-satisfy-the-condition-33na)
-- [The Future of Software Engineering: How AI-Assisted Coding Tools Are Transforming Model-Driven Development](https://dev.to/adityabhuyan/the-future-of-software-engineering-how-ai-assisted-coding-tools-are-transforming-model-driven-development-3m2l)
-- [Vue Tip : Setup Store Pinia + Custom Pagination](https://dev.to/skipperhoa/vue-tip-setup-store-pinia-custom-pagination-1ok5)
-- [Unlock 200 Years of Computing Secrets: Babbage&#39;s Lost Machine](https://dev.to/emilyjohnsonready/unlock-200-years-of-computing-secrets-babbages-lost-machine-1ekd)
-- [System design: Design a parking lot system](https://dev.to/jayaprasanna_roddam/system-design-design-a-parking-lot-system-4194)
+- [Nuances in UX Design for the Indian Market](https://dev.to/iste-vit/nuances-in-ux-design-for-the-indian-market-25oh)
+- [The Role of Coding and AI Classes in Modern Schools](https://dev.to/growkon21/the-role-of-coding-and-ai-classes-in-modern-schools-4pag)
+- [HeadSpin Recognized as Appium&#39;s First “Development Partner”](https://dev.to/berthaw82414312/headspin-recognized-as-appiums-first-development-partner-k54)
+- [Router Management System](https://dev.to/babar_ali/router-management-system-ceg)
+- [Everything You Need to Know About Salesforce Integration Testing](https://dev.to/misterankit/everything-you-need-to-know-about-salesforce-integration-testing-hpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
