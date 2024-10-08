@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Rapyd API Signatures](https://dev.to/rapyd/understanding-rapyd-api-signatures-5adk)
-- [Showcasing ReverUI 💻&lt; 3kb React Alternative](https://dev.to/piterweb/showcasing-reverui-3kb-react-alternative-1d3j)
-- [Tailwind CSS and Dark Mode](https://dev.to/ridoy_hasan/tailwind-css-and-dark-mode-l51)
-- [Artificial Intelligence &lpar;AI&rpar; and Machine Learning &lpar;ML&rpar;: Revolutionizing Industries 🌍🤖](https://dev.to/info_generalhazedawn_a3d/artificial-intelligence-ai-and-machine-learning-ml-revolutionizing-industries-24dm)
-- [QA vs QC: Understanding the difference in the context of software development](https://dev.to/suely_buque/qa-vs-qc-understanding-the-difference-in-the-context-of-software-development-18e2)
+- [10 NPM Packages for Productivity](https://dev.to/balrajola/10-npm-packages-for-productivity-1odb)
+- [HealthChecks](https://dev.to/ben-witt/healthchecks-4aie)
+- [Master JavaScript Promises: 10 Tricky Output Questions Every Developer Must Know! &lpar;Part 1&rpar;](https://dev.to/hitheshkumar/master-javascript-promises-10-tricky-output-questions-every-developer-must-know-part-1-1l43)
+- [👾 Tracking CI Metrics for Better Workflow Performance](https://dev.to/cicube/tracking-ci-metrics-for-better-workflow-performance-4ml9)
+- [Python 101: Introduction to Python as a Data Analytics Tool](https://dev.to/ochi3ng/python-101-introduction-to-python-as-a-data-analytics-tool-4hfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
