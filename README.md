@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Developers Shouldn&#39;t Overlook Roblox Scripting](https://dev.to/johnny_04/why-developers-shouldnt-overlook-roblox-scripting-4m6b)
-- [Sequence in SQL | PART 2](https://dev.to/mrcaption49/sequence-in-sql-part-2-1an8)
-- [sequence in SQL | PART 1](https://dev.to/mrcaption49/sequence-in-sql-part-1-53)
-- [Starting My DevOps Journey: Week 1 - Linux Fundamentals 🚀](https://dev.to/absurd_sapien/starting-my-devops-journey-week-1-linux-fundamentals-5b8g)
-- [A Fast Resume Why You Should Learn About Design Patterns](https://dev.to/vitorbrangioni/a-fast-resume-why-you-should-learn-about-design-patterns-14bk)
+- [Hacktoberfest! - Week 1](https://dev.to/theoforger/hacktoberfest-week-1-2c13)
+- [How to get a thread dump of running Java process](https://dev.to/filipemesquita/how-to-get-a-thread-dump-of-running-java-process-588p)
+- [TBD x Hacktoberfest](https://dev.to/tbdevs/tbd-x-hacktoberfest-34c0)
+- [Why .NET for Cloud Native Development? Exploring .NET 8 &amp; .NET Aspire ☁️](https://dev.to/clickit_devops/why-net-for-cloud-native-development-exploring-net-8-net-aspire-42je)
+- [Reatc.js : Keeping Components Pure](https://dev.to/sonaykara/reatcjs-keeping-components-pure-551j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
