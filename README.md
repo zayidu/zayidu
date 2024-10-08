@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple Python-Based Firewall for Home Networks](https://dev.to/trixsec/building-a-simple-python-based-firewall-for-home-networks-5d93)
-- [LoRA and QLoRA: Simple Fine-Tuning Techniques Explained](https://dev.to/fotiecodes/lora-and-qlora-simple-fine-tuning-techniques-explained-1452)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1k1m)
-- [How I structure my Angular components with Signals](https://dev.to/this-is-angular/how-i-structure-my-angular-components-with-signals-52lj)
-- [What Organizations Forget When Automating Enterprise Application Testing](https://dev.to/johnste39558689/what-organizations-forget-when-automating-enterprise-application-testing-37g8)
+- [Apache Virtual Host: Adding reverse proxy](https://dev.to/xxzeroxx/apache-virtual-host-adding-reverse-proxy-k7)
+- [Storing and retrieving JavaScript objects in localStorage](https://dev.to/logrocket/storing-and-retrieving-javascript-objects-in-localstorage-157j)
+- [If you think you know Javascript , try these🙄](https://dev.to/keshav___dev/if-you-think-you-know-javascript-try-these-1oj4)
+- [React Redux | PART 1](https://dev.to/mrcaption49/react-redux-part-1-4ol1)
+- [JUnit vs TestNG: A Comprehensive Comparison](https://dev.to/keploy/junit-vs-testng-a-comprehensive-comparison-46lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
