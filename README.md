@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy Hacking: My First Hacktoberfest Pull Request 🎉](https://dev.to/fadingna/happy-hacking-my-first-hacktoberfest-pull-request-1lba)
-- [TutorMundi: How Meteor.js Powers One of Latin America&#39;s Leading EdTech Platforms](https://dev.to/meteor/tutormundi-how-meteorjs-powers-one-of-latin-americas-leading-edtech-platforms-2567)
-- [&quot;What Every Programmer Should Know About Memory&quot; by Ulrich Drepper.](https://dev.to/dmitry-koleev/what-every-programmer-should-know-about-memory-by-ulrich-drepper-2poe)
-- [LabEx Trending: Creating a Simple Docker Container in C++ and More](https://dev.to/labex/labex-trending-creating-a-simple-docker-container-in-c-and-more-bjo)
-- [Unraveling Systems Requirements: A Deep Dive into Vaijinath Saker&#39;s SRD Design Skills](https://dev.to/mariliatirachi62/unraveling-systems-requirements-a-deep-dive-into-vaijinath-sakers-srd-design-skills-d3f)
+- [Build &amp; Deploy a Serverless OpenAI App in 9 Lines of Code](https://dev.to/dbos/build-deploy-a-serverless-openai-app-in-9-lines-of-code-po1)
+- [The Art of Full Stack Debugging](https://dev.to/codenameone/the-art-of-full-stack-debugging-3oba)
+- [Time Data Series: The Rest of the Story](https://dev.to/adatole/time-data-series-the-rest-of-the-story-555h)
+- [Creating a Docker Swarm Cluster on AWS EC2 : AWS Project](https://dev.to/shubham_murti/creating-a-docker-swarm-cluster-on-aws-ec2-aws-project-3g5h)
+- [CountVectorizer vs TfidfVectorizer](https://dev.to/aashwinkumar/countvectorizer-vs-tfidfvectorizer-1kck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
