@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Git Cherry-Pick: Advanced Guide with Real-World Examples](https://dev.to/314rate/mastering-git-cherry-pick-advanced-guide-with-real-world-examples-5bm3)
-- [Introducing GroupTrack: Simplified Location-Based Services for Flutter](https://dev.to/ishita__14cc5a0ee7a/introducing-grouptrack-simplified-location-based-services-for-flutter-3l9i)
-- [Analyzing Large E-commerce Data: My Journey into Data Science](https://dev.to/arnaud2911/analyzing-large-e-commerce-data-my-journey-into-data-science-1mbm)
-- [Weekly Dev Diary #1 — Crafting the Core Philosophy of Game Existence](https://dev.to/hana_park_eins/weekly-dev-diary-1-crafting-the-core-philosophy-of-game-existence-jg3)
-- [Automatio extension update, bug fixes, and SEO optimization- Weekly progress update #46](https://dev.to/shtefcs/automatio-extension-update-bug-fixes-and-seo-optimization-weekly-progress-update-46-ji9)
+- [Dash: An Intriguing Framework, to Say the Least](https://dev.to/igor1740/dash-an-intriguing-framework-to-say-the-least-31l6)
+- [Python 101: Introduction to Python as a Data Analytics Tool](https://dev.to/clement_mwai/python-101-introduction-to-python-as-a-data-analytics-tool-nef)
+- [What is Input Validation in Web Development](https://dev.to/carrie_luo1/what-is-input-validation-in-web-development-5b8l)
+- [Offload - A unified javascript SDK that enables in-browser AI](https://dev.to/miguelaeh/offload-a-unified-javascript-sdk-that-enables-in-browser-ai-2aii)
+- [Building a Docker-based Monitoring System with Prometheus and Grafana](https://dev.to/yagyandatta/building-a-docker-based-monitoring-system-with-prometheus-and-grafana-30c0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
