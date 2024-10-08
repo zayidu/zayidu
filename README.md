@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nuances in UX Design for the Indian Market](https://dev.to/iste-vit/nuances-in-ux-design-for-the-indian-market-25oh)
-- [The Role of Coding and AI Classes in Modern Schools](https://dev.to/growkon21/the-role-of-coding-and-ai-classes-in-modern-schools-4pag)
-- [HeadSpin Recognized as Appium&#39;s First “Development Partner”](https://dev.to/berthaw82414312/headspin-recognized-as-appiums-first-development-partner-k54)
-- [Router Management System](https://dev.to/babar_ali/router-management-system-ceg)
-- [Everything You Need to Know About Salesforce Integration Testing](https://dev.to/misterankit/everything-you-need-to-know-about-salesforce-integration-testing-hpm)
+- [Check Each Line of a CSV File and Output Specific Information according to Certain Requirements #53](https://dev.to/esproc_spl/check-each-line-of-a-csv-file-and-output-specific-information-according-to-certain-requirements-53-479n)
+- [Creating a Virtual Environment &lpar;venv&rpar; in Python](https://dev.to/devmoreir4/creating-a-virtual-environment-venv-in-python-d6)
+- [Hacktoberfest: First contribution is ok! 🎉](https://dev.to/this-is-learning/hacktoberfest-first-contribution-is-ok-2pdj)
+- [🚀 Excited to Join the Community!](https://dev.to/codewithswatiee/excited-to-join-the-community-4agi)
+- [GiF Maker HTML CSS Js](https://dev.to/babar_ali/gif-maker-html-css-js-3dd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
