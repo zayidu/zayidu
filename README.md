@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Virtual Host: Adding reverse proxy](https://dev.to/xxzeroxx/apache-virtual-host-adding-reverse-proxy-k7)
-- [Storing and retrieving JavaScript objects in localStorage](https://dev.to/logrocket/storing-and-retrieving-javascript-objects-in-localstorage-157j)
-- [If you think you know Javascript , try these🙄](https://dev.to/keshav___dev/if-you-think-you-know-javascript-try-these-1oj4)
-- [React Redux | PART 1](https://dev.to/mrcaption49/react-redux-part-1-4ol1)
-- [JUnit vs TestNG: A Comprehensive Comparison](https://dev.to/keploy/junit-vs-testng-a-comprehensive-comparison-46lk)
+- [Happy Hacking: My First Hacktoberfest Pull Request 🎉](https://dev.to/fadingna/happy-hacking-my-first-hacktoberfest-pull-request-1lba)
+- [TutorMundi: How Meteor.js Powers One of Latin America&#39;s Leading EdTech Platforms](https://dev.to/meteor/tutormundi-how-meteorjs-powers-one-of-latin-americas-leading-edtech-platforms-2567)
+- [&quot;What Every Programmer Should Know About Memory&quot; by Ulrich Drepper.](https://dev.to/dmitry-koleev/what-every-programmer-should-know-about-memory-by-ulrich-drepper-2poe)
+- [LabEx Trending: Creating a Simple Docker Container in C++ and More](https://dev.to/labex/labex-trending-creating-a-simple-docker-container-in-c-and-more-bjo)
+- [Unraveling Systems Requirements: A Deep Dive into Vaijinath Saker&#39;s SRD Design Skills](https://dev.to/mariliatirachi62/unraveling-systems-requirements-a-deep-dive-into-vaijinath-sakers-srd-design-skills-d3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
