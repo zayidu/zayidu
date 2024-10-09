@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use SuperTokens in a VueJS app with your own UI](https://dev.to/koha/how-to-use-supertokens-in-a-vuejs-app-with-your-own-ui-l2k)
-- [Concurrency Issues in SQL and Distributed Systems](https://dev.to/metis/concurrency-issues-in-sql-and-distributed-systems-58c2)
-- [Learn Python for Machine Learning: Concepts, Tools, and Projects](https://dev.to/imyusufakhtar/learn-python-for-machine-learning-concepts-tools-and-projects-24j5)
-- [Comparing Live Market Data APIs: Which One is Right for Your Project?](https://dev.to/williamsmithh/comparing-live-market-data-apis-which-one-is-right-for-your-project-4f71)
-- [If you&#39;re a front-end developer, you should at least know how to handle page transitions, right? Can&#39;t do it? 😱](https://dev.to/moondaeseung/if-youre-a-front-end-developer-you-should-at-least-know-how-to-handle-page-transitions-right-cant-do-it-51h4)
+- [How to create a custom table component with React and Typescript &lpar;Part 2&rpar;](https://dev.to/igbominadeveloper/how-to-create-a-custom-table-component-with-react-and-typescript-part-2-1hde)
+- [Convert camelToCase to snake_case in JavaScript](https://dev.to/dindustack/convert-cameltocase-to-snakecase-in-javascript-4fnd)
+- [Real-Time Chat Application with React and Pinata for Effortless Messaging and File Sharing](https://dev.to/binary_codes/real-time-chat-application-with-react-and-pinata-for-effortless-messaging-and-file-sharing-1ji6)
+- [How to Develop an App Like Citi Mobile: A Complete Guide](https://dev.to/xavier_martinez_a0f958104/how-to-develop-an-app-like-citi-mobile-a-complete-guide-2b14)
+- [Key Python Terminologies for Beginners](https://dev.to/saurabhkurve/key-python-terminologies-for-beginners-5anm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
