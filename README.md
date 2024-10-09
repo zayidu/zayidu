@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Observability hacks to unlock peak app performance l Part 1](https://dev.to/platformsh/observability-hacks-to-unlock-peak-app-performance-l-part-1-1fic)
-- [JetBrains RustRover Lite](https://dev.to/tekk_x/jetbrains-rustrover-lite-49hm)
-- [SafeLine WAF: Step-by-Step Guide to Secure Your Web Environment](https://dev.to/aeriewhole123/safeline-waf-step-by-step-guide-to-secure-your-web-environment-5h41)
-- [Different Types of Software Testing](https://dev.to/nazneenahmd/different-types-of-software-testing-10n2)
-- [Push to production on Fridays](https://dev.to/idanen/push-to-production-on-fridays-5e9g)
+- [A Comprehensive Guide to Custom WordPress Development](https://dev.to/softwebsolution/a-comprehensive-guide-to-custom-wordpress-development-dci)
+- [AMB](https://dev.to/babar_ali/amb-1mel)
+- [How to register a virtual WhatsApp number](https://dev.to/whapicloud/how-to-register-a-virtual-whatsapp-number-5fp1)
+- [🚀 Hyperswitch Plugin Development Hackathon: Build, Compete, and Win Big! 🚀](https://dev.to/hyperswitchio/hyperswitch-plugin-development-hackathon-build-compete-and-win-big-nnb)
+- [Advanced Data Management with Apica: A Technical Guide](https://dev.to/apicaascent/advanced-data-management-with-apica-a-technical-guide-1dne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
