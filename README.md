@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Concepts for JavaScript Developers](https://dev.to/shafayeat/essential-concepts-for-javascript-developers-5eo)
-- [What is Cloud Computing?](https://dev.to/adeolaogunkola/what-is-cloud-computing-pj4)
-- [Contribute to Akello: Learn and Build with Cutting-Edge Tech](https://dev.to/vselvarajijay/contribute-to-akello-learn-and-build-with-cutting-edge-tech-3k73)
-- [Contribute to Akello: Simplifying Data Integration for Healthcare](https://dev.to/vselvarajijay/contribute-to-akello-simplifying-data-integration-for-healthcare-51h6)
-- [Nomad Image Factory - Intro](https://dev.to/lykins/nomad-image-factory-intro-eeo)
+- [Ibuprofeno.py💊| #190: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-190-explica-este-codigo-python-1963)
+- [Welcome Thread - v297](https://dev.to/devteam/welcome-thread-v297-22mc)
+- [Your First Hello World! with HTML](https://dev.to/shif/your-first-hello-world-with-html-2cel)
+- [Mastering Spring Security: A Comedy of Errors &lpar;and Authentication&rpar;](https://dev.to/wittedtech-by-harshit/mastering-spring-security-a-comedy-of-errors-and-authentication-46pe)
+- [Refactoring code and Git history!](https://dev.to/aamfahim/refactoring-code-and-git-history-46cl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
