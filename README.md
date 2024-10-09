@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Responsive Grid Layout with Tailwind CSS](https://dev.to/ridoy_hasan/building-a-responsive-grid-layout-with-tailwind-css-3ocb)
-- [How to Deploy an AI App &lpar;w/ Large Deps&rpar; to AWS Lambda](https://dev.to/qianl15/how-to-deploy-an-ai-app-w-large-deps-to-aws-lambda-1d51)
-- [What is Three-Tier Data &lpar;Bronze, Silver, Gold&rpar; and How Dremio Simplifies It](https://dev.to/alexmercedcoder/what-is-three-tier-data-bronze-silver-gold-and-how-dremio-simplifies-it-4k2f)
-- [Mastering the craft: Top UI/UX Design Tools for 2024](https://dev.to/kalak_khadayat/mastering-the-craft-top-uiux-design-tools-for-2024-4gh9)
-- [Cyber Security Labs: Explore the Digital Realm with Nmap, Wireshark, and More](https://dev.to/labex/cyber-security-labs-explore-the-digital-realm-with-nmap-wireshark-and-more-2fn9)
+- [Griptape: OSS Platform for Building AI Apps](https://dev.to/griptape/griptape-oss-platform-for-building-ai-apps-28ca)
+- [Beginner&#39;s Guide: Reducing Boilerplate in Angular When Performing Asynchronous Tasks with TaskStatusNotifierService](https://dev.to/rensjaspers/beginners-guide-reducing-boilerplate-in-angular-when-performing-asynchronous-tasks-with-taskstatusnotifierservice-1i8p)
+- [Part 1 — EC2 Uncovered: Your First Step into AWS Cloud Mastery](https://dev.to/mukhilpadmanabhan/part-1-ec2-uncovered-your-first-step-into-aws-cloud-mastery-c0j)
+- [Las herramientas imprescindibles para desarrolladores Full Stack en 2024](https://dev.to/adriangrahldev/las-herramientas-imprescindibles-para-desarrolladores-full-stack-en-2024-146g)
+- [Optimize Cloud Migration with Kubernetes](https://dev.to/craftworkai/optimize-cloud-migration-with-kubernetes-2kmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
