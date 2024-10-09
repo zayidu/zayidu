@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitmap Index in ORACLE SQL](https://dev.to/mrcaption49/bitmap-index-in-oracle-sql-4g4h)
-- [How to Handle Dialog Pop-Ups While User is Typing?](https://dev.to/tanmayagrawal/how-to-handle-dialog-pop-ups-while-user-is-typing-36l6)
-- [Best Practices for Mapping in Spring Boot](https://dev.to/mohamed_amine_78123694764/best-practices-for-mapping-in-spring-boot-47l4)
-- [Python Lists Explained: A Beginner&#39;s Guide with Examples](https://dev.to/imyusufakhtar/python-lists-explained-a-beginners-guide-with-examples-ma1)
-- [WebSockets and Socket.IO: Real-Time Communication with Node.js](https://dev.to/imsushant12/websockets-and-socketio-real-time-communication-with-nodejs-2j5f)
+- [Demystifying how containers work](https://dev.to/brunociccarino/demystifying-how-containers-work-2nkl)
+- [🚀 Elon Musk, Windows vs Linux, and His PayPal Firing 💻🛑](https://dev.to/francotel/elon-musk-windows-vs-linux-and-his-paypal-firing-56jn)
+- [My Hacktoberfest 2024 Journey](https://dev.to/kiran_baliga/my-hacktoberfest-2024-journey-2odn)
+- [async / await](https://dev.to/wolfmath/async-await-13bn)
+- [🐧 Linux Command Line Basics: A Comprehensive Guide to Essential Commands, File Operations, and System Navigation](https://dev.to/ibeh_joseph_003000c1fc029/linux-command-line-basics-a-comprehensive-guide-to-essential-commands-file-operations-and-system-navigation-1l33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
