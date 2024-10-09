@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Griptape: OSS Platform for Building AI Apps](https://dev.to/griptape/griptape-oss-platform-for-building-ai-apps-28ca)
-- [Beginner&#39;s Guide: Reducing Boilerplate in Angular When Performing Asynchronous Tasks with TaskStatusNotifierService](https://dev.to/rensjaspers/beginners-guide-reducing-boilerplate-in-angular-when-performing-asynchronous-tasks-with-taskstatusnotifierservice-1i8p)
-- [Part 1 — EC2 Uncovered: Your First Step into AWS Cloud Mastery](https://dev.to/mukhilpadmanabhan/part-1-ec2-uncovered-your-first-step-into-aws-cloud-mastery-c0j)
-- [Las herramientas imprescindibles para desarrolladores Full Stack en 2024](https://dev.to/adriangrahldev/las-herramientas-imprescindibles-para-desarrolladores-full-stack-en-2024-146g)
-- [Optimize Cloud Migration with Kubernetes](https://dev.to/craftworkai/optimize-cloud-migration-with-kubernetes-2kmg)
+- [Migrating Playbooks to Ansible Roles](https://dev.to/suraj_p_7aaf258e240f13af9/migrating-playbooks-to-ansible-roles-524f)
+- [Best Incident Management Software Tools For B2B, SaaS, and Startups In 2024](https://dev.to/statuspal/best-incident-management-software-tools-for-b2b-saas-and-startups-in-2024-239h)
+- [DefaultMap class in TailwindCSS source code.](https://dev.to/thinkthroo/defaultmap-class-in-tailwindcss-source-code-2ohl)
+- [Using AWS CloudHSM for FIPS 140-2 Validated Key Storage in Financial Services](https://dev.to/ikoh_sylva/using-aws-cloudhsm-for-fips-140-2-validated-key-storage-in-financial-services-4ck3)
+- [Angular Fundamentals :Understanding the Anatomy of an Angular Application](https://dev.to/moh_moh701/angular-fundamentals-understanding-the-anatomy-of-an-angular-application-5epg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
