@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using GraphQL Subscriptions for Real-Time Data](https://dev.to/kartikmehta8/using-graphql-subscriptions-for-real-time-data-2gak)
-- [Leading Open Source Innovation, My Hacktoberfest 2024 Journey with AI and DevOps](https://dev.to/shafayeat/leading-open-source-innovation-my-hacktoberfest-2024-journey-with-ai-and-devops-k4d)
-- [Introduction to Arrays in Java](https://dev.to/bhaweshchaudhary/introduction-to-arrays-in-java-17gg)
-- [Gestor de Iniciativas Ecológicas: Django Rest Framework &lpar;Parte 5&rpar;](https://dev.to/villacisg93/gestor-de-iniciativas-ecologicas-django-rest-framework-parte-5-1p13)
-- [Refactoring ReadmeGenie](https://dev.to/htsagara/refactoring-readmegenie-4816)
+- [DSA: Greedy algorithms - interview preparation questions](https://dev.to/jayaprasanna_roddam/dsa-greedy-algorithms-interview-preparation-questions-3mi3)
+- [DSA: Heap - interview preparation questions](https://dev.to/jayaprasanna_roddam/dsa-heap-interview-preparation-questions-4l4f)
+- [TanStack Query: Angular/React differences](https://dev.to/jyjor/tanstack-query-angularreact-differences-306g)
+- [DSA: Backtracking - interview preparation questions](https://dev.to/jayaprasanna_roddam/dsa-backtracking-interview-preparation-questions-24p9)
+- [Getting the record containing the minimum value of a specified field #eg54](https://dev.to/esproc_spl/getting-the-record-containing-the-minimum-value-of-a-specified-field-eg54-lea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
