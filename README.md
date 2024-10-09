@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying how containers work](https://dev.to/brunociccarino/demystifying-how-containers-work-2nkl)
-- [🚀 Elon Musk, Windows vs Linux, and His PayPal Firing 💻🛑](https://dev.to/francotel/elon-musk-windows-vs-linux-and-his-paypal-firing-56jn)
-- [My Hacktoberfest 2024 Journey](https://dev.to/kiran_baliga/my-hacktoberfest-2024-journey-2odn)
-- [async / await](https://dev.to/wolfmath/async-await-13bn)
-- [🐧 Linux Command Line Basics: A Comprehensive Guide to Essential Commands, File Operations, and System Navigation](https://dev.to/ibeh_joseph_003000c1fc029/linux-command-line-basics-a-comprehensive-guide-to-essential-commands-file-operations-and-system-navigation-1l33)
+- [Building a Responsive Grid Layout with Tailwind CSS](https://dev.to/ridoy_hasan/building-a-responsive-grid-layout-with-tailwind-css-3ocb)
+- [How to Deploy an AI App &lpar;w/ Large Deps&rpar; to AWS Lambda](https://dev.to/qianl15/how-to-deploy-an-ai-app-w-large-deps-to-aws-lambda-1d51)
+- [What is Three-Tier Data &lpar;Bronze, Silver, Gold&rpar; and How Dremio Simplifies It](https://dev.to/alexmercedcoder/what-is-three-tier-data-bronze-silver-gold-and-how-dremio-simplifies-it-4k2f)
+- [Mastering the craft: Top UI/UX Design Tools for 2024](https://dev.to/kalak_khadayat/mastering-the-craft-top-uiux-design-tools-for-2024-4gh9)
+- [Cyber Security Labs: Explore the Digital Realm with Nmap, Wireshark, and More](https://dev.to/labex/cyber-security-labs-explore-the-digital-realm-with-nmap-wireshark-and-more-2fn9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
