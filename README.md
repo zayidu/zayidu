@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [[PT_BR] Repositório Genérico com Dapper.Contrib](https://dev.to/luizdario/ptbr-repositorio-generico-com-dappercontrib-1c92)
+- [Code Structure with Dapper and Dapper.Contrib](https://dev.to/luizdario/code-structure-with-dapper-and-dappercontrib-20g2)
+- [921. Minimum Add to Make Parentheses Valid](https://dev.to/mdarifulhaque/921-minimum-add-to-make-parentheses-valid-14jk)
 - [7 Productivity tools that I can&#39;t live without &lpar;5+ Bonus&rpar;](https://dev.to/thenomadevel/7-productivity-tools-that-i-cant-live-without-5-bonus-4p)
 - [Learn How Jim Made a Mess With the Pieces Confetti Cannon](https://dev.to/get_pieces/learn-how-jim-made-a-mess-with-the-pieces-confetti-cannon-17gp)
-- [Angular Fundamentals :Creating Your First Angular Project](https://dev.to/moh_moh701/angular-fundamentals-creating-your-first-angular-project-4b7i)
-- [09.10.24](https://dev.to/vorobey41/091024-3oh0)
-- [🚀 Leadership vs. Community Autonomy? 🚀](https://dev.to/madzimai/leadership-vs-community-autonomy-2ji3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
