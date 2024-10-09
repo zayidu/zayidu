@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a custom table component with React and Typescript &lpar;Part 2&rpar;](https://dev.to/igbominadeveloper/how-to-create-a-custom-table-component-with-react-and-typescript-part-2-1hde)
-- [Convert camelToCase to snake_case in JavaScript](https://dev.to/dindustack/convert-cameltocase-to-snakecase-in-javascript-4fnd)
-- [Real-Time Chat Application with React and Pinata for Effortless Messaging and File Sharing](https://dev.to/binary_codes/real-time-chat-application-with-react-and-pinata-for-effortless-messaging-and-file-sharing-1ji6)
-- [How to Develop an App Like Citi Mobile: A Complete Guide](https://dev.to/xavier_martinez_a0f958104/how-to-develop-an-app-like-citi-mobile-a-complete-guide-2b14)
-- [Key Python Terminologies for Beginners](https://dev.to/saurabhkurve/key-python-terminologies-for-beginners-5anm)
+- [Observability hacks to unlock peak app performance l Part 1](https://dev.to/platformsh/observability-hacks-to-unlock-peak-app-performance-l-part-1-1fic)
+- [JetBrains RustRover Lite](https://dev.to/tekk_x/jetbrains-rustrover-lite-49hm)
+- [SafeLine WAF: Step-by-Step Guide to Secure Your Web Environment](https://dev.to/aeriewhole123/safeline-waf-step-by-step-guide-to-secure-your-web-environment-5h41)
+- [Different Types of Software Testing](https://dev.to/nazneenahmd/different-types-of-software-testing-10n2)
+- [Push to production on Fridays](https://dev.to/idanen/push-to-production-on-fridays-5e9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
