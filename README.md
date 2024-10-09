@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Custom WordPress Development](https://dev.to/softwebsolution/a-comprehensive-guide-to-custom-wordpress-development-dci)
-- [AMB](https://dev.to/babar_ali/amb-1mel)
-- [How to register a virtual WhatsApp number](https://dev.to/whapicloud/how-to-register-a-virtual-whatsapp-number-5fp1)
-- [🚀 Hyperswitch Plugin Development Hackathon: Build, Compete, and Win Big! 🚀](https://dev.to/hyperswitchio/hyperswitch-plugin-development-hackathon-build-compete-and-win-big-nnb)
-- [Advanced Data Management with Apica: A Technical Guide](https://dev.to/apicaascent/advanced-data-management-with-apica-a-technical-guide-1dne)
+- [How to Flirt with a Developer: Learn to Debug Your Love Life](https://dev.to/ssukhpinder/how-to-flirt-with-a-developer-learn-to-debug-your-love-life-1b6d)
+- [Generating the API Endpoints of Your Smart Contract using the Kalp API Gateway](https://dev.to/kalpstudio/generating-the-api-endpoints-of-your-smart-contract-using-the-kalp-api-gateway-2bia)
+- [C# Design Pattern: Iterator &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-iterator-portugues-9cf)
+- [Dive into Next.js Server Actions: Simplifying Data Fetching &amp; Mutations](https://dev.to/nik-bogachenkov/dive-into-nextjs-server-actions-simplifying-data-fetching-mutations-2i7l)
+- [C# Design Pattern: Iterator](https://dev.to/juarezasjunior/c-design-pattern-iterator-5cgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
