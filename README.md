@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API Authentication with Open ID Connect](https://dev.to/hawkinswinja/api-authentication-with-open-id-connect-32hc)
-- [Tackling Complexity: Practical Principles for Scaling Frontend Applications](https://dev.to/_itsglover/tackling-complexity-practical-principles-for-scaling-frontend-applications-3949)
-- [Must-have Features of Apps Like GoChat Messenger](https://dev.to/stephen568hub/must-have-features-of-apps-like-gochat-messenger-c7p)
-- [Project 1 - Unit Testing](https://dev.to/aqeelakbari/project-1-unit-testing-3ek8)
-- [“Effortless Console Management: Unleash the Power of console-drop-logs”](https://dev.to/ritesh22201/effortless-console-management-unleash-the-power-of-console-drop-logs-38a6)
+- [Turbopack vs Webpack: Has Webpack’s Creator Built Its Own Replacement?](https://dev.to/charliesay/turbopack-vs-webpack-has-webpacks-creator-built-its-own-replacement-al4)
+- [Quick Byte: A very specific error in React Native iOS](https://dev.to/bytehala/quick-byte-a-very-specific-error-in-react-native-ios-2i58)
+- [Trigger Lambda Function From Amazon SQS - &lpar;Let&#39;s Build 🏗️ Series&rpar;](https://dev.to/aws-heroes/trigger-lambda-function-from-amazon-sqs-lets-build-series-5h1k)
+- [Understanding Queues Data Structure: Mastering FIFO Principle in JavaScript](https://dev.to/emmanuelayinde/understanding-queues-data-structure-mastering-fifo-principle-in-javascript-8di)
+- [Build an AI Discord Bot in Rust with Rig: A Step-by-Step Guide](https://dev.to/0thtachi/build-an-ai-discord-bot-in-rust-with-rig-a-step-by-step-guide-5d0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
