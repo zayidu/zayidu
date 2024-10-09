@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Letter to my team: Fighting software decay](https://dev.to/caeus/letter-to-my-team-fighting-software-decay-pn0)
-- [Five popular NPM packages that can boost your productivity | Nodejs](https://dev.to/mrcaption49/five-popular-npm-packages-that-can-boost-your-productivity-nodejs-2b23)
-- [Building A Weather Station with a Raspberry Pi and Python - Part One](https://dev.to/dev_neil_a/build-a-weather-station-with-a-raspberry-pi-and-python-part-one-1p92)
-- [Personal Finance Management App with Django, HTMX, Alpine, Tailwind and Plaid](https://dev.to/earthcomfy/personal-finance-management-app-with-django-htmx-alpine-tailwind-and-plaid-2bl0)
-- [Ağ Keşif Eklentisinin Kullanımı ve Kavramlar](https://dev.to/aciklab/ag-kesif-eklentisinin-kullanimi-ve-kavramlar-3a66)
+- [Bitmap Index in ORACLE SQL](https://dev.to/mrcaption49/bitmap-index-in-oracle-sql-4g4h)
+- [How to Handle Dialog Pop-Ups While User is Typing?](https://dev.to/tanmayagrawal/how-to-handle-dialog-pop-ups-while-user-is-typing-36l6)
+- [Best Practices for Mapping in Spring Boot](https://dev.to/mohamed_amine_78123694764/best-practices-for-mapping-in-spring-boot-47l4)
+- [Python Lists Explained: A Beginner&#39;s Guide with Examples](https://dev.to/imyusufakhtar/python-lists-explained-a-beginners-guide-with-examples-ma1)
+- [WebSockets and Socket.IO: Real-Time Communication with Node.js](https://dev.to/imsushant12/websockets-and-socketio-real-time-communication-with-nodejs-2j5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
