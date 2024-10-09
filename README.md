@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Flirt with a Developer: Learn to Debug Your Love Life](https://dev.to/ssukhpinder/how-to-flirt-with-a-developer-learn-to-debug-your-love-life-1b6d)
-- [Generating the API Endpoints of Your Smart Contract using the Kalp API Gateway](https://dev.to/kalpstudio/generating-the-api-endpoints-of-your-smart-contract-using-the-kalp-api-gateway-2bia)
-- [C# Design Pattern: Iterator &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-iterator-portugues-9cf)
-- [Dive into Next.js Server Actions: Simplifying Data Fetching &amp; Mutations](https://dev.to/nik-bogachenkov/dive-into-nextjs-server-actions-simplifying-data-fetching-mutations-2i7l)
-- [C# Design Pattern: Iterator](https://dev.to/juarezasjunior/c-design-pattern-iterator-5cgi)
+- [Como ter uma conversa Técnica com pessoas Não Técnicas?](https://dev.to/andressasantos/como-ter-uma-conversa-tecnica-com-pessoas-nao-tecnicas-3h5k)
+- [🌟 Golden Ratio CSS + Accessible Modals &lpar;Plus, UX in AI!&rpar;](https://dev.to/adam/golden-ratio-css-accessible-modals-plus-ux-in-ai-4m9k)
+- [React Basics~styling component/ css_ in _ js](https://dev.to/kkr0423/react-basicsstyling-component-css-in-js-5ejj)
+- [10 Dicas Basicas de Arquitetura de Código : 5 - Cuidado com integrações](https://dev.to/tbertuzzi/10-dicas-basicas-de-arquitetura-de-codigo-5-cuidado-com-integracoes-5237)
+- [Building Tetris using WebSocket and Svelte Stores](https://dev.to/ascarbek/building-tetris-using-websocket-and-svelte-stores-3ck0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
