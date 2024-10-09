@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GenAI Infrastructure: Hyperpod, entrenando modelos en K8s](https://dev.to/iaasgeek/genai-infrastructure-hyperpod-entrenando-modelos-en-k8s-360d)
-- [How to create a parallel echo server using goroutines in SPVM?](https://dev.to/yukikimoto/how-to-create-a-parallel-echo-server-using-goroutines-in-spvm-4e7p)
-- [What Is Packet Sniffing?](https://dev.to/s3cloudhub/what-is-packet-sniffing-1d75)
-- [Going Serverless with AWS Lambda: My Journey to Scalable Web Apps](https://dev.to/mukhilpadmanabhan/going-serverless-with-aws-lambda-my-journey-to-scalable-web-apps-22o)
-- [Ransomware Explained: How It Works and Best Defense Mechanisms to Protect Your Data](https://dev.to/adityabhuyan/ransomware-explained-how-it-works-and-best-defense-mechanisms-to-protect-your-data-6li)
+- [Create an E-commerce Dashboard In 3 Steps](https://dev.to/domfive/create-an-e-commerce-dashboard-in-3-steps-21o4)
+- [WebCodec - Sending and Receiving](https://dev.to/ethand91/webcodec-sending-and-receiving-47m0)
+- [How to Automate Social Media Posting with Python](https://dev.to/trixsec/how-to-automate-social-media-posting-with-python-ag1)
+- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-50o1)
+- [How To Push Eclipse Project To GitHub](https://dev.to/s3cloudhub/how-to-push-eclipse-project-to-github-3nkc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
