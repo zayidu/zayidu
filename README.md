@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DSA: Greedy algorithms - interview preparation questions](https://dev.to/jayaprasanna_roddam/dsa-greedy-algorithms-interview-preparation-questions-3mi3)
-- [DSA: Heap - interview preparation questions](https://dev.to/jayaprasanna_roddam/dsa-heap-interview-preparation-questions-4l4f)
-- [TanStack Query: Angular/React differences](https://dev.to/jyjor/tanstack-query-angularreact-differences-306g)
-- [DSA: Backtracking - interview preparation questions](https://dev.to/jayaprasanna_roddam/dsa-backtracking-interview-preparation-questions-24p9)
-- [Getting the record containing the minimum value of a specified field #eg54](https://dev.to/esproc_spl/getting-the-record-containing-the-minimum-value-of-a-specified-field-eg54-lea)
+- [Essential Concepts for JavaScript Developers](https://dev.to/shafayeat/essential-concepts-for-javascript-developers-5eo)
+- [What is Cloud Computing?](https://dev.to/adeolaogunkola/what-is-cloud-computing-pj4)
+- [Contribute to Akello: Learn and Build with Cutting-Edge Tech](https://dev.to/vselvarajijay/contribute-to-akello-learn-and-build-with-cutting-edge-tech-3k73)
+- [Contribute to Akello: Simplifying Data Integration for Healthcare](https://dev.to/vselvarajijay/contribute-to-akello-simplifying-data-integration-for-healthcare-51h6)
+- [Nomad Image Factory - Intro](https://dev.to/lykins/nomad-image-factory-intro-eeo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
