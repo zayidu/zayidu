@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating Playbooks to Ansible Roles](https://dev.to/suraj_p_7aaf258e240f13af9/migrating-playbooks-to-ansible-roles-524f)
-- [Best Incident Management Software Tools For B2B, SaaS, and Startups In 2024](https://dev.to/statuspal/best-incident-management-software-tools-for-b2b-saas-and-startups-in-2024-239h)
-- [DefaultMap class in TailwindCSS source code.](https://dev.to/thinkthroo/defaultmap-class-in-tailwindcss-source-code-2ohl)
-- [Using AWS CloudHSM for FIPS 140-2 Validated Key Storage in Financial Services](https://dev.to/ikoh_sylva/using-aws-cloudhsm-for-fips-140-2-validated-key-storage-in-financial-services-4ck3)
-- [Angular Fundamentals :Understanding the Anatomy of an Angular Application](https://dev.to/moh_moh701/angular-fundamentals-understanding-the-anatomy-of-an-angular-application-5epg)
+- [7 Productivity tools that I can&#39;t live without &lpar;5+ Bonus&rpar;](https://dev.to/thenomadevel/7-productivity-tools-that-i-cant-live-without-5-bonus-4p)
+- [Learn How Jim Made a Mess With the Pieces Confetti Cannon](https://dev.to/get_pieces/learn-how-jim-made-a-mess-with-the-pieces-confetti-cannon-17gp)
+- [Angular Fundamentals :Creating Your First Angular Project](https://dev.to/moh_moh701/angular-fundamentals-creating-your-first-angular-project-4b7i)
+- [09.10.24](https://dev.to/vorobey41/091024-3oh0)
+- [🚀 Leadership vs. Community Autonomy? 🚀](https://dev.to/madzimai/leadership-vs-community-autonomy-2ji3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
