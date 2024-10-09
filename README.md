@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[PT_BR] Repositório Genérico com Dapper.Contrib](https://dev.to/luizdario/ptbr-repositorio-generico-com-dappercontrib-1c92)
-- [Code Structure with Dapper and Dapper.Contrib](https://dev.to/luizdario/code-structure-with-dapper-and-dappercontrib-20g2)
-- [921. Minimum Add to Make Parentheses Valid](https://dev.to/mdarifulhaque/921-minimum-add-to-make-parentheses-valid-14jk)
-- [7 Productivity tools that I can&#39;t live without &lpar;5+ Bonus&rpar;](https://dev.to/thenomadevel/7-productivity-tools-that-i-cant-live-without-5-bonus-4p)
-- [Learn How Jim Made a Mess With the Pieces Confetti Cannon](https://dev.to/get_pieces/learn-how-jim-made-a-mess-with-the-pieces-confetti-cannon-17gp)
+- [API Authentication with Open ID Connect](https://dev.to/hawkinswinja/api-authentication-with-open-id-connect-32hc)
+- [Tackling Complexity: Practical Principles for Scaling Frontend Applications](https://dev.to/_itsglover/tackling-complexity-practical-principles-for-scaling-frontend-applications-3949)
+- [Must-have Features of Apps Like GoChat Messenger](https://dev.to/stephen568hub/must-have-features-of-apps-like-gochat-messenger-c7p)
+- [Project 1 - Unit Testing](https://dev.to/aqeelakbari/project-1-unit-testing-3ek8)
+- [“Effortless Console Management: Unleash the Power of console-drop-logs”](https://dev.to/ritesh22201/effortless-console-management-unleash-the-power-of-console-drop-logs-38a6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
