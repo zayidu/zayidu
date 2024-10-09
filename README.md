@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como ter uma conversa Técnica com pessoas Não Técnicas?](https://dev.to/andressasantos/como-ter-uma-conversa-tecnica-com-pessoas-nao-tecnicas-3h5k)
-- [🌟 Golden Ratio CSS + Accessible Modals &lpar;Plus, UX in AI!&rpar;](https://dev.to/adam/golden-ratio-css-accessible-modals-plus-ux-in-ai-4m9k)
-- [React Basics~styling component/ css_ in _ js](https://dev.to/kkr0423/react-basicsstyling-component-css-in-js-5ejj)
-- [10 Dicas Basicas de Arquitetura de Código : 5 - Cuidado com integrações](https://dev.to/tbertuzzi/10-dicas-basicas-de-arquitetura-de-codigo-5-cuidado-com-integracoes-5237)
-- [Building Tetris using WebSocket and Svelte Stores](https://dev.to/ascarbek/building-tetris-using-websocket-and-svelte-stores-3ck0)
+- [Letter to my team: Fighting software decay](https://dev.to/caeus/letter-to-my-team-fighting-software-decay-pn0)
+- [Five popular NPM packages that can boost your productivity | Nodejs](https://dev.to/mrcaption49/five-popular-npm-packages-that-can-boost-your-productivity-nodejs-2b23)
+- [Building A Weather Station with a Raspberry Pi and Python - Part One](https://dev.to/dev_neil_a/build-a-weather-station-with-a-raspberry-pi-and-python-part-one-1p92)
+- [Personal Finance Management App with Django, HTMX, Alpine, Tailwind and Plaid](https://dev.to/earthcomfy/personal-finance-management-app-with-django-htmx-alpine-tailwind-and-plaid-2bl0)
+- [Ağ Keşif Eklentisinin Kullanımı ve Kavramlar](https://dev.to/aciklab/ag-kesif-eklentisinin-kullanimi-ve-kavramlar-3a66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
