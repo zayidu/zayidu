@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create an E-commerce Dashboard In 3 Steps](https://dev.to/domfive/create-an-e-commerce-dashboard-in-3-steps-21o4)
-- [WebCodec - Sending and Receiving](https://dev.to/ethand91/webcodec-sending-and-receiving-47m0)
-- [How to Automate Social Media Posting with Python](https://dev.to/trixsec/how-to-automate-social-media-posting-with-python-ag1)
-- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-50o1)
-- [How To Push Eclipse Project To GitHub](https://dev.to/s3cloudhub/how-to-push-eclipse-project-to-github-3nkc)
+- [How to use SuperTokens in a VueJS app with your own UI](https://dev.to/koha/how-to-use-supertokens-in-a-vuejs-app-with-your-own-ui-l2k)
+- [Concurrency Issues in SQL and Distributed Systems](https://dev.to/metis/concurrency-issues-in-sql-and-distributed-systems-58c2)
+- [Learn Python for Machine Learning: Concepts, Tools, and Projects](https://dev.to/imyusufakhtar/learn-python-for-machine-learning-concepts-tools-and-projects-24j5)
+- [Comparing Live Market Data APIs: Which One is Right for Your Project?](https://dev.to/williamsmithh/comparing-live-market-data-apis-which-one-is-right-for-your-project-4f71)
+- [If you&#39;re a front-end developer, you should at least know how to handle page transitions, right? Can&#39;t do it? 😱](https://dev.to/moondaeseung/if-youre-a-front-end-developer-you-should-at-least-know-how-to-handle-page-transitions-right-cant-do-it-51h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
