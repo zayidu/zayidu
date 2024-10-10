@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing PostgreSQL Queries with Materialized Views](https://dev.to/dbvismarketing/optimizing-postgresql-queries-with-materialized-views-11n8)
-- [Detective Simulator - Powered by pinata](https://dev.to/jainireshj/detective-simulator-powered-by-pinata-4c9b)
-- [What is an F1 score?](https://dev.to/eyer-ai/what-is-an-f1-score-59m3)
-- [Maximising User Engagement in Mental Health Apps with Embedded Video Conferencing](https://dev.to/digitalsamba/maximising-user-engagement-in-mental-health-apps-with-embedded-video-conferencing-2efl)
-- [🤖 Top 10 AI Tools Every Developer Should Know in 2024 🚀](https://dev.to/hamzakhan/top-10-ai-tools-every-developer-should-know-in-2024-lel)
+- [Is Datadog Worth the Price? An In-Depth Cost Analysis in 2024](https://dev.to/uptrace/is-datadog-worth-the-price-an-in-depth-cost-analysis-in-2024-1dd4)
+- [PostgreSQL 17 Installation on Ubuntu 24.04](https://dev.to/johndotowl/postgresql-17-installation-on-ubuntu-2404-5bfi)
+- [How to create a particle text effect with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-particle-text-effect-with-tailwind-css-and-javascript-65l)
+- [5 Software for Construction Plans That Facilitate Project Processes &amp; Boost Teamwork](https://dev.to/thomasy0ung/5-software-for-construction-plans-that-facilitate-project-processes-boost-teamwork-5amn)
+- [Mastering Shell Scripting: A Comprehensive Course on Shell Practice Challenges](https://dev.to/labex/mastering-shell-scripting-a-comprehensive-course-on-shell-practice-challenges-31m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
