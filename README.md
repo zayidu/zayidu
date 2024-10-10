@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Datadog Worth the Price? An In-Depth Cost Analysis in 2024](https://dev.to/uptrace/is-datadog-worth-the-price-an-in-depth-cost-analysis-in-2024-1dd4)
-- [PostgreSQL 17 Installation on Ubuntu 24.04](https://dev.to/johndotowl/postgresql-17-installation-on-ubuntu-2404-5bfi)
-- [How to create a particle text effect with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/how-to-create-a-particle-text-effect-with-tailwind-css-and-javascript-65l)
-- [5 Software for Construction Plans That Facilitate Project Processes &amp; Boost Teamwork](https://dev.to/thomasy0ung/5-software-for-construction-plans-that-facilitate-project-processes-boost-teamwork-5amn)
-- [Mastering Shell Scripting: A Comprehensive Course on Shell Practice Challenges](https://dev.to/labex/mastering-shell-scripting-a-comprehensive-course-on-shell-practice-challenges-31m4)
+- [Augmenting the client with HTMX](https://dev.to/nfrankel/augmenting-the-client-with-htmx-2lgk)
+- [From Simple Prompts to Powerful Results: Understanding Prompt Engineering.](https://dev.to/saumya_1i/from-simple-prompts-to-powerful-results-understanding-prompt-engineering-44b3)
+- [From Simple Prompts to Powerful Results: Understanding Prompt Engineering.](https://dev.to/saumya_1i/from-simple-prompts-to-powerful-results-understanding-prompt-engineering-2907)
+- [Best Practices for Maintaining Code Health](https://dev.to/lasserafn/best-practices-for-maintaining-code-health-2n7d)
+- [Mastering C# Fundamentals: Understanding the `using` Statement](https://dev.to/moh_moh701/mastering-c-fundamentals-understanding-the-using-statement-2ga6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
