@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CPU SIMULATOR](https://dev.to/zoobob5/cpu-simulator-ccf)
-- [How to Read Modbus Data Using Modbus Reader Tools](https://dev.to/garry_tribure/how-to-read-modbus-data-using-modbus-reader-tools-1n2d)
-- [Implement Onion Architecture in .NET Core for Product Order Service](https://dev.to/dotnetfullstackdev/implement-onion-architecture-in-net-core-for-product-order-service-2ofc)
-- [Cracking Software Engineer Interview](https://dev.to/akdevcraft/cracking-software-engineer-interview-mp3)
-- [Writing Flexible Enums in PHP with Interfaces and Traits](https://dev.to/nasrulhazim/writing-flexible-enums-in-php-with-interfaces-and-traits-46kh)
+- [Top 10 AI Tools for Coding Every Developer Should Use](https://dev.to/foxinfotech/top-10-ai-tools-for-coding-every-developer-should-use-4il9)
+- [Fixing “Connection Refused” Error Between pgAdmin and Postgres in Docker](https://dev.to/deni_sugiarto_1a01ad7c3fb/fixing-connection-refused-error-between-pgadmin-and-postgres-in-docker-14ge)
+- [Creating a backup table in ORACLE SQL](https://dev.to/mrcaption49/creating-a-backup-table-in-oracle-sql-1p31)
+- [Adding motion to 3D models with Framer Motion and Three.js](https://dev.to/_3b92a59b19aece3845cf/adding-motion-to-3d-models-with-framer-motion-and-threejs-2phh)
+- [Integrasi Tailwind CSS dengan React JS dan Vitejs](https://dev.to/ramadhan002/integrasi-tailwind-css-dengan-react-js-dan-vitejs-gjk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
