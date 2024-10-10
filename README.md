@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Hacktoberfest 2024 Journey](https://dev.to/ahzem/my-hacktoberfest-2024-journey-4k34)
-- [BULK COLLECT | SELECT INTO AND FETCH WITH LIMIT](https://dev.to/mrcaption49/bulk-collect-3359)
-- [Shaping the state of Test-Driven Development](https://dev.to/marabesi/shaping-the-state-of-test-driven-development-1i39)
-- [Implement a Custom Trash-Enabled Linux Command](https://dev.to/labex/implement-a-custom-trash-enabled-linux-command-3occ)
-- [Building a Fun Workout App with React, Vite, and Tolgee](https://dev.to/rashmit_mhatre_40c3a37e37/building-a-fun-workout-app-with-react-vite-and-tolgee-dlb)
+- [Online Visual Novel in Godot: Case Study on Sentou Gakuen](https://dev.to/godot/online-visual-novel-in-godot-case-study-on-sentou-gakuen-33ce)
+- [Be Real: How to Use AI Writing Tools and Stay Authentic](https://dev.to/jimmymcbride/be-real-how-to-use-ai-writing-tools-and-stay-authentic-26pp)
+- [My Hacktobefest Contribution To DiceDB](https://dev.to/kannav02/my-hacktobefest-contribution-to-dicedb-4egg)
+- [Unlocking your ADHD Superpowers](https://dev.to/codingcatdev/unlocking-your-adhd-superpowers-2p1a)
+- [Is this a bug in Java?](https://dev.to/nisabmohd/is-this-a-bug-in-java-49m7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
