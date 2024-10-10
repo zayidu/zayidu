@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximize Your Workflow with These SASS Mixins and Functions](https://dev.to/serhatbek/maximize-your-workflow-with-these-sass-mixins-and-functions-4hg4)
-- [Is Open Source AI Bull?](https://dev.to/voxel51/is-open-source-ai-bull-4dom)
-- [Building a Scalable Pet Adoption Platform with Next.js, NestJS, PostgreSQL, and Tailwind CSS](https://dev.to/nadim_ch0wdhury/building-a-scalable-pet-adoption-platform-with-nextjs-nestjs-postgresql-and-tailwind-css-a51)
-- [Roniere da Silva Marques: Programador Full-Stack e Hacker Apaixonado por Soluções Inovadoras](https://dev.to/ronieremarques/roniere-da-silva-marques-programador-full-stack-e-hacker-apaixonado-por-solucoes-inovadoras-4h76)
-- [Golang: Importância de planejar como exibir logs em aplicações de uso intenso](https://dev.to/mggcmatheus/golang-importancia-de-planejar-como-exibir-logs-em-aplicacoes-de-uso-intenso-3o38)
+- [Proxy Types: A Complete Guide for Beginners and Experts](https://dev.to/marsproxies/proxy-types-a-complete-guide-for-beginners-and-experts-4fa7)
+- [Develop Full Stack Language Learning App in Next JS &amp; Nest JS](https://dev.to/nadim_ch0wdhury/develop-full-stack-language-learning-app-in-next-js-nest-js-2l94)
+- [Add the sum of prime numbers for a given integer using JavaScript](https://dev.to/dindustack/add-the-sum-of-prime-numbers-for-a-given-integer-using-javascript-4ajd)
+- [Code Smell 274 - Cascaded Returns](https://dev.to/mcsee/code-smell-274-cascaded-returns-4j5a)
+- [Git Rebase and DocBot Refactoring](https://dev.to/ajogseneca/git-rebase-and-docbot-refactoring-5e1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
