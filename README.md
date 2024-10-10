@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Online Visual Novel in Godot: Case Study on Sentou Gakuen](https://dev.to/godot/online-visual-novel-in-godot-case-study-on-sentou-gakuen-33ce)
-- [Be Real: How to Use AI Writing Tools and Stay Authentic](https://dev.to/jimmymcbride/be-real-how-to-use-ai-writing-tools-and-stay-authentic-26pp)
-- [My Hacktobefest Contribution To DiceDB](https://dev.to/kannav02/my-hacktobefest-contribution-to-dicedb-4egg)
-- [Unlocking your ADHD Superpowers](https://dev.to/codingcatdev/unlocking-your-adhd-superpowers-2p1a)
-- [Is this a bug in Java?](https://dev.to/nisabmohd/is-this-a-bug-in-java-49m7)
+- [The Host Manager You Never Knew You Needed... Until Now! 😲](https://dev.to/nunesfd/the-host-manager-you-never-knew-you-needed-until-now-43eh)
+- [Integrazione Bootstrap e Tailwind: Pro e Contro | Bootstrap and Tailwind: Pros and Cons](https://dev.to/roberto_celano/integrazione-bootstrap-e-tailwind-pro-e-contro-bootstrap-and-tailwind-pros-and-cons-83g)
+- [How to Use Context Manager Pattern in JavaScript for Efficient Code Execution](https://dev.to/vishnusatheesh/how-to-use-context-manager-pattern-in-javascript-for-efficient-code-execution-57ef)
+- [My Story](https://dev.to/idafum/my-story-240b)
+- [My Story](https://dev.to/idafum/my-story-ead)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
