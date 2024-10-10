@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with React Native &lpar;EXPO&rpar;: A Beginner&#39;s Guide](https://dev.to/vrinch/getting-started-with-react-native-expo-a-beginners-guide-4ae8)
-- [Understanding Python Lambda Functions: A Comprehensive Guide](https://dev.to/imyusufakhtar/understanding-python-lambda-functions-a-comprehensive-guide-4b6j)
-- [Streamline Your Car Rentals with Saksh Car Reservation System](https://dev.to/susheel_kumar/streamline-your-car-rentals-with-saksh-car-reservation-system-33gp)
-- [3 Shocking Ways to Run Stringified Code in Java 8+](https://dev.to/emilyjohnsonready/3-shocking-ways-to-run-stringified-code-in-java-8-37lo)
-- [Understanding Python Functions: Definition, Parameters, and Return Values](https://dev.to/imyusufakhtar/understanding-python-functions-definition-parameters-and-return-values-15i9)
+- [Is System Design Interview Book by Alex Xu Worth Reading? Review](https://dev.to/somadevtoo/is-system-design-interview-book-by-alex-xu-worth-reading-review-11gm)
+- [24시간 만에 &lpar;아이와 놀면서&rpar; 빌라 실거래가 분석 사이트 구축!](https://dev.to/insung/24sigan-mane-aiwa-nolmyeonseo-bilra-silgeoraega-bunseog-saiteu-gucug-27a4)
+- [How We Judge Non-Humanoid Robots: Gender Perceptions and Design Implications](https://dev.to/mikeyoung44/how-we-judge-non-humanoid-robots-gender-perceptions-and-design-implications-1gd4)
+- [Order Emerges From Chaos: Uncovering Intelligence at the Edge](https://dev.to/mikeyoung44/order-emerges-from-chaos-uncovering-intelligence-at-the-edge-4am5)
+- [Enhancing Transformer Logical Reasoning with Inductive Scratchpad Memory](https://dev.to/mikeyoung44/enhancing-transformer-logical-reasoning-with-inductive-scratchpad-memory-4ie1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
