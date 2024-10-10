@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Proxy Types: A Complete Guide for Beginners and Experts](https://dev.to/marsproxies/proxy-types-a-complete-guide-for-beginners-and-experts-4fa7)
-- [Develop Full Stack Language Learning App in Next JS &amp; Nest JS](https://dev.to/nadim_ch0wdhury/develop-full-stack-language-learning-app-in-next-js-nest-js-2l94)
-- [Add the sum of prime numbers for a given integer using JavaScript](https://dev.to/dindustack/add-the-sum-of-prime-numbers-for-a-given-integer-using-javascript-4ajd)
-- [Code Smell 274 - Cascaded Returns](https://dev.to/mcsee/code-smell-274-cascaded-returns-4j5a)
-- [Git Rebase and DocBot Refactoring](https://dev.to/ajogseneca/git-rebase-and-docbot-refactoring-5e1)
+- [20 Essential JavaScript Concepts Every Node Developer Should Conquer](https://dev.to/usman_awan_c30bc1fdb70636/20-essential-javascript-concepts-every-node-developer-should-conquer-2eig)
+- [Cross-Posting Project Update: Automating Posts Across Medium, LinkedIn, and DEV.to](https://dev.to/jesse_chong_3bcc276c4f950/cross-posting-project-update-automating-posts-across-medium-linkedin-and-devto-29n1)
+- [What is Design Thinking? Understanding the Design Thinking Process.](https://dev.to/kalak_khadayat/what-is-design-thinking-understanding-the-design-thinking-process-mh4)
+- [Telehealth harnessing artificial intelligence: Zoom extension](https://dev.to/abtosoftware/telehealth-harnessing-artificial-intelligence-zoom-extension-1cd3)
+- [Building a Modern Authentication System with Supabase, Ballerina, and Next.js](https://dev.to/kavishka_dinajara_88/building-a-modern-authentication-system-with-supabase-ballerina-and-nextjs-1i18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
