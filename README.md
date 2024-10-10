@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Turbopack vs Webpack: Has Webpack’s Creator Built Its Own Replacement?](https://dev.to/charliesay/turbopack-vs-webpack-has-webpacks-creator-built-its-own-replacement-al4)
-- [Quick Byte: A very specific error in React Native iOS](https://dev.to/bytehala/quick-byte-a-very-specific-error-in-react-native-ios-2i58)
-- [Trigger Lambda Function From Amazon SQS - &lpar;Let&#39;s Build 🏗️ Series&rpar;](https://dev.to/aws-heroes/trigger-lambda-function-from-amazon-sqs-lets-build-series-5h1k)
-- [Understanding Queues Data Structure: Mastering FIFO Principle in JavaScript](https://dev.to/emmanuelayinde/understanding-queues-data-structure-mastering-fifo-principle-in-javascript-8di)
-- [Build an AI Discord Bot in Rust with Rig: A Step-by-Step Guide](https://dev.to/0thtachi/build-an-ai-discord-bot-in-rust-with-rig-a-step-by-step-guide-5d0d)
+- [CPU SIMULATOR](https://dev.to/zoobob5/cpu-simulator-ccf)
+- [How to Read Modbus Data Using Modbus Reader Tools](https://dev.to/garry_tribure/how-to-read-modbus-data-using-modbus-reader-tools-1n2d)
+- [Implement Onion Architecture in .NET Core for Product Order Service](https://dev.to/dotnetfullstackdev/implement-onion-architecture-in-net-core-for-product-order-service-2ofc)
+- [Cracking Software Engineer Interview](https://dev.to/akdevcraft/cracking-software-engineer-interview-mp3)
+- [Writing Flexible Enums in PHP with Interfaces and Traits](https://dev.to/nasrulhazim/writing-flexible-enums-in-php-with-interfaces-and-traits-46kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
