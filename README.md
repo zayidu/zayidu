@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Essential JavaScript Concepts Every Node Developer Should Conquer](https://dev.to/usman_awan_c30bc1fdb70636/20-essential-javascript-concepts-every-node-developer-should-conquer-2eig)
-- [Cross-Posting Project Update: Automating Posts Across Medium, LinkedIn, and DEV.to](https://dev.to/jesse_chong_3bcc276c4f950/cross-posting-project-update-automating-posts-across-medium-linkedin-and-devto-29n1)
-- [What is Design Thinking? Understanding the Design Thinking Process.](https://dev.to/kalak_khadayat/what-is-design-thinking-understanding-the-design-thinking-process-mh4)
-- [Telehealth harnessing artificial intelligence: Zoom extension](https://dev.to/abtosoftware/telehealth-harnessing-artificial-intelligence-zoom-extension-1cd3)
-- [Building a Modern Authentication System with Supabase, Ballerina, and Next.js](https://dev.to/kavishka_dinajara_88/building-a-modern-authentication-system-with-supabase-ballerina-and-nextjs-1i18)
+- [15 Essential Tools for Mastering Git Version Control in 2024](https://dev.to/shafayeat/15-essential-tools-for-mastering-git-version-control-in-2024-47ap)
+- [Bug deployment application expo react native](https://dev.to/poussin_jeanlouis_3833a5a/bug-deployment-application-expo-react-native-489i)
+- [CodeCulture Daily](https://dev.to/madhurima_rawat/codeculture-daily-16m0)
+- [Git Secrets Unveiled: 20 Advanced Techniques for Efficient Coding](https://dev.to/usman_awan_c30bc1fdb70636/git-secrets-unveiled-20-advanced-techniques-for-efficient-coding-6h7)
+- [Building RESTful APIs with Go](https://dev.to/neelp03/building-restful-apis-with-go-3ob6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
