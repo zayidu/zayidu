@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Hero: Building a Scalable React Admin Dashboard Layout](https://dev.to/chintanonweb/from-zero-to-hero-building-a-scalable-react-admin-dashboard-layout-53p9)
-- [Building a Full-Stack Personal Finance Tracker with NestJS, Prisma, and Next.js](https://dev.to/nadim_ch0wdhury/building-a-full-stack-personal-finance-tracker-with-nestjs-prisma-and-nextjs-mod)
-- [VS CODE research icon ?](https://dev.to/pascal_petitjean_00e1dfaf/vs-code-research-icon--5dma)
-- [VS CODE research icon ?](https://dev.to/pascal_petitjean_00e1dfaf/vs-code-research-icon--525d)
-- [Join Vonage for Our AWS Dev Day in November!](https://dev.to/vonagedev/join-vonage-for-our-aws-dev-day-in-november-1lge)
+- [Getting Started with React Native &lpar;EXPO&rpar;: A Beginner&#39;s Guide](https://dev.to/vrinch/getting-started-with-react-native-expo-a-beginners-guide-4ae8)
+- [Understanding Python Lambda Functions: A Comprehensive Guide](https://dev.to/imyusufakhtar/understanding-python-lambda-functions-a-comprehensive-guide-4b6j)
+- [Streamline Your Car Rentals with Saksh Car Reservation System](https://dev.to/susheel_kumar/streamline-your-car-rentals-with-saksh-car-reservation-system-33gp)
+- [3 Shocking Ways to Run Stringified Code in Java 8+](https://dev.to/emilyjohnsonready/3-shocking-ways-to-run-stringified-code-in-java-8-37lo)
+- [Understanding Python Functions: Definition, Parameters, and Return Values](https://dev.to/imyusufakhtar/understanding-python-functions-definition-parameters-and-return-values-15i9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
