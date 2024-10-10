@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is System Design Interview Book by Alex Xu Worth Reading? Review](https://dev.to/somadevtoo/is-system-design-interview-book-by-alex-xu-worth-reading-review-11gm)
-- [24시간 만에 &lpar;아이와 놀면서&rpar; 빌라 실거래가 분석 사이트 구축!](https://dev.to/insung/24sigan-mane-aiwa-nolmyeonseo-bilra-silgeoraega-bunseog-saiteu-gucug-27a4)
-- [How We Judge Non-Humanoid Robots: Gender Perceptions and Design Implications](https://dev.to/mikeyoung44/how-we-judge-non-humanoid-robots-gender-perceptions-and-design-implications-1gd4)
-- [Order Emerges From Chaos: Uncovering Intelligence at the Edge](https://dev.to/mikeyoung44/order-emerges-from-chaos-uncovering-intelligence-at-the-edge-4am5)
-- [Enhancing Transformer Logical Reasoning with Inductive Scratchpad Memory](https://dev.to/mikeyoung44/enhancing-transformer-logical-reasoning-with-inductive-scratchpad-memory-4ie1)
+- [Building a Chat with PDFs using Pinata,OpenAI,, and Streamlit](https://dev.to/jagroop2001/building-a-chat-with-pdfs-using-pinataopenai-and-streamlit-3jb7)
+- [🚀 React Performance Optimization: Avoiding Common Pitfalls ⚡](https://dev.to/erasmuskotoka/react-performance-optimization-avoiding-common-pitfalls-30da)
+- [Best DAST Tools to Know About](https://dev.to/sambishop/best-dast-tools-to-know-about-4kh7)
+- [Why Tech Learners Should Never Stop Reading: Unlocking the Path to Success](https://dev.to/bhuwan71/why-tech-learners-should-never-stop-reading-unlocking-the-path-to-success-3dm3)
+- [Random Pokémon Generator](https://dev.to/peng_li_61507f5f744c1b66e/random-pokemon-generator-4a2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
