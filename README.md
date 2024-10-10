@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Chat with PDFs using Pinata,OpenAI,, and Streamlit](https://dev.to/jagroop2001/building-a-chat-with-pdfs-using-pinataopenai-and-streamlit-3jb7)
-- [🚀 React Performance Optimization: Avoiding Common Pitfalls ⚡](https://dev.to/erasmuskotoka/react-performance-optimization-avoiding-common-pitfalls-30da)
-- [Best DAST Tools to Know About](https://dev.to/sambishop/best-dast-tools-to-know-about-4kh7)
-- [Why Tech Learners Should Never Stop Reading: Unlocking the Path to Success](https://dev.to/bhuwan71/why-tech-learners-should-never-stop-reading-unlocking-the-path-to-success-3dm3)
-- [Random Pokémon Generator](https://dev.to/peng_li_61507f5f744c1b66e/random-pokemon-generator-4a2i)
+- [Smooth Transitions with Turbo Streams](https://dev.to/railsdesigner/smooth-transitions-with-turbo-streams-3olo)
+- [Free Threaded Mode in Python3.13 &lpar;GIL disabled&rpar;](https://dev.to/behitek/free-threaded-mode-in-python313-gil-disabled-cfc)
+- [Web2-like Onboarding on Limitless Prediction Market with Etherspot](https://dev.to/alexandradev/web2-like-onboarding-on-limitless-prediction-market-with-etherspot-2hha)
+- [14 Code Snippet Image Generators to Turn Your Code into Stunning Visuals 😍🧑‍💻](https://dev.to/madza/14-code-snippet-image-generators-to-turn-your-code-into-stunning-visuals-5220)
+- [Sabe o que é IA Generativa?](https://dev.to/marshalmori/sabe-o-que-e-ia-generativa-4420)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
