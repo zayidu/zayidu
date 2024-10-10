@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Host Manager You Never Knew You Needed... Until Now! 😲](https://dev.to/nunesfd/the-host-manager-you-never-knew-you-needed-until-now-43eh)
-- [Integrazione Bootstrap e Tailwind: Pro e Contro | Bootstrap and Tailwind: Pros and Cons](https://dev.to/roberto_celano/integrazione-bootstrap-e-tailwind-pro-e-contro-bootstrap-and-tailwind-pros-and-cons-83g)
-- [How to Use Context Manager Pattern in JavaScript for Efficient Code Execution](https://dev.to/vishnusatheesh/how-to-use-context-manager-pattern-in-javascript-for-efficient-code-execution-57ef)
-- [My Story](https://dev.to/idafum/my-story-240b)
-- [My Story](https://dev.to/idafum/my-story-ead)
+- [I passed the challenging AWS Certified DevOps Engineer – Professional Certification: How?](https://dev.to/simonmafany/i-passed-the-challenging-aws-certified-devops-engineer-professional-certification-how-21mc)
+- [Kotlin DataFrame ❤️ Arrow](https://dev.to/fb64/kotlin-dataframe-arrow-54kh)
+- [Simplifying software deployment: a manifesto for developers](https://dev.to/k0dep/simplifying-software-deployment-a-manifesto-for-developers-5e7p)
+- [How to Build Smarter AI Apps and Reduce Hallucinations with RAG](https://dev.to/ragieai/how-to-build-smarter-ai-apps-and-reduce-hallucinations-with-rag-79i)
+- [Python &amp; Data Structures Part 2: type&lpar;&rpar; Keyword](https://dev.to/abeck617/python-data-structures-part-2-type-keyword-3k1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
