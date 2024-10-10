@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Accessibility Checklist For Developers](https://dev.to/nazneenahmad/web-accessibility-checklist-for-developers-17hp)
-- [Read cloud specific configuration from configuration files](https://dev.to/grkashyap/read-cloud-specific-configuration-from-configuration-files-5db0)
-- [How to Build Stunning Websites with Modern Front-End Development Techniques](https://dev.to/ashwin_1213/how-to-build-stunning-websites-with-modern-front-end-development-techniques-356g)
-- [The Importance of Regular Software Updates and Patching Vulnerabilities](https://dev.to/javed_telsource/the-importance-of-regular-software-updates-and-patching-vulnerabilities-17fj)
-- [What Features Make a Gaming Computer Sale Worth It?](https://dev.to/trammygombez/what-features-make-a-gaming-computer-sale-worth-it-5f3d)
+- [Optimizing PostgreSQL Queries with Materialized Views](https://dev.to/dbvismarketing/optimizing-postgresql-queries-with-materialized-views-11n8)
+- [Detective Simulator - Powered by pinata](https://dev.to/jainireshj/detective-simulator-powered-by-pinata-4c9b)
+- [What is an F1 score?](https://dev.to/eyer-ai/what-is-an-f1-score-59m3)
+- [Maximising User Engagement in Mental Health Apps with Embedded Video Conferencing](https://dev.to/digitalsamba/maximising-user-engagement-in-mental-health-apps-with-embedded-video-conferencing-2efl)
+- [🤖 Top 10 AI Tools Every Developer Should Know in 2024 🚀](https://dev.to/hamzakhan/top-10-ai-tools-every-developer-should-know-in-2024-lel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
