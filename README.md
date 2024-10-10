@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Essential Tools for Mastering Git Version Control in 2024](https://dev.to/shafayeat/15-essential-tools-for-mastering-git-version-control-in-2024-47ap)
-- [Bug deployment application expo react native](https://dev.to/poussin_jeanlouis_3833a5a/bug-deployment-application-expo-react-native-489i)
-- [CodeCulture Daily](https://dev.to/madhurima_rawat/codeculture-daily-16m0)
-- [Git Secrets Unveiled: 20 Advanced Techniques for Efficient Coding](https://dev.to/usman_awan_c30bc1fdb70636/git-secrets-unveiled-20-advanced-techniques-for-efficient-coding-6h7)
-- [Building RESTful APIs with Go](https://dev.to/neelp03/building-restful-apis-with-go-3ob6)
+- [My Hacktoberfest 2024 Journey](https://dev.to/ahzem/my-hacktoberfest-2024-journey-4k34)
+- [BULK COLLECT | SELECT INTO AND FETCH WITH LIMIT](https://dev.to/mrcaption49/bulk-collect-3359)
+- [Shaping the state of Test-Driven Development](https://dev.to/marabesi/shaping-the-state-of-test-driven-development-1i39)
+- [Implement a Custom Trash-Enabled Linux Command](https://dev.to/labex/implement-a-custom-trash-enabled-linux-command-3occ)
+- [Building a Fun Workout App with React, Vite, and Tolgee](https://dev.to/rashmit_mhatre_40c3a37e37/building-a-fun-workout-app-with-react-vite-and-tolgee-dlb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
