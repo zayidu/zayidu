@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nuevo año y Nueva Startup](https://dev.to/lucatonyraudales/nuevo-ano-y-nueva-startup-47a3)
-- [Figma 101: A Beginner’s Guide to Collaborative Design 🎨🤝](https://dev.to/info_generalhazedawn_a3d/figma-101-a-beginners-guide-to-collaborative-design-2gcl)
-- [Figma vs. Sketch – Which Design Tool is Right for You?](https://dev.to/swhabitation/figma-vs-sketch-which-design-tool-is-right-for-you-f0c)
-- [CSS Flexbox: Creating a Hero Section](https://dev.to/tailwine/css-flexbox-creating-a-hero-section-2koj)
-- [Introducing Note Forge: Your Hub for University Resources](https://dev.to/namankatewa/introducing-note-forge-your-hub-for-university-resources-2mjm)
+- [Web Accessibility Checklist For Developers](https://dev.to/nazneenahmad/web-accessibility-checklist-for-developers-17hp)
+- [Read cloud specific configuration from configuration files](https://dev.to/grkashyap/read-cloud-specific-configuration-from-configuration-files-5db0)
+- [How to Build Stunning Websites with Modern Front-End Development Techniques](https://dev.to/ashwin_1213/how-to-build-stunning-websites-with-modern-front-end-development-techniques-356g)
+- [The Importance of Regular Software Updates and Patching Vulnerabilities](https://dev.to/javed_telsource/the-importance-of-regular-software-updates-and-patching-vulnerabilities-17fj)
+- [What Features Make a Gaming Computer Sale Worth It?](https://dev.to/trammygombez/what-features-make-a-gaming-computer-sale-worth-it-5f3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
