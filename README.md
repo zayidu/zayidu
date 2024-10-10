@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Smooth Transitions with Turbo Streams](https://dev.to/railsdesigner/smooth-transitions-with-turbo-streams-3olo)
-- [Free Threaded Mode in Python3.13 &lpar;GIL disabled&rpar;](https://dev.to/behitek/free-threaded-mode-in-python313-gil-disabled-cfc)
-- [Web2-like Onboarding on Limitless Prediction Market with Etherspot](https://dev.to/alexandradev/web2-like-onboarding-on-limitless-prediction-market-with-etherspot-2hha)
-- [14 Code Snippet Image Generators to Turn Your Code into Stunning Visuals 😍🧑‍💻](https://dev.to/madza/14-code-snippet-image-generators-to-turn-your-code-into-stunning-visuals-5220)
-- [Sabe o que é IA Generativa?](https://dev.to/marshalmori/sabe-o-que-e-ia-generativa-4420)
+- [Maximize Your Workflow with These SASS Mixins and Functions](https://dev.to/serhatbek/maximize-your-workflow-with-these-sass-mixins-and-functions-4hg4)
+- [Is Open Source AI Bull?](https://dev.to/voxel51/is-open-source-ai-bull-4dom)
+- [Building a Scalable Pet Adoption Platform with Next.js, NestJS, PostgreSQL, and Tailwind CSS](https://dev.to/nadim_ch0wdhury/building-a-scalable-pet-adoption-platform-with-nextjs-nestjs-postgresql-and-tailwind-css-a51)
+- [Roniere da Silva Marques: Programador Full-Stack e Hacker Apaixonado por Soluções Inovadoras](https://dev.to/ronieremarques/roniere-da-silva-marques-programador-full-stack-e-hacker-apaixonado-por-solucoes-inovadoras-4h76)
+- [Golang: Importância de planejar como exibir logs em aplicações de uso intenso](https://dev.to/mggcmatheus/golang-importancia-de-planejar-como-exibir-logs-em-aplicacoes-de-uso-intenso-3o38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
