@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Augmenting the client with HTMX](https://dev.to/nfrankel/augmenting-the-client-with-htmx-2lgk)
-- [From Simple Prompts to Powerful Results: Understanding Prompt Engineering.](https://dev.to/saumya_1i/from-simple-prompts-to-powerful-results-understanding-prompt-engineering-44b3)
-- [From Simple Prompts to Powerful Results: Understanding Prompt Engineering.](https://dev.to/saumya_1i/from-simple-prompts-to-powerful-results-understanding-prompt-engineering-2907)
-- [Best Practices for Maintaining Code Health](https://dev.to/lasserafn/best-practices-for-maintaining-code-health-2n7d)
-- [Mastering C# Fundamentals: Understanding the `using` Statement](https://dev.to/moh_moh701/mastering-c-fundamentals-understanding-the-using-statement-2ga6)
+- [From Zero to Hero: Building a Scalable React Admin Dashboard Layout](https://dev.to/chintanonweb/from-zero-to-hero-building-a-scalable-react-admin-dashboard-layout-53p9)
+- [Building a Full-Stack Personal Finance Tracker with NestJS, Prisma, and Next.js](https://dev.to/nadim_ch0wdhury/building-a-full-stack-personal-finance-tracker-with-nestjs-prisma-and-nextjs-mod)
+- [VS CODE research icon ?](https://dev.to/pascal_petitjean_00e1dfaf/vs-code-research-icon--5dma)
+- [VS CODE research icon ?](https://dev.to/pascal_petitjean_00e1dfaf/vs-code-research-icon--525d)
+- [Join Vonage for Our AWS Dev Day in November!](https://dev.to/vonagedev/join-vonage-for-our-aws-dev-day-in-november-1lge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
