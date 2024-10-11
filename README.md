@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Say hello to the next generation of prompt engineers: The future of programming](https://dev.to/karsten_biedermann/say-hello-to-the-next-generation-of-prompt-engineers-the-future-of-programming-ih6)
-- [Concurrency vs Parallelism](https://dev.to/scrapfly_dev/concurrency-vs-parallelism-5hfp)
-- [LLMs in Action: Examples and Hobby Projects](https://dev.to/aws-builders/llms-in-action-examples-and-hobby-projects-6cg)
-- [Understanding Reusable Components and the DRY Principle](https://dev.to/jps27cse/understanding-reusable-components-and-the-dry-principle-4ijm)
-- [The Only Tool You Will Need to Design and Test APIs](https://dev.to/apilover/the-only-tool-you-will-need-to-design-and-test-apis-557n)
+- [How to choose a hosting control panel: a review of 5 popular options](https://dev.to/ispmanager/how-to-choose-a-hosting-control-panel-a-review-of-5-popular-options-49of)
+- [Migrating from Xamarin to .NET MAUI: A Journey to Modernization](https://dev.to/tmcd054/migrating-from-xamarin-to-net-maui-a-journey-to-modernization-109n)
+- [Deploying High Availability SafeLine WAF on K3s&lpar;Part 2&rpar;](https://dev.to/carrie_luo1/deploying-high-availability-safeline-waf-on-k3spart-2-219f)
+- [What is Beta Testing? A Comprehensive Guide](https://dev.to/keploy/what-is-beta-testing-a-comprehensive-guide-48f)
+- [Deno or Bun? Or NodeJs? &quot;Comparison&quot;](https://dev.to/grenishrai/deno-or-bun-or-nodejs-56ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
