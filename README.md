@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2024: Join the Open Source Revolution, No-Code Style! 🚀](https://dev.to/safdarali/hacktoberfest-2024-join-the-open-source-revolution-no-code-style-14m8)
-- [What&#39;s the Fucking Clean Code???](https://dev.to/nezirzahirovic/whats-the-fucking-clean-code-2nj0)
-- [First Week At My Boot Camp](https://dev.to/jajaninnin/first-week-at-my-boot-camp-4jo7)
-- [withAlpha utility in Tailwind CSS source code.](https://dev.to/thinkthroo/withalpha-utility-in-tailwind-css-source-code-4nof)
-- [Your First Backend Application using Node.js](https://dev.to/codewithshahan/your-first-backend-application-using-nodejs-45i)
+- [962. Maximum Width Ramp](https://dev.to/mdarifulhaque/962-maximum-width-ramp-2e56)
+- [IT Security Made Simple: Protecting Your Digital Life Like a Pro! 🔒](https://dev.to/enzo_dechaene/it-security-made-simple-protecting-your-digital-life-like-a-pro-5f4g)
+- [🚧 Desarrollo de Rappy Minimarket: Un E-commerce en Construcción 🛠️](https://dev.to/pedroza25/desarrollo-de-rappy-minimarket-un-e-commerce-en-construccion-44ma)
+- [🚧 Desarrollo de Rappy Minimarket: Un E-commerce en Construcción 🛠️](https://dev.to/pedroza25/desarrollo-de-rappy-minimarket-un-e-commerce-en-construccion-3efd)
+- [🚧 Desarrollo de Rappy Minimarket: Un E-commerce en Construcción 🛠️](https://dev.to/pedroza25/desarrollo-de-rappy-minimarket-un-e-commerce-en-construccion-4hh1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
