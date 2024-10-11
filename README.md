@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Spring Boot Application with Maven and Deploying on Kind K8s Cluster Using Helm](https://dev.to/sujimatts/building-a-spring-boot-application-with-maven-and-deploying-on-kind-k8s-cluster-using-helm-40eh)
-- [Optimizing React Performance with Concurrent Mode and Key APIs](https://dev.to/usman_awan_c30bc1fdb70636/optimizing-react-performance-with-concurrent-mode-and-key-apis-29bp)
-- [Deno vs Node: The Next Evolution of JavaScript, But Are We Ready?](https://dev.to/usman_awan_c30bc1fdb70636/deno-vs-node-the-next-evolution-of-javascript-but-are-we-ready-1p4m)
-- [Cloud-Based Apps That Are Revolutionizing Productivity on Smartphones](https://dev.to/sai_rishika_0e321c17cfc13/cloud-based-apps-that-are-revolutionizing-productivity-on-smartphones-3c1l)
-- [Automating Amazon Product Scraping](https://dev.to/syphoon_ef9378/automating-amazon-product-scraping-egc)
+- [Say hello to the next generation of prompt engineers: The future of programming](https://dev.to/karsten_biedermann/say-hello-to-the-next-generation-of-prompt-engineers-the-future-of-programming-ih6)
+- [Concurrency vs Parallelism](https://dev.to/scrapfly_dev/concurrency-vs-parallelism-5hfp)
+- [LLMs in Action: Examples and Hobby Projects](https://dev.to/aws-builders/llms-in-action-examples-and-hobby-projects-6cg)
+- [Understanding Reusable Components and the DRY Principle](https://dev.to/jps27cse/understanding-reusable-components-and-the-dry-principle-4ijm)
+- [The Only Tool You Will Need to Design and Test APIs](https://dev.to/apilover/the-only-tool-you-will-need-to-design-and-test-apis-557n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
