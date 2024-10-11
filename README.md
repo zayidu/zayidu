@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Unleash Your Shell Scripting Prowess with the &#39;Shell Practice Labs&#39; Course](https://dev.to/labex/unleash-your-shell-scripting-prowess-with-the-shell-practice-labs-course-3ef9)
+- [Building a Fraud Detection System in Python with Machine Learning](https://dev.to/agustin_bereciartua_d19f7/building-a-fraud-detection-system-in-python-with-machine-learning-1p3n)
+- [Top 5 Frameworks for Building AI Agents in 2024](https://dev.to/thenomadevel/top-5-frameworks-for-building-ai-agents-in-2024-g2m)
+- [JavaScript String Manipulation: How to Use Split, Reverse, and Join](https://dev.to/ofthewildfire/javascript-string-manipulation-how-to-use-split-reverse-and-join-4ojf)
 - [request for a mentor](https://dev.to/mauriciousfrimpong/request-for-a-mentor-cfa)
-- [Day 1040 : Tomorrow](https://dev.to/dwane/day-1040-tomorrow-1kp2)
-- [My Entrepreneurial Journey from Chocolate to Building Meaningful Socialization through AI](https://dev.to/nadiadevv/my-entrepreneurial-journey-from-chocolate-to-building-meaningful-socialization-through-ai-4p2f)
-- [Maximizing Performance: Best Practices for Database Scaling](https://dev.to/kaustubhyerkade/maximizing-performance-best-practices-for-database-scaling-2fkn)
-- [Fibonacci, Integer overflow, memoization e um exagero](https://dev.to/joseiedo/fibonacci-integer-overflow-memoization-e-um-exagero-55eh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
