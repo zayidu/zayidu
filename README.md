@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Loops](https://dev.to/asilbek_ibragimov_a0c27cc/loops-2i1h)
-- [6. Loops&lpar;for, while, do while&rpar;](https://dev.to/sunnat_qayumov/6-loopsfor-while-do-while-2cgd)
-- [Operators&lpar;if, else if, else, ternary operator, switch&rpar;](https://dev.to/sabrina_abcdna123/operatorsif-else-if-else-ternary-operator-switch-5719)
-- [Hacktoberfest 2024: Code Templates and Win Rewards 🎉](https://dev.to/waveplay/hacktoberfest-2024-code-templates-and-win-rewards-166n)
-- [5.Operators &lpar;if, else if, else, ternary operator, switch&rpar;](https://dev.to/firdavs_mukhsimov_9f62550/5operators-if-else-if-else-ternary-operator-switch-o2k)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4bm7)
+- [Scripting in DevOps: A Complete Guide from Beginner to Advanced](https://dev.to/prodevopsguytech/scripting-in-devops-a-complete-guide-from-beginner-to-advanced-noa)
+- [Developing FiftyOne Computer Vision Plugins Workshop - Oct 9, 2024](https://dev.to/voxel51/developing-fiftyone-computer-vision-plugins-workshop-oct-9-2024-4nmg)
+- [Object-Orinented Programming](https://dev.to/asilbek_ibragimov_a0c27cc/object-orinented-programming-11l3)
+- [Array](https://dev.to/firdavs_mukhsimov_9f62550/array-1g94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
