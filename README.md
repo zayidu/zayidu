@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Software for MacOS Developers that cannot Miss, Once More](https://dev.to/angelaswift/software-for-macos-developers-that-cannot-miss-once-more-2jfa)
-- [#71 — Take Values of Adjacent Rows in The Same Group &lpar;Search &amp; Filter within Adjacent Intervals&rpar;](https://dev.to/judith677/71-take-values-of-adjacent-rows-in-the-same-group-search-filter-within-adjacent-intervals-3ia1)
-- [Shell Scripting Mastery: 5 Hands-On Linux Lab Tutorials](https://dev.to/labex/shell-scripting-mastery-5-hands-on-linux-lab-tutorials-5f4p)
-- [Explaining Pods in Kubernetes](https://dev.to/pkutaj/explaining-pods-in-kubernetes-2mh4)
-- [Golden-Retriever: High-Fidelity Agentic Retrieval Augmented Generation for Industrial Knowledge Base](https://dev.to/tutti/golden-retriever-high-fidelity-agentic-retrieval-augmented-generation-for-industrial-knowledge-base-3nl8)
+- [Creating debug text in WGSL](https://dev.to/ndesmic/creating-debug-text-in-wgsl-10hd)
+- [Book: Interactive Data Visualization for the Web by Scott Murray](https://dev.to/airtucha/book-interactive-data-visualization-for-the-web-by-scott-murray-1gge)
+- [Unified Namespace &lpar;UNS&rpar;: A Comprehensive Exploration](https://dev.to/juslee/unified-namespace-uns-a-comprehensive-exploration-32nk)
+- [UI Testing Excellence: A Comprehensive Guide to Enhancing User Experiences](https://dev.to/misterankit/ui-testing-excellence-a-comprehensive-guide-to-enhancing-user-experiences-4dgm)
+- [Bootstrap: Customizing Tooltips](https://dev.to/tailwine/bootstrap-customizing-tooltips-3k2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
