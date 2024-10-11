@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deno 2 is Finally Here: Key Highlights](https://dev.to/grenishrai/deno-2-is-finally-here-key-highlights-35ml)
-- [5 JavaScript Patterns Every Developer Should Know in 2024](https://dev.to/shafayeat/5-javascript-patterns-every-developer-should-know-in-2024-1n11)
-- [Understanding JavaScript&#39;s Event Loop: A Simple Cookie-Making Analogy 🍪](https://dev.to/ichintansoni/understanding-javascripts-event-loop-a-simple-cookie-making-analogy-3485)
-- [Batch Gradient Descent examples without `DataLoader&lpar;&rpar;` in PyTorch](https://dev.to/hyperkai/batch-gradient-descent-examples-without-dataloader-in-pytorch-51i6)
-- [Building a React Text Comparison Tool - From POC to NPM Package](https://dev.to/creowistech/building-a-react-text-comparison-tool-from-poc-to-npm-package-24p8)
+- [Software for MacOS Developers that cannot Miss, Once More](https://dev.to/angelaswift/software-for-macos-developers-that-cannot-miss-once-more-2jfa)
+- [#71 — Take Values of Adjacent Rows in The Same Group &lpar;Search &amp; Filter within Adjacent Intervals&rpar;](https://dev.to/judith677/71-take-values-of-adjacent-rows-in-the-same-group-search-filter-within-adjacent-intervals-3ia1)
+- [Shell Scripting Mastery: 5 Hands-On Linux Lab Tutorials](https://dev.to/labex/shell-scripting-mastery-5-hands-on-linux-lab-tutorials-5f4p)
+- [Explaining Pods in Kubernetes](https://dev.to/pkutaj/explaining-pods-in-kubernetes-2mh4)
+- [Golden-Retriever: High-Fidelity Agentic Retrieval Augmented Generation for Industrial Knowledge Base](https://dev.to/tutti/golden-retriever-high-fidelity-agentic-retrieval-augmented-generation-for-industrial-knowledge-base-3nl8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
