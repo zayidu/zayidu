@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [962. Maximum Width Ramp](https://dev.to/mdarifulhaque/962-maximum-width-ramp-2e56)
-- [IT Security Made Simple: Protecting Your Digital Life Like a Pro! 🔒](https://dev.to/enzo_dechaene/it-security-made-simple-protecting-your-digital-life-like-a-pro-5f4g)
-- [🚧 Desarrollo de Rappy Minimarket: Un E-commerce en Construcción 🛠️](https://dev.to/pedroza25/desarrollo-de-rappy-minimarket-un-e-commerce-en-construccion-44ma)
-- [🚧 Desarrollo de Rappy Minimarket: Un E-commerce en Construcción 🛠️](https://dev.to/pedroza25/desarrollo-de-rappy-minimarket-un-e-commerce-en-construccion-3efd)
-- [🚧 Desarrollo de Rappy Minimarket: Un E-commerce en Construcción 🛠️](https://dev.to/pedroza25/desarrollo-de-rappy-minimarket-un-e-commerce-en-construccion-4hh1)
+- [Building a React Text Comparison Tool - From POC to NPM Package](https://dev.to/creowistech/building-a-react-text-comparison-tool-from-poc-to-npm-package-24p8)
+- [Why Roof Inspections Are a Must After a Hurricane Hits Florida](https://dev.to/josef_doctorovitz_9f17b26/why-roof-inspections-are-a-must-after-a-hurricane-hits-florida-114p)
+- [Analyze Taint Analysis Faster with Improved Contextual Dataflow in Snyk Code](https://dev.to/snyk/analyze-taint-analysis-faster-with-improved-contextual-dataflow-in-snyk-code-53eb)
+- [Filament Breezy: set storage disk for avatar](https://dev.to/syahzul/filament-breezy-set-storage-disk-for-avatar-3ee7)
+- [Replace All Duplicates of Each Word with Underlines #eg55](https://dev.to/esproc_spl/replace-all-duplicates-of-each-word-with-underlines-eg55-2e9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
