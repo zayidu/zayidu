@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Spaghetti Code: What It Is, Why It Happens, and How to Avoid It](https://dev.to/teclearn/spaghetti-code-what-it-is-why-it-happens-and-how-to-avoid-it-5flf)
-- [Data Types](https://dev.to/asilbek_ibragimov_a0c27cc/data-types-4n2f)
-- [Class va Object](https://dev.to/asilbek_ibragimov_a0c27cc/class-va-object-flk)
-- [Improving Code Quality with Linting](https://dev.to/jamesives/improving-code-quality-with-linting-4no1)
-- [First Money Transfer with SMS: How Did It Happen Without the Internet? 👀](https://dev.to/agitrubard/first-money-transfer-with-sms-how-did-it-happen-without-the-internet-2pfp)
+- [Loops](https://dev.to/asilbek_ibragimov_a0c27cc/loops-2i1h)
+- [6. Loops&lpar;for, while, do while&rpar;](https://dev.to/sunnat_qayumov/6-loopsfor-while-do-while-2cgd)
+- [Operators&lpar;if, else if, else, ternary operator, switch&rpar;](https://dev.to/sabrina_abcdna123/operatorsif-else-if-else-ternary-operator-switch-5719)
+- [Hacktoberfest 2024: Code Templates and Win Rewards 🎉](https://dev.to/waveplay/hacktoberfest-2024-code-templates-and-win-rewards-166n)
+- [5.Operators &lpar;if, else if, else, ternary operator, switch&rpar;](https://dev.to/firdavs_mukhsimov_9f62550/5operators-if-else-if-else-ternary-operator-switch-o2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
