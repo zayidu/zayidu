@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking Away from JSON: A New Approach to Data Transport in Web Development](https://dev.to/oftensometimes/breaking-away-from-json-a-new-approach-to-data-transport-in-web-development-1mbp)
-- [Working with WebSocket using Nodejs](https://dev.to/keshav___dev/working-with-websocket-using-nodejs-db5)
-- [This Next.js blog template is awesome.](https://dev.to/nextjser/this-nextjs-blog-template-is-awesome-ija)
-- [Computer Vision Meetup: RGB-X Model Development: Exploring Four Channel ML Workflows](https://dev.to/voxel51/computer-vision-meetup-rgb-x-model-development-exploring-four-channel-ml-workflows-5hne)
-- [Building a Minimal Blog with Query](https://dev.to/gc-victor/building-a-minimal-blog-with-query-2hj9)
+- [How to Use Goroutines for Concurrent Processing in Go](https://dev.to/neelp03/how-to-use-goroutines-for-concurrent-processing-in-go-34ph)
+- [Develop on a branch of your remote cluster with Tilt and Kardinal](https://dev.to/tc87/develop-on-a-branch-of-your-remote-cluster-with-tilt-and-kardinal-59mh)
+- [OAuth and OpenID Connect: Protecting User Authentication Properly](https://dev.to/okoye_ndidiamaka_5e3b7d30/oauth-and-openid-connect-protecting-user-authentication-properly-2mcm)
+- [OTEL Auto Instrumentation Demo for SpringBoot](https://dev.to/aws-builders/otel-auto-instrumentation-demo-for-springboot-gmk)
+- [Mapping inheritance hierarchies with MapStruct](https://dev.to/jholsch/mapping-inheritance-hierarchies-with-mapstruct-7p0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
