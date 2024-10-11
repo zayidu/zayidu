@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Make User List UI design In Bootstrap?](https://dev.to/arsalanmee/how-to-make-user-list-ui-design-in-bootstrap-cmd)
-- [How to document like your life depends on it](https://dev.to/schepelin/how-to-document-like-your-life-depends-on-it-ni1)
-- [My First Hacktoberfest Experience](https://dev.to/deeksha_shakyawal/my-first-hacktoberfest-experience-22a7)
-- [Embracing Micro Frontends: Simplifying Large-Scale Projects](https://dev.to/pavithra_sandamini/embracing-micro-frontends-simplifying-large-scale-projects-5d2o)
-- [How AI Is Changing Fiction Writing](https://dev.to/jonaslee/how-ai-is-changing-fiction-writing-3c92)
+- [How to Implement And Validate Your Site Speed Optimization Efforts](https://dev.to/pmbanugo/how-to-implement-and-validate-your-site-speed-optimization-efforts-90j)
+- [From &#39;Hello World&#39; to &#39;Goodbye Social Life&#39;: Reclaiming Your Time in Tech](https://dev.to/techbalance_collective/from-hello-world-to-goodbye-social-life-reclaiming-your-time-in-tech-1fk)
+- [C# Design Pattern: Memento](https://dev.to/juarezasjunior/c-design-pattern-memento-4jc)
+- [C# Design Pattern: Memento &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-memento-portugues-2a0e)
+- [Exploring React Native Navigation with Expo: A Complete Guide](https://dev.to/vrinch/exploring-react-native-navigation-with-expo-a-complete-guide-4o91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
