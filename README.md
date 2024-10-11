@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement And Validate Your Site Speed Optimization Efforts](https://dev.to/pmbanugo/how-to-implement-and-validate-your-site-speed-optimization-efforts-90j)
-- [From &#39;Hello World&#39; to &#39;Goodbye Social Life&#39;: Reclaiming Your Time in Tech](https://dev.to/techbalance_collective/from-hello-world-to-goodbye-social-life-reclaiming-your-time-in-tech-1fk)
-- [C# Design Pattern: Memento](https://dev.to/juarezasjunior/c-design-pattern-memento-4jc)
-- [C# Design Pattern: Memento &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-memento-portugues-2a0e)
-- [Exploring React Native Navigation with Expo: A Complete Guide](https://dev.to/vrinch/exploring-react-native-navigation-with-expo-a-complete-guide-4o91)
+- [Lit - Lighting Fast Web Components](https://dev.to/jbutz/lit-lighting-fast-web-components-345l)
+- [Capítulo 1 Clean Code: Uma análise do livro por capítulo](https://dev.to/print_ana/clean-code-uma-analise-do-livro-por-capitulo-14ce)
+- [All About Conversational Artificial Intelligence &lpar;AI&rpar;](https://dev.to/techdogs_inc/all-about-conversational-artificial-intelligence-ai-khd)
+- [This Week In React #204 : React at Meta, Next.js, StyleX, Mitosis, One, Hermes, Zeego, Nitro, TC39, Vite, Deno...](https://dev.to/sebastienlorber/this-week-in-react-204-react-at-meta-nextjs-stylex-mitosis-one-hermes-zeego-nitro-tc39-vite-deno-1moc)
+- [Domínio próprio: Ideias de empreendedorismo para ganhar dinheiro em 2025](https://dev.to/gustavo_gallas_4e45019b5c/dominio-proprio-ideias-de-empreendedorismo-para-ganhar-dinheiro-em-2025-2jkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
