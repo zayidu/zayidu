@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Deno 2 is Finally Here: Key Highlights](https://dev.to/grenishrai/deno-2-is-finally-here-key-highlights-35ml)
+- [5 JavaScript Patterns Every Developer Should Know in 2024](https://dev.to/shafayeat/5-javascript-patterns-every-developer-should-know-in-2024-1n11)
+- [Understanding JavaScript&#39;s Event Loop: A Simple Cookie-Making Analogy 🍪](https://dev.to/ichintansoni/understanding-javascripts-event-loop-a-simple-cookie-making-analogy-3485)
+- [Batch Gradient Descent examples without `DataLoader&lpar;&rpar;` in PyTorch](https://dev.to/hyperkai/batch-gradient-descent-examples-without-dataloader-in-pytorch-51i6)
 - [Building a React Text Comparison Tool - From POC to NPM Package](https://dev.to/creowistech/building-a-react-text-comparison-tool-from-poc-to-npm-package-24p8)
-- [Why Roof Inspections Are a Must After a Hurricane Hits Florida](https://dev.to/josef_doctorovitz_9f17b26/why-roof-inspections-are-a-must-after-a-hurricane-hits-florida-114p)
-- [Analyze Taint Analysis Faster with Improved Contextual Dataflow in Snyk Code](https://dev.to/snyk/analyze-taint-analysis-faster-with-improved-contextual-dataflow-in-snyk-code-53eb)
-- [Filament Breezy: set storage disk for avatar](https://dev.to/syahzul/filament-breezy-set-storage-disk-for-avatar-3ee7)
-- [Replace All Duplicates of Each Word with Underlines #eg55](https://dev.to/esproc_spl/replace-all-duplicates-of-each-word-with-underlines-eg55-2e9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
