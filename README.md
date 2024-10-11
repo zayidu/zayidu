@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to enable/disable PHP native functions – php.ini Tutorial](https://dev.to/inspector/how-to-enabledisable-php-native-functions-phpini-tutorial-kpg)
-- [Easy examples of LINQ Best Practices for Senior .NET Developers](https://dev.to/bytehide/easy-examples-of-linq-best-practices-for-senior-net-developers-fja)
-- [Mastering API Design: Best Practices for Developers](https://dev.to/walse/mastering-api-design-best-practices-for-developers-4m7k)
-- [Managing Requests State in Angular with RxJS and Adapters](https://dev.to/nikosanif/managing-requests-state-in-angular-with-rxjs-and-adapters-4333)
-- [How to Deploy a WordPress website on AWS Cloud&lpar;Elastic Compute Cloud&rpar;.](https://dev.to/mehsanullahx/how-to-deploy-a-wordpress-website-on-aws-cloudelastic-compute-cloud-3jpd)
+- [How To Make User List UI design In Bootstrap?](https://dev.to/arsalanmee/how-to-make-user-list-ui-design-in-bootstrap-cmd)
+- [How to document like your life depends on it](https://dev.to/schepelin/how-to-document-like-your-life-depends-on-it-ni1)
+- [My First Hacktoberfest Experience](https://dev.to/deeksha_shakyawal/my-first-hacktoberfest-experience-22a7)
+- [Embracing Micro Frontends: Simplifying Large-Scale Projects](https://dev.to/pavithra_sandamini/embracing-micro-frontends-simplifying-large-scale-projects-5d2o)
+- [How AI Is Changing Fiction Writing](https://dev.to/jonaslee/how-ai-is-changing-fiction-writing-3c92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
