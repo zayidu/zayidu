@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Goroutines for Concurrent Processing in Go](https://dev.to/neelp03/how-to-use-goroutines-for-concurrent-processing-in-go-34ph)
-- [Develop on a branch of your remote cluster with Tilt and Kardinal](https://dev.to/tc87/develop-on-a-branch-of-your-remote-cluster-with-tilt-and-kardinal-59mh)
-- [OAuth and OpenID Connect: Protecting User Authentication Properly](https://dev.to/okoye_ndidiamaka_5e3b7d30/oauth-and-openid-connect-protecting-user-authentication-properly-2mcm)
-- [OTEL Auto Instrumentation Demo for SpringBoot](https://dev.to/aws-builders/otel-auto-instrumentation-demo-for-springboot-gmk)
-- [Mapping inheritance hierarchies with MapStruct](https://dev.to/jholsch/mapping-inheritance-hierarchies-with-mapstruct-7p0)
+- [Building Your First Web Application: A Step-by-Step Guide](https://dev.to/asimachowdhury/building-your-first-web-application-a-step-by-step-guide-3po8)
+- [The Art of Code Reviews: How I Learned to Grow Beyond My Ego](https://dev.to/john_6e285121bf6cd2a57f77/the-art-of-code-reviews-how-i-learned-to-grow-beyond-my-ego-3d12)
+- [buildDesignSystem fn in Tailwind CSS source code.](https://dev.to/thinkthroo/builddesignsystem-fn-in-tailwind-css-source-code-42gb)
+- [Start a homelab &lpar;for beginners&rpar;](https://dev.to/decentropy/start-a-homelab-for-beginners-4pno)
+- [Update and delete records on a DWN](https://dev.to/chrissiku/update-and-delete-records-on-a-dwn-24n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
