@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing the overflow hidden for dropdowns/tooltips etc](https://dev.to/sp90/fixing-the-overflow-hidden-for-dropdownstooltips-etc-499)
-- [Choosing the Right Proxy Provider in 2024](https://dev.to/lewis_kerr_2d0d4c5b886b02/choosing-the-right-proxy-provider-in-2024-3l2l)
-- [Deploying High Availability SafeLine WAF on K3s&lpar;Part 3&rpar;](https://dev.to/carrie_luo1/deploying-high-availability-safeline-waf-on-k3spart-3-12bj)
-- [The Role of Blockchain in Fintech: Top Development Companies Making a Difference](https://dev.to/kzier/the-role-of-blockchain-in-fintech-top-development-companies-making-a-difference-33ja)
-- [Seeking Web Developers for a Community-Driven Educational Platform &lpar;Pro Bono/Volunteer&rpar;](https://dev.to/s-xaashi/seeking-web-developers-for-a-community-driven-educational-platform-pro-bonovolunteer-1c14)
+- [How to enable/disable PHP native functions – php.ini Tutorial](https://dev.to/inspector/how-to-enabledisable-php-native-functions-phpini-tutorial-kpg)
+- [Easy examples of LINQ Best Practices for Senior .NET Developers](https://dev.to/bytehide/easy-examples-of-linq-best-practices-for-senior-net-developers-fja)
+- [Mastering API Design: Best Practices for Developers](https://dev.to/walse/mastering-api-design-best-practices-for-developers-4m7k)
+- [Managing Requests State in Angular with RxJS and Adapters](https://dev.to/nikosanif/managing-requests-state-in-angular-with-rxjs-and-adapters-4333)
+- [How to Deploy a WordPress website on AWS Cloud&lpar;Elastic Compute Cloud&rpar;.](https://dev.to/mehsanullahx/how-to-deploy-a-wordpress-website-on-aws-cloudelastic-compute-cloud-3jpd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
