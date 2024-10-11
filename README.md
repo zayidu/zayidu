@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to build AI assisted blog from scratch](https://dev.to/ivictbor/learn-how-to-build-ai-assisted-blog-from-scratch-4fl1)
-- [Navigating Enterprise-Level Software Development with AI](https://dev.to/get_pieces/navigating-enterprise-level-software-development-with-ai-old)
-- [The Enigma of “Ghost” Jobs in the IT Market: A Frustrating Reality for Technology Professionals](https://dev.to/kayon_ariel/the-enigma-of-ghost-jobs-in-the-it-market-a-frustrating-reality-for-technology-professionals-53e0)
-- [Memorizing on my first days learning how to code..](https://dev.to/roy_weru/memorizing-on-my-first-days-learning-how-to-code-1he1)
-- [Finding Double Existence and Applying Luhn&#39;s Algorithm](https://dev.to/aplgr/finding-double-existence-and-applying-luhns-algorithm-44o3)
+- [The Evolution of Wearable Tech: What’s Next for 2024? ⌚🧬](https://dev.to/mohdsajjadzakirr/the-evolution-of-wearable-tech-whats-next-for-2024-3pbo)
+- [DevOps Tools to Streamline Your CI/CD Pipeline 🔄🛠️](https://dev.to/mohdsajjadzakirr/devops-tools-to-streamline-your-cicd-pipeline-2bf5)
+- [Game-Changing AI Tools to Boost Your Development Workflow 🧠💡](https://dev.to/mohdsajjadzakirr/10-game-changing-ai-tools-to-boost-your-development-workflow-1ib4)
+- [JAX vs PyTorch: Comparing Two Powerhouses in ML Frameworks](https://dev.to/get_pieces/jax-vs-pytorch-comparing-two-powerhouses-in-ml-frameworks-70g)
+- [Responsive React Dashboard with Tailwind](https://dev.to/kingsley_joseph_9410/responsive-react-dashboard-with-tailwind-24pg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
