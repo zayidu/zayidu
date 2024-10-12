@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginner Challenge](https://dev.to/monalicous/beginner-challenge-2ggg)
+- [Day 1 of 365 &lpar;10 Million Yen Japan Career Switch Challenge&rpar;](https://dev.to/kameken100/day-1-of-365-10-million-yen-japan-career-switch-challenge-3mkj)
+- [Materialized View in SQL](https://dev.to/mrcaption49/materialized-view-in-sql-12io)
 - [Avoid Costly Loops in AWS Step Functions](https://dev.to/aws-builders/avoid-costly-loops-in-aws-step-functions-3eon)
-- [Prototype Design Pattern](https://dev.to/srishtikprasad/prototype-design-pattern-4c2i)
-- [Slack Notifications at 3 AM? It&#39;s Time to Debug Your Work-Life Balance](https://dev.to/techbalance_collective/slack-notifications-at-3-am-its-time-to-debug-your-work-life-balance-48o2)
-- [C# Design Pattern: Observer](https://dev.to/juarezasjunior/c-design-pattern-observer-4m2f)
-- [C# Design Pattern: Observer &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-observer-portugues-1lj2)
+- [Happy Dusshera Animation](https://dev.to/prince_beec5ccde00b7c6c73/happy-dusshera-animation-4h62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
