@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [【Interview Essentials】Common JavaScript Interview Questions](https://dev.to/jessie_chen/interview-essentials-common-javascript-interview-questions-585h)
-- [Embracing the Future of Development](https://dev.to/karleeov/embracing-the-future-of-development-1lga)
-- [DDR5 Speed, CPU and LLM Inference](https://dev.to/maximsaplin/ddr5-speed-and-llm-inference-3cdn)
-- [Best Practices for GanosBase Real-Time Heatmap Aggregation Query](https://dev.to/lara_li_b856f87e31a0c2caf/best-practices-for-ganosbase-real-time-heatmap-aggregation-query-82d)
-- [Diệt mối quận7](https://dev.to/dietmoiquan7/diet-moi-quan7-ekp)
+- [🔐 Information Security and Data Privacy: Protect Your Online Information](https://dev.to/izabellalbuquerque/information-security-and-data-privacy-protect-your-online-information-266p)
+- [API Versioning can Never Be Easier!](https://dev.to/apilover/api-versioning-can-never-be-easier-4j9p)
+- [Update JSON file using Terminal or bash script](https://dev.to/basskibo/update-json-file-via-terminal-or-bash-script-3clm)
+- [Difference Between DevOps and Full-Stack Engineer: Roles, Responsibilities, and Key Skills](https://dev.to/abhinowww/difference-between-devops-and-full-stack-engineer-roles-responsibilities-and-key-skills-1dcl)
+- [Mysql vs SQLite](https://dev.to/clever/mysql-vs-sqlite-20mm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
