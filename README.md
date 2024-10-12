@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SnipShot: A Stylish Code Snippet Uploader Using Pinata IPFS](https://dev.to/mitchiemt11/snipshot-a-stylish-code-snippet-uploader-using-pinata-ipfs-4emm)
-- [From Manual to Automatic: The Magic of CI/CD Pipelines! 🤯](https://dev.to/rowan_ibrahim/from-manual-to-automatic-the-magic-of-cicd-pipelines-21hb)
-- [## SOS! My brain needs a reboot! 🤯](https://dev.to/samaaburahma/-sos-my-brain-needs-a-reboot-579a)
-- [AI Powered Sprint Retrospective Ice Breaker Questions](https://dev.to/mattlewandowski93/ai-powered-sprint-retrospective-ice-breaker-questions-3mma)
-- [RECORD vs COLLECTION in PLSQL](https://dev.to/mrcaption49/record-vs-collection-in-plsql-4cnb)
+- [How to write a great one-pager](https://dev.to/winstonpuckett/how-to-write-a-great-one-pager-1edj)
+- [Productivity Tools to have #1: Google Keep](https://dev.to/saifullahusmani/productivity-tools-to-have-1-google-keep-266n)
+- [Why Vivaldi Might Be the Browser You&#39;ve Been Waiting For](https://dev.to/marrouchi/why-vivaldi-might-be-the-browser-youve-been-waiting-for-4n4j)
+- [2406. Divide Intervals Into Minimum Number of Groups](https://dev.to/mdarifulhaque/2406-divide-intervals-into-minimum-number-of-groups-3bb9)
+- [📊Power BI: Introdução](https://dev.to/fabiana_lima/power-bi-introducao-3me1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
