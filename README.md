@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fintech: Introduction](https://dev.to/ashrafamer/fintech-introduction-3n2i)
-- [Introduction to the Julia Programming Language](https://dev.to/kartikmehta8/introduction-to-the-julia-programming-language-2bk)
-- [Brief Overview of HTTP, Internet Protocols, and Web Architecture](https://dev.to/otamm/brief-overview-of-http-internet-protocols-and-web-architecture-4fg8)
-- [Hacktoberfest Week 1](https://dev.to/jinger-ale/hacktoberfest-week-1-39h6)
-- [Recursive CTE PART 2](https://dev.to/mrcaption49/recursive-cte-part-2-3jg5)
+- [Promises in JavaScript, A Guide for 2024](https://dev.to/shafayeat/promises-in-javascript-a-guide-for-2024-3fih)
+- [Lab 5 - Refactoring](https://dev.to/cduarte3/lab-5-refactoring-4nd9)
+- [Starting at Frontend Developer career!](https://dev.to/vinzsmok3/starting-at-frontend-developer-career-5ci)
+- [Simple Blockchain Implementation in Go](https://dev.to/victorpaularony/simple-blockchain-implementation-in-go-2ga7)
+- [Building a python backend with ChatGTP - Or not.](https://dev.to/n13/building-a-python-backend-with-chatgtp-or-not-2hdh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
