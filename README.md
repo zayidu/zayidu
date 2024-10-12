@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Name Simple Registry: Solidity vs Aptos Move](https://dev.to/dariaag/building-a-name-simple-registry-solidity-vs-aptos-move-276k)
-- [NoisOCR: A Python Library for Simulating Post-OCR Noisy Texts](https://dev.to/savi8sant8s/noisocr-a-python-library-for-simulating-post-ocr-noisy-texts-52fd)
-- [#1 Первый урок](https://dev.to/nmatlubov/1-piervyi-urok-23ej)
-- [The Pinata Challenge: Pinata File Hub - Seamless File Management &amp; Uploads](https://dev.to/akash5523/the-pinata-challenge-pinata-file-hub-seamless-file-management-uploads-1dee)
-- [Methods to create Objects in JavaScript](https://dev.to/nkumarm/methods-to-create-objects-in-javascript-48a0)
+- [How Much HTML, CSS &amp; JavaScript You Need to Know to Get Hired as a Developer](https://dev.to/dhanushnehru/how-much-html-css-javascript-you-need-to-know-to-get-hired-as-a-developer-168m)
+- [Achieving Android 15 Edge to Edge compatibility for your React Native App.](https://dev.to/gautham495/achieving-android-15-edge-to-edge-compatibility-for-your-react-native-app-2ile)
+- [Functional Testing as a Design Tool for Full Stack Projects. Part II: API server and Project Release](https://dev.to/saratoga/functional-testing-as-a-design-tool-for-full-stack-projects-part-ii-api-server-and-project-release-358l)
+- [Introducing Ready - Upload PDF &amp; Read Anywhere](https://dev.to/sumansourabh48/introducing-ready-upload-pdf-read-anywhere-4jk1)
+- [What is Git Reset?](https://dev.to/meghasharmaaaa/what-is-git-reset-25n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
