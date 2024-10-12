@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Database driven task &amp; membership](https://dev.to/loveliberty/database-driven-task-membership-1cco)
-- [Cracking Open Go&#39;s Crypto Toolbox, Go Crypto 2](https://dev.to/rezmoss/cracking-open-gos-crypto-toolbox-go-crypto-2-50cn)
-- [A Voyage through Algorithms using Javascript - Insertion Sort](https://dev.to/humblecoder00/a-voyage-through-algorithms-using-javascript-insertion-sort-5ic)
-- [Exploring Deno 2: Features, Benefits, and Getting Started](https://dev.to/runtime_terrors/exploring-deno-2-features-benefits-and-getting-started-2n3d)
-- [Search alias or find alias in zsh plugins](https://dev.to/vuong/search-alias-or-find-alias-in-zsh-plugins-5h13)
+- [ServBay Version 1.4.6 Upgrade Announcement](https://dev.to/servbay/servbay-version-146-upgrade-announcement-j8h)
+- [Say No to Mouse: Vs code shortcuts for easing coding](https://dev.to/keshav___dev/say-no-to-mouse-vs-code-extensions-for-easing-coding-ckm)
+- [Angular Fundamentals: Understanding Angular Component Lifecycle](https://dev.to/moh_moh701/angular-fundamentals-understanding-angular-component-lifecycle-1d91)
+- [Optimizing Your Neural Networks](https://dev.to/samder/optimizing-your-neural-networks-133h)
+- [Free Web Hosting?](https://dev.to/thecodingboy/free-web-hosting-208o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
