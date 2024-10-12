@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleash Your Shell Scripting Prowess with the &#39;Shell Practice Labs&#39; Course](https://dev.to/labex/unleash-your-shell-scripting-prowess-with-the-shell-practice-labs-course-3ef9)
-- [Building a Fraud Detection System in Python with Machine Learning](https://dev.to/agustin_bereciartua_d19f7/building-a-fraud-detection-system-in-python-with-machine-learning-1p3n)
-- [Top 5 Frameworks for Building AI Agents in 2024](https://dev.to/thenomadevel/top-5-frameworks-for-building-ai-agents-in-2024-g2m)
-- [JavaScript String Manipulation: How to Use Split, Reverse, and Join](https://dev.to/ofthewildfire/javascript-string-manipulation-how-to-use-split-reverse-and-join-4ojf)
-- [request for a mentor](https://dev.to/mauriciousfrimpong/request-for-a-mentor-cfa)
+- [Fintech: Introduction](https://dev.to/ashrafamer/fintech-introduction-3n2i)
+- [Introduction to the Julia Programming Language](https://dev.to/kartikmehta8/introduction-to-the-julia-programming-language-2bk)
+- [Brief Overview of HTTP, Internet Protocols, and Web Architecture](https://dev.to/otamm/brief-overview-of-http-internet-protocols-and-web-architecture-4fg8)
+- [Hacktoberfest Week 1](https://dev.to/jinger-ale/hacktoberfest-week-1-39h6)
+- [Recursive CTE PART 2](https://dev.to/mrcaption49/recursive-cte-part-2-3jg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
