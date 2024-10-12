@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sealed Classes: Modern Class Grouping](https://dev.to/guldenizozdemir/sealed-classes-modern-class-grouping-3bac)
-- [How to create a sudo user](https://dev.to/syamsarosa/how-to-create-a-sudo-user-27m2)
-- [6 Best Open-Source AI Chatbot Builders 🔥](https://dev.to/marrouchi/6-best-open-source-ai-chatbot-builder-29jk)
-- [Evolução do &quot;switch case&quot; do Java 8 ao Java 21 🎯](https://dev.to/lorenagc/evolucao-do-switch-case-do-java-8-ao-java-21-1ece)
-- [Boost Your Productivity in 2024 with These FREE AI Tools!](https://dev.to/bizmavenhub/boost-your-productivity-in-2024-with-these-free-ai-tools-4724)
+- [【Interview Essentials】Common JavaScript Interview Questions](https://dev.to/jessie_chen/interview-essentials-common-javascript-interview-questions-585h)
+- [Embracing the Future of Development](https://dev.to/karleeov/embracing-the-future-of-development-1lga)
+- [DDR5 Speed, CPU and LLM Inference](https://dev.to/maximsaplin/ddr5-speed-and-llm-inference-3cdn)
+- [Best Practices for GanosBase Real-Time Heatmap Aggregation Query](https://dev.to/lara_li_b856f87e31a0c2caf/best-practices-for-ganosbase-real-time-heatmap-aggregation-query-82d)
+- [Diệt mối quận7](https://dev.to/dietmoiquan7/diet-moi-quan7-ekp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
