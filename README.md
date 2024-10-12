@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Much HTML, CSS &amp; JavaScript You Need to Know to Get Hired as a Developer](https://dev.to/dhanushnehru/how-much-html-css-javascript-you-need-to-know-to-get-hired-as-a-developer-168m)
-- [Achieving Android 15 Edge to Edge compatibility for your React Native App.](https://dev.to/gautham495/achieving-android-15-edge-to-edge-compatibility-for-your-react-native-app-2ile)
-- [Functional Testing as a Design Tool for Full Stack Projects. Part II: API server and Project Release](https://dev.to/saratoga/functional-testing-as-a-design-tool-for-full-stack-projects-part-ii-api-server-and-project-release-358l)
-- [Introducing Ready - Upload PDF &amp; Read Anywhere](https://dev.to/sumansourabh48/introducing-ready-upload-pdf-read-anywhere-4jk1)
-- [What is Git Reset?](https://dev.to/meghasharmaaaa/what-is-git-reset-25n3)
+- [Day 33. Generic response](https://dev.to/kiolk/day-33-generic-response-2d2h)
+- [🔗 useCallback: Keeping Your Functions in Check, Literally 🧑‍💻](https://dev.to/_akashkmt_/usecallback-keeping-your-functions-in-check-literally-51gj)
+- [Latest Updates: DePIN Framework](https://dev.to/evire/latest-updates-depin-framework-3ma3)
+- [Interactive stock market S&amp;P 500 line chart using Bokeh, Python, JS, Pyscript and a movable angle finder for Trend Line Analysis](https://dev.to/rickdelpo1/interactive-stock-market-sp-500-line-chart-using-bokeh-python-js-pyscript-and-a-movable-angle-finder-for-trend-line-analysis-1k6a)
+- [API vs SDK: Understanding Their Distinct Roles in Software Development](https://dev.to/alisamir/api-vs-sdk-understanding-their-distinct-roles-in-software-development-416h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
