@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Executive and Employee Leadership Framework Applied in my Cloud Team](https://dev.to/arindam0310018/executive-and-employee-leadership-framework-applied-in-my-cloud-team-f0a)
-- [Celery | Redis | WebSocket in Django with Docker](https://dev.to/thehormat/celery-redis-websocket-in-django-with-docker-1li3)
-- [&quot;Hacktoberfest 2024: A Journey of Growth and Collaboration&quot;](https://dev.to/arnab825/hacktoberfest-2024-a-journey-of-growth-and-collaboration-1bl6)
-- [Making most of Microsoft Campus Ambassador Program](https://dev.to/beingwizard/making-most-of-microsoft-campus-ambassador-program-4iii)
-- [Nova jornada!](https://dev.to/melanolachef/nova-jornada-23k2)
+- [SnipShot: A Stylish Code Snippet Uploader Using Pinata IPFS](https://dev.to/mitchiemt11/snipshot-a-stylish-code-snippet-uploader-using-pinata-ipfs-4emm)
+- [From Manual to Automatic: The Magic of CI/CD Pipelines! 🤯](https://dev.to/rowan_ibrahim/from-manual-to-automatic-the-magic-of-cicd-pipelines-21hb)
+- [## SOS! My brain needs a reboot! 🤯](https://dev.to/samaaburahma/-sos-my-brain-needs-a-reboot-579a)
+- [AI Powered Sprint Retrospective Ice Breaker Questions](https://dev.to/mattlewandowski93/ai-powered-sprint-retrospective-ice-breaker-questions-3mma)
+- [RECORD vs COLLECTION in PLSQL](https://dev.to/mrcaption49/record-vs-collection-in-plsql-4cnb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
