@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Configure an Open Source WAF, SafeLine](https://dev.to/carrie_luo1/how-to-configure-an-open-source-waf-safeline-3djo)
-- [Deno 2.0 Takes Flight](https://dev.to/mitchiemt11/deno-20-takes-flight-4ij3)
-- [Refactor a code factor](https://dev.to/add00_3/refactor-a-code-factor-3igd)
-- [Membuat Landing Page Sederhana dan Cepat dengan ReactJS, Vite, dan Tailwind CSS](https://dev.to/ramadhan002/membuat-landing-page-sederhana-dan-cepat-dengan-reactjs-vite-dan-tailwind-css-4d01)
-- [Code Against the Clock: How I Cut Our Marketing Team’s Daily Chores with Automation](https://dev.to/programmerraja/code-against-the-clock-how-i-cut-our-marketing-teams-daily-chores-with-automation-6ll)
+- [Ultimate Guide: How Can You Protect Your Home Computer Today?](https://dev.to/murtaza786/ultimate-guide-how-can-you-protect-your-home-computer-today-4bkh)
+- [🎉 Wow! Today my open source project reached 5K Star!](https://dev.to/nihaojob/wow-today-my-open-source-project-reached-5k-star-3o4l)
+- [Refactoring: My Journey Through Lab 5](https://dev.to/msaluja/refactoring-my-journey-through-lab-5-1noh)
+- [Dive into the Wonders of Laravel with This Comprehensive Course! 🚀](https://dev.to/getvm/dive-into-the-wonders-of-laravel-with-this-comprehensive-course-ag7)
+- [The Ultimate Guide to Mastering Java 8 in One Go &lpar;With Laughs Along the Way&rpar;](https://dev.to/wittedtech-by-harshit/the-ultimate-guide-to-mastering-java-8-in-one-go-with-laughs-along-the-way-35gk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
