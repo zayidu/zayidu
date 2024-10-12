@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Think Like a Problem Solver, Not the Best Programmer](https://dev.to/jenueldev/think-like-a-problem-solver-not-the-best-programmer-6po)
-- [Python For Beginners](https://dev.to/yashrajxdev/python-for-beginners-5c59)
-- [The Only Electron Framework You&#39;ll Ever Need: Introducing the Ideal Electron Framework](https://dev.to/rajaniraiyn/the-only-electron-framework-youll-ever-need-introducing-the-ideal-electron-framework-37jg)
-- [Using CSS Variables for Theme Customisation](https://dev.to/dualitedev/using-css-variables-for-theme-customisation-5aoj)
-- [Override and Mock Network Responses in DevTools](https://dev.to/geraldhamiltonwicks/override-and-mock-network-responses-in-devtools-166m)
+- [Writing XUnit Tests without Object Arrays](https://dev.to/xceed/writing-xunit-tests-without-object-arrays-clean-and-scalable-test-data-jk)
+- [Importmap or jsbundling? I use both](https://dev.to/chloerei/importmap-or-jsbundling-i-use-both-47pd)
+- [Creating NFT Artworks with Pinata](https://dev.to/coderralph/creating-nft-artworks-with-pinata-4c9k)
+- [Creating NFT Artworks with Pinata](https://dev.to/coderralph/creating-nft-artworks-with-pinata-26d1)
+- [Introducing k8s-pod-cpu-stressor: Simplify CPU Load Testing in Kubernetes](https://dev.to/narmidm/introducing-k8s-pod-cpu-stressor-simplify-cpu-load-testing-in-kubernetes-1629)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
