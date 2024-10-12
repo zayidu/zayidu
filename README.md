@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Promises in JavaScript, A Guide for 2024](https://dev.to/shafayeat/promises-in-javascript-a-guide-for-2024-3fih)
-- [Lab 5 - Refactoring](https://dev.to/cduarte3/lab-5-refactoring-4nd9)
-- [Starting at Frontend Developer career!](https://dev.to/vinzsmok3/starting-at-frontend-developer-career-5ci)
-- [Simple Blockchain Implementation in Go](https://dev.to/victorpaularony/simple-blockchain-implementation-in-go-2ga7)
-- [Building a python backend with ChatGTP - Or not.](https://dev.to/n13/building-a-python-backend-with-chatgtp-or-not-2hdh)
+- [How to Configure an Open Source WAF, SafeLine](https://dev.to/carrie_luo1/how-to-configure-an-open-source-waf-safeline-3djo)
+- [Deno 2.0 Takes Flight](https://dev.to/mitchiemt11/deno-20-takes-flight-4ij3)
+- [Refactor a code factor](https://dev.to/add00_3/refactor-a-code-factor-3igd)
+- [Membuat Landing Page Sederhana dan Cepat dengan ReactJS, Vite, dan Tailwind CSS](https://dev.to/ramadhan002/membuat-landing-page-sederhana-dan-cepat-dengan-reactjs-vite-dan-tailwind-css-4d01)
+- [Code Against the Clock: How I Cut Our Marketing Team’s Daily Chores with Automation](https://dev.to/programmerraja/code-against-the-clock-how-i-cut-our-marketing-teams-daily-chores-with-automation-6ll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
