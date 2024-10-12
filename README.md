@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Pull Request: My Evolving Journey in Hacktoberfest 2024 as a Contributor](https://dev.to/goyalrohit/beyond-the-pull-request-my-evolving-journey-in-hacktoberfest-2024-as-a-contributor-2lkk)
-- [Two Sum](https://dev.to/alex_a7dd8/two-sum-325i)
-- [The Beginner’s Guide to Understanding HTTP Protocol](https://dev.to/toppilot10/the-beginners-guide-to-understanding-http-protocol-3lf7)
-- [The Beginner’s Guide to Understanding HTTP Protocol](https://dev.to/purple0929/the-beginners-guide-to-understanding-http-protocol-4kp8)
-- [The Beginner’s Guide to Understanding HTTP Protocol](https://dev.to/butterflyi8/the-beginners-guide-to-understanding-http-protocol-4117)
+- [Sealed Classes: Modern Class Grouping](https://dev.to/guldenizozdemir/sealed-classes-modern-class-grouping-3bac)
+- [How to create a sudo user](https://dev.to/syamsarosa/how-to-create-a-sudo-user-27m2)
+- [6 Best Open-Source AI Chatbot Builders 🔥](https://dev.to/marrouchi/6-best-open-source-ai-chatbot-builder-29jk)
+- [Evolução do &quot;switch case&quot; do Java 8 ao Java 21 🎯](https://dev.to/lorenagc/evolucao-do-switch-case-do-java-8-ao-java-21-1ece)
+- [Boost Your Productivity in 2024 with These FREE AI Tools!](https://dev.to/bizmavenhub/boost-your-productivity-in-2024-with-these-free-ai-tools-4724)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
