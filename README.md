@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Information Security and Data Privacy: Protect Your Online Information](https://dev.to/izabellalbuquerque/information-security-and-data-privacy-protect-your-online-information-266p)
-- [API Versioning can Never Be Easier!](https://dev.to/apilover/api-versioning-can-never-be-easier-4j9p)
-- [Update JSON file using Terminal or bash script](https://dev.to/basskibo/update-json-file-via-terminal-or-bash-script-3clm)
-- [Difference Between DevOps and Full-Stack Engineer: Roles, Responsibilities, and Key Skills](https://dev.to/abhinowww/difference-between-devops-and-full-stack-engineer-roles-responsibilities-and-key-skills-1dcl)
-- [Mysql vs SQLite](https://dev.to/clever/mysql-vs-sqlite-20mm)
+- [Avoid Costly Loops in AWS Step Functions](https://dev.to/aws-builders/avoid-costly-loops-in-aws-step-functions-3eon)
+- [Prototype Design Pattern](https://dev.to/srishtikprasad/prototype-design-pattern-4c2i)
+- [Slack Notifications at 3 AM? It&#39;s Time to Debug Your Work-Life Balance](https://dev.to/techbalance_collective/slack-notifications-at-3-am-its-time-to-debug-your-work-life-balance-48o2)
+- [C# Design Pattern: Observer](https://dev.to/juarezasjunior/c-design-pattern-observer-4m2f)
+- [C# Design Pattern: Observer &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-observer-portugues-1lj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
