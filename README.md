@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing XUnit Tests without Object Arrays](https://dev.to/xceed/writing-xunit-tests-without-object-arrays-clean-and-scalable-test-data-jk)
-- [Importmap or jsbundling? I use both](https://dev.to/chloerei/importmap-or-jsbundling-i-use-both-47pd)
-- [Creating NFT Artworks with Pinata](https://dev.to/coderralph/creating-nft-artworks-with-pinata-4c9k)
-- [Creating NFT Artworks with Pinata](https://dev.to/coderralph/creating-nft-artworks-with-pinata-26d1)
-- [Introducing k8s-pod-cpu-stressor: Simplify CPU Load Testing in Kubernetes](https://dev.to/narmidm/introducing-k8s-pod-cpu-stressor-simplify-cpu-load-testing-in-kubernetes-1629)
+- [Database driven task &amp; membership](https://dev.to/loveliberty/database-driven-task-membership-1cco)
+- [Cracking Open Go&#39;s Crypto Toolbox, Go Crypto 2](https://dev.to/rezmoss/cracking-open-gos-crypto-toolbox-go-crypto-2-50cn)
+- [A Voyage through Algorithms using Javascript - Insertion Sort](https://dev.to/humblecoder00/a-voyage-through-algorithms-using-javascript-insertion-sort-5ic)
+- [Exploring Deno 2: Features, Benefits, and Getting Started](https://dev.to/runtime_terrors/exploring-deno-2-features-benefits-and-getting-started-2n3d)
+- [Search alias or find alias in zsh plugins](https://dev.to/vuong/search-alias-or-find-alias-in-zsh-plugins-5h13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
