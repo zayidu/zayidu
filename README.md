@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ServBay Version 1.4.6 Upgrade Announcement](https://dev.to/servbay/servbay-version-146-upgrade-announcement-j8h)
-- [Say No to Mouse: Vs code shortcuts for easing coding](https://dev.to/keshav___dev/say-no-to-mouse-vs-code-extensions-for-easing-coding-ckm)
-- [Angular Fundamentals: Understanding Angular Component Lifecycle](https://dev.to/moh_moh701/angular-fundamentals-understanding-angular-component-lifecycle-1d91)
-- [Optimizing Your Neural Networks](https://dev.to/samder/optimizing-your-neural-networks-133h)
-- [Free Web Hosting?](https://dev.to/thecodingboy/free-web-hosting-208o)
+- [Building a Name Simple Registry: Solidity vs Aptos Move](https://dev.to/dariaag/building-a-name-simple-registry-solidity-vs-aptos-move-276k)
+- [NoisOCR: A Python Library for Simulating Post-OCR Noisy Texts](https://dev.to/savi8sant8s/noisocr-a-python-library-for-simulating-post-ocr-noisy-texts-52fd)
+- [#1 Первый урок](https://dev.to/nmatlubov/1-piervyi-urok-23ej)
+- [The Pinata Challenge: Pinata File Hub - Seamless File Management &amp; Uploads](https://dev.to/akash5523/the-pinata-challenge-pinata-file-hub-seamless-file-management-uploads-1dee)
+- [Methods to create Objects in JavaScript](https://dev.to/nkumarm/methods-to-create-objects-in-javascript-48a0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
