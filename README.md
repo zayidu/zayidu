@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using WebSockets in Go for Real-Time Communication](https://dev.to/neelp03/using-websockets-in-go-for-real-time-communication-4b3l)
-- [8 Open-Source Tools to grow your app and reach new markets! 🔥](https://dev.to/tolgee_i18n/8-open-source-tools-to-grow-your-app-and-reach-new-markets-5036)
-- [Understanding Errors is a Super Power](https://dev.to/jenueldev/understanding-errors-is-a-super-power-ek7)
-- [a day in the life of a software engineer](https://dev.to/m3yevn/a-day-in-the-life-of-a-software-engineer-1lmh)
-- [How large number of request handled with load Balancer](https://dev.to/tech_udhaya/how-large-number-of-request-handled-with-load-balancer-3cje)
+- [Beyond the Pull Request: My Evolving Journey in Hacktoberfest 2024 as a Contributor](https://dev.to/goyalrohit/beyond-the-pull-request-my-evolving-journey-in-hacktoberfest-2024-as-a-contributor-2lkk)
+- [Two Sum](https://dev.to/alex_a7dd8/two-sum-325i)
+- [The Beginner’s Guide to Understanding HTTP Protocol](https://dev.to/toppilot10/the-beginners-guide-to-understanding-http-protocol-3lf7)
+- [The Beginner’s Guide to Understanding HTTP Protocol](https://dev.to/purple0929/the-beginners-guide-to-understanding-http-protocol-4kp8)
+- [The Beginner’s Guide to Understanding HTTP Protocol](https://dev.to/butterflyi8/the-beginners-guide-to-understanding-http-protocol-4117)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
