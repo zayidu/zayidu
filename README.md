@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to write a great one-pager](https://dev.to/winstonpuckett/how-to-write-a-great-one-pager-1edj)
-- [Productivity Tools to have #1: Google Keep](https://dev.to/saifullahusmani/productivity-tools-to-have-1-google-keep-266n)
-- [Why Vivaldi Might Be the Browser You&#39;ve Been Waiting For](https://dev.to/marrouchi/why-vivaldi-might-be-the-browser-youve-been-waiting-for-4n4j)
-- [2406. Divide Intervals Into Minimum Number of Groups](https://dev.to/mdarifulhaque/2406-divide-intervals-into-minimum-number-of-groups-3bb9)
-- [📊Power BI: Introdução](https://dev.to/fabiana_lima/power-bi-introducao-3me1)
+- [What is a Variable in Programming?](https://dev.to/m__mdy__m/what-is-a-variable-in-programming-2p8k)
+- [Dia 14 - 1.4 Sob as tampas](https://dev.to/matheusgb/dia-14-14-sob-as-tampas-4hnc)
+- [PinataShot: Multimodal LLaMA 3.2 Screenshot Categorization on Pinata IPFS](https://dev.to/jadouse5/pinatashot-multimodal-llama-32-screenshot-categorization-on-pinata-ipfs-2ip2)
+- [Deployment: Hosting .NET Application - Step By Step Guide](https://dev.to/dotnetfullstackdev/deployment-hosting-net-application-step-by-step-guide-1b4o)
+- [Introducing Handbooks for Tech: Documentation Got &quot;Better&quot;](https://dev.to/buzzpy/introducing-handbooks-for-tech-documentation-got-better-4anf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
