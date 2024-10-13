@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VARRAY in PLSQL Functions | LIMIT | COUNT | EXTEND](https://dev.to/mrcaption49/varray-in-plsql-functions-limit-count-extend-2ch0)
-- [Unavoidable developer tools](https://dev.to/codewithshahan/unavoidable-developer-tools-24g8)
-- [How to do Load Testing?](https://dev.to/keploy/how-to-do-load-testing-1mnc)
-- [Cubit VS Bloc in Flutter](https://dev.to/syedabdulbasit7/cubit-vs-bloc-in-flutter-494k)
-- [9.Array](https://dev.to/zahro_11eecc01a1cfe5142b9/9array-4ci3)
+- [First post: Openfav-auth, an&lpar;other&rpar; Astro app template](https://dev.to/doublefaces/first-post-openfav-auth-another-astro-app-template-2gnm)
+- [22. While Loop](https://dev.to/sunnat_qayumov/22-while-loop-5d1a)
+- [Using React CKEditor 5 with Django&lpar;DRF&rpar;](https://dev.to/thehormat/using-react-ckeditor-5-with-djangodrf-4kp6)
+- [Difference Between Varray and Nested Table in PLSQL](https://dev.to/mrcaption49/difference-between-varray-and-nested-table-in-plsql-18ai)
+- [Nested Tables Collection in PL/SQL](https://dev.to/mrcaption49/nested-tables-collection-in-plsql-4cno)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
