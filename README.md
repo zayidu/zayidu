@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GBP/USD Outlook: Labor Data Boosts Resilience Amid Rate Cut Speculations](https://dev.to/snapnews/gbpusd-outlook-labor-data-boosts-resilience-amid-rate-cut-speculations-2878)
-- [🚀 Top JavaScript Trends to Watch in 2024](https://dev.to/yashodip_beldar/top-javascript-trends-to-watch-in-2024-347p)
-- [Mastering Snake Game with Reinforcement Learning and Linear Q-Network &lpar;with Python&rpar;](https://dev.to/imankarimi/mastering-snake-game-with-reinforcement-learning-and-linear-q-network-with-python-2ncm)
-- [Memoir.](https://dev.to/farisamamnoon/memoir-abh)
-- [Dynamic open graph images for your website | No code using dynamicog.com](https://dev.to/shrihari/dynamic-open-graph-images-for-your-website-no-code-using-dynamicogcom-n62)
+- [Cross-Site Scripting and CSRF: Secure Your Web Application against Common Attacks](https://dev.to/okoye_ndidiamaka_5e3b7d30/cross-site-scripting-and-csrf-secure-your-web-application-against-common-attacks-6ak)
+- [AI &amp; Dev Weekly News: Bolt.new Deno 2.0, Cursor Ai! and More...](https://dev.to/dev007777/ai-dev-weekly-news-boltnew-deno-20-cursor-ai-and-more-1749)
+- [Effective Planning Meetings](https://dev.to/gabrieltoma/effective-planning-meetings-11di)
+- [Como Criar e Gerenciar Seu Próprio Repositório Git em um Servidor Particular](https://dev.to/samuelstarts/como-criar-e-gerenciar-seu-proprio-repositorio-git-em-um-servidor-particular-16m)
+- [Employee Management System Using SQL](https://dev.to/maurine/employee-management-system-using-sql-3nhd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
