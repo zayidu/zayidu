@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Variable in Programming?](https://dev.to/m__mdy__m/what-is-a-variable-in-programming-2p8k)
-- [Dia 14 - 1.4 Sob as tampas](https://dev.to/matheusgb/dia-14-14-sob-as-tampas-4hnc)
-- [PinataShot: Multimodal LLaMA 3.2 Screenshot Categorization on Pinata IPFS](https://dev.to/jadouse5/pinatashot-multimodal-llama-32-screenshot-categorization-on-pinata-ipfs-2ip2)
-- [Deployment: Hosting .NET Application - Step By Step Guide](https://dev.to/dotnetfullstackdev/deployment-hosting-net-application-step-by-step-guide-1b4o)
-- [Introducing Handbooks for Tech: Documentation Got &quot;Better&quot;](https://dev.to/buzzpy/introducing-handbooks-for-tech-documentation-got-better-4anf)
+- [Mastering the DevOps Lifecycle: The Essential Roadmap for 2024](https://dev.to/patadiarushabh/mastering-the-devops-lifecycle-the-essential-roadmap-for-2024-13ia)
+- [🖥️ Terminal Buyruqlari va .NET CLI: Boshlang&#39;ich dasturchilar uchun qo&#39;llanma](https://dev.to/muhammad_khodjaev/terminal-buyruqlari-va-net-cli-boshlangich-dasturchilar-uchun-qollanma-2fgi)
+- [20. Operators &lpar;if, else if, else, ternary operator, switch&rpar;](https://dev.to/sunnat_qayumov/20-operators-if-else-if-else-ternary-operator-switch-2bfo)
+- [19. Valu va Reference Type](https://dev.to/sunnat_qayumov/19-valu-va-reference-type-4ci8)
+- [18. Namespace](https://dev.to/sunnat_qayumov/18-namespace-n6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
