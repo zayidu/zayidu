@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Crack a DevOps Interview in One Attempt: A Complete Guide for Freshers and Experienced](https://dev.to/prodevopsguytech/how-to-crack-a-devops-interview-in-one-attempt-a-complete-guide-for-freshers-and-experienced-24hm)
-- [Python 101: Introduction to Python as a Data Analytics Tool](https://dev.to/michael_kibia_9c1738d5bc8/python-101-introduction-to-python-as-a-data-analytics-tool-43c9)
-- [Understanding When a Mutant &quot;Makes It Pass&quot; in Mutation Testing](https://dev.to/copyleftdev/understanding-when-a-mutant-makes-it-pass-in-mutation-testing-57ae)
-- [📝In-App Surveys Made Simple with Formbricks in React Native: A Complete Guide ❤️‍🔥](https://dev.to/raju_gangitla_91920e1427f/in-app-surveys-made-simple-with-formbricks-in-react-native-a-complete-guide-o9e)
-- [Welcome Back! Introducing Myself with Voice &amp; Face | My Journey &amp; What&#39;s Next](https://dev.to/hojjatbandani/welcome-back-introducing-myself-with-voice-face-my-journey-whats-next-2kn1)
+- [Git: fetch, merge, pull and push](https://dev.to/harshm03/git-fetch-merge-pull-and-push-57fi)
+- [Relearning Basics of CS - Implementing Stack](https://dev.to/abinav_athreya_f4b5487056/relearning-basics-of-cs-implementing-stack-2ohe)
+- [🛠️ Common Coding Mistakes and How to Avoid Them](https://dev.to/david_tevzadze_/common-coding-mistakes-and-how-to-avoid-them-207g)
+- [Economics of Climate Change Costs and Opportunities](https://dev.to/hafizammar1989/economics-of-climate-change-costs-and-opportunities-o6n)
+- [Github and Git Workflow](https://dev.to/harshm03/github-and-git-workflow-9oh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
