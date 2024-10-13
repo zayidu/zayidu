@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Import vs. Export: The Ultimate Face-off in the Package.json](https://dev.to/rameshpvr/import-vs-export-the-ultimate-face-off-in-the-packagejson-1j8l)
-- [Value type va Reference type](https://dev.to/mushtariy/value-type-va-reference-type-4b06)
-- [What is the difference between a network and the internet?](https://dev.to/abstractmusa/what-is-the-difference-between-a-network-and-the-internet-4f86)
-- [Bottle - Python Lightweight and Fast micro web framework](https://dev.to/mrcaption49/bottle-python-lightweight-and-fast-micro-web-framework-25bl)
-- [A Deep Dive into NestJS Core Components](https://dev.to/compimprove/a-deep-dive-into-nestjs-core-components-2ehi)
+- [Understanding Stack and Heap in Go: A Simple Guide](https://dev.to/tuna99/understanding-stack-and-heap-in-go-a-simple-guide-20i)
+- [Understanding Stack and Heap in Go: A Simple Guide](https://dev.to/tuna99/understanding-stack-and-heap-in-go-a-simple-guide-4k9o)
+- [Easily self-host Next.js](https://dev.to/alohe/easily-self-host-nextjs-195g)
+- [The Convergence of Platform Ops, DevOps, DataOps, and MLOps: Transforming Industries Through Technology](https://dev.to/ramakrishna_manchana_1b18/the-convergence-of-platform-ops-devops-dataops-and-mlops-transforming-industries-through-technology-55dj)
+- [Power BI Report Builder: How to Create Professional Reports](https://dev.to/jit_data/power-bi-report-builder-how-to-create-professional-reports-2n70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
