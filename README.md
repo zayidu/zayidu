@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to embed link with preview in React Application](https://dev.to/basskibo/how-to-embed-link-with-preview-in-react-application-2gdd)
-- [Web4 and Trusted Flagger: Balancing Security and Freedom](https://dev.to/web4/web4-and-trusted-flagger-balancing-security-and-freedom-4jf8)
-- [How are your connections with web secure and integral?](https://dev.to/ujjwall-r/how-are-your-connections-with-web-secure-and-integral-254a)
-- [Elevate Your Go Programming Skills with the &quot;Go Practice Labs&quot; Course](https://dev.to/labex/elevate-your-go-programming-skills-with-the-go-practice-labs-course-e0l)
-- [Improve an algorithm performance step by step](https://dev.to/keming/improve-an-algorithm-performance-step-by-step-1jnf)
+- [Uploadnow - simple file explorer](https://dev.to/emee/uploadnow-simple-file-explorer-5055)
+- [C# Design Pattern: State &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-state-portugues-4mf7)
+- [C# Design Pattern: State](https://dev.to/juarezasjunior/c-design-pattern-state-584g)
+- [The Great Firewall of Work-Life Balance: Breaking Through Tech Burnout](https://dev.to/techbalance_collective/the-great-firewall-of-work-life-balance-breaking-through-tech-burnout-3d5a)
+- [Forum PHP 2024](https://dev.to/spo0q/forum-php-2024-1056)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
