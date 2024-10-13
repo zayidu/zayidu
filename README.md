@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Your APIs in 5 Minutes: Token-Based RSocket with JWT](https://dev.to/jackwilltech/secure-your-apis-in-5-minutes-token-based-rsocket-with-jwt-37pn)
-- [The Tools I Learnt during my first two weeks of Learning Programming](https://dev.to/quddus_nojimudeen/the-tools-i-learnt-during-my-first-two-weeks-of-learning-programming-48pk)
-- [Mastering the Fundamentals of Object-Oriented Programming &lpar;OOP&rpar; in Java](https://dev.to/shubhamkhan/mastering-the-fundamentals-of-object-oriented-programming-oop-in-java-1oma)
-- [CSS Grid: Creating a Gallery Layout](https://dev.to/tailwine/css-grid-creating-a-gallery-layout-mic)
-- [SignalR vs WebSockets: Which One is Better for Real-Time Communication?](https://dev.to/prahladyeri/signalr-vs-websockets-which-one-is-better-for-real-time-communication-1jip)
+- [Master the Google Cloud Platform Exam: Your Complete Preparation Guide](https://dev.to/s3cloudhub/master-the-google-cloud-platform-exam-your-complete-preparation-guide-2gf6)
+- [VARRAY &lpar;Variable-size array&rpar; in PL/SQL](https://dev.to/mrcaption49/varray-variable-size-array-in-plsql-1oe1)
+- [How to Build an Elm Land Project for Production](https://dev.to/jiwhiz/how-to-build-an-elm-land-project-for-production-36jo)
+- [14 rarely known Useful HTML Tags](https://dev.to/nnnirajn/14-html-tags-you-probably-dont-know-2mc9)
+- [A Friendly Guide to Learning TypeScript Step by Step](https://dev.to/nnnirajn/a-friendly-guide-to-learning-typescript-step-by-step-3llb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
