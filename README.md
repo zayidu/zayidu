@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master the Google Cloud Platform Exam: Your Complete Preparation Guide](https://dev.to/s3cloudhub/master-the-google-cloud-platform-exam-your-complete-preparation-guide-2gf6)
-- [VARRAY &lpar;Variable-size array&rpar; in PL/SQL](https://dev.to/mrcaption49/varray-variable-size-array-in-plsql-1oe1)
-- [How to Build an Elm Land Project for Production](https://dev.to/jiwhiz/how-to-build-an-elm-land-project-for-production-36jo)
-- [14 rarely known Useful HTML Tags](https://dev.to/nnnirajn/14-html-tags-you-probably-dont-know-2mc9)
-- [A Friendly Guide to Learning TypeScript Step by Step](https://dev.to/nnnirajn/a-friendly-guide-to-learning-typescript-step-by-step-3llb)
+- [VARRAY in PLSQL Functions | LIMIT | COUNT | EXTEND](https://dev.to/mrcaption49/varray-in-plsql-functions-limit-count-extend-2ch0)
+- [Unavoidable developer tools](https://dev.to/codewithshahan/unavoidable-developer-tools-24g8)
+- [How to do Load Testing?](https://dev.to/keploy/how-to-do-load-testing-1mnc)
+- [Cubit VS Bloc in Flutter](https://dev.to/syedabdulbasit7/cubit-vs-bloc-in-flutter-494k)
+- [9.Array](https://dev.to/zahro_11eecc01a1cfe5142b9/9array-4ci3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
