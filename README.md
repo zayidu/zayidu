@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Primeiros passos para iniciar na programação](https://dev.to/erickwillian_dev/primeiros-passos-para-iniciar-na-programacao-3ap0)
-- [Understanding Static Site Generation &lpar;SSG&rpar;, Server-Side Rendering &lpar;SSR&rpar;, and Server Components in Next.js](https://dev.to/kawsar007/understanding-static-site-generation-ssg-server-side-rendering-ssr-and-server-components-in-nextjs-45p7)
-- [Writing Skills: Essential Fuel for Every Programmer 🥇👨‍💻](https://dev.to/_hm/writing-skills-essential-fuel-for-every-programmer-1ia2)
-- [C# Advanced:Operator Overloading](https://dev.to/moh_moh701/c-advancedoperator-overloading-3djn)
-- [Do Caos à Clareza: Princípios para Dashboards de Monitoramento Eficientes](https://dev.to/camillacorreia/do-caos-a-clareza-principios-para-dashboards-de-monitoramento-eficientes-21ij)
+- [Build a Digital Portfolio That Lands More Modeling Jobs](https://dev.to/christianrollo/build-a-digital-portfolio-that-lands-more-modeling-jobs-o5a)
+- [🤖 Virtual Machines and Containers](https://dev.to/spirizeon/virtual-machines-and-containers-3h47)
+- [❄️ NixOS: OS as Code](https://dev.to/spirizeon/nixos-os-as-code-2h6d)
+- [Day 34. Response](https://dev.to/kiolk/day-34-response-1bc5)
+- [How to build a serverless AI chatbot in &lt;100 lines of Python](https://dev.to/dbos/how-to-build-a-serverless-ai-chatbot-in-100-lines-of-python-2m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
