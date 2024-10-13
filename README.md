@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Site Scripting and CSRF: Secure Your Web Application against Common Attacks](https://dev.to/okoye_ndidiamaka_5e3b7d30/cross-site-scripting-and-csrf-secure-your-web-application-against-common-attacks-6ak)
-- [AI &amp; Dev Weekly News: Bolt.new Deno 2.0, Cursor Ai! and More...](https://dev.to/dev007777/ai-dev-weekly-news-boltnew-deno-20-cursor-ai-and-more-1749)
-- [Effective Planning Meetings](https://dev.to/gabrieltoma/effective-planning-meetings-11di)
-- [Como Criar e Gerenciar Seu Próprio Repositório Git em um Servidor Particular](https://dev.to/samuelstarts/como-criar-e-gerenciar-seu-proprio-repositorio-git-em-um-servidor-particular-16m)
-- [Employee Management System Using SQL](https://dev.to/maurine/employee-management-system-using-sql-3nhd)
+- [How to embed link with preview in React Application](https://dev.to/basskibo/how-to-embed-link-with-preview-in-react-application-2gdd)
+- [Web4 and Trusted Flagger: Balancing Security and Freedom](https://dev.to/web4/web4-and-trusted-flagger-balancing-security-and-freedom-4jf8)
+- [How are your connections with web secure and integral?](https://dev.to/ujjwall-r/how-are-your-connections-with-web-secure-and-integral-254a)
+- [Elevate Your Go Programming Skills with the &quot;Go Practice Labs&quot; Course](https://dev.to/labex/elevate-your-go-programming-skills-with-the-go-practice-labs-course-e0l)
+- [Improve an algorithm performance step by step](https://dev.to/keming/improve-an-algorithm-performance-step-by-step-1jnf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
