@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Stack and Heap in Go: A Simple Guide](https://dev.to/tuna99/understanding-stack-and-heap-in-go-a-simple-guide-20i)
-- [Understanding Stack and Heap in Go: A Simple Guide](https://dev.to/tuna99/understanding-stack-and-heap-in-go-a-simple-guide-4k9o)
-- [Easily self-host Next.js](https://dev.to/alohe/easily-self-host-nextjs-195g)
-- [The Convergence of Platform Ops, DevOps, DataOps, and MLOps: Transforming Industries Through Technology](https://dev.to/ramakrishna_manchana_1b18/the-convergence-of-platform-ops-devops-dataops-and-mlops-transforming-industries-through-technology-55dj)
-- [Power BI Report Builder: How to Create Professional Reports](https://dev.to/jit_data/power-bi-report-builder-how-to-create-professional-reports-2n70)
+- [How to Crack a DevOps Interview in One Attempt: A Complete Guide for Freshers and Experienced](https://dev.to/prodevopsguytech/how-to-crack-a-devops-interview-in-one-attempt-a-complete-guide-for-freshers-and-experienced-24hm)
+- [Python 101: Introduction to Python as a Data Analytics Tool](https://dev.to/michael_kibia_9c1738d5bc8/python-101-introduction-to-python-as-a-data-analytics-tool-43c9)
+- [Understanding When a Mutant &quot;Makes It Pass&quot; in Mutation Testing](https://dev.to/copyleftdev/understanding-when-a-mutant-makes-it-pass-in-mutation-testing-57ae)
+- [📝In-App Surveys Made Simple with Formbricks in React Native: A Complete Guide ❤️‍🔥](https://dev.to/raju_gangitla_91920e1427f/in-app-surveys-made-simple-with-formbricks-in-react-native-a-complete-guide-o9e)
+- [Welcome Back! Introducing Myself with Voice &amp; Face | My Journey &amp; What&#39;s Next](https://dev.to/hojjatbandani/welcome-back-introducing-myself-with-voice-face-my-journey-whats-next-2kn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
