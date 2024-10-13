@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Secure Your APIs in 5 Minutes: Token-Based RSocket with JWT](https://dev.to/jackwilltech/secure-your-apis-in-5-minutes-token-based-rsocket-with-jwt-37pn)
+- [The Tools I Learnt during my first two weeks of Learning Programming](https://dev.to/quddus_nojimudeen/the-tools-i-learnt-during-my-first-two-weeks-of-learning-programming-48pk)
+- [Mastering the Fundamentals of Object-Oriented Programming &lpar;OOP&rpar; in Java](https://dev.to/shubhamkhan/mastering-the-fundamentals-of-object-oriented-programming-oop-in-java-1oma)
+- [CSS Grid: Creating a Gallery Layout](https://dev.to/tailwine/css-grid-creating-a-gallery-layout-mic)
 - [SignalR vs WebSockets: Which One is Better for Real-Time Communication?](https://dev.to/prahladyeri/signalr-vs-websockets-which-one-is-better-for-real-time-communication-1jip)
-- [What is an IIFE &lpar;Immediately Invoked Function Expression&rpar; and Why Should You Care?](https://dev.to/elukuro/what-is-an-iife-immediately-invoked-function-expression-and-why-should-you-care-2cap)
-- [learn audrino basic programing](https://dev.to/technoacraft27/learn-audrino-basic-programing-54c4)
-- [Forgotten Technologies #1: The floppy disk](https://dev.to/tkouleris/forgotten-technologies-1-the-floppy-disk-5163)
-- [Redux Toolkit Setup with Next.js: A Step-by-Step Guide Using App Routes](https://dev.to/raajaryan/redux-toolkit-setup-with-nextjs-a-step-by-step-guide-using-app-routes-5ena)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
