@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the DevOps Lifecycle: The Essential Roadmap for 2024](https://dev.to/patadiarushabh/mastering-the-devops-lifecycle-the-essential-roadmap-for-2024-13ia)
-- [🖥️ Terminal Buyruqlari va .NET CLI: Boshlang&#39;ich dasturchilar uchun qo&#39;llanma](https://dev.to/muhammad_khodjaev/terminal-buyruqlari-va-net-cli-boshlangich-dasturchilar-uchun-qollanma-2fgi)
-- [20. Operators &lpar;if, else if, else, ternary operator, switch&rpar;](https://dev.to/sunnat_qayumov/20-operators-if-else-if-else-ternary-operator-switch-2bfo)
-- [19. Valu va Reference Type](https://dev.to/sunnat_qayumov/19-valu-va-reference-type-4ci8)
-- [18. Namespace](https://dev.to/sunnat_qayumov/18-namespace-n6b)
+- [SignalR vs WebSockets: Which One is Better for Real-Time Communication?](https://dev.to/prahladyeri/signalr-vs-websockets-which-one-is-better-for-real-time-communication-1jip)
+- [What is an IIFE &lpar;Immediately Invoked Function Expression&rpar; and Why Should You Care?](https://dev.to/elukuro/what-is-an-iife-immediately-invoked-function-expression-and-why-should-you-care-2cap)
+- [learn audrino basic programing](https://dev.to/technoacraft27/learn-audrino-basic-programing-54c4)
+- [Forgotten Technologies #1: The floppy disk](https://dev.to/tkouleris/forgotten-technologies-1-the-floppy-disk-5163)
+- [Redux Toolkit Setup with Next.js: A Step-by-Step Guide Using App Routes](https://dev.to/raajaryan/redux-toolkit-setup-with-nextjs-a-step-by-step-guide-using-app-routes-5ena)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
