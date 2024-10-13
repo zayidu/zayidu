@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to SCSS: Supercharging Your CSS Workflow](https://dev.to/ridoy_hasan/introduction-to-scss-supercharging-your-css-workflow-49l6)
-- [AI and Networking: The Dynamic Duo Reshaping Our Digital Future](https://dev.to/madhujamitra/ai-and-networking-the-dynamic-duo-reshaping-our-digital-future-3bn)
-- [Use Stable Diffusion and PyTorch to Build an Image Inpainting Service](https://dev.to/koyeb/use-stable-diffusion-and-pytorch-to-build-an-image-inpainting-service-2ahm)
-- [react-hook-form demo](https://dev.to/hieunh1801/react-hook-form-85d)
-- [Art Museum](https://dev.to/paul_freeman/art-museum-g99)
+- [How to Deploy Multiple Versions of Your React Native App to TestFlight Using Xcode Cloud](https://dev.to/kigbu/how-to-deploy-multiple-versions-of-your-react-native-app-to-testflight-using-xcode-cloud-12ln)
+- [Parallelizing Sorting Algorithms using OpenMP](https://dev.to/sahrohit/parallelizing-sorting-algorithms-using-openmp-1hec)
+- [Escape the Drama: Why HydePHP is Your WordPress Alternative](https://dev.to/codewithcaen/escape-the-drama-why-hydephp-is-your-wordpress-alternative-11nd)
+- [Third Year as Contributor, First Year as Maintainer](https://dev.to/danielcristho/third-year-as-contributor-first-year-as-maintainer-1dfj)
+- [Navigating the Double-Edged Sword of AI as a Software Developer](https://dev.to/kalm004/navigating-the-double-edged-sword-of-ai-as-a-software-developer-4h35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
