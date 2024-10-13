@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When to bring in a software architect?](https://dev.to/read-the-architecture/when-to-bring-in-a-software-architect-30aj)
-- [How to Style Your Notebook for Data Analysis: A Guide with Heart Attack Prediction Example](https://dev.to/rama13850/how-to-style-your-notebook-for-data-analysis-a-guide-with-heart-attack-prediction-example-47f2)
-- [Symfony Station Communiqué — 11 October 2024. A look at Symfony, Drupal, PHP, and Programming News!](https://dev.to/reubenwalker64/symfony-station-communique-11-october-2024-a-look-at-symfony-drupal-php-and-programming-news-2f8k)
-- [Simple Peer Tutorial: Add TURN Server for Video, DataChannel](https://dev.to/alakkadshaw/simple-peer-tutorial-add-turn-server-for-video-datachannel-57pj)
-- [Polymorphism in Python: Exploring Method Overloading and Method Overriding](https://dev.to/imyusufakhtar/polymorphism-in-python-exploring-method-overloading-and-method-overriding-15ed)
+- [&quot;Import vs. Export: The Ultimate Face-off in the Package.json](https://dev.to/rameshpvr/import-vs-export-the-ultimate-face-off-in-the-packagejson-1j8l)
+- [Value type va Reference type](https://dev.to/mushtariy/value-type-va-reference-type-4b06)
+- [What is the difference between a network and the internet?](https://dev.to/abstractmusa/what-is-the-difference-between-a-network-and-the-internet-4f86)
+- [Bottle - Python Lightweight and Fast micro web framework](https://dev.to/mrcaption49/bottle-python-lightweight-and-fast-micro-web-framework-25bl)
+- [A Deep Dive into NestJS Core Components](https://dev.to/compimprove/a-deep-dive-into-nestjs-core-components-2ehi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
