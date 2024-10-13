@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Git: fetch, merge, pull and push](https://dev.to/harshm03/git-fetch-merge-pull-and-push-57fi)
-- [Relearning Basics of CS - Implementing Stack](https://dev.to/abinav_athreya_f4b5487056/relearning-basics-of-cs-implementing-stack-2ohe)
-- [🛠️ Common Coding Mistakes and How to Avoid Them](https://dev.to/david_tevzadze_/common-coding-mistakes-and-how-to-avoid-them-207g)
-- [Economics of Climate Change Costs and Opportunities](https://dev.to/hafizammar1989/economics-of-climate-change-costs-and-opportunities-o6n)
-- [Github and Git Workflow](https://dev.to/harshm03/github-and-git-workflow-9oh)
+- [Primeiros passos para iniciar na programação](https://dev.to/erickwillian_dev/primeiros-passos-para-iniciar-na-programacao-3ap0)
+- [Understanding Static Site Generation &lpar;SSG&rpar;, Server-Side Rendering &lpar;SSR&rpar;, and Server Components in Next.js](https://dev.to/kawsar007/understanding-static-site-generation-ssg-server-side-rendering-ssr-and-server-components-in-nextjs-45p7)
+- [Writing Skills: Essential Fuel for Every Programmer 🥇👨‍💻](https://dev.to/_hm/writing-skills-essential-fuel-for-every-programmer-1ia2)
+- [C# Advanced:Operator Overloading](https://dev.to/moh_moh701/c-advancedoperator-overloading-3djn)
+- [Do Caos à Clareza: Princípios para Dashboards de Monitoramento Eficientes](https://dev.to/camillacorreia/do-caos-a-clareza-principios-para-dashboards-de-monitoramento-eficientes-21ij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
