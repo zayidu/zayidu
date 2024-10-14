@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tracetest Tip: Testing Span Order with Assertions](https://dev.to/kubeshop/tracetest-tip-testing-span-order-with-assertions-44jh)
-- [How to use Poetry in Django project](https://dev.to/thehormat/how-to-use-poetry-in-django-project-43n1)
-- [Observability as code for AI apps with New Relic and Pulumi](https://dev.to/newrelic/observability-as-code-for-ai-apps-with-new-relic-and-pulumi-5fgo)
-- [How to Set Up a Honeypot for Cyber Attacks](https://dev.to/trixsec/how-to-set-up-a-honeypot-for-cyber-attacks-4c08)
-- [Using Twig for rendering Markdown with PHP](https://dev.to/robertobutti/using-twig-for-rendering-markdown-with-php-2d24)
+- [Key APIs Every Developer Should Know](https://dev.to/spencerlobree/key-apis-every-developer-should-know-1222)
+- [Debouncing vs Throttling in JavaScript: When and Why You Should Use Them](https://dev.to/paharihacker/debouncing-vs-throttling-in-javascript-when-and-why-you-should-use-them-1l09)
+- [ZinariPay 2.0.0: The New Era of Cryptocurrency Payments Integration](https://dev.to/christopher_akanmu/zinaripay-200-the-new-era-of-cryptocurrency-payments-integration-26a8)
+- [Day001 - Random posts under TIL](https://dev.to/sarvsav/day01-random-posts-on-til-44d1)
+- [Open Source Under Fire: Analyzing the WordPress vs. WP Engine Controversy](https://dev.to/grenishrai/open-source-under-fire-analyzing-the-wordpress-vs-wp-engine-controversy-5g6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
