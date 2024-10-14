@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Value Type va Reference Type &lpar;Advanced&rpar;](https://dev.to/asilbek_ibragimov_a0c27cc/value-type-va-reference-type-advanced-2j5l)
-- [My two favorite AI tools &lpar;that I don&#39;t see enough people talking about&rpar;](https://dev.to/wynandpieters/my-two-favorite-ai-tools-that-i-dont-see-enough-people-talking-about-4j9o)
-- [Class va Constructor](https://dev.to/umida5/class-va-constructor-4kfn)
-- [Nullable Types](https://dev.to/firdavs_mukhsimov_9f62550/nullable-types-3d95)
-- [How AI Image Recognition is Transforming Visitor Experiences in Museums and Galleries](https://dev.to/api4ai/how-ai-image-recognition-is-transforming-visitor-experiences-in-museums-and-galleries-2ka8)
+- [34.Operators &lpar;Bitwise Operators&rpar;](https://dev.to/asilbek_ibragimov_a0c27cc/34operators-bitwise-operators-21bj)
+- [33.Operators &lpar;Logical Operators&rpar;](https://dev.to/asilbek_ibragimov_a0c27cc/33operators-logical-operators-2i00)
+- [My Hacktoberfest 2024 Experience 🚀](https://dev.to/jagroop2001/my-hacktoberfest-2024-experience-47be)
+- [32.Data Types](https://dev.to/asilbek_ibragimov_a0c27cc/32data-types-gkj)
+- [100 Best Chrome Extensions of All Time](https://dev.to/hosseinyazdi/100-best-chrome-extensions-of-all-time-g17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
