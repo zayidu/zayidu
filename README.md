@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [wslcompact - Optimize Huge Virtual Hard Disk without diskpart/Hyper-V](https://dev.to/maestroviktorin/wslcompact-optimize-huge-virtual-hard-disk-without-diskparthyper-v-2neb)
-- [But How Much Abstraction is Still Okay in Cypress? To POM or Not To POM!](https://dev.to/sebastianclavijo/but-how-much-abstraction-is-still-okay-in-cypress-to-pom-or-not-to-pom-511j)
-- [AWS: Developer Associate](https://dev.to/jayaprasanna_roddam/aws-developer-associate-4opa)
-- [How to Create a Scroll-to-Top Button with HTML, CSS, and JavaScript? Project 4](https://dev.to/areeb_anwar_813df06ee1124/how-to-create-a-scroll-to-top-button-with-html-css-and-javascript-project-4-2fg)
-- [Hi, I got one issue I used hindi/marathi font in pdf, my input is this &#39;जिल्हा परिषद&#39; but I got diffrent output in pdf flutter,](https://dev.to/niraj_jadhav_3b7255c78715/hi-i-got-one-issue-i-used-hindimarathi-font-in-pdf-my-input-is-this-jilhaa-prissd-but-i-got-diffrent-output-in-pdf-flutter-1ld)
+- [Tracetest Tip: Testing Span Order with Assertions](https://dev.to/kubeshop/tracetest-tip-testing-span-order-with-assertions-44jh)
+- [How to use Poetry in Django project](https://dev.to/thehormat/how-to-use-poetry-in-django-project-43n1)
+- [Observability as code for AI apps with New Relic and Pulumi](https://dev.to/newrelic/observability-as-code-for-ai-apps-with-new-relic-and-pulumi-5fgo)
+- [How to Set Up a Honeypot for Cyber Attacks](https://dev.to/trixsec/how-to-set-up-a-honeypot-for-cyber-attacks-4c08)
+- [Using Twig for rendering Markdown with PHP](https://dev.to/robertobutti/using-twig-for-rendering-markdown-with-php-2d24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
