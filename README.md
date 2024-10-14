@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 14 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-october-3875)
-- [How to Arrange a cremation services?](https://dev.to/lissa_angel_8edbac2ed6a18/how-to-arrange-a-cremation-services-3pca)
-- [Meme Monday](https://dev.to/ben/meme-monday-1m09)
-- [15. Nullable Types](https://dev.to/asilbek_ibragimov_a0c27cc/15-nullable-types-2ihg)
-- [Lambda Performance Evaluation: The Relationship Between Memory and Internal vCPU Architecture, and Their Comparison](https://dev.to/takuma818t/lambda-performance-evaluation-the-relationship-between-memory-and-internal-vcpu-architecture-and-their-comparison-3911)
+- [Rails Designer v1.7: Add Smooth Turbo Stream Transitions](https://dev.to/railsdesigner/rails-designer-v17-add-smooth-turbo-stream-transitions-4a58)
+- [How to contribute to opensource that can change your life !](https://dev.to/dhanushnehru/how-to-contribute-to-opensource-that-can-change-your-life--5c2m)
+- [Control Structures in C#: Loops and Conditionals](https://dev.to/iamcymentho/control-structures-in-c-loops-and-conditionals-ade)
+- [The 6 API Architecture Styles: REST, RESTful, GraphQL, SOAP, gRPC, WebSockets, and MQTT](https://dev.to/ivannalon/the-6-api-architecture-styles-rest-restful-graphql-soap-grpc-websockets-and-mqtt-2a9h)
+- [Path.mkdir&lpar;parents, exist_ok&rpar; in Python](https://dev.to/hyperkai/pathmkdirparents-existok-in-python-3hi6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
