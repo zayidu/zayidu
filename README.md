@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a Virtual Machine Scale Set using Azure](https://dev.to/emmyfx1/how-to-create-a-virtual-machine-scale-set-using-azure-2cj2)
-- [C# Design Pattern: Strategy](https://dev.to/juarezasjunior/c-design-pattern-strategy-39mn)
-- [When &#39;Agile&#39; Feels More Like &#39;Fragile&#39;: Sprinting Towards Burnout and How to Pivot](https://dev.to/techbalance_collective/when-agile-feels-more-like-fragile-sprinting-towards-burnout-and-how-to-pivot-fbe)
-- [C# Design Pattern: Strategy &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-strategy-portugues-2kng)
-- [Bubble sort using the animation of html css and js](https://dev.to/prince_beec5ccde00b7c6c73/bubble-sort-using-the-animation-of-html-css-and-js-2g33)
+- [🚀 Your Daily Crypto Job Digest For 14 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-14-october-3875)
+- [How to Arrange a cremation services?](https://dev.to/lissa_angel_8edbac2ed6a18/how-to-arrange-a-cremation-services-3pca)
+- [Meme Monday](https://dev.to/ben/meme-monday-1m09)
+- [15. Nullable Types](https://dev.to/asilbek_ibragimov_a0c27cc/15-nullable-types-2ihg)
+- [Lambda Performance Evaluation: The Relationship Between Memory and Internal vCPU Architecture, and Their Comparison](https://dev.to/takuma818t/lambda-performance-evaluation-the-relationship-between-memory-and-internal-vcpu-architecture-and-their-comparison-3911)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
