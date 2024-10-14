@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Decentralized Firebase Remote Config](https://dev.to/aloksahay/decentralized-firebase-remote-config-237n)
-- [Unlock 10x Productivity: Integrate Salesforce with MuleSoft in 13 Steps](https://dev.to/emilyjohnsonready/unlock-10x-productivity-integrate-salesforce-with-mulesoft-in-13-steps-149p)
-- [Debug Lamba&#39;s faster with Live Lambda Debugger](https://dev.to/thijsdez/debug-lambas-faster-with-live-lambda-debugger-2fa)
-- [Ditch Git Checkout: Use Git Switch and Git Restore Instead](https://dev.to/zacharylee/ditch-git-checkout-use-git-switch-and-git-restore-instead-51e6)
-- [The Secrets of JavaScript Object Property Order](https://dev.to/zacharylee/the-secrets-of-javascript-object-property-order-4oh4)
+- [Java vs Python: Which Language to Choose for Your Coding Career?](https://dev.to/abhinowww/java-vs-python-which-language-to-choose-for-your-coding-career-2346)
+- [Four Lessons My First Job as a Software Engineer Taught Me About Coding and Life](https://dev.to/canro91/four-lessons-my-first-job-as-a-software-engineer-taught-me-about-coding-and-life-2em5)
+- [Sybil Attack in the Blockchain Network](https://dev.to/gloriasilver/sybil-attack-in-the-blockchain-network-317h)
+- [Kubernetes for Beginners: Understanding Jobs, Images, and More &lpar;Part 1&rpar;](https://dev.to/moon3485/kubernetes-for-beginners-understanding-jobs-images-and-more-part-1-16bo)
+- [24. Class va Object](https://dev.to/sunnat_qayumov/24-class-va-object-44c8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
