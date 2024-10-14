@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS CODE PIPELINE](https://dev.to/she0407/aws-code-pipeline-1npe)
-- [Push Notifications in Next.js with Web-Push: A Provider-Free Solution](https://dev.to/designly/push-notifications-in-nextjs-with-web-push-a-provider-free-solution-11no)
-- [Code Smell 275 - Missing Test Wrong Path](https://dev.to/mcsee/code-smell-275-missing-test-wrong-path-71c)
-- [Dia 15 - 1.5 Tecnologias para construção de processadores e memórias](https://dev.to/matheusgb/dia-15-15-tecnologias-para-construcao-de-processadores-e-memorias-1c7m)
-- [JavaScript Memory Management and Garbage Collection](https://dev.to/shafayeat/javascript-memory-management-and-garbage-collection-2a)
+- [Dicas para criação de dashboards de monitoramento no Kibana](https://dev.to/annicarol/dicas-para-criacao-de-dashboards-de-monitoramento-no-kibana-n3o)
+- [Checking Out Chakra UI](https://dev.to/dakota_day/checking-out-chakra-ui-jfj)
+- [Self-Hosted Chat Solutions for LLMs: Open WebUI](https://dev.to/wdp/self-hosted-chat-solutions-for-llms-open-webui-alf)
+- [I built a haze themed website template with 10+ sections](https://dev.to/darkinventor/i-built-a-haze-themed-website-template-with-10-sections-gk)
+- [🔥 Handling Side Effects in React: Beyond useEffect 🔥](https://dev.to/erasmuskotoka/handling-side-effects-in-react-beyond-useeffect-4bag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
