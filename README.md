@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini API: The Free Tier That Makes Developers Happy](https://dev.to/garciadiazjaime/gemini-api-the-free-tier-that-makes-developers-happy-28nk)
-- [Pinning Images with GSAP: A Smooth Scrolling Animation in Next.js](https://dev.to/moostakimahamed/pinning-images-with-gsap-a-smooth-scrolling-animation-in-nextjs-1274)
-- [Economics of Climate Change Costs and Opportunities](https://dev.to/hafiz_ammarsaleem_f42ea8/economics-of-climate-change-costs-and-opportunities-20o9)
-- [Postgresql commands](https://dev.to/mdiffshashank/postgresql-commands-mcb)
-- [Exploring JavaScript&#39;s Modern Primitives: BigInt and Symbol](https://dev.to/joanperamas/exploring-javascripts-modern-primitives-bigint-and-symbol-4607)
+- [wslcompact - Optimize Huge Virtual Hard Disk without diskpart/Hyper-V](https://dev.to/maestroviktorin/wslcompact-optimize-huge-virtual-hard-disk-without-diskparthyper-v-2neb)
+- [But How Much Abstraction is Still Okay in Cypress? To POM or Not To POM!](https://dev.to/sebastianclavijo/but-how-much-abstraction-is-still-okay-in-cypress-to-pom-or-not-to-pom-511j)
+- [AWS: Developer Associate](https://dev.to/jayaprasanna_roddam/aws-developer-associate-4opa)
+- [How to Create a Scroll-to-Top Button with HTML, CSS, and JavaScript? Project 4](https://dev.to/areeb_anwar_813df06ee1124/how-to-create-a-scroll-to-top-button-with-html-css-and-javascript-project-4-2fg)
+- [Hi, I got one issue I used hindi/marathi font in pdf, my input is this &#39;जिल्हा परिषद&#39; but I got diffrent output in pdf flutter,](https://dev.to/niraj_jadhav_3b7255c78715/hi-i-got-one-issue-i-used-hindimarathi-font-in-pdf-my-input-is-this-jilhaa-prissd-but-i-got-diffrent-output-in-pdf-flutter-1ld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
