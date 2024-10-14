@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimize Docker Builds with Cache Management in GitHub Actions](https://dev.to/cicube/optimize-docker-builds-with-cache-management-in-github-actions-35ba)
-- [Mastering Arrays: 56 Interview Questions for DSA Success](https://dev.to/nozibul_islam_113b1d5334f/mastering-arrays-56-interview-questions-for-dsa-success-2fa2)
-- [Navigating MongoDB Data Structures with DbVisualizer](https://dev.to/dbvismarketing/navigating-mongodb-data-structures-with-dbvisualizer-fee)
-- [Can I Use CLI - Compatibility within terminal&#39;s reach](https://dev.to/giuliano1993/can-i-use-cli-compatibility-within-terminals-reach-35da)
-- [ThrashBucket, store and share files anonymously](https://dev.to/koha/thrashbucket-store-and-share-files-anonymously-3e67)
+- [Announcing the New Conductor Java Client v4](https://dev.to/orkes/announcing-the-new-conductor-java-client-v4-4p4e)
+- [Advanced Deduplication Using Apache Spark: A Guide for Machine Learning Pipelines](https://dev.to/ajay_tani/advanced-deduplication-using-apache-spark-a-guide-for-machine-learning-pipelines-3ik6)
+- [Artificial Learners, Not Artificial Intelligence: Why Bigger Data Isn&#39;t Enough](https://dev.to/arkadeepnag/artificial-learners-not-artificial-intelligence-why-bigger-data-isnt-enough-1mb)
+- [Top 5 3D tools recommended: easily create your 3D creativity](https://dev.to/wingwing/top-5-3d-tools-recommended-easily-create-your-3d-creativity-3ec9)
+- [How We Manage to Cut Development Cycle Time by 33%?](https://dev.to/apilover/how-we-manage-to-cut-development-cycle-time-by-33-1flg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
