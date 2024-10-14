@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Key APIs Every Developer Should Know](https://dev.to/spencerlobree/key-apis-every-developer-should-know-1222)
-- [Debouncing vs Throttling in JavaScript: When and Why You Should Use Them](https://dev.to/paharihacker/debouncing-vs-throttling-in-javascript-when-and-why-you-should-use-them-1l09)
-- [ZinariPay 2.0.0: The New Era of Cryptocurrency Payments Integration](https://dev.to/christopher_akanmu/zinaripay-200-the-new-era-of-cryptocurrency-payments-integration-26a8)
-- [Day001 - Random posts under TIL](https://dev.to/sarvsav/day01-random-posts-on-til-44d1)
-- [Open Source Under Fire: Analyzing the WordPress vs. WP Engine Controversy](https://dev.to/grenishrai/open-source-under-fire-analyzing-the-wordpress-vs-wp-engine-controversy-5g6n)
+- [Mastering Time and Space Complexity: A Beginner&#39;s Guide to Big O Notation](https://dev.to/emmanuelayinde/mastering-time-and-space-complexity-a-beginners-guide-to-big-o-notation-33ae)
+- [Navneet kaur](https://dev.to/navneet_dhillon_9ff83d7f8/navneet-kaur-3675)
+- [How Shadcn CLI uses error constants to improve code readability](https://dev.to/thinkthroo/how-shadcn-cli-uses-error-constants-to-improve-code-readability-1177)
+- [Configurando um CI com Fastlane e Github Actions em um projeto iOS](https://dev.to/lys/configurando-um-ci-com-fastlane-e-github-actions-em-um-projeto-ios-7p5)
+- [Adding Entity Actions to Trees in Umbraco 14](https://dev.to/yinzy00/adding-entity-actions-to-trees-in-umbraco-14-2ao9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
