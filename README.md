@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy Multiple Versions of Your React Native App to TestFlight Using Xcode Cloud](https://dev.to/kigbu/how-to-deploy-multiple-versions-of-your-react-native-app-to-testflight-using-xcode-cloud-12ln)
-- [Parallelizing Sorting Algorithms using OpenMP](https://dev.to/sahrohit/parallelizing-sorting-algorithms-using-openmp-1hec)
-- [Escape the Drama: Why HydePHP is Your WordPress Alternative](https://dev.to/codewithcaen/escape-the-drama-why-hydephp-is-your-wordpress-alternative-11nd)
-- [Third Year as Contributor, First Year as Maintainer](https://dev.to/danielcristho/third-year-as-contributor-first-year-as-maintainer-1dfj)
-- [Navigating the Double-Edged Sword of AI as a Software Developer](https://dev.to/kalm004/navigating-the-double-edged-sword-of-ai-as-a-software-developer-4h35)
+- [AWS CODE PIPELINE](https://dev.to/she0407/aws-code-pipeline-1npe)
+- [Push Notifications in Next.js with Web-Push: A Provider-Free Solution](https://dev.to/designly/push-notifications-in-nextjs-with-web-push-a-provider-free-solution-11no)
+- [Code Smell 275 - Missing Test Wrong Path](https://dev.to/mcsee/code-smell-275-missing-test-wrong-path-71c)
+- [Dia 15 - 1.5 Tecnologias para construção de processadores e memórias](https://dev.to/matheusgb/dia-15-15-tecnologias-para-construcao-de-processadores-e-memorias-1c7m)
+- [JavaScript Memory Management and Garbage Collection](https://dev.to/shafayeat/javascript-memory-management-and-garbage-collection-2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
