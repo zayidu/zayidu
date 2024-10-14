@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Higher-Order Components &lpar;HOCs&rpar; in React](https://dev.to/emhat098/higher-order-components-hocs-in-react-1ge3)
-- [Exploring JavaScript: From Scripting to Object-Oriented Programming](https://dev.to/emhat098/exploring-javascript-from-scripting-to-object-oriented-programming-28dk)
-- [Data Science in 30 days](https://dev.to/elviswangari/data-science-in-30-days-51d5)
-- [Working With Dataverse Tables in Power Automate](https://dev.to/wyattdave/working-with-dataverse-tables-in-power-automate-1adf)
-- [newbie contributor ✨](https://dev.to/codingkatty/newbie-contributor-1770)
+- [Optimize Docker Builds with Cache Management in GitHub Actions](https://dev.to/cicube/optimize-docker-builds-with-cache-management-in-github-actions-35ba)
+- [Mastering Arrays: 56 Interview Questions for DSA Success](https://dev.to/nozibul_islam_113b1d5334f/mastering-arrays-56-interview-questions-for-dsa-success-2fa2)
+- [Navigating MongoDB Data Structures with DbVisualizer](https://dev.to/dbvismarketing/navigating-mongodb-data-structures-with-dbvisualizer-fee)
+- [Can I Use CLI - Compatibility within terminal&#39;s reach](https://dev.to/giuliano1993/can-i-use-cli-compatibility-within-terminals-reach-35da)
+- [ThrashBucket, store and share files anonymously](https://dev.to/koha/thrashbucket-store-and-share-files-anonymously-3e67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
