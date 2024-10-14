@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Principles of UX Design in a No-UI, AI-Driven World](https://dev.to/copods/principles-of-ux-design-in-a-no-ui-ai-driven-world-2hkp)
-- [Value Type va Reference Type &lpar;Complex Examples&rpar;](https://dev.to/firdavs_mukhsimov_9f62550/value-type-va-reference-type-complex-examples-i0f)
-- [Cuando tu factura de AWS se convierte en un meme y tu departamento financiero en un meme-lord 🚀💸](https://dev.to/diek/cuando-tu-factura-de-aws-se-convierte-en-un-meme-y-tu-departamento-financiero-en-un-meme-lord-2li8)
-- [How to integrate shadcn-svelte into the editable.website template](https://dev.to/bensonmwaura/how-to-integrate-shadcn-svelte-into-the-editablewebsite-template-91h)
-- [Optimizing Costs with Azure FinOps Best Practices for MSPs](https://dev.to/buzzgk/optimizing-costs-with-azure-finops-best-practices-for-msps-33ob)
+- [Value Type va Reference Type &lpar;Advanced&rpar;](https://dev.to/asilbek_ibragimov_a0c27cc/value-type-va-reference-type-advanced-2j5l)
+- [My two favorite AI tools &lpar;that I don&#39;t see enough people talking about&rpar;](https://dev.to/wynandpieters/my-two-favorite-ai-tools-that-i-dont-see-enough-people-talking-about-4j9o)
+- [Class va Constructor](https://dev.to/umida5/class-va-constructor-4kfn)
+- [Nullable Types](https://dev.to/firdavs_mukhsimov_9f62550/nullable-types-3d95)
+- [How AI Image Recognition is Transforming Visitor Experiences in Museums and Galleries](https://dev.to/api4ai/how-ai-image-recognition-is-transforming-visitor-experiences-in-museums-and-galleries-2ka8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
