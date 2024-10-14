@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing the New Conductor Java Client v4](https://dev.to/orkes/announcing-the-new-conductor-java-client-v4-4p4e)
-- [Advanced Deduplication Using Apache Spark: A Guide for Machine Learning Pipelines](https://dev.to/ajay_tani/advanced-deduplication-using-apache-spark-a-guide-for-machine-learning-pipelines-3ik6)
-- [Artificial Learners, Not Artificial Intelligence: Why Bigger Data Isn&#39;t Enough](https://dev.to/arkadeepnag/artificial-learners-not-artificial-intelligence-why-bigger-data-isnt-enough-1mb)
-- [Top 5 3D tools recommended: easily create your 3D creativity](https://dev.to/wingwing/top-5-3d-tools-recommended-easily-create-your-3d-creativity-3ec9)
-- [How We Manage to Cut Development Cycle Time by 33%?](https://dev.to/apilover/how-we-manage-to-cut-development-cycle-time-by-33-1flg)
+- [Principles of UX Design in a No-UI, AI-Driven World](https://dev.to/copods/principles-of-ux-design-in-a-no-ui-ai-driven-world-2hkp)
+- [Value Type va Reference Type &lpar;Complex Examples&rpar;](https://dev.to/firdavs_mukhsimov_9f62550/value-type-va-reference-type-complex-examples-i0f)
+- [Cuando tu factura de AWS se convierte en un meme y tu departamento financiero en un meme-lord 🚀💸](https://dev.to/diek/cuando-tu-factura-de-aws-se-convierte-en-un-meme-y-tu-departamento-financiero-en-un-meme-lord-2li8)
+- [How to integrate shadcn-svelte into the editable.website template](https://dev.to/bensonmwaura/how-to-integrate-shadcn-svelte-into-the-editablewebsite-template-91h)
+- [Optimizing Costs with Azure FinOps Best Practices for MSPs](https://dev.to/buzzgk/optimizing-costs-with-azure-finops-best-practices-for-msps-33ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
