@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ballerina vs. Node.js: Choosing the Right Language for Your Next Project](https://dev.to/akhilproto/ballerina-vs-nodejs-choosing-the-right-language-for-your-next-project-1del)
-- [Top 8 dev-tools you can use to get anything you want in life 🤯](https://dev.to/nevodavid/top-8-dev-tools-you-can-use-to-get-anything-you-want-in-life-27po)
-- [Harnessing the Power of Ballerina for Data Streaming Applications](https://dev.to/akhilproto/harnessing-the-power-of-ballerina-for-data-streaming-applications-3fd1)
-- [Scaling Node.js Applications for High Performance](https://dev.to/imsushant12/scaling-nodejs-applications-for-high-performance-2d3b)
-- [Operators &lpar;if, else if, else, ternary operator, switch&rpar;](https://dev.to/firdavs_mukhsimov_9f62550/operators-if-else-if-else-ternary-operator-switch-21f2)
+- [Clean Architecture: The Unattainable Ideal – A Parable for Developers](https://dev.to/simprl/clean-architecture-the-unattainable-ideal-a-parable-for-developers-38ih)
+- [fpdf2 latest news](https://dev.to/lucasc/fpdf2-latest-news-7pc)
+- [What :really: is Keda?](https://dev.to/mikkergimenez/what-really-is-keda-4fc2)
+- [The Power of Clear Function Names: A Clean Code Essential](https://dev.to/56_kode/the-power-of-clear-function-names-a-clean-code-essential-12l2)
+- [How to Migrate From Terraform Cloud](https://dev.to/spacelift/how-to-migrate-from-terraform-cloud-3nnp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
