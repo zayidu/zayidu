@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java vs Python: Which Language to Choose for Your Coding Career?](https://dev.to/abhinowww/java-vs-python-which-language-to-choose-for-your-coding-career-2346)
-- [Four Lessons My First Job as a Software Engineer Taught Me About Coding and Life](https://dev.to/canro91/four-lessons-my-first-job-as-a-software-engineer-taught-me-about-coding-and-life-2em5)
-- [Sybil Attack in the Blockchain Network](https://dev.to/gloriasilver/sybil-attack-in-the-blockchain-network-317h)
-- [Kubernetes for Beginners: Understanding Jobs, Images, and More &lpar;Part 1&rpar;](https://dev.to/moon3485/kubernetes-for-beginners-understanding-jobs-images-and-more-part-1-16bo)
-- [24. Class va Object](https://dev.to/sunnat_qayumov/24-class-va-object-44c8)
+- [Higher-Order Components &lpar;HOCs&rpar; in React](https://dev.to/emhat098/higher-order-components-hocs-in-react-1ge3)
+- [Exploring JavaScript: From Scripting to Object-Oriented Programming](https://dev.to/emhat098/exploring-javascript-from-scripting-to-object-oriented-programming-28dk)
+- [Data Science in 30 days](https://dev.to/elviswangari/data-science-in-30-days-51d5)
+- [Working With Dataverse Tables in Power Automate](https://dev.to/wyattdave/working-with-dataverse-tables-in-power-automate-1adf)
+- [newbie contributor ✨](https://dev.to/codingkatty/newbie-contributor-1770)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
