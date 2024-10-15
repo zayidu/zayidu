@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Decorators in Python](https://dev.to/hakeem/decorators-in-python-6ck)
-- [Revising xlsx file](https://dev.to/lingjun_jiang_c2fc6902f7e/revising-xlsx-file-4hig)
-- [Learning the basics of Osquery](https://dev.to/ognard/learning-the-basics-of-osquery-lb7)
-- [SQL Data Exploration for BoardGameGeek datasets](https://dev.to/ognard/sql-data-exploration-for-boardgamegeek-datasets-5h55)
-- [Amazon RDS vs Aurora: Why Aurora Wins](https://dev.to/lindiwe09/amazon-rds-vs-aurora-why-aurora-wins-3hhk)
+- [AWS Shared Responsibility Model](https://dev.to/hulk-pham/aws-shared-responsibility-model-202p)
+- [Filament: Delete Attachments when Deleting a Record](https://dev.to/sertxudev/filament-delete-attachments-when-deleting-a-record-1jhl)
+- [The Joy of Astro](https://dev.to/dbozhinovski/the-joy-of-astro-5501)
+- [AWS Global Infrastructure](https://dev.to/hulk-pham/aws-global-infrastructure-28d3)
+- [Deno 2.0 REST API Explained: Faster, Secure JavaScript Development](https://dev.to/anticoder03/deno-20-rest-api-explained-faster-secure-javascript-development-30gb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
