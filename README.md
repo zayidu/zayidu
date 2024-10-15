@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use forwardRef in React](https://dev.to/logrocket/how-to-use-forwardref-in-react-2c4p)
-- [Power BI Remote Jobs: How to Find and Succeed in Power BI Remote Roles](https://dev.to/jit_data/power-bi-remote-jobs-how-to-find-and-succeed-in-power-bi-remote-roles-24do)
-- [Format on save for ERB and Ruby files in Zed IDE](https://dev.to/mrispoli24/format-on-save-for-erb-and-ruby-files-in-zed-ide-568g)
-- [OpenSauced on Azure: Lessons learned from a near-zero downtime migration](https://dev.to/opensauced/opensauced-on-azure-lessons-learned-from-a-near-zero-downtime-migration-40b9)
-- [The Importance of Test-Driven Development &lpar;TDD&rpar; and What Companies Expect from Candidates](https://dev.to/sonianand11/the-importance-of-test-driven-development-tdd-and-what-companies-expect-from-candidates-360n)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2mf)
+- [JavaScript Event Loop: How It Works and Why It Matters for Performance](https://dev.to/shafayeat/javascript-event-loop-how-it-works-and-why-it-matters-for-performance-2am6)
+- [Introducing HIP-850: Enhancing Supply Key Functionality for NFT Updates in Treasury Account](https://dev.to/hedera/introducing-hip-850-enhancing-supply-key-functionality-for-nft-updates-in-treasury-account-2di5)
+- [AnalogJS 🤝 Zerops: Official Deployment Partners](https://dev.to/analogjs/analogjs-zerops-official-deployment-partners-1ml0)
+- [My journey as a small developer from Czechia :D](https://dev.to/20player11/my-journey-as-a-small-developer-from-czechia-d-55hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
