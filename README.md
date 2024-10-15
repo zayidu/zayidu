@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Join Quash MAX for Hacktoberfest 2024!](https://dev.to/helloquash/join-quash-max-for-hacktoberfest-2024-2hf8)
-- [Create a Hugo Theme from Scratch - II](https://dev.to/tomowang/create-a-hugo-theme-from-scratch-ii-113)
-- [Create a Hugo Theme from Scratch - IV](https://dev.to/tomowang/create-a-hugo-theme-from-scratch-iv-2nhf)
-- [Create a Hugo Theme from Scratch - III](https://dev.to/tomowang/create-a-hugo-theme-from-scratch-iii-5fm0)
-- [Create a Hugo Theme from Scratch - I](https://dev.to/tomowang/create-a-hugo-theme-from-scratch-i-46j7)
+- [Service Design - How does it differ from CX and UX design?](https://dev.to/lollypopdesign/service-design-how-does-it-differ-from-cx-and-ux-design-1ab3)
+- [How to setup domains and subdomains in localhost](https://dev.to/abdxzi/how-to-setup-domains-and-subdomains-in-localhost-27an)
+- [Lesson 11 – Getting Started with TensorFlow, Docker, and Kubernetes](https://dev.to/dazevedo/getting-started-with-tensorflow-docker-and-kubernetes-308j)
+- [Day 6 Task: Mastering Linux File Permissions and ACLs for DevOps](https://dev.to/singh_in_cloud/day-6-task-mastering-linux-file-permissions-and-acls-for-devops-4acf)
+- [React Hot Toast](https://dev.to/vjygour/react-hot-toast-n6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
