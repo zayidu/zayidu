@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dive into Python Programming with This Comprehensive Course! 🐍](https://dev.to/getvm/dive-into-python-programming-with-this-comprehensive-course-3cei)
-- [Building a Strong Developer Community: Why It Matters](https://dev.to/rashmihc060195/building-a-strong-developer-community-why-it-matters-3m9o)
-- [Optimizing JavaScript with Maps, Sets, and Weak References](https://dev.to/shafayeat/optimizing-javascript-with-maps-sets-and-weak-references-i3g)
-- [Just do it. Now!](https://dev.to/gabrieltoma/just-do-it-now-20am)
-- [Transforming Healthcare with AI Solutions: Enhancing Patient Care](https://dev.to/globalnodes/transforming-healthcare-with-ai-solutions-enhancing-patient-care-3b5d)
+- [Streamline Your Project Workflow Using Swift with Sake: A Practical Guide](https://dev.to/kattouf/streamline-your-project-workflow-using-swift-with-sake-a-practical-guide-jgl)
+- [AWS SysOps Administrator: A Complete Guide to Cloud Management](https://dev.to/s3cloudhub/aws-sysops-administrator-a-complete-guide-to-cloud-management-nmn)
+- [🛋️ Folder Structure Of Laravel &amp; Its Lightweight! Worthy To Know~](https://dev.to/__4ldyfwkymhmd/folder-structure-of-laravel-its-lightweight-worthy-to-know-5066)
+- [Building a File Upload Service in Go](https://dev.to/neelp03/building-a-file-upload-service-in-go-34fj)
+- [Exploring the Future of JavaScript with Deno 2: Why It’s a Game-Changer for Developers.](https://dev.to/haran_2194/exploring-the-future-of-javascript-with-deno-2-why-its-a-game-changer-for-developers-57n9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
