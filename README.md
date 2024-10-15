@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JSConf Chile 2024: El evento imperdible para la comunidad JavaScript en Chile](https://dev.to/josegermanx/jsconf-chile-2024-el-evento-imperdible-para-la-comunidad-javascript-en-chile-4h7e)
-- [Automatically fix code vulnerabilities with AI](https://dev.to/snyk/automatically-fix-code-vulnerabilities-with-ai-4dbf)
-- [Revamped UI for NFT Artworks](https://dev.to/coderralph/revamped-ui-for-nft-artworks-43o8)
-- [How to win a hackaton &lpar;spoiler: Power of Friendship&rpar;](https://dev.to/osmarmontesinos/how-to-win-a-hackaton-spoiler-power-of-friendship-18n)
-- [Capítulo 9 - Consistencia y Consenso](https://dev.to/pabloar/capitulo-9-consistencia-y-consenso-20ci)
+- [#74 - Filter by Maximum Or Minimum Value within A Group &lpar;Find out One for Each Group&rpar;](https://dev.to/judith677/74-filter-by-maximum-or-minimum-value-within-a-group-find-out-one-for-each-group-2a6g)
+- [Blog Post: Adding TOML Config File Support in an Open-Source Project](https://dev.to/inderpreet/blog-post-adding-toml-config-file-support-in-an-open-source-project-161k)
+- [Dive Into the World of Programming: 7 Free Courses to Enhance Your Skills](https://dev.to/getvm/dive-into-the-world-of-programming-7-free-courses-to-enhance-your-skills-1863)
+- [Gamedev Math: Not Just A Tool But A Necessity](https://dev.to/frodo_alsaka/gamedev-math-not-just-a-tool-but-a-necessity-eok)
+- [Manual Testing: A Complete Guide](https://dev.to/keploy/manual-testing-a-complete-guide-5dhp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
