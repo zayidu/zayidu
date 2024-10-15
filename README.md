@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cassandra vs. MongoDB: Choosing the Right NoSQL Database](https://dev.to/ksolves/cassandra-vs-mongodb-choosing-the-right-nosql-database-1ood)
-- [Run Next.js in AWS Lambda](https://dev.to/cnuss/run-nextjs-in-aws-lambda-5fca)
-- [Wait for Services to Start in Docker Compose: wait-for-it vs Healthcheck](https://dev.to/welel/wait-for-services-to-start-in-docker-compose-wait-for-it-vs-healthcheck-127d)
-- [Realtime reliability: How to ensure exactly-once delivery in pub/sub systems](https://dev.to/ably/realtime-reliability-how-to-ensure-exactly-once-delivery-in-pubsub-systems-1ndh)
-- [MongoDB issue](https://dev.to/chmoez/mongodb-issue-47ih)
+- [Decorators in Python](https://dev.to/hakeem/decorators-in-python-6ck)
+- [Revising xlsx file](https://dev.to/lingjun_jiang_c2fc6902f7e/revising-xlsx-file-4hig)
+- [Learning the basics of Osquery](https://dev.to/ognard/learning-the-basics-of-osquery-lb7)
+- [SQL Data Exploration for BoardGameGeek datasets](https://dev.to/ognard/sql-data-exploration-for-boardgamegeek-datasets-5h55)
+- [Amazon RDS vs Aurora: Why Aurora Wins](https://dev.to/lindiwe09/amazon-rds-vs-aurora-why-aurora-wins-3hhk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
