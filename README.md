@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CSS Transitions](https://dev.to/kartikmehta8/mastering-css-transitions-3654)
-- [Tutorial Install WP CLI di Mac OS](https://dev.to/dhimaskirana/tutorial-install-wp-cli-di-mac-os-34ap)
-- [Introduction to TypeSpec](https://dev.to/eminetto/introduction-to-typespec-lg)
-- [🔄 .NET Pro Tip: Use CancellationToken to Gracefully Cancel Threads](https://dev.to/dotnetfullstackdev/net-pro-tip-use-cancellationtoken-to-gracefully-cancel-threads-3an7)
-- [cs50x week5 Data Structures](https://dev.to/kartikjhaba/cs50x-week5-data-structures-42bd)
+- [JSConf Chile 2024: El evento imperdible para la comunidad JavaScript en Chile](https://dev.to/josegermanx/jsconf-chile-2024-el-evento-imperdible-para-la-comunidad-javascript-en-chile-4h7e)
+- [Automatically fix code vulnerabilities with AI](https://dev.to/snyk/automatically-fix-code-vulnerabilities-with-ai-4dbf)
+- [Revamped UI for NFT Artworks](https://dev.to/coderralph/revamped-ui-for-nft-artworks-43o8)
+- [How to win a hackaton &lpar;spoiler: Power of Friendship&rpar;](https://dev.to/osmarmontesinos/how-to-win-a-hackaton-spoiler-power-of-friendship-18n)
+- [Capítulo 9 - Consistencia y Consenso](https://dev.to/pabloar/capitulo-9-consistencia-y-consenso-20ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
