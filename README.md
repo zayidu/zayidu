@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-48hb)
-- [The Electric Revolution](https://dev.to/starkfahr_0ba0042faf/the-electric-revolution-2900)
-- [Automated UI Testing: Benefits, Challenges &amp; Solution](https://dev.to/alishahndrsn/automated-ui-testing-benefits-challenges-solution-34m0)
-- [An Introduction to GoMock: Mocking in Go](https://dev.to/keploy/an-introduction-to-gomock-mocking-in-go-107)
-- [Getting Started with the Django Stack: Create a Full Project](https://dev.to/deleteman123/getting-started-with-the-django-stack-create-a-full-project-5f7j)
+- [How Microsoft Edge Is Replacing React With Web Components](https://dev.to/safdarali/how-microsoft-edge-is-replacing-react-with-web-components-4eml)
+- [Tech Careers: When High Pay Isn&#39;t Worth the Stress](https://dev.to/techbalance_collective/tech-careers-when-high-pay-isnt-worth-the-stress-55pl)
+- [C# Design Pattern: Template Method &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-template-method-portugues-372e)
+- [C# Design Pattern: Template Method](https://dev.to/juarezasjunior/c-design-pattern-template-method-2fnk)
+- [The Power of Python for Web Development: A Deep Dive](https://dev.to/nicholaswinst14/the-power-of-python-for-web-development-a-deep-dive-1dha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
