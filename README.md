@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Microsoft Edge Is Replacing React With Web Components](https://dev.to/safdarali/how-microsoft-edge-is-replacing-react-with-web-components-4eml)
-- [Tech Careers: When High Pay Isn&#39;t Worth the Stress](https://dev.to/techbalance_collective/tech-careers-when-high-pay-isnt-worth-the-stress-55pl)
-- [C# Design Pattern: Template Method &lpar;Portugues&rpar;](https://dev.to/juarezasjunior/c-design-pattern-template-method-portugues-372e)
-- [C# Design Pattern: Template Method](https://dev.to/juarezasjunior/c-design-pattern-template-method-2fnk)
-- [The Power of Python for Web Development: A Deep Dive](https://dev.to/nicholaswinst14/the-power-of-python-for-web-development-a-deep-dive-1dha)
+- [Cassandra vs. MongoDB: Choosing the Right NoSQL Database](https://dev.to/ksolves/cassandra-vs-mongodb-choosing-the-right-nosql-database-1ood)
+- [Run Next.js in AWS Lambda](https://dev.to/cnuss/run-nextjs-in-aws-lambda-5fca)
+- [Wait for Services to Start in Docker Compose: wait-for-it vs Healthcheck](https://dev.to/welel/wait-for-services-to-start-in-docker-compose-wait-for-it-vs-healthcheck-127d)
+- [Realtime reliability: How to ensure exactly-once delivery in pub/sub systems](https://dev.to/ably/realtime-reliability-how-to-ensure-exactly-once-delivery-in-pubsub-systems-1ndh)
+- [MongoDB issue](https://dev.to/chmoez/mongodb-issue-47ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
