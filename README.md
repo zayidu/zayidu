@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adopting a Mentality of Continuous Professional Development in Front End Development](https://dev.to/rohitkhokhar/adopting-a-mentality-of-continuous-professional-development-in-front-end-development-3p08)
-- [&lt;/&gt; htmx in 5 minutes](https://dev.to/pallat/-htmx-in-5-minutes-2l57)
-- [Are you using the custom hooks in React right?](https://dev.to/ragul_murugesan/are-you-using-the-custom-hooks-in-react-right-2051)
-- [Understanding White Box Testing: An In-Depth Guide](https://dev.to/keploy/understanding-white-box-testing-an-in-depth-guide-4mj8)
-- [Caching — An overview](https://dev.to/kartikey_srivastava/caching-an-overview-36o7)
+- [Dive into Python Programming with This Comprehensive Course! 🐍](https://dev.to/getvm/dive-into-python-programming-with-this-comprehensive-course-3cei)
+- [Building a Strong Developer Community: Why It Matters](https://dev.to/rashmihc060195/building-a-strong-developer-community-why-it-matters-3m9o)
+- [Optimizing JavaScript with Maps, Sets, and Weak References](https://dev.to/shafayeat/optimizing-javascript-with-maps-sets-and-weak-references-i3g)
+- [Just do it. Now!](https://dev.to/gabrieltoma/just-do-it-now-20am)
+- [Transforming Healthcare with AI Solutions: Enhancing Patient Care](https://dev.to/globalnodes/transforming-healthcare-with-ai-solutions-enhancing-patient-care-3b5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
