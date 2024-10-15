@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitoreo de Costos de AWS Lambdas con Terraform](https://dev.to/aws-espanol/monitoreo-de-costos-de-aws-lambdas-con-terraform-43oa)
-- [Reflecting on Code-First vs. Database-First Approaches in Backend Development](https://dev.to/stringintech/reflecting-on-code-first-vs-database-first-approaches-in-backend-development-3ohp)
-- [Isn&#39;t it strange that being in a non-responsive state gives authority to someone else to take life and death decisions?](https://dev.to/anubhav_/isnt-it-strange-that-being-in-a-non-responsive-state-gives-authority-to-someone-else-to-take-life-and-death-decisions-128e)
-- [Making your First Project with Deno 2.0](https://dev.to/diegoleteliers10/making-your-first-project-with-deno-20-220d)
-- [Node.js Module System and require Function](https://dev.to/pervez/nodejs-module-system-and-require-function-5i1)
+- [A Simple Guide to Destructuring in JavaScript: Learn with Easy Examples](https://dev.to/shekhartarare/a-simple-guide-to-destructuring-in-javascript-learn-with-easy-examples-574g)
+- [C# Advanced: Creating Reusable Extension Methods](https://dev.to/moh_moh701/c-advanced-creating-reusable-extension-methods-3cho)
+- [AI and the Dawn of a Mediocre Era](https://dev.to/frontpills/ai-and-the-dawn-of-a-mediocre-era-50mk)
+- [Day 36. What is the power of Pull Request?](https://dev.to/kiolk/day-36-what-is-the-power-of-pull-request-3edc)
+- [JavaScript Performance Optimization](https://dev.to/sonaykara/javascript-performance-optimization-4d2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
