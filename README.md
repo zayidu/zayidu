@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing “Cannot Use Import Statement Outside a Module” Error](https://dev.to/codeparrot/fixing-cannot-use-import-statement-outside-a-module-error-43ch)
-- [h](https://dev.to/1_d14fbe258c7f74ddd111d7/h-27ki)
-- [Django | Model-View-Template &lpar;MVT&rpar;](https://dev.to/mrcaption49/django-model-view-template-mvt-5h5p)
-- [How to pass an Array of Structs in Bigquery&#39;s parameterized queries](https://dev.to/stack-labs/how-to-pass-an-array-of-structs-in-bigquerys-parameterized-queries-39nm)
-- [Designing Idempotent APIs](https://dev.to/bibek10/designing-idempotent-apis-5c40)
+- [WPF Application with Plugin Architecture](https://dev.to/ben-witt/wpf-application-with-plugin-architecture-113h)
+- [Mraza](https://dev.to/raza527/mraza-3hbg)
+- [How Much Does It Cost to Develop a Fintech App in 2024?](https://dev.to/kzier/how-much-does-it-cost-to-develop-a-fintech-app-in-2024-323a)
+- [Hosting React static website on AWS S3 with terraform](https://dev.to/nazrul7711/hosting-react-static-website-on-aws-s3-with-terraform-11hn)
+- [A Beginner&#39;s Guide to Crafting AI Picture Prompts](https://dev.to/apoorv12/a-beginners-guide-to-crafting-ai-picture-prompts-15jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
