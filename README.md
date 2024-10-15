@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Service Design - How does it differ from CX and UX design?](https://dev.to/lollypopdesign/service-design-how-does-it-differ-from-cx-and-ux-design-1ab3)
-- [How to setup domains and subdomains in localhost](https://dev.to/abdxzi/how-to-setup-domains-and-subdomains-in-localhost-27an)
-- [Lesson 11 – Getting Started with TensorFlow, Docker, and Kubernetes](https://dev.to/dazevedo/getting-started-with-tensorflow-docker-and-kubernetes-308j)
-- [Day 6 Task: Mastering Linux File Permissions and ACLs for DevOps](https://dev.to/singh_in_cloud/day-6-task-mastering-linux-file-permissions-and-acls-for-devops-4acf)
-- [React Hot Toast](https://dev.to/vjygour/react-hot-toast-n6p)
+- [Tech Spotlight: Daily Tech News](https://dev.to/techdogs_inc/tech-spotlight-daily-tech-news-48hb)
+- [The Electric Revolution](https://dev.to/starkfahr_0ba0042faf/the-electric-revolution-2900)
+- [Automated UI Testing: Benefits, Challenges &amp; Solution](https://dev.to/alishahndrsn/automated-ui-testing-benefits-challenges-solution-34m0)
+- [An Introduction to GoMock: Mocking in Go](https://dev.to/keploy/an-introduction-to-gomock-mocking-in-go-107)
+- [Getting Started with the Django Stack: Create a Full Project](https://dev.to/deleteman123/getting-started-with-the-django-stack-create-a-full-project-5f7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
