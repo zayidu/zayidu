@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cracking the Coding Interview: Part 3 – The Two Pointer Technique](https://dev.to/zzeroyzz/cracking-the-coding-interview-part-3-the-two-pointer-technique-4992)
-- [🔔 Starting My Dev Adventure : Let&#39;s Connect! 🙋🏻](https://dev.to/iamsami/starting-my-dev-adventure-lets-connect-12dl)
-- [The perfect blend: Coffee and Cyber](https://dev.to/minab/the-perfect-blend-coffee-and-cyber-dkd)
-- [F.A.I.L — First action in learning](https://dev.to/ajparadith/fail-first-action-in-learning-boi)
-- [The Key Differences Between let and let! in RSpec](https://dev.to/pepito2k/the-key-differences-between-let-and-let-in-rspec-3ae9)
+- [Monitoreo de Costos de AWS Lambdas con Terraform](https://dev.to/aws-espanol/monitoreo-de-costos-de-aws-lambdas-con-terraform-43oa)
+- [Reflecting on Code-First vs. Database-First Approaches in Backend Development](https://dev.to/stringintech/reflecting-on-code-first-vs-database-first-approaches-in-backend-development-3ohp)
+- [Isn&#39;t it strange that being in a non-responsive state gives authority to someone else to take life and death decisions?](https://dev.to/anubhav_/isnt-it-strange-that-being-in-a-non-responsive-state-gives-authority-to-someone-else-to-take-life-and-death-decisions-128e)
+- [Making your First Project with Deno 2.0](https://dev.to/diegoleteliers10/making-your-first-project-with-deno-20-220d)
+- [Node.js Module System and require Function](https://dev.to/pervez/nodejs-module-system-and-require-function-5i1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
