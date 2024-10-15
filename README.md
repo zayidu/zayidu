@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Spaceship Maintenance with the Automatic Spaceship Detection Script Project](https://dev.to/labex/automate-spaceship-maintenance-with-the-automatic-spaceship-detection-script-project-393g)
-- [The Hidden Costs of Poor Code Quality: Why Testing Matters](https://dev.to/lasserafn/the-hidden-costs-of-poor-code-quality-why-testing-matters-4lg0)
-- [Haciendo tu Primer Proyecto con Deno 2.0](https://dev.to/diegoleteliers10/haciendo-tu-primer-proyecto-con-deno-20-1m2)
-- [Embracing Passwordless Authentication: Passkeys and Hanko](https://dev.to/danishali/embracing-passwordless-authentication-passkeys-and-hanko-abl)
-- [Create an Engaging Voting Widget with Tailwind CSS](https://dev.to/geoffreybr/create-an-engaging-voting-widget-with-tailwind-css-3anp)
+- [Mastering CSS Transitions](https://dev.to/kartikmehta8/mastering-css-transitions-3654)
+- [Tutorial Install WP CLI di Mac OS](https://dev.to/dhimaskirana/tutorial-install-wp-cli-di-mac-os-34ap)
+- [Introduction to TypeSpec](https://dev.to/eminetto/introduction-to-typespec-lg)
+- [🔄 .NET Pro Tip: Use CancellationToken to Gracefully Cancel Threads](https://dev.to/dotnetfullstackdev/net-pro-tip-use-cancellationtoken-to-gracefully-cancel-threads-3an7)
+- [cs50x week5 Data Structures](https://dev.to/kartikjhaba/cs50x-week5-data-structures-42bd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
