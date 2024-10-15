@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2mf)
-- [JavaScript Event Loop: How It Works and Why It Matters for Performance](https://dev.to/shafayeat/javascript-event-loop-how-it-works-and-why-it-matters-for-performance-2am6)
-- [Introducing HIP-850: Enhancing Supply Key Functionality for NFT Updates in Treasury Account](https://dev.to/hedera/introducing-hip-850-enhancing-supply-key-functionality-for-nft-updates-in-treasury-account-2di5)
-- [AnalogJS 🤝 Zerops: Official Deployment Partners](https://dev.to/analogjs/analogjs-zerops-official-deployment-partners-1ml0)
-- [My journey as a small developer from Czechia :D](https://dev.to/20player11/my-journey-as-a-small-developer-from-czechia-d-55hc)
+- [Cracking the Coding Interview: Part 3 – The Two Pointer Technique](https://dev.to/zzeroyzz/cracking-the-coding-interview-part-3-the-two-pointer-technique-4992)
+- [🔔 Starting My Dev Adventure : Let&#39;s Connect! 🙋🏻](https://dev.to/iamsami/starting-my-dev-adventure-lets-connect-12dl)
+- [The perfect blend: Coffee and Cyber](https://dev.to/minab/the-perfect-blend-coffee-and-cyber-dkd)
+- [F.A.I.L — First action in learning](https://dev.to/ajparadith/fail-first-action-in-learning-boi)
+- [The Key Differences Between let and let! in RSpec](https://dev.to/pepito2k/the-key-differences-between-let-and-let-in-rspec-3ae9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
