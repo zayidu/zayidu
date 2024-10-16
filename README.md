@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Difference Between Scripting Languages and Programming Languages](https://dev.to/abhinowww/understanding-the-difference-between-scripting-languages-and-programming-languages-1666)
-- [🧑‍💻 Day 7: Master Linux Package Managers &amp; Systemctl in Your DevOps Journey](https://dev.to/singh_in_cloud/day-7-master-linux-package-managers-systemctl-in-your-devops-journey-568p)
-- [Getting a member according to primary key value #eg59](https://dev.to/esproc_spl/getting-a-member-according-to-primary-key-value-eg59-141e)
-- [Automate Your Java Tasks with Quartz: A Practical Guide](https://dev.to/birkssachdev/automate-your-java-tasks-with-quartz-a-practical-guide-3pc7)
-- [SQL Cheatsheet: A Handy Reference for SQL Commands with Examples](https://dev.to/jagroop2001/sql-cheatsheet-a-handy-reference-for-sql-commands-with-examples-1bbp)
+- [From Contributor to Collaborator: My Hacktoberfest Journey](https://dev.to/priya01/from-contributor-to-collaborator-my-hacktoberfest-journey-2443)
+- [Making a captivating personal homepage, the good, the bad &amp; the ugly &lpar;mostly ugly&rpar;](https://dev.to/boianivanov/making-a-captivating-personal-homepage-the-good-the-bad-the-ugly-mostly-ugly-134)
+- [How to Customize the Auth Challenge in SafeLine WAF](https://dev.to/carrie_luo1/how-to-customize-the-auth-challenge-in-safeline-waf-47hm)
+- [CI/CD with Kubernetes: Automating Deployments using Jenkins and Helm](https://dev.to/birkssachdev/cicd-with-kubernetes-automating-deployments-using-jenkins-and-helm-dp6)
+- [Excelize 2.9.0 Released - Powerful open-source library for spreadsheet &lpar;Excel&rpar; document](https://dev.to/xuri/excelize-290-released-powerful-open-source-library-for-spreadsheet-excel-document-2ee6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
