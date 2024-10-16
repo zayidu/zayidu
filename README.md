@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Heartfelt Thank You Messages for Birthday Wishes](https://dev.to/hania_shahid_66ec3b1d7c30/heartfelt-thank-you-messages-for-birthday-wishes-5he0)
-- [Creating the iMessage CardStack Animation: Part 1 - The Timeline Design](https://dev.to/lmigliorero/creating-the-imessage-cardstack-animation-part-1-the-timeline-design-4oe7)
-- [SELENIUM](https://dev.to/syedalia21/selenium-3lpf)
-- [A Figma-like level design editor](https://dev.to/hugoduprez/a-figma-like-level-design-editor-4kdj)
-- [Using Event Mappers with Rimmel.js: a simple introduction](https://dev.to/dariomannu/using-event-mappers-with-rimmeljs-a-simple-introduction-1hj7)
+- [Top 8 JavaScript Debugging Tools for Front-End Development](https://dev.to/apilover/top-8-javascript-debugging-tools-for-front-end-development-3j0b)
+- [Create a Slack Bot with NodeJS and Slack Bolt API](https://dev.to/olibhiaghosh/create-a-slack-bot-with-nodejs-and-slack-bolt-api-13hm)
+- [17 Must-know React Projects for Developers 👩‍💻 🔥](https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2)
+- [TCP1P CTF INTERNATIONAL 2024 — OSINT Writeup](https://dev.to/hitter/tcp1p-ctf-international-2024-osint-writeup-lam)
+- [🚀 5 Essential Development Principles Every Coder Should Know](https://dev.to/hadil/5-essential-development-principles-every-coder-should-know-2m8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
