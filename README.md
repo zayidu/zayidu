@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Placeholder Maintainer](https://dev.to/drxven/placeholder-maintainer-30cp)
-- [Getting Started with Ballerina: A Beginner’s Guide](https://dev.to/akhilproto/getting-started-with-ballerina-a-beginners-guide-1pdc)
-- [Let&#39;s build a thread pool in Rust 🦀 that can execute multiple tasks concurrently](https://dev.to/fnabinash/lets-build-a-thread-pool-in-rust-that-can-execute-multiple-tasks-concurrently-354o)
-- [Beginner’s Guide to AES Encryption and Decryption in JavaScript using CryptoJS](https://dev.to/shubhamkhan/beginners-guide-to-aes-encryption-and-decryption-in-javascript-using-cryptojs-592)
-- [AWS Identity and Access Management](https://dev.to/hulk-pham/aws-identity-and-access-management-21j)
+- [AWS Artifact for Security Compliance Reports](https://dev.to/ikoh_sylva/aws-artifact-for-security-compliance-reports-29ak)
+- [PWRX](https://dev.to/pwrx_sav/pwrx-441)
+- [Migrando para o Atlas com Live Migrate](https://dev.to/paulobenjamin/migrando-para-o-atlas-com-live-migrate-13b8)
+- [Basic Linux Shell Scripting for DevOps Engineers](https://dev.to/farukh166/basic-linux-shell-scripting-for-devops-engineers-4fjf)
+- [From Intern to Frontend Developer to Selling a Company in College](https://dev.to/aadixc0de/from-intern-to-frontend-developer-to-selling-a-company-in-college-16if)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
