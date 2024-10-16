@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2024 - part 2](https://dev.to/cleobnvntra/hacktoberfest-2024-part-2-1ldj)
-- [How I Built My First Python PET App &lpar;And What I Learned&rpar;](https://dev.to/dev_silva/how-i-built-my-first-python-pet-app-and-what-i-learned-1kfm)
-- [The neverending nightmare of keeping code satisfying!](https://dev.to/khaledsalshibani/the-neverending-nightmare-of-keeping-code-satisfying-2947)
-- [Build an AI Agent in a Next.js app using Web AI Framework](https://dev.to/mahamdev/build-an-ai-agent-in-a-nextjs-app-using-web-ai-framework-31fo)
-- [Python Project Creation on Mac OS X](https://dev.to/hasii2011/python-project-creation-on-mac-os-x-3bb4)
+- [Important React Concepts](https://dev.to/sonaykara/important-react-concepts-978)
+- [Contributing to Open Source Projects #3](https://dev.to/bregwin/contributing-to-open-source-projects-3-dij)
+- [Linux Privilege Escalation: Techniques and Examples](https://dev.to/copyleftdev/linux-privilege-escalation-techniques-and-examples-laa)
+- [Over $200K in prizes!](https://dev.to/cobibean/over-200k-in-prizes-6ka)
+- [Hacktoberfest 3/4. Contributing to ZTM-Quest](https://dev.to/harshil_patel/hacktoberfest-34-contributing-to-ztm-quest-1agb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
