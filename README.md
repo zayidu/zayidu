@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v298](https://dev.to/devteam/welcome-thread-v298-3le2)
-- [AWS ECS](https://dev.to/subham_nandi/aws-ecs-2n9e)
-- [Build a Secure Python Password Generator Using Secret Lib](https://dev.to/scofieldidehen/build-a-secure-python-password-generator-using-secret-lib-288n)
-- [Some Types - Part 2](https://dev.to/jballanc/some-types-part-2-5g43)
-- [Release Channel in K8s](https://dev.to/574n13y/release-channel-in-k8s-5p)
+- [29.for Loop &lpar;Advanced&rpar;](https://dev.to/sunnat_qayumov/29for-loop-advanced-132m)
+- [28.0perators &lpar;if, else if, else, ternary operator, switch&rpar;](https://dev.to/sunnat_qayumov/280perators-if-else-if-else-ternary-operator-switch-3267)
+- [Addressing Configuration Issues of SafeLine WAF](https://dev.to/carrie_luo1/addressing-configuration-issues-of-safeline-waf-bi1)
+- [27. Value va Reference Type &lpar;Advanced&rpar;](https://dev.to/sunnat_qayumov/27-value-va-reference-type-advanced-4g0g)
+- [Start view counter](https://dev.to/barbara_cohen_e0934167b7f/start-view-counter-7g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
