@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey from Postman to EchoAPI: Unlocking Efficient API Version Management](https://dev.to/watson_kristin_2253fed381/my-journey-from-postman-to-echoapi-unlocking-efficient-api-version-management-3a1h)
-- [20. Operators&lpar; if, else if, else, ternaty operator, switch&rpar;](https://dev.to/zahro_11eecc01a1cfe5142b9/20-operators-if-else-if-else-ternaty-operator-switch-2ggb)
-- [🎉 Hacktoberfest &amp; Durga Puja: A Bengali&#39;s October of Celebration 🌸](https://dev.to/nirmalyax/hacktoberfest-durga-puja-a-bengalis-october-of-celebration-4fi0)
-- [Multichain Real-World Asset &lpar;RWA&rpar; Lending with Axelar GMP](https://dev.to/olanetsoft/multichain-real-world-asset-rwa-lending-with-axelar-gmp-4en)
-- [C# Design Pattern: Visitor](https://dev.to/juarezasjunior/c-design-pattern-visitor-5ob)
+- [How to Run Jobs in Parallel with GitHub Actions](https://dev.to/cicube/how-to-run-jobs-in-parallel-with-github-actions-4png)
+- [Common eCommerce Website Issues and How Proper Management Can Fix Them](https://dev.to/angelinajasper/common-ecommerce-website-issues-and-how-proper-management-can-fix-them-3j5d)
+- [How Data-Powered Strategies Can Enhance Competitive Advantage and Market Positioning](https://dev.to/marufhossain/how-data-powered-strategies-can-enhance-competitive-advantage-and-market-positioning-1jcg)
+- [Exploring the 9 Essential Software Architecture Patterns](https://dev.to/akhil_mittal/exploring-the-9-essential-software-architecture-patterns-2kge)
+- [I created an AI-powered platform that generates interactive knowledge trees for visual exploration of complex topics.](https://dev.to/ougai_quantum/i-created-an-ai-powered-platform-that-generates-interactive-knowledge-trees-for-visual-exploration-of-complex-topics-ae0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
