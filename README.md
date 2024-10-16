@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Important React Concepts](https://dev.to/sonaykara/important-react-concepts-978)
-- [Contributing to Open Source Projects #3](https://dev.to/bregwin/contributing-to-open-source-projects-3-dij)
-- [Linux Privilege Escalation: Techniques and Examples](https://dev.to/copyleftdev/linux-privilege-escalation-techniques-and-examples-laa)
-- [Over $200K in prizes!](https://dev.to/cobibean/over-200k-in-prizes-6ka)
-- [Hacktoberfest 3/4. Contributing to ZTM-Quest](https://dev.to/harshil_patel/hacktoberfest-34-contributing-to-ztm-quest-1agb)
+- [10 Bad TypeScript Habits To Break In 2024](https://dev.to/safdarali/10-bad-typescript-habits-to-break-in-2024-2p54)
+- [Building My Laravel &amp; MySQL Web Application: A Developer&#39;s &lpar;Version 1&rpar;](https://dev.to/clever/building-my-laravel-mysql-web-application-a-developers-version-1-3i26)
+- [Sustainable Technology: The Path to a Greener Future](https://dev.to/izabellalbuquerque/sustainable-technology-the-path-to-a-greener-future-2loa)
+- [App developers, where do you find inspiration for your next app ideas?💡](https://dev.to/jxd-dev/app-developers-where-do-you-find-inspiration-for-your-next-app-ideas-1m6p)
+- [My personal profile](https://dev.to/m_faizanfaizii_b10b3e/my-personal-profile-3jj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
