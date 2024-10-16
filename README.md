@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Github Copilot for React Expo](https://dev.to/ves/github-copilot-for-react-expo-5ch8)
-- [Apache SeaTunnel 2.3.8 Officially Released!](https://dev.to/seatunnel/apache-seatunnel-238-officially-released-4l2e)
-- [Top Resources to Learn Testcontainers](https://dev.to/ajeetraina/top-resources-to-learn-testcontainers-26p7)
-- [Log Anything vs Log Everything](https://dev.to/last9/log-anything-vs-log-everything-2c50)
-- [The Best Admin Panel Tutorial](https://dev.to/domfive/the-best-admin-panel-tutorial-126e)
+- [Welcome Thread - v298](https://dev.to/devteam/welcome-thread-v298-3le2)
+- [AWS ECS](https://dev.to/subham_nandi/aws-ecs-2n9e)
+- [Build a Secure Python Password Generator Using Secret Lib](https://dev.to/scofieldidehen/build-a-secure-python-password-generator-using-secret-lib-288n)
+- [Some Types - Part 2](https://dev.to/jballanc/some-types-part-2-5g43)
+- [Release Channel in K8s](https://dev.to/574n13y/release-channel-in-k8s-5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
