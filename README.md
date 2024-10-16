@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the Principle of Least Privilege? A Comprehensive Guide](https://dev.to/bytehide/what-is-the-principle-of-least-privilege-a-comprehensive-guide-2mhi)
-- [AI Detection: What It Is and How It Works](https://dev.to/techdogs_inc/ai-detection-what-it-is-and-how-it-works-1m1k)
-- [The Future of Work: Rethinking Talent Management in the Age of AI](https://dev.to/arbisoftcompany/the-future-of-work-rethinking-talent-management-in-the-age-of-ai-5cfn)
-- [The convenience of CSS&#39;s new @position-try](https://dev.to/tusharshahi/the-convenience-of-csss-new-position-try-28gn)
-- [We Built the Most Advanced AI Repository in the World, Reaching 1️⃣0️⃣0️⃣0️⃣0️⃣ Stars🌟](https://dev.to/copilotkit/copilotkit-soars-beyond-10000-stars-on-github-57f1)
+- [Hacktoberfest Machine Learning Projects for JS/TS Developers 🎃](https://dev.to/safdarali/hacktoberfest-machine-learning-projects-for-jsts-developers-c8)
+- [🤖 Supercharge Productivity With AI](https://dev.to/sammytran/supercharge-productivity-with-ai-49l6)
+- [Records vs Clases en Java](https://dev.to/asjordi/records-vs-clases-en-java-1bb6)
+- [Clear screen at MariaDB CLI](https://dev.to/sertxudev/clear-screen-at-mariadb-cli-17ek)
+- [Solving Cross-Execution Issues in Pact Testing with Kafka and Message Queues](https://dev.to/muratkeremozcan/solving-cross-execution-issues-in-pact-testing-with-kafka-and-message-queues-2d2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
