@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [State update methods in React: Performance](https://dev.to/sonaykara/state-update-methods-in-react-performance-4c85)
-- [🎮No-Code Game Development Engine | Game development without Coding 👌](https://dev.to/amir_hassan_60/no-code-game-development-engine-game-development-without-coding-1kg1)
-- [Cursor has a problem, and it&#39;s not just the price](https://dev.to/watzon/cursor-has-a-problem-and-its-not-just-the-price-4cpl)
-- [Mastering Data Analytics: The Ultimate Guide to Data Analysis](https://dev.to/clement_mwai/mastering-data-analytics-the-ultimate-guide-to-data-analysis-5dk1)
-- [Mastering Data Analytics: The Ultimate Guide to Data Analysis](https://dev.to/clement_mwai/mastering-data-analytics-the-ultimate-guide-to-data-analysis-3pj5)
+- [Placeholder Maintainer](https://dev.to/drxven/placeholder-maintainer-30cp)
+- [Getting Started with Ballerina: A Beginner’s Guide](https://dev.to/akhilproto/getting-started-with-ballerina-a-beginners-guide-1pdc)
+- [Let&#39;s build a thread pool in Rust 🦀 that can execute multiple tasks concurrently](https://dev.to/fnabinash/lets-build-a-thread-pool-in-rust-that-can-execute-multiple-tasks-concurrently-354o)
+- [Beginner’s Guide to AES Encryption and Decryption in JavaScript using CryptoJS](https://dev.to/shubhamkhan/beginners-guide-to-aes-encryption-and-decryption-in-javascript-using-cryptojs-592)
+- [AWS Identity and Access Management](https://dev.to/hulk-pham/aws-identity-and-access-management-21j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
