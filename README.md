@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Contributor to Collaborator: My Hacktoberfest Journey](https://dev.to/priya01/from-contributor-to-collaborator-my-hacktoberfest-journey-2443)
-- [Making a captivating personal homepage, the good, the bad &amp; the ugly &lpar;mostly ugly&rpar;](https://dev.to/boianivanov/making-a-captivating-personal-homepage-the-good-the-bad-the-ugly-mostly-ugly-134)
-- [How to Customize the Auth Challenge in SafeLine WAF](https://dev.to/carrie_luo1/how-to-customize-the-auth-challenge-in-safeline-waf-47hm)
-- [CI/CD with Kubernetes: Automating Deployments using Jenkins and Helm](https://dev.to/birkssachdev/cicd-with-kubernetes-automating-deployments-using-jenkins-and-helm-dp6)
-- [Excelize 2.9.0 Released - Powerful open-source library for spreadsheet &lpar;Excel&rpar; document](https://dev.to/xuri/excelize-290-released-powerful-open-source-library-for-spreadsheet-excel-document-2ee6)
+- [Recommended Software for Mac that You cannot Miss](https://dev.to/angelaswift/recommended-software-for-mac-that-you-cannot-miss-2l8i)
+- [Indexes Under The Hood](https://dev.to/metis/indexes-under-the-hood-44kp)
+- [Telecom Industry Talent Development: Nurturing Skilled Professionals with Leaders such as David Ezell](https://dev.to/davidezell/telecom-industry-talent-development-nurturing-skilled-professionals-with-leaders-such-as-david-ezell-225o)
+- [Hoppscotch: The Best Browser-Based API Testing Tool – A Postman Online Alternative](https://dev.to/hoppscotch/hoppscotch-the-best-browser-based-api-testing-tool-a-postman-online-alternative-2b50)
+- [Embedding Design Into Code](https://dev.to/m0n0x41d/embedding-design-into-code-n4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
