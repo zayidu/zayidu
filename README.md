@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Word Unscrambler with JavaScript &lpar;part 4&rpar;](https://dev.to/bridget_amana/building-a-word-unscrambler-with-javascript-part-4-2plb)
-- [The Weirdest Bugs That Made Developers Question Reality](https://dev.to/_varun_venkat_/the-weirdest-bugs-that-made-developers-question-reality-1d1h)
-- [The week I had 43 Meetings](https://dev.to/martinbaun/the-week-i-had-43-meetings-4gac)
-- [Assignment](https://dev.to/subham_nandi/assignment-3b5k)
-- [How MVP Development Services Reduce Product Risk](https://dev.to/devi_ramyasrija_d44d44d7/how-mvp-development-services-reduce-product-risk-3g2p)
+- [Heartfelt Thank You Messages for Birthday Wishes](https://dev.to/hania_shahid_66ec3b1d7c30/heartfelt-thank-you-messages-for-birthday-wishes-5he0)
+- [Creating the iMessage CardStack Animation: Part 1 - The Timeline Design](https://dev.to/lmigliorero/creating-the-imessage-cardstack-animation-part-1-the-timeline-design-4oe7)
+- [SELENIUM](https://dev.to/syedalia21/selenium-3lpf)
+- [A Figma-like level design editor](https://dev.to/hugoduprez/a-figma-like-level-design-editor-4kdj)
+- [Using Event Mappers with Rimmel.js: a simple introduction](https://dev.to/dariomannu/using-event-mappers-with-rimmeljs-a-simple-introduction-1hj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
