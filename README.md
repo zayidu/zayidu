@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [29.for Loop &lpar;Advanced&rpar;](https://dev.to/sunnat_qayumov/29for-loop-advanced-132m)
-- [28.0perators &lpar;if, else if, else, ternary operator, switch&rpar;](https://dev.to/sunnat_qayumov/280perators-if-else-if-else-ternary-operator-switch-3267)
-- [Addressing Configuration Issues of SafeLine WAF](https://dev.to/carrie_luo1/addressing-configuration-issues-of-safeline-waf-bi1)
-- [27. Value va Reference Type &lpar;Advanced&rpar;](https://dev.to/sunnat_qayumov/27-value-va-reference-type-advanced-4g0g)
-- [Start view counter](https://dev.to/barbara_cohen_e0934167b7f/start-view-counter-7g0)
+- [Understanding the Difference Between Scripting Languages and Programming Languages](https://dev.to/abhinowww/understanding-the-difference-between-scripting-languages-and-programming-languages-1666)
+- [🧑‍💻 Day 7: Master Linux Package Managers &amp; Systemctl in Your DevOps Journey](https://dev.to/singh_in_cloud/day-7-master-linux-package-managers-systemctl-in-your-devops-journey-568p)
+- [Getting a member according to primary key value #eg59](https://dev.to/esproc_spl/getting-a-member-according-to-primary-key-value-eg59-141e)
+- [Automate Your Java Tasks with Quartz: A Practical Guide](https://dev.to/birkssachdev/automate-your-java-tasks-with-quartz-a-practical-guide-3pc7)
+- [SQL Cheatsheet: A Handy Reference for SQL Commands with Examples](https://dev.to/jagroop2001/sql-cheatsheet-a-handy-reference-for-sql-commands-with-examples-1bbp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
