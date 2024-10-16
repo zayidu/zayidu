@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript for Rails Developer Book](https://dev.to/railsdesigner/javascript-for-rails-developer-book-3f0e)
-- [Understanding Hoisting in JavaScript: A Comprehensive Guide](https://dev.to/nishanthank/understanding-hoisting-in-javascript-a-comprehensive-guide-5bic)
-- [White Label Financial Apps: Unlocking New Opportunities for Businesses](https://dev.to/kzier/white-label-financial-apps-unlocking-new-opportunities-for-businesses-25mj)
-- [Key insights I gained from reading &quot;Clean Code&quot;](https://dev.to/patfinder/key-insights-i-gained-from-reading-clean-code-4hnc)
-- [Parallel Chains in LangChain](https://dev.to/thilak15/parallel-chains-in-langchain-a-practical-guide-3o1j)
+- [State update methods in React: Performance](https://dev.to/sonaykara/state-update-methods-in-react-performance-4c85)
+- [🎮No-Code Game Development Engine | Game development without Coding 👌](https://dev.to/amir_hassan_60/no-code-game-development-engine-game-development-without-coding-1kg1)
+- [Cursor has a problem, and it&#39;s not just the price](https://dev.to/watzon/cursor-has-a-problem-and-its-not-just-the-price-4cpl)
+- [Mastering Data Analytics: The Ultimate Guide to Data Analysis](https://dev.to/clement_mwai/mastering-data-analytics-the-ultimate-guide-to-data-analysis-5dk1)
+- [Mastering Data Analytics: The Ultimate Guide to Data Analysis](https://dev.to/clement_mwai/mastering-data-analytics-the-ultimate-guide-to-data-analysis-3pj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
