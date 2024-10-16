@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Github Copilot for React Expo](https://dev.to/ves/github-copilot-for-react-expo-5ch8)
+- [Apache SeaTunnel 2.3.8 Officially Released!](https://dev.to/seatunnel/apache-seatunnel-238-officially-released-4l2e)
+- [Top Resources to Learn Testcontainers](https://dev.to/ajeetraina/top-resources-to-learn-testcontainers-26p7)
 - [Log Anything vs Log Everything](https://dev.to/last9/log-anything-vs-log-everything-2c50)
 - [The Best Admin Panel Tutorial](https://dev.to/domfive/the-best-admin-panel-tutorial-126e)
-- [The True Cost of Poor Data Quality: Why It Matters and How to Improve It](https://dev.to/markyu/the-true-cost-of-poor-data-quality-why-it-matters-and-how-to-improve-it-2epi)
-- [How to Use JSONB in PostgreSQL with Step-by-Step Instructions](https://dev.to/techprane/how-to-use-jsonb-in-postgresql-with-step-by-step-instructions-34k8)
-- [Building Modern UIs with Python Flet: A Beginner&#39;s Guide](https://dev.to/404_chronicles/building-modern-uis-with-python-flet-a-beginners-guide-2n4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
