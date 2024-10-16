@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Separando o Deploy do Release - Como Entregar Valor com Segurança e Flexibilidade](https://dev.to/felipefreitasffs/separando-o-deploy-do-release-como-entregar-valor-com-seguranca-e-flexibilidade-1176)
-- [Day003 - Random posts under TIL](https://dev.to/sarvsav/day003-random-posts-under-til-3fh7)
-- [JavaScript Quick Bits: Bad Comparisons](https://dev.to/oculus42/javascript-quick-bits-bad-comparison-2f4m)
-- [Ng-News 24/41: effect&lpar;&rpar;&#39;s Future, Angular 💔 Playwright CT](https://dev.to/this-is-angular/ng-news-2441-effects-future-angular-playwright-ct-16k5)
-- [Thank you for this community](https://dev.to/4lm1r/thank-you-for-this-community-437m)
+- [Hacktoberfest 2024 - part 2](https://dev.to/cleobnvntra/hacktoberfest-2024-part-2-1ldj)
+- [How I Built My First Python PET App &lpar;And What I Learned&rpar;](https://dev.to/dev_silva/how-i-built-my-first-python-pet-app-and-what-i-learned-1kfm)
+- [The neverending nightmare of keeping code satisfying!](https://dev.to/khaledsalshibani/the-neverending-nightmare-of-keeping-code-satisfying-2947)
+- [Build an AI Agent in a Next.js app using Web AI Framework](https://dev.to/mahamdev/build-an-ai-agent-in-a-nextjs-app-using-web-ai-framework-31fo)
+- [Python Project Creation on Mac OS X](https://dev.to/hasii2011/python-project-creation-on-mac-os-x-3bb4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
