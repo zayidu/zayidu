@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Artifact for Security Compliance Reports](https://dev.to/ikoh_sylva/aws-artifact-for-security-compliance-reports-29ak)
-- [PWRX](https://dev.to/pwrx_sav/pwrx-441)
-- [Migrando para o Atlas com Live Migrate](https://dev.to/paulobenjamin/migrando-para-o-atlas-com-live-migrate-13b8)
-- [Basic Linux Shell Scripting for DevOps Engineers](https://dev.to/farukh166/basic-linux-shell-scripting-for-devops-engineers-4fjf)
-- [From Intern to Frontend Developer to Selling a Company in College](https://dev.to/aadixc0de/from-intern-to-frontend-developer-to-selling-a-company-in-college-16if)
+- [Separando o Deploy do Release - Como Entregar Valor com Segurança e Flexibilidade](https://dev.to/felipefreitasffs/separando-o-deploy-do-release-como-entregar-valor-com-seguranca-e-flexibilidade-1176)
+- [Day003 - Random posts under TIL](https://dev.to/sarvsav/day003-random-posts-under-til-3fh7)
+- [JavaScript Quick Bits: Bad Comparisons](https://dev.to/oculus42/javascript-quick-bits-bad-comparison-2f4m)
+- [Ng-News 24/41: effect&lpar;&rpar;&#39;s Future, Angular 💔 Playwright CT](https://dev.to/this-is-angular/ng-news-2441-effects-future-angular-playwright-ct-16k5)
+- [Thank you for this community](https://dev.to/4lm1r/thank-you-for-this-community-437m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
