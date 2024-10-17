@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Everyone Should Contribute to Open Source &lpar; Even If You Can’t Code! &rpar;](https://dev.to/dhanushnehru/why-everyone-should-contribute-to-open-source-even-if-you-cant-code--5f0f)
-- [My First Participation in Hacktoberfest: An Enriching Experience](https://dev.to/yakedev/my-first-participation-in-hacktoberfest-an-enriching-experience-407f)
-- [Day 5 of 365 &lpar;10 Million Yen Japan Career Switch Challenge&rpar;](https://dev.to/kameken100/day-5-of-365-10-million-yen-japan-career-switch-challenge-1045)
-- [Power BI REST API: Automating Tasks and Integrating Power BI with Other Services](https://dev.to/jit_data/power-bi-rest-api-automating-tasks-and-integrating-power-bi-with-other-services-2oa3)
-- [Schrödinger’s Backups: A Lesson in Uncertainty](https://dev.to/mayur_c6fadaa0f628c566441/schrodingers-backups-a-lesson-in-uncertainty-di9)
+- [My 12 Weeks AWS Workshop Cloud Journey](https://dev.to/oluwanifemi_loveth_1/my-12-weeks-aws-workshop-journey-4dhk)
+- [Express v5: What You Need to Know About Express v5](https://dev.to/usman_awan/express-v5-what-you-need-to-know-about-express-v5-1j3h)
+- [The hidden cost of code reviews](https://dev.to/marcopatino/the-hidden-cost-of-code-reviews-315l)
+- [Tutorial Upload Laravel Project ke Shared Hosting](https://dev.to/dhimaskirana/tutorial-upload-laravel-project-ke-shared-hosting-5cjd)
+- [The Importance of Communication in a Software Team](https://dev.to/joacod/the-importance-of-communication-in-a-software-team-26e1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
