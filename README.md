@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Say hello to FreeBSD](https://dev.to/brunopacheco1/say-hello-to-freebsd-71p)
-- [MySQL Terminal: Login, Users and Permissions](https://dev.to/xxzeroxx/mysql-terminal-login-users-and-permissions-53ie)
-- [AI Tool: V0 with drag and drop and tailwindcss](https://dev.to/buildwebcrumbs/ai-tool-v0-with-drag-and-drop-and-tailwindcss-1jkh)
-- [Quick Tip: Git Undo Commands](https://dev.to/codewithcaen/quick-tip-git-undo-commands-1kj9)
-- [Using Mixins in Sass](https://dev.to/codeparrot/using-mixins-in-sass-4p23)
+- [How to Automate Everyday Tasks with Python](https://dev.to/trixsec/how-to-automate-everyday-tasks-with-python-4g1k)
+- [Features of Javascript You Should Know](https://dev.to/sonaykara/javascript-features-you-need-to-know-2n8c)
+- [From Web2 to DeFi: Leveraging Liquidity Aggregation Tools for Seamless Integration: OneLiquidity](https://dev.to/olabima_/from-web2-to-defi-leveraging-liquidity-aggregation-tools-for-seamless-integration-oneliquidity-2omk)
+- [Component decorator in TypeDoc](https://dev.to/thinkthroo/component-decorator-in-typedoc-ial)
+- [Automation - How to Send Email Programmatically with Python](https://dev.to/techelopment/automation-how-to-send-email-programmatically-with-python-4da2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
