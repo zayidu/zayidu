@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My 12 Weeks AWS Workshop Cloud Journey](https://dev.to/oluwanifemi_loveth_1/my-12-weeks-aws-workshop-journey-4dhk)
-- [Express v5: What You Need to Know About Express v5](https://dev.to/usman_awan/express-v5-what-you-need-to-know-about-express-v5-1j3h)
-- [The hidden cost of code reviews](https://dev.to/marcopatino/the-hidden-cost-of-code-reviews-315l)
-- [Tutorial Upload Laravel Project ke Shared Hosting](https://dev.to/dhimaskirana/tutorial-upload-laravel-project-ke-shared-hosting-5cjd)
-- [The Importance of Communication in a Software Team](https://dev.to/joacod/the-importance-of-communication-in-a-software-team-26e1)
+- [Cracking the Coding Interview: Part 5 – The Merge Intervals Pattern](https://dev.to/zzeroyzz/cracking-the-coding-interview-part-5-the-merge-intervals-pattern-5blj)
+- [Taming Long Text: The Art of Truncation with CSS](https://dev.to/56_kode/taming-long-text-the-art-of-truncation-with-css-393)
+- [You Probably Don&#39;t Need Serializable Isolation](https://dev.to/aws-heroes/you-probably-dont-need-serializable-isolation-131g)
+- [Why Do Web Developers Suck at Making Video Games?](https://dev.to/wadecodez/why-do-web-developers-suck-at-making-video-games-ki9)
+- [Valorant人気ナイフスキンランキング | レアスキンや新作スキンの詳細](https://dev.to/eddy_chil/valorantren-qi-naihusukinrankingu-reasukinyaxin-zuo-sukinnoxiang-xi-2cp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
