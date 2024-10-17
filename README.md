@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cart Functions and how to do them in PHP](https://dev.to/yarkodev/cart-functions-and-how-to-do-them-in-php-1g1e)
-- [A privacy focused online PDF Editor](https://dev.to/ekansh_02898088ac05036971/a-privacy-focused-online-pdf-editor-4icc)
-- [Automating WireGuard VPN Setup with Ansible Ec2 Linux: A Step-by-Step Guide](https://dev.to/giasuddin90/automating-wireguard-vpn-setup-with-ansible-ec2-linux-a-step-by-step-guide-5058)
-- [How to setup the Nvidia TAO Toolkit on Kaggle Notebook](https://dev.to/reckon762/how-to-setup-the-nvidia-tao-toolkit-on-kaggle-notebook-3h77)
-- [🎉Hacktoberfest: A Journey of Open Source Awesomeness 🚀](https://dev.to/kunal15112001/hacktoberfest-a-journey-of-open-source-awesomeness-44ji)
+- [Building a Big Data Playground Sandbox for Learning](https://dev.to/abdullah_haggag/building-a-big-data-playground-sandbox-for-learning-cgi)
+- [The Future of Passwordless Authentication: Are Passwords Becoming Obsolete?](https://dev.to/akansh_pandeyap_041d5b/the-future-of-passwordless-authentication-are-passwords-becoming-obsolete-mpj)
+- [Cosmos’s New Interchain Stack: The One-Level-Up SDK for Sovereign L1 Builders](https://dev.to/zeeve/cosmoss-new-interchain-stack-the-one-level-up-sdk-for-sovereign-l1-builders-clc)
+- [Brain.JS -- The intelligence for your frontend app](https://dev.to/tanoy_basak/brainjs-the-intelligence-for-your-frontend-app-14ak)
+- [I Built a Collection of 100+ Open-Source SVG Spinners](https://dev.to/shubhamjain/i-built-a-collection-of-100-open-source-svg-spinners-2975)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
