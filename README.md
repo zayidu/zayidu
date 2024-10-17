@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Weaviate Vector Database &lpar;feat. Bob van Luijt&rpar;](https://dev.to/vpalania/introduction-to-weaviate-vector-database-feat-bob-van-luijt-bab)
-- [Building Desktop Apps with Tauri](https://dev.to/kartikmehta8/building-desktop-apps-with-tauri-o1g)
-- [Check Pagination in .NET: With and Without Entity Framework](https://dev.to/dotnetfullstackdev/check-pagination-in-net-with-and-without-entity-framework-i7p)
-- [Create Toggle Button in HTML CSS &amp; JavaScript](https://dev.to/notarena/create-toggle-button-in-html-css-javascript-2l2c)
-- [Abstração em Programação Orientada a Objetos](https://dev.to/emanoelcarvalho/abstracao-em-programacao-orientada-a-objetos-5bb4)
+- [#76 — Simple Column-Wise Aggregation](https://dev.to/judith677/76-simple-column-wise-aggregation-4ag)
+- [Deploying Prometheus Postgres Exporter via Helm Chart](https://dev.to/rslim087a/deploying-prometheus-postgres-exporter-via-helm-chart-2bn6)
+- [An Introduction to FPGA Programming with Python Using MyHDL](https://dev.to/oven_kivi_9767f2633fb99c9/an-introduction-to-fpga-programming-with-python-using-myhdl-2lp0)
+- [Verilog vs VHDL: Choosing the Right HDL for FPGA Programming](https://dev.to/oven_kivi_9767f2633fb99c9/verilog-vs-vhdl-choosing-the-right-hdl-for-fpga-programming-27c3)
+- [Transactional Emails: A long term view](https://dev.to/jeremy_tly/transactional-emails-a-long-term-view-13l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
