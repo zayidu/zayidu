@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Security Operations with Safeline WAF](https://dev.to/carrie_luo1/automated-security-operations-with-safeline-waf-5fic)
-- [Vaadin, the battery-included server-side AJAX framework](https://dev.to/nfrankel/vaadin-the-battery-included-server-side-ajax-framework-21nm)
-- [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5)
-- [Building Your Network to Advance Your Career: Networking Strategies for Web Developers](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-your-network-to-advance-your-career-networking-strategies-for-web-developers-232f)
-- [How to determine the resistor or capacitor for RC low frequency filter.](https://dev.to/zhangzhuyue/how-to-determine-the-resistor-or-capacitor-for-rc-low-frequency-filter-286c)
+- [The Hidden Key: A Tale of Access Control](https://dev.to/carrie_luo1/the-hidden-key-a-tale-of-access-control-3lm9)
+- [Test Automation in Software Development](https://dev.to/jennife05918349/test-automation-in-software-development-1b5d)
+- [5 Key Software Architecture Principles for Starting Your Next Project](https://dev.to/byteminds_agency/5-key-software-architecture-principles-for-starting-your-next-project-57og)
+- [Running Spring Boot Applications With Gradle and Maven](https://dev.to/petemode/running-spring-boot-applications-with-gradle-and-maven-2lgp)
+- [FastLane’s ERC-4337 Support, Limitless x Etherspot, XION’s Walletless Blockchain, and Unichain Launch](https://dev.to/alexandradev/fastlanes-erc-4337-support-limitless-x-etherspot-xions-walletless-blockchain-and-unichain-launch-1d6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
