@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate Everyday Tasks with Python](https://dev.to/trixsec/how-to-automate-everyday-tasks-with-python-4g1k)
-- [Features of Javascript You Should Know](https://dev.to/sonaykara/javascript-features-you-need-to-know-2n8c)
-- [From Web2 to DeFi: Leveraging Liquidity Aggregation Tools for Seamless Integration: OneLiquidity](https://dev.to/olabima_/from-web2-to-defi-leveraging-liquidity-aggregation-tools-for-seamless-integration-oneliquidity-2omk)
-- [Component decorator in TypeDoc](https://dev.to/thinkthroo/component-decorator-in-typedoc-ial)
-- [Automation - How to Send Email Programmatically with Python](https://dev.to/techelopment/automation-how-to-send-email-programmatically-with-python-4da2)
+- [Reliable Multi-Agent Orchestration with Durable Swarm](https://dev.to/dbos/reliable-multi-agent-orchestration-with-durable-swarm-1f6l)
+- [What is JavaScript and Why You Should Learn It](https://dev.to/ridoy_hasan/what-is-javascript-and-why-you-should-learn-it-2e7l)
+- [Introdução ao String Catalog: Melhore a localização de strings no iOS 16 com Xcode 14](https://dev.to/lys/introducao-ao-string-catalog-melhore-a-localizacao-de-strings-no-ios-16-com-xcode-14-2je1)
+- [AWS EKS CLUSTER](https://dev.to/she0407/aws-eks-cluster-1j99)
+- [Day 1044 : Care Plan](https://dev.to/dwane/day-1044-care-plan-2516)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
