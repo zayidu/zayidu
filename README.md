@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering GitHub Actions for DevOps Engineers: A Complete Guide from Beginner to Advanced](https://dev.to/prodevopsguytech/mastering-github-actions-for-devops-engineers-a-complete-guide-from-beginner-to-advanced-2lc1)
-- [Code Your Way to Financial Freedom: A Developer&#39;s Roadmap](https://dev.to/techbalance_collective/code-your-way-to-financial-freedom-a-developers-roadmap-4bhk)
-- [Object Serialization and Deserialization with Newtonsoft.Json](https://dev.to/juarezasjunior/object-serialization-and-deserialization-with-newtonsoftjson-1j1b)
-- [The Adventures of Blink S2e6: Integrating All the Things](https://dev.to/linkbenjamin/the-adventures-of-blink-s2e6-integrating-all-the-things-302a)
-- [Serialização e Desserialização de Objetos com Newtonsoft.Json](https://dev.to/juarezasjunior/serializacao-e-desserializacao-de-objetos-com-newtonsoftjson-5b0a)
+- [Build your own personal SIRI with LLAMA-3 like a PRO! 🧙‍♂️ 🪄](https://dev.to/shricodev/build-your-personal-siri-with-llama-3-like-a-pro-5h1o)
+- [Engineer Astra! Explore top colleges and best courses in India.](https://dev.to/vishal_tiwari_114f21d14e5/engineer-astra-explore-top-colleges-and-best-courses-in-india-4bad)
+- [Chuck Norris TODO list](https://dev.to/pengeszikra/chuck-norris-todo-list-564l)
+- [Item 63: Cuidado com o desempenho da concatenação de string](https://dev.to/giselecoder/item-63-cuidado-com-o-desempenho-da-concatenacaode-string-2b67)
+- [Best Perplexity AI Integrations](https://dev.to/ritiktyagi27/best-perplexity-ai-integrations-of-2024-f8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
