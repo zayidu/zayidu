@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Accidentally Became a YouTube Creator... 54 Years Ago!&quot; 😯](https://dev.to/devops_descent/how-i-accidentally-became-a-youtube-creator-54-years-ago-4mdk)
-- [Understanding SQL COALESCE for Null Handling](https://dev.to/dbvismarketing/understanding-sql-coalesce-for-null-handling-4d9b)
-- [Puzzle game using html css and js](https://dev.to/prince_beec5ccde00b7c6c73/puzzle-game-using-html-css-and-js-14d)
-- [New Blog Alert!](https://dev.to/marmiksoni/new-blog-alert-264k)
-- [Figma for developers: Figma Styles, Typography and Variables](https://dev.to/codeparrot/figma-for-developers-figma-styles-typography-and-variables-4pb)
+- [Configuring the SSL protocol for Open Source SafeLine WAF](https://dev.to/carrie_luo1/configuring-the-ssl-protocol-for-open-source-safeline-waf-1e4m)
+- [Angular Is Your Best Shot To Land A Frontend Job](https://dev.to/this-is-angular/angular-is-your-best-shot-to-land-a-frontend-job-1eip)
+- [What is Application Security?](https://dev.to/shivamchamoli18/what-is-application-security-cmd)
+- [Bangalore&#39;s Role as a Data Science Hub: How BCA Programs Align with Industry Needs](https://dev.to/kavana-bm/bangalores-role-as-a-data-science-hub-how-bca-programs-align-with-industry-needs-jl2)
+- [Next.js 13 App Router: A Comprehensive Guide with Real-World Example](https://dev.to/priyansh0510/nextjs-13-app-router-a-comprehensive-guide-with-real-world-example-17dn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
