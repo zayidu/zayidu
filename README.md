@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring the SSL protocol for Open Source SafeLine WAF](https://dev.to/carrie_luo1/configuring-the-ssl-protocol-for-open-source-safeline-waf-1e4m)
-- [Angular Is Your Best Shot To Land A Frontend Job](https://dev.to/this-is-angular/angular-is-your-best-shot-to-land-a-frontend-job-1eip)
-- [What is Application Security?](https://dev.to/shivamchamoli18/what-is-application-security-cmd)
-- [Bangalore&#39;s Role as a Data Science Hub: How BCA Programs Align with Industry Needs](https://dev.to/kavana-bm/bangalores-role-as-a-data-science-hub-how-bca-programs-align-with-industry-needs-jl2)
-- [Next.js 13 App Router: A Comprehensive Guide with Real-World Example](https://dev.to/priyansh0510/nextjs-13-app-router-a-comprehensive-guide-with-real-world-example-17dn)
+- [Automated Security Operations with Safeline WAF](https://dev.to/carrie_luo1/automated-security-operations-with-safeline-waf-5fic)
+- [Vaadin, the battery-included server-side AJAX framework](https://dev.to/nfrankel/vaadin-the-battery-included-server-side-ajax-framework-21nm)
+- [How to Automatically Issue Badges for Instruqt Labs](https://dev.to/raphink/how-to-automatically-issue-badges-for-instruqt-labs-18k5)
+- [Building Your Network to Advance Your Career: Networking Strategies for Web Developers](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-your-network-to-advance-your-career-networking-strategies-for-web-developers-232f)
+- [How to determine the resistor or capacitor for RC low frequency filter.](https://dev.to/zhangzhuyue/how-to-determine-the-resistor-or-capacitor-for-rc-low-frequency-filter-286c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
