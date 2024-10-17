@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Structural pattern matching in Python](https://dev.to/myexamcloud/structural-pattern-matching-in-python-3em1)
-- [Understanding and supporting zoom behaviors on the web](https://dev.to/logrocket/understanding-and-supporting-zoom-behaviors-on-the-web-4gek)
-- [Changing CSS as You Scroll with Stimulus](https://dev.to/railsdesigner/changing-css-as-you-scroll-with-stimulus-5854)
-- [Understanding &quot;this&quot; in JavaScript objects and functions.](https://dev.to/js_cipher/understanding-this-in-javascript-objects-and-functions-24ld)
-- [New wallpapers every day](https://dev.to/lamg/new-wallpapers-every-day-53ok)
+- [Why Everyone Should Contribute to Open Source &lpar; Even If You Can’t Code! &rpar;](https://dev.to/dhanushnehru/why-everyone-should-contribute-to-open-source-even-if-you-cant-code--5f0f)
+- [My First Participation in Hacktoberfest: An Enriching Experience](https://dev.to/yakedev/my-first-participation-in-hacktoberfest-an-enriching-experience-407f)
+- [Day 5 of 365 &lpar;10 Million Yen Japan Career Switch Challenge&rpar;](https://dev.to/kameken100/day-5-of-365-10-million-yen-japan-career-switch-challenge-1045)
+- [Power BI REST API: Automating Tasks and Integrating Power BI with Other Services](https://dev.to/jit_data/power-bi-rest-api-automating-tasks-and-integrating-power-bi-with-other-services-2oa3)
+- [Schrödinger’s Backups: A Lesson in Uncertainty](https://dev.to/mayur_c6fadaa0f628c566441/schrodingers-backups-a-lesson-in-uncertainty-di9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
