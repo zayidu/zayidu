@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Bad TypeScript Habits To Break In 2024](https://dev.to/safdarali/10-bad-typescript-habits-to-break-in-2024-2p54)
-- [Building My Laravel &amp; MySQL Web Application: A Developer&#39;s &lpar;Version 1&rpar;](https://dev.to/clever/building-my-laravel-mysql-web-application-a-developers-version-1-3i26)
-- [Sustainable Technology: The Path to a Greener Future](https://dev.to/izabellalbuquerque/sustainable-technology-the-path-to-a-greener-future-2loa)
-- [App developers, where do you find inspiration for your next app ideas?💡](https://dev.to/jxd-dev/app-developers-where-do-you-find-inspiration-for-your-next-app-ideas-1m6p)
-- [My personal profile](https://dev.to/m_faizanfaizii_b10b3e/my-personal-profile-3jj7)
+- [Introduction to Weaviate Vector Database &lpar;feat. Bob van Luijt&rpar;](https://dev.to/vpalania/introduction-to-weaviate-vector-database-feat-bob-van-luijt-bab)
+- [Building Desktop Apps with Tauri](https://dev.to/kartikmehta8/building-desktop-apps-with-tauri-o1g)
+- [Check Pagination in .NET: With and Without Entity Framework](https://dev.to/dotnetfullstackdev/check-pagination-in-net-with-and-without-entity-framework-i7p)
+- [Create Toggle Button in HTML CSS &amp; JavaScript](https://dev.to/notarena/create-toggle-button-in-html-css-javascript-2l2c)
+- [Abstração em Programação Orientada a Objetos](https://dev.to/emanoelcarvalho/abstracao-em-programacao-orientada-a-objetos-5bb4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
