@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Desbloqueie a Observabilidade: Guia prático com OpenTelemetry e Prometheus](https://dev.to/rflpazini/desbloqueie-a-observabilidade-guia-pratico-com-opentelemetry-e-prometheus-1pbc)
-- [MASTERING DATA ANALYTICS: The Ultimate Guide To Data Analytics](https://dev.to/kihoro_codes_c959f8c68a9c/mastering-data-analytics-the-ultimate-guide-to-data-analytics-1hhe)
-- [Introducing Our New Interactive Prompt Sheet](https://dev.to/susheel_kumar/introducing-our-new-interactive-prompt-sheet-36gh)
-- [Automating Authentication in Apollo Sandbox Explorer with Pre-request Scripts](https://dev.to/khanhtoandng/automating-authentication-in-apollo-sandbox-explorer-with-pre-request-scripts-1fil)
-- [Scared of JavaScript &lpar;programming in general&rpar;, who is the best/easiest teacher to learn from?](https://dev.to/marcus_44b0cc11388a1345bc/scared-of-javascript-programming-in-general-who-is-the-besteasiest-teacher-to-learn-from-a7g)
+- [Cart Functions and how to do them in PHP](https://dev.to/yarkodev/cart-functions-and-how-to-do-them-in-php-1g1e)
+- [A privacy focused online PDF Editor](https://dev.to/ekansh_02898088ac05036971/a-privacy-focused-online-pdf-editor-4icc)
+- [Automating WireGuard VPN Setup with Ansible Ec2 Linux: A Step-by-Step Guide](https://dev.to/giasuddin90/automating-wireguard-vpn-setup-with-ansible-ec2-linux-a-step-by-step-guide-5058)
+- [How to setup the Nvidia TAO Toolkit on Kaggle Notebook](https://dev.to/reckon762/how-to-setup-the-nvidia-tao-toolkit-on-kaggle-notebook-3h77)
+- [🎉Hacktoberfest: A Journey of Open Source Awesomeness 🚀](https://dev.to/kunal15112001/hacktoberfest-a-journey-of-open-source-awesomeness-44ji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
