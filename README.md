@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cracking the Coding Interview: Part 5 – The Merge Intervals Pattern](https://dev.to/zzeroyzz/cracking-the-coding-interview-part-5-the-merge-intervals-pattern-5blj)
-- [Taming Long Text: The Art of Truncation with CSS](https://dev.to/56_kode/taming-long-text-the-art-of-truncation-with-css-393)
-- [You Probably Don&#39;t Need Serializable Isolation](https://dev.to/aws-heroes/you-probably-dont-need-serializable-isolation-131g)
-- [Why Do Web Developers Suck at Making Video Games?](https://dev.to/wadecodez/why-do-web-developers-suck-at-making-video-games-ki9)
-- [Valorant人気ナイフスキンランキング | レアスキンや新作スキンの詳細](https://dev.to/eddy_chil/valorantren-qi-naihusukinrankingu-reasukinyaxin-zuo-sukinnoxiang-xi-2cp1)
+- [Why You Should &lpar;Probably&rpar; Use TypeScript?](https://dev.to/shafayeat/why-you-should-probably-use-typescript-25g9)
+- [TypeScript Utility Types: Enhancing Code Reusability](https://dev.to/shafayeat/typescript-utility-types-enhancing-code-reusability-507g)
+- [Creating an API with Lithe](https://dev.to/lithephp/creating-an-api-with-lithe-5g46)
+- [Criando uma API com Lithe](https://dev.to/lithephp/criando-uma-api-com-lithe-11n5)
+- [10 Tips to Level Up as a Full Stack Developer at Any Age](https://dev.to/abdullah_tajudeen_a406597/10-tips-to-level-up-as-a-full-stack-developer-at-any-age-2507)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
