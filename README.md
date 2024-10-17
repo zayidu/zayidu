@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Syntax vs. Semantics](https://dev.to/hexalore/syntax-vs-semantics-4ckd)
-- [Understanding Node.js’s Single-Threaded Model and Concurrency](https://dev.to/softden_2005/understanding-nodejss-single-threaded-model-and-concurrency-12lc)
-- [HTML Diff for CKEditor](https://dev.to/lorenlee/html-diff-for-ck-editor-1hc4)
-- [Cucumber Testing: A Comprehensive Guide](https://dev.to/keploy/cucumber-testing-a-comprehensive-guide-3fj2)
-- [Awesome Prompts](https://dev.to/susheel_kumar/awesome-prompts-hib)
+- [Desbloqueie a Observabilidade: Guia prático com OpenTelemetry e Prometheus](https://dev.to/rflpazini/desbloqueie-a-observabilidade-guia-pratico-com-opentelemetry-e-prometheus-1pbc)
+- [MASTERING DATA ANALYTICS: The Ultimate Guide To Data Analytics](https://dev.to/kihoro_codes_c959f8c68a9c/mastering-data-analytics-the-ultimate-guide-to-data-analytics-1hhe)
+- [Introducing Our New Interactive Prompt Sheet](https://dev.to/susheel_kumar/introducing-our-new-interactive-prompt-sheet-36gh)
+- [Automating Authentication in Apollo Sandbox Explorer with Pre-request Scripts](https://dev.to/khanhtoandng/automating-authentication-in-apollo-sandbox-explorer-with-pre-request-scripts-1fil)
+- [Scared of JavaScript &lpar;programming in general&rpar;, who is the best/easiest teacher to learn from?](https://dev.to/marcus_44b0cc11388a1345bc/scared-of-javascript-programming-in-general-who-is-the-besteasiest-teacher-to-learn-from-a7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
