@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should &lpar;Probably&rpar; Use TypeScript?](https://dev.to/shafayeat/why-you-should-probably-use-typescript-25g9)
-- [TypeScript Utility Types: Enhancing Code Reusability](https://dev.to/shafayeat/typescript-utility-types-enhancing-code-reusability-507g)
-- [Creating an API with Lithe](https://dev.to/lithephp/creating-an-api-with-lithe-5g46)
-- [Criando uma API com Lithe](https://dev.to/lithephp/criando-uma-api-com-lithe-11n5)
-- [10 Tips to Level Up as a Full Stack Developer at Any Age](https://dev.to/abdullah_tajudeen_a406597/10-tips-to-level-up-as-a-full-stack-developer-at-any-age-2507)
+- [Oct 24: Virtual AI, Machine Learning and Computer Vision Meetup](https://dev.to/voxel51/oct-24-virtual-ai-machine-learning-and-computer-vision-meetup-1h8p)
+- [WTF is Low-Level Design?](https://dev.to/shivam_chauhan/wtf-is-low-level-design-58b3)
+- [A different project of mine: Youtube to text](https://dev.to/demirwebx/a-different-project-of-mine-youtube-to-text-11ph)
+- [Bun &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/bun-bite-size-article-192m)
+- [Advanced Linux Shell Scripting for DevOps Engineers with User Management](https://dev.to/farukh166/advanced-linux-shell-scripting-for-devops-engineers-with-user-management-2dna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
