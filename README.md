@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#76 — Simple Column-Wise Aggregation](https://dev.to/judith677/76-simple-column-wise-aggregation-4ag)
-- [Deploying Prometheus Postgres Exporter via Helm Chart](https://dev.to/rslim087a/deploying-prometheus-postgres-exporter-via-helm-chart-2bn6)
-- [An Introduction to FPGA Programming with Python Using MyHDL](https://dev.to/oven_kivi_9767f2633fb99c9/an-introduction-to-fpga-programming-with-python-using-myhdl-2lp0)
-- [Verilog vs VHDL: Choosing the Right HDL for FPGA Programming](https://dev.to/oven_kivi_9767f2633fb99c9/verilog-vs-vhdl-choosing-the-right-hdl-for-fpga-programming-27c3)
-- [Transactional Emails: A long term view](https://dev.to/jeremy_tly/transactional-emails-a-long-term-view-13l6)
+- [Syntax vs. Semantics](https://dev.to/hexalore/syntax-vs-semantics-4ckd)
+- [Understanding Node.js’s Single-Threaded Model and Concurrency](https://dev.to/softden_2005/understanding-nodejss-single-threaded-model-and-concurrency-12lc)
+- [HTML Diff for CKEditor](https://dev.to/lorenlee/html-diff-for-ck-editor-1hc4)
+- [Cucumber Testing: A Comprehensive Guide](https://dev.to/keploy/cucumber-testing-a-comprehensive-guide-3fj2)
+- [Awesome Prompts](https://dev.to/susheel_kumar/awesome-prompts-hib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
