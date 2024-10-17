@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Big Data Playground Sandbox for Learning](https://dev.to/abdullah_haggag/building-a-big-data-playground-sandbox-for-learning-cgi)
-- [The Future of Passwordless Authentication: Are Passwords Becoming Obsolete?](https://dev.to/akansh_pandeyap_041d5b/the-future-of-passwordless-authentication-are-passwords-becoming-obsolete-mpj)
-- [Cosmos’s New Interchain Stack: The One-Level-Up SDK for Sovereign L1 Builders](https://dev.to/zeeve/cosmoss-new-interchain-stack-the-one-level-up-sdk-for-sovereign-l1-builders-clc)
-- [Brain.JS -- The intelligence for your frontend app](https://dev.to/tanoy_basak/brainjs-the-intelligence-for-your-frontend-app-14ak)
-- [I Built a Collection of 100+ Open-Source SVG Spinners](https://dev.to/shubhamjain/i-built-a-collection-of-100-open-source-svg-spinners-2975)
+- [How I Accidentally Became a YouTube Creator... 54 Years Ago!&quot; 😯](https://dev.to/devops_descent/how-i-accidentally-became-a-youtube-creator-54-years-ago-4mdk)
+- [Understanding SQL COALESCE for Null Handling](https://dev.to/dbvismarketing/understanding-sql-coalesce-for-null-handling-4d9b)
+- [Puzzle game using html css and js](https://dev.to/prince_beec5ccde00b7c6c73/puzzle-game-using-html-css-and-js-14d)
+- [New Blog Alert!](https://dev.to/marmiksoni/new-blog-alert-264k)
+- [Figma for developers: Figma Styles, Typography and Variables](https://dev.to/codeparrot/figma-for-developers-figma-styles-typography-and-variables-4pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
