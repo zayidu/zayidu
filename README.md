@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Key: A Tale of Access Control](https://dev.to/carrie_luo1/the-hidden-key-a-tale-of-access-control-3lm9)
-- [Test Automation in Software Development](https://dev.to/jennife05918349/test-automation-in-software-development-1b5d)
-- [5 Key Software Architecture Principles for Starting Your Next Project](https://dev.to/byteminds_agency/5-key-software-architecture-principles-for-starting-your-next-project-57og)
-- [Running Spring Boot Applications With Gradle and Maven](https://dev.to/petemode/running-spring-boot-applications-with-gradle-and-maven-2lgp)
-- [FastLane’s ERC-4337 Support, Limitless x Etherspot, XION’s Walletless Blockchain, and Unichain Launch](https://dev.to/alexandradev/fastlanes-erc-4337-support-limitless-x-etherspot-xions-walletless-blockchain-and-unichain-launch-1d6g)
+- [Top AI Search Engines to Boost Productivity](https://dev.to/swirl/top-ai-search-engines-to-boost-productivity-26f9)
+- [🚀 Building Group Track: An Open-Source Location Tracker App with Flutter](https://dev.to/ishita__14cc5a0ee7a/building-group-track-an-open-source-location-tracker-app-with-flutter-4hkk)
+- [Understanding insertion sort algorithm: Beginner&#39;s guide with leetcode problems](https://dev.to/emmanuelayinde/understanding-insertion-sort-algorithm-beginners-guide-with-leetcode-problems-1pll)
+- [PHP Tags](https://dev.to/hurayraiit/php-tags-3c0e)
+- [Link a database to Git](https://dev.to/devartteam/link-a-database-to-git-59nl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
