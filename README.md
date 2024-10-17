@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top AI Search Engines to Boost Productivity](https://dev.to/swirl/top-ai-search-engines-to-boost-productivity-26f9)
-- [🚀 Building Group Track: An Open-Source Location Tracker App with Flutter](https://dev.to/ishita__14cc5a0ee7a/building-group-track-an-open-source-location-tracker-app-with-flutter-4hkk)
-- [Understanding insertion sort algorithm: Beginner&#39;s guide with leetcode problems](https://dev.to/emmanuelayinde/understanding-insertion-sort-algorithm-beginners-guide-with-leetcode-problems-1pll)
-- [PHP Tags](https://dev.to/hurayraiit/php-tags-3c0e)
-- [Link a database to Git](https://dev.to/devartteam/link-a-database-to-git-59nl)
+- [Mastering GitHub Actions for DevOps Engineers: A Complete Guide from Beginner to Advanced](https://dev.to/prodevopsguytech/mastering-github-actions-for-devops-engineers-a-complete-guide-from-beginner-to-advanced-2lc1)
+- [Code Your Way to Financial Freedom: A Developer&#39;s Roadmap](https://dev.to/techbalance_collective/code-your-way-to-financial-freedom-a-developers-roadmap-4bhk)
+- [Object Serialization and Deserialization with Newtonsoft.Json](https://dev.to/juarezasjunior/object-serialization-and-deserialization-with-newtonsoftjson-1j1b)
+- [The Adventures of Blink S2e6: Integrating All the Things](https://dev.to/linkbenjamin/the-adventures-of-blink-s2e6-integrating-all-the-things-302a)
+- [Serialização e Desserialização de Objetos com Newtonsoft.Json](https://dev.to/juarezasjunior/serializacao-e-desserializacao-de-objetos-com-newtonsoftjson-5b0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
