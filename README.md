@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reliable Multi-Agent Orchestration with Durable Swarm](https://dev.to/dbos/reliable-multi-agent-orchestration-with-durable-swarm-1f6l)
-- [What is JavaScript and Why You Should Learn It](https://dev.to/ridoy_hasan/what-is-javascript-and-why-you-should-learn-it-2e7l)
-- [Introdução ao String Catalog: Melhore a localização de strings no iOS 16 com Xcode 14](https://dev.to/lys/introducao-ao-string-catalog-melhore-a-localizacao-de-strings-no-ios-16-com-xcode-14-2je1)
-- [AWS EKS CLUSTER](https://dev.to/she0407/aws-eks-cluster-1j99)
-- [Day 1044 : Care Plan](https://dev.to/dwane/day-1044-care-plan-2516)
+- [PARADIGMAS](https://dev.to/felipe_bs07/paradigmas-3dc5)
+- [7 Essential Events in React You Need to Know](https://dev.to/trushmi/7-essential-events-in-react-you-need-to-know-aan)
+- [See old Object Pascal from new Rust](https://dev.to/teminian/see-old-object-pascal-from-new-rust-44pl)
+- [낯선 Rust에서 오래된 Object Pascal의 향기를 느끼다](https://dev.to/teminian/nacseon-rusteseo-oraedoen-object-pascalyi-hyanggireul-neuggida-51b7)
+- [Unravel the Mysteries of Computation with this Captivating Course! 🤖](https://dev.to/getvm/unravel-the-mysteries-of-computation-with-this-captivating-course-302l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
