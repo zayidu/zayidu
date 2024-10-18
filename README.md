@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Enable Windows Identity Foundation 3.5 in Windows 11?](https://dev.to/winsides/how-to-enable-windows-identity-foundation-35-in-windows-11-14dg)
-- [How to Automate Everyday Tasks with Python &lpar;Part 2&rpar;](https://dev.to/trixsec/how-to-automate-everyday-tasks-with-python-part-2-2k67)
-- [Understanding UML Class Diagrams: A Beginner’s Guide](https://dev.to/krishna-nayak/understanding-uml-class-diagrams-a-beginners-guide-2omj)
-- [Java Spring Boot use log4j in a gradle project](https://dev.to/minhaz1217/java-spring-boot-use-log4j-in-a-gradle-project-54kg)
-- [Camouflage-Shield: An open source Image Encryption Application. &lpar;In Development to resolve limitations&rpar;](https://dev.to/saahen_sriyan_mishra/camouflage-shield-an-open-source-image-encryption-application-4e59)
+- [How to Implement Google Analytics 4 &lpar;GA4&rpar; in a Next.js Project](https://dev.to/rajeshkumaryadavdotcom/how-to-implement-google-analytics-4-ga4-in-a-nextjs-project-dm7)
+- [Security news weekly round-up - 18th October 2024](https://dev.to/ziizium/security-news-weekly-round-up-18th-october-2024-2l6i)
+- [Mastering the DOM in JavaScript](https://dev.to/imrankhan17/mastering-the-dom-in-javascript-498o)
+- [Next.js Dynamic Routes](https://dev.to/sonaykara/nextjs-dynamic-routes-abh)
+- [Corrosive Components: A New component library for qwik](https://dev.to/mahdimovahedianatar/corrosive-components-a-new-component-library-for-qwik-3ko6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
