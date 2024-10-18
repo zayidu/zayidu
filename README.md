@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS IoT Core Simplified - Part 4: Rules](https://dev.to/slootjes/aws-iot-core-simplified-part-4-rules-m0a)
-- [Diataxis pour organiser sa documentation](https://dev.to/onepoint/diataxis-pour-organiser-sa-documentation-2498)
-- [7 Ways to Boost Your Cybersecurity Career with CISSP Certification](https://dev.to/itechburner/7-ways-to-boost-your-cybersecurity-career-with-cissp-certification-2do2)
-- [Verilog vs VHDL: Choosing the Right HDL with FPGA Programming](https://dev.to/frankie124545/verilog-vs-vhdl-choosing-the-right-hdl-with-fpga-programming-2agf)
-- [Top 26 AWS Security Best Practices to Ensure Production Safety in 2024🔐](https://dev.to/devops_descent/top-26-aws-security-best-practices-to-ensure-production-safety-in-2024-527l)
+- [I made a fully functional social media website by using WIX](https://dev.to/shafayeat/i-made-a-fully-functional-social-media-website-by-using-wix-3jeb)
+- [Cách thay đổi bảng MySQL lớn bằng Percona Toolkit trên EC2 và AWS Aurora !!](https://dev.to/awscommunity-asean/cach-thay-doi-bang-mysql-lon-bang-percona-toolkit-tren-aws-aurora-49pi)
+- [Choosing a Generative AI service](https://dev.to/subhashbohra/choosing-a-generative-ai-service-539d)
+- [Sending Emails with AWS SES: A Comprehensive Guide](https://dev.to/bharath_madhu/sending-emails-with-aws-ses-a-comprehensive-guide-35gn)
+- [Freelancing as a Web Developer: Tested Tips on Getting Started and Finding Clients](https://dev.to/okoye_ndidiamaka_5e3b7d30/freelancing-as-a-web-developer-tested-tips-on-getting-started-and-finding-clients-1j89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
