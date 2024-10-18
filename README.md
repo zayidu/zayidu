@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Proud Participant of Hacktoberfest 2024! 🎉](https://dev.to/devops_descent/proud-participant-of-hacktoberfest-2024-28l5)
-- [Reload NGINX configuration using Docker](https://dev.to/sertxudev/reload-nginx-configuration-using-docker-j1j)
-- [Leading Crypto Wallet App Development Companies 2024](https://dev.to/kzier/leading-crypto-wallet-app-development-companies-2024-85l)
-- [Testing hell 😱. Honest question. How do you survive? What&#39;s your secret?](https://dev.to/opensourcee/testing-hell-how-do-you-survive-whats-your-secret-263c)
-- [SvelteKit 2: Zero To Mastery](https://dev.to/admaletsas/sveltekit-2-zero-to-mastery-i3d)
+- [How To Use Pan for Easy Analytics in Your Laravel App](https://dev.to/bobbyiliev/how-to-use-pan-for-easy-analytics-in-your-laravel-app-omc)
+- [How to Decide Which Hosting Plan is Good for Your Client&#39;s Business](https://dev.to/shabbir_mw_03f56129cd25/how-to-decide-which-hosting-plan-is-good-for-your-clients-business-56pc)
+- [API Documentation Simplified: Using AI for Smarter Automation](https://dev.to/apidna/api-documentation-simplified-using-ai-for-smarter-automation-cdf)
+- [Deploying a Custom Template for Linux Virtual Machines Using Password](https://dev.to/ikelechia/deploying-a-custom-template-for-linux-virtual-machines-using-password-2017)
+- [Future-Proofing Code: Type-Safe KeyPath and Value Validation for Evolving Client-Backend Systems](https://dev.to/j4nos/future-proofing-code-type-safe-keypath-and-value-validation-for-evolving-client-backend-systems-42eb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
