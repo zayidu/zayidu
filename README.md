@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a fully functional social media website by using WIX](https://dev.to/shafayeat/i-made-a-fully-functional-social-media-website-by-using-wix-3jeb)
-- [Cách thay đổi bảng MySQL lớn bằng Percona Toolkit trên EC2 và AWS Aurora !!](https://dev.to/awscommunity-asean/cach-thay-doi-bang-mysql-lon-bang-percona-toolkit-tren-aws-aurora-49pi)
-- [Choosing a Generative AI service](https://dev.to/subhashbohra/choosing-a-generative-ai-service-539d)
-- [Sending Emails with AWS SES: A Comprehensive Guide](https://dev.to/bharath_madhu/sending-emails-with-aws-ses-a-comprehensive-guide-35gn)
-- [Freelancing as a Web Developer: Tested Tips on Getting Started and Finding Clients](https://dev.to/okoye_ndidiamaka_5e3b7d30/freelancing-as-a-web-developer-tested-tips-on-getting-started-and-finding-clients-1j89)
+- [Mapeando e Manipulando Dados com Entity Framework Core](https://dev.to/juarezasjunior/mapeando-e-manipulando-dados-com-entity-framework-core-3f9p)
+- [Emotional Intelligence in IT: Leveling Up Your Soft Skills](https://dev.to/techbalance_collective/emotional-intelligence-in-it-leveling-up-your-soft-skills-19lb)
+- [Mapping and Manipulating Data with Entity Framework Core](https://dev.to/juarezasjunior/mapping-and-manipulating-data-with-entity-framework-core-2lfo)
+- [Poly-Encoder](https://dev.to/bullmouse/poly-encoder-39ig)
+- [No-Code Amazon Product Scraping: How It’s Possible](https://dev.to/syphoon_ef9378/no-code-amazon-product-scraping-how-its-possible-3fm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
