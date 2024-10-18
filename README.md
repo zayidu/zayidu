@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Asynchronous State with User Roles in React Native with Firebase](https://dev.to/amanbhoria/handling-asynchronous-state-with-user-roles-in-react-native-with-firebase-lck)
-- [🕸️ MDN Web Docs: The Ultimate Developer&#39;s Toolbox 🌟](https://dev.to/hadil/mdn-web-docs-the-ultimate-developers-toolbox-5b84)
-- [Self-Learning and Confidence: The Path to Advancement for Female Talent](https://dev.to/shinetechsoftwareinc/self-learning-and-confidence-the-path-to-advancement-for-female-talent-556e)
-- [How to Force Garbage Collection in C#](https://dev.to/bytehide/how-to-force-garbage-collection-in-c-p8k)
-- [JAT Task 1](https://dev.to/prabhumithran/jat-task-1-3hc)
+- [AWS IoT Core Simplified - Part 4: Rules](https://dev.to/slootjes/aws-iot-core-simplified-part-4-rules-m0a)
+- [Diataxis pour organiser sa documentation](https://dev.to/onepoint/diataxis-pour-organiser-sa-documentation-2498)
+- [7 Ways to Boost Your Cybersecurity Career with CISSP Certification](https://dev.to/itechburner/7-ways-to-boost-your-cybersecurity-career-with-cissp-certification-2do2)
+- [Verilog vs VHDL: Choosing the Right HDL with FPGA Programming](https://dev.to/frankie124545/verilog-vs-vhdl-choosing-the-right-hdl-with-fpga-programming-2agf)
+- [Top 26 AWS Security Best Practices to Ensure Production Safety in 2024🔐](https://dev.to/devops_descent/top-26-aws-security-best-practices-to-ensure-production-safety-in-2024-527l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
