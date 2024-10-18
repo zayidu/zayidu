@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Sort Algorithm like a PRO](https://dev.to/emmanuelayinde/mastering-sort-algorithm-like-a-pro-13p6)
+- [Camouflage-Shield: An Image Encryption Application.](https://dev.to/saahen_sriyan_mishra/camouflage-shield-an-image-encryption-application-2e9d)
 - [How to Implement Google Analytics 4 &lpar;GA4&rpar; in a Next.js Project](https://dev.to/rajeshkumaryadavdotcom/how-to-implement-google-analytics-4-ga4-in-a-nextjs-project-dm7)
 - [Security news weekly round-up - 18th October 2024](https://dev.to/ziizium/security-news-weekly-round-up-18th-october-2024-2l6i)
 - [Mastering the DOM in JavaScript](https://dev.to/imrankhan17/mastering-the-dom-in-javascript-498o)
-- [Next.js Dynamic Routes](https://dev.to/sonaykara/nextjs-dynamic-routes-abh)
-- [Corrosive Components: A New component library for qwik](https://dev.to/mahdimovahedianatar/corrosive-components-a-new-component-library-for-qwik-3ko6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
