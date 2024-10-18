@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of AWS Console to Code: A Game-Changer for DevOps and Infrastructure as code &lpar;IaC&rpar;](https://dev.to/aws-builders/unlocking-the-power-of-aws-console-to-code-a-game-changer-for-devops-and-infrastructure-as-code-iac-411l)
-- [Unlock the Power of Stored Procedures and Cursors: A Project-Based Course on Database Retrieval](https://dev.to/labex/unlock-the-power-of-stored-procedures-and-cursors-a-project-based-course-on-database-retrieval-2coi)
-- [Django application for production ready](https://dev.to/mrcaption49/django-application-for-production-ready-4doo)
-- [Sum Types in Python](https://dev.to/wjlewis/sum-types-in-python-cdm)
-- [AWS Application Integration Tools for Seamless Connectivity](https://dev.to/harman_diaz/aws-application-integration-tools-for-seamless-connectivity-17cj)
+- [Code, Collaboration, and Contributions: My First Ever Hacktoberfest Experience](https://dev.to/safdarali/code-collaboration-and-contributions-my-first-ever-hacktoberfest-experience-31de)
+- [Building a WNBA Analytics Dashboard with Streamlit, LangChain, and Cloudflare Workers AI](https://dev.to/cloudflare/building-a-wnba-analytics-dashboard-with-streamlit-langchain-and-cloudflare-workers-ai-cma)
+- [Building a WNBA Analytics Dashboard with Streamlit, LangChain, and Cloudflare Workers AI](https://dev.to/cloudflare/building-a-wnba-analytics-dashboard-with-streamlit-langchain-and-cloudflare-workers-ai-4nk0)
+- [Building a WNBA Analytics Dashboard with Streamlit, LangChain, and Cloudflare Workers AI](https://dev.to/cloudflare/building-a-wnba-analytics-dashboard-with-streamlit-langchain-and-cloudflare-workers-ai-2hme)
+- [I built a fair product hunt alternative &lpar;first time coding&rpar;](https://dev.to/denizhdz/i-built-a-fair-product-hunt-alternative-first-time-coding-4ihp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
