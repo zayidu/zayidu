@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the difference between Null, NaN , isNaN&lpar;&rpar; and undefined in JavaScript?](https://dev.to/tanvir_ahamed/what-is-the-difference-between-null-nan-and-undefined-in-javascript-2g6i)
-- [Batch vs Online Learning: Breaking It Down for You](https://dev.to/harincoder/batch-vs-online-learning-breaking-it-down-for-you-3n8h)
-- [Weekly Updates - October 18, 2024](https://dev.to/couchbase/weekly-updates-october-18-2024-k)
-- [Web Service Calling Web Service](https://dev.to/gliimly/web-service-calling-web-service-15nb)
-- [How Minecraft Hypixel Scammers Are Getting Away With Your Accounts](https://dev.to/mr-3/how-minecraft-hypixel-scammers-are-getting-away-with-your-accounts-5f3n)
+- [Top 5 Open Source Tools Platform, SRE, and DevOps need in 2024](https://dev.to/jsbroks/top-5-open-source-tools-platform-sre-and-devops-need-in-2024-3hdm)
+- [Boosting Performance with .NET 8 and Blazor](https://dev.to/prahladyeri/boosting-performance-with-net-8-and-blazor-33dd)
+- [*Mastering Informatica Intelligent Cloud Services &lpar;IICS&rpar; for Cloud Data Integration*](https://dev.to/ashik_rodolfo/mastering-informatica-intelligent-cloud-services-iics-for-cloud-data-integration-43gk)
+- [Introducing Hanko: the open-source alternative to clerk](https://dev.to/naprila/introducing-hanko-the-open-source-alternative-to-clerk-md8)
+- [How I Won the RetroAI Hackathon 2024: My Solo Journey](https://dev.to/sanjaysah/how-i-won-the-retroai-hackathon-2024-my-solo-journey-2e0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
