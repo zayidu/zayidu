@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Computing for Startups: How to Get Started](https://dev.to/adityabhuyan/cloud-computing-for-startups-how-to-get-started-5ghm)
-- [Cloud Computing Security Best Practices for Enterprises](https://dev.to/adityabhuyan/cloud-computing-security-best-practices-for-enterprises-l2f)
-- [A Beginner&#39;s Guide to Growing Your Wealth](https://dev.to/steve_rogers_62fc417ba385/a-beginners-guide-to-growing-your-wealth-e1)
-- [How to Edit php.ini Files](https://dev.to/hurayraiit/how-to-edit-phpini-files-1fdk)
-- [Dia 19 - Retornando a criação do meu sistema operacional](https://dev.to/matheusgb/dia-19-retornando-a-criacao-do-meu-sistema-operacional-cnc)
+- [Vue.js for Beginners 2024 #VueJs Part 7 : Understanding Lifecycle Hooks](https://dev.to/kyydev/vuejs-for-beginners-2024-vuejs-part-7-understanding-lifecycle-hooks-46jn)
+- [How Cloud Computing Enhances Scalability and Performance](https://dev.to/adityabhuyan/how-cloud-computing-enhances-scalability-and-performance-oom)
+- [Cloud Computing and Cost Efficiency: Reducing IT Expenses](https://dev.to/adityabhuyan/cloud-computing-and-cost-efficiency-reducing-it-expenses-3pj8)
+- [Redis Monitoring with Prometheus Exporter and Grafana](https://dev.to/rslim087a/monitoring-redis-with-prometheus-and-grafana-56pk)
+- [Secure Shell &lpar;SSH&rpar; Crates in Rust](https://dev.to/michaelin007/secure-shell-ssh-crates-in-rust-4ggh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
