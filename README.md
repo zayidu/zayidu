@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Effective Communication: Overcome Public Speaking Fear](https://dev.to/annavi11arrea1/effective-communication-overcome-public-speaking-fear-1cih)
-- [How Subscription Management Software is Transforming Mobile Apps](https://dev.to/martacamps95/how-subscription-managementsoftware-is-transforming-mobile-apps-5c33)
-- [Unraveling the Digital Tapestry: A Comprehensive Guide to Web Portals](https://dev.to/mgtv_s/unraveling-the-digital-tapestry-a-comprehensive-guide-to-web-portals-e3l)
-- [Open URLs in Different Environments with Ease](https://dev.to/salimchemes/open-urls-in-different-environments-with-ease-fil)
-- [Reflows and Repaints in Javascript](https://dev.to/jharna_khatun/reflows-and-repaints-in-javascript-2ep1)
+- [Proud Participant of Hacktoberfest 2024! 🎉](https://dev.to/devops_descent/proud-participant-of-hacktoberfest-2024-28l5)
+- [Reload NGINX configuration using Docker](https://dev.to/sertxudev/reload-nginx-configuration-using-docker-j1j)
+- [Leading Crypto Wallet App Development Companies 2024](https://dev.to/kzier/leading-crypto-wallet-app-development-companies-2024-85l)
+- [Testing hell 😱. Honest question. How do you survive? What&#39;s your secret?](https://dev.to/opensourcee/testing-hell-how-do-you-survive-whats-your-secret-263c)
+- [SvelteKit 2: Zero To Mastery](https://dev.to/admaletsas/sveltekit-2-zero-to-mastery-i3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
