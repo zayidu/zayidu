@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PARADIGMAS](https://dev.to/felipe_bs07/paradigmas-3dc5)
-- [7 Essential Events in React You Need to Know](https://dev.to/trushmi/7-essential-events-in-react-you-need-to-know-aan)
-- [See old Object Pascal from new Rust](https://dev.to/teminian/see-old-object-pascal-from-new-rust-44pl)
-- [낯선 Rust에서 오래된 Object Pascal의 향기를 느끼다](https://dev.to/teminian/nacseon-rusteseo-oraedoen-object-pascalyi-hyanggireul-neuggida-51b7)
-- [Unravel the Mysteries of Computation with this Captivating Course! 🤖](https://dev.to/getvm/unravel-the-mysteries-of-computation-with-this-captivating-course-302l)
+- [Using Python&#39;s Pillow Library for Image Processing](https://dev.to/kartikmehta8/using-pythons-pillow-library-for-image-processing-407f)
+- [TypeScript&#39;s Lack of Naming Types and Type Conversion in Angular](https://dev.to/jesterxl/typescripts-lack-of-naming-types-and-type-conversion-in-angular-1ido)
+- [Data Engineering with Scala: Mastering Real-Time Data Processing with Apache Flink and Google Pub/Sub](https://dev.to/geazi_anc/data-engineering-with-scala-mastering-real-time-data-processing-with-apache-flink-and-google-pubsub-3b39)
+- [Provision of Storage for Offices and Departments of a private company.](https://dev.to/samakindev/provision-of-storage-for-offices-and-departments-of-a-private-company-55ee)
+- [Reflections on Year 1 of my engineering studies](https://dev.to/shalvah/reflections-on-year-1-of-my-engineering-studies-2lg8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
