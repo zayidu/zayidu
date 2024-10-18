@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue.js for Beginners 2024 #VueJs Part 7 : Understanding Lifecycle Hooks](https://dev.to/kyydev/vuejs-for-beginners-2024-vuejs-part-7-understanding-lifecycle-hooks-46jn)
-- [How Cloud Computing Enhances Scalability and Performance](https://dev.to/adityabhuyan/how-cloud-computing-enhances-scalability-and-performance-oom)
-- [Cloud Computing and Cost Efficiency: Reducing IT Expenses](https://dev.to/adityabhuyan/cloud-computing-and-cost-efficiency-reducing-it-expenses-3pj8)
-- [Redis Monitoring with Prometheus Exporter and Grafana](https://dev.to/rslim087a/monitoring-redis-with-prometheus-and-grafana-56pk)
-- [Secure Shell &lpar;SSH&rpar; Crates in Rust](https://dev.to/michaelin007/secure-shell-ssh-crates-in-rust-4ggh)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-53kn)
+- [Introduction to Kubernetes](https://dev.to/jutionck/introduction-1oge)
+- [Comparing jq VS js String Interpolation](https://dev.to/pkutaj/comparing-jq-vs-js-string-interpolation-4643)
+- [Design CSS Like a Pro: Beyond Tailwind CSS and Bootstrap](https://dev.to/dev007777/design-css-like-a-pro-beyond-tailwind-css-and-bootstrap-1kf2)
+- [Understanding Key Object Methods in JavaScript](https://dev.to/muthuraja_r/javascript-object-methods-33n1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
