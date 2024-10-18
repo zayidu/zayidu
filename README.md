@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Open Source Tools Platform, SRE, and DevOps need in 2024](https://dev.to/jsbroks/top-5-open-source-tools-platform-sre-and-devops-need-in-2024-3hdm)
-- [Boosting Performance with .NET 8 and Blazor](https://dev.to/prahladyeri/boosting-performance-with-net-8-and-blazor-33dd)
-- [*Mastering Informatica Intelligent Cloud Services &lpar;IICS&rpar; for Cloud Data Integration*](https://dev.to/ashik_rodolfo/mastering-informatica-intelligent-cloud-services-iics-for-cloud-data-integration-43gk)
-- [Introducing Hanko: the open-source alternative to clerk](https://dev.to/naprila/introducing-hanko-the-open-source-alternative-to-clerk-md8)
-- [How I Won the RetroAI Hackathon 2024: My Solo Journey](https://dev.to/sanjaysah/how-i-won-the-retroai-hackathon-2024-my-solo-journey-2e0n)
+- [Unlocking the Power of AWS Console to Code: A Game-Changer for DevOps and Infrastructure as code &lpar;IaC&rpar;](https://dev.to/aws-builders/unlocking-the-power-of-aws-console-to-code-a-game-changer-for-devops-and-infrastructure-as-code-iac-411l)
+- [Unlock the Power of Stored Procedures and Cursors: A Project-Based Course on Database Retrieval](https://dev.to/labex/unlock-the-power-of-stored-procedures-and-cursors-a-project-based-course-on-database-retrieval-2coi)
+- [Django application for production ready](https://dev.to/mrcaption49/django-application-for-production-ready-4doo)
+- [Sum Types in Python](https://dev.to/wjlewis/sum-types-in-python-cdm)
+- [AWS Application Integration Tools for Seamless Connectivity](https://dev.to/harman_diaz/aws-application-integration-tools-for-seamless-connectivity-17cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
