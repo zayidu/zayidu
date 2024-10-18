@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Use Pan for Easy Analytics in Your Laravel App](https://dev.to/bobbyiliev/how-to-use-pan-for-easy-analytics-in-your-laravel-app-omc)
-- [How to Decide Which Hosting Plan is Good for Your Client&#39;s Business](https://dev.to/shabbir_mw_03f56129cd25/how-to-decide-which-hosting-plan-is-good-for-your-clients-business-56pc)
-- [API Documentation Simplified: Using AI for Smarter Automation](https://dev.to/apidna/api-documentation-simplified-using-ai-for-smarter-automation-cdf)
-- [Deploying a Custom Template for Linux Virtual Machines Using Password](https://dev.to/ikelechia/deploying-a-custom-template-for-linux-virtual-machines-using-password-2017)
-- [Future-Proofing Code: Type-Safe KeyPath and Value Validation for Evolving Client-Backend Systems](https://dev.to/j4nos/future-proofing-code-type-safe-keypath-and-value-validation-for-evolving-client-backend-systems-42eb)
+- [What is the difference between Null, NaN , isNaN&lpar;&rpar; and undefined in JavaScript?](https://dev.to/tanvir_ahamed/what-is-the-difference-between-null-nan-and-undefined-in-javascript-2g6i)
+- [Batch vs Online Learning: Breaking It Down for You](https://dev.to/harincoder/batch-vs-online-learning-breaking-it-down-for-you-3n8h)
+- [Weekly Updates - October 18, 2024](https://dev.to/couchbase/weekly-updates-october-18-2024-k)
+- [Web Service Calling Web Service](https://dev.to/gliimly/web-service-calling-web-service-15nb)
+- [How Minecraft Hypixel Scammers Are Getting Away With Your Accounts](https://dev.to/mr-3/how-minecraft-hypixel-scammers-are-getting-away-with-your-accounts-5f3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
