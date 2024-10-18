@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code, Collaboration, and Contributions: My First Ever Hacktoberfest Experience](https://dev.to/safdarali/code-collaboration-and-contributions-my-first-ever-hacktoberfest-experience-31de)
-- [Building a WNBA Analytics Dashboard with Streamlit, LangChain, and Cloudflare Workers AI](https://dev.to/cloudflare/building-a-wnba-analytics-dashboard-with-streamlit-langchain-and-cloudflare-workers-ai-cma)
-- [Building a WNBA Analytics Dashboard with Streamlit, LangChain, and Cloudflare Workers AI](https://dev.to/cloudflare/building-a-wnba-analytics-dashboard-with-streamlit-langchain-and-cloudflare-workers-ai-4nk0)
-- [Building a WNBA Analytics Dashboard with Streamlit, LangChain, and Cloudflare Workers AI](https://dev.to/cloudflare/building-a-wnba-analytics-dashboard-with-streamlit-langchain-and-cloudflare-workers-ai-2hme)
-- [I built a fair product hunt alternative &lpar;first time coding&rpar;](https://dev.to/denizhdz/i-built-a-fair-product-hunt-alternative-first-time-coding-4ihp)
+- [How to Enable Windows Identity Foundation 3.5 in Windows 11?](https://dev.to/winsides/how-to-enable-windows-identity-foundation-35-in-windows-11-14dg)
+- [How to Automate Everyday Tasks with Python &lpar;Part 2&rpar;](https://dev.to/trixsec/how-to-automate-everyday-tasks-with-python-part-2-2k67)
+- [Understanding UML Class Diagrams: A Beginner’s Guide](https://dev.to/krishna-nayak/understanding-uml-class-diagrams-a-beginners-guide-2omj)
+- [Java Spring Boot use log4j in a gradle project](https://dev.to/minhaz1217/java-spring-boot-use-log4j-in-a-gradle-project-54kg)
+- [Camouflage-Shield: An open source Image Encryption Application. &lpar;In Development to resolve limitations&rpar;](https://dev.to/saahen_sriyan_mishra/camouflage-shield-an-open-source-image-encryption-application-4e59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
