@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mapeando e Manipulando Dados com Entity Framework Core](https://dev.to/juarezasjunior/mapeando-e-manipulando-dados-com-entity-framework-core-3f9p)
-- [Emotional Intelligence in IT: Leveling Up Your Soft Skills](https://dev.to/techbalance_collective/emotional-intelligence-in-it-leveling-up-your-soft-skills-19lb)
-- [Mapping and Manipulating Data with Entity Framework Core](https://dev.to/juarezasjunior/mapping-and-manipulating-data-with-entity-framework-core-2lfo)
-- [Poly-Encoder](https://dev.to/bullmouse/poly-encoder-39ig)
-- [No-Code Amazon Product Scraping: How It’s Possible](https://dev.to/syphoon_ef9378/no-code-amazon-product-scraping-how-its-possible-3fm0)
+- [Can ChatGPT be trained to become human?](https://dev.to/theainews/can-chatgpt-be-trained-to-become-human-3fe8)
+- [Building a Custom Backend with Node.js: A Step-by-Step Guide](https://dev.to/anticoder03/building-a-custom-backend-with-nodejs-a-step-by-step-guide-1mh0)
+- [What is a Batch DOM update and Why is it useful?](https://dev.to/jharna_khatun/what-is-a-batch-dom-update-and-why-is-it-useful-d3k)
+- [Adding a CU to Your Arweave Gateway](https://dev.to/fllstck/adding-a-cu-to-your-arweave-gateway-3aj1)
+- [Recording Videos Using JavaScript and Browser APIs](https://dev.to/koolkamalkishor/recording-videos-using-javascript-and-browser-apis-302k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
