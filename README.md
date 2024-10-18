@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-53kn)
-- [Introduction to Kubernetes](https://dev.to/jutionck/introduction-1oge)
-- [Comparing jq VS js String Interpolation](https://dev.to/pkutaj/comparing-jq-vs-js-string-interpolation-4643)
-- [Design CSS Like a Pro: Beyond Tailwind CSS and Bootstrap](https://dev.to/dev007777/design-css-like-a-pro-beyond-tailwind-css-and-bootstrap-1kf2)
-- [Understanding Key Object Methods in JavaScript](https://dev.to/muthuraja_r/javascript-object-methods-33n1)
+- [Software Engineering Postmortem: Real-time Chat Microservice](https://dev.to/victoriadeveloper/software-engineering-postmortem-real-time-chat-microservice-42h5)
+- [30 COMMON MONGODB INTERVIEW QUESTIONS](https://dev.to/truongpx396/30-common-mongodb-interview-questions-57c8)
+- [Time-for-space reluctance for the Wi-Fi AP scan for ESP8266](https://dev.to/zhangzhuyue/time-for-space-reluctance-for-the-wi-fi-ap-scan-for-esp8266-21nl)
+- [Day 9 Progress Journal: Creating Add Post Component UI &lpar;MERN Stack Instagram Clone&rpar;](https://dev.to/dev_d_akash/day-9-progress-journal-creating-add-post-component-ui-mern-stack-instagram-clone-2bgp)
+- [30 COMMON MYSQL INTERVIEW QUESTIONS](https://dev.to/truongpx396/30-common-mysql-interview-questions-c0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
