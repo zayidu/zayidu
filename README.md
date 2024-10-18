@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Engineering Postmortem: Real-time Chat Microservice](https://dev.to/victoriadeveloper/software-engineering-postmortem-real-time-chat-microservice-42h5)
-- [30 COMMON MONGODB INTERVIEW QUESTIONS](https://dev.to/truongpx396/30-common-mongodb-interview-questions-57c8)
-- [Time-for-space reluctance for the Wi-Fi AP scan for ESP8266](https://dev.to/zhangzhuyue/time-for-space-reluctance-for-the-wi-fi-ap-scan-for-esp8266-21nl)
-- [Day 9 Progress Journal: Creating Add Post Component UI &lpar;MERN Stack Instagram Clone&rpar;](https://dev.to/dev_d_akash/day-9-progress-journal-creating-add-post-component-ui-mern-stack-instagram-clone-2bgp)
-- [30 COMMON MYSQL INTERVIEW QUESTIONS](https://dev.to/truongpx396/30-common-mysql-interview-questions-c0k)
+- [Advanced API Development Tools: Enhancing Security, Scalability, and Efficiency](https://dev.to/getambassador2024/advanced-api-development-tools-enhancing-security-scalability-and-efficiency-56jk)
+- [Cloud Management Solutions: How To Choose the Right One for Your Business](https://dev.to/shelli/cloud-management-solutions-how-to-choose-the-right-one-for-your-business-7ad)
+- [How to Develop EtherCAT Motion Controller on ROS &lpar;1&rpar;](https://dev.to/zmotion_controller/how-to-develop-ethercat-motion-controller-on-ros-1-3gi1)
+- [Building a Simple To-Do List with JavaScript and HTML 📝✨](https://dev.to/info_generalhazedawn_a3d/building-a-simple-to-do-list-with-javascript-and-html-2ea9)
+- [Calling all Technical Writers!](https://dev.to/ragavi_document360/calling-all-technical-writers-560)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
