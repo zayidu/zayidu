@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Python&#39;s Pillow Library for Image Processing](https://dev.to/kartikmehta8/using-pythons-pillow-library-for-image-processing-407f)
-- [TypeScript&#39;s Lack of Naming Types and Type Conversion in Angular](https://dev.to/jesterxl/typescripts-lack-of-naming-types-and-type-conversion-in-angular-1ido)
-- [Data Engineering with Scala: Mastering Real-Time Data Processing with Apache Flink and Google Pub/Sub](https://dev.to/geazi_anc/data-engineering-with-scala-mastering-real-time-data-processing-with-apache-flink-and-google-pubsub-3b39)
-- [Provision of Storage for Offices and Departments of a private company.](https://dev.to/samakindev/provision-of-storage-for-offices-and-departments-of-a-private-company-55ee)
-- [Reflections on Year 1 of my engineering studies](https://dev.to/shalvah/reflections-on-year-1-of-my-engineering-studies-2lg8)
+- [Cloud Computing for Startups: How to Get Started](https://dev.to/adityabhuyan/cloud-computing-for-startups-how-to-get-started-5ghm)
+- [Cloud Computing Security Best Practices for Enterprises](https://dev.to/adityabhuyan/cloud-computing-security-best-practices-for-enterprises-l2f)
+- [A Beginner&#39;s Guide to Growing Your Wealth](https://dev.to/steve_rogers_62fc417ba385/a-beginners-guide-to-growing-your-wealth-e1)
+- [How to Edit php.ini Files](https://dev.to/hurayraiit/how-to-edit-phpini-files-1fdk)
+- [Dia 19 - Retornando a criação do meu sistema operacional](https://dev.to/matheusgb/dia-19-retornando-a-criacao-do-meu-sistema-operacional-cnc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
