@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced API Development Tools: Enhancing Security, Scalability, and Efficiency](https://dev.to/getambassador2024/advanced-api-development-tools-enhancing-security-scalability-and-efficiency-56jk)
-- [Cloud Management Solutions: How To Choose the Right One for Your Business](https://dev.to/shelli/cloud-management-solutions-how-to-choose-the-right-one-for-your-business-7ad)
-- [How to Develop EtherCAT Motion Controller on ROS &lpar;1&rpar;](https://dev.to/zmotion_controller/how-to-develop-ethercat-motion-controller-on-ros-1-3gi1)
-- [Building a Simple To-Do List with JavaScript and HTML 📝✨](https://dev.to/info_generalhazedawn_a3d/building-a-simple-to-do-list-with-javascript-and-html-2ea9)
-- [Calling all Technical Writers!](https://dev.to/ragavi_document360/calling-all-technical-writers-560)
+- [Future Of AI In Influencer Marketing](https://dev.to/techdogs_inc/future-of-ai-in-influencer-marketing-4484)
+- [Clone a private repository with PAT from Github](https://dev.to/hyperkai/clone-a-private-repository-with-pat-from-github-425d)
+- [Perform Distinct on Ordered Numbers in a Text File #eg61](https://dev.to/esproc_spl/perform-distinct-on-ordered-numbers-in-a-text-file-eg61-2blo)
+- [Mastering the final Keyword in Java: Constants, Immutability, and More](https://dev.to/arshisaxena26/mastering-the-final-keyword-in-java-constants-immutability-and-more-34kj)
+- [5 Essential Excel Features Every Data Analyst Should Master](https://dev.to/allan-pg/5-essential-excel-features-every-data-analyst-should-master-3igg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
