@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Edge Detection with Python and OpenCV: A Step-by-Step Guide](https://dev.to/chidoziemanagwu/implementing-edge-detection-with-python-and-opencv-a-step-by-step-guide-57ab)
-- [Converting SVG to JPG: A Complete Guide](https://dev.to/msmith99994/converting-svg-to-jpg-a-complete-guide-217f)
-- [Create an Anime Dashboard with React, Jikan API, Firebase Authentication, TailwindCSS &amp; Chart.js](https://dev.to/tarim_bilal_3e13ed97b36be/create-an-anime-dashboard-with-react-jikan-api-firebase-authentication-tailwindcss-chartjs-np7)
-- [How to Easily Convert an Image to GIF: A Step-by-Step Guide](https://dev.to/msmith99994/how-to-easily-convert-an-image-to-gif-a-step-by-step-guide-41c0)
-- [Web Components: O Vingador secreto do Front-End que vai fazer seu código decolar!](https://dev.to/demgoncalves/web-components-o-vingador-secreto-do-front-end-que-vai-fazer-seu-codigo-decolar-2c4j)
+- [Building a Scalable Event Hosting Platform with NestJS, TypeORM, and Modular Architecture](https://dev.to/nadim_ch0wdhury/building-a-scalable-event-hosting-platform-with-nestjs-typeorm-and-modular-architecture-2mog)
+- [Day 40. Fixing UI](https://dev.to/kiolk/day-40-fixing-ui-4pl5)
+- [Cracking the Code: Why DSA Mastery is Crucial for Developers](https://dev.to/mathalpha/cracking-the-code-why-dsa-mastery-is-crucial-for-developers-50il)
+- [Ultimate React Reusable Table Component](https://dev.to/hamidul_islam_ca3e9d4201e/ultimate-react-reusable-table-component-2fh4)
+- [Stop Using Long if-else Chains: Use the Command Pattern in Python](https://dev.to/goumricom/stop-using-long-if-else-chains-use-the-command-pattern-in-python-23ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
