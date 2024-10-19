@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Static Keyword: Decoding Static Blocks in Java](https://dev.to/arshisaxena26/static-keyword-decoding-static-blocks-in-java-11i8)
-- [Fixing VS Code Go to Definition Issue on Linux Mint](https://dev.to/markadel/fixing-vs-code-go-to-definition-issue-on-linux-mint-2j24)
-- [Introduction to File Handling in Python](https://dev.to/zache_niyokwizera_3ea666/introduction-to-file-handling-in-python-ack)
-- [Aspect Ratio Calculator - A Versatile Tool for Precision Display Calculations](https://dev.to/devko/aspect-ratio-calculator-a-versatile-tool-for-precision-display-calculations-56df)
-- [هيدر احترافي بتقنية css و html جاهز](https://dev.to/__be8b35d8df2/hydr-htrfy-btqny-css-w-html-jhz-16j0)
+- [DynamoDB Transactions with AWS Step Functions](https://dev.to/viktorardelean/dynamodb-transactions-with-aws-step-functions-3k7d)
+- [Some sort of way to do things realistically without being the thing](https://dev.to/dreamwraithtulpa/some-sort-of-way-to-do-things-realistically-without-being-the-thing-345a)
+- [How to Add Domains and IP Addresses to Docker Containers](https://dev.to/berk/how-to-add-domains-and-ip-addresses-to-docker-containers-h9p)
+- [Building RESTful APIs with Node.js and Express: Step-by-Step Tutorial](https://dev.to/anticoder03/building-restful-apis-with-nodejs-and-express-step-by-step-tutorial-2oc6)
+- [Build Your Own nodemon in Few Lines of Code](https://dev.to/aelassas/build-your-own-nodemon-in-few-lines-of-code-3g0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
