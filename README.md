@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [System Design: UPI &lpar;Unified Payment Interface&rpar;](https://dev.to/zeeshanali0704/system-design-upi-unified-payment-interface-2ng3)
-- [Jumping Into The Deep End](https://dev.to/udayrana/jumping-into-the-deep-end-4j1m)
-- [Why Do So Many Newbies Quit Learning PHP Halfway Through?](https://dev.to/prestisiabunga/why-do-so-many-newbies-quit-learning-php-halfway-through-40ib)
-- [`grid` with reveal + resize on `hover`](https://dev.to/mandynicole/grid-with-reveal-resize-on-hover-184p)
-- [Color-Scheme + Fluid Type](https://dev.to/mandynicole/color-scheme-fluid-type-25pc)
+- [Want your productivity to skyrocket? Avoid this trap!](https://dev.to/moozzyk/want-your-productivity-to-skyrocket-avoid-this-trap-4mdm)
+- [COBOL Tutorial Series: Developing Without a Mainframe](https://dev.to/ngtduc693/cobol-tutorial-series-developing-without-a-mainframe-3kah)
+- [Understanding Enterprise JavaBeans &lpar;EJB&rpar;: The Backbone of Java EE Applications](https://dev.to/adityabhuyan/understanding-enterprise-javabeans-ejb-the-backbone-of-java-ee-applications-27jg)
+- [Lançando uma exceção com throw](https://dev.to/devsjavagirls/lancando-uma-excecao-com-throw-21c)
+- [Best Practices in Systems Engineering for Complex Projects: A Comprehensive Guide](https://dev.to/adityabhuyan/best-practices-in-systems-engineering-for-complex-projects-a-comprehensive-guide-c26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
