@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Markdown and Image Translations with Co-op Translator](https://dev.to/skytin1004/automating-markdown-and-image-translations-with-co-op-translator-50lm)
-- [COBOL Tutorial Series: Loop statements - Session 4](https://dev.to/ngtduc693/cobol-tutorial-series-loop-statements-session-4-21la)
-- [Building emmanuel-dot-clone.netlify.app &lpar;A clone of dot.ai&rpar; with Astro JS](https://dev.to/professor12/building-emmanuel-dot-clonenetlifyapp-a-clone-of-dotai-with-astro-js-4e8n)
-- [Data-Driven Marketing: Improve Customer Experience and Sales](https://dev.to/tn_trnnh_bba09e66a2d/data-driven-marketing-improve-customer-experience-and-sales-1gld)
-- [🚀 Your Daily Crypto Job Digest For 19 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-19-october-cee)
+- [Static Keyword: Decoding Static Blocks in Java](https://dev.to/arshisaxena26/static-keyword-decoding-static-blocks-in-java-11i8)
+- [Fixing VS Code Go to Definition Issue on Linux Mint](https://dev.to/markadel/fixing-vs-code-go-to-definition-issue-on-linux-mint-2j24)
+- [Introduction to File Handling in Python](https://dev.to/zache_niyokwizera_3ea666/introduction-to-file-handling-in-python-ack)
+- [Aspect Ratio Calculator - A Versatile Tool for Precision Display Calculations](https://dev.to/devko/aspect-ratio-calculator-a-versatile-tool-for-precision-display-calculations-56df)
+- [هيدر احترافي بتقنية css و html جاهز](https://dev.to/__be8b35d8df2/hydr-htrfy-btqny-css-w-html-jhz-16j0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
