@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerizing a Next.js Application using a Standalone Build](https://dev.to/charliet1802/dockerizing-a-nextjs-application-using-a-standalone-build-2co9)
-- [B-tree: The Secret Recipe Behind Efficient Data Handling 🍰](https://dev.to/tuna99/b-tree-the-secret-recipe-behind-efficient-data-handling-5do8)
-- [Mastering the Fundamentals: Ready for Advanced Web Development Projects](https://dev.to/willowjr/mastering-the-fundamentals-ready-for-advanced-web-development-projects-2fdi)
-- [1545. Find Kth Bit in Nth Binary String](https://dev.to/mdarifulhaque/1545-find-kth-bit-in-nth-binary-string-1lek)
-- [Heartfelt Timer App with HTML/CSS/JS Only!🔥](https://dev.to/codewithshahan/heartfelt-timer-app-with-htmlcssjs-only-2499)
+- [In WebForms Core Technology, All the Disadvantages of Microsoft&#39;s Former WebForms have been Fixed](https://dev.to/elanatframework/in-webforms-core-technology-all-the-disadvantages-of-microsofts-former-webforms-have-been-fixed-21bo)
+- [Populating a Vertica Database with Random Data](https://dev.to/dm8ry/populating-a-vertica-database-with-random-data-513n)
+- [I Fumbled on a Next.js MongoDB Error and Learned the Key Differences Between Mongoose and MongoClient](https://dev.to/pardhu_99/i-fumbled-on-a-nextjs-mongodb-error-and-learned-the-key-differences-between-mongoose-and-mongoclient-1opb)
+- [A Beginner&#39;s Guide to CSS @property for custom variables](https://dev.to/surajdjagtap/a-beginners-guide-to-css-property-for-custom-variables-11cp)
+- [new way thinking. python + data-star](https://dev.to/blinkinglight/new-way-thinking-python-data-star-cg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
