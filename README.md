@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Learning Journey 1.0](https://dev.to/tilee/java-learning-journey-10-14fh)
-- [Latest Newsletter: Authentic blocking frenzy antidote &lpar;Issue #186&rpar;](https://dev.to/mjgs/latest-newsletter-authentic-blocking-frenzy-antidote-issue-186-egk)
-- [Determine Server Capacity to handle the requests](https://dev.to/raiyan_memon/determine-server-capacity-to-handle-the-requests-2gl9)
-- [𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 𝐃𝐨𝐜𝐤𝐞𝐫](https://dev.to/meghasharmaaaa/-22j1)
-- [Exploring the AWS Well-Architected Tool: A Beginner&#39;s Guide](https://dev.to/subhashbohra/exploring-the-aws-well-architected-tool-a-beginners-guide-5had)
+- [COBOL Tutorial Series: A calculation program - Part 2](https://dev.to/ngtduc693/cobol-tutorial-series-a-calculation-program-f35)
+- [Nvidia&#39;s Nemotron 70B: Raising the Bar for AI](https://dev.to/arbisoftcompany/nvidias-nemotron-70b-raising-the-bar-for-ai-52e2)
+- [Am I wasting time learning Web3?](https://dev.to/sanskari_patrick07/am-i-wasting-time-learning-web3-29l7)
+- [Variance - best perspective of understanding lifetime in Rust](https://dev.to/arichy/variance-best-perspective-of-understanding-lifetime-in-rust-m84)
+- [How to join Multiple Kafka Topics - Overview](https://dev.to/joseboretto/how-to-join-multiple-kafka-topics-overview-19j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
