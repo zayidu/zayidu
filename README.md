@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DynamoDB Transactions with AWS Step Functions](https://dev.to/viktorardelean/dynamodb-transactions-with-aws-step-functions-3k7d)
-- [Some sort of way to do things realistically without being the thing](https://dev.to/dreamwraithtulpa/some-sort-of-way-to-do-things-realistically-without-being-the-thing-345a)
-- [How to Add Domains and IP Addresses to Docker Containers](https://dev.to/berk/how-to-add-domains-and-ip-addresses-to-docker-containers-h9p)
-- [Building RESTful APIs with Node.js and Express: Step-by-Step Tutorial](https://dev.to/anticoder03/building-restful-apis-with-nodejs-and-express-step-by-step-tutorial-2oc6)
-- [Build Your Own nodemon in Few Lines of Code](https://dev.to/aelassas/build-your-own-nodemon-in-few-lines-of-code-3g0p)
+- [Different Between Graphic Design and UI/UX Design](https://dev.to/kalak_khadayat/different-between-graphic-design-and-uiux-design-5fai)
+- [Build Your First React App: Mood Tracker](https://dev.to/pflashgary/build-your-first-react-app-mood-tracker-249l)
+- [EF Core raw queries &lpar;C#&rpar;](https://dev.to/karenpayneoregon/ef-core-raw-queries-c-13fh)
+- [❓ Do you allow wrong input to enter your function?](https://dev.to/kamilpro/do-you-allow-wrong-input-to-enter-your-function-4jo1)
+- [I still prefer SQLite for little things you know.](https://dev.to/fridaycandours/i-still-prefer-sqlite-for-little-things-you-know-5hdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
