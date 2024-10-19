@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Wrote Express-Go in 19 Hours](https://dev.to/brunociccarino/how-i-wrote-express-go-in-19-hours-3ndh)
-- [Streamlining Your Rails 8 App: Migrating from Postgres to SQLite](https://dev.to/visini/streamlining-your-rails-8-app-migrating-from-postgres-to-sqlite-5gd7)
-- [LabEx Trending: Student Grade Management System and More](https://dev.to/labex/labex-trending-student-grade-management-system-and-more-2fao)
-- [COBOL Tutorial Series: Working with Database - Session 5](https://dev.to/ngtduc693/cobol-tutorial-series-working-with-database-session-5-42gp)
-- [How to customize PDF.js](https://dev.to/gleamtech/how-to-customize-pdfjs-3po7)
+- [Why Students Should Explore Microsoft Azure: The Cloud Platform for Your Future 🚀](https://dev.to/mahrukh_adeel/why-students-should-explore-microsoft-azure-the-cloud-platform-for-your-future-238c)
+- [HackTheBox - Writeup Editorial [Retired]](https://dev.to/mrtnsgs/hackthebox-writeup-editorial-retired-2pcn)
+- [Day 7 of 365 &lpar;10 Million Yen Japan Career Switch Challenge&rpar;](https://dev.to/kameken100/day-7-of-365-10-million-yen-japan-career-switch-challenge-3ohb)
+- [I made a Component Library !](https://dev.to/who_tf_cares/i-made-a-component-library--1hp5)
+- [CPU Registers](https://dev.to/vivx_developer/cpu-registers-eff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
