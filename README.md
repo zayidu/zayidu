@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Students Should Explore Microsoft Azure: The Cloud Platform for Your Future 🚀](https://dev.to/mahrukh_adeel/why-students-should-explore-microsoft-azure-the-cloud-platform-for-your-future-238c)
-- [HackTheBox - Writeup Editorial [Retired]](https://dev.to/mrtnsgs/hackthebox-writeup-editorial-retired-2pcn)
-- [Day 7 of 365 &lpar;10 Million Yen Japan Career Switch Challenge&rpar;](https://dev.to/kameken100/day-7-of-365-10-million-yen-japan-career-switch-challenge-3ohb)
-- [I made a Component Library !](https://dev.to/who_tf_cares/i-made-a-component-library--1hp5)
-- [CPU Registers](https://dev.to/vivx_developer/cpu-registers-eff)
+- [🚀 Unlock the Power of Next.js with These Exciting Features! 🚀](https://dev.to/pains_arch/unlock-the-power-of-nextjs-with-these-exciting-features-jjc)
+- [My PRs in Hacktoberfest 2024](https://dev.to/ramy-badr-ahmed/my-prs-in-hacktoberfest-2024-2hkf)
+- [A Coding Adventure Awaits!](https://dev.to/seb-dojo/a-coding-adventure-awaits-o26)
+- [Nearest multiple of 10](https://dev.to/obrutus/nearest-multiple-of-10-9od)
+- [Lead by Listening](https://dev.to/gabrieltoma/lead-by-listening-3391)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
