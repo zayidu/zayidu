@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [In WebForms Core Technology, All the Disadvantages of Microsoft&#39;s Former WebForms have been Fixed](https://dev.to/elanatframework/in-webforms-core-technology-all-the-disadvantages-of-microsofts-former-webforms-have-been-fixed-21bo)
-- [Populating a Vertica Database with Random Data](https://dev.to/dm8ry/populating-a-vertica-database-with-random-data-513n)
-- [I Fumbled on a Next.js MongoDB Error and Learned the Key Differences Between Mongoose and MongoClient](https://dev.to/pardhu_99/i-fumbled-on-a-nextjs-mongodb-error-and-learned-the-key-differences-between-mongoose-and-mongoclient-1opb)
-- [A Beginner&#39;s Guide to CSS @property for custom variables](https://dev.to/surajdjagtap/a-beginners-guide-to-css-property-for-custom-variables-11cp)
-- [new way thinking. python + data-star](https://dev.to/blinkinglight/new-way-thinking-python-data-star-cg9)
+- [How I Wrote Express-Go in 19 Hours](https://dev.to/brunociccarino/how-i-wrote-express-go-in-19-hours-3ndh)
+- [Streamlining Your Rails 8 App: Migrating from Postgres to SQLite](https://dev.to/visini/streamlining-your-rails-8-app-migrating-from-postgres-to-sqlite-5gd7)
+- [LabEx Trending: Student Grade Management System and More](https://dev.to/labex/labex-trending-student-grade-management-system-and-more-2fao)
+- [COBOL Tutorial Series: Working with Database - Session 5](https://dev.to/ngtduc693/cobol-tutorial-series-working-with-database-session-5-42gp)
+- [How to customize PDF.js](https://dev.to/gleamtech/how-to-customize-pdfjs-3po7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
