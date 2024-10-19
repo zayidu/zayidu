@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You will use Git Tags all the time now! 😄](https://dev.to/alishgiri/you-will-use-git-tags-all-the-time-now-1ijn)
-- [How to properly add a favicon in Next.js](https://dev.to/philippe/how-to-properly-add-a-favicon-in-nextjs-54kp)
-- [COBOL Tutorial Series: Condition &lpar;IF, ELSE&rpar; statement - Session 3](https://dev.to/ngtduc693/cobol-tutorial-series-condition-if-else-statement-session-3-2kle)
-- [I AM MAKING A GAME 😂](https://dev.to/mince/i-am-making-a-game-2cl0)
-- [The Power of Deep Work: Achieving Flow in a Distracted World](https://dev.to/techbalance_collective/the-power-of-deep-work-achieving-flow-in-a-distracted-world-1np8)
+- [Automating Markdown and Image Translations with Co-op Translator](https://dev.to/skytin1004/automating-markdown-and-image-translations-with-co-op-translator-50lm)
+- [COBOL Tutorial Series: Loop statements - Session 4](https://dev.to/ngtduc693/cobol-tutorial-series-loop-statements-session-4-21la)
+- [Building emmanuel-dot-clone.netlify.app &lpar;A clone of dot.ai&rpar; with Astro JS](https://dev.to/professor12/building-emmanuel-dot-clonenetlifyapp-a-clone-of-dotai-with-astro-js-4e8n)
+- [Data-Driven Marketing: Improve Customer Experience and Sales](https://dev.to/tn_trnnh_bba09e66a2d/data-driven-marketing-improve-customer-experience-and-sales-1gld)
+- [🚀 Your Daily Crypto Job Digest For 19 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-19-october-cee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
