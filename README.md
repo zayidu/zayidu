@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Sort Algorithm like a PRO](https://dev.to/emmanuelayinde/mastering-sort-algorithm-like-a-pro-13p6)
-- [Camouflage-Shield: An Image Encryption Application.](https://dev.to/saahen_sriyan_mishra/camouflage-shield-an-image-encryption-application-2e9d)
-- [How to Implement Google Analytics 4 &lpar;GA4&rpar; in a Next.js Project](https://dev.to/rajeshkumaryadavdotcom/how-to-implement-google-analytics-4-ga4-in-a-nextjs-project-dm7)
-- [Security news weekly round-up - 18th October 2024](https://dev.to/ziizium/security-news-weekly-round-up-18th-october-2024-2l6i)
-- [Mastering the DOM in JavaScript](https://dev.to/imrankhan17/mastering-the-dom-in-javascript-498o)
+- [Advanced Techniques in React State Management](https://dev.to/kartikmehta8/advanced-techniques-in-react-state-management-2db)
+- [Careers in Tech: Tips and Trends for Beginners](https://dev.to/izabellalbuquerque/careers-in-tech-tips-and-trends-for-beginners-n88)
+- [Bridging numerical relativity and automatic differentiation using JAX](https://dev.to/bkataru/bridging-numerical-relativity-and-automatic-differentiation-using-jax-2hc3)
+- [Reflecting Updated DB Data in Next.js Frontend - Understanding SSG and ISR](https://dev.to/s4yuba/reflecting-updated-db-data-in-nextjs-frontend-understanding-ssg-and-isr-2hp1)
+- [Quickly Design a Smashing Calendar Icon Using Tailwind CSS](https://dev.to/mino89/quickly-design-a-smashing-calendar-icon-using-tailwind-css-40bo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
