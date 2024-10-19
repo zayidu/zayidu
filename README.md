@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COBOL Tutorial Series: A calculation program - Part 2](https://dev.to/ngtduc693/cobol-tutorial-series-a-calculation-program-f35)
-- [Nvidia&#39;s Nemotron 70B: Raising the Bar for AI](https://dev.to/arbisoftcompany/nvidias-nemotron-70b-raising-the-bar-for-ai-52e2)
-- [Am I wasting time learning Web3?](https://dev.to/sanskari_patrick07/am-i-wasting-time-learning-web3-29l7)
-- [Variance - best perspective of understanding lifetime in Rust](https://dev.to/arichy/variance-best-perspective-of-understanding-lifetime-in-rust-m84)
-- [How to join Multiple Kafka Topics - Overview](https://dev.to/joseboretto/how-to-join-multiple-kafka-topics-overview-19j8)
+- [You will use Git Tags all the time now! 😄](https://dev.to/alishgiri/you-will-use-git-tags-all-the-time-now-1ijn)
+- [How to properly add a favicon in Next.js](https://dev.to/philippe/how-to-properly-add-a-favicon-in-nextjs-54kp)
+- [COBOL Tutorial Series: Condition &lpar;IF, ELSE&rpar; statement - Session 3](https://dev.to/ngtduc693/cobol-tutorial-series-condition-if-else-statement-session-3-2kle)
+- [I AM MAKING A GAME 😂](https://dev.to/mince/i-am-making-a-game-2cl0)
+- [The Power of Deep Work: Achieving Flow in a Distracted World](https://dev.to/techbalance_collective/the-power-of-deep-work-achieving-flow-in-a-distracted-world-1np8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
