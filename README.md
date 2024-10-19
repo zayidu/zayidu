@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Edit HTML files visually.](https://dev.to/urin/edit-html-files-visually-2a0l)
-- [My submission](https://dev.to/qaismohib2345/my-submission-52d4)
-- [Hello Folks I am Web And Graphic Designer](https://dev.to/nidhir_parmar_acc1a44849c/hello-folks-i-am-web-and-graphic-designer-312b)
-- [How Much Does Custom Insurance Software Development Cost in 2024?](https://dev.to/clashing_queen/how-much-does-custom-insurance-software-development-cost-in-2024-lek)
-- [Simple Portfolio Page](https://dev.to/achintha_prabash_c1dc098a/simple-portfolio-page-1h7e)
+- [Does anyone knows how to debug Volt component in Laravel using vscode?](https://dev.to/arfn/does-anyone-knows-how-to-debug-volt-component-in-laravel-using-vscode-2k77)
+- [10 Scalability Lessons from Zoom&#39;s Software Architecture](https://dev.to/somadevtoo/10-scalability-lessons-from-zooms-software-architecture-6g3)
+- [Benefits and Drawbacks of Adopting Clean Architecture](https://dev.to/yukionishi1129/benefits-and-drawbacks-of-adopting-clean-architecture-2pd1)
+- [جدول الضرب](https://dev.to/mona_razg_0fc11d20091fcd8/jdwl-ldrb-3ilp)
+- [12 Best LLM Projects for All Levels](https://dev.to/tutortacademy/12-best-llm-projects-for-all-levels-5ha5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
