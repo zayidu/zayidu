@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Compiler Design: A Comprehensive Collection of Free Programming Resources](https://dev.to/getvm/mastering-compiler-design-a-comprehensive-collection-of-free-programming-resources-1e0j)
-- [Automated Lead Generation: Find &amp; Email Lookalike Companies Using Ocean.io &amp; Latenode](https://dev.to/latenode/automated-lead-generation-find-email-lookalike-companies-using-oceanio-latenode-33o8)
-- [Simplify Tracking of Lifetime Deals with TimePaste&#39;s Custom Node](https://dev.to/latenode/simplify-tracking-of-lifetime-deals-with-timepastes-custom-node-om7)
-- [How TimePaste&#39;s Custom Node Automates Website Monitoring](https://dev.to/latenode/how-timepastes-custom-node-automates-website-monitoring-4f2f)
-- [hello would!](https://dev.to/mphpmaster/hello-would-6d3)
+- [System Design: UPI &lpar;Unified Payment Interface&rpar;](https://dev.to/zeeshanali0704/system-design-upi-unified-payment-interface-2ng3)
+- [Jumping Into The Deep End](https://dev.to/udayrana/jumping-into-the-deep-end-4j1m)
+- [Why Do So Many Newbies Quit Learning PHP Halfway Through?](https://dev.to/prestisiabunga/why-do-so-many-newbies-quit-learning-php-halfway-through-40ib)
+- [`grid` with reveal + resize on `hover`](https://dev.to/mandynicole/grid-with-reveal-resize-on-hover-184p)
+- [Color-Scheme + Fluid Type](https://dev.to/mandynicole/color-scheme-fluid-type-25pc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
