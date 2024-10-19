@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Want your productivity to skyrocket? Avoid this trap!](https://dev.to/moozzyk/want-your-productivity-to-skyrocket-avoid-this-trap-4mdm)
-- [COBOL Tutorial Series: Developing Without a Mainframe](https://dev.to/ngtduc693/cobol-tutorial-series-developing-without-a-mainframe-3kah)
-- [Understanding Enterprise JavaBeans &lpar;EJB&rpar;: The Backbone of Java EE Applications](https://dev.to/adityabhuyan/understanding-enterprise-javabeans-ejb-the-backbone-of-java-ee-applications-27jg)
-- [Lançando uma exceção com throw](https://dev.to/devsjavagirls/lancando-uma-excecao-com-throw-21c)
-- [Best Practices in Systems Engineering for Complex Projects: A Comprehensive Guide](https://dev.to/adityabhuyan/best-practices-in-systems-engineering-for-complex-projects-a-comprehensive-guide-c26)
+- [A Beginner’s Guide to GitHub](https://dev.to/kiran_baliga/a-beginners-guide-to-github-3966)
+- [Why Angular Remains a Top Choice for Web Development in 2024 ?](https://dev.to/aapgs_b8d41d300e2d50c4e5d/why-angular-remains-a-top-choice-for-web-development-in-2024--2pnj)
+- [VULNERABILITY RESEARCH](https://dev.to/sane08/vulnerability-research-57ej)
+- [Top Challenging and hardest javascript technical interview questions with solutions.](https://dev.to/vishal_tiwari_114f21d14e5/top-challenging-and-hardest-javascript-technical-interview-questions-with-solutions-3189)
+- [Mastering Multi-Cloud Infrastructure with Terraform: A Game-Changer for Modern IT](https://dev.to/s3cloudhub/mastering-multi-cloud-infrastructure-with-terraform-a-game-changer-for-modern-it-563j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
