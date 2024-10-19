@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Techniques in React State Management](https://dev.to/kartikmehta8/advanced-techniques-in-react-state-management-2db)
-- [Careers in Tech: Tips and Trends for Beginners](https://dev.to/izabellalbuquerque/careers-in-tech-tips-and-trends-for-beginners-n88)
-- [Bridging numerical relativity and automatic differentiation using JAX](https://dev.to/bkataru/bridging-numerical-relativity-and-automatic-differentiation-using-jax-2hc3)
-- [Reflecting Updated DB Data in Next.js Frontend - Understanding SSG and ISR](https://dev.to/s4yuba/reflecting-updated-db-data-in-nextjs-frontend-understanding-ssg-and-isr-2hp1)
-- [Quickly Design a Smashing Calendar Icon Using Tailwind CSS](https://dev.to/mino89/quickly-design-a-smashing-calendar-icon-using-tailwind-css-40bo)
+- [Diving into Reactjs](https://dev.to/undrthegraveyard/diving-into-reactjs-4eid)
+- [Get Started with Python today](https://dev.to/efrataaron/get-started-with-python-today-p40)
+- [Understanding Comments in PHP](https://dev.to/hurayraiit/understanding-comments-in-php-30h6)
+- [Upsert a row in a DB that doesn&#39;t use primary keys or unique constraints](https://dev.to/tylerlwsmith/upsert-a-row-in-a-db-that-doesnt-use-primary-keys-or-unique-constraints-2jnl)
+- [Seja um desenvolvedor melhor com S.O.L.I.D.](https://dev.to/albertoventura/seja-um-desenvolvedor-melhor-com-solid-1j8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
