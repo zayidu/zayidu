@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Diving into Reactjs](https://dev.to/undrthegraveyard/diving-into-reactjs-4eid)
-- [Get Started with Python today](https://dev.to/efrataaron/get-started-with-python-today-p40)
-- [Understanding Comments in PHP](https://dev.to/hurayraiit/understanding-comments-in-php-30h6)
-- [Upsert a row in a DB that doesn&#39;t use primary keys or unique constraints](https://dev.to/tylerlwsmith/upsert-a-row-in-a-db-that-doesnt-use-primary-keys-or-unique-constraints-2jnl)
-- [Seja um desenvolvedor melhor com S.O.L.I.D.](https://dev.to/albertoventura/seja-um-desenvolvedor-melhor-com-solid-1j8l)
+- [Mastering Compiler Design: A Comprehensive Collection of Free Programming Resources](https://dev.to/getvm/mastering-compiler-design-a-comprehensive-collection-of-free-programming-resources-1e0j)
+- [Automated Lead Generation: Find &amp; Email Lookalike Companies Using Ocean.io &amp; Latenode](https://dev.to/latenode/automated-lead-generation-find-email-lookalike-companies-using-oceanio-latenode-33o8)
+- [Simplify Tracking of Lifetime Deals with TimePaste&#39;s Custom Node](https://dev.to/latenode/simplify-tracking-of-lifetime-deals-with-timepastes-custom-node-om7)
+- [How TimePaste&#39;s Custom Node Automates Website Monitoring](https://dev.to/latenode/how-timepastes-custom-node-automates-website-monitoring-4f2f)
+- [hello would!](https://dev.to/mphpmaster/hello-would-6d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
