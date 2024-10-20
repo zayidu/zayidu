@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shortcomings of Current Smart City Platforms and Their Role in Sustainable &amp; Resilient Cities](https://dev.to/okyzaprabowo/shortcomings-of-current-smart-city-platforms-and-their-role-in-sustainable-resilient-cities-4c2l)
-- [In 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 , Do you know the difference between 𝐕𝐨𝐥𝐮𝐦𝐞 𝐁𝐢𝐧𝐝𝐢𝐧𝐠 and 𝐕𝐨𝐥𝐮𝐦𝐞 𝐌𝐨𝐮𝐧𝐭𝐢𝐧𝐠 ?](https://dev.to/nanditechbytes/in-do-you-know-the-difference-between-and--bjk)
-- [Deploying Nginx with Self-Signed TLS Using Helm and Minikube &lpar;Dev &amp; Staging Environments&rpar;](https://dev.to/bansikah/deploying-nginx-with-self-signed-tls-using-helm-and-minikube-dev-staging-environments-397)
-- [Replit saytidagi shell buyruqlari haqida](https://dev.to/munisa_kuranbekova_078e1e/replit-saytidagi-shell-buyruqlari-haqida-30fl)
-- [Deep Learning and Machine Learning in Space Networks](https://dev.to/sourishsr31/deep-learning-and-machine-learning-in-space-networks-3ao7)
+- [How to Create and Test a React Query Hook for Global Loading Indicators](https://dev.to/serifcolakel/how-to-create-and-test-a-react-query-hook-for-global-loading-indicators-2i2f)
+- [CSS Box Model: A Beginner-Friendly Guide](https://dev.to/muskan-singh/css-box-model-a-beginner-friendly-guide-47nc)
+- [Nvidia GPUs with 48 GB Video RAM](https://dev.to/javaeeeee/nvidia-gpus-with-48-gb-video-ram-10k7)
+- [The Ultimate Node.js TypeScript Project Setup: DevOps Essentials Included](https://dev.to/theonlineaid/the-ultimate-nodejs-typescript-project-setup-devops-essentials-included-14j4)
+- [Como Criptografar um Volume EBS Existente](https://dev.to/edgar_jose_412cdf41fb30a0/como-criptografar-um-volume-ebs-existente-1745)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
