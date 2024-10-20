@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ways to Convert JPG: How to Compress JPG Effectively](https://dev.to/msmith99994/ways-to-convert-jpg-how-to-compress-jpg-effectively-307j)
-- [Turn Your VPS into an Impenetrable Fortress: How to Make Your Public Server Private Using Tailscale and UFW!](https://dev.to/binsarjr/turn-your-vps-into-an-impenetrable-fortress-how-to-make-your-public-server-private-using-tailscale-and-ufw-3841)
-- [Organizing YAML files by creating directories like `config/x` in Rails](https://dev.to/hoshinotsuyoshi/organizing-yaml-files-by-creating-directories-like-configx-in-rails-5cfj)
-- [Understanding PHP Types - NULL](https://dev.to/hurayraiit/understanding-php-types-null-40g7)
-- [Ways to Convert PNG: How to Compress PNG Effectively](https://dev.to/msmith99994/ways-to-convert-png-how-to-compress-png-effectively-4976)
+- [Consultas Rápidas e Eficientes com Dapper](https://dev.to/juarezasjunior/consultas-rapidas-e-eficientes-com-dapper-7o2)
+- [The FIRE Movement: How Tech Pros Can Retire Early](https://dev.to/techbalance_collective/the-fire-movement-how-tech-pros-can-retire-early-1m00)
+- [Fast and Efficient Queries with Dapper](https://dev.to/juarezasjunior/fast-and-efficient-queries-with-dapper-33l3)
+- [Few Prompt Engineering Tricks](https://dev.to/busycaesar/few-prompt-engineering-tricks-2fa4)
+- [Index and poker games](https://dev.to/simongreennet/index-and-poker-games-c1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
