@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure cloud provisioning pipeline with GitHub automation](https://dev.to/rdhar/secure-cloud-provisioning-pipeline-with-github-automation-27g4)
-- [The Invisible Realm coming from Limits and Infinities](https://dev.to/lingjun_jiang_c2fc6902f7e/unseen-wonders-exploring-the-limits-and-infinities-of-mathematics-3236)
-- [Mastering System Design for Junior Engineers](https://dev.to/boris_burakovski_c7420552/mastering-system-design-for-junior-engineers-24eg)
-- [Using Firebase FCM for Push Notifications in PHP: A Complete Guide](https://dev.to/omr4ni/using-firebase-fcm-for-push-notifications-in-php-a-complete-guide-497e)
-- [Exploring Java&#39;s Concurrency Utilities](https://dev.to/kartikmehta8/exploring-javas-concurrency-utilities-4e79)
+- [มาทำความรู้จัก Nautik เครื่องมือสำหรับจัดการ kubernetes ผ่าน iPhone, iPad เเละ Mac](https://dev.to/bukton123/maathamkhwaamruucchak-nautik-ekhruuengmuuesamhrabcchadkaar-kubernetes-phaan-iphone-ipad-eela-mac-3d9m)
+- [Matriz 19.10](https://dev.to/lolzcec/matriz-1910-298n)
+- [🌊 Diving Into React Hooks: A Comprehensive Guide for Modern Development](https://dev.to/hernan_vergara_e797907d83/diving-into-react-hooks-a-comprehensive-guide-for-modern-development-20lp)
+- [Why Learning Fundamentals Over Frameworks is Key to Long-Term Success in Software Development](https://dev.to/musamakhizr/why-learning-fundamentals-over-frameworks-is-key-to-long-term-success-in-software-development-3a9i)
+- [Must-Have Skills for Junior Developers Aiming for Senior Positions](https://dev.to/abdullah-dev0/must-have-skills-for-junior-developers-aiming-for-senior-positions-5cj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
