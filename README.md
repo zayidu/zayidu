@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create and Test a React Query Hook for Global Loading Indicators](https://dev.to/serifcolakel/how-to-create-and-test-a-react-query-hook-for-global-loading-indicators-2i2f)
-- [CSS Box Model: A Beginner-Friendly Guide](https://dev.to/muskan-singh/css-box-model-a-beginner-friendly-guide-47nc)
-- [Nvidia GPUs with 48 GB Video RAM](https://dev.to/javaeeeee/nvidia-gpus-with-48-gb-video-ram-10k7)
-- [The Ultimate Node.js TypeScript Project Setup: DevOps Essentials Included](https://dev.to/theonlineaid/the-ultimate-nodejs-typescript-project-setup-devops-essentials-included-14j4)
-- [Como Criptografar um Volume EBS Existente](https://dev.to/edgar_jose_412cdf41fb30a0/como-criptografar-um-volume-ebs-existente-1745)
+- [LLMs are NOT the product](https://dev.to/amplanetwork/llms-are-not-the-product-5d8c)
+- [The Metaverse Expansion: Redefining Our Digital Interactions](https://dev.to/nitindahiyadev/the-metaverse-expansion-redefining-our-digital-interactions-1hhe)
+- [Kubernetes Architecture | Part 1](https://dev.to/mrcaption49/kubernetes-architecture-part-1-12f7)
+- [Vers une Régulation Éthique de l&#39;IA](https://dev.to/sarah_hautotottirate_0/vers-une-regulation-ethique-de-lia-743)
+- [Analyzing Stocks with Perplexity - FAV0 Weekly #018](https://dev.to/justin3go/analyzing-stocks-with-perplexity-fav0-weekly-018-8ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
