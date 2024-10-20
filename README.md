@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Some tips and tricks with the new iOS 18 ScrollView APIs](https://dev.to/divyeshvekariya/some-tips-and-tricks-with-the-new-ios-18-scrollview-apis-2ahg)
-- [[Opinion] I’ve passed an AWS cert… but is this something for me?](https://dev.to/uponthesky/opinion-ive-passed-an-aws-cert-but-is-this-something-for-me-2al9)
-- [Design a web page with html and tailwind](https://dev.to/sumaiyarahmanchowdhury/design-a-web-page-with-html-and-tailwind-33d7)
-- [Design a web page with Tailwind CSS](https://dev.to/sumaiyarahmanchowdhury/design-a-web-page-with-tailwind-css-42b9)
-- [Setting up Environment for POSTMAN](https://dev.to/mourya_modugula/setting-up-environment-for-postman-4i21)
+- [Dangerous Software #1: Therac-25](https://dev.to/tkouleris/dangerous-software-1-therac-25-3fid)
+- [Got Some Discord Communities](https://dev.to/yashritz/got-some-discord-communities-2f3l)
+- [Time Tracking: A Simple Way to Understand and Improve How You Work](https://dev.to/radzion/time-tracking-a-simple-way-to-understand-and-improve-how-you-work-1ijk)
+- [Most Asked DSA Interview Questions](https://dev.to/notarena/most-asked-dsa-interview-questions-586f)
+- [Useful IPython magic commands](https://dev.to/hyperkai/useful-ipython-magic-commands-8fd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
