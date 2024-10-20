@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Your Own AI RAG Chatbot: A Python Guide with LangChain](https://dev.to/shreshthgoyal/create-your-own-ai-rag-chatbot-a-python-guide-with-langchain-dfi)
-- [Enhancing Healthcare with Cloud-Based Clinical Decision Support Systems](https://dev.to/sourishsr31/enhancing-healthcare-with-cloud-based-clinical-decision-support-systems-4ao8)
-- [A walkthrough to Sofia Santos&#39; OSINT Exercise #002](https://dev.to/bharathv03/a-walkthrough-to-sofia-santos-osint-exercise-002-53hc)
-- [JavaScript OOP Concepts: Class-Based vs. Prototype-Based](https://dev.to/theonlineaid/javascript-oop-concepts-class-based-vs-prototype-based-5602)
-- [Audio to Text Input via Google Speech to Text](https://dev.to/shubhadip/audio-to-text-input-via-google-speech-to-text-4ob0)
+- [How to Enable Windows Subsystem for Linux in Windows 11](https://dev.to/winsides/how-to-enable-windows-subsystem-for-linux-in-windows-11-1e5b)
+- [Use WCCA to analyze the reliablity of transistor logic circuit.](https://dev.to/zhangzhuyue/use-wcca-to-analyze-the-reliablity-of-transistor-logic-circuit-1mji)
+- [Best Patterns for Cracking Coding Interviews Using LeetCode](https://dev.to/nozibul_islam_113b1d5334f/best-patterns-for-cracking-coding-interviews-using-leetcode-1c5p)
+- [Front End Development And Integration With Google API | Using Hooks, Throttle, And Dynamic Style.](https://dev.to/msharifhub/front-end-development-and-integration-with-google-api-using-hooks-throttle-and-dynamic-style-3lp0)
+- [RTC design with automatic cloud calibration for simple programmable controller based on ESP8266](https://dev.to/zhangzhuyue/rtc-design-with-automatic-cloud-calibration-for-simple-programmable-controller-based-on-esp8266-2lo9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
