@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [From a Unified Bronze Layer to Multiple Silver Layers: Streamlining Data Transformation in Databricks Unity Catalog](https://dev.to/prakhyatkarri/from-a-unified-bronze-layer-to-multiple-silver-layers-streamlining-data-transformation-in-databricks-unity-catalog-1gj8)
+- [Scop in Javascript.](https://dev.to/hamadahmad000/scop-in-javascript-i47)
+- [The Surprising Tech Behind McMaster-Carr&#39;s Blazing Fast Website Speed](https://dev.to/svsharma/the-surprising-tech-behind-mcmaster-carrs-blazing-fast-website-speed-bfc)
+- [Multi-Agent System for 🚀 ANY AI/ML Model: 🌐 Web Scraping &amp; 📝 Content Analysis Powered by the 🔗 AI/ML API](https://dev.to/jadouse5/multi-agent-system-for-any-aiml-model-web-scraping-content-analysis-powered-by-the-aiml-api-5ek8)
 - [Server Actions have been fixed](https://dev.to/aralroca/server-actions-have-been-fixed-3ikg)
-- [Things every programmer should have in their Mind Configuration](https://dev.to/c043/things-every-programmer-should-have-in-their-mind-configuration-1m1d)
-- [Comfyui custom nodes, how to create a button widget to select a path?](https://dev.to/uriel_deveaud/comfyui-custom-nodes-how-to-create-a-button-widget-to-select-a-path-al1)
-- [Keras: Understanding the Basics with a Detailed Example](https://dev.to/dazevedo/keras-understanding-the-basics-with-a-detailed-example-4b0h)
-- [CKA Full Course 2024: Day 2/40](https://dev.to/lloydrivers/cka-full-course-2024-day-240-3f38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
