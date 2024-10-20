@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Algorithms Behind Your Social Media Feed 🤯](https://dev.to/lokesh_singh/the-hidden-algorithms-behind-your-social-media-feed-gl7)
-- [🔒 Mastering OAuth 2.0 in Modern Web Applications: Security Best Practices for 2024 🚀](https://dev.to/hamzakhan/mastering-oauth-20-in-modern-web-applications-security-best-practices-for-2024-26ed)
-- [Unit Test Generation with Early AI](https://dev.to/rsaz/unit-test-generation-with-early-ai-31co)
-- [How to Secure SSH on Any Linux Server using PAM and Google Authenticator](https://dev.to/ansxuman/how-to-secure-ssh-on-any-linux-server-using-pam-and-google-authenticator-12n7)
-- [Finding Tranquility through Design – &quot;Nature’s Serenity: Embrace the Calm](https://dev.to/navodya-1ccb29f5/finding-tranquility-through-design-natures-serenity-embrace-the-calm-353f)
+- [Navigating Technical Interviews: The Most Popular Questions](https://dev.to/salmaniyad/navigating-technical-interviews-the-most-popular-questions-3l9j)
+- [A Deep Dive into the Software Development Lifecycle: Strategies for Success](https://dev.to/zainab_afzal_55/a-deep-dive-into-the-software-development-lifecycle-strategies-for-success-4712)
+- [Image vs JPG](https://dev.to/msmith99994/image-vs-jpg-3c7k)
+- [Key Takeaways from My Recent Review of the React Docs](https://dev.to/jaamaalxyz/key-takeaways-from-my-recent-review-of-the-react-docs-4115)
+- [My Take on macOS Sequoia: Cool Features or Bugs Galore?](https://dev.to/airabbit/my-take-on-macos-sequoia-cool-features-or-bugs-galore-2okg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
