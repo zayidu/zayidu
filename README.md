@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs are NOT the product](https://dev.to/amplanetwork/llms-are-not-the-product-5d8c)
-- [The Metaverse Expansion: Redefining Our Digital Interactions](https://dev.to/nitindahiyadev/the-metaverse-expansion-redefining-our-digital-interactions-1hhe)
-- [Kubernetes Architecture | Part 1](https://dev.to/mrcaption49/kubernetes-architecture-part-1-12f7)
-- [Vers une Régulation Éthique de l&#39;IA](https://dev.to/sarah_hautotottirate_0/vers-une-regulation-ethique-de-lia-743)
-- [Analyzing Stocks with Perplexity - FAV0 Weekly #018](https://dev.to/justin3go/analyzing-stocks-with-perplexity-fav0-weekly-018-8ja)
+- [Open Source Chatbot UI template for Developers](https://dev.to/ragharao314159/open-source-chatbot-ui-template-for-developers-5apk)
+- [London Perl Workshop 2024 – Preview](https://dev.to/davorg/london-perl-workshop-2024-preview-2oap)
+- [Essential Git Commands Every Developer Should Know](https://dev.to/wizdomtek/essential-git-commands-every-developer-should-know-2791)
+- [Getting Started with Tailwind CSS](https://dev.to/nehaaa/getting-started-with-tailwind-css-n2k)
+- [Pay Attention to Personalities](https://dev.to/jr/pay-attention-to-personalities-o09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
