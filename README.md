@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [มาทำความรู้จัก Nautik เครื่องมือสำหรับจัดการ kubernetes ผ่าน iPhone, iPad เเละ Mac](https://dev.to/bukton123/maathamkhwaamruucchak-nautik-ekhruuengmuuesamhrabcchadkaar-kubernetes-phaan-iphone-ipad-eela-mac-3d9m)
-- [Matriz 19.10](https://dev.to/lolzcec/matriz-1910-298n)
-- [🌊 Diving Into React Hooks: A Comprehensive Guide for Modern Development](https://dev.to/hernan_vergara_e797907d83/diving-into-react-hooks-a-comprehensive-guide-for-modern-development-20lp)
-- [Why Learning Fundamentals Over Frameworks is Key to Long-Term Success in Software Development](https://dev.to/musamakhizr/why-learning-fundamentals-over-frameworks-is-key-to-long-term-success-in-software-development-3a9i)
-- [Must-Have Skills for Junior Developers Aiming for Senior Positions](https://dev.to/abdullah-dev0/must-have-skills-for-junior-developers-aiming-for-senior-positions-5cj3)
+- [Some tips and tricks with the new iOS 18 ScrollView APIs](https://dev.to/divyeshvekariya/some-tips-and-tricks-with-the-new-ios-18-scrollview-apis-2ahg)
+- [[Opinion] I’ve passed an AWS cert… but is this something for me?](https://dev.to/uponthesky/opinion-ive-passed-an-aws-cert-but-is-this-something-for-me-2al9)
+- [Design a web page with html and tailwind](https://dev.to/sumaiyarahmanchowdhury/design-a-web-page-with-html-and-tailwind-33d7)
+- [Design a web page with Tailwind CSS](https://dev.to/sumaiyarahmanchowdhury/design-a-web-page-with-tailwind-css-42b9)
+- [Setting up Environment for POSTMAN](https://dev.to/mourya_modugula/setting-up-environment-for-postman-4i21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
