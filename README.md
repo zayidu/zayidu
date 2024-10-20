@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Enable Windows Subsystem for Linux in Windows 11](https://dev.to/winsides/how-to-enable-windows-subsystem-for-linux-in-windows-11-1e5b)
-- [Use WCCA to analyze the reliablity of transistor logic circuit.](https://dev.to/zhangzhuyue/use-wcca-to-analyze-the-reliablity-of-transistor-logic-circuit-1mji)
-- [Best Patterns for Cracking Coding Interviews Using LeetCode](https://dev.to/nozibul_islam_113b1d5334f/best-patterns-for-cracking-coding-interviews-using-leetcode-1c5p)
-- [Front End Development And Integration With Google API | Using Hooks, Throttle, And Dynamic Style.](https://dev.to/msharifhub/front-end-development-and-integration-with-google-api-using-hooks-throttle-and-dynamic-style-3lp0)
-- [RTC design with automatic cloud calibration for simple programmable controller based on ESP8266](https://dev.to/zhangzhuyue/rtc-design-with-automatic-cloud-calibration-for-simple-programmable-controller-based-on-esp8266-2lo9)
+- [From Animation to Cybersecurity &amp; AI: How I Battled Self-Doubt, and 225 Job Rejections to Find My Calling](https://dev.to/samson_tech/from-animation-to-cybersecurity-ai-how-i-battled-self-doubt-and-225-job-rejections-to-find-my-calling-19pl)
+- [Mastering JavaScript Debugging: 6 Best Techniques for Newbie](https://dev.to/emma_richardson/mastering-javascript-debugging-6-best-techniques-for-newbie-52bp)
+- [C# Advanced: Understanding Anonymous Types](https://dev.to/moh_moh701/c-advanced-understanding-anonymous-types-12p6)
+- [How Can We Prevent Catastrophic Forgetting and Preserve Knowledge During LLM Fine-tuning?](https://dev.to/alexht/wei-diao-llm-2eak)
+- [Optimizing Pagination in PostgreSQL: OFFSET/LIMIT vs. Keyset](https://dev.to/scion01/optimizing-pagination-in-postgresql-offsetlimit-vs-keyset-21dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
