@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Unit and Integration Testing for Minimal APIs in .NET 8: Best Practices for High-Quality Code](https://dev.to/leandroveiga/mastering-unit-and-integration-testing-for-minimal-apis-in-net-8-best-practices-for-high-quality-code-56n7)
-- [1106. Parsing A Boolean Expression](https://dev.to/mdarifulhaque/1106-parsing-a-boolean-expression-281a)
-- [CKA Full Course 2024: Day 1/40](https://dev.to/lloydrivers/cka-full-course-2024-day-140-5h35)
-- [BASH&lpar;Shell&rpar; Scripting 101](https://dev.to/prashant_1111/bashshell-scripting-101-54b8)
-- [🚀 From Zero to Web Development Hero: Join the Journey on HoverHacks 🌟](https://dev.to/shubham2270/from-zero-to-web-development-hero-join-the-journey-on-hoverhacks-15ba)
+- [gRPC: um panorama do contexto histórico às aplicações práticas!](https://dev.to/becomex/grpc-um-panorama-do-contexto-historico-as-aplicacoes-praticas-4j2l)
+- [Libraries You Should Know When Building with React](https://dev.to/sonaykara/libraries-you-should-know-when-building-with-react-2c2g)
+- [10 Must-Know Git &amp; Development Tips Every Beginner Should Master](https://dev.to/mukhilpadmanabhan/10-must-know-git-development-tips-every-beginner-should-master-fph)
+- [HTTP Status Code](https://dev.to/gguife/http-status-code-3n78)
+- [Automate Docker Deployments to Your Server Using GitHub Actions and Amazon ECR](https://dev.to/aws-builders/automate-docker-deployments-to-your-server-using-github-actions-and-amazon-ecr-332d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
