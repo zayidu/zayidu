@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [gRPC: um panorama do contexto histórico às aplicações práticas!](https://dev.to/becomex/grpc-um-panorama-do-contexto-historico-as-aplicacoes-praticas-4j2l)
-- [Libraries You Should Know When Building with React](https://dev.to/sonaykara/libraries-you-should-know-when-building-with-react-2c2g)
-- [10 Must-Know Git &amp; Development Tips Every Beginner Should Master](https://dev.to/mukhilpadmanabhan/10-must-know-git-development-tips-every-beginner-should-master-fph)
-- [HTTP Status Code](https://dev.to/gguife/http-status-code-3n78)
-- [Automate Docker Deployments to Your Server Using GitHub Actions and Amazon ECR](https://dev.to/aws-builders/automate-docker-deployments-to-your-server-using-github-actions-and-amazon-ecr-332d)
+- [Day007 - Random posts under TIL](https://dev.to/sarvsav/day007-random-posts-under-til-442m)
+- [Understanding AI, Machine Learning, Deep Learning, and Generative AI](https://dev.to/rajeshkumaryadavdotcom/understanding-ai-machine-learning-deep-learning-and-generative-ai-1l8i)
+- [Country Capital Quiz](https://dev.to/vaishnavi_raykar/country-capital-quiz-2cok)
+- [Development on Ubuntu?](https://dev.to/admirmehicic/development-on-ubuntu-m77)
+- [Day 8 of 365 &lpar;10 Million Yen Japan Career Switch Challenge&rpar;](https://dev.to/kameken100/day-8-of-365-10-million-yen-japan-career-switch-challenge-5386)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
