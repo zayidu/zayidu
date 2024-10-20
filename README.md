@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day007 - Random posts under TIL](https://dev.to/sarvsav/day007-random-posts-under-til-442m)
-- [Understanding AI, Machine Learning, Deep Learning, and Generative AI](https://dev.to/rajeshkumaryadavdotcom/understanding-ai-machine-learning-deep-learning-and-generative-ai-1l8i)
-- [Country Capital Quiz](https://dev.to/vaishnavi_raykar/country-capital-quiz-2cok)
-- [Development on Ubuntu?](https://dev.to/admirmehicic/development-on-ubuntu-m77)
-- [Day 8 of 365 &lpar;10 Million Yen Japan Career Switch Challenge&rpar;](https://dev.to/kameken100/day-8-of-365-10-million-yen-japan-career-switch-challenge-5386)
+- [Server Actions have been fixed](https://dev.to/aralroca/server-actions-have-been-fixed-3ikg)
+- [Things every programmer should have in their Mind Configuration](https://dev.to/c043/things-every-programmer-should-have-in-their-mind-configuration-1m1d)
+- [Comfyui custom nodes, how to create a button widget to select a path?](https://dev.to/uriel_deveaud/comfyui-custom-nodes-how-to-create-a-button-widget-to-select-a-path-al1)
+- [Keras: Understanding the Basics with a Detailed Example](https://dev.to/dazevedo/keras-understanding-the-basics-with-a-detailed-example-4b0h)
+- [CKA Full Course 2024: Day 2/40](https://dev.to/lloydrivers/cka-full-course-2024-day-240-3f38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
