@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Chatbot UI template for Developers](https://dev.to/ragharao314159/open-source-chatbot-ui-template-for-developers-5apk)
-- [London Perl Workshop 2024 – Preview](https://dev.to/davorg/london-perl-workshop-2024-preview-2oap)
-- [Essential Git Commands Every Developer Should Know](https://dev.to/wizdomtek/essential-git-commands-every-developer-should-know-2791)
-- [Getting Started with Tailwind CSS](https://dev.to/nehaaa/getting-started-with-tailwind-css-n2k)
-- [Pay Attention to Personalities](https://dev.to/jr/pay-attention-to-personalities-o09)
+- [JavaScript JS0/JSSugar Proposals, Node.js 23, Next.js 15 RC2 and more](https://dev.to/thisweekinjavascript/javascript-js0jssugar-proposals-nodejs-23-nextjs-15-rc2-and-more-328j)
+- [Resolving Docker Push Errors: &quot;Denied: Requested Access to the Resource is Denied&quot;](https://dev.to/dm8ry/resolving-docker-push-errors-denied-requested-access-to-the-resource-is-denied-c41)
+- [Docker &amp; Kubernetes | Docker desktop &amp; Minikube](https://dev.to/mrcaption49/docker-kubernetes-docker-desktop-minikube-3onn)
+- [What Are Bitmasks and Bitwise Operators?](https://dev.to/chris407x/what-are-bitmasks-and-bitwise-operators-448m)
+- [Basic Docker Commands explanation](https://dev.to/mrcaption49/basic-docker-commands-explanation-2ige)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
