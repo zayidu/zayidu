@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Technical Interviews: The Most Popular Questions](https://dev.to/salmaniyad/navigating-technical-interviews-the-most-popular-questions-3l9j)
-- [A Deep Dive into the Software Development Lifecycle: Strategies for Success](https://dev.to/zainab_afzal_55/a-deep-dive-into-the-software-development-lifecycle-strategies-for-success-4712)
-- [Image vs JPG](https://dev.to/msmith99994/image-vs-jpg-3c7k)
-- [Key Takeaways from My Recent Review of the React Docs](https://dev.to/jaamaalxyz/key-takeaways-from-my-recent-review-of-the-react-docs-4115)
-- [My Take on macOS Sequoia: Cool Features or Bugs Galore?](https://dev.to/airabbit/my-take-on-macos-sequoia-cool-features-or-bugs-galore-2okg)
+- [Ways to Convert JPG: How to Compress JPG Effectively](https://dev.to/msmith99994/ways-to-convert-jpg-how-to-compress-jpg-effectively-307j)
+- [Turn Your VPS into an Impenetrable Fortress: How to Make Your Public Server Private Using Tailscale and UFW!](https://dev.to/binsarjr/turn-your-vps-into-an-impenetrable-fortress-how-to-make-your-public-server-private-using-tailscale-and-ufw-3841)
+- [Organizing YAML files by creating directories like `config/x` in Rails](https://dev.to/hoshinotsuyoshi/organizing-yaml-files-by-creating-directories-like-configx-in-rails-5cfj)
+- [Understanding PHP Types - NULL](https://dev.to/hurayraiit/understanding-php-types-null-40g7)
+- [Ways to Convert PNG: How to Compress PNG Effectively](https://dev.to/msmith99994/ways-to-convert-png-how-to-compress-png-effectively-4976)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
