@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to deploy affected NX projects to AWS S3 using Github Actions](https://dev.to/lucasmelo/how-to-deploy-affected-nx-projects-to-aws-s3-using-github-actions-1f70)
-- [Another year, another contributions 🎃](https://dev.to/thomasbnt/another-year-another-contributions-371i)
-- [Clawject: It&#39;s time to gather Beans](https://dev.to/artem1458/clawject-its-time-to-gather-beans-2idl)
-- [LLM Inference using 100% Modern Java ☕️🔥](https://dev.to/stephanj/llm-inference-using-100-modern-java-30i2)
-- [All About Parquet Part 09 - Parquet in Data Lake Architectures](https://dev.to/alexmercedcoder/all-about-parquet-part-09-parquet-in-data-lake-architectures-5664)
+- [React : Keeping Components Pure](https://dev.to/sonaykara/react-keeping-components-pure-58al)
+- [O&#39;ZGARUVCHILAR VA MA&#39;LUMOT TURLARI](https://dev.to/madina1575/ozgaruvchilar-va-malumot-turlari-56db)
+- [How do LLMs like GPT Generate Human-Like Text?](https://dev.to/iihsan/how-do-llms-like-gpt-generate-human-like-text-8n9)
+- [Microsoft Access Quick Queries #20](https://dev.to/richardrost/microsoft-access-quick-queries-20-2nna)
+- [How to Prepare for Coding Interviews: Tips and Resources](https://dev.to/jana-shantanu/how-to-prepare-for-coding-interviews-tips-and-resources-1gge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
