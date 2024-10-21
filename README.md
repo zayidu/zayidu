@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshooting configureCMakeDebug[arm64-v8a] FAILED in React Native](https://dev.to/amitkumar13/troubleshooting-configurecmakedebugarm64-v8a-failed-in-react-native-3fdc)
-- [How to Use Cloudinary AI to Write Better Image Captions](https://dev.to/terieyenike/how-to-use-cloudinary-ai-to-write-better-image-captions-5hej)
-- [A New Way to Make an Impact with Cold Email Outreach](https://dev.to/igor_ag_aaa2341e64b1f4cb/a-new-way-to-make-an-impact-with-cold-email-outreach-1mem)
-- [Bridging the Gap: MAUI Hybrid Mobile Development](https://dev.to/vodemsharp/bridging-the-gap-maui-hybrid-mobile-development-2pn6)
-- [Networking: The Essential Asset for Finding a Job](https://dev.to/pykpyky/networking-the-essential-asset-for-finding-a-job-5048)
+- [Create your K3S lab on Google Cloud](https://dev.to/jdxlabs/create-your-k3s-lab-on-google-cloud-2pim)
+- [MS Project vs Other Tools: Quick Comparison of Robust Project Management Solutions](https://dev.to/thomasy0ung/ms-project-vs-other-tools-quick-comparison-of-robust-project-management-solutions-5l9)
+- [Web3 and the Decentralized Internet: What’s Next for Developers?](https://dev.to/mukhilpadmanabhan/web3-and-the-decentralized-internet-whats-next-for-developers-2648)
+- [Data Types In Python](https://dev.to/avinash1410cyber/data-types-in-python-47ep)
+- [dompdf page numbering and cover image for html content exceeding one print page.](https://dev.to/solmaz_babakan_648eda209c/dompdf-page-numbering-and-cover-image-for-html-content-exceeding-one-print-page-557p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
