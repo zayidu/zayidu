@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of AI: Will Artificial General Intelligence &lpar;AGI&rpar; Become a Reality?](https://dev.to/growkon21/the-future-of-ai-will-artificial-general-intelligence-agi-become-a-reality-g7g)
-- [How AI Helps Developers Instead of Replacing Them](https://dev.to/dumebii/how-ai-helps-developers-instead-of-replacing-them-1i7b)
-- [5 Pro Unix Command have you checked?😎](https://dev.to/devops_descent/5-pro-unix-command-have-you-checked-3pdb)
-- [E-commerce Development: How to Choose the Right Platform to Build Your Online Store](https://dev.to/okoye_ndidiamaka_5e3b7d30/e-commerce-development-how-to-choose-the-right-platform-to-build-your-online-store-4llh)
-- [Running a Project Without Installing Dependencies](https://dev.to/ng_dream_3e53e6a868268e4d/running-a-project-without-installing-dependencies-47h)
+- [Will AI Make Decisions for Me? Understanding the Impact of AI on Our Choices](https://dev.to/banta/will-ai-make-decisions-for-me-understanding-the-impact-of-ai-on-our-choices-8ca)
+- [Understanding the JavaScript Splice Method](https://dev.to/metana/understanding-the-javascript-splice-method-51p9)
+- [Using Hyperkit to supercharge UI Development without writing JS](https://dev.to/chrsgrrtt/using-hyperkit-to-supercharge-ui-development-without-writing-js-3c4e)
+- [Efficient Kubernetes Cluster Deployment: Accelerating Setup with EKS Blueprints](https://dev.to/aws-builders/efficient-kubernetes-cluster-deployment-accelerating-setup-with-eks-blueprints-29p2)
+- [Compare Data in SQL Server Databases](https://dev.to/devartteam/compare-data-in-sql-server-databases-48o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
