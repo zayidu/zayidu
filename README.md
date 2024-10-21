@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Swarm: Exploring Lightweight Multi-Agent Orchestration](https://dev.to/fotiecodes/openai-swarm-exploring-lightweight-multi-agent-orchestration-gim)
-- [Building a Simple Redis Store with Node.js](https://dev.to/hoang21099/building-a-simple-redis-store-with-nodejs-33nn)
-- [How to Achieve Clean Architecture in Flutter Without Overcomplicating Your Code!](https://dev.to/aashu/how-to-achieve-clean-architecture-in-flutter-without-overcomplicating-your-code-gp5)
-- [How to Connect a React App with MongoDB: A Complete Guide](https://dev.to/anticoder03/how-to-connect-a-react-app-with-mongodb-a-complete-guide-227a)
-- [Find the Greatest Common Divisor](https://dev.to/dindustack/find-the-greatest-common-divisor-1j59)
+- [Optimizing Dynamic Content for SEO](https://dev.to/buzzgk/optimizing-dynamic-content-for-seo-39b5)
+- [SSL Certificate Problem: Unable to Get Local Issuer Certificate – Causes and Solutions](https://dev.to/keploy/ssl-certificate-problem-unable-to-get-local-issuer-certificate-causes-and-solutions-13cn)
+- [🔹 C# Tip: Sealed Classes for Final Implementation](https://dev.to/dotnetfullstackdev/c-tip-sealed-classes-for-final-implementation-1kpn)
+- [What is higher-order function in Javascript](https://dev.to/theteabagcoder/what-is-higher-order-function-in-javascript-1loa)
+- [Comparing local-first frameworks and approaches](https://dev.to/neon-postgres/comparing-local-first-frameworks-and-approaches-1hgn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
