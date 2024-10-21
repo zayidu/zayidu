@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy a Static Nuxt site to Railway](https://dev.to/markmunyaka/deploy-a-static-nuxt-site-to-railway-5213)
-- [AI and Ecommerce: A Perfect Match Revolutionizing the Online Retail Landscape](https://dev.to/johnsmith244303/ai-and-ecommerce-a-perfect-match-revolutionizing-the-online-retail-landscape-3im8)
-- [What the HECK is an accessibility tree?](https://dev.to/miasalazar/what-the-heck-is-an-accessibility-tree-4e43)
-- [Building a Fast and Efficient Semantic Search System Using OpenVINO and Postgres](https://dev.to/datitran/building-a-fast-and-efficient-semantic-search-system-using-openvino-and-postgres-fd6)
-- [Cloud Service Models](https://dev.to/jayesh0706/cloud-service-models-2j5f)
+- [AI vs. Traditional Teaching: Can AI Replace Teachers?](https://dev.to/growkon21/ai-vs-traditional-teaching-can-ai-replace-teachers-9fp)
+- [20 Must-Have VS Code Extensions for Web Developers 🚀💻](https://dev.to/hadil/20-must-have-vs-code-extensions-for-web-developers-5fg7)
+- [Monitor EC2 memory and disk with CloudWatch Agent🕵🏽](https://dev.to/devops_descent/monitor-ec2-memory-and-disk-with-cloudwatch-agent-2g7c)
+- [全面了解 NGINX 的负载均衡算法](https://dev.to/awesomegw1/quan-mian-liao-jie-nginx-de-fu-zai-jun-heng-suan-fa-21im)
+- [Agreements](https://dev.to/aws-builders/agreements-5f6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
