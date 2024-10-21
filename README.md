@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy a static &lpar;Next.js&rpar; website to AWS using AWS CDK &amp; AWS console](https://dev.to/redrobotdev/learn-how-to-deploy-a-static-nextjs-website-to-aws-using-aws-cdk-aws-console-62n)
-- [Serverless Architecture with Next.js 14 and Next.js Actions: A Practical Guide](https://dev.to/saurabh2836/serverless-architecture-with-nextjs-14-and-nextjs-actions-a-practical-guide-13a4)
-- [useState behind the scences in react!!!](https://dev.to/joedev090/usestate-behind-the-scences-in-react-2lof)
-- [C#&#39;da Remove&lpar;&rpar;](https://dev.to/muhammad_khodjaev/cda-remove-20pm)
-- [AI Transformation: How AI is Reshaping Enterprise Development](https://dev.to/get_pieces/ai-transformation-how-ai-is-reshaping-enterprise-development-1c34)
+- [How to deploy affected NX projects to AWS S3 using Github Actions](https://dev.to/lucasmelo/how-to-deploy-affected-nx-projects-to-aws-s3-using-github-actions-1f70)
+- [Another year, another contributions 🎃](https://dev.to/thomasbnt/another-year-another-contributions-371i)
+- [Clawject: It&#39;s time to gather Beans](https://dev.to/artem1458/clawject-its-time-to-gather-beans-2idl)
+- [LLM Inference using 100% Modern Java ☕️🔥](https://dev.to/stephanj/llm-inference-using-100-modern-java-30i2)
+- [All About Parquet Part 09 - Parquet in Data Lake Architectures](https://dev.to/alexmercedcoder/all-about-parquet-part-09-parquet-in-data-lake-architectures-5664)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
