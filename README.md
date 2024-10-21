@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing EnviroX: Your Go-To Dev Environment Setup Tool! 🛠️](https://dev.to/neelp03/introducing-envirox-your-go-to-dev-environment-setup-tool-281p)
-- [Como Fazendas Verticais Estão Revolucionando a Agricultura](https://dev.to/n1ghtm4r33/como-fazendas-verticais-estao-revolucionando-a-agricultura-22n1)
-- [Hacktoberfest week 3- Online Auction System](https://dev.to/htsagara/hacktoberfest-week-3-online-auction-system-4knp)
-- [MongoDB - Essential Things to Know](https://dev.to/ryoichihomma/mongodb-essential-things-to-know-j18)
-- [A 5-day journey with Lite-XL](https://dev.to/teminian/a-5-day-journey-with-lite-xl-1bdl)
+- [Taming the Beast: Performance Optimization for Smooth User Experiences](https://dev.to/aandyphan/taming-the-beast-performance-optimization-for-smooth-user-experiences-3cg2)
+- [Open source, learn in public e minha experiência](https://dev.to/kauefraga/open-source-learn-in-public-e-minha-experiencia-bd2)
+- [React Basics~unit test/user event](https://dev.to/kkr0423/react-basicsunit-testuse-event-2j55)
+- [Optimize the task schedule to improve the handling speed and real-time capability for ESP8266 based programmable controller](https://dev.to/zhangzhuyue/optimize-the-task-schedule-to-improve-the-handling-speed-and-real-time-capability-for-esp8266-based-programmable-controller-570i)
+- [Embracing Tailwind CSS: A New Era of Styling for Web Developers](https://dev.to/chaseteague/embracing-tailwind-css-a-new-era-of-styling-for-web-developers-4d2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
