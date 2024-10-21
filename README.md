@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Engineering vs. Data Science: Understanding the Differences](https://dev.to/anshul_kichara/data-engineering-vs-data-science-understanding-the-differences-2e5)
-- [Tech Deregulation Plus Layoff](https://dev.to/xinusys/tech-deregulation-plus-layoff-182h)
-- [Building a Drag-and-Drop Kanban Board with React and dnd-kit](https://dev.to/radzion/building-a-drag-and-drop-kanban-board-with-react-and-dnd-kit-jdc)
-- [Co-Founders&#39; Equity Agreement Template | Alex Gulakov Dev Blog](https://dev.to/vtempest/co-founders-equity-agreement-template-alex-gulakov-dev-blog-od0)
-- [Recap and rambles of last week #1](https://dev.to/jennjunod/recap-and-rambles-of-last-week-1-3egm)
+- [React Oauth2 Integration with AuthAction](https://dev.to/authaction/react-oauth2-integration-with-authaction-39ck)
+- [Creating a Responsive Website with HTML and CSS 🌐📱](https://dev.to/info_generalhazedawn_a3d/creating-a-responsive-website-with-html-and-css-hmk)
+- [Three Post-Mortem Lessons From a Failed Software Project](https://dev.to/canro91/three-post-mortem-lessons-from-a-failed-software-project-53jo)
+- [#78 — Fill Aggregation Value in The First Row of The Same Group of Data](https://dev.to/judith677/78-fill-aggregation-value-in-the-first-row-of-the-same-group-of-data-2k3n)
+- [🔥 𝗦𝘂𝗽𝗲𝗿𝗰𝗵𝗮𝗿𝗴𝗲 𝗬𝗼𝘂𝗿 𝗖𝗼𝗱𝗲 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗦𝗽𝗿𝗲𝗮𝗱 𝗢𝗽𝗲𝗿𝗮𝘁𝗼𝗿!](https://dev.to/apurvupadhyay/-2497)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
