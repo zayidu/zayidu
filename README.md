@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React : Keeping Components Pure](https://dev.to/sonaykara/react-keeping-components-pure-58al)
-- [O&#39;ZGARUVCHILAR VA MA&#39;LUMOT TURLARI](https://dev.to/madina1575/ozgaruvchilar-va-malumot-turlari-56db)
-- [How do LLMs like GPT Generate Human-Like Text?](https://dev.to/iihsan/how-do-llms-like-gpt-generate-human-like-text-8n9)
-- [Microsoft Access Quick Queries #20](https://dev.to/richardrost/microsoft-access-quick-queries-20-2nna)
-- [How to Prepare for Coding Interviews: Tips and Resources](https://dev.to/jana-shantanu/how-to-prepare-for-coding-interviews-tips-and-resources-1gge)
+- [Most Useful Free APIs and Project ideas for Frontend Developers : Youtube , Spotify and more](https://dev.to/sonaykara/most-useful-free-apis-and-project-ideas-for-frontend-developers-youtube-spotift-and-more-3pfl)
+- [The Double-Edged Sword of IEnumerable and yield return in C#](https://dev.to/hootanht/the-double-edged-sword-of-ienumerable-and-yield-return-in-c-1j3c)
+- [LabEx Trending: Bulk Insert Data Into Course Schedule and More](https://dev.to/labex/labex-trending-bulk-insert-data-into-course-schedule-and-more-2410)
+- [Quick look of JNDI &lpar;Java Naming and Directory Interface&rpar;](https://dev.to/saladlam/quick-look-of-jndi-java-naming-and-directory-interface-13gi)
+- [Find your Books](https://dev.to/emilio_servetti/find-your-books-2432)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
