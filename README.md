@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [13 Projects You Don&#39;t Want to Pass Up to Win Cool Hacktoberfest Swag 🎁🎃](https://dev.to/copilotkit/13-projects-you-dont-want-to-pass-up-to-win-cool-hacktoberfest-swag-4dc9)
-- [Understanding Different Types of Blockchains: Public, Private and Hybrid &lpar;Permissioned &amp; Permissionless&rpar;](https://dev.to/kalpstudio/understanding-different-types-of-blockchains-public-private-and-hybrid-permissioned-permissionless-4oe8)
-- [Stop Using useState for everything!](https://dev.to/willon/stop-using-usestate-for-everything-4bal)
-- [Setting up GoDaddy SMTP to Send Emails](https://dev.to/veljkoristic/setting-up-godaddy-smtp-to-send-emails-2b7i)
-- [What Is Appium Testing? And Why Is It A Popular Tool For Mobile Testing](https://dev.to/ronika_kashyap/what-is-appium-testing-and-why-is-it-a-popular-tool-for-mobile-testing-1j9l)
+- [Troubleshooting configureCMakeDebug[arm64-v8a] FAILED in React Native](https://dev.to/amitkumar13/troubleshooting-configurecmakedebugarm64-v8a-failed-in-react-native-3fdc)
+- [How to Use Cloudinary AI to Write Better Image Captions](https://dev.to/terieyenike/how-to-use-cloudinary-ai-to-write-better-image-captions-5hej)
+- [A New Way to Make an Impact with Cold Email Outreach](https://dev.to/igor_ag_aaa2341e64b1f4cb/a-new-way-to-make-an-impact-with-cold-email-outreach-1mem)
+- [Bridging the Gap: MAUI Hybrid Mobile Development](https://dev.to/vodemsharp/bridging-the-gap-maui-hybrid-mobile-development-2pn6)
+- [Networking: The Essential Asset for Finding a Job](https://dev.to/pykpyky/networking-the-essential-asset-for-finding-a-job-5048)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
