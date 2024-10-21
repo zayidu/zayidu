@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Dynamic Content for SEO](https://dev.to/buzzgk/optimizing-dynamic-content-for-seo-39b5)
-- [SSL Certificate Problem: Unable to Get Local Issuer Certificate – Causes and Solutions](https://dev.to/keploy/ssl-certificate-problem-unable-to-get-local-issuer-certificate-causes-and-solutions-13cn)
-- [🔹 C# Tip: Sealed Classes for Final Implementation](https://dev.to/dotnetfullstackdev/c-tip-sealed-classes-for-final-implementation-1kpn)
-- [What is higher-order function in Javascript](https://dev.to/theteabagcoder/what-is-higher-order-function-in-javascript-1loa)
-- [Comparing local-first frameworks and approaches](https://dev.to/neon-postgres/comparing-local-first-frameworks-and-approaches-1hgn)
+- [Deploy a static &lpar;Next.js&rpar; website to AWS using AWS CDK &amp; AWS console](https://dev.to/redrobotdev/learn-how-to-deploy-a-static-nextjs-website-to-aws-using-aws-cdk-aws-console-62n)
+- [Serverless Architecture with Next.js 14 and Next.js Actions: A Practical Guide](https://dev.to/saurabh2836/serverless-architecture-with-nextjs-14-and-nextjs-actions-a-practical-guide-13a4)
+- [useState behind the scences in react!!!](https://dev.to/joedev090/usestate-behind-the-scences-in-react-2lof)
+- [C#&#39;da Remove&lpar;&rpar;](https://dev.to/muhammad_khodjaev/cda-remove-20pm)
+- [AI Transformation: How AI is Reshaping Enterprise Development](https://dev.to/get_pieces/ai-transformation-how-ai-is-reshaping-enterprise-development-1c34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
