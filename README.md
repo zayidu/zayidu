@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the OSI Model: A Step-by-Step Breakdown](https://dev.to/leetcode/understanding-the-osi-model-a-step-by-step-breakdown-3np1)
-- [The Role of __pycache__ Folder in Python Programs](https://dev.to/ebad8931/the-role-of-pycache-folder-in-python-programs-2a7c)
-- [OWASP Juice Shop DOM XSS Walkthrough](https://dev.to/hax/owasp-juice-shop-dom-xss-walkthrough-51d7)
-- [Taming the Beast: Performance Optimization for Smooth User Experiences](https://dev.to/aandyphan/taming-the-beast-performance-optimization-for-smooth-user-experiences-3cg2)
-- [Open source, learn in public e minha experiência](https://dev.to/kauefraga/open-source-learn-in-public-e-minha-experiencia-bd2)
+- [Data Engineering vs. Data Science: Understanding the Differences](https://dev.to/anshul_kichara/data-engineering-vs-data-science-understanding-the-differences-2e5)
+- [Tech Deregulation Plus Layoff](https://dev.to/xinusys/tech-deregulation-plus-layoff-182h)
+- [Building a Drag-and-Drop Kanban Board with React and dnd-kit](https://dev.to/radzion/building-a-drag-and-drop-kanban-board-with-react-and-dnd-kit-jdc)
+- [Co-Founders&#39; Equity Agreement Template | Alex Gulakov Dev Blog](https://dev.to/vtempest/co-founders-equity-agreement-template-alex-gulakov-dev-blog-od0)
+- [Recap and rambles of last week #1](https://dev.to/jennjunod/recap-and-rambles-of-last-week-1-3egm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
