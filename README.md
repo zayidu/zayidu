@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Inner Joins Simplified](https://dev.to/dbvismarketing/sql-inner-joins-simplified-4i9d)
-- [Rocket.rs lightspeed web server](https://dev.to/giuliano1993/rocketrs-lightspeed-web-server-2b77)
-- [Variable Naming Techniques](https://dev.to/murat_tun_b2c61f116185fc/variable-naming-techniques-19a5)
-- [The ultimate Electron app with Next.js and React Server Components](https://dev.to/kirillkonshin/the-ultimate-electron-app-with-nextjs-and-react-server-components-1b7g)
-- [Simplifying Localization in Laravel 11: New Number Methods Unveiled](https://dev.to/asfiaaiman/simplifying-localization-in-laravel-11-new-number-methods-unveiled-fnn)
+- [Deploy a Static Nuxt site to Railway](https://dev.to/markmunyaka/deploy-a-static-nuxt-site-to-railway-5213)
+- [AI and Ecommerce: A Perfect Match Revolutionizing the Online Retail Landscape](https://dev.to/johnsmith244303/ai-and-ecommerce-a-perfect-match-revolutionizing-the-online-retail-landscape-3im8)
+- [What the HECK is an accessibility tree?](https://dev.to/miasalazar/what-the-heck-is-an-accessibility-tree-4e43)
+- [Building a Fast and Efficient Semantic Search System Using OpenVINO and Postgres](https://dev.to/datitran/building-a-fast-and-efficient-semantic-search-system-using-openvino-and-postgres-fd6)
+- [Cloud Service Models](https://dev.to/jayesh0706/cloud-service-models-2j5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
