@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create an Advanced &quot;Show Password&quot; Feature Using HTML, CSS, and JavaScript](https://dev.to/wizdomtek/how-to-create-an-advanced-show-password-feature-using-html-css-and-javascript-ndn)
-- [Best Practices for Salesforce Marketing Cloud in 2024](https://dev.to/itechcloud_solution_01/best-practices-for-salesforce-marketing-cloud-in-2024-h0f)
-- [How to Transform Your Client’s Business with AI Integration Services](https://dev.to/laxmi_williams/how-to-transform-your-clients-business-with-ai-integration-services-opo)
-- [A Beginner’s Guide to Writing Software Requirements: User Stories](https://dev.to/johnnykoo84/a-beginners-guide-to-writing-software-requirements-user-stories-2h3k)
-- [Python code that generates a stock price chart for the last n days.](https://dev.to/dm8ry/python-code-that-generates-a-stock-price-chart-for-the-last-n-days-g8a)
+- [SQL Inner Joins Simplified](https://dev.to/dbvismarketing/sql-inner-joins-simplified-4i9d)
+- [Rocket.rs lightspeed web server](https://dev.to/giuliano1993/rocketrs-lightspeed-web-server-2b77)
+- [Variable Naming Techniques](https://dev.to/murat_tun_b2c61f116185fc/variable-naming-techniques-19a5)
+- [The ultimate Electron app with Next.js and React Server Components](https://dev.to/kirillkonshin/the-ultimate-electron-app-with-nextjs-and-react-server-components-1b7g)
+- [Simplifying Localization in Laravel 11: New Number Methods Unveiled](https://dev.to/asfiaaiman/simplifying-localization-in-laravel-11-new-number-methods-unveiled-fnn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
