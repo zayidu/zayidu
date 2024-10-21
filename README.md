@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI vs. Traditional Teaching: Can AI Replace Teachers?](https://dev.to/growkon21/ai-vs-traditional-teaching-can-ai-replace-teachers-9fp)
-- [20 Must-Have VS Code Extensions for Web Developers 🚀💻](https://dev.to/hadil/20-must-have-vs-code-extensions-for-web-developers-5fg7)
-- [Monitor EC2 memory and disk with CloudWatch Agent🕵🏽](https://dev.to/devops_descent/monitor-ec2-memory-and-disk-with-cloudwatch-agent-2g7c)
-- [全面了解 NGINX 的负载均衡算法](https://dev.to/awesomegw1/quan-mian-liao-jie-nginx-de-fu-zai-jun-heng-suan-fa-21im)
-- [Agreements](https://dev.to/aws-builders/agreements-5f6c)
+- [The Future of AI: Will Artificial General Intelligence &lpar;AGI&rpar; Become a Reality?](https://dev.to/growkon21/the-future-of-ai-will-artificial-general-intelligence-agi-become-a-reality-g7g)
+- [How AI Helps Developers Instead of Replacing Them](https://dev.to/dumebii/how-ai-helps-developers-instead-of-replacing-them-1i7b)
+- [5 Pro Unix Command have you checked?😎](https://dev.to/devops_descent/5-pro-unix-command-have-you-checked-3pdb)
+- [E-commerce Development: How to Choose the Right Platform to Build Your Online Store](https://dev.to/okoye_ndidiamaka_5e3b7d30/e-commerce-development-how-to-choose-the-right-platform-to-build-your-online-store-4llh)
+- [Running a Project Without Installing Dependencies](https://dev.to/ng_dream_3e53e6a868268e4d/running-a-project-without-installing-dependencies-47h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
