@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with h3 by unjs](https://dev.to/nwby/getting-started-with-h3-by-unjs-3d5l)
-- [Top Data Science Tools in 2024: A Comparative Review of the Best Software](https://dev.to/dhanush9952/top-data-science-tools-in-2024-a-comparative-review-of-the-best-software-473d)
-- [Time Waits for No Document: 5 ways to speed up your work](https://dev.to/docsgpt/time-waits-for-no-document-5-ways-to-speed-up-your-work-50je)
-- [A Practical Guide to Scaling Frontend Experiences - Part 1](https://dev.to/eransakal/a-practical-guide-to-scaling-frontend-experiences-part-1-472g)
-- [Gerenciamento de Logs de Forma Flexível com NLog](https://dev.to/juarezasjunior/gerenciamento-de-logs-de-forma-flexivel-com-nlog-328b)
+- [13 Projects You Don&#39;t Want to Pass Up to Win Cool Hacktoberfest Swag 🎁🎃](https://dev.to/copilotkit/13-projects-you-dont-want-to-pass-up-to-win-cool-hacktoberfest-swag-4dc9)
+- [Understanding Different Types of Blockchains: Public, Private and Hybrid &lpar;Permissioned &amp; Permissionless&rpar;](https://dev.to/kalpstudio/understanding-different-types-of-blockchains-public-private-and-hybrid-permissioned-permissionless-4oe8)
+- [Stop Using useState for everything!](https://dev.to/willon/stop-using-usestate-for-everything-4bal)
+- [Setting up GoDaddy SMTP to Send Emails](https://dev.to/veljkoristic/setting-up-godaddy-smtp-to-send-emails-2b7i)
+- [What Is Appium Testing? And Why Is It A Popular Tool For Mobile Testing](https://dev.to/ronika_kashyap/what-is-appium-testing-and-why-is-it-a-popular-tool-for-mobile-testing-1j9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
