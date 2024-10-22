@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [dioptre-to-millimetre calculator](https://dev.to/mauro_peluso_22/dioptre-to-millimetre-calculator-9k8)
-- [dioptre-to-millimetre calculator](https://dev.to/mauro_peluso_22/dioptre-to-millimetre-calculator-3i5e)
-- [React js Life cycle](https://dev.to/muthuraja_r/react-js-life-cycle-26l8)
-- [Tim Berners-Lee : The Man Behind the Web](https://dev.to/samarpankc/tim-berners-lee-3b56)
-- [Dia 23 - Configurando o NixOS para utilizar o debbuger de C no VSCode](https://dev.to/matheusgb/dia-23-configurando-o-nixos-para-utilizar-o-debbuger-de-c-no-vscode-32fl)
+- [#79 - Split Aggregation Values And Fill Them in Detail Rows](https://dev.to/judith677/79-split-aggregation-values-and-fill-them-in-detail-rows-5boj)
+- [Understanding Promise.any&lpar;&rpar; in JavaScript](https://dev.to/diwakar_verma_381fc6e5e2f/understanding-promiseany-in-javascript-2hc2)
+- [Appwrite - &lpar; Backend-as-a-Service &rpar;](https://dev.to/mrcaption49/appwrite-backend-as-a-service--h8p)
+- [Capítulo 2 - Modelos de Datos y Lenguajes de Consulta](https://dev.to/pabloar/capitulo-2-modelos-de-datos-y-lenguajes-de-consulta-28eh)
+- [We&#39;ve shipped App Hibernation feature in 3 days](https://dev.to/peterkota/weve-shipped-app-hibernation-feature-in-3-days-16na)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
