@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon S3 Bucket with Policy Details](https://dev.to/mrcaption49/amazon-s3-bucket-with-policy-details-2g0b)
-- [Migrating from WordPress to Jekyll: Save Money with a Static Site](https://dev.to/prahladyeri/migrating-from-wordpress-to-jekyll-save-money-with-a-static-site-3e00)
-- [How to Use the workflow_dispatch Event for Manual Triggers](https://dev.to/cicube/how-to-use-the-workflowdispatch-event-for-manual-triggers-fjn)
-- [Direct addition of two hyptotrochoid](https://dev.to/tthtlc/direct-addition-of-two-hyptotrochoid-5d3g)
-- [Getting members according to primary key values #eg63](https://dev.to/esproc_spl/getting-members-according-to-primary-key-values-eg63-4p10)
+- [Next.js 15: Now Stable and Packed with Exciting Updates!](https://dev.to/mitchiemt11/nextjs-15-now-stable-and-packed-with-exciting-updates-2j0p)
+- [30+ Awesome Repos For You To Start Contributing on Hacktoberfest](https://dev.to/buildwebcrumbs/30-awesome-repos-for-you-to-start-contributing-on-hacktoberfest-3220)
+- [How I built PeerSplit: A free, peer-to-peer expense-splitting app—from idea to launch in just 2 weeks](https://dev.to/tanay/how-i-built-peersplit-a-free-peer-to-peer-expense-splitting-app-from-idea-to-launch-in-just-2-weeks-386m)
+- [Benchmark Testing In Software: The Key To Optimizing Performance](https://dev.to/keploy/benchmark-testing-in-software-the-key-to-optimizing-performance-2oj4)
+- [CKA Full Course 2024: Day 5/40 Kubernetes Architecture](https://dev.to/lloydrivers/cka-full-course-2024-day-540-kubernetes-architecture-3pob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
