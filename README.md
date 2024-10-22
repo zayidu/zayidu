@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Debugging: A Comprehensive Guide](https://dev.to/prodevopsguytech/java-debugging-a-comprehensive-guide-32hh)
-- [Anthropic releases &quot;Computer Use&quot;](https://dev.to/peter/anthropic-releases-computer-use-15oj)
-- [Importmap Not Working on iOS](https://dev.to/yegorckv/importmap-not-working-on-ios-2jfh)
-- [Unleash the Power of Nginx Log Analysis and Optimization: A Comprehensive Project](https://dev.to/labex/unleash-the-power-of-nginx-log-analysis-and-optimization-a-comprehensive-project-5ckn)
-- [Most Useful Free APIs and Project ideas for Frontend Developers : Youtube , Spotify and more](https://dev.to/sonaykara/most-useful-free-apis-and-project-ideas-for-frontend-developers-youtube-spotify-and-more-4p89)
+- [How to build a crashproof customer service agent in &lt;80 lines with Swarm 💪🐝](https://dev.to/dbos/how-to-build-a-crashproof-customer-service-agent-in-80-lines-with-swarm-4b7c)
+- [Starting a new project - Probtrix](https://dev.to/umair-iftikhar/starting-a-new-project-probtrix-21me)
+- [New Here - Let&#39;s Rock](https://dev.to/stereoimageav/new-here-lets-rock-203e)
+- [Cross-Posting and Portfolio Project Update: Optimizing API Calls and Implementing Best Practices](https://dev.to/jesse_chong_3bcc276c4f950/cross-posting-and-portfolio-project-update-optimizing-api-calls-and-implementing-best-practices-5f02)
+- [How to convert CommonJS to ESM](https://dev.to/thisisjofrank/how-to-convert-commonjs-to-esm-1jc0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
