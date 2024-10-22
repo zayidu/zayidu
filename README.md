@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Saas Applications: Key Considerations and Challenges](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-saas-applications-key-considerations-and-challenges-5cd2)
-- [How to prevent XSS Attacks in ASP.NET Core Web API](https://dev.to/bytehide/how-to-prevent-xss-attacks-in-aspnet-core-web-api-lbc)
-- [Griptape vs. LangChain, CrewAI, and LlamaIndex: Which AI Framework Performs Best?](https://dev.to/griptape/griptape-vs-langchain-crewai-and-llamaindex-which-ai-framework-performs-best-354j)
-- [How to remove null or empty string values from a list in Terraform](https://dev.to/markwragg/how-to-remove-null-or-empty-string-values-from-a-list-in-terraform-1e3b)
-- [Mastering the `.reduce&lpar;&rpar;` Method in JavaScript: A Deep Dive](https://dev.to/hkp22/mastering-the-reduce-method-in-javascript-a-deep-dive-27j9)
+- [Complete Guide to Automate the Deployment of the Sock Shop Application on Kubernetes with IaC, CI/CD, and Monitoring](https://dev.to/chigozieco/complete-guide-to-automate-the-deployment-of-the-sock-shop-application-on-kubernetes-with-iac-cicd-and-monitoring-5hlm)
+- [Why Your Dream Tech Job Could Be Draining Your Happiness](https://dev.to/techbalance_collective/why-your-dream-tech-job-could-be-draining-your-happiness-19al)
+- [Structured Logging with Serilog](https://dev.to/juarezasjunior/structured-logging-with-serilog-8lb)
+- [Logging Estruturado com Serilog](https://dev.to/juarezasjunior/logging-estruturado-com-serilog-38p9)
+- [How to Upload Files to AWS S3 Using Java: A Step-by-Step Guide](https://dev.to/gambhirsamarth/how-to-upload-files-to-aws-s3-using-java-a-step-by-step-guide-2p18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
