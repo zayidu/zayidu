@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind Flex: A Beginner&#39;s Guide to Flexbox Utilities](https://dev.to/codeparrot/tailwind-flex-a-beginners-guide-to-flexbox-utilities-2bn8)
-- [How to Use Appium Inspector for Automated Mobile App Testing](https://dev.to/abhayit2000/how-to-use-appium-inspector-for-automated-mobile-app-testing-2j32)
-- [Part 1 - Memory Management in JavaScript: 10+ Data Structures &amp; Garbage Collection Techniques | JS Deep Dive](https://dev.to/navvan_cf8d621e46534f6e97/part-1-memory-management-in-javascript-10-data-structures-garbage-collection-techniques-js-deep-dive-50ef)
-- [DSA: Essential Queue Interview Questions and Challenges](https://dev.to/nozibul_islam_113b1d5334f/dsa-essential-queue-interview-questions-and-challenges-a89)
-- [Hacktoberfest 24&#39; : My First Open Source Contribution](https://dev.to/kycilius/hacktoberfest-24-my-first-open-source-contribution-1k29)
+- [Introducing HIP-904: Frictionless Airdrops](https://dev.to/hedera/introducing-hip-904-frictionless-airdrops-26ce)
+- [🛠️ Battle of the Backend: Go vs Node.js vs Python – Which One Reigns Supreme in 2024? 🚀](https://dev.to/hamzakhan/battle-of-the-backend-go-vs-nodejs-vs-python-which-one-reigns-supreme-in-2024-56d4)
+- [Younger open source maintainers are significantly more likely to use AI-based coding tools](https://dev.to/tidelift/younger-open-source-maintainers-are-significantly-more-likely-to-use-ai-based-coding-tools-3cop)
+- [2583. Kth Largest Sum in a Binary Tree](https://dev.to/mdarifulhaque/2583-kth-largest-sum-in-a-binary-tree-4n79)
+- [A Complete Guide to Docker Networks: Understanding and Optimizing Container Networking-Docker day 2](https://dev.to/i_am_vesh/a-complete-guide-to-docker-networks-understanding-and-optimizing-container-networking-docker-day-2-2n2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
