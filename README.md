@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# advanced: Exploring Tuples An Alternative to Anonymous Types](https://dev.to/moh_moh701/c-advance-exploring-tuples-an-alternative-to-anonymous-types-2j70)
-- [PL/SQL | Order of Exception Handling](https://dev.to/mrcaption49/plsql-order-of-exception-handling-eig)
-- [Exception Handling in PLSQL](https://dev.to/mrcaption49/exception-handling-in-plsql-30o6)
-- [CKA Full Course 2024: Day 5/40 Multi-Node Cluster Setup: Step by Step](https://dev.to/lloydrivers/cka-full-course-2024-day-540-multi-node-cluster-setup-step-by-step-422)
-- [Is it Possible to Cache some HTML Tags?](https://dev.to/elanatframework/is-it-possible-to-cache-some-html-tags-3ai2)
+- [Conditional application of chained LINQ queries](https://dev.to/veloek/conditional-application-of-chained-linq-queries-560p)
+- [PRAGMA AUTONOMOUS_TRANSACTION with Workflow](https://dev.to/mrcaption49/pragma-autonomoustransaction-with-workflow-a7p)
+- [Professional Google Cloud Architect exam Documentation Resources](https://dev.to/valerianagit/professional-google-cloud-architect-exam-documentation-resources-304m)
+- [Dark Mode Toggle in HTML Web Components](https://dev.to/abbeyperini/dark-mode-toggle-using-html-web-components-h0g)
+- [The Best Shared Hosting Services for 2024: A Developer’s Guide](https://dev.to/apark94/the-best-shared-hosting-services-for-2024-a-developers-guide-55an)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
