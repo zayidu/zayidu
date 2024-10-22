@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 15: Now Stable and Packed with Exciting Updates!](https://dev.to/mitchiemt11/nextjs-15-now-stable-and-packed-with-exciting-updates-2j0p)
-- [30+ Awesome Repos For You To Start Contributing on Hacktoberfest](https://dev.to/buildwebcrumbs/30-awesome-repos-for-you-to-start-contributing-on-hacktoberfest-3220)
-- [How I built PeerSplit: A free, peer-to-peer expense-splitting app—from idea to launch in just 2 weeks](https://dev.to/tanay/how-i-built-peersplit-a-free-peer-to-peer-expense-splitting-app-from-idea-to-launch-in-just-2-weeks-386m)
-- [Benchmark Testing In Software: The Key To Optimizing Performance](https://dev.to/keploy/benchmark-testing-in-software-the-key-to-optimizing-performance-2oj4)
-- [CKA Full Course 2024: Day 5/40 Kubernetes Architecture](https://dev.to/lloydrivers/cka-full-course-2024-day-540-kubernetes-architecture-3pob)
+- [Building Robust Python APIs with Flask-RESTPlus and Swagger UI](https://dev.to/rubengonzlez17/building-robust-python-apis-with-flask-restplus-and-swagger-ui-o6i)
+- [C# Clean Code: Commenting Conventions](https://dev.to/moh_moh701/c-clean-code-commenting-conventions-4abj)
+- [GitLab CI: Tips and Tricks](https://dev.to/maxim_radugin/gitlab-ci-tips-and-tricks-132k)
+- [Manual vs. Automation Testing: Which One to Choose?](https://dev.to/robort_smith/manual-vs-automation-testing-which-one-to-choose-102n)
+- [Mocking APIs Instantly without Writing Codes](https://dev.to/apilover/mocking-apis-instantly-without-writing-codes-31mm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
