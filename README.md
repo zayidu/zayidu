@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Conditional application of chained LINQ queries](https://dev.to/veloek/conditional-application-of-chained-linq-queries-560p)
-- [PRAGMA AUTONOMOUS_TRANSACTION with Workflow](https://dev.to/mrcaption49/pragma-autonomoustransaction-with-workflow-a7p)
-- [Professional Google Cloud Architect exam Documentation Resources](https://dev.to/valerianagit/professional-google-cloud-architect-exam-documentation-resources-304m)
-- [Dark Mode Toggle in HTML Web Components](https://dev.to/abbeyperini/dark-mode-toggle-using-html-web-components-h0g)
-- [The Best Shared Hosting Services for 2024: A Developer’s Guide](https://dev.to/apark94/the-best-shared-hosting-services-for-2024-a-developers-guide-55an)
+- [Master Selenium Testing with Python: 5 Reasons to Use Pytest!](https://dev.to/emilyjohnsonready/master-selenium-testing-with-python-5-reasons-to-use-pytest-4hpd)
+- [Refactoring and Git Rebase for Tailor4Job](https://dev.to/inderpreet/blog-post-refactoring-and-git-rebase-for-tailor4job-1i19)
+- [I Survived a Massive DDoS Attack and Made My Server Bulletproof](https://dev.to/jimmymcbride/i-survived-a-massive-ddos-attack-and-made-my-server-bulletproof-21gh)
+- [Day 43. Composition](https://dev.to/kiolk/day-43-composition-eb6)
+- [🚀 Introducing My Free Markdown to PDF Converter – Built Just for You! 🚀](https://dev.to/mycko22/introducing-my-free-markdown-to-pdf-converter-built-just-for-you-o95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
