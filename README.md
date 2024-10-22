@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Speed: How Layer-2 Scaling Solutions Transform Blockchain Transactions](https://dev.to/adityabhuyan/unlocking-speed-how-layer-2-scaling-solutions-transform-blockchain-transactions-3973)
-- [EXECUTE IMMEDIATE with BULK COLLECT](https://dev.to/mrcaption49/execute-immediate-with-bulk-collect-1mno)
-- [Learning AWS - DVA - Day 14: Route 53](https://dev.to/holehuy/learning-aws-dva-day-14-route-53-29k2)
-- [Getting Started with Insomnia: How to Export and Publish Collections](https://dev.to/uthman_eli_cd82d29be9e571/getting-started-with-insomnia-how-to-export-and-publish-collections-1225)
-- [💡 𝗖𝗵𝗼𝗼𝘀𝗶𝗻𝗴 𝗕𝗲𝘁𝘄𝗲𝗲𝗻 𝗜𝗟𝗼𝗴𝗴𝗲𝗿 𝗮𝗻𝗱 𝗦𝗲𝗿𝗶𝗹𝗼𝗴: 𝗪𝗵𝗶𝗰𝗵 𝗢𝗻𝗲 𝗶𝘀 𝗥𝗶𝗴𝗵𝘁 𝗳𝗼𝗿 𝗬𝗼𝘂𝗿 .𝗡𝗘𝗧 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻?](https://dev.to/apurvupadhyay/--2mm1)
+- [6 Ways to Speed Up List Views, Agentforce Blockers, Coral Cloud Resorts Sample App](https://dev.to/sfdcnews/6-ways-to-speed-up-list-views-agentforce-blockers-coral-cloud-resorts-sample-app-63b)
+- [ThrottleX: Scaling to a Million Requests Per Second Without Breaking a Sweat](https://dev.to/neelp03/throttlex-scaling-to-a-million-requests-per-second-without-breaking-a-sweat-39n0)
+- [Understanding Salesforce’s New Pricing Structure in 2024](https://dev.to/itechcloud_solution_01/understanding-salesforces-new-pricing-structure-in-2024-1l0b)
+- [Crowdstrike enters the Serverless market](https://dev.to/thijsdez/crowdstrike-enters-the-serverless-market-6g6)
+- [How to Secure Your Instagram Account?](https://dev.to/anzilone/how-to-secure-your-instagram-account-30ap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
