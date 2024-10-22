@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing HIP-904: Frictionless Airdrops](https://dev.to/hedera/introducing-hip-904-frictionless-airdrops-26ce)
-- [🛠️ Battle of the Backend: Go vs Node.js vs Python – Which One Reigns Supreme in 2024? 🚀](https://dev.to/hamzakhan/battle-of-the-backend-go-vs-nodejs-vs-python-which-one-reigns-supreme-in-2024-56d4)
-- [Younger open source maintainers are significantly more likely to use AI-based coding tools](https://dev.to/tidelift/younger-open-source-maintainers-are-significantly-more-likely-to-use-ai-based-coding-tools-3cop)
-- [2583. Kth Largest Sum in a Binary Tree](https://dev.to/mdarifulhaque/2583-kth-largest-sum-in-a-binary-tree-4n79)
-- [A Complete Guide to Docker Networks: Understanding and Optimizing Container Networking-Docker day 2](https://dev.to/i_am_vesh/a-complete-guide-to-docker-networks-understanding-and-optimizing-container-networking-docker-day-2-2n2d)
+- [Exploring Proxy in JavaScript: Advanced Functionality with Practical Examples](https://dev.to/gabrandalisse/exploring-proxy-in-javascript-advanced-functionality-with-practical-examples-4hji)
+- [Go Design Patterns #4: Abstract Factory](https://dev.to/eduardoarndt/go-design-patterns-4-abstract-factory-971)
+- [Building a Custom Logging Provider in ASP.NET Core](https://dev.to/mohammedahmed/building-a-custom-logging-provider-in-aspnet-core-437n)
+- [Beginners Guide: Setting Up Your Local Environment for Machine Learning with Miniconda and Python](https://dev.to/nicobistolfi/beginners-guide-setting-up-your-local-environment-for-machine-learning-with-miniconda-and-python-5f7b)
+- [List of AsyncAPI servers in MuleSoft](https://dev.to/devalexmartinez/list-of-asyncapi-servers-in-mulesoft-5a4h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
