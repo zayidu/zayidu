@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Selenium Testing with Python: 5 Reasons to Use Pytest!](https://dev.to/emilyjohnsonready/master-selenium-testing-with-python-5-reasons-to-use-pytest-4hpd)
-- [Refactoring and Git Rebase for Tailor4Job](https://dev.to/inderpreet/blog-post-refactoring-and-git-rebase-for-tailor4job-1i19)
-- [I Survived a Massive DDoS Attack and Made My Server Bulletproof](https://dev.to/jimmymcbride/i-survived-a-massive-ddos-attack-and-made-my-server-bulletproof-21gh)
-- [Day 43. Composition](https://dev.to/kiolk/day-43-composition-eb6)
-- [🚀 Introducing My Free Markdown to PDF Converter – Built Just for You! 🚀](https://dev.to/mycko22/introducing-my-free-markdown-to-pdf-converter-built-just-for-you-o95)
+- [12 Must-Know Libraries to Supercharge Your Frontend Development](https://dev.to/safdarali/12-must-know-libraries-to-supercharge-your-frontend-development-5ek3)
+- [Meta AI&#39;s CoTracker3: Enhanced Point Tracking with Less Data](https://dev.to/voxel51/meta-ais-cotracker3-enhanced-point-tracking-with-less-data-3kab)
+- [Session Management in PHP with Lithe: From Basic Setup to Advanced Usage](https://dev.to/lithephp/session-management-in-php-with-lithe-from-basic-setup-to-advanced-usage-2ac6)
+- [Gerenciamento de Sessões em PHP no Lithe: Da Configuração Básica ao Uso Avançado](https://dev.to/lithephp/gerenciamento-de-sessoes-em-php-no-lithe-da-configuracao-basica-ao-uso-avancado-1207)
+- [Nodejs-Docker YT tutorial updated Code](https://dev.to/sanjeev_saravanan_27/nodejs-docker-yt-updated-code-3peo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
