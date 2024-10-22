@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Automate the Deployment of the Sock Shop Application on Kubernetes with IaC, CI/CD, and Monitoring](https://dev.to/chigozieco/complete-guide-to-automate-the-deployment-of-the-sock-shop-application-on-kubernetes-with-iac-cicd-and-monitoring-5hlm)
-- [Why Your Dream Tech Job Could Be Draining Your Happiness](https://dev.to/techbalance_collective/why-your-dream-tech-job-could-be-draining-your-happiness-19al)
-- [Structured Logging with Serilog](https://dev.to/juarezasjunior/structured-logging-with-serilog-8lb)
-- [Logging Estruturado com Serilog](https://dev.to/juarezasjunior/logging-estruturado-com-serilog-38p9)
-- [How to Upload Files to AWS S3 Using Java: A Step-by-Step Guide](https://dev.to/gambhirsamarth/how-to-upload-files-to-aws-s3-using-java-a-step-by-step-guide-2p18)
+- [Step-by-Step Guide: How to Integrate Third-Party APIs with .NET 8 Minimal APIs](https://dev.to/leandroveiga/step-by-step-guide-how-to-integrate-third-party-apis-with-net-8-minimal-apis-5419)
+- [How do Turbo Streams Work &lpar;behind the scenes&rpar;](https://dev.to/railsdesigner/how-do-turbo-streams-work-behind-the-scenes-11mj)
+- [5 Surprising and Lesser-Known HTTP Methods Facts Every Developer Should Know to Avoid API Pitfalls](https://dev.to/viissgg/5-surprising-and-lesser-known-http-methods-facts-every-developer-should-know-to-avoid-api-pitfalls-3hon)
+- [ASP.NET Core Middleware](https://dev.to/rasulhsn/aspnet-core-middleware-2efd)
+- [What is BinaryOptionsTools ?](https://dev.to/theshadow76/what-is-binaryoptionstools--42g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
