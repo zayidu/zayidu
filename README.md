@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Proxy in JavaScript: Advanced Functionality with Practical Examples](https://dev.to/gabrandalisse/exploring-proxy-in-javascript-advanced-functionality-with-practical-examples-4hji)
-- [Go Design Patterns #4: Abstract Factory](https://dev.to/eduardoarndt/go-design-patterns-4-abstract-factory-971)
-- [Building a Custom Logging Provider in ASP.NET Core](https://dev.to/mohammedahmed/building-a-custom-logging-provider-in-aspnet-core-437n)
-- [Beginners Guide: Setting Up Your Local Environment for Machine Learning with Miniconda and Python](https://dev.to/nicobistolfi/beginners-guide-setting-up-your-local-environment-for-machine-learning-with-miniconda-and-python-5f7b)
-- [List of AsyncAPI servers in MuleSoft](https://dev.to/devalexmartinez/list-of-asyncapi-servers-in-mulesoft-5a4h)
+- [Java Debugging: A Comprehensive Guide](https://dev.to/prodevopsguytech/java-debugging-a-comprehensive-guide-32hh)
+- [Anthropic releases &quot;Computer Use&quot;](https://dev.to/peter/anthropic-releases-computer-use-15oj)
+- [Importmap Not Working on iOS](https://dev.to/yegorckv/importmap-not-working-on-ios-2jfh)
+- [Unleash the Power of Nginx Log Analysis and Optimization: A Comprehensive Project](https://dev.to/labex/unleash-the-power-of-nginx-log-analysis-and-optimization-a-comprehensive-project-5ckn)
+- [Most Useful Free APIs and Project ideas for Frontend Developers : Youtube , Spotify and more](https://dev.to/sonaykara/most-useful-free-apis-and-project-ideas-for-frontend-developers-youtube-spotify-and-more-4p89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
