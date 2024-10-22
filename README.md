@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Python Framework for Telegram Bots](https://dev.to/gersonfreire/a-python-framework-for-telegram-bots-238f)
-- [Transacciones en laravel](https://dev.to/fernilo/transacciones-en-laravel-24fk)
-- [7 Useful Tools for Web Developers to Boost Productivity 🚀](https://dev.to/safdarali/7-useful-tools-for-web-developers-to-boost-productivity-3dfj)
-- [How to Prepare Your Application to Handle Multiple Requests on Black Friday](https://dev.to/wallacefreitas/how-to-prepare-your-application-to-handle-multiple-requests-on-black-friday-4dh3)
-- [Dealing with having multiple GitHub accounts](https://dev.to/veloek/dealing-with-having-multiple-github-accounts-45oo)
+- [dioptre-to-millimetre calculator](https://dev.to/mauro_peluso_22/dioptre-to-millimetre-calculator-9k8)
+- [dioptre-to-millimetre calculator](https://dev.to/mauro_peluso_22/dioptre-to-millimetre-calculator-3i5e)
+- [React js Life cycle](https://dev.to/muthuraja_r/react-js-life-cycle-26l8)
+- [Tim Berners-Lee : The Man Behind the Web](https://dev.to/samarpankc/tim-berners-lee-3b56)
+- [Dia 23 - Configurando o NixOS para utilizar o debbuger de C no VSCode](https://dev.to/matheusgb/dia-23-configurando-o-nixos-para-utilizar-o-debbuger-de-c-no-vscode-32fl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
