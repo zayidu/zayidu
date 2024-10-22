@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Robust Python APIs with Flask-RESTPlus and Swagger UI](https://dev.to/rubengonzlez17/building-robust-python-apis-with-flask-restplus-and-swagger-ui-o6i)
-- [C# Clean Code: Commenting Conventions](https://dev.to/moh_moh701/c-clean-code-commenting-conventions-4abj)
-- [GitLab CI: Tips and Tricks](https://dev.to/maxim_radugin/gitlab-ci-tips-and-tricks-132k)
-- [Manual vs. Automation Testing: Which One to Choose?](https://dev.to/robort_smith/manual-vs-automation-testing-which-one-to-choose-102n)
-- [Mocking APIs Instantly without Writing Codes](https://dev.to/apilover/mocking-apis-instantly-without-writing-codes-31mm)
+- [How to Develop EtherCAT Motion Controller on ROS &lpar;2&rpar;](https://dev.to/zmotion_controller/how-to-develop-ethercat-motion-controller-on-ros-2-1bln)
+- [React Basics~unit test/describe test](https://dev.to/kkr0423/react-basicsunit-testuser-event-oo5)
+- [Why you shouldn&#39;t Train your LLM from Scratch](https://dev.to/iamtechonda/why-you-shouldnt-train-your-llm-from-scratch-2jb1)
+- [Understanding the Interplay Between DAO Entities and Smart Contracts](https://dev.to/midaodirectoryservices/understanding-the-interplay-between-dao-entities-and-smart-contracts-3b2g)
+- [Seeking Support to Continue My Tech Journey](https://dev.to/highbee007/seeking-support-to-continue-my-tech-journey-4371)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
