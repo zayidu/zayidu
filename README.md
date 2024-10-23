@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t rely on memory. Take notes!](https://dev.to/gabrieltoma/dont-rely-on-memory-take-notes-1nfn)
-- [Welcome Thread - v299](https://dev.to/devteam/welcome-thread-v299-2770)
-- [Arduino Serial.parseInt 函式的運作方式](https://dev.to/codemee/arduino-serialparseint-han-shi-de-yun-zuo-fang-shi-bbg)
-- [🔥Offering Free Sessions: Let&#39;s Connect Over Cloud, Kubernetes and DevOps!🔥](https://dev.to/lakhera2015/offering-free-sessions-lets-connect-over-cloud-kubernetes-and-devops-7ab)
-- [DSA: Recursion - Expanded Questions](https://dev.to/nozibul_islam_113b1d5334f/dsa-recursion-expanded-questions-32e9)
+- [Video: How to share an Angular Component with URL](https://dev.to/shhdharmen/video-how-to-share-an-angular-component-with-url-3g40)
+- [Publishing Multi-Arch Docker image to DockerHub using Buildx and GitHub Actions](https://dev.to/pradumnasaraf/docker-buildx-gha-dockerhub-3h2c)
+- [Understanding the Event Loop in JavaScript: Microtasks, Macrotasks, and Asynchronous Execution](https://dev.to/nishanthan-k/understanding-the-event-loop-in-javascript-microtasks-macrotasks-and-asynchronous-execution-3037)
+- [Top 5 open-source MLOps tool to boost your production ✨](https://dev.to/rohan_sharma/top-5-open-source-mlops-tool-to-boost-your-production-4j0a)
+- [Self-Hosted Form API for Static Sites - Form2Mail vs. Formspree vs. Google Forms](https://dev.to/dansasser/self-hosted-form-api-for-static-sites-form2mail-vs-formspree-vs-google-forms-13hk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
