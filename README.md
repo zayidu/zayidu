@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 signs you’ve been a software tester for too long &lpar;and you should run while you still can&rpar;](https://dev.to/testerzypl/10-signs-youve-been-a-software-tester-for-too-long-and-you-should-run-while-you-still-can-1mjp)
-- [[Pass AWS SCS-C02 on the first try!] A security beginner passed AWS SCS in just 2 weeks](https://dev.to/uirole/pass-aws-scs-c02-on-the-first-try-a-security-beginner-passed-aws-scs-in-just-2-weeks-1g0j)
-- [Detailed Difference between Ienumerable-vs-Iqueryable](https://dev.to/deewakar_kumar_8812427a98/detailed-difference-between-ienumerable-vs-iqueryable-4303)
-- [Streamlining API Calls in Angular v18 with TanStack Angular Query](https://dev.to/this-is-angular/streamlining-api-calls-in-angular-v18-with-tanstack-angular-query-5ahc)
-- [Top 7 Dynatrace Competitors and Alternatives In 2024](https://dev.to/uptrace/top-7-dynatrace-competitors-and-alternatives-in-2024-4m4j)
+- [Mastering Trace Analysis with Span Links using OpenTelemetry and Signoz &lpar;A Practical Guide&rpar;](https://dev.to/clericcoder/mastering-trace-analysis-with-span-links-using-opentelemetry-and-signoz-a-practical-guide-52hm)
+- [Inertia.js adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/inertiajs-adoption-guide-overview-examples-and-alternatives-2l8e)
+- [New: Rails Development Tool](https://dev.to/railsdesigner/new-rails-development-tool-4ooj)
+- [Partial Dependency in Normalisation | 2NF | ORACLE SQL](https://dev.to/mrcaption49/partial-dependency-in-normalisation-2nf-oracle-sql-34g3)
+- [Why I Created the CORE Framework](https://dev.to/jgmluiz/why-i-created-the-core-framework-18l8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
