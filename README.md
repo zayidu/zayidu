@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Making a Webapp is so EASY with Streamlit](https://dev.to/sachingeek/making-a-webapp-is-so-easy-with-streamlit-12j3)
-- [Medusa 2.0: The world&#39;s most flexible commerce platform](https://dev.to/medusajs/medusa-20-the-worlds-most-flexible-commerce-platform-3k96)
-- [Show us your open-source Project](https://dev.to/litlyx/show-us-your-open-source-project-188o)
-- [Does this IP belong to AWS ?](https://dev.to/aws-builders/does-this-ip-belong-to-aws--641)
-- [Cette adresse IP appartient-elle à AWS ?](https://dev.to/aws-builders/cette-adresse-ip-appartient-elle-a-aws--2l9k)
+- [The 2025 Roadmap to Building Secure Software: Best Practices and Tools for Software Engineers.](https://dev.to/balrajola/the-2025-roadmap-to-building-secure-software-best-practices-and-tools-for-software-engineers-cnk)
+- [🎯 The Art of Writing Awesome Commit Messages: Why It Matters and How to Nail It](https://dev.to/hadil/the-art-of-writing-awesome-commit-messages-why-it-matters-and-how-to-nail-it-3jm2)
+- [Understanding the Difference Between package.json and package-lock.json](https://dev.to/vjygour/understanding-the-difference-between-packagejson-and-package-lockjson-1h67)
+- [Mastering Bash: Essential Commands for Everyday Use](https://dev.to/graphpe/mastering-bash-essential-commands-for-everyday-use-521k)
+- [The Role of AI &lpar;ChatGPT&rpar; in Coding and Debugging: Striking a Balance](https://dev.to/professor1345/the-role-of-ai-chatgpt-in-coding-and-debugging-striking-a-balance-18m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
