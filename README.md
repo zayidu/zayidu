@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Normalization | 1 NF](https://dev.to/mrcaption49/normalization-1-nf-47eg)
-- [Lazy or productive?](https://dev.to/andersonbelli/lazy-or-productive-43bp)
-- [✅ How To Get Faster Code Reviews](https://dev.to/sammytran/how-to-get-faster-code-reviews-3hol)
-- [var en Java](https://dev.to/asjordi/var-en-java-222m)
-- [ISP Proxies vs. Residential Proxies &lpar;Main Differences&rpar;](https://dev.to/crawlbase/isp-proxies-vs-residential-proxies-main-differences-2gh0)
+- [Desbloqueando el Futuro de la Gestión de Edificios con AWS IoT](https://dev.to/aws-espanol/desbloqueando-el-futuro-de-la-gestion-de-edificios-con-aws-iot-3k23)
+- [19 Frontend Projects 🎨](https://dev.to/grapplingdev/19-frontend-projects-5heo)
+- [AZ-104: Configure and Manage Virtual Networks for Azure Administrators](https://dev.to/i_am_vesh/az-104-configure-and-manage-virtual-networks-for-azure-administrators-21ad)
+- [Unlocking the Future of Building Management with AWS IoT](https://dev.to/aws-builders/unlocking-the-future-of-building-management-with-aws-iot-2g73)
+- [Inside Lithe: How the PHP Framework is Changing the Game](https://dev.to/lithephp/inside-lithe-how-the-php-framework-is-changing-the-game-41ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
