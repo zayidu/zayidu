@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Must-Know Libraries to Supercharge Your Frontend Development](https://dev.to/safdarali/12-must-know-libraries-to-supercharge-your-frontend-development-5ek3)
-- [Meta AI&#39;s CoTracker3: Enhanced Point Tracking with Less Data](https://dev.to/voxel51/meta-ais-cotracker3-enhanced-point-tracking-with-less-data-3kab)
-- [Session Management in PHP with Lithe: From Basic Setup to Advanced Usage](https://dev.to/lithephp/session-management-in-php-with-lithe-from-basic-setup-to-advanced-usage-2ac6)
-- [Gerenciamento de Sessões em PHP no Lithe: Da Configuração Básica ao Uso Avançado](https://dev.to/lithephp/gerenciamento-de-sessoes-em-php-no-lithe-da-configuracao-basica-ao-uso-avancado-1207)
-- [Nodejs-Docker YT tutorial updated Code](https://dev.to/sanjeev_saravanan_27/nodejs-docker-yt-updated-code-3peo)
+- [Understanding JavaScript Prototypes](https://dev.to/kartikmehta8/understanding-javascript-prototypes-4a2h)
+- [Default Interface Methods and properties implementation in C# 8.0](https://dev.to/dotnetfullstackdev/default-interface-methods-and-properties-implementation-in-c-80-3ean)
+- [Mastering Terminal using Savvy&#39; s AI](https://dev.to/joshi_4/mastering-terminal-using-savvy-s-ai-42d8)
+- [Cross-Posting and Portfolio Project Update: Optimizing API Calls and Implementing Best Practices](https://dev.to/jesse_chong_3bcc276c4f950/cross-posting-and-portfolio-project-update-optimizing-api-calls-and-implementing-best-practices-309j)
+- [GCP Tech Stack for a Serverless NextJS Web App](https://dev.to/charlottetowell/gcp-tech-stack-for-a-serverless-nextjs-web-app-16cd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
