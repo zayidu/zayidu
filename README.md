@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [20 TypeScript Tricks Every Developer Should Know 🚀](https://dev.to/jagroop2001/20-typescript-tricks-every-developer-should-know-31e2)
-- [Swipe, Tap and Pinch Gestures in iOS 18 - #30DaysOfSwift](https://dev.to/thevediwho/swipe-tap-and-pinch-gestures-in-ios-18-30daysofswift-nkp)
-- [Introduction to NodeJS](https://dev.to/madgan95/introduction-to-nodejs-4c62)
-- [Why You Should Get Microsoft Certifications as a Student: Boost Your Tech Skills for Free!](https://dev.to/mahrukh_adeel/why-you-should-get-microsoft-certifications-as-a-student-boost-your-tech-skills-for-free-4go4)
-- [Smart way to update multiple models simultaneously in Rails](https://dev.to/hamajyotan/smart-way-to-update-multiple-models-simultaneously-in-rails-51b6)
+- [The power of hackathon](https://dev.to/n0rizkitty/the-art-of-bootcamp-which-changes-the-career-trajectory-1mg8)
+- [Obsidian vs. Notion: A Comprehensive Comparison](https://dev.to/airabbit/obsidian-vs-notion-a-comprehensive-comparison-5cc4)
+- [How Documentation Can Help Your Team Scale](https://dev.to/ikechukwu/how-documentation-can-help-your-team-scale-3k8c)
+- [LLM Basics: The weird and wonderful world of Tokenization](https://dev.to/stacklok/llm-basics-tokenization-37ef)
+- [Thoughts on AI](https://dev.to/wadecodez/thoughts-on-ai-2cho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
