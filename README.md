@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Addressing Container Errors in Containerized Apps](https://dev.to/carrie_luo1/addressing-container-errors-in-containerized-apps-5c91)
-- [Introducing Stable Diffusion 3.5](https://dev.to/christianhappygo/introducing-stable-diffusion-35-4j32)
-- [Stack Data Structure | Last In First Out &lpar;LIFO&rpar;](https://dev.to/sudhanshu_developer/stack-data-structure-last-in-first-out-lifo-2opa)
-- [8 Action-Packed Anime Like Black Clover](https://dev.to/saimblogs/8-action-packed-anime-like-black-clover-5cg)
-- [What Is Splunk? A Definitive Guide for Beginners](https://dev.to/markwayne/what-is-splunk-a-definitive-guide-for-beginners-1dal)
+- [Setting Development Goals That Actually Stick: Examples and Strategies](https://dev.to/devactivity-app/setting-development-goals-that-actually-stick-examples-and-strategies-3jao)
+- [Why Doesn&#39;t Postgres Use My Index](https://dev.to/metis/why-doesnt-postgres-use-my-index-2b6e)
+- [Adding a Rubocop config to an old repository | step-by-step guide](https://dev.to/lcsm0n/adding-a-rubocop-config-to-an-old-repository-step-by-step-guide-49db)
+- [Blur page body when hover on Nav Bar](https://dev.to/sandygalabada/blur-page-body-when-hover-on-nav-bar-52pn)
+- [Unlock the Power of Next.js with This Comprehensive Handbook 🚀](https://dev.to/getvm/unlock-the-power-of-nextjs-with-this-comprehensive-handbook-2aa4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
