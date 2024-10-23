@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Understanding Blind SQL injection](https://dev.to/carrie_luo1/the-ultimate-guide-to-understanding-blind-sql-injection-3ci8)
-- [Understanding Semantic Analysis Algorithms: A Beginner’s Guide](https://dev.to/carrie_luo1/understanding-semantic-analysis-algorithms-a-beginners-guide-5bkm)
-- [The 4 Most Common Mistakes When Using useState in React](https://dev.to/sonaykara/the-4-most-common-mistakes-when-using-usestate-in-react-1ji8)
-- [Why Choose Python Programming Language for Mobile App Development?](https://dev.to/jigar_online/why-choose-python-programming-language-for-mobile-app-development-29mf)
-- [Vendor Risk Management Policy: A Strategic Approach](https://dev.to/buzzgk/vendor-risk-management-policy-a-strategic-approach-49bc)
+- [Making a Webapp is so EASY with Streamlit](https://dev.to/sachingeek/making-a-webapp-is-so-easy-with-streamlit-12j3)
+- [Medusa 2.0: The world&#39;s most flexible commerce platform](https://dev.to/medusajs/medusa-20-the-worlds-most-flexible-commerce-platform-3k96)
+- [Show us your open-source Project](https://dev.to/litlyx/show-us-your-open-source-project-188o)
+- [Does this IP belong to AWS ?](https://dev.to/aws-builders/does-this-ip-belong-to-aws--641)
+- [Cette adresse IP appartient-elle à AWS ?](https://dev.to/aws-builders/cette-adresse-ip-appartient-elle-a-aws--2l9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
