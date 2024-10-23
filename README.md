@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you split your time between building and marketing?](https://dev.to/jxd-dev/how-do-you-split-your-time-between-building-and-marketing-5dl7)
-- [Go and Rust comparison - building a task scheduler](https://dev.to/hiro_111/go-and-rust-comparison-building-a-task-scheduler-1apa)
-- [Day 11/90: Error Handling in Shell Scripts 🛡️ #90DaysOfDevOps](https://dev.to/kanav_gathe/day-1190-error-handling-in-shell-scripts-90daysofdevops-1i5b)
-- [Day 10/90: Log Analyzer and Report Generator 📊 #90DaysOfDevOps](https://dev.to/kanav_gathe/day-1090-log-analyzer-and-report-generator-90daysofdevops-2d4d)
-- [Day 9/90: Directory Backup with Rotation in Shell Scripting 🔄 #90DaysOfDevOps](https://dev.to/kanav_gathe/day-990-directory-backup-with-rotation-in-shell-scripting-90daysofdevops-4no7)
+- [How to Integrate Transactional Emails with Brevo in Your Application](https://dev.to/jmegnidro/how-to-integrate-transactional-emails-with-brevo-in-your-application-4jli)
+- [Video - Caching HTML Tags Using WebForms Core Technology](https://dev.to/elanatframework/video-caching-html-tags-using-webforms-core-technology-4ikj)
+- [Fashion as a Storytelling Medium: The Power of Custom Emblems](https://dev.to/feetengine8/fashion-as-a-storytelling-medium-the-power-of-custom-emblems-2861)
+- [Customized Apparel as a Medium for Personal Expression](https://dev.to/weightgarage9/customized-apparel-as-a-medium-for-personal-expression-380k)
+- [Enable Windows Process Activation Service in Windows 11](https://dev.to/winsides/enable-windows-process-activation-service-in-windows-11-444k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
