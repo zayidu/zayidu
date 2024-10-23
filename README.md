@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating System Metrics with WASI: A Cross-Platform Rust Approach](https://dev.to/zanepearton/automating-system-metrics-with-wasi-a-cross-platform-rust-approach-57he)
-- [Guide to Passive Income in Tech: Coding Your Way to Wealth](https://dev.to/techbalance_collective/guide-to-passive-income-in-tech-coding-your-way-to-wealth-2m9j)
-- [Desacoplamento de Comunicação com MediatR](https://dev.to/juarezasjunior/desacoplamento-de-comunicacao-com-mediatr-fhf)
-- [Decoupling Communication with MediatR](https://dev.to/juarezasjunior/decoupling-communication-with-mediatr-17hj)
-- [Deploying a Dockerized Web App on AWS Using ECS and Fargate: A Step-by-Step Guide](https://dev.to/nadaahmed/deploying-a-dockerized-web-app-on-aws-using-ecs-and-fargate-a-step-by-step-guide-254m)
+- [10 signs you’ve been a software tester for too long &lpar;and you should run while you still can&rpar;](https://dev.to/testerzypl/10-signs-youve-been-a-software-tester-for-too-long-and-you-should-run-while-you-still-can-1mjp)
+- [[Pass AWS SCS-C02 on the first try!] A security beginner passed AWS SCS in just 2 weeks](https://dev.to/uirole/pass-aws-scs-c02-on-the-first-try-a-security-beginner-passed-aws-scs-in-just-2-weeks-1g0j)
+- [Detailed Difference between Ienumerable-vs-Iqueryable](https://dev.to/deewakar_kumar_8812427a98/detailed-difference-between-ienumerable-vs-iqueryable-4303)
+- [Streamlining API Calls in Angular v18 with TanStack Angular Query](https://dev.to/this-is-angular/streamlining-api-calls-in-angular-v18-with-tanstack-angular-query-5ahc)
+- [Top 7 Dynatrace Competitors and Alternatives In 2024](https://dev.to/uptrace/top-7-dynatrace-competitors-and-alternatives-in-2024-4m4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
