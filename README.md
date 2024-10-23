@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Video: How to share an Angular Component with URL](https://dev.to/shhdharmen/video-how-to-share-an-angular-component-with-url-3g40)
-- [Publishing Multi-Arch Docker image to DockerHub using Buildx and GitHub Actions](https://dev.to/pradumnasaraf/docker-buildx-gha-dockerhub-3h2c)
-- [Understanding the Event Loop in JavaScript: Microtasks, Macrotasks, and Asynchronous Execution](https://dev.to/nishanthan-k/understanding-the-event-loop-in-javascript-microtasks-macrotasks-and-asynchronous-execution-3037)
-- [Top 5 open-source MLOps tool to boost your production ✨](https://dev.to/rohan_sharma/top-5-open-source-mlops-tool-to-boost-your-production-4j0a)
-- [Self-Hosted Form API for Static Sites - Form2Mail vs. Formspree vs. Google Forms](https://dev.to/dansasser/self-hosted-form-api-for-static-sites-form2mail-vs-formspree-vs-google-forms-13hk)
+- [Align Merge Two CSV Files according to Namesake Fields #eg64](https://dev.to/esproc_spl/align-merge-two-csv-files-according-to-namesake-fields-eg64-43ja)
+- [Test Data Management Tools: A Complete Guide](https://dev.to/keploy/test-data-management-tools-a-complete-guide-1bcb)
+- [I Build a List OF Tools For Start Your Startup](https://dev.to/xaramore/i-build-a-list-of-tools-for-start-your-startup-klh)
+- [Understanding Salesforce License Service](https://dev.to/andreprasetya25/understanding-salesforce-license-service-bgo)
+- [Must Notes When Using Open Sources](https://dev.to/truongpx396/must-notes-when-using-open-sources-4m62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
