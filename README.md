@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Desbloqueando el Futuro de la Gestión de Edificios con AWS IoT](https://dev.to/aws-espanol/desbloqueando-el-futuro-de-la-gestion-de-edificios-con-aws-iot-3k23)
-- [19 Frontend Projects 🎨](https://dev.to/grapplingdev/19-frontend-projects-5heo)
-- [AZ-104: Configure and Manage Virtual Networks for Azure Administrators](https://dev.to/i_am_vesh/az-104-configure-and-manage-virtual-networks-for-azure-administrators-21ad)
-- [Unlocking the Future of Building Management with AWS IoT](https://dev.to/aws-builders/unlocking-the-future-of-building-management-with-aws-iot-2g73)
-- [Inside Lithe: How the PHP Framework is Changing the Game](https://dev.to/lithephp/inside-lithe-how-the-php-framework-is-changing-the-game-41ih)
+- [20 TypeScript Tricks Every Developer Should Know 🚀](https://dev.to/jagroop2001/20-typescript-tricks-every-developer-should-know-31e2)
+- [Swipe, Tap and Pinch Gestures in iOS 18 - #30DaysOfSwift](https://dev.to/thevediwho/swipe-tap-and-pinch-gestures-in-ios-18-30daysofswift-nkp)
+- [Introduction to NodeJS](https://dev.to/madgan95/introduction-to-nodejs-4c62)
+- [Why You Should Get Microsoft Certifications as a Student: Boost Your Tech Skills for Free!](https://dev.to/mahrukh_adeel/why-you-should-get-microsoft-certifications-as-a-student-boost-your-tech-skills-for-free-4go4)
+- [Smart way to update multiple models simultaneously in Rails](https://dev.to/hamajyotan/smart-way-to-update-multiple-models-simultaneously-in-rails-51b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
