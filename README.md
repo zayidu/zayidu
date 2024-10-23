@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Trace Analysis with Span Links using OpenTelemetry and Signoz &lpar;A Practical Guide&rpar;](https://dev.to/clericcoder/mastering-trace-analysis-with-span-links-using-opentelemetry-and-signoz-a-practical-guide-52hm)
-- [Inertia.js adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/inertiajs-adoption-guide-overview-examples-and-alternatives-2l8e)
-- [New: Rails Development Tool](https://dev.to/railsdesigner/new-rails-development-tool-4ooj)
-- [Partial Dependency in Normalisation | 2NF | ORACLE SQL](https://dev.to/mrcaption49/partial-dependency-in-normalisation-2nf-oracle-sql-34g3)
-- [Why I Created the CORE Framework](https://dev.to/jgmluiz/why-i-created-the-core-framework-18l8)
+- [Normalization | 1 NF](https://dev.to/mrcaption49/normalization-1-nf-47eg)
+- [Lazy or productive?](https://dev.to/andersonbelli/lazy-or-productive-43bp)
+- [✅ How To Get Faster Code Reviews](https://dev.to/sammytran/how-to-get-faster-code-reviews-3hol)
+- [var en Java](https://dev.to/asjordi/var-en-java-222m)
+- [ISP Proxies vs. Residential Proxies &lpar;Main Differences&rpar;](https://dev.to/crawlbase/isp-proxies-vs-residential-proxies-main-differences-2gh0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
