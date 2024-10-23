@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The power of hackathon](https://dev.to/n0rizkitty/the-art-of-bootcamp-which-changes-the-career-trajectory-1mg8)
-- [Obsidian vs. Notion: A Comprehensive Comparison](https://dev.to/airabbit/obsidian-vs-notion-a-comprehensive-comparison-5cc4)
-- [How Documentation Can Help Your Team Scale](https://dev.to/ikechukwu/how-documentation-can-help-your-team-scale-3k8c)
-- [LLM Basics: The weird and wonderful world of Tokenization](https://dev.to/stacklok/llm-basics-tokenization-37ef)
-- [Thoughts on AI](https://dev.to/wadecodez/thoughts-on-ai-2cho)
+- [Comparison between CORE and Other Software Development Methodologies](https://dev.to/jgmluiz/comparison-between-core-and-other-software-development-methodologies-5a79)
+- [How to use resources file and memory in try](https://dev.to/ozkanpakdil/how-to-use-resourcesfile-and-memory-in-try-5e24)
+- [Seeking Open-Source Collaboration to Complete Website for Portfolio](https://dev.to/ash-probably/seeking-open-source-collaboration-to-complete-website-for-portfolio-pb6)
+- [Boost Your Workflow: Essential Shell Scripts for Everyday Tasks](https://dev.to/mdarifulhaque/boost-your-workflow-essential-shell-scripts-for-everyday-tasks-1kde)
+- [kodiak.toml in tRPC source code](https://dev.to/thinkthroo/kodiaktoml-in-trpc-source-code-21j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
