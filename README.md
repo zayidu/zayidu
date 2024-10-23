@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparison between CORE and Other Software Development Methodologies](https://dev.to/jgmluiz/comparison-between-core-and-other-software-development-methodologies-5a79)
-- [How to use resources file and memory in try](https://dev.to/ozkanpakdil/how-to-use-resourcesfile-and-memory-in-try-5e24)
-- [Seeking Open-Source Collaboration to Complete Website for Portfolio](https://dev.to/ash-probably/seeking-open-source-collaboration-to-complete-website-for-portfolio-pb6)
-- [Boost Your Workflow: Essential Shell Scripts for Everyday Tasks](https://dev.to/mdarifulhaque/boost-your-workflow-essential-shell-scripts-for-everyday-tasks-1kde)
-- [kodiak.toml in tRPC source code](https://dev.to/thinkthroo/kodiaktoml-in-trpc-source-code-21j1)
+- [🚀 GopherLight v0.2](https://dev.to/gopherlight/gopherlight-v02-23l1)
+- [C# Clean Code: string guide lines](https://dev.to/moh_moh701/c-clean-code-string-guide-lines-2k8)
+- [Kotlin test automation. Chapter 1- Framework and CRUD tests.](https://dev.to/fofolder/kotlin-test-automation-chapter-1-framework-and-crud-tests-418o)
+- [O que é Lazy Loading?](https://dev.to/felipeamorimdev/o-que-e-lazy-loading-g1i)
+- [Building a PostgreSQL Library in D](https://dev.to/rodevasia/building-a-postgresql-library-in-d-1nlo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
