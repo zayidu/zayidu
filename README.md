@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate Transactional Emails with Brevo in Your Application](https://dev.to/jmegnidro/how-to-integrate-transactional-emails-with-brevo-in-your-application-4jli)
-- [Video - Caching HTML Tags Using WebForms Core Technology](https://dev.to/elanatframework/video-caching-html-tags-using-webforms-core-technology-4ikj)
-- [Fashion as a Storytelling Medium: The Power of Custom Emblems](https://dev.to/feetengine8/fashion-as-a-storytelling-medium-the-power-of-custom-emblems-2861)
-- [Customized Apparel as a Medium for Personal Expression](https://dev.to/weightgarage9/customized-apparel-as-a-medium-for-personal-expression-380k)
-- [Enable Windows Process Activation Service in Windows 11](https://dev.to/winsides/enable-windows-process-activation-service-in-windows-11-444k)
+- [express-go](https://dev.to/brunociccarino/express-go-2akn)
+- [Understanding and Using Javascript Console API in Detail](https://dev.to/sonaykara/understanding-and-using-javascript-console-api-in-detail-25a9)
+- [Project 2 - Design and Implementation](https://dev.to/aqeelakbari/project-2-design-and-implementation-1f46)
+- [Mediator and CQRS with MediatR](https://dev.to/kinneko-de/mediator-and-cqrs-with-mediatr-278c)
+- [BusinessValue with CQS](https://dev.to/kinneko-de/businessvalue-with-cqs-51p2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
