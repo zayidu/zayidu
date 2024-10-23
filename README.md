@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Align Merge Two CSV Files according to Namesake Fields #eg64](https://dev.to/esproc_spl/align-merge-two-csv-files-according-to-namesake-fields-eg64-43ja)
-- [Test Data Management Tools: A Complete Guide](https://dev.to/keploy/test-data-management-tools-a-complete-guide-1bcb)
-- [I Build a List OF Tools For Start Your Startup](https://dev.to/xaramore/i-build-a-list-of-tools-for-start-your-startup-klh)
-- [Understanding Salesforce License Service](https://dev.to/andreprasetya25/understanding-salesforce-license-service-bgo)
-- [Must Notes When Using Open Sources](https://dev.to/truongpx396/must-notes-when-using-open-sources-4m62)
+- [Addressing Container Errors in Containerized Apps](https://dev.to/carrie_luo1/addressing-container-errors-in-containerized-apps-5c91)
+- [Introducing Stable Diffusion 3.5](https://dev.to/christianhappygo/introducing-stable-diffusion-35-4j32)
+- [Stack Data Structure | Last In First Out &lpar;LIFO&rpar;](https://dev.to/sudhanshu_developer/stack-data-structure-last-in-first-out-lifo-2opa)
+- [8 Action-Packed Anime Like Black Clover](https://dev.to/saimblogs/8-action-packed-anime-like-black-clover-5cg)
+- [What Is Splunk? A Definitive Guide for Beginners](https://dev.to/markwayne/what-is-splunk-a-definitive-guide-for-beginners-1dal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
