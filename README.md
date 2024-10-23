@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Development Goals That Actually Stick: Examples and Strategies](https://dev.to/devactivity-app/setting-development-goals-that-actually-stick-examples-and-strategies-3jao)
-- [Why Doesn&#39;t Postgres Use My Index](https://dev.to/metis/why-doesnt-postgres-use-my-index-2b6e)
-- [Adding a Rubocop config to an old repository | step-by-step guide](https://dev.to/lcsm0n/adding-a-rubocop-config-to-an-old-repository-step-by-step-guide-49db)
-- [Blur page body when hover on Nav Bar](https://dev.to/sandygalabada/blur-page-body-when-hover-on-nav-bar-52pn)
-- [Unlock the Power of Next.js with This Comprehensive Handbook 🚀](https://dev.to/getvm/unlock-the-power-of-nextjs-with-this-comprehensive-handbook-2aa4)
+- [The Ultimate Guide to Understanding Blind SQL injection](https://dev.to/carrie_luo1/the-ultimate-guide-to-understanding-blind-sql-injection-3ci8)
+- [Understanding Semantic Analysis Algorithms: A Beginner’s Guide](https://dev.to/carrie_luo1/understanding-semantic-analysis-algorithms-a-beginners-guide-5bkm)
+- [The 4 Most Common Mistakes When Using useState in React](https://dev.to/sonaykara/the-4-most-common-mistakes-when-using-usestate-in-react-1ji8)
+- [Why Choose Python Programming Language for Mobile App Development?](https://dev.to/jigar_online/why-choose-python-programming-language-for-mobile-app-development-29mf)
+- [Vendor Risk Management Policy: A Strategic Approach](https://dev.to/buzzgk/vendor-risk-management-policy-a-strategic-approach-49bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
