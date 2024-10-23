@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Integration between Apache APISIX and open-appsec WAF](https://dev.to/apisix/announcing-integration-between-apache-apisix-and-open-appsec-waf-2jf9)
-- [Loader Animation](https://dev.to/mahmud-r-farhan/loader-animation-49di)
-- [Common built-in APIs in Nodejs](https://dev.to/muthuraja_r/common-built-in-apis-in-nodejs-3ep)
-- [Understanding the this Keyword in JavaScript](https://dev.to/diwakar_verma_381fc6e5e2f/understanding-the-this-keyword-in-javascript-576p)
-- [Hello everyone, I am new here. Could you briefly show me the special features of this forum?](https://dev.to/waylau/hello-everyone-i-am-new-here-could-you-briefly-show-me-the-special-features-of-this-forum-26h5)
+- [Don&#39;t rely on memory. Take notes!](https://dev.to/gabrieltoma/dont-rely-on-memory-take-notes-1nfn)
+- [Welcome Thread - v299](https://dev.to/devteam/welcome-thread-v299-2770)
+- [Arduino Serial.parseInt 函式的運作方式](https://dev.to/codemee/arduino-serialparseint-han-shi-de-yun-zuo-fang-shi-bbg)
+- [🔥Offering Free Sessions: Let&#39;s Connect Over Cloud, Kubernetes and DevOps!🔥](https://dev.to/lakhera2015/offering-free-sessions-lets-connect-over-cloud-kubernetes-and-devops-7ab)
+- [DSA: Recursion - Expanded Questions](https://dev.to/nozibul_islam_113b1d5334f/dsa-recursion-expanded-questions-32e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
