@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Integration between Apache APISIX and open-appsec WAF](https://dev.to/apisix/announcing-integration-between-apache-apisix-and-open-appsec-waf-2jf9)
+- [Loader Animation](https://dev.to/mahmud-r-farhan/loader-animation-49di)
+- [Common built-in APIs in Nodejs](https://dev.to/muthuraja_r/common-built-in-apis-in-nodejs-3ep)
+- [Understanding the this Keyword in JavaScript](https://dev.to/diwakar_verma_381fc6e5e2f/understanding-the-this-keyword-in-javascript-576p)
 - [Hello everyone, I am new here. Could you briefly show me the special features of this forum?](https://dev.to/waylau/hello-everyone-i-am-new-here-could-you-briefly-show-me-the-special-features-of-this-forum-26h5)
-- [Creating an Interactive Color Picker with Svelte 5](https://dev.to/devgauravjatt/creating-an-interactive-color-picker-with-svelte-5-212g)
-- [🟢 Creating and Using AWS Lambda Layers: A Complete Guide](https://dev.to/softden_2005/creating-and-using-aws-lambda-layers-a-complete-guide-51hc)
-- [Women - Kickstart your Application Security Career!](https://dev.to/snyk/women-kickstart-your-application-security-career-jpf)
-- [Project Introduction: Portfolio Developer](https://dev.to/letuyen/project-introduction-portfolio-developer-4ok8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
