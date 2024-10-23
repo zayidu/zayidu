@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript Prototypes](https://dev.to/kartikmehta8/understanding-javascript-prototypes-4a2h)
-- [Default Interface Methods and properties implementation in C# 8.0](https://dev.to/dotnetfullstackdev/default-interface-methods-and-properties-implementation-in-c-80-3ean)
-- [Mastering Terminal using Savvy&#39; s AI](https://dev.to/joshi_4/mastering-terminal-using-savvy-s-ai-42d8)
-- [Cross-Posting and Portfolio Project Update: Optimizing API Calls and Implementing Best Practices](https://dev.to/jesse_chong_3bcc276c4f950/cross-posting-and-portfolio-project-update-optimizing-api-calls-and-implementing-best-practices-309j)
-- [GCP Tech Stack for a Serverless NextJS Web App](https://dev.to/charlottetowell/gcp-tech-stack-for-a-serverless-nextjs-web-app-16cd)
+- [Hello everyone, I am new here. Could you briefly show me the special features of this forum?](https://dev.to/waylau/hello-everyone-i-am-new-here-could-you-briefly-show-me-the-special-features-of-this-forum-26h5)
+- [Creating an Interactive Color Picker with Svelte 5](https://dev.to/devgauravjatt/creating-an-interactive-color-picker-with-svelte-5-212g)
+- [🟢 Creating and Using AWS Lambda Layers: A Complete Guide](https://dev.to/softden_2005/creating-and-using-aws-lambda-layers-a-complete-guide-51hc)
+- [Women - Kickstart your Application Security Career!](https://dev.to/snyk/women-kickstart-your-application-security-career-jpf)
+- [Project Introduction: Portfolio Developer](https://dev.to/letuyen/project-introduction-portfolio-developer-4ok8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
