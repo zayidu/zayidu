@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 2025 Roadmap to Building Secure Software: Best Practices and Tools for Software Engineers.](https://dev.to/balrajola/the-2025-roadmap-to-building-secure-software-best-practices-and-tools-for-software-engineers-cnk)
-- [🎯 The Art of Writing Awesome Commit Messages: Why It Matters and How to Nail It](https://dev.to/hadil/the-art-of-writing-awesome-commit-messages-why-it-matters-and-how-to-nail-it-3jm2)
-- [Understanding the Difference Between package.json and package-lock.json](https://dev.to/vjygour/understanding-the-difference-between-packagejson-and-package-lockjson-1h67)
-- [Mastering Bash: Essential Commands for Everyday Use](https://dev.to/graphpe/mastering-bash-essential-commands-for-everyday-use-521k)
-- [The Role of AI &lpar;ChatGPT&rpar; in Coding and Debugging: Striking a Balance](https://dev.to/professor1345/the-role-of-ai-chatgpt-in-coding-and-debugging-striking-a-balance-18m2)
+- [Automating System Metrics with WASI: A Cross-Platform Rust Approach](https://dev.to/zanepearton/automating-system-metrics-with-wasi-a-cross-platform-rust-approach-57he)
+- [Guide to Passive Income in Tech: Coding Your Way to Wealth](https://dev.to/techbalance_collective/guide-to-passive-income-in-tech-coding-your-way-to-wealth-2m9j)
+- [Desacoplamento de Comunicação com MediatR](https://dev.to/juarezasjunior/desacoplamento-de-comunicacao-com-mediatr-fhf)
+- [Decoupling Communication with MediatR](https://dev.to/juarezasjunior/decoupling-communication-with-mediatr-17hj)
+- [Deploying a Dockerized Web App on AWS Using ECS and Fargate: A Step-by-Step Guide](https://dev.to/nadaahmed/deploying-a-dockerized-web-app-on-aws-using-ecs-and-fargate-a-step-by-step-guide-254m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
