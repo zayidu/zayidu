@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DSA: Hash Table - Expanded Questions](https://dev.to/nozibul_islam_113b1d5334f/dsa-hash-table-expanded-questions-4f84)
-- [How Javascript works?](https://dev.to/diwakar_verma_381fc6e5e2f/how-javascript-works-eea)
-- [Stripe Checkout Session for custom products](https://dev.to/daveswork/stripe-checkout-session-for-custom-products-1gld)
-- [Step-by-Step Guide to Installing PostgreSQL on Arch Linux](https://dev.to/codingashish_dev/step-by-step-guide-to-installing-postgresql-on-arch-linux-3ked)
-- [Vulnerability-Free C and C++ Development in Automotive Manufacturing and Software Defined Vehicles &lpar;SDV&rpar;](https://dev.to/snyk/vulnerability-free-c-and-c-development-in-automotive-manufacturing-and-software-defined-vehicles-sdv-jm7)
+- [supabase注册并创建项目和添加数据表](https://dev.to/longlikun/supabsezhu-ce-bing-chuang-jian-xiang-mu-he-tian-jia-shu-ju-biao-467p)
+- [The Journey From a CSV File to Apache Hive Table](https://dev.to/abdullah_haggag/the-journey-from-a-csv-file-to-apache-hive-table-45ab)
+- [How to Integrate Crypto Payments in Your Apps &amp; Build Your Own Crypto Payment Gateway with ZinariPays OpenAPI](https://dev.to/christopher_akanmu/how-to-integrate-crypto-payments-in-your-apps-build-your-own-crypto-payment-gateway-with-zinaripays-openapi-49ah)
+- [Implementing Webpack from Scratch, But in Rust - [1] Parsing and Modifying JS Code Using Oxc](https://dev.to/paradeto/implementing-webpack-from-scratch-but-in-rust-1-parsing-and-modifying-js-code-using-oxc-40l5)
+- [LabEx Trending: Add Student Personal Information and More](https://dev.to/labex/labex-trending-add-student-personal-information-and-more-26lm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
