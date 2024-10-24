@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Item 66: Utilize os métodos nativos com sabedoria](https://dev.to/giselecoder/item-66-utilize-os-metodos-nativos-com-sabedoria-4j37)
-- [Item 65: Dê preferência às interfaces em vez da reflexão](https://dev.to/giselecoder/item-65-de-preferencia-as-interfaces-em-vez-da-reflexao-odp)
-- [Why Should You Choose Linux OS If You Are Programmer?](https://dev.to/zlaam/why-should-you-choose-linux-os-if-you-are-programmer-k20)
-- [AZ-104: Monitoring and Backing Up Azure Resources – Complete Guide](https://dev.to/i_am_vesh/az-104-monitoring-and-backing-up-azure-resources-complete-guide-1jel)
-- [AWS Cost Optimization: A Practical Guide to Maximizing Efficiency](https://dev.to/cloudforce/aws-cost-optimization-a-practical-guide-to-maximizing-efficiency-13dk)
+- [Broadcast Turbo Streams without Redis](https://dev.to/railsdesigner/broadcast-turbo-streams-without-redis-31i6)
+- [Avoid the busy people and focus on what-matters](https://dev.to/akotek/avoid-the-busy-people-and-focus-on-what-matters-3nio)
+- [Don&#39;t Let Cyber Risks Sink Your Business: A Survival Guide for the Digital Age 🚀](https://dev.to/enzo_dechaene/dont-let-cyber-risks-sink-your-business-a-survival-guide-for-the-digital-age-1hkg)
+- [How to Send an Ajax POST Request to a Laravel Route](https://dev.to/msh_sayket_6a8d9f36faac8a/how-to-send-an-ajax-post-request-to-a-laravel-route-1jl6)
+- [How to Compress Image Size in Laravel 11](https://dev.to/msh_sayket_6a8d9f36faac8a/how-to-compress-image-size-in-laravel-11-2888)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
