@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Serverless APIs with AWS API Gateway](https://dev.to/kartikmehta8/building-serverless-apis-with-aws-api-gateway-1c9n)
-- [Teoria do Caos Aplicada à Cloud Computing: Entendendo o Impacto do Caos na Infraestrutura em Nuvem](https://dev.to/n1ghtm4r33/teoria-do-caos-aplicada-a-cloud-computing-entendendo-o-impacto-do-caos-na-infraestrutura-em-nuvem-4j2n)
-- [Liskov Substitution Principle in C# with Bird Example](https://dev.to/dotnetfullstackdev/liskov-substitution-principle-in-c-with-bird-example-38ia)
-- [Learn TDD with Ruby - Loops, Blocks and Strings](https://dev.to/meleu/learn-tdd-with-ruby-loops-blocks-and-strings-36he)
-- [Programming Inspiration &amp; Motivation on LinkedIn](https://dev.to/laura_mbogo_fd086556a7ede/programming-inspiration-motivation-on-linkedin-1j6h)
+- [Step-by-Step Guide to Installing PostgreSQL on Arch Linux](https://dev.to/codingashish_dev/step-by-step-guide-to-installing-postgresql-on-arch-linux-3ked)
+- [Vulnerability-Free C and C++ Development in Automotive Manufacturing and Software Defined Vehicles &lpar;SDV&rpar;](https://dev.to/snyk/vulnerability-free-c-and-c-development-in-automotive-manufacturing-and-software-defined-vehicles-sdv-jm7)
+- [Getting Started with React Part 2 : Components, State, and Props](https://dev.to/kyydev/getting-started-with-react-part-2-components-state-and-props-5g9d)
+- [The Art of Problem-Solving](https://dev.to/this_mkhy/the-art-of-problem-solving-3g0b)
+- [Which Cloud Platform to choose? Confused!!!](https://dev.to/shreyanmaity/which-cloud-platform-to-choose-confused-500j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
