@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Static React app on AWS S3 Bucket](https://dev.to/saquib_hussain_0d67ba0ead/deploying-static-react-app-on-aws-s3-bucket-gln)
-- [Real-time examples of clustered and non-clustered indexes](https://dev.to/mrcaption49/real-time-examples-of-clustered-and-non-clustered-indexes-50bd)
-- [How to Use the Google Drive Uploader Component for Vue 3 and TypeScript](https://dev.to/mabbkhawaja/how-to-use-the-google-drive-uploader-component-for-vue-3-and-typescript-61j)
-- [How to Test Hawk Authentication for REST APIs](https://dev.to/patrick_61cbc6392b72286f6/how-to-test-hawk-authentication-for-rest-apis-1872)
-- [Self hosting ghost blog on your home server](https://dev.to/nikhildev/self-hosting-ghost-blog-on-your-home-server-37b5)
+- [The scariest character on Halloween is crypto SCAM](https://dev.to/juergen_bergmann_4596516b/the-scariest-character-on-halloween-is-crypto-scam-39e3)
+- [Inventory management Desktop App Using ElectronJS](https://dev.to/devabdul/inventory-management-desktop-app-using-electronjs-5i1)
+- [Building A Scalable Advanced Email Templating System with @react-email and NestJS](https://dev.to/drbenzene/building-a-scalable-advanced-email-templating-system-with-react-email-and-nestjs-41fd)
+- [A Guide to Using Kalp Studio Explorer](https://dev.to/kalpstudio/a-guide-to-using-kalp-studio-explorer-3nn5)
+- [Took Part in the &quot;VOICE CONTROL REPLICA&quot; Challenge on UIVERSE.IO](https://dev.to/smitprajapati/took-part-in-the-voice-control-replica-challenge-on-uiverseio-19gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
