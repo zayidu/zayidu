@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial: Implementing Polyfills Promise.allSettled From Scratch in JavaScript](https://dev.to/mod_khalid_3558701aa1dc44/tutorial-implementing-promiseallsettled-from-scratch-in-javascript-pj0)
-- [&quot;Rate Limiting, Simplified&quot;: My Journey with Unkey, the Open-Source API Management Platform](https://dev.to/naprila/rate-limiting-simplified-my-journey-with-unkey-the-open-source-api-management-platform-11f)
-- [Developing an Expense Tracking App: A Case Study of Pocket Planner](https://dev.to/daviekim13/developing-an-expense-tracking-app-a-case-study-of-pocket-planner-1fdn)
-- [Exposing replica nodes in Percona Operator for PostgreSQL](https://dev.to/spronin/exposing-replica-nodes-in-percona-operator-for-postgresql-1fmh)
-- [Day 45. Time manipulation](https://dev.to/kiolk/day-45-time-manipulation-52g8)
+- [Configurando un proyecto de React para producción](https://dev.to/joshuacba08/configurando-un-proyecto-de-react-para-produccion-7hb)
+- [Understanding the &#39;use client&#39; Directive in Next.js: Client-Side Components Explained](https://dev.to/saeedniyabati/understanding-the-use-client-directive-in-nextjs-client-side-components-explained-309)
+- [Varying the unknown parameter with optimization criteria](https://dev.to/eyakema11/varying-the-unknown-parameter-with-optimization-criteria-5d0m)
+- [TypeScript: JavaScript&#39;s Superhero Cape](https://dev.to/baransel/typescript-javascripts-superhero-cape-32eg)
+- [Next.js 15 : Incremental Static Regeneration &lpar;ISR&rpar;](https://dev.to/sonaykara/nextjs-15-incremental-static-regeneration-isr-1hk4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
