@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 oVirt Backup Solution 2024](https://dev.to/vere_pru/top-5-ovirt-backup-solution-2024-cn4)
-- [In-House vs. Outsourced Web Hosting Support: Which is Right for Your Company?](https://dev.to/shelli/in-house-vs-outsourced-web-hosting-support-which-is-right-for-your-company-471o)
-- [100 AWS DevOps Interview Questions and Answers](https://dev.to/prodevopsguytech/100-aws-devops-interview-questions-and-answers-3g1i)
-- [Generative AI Call Center](https://dev.to/vng_bach/generative-ai-call-center-1po6)
-- [PRAGMA EXCEPTION_INIT | keyword in PLSQL | Exceptional Handling](https://dev.to/mrcaption49/pragma-exceptioninit-keyword-in-plsql-exceptional-handling-54dk)
+- [Retrospectives Done Right: How to Make Your Team Meetings Actually Matter](https://dev.to/devactivity-app/retrospectives-done-right-how-to-make-your-team-meetings-actually-matter-4309)
+- [THE M.O.I.S.T Principle](https://dev.to/sprutnums/the-moist-principle-56b5)
+- [Mastering Code Review in GitHub: Common Mistakes to Avoid](https://dev.to/gocodeo/mastering-code-review-in-github-common-mistakes-to-avoid-mf5)
+- [Types of Mechanical Keyboard Switches and Their Impact](https://dev.to/mysticcoder/types-of-mechanical-keyboard-switches-and-their-impact-2hil)
+- [C# advanced: Tuple Assignments](https://dev.to/moh_moh701/c-advanced-tuple-assignments-3kid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
