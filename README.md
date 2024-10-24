@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Broadcast Turbo Streams without Redis](https://dev.to/railsdesigner/broadcast-turbo-streams-without-redis-31i6)
-- [Avoid the busy people and focus on what-matters](https://dev.to/akotek/avoid-the-busy-people-and-focus-on-what-matters-3nio)
-- [Don&#39;t Let Cyber Risks Sink Your Business: A Survival Guide for the Digital Age 🚀](https://dev.to/enzo_dechaene/dont-let-cyber-risks-sink-your-business-a-survival-guide-for-the-digital-age-1hkg)
-- [How to Send an Ajax POST Request to a Laravel Route](https://dev.to/msh_sayket_6a8d9f36faac8a/how-to-send-an-ajax-post-request-to-a-laravel-route-1jl6)
-- [How to Compress Image Size in Laravel 11](https://dev.to/msh_sayket_6a8d9f36faac8a/how-to-compress-image-size-in-laravel-11-2888)
+- [My Experience at CodeAlpha: A Path to Practical Python Programming](https://dev.to/marium_haris_093559cd2d19/my-experience-at-codealpha-a-path-to-practical-python-programming-7n8)
+- [1 Year of Consistent LeetCoding](https://dev.to/davinderpalrehal/1-year-of-consistent-leetcoding-26d0)
+- [21 Must-Bookmark React GitHub Repositories Every React Developer Should Know](https://dev.to/safdarali/21-must-bookmark-react-github-repositories-every-react-developer-should-know-49fc)
+- [Meet Delphi Data Access Components New Release with RAD Studio 12.2 and Lazarus 3.4 Support](https://dev.to/devartteam/meet-delphi-data-access-components-new-release-with-rad-studio-122-and-lazarus-34-support-4fa1)
+- [What is Polymorphism in C# - Explained with a Code Example](https://dev.to/doabledanny/what-is-polymorphism-in-c-explained-with-a-code-example-38bm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
