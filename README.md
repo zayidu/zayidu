@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Retrospectives Done Right: How to Make Your Team Meetings Actually Matter](https://dev.to/devactivity-app/retrospectives-done-right-how-to-make-your-team-meetings-actually-matter-4309)
-- [THE M.O.I.S.T Principle](https://dev.to/sprutnums/the-moist-principle-56b5)
-- [Mastering Code Review in GitHub: Common Mistakes to Avoid](https://dev.to/gocodeo/mastering-code-review-in-github-common-mistakes-to-avoid-mf5)
-- [Types of Mechanical Keyboard Switches and Their Impact](https://dev.to/mysticcoder/types-of-mechanical-keyboard-switches-and-their-impact-2hil)
-- [C# advanced: Tuple Assignments](https://dev.to/moh_moh701/c-advanced-tuple-assignments-3kid)
+- [Khelo: From Streets to Stadiums - A Developer&#39;s Guide 🏏](https://dev.to/mayank_variya/khelo-from-streets-to-stadiums-a-developers-guide-18ka)
+- [Streaming Real-Time Data in Flutter: A Step-by-Step Guide for Developers](https://dev.to/mayank_variya/streaming-real-time-data-in-flutter-a-step-by-step-guide-for-developers-34eh)
+- [Handling Global Errors in Angular : A Simple App with Custom ErrorHandler](https://dev.to/manthanank/handling-global-errors-in-angular-a-simple-app-with-custom-errorhandler-4ak9)
+- [AI-Driven Background Removal: Streamlining Photography Workflows](https://dev.to/api4ai/ai-driven-background-removal-streamlining-photography-workflows-48en)
+- [How good is the new Claude 3.5 sonnet, and what is computer use?](https://dev.to/talepunk/how-good-is-the-new-claude-35-sonnet-and-what-is-computer-use-2moe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
