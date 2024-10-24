@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [EDD with event emitters](https://dev.to/cirlorm_io/edd-with-event-emitters-1paf)
-- [C# Clean Code: using var guide lines](https://dev.to/moh_moh701/c-clean-code-using-var-guide-lines-4hhe)
-- [How to host Browser.application projects](https://dev.to/dwayne/how-to-host-browserapplication-projects-2mk)
-- [Static Hosting on S3 w/ Cloudfront Distribution.](https://dev.to/neakoh/static-hosting-on-s3-w-cloudfront-distribution-j1k)
-- [How to Dockerize and Deploy Express.js APIs](https://dev.to/code42cate/how-to-dockerize-and-deploy-expressjs-apis-k5d)
+- [তরুণ উদ্যোক্তা এবং স্টার্টআপ: আমার কল্পনার জগতে একটি যাত্রা](https://dev.to/mahiamomo/trunn-udyoktaa-ebn-sttaarttaap-aamaar-klpnaar-jgte-ektti-yaatraa-408m)
+- [Create a Spooky Halloween-Themed Website with Our Interactive Template!](https://dev.to/arishn/create-a-spooky-halloween-themed-website-with-our-interactive-template-942)
+- [Procedure in PL/SQL | Best Explanation](https://dev.to/mrcaption49/procedure-in-plsql-best-explanation-4l96)
+- [Digital Marketing Industry Trends in 2024](https://dev.to/lakshay_kapoor_cb29df2403/digital-marketing-industry-trends-in-2024-oi7)
+- [Introducing DevPub a playground for designers and developers built with Wix.](https://dev.to/arize99/introducing-devpub-a-playground-for-designers-and-developers-built-with-wix-5bal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
