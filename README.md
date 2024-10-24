@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [DSA: Hash Table - Expanded Questions](https://dev.to/nozibul_islam_113b1d5334f/dsa-hash-table-expanded-questions-4f84)
+- [How Javascript works?](https://dev.to/diwakar_verma_381fc6e5e2f/how-javascript-works-eea)
+- [Stripe Checkout Session for custom products](https://dev.to/daveswork/stripe-checkout-session-for-custom-products-1gld)
 - [Step-by-Step Guide to Installing PostgreSQL on Arch Linux](https://dev.to/codingashish_dev/step-by-step-guide-to-installing-postgresql-on-arch-linux-3ked)
 - [Vulnerability-Free C and C++ Development in Automotive Manufacturing and Software Defined Vehicles &lpar;SDV&rpar;](https://dev.to/snyk/vulnerability-free-c-and-c-development-in-automotive-manufacturing-and-software-defined-vehicles-sdv-jm7)
-- [Getting Started with React Part 2 : Components, State, and Props](https://dev.to/kyydev/getting-started-with-react-part-2-components-state-and-props-5g9d)
-- [The Art of Problem-Solving](https://dev.to/this_mkhy/the-art-of-problem-solving-3g0b)
-- [Which Cloud Platform to choose? Confused!!!](https://dev.to/shreyanmaity/which-cloud-platform-to-choose-confused-500j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
