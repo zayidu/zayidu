@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The scariest character on Halloween is crypto SCAM](https://dev.to/juergen_bergmann_4596516b/the-scariest-character-on-halloween-is-crypto-scam-39e3)
-- [Inventory management Desktop App Using ElectronJS](https://dev.to/devabdul/inventory-management-desktop-app-using-electronjs-5i1)
-- [Building A Scalable Advanced Email Templating System with @react-email and NestJS](https://dev.to/drbenzene/building-a-scalable-advanced-email-templating-system-with-react-email-and-nestjs-41fd)
-- [A Guide to Using Kalp Studio Explorer](https://dev.to/kalpstudio/a-guide-to-using-kalp-studio-explorer-3nn5)
-- [Took Part in the &quot;VOICE CONTROL REPLICA&quot; Challenge on UIVERSE.IO](https://dev.to/smitprajapati/took-part-in-the-voice-control-replica-challenge-on-uiverseio-19gl)
+- [Static Keyword: Accessing Static and Non-Static Members in Methods](https://dev.to/arshisaxena26/static-keyword-accessing-static-and-non-static-members-in-methods-p2a)
+- [Top Threats for AI/ML Development and How to Eliminate Them](https://dev.to/kitops/top-threats-for-aiml-development-and-how-to-eliminate-them-3a0)
+- [Automation - Using Python to Interact with Excel](https://dev.to/techelopment/automation-using-python-to-interact-with-excel-4cck)
+- [Testcontainers MongoDB ReplicaSet](https://dev.to/carc/testcontainers-mongodb-replicaset-4koa)
+- [Technical Interview Questions - Part 2 - Typescript](https://dev.to/giulianaolmos/technical-interview-questions-part-2-typescript-1njn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
