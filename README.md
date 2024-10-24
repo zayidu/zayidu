@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [express-go](https://dev.to/brunociccarino/express-go-2akn)
-- [Understanding and Using Javascript Console API in Detail](https://dev.to/sonaykara/understanding-and-using-javascript-console-api-in-detail-25a9)
-- [Project 2 - Design and Implementation](https://dev.to/aqeelakbari/project-2-design-and-implementation-1f46)
-- [Mediator and CQRS with MediatR](https://dev.to/kinneko-de/mediator-and-cqrs-with-mediatr-278c)
-- [BusinessValue with CQS](https://dev.to/kinneko-de/businessvalue-with-cqs-51p2)
+- [Building Serverless APIs with AWS API Gateway](https://dev.to/kartikmehta8/building-serverless-apis-with-aws-api-gateway-1c9n)
+- [Teoria do Caos Aplicada à Cloud Computing: Entendendo o Impacto do Caos na Infraestrutura em Nuvem](https://dev.to/n1ghtm4r33/teoria-do-caos-aplicada-a-cloud-computing-entendendo-o-impacto-do-caos-na-infraestrutura-em-nuvem-4j2n)
+- [Liskov Substitution Principle in C# with Bird Example](https://dev.to/dotnetfullstackdev/liskov-substitution-principle-in-c-with-bird-example-38ia)
+- [Learn TDD with Ruby - Loops, Blocks and Strings](https://dev.to/meleu/learn-tdd-with-ruby-loops-blocks-and-strings-36he)
+- [Programming Inspiration &amp; Motivation on LinkedIn](https://dev.to/laura_mbogo_fd086556a7ede/programming-inspiration-motivation-on-linkedin-1j6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
