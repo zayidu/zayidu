@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [End Point Security Solutions](https://dev.to/certcube/end-point-security-solutions-4o17)
-- [Mine 14 dage med Cursor](https://dev.to/sprutnums/mine-14-dage-med-cursor-1oh3)
-- [7 Principper for Microservices](https://dev.to/sprutnums/7-principper-for-microservices-ca6)
-- [المسح الأمني للكود باستخدام Amazon Q Developer](https://dev.to/aws-3arabi/lmsh-lmny-llkwd-bstkhdm-amazon-q-developer-4jcj)
-- [端口监控电话告警脚本](https://dev.to/alfredcl/duan-kou-jian-kong-dian-hua-gao-jing-jiao-ben-26cj)
+- [The Callback Hell, Writing Cleaner Asynchronous JavaScript](https://dev.to/shafayeat/the-callback-hell-writing-cleaner-asynchronous-javascript-5d7l)
+- [Designing Reliable CI CD Pipelines for Faster, Error-Free Software Releases](https://dev.to/getambassador2024/designing-reliable-ci-cd-pipelines-for-faster-error-free-software-releases-13g1)
+- [Netex Server ve Netex Sensör Kurulumu](https://dev.to/aciklab/netex-server-ve-netex-sensor-kurulumu-b5h)
+- [AI in Law and Governance: Mohammad S A A Alothman and AI Tech Solutions Lead the Discussion](https://dev.to/schoolies_thailand_950c08/ai-in-law-and-governance-mohammad-s-a-a-alothman-and-ai-tech-solutions-lead-the-discussion-5d0e)
+- [A Comprehensive Guide to Choosing Between Appium and XCTest &lpar;UI&rpar; for iOS App Testing](https://dev.to/jennife05918349/a-comprehensive-guide-to-choosing-between-appium-and-xctest-ui-for-ios-app-testing-2gln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
