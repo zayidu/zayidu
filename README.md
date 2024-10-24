@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience at CodeAlpha: A Path to Practical Python Programming](https://dev.to/marium_haris_093559cd2d19/my-experience-at-codealpha-a-path-to-practical-python-programming-7n8)
-- [1 Year of Consistent LeetCoding](https://dev.to/davinderpalrehal/1-year-of-consistent-leetcoding-26d0)
-- [21 Must-Bookmark React GitHub Repositories Every React Developer Should Know](https://dev.to/safdarali/21-must-bookmark-react-github-repositories-every-react-developer-should-know-49fc)
-- [Meet Delphi Data Access Components New Release with RAD Studio 12.2 and Lazarus 3.4 Support](https://dev.to/devartteam/meet-delphi-data-access-components-new-release-with-rad-studio-122-and-lazarus-34-support-4fa1)
-- [What is Polymorphism in C# - Explained with a Code Example](https://dev.to/doabledanny/what-is-polymorphism-in-c-explained-with-a-code-example-38bm)
+- [Exploring Swift for iOS Development](https://dev.to/swematic/exploring-swift-for-ios-development-2l3o)
+- [Install of Packages with NPM-Store Using AWS CodeArtifact](https://dev.to/aws-builders/install-of-packages-with-npm-store-using-aws-codeartifact-29lp)
+- [Two ways to use Pester to Mock objects with strongly typed parameters](https://dev.to/markwragg/two-ways-to-use-pester-to-mock-objects-with-strongly-typed-parameters-31n7)
+- [Auditing Healthcare Compliance Programs: A Comprehensive Guide](https://dev.to/romanburdiuzha/auditing-healthcare-compliance-programs-a-comprehensive-guide-3fij)
+- [Regrets Every Programmer Faces: Lessons for Aspiring Coders](https://dev.to/tutortacademy/regrets-every-programmer-faces-lessons-for-aspiring-coders-4lc5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
