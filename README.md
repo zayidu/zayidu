@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Static Keyword: Accessing Static and Non-Static Members in Methods](https://dev.to/arshisaxena26/static-keyword-accessing-static-and-non-static-members-in-methods-p2a)
-- [Top Threats for AI/ML Development and How to Eliminate Them](https://dev.to/kitops/top-threats-for-aiml-development-and-how-to-eliminate-them-3a0)
-- [Automation - Using Python to Interact with Excel](https://dev.to/techelopment/automation-using-python-to-interact-with-excel-4cck)
-- [Testcontainers MongoDB ReplicaSet](https://dev.to/carc/testcontainers-mongodb-replicaset-4koa)
-- [Technical Interview Questions - Part 2 - Typescript](https://dev.to/giulianaolmos/technical-interview-questions-part-2-typescript-1njn)
+- [Item 66: Utilize os métodos nativos com sabedoria](https://dev.to/giselecoder/item-66-utilize-os-metodos-nativos-com-sabedoria-4j37)
+- [Item 65: Dê preferência às interfaces em vez da reflexão](https://dev.to/giselecoder/item-65-de-preferencia-as-interfaces-em-vez-da-reflexao-odp)
+- [Why Should You Choose Linux OS If You Are Programmer?](https://dev.to/zlaam/why-should-you-choose-linux-os-if-you-are-programmer-k20)
+- [AZ-104: Monitoring and Backing Up Azure Resources – Complete Guide](https://dev.to/i_am_vesh/az-104-monitoring-and-backing-up-azure-resources-complete-guide-1jel)
+- [AWS Cost Optimization: A Practical Guide to Maximizing Efficiency](https://dev.to/cloudforce/aws-cost-optimization-a-practical-guide-to-maximizing-efficiency-13dk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
