@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Configurando un proyecto de React para producción](https://dev.to/joshuacba08/configurando-un-proyecto-de-react-para-produccion-7hb)
-- [Understanding the &#39;use client&#39; Directive in Next.js: Client-Side Components Explained](https://dev.to/saeedniyabati/understanding-the-use-client-directive-in-nextjs-client-side-components-explained-309)
-- [Varying the unknown parameter with optimization criteria](https://dev.to/eyakema11/varying-the-unknown-parameter-with-optimization-criteria-5d0m)
-- [TypeScript: JavaScript&#39;s Superhero Cape](https://dev.to/baransel/typescript-javascripts-superhero-cape-32eg)
-- [Next.js 15 : Incremental Static Regeneration &lpar;ISR&rpar;](https://dev.to/sonaykara/nextjs-15-incremental-static-regeneration-isr-1hk4)
+- [Prompt Engineering &lpar;For Lazy Programmers&rpar;: Getting Exactly the Code You Want &lpar;and Even More, Out of ChatGPT&rpar;](https://dev.to/jamesbright/prompt-engineering-for-lazy-programmers-getting-exactly-the-code-you-want-and-even-more-out-of-chatgpt-3plf)
+- [How to Route Multiple Paystack Webhooks with one Webhook URL](https://dev.to/devlawrence/how-to-route-multiple-paystack-webhooks-with-one-webhook-url-1d2m)
+- [I created a video tutorial on how to make a responsive sidebar using CSS and vanilla Javascript](https://dev.to/laustke/i-created-a-video-tutorial-on-how-to-make-a-responsive-sidebar-using-css-and-vanilla-javascript-3ofi)
+- [Building a Single-Page App with a New Paradigm Using TargetJ](https://dev.to/ahmad_wasfi_f88513699c56d/building-a-single-page-app-with-a-new-paradigm-using-targetj-5h80)
+- [5 Essential Software Metrics for Quality Assurance](https://dev.to/geraldhamiltonwicks/5-essential-software-metrics-for-quality-assurance-73g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
