@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Update Node.js](https://dev.to/xxzeroxx/how-to-update-nodejs-5d6d)
-- [Código, Paixão e Determinação: O Estilo Ayrton Senna na Tecnologia](https://dev.to/ruanvictordev/codigo-paixao-e-determinacao-o-estilo-ayrton-senna-na-tecnologia-k9h)
-- [Introduction to WebClient in Java 17: A Modern Way to Handle HTTP Requests](https://dev.to/matheusmartinello/introduction-to-webclient-in-java-17-a-modern-way-to-handle-http-requests-1h16)
-- [analyzeSizeChange script in tRPC source code](https://dev.to/thinkthroo/analyzesizechange-script-in-trpc-source-code-15cg)
-- [Recursive Common Table Expressions &lpar;CTEs&rpar; | Employee and Manager Hierarchy example](https://dev.to/mrcaption49/recursive-common-table-expressions-ctes-employee-and-manager-hierarchy-example-22bk)
+- [VRPG day 1](https://dev.to/vctrsmelo/vrpg-day-1-968)
+- [The Secret to Fast Typing on the Game Boy: Here’s How I Did It!](https://dev.to/cleggacus/the-secret-to-fast-typing-on-the-game-boy-heres-how-i-did-it-ohh)
+- [My First Time Participating in Hacktoberfest: A Journey into Open Source](https://dev.to/abdullah-k18/my-first-time-participating-in-hacktoberfest-a-journey-into-open-source-589l)
+- [Scaling Web-Socket to million users](https://dev.to/wiledw/scaling-web-socket-to-million-users-57da)
+- [AWS DATA ENGINEER - 101](https://dev.to/sajjadrahman56/aws-data-engineer-101-58j3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
