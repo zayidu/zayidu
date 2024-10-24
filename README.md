@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Swift for iOS Development](https://dev.to/swematic/exploring-swift-for-ios-development-2l3o)
-- [Install of Packages with NPM-Store Using AWS CodeArtifact](https://dev.to/aws-builders/install-of-packages-with-npm-store-using-aws-codeartifact-29lp)
-- [Two ways to use Pester to Mock objects with strongly typed parameters](https://dev.to/markwragg/two-ways-to-use-pester-to-mock-objects-with-strongly-typed-parameters-31n7)
-- [Auditing Healthcare Compliance Programs: A Comprehensive Guide](https://dev.to/romanburdiuzha/auditing-healthcare-compliance-programs-a-comprehensive-guide-3fij)
-- [Regrets Every Programmer Faces: Lessons for Aspiring Coders](https://dev.to/tutortacademy/regrets-every-programmer-faces-lessons-for-aspiring-coders-4lc5)
+- [How to Update Node.js](https://dev.to/xxzeroxx/how-to-update-nodejs-5d6d)
+- [Código, Paixão e Determinação: O Estilo Ayrton Senna na Tecnologia](https://dev.to/ruanvictordev/codigo-paixao-e-determinacao-o-estilo-ayrton-senna-na-tecnologia-k9h)
+- [Introduction to WebClient in Java 17: A Modern Way to Handle HTTP Requests](https://dev.to/matheusmartinello/introduction-to-webclient-in-java-17-a-modern-way-to-handle-http-requests-1h16)
+- [analyzeSizeChange script in tRPC source code](https://dev.to/thinkthroo/analyzesizechange-script-in-trpc-source-code-15cg)
+- [Recursive Common Table Expressions &lpar;CTEs&rpar; | Employee and Manager Hierarchy example](https://dev.to/mrcaption49/recursive-common-table-expressions-ctes-employee-and-manager-hierarchy-example-22bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
