@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Khelo: From Streets to Stadiums - A Developer&#39;s Guide 🏏](https://dev.to/mayank_variya/khelo-from-streets-to-stadiums-a-developers-guide-18ka)
-- [Streaming Real-Time Data in Flutter: A Step-by-Step Guide for Developers](https://dev.to/mayank_variya/streaming-real-time-data-in-flutter-a-step-by-step-guide-for-developers-34eh)
-- [Handling Global Errors in Angular : A Simple App with Custom ErrorHandler](https://dev.to/manthanank/handling-global-errors-in-angular-a-simple-app-with-custom-errorhandler-4ak9)
-- [AI-Driven Background Removal: Streamlining Photography Workflows](https://dev.to/api4ai/ai-driven-background-removal-streamlining-photography-workflows-48en)
-- [How good is the new Claude 3.5 sonnet, and what is computer use?](https://dev.to/talepunk/how-good-is-the-new-claude-35-sonnet-and-what-is-computer-use-2moe)
+- [EDD with event emitters](https://dev.to/cirlorm_io/edd-with-event-emitters-1paf)
+- [C# Clean Code: using var guide lines](https://dev.to/moh_moh701/c-clean-code-using-var-guide-lines-4hhe)
+- [How to host Browser.application projects](https://dev.to/dwayne/how-to-host-browserapplication-projects-2mk)
+- [Static Hosting on S3 w/ Cloudfront Distribution.](https://dev.to/neakoh/static-hosting-on-s3-w-cloudfront-distribution-j1k)
+- [How to Dockerize and Deploy Express.js APIs](https://dev.to/code42cate/how-to-dockerize-and-deploy-expressjs-apis-k5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
