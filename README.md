@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS open source newsletter, #204](https://dev.to/aws/aws-open-source-newsletter-204-4pgg)
-- [Could you briefly tell us about yourself and your background?](https://dev.to/abdibrokhim/could-you-briefly-tell-us-about-yourself-and-your-background-16ko)
-- [MintSwap DEX Launch: Unleashing a New Era of Decentralized Trading](https://dev.to/mint_/mintswap-dex-launch-unleashing-a-new-era-of-decentralized-trading-4b63)
-- [Real-Time Processing of Big Data: Tools and Best Practices](https://dev.to/hana_sato/real-time-processing-of-big-data-tools-and-best-practices-2mho)
-- [8 System Design Couress to learn Distributed System Architecture &lpar;2025&rpar;](https://dev.to/somadevtoo/8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81)
+- [Mastering a New Programming Language: The Ultimate Guide to Consistent Learning and Real-World Growth.](https://dev.to/navneet_verma/mastering-a-new-programming-language-the-ultimate-guide-to-consistent-learning-and-real-world-growth-5co0)
+- [Understanding CSS Sibling Selectors: A Beginner’s Guide](https://dev.to/vincentchosen/understanding-css-sibling-selectors-a-beginners-guide-3al)
+- [SEO from a Newbie for Beginners](https://dev.to/asodev/seo-from-a-newbie-for-beginners-bc6)
+- [✨8 Powerful Open-Source tools for Creating Accessible Web Apps ✨](https://dev.to/tolgee_i18n/8-powerful-open-source-tools-for-creating-accessible-web-apps-ig3)
+- [JavaScript Code Ethics: Writing Clean, Ethical Code](https://dev.to/pavithra_sandamini/javascript-code-ethics-writing-clean-ethical-code-2nk8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
