@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rest Assured Basics: A Beginner&#39;s Guide to Automated API Testing in Java](https://dev.to/jignect_technologies/rest-assured-basics-a-beginners-guide-to-automated-api-testing-in-java-jn0)
-- [Unlock the Power of Database Systems with UC Berkeley&#39;s CS 186 Course! 🔍](https://dev.to/getvm/unlock-the-power-of-database-systems-with-uc-berkeleys-cs-186-course-4gk5)
-- [How to choose the right Fixed Asset Management Software?](https://dev.to/seleam/how-to-choose-the-right-fixed-asset-management-software-3ipi)
-- [How to Set Up Effective Workflows with Zapier Experts](https://dev.to/neotechy/how-to-set-up-effective-workflows-with-zapier-experts-11mp)
-- [Beginner&#39;s Roadmap to Test Automation: Playwright and TypeScript Made Simple](https://dev.to/jignect_technologies/beginners-roadmap-to-test-automation-playwright-and-typescript-made-simple-1bcb)
+- [Deploy AI medical copilot and access it to PowerApps](https://dev.to/seenakhan/deploy-ai-medical-copilot-and-access-it-to-powerapps-50mk)
+- [Remote Patient Monitoring Software Development: Transforming Modern Healthcare](https://dev.to/evelynwyatt/remote-patient-monitoring-software-development-transforming-modern-healthcare-2chj)
+- [YajraBox Laravel DataTables: Building a Tags Management System](https://dev.to/asfiaaiman/yajrabox-laravel-datatables-building-a-tags-management-system-73b)
+- [LLM Storage Selection &amp; Detailed Performance Analysis of JuiceFS](https://dev.to/daswu/llm-storage-selection-detailed-performance-analysis-of-juicefs-kp6)
+- [How to Encrypt JavaScript Code for Web Security](https://dev.to/carrie_luo1/how-to-encrypt-javascript-code-for-web-security-19kk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
