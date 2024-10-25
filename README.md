@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Essential Problem-Solving Patterns in C++](https://dev.to/hrshihab/20-essential-problem-solving-patterns-in-c-mfb)
-- [Building Better Software: The Importance of Clean Code](https://dev.to/susheel_kumar/building-better-software-the-importance-of-clean-code-391k)
-- [Lessons from 15 Years of Software Development](https://dev.to/devot/lessons-from-15-years-of-software-development-57c6)
-- [Fix Synaptic mousepad/touchpad](https://dev.to/jrmsanden/fix-synaptic-mousepadtouchpad-1ifl)
-- [Seeking Feedback on New Programming Language Design](https://dev.to/mostafa_asghari_b4d58aad8/seeking-feedback-on-new-programming-language-design-362c)
+- [Rest Assured Basics: A Beginner&#39;s Guide to Automated API Testing in Java](https://dev.to/jignect_technologies/rest-assured-basics-a-beginners-guide-to-automated-api-testing-in-java-jn0)
+- [Unlock the Power of Database Systems with UC Berkeley&#39;s CS 186 Course! 🔍](https://dev.to/getvm/unlock-the-power-of-database-systems-with-uc-berkeleys-cs-186-course-4gk5)
+- [How to choose the right Fixed Asset Management Software?](https://dev.to/seleam/how-to-choose-the-right-fixed-asset-management-software-3ipi)
+- [How to Set Up Effective Workflows with Zapier Experts](https://dev.to/neotechy/how-to-set-up-effective-workflows-with-zapier-experts-11mp)
+- [Beginner&#39;s Roadmap to Test Automation: Playwright and TypeScript Made Simple](https://dev.to/jignect_technologies/beginners-roadmap-to-test-automation-playwright-and-typescript-made-simple-1bcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
