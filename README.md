@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Passwordless Facial Authentication on Websites! &lpar;FACEIO&rpar;](https://dev.to/codewithshahan/passwordless-facial-authentication-on-websites-faceio-3i1p)
-- [Running AI locally in your users&#39; browsers](https://dev.to/miguelaeh/running-ai-locally-in-your-users-browsers-2b4e)
-- [Tips to Create Project Timelines in Architecture &amp; Real Estate Development Projects](https://dev.to/thomasy0ung/tips-to-create-project-timelines-in-architecture-real-estate-development-projects-2pml)
-- [The 11 Best Open-Source Performance Testing Tools](https://dev.to/apilover/the-11-best-open-source-performance-testing-tools-3pnh)
-- [DSA: Graph Theory Questions for Interviews and Practice](https://dev.to/nozibul_islam_113b1d5334f/dsa-graph-theory-questions-for-interviews-and-practice-3fib)
+- [GitHub CLI Extension for Conventional Commits](https://dev.to/robvanderleek/github-cli-extension-for-conventional-commits-4983)
+- [Validação Simples e Fluente com FluentValidation](https://dev.to/juarezasjunior/validacao-simples-e-fluente-com-fluentvalidation-cj0)
+- [Simple and Fluent Validation with FluentValidation](https://dev.to/juarezasjunior/simple-and-fluent-validation-with-fluentvalidation-5014)
+- [Negotiating Like a Pro: Maximizing Your Tech Compensation Package](https://dev.to/techbalance_collective/negotiating-like-a-pro-maximizing-your-tech-compensation-package-38ed)
+- [Things Ru Paul probably didn’t say about software testing or quality…](https://dev.to/ajparadith/things-ru-paul-probably-didnt-say-about-software-testing-or-quality-5goc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
