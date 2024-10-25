@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Python&#39;s Logging Module](https://dev.to/kartikmehta8/mastering-pythons-logging-module-5an8)
-- [Sagemaker model registry IAM policy](https://dev.to/sharma_yogesh/sagemaker-model-registry-iam-policy-2jpm)
-- [Optimize VUE packaing by external importing to reduce the page loading time greatly for ESP8266 programmable controller.](https://dev.to/zhangzhuyue/optimize-vue-packaing-by-external-importing-to-reduce-the-page-loading-time-greatly-for-esp8266-programmable-controller-3adb)
-- [Understanding Go through the Lens of TypeScript/JavaScript](https://dev.to/aixart/understanding-go-through-the-lens-of-typescriptjavascript-3a6n)
-- [Top 10 Underappreciated LINQ Methods](https://dev.to/dotnetfullstackdev/top-10-underappreciated-linq-methods-149c)
+- [Breaking Curse of Knowledge](https://dev.to/rickvian/breaking-curse-of-knowledge-af4)
+- [My Hacktoberfest 2024 Experience: Pushing Boundaries with C# 12 and .NET 8 🚀](https://dev.to/ngtduc693/my-hacktoberfest-2024-experience-pushing-boundaries-with-c-12-and-net-8-29n0)
+- [How to Create 3D System Architecture Diagrams with Nested Subscenes](https://dev.to/_2082ca7cc65434467c4fb/how-to-create-3d-system-architecture-diagrams-with-nested-subscenes-3m2b)
+- [How to Create an Animatable 3D System Architecture Diagram](https://dev.to/_2082ca7cc65434467c4fb/how-to-create-an-animatable-3d-system-architecture-diagram-3fkp)
+- [How to Create a 3D System Architecture Diagram](https://dev.to/_2082ca7cc65434467c4fb/how-to-create-a-3d-system-architecture-diagram-59a9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
