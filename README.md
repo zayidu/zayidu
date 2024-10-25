@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing &quot;On The Board&quot;](https://dev.to/codemouse92/introducing-on-the-board-40p2)
-- [Idempotent: What does this means?](https://dev.to/alsongarbuja/idempotent-what-does-this-means-264i)
-- [🎉 Cheers to 10,000 Views – Thank You to Our .NET Full Stack Dev Family! 🎉](https://dev.to/dotnetfullstackdev/cheers-to-10000-views-thank-you-to-our-net-full-stack-dev-family-4p08)
-- [10 Top AI-Powered Tools UI/UX Designers Should Master in 2025](https://dev.to/softwaredevelopmentinsights/10-top-ai-powered-tools-uiux-designers-should-master-in-2025-42d8)
-- [Security Best Practices for Node.js Applications](https://dev.to/imsushant12/security-best-practices-for-nodejs-applications-24mf)
+- [Milvus Adventures October 25, 2024](https://dev.to/chrischurilo/milvus-adventures-october-25-2024-58kd)
+- [Static Keyword: Overloading, Overriding, and the Role of this and super](https://dev.to/arshisaxena26/static-keyword-overloading-overriding-and-the-role-of-this-and-super-3l8k)
+- [How to take string input in c](https://dev.to/mujahida_joynab_64c7407d8/how-to-take-string-input-in-c-29ba)
+- [Learn AWS DevOps from Zero: A Complete Beginner’s Guide](https://dev.to/prodevopsguytech/learn-aws-devops-from-zero-a-complete-beginners-guide-1gl2)
+- [Penetration Testing | Kali Linux | Metasploitable2 | Hands-on Cybersecurity Lab](https://dev.to/labex/penetration-testing-kali-linux-metasploitable2-hands-on-cybersecurity-lab-21be)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
