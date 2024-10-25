@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock the Power of GitHub: Boost Your Resume and Career!](https://dev.to/creds/unlock-the-power-of-github-boost-your-resume-and-career-4jej)
-- [How a Time Clock App With GPS Can Boost Workforce Productivity?](https://dev.to/anurag_bhagsain_908641e9d/how-a-time-clock-app-with-gps-can-boost-workforce-productivity-2fo)
-- [How to write dirty code](https://dev.to/sprutnums/how-to-write-dirty-code-mpm)
-- [IN | OUT | IN/OUT parameters in Oracle SQL](https://dev.to/mrcaption49/in-out-inout-parameters-in-oracle-sql-e6h)
-- [Keys in SQL](https://dev.to/mrcaption49/keys-in-sql-1e2b)
+- [20 Essential Problem-Solving Patterns in C++](https://dev.to/hrshihab/20-essential-problem-solving-patterns-in-c-mfb)
+- [Building Better Software: The Importance of Clean Code](https://dev.to/susheel_kumar/building-better-software-the-importance-of-clean-code-391k)
+- [Lessons from 15 Years of Software Development](https://dev.to/devot/lessons-from-15-years-of-software-development-57c6)
+- [Fix Synaptic mousepad/touchpad](https://dev.to/jrmsanden/fix-synaptic-mousepadtouchpad-1ifl)
+- [Seeking Feedback on New Programming Language Design](https://dev.to/mostafa_asghari_b4d58aad8/seeking-feedback-on-new-programming-language-design-362c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
