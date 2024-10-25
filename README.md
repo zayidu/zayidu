@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Engineering &lpar;For Lazy Programmers&rpar;: Getting Exactly the Code You Want &lpar;and Even More, Out of ChatGPT&rpar;](https://dev.to/jamesbright/prompt-engineering-for-lazy-programmers-getting-exactly-the-code-you-want-and-even-more-out-of-chatgpt-3plf)
-- [How to Route Multiple Paystack Webhooks with one Webhook URL](https://dev.to/devlawrence/how-to-route-multiple-paystack-webhooks-with-one-webhook-url-1d2m)
-- [I created a video tutorial on how to make a responsive sidebar using CSS and vanilla Javascript](https://dev.to/laustke/i-created-a-video-tutorial-on-how-to-make-a-responsive-sidebar-using-css-and-vanilla-javascript-3ofi)
-- [Building a Single-Page App with a New Paradigm Using TargetJ](https://dev.to/ahmad_wasfi_f88513699c56d/building-a-single-page-app-with-a-new-paradigm-using-targetj-5h80)
-- [5 Essential Software Metrics for Quality Assurance](https://dev.to/geraldhamiltonwicks/5-essential-software-metrics-for-quality-assurance-73g)
+- [Mastering Python&#39;s Logging Module](https://dev.to/kartikmehta8/mastering-pythons-logging-module-5an8)
+- [Sagemaker model registry IAM policy](https://dev.to/sharma_yogesh/sagemaker-model-registry-iam-policy-2jpm)
+- [Optimize VUE packaing by external importing to reduce the page loading time greatly for ESP8266 programmable controller.](https://dev.to/zhangzhuyue/optimize-vue-packaing-by-external-importing-to-reduce-the-page-loading-time-greatly-for-esp8266-programmable-controller-3adb)
+- [Understanding Go through the Lens of TypeScript/JavaScript](https://dev.to/aixart/understanding-go-through-the-lens-of-typescriptjavascript-3a6n)
+- [Top 10 Underappreciated LINQ Methods](https://dev.to/dotnetfullstackdev/top-10-underappreciated-linq-methods-149c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
