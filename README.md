@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy AI medical copilot and access it to PowerApps](https://dev.to/seenakhan/deploy-ai-medical-copilot-and-access-it-to-powerapps-50mk)
-- [Remote Patient Monitoring Software Development: Transforming Modern Healthcare](https://dev.to/evelynwyatt/remote-patient-monitoring-software-development-transforming-modern-healthcare-2chj)
-- [YajraBox Laravel DataTables: Building a Tags Management System](https://dev.to/asfiaaiman/yajrabox-laravel-datatables-building-a-tags-management-system-73b)
-- [LLM Storage Selection &amp; Detailed Performance Analysis of JuiceFS](https://dev.to/daswu/llm-storage-selection-detailed-performance-analysis-of-juicefs-kp6)
-- [How to Encrypt JavaScript Code for Web Security](https://dev.to/carrie_luo1/how-to-encrypt-javascript-code-for-web-security-19kk)
+- [AWS open source newsletter, #204](https://dev.to/aws/aws-open-source-newsletter-204-4pgg)
+- [Could you briefly tell us about yourself and your background?](https://dev.to/abdibrokhim/could-you-briefly-tell-us-about-yourself-and-your-background-16ko)
+- [MintSwap DEX Launch: Unleashing a New Era of Decentralized Trading](https://dev.to/mint_/mintswap-dex-launch-unleashing-a-new-era-of-decentralized-trading-4b63)
+- [Real-Time Processing of Big Data: Tools and Best Practices](https://dev.to/hana_sato/real-time-processing-of-big-data-tools-and-best-practices-2mho)
+- [8 System Design Couress to learn Distributed System Architecture &lpar;2025&rpar;](https://dev.to/somadevtoo/8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
