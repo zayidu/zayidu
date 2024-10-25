@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you take the first steps in a daunting and complicated software project?](https://dev.to/ben/how-do-you-take-the-first-steps-in-a-daunting-and-complicated-software-project-209)
-- [Login/cadastro com firebase + Vue JS #PASSO 3️⃣ &lpar;login&rpar;](https://dev.to/jacksonsantin/logincadastro-com-firebase-vue-js-passo-3-login-24jp)
-- [Login/cadastro com firebase + Vue JS #PASSO 2️⃣ &lpar;cadastro&rpar;](https://dev.to/jacksonsantin/logincadastro-com-firebase-vue-js-passo-2-cadastro-4io7)
-- [Three valid ways to structure your simple to do list app &lpar;and one stupid one&rpar;.](https://dev.to/kevklatman/three-valid-ways-to-structure-your-simple-to-do-list-app-and-one-stupid-one-58c6)
-- [How Mastering Async JavaScript Can Make You a Better Developer Fast](https://dev.to/safdarali/how-mastering-async-javascript-can-make-you-a-better-developer-fast-21pj)
+- [Introducing &quot;On The Board&quot;](https://dev.to/codemouse92/introducing-on-the-board-40p2)
+- [Idempotent: What does this means?](https://dev.to/alsongarbuja/idempotent-what-does-this-means-264i)
+- [🎉 Cheers to 10,000 Views – Thank You to Our .NET Full Stack Dev Family! 🎉](https://dev.to/dotnetfullstackdev/cheers-to-10000-views-thank-you-to-our-net-full-stack-dev-family-4p08)
+- [10 Top AI-Powered Tools UI/UX Designers Should Master in 2025](https://dev.to/softwaredevelopmentinsights/10-top-ai-powered-tools-uiux-designers-should-master-in-2025-42d8)
+- [Security Best Practices for Node.js Applications](https://dev.to/imsushant12/security-best-practices-for-nodejs-applications-24mf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
