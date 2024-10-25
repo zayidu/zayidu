@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Shift Testing Left Part 2: QA Does More After Devs Run Tests](https://dev.to/signadot/why-shift-testing-left-part-2-qa-does-more-after-devs-run-tests-573i)
-- [SQL-92 in TPC Benchmarks: Are They Still Relevant?](https://dev.to/aws-heroes/sql-92-in-tpc-benchmarks-are-they-still-relevant-4ein)
-- [Understanding HTML: A Developer&#39;s Guide](https://dev.to/zionstone0909/understanding-html-a-developers-guide-145)
-- [WebP to PNG: Understanding the Differences and When to Use Each](https://dev.to/smartdev72/webp-to-png-understanding-the-differences-and-when-to-use-each-3799)
-- [PNG vs WebP: Choosing the Right Format for Web Images](https://dev.to/smartdev72/png-vs-webp-choosing-the-right-format-for-web-images-5d7l)
+- [Security news weekly round-up - 25th October 2024](https://dev.to/ziizium/security-news-weekly-round-up-25th-october-2024-3me8)
+- [Cross-Posting and Portfolio Project Update: Optimizing API Calls and Implementing Best Practices](https://dev.to/jesse_chong_3bcc276c4f950/cross-posting-and-portfolio-project-update-optimizing-api-calls-and-implementing-best-practices-23mb)
+- [Understanding and Resolving npm Dependency Conflicts: A Developer&#39;s Guide](https://dev.to/gentritbiba/understanding-and-resolving-npm-dependency-conflicts-a-developers-guide-3c33)
+- [Delving into Gaussian Integers: Cracking Project Euler Problem 153](https://dev.to/gentritbiba/delving-into-gaussian-integers-cracking-project-euler-problem-153-4hcl)
+- [GIF vs JPG: Choosing the Right Format for Your Images](https://dev.to/smartdev72/gif-vs-jpg-choosing-the-right-format-for-your-images-1ae5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
