@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PIE: Simulating a PID Controller in Python](https://dev.to/klarity/pie-simulating-a-pid-controller-in-python-4eip)
-- [Deploying NestJS Application using Vercel and Supabase](https://dev.to/abayomijohn273/deploying-nestjs-application-using-vercel-and-supabase-3n7m)
-- [A Comprehensive Guide to Using Kalp Instant Deployer](https://dev.to/kalpstudio/a-comprehensive-guide-to-using-kalp-instant-deployer-3pm1)
-- [Hyper-V Servis Kullanıcısı Yönetimi ve Ağ Keşif Eklentisinde Konektör Taraması](https://dev.to/aciklab/hyper-v-servis-kullanicisi-yonetimi-ve-ag-kesif-eklentisinde-konektor-taramasi-2n0o)
-- [8 open-source tools to build your next AI SaaS app 🔥 🚀](https://dev.to/nevodavid/8-open-source-tools-to-build-your-next-ai-saas-app-11ip)
+- [How do you take the first steps in a daunting and complicated software project?](https://dev.to/ben/how-do-you-take-the-first-steps-in-a-daunting-and-complicated-software-project-209)
+- [Login/cadastro com firebase + Vue JS #PASSO 3️⃣ &lpar;login&rpar;](https://dev.to/jacksonsantin/logincadastro-com-firebase-vue-js-passo-3-login-24jp)
+- [Login/cadastro com firebase + Vue JS #PASSO 2️⃣ &lpar;cadastro&rpar;](https://dev.to/jacksonsantin/logincadastro-com-firebase-vue-js-passo-2-cadastro-4io7)
+- [Three valid ways to structure your simple to do list app &lpar;and one stupid one&rpar;.](https://dev.to/kevklatman/three-valid-ways-to-structure-your-simple-to-do-list-app-and-one-stupid-one-58c6)
+- [How Mastering Async JavaScript Can Make You a Better Developer Fast](https://dev.to/safdarali/how-mastering-async-javascript-can-make-you-a-better-developer-fast-21pj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
