@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enable Windows Media Player in Windows 11](https://dev.to/winsides/enable-windows-media-player-in-windows-11-1ic4)
-- [Fully Typed, Easy React Context API Example](https://dev.to/noriller/fully-typed-easy-react-context-api-example-4ne5)
-- [Introducing Hash-Hammer 🔨: A Multi-Threaded Hash-Cracking Tool](https://dev.to/trixsec/introducing-hash-hammer-a-multi-threaded-hash-cracking-tool-1c73)
-- [Open-Source Next.js Landing Page Template: Finwise and How to Use It](https://dev.to/nexilaunch/open-source-nextjs-landing-page-template-finwise-and-how-to-use-it-33b4)
-- [Android Dev Perú Conf 2024](https://dev.to/deanayac9/android-dev-peru-conf-2023-4ao3)
+- [C# System.Text.Json JsonConverter masking](https://dev.to/karenpayneoregon/c-systemtextjson-jsonconverter-masking-4blg)
+- [Exploring the Architecture of ChatGPT-01-Preview: How ML and DL Techniques Build a Reasoning AI Model](https://dev.to/agustin_bereciartua/exploring-the-architecture-of-chatgpt-01-preview-how-ml-and-dl-techniques-build-a-reasoning-ai-model-3fok)
+- [Supercharge Your Node.js Monitoring with OpenTelemetry, Prometheus, and Grafana](https://dev.to/gleidsonleite/supercharge-your-nodejs-monitoring-with-opentelemetry-prometheus-and-grafana-4mhd)
+- [TikTok Live Streaming Feature: Technical Details and Architecture](https://dev.to/conquerym/tiktok-live-streaming-feature-technical-details-and-architecture-1n0j)
+- [🚀 Your Daily Crypto Job Digest For 26 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-26-october-1k0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
