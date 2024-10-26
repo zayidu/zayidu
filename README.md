@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Astro’s New Actions are the Upgrade React 19 Devs Have Been Waiting For](https://dev.to/ryanmabrouk/why-astros-new-actions-are-the-upgrade-react-19-devs-have-been-waiting-for-c25)
-- [Hacktoberfest! - Week 3](https://dev.to/theoforger/hacktoberfest-week-3-4ild)
-- [PHP Design Pattern: Adapter](https://dev.to/xxzeroxx/php-design-pattern-adapter-3hi1)
-- [Just say it: &quot;I don&#39;t know&quot;](https://dev.to/gabrieltoma/just-say-it-i-dont-know-16pp)
-- [I convinced Claude that React won&#39;t do complex apps](https://dev.to/rpggio/i-convinced-claude-that-react-wont-do-complex-apps-1bja)
+- [SVG vs AVIF](https://dev.to/smartdev72/svg-vs-avif-145p)
+- [AI tool for each phase of your research journey!](https://dev.to/gracerosen/ai-tool-for-each-phase-of-your-research-journey-2ldh)
+- [Advanced State Management in React](https://dev.to/joaoalissonsilva/advanced-state-management-in-react-5b01)
+- [Setting Up a Private Storage account for a Company](https://dev.to/oluoma_stella/setting-up-a-private-storage-account-for-a-company-2e9d)
+- [My 7-Day Journey with HackQuest Co-Learning Camp 10: Exploring the Future of AI and Web3 with Gaia](https://dev.to/arup_matabber/my-7-day-journey-with-hackquest-co-learning-camp-10-exploring-the-future-of-ai-and-web3-with-gaia-1efb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
