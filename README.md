@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Git Command-Line Tricks Every Developer Should Know](https://dev.to/safdarali/20-git-command-line-tricks-every-developer-should-know-3e96)
-- [JPG vs AVIF](https://dev.to/smartdev72/jpg-vs-avif-2m8g)
-- [PNG vs AVIF](https://dev.to/smartdev72/png-vs-avif-2kl5)
-- [Essential Skills for a Lead Engineer](https://dev.to/pgangwani/essential-skills-for-a-lead-engineer-ec4)
-- [The Craft of Programming: Five Inspiring Benefits](https://dev.to/josemariairiarte/the-craft-of-programming-five-inspiring-benefits-2nm9)
+- [#? List vs Tuples in python](https://dev.to/yassinesallami/-list-vs-tuples-in-python-2m3n)
+- [Understanding CSS Size Units: px, em, rem, %, and More](https://dev.to/magsimuhammadessa/understanding-css-size-units-px-em-rem-and-more-48k4)
+- [Reflecting on The 10 commandments of Egoless Programming](https://dev.to/piusmwilson/reflecting-on-the-10-commandments-of-egoless-programming-565n)
+- [someone told me to write as I learn](https://dev.to/saifu0/someone-told-me-to-write-as-i-learn-153m)
+- [My Tech Journey: From Learning Generative AI to Building with APIs](https://dev.to/shaanif600/my-tech-journey-from-learning-generative-ai-to-building-with-apis-8b3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
