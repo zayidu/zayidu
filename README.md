@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Notion as a Developer: A Comprehensive Guide](https://dev.to/airabbit/setting-up-notion-as-a-developer-a-comprehensive-guide-1f64)
-- [JobMatch v1](https://dev.to/drewsephski/jobmatch-v1-2628)
-- [Transitioning from Obsidian to Notion: My Journey to a Unified Workspace](https://dev.to/airabbit/transitioning-from-obsidian-to-notion-my-journey-to-a-unified-workspace-11mg)
-- [Beyond Chatbots: How Digital Assistants are Shaping the Future with Advanced AI Copilots](https://dev.to/shreyam_duttagupta/beyond-chatbots-how-digital-assistants-are-shaping-the-future-with-advanced-ai-copilots-4epm)
-- [Creating an Effective Logseq Structure for Developers: A Practical Guide](https://dev.to/airabbit/creating-an-effective-logseq-structure-for-developers-a-practical-guide-4jn6)
+- [Some new features CSS in 2024](https://dev.to/sonaykara/some-new-features-css-in-2024-5hio)
+- [Creating an Instance on AWS using Ubuntu - AWS Tutorial](https://dev.to/abidemi/creating-an-instance-on-aws-using-ubuntu-aws-tutorial-4k1m)
+- [How to Get the Best Out of Apple Notes as a Marketer](https://dev.to/airabbit/how-to-get-the-best-out-of-apple-notes-as-a-marketer-1aba)
+- [Solution: compileDebugJavaWithJavac because error: switch expressions are not supported in -source 11](https://dev.to/ajmal_hasan/solution-compiledebugjavawithjavac-because-error-switch-expressions-are-not-supported-in-source-11-45n5)
+- [The Character.AI Tragedy: How a Teen’s Fatal Bond with an AI Chatbot Reveals the Dangers of Artificial Companionship](https://dev.to/empereur-pirate/the-characterai-tragedy-how-a-teens-fatal-bond-with-an-ai-chatbot-reveals-the-dangers-of-artificial-companionship-4pc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
