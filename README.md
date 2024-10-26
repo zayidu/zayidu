@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Some new features CSS in 2024](https://dev.to/sonaykara/some-new-features-css-in-2024-5hio)
-- [Creating an Instance on AWS using Ubuntu - AWS Tutorial](https://dev.to/abidemi/creating-an-instance-on-aws-using-ubuntu-aws-tutorial-4k1m)
-- [How to Get the Best Out of Apple Notes as a Marketer](https://dev.to/airabbit/how-to-get-the-best-out-of-apple-notes-as-a-marketer-1aba)
-- [Solution: compileDebugJavaWithJavac because error: switch expressions are not supported in -source 11](https://dev.to/ajmal_hasan/solution-compiledebugjavawithjavac-because-error-switch-expressions-are-not-supported-in-source-11-45n5)
-- [The Character.AI Tragedy: How a Teen’s Fatal Bond with an AI Chatbot Reveals the Dangers of Artificial Companionship](https://dev.to/empereur-pirate/the-characterai-tragedy-how-a-teens-fatal-bond-with-an-ai-chatbot-reveals-the-dangers-of-artificial-companionship-4pc2)
+- [Why Astro’s New Actions are the Upgrade React 19 Devs Have Been Waiting For](https://dev.to/ryanmabrouk/why-astros-new-actions-are-the-upgrade-react-19-devs-have-been-waiting-for-c25)
+- [Hacktoberfest! - Week 3](https://dev.to/theoforger/hacktoberfest-week-3-4ild)
+- [PHP Design Pattern: Adapter](https://dev.to/xxzeroxx/php-design-pattern-adapter-3hi1)
+- [Just say it: &quot;I don&#39;t know&quot;](https://dev.to/gabrieltoma/just-say-it-i-dont-know-16pp)
+- [I convinced Claude that React won&#39;t do complex apps](https://dev.to/rpggio/i-convinced-claude-that-react-wont-do-complex-apps-1bja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
