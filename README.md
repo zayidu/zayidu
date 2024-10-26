@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sherlock Holmes and The Case of the App Not Found](https://dev.to/programmerraja/sherlock-holmes-and-the-case-of-the-app-not-found-29bl)
-- [Render Block component in Next JS and Headless CMS](https://dev.to/aswanth_raveendranek_a2a/render-block-component-in-next-js-and-headless-cms-24f3)
-- [Introduction to Data Structures and Algorithms Roadmap](https://dev.to/bonaogeto/introduction-to-data-structures-and-algorithms-roadmap-akk)
-- [Creating Installers for Java Applications with jpackage](https://dev.to/ozkanpakdil/creating-installers-for-java-applications-with-jpackage-5016)
-- [From Contributor to Maintainer: My Hacktoberfest Journey 🎉](https://dev.to/shu12388y/from-contributor-to-maintainer-my-hacktoberfest-journey-3566)
+- [Comparing LINQ with Other Data Querying Techniques](https://dev.to/ferhatacar/comparing-linq-with-other-data-querying-techniques-34fn)
+- [Create a Simple Authentication System for your Next Application with Clerk](https://dev.to/drprime01/create-a-simple-authentication-system-for-your-next-application-with-clerk-4g75)
+- [Updating SharePoint items without modifying System columns](https://dev.to/fernandaek/updating-sharepoint-items-without-modifying-system-columns-309i)
+- [Testing](https://dev.to/sukhrobabdullaev/testing-2kc9)
+- [Core Architectural Components of Microsoft Azure](https://dev.to/ioduoye/core-architectural-components-of-microsoft-azure-ck5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
