@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing LINQ with Other Data Querying Techniques](https://dev.to/ferhatacar/comparing-linq-with-other-data-querying-techniques-34fn)
-- [Create a Simple Authentication System for your Next Application with Clerk](https://dev.to/drprime01/create-a-simple-authentication-system-for-your-next-application-with-clerk-4g75)
-- [Updating SharePoint items without modifying System columns](https://dev.to/fernandaek/updating-sharepoint-items-without-modifying-system-columns-309i)
-- [Testing](https://dev.to/sukhrobabdullaev/testing-2kc9)
-- [Core Architectural Components of Microsoft Azure](https://dev.to/ioduoye/core-architectural-components-of-microsoft-azure-ck5)
+- [Tired of Guessing? Unlock the Secrets of Your GitHub Stats with devActivity](https://dev.to/devactivity-app/tired-of-guessing-unlock-the-secrets-of-your-github-stats-with-devactivity-24ib)
+- [Freeware: Java Utility Package &lpar;Version 2024.10.26&rpar; released](https://dev.to/andybrunner/freeware-java-utility-package-version-20241026-released-2791)
+- [The Benefits of Using A CDN](https://dev.to/pmbanugo/the-benefits-of-using-a-cdn-54g0)
+- [crazy-complete: Generate shell auto-completion files with a single configuration file](https://dev.to/crazycomplete/crazy-complete-generate-shell-auto-completion-files-with-a-single-configuration-file-kk3)
+- [AVIF vs WebP](https://dev.to/smartdev72/avif-vs-webp-57od)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
