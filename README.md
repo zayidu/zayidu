@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG Explained: Generation of Embeddings](https://dev.to/busycaesar/rag-explained-generation-of-embeddings-4emh)
-- [Agendamento de Tarefas em Segundo Plano com Hangfire](https://dev.to/juarezasjunior/agendamento-de-tarefas-em-segundo-plano-com-hangfire-3hfj)
-- [Background Task Scheduling with Hangfire](https://dev.to/juarezasjunior/background-task-scheduling-with-hangfire-2p0k)
-- [Hacking Your Habits: Building a Sustainable Tech Career](https://dev.to/techbalance_collective/hacking-your-habits-building-a-sustainable-tech-career-44ml)
-- [JXL vs JPG](https://dev.to/smartdev72/jxl-vs-jpg-1h1f)
+- [Stable Diffusion 3.5 Large How To Use Tutorial With Best Configuration and Comparison With FLUX DEV](https://dev.to/furkangozukara/stable-diffusion-35-large-how-to-use-tutorial-with-best-configuration-and-comparison-with-flux-dev-270b)
+- [Cin buyug&#39;i haqida](https://dev.to/munisa_kuranbekova_078e1e/cin-buyugi-haqida-4h77)
+- [How I created my custom react notification component using React createContext hook, and Typescript](https://dev.to/mrvicthor/how-i-created-my-custom-react-notification-component-using-react-createcontext-hook-and-typescript-3dfi)
+- [Broadcom killed VMware: Was this acquisition good or bad for you?](https://dev.to/mkdev/broadcom-killed-vmware-was-this-acquisition-good-or-bad-for-you-2iao)
+- [CIN KOMANDASI !!!](https://dev.to/madina1575/cin-komandasi--4pj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
