@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Exports and Imports in JavaScript](https://dev.to/shieldstring/understanding-exports-and-imports-in-javascript-3gm)
-- [Terraform: Infrastructure as Code for the Modern DevOps Engineer](https://dev.to/574n13y/terraform-infrastructure-as-code-for-the-modern-devops-engineer-2fh4)
-- [Build collapsible sidebars using just CSS](https://dev.to/yashjain99/build-collapsible-sidebars-using-just-css-1ac1)
-- [Tree Data Structure Questions for Data Structures and Algorithms](https://dev.to/nozibul_islam_113b1d5334f/tree-data-structure-questions-for-data-structures-and-algorithms-1h7a)
-- [Database Setup, JWT Implementation &amp; API](https://dev.to/gin_mitch/database-setup-jwt-implementation-api-1bk3)
+- [Why We Migrated Our WordPress Site from Hostinger to AWS LightSail](https://dev.to/shu12388y/why-we-migrated-our-wordpress-site-from-hostinger-to-aws-lightsail-4pdl)
+- [Mastering DOM Manipulation: 10 Essential Tips for Efficient and High-Performance Web Development](https://dev.to/wizdomtek/mastering-dom-manipulation-10-essential-tips-for-efficient-and-high-performance-web-development-3mke)
+- [Understanding Stored Program Control &lpar;SPC&rpar; Systems in Telecommunications](https://dev.to/adityabhuyan/understanding-stored-program-control-spc-systems-in-telecommunications-1jhc)
+- [ReactJS Most Important Interview Questions 2024](https://dev.to/devabdul/reactjs-most-important-interview-questions-2024-lbo)
+- [JavaScript&#39;s Top Trends in 2024: What&#39;s Shaping Modern Web Development?](https://dev.to/rohitkhokhar/javascripts-top-trends-in-2024-whats-shaping-modern-web-development-464m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
