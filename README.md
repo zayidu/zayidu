@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Migrated Our WordPress Site from Hostinger to AWS LightSail](https://dev.to/shu12388y/why-we-migrated-our-wordpress-site-from-hostinger-to-aws-lightsail-4pdl)
-- [Mastering DOM Manipulation: 10 Essential Tips for Efficient and High-Performance Web Development](https://dev.to/wizdomtek/mastering-dom-manipulation-10-essential-tips-for-efficient-and-high-performance-web-development-3mke)
-- [Understanding Stored Program Control &lpar;SPC&rpar; Systems in Telecommunications](https://dev.to/adityabhuyan/understanding-stored-program-control-spc-systems-in-telecommunications-1jhc)
-- [ReactJS Most Important Interview Questions 2024](https://dev.to/devabdul/reactjs-most-important-interview-questions-2024-lbo)
-- [JavaScript&#39;s Top Trends in 2024: What&#39;s Shaping Modern Web Development?](https://dev.to/rohitkhokhar/javascripts-top-trends-in-2024-whats-shaping-modern-web-development-464m)
+- [Sherlock Holmes and The Case of the App Not Found](https://dev.to/programmerraja/sherlock-holmes-and-the-case-of-the-app-not-found-29bl)
+- [Render Block component in Next JS and Headless CMS](https://dev.to/aswanth_raveendranek_a2a/render-block-component-in-next-js-and-headless-cms-24f3)
+- [Introduction to Data Structures and Algorithms Roadmap](https://dev.to/bonaogeto/introduction-to-data-structures-and-algorithms-roadmap-akk)
+- [Creating Installers for Java Applications with jpackage](https://dev.to/ozkanpakdil/creating-installers-for-java-applications-with-jpackage-5016)
+- [From Contributor to Maintainer: My Hacktoberfest Journey 🎉](https://dev.to/shu12388y/from-contributor-to-maintainer-my-hacktoberfest-journey-3566)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
