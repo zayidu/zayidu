@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [On Learning Vim](https://dev.to/sindbad_x/on-learning-vim-2nld)
-- [Did you know this about CSS variables? 🤯](https://dev.to/tymzap/did-you-know-this-about-css-variables-1k31)
-- [How to Use Proxy Objects in JavaScript](https://dev.to/sachinchaurasiya/how-to-use-proxy-objects-in-javascript-458f)
-- [Env-Core: An Easy Way to Validate Environment Variables in Node.js Projects](https://dev.to/enwankwo/env-core-an-easy-way-to-validate-environment-variables-in-nodejs-projects-249p)
-- [react-query users, take a look: Form submission can be this easy?](https://dev.to/eddieangle/react-query-users-take-a-look-form-submission-can-be-this-easy-3cem)
+- [Setting Up Notion as a Developer: A Comprehensive Guide](https://dev.to/airabbit/setting-up-notion-as-a-developer-a-comprehensive-guide-1f64)
+- [JobMatch v1](https://dev.to/drewsephski/jobmatch-v1-2628)
+- [Transitioning from Obsidian to Notion: My Journey to a Unified Workspace](https://dev.to/airabbit/transitioning-from-obsidian-to-notion-my-journey-to-a-unified-workspace-11mg)
+- [Beyond Chatbots: How Digital Assistants are Shaping the Future with Advanced AI Copilots](https://dev.to/shreyam_duttagupta/beyond-chatbots-how-digital-assistants-are-shaping-the-future-with-advanced-ai-copilots-4epm)
+- [Creating an Effective Logseq Structure for Developers: A Practical Guide](https://dev.to/airabbit/creating-an-effective-logseq-structure-for-developers-a-practical-guide-4jn6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
