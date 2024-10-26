@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Hacktoberfest Adventure: Wrestling with JavaScript and the Elusive Green Light 🚥](https://dev.to/tasbi03/my-hacktoberfest-adventure-wrestling-with-javascript-and-the-elusive-green-light-l3n)
-- [Run lunarvim in a devcontainer](https://dev.to/sukkergris/run-lunarvim-in-a-devcontainer-1pj3)
-- [Building a Kanban Task Management App with Flask and CouchDB Capella](https://dev.to/jeanvalve/building-a-kanban-task-management-app-with-flask-and-couchdb-capella-52l1)
-- [Get to know Anthropic&#39;s new Claude 3.5 sonnet and &#39;computer use&#39; in simple terms](https://dev.to/talepunk/get-to-know-anthropics-new-claude-35-sonnet-and-computer-use-in-simple-terms-4bck)
-- [How to implement CREATE TABLE IF NOT EXISTS in Oracle](https://dev.to/andylawrence/how-to-implement-create-table-if-not-exists-in-oracle-fnh)
+- [Understanding Exports and Imports in JavaScript](https://dev.to/shieldstring/understanding-exports-and-imports-in-javascript-3gm)
+- [Terraform: Infrastructure as Code for the Modern DevOps Engineer](https://dev.to/574n13y/terraform-infrastructure-as-code-for-the-modern-devops-engineer-2fh4)
+- [Build collapsible sidebars using just CSS](https://dev.to/yashjain99/build-collapsible-sidebars-using-just-css-1ac1)
+- [Tree Data Structure Questions for Data Structures and Algorithms](https://dev.to/nozibul_islam_113b1d5334f/tree-data-structure-questions-for-data-structures-and-algorithms-1h7a)
+- [Database Setup, JWT Implementation &amp; API](https://dev.to/gin_mitch/database-setup-jwt-implementation-api-1bk3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
