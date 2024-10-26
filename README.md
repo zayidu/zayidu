@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance Your Images with AI: A Free 4x Image Upscaler! 🚀](https://dev.to/der_hamster_a81f5aa3db854/enhance-your-images-with-ai-a-free-4x-image-upscaler-2id3)
-- [&quot;Zenith&quot; – A Serene Meditation App with React, Tolgee, and Tailwind CSS](https://dev.to/prashantsingh181/zenith-a-serene-meditation-app-with-react-tolgee-and-tailwind-css-1294)
-- [La dificultad de las revisiones de código](https://dev.to/johnnatan_sandovalcardon/la-dificultad-de-las-revisiones-de-codigo-4dff)
-- [Building Alerts in iOS 18 - #30DaysOfSwift](https://dev.to/thevediwho/building-alerts-in-ios-18-30daysofswift-4ged)
-- [Best Practices for Choosing an LLM for AI Applications](https://dev.to/timesofasi/best-practices-for-choosing-an-llm-for-ai-applications-4mdd)
+- [SVG to JPG: Choosing the Right Format for Your Images](https://dev.to/smartdev72/svg-to-jpg-choosing-the-right-format-for-your-images-1khn)
+- [Configuring OpenWRT DDNS for freedns.afraid.org](https://dev.to/hubschrauber/configuring-openwrt-ddns-for-freednsafraidorg-4caa)
+- [Identifying the Problem](https://dev.to/steaks_96/identifying-the-problem-37na)
+- [Building Leo Query](https://dev.to/steaks_96/building-leo-query-gm5)
+- [Testes Finais do Capítulo 9](https://dev.to/devsjavagirls/testes-finais-do-capitulo-9-7fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
