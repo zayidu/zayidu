@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Something](https://dev.to/sukhrobtech/something-5b1j)
-- [Building an APP with NOSQL Database](https://dev.to/jhonnyarm/building-an-app-with-nosql-database-3m7a)
-- [Using Runway&#39;s &quot;Gen-3 Alpha Turbo&quot; API to Generate AI Videos](https://dev.to/nabata/using-runways-gen-3-alpha-turbo-api-to-generate-ai-videos-42gb)
-- [Behind the Scenes: Designing a Beat Saber-Style Game with Godot](https://dev.to/manasajayasri/behind-the-scenes-designing-a-beat-saber-style-game-with-godot-184j)
-- [Understanding Python Decorators: A Deep Dive](https://dev.to/aman-giri/understanding-python-decorators-a-deep-dive-pp0)
+- [My Hacktoberfest Adventure: Wrestling with JavaScript and the Elusive Green Light 🚥](https://dev.to/tasbi03/my-hacktoberfest-adventure-wrestling-with-javascript-and-the-elusive-green-light-l3n)
+- [Run lunarvim in a devcontainer](https://dev.to/sukkergris/run-lunarvim-in-a-devcontainer-1pj3)
+- [Building a Kanban Task Management App with Flask and CouchDB Capella](https://dev.to/jeanvalve/building-a-kanban-task-management-app-with-flask-and-couchdb-capella-52l1)
+- [Get to know Anthropic&#39;s new Claude 3.5 sonnet and &#39;computer use&#39; in simple terms](https://dev.to/talepunk/get-to-know-anthropics-new-claude-35-sonnet-and-computer-use-in-simple-terms-4bck)
+- [How to implement CREATE TABLE IF NOT EXISTS in Oracle](https://dev.to/andylawrence/how-to-implement-create-table-if-not-exists-in-oracle-fnh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
