@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [O Futuro É Quântico: Como a Computação Quântica Está Transformando a Tecnologia!](https://dev.to/n1ghtm4r33/o-futuro-e-quantico-como-a-computacao-quantica-esta-transformando-a-tecnologia-5h0f)
-- [One Year of Toronto Ruby](https://dev.to/crespire/one-year-of-toronto-ruby-147)
-- [Troubleshooting: curl/wget Fetching HTML Instead of Files](https://dev.to/lynerlwl/troubleshooting-curlwget-fetching-html-instead-of-files-1m44)
-- [Apache Nifi &amp; Registry com MinIO](https://dev.to/airton_lirajunior_2ddebd/apache-nifi-registry-com-minio-2gnm)
-- [What to Expect When You Start Learning a Programming Language](https://dev.to/techben/what-to-expect-when-you-start-learning-a-programming-language-1bc3)
+- [React Js Part 3 : Event Handling and Form Management](https://dev.to/kyydev/react-js-part-3-event-handling-and-form-management-4ggd)
+- [Manojkumar Chandrasekar](https://dev.to/manojkumar-chandrase/manojkumar-chandrasekar-5ffc)
+- [Building a Web Task Manager Without SQL: A Frontend-First Approach](https://dev.to/jesus_delgado_28a06d768dc/building-a-web-task-manager-without-sql-a-frontend-first-approach-2abb)
+- [Understanding useCallback in Reactjs](https://dev.to/muthuraja_r/understanding-usecallback-in-reactjs-2j6c)
+- [SPO Week 4.1 - CPUs](https://dev.to/krinskumar/spo-week-41-cpus-327e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
