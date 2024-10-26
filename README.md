@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#? List vs Tuples in python](https://dev.to/yassinesallami/-list-vs-tuples-in-python-2m3n)
-- [Understanding CSS Size Units: px, em, rem, %, and More](https://dev.to/magsimuhammadessa/understanding-css-size-units-px-em-rem-and-more-48k4)
-- [Reflecting on The 10 commandments of Egoless Programming](https://dev.to/piusmwilson/reflecting-on-the-10-commandments-of-egoless-programming-565n)
-- [someone told me to write as I learn](https://dev.to/saifu0/someone-told-me-to-write-as-i-learn-153m)
-- [My Tech Journey: From Learning Generative AI to Building with APIs](https://dev.to/shaanif600/my-tech-journey-from-learning-generative-ai-to-building-with-apis-8b3)
+- [O Futuro É Quântico: Como a Computação Quântica Está Transformando a Tecnologia!](https://dev.to/n1ghtm4r33/o-futuro-e-quantico-como-a-computacao-quantica-esta-transformando-a-tecnologia-5h0f)
+- [One Year of Toronto Ruby](https://dev.to/crespire/one-year-of-toronto-ruby-147)
+- [Troubleshooting: curl/wget Fetching HTML Instead of Files](https://dev.to/lynerlwl/troubleshooting-curlwget-fetching-html-instead-of-files-1m44)
+- [Apache Nifi &amp; Registry com MinIO](https://dev.to/airton_lirajunior_2ddebd/apache-nifi-registry-com-minio-2gnm)
+- [What to Expect When You Start Learning a Programming Language](https://dev.to/techben/what-to-expect-when-you-start-learning-a-programming-language-1bc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
