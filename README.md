@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of Guessing? Unlock the Secrets of Your GitHub Stats with devActivity](https://dev.to/devactivity-app/tired-of-guessing-unlock-the-secrets-of-your-github-stats-with-devactivity-24ib)
-- [Freeware: Java Utility Package &lpar;Version 2024.10.26&rpar; released](https://dev.to/andybrunner/freeware-java-utility-package-version-20241026-released-2791)
-- [The Benefits of Using A CDN](https://dev.to/pmbanugo/the-benefits-of-using-a-cdn-54g0)
-- [crazy-complete: Generate shell auto-completion files with a single configuration file](https://dev.to/crazycomplete/crazy-complete-generate-shell-auto-completion-files-with-a-single-configuration-file-kk3)
-- [AVIF vs WebP](https://dev.to/smartdev72/avif-vs-webp-57od)
+- [Automating Code Quality: Git Hooks, Husky, and Lint-Staged for Streamlined Linting &amp; Formatting](https://dev.to/hkp22/automating-code-quality-git-hooks-husky-and-lint-staged-for-streamlined-linting-formatting-5ep4)
+- [Unlock the Power of C: Dive into Parallel Computing, Redis, and More](https://dev.to/getvm/unlock-the-power-of-c-dive-into-parallel-computing-redis-and-more-4gcf)
+- [Understanding var and let in JavaScript: When and Why to Use Each for Cleaner Code](https://dev.to/vimuth7/understanding-var-and-let-in-javascript-when-and-why-to-use-each-for-cleaner-code-2hjb)
+- [My first project &#39;Xuploads&#39;](https://dev.to/necro_pc/my-first-project-xuploads-3opk)
+- [WebP vs GIF](https://dev.to/smartdev72/webp-vs-gif-15ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
