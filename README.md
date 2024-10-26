@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#Creating an Application with Firestore: A NoSQL Alternative from Google](https://dev.to/ronal_daniellupacamaman/creating-an-application-with-firestore-a-nosql-alternative-from-google-b48)
-- [Lightning-Fast Development with Zed and Dev Containers](https://dev.to/ale_annini/lightning-fast-development-with-zed-and-dev-containers-1nbd)
-- [Continuous delivery could save your time and sanity. And I can prove...](https://dev.to/ferreira_eduardo_95/continuous-delivery-could-save-your-time-and-sanity-and-i-can-prove-3mfg)
-- [New Wi-Fi IO module using an advanced Wi-Fi module for AGV integration](https://dev.to/zhangzhuyue/new-wi-fi-io-module-using-an-advanced-wi-fi-module-integrating-with-agv-1m5j)
-- [AWS Compute - Part 3: serverless, lambda and fargate](https://dev.to/hulk-pham/aws-compute-part-3-serverless-lambda-and-fargate-2lj0)
+- [Enable Windows Media Player in Windows 11](https://dev.to/winsides/enable-windows-media-player-in-windows-11-1ic4)
+- [Fully Typed, Easy React Context API Example](https://dev.to/noriller/fully-typed-easy-react-context-api-example-4ne5)
+- [Introducing Hash-Hammer 🔨: A Multi-Threaded Hash-Cracking Tool](https://dev.to/trixsec/introducing-hash-hammer-a-multi-threaded-hash-cracking-tool-1c73)
+- [Open-Source Next.js Landing Page Template: Finwise and How to Use It](https://dev.to/nexilaunch/open-source-nextjs-landing-page-template-finwise-and-how-to-use-it-33b4)
+- [Android Dev Perú Conf 2024](https://dev.to/deanayac9/android-dev-peru-conf-2023-4ao3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
