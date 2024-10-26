@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SVG to JPG: Choosing the Right Format for Your Images](https://dev.to/smartdev72/svg-to-jpg-choosing-the-right-format-for-your-images-1khn)
-- [Configuring OpenWRT DDNS for freedns.afraid.org](https://dev.to/hubschrauber/configuring-openwrt-ddns-for-freednsafraidorg-4caa)
-- [Identifying the Problem](https://dev.to/steaks_96/identifying-the-problem-37na)
-- [Building Leo Query](https://dev.to/steaks_96/building-leo-query-gm5)
-- [Testes Finais do Capítulo 9](https://dev.to/devsjavagirls/testes-finais-do-capitulo-9-7fb)
+- [On Learning Vim](https://dev.to/sindbad_x/on-learning-vim-2nld)
+- [Did you know this about CSS variables? 🤯](https://dev.to/tymzap/did-you-know-this-about-css-variables-1k31)
+- [How to Use Proxy Objects in JavaScript](https://dev.to/sachinchaurasiya/how-to-use-proxy-objects-in-javascript-458f)
+- [Env-Core: An Easy Way to Validate Environment Variables in Node.js Projects](https://dev.to/enwankwo/env-core-an-easy-way-to-validate-environment-variables-in-nodejs-projects-249p)
+- [react-query users, take a look: Form submission can be this easy?](https://dev.to/eddieangle/react-query-users-take-a-look-form-submission-can-be-this-easy-3cem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
