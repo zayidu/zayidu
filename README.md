@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# System.Text.Json JsonConverter masking](https://dev.to/karenpayneoregon/c-systemtextjson-jsonconverter-masking-4blg)
-- [Exploring the Architecture of ChatGPT-01-Preview: How ML and DL Techniques Build a Reasoning AI Model](https://dev.to/agustin_bereciartua/exploring-the-architecture-of-chatgpt-01-preview-how-ml-and-dl-techniques-build-a-reasoning-ai-model-3fok)
-- [Supercharge Your Node.js Monitoring with OpenTelemetry, Prometheus, and Grafana](https://dev.to/gleidsonleite/supercharge-your-nodejs-monitoring-with-opentelemetry-prometheus-and-grafana-4mhd)
-- [TikTok Live Streaming Feature: Technical Details and Architecture](https://dev.to/conquerym/tiktok-live-streaming-feature-technical-details-and-architecture-1n0j)
-- [🚀 Your Daily Crypto Job Digest For 26 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-26-october-1k0o)
+- [Enhance Your Images with AI: A Free 4x Image Upscaler! 🚀](https://dev.to/der_hamster_a81f5aa3db854/enhance-your-images-with-ai-a-free-4x-image-upscaler-2id3)
+- [&quot;Zenith&quot; – A Serene Meditation App with React, Tolgee, and Tailwind CSS](https://dev.to/prashantsingh181/zenith-a-serene-meditation-app-with-react-tolgee-and-tailwind-css-1294)
+- [La dificultad de las revisiones de código](https://dev.to/johnnatan_sandovalcardon/la-dificultad-de-las-revisiones-de-codigo-4dff)
+- [Building Alerts in iOS 18 - #30DaysOfSwift](https://dev.to/thevediwho/building-alerts-in-ios-18-30daysofswift-4ged)
+- [Best Practices for Choosing an LLM for AI Applications](https://dev.to/timesofasi/best-practices-for-choosing-an-llm-for-ai-applications-4mdd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
