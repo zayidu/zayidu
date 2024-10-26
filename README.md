@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Code Quality: Git Hooks, Husky, and Lint-Staged for Streamlined Linting &amp; Formatting](https://dev.to/hkp22/automating-code-quality-git-hooks-husky-and-lint-staged-for-streamlined-linting-formatting-5ep4)
-- [Unlock the Power of C: Dive into Parallel Computing, Redis, and More](https://dev.to/getvm/unlock-the-power-of-c-dive-into-parallel-computing-redis-and-more-4gcf)
-- [Understanding var and let in JavaScript: When and Why to Use Each for Cleaner Code](https://dev.to/vimuth7/understanding-var-and-let-in-javascript-when-and-why-to-use-each-for-cleaner-code-2hjb)
-- [My first project &#39;Xuploads&#39;](https://dev.to/necro_pc/my-first-project-xuploads-3opk)
-- [WebP vs GIF](https://dev.to/smartdev72/webp-vs-gif-15ei)
+- [RAG Explained: Generation of Embeddings](https://dev.to/busycaesar/rag-explained-generation-of-embeddings-4emh)
+- [Agendamento de Tarefas em Segundo Plano com Hangfire](https://dev.to/juarezasjunior/agendamento-de-tarefas-em-segundo-plano-com-hangfire-3hfj)
+- [Background Task Scheduling with Hangfire](https://dev.to/juarezasjunior/background-task-scheduling-with-hangfire-2p0k)
+- [Hacking Your Habits: Building a Sustainable Tech Career](https://dev.to/techbalance_collective/hacking-your-habits-building-a-sustainable-tech-career-44ml)
+- [JXL vs JPG](https://dev.to/smartdev72/jxl-vs-jpg-1h1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
