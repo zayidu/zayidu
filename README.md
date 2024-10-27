@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionising Software Development: The Intersection of Quantum Fractal Alloys and Fractal-Inspired Algorithms](https://dev.to/gracerosen/revolutionising-software-development-the-intersection-of-quantum-fractal-alloys-and-fractal-inspired-algorithms-46ac)
-- [Regex timeout - C#](https://dev.to/karenpayneoregon/regex-timeout-c-3n3n)
-- [How to Deploy FastAPI on EC2 then enable auto scaling?](https://dev.to/jonas_davesumbeling_7c56/how-to-deploy-fastapi-on-ec2-then-enable-auto-scaling-1h2o)
-- [Create Google &lpar;Login&rpar; Credentials for Your Web Application](https://dev.to/pikkue/create-google-login-credentials-for-your-web-application-3dc2)
-- [Linux Commands for DevOps Professionals😊](https://dev.to/devops_descent/linux-commands-for-devops-professionals-1bcm)
+- [Mastering File Uploads and Downloads in .NET 8 Minimal APIs: A Comprehensive Guide](https://dev.to/leandroveiga/mastering-file-uploads-and-downloads-in-net-8-minimal-apis-a-comprehensive-guide-5al3)
+- [Clean Code: Open Source Linting &amp; Formatting](https://dev.to/majd_almnayer_2101/clean-code-open-source-linting-formatting-1g8l)
+- [Building a Go Application with Docker on AWS: Creating a RESTful Interface for Adding and Retrieving Items](https://dev.to/zahraajawad/building-a-go-application-with-docker-on-aws-creating-a-restful-interface-for-adding-and-retrieving-items-54mi)
+- [Using Git as Your Personal To-Do List](https://dev.to/munemprionto/using-git-as-your-personal-to-do-list-3kkd)
+- [WebRTC WHIP &amp; WHEP Tutorial: Build a live Streaming App](https://dev.to/alakkadshaw/webrtc-whip-whep-tutorial-build-a-live-streaming-app-490l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
