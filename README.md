@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C4 Model - The Basics](https://dev.to/rafaeljcamara/c4-model-the-basics-5bk5)
-- [Retrieval-Augmented Generation &lpar;RAG&rpar; in LLMs](https://dev.to/nareshnishad/retrieval-augmented-generation-rag-in-llms-4io0)
-- [3 VS CODE ALTERNATIVES THAT ARE GREAT 👍](https://dev.to/mince/3-vs-code-alternatives-that-are-great-gi0)
-- [Learning to Use HTML &amp; CSS: Your First Webpage](https://dev.to/okoye_ndidiamaka_5e3b7d30/learning-to-use-html-css-your-first-webpage-4c39)
-- [Does svelte5 have multi {@render} equivalent to ver.4’s multi named slot use inside +layout.svelte？](https://dev.to/thomaschoi721/does-svelte5-have-multi-render-equivalent-to-ver4s-multi-named-slot-use-inside-layoutsvelte-4op7)
+- [How to Quickly Build Projects by Attending Hackathons](https://dev.to/30_dayscoding_9b63e3c909/how-to-quickly-build-projects-by-attending-hackathons-20km)
+- [CKA Full Course 2024: Day 9/40 Kubernetes Services Explained: ClusterIP vs NodePort vs Loadbalancer vs External](https://dev.to/lloydrivers/cka-full-course-2024-day-940-kubernetes-services-explained-clusterip-vs-nodeport-vs-loadbalancer-vs-external-28nh)
+- [🛠️ How to Create an Awesome GitHub Profile Using Markdown](https://dev.to/mahbubumithu/how-to-create-an-awesome-github-profile-using-markdown-3bdd)
+- [🛠️ How to Create an Awesome GitHub Profile Using Markdown](https://dev.to/mahbubumithu/how-to-create-an-awesome-github-profile-using-markdown-2oce)
+- [📅 Building an Automated Scheduling System with Next.js 🚀](https://dev.to/hamzakhan/building-an-automated-scheduling-system-with-nextjs-1k22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
