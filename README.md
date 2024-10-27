@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bye-bye Passwords: Embracing Secure, Hassle-Free Passkeys](https://dev.to/akashjana/bye-bye-passwords-embracing-secure-hassle-free-passkeys-20c3)
-- [🔐 How to Generate a GitHub Personal Access Token &lpar;PAT&rpar;](https://dev.to/warnerbell/how-to-generate-a-github-personal-access-token-pat-1bg5)
-- [Let&#39;s Talk About Open Source - FAV0 Weekly #019](https://dev.to/justin3go/lets-talk-about-open-source-fav0-weekly-019-4kal)
-- [How to Host Your Website on Netlify for Free.](https://dev.to/sudhanshu_developer/how-to-host-your-website-on-netlify-for-free-2iop)
-- [Setting Up a Basic Dev Environment on a Windows/Linux Machine](https://dev.to/warnerbell/setting-up-a-basic-dev-environment-on-a-windowslinux-machine-4na4)
+- [Revolutionising Software Development: The Intersection of Quantum Fractal Alloys and Fractal-Inspired Algorithms](https://dev.to/gracerosen/revolutionising-software-development-the-intersection-of-quantum-fractal-alloys-and-fractal-inspired-algorithms-46ac)
+- [Regex timeout - C#](https://dev.to/karenpayneoregon/regex-timeout-c-3n3n)
+- [How to Deploy FastAPI on EC2 then enable auto scaling?](https://dev.to/jonas_davesumbeling_7c56/how-to-deploy-fastapi-on-ec2-then-enable-auto-scaling-1h2o)
+- [Create Google &lpar;Login&rpar; Credentials for Your Web Application](https://dev.to/pikkue/create-google-login-credentials-for-your-web-application-3dc2)
+- [Linux Commands for DevOps Professionals😊](https://dev.to/devops_descent/linux-commands-for-devops-professionals-1bcm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
