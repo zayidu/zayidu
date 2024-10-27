@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TIFF vs WebP](https://dev.to/smartdev72/tiff-vs-webp-18dc)
-- [🔐 Benefits and Drawbacks of Passkey-Only Login Systems](https://dev.to/sateshcharan/benefits-and-drawbacks-of-passkey-only-login-systems-cf6)
-- [Set up Trivy Scanner in GitLab CI](https://dev.to/vietjovi/set-up-trivy-scanner-in-gitlab-ci-2pi)
-- [TIFF vs GIF](https://dev.to/smartdev72/tiff-vs-gif-3o5n)
-- [Reimagining Authentication with Hanko](https://dev.to/k-adi/reimagining-authentication-with-hanko-5c9p)
+- [PSD vs PNG](https://dev.to/smartdev72/psd-vs-png-382k)
+- [Start With Why: Lesson for Finding Your Next Big Break](https://dev.to/busycaesar/start-with-why-lesson-for-finding-your-next-big-break-4p7e)
+- [From Imposter to Innovator: Overcoming Self-Doubt in Tech](https://dev.to/techbalance_collective/from-imposter-to-innovator-overcoming-self-doubt-in-tech-n1d)
+- [Agendamento de Tarefas com Quartz.NET](https://dev.to/juarezasjunior/agendamento-de-tarefas-com-quartznet-1cee)
+- [Task Scheduling with Quartz.NET](https://dev.to/juarezasjunior/task-scheduling-with-quartznet-429)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
