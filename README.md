@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Open telemetry and Observability for SRE](https://dev.to/yashn/understanding-open-telemetry-and-observability-for-sre-58m1)
-- [How to Detect Spam: A Complete Guide to AI-Powered Content Filtering](https://dev.to/lonare/how-to-detect-spam-a-complete-guide-to-ai-powered-content-filtering-4f05)
-- [Rebuilding EnviroX: Overcoming Early Flaws to Automate Development Environments](https://dev.to/neelp03/rebuilding-envirox-overcoming-early-flaws-to-automate-development-environments-12ld)
-- [Guess Heads or Tails between you and the computer](https://dev.to/adelasmar/guess-heads-or-tails-between-you-and-the-computer-jme)
-- [Memory Management and Garbage Collection in Kotlin Multiplatform XCFramework](https://dev.to/arsenikavalchuk/memory-management-and-garbage-collection-in-kotlin-multiplatform-xcframework-15pa)
+- [sphere and cylinder move in 3d](https://dev.to/sister_mariamonahan_65f5/sphere-and-cylinder-move-in-3d-15c7)
+- [car moves with clouds](https://dev.to/sister_mariamonahan_65f5/car-moves-with-clouds-3j33)
+- [moving flower](https://dev.to/sister_mariamonahan_65f5/moving-flower-3p7m)
+- [And now, what are the next steps?](https://dev.to/brunociccarino/and-now-what-are-the-next-steps-49o9)
+- [2 air balloons in the city](https://dev.to/sister_mariamonahan_65f5/2-air-balloons-in-the-city-43gk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
