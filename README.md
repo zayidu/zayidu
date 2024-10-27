@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Elevator Scheduling Algorithms: FCFS, SSTF, SCAN, and LOOK](https://dev.to/thesaltree/elevator-scheduling-algorithms-fcfs-sstf-scan-and-look-2pae)
-- [Robots.txt pitfalls: what I learned the hard way](https://dev.to/prahladyeri/robotstxt-pitfalls-what-i-learned-the-hard-way-2aip)
-- [Understanding EVM&lpar;Ethereum Virtual Machine&rpar;](https://dev.to/dhanyosmi/understanding-evmethereum-virtual-machine-2dh7)
-- [Learning Ansible, Proxmox and LXC, Part 1](https://dev.to/beedog/learning-ansible-proxmox-and-lxc-part-1-2hbp)
-- [Containerization with Docker in Software Development](https://dev.to/adityabhuyan/containerization-with-docker-in-software-development-5dke)
+- [Step-by-Step Guide to Light/Dark Mode on Bear Blog](https://dev.to/yordiverkroost/step-by-step-guide-to-lightdark-mode-on-bear-blog-11ek)
+- [Parkinson&#39;s Law in Software Development: How to Break the Time-Expansion Trap 🚀](https://dev.to/rumendimov/parkinsons-law-in-software-development-how-to-break-the-time-expansion-trap-28a0)
+- [Add Jetbrains Fleet to right click context menu in windows 11](https://dev.to/ozkanpakdil/add-jetbrains-fleet-to-right-click-context-menu-in-windows-11-2kpg)
+- [Setting Up a Node.js, TypeScript, and Express Project](https://dev.to/codeparrot/setting-up-a-nodejs-typescript-and-express-project-3jha)
+- [Mastering SQL Optimization: A Beginner’s Guide to Faster and More Efficient Queries](https://dev.to/allan-pg/mastering-sql-optimization-a-beginners-guide-to-faster-and-more-efficient-queries-32ka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
