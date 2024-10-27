@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Trying to build a $1K MRR SaaS app, while being a full time student 😊](https://dev.to/jaypatel123/trying-to-build-a-1k-mrr-saas-app-while-being-a-full-time-student-4h9b)
+- [Understanding Server-Side Rendering &lpar;SSR&rpar; and Client-Side Rendering &lpar;CSR&rpar;: How Websites Show You Content](https://dev.to/vjygour/understanding-server-side-rendering-ssr-and-client-side-rendering-csr-how-websites-show-you-content-1am3)
 - [Navigating with React Router React Js Part 4: A Guide to Routing in React Applications](https://dev.to/kyydev/navigating-with-react-router-react-js-part-4-a-guide-to-routing-in-react-applications-1ikb)
 - [Java Inner Classes and Nested Classes](https://dev.to/dhanush9952/java-inner-classes-and-nested-classes-39a6)
 - [🌐 Navigating the CNCF Landscape: A Roadmap for Open Source Contributions 🚀](https://dev.to/manvendra2000/navigating-the-cncf-landscape-a-roadmap-for-open-source-contributions-1poe)
-- [Top 5 Programming Profiles: Racer, Coder, Maker, Joker, Tutor](https://dev.to/gurigraphics/top-5-programming-profiles-racer-coder-maker-joker-tutor-1gk5)
-- [🤖 Building a Financial AI Chatbot with Rasa: A Hands-On Guide 🌱](https://dev.to/santhoshvijayabaskar/building-a-financial-ai-chatbot-with-rasa-a-hands-on-guide-57do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
