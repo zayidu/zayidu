@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How TypeScript Makes React Better: Smoother Developer Experience, Fewer Bugs &lpar;With a useState Example&rpar;](https://dev.to/igadii/how-typescript-makes-react-better-smoother-developer-experience-fewer-bugs-with-a-usestate-example-4loh)
-- [Integrate AI Effortlessly: A Beginner&#39;s Guide to Using CopilotKit](https://dev.to/niharikaa/integrate-ai-effortlessly-a-beginners-guide-to-using-copilotkit-1pgg)
-- [Fixing the &quot;CORS Policy: No &#39;Access-Control-Allow-Origin&#39;&quot; Error in Web Development 🚫🔧](https://dev.to/saqib_abbas_8d1b9da205a09/fixing-the-cors-policy-no-access-control-allow-origin-error-in-web-development-36e4)
-- [Choosing Tools for Technical Architecture Diagrams](https://dev.to/anhdung/choosing-tools-for-technical-architecture-diagrams-237e)
-- [F1 Local Navigation + VFF](https://dev.to/notlongas/f1-local-navigation-vff-1d41)
+- [Bye-bye Passwords: Embracing Secure, Hassle-Free Passkeys](https://dev.to/akashjana/bye-bye-passwords-embracing-secure-hassle-free-passkeys-20c3)
+- [🔐 How to Generate a GitHub Personal Access Token &lpar;PAT&rpar;](https://dev.to/warnerbell/how-to-generate-a-github-personal-access-token-pat-1bg5)
+- [Let&#39;s Talk About Open Source - FAV0 Weekly #019](https://dev.to/justin3go/lets-talk-about-open-source-fav0-weekly-019-4kal)
+- [How to Host Your Website on Netlify for Free.](https://dev.to/sudhanshu_developer/how-to-host-your-website-on-netlify-for-free-2iop)
+- [Setting Up a Basic Dev Environment on a Windows/Linux Machine](https://dev.to/warnerbell/setting-up-a-basic-dev-environment-on-a-windowslinux-machine-4na4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
