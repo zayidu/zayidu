@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is an interface in Golang, and why is it important in building large-scale systems?](https://dev.to/congle/what-is-an-interface-in-golang-and-why-is-it-important-in-building-large-scale-systems-1odb)
-- [The Potential of Blockchain in Gaming: Disruption or Over-hyped?](https://dev.to/bloxbytes/the-potential-of-blockchain-in-gaming-disruption-or-over-hyped-1ojk)
-- [What Is Training Data Poisoning in LLMs &amp; 6 Ways to Prevent It](https://dev.to/pynt/what-is-training-data-poisoning-in-llms-6-ways-to-prevent-it-ibg)
-- [Interactive Components in Markdown](https://dev.to/valeriavg/interactive-components-in-markdown-2l1h)
-- [cs50x week 6 Python](https://dev.to/kartikjhaba/cs50x-week-6-python-3ga6)
+- [How TypeScript Makes React Better: Smoother Developer Experience, Fewer Bugs &lpar;With a useState Example&rpar;](https://dev.to/igadii/how-typescript-makes-react-better-smoother-developer-experience-fewer-bugs-with-a-usestate-example-4loh)
+- [Integrate AI Effortlessly: A Beginner&#39;s Guide to Using CopilotKit](https://dev.to/niharikaa/integrate-ai-effortlessly-a-beginners-guide-to-using-copilotkit-1pgg)
+- [Fixing the &quot;CORS Policy: No &#39;Access-Control-Allow-Origin&#39;&quot; Error in Web Development 🚫🔧](https://dev.to/saqib_abbas_8d1b9da205a09/fixing-the-cors-policy-no-access-control-allow-origin-error-in-web-development-36e4)
+- [Choosing Tools for Technical Architecture Diagrams](https://dev.to/anhdung/choosing-tools-for-technical-architecture-diagrams-237e)
+- [F1 Local Navigation + VFF](https://dev.to/notlongas/f1-local-navigation-vff-1d41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
