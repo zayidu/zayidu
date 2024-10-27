@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PSD vs PNG](https://dev.to/smartdev72/psd-vs-png-382k)
-- [Start With Why: Lesson for Finding Your Next Big Break](https://dev.to/busycaesar/start-with-why-lesson-for-finding-your-next-big-break-4p7e)
-- [From Imposter to Innovator: Overcoming Self-Doubt in Tech](https://dev.to/techbalance_collective/from-imposter-to-innovator-overcoming-self-doubt-in-tech-n1d)
-- [Agendamento de Tarefas com Quartz.NET](https://dev.to/juarezasjunior/agendamento-de-tarefas-com-quartznet-1cee)
-- [Task Scheduling with Quartz.NET](https://dev.to/juarezasjunior/task-scheduling-with-quartznet-429)
+- [Safe Assignment Operator : Alternative to try/catch](https://dev.to/sonaykara/safe-assignment-operator-alternative-to-trycatch-52dp)
+- [The 3 Laws of Writing Readable Code - A Guide to Clean Programming](https://dev.to/jenueldev/the-3-laws-of-writing-readable-code-a-guide-to-clean-programming-32ap)
+- [How to Compress JPEG Images for Optimal Quality and Performance](https://dev.to/smartdev72/how-to-compress-jpeg-images-for-optimal-quality-and-performance-2gp2)
+- [Designing Scalable and Maintainable Microservices](https://dev.to/divine_nnanna2/designing-scalable-and-maintainable-microservices-32ij)
+- [Casting qilish haqida](https://dev.to/munisa_kuranbekova_078e1e/casting-qilish-haqida-4ppb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
