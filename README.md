@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SVG vs AVIF](https://dev.to/smartdev72/svg-vs-avif-145p)
-- [AI tool for each phase of your research journey!](https://dev.to/gracerosen/ai-tool-for-each-phase-of-your-research-journey-2ldh)
-- [Advanced State Management in React](https://dev.to/joaoalissonsilva/advanced-state-management-in-react-5b01)
-- [Setting Up a Private Storage account for a Company](https://dev.to/oluoma_stella/setting-up-a-private-storage-account-for-a-company-2e9d)
-- [My 7-Day Journey with HackQuest Co-Learning Camp 10: Exploring the Future of AI and Web3 with Gaia](https://dev.to/arup_matabber/my-7-day-journey-with-hackquest-co-learning-camp-10-exploring-the-future-of-ai-and-web3-with-gaia-1efb)
+- [The Role of Data Science in Shaping Modern Economics](https://dev.to/sourishsr31/the-role-of-data-science-in-shaping-modern-economics-3gi3)
+- [A Beginner&#39;s Guide to the CSS Box Model](https://dev.to/magsimuhammadessa/a-beginners-guide-to-the-css-box-model-4hc5)
+- [Atomic Design no Frontend &lpar;português&rpar;](https://dev.to/jullymac/atomic-design-no-frontend-portugues-1ea6)
+- [Hey guys im new here need a strong guidelines for master c++ core concepts. and any leetcode practice or series&#39;?](https://dev.to/syedalambukhari_110/hey-guys-im-new-here-need-a-strong-guidelines-for-master-c-core-concepts-and-any-leetcode-practice-or-series-6i6)
+- [الثقة بالله نجاح](https://dev.to/nour_makawijdev_e5fd3/lthq-bllh-njh-5406)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
