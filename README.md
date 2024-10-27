@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Data Science in Shaping Modern Economics](https://dev.to/sourishsr31/the-role-of-data-science-in-shaping-modern-economics-3gi3)
-- [A Beginner&#39;s Guide to the CSS Box Model](https://dev.to/magsimuhammadessa/a-beginners-guide-to-the-css-box-model-4hc5)
-- [Atomic Design no Frontend &lpar;português&rpar;](https://dev.to/jullymac/atomic-design-no-frontend-portugues-1ea6)
-- [Hey guys im new here need a strong guidelines for master c++ core concepts. and any leetcode practice or series&#39;?](https://dev.to/syedalambukhari_110/hey-guys-im-new-here-need-a-strong-guidelines-for-master-c-core-concepts-and-any-leetcode-practice-or-series-6i6)
-- [الثقة بالله نجاح](https://dev.to/nour_makawijdev_e5fd3/lthq-bllh-njh-5406)
+- [Navigating with React Router React Js Part 4: A Guide to Routing in React Applications](https://dev.to/kyydev/navigating-with-react-router-react-js-part-4-a-guide-to-routing-in-react-applications-1ikb)
+- [Java Inner Classes and Nested Classes](https://dev.to/dhanush9952/java-inner-classes-and-nested-classes-39a6)
+- [🌐 Navigating the CNCF Landscape: A Roadmap for Open Source Contributions 🚀](https://dev.to/manvendra2000/navigating-the-cncf-landscape-a-roadmap-for-open-source-contributions-1poe)
+- [Top 5 Programming Profiles: Racer, Coder, Maker, Joker, Tutor](https://dev.to/gurigraphics/top-5-programming-profiles-racer-coder-maker-joker-tutor-1gk5)
+- [🤖 Building a Financial AI Chatbot with Rasa: A Hands-On Guide 🌱](https://dev.to/santhoshvijayabaskar/building-a-financial-ai-chatbot-with-rasa-a-hands-on-guide-57do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
