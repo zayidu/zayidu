@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide to Light/Dark Mode on Bear Blog](https://dev.to/yordiverkroost/step-by-step-guide-to-lightdark-mode-on-bear-blog-11ek)
-- [Parkinson&#39;s Law in Software Development: How to Break the Time-Expansion Trap 🚀](https://dev.to/rumendimov/parkinsons-law-in-software-development-how-to-break-the-time-expansion-trap-28a0)
-- [Add Jetbrains Fleet to right click context menu in windows 11](https://dev.to/ozkanpakdil/add-jetbrains-fleet-to-right-click-context-menu-in-windows-11-2kpg)
-- [Setting Up a Node.js, TypeScript, and Express Project](https://dev.to/codeparrot/setting-up-a-nodejs-typescript-and-express-project-3jha)
-- [Mastering SQL Optimization: A Beginner’s Guide to Faster and More Efficient Queries](https://dev.to/allan-pg/mastering-sql-optimization-a-beginners-guide-to-faster-and-more-efficient-queries-32ka)
+- [C4 Model - The Basics](https://dev.to/rafaeljcamara/c4-model-the-basics-5bk5)
+- [Retrieval-Augmented Generation &lpar;RAG&rpar; in LLMs](https://dev.to/nareshnishad/retrieval-augmented-generation-rag-in-llms-4io0)
+- [3 VS CODE ALTERNATIVES THAT ARE GREAT 👍](https://dev.to/mince/3-vs-code-alternatives-that-are-great-gi0)
+- [Learning to Use HTML &amp; CSS: Your First Webpage](https://dev.to/okoye_ndidiamaka_5e3b7d30/learning-to-use-html-css-your-first-webpage-4c39)
+- [Does svelte5 have multi {@render} equivalent to ver.4’s multi named slot use inside +layout.svelte？](https://dev.to/thomaschoi721/does-svelte5-have-multi-render-equivalent-to-ver4s-multi-named-slot-use-inside-layoutsvelte-4op7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
