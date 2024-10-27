@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Trying to build a $1K MRR SaaS app, while being a full time student 😊](https://dev.to/jaypatel123/trying-to-build-a-1k-mrr-saas-app-while-being-a-full-time-student-4h9b)
-- [Understanding Server-Side Rendering &lpar;SSR&rpar; and Client-Side Rendering &lpar;CSR&rpar;: How Websites Show You Content](https://dev.to/vjygour/understanding-server-side-rendering-ssr-and-client-side-rendering-csr-how-websites-show-you-content-1am3)
-- [Navigating with React Router React Js Part 4: A Guide to Routing in React Applications](https://dev.to/kyydev/navigating-with-react-router-react-js-part-4-a-guide-to-routing-in-react-applications-1ikb)
-- [Java Inner Classes and Nested Classes](https://dev.to/dhanush9952/java-inner-classes-and-nested-classes-39a6)
-- [🌐 Navigating the CNCF Landscape: A Roadmap for Open Source Contributions 🚀](https://dev.to/manvendra2000/navigating-the-cncf-landscape-a-roadmap-for-open-source-contributions-1poe)
+- [Mastering Scalability : A Comprehensive Guide to Techniques, Needs, and Implementation](https://dev.to/ari-ghosh/mastering-scalability-a-comprehensive-guide-to-techniques-needs-and-implementation-o7)
+- [System Design of YouTube: A Detailed Deep Dive into the Video Giant](https://dev.to/wittedtech-by-harshit/system-design-of-youtube-a-detailed-deep-dive-into-the-video-giant-5019)
+- [How To Handle Custom S/DQL Queries On Different Database Engine with DoctrineExpression](https://dev.to/ucscode/how-to-handle-custom-sdql-queries-on-different-database-engine-with-doctrineexpression-2j64)
+- [Algo-Trading Engine](https://dev.to/jitanshuraut/algo-trading-engine-1keb)
+- [AWS Cloud Migration: 3-Tier Architecture from an on-prim data center to AWS Cloud!](https://dev.to/bhatiagirish/aws-cloud-migration-3-tier-architecture-from-an-on-prim-data-center-to-aws-cloud-138g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
