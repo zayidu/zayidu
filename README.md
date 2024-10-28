@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Latio Team: A community for tech hackers building togheter](https://dev.to/fredoist/latio-team-a-community-for-tech-hackers-building-togheter-289p)
-- [Deploying a Spring Boot Banking Application with Docker](https://dev.to/aungkohtat/deploying-a-spring-boot-banking-application-with-docker-n25)
-- [The beginner’s guide to React&#39;s useState hook - the absolute basics &lpar;with TypeScript&rpar;](https://dev.to/tymzap/the-beginners-guide-to-reacts-usestate-hook-the-absolute-basics-1gei)
-- [Most Useful Jenkins Plugins and Their Use Cases](https://dev.to/i_am_vesh/most-useful-jenkins-plugins-and-their-use-cases-14j9)
-- [surviving coding bootcamp: lessons learned](https://dev.to/ashleyd480/surviving-coding-bootcamp-lessons-learned-58am)
+- [Build Inventory Software [Rust / Cursive]](https://dev.to/bekbrace/build-inventory-software-rust-cursive-5bc5)
+- [Boost Your Coding Productivity with Ctrl+Alt+Cheat: The Ultimate VSCode Extension](https://dev.to/hkp22/boost-your-coding-productivity-with-ctrlaltcheat-the-ultimate-vscode-extension-4pfi)
+- [Native Domain-Driven Design with Flama](https://dev.to/vortico/native-domain-driven-design-with-flama-l9o)
+- [Coolify: server management the cool way](https://dev.to/giuliano1993/coolify-server-management-the-cool-way-2eeo)
+- [MySQL Daemon Overview and Tools](https://dev.to/dbvismarketing/mysql-daemon-overview-and-tools-2ja6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
