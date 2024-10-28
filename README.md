@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Inventory Software [Rust / Cursive]](https://dev.to/bekbrace/build-inventory-software-rust-cursive-5bc5)
-- [Boost Your Coding Productivity with Ctrl+Alt+Cheat: The Ultimate VSCode Extension](https://dev.to/hkp22/boost-your-coding-productivity-with-ctrlaltcheat-the-ultimate-vscode-extension-4pfi)
-- [Native Domain-Driven Design with Flama](https://dev.to/vortico/native-domain-driven-design-with-flama-l9o)
-- [Coolify: server management the cool way](https://dev.to/giuliano1993/coolify-server-management-the-cool-way-2eeo)
-- [MySQL Daemon Overview and Tools](https://dev.to/dbvismarketing/mysql-daemon-overview-and-tools-2ja6)
+- [Beyond boring 🙄 markdown rendering with LLMs ✨ and React ⚛️](https://dev.to/fibonacid/beyond-boring-markdown-rendering-with-llms-and-react-2gb3)
+- [Optimizing Jenkins Plugin Management with CLI – Setup, Benefits, and Best Practices](https://dev.to/favxlaw/optimizing-jenkins-plugin-management-with-cli-setup-benefits-and-best-practices-3ej0)
+- [5 Best ETL Tools: A Comprehensive Comparison Guide](https://dev.to/techsourabh/5-best-etl-tools-a-comprehensive-comparison-guide-534b)
+- [Inline Classes in Kotlin: Why, Where, and How to Use Them](https://dev.to/1noshishi/inline-classes-in-kotlin-why-where-and-how-to-use-them-1cg8)
+- [A Guide to Root Access for AWS S3 Buckets](https://dev.to/taiwo_opeoluwa_c6c1a34b00/a-guide-to-root-access-for-aws-s3-buckets-pf1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
