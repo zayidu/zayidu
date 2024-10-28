@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KonNiche - Skill-Based Feedback to Improve Your Projects](https://dev.to/schemetastic/konniche-skill-based-feedback-to-improve-your-projects-1ejb)
-- [Ownership](https://dev.to/xavier2code/ownership-3o31)
-- [10 JavaScript Tips to Boost Development Efficiency](https://dev.to/jsdevspace/10-javascript-tips-to-boost-development-efficiency-2gno)
-- [My Journey into Software Engineering](https://dev.to/sababat/my-journey-into-software-engineering-13f0)
-- [My Fourth and Final Contribution to Hacktoberfest](https://dev.to/kannav02/my-fourth-and-final-contribution-to-hacktoberfest-1g8d)
+- [Motion Fitness: A gamified fitness community to keep you fit](https://dev.to/paul_freeman/motion-fitness-a-gamified-fitness-community-to-keep-you-fit-32m)
+- [Combining Object-Oriented and Functional Programming in Large Projects](https://dev.to/adityabhuyan/combining-object-oriented-and-functional-programming-in-large-projects-6m2)
+- [10 JavaScript projects I have completed as a beginner!](https://dev.to/sababat/10-javascript-projects-i-have-completed-as-a-beginner-570c)
+- [Hacktoberfest Recap](https://dev.to/aamfahim/hacktoberfest-recap-4im1)
+- [The World’s 1st Completely Free Face Recognition SDK for Windows and Linux](https://dev.to/faceplugin/the-worlds-1st-completely-free-face-recognition-sdk-for-windows-and-linux-48of)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
