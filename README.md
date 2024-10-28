@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Microservices Architecture: The Power of API Design, Automation, and Management](https://dev.to/getambassador2024/optimizing-microservices-architecture-the-power-of-api-design-automation-and-management-3nlb)
-- [Mastering CI/CD Pipeline: The Key to Streamlined Software Delivery](https://dev.to/getambassador2024/mastering-cicd-pipeline-the-key-to-streamlined-software-delivery-29n4)
-- [Rise Collective: Women Entrepreneur community using Wix Studio &lpar;Smart Mentor Matching&rpar; &amp; More.](https://dev.to/karan_shah_2cbf1785a701a7/rise-collective-women-entrepreneur-community-using-wix-studio-smart-mentor-matching-more-5ed0)
-- [Custom EHR Software Development: A Comprehensive Guide for Healthcare Providers](https://dev.to/evelynwyatt/custom-ehr-software-development-a-comprehensive-guide-for-healthcare-providers-42cj)
-- [Building Resilient GenAI pipeline with Open-source AI Gateway](https://dev.to/avinashdalvi_/building-resilient-genai-pipeline-with-open-source-ai-gateway-1aog)
+- [Latio Team: A community for tech hackers building togheter](https://dev.to/fredoist/latio-team-a-community-for-tech-hackers-building-togheter-289p)
+- [Deploying a Spring Boot Banking Application with Docker](https://dev.to/aungkohtat/deploying-a-spring-boot-banking-application-with-docker-n25)
+- [The beginner’s guide to React&#39;s useState hook - the absolute basics &lpar;with TypeScript&rpar;](https://dev.to/tymzap/the-beginners-guide-to-reacts-usestate-hook-the-absolute-basics-1gei)
+- [Most Useful Jenkins Plugins and Their Use Cases](https://dev.to/i_am_vesh/most-useful-jenkins-plugins-and-their-use-cases-14j9)
+- [surviving coding bootcamp: lessons learned](https://dev.to/ashleyd480/surviving-coding-bootcamp-lessons-learned-58am)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
