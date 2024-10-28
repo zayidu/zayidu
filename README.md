@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AIM Weekly 28 Oct 2024](https://dev.to/tspannhw/aim-weekly-28-oct-2024-339l)
-- [Choosing the Right Tech Stack: A Developer&#39;s Decision-Making Guide](https://dev.to/encore/choosing-the-right-tech-stack-a-developers-decision-making-guide-5gkd)
-- [Using the ternary expression in the Sempare Template Engine for Delphi](https://dev.to/sempare/using-the-ternary-expression-in-the-sempare-template-engine-for-delphi-2ne)
-- [12 Open Source Projects You Will Be Amazed to Discover 🔥🧑‍💻](https://dev.to/madza/12-open-source-projects-you-will-be-amazed-to-discover-knf)
-- [Meme Monday](https://dev.to/ben/meme-monday-1kmm)
+- [Tailwind CSS Patterns](https://dev.to/railsdesigner/tailwind-css-patterns-1dma)
+- [AWS Storage - Part 3: Instance Store and EBS](https://dev.to/hulk-pham/aws-storage-part-3-instance-store-and-ebs-3be)
+- [Transform any MeteorJS App to a PWA in 2024](https://dev.to/meteor/transform-any-meteorjs-app-to-a-pwa-in-2024-15ll)
+- [How to Deploying Django on Vercel](https://dev.to/petrjoe/how-to-deploying-django-on-vercel-43ek)
+- [Strategy Pattern](https://dev.to/sota_333ad4b72095606ab40c/strategy-pattern-5hdh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
