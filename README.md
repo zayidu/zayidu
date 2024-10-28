@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming Imposter Syndrome &lpar;OTB Ep 2: Monica Ayhens-Madon&rpar;](https://dev.to/codemouse92/overcoming-imposter-syndrome-otb-ep-2-monica-ayhens-madon-3fkl)
-- [TIL: How To Use the Specification Pattern in C# To Simplify Repositories](https://dev.to/canro91/til-how-to-use-the-specification-pattern-in-c-to-simplify-repositories-2m16)
-- [Perl Weekly #692 - LPW 2024: Quick Report](https://dev.to/szabgab/perl-weekly-692-lpw-2024-quick-report-5d1)
-- [¡AWS Community Day Bolivia 🇧🇴: Gracias por hacer de este evento una experiencia inolvidable! 🎉](https://dev.to/monica_canaza/aws-community-day-bolivia-gracias-por-hacer-de-este-evento-una-experiencia-inolvidable-3e33)
-- [Desktop Shortcut for Adjust ClearType Text in Windows 11](https://dev.to/winsides/desktop-shortcut-for-adjust-cleartype-text-in-windows-11-25hb)
+- [Optimizing Microservices Architecture: The Power of API Design, Automation, and Management](https://dev.to/getambassador2024/optimizing-microservices-architecture-the-power-of-api-design-automation-and-management-3nlb)
+- [Mastering CI/CD Pipeline: The Key to Streamlined Software Delivery](https://dev.to/getambassador2024/mastering-cicd-pipeline-the-key-to-streamlined-software-delivery-29n4)
+- [Rise Collective: Women Entrepreneur community using Wix Studio &lpar;Smart Mentor Matching&rpar; &amp; More.](https://dev.to/karan_shah_2cbf1785a701a7/rise-collective-women-entrepreneur-community-using-wix-studio-smart-mentor-matching-more-5ed0)
+- [Custom EHR Software Development: A Comprehensive Guide for Healthcare Providers](https://dev.to/evelynwyatt/custom-ehr-software-development-a-comprehensive-guide-for-healthcare-providers-42cj)
+- [Building Resilient GenAI pipeline with Open-source AI Gateway](https://dev.to/avinashdalvi_/building-resilient-genai-pipeline-with-open-source-ai-gateway-1aog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
