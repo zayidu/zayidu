@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Odoo: Import CSV file and write into sale order lines](https://dev.to/jeevanizm/odoo-import-csv-file-and-write-into-sale-order-lines-pj1)
-- [SafeLine WAF: Free/Community vs Pro](https://dev.to/carrie_luo1/safeline-waf-freecommunity-vs-pro-4fd8)
-- [Odoo : create CSV file and download](https://dev.to/jeevanizm/odoo-create-csv-file-and-download-jkn)
-- [React Native 0.76: The New Architecture That Takes Performance and Efficiency to the Next Level 🚀](https://dev.to/abdulnasirolcan/react-native-076-the-new-architecture-that-takes-performance-and-efficiency-to-the-next-level-4jam)
-- [Docker exposes itself to your LAN](https://dev.to/jarlefosen/docker-exposes-itself-to-your-lan-58pk)
+- [L&#39;IA révolutionne nos environnements de développement !](https://dev.to/tom_goureau/lia-revolutionne-nos-environnements-de-developpement--2dlh)
+- [Next.js on AWS: Deployment Strategies](https://dev.to/redrobotdev/nextjs-on-aws-deployment-strategies-explained-53d1)
+- [I Failed 300+ Times, Then This Happened…](https://dev.to/abdibrokhim/i-failed-300-times-then-this-happened-50b4)
+- [CineCue - A seamless localization demo with RoR.](https://dev.to/sixzix/cinecue-a-seamless-localization-demo-with-ror-360j)
+- [JavaScript Essentials: Part 6 &lpar;Mastermind in Javascript&rpar;](https://dev.to/otumianempire/javascript-essentials-part-6-mastermind-in-javascript-53l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
