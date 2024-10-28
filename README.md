@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Scroll Progress Bar in Next.js/React](https://dev.to/designly/how-to-create-a-scroll-progress-bar-in-nextjsreact-3oj7)
-- [Mild Introduction to Modern Sequence Processing. Part 1: Looking into Recurrent Neural Networks](https://dev.to/fively/mild-introduction-to-modern-sequence-processing-part-1-looking-into-recurrent-neural-networks-5g8)
-- [Perfectly Qualified Yet Rejected? Here’s Why It Happens and What to Change](https://dev.to/chocoscoding/perfectly-qualified-yet-rejected-heres-why-it-happens-and-what-to-change-4g6b)
-- [How to you collect data about your app?](https://dev.to/rudyryk/how-to-you-collect-data-about-your-app-20k4)
-- [Hacktoberfest 4/4: The final PR](https://dev.to/harshil_patel/hacktoberfest-44-the-final-pr-p08)
+- [Representing and Manipulating Information in modern computer - Part 1](https://dev.to/saifu0/representing-andmanipulating-information-in-modern-computer-part-1-594h)
+- [How to Choose the Right AWS Region: Key Factors and Real-Life Lessons](https://dev.to/akshaysiwal/how-to-choose-the-right-aws-region-key-factors-and-real-life-lessons-3mg4)
+- [React Dynamic Template Demo](https://dev.to/erikologic/react-dynamic-template-demo-335m)
+- [I read: The Shortest, Strangest Engineering Interview I&#39;ve Ever Done](https://dev.to/ademagic/i-read-the-shortest-strangest-engineering-interview-ive-ever-done-5bki)
+- [How we have managed to run Enzyme tests with React 18 app.](https://dev.to/andrew_arhangelski/how-we-have-managed-to-run-enzyme-tests-with-react-18-app-1f2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
