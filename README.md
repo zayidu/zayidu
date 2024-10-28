@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Representing and Manipulating Information in modern computer - Part 1](https://dev.to/saifu0/representing-andmanipulating-information-in-modern-computer-part-1-594h)
-- [How to Choose the Right AWS Region: Key Factors and Real-Life Lessons](https://dev.to/akshaysiwal/how-to-choose-the-right-aws-region-key-factors-and-real-life-lessons-3mg4)
-- [React Dynamic Template Demo](https://dev.to/erikologic/react-dynamic-template-demo-335m)
-- [I read: The Shortest, Strangest Engineering Interview I&#39;ve Ever Done](https://dev.to/ademagic/i-read-the-shortest-strangest-engineering-interview-ive-ever-done-5bki)
-- [How we have managed to run Enzyme tests with React 18 app.](https://dev.to/andrew_arhangelski/how-we-have-managed-to-run-enzyme-tests-with-react-18-app-1f2e)
+- [My Journey into Software Engineering](https://dev.to/sababat/my-journey-into-software-engineering-13f0)
+- [My Fourth and Final Contribution to Hacktoberfest](https://dev.to/kannav02/my-fourth-and-final-contribution-to-hacktoberfest-1g8d)
+- [React Js Part 5 : Lifecycle Methods and Hooks in React](https://dev.to/kyydev/lifecycle-methods-and-hooks-in-react-aga)
+- [Setting Up an Ubuntu Dev Environment with Multipass and VS Code Remote-SSH](https://dev.to/dpuig/setting-up-an-ubuntu-dev-environment-with-multipass-and-vs-code-remote-ssh-1709)
+- [Webhooks in Django: A Comprehensive Guide](https://dev.to/aakas/webhooks-in-django-a-comprehensive-guide-44jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
