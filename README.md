@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Service Accounts: Guide](https://dev.to/cicube/kubernetes-service-accounts-guide-586n)
-- [Common Mistakes of a Developer Starting with Meteor.js](https://dev.to/quave/common-mistakes-of-a-developer-starting-with-meteorjs-4775)
-- [Build a Seamless ServiceTitan Integration with Next.js: A Modern, Full-Stack Guide](https://dev.to/spencermarx/build-a-seamless-servicetitan-integration-with-nextjs-a-modern-full-stack-guide-1dbc)
-- [DynamoDB: Query x Scan! Para de torrar dinheiro usando Scan em produção](https://dev.to/camilacodes/dynamodb-query-x-scan-para-de-torrar-dinheiro-usando-scan-em-producao-548e)
-- [Usage of Dexie, an IndexedDB wrapper, in Lobechat](https://dev.to/thinkthroo/usage-of-dexie-an-indexeddb-wrapper-in-lobechat-3plm)
+- [Fixing numerous android build errors](https://dev.to/vpalania/career-progression-development-to-leadership-feat-siddharth-parakh-g45)
+- [E2E testing in React with Cypress](https://dev.to/griseduardo/e2e-testing-in-react-with-cypress-p82)
+- [Testes e2e em React com Cypress](https://dev.to/griseduardo/testes-e2e-em-react-com-cypress-n9d)
+- [Installing FreeBSD on a HP 250 G9](https://dev.to/brunopacheco1/installing-freebsd-on-a-hp-250-g9-3c10)
+- [How to Safeguard Your Crypto: Expert Tips for Avoiding Scams and Phishing Attacks](https://dev.to/maxpavlov/how-to-safeguard-your-crypto-expert-tips-for-avoiding-scams-and-phishing-attacks-4gjl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
