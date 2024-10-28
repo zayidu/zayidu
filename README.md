@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [L&#39;IA révolutionne nos environnements de développement !](https://dev.to/tom_goureau/lia-revolutionne-nos-environnements-de-developpement--2dlh)
-- [Next.js on AWS: Deployment Strategies](https://dev.to/redrobotdev/nextjs-on-aws-deployment-strategies-explained-53d1)
-- [I Failed 300+ Times, Then This Happened…](https://dev.to/abdibrokhim/i-failed-300-times-then-this-happened-50b4)
-- [CineCue - A seamless localization demo with RoR.](https://dev.to/sixzix/cinecue-a-seamless-localization-demo-with-ror-360j)
-- [JavaScript Essentials: Part 6 &lpar;Mastermind in Javascript&rpar;](https://dev.to/otumianempire/javascript-essentials-part-6-mastermind-in-javascript-53l)
+- [New React Projec](https://dev.to/ayala3423/new-react-projec-5bbh)
+- [NexOracle Rest APIs](https://dev.to/nexoracle/nexoracle-rest-apis-1m6m)
+- [Unlock the Fundamentals: 5 Free Computer Science Courses to Elevate Your Programming Journey](https://dev.to/getvm/unlock-the-fundamentals-5-free-computer-science-courses-to-elevate-your-programming-journey-3bob)
+- [Request Management System](https://dev.to/notreal001/request-management-system-6md)
+- [When the cloud isn&#39;t enough &lpar;triple modular redundancy&rpar;](https://dev.to/karkael/when-the-cloud-isnt-enough-triple-modular-redundancy-1lk1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
