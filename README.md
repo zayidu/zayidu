@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [aasd](https://dev.to/khalifalmahmud0/aasd-3de7)
-- [How I Cloned Myself with LLMs to Work 24/7 – Even While I Sleep](https://dev.to/docsgpt/how-i-cloned-myself-with-llms-to-work-247-even-while-i-sleep-23nn)
-- [5 costly mistakes when deploying Docker containers &lpar;and how to dodge them like a pro 😎&rpar;](https://dev.to/wimadev/5-costly-mistakes-when-deploying-docker-containers-and-how-to-dodge-them-like-a-pro--3kbm)
-- [Top 8 Web development projects for beginners](https://dev.to/balrajola/top-8-web-development-projects-for-beginners-40no)
-- [Dynamic Values: Transforming API Testing for Real-World Scenarios](https://dev.to/apilover/dynamic-values-transforming-api-testing-for-real-world-scenarios-5bci)
+- [Week 2 in DevOps: From Linux Basics to Shell Scripting](https://dev.to/amandeol063/week-2-in-devops-from-linux-basics-to-shell-scripting-27m9)
+- [Understanding File Permissions in Linux: A Comprehensive Guide](https://dev.to/ibeh_joseph_003000c1fc029/understanding-file-permissions-in-linux-a-comprehensive-guide-2dlg)
+- [From Headlines to YouTube: Crafting an AI-Powered News Video Generator](https://dev.to/hgky95/from-headlines-to-youtube-crafting-an-ai-powered-news-video-generator-46ga)
+- [Navigating KALP Studio’s API Gateway](https://dev.to/kalpstudio/navigating-kalp-studios-api-gateway-536p)
+- [Integração de Microsserviços e Processamento de Mensagens com MassTransit e RabbitMQ](https://dev.to/juarezasjunior/integracao-de-microsservicos-e-processamento-de-mensagens-com-masstransit-e-rabbitmq-3k7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
