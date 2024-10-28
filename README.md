@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Perfect Elixir: Onboarding](https://dev.to/jonlauridsen/perfect-elixir-onboarding-10o5)
-- [Impl Snake For Micro:bit - Embedded async Rust on BBC Micro:bit with Embassy](https://dev.to/cyrilmarpaud/impl-snake-for-microbit-embedded-async-rust-on-bbc-microbit-with-embassy-ohn)
-- [Sealed Classes en Java](https://dev.to/asjordi/sealed-classes-en-java-1anp)
-- [NGV: plugins](https://dev.to/_gb_/ngv-plugins-3fkp)
-- [A modern 3D viewer framework series](https://dev.to/_gb_/a-modern-3d-viewer-framework-series-3nn)
+- [AIM Weekly 28 Oct 2024](https://dev.to/tspannhw/aim-weekly-28-oct-2024-339l)
+- [Choosing the Right Tech Stack: A Developer&#39;s Decision-Making Guide](https://dev.to/encore/choosing-the-right-tech-stack-a-developers-decision-making-guide-5gkd)
+- [Using the ternary expression in the Sempare Template Engine for Delphi](https://dev.to/sempare/using-the-ternary-expression-in-the-sempare-template-engine-for-delphi-2ne)
+- [12 Open Source Projects You Will Be Amazed to Discover 🔥🧑‍💻](https://dev.to/madza/12-open-source-projects-you-will-be-amazed-to-discover-knf)
+- [Meme Monday](https://dev.to/ben/meme-monday-1kmm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
