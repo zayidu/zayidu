@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Motion Fitness: A gamified fitness community to keep you fit](https://dev.to/paul_freeman/motion-fitness-a-gamified-fitness-community-to-keep-you-fit-32m)
-- [Combining Object-Oriented and Functional Programming in Large Projects](https://dev.to/adityabhuyan/combining-object-oriented-and-functional-programming-in-large-projects-6m2)
-- [10 JavaScript projects I have completed as a beginner!](https://dev.to/sababat/10-javascript-projects-i-have-completed-as-a-beginner-570c)
-- [Hacktoberfest Recap](https://dev.to/aamfahim/hacktoberfest-recap-4im1)
-- [The World’s 1st Completely Free Face Recognition SDK for Windows and Linux](https://dev.to/faceplugin/the-worlds-1st-completely-free-face-recognition-sdk-for-windows-and-linux-48of)
+- [Overcoming Imposter Syndrome &lpar;OTB Ep 2: Monica Ayhens-Madon&rpar;](https://dev.to/codemouse92/overcoming-imposter-syndrome-otb-ep-2-monica-ayhens-madon-3fkl)
+- [TIL: How To Use the Specification Pattern in C# To Simplify Repositories](https://dev.to/canro91/til-how-to-use-the-specification-pattern-in-c-to-simplify-repositories-2m16)
+- [Perl Weekly #692 - LPW 2024: Quick Report](https://dev.to/szabgab/perl-weekly-692-lpw-2024-quick-report-5d1)
+- [¡AWS Community Day Bolivia 🇧🇴: Gracias por hacer de este evento una experiencia inolvidable! 🎉](https://dev.to/monica_canaza/aws-community-day-bolivia-gracias-por-hacer-de-este-evento-una-experiencia-inolvidable-3e33)
+- [Desktop Shortcut for Adjust ClearType Text in Windows 11](https://dev.to/winsides/desktop-shortcut-for-adjust-cleartype-text-in-windows-11-25hb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
