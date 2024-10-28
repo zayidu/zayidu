@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond boring 🙄 markdown rendering with LLMs ✨ and React ⚛️](https://dev.to/fibonacid/beyond-boring-markdown-rendering-with-llms-and-react-2gb3)
-- [Optimizing Jenkins Plugin Management with CLI – Setup, Benefits, and Best Practices](https://dev.to/favxlaw/optimizing-jenkins-plugin-management-with-cli-setup-benefits-and-best-practices-3ej0)
-- [5 Best ETL Tools: A Comprehensive Comparison Guide](https://dev.to/techsourabh/5-best-etl-tools-a-comprehensive-comparison-guide-534b)
-- [Inline Classes in Kotlin: Why, Where, and How to Use Them](https://dev.to/1noshishi/inline-classes-in-kotlin-why-where-and-how-to-use-them-1cg8)
-- [A Guide to Root Access for AWS S3 Buckets](https://dev.to/taiwo_opeoluwa_c6c1a34b00/a-guide-to-root-access-for-aws-s3-buckets-pf1)
+- [VS Code Just Made GitHub Copilot Even Smarter: Just Drag And Drop File](https://dev.to/thandhla/vs-code-just-made-github-copilot-even-smarter-just-drag-and-drop-file-2icd)
+- [Implementing Thread Safe Singleton Pattern in C#](https://dev.to/abdullahal_mahmud/implementing-thread-safe-singleton-pattern-in-c-22b5)
+- [Découvrez Cursor : L’éditeur de code qui booste votre productivité !](https://dev.to/guillaumesere/decouvrez-cursor-lediteur-de-code-qui-booste-votre-productivite--fje)
+- [Safe Assignment Operator : Alternative to try/catch](https://dev.to/sonaykara/safe-assignment-operator-alternative-to-trycatch-2l3p)
+- [The Art of Depression](https://dev.to/jmfayard/the-art-of-depression-2m1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
