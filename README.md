@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VS Code Just Made GitHub Copilot Even Smarter: Just Drag And Drop File](https://dev.to/thandhla/vs-code-just-made-github-copilot-even-smarter-just-drag-and-drop-file-2icd)
-- [Implementing Thread Safe Singleton Pattern in C#](https://dev.to/abdullahal_mahmud/implementing-thread-safe-singleton-pattern-in-c-22b5)
-- [Découvrez Cursor : L’éditeur de code qui booste votre productivité !](https://dev.to/guillaumesere/decouvrez-cursor-lediteur-de-code-qui-booste-votre-productivite--fje)
-- [Safe Assignment Operator : Alternative to try/catch](https://dev.to/sonaykara/safe-assignment-operator-alternative-to-trycatch-2l3p)
-- [The Art of Depression](https://dev.to/jmfayard/the-art-of-depression-2m1i)
+- [aasd](https://dev.to/khalifalmahmud0/aasd-3de7)
+- [How I Cloned Myself with LLMs to Work 24/7 – Even While I Sleep](https://dev.to/docsgpt/how-i-cloned-myself-with-llms-to-work-247-even-while-i-sleep-23nn)
+- [5 costly mistakes when deploying Docker containers &lpar;and how to dodge them like a pro 😎&rpar;](https://dev.to/wimadev/5-costly-mistakes-when-deploying-docker-containers-and-how-to-dodge-them-like-a-pro--3kbm)
+- [Top 8 Web development projects for beginners](https://dev.to/balrajola/top-8-web-development-projects-for-beginners-40no)
+- [Dynamic Values: Transforming API Testing for Real-World Scenarios](https://dev.to/apilover/dynamic-values-transforming-api-testing-for-real-world-scenarios-5bci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
