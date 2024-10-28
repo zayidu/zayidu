@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing PinataNET: A Simple C# Wrapper for the Pinata API](https://dev.to/sebastiandevelops/introducing-pinatanet-a-simple-c-wrapper-for-the-pinata-api-396d)
-- [Dealing with Digital Transformation in large companies](https://dev.to/smfiorillo/dealing-with-digital-transformation-in-large-companies-318e)
-- [Join To My Journey to learn building full stack web application](https://dev.to/mert_izgahi_e1e5719866b86/join-to-my-journey-to-learn-building-full-stack-web-application-33bn)
-- [🌱 My Hacktoberfest Experience: A Journey of Code, Challenges, and Community](https://dev.to/akashjana/my-hacktoberfest-experience-a-journey-of-code-challenges-and-community-1b9p)
-- [Recap and Rambles of Last Week #2](https://dev.to/jennjunod/recap-and-rambles-of-last-week-2-2jlb)
+- [Kubernetes Service Accounts: Guide](https://dev.to/cicube/kubernetes-service-accounts-guide-586n)
+- [Common Mistakes of a Developer Starting with Meteor.js](https://dev.to/quave/common-mistakes-of-a-developer-starting-with-meteorjs-4775)
+- [Build a Seamless ServiceTitan Integration with Next.js: A Modern, Full-Stack Guide](https://dev.to/spencermarx/build-a-seamless-servicetitan-integration-with-nextjs-a-modern-full-stack-guide-1dbc)
+- [DynamoDB: Query x Scan! Para de torrar dinheiro usando Scan em produção](https://dev.to/camilacodes/dynamodb-query-x-scan-para-de-torrar-dinheiro-usando-scan-em-producao-548e)
+- [Usage of Dexie, an IndexedDB wrapper, in Lobechat](https://dev.to/thinkthroo/usage-of-dexie-an-indexeddb-wrapper-in-lobechat-3plm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
