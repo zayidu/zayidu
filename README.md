@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Bias and Variance: Lessons from Learning to Ride a Bike](https://dev.to/sreeni5018/navigating-bias-and-variance-lessons-from-learning-to-ride-a-bike-e36)
-- [Protecting Your Digital Life: A Simple Guide to Mobile App Security for Everyday Users and Small Business Owners](https://dev.to/igbikisimewari/protecting-your-digital-life-a-simple-guide-to-mobile-app-security-for-everyday-users-and-small-business-owners-4f05)
-- [What are your goals for the week 44, HacktoberFest final days?](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-44-hacktoberfest-final-days-1gm)
-- [Análise de dados de tráfego aéreo em tempo real com Spark Structured Streaming e Apache Kafka](https://dev.to/geazi_anc/analise-de-dados-de-trafego-aereo-em-tempo-real-com-spark-structured-streaming-e-apache-kafka-2db5)
-- [Which Framework is better for you Django or Express JS?](https://dev.to/zlaam/which-framework-is-better-for-you-django-or-express-js-453e)
+- [Odoo: Import CSV file and write into sale order lines](https://dev.to/jeevanizm/odoo-import-csv-file-and-write-into-sale-order-lines-pj1)
+- [SafeLine WAF: Free/Community vs Pro](https://dev.to/carrie_luo1/safeline-waf-freecommunity-vs-pro-4fd8)
+- [Odoo : create CSV file and download](https://dev.to/jeevanizm/odoo-create-csv-file-and-download-jkn)
+- [React Native 0.76: The New Architecture That Takes Performance and Efficiency to the Next Level 🚀](https://dev.to/abdulnasirolcan/react-native-076-the-new-architecture-that-takes-performance-and-efficiency-to-the-next-level-4jam)
+- [Docker exposes itself to your LAN](https://dev.to/jarlefosen/docker-exposes-itself-to-your-lan-58pk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
