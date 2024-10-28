@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing numerous android build errors](https://dev.to/vpalania/career-progression-development-to-leadership-feat-siddharth-parakh-g45)
-- [E2E testing in React with Cypress](https://dev.to/griseduardo/e2e-testing-in-react-with-cypress-p82)
-- [Testes e2e em React com Cypress](https://dev.to/griseduardo/testes-e2e-em-react-com-cypress-n9d)
-- [Installing FreeBSD on a HP 250 G9](https://dev.to/brunopacheco1/installing-freebsd-on-a-hp-250-g9-3c10)
-- [How to Safeguard Your Crypto: Expert Tips for Avoiding Scams and Phishing Attacks](https://dev.to/maxpavlov/how-to-safeguard-your-crypto-expert-tips-for-avoiding-scams-and-phishing-attacks-4gjl)
+- [100+ FREE Resources Every Web Developer Must Try](https://dev.to/safdarali/100-free-resources-every-web-developer-must-try-21p5)
+- [Cómo Crear un Framework de JavaScript desde Cero - La Historia de Brisa Build](https://dev.to/bezael/como-crear-un-framework-de-javascript-desde-cero-la-historia-de-brisa-build-28im)
+- [How to Build a Gay Dating App with ZEGOCLOUD](https://dev.to/stephen568hub/how-to-build-a-gay-dating-app-with-zegocloud-66d)
+- [How to Build a Gay Dating App with ZEGOCLOUD](https://dev.to/stephen568hub/how-to-build-a-gay-dating-app-with-zegocloud-5h9o)
+- [Highlights from CityJS Medellín 2024](https://dev.to/ltciro/highlights-from-cityjs-medellin-2024-4bb1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
