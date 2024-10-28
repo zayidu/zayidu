@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [KonNiche - Skill-Based Feedback to Improve Your Projects](https://dev.to/schemetastic/konniche-skill-based-feedback-to-improve-your-projects-1ejb)
+- [Ownership](https://dev.to/xavier2code/ownership-3o31)
+- [10 JavaScript Tips to Boost Development Efficiency](https://dev.to/jsdevspace/10-javascript-tips-to-boost-development-efficiency-2gno)
 - [My Journey into Software Engineering](https://dev.to/sababat/my-journey-into-software-engineering-13f0)
 - [My Fourth and Final Contribution to Hacktoberfest](https://dev.to/kannav02/my-fourth-and-final-contribution-to-hacktoberfest-1g8d)
-- [React Js Part 5 : Lifecycle Methods and Hooks in React](https://dev.to/kyydev/lifecycle-methods-and-hooks-in-react-aga)
-- [Setting Up an Ubuntu Dev Environment with Multipass and VS Code Remote-SSH](https://dev.to/dpuig/setting-up-an-ubuntu-dev-environment-with-multipass-and-vs-code-remote-ssh-1709)
-- [Webhooks in Django: A Comprehensive Guide](https://dev.to/aakas/webhooks-in-django-a-comprehensive-guide-44jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
