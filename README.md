@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Trending AI Tools](https://dev.to/pareekplatform/5-trending-ai-tools-4pc2)
-- [Deploying a complete machine learning fraud detection solution using Amazon SageMaker](https://dev.to/ihatesea/deploying-a-complete-machine-learning-fraud-detection-solution-using-amazon-sagemaker-3p9a)
-- [How to use Emoji Picker in Windows 11?](https://dev.to/winsides/how-to-use-emoji-picker-in-windows-11-4go2)
-- [A Beginner’s Guide to Choosing the Right Machine Learning Model](https://dev.to/bikashdaga/a-beginners-guide-to-choosing-the-right-machine-learning-model-3e0n)
-- [Funny Linux Commands🫣](https://dev.to/devops_descent/funny-linux-commandsthe-silly-side-of-the-terminal-50jd)
+- [🚨💥 Top 5 Trending Open-source LLM Tools &amp; Frameworks You Must Know About ✨🚀](https://dev.to/guybuildingai/top-5-trending-open-source-llm-tools-frameworks-you-must-know-about-1fk7)
+- [Functions in JS](https://dev.to/basil-tech-star/functions-in-js-3oi9)
+- [Choosing Between Next.js and the MERN Stack: A Simple Guide](https://dev.to/vjygour/choosing-between-nextjs-and-the-mern-stack-a-simple-guide-4abp)
+- [Full-Stack Development in a Hybrid Cloud World: Tools and Techniques](https://dev.to/javeria59364390/full-stack-development-in-a-hybrid-cloud-world-tools-and-techniques-1m7)
+- [Improving search experience using Elasticsearch](https://dev.to/tsudhishnair/improving-search-experience-using-elasticsearch-8hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
