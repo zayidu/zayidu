@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktober 2024: One of the best October of my dev adventure](https://dev.to/ion_finisher/hacktober-2024-one-of-the-best-october-of-my-dev-adventure-534p)
-- [The Holistic Hacker: Integrating Wellness into Your Tech Lifestyle](https://dev.to/techbalance_collective/the-holistic-hacker-integrating-wellness-into-your-tech-lifestyle-86c)
-- [Unit Testing with Mocks Using Moq](https://dev.to/juarezasjunior/unit-testing-with-mocks-using-moq-492o)
-- [Exploring the Top New Features in C# 12: How They Can Simplify and Enhance Your Code](https://dev.to/leandroveiga/exploring-the-top-new-features-in-c-12-how-they-can-simplify-and-enhance-your-code-25hj)
-- [Testes Unitários com Mocks Usando Moq](https://dev.to/juarezasjunior/testes-unitarios-com-mocks-usando-moq-5a37)
+- [Day 6: Rust TUI Chat Application - Mastering Terminal User Interfaces](https://dev.to/trish_07/day-6-rust-tui-chat-application-mastering-terminal-user-interfaces-fk)
+- [Introduction to Mongo Database](https://dev.to/madgan95/introduction-to-mongo-database-6a2)
+- [The Irony of Static Typing in Dynamic Languages](https://dev.to/aminehorseman/the-irony-of-static-typing-in-dynamic-languages-31g1)
+- [🌟 About Me](https://dev.to/mahsaran/about-me-5dn4)
+- [Getting started with Laravel](https://dev.to/chepkwonylynne/getting-started-with-laravel-346m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
