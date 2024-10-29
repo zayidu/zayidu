@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sending Transactional Emails with Transmitly &lpar;C#&rpar;](https://dev.to/jeremy_tly/sending-transactional-emails-with-transmitly-c-ede)
-- [How to use managed identity and role-based access control to provide security and storage for a new company app .](https://dev.to/oluoma_stella/how-to-use-managed-identity-and-role-based-access-control-to-provide-security-and-storage-for-a-new-company-app--4g4k)
-- [5 Open-Source Projects That Will Transform ⚡️ Your AI Workflow 💻](https://dev.to/fast/5-open-source-projects-that-will-transform-your-ai-workflow-190g)
-- [100+ Free PHP Resources Every Developer Must Try in 2024!](https://dev.to/navneet_verma/100-free-php-resources-every-developer-must-try-in-2024-5ann)
-- [Your DevOps Tip#2 - On Managing Terraform Variables](https://dev.to/nanditechbytes/your-devops-tip2-on-managing-terraform-variables-3pbp)
+- [Multiple deployments and High Availability with Mina and Ruby on Rails](https://dev.to/damuz91/multiple-deployments-and-high-availability-with-mina-and-ruby-on-rails-59nc)
+- [Building React Native In-App Modules without the JS bridge.](https://dev.to/riteshshukla04/building-react-native-in-app-modules-without-the-bridge-1k3i)
+- [Has Broadcom Damaged VMware&#39;s Reputation?](https://dev.to/mitchiemt11/has-broadcom-damaged-vmwares-reputation-3l7o)
+- [frontend developer](https://dev.to/ndtiezn/frontend-developer-4apm)
+- [How to Create REST API Using Laravel](https://dev.to/carloseduardoalvesviana/how-to-create-rest-api-using-laravel-h93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
