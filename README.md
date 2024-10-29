@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Abstraction: Decoding Interfaces in Java](https://dev.to/arshisaxena26/abstraction-decoding-interfaces-in-java-3cck)
-- [7 Benefits of Integrating LLM and PHP: Enhance, Automate, Secure](https://dev.to/dhruvil_joshi14/7-benefits-of-integrating-llm-and-php-enhance-automate-secure-2387)
-- [Cautious Investing or Missed Opportunities? FOMO in the Cryptocurrency World.](https://dev.to/kaankaya/cautious-investing-or-missed-opportunities-fomo-in-the-cryptocurrency-world-5hh8)
-- [Cloud Migration Strategies: The 7 Rs of Cloud Migration](https://dev.to/axeldlv/cloud-migration-strategies-the-7-rs-of-cloud-migration-56pe)
-- [A Gamer&#39;s Lament: The Paradox of a Software Engineer](https://dev.to/expertgamer168/a-gamers-lament-the-paradox-of-a-software-engineer-4ikc)
+- [5 Trending AI Tools](https://dev.to/pareekplatform/5-trending-ai-tools-4pc2)
+- [Deploying a complete machine learning fraud detection solution using Amazon SageMaker](https://dev.to/ihatesea/deploying-a-complete-machine-learning-fraud-detection-solution-using-amazon-sagemaker-3p9a)
+- [How to use Emoji Picker in Windows 11?](https://dev.to/winsides/how-to-use-emoji-picker-in-windows-11-4go2)
+- [A Beginner’s Guide to Choosing the Right Machine Learning Model](https://dev.to/bikashdaga/a-beginners-guide-to-choosing-the-right-machine-learning-model-3e0n)
+- [Funny Linux Commands🫣](https://dev.to/devops_descent/funny-linux-commandsthe-silly-side-of-the-terminal-50jd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
