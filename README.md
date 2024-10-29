@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Webdev &amp; AI Weekly News](https://dev.to/dev007777/webdev-ai-weekly-news-39c9)
-- [How to Encrypt a USB drive Using Cryptsetup with LUKS on Linux](https://dev.to/thetanweerali/how-to-encrypt-a-usb-drive-using-cryptsetup-with-luks-on-linux-4blf)
-- [Type casting](https://dev.to/sanjar777/type-casting-3l88)
-- [If statement haqida](https://dev.to/munisa_kuranbekova_078e1e/if-statement-haqida-2f2c)
-- [El conjunto definitivo de herramientas y técnicas para maximizar el éxito de tus proyectos de TI](https://dev.to/oroscoloyamena/el-conjunto-definitivo-de-herramientas-y-tecnicas-para-maximizar-el-exito-de-tus-proyectos-de-ti-3mnh)
+- [Arithmetic Operators in Python](https://dev.to/jobreadyprogrammer/arithmetic-operators-in-python-3njg)
+- [Congrats to the Wix Studio Challenge: Community Edition Winner!](https://dev.to/devteam/congrats-to-the-wix-studio-challenge-community-edition-winner-57jo)
+- [Article_NOSQL Databases Cassandra - Corrales](https://dev.to/moises_corralessolis/articlenosql-databases-cassandra-corrales-19o8)
+- [Can&#39;t run python script from terminal but can from PyCharm: ModuleNotFoundError](https://dev.to/stuart_millington_01066b5/cant-run-python-script-from-terminal-but-can-from-pycharm-modulenotfounderror-gjj)
+- [Still don&#39;t get React server components? Read this one sentence](https://dev.to/tymzap/still-dont-get-react-server-components-read-this-one-sentence-54nd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
