@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Powerful Examples of Destructuring Assignments in JavaScript](https://dev.to/shieldstring/powerful-examples-of-destructuring-assignments-in-javascript-2epk)
-- [The 5 Best Color Palette Generator Websites in 2024⚡️](https://dev.to/priyankdeep78/the-5-best-color-palette-generator-websites-in-2024-13nd)
-- [Greedy Algorithm Problems in Data Structures and Algorithms &lpar;DSA&rpar;](https://dev.to/nozibul_islam_113b1d5334f/greedy-algorithm-problems-in-data-structures-and-algorithms-dsa-5djm)
-- [Designing The Perfect Incentivised System - Part 1](https://dev.to/anistark/designing-the-perfect-incentivised-system-part-1-31l)
-- [5 Ways for SF Dark Mode, Customize Logins, Google Sheets Hacks for Data Management](https://dev.to/sfdcnews/5-ways-for-sf-dark-mode-customize-logins-google-sheets-hacks-for-data-management-3lkb)
+- [🚀 Motion Scape With GSAP](https://dev.to/shinnthant_jr/motion-scape-2m1g)
+- [Amazing experience with Hacktoberfest 💻😍](https://dev.to/pragyanandasaho/amazing-experience-with-hacktoberfest-20)
+- [Day 22: Distributed Training in Large Language Models](https://dev.to/nareshnishad/day-22-distributed-training-in-large-language-models-4bg1)
+- [Llama 3.1 Nemotron 70B - Quirks and Features](https://dev.to/maximsaplin/llama-31-nemotron-70b-quirks-and-features-4nbg)
+- [c# Clean Code: Best Practices for new, Operators, and using](https://dev.to/moh_moh701/c-clean-code-best-practices-for-new-operators-and-using-26ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
