@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Motion Scape With GSAP](https://dev.to/shinnthant_jr/motion-scape-2m1g)
-- [Amazing experience with Hacktoberfest 💻😍](https://dev.to/pragyanandasaho/amazing-experience-with-hacktoberfest-20)
-- [Day 22: Distributed Training in Large Language Models](https://dev.to/nareshnishad/day-22-distributed-training-in-large-language-models-4bg1)
-- [Llama 3.1 Nemotron 70B - Quirks and Features](https://dev.to/maximsaplin/llama-31-nemotron-70b-quirks-and-features-4nbg)
-- [c# Clean Code: Best Practices for new, Operators, and using](https://dev.to/moh_moh701/c-clean-code-best-practices-for-new-operators-and-using-26ki)
+- [👉 What is gleam language used for ❓](https://dev.to/piterweb/what-is-gleam-language-used-for-59ih)
+- [Building a Multi-Agent Framework from Scratch with LlamaIndex](https://dev.to/yukooshima/building-a-multi-agent-framework-from-scratch-with-llamaindex-5ecn)
+- [Top 10 Essential Tools for Android Development](https://dev.to/requestly/top-10-essential-tools-for-android-development-1n3l)
+- [How Data Science is Transforming Financial Fraud Detection: Key Techniques and Tools](https://dev.to/chandan_gowda_84ee3f0128c/how-data-science-is-transforming-financial-fraud-detection-key-techniques-and-tools-44ma)
+- [How to build a MAUI app in Azure Devops](https://dev.to/charliefoxtrot/how-to-build-a-maui-app-in-azure-devops-i48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
