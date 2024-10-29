@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Arithmetic Operators in Python](https://dev.to/jobreadyprogrammer/arithmetic-operators-in-python-3njg)
-- [Congrats to the Wix Studio Challenge: Community Edition Winner!](https://dev.to/devteam/congrats-to-the-wix-studio-challenge-community-edition-winner-57jo)
-- [Article_NOSQL Databases Cassandra - Corrales](https://dev.to/moises_corralessolis/articlenosql-databases-cassandra-corrales-19o8)
-- [Can&#39;t run python script from terminal but can from PyCharm: ModuleNotFoundError](https://dev.to/stuart_millington_01066b5/cant-run-python-script-from-terminal-but-can-from-pycharm-modulenotfounderror-gjj)
-- [Still don&#39;t get React server components? Read this one sentence](https://dev.to/tymzap/still-dont-get-react-server-components-read-this-one-sentence-54nd)
+- [Automating MongoDB Atlas Trigger Log Downloads Beyond the GUI and CLI Limitations](https://dev.to/josmanperez/automating-mongodb-atlas-trigger-log-downloads-beyond-the-gui-and-cli-limitations-2nel)
+- [Accessible components: Pagination](https://dev.to/micaavigliano/accessible-components-pagination-58c2)
+- [Pull-to-Refresh in iOS 18 - #30DaysOfSwift](https://dev.to/thevediwho/pull-to-refresh-in-ios-18-30daysofswift-5g73)
+- [Leveraging Testkube for Complex System Testing](https://dev.to/kubeshop/leveraging-testkube-for-complex-system-testing-556j)
+- [Guide to Free Coding Resources: Courses, Practice, and Community](https://dev.to/dmytro_lobanov/guide-to-free-coding-resources-courses-practice-and-community-3h5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
