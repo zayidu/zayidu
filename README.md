@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic Autocomplete Without JavaScript using Datalist](https://dev.to/railsdesigner/basic-autocomplete-without-javascript-using-datalist-1ld)
-- [Spooky fonts for October &lpar;updated&rpar;](https://dev.to/paul_freeman/spooky-fonts-for-october-updated-1ddi)
-- [Role based UI Access](https://dev.to/lucpattyn/role-based-ui-access-5100)
-- [Java 8 Features Made Simple: A Quick Guide](https://dev.to/tejasvp25/java-8-features-made-simple-a-quick-guide-348g)
-- [izoh qoldirish](https://dev.to/muhammadyusuf_xotamo/izoh-qoldirish-16cb)
+- [Webdev &amp; AI Weekly News](https://dev.to/dev007777/webdev-ai-weekly-news-39c9)
+- [How to Encrypt a USB drive Using Cryptsetup with LUKS on Linux](https://dev.to/thetanweerali/how-to-encrypt-a-usb-drive-using-cryptsetup-with-luks-on-linux-4blf)
+- [Type casting](https://dev.to/sanjar777/type-casting-3l88)
+- [If statement haqida](https://dev.to/munisa_kuranbekova_078e1e/if-statement-haqida-2f2c)
+- [El conjunto definitivo de herramientas y técnicas para maximizar el éxito de tus proyectos de TI](https://dev.to/oroscoloyamena/el-conjunto-definitivo-de-herramientas-y-tecnicas-para-maximizar-el-exito-de-tus-proyectos-de-ti-3mnh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
