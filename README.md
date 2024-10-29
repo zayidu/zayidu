@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [More storage for media : organize files using ChatGPT : part 2, converting JPEG to HEIC](https://dev.to/hexfloor/more-storage-for-media-organize-files-using-chatgpt-part-2-converting-jpeg-to-heic-1bbi)
+- [More storage for media : organize files using ChatGPT : part 1, data preparation](https://dev.to/hexfloor/more-storage-for-media-organize-files-using-chatgpt-part-1-data-preparation-2p6c)
+- [Breaking the CORS Puzzle: What Every Developer Must Know for Interviews](https://dev.to/adithya_a_508b89c3885ee40/breaking-the-cors-puzzle-what-every-developer-must-know-for-interviews-45fe)
 - [Sharing UI Components: Copy VS Install](https://dev.to/giteden/sharing-ui-components-copy-vs-install-4mii)
 - [How I Automated My Work Tasks](https://dev.to/techelopment/how-i-automated-my-work-tasks-3lek)
-- [&quot;Deploying a Scalable and Secure E-Commerce Site on AWS: My Step-by-Step Approach&quot;](https://dev.to/wiko_w/deploying-a-scalable-and-secure-e-commerce-site-on-aws-my-step-by-step-approach-5471)
-- [2024 Hacktoberfest Writing Challenge](https://dev.to/abuchtela/2024-hacktoberfest-writing-challenge-ooo)
-- [Untitled](https://dev.to/__36002242a86c9/untitled-3o1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
