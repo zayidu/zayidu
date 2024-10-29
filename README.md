@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨💥 Top 5 Trending Open-source LLM Tools &amp; Frameworks You Must Know About ✨🚀](https://dev.to/guybuildingai/top-5-trending-open-source-llm-tools-frameworks-you-must-know-about-1fk7)
-- [Functions in JS](https://dev.to/basil-tech-star/functions-in-js-3oi9)
-- [Choosing Between Next.js and the MERN Stack: A Simple Guide](https://dev.to/vjygour/choosing-between-nextjs-and-the-mern-stack-a-simple-guide-4abp)
-- [Full-Stack Development in a Hybrid Cloud World: Tools and Techniques](https://dev.to/javeria59364390/full-stack-development-in-a-hybrid-cloud-world-tools-and-techniques-1m7)
-- [Improving search experience using Elasticsearch](https://dev.to/tsudhishnair/improving-search-experience-using-elasticsearch-8hm)
+- [Hacktober 2024: One of the best October of my dev adventure](https://dev.to/ion_finisher/hacktober-2024-one-of-the-best-october-of-my-dev-adventure-534p)
+- [The Holistic Hacker: Integrating Wellness into Your Tech Lifestyle](https://dev.to/techbalance_collective/the-holistic-hacker-integrating-wellness-into-your-tech-lifestyle-86c)
+- [Unit Testing with Mocks Using Moq](https://dev.to/juarezasjunior/unit-testing-with-mocks-using-moq-492o)
+- [Exploring the Top New Features in C# 12: How They Can Simplify and Enhance Your Code](https://dev.to/leandroveiga/exploring-the-top-new-features-in-c-12-how-they-can-simplify-and-enhance-your-code-25hj)
+- [Testes Unitários com Mocks Usando Moq](https://dev.to/juarezasjunior/testes-unitarios-com-mocks-usando-moq-5a37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
