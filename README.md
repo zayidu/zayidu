@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover JSREPL.io – A JavaScript REPL &amp; Playground](https://dev.to/nag5000/discover-jsreplio-a-javascript-repl-playground-4b9i)
-- [Interactive Quiz App with JavaScript](https://dev.to/imrankhan17/interactive-quiz-app-with-javascript-1j99)
-- [Serverless Cloud Resume Challenge](https://dev.to/etienneci/serverless-cloud-resume-challenge-4ic7)
-- [structToTable - Generate HTML/Text Output for Display/Email](https://dev.to/gamesover/structtotable-generate-htmltext-output-for-displayemail-1mk4)
-- [Sidecar Containers in Kubernetes](https://dev.to/cicube/sidecar-containers-in-kubernetes-2kj0)
+- [Type Utilities - JavaScript Challenges](https://dev.to/mitchell_cheng/type-utilities-javascript-challenges-5c6i)
+- [How to create a tiktok-style page generator using pure CSS / JavaScript](https://dev.to/herezone/how-to-create-a-tiktok-style-page-generator-using-pure-css-javascript-5e0)
+- [Professional communication for Hacktoberfest 💬](https://dev.to/jlduchaney/professional-communication-for-hacktoberfest-3oc6)
+- [The hardest part of Hacktoberfest isn&#39;t the code 🚫](https://dev.to/jlduchaney/the-hardest-part-of-hacktoberfest-isnt-the-code-11je)
+- [GitHub&#39;s help resources will only get you so far with Hacktoberfest 📖](https://dev.to/jlduchaney/githubs-help-resources-will-only-get-you-so-far-with-hacktoberfest-317p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
