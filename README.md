@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Effortless Scaling in Node.js: Mastering Load Balancing and Clustering for High Traffic Apps 🌐](https://dev.to/erasmuskotoka/effortless-scaling-in-nodejs-mastering-load-balancing-and-clustering-for-high-traffic-apps-41n)
-- [Type Utilities - JavaScript Challenges](https://dev.to/mitchell_cheng/type-utilities-javascript-challenges-5c6i)
-- [How to create a tiktok-style page generator using pure CSS / JavaScript](https://dev.to/herezone/how-to-create-a-tiktok-style-page-generator-using-pure-css-javascript-5e0)
-- [Unveiling the Backbone of YouTube Live Streaming: A Deep Dive into YouTube’s Architecture and Real-Time Video Processing](https://dev.to/wittedtech-by-harshit/unveiling-the-backbone-of-youtube-live-streaming-a-deep-dive-into-youtubes-architecture-and-real-time-video-processing-f6j)
-- [Render, Heroku, or Vercel: Which One Should You Choose for Your Next Project? 🚀](https://dev.to/sababat/render-heroku-or-vercel-which-one-should-you-choose-for-your-next-project-23gg)
+- [Understanding the Chain of Responsibility Design Pattern in Backend Development](https://dev.to/syridit118/understanding-the-chain-of-responsibility-design-pattern-in-backend-development-p2f)
+- [The Art of Planning: When Excitement Meets Reality 🎨](https://dev.to/muskan025/the-art-of-planning-when-excitement-meets-reality-3i9o)
+- [Accessible Tech Solutions for Mental Health: Bridging the Gap](https://dev.to/arbisoftcompany/accessible-tech-solutions-for-mental-health-bridging-the-gap-1ink)
+- [The 6 Stages of the Node.js Event Loop](https://dev.to/muthuraja_r/the-6-stages-of-the-nodejs-event-loop-4b3d)
+- [Getting Started with AWS EC2: A Complete Guide for Beginners](https://dev.to/ahzem/getting-started-with-aws-ec2-a-complete-guide-for-beginners-46dh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
