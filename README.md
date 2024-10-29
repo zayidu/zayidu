@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 6: Rust TUI Chat Application - Mastering Terminal User Interfaces](https://dev.to/trish_07/day-6-rust-tui-chat-application-mastering-terminal-user-interfaces-fk)
-- [Introduction to Mongo Database](https://dev.to/madgan95/introduction-to-mongo-database-6a2)
-- [The Irony of Static Typing in Dynamic Languages](https://dev.to/aminehorseman/the-irony-of-static-typing-in-dynamic-languages-31g1)
-- [🌟 About Me](https://dev.to/mahsaran/about-me-5dn4)
-- [Getting started with Laravel](https://dev.to/chepkwonylynne/getting-started-with-laravel-346m)
+- [Basic Autocomplete Without JavaScript using Datalist](https://dev.to/railsdesigner/basic-autocomplete-without-javascript-using-datalist-1ld)
+- [Spooky fonts for October &lpar;updated&rpar;](https://dev.to/paul_freeman/spooky-fonts-for-october-updated-1ddi)
+- [Role based UI Access](https://dev.to/lucpattyn/role-based-ui-access-5100)
+- [Java 8 Features Made Simple: A Quick Guide](https://dev.to/tejasvp25/java-8-features-made-simple-a-quick-guide-348g)
+- [izoh qoldirish](https://dev.to/muhammadyusuf_xotamo/izoh-qoldirish-16cb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
