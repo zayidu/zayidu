@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Parameter Management at Scale: How Multi-Region Configurations Saved My Application](https://dev.to/aws-builders/parameter-management-at-scale-how-multi-region-configurations-saved-my-application-2o59)
-- [Advanced Containerization Concepts: A Guide to Best Practices &lpar;1&rpar;](https://dev.to/sosocrypto/advanced-containerization-concepts-a-guide-to-best-practices-1-23a5)
-- [Streamlining Python Development: Integrating Black and Flake8 with VSCode and Pre-Commit Hooks](https://dev.to/fadingna/streamlining-python-development-integrating-black-and-flake8-with-vscode-and-pre-commit-hooks-57jj)
-- [Best Tool for Query anything with SQL](https://dev.to/pareekplatform/best-tool-for-query-anything-with-sql-3lpi)
-- [&quot;Behind the Code: How Dark Web Drug Marketplaces Operate and the Developers Who Build Them&quot;](https://dev.to/404_chronicles/behind-the-code-how-dark-web-drug-marketplaces-operate-and-the-developers-who-build-them-25e0)
+- [Powerful Examples of Destructuring Assignments in JavaScript](https://dev.to/shieldstring/powerful-examples-of-destructuring-assignments-in-javascript-2epk)
+- [The 5 Best Color Palette Generator Websites in 2024⚡️](https://dev.to/priyankdeep78/the-5-best-color-palette-generator-websites-in-2024-13nd)
+- [Greedy Algorithm Problems in Data Structures and Algorithms &lpar;DSA&rpar;](https://dev.to/nozibul_islam_113b1d5334f/greedy-algorithm-problems-in-data-structures-and-algorithms-dsa-5djm)
+- [Designing The Perfect Incentivised System - Part 1](https://dev.to/anistark/designing-the-perfect-incentivised-system-part-1-31l)
+- [5 Ways for SF Dark Mode, Customize Logins, Google Sheets Hacks for Data Management](https://dev.to/sfdcnews/5-ways-for-sf-dark-mode-customize-logins-google-sheets-hacks-for-data-management-3lkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
