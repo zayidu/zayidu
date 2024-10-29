@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [100+ FREE Resources Every Web Developer Must Try](https://dev.to/safdarali/100-free-resources-every-web-developer-must-try-21p5)
-- [Cómo Crear un Framework de JavaScript desde Cero - La Historia de Brisa Build](https://dev.to/bezael/como-crear-un-framework-de-javascript-desde-cero-la-historia-de-brisa-build-28im)
-- [How to Build a Gay Dating App with ZEGOCLOUD](https://dev.to/stephen568hub/how-to-build-a-gay-dating-app-with-zegocloud-66d)
-- [How to Build a Gay Dating App with ZEGOCLOUD](https://dev.to/stephen568hub/how-to-build-a-gay-dating-app-with-zegocloud-5h9o)
-- [Highlights from CityJS Medellín 2024](https://dev.to/ltciro/highlights-from-cityjs-medellin-2024-4bb1)
+- [Discover JSREPL.io – A JavaScript REPL &amp; Playground](https://dev.to/nag5000/discover-jsreplio-a-javascript-repl-playground-4b9i)
+- [Interactive Quiz App with JavaScript](https://dev.to/imrankhan17/interactive-quiz-app-with-javascript-1j99)
+- [Serverless Cloud Resume Challenge](https://dev.to/etienneci/serverless-cloud-resume-challenge-4ic7)
+- [structToTable - Generate HTML/Text Output for Display/Email](https://dev.to/gamesover/structtotable-generate-htmltext-output-for-displayemail-1mk4)
+- [Sidecar Containers in Kubernetes](https://dev.to/cicube/sidecar-containers-in-kubernetes-2kj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
