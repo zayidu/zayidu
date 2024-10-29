@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [👉 What is gleam language used for ❓](https://dev.to/piterweb/what-is-gleam-language-used-for-59ih)
-- [Building a Multi-Agent Framework from Scratch with LlamaIndex](https://dev.to/yukooshima/building-a-multi-agent-framework-from-scratch-with-llamaindex-5ecn)
-- [Top 10 Essential Tools for Android Development](https://dev.to/requestly/top-10-essential-tools-for-android-development-1n3l)
-- [How Data Science is Transforming Financial Fraud Detection: Key Techniques and Tools](https://dev.to/chandan_gowda_84ee3f0128c/how-data-science-is-transforming-financial-fraud-detection-key-techniques-and-tools-44ma)
-- [How to build a MAUI app in Azure Devops](https://dev.to/charliefoxtrot/how-to-build-a-maui-app-in-azure-devops-i48)
+- [Abstraction: Decoding Interfaces in Java](https://dev.to/arshisaxena26/abstraction-decoding-interfaces-in-java-3cck)
+- [7 Benefits of Integrating LLM and PHP: Enhance, Automate, Secure](https://dev.to/dhruvil_joshi14/7-benefits-of-integrating-llm-and-php-enhance-automate-secure-2387)
+- [Cautious Investing or Missed Opportunities? FOMO in the Cryptocurrency World.](https://dev.to/kaankaya/cautious-investing-or-missed-opportunities-fomo-in-the-cryptocurrency-world-5hh8)
+- [Cloud Migration Strategies: The 7 Rs of Cloud Migration](https://dev.to/axeldlv/cloud-migration-strategies-the-7-rs-of-cloud-migration-56pe)
+- [A Gamer&#39;s Lament: The Paradox of a Software Engineer](https://dev.to/expertgamer168/a-gamers-lament-the-paradox-of-a-software-engineer-4ikc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
