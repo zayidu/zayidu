@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating MongoDB Atlas Trigger Log Downloads Beyond the GUI and CLI Limitations](https://dev.to/josmanperez/automating-mongodb-atlas-trigger-log-downloads-beyond-the-gui-and-cli-limitations-2nel)
-- [Accessible components: Pagination](https://dev.to/micaavigliano/accessible-components-pagination-58c2)
-- [Pull-to-Refresh in iOS 18 - #30DaysOfSwift](https://dev.to/thevediwho/pull-to-refresh-in-ios-18-30daysofswift-5g73)
-- [Leveraging Testkube for Complex System Testing](https://dev.to/kubeshop/leveraging-testkube-for-complex-system-testing-556j)
-- [Guide to Free Coding Resources: Courses, Practice, and Community](https://dev.to/dmytro_lobanov/guide-to-free-coding-resources-courses-practice-and-community-3h5f)
+- [Sending Transactional Emails with Transmitly &lpar;C#&rpar;](https://dev.to/jeremy_tly/sending-transactional-emails-with-transmitly-c-ede)
+- [How to use managed identity and role-based access control to provide security and storage for a new company app .](https://dev.to/oluoma_stella/how-to-use-managed-identity-and-role-based-access-control-to-provide-security-and-storage-for-a-new-company-app--4g4k)
+- [5 Open-Source Projects That Will Transform ⚡️ Your AI Workflow 💻](https://dev.to/fast/5-open-source-projects-that-will-transform-your-ai-workflow-190g)
+- [100+ Free PHP Resources Every Developer Must Try in 2024!](https://dev.to/navneet_verma/100-free-php-resources-every-developer-must-try-in-2024-5ann)
+- [Your DevOps Tip#2 - On Managing Terraform Variables](https://dev.to/nanditechbytes/your-devops-tip2-on-managing-terraform-variables-3pbp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
