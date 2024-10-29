@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [More storage for media : organize files using ChatGPT : part 2, converting JPEG to HEIC](https://dev.to/hexfloor/more-storage-for-media-organize-files-using-chatgpt-part-2-converting-jpeg-to-heic-1bbi)
+- [Important React Tips for Writing Cleaner, Efficient Code for Beginners](https://dev.to/mukhilpadmanabhan/important-react-tips-for-writing-cleaner-efficient-code-for-beginners-1idc)
 - [More storage for media : organize files using ChatGPT : part 1, data preparation](https://dev.to/hexfloor/more-storage-for-media-organize-files-using-chatgpt-part-1-data-preparation-2p6c)
+- [Why Broken Links Are Costing You Brand Deals &lpar;And How to Fix It&rpar;](https://dev.to/tbdevs/why-broken-links-are-costing-you-brand-deals-and-how-to-fix-it-205o)
 - [Breaking the CORS Puzzle: What Every Developer Must Know for Interviews](https://dev.to/adithya_a_508b89c3885ee40/breaking-the-cors-puzzle-what-every-developer-must-know-for-interviews-45fe)
 - [Sharing UI Components: Copy VS Install](https://dev.to/giteden/sharing-ui-components-copy-vs-install-4mii)
-- [How I Automated My Work Tasks](https://dev.to/techelopment/how-i-automated-my-work-tasks-3lek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
