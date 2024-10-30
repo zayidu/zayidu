@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive List of Trie-Based Questions](https://dev.to/nozibul_islam_113b1d5334f/comprehensive-list-of-trie-based-questions-d70)
-- [Components in React](https://dev.to/tomiloba2/components-in-react-2ia)
-- [Don&#39;t Overlook These Key React Techniques to Optimize Your Apps](https://dev.to/shehzadhussain/dont-overlook-these-key-react-techniques-to-optimize-your-apps-2igb)
-- [Clustered Scatter Chart](https://dev.to/nabeghanane/clustered-scatter-chart-1ol6)
-- [Revolutionizing Food Advertising with Qr2Art: Artistic QR Codes that Blend Perfectly into Your Brand&#39;s Imagery](https://dev.to/qr2art_26bd40dfb3563c76fb/revolutionizing-food-advertising-with-qr2art-artistic-qr-codes-that-blend-perfectly-into-your-brands-imagery-1ala)
+- [Spring AI: Revolutionizing Backend Development with AI Integration](https://dev.to/igventurelli/spring-ai-revolutionizing-backend-development-with-ai-integration-1pf3)
+- [Cloud shell access point for Azure Portal](https://dev.to/unique-tea/cloud-shell-access-point-for-azure-portal-33d4)
+- [Can Web Development Make You Rich?](https://dev.to/tutortacademy/can-web-development-make-you-rich-2ean)
+- [Liquid AI Redesigns Neural Networks: Introducing Liquid Foundation Models &lpar;LFMs&rpar;](https://dev.to/arbisoftcompany/liquid-ai-redesigns-neural-networks-introducing-liquid-foundation-models-lfms-jc2)
+- [Managing Healthcare Data Lifecycles with AWS Security Services](https://dev.to/ikoh_sylva/managing-healthcare-data-lifecycles-with-aws-security-services-1d6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
