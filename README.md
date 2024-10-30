@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Image Upload to Strapi via REST API with Next.js and Postman](https://dev.to/strapi/image-upload-to-strapi-via-rest-api-with-nextjs-and-postman-521o)
+- [Mastering React Checkbox: A Complete Guide](https://dev.to/codeparrot/mastering-react-checkbox-a-complete-guide-3b41)
 - [NestJS vs Encore.ts: Choosing the Right Framework for Your TypeScript Microservices](https://dev.to/encore/nestjs-vs-encorets-choosing-the-right-framework-for-your-typescript-microservices-1g61)
 - [AI Tools Every Mobile Developer Needs to Use](https://dev.to/anna-boiko/ai-tools-every-mobile-developer-needs-to-use-35b1)
 - [Coding, Collaborating, and Contributing: My Hacktoberfest Journey](https://dev.to/niteshoak/coding-collaborating-and-contributing-my-hacktoberfest-journey-4i6)
-- [Best Way to Replace Duplicated Request Parameters in Spring Boot](https://dev.to/mammadyahyayev/best-way-to-replace-duplicated-request-parameters-in-spring-boot-4188)
-- [🦸 OSS Heroes: Pilcrow, a student who built Lucia - auth library with 9.5k stars on GitHub ⭐ 🇯🇵](https://dev.to/wasp/oss-heroes-pilcrow-a-student-who-built-lucia-auth-library-with-95k-stars-on-github-524l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
