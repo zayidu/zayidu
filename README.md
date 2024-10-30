@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [UI/Text Blur Issues with Electron-Based Applications &lpar;e.g., Spotify, Discord&rpar; on Wayland](https://dev.to/nishan_bista/uitext-blur-issues-with-electron-based-applications-eg-spotify-discord-on-wayland-546c)
-- [My Experience with GitHub Copilot](https://dev.to/ngtduc693/my-experience-with-github-copilot-3130)
-- [Beware of Spring Boot Actuator Endpoint env: A Security Alert](https://dev.to/igventurelli/beware-of-spring-boot-actuator-endpoint-env-a-security-alert-546j)
-- [Spring Observability: The Next Frontier in Application Monitoring](https://dev.to/igventurelli/spring-observability-the-next-frontier-in-application-monitoring-2ch6)
-- [SQL &quot;SELECT INTO&quot; vs &quot;INSERT INTO SELECT&quot; statements.](https://dev.to/danwycliff/sql-select-into-vs-insert-into-select-statements-345a)
+- [4th and final - Hacktoberfest.](https://dev.to/krinskumar/4th-and-final-hacktoberfest-4cpk)
+- [How to Enable Microsoft Copilot in Windows 11?](https://dev.to/winsides/how-to-enable-microsoft-copilot-in-windows-11-42gi)
+- [17/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/17365-days-y10m-japan-job-challenge-6d)
+- [17/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/17365-days-y10m-japan-job-challenge-4kcp)
+- [React Hook Form with MUI: TypeScript-Supported Generic Form Components](https://dev.to/ahmetkarakus/react-hook-form-with-mui-typescript-supported-generic-form-components-4heh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
