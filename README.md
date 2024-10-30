@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest 2024 Experience of a Java Developer and a Contributor](https://dev.to/dhanush9952/hacktoberfest-2024-experience-of-a-java-developer-and-a-contributor-3jmi)
+- [Beyond LLMs: My Introductory Experience with AI Agents](https://dev.to/blackgirlbytes/beyond-llms-my-introductory-experience-with-ai-agents-1fjb)
+- [Why is understanding the Software Development Life Cycle &lpar;SDLC&rpar; important?](https://dev.to/wdp/why-is-understanding-the-software-development-life-cycle-sdlc-important-3l7g)
 - [Win Up to $1200 in the InfinityAI Halloween Challenge 🎃](https://dev.to/sojinsamuel/win-up-to-1200-in-the-infinityai-halloween-challenge-2hgi)
 - [19 Frontend Resources Every Web Developer Must Bookmark](https://dev.to/safdarali/19-frontend-resources-every-web-developer-must-bookmark-513c)
-- [Important React Tips for Writing Cleaner, Efficient Code for Beginners](https://dev.to/mukhilpadmanabhan/important-react-tips-for-writing-cleaner-efficient-code-for-beginners-1idc)
-- [More storage for media : organize files using ChatGPT : part 1, data preparation](https://dev.to/hexfloor/more-storage-for-media-organize-files-using-chatgpt-part-1-data-preparation-2p6c)
-- [Why Broken Links Are Costing You Brand Deals &lpar;And How to Fix It&rpar;](https://dev.to/tbdevs/why-broken-links-are-costing-you-brand-deals-and-how-to-fix-it-205o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
