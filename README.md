@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot with Docker and Kubernetes: Containerizing and Deploying Your Java Applications](https://dev.to/igventurelli/spring-boot-with-docker-and-kubernetes-containerizing-and-deploying-your-java-applications-fm0)
-- [Kafka vs. AWS SQS: Choosing the Right Messaging Solution for Your Needs](https://dev.to/igventurelli/kafka-vs-aws-sqs-choosing-the-right-messaging-solution-for-your-needs-2i71)
-- [Day 51. Article Screen](https://dev.to/kiolk/day-51-article-screen-4j33)
-- [.NET Timers Internals](https://dev.to/mapogolions/timers-internals-5fji)
-- [Handling Exceptions in Your Spring Boot REST API](https://dev.to/igventurelli/handling-exceptions-in-your-spring-boot-rest-api-41o1)
+- [Understanding Dependency Injection in Spring Boot](https://dev.to/igventurelli/understanding-dependency-injection-in-spring-boot-472k)
+- [Streamlining Research and Analysis with OpenBB](https://dev.to/adityadeshlahre/streamlining-research-and-analysis-with-openbb-209h)
+- [🐍Como Importar Dados do Excel para SQLite com Python em Poucas Linhas](https://dev.to/alexandrejusten/como-importar-dados-do-excel-para-sqlite-com-python-em-poucas-linhas-o7b)
+- [Spring Boot Actuator: Monitoring and Managing Your Applications](https://dev.to/igventurelli/spring-boot-actuator-monitoring-and-managing-your-applications-4799)
+- [You don&#39;t need to know them all!](https://dev.to/gabrieltoma/you-dont-need-to-know-them-all-1l9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
