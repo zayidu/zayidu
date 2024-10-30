@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Contribution? Another one? 🥳](https://dev.to/this-is-learning/contribution-another-one-5gb9)
-- [Maxun: Open Source No-Code Web Data Extraction Platform⚡️](https://dev.to/karishmashukla/maxun-open-source-no-code-web-data-extraction-platform-4316)
-- [SOLID: Single Responsibility Principle&lpar;SRP&rpar; in C#](https://dev.to/extinctsion/solid-single-responsibility-principlesrp-in-c-34d7)
-- [🚀Enhance Code Quality with These 5 Static Analysis Tools🔍](https://dev.to/dev_kiran/enhance-code-quality-with-these-5-static-analysis-tools-119m)
-- [Fixing File Renaming Issues in Git: Handling Case Sensitivity and core.ignorecase](https://dev.to/iediong/fixing-file-renaming-issues-in-git-handling-case-sensitivity-and-coreignorecase-1mf6)
+- [How to Scrape Login-Protected Websites with Selenium &lpar;Step by Step Guide&rpar;](https://dev.to/dumay_sacha/how-to-scrape-login-protected-websites-with-selenium-step-by-step-guide-9cm)
+- [Understanding &quot;working-directory&quot; in GitHub Actions](https://dev.to/cicube/understanding-working-directory-in-github-actions-5glh)
+- [How to Use ENV variables in GitHub Actions](https://dev.to/cicube/how-to-use-env-variables-in-github-actions-4j3o)
+- [Beginner&#39;s Guide to Understanding CDN](https://dev.to/carrie_luo1/beginners-guide-to-understanding-cdn-2j2h)
+- [Analysis of the Compose Configuration File for SafeLine WAF - MGT](https://dev.to/carrie_luo1/analysis-of-the-compose-configuration-file-for-safeline-waf-mgt-3ei7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
