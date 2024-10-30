@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring AI: Revolutionizing Backend Development with AI Integration](https://dev.to/igventurelli/spring-ai-revolutionizing-backend-development-with-ai-integration-1pf3)
-- [Cloud shell access point for Azure Portal](https://dev.to/unique-tea/cloud-shell-access-point-for-azure-portal-33d4)
-- [Can Web Development Make You Rich?](https://dev.to/tutortacademy/can-web-development-make-you-rich-2ean)
-- [Liquid AI Redesigns Neural Networks: Introducing Liquid Foundation Models &lpar;LFMs&rpar;](https://dev.to/arbisoftcompany/liquid-ai-redesigns-neural-networks-introducing-liquid-foundation-models-lfms-jc2)
-- [Managing Healthcare Data Lifecycles with AWS Security Services](https://dev.to/ikoh_sylva/managing-healthcare-data-lifecycles-with-aws-security-services-1d6i)
+- [UI/Text Blur Issues with Electron-Based Applications &lpar;e.g., Spotify, Discord&rpar; on Wayland](https://dev.to/nishan_bista/uitext-blur-issues-with-electron-based-applications-eg-spotify-discord-on-wayland-546c)
+- [My Experience with GitHub Copilot](https://dev.to/ngtduc693/my-experience-with-github-copilot-3130)
+- [Beware of Spring Boot Actuator Endpoint env: A Security Alert](https://dev.to/igventurelli/beware-of-spring-boot-actuator-endpoint-env-a-security-alert-546j)
+- [Spring Observability: The Next Frontier in Application Monitoring](https://dev.to/igventurelli/spring-observability-the-next-frontier-in-application-monitoring-2ch6)
+- [SQL &quot;SELECT INTO&quot; vs &quot;INSERT INTO SELECT&quot; statements.](https://dev.to/danwycliff/sql-select-into-vs-insert-into-select-statements-345a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
