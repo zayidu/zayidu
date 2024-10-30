@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [4th and final - Hacktoberfest.](https://dev.to/krinskumar/4th-and-final-hacktoberfest-4cpk)
-- [How to Enable Microsoft Copilot in Windows 11?](https://dev.to/winsides/how-to-enable-microsoft-copilot-in-windows-11-42gi)
-- [17/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/17365-days-y10m-japan-job-challenge-6d)
-- [17/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/17365-days-y10m-japan-job-challenge-4kcp)
-- [React Hook Form with MUI: TypeScript-Supported Generic Form Components](https://dev.to/ahmetkarakus/react-hook-form-with-mui-typescript-supported-generic-form-components-4heh)
+- [Securing REST APIs with OAuth2 and JWT: A Comprehensive Guide](https://dev.to/igventurelli/securing-rest-apis-with-oauth2-and-jwt-a-comprehensive-guide-4b8n)
+- [Mastering Algorithms: Unlock the Power of Data Structures and Numerical Computing](https://dev.to/getvm/mastering-algorithms-unlock-the-power-of-data-structures-and-numerical-computing-53ak)
+- [OAuth2: An In-Depth Overview and How It Works](https://dev.to/igventurelli/oauth2-an-in-depth-overview-and-how-it-works-i0g)
+- [Deleting Android database from the command line](https://dev.to/theplebdev/deleting-android-database-from-the-command-line-bkp)
+- [Request Rate Limiting Middleware for Iris](https://dev.to/kataras/request-rate-limiting-middleware-for-iris-2k1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
