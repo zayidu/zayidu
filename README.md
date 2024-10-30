@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Prisma + Postgres](https://dev.to/awalias/prisma-postgres-4o09)
-- [Effective Visual Regression Testing for Developers: Vitest vs Playwright](https://dev.to/mayashavin/effective-visual-regression-testing-for-developers-vitest-vs-playwright-3la)
-- [Top 🐘👀 Postgres Monitoring Tools 🧰 and Best Practices in 2024 🔝](https://dev.to/bytebase/top-postgres-monitoring-tools-and-best-practices-in-2024-25nf)
-- [What is Agile methodology? &lpar;A beginner’s guide&rpar;](https://dev.to/sonmusui/what-is-agile-methodology-a-beginners-guide-3g8)
-- [Best Practices and Pitfalls in Java Exception Handling ✨](https://dev.to/saurabhkurve/best-practices-and-pitfalls-in-java-exception-handling-37dk)
+- [Contribution? Another one? 🥳](https://dev.to/this-is-learning/contribution-another-one-5gb9)
+- [Maxun: Open Source No-Code Web Data Extraction Platform⚡️](https://dev.to/karishmashukla/maxun-open-source-no-code-web-data-extraction-platform-4316)
+- [SOLID: Single Responsibility Principle&lpar;SRP&rpar; in C#](https://dev.to/extinctsion/solid-single-responsibility-principlesrp-in-c-34d7)
+- [🚀Enhance Code Quality with These 5 Static Analysis Tools🔍](https://dev.to/dev_kiran/enhance-code-quality-with-these-5-static-analysis-tools-119m)
+- [Fixing File Renaming Issues in Git: Handling Case Sensitivity and core.ignorecase](https://dev.to/iediong/fixing-file-renaming-issues-in-git-handling-case-sensitivity-and-coreignorecase-1mf6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
