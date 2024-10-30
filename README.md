@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing REST APIs with OAuth2 and JWT: A Comprehensive Guide](https://dev.to/igventurelli/securing-rest-apis-with-oauth2-and-jwt-a-comprehensive-guide-4b8n)
-- [Mastering Algorithms: Unlock the Power of Data Structures and Numerical Computing](https://dev.to/getvm/mastering-algorithms-unlock-the-power-of-data-structures-and-numerical-computing-53ak)
-- [OAuth2: An In-Depth Overview and How It Works](https://dev.to/igventurelli/oauth2-an-in-depth-overview-and-how-it-works-i0g)
-- [Deleting Android database from the command line](https://dev.to/theplebdev/deleting-android-database-from-the-command-line-bkp)
-- [Request Rate Limiting Middleware for Iris](https://dev.to/kataras/request-rate-limiting-middleware-for-iris-2k1p)
+- [Spring Boot with Docker and Kubernetes: Containerizing and Deploying Your Java Applications](https://dev.to/igventurelli/spring-boot-with-docker-and-kubernetes-containerizing-and-deploying-your-java-applications-fm0)
+- [Kafka vs. AWS SQS: Choosing the Right Messaging Solution for Your Needs](https://dev.to/igventurelli/kafka-vs-aws-sqs-choosing-the-right-messaging-solution-for-your-needs-2i71)
+- [Day 51. Article Screen](https://dev.to/kiolk/day-51-article-screen-4j33)
+- [.NET Timers Internals](https://dev.to/mapogolions/timers-internals-5fji)
+- [Handling Exceptions in Your Spring Boot REST API](https://dev.to/igventurelli/handling-exceptions-in-your-spring-boot-rest-api-41o1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
