@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Benefits of Using a Gantt Chart for Marketing Campaigns](https://dev.to/thomasy0ung/7-benefits-of-using-a-gantt-chart-for-marketing-campaigns-3gdn)
+- [5 Best Real-Time ETL Tools](https://dev.to/techsourabh/5-best-real-time-etl-tools-8mb)
 - [File Cleaner Pro - A Python Learning Project for File Management](https://dev.to/conquerym/file-cleaner-pro-a-python-learning-project-for-file-management-56im)
 - [An Innovative Way to Create REST APIs](https://dev.to/apilover/an-innovative-way-to-create-rest-apis-4a3i)
 - [How I Got Over My Fear of Launching by Building a Simple Tool in a Few Hours](https://dev.to/arno_le_mans/how-i-got-over-my-fear-of-launching-by-building-a-simple-tool-in-a-few-hours-296a)
-- [My Hacktoberfest 2024 Journey: Learning, Growing, and Giving Back 🎉](https://dev.to/extinctsion/my-hacktoberfest-2024-journey-learning-growing-and-giving-back-olm)
-- [How to Scrape Login-Protected Websites with Selenium &lpar;Step by Step Guide&rpar;](https://dev.to/dumay_sacha/how-to-scrape-login-protected-websites-with-selenium-step-by-step-guide-9cm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
