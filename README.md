@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 How to Learn Unfamiliar Codebases](https://dev.to/sammytran/how-to-learn-unfamiliar-codebases-1mi1)
-- [first project using BASIC lang](https://dev.to/amitbartwl/first-project-using-basic-lang-3856)
-- [JSON Web Tokens &lpar;JWTs&rpar;: A Comprehensive Guide](https://dev.to/igventurelli/json-web-tokens-jwts-a-comprehensive-guide-3bhf)
-- [Creating value and coding with a purpose - lessons by The Lean Startup](https://dev.to/1solation/creating-value-and-coding-with-a-purpose-lessons-by-the-lean-startup-532h)
-- [Finding Beauty in Chaos: Lessons Learned from a Messy Software Project](https://dev.to/igventurelli/finding-beauty-in-chaos-lessons-learned-from-a-messy-software-project-33dh)
+- [Exploring Flyte: A Scalable, Extensible Workflow Orchestration Platform and Its Alternatives](https://dev.to/vanshajpoonia/exploring-flyte-a-scalable-extensible-workflow-orchestration-platform-and-its-alternatives-1i73)
+- [Interactive Code Editor Tutorial: Managing Dynamic Content with react-codemirror](https://dev.to/mrsupercraft/interactive-code-editor-tutorial-managing-dynamic-content-with-react-codemirror-3i7g)
+- [¿Cómo usar la clase Properties en Java?](https://dev.to/asjordi/como-usar-la-clase-properties-en-java-eon)
+- [⚡ React Pure Loading: Lightweight CSS Loaders for React](https://dev.to/tomasdevs/react-pure-loading-lightweight-css-loaders-for-react-127a)
+- [Remove Redundant Subscriptions in Angular with @jsverse/letify](https://dev.to/shaharkazaz/remove-redundant-subscriptions-in-angular-with-jsverseletify-2pni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
