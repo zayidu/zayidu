@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Image Upload to Strapi via REST API with Next.js and Postman](https://dev.to/strapi/image-upload-to-strapi-via-rest-api-with-nextjs-and-postman-521o)
-- [Mastering React Checkbox: A Complete Guide](https://dev.to/codeparrot/mastering-react-checkbox-a-complete-guide-3b41)
-- [NestJS vs Encore.ts: Choosing the Right Framework for Your TypeScript Microservices](https://dev.to/encore/nestjs-vs-encorets-choosing-the-right-framework-for-your-typescript-microservices-1g61)
-- [AI Tools Every Mobile Developer Needs to Use](https://dev.to/anna-boiko/ai-tools-every-mobile-developer-needs-to-use-35b1)
-- [Coding, Collaborating, and Contributing: My Hacktoberfest Journey](https://dev.to/niteshoak/coding-collaborating-and-contributing-my-hacktoberfest-journey-4i6)
+- [🧠 How to Learn Unfamiliar Codebases](https://dev.to/sammytran/how-to-learn-unfamiliar-codebases-1mi1)
+- [first project using BASIC lang](https://dev.to/amitbartwl/first-project-using-basic-lang-3856)
+- [JSON Web Tokens &lpar;JWTs&rpar;: A Comprehensive Guide](https://dev.to/igventurelli/json-web-tokens-jwts-a-comprehensive-guide-3bhf)
+- [Creating value and coding with a purpose - lessons by The Lean Startup](https://dev.to/1solation/creating-value-and-coding-with-a-purpose-lessons-by-the-lean-startup-532h)
+- [Finding Beauty in Chaos: Lessons Learned from a Messy Software Project](https://dev.to/igventurelli/finding-beauty-in-chaos-lessons-learned-from-a-messy-software-project-33dh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
