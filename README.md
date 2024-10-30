@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Flyte: A Scalable, Extensible Workflow Orchestration Platform and Its Alternatives](https://dev.to/vanshajpoonia/exploring-flyte-a-scalable-extensible-workflow-orchestration-platform-and-its-alternatives-1i73)
-- [Interactive Code Editor Tutorial: Managing Dynamic Content with react-codemirror](https://dev.to/mrsupercraft/interactive-code-editor-tutorial-managing-dynamic-content-with-react-codemirror-3i7g)
-- [¿Cómo usar la clase Properties en Java?](https://dev.to/asjordi/como-usar-la-clase-properties-en-java-eon)
-- [⚡ React Pure Loading: Lightweight CSS Loaders for React](https://dev.to/tomasdevs/react-pure-loading-lightweight-css-loaders-for-react-127a)
-- [Remove Redundant Subscriptions in Angular with @jsverse/letify](https://dev.to/shaharkazaz/remove-redundant-subscriptions-in-angular-with-jsverseletify-2pni)
+- [Comprehensive List of Trie-Based Questions](https://dev.to/nozibul_islam_113b1d5334f/comprehensive-list-of-trie-based-questions-d70)
+- [Components in React](https://dev.to/tomiloba2/components-in-react-2ia)
+- [Don&#39;t Overlook These Key React Techniques to Optimize Your Apps](https://dev.to/shehzadhussain/dont-overlook-these-key-react-techniques-to-optimize-your-apps-2igb)
+- [Clustered Scatter Chart](https://dev.to/nabeghanane/clustered-scatter-chart-1ol6)
+- [Revolutionizing Food Advertising with Qr2Art: Artistic QR Codes that Blend Perfectly into Your Brand&#39;s Imagery](https://dev.to/qr2art_26bd40dfb3563c76fb/revolutionizing-food-advertising-with-qr2art-artistic-qr-codes-that-blend-perfectly-into-your-brands-imagery-1ala)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
