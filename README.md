@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy? Halloween? 🤔](https://dev.to/best_codes/happy-halloween-klm)
-- [Unlocking the Mystery: Deciphering the Enigmatic Code of URL&#39;s Glob Patterns in cy.intercept&lpar;&rpar;](https://dev.to/sebastianclavijo/unlocking-the-mystery-deciphering-the-enigmatic-code-of-urls-glob-patterns-in-cyintercept-3mgg)
-- [Building an AI-Powered iOS Chat App with Amazon Bedrock and Swift](https://dev.to/aws-builders/building-an-ai-powered-ios-chat-app-with-amazon-bedrock-and-swift-4doo)
-- [SSL verification error at depth 2 - Zscaler | WSL](https://dev.to/julnarot/ssl-verification-error-at-depth-2-47f9)
-- [4th Pull Request - Hacktoberfest](https://dev.to/aldrin312/4th-pull-request-hacktoberfest-2hoi)
+- [Transforme Seu Servidor Local em um Site Público com Ngrok](https://dev.to/alexandrejusten/transforme-seu-servidor-local-em-um-site-publico-com-ngrok-30do)
+- [Unlock the Power of JavaScript Concurrency with Atomics.waitAsync&lpar;&rpar;](https://dev.to/dailysandbox/unlock-the-power-of-javascript-concurrency-with-atomicswaitasync-5e9p)
+- [Solutions for Failing to Create Tenants in Apache DolphinScheduler](https://dev.to/chen_debra_3060b21d12b1b0/solutions-for-failing-to-create-tenants-in-apache-dolphinscheduler-592)
+- [🧑‍💻 Build Your Cloud ☁️](https://dev.to/samyfodil/build-your-cloud-2nmm)
+- [Early Stopping in Machine Learning and Life: Knowing When Enough is Enough](https://dev.to/sreeni5018/early-stopping-in-machine-learning-and-life-knowing-when-enough-is-enough-g2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
