@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#86 — Calculate Using Adjacent Row/Interval When Data of The Same Group Is Discontinuous &lpar;LRR/YOY in The Case of Missing Data&rpar;](https://dev.to/judith677/86-calculate-using-adjacent-rowinterval-when-data-of-the-same-group-is-discontinuous-lrryoy-in-the-case-of-missing-data-59bi)
-- [Creating a Multilingual Expense Tracker with Tolgee](https://dev.to/mayank_mohapatra/creating-a-multilingual-expense-tracker-with-tolgee-445a)
-- [Working by Day, Hacking by Night: My oss.gg Hackathon Experience](https://dev.to/raju_gangitla_91920e1427f/working-by-day-hacking-by-night-my-ossgg-hackathon-experience-381c)
-- [HackMty 24 📍TecMty](https://dev.to/luis_diaz_19a878119983392/hackmty-24-tecmty-4f1b)
-- [What each container does in SafeLine WAF](https://dev.to/carrie_luo1/what-each-container-does-in-safeline-waf-5d9g)
+- [Automate Codebase Documentation: Ruby Script for Markdown Conversion](https://dev.to/sulmanweb/automate-codebase-documentation-ruby-script-for-markdown-conversion-5000)
+- [Let&#39;s do a Battle Between JavaScript and TypeScript!!](https://dev.to/shafayeat/lets-do-a-battle-between-javascript-and-typescript-peo)
+- [Finding the Right Data Protection Solutions for Your Team’s Needs](https://dev.to/iamjoelfox/finding-the-right-data-protection-solutions-for-your-teams-needs-33g7)
+- [Don’t Overlook Encoding Schemes: Essential Tips for Bypassing Filters in Bug Bounty Hunting](https://dev.to/genius_introuble/dont-overlook-encoding-schemes-essential-tips-for-bypassing-filters-in-bug-bounty-hunting-1pph)
+- [How to Purchase a SafeLine Pro License](https://dev.to/carrie_luo1/how-to-purchase-a-safeline-pro-license-47gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
