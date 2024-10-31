@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Simple Web Scraper with Python &lpar;BeautifulSoup&rpar; 🕷️📊](https://dev.to/info_generalhazedawn_a3d/creating-a-simple-web-scraper-with-python-beautifulsoup-1o7n)
-- [20 Powerful Techniques for Writing Efficient and Readable Python Code](https://dev.to/abdulla783/20-powerful-techniques-for-writing-efficient-and-readable-python-code-3fee)
-- [Easiest Way to Handle Drop Down Menus in Python Using Selenium ?](https://dev.to/thetanweerali/easiest-way-to-handle-drop-down-menus-in-python-using-selenium--3hph)
-- [Mastering Algorithms: Essential Concepts Every Computer Engineering Student Should Know](https://dev.to/renish_ponkiya/mastering-algorithms-essential-concepts-every-computer-engineering-student-should-know-1h8e)
-- [Learning Goes Hand-in-Hand with Building: My Journey from JavaScript Basics to Real-World Projects.](https://dev.to/diwakar_verma_381fc6e5e2f/learning-goes-hand-in-hand-with-building-my-journey-from-javascript-basics-to-real-world-projects-47p8)
+- [QPS for Beginners](https://dev.to/carrie_luo1/qps-for-beginners-4n8)
+- [What is CDR?](https://dev.to/turingvangisms/what-is-cdr-2bfg)
+- [Solve the 404 problem of downloading special files on the front end &lpar;using the Kestrel server as an example&rpar;](https://dev.to/_dc269df300190ce7ce32/solve-the-404-problem-of-downloading-special-files-on-the-front-end-using-the-kestrel-server-as-an-example-29bc)
+- [Hacktoberfest 2024 Milestone: Growth, Learning, and Open Source Wins ✨🚀](https://dev.to/kartik_badiger_7eb168d4f4/hacktoberfest-2024-milestone-growth-learning-and-open-source-wins-152m)
+- [Announcing the Start of RESTART: A Journey Back to Basics and Beyond](https://dev.to/rachit_avasthi/announcing-the-start-of-restart-a-journey-back-to-basics-and-beyond-2d54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
