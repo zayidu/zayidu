@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kraken’s Ink Launch, Vitalik’s “The Verge,” Zyfi’s Token Sale, EIP-7702 Demo, and AA October Insights](https://dev.to/etherspot/krakens-ink-launch-vitaliks-the-verge-zyfis-token-sale-eip-7702-demo-and-aa-october-insights-bcn)
-- [Float vs. Double in Java: Choosing the Right Tool for the Job](https://dev.to/souvikkundu88/float-vs-double-in-java-choosing-the-right-tool-for-the-job-4c9g)
-- [AWS Monitoring - Part 1: AWS CloudWatch](https://dev.to/hulk-pham/aws-monitoring-part-1-aws-cloudwatch-3amh)
-- [Understanding OpenAI’s ChatGPT History Policy: What It Means for Users](https://dev.to/netsqure/understanding-openais-chatgpt-history-policy-what-it-means-for-users-3hd4)
-- [How is Automation Changing DevOps and Software Development?](https://dev.to/sygitech/how-is-automation-changing-devops-and-software-development-4ka7)
+- [Polymorphism: Decoding Method Overloading in Java](https://dev.to/arshisaxena26/polymorphism-decoding-method-overloading-in-java-5hko)
+- [Relation operators.](https://dev.to/mahamadjon000/relation-operators-ghe)
+- [TIL: Block tabs and Get IP in Javascript](https://dev.to/mrzaizai2k/til-block-tabs-and-get-ip-in-js-1a9j)
+- [Next.JS CMS — Top choices in 2024](https://dev.to/focusreactive/nextjs-cms-top-choices-in-2024-o38)
+- [10 PHP Code Snippets Every Developer Should Keep Handy](https://dev.to/neotechy/10-php-code-snippets-every-developer-should-keep-handy-b2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
