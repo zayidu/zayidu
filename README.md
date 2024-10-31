@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hotwire and Stimulus Tools You Need to Know](https://dev.to/railsdesigner/hotwire-and-stimulus-tools-you-need-to-know-n41)
-- [Using rclone and launchd to sync data to Google Drive on MacOS](https://dev.to/dunkbing/using-rclone-and-launchd-to-sync-data-to-google-drive-on-macos-150j)
-- [Disable password expiration in Windows](https://dev.to/sertxudev/disable-password-expiration-in-windows-3igp)
-- [AWS Bedrock Knowledge - Base Testing Script](https://dev.to/aws-builders/aws-bedrock-knowledge-base-testing-script-3gnl)
-- [Deploying a React Watchlist Tracker App to Production Using DeployHQ](https://dev.to/andrewbaisden/deploying-a-react-watchlist-tracker-app-to-production-using-deployhq-239e)
+- [Conjuring Cursed Halloween Tales with Qdrant&#39;s Dark Arts](https://dev.to/sabrinaesaquino/conjuring-cursed-halloween-tales-with-qdrants-dark-arts-3eji)
+- [🚀 Getting Started with AI-Powered Coding Assistants 🚀](https://dev.to/anticoder03/getting-started-with-ai-powered-coding-assistants-3o4o)
+- [5 things I wish I knew as a Web Developer](https://dev.to/safdarali/5-things-i-wish-i-knew-as-a-web-developer-34b7)
+- [Spring Boot and RabbitMQ: Messaging with AMQP](https://dev.to/igventurelli/spring-boot-and-rabbitmq-messaging-with-amqp-28dj)
+- [Free Hosting Platforms for frontend Projects &lt;/&gt;](https://dev.to/wicked_sarkar/free-hosting-platforms-for-frontend-projects--2fm6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
