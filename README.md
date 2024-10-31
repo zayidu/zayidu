@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖🚀 Les frameworks boostés à l&#39;IA pour un dev plus simple et plus puissant ! 🚀🤖](https://dev.to/tom_goureau/les-frameworks-boostes-a-lia-pour-un-dev-plus-simple-et-plus-puissant--30co)
-- [How to use Prisma Postgres 🚀](https://dev.to/thomasbnt/how-to-use-prisma-postgres-5519)
-- [Do I need Multi-Region?](https://dev.to/aws-builders/do-i-need-multi-region-1g81)
-- [Testing the startup time for your Fire OS app](https://dev.to/amazonappdev/testing-the-startup-time-for-your-fire-os-app-41me)
-- [We made a horror movie inspired by spooky prod bugs 🎃](https://dev.to/jamdotdev/we-made-a-horror-movie-inspired-by-spooky-prod-bugs-23cm)
+- [🦫10 Go Tricks Every Go Programmer Needs in Their Toolkit!](https://dev.to/learngo/10-go-tricks-every-go-programmer-needs-in-their-toolkit-3o14)
+- [First Hacktoberfest Experience](https://dev.to/amullagaliev/first-hacktoberfest-experience-n7p)
+- [Latest Interview QnA faced recently as a DevOps Engineer](https://dev.to/rksalo88/latest-interview-qna-faced-recently-as-a-devops-engineer-mm9)
+- [Step-by-step guided tools needed to create an Azure App Service Using Power Shell](https://dev.to/ikelechia/step-by-step-guided-tools-needed-to-create-an-azure-app-service-using-power-shell-2eph)
+- [Web-3 and Environmental Sustainability: Myths and Facts](https://dev.to/igbikisimewari/web-3-and-environmental-sustainability-myths-and-facts-5bho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
