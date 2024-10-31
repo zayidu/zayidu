@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Webpack from Scratch, But in Rust - [3] Using NAPI-RS to Create Node.js Addons](https://dev.to/paradeto/implementing-webpack-from-scratch-but-in-rust-3-using-napi-rs-to-create-nodejs-addons-347h)
-- [Transforme Seu Servidor Local em um Site Público com Ngrok](https://dev.to/alexandrejusten/transforme-seu-servidor-local-em-um-site-publico-com-ngrok-30do)
-- [Unlock the Power of JavaScript Concurrency with Atomics.waitAsync&lpar;&rpar;](https://dev.to/dailysandbox/unlock-the-power-of-javascript-concurrency-with-atomicswaitasync-5e9p)
-- [Solutions for Failing to Create Tenants in Apache DolphinScheduler](https://dev.to/chen_debra_3060b21d12b1b0/solutions-for-failing-to-create-tenants-in-apache-dolphinscheduler-592)
-- [🧑‍💻 Build Your Cloud ☁️](https://dev.to/samyfodil/build-your-cloud-2nmm)
+- [#86 — Calculate Using Adjacent Row/Interval When Data of The Same Group Is Discontinuous &lpar;LRR/YOY in The Case of Missing Data&rpar;](https://dev.to/judith677/86-calculate-using-adjacent-rowinterval-when-data-of-the-same-group-is-discontinuous-lrryoy-in-the-case-of-missing-data-59bi)
+- [Creating a Multilingual Expense Tracker with Tolgee](https://dev.to/mayank_mohapatra/creating-a-multilingual-expense-tracker-with-tolgee-445a)
+- [Working by Day, Hacking by Night: My oss.gg Hackathon Experience](https://dev.to/raju_gangitla_91920e1427f/working-by-day-hacking-by-night-my-ossgg-hackathon-experience-381c)
+- [HackMty 24 📍TecMty](https://dev.to/luis_diaz_19a878119983392/hackmty-24-tecmty-4f1b)
+- [What each container does in SafeLine WAF](https://dev.to/carrie_luo1/what-each-container-does-in-safeline-waf-5d9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
