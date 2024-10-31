@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Polymorphism: Decoding Method Overloading in Java](https://dev.to/arshisaxena26/polymorphism-decoding-method-overloading-in-java-5hko)
-- [Relation operators.](https://dev.to/mahamadjon000/relation-operators-ghe)
-- [TIL: Block tabs and Get IP in Javascript](https://dev.to/mrzaizai2k/til-block-tabs-and-get-ip-in-js-1a9j)
-- [Next.JS CMS — Top choices in 2024](https://dev.to/focusreactive/nextjs-cms-top-choices-in-2024-o38)
-- [10 PHP Code Snippets Every Developer Should Keep Handy](https://dev.to/neotechy/10-php-code-snippets-every-developer-should-keep-handy-b2o)
+- [Building Interactive Emoji Animations in React ⚛️🎯](https://dev.to/mattlewandowski93/building-interactive-emoji-animations-in-react-4o5c)
+- [Make Planning Poker Fun 🎯](https://dev.to/mattlewandowski93/make-planning-poker-fun-45eh)
+- [Loops in C: A Simple Guide with Examples](https://dev.to/souvikkundu88/loops-in-c-a-simple-guide-with-examples-5hi7)
+- [TIPS FOR BEGINNERS IN ROBLOX STUDIO 😲](https://dev.to/mince/tips-for-beginners-in-roblox-studio-19m4)
+- [Round&lpar;&rpar; funksiya.](https://dev.to/alisher0909/round-funksiya-4358)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
