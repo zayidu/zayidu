@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Webpack from Scratch, But in Rust - [3] Using NAPI-RS to Create Node.js Addons](https://dev.to/paradeto/implementing-webpack-from-scratch-but-in-rust-3-using-napi-rs-to-create-nodejs-addons-347h)
 - [Transforme Seu Servidor Local em um Site Público com Ngrok](https://dev.to/alexandrejusten/transforme-seu-servidor-local-em-um-site-publico-com-ngrok-30do)
 - [Unlock the Power of JavaScript Concurrency with Atomics.waitAsync&lpar;&rpar;](https://dev.to/dailysandbox/unlock-the-power-of-javascript-concurrency-with-atomicswaitasync-5e9p)
 - [Solutions for Failing to Create Tenants in Apache DolphinScheduler](https://dev.to/chen_debra_3060b21d12b1b0/solutions-for-failing-to-create-tenants-in-apache-dolphinscheduler-592)
 - [🧑‍💻 Build Your Cloud ☁️](https://dev.to/samyfodil/build-your-cloud-2nmm)
-- [Early Stopping in Machine Learning and Life: Knowing When Enough is Enough](https://dev.to/sreeni5018/early-stopping-in-machine-learning-and-life-knowing-when-enough-is-enough-g2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
