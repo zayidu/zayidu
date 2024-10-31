@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Dependency Injection in Spring Boot](https://dev.to/igventurelli/understanding-dependency-injection-in-spring-boot-472k)
-- [Streamlining Research and Analysis with OpenBB](https://dev.to/adityadeshlahre/streamlining-research-and-analysis-with-openbb-209h)
-- [🐍Como Importar Dados do Excel para SQLite com Python em Poucas Linhas](https://dev.to/alexandrejusten/como-importar-dados-do-excel-para-sqlite-com-python-em-poucas-linhas-o7b)
-- [Spring Boot Actuator: Monitoring and Managing Your Applications](https://dev.to/igventurelli/spring-boot-actuator-monitoring-and-managing-your-applications-4799)
-- [You don&#39;t need to know them all!](https://dev.to/gabrieltoma/you-dont-need-to-know-them-all-1l9j)
+- [Happy? Halloween? 🤔](https://dev.to/best_codes/happy-halloween-klm)
+- [Unlocking the Mystery: Deciphering the Enigmatic Code of URL&#39;s Glob Patterns in cy.intercept&lpar;&rpar;](https://dev.to/sebastianclavijo/unlocking-the-mystery-deciphering-the-enigmatic-code-of-urls-glob-patterns-in-cyintercept-3mgg)
+- [Building an AI-Powered iOS Chat App with Amazon Bedrock and Swift](https://dev.to/aws-builders/building-an-ai-powered-ios-chat-app-with-amazon-bedrock-and-swift-4doo)
+- [SSL verification error at depth 2 - Zscaler | WSL](https://dev.to/julnarot/ssl-verification-error-at-depth-2-47f9)
+- [4th Pull Request - Hacktoberfest](https://dev.to/aldrin312/4th-pull-request-hacktoberfest-2hoi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
