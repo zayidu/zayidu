@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-on with Apache Iceberg &amp; Dremio on Your Laptop within 10 Minutes](https://dev.to/alexmercedcoder/hands-on-with-apache-iceberg-dremio-on-your-laptop-within-10-minutes-2056)
-- [Safaricom Daraja API: Authorization API Guide for Access Tokens](https://dev.to/msnmongare/safaricom-daraja-api-authorization-api-guide-for-access-tokens-2kg1)
-- [The Ultimate Guide to Protecting Your Online Privacy in 2024](https://dev.to/benzellat_djameleddine_3/the-ultimate-guide-to-protecting-your-online-privacy-in-2024-lna)
-- [What is Algorithm](https://dev.to/m__mdy__m/what-is-algorithm-o51)
-- [Fluent 2 UI for Flutter](https://dev.to/shey/fluent-2-ui-for-flutter-2njo)
+- [Here&#39;s How Building a HTTP Stream Processor Went](https://dev.to/megaconfidence/heres-how-building-a-http-stream-processor-went-3f8p)
+- [The Art of Lean Coding: How Go’s Memory Management Keeps Your Code Fit and Fast 🧠⚡](https://dev.to/githaiga22/the-art-of-lean-coding-how-gos-memory-management-keeps-your-code-fit-and-fast-5ggi)
+- [Hacktoberfest 2024: My Contributor Experience](https://dev.to/praise002/hacktoberfest-2024-my-contributor-experience-4mf1)
+- [Essential Layout Considerations for Web Pages Using Tailwind CSS](https://dev.to/rafaelogic/essential-layout-considerations-for-web-pages-using-tailwind-css-4h30)
+- [Previniendo olores raros 🫢 en Javascript](https://dev.to/richirrim/previniendo-olores-raros-en-javascript-15k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
