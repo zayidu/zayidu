@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Halloween Candy Trading Rules with Corticon](https://dev.to/notedhelms/halloween-candy-trading-rules-with-corticon-1345)
-- [Internal Developer Portals: Autonomy, Governance and the Golden Path](https://dev.to/rely-io/internal-developer-portals-autonomy-governance-and-the-golden-path-1jn2)
-- [Understanding and Using Window Functions in SQL](https://dev.to/danwycliff/understanding-and-using-window-functions-in-sql-3mop)
-- [Researchers Uncover Python Package Targeting Crypto Wallets with Malicious Code](https://dev.to/sarnews/researchers-uncover-python-package-targeting-crypto-wallets-with-malicious-code-3fgp)
-- [🚀 How I Built &quot;News Pulse&quot; with CopilotKit 🚀](https://dev.to/mayank_mohapatra/how-i-built-news-pulse-with-copilotkit-5c3p)
+- [Hotwire and Stimulus Tools You Need to Know](https://dev.to/railsdesigner/hotwire-and-stimulus-tools-you-need-to-know-n41)
+- [Using rclone and launchd to sync data to Google Drive on MacOS](https://dev.to/dunkbing/using-rclone-and-launchd-to-sync-data-to-google-drive-on-macos-150j)
+- [Disable password expiration in Windows](https://dev.to/sertxudev/disable-password-expiration-in-windows-3igp)
+- [AWS Bedrock Knowledge - Base Testing Script](https://dev.to/aws-builders/aws-bedrock-knowledge-base-testing-script-3gnl)
+- [Deploying a React Watchlist Tracker App to Production Using DeployHQ](https://dev.to/andrewbaisden/deploying-a-react-watchlist-tracker-app-to-production-using-deployhq-239e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
