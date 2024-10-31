@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Codebase Documentation: Ruby Script for Markdown Conversion](https://dev.to/sulmanweb/automate-codebase-documentation-ruby-script-for-markdown-conversion-5000)
-- [Let&#39;s do a Battle Between JavaScript and TypeScript!!](https://dev.to/shafayeat/lets-do-a-battle-between-javascript-and-typescript-peo)
-- [Finding the Right Data Protection Solutions for Your Team’s Needs](https://dev.to/iamjoelfox/finding-the-right-data-protection-solutions-for-your-teams-needs-33g7)
-- [Don’t Overlook Encoding Schemes: Essential Tips for Bypassing Filters in Bug Bounty Hunting](https://dev.to/genius_introuble/dont-overlook-encoding-schemes-essential-tips-for-bypassing-filters-in-bug-bounty-hunting-1pph)
-- [How to Purchase a SafeLine Pro License](https://dev.to/carrie_luo1/how-to-purchase-a-safeline-pro-license-47gm)
+- [Creating a Simple Web Scraper with Python &lpar;BeautifulSoup&rpar; 🕷️📊](https://dev.to/info_generalhazedawn_a3d/creating-a-simple-web-scraper-with-python-beautifulsoup-1o7n)
+- [20 Powerful Techniques for Writing Efficient and Readable Python Code](https://dev.to/abdulla783/20-powerful-techniques-for-writing-efficient-and-readable-python-code-3fee)
+- [Easiest Way to Handle Drop Down Menus in Python Using Selenium ?](https://dev.to/thetanweerali/easiest-way-to-handle-drop-down-menus-in-python-using-selenium--3hph)
+- [Mastering Algorithms: Essential Concepts Every Computer Engineering Student Should Know](https://dev.to/renish_ponkiya/mastering-algorithms-essential-concepts-every-computer-engineering-student-should-know-1h8e)
+- [Learning Goes Hand-in-Hand with Building: My Journey from JavaScript Basics to Real-World Projects.](https://dev.to/diwakar_verma_381fc6e5e2f/learning-goes-hand-in-hand-with-building-my-journey-from-javascript-basics-to-real-world-projects-47p8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
