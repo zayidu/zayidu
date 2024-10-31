@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix an issue on my Dockerfile: ARG Scope in Multi-Stage Docker Build](https://dev.to/manuartero/fix-an-issue-on-my-dockerfile-arg-scope-in-multi-stage-docker-build-4kck)
-- [12 Useful Developer Tools You Will Wish You Knew Sooner 🧑‍💻🧙](https://dev.to/madza/12-useful-developer-tools-you-will-wish-you-knew-sooner-588m)
-- [🚀 Your Daily Crypto Job Digest For 31 October!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-31-october-1bo0)
-- [From Diagram to Code with Amazon Q Developer](https://dev.to/welcloud-io/from-diagram-to-code-with-amazon-q-developer-2da4)
-- [Why I left Meetup.com as an organiser and joined Linkedin](https://dev.to/airabbit/why-i-left-meetupcom-as-an-organiser-and-joined-linkedin-106l)
+- [Halloween Candy Trading Rules with Corticon](https://dev.to/notedhelms/halloween-candy-trading-rules-with-corticon-1345)
+- [Internal Developer Portals: Autonomy, Governance and the Golden Path](https://dev.to/rely-io/internal-developer-portals-autonomy-governance-and-the-golden-path-1jn2)
+- [Understanding and Using Window Functions in SQL](https://dev.to/danwycliff/understanding-and-using-window-functions-in-sql-3mop)
+- [Researchers Uncover Python Package Targeting Crypto Wallets with Malicious Code](https://dev.to/sarnews/researchers-uncover-python-package-targeting-crypto-wallets-with-malicious-code-3fgp)
+- [🚀 How I Built &quot;News Pulse&quot; with CopilotKit 🚀](https://dev.to/mayank_mohapatra/how-i-built-news-pulse-with-copilotkit-5c3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
