@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🦫10 Go Tricks Every Go Programmer Needs in Their Toolkit!](https://dev.to/learngo/10-go-tricks-every-go-programmer-needs-in-their-toolkit-3o14)
-- [First Hacktoberfest Experience](https://dev.to/amullagaliev/first-hacktoberfest-experience-n7p)
-- [Latest Interview QnA faced recently as a DevOps Engineer](https://dev.to/rksalo88/latest-interview-qna-faced-recently-as-a-devops-engineer-mm9)
-- [Step-by-step guided tools needed to create an Azure App Service Using Power Shell](https://dev.to/ikelechia/step-by-step-guided-tools-needed-to-create-an-azure-app-service-using-power-shell-2eph)
-- [Web-3 and Environmental Sustainability: Myths and Facts](https://dev.to/igbikisimewari/web-3-and-environmental-sustainability-myths-and-facts-5bho)
+- [Hands-on with Apache Iceberg &amp; Dremio on Your Laptop within 10 Minutes](https://dev.to/alexmercedcoder/hands-on-with-apache-iceberg-dremio-on-your-laptop-within-10-minutes-2056)
+- [Safaricom Daraja API: Authorization API Guide for Access Tokens](https://dev.to/msnmongare/safaricom-daraja-api-authorization-api-guide-for-access-tokens-2kg1)
+- [The Ultimate Guide to Protecting Your Online Privacy in 2024](https://dev.to/benzellat_djameleddine_3/the-ultimate-guide-to-protecting-your-online-privacy-in-2024-lna)
+- [What is Algorithm](https://dev.to/m__mdy__m/what-is-algorithm-o51)
+- [Fluent 2 UI for Flutter](https://dev.to/shey/fluent-2-ui-for-flutter-2njo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
