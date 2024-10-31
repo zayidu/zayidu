@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Conjuring Cursed Halloween Tales with Qdrant&#39;s Dark Arts](https://dev.to/sabrinaesaquino/conjuring-cursed-halloween-tales-with-qdrants-dark-arts-3eji)
-- [🚀 Getting Started with AI-Powered Coding Assistants 🚀](https://dev.to/anticoder03/getting-started-with-ai-powered-coding-assistants-3o4o)
-- [5 things I wish I knew as a Web Developer](https://dev.to/safdarali/5-things-i-wish-i-knew-as-a-web-developer-34b7)
-- [Spring Boot and RabbitMQ: Messaging with AMQP](https://dev.to/igventurelli/spring-boot-and-rabbitmq-messaging-with-amqp-28dj)
-- [Free Hosting Platforms for frontend Projects &lt;/&gt;](https://dev.to/wicked_sarkar/free-hosting-platforms-for-frontend-projects--2fm6)
+- [Setting Up a WordPress Development Environment with DDEV](https://dev.to/sarahcssiqueira/setting-up-a-wordpress-development-environment-with-ddev-2bia)
+- [Unlocking the Power of README.md: Your Project&#39;s First Impression](https://dev.to/collinzo2022/unlocking-the-power-of-readmemd-your-projects-first-impression-1426)
+- [iFrame biPass](https://dev.to/zia_ur_rehman/iframe-bipass-427m)
+- [The Reasons Why Asbestos Law Firm In 2023 Is The Main Focus Of All People&#39;s Attention. 2023](https://dev.to/chinawave29/the-reasons-why-asbestos-law-firm-in-2023-is-the-main-focus-of-all-peoples-attention-2023-4jke)
+- [You&#39;ll Be Unable To Guess Corner Fabric Sofa&#39;s Benefits](https://dev.to/spyhen3/youll-be-unable-to-guess-corner-fabric-sofas-benefits-3i33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
