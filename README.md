@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [QPS for Beginners](https://dev.to/carrie_luo1/qps-for-beginners-4n8)
-- [What is CDR?](https://dev.to/turingvangisms/what-is-cdr-2bfg)
-- [Solve the 404 problem of downloading special files on the front end &lpar;using the Kestrel server as an example&rpar;](https://dev.to/_dc269df300190ce7ce32/solve-the-404-problem-of-downloading-special-files-on-the-front-end-using-the-kestrel-server-as-an-example-29bc)
-- [Hacktoberfest 2024 Milestone: Growth, Learning, and Open Source Wins ✨🚀](https://dev.to/kartik_badiger_7eb168d4f4/hacktoberfest-2024-milestone-growth-learning-and-open-source-wins-152m)
-- [Announcing the Start of RESTART: A Journey Back to Basics and Beyond](https://dev.to/rachit_avasthi/announcing-the-start-of-restart-a-journey-back-to-basics-and-beyond-2d54)
+- [Split a Huge CSV File into Multiple Smaller CSV Files #eg69](https://dev.to/esproc_spl/split-a-huge-csv-file-into-multiple-smaller-csv-files-eg69-5dcb)
+- [MySQL Numeric Data Types Explained](https://dev.to/dbvismarketing/mysql-numeric-data-types-explained-nim)
+- [Discover, Share, and Explore AI Tools with Thank John](https://dev.to/bitsbard/discover-share-and-explore-ai-tools-with-thank-john-3k6c)
+- [Wall Street X: How I Turned My Finance Obsession Into a Real-World Full-Stack Trading App](https://dev.to/luedev/wall-street-x-how-i-turned-my-finance-obsession-into-a-real-world-full-stack-trading-app-3d4o)
+- [Weather App with Tolgee](https://dev.to/mayank_mohapatra/weather-appwith-tolgee-3bhh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
