@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Here&#39;s How Building a HTTP Stream Processor Went](https://dev.to/megaconfidence/heres-how-building-a-http-stream-processor-went-3f8p)
-- [The Art of Lean Coding: How Go’s Memory Management Keeps Your Code Fit and Fast 🧠⚡](https://dev.to/githaiga22/the-art-of-lean-coding-how-gos-memory-management-keeps-your-code-fit-and-fast-5ggi)
-- [Hacktoberfest 2024: My Contributor Experience](https://dev.to/praise002/hacktoberfest-2024-my-contributor-experience-4mf1)
-- [Essential Layout Considerations for Web Pages Using Tailwind CSS](https://dev.to/rafaelogic/essential-layout-considerations-for-web-pages-using-tailwind-css-4h30)
-- [Previniendo olores raros 🫢 en Javascript](https://dev.to/richirrim/previniendo-olores-raros-en-javascript-15k)
+- [Silent Guardians: The Invisible Encryption Protecting Your S3 Data](https://dev.to/lindiwe09/silent-guardians-the-invisible-encryption-protecting-your-s3-data-2jjf)
+- [MASTERING LOOPS IN JAVASCRIPT: A COMPREHENSIVE GUIDE](https://dev.to/sopuluchukwu_eze/mastering-loops-in-javascript-a-comprehensive-guide-5del)
+- [Mastering Image Uploads with Multer, Firebase, and Express in Node.js](https://dev.to/alyconr/mastering-image-uploads-with-multer-firebase-and-express-in-nodejs-3glf)
+- [You don&#39;t need a CSS pre-processor](https://dev.to/dperrymorrow/you-dont-need-a-css-pre-processor-nj3)
+- [AI Feedback Analysis with the Facade Pattern](https://dev.to/dazevedo/ai-feedback-analysis-with-the-facade-pattern-4b1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
