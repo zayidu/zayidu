@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Starting from Scratch](https://dev.to/johnnybuilds/starting-from-scratch-8o8)
-- [New open-source multiplayer canvas game!](https://dev.to/cat2d2/new-open-source-multiplayer-canvas-game-27ae)
-- [How to Fix MySQL Not Running on macOS Sequoia 15.0](https://dev.to/syahzul/how-to-fix-mysql-not-running-on-macos-sequoia-150-5c96)
-- [Mastering Image Uploads with Multer, Firebase, and Express in Node.js](https://dev.to/alyconr/mastering-image-uploads-with-multer-firebase-and-express-in-nodejs-5hd1)
-- [A brief recap of what I did this Month](https://dev.to/bregwin/a-brief-recap-of-what-i-did-this-month-40e1)
+- [Get thread dump of Java container running on JRE Docker image](https://dev.to/tranthe/get-thread-dump-of-java-container-running-on-jre-docker-image-39lk)
+- [Hackoberfest: Part 4](https://dev.to/add00_3/hackoberfest-part-4-2gh1)
+- [Optimizing C++ Memory Management with a Custom Memory Pool](https://dev.to/pigeoncodeur/optimizing-c-memory-management-with-a-custom-memory-pool-1o3b)
+- [Why Are Big Tech Companies Pushing AI on Users Without Choice?](https://dev.to/mukisapaulk/why-are-big-tech-companies-pushing-ai-on-users-without-choice-40hk)
+- [Observer Pattern](https://dev.to/sota_333ad4b72095606ab40c/observer-pattern-ebp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
