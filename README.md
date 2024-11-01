@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Scheduling Patterns with Demand-Based Matching, Skills, and Competencies. Part 4.](https://dev.to/datapult/advanced-scheduling-patterns-with-demand-based-matching-skills-and-competencies-part-4-cj5)
-- [Automate API Response Validation](https://dev.to/apilover/automate-api-response-validation-2i79)
-- [How to Avoid the Single-Threaded Trap in JavaScript](https://dev.to/zenstok/how-to-avoid-the-single-threaded-trap-in-javascript-12ih)
-- [🚀 Top 3 Websites to Copy &amp; Paste Tailwind CSS Components for Fast-Track UI Development in 2024 💨](https://dev.to/bardui/top-3-websites-to-copy-paste-tailwind-css-components-for-fast-track-ui-development-in-2024-4182)
-- [Node.js Frameworks Roundup 2024 — Elysia / Hono / Nest / Encore — Which should you pick?](https://dev.to/encore/nodejs-frameworks-roundup-2024-elysia-hono-nest-encore-which-should-you-pick-19oj)
+- [Github Spark: The AI Tool That Creates Apps with Spoken Language](https://dev.to/apilover/github-spark-the-ai-tool-that-creates-apps-with-spoken-language-1op2)
+- [How to Dockerize and Deploy Fastify APIs](https://dev.to/code42cate/how-to-dockerize-and-deploy-fastify-apis-3f7i)
+- [GBASE数据库 | GBase 8a Distributed Execution Plan Principles](https://dev.to/congcong/gbaseshu-ju-ku-gbase-8a-distributed-execution-plan-principles-dc9)
+- [Call, Apply &amp; Bind Methods — Javascript](https://dev.to/manojravi/call-apply-bind-methods-javascript-kh4)
+- [EchoAPI:lightweight alternative to Postman](https://dev.to/eleanor_fairfax_5ce95399d/echoapilightweight-alternative-to-postman-2ja4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
