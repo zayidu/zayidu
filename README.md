@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting the Deck in Order: Custom Types and Methods in Go!](https://dev.to/_itsglover/getting-the-deck-in-order-custom-types-and-methods-in-go-40a9)
-- [Low Code Written in the Grid](https://dev.to/esproc_spl/low-code-written-in-the-grid-1bbp)
-- [Low Code Written in the Grid](https://dev.to/esproc_spl/low-code-written-in-the-grid-27dn)
-- [Docker Volumes: Mastering Persistent Storage in Containers](https://dev.to/labex/docker-volumes-mastering-persistent-storage-in-containers-2766)
-- [Javascript Reserved Keywords](https://dev.to/diwakar_verma_381fc6e5e2f/javascript-reserved-keywords-3mp3)
+- [How to Design Star Eye Emoji Using 3D CAD Software](https://dev.to/julia970/how-to-design-star-eye-emoji-using-3d-cad-software-20i4)
+- [My Hacktobefest 2024 Experience](https://dev.to/pradumnasaraf/my-hacktobefest-2024-experience-385f)
+- [Closure - JavaScript Challenges](https://dev.to/mitchell_cheng/closure-javascript-challenges-1a1i)
+- [Integration Digest: October 2024](https://dev.to/stn1slv/integration-digest-october-2024-3hhp)
+- [Get Started with Machine Learning](https://dev.to/adityajha2005/get-started-with-machine-learning-38o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
