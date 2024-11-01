@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#87 — Merge Data of The Same Group](https://dev.to/judith677/87-merge-data-of-the-same-group-5ap4)
-- [Function prototype - JavaScript Challenges](https://dev.to/mitchell_cheng/function-prototype-javascript-challenges-19eo)
-- [Swarm: El Framework Experimental de OpenAI para Orquestación de Agentes](https://dev.to/carlos_alarcn_4318831566/swarm-el-framework-experimental-de-openai-para-orquestacion-de-agentes-4d9h)
-- [A Yocto Cheatsheet](https://dev.to/lsahn/a-yocto-cheatsheet-3jbf)
-- [Exploring Autoencoders:Anomaly Detection with TensorFlow and Keras Using the MNIST Dataset](https://dev.to/sreeni5018/exploring-autoencodersanomaly-detection-with-tensorflow-and-keras-using-the-mnist-dataset-1bdp)
+- [How to Validate a File Input with Zod](https://dev.to/drprime01/how-to-validate-a-file-input-with-zod-5739)
+- [Data Analysis and Visualization in Python 📊🐍](https://dev.to/info_generalhazedawn_a3d/data-analysis-and-visualization-in-python-2n1k)
+- [Automating software installations on Linux using Python.](https://dev.to/trixsec/automating-software-installations-on-linux-using-python-3611)
+- [Understanding JSONify&lpar;&rpar;, to_dict&lpar;&rpar;, make_response&lpar;&rpar;, and SerializerMixin in Flask](https://dev.to/the1kimk/understanding-jsonify-todict-makeresponse-and-serializermixin-in-flask-4d7c)
+- [My Hacktoberfest 2024 Experience with Cal Buddy, Your Smart Calendar Assistant](https://dev.to/chiragagg5k/my-hacktoberfest-2024-experience-with-cal-buddy-your-smart-calendar-assistant-456c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
