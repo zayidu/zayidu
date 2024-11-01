@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In Python](https://dev.to/bascodes/this-week-in-python-1c62)
-- [Kotlin Null Safety vs. Java: A Comedy of Errors &lpar;But Mostly in Java&rpar;](https://dev.to/hamada147/kotlin-null-safety-vs-java-a-comedy-of-errors-but-mostly-in-java-api)
-- [All the Rust Features](https://dev.to/francescoxx/all-the-rust-features-1l1o)
-- [5. Longest Palindromic Substring](https://dev.to/munisekharudavalapati/5-longest-palindromic-substring-462b)
-- [My AI Adventure Begins](https://dev.to/michael_flanagan_910e3bad/my-ai-adventure-begins-4gcm)
+- [npmとnpxの違い](https://dev.to/hamachooo25/npmtonpxnowei-i-2cif)
+- [Implementing Distributed Caching with Redis in Azure Functions](https://dev.to/mbrennan376/implementing-distributed-caching-with-redis-in-azure-functions-14ph)
+- [Harnessing Extension Methods for DI in Clean Architecture with .NET](https://dev.to/mbrennan376/harnessing-extension-methods-for-di-in-clean-architecture-with-net-29l7)
+- [Smart Contracts Deep Storage: A New Way to Upgrade Legacy Smart Contracts](https://dev.to/smartmuv/smart-contracts-deep-storage-a-new-way-to-upgrade-legacy-smart-contracts-432a)
+- [Comparing SASS with plain CSS](https://dev.to/devibbi/comparing-sass-with-plain-css-44bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
