@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Battle of the Backend: Comparing Microservices Languages for Speed, Performance, and Scalability](https://dev.to/firoj_mujawar/battle-of-the-backend-comparing-microservices-languages-for-speed-performance-and-scalability-4kf0)
-- [Write a Java program to find duplicate elements in an array](https://dev.to/realnamehidden1_61/write-a-java-program-to-find-duplicate-elements-in-an-array-3n6k)
-- [This Week In React #207: Next.js, shadcn/ui, Headless UI, RN 0.76, New Architecture, NativeWind, RNTL, Reassure, Bottom Tabs...](https://dev.to/sebastienlorber/this-week-in-react-207-nextjs-shadcnui-headless-ui-rn-076-new-architecture-nativewind-rntl-reassure-bottom-tabs-1noa)
-- [Metaframeworks for React, Angular and Vue](https://dev.to/peterkassenaar/metaframeworks-for-react-angular-and-vue-33ii)
-- [M-Pesa Express &lpar;STK Push&rpar; API Guide](https://dev.to/msnmongare/m-pesa-express-stk-push-api-guide-40a2)
+- [10 Insane Web Design Tools Every Developer Should Know About! 🌟 🔥](https://dev.to/hosseinyazdi/10-insane-web-design-tools-every-developer-should-know-about-40he)
+- [Simplified URL Building and HTTP Requests with Flurl](https://dev.to/juarezasjunior/simplified-url-building-and-http-requests-with-flurl-36cl)
+- [Construção de URLs e Chamadas HTTP Simplificadas com Flurl](https://dev.to/juarezasjunior/construcao-de-urls-e-chamadas-http-simplificadas-com-flurl-2cco)
+- [How to Customize and Change Your Flutter App Launcher Icon [2024]](https://dev.to/mc-stephen/how-to-customize-and-change-your-flutter-app-launcher-icon-2024-2jk2)
+- [Proof of Concept &lpar;POC&rpar; in Automation Testing: A Comprehensive Guide](https://dev.to/ronika_kashyap/proof-of-concept-poc-in-automation-testing-a-comprehensive-guide-44jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
