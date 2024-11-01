@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Design Star Eye Emoji Using 3D CAD Software](https://dev.to/julia970/how-to-design-star-eye-emoji-using-3d-cad-software-20i4)
-- [My Hacktobefest 2024 Experience](https://dev.to/pradumnasaraf/my-hacktobefest-2024-experience-385f)
-- [Closure - JavaScript Challenges](https://dev.to/mitchell_cheng/closure-javascript-challenges-1a1i)
-- [Integration Digest: October 2024](https://dev.to/stn1slv/integration-digest-october-2024-3hhp)
-- [Get Started with Machine Learning](https://dev.to/adityajha2005/get-started-with-machine-learning-38o8)
+- [Advanced Scheduling Patterns with Demand-Based Matching, Skills, and Competencies. Part 4.](https://dev.to/datapult/advanced-scheduling-patterns-with-demand-based-matching-skills-and-competencies-part-4-cj5)
+- [Automate API Response Validation](https://dev.to/apilover/automate-api-response-validation-2i79)
+- [How to Avoid the Single-Threaded Trap in JavaScript](https://dev.to/zenstok/how-to-avoid-the-single-threaded-trap-in-javascript-12ih)
+- [🚀 Top 3 Websites to Copy &amp; Paste Tailwind CSS Components for Fast-Track UI Development in 2024 💨](https://dev.to/bardui/top-3-websites-to-copy-paste-tailwind-css-components-for-fast-track-ui-development-in-2024-4182)
+- [Node.js Frameworks Roundup 2024 — Elysia / Hono / Nest / Encore — Which should you pick?](https://dev.to/encore/nodejs-frameworks-roundup-2024-elysia-hono-nest-encore-which-should-you-pick-19oj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
