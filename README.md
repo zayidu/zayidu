@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Get thread dump of Java container running on JRE Docker image](https://dev.to/tranthe/get-thread-dump-of-java-container-running-on-jre-docker-image-39lk)
-- [Hackoberfest: Part 4](https://dev.to/add00_3/hackoberfest-part-4-2gh1)
-- [Optimizing C++ Memory Management with a Custom Memory Pool](https://dev.to/pigeoncodeur/optimizing-c-memory-management-with-a-custom-memory-pool-1o3b)
-- [Why Are Big Tech Companies Pushing AI on Users Without Choice?](https://dev.to/mukisapaulk/why-are-big-tech-companies-pushing-ai-on-users-without-choice-40hk)
-- [Observer Pattern](https://dev.to/sota_333ad4b72095606ab40c/observer-pattern-ebp)
+- [💾 Advanced Database Operations with Mongoose: Virtuals, Population, and Indexing 🚀](https://dev.to/erasmuskotoka/advanced-database-operations-with-mongoose-virtuals-population-and-indexing-5228)
+- [Automate Update Your Changelog with GitHub Actions](https://dev.to/nasrulhazim/automate-update-your-changelog-with-github-actions-5g10)
+- [My Hacktoberfest 2024 Experience](https://dev.to/mayankpareek/my-hacktoberfest-2024-experience-54fp)
+- [Are LLMs Still Lost in the Middle?](https://dev.to/trustgraph/are-llms-still-lost-in-the-middle-52k0)
+- [How to sync your Obsidian vault using GitHub: A complete guide](https://dev.to/padiazg/how-to-sync-your-obsidian-vault-using-github-a-complete-guide-2l08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
