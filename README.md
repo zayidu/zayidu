@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 01 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-01-november-5be2)
-- [Taking on New Challenges &lpar;OTB Ep 4: Ned Batchelder&rpar;](https://dev.to/codemouse92/taking-on-new-challenges-otb-ep-4-ned-batchelder-341a)
-- [Deleting Duplicates in SQL](https://dev.to/danwycliff/deleting-duplicates-in-sql-44a0)
-- [Process-based parallel execution of plain Minitest tests](https://dev.to/beatmadsen/process-based-parallel-execution-of-plain-minitest-tests-p4a)
-- [Cluster Autoscaler configure on AWS EKS -1.24](https://dev.to/aws-builders/cluster-autoscaler-configure-on-aws-eks-130-22eg)
+- [Best Practices for Monitoring AWS Services](https://dev.to/billgist/best-practices-for-monitoring-aws-services-37lj)
+- [Second Phase - React](https://dev.to/jajaninnin/second-phase-react-3cai)
+- [I love Rust/Tauri &amp; Svelte](https://dev.to/abdenasser/i-love-rusttauri-svelte-5bae)
+- [System Design 101: Architecting Your Way to the Big Leagues](https://dev.to/sarvabharan/system-design-101-architecting-your-way-to-the-big-leagues-4o4n)
+- [在 Nextjs 中无缝集成 Cloudflare Turnstile](https://dev.to/longlikun/zai-nextjs-zhong-wu-feng-ji-cheng-cloudflare-turnstile-da-zao-geng-an-quan-de-wang-zhan-26mh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
