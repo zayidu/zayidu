@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Code Quality: A Guide to Setting Up Formatters, Linters, and Pre-Commit Hooks in Python Projects](https://dev.to/harshil_patel/automating-code-quality-a-guide-to-setting-up-formatters-linters-and-pre-commit-hooks-in-python-projects-331o)
-- [FREE Visual AI Course Now Live!](https://dev.to/voxel51/free-visual-ai-course-now-live-c8b)
-- [19/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/19365-days-y10m-japan-job-challenge-3ma)
-- [Strapi — Why](https://dev.to/santhiya_g_84b0c56c19f134/strapi-why-562i)
-- [Need a Tokenizer logic](https://dev.to/hassan_abbas_a984c9a3312b/need-a-tokenizer-logic-4a00)
+- [Google Analytics &lpar;GA4&rpar; implementation with React - Remix example](https://dev.to/seasonedcc/google-analytics-ga4-implementation-with-react-remix-example-59j)
+- [From Theory to Practice: Developing a Distributed Key-Value Database with Sharding and Replication](https://dev.to/ravikishan/from-theory-to-practice-developing-a-distributed-key-value-database-with-sharding-and-replication-180d)
+- [Weekly Updates - Nov 1, 2024](https://dev.to/couchbase/weekly-updates-nov-1-2024-ek)
+- [Building a Simple TCP Server in C](https://dev.to/trish_07/building-a-simple-tcp-server-in-c-2h85)
+- [Local Dev Environment and Static Code Analysis](https://dev.to/kannav02/local-dev-environment-and-static-code-analysis-1pda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
