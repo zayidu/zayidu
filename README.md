@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Contri.Buzz - Celebrate your open source contributors](https://dev.to/hemanth004/contribuzz-celebrate-your-open-source-contributors-1ahl)
-- [🎉 The key evolution of the Easy Model package is here with v1.0.8 🎉](https://dev.to/mmramadan496/the-key-evolution-of-the-easy-model-package-is-here-with-v108-51c9)
-- [Mastering Python’s __name__ and __main__: Understanding Script Execution and Module Imports](https://dev.to/pawandeore/mastering-pythons-name-and-main-understanding-script-execution-and-module-imports-266g)
-- [My Coding Journey: Building Confidence One Day at a Time](https://dev.to/coding_chronicles/my-coding-journey-building-confidence-one-day-at-a-time-3cf9)
-- [A step-by-step guide on how to integrate Voyp-AI with various CRM platforms or communication tools.](https://dev.to/snowman524/a-step-by-step-guide-on-how-to-integrate-voyp-ai-with-various-crm-platforms-or-communication-tools-3ah)
+- [Mastering APIs in JavaScript: From Basics to Async/Await](https://dev.to/imrankhan17/mastering-apis-in-javascript-from-basics-to-asyncawait-6mi)
+- [Why Virtual DOM: Render and Performance](https://dev.to/sonaykara/why-virtual-dom-faster-rendering-and-performance-1cjh)
+- [Pythonic Time Capsule: Must-Know Features from Each Version](https://dev.to/cquark7/pythonic-time-capsule-must-know-features-from-each-version-1795)
+- [SQL - Dia 7](https://dev.to/technonotes/sql-day-7-8hj)
+- [Lightweight Kubernetes and Wasm is a Perfect Combo](https://dev.to/fermyon/lightweight-kubernetes-and-wasm-is-a-perfect-combo-5h11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
