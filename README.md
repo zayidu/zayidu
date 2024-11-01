@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamline Your Azure Workflow with GitHub Copilot for Azure in VS Code](https://dev.to/azure/streamline-your-azure-workflow-with-github-copilot-for-azure-in-vs-code-2a2n)
-- [Adding Static Analysis Tools to Maintain the Code Quality](https://dev.to/arilloid/adding-static-analysis-tools-to-maintain-the-code-quality-2pb0)
-- [Maximizing Developer Productivity with Obsidian: A Complete Setup Guide](https://dev.to/airabbit/maximizing-developer-productivity-with-obsidian-a-complete-setup-guide-gj7)
-- [How to Succeed in Strategy Implementation](https://dev.to/teamstation/how-to-succeed-in-strategy-implementation-4f2b)
-- [Automated testing and reporting are essential components of the CI/CD process in Jenkins,](https://dev.to/i_am_vesh/automated-testing-and-reporting-are-essential-components-of-the-cicd-process-in-jenkins-5hm)
+- [Automating Code Quality: A Guide to Setting Up Formatters, Linters, and Pre-Commit Hooks in Python Projects](https://dev.to/harshil_patel/automating-code-quality-a-guide-to-setting-up-formatters-linters-and-pre-commit-hooks-in-python-projects-331o)
+- [FREE Visual AI Course Now Live!](https://dev.to/voxel51/free-visual-ai-course-now-live-c8b)
+- [19/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/19365-days-y10m-japan-job-challenge-3ma)
+- [Strapi — Why](https://dev.to/santhiya_g_84b0c56c19f134/strapi-why-562i)
+- [Need a Tokenizer logic](https://dev.to/hassan_abbas_a984c9a3312b/need-a-tokenizer-logic-4a00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
