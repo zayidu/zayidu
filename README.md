@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Pass Information Between Jobs in GitHub Actions](https://dev.to/cicube/how-to-pass-information-between-jobs-in-github-actions-25o)
-- [Automating CI/CD Pipeline Migration with GitHub Actions Importer](https://dev.to/cicube/automating-cicd-pipeline-migration-with-github-actions-importer-7c3)
-- [Getting Started with the JuiceFS Python SDK](https://dev.to/daswu/getting-started-with-the-juicefs-python-sdk-5b81)
-- [Top Programming Languages Shaping the Future: Key Technologies and Real-World Impact](https://dev.to/moizlokhandwala09/top-programming-languages-shaping-the-future-key-technologies-and-real-world-impact-1ij)
-- [Why You Should Optimize Cloud Costs: Key Benefits for Businesses](https://dev.to/unicloud/why-you-should-optimize-cloud-costs-key-benefits-for-businesses-j7e)
+- [Getting the Deck in Order: Custom Types and Methods in Go!](https://dev.to/_itsglover/getting-the-deck-in-order-custom-types-and-methods-in-go-40a9)
+- [Low Code Written in the Grid](https://dev.to/esproc_spl/low-code-written-in-the-grid-1bbp)
+- [Low Code Written in the Grid](https://dev.to/esproc_spl/low-code-written-in-the-grid-27dn)
+- [Docker Volumes: Mastering Persistent Storage in Containers](https://dev.to/labex/docker-volumes-mastering-persistent-storage-in-containers-2766)
+- [Javascript Reserved Keywords](https://dev.to/diwakar_verma_381fc6e5e2f/javascript-reserved-keywords-3mp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
