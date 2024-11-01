@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Github Spark: The AI Tool That Creates Apps with Spoken Language](https://dev.to/apilover/github-spark-the-ai-tool-that-creates-apps-with-spoken-language-1op2)
-- [How to Dockerize and Deploy Fastify APIs](https://dev.to/code42cate/how-to-dockerize-and-deploy-fastify-apis-3f7i)
-- [GBASE数据库 | GBase 8a Distributed Execution Plan Principles](https://dev.to/congcong/gbaseshu-ju-ku-gbase-8a-distributed-execution-plan-principles-dc9)
-- [Call, Apply &amp; Bind Methods — Javascript](https://dev.to/manojravi/call-apply-bind-methods-javascript-kh4)
-- [EchoAPI:lightweight alternative to Postman](https://dev.to/eleanor_fairfax_5ce95399d/echoapilightweight-alternative-to-postman-2ja4)
+- [Battle of the Backend: Comparing Microservices Languages for Speed, Performance, and Scalability](https://dev.to/firoj_mujawar/battle-of-the-backend-comparing-microservices-languages-for-speed-performance-and-scalability-4kf0)
+- [Write a Java program to find duplicate elements in an array](https://dev.to/realnamehidden1_61/write-a-java-program-to-find-duplicate-elements-in-an-array-3n6k)
+- [This Week In React #207: Next.js, shadcn/ui, Headless UI, RN 0.76, New Architecture, NativeWind, RNTL, Reassure, Bottom Tabs...](https://dev.to/sebastienlorber/this-week-in-react-207-nextjs-shadcnui-headless-ui-rn-076-new-architecture-nativewind-rntl-reassure-bottom-tabs-1noa)
+- [Metaframeworks for React, Angular and Vue](https://dev.to/peterkassenaar/metaframeworks-for-react-angular-and-vue-33ii)
+- [M-Pesa Express &lpar;STK Push&rpar; API Guide](https://dev.to/msnmongare/m-pesa-express-stk-push-api-guide-40a2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
