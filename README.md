@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [npmとnpxの違い](https://dev.to/hamachooo25/npmtonpxnowei-i-2cif)
-- [Implementing Distributed Caching with Redis in Azure Functions](https://dev.to/mbrennan376/implementing-distributed-caching-with-redis-in-azure-functions-14ph)
-- [Harnessing Extension Methods for DI in Clean Architecture with .NET](https://dev.to/mbrennan376/harnessing-extension-methods-for-di-in-clean-architecture-with-net-29l7)
-- [Smart Contracts Deep Storage: A New Way to Upgrade Legacy Smart Contracts](https://dev.to/smartmuv/smart-contracts-deep-storage-a-new-way-to-upgrade-legacy-smart-contracts-432a)
-- [Comparing SASS with plain CSS](https://dev.to/devibbi/comparing-sass-with-plain-css-44bp)
+- [How To Use Housing App Full Tutorial](https://dev.to/angesh_singh/how-to-use-housing-app-full-tutorial-496k)
+- [OOPS Interview Questions](https://dev.to/jemmyasjd/oops-interview-questions-53ji)
+- [I will refuse live coding interviews from now on.](https://dev.to/jswhisperer/i-will-refuse-live-coding-interviews-from-now-on-3mfh)
+- [API Design: From Zero to Best Practices](https://dev.to/abdulla783/api-design-from-zero-to-best-practices-43oc)
+- [Machine Learning in PHP: Build a News Classifier Using Rubix ML](https://dev.to/arafatweb/machine-learning-in-php-build-a-news-classifier-using-rubix-ml-e45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
