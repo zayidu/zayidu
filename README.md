@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Validate a File Input with Zod](https://dev.to/drprime01/how-to-validate-a-file-input-with-zod-5739)
-- [Data Analysis and Visualization in Python 📊🐍](https://dev.to/info_generalhazedawn_a3d/data-analysis-and-visualization-in-python-2n1k)
-- [Automating software installations on Linux using Python.](https://dev.to/trixsec/automating-software-installations-on-linux-using-python-3611)
-- [Understanding JSONify&lpar;&rpar;, to_dict&lpar;&rpar;, make_response&lpar;&rpar;, and SerializerMixin in Flask](https://dev.to/the1kimk/understanding-jsonify-todict-makeresponse-and-serializermixin-in-flask-4d7c)
-- [My Hacktoberfest 2024 Experience with Cal Buddy, Your Smart Calendar Assistant](https://dev.to/chiragagg5k/my-hacktoberfest-2024-experience-with-cal-buddy-your-smart-calendar-assistant-456c)
+- [How to Pass Information Between Jobs in GitHub Actions](https://dev.to/cicube/how-to-pass-information-between-jobs-in-github-actions-25o)
+- [Automating CI/CD Pipeline Migration with GitHub Actions Importer](https://dev.to/cicube/automating-cicd-pipeline-migration-with-github-actions-importer-7c3)
+- [Getting Started with the JuiceFS Python SDK](https://dev.to/daswu/getting-started-with-the-juicefs-python-sdk-5b81)
+- [Top Programming Languages Shaping the Future: Key Technologies and Real-World Impact](https://dev.to/moizlokhandwala09/top-programming-languages-shaping-the-future-key-technologies-and-real-world-impact-1ij)
+- [Why You Should Optimize Cloud Costs: Key Benefits for Businesses](https://dev.to/unicloud/why-you-should-optimize-cloud-costs-key-benefits-for-businesses-j7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
