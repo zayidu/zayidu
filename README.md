@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💾 Advanced Database Operations with Mongoose: Virtuals, Population, and Indexing 🚀](https://dev.to/erasmuskotoka/advanced-database-operations-with-mongoose-virtuals-population-and-indexing-5228)
-- [Automate Update Your Changelog with GitHub Actions](https://dev.to/nasrulhazim/automate-update-your-changelog-with-github-actions-5g10)
-- [My Hacktoberfest 2024 Experience](https://dev.to/mayankpareek/my-hacktoberfest-2024-experience-54fp)
-- [Are LLMs Still Lost in the Middle?](https://dev.to/trustgraph/are-llms-still-lost-in-the-middle-52k0)
-- [How to sync your Obsidian vault using GitHub: A complete guide](https://dev.to/padiazg/how-to-sync-your-obsidian-vault-using-github-a-complete-guide-2l08)
+- [#87 — Merge Data of The Same Group](https://dev.to/judith677/87-merge-data-of-the-same-group-5ap4)
+- [Function prototype - JavaScript Challenges](https://dev.to/mitchell_cheng/function-prototype-javascript-challenges-19eo)
+- [Swarm: El Framework Experimental de OpenAI para Orquestación de Agentes](https://dev.to/carlos_alarcn_4318831566/swarm-el-framework-experimental-de-openai-para-orquestacion-de-agentes-4d9h)
+- [A Yocto Cheatsheet](https://dev.to/lsahn/a-yocto-cheatsheet-3jbf)
+- [Exploring Autoencoders:Anomaly Detection with TensorFlow and Keras Using the MNIST Dataset](https://dev.to/sreeni5018/exploring-autoencodersanomaly-detection-with-tensorflow-and-keras-using-the-mnist-dataset-1bdp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
