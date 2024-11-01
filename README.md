@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-source NL-data platform](https://dev.to/mohsenkamrani/open-source-nl-data-platform-2hd3)
-- [Next.js 15 Authentication](https://dev.to/shieldstring/nextjs-15-authentication-1al7)
-- [The Basics of Rate Limiting: How It Works and How to Use It](https://dev.to/devlawrence/the-basics-of-rate-limiting-how-it-works-and-how-to-use-it-5ccp)
-- [More storage for media : organize files using ChatGPT : part4, processing on Gentoo](https://dev.to/hexfloor/more-storage-for-media-organize-files-using-chatgpt-part4-processing-on-gentoo-3pho)
-- [My Journey to Understanding Observability](https://dev.to/daguayza12/my-journey-to-understanding-observability-o9e)
+- [Starting from Scratch](https://dev.to/johnnybuilds/starting-from-scratch-8o8)
+- [New open-source multiplayer canvas game!](https://dev.to/cat2d2/new-open-source-multiplayer-canvas-game-27ae)
+- [How to Fix MySQL Not Running on macOS Sequoia 15.0](https://dev.to/syahzul/how-to-fix-mysql-not-running-on-macos-sequoia-150-5c96)
+- [Mastering Image Uploads with Multer, Firebase, and Express in Node.js](https://dev.to/alyconr/mastering-image-uploads-with-multer-firebase-and-express-in-nodejs-5hd1)
+- [A brief recap of what I did this Month](https://dev.to/bregwin/a-brief-recap-of-what-i-did-this-month-40e1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
