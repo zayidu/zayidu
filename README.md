@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[API Databricks como serviço interno] dbutils — notebook.run, widgets.getArgument, widgets.text e notebook_params](https://dev.to/airton_lirajunior_2ddebd/api-databricks-como-servico-interno-dbutils-notebookrun-widgetsgetargument-widgetstext-e-notebookparams-4olf)
-- [OSD - lab - 6 - Code Formatter](https://dev.to/krinskumar/osd-lab-4-code-formatter-45gd)
-- [Implementando uma Lambda com GitLab CI/CD e Terraform para Integração SFTP, S3 e Databricks em Go](https://dev.to/airton_lirajunior_2ddebd/implementando-uma-lambda-com-gitlab-cicd-e-terraform-para-integracao-sftp-s3-e-databricks-em-go-5hc0)
-- [Common Language Runtime &lpar;CLR&rpar; y Intermediate Language &lpar;IL&rpar;](https://dev.to/brventurau/common-language-runtime-clr-y-intermediate-language-il-50kj)
-- [How Real-Time Editing Works: Understanding Event Ordering in Distributed Systems](https://dev.to/ujjwall-r/behind-the-scenes-of-online-collaboration-time-management-in-distributed-systems-59nc)
+- [Processando 20 milhões de registros em menos de 5 segundos com Apache Hive.](https://dev.to/airton_lirajunior_2ddebd/processando-20-milhoes-de-registros-em-menos-de-5-segundos-com-apache-hive-2ecl)
+- [Utilizando o pattern Heartbeats em Golang](https://dev.to/airton_lirajunior_2ddebd/utilizando-o-pattern-heartbeats-em-golang-eh0)
+- [Mastering Chrome Developer Tools: Essential Tips for Front-End Developers](https://dev.to/wils3b/mastering-chrome-developer-tools-essential-tips-for-front-end-developers-5cm4)
+- [python concurrent.futures](https://dev.to/mapogolions/python-concurrentfutures-5f4a)
+- [Making your n8n workflows accessible from the outside: A comprehensive guide](https://dev.to/airabbit/making-your-n8n-workflows-accessible-from-the-outside-a-comprehensive-guide-2eel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
