@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transitioning from Win to Mac 2- Managing ARM and x86 nodeJS and Python versions](https://dev.to/pakos/transitioning-from-win-to-mac-2-managing-arm-and-x86-nodejs-and-python-versions-32n4)
-- [Transitioning from Win to Mac 1-Downloading software](https://dev.to/pakos/transitioning-from-win-to-mac-1-downloading-software-810)
-- [Understanding Git Branching in 5 Minutes](https://dev.to/trinityyi/understanding-git-branching-in-5-minutes-48bk)
-- [Modern Dependency Injection with Koin: The Smart DI Choice for 2025](https://dev.to/arsenikavalchuk/modern-dependency-injection-with-koin-the-smart-di-choice-for-2025-550i)
-- [A Simple Guide to Docker Compose &amp; Multi-Container Applications](https://dev.to/mukhilpadmanabhan/a-simple-guide-to-docker-compose-multi-container-applications-5e0g)
+- [I access over 200 AI models with one API. Here’s how…](https://dev.to/abdibrokhim/i-access-over-200-ai-models-with-one-api-heres-how-47nm)
+- [Hacktoberfest 2024: A Journey of Learning and Contribution](https://dev.to/komsenapati/hacktoberfest-2024-a-journey-of-learning-and-contribution-1a64)
+- [The Power of Memory Map](https://dev.to/lsahn/the-power-of-memory-map-8f6)
+- [Modern HTML5 Boilerplate](https://dev.to/dev007777/modern-html5-boilerplate-3ma7)
+- [🔓 Unlock the Power of the Context API in React: A Step-by-Step Guide 🚀](https://dev.to/asimachowdhury/unlock-the-power-of-the-context-api-in-react-a-step-by-step-guide-1ffk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
