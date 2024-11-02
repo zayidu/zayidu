@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Progressive Deployments](https://dev.to/epklein/progressive-deployments-4hf2)
 - [Incorrect calculations by the computer: sin&lpar;x&rpar; and cos&lpar;x&rpar;](https://dev.to/zaim/incorrect-calculations-by-the-computer-sinx-and-cosx-52ep)
 - [The 5 Most Underrated Python Libraries You Should Start Using Right Now](https://dev.to/theekshana/the-5-most-underrated-python-libraries-you-should-start-using-right-now-3fn4)
 - [Lab 6 - Formatting and Linting](https://dev.to/cduarte3/lab-6-formatting-and-linting-23pb)
 - [If you don’t know about HTTP Archive’s Web Almanac yet, you should!](https://dev.to/snyk/if-you-dont-know-about-http-archives-web-almanac-yet-you-should-1da5)
-- [Handling Asynchronous Tasks in Cloudflare Workers – Part 1: Essentials for a Single Worker](https://dev.to/fiberplane/handling-asynchronous-tasks-in-cloudflare-workers-part-1-essentials-for-a-single-worker-4hk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
