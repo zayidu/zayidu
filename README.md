@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Log Analysis and Reporting with Python, Bash, and PowerShell](https://dev.to/oliverbennet/automated-log-analysis-and-reporting-with-python-bash-and-powershell-a32)
-- [Avoiding Connection Pinning in Lambda and RDS Proxy with NestJS and Proxy Splitting](https://dev.to/suzuki0430/avoiding-connection-pinning-in-lambda-and-rds-proxy-with-nestjs-and-proxy-splitting-2l44)
-- [Uncover HDFS Secrets with FS Shell find](https://dev.to/labex/uncover-hdfs-secrets-with-fs-shell-find-2ebg)
-- [You Should follow these 12 clean code tips if you are a .NET developer](https://dev.to/dotnetfullstackdev/you-should-follow-these-12-clean-code-tips-if-you-are-a-net-developer-4g99)
-- [Docker CLI Tricks Every Developer Should Know](https://dev.to/idsulik/docker-cli-tricks-every-developer-should-know-fpl)
+- [Halloween themed hero section. Coding timelapse](https://dev.to/paul_freeman/halloween-themed-hero-section-coding-timelapse-4oec)
+- [Mastering Lambda Expressions in Java 8: A Comprehensive Guide](https://dev.to/dhanush9952/mastering-lambda-expressions-in-java-8-a-comprehensive-guide-27bf)
+- [Day 3 step](https://dev.to/paradox007/day-3-step-2ip8)
+- [else if](https://dev.to/mahamadjon000/else-if-4kbh)
+- [Handling nested roles in Keycloak](https://dev.to/im_santhiya_guna/handling-nested-roles-in-keycloak-3lfk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
