@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Gamertag Generator App Using Next.js](https://dev.to/codeitbro/how-to-create-a-gamertag-generator-app-using-nextjs-1fj0)
-- [Logical operator](https://dev.to/sanjar777/logical-operator-2ie)
-- [C++ dasturlash tilida funksiya.](https://dev.to/alisher0909/c-dasturlash-tilida-funksiya-3d0l)
-- [My First Hacktoberfest experience as a contributor.](https://dev.to/motuncoded/my-first-hacktoberfest-experience-as-a-contributor-4l3n)
-- [Infinte loop](https://dev.to/mahamadjon000/infinte-loop-488n)
+- [do while loop](https://dev.to/sanjar777/do-while-loop-3l56)
+- [Nested while loop](https://dev.to/sanjar777/nested-while-loop-4klk)
+- [I made an AI Website Builder that generates websites from a single prompt ⚡️](https://dev.to/fredy/i-made-an-ai-website-builder-that-generates-websites-from-a-single-prompt-411p)
+- [Complete Sim Registration TM &lpar;Latest Guide&rpar;](https://dev.to/vapestation/complete-sim-registration-tm-latest-guide-3hb)
+- [Unlocking the World of Generative AI: 29 Key Terms You Should Know](https://dev.to/7ozzam/unlocking-the-world-of-generative-ai-29-key-terms-you-should-know-h9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
