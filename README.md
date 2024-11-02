@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Halloween themed hero section. Coding timelapse](https://dev.to/paul_freeman/halloween-themed-hero-section-coding-timelapse-4oec)
-- [Mastering Lambda Expressions in Java 8: A Comprehensive Guide](https://dev.to/dhanush9952/mastering-lambda-expressions-in-java-8-a-comprehensive-guide-27bf)
-- [Day 3 step](https://dev.to/paradox007/day-3-step-2ip8)
-- [else if](https://dev.to/mahamadjon000/else-if-4kbh)
-- [Handling nested roles in Keycloak](https://dev.to/im_santhiya_guna/handling-nested-roles-in-keycloak-3lfk)
+- [JavaScript Essentials: Part 7](https://dev.to/otumianempire/javascript-essentials-part-7-3e65)
+- [round&lpar;&rpar;](https://dev.to/sanjar777/round-1mcb)
+- [🌐 Golang gRPC with Auth Interceptor, Streaming and Gateway in Practice 🐹](https://dev.to/truongpx396/golang-grpc-with-auth-interceptor-streaming-and-gateway-in-practice-24b8)
+- [Arifmetik operatorlar](https://dev.to/sanjar777/arifmetik-operatorlar-2a7m)
+- [Enhancing Kubernetes Networking: The Advantages of IPVS Over iptables](https://dev.to/farshad_nick/enhancing-kubernetes-networking-the-advantages-of-ipvs-over-iptables-12jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
