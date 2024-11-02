@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Essentials: Part 7](https://dev.to/otumianempire/javascript-essentials-part-7-3e65)
-- [round&lpar;&rpar;](https://dev.to/sanjar777/round-1mcb)
-- [🌐 Golang gRPC with Auth Interceptor, Streaming and Gateway in Practice 🐹](https://dev.to/truongpx396/golang-grpc-with-auth-interceptor-streaming-and-gateway-in-practice-24b8)
-- [Arifmetik operatorlar](https://dev.to/sanjar777/arifmetik-operatorlar-2a7m)
-- [Enhancing Kubernetes Networking: The Advantages of IPVS Over iptables](https://dev.to/farshad_nick/enhancing-kubernetes-networking-the-advantages-of-ipvs-over-iptables-12jb)
+- [How to Create a Gamertag Generator App Using Next.js](https://dev.to/codeitbro/how-to-create-a-gamertag-generator-app-using-nextjs-1fj0)
+- [Logical operator](https://dev.to/sanjar777/logical-operator-2ie)
+- [C++ dasturlash tilida funksiya.](https://dev.to/alisher0909/c-dasturlash-tilida-funksiya-3d0l)
+- [My First Hacktoberfest experience as a contributor.](https://dev.to/motuncoded/my-first-hacktoberfest-experience-as-a-contributor-4l3n)
+- [Infinte loop](https://dev.to/mahamadjon000/infinte-loop-488n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
