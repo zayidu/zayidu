@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to view manually installed packages in ubuntu](https://dev.to/hariharanumapathi/how-to-view-manually-installed-packages-in-ubuntu-1pgc)
-- [Provide private storage for internal company documents](https://dev.to/emmanuel_cobham/provide-private-storage-for-internal-company-documents-3mkd)
-- [🚀 Mastering Microfrontends: Coexisting Vue 2 and Vue 3 in Large-Scale Applications 🚀](https://dev.to/jhony/mastering-microfrontends-coexisting-vue-2-and-vue-3-in-large-scale-applications-1g3d)
-- [To Django or to DjangoREST?](https://dev.to/ru0ya/to-django-or-to-djangorest-1k01)
-- [Vite VS Create-React-App - What you need to know](https://dev.to/symplymuslimah12/vite-vs-create-react-app-what-you-need-to-know-3mad)
+- [[API Databricks como serviço interno] dbutils — notebook.run, widgets.getArgument, widgets.text e notebook_params](https://dev.to/airton_lirajunior_2ddebd/api-databricks-como-servico-interno-dbutils-notebookrun-widgetsgetargument-widgetstext-e-notebookparams-4olf)
+- [OSD - lab - 6 - Code Formatter](https://dev.to/krinskumar/osd-lab-4-code-formatter-45gd)
+- [Implementando uma Lambda com GitLab CI/CD e Terraform para Integração SFTP, S3 e Databricks em Go](https://dev.to/airton_lirajunior_2ddebd/implementando-uma-lambda-com-gitlab-cicd-e-terraform-para-integracao-sftp-s3-e-databricks-em-go-5hc0)
+- [Common Language Runtime &lpar;CLR&rpar; y Intermediate Language &lpar;IL&rpar;](https://dev.to/brventurau/common-language-runtime-clr-y-intermediate-language-il-50kj)
+- [How Real-Time Editing Works: Understanding Event Ordering in Distributed Systems](https://dev.to/ujjwall-r/behind-the-scenes-of-online-collaboration-time-management-in-distributed-systems-59nc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
