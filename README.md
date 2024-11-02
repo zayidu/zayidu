@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [do while loop](https://dev.to/sanjar777/do-while-loop-3l56)
-- [Nested while loop](https://dev.to/sanjar777/nested-while-loop-4klk)
-- [I made an AI Website Builder that generates websites from a single prompt ⚡️](https://dev.to/fredy/i-made-an-ai-website-builder-that-generates-websites-from-a-single-prompt-411p)
-- [Complete Sim Registration TM &lpar;Latest Guide&rpar;](https://dev.to/vapestation/complete-sim-registration-tm-latest-guide-3hb)
-- [Unlocking the World of Generative AI: 29 Key Terms You Should Know](https://dev.to/7ozzam/unlocking-the-world-of-generative-ai-29-key-terms-you-should-know-h9l)
+- [Understanding the State Design Pattern P3](https://dev.to/moh_moh701/understanding-the-state-design-pattern-p3-3jo7)
+- [Analysis of Short-term Tasks and Long-term Tasks: The Basis of HarmonyOS Next Background Development](https://dev.to/xun_wang_6384a403f9817c2/analysis-of-short-term-tasks-and-long-term-tasks-the-basis-of-harmonyos-next-background-development-3o73)
+- [解析短时任务与长时任务：HarmonyOS Next 后台开发的基础](https://dev.to/xun_wang_6384a403f9817c2/jie-xi-duan-shi-ren-wu-yu-chang-shi-ren-wu-harmonyos-next-hou-tai-kai-fa-de-ji-chu-2j47)
+- [Understanding the State Design Pattern P2](https://dev.to/moh_moh701/understanding-the-state-design-pattern-p2-gp4)
+- [Breaking Away from JSON: A New Approach to Data Transport in Web Development](https://dev.to/oftensometimes/breaking-away-from-json-a-new-approach-to-data-transport-in-web-development-nh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
