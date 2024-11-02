@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [System Design of a Referral System](https://dev.to/vaib215/system-design-of-a-referral-system-4hik)
-- [Lendo a entrada do console](https://dev.to/devsjavagirls/metodos-de-leitura-do-inputstream-jj5)
-- [Fluxos predefinidos e Usando os fluxos de bytes](https://dev.to/devsjavagirls/fluxos-predefinidos-e-usando-os-fluxos-de-bytes-1m8)
-- [Mastering Version Control with &quot;Write Yourself a Git!&quot;](https://dev.to/getvm/mastering-version-control-with-write-yourself-a-git-10fk)
-- [Go 1.23&#39;s Game-Changing unique Package: Supercharge Your Data Deduplication](https://dev.to/conquerym/go-123s-game-changing-unique-package-supercharge-your-data-deduplication-46n8)
+- [How to view manually installed packages in ubuntu](https://dev.to/hariharanumapathi/how-to-view-manually-installed-packages-in-ubuntu-1pgc)
+- [Provide private storage for internal company documents](https://dev.to/emmanuel_cobham/provide-private-storage-for-internal-company-documents-3mkd)
+- [🚀 Mastering Microfrontends: Coexisting Vue 2 and Vue 3 in Large-Scale Applications 🚀](https://dev.to/jhony/mastering-microfrontends-coexisting-vue-2-and-vue-3-in-large-scale-applications-1g3d)
+- [To Django or to DjangoREST?](https://dev.to/ru0ya/to-django-or-to-djangorest-1k01)
+- [Vite VS Create-React-App - What you need to know](https://dev.to/symplymuslimah12/vite-vs-create-react-app-what-you-need-to-know-3mad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
