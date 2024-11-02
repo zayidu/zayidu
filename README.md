@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering APIs in JavaScript: From Basics to Async/Await](https://dev.to/imrankhan17/mastering-apis-in-javascript-from-basics-to-asyncawait-6mi)
-- [Why Virtual DOM: Render and Performance](https://dev.to/sonaykara/why-virtual-dom-faster-rendering-and-performance-1cjh)
-- [Pythonic Time Capsule: Must-Know Features from Each Version](https://dev.to/cquark7/pythonic-time-capsule-must-know-features-from-each-version-1795)
-- [SQL - Dia 7](https://dev.to/technonotes/sql-day-7-8hj)
-- [Lightweight Kubernetes and Wasm is a Perfect Combo](https://dev.to/fermyon/lightweight-kubernetes-and-wasm-is-a-perfect-combo-5h11)
+- [Leetcode — 3110. Score of a String](https://dev.to/bendlmp/leetcode-3110-score-of-a-string-2j9b)
+- [Janus WebRTC server and SFU: a real time video calling app](https://dev.to/alakkadshaw/janus-webrtc-server-and-sfu-a-real-time-video-calling-app-23p8)
+- [10 First Git Commands You Need to Know](https://dev.to/mohsenkamrani/10-first-git-commands-you-need-to-know-337i)
+- [This is My Experience with Hactoberfest as a Contributer](https://dev.to/piyush_sahu_3d5f00a6ad741/this-is-my-experience-with-hactoberfest-as-a-contributer-p0j)
+- [The Curious Case of the $15,000 Spam: My Unexpected Investigation](https://dev.to/programmerraja/the-curious-case-of-the-15000-spam-my-unexpected-investigation-1llg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
