@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Processando 20 milhões de registros em menos de 5 segundos com Apache Hive.](https://dev.to/airton_lirajunior_2ddebd/processando-20-milhoes-de-registros-em-menos-de-5-segundos-com-apache-hive-2ecl)
-- [Utilizando o pattern Heartbeats em Golang](https://dev.to/airton_lirajunior_2ddebd/utilizando-o-pattern-heartbeats-em-golang-eh0)
-- [Mastering Chrome Developer Tools: Essential Tips for Front-End Developers](https://dev.to/wils3b/mastering-chrome-developer-tools-essential-tips-for-front-end-developers-5cm4)
-- [python concurrent.futures](https://dev.to/mapogolions/python-concurrentfutures-5f4a)
-- [Making your n8n workflows accessible from the outside: A comprehensive guide](https://dev.to/airabbit/making-your-n8n-workflows-accessible-from-the-outside-a-comprehensive-guide-2eel)
+- [Senior Developer or AI Obsolete? Navigating Seniority in the Age of AI](https://dev.to/goumricom/senior-developer-or-ai-obsolete-navigating-seniority-in-the-age-of-ai-10p2)
+- [Decrypt cloud storage file](https://dev.to/david_mrquez_71bbd9d34ee/decrypt-cloud-storage-file-1iha)
+- [Example Training Images Dataset, Trained Models, Grids and Full Training Configs, json files and more](https://dev.to/furkangozukara/example-training-images-dataset-trained-models-grids-and-full-training-configs-json-files-and-more-151b)
+- [Redis + Redundância com Sentinel + Docker](https://dev.to/airton_lirajunior_2ddebd/redis-redundancia-com-sentinel-docker-he0)
+- [Building a Marvel Character Showcase with React and Marvel API](https://dev.to/keihanaf/building-a-marvel-character-showcase-with-react-and-marvel-api-4jfj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
