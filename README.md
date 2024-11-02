@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding FastAPI Fundamentals: A Guide to FastAPI, Uvicorn, Starlette, Swagger UI, and Pydantic](https://dev.to/kfir-g/understanding-fastapi-fundamentals-a-guide-to-fastapi-uvicorn-starlette-swagger-ui-and-pydantic-2fp7)
-- [Ruby exceptions: tips &amp; tricks](https://dev.to/pucinsk/ruby-exceptions-tips-tricks-596c)
-- [Building a Scalable Real-Time Job Board with React, Node.js, and Google Authentication](https://dev.to/abhijeetx1/building-a-scalable-real-time-job-board-with-react-nodejs-and-google-authentication-52c)
-- [🚀 Your Daily Crypto Job Digest For 02 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-02-november-29ff)
-- [Solana Safe Transfer &lpar;Fat-Finger-proof Transfer&rpar;](https://dev.to/mohammedalabd/solana-safe-transfer-fat-finger-proof-transfer-lgf)
+- [Transitioning from Win to Mac 2- Managing ARM and x86 nodeJS and Python versions](https://dev.to/pakos/transitioning-from-win-to-mac-2-managing-arm-and-x86-nodejs-and-python-versions-32n4)
+- [Transitioning from Win to Mac 1-Downloading software](https://dev.to/pakos/transitioning-from-win-to-mac-1-downloading-software-810)
+- [Understanding Git Branching in 5 Minutes](https://dev.to/trinityyi/understanding-git-branching-in-5-minutes-48bk)
+- [Modern Dependency Injection with Koin: The Smart DI Choice for 2025](https://dev.to/arsenikavalchuk/modern-dependency-injection-with-koin-the-smart-di-choice-for-2025-550i)
+- [A Simple Guide to Docker Compose &amp; Multi-Container Applications](https://dev.to/mukhilpadmanabhan/a-simple-guide-to-docker-compose-multi-container-applications-5e0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
