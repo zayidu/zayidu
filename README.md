@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Event Loop Techniques for Peak JS Performance](https://dev.to/shafayeat/advanced-event-loop-techniques-for-peak-js-performance-3kpa)
+- [How to Remove a Specific Item From an Array in JavaScript?](https://dev.to/mohsenkamrani/how-to-remove-a-specific-item-from-an-array-in-javascript-2oi8)
 - [Progressive Deployments](https://dev.to/epklein/progressive-deployments-4hf2)
 - [Lab 6 : Adding Static Analysis tool to DocBot](https://dev.to/ajogseneca/lab-6-adding-static-analysis-tool-to-docbot-1856)
 - [Incorrect calculations by the computer: sin&lpar;x&rpar; and cos&lpar;x&rpar;](https://dev.to/zaim/incorrect-calculations-by-the-computer-sinx-and-cosx-52ep)
-- [The 5 Most Underrated Python Libraries You Should Start Using Right Now](https://dev.to/theekshana/the-5-most-underrated-python-libraries-you-should-start-using-right-now-3fn4)
-- [Lab 6 - Formatting and Linting](https://dev.to/cduarte3/lab-6-formatting-and-linting-23pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
