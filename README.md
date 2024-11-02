@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I access over 200 AI models with one API. Here’s how…](https://dev.to/abdibrokhim/i-access-over-200-ai-models-with-one-api-heres-how-47nm)
-- [Hacktoberfest 2024: A Journey of Learning and Contribution](https://dev.to/komsenapati/hacktoberfest-2024-a-journey-of-learning-and-contribution-1a64)
-- [The Power of Memory Map](https://dev.to/lsahn/the-power-of-memory-map-8f6)
-- [Modern HTML5 Boilerplate](https://dev.to/dev007777/modern-html5-boilerplate-3ma7)
-- [🔓 Unlock the Power of the Context API in React: A Step-by-Step Guide 🚀](https://dev.to/asimachowdhury/unlock-the-power-of-the-context-api-in-react-a-step-by-step-guide-1ffk)
+- [System Design of a Referral System](https://dev.to/vaib215/system-design-of-a-referral-system-4hik)
+- [Lendo a entrada do console](https://dev.to/devsjavagirls/metodos-de-leitura-do-inputstream-jj5)
+- [Fluxos predefinidos e Usando os fluxos de bytes](https://dev.to/devsjavagirls/fluxos-predefinidos-e-usando-os-fluxos-de-bytes-1m8)
+- [Mastering Version Control with &quot;Write Yourself a Git!&quot;](https://dev.to/getvm/mastering-version-control-with-write-yourself-a-git-10fk)
+- [Go 1.23&#39;s Game-Changing unique Package: Supercharge Your Data Deduplication](https://dev.to/conquerym/go-123s-game-changing-unique-package-supercharge-your-data-deduplication-46n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
