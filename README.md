@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode — 3110. Score of a String](https://dev.to/bendlmp/leetcode-3110-score-of-a-string-2j9b)
-- [Janus WebRTC server and SFU: a real time video calling app](https://dev.to/alakkadshaw/janus-webrtc-server-and-sfu-a-real-time-video-calling-app-23p8)
-- [10 First Git Commands You Need to Know](https://dev.to/mohsenkamrani/10-first-git-commands-you-need-to-know-337i)
-- [This is My Experience with Hactoberfest as a Contributer](https://dev.to/piyush_sahu_3d5f00a6ad741/this-is-my-experience-with-hactoberfest-as-a-contributer-p0j)
-- [The Curious Case of the $15,000 Spam: My Unexpected Investigation](https://dev.to/programmerraja/the-curious-case-of-the-15000-spam-my-unexpected-investigation-1llg)
+- [Incorrect calculations by the computer: sin&lpar;x&rpar; and cos&lpar;x&rpar;](https://dev.to/zaim/incorrect-calculations-by-the-computer-sinx-and-cosx-52ep)
+- [The 5 Most Underrated Python Libraries You Should Start Using Right Now](https://dev.to/theekshana/the-5-most-underrated-python-libraries-you-should-start-using-right-now-3fn4)
+- [Lab 6 - Formatting and Linting](https://dev.to/cduarte3/lab-6-formatting-and-linting-23pb)
+- [If you don’t know about HTTP Archive’s Web Almanac yet, you should!](https://dev.to/snyk/if-you-dont-know-about-http-archives-web-almanac-yet-you-should-1da5)
+- [Handling Asynchronous Tasks in Cloudflare Workers – Part 1: Essentials for a Single Worker](https://dev.to/fiberplane/handling-asynchronous-tasks-in-cloudflare-workers-part-1-essentials-for-a-single-worker-4hk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
