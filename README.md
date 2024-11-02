@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Event Loop Techniques for Peak JS Performance](https://dev.to/shafayeat/advanced-event-loop-techniques-for-peak-js-performance-3kpa)
-- [How to Remove a Specific Item From an Array in JavaScript?](https://dev.to/mohsenkamrani/how-to-remove-a-specific-item-from-an-array-in-javascript-2oi8)
-- [Progressive Deployments](https://dev.to/epklein/progressive-deployments-4hf2)
-- [Lab 6 : Adding Static Analysis tool to DocBot](https://dev.to/ajogseneca/lab-6-adding-static-analysis-tool-to-docbot-1856)
-- [Incorrect calculations by the computer: sin&lpar;x&rpar; and cos&lpar;x&rpar;](https://dev.to/zaim/incorrect-calculations-by-the-computer-sinx-and-cosx-52ep)
+- [Docker Advance Part 1: Monitor Docker Containers with Health Checks](https://dev.to/mammadyahyayev/docker-advance-part-1-monitor-docker-containers-with-health-checks-4258)
+- [Advanced JWT Exploitation Techniques: Going Beyond the Basics](https://dev.to/genius_introuble/advanced-jwt-exploitation-techniques-going-beyond-the-basics-1h4m)
+- [Logical operators - mantiq operatorlari](https://dev.to/munisa_kuranbekova_078e1e/logical-operators-mantiq-operatorlari-55n9)
+- [Java 8 Stream API limit&lpar;&rpar; and skip&lpar;&rpar; methods](https://dev.to/realnamehidden1_61/java-8-stream-api-limit-and-skip-methods-46kl)
+- [Callback Hell: A JavaScript Nightmare and How to Escape?](https://dev.to/diwakar_verma_381fc6e5e2f/callback-hell-a-javascript-nightmare-and-how-to-escape-5g9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
