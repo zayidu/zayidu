@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Advance Part 1: Monitor Docker Containers with Health Checks](https://dev.to/mammadyahyayev/docker-advance-part-1-monitor-docker-containers-with-health-checks-4258)
-- [Advanced JWT Exploitation Techniques: Going Beyond the Basics](https://dev.to/genius_introuble/advanced-jwt-exploitation-techniques-going-beyond-the-basics-1h4m)
-- [Logical operators - mantiq operatorlari](https://dev.to/munisa_kuranbekova_078e1e/logical-operators-mantiq-operatorlari-55n9)
-- [Java 8 Stream API limit&lpar;&rpar; and skip&lpar;&rpar; methods](https://dev.to/realnamehidden1_61/java-8-stream-api-limit-and-skip-methods-46kl)
-- [Callback Hell: A JavaScript Nightmare and How to Escape?](https://dev.to/diwakar_verma_381fc6e5e2f/callback-hell-a-javascript-nightmare-and-how-to-escape-5g9p)
+- [Automated Log Analysis and Reporting with Python, Bash, and PowerShell](https://dev.to/oliverbennet/automated-log-analysis-and-reporting-with-python-bash-and-powershell-a32)
+- [Avoiding Connection Pinning in Lambda and RDS Proxy with NestJS and Proxy Splitting](https://dev.to/suzuki0430/avoiding-connection-pinning-in-lambda-and-rds-proxy-with-nestjs-and-proxy-splitting-2l44)
+- [Uncover HDFS Secrets with FS Shell find](https://dev.to/labex/uncover-hdfs-secrets-with-fs-shell-find-2ebg)
+- [You Should follow these 12 clean code tips if you are a .NET developer](https://dev.to/dotnetfullstackdev/you-should-follow-these-12-clean-code-tips-if-you-are-a-net-developer-4g99)
+- [Docker CLI Tricks Every Developer Should Know](https://dev.to/idsulik/docker-cli-tricks-every-developer-should-know-fpl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
