@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximizing SaaS Competitive Edge in the AI Era](https://dev.to/airabbit/have-you-ever-continued-using-a-service-that-doesnt-fully-meet-your-needs-simply-because-changing-17pl)
-- [21/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/21365-days-y10m-japan-job-challenge-4o2n)
-- [Day 55. Copilot](https://dev.to/kiolk/day-55-copilot-o02)
-- [Network programming for multiplayer games, including server-client architecture and online matchmaking.](https://dev.to/alphaeus/network-programming-for-multiplayer-games-including-server-client-architecture-and-online-matchmaking-3hkb)
-- [Thinking about Chain-of-Thoughts](https://dev.to/artemopolus31/thinking-about-chain-of-thoughts-47e7)
+- [Building a Video Room Management API: Integrating Go, Twilio, and Zap Logging](https://dev.to/dioarafi/building-a-video-room-management-api-integrating-go-twilio-and-zap-logging-1306)
+- [Storybook: The Workshop for Modern Frontends](https://dev.to/kairoeder/storybook-the-workshop-for-modern-frontends-1d6e)
+- [CKA Full Course 2024: Day 13/40 Static Pods, Manual Scheduling, Labels, and Selectors in Kubernetes](https://dev.to/lloydrivers/cka-full-course-2024-day-1340-static-pods-manual-scheduling-labels-and-selectors-in-kubernetes-29jb)
+- [How to create an App Service Application and upload into it &lpar;WEB APP&rpar;](https://dev.to/ajayi/how-to-create-an-app-service-application-and-upload-into-it-web-app-36nn)
+- [Symfony Station Communiqué — 01 November 2024. A look at Symfony, Drupal, PHP, and programming news!](https://dev.to/reubenwalker64/symfony-station-communique-01-november-2024-a-look-at-symfony-drupal-php-and-programming-news-3ac7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
