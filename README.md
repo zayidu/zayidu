@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Experiences and Caveats of Svelte 5 Migration](https://dev.to/kvetoslavnovak/experiences-and-caveats-of-svelte-5-migration-27cp)
+- [Stop Using Try-Catch: A Better Way to Handle Errors in JavaScript](https://dev.to/richardshaju/stop-using-try-catch-a-better-way-to-handle-errors-in-javascript-14cm)
+- [Rio: WebApps in pure Python — A fresh Layouting System](https://dev.to/p4nd4no/rio-webapps-in-pure-python-a-fresh-layouting-system-23p3)
 - [Introducing IPVulnScout: Tool for IP Vulnerability Assessment](https://dev.to/trixsec/introducing-ipvulnscout-tool-for-ip-vulnerability-assessment-556)
 - [Building a High-Quality Stock Report Generator with Node.js, Express, and OpenAI API](https://dev.to/zand/building-a-high-quality-stock-report-generator-with-nodejs-express-and-openai-api-3ipm)
-- [JavaScript Proxy and Reflect for Dynamic Object Control](https://dev.to/shafayeat/javascript-proxy-and-reflect-for-dynamic-object-control-4fe8)
-- [Angular 19 - Introduction to linkedSignal](https://dev.to/this-is-angular/angular-19-introduction-to-linkedsignal-190a)
-- [MUI Stack: Mastering One-Dimensional Layouts in React](https://dev.to/codeparrot/mui-stack-mastering-one-dimensional-layouts-in-react-3498)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
