@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Big Money vs. Small Money - FAV0 Weekly #020](https://dev.to/justin3go/big-money-vs-small-money-fav0-weekly-020-4dbe)
+- [大钱与小钱 - FAV0周刊#020](https://dev.to/justin3go/da-qian-yu-xiao-qian-fav0zhou-kan-020-21c7)
+- [Contributing to Tech Assessment Knowledge: My Hacktoberfest 2024 Journey](https://dev.to/makendrang/contributing-to-tech-assessment-knowledge-my-hacktoberfest-2024-journey-3j5o)
+- [Launching the Ultimate GitHub Repository for Tech FAQs: Awesome 0x3d FAQ&#39;s Collection! 🎉](https://dev.to/0x3d_site/launching-the-ultimate-github-repository-for-tech-faqs-awesome-0x3d-faqs-collection-2md7)
 - [Master Cron Expressions In 2 minutes](https://dev.to/mohsenkamrani/master-cron-expressions-in-2-minutes-2b8f)
-- [Coersion in JS - A Quick Brushup](https://dev.to/rameshpvr/coersion-in-js-a-quick-brushup-3d8n)
-- [How to run for inference Llama-3_1-Nemotron-51B-Instruct?](https://dev.to/nodeshiftcloud/how-to-run-for-inference-llama-31-nemotron-51b-instruct-kcm)
-- [Building a Simple Blockchain in Golang](https://dev.to/thesaltree/building-a-simple-blockchain-in-golang-4351)
-- [How to Implement a Custom BackupExtensionAbility in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/how-to-implement-a-custom-backupextensionability-in-harmonyos-next-4ip0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
