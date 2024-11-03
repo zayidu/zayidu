@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring ChatGPT&#39;s New Search Feature: A Powerful Tool for Real-Time Information](https://dev.to/magsimuhammadessa/exploring-chatgpts-new-search-feature-a-powerful-tool-for-real-time-information-d7e)
-- [GitHub Copilot Got You Down? Here&#39;s a Free Alternative That&#39;ll Change Your Coding Game](https://dev.to/usmanzahidcode/github-copilot-got-you-down-heres-a-free-alternative-thatll-change-your-coding-game-355j)
-- [-? What is YARN ?-](https://dev.to/nobody-99/-what-is-yarn--3647)
-- [20 Yoga Exercises for All Seven Chakras](https://dev.to/susheel_kumar/20-yoga-exercises-for-all-seven-chakras-31b9)
-- [Pagination in raw SQL](https://dev.to/kasir-barati/pagination-in-raw-sql-1eke)
+- [On the Programmability of AWS Trainium and Inferentia](https://dev.to/crand/on-the-programmability-of-aws-trainium-and-inferentia-4ick)
+- [Why You Shouldn&#39;t Use `as` in TypeScript 🚫](https://dev.to/matheusmorett2/why-you-shouldnt-use-as-in-typescript-3e5i)
+- [AI Model Optimization on AWS Inferentia and Trainium](https://dev.to/crand/ai-model-optimization-on-aws-inferentia-and-trainium-1hh0)
+- [6. Zigzag Conversion](https://dev.to/munisekharudavalapati/6-zigzag-conversion-p94)
+- [Build up your confidence with Regex: 5 Techniques to make it STICK](https://dev.to/rijultp/build-up-your-confidence-with-regex-5-techniques-to-make-it-stick-2p05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
