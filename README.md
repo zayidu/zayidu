@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Quickly Navigate a New Codebase](https://dev.to/koladev/how-to-quickly-navigate-a-new-codebase-48i9)
-- [Writing Terraform Configurations](https://dev.to/khurammurad/writing-terraform-configurations-a-beginners-guide-4b6b)
-- [Debian in WSL not Ubuntu](https://dev.to/talepunk/debian-in-wsl-not-ubuntu-3j28)
-- [Experiences and Caveats of Svelte 5 Migration](https://dev.to/kvetoslavnovak/experiences-and-caveats-of-svelte-5-migration-27cp)
-- [Stop Using Try-Catch: A Better Way to Handle Errors in JavaScript](https://dev.to/richardshaju/stop-using-try-catch-a-better-way-to-handle-errors-in-javascript-14cm)
+- [Similar boomerang](https://dev.to/simongreennet/similar-boomerang-2h88)
+- [My Journey into Nested Functions in Dart: From Curiosity to Clarity.](https://dev.to/dev_toykam/my-journey-into-nested-functions-in-dart-from-curiosity-to-clarity-2kc3)
+- [Unleash Your Potential: Content Ideas for a Prolific Developer Blog](https://dev.to/okoye_ndidiamaka_5e3b7d30/unleash-your-potential-content-ideas-for-a-prolific-developer-blog-4hnh)
+- [Massivlar.](https://dev.to/_e7530225be583f1/massivlar-304p)
+- [My Hacktoberfest 2024 Journey—Reflection](https://dev.to/jfmartinz/my-hacktoberfest-2024-journey-reflection-1fol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
