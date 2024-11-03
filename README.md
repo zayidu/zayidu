@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Joyful Languages👨🏾‍💻⌨️](https://dev.to/taariqelliott/joyful-languages-2l85)
-- [Optimizing Descent — An Exploration of the Brachistochrone Problem](https://dev.to/okpalan/optimizing-descent-an-exploration-of-the-brachistochrone-problem-ab9)
-- [Vite vs. Webpack: Which One Is Right for Your Project?](https://dev.to/abhinav_sharma_e01f930be6/vite-vs-webpack-which-one-is-right-for-your-project-886)
-- [Refactoring conditionals: The first steps to cleaner code.](https://dev.to/sakib3201/refactoring-conditionals-the-first-steps-to-cleaner-code-11bk)
-- [Comandos Básicos de Vagrant](https://dev.to/haroldo89/comandos-basicos-de-vagrant-4fc2)
+- [Maximizing SaaS Competitive Edge in the AI Era](https://dev.to/airabbit/have-you-ever-continued-using-a-service-that-doesnt-fully-meet-your-needs-simply-because-changing-17pl)
+- [21/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/21365-days-y10m-japan-job-challenge-4o2n)
+- [Day 55. Copilot](https://dev.to/kiolk/day-55-copilot-o02)
+- [Network programming for multiplayer games, including server-client architecture and online matchmaking.](https://dev.to/alphaeus/network-programming-for-multiplayer-games-including-server-client-architecture-and-online-matchmaking-3hkb)
+- [Thinking about Chain-of-Thoughts](https://dev.to/artemopolus31/thinking-about-chain-of-thoughts-47e7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
