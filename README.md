@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude AI now runs JavaScript, Python beats JavaScript on GitHub, new Node.js versions and more](https://dev.to/thisweekinjavascript/claude-ai-now-runs-javascript-python-beats-javascript-on-github-new-nodejs-versions-and-more-2f0l)
-- [10 Ways AI with SharpAPI is Transforming Travel Tech](https://dev.to/makowskid/10-ways-ai-with-sharpapi-is-transforming-travel-tech-2087)
-- [Reflecting on Hacktoberfest 2024](https://dev.to/cleobnvntra/reflecting-on-hacktoberfest-2024-43k4)
-- [Constructors in java](https://dev.to/devmercy/constructors-in-java-13b5)
-- [Storing passwords safely &lpar;C#&rpar;](https://dev.to/karenpayneoregon/storing-passwords-safely-c-ifh)
+- [AWS CDK + Localstack &lpar;API Gateway, Lambda, SQS, DynamoDB,TypeScript&rpar;](https://dev.to/gins_cyriac/aws-cdk-localstack-api-gateway-lambda-sqs-dynamodbtypescript-man)
+- [Ensuring Deployment Accuracy with air sandbox diff in AbInitio](https://dev.to/somnathseeni/ensuring-deployment-accuracy-with-air-sandbox-diff-in-abinitio-pp2)
+- [My First Open Source Contribution @microsoft](https://dev.to/inder4code/my-first-open-source-contribution-microsoft-542c)
+- [Understanding {:via, Registry, {...}} vs Registry.register/3 in Elixir](https://dev.to/marknefedov/understanding-via-registry-vs-registryregister3-in-elixir-56go)
+- [Java и Тайна Исчезающей Памяти!](https://dev.to/easycat/java-i-taina-ischiezaiushchiei-pamiati-2joa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
