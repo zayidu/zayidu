@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Coersion in JS - A Quick Brushup](https://dev.to/rameshpvr/coersion-in-js-a-quick-brushup-3d8n)
+- [How to run for inference Llama-3_1-Nemotron-51B-Instruct?](https://dev.to/nodeshiftcloud/how-to-run-for-inference-llama-31-nemotron-51b-instruct-kcm)
+- [Building a Simple Blockchain in Golang](https://dev.to/thesaltree/building-a-simple-blockchain-in-golang-4351)
 - [How to Implement a Custom BackupExtensionAbility in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/how-to-implement-a-custom-backupextensionability-in-harmonyos-next-4ip0)
 - [Essential VS Code Extensions for PHP &amp; Laravel Development](https://dev.to/nasrulhazim/essential-vs-code-extensions-for-php-laravel-development-ah)
-- [如何在 HarmonyOS Next 中实现自定义 BackupExtensionAbility](https://dev.to/xun_wang_6384a403f9817c2/ru-he-zai-harmonyos-next-zhong-shi-xian-zi-ding-yi-backupextensionability-138n)
-- [When I tried pair programming for infrastructure work, it turned out to be super effective!](https://dev.to/kakisoft/when-i-tried-pair-programming-for-infrastructure-work-it-turned-out-to-be-super-effective-449g)
-- [Dev POST](https://dev.to/keychainxs/dev-post-1g68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
