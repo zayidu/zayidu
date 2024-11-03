@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Similar boomerang](https://dev.to/simongreennet/similar-boomerang-2h88)
-- [My Journey into Nested Functions in Dart: From Curiosity to Clarity.](https://dev.to/dev_toykam/my-journey-into-nested-functions-in-dart-from-curiosity-to-clarity-2kc3)
-- [Unleash Your Potential: Content Ideas for a Prolific Developer Blog](https://dev.to/okoye_ndidiamaka_5e3b7d30/unleash-your-potential-content-ideas-for-a-prolific-developer-blog-4hnh)
-- [Massivlar.](https://dev.to/_e7530225be583f1/massivlar-304p)
-- [My Hacktoberfest 2024 Journey—Reflection](https://dev.to/jfmartinz/my-hacktoberfest-2024-journey-reflection-1fol)
+- [Exploring ChatGPT&#39;s New Search Feature: A Powerful Tool for Real-Time Information](https://dev.to/magsimuhammadessa/exploring-chatgpts-new-search-feature-a-powerful-tool-for-real-time-information-d7e)
+- [GitHub Copilot Got You Down? Here&#39;s a Free Alternative That&#39;ll Change Your Coding Game](https://dev.to/usmanzahidcode/github-copilot-got-you-down-heres-a-free-alternative-thatll-change-your-coding-game-355j)
+- [-? What is YARN ?-](https://dev.to/nobody-99/-what-is-yarn--3647)
+- [20 Yoga Exercises for All Seven Chakras](https://dev.to/susheel_kumar/20-yoga-exercises-for-all-seven-chakras-31b9)
+- [Pagination in raw SQL](https://dev.to/kasir-barati/pagination-in-raw-sql-1eke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
