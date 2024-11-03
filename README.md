@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing IPVulnScout: Tool for IP Vulnerability Assessment](https://dev.to/trixsec/introducing-ipvulnscout-tool-for-ip-vulnerability-assessment-556)
+- [Building a High-Quality Stock Report Generator with Node.js, Express, and OpenAI API](https://dev.to/zand/building-a-high-quality-stock-report-generator-with-nodejs-express-and-openai-api-3ipm)
 - [JavaScript Proxy and Reflect for Dynamic Object Control](https://dev.to/shafayeat/javascript-proxy-and-reflect-for-dynamic-object-control-4fe8)
+- [Angular 19 - Introduction to linkedSignal](https://dev.to/this-is-angular/angular-19-introduction-to-linkedsignal-190a)
 - [MUI Stack: Mastering One-Dimensional Layouts in React](https://dev.to/codeparrot/mui-stack-mastering-one-dimensional-layouts-in-react-3498)
-- [Big Money vs. Small Money - FAV0 Weekly #020](https://dev.to/justin3go/big-money-vs-small-money-fav0-weekly-020-4dbe)
-- [大钱与小钱 - FAV0周刊#020](https://dev.to/justin3go/da-qian-yu-xiao-qian-fav0zhou-kan-020-21c7)
-- [Contributing to Tech Assessment Knowledge: My Hacktoberfest 2024 Journey](https://dev.to/makendrang/contributing-to-tech-assessment-knowledge-my-hacktoberfest-2024-journey-3j5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
