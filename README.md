@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Useful Developer Tools You Will Wish You Knew Sooner 🧑‍💻🧙](https://dev.to/safdarali/12-useful-developer-tools-you-will-wish-you-knew-sooner-3c77)
-- [Leetcode — Top Interview 150 — Remove Element](https://dev.to/bendlmp/leetcode-top-interview-150-remove-element-ca9)
-- [Transferring BTC Total data to amount on page 2 &lpar;help&rpar;](https://dev.to/chezciacbro/transferring-btc-total-data-to-amount-on-page-2-help-5ec0)
-- [Como criar API com PHP Puro?](https://dev.to/rafaelcitario/como-criar-api-com-php-puro-5hio)
-- [How to Create PDFs in React from JSON Data with jsPDF](https://dev.to/mukarramjavid/create-pdf-in-javascriptreact-using-json-data-1pj)
+- [Allowlist vs Denylist: When to use them](https://dev.to/mateuscechetto/allowlist-vs-denylist-when-to-use-them-5d6c)
+- [The Cascade Conspiracy: Why Your CSS Reset Might Be Working Against You](https://dev.to/eioluseyi/the-cascade-conspiracy-why-your-css-reset-might-be-working-against-you-3fo6)
+- [Exploratory Data Analysis &lpar;EDA&rpar;](https://dev.to/sourishsr31/exploratory-data-analysis-eda-gib)
+- [The Role of Statistics in Data Science](https://dev.to/sourishsr31/the-role-of-statistics-in-data-science-201o)
+- [Dev3loper on Co-Intelligence](https://dev.to/dev3l/dev3loper-on-co-intelligence-9df)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
