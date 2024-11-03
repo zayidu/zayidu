@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [On the Programmability of AWS Trainium and Inferentia](https://dev.to/crand/on-the-programmability-of-aws-trainium-and-inferentia-4ick)
-- [Why You Shouldn&#39;t Use `as` in TypeScript 🚫](https://dev.to/matheusmorett2/why-you-shouldnt-use-as-in-typescript-3e5i)
-- [AI Model Optimization on AWS Inferentia and Trainium](https://dev.to/crand/ai-model-optimization-on-aws-inferentia-and-trainium-1hh0)
-- [6. Zigzag Conversion](https://dev.to/munisekharudavalapati/6-zigzag-conversion-p94)
-- [Build up your confidence with Regex: 5 Techniques to make it STICK](https://dev.to/rijultp/build-up-your-confidence-with-regex-5-techniques-to-make-it-stick-2p05)
+- [Node JS Docker Deployment with lambda &amp; API Gateway](https://dev.to/avdhut_nalawade_6ada59c61/node-js-docker-deployment-with-lambda-api-gateway-4eco)
+- [The Evolution of Frontend Development: Exploring Different Architectures](https://dev.to/it_vturbo/the-evolution-of-frontend-development-exploring-different-architectures-6og)
+- [Is there a way to capture a Leaflet map &lpar;with geometric features&rpar; into a PDF, without encountering offset issues?](https://dev.to/arthur2017ui/is-there-a-way-to-capture-a-leaflet-map-with-geometric-features-into-a-pdf-without-encountering-offset-issues-1gfa)
+- [Complete Linux Essentials!](https://dev.to/navv23/complete-linux-essentials-6n4)
+- [Practice AWS Certification Question: AWS Solutions Architect Professional — Lambda — ECR](https://dev.to/aws-builders/practice-aws-certification-question-aws-solutions-architect-professional-lambda-ecr-2717)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
