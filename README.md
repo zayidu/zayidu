@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS CDK + Localstack &lpar;API Gateway, Lambda, SQS, DynamoDB,TypeScript&rpar;](https://dev.to/gins_cyriac/aws-cdk-localstack-api-gateway-lambda-sqs-dynamodbtypescript-man)
-- [Ensuring Deployment Accuracy with air sandbox diff in AbInitio](https://dev.to/somnathseeni/ensuring-deployment-accuracy-with-air-sandbox-diff-in-abinitio-pp2)
-- [My First Open Source Contribution @microsoft](https://dev.to/inder4code/my-first-open-source-contribution-microsoft-542c)
-- [Understanding {:via, Registry, {...}} vs Registry.register/3 in Elixir](https://dev.to/marknefedov/understanding-via-registry-vs-registryregister3-in-elixir-56go)
-- [Java и Тайна Исчезающей Памяти!](https://dev.to/easycat/java-i-taina-ischiezaiushchiei-pamiati-2joa)
+- [Joyful Languages👨🏾‍💻⌨️](https://dev.to/taariqelliott/joyful-languages-2l85)
+- [Optimizing Descent — An Exploration of the Brachistochrone Problem](https://dev.to/okpalan/optimizing-descent-an-exploration-of-the-brachistochrone-problem-ab9)
+- [Vite vs. Webpack: Which One Is Right for Your Project?](https://dev.to/abhinav_sharma_e01f930be6/vite-vs-webpack-which-one-is-right-for-your-project-886)
+- [Refactoring conditionals: The first steps to cleaner code.](https://dev.to/sakib3201/refactoring-conditionals-the-first-steps-to-cleaner-code-11bk)
+- [Comandos Básicos de Vagrant](https://dev.to/haroldo89/comandos-basicos-de-vagrant-4fc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
