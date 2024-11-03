@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Criando uma Aplicação Web para QA Testers: Lista de Tarefas de Qualidade](https://dev.to/marquezbertin/criando-uma-aplicacao-web-para-qa-testers-lista-de-tarefas-de-qualidade-3bm9)
-- [Hacktoberfest 2024: My 2nd Year Experience as A Maintainer](https://dev.to/adiatiayu/hacktoberfest-2024-my-2nd-year-experience-as-a-maintainer-n7f)
-- [Как убрать каплю снизу, когда нажимаешь на BasicTextFiled](https://dev.to/merqury14092/kak-ubrat-kapliu-snizu-koghda-nazhimaiesh-na-basictextfiled-57ip)
-- [Dynamic Risk-Based Updates Using Python and Excel](https://dev.to/sebos/dynamic-risk-based-updates-using-python-and-excel-dcp)
-- [Visualizing Lotto Data: Germany’s numbers as heat map.](https://dev.to/emunael_lator_081ba8962f8/visualizing-lotto-data-germanys-numbers-as-heat-map-2f4g)
+- [9 Steps for JWT Authentication in Node.js Application](https://dev.to/safdarali/9-steps-for-jwt-authentication-in-nodejs-application-cgk)
+- [Writing Good Automated Tests with AI: A Case Study](https://dev.to/zenika/writing-good-automated-tests-with-ai-a-case-study-19d)
+- [☝️ One thing which has helped me IMMENSELY in learning SwiftUI...](https://dev.to/auden_pierce/one-thing-which-has-helped-me-immensely-in-learning-swiftui-2n2o)
+- [Mode, Mean, Median Using User Defined Function In Java](https://dev.to/takatws/mode-mean-median-using-user-defined-function-in-java-4p33)
+- [Hacktoberfest : The right way to do open source](https://dev.to/skysingh04/hacktoberfest-the-right-way-to-do-open-source-4lcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
