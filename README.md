@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Quickly Navigate a New Codebase](https://dev.to/koladev/how-to-quickly-navigate-a-new-codebase-48i9)
+- [Writing Terraform Configurations](https://dev.to/khurammurad/writing-terraform-configurations-a-beginners-guide-4b6b)
+- [Debian in WSL not Ubuntu](https://dev.to/talepunk/debian-in-wsl-not-ubuntu-3j28)
 - [Experiences and Caveats of Svelte 5 Migration](https://dev.to/kvetoslavnovak/experiences-and-caveats-of-svelte-5-migration-27cp)
 - [Stop Using Try-Catch: A Better Way to Handle Errors in JavaScript](https://dev.to/richardshaju/stop-using-try-catch-a-better-way-to-handle-errors-in-javascript-14cm)
-- [Rio: WebApps in pure Python — A fresh Layouting System](https://dev.to/p4nd4no/rio-webapps-in-pure-python-a-fresh-layouting-system-23p3)
-- [Introducing IPVulnScout: Tool for IP Vulnerability Assessment](https://dev.to/trixsec/introducing-ipvulnscout-tool-for-ip-vulnerability-assessment-556)
-- [Building a High-Quality Stock Report Generator with Node.js, Express, and OpenAI API](https://dev.to/zand/building-a-high-quality-stock-report-generator-with-nodejs-express-and-openai-api-3ipm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
