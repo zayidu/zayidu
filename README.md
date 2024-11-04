@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built my first mechanical keyboard [Tutorial] [Part 1]](https://dev.to/miriacode/how-i-built-my-first-mechanical-keyboard-tutorial-part-1-4oe)
-- [Quality isn&#39;t a four letter word](https://dev.to/cheetah100/quality-isnt-a-four-letter-word-4jc6)
-- [Callback - JavaScript Challenges](https://dev.to/mitchell_cheng/callback-javascript-challenges-2a5o)
-- [User File Access and Permission Control Based on File Access Framework in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/user-file-access-and-permission-control-based-on-file-access-framework-in-harmonyos-next-290b)
-- [HarmonyOS Next基于 File Access Framework 的用户文件访问与权限控制](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-nextji-yu-file-access-framework-de-yong-hu-wen-jian-fang-wen-yu-quan-xian-kong-zhi-2b4n)
+- [How to configure PHPStorm to work with Vite - Aliases](https://dev.to/tuandm/how-to-configure-phpstorm-to-work-with-vite-aliases-4j86)
+- [Travel Journal Web App](https://dev.to/kaoria/travel-journal-web-app-3357)
+- [Dominate Object-Oriented Programming &lpar;OOP&rpar; in JavaScript.](https://dev.to/shafayeat/dominate-object-oriented-programming-oop-in-javascript-3n65)
+- [My First Hacktoberfest as a Repo Maintainer: A Journey of Growth and Learning](https://dev.to/bijiyiqi2017/my-first-hacktoberfest-as-a-repo-maintainer-a-journey-of-growth-and-learning-44o)
+- [Yoga and Meditation for Better Sleep in Students](https://dev.to/jana-shantanu/yoga-and-meditation-for-better-sleep-in-students-2903)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
