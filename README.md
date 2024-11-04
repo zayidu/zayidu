@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Fullstack Next.js Support on Fleek: Build, Deploy, and Scale Dynamic Apps with Ease](https://dev.to/fleek/introducing-fullstack-nextjs-support-on-fleek-build-deploy-and-scale-dynamic-apps-with-ease-1f4f)
-- [Glossary Google Cloud](https://dev.to/valerianagit/glossary-google-cloud-3c00)
-- [☁️ Google Cloud Preparation for Cloud Digital Leader Exam Classes and Exam Tips](https://dev.to/valerianagit/google-cloud-preparation-for-cloud-digital-leader-exam-classes-and-exam-tips-1i61)
-- [Tic-tac-toe: I thought this post would never come...](https://dev.to/codecara/tic-tac-toe-i-thought-this-post-would-never-come-1nc0)
-- [Getting Started with TypeScript: Installation, Version Management, and Your First Program!](https://dev.to/md-shakilhossain/getting-started-with-typescript-installation-version-management-and-your-first-program-11i8)
+- [Understanding merge sort algorithm: Beginner&#39;s guide to mastering sorting algorithm](https://dev.to/emmanuelayinde/understanding-merge-sort-algorithm-beginners-guide-to-mastering-sorting-algorithm-2jp8)
+- [🚀 5 Browser Extensions That Will Boost Your Development](https://dev.to/yanaiara/5-browser-extensions-that-will-boost-your-development-173n)
+- [Crafting a Scalable Node.js API: Insights from My RealWorld Project with Express, Knex, and AWS CDK](https://dev.to/ken2026/crafting-a-scalable-nodejs-api-insights-from-my-realworld-project-with-express-knex-and-aws-cdk-4ol5)
+- [Jakarta EE, Java &amp; Jboss compatibility.](https://dev.to/soniya_chavan_f9c975382fe/jakarta-ee-java-jboss-compatibility-4obo)
+- [Leveraging Python&#39;s Pattern Matching and Comprehensions for Data Analytics](https://dev.to/alexmercedcoder/leveraging-pythons-pattern-matching-and-comprehensions-for-data-analytics-445j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
