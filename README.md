@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multithreading Concepts Part 3 : Deadlock](https://dev.to/anwaar/multithreading-concepts-part-3-deadlock-4ip6)
-- [Amazon EC2 Auto Scaling supports final validation time for instance refresh](https://dev.to/karthiksakthiveltechie/amazon-ec2-auto-scaling-supports-final-validation-time-for-instance-refresh-9o3)
-- [Harnessing the Power of Real-Time Data Visualization for Business Success](https://dev.to/ostapzabolotnyy/harnessing-the-power-of-real-time-data-visualization-for-business-success-33pp)
-- [Optimizing Google Search via API: A Guide to Using Serper](https://dev.to/explinks/optimizing-google-search-via-api-a-guide-to-using-serper-4ifp)
-- [Making Tests More Expressive with FluentAssertions](https://dev.to/juarezasjunior/making-tests-more-expressive-with-fluentassertions-4jea)
+- [🚀 Your Daily Crypto Job Digest For 04 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-04-november-2c1g)
+- [Rails Designer v1.8: Ready for Rails 8 🫶](https://dev.to/railsdesigner/rails-designer-v18-ready-for-rails-8-3g99)
+- [Beyond Science Fiction: A Deep Dive into the Exciting World of AI in Education](https://dev.to/saumya_1i/beyond-science-fiction-a-deep-dive-into-the-exciting-world-of-ai-in-education-3820)
+- [How Educational Apps Aid Cognitive Development in Kids](https://dev.to/anthonymurdock/how-educational-apps-aid-cognitive-development-in-kids-3hgo)
+- [Event Sourcing](https://dev.to/yrafe/event-sourcing-4obk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
