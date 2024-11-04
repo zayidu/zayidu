@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Developers Love the Shadcn Sidebar Component](https://dev.to/codeparrot/why-developers-love-the-shadcn-sidebar-component-lni)
-- [Explaining CAA DNS Record](https://dev.to/pkutaj/explaining-caa-dns-record-2b6b)
-- [Best Practices for Code Reviews That Foster Team Collaboration](https://dev.to/balrajola/best-practices-for-code-reviews-that-foster-team-collaboration-1l4e)
-- [Como conseguir y la consumición entregada y ordenada de mensajes con Kafka](https://dev.to/alonsoir/como-conseguir-y-la-consumicion-entregada-y-ordenada-de-mensajes-con-kafka-120d)
-- [Why Should I use Nosql?](https://dev.to/merve_morsy/why-should-i-use-nosql-1g88)
+- [Multithreading Concepts Part 3 : Deadlock](https://dev.to/anwaar/multithreading-concepts-part-3-deadlock-4ip6)
+- [Amazon EC2 Auto Scaling supports final validation time for instance refresh](https://dev.to/karthiksakthiveltechie/amazon-ec2-auto-scaling-supports-final-validation-time-for-instance-refresh-9o3)
+- [Harnessing the Power of Real-Time Data Visualization for Business Success](https://dev.to/ostapzabolotnyy/harnessing-the-power-of-real-time-data-visualization-for-business-success-33pp)
+- [Optimizing Google Search via API: A Guide to Using Serper](https://dev.to/explinks/optimizing-google-search-via-api-a-guide-to-using-serper-4ifp)
+- [Making Tests More Expressive with FluentAssertions](https://dev.to/juarezasjunior/making-tests-more-expressive-with-fluentassertions-4jea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
