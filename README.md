@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WebGPU is Amazing: I Built Two Lightning-Fast AI Image Processing Tools!](https://dev.to/bytefer/webgpu-is-amazing-i-built-two-lightning-fast-ai-image-processing-tools-2c4k)
-- [Creating a Culture of Continuous Improvement in Support Teams](https://dev.to/kubeha_18/creating-a-culture-of-continuous-improvement-in-support-teams-jm5)
-- [Custom Toasters in Nuxt with Vue Toastification](https://dev.to/elifnurturk/custom-toasters-in-nuxt-with-vue-toastification-10ai)
-- [Your Insight Can Transform Developer Learning!](https://dev.to/kc900201/your-insight-can-transform-developer-learning-p6i)
-- [How Prepared for an Optimizely Interview: A Journey from Nervous to Confident](https://dev.to/alaminkarno/how-prepared-for-an-optimizely-interview-a-journey-from-nervous-to-confident-3ego)
+- [Why Developers Love the Shadcn Sidebar Component](https://dev.to/codeparrot/why-developers-love-the-shadcn-sidebar-component-lni)
+- [Explaining CAA DNS Record](https://dev.to/pkutaj/explaining-caa-dns-record-2b6b)
+- [Best Practices for Code Reviews That Foster Team Collaboration](https://dev.to/balrajola/best-practices-for-code-reviews-that-foster-team-collaboration-1l4e)
+- [Como conseguir y la consumición entregada y ordenada de mensajes con Kafka](https://dev.to/alonsoir/como-conseguir-y-la-consumicion-entregada-y-ordenada-de-mensajes-con-kafka-120d)
+- [Why Should I use Nosql?](https://dev.to/merve_morsy/why-should-i-use-nosql-1g88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
