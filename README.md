@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an API: A Step-by-Step Guide to API Development](https://dev.to/getambassador2024/how-to-build-an-api-a-step-by-step-guide-to-api-development-gpp)
-- [Anti Bot Protection with SafeLine 7.0](https://dev.to/carrie_luo1/anti-bot-protection-with-safeline-70-5bmm)
-- [A Better VS Code Plugin than Thunder Client](https://dev.to/eleanor_fairfax_5ce95399d/a-better-vs-code-plugin-than-thunder-client-3go2)
-- [User Authentication API with Express, JWT, Bcrypt, and MySQL](https://dev.to/gautam_kumar_d3daad738680/secure-user-authentication-api-with-express-jwt-bcrypt-and-mysql-16aj)
-- [Effective Management of Active Directory Groups in Hybrid Environments](https://dev.to/buzzgk/effective-management-of-active-directory-groups-in-hybrid-environments-26mh)
+- [Exploring Nuances of the Java Scanner Class](https://dev.to/arshisaxena26/exploring-nuances-of-the-java-scanner-class-1aim)
+- [Seeing the Future: How Computer Vision is Transforming Industries Through AI](https://dev.to/bitedaisy84/seeing-the-future-how-computer-vision-is-transforming-industries-through-ai-4al9)
+- [Quick Guide to INSERT Queries in MySQL](https://dev.to/dbvismarketing/quick-guide-to-insert-queries-in-mysql-2h6p)
+- [Long weekends and short updates](https://dev.to/giuliano1993/long-weekends-and-short-updates-11ad)
+- [Visionary Innovations: How Computer Vision is Transforming Industries with AI](https://dev.to/faucetlink11/visionary-innovations-how-computer-vision-is-transforming-industries-with-ai-5bli)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
