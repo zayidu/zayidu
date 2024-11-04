@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Batch SQL Injection: A Real-World Threat to Data Security](https://dev.to/adityabhuyan/understanding-batch-sql-injection-a-real-world-threat-to-data-security-3nm8)
-- [The Rise of AI in Cybersecurity: Opportunities and Challenges](https://dev.to/genius_introuble/the-rise-of-ai-in-cybersecurity-opportunities-and-challenges-1ka)
-- [&quot;5 Essential CSS Tips for Improving Responsive Design&quot;](https://dev.to/vsfarooqkhan/5-essential-css-tips-for-improving-responsive-design-1b54)
-- [Responsive Mobile Web Testing Strategies: Ensuring Optimal User Experience](https://dev.to/misterankit/responsive-mobile-web-testing-strategies-ensuring-optimal-user-experience-5b67)
-- [A vs B: Which Book Cover Speaks to You? [Quick Poll]](https://dev.to/techbalance_collective/a-vs-b-which-book-cover-speaks-to-you-quick-poll-22hg)
+- [Introducing Rate Keeper: A Compact Utility for Robust Rate Limiting](https://dev.to/skullzarmy/introducing-rate-keeper-a-compact-utility-for-robust-rate-limiting-37ib)
+- [Quick Guide: Spinning Up Vagrant in No Time](https://dev.to/devops_descent/quick-guide-spinning-up-vagrant-in-no-time-4gh1)
+- [Rendering in Next.js](https://dev.to/anisriva/rendering-in-nextjs-4de1)
+- [Frontend Mentor Challenge: Form Validation](https://dev.to/kaoria/frontend-mentor-challenge-form-validation-4kdn)
+- [Laravel 11 Display Image from Storage Folder Example](https://dev.to/mshsayket/laravel-11-display-image-from-storage-folder-example-5bgg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
