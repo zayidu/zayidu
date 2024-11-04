@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Steps for JWT Authentication in Node.js Application](https://dev.to/safdarali/9-steps-for-jwt-authentication-in-nodejs-application-cgk)
-- [Writing Good Automated Tests with AI: A Case Study](https://dev.to/zenika/writing-good-automated-tests-with-ai-a-case-study-19d)
-- [☝️ One thing which has helped me IMMENSELY in learning SwiftUI...](https://dev.to/auden_pierce/one-thing-which-has-helped-me-immensely-in-learning-swiftui-2n2o)
-- [Mode, Mean, Median Using User Defined Function In Java](https://dev.to/takatws/mode-mean-median-using-user-defined-function-in-java-4p33)
-- [Hacktoberfest : The right way to do open source](https://dev.to/skysingh04/hacktoberfest-the-right-way-to-do-open-source-4lcp)
+- [VMware &amp; Windows 7 | &quot;Install VMware Tools&quot; Greyed Out](https://dev.to/01kg/vmware-windows-7-install-vmware-tools-greyed-out-1bil)
+- [Behind the Words: Crafting My Career Transition Story from Product Manager to QA Engineer for Quality Insights Newsletter](https://dev.to/sebastianclavijo/behind-the-words-crafting-my-career-transition-story-from-product-manager-to-qa-engineer-for-quality-insights-newsletter-4dge)
+- [A Hacktoberfest 2024 Journey: Insights from a First-Time Project Maintainer](https://dev.to/tjtanjin/a-hacktoberfest-2024-journey-insights-from-a-first-time-project-maintainer-96l)
+- [Understanding Compiler Passes: A Deep Dive into GCC Compilation](https://dev.to/krinskumar/understanding-compiler-passes-a-deep-dive-into-gcc-compilation-5h5g)
+- [Auto publish NPM packages using changesets and GitHub Actions](https://dev.to/wdsebastian/simplest-way-to-publish-and-automate-npm-packages-d0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
