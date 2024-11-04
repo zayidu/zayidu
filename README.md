@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to configure PHPStorm to work with Vite - Aliases](https://dev.to/tuandm/how-to-configure-phpstorm-to-work-with-vite-aliases-4j86)
-- [Travel Journal Web App](https://dev.to/kaoria/travel-journal-web-app-3357)
-- [Dominate Object-Oriented Programming &lpar;OOP&rpar; in JavaScript.](https://dev.to/shafayeat/dominate-object-oriented-programming-oop-in-javascript-3n65)
-- [My First Hacktoberfest as a Repo Maintainer: A Journey of Growth and Learning](https://dev.to/bijiyiqi2017/my-first-hacktoberfest-as-a-repo-maintainer-a-journey-of-growth-and-learning-44o)
-- [Yoga and Meditation for Better Sleep in Students](https://dev.to/jana-shantanu/yoga-and-meditation-for-better-sleep-in-students-2903)
+- [Understanding Batch SQL Injection: A Real-World Threat to Data Security](https://dev.to/adityabhuyan/understanding-batch-sql-injection-a-real-world-threat-to-data-security-3nm8)
+- [The Rise of AI in Cybersecurity: Opportunities and Challenges](https://dev.to/genius_introuble/the-rise-of-ai-in-cybersecurity-opportunities-and-challenges-1ka)
+- [&quot;5 Essential CSS Tips for Improving Responsive Design&quot;](https://dev.to/vsfarooqkhan/5-essential-css-tips-for-improving-responsive-design-1b54)
+- [Responsive Mobile Web Testing Strategies: Ensuring Optimal User Experience](https://dev.to/misterankit/responsive-mobile-web-testing-strategies-ensuring-optimal-user-experience-5b67)
+- [A vs B: Which Book Cover Speaks to You? [Quick Poll]](https://dev.to/techbalance_collective/a-vs-b-which-book-cover-speaks-to-you-quick-poll-22hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
