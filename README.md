@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Nuances of the Java Scanner Class](https://dev.to/arshisaxena26/exploring-nuances-of-the-java-scanner-class-1aim)
-- [Seeing the Future: How Computer Vision is Transforming Industries Through AI](https://dev.to/bitedaisy84/seeing-the-future-how-computer-vision-is-transforming-industries-through-ai-4al9)
-- [Quick Guide to INSERT Queries in MySQL](https://dev.to/dbvismarketing/quick-guide-to-insert-queries-in-mysql-2h6p)
-- [Long weekends and short updates](https://dev.to/giuliano1993/long-weekends-and-short-updates-11ad)
-- [Visionary Innovations: How Computer Vision is Transforming Industries with AI](https://dev.to/faucetlink11/visionary-innovations-how-computer-vision-is-transforming-industries-with-ai-5bli)
+- [🚀 Building an AI-Powered Call Intelligence System: A Developer&#39;s Epic Journey](https://dev.to/biswajitfsd/building-an-ai-powered-call-intelligence-system-a-developers-epic-journey-3oi2)
+- [Comparison of Popular JavaScript Frameworks: React, Vue and Angular](https://dev.to/__623650db/comparison-of-popular-javascript-frameworks-react-vue-and-angular-461)
+- [Understanding the Meaning of Re-Crawling from an SEO Perspective](https://dev.to/juddiy/understanding-the-meaning-of-re-crawling-from-an-seo-perspective-3o8n)
+- [Mastering Database Indexing: How to Optimize Query Performance in PostgreSQL](https://dev.to/isaactony/mastering-database-indexing-how-to-optimize-query-performance-in-postgresql-3pk3)
+- [How I Use Scikit-Learn for Data Science Projects](https://dev.to/tinapyp/how-i-use-scikit-learn-for-data-science-projects-2j2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
