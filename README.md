@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache redirects, even after fresh install](https://dev.to/jonathan_bauer_cbad9050c9/apache-redirects-even-after-fresh-install-356f)
-- [NodeList and HTMLCollection](https://dev.to/sonaykara/understanding-nodelist-and-htmlcollection-differences-behavior-and-examples-2j9c)
-- [Just learnt about Vue.js](https://dev.to/hunzombi/just-learnt-about-vuejs-33d2)
-- [Creating Custom Template and Managing IP Addresses in Microsoft Azure: Dissociation and Association Explained](https://dev.to/tjasper/creating-custom-template-and-managing-ip-addresses-in-microsoft-azure-dissociation-and-association-explained-1ceh)
-- [REST Countries Explorer with Dark/Light Mode](https://dev.to/imrankhan17/rest-countries-explorer-with-darklight-mode-1a62)
+- [Introducing Fullstack Next.js Support on Fleek: Build, Deploy, and Scale Dynamic Apps with Ease](https://dev.to/fleek/introducing-fullstack-nextjs-support-on-fleek-build-deploy-and-scale-dynamic-apps-with-ease-1f4f)
+- [Glossary Google Cloud](https://dev.to/valerianagit/glossary-google-cloud-3c00)
+- [☁️ Google Cloud Preparation for Cloud Digital Leader Exam Classes and Exam Tips](https://dev.to/valerianagit/google-cloud-preparation-for-cloud-digital-leader-exam-classes-and-exam-tips-1i61)
+- [Tic-tac-toe: I thought this post would never come...](https://dev.to/codecara/tic-tac-toe-i-thought-this-post-would-never-come-1nc0)
+- [Getting Started with TypeScript: Installation, Version Management, and Your First Program!](https://dev.to/md-shakilhossain/getting-started-with-typescript-installation-version-management-and-your-first-program-11i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
