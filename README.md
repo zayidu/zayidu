@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Redis with Django for High-Performance Caching](https://dev.to/praseesh_p_/integrating-redis-with-django-for-high-performance-caching-490b)
-- [¿Cómo funciona Comparator en Java?](https://dev.to/asjordi/como-funciona-comparator-en-java-2lfg)
-- [System Design 01 - Data Storage: Pick Your Poison Wisely](https://dev.to/sarvabharan/system-design-01-data-storage-pick-your-poison-wisely-16pc)
-- [Who Should Run Tests? On the Future of QA](https://dev.to/signadot/who-should-run-tests-on-the-future-of-qa-41e4)
-- [Browse Healthcare.gov Marketplace Plans with a Corticon.js Dynamic Form](https://dev.to/notedhelms/browse-healthcaregov-marketplace-plans-with-a-corticonjs-dynamic-form-192i)
+- [eq and ne in PyTorch](https://dev.to/hyperkai/eq-and-ne-in-pytorch-1ai8)
+- [Challenges and Solutions in Implementing AI for Software Testing](https://dev.to/anil_csimplifyit_905c/challenges-and-solutions-in-implementing-ai-for-software-testing-2533)
+- [Key differences between BPMN diagrams and Optimajet .NET Workflow Engine process schemes](https://dev.to/optimajet/key-differences-between-bpmn-diagrams-and-optimajet-net-workflow-engine-process-schemes-21ka)
+- [Why You Should Use AWS Lambda For Web Development](https://dev.to/jcgabano/why-you-should-use-aws-lambda-for-web-development-1nbe)
+- [5 Best Note-Taking Apps 📝](https://dev.to/jxd-dev/5-best-note-taking-apps-3edn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
