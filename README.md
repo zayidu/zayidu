@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Next.js caching strategies](https://dev.to/leemeganj/advanced-nextjs-caching-strategies-akm)
-- [Total Quality Management Framework with AI: Revolutionizing Business Excellence](https://dev.to/ishmam_jahan_4269b6f13ba5/total-quality-management-framework-with-ai-revolutionizing-business-excellence-1ni8)
-- [Bitcoin Trading with Bots: Approaches for Long-Term Profit on CryptoRobotics](https://dev.to/12crypto12/bitcoin-trading-with-bots-approaches-for-long-term-profit-on-cryptorobotics-18e3)
-- [Starting to Rust](https://dev.to/doken/starting-to-rust-a-developers-journey-into-the-rust-language-4k6m)
-- [Ultimate React Interview Study Plan: Your one-stop for your next #React Interview](https://dev.to/mursalfk/ultimate-react-interview-study-plan-your-one-stop-for-your-next-react-interview-59bf)
+- [Python beats Javascript, Next.js Leap &amp; the AI Coding Wars](https://dev.to/dev007777/python-beats-javascript-nextjs-leap-the-ai-coding-wars-1kd2)
+- [Next.js containerization using Docker](https://dev.to/redrobotdev/nextjs-containerization-using-docker-dl3)
+- [Structuring Your Space: Designing a Visual Grid](https://dev.to/sandr0p/structuring-your-space-designing-a-visual-grid-4fao)
+- [📝 Cross-Post Project Update: Regex, Bug Fixes, and More Regex!](https://dev.to/jesse_chong_3bcc276c4f950/cross-post-project-update-regex-bug-fixes-and-more-regex-nj6)
+- [MySQL Terminal: Add and delete column](https://dev.to/xxzeroxx/mysql-terminal-add-and-delete-column-3pcm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
