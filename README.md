@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [eq and ne in PyTorch](https://dev.to/hyperkai/eq-and-ne-in-pytorch-1ai8)
-- [Challenges and Solutions in Implementing AI for Software Testing](https://dev.to/anil_csimplifyit_905c/challenges-and-solutions-in-implementing-ai-for-software-testing-2533)
-- [Key differences between BPMN diagrams and Optimajet .NET Workflow Engine process schemes](https://dev.to/optimajet/key-differences-between-bpmn-diagrams-and-optimajet-net-workflow-engine-process-schemes-21ka)
-- [Why You Should Use AWS Lambda For Web Development](https://dev.to/jcgabano/why-you-should-use-aws-lambda-for-web-development-1nbe)
-- [5 Best Note-Taking Apps 📝](https://dev.to/jxd-dev/5-best-note-taking-apps-3edn)
+- [Exploring Test Automation in Embedded Systems Testing](https://dev.to/talenttinaapi/exploring-test-automation-in-embedded-systems-testing-3e26)
+- [🤖 ChatGPT and Next.js: Building an Intelligent Chatbot for Your Application 🚀](https://dev.to/hamzakhan/chatgpt-and-nextjs-building-an-intelligent-chatbot-for-your-application-2a0h)
+- [What are your goals for week 45 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-45-of-2024-4jig)
+- [Top 20 Kubernetes Commands You Should Know [Chapter 1]](https://dev.to/devopsbymani/top-20-kubernetes-commands-you-should-know-chapter-1-30bg)
+- [Mastering Ansible Copy Module: Efficient File and Directory Transfers](https://dev.to/labex/mastering-ansible-copy-module-efficient-file-and-directory-transfers-4e1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
