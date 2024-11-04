@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building an AI-Powered Call Intelligence System: A Developer&#39;s Epic Journey](https://dev.to/biswajitfsd/building-an-ai-powered-call-intelligence-system-a-developers-epic-journey-3oi2)
-- [Comparison of Popular JavaScript Frameworks: React, Vue and Angular](https://dev.to/__623650db/comparison-of-popular-javascript-frameworks-react-vue-and-angular-461)
-- [Understanding the Meaning of Re-Crawling from an SEO Perspective](https://dev.to/juddiy/understanding-the-meaning-of-re-crawling-from-an-seo-perspective-3o8n)
-- [Mastering Database Indexing: How to Optimize Query Performance in PostgreSQL](https://dev.to/isaactony/mastering-database-indexing-how-to-optimize-query-performance-in-postgresql-3pk3)
-- [How I Use Scikit-Learn for Data Science Projects](https://dev.to/tinapyp/how-i-use-scikit-learn-for-data-science-projects-2j2b)
+- [WebGPU is Amazing: I Built Two Lightning-Fast AI Image Processing Tools!](https://dev.to/bytefer/webgpu-is-amazing-i-built-two-lightning-fast-ai-image-processing-tools-2c4k)
+- [Creating a Culture of Continuous Improvement in Support Teams](https://dev.to/kubeha_18/creating-a-culture-of-continuous-improvement-in-support-teams-jm5)
+- [Custom Toasters in Nuxt with Vue Toastification](https://dev.to/elifnurturk/custom-toasters-in-nuxt-with-vue-toastification-10ai)
+- [Your Insight Can Transform Developer Learning!](https://dev.to/kc900201/your-insight-can-transform-developer-learning-p6i)
+- [How Prepared for an Optimizely Interview: A Journey from Nervous to Confident](https://dev.to/alaminkarno/how-prepared-for-an-optimizely-interview-a-journey-from-nervous-to-confident-3ego)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
