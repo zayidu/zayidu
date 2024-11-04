@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tauri 2.0 - Sqlite DB - React](https://dev.to/focuscookie/tauri-20-sqlite-db-react-2aem)
-- [Consistency is King, and here&#39;s why.](https://dev.to/choir241/consistency-is-king-and-heres-why-5ean)
-- [How AI Can Help You Build Apps Faster and Smarter 🚀 with Codeium](https://dev.to/krantikr/how-ai-can-help-you-build-apps-faster-and-smarter-with-codeium-28ol)
-- [Efficient Blog Cover Image Generation with CoCover for VS Code](https://dev.to/mayashavin/efficient-blog-cover-image-generation-with-cocover-for-vs-code-2hja)
-- [Building Secure APIs: Best Practices for Data Protection](https://dev.to/divine_nnanna2/building-secure-apis-best-practices-for-data-protection-1ddi)
+- [Integrating Redis with Django for High-Performance Caching](https://dev.to/praseesh_p_/integrating-redis-with-django-for-high-performance-caching-490b)
+- [¿Cómo funciona Comparator en Java?](https://dev.to/asjordi/como-funciona-comparator-en-java-2lfg)
+- [System Design 01 - Data Storage: Pick Your Poison Wisely](https://dev.to/sarvabharan/system-design-01-data-storage-pick-your-poison-wisely-16pc)
+- [Who Should Run Tests? On the Future of QA](https://dev.to/signadot/who-should-run-tests-on-the-future-of-qa-41e4)
+- [Browse Healthcare.gov Marketplace Plans with a Corticon.js Dynamic Form](https://dev.to/notedhelms/browse-healthcaregov-marketplace-plans-with-a-corticonjs-dynamic-form-192i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
