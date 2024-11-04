@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Update Cursor AI on linux](https://dev.to/kosa12/update-cursor-ai-on-linux-a0h)
-- [Why Next.js is Better than React for Building an E-commerce Website](https://dev.to/arinze_obieze/why-nextjs-is-better-than-react-for-building-an-e-commerce-website-4l79)
-- [Why Clean Architecture Struggles in Golang and What Works Better](https://dev.to/lucasdeataides/why-clean-architecture-struggles-in-golang-and-what-works-better-m4g)
-- [Lendo e gravando arquivos usando fluxos de bytes](https://dev.to/devsjavagirls/lendo-e-gravando-arquivos-usando-fluxos-de-bytes-3ifg)
-- [Offering Free Help with Software Projects](https://dev.to/armen_davtian/offering-free-help-with-software-projects-2fm0)
+- [Apache redirects, even after fresh install](https://dev.to/jonathan_bauer_cbad9050c9/apache-redirects-even-after-fresh-install-356f)
+- [NodeList and HTMLCollection](https://dev.to/sonaykara/understanding-nodelist-and-htmlcollection-differences-behavior-and-examples-2j9c)
+- [Just learnt about Vue.js](https://dev.to/hunzombi/just-learnt-about-vuejs-33d2)
+- [Creating Custom Template and Managing IP Addresses in Microsoft Azure: Dissociation and Association Explained](https://dev.to/tjasper/creating-custom-template-and-managing-ip-addresses-in-microsoft-azure-dissociation-and-association-explained-1ceh)
+- [REST Countries Explorer with Dark/Light Mode](https://dev.to/imrankhan17/rest-countries-explorer-with-darklight-mode-1a62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
