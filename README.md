@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python beats Javascript, Next.js Leap &amp; the AI Coding Wars](https://dev.to/dev007777/python-beats-javascript-nextjs-leap-the-ai-coding-wars-1kd2)
-- [Next.js containerization using Docker](https://dev.to/redrobotdev/nextjs-containerization-using-docker-dl3)
-- [Structuring Your Space: Designing a Visual Grid](https://dev.to/sandr0p/structuring-your-space-designing-a-visual-grid-4fao)
-- [📝 Cross-Post Project Update: Regex, Bug Fixes, and More Regex!](https://dev.to/jesse_chong_3bcc276c4f950/cross-post-project-update-regex-bug-fixes-and-more-regex-nj6)
-- [MySQL Terminal: Add and delete column](https://dev.to/xxzeroxx/mysql-terminal-add-and-delete-column-3pcm)
+- [Update Cursor AI on linux](https://dev.to/kosa12/update-cursor-ai-on-linux-a0h)
+- [Why Next.js is Better than React for Building an E-commerce Website](https://dev.to/arinze_obieze/why-nextjs-is-better-than-react-for-building-an-e-commerce-website-4l79)
+- [Why Clean Architecture Struggles in Golang and What Works Better](https://dev.to/lucasdeataides/why-clean-architecture-struggles-in-golang-and-what-works-better-m4g)
+- [Lendo e gravando arquivos usando fluxos de bytes](https://dev.to/devsjavagirls/lendo-e-gravando-arquivos-usando-fluxos-de-bytes-3ifg)
+- [Offering Free Help with Software Projects](https://dev.to/armen_davtian/offering-free-help-with-software-projects-2fm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
