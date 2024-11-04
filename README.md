@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 04 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-04-november-2c1g)
-- [Rails Designer v1.8: Ready for Rails 8 🫶](https://dev.to/railsdesigner/rails-designer-v18-ready-for-rails-8-3g99)
-- [Beyond Science Fiction: A Deep Dive into the Exciting World of AI in Education](https://dev.to/saumya_1i/beyond-science-fiction-a-deep-dive-into-the-exciting-world-of-ai-in-education-3820)
-- [How Educational Apps Aid Cognitive Development in Kids](https://dev.to/anthonymurdock/how-educational-apps-aid-cognitive-development-in-kids-3hgo)
-- [Event Sourcing](https://dev.to/yrafe/event-sourcing-4obk)
+- [Tauri 2.0 - Sqlite DB - React](https://dev.to/focuscookie/tauri-20-sqlite-db-react-2aem)
+- [Consistency is King, and here&#39;s why.](https://dev.to/choir241/consistency-is-king-and-heres-why-5ean)
+- [How AI Can Help You Build Apps Faster and Smarter 🚀 with Codeium](https://dev.to/krantikr/how-ai-can-help-you-build-apps-faster-and-smarter-with-codeium-28ol)
+- [Efficient Blog Cover Image Generation with CoCover for VS Code](https://dev.to/mayashavin/efficient-blog-cover-image-generation-with-cocover-for-vs-code-2hja)
+- [Building Secure APIs: Best Practices for Data Protection](https://dev.to/divine_nnanna2/building-secure-apis-best-practices-for-data-protection-1ddi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
