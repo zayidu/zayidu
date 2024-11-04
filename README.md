@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VMware &amp; Windows 7 | &quot;Install VMware Tools&quot; Greyed Out](https://dev.to/01kg/vmware-windows-7-install-vmware-tools-greyed-out-1bil)
-- [Behind the Words: Crafting My Career Transition Story from Product Manager to QA Engineer for Quality Insights Newsletter](https://dev.to/sebastianclavijo/behind-the-words-crafting-my-career-transition-story-from-product-manager-to-qa-engineer-for-quality-insights-newsletter-4dge)
-- [A Hacktoberfest 2024 Journey: Insights from a First-Time Project Maintainer](https://dev.to/tjtanjin/a-hacktoberfest-2024-journey-insights-from-a-first-time-project-maintainer-96l)
-- [Understanding Compiler Passes: A Deep Dive into GCC Compilation](https://dev.to/krinskumar/understanding-compiler-passes-a-deep-dive-into-gcc-compilation-5h5g)
-- [Auto publish NPM packages using changesets and GitHub Actions](https://dev.to/wdsebastian/simplest-way-to-publish-and-automate-npm-packages-d0c)
+- [How I built my first mechanical keyboard [Tutorial] [Part 1]](https://dev.to/miriacode/how-i-built-my-first-mechanical-keyboard-tutorial-part-1-4oe)
+- [Quality isn&#39;t a four letter word](https://dev.to/cheetah100/quality-isnt-a-four-letter-word-4jc6)
+- [Callback - JavaScript Challenges](https://dev.to/mitchell_cheng/callback-javascript-challenges-2a5o)
+- [User File Access and Permission Control Based on File Access Framework in HarmonyOS Next](https://dev.to/xun_wang_6384a403f9817c2/user-file-access-and-permission-control-based-on-file-access-framework-in-harmonyos-next-290b)
+- [HarmonyOS Next基于 File Access Framework 的用户文件访问与权限控制](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-nextji-yu-file-access-framework-de-yong-hu-wen-jian-fang-wen-yu-quan-xian-kong-zhi-2b4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
