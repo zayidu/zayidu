@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Test Automation in Embedded Systems Testing](https://dev.to/talenttinaapi/exploring-test-automation-in-embedded-systems-testing-3e26)
-- [🤖 ChatGPT and Next.js: Building an Intelligent Chatbot for Your Application 🚀](https://dev.to/hamzakhan/chatgpt-and-nextjs-building-an-intelligent-chatbot-for-your-application-2a0h)
-- [What are your goals for week 45 of 2024?](https://dev.to/jarvisscript/what-are-your-goals-for-week-45-of-2024-4jig)
-- [Top 20 Kubernetes Commands You Should Know [Chapter 1]](https://dev.to/devopsbymani/top-20-kubernetes-commands-you-should-know-chapter-1-30bg)
-- [Mastering Ansible Copy Module: Efficient File and Directory Transfers](https://dev.to/labex/mastering-ansible-copy-module-efficient-file-and-directory-transfers-4e1j)
+- [Advanced Next.js caching strategies](https://dev.to/leemeganj/advanced-nextjs-caching-strategies-akm)
+- [Total Quality Management Framework with AI: Revolutionizing Business Excellence](https://dev.to/ishmam_jahan_4269b6f13ba5/total-quality-management-framework-with-ai-revolutionizing-business-excellence-1ni8)
+- [Bitcoin Trading with Bots: Approaches for Long-Term Profit on CryptoRobotics](https://dev.to/12crypto12/bitcoin-trading-with-bots-approaches-for-long-term-profit-on-cryptorobotics-18e3)
+- [Starting to Rust](https://dev.to/doken/starting-to-rust-a-developers-journey-into-the-rust-language-4k6m)
+- [Ultimate React Interview Study Plan: Your one-stop for your next #React Interview](https://dev.to/mursalfk/ultimate-react-interview-study-plan-your-one-stop-for-your-next-react-interview-59bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
