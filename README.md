@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Highlights from the Umbraco US Festival 2024](https://dev.to/prenders/my-highlights-from-the-umbraco-us-festival-2024-3o37)
-- [GBASE数据库 | GBase 8c Typical Problem Resolution Examples](https://dev.to/congcong/gbaseshu-ju-ku-gbase-8c-typical-problem-resolution-examples-fn2)
-- [Overloading Constructors and Constructor Chaining.](https://dev.to/devmercy/overloading-constructors-and-constructor-chaining-51d5)
-- [Mastering CSS @property Binding: A Guide for Web Developers](https://dev.to/softheartengineer/mastering-css-property-binding-a-guide-for-web-developers-28h6)
-- [COBOL Tutorial Series: Install the DB2 on Windows/Linux - Session 6](https://dev.to/ngtduc693/cobol-tutorial-series-install-the-db2-on-windowslinux-session-6-43ae)
+- [13 PHP Website Examples That Prove PHP Still Dominates](https://dev.to/dhruvil_joshi14/13-php-website-examples-that-prove-php-still-dominates-chi)
+- [Introducing learncreatine.com](https://dev.to/learncreatine/introducing-learncreatinecom-47dd)
+- [Visual Regression Testing Using Playwright](https://dev.to/testifytech/visual-regression-testing-using-playwright-c8l)
+- [Cheaper Distributed Inference Network](https://dev.to/xabri/cheaper-distributed-inference-network-21bf)
+- [Streamlit Part 6: Mastering Layouts](https://dev.to/jamesbmour/streamlit-part-6-mastering-layouts-4hci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
