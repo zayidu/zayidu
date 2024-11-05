@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 JavaScript Libraries &lt;/&gt;](https://dev.to/wicked_sarkar/top-10-javascript-libraries--4j5j)
-- [Top 7 AI Developer Tools in 2024](https://dev.to/julep/top-7-ai-developer-tools-in-2024-2n5i)
-- [Seeking Advice: Navigating Entry-Level Remote Job Opportunities and Skill-Building](https://dev.to/abel5173/seeking-advice-navigating-entry-level-remote-job-opportunities-and-skill-building-1ccn)
-- [UseEffect Behind the scenes in React](https://dev.to/joedev090/useeffect-behind-the-scenes-in-react-3mhb)
-- [How to Publish a Chrome Extension](https://dev.to/techelopment/how-to-publish-a-chrome-extension-3o1k)
+- [AI-Powered Text Analysis Using AWS Comprehend with a Flask Web Interface](https://dev.to/zahraajawad/ai-powered-text-analysis-using-aws-comprehend-with-a-flask-web-interface-51el)
+- [Mastering Recharts: A Comprehensive Guide to Creating Charts in ReactJS](https://dev.to/tahrim_bilal/mastering-recharts-a-comprehensive-guide-to-creating-charts-in-reactjs-671)
+- [What are Recommender Systems and how to use them](https://dev.to/alexia_cismaru_f49ed201c2/what-are-recommender-systems-and-how-to-use-them-16n5)
+- [Investigating the performance of np.einsum](https://dev.to/kylepena/investigating-the-performance-of-npeinsum-22ho)
+- [NodeList vs HTMLCollection: The Difference Between Live and Static Collections](https://dev.to/sonaykara/nodelist-vs-htmlcollection-the-difference-between-live-and-static-collections-27on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
