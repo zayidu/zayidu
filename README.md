@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [System Design 02 - Caching: The Art of Keeping Users Happy Without Breaking a Sweat](https://dev.to/sarvabharan/system-design-02-caching-the-art-of-keeping-users-happy-without-breaking-a-sweat-2d57)
-- [Mastering Automated Image Optimization in Production: A Journey Beyond Uploads](https://dev.to/dailysandbox/mastering-automated-image-optimization-in-production-a-journey-beyond-uploads-4ie0)
-- [Integrating Stencil Web Components in Angular Project](https://dev.to/sudhakar_george_e6d1f136f/integrating-stencil-web-components-in-angular-project-f9b)
-- [MyISAM VS InnoDB](https://dev.to/fernilo/myisam-vs-innodb-55c4)
-- [#89 — Calculate Proportion Using the Aggregation Values of the Data from the Same Group](https://dev.to/judith677/89-calculate-proportion-using-the-aggregation-values-of-the-data-from-the-same-group-307l)
+- [AI Tools Every Developer Should Use for Automation](https://dev.to/viitorcloud/ai-tools-every-developer-should-use-for-automation-231i)
+- [From Beats to Bytes: AI&#39;s Musical Revolution](https://dev.to/iste-vit/from-beats-to-bytes-ais-musical-revolution-egn)
+- [iOS HealthKit Ionic Angular](https://dev.to/luis_diaz_19a878119983392/ios-healthkit-ionic-angular-35lm)
+- [Unison speed test](https://dev.to/tripleo/unison-speed-test-fno)
+- [Why C++ ?](https://dev.to/diwakar_verma_381fc6e5e2f/why-c--16d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
