@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Task Scheduling Reliability: Integrating Arthas for API Monitoring in DolphinScheduler](https://dev.to/chen_debra_3060b21d12b1b0/enhancing-task-scheduling-reliability-integrating-arthas-for-api-monitoring-in-dolphinscheduler-2elh)
-- [✅ 𝗧𝗼𝗽 𝟲 𝗪𝗮𝘆𝘀 𝘁𝗼 𝗜𝗺𝗽𝗿𝗼𝘃𝗲 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞](https://dev.to/apurvupadhyay/-59n3)
-- [Part 4 - Using Cursor and Claude to Create Automated Tests with Playwright](https://dev.to/chiefremote/part-4-using-cursor-and-claude-to-create-automated-tests-with-playwright-2p7j)
-- [Introduction to the event &quot;TinyGo Keeb Tour 2024&quot;](https://dev.to/sago35/introduction-to-the-event-tinygo-keeb-tour-2024-2n0c)
-- [🏗️ Building a Simple Load Balancer with Spring Boot: A Step-by-Step Guide](https://dev.to/sandeepkv93/building-a-simple-load-balancer-with-spring-boot-a-step-by-step-guide-24l3)
+- [Integrating Stencil Web Components in Angular Project](https://dev.to/sudhakar_george_e6d1f136f/integrating-stencil-web-components-in-angular-project-f9b)
+- [MyISAM VS InnoDB](https://dev.to/fernilo/myisam-vs-innodb-55c4)
+- [#89 — Calculate Proportion Using the Aggregation Values of the Data from the Same Group](https://dev.to/judith677/89-calculate-proportion-using-the-aggregation-values-of-the-data-from-the-same-group-307l)
+- [How to Set Up SSH Keys for GitHub on PopOs or Ubuntu: A Beginner&#39;s Guide](https://dev.to/alexandrecalaca/how-to-set-up-ssh-keys-for-github-on-popos-or-ubuntu-a-beginners-guide-2g3m)
+- [Why Every Developer Should Embrace DevOps 🚀](https://dev.to/saif_uddin/why-every-developer-should-embrace-devops-29ee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
