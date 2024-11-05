@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What I learned while building my first game](https://dev.to/aws/what-i-learned-while-building-my-first-game-1li6)
-- [Loop haqida](https://dev.to/munisa_kuranbekova_078e1e/loop-haqida-23ef)
-- [Python Has Types, They Help](https://dev.to/jesterxl/python-has-types-they-help-586n)
-- [🐾 Dog Food Safety Checker – Help Me Make This Open-Source Tool Even Better!](https://dev.to/fayslshehzad/dog-food-safety-checker-help-me-make-this-open-source-tool-even-better-1kkj)
-- [Функция round в C++](https://dev.to/meesmsik/funktsiia-round-v-c-39gl)
+- [C# { get; init; }](https://dev.to/baltasarq/c-get-init--1i18)
+- [9 Open Source Projects Every Developer Needs to Bookmark 📚👨‍💻](https://dev.to/madza/9-open-source-projects-every-developer-needs-to-bookmark-4lk9)
+- [Effortless Markdown From ChatGPT: Supercharge Your Workflow Now](https://dev.to/adi_cohen_6e0b7bbd528660e/effortless-markdown-from-chatgpt-supercharge-your-workflow-now-4k4m)
+- [Hexagonal Architecture](https://dev.to/brunociccarino/hexagonal-architecture-1lal)
+- [Another One in - Back to Basics ♻️ - ⬆️Arrow⬇️ Functions in Js](https://dev.to/rameshpvr/another-one-in-back-to-basics-arrow-functions-in-js-2750)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
