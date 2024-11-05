@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Text Analysis Using AWS Comprehend with a Flask Web Interface](https://dev.to/zahraajawad/ai-powered-text-analysis-using-aws-comprehend-with-a-flask-web-interface-51el)
-- [Mastering Recharts: A Comprehensive Guide to Creating Charts in ReactJS](https://dev.to/tahrim_bilal/mastering-recharts-a-comprehensive-guide-to-creating-charts-in-reactjs-671)
-- [What are Recommender Systems and how to use them](https://dev.to/alexia_cismaru_f49ed201c2/what-are-recommender-systems-and-how-to-use-them-16n5)
-- [Investigating the performance of np.einsum](https://dev.to/kylepena/investigating-the-performance-of-npeinsum-22ho)
-- [NodeList vs HTMLCollection: The Difference Between Live and Static Collections](https://dev.to/sonaykara/nodelist-vs-htmlcollection-the-difference-between-live-and-static-collections-27on)
+- [Microservices Design Patterns: Navigating Challenges in Modern Architecture🚀](https://dev.to/cortexflow/microservices-design-patterns-navigating-challenges-in-modern-architecture-5hfe)
+- [Go pipelines with Raku interfaces](https://dev.to/melezhik/go-pipelines-with-raku-interfaces-j7o)
+- [My Notes on React](https://dev.to/ganesshkumar/my-notes-on-react-1nji)
+- [🚀 Navigating the Interview Experience: A Guide to Confidence and Authenticity 🤝](https://dev.to/karanjot_singh_ji/navigating-the-interview-experience-a-guide-to-confidence-and-authenticity-10bh)
+- [Here’s a brief guide on creating a virtual machine using the Azure portal: Creating a Virtual Machine in Azure Portal](https://dev.to/busa/heres-a-brief-guide-on-creating-a-virtual-machine-using-the-azure-portalcreating-a-virtual-machine-in-azure-portal-4c83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
