@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and Machine Learning: The Powerhouse of the Future Software Industry](https://dev.to/bh-yogendra/ai-and-machine-learning-the-powerhouse-of-the-future-software-industry-2p82)
-- [GitHub Actions: Quickstart-Guide for every Developer!🚀](https://dev.to/webdeasy/github-actions-quickstart-guide-for-every-developer-4a99)
-- [Introduction to Cargo and cargo.toml](https://dev.to/alexmercedcoder/introduction-to-cargo-and-cargotoml-2l86)
-- [Step-by-step guide to containerize your full-stack MERN application, using Docker Compose.](https://dev.to/uwadon1/step-by-step-guide-to-containerize-your-full-stack-mern-application-using-docker-compose-3a8f)
-- [Technical writing road map](https://dev.to/sandeep_a67a84444cb5f3f6f/technical-writing-road-map-19ml)
+- [useLayoutEffect vs useEffect: A Practical Guide to React Side Effects](https://dev.to/codeparrot/uselayouteffect-vs-useeffect-a-practical-guide-to-react-side-effects-478o)
+- [Deploying a MERN Project to Vercel: Frontend and Backend Separately](https://dev.to/mutalibb/deploying-a-mern-project-to-vercel-frontend-and-backend-separately-3hf0)
+- [Spinners in iOS 18 - #30DaysOfSwift](https://dev.to/thevediwho/spinners-in-ios-18-30daysofswift-21ob)
+- [Day 57. Replies](https://dev.to/kiolk/day-57-replies-4jd5)
+- [Zero-Downtime Blue-Green Deployment with a Simple &#39;git pull &amp; bash run.sh&#39; Command](https://dev.to/andrewkangg/zero-downtime-blue-green-deployment-with-a-simple-git-pull-bash-runsh-command-2k82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
