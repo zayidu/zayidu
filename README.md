@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding merge sort algorithm: Beginner&#39;s guide to mastering sorting algorithm](https://dev.to/emmanuelayinde/understanding-merge-sort-algorithm-beginners-guide-to-mastering-sorting-algorithm-2jp8)
-- [🚀 5 Browser Extensions That Will Boost Your Development](https://dev.to/yanaiara/5-browser-extensions-that-will-boost-your-development-173n)
-- [Crafting a Scalable Node.js API: Insights from My RealWorld Project with Express, Knex, and AWS CDK](https://dev.to/ken2026/crafting-a-scalable-nodejs-api-insights-from-my-realworld-project-with-express-knex-and-aws-cdk-4ol5)
-- [Jakarta EE, Java &amp; Jboss compatibility.](https://dev.to/soniya_chavan_f9c975382fe/jakarta-ee-java-jboss-compatibility-4obo)
-- [Leveraging Python&#39;s Pattern Matching and Comprehensions for Data Analytics](https://dev.to/alexmercedcoder/leveraging-pythons-pattern-matching-and-comprehensions-for-data-analytics-445j)
+- [Handling Errors and Job Lifecycles in Rails 7.1: Master ActiveJob with `retry_on`, `discard_on`, and `after_discard`](https://dev.to/shahzaib/handling-errors-and-job-lifecycles-in-rails-71-master-activejob-with-retryon-discardon-and-afterdiscard-5b4b)
+- [Api Hub](https://dev.to/acaplah_ea3b6b9833f15931c/api-hub-3880)
+- [Day 1052 : Finally](https://dev.to/dwane/day-1052-finally-301c)
+- [How to insert elments using Javascript](https://dev.to/tanjiagang/how-to-insert-elments-using-javascript-12nl)
+- [How I Improved Video Streaming with FFmpeg and Node.js](https://dev.to/mayallo/how-i-improved-video-streaming-with-ffmpeg-and-nodejs-52lj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
