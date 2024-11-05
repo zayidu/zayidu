@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [System Design 02 - Caching: The Art of Keeping Users Happy Without Breaking a Sweat](https://dev.to/sarvabharan/system-design-02-caching-the-art-of-keeping-users-happy-without-breaking-a-sweat-2d57)
+- [Mastering Automated Image Optimization in Production: A Journey Beyond Uploads](https://dev.to/dailysandbox/mastering-automated-image-optimization-in-production-a-journey-beyond-uploads-4ie0)
 - [Integrating Stencil Web Components in Angular Project](https://dev.to/sudhakar_george_e6d1f136f/integrating-stencil-web-components-in-angular-project-f9b)
 - [MyISAM VS InnoDB](https://dev.to/fernilo/myisam-vs-innodb-55c4)
 - [#89 — Calculate Proportion Using the Aggregation Values of the Data from the Same Group](https://dev.to/judith677/89-calculate-proportion-using-the-aggregation-values-of-the-data-from-the-same-group-307l)
-- [How to Set Up SSH Keys for GitHub on PopOs or Ubuntu: A Beginner&#39;s Guide](https://dev.to/alexandrecalaca/how-to-set-up-ssh-keys-for-github-on-popos-or-ubuntu-a-beginners-guide-2g3m)
-- [Why Every Developer Should Embrace DevOps 🚀](https://dev.to/saif_uddin/why-every-developer-should-embrace-devops-29ee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
