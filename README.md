@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# { get; init; }](https://dev.to/baltasarq/c-get-init--1i18)
-- [9 Open Source Projects Every Developer Needs to Bookmark 📚👨‍💻](https://dev.to/madza/9-open-source-projects-every-developer-needs-to-bookmark-4lk9)
-- [Effortless Markdown From ChatGPT: Supercharge Your Workflow Now](https://dev.to/adi_cohen_6e0b7bbd528660e/effortless-markdown-from-chatgpt-supercharge-your-workflow-now-4k4m)
-- [Hexagonal Architecture](https://dev.to/brunociccarino/hexagonal-architecture-1lal)
-- [Another One in - Back to Basics ♻️ - ⬆️Arrow⬇️ Functions in Js](https://dev.to/rameshpvr/another-one-in-back-to-basics-arrow-functions-in-js-2750)
+- [Why jQuery 4 is a good reminder to stop using jQuery](https://dev.to/logrocket/why-jquery-4-is-a-good-reminder-to-stop-using-jquery-59f1)
+- [Understanding Mental Health: Building Awareness, Breaking Stigmas, and Supporting Well-being](https://dev.to/laurasmith/understanding-mental-health-building-awareness-breaking-stigmas-and-supporting-well-being-2a5)
+- [Kong Admin API for PHP: A Framework-Agnostic Client for Seamless Kong Gateway Management](https://dev.to/nasrulhazim/kong-admin-api-for-php-a-framework-agnostic-client-for-seamless-kong-gateway-management-282l)
+- [How to expand the IO number for programmble controller using the self-defined communication protocol](https://dev.to/zhangzhuyue/how-to-expand-the-io-number-for-programmble-controller-using-the-self-defined-communication-protocol-4p89)
+- [🎨 Top CSS Libraries for Rapid Web Development in 2025](https://dev.to/anticoder03/top-css-libraries-for-rapid-web-development-in-2024-1dko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
