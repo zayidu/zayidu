@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Tools Every Developer Should Use for Automation](https://dev.to/viitorcloud/ai-tools-every-developer-should-use-for-automation-231i)
-- [From Beats to Bytes: AI&#39;s Musical Revolution](https://dev.to/iste-vit/from-beats-to-bytes-ais-musical-revolution-egn)
-- [iOS HealthKit Ionic Angular](https://dev.to/luis_diaz_19a878119983392/ios-healthkit-ionic-angular-35lm)
-- [Unison speed test](https://dev.to/tripleo/unison-speed-test-fno)
-- [Why C++ ?](https://dev.to/diwakar_verma_381fc6e5e2f/why-c--16d6)
+- [4 stages of Automata theory](https://dev.to/fazly_fathhy/4-stages-of-automata-theory-1k3p)
+- [Beyond the Façade: How Surveyors Uncover the Hidden Realities of Property](https://dev.to/prowleandcobuildingsurveyors/beyond-the-facade-how-surveyors-uncover-the-hidden-realities-of-property-3ac2)
+- [Find your Location With Javascript](https://dev.to/sadiqshah786/find-your-location-with-javascript-1lok)
+- [Need help in running test cases in parallel](https://dev.to/jayesh_warke_838752855848/need-help-in-running-test-cases-in-parallel-5c44)
+- [ELSE IF](https://dev.to/madina1575/else-if-4h65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
