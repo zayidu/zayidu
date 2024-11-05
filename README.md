@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Errors and Job Lifecycles in Rails 7.1: Master ActiveJob with `retry_on`, `discard_on`, and `after_discard`](https://dev.to/shahzaib/handling-errors-and-job-lifecycles-in-rails-71-master-activejob-with-retryon-discardon-and-afterdiscard-5b4b)
-- [Api Hub](https://dev.to/acaplah_ea3b6b9833f15931c/api-hub-3880)
-- [Day 1052 : Finally](https://dev.to/dwane/day-1052-finally-301c)
-- [How to insert elments using Javascript](https://dev.to/tanjiagang/how-to-insert-elments-using-javascript-12nl)
-- [How I Improved Video Streaming with FFmpeg and Node.js](https://dev.to/mayallo/how-i-improved-video-streaming-with-ffmpeg-and-nodejs-52lj)
+- [Enhancing Task Scheduling Reliability: Integrating Arthas for API Monitoring in DolphinScheduler](https://dev.to/chen_debra_3060b21d12b1b0/enhancing-task-scheduling-reliability-integrating-arthas-for-api-monitoring-in-dolphinscheduler-2elh)
+- [✅ 𝗧𝗼𝗽 𝟲 𝗪𝗮𝘆𝘀 𝘁𝗼 𝗜𝗺𝗽𝗿𝗼𝘃𝗲 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞](https://dev.to/apurvupadhyay/-59n3)
+- [Part 4 - Using Cursor and Claude to Create Automated Tests with Playwright](https://dev.to/chiefremote/part-4-using-cursor-and-claude-to-create-automated-tests-with-playwright-2p7j)
+- [Introduction to the event &quot;TinyGo Keeb Tour 2024&quot;](https://dev.to/sago35/introduction-to-the-event-tinygo-keeb-tour-2024-2n0c)
+- [🏗️ Building a Simple Load Balancer with Spring Boot: A Step-by-Step Guide](https://dev.to/sandeepkv93/building-a-simple-load-balancer-with-spring-boot-a-step-by-step-guide-24l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
