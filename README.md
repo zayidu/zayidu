@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [EchoAPI vs. Insomnia: A Comparative Analysis for API Development](https://dev.to/philip_zhang_854092d88473/echoapi-vs-insomnia-a-comparative-analysis-for-api-development-3g58)
-- [Technical Writing Journeys: Share Your Path to Success!](https://dev.to/vignesh_j/technical-writing-journeys-share-your-path-to-success-3lk6)
-- [What is a Reverse Proxy? How It Works and Why You Need It](https://dev.to/marsproxies/what-is-a-reverse-proxy-how-it-works-and-why-you-need-it-4n1f)
-- [11 GitHub Repositories to learn NodeJs](https://dev.to/safdarali/11-github-repositories-to-learn-nodejs-4mn7)
-- [Creating and Using Python Virtual Environments](https://dev.to/dev_neil_a/creating-and-using-python-virtual-environments-dc5)
+- [What I learned while building my first game](https://dev.to/aws/what-i-learned-while-building-my-first-game-1li6)
+- [Loop haqida](https://dev.to/munisa_kuranbekova_078e1e/loop-haqida-23ef)
+- [Python Has Types, They Help](https://dev.to/jesterxl/python-has-types-they-help-586n)
+- [🐾 Dog Food Safety Checker – Help Me Make This Open-Source Tool Even Better!](https://dev.to/fayslshehzad/dog-food-safety-checker-help-me-make-this-open-source-tool-even-better-1kkj)
+- [Функция round в C++](https://dev.to/meesmsik/funktsiia-round-v-c-39gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
