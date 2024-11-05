@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kickstart Your Web Development Journey with Django: A Complete Guide](https://dev.to/snapnews/kickstart-your-web-development-journey-with-django-a-complete-guide-3eb2)
-- [Unlock Tailored Newsletters: Discover AI Services for Personalized Content Delivery](https://dev.to/snapnews/unlock-tailored-newsletters-discover-ai-services-for-personalized-content-delivery-3jdb)
-- [Remote Work: A Blend of Challenges and Opportunities](https://dev.to/shinetechsoftwareinc/remote-work-a-blend-of-challenges-and-opportunities-am0)
-- [Day 26: Learning Rate Schedules](https://dev.to/nareshnishad/day-26-learning-rate-schedules-3922)
-- [Understanding APIs and Building Your Own 🚀](https://dev.to/lokesh_singh/from-zero-to-hero-understanding-apis-and-building-your-own-2ihf)
+- [My Highlights from the Umbraco US Festival 2024](https://dev.to/prenders/my-highlights-from-the-umbraco-us-festival-2024-3o37)
+- [GBASE数据库 | GBase 8c Typical Problem Resolution Examples](https://dev.to/congcong/gbaseshu-ju-ku-gbase-8c-typical-problem-resolution-examples-fn2)
+- [Overloading Constructors and Constructor Chaining.](https://dev.to/devmercy/overloading-constructors-and-constructor-chaining-51d5)
+- [Mastering CSS @property Binding: A Guide for Web Developers](https://dev.to/softheartengineer/mastering-css-property-binding-a-guide-for-web-developers-28h6)
+- [COBOL Tutorial Series: Install the DB2 on Windows/Linux - Session 6](https://dev.to/ngtduc693/cobol-tutorial-series-install-the-db2-on-windowslinux-session-6-43ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
