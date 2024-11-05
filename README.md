@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microservices Design Patterns: Navigating Challenges in Modern Architecture🚀](https://dev.to/cortexflow/microservices-design-patterns-navigating-challenges-in-modern-architecture-5hfe)
-- [Go pipelines with Raku interfaces](https://dev.to/melezhik/go-pipelines-with-raku-interfaces-j7o)
-- [My Notes on React](https://dev.to/ganesshkumar/my-notes-on-react-1nji)
-- [🚀 Navigating the Interview Experience: A Guide to Confidence and Authenticity 🤝](https://dev.to/karanjot_singh_ji/navigating-the-interview-experience-a-guide-to-confidence-and-authenticity-10bh)
-- [Here’s a brief guide on creating a virtual machine using the Azure portal: Creating a Virtual Machine in Azure Portal](https://dev.to/busa/heres-a-brief-guide-on-creating-a-virtual-machine-using-the-azure-portalcreating-a-virtual-machine-in-azure-portal-4c83)
+- [Modifiers And Encapsulation In Java](https://dev.to/thandhla/modifiers-and-encapsulation-in-java-2a0l)
+- [Managing Google Workspace Part 3: MDM Basics, Vault, Reporting and Domains](https://dev.to/andrew_despres/managing-google-workspace-part-3-mdm-basics-vault-reporting-and-domains-bki)
+- [Sort Items in a Directory by Descending Size Using Python, PowerShell, C#, or Go](https://dev.to/alexiskypridemos/sort-items-in-a-directory-by-descending-size-using-python-powershell-c-or-go-17g6)
+- [The Legend of the 10x Developer: Separating Myth from Reality](https://dev.to/joel_onyedika_1acbb728ee1/the-legend-of-the-10x-developer-separating-myth-from-reality-1i6h)
+- [Adding a data disc to a windows VM](https://dev.to/afeez_adeyemo/adding-a-data-disc-to-a-windows-vm-2n8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
