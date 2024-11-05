@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Action Cable with Your Main PostgreSQL Database](https://dev.to/railsdesigner/use-action-cable-with-your-main-postgresql-database-30n5)
-- [How to Get a Job in JavaScript](https://dev.to/abhisheks_words/how-to-get-a-job-in-javascript-264k)
-- [Beyond Automation: How AI is Redefining the Role of QA in Software Development](https://dev.to/shashank_arora_ad9ae67d54/beyond-automation-how-ai-is-redefining-the-role-of-qa-in-software-development-246e)
-- [Top 10 MLOps Tools for 2025](https://dev.to/yayabobi/top-10-mlops-tools-for-2025-43g2)
-- [Laravel VS Symfony: The PHP Framework Showdown](https://dev.to/varzoeaa/laravel-vs-symfony-the-php-framework-showdown-269j)
+- [Top 10 JavaScript Libraries &lt;/&gt;](https://dev.to/wicked_sarkar/top-10-javascript-libraries--4j5j)
+- [Top 7 AI Developer Tools in 2024](https://dev.to/julep/top-7-ai-developer-tools-in-2024-2n5i)
+- [Seeking Advice: Navigating Entry-Level Remote Job Opportunities and Skill-Building](https://dev.to/abel5173/seeking-advice-navigating-entry-level-remote-job-opportunities-and-skill-building-1ccn)
+- [UseEffect Behind the scenes in React](https://dev.to/joedev090/useeffect-behind-the-scenes-in-react-3mhb)
+- [How to Publish a Chrome Extension](https://dev.to/techelopment/how-to-publish-a-chrome-extension-3o1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
