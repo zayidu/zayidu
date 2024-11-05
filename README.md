@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [4 stages of Automata theory](https://dev.to/fazly_fathhy/4-stages-of-automata-theory-1k3p)
-- [Beyond the Façade: How Surveyors Uncover the Hidden Realities of Property](https://dev.to/prowleandcobuildingsurveyors/beyond-the-facade-how-surveyors-uncover-the-hidden-realities-of-property-3ac2)
-- [Find your Location With Javascript](https://dev.to/sadiqshah786/find-your-location-with-javascript-1lok)
-- [Need help in running test cases in parallel](https://dev.to/jayesh_warke_838752855848/need-help-in-running-test-cases-in-parallel-5c44)
-- [ELSE IF](https://dev.to/madina1575/else-if-4h65)
+- [Understanding Event-Driven Architecture in C# with Real-Life Scenarios](https://dev.to/iamcymentho/understanding-event-driven-architecture-in-c-with-real-life-scenarios-4h7g)
+- [Query DynamoDB with SQL using Athena - Leveraging DynamoDB Exports to S3 &lpar;1/2&rpar;](https://dev.to/serverlessl/query-dynamodb-with-sql-using-athena-leveraging-dynamodb-exports-to-s3-12-3n5c)
+- [Как бесплатно зайти в разработку](https://dev.to/maximthomas/kak-biesplatno-zaiti-v-razrabotku-255e)
+- [How to Set Up Postgres Using Docker](https://dev.to/bytebase/how-to-set-up-postgres-using-docker-c1d)
+- [Here’s how Lobechat applies typesafety to its environment variables in Next app](https://dev.to/thinkthroo/heres-how-lobechat-applies-typesafety-to-its-environment-variables-in-next-app-230m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
