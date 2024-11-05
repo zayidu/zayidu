@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why jQuery 4 is a good reminder to stop using jQuery](https://dev.to/logrocket/why-jquery-4-is-a-good-reminder-to-stop-using-jquery-59f1)
-- [Understanding Mental Health: Building Awareness, Breaking Stigmas, and Supporting Well-being](https://dev.to/laurasmith/understanding-mental-health-building-awareness-breaking-stigmas-and-supporting-well-being-2a5)
-- [Kong Admin API for PHP: A Framework-Agnostic Client for Seamless Kong Gateway Management](https://dev.to/nasrulhazim/kong-admin-api-for-php-a-framework-agnostic-client-for-seamless-kong-gateway-management-282l)
-- [How to expand the IO number for programmble controller using the self-defined communication protocol](https://dev.to/zhangzhuyue/how-to-expand-the-io-number-for-programmble-controller-using-the-self-defined-communication-protocol-4p89)
-- [🎨 Top CSS Libraries for Rapid Web Development in 2025](https://dev.to/anticoder03/top-css-libraries-for-rapid-web-development-in-2024-1dko)
+- [AI and Machine Learning: The Powerhouse of the Future Software Industry](https://dev.to/bh-yogendra/ai-and-machine-learning-the-powerhouse-of-the-future-software-industry-2p82)
+- [GitHub Actions: Quickstart-Guide for every Developer!🚀](https://dev.to/webdeasy/github-actions-quickstart-guide-for-every-developer-4a99)
+- [Introduction to Cargo and cargo.toml](https://dev.to/alexmercedcoder/introduction-to-cargo-and-cargotoml-2l86)
+- [Step-by-step guide to containerize your full-stack MERN application, using Docker Compose.](https://dev.to/uwadon1/step-by-step-guide-to-containerize-your-full-stack-mern-application-using-docker-compose-3a8f)
+- [Technical writing road map](https://dev.to/sandeep_a67a84444cb5f3f6f/technical-writing-road-map-19ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
