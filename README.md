@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Event-Driven Architecture in C# with Real-Life Scenarios](https://dev.to/iamcymentho/understanding-event-driven-architecture-in-c-with-real-life-scenarios-4h7g)
-- [Query DynamoDB with SQL using Athena - Leveraging DynamoDB Exports to S3 &lpar;1/2&rpar;](https://dev.to/serverlessl/query-dynamodb-with-sql-using-athena-leveraging-dynamodb-exports-to-s3-12-3n5c)
-- [Как бесплатно зайти в разработку](https://dev.to/maximthomas/kak-biesplatno-zaiti-v-razrabotku-255e)
-- [How to Set Up Postgres Using Docker](https://dev.to/bytebase/how-to-set-up-postgres-using-docker-c1d)
-- [Here’s how Lobechat applies typesafety to its environment variables in Next app](https://dev.to/thinkthroo/heres-how-lobechat-applies-typesafety-to-its-environment-variables-in-next-app-230m)
+- [Next.js 15 Deep Dive: Building a Notes App with Advanced Features](https://dev.to/stormsidali2001/nextjs-15-deep-dive-building-a-notes-app-with-advanced-features-k0h)
+- [Accuracy in Machine Learning: How Much Does It Matter?](https://dev.to/bikashdaga/accuracy-in-machine-learning-how-much-does-it-matter-1gij)
+- [Unwrapping JavaScript ES2024: Key Features Every Developer Should Know](https://dev.to/hkp22/unwrapping-javascript-es2024-key-features-every-developer-should-know-46c8)
+- [Developers Are The Gatekeepers](https://dev.to/polipo_gio/developers-are-the-gatekeepers-58bg)
+- [Understanding SQL Subqueries and Common Table Expressions &lpar;CTEs&rpar;](https://dev.to/moh_moh701/understanding-sql-subqueries-and-common-table-expressions-ctes-4ghb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
