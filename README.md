@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 15 Deep Dive: Building a Notes App with Advanced Features](https://dev.to/stormsidali2001/nextjs-15-deep-dive-building-a-notes-app-with-advanced-features-k0h)
-- [Accuracy in Machine Learning: How Much Does It Matter?](https://dev.to/bikashdaga/accuracy-in-machine-learning-how-much-does-it-matter-1gij)
-- [Unwrapping JavaScript ES2024: Key Features Every Developer Should Know](https://dev.to/hkp22/unwrapping-javascript-es2024-key-features-every-developer-should-know-46c8)
-- [Developers Are The Gatekeepers](https://dev.to/polipo_gio/developers-are-the-gatekeepers-58bg)
-- [Understanding SQL Subqueries and Common Table Expressions &lpar;CTEs&rpar;](https://dev.to/moh_moh701/understanding-sql-subqueries-and-common-table-expressions-ctes-4ghb)
+- [Kickstart Your Web Development Journey with Django: A Complete Guide](https://dev.to/snapnews/kickstart-your-web-development-journey-with-django-a-complete-guide-3eb2)
+- [Unlock Tailored Newsletters: Discover AI Services for Personalized Content Delivery](https://dev.to/snapnews/unlock-tailored-newsletters-discover-ai-services-for-personalized-content-delivery-3jdb)
+- [Remote Work: A Blend of Challenges and Opportunities](https://dev.to/shinetechsoftwareinc/remote-work-a-blend-of-challenges-and-opportunities-am0)
+- [Day 26: Learning Rate Schedules](https://dev.to/nareshnishad/day-26-learning-rate-schedules-3922)
+- [Understanding APIs and Building Your Own 🚀](https://dev.to/lokesh_singh/from-zero-to-hero-understanding-apis-and-building-your-own-2ihf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
