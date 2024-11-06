@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Patterns: Adapter - using GoLang](https://dev.to/jayaprasanna_roddam/design-patterns-adapter-using-golang-9pl)
-- [🚨 Made a LIVE 2024 election counter! Enjoy](https://dev.to/asadk/made-a-live-2024-election-counter-enjoy-1do0)
-- [Unflatten in PyTorch](https://dev.to/hyperkai/unflatten-in-pytorch-3i7g)
-- [Project 3](https://dev.to/paperdrago/project-3-39kf)
-- [Os Profissionais Invisíveis: A Nova Força Silenciosa no Mundo Corporativo](https://dev.to/jandersonsiqueira/os-profissionais-invisiveis-a-nova-forca-silenciosa-no-mundo-corporativo-1hac)
+- [error Command &quot;webpack&quot; not found](https://dev.to/alexandrecalaca/error-command-webpack-not-found-bpf)
+- [Facade Pattern no Angular](https://dev.to/mateus_oliveira_101fe5ee3/facade-pattern-no-angular-479l)
+- [Guide to Writing Security Technology Blog Articles](https://dev.to/tecno-security/guide-to-writing-security-technology-blog-articles-27f3)
+- [RAG Chatbot with Amazon Bedrock &amp; LangChain: A Powerful Combination Understanding the Components](https://dev.to/jhparmar/rag-chatbot-with-amazon-bedrock-langchain-a-powerful-combinationunderstanding-the-components-3gmb)
+- [Creating AWS layer with Docker.](https://dev.to/franmartinezsimi/creating-aws-layer-with-docker-j7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
