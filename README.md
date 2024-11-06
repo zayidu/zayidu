@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python for DevOps: A Comprehensive Guide from Beginner to Advanced](https://dev.to/prodevopsguytech/python-for-devops-a-comprehensive-guide-from-beginner-to-advanced-2pmm)
-- [My journey of open-sourcing 2024](https://dev.to/priyanshuverma/my-journey-of-open-sourcing-2024-53f4)
-- [📚 2 Books Junior Engineers Should Read](https://dev.to/sammytran/2-books-junior-engineers-should-read-5f4l)
-- [🚀 12 Dev Tools + Gen Z UX Secrets + CSS Animations &lpar;5-min read&rpar;](https://dev.to/adam/12-dev-tools-gen-z-ux-secrets-css-animations-5-min-read-3p0l)
-- [Project Blog : Intelligent Writing Assistant](https://dev.to/robertpaschal/project-blog-intelligent-writing-assistant-5cbo)
+- [Implement reCAPTCHA in htmx + expressjs](https://dev.to/kasir-barati/implement-recaptcha-in-htmx-expressjs-4k1l)
+- [📱 Is Flutter Dead?](https://dev.to/hamzakhan/is-flutter-dead-1242)
+- [Django Day DK 2024: I was there](https://dev.to/dag7dev/django-day-dk-2024-i-was-there-1faf)
+- [🔒 Exploring the Singleton Design Pattern in Ruby](https://dev.to/davidmrtz-dev/exploring-the-singleton-design-pattern-in-ruby-42o2)
+- [Medium: is it worth your time and effort?](https://dev.to/dag7dev/medium-is-it-worth-your-time-and-effort-1njm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
