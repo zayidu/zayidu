@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VACUUM In Postgres Demystified](https://dev.to/metis/vacuum-in-postgres-demystified-2pp1)
-- [Codemotion 2024 Milan: Rediscovering My Voice and Passion as a Speaker](https://dev.to/this-is-learning/codemotion-2024-milan-rediscovering-my-voice-and-passion-as-a-speaker-171o)
-- [How to Design a Tangram Puzzle Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-tangram-puzzle-using-3d-cad-software-4iak)
-- [Best IDEs for Node.js Development in 2025](https://dev.to/prashantpujara/best-ides-for-nodejs-development-in-2025-1k0e)
-- [CSS: masonry layout](https://dev.to/hreuven/css-masonry-layout-1jff)
+- [How to Design a Spiral Lampshade Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-spiral-lampshade-using-3d-cad-software-1aae)
+- [Enhanced CLI Capabilities in NestJS Boilerplate](https://dev.to/rodik/enhanced-cli-capabilities-in-nestjs-boilerplate-59jc)
+- [How to Install Minikube on Ubuntu Virtual Machine?](https://dev.to/nodeshiftcloud/how-to-install-minikube-on-ubuntu-virtual-machine-207e)
+- [Methodical Naming in React: How It Improves Code Organization](https://dev.to/khaled17/methodical-naming-in-react-how-it-improves-code-organization-8dp)
+- [📚 Introduction to Angular Documentation](https://dev.to/itamartati/introduction-to-angular-documentation-2hn6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
