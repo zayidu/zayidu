@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CS50&#39;s Introduction to Computer Science - Week 1 / Notes](https://dev.to/dmytro_lobanov/cs50s-introduction-to-computer-science-week-1-notes-3k15)
-- [How AI is Transforming Wireframing and Prototyping](https://dev.to/shtefcs/how-ai-is-transforming-wireframing-and-prototyping-4pc9)
-- [Learn Typography and change the way you design](https://dev.to/paul_freeman/learn-typography-and-change-the-way-you-design-3714)
-- [📈 Making Your GitHub Repository Stand Out With 12 Easy Steps!](https://dev.to/kosa12/making-your-github-repository-stand-out-5gef)
-- [The 2024 DORA Report: State of DevOps Breakdown Summary](https://dev.to/middleware/the-2024-dora-report-state-of-devops-breakdown-summary-36k8)
+- [Setting Up CI/CD for Node.js with GitHub Actions](https://dev.to/basanta/setting-up-cicd-for-nodejs-with-github-actions-59e9)
+- [Understanding the MVC Pattern with Node.js](https://dev.to/abhishekjaiswal_4896/understanding-the-mvc-pattern-with-nodejs-1fpg)
+- [Doc Sage🧙‍♂️- Create a Smart RAG App with LangChain and Streamlit](https://dev.to/ngonidzashe/doc-sage-create-a-smart-rag-app-with-langchain-and-streamlit-4lin)
+- [Creating ASCII Art with Python: A Fun Guide to Text Transformations](https://dev.to/mitiahiers/creating-ascii-art-with-python-a-fun-guide-to-text-transformations-4f94)
+- [Building Scalable Software for Transport and Logistics](https://dev.to/octorcat_super_dev/building-scalable-software-for-transport-and-logistics-2bb9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
