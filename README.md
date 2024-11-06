@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shopee Data Scraping- Complete Guide](https://dev.to/syphoon_ef9378/shopee-data-scraping-complete-guide-4fab)
-- [Day 6: Variables and Data Types | 100 Days Python](https://dev.to/abdulla783/day-6-variables-and-data-types-100-days-python-2o6g)
-- [JavaScript Memory Management and Optimization Techniques for Large-Scale Applications](https://dev.to/shafayeat/javascript-memory-management-and-optimization-techniques-for-large-scale-applications-5e4a)
-- [The Benefits of Big-Endian CPU Architecture Over Little-Endian Systems](https://dev.to/adityabhuyan/the-benefits-of-big-endian-cpu-architecture-over-little-endian-systems-19ac)
-- [Python Control Flow: If, Elif, Else, and Loops Without Going Loopy](https://dev.to/aishwarya_raj_978520e6399/python-control-flow-if-elif-else-and-loops-without-going-loopy-2hk6)
+- [Welcome Thread - v301](https://dev.to/devteam/welcome-thread-v301-3eom)
+- [Finding Minimum and Maximum Values in an Array: Effective Approaches with Java Programming](https://dev.to/dhanush9952/finding-minimum-and-maximum-values-in-an-array-effective-approaches-with-java-programming-39dp)
+- [Web Development in Docker Containers Using Express.js](https://dev.to/optiwariindia/web-development-in-docker-containers-using-expressjs-3k3l)
+- [Angular 19 - Streamlining Data Retrieval with Experimental Resource and rxResource APIs](https://dev.to/this-is-angular/angular-19-streamlining-data-retrieval-with-resource-and-rxresource-apis-3lb2)
+- [Of Course I Need Fun Routes! 🌈](https://dev.to/annavi11arrea1/of-course-i-need-fun-routes-48fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
