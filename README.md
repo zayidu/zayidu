@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dica C#: Nomeação de Variáveis e Métodos](https://dev.to/juarezasjunior/dica-c-nomeacao-de-variaveis-e-metodos-11p0)
-- [C# Tip: Naming Variables and Methods](https://dev.to/juarezasjunior/c-tip-naming-variables-and-methods-4hl8)
-- [Building Structured Workflows with Tools and Functions in LangGraph](https://dev.to/airabbit/building-structured-workflows-with-tools-and-functions-in-langgraph-3l6j)
-- [How EchoAPI Simplifies Multi-Environment Testing for APIs](https://dev.to/patrick_61cbc6392b72286f6/how-echoapi-simplifies-multi-environment-testing-for-apis-2c5p)
-- [JavaScript Developers Just Learned They Can Use debugger Instead of console.log&lpar;&rpar;](https://dev.to/safdarali/javascript-developers-just-learned-they-can-use-debugger-instead-of-consolelog-4c61)
+- [CS50&#39;s Introduction to Computer Science - Week 1 / Notes](https://dev.to/dmytro_lobanov/cs50s-introduction-to-computer-science-week-1-notes-3k15)
+- [How AI is Transforming Wireframing and Prototyping](https://dev.to/shtefcs/how-ai-is-transforming-wireframing-and-prototyping-4pc9)
+- [Learn Typography and change the way you design](https://dev.to/paul_freeman/learn-typography-and-change-the-way-you-design-3714)
+- [📈 Making Your GitHub Repository Stand Out With 12 Easy Steps!](https://dev.to/kosa12/making-your-github-repository-stand-out-5gef)
+- [The 2024 DORA Report: State of DevOps Breakdown Summary](https://dev.to/middleware/the-2024-dora-report-state-of-devops-breakdown-summary-36k8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
