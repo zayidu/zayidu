@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement SEO in Next.js?](https://dev.to/visavadiyavrushik/how-to-implement-seo-in-nextjs-g6f)
-- [¿Cómo calcular el máximo y mínimo en Java usando Streams?](https://dev.to/asjordi/como-calcular-el-maximo-y-minimo-en-java-usando-streams-2fca)
-- [Formatting and Linting for consistency](https://dev.to/cleobnvntra/formatting-and-linting-for-consistency-1hpl)
-- [How to build a website using React and Rest APIs &lpar;React basics explained&rpar;](https://dev.to/alexia_cismaru_f49ed201c2/how-to-build-a-website-using-react-and-rest-apis-react-basics-explained-5bf9)
-- [Why the negative voltage with respect to E pole is needed for IGBT driving](https://dev.to/zhangzhuyue/why-the-negative-voltage-with-respect-to-e-pole-is-needed-for-igbt-driving-4ba2)
+- [Python for DevOps: A Comprehensive Guide from Beginner to Advanced](https://dev.to/prodevopsguytech/python-for-devops-a-comprehensive-guide-from-beginner-to-advanced-2pmm)
+- [My journey of open-sourcing 2024](https://dev.to/priyanshuverma/my-journey-of-open-sourcing-2024-53f4)
+- [📚 2 Books Junior Engineers Should Read](https://dev.to/sammytran/2-books-junior-engineers-should-read-5f4l)
+- [🚀 12 Dev Tools + Gen Z UX Secrets + CSS Animations &lpar;5-min read&rpar;](https://dev.to/adam/12-dev-tools-gen-z-ux-secrets-css-animations-5-min-read-3p0l)
+- [Project Blog : Intelligent Writing Assistant](https://dev.to/robertpaschal/project-blog-intelligent-writing-assistant-5cbo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
