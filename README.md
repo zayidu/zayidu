@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating BleuIO with Adafruit Feather RP2040 for Seamless BLE Applications Part 2](https://dev.to/bleuiot/integrating-bleuio-with-adafruit-feather-rp2040-for-seamless-ble-applications-part-2-1o1e)
-- [Can&#39;t find a permissible class errors only after building Spring Boot project](https://dev.to/emine_tekcan_9628ffbf4770/cant-find-a-permissible-class-errors-only-after-building-spring-boot-project-4m4b)
-- [Reading data from BLE device using Python, Microsoft Excel and BleuIO](https://dev.to/bleuiot/reading-data-from-ble-device-using-python-microsoft-excel-and-bleuio-24jg)
-- [Mastering Perspective in CSS: A Comprehensive Guide for Web Developers](https://dev.to/softheartengineer/mastering-perspective-in-css-a-comprehensive-guide-for-web-developers-4dh)
-- [Integrating BleuIO with Adafruit Feather RP2040 for Seamless BLE Applications](https://dev.to/bleuiot/integrating-bleuio-with-adafruit-feather-rp2040-for-seamless-ble-applications-3cff)
+- [Dica C#: Nomeação de Variáveis e Métodos](https://dev.to/juarezasjunior/dica-c-nomeacao-de-variaveis-e-metodos-11p0)
+- [C# Tip: Naming Variables and Methods](https://dev.to/juarezasjunior/c-tip-naming-variables-and-methods-4hl8)
+- [Building Structured Workflows with Tools and Functions in LangGraph](https://dev.to/airabbit/building-structured-workflows-with-tools-and-functions-in-langgraph-3l6j)
+- [How EchoAPI Simplifies Multi-Environment Testing for APIs](https://dev.to/patrick_61cbc6392b72286f6/how-echoapi-simplifies-multi-environment-testing-for-apis-2c5p)
+- [JavaScript Developers Just Learned They Can Use debugger Instead of console.log&lpar;&rpar;](https://dev.to/safdarali/javascript-developers-just-learned-they-can-use-debugger-instead-of-consolelog-4c61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
