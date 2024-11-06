@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implement a Secure, Dynamic Domain Approval System for Embeddable Widgets in Ruby on Rails](https://dev.to/dpaluy/implement-a-secure-dynamic-domain-approval-system-for-embeddable-widgets-in-ruby-on-rails-2f53)
-- [Hunyuan3D-1 - SOTA Open Source Text-to-3D and Image-to-3D](https://dev.to/furkangozukara/hunyuan3d-1-sota-open-source-text-to-3d-and-image-to-3d-ai1)
-- [Array ⚔️ Linked Lists](https://dev.to/jairo-dev-jr/array-linked-lists-3hb4)
-- [My First Data Analysis Project](https://dev.to/ndumbe0/my-first-data-analysis-project-4hm3)
-- [7 Secrets to Optimize Your Web Performance](https://dev.to/izabellalbuquerque/7-secrets-to-optimize-your-web-performance-12eb)
+- [Design Patterns: Adapter - using GoLang](https://dev.to/jayaprasanna_roddam/design-patterns-adapter-using-golang-9pl)
+- [🚨 Made a LIVE 2024 election counter! Enjoy](https://dev.to/asadk/made-a-live-2024-election-counter-enjoy-1do0)
+- [Unflatten in PyTorch](https://dev.to/hyperkai/unflatten-in-pytorch-3i7g)
+- [Project 3](https://dev.to/paperdrago/project-3-39kf)
+- [Os Profissionais Invisíveis: A Nova Força Silenciosa no Mundo Corporativo](https://dev.to/jandersonsiqueira/os-profissionais-invisiveis-a-nova-forca-silenciosa-no-mundo-corporativo-1hac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
