@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating a codebase with an API](https://dev.to/robert_mcknight_102975fef/navigating-a-codebase-with-an-api-27pa)
+- [GreyConnections](https://dev.to/dianahobbs/greyconnections-1bmg)
+- [Why Is Job Hunting Like This? This Broken Hiring System Has to Change](https://dev.to/amritanshu_kumar_0558b7f6/why-is-job-hunting-like-this-this-broken-hiring-system-has-to-change-33nf)
+- [AI takeover?](https://dev.to/norbs/ai-takeover-2fbm)
 - [Embrace your voice](https://dev.to/norbs/embrace-your-voice-32ap)
-- [Dark side of Next.js - App Router](https://dev.to/asmyshlyaev177/dark-side-of-nextjs-app-router-15l)
-- [Thank you AI](https://dev.to/andersonbelli/thank-you-ai-44gm)
-- [Exciting News! Check Out My New Hairstyle Website](https://dev.to/jimmy_shark_671cde02c75c7/exciting-news-check-out-my-new-hairstyle-website-52gb)
-- [Building an AI YouTube Video Summarizer: From Video Link to Summary](https://dev.to/burakodabas/building-an-ai-youtube-video-summarizer-from-video-link-to-summary-1l7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
