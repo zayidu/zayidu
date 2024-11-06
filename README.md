@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Project 3 - Tetris Game](https://dev.to/aqeelakbari/project-3-tetris-game-e2m)
-- [Today in AI: Mixture of In-Context Learners](https://dev.to/pullreview/today-in-ai-mixture-of-in-context-learners-bh3)
-- [Distributed Load Testing with JMeter in Testkube](https://dev.to/kubeshop/distributed-load-testing-with-jmeter-in-testkube-4h7j)
-- [CAN MY AWS TECH ARTICLE BEAT CHATGPT?](https://dev.to/aws-builders/can-my-aws-tech-article-beat-chatgpt-35n)
-- [AWS Conceptual guidelines](https://dev.to/mrcaption49/aws-conceptual-guidelines-47l2)
+- [From Zero to Hero: Dockerizing My Go App and Hosting It on Render like a Pro 🚀](https://dev.to/githaiga22/from-zero-to-hero-dockerizing-my-go-app-and-hosting-it-on-render-like-a-pro-1nk9)
+- [Automated Testing Made Simple: Setting Up and Exploring pytest](https://dev.to/harshil_patel/automated-testing-made-simple-setting-up-and-exploring-pytest-13bc)
+- [My First JavaScript Web App: Interactive Image Coordinate Finder](https://dev.to/rverwey/my-first-javascript-web-app-interactive-image-coordinate-finder-414d)
+- [🚀 Bitcoin and Altcoins Surge as Optimism Grows](https://dev.to/david_tevzadze_/bitcoin-and-altcoins-surge-as-optimism-grows-155e)
+- [🚀 Bittensor&#39;s Big Move: Correction or Continuation?](https://dev.to/david_tevzadze_/bittensors-big-move-correction-or-continuation-59c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
