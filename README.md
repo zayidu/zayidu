@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API Documentation Done Right: A Technical Guide](https://dev.to/getambassador2024/api-documentation-done-right-a-technical-guide-31ka)
-- [1500+ Free HTML Website Templates on HTMLrev](https://dev.to/devluc/1500-free-html-website-templates-on-htmlrev-gk9)
-- [How to Clear Recent Colors History in Windows 11?](https://dev.to/win11verse/how-to-clear-recent-colors-history-in-windows-11-4j5p)
-- [The Ultimate Guide to Fitness App Development: Trends, Technologies, and Tips for Success](https://dev.to/evelynwyatt/the-ultimate-guide-to-fitness-app-development-trends-technologies-and-tips-for-success-4g01)
-- [How to solve git error: RPC failed; HTTP 400 curl 22 The requested URL returned error: 400](https://dev.to/lynerlwl/how-to-solve-git-error-rpc-failed-http-400-curl-22-the-requested-url-returned-error-400-5mf)
+- [How to Discard Local Changes in Git](https://dev.to/cicube/how-to-discard-local-changes-in-git-43na)
+- [Understanding Kubernetes Jobs](https://dev.to/cicube/understanding-kubernetes-jobs-22n0)
+- [Windows Server 2019 CLI ile WMI Ayarlarının Yapılandırılması ve Yönetilmesi](https://dev.to/aciklab/windows-server-2019-cli-ile-wmi-ayarlarinin-yapilandirilmasi-ve-yonetilmesi-lco)
+- [Virtual DOM and Actual DOM with Analogy Explanation](https://dev.to/mrcaption49/virtual-dom-and-actual-dom-with-analogy-explanation-1435)
+- [🚀 Meet IntelliText: The Power Tool for Text Automation You Didn’t Know You Needed](https://dev.to/jackscott7/introducing-intellitext-the-smart-way-to-manage-text-with-ease-mk7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
