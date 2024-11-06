@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up CI/CD for Node.js with GitHub Actions](https://dev.to/basanta/setting-up-cicd-for-nodejs-with-github-actions-59e9)
-- [Understanding the MVC Pattern with Node.js](https://dev.to/abhishekjaiswal_4896/understanding-the-mvc-pattern-with-nodejs-1fpg)
-- [Doc Sage🧙‍♂️- Create a Smart RAG App with LangChain and Streamlit](https://dev.to/ngonidzashe/doc-sage-create-a-smart-rag-app-with-langchain-and-streamlit-4lin)
-- [Creating ASCII Art with Python: A Fun Guide to Text Transformations](https://dev.to/mitiahiers/creating-ascii-art-with-python-a-fun-guide-to-text-transformations-4f94)
-- [Building Scalable Software for Transport and Logistics](https://dev.to/octorcat_super_dev/building-scalable-software-for-transport-and-logistics-2bb9)
+- [How to Implement SEO in Next.js?](https://dev.to/visavadiyavrushik/how-to-implement-seo-in-nextjs-g6f)
+- [¿Cómo calcular el máximo y mínimo en Java usando Streams?](https://dev.to/asjordi/como-calcular-el-maximo-y-minimo-en-java-usando-streams-2fca)
+- [Formatting and Linting for consistency](https://dev.to/cleobnvntra/formatting-and-linting-for-consistency-1hpl)
+- [How to build a website using React and Rest APIs &lpar;React basics explained&rpar;](https://dev.to/alexia_cismaru_f49ed201c2/how-to-build-a-website-using-react-and-rest-apis-react-basics-explained-5bf9)
+- [Why the negative voltage with respect to E pole is needed for IGBT driving](https://dev.to/zhangzhuyue/why-the-negative-voltage-with-respect-to-e-pole-is-needed-for-igbt-driving-4ba2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
