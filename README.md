@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [17 Lesser Known Chrome Extensions You Wish You Knew Sooner 🤩⚡](https://dev.to/safdarali/17-lesser-known-chrome-extensions-you-wish-you-knew-sooner-28nm)
-- [How to Detect Software Performance Bottlenecks Using AI: PFLB Solution](https://dev.to/pflb_45dd02a38e8/how-to-detect-software-performance-bottlenecks-using-ai-pflb-solution-pcl)
-- [Data structures and algorithms cheat sheet for interviews](https://dev.to/ozkanpakdil/data-structures-and-algorithms-cheat-sheet-for-interviews-4k9)
-- [The Untold Story of Visual Studio Code: A Revolution in Software Development](https://dev.to/rajeshkumaryadavdotcom/the-untold-story-of-visual-studio-code-a-revolution-in-software-development-44pp)
-- [IA Generativa en el desarrollo de Software](https://dev.to/cecamilo/ia-generativa-en-el-desarrollo-de-software-350c)
+- [Implement a Secure, Dynamic Domain Approval System for Embeddable Widgets in Ruby on Rails](https://dev.to/dpaluy/implement-a-secure-dynamic-domain-approval-system-for-embeddable-widgets-in-ruby-on-rails-2f53)
+- [Hunyuan3D-1 - SOTA Open Source Text-to-3D and Image-to-3D](https://dev.to/furkangozukara/hunyuan3d-1-sota-open-source-text-to-3d-and-image-to-3d-ai1)
+- [Array ⚔️ Linked Lists](https://dev.to/jairo-dev-jr/array-linked-lists-3hb4)
+- [My First Data Analysis Project](https://dev.to/ndumbe0/my-first-data-analysis-project-4hm3)
+- [7 Secrets to Optimize Your Web Performance](https://dev.to/izabellalbuquerque/7-secrets-to-optimize-your-web-performance-12eb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
