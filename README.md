@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a simple dependency injection framework in Swift [Part 4]: Dynamic arguments](https://dev.to/hbg/creating-a-simple-dependency-injection-framework-in-swift-part-4-dynamic-arguments-143g)
-- [From License to Freedom: Embracing Open Source Forks Knowing What to Expect](https://dev.to/hmorris3293/from-license-to-freedom-embracing-open-source-forks-knowing-what-to-expect-59a8)
-- [JavaScript Meta Programming: In-Depth Guide on Proxy, Reflect, and Object Property Control](https://dev.to/shafayeat/javascript-meta-programming-in-depth-guide-on-proxy-reflect-and-object-property-control-4ihb)
-- [CSR, SSR, pre-rendering: Which rendering technique to choose?](https://dev.to/logrocket/csr-ssr-pre-rendering-which-rendering-technique-to-choose-3lf8)
-- [Amazon S3 Security Essentials: Protect Your Data with These Key Practices](https://dev.to/anshul_kichara/amazon-s3-security-essentials-protect-your-data-with-these-key-practices-3nbg)
+- [Convert Excel Dataset into SQL insert statement](https://dev.to/smuniraj/convert-excel-dataset-into-sql-insert-statement-38k4)
+- [Best AI Tools for Programmers](https://dev.to/rahmaai/best-ai-tools-for-programmers-48o9)
+- [Introducing Pretty-js-log: Add Beautiful, Colorful Logging to Your Node.js Apps 🎨](https://dev.to/belguinan/introducing-pretty-js-log-add-beautiful-colorful-logging-to-your-nodejs-apps-5hfn)
+- [Week 3 in DevOps: Beginning with Advanced AWS Services and Security](https://dev.to/amandeol063/week-3-in-devops-beginning-with-advanced-aws-services-and-security-3ola)
+- [Modern Full-Stack Setup: FastAPI + React.js + Vite + MUI with TypeScript](https://dev.to/stamigos/modern-full-stack-setup-fastapi-reactjs-vite-mui-with-typescript-2mef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
