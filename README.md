@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Discard Local Changes in Git](https://dev.to/cicube/how-to-discard-local-changes-in-git-43na)
-- [Understanding Kubernetes Jobs](https://dev.to/cicube/understanding-kubernetes-jobs-22n0)
-- [Windows Server 2019 CLI ile WMI Ayarlarının Yapılandırılması ve Yönetilmesi](https://dev.to/aciklab/windows-server-2019-cli-ile-wmi-ayarlarinin-yapilandirilmasi-ve-yonetilmesi-lco)
-- [Virtual DOM and Actual DOM with Analogy Explanation](https://dev.to/mrcaption49/virtual-dom-and-actual-dom-with-analogy-explanation-1435)
-- [🚀 Meet IntelliText: The Power Tool for Text Automation You Didn’t Know You Needed](https://dev.to/jackscott7/introducing-intellitext-the-smart-way-to-manage-text-with-ease-mk7)
+- [VACUUM In Postgres Demystified](https://dev.to/metis/vacuum-in-postgres-demystified-2pp1)
+- [Codemotion 2024 Milan: Rediscovering My Voice and Passion as a Speaker](https://dev.to/this-is-learning/codemotion-2024-milan-rediscovering-my-voice-and-passion-as-a-speaker-171o)
+- [How to Design a Tangram Puzzle Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-tangram-puzzle-using-3d-cad-software-4iak)
+- [Best IDEs for Node.js Development in 2025](https://dev.to/prashantpujara/best-ides-for-nodejs-development-in-2025-1k0e)
+- [CSS: masonry layout](https://dev.to/hreuven/css-masonry-layout-1jff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
