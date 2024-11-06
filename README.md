@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Convert Excel Dataset into SQL insert statement](https://dev.to/smuniraj/convert-excel-dataset-into-sql-insert-statement-38k4)
-- [Best AI Tools for Programmers](https://dev.to/rahmaai/best-ai-tools-for-programmers-48o9)
-- [Introducing Pretty-js-log: Add Beautiful, Colorful Logging to Your Node.js Apps 🎨](https://dev.to/belguinan/introducing-pretty-js-log-add-beautiful-colorful-logging-to-your-nodejs-apps-5hfn)
-- [Week 3 in DevOps: Beginning with Advanced AWS Services and Security](https://dev.to/amandeol063/week-3-in-devops-beginning-with-advanced-aws-services-and-security-3ola)
-- [Modern Full-Stack Setup: FastAPI + React.js + Vite + MUI with TypeScript](https://dev.to/stamigos/modern-full-stack-setup-fastapi-reactjs-vite-mui-with-typescript-2mef)
+- [Embrace your voice](https://dev.to/norbs/embrace-your-voice-32ap)
+- [Dark side of Next.js - App Router](https://dev.to/asmyshlyaev177/dark-side-of-nextjs-app-router-15l)
+- [Thank you AI](https://dev.to/andersonbelli/thank-you-ai-44gm)
+- [Exciting News! Check Out My New Hairstyle Website](https://dev.to/jimmy_shark_671cde02c75c7/exciting-news-check-out-my-new-hairstyle-website-52gb)
+- [Building an AI YouTube Video Summarizer: From Video Link to Summary](https://dev.to/burakodabas/building-an-ai-youtube-video-summarizer-from-video-link-to-summary-1l7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
