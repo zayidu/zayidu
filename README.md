@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [error Command &quot;webpack&quot; not found](https://dev.to/alexandrecalaca/error-command-webpack-not-found-bpf)
-- [Facade Pattern no Angular](https://dev.to/mateus_oliveira_101fe5ee3/facade-pattern-no-angular-479l)
-- [Guide to Writing Security Technology Blog Articles](https://dev.to/tecno-security/guide-to-writing-security-technology-blog-articles-27f3)
-- [RAG Chatbot with Amazon Bedrock &amp; LangChain: A Powerful Combination Understanding the Components](https://dev.to/jhparmar/rag-chatbot-with-amazon-bedrock-langchain-a-powerful-combinationunderstanding-the-components-3gmb)
-- [Creating AWS layer with Docker.](https://dev.to/franmartinezsimi/creating-aws-layer-with-docker-j7d)
+- [Shopee Data Scraping- Complete Guide](https://dev.to/syphoon_ef9378/shopee-data-scraping-complete-guide-4fab)
+- [Day 6: Variables and Data Types | 100 Days Python](https://dev.to/abdulla783/day-6-variables-and-data-types-100-days-python-2o6g)
+- [JavaScript Memory Management and Optimization Techniques for Large-Scale Applications](https://dev.to/shafayeat/javascript-memory-management-and-optimization-techniques-for-large-scale-applications-5e4a)
+- [The Benefits of Big-Endian CPU Architecture Over Little-Endian Systems](https://dev.to/adityabhuyan/the-benefits-of-big-endian-cpu-architecture-over-little-endian-systems-19ac)
+- [Python Control Flow: If, Elif, Else, and Loops Without Going Loopy](https://dev.to/aishwarya_raj_978520e6399/python-control-flow-if-elif-else-and-loops-without-going-loopy-2hk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
