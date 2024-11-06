@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implement reCAPTCHA in htmx + expressjs](https://dev.to/kasir-barati/implement-recaptcha-in-htmx-expressjs-4k1l)
-- [📱 Is Flutter Dead?](https://dev.to/hamzakhan/is-flutter-dead-1242)
-- [Django Day DK 2024: I was there](https://dev.to/dag7dev/django-day-dk-2024-i-was-there-1faf)
-- [🔒 Exploring the Singleton Design Pattern in Ruby](https://dev.to/davidmrtz-dev/exploring-the-singleton-design-pattern-in-ruby-42o2)
-- [Medium: is it worth your time and effort?](https://dev.to/dag7dev/medium-is-it-worth-your-time-and-effort-1njm)
+- [Creating a simple dependency injection framework in Swift [Part 4]: Dynamic arguments](https://dev.to/hbg/creating-a-simple-dependency-injection-framework-in-swift-part-4-dynamic-arguments-143g)
+- [From License to Freedom: Embracing Open Source Forks Knowing What to Expect](https://dev.to/hmorris3293/from-license-to-freedom-embracing-open-source-forks-knowing-what-to-expect-59a8)
+- [JavaScript Meta Programming: In-Depth Guide on Proxy, Reflect, and Object Property Control](https://dev.to/shafayeat/javascript-meta-programming-in-depth-guide-on-proxy-reflect-and-object-property-control-4ihb)
+- [CSR, SSR, pre-rendering: Which rendering technique to choose?](https://dev.to/logrocket/csr-ssr-pre-rendering-which-rendering-technique-to-choose-3lf8)
+- [Amazon S3 Security Essentials: Protect Your Data with These Key Practices](https://dev.to/anshul_kichara/amazon-s3-security-essentials-protect-your-data-with-these-key-practices-3nbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
