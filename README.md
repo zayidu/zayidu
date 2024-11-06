@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Design a Spiral Lampshade Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-spiral-lampshade-using-3d-cad-software-1aae)
-- [Enhanced CLI Capabilities in NestJS Boilerplate](https://dev.to/rodik/enhanced-cli-capabilities-in-nestjs-boilerplate-59jc)
-- [How to Install Minikube on Ubuntu Virtual Machine?](https://dev.to/nodeshiftcloud/how-to-install-minikube-on-ubuntu-virtual-machine-207e)
-- [Methodical Naming in React: How It Improves Code Organization](https://dev.to/khaled17/methodical-naming-in-react-how-it-improves-code-organization-8dp)
-- [📚 Introduction to Angular Documentation](https://dev.to/itamartati/introduction-to-angular-documentation-2hn6)
+- [Integrating BleuIO with Adafruit Feather RP2040 for Seamless BLE Applications Part 2](https://dev.to/bleuiot/integrating-bleuio-with-adafruit-feather-rp2040-for-seamless-ble-applications-part-2-1o1e)
+- [Can&#39;t find a permissible class errors only after building Spring Boot project](https://dev.to/emine_tekcan_9628ffbf4770/cant-find-a-permissible-class-errors-only-after-building-spring-boot-project-4m4b)
+- [Reading data from BLE device using Python, Microsoft Excel and BleuIO](https://dev.to/bleuiot/reading-data-from-ble-device-using-python-microsoft-excel-and-bleuio-24jg)
+- [Mastering Perspective in CSS: A Comprehensive Guide for Web Developers](https://dev.to/softheartengineer/mastering-perspective-in-css-a-comprehensive-guide-for-web-developers-4dh)
+- [Integrating BleuIO with Adafruit Feather RP2040 for Seamless BLE Applications](https://dev.to/bleuiot/integrating-bleuio-with-adafruit-feather-rp2040-for-seamless-ble-applications-3cff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
