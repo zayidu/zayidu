@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Una conversación pendiente...](https://dev.to/supeergabs/una-conversacion-pendiente-1o44)
-- [Open-Source will make you richhhh! 🤑💸](https://dev.to/rohan_sharma/open-source-will-make-you-richhhh-5gf8)
-- [7+ Free PostgreSQL Hosting Platforms for Developers in 2024](https://dev.to/probir-sarkar/7-free-postgresql-hosting-platforms-for-developers-in-2024-fi5)
-- [Getting Started with Vector Search &lpar;Part 2&rpar;](https://dev.to/yukaty/getting-started-with-vector-search-part-2-3amh)
-- [Play games from your terminal!](https://dev.to/kaamkiya/play-games-from-your-terminal-25o)
+- [Layer 4 vs Layer 7 Load Balancer](https://dev.to/jaiminbariya/layer-4-vs-layer-7-load-balancer-4cc7)
+- [Difficult Conversations](https://dev.to/gabrieltoma/difficult-conversations-3m06)
+- [From Startup to Cloud Giant: The Evolution of Salesforce and Its Impact on CRM](https://dev.to/techforcea/from-startup-to-cloud-giant-the-evolution-of-salesforce-and-its-impact-on-crm-1f3b)
+- [Day 28: Model Compression Techniques for Large Language Models &lpar;LLMs&rpar;](https://dev.to/nareshnishad/day-28-model-compression-techniques-for-large-language-models-llms-imf)
+- [Logistic Regression](https://dev.to/thecspandz/logistic-regression-14o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
