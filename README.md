@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como utilizei o Vagrant e o Virtual Box para desenvolvimento local](https://dev.to/marcos_vilela/como-utilizei-o-vagrant-e-o-virtual-box-para-desenvolvimento-local-4l87)
-- [Top 10 Real-World Applications of Artificial Intelligence to Watch in 2025](https://dev.to/vikas76/top-10-real-world-applications-of-artificial-intelligence-to-watch-in-2025-1o6e)
-- [From AI Code to $266 MRR in 7 Days: The TweetFast Story](https://dev.to/carlosarthurr1/from-ai-code-to-266-mrr-in-7-days-the-tweetfast-story-309l)
-- [Why Artificial Intelligence Will Be Essential in 2025: Key Reasons and Insights](https://dev.to/vikas76/why-artificial-intelligence-will-be-essential-in-2025-key-reasons-and-insights-32fp)
-- [How First-Order Logic is Shaping AI Development in 2025](https://dev.to/vikas76/how-first-order-logic-is-shaping-ai-development-in-2025-3h4)
+- [7+ Free PostgreSQL Hosting Platforms for Developers in 2024](https://dev.to/probir-sarkar/7-free-postgresql-hosting-platforms-for-developers-in-2024-fi5)
+- [Getting Started with Vector Search &lpar;Part 2&rpar;](https://dev.to/yukaty/getting-started-with-vector-search-part-2-3amh)
+- [Play games from your terminal!](https://dev.to/kaamkiya/play-games-from-your-terminal-25o)
+- [Understanding Strong Fundamentals in Stock Research](https://dev.to/susheel_kumar/understanding-strong-fundamentals-in-stock-research-2oai)
+- [Cookie Clicker using Python Tkinter](https://dev.to/michael_linson_0078/cookie-clicker-using-python-tkinter-3492)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
