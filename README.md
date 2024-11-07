@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SPA Development with Filamentphp](https://dev.to/farhadi/spa-development-with-filamentphp-3cjp)
-- [JavaScript Closures: Top Interview Questions and Answers](https://dev.to/nozibul_islam_113b1d5334f/javascript-closures-top-interview-questions-and-answers-1fni)
-- [Choosing the Right Tech Stack for Your Project](https://dev.to/vaishnavi_sonawane/choosing-the-right-tech-stack-for-your-project-41n2)
-- [How to Set Up a Vue 3 Frontend, Node.js API, and a High-Performance WebSocket Server in Docker](https://dev.to/dailysandbox/how-to-set-up-a-vue-3-frontend-nodejs-api-and-a-high-performance-websocket-server-in-docker-4g77)
-- [Load Balancing Algorithms with Examples](https://dev.to/jaiminbariya/load-balancing-algorithms-with-examples-4bn5)
+- [#91 — Intersection, Union, And Difference in the Case of Simple Members — Two Sets](https://dev.to/judith677/91-intersection-union-and-difference-in-the-case-of-simple-members-two-sets-468n)
+- [Dark mode &amp; light mode in next. Js 14 app router with material-ui without ui flickering](https://dev.to/torver213/dark-mode-light-mode-in-next-js-14-app-router-with-material-ui-without-ui-flickering-4flk)
+- [Revolutionizing Mobile Updates: How Rokomari Transformed Its App with Shorebird Code Push](https://dev.to/alaminkarno/revolutionizing-mobile-updates-how-rokomari-transformed-its-app-with-shorebird-code-push-4mla)
+- [Auto-Detect RTL in React with TypeScript! 🌐](https://dev.to/alileus/auto-detect-rtl-in-react-with-typescript-542e)
+- [Lifecycle of a Container](https://dev.to/arif_hossain/lifecycle-of-a-container-48n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
