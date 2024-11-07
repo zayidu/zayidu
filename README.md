@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-Source will make you richhhh! 🤑💸](https://dev.to/rohan_sharma/open-source-will-make-you-richhhh-5gf8)
 - [7+ Free PostgreSQL Hosting Platforms for Developers in 2024](https://dev.to/probir-sarkar/7-free-postgresql-hosting-platforms-for-developers-in-2024-fi5)
 - [Getting Started with Vector Search &lpar;Part 2&rpar;](https://dev.to/yukaty/getting-started-with-vector-search-part-2-3amh)
 - [Play games from your terminal!](https://dev.to/kaamkiya/play-games-from-your-terminal-25o)
 - [Understanding Strong Fundamentals in Stock Research](https://dev.to/susheel_kumar/understanding-strong-fundamentals-in-stock-research-2oai)
-- [Cookie Clicker using Python Tkinter](https://dev.to/michael_linson_0078/cookie-clicker-using-python-tkinter-3492)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
