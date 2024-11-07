@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving the Node.js console.time is not a function error](https://dev.to/logrocket/solving-the-nodejs-consoletime-is-not-a-function-error-5ea1)
-- [Why Harness is the Future of DevOps: Faster, Safer, and More Efficient Deployments](https://dev.to/hari_harranvp/why-harness-is-the-future-of-devops-faster-safer-and-more-efficient-deployments-a4m)
-- [The whole “shameless plug” conundrum and stigma associated with sharing one’s own blog posts](https://dev.to/prahladyeri/the-whole-shameless-plug-conundrum-and-stigma-associated-with-sharing-ones-own-blog-posts-15ph)
-- [getLastWorkWeekInMonth&lpar;&rpar; ColdFusion - Returns Last Full Work Week](https://dev.to/gamesover/getlastworkweekinmonth-coldfusion-returns-last-full-work-week-23j3)
-- [How to Use Docker to Improve Your Development Workflow: A Complete Guide](https://dev.to/agor5/how-to-use-docker-to-improve-your-development-workflow-a-complete-guide-5hb9)
+- [Techpally hints Building a Garden in Dwarf Fortress Game](https://dev.to/chaktty/techpally-hints-building-a-garden-in-dwarf-fortress-game-1pah)
+- [Usando helm-secrets e Vals para anonimizar seus dados no deploy!](https://dev.to/pedronandi/usando-helm-secrets-e-vals-para-anonimizar-seus-dados-no-deploy-2fme)
+- [Was für ein Jahr!✨](https://dev.to/per-starke-642/was-fur-ein-jahr-4m7k)
+- [3 Reasons Why you should go to the university instead of learn by yourself](https://dev.to/alcabrera/3-reasons-why-you-should-go-to-the-university-instead-of-learn-by-yourself-45af)
+- [Writing Clean Code in Ruby on Rails Applications 🧼💻](https://dev.to/sonianand11/writing-clean-code-in-ruby-on-rails-applications-85h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
