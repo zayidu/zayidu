@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [𝐒𝐞𝐞𝐫𝐬 𝐯𝐬 𝐂𝐨𝐨𝐤𝐢𝐞𝐁𝐨𝐭: 𝐖𝐡𝐢𝐜𝐡 𝐢𝐬 𝐭𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝐏𝐥𝐮𝐠𝐢𝐧 𝐟𝐨𝐫 𝐂𝐨𝐨𝐤𝐢𝐞 𝐂𝐨𝐧𝐬𝐞𝐧𝐭?](https://dev.to/mehwish_malik_4f29ff7fb04/--1edo)
-- [Top Certifications to Boost Your Career as an Angular Developer](https://dev.to/yuvrajarora/top-certifications-to-boost-your-career-as-an-angular-developer-emb)
-- [Experiencia Única en Casas de Campo para Escapadas de Fin de Semana](https://dev.to/cherry_barton_7a5e168fe22/experiencia-unica-en-casas-de-campo-para-escapadas-de-fin-de-semana-19b1)
-- [How to Debug Ansible Playbooks](https://dev.to/cicube/how-to-debug-ansible-playbooks-29l5)
-- [How to Reset Your Local Git Branch](https://dev.to/cicube/how-to-reset-your-local-git-branch-5273)
+- [DuckDB in Action](https://dev.to/nfrankel/duckdb-in-action-4d29)
+- [How to Fix the “This Publisher Has Been Blocked From Running Software” Error in Windows 10 &amp; 11](https://dev.to/sign_my_code/how-to-fix-the-this-publisher-has-been-blocked-from-running-software-error-in-windows-10-11-27ab)
+- [Distance de Levenshtein : Le Guide Ultime pour Mesurer la Similarité Textuelle](https://dev.to/jmegnidro/distance-de-levenshtein-le-guide-ultime-pour-mesurer-la-similarite-textuelle-3m7f)
+- [Automated Circuit Layout with Constructive Heuristic Prioritization](https://dev.to/mikeyoung44/automated-circuit-layout-with-constructive-heuristic-prioritization-i9e)
+- [How to Include JavaScript in Laravel 11: A Step-by-Step Guide for All Scenarios](https://dev.to/websilvercraft/how-to-include-js-files-in-laravel-templates-49e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
