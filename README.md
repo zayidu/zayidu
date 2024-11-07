@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why physics Nobel was given to AI researcher ?](https://dev.to/something_something_64b2a/why-physics-nobel-was-given-to-ai-researcher--3826)
-- [I used GitHub as a CMS](https://dev.to/potyoma/i-used-github-as-a-cms-3mhl)
-- [The Agentic Era: A New Dawn in AI](https://dev.to/siddharthbhalsod/the-agentic-era-a-new-dawn-in-ai-19gg)
-- [Here’s How AI Singularity Could Lead To Technological Singularity](https://dev.to/techdogs_inc/heres-how-ai-singularity-could-lead-to-technological-singularity-286d)
-- [Test Coverage Tools: Ensuring Code Quality and Reliability](https://dev.to/keploy/test-coverage-tools-ensuring-code-quality-and-reliability-3lkg)
+- [The Evolution of SEO with AI](https://dev.to/ostapzabolotnyy/the-evolution-of-seo-with-ai-1nj6)
+- [Manual Testing: Essential Practices for Quality Software Development](https://dev.to/keploy/manual-testing-essential-practices-for-quality-software-development-41k7)
+- [Store UI State in localStorage with Stimulus](https://dev.to/railsdesigner/store-ui-state-in-localstorage-with-stimulus-2ehe)
+- [Explorando Notificações Push no React Native com Expo e OneSignal!](https://dev.to/rafael_avelarcampos_e71c/explorando-notificacoes-push-no-react-native-com-expo-e-onesignal-1db7)
+- [What is the best programming language? [2024/2025]](https://dev.to/jaovitm/what-is-the-best-programming-language-20242025-1d22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
