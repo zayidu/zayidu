@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Migration: What, Why and Who Benefits](https://dev.to/aws-builders/cloud-migration-what-why-and-who-benefits-3ebe)
-- [VPC y Subredes en AWS - Parte 2: Configuración de Conectividad Segura entre Recursos y hacia Internet](https://dev.to/madriz03/vpc-y-subredes-en-aws-parte-2-configuracion-de-conectividad-segura-entre-recursos-y-hacia-internet-3jm8)
-- [How to manage multiple environments with dotenv and Databases config in NestJS](https://dev.to/jardiin/how-to-manage-multiple-environments-with-dotenv-and-databases-config-in-nestjs-5dfi)
-- [Integration of external authorization server https://authorizer.dev into a full-stack application on NestJS and Angular](https://dev.to/endykaufman/integration-of-external-authorization-server-httpsauthorizerdev-into-a-full-stack-application-on-nestjs-and-angular-1apj)
-- [Migrando Aplicativos de uma Nuvem para Outra - Parte 1](https://dev.to/rafaelbonilha/migrando-aplicativos-de-uma-nuvem-para-outra-parte-1-58ba)
+- [Why we chose the Go Huma framework to develop our API endpoints](https://dev.to/programmingdecoded/why-we-chose-the-go-huma-framework-to-develop-our-api-endpoints-3h9l)
+- [ASP.NET8 using DataTables.net – Part9 – Advanced Filters](https://dev.to/markpelf/aspnet8-using-datatablesnet-part9-advanced-filters-4m5m)
+- [ASP.NET8 using DataTables.net – Part8 – Select rows](https://dev.to/markpelf/aspnet8-using-datatablesnet-part8-select-rows-40ip)
+- [ASP.NET8 using DataTables.net – Part7 – Buttons regular](https://dev.to/markpelf/aspnet8-using-datatablesnet-part7-buttons-regular-36e1)
+- [ASP.NET8 using DataTables.net – Part6 – Returning additional parameters in AJAX](https://dev.to/markpelf/aspnet8-using-datatablesnet-part6-returning-additional-parameters-in-ajax-1h3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
