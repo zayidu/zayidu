@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Techpally hints Building a Garden in Dwarf Fortress Game](https://dev.to/chaktty/techpally-hints-building-a-garden-in-dwarf-fortress-game-1pah)
-- [Usando helm-secrets e Vals para anonimizar seus dados no deploy!](https://dev.to/pedronandi/usando-helm-secrets-e-vals-para-anonimizar-seus-dados-no-deploy-2fme)
-- [Was für ein Jahr!✨](https://dev.to/per-starke-642/was-fur-ein-jahr-4m7k)
-- [3 Reasons Why you should go to the university instead of learn by yourself](https://dev.to/alcabrera/3-reasons-why-you-should-go-to-the-university-instead-of-learn-by-yourself-45af)
-- [Writing Clean Code in Ruby on Rails Applications 🧼💻](https://dev.to/sonianand11/writing-clean-code-in-ruby-on-rails-applications-85h)
+- [Cloud Migration: What, Why and Who Benefits](https://dev.to/aws-builders/cloud-migration-what-why-and-who-benefits-3ebe)
+- [VPC y Subredes en AWS - Parte 2: Configuración de Conectividad Segura entre Recursos y hacia Internet](https://dev.to/madriz03/vpc-y-subredes-en-aws-parte-2-configuracion-de-conectividad-segura-entre-recursos-y-hacia-internet-3jm8)
+- [How to manage multiple environments with dotenv and Databases config in NestJS](https://dev.to/jardiin/how-to-manage-multiple-environments-with-dotenv-and-databases-config-in-nestjs-5dfi)
+- [Integration of external authorization server https://authorizer.dev into a full-stack application on NestJS and Angular](https://dev.to/endykaufman/integration-of-external-authorization-server-httpsauthorizerdev-into-a-full-stack-application-on-nestjs-and-angular-1apj)
+- [Migrando Aplicativos de uma Nuvem para Outra - Parte 1](https://dev.to/rafaelbonilha/migrando-aplicativos-de-uma-nuvem-para-outra-parte-1-58ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
