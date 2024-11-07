@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#91 — Intersection, Union, And Difference in the Case of Simple Members — Two Sets](https://dev.to/judith677/91-intersection-union-and-difference-in-the-case-of-simple-members-two-sets-468n)
-- [Dark mode &amp; light mode in next. Js 14 app router with material-ui without ui flickering](https://dev.to/torver213/dark-mode-light-mode-in-next-js-14-app-router-with-material-ui-without-ui-flickering-4flk)
-- [Revolutionizing Mobile Updates: How Rokomari Transformed Its App with Shorebird Code Push](https://dev.to/alaminkarno/revolutionizing-mobile-updates-how-rokomari-transformed-its-app-with-shorebird-code-push-4mla)
-- [Auto-Detect RTL in React with TypeScript! 🌐](https://dev.to/alileus/auto-detect-rtl-in-react-with-typescript-542e)
-- [Lifecycle of a Container](https://dev.to/arif_hossain/lifecycle-of-a-container-48n6)
+- [𝐒𝐞𝐞𝐫𝐬 𝐯𝐬 𝐂𝐨𝐨𝐤𝐢𝐞𝐁𝐨𝐭: 𝐖𝐡𝐢𝐜𝐡 𝐢𝐬 𝐭𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝐏𝐥𝐮𝐠𝐢𝐧 𝐟𝐨𝐫 𝐂𝐨𝐨𝐤𝐢𝐞 𝐂𝐨𝐧𝐬𝐞𝐧𝐭?](https://dev.to/mehwish_malik_4f29ff7fb04/--1edo)
+- [Top Certifications to Boost Your Career as an Angular Developer](https://dev.to/yuvrajarora/top-certifications-to-boost-your-career-as-an-angular-developer-emb)
+- [Experiencia Única en Casas de Campo para Escapadas de Fin de Semana](https://dev.to/cherry_barton_7a5e168fe22/experiencia-unica-en-casas-de-campo-para-escapadas-de-fin-de-semana-19b1)
+- [How to Debug Ansible Playbooks](https://dev.to/cicube/how-to-debug-ansible-playbooks-29l5)
+- [How to Reset Your Local Git Branch](https://dev.to/cicube/how-to-reset-your-local-git-branch-5273)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
