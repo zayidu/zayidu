@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data and its types](https://dev.to/_prakhar_/data-and-its-types-2o79)
-- [The wicked path of independent Linux Distro](https://dev.to/yappaholic/the-wicked-path-of-independent-linux-distro-5fbl)
-- [Scraping New Telegram Channels](https://dev.to/pauq/scraping-new-telegram-channels-39d0)
-- [How to Install Node.js from Source Code on GitHub](https://dev.to/nikolicstjepan/how-to-install-nodejs-from-source-code-on-github-468j)
-- [How to install Ferdium on Linux](https://dev.to/kelvinhey/how-to-install-ferdium-on-linux-4134)
+- [Reduce the amount of code in AWS CDK: Apply OAC in Amazon CloudFront L2 constructs](https://dev.to/aws-builders/reduce-the-amount-of-code-in-aws-cdk-apply-oac-in-amazon-cloudfront-l2-constructs-27hi)
+- [Packer tool in DevOps](https://dev.to/pramika_official/packer-tool-in-devops-2928)
+- [Backstage](https://dev.to/balaji_giri_2003/backstage-15mo)
+- [How can I upgrade my VPS hosting as my website grows?](https://dev.to/shazaib_rafiq_496442e8642/how-can-i-upgrade-my-vps-hosting-as-my-website-grows-2a5l)
+- [The 2024 State of RAG Podcast](https://dev.to/trustgraph/the-2024-state-of-rag-podcast-559b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
