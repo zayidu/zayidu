@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DuckDB in Action](https://dev.to/nfrankel/duckdb-in-action-4d29)
-- [How to Fix the “This Publisher Has Been Blocked From Running Software” Error in Windows 10 &amp; 11](https://dev.to/sign_my_code/how-to-fix-the-this-publisher-has-been-blocked-from-running-software-error-in-windows-10-11-27ab)
-- [Distance de Levenshtein : Le Guide Ultime pour Mesurer la Similarité Textuelle](https://dev.to/jmegnidro/distance-de-levenshtein-le-guide-ultime-pour-mesurer-la-similarite-textuelle-3m7f)
-- [Automated Circuit Layout with Constructive Heuristic Prioritization](https://dev.to/mikeyoung44/automated-circuit-layout-with-constructive-heuristic-prioritization-i9e)
-- [How to Include JavaScript in Laravel 11: A Step-by-Step Guide for All Scenarios](https://dev.to/websilvercraft/how-to-include-js-files-in-laravel-templates-49e6)
+- [c# advanced: Logical and Relational Patterns in C#](https://dev.to/moh_moh701/c-advanced-logical-and-relational-patterns-in-c-48n3)
+- [System Design 05 - Databases: The Backbone of Data and Digital Nostalgia](https://dev.to/sarvabharan/system-design-05-databases-the-backbone-of-data-and-digital-nostalgia-27p7)
+- [Unlocking the Secrets of Your GitHub: Powerful GitHub Statistics for Smarter Decisions](https://dev.to/devactivity-app/unlocking-the-secrets-of-your-github-powerful-github-statistics-for-smarter-decisions-2pal)
+- [AI PCs: Combining IoT and Machine Learning to Create the Future Smart Office](https://dev.to/trammygombez/ai-pcs-combining-iot-and-machine-learning-to-create-the-future-smart-office-9fl)
+- [How to create animated image cards with Tailwind CSS and Astrojs](https://dev.to/mike_andreuzza/how-to-create-animated-image-cards-with-tailwind-css-and-astrojs-5b2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
