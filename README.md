@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of SEO with AI](https://dev.to/ostapzabolotnyy/the-evolution-of-seo-with-ai-1nj6)
-- [Manual Testing: Essential Practices for Quality Software Development](https://dev.to/keploy/manual-testing-essential-practices-for-quality-software-development-41k7)
-- [Store UI State in localStorage with Stimulus](https://dev.to/railsdesigner/store-ui-state-in-localstorage-with-stimulus-2ehe)
-- [Explorando Notificações Push no React Native com Expo e OneSignal!](https://dev.to/rafael_avelarcampos_e71c/explorando-notificacoes-push-no-react-native-com-expo-e-onesignal-1db7)
-- [What is the best programming language? [2024/2025]](https://dev.to/jaovitm/what-is-the-best-programming-language-20242025-1d22)
+- [Freshman in College? Here’s How I Started with Web Development](https://dev.to/mettasurendhar/freshman-in-college-heres-how-i-started-with-web-development-5c0g)
+- [Technical Interview Questions - Part 3 - SQL](https://dev.to/giulianaolmos/technical-interview-questions-part-3-sql-ni4)
+- [Implementando uma Tabela Hash em PHP para Armazenar Dados de Artilheiros do Brasileirão](https://dev.to/laurielylourenco/implementando-uma-tabela-hash-em-php-para-armazenar-dados-de-artilheiros-do-brasileirao-35om)
+- [AWS Lambda | Basic Definition](https://dev.to/mrcaption49/aws-lambda-basic-definition-1k67)
+- [2275. Largest Combination With Bitwise AND Greater Than Zero](https://dev.to/mdarifulhaque/2275-largest-combination-with-bitwise-and-greater-than-zero-2hdf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
