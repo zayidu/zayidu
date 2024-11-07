@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Hero: Dockerizing My Go App and Hosting It on Render like a Pro 🚀](https://dev.to/githaiga22/from-zero-to-hero-dockerizing-my-go-app-and-hosting-it-on-render-like-a-pro-1nk9)
-- [Automated Testing Made Simple: Setting Up and Exploring pytest](https://dev.to/harshil_patel/automated-testing-made-simple-setting-up-and-exploring-pytest-13bc)
-- [My First JavaScript Web App: Interactive Image Coordinate Finder](https://dev.to/rverwey/my-first-javascript-web-app-interactive-image-coordinate-finder-414d)
-- [🚀 Bitcoin and Altcoins Surge as Optimism Grows](https://dev.to/david_tevzadze_/bitcoin-and-altcoins-surge-as-optimism-grows-155e)
-- [🚀 Bittensor&#39;s Big Move: Correction or Continuation?](https://dev.to/david_tevzadze_/bittensors-big-move-correction-or-continuation-59c1)
+- [Como utilizei o Vagrant e o Virtual Box para desenvolvimento local](https://dev.to/marcos_vilela/como-utilizei-o-vagrant-e-o-virtual-box-para-desenvolvimento-local-4l87)
+- [Top 10 Real-World Applications of Artificial Intelligence to Watch in 2025](https://dev.to/vikas76/top-10-real-world-applications-of-artificial-intelligence-to-watch-in-2025-1o6e)
+- [From AI Code to $266 MRR in 7 Days: The TweetFast Story](https://dev.to/carlosarthurr1/from-ai-code-to-266-mrr-in-7-days-the-tweetfast-story-309l)
+- [Why Artificial Intelligence Will Be Essential in 2025: Key Reasons and Insights](https://dev.to/vikas76/why-artificial-intelligence-will-be-essential-in-2025-key-reasons-and-insights-32fp)
+- [How First-Order Logic is Shaping AI Development in 2025](https://dev.to/vikas76/how-first-order-logic-is-shaping-ai-development-in-2025-3h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
