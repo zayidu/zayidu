@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Memoization? &lpar;In JavaScript &amp; TypeScript&rpar;](https://dev.to/jancodes/what-is-memoization-in-javascript-typescript-2j32)
-- [The Importance of Good Sound Effects and Background Sound in Video Editing](https://dev.to/mohbohlahji/the-importance-of-good-sound-effects-and-background-sound-in-video-editing-10c9)
-- [How to Contact Amazon Web Services: Finding the Right Support Phone Number](https://dev.to/billgist/how-to-contact-amazon-web-services-finding-the-right-support-phone-number-16nf)
-- [Optimizing Your Business: Best Practices for Billing and Accounts Management](https://dev.to/billgist/optimizing-your-business-best-practices-for-billing-and-accounts-management-351h)
-- [7 firewall management best practices in 2024](https://dev.to/swetha_suresh_18c9975c236/7-firewall-management-best-practices-in-2024-488a)
+- [Why physics Nobel was given to AI researcher ?](https://dev.to/something_something_64b2a/why-physics-nobel-was-given-to-ai-researcher--3826)
+- [I used GitHub as a CMS](https://dev.to/potyoma/i-used-github-as-a-cms-3mhl)
+- [The Agentic Era: A New Dawn in AI](https://dev.to/siddharthbhalsod/the-agentic-era-a-new-dawn-in-ai-19gg)
+- [Here’s How AI Singularity Could Lead To Technological Singularity](https://dev.to/techdogs_inc/heres-how-ai-singularity-could-lead-to-technological-singularity-286d)
+- [Test Coverage Tools: Ensuring Code Quality and Reliability](https://dev.to/keploy/test-coverage-tools-ensuring-code-quality-and-reliability-3lkg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
