@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reduce the amount of code in AWS CDK: Apply OAC in Amazon CloudFront L2 constructs](https://dev.to/aws-builders/reduce-the-amount-of-code-in-aws-cdk-apply-oac-in-amazon-cloudfront-l2-constructs-27hi)
-- [Packer tool in DevOps](https://dev.to/pramika_official/packer-tool-in-devops-2928)
-- [Backstage](https://dev.to/balaji_giri_2003/backstage-15mo)
-- [How can I upgrade my VPS hosting as my website grows?](https://dev.to/shazaib_rafiq_496442e8642/how-can-i-upgrade-my-vps-hosting-as-my-website-grows-2a5l)
-- [The 2024 State of RAG Podcast](https://dev.to/trustgraph/the-2024-state-of-rag-podcast-559b)
+- [Solving the Node.js console.time is not a function error](https://dev.to/logrocket/solving-the-nodejs-consoletime-is-not-a-function-error-5ea1)
+- [Why Harness is the Future of DevOps: Faster, Safer, and More Efficient Deployments](https://dev.to/hari_harranvp/why-harness-is-the-future-of-devops-faster-safer-and-more-efficient-deployments-a4m)
+- [The whole “shameless plug” conundrum and stigma associated with sharing one’s own blog posts](https://dev.to/prahladyeri/the-whole-shameless-plug-conundrum-and-stigma-associated-with-sharing-ones-own-blog-posts-15ph)
+- [getLastWorkWeekInMonth&lpar;&rpar; ColdFusion - Returns Last Full Work Week](https://dev.to/gamesover/getlastworkweekinmonth-coldfusion-returns-last-full-work-week-23j3)
+- [How to Use Docker to Improve Your Development Workflow: A Complete Guide](https://dev.to/agor5/how-to-use-docker-to-improve-your-development-workflow-a-complete-guide-5hb9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
