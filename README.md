@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [c# advanced: Logical and Relational Patterns in C#](https://dev.to/moh_moh701/c-advanced-logical-and-relational-patterns-in-c-48n3)
-- [System Design 05 - Databases: The Backbone of Data and Digital Nostalgia](https://dev.to/sarvabharan/system-design-05-databases-the-backbone-of-data-and-digital-nostalgia-27p7)
-- [Unlocking the Secrets of Your GitHub: Powerful GitHub Statistics for Smarter Decisions](https://dev.to/devactivity-app/unlocking-the-secrets-of-your-github-powerful-github-statistics-for-smarter-decisions-2pal)
-- [AI PCs: Combining IoT and Machine Learning to Create the Future Smart Office](https://dev.to/trammygombez/ai-pcs-combining-iot-and-machine-learning-to-create-the-future-smart-office-9fl)
-- [How to create animated image cards with Tailwind CSS and Astrojs](https://dev.to/mike_andreuzza/how-to-create-animated-image-cards-with-tailwind-css-and-astrojs-5b2p)
+- [What is Memoization? &lpar;In JavaScript &amp; TypeScript&rpar;](https://dev.to/jancodes/what-is-memoization-in-javascript-typescript-2j32)
+- [The Importance of Good Sound Effects and Background Sound in Video Editing](https://dev.to/mohbohlahji/the-importance-of-good-sound-effects-and-background-sound-in-video-editing-10c9)
+- [How to Contact Amazon Web Services: Finding the Right Support Phone Number](https://dev.to/billgist/how-to-contact-amazon-web-services-finding-the-right-support-phone-number-16nf)
+- [Optimizing Your Business: Best Practices for Billing and Accounts Management](https://dev.to/billgist/optimizing-your-business-best-practices-for-billing-and-accounts-management-351h)
+- [7 firewall management best practices in 2024](https://dev.to/swetha_suresh_18c9975c236/7-firewall-management-best-practices-in-2024-488a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
