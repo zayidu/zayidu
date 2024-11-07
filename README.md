@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Layer 4 vs Layer 7 Load Balancer](https://dev.to/jaiminbariya/layer-4-vs-layer-7-load-balancer-4cc7)
-- [Difficult Conversations](https://dev.to/gabrieltoma/difficult-conversations-3m06)
-- [From Startup to Cloud Giant: The Evolution of Salesforce and Its Impact on CRM](https://dev.to/techforcea/from-startup-to-cloud-giant-the-evolution-of-salesforce-and-its-impact-on-crm-1f3b)
-- [Day 28: Model Compression Techniques for Large Language Models &lpar;LLMs&rpar;](https://dev.to/nareshnishad/day-28-model-compression-techniques-for-large-language-models-llms-imf)
-- [Logistic Regression](https://dev.to/thecspandz/logistic-regression-14o8)
+- [SPA Development with Filamentphp](https://dev.to/farhadi/spa-development-with-filamentphp-3cjp)
+- [JavaScript Closures: Top Interview Questions and Answers](https://dev.to/nozibul_islam_113b1d5334f/javascript-closures-top-interview-questions-and-answers-1fni)
+- [Choosing the Right Tech Stack for Your Project](https://dev.to/vaishnavi_sonawane/choosing-the-right-tech-stack-for-your-project-41n2)
+- [How to Set Up a Vue 3 Frontend, Node.js API, and a High-Performance WebSocket Server in Docker](https://dev.to/dailysandbox/how-to-set-up-a-vue-3-frontend-nodejs-api-and-a-high-performance-websocket-server-in-docker-4g77)
+- [Load Balancing Algorithms with Examples](https://dev.to/jaiminbariya/load-balancing-algorithms-with-examples-4bn5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
