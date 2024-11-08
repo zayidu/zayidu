@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to start using nix?](https://dev.to/luksquaresma/how-to-start-using-nix-f5h)
+- [How IT Support Ensures Cyber Insurance Compliance for Local Businesses](https://dev.to/samhortons/how-it-support-ensures-cyber-insurance-compliance-for-local-businesses-3hai)
+- [Research Assignment: The Importance of Semantic HTML for SEO and Accessibility](https://dev.to/fideloluoch/research-assignmentthe-importance-ofsemantic-html-for-seo-and-accessibility-ela)
 - [Peer Review for Growth](https://dev.to/neffcodes/peer-review-for-growth-1mec)
 - [Episode 5: Navigating the Routes with the Router Knights](https://dev.to/vigneshiyergithub/episode-5-navigating-the-routes-with-the-router-knights-63g)
-- [Domain-Centric Architecture: Building Software That Aligns With Business Needs](https://dev.to/dazevedo/domain-centric-architecture-building-software-that-aligns-with-business-needs-48n5)
-- [New Here! Introducing Chipster: A Flexible Multi-Entry Input for React – Feedback Welcome](https://dev.to/micoblanc/new-here-introducing-chipster-a-flexible-multi-entry-input-for-react-feedback-welcome-3ek5)
-- [Introducing LibTracker: Simplifying Dependency Management in VSCode!](https://dev.to/windmillcode/introducing-libtracker-simplifying-dependency-management-in-vscode-4lm3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
