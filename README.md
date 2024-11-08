@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#92 — Intersection, Union, And Difference in the Case of Simple Members — Multiple Sets](https://dev.to/judith677/92-intersection-union-and-difference-in-the-case-of-simple-members-multiple-sets-5acc)
-- [The Stack Overflow Error](https://dev.to/jairo-dev-jr/the-stack-overflow-error-2hhm)
-- [Axios interceptor + React JS](https://dev.to/ramadhan002/axios-interceptor-react-js-4g1b)
-- [Incorrect calculations by the computer: sin&lpar;x&rpar; near x=k*π](https://dev.to/zaim/incorrect-calculations-by-the-computer-sinx-near-xkp-2lom)
-- [Unlocking the Power of Website Performance Optimization](https://dev.to/aandyphan/unlocking-the-power-of-website-performance-optimization-o0p)
+- [Linux Commands Cheat Sheet :&rpar;](https://dev.to/madgan95/linux-commands-cheat-sheet--50lh)
+- [Implementing a Database Helper in C# Using the Strategy Design Pattern Step-by-Step Guide](https://dev.to/auyeungdavid_2847435260/implementing-a-database-helper-in-c-using-the-strategy-design-pattern-step-by-step-guide-2j95)
+- [SELENIUM TOOL IN DEVOPS:](https://dev.to/sarmithaa_prakash_3236650/selenium-tool-in-devops-5836)
+- [NumPy for Machine Learning &amp; Deep Learning](https://dev.to/arju10/numpy-for-machine-learning-deep-learning-5hbb)
+- [The world’s 1st completely free ID document liveness detection SDK](https://dev.to/faceplugin/the-worlds-1st-completely-free-id-document-liveness-detection-sdk-47gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
