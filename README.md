@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ng-News 24/44: RFC Style Guide](https://dev.to/this-is-angular/ng-news-2444-rfc-style-guide-1l9c)
-- [Effective Methods to Diagnose and Troubleshoot CPU Spikes in Java Applications](https://dev.to/ram_lakshmanan_001/effective-methods-to-diagnose-and-troubleshoot-cpu-spikes-in-java-applications-6fl)
-- [Running Phi 3 with vLLM and Ray Serve](https://dev.to/infracloud/running-phi-3-with-vllm-and-ray-serve-4g0f)
-- [Observability - 5&lpar;Logging using EFK&rpar;](https://dev.to/akhil_mittal/observability-5logging-using-efk-hm7)
-- [Step by step guide to launch EC2 instance in a VPC using cloud formation](https://dev.to/uwadon1/step-by-step-guide-to-launch-ec2-instance-in-a-vpc-using-cloud-formation-311d)
+- [Entendendo renderização no browser: CSSOM](https://dev.to/gonkristiano/entendendo-renderizacao-no-browser-cssom-4f74)
+- [DevEnvironmentOrchestrator: Revolutionizing Development Environment Management with AI](https://dev.to/fernabache/devenvironmentorchestrator-revolutionizing-development-environment-management-with-ai-524f)
+- [When should you create an LLC for your side business?](https://dev.to/julians/when-should-you-create-an-llc-for-your-side-business-31jb)
+- [Cloud Computing in Healthcare: Revolutionizing Patient Care and Data Management](https://dev.to/evelynwyatt/cloud-computing-in-healthcare-revolutionizing-patient-care-and-data-management-33h2)
+- [&quot;What is the difference between Angular and React.js, and which is best to use for building a website?&quot;](https://dev.to/08ayush/what-is-the-difference-between-angular-and-reactjs-and-which-is-best-to-use-for-building-a-website-4h8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
