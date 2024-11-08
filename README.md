@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go for DevOps: From Zero to Hero Guide 🚀](https://dev.to/brunociccarino/go-for-devops-from-zero-to-hero-guide-h4a)
-- [Introducing GitCase: Secure Portfolio Creation for Developers](https://dev.to/johnnykod/introducing-gitcase-secure-portfolio-creation-for-developers-h9b)
-- [Day 1055 : Movements](https://dev.to/dwane/day-1055-movements-4j2e)
-- [Solving a DojoCode challenge in freefall](https://dev.to/seb-dojo/solving-a-code-challenge-in-freefall-3bei)
-- [Formulários com React Hook Form + Zod](https://dev.to/lukesilva/formularios-com-react-hook-form-zod-5cip)
+- [A Basic Guide to Understanding Components in Angular](https://dev.to/itamartati/a-basic-guide-to-understanding-components-in-angular-2ck2)
+- [Exploring Bun.js Over Deno: A Humble Developer&#39;s Tale](https://dev.to/agustin_bereciartua/exploring-bunjs-over-deno-a-humble-developers-tale-dep)
+- [3 Methods of Solving UN-responsive Fonts &lpar;w/ CSS&rpar;](https://dev.to/technoph1le/3-methods-of-solving-un-responsive-fonts-w-css-414o)
+- [Schema Manager: Centralize Schemas in a Repository with Support for Schema Registry Integration](https://dev.to/charlescol/schema-manager-centralize-schemas-in-a-repository-with-support-for-schema-registry-integration-1jhn)
+- [Ethical Considerations in AI-Driven Software Testing](https://dev.to/anil_csimplifyit_905c/ethical-considerations-in-ai-driven-software-testing-a02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
