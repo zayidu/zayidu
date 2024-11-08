@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Entendendo renderização no browser: CSSOM](https://dev.to/gonkristiano/entendendo-renderizacao-no-browser-cssom-4f74)
-- [DevEnvironmentOrchestrator: Revolutionizing Development Environment Management with AI](https://dev.to/fernabache/devenvironmentorchestrator-revolutionizing-development-environment-management-with-ai-524f)
-- [When should you create an LLC for your side business?](https://dev.to/julians/when-should-you-create-an-llc-for-your-side-business-31jb)
-- [Cloud Computing in Healthcare: Revolutionizing Patient Care and Data Management](https://dev.to/evelynwyatt/cloud-computing-in-healthcare-revolutionizing-patient-care-and-data-management-33h2)
-- [&quot;What is the difference between Angular and React.js, and which is best to use for building a website?&quot;](https://dev.to/08ayush/what-is-the-difference-between-angular-and-reactjs-and-which-is-best-to-use-for-building-a-website-4h8b)
+- [System design | Components | Part 1](https://dev.to/mrcaption49/system-design-components-3e9h)
+- [React lifecycles - Custom Hooks](https://dev.to/mitchell_cheng/react-lifecycles-custom-hooks-2pea)
+- [Introducing Polirizer – A Free Chrome Extension to Simplify Privacy Policies](https://dev.to/sahaib/introducing-polirizer-a-free-chrome-extension-to-simplify-privacy-policies-3alo)
+- [Latest GitHub FAQ Collections by 0x3d.site](https://dev.to/0x3d_site/latest-github-faq-collections-by-0x3dsite-1jck)
+- [Building and deploying a smart contract with OpenZepplin and Solidity in less than 10 minutes](https://dev.to/joshfischer1108/building-and-deploying-a-smart-contract-with-openzepplin-and-solidity-in-less-than-10-minutes-45co)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
