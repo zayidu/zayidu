@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 𝗥𝗲𝗶𝗺𝗮𝗴𝗶𝗻𝗶𝗻𝗴 𝗔𝗴𝗶𝗹𝗲 𝗮𝗻𝗱 𝗦𝗰𝗿𝘂𝗺 𝗳𝗼𝗿 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 &lpar;𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗳𝗿𝗼𝗺 𝗔𝗱𝗮𝗺 𝗘𝗹𝗹𝘀𝘄𝗼𝗿𝘁𝗵&rpar; 🌟](https://dev.to/edensoftlabs/--4hm1)
-- [Simple SEO fix for Vite/React SPAs without switching to Next/Remix](https://dev.to/msveshnikov/simple-seo-fix-for-vitereact-spas-without-switching-to-nextremix-pe0)
-- [Implementando un Plan de Cuentas en Django: De Arrays a Asientos Contables 🎯](https://dev.to/enlabe/implementando-un-plan-de-cuentas-en-django-de-arrays-a-asientos-contables-2a0f)
-- [Laravel Mix vs Vite: Why did Laravel Transitioned to Vite](https://dev.to/varzoeaa/laravel-mix-vs-vite-why-did-laravel-transitioned-to-vite-2k25)
-- [The Importance of Semantic HTML for SEO and Accessibility](https://dev.to/margaret_wanjiru_2f6a3793/the-importance-of-semantic-html-for-seo-and-accessibility-3fik)
+- [Advanced Core Web Vitals &amp; Performance Masterclass &lpar;Part 1&rpar;](https://dev.to/pmbanugo/advanced-core-web-vitals-performance-masterclass-part-1-ohe)
+- [&quot;Getting Started with React : A Beginner&#39;s Guide&quot;](https://dev.to/wicked_sarkar/getting-started-with-react-a-beginners-guide-im5)
+- [Unlocking Insights with IoT Data Visualization: Turning Complex Data into Actionable Intelligence](https://dev.to/ostapzabolotnyy/unlocking-insights-with-iot-data-visualization-turning-complex-data-into-actionable-intelligence-4l25)
+- [Why SQL classes are vital for anyone who wants to become a Data Professional](https://dev.to/skirtmale5/why-sql-classes-are-vital-for-anyone-who-wants-to-become-a-data-professional-1j8f)
+- [From Beginner To Pro: Learning SQL with a Course](https://dev.to/skirtmale5/from-beginner-to-pro-learning-sql-with-a-course-1jn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
