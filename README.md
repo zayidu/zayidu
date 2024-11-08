@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 questions developers should ask our self](https://dev.to/patfinder/10-questions-developers-should-ask-our-self-2dgo)
-- [Tutorial Guide to &#39;useContext&#39; and &#39;useReducer&#39; in React: Managing Global State Efficiently](https://dev.to/harshm03/tutorial-guide-to-usecontext-and-usereducer-in-react-managing-global-state-efficiently-474p)
-- [Episode 3: The Sage of Hooks and the Gift of Agility](https://dev.to/vigneshiyergithub/episode-3-the-sage-of-hooks-and-the-gift-of-agility-412f)
-- [SEMANTIC HTML](https://dev.to/nicholaskiilu/semantic-html-4la5)
-- [Episode 2: Fortifying the State Forests](https://dev.to/vigneshiyergithub/episode-2-fortifying-the-state-forests-1e06)
+- [Peer Review for Growth](https://dev.to/neffcodes/peer-review-for-growth-1mec)
+- [Episode 5: Navigating the Routes with the Router Knights](https://dev.to/vigneshiyergithub/episode-5-navigating-the-routes-with-the-router-knights-63g)
+- [Domain-Centric Architecture: Building Software That Aligns With Business Needs](https://dev.to/dazevedo/domain-centric-architecture-building-software-that-aligns-with-business-needs-48n5)
+- [New Here! Introducing Chipster: A Flexible Multi-Entry Input for React – Feedback Welcome](https://dev.to/micoblanc/new-here-introducing-chipster-a-flexible-multi-entry-input-for-react-feedback-welcome-3ek5)
+- [Introducing LibTracker: Simplifying Dependency Management in VSCode!](https://dev.to/windmillcode/introducing-libtracker-simplifying-dependency-management-in-vscode-4lm3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
