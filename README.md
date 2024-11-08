@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transcending the Niche &lpar;OTB Ep 5: Paul Hardin&rpar;](https://dev.to/codemouse92/transcending-the-niche-otb-ep-5-paul-hardin-110p)
-- [Collection and Record | Context of Oracle SQL](https://dev.to/mrcaption49/collection-and-record-context-of-oracle-sql-50l0)
-- [Deploy an EC2 instance inside a custom VPC using Terraform.](https://dev.to/uwadon1/deploy-an-ec2-instance-inside-a-custom-vpc-using-terraform-26e9)
-- [CommunityKG-RAG: Leveraging Community Structures in Knowledge Graph for Advanced RAG in Fact-Checking](https://dev.to/tutti/communitykg-rag-leveraging-community-structures-in-knowledge-graph-for-advanced-rag-in-fact-checking-2a4k)
-- [From NeuralLeadQHash to Research Funding: The NeuralLead Coin Revolution](https://dev.to/teammanagerneurallead/from-neuralleadqhash-to-research-funding-the-neurallead-coin-revolution-4gpg)
+- [🚀 Your Daily Crypto Job Digest For 08 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-08-november-22lc)
+- [Five Lessons for Five Years in Tech](https://dev.to/bekahhw/five-lessons-for-five-years-in-tech-37i9)
+- [Working with Docker Volumes](https://dev.to/arif_hossain/working-with-docker-volumes-17oa)
+- [GLOBAL EXECUTION CONTEXT- How javaScript works behind the scene.](https://dev.to/kush_bhandari_1/global-execution-context-how-javascript-works-behind-the-scene-880)
+- [Sanity and Nextjs for CI / CD](https://dev.to/pagepro_agency/sanity-and-nextjs-for-ci-cd-5ebm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
