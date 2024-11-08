@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to quickly ramp up on new codebases](https://dev.to/moozzyk/how-to-quickly-ramp-up-on-new-codebases-eag)
-- [Deep Dive into JuiceFS Data Synchronization and Consistency in Multi-Cloud Architectures](https://dev.to/daswu/deep-dive-into-juicefs-data-synchronization-and-consistency-in-multi-cloud-architectures-1mea)
-- [How to Become a Blockchain Developer](https://dev.to/edenwheeler/how-to-become-a-blockchain-developer-47hj)
-- [Understanding Kubernetes Requests and Limits: A Simple Guide](https://dev.to/devopsbymani/understanding-kubernetes-requests-and-limits-a-simple-guide-1phb)
-- [Translate speech to any language &lpar;Google supported&rpar; with Python and Google Translate API](https://dev.to/shelwyn_corte/translate-speech-to-any-language-google-supported-with-python-and-google-translate-api-47k4)
+- [🚀 Software Engineering Postmortem: The Last Petals of Spring 🌸](https://dev.to/victoriadeveloper/post-mortem-the-development-of-the-last-petals-of-spring-37e4)
+- [How to Set Up GitHub with SSH Keys on Windows 10 or 11](https://dev.to/adnanalemran/title-setting-up-github-with-ssh-keys-on-windows-10-539a)
+- [How Equivalence Partitioning &amp; Boundary Value Analysis Improve Test Accuracy](https://dev.to/robort_smith/how-equivalence-partitioning-boundary-value-analysis-improve-test-accuracy-3h70)
+- [What are user stories? and How to Create User Stories.](https://dev.to/kalak_khadayat/what-are-user-stories-and-how-to-create-user-stories-1dp)
+- [Deploying an Azure Log Analytics Workspace with Terraform](https://dev.to/techielass/deploying-an-azure-log-analytics-workspace-with-terraform-5ede)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
