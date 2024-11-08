@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week? &lpar;and last week too because we forgot to post!&rpar;](https://dev.to/devteam/what-was-your-win-this-week-32c4)
-- [Top 25 React Tips Every Developer Should Know — Part 2](https://dev.to/myogeshchavan97/top-25-react-tips-every-developer-should-know-part-2-2ba7)
-- [Why Are Type Guards Necessary? Exploring Different Types and Their Use Cases](https://dev.to/naymhdev/why-are-type-guards-necessary-exploring-different-types-and-their-use-cases-2f8e)
-- [Data Security Consulting: Safeguard Your Data with Brass Valley](https://dev.to/brassvalley_/data-security-consulting-safeguard-your-data-with-brass-valley-1mm3)
-- [Role of API Gateways in Microservices Architecture](https://dev.to/vipulkumarsviit/role-of-api-gateways-in-microservices-architecture-5eoo)
+- [Coding Responsive and Adaptive UIs: A Guide for iOS and Android Developers 📱💻](https://dev.to/info_generalhazedawn_a3d/coding-responsive-and-adaptive-uis-a-guide-for-ios-and-android-developers-6n7)
+- [Steps to achieve CI/CD pipeline for Microservice Architecture](https://dev.to/fazly_fathhy/steps-to-achieve-cicd-pipeline-for-microservice-architecture-2e6m)
+- [Do you Know ?](https://dev.to/fazly_fathhy/do-you-know--33om)
+- [Why Choose an AWS Generative AI Competency Partner?](https://dev.to/julie_ryan_df9e4e895cdcff/why-choose-an-aws-generative-ai-competency-partner-3chn)
+- [Mastering JUnit: Techniques from Victor Rentea&#39;s Toolbox 🧰](https://dev.to/codejourney/mastering-junit-techniques-from-victor-renteas-toolbox-46am)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
