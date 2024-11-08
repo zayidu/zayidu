@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Perform Join Queries on Different Types of Databases #72](https://dev.to/esproc_spl/how-to-perform-join-queries-on-different-types-of-databases-72-n2o)
-- [Ruby on Rails 8: Simplifying Sharding with New Methods](https://dev.to/jetthoughts/ruby-on-rails-8-simplifying-sharding-with-new-methods-48m9)
-- [GBase数据库 | GBase 8s Database: Understanding the LISTAGG Function](https://dev.to/congcong/gbaseshu-ju-ku-gbase-8s-database-understanding-the-listagg-function-1o5l)
-- [Implementing RAG Systems with Unstructured Data: A Comprehensive Guide](https://dev.to/visdom_04_88f1c6e8a47fe74/implementing-rag-systems-with-unstructured-data-a-comprehensive-guide-5cpf)
-- [Sprint Retrospective Meetings: Level Up Your Team&#39;s Performance with devActivity](https://dev.to/devactivity-app/sprint-retrospective-meetings-level-up-your-teams-performance-with-devactivity-cic)
+- [Imagine More with Giada AI PC](https://dev.to/_7e0d0f31eba8186034cd2/imagine-more-with-giada-ai-pc-ble)
+- [My First Steps in Learning Python and How It&#39;s Going](https://dev.to/june_chege_fd78d055776633/my-first-steps-in-learning-python-and-how-its-going-p20)
+- [The Benefits of Wireless and IoT-Enabled Temperature Monitoring Systems over Traditional Wired Solutions](https://dev.to/adityabhuyan/the-benefits-of-wireless-and-iot-enabled-temperature-monitoring-systems-over-traditional-wired-solutions-1ie5)
+- [How to use CleanLab wisely](https://dev.to/bullmouse/how-to-use-cleanlab-wisely-5epf)
+- [What are Deploy Tokens? A Beginner&#39;s Guide](https://dev.to/deploytokens/what-are-deploy-tokens-a-beginners-guide-26hn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
