@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Basic Guide to Understanding Components in Angular](https://dev.to/itamartati/a-basic-guide-to-understanding-components-in-angular-2ck2)
-- [Exploring Bun.js Over Deno: A Humble Developer&#39;s Tale](https://dev.to/agustin_bereciartua/exploring-bunjs-over-deno-a-humble-developers-tale-dep)
-- [3 Methods of Solving UN-responsive Fonts &lpar;w/ CSS&rpar;](https://dev.to/technoph1le/3-methods-of-solving-un-responsive-fonts-w-css-414o)
-- [Schema Manager: Centralize Schemas in a Repository with Support for Schema Registry Integration](https://dev.to/charlescol/schema-manager-centralize-schemas-in-a-repository-with-support-for-schema-registry-integration-1jhn)
-- [Ethical Considerations in AI-Driven Software Testing](https://dev.to/anil_csimplifyit_905c/ethical-considerations-in-ai-driven-software-testing-a02)
+- [Ghosts as Unstructured Data: A Study Guide](https://dev.to/tspannhw/ghosts-as-unstructured-data-a-study-guide-224i)
+- [Adding Jest To Explainer.js](https://dev.to/aamfahim/adding-jest-to-explainerjs-50f)
+- [Unlocking the Power of AI Prompts: A Game-Changer for Productivity and Innovation](https://dev.to/susheel_kumar/unlocking-the-power-of-ai-prompts-a-game-changer-for-productivity-and-innovation-35pd)
+- [Building a Simple RESTful API in Go for Managing Blog Posts](https://dev.to/fredgitonga/building-a-simple-restful-api-in-go-for-managing-blog-posts-ni7)
+- [Building a Simple RESTful API in Go for Managing Blog Posts](https://dev.to/fredgitonga/building-a-simple-restful-api-in-go-for-managing-blog-posts-41h3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
