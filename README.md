@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Good Coffee with Milk: A Step-by-Step Guide](https://dev.to/tabassum_shahid_082111366/how-to-make-good-coffee-with-milk-a-step-by-step-guide-8mf)
-- [C++ Problem Solving Tutorial: Vector Pair Sorting, Quick Pair Creation, and Lambda Expressions for Efficient Problem Solving](https://dev.to/harshm03/c-problem-solving-tutorial-vector-pair-sorting-quick-pair-creation-and-lambda-expressions-for-efficient-problem-solving-2i0a)
-- [Creating and Securing JWT Authentication in a Web App](https://dev.to/kosa12/creating-and-securing-jwt-authentication-in-a-web-app-5cni)
-- [Como criar uma automação com aws lambda e serverless framework](https://dev.to/massaronii/como-criar-uma-automacao-com-aws-lambda-e-serverless-framework-3l2j)
-- [26/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/26365-days-y10m-japan-job-challenge-m20)
+- [10 questions developers should ask our self](https://dev.to/patfinder/10-questions-developers-should-ask-our-self-2dgo)
+- [Tutorial Guide to &#39;useContext&#39; and &#39;useReducer&#39; in React: Managing Global State Efficiently](https://dev.to/harshm03/tutorial-guide-to-usecontext-and-usereducer-in-react-managing-global-state-efficiently-474p)
+- [Episode 3: The Sage of Hooks and the Gift of Agility](https://dev.to/vigneshiyergithub/episode-3-the-sage-of-hooks-and-the-gift-of-agility-412f)
+- [SEMANTIC HTML](https://dev.to/nicholaskiilu/semantic-html-4la5)
+- [Episode 2: Fortifying the State Forests](https://dev.to/vigneshiyergithub/episode-2-fortifying-the-state-forests-1e06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
