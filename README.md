@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Software Engineering Postmortem: The Last Petals of Spring 🌸](https://dev.to/victoriadeveloper/post-mortem-the-development-of-the-last-petals-of-spring-37e4)
-- [How to Set Up GitHub with SSH Keys on Windows 10 or 11](https://dev.to/adnanalemran/title-setting-up-github-with-ssh-keys-on-windows-10-539a)
-- [How Equivalence Partitioning &amp; Boundary Value Analysis Improve Test Accuracy](https://dev.to/robort_smith/how-equivalence-partitioning-boundary-value-analysis-improve-test-accuracy-3h70)
-- [What are user stories? and How to Create User Stories.](https://dev.to/kalak_khadayat/what-are-user-stories-and-how-to-create-user-stories-1dp)
-- [Deploying an Azure Log Analytics Workspace with Terraform](https://dev.to/techielass/deploying-an-azure-log-analytics-workspace-with-terraform-5ede)
+- [How to Perform Join Queries on Different Types of Databases #72](https://dev.to/esproc_spl/how-to-perform-join-queries-on-different-types-of-databases-72-n2o)
+- [Ruby on Rails 8: Simplifying Sharding with New Methods](https://dev.to/jetthoughts/ruby-on-rails-8-simplifying-sharding-with-new-methods-48m9)
+- [GBase数据库 | GBase 8s Database: Understanding the LISTAGG Function](https://dev.to/congcong/gbaseshu-ju-ku-gbase-8s-database-understanding-the-listagg-function-1o5l)
+- [Implementing RAG Systems with Unstructured Data: A Comprehensive Guide](https://dev.to/visdom_04_88f1c6e8a47fe74/implementing-rag-systems-with-unstructured-data-a-comprehensive-guide-5cpf)
+- [Sprint Retrospective Meetings: Level Up Your Team&#39;s Performance with devActivity](https://dev.to/devactivity-app/sprint-retrospective-meetings-level-up-your-teams-performance-with-devactivity-cic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
