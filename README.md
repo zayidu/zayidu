@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Core Web Vitals &amp; Performance Masterclass &lpar;Part 1&rpar;](https://dev.to/pmbanugo/advanced-core-web-vitals-performance-masterclass-part-1-ohe)
-- [&quot;Getting Started with React : A Beginner&#39;s Guide&quot;](https://dev.to/wicked_sarkar/getting-started-with-react-a-beginners-guide-im5)
-- [Unlocking Insights with IoT Data Visualization: Turning Complex Data into Actionable Intelligence](https://dev.to/ostapzabolotnyy/unlocking-insights-with-iot-data-visualization-turning-complex-data-into-actionable-intelligence-4l25)
-- [Why SQL classes are vital for anyone who wants to become a Data Professional](https://dev.to/skirtmale5/why-sql-classes-are-vital-for-anyone-who-wants-to-become-a-data-professional-1j8f)
-- [From Beginner To Pro: Learning SQL with a Course](https://dev.to/skirtmale5/from-beginner-to-pro-learning-sql-with-a-course-1jn0)
+- [How to Make Good Coffee with Milk: A Step-by-Step Guide](https://dev.to/tabassum_shahid_082111366/how-to-make-good-coffee-with-milk-a-step-by-step-guide-8mf)
+- [C++ Problem Solving Tutorial: Vector Pair Sorting, Quick Pair Creation, and Lambda Expressions for Efficient Problem Solving](https://dev.to/harshm03/c-problem-solving-tutorial-vector-pair-sorting-quick-pair-creation-and-lambda-expressions-for-efficient-problem-solving-2i0a)
+- [Creating and Securing JWT Authentication in a Web App](https://dev.to/kosa12/creating-and-securing-jwt-authentication-in-a-web-app-5cni)
+- [Como criar uma automação com aws lambda e serverless framework](https://dev.to/massaronii/como-criar-uma-automacao-com-aws-lambda-e-serverless-framework-3l2j)
+- [26/365 Days | ¥10M Japan Job Challenge](https://dev.to/kameken100/26365-days-y10m-japan-job-challenge-m20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
