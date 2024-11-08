@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Imagine More with Giada AI PC](https://dev.to/_7e0d0f31eba8186034cd2/imagine-more-with-giada-ai-pc-ble)
-- [My First Steps in Learning Python and How It&#39;s Going](https://dev.to/june_chege_fd78d055776633/my-first-steps-in-learning-python-and-how-its-going-p20)
-- [The Benefits of Wireless and IoT-Enabled Temperature Monitoring Systems over Traditional Wired Solutions](https://dev.to/adityabhuyan/the-benefits-of-wireless-and-iot-enabled-temperature-monitoring-systems-over-traditional-wired-solutions-1ie5)
-- [How to use CleanLab wisely](https://dev.to/bullmouse/how-to-use-cleanlab-wisely-5epf)
-- [What are Deploy Tokens? A Beginner&#39;s Guide](https://dev.to/deploytokens/what-are-deploy-tokens-a-beginners-guide-26hn)
+- [Ng-News 24/44: RFC Style Guide](https://dev.to/this-is-angular/ng-news-2444-rfc-style-guide-1l9c)
+- [Effective Methods to Diagnose and Troubleshoot CPU Spikes in Java Applications](https://dev.to/ram_lakshmanan_001/effective-methods-to-diagnose-and-troubleshoot-cpu-spikes-in-java-applications-6fl)
+- [Running Phi 3 with vLLM and Ray Serve](https://dev.to/infracloud/running-phi-3-with-vllm-and-ray-serve-4g0f)
+- [Observability - 5&lpar;Logging using EFK&rpar;](https://dev.to/akhil_mittal/observability-5logging-using-efk-hm7)
+- [Step by step guide to launch EC2 instance in a VPC using cloud formation](https://dev.to/uwadon1/step-by-step-guide-to-launch-ec2-instance-in-a-vpc-using-cloud-formation-311d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
