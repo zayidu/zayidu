@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Commands Cheat Sheet :&rpar;](https://dev.to/madgan95/linux-commands-cheat-sheet--50lh)
-- [Implementing a Database Helper in C# Using the Strategy Design Pattern Step-by-Step Guide](https://dev.to/auyeungdavid_2847435260/implementing-a-database-helper-in-c-using-the-strategy-design-pattern-step-by-step-guide-2j95)
-- [SELENIUM TOOL IN DEVOPS:](https://dev.to/sarmithaa_prakash_3236650/selenium-tool-in-devops-5836)
-- [NumPy for Machine Learning &amp; Deep Learning](https://dev.to/arju10/numpy-for-machine-learning-deep-learning-5hbb)
-- [The world’s 1st completely free ID document liveness detection SDK](https://dev.to/faceplugin/the-worlds-1st-completely-free-id-document-liveness-detection-sdk-47gj)
+- [What was your win this week? &lpar;and last week too because we forgot to post!&rpar;](https://dev.to/devteam/what-was-your-win-this-week-32c4)
+- [Top 25 React Tips Every Developer Should Know — Part 2](https://dev.to/myogeshchavan97/top-25-react-tips-every-developer-should-know-part-2-2ba7)
+- [Why Are Type Guards Necessary? Exploring Different Types and Their Use Cases](https://dev.to/naymhdev/why-are-type-guards-necessary-exploring-different-types-and-their-use-cases-2f8e)
+- [Data Security Consulting: Safeguard Your Data with Brass Valley](https://dev.to/brassvalley_/data-security-consulting-safeguard-your-data-with-brass-valley-1mm3)
+- [Role of API Gateways in Microservices Architecture](https://dev.to/vipulkumarsviit/role-of-api-gateways-in-microservices-architecture-5eoo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
