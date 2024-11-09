@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Free AWS Exam Promo Codes](https://dev.to/gbsk12345/free-aws-exam-promo-codes-opj)
-- [Exploring Docker Image Layers and Size Management](https://dev.to/arif_hossain/exploring-docker-image-layers-and-size-management-2jem)
-- [WhatsApp System Design: A Humorous Journey Through High-Level and Low-Level Architecture](https://dev.to/wittedtech-by-harshit/whatsapp-system-design-a-humorous-journey-through-high-level-and-low-level-architecture-3o48)
-- [My CS50 Final Project: iPlus Code – A Tech Blogging Platform](https://dev.to/vivekvohra/my-cs50-final-project-iplus-code-a-tech-blogging-platform-2hl9)
-- [Advanced Development of HarmonyOS IME Kit: Shared Sandbox Mechanism and Input Method Data Transmission](https://dev.to/xun_wang_6384a403f9817c2/advanced-development-of-harmonyos-ime-kit-shared-sandbox-mechanism-and-input-method-data-transmission-351f)
+- [Using SSH to Connect Local Git to Remote Repositories](https://dev.to/bryanltobing/using-ssh-to-connect-local-git-to-remote-repositories-501d)
+- [PLANVIEW](https://dev.to/pranneeth_1511/planview-4k2m)
+- [Understanding Concept Estimating: A Crucial Step in Project Feasibility and Planning](https://dev.to/soapboxes_custom1_40f201b/understanding-concept-estimating-a-crucial-step-in-project-feasibility-and-planning-5fpi)
+- [Building a Modern React Library Starter: A Comprehensive Guide](https://dev.to/abhirup99/building-a-modern-react-library-starter-a-comprehensive-guide-3m5b)
+- [Centralized API Logic in Next.js with an External Backend](https://dev.to/anisriva/centralized-api-logic-in-nextjs-with-an-external-backend-50en)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
