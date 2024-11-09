@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Logout User From All Tabs At Once In React](https://dev.to/gyantocode/how-to-track-localstorage-update-in-different-tabs-and-same-tab-3f30)
-- [AI Bot: Intelligent Financial Query Assistant Powered by PostgreSQL and Ollama](https://dev.to/ngtduc693/ai-bot-intelligent-financial-query-assistant-powered-by-postgresql-and-ollama-267h)
-- [Feedback on My Web Developer Portfolio – I&#39;d Love Your Input!](https://dev.to/remycnl/feedback-on-my-web-developer-portfolio-id-love-your-input-4p2o)
-- [Quantum Computing and its real world applications](https://dev.to/atharvgyan/quantum-computing-and-its-real-world-applications-113p)
-- [Calculate Asphalt by JavaScript: A Simple Guide](https://dev.to/devops_den/calculate-asphalt-by-javascript-a-simple-guide-bp0)
+- [Top 5 Rust Crates to Make Development Easier 🚀](https://dev.to/trish_07/top-5-rust-crates-to-make-development-easier-gi8)
+- [Thorough Testing for ERC20 Token Presale Smart Contract using Hardhat and Chai](https://dev.to/steven-dev/thorough-testing-for-erc20-token-presale-smart-contract-using-hardhat-and-chai-3i4g)
+- [How to manage SSL Certs with Caddy](https://dev.to/mertthesamael/how-to-manage-ssl-certs-with-caddy-543a)
+- [Database Sharding: Simplifying Data Scalability](https://dev.to/deeshath/database-sharding-simplifying-data-scalability-5680)
+- [Programmer Stereotypes &lpar;100% Accurate&rpar; 🤖💻](https://dev.to/harold_defree/programmer-stereotypes-100-accurate-2o6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
