@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Maze generator, written in C](https://dev.to/e-niek/maze-generator-written-in-c-5amg)
-- [test md](https://dev.to/ijatayam/test-md-233c)
-- [Kubernetes &lpar;K8s&rpar; Complete Guide](https://dev.to/aneesahmed330/kubernetes-k8s-complete-guide-5c4e)
-- [Analisando os requisitos da melhor API de tabela de campeonato que você já viu](https://dev.to/anastacio_dev/a-melhor-api-de-tabela-de-campeonato-que-voce-ja-viu-modelando-a-solucao-2oha)
-- [Creating focused domain applications. A Symfony approach &lpar;Managing validation errors&rpar;](https://dev.to/icolomina/creating-focused-domain-applications-a-symfony-approach-managing-validation-errors-28kk)
+- [Working with multiple image select in Laravel Livewire](https://dev.to/dotmarn/working-with-multiple-image-select-in-laravel-livewire-4683)
+- [The power of asking for help](https://dev.to/gabrieltoma/the-power-of-asking-for-help-3fl1)
+- [Путеводитель по HTTP-кодам в Java: Как понять, что сервер от тебя хочет?](https://dev.to/easycat/putievoditiel-po-http-kodam-v-java-kak-poniat-chto-siervier-ot-tiebia-khochiet-34d9)
+- [NextJs, Docker and IP Geolocation](https://dev.to/jorgeagoiz/nextjs-docker-and-ip-geolocation-1al1)
+- [Artificial Intelligence and Machine Learning in Software Development](https://dev.to/egitimac/hijyen-belgesi-nasil-alinir-19aa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
