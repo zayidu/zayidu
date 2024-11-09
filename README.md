@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Documentar antes da automatizar: Um Pilar para colaboração e onboarding eficiente.](https://dev.to/biosbug/documentar-antes-da-automatizar-um-pilar-para-colaboracao-e-onboarding-eficiente-4g88)
-- [Multi-stage Builds with a Simple Node.js App](https://dev.to/arif_hossain/multi-stage-builds-with-a-simple-nodejs-app-cfp)
-- [HAProxy&#39;s Zero-Downtime Reload](https://dev.to/joshuabvarghese/haproxys-zero-downtime-reload-312j)
-- [Celebrating 10K Followers: Our Journey Together 🎉](https://dev.to/alexr/celebrating-10k-followers-our-journey-together-10oa)
-- [Dica C#: Utilize readonly para Constantes Imutáveis](https://dev.to/juarezasjunior/dica-c-utilize-readonly-para-constantes-imutaveis-5ffe)
+- [Claude AI Can Now Control Your Computer](https://dev.to/thandhla/claude-ai-can-now-control-your-computer-j4e)
+- [Introduction to Docker Compose](https://dev.to/arif_hossain/introduction-to-docker-compose-ddh)
+- [How to create a Load Balancer in Azure](https://dev.to/ajayi/how-to-create-a-load-balancer-in-azure-479a)
+- [How to connect two Windows computers with a wireless LAN](https://dev.to/petrussola/how-to-connect-two-windows-computers-with-a-wireless-lan-6f0)
+- [Threat Modeling for Non-Security Experts](https://dev.to/nikolapopov/threat-modeling-for-non-security-experts-303l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
