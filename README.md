@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Modular React architecture](https://dev.to/michael_mazzone_87d595a97/modular-react-architecture-157n)
-- [Coder Mindset](https://dev.to/bhuwan71/coder-mindset-3j8e)
-- [Presenting at DataEngBytes 2024 Sydney: Building a Transactional Data Lakehouse on AWS with Apache Iceberg](https://dev.to/roops/presenting-at-dataengbytes-2024-sydney-building-a-transactional-data-lakehouse-on-aws-with-apache-iceberg-1f7a)
-- [TEST PRUEBA 1 2 3](https://dev.to/alyconr/test-prueba-1-2-3-4ghh)
-- [Using Guard Clauses Instead of Try-Catch in Async/Await: A Clean Coding Technique for Readable and Maintainable Code 🦄🚀](https://dev.to/muthuraja_r/using-guard-clauses-in-asyncawait-a-clean-coding-technique-for-readable-and-maintainable-code-367j)
+- [Mastering Error Boundaries in React: Why &amp; How 🚨](https://dev.to/mohiyaddeen7/mastering-error-boundaries-in-react-why-how-1fhf)
+- [I Created a Developer Portfolio inspired by the macOS interface](https://dev.to/ansxuman/i-created-a-developer-portfolio-inspired-by-the-macos-interface-11od)
+- [Navigating the Solution Architecture Trilemma: Performance, Memory, and Maintainability](https://dev.to/muhammad_mahdiramadhan/navigating-the-solution-architecture-trilemma-performance-memory-and-maintainability-6ip)
+- [Unlock Your Azure Linux VM’s Potential with Proactive Monitoring](https://dev.to/unique-tea/unlock-your-azure-linux-vms-potential-with-proactive-monitoring-4mmo)
+- [fuzzy hey dudes for Dummies](https://dev.to/hockeybutane97/fuzzy-hey-dudes-for-dummies-gan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
