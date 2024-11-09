@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Modular React architecture](https://dev.to/michael_mazzone_87d595a97/modular-react-architecture-157n)
+- [Coder Mindset](https://dev.to/bhuwan71/coder-mindset-3j8e)
 - [Presenting at DataEngBytes 2024 Sydney: Building a Transactional Data Lakehouse on AWS with Apache Iceberg](https://dev.to/roops/presenting-at-dataengbytes-2024-sydney-building-a-transactional-data-lakehouse-on-aws-with-apache-iceberg-1f7a)
 - [TEST PRUEBA 1 2 3](https://dev.to/alyconr/test-prueba-1-2-3-4ghh)
 - [Using Guard Clauses Instead of Try-Catch in Async/Await: A Clean Coding Technique for Readable and Maintainable Code 🦄🚀](https://dev.to/muthuraja_r/using-guard-clauses-in-asyncawait-a-clean-coding-technique-for-readable-and-maintainable-code-367j)
-- [Weekly Updates - Nov 8, 2024](https://dev.to/couchbase/weekly-updates-nov-8-2024-1fnf)
-- [TEST PRUEBA 1 2 3](https://dev.to/alyconr/test-prueba-1-2-3-43n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
