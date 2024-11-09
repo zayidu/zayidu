@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Contabilidad para Django Developers: Implementando Reglas de Negocio Contables](https://dev.to/enlabe/contabilidad-para-django-developers-implementando-reglas-de-negocio-contables-59h5)
-- [The Role of Semantic HTML in Enhancing SEO and Web Accessibility](https://dev.to/techskillz_guru/the-role-of-semantic-html-in-enhancing-seo-and-web-accessibility-3mjl)
-- [Contabilidad para Django Developers: Control de Cambios y Tipo de Cambio](https://dev.to/enlabe/contabilidad-para-django-developers-control-de-cambios-y-tipo-de-cambio-3fac)
-- [Contabilidad para Django Developers: Implementando Asientos Contables](https://dev.to/enlabe/contabilidad-para-django-developers-implementando-asientos-contables-2cmg)
-- [A Decade of AWS Lambda and ECS: My Journey of Growth and Gratitude](https://dev.to/aws-builders/a-decade-of-aws-lambda-and-ecs-my-journey-of-growth-and-gratitude-10n4)
+- [Presenting at DataEngBytes 2024 Sydney: Building a Transactional Data Lakehouse on AWS with Apache Iceberg](https://dev.to/roops/presenting-at-dataengbytes-2024-sydney-building-a-transactional-data-lakehouse-on-aws-with-apache-iceberg-1f7a)
+- [TEST PRUEBA 1 2 3](https://dev.to/alyconr/test-prueba-1-2-3-4ghh)
+- [Using Guard Clauses Instead of Try-Catch in Async/Await: A Clean Coding Technique for Readable and Maintainable Code 🦄🚀](https://dev.to/muthuraja_r/using-guard-clauses-in-asyncawait-a-clean-coding-technique-for-readable-and-maintainable-code-367j)
+- [Weekly Updates - Nov 8, 2024](https://dev.to/couchbase/weekly-updates-nov-8-2024-1fnf)
+- [TEST PRUEBA 1 2 3](https://dev.to/alyconr/test-prueba-1-2-3-43n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
