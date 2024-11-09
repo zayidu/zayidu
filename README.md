@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using SSH to Connect Local Git to Remote Repositories](https://dev.to/bryanltobing/using-ssh-to-connect-local-git-to-remote-repositories-501d)
-- [PLANVIEW](https://dev.to/pranneeth_1511/planview-4k2m)
-- [Understanding Concept Estimating: A Crucial Step in Project Feasibility and Planning](https://dev.to/soapboxes_custom1_40f201b/understanding-concept-estimating-a-crucial-step-in-project-feasibility-and-planning-5fpi)
-- [Building a Modern React Library Starter: A Comprehensive Guide](https://dev.to/abhirup99/building-a-modern-react-library-starter-a-comprehensive-guide-3m5b)
-- [Centralized API Logic in Next.js with an External Backend](https://dev.to/anisriva/centralized-api-logic-in-nextjs-with-an-external-backend-50en)
+- [Sprint Retrospective Templates: Your Guide to Productive Team Reflections](https://dev.to/devactivity-app/sprint-retrospective-templates-your-guide-to-productive-team-reflections-2h1i)
+- [How to create a sticky changelog component with Tailwind CSS](https://dev.to/mike_andreuzza/how-to-create-a-sticky-changelog-component-with-tailwind-css-1pg4)
+- [A Flexible AI-Powered Chat App for Websites,Youtube, Files, and Dev.to Articles](https://dev.to/programmerraja/a-flexible-ai-powered-chat-app-for-websitesyoutube-files-and-devto-articles-4ihh)
+- [Five Essential Traits of Successful Programmers](https://dev.to/josemariairiarte/five-essential-traits-of-successful-programmers-4ij8)
+- [Learn Basics of C Programming](https://dev.to/jamir_hossain_8800f85fdd5/learn-basics-of-c-programming-50bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
