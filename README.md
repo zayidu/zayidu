@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Rust Crates to Make Development Easier 🚀](https://dev.to/trish_07/top-5-rust-crates-to-make-development-easier-gi8)
-- [Thorough Testing for ERC20 Token Presale Smart Contract using Hardhat and Chai](https://dev.to/steven-dev/thorough-testing-for-erc20-token-presale-smart-contract-using-hardhat-and-chai-3i4g)
-- [How to manage SSL Certs with Caddy](https://dev.to/mertthesamael/how-to-manage-ssl-certs-with-caddy-543a)
-- [Database Sharding: Simplifying Data Scalability](https://dev.to/deeshath/database-sharding-simplifying-data-scalability-5680)
-- [Programmer Stereotypes &lpar;100% Accurate&rpar; 🤖💻](https://dev.to/harold_defree/programmer-stereotypes-100-accurate-2o6k)
+- [Maze generator, written in C](https://dev.to/e-niek/maze-generator-written-in-c-5amg)
+- [test md](https://dev.to/ijatayam/test-md-233c)
+- [Kubernetes &lpar;K8s&rpar; Complete Guide](https://dev.to/aneesahmed330/kubernetes-k8s-complete-guide-5c4e)
+- [Analisando os requisitos da melhor API de tabela de campeonato que você já viu](https://dev.to/anastacio_dev/a-melhor-api-de-tabela-de-campeonato-que-voce-ja-viu-modelando-a-solucao-2oha)
+- [Creating focused domain applications. A Symfony approach &lpar;Managing validation errors&rpar;](https://dev.to/icolomina/creating-focused-domain-applications-a-symfony-approach-managing-validation-errors-28kk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
