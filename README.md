@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mind Games of Jigsaw: A list of His Most Famous Quotes](https://dev.to/franklinthaker/the-mind-games-of-jigsaw-a-list-of-his-most-famous-quotes-33if)
-- [IME Kit入门：HarmonyOS输入法开发概述与基础操作](https://dev.to/xun_wang_6384a403f9817c2/ime-kitru-men-harmonyosshu-ru-fa-kai-fa-gai-shu-yu-ji-chu-cao-zuo-55le)
-- [Reviewing Filesystem Changes](https://dev.to/arif_hossain/reviewing-filesystem-changes-2339)
-- [How to Use Access Keys for XAML Context Menu in File Explorer in Windows 11?](https://dev.to/win11verse/how-to-use-access-keys-for-xaml-context-menu-in-file-explorer-in-windows-11-3eg3)
-- [Building a Scalable Job Queue System with AWS and Laravel](https://dev.to/princerafid01/building-a-scalable-job-queue-system-with-aws-and-laravel-1jeo)
+- [Free AWS Exam Promo Codes](https://dev.to/gbsk12345/free-aws-exam-promo-codes-opj)
+- [Exploring Docker Image Layers and Size Management](https://dev.to/arif_hossain/exploring-docker-image-layers-and-size-management-2jem)
+- [WhatsApp System Design: A Humorous Journey Through High-Level and Low-Level Architecture](https://dev.to/wittedtech-by-harshit/whatsapp-system-design-a-humorous-journey-through-high-level-and-low-level-architecture-3o48)
+- [My CS50 Final Project: iPlus Code – A Tech Blogging Platform](https://dev.to/vivekvohra/my-cs50-final-project-iplus-code-a-tech-blogging-platform-2hl9)
+- [Advanced Development of HarmonyOS IME Kit: Shared Sandbox Mechanism and Input Method Data Transmission](https://dev.to/xun_wang_6384a403f9817c2/advanced-development-of-harmonyos-ime-kit-shared-sandbox-mechanism-and-input-method-data-transmission-351f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
