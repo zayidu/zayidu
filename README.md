@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LINUX CHALLENGE, DAY 4](https://dev.to/blessingglobally/linux-challenge-day-4-5h2k)
-- [🎧 AWS Audio Transcription Automation with CloudFormation](https://dev.to/warnerbell/aws-audio-transcription-automation-with-cloudformation-207g)
-- [React Native New Architecture](https://dev.to/hellonehha/react-native-new-architecture-1hao)
-- [Allure Reporting Alternative: A Look at TestBeats](https://dev.to/syamsruthin/allure-reporting-alternative-a-look-at-testbeats-9pd)
-- [27/365 | ¥10M Job Challenge - Learning by doing](https://dev.to/kameken100/27365-y10m-job-challenge-learning-by-doing-27bp)
+- [How To Logout User From All Tabs At Once In React](https://dev.to/gyantocode/how-to-track-localstorage-update-in-different-tabs-and-same-tab-3f30)
+- [AI Bot: Intelligent Financial Query Assistant Powered by PostgreSQL and Ollama](https://dev.to/ngtduc693/ai-bot-intelligent-financial-query-assistant-powered-by-postgresql-and-ollama-267h)
+- [Feedback on My Web Developer Portfolio – I&#39;d Love Your Input!](https://dev.to/remycnl/feedback-on-my-web-developer-portfolio-id-love-your-input-4p2o)
+- [Quantum Computing and its real world applications](https://dev.to/atharvgyan/quantum-computing-and-its-real-world-applications-113p)
+- [Calculate Asphalt by JavaScript: A Simple Guide](https://dev.to/devops_den/calculate-asphalt-by-javascript-a-simple-guide-bp0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
