@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Document Search System with pgvector and pgai](https://dev.to/tomlin7/semantic-document-search-system-with-pgvector-and-pgai-2aca)
-- [5 Best Python TUI Libraries for Building Text-Based User Interfaces](https://dev.to/lazy_code/5-best-python-tui-libraries-for-building-text-based-user-interfaces-5fdi)
-- [Revolutionizing the Future of Technology: “Devin AI”](https://dev.to/mofazzelmorshed/revolutionizing-the-future-of-technology-devin-ai-1ok7)
-- [string](https://dev.to/yasmina14/string-3o1f)
-- [Strings: Checking for Palindromes](https://dev.to/arshisaxena26/strings-checking-for-palindromes-5epj)
+- [Documentar antes da automatizar: Um Pilar para colaboração e onboarding eficiente.](https://dev.to/biosbug/documentar-antes-da-automatizar-um-pilar-para-colaboracao-e-onboarding-eficiente-4g88)
+- [Multi-stage Builds with a Simple Node.js App](https://dev.to/arif_hossain/multi-stage-builds-with-a-simple-nodejs-app-cfp)
+- [HAProxy&#39;s Zero-Downtime Reload](https://dev.to/joshuabvarghese/haproxys-zero-downtime-reload-312j)
+- [Celebrating 10K Followers: Our Journey Together 🎉](https://dev.to/alexr/celebrating-10k-followers-our-journey-together-10oa)
+- [Dica C#: Utilize readonly para Constantes Imutáveis](https://dev.to/juarezasjunior/dica-c-utilize-readonly-para-constantes-imutaveis-5ffe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
