@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Aplicação da Lei de Pareto no Desenvolvimento de Software](https://dev.to/wilsonlucena/a-aplicacao-da-lei-de-pareto-no-desenvolvimento-de-software-4k8b)
-- [I am a beginner and student](https://dev.to/naudhesh123/i-am-a-beginner-and-student-346h)
-- [Criando uma API em NodeJS: Um Guia para Iniciantes](https://dev.to/wilsonlucena/criando-uma-api-em-nodejs-um-guia-para-iniciantes-1f3d)
-- [Enhanced Chat Component Design for a Better User Experience! 🎁](https://dev.to/joodi/enhanced-chat-component-design-for-a-better-user-experience-13gj)
-- [Por que sua empresa deveria patrocinar eventos](https://dev.to/cirdes/por-que-sua-empresa-deveria-patrocinar-eventos-475j)
+- [LINUX CHALLENGE, DAY 4](https://dev.to/blessingglobally/linux-challenge-day-4-5h2k)
+- [🎧 AWS Audio Transcription Automation with CloudFormation](https://dev.to/warnerbell/aws-audio-transcription-automation-with-cloudformation-207g)
+- [React Native New Architecture](https://dev.to/hellonehha/react-native-new-architecture-1hao)
+- [Allure Reporting Alternative: A Look at TestBeats](https://dev.to/syamsruthin/allure-reporting-alternative-a-look-at-testbeats-9pd)
+- [27/365 | ¥10M Job Challenge - Learning by doing](https://dev.to/kameken100/27365-y10m-job-challenge-learning-by-doing-27bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
