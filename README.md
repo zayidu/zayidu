@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin String Templates vs. Java String Concatenation: A Tale of Two Strings &lpar;Where Kotlin Sings!&rpar;](https://dev.to/hamada147/kotlin-string-templates-vs-java-string-concatenation-a-tale-of-two-strings-where-kotlin-sings-4195)
-- [** Opening Effectiveness: Advanced Features in SAP Ariba Sourcing AR121-- Component 2 **.&lt;br&gt;](https://dev.to/beardraven5/-opening-effectiveness-advanced-features-in-sap-ariba-sourcing-ar121-component-2--55dd)
-- [Getting Started with C# and .NET Development: A Beginner&#39;s Guide](https://dev.to/terieyenike/getting-started-with-c-and-net-development-a-beginners-guide-48dl)
-- [6 Ways Handle WebSocket Load Balancing Without Losing the Connection Thread](https://dev.to/hoainhoblogdev/6-ways-handle-websocket-load-balancing-without-losing-the-connection-thread-238m)
-- [RAG Explained: LangChain, LlamaIndex, Prompt Template](https://dev.to/busycaesar/rag-explained-langchain-llamaindex-prompt-template-4bhj)
+- [A Aplicação da Lei de Pareto no Desenvolvimento de Software](https://dev.to/wilsonlucena/a-aplicacao-da-lei-de-pareto-no-desenvolvimento-de-software-4k8b)
+- [I am a beginner and student](https://dev.to/naudhesh123/i-am-a-beginner-and-student-346h)
+- [Criando uma API em NodeJS: Um Guia para Iniciantes](https://dev.to/wilsonlucena/criando-uma-api-em-nodejs-um-guia-para-iniciantes-1f3d)
+- [Enhanced Chat Component Design for a Better User Experience! 🎁](https://dev.to/joodi/enhanced-chat-component-design-for-a-better-user-experience-13gj)
+- [Por que sua empresa deveria patrocinar eventos](https://dev.to/cirdes/por-que-sua-empresa-deveria-patrocinar-eventos-475j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
