@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Error Boundaries in React: Why &amp; How 🚨](https://dev.to/mohiyaddeen7/mastering-error-boundaries-in-react-why-how-1fhf)
-- [I Created a Developer Portfolio inspired by the macOS interface](https://dev.to/ansxuman/i-created-a-developer-portfolio-inspired-by-the-macos-interface-11od)
-- [Navigating the Solution Architecture Trilemma: Performance, Memory, and Maintainability](https://dev.to/muhammad_mahdiramadhan/navigating-the-solution-architecture-trilemma-performance-memory-and-maintainability-6ip)
-- [Unlock Your Azure Linux VM’s Potential with Proactive Monitoring](https://dev.to/unique-tea/unlock-your-azure-linux-vms-potential-with-proactive-monitoring-4mmo)
-- [fuzzy hey dudes for Dummies](https://dev.to/hockeybutane97/fuzzy-hey-dudes-for-dummies-gan)
+- [The Mind Games of Jigsaw: A list of His Most Famous Quotes](https://dev.to/franklinthaker/the-mind-games-of-jigsaw-a-list-of-his-most-famous-quotes-33if)
+- [IME Kit入门：HarmonyOS输入法开发概述与基础操作](https://dev.to/xun_wang_6384a403f9817c2/ime-kitru-men-harmonyosshu-ru-fa-kai-fa-gai-shu-yu-ji-chu-cao-zuo-55le)
+- [Reviewing Filesystem Changes](https://dev.to/arif_hossain/reviewing-filesystem-changes-2339)
+- [How to Use Access Keys for XAML Context Menu in File Explorer in Windows 11?](https://dev.to/win11verse/how-to-use-access-keys-for-xaml-context-menu-in-file-explorer-in-windows-11-3eg3)
+- [Building a Scalable Job Queue System with AWS and Laravel](https://dev.to/princerafid01/building-a-scalable-job-queue-system-with-aws-and-laravel-1jeo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
