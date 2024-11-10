@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://dev.to/vizzv/test-43l8)
-- [Why We Code Like Legends and Communicate Like NPCs: The Programmer’s Paradox](https://dev.to/high_octane/why-we-code-like-legends-and-communicate-like-npcs-the-programmers-paradox-1316)
-- [Identificando os objetos da melhor API de tabela de campeonatos que você já viu!](https://dev.to/anastacio_dev/identificando-os-objetos-da-melhor-api-de-tabela-de-campeonatos-que-voce-ja-viu-1607)
-- [Ansible Use Cases: Practical Applications and Implementation with Examples](https://dev.to/i_am_vesh/ansible-use-cases-practical-applications-and-implementation-with-examples-166o)
-- [Answer: AttributeError : &#39;tuple&#39; has no attribute &#39;to&#39;](https://dev.to/nirmalsankalana/answer-attributeerror-tuple-has-no-attribute-to-35i9)
+- [Building a Chatbot with Next.js, Cerebras API and Llama 3.1](https://dev.to/shamso_osman/building-a-chatbot-with-nextjs-cerebras-api-and-llama-31-1dc7)
+- [The Power of Responsible Tourism: Enhancing Growth and Sustainability in Sri Lanka&#39;s Tourism Sector](https://dev.to/vidminiminupama/the-power-of-responsible-tourism-enhancing-growth-and-sustainability-in-sri-lankas-tourism-sector-2cej)
+- [How to Choose the Right AI Model for Your Business in 2025?](https://dev.to/vikas76/how-to-choose-the-right-ai-model-for-your-business-in-2025-42cg)
+- [🚀 Your Daily Crypto Job Digest For 10 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-10-november-2l92)
+- [Why Responsible AI is a Must: Mitigating the Risks of AI in 2025](https://dev.to/vikas76/why-responsible-ai-is-a-must-mitigating-the-risks-of-ai-in-2025-5f2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
