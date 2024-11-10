@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from VSCode to Neovim: A Journey of Learning, Confusion, and Triumph! 🚀](https://dev.to/brunociccarino/migrating-from-vscode-to-neovim-a-journey-of-learning-confusion-and-triumph-el0)
-- [GitHub’s Security Scanner &amp; Conventional Commits — A Developer’s Journey](https://dev.to/jesse_chong_3bcc276c4f950/githubs-security-scanner-conventional-commits-a-developers-journey-4cef)
-- [Full-Stack Web Application with AWS Amplify: AWS Project](https://dev.to/shubham_murti/full-stack-web-application-with-aws-amplify-aws-project-5f8e)
-- [Code Companion: Dive Deep into Your Codebase with Your Own Intelligent AI Chatbot!](https://dev.to/shubrah_gupta_107/code-companion-dive-deep-into-your-codebase-with-your-own-intelligent-ai-chatbot-37e)
-- [High Availability for Social Media Platforms: Leader-Follower Architecture and Leader Election](https://dev.to/ujjwall-r/high-availability-for-social-media-platforms-leader-follower-architecture-and-leader-election-2f42)
+- [Dynamic SQL in Oracle SQL | Best Explanation](https://dev.to/mrcaption49/dynamic-sql-in-oracle-sql-best-explanation-17ie)
+- [LocalStorage VS SessionStorage VS Cookie](https://dev.to/aryan015/localstorage-vs-sessionstorage-vs-cookie-ikj)
+- [CSS is important &lpar;or should that be !important?&rpar;](https://dev.to/nicm42/css-is-important-or-should-that-be-important-4418)
+- [Rspack v1.1, BEST JavaScript Feature, New ESLint Features and more](https://dev.to/thisweekinjavascript/rspack-v11-best-javascript-feature-new-eslint-features-and-more-3pk2)
+- [Data Science Simplified: Tips for Aspiring Data Scientists in 2025](https://dev.to/vikas76/data-science-simplified-tips-for-aspiring-data-scientists-in-2025-29bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
