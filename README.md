@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding forwardRef in React: A Comprehensive Guide](https://dev.to/ingeniouswebster/understanding-forwardref-in-react-a-comprehensive-guide-4e85)
-- [🚀 My First Website: Anotes - A Sleek Note-Taking App](https://dev.to/alexcj10/my-first-website-anotes-a-sleek-note-taking-app-4fgl)
-- [Global day of code retreat Madrid](https://dev.to/marabesi/global-day-of-code-retreat-madrid-1305)
-- [How to Kill Vulnerabilities in Your Node.js App: A Guide to Writing Secure JavaScript Code](https://dev.to/aivantuquero/how-to-kill-vulnerabilities-in-your-nodejs-app-a-guide-to-writing-secure-javascript-code-2l24)
-- [Tips | Effortlessly Presenting UIViewController in SwiftUI](https://dev.to/matsuji/tips-effortlessly-presenting-uiviewcontroller-in-swiftui-4mea)
+- [Migrating from VSCode to Neovim: A Journey of Learning, Confusion, and Triumph! 🚀](https://dev.to/brunociccarino/migrating-from-vscode-to-neovim-a-journey-of-learning-confusion-and-triumph-el0)
+- [GitHub’s Security Scanner &amp; Conventional Commits — A Developer’s Journey](https://dev.to/jesse_chong_3bcc276c4f950/githubs-security-scanner-conventional-commits-a-developers-journey-4cef)
+- [Full-Stack Web Application with AWS Amplify: AWS Project](https://dev.to/shubham_murti/full-stack-web-application-with-aws-amplify-aws-project-5f8e)
+- [Code Companion: Dive Deep into Your Codebase with Your Own Intelligent AI Chatbot!](https://dev.to/shubrah_gupta_107/code-companion-dive-deep-into-your-codebase-with-your-own-intelligent-ai-chatbot-37e)
+- [High Availability for Social Media Platforms: Leader-Follower Architecture and Leader Election](https://dev.to/ujjwall-r/high-availability-for-social-media-platforms-leader-follower-architecture-and-leader-election-2f42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
