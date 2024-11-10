@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Method References in Java](https://dev.to/dhanush9952/method-references-in-java-4690)
-- [C# Fundamentals: Variables and Data Types](https://dev.to/adrianbailador/c-fundamentals-variables-and-data-types-2p58)
-- [Understanding Genetic Algorithms: Applications, Benefits, and Challenges in Soft Computing](https://dev.to/adityabhuyan/understanding-genetic-algorithms-applications-benefits-and-challenges-in-soft-computing-4j71)
-- [Futuristic Portfolio](https://dev.to/anooppatel/futuristic-portfolio-1711)
-- [That Strange PHP Code in Frameworks and CMSs](https://dev.to/manuelcanga/that-strange-php-code-in-frameworks-and-cmss-351d)
+- [What is the difference between forEach and map in streams?](https://dev.to/realnamehidden1_61/what-is-the-difference-between-foreach-and-map-in-streams-42d4)
+- [[Blog Template] Create your own blog site with this Ready-to-use Template, built with Next.js](https://dev.to/jnoncode/blog-template-create-your-own-blog-site-with-this-ready-to-use-template-built-with-nextjs-44hd)
+- [PL/SQL Developer Interview Questions with 3 years of experience](https://dev.to/mrcaption49/plsql-developer-interview-questions-with-3-years-of-experience-4f6l)
+- [Can I Drive? Coding an Alcohol Tester](https://dev.to/madsstoumann/can-i-drive-coding-an-alcohol-tester-163g)
+- [Snort: A Powerful Tool for Network Security in DevSecOps](https://dev.to/shankara_narayanarc_8a0/snort-a-powerful-tool-for-network-security-in-devsecops-14o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
