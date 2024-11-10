@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Utilizing Generative AI with Python](https://dev.to/rosaliewessels/utilizing-generative-ai-with-python-1dbf)
 - [Building a Product Store with MERN Stack](https://dev.to/krishnatejakrish/building-a-product-store-with-mern-stack-in0)
 - [鸿蒙自定义编辑框与共享沙箱实现个性化输入法与编辑框的交互](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-zi-ding-yi-bian-ji-kuang-yu-gong-xiang-sha-xiang-shi-xian-ge-xing-hua-shu-ru-fa-yu-bian-ji-kuang-de-jiao-hu-1mb)
 - [Design of HarmonyOS Multi-Language Intelligent Input Method: Dynamic Switching of Subtypes and Real-Time Translation Function](https://dev.to/xun_wang_6384a403f9817c2/design-of-harmonyos-multi-language-intelligent-input-method-dynamic-switching-of-subtypes-and-real-time-translation-function-2fkb)
 - [鸿蒙多语言智能输入法设计：动态切换子类型与实时翻译功能](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-duo-yu-yan-zhi-neng-shu-ru-fa-she-ji-dong-tai-qie-huan-zi-lei-xing-yu-shi-shi-fan-yi-gong-neng-2508)
-- [Node.js Starter Project dengan GraphQL, Redis, JWT, dan Sequelize](https://dev.to/dioarafi/nodejs-starter-project-dengan-graphql-redis-jwt-dan-sequelize-2l3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
