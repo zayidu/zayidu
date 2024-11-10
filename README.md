@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Essential React 18 Hooks You Need to Know &lpar;With Examples&rpar;](https://dev.to/vivekmengu016/15-essential-react-18-hooks-you-need-to-know-with-examples-4cl3)
-- [C4 Model: Documentación Clara y Efectiva para Arquitecturas de Software](https://dev.to/ajcastillo/c4-model-documentacion-clara-y-efectiva-para-arquitecturas-de-software-43od)
-- [Storytelling in Programming](https://dev.to/samincl/storytelling-in-programming-2f45)
-- [Create agentic systems by just describing what you want.](https://dev.to/octopus_inc_3b25ac16c5131/create-agentic-systems-by-just-describing-what-you-want-bic)
-- [Is NextPage necessary when building NextJS apps in TypeScript](https://dev.to/pfedprog/is-nextpage-necessary-when-building-nextjs-apps-in-typescript-265c)
+- [In-Depth Technical Analysis of XAML-Based Frameworks and Cross-Platform Project Architecture Design](https://dev.to/jamesnet214/in-depth-technical-analysis-of-xaml-based-frameworks-and-cross-platform-project-architecture-design-6cj)
+- [Enhanced Maritime Safety Through Object Detection](https://dev.to/kushagra102/enhanced-maritime-safety-through-object-detection-5c0d)
+- [Making the Ivorian Labor Code Accessible and Understandable through the RAG System](https://dev.to/rezar12/making-the-ivorian-labor-code-accessible-and-understandable-through-the-rag-system-2emf)
+- [Natural Language Processing &lpar;NLP&rpar;](https://dev.to/itsmanavhere/natural-language-processing-nlp-251g)
+- [Update with a single command](https://dev.to/birolaydin/update-with-a-single-command-gl8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
