@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic SQL in Oracle SQL | Best Explanation](https://dev.to/mrcaption49/dynamic-sql-in-oracle-sql-best-explanation-17ie)
-- [LocalStorage VS SessionStorage VS Cookie](https://dev.to/aryan015/localstorage-vs-sessionstorage-vs-cookie-ikj)
-- [CSS is important &lpar;or should that be !important?&rpar;](https://dev.to/nicm42/css-is-important-or-should-that-be-important-4418)
-- [Rspack v1.1, BEST JavaScript Feature, New ESLint Features and more](https://dev.to/thisweekinjavascript/rspack-v11-best-javascript-feature-new-eslint-features-and-more-3pk2)
-- [Data Science Simplified: Tips for Aspiring Data Scientists in 2025](https://dev.to/vikas76/data-science-simplified-tips-for-aspiring-data-scientists-in-2025-29bk)
+- [15 Essential React 18 Hooks You Need to Know &lpar;With Examples&rpar;](https://dev.to/vivekmengu016/15-essential-react-18-hooks-you-need-to-know-with-examples-4cl3)
+- [C4 Model: Documentación Clara y Efectiva para Arquitecturas de Software](https://dev.to/ajcastillo/c4-model-documentacion-clara-y-efectiva-para-arquitecturas-de-software-43od)
+- [Storytelling in Programming](https://dev.to/samincl/storytelling-in-programming-2f45)
+- [Create agentic systems by just describing what you want.](https://dev.to/octopus_inc_3b25ac16c5131/create-agentic-systems-by-just-describing-what-you-want-bic)
+- [Is NextPage necessary when building NextJS apps in TypeScript](https://dev.to/pfedprog/is-nextpage-necessary-when-building-nextjs-apps-in-typescript-265c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
