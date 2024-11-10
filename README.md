@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Extensions Dump: UnitFlux and CodeMorph!](https://dev.to/shiftescape/extensions-dump-unitflux-and-codemorph-bhi)
-- [Let’s create numeric range input with attached scale](https://dev.to/morewings/lets-create-numeric-range-input-with-attached-scale-iie)
-- [How to style active Nav links in server components in Next.js](https://dev.to/cookiemonsterdev/how-to-style-active-nav-links-in-server-components-in-nextjs-1193)
-- [Release 0.45.0 of Spellcheck &lpar;GitHub&rpar; Action - it is all about maintenance](https://dev.to/jonasbn/release-0450-of-spellcheck-github-action-it-is-all-about-maintenance-30c7)
-- [AI-Powered CV Analysis Platform](https://dev.to/davkharbayar/ai-powered-cv-analysis-platform-1p48)
+- [Method References in Java](https://dev.to/dhanush9952/method-references-in-java-4690)
+- [C# Fundamentals: Variables and Data Types](https://dev.to/adrianbailador/c-fundamentals-variables-and-data-types-2p58)
+- [Understanding Genetic Algorithms: Applications, Benefits, and Challenges in Soft Computing](https://dev.to/adityabhuyan/understanding-genetic-algorithms-applications-benefits-and-challenges-in-soft-computing-4j71)
+- [Futuristic Portfolio](https://dev.to/anooppatel/futuristic-portfolio-1711)
+- [That Strange PHP Code in Frameworks and CMSs](https://dev.to/manuelcanga/that-strange-php-code-in-frameworks-and-cmss-351d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
