@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Software Engineers Make Their Software Run Faster](https://dev.to/koladev/how-software-engineers-make-their-software-run-faster-2620)
-- [Linux Web Server Showdown: Choosing Between Apache, Nginx, LiteSpeed, and Caddy](https://dev.to/kaustubhyerkade/linux-web-server-showdown-choosing-between-apache-nginx-litespeed-and-caddy-2anl)
-- [Treat relationship-building like a competitive sport](https://dev.to/jcsmileyjr/treat-relationship-building-like-a-competitive-sport-dfh)
-- [Implementing a DDD Use Case in PHP](https://dev.to/sebk69/implementing-a-ddd-use-case-for-tax-persistence-in-php-1gij)
-- [Modal vs dialog](https://dev.to/doccaio/modal-vs-dialog-2bb2)
+- [Test](https://dev.to/vizzv/test-43l8)
+- [Why We Code Like Legends and Communicate Like NPCs: The Programmer’s Paradox](https://dev.to/high_octane/why-we-code-like-legends-and-communicate-like-npcs-the-programmers-paradox-1316)
+- [Identificando os objetos da melhor API de tabela de campeonatos que você já viu!](https://dev.to/anastacio_dev/identificando-os-objetos-da-melhor-api-de-tabela-de-campeonatos-que-voce-ja-viu-1607)
+- [Ansible Use Cases: Practical Applications and Implementation with Examples](https://dev.to/i_am_vesh/ansible-use-cases-practical-applications-and-implementation-with-examples-166o)
+- [Answer: AttributeError : &#39;tuple&#39; has no attribute &#39;to&#39;](https://dev.to/nirmalsankalana/answer-attributeerror-tuple-has-no-attribute-to-35i9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
