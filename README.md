@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Import objects from another database in Access VBA](https://dev.to/0meow0/import-objects-from-another-database-in-access-vba-5fdk)
-- [Writing your resume as a developer](https://dev.to/chesedwolfjager/writing-your-resume-as-a-developer-107e)
-- [Automate Web Testing in C#: A Guide with PuppeteerSharp and SpecFlow](https://dev.to/mukarramjavid/automate-web-testing-in-c-a-guide-with-puppeteersharp-and-specflow-48)
-- [Padrões de projeto: Strategy](https://dev.to/camilaferreiranas/padroes-de-projeto-strategy-1fc)
-- [The kubernetes architecture in 5min](https://dev.to/xavki/the-kubernetes-architecture-in-5min-3id5)
+- [MedInsight: Your AI rare disease research assistant.](https://dev.to/ion_finisher/medinsight-your-ai-rare-disease-research-assistant-5hjj)
+- [OpsLobby - A community for DevOps folks in games](https://dev.to/r0bbie/opslobby-a-community-for-devops-folks-in-games-2cad)
+- [List all Visual Studio solutions](https://dev.to/karenpayneoregon/list-all-visual-studio-solutions-4a2b)
+- [Throwing Success or Failure Notifications Manually in FilamentPHP Actions](https://dev.to/biostate/throwing-success-or-failure-notifications-manually-in-filamentphp-actions-1gkn)
+- [Genmo Mochi 1 — SOTA Video Generation Model — Full Tutorial With SwarmUI — Locally Generate Amazing AI Videos for Free](https://dev.to/furkangozukara/genmo-mochi-1-sota-video-generation-model-full-tutorial-with-swarmui-locally-generate-amazing-ai-videos-for-free-1jjp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
