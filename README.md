@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [In-Depth Technical Analysis of XAML-Based Frameworks and Cross-Platform Project Architecture Design](https://dev.to/jamesnet214/in-depth-technical-analysis-of-xaml-based-frameworks-and-cross-platform-project-architecture-design-6cj)
-- [Enhanced Maritime Safety Through Object Detection](https://dev.to/kushagra102/enhanced-maritime-safety-through-object-detection-5c0d)
-- [Making the Ivorian Labor Code Accessible and Understandable through the RAG System](https://dev.to/rezar12/making-the-ivorian-labor-code-accessible-and-understandable-through-the-rag-system-2emf)
-- [Natural Language Processing &lpar;NLP&rpar;](https://dev.to/itsmanavhere/natural-language-processing-nlp-251g)
-- [Update with a single command](https://dev.to/birolaydin/update-with-a-single-command-gl8)
+- [PHPStan: Elevate Your PHP Code Quality with Static Analysis](https://dev.to/alphaolomi/phpstan-elevate-your-php-code-quality-with-static-analysis-519f)
+- [Turbocharge Your Website: A Developer&#39;s Guide to Web Performance 🚀💨💻](https://dev.to/hossamgouda/turbocharge-your-website-a-developers-guide-to-web-performance-h0l)
+- [Mastering Async JavaScript: Promises vs. Async/Await](https://dev.to/holly_e0971bb/mastering-async-javascript-promises-vs-asyncawait-1f15)
+- [Understanding and Writing Methods in C#](https://dev.to/moh_moh701/understanding-and-writing-methods-in-c-a3o)
+- [FeatureOne](https://dev.to/ninjarocks/featureone-2g33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
