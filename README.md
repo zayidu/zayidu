@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the difference between forEach and map in streams?](https://dev.to/realnamehidden1_61/what-is-the-difference-between-foreach-and-map-in-streams-42d4)
-- [[Blog Template] Create your own blog site with this Ready-to-use Template, built with Next.js](https://dev.to/jnoncode/blog-template-create-your-own-blog-site-with-this-ready-to-use-template-built-with-nextjs-44hd)
-- [PL/SQL Developer Interview Questions with 3 years of experience](https://dev.to/mrcaption49/plsql-developer-interview-questions-with-3-years-of-experience-4f6l)
-- [Can I Drive? Coding an Alcohol Tester](https://dev.to/madsstoumann/can-i-drive-coding-an-alcohol-tester-163g)
-- [Snort: A Powerful Tool for Network Security in DevSecOps](https://dev.to/shankara_narayanarc_8a0/snort-a-powerful-tool-for-network-security-in-devsecops-14o7)
+- [How Software Engineers Make Their Software Run Faster](https://dev.to/koladev/how-software-engineers-make-their-software-run-faster-2620)
+- [Linux Web Server Showdown: Choosing Between Apache, Nginx, LiteSpeed, and Caddy](https://dev.to/kaustubhyerkade/linux-web-server-showdown-choosing-between-apache-nginx-litespeed-and-caddy-2anl)
+- [Treat relationship-building like a competitive sport](https://dev.to/jcsmileyjr/treat-relationship-building-like-a-competitive-sport-dfh)
+- [Implementing a DDD Use Case in PHP](https://dev.to/sebk69/implementing-a-ddd-use-case-for-tax-persistence-in-php-1gij)
+- [Modal vs dialog](https://dev.to/doccaio/modal-vs-dialog-2bb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
