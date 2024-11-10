@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PHPStan: Elevate Your PHP Code Quality with Static Analysis](https://dev.to/alphaolomi/phpstan-elevate-your-php-code-quality-with-static-analysis-519f)
-- [Turbocharge Your Website: A Developer&#39;s Guide to Web Performance 🚀💨💻](https://dev.to/hossamgouda/turbocharge-your-website-a-developers-guide-to-web-performance-h0l)
-- [Mastering Async JavaScript: Promises vs. Async/Await](https://dev.to/holly_e0971bb/mastering-async-javascript-promises-vs-asyncawait-1f15)
-- [Understanding and Writing Methods in C#](https://dev.to/moh_moh701/understanding-and-writing-methods-in-c-a3o)
-- [FeatureOne](https://dev.to/ninjarocks/featureone-2g33)
+- [Setting Up a Full-Stack Project with React and Firebase: Authentication, Firestore, Storage, Functions &amp; Vertex AI](https://dev.to/gladiatorsbattle/setting-up-a-full-stack-project-with-react-and-firebase-authentication-firestore-storage-functions-vertex-ai-5964)
+- [Level Up Your App&#39;s Speed with `NgOptimizedImage`](https://dev.to/jzolnowski/supercharge-angular-app-with-ngoptimizedimage-56j4)
+- [Why Your Company Should Sponsor Events](https://dev.to/cirdes/why-your-company-should-sponsor-events-4e04)
+- [Transform Your Testing Process: A Guide to GPT-Powered Test Planning](https://dev.to/denisha/transform-your-testing-process-a-guide-to-gpt-powered-test-planning-48a6)
+- [User Authentication with Auth.js in Next.js App Router](https://dev.to/jamescroissant/user-authentication-with-authjs-in-nextjs-app-router-424k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
