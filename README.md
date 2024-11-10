@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Chatbot with Next.js, Cerebras API and Llama 3.1](https://dev.to/shamso_osman/building-a-chatbot-with-nextjs-cerebras-api-and-llama-31-1dc7)
-- [The Power of Responsible Tourism: Enhancing Growth and Sustainability in Sri Lanka&#39;s Tourism Sector](https://dev.to/vidminiminupama/the-power-of-responsible-tourism-enhancing-growth-and-sustainability-in-sri-lankas-tourism-sector-2cej)
-- [How to Choose the Right AI Model for Your Business in 2025?](https://dev.to/vikas76/how-to-choose-the-right-ai-model-for-your-business-in-2025-42cg)
-- [🚀 Your Daily Crypto Job Digest For 10 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-10-november-2l92)
-- [Why Responsible AI is a Must: Mitigating the Risks of AI in 2025](https://dev.to/vikas76/why-responsible-ai-is-a-must-mitigating-the-risks-of-ai-in-2025-5f2i)
+- [Understanding forwardRef in React: A Comprehensive Guide](https://dev.to/ingeniouswebster/understanding-forwardref-in-react-a-comprehensive-guide-4e85)
+- [🚀 My First Website: Anotes - A Sleek Note-Taking App](https://dev.to/alexcj10/my-first-website-anotes-a-sleek-note-taking-app-4fgl)
+- [Global day of code retreat Madrid](https://dev.to/marabesi/global-day-of-code-retreat-madrid-1305)
+- [How to Kill Vulnerabilities in Your Node.js App: A Guide to Writing Secure JavaScript Code](https://dev.to/aivantuquero/how-to-kill-vulnerabilities-in-your-nodejs-app-a-guide-to-writing-secure-javascript-code-2l24)
+- [Tips | Effortlessly Presenting UIViewController in SwiftUI](https://dev.to/matsuji/tips-effortlessly-presenting-uiviewcontroller-in-swiftui-4mea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
