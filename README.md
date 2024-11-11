@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why NotebookLM is Revolutionizing Academic Research &lpar;While ChatGPT Falls Short&rpar;](https://dev.to/hannes_lehmann/why-notebooklm-is-revolutionizing-academic-research-while-chatgpt-falls-short-35mi)
-- [Procedimentos como base sólida da experiência do desenvolvedor antes da automação](https://dev.to/biosbug/procedimentos-como-base-solida-da-experiencia-do-desenvolvedor-antes-da-automacao-jk6)
-- [Navigating the Vocabulary of Gen AI with GIFs](https://dev.to/aws-builders/navigating-the-vocabulary-of-gen-ai-with-gifs-5ao5)
-- [SRE Deployment Engineer Managing Reliable &amp; Automated Deployments](https://dev.to/kubeha_18/sre-deployment-engineer-managing-reliable-automated-deployments-1dcm)
-- [Dockerizing SQL Server with Pre-Restored Databases](https://dev.to/chewryl/dockerizing-sql-server-with-pre-restored-databases-25dh)
+- [Symfony Station Communiqué — 08 November 2024. A look at Symfony, Drupal, PHP, and programming news!](https://dev.to/reubenwalker64/symfony-station-communique-08-november-2024-a-look-at-symfony-drupal-php-and-programming-news-2569)
+- [Mastering in linux find command](https://dev.to/shani_kumar97/mastering-in-linux-find-command-3k8g)
+- [Integrating Stripe Payment Intent in NestJS with Webhook Handling](https://dev.to/imzihad21/integrating-stripe-payment-intent-in-nestjs-with-webhook-handling-1n65)
+- [Introducing InsightfulAI: Open-Source Machine Learning Templates for Everyone](https://dev.to/craftedwithintent/introducing-insightfulai-open-source-machine-learning-templates-for-everyone-lb)
+- [Google Workspace Security Part 1: Common Security Settings and 2SV](https://dev.to/andrew_despres/google-workspace-security-part-1-common-security-settings-and-2sv-1a1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
