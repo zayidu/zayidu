@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB Indexes: The Superpower to Speed Up Your Queries ⚡](https://dev.to/tuna99/mongodb-indexes-the-superpower-to-speed-up-your-queries-3lea)
-- [8 Slack Tips Every Tech Team Should Know in 2025](https://dev.to/adler_hsieh/8-slack-tips-every-tech-team-should-know-in-2025-4odl)
-- [14 Career Lessons After 10+ Years &lpar;and Lots of Trial and Error&rpar; as a Software Engineer — Rapid Fire Edition](https://dev.to/canro91/14-career-lessons-after-10-years-and-lots-of-trial-and-error-as-a-software-engineer-rapid-fire-edition-2946)
-- [A Playground for SQL RDBMS, custom Ollama API Interaction with RAG on Timescale DB and download of query plus result](https://dev.to/ogbotemi2000/a-playground-for-sql-rdbms-custom-ollama-api-interaction-with-rag-on-timescale-db-and-download-of-query-plus-result-5b24)
-- [AI Writing Assistant for Sci-fi Authors](https://dev.to/rachel_cheuk/ai-writing-assistant-for-sci-fi-authors-1d5g)
+- [GBASE数据库 | Introduction to GBase 8a Cluster Transparent Gateway and DBLINK Usage](https://dev.to/congcong/gbaseshu-ju-ku-introduction-to-gbase-8a-cluster-transparent-gateway-and-dblink-usage-3hg4)
+- [Ollama chatbot with vercel ai with pgai, pgvector.](https://dev.to/emee/ollama-chatbot-with-vercel-ai-with-pgai-pgvector-348n)
+- [Oracle Cloud HCM 24D Release: What’s New?](https://dev.to/johnste39558689/oracle-cloud-hcm-24d-release-whats-new-4eng)
+- [Deploy web apps with help from GitHub Copilot for Azure!](https://dev.to/reneenoble/deploy-web-apps-with-help-from-github-copilot-for-azure-5ab2)
+- [Sound Scape](https://dev.to/steveemmerich/sound-scape-hi1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
