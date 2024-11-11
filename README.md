@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding UX and UI: Key Differences and Elements of Great Design](https://dev.to/ashley_theriot_5af3dbf3c2/understanding-ux-and-ui-key-differences-and-elements-of-great-design-51ji)
-- [How to Build a Cloud Security Policy for Your Organization](https://dev.to/jordan-blake/how-to-build-a-cloud-security-policy-for-your-organization-lpc)
-- [Episode 6: The First Strike – Bugs in the Core Nexus](https://dev.to/vigneshiyergithub/episode-6-the-first-strike-bugs-in-the-core-nexus-2hai)
-- [C# Tip: Avoid Using Exceptions for Control Flow](https://dev.to/juarezasjunior/c-tip-avoid-using-exceptions-for-control-flow-5bci)
-- [Dica C#: Evite Exceções para Controle de Fluxo](https://dev.to/juarezasjunior/dica-c-evite-excecoes-para-controle-de-fluxo-3lgm)
+- [Using Binary To Solve the Poisoned Barrel Puzzle](https://dev.to/michi/using-binary-to-solve-the-poisoned-barrel-puzzle-4hhg)
+- [Meme Monday](https://dev.to/ben/meme-monday-5729)
+- [The Value of Small Wins](https://dev.to/gabrieltoma/the-value-of-small-wins-2bj8)
+- [How To Code Faster: Coding Strategies, GRASP, Shortcuts](https://dev.to/bkhebert/how-to-code-faster--49i4)
+- [Playwright Visual Testing - Dynamic Data](https://dev.to/leading-edje/playwright-visual-testing-dynamic-data-34ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
