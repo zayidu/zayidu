@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Units of Measurement: When Do You Use Rem vs. Em vs. Px?](https://dev.to/bridgettguzik09d/css-units-of-measurement-when-do-you-use-rem-vs-em-vs-px-4oh2)
-- [Python &amp; Github Guards](https://dev.to/fadingna/python-github-guards-31n7)
-- [Install/Use Any Version of Node.js with nvm &lpar;Node Version Manager&rpar;](https://dev.to/anhdung/installuse-any-version-of-nodejs-with-nvm-node-version-manager-kl9)
-- [Essential VS Code Extensions for Productivity in 2024](https://dev.to/hangartne/essential-vs-code-extensions-for-productivity-in-2024-gh8)
-- [Componentização](https://dev.to/bianca_camargo_m/componentizacao-270j)
+- [Ethical Considerations in AI-Driven Software Testing](https://dev.to/anil_csimplifyit_905c/ethical-considerations-in-ai-driven-software-testing-3ile)
+- [Use vite_rails to use Vue SFC&lpar;single file component, .vue&rpar; in &gt;= Rails7](https://dev.to/kevinluo201/use-viterails-to-use-vue-sfcsingle-file-component-vue-in-rails7-51bn)
+- [High Concurrency IPC Communication Implementation: Asynchronous Invocation and Multithreading Processing in HarmonyOS](https://dev.to/xun_wang_6384a403f9817c2/high-concurrency-ipc-communication-implementation-asynchronous-invocation-and-multithreading-processing-in-harmonyos-4966)
+- [高并发IPC通信实现：HarmonyOS中的异步调用与多线程处理](https://dev.to/xun_wang_6384a403f9817c2/gao-bing-fa-ipctong-xin-shi-xian-harmonyoszhong-de-yi-bu-diao-yong-yu-duo-xian-cheng-chu-li-2eb4)
+- [Seamless Infinite Scroll Experience with Vue 3: The Art of Loading Without Interruptions](https://dev.to/dailysandbox/seamless-infinite-scroll-experience-with-vue-3-the-art-of-loading-without-interruptions-24mg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
