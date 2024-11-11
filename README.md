@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Changing how we do standups](https://dev.to/pjhoberman/changing-how-we-do-standups-1im9)
-- [7 Open Source AI-Powered Startups | update November 2024 | from Open Community](https://dev.to/abdibrokhim/7-open-source-ai-powered-startups-update-november-2024-from-open-community-50bj)
-- [CREATING AND CONNECTING TO A LINUX VIRTUAL MACHINE SCALE SET](https://dev.to/seyilufadejucyberservices/creating-and-connecting-to-a-linux-virtual-machine-scale-set-471c)
-- [Run devcontainers as a non-root user](https://dev.to/sukkergris/run-devcontainers-as-a-non-root-user-m1o)
-- [Today’s new knowledge #2](https://dev.to/kishor_sutradhar_d2503ac4/todays-new-knowledge-2-1p54)
+- [The Hidden Costs of Traditional Lawns: An AI Analysis](https://dev.to/josef_doctorovitz_ww/the-hidden-costs-of-traditional-lawns-an-ai-analysis-3hd8)
+- [Google Workspace Security Part 2: SSO, API Access, Managing Connected Apps and the Alert Center](https://dev.to/andrew_despres/google-workspace-security-part-2-sso-api-access-managing-connected-apps-and-the-alert-center-13bk)
+- [Implementation Analysis of Alternative NoSQL Database Solutions in Modern Web Applications](https://dev.to/juan_josdavidperezviz/implementation-analysis-of-alternative-nosql-database-solutions-in-modern-web-applications-2kc2)
+- [Implementation Analysis of Alternative NoSQL Database Solutions in Modern Web Applications](https://dev.to/juan_josdavidperezviz/implementation-analysis-of-alternative-nosql-database-solutions-in-modern-web-applications-opn)
+- [AWS ECS Básico](https://dev.to/cslemes/aws-ecs-basico-3lgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
