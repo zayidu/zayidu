@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lexical Search vs. Vector Search: Exploring the Differences and Key Aspects](https://dev.to/sanikolaev/lexical-search-vs-vector-search-exploring-the-differences-and-key-aspects-2ep0)
-- [Merging Local and Remote Git Repos: Fixing Unrelated Histories](https://dev.to/rajinh24/merging-local-and-remote-git-repos-fixing-unrelated-histories-aai)
-- [Implementing Root Detection and File Existence Security Checks in React Native &lpar;iOS&rpar; - 2](https://dev.to/ajmal_hasan/implementing-root-detection-and-file-existence-security-checks-in-react-native-ios-2-1mdm)
-- [Kibana](https://dev.to/karthick_k_1b6a22570d5089/kibana-5elo)
-- [How Data Science &amp; AI Visualization Foster Solution Delivery Across Industries](https://dev.to/javed_ahmed_ed09a56489a43/how-data-science-ai-visualization-foster-solution-delivery-across-industries-1l0e)
+- [Credit Card Against FD: What It Is, Key Features, and Benefits](https://dev.to/richa_jain_cae2bb36857bb5/credit-card-against-fd-what-it-is-key-features-and-benefits-2hg)
+- [Amazon QuickSight for Data Visualization on Streaming Platforms: A Netflix Case Study](https://dev.to/timileyin/amazon-quicksight-for-data-visualization-on-streaming-platforms-a-netflix-case-study-263c)
+- [Navigating Web Rendering](https://dev.to/leonardo1903/navigating-web-rendering-2h5h)
+- [Integrating Low-Code &amp; High-Code Solutions Effectively](https://dev.to/aws-builders/integrating-low-code-high-code-solutions-effectively-p6d)
+- [Adding Google Authentication in Next.js 14 with App Router: A Beginner-Friendly Guide](https://dev.to/souravvmishra/adding-google-authentication-in-nextjs-14-with-app-router-a-beginner-friendly-guide-3ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
