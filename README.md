@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Binary To Solve the Poisoned Barrel Puzzle](https://dev.to/michi/using-binary-to-solve-the-poisoned-barrel-puzzle-4hhg)
-- [Meme Monday](https://dev.to/ben/meme-monday-5729)
-- [The Value of Small Wins](https://dev.to/gabrieltoma/the-value-of-small-wins-2bj8)
-- [How To Code Faster: Coding Strategies, GRASP, Shortcuts](https://dev.to/bkhebert/how-to-code-faster--49i4)
-- [Playwright Visual Testing - Dynamic Data](https://dev.to/leading-edje/playwright-visual-testing-dynamic-data-34ia)
+- [How Your Code Editor Got Its Superpowers 🚀](https://dev.to/mike-vincent/how-your-code-editor-got-its-superpowers-26h)
+- [Say Goodbye to Unnecessary Re-Renders with React Memo: Step-by-Step Tutorial](https://dev.to/chintanonweb/say-goodbye-to-unnecessary-re-renders-with-react-memo-step-by-step-tutorial-551j)
+- [Bounded Contexts with Azure Service Bus: Scaling Domain-Driven Design](https://dev.to/dazevedo/bounded-contexts-with-azure-service-bus-scaling-domain-driven-design-4d89)
+- [Streamlining Mergers with AWS: Custom Tool for Portfolio Integration](https://dev.to/akhil_mittal/streamlining-mergers-with-aws-custom-tool-for-portfolio-integration-obe)
+- [Computer Networking - Full Course](https://dev.to/vignesh_j/computer-networking-full-course-2nmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
