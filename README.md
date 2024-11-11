@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ethical Considerations in AI-Driven Software Testing](https://dev.to/anil_csimplifyit_905c/ethical-considerations-in-ai-driven-software-testing-3ile)
-- [Use vite_rails to use Vue SFC&lpar;single file component, .vue&rpar; in &gt;= Rails7](https://dev.to/kevinluo201/use-viterails-to-use-vue-sfcsingle-file-component-vue-in-rails7-51bn)
-- [High Concurrency IPC Communication Implementation: Asynchronous Invocation and Multithreading Processing in HarmonyOS](https://dev.to/xun_wang_6384a403f9817c2/high-concurrency-ipc-communication-implementation-asynchronous-invocation-and-multithreading-processing-in-harmonyos-4966)
-- [高并发IPC通信实现：HarmonyOS中的异步调用与多线程处理](https://dev.to/xun_wang_6384a403f9817c2/gao-bing-fa-ipctong-xin-shi-xian-harmonyoszhong-de-yi-bu-diao-yong-yu-duo-xian-cheng-chu-li-2eb4)
-- [Seamless Infinite Scroll Experience with Vue 3: The Art of Loading Without Interruptions](https://dev.to/dailysandbox/seamless-infinite-scroll-experience-with-vue-3-the-art-of-loading-without-interruptions-24mg)
+- [The Ultimate Glossary Of Terms About Accidents Lawyer](https://dev.to/cocoashears0/the-ultimate-glossary-of-terms-about-accidents-lawyer-fag)
+- [How To Explain Personal Injury Lawyer To Your Grandparents](https://dev.to/domainlevel9/how-to-explain-personal-injury-lawyer-to-your-grandparents-f2j)
+- [How to Create a RESTful API with Node.js, Express, and MongoDB using MVC pattern](https://dev.to/inam003/how-to-create-a-restful-api-with-nodejs-express-and-mongodb-using-mvc-pattern-218)
+- [&quot;Mastering Micro Frontends: The Future of Scalable and Agile Front-End Development&quot;](https://dev.to/vsfarooqkhan/mastering-micro-frontends-the-future-of-scalable-and-agile-front-end-development-378n)
+- [Testing LLM Applications: Misadventures in Mocking SDKs vs Direct HTTP Requests](https://dev.to/peterdanwan/testing-llm-applications-misadventures-in-mocking-sdks-vs-direct-http-requests-5dgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
