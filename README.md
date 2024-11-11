@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Platform - Direct to Prod?](https://dev.to/wyattdave/power-platform-direct-to-prod-1ci7)
-- [Intuitive Explanation of O&lpar;n log n&rpar; Complexity⏳](https://dev.to/yo-shi/intuitive-explanation-of-on-log-n-complexity-4kmf)
-- [how do you figure sales tax on a calculator](https://dev.to/tenorgray37/how-do-you-figure-sales-tax-on-a-calculator-1fmp)
-- [Angular TS MAT-TREE issue](https://dev.to/vm_9541e4310fb1599d20677c/angular-ts-mat-tree-issue-1i80)
-- [#93 — Intersection, Union and Difference in the Case of Row-Based Data — Two Sets — by Key Column](https://dev.to/judith677/93-intersection-union-and-difference-in-the-case-of-row-based-data-two-sets-by-key-column-2ako)
+- [Forms in seconds with ShardCn forms](https://dev.to/giuliano1993/forms-in-seconds-with-shardcn-forms-4hf6)
+- [Unlocking the Power of UPDATE Queries in Databases](https://dev.to/dbvismarketing/unlocking-the-power-of-update-queries-in-databases-23ng)
+- [paRAGraph - Narrative RAG chatbot](https://dev.to/greyh_/paragraph-narrative-rag-chatbot-4ib)
+- [Enterprise data is at the crux of the biggest challenges for GenAI deployment](https://dev.to/iriszarecki/enterprise-data-is-at-the-crux-of-the-biggest-challenges-for-genai-deployment-2dkf)
+- [Rust Fullstack - Ollama: RepStar - Reputation management with insights Web Application2](https://dev.to/kuhiepmr/rust-fullstack-ollama-repstar-reputation-management-with-insights-web-application-4280)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
