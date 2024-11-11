@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Data Engineering Roadmap: From Beginner to Pro](https://dev.to/shahiakhilesh1304/the-ultimate-data-engineering-roadmap-from-beginner-to-pro-21nf)
-- [How do HTML event handlers work?](https://dev.to/tbroyer/how-do-html-event-handlers-work-nok)
-- [Simplify Your Server Connections with SSH Config](https://dev.to/nwby/simplify-your-server-connections-with-ssh-config-5gce)
-- [Pure Text Laravel Package](https://dev.to/yasserelgammal/pure-text-laravel-package-302p)
-- [How to and Should you use Bun FFI](https://dev.to/1ce/how-to-and-should-you-use-bun-ffi-4c9k)
+- [CSS Units of Measurement: When Do You Use Rem vs. Em vs. Px?](https://dev.to/bridgettguzik09d/css-units-of-measurement-when-do-you-use-rem-vs-em-vs-px-4oh2)
+- [Python &amp; Github Guards](https://dev.to/fadingna/python-github-guards-31n7)
+- [Install/Use Any Version of Node.js with nvm &lpar;Node Version Manager&rpar;](https://dev.to/anhdung/installuse-any-version-of-nodejs-with-nvm-node-version-manager-kl9)
+- [Essential VS Code Extensions for Productivity in 2024](https://dev.to/hangartne/essential-vs-code-extensions-for-productivity-in-2024-gh8)
+- [Componentização](https://dev.to/bianca_camargo_m/componentizacao-270j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
