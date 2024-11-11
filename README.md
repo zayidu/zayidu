@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building CI/CD Pipelines with Jenkins and GitLab - Part1](https://dev.to/sunny_pukkalli/building-cicd-pipelines-with-jenkins-and-gitlab-part1-3bn5)
-- [Episode 9: The Gatekeepers of Codex – Defending the Authorization Dome](https://dev.to/vigneshiyergithub/episode-9-the-gatekeepers-of-codex-defending-the-authorization-dome-4hdn)
-- [Understanding etcd&#39;s Raft Implementation: A Deep Dive into Raft Log](https://dev.to/justlorain/understanding-etcds-raft-implementation-a-deep-dive-into-raft-log-bdn)
-- [Validating JSON Schema with Fixed and User-Defined Keys in Python](https://dev.to/sanskar_4862/validating-json-schema-with-fixed-and-user-defined-keys-in-python-34ej)
-- [Understanding RPC in Microservices](https://dev.to/dazevedo/understanding-rpc-in-microservices-22l4)
+- [The Importance of Testing and the Impact of a Bug in Production](https://dev.to/techelopment/the-importance-of-testing-and-the-impact-of-a-bug-in-production-5cb3)
+- [A path to paths](https://dev.to/lizmat/a-path-to-paths-21b5)
+- [10 Mind-Blowing AI Predictions That Will Change Our World by 2030](https://dev.to/bhanu_srivastav/10-mind-blowing-ai-predictions-that-will-change-our-world-by-2030-2lj1)
+- [A Beginner’s Guide to RESTful APIs in Software Engineering](https://dev.to/anaiscoding/a-beginners-guide-to-restful-apis-in-software-engineering-3ofp)
+- [GitHub’s Security Scanner &amp; Conventional Commits — A Developer’s Journey](https://dev.to/jesse_chong_3bcc276c4f950/githubs-security-scanner-conventional-commits-a-developers-journey-1p3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
