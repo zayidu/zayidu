@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cypress for the absolute beginner](https://dev.to/w4dd325/cypress-for-the-absolute-beginner-10fi)
-- [Transform Your WordPress Images with Generative AI](https://dev.to/sharony/transform-your-wordpress-images-with-generative-ai-4l7f)
-- [Understanding Service Mesh: The Backbone of Microservices Communication](https://dev.to/keploy/understanding-service-mesh-the-backbone-of-microservices-communication-4l2o)
-- [I received JavaScript Hero of Community Award 🎉](https://dev.to/jacobandrewsky/i-received-javascript-hero-of-community-award-36b5)
-- [How to Block or Filter Temporary Emails Using the tempemailvalidator Library 🚫✉️](https://dev.to/danguya/how-to-block-or-filter-temporary-emails-using-the-tempemailvalidator-library-3iaa)
+- [Lexical Search vs. Vector Search: Exploring the Differences and Key Aspects](https://dev.to/sanikolaev/lexical-search-vs-vector-search-exploring-the-differences-and-key-aspects-2ep0)
+- [Merging Local and Remote Git Repos: Fixing Unrelated Histories](https://dev.to/rajinh24/merging-local-and-remote-git-repos-fixing-unrelated-histories-aai)
+- [Implementing Root Detection and File Existence Security Checks in React Native &lpar;iOS&rpar; - 2](https://dev.to/ajmal_hasan/implementing-root-detection-and-file-existence-security-checks-in-react-native-ios-2-1mdm)
+- [Kibana](https://dev.to/karthick_k_1b6a22570d5089/kibana-5elo)
+- [How Data Science &amp; AI Visualization Foster Solution Delivery Across Industries](https://dev.to/javed_ahmed_ed09a56489a43/how-data-science-ai-visualization-foster-solution-delivery-across-industries-1l0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
