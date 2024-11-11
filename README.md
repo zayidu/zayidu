@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Forms in seconds with ShardCn forms](https://dev.to/giuliano1993/forms-in-seconds-with-shardcn-forms-4hf6)
-- [Unlocking the Power of UPDATE Queries in Databases](https://dev.to/dbvismarketing/unlocking-the-power-of-update-queries-in-databases-23ng)
-- [paRAGraph - Narrative RAG chatbot](https://dev.to/greyh_/paragraph-narrative-rag-chatbot-4ib)
-- [Enterprise data is at the crux of the biggest challenges for GenAI deployment](https://dev.to/iriszarecki/enterprise-data-is-at-the-crux-of-the-biggest-challenges-for-genai-deployment-2dkf)
-- [Rust Fullstack - Ollama: RepStar - Reputation management with insights Web Application2](https://dev.to/kuhiepmr/rust-fullstack-ollama-repstar-reputation-management-with-insights-web-application-4280)
+- [Cypress for the absolute beginner](https://dev.to/w4dd325/cypress-for-the-absolute-beginner-10fi)
+- [Transform Your WordPress Images with Generative AI](https://dev.to/sharony/transform-your-wordpress-images-with-generative-ai-4l7f)
+- [Understanding Service Mesh: The Backbone of Microservices Communication](https://dev.to/keploy/understanding-service-mesh-the-backbone-of-microservices-communication-4l2o)
+- [I received JavaScript Hero of Community Award 🎉](https://dev.to/jacobandrewsky/i-received-javascript-hero-of-community-award-36b5)
+- [How to Block or Filter Temporary Emails Using the tempemailvalidator Library 🚫✉️](https://dev.to/danguya/how-to-block-or-filter-temporary-emails-using-the-tempemailvalidator-library-3iaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
