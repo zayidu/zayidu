@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GBASE数据库 | Introduction to GBase 8a Cluster Transparent Gateway and DBLINK Usage](https://dev.to/congcong/gbaseshu-ju-ku-introduction-to-gbase-8a-cluster-transparent-gateway-and-dblink-usage-3hg4)
-- [Ollama chatbot with vercel ai with pgai, pgvector.](https://dev.to/emee/ollama-chatbot-with-vercel-ai-with-pgai-pgvector-348n)
-- [Oracle Cloud HCM 24D Release: What’s New?](https://dev.to/johnste39558689/oracle-cloud-hcm-24d-release-whats-new-4eng)
-- [Deploy web apps with help from GitHub Copilot for Azure!](https://dev.to/reneenoble/deploy-web-apps-with-help-from-github-copilot-for-azure-5ab2)
-- [Sound Scape](https://dev.to/steveemmerich/sound-scape-hi1)
+- [Power Platform - Direct to Prod?](https://dev.to/wyattdave/power-platform-direct-to-prod-1ci7)
+- [Intuitive Explanation of O&lpar;n log n&rpar; Complexity⏳](https://dev.to/yo-shi/intuitive-explanation-of-on-log-n-complexity-4kmf)
+- [how do you figure sales tax on a calculator](https://dev.to/tenorgray37/how-do-you-figure-sales-tax-on-a-calculator-1fmp)
+- [Angular TS MAT-TREE issue](https://dev.to/vm_9541e4310fb1599d20677c/angular-ts-mat-tree-issue-1i80)
+- [#93 — Intersection, Union and Difference in the Case of Row-Based Data — Two Sets — by Key Column](https://dev.to/judith677/93-intersection-union-and-difference-in-the-case-of-row-based-data-two-sets-by-key-column-2ako)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
