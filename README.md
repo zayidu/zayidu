@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Credit Card Against FD: What It Is, Key Features, and Benefits](https://dev.to/richa_jain_cae2bb36857bb5/credit-card-against-fd-what-it-is-key-features-and-benefits-2hg)
-- [Amazon QuickSight for Data Visualization on Streaming Platforms: A Netflix Case Study](https://dev.to/timileyin/amazon-quicksight-for-data-visualization-on-streaming-platforms-a-netflix-case-study-263c)
-- [Navigating Web Rendering](https://dev.to/leonardo1903/navigating-web-rendering-2h5h)
-- [Integrating Low-Code &amp; High-Code Solutions Effectively](https://dev.to/aws-builders/integrating-low-code-high-code-solutions-effectively-p6d)
-- [Adding Google Authentication in Next.js 14 with App Router: A Beginner-Friendly Guide](https://dev.to/souravvmishra/adding-google-authentication-in-nextjs-14-with-app-router-a-beginner-friendly-guide-3ag)
+- [Understanding UX and UI: Key Differences and Elements of Great Design](https://dev.to/ashley_theriot_5af3dbf3c2/understanding-ux-and-ui-key-differences-and-elements-of-great-design-51ji)
+- [How to Build a Cloud Security Policy for Your Organization](https://dev.to/jordan-blake/how-to-build-a-cloud-security-policy-for-your-organization-lpc)
+- [Episode 6: The First Strike – Bugs in the Core Nexus](https://dev.to/vigneshiyergithub/episode-6-the-first-strike-bugs-in-the-core-nexus-2hai)
+- [C# Tip: Avoid Using Exceptions for Control Flow](https://dev.to/juarezasjunior/c-tip-avoid-using-exceptions-for-control-flow-5bci)
+- [Dica C#: Evite Exceções para Controle de Fluxo](https://dev.to/juarezasjunior/dica-c-evite-excecoes-para-controle-de-fluxo-3lgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
