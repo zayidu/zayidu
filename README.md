@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Tackle DevOps Implementation Challenges With Ease](https://dev.to/harman_diaz/a-guide-to-tackle-devops-implementation-challenges-with-ease-j8f)
-- [Optimize AWS Cloud Costs](https://dev.to/maradwan/optimize-aws-cloud-costs-2g4m)
-- [React + AWS Cognito: Email Authentication Setup Guide &lpar;Second Part&rpar;](https://dev.to/garciadiazjaime/react-aws-cognito-email-authentication-setup-guide-second-part-4fkh)
-- [A Historical Perspective on Character Encodings 🕰️](https://dev.to/brunociccarino/a-historical-perspective-on-character-encodings-3ge0)
-- [What is Coding? A Beginner’s Guide to Programming Basics](https://dev.to/mandeep_kaurbaryar_db083/what-is-coding-a-beginners-guide-to-programming-basics-19jl)
+- [Agile vs. DevOps: Which is Best for Your Team?](https://dev.to/balrajola/agile-vs-devops-which-is-best-for-your-team-3oh8)
+- [A Beginners Guide to AWS &lpar;VPS&rpar; Virtual Private Cloud](https://dev.to/redrobotdev/a-beginners-guide-to-aws-vps-virtual-private-cloud-292m)
+- [Dynamic image creation with service workers](https://dev.to/maxart2501/dynamic-image-creation-with-service-workers-3l9h)
+- [How does WebAssembly enhance web application performance?](https://dev.to/techcreator_usa/how-does-webassembly-enhance-web-application-performance-3a0)
+- [29/365 | ¥10M Job Challenge - The second day of being sick](https://dev.to/kameken100/29365-y10m-job-challenge-the-second-day-of-being-sick-2cbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
