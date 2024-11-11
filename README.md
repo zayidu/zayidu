@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Your Code Editor Got Its Superpowers 🚀](https://dev.to/mike-vincent/how-your-code-editor-got-its-superpowers-26h)
-- [Say Goodbye to Unnecessary Re-Renders with React Memo: Step-by-Step Tutorial](https://dev.to/chintanonweb/say-goodbye-to-unnecessary-re-renders-with-react-memo-step-by-step-tutorial-551j)
-- [Bounded Contexts with Azure Service Bus: Scaling Domain-Driven Design](https://dev.to/dazevedo/bounded-contexts-with-azure-service-bus-scaling-domain-driven-design-4d89)
-- [Streamlining Mergers with AWS: Custom Tool for Portfolio Integration](https://dev.to/akhil_mittal/streamlining-mergers-with-aws-custom-tool-for-portfolio-integration-obe)
-- [Computer Networking - Full Course](https://dev.to/vignesh_j/computer-networking-full-course-2nmj)
+- [Introducing TideityIQ &lpar;tdq&rpar; — A Tool for Analyzing Time Complexity](https://dev.to/m__mdy__m/introducing-tideityiq-tdq-a-tool-for-analyzing-time-complexity-38mg)
+- [Glimpse of Google: Design Docs](https://dev.to/rockandnull/glimpse-of-google-design-docs-1b0h)
+- [Next.js Interview Mastery: Essential Questions 1-10 &lpar;Part 1&rpar;](https://dev.to/cyroscript/nextjs-interview-mastery-essential-questions-1-10-part-1-9ai)
+- [How Web Summit 2024 Supports Developer Growth and Drives Tech Innovation](https://dev.to/andylarkin677/how-web-summit-2024-supports-developer-growth-and-drives-tech-innovation-3oa4)
+- [Common Airport Spoken English 2 &lpar;常用机场英语口语 2&rpar;: Prepare re:Invent](https://dev.to/aws-builders/common-airport-spoken-english-1-chang-yong-ji-chang-ying-yu-kou-yu-1-prepare-reinvent-2m67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
