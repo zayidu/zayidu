@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agile vs. DevOps: Which is Best for Your Team?](https://dev.to/balrajola/agile-vs-devops-which-is-best-for-your-team-3oh8)
-- [A Beginners Guide to AWS &lpar;VPS&rpar; Virtual Private Cloud](https://dev.to/redrobotdev/a-beginners-guide-to-aws-vps-virtual-private-cloud-292m)
-- [Dynamic image creation with service workers](https://dev.to/maxart2501/dynamic-image-creation-with-service-workers-3l9h)
-- [How does WebAssembly enhance web application performance?](https://dev.to/techcreator_usa/how-does-webassembly-enhance-web-application-performance-3a0)
-- [29/365 | ¥10M Job Challenge - The second day of being sick](https://dev.to/kameken100/29365-y10m-job-challenge-the-second-day-of-being-sick-2cbe)
+- [Why NotebookLM is Revolutionizing Academic Research &lpar;While ChatGPT Falls Short&rpar;](https://dev.to/hannes_lehmann/why-notebooklm-is-revolutionizing-academic-research-while-chatgpt-falls-short-35mi)
+- [Procedimentos como base sólida da experiência do desenvolvedor antes da automação](https://dev.to/biosbug/procedimentos-como-base-solida-da-experiencia-do-desenvolvedor-antes-da-automacao-jk6)
+- [Navigating the Vocabulary of Gen AI with GIFs](https://dev.to/aws-builders/navigating-the-vocabulary-of-gen-ai-with-gifs-5ao5)
+- [SRE Deployment Engineer Managing Reliable &amp; Automated Deployments](https://dev.to/kubeha_18/sre-deployment-engineer-managing-reliable-automated-deployments-1dcm)
+- [Dockerizing SQL Server with Pre-Restored Databases](https://dev.to/chewryl/dockerizing-sql-server-with-pre-restored-databases-25dh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
