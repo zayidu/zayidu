@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of Testing and the Impact of a Bug in Production](https://dev.to/techelopment/the-importance-of-testing-and-the-impact-of-a-bug-in-production-5cb3)
-- [A path to paths](https://dev.to/lizmat/a-path-to-paths-21b5)
-- [10 Mind-Blowing AI Predictions That Will Change Our World by 2030](https://dev.to/bhanu_srivastav/10-mind-blowing-ai-predictions-that-will-change-our-world-by-2030-2lj1)
-- [A Beginner’s Guide to RESTful APIs in Software Engineering](https://dev.to/anaiscoding/a-beginners-guide-to-restful-apis-in-software-engineering-3ofp)
-- [GitHub’s Security Scanner &amp; Conventional Commits — A Developer’s Journey](https://dev.to/jesse_chong_3bcc276c4f950/githubs-security-scanner-conventional-commits-a-developers-journey-1p3e)
+- [A Guide to Tackle DevOps Implementation Challenges With Ease](https://dev.to/harman_diaz/a-guide-to-tackle-devops-implementation-challenges-with-ease-j8f)
+- [Optimize AWS Cloud Costs](https://dev.to/maradwan/optimize-aws-cloud-costs-2g4m)
+- [React + AWS Cognito: Email Authentication Setup Guide &lpar;Second Part&rpar;](https://dev.to/garciadiazjaime/react-aws-cognito-email-authentication-setup-guide-second-part-4fkh)
+- [A Historical Perspective on Character Encodings 🕰️](https://dev.to/brunociccarino/a-historical-perspective-on-character-encodings-3ge0)
+- [What is Coding? A Beginner’s Guide to Programming Basics](https://dev.to/mandeep_kaurbaryar_db083/what-is-coding-a-beginners-guide-to-programming-basics-19jl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
