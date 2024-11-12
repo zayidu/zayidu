@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Costs of Traditional Lawns: An AI Analysis](https://dev.to/josef_doctorovitz_ww/the-hidden-costs-of-traditional-lawns-an-ai-analysis-3hd8)
-- [Google Workspace Security Part 2: SSO, API Access, Managing Connected Apps and the Alert Center](https://dev.to/andrew_despres/google-workspace-security-part-2-sso-api-access-managing-connected-apps-and-the-alert-center-13bk)
-- [Implementation Analysis of Alternative NoSQL Database Solutions in Modern Web Applications](https://dev.to/juan_josdavidperezviz/implementation-analysis-of-alternative-nosql-database-solutions-in-modern-web-applications-2kc2)
-- [Implementation Analysis of Alternative NoSQL Database Solutions in Modern Web Applications](https://dev.to/juan_josdavidperezviz/implementation-analysis-of-alternative-nosql-database-solutions-in-modern-web-applications-opn)
-- [AWS ECS Básico](https://dev.to/cslemes/aws-ecs-basico-3lgm)
+- [Math.ceil vs Math.floor](https://dev.to/dougsource/mathceil-vs-mathfloor-b1e)
+- [Efficient Multimodal Learning Using Pre-Trained Models on a Single GPU](https://dev.to/mikeyoung44/efficient-multimodal-learning-using-pre-trained-models-on-a-single-gpu-e62)
+- [Understanding MongoDB Atlas Search Scoring for Better Search Results](https://dev.to/shannonlal/understanding-mongodb-atlas-search-scoring-for-better-search-results-1in4)
+- [A beginner&#39;s guide to the Stable-Diffusion-Xl-Base-1.0 model by Stabilityai on Huggingface](https://dev.to/mikeyoung44/a-beginners-guide-to-the-stable-diffusion-xl-base-10-model-by-stabilityai-on-huggingface-3943)
+- [A beginner&#39;s guide to the Kandinsky-2 model by Ai-Forever on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-kandinsky-2-model-by-ai-forever-on-replicate-nfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
