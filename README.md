@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Low-Code No Code Platforms in 2024](https://dev.to/brilworks/the-best-low-code-no-code-platforms-in-2024-l6g)
-- [Build UIs with V0, CursorAI and Behance with PRD process](https://dev.to/ethanleetech/how-to-streamline-your-design-and-prd-process-with-ai-tools-1id1)
-- [Managing Transactions in Microservices](https://dev.to/vipulkumarsviit/managing-transactions-in-microservices-3l7d)
-- [Mastering Closures in JavaScript: A Complete Guide with Examples](https://dev.to/dostmd96/mastering-closures-in-javascript-a-complete-guide-with-examples-1ind)
-- [How badly do you need to type HTTP responses?](https://dev.to/webjose/how-badly-do-you-need-to-type-http-responses-36kj)
+- [Setting Up Your MERN Stack Development Environment &lpar;PART 2&rpar;](https://dev.to/bilalkhanio/setting-up-your-mern-stack-development-environment-part-2-3emf)
+- [The Essential Role of Kubernetes in Modern DevOps Workflows](https://dev.to/routeclouds/the-essential-role-of-kubernetes-in-modern-devops-workflows-1bk1)
+- [Easy Guide to Enable Basic Authentication in IIS on Windows 11](https://dev.to/winsides/easy-guide-to-enable-basic-authentication-in-iis-on-windows-11-ll2)
+- [Top Features to Look for in Modern Note-Taking Apps](https://dev.to/anurag_bhagsain_908641e9d/top-features-to-look-for-in-modern-note-taking-apps-4ik8)
+- [Cross-Border Payments: Challenges and Solutions for Seamless Transactions](https://dev.to/4f24l/cross-border-payments-challenges-and-solutions-for-seamless-transactions-15df)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
