@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Inspector Integrations: Strengthening Cloud Security with Security Hub and EventBridge](https://dev.to/aws-builders/amazon-inspector-integrations-strengthening-cloud-security-with-security-hub-and-eventbridge-33g7)
-- [5 Top Skills for Backend Developers](https://dev.to/david_tevzadze_/5-top-skills-for-backend-developers-2ag5)
-- [Building an API part 1](https://dev.to/simon8800/building-an-api-part-1-1b9m)
-- [Zero-Trust Security in K8s Made Simple: Istio Ambient Mesh, No Sidecar Needed](https://dev.to/uripld/achieve-sidecar-less-mtls-for-k8s-pods-with-istios-ambient-mesh-28k)
-- [Boost Your DevOps Career: Some Mini Project Ideas for Hands-On Practice in CI/CD, IaC, and Monitoring](https://dev.to/mdarifulhaque/boost-your-devops-career-some-mini-project-ideas-for-hands-on-practice-in-cicd-iac-and-monitoring-1kd4)
+- [Pergunte ao especialista - classes encapsuladoras de tipos primitivos](https://dev.to/devsjavagirls/pergunte-ao-especialista-classes-encapsuladoras-de-tipos-primitivos-5bnd)
+- [Usando os encapsuladores de tipos da linguagem Java para converter strings numéricos](https://dev.to/devsjavagirls/usando-os-encapsuladores-de-tipos-da-linguagem-java-para-converter-strings-numericos-512f)
+- [The Global Object in JavaScript](https://dev.to/ggmurr24/the-global-object-in-javascript-5bhi)
+- [Pergunte ao especialista - I/O](https://dev.to/devsjavagirls/pergunte-ao-especialista-io-50ej)
+- [Usando um FileReader](https://dev.to/devsjavagirls/usando-um-filereader-72n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
