@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agente de IA confiável em prod com Java + Quarkus + Langchain4j - Parte 2 - Memória](https://dev.to/herbertbeckman/agente-de-ia-confiavel-em-prod-com-java-quarkus-langchain4j-parte-2-memoria-12b9)
-- [Using OpenFeature with ConfigCat](https://dev.to/zms/using-openfeature-with-configcat-5glj)
-- [My experience at GitHub Field Day Abuja 🔥](https://dev.to/theresa_agboinedu_26/my-experience-at-github-field-day-abuja-2d30)
-- [Choosing the Best VPN](https://dev.to/clarissabowlenmly/building-your-own-vpn-for-free-5b8f)
-- [For the Love of God...just use Supabase](https://dev.to/agustus_gloop/for-the-love-of-godjust-use-supabase-8oa)
+- [Automate code commenting using VS Code and Ollama](https://dev.to/logrocket/automate-code-commenting-using-vs-code-and-ollama-434i)
+- [Configuring webpack to handle multiple browser windows in Electron](https://dev.to/tsudhishnair/configuring-webpack-to-handle-multiple-browser-windows-in-electron-4nl3)
+- [Work on a NEXT js Project Together](https://dev.to/tommy18062001/work-on-a-next-js-project-together-4l26)
+- [Clerk Update – November 12, 2024](https://dev.to/clerk/clerk-update-november-12-2024-3h6b)
+- [Graduation &amp; Starting Over](https://dev.to/salamoonder/graduation-starting-over-4cj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
