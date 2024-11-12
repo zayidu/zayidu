@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Meeting Room Reservation System and What Are Its Benefits?](https://dev.to/mobilise/what-is-a-meeting-room-reservation-system-and-what-are-its-benefits-4gap)
-- [आयुष्मान कार्ड कैसे बनाएं: यहाँ से करें डायरेक्ट डाउनलोड](https://dev.to/angesh_singh/aayussmaan-kaardd-kaise-bnaaen-yhaan-se-kren-ddaayrektt-ddaaunlodd-297h)
-- [Trigger airflow failed action](https://dev.to/dev9307/trigger-airflow-failed-action-2f0k)
-- [Cloudways 2024 BFCM deal is going live today](https://dev.to/shariq_kazmi_a10e84058686/cloudways-2024-bfcm-deal-is-going-live-today-2ej5)
-- [How To Overcome Challenges in Adopting Hybrid Cloud Solutions](https://dev.to/leoarthur01/how-to-overcome-challenges-in-adopting-hybrid-cloud-solutions-52la)
+- [October Recap | Apache SeaTunnel Community Updates and Progress](https://dev.to/seatunnel/october-recap-apache-seatunnel-community-updates-and-progress-4p40)
+- [Why Blockchains Could Revolutionize Data Storage Over Traditional Databases for Platforms Like Twitter](https://dev.to/adityabhuyan/why-blockchains-could-revolutionize-data-storage-over-traditional-databases-for-platforms-like-twitter-4ma7)
+- [Fake CLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs](https://dev.to/sahil_gupta_b12279b31bb11/fake-clr-exploring-contrastive-learning-for-solving-latent-discontinuity-in-data-efficient-gans-mcf)
+- [Transform Mobile Testing with Secured Cloud-Based Testing](https://dev.to/berthaw82414312/transform-mobile-testing-with-secured-cloud-based-testing-34n)
+- [20 Open Source Projects for Beginners, Intermediate, and Advanced Developers](https://dev.to/rohitkhokhar/20-open-source-projects-for-beginners-intermediate-and-advanced-developers-1bi7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
