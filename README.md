@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Highly scalable image storage solution with AWS Serverless at ip.labs - Part 1](https://dev.to/faboulaye/highly-scalable-image-storage-solution-with-aws-serverless-at-iplabs-part-1-3ep8)
-- [Optimizing Application Performance: A Comprehensive Guide for Testers](https://dev.to/sundram_bhardwaj/optimizing-application-performance-a-comprehensive-guide-for-testers-12jp)
-- [How to Insert Barcodes into a PDF Document with HTML5 and JavaScript](https://dev.to/yushulx/how-to-insert-barcodes-into-a-pdf-document-with-html5-and-javascript-32g9)
-- [Top 10 AI Tools for Developers in 2024](https://dev.to/nikl/top-10-ai-tools-for-developers-in-2024-92k)
-- [Server-Side Rendering &lpar;SSR&rpar; with Next.js: Create Performant and SEO-Friendly React Apps 🚀](https://dev.to/info_generalhazedawn_a3d/server-side-rendering-ssr-with-nextjs-create-performant-and-seo-friendly-react-apps-l4c)
+- [What is a Meeting Room Reservation System and What Are Its Benefits?](https://dev.to/mobilise/what-is-a-meeting-room-reservation-system-and-what-are-its-benefits-4gap)
+- [आयुष्मान कार्ड कैसे बनाएं: यहाँ से करें डायरेक्ट डाउनलोड](https://dev.to/angesh_singh/aayussmaan-kaardd-kaise-bnaaen-yhaan-se-kren-ddaayrektt-ddaaunlodd-297h)
+- [Trigger airflow failed action](https://dev.to/dev9307/trigger-airflow-failed-action-2f0k)
+- [Cloudways 2024 BFCM deal is going live today](https://dev.to/shariq_kazmi_a10e84058686/cloudways-2024-bfcm-deal-is-going-live-today-2ej5)
+- [How To Overcome Challenges in Adopting Hybrid Cloud Solutions](https://dev.to/leoarthur01/how-to-overcome-challenges-in-adopting-hybrid-cloud-solutions-52la)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
