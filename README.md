@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Builder Pattern: Create a Dynamic AI Prompt Generator CLI](https://dev.to/stormsidali2001/mastering-the-builder-pattern-create-a-dynamic-ai-prompt-generator-cli-42m2)
-- [Mathematical and Optically alignment in &lpar;visual/UI&rpar; design](https://dev.to/railsdesigner/mathematical-and-optically-alignment-in-visualui-design-16j7)
-- [LINUX CHALLENGE DAY 5](https://dev.to/blessingglobally/linux-challenge-day-5-19m1)
-- [The &#39;this&#39; Keyword in JavaScript: A Beginner’s Guide](https://dev.to/codeparrot/the-this-keyword-in-javascript-a-beginners-guide-3gp3)
-- [VB .Net: PasswordFromKeys](https://dev.to/vblover_programmer/vb-net-passwordfromkeys-3o2l)
+- [Building a real-time chat app using Laravel Reverb and Vue](https://dev.to/logrocket/building-a-real-time-chat-app-using-laravel-reverb-and-vue-cfe)
+- [After Effects: Using The Essential Graphics Panel For Next Level After Effects Templates](https://dev.to/kocreative/project-using-the-essential-graphics-panel-for-next-level-after-effects-templates-5405)
+- [Creating a RESTful API with .NET and Clean Architecture: A Complete Guide 🚀](https://dev.to/tak1maker/creating-a-restful-api-with-net-and-clean-architecture-a-complete-guide-1078)
+- [Why Watching Movies at Home is an Audio Nightmare—and How We Could Fix It with Smart Sound Tech](https://dev.to/chefderschwaetzer/why-watching-movies-at-home-is-an-audio-nightmare-and-how-we-could-fix-it-with-smart-sound-tech-1eap)
+- [Turning Ideas into Art: Texas Animation Studios You Should Know](https://dev.to/cloudanimations/turning-ideas-into-art-texas-animation-studios-you-should-know-27jo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
