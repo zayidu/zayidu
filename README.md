@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Your MERN Stack Development Environment &lpar;PART 2&rpar;](https://dev.to/bilalkhanio/setting-up-your-mern-stack-development-environment-part-2-3emf)
-- [The Essential Role of Kubernetes in Modern DevOps Workflows](https://dev.to/routeclouds/the-essential-role-of-kubernetes-in-modern-devops-workflows-1bk1)
-- [Easy Guide to Enable Basic Authentication in IIS on Windows 11](https://dev.to/winsides/easy-guide-to-enable-basic-authentication-in-iis-on-windows-11-ll2)
-- [Top Features to Look for in Modern Note-Taking Apps](https://dev.to/anurag_bhagsain_908641e9d/top-features-to-look-for-in-modern-note-taking-apps-4ik8)
-- [Cross-Border Payments: Challenges and Solutions for Seamless Transactions](https://dev.to/4f24l/cross-border-payments-challenges-and-solutions-for-seamless-transactions-15df)
+- [Highly scalable image storage solution with AWS Serverless at ip.labs - Part 1](https://dev.to/faboulaye/highly-scalable-image-storage-solution-with-aws-serverless-at-iplabs-part-1-3ep8)
+- [Optimizing Application Performance: A Comprehensive Guide for Testers](https://dev.to/sundram_bhardwaj/optimizing-application-performance-a-comprehensive-guide-for-testers-12jp)
+- [How to Insert Barcodes into a PDF Document with HTML5 and JavaScript](https://dev.to/yushulx/how-to-insert-barcodes-into-a-pdf-document-with-html5-and-javascript-32g9)
+- [Top 10 AI Tools for Developers in 2024](https://dev.to/nikl/top-10-ai-tools-for-developers-in-2024-92k)
+- [Server-Side Rendering &lpar;SSR&rpar; with Next.js: Create Performant and SEO-Friendly React Apps 🚀](https://dev.to/info_generalhazedawn_a3d/server-side-rendering-ssr-with-nextjs-create-performant-and-seo-friendly-react-apps-l4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
