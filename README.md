@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to MongoDB Operators and Aggregations](https://dev.to/naymhdev/a-guide-to-mongodb-operators-and-aggregations-gmc)
-- [Understanding the Decorator Pattern: Enhancing Object Behavior Dynamically](https://dev.to/syridit118/understanding-the-decorator-pattern-enhancing-object-behavior-dynamically-pfl)
-- [The Origin and factors for the birth of Assembly language](https://dev.to/bitcraft_/the-origin-and-factors-for-the-birth-of-assembly-language-2jc0)
-- [UUID 🪪 or Auto Increment Integer / Serial ⚙️ as the Database Primary Key?](https://dev.to/bytebase/uuid-or-auto-increment-integer-serial-as-the-database-primary-key-29a0)
-- [Navigating Kubernetes CI/CD Best Practices for Effortless Deployment](https://dev.to/razoropscicd/navigating-kubernetes-cicd-best-practices-for-effortless-deployment-odi)
+- [The Best Low-Code No Code Platforms in 2024](https://dev.to/brilworks/the-best-low-code-no-code-platforms-in-2024-l6g)
+- [Build UIs with V0, CursorAI and Behance with PRD process](https://dev.to/ethanleetech/how-to-streamline-your-design-and-prd-process-with-ai-tools-1id1)
+- [Managing Transactions in Microservices](https://dev.to/vipulkumarsviit/managing-transactions-in-microservices-3l7d)
+- [Mastering Closures in JavaScript: A Complete Guide with Examples](https://dev.to/dostmd96/mastering-closures-in-javascript-a-complete-guide-with-examples-1ind)
+- [How badly do you need to type HTTP responses?](https://dev.to/webjose/how-badly-do-you-need-to-type-http-responses-36kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
