@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Setting Up Jest for JavaScript Testing with ESM](https://dev.to/vinhyan/a-guide-to-setting-up-jest-for-javascript-testing-with-esm-22m6)
-- [Keep continuing with Open Source Development](https://dev.to/anhchienvu/keep-continuing-with-open-source-development-3np2)
-- [Stop the rot](https://dev.to/epigene/stop-the-rot-23bf)
-- [Three Simple Rules to Solve Unsolvable Organizational Problems](https://dev.to/perssondennis/three-simple-rules-to-solve-unsolvable-organizational-problems-3o3n)
-- [VSC Snippets](https://dev.to/odonml/vsc-snippets-lde)
+- [Amazon Inspector Integrations: Strengthening Cloud Security with Security Hub and EventBridge](https://dev.to/aws-builders/amazon-inspector-integrations-strengthening-cloud-security-with-security-hub-and-eventbridge-33g7)
+- [5 Top Skills for Backend Developers](https://dev.to/david_tevzadze_/5-top-skills-for-backend-developers-2ag5)
+- [Building an API part 1](https://dev.to/simon8800/building-an-api-part-1-1b9m)
+- [Zero-Trust Security in K8s Made Simple: Istio Ambient Mesh, No Sidecar Needed](https://dev.to/uripld/achieve-sidecar-less-mtls-for-k8s-pods-with-istios-ambient-mesh-28k)
+- [Boost Your DevOps Career: Some Mini Project Ideas for Hands-On Practice in CI/CD, IaC, and Monitoring](https://dev.to/mdarifulhaque/boost-your-devops-career-some-mini-project-ideas-for-hands-on-practice-in-cicd-iac-and-monitoring-1kd4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
