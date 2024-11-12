@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing Git &amp; Setting Up Your GitHub Account](https://dev.to/ahsan598/installing-git-setting-up-your-github-account-548a)
-- [Understanding SSL/TLS: How Encryption Secures Your Online Communications](https://dev.to/aryaglekshmi/ssl-25j5)
-- [Understanding Incremental Static Generation in Next.js: A Practical Guide](https://dev.to/remejuan/understanding-incremental-static-generation-in-nextjs-a-practical-guide-11ff)
-- [Why Do Online Card Payments Fail? Insights from a Payment Processing Perspective](https://dev.to/lspsolutions/why-do-online-card-payments-fail-insights-from-a-payment-processing-perspective-22j9)
-- [Raising and handling an AWS Support cases for billing and account-related inquiries.](https://dev.to/ahsan598/raising-and-handling-an-aws-support-cases-for-billing-and-account-related-inquiries-1o3c)
+- [Software Development Outsourcing: Everything You Need to Know](https://dev.to/mikkel_jensenmj/software-development-outsourcing-everything-you-need-to-know-33kl)
+- [What is a REST API and How to Create One?](https://dev.to/philip_zhang_854092d88473/what-is-a-rest-api-and-how-to-create-one-3eb2)
+- [Free Data and AI Courses: 365 Data Science&#39;s Free Access Initiative](https://dev.to/julians/free-data-and-ai-courses-365-data-sciences-free-access-initiative-157f)
+- [🏆 Penpot Plugins Contest](https://dev.to/elena_alcalde/penpot-plugins-contest-1827)
+- [5 Projects That Can Get You Hired - 2024](https://dev.to/grenishrai/5-projects-that-can-get-you-hired-2024-2325)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
