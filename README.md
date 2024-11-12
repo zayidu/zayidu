@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pergunte ao especialista - classes encapsuladoras de tipos primitivos](https://dev.to/devsjavagirls/pergunte-ao-especialista-classes-encapsuladoras-de-tipos-primitivos-5bnd)
-- [Usando os encapsuladores de tipos da linguagem Java para converter strings numéricos](https://dev.to/devsjavagirls/usando-os-encapsuladores-de-tipos-da-linguagem-java-para-converter-strings-numericos-512f)
-- [The Global Object in JavaScript](https://dev.to/ggmurr24/the-global-object-in-javascript-5bhi)
-- [Pergunte ao especialista - I/O](https://dev.to/devsjavagirls/pergunte-ao-especialista-io-50ej)
-- [Usando um FileReader](https://dev.to/devsjavagirls/usando-um-filereader-72n)
+- [The Sad Reality of CS Lectures😔](https://dev.to/ezekiel_77/the-sad-reality-of-cs-lectures-465e)
+- [This is a new thing: A type of quick post that doesn&#39;t show up on your profile or in notifications. It&#39;s in beta, and we have a few adjustments and improvements in the pipeline — but if you have ideas, let me know.](https://dev.to/ben/this-is-a-new-thing-a-type-of-quick-post-that-doesnt-show-up-on-your-profile-or-in-notifications-its-in-beta-and-we-have-a-few-adjustments-and-improvements-in-the-pipeline-but-if-you-have-ideas-let-me-know-3e6a)
+- [Code Optimizations using AI and Azure Profiler](https://dev.to/antoinega/code-optimizations-using-ai-and-azure-profiler-1mg2)
+- [Access LLMs at Scale: Early Access to kluster.ai with $500 in Compute Credits](https://dev.to/anjin_stewartfunai_26ebd/access-llms-at-scale-early-access-to-klusterai-with-500-in-compute-credits-4466)
+- [Interactive To-Do App with Dark/Light Mode &amp; Task Filters](https://dev.to/imrankhan17/interactive-to-do-app-with-darklight-mode-task-filters-3l95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
