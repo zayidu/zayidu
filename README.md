@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [October Recap | Apache SeaTunnel Community Updates and Progress](https://dev.to/seatunnel/october-recap-apache-seatunnel-community-updates-and-progress-4p40)
-- [Why Blockchains Could Revolutionize Data Storage Over Traditional Databases for Platforms Like Twitter](https://dev.to/adityabhuyan/why-blockchains-could-revolutionize-data-storage-over-traditional-databases-for-platforms-like-twitter-4ma7)
-- [Fake CLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs](https://dev.to/sahil_gupta_b12279b31bb11/fake-clr-exploring-contrastive-learning-for-solving-latent-discontinuity-in-data-efficient-gans-mcf)
-- [Transform Mobile Testing with Secured Cloud-Based Testing](https://dev.to/berthaw82414312/transform-mobile-testing-with-secured-cloud-based-testing-34n)
-- [20 Open Source Projects for Beginners, Intermediate, and Advanced Developers](https://dev.to/rohitkhokhar/20-open-source-projects-for-beginners-intermediate-and-advanced-developers-1bi7)
+- [3 Steps to Speed Up Laravel Projects with Laravel Shift Blueprint](https://dev.to/akramghaleb/3-steps-to-speed-up-laravel-projects-with-laravel-shift-blueprint-4e1o)
+- [Disable keyboard shortcuts for Jira and Confluence](https://dev.to/zaphoddont/disable-keyboard-shortcuts-for-jira-and-confluence-12j)
+- [What is a Bull Run in Cryptocurrency?](https://dev.to/kaankaya/what-is-a-bull-run-in-cryptocurrency-3hk2)
+- [🎪 The Ultimate Social Media Meta Tags Survival Guide: Making Your Content Pop Across the Internet Universe!](https://dev.to/biswajitfsd/the-ultimate-social-media-meta-tags-survival-guide-making-your-content-pop-across-the-internet-universe-33a3)
+- [X is testing a free version of AI chatbot Grok Source: TechCrunch](https://dev.to/dl0/x-is-testing-a-free-version-of-ai-chatbot-groksource-techcrunch-49lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
