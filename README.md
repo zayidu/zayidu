@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Steps to Speed Up Laravel Projects with Laravel Shift Blueprint](https://dev.to/akramghaleb/3-steps-to-speed-up-laravel-projects-with-laravel-shift-blueprint-4e1o)
-- [Disable keyboard shortcuts for Jira and Confluence](https://dev.to/zaphoddont/disable-keyboard-shortcuts-for-jira-and-confluence-12j)
-- [What is a Bull Run in Cryptocurrency?](https://dev.to/kaankaya/what-is-a-bull-run-in-cryptocurrency-3hk2)
-- [🎪 The Ultimate Social Media Meta Tags Survival Guide: Making Your Content Pop Across the Internet Universe!](https://dev.to/biswajitfsd/the-ultimate-social-media-meta-tags-survival-guide-making-your-content-pop-across-the-internet-universe-33a3)
-- [X is testing a free version of AI chatbot Grok Source: TechCrunch](https://dev.to/dl0/x-is-testing-a-free-version-of-ai-chatbot-groksource-techcrunch-49lh)
+- [Installing Git &amp; Setting Up Your GitHub Account](https://dev.to/ahsan598/installing-git-setting-up-your-github-account-548a)
+- [Understanding SSL/TLS: How Encryption Secures Your Online Communications](https://dev.to/aryaglekshmi/ssl-25j5)
+- [Understanding Incremental Static Generation in Next.js: A Practical Guide](https://dev.to/remejuan/understanding-incremental-static-generation-in-nextjs-a-practical-guide-11ff)
+- [Why Do Online Card Payments Fail? Insights from a Payment Processing Perspective](https://dev.to/lspsolutions/why-do-online-card-payments-fail-insights-from-a-payment-processing-perspective-22j9)
+- [Raising and handling an AWS Support cases for billing and account-related inquiries.](https://dev.to/ahsan598/raising-and-handling-an-aws-support-cases-for-billing-and-account-related-inquiries-1o3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
