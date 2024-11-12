@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Math.ceil vs Math.floor](https://dev.to/dougsource/mathceil-vs-mathfloor-b1e)
-- [Efficient Multimodal Learning Using Pre-Trained Models on a Single GPU](https://dev.to/mikeyoung44/efficient-multimodal-learning-using-pre-trained-models-on-a-single-gpu-e62)
-- [Understanding MongoDB Atlas Search Scoring for Better Search Results](https://dev.to/shannonlal/understanding-mongodb-atlas-search-scoring-for-better-search-results-1in4)
-- [A beginner&#39;s guide to the Stable-Diffusion-Xl-Base-1.0 model by Stabilityai on Huggingface](https://dev.to/mikeyoung44/a-beginners-guide-to-the-stable-diffusion-xl-base-10-model-by-stabilityai-on-huggingface-3943)
-- [A beginner&#39;s guide to the Kandinsky-2 model by Ai-Forever on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-kandinsky-2-model-by-ai-forever-on-replicate-nfh)
+- [A teoria das restrições](https://dev.to/mfbmina/a-teoria-das-restricoes-2ni9)
+- [Building the Backbone: Entities Part 2, Agent](https://dev.to/michael_flanagan_red/building-the-backbone-entities-part-2-agent-4kca)
+- [6 Easy Ways to Run LLM Locally + Alpha](https://dev.to/0xkoji/6-easy-ways-to-run-llm-locally-alpha-2n3f)
+- [Web APIs - Custom Hooks](https://dev.to/mitchell_cheng/web-apis-custom-hooks-a6o)
+- [MY EXPERIENCE ATTENDING GOPHERCON AFRICA 2024](https://dev.to/johneliud/my-experience-attending-gophercon-africa-2024-171e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
