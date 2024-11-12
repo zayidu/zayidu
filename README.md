@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a real-time chat app using Laravel Reverb and Vue](https://dev.to/logrocket/building-a-real-time-chat-app-using-laravel-reverb-and-vue-cfe)
-- [After Effects: Using The Essential Graphics Panel For Next Level After Effects Templates](https://dev.to/kocreative/project-using-the-essential-graphics-panel-for-next-level-after-effects-templates-5405)
-- [Creating a RESTful API with .NET and Clean Architecture: A Complete Guide 🚀](https://dev.to/tak1maker/creating-a-restful-api-with-net-and-clean-architecture-a-complete-guide-1078)
-- [Why Watching Movies at Home is an Audio Nightmare—and How We Could Fix It with Smart Sound Tech](https://dev.to/chefderschwaetzer/why-watching-movies-at-home-is-an-audio-nightmare-and-how-we-could-fix-it-with-smart-sound-tech-1eap)
-- [Turning Ideas into Art: Texas Animation Studios You Should Know](https://dev.to/cloudanimations/turning-ideas-into-art-texas-animation-studios-you-should-know-27jo)
+- [The 4 best free CMSes for an online store in 2024](https://dev.to/ispmanager/the-4-best-free-cmses-for-an-online-store-in-2024-36n1)
+- [Rust vs Go: Choosing Your Backend Language 🚀](https://dev.to/learngo/rust-vs-go-choosing-your-backend-language-32ol)
+- [How to Build an Astrojs Image Gallery App with Strapi 5](https://dev.to/strapi/how-to-build-an-astrojs-image-gallery-app-with-strapi-5-3kmk)
+- [How to Hash Passwords Securely Using SHA-256 in Go](https://dev.to/somulo/how-to-hash-passwords-securely-using-sha-256-in-go-39ce)
+- [Scaling Kafka with WebSockets](https://dev.to/ably/scaling-kafka-with-websockets-2m1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
