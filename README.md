@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 4 best free CMSes for an online store in 2024](https://dev.to/ispmanager/the-4-best-free-cmses-for-an-online-store-in-2024-36n1)
-- [Rust vs Go: Choosing Your Backend Language 🚀](https://dev.to/learngo/rust-vs-go-choosing-your-backend-language-32ol)
-- [How to Build an Astrojs Image Gallery App with Strapi 5](https://dev.to/strapi/how-to-build-an-astrojs-image-gallery-app-with-strapi-5-3kmk)
-- [How to Hash Passwords Securely Using SHA-256 in Go](https://dev.to/somulo/how-to-hash-passwords-securely-using-sha-256-in-go-39ce)
-- [Scaling Kafka with WebSockets](https://dev.to/ably/scaling-kafka-with-websockets-2m1f)
+- [Agente de IA confiável em prod com Java + Quarkus + Langchain4j - Parte 2 - Memória](https://dev.to/herbertbeckman/agente-de-ia-confiavel-em-prod-com-java-quarkus-langchain4j-parte-2-memoria-12b9)
+- [Using OpenFeature with ConfigCat](https://dev.to/zms/using-openfeature-with-configcat-5glj)
+- [My experience at GitHub Field Day Abuja 🔥](https://dev.to/theresa_agboinedu_26/my-experience-at-github-field-day-abuja-2d30)
+- [Choosing the Best VPN](https://dev.to/clarissabowlenmly/building-your-own-vpn-for-free-5b8f)
+- [For the Love of God...just use Supabase](https://dev.to/agustus_gloop/for-the-love-of-godjust-use-supabase-8oa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
