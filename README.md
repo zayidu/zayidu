@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Checking out .NET 9](https://dev.to/bntstr/checking-out-net-9-1cod)
-- [Day 1058 : Something](https://dev.to/dwane/day-1058-something-200p)
-- [Sorry if you&#39;ve been seeing too much spam in /latest lately. We&#39;re stepping up our filters to better catch it before it gets there.](https://dev.to/ben/sorry-if-youve-been-seeing-too-much-spam-in-latest-lately-were-stepping-up-our-filters-to-better-catch-it-2aap)
-- [Basic Linux Administration](https://dev.to/tennie/basic-linux-administration-1mb8)
-- [Needle Drop](https://dev.to/alfredo-pasquel/needle-drop-4gfm)
+- [【转载】百川漏扫服务-企业级智能漏洞扫描与风险防护解决方案](https://dev.to/thorila/zhuan-zai-bai-chuan-lou-sao-fu-wu-qi-ye-ji-zhi-neng-lou-dong-sao-miao-yu-feng-xian-fang-hu-jie-jue-fang-an-2lg4)
+- [【转载】百川漏扫服务-企业级智能漏洞扫描与风险防护解决方案](https://dev.to/muzilathebest/zhuan-zai-bai-chuan-lou-sao-fu-wu-qi-ye-ji-zhi-neng-lou-dong-sao-miao-yu-feng-xian-fang-hu-jie-jue-fang-an-2gen)
+- [百川漏扫服务-企业级智能漏洞扫描与风险防护解决方案](https://dev.to/magickong123/bai-chuan-lou-sao-fu-wu-qi-ye-ji-zhi-neng-lou-dong-sao-miao-yu-feng-xian-fang-hu-jie-jue-fang-an-4bn2)
+- [Customizing LangChain Components: Building a Personalized RAG Application](https://dev.to/jamesli/customizing-langchain-components-building-a-personalized-rag-application-21bl)
+- [RAG Application Optimization Strategies: From Document Processing to Retrieval Techniques](https://dev.to/jamesli/rag-application-optimization-strategies-from-document-processing-to-retrieval-techniques-46p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
