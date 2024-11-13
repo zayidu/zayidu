@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Postgres can do that? No surprise Postgres is everywhere](https://dev.to/metis/postgres-can-do-that-no-surprise-postgres-is-everywhere-4c02)
-- [What is Cloud Computing? A Guide for Beginners](https://dev.to/ijay/what-is-cloud-computing-a-guide-for-beginners-9i5)
-- [Top/Bottom N: getting values #eg73](https://dev.to/esproc_spl/topbottom-n-getting-values-eg73-bml)
-- [🚀 Swift Tip: `for` vs `filter` para Filtragem de Listas](https://dev.to/felcarv01/swift-tip-for-vs-filter-para-filtragem-de-listas-2764)
-- [Top 8 Open-Source Projects &lpar;Rated&rpar; to Build Your Own Task Management System](https://dev.to/nocobase/top-8-open-source-projects-rated-to-build-your-own-task-management-system-28l)
+- [Adding Revision Support to Entities in Entity Framework Core](https://dev.to/greenfieldcoder/adding-revision-support-to-entities-in-entity-framework-core-233k)
+- [Crafting a Winning Software Development Project Plan: A Guide to Success](https://dev.to/devactivity-app/crafting-a-winning-software-development-project-plan-a-guide-to-success-40fj)
+- [Effortless Web Hosting: Build and Run an NGINX Server with Docker](https://dev.to/cloudforce/effortless-web-hosting-build-and-run-an-nginx-server-with-docker-11b8)
+- [What is MTP Host, and how does it work on Android devices?](https://dev.to/jhonny_hued_224e54608f4b5/what-is-mtp-host-and-how-does-it-work-on-android-devices-57lc)
+- [What is RSA Asymmetric Encryption? Basics, Principles and Applications](https://dev.to/certera_/what-is-rsa-asymmetric-encryption-basics-principles-and-applications-3106)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
