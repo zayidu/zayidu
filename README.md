@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [CodeBehind 3.8 Released](https://dev.to/elanatframework/codebehind-38-released-3iao)
+- [Why Holding Buttons Is Superior to Confirmation Dialogs in UX Design](https://dev.to/tomj/why-holding-buttons-is-superior-to-confirmation-dialogs-in-ux-design-1fic)
 - [What Is Polymorphism? Exploring Type and Object Relations](https://dev.to/yo-shi/what-is-polymorphism-exploring-type-and-object-relations-nmh)
 - [intro to Garbage Collection and Resource Management in C#](https://dev.to/moh_moh701/mastering-garbage-collection-and-resource-management-in-c-3gbk)
 - [🚀 Help Us Improve the Audio Experience with Nightsound Audio – A Dynamic Audio Adjustment Tool for Movies and Series 🎬🔊](https://dev.to/chefderschwaetzer/help-us-improve-the-audio-experience-with-nightsound-audio-a-dynamic-audio-adjustment-tool-for-18h3)
-- [Flakey tests are the death of me](https://dev.to/ben/flakey-tests-are-the-death-of-me-2nd)
-- [IDENTITY ACCESS MANAGEMENT &lpar;IAM&rpar;](https://dev.to/sajjadrahman56/identity-access-management-iam-p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
