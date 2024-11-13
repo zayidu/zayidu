@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Revision Support to Entities in Entity Framework Core](https://dev.to/greenfieldcoder/adding-revision-support-to-entities-in-entity-framework-core-233k)
-- [Crafting a Winning Software Development Project Plan: A Guide to Success](https://dev.to/devactivity-app/crafting-a-winning-software-development-project-plan-a-guide-to-success-40fj)
-- [Effortless Web Hosting: Build and Run an NGINX Server with Docker](https://dev.to/cloudforce/effortless-web-hosting-build-and-run-an-nginx-server-with-docker-11b8)
-- [What is MTP Host, and how does it work on Android devices?](https://dev.to/jhonny_hued_224e54608f4b5/what-is-mtp-host-and-how-does-it-work-on-android-devices-57lc)
-- [What is RSA Asymmetric Encryption? Basics, Principles and Applications](https://dev.to/certera_/what-is-rsa-asymmetric-encryption-basics-principles-and-applications-3106)
+- [ECS Orchestration Part 4: Monitoring](https://dev.to/dbanieles/ecs-orchestration-part-4-monitoring-3f67)
+- [ECS Orchestration Part 3: Autoscaling](https://dev.to/dbanieles/ecs-orchestration-part-3-autoscaling-2am6)
+- [Enhancing CMS Application Efficiency with Prisma Optimize](https://dev.to/dinmaotutu/enhancing-cms-application-efficiency-with-prisma-optimize-2op7)
+- [Building a High-Performance CMS with Next.js and Prisma Accelerate](https://dev.to/dinmaotutu/building-a-high-performance-cms-with-nextjs-and-prisma-accelerate-3igd)
+- [Linux Shared Hosting: Balancing Performance, Security, and Cost](https://dev.to/ewallhost_webservices_54/linux-shared-hosting-balancing-performance-security-and-cost-5h8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
