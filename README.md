@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting sticky with it — Troubleshooting CSS sticky positioning](https://dev.to/logrocket/getting-sticky-with-it-troubleshooting-css-sticky-positioning-26c2)
-- [Utilizar datos de prueba en Java con DataFaker](https://dev.to/asjordi/utilizar-datos-de-prueba-en-java-con-datafaker-3f2j)
-- [Recurrently loop an object in JS - util function #1](https://dev.to/schemetastic/recurrently-loop-an-object-in-js-util-function-1-4phd)
-- [Entendo a ordem de execução de uma query SQL](https://dev.to/kauanamorim/entendo-a-ordem-de-execucao-de-uma-query-sql-2336)
-- [Countries Info API — Comprehensive Country Data, Exchange Rates, Holidays &amp; More](https://dev.to/kidddevs/countries-info-api-comprehensive-country-data-exchange-rates-holidays-more-14k3)
+- [Stay Ahead of the Game: Leverage Chokidar CLI to Maximize Your Coding Efficiency!](https://dev.to/thesohailjafri/stay-ahead-of-the-game-leverage-chokidar-cli-to-maximize-your-coding-efficiency-5d4n)
+- [How to Identify and Remove Unused Files in React Projects?](https://dev.to/vishesh-tiwari/how-to-identify-and-remove-unused-files-in-react-projects-2ldi)
+- [🔗 Why You Should Bookmark Links](https://dev.to/sammytran/why-you-should-bookmark-links-22)
+- [A Comprehensive Guide to Multithreading in Ruby](https://dev.to/daviducolo/a-comprehensive-guide-to-multithreading-in-ruby-3f04)
+- [Post 3: 💡🚀 Join the Beta and Help Shape the Future of the Waiting List Website! 🎉](https://dev.to/harold_defree/post-3-join-the-beta-and-help-shape-the-future-of-the-waiting-list-website-5eem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
