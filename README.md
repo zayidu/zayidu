@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥What is the difference between fetch and XMLHTTPRequest?](https://dev.to/anthonymax/what-is-the-difference-between-fetch-and-xmlhttprequest-1bc1)
-- [How to create a virtual machine scale set &lpar;VMSS&rpar;](https://dev.to/stippy4real/how-to-create-a-virtual-machine-scale-set-vmss-1ofn)
-- [What is the flet ?](https://dev.to/jvan_nichervan_7b34896c74/what-is-the-flet--5a9l)
-- [Laravel Nova vs Filament: The Best Admin Panels](https://dev.to/varzoeaa/laravel-nova-vs-filament-the-best-admin-panels-5f9a)
-- [Advanced Concepts and Practical Guide &lpar;Part 3&rpar;](https://dev.to/harshm03/advanced-concepts-and-practical-guide-part-3-9g4)
+- [Scheming About Clojure](https://dev.to/gramian/scheming-about-clojure-133n)
+- [Understanding Memory&lt;T&gt; in C#](https://dev.to/moh_moh701/understanding-memory-in-c-5fm4)
+- [We are looking for a Senior FullStack &lpar;React/Nest.js&rpar; Engineer &lpar;Bilingual C1&rpar;](https://dev.to/vgf_management/we-are-looking-for-a-senior-fullstack-reactnestjs-engineer-bilingual-c1-46nm)
+- [Introducing Span&lt;T&gt; in .NET](https://dev.to/moh_moh701/introducing-span-in-net-54an)
+- [Boost Your Digital Marketing with these 10 Amazing Free to Use n8n Workflows](https://dev.to/airabbit/boost-your-digital-marketing-10-amazing-free-to-use-n8n-workflows-3f73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
