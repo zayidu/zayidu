@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [es-toolkit, a Lodash alternative](https://dev.to/logrocket/es-toolkit-a-lodash-alternative-3455)
-- [Interactive Gladiator Battle Simulation | GladiatorsBattle.com](https://dev.to/gladiatorsbattle/interactive-gladiator-battle-simulation--1dda)
-- [AWS Security Benchmarking, Ensuring Robust Cloud Security](https://dev.to/ikoh_sylva/aws-security-benchmarking-ensuring-robust-cloud-1p9b)
-- [The Ultimate Hack to Simplify Ctrl and Cmd Shortcuts Between Windows and Mac](https://dev.to/ashwingopalsamy/the-ultimate-hack-to-simplify-ctrl-and-cmd-shortcuts-between-windows-and-2hdk)
-- [Chrome Extensions I Installed In My Pc](https://dev.to/kishor_sutradhar_d2503ac4/chrome-extensions-i-installed-in-my-4h8g)
+- [Ng-News 24/45: Rationale behind &lpar;potential&rpar; Authoring Format](https://dev.to/this-is-angular/ng-news-2445-rationale-behind-potential-authoring-format-4e49)
+- [Using Timeshift for System&#39;s Snapshots and Recovery on Debian 12 via Command Line](https://dev.to/dev-charodeyka/using-timeshift-for-systems-snapshots-and-recovery-on-debian-12-via-command-line-7m6)
+- [All about Sound effects and Music &lpar;soundtrack&rpar; creation for game-dev](https://dev.to/vash000/all-about-sound-effects-and-music-soundtrack-creation-for-game-dev-1p26)
+- [Simplify Input Validation in Go with ginvalidator](https://dev.to/gbubemi_attah_8220489db16/simplify-input-validation-in-go-with-ginvalidator-5aoc)
+- [Generating Flyway migrations using IntelliJ IDEA](https://dev.to/ozkanpakdil/generating-flyway-migrations-using-intellij-idea-55f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
