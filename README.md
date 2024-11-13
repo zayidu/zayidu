@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Observability in Machine Learning with OpenTelemetry: InsightfulAI Update](https://dev.to/craftedwithintent/enhancing-observability-in-machine-learning-with-opentelemetry-insightfulai-update-55p6)
-- [The Best AI Tools for Every Marketing Task](https://dev.to/danyaleyman/the-best-ai-tools-for-every-marketing-task-4khh)
-- [Mastering the Strategy Design Pattern: A Guide for Developers](https://dev.to/syridit118/mastering-the-strategy-design-pattern-a-guide-for-developers-397l)
-- [LINUX: AN OPERATING SYSTEM AND THE USE OF ITS COMMANDS](https://dev.to/oludamilola/linux-an-operating-system-and-the-use-of-its-commands-dgb)
-- [A Beginner&#39;s Guide to Types in TypeScript: Understanding and Using Type Annotations](https://dev.to/nishanthan-k/a-beginners-guide-to-types-in-typescript-understanding-and-using-type-annotations-5a2p)
+- [How to test smart contract on Sepolia testnet?](https://dev.to/steven-dev/how-to-test-smart-contract-on-sepolia-testnet-i1d)
+- [Welcome Thread - v302](https://dev.to/devteam/welcome-thread-v302-1m81)
+- [Botão Whatsapp c/ popup](https://dev.to/econowmeet_3372287404e3c6/botao-whatsapp-c-popup-2hia)
+- [Main concept of react || React](https://dev.to/04anilr/main-concept-of-react-react-342o)
+- [We&#39;ll write a little virus with python &lpar;Learning&rpar;](https://dev.to/mikey_developer/well-write-a-little-virus-with-python-learning-m2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
