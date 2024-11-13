@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to test smart contract on Sepolia testnet?](https://dev.to/steven-dev/how-to-test-smart-contract-on-sepolia-testnet-i1d)
-- [Welcome Thread - v302](https://dev.to/devteam/welcome-thread-v302-1m81)
-- [Botão Whatsapp c/ popup](https://dev.to/econowmeet_3372287404e3c6/botao-whatsapp-c-popup-2hia)
-- [Main concept of react || React](https://dev.to/04anilr/main-concept-of-react-react-342o)
-- [We&#39;ll write a little virus with python &lpar;Learning&rpar;](https://dev.to/mikey_developer/well-write-a-little-virus-with-python-learning-m2k)
+- [Event Listeners, the Backbone of Interactive Web Applications](https://dev.to/shieldstring/event-listeners-the-backbone-of-interactive-web-applications-baj)
+- [Cloud Computing in Banking: Enhancing Efficiency and Security](https://dev.to/grjoeay/cloud-computing-in-banking-enhancing-efficiency-and-security-2ibn)
+- [The Future of Data Protection: Trends and Predictions](https://dev.to/outsource2india/the-future-of-data-protection-trends-and-predictions-17c)
+- [Learning Zig in 10 Minutes a Day - Hello, World](https://dev.to/crusty-rustacean/learning-zig-in-10-minutes-a-day-hello-world-5147)
+- [The Essential Guide to Choosing the Right Blockchain for Your Token](https://dev.to/deploytokens/the-essential-guide-to-choosing-the-right-blockchain-for-your-token-3262)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
