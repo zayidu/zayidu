@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Ethical Hacking: A Beginner&#39;s Guide](https://dev.to/trixsec/introduction-to-ethical-hacking-a-beginners-guide-4p9c)
-- [Virtual Meetup: Nov 19 - Best Computer Vision Research of ECCV 2024](https://dev.to/voxel51/virtual-meetup-nov-19-best-computer-vision-research-of-eccv-2024-4ac4)
-- [Just testing quickie posts. I&#39;m curious to see what they look like.](https://dev.to/kurealnum/just-testing-quickie-posts-im-curious-to-see-what-they-look-like-1e26)
-- [Creating Regular Expression](https://dev.to/_akira19/creating-regular-expression-33ep)
-- [10 Essential AWS Security Steps for Your AWS Account](https://dev.to/aws-builders/10-essential-aws-security-steps-for-your-aws-account-2kac)
+- [The Journey of CDK.dev: From Static Site to Bluesky](https://dev.to/skorfmann/the-journey-of-cdkdev-from-static-site-to-bluesky-10ah)
+- [How to migrate smart contracts to a blockchain?](https://dev.to/smartmuv/how-to-migrate-smart-contracts-to-a-blockchain-41p2)
+- [⚡🚀 ReactJS, TypeScript, Vite with Redux and TanStack &lpar;React Query&rpar; In Practice ⚛️](https://dev.to/truongpx396/reactjs-typescript-vite-with-redux-and-tanstack-react-query-in-practice-7eg)
+- [How to reduce APK size and implement progressive level downloads in Unity for an expanding game?](https://dev.to/abhiishek_28/how-to-reduce-apk-size-and-implement-progressive-level-downloads-in-unity-for-an-expanding-game-33c6)
+- [🚀 Your Daily Crypto Job Digest For 13 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-13-november-4h04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
