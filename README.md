@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [✨Gleam javascript interop 🤝](https://dev.to/piterweb/gleam-javascript-interop-3nl1)
-- [Wrap Up Your Organizational Achievements in 2024 With Vaunt](https://dev.to/vaunt/wrap-up-your-organizational-achievements-in-2024-with-vaunt-2nfj)
-- [How to Create a Stunning Modern Button with CSS and HTML](https://dev.to/gladiatorsbattle/how-to-create-a-stunning-modern-button-with-css-and-html-4gff)
-- [Why Combine Bare Metal Provisioning and Virtualization](https://dev.to/sardina_systems/why-combine-bare-metal-provisioning-and-virtualization-2ga3)
-- [AWS WAF Essentials: Securing Your SaaS Services Against Cyber Threats](https://dev.to/aws-heroes/aws-waf-essentials-securing-your-saas-services-against-cyber-threats-lp0)
+- [Postgres can do that? No surprise Postgres is everywhere](https://dev.to/metis/postgres-can-do-that-no-surprise-postgres-is-everywhere-4c02)
+- [What is Cloud Computing? A Guide for Beginners](https://dev.to/ijay/what-is-cloud-computing-a-guide-for-beginners-9i5)
+- [Top/Bottom N: getting values #eg73](https://dev.to/esproc_spl/topbottom-n-getting-values-eg73-bml)
+- [🚀 Swift Tip: `for` vs `filter` para Filtragem de Listas](https://dev.to/felcarv01/swift-tip-for-vs-filter-para-filtragem-de-listas-2764)
+- [Top 8 Open-Source Projects &lpar;Rated&rpar; to Build Your Own Task Management System](https://dev.to/nocobase/top-8-open-source-projects-rated-to-build-your-own-task-management-system-28l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
