@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scheming About Clojure](https://dev.to/gramian/scheming-about-clojure-133n)
-- [Understanding Memory&lt;T&gt; in C#](https://dev.to/moh_moh701/understanding-memory-in-c-5fm4)
-- [We are looking for a Senior FullStack &lpar;React/Nest.js&rpar; Engineer &lpar;Bilingual C1&rpar;](https://dev.to/vgf_management/we-are-looking-for-a-senior-fullstack-reactnestjs-engineer-bilingual-c1-46nm)
-- [Introducing Span&lt;T&gt; in .NET](https://dev.to/moh_moh701/introducing-span-in-net-54an)
-- [Boost Your Digital Marketing with these 10 Amazing Free to Use n8n Workflows](https://dev.to/airabbit/boost-your-digital-marketing-10-amazing-free-to-use-n8n-workflows-3f73)
+- [What Is Polymorphism? Exploring Type and Object Relations](https://dev.to/yo-shi/what-is-polymorphism-exploring-type-and-object-relations-nmh)
+- [intro to Garbage Collection and Resource Management in C#](https://dev.to/moh_moh701/mastering-garbage-collection-and-resource-management-in-c-3gbk)
+- [🚀 Help Us Improve the Audio Experience with Nightsound Audio – A Dynamic Audio Adjustment Tool for Movies and Series 🎬🔊](https://dev.to/chefderschwaetzer/help-us-improve-the-audio-experience-with-nightsound-audio-a-dynamic-audio-adjustment-tool-for-18h3)
+- [Flakey tests are the death of me](https://dev.to/ben/flakey-tests-are-the-death-of-me-2nd)
+- [IDENTITY ACCESS MANAGEMENT &lpar;IAM&rpar;](https://dev.to/sajjadrahman56/identity-access-management-iam-p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
