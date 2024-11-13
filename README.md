@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Feature Toggles Are Secretly Wrecking Your Front-End: Here&#39;s How to Fix the Mess](https://dev.to/bibipbubup/feature-toggles-are-secretly-wrecking-your-front-end-heres-how-to-fix-the-oam)
-- [Understanding Operator Associativity in JavaScript](https://dev.to/mageshk/operator-associativity-25a1)
-- [Getting Started with Full Stack Development: A Step-by-Step Guide](https://dev.to/jahswill_jacob_/getting-started-with-full-stack-development-a-step-by-step-guide-3ae6)
-- [React Memo custom fn return true, but still rerenders](https://dev.to/meenal_aggarwal_9fb1eecf3/react-memo-custom-fn-true-but-still-rerenders-51bl)
-- [Happy Wednesday](https://dev.to/ben/happy-wednesday-2a8l)
+- [es-toolkit, a Lodash alternative](https://dev.to/logrocket/es-toolkit-a-lodash-alternative-3455)
+- [Interactive Gladiator Battle Simulation | GladiatorsBattle.com](https://dev.to/gladiatorsbattle/interactive-gladiator-battle-simulation--1dda)
+- [AWS Security Benchmarking, Ensuring Robust Cloud Security](https://dev.to/ikoh_sylva/aws-security-benchmarking-ensuring-robust-cloud-1p9b)
+- [The Ultimate Hack to Simplify Ctrl and Cmd Shortcuts Between Windows and Mac](https://dev.to/ashwingopalsamy/the-ultimate-hack-to-simplify-ctrl-and-cmd-shortcuts-between-windows-and-2hdk)
+- [Chrome Extensions I Installed In My Pc](https://dev.to/kishor_sutradhar_d2503ac4/chrome-extensions-i-installed-in-my-4h8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
