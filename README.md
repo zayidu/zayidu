@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer Networking - Full Course](https://dev.to/vignesh_j/computer-networking-full-course-7ap)
-- [Deploy and manage AWS Control Tower controls by using Terraform](https://dev.to/tulasi_rao/deploy-and-manage-aws-control-tower-controls-by-using-terraform-3ola)
-- [Annapurna Base Camp Trek](https://dev.to/annapurnabase2/annapurna-base-camp-trek-2845)
-- [Best Monthly Budget Planners to Make Financial Management Smarter](https://dev.to/thomasy0ung/best-monthly-budget-planners-to-make-financial-management-smarter-3eo6)
-- [Building a Progressive Web App &lpar;PWA&rpar;: Create an App-Like Experience for Web Users 🚀🌐](https://dev.to/info_generalhazedawn_a3d/building-a-progressive-web-app-pwa-create-an-app-like-experience-for-web-users-4j66)
+- [✨Gleam javascript interop 🤝](https://dev.to/piterweb/gleam-javascript-interop-3nl1)
+- [Wrap Up Your Organizational Achievements in 2024 With Vaunt](https://dev.to/vaunt/wrap-up-your-organizational-achievements-in-2024-with-vaunt-2nfj)
+- [How to Create a Stunning Modern Button with CSS and HTML](https://dev.to/gladiatorsbattle/how-to-create-a-stunning-modern-button-with-css-and-html-4gff)
+- [Why Combine Bare Metal Provisioning and Virtualization](https://dev.to/sardina_systems/why-combine-bare-metal-provisioning-and-virtualization-2ga3)
+- [AWS WAF Essentials: Securing Your SaaS Services Against Cyber Threats](https://dev.to/aws-heroes/aws-waf-essentials-securing-your-saas-services-against-cyber-threats-lp0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
