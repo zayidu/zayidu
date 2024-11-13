@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Importance of Bits and Bytes in CPU Memory Addressing and Program Counters](https://dev.to/adityabhuyan/understanding-the-importance-of-bits-and-bytes-in-cpu-memory-addressing-and-program-counters-hjd)
-- [Free Resources for Learning Kali Linux](https://dev.to/carrie_luo1/free-resources-for-learning-kali-linux-57h9)
-- [How to Effectively Assess the Security of Your Apps](https://dev.to/sekurno/how-to-effectively-assess-the-security-of-your-apps-mnc)
-- [Nodejs + Custom CORS](https://dev.to/ramadhan002/nodejs-custom-cors-47ph)
-- [System Design 10 - Distributed Logging and Monitoring: Keeping an Eye on Your System’s Every Move](https://dev.to/sarvabharan/system-design-10-distributed-logging-and-monitoring-keeping-an-eye-on-your-systems-every-move-3b86)
+- [Enhancing Observability in Machine Learning with OpenTelemetry: InsightfulAI Update](https://dev.to/craftedwithintent/enhancing-observability-in-machine-learning-with-opentelemetry-insightfulai-update-55p6)
+- [The Best AI Tools for Every Marketing Task](https://dev.to/danyaleyman/the-best-ai-tools-for-every-marketing-task-4khh)
+- [Mastering the Strategy Design Pattern: A Guide for Developers](https://dev.to/syridit118/mastering-the-strategy-design-pattern-a-guide-for-developers-397l)
+- [LINUX: AN OPERATING SYSTEM AND THE USE OF ITS COMMANDS](https://dev.to/oludamilola/linux-an-operating-system-and-the-use-of-its-commands-dgb)
+- [A Beginner&#39;s Guide to Types in TypeScript: Understanding and Using Type Annotations](https://dev.to/nishanthan-k/a-beginners-guide-to-types-in-typescript-understanding-and-using-type-annotations-5a2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
