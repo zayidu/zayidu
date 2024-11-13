@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cheap VPN with MFA from Home to AWS](https://dev.to/aws-builders/cheap-vpn-with-mfa-from-home-to-aws-2b3b)
-- [Beta Testing Explained: What It Is and Why It Matters](https://dev.to/gocodeo/beta-testing-explained-what-it-is-and-why-it-matters-4egi)
-- [Speed up Kamal deploys in GitHub Actions](https://dev.to/nejremeslnici/speed-up-kamal-deploys-in-github-actions-oh0)
-- [Effective Strategies for Scaling an Application](https://dev.to/wallacefreitas/effective-strategies-for-scaling-an-application-161h)
-- [How to Configure Apache Server in CentOS 7: Step-by-Step Guide](https://dev.to/davidjonson/how-to-configure-apache-server-in-centos-7-step-by-step-guide-4l47)
+- [Introduction to Ethical Hacking: A Beginner&#39;s Guide](https://dev.to/trixsec/introduction-to-ethical-hacking-a-beginners-guide-4p9c)
+- [Virtual Meetup: Nov 19 - Best Computer Vision Research of ECCV 2024](https://dev.to/voxel51/virtual-meetup-nov-19-best-computer-vision-research-of-eccv-2024-4ac4)
+- [Just testing quickie posts. I&#39;m curious to see what they look like.](https://dev.to/kurealnum/just-testing-quickie-posts-im-curious-to-see-what-they-look-like-1e26)
+- [Creating Regular Expression](https://dev.to/_akira19/creating-regular-expression-33ep)
+- [10 Essential AWS Security Steps for Your AWS Account](https://dev.to/aws-builders/10-essential-aws-security-steps-for-your-aws-account-2kac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
