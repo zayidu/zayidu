@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Journey of CDK.dev: From Static Site to Bluesky](https://dev.to/skorfmann/the-journey-of-cdkdev-from-static-site-to-bluesky-10ah)
-- [How to migrate smart contracts to a blockchain?](https://dev.to/smartmuv/how-to-migrate-smart-contracts-to-a-blockchain-41p2)
-- [⚡🚀 ReactJS, TypeScript, Vite with Redux and TanStack &lpar;React Query&rpar; In Practice ⚛️](https://dev.to/truongpx396/reactjs-typescript-vite-with-redux-and-tanstack-react-query-in-practice-7eg)
-- [How to reduce APK size and implement progressive level downloads in Unity for an expanding game?](https://dev.to/abhiishek_28/how-to-reduce-apk-size-and-implement-progressive-level-downloads-in-unity-for-an-expanding-game-33c6)
-- [🚀 Your Daily Crypto Job Digest For 13 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-13-november-4h04)
+- [Getting sticky with it — Troubleshooting CSS sticky positioning](https://dev.to/logrocket/getting-sticky-with-it-troubleshooting-css-sticky-positioning-26c2)
+- [Utilizar datos de prueba en Java con DataFaker](https://dev.to/asjordi/utilizar-datos-de-prueba-en-java-con-datafaker-3f2j)
+- [Recurrently loop an object in JS - util function #1](https://dev.to/schemetastic/recurrently-loop-an-object-in-js-util-function-1-4phd)
+- [Entendo a ordem de execução de uma query SQL](https://dev.to/kauanamorim/entendo-a-ordem-de-execucao-de-uma-query-sql-2336)
+- [Countries Info API — Comprehensive Country Data, Exchange Rates, Holidays &amp; More](https://dev.to/kidddevs/countries-info-api-comprehensive-country-data-exchange-rates-holidays-more-14k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
