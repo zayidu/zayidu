@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ng-News 24/45: Rationale behind &lpar;potential&rpar; Authoring Format](https://dev.to/this-is-angular/ng-news-2445-rationale-behind-potential-authoring-format-4e49)
-- [Using Timeshift for System&#39;s Snapshots and Recovery on Debian 12 via Command Line](https://dev.to/dev-charodeyka/using-timeshift-for-systems-snapshots-and-recovery-on-debian-12-via-command-line-7m6)
-- [All about Sound effects and Music &lpar;soundtrack&rpar; creation for game-dev](https://dev.to/vash000/all-about-sound-effects-and-music-soundtrack-creation-for-game-dev-1p26)
-- [Simplify Input Validation in Go with ginvalidator](https://dev.to/gbubemi_attah_8220489db16/simplify-input-validation-in-go-with-ginvalidator-5aoc)
-- [Generating Flyway migrations using IntelliJ IDEA](https://dev.to/ozkanpakdil/generating-flyway-migrations-using-intellij-idea-55f8)
+- [🔥What is the difference between fetch and XMLHTTPRequest?](https://dev.to/anthonymax/what-is-the-difference-between-fetch-and-xmlhttprequest-1bc1)
+- [How to create a virtual machine scale set &lpar;VMSS&rpar;](https://dev.to/stippy4real/how-to-create-a-virtual-machine-scale-set-vmss-1ofn)
+- [What is the flet ?](https://dev.to/jvan_nichervan_7b34896c74/what-is-the-flet--5a9l)
+- [Laravel Nova vs Filament: The Best Admin Panels](https://dev.to/varzoeaa/laravel-nova-vs-filament-the-best-admin-panels-5f9a)
+- [Advanced Concepts and Practical Guide &lpar;Part 3&rpar;](https://dev.to/harshm03/advanced-concepts-and-practical-guide-part-3-9g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
