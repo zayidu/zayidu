@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [【转载】百川漏扫服务-企业级智能漏洞扫描与风险防护解决方案](https://dev.to/thorila/zhuan-zai-bai-chuan-lou-sao-fu-wu-qi-ye-ji-zhi-neng-lou-dong-sao-miao-yu-feng-xian-fang-hu-jie-jue-fang-an-2lg4)
-- [【转载】百川漏扫服务-企业级智能漏洞扫描与风险防护解决方案](https://dev.to/muzilathebest/zhuan-zai-bai-chuan-lou-sao-fu-wu-qi-ye-ji-zhi-neng-lou-dong-sao-miao-yu-feng-xian-fang-hu-jie-jue-fang-an-2gen)
-- [百川漏扫服务-企业级智能漏洞扫描与风险防护解决方案](https://dev.to/magickong123/bai-chuan-lou-sao-fu-wu-qi-ye-ji-zhi-neng-lou-dong-sao-miao-yu-feng-xian-fang-hu-jie-jue-fang-an-4bn2)
-- [Customizing LangChain Components: Building a Personalized RAG Application](https://dev.to/jamesli/customizing-langchain-components-building-a-personalized-rag-application-21bl)
-- [RAG Application Optimization Strategies: From Document Processing to Retrieval Techniques](https://dev.to/jamesli/rag-application-optimization-strategies-from-document-processing-to-retrieval-techniques-46p)
+- [Understanding the Importance of Bits and Bytes in CPU Memory Addressing and Program Counters](https://dev.to/adityabhuyan/understanding-the-importance-of-bits-and-bytes-in-cpu-memory-addressing-and-program-counters-hjd)
+- [Free Resources for Learning Kali Linux](https://dev.to/carrie_luo1/free-resources-for-learning-kali-linux-57h9)
+- [How to Effectively Assess the Security of Your Apps](https://dev.to/sekurno/how-to-effectively-assess-the-security-of-your-apps-mnc)
+- [Nodejs + Custom CORS](https://dev.to/ramadhan002/nodejs-custom-cors-47ph)
+- [System Design 10 - Distributed Logging and Monitoring: Keeping an Eye on Your System’s Every Move](https://dev.to/sarvabharan/system-design-10-distributed-logging-and-monitoring-keeping-an-eye-on-your-systems-every-move-3b86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
