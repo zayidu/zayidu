@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Definitely need to add linking to quickie posts, just need to do it in the right way. Probably start with linking to DEV posts as a way to share and boost stuff you like a bit more easily.](https://dev.to/ben/definitely-need-to-add-linking-to-quickie-posts-just-need-to-do-it-in-the-right-way-probably-3dkl)
-- [Mastering URL Structure: Tips for SEO and User Experience](https://dev.to/techpulse55/mastering-url-structure-tips-for-seo-and-user-experience-l66)
-- [How to Write Clean Code: Refactoring and Best Practices.](https://dev.to/balrajola/how-to-write-clean-code-refactoring-and-best-practices-1mo)
-- [Python Error Types Explained: Troubleshooting for Beginners](https://dev.to/namimai/python-error-types-explained-troubleshooting-for-beginners-4o76)
-- [Python vs. Java: Which Language is Better?](https://dev.to/techpulse55/python-vs-java-which-language-is-better-fc2)
+- [Upgrading Simple Shells to Fully Interactive TTYs](https://dev.to/0xmrmasry/upgrading-simple-shells-to-fully-interactive-ttys-49eb)
+- [How to Use Proxies in Python](https://dev.to/federicotrotta/how-to-use-a-proxy-in-python-1278)
+- [Vehicle Backed Reserves](https://dev.to/jesuscoins/vehicle-backed-reserves-2i1p)
+- [How to Add a Microsoft Account in Windows 11](https://dev.to/win11verse/how-to-add-a-microsoft-account-in-windows-11-5gmb)
+- [Azure Functions in .NET &lpar;C#&rpar; — The Ultimate Fun Version 🥳](https://dev.to/zrebhi/azure-functions-in-net-c-the-ultimate-fun-version-388l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
