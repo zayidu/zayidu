@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CodeBehind 3.8 Released](https://dev.to/elanatframework/codebehind-38-released-3iao)
-- [Why Holding Buttons Is Superior to Confirmation Dialogs in UX Design](https://dev.to/tomj/why-holding-buttons-is-superior-to-confirmation-dialogs-in-ux-design-1fic)
-- [What Is Polymorphism? Exploring Type and Object Relations](https://dev.to/yo-shi/what-is-polymorphism-exploring-type-and-object-relations-nmh)
-- [intro to Garbage Collection and Resource Management in C#](https://dev.to/moh_moh701/mastering-garbage-collection-and-resource-management-in-c-3gbk)
-- [🚀 Help Us Improve the Audio Experience with Nightsound Audio – A Dynamic Audio Adjustment Tool for Movies and Series 🎬🔊](https://dev.to/chefderschwaetzer/help-us-improve-the-audio-experience-with-nightsound-audio-a-dynamic-audio-adjustment-tool-for-18h3)
+- [AWS Lambda Log Aggregation Using CloudWatch Custom Log Group &amp; Logs Insights!](https://dev.to/bhatiagirish/aws-lambda-log-aggregation-using-cloudwatch-custom-log-group-logs-insights-3087)
+- [C#](https://dev.to/mangesh_paranjape/c-3al2)
+- [Types of Software Testing: Functional, Non-Functional, and Regression Testing](https://dev.to/anil_csimplifyit_905c/types-of-software-testing-functional-non-functional-and-regression-testing-l9m)
+- [JSON.stringify&lpar;&rpar; &amp; JSON.parse&lpar;&rpar;](https://dev.to/katherineh/jsonstringify-jsonparse-1585)
+- [Using a Self-Signed Certificate with Git Clone Https](https://dev.to/frederickollinger/using-a-self-signed-certificate-with-git-clone-https-2m93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
