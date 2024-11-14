@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Book: JavaScript for the Whole Family](https://dev.to/codeguppy/book-javascript-for-the-whole-family-3ghf)
-- [Understanding useState in TypeScript React](https://dev.to/codeparrot/understanding-usestate-in-typescript-react-3gg8)
-- [Analysis of Limitations of LCEL and AgentExecutor](https://dev.to/jamesli/analysis-of-limitations-of-lcel-and-agentexecutor-2a3o)
-- [Introduction to LangGraph: Core Concepts and Basic Components](https://dev.to/jamesli/introduction-to-langgraph-core-concepts-and-basic-components-5bak)
-- [Part 3/3: Advanced Frontend Security Techniques and Tools](https://dev.to/tharapearlly/part-33-advanced-frontend-security-techniques-and-tools-435e)
+- [How to Build AWS VPC Using Terraform](https://dev.to/giasuddin90/how-to-build-aws-vpc-using-terraform-1ndp)
+- [Preventing SQL Injection &lpar;SQLi&rpar; in React.js Apps](https://dev.to/pentest_testing_corp/preventing-sql-injection-sqli-in-reactjs-apps-176a)
+- [Understanding the Saga Pattern in Microservices](https://dev.to/vipulkumarsviit/understanding-the-saga-pattern-in-microservices-dfi)
+- [SDLC | Waterfall model | Agile | DevOps](https://dev.to/mrcaption49/sdlc-waterfall-model-agile-devops-55i9)
+- [How to get data from goggle trends using Python](https://dev.to/friday_ike_81a6580a61b761/how-to-get-data-from-goggle-trends-using-python-3cg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
