@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Advanced typescript concepts that Every Developer Should Know](https://dev.to/niharikaa/top-10-advanced-typescript-concepts-that-every-developer-should-know-4kg4)
-- [SerpApi&#39;s Google Maps Scraper](https://dev.to/terrytanys/serpapis-google-maps-scraper-4cl0)
-- [Proqramçı olmaq istəyirəm](https://dev.to/karimaze/proqramci-olmaq-istyirm-1opg)
-- [Flutter Image Compression: Ensuring High Quality](https://dev.to/tentanganak/flutter-image-compression-ensuring-high-quality-25m1)
-- [Parallel Programming in Web Browsers](https://dev.to/nozibul_islam_113b1d5334f/parallel-programming-in-web-browsers-8p4)
+- [Unit, Integration, and E2E Testing in One Example Using Jest](https://dev.to/mayallo/unit-integration-and-e2e-testing-in-one-example-using-jest-1h6p)
+- [Predicting House Prices with XGBoost in Node.js](https://dev.to/jonathanfarrow/predicting-house-prices-with-xgboost-in-nodejs-51l5)
+- [MLM Software Price Explained: Factors That Influence Costs](https://dev.to/vishnu294/mlm-software-price-explained-factors-that-influence-costs-11ch)
+- [Introduction to Distributed Denial of Service &lpar;DDoS&rpar; Attacks](https://dev.to/endlessmessages/introduction-to-distributed-denial-of-service-ddos-attacks-geg)
+- [How to Market Your Newly Created Token Successfully](https://dev.to/deploytokens/how-to-market-your-newly-created-token-successfully-10d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
