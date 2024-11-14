@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RedLM: My submission for the NVIDIA and LlamaIndex Developer Contest](https://dev.to/briancaffey/redlm-my-submission-for-the-nvidia-and-llamaindex-developer-contest-1c3k)
-- [Ruby on Rails Case Study: How JetThoughts Improved OpenApply&#39;s Code and UX](https://dev.to/jetthoughts-dev/ruby-on-rails-case-study-how-jetthoughts-improved-openapplys-code-and-ux-5acc)
-- [Day 3 - Python](https://dev.to/varatha/day-3-python-527e)
-- [Site Initializers: Automação e Personalização do Ambiente de Desenvolvimento](https://dev.to/cdfortes/site-initializers-automacao-e-personalizacao-do-ambiente-de-desenvolvimento-18ko)
-- [Page Sized Writes](https://dev.to/misachi/page-sized-writes-58m6)
+- [LLM API Adapter SDK for Python](https://dev.to/inozem/llm-api-adapter-sdk-for-python-2bck)
+- [How To Do Website Redesign](https://dev.to/alona_instandart/how-to-do-website-redesign-4mj0)
+- [Windows 365 Desktop and Azure Desktop Virtualization](https://dev.to/borisgigovic/windows-365-desktop-and-azure-desktop-virtualization-4pk9)
+- [Building a EKS Cluster with Terraform: A Modular and Scalable Approach](https://dev.to/akhil_mittal/building-a-eks-cluster-with-terraform-a-modular-and-scalable-approach-3fc1)
+- [Hadoop Tutorials: Your Gateway to Big Data Mastery](https://dev.to/getvm/hadoop-tutorials-your-gateway-to-big-data-mastery-79a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
