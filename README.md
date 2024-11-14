@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microfrontends a Developer&#39;s Guide: Advantages and Disadvantages](https://dev.to/joacod/microfrontends-a-developers-guide-advantages-and-disadvantages-2ane)
-- [Continuous Integration/Continuous Deployment &lpar;CI/CD&rpar;: Tools and Techniques](https://dev.to/shreyash-hexa/continuous-integrationcontinuous-deployment-cicd-tools-and-techniques-12c0)
-- [Looking for cloud monitoring tools? Here&#39;s the drill.](https://dev.to/manageengineapm/looking-for-cloud-monitoring-tools-heres-the-drill-198f)
-- [Dica C#: Use Dispose e using para Liberar Recursos](https://dev.to/juarezasjunior/dica-c-use-dispose-e-using-para-liberar-recursos-ei9)
-- [C# Tip: Use Dispose and using to Release Resources](https://dev.to/juarezasjunior/c-tip-use-dispose-and-using-to-release-resources-21n6)
+- [Building a High-Performance Gaming Desktop for Development: A Worthwhile Investment?](https://dev.to/gabriella_browne_d047850e/building-a-high-performance-gaming-desktop-for-development-a-worthwhile-investment-22a8)
+- [32/365 | ¥10M Job Challenge - Original Intentions](https://dev.to/kameken100/32365-y10m-job-challenge-original-intentions-3f2k)
+- [Mastering API Development: Best Practices for RESTful APIs](https://dev.to/shreyash-hexa/mastering-api-development-best-practices-for-restful-apis-5h9e)
+- [Mastering Service Mesh with Linkerd](https://dev.to/gtrekter/mastering-service-mesh-with-linkerd-2hmn)
+- [Taming the Machine Learning Pipeline Beast: ZenML Edition](https://dev.to/arka_dash_9a233187a7e792f/taming-the-machine-learning-pipeline-beast-zenml-edition-d02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
