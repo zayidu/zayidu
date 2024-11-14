@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a High-Performance Gaming Desktop for Development: A Worthwhile Investment?](https://dev.to/gabriella_browne_d047850e/building-a-high-performance-gaming-desktop-for-development-a-worthwhile-investment-22a8)
-- [32/365 | ¥10M Job Challenge - Original Intentions](https://dev.to/kameken100/32365-y10m-job-challenge-original-intentions-3f2k)
-- [Mastering API Development: Best Practices for RESTful APIs](https://dev.to/shreyash-hexa/mastering-api-development-best-practices-for-restful-apis-5h9e)
-- [Mastering Service Mesh with Linkerd](https://dev.to/gtrekter/mastering-service-mesh-with-linkerd-2hmn)
-- [Taming the Machine Learning Pipeline Beast: ZenML Edition](https://dev.to/arka_dash_9a233187a7e792f/taming-the-machine-learning-pipeline-beast-zenml-edition-d02)
+- [How to Enhance Your CSS Skills: Effective Steps and Tips](https://dev.to/mettasurendhar/how-to-enhance-your-css-skills-effective-steps-and-tips-599o)
+- [How to enable user passwordless sudo in WSL2 - Linux](https://dev.to/marcelopalin/how-to-enable-user-passwordless-sudo-in-wsl2-linux-38f7)
+- [10 Useful but Rarely Used OS Functions in Python](https://dev.to/sachingeek/10-useful-but-rarely-used-os-functions-in-python-3jp1)
+- [Changing App Icon in Flutter](https://dev.to/meng_ly_5f07a38c932b97230/changing-app-icon-in-flutter-1hjb)
+- [S3 Sync cross account](https://dev.to/srinivasuluparanduru/s3-sync-cross-account-4d0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
