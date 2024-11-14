@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Langchain4J musings](https://dev.to/nfrankel/langchain4j-musings-31a7)
-- [Building Reusable and Scalable Components in Web Development: Good Practices to Write Clean and Efficient Code](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-reusable-and-scalable-components-in-web-development-good-practices-to-write-clean-and-3ahg)
-- [How to Integrate Telegram Payments in a Django and React Mini App](https://dev.to/leen2233/how-to-integrate-telegram-payments-in-a-django-and-react-mini-app-4cnn)
-- [Everything you Need to Know about GUI Testing in Software](https://dev.to/satya_prakash/everything-you-need-to-know-about-gui-testing-in-software-g97)
-- [Beginner&#39;s Guide: How to Use Formik!](https://dev.to/hijohnmark/beginners-guide-how-to-use-formik-12cg)
+- [RedLM: My submission for the NVIDIA and LlamaIndex Developer Contest](https://dev.to/briancaffey/redlm-my-submission-for-the-nvidia-and-llamaindex-developer-contest-1c3k)
+- [Ruby on Rails Case Study: How JetThoughts Improved OpenApply&#39;s Code and UX](https://dev.to/jetthoughts-dev/ruby-on-rails-case-study-how-jetthoughts-improved-openapplys-code-and-ux-5acc)
+- [Day 3 - Python](https://dev.to/varatha/day-3-python-527e)
+- [Site Initializers: Automação e Personalização do Ambiente de Desenvolvimento](https://dev.to/cdfortes/site-initializers-automacao-e-personalizacao-do-ambiente-de-desenvolvimento-18ko)
+- [Page Sized Writes](https://dev.to/misachi/page-sized-writes-58m6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
