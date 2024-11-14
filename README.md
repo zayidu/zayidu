@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Brief Guide to SQL DELETE Queries](https://dev.to/dbvismarketing/a-brief-guide-to-sql-delete-queries-3bld)
-- [10 Useful Tips For Ruby On Rails Developers](https://dev.to/edenwheeler/10-useful-tips-for-ruby-on-rails-developers-2l67)
-- [It&#39;s 2AM. Your coffee&#39;s cold. The code is flowing.](https://dev.to/helloquash/its-2am-your-coffees-cold-the-code-is-flowing-1m96)
-- [Unlocking the Power of WordPress Full Site Editing &lpar;FSE&rpar;: A Comprehensive Guide](https://dev.to/cozy_wordpress/unlocking-the-power-of-wordpress-full-site-editing-fse-a-comprehensive-guide-5319)
-- [📝 50 Common Blockchain Interview Questions 🧩](https://dev.to/truongpx396/50-common-blockchain-interview-questions-5ecb)
+- [Langchain4J musings](https://dev.to/nfrankel/langchain4j-musings-31a7)
+- [Building Reusable and Scalable Components in Web Development: Good Practices to Write Clean and Efficient Code](https://dev.to/okoye_ndidiamaka_5e3b7d30/building-reusable-and-scalable-components-in-web-development-good-practices-to-write-clean-and-3ahg)
+- [How to Integrate Telegram Payments in a Django and React Mini App](https://dev.to/leen2233/how-to-integrate-telegram-payments-in-a-django-and-react-mini-app-4cnn)
+- [Everything you Need to Know about GUI Testing in Software](https://dev.to/satya_prakash/everything-you-need-to-know-about-gui-testing-in-software-g97)
+- [Beginner&#39;s Guide: How to Use Formik!](https://dev.to/hijohnmark/beginners-guide-how-to-use-formik-12cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
