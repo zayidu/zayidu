@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rocket-X: Leading the New Era of Web3 Launch Platforms with Corgia&#39;s Debut Launch - A Showcase of Strength and Innovation](https://dev.to/rocket_x/rocket-x-leading-the-new-era-of-web3-launch-platforms-with-corgias-debut-launch-a-showcase-of-1ah)
-- [Mastering Git Stash: Seamless Workflow Management](https://dev.to/labex/mastering-git-stash-seamless-workflow-management-4614)
-- [🌟 Microsoft is offering new AI course for &lpar; FREE &rpar;🌟](https://dev.to/adithya_81ed1606e0756c8da/microsoft-is-offering-new-ai-course-for-free--483c)
-- [The Art of Data Synchronization in HarmonyOS Next Part Two: In-depth Understanding of Standardized Data Types &lpar;UTD&rpar;](https://dev.to/xun_wang_6384a403f9817c2/the-art-of-data-synchronization-in-harmonyos-next-part-two-in-depth-understanding-of-standardized-pd9)
-- [鸿蒙Next之数据同步艺术之二：深入理解标准化数据类型 &lpar;UTD&rpar;](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextzhi-shu-ju-tong-bu-yi-zhu-zhi-er-shen-ru-li-jie-biao-zhun-hua-shu-ju-lei-xing-utd-3lgg)
+- [Book: JavaScript for the Whole Family](https://dev.to/codeguppy/book-javascript-for-the-whole-family-3ghf)
+- [Understanding useState in TypeScript React](https://dev.to/codeparrot/understanding-usestate-in-typescript-react-3gg8)
+- [Analysis of Limitations of LCEL and AgentExecutor](https://dev.to/jamesli/analysis-of-limitations-of-lcel-and-agentexecutor-2a3o)
+- [Introduction to LangGraph: Core Concepts and Basic Components](https://dev.to/jamesli/introduction-to-langgraph-core-concepts-and-basic-components-5bak)
+- [Part 3/3: Advanced Frontend Security Techniques and Tools](https://dev.to/tharapearlly/part-33-advanced-frontend-security-techniques-and-tools-435e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
