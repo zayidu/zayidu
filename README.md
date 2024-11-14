@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Upgrading Simple Shells to Fully Interactive TTYs](https://dev.to/0xmrmasry/upgrading-simple-shells-to-fully-interactive-ttys-49eb)
-- [How to Use Proxies in Python](https://dev.to/federicotrotta/how-to-use-a-proxy-in-python-1278)
-- [Vehicle Backed Reserves](https://dev.to/jesuscoins/vehicle-backed-reserves-2i1p)
-- [How to Add a Microsoft Account in Windows 11](https://dev.to/win11verse/how-to-add-a-microsoft-account-in-windows-11-5gmb)
-- [Azure Functions in .NET &lpar;C#&rpar; — The Ultimate Fun Version 🥳](https://dev.to/zrebhi/azure-functions-in-net-c-the-ultimate-fun-version-388l)
+- [Congrats to the Winners of the Open Source AI Challenge with pgai and Ollama!](https://dev.to/devteam/congrats-to-the-winners-of-the-open-source-ai-challenge-with-pgai-and-ollama-46b6)
+- [First really useful AI tool - AI code review](https://dev.to/asmyshlyaev177/first-really-useful-ai-tool-ai-code-review-1an4)
+- [Item 71: Evite o uso desnecessário das exceções verificadas](https://dev.to/giselecoder/item-71-evite-o-uso-desnecessario-das-excecoes-verificadas-4ap7)
+- [Harnessing Generative AI in Healthcare and Cosmetology](https://dev.to/arjun_jaggi/the-ai-beauty-revolution-transforming-the-industry-through-innovation-5c73)
+- [UV - A Ferramenta que Simplifica o Gerenciamento de Ambientes e Dependências no Python](https://dev.to/kevin_ff4e10b8c916155f9d4/uv-a-ferramenta-que-simplifica-o-gerenciamento-de-ambientes-e-dependencias-no-python-3g1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
