@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to the Winners of the Open Source AI Challenge with pgai and Ollama!](https://dev.to/devteam/congrats-to-the-winners-of-the-open-source-ai-challenge-with-pgai-and-ollama-46b6)
-- [First really useful AI tool - AI code review](https://dev.to/asmyshlyaev177/first-really-useful-ai-tool-ai-code-review-1an4)
-- [Item 71: Evite o uso desnecessário das exceções verificadas](https://dev.to/giselecoder/item-71-evite-o-uso-desnecessario-das-excecoes-verificadas-4ap7)
-- [Harnessing Generative AI in Healthcare and Cosmetology](https://dev.to/arjun_jaggi/the-ai-beauty-revolution-transforming-the-industry-through-innovation-5c73)
-- [UV - A Ferramenta que Simplifica o Gerenciamento de Ambientes e Dependências no Python](https://dev.to/kevin_ff4e10b8c916155f9d4/uv-a-ferramenta-que-simplifica-o-gerenciamento-de-ambientes-e-dependencias-no-python-3g1a)
+- [How AI is Revolutionizing Personalized Skincare Formulations in 2024](https://dev.to/josef_doctorovitz_ww/how-ai-is-revolutionizing-personalized-skincare-formulations-in-2024-178)
+- [Thinking about leaving IT?](https://dev.to/felipefreitag/thinking-about-leaving-it-3kb7)
+- [Hacktoberfest Writing Challenge Winner Announcement Delay](https://dev.to/devteam/hacktoberfest-writing-challenge-winner-announcement-delay-2hfl)
+- [Pensando se sai ou não da TI?](https://dev.to/felipefreitag/pensando-se-sai-ou-nao-da-ti-5dp9)
+- [Feature Selection with the IAMB Algorithm: A Casual Dive into Machine Learning](https://dev.to/ogambakerubo/feature-selection-with-the-iamb-algorithm-a-casual-dive-into-machine-learning-53a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
