@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM API Adapter SDK for Python](https://dev.to/inozem/llm-api-adapter-sdk-for-python-2bck)
-- [How To Do Website Redesign](https://dev.to/alona_instandart/how-to-do-website-redesign-4mj0)
-- [Windows 365 Desktop and Azure Desktop Virtualization](https://dev.to/borisgigovic/windows-365-desktop-and-azure-desktop-virtualization-4pk9)
-- [Building a EKS Cluster with Terraform: A Modular and Scalable Approach](https://dev.to/akhil_mittal/building-a-eks-cluster-with-terraform-a-modular-and-scalable-approach-3fc1)
-- [Hadoop Tutorials: Your Gateway to Big Data Mastery](https://dev.to/getvm/hadoop-tutorials-your-gateway-to-big-data-mastery-79a)
+- [Microfrontends a Developer&#39;s Guide: Advantages and Disadvantages](https://dev.to/joacod/microfrontends-a-developers-guide-advantages-and-disadvantages-2ane)
+- [Continuous Integration/Continuous Deployment &lpar;CI/CD&rpar;: Tools and Techniques](https://dev.to/shreyash-hexa/continuous-integrationcontinuous-deployment-cicd-tools-and-techniques-12c0)
+- [Looking for cloud monitoring tools? Here&#39;s the drill.](https://dev.to/manageengineapm/looking-for-cloud-monitoring-tools-heres-the-drill-198f)
+- [Dica C#: Use Dispose e using para Liberar Recursos](https://dev.to/juarezasjunior/dica-c-use-dispose-e-using-para-liberar-recursos-ei9)
+- [C# Tip: Use Dispose and using to Release Resources](https://dev.to/juarezasjunior/c-tip-use-dispose-and-using-to-release-resources-21n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
