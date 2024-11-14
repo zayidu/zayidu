@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Enhance Your CSS Skills: Effective Steps and Tips](https://dev.to/mettasurendhar/how-to-enhance-your-css-skills-effective-steps-and-tips-599o)
-- [How to enable user passwordless sudo in WSL2 - Linux](https://dev.to/marcelopalin/how-to-enable-user-passwordless-sudo-in-wsl2-linux-38f7)
-- [10 Useful but Rarely Used OS Functions in Python](https://dev.to/sachingeek/10-useful-but-rarely-used-os-functions-in-python-3jp1)
-- [Changing App Icon in Flutter](https://dev.to/meng_ly_5f07a38c932b97230/changing-app-icon-in-flutter-1hjb)
-- [S3 Sync cross account](https://dev.to/srinivasuluparanduru/s3-sync-cross-account-4d0d)
+- [Differences between JpaRepository and CrudRepository and when you need to chose each](https://dev.to/igventurelli/differences-between-jparepository-and-crudrepository-and-when-you-need-to-chose-each-41l0)
+- [defineExpose and &lt;style vars&gt; in Vue 3 for component interaction and theming](https://dev.to/logrocket/defineexpose-and-in-vue-3-for-component-interaction-and-theming-40d4)
+- [In React useMemo And useState From Design Philosophy Perspective.](https://dev.to/toshiya_matsumoto_ac94abe/in-react-usememo-and-usestate-from-design-philosophy-perspective-2c)
+- [Connecting SQL Databases to the Cloud: PostgreSQL, MySQL, SQLite, and Cloud Integration Explained](https://dev.to/adityabhuyan/connecting-sql-databases-to-the-cloud-postgresql-mysql-sqlite-and-cloud-integration-explained-o16)
+- [HELLO WORLD !](https://dev.to/shreyash_sharma_41f24ffb4/hello-world--17f5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
