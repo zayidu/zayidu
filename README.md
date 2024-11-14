@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Revolutionizing Personalized Skincare Formulations in 2024](https://dev.to/josef_doctorovitz_ww/how-ai-is-revolutionizing-personalized-skincare-formulations-in-2024-178)
-- [Thinking about leaving IT?](https://dev.to/felipefreitag/thinking-about-leaving-it-3kb7)
-- [Hacktoberfest Writing Challenge Winner Announcement Delay](https://dev.to/devteam/hacktoberfest-writing-challenge-winner-announcement-delay-2hfl)
-- [Pensando se sai ou não da TI?](https://dev.to/felipefreitag/pensando-se-sai-ou-nao-da-ti-5dp9)
-- [Feature Selection with the IAMB Algorithm: A Casual Dive into Machine Learning](https://dev.to/ogambakerubo/feature-selection-with-the-iamb-algorithm-a-casual-dive-into-machine-learning-53a7)
+- [Supporting Multiple post.logout.redirect.uris in Keycloak Config CLI](https://dev.to/motouom_victor/supporting-multiple-postlogoutredirecturis-in-keycloak-config-cli-4nig)
+- [Arrow Keys and Text Box in Microsoft Access](https://dev.to/richardrost/arrow-keys-and-text-box-in-microsoft-access-1l5f)
+- [Weekly Indie Log #17](https://dev.to/hirvesh/weekly-indie-log-17-p5o)
+- [Weekly Indie Log #11](https://dev.to/hirvesh/weekly-indie-log-11-24m4)
+- [Weekly Indie Log #13](https://dev.to/hirvesh/weekly-indie-log-13-18mb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
