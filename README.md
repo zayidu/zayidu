@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Social connect full-stack app using NestJs, Next.js, Prisma &amp; Next-Auth](https://dev.to/saidmou/social-connect-full-stack-app-using-nestjs-nextjs-prisma-next-auth-50lm)
-- [Security Update on Google Chrome Extensions](https://dev.to/willyam_simbolon_4f7357df/security-update-on-google-chrome-extensions-3n8l)
-- [Transform UI Screenshots into HTML &amp; CSS with Qwen Coder and Qwen VL](https://dev.to/tunehqai/transform-ui-screenshots-into-html-css-with-qwen-coder-and-qwen-vl-12nl)
-- [AI in Academia and Industry Collaboration](https://dev.to/willyam_simbolon_4f7357df/ai-in-academia-and-industry-collaboration-3n72)
-- [Physical vs Logical Data Structures](https://dev.to/aliturki/physical-vs-logical-data-structures-5940)
+- [Rails&#39; Partial Features You &lpar;didn&#39;t&rpar; Know](https://dev.to/railsdesigner/rails-partial-features-you-didnt-know-p2g)
+- [phoneFormat &amp; makeTelLink ColdFusion UDFs](https://dev.to/gamesover/phoneformat-maketellink-coldfusion-udfs-40fh)
+- [Unlocking the Power of Free Email APIs: What Are They and How to Deploy Them?](https://dev.to/philip_zhang_854092d88473/unlocking-the-power-of-free-email-apis-what-are-they-and-how-to-deploy-them-12n8)
+- [Understanding Mock API in JavaScript: A Beginner&#39;s Guide](https://dev.to/philip_zhang_854092d88473/understanding-mock-api-in-javascript-a-beginners-guide-pm5)
+- [Why ASAP &lpar;Atlassian&rpar; Auth is the Fast &amp; Safe Choice for REST API Authentication?](https://dev.to/philip_zhang_854092d88473/why-asap-atlassian-auth-is-the-fast-safe-choice-for-rest-api-authentication-18gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
