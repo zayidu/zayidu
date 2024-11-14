@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Computer Networks](https://dev.to/madgan95/introduction-to-computer-networks-mno)
-- [All Your Burning Elixir Questions—Answered in One Powerful Repository](https://dev.to/0x3d_site/all-your-burning-elixir-questions-answered-in-one-powerful-repository-3i0o)
-- [Get and verify data from a nested object - util functions #2](https://dev.to/schemetastic/get-and-verify-data-from-a-nested-object-util-functions-2-3fme)
-- [Move Data from Oracle to ClickHouse in Minutes](https://dev.to/bladepipe/move-data-from-oracle-to-clickhouse-in-minutes-1oip)
-- [Understanding CSMA/CD and CSMA/CA in Networking](https://dev.to/574n13y/understanding-csmacd-and-csmaca-in-networking-1ip4)
+- [Social connect full-stack app using NestJs, Next.js, Prisma &amp; Next-Auth](https://dev.to/saidmou/social-connect-full-stack-app-using-nestjs-nextjs-prisma-next-auth-50lm)
+- [Security Update on Google Chrome Extensions](https://dev.to/willyam_simbolon_4f7357df/security-update-on-google-chrome-extensions-3n8l)
+- [Transform UI Screenshots into HTML &amp; CSS with Qwen Coder and Qwen VL](https://dev.to/tunehqai/transform-ui-screenshots-into-html-css-with-qwen-coder-and-qwen-vl-12nl)
+- [AI in Academia and Industry Collaboration](https://dev.to/willyam_simbolon_4f7357df/ai-in-academia-and-industry-collaboration-3n72)
+- [Physical vs Logical Data Structures](https://dev.to/aliturki/physical-vs-logical-data-structures-5940)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
