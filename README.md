@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Lambda Log Aggregation Using CloudWatch Custom Log Group &amp; Logs Insights!](https://dev.to/bhatiagirish/aws-lambda-log-aggregation-using-cloudwatch-custom-log-group-logs-insights-3087)
-- [C#](https://dev.to/mangesh_paranjape/c-3al2)
-- [Types of Software Testing: Functional, Non-Functional, and Regression Testing](https://dev.to/anil_csimplifyit_905c/types-of-software-testing-functional-non-functional-and-regression-testing-l9m)
-- [JSON.stringify&lpar;&rpar; &amp; JSON.parse&lpar;&rpar;](https://dev.to/katherineh/jsonstringify-jsonparse-1585)
-- [Using a Self-Signed Certificate with Git Clone Https](https://dev.to/frederickollinger/using-a-self-signed-certificate-with-git-clone-https-2m93)
+- [🌟 Microsoft is offering new AI course for &lpar; FREE &rpar;🌟](https://dev.to/adithya_81ed1606e0756c8da/microsoft-is-offering-new-ai-course-for-free--483c)
+- [The Art of Data Synchronization in HarmonyOS Next Part Two: In-depth Understanding of Standardized Data Types &lpar;UTD&rpar;](https://dev.to/xun_wang_6384a403f9817c2/the-art-of-data-synchronization-in-harmonyos-next-part-two-in-depth-understanding-of-standardized-pd9)
+- [鸿蒙Next之数据同步艺术之二：深入理解标准化数据类型 &lpar;UTD&rpar;](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextzhi-shu-ju-tong-bu-yi-zhu-zhi-er-shen-ru-li-jie-biao-zhun-hua-shu-ju-lei-xing-utd-3lgg)
+- [The Art of Data Synchronization in HarmonyOS Next Part One: Unveiling ArkData Management](https://dev.to/xun_wang_6384a403f9817c2/the-art-of-data-synchronization-in-harmonyos-next-part-one-unveiling-arkdata-management-1pi8)
+- [鸿蒙Next之数据同步艺术之一：方舟数据管理揭秘](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextzhi-shu-ju-tong-bu-yi-zhu-zhi-fang-zhou-shu-ju-guan-li-jie-mi-1cj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
