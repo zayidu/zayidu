@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unit, Integration, and E2E Testing in One Example Using Jest](https://dev.to/mayallo/unit-integration-and-e2e-testing-in-one-example-using-jest-1h6p)
-- [Predicting House Prices with XGBoost in Node.js](https://dev.to/jonathanfarrow/predicting-house-prices-with-xgboost-in-nodejs-51l5)
-- [MLM Software Price Explained: Factors That Influence Costs](https://dev.to/vishnu294/mlm-software-price-explained-factors-that-influence-costs-11ch)
-- [Introduction to Distributed Denial of Service &lpar;DDoS&rpar; Attacks](https://dev.to/endlessmessages/introduction-to-distributed-denial-of-service-ddos-attacks-geg)
-- [How to Market Your Newly Created Token Successfully](https://dev.to/deploytokens/how-to-market-your-newly-created-token-successfully-10d3)
+- [A Brief Guide to SQL DELETE Queries](https://dev.to/dbvismarketing/a-brief-guide-to-sql-delete-queries-3bld)
+- [10 Useful Tips For Ruby On Rails Developers](https://dev.to/edenwheeler/10-useful-tips-for-ruby-on-rails-developers-2l67)
+- [It&#39;s 2AM. Your coffee&#39;s cold. The code is flowing.](https://dev.to/helloquash/its-2am-your-coffees-cold-the-code-is-flowing-1m96)
+- [Unlocking the Power of WordPress Full Site Editing &lpar;FSE&rpar;: A Comprehensive Guide](https://dev.to/cozy_wordpress/unlocking-the-power-of-wordpress-full-site-editing-fse-a-comprehensive-guide-5319)
+- [📝 50 Common Blockchain Interview Questions 🧩](https://dev.to/truongpx396/50-common-blockchain-interview-questions-5ecb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
