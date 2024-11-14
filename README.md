@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rails&#39; Partial Features You &lpar;didn&#39;t&rpar; Know](https://dev.to/railsdesigner/rails-partial-features-you-didnt-know-p2g)
-- [phoneFormat &amp; makeTelLink ColdFusion UDFs](https://dev.to/gamesover/phoneformat-maketellink-coldfusion-udfs-40fh)
-- [Unlocking the Power of Free Email APIs: What Are They and How to Deploy Them?](https://dev.to/philip_zhang_854092d88473/unlocking-the-power-of-free-email-apis-what-are-they-and-how-to-deploy-them-12n8)
-- [Understanding Mock API in JavaScript: A Beginner&#39;s Guide](https://dev.to/philip_zhang_854092d88473/understanding-mock-api-in-javascript-a-beginners-guide-pm5)
-- [Why ASAP &lpar;Atlassian&rpar; Auth is the Fast &amp; Safe Choice for REST API Authentication?](https://dev.to/philip_zhang_854092d88473/why-asap-atlassian-auth-is-the-fast-safe-choice-for-rest-api-authentication-18gl)
+- [Definitely need to add linking to quickie posts, just need to do it in the right way. Probably start with linking to DEV posts as a way to share and boost stuff you like a bit more easily.](https://dev.to/ben/definitely-need-to-add-linking-to-quickie-posts-just-need-to-do-it-in-the-right-way-probably-3dkl)
+- [Mastering URL Structure: Tips for SEO and User Experience](https://dev.to/techpulse55/mastering-url-structure-tips-for-seo-and-user-experience-l66)
+- [How to Write Clean Code: Refactoring and Best Practices.](https://dev.to/balrajola/how-to-write-clean-code-refactoring-and-best-practices-1mo)
+- [Python Error Types Explained: Troubleshooting for Beginners](https://dev.to/namimai/python-error-types-explained-troubleshooting-for-beginners-4o76)
+- [Python vs. Java: Which Language is Better?](https://dev.to/techpulse55/python-vs-java-which-language-is-better-fc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
