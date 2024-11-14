@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Differences between JpaRepository and CrudRepository and when you need to chose each](https://dev.to/igventurelli/differences-between-jparepository-and-crudrepository-and-when-you-need-to-chose-each-41l0)
-- [defineExpose and &lt;style vars&gt; in Vue 3 for component interaction and theming](https://dev.to/logrocket/defineexpose-and-in-vue-3-for-component-interaction-and-theming-40d4)
-- [In React useMemo And useState From Design Philosophy Perspective.](https://dev.to/toshiya_matsumoto_ac94abe/in-react-usememo-and-usestate-from-design-philosophy-perspective-2c)
-- [Connecting SQL Databases to the Cloud: PostgreSQL, MySQL, SQLite, and Cloud Integration Explained](https://dev.to/adityabhuyan/connecting-sql-databases-to-the-cloud-postgresql-mysql-sqlite-and-cloud-integration-explained-o16)
-- [HELLO WORLD !](https://dev.to/shreyash_sharma_41f24ffb4/hello-world--17f5)
+- [Introduction to Computer Networks](https://dev.to/madgan95/introduction-to-computer-networks-mno)
+- [All Your Burning Elixir Questions—Answered in One Powerful Repository](https://dev.to/0x3d_site/all-your-burning-elixir-questions-answered-in-one-powerful-repository-3i0o)
+- [Get and verify data from a nested object - util functions #2](https://dev.to/schemetastic/get-and-verify-data-from-a-nested-object-util-functions-2-3fme)
+- [Move Data from Oracle to ClickHouse in Minutes](https://dev.to/bladepipe/move-data-from-oracle-to-clickhouse-in-minutes-1oip)
+- [Understanding CSMA/CD and CSMA/CA in Networking](https://dev.to/574n13y/understanding-csmacd-and-csmaca-in-networking-1ip4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
