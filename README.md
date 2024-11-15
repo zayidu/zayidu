@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Supporting Multiple post.logout.redirect.uris in Keycloak Config CLI](https://dev.to/motouom_victor/supporting-multiple-postlogoutredirecturis-in-keycloak-config-cli-4nig)
-- [Arrow Keys and Text Box in Microsoft Access](https://dev.to/richardrost/arrow-keys-and-text-box-in-microsoft-access-1l5f)
-- [Weekly Indie Log #17](https://dev.to/hirvesh/weekly-indie-log-17-p5o)
-- [Weekly Indie Log #11](https://dev.to/hirvesh/weekly-indie-log-11-24m4)
-- [Weekly Indie Log #13](https://dev.to/hirvesh/weekly-indie-log-13-18mb)
+- [Creating A Window Virtual Machine, RDP into it, Add a data disc to window virtual machine.](https://dev.to/engra/creating-a-window-virtual-machine-rdp-into-it-add-a-data-disc-to-window-virtual-machine-i6k)
+- [Creating an azure compute Gallery , capture the image of VM and store in compute Gallery and create VMSS](https://dev.to/engra/creating-an-azure-compute-gallery-capture-the-image-of-vm-and-store-in-compute-gallery-and-1e02)
+- [How Focusing on Business Impact Improved My “Technical Debt” Conversations](https://dev.to/michymono77/how-focusing-on-business-impact-improved-my-technical-debt-conversations-21pe)
+- [Day 1060 : Ship &#39;Em Out](https://dev.to/dwane/day-1060-ship-em-out-1fki)
+- [# From Jest to Pytest: A JavaScript Developer&#39;s Journey into Python Testing](https://dev.to/peterdanwan/-from-jest-to-pytest-a-javascript-developers-journey-into-python-testing-gl0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
