@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 100 Best Chrome Extensions to Know! 🧩 🔥](https://dev.to/hosseinyazdi/the-100-best-chrome-extensions-to-know-1o61)
-- [Challenging Bias in Hiring &lpar;OTB Ep 6: Todd Lucas&rpar;](https://dev.to/codemouse92/challenging-bias-in-hiring-otb-ep-6-todd-lucas-3j60)
-- [Digital Trust Security](https://dev.to/manik_rao/digital-trust-security-3eo4)
-- [Stop wasting time on 100% test coverage](https://dev.to/56_kode/stop-wasting-time-on-100-test-coverage-4nja)
-- [Cloud Computing](https://dev.to/seo1_c16efb9e48b65e6e058f/cloud-computing-nm3)
+- [🚀 Hire a Professional Software Developer for Your Next Project!](https://dev.to/coderarnab/hire-a-professional-software-developer-for-your-next-project-1j0c)
+- [Glimpse of Google: Post mortems](https://dev.to/rockandnull/glimpse-of-google-post-mortems-253)
+- [Enhancing Your Cloud Experience: A Guide to Amazon Web Services Customer Service](https://dev.to/billgist/enhancing-your-cloud-experience-a-guide-to-amazon-web-services-customer-service-2ldp)
+- [Exploring the Top Technology Publications on Medium in 2024](https://dev.to/airabbit/exploring-the-top-technology-publications-on-medium-in-2024-4764)
+- [Maximizing Your Budget: Top Strategies for AWS Cost Saving](https://dev.to/billgist/maximizing-your-budget-top-strategies-for-aws-cost-saving-3kf1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
