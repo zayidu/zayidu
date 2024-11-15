@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Yami - An Open-Source Music Player With Simple Ui](https://dev.to/deverm/yami-an-open-source-music-player-with-simple-ui-3e08)
+- [The Evolution of JavaScript Frameworks: From jQuery to Svelte, with React and Vue Along the Way](https://dev.to/mohamedmok/the-evolution-of-javascript-frameworks-from-jquery-to-svelte-with-react-and-vue-along-the-way-3edb)
 - [Milvus Adventures November 15, 2024](https://dev.to/chrischurilo/milvus-adventures-november-15-2024-4fji)
 - [Mainnet Forking in Foundry](https://dev.to/awesamarth/mainnet-forking-in-foundry-79f)
 - [We Ditched Kubernetes! Here&#39;s Why &amp; What We&#39;re Using Now](https://dev.to/pmbanugo/we-ditched-kubernetes-heres-why-what-were-using-now-40b0)
-- [Litlyx Update! After reaching 760+ stars and 45 paying clients!](https://dev.to/litlyx/litlyx-update-after-reaching-760-stars-and-45-paying-clients-1mfi)
-- [Cryptocurrency and Tokens in Web3](https://dev.to/atharvgyan/cryptocurrency-and-tokens-in-web3-3g64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
