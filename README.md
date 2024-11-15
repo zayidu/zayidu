@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding SharedArrayBuffer in Simple Terms](https://dev.to/nozibul_islam_113b1d5334f/understanding-sharedarraybuffer-in-simple-terms-b3e)
-- [Sprint Retrospective Example: How To Turn Your Team&#39;s &quot;Oh, Crap!&quot; Moments Into &quot;Aha!&quot; Moments](https://dev.to/devactivity-app/sprint-retrospective-example-how-to-turn-your-teams-oh-crap-moments-into-aha-moments-515e)
-- [Python Decorators: Adding Magic to Your Functions, One Layer at a Time](https://dev.to/aishwarya_raj_978520e6399/python-decorators-adding-magic-to-your-functions-one-layer-at-a-time-5e3f)
-- [Why Software Developers Should Stay Updated on Crypto Trends](https://dev.to/kaankaya/why-software-developers-should-stay-updated-on-crypto-trends-lb5)
-- [&lt;toast-message&gt; Web Component](https://dev.to/dannyengelman/web-component-4865)
+- [Smart Contract Data Extraction: How It Works?](https://dev.to/smartmuv/smart-contract-data-extraction-how-it-works-1hj1)
+- [iubenda SDK Integration on Android](https://dev.to/albini/iubenda-sdk-integration-on-android-3585)
+- [What Is a Data Streaming Platform?](https://dev.to/jhk_info/what-is-a-data-streaming-platform-1meo)
+- [Building an email address parser in Rust with nom](https://dev.to/arcjet/building-an-email-address-parser-in-rust-with-nom-84a)
+- [Can you help me with product customization in React using React Fiber and 3D images &lpar;.gltf, .glb files&rpar;? The texture is different than expected. #ReactJS #productCustomization](https://dev.to/abhishek_rajpoot_f3f019af/can-you-help-me-with-product-customization-in-react-using-react-fiber-and-3d-images-gltf-glb-2go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
