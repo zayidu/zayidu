@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Engineering at Google - Chapter 9: Code Review](https://dev.to/eidher/software-engineering-at-google-chapter-9-code-review-oia)
-- [Desvendando os Git Aliases: Otimize seu fluxo de trabalho com simplicidade e estilo](https://dev.to/tonybsilvadev/desvendando-os-git-aliases-otimize-seu-fluxo-de-trabalho-com-simplicidade-e-estilo-1oka)
-- [Strings -- Manipulating the Immutable.](https://dev.to/maryalice/strings-manipulating-the-immutable-253a)
-- [Renaming Functionality in Visual Studio: Improving Code Quality with Ease](https://dev.to/moh_moh701/renaming-functionality-in-visual-studio-improving-code-quality-with-ease-3fff)
-- [Why Tracking Pain Matters: Launching Paindai for Chronic Pain Sufferers](https://dev.to/ryan_kopf/why-tracking-pain-matters-launching-paindai-for-chronic-pain-sufferers-52ch)
+- [Design a consistent hashing for system design interview](https://dev.to/dleedev365/design-a-consistent-hashing-for-system-design-interview-50f)
+- [Cutting the High Cost of Testing Microservices](https://dev.to/signadot/cutting-the-high-cost-of-testing-microservices-21io)
+- [Goliath Dashboard - Shield Module Demo](https://dev.to/danieljsaldana/goliath-dashboard-shield-module-demo-5162)
+- [Working with GitHub OAuth Authentication](https://dev.to/anhchienvu/working-with-github-oauth-authentication-48dk)
+- [Train valunarable communities both Technical and businesses entrepreneurship skills for self reliance and sustainability](https://dev.to/osete_josephhongton_67ff/train-valunarable-communities-both-technical-and-businesses-entrepreneurship-skills-for-self-46bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
