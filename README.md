@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up PostgreSQL with Docker: A Beginner&#39;s Guide](https://dev.to/tkrbhargav/setting-up-postgresql-with-docker-a-beginners-guide-6lk)
-- [How Search Engines Choose Keywords to Show the Best Website Results](https://dev.to/juddiy/how-search-engines-choose-keywords-to-show-the-best-website-results-2bfi)
-- [What&#39;s up with Telegram messenger: dozen errors detected](https://dev.to/pvsdev/whats-up-with-telegram-messenger-dozen-errors-detected-3fhc)
-- [10 Best AI Tools for Developers](https://dev.to/nikl/10-best-ai-tools-for-developers-4pg5)
-- [Networking Concepts for DevOps and Cloud Engineers](https://dev.to/574n13y/networking-concepts-for-devops-and-cloud-engineers-fd3)
+- [Understanding SharedArrayBuffer in Simple Terms](https://dev.to/nozibul_islam_113b1d5334f/understanding-sharedarraybuffer-in-simple-terms-b3e)
+- [Sprint Retrospective Example: How To Turn Your Team&#39;s &quot;Oh, Crap!&quot; Moments Into &quot;Aha!&quot; Moments](https://dev.to/devactivity-app/sprint-retrospective-example-how-to-turn-your-teams-oh-crap-moments-into-aha-moments-515e)
+- [Python Decorators: Adding Magic to Your Functions, One Layer at a Time](https://dev.to/aishwarya_raj_978520e6399/python-decorators-adding-magic-to-your-functions-one-layer-at-a-time-5e3f)
+- [Why Software Developers Should Stay Updated on Crypto Trends](https://dev.to/kaankaya/why-software-developers-should-stay-updated-on-crypto-trends-lb5)
+- [&lt;toast-message&gt; Web Component](https://dev.to/dannyengelman/web-component-4865)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
