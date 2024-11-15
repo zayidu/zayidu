@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [40 open-source gems to become the ultimate developer🔥 🚀](https://dev.to/nevodavid/40-open-source-gems-to-become-the-ultimate-developer-4l20)
-- [Why Atomic Design Is Not for Frontend: A Deep Dive](https://dev.to/it_vturbo/why-atomic-design-is-not-for-frontend-a-deep-dive-32in)
-- [Git Tricks You Should Know: Aliases, Bisect, and Hooks for Better Workflow](https://dev.to/atlantis/git-tricks-you-should-know-aliases-bisect-and-hooks-for-better-workflow-2ekj)
-- [Testing REST APIs in Go: A Guide to Unit and Integration Testing with Go&#39;s Standard Testing Library](https://dev.to/sha254/testing-rest-apis-in-go-a-guide-to-unit-and-integration-testing-with-gos-standard-testing-library-2o9l)
-- [Mint 101: How does Mint Blockchain advance on-chain NFT development?](https://dev.to/mint_/mint-101-how-does-mint-blockchain-advance-on-chain-nft-development-3d76)
+- [Setting Up PostgreSQL with Docker: A Beginner&#39;s Guide](https://dev.to/tkrbhargav/setting-up-postgresql-with-docker-a-beginners-guide-6lk)
+- [How Search Engines Choose Keywords to Show the Best Website Results](https://dev.to/juddiy/how-search-engines-choose-keywords-to-show-the-best-website-results-2bfi)
+- [What&#39;s up with Telegram messenger: dozen errors detected](https://dev.to/pvsdev/whats-up-with-telegram-messenger-dozen-errors-detected-3fhc)
+- [10 Best AI Tools for Developers](https://dev.to/nikl/10-best-ai-tools-for-developers-4pg5)
+- [Networking Concepts for DevOps and Cloud Engineers](https://dev.to/574n13y/networking-concepts-for-devops-and-cloud-engineers-fd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
