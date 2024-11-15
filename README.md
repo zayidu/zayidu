@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Hire a Professional Software Developer for Your Next Project!](https://dev.to/coderarnab/hire-a-professional-software-developer-for-your-next-project-1j0c)
-- [Glimpse of Google: Post mortems](https://dev.to/rockandnull/glimpse-of-google-post-mortems-253)
-- [Enhancing Your Cloud Experience: A Guide to Amazon Web Services Customer Service](https://dev.to/billgist/enhancing-your-cloud-experience-a-guide-to-amazon-web-services-customer-service-2ldp)
-- [Exploring the Top Technology Publications on Medium in 2024](https://dev.to/airabbit/exploring-the-top-technology-publications-on-medium-in-2024-4764)
-- [Maximizing Your Budget: Top Strategies for AWS Cost Saving](https://dev.to/billgist/maximizing-your-budget-top-strategies-for-aws-cost-saving-3kf1)
+- [Milvus Adventures November 15, 2024](https://dev.to/chrischurilo/milvus-adventures-november-15-2024-4fji)
+- [Mainnet Forking in Foundry](https://dev.to/awesamarth/mainnet-forking-in-foundry-79f)
+- [We Ditched Kubernetes! Here&#39;s Why &amp; What We&#39;re Using Now](https://dev.to/pmbanugo/we-ditched-kubernetes-heres-why-what-were-using-now-40b0)
+- [Litlyx Update! After reaching 760+ stars and 45 paying clients!](https://dev.to/litlyx/litlyx-update-after-reaching-760-stars-and-45-paying-clients-1mfi)
+- [Cryptocurrency and Tokens in Web3](https://dev.to/atharvgyan/cryptocurrency-and-tokens-in-web3-3g64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
