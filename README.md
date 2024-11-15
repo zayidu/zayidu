@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🗄️Memoization in JavaScript: Optimizing Computations and Improving Performance](https://dev.to/hmpljs/memoization-in-javascript-optimizing-computations-and-improving-performance-5129)
-- [🚀 Dogecoin Update: Why $0.42 is Key for $DOGE ’s Next Target](https://dev.to/joshthebtc/dogecoin-update-why-042-is-key-for-doge-s-next-target-4c78)
-- [Mastering Clean Code: 4 Essential Techniques for Organizing Data in C#](https://dev.to/moh_moh701/mastering-clean-code-4-essential-techniques-for-organizing-data-in-c-1idf)
-- [Security news weekly round-up - 15th November 2024](https://dev.to/ziizium/security-news-weekly-round-up-15th-november-2024-1jgn)
-- [Refactoring: Moving Features Between Objects](https://dev.to/moh_moh701/refactoring-moving-features-between-objects-39pe)
+- [Software Engineering at Google - Chapter 9: Code Review](https://dev.to/eidher/software-engineering-at-google-chapter-9-code-review-oia)
+- [Desvendando os Git Aliases: Otimize seu fluxo de trabalho com simplicidade e estilo](https://dev.to/tonybsilvadev/desvendando-os-git-aliases-otimize-seu-fluxo-de-trabalho-com-simplicidade-e-estilo-1oka)
+- [Strings -- Manipulating the Immutable.](https://dev.to/maryalice/strings-manipulating-the-immutable-253a)
+- [Renaming Functionality in Visual Studio: Improving Code Quality with Ease](https://dev.to/moh_moh701/renaming-functionality-in-visual-studio-improving-code-quality-with-ease-3fff)
+- [Why Tracking Pain Matters: Launching Paindai for Chronic Pain Sufferers](https://dev.to/ryan_kopf/why-tracking-pain-matters-launching-paindai-for-chronic-pain-sufferers-52ch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
