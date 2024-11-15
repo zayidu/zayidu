@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer Networking - Full Course](https://dev.to/vignesh_j/computer-networking-full-course-5c80)
-- [Introduction to Chatbot &lpar;Bot&rpar; Framework SDK in .NET](https://dev.to/ngtduc693/introduction-to-chatbot-bot-framework-sdk-in-net-367p)
-- [Docker Compose vs Kubernetes](https://dev.to/mrcaption49/docker-compose-vs-kubernetes-1jn9)
-- [Reliable Notification Systems: Implementing Dead Letter Queues with RabbitMQ and Node.js](https://dev.to/abhinav707/reliable-notification-systems-implementing-dead-letter-queues-with-rabbitmq-and-nodejs-4mnn)
-- [Understanding Variable Access in JavaScript: Scope, Hoisting, and Closures](https://dev.to/khamal22/understanding-variable-access-in-javascript-scope-hoisting-and-closures-398)
+- [Building a Docker and Kubernetes-like System from First Principles](https://dev.to/biswasprasana001/building-a-docker-and-kubernetes-like-system-from-first-principles-7l9)
+- [ssh không cần mật khẩu bằng ssh-copy-id trong windows](https://dev.to/longtth/ssh-khong-can-mat-khau-bang-ssh-copy-id-trong-windows-1a7p)
+- [change default excel template](https://dev.to/longtth/change-default-excel-template-56hp)
+- [5 recommended tools to support editing of oblique photography OSGB scenes](https://dev.to/austin6799/5-recommended-tools-to-support-editing-of-oblique-photography-osgb-scenes-1imd)
+- [Building a Sustainable Future: Cloud Computing in Environmental Science](https://dev.to/sai_rishika_0e321c17cfc13/building-a-sustainable-future-cloud-computing-in-environmental-science-1olc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
