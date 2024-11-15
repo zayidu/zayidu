@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart Contract Data Extraction: How It Works?](https://dev.to/smartmuv/smart-contract-data-extraction-how-it-works-1hj1)
-- [iubenda SDK Integration on Android](https://dev.to/albini/iubenda-sdk-integration-on-android-3585)
-- [What Is a Data Streaming Platform?](https://dev.to/jhk_info/what-is-a-data-streaming-platform-1meo)
-- [Building an email address parser in Rust with nom](https://dev.to/arcjet/building-an-email-address-parser-in-rust-with-nom-84a)
-- [Can you help me with product customization in React using React Fiber and 3D images &lpar;.gltf, .glb files&rpar;? The texture is different than expected. #ReactJS #productCustomization](https://dev.to/abhishek_rajpoot_f3f019af/can-you-help-me-with-product-customization-in-react-using-react-fiber-and-3d-images-gltf-glb-2go)
+- [Transitioning from Flask with Jinja2 to React: Understanding Authentication and Data Flow for Beginners](https://dev.to/usooldatascience/transitioning-from-flask-with-jinja2-to-react-understanding-authentication-and-data-flow-for-4214)
+- [How To Deploy a json-server on render](https://dev.to/akashjadhav55/how-to-deploy-a-json-server-on-render-3h8l)
+- [Optimizing Your CI/CD Pipeline on AWS for Cost and Performance](https://dev.to/lewisawe/optimizing-your-cicd-pipeline-on-aws-for-cost-and-performance-2j1e)
+- [Understanding Authentication: Session-Based vs. Token-Based &lpar;and Beyond!&rpar;](https://dev.to/usooldatascience/understanding-authentication-session-based-vs-token-based-and-beyond-1bnd)
+- [The Monad Invasion - Part 3: Railway-Oriented Programming](https://dev.to/vonagedev/the-monad-invasion-part-3-railway-oriented-programming-5800)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
