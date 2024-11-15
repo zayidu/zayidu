@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#97 — Count Duplicates of Simple Members](https://dev.to/judith677/97-count-duplicates-of-simple-members-20jk)
-- [JavaScript Learning Resources: Your Gateway to Modern Web Development](https://dev.to/getvm/javascript-learning-resources-your-gateway-to-modern-web-development-1bc2)
-- [Understanding the Bridge Design Pattern: A Comprehensive Guide](https://dev.to/syridit118/understanding-the-bridge-design-pattern-a-comprehensive-guide-ff8)
-- [Essential API Testing Checklist for Developers and QA Engineers](https://dev.to/patrick_61cbc6392b72286f6/essential-api-testing-checklist-for-developers-and-qa-engineers-35eg)
-- [The Hidden Risks of SSE（Server-Sent Events&rpar;: What Developers Often Overlook](https://dev.to/patrick_61cbc6392b72286f6/the-hidden-risks-of-sseserver-sent-events-what-developers-often-overlook-1b34)
+- [Understanding Variable Access in JavaScript: Scope, Hoisting, and Closures](https://dev.to/khamal22/understanding-variable-access-in-javascript-scope-hoisting-and-closures-398)
+- [What is Continuous Integration? - A Comprehensive Guide](https://dev.to/berthaw82414312/what-is-continuous-integration-a-comprehensive-guide-11mh)
+- [The Ultimate Guide to Lists in Java: Everything You Need to Know](https://dev.to/wittedtech-by-harshit/the-ultimate-guide-to-lists-in-java-everything-you-need-to-know-k4o)
+- [What is Docker? Advantages, Disadvantages, and its Role in AI Applications](https://dev.to/abhinowww/what-is-docker-advantages-disadvantages-and-its-role-in-ai-applications-4gj)
+- [Formik &amp; Yup simplified:](https://dev.to/alegendcodes/formik-yup-simplified-ndm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
