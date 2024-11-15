@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transitioning from Flask with Jinja2 to React: Understanding Authentication and Data Flow for Beginners](https://dev.to/usooldatascience/transitioning-from-flask-with-jinja2-to-react-understanding-authentication-and-data-flow-for-4214)
-- [How To Deploy a json-server on render](https://dev.to/akashjadhav55/how-to-deploy-a-json-server-on-render-3h8l)
-- [Optimizing Your CI/CD Pipeline on AWS for Cost and Performance](https://dev.to/lewisawe/optimizing-your-cicd-pipeline-on-aws-for-cost-and-performance-2j1e)
-- [Understanding Authentication: Session-Based vs. Token-Based &lpar;and Beyond!&rpar;](https://dev.to/usooldatascience/understanding-authentication-session-based-vs-token-based-and-beyond-1bnd)
-- [The Monad Invasion - Part 3: Railway-Oriented Programming](https://dev.to/vonagedev/the-monad-invasion-part-3-railway-oriented-programming-5800)
+- [🚀 Your Daily Crypto Job Digest For 15 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-15-november-3hc6)
+- [Is Squarespace Better for Your Website? Comparing WordPress and Squarespace Features](https://dev.to/henrydavid/is-squarespace-better-for-your-website-comparing-wordpress-and-squarespace-features-5anm)
+- [Real-Time Citrix Alerts in Slack: Webhook Integration Made Easy](https://dev.to/amalkabraham001/real-time-citrix-alerts-in-slack-webhook-integration-made-easy-3897)
+- [Conquer procrastination: Harness the power of Logseq](https://dev.to/airabbit/conquer-procrastination-harness-the-power-of-logseq-27l5)
+- [The Ultimate Guide To End-to-End Testing](https://dev.to/ronika_kashyap/the-ultimate-guide-to-end-to-end-testing-44k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
