@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Engineering at Google - Chapter 5: How to Lead a Team](https://dev.to/eidher/software-engineering-at-google-chapter-5-how-to-lead-a-team-19o5)
-- [Software Engineer Interviews - #1 Intro](https://dev.to/lucasqueiroz/software-engineer-interviews-1-intro-22if)
-- [AWS Network Challenge 2: Deploy File Upload App on EC2, RDS, DocumentDB](https://dev.to/raphael_jambalos/aws-network-challenge-2-deploy-a-file-uploading-app-on-ec2-rds-documentdb-16eb)
-- [LangChain Memory Component Deep Dive: Chain Components and Runnable Study](https://dev.to/jamesli/langchain-memory-component-deep-dive-chain-components-and-runnable-study-359p)
-- [The Art of Data Synchronization in HarmonyOS Next: Handling of Common Data Types](https://dev.to/xun_wang_6384a403f9817c2/the-art-of-data-synchronization-in-harmonyos-next-handling-of-common-data-types-de4)
+- [Understanding Vue.js Slots: A Toddler Analogy](https://dev.to/forthegeeks/understanding-vuejs-slots-a-toddler-analogy-547m)
+- [Best Practices for Mobile App Performance Testing](https://dev.to/grjoeay/best-practices-for-mobile-app-performance-testing-1hk2)
+- [Combining Scrum with Kanban and Extreme Programming](https://dev.to/adityabhuyan/combining-scrum-with-kanban-and-extreme-programming-2kjj)
+- [Transform Mobile Testing with Secured Cloud-Based Testing](https://dev.to/berthaw82414312/transform-mobile-testing-with-secured-cloud-based-testing-18he)
+- [Chrome Flags&#39; Latest 2024 Update, Web Browser Video Hardware Acceleration on Linux](https://dev.to/archerallstars/chrome-flags-latest-2024-update-web-browser-video-hardware-acceleration-on-linux-34k1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
