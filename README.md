@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 15 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-15-november-3hc6)
-- [Is Squarespace Better for Your Website? Comparing WordPress and Squarespace Features](https://dev.to/henrydavid/is-squarespace-better-for-your-website-comparing-wordpress-and-squarespace-features-5anm)
-- [Real-Time Citrix Alerts in Slack: Webhook Integration Made Easy](https://dev.to/amalkabraham001/real-time-citrix-alerts-in-slack-webhook-integration-made-easy-3897)
-- [Conquer procrastination: Harness the power of Logseq](https://dev.to/airabbit/conquer-procrastination-harness-the-power-of-logseq-27l5)
-- [The Ultimate Guide To End-to-End Testing](https://dev.to/ronika_kashyap/the-ultimate-guide-to-end-to-end-testing-44k9)
+- [The 100 Best Chrome Extensions to Know! 🧩 🔥](https://dev.to/hosseinyazdi/the-100-best-chrome-extensions-to-know-1o61)
+- [Challenging Bias in Hiring &lpar;OTB Ep 6: Todd Lucas&rpar;](https://dev.to/codemouse92/challenging-bias-in-hiring-otb-ep-6-todd-lucas-3j60)
+- [Digital Trust Security](https://dev.to/manik_rao/digital-trust-security-3eo4)
+- [Stop wasting time on 100% test coverage](https://dev.to/56_kode/stop-wasting-time-on-100-test-coverage-4nja)
+- [Cloud Computing](https://dev.to/seo1_c16efb9e48b65e6e058f/cloud-computing-nm3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
