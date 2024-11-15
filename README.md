@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Blue-Green Deployment in Kubernetes with TLS Encryption Using Cert-Manager and Nginx Ingress](https://dev.to/ezejioforog/implementing-blue-green-deployment-in-kubernetes-with-tls-encryption-using-cert-manager-and-nginx-38hg)
-- [JavaScript Superpowers: Mastering Proxies and Reflect for Dynamic Code Manipulation](https://dev.to/aaravjoshi/javascript-superpowers-mastering-proxies-and-reflect-for-dynamic-code-manipulation-28aj)
-- [Revolutionizing the $27+ Billion Market with Conversational AI in Data Analytics](https://dev.to/idan_moradov_4b6d9e5b5477/revolutionizing-the-27-billion-market-with-conversational-ai-in-data-analytics-4fdb)
-- [Mastering TypeScript: Advanced Type Tricks for Bulletproof Code](https://dev.to/aaravjoshi/mastering-typescript-advanced-type-tricks-for-bulletproof-code-5ghl)
-- [🪝Mastering React Hooks Transform Your React Development with Hooks🚀](https://dev.to/vaishnavi_sonawane/mastering-react-hookstransform-your-react-development-with-hooks-79e)
+- [🚀 **Exciting Updates for LibTracker - The Ultimate SBOM Tool!** 🚀](https://dev.to/windmillcode/exciting-updates-for-libtracker-the-ultimate-sbom-tool-3apf)
+- [Orbis: The Magic of Abstraction in PHP](https://dev.to/lithephp/orbis-the-magic-of-abstraction-in-php-kh8)
+- [Orbis: A Magia da Abstração em PHP](https://dev.to/lithephp/orbis-a-magia-da-abstracao-em-php-1if7)
+- [Master Website Speed Optimization: A Comprehensive Guide](https://dev.to/techpulse55/master-website-speed-optimization-a-comprehensive-guide-3kc3)
+- [How to Use Orbis to Simplify Your PHP Code](https://dev.to/lithephp/how-to-use-orbis-to-simplify-your-php-code-28d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
