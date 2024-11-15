@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React/Tailwind template with default responsive NavBar.](https://dev.to/isccnewt/reacttailwind-template-with-default-responsive-navbar-3gko)
-- [POC : Tamil Date parser using parse](https://dev.to/hariharanumapathi/poc-tamil-date-parser-using-parse-5b70)
-- [Comment créer un bot de traduction vocale avec witai](https://dev.to/jmegnidro/comment-creer-un-bot-de-traduction-vocale-avec-witai-54k7)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5816)
-- [To Access Jenkins running on your EC2 instance](https://dev.to/fazly_fathhy/to-access-jenkins-running-on-your-ec2-instance-4cho)
+- [Implementing Blue-Green Deployment in Kubernetes with TLS Encryption Using Cert-Manager and Nginx Ingress](https://dev.to/ezejioforog/implementing-blue-green-deployment-in-kubernetes-with-tls-encryption-using-cert-manager-and-nginx-38hg)
+- [JavaScript Superpowers: Mastering Proxies and Reflect for Dynamic Code Manipulation](https://dev.to/aaravjoshi/javascript-superpowers-mastering-proxies-and-reflect-for-dynamic-code-manipulation-28aj)
+- [Revolutionizing the $27+ Billion Market with Conversational AI in Data Analytics](https://dev.to/idan_moradov_4b6d9e5b5477/revolutionizing-the-27-billion-market-with-conversational-ai-in-data-analytics-4fdb)
+- [Mastering TypeScript: Advanced Type Tricks for Bulletproof Code](https://dev.to/aaravjoshi/mastering-typescript-advanced-type-tricks-for-bulletproof-code-5ghl)
+- [🪝Mastering React Hooks Transform Your React Development with Hooks🚀](https://dev.to/vaishnavi_sonawane/mastering-react-hookstransform-your-react-development-with-hooks-79e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
