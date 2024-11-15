@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Yami - An Open-Source Music Player With Simple Ui](https://dev.to/deverm/yami-an-open-source-music-player-with-simple-ui-3e08)
-- [The Evolution of JavaScript Frameworks: From jQuery to Svelte, with React and Vue Along the Way](https://dev.to/mohamedmok/the-evolution-of-javascript-frameworks-from-jquery-to-svelte-with-react-and-vue-along-the-way-3edb)
-- [Milvus Adventures November 15, 2024](https://dev.to/chrischurilo/milvus-adventures-november-15-2024-4fji)
-- [Mainnet Forking in Foundry](https://dev.to/awesamarth/mainnet-forking-in-foundry-79f)
-- [We Ditched Kubernetes! Here&#39;s Why &amp; What We&#39;re Using Now](https://dev.to/pmbanugo/we-ditched-kubernetes-heres-why-what-were-using-now-40b0)
+- [React/Tailwind template with default responsive NavBar.](https://dev.to/isccnewt/reacttailwind-template-with-default-responsive-navbar-3gko)
+- [POC : Tamil Date parser using parse](https://dev.to/hariharanumapathi/poc-tamil-date-parser-using-parse-5b70)
+- [Comment créer un bot de traduction vocale avec witai](https://dev.to/jmegnidro/comment-creer-un-bot-de-traduction-vocale-avec-witai-54k7)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5816)
+- [To Access Jenkins running on your EC2 instance](https://dev.to/fazly_fathhy/to-access-jenkins-running-on-your-ec2-instance-4cho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
