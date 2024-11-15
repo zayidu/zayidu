@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating A Window Virtual Machine, RDP into it, Add a data disc to window virtual machine.](https://dev.to/engra/creating-a-window-virtual-machine-rdp-into-it-add-a-data-disc-to-window-virtual-machine-i6k)
-- [Creating an azure compute Gallery , capture the image of VM and store in compute Gallery and create VMSS](https://dev.to/engra/creating-an-azure-compute-gallery-capture-the-image-of-vm-and-store-in-compute-gallery-and-1e02)
-- [How Focusing on Business Impact Improved My “Technical Debt” Conversations](https://dev.to/michymono77/how-focusing-on-business-impact-improved-my-technical-debt-conversations-21pe)
-- [Day 1060 : Ship &#39;Em Out](https://dev.to/dwane/day-1060-ship-em-out-1fki)
-- [# From Jest to Pytest: A JavaScript Developer&#39;s Journey into Python Testing](https://dev.to/peterdanwan/-from-jest-to-pytest-a-javascript-developers-journey-into-python-testing-gl0)
+- [Software Engineering at Google - Chapter 5: How to Lead a Team](https://dev.to/eidher/software-engineering-at-google-chapter-5-how-to-lead-a-team-19o5)
+- [Software Engineer Interviews - #1 Intro](https://dev.to/lucasqueiroz/software-engineer-interviews-1-intro-22if)
+- [AWS Network Challenge 2: Deploy File Upload App on EC2, RDS, DocumentDB](https://dev.to/raphael_jambalos/aws-network-challenge-2-deploy-a-file-uploading-app-on-ec2-rds-documentdb-16eb)
+- [LangChain Memory Component Deep Dive: Chain Components and Runnable Study](https://dev.to/jamesli/langchain-memory-component-deep-dive-chain-components-and-runnable-study-359p)
+- [The Art of Data Synchronization in HarmonyOS Next: Handling of Common Data Types](https://dev.to/xun_wang_6384a403f9817c2/the-art-of-data-synchronization-in-harmonyos-next-handling-of-common-data-types-de4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
