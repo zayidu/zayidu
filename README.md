@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Computer Networking - Full Course](https://dev.to/vignesh_j/computer-networking-full-course-5c80)
+- [Introduction to Chatbot &lpar;Bot&rpar; Framework SDK in .NET](https://dev.to/ngtduc693/introduction-to-chatbot-bot-framework-sdk-in-net-367p)
+- [Docker Compose vs Kubernetes](https://dev.to/mrcaption49/docker-compose-vs-kubernetes-1jn9)
+- [Reliable Notification Systems: Implementing Dead Letter Queues with RabbitMQ and Node.js](https://dev.to/abhinav707/reliable-notification-systems-implementing-dead-letter-queues-with-rabbitmq-and-nodejs-4mnn)
 - [Understanding Variable Access in JavaScript: Scope, Hoisting, and Closures](https://dev.to/khamal22/understanding-variable-access-in-javascript-scope-hoisting-and-closures-398)
-- [What is Continuous Integration? - A Comprehensive Guide](https://dev.to/berthaw82414312/what-is-continuous-integration-a-comprehensive-guide-11mh)
-- [The Ultimate Guide to Lists in Java: Everything You Need to Know](https://dev.to/wittedtech-by-harshit/the-ultimate-guide-to-lists-in-java-everything-you-need-to-know-k4o)
-- [What is Docker? Advantages, Disadvantages, and its Role in AI Applications](https://dev.to/abhinowww/what-is-docker-advantages-disadvantages-and-its-role-in-ai-applications-4gj)
-- [Formik &amp; Yup simplified:](https://dev.to/alegendcodes/formik-yup-simplified-ndm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
