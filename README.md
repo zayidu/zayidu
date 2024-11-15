@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Vue.js Slots: A Toddler Analogy](https://dev.to/forthegeeks/understanding-vuejs-slots-a-toddler-analogy-547m)
-- [Best Practices for Mobile App Performance Testing](https://dev.to/grjoeay/best-practices-for-mobile-app-performance-testing-1hk2)
-- [Combining Scrum with Kanban and Extreme Programming](https://dev.to/adityabhuyan/combining-scrum-with-kanban-and-extreme-programming-2kjj)
-- [Transform Mobile Testing with Secured Cloud-Based Testing](https://dev.to/berthaw82414312/transform-mobile-testing-with-secured-cloud-based-testing-18he)
-- [Chrome Flags&#39; Latest 2024 Update, Web Browser Video Hardware Acceleration on Linux](https://dev.to/archerallstars/chrome-flags-latest-2024-update-web-browser-video-hardware-acceleration-on-linux-34k1)
+- [#97 — Count Duplicates of Simple Members](https://dev.to/judith677/97-count-duplicates-of-simple-members-20jk)
+- [JavaScript Learning Resources: Your Gateway to Modern Web Development](https://dev.to/getvm/javascript-learning-resources-your-gateway-to-modern-web-development-1bc2)
+- [Understanding the Bridge Design Pattern: A Comprehensive Guide](https://dev.to/syridit118/understanding-the-bridge-design-pattern-a-comprehensive-guide-ff8)
+- [Essential API Testing Checklist for Developers and QA Engineers](https://dev.to/patrick_61cbc6392b72286f6/essential-api-testing-checklist-for-developers-and-qa-engineers-35eg)
+- [The Hidden Risks of SSE（Server-Sent Events&rpar;: What Developers Often Overlook](https://dev.to/patrick_61cbc6392b72286f6/the-hidden-risks-of-sseserver-sent-events-what-developers-often-overlook-1b34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
