@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Convert http to https in AWS](https://dev.to/darshil89/convert-http-to-https-in-aws-3ecj)
-- [How to create AWS IAM Policies with ActionHero and Access Analyser](https://dev.to/mkdev/how-to-create-aws-iam-policies-with-actionhero-and-access-analyser-hp2)
-- [Simplify Your Django Admin with django-unfold](https://dev.to/eshat002/simplify-your-django-admin-with-django-unfold-5g16)
-- [A Concise Guide to CSS Selectors](https://dev.to/bat_man_d0c6665ccb1bcf2ad/a-concise-guide-to-css-selectors-g6m)
-- [Getting Started with Docker: Essential Commands for Beginners](https://dev.to/abhijithzero/getting-started-with-docker-essential-commands-for-beginners-b60)
+- [🚀 Your Daily Crypto Job Digest For 16 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-16-november-5ef3)
+- [My Journey Through the 2024 Kaggle X Fellowship Programme](https://dev.to/victor_isaac_king/my-journey-through-the-2024-kaggle-x-fellowship-programme-1o1e)
+- [Building a website using Markdown content with Next.js App Router and Fusionable](https://dev.to/robertobutti/building-a-website-using-markdown-content-with-nextjs-app-router-and-fusionable-4kj7)
+- [Full-Stack Software Engineer skilled in web and mobile &lpar;Co-Founder Potential&rpar;](https://dev.to/gr_ltd/full-stack-software-engineer-skilled-in-web-and-mobile-co-founder-potential-4g79)
+- [Vue JS Emit function](https://dev.to/husniddin6939/vue-js-emit-function-516e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
