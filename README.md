@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using YAMLFish to easily manage I18n translations in your project - The basics](https://dev.to/intrepidd/using-yamlfish-to-easily-manage-i18n-translations-in-your-project-the-basics-1o4j)
-- [Common Mistakes Beginners Make in Coding and How to Avoid Them](https://dev.to/balrajola/common-mistakes-beginners-make-in-coding-and-how-to-avoid-them-4loc)
-- [Docker commands &lpar;part-1&rpar;](https://dev.to/jayesh0706/docker-commands-part-1-169d)
-- [How to Set Up Dependabot for Automated Dependency Management](https://dev.to/brunosartori/how-to-set-up-dependabot-for-automated-dependency-management-59eh)
-- [The Complete Guide to CPU Architecture](https://dev.to/adityabhuyan/the-complete-guide-to-cpu-architecture-3c47)
+- [RAG Explained: Fine-Tuning vs RAG](https://dev.to/busycaesar/rag-explained-fine-tuning-vs-rag-2669)
+- [AITranscriptor](https://dev.to/elmerurbina/aitranscriptor-4j3b)
+- [Introducing Selective Frontend Architecture &lpar;SFA&rpar;](https://dev.to/rosharch2/introducing-selective-frontend-architecture-sfa-1026)
+- [AWS Security Blogs and Whitepapers, Your Guide to Cloud Security Knowledge](https://dev.to/ikoh_sylva/aws-security-blogs-and-whitepapers-your-guide-to-cloud-security-knowledge-132n)
+- [iMate - Building a Mobile App for Mood Tracking](https://dev.to/merichard123/imate-building-a-mobile-app-for-mood-tracking-492l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
