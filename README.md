@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Subnets and Subnet Masks: A DevOps Guide to Calculating Networks and Hosts](https://dev.to/574n13y/subnets-and-subnet-masks-a-devops-guide-to-calculating-networks-and-hosts-2bpk)
-- [Demystifying Algorithms: Brute Force](https://dev.to/craftedwithintent/demystifying-algorithms-brute-force-1pgi)
-- [🚀✨ We just launched Side Space on Product Hunt!](https://dev.to/robertshaw/we-just-launched-side-space-on-product-hunt-3a0e)
-- [Hosting a Static Website in Azure Storage with CDN and CI/CD Pipeline Integration](https://dev.to/nikhil_wilson_dfb43fe6436/hosting-a-static-website-in-azure-storage-with-cdn-and-cicd-pipeline-integration-20b6)
-- [👋 Hi, Community! After a year in beta, we’re thrilled to introduce **Side Space**—your ultimate AI-powered vertical tab manager. 🧠📂 Designed to tame the chaos of modern browsing, it brings a sleek, organized experience to your side panel. 🎯🌟 We’d ❤️](https://dev.to/robertshaw/hi-community-after-a-year-in-beta-were-thrilled-to-introduce-side-space-your-ultimate-ejb)
+- [Episode 12: The Guardian of Codex – Embracing PWAs and Micro-Frontends](https://dev.to/vigneshiyergithub/episode-12-the-guardian-of-codex-embracing-pwas-and-micro-frontends-4hl6)
+- [Unlock Your Inner Productivity Ninja: How to Supercharge Your Software Developer Workflow](https://dev.to/devactivity-app/unlock-your-inner-productivity-ninja-how-to-supercharge-your-software-developer-workflow-125e)
+- [Capturing the image of a Virtual machine in Azure](https://dev.to/afeez_adeyemo/capturing-the-image-of-a-virtual-machine-in-azure-38c8)
+- [Achieving Perfect Vertical Rhythm in Web Browsers](https://dev.to/p233/achieving-perfect-vertical-rhythm-in-web-browsers-2d95)
+- [Mastering package.json: A Comprehensive Guide 🚀](https://dev.to/alisamir/mastering-packagejson-a-comprehensive-guide-2a0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
