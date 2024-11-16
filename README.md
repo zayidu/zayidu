@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing CI/CD Pipelines: GitHub Actions vs Jenkins](https://dev.to/ekirigwe/securing-cicd-pipelines-github-actions-vs-jenkins-1p2e)
-- [A brief history of ES modules](https://dev.to/dodson/a-brief-history-of-es-modules-2fld)
-- [Dot Notation vs Bracket Notation for Object Properties – What&#39;s the Difference?](https://dev.to/fahaddevs/dot-notation-vs-bracket-notation-for-object-properties-whats-the-difference-2i22)
-- [The Rise of AI Tools in Programming: How They&#39;re Changing the Game](https://dev.to/techpulse55/the-rise-of-ai-tools-in-programming-how-theyre-changing-the-game-1m0b)
-- [O que é um problema in-place?](https://dev.to/felipecezar01/o-que-e-um-problema-in-place-1op2)
+- [Table functions and Pipelined functions](https://dev.to/mrcaption49/table-functions-and-pipelined-functions-2f5g)
+- [Geeks Artificial Neural Network &lpar;G.A.N.N&rpar;](https://dev.to/g0d/geeks-artificial-neural-network-gann-50of)
+- [Learn how to hire the best mobile software engineers in Latin America](https://dev.to/teamstation/learn-how-to-hire-the-best-mobile-software-engineers-in-latin-america-2236)
+- [&lpar;Trickbot&rpar; Malware Analysis Report](https://dev.to/mihika/trickbot-malware-analysis-report-5aok)
+- [This new DEV feature &lpar;Quick posts&rpar; will certainly be interesting… have any of you guys heard of Peerlist? It&#39;s not as cool as dev.to &lpar;sorry Peerlist&rpar; but still a great place. Check it out: https://peerlist.io/bestcodes/signup](https://dev.to/best_codes/this-new-dev-feature-quick-posts-will-certainly-be-interesting-have-any-of-you-guys-heard-of-125c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
