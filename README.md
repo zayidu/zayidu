@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Konversi Konfigurasi Apache .htaccess ke IIS web.config untuk Pengalihan Domain](https://dev.to/yysfyn/konversi-konfigurasi-apache-htaccess-ke-iis-webconfig-untuk-pengalihan-domain-dlk)
-- [How I &lpar;mostly&rpar; Learned to Touch Type in 6 Weeks](https://dev.to/ayak22/how-i-mostly-learned-to-touch-type-in-6-weeks-191)
-- [I hope these quick posts don&#39;t take off, that feels like a lot of clutter would be created! Also I love that as I type the input box gets 1 px taller per character, that is an amusing bug lol.](https://dev.to/grahamthedev/i-hope-these-quick-posts-dont-take-off-that-feels-like-a-lot-of-clutter-would-be-created-also-i-226p)
-- [จัดการ Kubernetes Resources ด้วย kro &lpar;Kube Resource Orchestrator&rpar;](https://dev.to/mongkol_tho/cchadkaar-kubernetes-resources-dwy-kro-kube-resource-orchestrator-1g6h)
-- [Dev Playground an alternative to RunJS](https://dev.to/equiman/dev-playground-an-alternative-to-runjs-39ah)
+- [Keploy VS Code Extension: Revolutionizing Automated Unit &amp; Integration Test Generation](https://dev.to/keploy/keploy-vs-code-extension-revolutionizing-automated-unit-integration-test-generation-a2)
+- [Asp.Net Core and Keycloak testcontainer. Testing a secure Asp.Net Core Api using Keycloak Testcontainer](https://dev.to/horatz/aspnet-core-and-keycloak-testcontainer-testing-a-secure-aspnet-core-api-using-keycloak-46jl)
+- [🚀 V8 Engine Secrets How We Slashed Memory Usage by 66% with TypedArrays](https://dev.to/asadk/v8-engine-secrets-how-we-slashed-memory-usage-by-66-with-typedarrays-g95)
+- [Learn useActionState quickly with an example &lpar;Next.js 15&rpar;](https://dev.to/bookercodes/learn-useactionstate-quickly-4jj7)
+- [3254. Find the Power of K-Size Subarrays I](https://dev.to/mdarifulhaque/3254-find-the-power-of-k-size-subarrays-i-41kc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
