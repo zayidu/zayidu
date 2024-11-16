@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Table functions and Pipelined functions](https://dev.to/mrcaption49/table-functions-and-pipelined-functions-2f5g)
-- [Geeks Artificial Neural Network &lpar;G.A.N.N&rpar;](https://dev.to/g0d/geeks-artificial-neural-network-gann-50of)
-- [Learn how to hire the best mobile software engineers in Latin America](https://dev.to/teamstation/learn-how-to-hire-the-best-mobile-software-engineers-in-latin-america-2236)
-- [&lpar;Trickbot&rpar; Malware Analysis Report](https://dev.to/mihika/trickbot-malware-analysis-report-5aok)
-- [This new DEV feature &lpar;Quick posts&rpar; will certainly be interesting… have any of you guys heard of Peerlist? It&#39;s not as cool as dev.to &lpar;sorry Peerlist&rpar; but still a great place. Check it out: https://peerlist.io/bestcodes/signup](https://dev.to/best_codes/this-new-dev-feature-quick-posts-will-certainly-be-interesting-have-any-of-you-guys-heard-of-125c)
+- [OLAP &lpar;Online Analytical Processing&rpar;](https://dev.to/mrcaption49/olap-online-analytical-processing-1m6n)
+- [Creating a TodoList with PHP and the Lithe Framework: A Complete Guide](https://dev.to/lithephp/creating-a-todolist-with-php-and-the-lithe-framework-a-complete-guide-28ho)
+- [Criando uma TodoList com PHP e o Framework Lithe: Um Guia Completo](https://dev.to/lithephp/criando-uma-todolist-com-php-e-o-framework-lithe-um-guia-completo-4hh2)
+- [Case Study: Building Tomorrow’s Products—The Secret Sauce Behind TeamStation AI](https://dev.to/teamstation/case-study-building-tomorrows-products-the-secret-sauce-behind-teamstation-ai-52bb)
+- [Levelling Up with npm: Efficient Package Management](https://dev.to/imrancodes/levelling-up-with-npm-efficient-package-management-ckl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
