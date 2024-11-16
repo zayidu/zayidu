@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Create A Tooltip With Floating UI](https://dev.to/ewenikeemmanue4/how-to-create-a-tooltip-with-floating-ui-4m96)
-- [started figma today , learning layers and tools right now .](https://dev.to/coderkun/started-figma-today-learning-layers-and-tools-right-now--4k2n)
-- [partdec: a multipart downloader and file splitter](https://dev.to/cjijcb/partdec-a-multipart-downloader-and-file-splitter-2nf3)
-- [How To Fail In Learning Front End Development](https://dev.to/mohamedqourany/how-to-fail-in-learning-front-end-development-2224)
-- [How to Achieve Mel&#39;s Hairstyle from Arcane for Your Cosplay?](https://dev.to/jeson/how-to-achieve-mels-hairstyle-from-arcane-for-your-cosplay-3hjj)
+- [Lessons Learned from Using Torch Inductor For Inference](https://dev.to/aaronlangford31/lessons-learned-from-using-torch-inductor-for-inference-1ma7)
+- [Lab 08 Continuous Integration &lpar;CI&rpar;](https://dev.to/ajogseneca/lab-08-continuous-integration-ci-518f)
+- [Continuous Integration and Continuous Learning](https://dev.to/add00_3/continuous-integration-and-continuous-learning-16fg)
+- [Week 11: Lab 8: CI with github actions](https://dev.to/mpalhutchinson/week-11-lab-8-ci-with-github-actions-3o5h)
+- [Important thoughts on JavaScript](https://dev.to/__e19a78719dbdd7bc958/important-thoughts-on-javascript-3ik8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
