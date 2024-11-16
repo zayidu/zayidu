@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Multipurpose Packer Templates](https://dev.to/lykins/multipurpose-packer-templates-5322)
 - [Lessons Learned from Using Torch Inductor For Inference](https://dev.to/aaronlangford31/lessons-learned-from-using-torch-inductor-for-inference-1ma7)
 - [Lab 08 Continuous Integration &lpar;CI&rpar;](https://dev.to/ajogseneca/lab-08-continuous-integration-ci-518f)
 - [Continuous Integration and Continuous Learning](https://dev.to/add00_3/continuous-integration-and-continuous-learning-16fg)
 - [Week 11: Lab 8: CI with github actions](https://dev.to/mpalhutchinson/week-11-lab-8-ci-with-github-actions-3o5h)
-- [Important thoughts on JavaScript](https://dev.to/__e19a78719dbdd7bc958/important-thoughts-on-javascript-3ik8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
