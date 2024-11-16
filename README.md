@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Design a consistent hashing for system design interview](https://dev.to/dleedev365/design-a-consistent-hashing-for-system-design-interview-50f)
-- [Cutting the High Cost of Testing Microservices](https://dev.to/signadot/cutting-the-high-cost-of-testing-microservices-21io)
-- [Goliath Dashboard - Shield Module Demo](https://dev.to/danieljsaldana/goliath-dashboard-shield-module-demo-5162)
-- [Working with GitHub OAuth Authentication](https://dev.to/anhchienvu/working-with-github-oauth-authentication-48dk)
-- [Train valunarable communities both Technical and businesses entrepreneurship skills for self reliance and sustainability](https://dev.to/osete_josephhongton_67ff/train-valunarable-communities-both-technical-and-businesses-entrepreneurship-skills-for-self-46bc)
+- [Check your Azure account for private offers eligibility.](https://dev.to/nakib_juris/check-your-azure-account-for-private-offers-eligibility-4f1e)
+- [Demystifying Data Structure Algorithms: A Series on Patterns, Complexities, and Real-World Insights](https://dev.to/craftedwithintent/demystifying-data-structure-algorithms-a-series-on-patterns-complexities-and-real-world-insights-1654)
+- [Task Manager App with Flask and MySQL](https://dev.to/cloudforce/task-manager-app-with-flask-and-mysql-4gm5)
+- [Day 1061 : Go Fly Away](https://dev.to/dwane/day-1061-go-fly-away-3hmd)
+- [Implementing CI Workflow](https://dev.to/aldrin312/ci-workflow-13m7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
