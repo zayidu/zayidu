@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Can Copybot AI Revolutionize Your Content?](https://dev.to/techpulse55/can-copybot-ai-revolutionize-your-content-2gbb)
-- [🔐 Understanding Ethereum ECDSA, EIP-712 and Its Role in Permit Functionality 🧾](https://dev.to/truongpx396/understanding-ethereum-ecdsa-eip-712-and-its-role-in-permit-functionality-26ll)
-- [Dive into Enterprise Java: A Game-Changing Learning Resource for Developers](https://dev.to/getvm/dive-into-enterprise-java-a-game-changing-learning-resource-for-developers-37o5)
-- [A Comprehensive Guide to cypress run: Automate Your Testing Workflow](https://dev.to/keploy/a-comprehensive-guide-to-cypress-run-automate-your-testing-workflow-4di0)
-- [Educational Podcasts on Supply Chain and Logistics](https://dev.to/jameshaddin23/educational-podcasts-on-supply-chain-and-logistics-4p7m)
+- [Subnets and Subnet Masks: A DevOps Guide to Calculating Networks and Hosts](https://dev.to/574n13y/subnets-and-subnet-masks-a-devops-guide-to-calculating-networks-and-hosts-2bpk)
+- [Demystifying Algorithms: Brute Force](https://dev.to/craftedwithintent/demystifying-algorithms-brute-force-1pgi)
+- [🚀✨ We just launched Side Space on Product Hunt!](https://dev.to/robertshaw/we-just-launched-side-space-on-product-hunt-3a0e)
+- [Hosting a Static Website in Azure Storage with CDN and CI/CD Pipeline Integration](https://dev.to/nikhil_wilson_dfb43fe6436/hosting-a-static-website-in-azure-storage-with-cdn-and-cicd-pipeline-integration-20b6)
+- [👋 Hi, Community! After a year in beta, we’re thrilled to introduce **Side Space**—your ultimate AI-powered vertical tab manager. 🧠📂 Designed to tame the chaos of modern browsing, it brings a sleek, organized experience to your side panel. 🎯🌟 We’d ❤️](https://dev.to/robertshaw/hi-community-after-a-year-in-beta-were-thrilled-to-introduce-side-space-your-ultimate-ejb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
