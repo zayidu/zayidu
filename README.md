@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Simple Transaction Indexer on Juneo Supernet Using Squid SDK](https://dev.to/hiahumahum/create-a-simple-transaction-indexer-on-juneo-supernet-using-squid-sdk-2f2e)
-- [Building Scalable APIs with NestJS for JavaScript Developers](https://dev.to/ajmalleonard/building-scalable-apis-with-nestjs-for-javascript-developers-3n6d)
-- [Learning React Native](https://dev.to/piyush_thapa_be4e61682758/learning-react-native-95n)
-- [Overthinking Software Projects](https://dev.to/moozzyk/overthinking-software-projects-19b6)
-- [The Art of Data Synchronization in HarmonyOS Next: Distributed Objects and Cross-Device Invocation](https://dev.to/xun_wang_6384a403f9817c2/the-art-of-data-synchronization-in-harmonyos-next-distributed-objects-and-cross-device-invocation-1j94)
+- [Can Copybot AI Revolutionize Your Content?](https://dev.to/techpulse55/can-copybot-ai-revolutionize-your-content-2gbb)
+- [🔐 Understanding Ethereum ECDSA, EIP-712 and Its Role in Permit Functionality 🧾](https://dev.to/truongpx396/understanding-ethereum-ecdsa-eip-712-and-its-role-in-permit-functionality-26ll)
+- [Dive into Enterprise Java: A Game-Changing Learning Resource for Developers](https://dev.to/getvm/dive-into-enterprise-java-a-game-changing-learning-resource-for-developers-37o5)
+- [A Comprehensive Guide to cypress run: Automate Your Testing Workflow](https://dev.to/keploy/a-comprehensive-guide-to-cypress-run-automate-your-testing-workflow-4di0)
+- [Educational Podcasts on Supply Chain and Logistics](https://dev.to/jameshaddin23/educational-podcasts-on-supply-chain-and-logistics-4p7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
