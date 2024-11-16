@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [鸿蒙Next应用国际化：时间与日期格式化](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextying-yong-guo-ji-hua-shi-jian-yu-ri-qi-ge-shi-hua-10eb)
-- [Terms and Functionality in React.js](https://dev.to/shieldstring/terms-and-functionality-in-reactjs-p75)
-- [Understanding Stream Methods in Node.js: A Guide to `read` and `write`](https://dev.to/rakshyak/understanding-stream-methods-in-nodejs-a-guide-to-read-and-write-gn7)
-- [🚧 No Money, No Work💸 😅](https://dev.to/harold_defree/no-money-no-work-3fcp)
-- [Mastering String Operations in JavaScript 🚀](https://dev.to/prithwish249/mastering-string-operations-in-javascript-55j2)
+- [Create a Simple Transaction Indexer on Juneo Supernet Using Squid SDK](https://dev.to/hiahumahum/create-a-simple-transaction-indexer-on-juneo-supernet-using-squid-sdk-2f2e)
+- [Building Scalable APIs with NestJS for JavaScript Developers](https://dev.to/ajmalleonard/building-scalable-apis-with-nestjs-for-javascript-developers-3n6d)
+- [Learning React Native](https://dev.to/piyush_thapa_be4e61682758/learning-react-native-95n)
+- [Overthinking Software Projects](https://dev.to/moozzyk/overthinking-software-projects-19b6)
+- [The Art of Data Synchronization in HarmonyOS Next: Distributed Objects and Cross-Device Invocation](https://dev.to/xun_wang_6384a403f9817c2/the-art-of-data-synchronization-in-harmonyos-next-distributed-objects-and-cross-device-invocation-1j94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
