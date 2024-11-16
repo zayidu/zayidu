@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Episode 12: The Guardian of Codex – Embracing PWAs and Micro-Frontends](https://dev.to/vigneshiyergithub/episode-12-the-guardian-of-codex-embracing-pwas-and-micro-frontends-4hl6)
-- [Unlock Your Inner Productivity Ninja: How to Supercharge Your Software Developer Workflow](https://dev.to/devactivity-app/unlock-your-inner-productivity-ninja-how-to-supercharge-your-software-developer-workflow-125e)
-- [Capturing the image of a Virtual machine in Azure](https://dev.to/afeez_adeyemo/capturing-the-image-of-a-virtual-machine-in-azure-38c8)
-- [Achieving Perfect Vertical Rhythm in Web Browsers](https://dev.to/p233/achieving-perfect-vertical-rhythm-in-web-browsers-2d95)
-- [Mastering package.json: A Comprehensive Guide 🚀](https://dev.to/alisamir/mastering-packagejson-a-comprehensive-guide-2a0l)
+- [🔎Exploring Design Patterns: Adapter Pattern](https://dev.to/abdullahal_mahmud/exploring-design-patterns-adapter-pattern-3o91)
+- [Spring Boot Cheat Sheet](https://dev.to/codegreen/spring-boot-cheat-sheet-1nk6)
+- [What is the connection between self-onboarding and employee engagement in HRMS?](https://dev.to/mobilise/what-is-the-connection-between-self-onboarding-and-employee-engagement-in-hrms-1k5p)
+- [AI in Decision-Making and Strategic Planning](https://dev.to/siddharthbhalsod/ai-in-decision-making-and-strategic-planning-b53)
+- [Online Contest Game Gurus: Build web mini-games](https://dev.to/seb-dojo/online-contest-game-gurus-build-web-mini-games-3b1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
