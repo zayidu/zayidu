@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Keploy VS Code Extension: Revolutionizing Automated Unit &amp; Integration Test Generation](https://dev.to/keploy/keploy-vs-code-extension-revolutionizing-automated-unit-integration-test-generation-a2)
-- [Asp.Net Core and Keycloak testcontainer. Testing a secure Asp.Net Core Api using Keycloak Testcontainer](https://dev.to/horatz/aspnet-core-and-keycloak-testcontainer-testing-a-secure-aspnet-core-api-using-keycloak-46jl)
-- [🚀 V8 Engine Secrets How We Slashed Memory Usage by 66% with TypedArrays](https://dev.to/asadk/v8-engine-secrets-how-we-slashed-memory-usage-by-66-with-typedarrays-g95)
-- [Learn useActionState quickly with an example &lpar;Next.js 15&rpar;](https://dev.to/bookercodes/learn-useactionstate-quickly-4jj7)
-- [3254. Find the Power of K-Size Subarrays I](https://dev.to/mdarifulhaque/3254-find-the-power-of-k-size-subarrays-i-41kc)
+- [Securing CI/CD Pipelines: GitHub Actions vs Jenkins](https://dev.to/ekirigwe/securing-cicd-pipelines-github-actions-vs-jenkins-1p2e)
+- [A brief history of ES modules](https://dev.to/dodson/a-brief-history-of-es-modules-2fld)
+- [Dot Notation vs Bracket Notation for Object Properties – What&#39;s the Difference?](https://dev.to/fahaddevs/dot-notation-vs-bracket-notation-for-object-properties-whats-the-difference-2i22)
+- [The Rise of AI Tools in Programming: How They&#39;re Changing the Game](https://dev.to/techpulse55/the-rise-of-ai-tools-in-programming-how-theyre-changing-the-game-1m0b)
+- [O que é um problema in-place?](https://dev.to/felipecezar01/o-que-e-um-problema-in-place-1op2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
