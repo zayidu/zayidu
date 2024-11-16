@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lab 8 - CI Actions and Testing](https://dev.to/cduarte3/lab-8-24kh)
-- [Storage Solutions for a New Company App: Scalable, Secure, and Efficient](https://dev.to/unique-tea/storage-solutions-for-a-new-company-app-scalable-secure-and-efficient-45le)
-- [bkash এর পেমেন্ট গেটওয়ে তৈরী করার নিয়ম](https://dev.to/mfmuktadir/bkash-er-pementt-gettoyye-tairii-kraar-niyym-2e45)
-- [First DevOps books to read](https://dev.to/tmckiknn3/first-devops-books-to-read-2pbk)
-- [Why Windsurf is the Best Free AI Code Editor You’ve Never Heard Of](https://dev.to/dev_michael/why-windsurf-is-the-best-free-ai-code-editor-youve-never-heard-of-3ofj)
+- [How To Create A Tooltip With Floating UI](https://dev.to/ewenikeemmanue4/how-to-create-a-tooltip-with-floating-ui-4m96)
+- [started figma today , learning layers and tools right now .](https://dev.to/coderkun/started-figma-today-learning-layers-and-tools-right-now--4k2n)
+- [partdec: a multipart downloader and file splitter](https://dev.to/cjijcb/partdec-a-multipart-downloader-and-file-splitter-2nf3)
+- [How To Fail In Learning Front End Development](https://dev.to/mohamedqourany/how-to-fail-in-learning-front-end-development-2224)
+- [How to Achieve Mel&#39;s Hairstyle from Arcane for Your Cosplay?](https://dev.to/jeson/how-to-achieve-mels-hairstyle-from-arcane-for-your-cosplay-3hjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
