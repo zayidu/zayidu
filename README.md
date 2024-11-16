@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Highly Reactive Page in React: A Deep Dive into Gladiator Crash](https://dev.to/gladiatorsbattle/building-a-highly-reactive-page-in-react-a-deep-dive-into-gladiator-crash-564c)
-- [Redux Best Practice](https://dev.to/bappasahabapi/redux-best-practice-361m)
-- [Realistic data Generation Using Bloomer Mock](https://dev.to/sadhna_mishra_8e2adbed214/realistic-data-generation-using-bloomer-mock-20o9)
-- [2 Ways to Stream Videos on the Frontend in FastAPI](https://dev.to/sachingeek/2-ways-to-stream-videos-on-the-frontend-in-fastapi-4oi9)
-- [The Future of Programming: Trends, Innovations and More](https://dev.to/techpulse55/the-future-of-programming-trends-innovations-and-more-11p4)
+- [Konversi Konfigurasi Apache .htaccess ke IIS web.config untuk Pengalihan Domain](https://dev.to/yysfyn/konversi-konfigurasi-apache-htaccess-ke-iis-webconfig-untuk-pengalihan-domain-dlk)
+- [How I &lpar;mostly&rpar; Learned to Touch Type in 6 Weeks](https://dev.to/ayak22/how-i-mostly-learned-to-touch-type-in-6-weeks-191)
+- [I hope these quick posts don&#39;t take off, that feels like a lot of clutter would be created! Also I love that as I type the input box gets 1 px taller per character, that is an amusing bug lol.](https://dev.to/grahamthedev/i-hope-these-quick-posts-dont-take-off-that-feels-like-a-lot-of-clutter-would-be-created-also-i-226p)
+- [จัดการ Kubernetes Resources ด้วย kro &lpar;Kube Resource Orchestrator&rpar;](https://dev.to/mongkol_tho/cchadkaar-kubernetes-resources-dwy-kro-kube-resource-orchestrator-1g6h)
+- [Dev Playground an alternative to RunJS](https://dev.to/equiman/dev-playground-an-alternative-to-runjs-39ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
