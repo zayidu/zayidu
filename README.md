@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG Explained: Fine-Tuning vs RAG](https://dev.to/busycaesar/rag-explained-fine-tuning-vs-rag-2669)
-- [AITranscriptor](https://dev.to/elmerurbina/aitranscriptor-4j3b)
-- [Introducing Selective Frontend Architecture &lpar;SFA&rpar;](https://dev.to/rosharch2/introducing-selective-frontend-architecture-sfa-1026)
-- [AWS Security Blogs and Whitepapers, Your Guide to Cloud Security Knowledge](https://dev.to/ikoh_sylva/aws-security-blogs-and-whitepapers-your-guide-to-cloud-security-knowledge-132n)
-- [iMate - Building a Mobile App for Mood Tracking](https://dev.to/merichard123/imate-building-a-mobile-app-for-mood-tracking-492l)
+- [Building a Highly Reactive Page in React: A Deep Dive into Gladiator Crash](https://dev.to/gladiatorsbattle/building-a-highly-reactive-page-in-react-a-deep-dive-into-gladiator-crash-564c)
+- [Redux Best Practice](https://dev.to/bappasahabapi/redux-best-practice-361m)
+- [Realistic data Generation Using Bloomer Mock](https://dev.to/sadhna_mishra_8e2adbed214/realistic-data-generation-using-bloomer-mock-20o9)
+- [2 Ways to Stream Videos on the Frontend in FastAPI](https://dev.to/sachingeek/2-ways-to-stream-videos-on-the-frontend-in-fastapi-4oi9)
+- [The Future of Programming: Trends, Innovations and More](https://dev.to/techpulse55/the-future-of-programming-trends-innovations-and-more-11p4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
