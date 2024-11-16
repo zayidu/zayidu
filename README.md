@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multipurpose Packer Templates](https://dev.to/lykins/multipurpose-packer-templates-5322)
-- [Lessons Learned from Using Torch Inductor For Inference](https://dev.to/aaronlangford31/lessons-learned-from-using-torch-inductor-for-inference-1ma7)
-- [Lab 08 Continuous Integration &lpar;CI&rpar;](https://dev.to/ajogseneca/lab-08-continuous-integration-ci-518f)
-- [Continuous Integration and Continuous Learning](https://dev.to/add00_3/continuous-integration-and-continuous-learning-16fg)
-- [Week 11: Lab 8: CI with github actions](https://dev.to/mpalhutchinson/week-11-lab-8-ci-with-github-actions-3o5h)
+- [鸿蒙Next应用国际化：时间与日期格式化](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextying-yong-guo-ji-hua-shi-jian-yu-ri-qi-ge-shi-hua-10eb)
+- [Terms and Functionality in React.js](https://dev.to/shieldstring/terms-and-functionality-in-reactjs-p75)
+- [Understanding Stream Methods in Node.js: A Guide to `read` and `write`](https://dev.to/rakshyak/understanding-stream-methods-in-nodejs-a-guide-to-read-and-write-gn7)
+- [🚧 No Money, No Work💸 😅](https://dev.to/harold_defree/no-money-no-work-3fcp)
+- [Mastering String Operations in JavaScript 🚀](https://dev.to/prithwish249/mastering-string-operations-in-javascript-55j2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
