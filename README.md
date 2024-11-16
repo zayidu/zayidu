@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 16 November!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-16-november-5ef3)
-- [My Journey Through the 2024 Kaggle X Fellowship Programme](https://dev.to/victor_isaac_king/my-journey-through-the-2024-kaggle-x-fellowship-programme-1o1e)
-- [Building a website using Markdown content with Next.js App Router and Fusionable](https://dev.to/robertobutti/building-a-website-using-markdown-content-with-nextjs-app-router-and-fusionable-4kj7)
-- [Full-Stack Software Engineer skilled in web and mobile &lpar;Co-Founder Potential&rpar;](https://dev.to/gr_ltd/full-stack-software-engineer-skilled-in-web-and-mobile-co-founder-potential-4g79)
-- [Vue JS Emit function](https://dev.to/husniddin6939/vue-js-emit-function-516e)
+- [Using YAMLFish to easily manage I18n translations in your project - The basics](https://dev.to/intrepidd/using-yamlfish-to-easily-manage-i18n-translations-in-your-project-the-basics-1o4j)
+- [Common Mistakes Beginners Make in Coding and How to Avoid Them](https://dev.to/balrajola/common-mistakes-beginners-make-in-coding-and-how-to-avoid-them-4loc)
+- [Docker commands &lpar;part-1&rpar;](https://dev.to/jayesh0706/docker-commands-part-1-169d)
+- [How to Set Up Dependabot for Automated Dependency Management](https://dev.to/brunosartori/how-to-set-up-dependabot-for-automated-dependency-management-59eh)
+- [The Complete Guide to CPU Architecture](https://dev.to/adityabhuyan/the-complete-guide-to-cpu-architecture-3c47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
