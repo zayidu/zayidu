@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Check your Azure account for private offers eligibility.](https://dev.to/nakib_juris/check-your-azure-account-for-private-offers-eligibility-4f1e)
-- [Demystifying Data Structure Algorithms: A Series on Patterns, Complexities, and Real-World Insights](https://dev.to/craftedwithintent/demystifying-data-structure-algorithms-a-series-on-patterns-complexities-and-real-world-insights-1654)
-- [Task Manager App with Flask and MySQL](https://dev.to/cloudforce/task-manager-app-with-flask-and-mysql-4gm5)
-- [Day 1061 : Go Fly Away](https://dev.to/dwane/day-1061-go-fly-away-3hmd)
-- [Implementing CI Workflow](https://dev.to/aldrin312/ci-workflow-13m7)
+- [Lab 8 - CI Actions and Testing](https://dev.to/cduarte3/lab-8-24kh)
+- [Storage Solutions for a New Company App: Scalable, Secure, and Efficient](https://dev.to/unique-tea/storage-solutions-for-a-new-company-app-scalable-secure-and-efficient-45le)
+- [bkash এর পেমেন্ট গেটওয়ে তৈরী করার নিয়ম](https://dev.to/mfmuktadir/bkash-er-pementt-gettoyye-tairii-kraar-niyym-2e45)
+- [First DevOps books to read](https://dev.to/tmckiknn3/first-devops-books-to-read-2pbk)
+- [Why Windsurf is the Best Free AI Code Editor You’ve Never Heard Of](https://dev.to/dev_michael/why-windsurf-is-the-best-free-ai-code-editor-youve-never-heard-of-3ofj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
