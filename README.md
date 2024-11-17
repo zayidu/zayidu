@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Different Ways to Authenticate Terraform CLI with AWS](https://dev.to/pavithra_sandamini/exploring-different-ways-to-authenticate-terraform-cli-with-aws-566l)
-- [Top 20+ Full-stack Projects For Beginners in C#, ASP.NET , .NET CORE](https://dev.to/sapanapal6/top-20-full-stack-projects-for-beginners-in-c-aspnet-net-core-4g6f)
-- [🚀 𝗘𝗻𝗵𝗮𝗻𝗰𝗶𝗻𝗴 𝗨𝘀𝗲𝗿 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝘂𝘀𝗲𝗢𝗽𝘁𝗶𝗺𝗶𝘀𝘁𝗶𝗰&lpar;&rpar; 𝗛𝗼𝗼𝗸 𝗶𝗻 𝗥𝗲𝗮𝗰𝘁! 🚀](https://dev.to/sbabaeizadeh/--40fg)
-- [Go: Pointers &amp; Memory Management](https://dev.to/ashwingopalsamy/go-pointers-memory-management-3ole)
-- [Setting Up Visual Studio Code for Rust on macOS](https://dev.to/yrizos/setting-up-visual-studio-code-for-rust-on-macos-95k)
+- [Globally Replicated Services for the Rest of Us](https://dev.to/code42cate/globally-replicated-services-for-the-rest-of-us-7o2)
+- [Solution to a mutating trigger error in Oracle SQL](https://dev.to/mrcaption49/solution-to-a-mutating-trigger-error-in-oracle-sql-3pnf)
+- [AI-Driven Election Security: Safeguarding Democracy in the Digital Age](https://dev.to/siddharthbhalsod/ai-driven-election-security-safeguarding-democracy-in-the-digital-age-3f0e)
+- [Analogy of mutating trigger with examples](https://dev.to/mrcaption49/analogy-of-mutating-trigger-with-examples-3n1o)
+- [Mutating trigger in Oracle SQL](https://dev.to/mrcaption49/mutating-trigger-in-oracle-sql-41he)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
