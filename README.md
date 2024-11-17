@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🦄Mastering React DOM Manipulation💙](https://dev.to/vaishnavi_sonawane/mastering-react-dom-manipulation-40m5)
-- [Should You Try Azure Virtual Desktop? Here’s the Simple Breakdown](https://dev.to/mahrukh_adeel/should-you-try-azure-virtual-desktop-heres-the-simple-breakdown-1ka9)
-- [angular-rbac the RBAC lightweight library for your next Angular projects](https://dev.to/fatehmohamed14/angular-rbac-the-rbac-lightweight-library-for-your-next-angular-projects-172g)
-- [I&#39;ve Launched K8sToolbox 🚀—An Essential, Versatile Debugging Toolkit for Kubernetes, and I Need Your Help! 🙌](https://dev.to/narmidm/ive-launched-k8stoolbox-an-essential-versatile-debugging-toolkit-for-kubernetes-and-i-need-137c)
-- [Building ask-PDF service using LLMs](https://dev.to/punkpeye/building-ask-pdf-service-using-llms-2km9)
+- [Setup Eslint Prettier in a TypeScript project with mongoose ODM](https://dev.to/rashedul_islam_rajj/setup-eslint-prettier-in-a-typescript-project-with-mongoose-odm-3j78)
+- [FP &gt; OO](https://dev.to/john_mitchell_4185d0dd9ed/fp-oo-2hej)
+- [Re: I Like Makefiles](https://dev.to/john_mitchell_4185d0dd9ed/re-i-like-makefiles-5h76)
+- [Enhance iOS Development with Kotlin Multiplatform Library](https://dev.to/arsenikavalchuk/enhance-ios-development-with-kotlin-multiplatform-library-1h02)
+- [Access modifiers in Java](https://dev.to/devmercy/access-modifiers-in-java-383e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
