@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Decorators: More Understanding into Functionality Enhancement](https://dev.to/aishwarya_raj_978520e6399/python-decorators-more-understanding-into-functionality-enhancement-4bj0)
-- [Configure tanstack router into vite project with authenticate routes, active routes.](https://dev.to/khalid7487/configure-tanstack-router-into-vite-project-with-authenticate-routes-active-routes-2463)
-- [Understanding call, apply, and bind in JavaScript](https://dev.to/sangeeth_p_a1f93f8e09aa9e/understanding-call-apply-and-bind-in-javascript-3cp6)
-- [Prevent SQL Injection in RESTful APIs: A Comprehensive Guide](https://dev.to/pentest_testing_corp/prevent-sql-injection-in-restful-apis-a-comprehensive-guide-5e6)
-- [Crypto/Web3 Scammers in LinkedIn 😈](https://dev.to/toshiya_matsumoto_ac94abe/cryptoweb3-scammers-in-linkedin-51f5)
+- [Open Source AI-powered Projects with step-by-step Tutorials.](https://dev.to/abdibrokhim/open-source-ai-powered-projects-with-step-by-step-tutorials-3h30)
+- [When Scalability Meets Spectacle: Lessons from Netflix&#39;s Tyson-Paul Fight Crash](https://dev.to/riz007/when-scalability-meets-spectacle-lessons-from-netflixs-tyson-paul-fight-crash-3m3n)
+- [Building smarter Docker Images for your development environments with Pants 🚀](https://dev.to/siddhantkcode/building-smarter-docker-images-for-your-development-environments-with-pants-51al)
+- [How I Created a Stunning Portfolio with Next.js, Tailwind CSS, and Framer Motion](https://dev.to/arishn/how-i-created-a-stunning-portfolio-with-nextjs-tailwind-css-and-framer-motion-36ja)
+- [장애인기능경진대회 도전기 - 꿈의 시작부터 준비 과정까지](https://dev.to/nextlife-dev/jangaeingineunggyeongjindaehoe-dojeongi-ggumyi-sijagbuteo-junbi-gwajeongggaji-3h2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
