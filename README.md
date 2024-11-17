@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [True Alphanumeric / natural sorting in MySQL - why is the answer always recursion?](https://dev.to/grahamthedev/true-alphanumeric-natural-sorting-in-mysql-why-is-the-answer-always-recursion-2b4a)
-- [Hibernate Zoo: Жадный Гиппопотам и Ленивый Лемур &lpar;Lazy vs Eager&rpar;](https://dev.to/easycat/hibernate-zoo-zhadnyi-gippopotam-i-lienivyi-liemur-lazy-vs-eager-44eo)
-- [Mastering Spring Boot Dependency Graphs: Boost Performance and Simplify Maintenance](https://dev.to/aaravjoshi/mastering-spring-boot-dependency-graphs-boost-performance-and-simplify-maintenance-14b2)
-- [5 CSS Practices that You Should Avoid](https://dev.to/tilakjain123/5-css-practices-that-you-should-avoid-nkd)
-- [Mastering Angular&#39;s Dependency Injection: 10 Pro Tips for Better Code](https://dev.to/aaravjoshi/mastering-angulars-dependency-injection-10-pro-tips-for-better-code-1nmk)
+- [Exploring Different Ways to Authenticate Terraform CLI with AWS](https://dev.to/pavithra_sandamini/exploring-different-ways-to-authenticate-terraform-cli-with-aws-566l)
+- [Top 20+ Full-stack Projects For Beginners in C#, ASP.NET , .NET CORE](https://dev.to/sapanapal6/top-20-full-stack-projects-for-beginners-in-c-aspnet-net-core-4g6f)
+- [🚀 𝗘𝗻𝗵𝗮𝗻𝗰𝗶𝗻𝗴 𝗨𝘀𝗲𝗿 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝘂𝘀𝗲𝗢𝗽𝘁𝗶𝗺𝗶𝘀𝘁𝗶𝗰&lpar;&rpar; 𝗛𝗼𝗼𝗸 𝗶𝗻 𝗥𝗲𝗮𝗰𝘁! 🚀](https://dev.to/sbabaeizadeh/--40fg)
+- [Go: Pointers &amp; Memory Management](https://dev.to/ashwingopalsamy/go-pointers-memory-management-3ole)
+- [Setting Up Visual Studio Code for Rust on macOS](https://dev.to/yrizos/setting-up-visual-studio-code-for-rust-on-macos-95k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
