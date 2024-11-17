@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enabling Application Downloads in Local bolt.new](https://dev.to/m_sea_bass/enabling-application-downloads-in-local-boltnew-22i5)
-- [Modify the local bolt.new interface to allow input of the API key](https://dev.to/m_sea_bass/modify-the-local-boltnew-interface-to-allow-input-of-the-api-key-45hd)
-- [How Qubits are physically implemented?](https://dev.to/thisisanshgupta/how-qubits-are-physically-implemented-5bd9)
-- [ROWNUM vs ROW_NUMBER in Oracle](https://dev.to/mrcaption49/rownum-vs-rownumber-in-oracle-5aaf)
-- [Pipelined Table Functions | ORACLE PLSQL | Best Explanation](https://dev.to/mrcaption49/pipelined-table-functions-oracle-plsql-best-explanation-4fml)
+- [Python Decorators: More Understanding into Functionality Enhancement](https://dev.to/aishwarya_raj_978520e6399/python-decorators-more-understanding-into-functionality-enhancement-4bj0)
+- [Configure tanstack router into vite project with authenticate routes, active routes.](https://dev.to/khalid7487/configure-tanstack-router-into-vite-project-with-authenticate-routes-active-routes-2463)
+- [Understanding call, apply, and bind in JavaScript](https://dev.to/sangeeth_p_a1f93f8e09aa9e/understanding-call-apply-and-bind-in-javascript-3cp6)
+- [Prevent SQL Injection in RESTful APIs: A Comprehensive Guide](https://dev.to/pentest_testing_corp/prevent-sql-injection-in-restful-apis-a-comprehensive-guide-5e6)
+- [Crypto/Web3 Scammers in LinkedIn 😈](https://dev.to/toshiya_matsumoto_ac94abe/cryptoweb3-scammers-in-linkedin-51f5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
