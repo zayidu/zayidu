@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET MAUI vs Avalonia: Which Cross-Platform Framework Should You Choose?](https://dev.to/empiree/net-maui-vs-avalonia-which-cross-platform-framework-should-you-choose-2ki)
-- [Web Images: Resize and Convert Perfectly &lpar;and Automatically&rpar;](https://dev.to/tomj/web-images-resize-and-convert-perfectly-and-automatically-1adp)
-- [Kohya brought massive improvements to FLUX LoRA &lpar;4 GB GPUs&rpar; and DreamBooth / Fine-Tuning &lpar;6 GB GPUs&rpar; training](https://dev.to/furkangozukara/kohya-brought-massive-improvements-to-flux-lora-4-gb-gpus-and-dreambooth-fine-tuning-6-gb-pmb)
-- [Master Kubernetes: Top 20 DevOps Interview Q&amp;A with Examples](https://dev.to/i_am_vesh/master-kubernetes-top-20-devops-interview-qa-with-examples-1lep)
-- [Write a Python program to BMI calculator](https://dev.to/lakshmi_prithanadesan_32/write-a-python-program-for-bmi-calculator-3k9b)
+- [Create a 2D Pong Game with Rust and Bevy: A Step-by-Step Guide](https://dev.to/trish_07/create-a-2d-pong-game-with-rust-and-bevy-a-step-by-step-guide-1dbk)
+- [Building a tiny type-safe typescript ECS &lpar;Entity-component-system&rpar;](https://dev.to/trymnilsen/building-a-tiny-type-safe-typescript-ecs-entity-component-system-dil)
+- [Proposition of Vue template for a large-scale application](https://dev.to/it-wibrc/proposition-of-vue-template-for-a-large-scale-application-9mn)
+- [List networking information configured during Google Cloud Foundation Setup](https://dev.to/aernesto24/list-networking-information-configured-during-google-cloud-foundation-setup-25h)
+- [Regular Expressions for Highlighting Comments in PyCharm](https://dev.to/alexlitvino/regular-expressions-for-highlighting-comments-in-pycharm-8p3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
