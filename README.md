@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a 2D Pong Game with Rust and Bevy: A Step-by-Step Guide](https://dev.to/trish_07/create-a-2d-pong-game-with-rust-and-bevy-a-step-by-step-guide-1dbk)
-- [Building a tiny type-safe typescript ECS &lpar;Entity-component-system&rpar;](https://dev.to/trymnilsen/building-a-tiny-type-safe-typescript-ecs-entity-component-system-dil)
-- [Proposition of Vue template for a large-scale application](https://dev.to/it-wibrc/proposition-of-vue-template-for-a-large-scale-application-9mn)
-- [List networking information configured during Google Cloud Foundation Setup](https://dev.to/aernesto24/list-networking-information-configured-during-google-cloud-foundation-setup-25h)
-- [Regular Expressions for Highlighting Comments in PyCharm](https://dev.to/alexlitvino/regular-expressions-for-highlighting-comments-in-pycharm-8p3)
+- [Adding Templating to a Kustomize Deployment](https://dev.to/steg87/adding-templating-to-a-kustomize-deployment-38nc)
+- [10 Hidden JavaScript Gems You Should Use in Every Project in 2024](https://dev.to/gladiatorsbattle/10-hidden-javascript-gems-you-should-use-in-every-project-in-2024-17do)
+- [Stability in Sorting Algorithms](https://dev.to/harsh_bhardwaj_809a89d3a7/stability-in-sorting-algorithms-18hd)
+- [My Journey as a Junior Full-Stack Developer: First Steps in Coding](https://dev.to/abuzar/my-journey-as-a-junior-full-stack-developer-first-steps-in-coding-2j6n)
+- [DDoS Attack on Kubernetes: Effective Solutions](https://dev.to/debcloud/ddos-attack-on-kubernetes-effective-solutions-11c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
