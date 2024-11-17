@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Templating to a Kustomize Deployment](https://dev.to/steg87/adding-templating-to-a-kustomize-deployment-38nc)
-- [10 Hidden JavaScript Gems You Should Use in Every Project in 2024](https://dev.to/gladiatorsbattle/10-hidden-javascript-gems-you-should-use-in-every-project-in-2024-17do)
-- [Stability in Sorting Algorithms](https://dev.to/harsh_bhardwaj_809a89d3a7/stability-in-sorting-algorithms-18hd)
-- [My Journey as a Junior Full-Stack Developer: First Steps in Coding](https://dev.to/abuzar/my-journey-as-a-junior-full-stack-developer-first-steps-in-coding-2j6n)
-- [DDoS Attack on Kubernetes: Effective Solutions](https://dev.to/debcloud/ddos-attack-on-kubernetes-effective-solutions-11c1)
+- [🦄Mastering React DOM Manipulation💙](https://dev.to/vaishnavi_sonawane/mastering-react-dom-manipulation-40m5)
+- [Should You Try Azure Virtual Desktop? Here’s the Simple Breakdown](https://dev.to/mahrukh_adeel/should-you-try-azure-virtual-desktop-heres-the-simple-breakdown-1ka9)
+- [angular-rbac the RBAC lightweight library for your next Angular projects](https://dev.to/fatehmohamed14/angular-rbac-the-rbac-lightweight-library-for-your-next-angular-projects-172g)
+- [I&#39;ve Launched K8sToolbox 🚀—An Essential, Versatile Debugging Toolkit for Kubernetes, and I Need Your Help! 🙌](https://dev.to/narmidm/ive-launched-k8stoolbox-an-essential-versatile-debugging-toolkit-for-kubernetes-and-i-need-137c)
+- [Building ask-PDF service using LLMs](https://dev.to/punkpeye/building-ask-pdf-service-using-llms-2km9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
