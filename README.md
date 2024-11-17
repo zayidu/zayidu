@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevEarn: A Vision for the Future of Programming with Crypto Rewards](https://dev.to/gladiatorsbattle/devearn-a-vision-for-the-future-of-programming-with-crypto-rewards-1k5o)
-- [Javascript listeners click bait](https://dev.to/loveliberty/javascript-listeners-click-bait-39k3)
-- [Exciting News: Introducing the Filament Form Builder Handbook! 🚀](https://dev.to/andreiabohner/exciting-news-introducing-the-filament-form-builder-handbook-566i)
-- [How Access to Knowledge Makes You a Better Developer](https://dev.to/jadeljerdy/how-access-to-knowledge-makes-you-a-better-developer-968)
-- [Free Machine Learning Resources: A Comprehensive Learning Guide](https://dev.to/getvm/free-machine-learning-resources-a-comprehensive-learning-guide-2j7o)
+- [Step-by-Step Guide to Implementing JWT Authentication in Go &lpar;Golang&rpar;](https://dev.to/1shubham7/step-by-step-guide-to-implementing-jwt-authentication-in-go-golang-2e24)
+- [Rock Paper Scissors Game - Flutter](https://dev.to/m_muhd8/-rock-paper-scissors-game-flutter-3705)
+- [Higher-Order Functions in JavaScript](https://dev.to/sudhanshu_developer/higher-order-functions-in-javascript-cp9)
+- [My journey from a CNCF contributor to LFX mentee](https://dev.to/1shubham7/my-journey-from-a-cncf-contributor-to-lfx-mentee-4mhj)
+- [Adding CI Workflows with GitHub Actions](https://dev.to/arilloid/adding-ci-workflows-with-github-actions-d26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
