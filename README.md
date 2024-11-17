@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 4 - None Datatype &amp; input&lpar;&rpar; function in Python](https://dev.to/lakshmi_prithanadesan_32/day-4-none-datatype-input-function-in-python-36pf)
-- [Découvrez Astro : Le Framework Frontend Ultra Performant](https://dev.to/guillaumesere/decouvrez-astro-le-framework-frontend-ultra-performant-24ep)
-- [Seeking advice for my OSINT presentation 🚀](https://dev.to/perisicnikola37/seeking-advice-for-my-osint-presentation-1g19)
-- [Inside My Workflow](https://dev.to/crusty0gphr/inside-my-workflow-2b04)
-- [Understanding Key Concepts in Cloud Computing](https://dev.to/cloud-with-evelyn/understanding-key-concepts-in-cloud-computing-17a2)
+- [.NET MAUI vs Avalonia: Which Cross-Platform Framework Should You Choose?](https://dev.to/empiree/net-maui-vs-avalonia-which-cross-platform-framework-should-you-choose-2ki)
+- [Web Images: Resize and Convert Perfectly &lpar;and Automatically&rpar;](https://dev.to/tomj/web-images-resize-and-convert-perfectly-and-automatically-1adp)
+- [Kohya brought massive improvements to FLUX LoRA &lpar;4 GB GPUs&rpar; and DreamBooth / Fine-Tuning &lpar;6 GB GPUs&rpar; training](https://dev.to/furkangozukara/kohya-brought-massive-improvements-to-flux-lora-4-gb-gpus-and-dreambooth-fine-tuning-6-gb-pmb)
+- [Master Kubernetes: Top 20 DevOps Interview Q&amp;A with Examples](https://dev.to/i_am_vesh/master-kubernetes-top-20-devops-interview-qa-with-examples-1lep)
+- [Write a Python program to BMI calculator](https://dev.to/lakshmi_prithanadesan_32/write-a-python-program-for-bmi-calculator-3k9b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
