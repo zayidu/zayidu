@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrent Rendering in React: How React’s Concurrent Rendering Makes Everything Smoother](https://dev.to/mukhilpadmanabhan/concurrent-rendering-in-react-how-reacts-concurrent-rendering-makes-everything-smoother-45j5)
-- [Detailed Explanation of DBMS PROFILER with its Steps](https://dev.to/mrcaption49/detailed-explanation-of-dbms-profiler-with-its-steps-2mo8)
-- [SQL*Loader in Oracle SQL](https://dev.to/mrcaption49/sqlloader-in-oracle-sql-1bek)
-- [VideoToBlogAI: Transform Your Videos Into Technical Blog Post Using AI](https://dev.to/bakkeshks/videotoblogai-transform-your-videos-into-technical-blog-post-using-ai-4b57)
-- [Cursor Tips](https://dev.to/heymarkkop/cursor-tips-10f8)
+- [Why eval&lpar;&rpar; Could Be Your JavaScript Code&#39;s Worst Enemy](https://dev.to/mrsupercraft/why-eval-could-be-your-javascript-codes-worst-enemy-i7p)
+- [Mathematical Foundation for Whirlwind Pattern Generation](https://dev.to/bclonan/mathematical-foundation-for-whirlwind-pattern-generation-4j7g)
+- [Mastering Go&#39;s Advanced Concurrency: Boost Your Code&#39;s Power and Performance](https://dev.to/aaravjoshi/mastering-gos-advanced-concurrency-boost-your-codes-power-and-performance-5hm7)
+- [Supercharge Your Node.js Apps: Mastering Event Sourcing and CQRS for Scalable Systems](https://dev.to/aaravjoshi/supercharge-your-nodejs-apps-mastering-event-sourcing-and-cqrs-for-scalable-systems-50ff)
+- [I Made a Tool to Restart Xbox Game Bar on Windows](https://dev.to/masonmarker/i-made-a-tool-to-restart-xbox-game-bar-on-windows-433g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
