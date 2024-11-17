@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide to Implementing JWT Authentication in Go &lpar;Golang&rpar;](https://dev.to/1shubham7/step-by-step-guide-to-implementing-jwt-authentication-in-go-golang-2e24)
-- [Rock Paper Scissors Game - Flutter](https://dev.to/m_muhd8/-rock-paper-scissors-game-flutter-3705)
-- [Higher-Order Functions in JavaScript](https://dev.to/sudhanshu_developer/higher-order-functions-in-javascript-cp9)
-- [My journey from a CNCF contributor to LFX mentee](https://dev.to/1shubham7/my-journey-from-a-cncf-contributor-to-lfx-mentee-4mhj)
-- [Adding CI Workflows with GitHub Actions](https://dev.to/arilloid/adding-ci-workflows-with-github-actions-d26)
+- [Patching the Cracks](https://dev.to/neffcodes/patching-the-cracks-4f3h)
+- [Advice from Software Engineers at Google and Spotify](https://dev.to/ryoichihomma/advice-from-software-engineers-at-google-and-spotify-170n)
+- [Comprehensive Guide to JavaScript Object Property Manipulation Methods](https://dev.to/satyajitgain/comprehensive-guide-to-javascript-object-property-manipulation-methods-pii)
+- [HarmonyOS Next Ark Data Management and Distributed Database in Practice: Building an Efficient Synchronization Architecture](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-ark-data-management-and-distributed-database-in-practice-building-an-efficient-1n8a)
+- [HarmonyOS Next方舟数据管理与分布式数据库实战：构建高效同步架构](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-nextfang-zhou-shu-ju-guan-li-yu-fen-bu-shi-shu-ju-ku-shi-zhan-gou-jian-gao-xiao-tong-bu-jia-gou-5dm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
