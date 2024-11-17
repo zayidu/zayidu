@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Must-Know Tips for New Web Developers Entering the Backend World](https://dev.to/ayusharpcoder/10-must-know-tips-for-new-web-developers-entering-the-backend-world-m52)
-- [Usage of Node.js Cluster vs Worker](https://dev.to/sangeeth_raj/usage-of-nodejs-cluster-vs-worker-4fdf)
-- [Spring Data JPA Stream Query Methods](https://dev.to/canhnd_vn/spring-data-jpa-stream-query-methods-1392)
-- [Landing Page](https://dev.to/econowmeet_3372287404e3c6/landing-page-3f44)
-- [Enhancing visual reasoning with knowledge-adapted captions](https://dev.to/mikeyoung44/enhancing-visual-reasoning-with-knowledge-adapted-captions-2d3o)
+- [Enabling Application Downloads in Local bolt.new](https://dev.to/m_sea_bass/enabling-application-downloads-in-local-boltnew-22i5)
+- [Modify the local bolt.new interface to allow input of the API key](https://dev.to/m_sea_bass/modify-the-local-boltnew-interface-to-allow-input-of-the-api-key-45hd)
+- [How Qubits are physically implemented?](https://dev.to/thisisanshgupta/how-qubits-are-physically-implemented-5bd9)
+- [ROWNUM vs ROW_NUMBER in Oracle](https://dev.to/mrcaption49/rownum-vs-rownumber-in-oracle-5aaf)
+- [Pipelined Table Functions | ORACLE PLSQL | Best Explanation](https://dev.to/mrcaption49/pipelined-table-functions-oracle-plsql-best-explanation-4fml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
