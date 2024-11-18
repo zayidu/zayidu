@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript SECRETS: Become a coding wizard!](https://dev.to/perisicnikola37/javascript-secrets-become-a-coding-wizard-1338)
-- [Production-Ready Terraform Module for Seamless Disaster Recovery: Primary and Secondary Clusters with Zero Downtime](https://dev.to/aidudo/production-ready-terraform-module-for-seamless-disaster-recovery-primary-and-secondary-clusters-5an4)
-- [Questions Recognition System using NLP-BERT from Un-labeled Data](https://dev.to/atifwattoo/questions-recognition-system-using-nlp-bert-from-un-labeled-data-3875)
-- [What We Learned From Analyzing 20.2 Million CI Jobs In Trunk Flaky Tests - Part 1](https://dev.to/gewenyu99/what-we-learned-from-analyzing-202-million-ci-jobs-in-trunk-flaky-tests-part-1-3kj6)
-- [Harnessing the Power of Amazon EC2 Auto Scaling for Efficient Cloud Management](https://dev.to/bansikah/harnessing-the-power-of-amazon-ec2-auto-scaling-for-efficient-cloud-management-26a6)
+- [The Strangest Coding Languages You&#39;ve Probably Never Heard Of](https://dev.to/shafayeat/the-strangest-coding-languages-youve-probably-never-heard-of-32ed)
+- [How To Configure Multiple Git Accounts with SSH on Your Local Machine](https://dev.to/bazeng/how-to-configure-multiple-git-accounts-with-ssh-on-your-local-machine-2dn6)
+- [Simplify Your REST API Responses with Milogo for Gin-Gonic](https://dev.to/manuelarte/simplify-your-rest-api-responses-with-milogo-for-gin-gonic-4a9h)
+- [Top Websites for High-Quality Illustrations for Your Website](https://dev.to/keshav___dev/top-websites-for-high-quality-illustrations-for-your-website-3hno)
+- [Choosing Your Tech Stack: A Developer&#39;s Journey](https://dev.to/jayaramviswanathr/choosing-your-tech-stack-a-developers-journey-24kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
