@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Cost-Effective Multi-Model System: GPT-4 + GPT-3.5 Implementation Guide](https://dev.to/jamesli/building-a-cost-effective-multi-model-system-gpt-4-gpt-35-implementation-guide-1pni)
-- [Concurrency in Ruby: Thread and Fiber](https://dev.to/hungle00/concurrency-in-ruby-thread-and-fiber-jlb)
-- [How to Build a Product Scraper for Infinite Scroll Websites using ZenRows Web Scraper](https://dev.to/phenzic/how-to-build-a-product-scraper-for-infinite-scroll-websites-using-zenrows-web-scraper-549i)
-- [The Prisma ORM: A Brief Overview and Introduction](https://dev.to/sandrockjustin/the-prisma-orm-a-brief-overview-and-introduction-353m)
-- [A Story of Developers, Data, and Diversity](https://dev.to/sachagreif/a-story-of-developers-data-and-diversity-29el)
+- [🚀 CodeFusion: Real-time collaborative code editor with AI assistance, versioning, chat, and live previews! Try it today!](https://dev.to/karan_kumar_3f6d4c961f2eb/codefusion-real-time-collaborative-code-editor-with-ai-assistance-versioning-chat-and-live-6e1)
+- [LLM Parallel Processing in Practice: Key Techniques for Performance Enhancement](https://dev.to/jamesli/llm-parallel-processing-in-practice-key-techniques-for-performance-enhancement-20g0)
+- [Building a real-time chat using WebSockets over HTTP/2 streams](https://dev.to/c410f3r/building-a-real-time-chat-using-websockets-over-http2-streams-19ij)
+- [Learning GO : 09 - Packages](https://dev.to/gaurav444/learning-go-09-packages-aji)
+- [Simplifying Package Distribution with setuptools and pyproject.toml](https://dev.to/fadingna/simplifying-package-distribution-with-setuptools-and-pyprojecttoml-38in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
