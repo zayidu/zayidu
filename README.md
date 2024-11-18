@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Guide to MySQL Math Functions for SQL Users](https://dev.to/dbvismarketing/quick-guide-to-mysql-math-functions-for-sql-users-2kie)
-- [PHP, Analytics and surroundings](https://dev.to/giuliano1993/php-analytics-and-surroundings-ml2)
-- [Lean Tech Stack: Smart Scaling Without the Heavy Costs](https://dev.to/kyanondigital/lean-tech-stack-smart-scaling-without-the-heavy-costs-o60)
-- [How to Enable ASP.NET 3.5 Support for IIS in Windows 11?](https://dev.to/winsides/how-to-enable-aspnet-35-support-for-iis-in-windows-11-3kli)
-- [Linux Kernel 6.12: A Quantum Leap in Performance and Features](https://dev.to/oliverbennet/linux-kernel-612-a-quantum-leap-in-performance-and-features-5ah6)
+- [AWS Elastic Compute Cloud &lpar;EC2&rpar;](https://dev.to/sajjadrahman56/aws-elastic-compute-cloud-ec2-47ke)
+- [Build the best Data Strategy with Data Analytics Managed Services](https://dev.to/dataplatr/build-the-best-data-strategy-with-data-analytics-managed-services-38li)
+- [required Keyword in C#](https://dev.to/moh_moh701/required-keyword-in-c-3md)
+- [Write in Astro: the syntax ✍️](https://dev.to/this-is-learning/write-in-astro-the-syntax-1j3p)
+- [PHP version 8.0 - Named Parameters](https://dev.to/skipperhoa/php-version-80-named-parameters-280j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
