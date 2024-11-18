@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Step by Step Guide on How to Migrate from AWS to Azure](https://dev.to/brilworks/a-step-by-step-guide-on-how-to-migrate-from-aws-to-azure-5bi5)
-- [在大陆下载huggingface模型](https://dev.to/second/zai-da-lu-xia-zai-huggingfacemo-xing-5fba)
-- [SimplySocket: A Lightweight WebSocket Wrapper for Go](https://dev.to/dhruvikdonga/simplysocket-a-lightweight-websocket-wrapper-for-go-4pnl)
-- [Using Lambda Expressions Doesn&#39;t Make Your C# Code Functional](https://dev.to/canro91/using-lambda-expressions-doesnt-make-your-c-code-functional-2hn7)
-- [CI and Dev Containers](https://dev.to/kannav02/ci-and-dev-containers-3c0e)
+- [Understanding Remote Access for iPads](https://dev.to/davidjonson/understanding-remote-access-for-ipads-3fel)
+- [Meme Monday](https://dev.to/techdogs_inc/meme-monday-3d2c)
+- [Getting Started with Redux](https://dev.to/bilalkhanio/getting-started-with-redux-m0k)
+- [💰 Blockchain DeFi and Building Blocks 🏗️](https://dev.to/truongpx396/blockchain-defi-and-building-blocks-2i3l)
+- [Guide to Redux, React-Redux, and Redux Toolkit](https://dev.to/bilalkhanio/guide-to-redux-react-redux-and-redux-toolkit-1j7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
