@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Today’s Progress: Implementing APIFeatures](https://dev.to/jahend412/todays-progress-implementing-apifeatures-42hd)
-- [Tailscale on immutable Linux](https://dev.to/mscharley/tailscale-on-immutable-linux-3j92)
-- [C# Search by multiple strings](https://dev.to/karenpayneoregon/c-search-by-multiple-strings-1dol)
-- [How to Use Amazon Web Services for Email Address Validation](https://dev.to/billgist/how-to-use-amazon-web-services-for-email-address-validation-41k1)
-- [Quick tip: Visualising the Air Quality Index &lpar;AQI&rpar; across Punjab, Pakistan and India](https://dev.to/singlestore/quick-tip-visualising-the-air-quality-index-aqi-across-punjab-pakistan-and-india-2lop)
+- [Building a Cost-Effective Multi-Model System: GPT-4 + GPT-3.5 Implementation Guide](https://dev.to/jamesli/building-a-cost-effective-multi-model-system-gpt-4-gpt-35-implementation-guide-1pni)
+- [Concurrency in Ruby: Thread and Fiber](https://dev.to/hungle00/concurrency-in-ruby-thread-and-fiber-jlb)
+- [How to Build a Product Scraper for Infinite Scroll Websites using ZenRows Web Scraper](https://dev.to/phenzic/how-to-build-a-product-scraper-for-infinite-scroll-websites-using-zenrows-web-scraper-549i)
+- [The Prisma ORM: A Brief Overview and Introduction](https://dev.to/sandrockjustin/the-prisma-orm-a-brief-overview-and-introduction-353m)
+- [A Story of Developers, Data, and Diversity](https://dev.to/sachagreif/a-story-of-developers-data-and-diversity-29el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
