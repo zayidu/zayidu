@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [how to do api getway contex in aws lambdas ?](https://dev.to/souzdev/how-to-do-api-getway-contex-in-aws-lambdas--4lgj)
-- [LibTracker Updates 11/18/24: Simplify Dependency Management with this simple SBOM Tool](https://dev.to/windmillcode/libtracker-updates-111824-simplify-dependency-management-with-this-simple-sbom-tool-4chd)
-- [Squash Elo Rating System](https://dev.to/aaravsibbal/squash-elo-rating-system-54k1)
-- [The Ultimate Guide to JavaScript Features and Concepts](https://dev.to/koolkamalkishor/the-ultimate-guide-to-javascript-features-and-concepts-56gb)
-- [36/365 | ¥10M Job Challenge - Another day of overtime](https://dev.to/kameken100/36365-y10m-job-challenge-another-day-of-overtime-n6m)
+- [Login system with JWT token and email reset password](https://dev.to/mspilari/login-system-with-jwt-token-and-email-reset-password-571)
+- [React mui sx styles](https://dev.to/peewee0315/react-mui-sx-styles-3afd)
+- [Dependency Injection Container and Service Lifetimes](https://dev.to/feruzbek_raximboyev_bc9d5/dependency-injection-container-and-service-lifetimes-2569)
+- [Orientação a Objeto, Encapsulamento e Acoplamento](https://dev.to/rudsdev/orientacao-a-objeto-encapsulamento-e-acoplamento-453a)
+- [Explainer.js Release 1.0.0 🎉](https://dev.to/aamfahim/explainerjs-release-100-1f1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
