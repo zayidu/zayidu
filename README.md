@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Gmail Sending with Cloudflare Workers - Setup Guide](https://dev.to/roboword/implementing-gmail-sending-with-cloudflare-workers-setup-guide-he0)
-- [🚀 Hacktoberfest 2024 Contributor &lpar;October 1st - October 31st&rpar; 🌍](https://dev.to/aniruddhadak/hacktoberfest-2024-contributor-october-1st-october-31st-2l37)
-- [How overwriting NODE_OPTIONS can ruin your debugger in Visual Studio Code 😬](https://dev.to/pawelfras/how-overwriting-nodeoptions-can-ruin-your-debugger-in-visual-studio-code-kgo)
-- [Exploring Recursion in Go: Exercise Repository](https://dev.to/camilo_quicenoq/exploring-recursion-in-go-exercise-repository-2c72)
-- [AI Algorithms May Be Closer to You Than Your Breath](https://dev.to/etherealaether/ai-algorithms-may-be-closer-to-you-than-your-breath-27h8)
+- [How to Enable or Disable an Account in Windows 11?](https://dev.to/win11verse/how-to-enable-or-disable-an-account-in-windows-11-2p3b)
+- [The Hidden Cost of True Leadership: A Twenty-Year Journey in the Trenches](https://dev.to/adnansmajlovic/the-hidden-cost-of-true-leadership-a-twenty-year-journey-in-the-trenches-47p0)
+- [Introduction to Chaos Engineering and LitmusChaos](https://dev.to/asi_security/introduction-to-chaos-engineering-and-litmuschaos-2non)
+- [Rust Threads safety: Uma comparação com C.](https://dev.to/z4nder/rust-threads-safety-uma-comparacao-com-c-1a8h)
+- [Every Line of Code Impacts the Organization&#39;s Bottomline: Let me tell you how!](https://dev.to/omotolanitechtalk/every-line-of-code-impacts-the-organizations-bottomline-let-me-tell-you-how-dd1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
