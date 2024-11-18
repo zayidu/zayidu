@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wild, Weird, and Secure: SecureWV 2024&#39;s Cryptid-Themed Conference](https://dev.to/gitguardian/wild-weird-and-secure-securewv-2024s-cryptid-themed-conference-5cld)
-- [Lagoon v2.22: Enhanced Security, Performance, and Service Types](https://dev.to/laurenhasthree/lagoon-v222-enhanced-security-performance-and-service-types-2l5e)
-- [LLM + Mermaid: How Modern Teams Create UML Diagrams Without Lucidchart](https://dev.to/mike-vincent/llm-mermaid-how-modern-teams-create-uml-diagrams-without-lucidchart-2mbm)
-- [loops, for, while.](https://dev.to/rivojiddin_f9740e8fb02701/loops-for-while-3gnj)
-- [The Reality of Cost-Efficient Communication Tools for SMEs - The Article](https://dev.to/krideo/the-reality-of-cost-efficient-communication-tools-for-smes-the-article-ip5)
+- [Proton VPN: Latest Coupons and Deals](https://dev.to/irina_nava_/proton-vpn-latest-coupons-and-deals-4bb7)
+- [# Transcripto - AI-Powered Transcription Application](https://dev.to/dad_562765197a2/-transcripto-ai-powered-transcription-application-1c2k)
+- [Understanding The Terminal &amp; The Command Line](https://dev.to/charles_eugene_79230d4394/understanding-the-terminal-the-command-line-1h5d)
+- [How to use generic component in vue3 and typescript?](https://dev.to/ltmonster/how-to-use-generic-component-in-vue3-and-typescript-1hla)
+- [Mastering the Art of Rest: A Guide to Wellness for IT Professionals 🌟](https://dev.to/angelamiton/mastering-the-art-of-rest-a-guide-to-wellness-for-it-professionals-4al1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
