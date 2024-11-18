@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What goes after Serverless? I&#39;m looking for a new buzzword.](https://dev.to/michalsimon/what-goes-after-serverless-im-looking-for-a-new-buzzword-dch)
-- [Develop 10x Faster with AI: Unlock the Power of AI for Developers](https://dev.to/eransakal/develop-10x-faster-with-ai-unlock-the-power-of-ai-for-developers-17c9)
-- [Scale Smarter, Not Harder: Use Cloud for Ecommerce Website](https://dev.to/kyanondigital/scale-smarter-not-harder-use-cloud-for-ecommerce-website-48ge)
-- [How to Execute a SQL Statement on a Different Type of Database #eg74](https://dev.to/esproc_spl/how-to-execute-a-sql-statement-on-a-different-type-of-database-eg74-5ge4)
-- [TreeWalker: A Practical Guide to DOM Traversal](https://dev.to/k_ivanow/treewalker-a-practical-guide-to-dom-traversal-hn6)
+- [Quick Guide to MySQL Math Functions for SQL Users](https://dev.to/dbvismarketing/quick-guide-to-mysql-math-functions-for-sql-users-2kie)
+- [PHP, Analytics and surroundings](https://dev.to/giuliano1993/php-analytics-and-surroundings-ml2)
+- [Lean Tech Stack: Smart Scaling Without the Heavy Costs](https://dev.to/kyanondigital/lean-tech-stack-smart-scaling-without-the-heavy-costs-o60)
+- [How to Enable ASP.NET 3.5 Support for IIS in Windows 11?](https://dev.to/winsides/how-to-enable-aspnet-35-support-for-iis-in-windows-11-3kli)
+- [Linux Kernel 6.12: A Quantum Leap in Performance and Features](https://dev.to/oliverbennet/linux-kernel-612-a-quantum-leap-in-performance-and-features-5ah6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
