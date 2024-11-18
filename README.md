@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Reverse Image Search app with Manticore Search](https://dev.to/sanikolaev/building-a-reverse-image-search-app-with-manticore-search-f0j)
-- [Empowering Developers Through Open Source and Community Engagement](https://dev.to/hexa-home/empowering-developers-through-open-source-and-community-engagement-45a9)
-- [&quot;🚀 React Quirks Explained: What You Don&#39;t Know Can Hurt You! 🤯&quot;](https://dev.to/sharma572/-react-quirks-explained-what-you-dont-know-can-hurt-you--56db)
-- [How to Become a Solana Developer: A Comprehensive Guide](https://dev.to/bravolakmedia/how-to-become-a-solana-developer-a-comprehensive-guide-46bl)
-- [Mastering Phrasal Verbs for Everyday English](https://dev.to/asis_kaur_1233528c87cd8af/mastering-phrasal-verbs-for-everyday-english-93p)
+- [Top 10 Online Postman-Like Tools for API Testing and Development](https://dev.to/apilover/top-10-online-postman-like-tools-for-api-testing-and-development-4mom)
+- [Is JavaScript Statically Typed or Dynamically Typed? 🤔](https://dev.to/jagroop2001/is-javascript-statically-typed-or-dynamically-typed-13j4)
+- [Embracing Sustainability: A Guide to Building a Greener Future](https://dev.to/alan_saji_79586f4fa7fd486/embracing-sustainability-a-guide-to-building-a-greener-future-3b38)
+- [The Hidden Struggles of Remote Work: What I Learned Working From Home](https://dev.to/andylarkin677/the-hidden-struggles-of-remote-work-what-i-learned-working-from-home-5bp6)
+- [Microfrontends a Developer&#39;s Guide: Exploring Projects and Managing Communication](https://dev.to/joacod/microfrontends-a-developers-guide-exploring-projects-and-managing-communication-19o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
