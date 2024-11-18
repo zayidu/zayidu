@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hypnotic Spiral illusion using html css and javascript](https://dev.to/prince_beec5ccde00b7c6c73/hypnotic-spiral-illusion-using-html-css-and-javascript-55l6)
-- [Lessons Learned: App crash since caches go wrong](https://dev.to/vukhanhtruong/lessons-learned-app-crash-since-caches-go-wrong-2odf)
-- [Python Iterators and Generators: Managing Data Streams with Ease](https://dev.to/aishwarya_raj_978520e6399/python-iterators-and-generators-managing-data-streams-with-ease-p65)
-- [Building Reliable LLM Chain Architecture: From Fundamentals to Practice](https://dev.to/jamesli/building-reliable-llm-chain-architecture-from-fundamentals-to-practice-2pha)
-- [The growing importance of React Hooks in front-end development](https://dev.to/vsfarooqkhan/the-growing-importance-of-react-hooks-in-front-end-development-12f6)
+- [A Step by Step Guide on How to Migrate from AWS to Azure](https://dev.to/brilworks/a-step-by-step-guide-on-how-to-migrate-from-aws-to-azure-5bi5)
+- [在大陆下载huggingface模型](https://dev.to/second/zai-da-lu-xia-zai-huggingfacemo-xing-5fba)
+- [SimplySocket: A Lightweight WebSocket Wrapper for Go](https://dev.to/dhruvikdonga/simplysocket-a-lightweight-websocket-wrapper-for-go-4pnl)
+- [Using Lambda Expressions Doesn&#39;t Make Your C# Code Functional](https://dev.to/canro91/using-lambda-expressions-doesnt-make-your-c-code-functional-2hn7)
+- [CI and Dev Containers](https://dev.to/kannav02/ci-and-dev-containers-3c0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
