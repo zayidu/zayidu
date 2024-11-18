@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Strangest Coding Languages You&#39;ve Probably Never Heard Of](https://dev.to/shafayeat/the-strangest-coding-languages-youve-probably-never-heard-of-32ed)
-- [How To Configure Multiple Git Accounts with SSH on Your Local Machine](https://dev.to/bazeng/how-to-configure-multiple-git-accounts-with-ssh-on-your-local-machine-2dn6)
-- [Simplify Your REST API Responses with Milogo for Gin-Gonic](https://dev.to/manuelarte/simplify-your-rest-api-responses-with-milogo-for-gin-gonic-4a9h)
-- [Top Websites for High-Quality Illustrations for Your Website](https://dev.to/keshav___dev/top-websites-for-high-quality-illustrations-for-your-website-3hno)
-- [Choosing Your Tech Stack: A Developer&#39;s Journey](https://dev.to/jayaramviswanathr/choosing-your-tech-stack-a-developers-journey-24kj)
+- [Combining OpenAI and AI-Flex &lpar;from t6 IoT&rpar; to Customize Sensor Outputs](https://dev.to/mathcoll/combining-openai-and-ai-flex-from-t6-iot-to-customize-sensor-outputs-36jc)
+- [React: LinkedIn Access Token in 10 Steps](https://dev.to/garciadiazjaime/react-linkedin-access-token-in-10-steps-5fci)
+- [Bootstrap your projects with Docker init](https://dev.to/jdxlabs/bootstrap-your-projects-with-docker-init-1po3)
+- [A few of the best things](https://dev.to/evefonwu/a-few-of-the-best-things-3m5)
+- [FLAIV-KING Weekly &lpar;Flink AI Vectors Kafka&rpar; for 18 Nov 2024](https://dev.to/timothy_spann_a41a639e47c/flaiv-king-weekly-flink-ai-vectors-kafka-for-18-nov-2024-261k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
