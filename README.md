@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Elastic Compute Cloud &lpar;EC2&rpar;](https://dev.to/sajjadrahman56/aws-elastic-compute-cloud-ec2-47ke)
-- [Build the best Data Strategy with Data Analytics Managed Services](https://dev.to/dataplatr/build-the-best-data-strategy-with-data-analytics-managed-services-38li)
-- [required Keyword in C#](https://dev.to/moh_moh701/required-keyword-in-c-3md)
-- [Write in Astro: the syntax ✍️](https://dev.to/this-is-learning/write-in-astro-the-syntax-1j3p)
-- [PHP version 8.0 - Named Parameters](https://dev.to/skipperhoa/php-version-80-named-parameters-280j)
+- [Getting Started with Chatbot Development Using Node.js and Machine Learning.](https://dev.to/himbaza123h/getting-started-with-chatbot-development-using-nodejs-and-machine-learning-2754)
+- [JavaScript et Objets : Des Fondations aux Cas Pratiques Avancés](https://dev.to/guillaumesere/javascript-et-objets-des-fondations-aux-cas-pratiques-avances-4kpk)
+- [Could the Netflix App Handle Jake Paul vs. Mike Tyson Fight with Load Testing?](https://dev.to/prime_qasolutions_d99d24/could-the-netflix-app-handle-jake-paul-vs-mike-tyson-fight-with-load-testing-3fo)
+- [How to fix git repository initialization](https://dev.to/labex/how-to-fix-git-repository-initialization-ili)
+- [What Is Agile Project Management?](https://dev.to/jyotiranjan_sahoo_04a61df/what-is-agile-project-management-2295)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
