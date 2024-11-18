@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Type Coercion in JavaScript Explained](https://dev.to/devshefali/type-coercion-in-javascript-explained-3poo)
-- [An Anti-Pattern to get UIWindowScene](https://dev.to/matsuji/an-anti-pattern-to-get-uiwindowscene-1j54)
-- [The Role of JSON in APIs](https://dev.to/riyasharma028/the-role-of-json-in-apis-4f43)
-- [Optimizing External Libraries with the defer Attribute: Boosting Page Speed](https://dev.to/mahasun/optimizing-external-libraries-with-the-defer-attribute-boosting-page-speed-agf)
-- [PostgreSQL Connection Pooling vs No Pooling: Benchmark Analysis](https://dev.to/nareshnishad/postgresql-connection-pooling-vs-no-pooling-benchmark-analysis-a0)
+- [Wild, Weird, and Secure: SecureWV 2024&#39;s Cryptid-Themed Conference](https://dev.to/gitguardian/wild-weird-and-secure-securewv-2024s-cryptid-themed-conference-5cld)
+- [Lagoon v2.22: Enhanced Security, Performance, and Service Types](https://dev.to/laurenhasthree/lagoon-v222-enhanced-security-performance-and-service-types-2l5e)
+- [LLM + Mermaid: How Modern Teams Create UML Diagrams Without Lucidchart](https://dev.to/mike-vincent/llm-mermaid-how-modern-teams-create-uml-diagrams-without-lucidchart-2mbm)
+- [loops, for, while.](https://dev.to/rivojiddin_f9740e8fb02701/loops-for-while-3gnj)
+- [The Reality of Cost-Efficient Communication Tools for SMEs - The Article](https://dev.to/krideo/the-reality-of-cost-efficient-communication-tools-for-smes-the-article-ip5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
