@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Proton VPN: Latest Coupons and Deals](https://dev.to/irina_nava_/proton-vpn-latest-coupons-and-deals-4bb7)
-- [# Transcripto - AI-Powered Transcription Application](https://dev.to/dad_562765197a2/-transcripto-ai-powered-transcription-application-1c2k)
-- [Understanding The Terminal &amp; The Command Line](https://dev.to/charles_eugene_79230d4394/understanding-the-terminal-the-command-line-1h5d)
-- [How to use generic component in vue3 and typescript?](https://dev.to/ltmonster/how-to-use-generic-component-in-vue3-and-typescript-1hla)
-- [Mastering the Art of Rest: A Guide to Wellness for IT Professionals 🌟](https://dev.to/angelamiton/mastering-the-art-of-rest-a-guide-to-wellness-for-it-professionals-4al1)
+- [JavaScript SECRETS: Become a coding wizard!](https://dev.to/perisicnikola37/javascript-secrets-become-a-coding-wizard-1338)
+- [Production-Ready Terraform Module for Seamless Disaster Recovery: Primary and Secondary Clusters with Zero Downtime](https://dev.to/aidudo/production-ready-terraform-module-for-seamless-disaster-recovery-primary-and-secondary-clusters-5an4)
+- [Questions Recognition System using NLP-BERT from Un-labeled Data](https://dev.to/atifwattoo/questions-recognition-system-using-nlp-bert-from-un-labeled-data-3875)
+- [What We Learned From Analyzing 20.2 Million CI Jobs In Trunk Flaky Tests - Part 1](https://dev.to/gewenyu99/what-we-learned-from-analyzing-202-million-ci-jobs-in-trunk-flaky-tests-part-1-3kj6)
+- [Harnessing the Power of Amazon EC2 Auto Scaling for Efficient Cloud Management](https://dev.to/bansikah/harnessing-the-power-of-amazon-ec2-auto-scaling-for-efficient-cloud-management-26a6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
