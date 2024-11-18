@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Login system with JWT token and email reset password](https://dev.to/mspilari/login-system-with-jwt-token-and-email-reset-password-571)
-- [React mui sx styles](https://dev.to/peewee0315/react-mui-sx-styles-3afd)
-- [Dependency Injection Container and Service Lifetimes](https://dev.to/feruzbek_raximboyev_bc9d5/dependency-injection-container-and-service-lifetimes-2569)
-- [Orientação a Objeto, Encapsulamento e Acoplamento](https://dev.to/rudsdev/orientacao-a-objeto-encapsulamento-e-acoplamento-453a)
-- [Explainer.js Release 1.0.0 🎉](https://dev.to/aamfahim/explainerjs-release-100-1f1b)
+- [Implementing Gmail Sending with Cloudflare Workers - Setup Guide](https://dev.to/roboword/implementing-gmail-sending-with-cloudflare-workers-setup-guide-he0)
+- [🚀 Hacktoberfest 2024 Contributor &lpar;October 1st - October 31st&rpar; 🌍](https://dev.to/aniruddhadak/hacktoberfest-2024-contributor-october-1st-october-31st-2l37)
+- [How overwriting NODE_OPTIONS can ruin your debugger in Visual Studio Code 😬](https://dev.to/pawelfras/how-overwriting-nodeoptions-can-ruin-your-debugger-in-visual-studio-code-kgo)
+- [Exploring Recursion in Go: Exercise Repository](https://dev.to/camilo_quicenoq/exploring-recursion-in-go-exercise-repository-2c72)
+- [AI Algorithms May Be Closer to You Than Your Breath](https://dev.to/etherealaether/ai-algorithms-may-be-closer-to-you-than-your-breath-27h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
