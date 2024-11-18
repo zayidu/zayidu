@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Axios Interceptors to Handle API Error Responses](https://dev.to/shieldstring/how-to-use-axios-interceptors-to-handle-api-error-responses-2gn1)
-- [10 años participando en DevFest!](https://dev.to/jorgeucano/10-anos-participando-en-devfest-5hne)
-- [Overfitting vs Underfitting](https://dev.to/hyperkai/overfitting-vs-underfitting-33i8)
-- [✅ASP.NET Core API Gateway with Ocelot Part 4 &lpar;Rate Limiting&rpar;](https://dev.to/dot_nettips_a4e90828daa4/aspnet-core-api-gateway-with-ocelot-part-4-rate-limiting-4ia1)
-- [Top API Security Companies and Their Products for 2024 🔐](https://dev.to/firststeptechnology/top-api-security-companies-and-their-products-for-2024-5bbb)
+- [Today’s Progress: Implementing APIFeatures](https://dev.to/jahend412/todays-progress-implementing-apifeatures-42hd)
+- [Tailscale on immutable Linux](https://dev.to/mscharley/tailscale-on-immutable-linux-3j92)
+- [C# Search by multiple strings](https://dev.to/karenpayneoregon/c-search-by-multiple-strings-1dol)
+- [How to Use Amazon Web Services for Email Address Validation](https://dev.to/billgist/how-to-use-amazon-web-services-for-email-address-validation-41k1)
+- [Quick tip: Visualising the Air Quality Index &lpar;AQI&rpar; across Punjab, Pakistan and India](https://dev.to/singlestore/quick-tip-visualising-the-air-quality-index-aqi-across-punjab-pakistan-and-india-2lop)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
