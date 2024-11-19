@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Release 0.3 #1](https://dev.to/aamfahim/release-03-1-6p6)
-- [Git Rebase: Complete Documentation](https://dev.to/softden_2005/git-rebase-complete-documentation-5h7c)
-- [The World of HarmonyOS Programming: Handling I/O-Intensive Tasks and the Asynchronous Lock Mechanism in ArkTS](https://dev.to/xun_wang_6384a403f9817c2/the-world-of-harmonyos-programming-handling-io-intensive-tasks-and-the-asynchronous-lock-h27)
-- [鸿蒙编程江湖：I/O 密集型任务处理及 ArkTS 的异步锁机制](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-bian-cheng-jiang-hu-io-mi-ji-xing-ren-wu-chu-li-ji-arkts-de-yi-bu-suo-ji-zhi-6f9)
-- [The World of HarmonyOS Programming: Behavioral Differences between ArkTS Containers and Native Containers](https://dev.to/xun_wang_6384a403f9817c2/the-world-of-harmonyos-programming-behavioral-differences-between-arkts-containers-and-native-4j9i)
+- [𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭𝐥𝐲 𝐌𝐚𝐧𝐚𝐠𝐢𝐧𝐠 𝐃𝐛𝐂𝐨𝐧𝐭𝐞𝐱𝐭 𝐋𝐢𝐟𝐞𝐭𝐢𝐦𝐞 𝐢𝐧 𝐄𝐅 𝐂𝐨𝐫𝐞](https://dev.to/apurvupadhyay/-5bha)
+- [System Design 13 - Database Sharding: Slicing Data for Scalability and Speed](https://dev.to/sarvabharan/system-design-13-database-sharding-slicing-data-for-scalability-and-speed-4gma)
+- [Understanding Search Scores in MongoDB Hybrid Search](https://dev.to/shannonlal/understanding-search-scores-in-mongodb-hybrid-search-4lnb)
+- [Tiny Brain Hack for Getting Over Fear of Coding Something New](https://dev.to/brittneykernan/tiny-brain-hack-for-getting-over-fear-of-coding-something-new-5d4g)
+- [Sistemas Operativos en Tiempo Real y su Relación con el Uso Cotidiano](https://dev.to/antonio_luna_fce8ca4a92fa/sistemas-operativos-en-tiempo-real-y-su-relacion-con-el-uso-cotidiano-27l5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
