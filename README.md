@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[ROAST] Launching on DevHunt Doesn&#39;t Work? Here&#39;s What I Found!](https://dev.to/radchenko/roast-launching-on-devhunt-doesnt-work-heres-what-i-found-hli)
-- [Docker Layer Caching Explained: Tips to Improve Build Times](https://dev.to/thenanjay/docker-layer-caching-explained-tips-to-improve-build-times-6kc)
-- [New AI Method Makes Video Editing More Stable and Consistent by Preserving Object Shapes](https://dev.to/mikeyoung44/new-ai-method-makes-video-editing-more-stable-and-consistent-by-preserving-object-shapes-2m2k)
-- [What do 200 electrocuted monks have to do with Redis 8, the fastest Redis ever?](https://dev.to/raphaeldelio/what-do-200-electrocuted-monks-have-to-do-with-redis-8-the-fastest-redis-ever-3kca)
-- [A Importância dos Fundamentos](https://dev.to/biosbug/a-importancia-dos-fundamentos-28l5)
+- [LeetCode Problem#03](https://dev.to/sunnat_qayumov/leetcode-problem03-1bmj)
+- [Golang + htmx + Tailwind CSS: Create a Responsive Web Application](https://dev.to/canopassoftware/golang-htmx-tailwind-css-create-a-responsive-web-application-2hfl)
+- [14+ Automated Data Labeling Tools for Your Next ML Project](https://dev.to/euanjudd/14-automated-data-labeling-tools-for-your-next-ml-project-15p4)
+- [Today’s new knowledge #6&lpar;Mongoose&rpar;](https://dev.to/kishor_sutradhar_d2503ac4/todays-new-knowledge-6mongoose-296p)
+- [How to align text at top edge of canvas using StaticLayout?](https://dev.to/hexa-home/how-to-align-text-at-top-edge-of-canvas-using-staticlayout-38ko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
