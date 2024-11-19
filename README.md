@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55mg)
-- [KaibanJS v0.10.1 is Here! Explore the New Tools 🚀](https://dev.to/dariel_vila_2d5ebae1c430f/kaibanjs-v0101-is-here-explore-the-new-tools-5ae1)
-- [Demystifying Software Architectures: Choosing the Right Design for Your Project](https://dev.to/wallacefreitas/demystifying-software-architectures-choosing-the-right-design-for-your-project-5gmi)
-- [2024 Recap: Why Accessibility is Important](https://dev.to/theoriginalbpc/2024-recap-why-accessibility-is-important-43n9)
-- [How to remove duplicates in Postgres SQL](https://dev.to/tresorama/how-to-remove-duplicates-in-postgres-sql-59ad)
+- [Aborted attempt to return meaningful Problem Details response from model binding errors in an ASP.NET Core Minimal API](https://dev.to/nausaf/aborted-attempt-to-return-meaningful-problem-details-response-from-model-binding-errors-in-an-353g)
+- [Building a real-time application with Relay 17](https://dev.to/logrocket/building-a-real-time-application-with-relay-17-21o4)
+- [My React Journey: Day 2](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-2-451e)
+- [The Rise of Low Code Platforms](https://dev.to/atharvgyan/the-rise-of-low-code-platforms-4dp9)
+- [Working with Git Branches and Pull Requests](https://dev.to/erikaheidi/working-with-git-branches-and-pull-requests-3943)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
