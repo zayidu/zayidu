@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Payment Management: Exploring the New Billing Console](https://dev.to/billgist/the-future-of-payment-management-exploring-the-new-billing-console-2b3l)
-- [Exploring the Best CI/CD Tools: A Comprehensive Comparison](https://dev.to/therealmrmumba/exploring-the-best-cicd-tools-a-comprehensive-comparison-4p1o)
-- [How Digital Marketing is Shaping the Future of Healthcare](https://dev.to/technicalangel/how-digital-marketing-is-shaping-the-future-of-healthcare-1oh5)
-- [C++ Learning Resources: Unleash Your Coding Potential](https://dev.to/getvm/c-learning-resources-unleash-your-coding-potential-17np)
-- [🔥10 New Features of ECMAScript 2024](https://dev.to/anthonymax/10-new-features-of-ecmascript-2024-mdg)
+- [Enhancing two-way data binding in Angular](https://dev.to/logrocket/enhancing-two-way-data-binding-in-angular-cgh)
+- [Mastering Lombok: Clean and Efficient Java Code Simplification](https://dev.to/igventurelli/mastering-lombok-clean-and-efficient-java-code-simplification-42a3)
+- [Generics in C#: Flexibility, Reusability, and Type Safety](https://dev.to/moh_moh701/generics-in-c-flexibility-reusability-and-type-safety-1am7)
+- [How to Generate Prometheus Metrics from Logs Collected by Fluentd](https://dev.to/ealtinor/how-to-generate-prometheus-metrics-from-logs-collected-by-fluentd-46j8)
+- [LlamaIndex RAG: Build Efficient GraphRAG Systems](https://dev.to/danshalev7/llamaindex-rag-build-efficient-graphrag-systems-3ei8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
