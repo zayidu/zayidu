@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing two-way data binding in Angular](https://dev.to/logrocket/enhancing-two-way-data-binding-in-angular-cgh)
-- [Mastering Lombok: Clean and Efficient Java Code Simplification](https://dev.to/igventurelli/mastering-lombok-clean-and-efficient-java-code-simplification-42a3)
-- [Generics in C#: Flexibility, Reusability, and Type Safety](https://dev.to/moh_moh701/generics-in-c-flexibility-reusability-and-type-safety-1am7)
-- [How to Generate Prometheus Metrics from Logs Collected by Fluentd](https://dev.to/ealtinor/how-to-generate-prometheus-metrics-from-logs-collected-by-fluentd-46j8)
-- [LlamaIndex RAG: Build Efficient GraphRAG Systems](https://dev.to/danshalev7/llamaindex-rag-build-efficient-graphrag-systems-3ei8)
+- [Exploring dev.to&#39;s Hidden Features: Upload a Video. What?](https://dev.to/radchenko/exploring-devtos-hidden-features-upload-a-video-what-3hh2)
+- [Implementing Continuous Deployment with Docker and Kubernetes](https://dev.to/therealmrmumba/implementing-continuous-deployment-with-docker-and-kubernetes-45mm)
+- [My AI Blindspot: I Wasn&#39;t Convinced, Then the Llama LLM Changed Everything About My Development Workflow!?](https://dev.to/bradstondev/my-ai-blindspot-i-wasnt-convinced-then-the-llama-llm-changed-everything-about-my-development-4la2)
+- [Kotlin Extension Functions vs. Java: Adding a Touch of Magic to Existing Classes](https://dev.to/hamada147/kotlin-extension-functions-vs-java-adding-a-touch-of-magic-to-existing-classes-4mcf)
+- [Looking for Web Devs who have experience with Business Intelligence tools for SMEs. Wanna ask you about your experience. 🙏🏻](https://dev.to/timo_thee_b0ce0dae9b9e784/looking-for-web-devs-who-have-experience-with-business-intelligence-tools-for-smes-wanna-ask-you-3ihn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
