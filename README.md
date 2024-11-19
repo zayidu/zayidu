@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What helps me with end-of-day reporting](https://dev.to/receter/what-helps-me-with-end-of-day-reporting-155b)
-- [Build an AI Agent with watsonx.ai and CrewAI: Marketing Analysis example!](https://dev.to/aairom/build-an-ai-agent-with-watsonxai-and-crewai-marketing-analysis-example-10ll)
-- [AI Agents: The Secret Weapon Behind 10X Social Media Growth in 2024](https://dev.to/pratham_explainx_6e68b9/ai-agents-the-secret-weapon-behind-10x-social-media-growth-in-2024-1l6c)
-- [How to Optimize CAPTCHA Solving: A Simple and Effective Solution](https://dev.to/moeed/how-to-optimize-captcha-solving-a-simple-and-effective-solution-5451)
-- [Unveiling the Magic Behind Your Computer: A Deep Dive into Operating Systems](https://dev.to/iqra_firdose/unveiling-the-magic-behind-your-computer-a-deep-dive-into-operating-systems-2h63)
+- [Bare-bones file upload in php](https://dev.to/mohamed_hammi/bare-bones-files-upload-in-php-10lc)
+- [Entity Relationship Diagram[ERD]](https://dev.to/aryaglekshmi/entity-relationship-diagramerd-2k9g)
+- [Connecting database with API](https://dev.to/dhani_dzulkarnain/connecting-database-with-api-29bm)
+- [Efficient Git Diff Analysis: A Comprehensive Guide](https://dev.to/saniyathossain/efficient-git-diff-analysis-a-comprehensive-guide-2hd1)
+- [Design and Implementation of LLM-based Intelligent O&amp;M Agent System](https://dev.to/jamesli/design-and-implementation-of-llm-based-intelligent-om-agent-system-143b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
