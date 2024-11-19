@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Aborted attempt to return meaningful Problem Details response from model binding errors in an ASP.NET Core Minimal API](https://dev.to/nausaf/aborted-attempt-to-return-meaningful-problem-details-response-from-model-binding-errors-in-an-353g)
-- [Building a real-time application with Relay 17](https://dev.to/logrocket/building-a-real-time-application-with-relay-17-21o4)
-- [My React Journey: Day 2](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-2-451e)
-- [The Rise of Low Code Platforms](https://dev.to/atharvgyan/the-rise-of-low-code-platforms-4dp9)
-- [Working with Git Branches and Pull Requests](https://dev.to/erikaheidi/working-with-git-branches-and-pull-requests-3943)
+- [🚧 How to Fix That Annoying CORS Issue in JavaScript 🙅‍♂️](https://dev.to/fundo_thabethe_7f6b277309/how-to-fix-that-annoying-cors-issue-in-javascript-4de0)
+- [Vue 3 e Naive UI](https://dev.to/heltoncarlos/vue-3-e-naive-ui-1o5d)
+- [Deploying Docs-as-Code on AWS: Building Dynamic Documentation Sites in MkDocs and Docusaurus](https://dev.to/r0mymendez/deploying-docs-as-code-on-aws-building-dynamic-documentation-sites-in-mkdocs-and-docusaurus-3516)
+- [Diagram-as-Code: Creating Dynamic and Interactive Documentation for Visual Content](https://dev.to/r0mymendez/diagram-as-code-creating-dynamic-and-interactive-documentation-for-visual-content-2p93)
+- [Are Range Loops in Go Tricking You? Here&#39;s What You Need to Know 🚨](https://dev.to/architagr/are-range-loops-in-go-tricking-you-heres-what-you-need-to-know-231d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
