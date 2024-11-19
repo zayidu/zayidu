@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Keep Up With the Latest Storm Activity Effecting Brevard Roofing Company](https://dev.to/leonorpattyxmo/build-a-simple-weather-app-in-java-using-openweathermap-api-3416)
-- [I.A.M., But Who Are You?? Authentication and Authorization on the internet](https://dev.to/steviepee/iam-but-who-are-you-authentication-and-authorization-on-the-internet-1i03)
-- [Making two microservices communicate using RabbitMQ and MassTransit](https://dev.to/angelodotnet/making-two-microservices-communicate-using-rabbitmq-and-masstransit-2g8i)
-- [Breaking down DevOps to Everyone](https://dev.to/oyewole_adebayo_583d8d7f9/breaking-down-devops-to-everyone-4ioc)
-- [Leadership Fatigue and Burnout](https://dev.to/asi_security/leadership-fatigue-and-burnout-1j0m)
+- [Release 0.3 #1](https://dev.to/aamfahim/release-03-1-6p6)
+- [Git Rebase: Complete Documentation](https://dev.to/softden_2005/git-rebase-complete-documentation-5h7c)
+- [The World of HarmonyOS Programming: Handling I/O-Intensive Tasks and the Asynchronous Lock Mechanism in ArkTS](https://dev.to/xun_wang_6384a403f9817c2/the-world-of-harmonyos-programming-handling-io-intensive-tasks-and-the-asynchronous-lock-h27)
+- [鸿蒙编程江湖：I/O 密集型任务处理及 ArkTS 的异步锁机制](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-bian-cheng-jiang-hu-io-mi-ji-xing-ren-wu-chu-li-ji-arkts-de-yi-bu-suo-ji-zhi-6f9)
+- [The World of HarmonyOS Programming: Behavioral Differences between ArkTS Containers and Native Containers](https://dev.to/xun_wang_6384a403f9817c2/the-world-of-harmonyos-programming-behavioral-differences-between-arkts-containers-and-native-4j9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
