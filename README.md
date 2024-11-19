@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bare-bones file upload in php](https://dev.to/mohamed_hammi/bare-bones-files-upload-in-php-10lc)
-- [Entity Relationship Diagram[ERD]](https://dev.to/aryaglekshmi/entity-relationship-diagramerd-2k9g)
-- [Connecting database with API](https://dev.to/dhani_dzulkarnain/connecting-database-with-api-29bm)
-- [Efficient Git Diff Analysis: A Comprehensive Guide](https://dev.to/saniyathossain/efficient-git-diff-analysis-a-comprehensive-guide-2hd1)
-- [Design and Implementation of LLM-based Intelligent O&amp;M Agent System](https://dev.to/jamesli/design-and-implementation-of-llm-based-intelligent-om-agent-system-143b)
+- [[ROAST] Launching on DevHunt Doesn&#39;t Work? Here&#39;s What I Found!](https://dev.to/radchenko/roast-launching-on-devhunt-doesnt-work-heres-what-i-found-hli)
+- [Docker Layer Caching Explained: Tips to Improve Build Times](https://dev.to/thenanjay/docker-layer-caching-explained-tips-to-improve-build-times-6kc)
+- [New AI Method Makes Video Editing More Stable and Consistent by Preserving Object Shapes](https://dev.to/mikeyoung44/new-ai-method-makes-video-editing-more-stable-and-consistent-by-preserving-object-shapes-2m2k)
+- [What do 200 electrocuted monks have to do with Redis 8, the fastest Redis ever?](https://dev.to/raphaeldelio/what-do-200-electrocuted-monks-have-to-do-with-redis-8-the-fastest-redis-ever-3kca)
+- [A Importância dos Fundamentos](https://dev.to/biosbug/a-importancia-dos-fundamentos-28l5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
