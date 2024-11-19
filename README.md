@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mapping Over Undefined? But this should work!](https://dev.to/kabakadev/mapping-over-undefined-but-this-should-work-572h)
-- [Relational operators C++](https://dev.to/yasmina14/relational-operators-c-84)
-- [Relational operators C++](https://dev.to/yasmina14/relational-operators-c-1fk0)
-- [Building simple event-driven applications with Pub/Sub](https://dev.to/encore/building-simple-event-driven-applications-with-pubsub-k57)
-- [SVAR Gantt: New Open Source, Interactive Gantt Chart for React](https://dev.to/olga_tash/svar-gantt-new-open-source-interactive-gantt-chart-for-react-135g)
+- [The Future of Payment Management: Exploring the New Billing Console](https://dev.to/billgist/the-future-of-payment-management-exploring-the-new-billing-console-2b3l)
+- [Exploring the Best CI/CD Tools: A Comprehensive Comparison](https://dev.to/therealmrmumba/exploring-the-best-cicd-tools-a-comprehensive-comparison-4p1o)
+- [How Digital Marketing is Shaping the Future of Healthcare](https://dev.to/technicalangel/how-digital-marketing-is-shaping-the-future-of-healthcare-1oh5)
+- [C++ Learning Resources: Unleash Your Coding Potential](https://dev.to/getvm/c-learning-resources-unleash-your-coding-potential-17np)
+- [🔥10 New Features of ECMAScript 2024](https://dev.to/anthonymax/10-new-features-of-ecmascript-2024-mdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
