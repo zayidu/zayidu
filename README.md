@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Artificial Narrow Intelligence &lpar;ANI&rpar;: Revolutionizing Automation and Decision Making](https://dev.to/lipton_ahammed_a6bb8e41b6/artificial-narrow-intelligence-ani-revolutionizing-automation-and-decision-making-7o7)
-- [🔒 Securing Web Applications: Best Practices in Authentication 🔑 and Authorization ✅](https://dev.to/info_generalhazedawn_a3d/securing-web-applications-best-practices-in-authentication-and-authorization-3gog)
-- [Why is CPU usage more than 100% in Mac activity monitor?](https://dev.to/jacob30/why-is-cpu-usage-more-than-100-in-mac-activity-monitor-29ek)
-- [No one wants to hire you. Now what?](https://dev.to/_ndeyefatoudiop/no-one-wants-to-hire-you-now-what-36km)
-- [How Does AI Work? 🤔🤔](https://dev.to/chiragjoshi/how-does-ai-work-l16)
+- [5 Must-Have Project Roadmap Tools for Effective Planning](https://dev.to/thomasy0ung/5-must-have-project-roadmap-tools-for-effective-planning-p0f)
+- [How Generative AI Works](https://dev.to/abhinowww/how-generative-ai-works-1flp)
+- [Upgrade to Telepresence 2.20: Streamlined Kubernetes Dev with New Proxy, Serverless, and Argo Rollouts Support](https://dev.to/getambassador2024/upgrade-to-telepresence-220-streamlined-kubernetes-dev-with-new-proxy-serverless-and-argo-29k4)
+- [MongoDB Developer Day Manila 2024: A Recap - A Deep Dive into the Future of Data](https://dev.to/kakacomputer/mongodb-developer-day-manila-2024-a-recap-a-deep-dive-into-the-future-of-data-4go4)
+- [Unlocking the Potential: A Comprehensive Guide to Fitness App Development](https://dev.to/evelynwyatt/unlocking-the-potential-a-comprehensive-guide-to-fitness-app-development-3lmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
