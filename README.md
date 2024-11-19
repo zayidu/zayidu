@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Enable or Disable an Account in Windows 11?](https://dev.to/win11verse/how-to-enable-or-disable-an-account-in-windows-11-2p3b)
-- [The Hidden Cost of True Leadership: A Twenty-Year Journey in the Trenches](https://dev.to/adnansmajlovic/the-hidden-cost-of-true-leadership-a-twenty-year-journey-in-the-trenches-47p0)
-- [Introduction to Chaos Engineering and LitmusChaos](https://dev.to/asi_security/introduction-to-chaos-engineering-and-litmuschaos-2non)
-- [Rust Threads safety: Uma comparação com C.](https://dev.to/z4nder/rust-threads-safety-uma-comparacao-com-c-1a8h)
-- [Every Line of Code Impacts the Organization&#39;s Bottomline: Let me tell you how!](https://dev.to/omotolanitechtalk/every-line-of-code-impacts-the-organizations-bottomline-let-me-tell-you-how-dd1)
+- [Keep Up With the Latest Storm Activity Effecting Brevard Roofing Company](https://dev.to/leonorpattyxmo/build-a-simple-weather-app-in-java-using-openweathermap-api-3416)
+- [I.A.M., But Who Are You?? Authentication and Authorization on the internet](https://dev.to/steviepee/iam-but-who-are-you-authentication-and-authorization-on-the-internet-1i03)
+- [Making two microservices communicate using RabbitMQ and MassTransit](https://dev.to/angelodotnet/making-two-microservices-communicate-using-rabbitmq-and-masstransit-2g8i)
+- [Breaking down DevOps to Everyone](https://dev.to/oyewole_adebayo_583d8d7f9/breaking-down-devops-to-everyone-4ioc)
+- [Leadership Fatigue and Burnout](https://dev.to/asi_security/leadership-fatigue-and-burnout-1j0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
