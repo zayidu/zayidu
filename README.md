@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Devfest Nantes 2024, la frayeur s&#39;invite à la cité des congrès 👻](https://dev.to/onepoint/devfest-nantes-2024-la-frayeur-sinvite-a-la-cite-des-congres-3pan)
-- [Streamline Your GitHub Workflows with Composite Actions](https://dev.to/samnash/streamline-your-github-workflows-with-composite-actions-2pme)
-- [Help : Print Buffer ECSPOS With React Native](https://dev.to/pixodeo_nathan_c7dd6aa5f4/help-print-buffer-ecspos-with-react-native-3060)
-- [12 Data Structures Every Developer Should Know](https://dev.to/bonaogeto/12-data-structures-every-developer-should-know-4hoi)
-- [Minimum stack /queue](https://dev.to/vivekvohra/minimum-stack-queue-2aj8)
+- [What helps me with end-of-day reporting](https://dev.to/receter/what-helps-me-with-end-of-day-reporting-155b)
+- [Build an AI Agent with watsonx.ai and CrewAI: Marketing Analysis example!](https://dev.to/aairom/build-an-ai-agent-with-watsonxai-and-crewai-marketing-analysis-example-10ll)
+- [AI Agents: The Secret Weapon Behind 10X Social Media Growth in 2024](https://dev.to/pratham_explainx_6e68b9/ai-agents-the-secret-weapon-behind-10x-social-media-growth-in-2024-1l6c)
+- [How to Optimize CAPTCHA Solving: A Simple and Effective Solution](https://dev.to/moeed/how-to-optimize-captcha-solving-a-simple-and-effective-solution-5451)
+- [Unveiling the Magic Behind Your Computer: A Deep Dive into Operating Systems](https://dev.to/iqra_firdose/unveiling-the-magic-behind-your-computer-a-deep-dive-into-operating-systems-2h63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
