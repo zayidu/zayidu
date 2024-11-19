@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Langfuse Launch Week #2](https://dev.to/jannik_maierhoefer/langfuse-launch-week-2-5ged)
-- [GraphQL vs REST APIs: Analyzing Performance with Big O Notation](https://dev.to/bazeng/graphql-vs-rest-apis-analyzing-performance-with-big-o-notation-p1p)
-- [𝗗𝗲𝗯𝗼𝘂𝗻𝗰𝗶𝗻𝗴: 𝗔 𝗞𝗲𝘆 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲 𝗳𝗼𝗿 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻](https://dev.to/sbabaeizadeh/-a3o)
-- [Set Up Nginx with My Guide – Test It Yourself!](https://dev.to/serhii_kolodych/set-up-nginx-with-my-guide-test-it-yourself-32pk)
-- [Mastering REST API Best Practices with Node.js 🚀](https://dev.to/biswajitfsd/mastering-rest-api-best-practices-with-nodejs-4ejk)
+- [Scroll Wheel and Continuous Forms in Microsoft Access](https://dev.to/richardrost/scroll-wheel-and-continuous-forms-in-microsoft-access-1bc9)
+- [How to secure Liveblocks Rooms with Clerk in Next.js](https://dev.to/clerk/how-to-secure-liveblocks-rooms-with-clerk-in-nextjs-58oo)
+- [Simplifying State Management in Laravel: Managing Transitions with Enum State Machine](https://dev.to/theshreif/simplifying-state-management-in-laravel-managing-transitions-with-enum-state-machine-164o)
+- [How to clean disk from container running](https://dev.to/panupongdeve/how-to-clean-disk-from-container-running-1of5)
+- [Assert with Grace: Custom Soft Assertions using AssertJ for Cleaner Code](https://dev.to/eliasnogueira/assert-with-grace-custom-soft-assertions-using-assertj-for-cleaner-code-3nj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
