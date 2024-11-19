@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Problem#03](https://dev.to/sunnat_qayumov/leetcode-problem03-1bmj)
-- [Golang + htmx + Tailwind CSS: Create a Responsive Web Application](https://dev.to/canopassoftware/golang-htmx-tailwind-css-create-a-responsive-web-application-2hfl)
-- [14+ Automated Data Labeling Tools for Your Next ML Project](https://dev.to/euanjudd/14-automated-data-labeling-tools-for-your-next-ml-project-15p4)
-- [Today’s new knowledge #6&lpar;Mongoose&rpar;](https://dev.to/kishor_sutradhar_d2503ac4/todays-new-knowledge-6mongoose-296p)
-- [How to align text at top edge of canvas using StaticLayout?](https://dev.to/hexa-home/how-to-align-text-at-top-edge-of-canvas-using-staticlayout-38ko)
+- [Mapping Over Undefined? But this should work!](https://dev.to/kabakadev/mapping-over-undefined-but-this-should-work-572h)
+- [Relational operators C++](https://dev.to/yasmina14/relational-operators-c-84)
+- [Relational operators C++](https://dev.to/yasmina14/relational-operators-c-1fk0)
+- [Building simple event-driven applications with Pub/Sub](https://dev.to/encore/building-simple-event-driven-applications-with-pubsub-k57)
+- [SVAR Gantt: New Open Source, Interactive Gantt Chart for React](https://dev.to/olga_tash/svar-gantt-new-open-source-interactive-gantt-chart-for-react-135g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
