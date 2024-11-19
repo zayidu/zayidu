@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭𝐥𝐲 𝐌𝐚𝐧𝐚𝐠𝐢𝐧𝐠 𝐃𝐛𝐂𝐨𝐧𝐭𝐞𝐱𝐭 𝐋𝐢𝐟𝐞𝐭𝐢𝐦𝐞 𝐢𝐧 𝐄𝐅 𝐂𝐨𝐫𝐞](https://dev.to/apurvupadhyay/-5bha)
-- [System Design 13 - Database Sharding: Slicing Data for Scalability and Speed](https://dev.to/sarvabharan/system-design-13-database-sharding-slicing-data-for-scalability-and-speed-4gma)
-- [Understanding Search Scores in MongoDB Hybrid Search](https://dev.to/shannonlal/understanding-search-scores-in-mongodb-hybrid-search-4lnb)
-- [Tiny Brain Hack for Getting Over Fear of Coding Something New](https://dev.to/brittneykernan/tiny-brain-hack-for-getting-over-fear-of-coding-something-new-5d4g)
-- [Sistemas Operativos en Tiempo Real y su Relación con el Uso Cotidiano](https://dev.to/antonio_luna_fce8ca4a92fa/sistemas-operativos-en-tiempo-real-y-su-relacion-con-el-uso-cotidiano-27l5)
+- [Microservices: A Friendly, Humanized Guide](https://dev.to/satyendra_pandey_b62c8218/microservices-a-friendly-humanized-guide-b76)
+- [End-To-End Testing for Java+React Applications](https://dev.to/satyendra_pandey_b62c8218/end-to-end-testing-for-javareact-applications-2j2b)
+- [Enhance Your Coding Experience with Windsurf: The Leading AI-Powered Editor](https://dev.to/inam003/enhance-your-coding-experience-with-windsurf-the-leading-ai-powered-editor-38n9)
+- [Artificial General Intelligence &lpar;AGI&rpar;: A Leap Towards Human-like Intelligence in Machines](https://dev.to/lipton_ahammed_a6bb8e41b6/artificial-general-intelligence-agi-a-leap-towards-human-like-intelligence-in-machines-5dc3)
+- [Release 0.3 #2](https://dev.to/aamfahim/release-03-2-2mgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
