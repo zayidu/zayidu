@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scroll Wheel and Continuous Forms in Microsoft Access](https://dev.to/richardrost/scroll-wheel-and-continuous-forms-in-microsoft-access-1bc9)
-- [How to secure Liveblocks Rooms with Clerk in Next.js](https://dev.to/clerk/how-to-secure-liveblocks-rooms-with-clerk-in-nextjs-58oo)
-- [Simplifying State Management in Laravel: Managing Transitions with Enum State Machine](https://dev.to/theshreif/simplifying-state-management-in-laravel-managing-transitions-with-enum-state-machine-164o)
-- [How to clean disk from container running](https://dev.to/panupongdeve/how-to-clean-disk-from-container-running-1of5)
-- [Assert with Grace: Custom Soft Assertions using AssertJ for Cleaner Code](https://dev.to/eliasnogueira/assert-with-grace-custom-soft-assertions-using-assertj-for-cleaner-code-3nj3)
+- [Custom Kotlin Delegates: Shared Preferences](https://dev.to/ssharyk/custom-kotlin-delegates-shared-preferences-42f3)
+- [Using Goose with OpenAI](https://dev.to/iabdulkarim472/using-goose-with-openai-8bf)
+- [The CSS geometric loaders + free source code ❤️](https://dev.to/melnik909/the-css-geometric-loaders-free-source-code-38bc)
+- [Recapping ECCV 2024 Redux: Day 1](https://dev.to/voxel51/recapping-eccv-2024-redux-day-1-1766)
+- [RoboCon 2024 - How to create a successful Robot Framework project](https://dev.to/giovanabrrts/robocon-2024-how-to-create-a-successful-robot-framework-project-5gm3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
