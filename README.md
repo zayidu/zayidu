@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Service Mesh: Managing Microservices Communication](https://dev.to/vipulkumarsviit/service-mesh-managing-microservices-communication-303b)
-- [Top Benefits of Cloud Migration Services](https://dev.to/brilworks/top-benefits-of-cloud-migration-services-20ni)
-- [Sakura Boot: Reduce boilerplate, save time, build backends faster with Spring Boot](https://dev.to/malcolmsansen/sakura-boot-reduce-boilerplate-save-time-build-backends-faster-with-spring-boot-2jd8)
-- [How AI Art Generators Are Redefining Traditional Creativity](https://dev.to/jonaslee/how-ai-art-generators-are-redefining-traditional-creativity-8fi)
-- [trong mo hinh ddd cac domain lien ket voi anhu the nao](https://dev.to/timthoi/trong-mo-hinh-ddd-cac-domain-lien-ket-voi-anhu-the-nao-91o)
+- [Artificial Narrow Intelligence &lpar;ANI&rpar;: Revolutionizing Automation and Decision Making](https://dev.to/lipton_ahammed_a6bb8e41b6/artificial-narrow-intelligence-ani-revolutionizing-automation-and-decision-making-7o7)
+- [🔒 Securing Web Applications: Best Practices in Authentication 🔑 and Authorization ✅](https://dev.to/info_generalhazedawn_a3d/securing-web-applications-best-practices-in-authentication-and-authorization-3gog)
+- [Why is CPU usage more than 100% in Mac activity monitor?](https://dev.to/jacob30/why-is-cpu-usage-more-than-100-in-mac-activity-monitor-29ek)
+- [No one wants to hire you. Now what?](https://dev.to/_ndeyefatoudiop/no-one-wants-to-hire-you-now-what-36km)
+- [How Does AI Work? 🤔🤔](https://dev.to/chiragjoshi/how-does-ai-work-l16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
