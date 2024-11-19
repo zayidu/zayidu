@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚧 How to Fix That Annoying CORS Issue in JavaScript 🙅‍♂️](https://dev.to/fundo_thabethe_7f6b277309/how-to-fix-that-annoying-cors-issue-in-javascript-4de0)
-- [Vue 3 e Naive UI](https://dev.to/heltoncarlos/vue-3-e-naive-ui-1o5d)
-- [Deploying Docs-as-Code on AWS: Building Dynamic Documentation Sites in MkDocs and Docusaurus](https://dev.to/r0mymendez/deploying-docs-as-code-on-aws-building-dynamic-documentation-sites-in-mkdocs-and-docusaurus-3516)
-- [Diagram-as-Code: Creating Dynamic and Interactive Documentation for Visual Content](https://dev.to/r0mymendez/diagram-as-code-creating-dynamic-and-interactive-documentation-for-visual-content-2p93)
-- [Are Range Loops in Go Tricking You? Here&#39;s What You Need to Know 🚨](https://dev.to/architagr/are-range-loops-in-go-tricking-you-heres-what-you-need-to-know-231d)
+- [Langfuse Launch Week #2](https://dev.to/jannik_maierhoefer/langfuse-launch-week-2-5ged)
+- [GraphQL vs REST APIs: Analyzing Performance with Big O Notation](https://dev.to/bazeng/graphql-vs-rest-apis-analyzing-performance-with-big-o-notation-p1p)
+- [𝗗𝗲𝗯𝗼𝘂𝗻𝗰𝗶𝗻𝗴: 𝗔 𝗞𝗲𝘆 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲 𝗳𝗼𝗿 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻](https://dev.to/sbabaeizadeh/-a3o)
+- [Set Up Nginx with My Guide – Test It Yourself!](https://dev.to/serhii_kolodych/set-up-nginx-with-my-guide-test-it-yourself-32pk)
+- [Mastering REST API Best Practices with Node.js 🚀](https://dev.to/biswajitfsd/mastering-rest-api-best-practices-with-nodejs-4ejk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
