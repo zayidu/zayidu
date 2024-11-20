@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning and Growing Through Open Source Contributions](https://dev.to/cleobnvntra/learning-and-growing-through-open-source-contributions-78j)
-- [eKYC Revolutionizes the Banking Sector Beyond Traditional KYC](https://dev.to/kyanondigital/ekyc-revolutionizes-the-banking-sector-beyond-traditional-kyc-3f31)
-- [Master Docker](https://dev.to/tharindumadubashna/master-docker-lfb)
-- [#100 — Deduplication of Row-Based Data — by Key Column](https://dev.to/judith677/100-deduplication-of-row-based-data-by-key-column-4l8m)
-- [Meme Monday](https://dev.to/harihararamsriram/meme-monday-88d)
+- [How to Migrate AWS Resources from one AWS Account to Another](https://dev.to/brilworks/how-to-migrate-aws-resources-from-one-aws-account-to-another-1ap5)
+- [Welcome Thread - v303](https://dev.to/devteam/welcome-thread-v303-4b2)
+- [Restoring a Backup Stored in S3 to an EC2 Instance Using XtraBackup](https://dev.to/anshul_kichara/restoring-a-backup-stored-in-s3-to-an-ec2-instance-using-xtrabackup-4cp4)
+- [Caching information in Redis on NestJS](https://dev.to/endykaufman/caching-information-in-redis-on-nestjs-8po)
+- [Day 2: Leetcode](https://dev.to/sean2024/day-2-leetcode-4102)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
