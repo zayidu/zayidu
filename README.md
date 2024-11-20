@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Heart of DolphinScheduler: In-Depth Analysis of the Quartz Scheduling Framework](https://dev.to/chen_debra_3060b21d12b1b0/the-heart-of-dolphinscheduler-in-depth-analysis-of-the-quartz-scheduling-framework-5efl)
-- [Managing Docker Containers with Portainer](https://dev.to/kevinmel2000/managing-docker-containers-with-portainer-40ei)
-- [Django vs Rails for API Development: Performance, Productivity, and Scalability Comparison](https://dev.to/adityabhuyan/django-vs-rails-for-api-development-performance-productivity-and-scalability-comparison-4g8k)
-- [5 OpenGraph &lpar;OG&rpar; Image Tricks That Made My Life Easier 🎨](https://dev.to/gleamso/5-opengraph-og-image-tricks-that-made-my-life-easier-407o)
-- [🚀 We’re Hiring: .NET &amp; Angular Developer! 🌟](https://dev.to/hmissb/were-hiring-net-angular-developer-g7l)
+- [Free HTML Pizza and Restaurant Website Template by SimplyBestWebsites.Com](https://dev.to/simplybestwebsites/free-html-pizza-and-restaurant-website-template-by-simplybestwebsitescom-51oa)
+- [Journal: Getting Back into Live Talks](https://dev.to/schusterbraun/journal-getting-back-into-live-talks-5e4e)
+- [The Most Common Types of Databases in IT Today](https://dev.to/adityabhuyan/the-most-common-types-of-databases-in-it-today-le)
+- [How a Database Management System &lpar;DBMS&rpar; Works](https://dev.to/adityabhuyan/how-a-database-management-system-dbms-works-26dk)
+- [Testing Frameworks in Action: A Deep Dive into Automated Testing for EnglishFormatter](https://dev.to/fahadalikhanca/testing-frameworks-in-action-a-deep-dive-into-automated-testing-for-englishformatter-50mj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
