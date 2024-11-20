@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Only Open-Source FAQ Guide You&#39;ll Ever Need—Straight From the 0x3d Collection](https://dev.to/0x3d_site/the-only-open-source-faq-guide-youll-ever-need-straight-from-the-0x3d-collection-2ki2)
-- [Optimize Database Performance in Ruby on Rails and ActiveRecord](https://dev.to/appsignal/optimize-database-performance-in-ruby-on-rails-and-activerecord-mcn)
-- [Microfrontends a Developer&#39;s Guide: Best Practices and Lessons Learned](https://dev.to/joacod/microfrontends-a-developers-guide-best-practices-and-lessons-learned-1nlp)
-- [Top 5 JavaScript Features You’re Not Using Enough](https://dev.to/dipakahirav/top-5-javascript-features-youre-not-using-enough-2idh)
-- [Swarm：下一代去中心化 P2P 网络及其应用前景](https://dev.to/_5666c464ad7652ca3ef8dc/swarmxia-dai-qu-zhong-xin-hua-p2p-wang-luo-ji-qi-ying-yong-qian-jing-5bg9)
+- [Introduction to PnR Computing: A More Natural Way to Think About Software](https://dev.to/spicecoder/introduction-to-pnr-computing-a-more-natural-way-to-think-about-software-3f7i)
+- [First Post on My Blog](https://dev.to/muhamadafghan/first-post-on-my-blog-46le)
+- [The Medallion Architecture: Refining Data from Bronze to Gold 🏅](https://dev.to/cortexflow/the-medallion-architecture-refining-data-from-bronze-to-gold-ikp)
+- [How to Develop Chrome Extensions: A Comprehensive Guide](https://dev.to/mykyta_parkhomenko_e0984c/how-to-develop-chrome-extensions-a-comprehensive-guide-1j4)
+- [How to Develop Chrome Extensions: A Comprehensive Guide](https://dev.to/mykyta_parkhomenko_e0984c/how-to-develop-chrome-extensions-a-comprehensive-guide-k5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
