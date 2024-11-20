@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON Viewer Plus: The Last JSON Extension You&#39;ll Ever Need](https://dev.to/rezmoss/json-viewer-plus-the-last-json-extension-youll-ever-need-4mab)
-- [¿Para qué sirve @Override en Java?](https://dev.to/asjordi/para-que-sirve-override-en-java-4ka9)
-- [Creating adaptive and responsive UIs in React Native](https://dev.to/logrocket/creating-adaptive-and-responsive-uis-in-react-native-46o5)
-- [Deploying AI Projects Through a Jenkins Pipeline](https://dev.to/kitops/deploying-ai-projects-through-a-jenkins-pipeline-394b)
-- [TailwindCSS nima va uning afzalliklari.](https://dev.to/jaohir__m_f5afa09cff902ef/tailwindcss-nima-va-uning-afzalliklari-38pd)
+- [RAG Chatbot](https://dev.to/yashksaini/rag-chatbot-3bce)
+- [Decoding Software Quality: A Deep Dive into Errors, Faults, Bugs, Defects, and Failures.](https://dev.to/nozibul_islam_113b1d5334f/decoding-software-quality-a-deep-dive-into-errors-faults-bugs-defects-and-failures-106o)
+- [Kotlin Object Declarations vs. Java: Summoning Singletons with Ease](https://dev.to/hamada147/kotlin-object-declarations-vs-java-summoning-singletons-with-ease-5b42)
+- [Day 19 Progress Journal: Implementing Backend API for Comment Functionality &lpar;MERN Stack Instagram Clone&rpar;](https://dev.to/dev_d_akash/day-19-progress-journal-implementing-backend-api-for-comment-functionality-mern-stack-instagram-1ji7)
+- [Day 18 Progress Journal: Implementing Frontend for Like and Unlike Functionality &lpar;MERN Stack Instagram Clone&rpar;](https://dev.to/dev_d_akash/day-18-progress-journal-implementing-frontend-for-like-and-unlike-functionality-mern-stack-i5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
