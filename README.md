@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Free HTML Pizza and Restaurant Website Template by SimplyBestWebsites.Com](https://dev.to/simplybestwebsites/free-html-pizza-and-restaurant-website-template-by-simplybestwebsitescom-51oa)
-- [Journal: Getting Back into Live Talks](https://dev.to/schusterbraun/journal-getting-back-into-live-talks-5e4e)
-- [The Most Common Types of Databases in IT Today](https://dev.to/adityabhuyan/the-most-common-types-of-databases-in-it-today-le)
-- [How a Database Management System &lpar;DBMS&rpar; Works](https://dev.to/adityabhuyan/how-a-database-management-system-dbms-works-26dk)
-- [Testing Frameworks in Action: A Deep Dive into Automated Testing for EnglishFormatter](https://dev.to/fahadalikhanca/testing-frameworks-in-action-a-deep-dive-into-automated-testing-for-englishformatter-50mj)
+- [Learning and Growing Through Open Source Contributions](https://dev.to/cleobnvntra/learning-and-growing-through-open-source-contributions-78j)
+- [eKYC Revolutionizes the Banking Sector Beyond Traditional KYC](https://dev.to/kyanondigital/ekyc-revolutionizes-the-banking-sector-beyond-traditional-kyc-3f31)
+- [Master Docker](https://dev.to/tharindumadubashna/master-docker-lfb)
+- [#100 — Deduplication of Row-Based Data — by Key Column](https://dev.to/judith677/100-deduplication-of-row-based-data-by-key-column-4l8m)
+- [Meme Monday](https://dev.to/harihararamsriram/meme-monday-88d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
