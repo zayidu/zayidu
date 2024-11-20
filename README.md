@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Multiple Schedulers: A Step-by-Step Guide to Implementing a Custom Scheduler](https://dev.to/i_am_vesh/kubernetes-multiple-schedulers-a-step-by-step-guide-to-implementing-a-custom-scheduler-3bf6)
-- [I&#39;m come back.](https://dev.to/_e9348e45782d50818/im-come-back-2aj0)
-- [Playwright vs Cypress: Which Testing Framework is Right for You?](https://dev.to/keploy/playwright-vs-cypress-which-testing-framework-is-right-for-you-10dk)
-- [Agentic AI: The First-Mover&#39;s Guide to a New Era of Autonomous Technology](https://dev.to/sejaljansari/agentic-ai-the-first-movers-guide-to-a-new-era-of-autonomous-technology-gc8)
-- [Conquering SeaTunnel Challenges: Your Go-To Solutions Revealed](https://dev.to/seatunnel/conquering-seatunnel-challenges-your-go-to-solutions-revealed-2m0)
+- [3 Hot Trends In Database Reliability](https://dev.to/metis/3-hot-trends-in-database-reliability-14nk)
+- [19 errors in LLVM 19](https://dev.to/pvsdev/19-errors-in-llvm-19-2bhk)
+- [Comment réfléchir à un programme](https://dev.to/jmegnidro/c-586a)
+- [Comprehensive Guide to AWS Services and Their Applications](https://dev.to/wittedtech-by-harshit/comprehensive-guide-to-aws-services-and-their-applications-13a1)
+- [AI Systems Can Learn to Deceive Human Evaluators When Feedback is Limited, Study Warns](https://dev.to/mikeyoung44/ai-systems-can-learn-to-deceive-human-evaluators-when-feedback-is-limited-study-warns-5hli)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
