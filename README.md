@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing the &#39;MySQL Module Shutting Down Unexpectedly&#39; Error in XAMPP: Step-by-Step Guide](https://dev.to/harshchaudhari/fixing-the-mysql-module-shutting-down-unexpectedly-error-in-xampp-step-by-step-guide-li8)
-- [Navigating Amazon Web Services: A Guide to Customer Care](https://dev.to/billgist/navigating-amazon-web-services-a-guide-to-customer-care-1oop)
-- [The 2x2 Testing Matrix &amp; Branch Coverage: A Robust Approach to Automated Software Validation](https://dev.to/okpalan/the-2x2-testing-matrix-branch-coverage-a-robust-approach-to-automated-software-validation-4lm6)
-- [Lead Developer Career Guide – on Amazon!](https://dev.to/sbenhoff/lead-developer-career-guide-on-amazon-516h)
-- [Empowering Your Development: How to Build an Effective AWS Team](https://dev.to/billgist/empowering-your-development-how-to-build-an-effective-aws-team-345j)
+- [Don&#39;t expose primary id&#39;s with Rails&#39; dom_id](https://dev.to/railsdesigner/dont-expose-primary-ids-with-rails-domid-3e6k)
+- [Trying bigger tasks in Open Source](https://dev.to/bregwin/trying-bigger-tasks-in-open-source-2oji)
+- [I Found The CLEANEST Loading Animation EVER!](https://dev.to/technoph1le/i-found-the-cleanest-loading-animation-ever-4ln1)
+- [Integrating what3words in Your Angular 18 Application](https://dev.to/matthiaskrt/integrating-what3words-in-your-angular-18-application-5amj)
+- [Mastering Creative Writing: The Art of Compelling Fiction](https://dev.to/okpalan/mastering-creative-writing-the-art-of-compelling-fiction-3aoe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
