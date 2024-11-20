@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Migrate AWS Resources from one AWS Account to Another](https://dev.to/brilworks/how-to-migrate-aws-resources-from-one-aws-account-to-another-1ap5)
-- [Welcome Thread - v303](https://dev.to/devteam/welcome-thread-v303-4b2)
-- [Restoring a Backup Stored in S3 to an EC2 Instance Using XtraBackup](https://dev.to/anshul_kichara/restoring-a-backup-stored-in-s3-to-an-ec2-instance-using-xtrabackup-4cp4)
-- [Caching information in Redis on NestJS](https://dev.to/endykaufman/caching-information-in-redis-on-nestjs-8po)
-- [Day 2: Leetcode](https://dev.to/sean2024/day-2-leetcode-4102)
+- [Human-Readable JavaScript](https://dev.to/shieldstring/human-readable-javascript-2c9b)
+- [State Machines in React: XState for Complex UI Logic](https://dev.to/patoliyainfotech/state-machines-in-react-xstate-for-complex-ui-logic-3lbc)
+- [How to Improve Facial Recognition Sign-in in Windows 11?](https://dev.to/win11verse/how-to-improve-facial-recognition-sign-in-in-windows-11-c4f)
+- [Distributed Tracing in Microservices Explained](https://dev.to/vipulkumarsviit/distributed-tracing-in-microservices-explained-4jg8)
+- [Exploring Artificial Intelligence with OpenAI APIs: Integrate GPT into Your Web Applications 🤖🌐](https://dev.to/info_generalhazedawn_a3d/exploring-artificial-intelligence-with-openai-apis-integrate-gpt-into-your-web-applications-4pkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
