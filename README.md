@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Human-Readable JavaScript](https://dev.to/shieldstring/human-readable-javascript-2c9b)
-- [State Machines in React: XState for Complex UI Logic](https://dev.to/patoliyainfotech/state-machines-in-react-xstate-for-complex-ui-logic-3lbc)
-- [How to Improve Facial Recognition Sign-in in Windows 11?](https://dev.to/win11verse/how-to-improve-facial-recognition-sign-in-in-windows-11-c4f)
-- [Distributed Tracing in Microservices Explained](https://dev.to/vipulkumarsviit/distributed-tracing-in-microservices-explained-4jg8)
-- [Exploring Artificial Intelligence with OpenAI APIs: Integrate GPT into Your Web Applications 🤖🌐](https://dev.to/info_generalhazedawn_a3d/exploring-artificial-intelligence-with-openai-apis-integrate-gpt-into-your-web-applications-4pkm)
+- [How to disable GIL &lpar;Global Interpreter Lock&rpar; in Python 3.13](https://dev.to/sachingeek/how-to-disable-gil-global-interpreter-lock-in-python-313-2264)
+- [How to Execute Multi-database Queries via JDBC #eg76](https://dev.to/esproc_spl/how-to-execute-multi-database-queries-via-jdbc-eg76-2561)
+- [Cache Strategies: A Complete Guide with Real-Life Examples 🚀](https://dev.to/jaiminbariya/cache-strategies-a-complete-guide-with-real-life-examples-416p)
+- [SeaTunnel-Powered Data Integration: How 58 Group Handles Over 500 Billion+ Data Points Daily](https://dev.to/seatunnel/seatunnel-powered-data-integration-how-58-group-handles-over-500-billion-data-points-daily-3d1m)
+- [Captains gambit](https://dev.to/simeon_knapp_66fd1e21e9c5/captains-gambit-kbo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
