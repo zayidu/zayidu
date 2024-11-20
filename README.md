@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t expose primary id&#39;s with Rails&#39; dom_id](https://dev.to/railsdesigner/dont-expose-primary-ids-with-rails-domid-3e6k)
-- [Trying bigger tasks in Open Source](https://dev.to/bregwin/trying-bigger-tasks-in-open-source-2oji)
-- [I Found The CLEANEST Loading Animation EVER!](https://dev.to/technoph1le/i-found-the-cleanest-loading-animation-ever-4ln1)
-- [Integrating what3words in Your Angular 18 Application](https://dev.to/matthiaskrt/integrating-what3words-in-your-angular-18-application-5amj)
-- [Mastering Creative Writing: The Art of Compelling Fiction](https://dev.to/okpalan/mastering-creative-writing-the-art-of-compelling-fiction-3aoe)
+- [The Saga Pattern in Microservices](https://dev.to/dazevedo/the-saga-pattern-in-microservices-4a91)
+- [Some Essential Coding Practices Every Experienced Developer Recommends](https://dev.to/mdarifulhaque/some-essential-coding-practices-every-experienced-developer-recommends-3cic)
+- [A journey to optimize a SpringData SQL query with N+1s](https://dev.to/loiklak/a-journey-to-optimize-a-springdata-sql-query-with-n1s-2f87)
+- [Excel-lent News: Copilot Takes Your Data to New Heights](https://dev.to/balagmadhu/excel-lent-news-copilot-takes-your-data-to-new-heights-jbk)
+- [Enhancing Customer Support with a Live Chat Widget on Your Website](https://dev.to/aiosoftware_dev/enhancing-customer-support-with-a-live-chat-widget-on-your-website-42cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
