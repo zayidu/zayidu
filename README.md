@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 280 - Spaghetti Code](https://dev.to/mcsee/code-smell-280-spaghetti-code-4686)
-- [How to Implement Master Data Management: A Step-by-Step Guide](https://dev.to/hana_sato/how-to-implement-master-data-management-a-step-by-step-guide-5fn7)
-- [04. தரவு ஒருங்கிணைவு &lpar;Data Integrity&rpar;](https://dev.to/vajravijay/04-trvu-orungkinnaivu-data-integrity-4ch0)
-- [The Round-Table Platform](https://dev.to/ai_concept_explorer/the-round-table-platform-4e71)
-- [c++ for loophaqida malumot](https://dev.to/muhammadyusuf_b21347171bb/c-for-loophaqida-malumot-bij)
+- [The Only Open-Source FAQ Guide You&#39;ll Ever Need—Straight From the 0x3d Collection](https://dev.to/0x3d_site/the-only-open-source-faq-guide-youll-ever-need-straight-from-the-0x3d-collection-2ki2)
+- [Optimize Database Performance in Ruby on Rails and ActiveRecord](https://dev.to/appsignal/optimize-database-performance-in-ruby-on-rails-and-activerecord-mcn)
+- [Microfrontends a Developer&#39;s Guide: Best Practices and Lessons Learned](https://dev.to/joacod/microfrontends-a-developers-guide-best-practices-and-lessons-learned-1nlp)
+- [Top 5 JavaScript Features You’re Not Using Enough](https://dev.to/dipakahirav/top-5-javascript-features-youre-not-using-enough-2idh)
+- [Swarm：下一代去中心化 P2P 网络及其应用前景](https://dev.to/_5666c464ad7652ca3ef8dc/swarmxia-dai-qu-zhong-xin-hua-p2p-wang-luo-ji-qi-ying-yong-qian-jing-5bg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
