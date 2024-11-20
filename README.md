@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [4 unknown CSS techniques](https://dev.to/melnik909/4-unknown-css-techniques-3n3c)
-- [💡Only 20% of Developers are Happy at Work?](https://dev.to/alexr/only-20-of-developers-are-happy-at-work-18o9)
-- [Multipart from data send to backend as json file using axios.](https://dev.to/khalid7487/multipart-from-data-send-to-backend-as-json-file-using-axios-5a1d)
-- [How to Optimize a Website for Search Engines: A Comprehensive Guide](https://dev.to/jeferson0993/how-to-optimize-a-website-for-search-engines-a-comprehensive-guide-23op)
-- [Architecture: Revolutionizing Mobile App Development](https://dev.to/akram6t/architecture-revolutionizing-mobile-app-development-1clg)
+- [Understanding JavaScript Closures with Real-World Examples](https://dev.to/hannan9560/understanding-javascript-closures-with-real-world-examples-441)
+- [How to use the lazy initialization pattern with Rust 1.80](https://dev.to/leemeganj/how-to-use-the-lazy-initialization-pattern-with-rust-180-4n4k)
+- [10 Essential Tools Every Developer Should Master for Productivity and Growth](https://dev.to/gladiatorsbattle/10-essential-tools-every-developer-should-master-for-productivity-and-growth-4geb)
+- [Top React Trends to Watch in 2024](https://dev.to/aniruddhadak/top-react-trends-to-watch-in-2024-2ecl)
+- [Task vs Job vs Stream](https://dev.to/yo1995/task-vs-job-vs-stream-dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
