@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to start your django project the right way](https://dev.to/strerius/how-to-start-your-django-project-the-right-way-4cgp)
-- [🚀🚀🚀 Ethereum Price Today: Will $ETH Hit $4k First or $2k?](https://dev.to/sergi_web3/ethereum-price-today-will-eth-hit-4k-first-or-2k-469g)
-- [Simplifying Unit Conversions in .NET with UniVertAll](https://dev.to/shahabfar/simplifying-unit-conversions-in-net-with-univertall-11n1)
-- [Oracle Certified Java 8 Associate &lpar;OCA&rpar; Exam Preparation](https://dev.to/devmercy/oracle-certified-java-associate-oca-exam-preparation-358g)
-- [A interface Write](https://dev.to/fabianoflorentino/a-interface-write-11c5)
+- [Fixing the &#39;MySQL Module Shutting Down Unexpectedly&#39; Error in XAMPP: Step-by-Step Guide](https://dev.to/harshchaudhari/fixing-the-mysql-module-shutting-down-unexpectedly-error-in-xampp-step-by-step-guide-li8)
+- [Navigating Amazon Web Services: A Guide to Customer Care](https://dev.to/billgist/navigating-amazon-web-services-a-guide-to-customer-care-1oop)
+- [The 2x2 Testing Matrix &amp; Branch Coverage: A Robust Approach to Automated Software Validation](https://dev.to/okpalan/the-2x2-testing-matrix-branch-coverage-a-robust-approach-to-automated-software-validation-4lm6)
+- [Lead Developer Career Guide – on Amazon!](https://dev.to/sbenhoff/lead-developer-career-guide-on-amazon-516h)
+- [Empowering Your Development: How to Build an Effective AWS Team](https://dev.to/billgist/empowering-your-development-how-to-build-an-effective-aws-team-345j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
