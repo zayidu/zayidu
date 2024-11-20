@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Tinybird DevEx 🚀 Data Re-Population CLI Tool](https://dev.to/sebekz/improving-tinybird-devex-data-re-population-cli-tool-229j)
-- [How to Fix GA4 DebugView Not Working?](https://dev.to/me_bhavesh/how-to-fix-ga4-debugview-not-working-2ojg)
-- [Multimodal AI Models: Understanding Their Impact and Applications](https://dev.to/siddharthbhalsod/multimodal-ai-models-understanding-their-impact-and-applications-4emb)
-- [Unlocking the Power of Algorithms in Data Science: A Must-Take Course](https://dev.to/getvm/unlocking-the-power-of-algorithms-in-data-science-a-must-take-course-4khj)
-- [Wednesday Links - Edition 2024-11-20](https://dev.to/0xkkocel/wednesday-links-edition-2024-11-20-4adc)
+- [Code Smell 280 - Spaghetti Code](https://dev.to/mcsee/code-smell-280-spaghetti-code-4686)
+- [How to Implement Master Data Management: A Step-by-Step Guide](https://dev.to/hana_sato/how-to-implement-master-data-management-a-step-by-step-guide-5fn7)
+- [04. தரவு ஒருங்கிணைவு &lpar;Data Integrity&rpar;](https://dev.to/vajravijay/04-trvu-orungkinnaivu-data-integrity-4ch0)
+- [The Round-Table Platform](https://dev.to/ai_concept_explorer/the-round-table-platform-4e71)
+- [c++ for loophaqida malumot](https://dev.to/muhammadyusuf_b21347171bb/c-for-loophaqida-malumot-bij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
