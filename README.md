@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Hot Trends In Database Reliability](https://dev.to/metis/3-hot-trends-in-database-reliability-14nk)
-- [19 errors in LLVM 19](https://dev.to/pvsdev/19-errors-in-llvm-19-2bhk)
-- [Comment réfléchir à un programme](https://dev.to/jmegnidro/c-586a)
-- [Comprehensive Guide to AWS Services and Their Applications](https://dev.to/wittedtech-by-harshit/comprehensive-guide-to-aws-services-and-their-applications-13a1)
-- [AI Systems Can Learn to Deceive Human Evaluators When Feedback is Limited, Study Warns](https://dev.to/mikeyoung44/ai-systems-can-learn-to-deceive-human-evaluators-when-feedback-is-limited-study-warns-5hli)
+- [How To Build Beautiful Terminal UIs &lpar;TUIs&rpar; in JavaScript!](https://dev.to/sfundomhlungu/how-to-build-beautiful-terminal-uis-tuis-in-javascript-74j)
+- [Ethical Hacking: Safeguarding the Digital Frontier💻🔓🛡️](https://dev.to/hexadecimalsoftware/ethical-hacking-safeguarding-the-digital-frontier-d3f)
+- [Selenium Grid vs Browserstack: Which Automation Grid do you need?](https://dev.to/sarahthomasdev/selenium-grid-vs-browserstack-which-automation-grid-do-you-need-403a)
+- [Software Engineering Measurement: How to Stop Flying Blind and Start Building Better Software](https://dev.to/devactivity-app/software-engineering-measurement-how-to-stop-flying-blind-and-start-building-better-software-5ckk)
+- [From Data to Decisions: How Machine Learning Works in 2025](https://dev.to/vikas76/from-data-to-decisions-how-machine-learning-works-in-2025-489n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
