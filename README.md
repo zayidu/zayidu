@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to PnR Computing: A More Natural Way to Think About Software](https://dev.to/spicecoder/introduction-to-pnr-computing-a-more-natural-way-to-think-about-software-3f7i)
-- [First Post on My Blog](https://dev.to/muhamadafghan/first-post-on-my-blog-46le)
-- [The Medallion Architecture: Refining Data from Bronze to Gold 🏅](https://dev.to/cortexflow/the-medallion-architecture-refining-data-from-bronze-to-gold-ikp)
-- [How to Develop Chrome Extensions: A Comprehensive Guide](https://dev.to/mykyta_parkhomenko_e0984c/how-to-develop-chrome-extensions-a-comprehensive-guide-1j4)
-- [How to Develop Chrome Extensions: A Comprehensive Guide](https://dev.to/mykyta_parkhomenko_e0984c/how-to-develop-chrome-extensions-a-comprehensive-guide-k5e)
+- [JSON Viewer Plus: The Last JSON Extension You&#39;ll Ever Need](https://dev.to/rezmoss/json-viewer-plus-the-last-json-extension-youll-ever-need-4mab)
+- [¿Para qué sirve @Override en Java?](https://dev.to/asjordi/para-que-sirve-override-en-java-4ka9)
+- [Creating adaptive and responsive UIs in React Native](https://dev.to/logrocket/creating-adaptive-and-responsive-uis-in-react-native-46o5)
+- [Deploying AI Projects Through a Jenkins Pipeline](https://dev.to/kitops/deploying-ai-projects-through-a-jenkins-pipeline-394b)
+- [TailwindCSS nima va uning afzalliklari.](https://dev.to/jaohir__m_f5afa09cff902ef/tailwindcss-nima-va-uning-afzalliklari-38pd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
