@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CPU Profiling a Ruby Application in Kubernetes](https://dev.to/miry/cpu-profiling-a-ruby-application-in-kubernetes-3h6i)
-- [I created a Realtime Voice Assistant for my ESP-32, here is my journey - Part 1 : Hardware, PlatformIO &amp; C++](https://dev.to/fabrikapp/i-created-a-realtime-voice-assistant-for-my-esp-32-here-is-my-journey-part-1-hardware-43de)
-- [Consuming APIs in C: a practical guide for modern developers](https://dev.to/robertobutti/consuming-apis-in-c-a-practical-guide-for-modern-developers-465f)
-- [Navegación en la consola de AWS: Tips y mejores prácticas](https://dev.to/briansuarezsantiago/navegacion-en-la-consola-de-aws-tips-y-mejores-practicas-3lg5)
-- [Issue 71 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-71-of-aws-cloud-security-weekly-31o8)
+- [Large file transfer from VPS to local machine](https://dev.to/tallesl/large-file-transfer-from-vps-to-local-machine-3b74)
+- [Global Disaster recovery for AWS Aurora](https://dev.to/sudo_anuj/global-disaster-recovery-for-aws-aurora-2ih8)
+- [Modal with ReactDOM.createPortal](https://dev.to/kaziusan/modal-with-reactdomcreateportal-l23)
+- [AI &amp; Deep Learning for CFD Flow Prediction](https://dev.to/precise-simulation/ai-deep-learning-for-cfd-flow-prediction-475l)
+- [Aligning Talent to Business Objectives: A Data-Driven Approach](https://dev.to/teamstation/aligning-talent-to-business-objectives-a-data-driven-approach-539d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
