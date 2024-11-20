@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Build Beautiful Terminal UIs &lpar;TUIs&rpar; in JavaScript!](https://dev.to/sfundomhlungu/how-to-build-beautiful-terminal-uis-tuis-in-javascript-74j)
-- [Ethical Hacking: Safeguarding the Digital Frontier💻🔓🛡️](https://dev.to/hexadecimalsoftware/ethical-hacking-safeguarding-the-digital-frontier-d3f)
-- [Selenium Grid vs Browserstack: Which Automation Grid do you need?](https://dev.to/sarahthomasdev/selenium-grid-vs-browserstack-which-automation-grid-do-you-need-403a)
-- [Software Engineering Measurement: How to Stop Flying Blind and Start Building Better Software](https://dev.to/devactivity-app/software-engineering-measurement-how-to-stop-flying-blind-and-start-building-better-software-5ckk)
-- [From Data to Decisions: How Machine Learning Works in 2025](https://dev.to/vikas76/from-data-to-decisions-how-machine-learning-works-in-2025-489n)
+- [Improving Tinybird DevEx 🚀 Data Re-Population CLI Tool](https://dev.to/sebekz/improving-tinybird-devex-data-re-population-cli-tool-229j)
+- [How to Fix GA4 DebugView Not Working?](https://dev.to/me_bhavesh/how-to-fix-ga4-debugview-not-working-2ojg)
+- [Multimodal AI Models: Understanding Their Impact and Applications](https://dev.to/siddharthbhalsod/multimodal-ai-models-understanding-their-impact-and-applications-4emb)
+- [Unlocking the Power of Algorithms in Data Science: A Must-Take Course](https://dev.to/getvm/unlocking-the-power-of-algorithms-in-data-science-a-must-take-course-4khj)
+- [Wednesday Links - Edition 2024-11-20](https://dev.to/0xkkocel/wednesday-links-edition-2024-11-20-4adc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
