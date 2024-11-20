@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to disable GIL &lpar;Global Interpreter Lock&rpar; in Python 3.13](https://dev.to/sachingeek/how-to-disable-gil-global-interpreter-lock-in-python-313-2264)
-- [How to Execute Multi-database Queries via JDBC #eg76](https://dev.to/esproc_spl/how-to-execute-multi-database-queries-via-jdbc-eg76-2561)
-- [Cache Strategies: A Complete Guide with Real-Life Examples 🚀](https://dev.to/jaiminbariya/cache-strategies-a-complete-guide-with-real-life-examples-416p)
-- [SeaTunnel-Powered Data Integration: How 58 Group Handles Over 500 Billion+ Data Points Daily](https://dev.to/seatunnel/seatunnel-powered-data-integration-how-58-group-handles-over-500-billion-data-points-daily-3d1m)
-- [Captains gambit](https://dev.to/simeon_knapp_66fd1e21e9c5/captains-gambit-kbo)
+- [Kubernetes Multiple Schedulers: A Step-by-Step Guide to Implementing a Custom Scheduler](https://dev.to/i_am_vesh/kubernetes-multiple-schedulers-a-step-by-step-guide-to-implementing-a-custom-scheduler-3bf6)
+- [I&#39;m come back.](https://dev.to/_e9348e45782d50818/im-come-back-2aj0)
+- [Playwright vs Cypress: Which Testing Framework is Right for You?](https://dev.to/keploy/playwright-vs-cypress-which-testing-framework-is-right-for-you-10dk)
+- [Agentic AI: The First-Mover&#39;s Guide to a New Era of Autonomous Technology](https://dev.to/sejaljansari/agentic-ai-the-first-movers-guide-to-a-new-era-of-autonomous-technology-gc8)
+- [Conquering SeaTunnel Challenges: Your Go-To Solutions Revealed](https://dev.to/seatunnel/conquering-seatunnel-challenges-your-go-to-solutions-revealed-2m0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
