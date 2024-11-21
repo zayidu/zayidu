@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m really happy that we&#39;ll be organizing at least one more frontend challenge before the end of the year.](https://dev.to/jess/im-really-happy-that-well-be-organizing-at-least-one-more-frontend-challenge-before-the-end-of-3oi5)
-- [O que achei do Bootcamp Java com Spring Boot organizado pela Dio e Claro](https://dev.to/samuelralmeida/o-que-achei-do-bootcamp-java-com-spring-boot-organizado-pela-dio-e-claro-4c0p)
-- [These days Nirvana is my go-to focus music. Not sure why that is.](https://dev.to/ben/these-days-nirvana-is-my-go-to-focus-music-not-sure-why-that-is-4epo)
-- [Ferias de empleos virtuales del curso 2024/2025](https://dev.to/iaasgeek/ferias-de-empleos-virtuales-del-curso-20242025-3743)
-- [Self-Aligning Dish in Rust: Command Application](https://dev.to/ian_ndeda/self-aligning-dish-in-rust-command-application-4lnk)
+- [Releasing Tailor4Job via npm](https://dev.to/inder4code/releasing-tailor4job-via-npm-4h7l)
+- [4 Ways to Improve your Code Readability](https://dev.to/peboycodes/4-ways-to-improve-your-code-readability-2dol)
+- [💝👸](https://dev.to/jael_larios_f11eb59970d95/-52bk)
+- [Datasets for Computer Vision &lpar;2&rpar;](https://dev.to/hyperkai/datasets-for-computer-vision-2-kdg)
+- [Host Static Website on Azure Blob Storage](https://dev.to/seyilufadejucyberservices/host-static-website-on-azure-blob-storage-le7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
