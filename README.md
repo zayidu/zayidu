@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Quorum-Based Approaches in Distributed Systems - Jaimin Bariya](https://dev.to/jaiminbariya/understanding-quorum-based-approaches-in-distributed-systems-jaimin-bariya-5h1b)
-- [how can I add search functionality in this code?](https://dev.to/farhan_ahmedfarhan41230/how-can-i-add-search-functionality-in-this-code-3ige)
-- [Entendendo props e useState no React: Como Passar e Gerenciar Dados Entre Componentes](https://dev.to/vania_gomes/entendendo-props-e-usestate-no-react-como-passar-e-gerenciar-dados-entre-componentes-12oe)
-- [Getting Started with DevOps: A Comprehensive Guide](https://dev.to/rohitg00/getting-started-with-devops-a-comprehensive-guide-5d45)
-- [Understanding the CAP Theorem in Distributed Systems](https://dev.to/yasmine_ddec94f4d4/understanding-the-cap-theorem-in-distributed-systems-5230)
+- [S3 Enumeration](https://dev.to/aktran321/s3-enumeration-53hd)
+- [Dive Deep into OS Development with &quot;The Little Book About OS Development&quot;](https://dev.to/getvm/dive-deep-into-os-development-with-the-little-book-about-os-development-24b7)
+- [Devcon 2024 Highlights, Smart Contract Revolution, Yoav Weiss on AA Future and AA Developer Survey](https://dev.to/alexandradev/devcon-2024-highlights-smart-contract-revolution-yoav-weiss-on-aa-future-and-aa-developer-survey-c90)
+- [Exploring the Factory Pattern in Node.js 🌟 🤖](https://dev.to/razielrodrigues/exploring-the-factory-pattern-in-nodejs-4hm2)
+- [New Chip Notification Variations 🚀](https://dev.to/windui/new-chip-notification-variations-2ode)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
