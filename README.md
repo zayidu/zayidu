@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding User Experience: 5 Fundamental Laws Every Designer Should Know](https://dev.to/nozibul_islam_113b1d5334f/decoding-user-experience-5-fundamental-laws-every-designer-should-know-39fi)
-- [3d Cards matching game using html css and javascript follow us on instagram: https://www.instagram.com/webstreet_code/](https://dev.to/prince_beec5ccde00b7c6c73/3d-cards-matching-game-using-html-css-and-javascript-follow-us-on-instagram-177g)
-- [Building Microservices in Java: A Practical Guide](https://dev.to/brilworks/building-microservices-in-java-a-practical-guide-49h8)
-- [Integrating Live Activity and Dynamic Island in iOS: A Complete Guide](https://dev.to/divyeshvekariya/integrating-live-activity-and-dynamic-island-in-ios-a-complete-guide-2i0l)
-- [How a Viral Tweet Landed Me Multiple Job Interviews](https://dev.to/chiragagg5k/how-a-viral-tweet-landed-me-multiple-job-interviews-49oo)
+- [Top Three Things You Must Look For While Hiring A Concrete Leveling Contractor](https://dev.to/tomlinsonca6/top-three-things-you-must-look-for-while-hiring-a-concrete-leveling-contractor-43kg)
+- [Generate PESTEL Analysis With AI: A Comprehensive Guide](https://dev.to/ishmam_jahan_4269b6f13ba5/generate-pestel-analysis-with-ai-a-comprehensive-guide-3e7e)
+- [Revolutionizing Customer Engagement: The Power of CPG Chat https://www.cloudastra.co/blogs/revolutionizing-customer-engagement-the-power-of-cpg-chat](https://dev.to/swati_gupta_c3c15df8b06de/revolutionizing-customer-engagement-the-power-of-cpg-chat-36ae)
+- [How to Use a GitHub Private Repository as a Helm Chart Repository](https://dev.to/suin/how-to-use-a-github-private-repository-as-a-helm-chart-repository-390k)
+- [Empowering Rookie Nigerian Developers: Trends, Tools, and Best Practices for 2024](https://dev.to/igbojionu/empowering-rookie-nigerian-developers-trends-tools-and-best-practices-for-2024-23ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
