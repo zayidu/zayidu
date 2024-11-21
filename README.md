@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [S3 Enumeration](https://dev.to/aktran321/s3-enumeration-53hd)
-- [Dive Deep into OS Development with &quot;The Little Book About OS Development&quot;](https://dev.to/getvm/dive-deep-into-os-development-with-the-little-book-about-os-development-24b7)
-- [Devcon 2024 Highlights, Smart Contract Revolution, Yoav Weiss on AA Future and AA Developer Survey](https://dev.to/alexandradev/devcon-2024-highlights-smart-contract-revolution-yoav-weiss-on-aa-future-and-aa-developer-survey-c90)
-- [Exploring the Factory Pattern in Node.js 🌟 🤖](https://dev.to/razielrodrigues/exploring-the-factory-pattern-in-nodejs-4hm2)
-- [New Chip Notification Variations 🚀](https://dev.to/windui/new-chip-notification-variations-2ode)
+- [Can LLMs Play Chess? I&#39;ve Tested 13 Models](https://dev.to/maximsaplin/can-llms-play-chess-ive-tested-13-models-2154)
+- [Dev Log #14 - Phaser.js and game dev](https://dev.to/antoniodev/dev-log-14-phaserjs-and-game-dev-5382)
+- [How EDI Communication Protocols Streamline Business Data Exchange](https://dev.to/adityabhuyan/how-edi-communication-protocols-streamline-business-data-exchange-5fcf)
+- [How to Remove Account Facial Recognition Sign-In in Windows 11?](https://dev.to/win11verse/how-to-remove-account-facial-recognition-sign-in-in-windows-11-113c)
+- [Where is tutorial to C?](https://dev.to/junissen9/where-tutorial-to-c-596b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
