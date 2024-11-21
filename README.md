@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Contributing to ByteChef](https://dev.to/arilloid/contributing-to-bytechef-23gb)
-- [How to mitigate a DDoS attack on a small server](https://dev.to/victoor/how-to-mitigate-a-ddos-attack-on-a-small-server-1a74)
-- [Front-End And Back-End Development: What Are The Differences?](https://dev.to/birdmorning/front-end-and-back-end-development-what-are-the-differences-1g6k)
-- [Simplify Data Migration Between Databases Using DbVisualizer](https://dev.to/dbvismarketing/simplify-data-migration-between-databases-using-dbvisualizer-pki)
-- [WordPress Web Development: Everything You Need To Know About](https://dev.to/birdmorning/wordpress-web-development-everything-you-need-to-know-about-po)
+- [Unlocking Linux on Windows: A Guide to Installing Ubuntu Using WSL 2 on Windows 11](https://dev.to/sohaibilyas/unlocking-linux-on-windows-a-guide-to-installing-ubuntu-using-wsl-2-on-windows-11-415d)
+- [Why Read/Write in Hash Maps Has O&lpar;1&rpar; Time Complexity⁉️🚀](https://dev.to/mnboy/why-readwrite-in-hash-maps-has-o1-time-complexity-1egg)
+- [Get Started with Free Vue.js Templates for Responsive Websites](https://dev.to/hitesh_developer/get-started-with-free-vuejs-templates-for-responsive-websites-45n4)
+- [Studying Programming in Prison?](https://dev.to/aygnylmaz_efc40cc95e027/studying-programming-in-prison-5ad7)
+- [Slowloris Attack: How it Works, Identify and Prevent](https://dev.to/certera_/slowloris-attack-how-it-works-identify-and-prevent-5dp6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
