@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 5 modern CSS tricks that you should know](https://dev.to/melnik909/the-5-modern-css-tricks-that-you-should-know-3f0b)
-- [A Letter to Jobseekers: Don&#39;t Give Up!](https://dev.to/westernal/a-letter-to-jobseekers-dont-give-up-2jim)
-- [422 Error with @jwt_required&lpar;&rpar; in Flask App Deployed on VPS with Nginx](https://dev.to/mohamed_zahi_00/422-error-with-jwtrequired-in-flask-app-deployed-on-vps-with-nginx-4ggm)
-- [I created a visually pleasing HTML color viewer](https://dev.to/madsenmm/i-created-a-visually-pleasing-html-color-viewer-92c)
-- [Day 8 - Modules](https://dev.to/lakshmi_prithanadesan_32/day-8-modules-2jof)
+- [I did it: Launching my visionary Open Source project, Fiorino.AI](https://dev.to/0xfedev/i-did-it-launching-my-visionary-open-source-project-fiorinoai-3430)
+- [Quick example of creating a custom Kotlin coroutine and scoping it to a Android service.](https://dev.to/theplebdev/quick-example-of-creating-a-custom-kotlin-coroutine-and-scoping-it-to-a-android-service-4ija)
+- [Fina Categorization API made publicly free](https://dev.to/shawn_cao_fe12dd5b6a429ed/fina-categorization-api-made-publicly-free-230o)
+- [QuickInfo: AI-Powered Wikipedia Companion Built with Next.js and Google&#39;s Gemini](https://dev.to/infosparklabs/quickinfo-ai-powered-wikipedia-companion-built-with-nextjs-and-googles-gemini-1ad0)
+- [Day 73. Working on the Library](https://dev.to/kiolk/day-73-working-on-the-library-3jea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
