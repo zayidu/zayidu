@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[DevLog #02] Gmail-TUI: Replicating Gmail-Web&#39;s Navigation](https://dev.to/dev_vaayen/devlog-02-gmail-tui-replicating-gmail-webs-navigation-blb)
-- [Azure Durable Task Scheduler advantages for Durable Functions](https://dev.to/florianlenz/azure-durable-task-scheduler-advantages-for-durable-functions-2944)
-- [Por que a Polícia Federal conseguiu recuperar o vídeo &#39;deletado&#39; do Mauro CID?](https://dev.to/valdeirpsr/por-que-os-arquivos-sao-recuperados-de-ssds-mesmo-apos-a-exclusao-383m)
-- [Understanding SOLID Principles in Software Design](https://dev.to/be11amer/understanding-solid-principles-in-software-design-2b3)
-- [Promoção no trabalho começa aqui: Como a dopamina pode impulsionar seu sucesso](https://dev.to/erick_tmr/promocao-no-trabalho-comeca-aqui-como-a-dopamina-pode-impulsionar-seu-sucesso-2fd)
+- [User Authentication 🔑: Your Ultimate Digital Shield ! 🛡️](https://dev.to/enzo_dechaene/user-authentication-your-ultimate-digital-shield--3j8e)
+- [Build a Fast and Lightweight Rust Vector Search App with Rig &amp; LanceDB](https://dev.to/0thtachi/build-a-fast-and-lightweight-rust-vector-search-app-with-rig-lancedb-57h2)
+- [How to Set Up a PHP Development Environment in VS Code with Docker Desktop A Step-by-Step Guide](https://dev.to/mdarifulhaque/how-to-set-up-a-php-development-environment-in-vs-code-with-docker-desktop-a-step-by-step-guide-12ia)
+- [Recapping ECCV 2024 Redux: Day 3](https://dev.to/voxel51/recapping-eccv-2024-redux-day-3-40c6)
+- [Evaluating &lpar;Historically Optimal&rpar; Fantasy F1 Teams with Linear Programming](https://dev.to/datadr1ven/evaluating-historically-optimal-fantasy-f1-teams-with-linear-programming-295h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
