@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Solar Rooftop Calculator Helps You Make Informed Decisions](https://dev.to/swapnilu/how-a-solar-rooftop-calculator-helps-you-make-informed-decisions-c37)
-- [Linux Basic Commands II](https://dev.to/radurga/linux-basic-commands-ii-1deb)
-- [I built a social media scheduling tool and open-sourced it 🤯](https://dev.to/nevodavid/i-built-a-social-media-scheduling-tool-and-open-sourced-it-5aho)
-- [Data integrity in Ably Pub/Sub](https://dev.to/ably/data-integrity-in-ably-pubsub-1nol)
-- [How to write ICO smart contract using Solidity and Hardhat](https://dev.to/marksantiago02/how-to-write-ico-smart-contract-using-solidity-and-hardhat-4pmg)
+- [Dynamic HTML Tag in React Components with the &quot;as&quot; prop](https://dev.to/tresorama/dynamic-html-tag-in-react-components-with-the-as-prop-56b8)
+- [🚀 Coming Soon: Eldora 2.0 – The Future of Page Design](https://dev.to/karthikmudunuri/coming-soon-eldora-20-the-future-of-page-design-18ce)
+- [How are AI features in smartphones helping with customization and personalization? How are AI features in smartphones helping us customize and personalize things better? Like, is it just about wallpapers and themes, or does it go deeper into understanding](https://dev.to/rafik_shaikh/how-are-ai-features-in-smartphones-helping-with-customization-and-personalization-how-are-ai-a14)
+- [Why I Left Consultancy &lpar;and Don&#39;t Intend To Go Back&rpar;](https://dev.to/saulodias/why-i-left-consultancy-and-dont-intend-to-go-back-1gcf)
+- [Introducing The Remoties: A Community for Remote Workers and Digital Nomads 🌍💼](https://dev.to/lycawn_antoniades_42e8c8a/introducing-the-remoties-a-community-for-remote-workers-and-digital-nomads-1a6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
