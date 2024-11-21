@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🗞 Rapyd Developer Newsletter: October 2024 💰 Gig Payments Made Easy + More](https://dev.to/rapyd/rapyd-developer-newsletter-october-2024-gig-payments-made-easy-more-30ha)
-- [Using Map, Filter, and Reduce Effectively in JavaScript🔥](https://dev.to/hosseinmobarakian/using-map-filter-and-reduce-effectively-in-javascript-2g6d)
-- [Custom Hooks in React: A Guide to Creation and Usage](https://dev.to/wittedtech-by-harshit/custom-hooks-in-react-a-guide-to-creation-and-usage-2d99)
-- [Newbie&#39;s Guide to Starting with Open Source Contributions](https://dev.to/mettasurendhar/newbies-guide-to-starting-with-open-source-contributions-44dh)
-- [Technical Interview - Boilerplate 2 - Node + Serverless + AWS + Github Actions](https://dev.to/giulianaolmos/technical-interview-boilerplate-2-node-serverless-aws-github-actions-5apf)
+- [How a Solar Rooftop Calculator Helps You Make Informed Decisions](https://dev.to/swapnilu/how-a-solar-rooftop-calculator-helps-you-make-informed-decisions-c37)
+- [Linux Basic Commands II](https://dev.to/radurga/linux-basic-commands-ii-1deb)
+- [I built a social media scheduling tool and open-sourced it 🤯](https://dev.to/nevodavid/i-built-a-social-media-scheduling-tool-and-open-sourced-it-5aho)
+- [Data integrity in Ably Pub/Sub](https://dev.to/ably/data-integrity-in-ably-pubsub-1nol)
+- [How to write ICO smart contract using Solidity and Hardhat](https://dev.to/marksantiago02/how-to-write-ico-smart-contract-using-solidity-and-hardhat-4pmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
