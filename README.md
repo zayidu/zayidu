@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating C++ DLL and using it in .NET](https://dev.to/tuttelikz/creating-c-dll-and-using-it-in-net-2fid)
-- [Deploying Helm Charts to Multiple Kubernetes Clusters with Cluster API&#39;s HelmChartProxy](https://dev.to/suin/deploying-helm-charts-to-multiple-kubernetes-clusters-with-cluster-apis-helmchartproxy-3fa6)
-- [Introducing Expify.AI: The Ultimate AI Tools Directory for Innovators and Businesses](https://dev.to/kherona/introducing-expifyai-the-ultimate-ai-tools-directory-for-innovators-and-businesses-3ki4)
-- [2257. Count Unguarded Cells in the Grid](https://dev.to/mdarifulhaque/2257-count-unguarded-cells-in-the-grid-4ibc)
-- [Tired of Retrospectives Feeling Like a Chore? Tools for Retrospectives That Will Make Your Team Sing!](https://dev.to/devactivity-app/tired-of-retrospectives-feeling-like-a-chore-tools-for-retrospectives-that-will-make-your-team-sing-k52)
+- [Understanding Quorum-Based Approaches in Distributed Systems - Jaimin Bariya](https://dev.to/jaiminbariya/understanding-quorum-based-approaches-in-distributed-systems-jaimin-bariya-5h1b)
+- [how can I add search functionality in this code?](https://dev.to/farhan_ahmedfarhan41230/how-can-i-add-search-functionality-in-this-code-3ige)
+- [Entendendo props e useState no React: Como Passar e Gerenciar Dados Entre Componentes](https://dev.to/vania_gomes/entendendo-props-e-usestate-no-react-como-passar-e-gerenciar-dados-entre-componentes-12oe)
+- [Getting Started with DevOps: A Comprehensive Guide](https://dev.to/rohitg00/getting-started-with-devops-a-comprehensive-guide-5d45)
+- [Understanding the CAP Theorem in Distributed Systems](https://dev.to/yasmine_ddec94f4d4/understanding-the-cap-theorem-in-distributed-systems-5230)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
