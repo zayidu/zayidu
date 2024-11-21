@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Linux on Windows: A Guide to Installing Ubuntu Using WSL 2 on Windows 11](https://dev.to/sohaibilyas/unlocking-linux-on-windows-a-guide-to-installing-ubuntu-using-wsl-2-on-windows-11-415d)
-- [Why Read/Write in Hash Maps Has O&lpar;1&rpar; Time Complexity⁉️🚀](https://dev.to/mnboy/why-readwrite-in-hash-maps-has-o1-time-complexity-1egg)
-- [Get Started with Free Vue.js Templates for Responsive Websites](https://dev.to/hitesh_developer/get-started-with-free-vuejs-templates-for-responsive-websites-45n4)
-- [Studying Programming in Prison?](https://dev.to/aygnylmaz_efc40cc95e027/studying-programming-in-prison-5ad7)
-- [Slowloris Attack: How it Works, Identify and Prevent](https://dev.to/certera_/slowloris-attack-how-it-works-identify-and-prevent-5dp6)
+- [Creating C++ DLL and using it in .NET](https://dev.to/tuttelikz/creating-c-dll-and-using-it-in-net-2fid)
+- [Deploying Helm Charts to Multiple Kubernetes Clusters with Cluster API&#39;s HelmChartProxy](https://dev.to/suin/deploying-helm-charts-to-multiple-kubernetes-clusters-with-cluster-apis-helmchartproxy-3fa6)
+- [Introducing Expify.AI: The Ultimate AI Tools Directory for Innovators and Businesses](https://dev.to/kherona/introducing-expifyai-the-ultimate-ai-tools-directory-for-innovators-and-businesses-3ki4)
+- [2257. Count Unguarded Cells in the Grid](https://dev.to/mdarifulhaque/2257-count-unguarded-cells-in-the-grid-4ibc)
+- [Tired of Retrospectives Feeling Like a Chore? Tools for Retrospectives That Will Make Your Team Sing!](https://dev.to/devactivity-app/tired-of-retrospectives-feeling-like-a-chore-tools-for-retrospectives-that-will-make-your-team-sing-k52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
