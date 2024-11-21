@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IceCream: A Sweet Alternative to Print Debugging in Python](https://dev.to/vidyasagarmsc/icecream-a-sweet-alternative-to-print-debugging-in-python-1lhg)
-- [How to add custom icons in React Native in 2025](https://dev.to/oktaysenkan/how-to-add-custom-icons-in-the-react-native-in-2025-1g4b)
-- [Security iOS Apps with OWASP Best Practices for Data Protection](https://dev.to/felipefmmobile/security-ios-apps-with-owasp-best-practices-for-data-protection-2c5l)
-- [From Bug Fixes to Best Practices: My Open Source Contributions to ChatCraft and xUnit](https://dev.to/harshil_patel/from-bug-fixes-to-best-practices-my-open-source-contributions-to-chatcraft-and-xunit-3kdc)
-- [Fix gitlab runner error with docker](https://dev.to/panupongdeve/fix-gitlab-runner-error-with-docker-10li)
+- [Unlocking the Power of Spanish Benchmarks: Why &quot;Hola&quot; Matters More Than You Think](https://dev.to/agustin_bereciartua/unlocking-the-power-of-spanish-benchmarks-why-hola-matters-more-than-you-think-29l5)
+- [Hello Folks!](https://dev.to/mohamed_rila/hello-folks-1d3c)
+- [2D Game Menu with Godot4](https://dev.to/justaguyfrombr/2d-game-menu-with-godot4-55hj)
+- [How Transformers Revolutionized AI with Attention Mechanisms](https://dev.to/vasanthi_govindaraj_5bfd4/how-transformers-revolutionized-ai-with-attention-mechanisms-2eg)
+- [Jetbrains Rider Endpoints](https://dev.to/ozkanpakdil/jetbrains-rider-endpoints-399o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
