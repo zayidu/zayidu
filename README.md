@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding WeakRefs and FinalizationRegistry in JavaScript](https://dev.to/shafayeat/understanding-weakrefs-and-finalizationregistry-in-javascript-3gog)
-- [How to Store Specified CSV Columns to a New File #eg77](https://dev.to/esproc_spl/how-to-store-specified-csv-columns-to-a-new-file-eg77-4enf)
-- [From Basics to Real-Time Performance: a Complete Guide to API Requests](https://dev.to/getambassador2024/from-basics-to-real-time-performance-a-complete-guide-to-api-requests-47d8)
-- [Python Day 7-How to build a Tech Community?](https://dev.to/guru_prasanna_01/python-day-7-how-to-build-community-4a0n)
-- [Deploying Your First Full-Stack Application with Vercel and Heroku](https://dev.to/ayusharpcoder/deploying-your-first-full-stack-application-with-vercel-and-heroku-2fdk)
+- [Contributing to ByteChef](https://dev.to/arilloid/contributing-to-bytechef-23gb)
+- [How to mitigate a DDoS attack on a small server](https://dev.to/victoor/how-to-mitigate-a-ddos-attack-on-a-small-server-1a74)
+- [Front-End And Back-End Development: What Are The Differences?](https://dev.to/birdmorning/front-end-and-back-end-development-what-are-the-differences-1g6k)
+- [Simplify Data Migration Between Databases Using DbVisualizer](https://dev.to/dbvismarketing/simplify-data-migration-between-databases-using-dbvisualizer-pki)
+- [WordPress Web Development: Everything You Need To Know About](https://dev.to/birdmorning/wordpress-web-development-everything-you-need-to-know-about-po)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
