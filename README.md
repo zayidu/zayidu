@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Three Things You Must Look For While Hiring A Concrete Leveling Contractor](https://dev.to/tomlinsonca6/top-three-things-you-must-look-for-while-hiring-a-concrete-leveling-contractor-43kg)
-- [Generate PESTEL Analysis With AI: A Comprehensive Guide](https://dev.to/ishmam_jahan_4269b6f13ba5/generate-pestel-analysis-with-ai-a-comprehensive-guide-3e7e)
-- [Revolutionizing Customer Engagement: The Power of CPG Chat https://www.cloudastra.co/blogs/revolutionizing-customer-engagement-the-power-of-cpg-chat](https://dev.to/swati_gupta_c3c15df8b06de/revolutionizing-customer-engagement-the-power-of-cpg-chat-36ae)
-- [How to Use a GitHub Private Repository as a Helm Chart Repository](https://dev.to/suin/how-to-use-a-github-private-repository-as-a-helm-chart-repository-390k)
-- [Empowering Rookie Nigerian Developers: Trends, Tools, and Best Practices for 2024](https://dev.to/igbojionu/empowering-rookie-nigerian-developers-trends-tools-and-best-practices-for-2024-23ic)
+- [Understanding WeakRefs and FinalizationRegistry in JavaScript](https://dev.to/shafayeat/understanding-weakrefs-and-finalizationregistry-in-javascript-3gog)
+- [How to Store Specified CSV Columns to a New File #eg77](https://dev.to/esproc_spl/how-to-store-specified-csv-columns-to-a-new-file-eg77-4enf)
+- [From Basics to Real-Time Performance: a Complete Guide to API Requests](https://dev.to/getambassador2024/from-basics-to-real-time-performance-a-complete-guide-to-api-requests-47d8)
+- [Python Day 7-How to build a Tech Community?](https://dev.to/guru_prasanna_01/python-day-7-how-to-build-community-4a0n)
+- [Deploying Your First Full-Stack Application with Vercel and Heroku](https://dev.to/ayusharpcoder/deploying-your-first-full-stack-application-with-vercel-and-heroku-2fdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
