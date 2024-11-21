@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Releasing Tailor4Job via npm](https://dev.to/inder4code/releasing-tailor4job-via-npm-4h7l)
-- [4 Ways to Improve your Code Readability](https://dev.to/peboycodes/4-ways-to-improve-your-code-readability-2dol)
-- [💝👸](https://dev.to/jael_larios_f11eb59970d95/-52bk)
-- [Datasets for Computer Vision &lpar;2&rpar;](https://dev.to/hyperkai/datasets-for-computer-vision-2-kdg)
-- [Host Static Website on Azure Blob Storage](https://dev.to/seyilufadejucyberservices/host-static-website-on-azure-blob-storage-le7)
+- [[DevLog #02] Gmail-TUI: Replicating Gmail-Web&#39;s Navigation](https://dev.to/dev_vaayen/devlog-02-gmail-tui-replicating-gmail-webs-navigation-blb)
+- [Azure Durable Task Scheduler advantages for Durable Functions](https://dev.to/florianlenz/azure-durable-task-scheduler-advantages-for-durable-functions-2944)
+- [Por que a Polícia Federal conseguiu recuperar o vídeo &#39;deletado&#39; do Mauro CID?](https://dev.to/valdeirpsr/por-que-os-arquivos-sao-recuperados-de-ssds-mesmo-apos-a-exclusao-383m)
+- [Understanding SOLID Principles in Software Design](https://dev.to/be11amer/understanding-solid-principles-in-software-design-2b3)
+- [Promoção no trabalho começa aqui: Como a dopamina pode impulsionar seu sucesso](https://dev.to/erick_tmr/promocao-no-trabalho-comeca-aqui-como-a-dopamina-pode-impulsionar-seu-sucesso-2fd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
