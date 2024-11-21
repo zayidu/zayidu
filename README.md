@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an enterprise-level financial data analysis assistant: multi-source data RAG system practice based on LangChain](https://dev.to/jamesli/build-an-enterprise-level-financial-data-analysis-assistant-multi-source-data-rag-system-practice-2c2h)
-- [In React, quickly collect form data into a complex JSON object](https://dev.to/zhangfisher/in-react-quickly-collect-form-data-into-a-complex-json-object-4i5m)
-- [Introduction to Clock IC](https://dev.to/lisleapex/introduction-to-clock-ic-2p2n)
-- [XGBoost Vs Decision Trees](https://dev.to/okellodaniel/xgboost-vs-decision-trees-1gg0)
-- [Migrating from nvm to mise](https://dev.to/hverlin/migrating-from-nvm-to-mise-4mfp)
+- [Level Up Your CSS with Sass: A Game-Changer for Web Developers](https://dev.to/tharindumadubashna/level-up-your-css-with-sass-a-game-changer-for-web-developers-1i10)
+- [how to add Google login remind popup to web application](https://dev.to/fromsian/how-to-add-google-login-remind-popup-to-web-application-4pi8)
+- [Part 2 - Building the Frontend for Screenshot Generation with Nuxt 3](https://dev.to/dailysandbox/part-2-building-the-frontend-for-screenshot-generation-with-nuxt-3-35ng)
+- [Podcast Companion with Real-Time Transcription Using AssemblyAI](https://dev.to/jaykumar_patel_04ada78d7a/podcast-companion-with-real-time-transcription-using-assemblyai-39ij)
+- [Running a JAX Program from Dart Using C++ FFI](https://dev.to/nikl/running-a-jax-program-from-dart-using-c-ffi-45po)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
