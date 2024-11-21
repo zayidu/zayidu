@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-Copilot Progress Report for Jira](https://dev.to/mymb/discover-a-new-frontier-in-project-management-ai-copilot-progress-report-for-jira-hih)
 - [Unlocking the Power of Spanish Benchmarks: Why &quot;Hola&quot; Matters More Than You Think](https://dev.to/agustin_bereciartua/unlocking-the-power-of-spanish-benchmarks-why-hola-matters-more-than-you-think-29l5)
 - [Hello Folks!](https://dev.to/mohamed_rila/hello-folks-1d3c)
 - [2D Game Menu with Godot4](https://dev.to/justaguyfrombr/2d-game-menu-with-godot4-55hj)
 - [How Transformers Revolutionized AI with Attention Mechanisms](https://dev.to/vasanthi_govindaraj_5bfd4/how-transformers-revolutionized-ai-with-attention-mechanisms-2eg)
-- [Jetbrains Rider Endpoints](https://dev.to/ozkanpakdil/jetbrains-rider-endpoints-399o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
