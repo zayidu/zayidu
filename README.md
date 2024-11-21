@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Inheritance with Stimulus Controller](https://dev.to/railsdesigner/inheritance-with-stimulus-controller-g58)
-- [How to troubleshoot issues with Ansible ad-hoc commands?](https://dev.to/labex/how-to-troubleshoot-issues-with-ansible-ad-hoc-commands-36ol)
-- [Implement server side idle timeout logic](https://dev.to/sai_madhavreddy_888838df/implement-server-side-idle-timeout-logic-1p2j)
-- [ECCV 2024 Redux: Tree-of-Life Meets AI](https://dev.to/voxel51/eccv-2024-redux-tree-of-life-meets-ai-90m)
-- [Understanding Closures in JavaScript: From Confusion to Clarity](https://dev.to/paharihacker/understanding-closures-in-javascript-from-confusion-to-clarity-297b)
+- [I&#39;m really happy that we&#39;ll be organizing at least one more frontend challenge before the end of the year.](https://dev.to/jess/im-really-happy-that-well-be-organizing-at-least-one-more-frontend-challenge-before-the-end-of-3oi5)
+- [O que achei do Bootcamp Java com Spring Boot organizado pela Dio e Claro](https://dev.to/samuelralmeida/o-que-achei-do-bootcamp-java-com-spring-boot-organizado-pela-dio-e-claro-4c0p)
+- [These days Nirvana is my go-to focus music. Not sure why that is.](https://dev.to/ben/these-days-nirvana-is-my-go-to-focus-music-not-sure-why-that-is-4epo)
+- [Ferias de empleos virtuales del curso 2024/2025](https://dev.to/iaasgeek/ferias-de-empleos-virtuales-del-curso-20242025-3743)
+- [Self-Aligning Dish in Rust: Command Application](https://dev.to/ian_ndeda/self-aligning-dish-in-rust-command-application-4lnk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
