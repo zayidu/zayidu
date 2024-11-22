@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 10 Top-Rated Talks at NODES 2024](https://dev.to/yolandeonneo4j/the-10-top-rated-talks-at-nodes-2024-3gb7)
-- [Morning Self-Care to Boost Serotonin: 3 Habits for Better Mental Health &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/morning-self-care-to-boost-serotonin-3-habits-for-better-mental-health-bite-size-article-24b6)
-- [CASE STUDY](https://dev.to/praisey/case-study-41lj)
-- [ReadmeGenie is Ready for You! Automating Releases with GitHub Actions](https://dev.to/htsagara/readmegenie-is-ready-for-you-automating-releases-with-github-actions-4fmn)
-- [Step-by-Step Guide: Parent/Child Components and Lifting State](https://dev.to/kelseyroche/step-by-step-guide-parentchild-components-and-lifting-state-17ei)
+- [Meta Tower](https://dev.to/theversan_4adce7651e1fe76/meta-tower-2go3)
+- [React](https://dev.to/alar_evren_adcb8f6e46a8/react-3mm0)
+- [[pt-br] Ranking de tecnologias da programação &lpar;pesquisa de campo TCC&rpar;](https://dev.to/yagoromualdo/pt-br-ranking-de-tecnologias-da-programacao-pesquisa-de-campo-tcc-508m)
+- [ECCV 2024 - Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models](https://dev.to/voxel51/eccv-2024-open-vocabulary-3d-semantic-segmentation-with-text-to-image-diffusion-models-35pm)
+- [My React Journey: Day 5](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-5-l8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
