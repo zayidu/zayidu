@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #210 : React 19 pre-warming, Next.js, TanStack, Expo Workflows, Yoga JSI, Skia, Turbo Haptics, Angular 19...](https://dev.to/sebastienlorber/this-week-in-react-210-react-19-pre-warming-nextjs-tanstack-expo-workflows-yoga-jsi-skia-1m4d)
-- [How to Score Amazon Free Credits: A Comprehensive Guide](https://dev.to/billgist/how-to-score-amazon-free-credits-a-comprehensive-guide-4k8n)
-- [Mastering the Art of Frontend Development 🌟✨ Season 1: The Foundations of UI Development 🚀 Ep 2: Design Principles 101 🎨](https://dev.to/bhuwan71/mastering-the-art-of-frontend-development-season-1-the-foundations-of-ui-development-ep-2-21i7)
-- [RAG based Generative AI using Amazon Bedrock Knowledge Base](https://dev.to/wojciech_piotrka_4898763/rag-based-generative-ai-using-amazon-bedrock-knowledge-base-1h9o)
-- [Ask Any Github Repo Any Question with Claude-Dev](https://dev.to/airabbit/ask-any-github-repo-any-question-with-claude-dev-me9)
+- [Navigating Expectations &lpar;OTB Ep 7: JJ Brenner&rpar;](https://dev.to/codemouse92/navigating-expectations-otb-ep-7-jj-brenner-3jlb)
+- [🖼️ Blockchain NFT, ERC721 From Basics To Production 🚀](https://dev.to/truongpx396/blockchain-nft-erc721-from-basics-to-production-jja)
+- [AI Summit Vancouver 2024: Exploring AI&#39;s Role, Risks, and Transformative Power](https://dev.to/gitguardian/ai-summit-vancouver-2024-exploring-ais-role-risks-and-transformative-power-5e91)
+- [Virtual Machine Setup and WordPress Installation Documentation](https://dev.to/teetoflame/virtual-machine-setup-and-wordpress-installation-documentation-28m7)
+- [Building Secure CI/CD with Terraform on AWS](https://dev.to/aws-builders/building-secure-cicd-with-terraform-on-aws-43lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
