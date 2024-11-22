@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transforming Documentation with Next.js: A Case Study with JetThoughts](https://dev.to/jetthoughts/transforming-documentation-with-nextjs-a-case-study-with-jetthoughts-2c5o)
-- [The beginning Of My New Journey](https://dev.to/chishxd/the-beginning-of-my-new-journey-19d9)
-- [Mastering the N-Queen Problem](https://dev.to/jayasudhi_jit_51ca2325c2/mastering-the-n-queen-problem-njn)
-- [From Scratch to Server: Deploying a Linux Virtual Machine with Nginx on Azure](https://dev.to/under2wenty/from-scratch-to-server-deploying-a-linux-virtual-machine-with-nginx-on-azure-4b58)
-- [&quot;Hamiltonian Paths and Circuits: Solving Real-World Problems with Graph Theory&quot;](https://dev.to/yuvasri_b/hamiltonian-paths-and-circuits-solving-real-world-problems-with-graph-theory-4pap)
+- [The to do list is long today 😭](https://dev.to/jess/the-to-do-list-is-long-today-5hgc)
+- [Harnessing the Power of AWS Security Services](https://dev.to/mohamednasser018/harnessing-the-power-of-aws-security-services-4eaa)
+- [Re-publishing gimme_readme to npm with GitHub Actions](https://dev.to/peterdanwan/re-publishing-gimmereadme-to-npm-with-github-actions-23cd)
+- [Automation and branches- Using YAMLFish to easily manage I18n translations in your project](https://dev.to/intrepidd/using-yamlfish-to-easily-manage-i18n-translations-in-your-project-automation-and-branches-1dhb)
+- [The N-Queens Problem](https://dev.to/vaishnav_pvcsbs_359d16e/the-n-queens-problem-149c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
