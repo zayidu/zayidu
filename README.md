@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementation of ACID transaction in Database](https://dev.to/jaiminbariya/implementation-of-acid-transaction-in-database-44nc)
-- [Python Day - 8 Modules-Meaning and Types,Tasks](https://dev.to/guru_prasanna_01/python-day-8-modules-meaning-and-typestasks-1bfe)
-- [How to Create a SwiftUI Barcode Scanner Project for macOS and iOS](https://dev.to/yushulx/how-to-create-a-swiftui-barcode-scanner-project-for-macos-and-ios-50ib)
-- [How AI is Shaping the Future of Security and Surveillance](https://dev.to/johnsmith244303/how-ai-is-shaping-the-future-of-security-and-surveillance-2f4j)
-- [Understand JavaScript Object References and Copying - Brief Explanation](https://dev.to/rinonten/understand-javascript-object-references-and-copying-brief-explanation-12hl)
+- [Fun Flashcards Game for Kids using AI Speech Recognition](https://dev.to/dchif/fun-flashcards-game-for-kids-using-ai-speech-recognition-4ip7)
+- [How to Convert JSON Data into a Two-dimensional Table and Export It to a CSV #78](https://dev.to/esproc_spl/how-to-convert-json-data-into-a-two-dimensional-table-and-export-it-to-a-csv-78-2p5f)
+- [Building a Casino Game with NPCs from &#39;Lost&#39;: A Codecademy Journey](https://dev.to/digitaldruid10010110/building-a-casino-game-with-npcs-from-lost-a-codecademy-journey-459b)
+- [Inside JavaScript Engines: How Browsers Bring Your Code to Life](https://dev.to/mukhilpadmanabhan/inside-javascript-engines-how-browsers-bring-your-code-to-life-h1)
+- [Building a Dynamic OG Image System: Architecture &amp; Implementation 🏗️](https://dev.to/gleamso/building-a-dynamic-og-image-system-architecture-implementation-30el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
