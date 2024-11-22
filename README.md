@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API Development for AI/ML: Managing Inputs and Outputs](https://dev.to/apidna/api-development-for-aiml-managing-inputs-and-outputs-3b4l)
-- [A Critical Performance Issue Led Me to Discover EchoAPI&#39;s Load Testing](https://dev.to/philip_zhang_854092d88473/a-critical-performance-issue-led-me-to-discover-echoapis-load-testing-28ca)
-- [The N Queens Problem ♟️: A Game-Changer for Scheduling and Resource Optimization](https://dev.to/saumya_m/the-n-queens-problem-a-game-changer-for-scheduling-and-resource-optimization-48pe)
-- [Documentation for Setting Up a Web Server on EC2 &lpar;Ubuntu&rpar;](https://dev.to/teetoflame/documentation-for-setting-up-a-web-server-on-ec2-ubuntu-3a8e)
-- [A Better VS Code Plugin than Thunder Client](https://dev.to/philip_zhang_854092d88473/a-better-vs-code-plugin-than-thunder-client-2aj5)
+- [Transforming Documentation with Next.js: A Case Study with JetThoughts](https://dev.to/jetthoughts/transforming-documentation-with-nextjs-a-case-study-with-jetthoughts-2c5o)
+- [The beginning Of My New Journey](https://dev.to/chishxd/the-beginning-of-my-new-journey-19d9)
+- [Mastering the N-Queen Problem](https://dev.to/jayasudhi_jit_51ca2325c2/mastering-the-n-queen-problem-njn)
+- [From Scratch to Server: Deploying a Linux Virtual Machine with Nginx on Azure](https://dev.to/under2wenty/from-scratch-to-server-deploying-a-linux-virtual-machine-with-nginx-on-azure-4b58)
+- [&quot;Hamiltonian Paths and Circuits: Solving Real-World Problems with Graph Theory&quot;](https://dev.to/yuvasri_b/hamiltonian-paths-and-circuits-solving-real-world-problems-with-graph-theory-4pap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
