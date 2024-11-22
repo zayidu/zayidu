@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Jobs In Artificial Intelligence &lpar;AI&rpar; In 2024](https://dev.to/techdogs_inc/top-5-jobs-in-artificial-intelligence-ai-in-2024-348h)
-- [Free training : Numerical Computing With Rust on CPU](https://dev.to/marielp/free-training-numerical-computing-with-rust-on-cpu-2581)
-- [Trends in Web Development for 2024 and Beyond](https://dev.to/nandha-vistas/trends-in-web-development-for-2024-and-beyond-2dk3)
-- [DynamoDB and the Art of Knowing Your Limits 💥When Database Bites Back 🧛‍♂️](https://dev.to/sebekz/dynamodb-and-the-art-of-knowing-your-limits-when-database-bites-back-532h)
-- [I Built a Free Meta Tag Validator for Developers 🎉](https://dev.to/gleamso/i-built-a-free-meta-tag-validator-for-developers-29dh)
+- [Build a Login and Registration System Using Node.js: A Step-By-Step Guide](https://dev.to/gaganparmar/build-a-login-and-registration-system-using-nodejs-a-step-by-step-guide-1d0p)
+- [KVMPods: Run Docker Compose Apps with True VM Isolation](https://dev.to/sayem314/kvmpods-run-docker-compose-apps-with-true-vm-isolation-143b)
+- [Mastering AWS: A Comprehensive Guide to Linking Services Effectively](https://dev.to/billgist/mastering-aws-a-comprehensive-guide-to-linking-services-effectively-2d2f)
+- [Streamline Event Indexing with Wildcard Indexing](https://dev.to/envio/streamline-event-indexing-with-wildcard-indexing-1kd2)
+- [A Comprehensive Guide to JDBC in Java: How It Works and best practices](https://dev.to/be11amer/a-comprehensive-guide-to-jdbc-in-java-how-it-works-and-best-practices-46eb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
