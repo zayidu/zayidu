@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sophisticated Speech-to-Text Submission Template, The AssemblyAI challenge.](https://dev.to/devmercy/sophisticated-speech-to-text-submission-template-5fkn)
-- [Mastering AWS DevOps with 20 Essential Services](https://dev.to/mohamednasser018/mastering-aws-devops-with-20-essential-services-3pep)
-- [ECCV 2024 - Skeleton Recall Loss for Connectivity Conserving and Resource Efficient Segmentation of Thin Tubular Structures](https://dev.to/voxel51/eccv-2024-skeleton-recall-loss-for-connectivity-conserving-and-resource-efficient-segmentation-of-bij)
-- [Introduction to spaCy: A Powerful NLP Library](https://dev.to/ayas_tech_2b0560ee159e661/introduction-to-spacy-a-powerful-nlp-library-17io)
-- [Git. Universary DB](https://dev.to/junissen9/git-universary-db-2l1j)
+- [Clarifying some Misconceptions about Java](https://dev.to/techdata_academy_0f128ec2/clarifying-some-misconceptions-about-java-28ka)
+- [Lab 9 - NPM Release](https://dev.to/cduarte3/lab-9-npm-release-32mj)
+- [ECCV 2024: High-Efficiency 3D Scene Compression Using Self-Organizing Gaussians](https://dev.to/voxel51/eccv-2024-high-efficiency-3d-scene-compression-using-self-organizing-gaussians-2lmp)
+- [The Top Technology Bridging Web and Mobile: Progressive Web Apps &lpar; PWA &rpar;](https://dev.to/mukhilpadmanabhan/the-top-technology-bridging-web-and-mobile-progressive-web-apps-pwa--29hp)
+- [Everything New in .NET 9: The Ultimate Developer&#39;s Guide](https://dev.to/bytehide/everything-new-in-net-9-the-ultimate-developers-guide-331e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
