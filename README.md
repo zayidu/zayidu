@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java serialization: let&#39;s dig it up](https://dev.to/pvsdev/java-serialization-lets-dig-it-up-35i0)
-- [How to deploy Qwen2.5-Coder-32B-Instruct in the Cloud?](https://dev.to/nodeshiftcloud/how-to-deploy-qwen25-coder-32b-instruct-in-the-cloud-4o9m)
-- [Secure transfer](https://dev.to/junissen9/secure-transfer-o2l)
-- [My AWS Journey](https://dev.to/ijay/my-aws-journey-53l1)
-- [All About Typescript For Javascript Developer](https://dev.to/sallbro/all-about-typescript-for-javascript-developer-3aim)
+- [Why Multiply and Divide by 1𝑒18 in Solidity?](https://dev.to/prince_ad7e7c212e5c5ecf40/why-multiply-and-divide-by-118-in-solidity-53mp)
+- [Sets in CPP 👨‍🎓](https://dev.to/aryan015/sets-in-cpp-1g4j)
+- [What is Post-Quantum Cryptography &lpar;PQC&rpar; Migration and How to Secure Data Against Quantum Threats](https://dev.to/me_jessicahowe/what-is-post-quantum-cryptography-pqc-migration-and-how-to-secure-data-against-quantum-threats-4i51)
+- [The Rise of Secure Messaging Apps: Why They Matter in Today’s Digital World](https://dev.to/rajeshwari/the-rise-of-secure-messaging-apps-why-they-matter-in-todays-digital-world-13g2)
+- [Why Does jQuery or a DOM Method Like `getElementById` Fail to Find an Element?](https://dev.to/sharmaprash/why-does-jquery-or-a-dom-method-like-getelementbyid-fail-to-find-an-element-2a7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
