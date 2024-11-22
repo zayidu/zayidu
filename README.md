@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Multiply and Divide by 1𝑒18 in Solidity?](https://dev.to/prince_ad7e7c212e5c5ecf40/why-multiply-and-divide-by-118-in-solidity-53mp)
-- [Sets in CPP 👨‍🎓](https://dev.to/aryan015/sets-in-cpp-1g4j)
-- [What is Post-Quantum Cryptography &lpar;PQC&rpar; Migration and How to Secure Data Against Quantum Threats](https://dev.to/me_jessicahowe/what-is-post-quantum-cryptography-pqc-migration-and-how-to-secure-data-against-quantum-threats-4i51)
-- [The Rise of Secure Messaging Apps: Why They Matter in Today’s Digital World](https://dev.to/rajeshwari/the-rise-of-secure-messaging-apps-why-they-matter-in-todays-digital-world-13g2)
-- [Why Does jQuery or a DOM Method Like `getElementById` Fail to Find an Element?](https://dev.to/sharmaprash/why-does-jquery-or-a-dom-method-like-getelementbyid-fail-to-find-an-element-2a7b)
+- [Top 5 Jobs In Artificial Intelligence &lpar;AI&rpar; In 2024](https://dev.to/techdogs_inc/top-5-jobs-in-artificial-intelligence-ai-in-2024-348h)
+- [Free training : Numerical Computing With Rust on CPU](https://dev.to/marielp/free-training-numerical-computing-with-rust-on-cpu-2581)
+- [Trends in Web Development for 2024 and Beyond](https://dev.to/nandha-vistas/trends-in-web-development-for-2024-and-beyond-2dk3)
+- [DynamoDB and the Art of Knowing Your Limits 💥When Database Bites Back 🧛‍♂️](https://dev.to/sebekz/dynamodb-and-the-art-of-knowing-your-limits-when-database-bites-back-532h)
+- [I Built a Free Meta Tag Validator for Developers 🎉](https://dev.to/gleamso/i-built-a-free-meta-tag-validator-for-developers-29dh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
