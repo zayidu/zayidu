@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [User Authentication 🔑: Your Ultimate Digital Shield ! 🛡️](https://dev.to/enzo_dechaene/user-authentication-your-ultimate-digital-shield--3j8e)
-- [Build a Fast and Lightweight Rust Vector Search App with Rig &amp; LanceDB](https://dev.to/0thtachi/build-a-fast-and-lightweight-rust-vector-search-app-with-rig-lancedb-57h2)
-- [How to Set Up a PHP Development Environment in VS Code with Docker Desktop A Step-by-Step Guide](https://dev.to/mdarifulhaque/how-to-set-up-a-php-development-environment-in-vs-code-with-docker-desktop-a-step-by-step-guide-12ia)
-- [Recapping ECCV 2024 Redux: Day 3](https://dev.to/voxel51/recapping-eccv-2024-redux-day-3-40c6)
-- [Evaluating &lpar;Historically Optimal&rpar; Fantasy F1 Teams with Linear Programming](https://dev.to/datadr1ven/evaluating-historically-optimal-fantasy-f1-teams-with-linear-programming-295h)
+- [Adding commenting feature to my site which was built on Laravel](https://dev.to/lakm/adding-commenting-feature-to-my-site-which-was-built-on-laravel-5dfa)
+- [Beyond Stream.distinct&lpar;&rpar;](https://dev.to/nilscoding/beyond-streamdistinct-5a05)
+- [My thoughts on the use&lpar;&rpar; hook — A deep dive into React 19’s latest experimental feature](https://dev.to/ifeanyi_aladi/my-thoughts-on-the-use-hook-a-deep-dive-into-react-19s-latest-experimental-feature-4m7k)
+- [WSL run code . to open VSCode in current directory](https://dev.to/01yym/wsl-run-code-to-open-vscode-in-current-directory-43j1)
+- [Neurodiversity and Developers 🧠 --&gt; 💻](https://dev.to/jgdevelops/neurodiversity-in-tech--2i0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
