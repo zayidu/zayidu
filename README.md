@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clarifying some Misconceptions about Java](https://dev.to/techdata_academy_0f128ec2/clarifying-some-misconceptions-about-java-28ka)
-- [Lab 9 - NPM Release](https://dev.to/cduarte3/lab-9-npm-release-32mj)
-- [ECCV 2024: High-Efficiency 3D Scene Compression Using Self-Organizing Gaussians](https://dev.to/voxel51/eccv-2024-high-efficiency-3d-scene-compression-using-self-organizing-gaussians-2lmp)
-- [The Top Technology Bridging Web and Mobile: Progressive Web Apps &lpar; PWA &rpar;](https://dev.to/mukhilpadmanabhan/the-top-technology-bridging-web-and-mobile-progressive-web-apps-pwa--29hp)
-- [Everything New in .NET 9: The Ultimate Developer&#39;s Guide](https://dev.to/bytehide/everything-new-in-net-9-the-ultimate-developers-guide-331e)
+- [The 10 Top-Rated Talks at NODES 2024](https://dev.to/yolandeonneo4j/the-10-top-rated-talks-at-nodes-2024-3gb7)
+- [Morning Self-Care to Boost Serotonin: 3 Habits for Better Mental Health &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/morning-self-care-to-boost-serotonin-3-habits-for-better-mental-health-bite-size-article-24b6)
+- [CASE STUDY](https://dev.to/praisey/case-study-41lj)
+- [ReadmeGenie is Ready for You! Automating Releases with GitHub Actions](https://dev.to/htsagara/readmegenie-is-ready-for-you-automating-releases-with-github-actions-4fmn)
+- [Step-by-Step Guide: Parent/Child Components and Lifting State](https://dev.to/kelseyroche/step-by-step-guide-parentchild-components-and-lifting-state-17ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
