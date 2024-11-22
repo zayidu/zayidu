@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding commenting feature to my site which was built on Laravel](https://dev.to/lakm/adding-commenting-feature-to-my-site-which-was-built-on-laravel-5dfa)
-- [Beyond Stream.distinct&lpar;&rpar;](https://dev.to/nilscoding/beyond-streamdistinct-5a05)
-- [My thoughts on the use&lpar;&rpar; hook — A deep dive into React 19’s latest experimental feature](https://dev.to/ifeanyi_aladi/my-thoughts-on-the-use-hook-a-deep-dive-into-react-19s-latest-experimental-feature-4m7k)
-- [WSL run code . to open VSCode in current directory](https://dev.to/01yym/wsl-run-code-to-open-vscode-in-current-directory-43j1)
-- [Neurodiversity and Developers 🧠 --&gt; 💻](https://dev.to/jgdevelops/neurodiversity-in-tech--2i0o)
+- [#102 — Deduplication of Simple Data — Keeping the Original Order](https://dev.to/judith677/102-deduplication-of-simple-data-keeping-the-original-order-4ipc)
+- [Essential Writing Tips for Dev.to Community 👩🏼‍💻](https://dev.to/hanzla-baig/essential-writing-tips-for-devto-community-f2e)
+- [How to detect code language in browser](https://dev.to/ray-d-song/how-to-detect-code-language-in-browser-424h)
+- [ArkTS Memory Snapshots and Memory Leak Debugging](https://dev.to/xun_wang_6384a403f9817c2/arkts-memory-snapshots-and-memory-leak-debugging-1kn6)
+- [ArkTS 的内存快照与内存泄露调试](https://dev.to/xun_wang_6384a403f9817c2/arkts-de-nei-cun-kuai-zhao-yu-nei-cun-xie-lu-diao-shi-321m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
