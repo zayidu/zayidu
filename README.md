@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#102 — Deduplication of Simple Data — Keeping the Original Order](https://dev.to/judith677/102-deduplication-of-simple-data-keeping-the-original-order-4ipc)
-- [Essential Writing Tips for Dev.to Community 👩🏼‍💻](https://dev.to/hanzla-baig/essential-writing-tips-for-devto-community-f2e)
-- [How to detect code language in browser](https://dev.to/ray-d-song/how-to-detect-code-language-in-browser-424h)
-- [ArkTS Memory Snapshots and Memory Leak Debugging](https://dev.to/xun_wang_6384a403f9817c2/arkts-memory-snapshots-and-memory-leak-debugging-1kn6)
-- [ArkTS 的内存快照与内存泄露调试](https://dev.to/xun_wang_6384a403f9817c2/arkts-de-nei-cun-kuai-zhao-yu-nei-cun-xie-lu-diao-shi-321m)
+- [Sprite Animations Using Steps in CSS](https://dev.to/softheartengineer/sprite-animations-using-steps-in-css-4joh)
+- [Drawing Taiwan&#39;s Flag with CSS](https://dev.to/kevinluo201/drawing-taiwans-flag-with-css-317a)
+- [Unlock Innovation with Neardi’s Rockchip Development Boards: The Ultimate Choice for Embedded Systems](https://dev.to/neardi_41f9bfcb826b280976/unlock-innovation-with-neardis-rockchip-development-boards-the-ultimate-choice-for-embedded-1mmd)
+- [Idempotency in DynamoDB](https://dev.to/aws-builders/idempotency-in-dynamodb-4leh)
+- [Introducing React Page Tracker: Simplify Navigation Tracking](https://dev.to/ryan-chou/introducing-react-page-tracker-simplify-navigation-tracking-4n0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
