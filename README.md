@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Login and Registration System Using Node.js: A Step-By-Step Guide](https://dev.to/gaganparmar/build-a-login-and-registration-system-using-nodejs-a-step-by-step-guide-1d0p)
-- [KVMPods: Run Docker Compose Apps with True VM Isolation](https://dev.to/sayem314/kvmpods-run-docker-compose-apps-with-true-vm-isolation-143b)
-- [Mastering AWS: A Comprehensive Guide to Linking Services Effectively](https://dev.to/billgist/mastering-aws-a-comprehensive-guide-to-linking-services-effectively-2d2f)
-- [Streamline Event Indexing with Wildcard Indexing](https://dev.to/envio/streamline-event-indexing-with-wildcard-indexing-1kd2)
-- [A Comprehensive Guide to JDBC in Java: How It Works and best practices](https://dev.to/be11amer/a-comprehensive-guide-to-jdbc-in-java-how-it-works-and-best-practices-46eb)
+- [This Week In React #210 : React 19 pre-warming, Next.js, TanStack, Expo Workflows, Yoga JSI, Skia, Turbo Haptics, Angular 19...](https://dev.to/sebastienlorber/this-week-in-react-210-react-19-pre-warming-nextjs-tanstack-expo-workflows-yoga-jsi-skia-1m4d)
+- [How to Score Amazon Free Credits: A Comprehensive Guide](https://dev.to/billgist/how-to-score-amazon-free-credits-a-comprehensive-guide-4k8n)
+- [Mastering the Art of Frontend Development 🌟✨ Season 1: The Foundations of UI Development 🚀 Ep 2: Design Principles 101 🎨](https://dev.to/bhuwan71/mastering-the-art-of-frontend-development-season-1-the-foundations-of-ui-development-ep-2-21i7)
+- [RAG based Generative AI using Amazon Bedrock Knowledge Base](https://dev.to/wojciech_piotrka_4898763/rag-based-generative-ai-using-amazon-bedrock-knowledge-base-1h9o)
+- [Ask Any Github Repo Any Question with Claude-Dev](https://dev.to/airabbit/ask-any-github-repo-any-question-with-claude-dev-me9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
