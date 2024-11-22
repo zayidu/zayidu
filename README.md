@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse engineering GraphQL persistedQuery extension](https://dev.to/crawlee/reverse-engineering-graphql-persistedquery-extension-4o9j)
-- [Goodbye Exceptions! Mastering Error Handling in JavaScript with the Result Pattern](https://dev.to/gautam_kumar_d3daad738680/goodbye-exceptions-mastering-error-handling-in-javascript-with-the-result-pattern-26kb)
-- [Understanding Upwork&#39;s Security Systems: A Deep Technical Dive](https://dev.to/jason_smith_c5f0dd9d2c5c9/understanding-upworks-security-systems-a-deep-technical-dive-59p2)
-- [Understanding REST vs. GraphQL: Which One Should You Choose?](https://dev.to/ayusharpcoder/understanding-rest-vs-graphql-which-one-should-you-choose-5bm0)
-- [Introducing Myself to the Dev.to Community 🚀](https://dev.to/web_dev-usman/introducing-myself-to-the-devto-community-38il)
+- [Java serialization: let&#39;s dig it up](https://dev.to/pvsdev/java-serialization-lets-dig-it-up-35i0)
+- [How to deploy Qwen2.5-Coder-32B-Instruct in the Cloud?](https://dev.to/nodeshiftcloud/how-to-deploy-qwen25-coder-32b-instruct-in-the-cloud-4o9m)
+- [Secure transfer](https://dev.to/junissen9/secure-transfer-o2l)
+- [My AWS Journey](https://dev.to/ijay/my-aws-journey-53l1)
+- [All About Typescript For Javascript Developer](https://dev.to/sallbro/all-about-typescript-for-javascript-developer-3aim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
