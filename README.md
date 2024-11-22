@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Web Development YouTube Channels to Kickstart Your Learning in 2024 🚀](https://dev.to/abhishek_patel_14174bfd97/top-web-development-youtube-channels-to-kickstart-your-learning-in-2024-3o51)
-- [react day 1](https://dev.to/timthoi/react-day-1-49ih)
-- [Minimally intrusive instrumentation of embedded system C/C++ code](https://dev.to/bpremzel/minimally-intrusive-instrumentation-of-embedded-system-cc-code-1o3b)
-- [Spext - a web app that helps international students study better](https://dev.to/ducdev_29/spext-a-web-app-that-helps-international-students-study-better-321h)
-- [Main API Architecture Styles](https://dev.to/vipulkumarsviit/main-api-architecture-styles-38hk)
+- [Implementation of ACID transaction in Database](https://dev.to/jaiminbariya/implementation-of-acid-transaction-in-database-44nc)
+- [Python Day - 8 Modules-Meaning and Types,Tasks](https://dev.to/guru_prasanna_01/python-day-8-modules-meaning-and-typestasks-1bfe)
+- [How to Create a SwiftUI Barcode Scanner Project for macOS and iOS](https://dev.to/yushulx/how-to-create-a-swiftui-barcode-scanner-project-for-macos-and-ios-50ib)
+- [How AI is Shaping the Future of Security and Surveillance](https://dev.to/johnsmith244303/how-ai-is-shaping-the-future-of-security-and-surveillance-2f4j)
+- [Understand JavaScript Object References and Copying - Brief Explanation](https://dev.to/rinonten/understand-javascript-object-references-and-copying-brief-explanation-12hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
