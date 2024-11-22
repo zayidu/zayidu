@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Watch 4](https://dev.to/56_kode/tech-watch-4-2cah)
-- [JavaScript RPG Document: Exploration Feature - Level 1](https://dev.to/farishan/javascript-rpg-document-exploration-feature-level-1-46h)
-- [The Pocket Guide to Internal Developer Platform](https://dev.to/gravitycloud/the-pocket-guide-to-internal-developer-platform-3kcg)
-- [Hidden Gems of the Fedify CLI: Tips &amp; Tricks You Might Have Missed](https://dev.to/hongminhee/hidden-gems-of-the-fedify-cli-tips-tricks-you-might-have-missed-54af)
-- [The Role of Permutations and Combinations in Algorithm Design](https://dev.to/kishor_scsbs/the-role-of-permutations-and-combinations-in-algorithm-design-3nf7)
+- [I’m quitting… the game 🤧](https://dev.to/abdibrokhim/im-quitting-the-game-3hmp)
+- [9 GitHub Repositories to Find a Job or Internships in Tech for 2025 📚🔥](https://dev.to/madza/9-github-repositories-to-find-a-job-or-internships-in-tech-for-2025-194m)
+- [🌟 EchoCraft: Revolutionizing Speech into Powerful Content! 🚀](https://dev.to/aniruddhadak/echocraft-revolutionizing-speech-into-powerful-content-d35)
+- [The Benefits of Progressive Web Apps &lpar;PWA&rpar;](https://dev.to/greg_kajewski_802433755cb/the-benefits-of-progressive-web-apps-pwa-bdh)
+- [ESSENTIAL COMMANDS - GIT/GIT HUB](https://dev.to/emmanuel_essien_ed2507db6/essential-commands-gitgit-hub-5g80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
