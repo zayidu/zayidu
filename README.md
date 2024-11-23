@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Cost-Effective Valheim Server on Azure with Serverless Discord Bot Integration](https://dev.to/rdalbuquerque/building-a-cost-effective-valheim-server-on-azure-with-serverless-discord-bot-integration-2jco)
-- [From Classroom Attention to Transformer: A Journey Through Language Learning and AI Evolution](https://dev.to/sreeni5018/from-classroom-attention-to-transformer-a-journey-through-language-learning-and-ai-evolution-77o)
-- [Product of Array Elements Except Self in PHP](https://dev.to/sharminshanta/product-of-array-elements-except-self-in-php-4e55)
-- [A Complete Guide to Software Development Frameworks for Enterprise Applications](https://dev.to/elixenttech/a-complete-guide-to-software-development-frameworks-for-enterprise-applications-c9m)
-- [Docker Series for Beginners - 01](https://dev.to/ankur0904/docker-series-for-beginners-01-33n6)
+- [Deploying a Node.js Application on AWS](https://dev.to/blacorpheus/deploying-a-nodejs-application-on-aws-39dd)
+- [Color Theory: Playing with Colors Programmatically](https://dev.to/ayybbbt/color-theory-playing-with-colors-programmatically-h96)
+- [JavaScript IIFE: A Complete Guide to Immediately Invoked Function Expressions](https://dev.to/onurhandtr/javascript-iife-a-complete-guide-to-immediately-invoked-function-expressions-3ghd)
+- [Why is Hamiltonian graph?](https://dev.to/junissen9/why-is-hamiltonian-graph-598b)
+- [Understanding Node.js: A Complete Guide](https://dev.to/engrsakib/understanding-nodejs-a-complete-guide-2ic2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
