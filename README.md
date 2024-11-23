@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3 quick tips for your upcoming system design interview](https://dev.to/s3an_0vert0n/3-quick-tips-for-your-upcoming-system-design-interview-3530)
-- [Elon Musk’s Tweets, by Grok ?](https://dev.to/emunael_lator_081ba8962f8/elon-musks-tweets-by-grok--2kab)
-- [Tracking Furthest Enemy in a Tower Defence Game using Max Heap](https://dev.to/vlad_ogir_76f82ec55672762/tracking-furthest-enemy-in-a-tower-defence-game-using-max-heap-33c6)
-- [Smoother Fonts for Alacritty on macOS](https://dev.to/eparreno/smoother-fonts-for-alacritty-on-macos-3b4f)
-- [Mystery of Closures in JavaScript!](https://dev.to/sudhil/mystery-of-closures-in-javascript-3f10)
+- [Released Result::Simple - a dead simple perl-ish Result like F#, Rust, Go](https://dev.to/kfly8/released-resultsimple-a-dead-simple-perl-ish-result-like-f-rust-go-2hl2)
+- [Let&#39;s build an app](https://dev.to/rmsilva1973/lets-build-an-app-328k)
+- [The Power of Modular Code: A 1-Minute Guide](https://dev.to/itamartati/the-power-of-modular-code-a-1-minute-guide-3lb2)
+- [Understanding Asynchronous Programming: A 1-Minute Guide](https://dev.to/itamartati/understanding-asynchronous-programming-a-1-minute-guide-1116)
+- [Understanding API Rate Limiting: A 1-Minute Guide](https://dev.to/itamartati/understanding-api-rate-limiting-a-1-minute-guide-j69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
