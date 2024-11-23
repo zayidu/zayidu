@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Penetration Testing Guidelines Safeguarding Your Cloud Environment](https://dev.to/ikoh_sylva/aws-penetration-testing-guidelines-safeguarding-your-cloud-environment-14c1)
-- [Integrating OpenCV with Visual Studio C++](https://dev.to/tuttelikz/integrating-opencv-with-visual-studio-c-3dkm)
-- [💡5 tools to boost your developer productivity](https://dev.to/itdevus/5-tools-to-boost-your-developer-productivity-20ah)
-- [Unlocking Agile Success: The Retrospective Agile Template You Need](https://dev.to/devactivity-app/unlocking-agile-success-the-retrospective-agile-template-you-need-2g85)
-- [Go dependency injection with Uber Fx and Echo](https://dev.to/ishankhan21/go-dependency-injection-with-uber-fx-and-echo-5cl1)
+- [How to Create a RESTful API with Node.js: A Step-by-Step Guide](https://dev.to/abhinowww/how-to-create-a-restful-api-with-nodejs-a-step-by-step-guide-47dj)
+- [Cloud-Native Applications: Best Practices for Building in the Cloud](https://dev.to/okoye_ndidiamaka_5e3b7d30/cloud-native-applications-best-practices-for-building-in-the-cloud-1d2m)
+- [Mining of Massive Datasets: The Ultimate Guide for Data Science Enthusiasts](https://dev.to/getvm/mining-of-massive-datasets-the-ultimate-guide-for-data-science-enthusiasts-1ccc)
+- [Code smarter, not harder - here&#39;s my actual AI toolset that works.](https://dev.to/themuneebh/code-smarter-not-harder-heres-my-actual-ai-toolset-that-works-5goe)
+- [Express.js Applications with Middleware](https://dev.to/thenamerahulkr/expressjs-applications-with-middleware-4oio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
