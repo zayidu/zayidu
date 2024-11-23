@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Plan for Building an E-Commerce Website](https://dev.to/msnmongare/comprehensive-plan-for-building-an-e-commerce-website-3deo)
-- [🇩🇪 PHP 8.4: Was ist neu?](https://dev.to/informatik-ninja/php-84-was-ist-neu-3f0p)
-- [Scaling AI Computing with Ray: Large-Scale Implementation and Optimization](https://dev.to/conquerym/scaling-ai-computing-with-ray-large-scale-implementation-and-optimization-2i79)
-- [The Code of Life: Lessons Beyond the Screen](https://dev.to/high_octane/the-code-of-life-lessons-beyond-the-screen-4nii)
-- [Learn how to create an animated toggle with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-an-animated-toggle-with-tailwind-css-2eig)
+- [AWS Penetration Testing Guidelines Safeguarding Your Cloud Environment](https://dev.to/ikoh_sylva/aws-penetration-testing-guidelines-safeguarding-your-cloud-environment-14c1)
+- [Integrating OpenCV with Visual Studio C++](https://dev.to/tuttelikz/integrating-opencv-with-visual-studio-c-3dkm)
+- [💡5 tools to boost your developer productivity](https://dev.to/itdevus/5-tools-to-boost-your-developer-productivity-20ah)
+- [Unlocking Agile Success: The Retrospective Agile Template You Need](https://dev.to/devactivity-app/unlocking-agile-success-the-retrospective-agile-template-you-need-2g85)
+- [Go dependency injection with Uber Fx and Echo](https://dev.to/ishankhan21/go-dependency-injection-with-uber-fx-and-echo-5cl1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
