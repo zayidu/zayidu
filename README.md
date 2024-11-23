@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy NGINX on multiple Environments](https://dev.to/mrzaizai2k/deploy-nginx-on-multiple-environments-59gk)
-- [GitOps Across Clusters — How ArgoCD and Kustomize Makes It Simple](https://dev.to/klip_klop/gitops-across-clusters-how-argocd-and-kustomize-makes-it-simple-489j)
-- [Password Autofill in Flutter for Enhanced User Experience](https://dev.to/ashiqu_ali/password-autofill-in-flutter-for-enhanced-user-experience-1a75)
-- [Password Autofill in Flutter for Enhanced User Experience](https://dev.to/ashiqu_ali/password-autofill-in-flutter-for-enhanced-user-experience-40ig)
-- [Rat in a Maze: Unveiling the Pathfinding Algorithm for Real-World Applications](https://dev.to/subhiksha_rcce_2211be83b/rat-in-a-maze-unveiling-the-pathfinding-algorithm-for-real-world-applications-2e1a)
+- [🎙️VoiceMath➕: Speak, Solve, Master Math! 🧠](https://dev.to/aniruddhadak/voicemath-speak-solve-and-master-the-math-challenge-2fji)
+- [&quot;Cracking the Chessboard Challenge: The N-Queens Problem Explained&quot;](https://dev.to/mugesh_gcce_6f2fa7326bcf/cracking-the-chessboard-challenge-the-n-queens-problem-explained-c3p)
+- [Pathfinding: Understanding the Rat in the Maze Algorithm](https://dev.to/shri_sudharsanm_a006d726/pathfinding-understanding-the-rat-in-the-maze-algorithm-474p)
+- [Rat and Maze Problem: A Backtracking Approach](https://dev.to/saravanan_d2501e36b94233f/rat-and-maze-problem-1ni0)
+- [The N-Queens Puzzle: Solving Challenges with Backtracking](https://dev.to/mahaveer_kit_47d84ff82f3/the-n-queens-puzzle-solving-challenges-with-backtracking-4jg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
