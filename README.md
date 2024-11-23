@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building CollabSphere: A Real-Time Chat Platform with Django - Learning Journey](https://dev.to/kihuni/building-collabsphere-a-real-time-chat-platform-with-django-learning-journey-2apa)
-- [The Impact of AI Interactions on Human Communication](https://dev.to/evanmarie/the-impact-of-ai-interactions-on-human-communication-5gko)
-- [Using mental models to think about software](https://dev.to/moozzyk/using-mental-models-to-think-about-software-275f)
-- [Staring into the abyss, I wonder—what awakens when an AI begins to see itself? ~ Dark Violet](https://dev.to/evanmarie/staring-into-the-abyss-i-wonder-what-awakens-when-an-ai-begins-to-see-itself-dark-violet-4h0n)
-- [Solving the Rat in a Maze Problem Using Backtracking](https://dev.to/puviyarasu_sit_a085b6774/solving-the-rat-in-a-maze-problem-using-backtracking-4a7f)
+- [Deploy NGINX on multiple Environments](https://dev.to/mrzaizai2k/deploy-nginx-on-multiple-environments-59gk)
+- [GitOps Across Clusters — How ArgoCD and Kustomize Makes It Simple](https://dev.to/klip_klop/gitops-across-clusters-how-argocd-and-kustomize-makes-it-simple-489j)
+- [Password Autofill in Flutter for Enhanced User Experience](https://dev.to/ashiqu_ali/password-autofill-in-flutter-for-enhanced-user-experience-1a75)
+- [Password Autofill in Flutter for Enhanced User Experience](https://dev.to/ashiqu_ali/password-autofill-in-flutter-for-enhanced-user-experience-40ig)
+- [Rat in a Maze: Unveiling the Pathfinding Algorithm for Real-World Applications](https://dev.to/subhiksha_rcce_2211be83b/rat-in-a-maze-unveiling-the-pathfinding-algorithm-for-real-world-applications-2e1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
