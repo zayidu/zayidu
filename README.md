@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to solve Missing Signed-By in the sources.list&lpar;5&rpar; entry for Ubuntu after upgrading to Ubuntu 24.04](https://dev.to/lennylam/how-to-solve-missing-signed-by-in-the-sourceslist5-entry-for-ubuntu-after-upgrading-to-ubuntu-48bf)
-- [Building Testable CloudFront Functions with TypeScript](https://dev.to/ohanhaliuk/building-testable-cloudfront-functions-with-typescript-233h)
-- [Boost Your Sales Calls with Free AI-Powered Analysis &amp; Practice](https://dev.to/programmerraja/boost-your-sales-calls-with-free-ai-powered-analysis-practice-40jn)
-- [Being a programmer sucks](https://dev.to/wsadev01/being-a-programmer-sucks-3fnp)
-- [Unlocking the Full Potential of Office 365 Student: A Guide for Students](https://dev.to/hasanul_banna_himel/unlocking-the-full-potential-of-office-365-student-a-guide-for-students-6h7)
+- [EchoSense: Your Pocket-Sized Companion for Smarter Meetings](https://dev.to/milewski/echosense-your-pocket-sized-companion-for-smarter-meetings-3i71)
+- [How to build a dynamic website with Next.js 15 App Router, React 19, Storyblok, and Bun &lpar;+ Typescript&rpar;](https://dev.to/robertobutti/how-to-build-a-dynamic-website-with-nextjs-15-app-router-react-19-storyblok-and-bun--2972)
+- [Playwright: GraphQL Requests in A Utility for Efficient Testing](https://dev.to/matan3sh/playwright-graphql-requests-in-a-utility-for-efficient-testing-4i0k)
+- [Building a smarter RSS feed for my newsletter subscriptions](https://dev.to/aws-builders/building-a-smarter-rss-feed-for-my-newsletter-subscriptions-4nf7)
+- [2NTECH-PROJE](https://dev.to/tahayagizguler/2ntech-proje-1ka6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
