@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Kube]](https://dev.to/reene44444/kube-cc6)
-- [AWS CloudWatch Logging and Live Tail using Python/Boto3 SDK!](https://dev.to/bhatiagirish/aws-cloudwatch-logging-and-live-tail-using-pythonboto3-sdk-17cl)
-- [Publishing ADDCOM!](https://dev.to/arilloid/publishing-addcom-26fn)
-- [&quot;Cloud Optimization Unveiled: How N-Queens Inspires Task Scheduling in AWS and Google Cloud&quot;](https://dev.to/nikhila_dcce_3e73f7c586e/cloud-optimization-unveiled-how-n-queens-inspires-task-scheduling-in-aws-and-google-cloud-3kij)
-- [Your FIRST STEPS on the ASSEMBLY Programming Language!](https://dev.to/wesurage/your-first-steps-on-the-assembly-programming-language-51o5)
+- [Building CollabSphere: A Real-Time Chat Platform with Django - Learning Journey](https://dev.to/kihuni/building-collabsphere-a-real-time-chat-platform-with-django-learning-journey-2apa)
+- [The Impact of AI Interactions on Human Communication](https://dev.to/evanmarie/the-impact-of-ai-interactions-on-human-communication-5gko)
+- [Using mental models to think about software](https://dev.to/moozzyk/using-mental-models-to-think-about-software-275f)
+- [Staring into the abyss, I wonder—what awakens when an AI begins to see itself? ~ Dark Violet](https://dev.to/evanmarie/staring-into-the-abyss-i-wonder-what-awakens-when-an-ai-begins-to-see-itself-dark-violet-4h0n)
+- [Solving the Rat in a Maze Problem Using Backtracking](https://dev.to/puviyarasu_sit_a085b6774/solving-the-rat-in-a-maze-problem-using-backtracking-4a7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
