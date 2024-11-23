@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Node.js Application on AWS](https://dev.to/blacorpheus/deploying-a-nodejs-application-on-aws-39dd)
-- [Color Theory: Playing with Colors Programmatically](https://dev.to/ayybbbt/color-theory-playing-with-colors-programmatically-h96)
-- [JavaScript IIFE: A Complete Guide to Immediately Invoked Function Expressions](https://dev.to/onurhandtr/javascript-iife-a-complete-guide-to-immediately-invoked-function-expressions-3ghd)
-- [Why is Hamiltonian graph?](https://dev.to/junissen9/why-is-hamiltonian-graph-598b)
-- [Understanding Node.js: A Complete Guide](https://dev.to/engrsakib/understanding-nodejs-a-complete-guide-2ic2)
+- [HTTP/2 streaming and you, HTTP/3 streaming and wheee!](https://dev.to/stevenacoffman/http2-streaming-and-you-http3-streaming-and-wheee-23hb)
+- [Cybersecurity Basics: A Beginner&#39;s Guide](https://dev.to/wvnuola/cybersecurity-basics-a-beginners-guide-59pf)
+- [Criando o DevLinks: Um Projeto Simples para Alternar Idiomas e Temas na Web](https://dev.to/gelzieny/criando-o-devlinks-um-projeto-simples-para-alternar-idiomas-e-temas-na-web-3gh0)
+- [React Component Communication: Parent-Child and Child-Parent Interactions](https://dev.to/sandheep_kumarpatro_1c48/react-component-communication-parent-child-and-child-parent-interactions-38og)
+- [Access 600+ CSS Animations with Gradienty!](https://dev.to/thisisroushan/access-600-css-animations-with-gradienty-1g09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
