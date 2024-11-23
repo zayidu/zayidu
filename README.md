@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎙️VoiceMath➕: Speak, Solve, Master Math! 🧠](https://dev.to/aniruddhadak/voicemath-speak-solve-and-master-the-math-challenge-2fji)
-- [&quot;Cracking the Chessboard Challenge: The N-Queens Problem Explained&quot;](https://dev.to/mugesh_gcce_6f2fa7326bcf/cracking-the-chessboard-challenge-the-n-queens-problem-explained-c3p)
-- [Pathfinding: Understanding the Rat in the Maze Algorithm](https://dev.to/shri_sudharsanm_a006d726/pathfinding-understanding-the-rat-in-the-maze-algorithm-474p)
-- [Rat and Maze Problem: A Backtracking Approach](https://dev.to/saravanan_d2501e36b94233f/rat-and-maze-problem-1ni0)
-- [The N-Queens Puzzle: Solving Challenges with Backtracking](https://dev.to/mahaveer_kit_47d84ff82f3/the-n-queens-puzzle-solving-challenges-with-backtracking-4jg9)
+- [The RAT Algorithm Finds Its Way](https://dev.to/chandra_priyan_73c13146f6/the-rat-algorithm-finds-its-way-4j60)
+- [Simple note-taking extension for your browser](https://dev.to/luciandev/simple-note-taking-extension-for-your-browser-4f1n)
+- [I built a side project to make it easier to find &amp; organize private games.](https://dev.to/berto6544collab/i-built-a-side-project-to-make-it-easier-to-find-organize-private-games-26fc)
+- [Choosing npm for Release Management](https://dev.to/vinhyan/choosing-npm-for-release-management-5047)
+- [I am a 17yrs old student learning coding,I know HTML and which should be my next lesson](https://dev.to/kinene_ibrahim/i-am-a-17yrs-old-student-learning-codingi-know-html-and-which-should-be-my-next-lesson-ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
