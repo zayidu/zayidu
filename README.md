@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [EchoSense: Your Pocket-Sized Companion for Smarter Meetings](https://dev.to/milewski/echosense-your-pocket-sized-companion-for-smarter-meetings-3i71)
-- [How to build a dynamic website with Next.js 15 App Router, React 19, Storyblok, and Bun &lpar;+ Typescript&rpar;](https://dev.to/robertobutti/how-to-build-a-dynamic-website-with-nextjs-15-app-router-react-19-storyblok-and-bun--2972)
-- [Playwright: GraphQL Requests in A Utility for Efficient Testing](https://dev.to/matan3sh/playwright-graphql-requests-in-a-utility-for-efficient-testing-4i0k)
-- [Building a smarter RSS feed for my newsletter subscriptions](https://dev.to/aws-builders/building-a-smarter-rss-feed-for-my-newsletter-subscriptions-4nf7)
-- [2NTECH-PROJE](https://dev.to/tahayagizguler/2ntech-proje-1ka6)
+- [Building a Cost-Effective Valheim Server on Azure with Serverless Discord Bot Integration](https://dev.to/rdalbuquerque/building-a-cost-effective-valheim-server-on-azure-with-serverless-discord-bot-integration-2jco)
+- [From Classroom Attention to Transformer: A Journey Through Language Learning and AI Evolution](https://dev.to/sreeni5018/from-classroom-attention-to-transformer-a-journey-through-language-learning-and-ai-evolution-77o)
+- [Product of Array Elements Except Self in PHP](https://dev.to/sharminshanta/product-of-array-elements-except-self-in-php-4e55)
+- [A Complete Guide to Software Development Frameworks for Enterprise Applications](https://dev.to/elixenttech/a-complete-guide-to-software-development-frameworks-for-enterprise-applications-c9m)
+- [Docker Series for Beginners - 01](https://dev.to/ankur0904/docker-series-for-beginners-01-33n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
