@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The RAT Algorithm Finds Its Way](https://dev.to/chandra_priyan_73c13146f6/the-rat-algorithm-finds-its-way-4j60)
-- [Simple note-taking extension for your browser](https://dev.to/luciandev/simple-note-taking-extension-for-your-browser-4f1n)
-- [I built a side project to make it easier to find &amp; organize private games.](https://dev.to/berto6544collab/i-built-a-side-project-to-make-it-easier-to-find-organize-private-games-26fc)
-- [Choosing npm for Release Management](https://dev.to/vinhyan/choosing-npm-for-release-management-5047)
-- [I am a 17yrs old student learning coding,I know HTML and which should be my next lesson](https://dev.to/kinene_ibrahim/i-am-a-17yrs-old-student-learning-codingi-know-html-and-which-should-be-my-next-lesson-ni)
+- [Mastering JavaScript Event Delegation](https://dev.to/shafayeat/mastering-javascript-event-delegation-3k2k)
+- [Crafting Secure Cryptographic Passwords Using Backtracking](https://dev.to/karpagayalini_r/crafting-secure-cryptographic-passwords-using-backtracking-69k)
+- [Backtracking: The Ultimate Problem-Solving Strategy Behind Sudoku and Beyond](https://dev.to/kavika_scce_84a6025f5423/backtracking-the-ultimate-problem-solving-strategy-behind-sudoku-and-beyond-1dfd)
+- [npm vs npx: Choosing the Right Tool for the Job](https://dev.to/nozibul_islam_113b1d5334f/npm-vs-npx-choosing-the-right-tool-for-the-job-2ndo)
+- [Backtracking in Sudoku Solvers](https://dev.to/sri_sakthi_b/backtracking-in-sudoku-solvers-3n7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
