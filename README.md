@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SMTP Relay Service Providers- An Essential Guide for Businesses](https://dev.to/brettjhonson01/smtp-relay-service-providers-an-essential-guide-for-businesses-2ikh)
-- [16 Soruda Blockchain Güvenliği Nedir Ve Nasıl Sağlanır? 🔥](https://dev.to/kriptoskoptr/16-soruda-blockchain-guvenligi-nedir-ve-nasil-saglanir-41l3)
-- [TS - Partial 用法及解析](https://dev.to/fakestandard/ts-partial-yong-fa-ji-jie-xi-55bh)
-- [Implementing Gmail API with Cloudflare Workers - Part 3: Implementation](https://dev.to/roboword/implementing-gmail-api-with-cloudflare-workers-part-3-implementation-199f)
-- [Thedy Johanis: A Visionary Leader Rising Above Challenges](https://dev.to/thedyjohanis/thedy-johanis-a-visionary-leader-rising-above-challenges-4oih)
+- [Comprehensive Plan for Building an E-Commerce Website](https://dev.to/msnmongare/comprehensive-plan-for-building-an-e-commerce-website-3deo)
+- [🇩🇪 PHP 8.4: Was ist neu?](https://dev.to/informatik-ninja/php-84-was-ist-neu-3f0p)
+- [Scaling AI Computing with Ray: Large-Scale Implementation and Optimization](https://dev.to/conquerym/scaling-ai-computing-with-ray-large-scale-implementation-and-optimization-2i79)
+- [The Code of Life: Lessons Beyond the Screen](https://dev.to/high_octane/the-code-of-life-lessons-beyond-the-screen-4nii)
+- [Learn how to create an animated toggle with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-an-animated-toggle-with-tailwind-css-2eig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
