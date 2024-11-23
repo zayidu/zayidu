@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JavaScript Event Delegation](https://dev.to/shafayeat/mastering-javascript-event-delegation-3k2k)
-- [Crafting Secure Cryptographic Passwords Using Backtracking](https://dev.to/karpagayalini_r/crafting-secure-cryptographic-passwords-using-backtracking-69k)
-- [Backtracking: The Ultimate Problem-Solving Strategy Behind Sudoku and Beyond](https://dev.to/kavika_scce_84a6025f5423/backtracking-the-ultimate-problem-solving-strategy-behind-sudoku-and-beyond-1dfd)
-- [npm vs npx: Choosing the Right Tool for the Job](https://dev.to/nozibul_islam_113b1d5334f/npm-vs-npx-choosing-the-right-tool-for-the-job-2ndo)
-- [Backtracking in Sudoku Solvers](https://dev.to/sri_sakthi_b/backtracking-in-sudoku-solvers-3n7l)
+- [#OBS MacOS Super Screen Recording supports excluding specific applications for screen recording](https://dev.to/dl0/obs-macos-super-screen-recording-supports-excluding-specific-applications-for-screen-recording-5a3n)
+- [An open source, self-hosted personal note-taking tool that prioritizes privacy, built with TypeScript.](https://dev.to/dl0/an-open-source-self-hosted-personal-note-taking-tool-that-prioritizes-privacy-built-with-27h3)
+- [A Beginner’s Guide to Building APIs with Express.js](https://dev.to/ayusharpcoder/a-beginners-guide-to-building-apis-with-expressjs-1m7c)
+- [AI Gets Smarter: New Method Helps Systems Learn 40% Faster Across Different Environments](https://dev.to/mikeyoung44/ai-gets-smarter-new-method-helps-systems-learn-40-faster-across-different-environments-mef)
+- [AI Model Uses Monte Carlo Search to Find Multiple Solutions Like a Human Detective](https://dev.to/mikeyoung44/ai-model-uses-monte-carlo-search-to-find-multiple-solutions-like-a-human-detective-16e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
