@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Tower](https://dev.to/theversan_4adce7651e1fe76/meta-tower-2go3)
-- [React](https://dev.to/alar_evren_adcb8f6e46a8/react-3mm0)
-- [[pt-br] Ranking de tecnologias da programação &lpar;pesquisa de campo TCC&rpar;](https://dev.to/yagoromualdo/pt-br-ranking-de-tecnologias-da-programacao-pesquisa-de-campo-tcc-508m)
-- [ECCV 2024 - Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models](https://dev.to/voxel51/eccv-2024-open-vocabulary-3d-semantic-segmentation-with-text-to-image-diffusion-models-35pm)
-- [My React Journey: Day 5](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-5-l8m)
+- [[Kube]](https://dev.to/reene44444/kube-cc6)
+- [AWS CloudWatch Logging and Live Tail using Python/Boto3 SDK!](https://dev.to/bhatiagirish/aws-cloudwatch-logging-and-live-tail-using-pythonboto3-sdk-17cl)
+- [Publishing ADDCOM!](https://dev.to/arilloid/publishing-addcom-26fn)
+- [&quot;Cloud Optimization Unveiled: How N-Queens Inspires Task Scheduling in AWS and Google Cloud&quot;](https://dev.to/nikhila_dcce_3e73f7c586e/cloud-optimization-unveiled-how-n-queens-inspires-task-scheduling-in-aws-and-google-cloud-3kij)
+- [Your FIRST STEPS on the ASSEMBLY Programming Language!](https://dev.to/wesurage/your-first-steps-on-the-assembly-programming-language-51o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
