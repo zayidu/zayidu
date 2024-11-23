@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Have you noticed? When you type in the Quickie Post text box, it grows larger with every keystroke—it feels like an unintentional bug. But hey, Quickie Post is finally here, and it’s looking amazing! 🥳](https://dev.to/arafatweb/have-you-noticed-when-you-type-in-the-quickie-post-text-box-it-grows-larger-with-every-3339)
-- [My Solution to Help with Growing Web/App Dev Complexity](https://dev.to/tomj/my-solution-to-help-with-growing-webapp-dev-complexity-1n6a)
-- [Padrões de projeto: Builder](https://dev.to/camilaferreiranas/padroes-de-projeto-builder-4f47)
-- [Simplifying Asset Updates in FilamentPHP Packages](https://dev.to/biostate/simplifying-asset-updates-in-filamentphp-packages-2pd0)
-- [📚 Top JavaScript Books to Level Up Your Skills!🚀](https://dev.to/rasel9t6/top-javascript-books-to-level-up-your-skills-3a7)
+- [How to solve Missing Signed-By in the sources.list&lpar;5&rpar; entry for Ubuntu after upgrading to Ubuntu 24.04](https://dev.to/lennylam/how-to-solve-missing-signed-by-in-the-sourceslist5-entry-for-ubuntu-after-upgrading-to-ubuntu-48bf)
+- [Building Testable CloudFront Functions with TypeScript](https://dev.to/ohanhaliuk/building-testable-cloudfront-functions-with-typescript-233h)
+- [Boost Your Sales Calls with Free AI-Powered Analysis &amp; Practice](https://dev.to/programmerraja/boost-your-sales-calls-with-free-ai-powered-analysis-practice-40jn)
+- [Being a programmer sucks](https://dev.to/wsadev01/being-a-programmer-sucks-3fnp)
+- [Unlocking the Full Potential of Office 365 Student: A Guide for Students](https://dev.to/hasanul_banna_himel/unlocking-the-full-potential-of-office-365-student-a-guide-for-students-6h7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
