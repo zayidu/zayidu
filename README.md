@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding Airplane Seat Mysteries in Cabin Crew Life Simulator - Devlog#4](https://dev.to/khaisimon_devgame/decoding-airplane-seat-mysteries-in-cabin-crew-life-simulator-devlog4-22l4)
-- [Learn HPC with me: CPU vs GPU](https://dev.to/toji/learn-hpc-with-me-cpu-vs-gpu-44eb)
-- [Tailwind Vs Chakra UI | The Ultimate React UI Library Battle](https://dev.to/thesohailjafri/tailwind-vs-chakra-ui-the-ultimate-react-ui-library-battle-24io)
-- [Toyota hybrid models](https://dev.to/bavaryadak_toyota/toyota-hybrid-models-34g1)
-- [Pydantic: The end of manual validations! ✨](https://dev.to/blnkoff/pydantic-the-end-of-manual-validations-422h)
+- [Full stack Development in 5 minutes](https://dev.to/valeriavg/full-stack-development-in-5-minutes-3c16)
+- [Hybrid Battery Repairs: A Comprehensive Guide](https://dev.to/vortex_blogger/hybrid-battery-repairs-a-comprehensive-guide-4ik2)
+- [Understanding Networking and Internet Infrastructure: A Global Overview with Insights from Nigeria](https://dev.to/josephibehdev/understanding-networking-and-internet-infrastructure-a-global-overview-with-insights-from-nigeria-2h30)
+- [Recursive Conditional Types](https://dev.to/kasir-barati/recursive-conditional-types-8e5)
+- [Easy CTF - Uma breve jornada de exploração com base no modelo OSI](https://dev.to/obtuosa/easy-ctf-uma-breve-jornada-de-exploracao-com-base-no-modelo-osi-52ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
