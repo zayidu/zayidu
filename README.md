@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#OBS MacOS Super Screen Recording supports excluding specific applications for screen recording](https://dev.to/dl0/obs-macos-super-screen-recording-supports-excluding-specific-applications-for-screen-recording-5a3n)
-- [An open source, self-hosted personal note-taking tool that prioritizes privacy, built with TypeScript.](https://dev.to/dl0/an-open-source-self-hosted-personal-note-taking-tool-that-prioritizes-privacy-built-with-27h3)
-- [A Beginner’s Guide to Building APIs with Express.js](https://dev.to/ayusharpcoder/a-beginners-guide-to-building-apis-with-expressjs-1m7c)
-- [AI Gets Smarter: New Method Helps Systems Learn 40% Faster Across Different Environments](https://dev.to/mikeyoung44/ai-gets-smarter-new-method-helps-systems-learn-40-faster-across-different-environments-mef)
-- [AI Model Uses Monte Carlo Search to Find Multiple Solutions Like a Human Detective](https://dev.to/mikeyoung44/ai-model-uses-monte-carlo-search-to-find-multiple-solutions-like-a-human-detective-16e9)
+- [SMTP Relay Service Providers- An Essential Guide for Businesses](https://dev.to/brettjhonson01/smtp-relay-service-providers-an-essential-guide-for-businesses-2ikh)
+- [16 Soruda Blockchain Güvenliği Nedir Ve Nasıl Sağlanır? 🔥](https://dev.to/kriptoskoptr/16-soruda-blockchain-guvenligi-nedir-ve-nasil-saglanir-41l3)
+- [TS - Partial 用法及解析](https://dev.to/fakestandard/ts-partial-yong-fa-ji-jie-xi-55bh)
+- [Implementing Gmail API with Cloudflare Workers - Part 3: Implementation](https://dev.to/roboword/implementing-gmail-api-with-cloudflare-workers-part-3-implementation-199f)
+- [Thedy Johanis: A Visionary Leader Rising Above Challenges](https://dev.to/thedyjohanis/thedy-johanis-a-visionary-leader-rising-above-challenges-4oih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
