@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2x Faster, 40% less RAM: The Cloud Run stdout logging hack](https://dev.to/siddhantkcode/2x-faster-40-less-ram-the-cloud-run-stdout-logging-hack-1iig)
-- [Best extensions for Visual Studio Code &lpar;Beautiful Graphic&rpar;](https://dev.to/itdevus/best-extensions-for-visual-studio-code-beautiful-graphic-2cg2)
-- [42/365 | ¥10M Job Challenge - Buffer](https://dev.to/kameken100/42365-y10m-job-challenge-buffer-4kf5)
-- [CO2 Emissions: Key Trends and Insights Over the Past Decade](https://dev.to/leah_mathenge/co2-emissions-key-trends-and-insights-over-the-past-decade-3b7e)
-- [Managed Secure SFTP using Terraform](https://dev.to/rdarrylr/managed-secure-sftp-using-terraform-4clj)
+- [I Studied How Google Signs You Into All Services With One Login. Here&#39;s What I Learned](https://dev.to/ganesh-kumar/i-studied-how-google-signs-you-into-all-services-with-one-login-heres-what-i-learned-34a0)
+- [How to Build a .NET MAUI Barcode Scanner Using IronBarcode](https://dev.to/mhamzap10/how-to-build-a-net-maui-barcode-scanner-using-ironbarcode-27dd)
+- [Completing the Paginator Class in C#](https://dev.to/moh_moh701/completing-the-paginator-class-in-c-1i9f)
+- [Untitled](https://dev.to/hashem_alserhan_ef4bb9192/untitled-4383)
+- [Implementing the List Projection Class in C#](https://dev.to/moh_moh701/implementing-the-list-projection-class-in-c-15e3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
