@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Guide: How to manually modify the ECS agent version](https://dev.to/aakashsairaj/ultimate-guide-how-to-manually-modify-the-ecs-agent-version-5hjj)
-- [Week 5 in DevOps: Learning Jenkins for CI/CD Automation](https://dev.to/amandeol063/week-5-in-devops-learning-jenkins-for-cicd-automation-2eim)
-- [What I wrote about Ruby this week #2](https://dev.to/lucianghinda/what-i-wrote-about-ruby-this-week-2-4oek)
-- [Hooks in React](https://dev.to/harshitvermadev/hooks-in-react-4f8k)
-- [How to undo the most recent local commits in Git?](https://dev.to/ankur0904/how-to-undo-the-most-recent-local-commits-in-git-1jbd)
+- [AssemblyAI challenge site deployed! Woooohooo check it out! https://speech.vicentereyes.org also check the blog post here!!https://dev.to/highcenburg/speech-to-musical-notation-with-assemblyai-50id](https://dev.to/highcenburg/assemblyai-challenge-site-deployed-woooohooo-check-it-out-httpsspeechvicentereyesorg-also-5g7h)
+- [This One Habit Could Transform Your Developer Career Forever](https://dev.to/ashiqu_ali/this-one-habit-could-transform-your-developer-career-forever-2k06)
+- [Supabase Edge Functions](https://dev.to/hussain101/supabase-edge-functions-4o1)
+- [VoiceScribe: Elevating Transcriptions with AssemblyAI&#39;s Universal-2 Model](https://dev.to/sarath_v_/voicescribe-elevating-transcriptions-with-assemblyais-universal-2-model-4e71)
+- [Top Python Libraries Every Developer Should Know](https://dev.to/ayusharpcoder/top-python-libraries-every-developer-should-know-1fjk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
