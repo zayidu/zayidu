@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [多平台服务中的代码混淆与内存安全：ArkTS 应用的安全优化](https://dev.to/xun_wang_6384a403f9817c2/duo-ping-tai-fu-wu-zhong-de-dai-ma-hun-yao-yu-nei-cun-an-quan-arkts-ying-yong-de-an-quan-you-hua-5178)
-- [How and Why I Built Analyzr: A Lightweight, Real-Time Analytics Tool 🚀📊](https://dev.to/arjuncodess/how-and-why-i-built-analyzr-a-lightweight-real-time-analytics-tool-4f6h)
-- [Demystifying Docker: How It Works](https://dev.to/chewryl/demystifying-docker-how-it-works-4527)
-- [CollabSphere Part 1: Setting Up a Modular Django Chat Application](https://dev.to/kihuni/collabsphere-part-1-setting-up-a-modular-django-chat-application-d3a)
-- [ChapTer2 AI](https://dev.to/fowusu68/chapter2-ai-39a2)
+- [1975. Maximum Matrix Sum](https://dev.to/mdarifulhaque/1975-maximum-matrix-sum-okn)
+- [Building an Interactive Solar System Simulation: A Step-by-Step Guide](https://dev.to/gladiatorsbattle/building-an-interactive-solar-system-simulation-a-step-by-step-guide-1i9g)
+- [Code Smell 281 - Hashes](https://dev.to/mcsee/code-smell-281-hashes-3b80)
+- [I Made My Website 10x Faster With These Frontend Magic Tricks](https://dev.to/amaresh_adak/i-made-my-website-10x-faster-with-these-frontend-magic-tricks-5h85)
+- [New Approaches in HarmonyOS Development: The &quot;Whispers&quot; between Applications and Front-End Pages](https://dev.to/xun_wang_6384a403f9817c2/new-approaches-in-harmonyos-development-the-whispers-between-applications-and-front-end-pages-2npf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
