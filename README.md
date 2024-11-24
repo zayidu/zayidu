@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying Algorithms: Linear Search](https://dev.to/craftedwithintent/demystifying-algorithms-linear-search-4k62)
-- [Demystifying Algorithms: Rabin-Karp](https://dev.to/craftedwithintent/demystifying-algorithms-rabin-karp-504)
-- [JWT in Microservices](https://dev.to/dazevedo/jwt-in-microservices-ac5)
-- [VisualQuest - Interact with stories using your voice](https://dev.to/alcadeus0/visualquest-interact-with-stories-using-your-voice-4hh1)
-- [Hidden NET 9 gems](https://dev.to/karenpayneoregon/hidden-net-9-gems-3pb4)
+- [The Run-Length of Matchsticks &lpar;PWC 296&rpar;](https://dev.to/muthm/the-run-length-of-matchsticks-pwc-296-24b4)
+- [El Poder de lo Simple: Regresión Lineal para Predecir Precios de Casas](https://dev.to/edgarcajusol/el-poder-de-lo-simple-linear-regression-209o)
+- [Dare to challenge hard thing](https://dev.to/fadingna/dare-to-challenge-hard-thing-5blb)
+- [My AssemblyAI Speech-To-Text Challenge.](https://dev.to/kom_bao_e797302aeb6b36de0/my-assemblyai-speech-to-text-challenge-dej)
+- [Be Invariant](https://dev.to/meeshbhoombah/be-invariant-4hn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
