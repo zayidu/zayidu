@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting familiar with Git/GitHub](https://dev.to/emmanuel_cobham/getting-familiar-with-gitgithub-54oa)
+- [[Python Оригинал] Создал демо веб-скрейпера для сайта вакансий](https://dev.to/excalibra/python-orighinal-sozdal-diemo-vieb-skrieipiera-dlia-saita-vakansii-46if)
+- [Let&#39;s Learn Promises in JavaScript! 🚀](https://dev.to/jagroop2001/lets-learn-promises-in-javascript-3ijo)
 - [1975. Maximum Matrix Sum](https://dev.to/mdarifulhaque/1975-maximum-matrix-sum-okn)
 - [Building an Interactive Solar System Simulation: A Step-by-Step Guide](https://dev.to/gladiatorsbattle/building-an-interactive-solar-system-simulation-a-step-by-step-guide-1i9g)
-- [Code Smell 281 - Hashes](https://dev.to/mcsee/code-smell-281-hashes-3b80)
-- [I Made My Website 10x Faster With These Frontend Magic Tricks](https://dev.to/amaresh_adak/i-made-my-website-10x-faster-with-these-frontend-magic-tricks-5h85)
-- [New Approaches in HarmonyOS Development: The &quot;Whispers&quot; between Applications and Front-End Pages](https://dev.to/xun_wang_6384a403f9817c2/new-approaches-in-harmonyos-development-the-whispers-between-applications-and-front-end-pages-2npf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
