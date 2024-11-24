@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Types of Class loaders in JAVA](https://dev.to/alireza_a2c92b00e922149b7/types-of-class-loaders-in-java-3fe5)
-- [Self-organize files in the downloads folder &lpar;automatically&rpar;](https://dev.to/costa86/self-organize-files-in-the-downloads-folder-automatically-120f)
-- [Aurora Limitless - Connection](https://dev.to/aws-heroes/aurora-limitless-connection-4i3a)
-- [The Future of Lifelong Learning: How Digital Platforms Are Facilitating Continuous Growth](https://dev.to/francesca_miller_8c01c9ac/the-future-of-lifelong-learning-how-digital-platforms-are-facilitating-continuous-growth-3d0e)
-- [Guarantee message deliveries for real-time WebSocket APIs with Serverless on AWS](https://dev.to/aws-builders/guarantee-message-deliveries-for-real-time-websocket-apis-with-serverless-on-aws-3dba)
+- [Why AI Agents Could End the Digital Experience as We Know It](https://dev.to/airabbit/why-ai-agents-could-end-the-digital-experience-as-we-know-it-11ia)
+- [Kickstart Your Android Development Journey: A Must-Watch Tutorial Series](https://dev.to/getvm/kickstart-your-android-development-journey-a-must-watch-tutorial-series-4nbg)
+- [The Smart House Experience: Crafting Innovation with a Raspberry Pi](https://dev.to/yassineao/the-smart-house-experience-crafting-innovation-with-a-raspberry-pi-2fgo)
+- [Building a Chess Game with Python and OpenAI](https://dev.to/yrizos/building-a-chess-game-with-python-and-openai-3knn)
+- [Getting IP Geolocation Data in PHP](https://dev.to/codedp/getting-ip-geolocation-data-in-php-1fk4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
