@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I found a cool community &lpar;not as good as dev.to :P&rpar; the other day. I think I&#39;ll write a post about it soon. See link in comments.](https://dev.to/best_codes/i-found-a-cool-community-not-as-good-as-devto-p-the-other-day-i-think-ill-write-a-post-about-j99)
-- [Creating a Comprehensive Raffle System for GladiatorsBattle.com](https://dev.to/gladiatorsbattle/creating-a-comprehensive-raffle-system-for-gladiatorsbattlecom-1kk8)
-- [SETTING UP A DOCKER BASED GITLAB-CE&lpar;COMMUNITY EDITION&rpar; AND A GITLAB RUNNING USING DOCKER COMPOSE](https://dev.to/toluxfash/setting-up-a-docker-based-gitlab-cecommunity-edition-and-a-gitlab-running-using-docker-compose-3kkp)
-- [Early termination of transducers and reducing functions](https://dev.to/ljpengelen/early-termination-of-transducers-and-reducing-functions-2k3b)
-- [How does Natural Language Processing &lpar;NLP&rpar; interact between people and technology?](https://dev.to/busraecemsakar/how-does-natural-language-processing-nlp-interact-between-people-and-technology-5e53)
+- [多平台服务中的代码混淆与内存安全：ArkTS 应用的安全优化](https://dev.to/xun_wang_6384a403f9817c2/duo-ping-tai-fu-wu-zhong-de-dai-ma-hun-yao-yu-nei-cun-an-quan-arkts-ying-yong-de-an-quan-you-hua-5178)
+- [How and Why I Built Analyzr: A Lightweight, Real-Time Analytics Tool 🚀📊](https://dev.to/arjuncodess/how-and-why-i-built-analyzr-a-lightweight-real-time-analytics-tool-4f6h)
+- [Demystifying Docker: How It Works](https://dev.to/chewryl/demystifying-docker-how-it-works-4527)
+- [CollabSphere Part 1: Setting Up a Modular Django Chat Application](https://dev.to/kihuni/collabsphere-part-1-setting-up-a-modular-django-chat-application-d3a)
+- [ChapTer2 AI](https://dev.to/fowusu68/chapter2-ai-39a2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
