@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ClipSummarizer: Audio &amp; Video Highlights at Your Fingertips](https://dev.to/deveshpande/clipsummarizer-audio-video-highlights-at-your-fingertips-2ifc)
-- [How ReportPortal &quot;Made&quot; Pytest Run Twice](https://dev.to/alexlitvino/how-reportportal-made-pytest-run-twice-2lfp)
-- [Automating Gemini API: From Build to Deployment with CI/CD](https://dev.to/kisan-rai/automating-gemini-api-from-build-to-deployment-with-cicd-57oc)
-- [Rails API + Cache + Design Patterns &lpar;English Version&rpar;](https://dev.to/danielpenaloza/rails-api-cache-design-patterns-english-version-1km1)
-- [Validating REST requests in a NestJS application and displaying errors in Angular application forms](https://dev.to/endykaufman/validating-rest-requests-in-a-nestjs-application-and-displaying-errors-in-angular-application-forms-2gp1)
+- [Self-Aligning Dish: GPS](https://dev.to/ian_ndeda/self-aligning-dish-gps-56lb)
+- [Self-Aligning Satellite Dish in Rust: Compass Application](https://dev.to/ian_ndeda/self-aligning-satellite-dish-in-rust-compass-application-59kn)
+- [Self-Aligning Satellite Dish in Rust: Compass](https://dev.to/ian_ndeda/self-aligning-satellite-dish-in-rust-compass-576d)
+- [RabbitMQ: Using It with Microservices](https://dev.to/dazevedo/rabbitmq-using-it-with-microservices-5d58)
+- [A surprising thing about PyPI&#39;s BigQuery data](https://dev.to/hugovk/a-surprising-thing-about-pypis-bigquery-data-2g9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
