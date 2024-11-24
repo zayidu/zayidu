@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 14: Optimizing SEO with Metadata and Sitemap](https://dev.to/eersnington/nextjs-14-optimizing-seo-with-metadata-and-sitemap-3cba)
-- [The Zero Trust Approach in AWS: Strengthening Your Cloud Security Posture](https://dev.to/lindiwe09/the-zero-trust-approach-in-aws-strengthening-your-cloud-security-posture-nk6)
-- [Build a Secure Web Server on AWS: A Step-by-Step Guide Deploying a secure and scalable web application on AWS using AWS services](https://dev.to/safi-ullah/build-a-secure-web-server-on-aws-a-step-by-step-guide-deploying-a-secure-and-scalable-web-1ad0)
-- [AI Generation Workflow with Azure Speech Service and Dify: Full Automation of Podcast and Image Creation](https://dev.to/works_ai_makoto_a67a7ff7e/ai-generation-workflow-with-azure-speech-service-and-dify-full-automation-of-podcast-and-image-ohh)
-- [List Active Listening Ports on Windows Systems](https://dev.to/rajpal-se/list-active-listening-ports-on-windows-systems-2e81)
+- [Using Azure OpenAI Service with Local bolt.new](https://dev.to/m_sea_bass/using-azure-openai-service-with-local-boltnew-3n70)
+- [Mastering Your Sprint Review Meeting Agenda: A Guide to Productive Discussions and Improved Outcomes](https://dev.to/devactivity-app/mastering-your-sprint-review-meeting-agenda-a-guide-to-productive-discussions-and-improved-outcomes-154p)
+- [Beyond console.log](https://dev.to/asmyshlyaev177/beyond-consolelog-1h40)
+- [Setting Up a Mac for Development: A Comprehensive Guide 🧑🏻‍💻 ‍](https://dev.to/devangtomar/setting-up-a-mac-for-development-a-comprehensive-guide-5j3)
+- [Understanding Generics in TypeScript: A Beginner’s Guide](https://dev.to/abhinav707/understanding-generics-in-typescript-a-beginners-guide-4ini)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
