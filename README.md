@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular 19 is Here, Next.js From China, NEWEST JavaScript Engine and more](https://dev.to/thisweekinjavascript/angular-19-is-here-nextjs-from-china-newest-javascript-engine-and-more-26a2)
-- [What is DOM &lpar;Document Object Modle&rpar; in JavaScript](https://dev.to/04anilr/what-is-dom-document-object-modle-in-javascript-12j2)
-- [How to create arrays in ruby using methods - AI generated](https://dev.to/ali-alkhawaja/how-to-create-arrays-in-ruby-using-methods-ai-generated-5pf)
-- [MedAI: Real-Time Transcription and Medical Assistant](https://dev.to/paulndirangu/medai-real-time-transcription-and-medical-assistant-1ce0)
-- [Static Site Generation &lpar;SSG&rpar; | Explanation with Anology](https://dev.to/mrcaption49/static-site-generation-ssg-explanation-with-anology-5887)
+- [2x Faster, 40% less RAM: The Cloud Run stdout logging hack](https://dev.to/siddhantkcode/2x-faster-40-less-ram-the-cloud-run-stdout-logging-hack-1iig)
+- [Best extensions for Visual Studio Code &lpar;Beautiful Graphic&rpar;](https://dev.to/itdevus/best-extensions-for-visual-studio-code-beautiful-graphic-2cg2)
+- [42/365 | ¥10M Job Challenge - Buffer](https://dev.to/kameken100/42365-y10m-job-challenge-buffer-4kf5)
+- [CO2 Emissions: Key Trends and Insights Over the Past Decade](https://dev.to/leah_mathenge/co2-emissions-key-trends-and-insights-over-the-past-decade-3b7e)
+- [Managed Secure SFTP using Terraform](https://dev.to/rdarrylr/managed-secure-sftp-using-terraform-4clj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
