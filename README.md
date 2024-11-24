@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Agents Could End the Digital Experience as We Know It](https://dev.to/airabbit/why-ai-agents-could-end-the-digital-experience-as-we-know-it-11ia)
-- [Kickstart Your Android Development Journey: A Must-Watch Tutorial Series](https://dev.to/getvm/kickstart-your-android-development-journey-a-must-watch-tutorial-series-4nbg)
-- [The Smart House Experience: Crafting Innovation with a Raspberry Pi](https://dev.to/yassineao/the-smart-house-experience-crafting-innovation-with-a-raspberry-pi-2fgo)
-- [Building a Chess Game with Python and OpenAI](https://dev.to/yrizos/building-a-chess-game-with-python-and-openai-3knn)
-- [Getting IP Geolocation Data in PHP](https://dev.to/codedp/getting-ip-geolocation-data-in-php-1fk4)
+- [Zero-Cost Abstractions in Rust: Asynchronous Programming Without Breaking a Sweat](https://dev.to/pranta/zero-cost-abstractions-in-rust-asynchronous-programming-without-breaking-a-sweat-221b)
+- [How does chat bot work?](https://dev.to/abheeshta/how-does-chat-bot-work-358f)
+- [The opening of my Restaurant &lpar;page&rpar;](https://dev.to/codecara/the-opening-of-my-restaurant-page-1h4o)
+- [Build personal Q&amp;A chatbot in minutes : Amazon Q Business](https://dev.to/megha_shivhare_5038dc1047/build-personal-qa-chatbot-in-minutes-amazon-q-business-2n1h)
+- [Unlocking Better JavaScript Performance: Avoid These Common Pitfalls 🚀](https://dev.to/hosseinmobarakian/unlocking-better-javascript-performance-avoid-these-common-pitfalls-1111)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
