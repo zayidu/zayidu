@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting familiar with Git/GitHub](https://dev.to/emmanuel_cobham/getting-familiar-with-gitgithub-54oa)
-- [[Python Оригинал] Создал демо веб-скрейпера для сайта вакансий](https://dev.to/excalibra/python-orighinal-sozdal-diemo-vieb-skrieipiera-dlia-saita-vakansii-46if)
-- [Let&#39;s Learn Promises in JavaScript! 🚀](https://dev.to/jagroop2001/lets-learn-promises-in-javascript-3ijo)
-- [1975. Maximum Matrix Sum](https://dev.to/mdarifulhaque/1975-maximum-matrix-sum-okn)
-- [Building an Interactive Solar System Simulation: A Step-by-Step Guide](https://dev.to/gladiatorsbattle/building-an-interactive-solar-system-simulation-a-step-by-step-guide-1i9g)
+- [The Amigo programming language](https://dev.to/alexander_baranovsky_afa7/the-amigo-programming-language-23ci)
+- [Introduction to Amazon Simple Notification Service &lpar;SNS&rpar;](https://dev.to/devops_descent/introduction-to-amazon-simple-notification-service-sns-41k5)
+- [SpeechTrack](https://dev.to/murthyug/speechtrack-5c46)
+- [Clean Code - Part 1](https://dev.to/saifu0/clean-code-part-1-npi)
+- [Quick way to enable URL Authorization of IIS on Windows 11](https://dev.to/winsides/quick-way-to-enable-url-authorization-of-iis-on-windows-11-58n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
