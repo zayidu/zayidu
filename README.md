@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/mohammed_alsarihi_f3d4c82/untitled-5heh)
-- [Supercharge Your Angular App: Ivy Compiler Tricks for Lightning-Fast Performance](https://dev.to/aaravjoshi/supercharge-your-angular-app-ivy-compiler-tricks-for-lightning-fast-performance-3feo)
-- [The Complete Guide to Finding the Right Driving Lessons in Officer](https://dev.to/maxdavis/the-complete-guide-to-finding-the-right-driving-lessons-in-officer-2ee5)
-- [I made a Profile Card Widget for Bluesky 🦋](https://dev.to/saurabhdaware/i-made-a-profile-card-widget-for-bluesky-268e)
-- [Smart login system](https://dev.to/zozjr/smart-login-system-80i)
+- [Angular 19 is Here, Next.js From China, NEWEST JavaScript Engine and more](https://dev.to/thisweekinjavascript/angular-19-is-here-nextjs-from-china-newest-javascript-engine-and-more-26a2)
+- [What is DOM &lpar;Document Object Modle&rpar; in JavaScript](https://dev.to/04anilr/what-is-dom-document-object-modle-in-javascript-12j2)
+- [How to create arrays in ruby using methods - AI generated](https://dev.to/ali-alkhawaja/how-to-create-arrays-in-ruby-using-methods-ai-generated-5pf)
+- [MedAI: Real-Time Transcription and Medical Assistant](https://dev.to/paulndirangu/medai-real-time-transcription-and-medical-assistant-1ce0)
+- [Static Site Generation &lpar;SSG&rpar; | Explanation with Anology](https://dev.to/mrcaption49/static-site-generation-ssg-explanation-with-anology-5887)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
