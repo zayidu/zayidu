@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Studied How Google Signs You Into All Services With One Login. Here&#39;s What I Learned](https://dev.to/ganesh-kumar/i-studied-how-google-signs-you-into-all-services-with-one-login-heres-what-i-learned-34a0)
-- [How to Build a .NET MAUI Barcode Scanner Using IronBarcode](https://dev.to/mhamzap10/how-to-build-a-net-maui-barcode-scanner-using-ironbarcode-27dd)
-- [Completing the Paginator Class in C#](https://dev.to/moh_moh701/completing-the-paginator-class-in-c-1i9f)
-- [Untitled](https://dev.to/hashem_alserhan_ef4bb9192/untitled-4383)
-- [Implementing the List Projection Class in C#](https://dev.to/moh_moh701/implementing-the-list-projection-class-in-c-15e3)
+- [ClipSummarizer: Audio &amp; Video Highlights at Your Fingertips](https://dev.to/deveshpande/clipsummarizer-audio-video-highlights-at-your-fingertips-2ifc)
+- [How ReportPortal &quot;Made&quot; Pytest Run Twice](https://dev.to/alexlitvino/how-reportportal-made-pytest-run-twice-2lfp)
+- [Automating Gemini API: From Build to Deployment with CI/CD](https://dev.to/kisan-rai/automating-gemini-api-from-build-to-deployment-with-cicd-57oc)
+- [Rails API + Cache + Design Patterns &lpar;English Version&rpar;](https://dev.to/danielpenaloza/rails-api-cache-design-patterns-english-version-1km1)
+- [Validating REST requests in a NestJS application and displaying errors in Angular application forms](https://dev.to/endykaufman/validating-rest-requests-in-a-nestjs-application-and-displaying-errors-in-angular-application-forms-2gp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
