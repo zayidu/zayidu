@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Matching of Text Identifiers Using LASER Embeddings in Python](https://dev.to/edgaras/semantic-matching-of-text-identifiers-using-laser-embeddings-in-python-5bl5)
-- [Visual Studio package security](https://dev.to/karenpayneoregon/visual-studio-package-security-6fk)
-- [Roadmap Cybersecurity](https://dev.to/adzhanfarhan/roadmap-cybersecurity-lad)
-- [Currency Converter Chrome Extension](https://dev.to/zainbinfurqan/currency-converter-chrome-extension-3844)
-- [Apa itu Damn Vulnerable Web Application &lpar;DVWA&rpar; ?](https://dev.to/adzhanfarhan/apa-itu-damn-vulnerable-web-application-dvwa--26gm)
+- [Types of Class loaders in JAVA](https://dev.to/alireza_a2c92b00e922149b7/types-of-class-loaders-in-java-3fe5)
+- [Self-organize files in the downloads folder &lpar;automatically&rpar;](https://dev.to/costa86/self-organize-files-in-the-downloads-folder-automatically-120f)
+- [Aurora Limitless - Connection](https://dev.to/aws-heroes/aurora-limitless-connection-4i3a)
+- [The Future of Lifelong Learning: How Digital Platforms Are Facilitating Continuous Growth](https://dev.to/francesca_miller_8c01c9ac/the-future-of-lifelong-learning-how-digital-platforms-are-facilitating-continuous-growth-3d0e)
+- [Guarantee message deliveries for real-time WebSocket APIs with Serverless on AWS](https://dev.to/aws-builders/guarantee-message-deliveries-for-real-time-websocket-apis-with-serverless-on-aws-3dba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
