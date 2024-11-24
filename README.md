@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Aligning Dish: GPS](https://dev.to/ian_ndeda/self-aligning-dish-gps-56lb)
-- [Self-Aligning Satellite Dish in Rust: Compass Application](https://dev.to/ian_ndeda/self-aligning-satellite-dish-in-rust-compass-application-59kn)
-- [Self-Aligning Satellite Dish in Rust: Compass](https://dev.to/ian_ndeda/self-aligning-satellite-dish-in-rust-compass-576d)
-- [RabbitMQ: Using It with Microservices](https://dev.to/dazevedo/rabbitmq-using-it-with-microservices-5d58)
-- [A surprising thing about PyPI&#39;s BigQuery data](https://dev.to/hugovk/a-surprising-thing-about-pypis-bigquery-data-2g9o)
+- [Demystifying Algorithms: Linear Search](https://dev.to/craftedwithintent/demystifying-algorithms-linear-search-4k62)
+- [Demystifying Algorithms: Rabin-Karp](https://dev.to/craftedwithintent/demystifying-algorithms-rabin-karp-504)
+- [JWT in Microservices](https://dev.to/dazevedo/jwt-in-microservices-ac5)
+- [VisualQuest - Interact with stories using your voice](https://dev.to/alcadeus0/visualquest-interact-with-stories-using-your-voice-4hh1)
+- [Hidden NET 9 gems](https://dev.to/karenpayneoregon/hidden-net-9-gems-3pb4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
