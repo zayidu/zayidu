@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Cost Abstractions in Rust: Asynchronous Programming Without Breaking a Sweat](https://dev.to/pranta/zero-cost-abstractions-in-rust-asynchronous-programming-without-breaking-a-sweat-221b)
-- [How does chat bot work?](https://dev.to/abheeshta/how-does-chat-bot-work-358f)
-- [The opening of my Restaurant &lpar;page&rpar;](https://dev.to/codecara/the-opening-of-my-restaurant-page-1h4o)
-- [Build personal Q&amp;A chatbot in minutes : Amazon Q Business](https://dev.to/megha_shivhare_5038dc1047/build-personal-qa-chatbot-in-minutes-amazon-q-business-2n1h)
-- [Unlocking Better JavaScript Performance: Avoid These Common Pitfalls 🚀](https://dev.to/hosseinmobarakian/unlocking-better-javascript-performance-avoid-these-common-pitfalls-1111)
+- [Untitled](https://dev.to/mohammed_alsarihi_f3d4c82/untitled-5heh)
+- [Supercharge Your Angular App: Ivy Compiler Tricks for Lightning-Fast Performance](https://dev.to/aaravjoshi/supercharge-your-angular-app-ivy-compiler-tricks-for-lightning-fast-performance-3feo)
+- [The Complete Guide to Finding the Right Driving Lessons in Officer](https://dev.to/maxdavis/the-complete-guide-to-finding-the-right-driving-lessons-in-officer-2ee5)
+- [I made a Profile Card Widget for Bluesky 🦋](https://dev.to/saurabhdaware/i-made-a-profile-card-widget-for-bluesky-268e)
+- [Smart login system](https://dev.to/zozjr/smart-login-system-80i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
