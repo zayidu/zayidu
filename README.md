@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Simplifying HR Processes: The Employee Management System&quot;](https://dev.to/vidminiminupama/simplifying-hr-processes-the-employee-management-system-2lef)
-- [Beyond Technical Skills; Soft Skills...](https://dev.to/chimannamadim/beyond-technical-skills-soft-skills-3lmk)
-- [Freelancer Transcription Tool - Transform Audio to Text with AssemblyAI 🚀](https://dev.to/sonu_kushwaha_f26b92132e5/freelancer-transcription-tool-transform-audio-to-text-with-assemblyai-523h)
-- [Portfolio in react](https://dev.to/chinmaya_kumarmallick_8a/portfolio-in-react-21hn)
-- [10 Game-Changing Programming Techniques Every Developer Overlooks &lpar;But Shouldn’t&rpar;](https://dev.to/favethetechlady/10-game-changing-programming-techniques-every-developer-overlooks-but-shouldnt-34pj)
+- [Next.js 14: Optimizing SEO with Metadata and Sitemap](https://dev.to/eersnington/nextjs-14-optimizing-seo-with-metadata-and-sitemap-3cba)
+- [The Zero Trust Approach in AWS: Strengthening Your Cloud Security Posture](https://dev.to/lindiwe09/the-zero-trust-approach-in-aws-strengthening-your-cloud-security-posture-nk6)
+- [Build a Secure Web Server on AWS: A Step-by-Step Guide Deploying a secure and scalable web application on AWS using AWS services](https://dev.to/safi-ullah/build-a-secure-web-server-on-aws-a-step-by-step-guide-deploying-a-secure-and-scalable-web-1ad0)
+- [AI Generation Workflow with Azure Speech Service and Dify: Full Automation of Podcast and Image Creation](https://dev.to/works_ai_makoto_a67a7ff7e/ai-generation-workflow-with-azure-speech-service-and-dify-full-automation-of-podcast-and-image-ohh)
+- [List Active Listening Ports on Windows Systems](https://dev.to/rajpal-se/list-active-listening-ports-on-windows-systems-2e81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
