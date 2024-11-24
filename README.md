@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Amigo programming language](https://dev.to/alexander_baranovsky_afa7/the-amigo-programming-language-23ci)
-- [Introduction to Amazon Simple Notification Service &lpar;SNS&rpar;](https://dev.to/devops_descent/introduction-to-amazon-simple-notification-service-sns-41k5)
-- [SpeechTrack](https://dev.to/murthyug/speechtrack-5c46)
-- [Clean Code - Part 1](https://dev.to/saifu0/clean-code-part-1-npi)
-- [Quick way to enable URL Authorization of IIS on Windows 11](https://dev.to/winsides/quick-way-to-enable-url-authorization-of-iis-on-windows-11-58n7)
+- [Ultimate Guide: How to manually modify the ECS agent version](https://dev.to/aakashsairaj/ultimate-guide-how-to-manually-modify-the-ecs-agent-version-5hjj)
+- [Week 5 in DevOps: Learning Jenkins for CI/CD Automation](https://dev.to/amandeol063/week-5-in-devops-learning-jenkins-for-cicd-automation-2eim)
+- [What I wrote about Ruby this week #2](https://dev.to/lucianghinda/what-i-wrote-about-ruby-this-week-2-4oek)
+- [Hooks in React](https://dev.to/harshitvermadev/hooks-in-react-4f8k)
+- [How to undo the most recent local commits in Git?](https://dev.to/ankur0904/how-to-undo-the-most-recent-local-commits-in-git-1jbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
