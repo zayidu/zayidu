@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Tips on How to Effectively Prompt Amazon Q](https://dev.to/nat_ndlovu/10-tips-on-how-to-effectively-prompt-amazon-q-50k2)
-- [Global Navigation + Gradient Path Planning](https://dev.to/notlongas/global-navigation-gradient-path-planning-40cg)
-- [🚀 Why Tap-to-Earn Games Are the Latest Crypto Trend](https://dev.to/david_tevzadze_/why-tap-to-earn-games-are-the-latest-crypto-trend-3baa)
-- [NgSysV2-3.5: A Serious Svelte InfoSys: A Client-Server Version](https://dev.to/mjoycemilburn/ngsysv2-35-a-serious-svelte-infosys-a-client-server-version-36e0)
-- [NgSysV2-3.6: A Serious Svelte InfoSys: Deploying to the Google Cloud](https://dev.to/mjoycemilburn/ngsysv2-36-a-serious-svelte-infosys-deploying-to-the-google-cloud-geo)
+- [Guide to Regular Commit Messages](https://dev.to/yusufbozaci/guide-to-regular-commit-messages-3agd)
+- [&lpar;D&rpar;: Aplicando o &quot;Princípio da Inversão de Dependências&quot; com Typescript e Java](https://dev.to/victorlima142/aplicando-o-dependency-inversion-principle-com-typescript-e-java-1bgg)
+- [🕵️ OSINT: link company acronyms to Standard Occupation Classification w. Open Source LLMs](https://dev.to/adriens/osint-link-company-acronyms-to-standard-occupation-classification-w-open-source-llms-5c6o)
+- [Granting autonomy to agents](https://dev.to/neuml/granting-autonomy-to-agents-ae6)
+- [&lpar;I&rpar;: Aplicando o &quot;Princípio da Segregação da Interface&quot; com Typescript e Java](https://dev.to/victorlima142/-aplicando-o-interface-segregation-principle-com-typescript-e-java-216o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
