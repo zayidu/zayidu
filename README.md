@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Final Stretch of My Open Source Journey: Part 1](https://dev.to/majd_almnayer_2101/the-final-stretch-of-my-open-source-journey-part-1-4039)
-- [How to Scale a Team from 6 to 25: Building Down to Move Up](https://dev.to/danllach/how-to-scale-a-team-from-6-to-25-building-down-to-move-up-3fo1)
-- [Guia Completo: Como Integrar WatermelonDB no React Native 0.76 com Expo 52 e TypeScript](https://dev.to/caiopratalli/guia-completo-como-integrar-watermelondb-no-react-native-076-com-expo-52-e-typescript-3k06)
-- [RepodAI: An AI-Powered Podcasting Platform with Transcription, Summarization, and Interactive Features 🎙️](https://dev.to/chijioke_osadebe_c6d2e7f7/repodai-an-ai-powered-podcasting-platform-with-transcription-summarization-and-interactive-7eg)
-- [Exploring the Canvas Series: combined with Transformers.js to achieve intelligent image processing](https://dev.to/leo_song/exploring-the-canvas-series-combined-with-transformersjs-to-achieve-intelligent-image-processing-2aol)
+- [Laravel 11: Allowed memory size of 134217728 bytes exhausted &lpar;tried to allocate 23085056 bytes&rpar;](https://dev.to/awan/laravel-11-allowed-memory-size-of-134217728-bytes-exhausted-tried-to-allocate-23085056-bytes-392a)
+- [Usecase: TumbleLog](https://dev.to/mikkelsj/usecase-tumblelog-klg)
+- [Postgres - Session 02 &lpar; Architecture &rpar;](https://dev.to/technonotes/postgres-session-02-architecture--3kpf)
+- [Using GPT-4 for Free Through Github Models &lpar;with Limitations&rpar;](https://dev.to/hoaitx/using-gpt-4-for-free-through-github-models-with-limitations-2a44)
+- [Top CMS Platforms for Building an eCommerce Website: Best Options for 2024](https://dev.to/zafaryaqoobask/top-cms-platforms-for-building-an-ecommerce-website-best-options-for-2024-3efp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
