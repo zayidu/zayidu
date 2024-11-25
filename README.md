@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Para qué sirve el modificador static en Java?](https://dev.to/asjordi/para-que-sirve-el-modificador-static-en-java-17hi)
-- [Docker para iniciantes](https://dev.to/alexreis/dokcer-um-guia-do-zero-para-iniciantes-3d8l)
-- [Spring Boot 3 application on AWS Lambda - Part 12 Develop application with GraalVM Native Image](https://dev.to/aws-heroes/spring-boot-3-application-on-aws-lambda-part-12-develop-application-with-graalvm-native-image-14of)
-- [Continue contributing to Open-Source projects](https://dev.to/htsagara/continue-contributing-to-open-source-projects-3460)
-- [Proactive Downtime Prevention: AWS Site Monitoring Strategies](https://dev.to/billgist/proactive-downtime-prevention-aws-site-monitoring-strategies-30gl)
+- [RAG VS FINE-TUNING](https://dev.to/sai333/rag-vs-fine-tuning-35am)
+- [Starting My New Journey: Full-Stack Web Developer Career!](https://dev.to/umarsiddique010/starting-my-new-journey-full-stack-web-developer-career-34mg)
+- [How I Built a Serverless URL Shortener on AWS Using Terraform](https://dev.to/jorgecontreras/how-i-built-a-serverless-url-shortener-on-aws-using-terraform-83e)
+- [Realtime Git/GitHub Branching Strategies for DevOps Engineers](https://dev.to/prodevopsguytech/realtime-gitgithub-branching-strategies-for-devops-engineers-of2)
+- [𝗦𝘁𝗿𝗲𝗮𝗺𝗹𝗶𝗻𝗲 𝗬𝗼𝘂𝗿 𝗔𝗣𝗜𝘀 𝘄𝗶𝘁𝗵 𝗔𝗣𝗜 𝗚𝗮𝘁𝗲𝘄𝗮𝘆 𝗶𝗻 .𝗡𝗘𝗧 💻](https://dev.to/apurvupadhyay/-3e32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
