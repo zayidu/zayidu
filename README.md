@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Disabling Active Directory User Accounts](https://dev.to/buzzgk/best-practices-for-disabling-active-directory-user-accounts-cnf)
-- [[ASP.NET] 設置與取得 Web.config 自定義資料](https://dev.to/fakestandard/aspnet-qu-de-webconfig-zi-ding-yi-zi-liao-1n4a)
-- [Whazzup mates? What&#39;s App by CLI!](https://dev.to/giuliano1993/whazzup-mates-whats-app-by-cli-2lhl)
-- [Database Deadlocks: Causes, Examples, and Solutions](https://dev.to/dbvismarketing/database-deadlocks-causes-examples-and-solutions-365)
-- [IBM Buys HashiCorp&#39;s Terraform and Vault: The End of Free?](https://dev.to/mike-vincent/ibm-buys-hashicorps-terraform-and-vault-the-end-of-free-1i94)
+- [Cosine Similarity Search on Vectors in Postgres with pgvector](https://dev.to/azayshrestha/cosine-similarity-search-on-vectors-in-postgres-with-pgvector-2kip)
+- [Learn how to create an animated expanding search bar with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-an-animated-expanding-search-bar-with-tailwind-css-1l4l)
+- [⚡ 🚀 Top 10 Trending GitHub Repositories, Nov 24 2024 🔥](https://dev.to/leamsigc/top-10-trending-github-repositories-nov-24-2024-1djo)
+- [How To Build A YouTube API Connection &lpar;Project&rpar; Using Vanilla JavaScript](https://dev.to/emmykolic/how-to-build-a-youtube-api-connection-project-using-vanilla-javascript-31)
+- [Securing Your Node.js Application: A Comprehensive Guide](https://dev.to/sekurno/securing-your-nodejs-application-a-comprehensive-guide-199j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
