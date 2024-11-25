@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Github user analysis and ranking website](https://dev.to/ray-d-song/i-built-a-github-user-analysis-and-ranking-website-5d3a)
-- [Ubuntu 22.04 Hibernate Using Swap File](https://dev.to/dansteren/ubuntu-2204-hibernate-using-swap-file-1ca1)
-- [The Amazing SQL Recursive Queries](https://dev.to/freakynit/the-amazing-sql-recursive-queries-16lh)
-- [Essential Input Strategies in Building Microservices Architecture](https://dev.to/brilworks/essential-input-strategies-in-building-microservices-architecture-42lg)
-- [Proyecto IoT con azure - RaspberryPi IoT simulator + IOT Hub + Stream Analytics + Blob Storage](https://dev.to/marcelasabogue/azure-raspberrypi-iot-simulator-iot-hub-stream-analytics-blob-storage-52h2)
+- [Best Test Automation Tools for QA Teams in 2024](https://dev.to/keploy/best-test-automation-tools-for-qa-teams-in-2024-4n8)
+- [The Thrill of Strategic Games: A Deep Dive into Forge of Empires and Similar Titles](https://dev.to/muhammad_ali_a6ec52608465/the-thrill-of-strategic-games-a-deep-dive-into-forge-of-empires-and-similar-titles-12gp)
+- [Upcoming JavaScript Features: Simplifying Array Combinations with `Array.zip` and `Array.zipKeyed`](https://dev.to/dharamgfx/upcoming-javascript-features-simplifying-array-combinations-with-arrayzip-and-arrayzipkeyed-e0g)
+- [AWS Private Zones To The Max](https://dev.to/skiscontent_46/aws-private-zone-to-the-max-1hf1)
+- [Aurora Limitless - Sharded Table](https://dev.to/aws-heroes/aurora-limitless-sharded-table-4cbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
