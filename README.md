@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [All About Proxies: Types and Implementing a Reverse Proxy with Load Balancing Using NGINX and Docker](https://dev.to/mspilari/all-about-proxies-types-and-implementing-a-reverse-proxy-with-load-balancing-using-nginx-and-docker-2amj)
-- [Agile Methodology Retrospective: Making Sense of Your Sprint Chaos](https://dev.to/devactivity-app/agile-methodology-retrospective-making-sense-of-your-sprint-chaos-4ml0)
-- [Steps for Conducting a Thorough QR Code Testing](https://dev.to/abhayit2000/steps-for-conducting-a-thorough-qr-code-testing-3kh4)
-- [Error Handling in Go](https://dev.to/vinolia_andisi/error-handling-in-go-38p4)
-- [Access S3 from a VPC](https://dev.to/misolainthecloud/access-s3-from-a-vpc-4kl5)
+- [Building a Production-Ready React Vite TypeScript Boilerplate](https://dev.to/singhamandeep007/building-a-production-ready-react-vite-typescript-boilerplate-4ifh)
+- [Automating Software Maintenance: Tools and Techniques](https://dev.to/vikrant_bhalodia/automating-software-maintenance-tools-and-techniques-313a)
+- [Top CI/CD Tools Every QA Automation Engineer Should Know](https://dev.to/jignect_technologies/top-cicd-tools-every-qa-automation-engineer-should-know-4opg)
+- [The Story Behind YourEmailValidator: Solving a Common Problem](https://dev.to/tinapyp/the-story-behind-youremailvalidator-solving-a-common-problem-27ep)
+- [Understanding K Element Patterns in LeetCode: The Basics &lpar;Part 1&rpar;](https://dev.to/shavonharrisdev/understanding-k-element-patterns-in-leetcode-the-basics-part-1-186p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
