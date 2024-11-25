@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Regular Commit Messages](https://dev.to/yusufbozaci/guide-to-regular-commit-messages-3agd)
-- [&lpar;D&rpar;: Aplicando o &quot;Princípio da Inversão de Dependências&quot; com Typescript e Java](https://dev.to/victorlima142/aplicando-o-dependency-inversion-principle-com-typescript-e-java-1bgg)
-- [🕵️ OSINT: link company acronyms to Standard Occupation Classification w. Open Source LLMs](https://dev.to/adriens/osint-link-company-acronyms-to-standard-occupation-classification-w-open-source-llms-5c6o)
-- [Granting autonomy to agents](https://dev.to/neuml/granting-autonomy-to-agents-ae6)
-- [&lpar;I&rpar;: Aplicando o &quot;Princípio da Segregação da Interface&quot; com Typescript e Java](https://dev.to/victorlima142/-aplicando-o-interface-segregation-principle-com-typescript-e-java-216o)
+- [Security Management and Advanced Threat Protection](https://dev.to/salman_khan_c31307505285e/security-management-and-advanced-threat-protection-3ed6)
+- [Untitled](https://dev.to/wilhio/untitled-3ip5)
+- [No Gap Ordered Numbering in SQL: A Unique Index to Serialize In Read Committed](https://dev.to/yugabyte/no-gap-ordered-numbering-in-sql-a-unique-index-to-serialize-in-read-committed-mcf)
+- [Build an AWS CI/CD Pipeline with deployment to Beanstalk](https://dev.to/ndzenyuy/build-an-aws-cicd-pipeline-with-deployment-to-beanstalk-n4n)
+- [Top 8 Open-Source Next.js Boilerplates/Starter](https://dev.to/bytefer/top-8-open-source-nextjs-boilerplatesstarter-b8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
