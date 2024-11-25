@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Next.js using Amplify &amp; AWS CDK](https://dev.to/redrobotdev/deploy-nextjs-using-amplify-aws-cdk-48g0)
-- [A KeyVault for the Power Platform](https://dev.to/sandr0p/a-keyvault-for-the-power-platform-2jpo)
-- [Quick Guide: Accessing Array Values in Nested Hashes in Ruby - AI generated](https://dev.to/ali-alkhawaja/quick-guide-accessing-array-values-in-nested-hashes-in-ruby-ai-generated-32bb)
-- [STAR Interview Questions and Answers: A Complete Guide](https://dev.to/hey_rishabh/star-interview-questions-and-answers-a-complete-guide-3n33)
-- [Laravel Custom Query Builders Over Scopes](https://dev.to/oussamamater/laravel-custom-query-builders-over-scopes-3kjf)
+- [10 Tips on How to Effectively Prompt Amazon Q](https://dev.to/nat_ndlovu/10-tips-on-how-to-effectively-prompt-amazon-q-50k2)
+- [Global Navigation + Gradient Path Planning](https://dev.to/notlongas/global-navigation-gradient-path-planning-40cg)
+- [🚀 Why Tap-to-Earn Games Are the Latest Crypto Trend](https://dev.to/david_tevzadze_/why-tap-to-earn-games-are-the-latest-crypto-trend-3baa)
+- [NgSysV2-3.5: A Serious Svelte InfoSys: A Client-Server Version](https://dev.to/mjoycemilburn/ngsysv2-35-a-serious-svelte-infosys-a-client-server-version-36e0)
+- [NgSysV2-3.6: A Serious Svelte InfoSys: Deploying to the Google Cloud](https://dev.to/mjoycemilburn/ngsysv2-36-a-serious-svelte-infosys-deploying-to-the-google-cloud-geo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
