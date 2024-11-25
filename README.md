@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cosine Similarity Search on Vectors in Postgres with pgvector](https://dev.to/azayshrestha/cosine-similarity-search-on-vectors-in-postgres-with-pgvector-2kip)
-- [Learn how to create an animated expanding search bar with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-an-animated-expanding-search-bar-with-tailwind-css-1l4l)
-- [⚡ 🚀 Top 10 Trending GitHub Repositories, Nov 24 2024 🔥](https://dev.to/leamsigc/top-10-trending-github-repositories-nov-24-2024-1djo)
-- [How To Build A YouTube API Connection &lpar;Project&rpar; Using Vanilla JavaScript](https://dev.to/emmykolic/how-to-build-a-youtube-api-connection-project-using-vanilla-javascript-31)
-- [Securing Your Node.js Application: A Comprehensive Guide](https://dev.to/sekurno/securing-your-nodejs-application-a-comprehensive-guide-199j)
+- [Explore: Why PacketSDK is So Concerned about Privacy](https://dev.to/packetsdk/explore-why-packetsdk-is-so-concerned-about-privacy-14a4)
+- [[Meme Monday] My favorite mythological animal is a cleanup npm installation](https://dev.to/manuartero/my-favorite-mythological-animal-is-a-cleanup-npm-installation-3g03)
+- [Tired of Guessing? Unlock the Secrets of Your GitHub Activity with devActivity](https://dev.to/devactivity-app/tired-of-guessing-unlock-the-secrets-of-your-github-activity-with-devactivity-4lee)
+- [Another Way to Structure your Symfony Project](https://dev.to/etienneleba/another-way-to-structure-your-symfony-project-llo)
+- [How to Resolve Local Changes Overwritten by Checkout](https://dev.to/labex/how-to-resolve-local-changes-overwritten-by-checkout-26p2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
