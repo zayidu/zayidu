@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Explore: Why PacketSDK is So Concerned about Privacy](https://dev.to/packetsdk/explore-why-packetsdk-is-so-concerned-about-privacy-14a4)
-- [[Meme Monday] My favorite mythological animal is a cleanup npm installation](https://dev.to/manuartero/my-favorite-mythological-animal-is-a-cleanup-npm-installation-3g03)
-- [Tired of Guessing? Unlock the Secrets of Your GitHub Activity with devActivity](https://dev.to/devactivity-app/tired-of-guessing-unlock-the-secrets-of-your-github-activity-with-devactivity-4lee)
-- [Another Way to Structure your Symfony Project](https://dev.to/etienneleba/another-way-to-structure-your-symfony-project-llo)
-- [How to Resolve Local Changes Overwritten by Checkout](https://dev.to/labex/how-to-resolve-local-changes-overwritten-by-checkout-26p2)
+- [All About Proxies: Types and Implementing a Reverse Proxy with Load Balancing Using NGINX and Docker](https://dev.to/mspilari/all-about-proxies-types-and-implementing-a-reverse-proxy-with-load-balancing-using-nginx-and-docker-2amj)
+- [Agile Methodology Retrospective: Making Sense of Your Sprint Chaos](https://dev.to/devactivity-app/agile-methodology-retrospective-making-sense-of-your-sprint-chaos-4ml0)
+- [Steps for Conducting a Thorough QR Code Testing](https://dev.to/abhayit2000/steps-for-conducting-a-thorough-qr-code-testing-3kh4)
+- [Error Handling in Go](https://dev.to/vinolia_andisi/error-handling-in-go-38p4)
+- [Access S3 from a VPC](https://dev.to/misolainthecloud/access-s3-from-a-vpc-4kl5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
