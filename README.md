@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Our ex-cloudflare team built a tool that extracts debug data from screen recordings](https://dev.to/jamdotdev/our-ex-cloudflare-team-built-a-tool-that-extracts-debug-data-from-screen-recordings-44ld)
-- [Apostille Requirements for Educational Certificates for Online Programs: A Complete Guide](https://dev.to/a-faraz-01/apostille-requirements-for-educational-certificates-for-online-programs-a-complete-guide-56k1)
-- [Generate Figma Designs with AI](https://dev.to/builderio/generate-figma-designs-with-ai-3256)
-- [Microcausality: How does modular manipulation of public opinion work using the Dirac Field?](https://dev.to/jan_ebestyn_89f80e8ec1d/microcausality-how-does-modular-manipulation-of-public-opinion-work-using-the-dirac-field-5di3)
-- [Prisma, gtfs-schedule - rough, incomplete Trip models](https://dev.to/codewander/prisma-gtfs-schedule-rough-incomplete-trip-models-27o2)
+- [Deploy Next.js using Amplify &amp; AWS CDK](https://dev.to/redrobotdev/deploy-nextjs-using-amplify-aws-cdk-48g0)
+- [A KeyVault for the Power Platform](https://dev.to/sandr0p/a-keyvault-for-the-power-platform-2jpo)
+- [Quick Guide: Accessing Array Values in Nested Hashes in Ruby - AI generated](https://dev.to/ali-alkhawaja/quick-guide-accessing-array-values-in-nested-hashes-in-ruby-ai-generated-32bb)
+- [STAR Interview Questions and Answers: A Complete Guide](https://dev.to/hey_rishabh/star-interview-questions-and-answers-a-complete-guide-3n33)
+- [Laravel Custom Query Builders Over Scopes](https://dev.to/oussamamater/laravel-custom-query-builders-over-scopes-3kjf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
