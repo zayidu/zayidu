@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Run-Length of Matchsticks &lpar;PWC 296&rpar;](https://dev.to/muthm/the-run-length-of-matchsticks-pwc-296-24b4)
-- [El Poder de lo Simple: Regresión Lineal para Predecir Precios de Casas](https://dev.to/edgarcajusol/el-poder-de-lo-simple-linear-regression-209o)
-- [Dare to challenge hard thing](https://dev.to/fadingna/dare-to-challenge-hard-thing-5blb)
-- [My AssemblyAI Speech-To-Text Challenge.](https://dev.to/kom_bao_e797302aeb6b36de0/my-assemblyai-speech-to-text-challenge-dej)
-- [Be Invariant](https://dev.to/meeshbhoombah/be-invariant-4hn2)
+- [The Final Stretch of My Open Source Journey: Part 1](https://dev.to/majd_almnayer_2101/the-final-stretch-of-my-open-source-journey-part-1-4039)
+- [How to Scale a Team from 6 to 25: Building Down to Move Up](https://dev.to/danllach/how-to-scale-a-team-from-6-to-25-building-down-to-move-up-3fo1)
+- [Guia Completo: Como Integrar WatermelonDB no React Native 0.76 com Expo 52 e TypeScript](https://dev.to/caiopratalli/guia-completo-como-integrar-watermelondb-no-react-native-076-com-expo-52-e-typescript-3k06)
+- [RepodAI: An AI-Powered Podcasting Platform with Transcription, Summarization, and Interactive Features 🎙️](https://dev.to/chijioke_osadebe_c6d2e7f7/repodai-an-ai-powered-podcasting-platform-with-transcription-summarization-and-interactive-7eg)
+- [Exploring the Canvas Series: combined with Transformers.js to achieve intelligent image processing](https://dev.to/leo_song/exploring-the-canvas-series-combined-with-transformersjs-to-achieve-intelligent-image-processing-2aol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
