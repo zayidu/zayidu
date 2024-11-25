@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Gynora: Your Voice-Enabled, AI-Powered Mental Health Companion](https://dev.to/omzi/gynora-your-ai-powered-mental-health-companion-4ge7)
-- [Optimizing Database Access with Spring Data JPA](https://dev.to/virajlakshitha/optimizing-database-access-with-spring-data-jpa-2hfa)
-- [Vite vs Next.js: Which One Should You Choose?](https://dev.to/shubhsk/vite-vs-nextjs-which-one-should-you-choose-4n42)
-- [Automating a Lambda Deployment with Terraform: A Case Study in Serverless Applications](https://dev.to/hosead6168/automating-a-lambda-deployment-with-terraform-a-case-study-in-serverless-applications-44oe)
-- [Laravel 11: Allowed memory size of 134217728 bytes exhausted &lpar;tried to allocate 23085056 bytes&rpar;](https://dev.to/awan/laravel-11-allowed-memory-size-of-134217728-bytes-exhausted-tried-to-allocate-23085056-bytes-392a)
+- [Build a Task Management App with React, TypeScript, and Material UI](https://dev.to/sevicode/build-a-task-management-app-with-react-typescript-and-material-ui-3n4n)
+- [Open-Source Development is Amazing!](https://dev.to/amullagaliev/open-source-development-is-amazing-4gho)
+- [&quot;The Future of Web Development: Exploring AR and VR Integration in Front-End Design&quot;](https://dev.to/vsfarooqkhan/the-future-of-web-development-exploring-ar-and-vr-integration-in-front-end-design-53pm)
+- [Strategy Design Pattern](https://dev.to/purimetlanareshbabu/strategy-design-pattern-1h5j)
+- [The Comprehensive Guide to Databases and Their Major Uses in Application Software](https://dev.to/adityabhuyan/the-comprehensive-guide-to-databases-and-their-major-uses-in-application-software-fag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
