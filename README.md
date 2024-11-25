@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG VS FINE-TUNING](https://dev.to/sai333/rag-vs-fine-tuning-35am)
-- [Starting My New Journey: Full-Stack Web Developer Career!](https://dev.to/umarsiddique010/starting-my-new-journey-full-stack-web-developer-career-34mg)
-- [How I Built a Serverless URL Shortener on AWS Using Terraform](https://dev.to/jorgecontreras/how-i-built-a-serverless-url-shortener-on-aws-using-terraform-83e)
-- [Realtime Git/GitHub Branching Strategies for DevOps Engineers](https://dev.to/prodevopsguytech/realtime-gitgithub-branching-strategies-for-devops-engineers-of2)
-- [𝗦𝘁𝗿𝗲𝗮𝗺𝗹𝗶𝗻𝗲 𝗬𝗼𝘂𝗿 𝗔𝗣𝗜𝘀 𝘄𝗶𝘁𝗵 𝗔𝗣𝗜 𝗚𝗮𝘁𝗲𝘄𝗮𝘆 𝗶𝗻 .𝗡𝗘𝗧 💻](https://dev.to/apurvupadhyay/-3e32)
+- [Scalability 101: Vertical vs. Horizontal Scaling](https://dev.to/isaactony/scalability-101-vertical-vs-horizontal-scaling-1c84)
+- [Starting React Native Project in 2025](https://dev.to/vladimirvovk/starting-react-native-project-in-2025-4n25)
+- [CNCF: The Driving Force Behind the Cloud-Native Revolution](https://dev.to/hkann/cncf-the-driving-force-behind-the-cloud-native-revolution-2gen)
+- [EchoAPI&#39;s Five Hidden Gems: Did You Know?](https://dev.to/philip_zhang_854092d88473/echoapis-five-hidden-gems-did-you-know-mpg)
+- [Building a Powerful API with Node.js, Express, and React](https://dev.to/philip_zhang_854092d88473/building-a-powerful-api-with-nodejs-express-and-react-3e79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
