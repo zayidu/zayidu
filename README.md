@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scalability 101: Vertical vs. Horizontal Scaling](https://dev.to/isaactony/scalability-101-vertical-vs-horizontal-scaling-1c84)
-- [Starting React Native Project in 2025](https://dev.to/vladimirvovk/starting-react-native-project-in-2025-4n25)
-- [CNCF: The Driving Force Behind the Cloud-Native Revolution](https://dev.to/hkann/cncf-the-driving-force-behind-the-cloud-native-revolution-2gen)
-- [EchoAPI&#39;s Five Hidden Gems: Did You Know?](https://dev.to/philip_zhang_854092d88473/echoapis-five-hidden-gems-did-you-know-mpg)
-- [Building a Powerful API with Node.js, Express, and React](https://dev.to/philip_zhang_854092d88473/building-a-powerful-api-with-nodejs-express-and-react-3e79)
+- [Our ex-cloudflare team built a tool that extracts debug data from screen recordings](https://dev.to/jamdotdev/our-ex-cloudflare-team-built-a-tool-that-extracts-debug-data-from-screen-recordings-44ld)
+- [Apostille Requirements for Educational Certificates for Online Programs: A Complete Guide](https://dev.to/a-faraz-01/apostille-requirements-for-educational-certificates-for-online-programs-a-complete-guide-56k1)
+- [Generate Figma Designs with AI](https://dev.to/builderio/generate-figma-designs-with-ai-3256)
+- [Microcausality: How does modular manipulation of public opinion work using the Dirac Field?](https://dev.to/jan_ebestyn_89f80e8ec1d/microcausality-how-does-modular-manipulation-of-public-opinion-work-using-the-dirac-field-5di3)
+- [Prisma, gtfs-schedule - rough, incomplete Trip models](https://dev.to/codewander/prisma-gtfs-schedule-rough-incomplete-trip-models-27o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
