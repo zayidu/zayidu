@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Ready React Vite TypeScript Boilerplate](https://dev.to/singhamandeep007/building-a-production-ready-react-vite-typescript-boilerplate-4ifh)
-- [Automating Software Maintenance: Tools and Techniques](https://dev.to/vikrant_bhalodia/automating-software-maintenance-tools-and-techniques-313a)
-- [Top CI/CD Tools Every QA Automation Engineer Should Know](https://dev.to/jignect_technologies/top-cicd-tools-every-qa-automation-engineer-should-know-4opg)
-- [The Story Behind YourEmailValidator: Solving a Common Problem](https://dev.to/tinapyp/the-story-behind-youremailvalidator-solving-a-common-problem-27ep)
-- [Understanding K Element Patterns in LeetCode: The Basics &lpar;Part 1&rpar;](https://dev.to/shavonharrisdev/understanding-k-element-patterns-in-leetcode-the-basics-part-1-186p)
+- [Understanding React in 5 mins](https://dev.to/yukaty/understanding-react-in-5-mins-43eh)
+- [Top 5 Mistakes Developers Make When Working with Git &lpar;And How to Avoid Them&rpar;](https://dev.to/khawaja_saim_f3a6ae038967/top-5-mistakes-developers-make-when-working-with-git-and-how-to-avoid-them-gjd)
+- [Web Performance Metrics: A Comprehensive Guide to Website Optimization](https://dev.to/aragorn_talks/web-performance-metrics-a-comprehensive-guide-to-website-optimization-57i3)
+- [AI in Development: 6 Critical Barriers to Full Adoption](https://dev.to/eransakal/ai-in-development-6-critical-barriers-to-full-adoption-3b71)
+- [SFTP vs API Integrations: Which Solution is Right for Your Business?](https://dev.to/nataliapolomkina/sftp-vs-api-integrations-which-solution-is-right-for-your-business-1mbo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
