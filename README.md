@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Test Automation Tools for QA Teams in 2024](https://dev.to/keploy/best-test-automation-tools-for-qa-teams-in-2024-4n8)
-- [The Thrill of Strategic Games: A Deep Dive into Forge of Empires and Similar Titles](https://dev.to/muhammad_ali_a6ec52608465/the-thrill-of-strategic-games-a-deep-dive-into-forge-of-empires-and-similar-titles-12gp)
-- [Upcoming JavaScript Features: Simplifying Array Combinations with `Array.zip` and `Array.zipKeyed`](https://dev.to/dharamgfx/upcoming-javascript-features-simplifying-array-combinations-with-arrayzip-and-arrayzipkeyed-e0g)
-- [AWS Private Zones To The Max](https://dev.to/skiscontent_46/aws-private-zone-to-the-max-1hf1)
-- [Aurora Limitless - Sharded Table](https://dev.to/aws-heroes/aurora-limitless-sharded-table-4cbj)
+- [Todo en Uno: Las Últimas Novedades de AWS pre-reInvent 2024](https://dev.to/aws-espanol/todo-en-uno-las-ultimas-novedades-de-aws-pre-reinvent-2024-4n46)
+- [Why Payroll Software is Important for Businesses?](https://dev.to/mobilise/why-payroll-software-is-important-for-businesses-3cih)
+- [Podcast Accessibility Enhancer transcription and insights application using AssemblyAI Challenge](https://dev.to/chintanonweb/podcast-accessibility-enhancer-transcription-and-insights-application-using-assemblyai-challenge-lbh)
+- [Perl Weekly #696 - Perl 5 is Perl](https://dev.to/szabgab/perl-weekly-696-perl-5-is-perl-2n9j)
+- [AI Language Models Show Human-Like Bias in Survey Answers](https://dev.to/mikeyoung44/ai-language-models-show-human-like-bias-in-survey-answers-m29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
