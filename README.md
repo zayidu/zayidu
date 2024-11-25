@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding React in 5 mins](https://dev.to/yukaty/understanding-react-in-5-mins-43eh)
-- [Top 5 Mistakes Developers Make When Working with Git &lpar;And How to Avoid Them&rpar;](https://dev.to/khawaja_saim_f3a6ae038967/top-5-mistakes-developers-make-when-working-with-git-and-how-to-avoid-them-gjd)
-- [Web Performance Metrics: A Comprehensive Guide to Website Optimization](https://dev.to/aragorn_talks/web-performance-metrics-a-comprehensive-guide-to-website-optimization-57i3)
-- [AI in Development: 6 Critical Barriers to Full Adoption](https://dev.to/eransakal/ai-in-development-6-critical-barriers-to-full-adoption-3b71)
-- [SFTP vs API Integrations: Which Solution is Right for Your Business?](https://dev.to/nataliapolomkina/sftp-vs-api-integrations-which-solution-is-right-for-your-business-1mbo)
+- [Proyecto Fugu: Revolucionando las aplicaciones web progresivas &lpar;PWA&rpar;](https://dev.to/macaoblog/proyecto-fugu-revolucionando-las-aplicaciones-web-progresivas-pwa-3405)
+- [Proyect Fugu](https://dev.to/turingsoracle/proyect-fugu-4e2j)
+- [How to Implement i18n Internationalization in a Next.js App Directory](https://dev.to/tandk8600/how-to-implement-i18n-internationalization-in-a-nextjs-app-directory-4744)
+- [🚀 Attention Fellow Developers and Busy Professionals!](https://dev.to/nyinyiz/attention-fellow-developers-and-busy-professionals-2985)
+- [Don&#39;t Just Copy and Paste Code, Make It Reusable](https://dev.to/estotriramdani/dont-just-copy-and-paste-code-make-it-reusable-oag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
