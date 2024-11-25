@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Todo en Uno: Las Últimas Novedades de AWS pre-reInvent 2024](https://dev.to/aws-espanol/todo-en-uno-las-ultimas-novedades-de-aws-pre-reinvent-2024-4n46)
-- [Why Payroll Software is Important for Businesses?](https://dev.to/mobilise/why-payroll-software-is-important-for-businesses-3cih)
-- [Podcast Accessibility Enhancer transcription and insights application using AssemblyAI Challenge](https://dev.to/chintanonweb/podcast-accessibility-enhancer-transcription-and-insights-application-using-assemblyai-challenge-lbh)
-- [Perl Weekly #696 - Perl 5 is Perl](https://dev.to/szabgab/perl-weekly-696-perl-5-is-perl-2n9j)
-- [AI Language Models Show Human-Like Bias in Survey Answers](https://dev.to/mikeyoung44/ai-language-models-show-human-like-bias-in-survey-answers-m29)
+- [Best Practices for Disabling Active Directory User Accounts](https://dev.to/buzzgk/best-practices-for-disabling-active-directory-user-accounts-cnf)
+- [[ASP.NET] 設置與取得 Web.config 自定義資料](https://dev.to/fakestandard/aspnet-qu-de-webconfig-zi-ding-yi-zi-liao-1n4a)
+- [Whazzup mates? What&#39;s App by CLI!](https://dev.to/giuliano1993/whazzup-mates-whats-app-by-cli-2lhl)
+- [Database Deadlocks: Causes, Examples, and Solutions](https://dev.to/dbvismarketing/database-deadlocks-causes-examples-and-solutions-365)
+- [IBM Buys HashiCorp&#39;s Terraform and Vault: The End of Free?](https://dev.to/mike-vincent/ibm-buys-hashicorps-terraform-and-vault-the-end-of-free-1i94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
