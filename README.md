@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Management and Advanced Threat Protection](https://dev.to/salman_khan_c31307505285e/security-management-and-advanced-threat-protection-3ed6)
-- [Untitled](https://dev.to/wilhio/untitled-3ip5)
-- [No Gap Ordered Numbering in SQL: A Unique Index to Serialize In Read Committed](https://dev.to/yugabyte/no-gap-ordered-numbering-in-sql-a-unique-index-to-serialize-in-read-committed-mcf)
-- [Build an AWS CI/CD Pipeline with deployment to Beanstalk](https://dev.to/ndzenyuy/build-an-aws-cicd-pipeline-with-deployment-to-beanstalk-n4n)
-- [Top 8 Open-Source Next.js Boilerplates/Starter](https://dev.to/bytefer/top-8-open-source-nextjs-boilerplatesstarter-b8e)
+- [Push vs. Pull-Based Deployments](https://dev.to/mohamednasser018/push-vs-pull-based-deployments-4m78)
+- [Introducing the Goliat Theme: A project for the Community!](https://dev.to/danieljsaldana/introducing-the-goliat-theme-a-project-for-the-community-87n)
+- [My Struggle as a Self-Taught Developer](https://dev.to/trisdev/my-struggle-as-a-self-taught-developer-33o8)
+- [PolyglotCode Published, but...](https://dev.to/amullagaliev/polyglotcode-published-but-3nni)
+- [Going with Mattermost!](https://dev.to/theoforger/going-with-mattermost-49hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
