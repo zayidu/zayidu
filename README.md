@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Proyecto Fugu: Revolucionando las aplicaciones web progresivas &lpar;PWA&rpar;](https://dev.to/macaoblog/proyecto-fugu-revolucionando-las-aplicaciones-web-progresivas-pwa-3405)
-- [Proyect Fugu](https://dev.to/turingsoracle/proyect-fugu-4e2j)
-- [How to Implement i18n Internationalization in a Next.js App Directory](https://dev.to/tandk8600/how-to-implement-i18n-internationalization-in-a-nextjs-app-directory-4744)
-- [🚀 Attention Fellow Developers and Busy Professionals!](https://dev.to/nyinyiz/attention-fellow-developers-and-busy-professionals-2985)
-- [Don&#39;t Just Copy and Paste Code, Make It Reusable](https://dev.to/estotriramdani/dont-just-copy-and-paste-code-make-it-reusable-oag)
+- [¿Para qué sirve el modificador static en Java?](https://dev.to/asjordi/para-que-sirve-el-modificador-static-en-java-17hi)
+- [Docker para iniciantes](https://dev.to/alexreis/dokcer-um-guia-do-zero-para-iniciantes-3d8l)
+- [Spring Boot 3 application on AWS Lambda - Part 12 Develop application with GraalVM Native Image](https://dev.to/aws-heroes/spring-boot-3-application-on-aws-lambda-part-12-develop-application-with-graalvm-native-image-14of)
+- [Continue contributing to Open-Source projects](https://dev.to/htsagara/continue-contributing-to-open-source-projects-3460)
+- [Proactive Downtime Prevention: AWS Site Monitoring Strategies](https://dev.to/billgist/proactive-downtime-prevention-aws-site-monitoring-strategies-30gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
