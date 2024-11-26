@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DuckDB vs Pandas - Exploring DuckDB&#39;s capabilities](https://dev.to/nageen20/duckdb-vs-pandas-exploring-duckdbs-capabilities-6kf)
-- [Kripto Para Riskinden Korunma: En İyi 4 Strateji](https://dev.to/cryptogem123/kripto-para-riskinden-korunma-en-iyi-4-strateji-1819)
-- [Introduction to Full Stack Development](https://dev.to/hariraghupathy/introduction-to-full-stack-development-4694)
-- [เข้าใจ Value Systems ในการเลือกเทคโนโลยี: มุมมองที่มากกว่าแค่ดีหรือแย่](https://dev.to/pskclub/ekhaaaicch-value-systems-ainkaareluuekethkhonolyii-mummngthiimaakkwaaaekhdiihruueaey-1nld)
-- [Step-by-Step Guide: Easy Reporting with ClosedXML and Views](https://dev.to/auyeungdavid_2847435260/step-by-step-guide-easy-reporting-with-closedxml-and-views-5h6k)
+- [ปัญหาของการจัดการเวลาในระบบกระจาย: Lamport Clock](https://dev.to/anuchito/payhaakhngkaarcchadkaarewlaaainrabbkracchaay-lamport-clock-43o0)
+- [Rewriting of the &quot;Arliz&quot; Book](https://dev.to/m__mdy__m/reworking-of-the-arliz-book-41gd)
+- [Getting Started with GitHub Actions: A Beginner&#39;s Guide to Automation](https://dev.to/jajera/getting-started-with-github-actions-a-beginners-guide-to-automation-4i49)
+- [VTS: An Open-Source Vector Data Migration Tool Based on Apache SeaTunnel](https://dev.to/seatunnel/vts-an-open-source-vector-data-migration-tool-based-on-apache-seatunnel-4k3c)
+- [GISBox: GIS Image Tiling and Distribution for Professional Map Services](https://dev.to/austin6799/gisbox-gis-image-tiling-and-distribution-for-professional-map-services-1392)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
