@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why angular is the best choice for e-commerce development in 2024](https://dev.to/elixenttech/why-angular-is-the-best-choice-for-e-commerce-development-in-2024-37bk)
-- [Importance Of Java For Software Development &amp; Its Applications](https://dev.to/parthspan/importance-of-java-for-software-development-its-applications-4h7c)
-- [Sortie de TypeScript 5.7 RC, nouvelle alternative à npm, avenir des frameworks JavaScript - Cette semaine en JS](https://dev.to/guillaumesere/sortie-de-typescript-57-rc-nouvelle-alternative-a-npm-avenir-des-frameworks-javascript-cette-2of5)
-- [Setting Up Local Solana Environment](https://dev.to/realacjoshua/setting-up-local-solana-environment-2koa)
-- [How to Use Codecov: Track Test Coverage with GitHub Actions in Your CI Pipeline &lpar;Step-by-Step Guide&rpar;](https://dev.to/1shubham7/how-to-use-codecov-track-test-coverage-with-github-actions-in-your-ci-pipeline-step-by-step-guide-2gck)
+- [Learnings from using the Sitecore ADM module](https://dev.to/byteminds_agency/learnings-from-using-the-sitecore-adm-module-9gc)
+- [Google profile design](https://dev.to/junissen9/google-profile-design-1mkn)
+- [Dataverse table with 2 lookup and 1 formula columns](https://dev.to/andrewelans/dataverse-table-with-2-lookup-and-1-formula-columns-1bn0)
+- [Destructuring in JavaScript](https://dev.to/oracle101/destructuring-in-javascript-4lmp)
+- [Exploring Advanced SQL Techniques: Pivoting, Data Modeling, and Interview Challenges](https://dev.to/grayhat/sql-interview-question-pivoting-sales-data-by-region-and-category-5146)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
