@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Status Page Software for Incident Communication](https://dev.to/maxshash/best-status-page-software-for-incident-communication-2kg8)
-- [10 Free APIs to supercharge your side projects](https://dev.to/nikdyankov/10-free-apis-to-supercharge-your-side-projects-2ja1)
-- [DHCP dinamik DNS güncellemesi](https://dev.to/yuksektepe/dhcp-dinamik-dns-guncellemesi-4l8a)
-- [LINUX ÜZERINDE OPERA BROWSER VIDEO OYNATMAMA SORUNU](https://dev.to/yuksektepe/linux-uzerinde-opera-browser-video-oynatmama-sorunu-383a)
-- [Trying Out Quickie Posts](https://dev.to/downtherabbithole/trying-out-quickie-posts-1ace)
+- [Building a Single Page Weather Application in JavaScript](https://dev.to/courtneykerr19/building-a-single-page-weather-application-in-javascript-ca6)
+- [Creating a marketplace with Stripe Connect: The onboard process](https://dev.to/ddm4313/creating-a-marketplace-with-stripe-connect-the-onboard-process-22cj)
+- [Unlocking Online Privacy: A Complete Guide to VPN Extensions 🌐🔒](https://dev.to/hexadecimalsoftware/unlocking-online-privacy-a-complete-guide-to-vpn-extensions-45kl)
+- [Why Do Multiple JSX Tags Need To Be Wrapped? : Wrapping Into Another Tag or Fragment](https://dev.to/sonaykara/why-do-multiple-jsx-tags-need-to-be-wrapped-wrapping-into-another-tag-or-fragment-173n)
+- [CSS Just Changed Forever: 7 Revolutionary Features You Need to Know](https://dev.to/mo-dev/css-just-changed-forever-7-revolutionary-features-you-need-to-know-4e5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
