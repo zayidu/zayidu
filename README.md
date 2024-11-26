@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Spring Boot Applications: An Introduction to Unit and Integration Testing](https://dev.to/igventurelli/testing-spring-boot-applications-an-introduction-to-unit-and-integration-testing-5a5n)
-- [Mysterious Display in Astro: Unraveling the Secrets of the Development Environment](https://dev.to/roboword/mysterious-display-in-astro-unraveling-the-secrets-of-the-development-environment-42ne)
-- [Drizzle vs. Prisma: Which ORM is best for your project?](https://dev.to/logrocket/drizzle-vs-prisma-which-orm-is-best-for-your-project-52be)
-- [Unlock CloudFront&#39;s New Logging Potential with Athena Partition Projection](https://dev.to/md_zeaulhoqueshuvo_5403/unlock-cloudfronts-new-logging-potential-with-athena-partition-projection-2k6m)
-- [💻🔗ESB Simplified: Making Application Integration Easy and Efficient🔗💻](https://dev.to/sushantparab/esb-simplified-making-application-integration-easy-and-efficient-2p77)
+- [Aurora Limitless - Resharding](https://dev.to/aws-heroes/aurora-limitless-resharding-39dl)
+- [Please comment on installation instructions given in README of my open source project](https://dev.to/oitoit/please-comment-on-installation-instructions-given-in-readme-of-my-open-source-project-4cb8)
+- [🚀Lessons Beyond Code: My First Hackathon Experience at Cassini📡](https://dev.to/adamgazdiev/lessons-beyond-code-my-first-hackathon-experience-at-cassini-2737)
+- [The Operator Survival Guide for TypeScript Devs](https://dev.to/vladyusha/the-operator-survival-guide-for-typescript-devs-4e3o)
+- [Trysil - Multitenat API REST](https://dev.to/davidlastrucci/multitenat-api-rest-1lgl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
