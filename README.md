@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TanStack Query v5 Guide: Features, Benefits, and How It&#39;s Used](https://dev.to/inam003/tanstack-query-v5-guide-features-benefits-and-how-its-used-36nk)
-- [Rocket-X DAO Governance: Balancing Efficiency and Fairness to Set a New Benchmark for Web3 Investment](https://dev.to/rocket_x/rocket-x-dao-governance-balancing-efficiency-and-fairness-to-set-a-new-benchmark-for-web3-464g)
-- [How to Change Display Name of Account in Windows 11?](https://dev.to/win11verse/how-to-change-display-name-of-account-in-windows-11-29m3)
-- [#104 — Deduplication of Row-Based Data — by Whole Row — Keeping the Original Order](https://dev.to/judith677/104-deduplication-of-row-based-data-by-whole-row-keeping-the-original-order-2bpe)
-- [How to Prevent NTP Reflection Attacks?](https://dev.to/adityabhuyan/how-to-prevent-ntp-reflection-attacks-5f33)
+- [🚀 Let’s Learn Event Loops in JavaScript! 🎡](https://dev.to/jagroop2001/lets-learn-event-loops-in-javascript-26k0)
+- [I finally tried Pest for PHP &amp; Laravel, then made the switch](https://dev.to/seriquynh/i-finally-tried-pest-for-php-laravel-then-made-the-switch-3anf)
+- [Extending Lighthouse for custom image and video optimization analysis](https://dev.to/manu4543/extending-lighthouse-for-custom-image-and-video-optimization-analysis-12ao)
+- [AI Object Detection: Revolutionizing Heavy Work Across Industries](https://dev.to/jhonsnow21/ai-object-detection-revolutionizing-heavy-work-across-industries-42l3)
+- [PostgreSQL CSV Errors-lowCalAlt_update3](https://dev.to/itsizakb/postgresql-lowcalaltupdate3-9np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
