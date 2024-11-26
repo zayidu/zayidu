@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Single Page Weather Application in JavaScript](https://dev.to/courtneykerr19/building-a-single-page-weather-application-in-javascript-ca6)
-- [Creating a marketplace with Stripe Connect: The onboard process](https://dev.to/ddm4313/creating-a-marketplace-with-stripe-connect-the-onboard-process-22cj)
-- [Unlocking Online Privacy: A Complete Guide to VPN Extensions 🌐🔒](https://dev.to/hexadecimalsoftware/unlocking-online-privacy-a-complete-guide-to-vpn-extensions-45kl)
-- [Why Do Multiple JSX Tags Need To Be Wrapped? : Wrapping Into Another Tag or Fragment](https://dev.to/sonaykara/why-do-multiple-jsx-tags-need-to-be-wrapped-wrapping-into-another-tag-or-fragment-173n)
-- [CSS Just Changed Forever: 7 Revolutionary Features You Need to Know](https://dev.to/mo-dev/css-just-changed-forever-7-revolutionary-features-you-need-to-know-4e5i)
+- [Introduction to AWS: Basics and main services](https://dev.to/briansuarezsantiago/introduction-to-aws-basics-and-main-services-3e8p)
+- [Cloud Computing Basics: What it is and why it&#39;s revolutionizing technology](https://dev.to/briansuarezsantiago/cloud-computing-basics-what-it-is-and-why-its-revolutionizing-technology-2d6)
+- [What is Reddit karma and why does it matter?](https://dev.to/notomarsol/what-is-reddit-karma-and-why-does-it-matter-130b)
+- [I Built a Chrome Extension to Bring Back the Google Maps Tab](https://dev.to/builtbylukas/i-built-a-chrome-extension-to-bring-back-the-google-maps-tab-3d4h)
+- [High-Performance Block Volumes in Virtual Cloud Environments: Parallel File Systems Comparison](https://dev.to/pltnvs/high-performance-block-volumes-in-virtual-cloud-environments-parallel-file-systems-comparison-1m4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
