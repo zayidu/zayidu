@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Hugging Face Models to AWS Lambda in 3 steps](https://dev.to/cnuss/deploy-hugging-face-models-to-aws-lambda-in-3-steps-5f18)
-- [The Critical Role of PCBs in High-Frequency Applications](https://dev.to/yoy/the-critical-role-of-pcbs-in-high-frequency-applications-289h)
-- [Why Idempotence Matters in CI/CD Pipeline Build Steps](https://dev.to/tutunak/why-idempotence-matters-in-cicd-pipeline-build-steps-4ka)
-- [Will AI make software disappear?](https://dev.to/polipo_gio/will-ai-make-software-disappear-4dla)
-- [Update Django Key using .env](https://dev.to/pcmagas/update-django-key-using-env-3h9e)
+- [9 AI-Powered Chrome Extensions to Save Hours of Manual Work 🧙‍♂️🔥](https://dev.to/madza/9-ai-powered-chrome-extensions-to-save-hours-of-manual-work-gg1)
+- [SQLAlchemy Foreign Key Error: &quot;Could not find table &#39;user&#39; for announcement.creator_id&quot;](https://dev.to/misbagas/sqlalchemy-foreign-key-error-could-not-find-table-user-for-announcementcreatorid-265f)
+- [Steps to Optimize Your Infrastructure During Azure Migration and Achieve Maximum Efficiency](https://dev.to/marufhossain/steps-to-optimize-your-infrastructure-during-azure-migration-and-achieve-maximum-efficiency-1gj8)
+- [The Importance of Integration Capabilities in a Quality Management System &lpar;QMS&rpar;](https://dev.to/anil_csimplifyit_905c/the-importance-of-integration-capabilities-in-a-quality-management-system-qms-1mi6)
+- [Discover the 9 Best Open-Source Alternatives to Postman](https://dev.to/philip_zhang_854092d88473/discover-the-9-best-open-source-alternatives-to-postman-549p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
