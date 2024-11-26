@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ArkWeb Page Preloading and Caching - Enhancing User Experience](https://dev.to/xun_wang_6384a403f9817c2/arkweb-page-preloading-and-caching-enhancing-user-experience-3l8c)
-- [Building and Testing the Gemini API with CI/CD Pipeline](https://dev.to/nirajan_mahara/building-and-testing-the-gemini-api-with-cicd-pipeline-1e7p)
-- [Unlocking Reasoning with Chain-of-Thought Prompting By Jill Smith](https://dev.to/wiko_w/unlocking-reasoning-with-chain-of-thought-promptingby-jill-smith-2o9k)
-- [TS - Array 元素上下移動、置頂置底和元素交換，你會嗎？](https://dev.to/fakestandard/ts-array-yuan-su-shang-xia-yi-dong-zhi-ding-zhi-di-he-yuan-su-jiao-huan-ni-hui-ma--2i0h)
-- [A Catalog of Prompt Patterns for Effective ChatGPT Engineering](https://dev.to/wiko_w/a-catalog-of-prompt-patterns-for-effective-chatgpt-engineering-4ghc)
+- [Understanding Application-Oriented Distributed Operating Systems: Architecture, Benefits, and Use Cases](https://dev.to/adityabhuyan/understanding-application-oriented-distributed-operating-systems-architecture-benefits-and-use-160m)
+- [Implementing Google One Tap Authentication in Next.js](https://dev.to/jakaria/implementing-google-one-tap-authentication-in-nextjs-2o1l)
+- [Part 2 - Enhancing Repository Descriptions with OpenAI for Maximum Impact](https://dev.to/dailysandbox/part-2-enhancing-repository-descriptions-with-openai-for-maximum-impact-4aao)
+- [Frontend Code from a Backend Perspective](https://dev.to/40percentironman/frontend-code-from-a-backend-perspective-47i7)
+- [In-depth Exploration of ArkWeb: Building High-Efficiency and Secure Web Components](https://dev.to/xun_wang_6384a403f9817c2/in-depth-exploration-of-arkweb-building-high-efficiency-and-secure-web-components-42mm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
