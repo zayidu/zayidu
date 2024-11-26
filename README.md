@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Push vs. Pull-Based Deployments](https://dev.to/mohamednasser018/push-vs-pull-based-deployments-4m78)
-- [Introducing the Goliat Theme: A project for the Community!](https://dev.to/danieljsaldana/introducing-the-goliat-theme-a-project-for-the-community-87n)
-- [My Struggle as a Self-Taught Developer](https://dev.to/trisdev/my-struggle-as-a-self-taught-developer-33o8)
-- [PolyglotCode Published, but...](https://dev.to/amullagaliev/polyglotcode-published-but-3nni)
-- [Going with Mattermost!](https://dev.to/theoforger/going-with-mattermost-49hl)
+- [Inline Unsupported Browser Warning &lpar;using Rails 7.2 feature&rpar;](https://dev.to/railsdesigner/inline-unsupported-browser-warning-using-rails-72-feature-ad4)
+- [Trap Form Errors in Microsoft Access](https://dev.to/richardrost/trap-form-errors-in-microsoft-access-11he)
+- [Comunicação entre threads com o uso de notify&lpar; &rpar;, wait&lpar; &rpar; e notifyAll&lpar; &rpar;](https://dev.to/javagirlsjug/comunicacao-entre-threads-com-o-uso-de-notify-wait-e-notifyall--31bc)
+- [Pergunte ao especialista - condição de corrida](https://dev.to/javagirlsjug/pergunte-ao-especialista-condicao-de-corrida-133)
+- [A instrução synchronized](https://dev.to/javagirlsjug/a-instrucao-synchronized-48f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
