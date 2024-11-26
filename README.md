@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ปัญหาของการจัดการเวลาในระบบกระจาย: Lamport Clock](https://dev.to/anuchito/payhaakhngkaarcchadkaarewlaaainrabbkracchaay-lamport-clock-43o0)
-- [Rewriting of the &quot;Arliz&quot; Book](https://dev.to/m__mdy__m/reworking-of-the-arliz-book-41gd)
-- [Getting Started with GitHub Actions: A Beginner&#39;s Guide to Automation](https://dev.to/jajera/getting-started-with-github-actions-a-beginners-guide-to-automation-4i49)
-- [VTS: An Open-Source Vector Data Migration Tool Based on Apache SeaTunnel](https://dev.to/seatunnel/vts-an-open-source-vector-data-migration-tool-based-on-apache-seatunnel-4k3c)
-- [GISBox: GIS Image Tiling and Distribution for Professional Map Services](https://dev.to/austin6799/gisbox-gis-image-tiling-and-distribution-for-professional-map-services-1392)
+- [Why angular is the best choice for e-commerce development in 2024](https://dev.to/elixenttech/why-angular-is-the-best-choice-for-e-commerce-development-in-2024-37bk)
+- [Importance Of Java For Software Development &amp; Its Applications](https://dev.to/parthspan/importance-of-java-for-software-development-its-applications-4h7c)
+- [Sortie de TypeScript 5.7 RC, nouvelle alternative à npm, avenir des frameworks JavaScript - Cette semaine en JS](https://dev.to/guillaumesere/sortie-de-typescript-57-rc-nouvelle-alternative-a-npm-avenir-des-frameworks-javascript-cette-2of5)
+- [Setting Up Local Solana Environment](https://dev.to/realacjoshua/setting-up-local-solana-environment-2koa)
+- [How to Use Codecov: Track Test Coverage with GitHub Actions in Your CI Pipeline &lpar;Step-by-Step Guide&rpar;](https://dev.to/1shubham7/how-to-use-codecov-track-test-coverage-with-github-actions-in-your-ci-pipeline-step-by-step-guide-2gck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
