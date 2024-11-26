@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Performance Audit - McMaster &amp; Next Faster](https://dev.to/pmbanugo/web-performance-audit-mcmaster-next-faster-2a1h)
-- [How We Simplifies Schema &amp; SQL Query Optimization](https://dev.to/drupaladmin/how-we-simplifies-schema-sql-query-optimization-c18)
-- [O que são Sistemas Distribuídos?](https://dev.to/vepo/o-que-sao-sistemas-distribuidos-3jgm)
-- [Your Path to Cloud Mastery: A Guide to AWS Certifications](https://dev.to/mohamednasser018/your-path-to-cloud-mastery-a-guide-to-aws-certifications-2cbd)
-- [How to Choose the Right Database for Your Full Stack Project](https://dev.to/kishanempiric/how-to-choose-the-right-database-for-your-full-stack-project-42m0)
+- [Deploy Hugging Face Models to AWS Lambda in 3 steps](https://dev.to/cnuss/deploy-hugging-face-models-to-aws-lambda-in-3-steps-5f18)
+- [The Critical Role of PCBs in High-Frequency Applications](https://dev.to/yoy/the-critical-role-of-pcbs-in-high-frequency-applications-289h)
+- [Why Idempotence Matters in CI/CD Pipeline Build Steps](https://dev.to/tutunak/why-idempotence-matters-in-cicd-pipeline-build-steps-4ka)
+- [Will AI make software disappear?](https://dev.to/polipo_gio/will-ai-make-software-disappear-4dla)
+- [Update Django Key using .env](https://dev.to/pcmagas/update-django-key-using-env-3h9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
