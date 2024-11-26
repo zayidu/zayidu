@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Common Mistakes in React Development and How to Avoid Them ⚛️](https://dev.to/rodolphedupuis/top-5-common-mistakes-in-react-development-and-how-to-avoid-them-1k1)
-- [Sites speed optimisation is a destination, not a journey](https://dev.to/nikdyankov/sites-speed-optimisation-is-a-destination-not-a-journey-2dca)
-- [Build, Publish, Secure: AWS CodePipeline Now Simplifies ECR Publishing and Vulnerability Scans](https://dev.to/aws-builders/build-publish-secure-aws-codepipeline-now-simplifies-ecr-publishing-and-vulnerability-scans-2j43)
-- [📹 How YouTube Scaled MySQL to Support 2.49 Billion Users 🚀](https://dev.to/hamzakhan/how-youtube-scaled-mysql-to-support-249-billion-users-3eea)
-- [Embracing true technical leadership: Leading with purpose in a changing world](https://dev.to/nikdyankov/embracing-true-technical-leadership-leading-with-purpose-in-a-changing-world-4594)
+- [Visual Studio and MSBuild](https://dev.to/junissen9/visual-studio-and-msbuild-3ijl)
+- [AWS CloudFront vs S3 Cross-Region Replication](https://dev.to/megha_shivhare_5038dc1047/aws-cloudfront-vs-s3-cross-region-replication-o0f)
+- [Share your project and get a feedback from others](https://dev.to/vbakhteev/share-your-project-and-get-a-feedback-from-others-ja3)
+- [Front End Debugging Part 2: Console.log&lpar;&rpar; to the Max](https://dev.to/codenameone/front-end-debugging-part-2-consolelog-to-the-max-5704)
+- [How I Accidentally &quot;Hijacked&quot; an npm Package 🚨](https://dev.to/aurimarl/how-i-accidentally-hijacked-an-npm-package-198e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
