@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Turkey-Themed Designs for Your Thanksgiving T-Shirts: Celebrate with Style](https://dev.to/atakan_zaar_c28304506fc/turkey-themed-designs-for-your-thanksgiving-t-shirts-celebrate-with-style-1873)
-- [Building a Login and Registration System Using NestJS with TypeORM and PostgreSQL](https://dev.to/buildwithgagan/building-a-login-and-registration-system-using-nestjs-with-typeorm-and-postgresql-19hh)
-- [Top 3 WBS Creators: Powerful Tools With Work Breakdown Structure Functionality](https://dev.to/thomasy0ung/top-3-wbs-creators-powerful-tools-with-work-breakdown-structure-functionality-1nah)
-- [Unable to access endpoints and keys for importing project in azure language studio.](https://dev.to/yashwanth_gowda_c4aed9587/unable-to-access-endpoints-and-keys-for-importing-project-in-azure-language-studio-5g4)
-- [npm i vs npm ci](https://dev.to/rameshpvr/npm-i-vs-npm-ci-49i9)
+- [Avoiding API Gateway’s integrations hard limit: scaling serverless architectures efficiently](https://dev.to/slsbytheodo/avoiding-api-gateways-integrations-hard-limit-scaling-serverless-architectures-efficiently-49on)
+- [Aurora Limitless - SQL Limitations](https://dev.to/aws-heroes/aurora-limitless-sql-limitations-20if)
+- [10 Key Facts Job Market 2024 &amp; Outlook Disruption](https://dev.to/sfdcnews/10-key-facts-job-market-2024-outlook-disruption-f73)
+- [Where WordPress Pages are Stored: A Complete Guide](https://dev.to/cozy_wordpress/where-wordpress-pages-are-stored-a-complete-guide-3o92)
+- [🚀 Master Any Language Efficiently with AI 🌍](https://dev.to/asimachowdhury/master-any-language-efficiently-with-ai-559d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
