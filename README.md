@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Inline Unsupported Browser Warning &lpar;using Rails 7.2 feature&rpar;](https://dev.to/railsdesigner/inline-unsupported-browser-warning-using-rails-72-feature-ad4)
-- [Trap Form Errors in Microsoft Access](https://dev.to/richardrost/trap-form-errors-in-microsoft-access-11he)
-- [Comunicação entre threads com o uso de notify&lpar; &rpar;, wait&lpar; &rpar; e notifyAll&lpar; &rpar;](https://dev.to/javagirlsjug/comunicacao-entre-threads-com-o-uso-de-notify-wait-e-notifyall--31bc)
-- [Pergunte ao especialista - condição de corrida](https://dev.to/javagirlsjug/pergunte-ao-especialista-condicao-de-corrida-133)
-- [A instrução synchronized](https://dev.to/javagirlsjug/a-instrucao-synchronized-48f8)
+- [ArkWeb Page Preloading and Caching - Enhancing User Experience](https://dev.to/xun_wang_6384a403f9817c2/arkweb-page-preloading-and-caching-enhancing-user-experience-3l8c)
+- [Building and Testing the Gemini API with CI/CD Pipeline](https://dev.to/nirajan_mahara/building-and-testing-the-gemini-api-with-cicd-pipeline-1e7p)
+- [Unlocking Reasoning with Chain-of-Thought Prompting By Jill Smith](https://dev.to/wiko_w/unlocking-reasoning-with-chain-of-thought-promptingby-jill-smith-2o9k)
+- [TS - Array 元素上下移動、置頂置底和元素交換，你會嗎？](https://dev.to/fakestandard/ts-array-yuan-su-shang-xia-yi-dong-zhi-ding-zhi-di-he-yuan-su-jiao-huan-ni-hui-ma--2i0h)
+- [A Catalog of Prompt Patterns for Effective ChatGPT Engineering](https://dev.to/wiko_w/a-catalog-of-prompt-patterns-for-effective-chatgpt-engineering-4ghc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
