@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoiding API Gateway’s integrations hard limit: scaling serverless architectures efficiently](https://dev.to/slsbytheodo/avoiding-api-gateways-integrations-hard-limit-scaling-serverless-architectures-efficiently-49on)
-- [Aurora Limitless - SQL Limitations](https://dev.to/aws-heroes/aurora-limitless-sql-limitations-20if)
-- [10 Key Facts Job Market 2024 &amp; Outlook Disruption](https://dev.to/sfdcnews/10-key-facts-job-market-2024-outlook-disruption-f73)
-- [Where WordPress Pages are Stored: A Complete Guide](https://dev.to/cozy_wordpress/where-wordpress-pages-are-stored-a-complete-guide-3o92)
-- [🚀 Master Any Language Efficiently with AI 🌍](https://dev.to/asimachowdhury/master-any-language-efficiently-with-ai-559d)
+- [DuckDB vs Pandas - Exploring DuckDB&#39;s capabilities](https://dev.to/nageen20/duckdb-vs-pandas-exploring-duckdbs-capabilities-6kf)
+- [Kripto Para Riskinden Korunma: En İyi 4 Strateji](https://dev.to/cryptogem123/kripto-para-riskinden-korunma-en-iyi-4-strateji-1819)
+- [Introduction to Full Stack Development](https://dev.to/hariraghupathy/introduction-to-full-stack-development-4694)
+- [เข้าใจ Value Systems ในการเลือกเทคโนโลยี: มุมมองที่มากกว่าแค่ดีหรือแย่](https://dev.to/pskclub/ekhaaaicch-value-systems-ainkaareluuekethkhonolyii-mummngthiimaakkwaaaekhdiihruueaey-1nld)
+- [Step-by-Step Guide: Easy Reporting with ClosedXML and Views](https://dev.to/auyeungdavid_2847435260/step-by-step-guide-easy-reporting-with-closedxml-and-views-5h6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
