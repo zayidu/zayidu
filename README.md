@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Aurora Limitless - Resharding](https://dev.to/aws-heroes/aurora-limitless-resharding-39dl)
-- [Please comment on installation instructions given in README of my open source project](https://dev.to/oitoit/please-comment-on-installation-instructions-given-in-readme-of-my-open-source-project-4cb8)
-- [🚀Lessons Beyond Code: My First Hackathon Experience at Cassini📡](https://dev.to/adamgazdiev/lessons-beyond-code-my-first-hackathon-experience-at-cassini-2737)
-- [The Operator Survival Guide for TypeScript Devs](https://dev.to/vladyusha/the-operator-survival-guide-for-typescript-devs-4e3o)
-- [Trysil - Multitenat API REST](https://dev.to/davidlastrucci/multitenat-api-rest-1lgl)
+- [Top 5 Common Mistakes in React Development and How to Avoid Them ⚛️](https://dev.to/rodolphedupuis/top-5-common-mistakes-in-react-development-and-how-to-avoid-them-1k1)
+- [Sites speed optimisation is a destination, not a journey](https://dev.to/nikdyankov/sites-speed-optimisation-is-a-destination-not-a-journey-2dca)
+- [Build, Publish, Secure: AWS CodePipeline Now Simplifies ECR Publishing and Vulnerability Scans](https://dev.to/aws-builders/build-publish-secure-aws-codepipeline-now-simplifies-ecr-publishing-and-vulnerability-scans-2j43)
+- [📹 How YouTube Scaled MySQL to Support 2.49 Billion Users 🚀](https://dev.to/hamzakhan/how-youtube-scaled-mysql-to-support-249-billion-users-3eea)
+- [Embracing true technical leadership: Leading with purpose in a changing world](https://dev.to/nikdyankov/embracing-true-technical-leadership-leading-with-purpose-in-a-changing-world-4594)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
