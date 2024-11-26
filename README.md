@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🐜 Ant as a standard](https://dev.to/hmpljs/ant-as-a-standard-153m)
-- [Hello everyone, I have 2 questions](https://dev.to/islam911k/hello-everyone-i-have-2-questions-2h8j)
-- [Getting Started with GitHub Actions: A Beginner&#39;s Guide to Automation](https://dev.to/jajera/getting-started-with-github-actions-a-beginners-guide-to-automation-g60)
-- [Managing Terraform State for Multi-Environment Setups](https://dev.to/jajera/managing-terraform-state-for-multi-environment-setups-36om)
-- [Debug and run on Win32](https://dev.to/junissen9/debug-and-run-on-win32-15j4)
+- [Best Status Page Software for Incident Communication](https://dev.to/maxshash/best-status-page-software-for-incident-communication-2kg8)
+- [10 Free APIs to supercharge your side projects](https://dev.to/nikdyankov/10-free-apis-to-supercharge-your-side-projects-2ja1)
+- [DHCP dinamik DNS güncellemesi](https://dev.to/yuksektepe/dhcp-dinamik-dns-guncellemesi-4l8a)
+- [LINUX ÜZERINDE OPERA BROWSER VIDEO OYNATMAMA SORUNU](https://dev.to/yuksektepe/linux-uzerinde-opera-browser-video-oynatmama-sorunu-383a)
+- [Trying Out Quickie Posts](https://dev.to/downtherabbithole/trying-out-quickie-posts-1ace)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
