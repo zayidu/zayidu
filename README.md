@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Application-Oriented Distributed Operating Systems: Architecture, Benefits, and Use Cases](https://dev.to/adityabhuyan/understanding-application-oriented-distributed-operating-systems-architecture-benefits-and-use-160m)
-- [Implementing Google One Tap Authentication in Next.js](https://dev.to/jakaria/implementing-google-one-tap-authentication-in-nextjs-2o1l)
-- [Part 2 - Enhancing Repository Descriptions with OpenAI for Maximum Impact](https://dev.to/dailysandbox/part-2-enhancing-repository-descriptions-with-openai-for-maximum-impact-4aao)
-- [Frontend Code from a Backend Perspective](https://dev.to/40percentironman/frontend-code-from-a-backend-perspective-47i7)
-- [In-depth Exploration of ArkWeb: Building High-Efficiency and Secure Web Components](https://dev.to/xun_wang_6384a403f9817c2/in-depth-exploration-of-arkweb-building-high-efficiency-and-secure-web-components-42mm)
+- [TanStack Query v5 Guide: Features, Benefits, and How It&#39;s Used](https://dev.to/inam003/tanstack-query-v5-guide-features-benefits-and-how-its-used-36nk)
+- [Rocket-X DAO Governance: Balancing Efficiency and Fairness to Set a New Benchmark for Web3 Investment](https://dev.to/rocket_x/rocket-x-dao-governance-balancing-efficiency-and-fairness-to-set-a-new-benchmark-for-web3-464g)
+- [How to Change Display Name of Account in Windows 11?](https://dev.to/win11verse/how-to-change-display-name-of-account-in-windows-11-29m3)
+- [#104 — Deduplication of Row-Based Data — by Whole Row — Keeping the Original Order](https://dev.to/judith677/104-deduplication-of-row-based-data-by-whole-row-keeping-the-original-order-2bpe)
+- [How to Prevent NTP Reflection Attacks?](https://dev.to/adityabhuyan/how-to-prevent-ntp-reflection-attacks-5f33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
