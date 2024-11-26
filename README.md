@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Visual Studio and MSBuild](https://dev.to/junissen9/visual-studio-and-msbuild-3ijl)
-- [AWS CloudFront vs S3 Cross-Region Replication](https://dev.to/megha_shivhare_5038dc1047/aws-cloudfront-vs-s3-cross-region-replication-o0f)
-- [Share your project and get a feedback from others](https://dev.to/vbakhteev/share-your-project-and-get-a-feedback-from-others-ja3)
-- [Front End Debugging Part 2: Console.log&lpar;&rpar; to the Max](https://dev.to/codenameone/front-end-debugging-part-2-consolelog-to-the-max-5704)
-- [How I Accidentally &quot;Hijacked&quot; an npm Package 🚨](https://dev.to/aurimarl/how-i-accidentally-hijacked-an-npm-package-198e)
+- [🐜 Ant as a standard](https://dev.to/hmpljs/ant-as-a-standard-153m)
+- [Hello everyone, I have 2 questions](https://dev.to/islam911k/hello-everyone-i-have-2-questions-2h8j)
+- [Getting Started with GitHub Actions: A Beginner&#39;s Guide to Automation](https://dev.to/jajera/getting-started-with-github-actions-a-beginners-guide-to-automation-g60)
+- [Managing Terraform State for Multi-Environment Setups](https://dev.to/jajera/managing-terraform-state-for-multi-environment-setups-36om)
+- [Debug and run on Win32](https://dev.to/junissen9/debug-and-run-on-win32-15j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
