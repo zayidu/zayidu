@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learnings from using the Sitecore ADM module](https://dev.to/byteminds_agency/learnings-from-using-the-sitecore-adm-module-9gc)
-- [Google profile design](https://dev.to/junissen9/google-profile-design-1mkn)
-- [Dataverse table with 2 lookup and 1 formula columns](https://dev.to/andrewelans/dataverse-table-with-2-lookup-and-1-formula-columns-1bn0)
-- [Destructuring in JavaScript](https://dev.to/oracle101/destructuring-in-javascript-4lmp)
-- [Exploring Advanced SQL Techniques: Pivoting, Data Modeling, and Interview Challenges](https://dev.to/grayhat/sql-interview-question-pivoting-sales-data-by-region-and-category-5146)
+- [Web Performance Audit - McMaster &amp; Next Faster](https://dev.to/pmbanugo/web-performance-audit-mcmaster-next-faster-2a1h)
+- [How We Simplifies Schema &amp; SQL Query Optimization](https://dev.to/drupaladmin/how-we-simplifies-schema-sql-query-optimization-c18)
+- [O que são Sistemas Distribuídos?](https://dev.to/vepo/o-que-sao-sistemas-distribuidos-3jgm)
+- [Your Path to Cloud Mastery: A Guide to AWS Certifications](https://dev.to/mohamednasser018/your-path-to-cloud-mastery-a-guide-to-aws-certifications-2cbd)
+- [How to Choose the Right Database for Your Full Stack Project](https://dev.to/kishanempiric/how-to-choose-the-right-database-for-your-full-stack-project-42m0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
