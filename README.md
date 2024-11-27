@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v304](https://dev.to/devteam/welcome-thread-v305-57bl)
-- [Rethinking interfaces in Flutter projects](https://dev.to/kelvinwieth/rethinking-interfaces-in-flutter-projects-3fp9)
-- [Collections in Salesforce Apex](https://dev.to/jamie4190/collections-in-salesforce-apex-a81)
-- [How Java Development Services Ensure Scalability and Performance in Modern Applications](https://dev.to/adityabhuyan/how-java-development-services-ensure-scalability-and-performance-in-modern-applications-3gn)
-- [✨ Transform Your Images with a 3D Bend &amp; Reveal Effect! ✨](https://dev.to/prince_beec5ccde00b7c6c73/transform-your-images-with-a-3d-bend-reveal-effect-28co)
+- [SQL: Multi field mixed deduplication followed by numbering #eg81](https://dev.to/esproc_spl/sql-multi-field-mixed-deduplication-followed-by-numbering-eg81-2ai0)
+- [Federally Qualified Health Centers &lpar;FQHCs&rpar; and EHR Adoption: Transforming Care Through Technology](https://dev.to/hrithicrohan/federally-qualified-health-centers-fqhcs-and-ehr-adoption-transforming-care-through-technology-567h)
+- [How to Remove Background of an Image in Paint App in Windows 11?](https://dev.to/win11verse/how-to-remove-background-of-an-image-in-paint-app-in-windows-11-32n2)
+- [¿Qué es un bloque static en Java?](https://dev.to/asjordi/que-es-un-bloque-static-en-java-539k)
+- [Overcoming Monorepo Challenges to Enhance Performance and Productivity](https://dev.to/shieldstring/overcoming-monorepo-challenges-to-enhance-performance-and-productivity-26dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
