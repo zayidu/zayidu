@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OKMX8MP-C GDB Remote Debugging Skills](https://dev.to/ronnie_r_152dc2151d9449c6/okmx8mp-c-gdb-remote-debugging-skills-15eh)
-- [Getting Started with Object-Oriented Design &lpar;Part 2&rpar;: Design Principles and Design Patterns](https://dev.to/michymono77/getting-started-with-object-oriented-design-part-2-design-principles-and-design-patterns-1e7c)
-- [📦 ASDF: Gerenciando versões de linguagens e ferramentas num lugar só](https://dev.to/adrianoavelino/asdf-gerenciando-versoes-de-linguagens-e-ferramentas-num-lugar-so-1lmh)
-- [Demystifying Algorithms: Iterative Traversal and Tail Insertion Patterns](https://dev.to/craftedwithintent/demystifying-algorithms-iterative-traversal-and-tail-insertion-patterns-27io)
-- [Understanding How Spaces Are Encoded: %20 with encodeURI vs. + with URL](https://dev.to/lico/understanding-how-spaces-are-encoded-20-with-encodeuri-vs-with-url-2d6c)
+- [Resolving Environment Preset Loading Error in React Three Fiber](https://dev.to/anapimolodec/resolving-environment-preset-loading-error-in-react-three-fiber-5elc)
+- [The Role of Chatbots in Customer Engagement: How to build and integrate one.](https://dev.to/muhammed_nidhal/the-role-of-chatbots-in-customer-engagement-how-to-build-and-integrate-one-544f)
+- [Planning To Resolve Automatic Feedback Loop](https://dev.to/kannav02/planning-to-resolve-automatic-feedback-loop-4fgd)
+- [HarmonyOS Next New Paradigm of Secure Access: Analysis of System Picker and Security Controls](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-new-paradigm-of-secure-access-analysis-of-system-picker-and-security-controls-5b97)
+- [鸿蒙Next安全访问新范式：系统Picker与安全控件解析](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextan-quan-fang-wen-xin-fan-shi-xi-tong-pickeryu-an-quan-kong-jian-jie-xi-40o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
