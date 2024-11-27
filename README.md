@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hiding Notifications in Foreground and Triggering Them in Background or Killed States using notifee](https://dev.to/amitkumar13/hiding-notifications-in-foreground-and-triggering-them-in-background-or-killed-states-using-notifee-mjc)
-- [Understanding Higher-Order Components &lpar;HOCs&rpar; in React Native with a Custom Modal Example](https://dev.to/amitkumar13/understanding-higher-order-components-hocs-in-react-native-with-a-custom-modal-example-7mj)
-- [How to Implement Voice-to-Text in React Native](https://dev.to/amitkumar13/how-to-implement-voice-to-text-in-react-native-3j0d)
-- [Mastering Test Cases for React Native MMKV Library: A Comprehensive Guide](https://dev.to/amitkumar13/mastering-test-cases-for-react-native-mmkv-library-a-comprehensive-guide-4l5c)
-- [Enhance React Native Security and Performance: with MMKV Storage](https://dev.to/amitkumar13/enhance-react-native-security-and-performance-with-mmkv-storage-1p86)
+- [Reactive Programming with JavaScript but Beyond the Basics](https://dev.to/shafayeat/reactive-programming-with-javascript-but-beyond-the-basics-4il1)
+- [Solving eventual consistency in frontend](https://dev.to/logrocket/solving-eventual-consistency-in-frontend-3dgl)
+- [Cloud Migration: 5 Common Challenges and Solutions](https://dev.to/aws-builders/cloud-migration-5-common-challenges-and-solutions-3ij0)
+- [What is your BEST playlist music for work? 🎶](https://dev.to/thomasbnt/what-is-your-best-playlist-music-for-work-1olb)
+- [Day 11 - Looping exercises](https://dev.to/lakshmi_prithanadesan_32/day-11-looping-exercises-3139)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
