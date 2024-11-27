@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple explanation of Clustered Index and Non-Clustered Index](https://dev.to/mrcaption49/simple-explanation-of-clustered-index-and-non-clustered-index-2j4f)
-- [Clustered Index and Non-Clustered | Employee ID | Employee Name](https://dev.to/mrcaption49/clustered-index-and-non-clustered-employee-id-employee-name-b4d)
-- [The Future of Mobile Development: Why React Native Developers Are in High Demand](https://dev.to/certified_developers/the-future-of-mobile-development-why-react-native-developers-are-in-high-demand-gma)
-- [Creating a Chatbot with Natural Language Processing &lpar;NLP&rpar; 🤖💬](https://dev.to/info_generalhazedawn_a3d/creating-a-chatbot-with-natural-language-processing-nlp-43a8)
-- [Things Platform Engineers Lack When Dealing With Databases](https://dev.to/metis/things-platform-engineers-lack-when-dealing-with-databases-1jic)
+- [How to C#: Add Configuration to your .NET 8 Web API Application](https://dev.to/iamrule/how-to-c-add-configuration-to-your-net-8-web-api-application-4cjf)
+- [Why IT Leaders Should Focus on Multi-Factor Authentication in 2025](https://dev.to/blogginger/why-it-leaders-should-focus-on-multi-factor-authentication-in-2025-476a)
+- [GitOps vs. DevOps: Understanding the Key Differences](https://dev.to/mohamednasser018/gitops-vs-devops-understanding-the-key-differences-32d5)
+- [Boost Node.js Performance: Master JIT Compilation for Lightning-Fast Apps](https://dev.to/aaravjoshi/boost-nodejs-performance-master-jit-compilation-for-lightning-fast-apps-27hk)
+- [Journey of Building, Learning, and Innovating](https://dev.to/shubham_aher_d9c923f6b7b4/journey-of-building-learning-and-innovating-3gfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
