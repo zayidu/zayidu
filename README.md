@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Best UX Audit Tools Toward Optimizing User Experience in 2025](https://dev.to/lollypopdesign/15-best-ux-audit-tools-toward-optimizing-user-experience-in-2025-5f7a)
-- [ReentrantReadWriteLock](https://dev.to/pranavt84/reentrantreadwritelock-2fd)
-- [From Code to Coaching: Embracing the Growth Mindset in Engineering Management](https://dev.to/_firelinks/from-code-to-coaching-embracing-the-growth-mindset-in-engineering-management-3342)
-- [Mi primera computadora.](https://dev.to/fedatu/mi-primera-computadora-2f9n)
-- [Observable v/s Promise](https://dev.to/ankushgoyal11/observable-vs-promise-2175)
+- [Welcome Thread - v304](https://dev.to/devteam/welcome-thread-v305-57bl)
+- [Rethinking interfaces in Flutter projects](https://dev.to/kelvinwieth/rethinking-interfaces-in-flutter-projects-3fp9)
+- [Collections in Salesforce Apex](https://dev.to/jamie4190/collections-in-salesforce-apex-a81)
+- [How Java Development Services Ensure Scalability and Performance in Modern Applications](https://dev.to/adityabhuyan/how-java-development-services-ensure-scalability-and-performance-in-modern-applications-3gn)
+- [✨ Transform Your Images with a 3D Bend &amp; Reveal Effect! ✨](https://dev.to/prince_beec5ccde00b7c6c73/transform-your-images-with-a-3d-bend-reveal-effect-28co)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
