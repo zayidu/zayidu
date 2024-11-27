@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reactive Programming with JavaScript but Beyond the Basics](https://dev.to/shafayeat/reactive-programming-with-javascript-but-beyond-the-basics-4il1)
-- [Solving eventual consistency in frontend](https://dev.to/logrocket/solving-eventual-consistency-in-frontend-3dgl)
-- [Cloud Migration: 5 Common Challenges and Solutions](https://dev.to/aws-builders/cloud-migration-5-common-challenges-and-solutions-3ij0)
-- [What is your BEST playlist music for work? 🎶](https://dev.to/thomasbnt/what-is-your-best-playlist-music-for-work-1olb)
-- [Day 11 - Looping exercises](https://dev.to/lakshmi_prithanadesan_32/day-11-looping-exercises-3139)
+- [🏎️ When Bots Play Better: My Journey of Creating a Bot for KartWars.io](https://dev.to/kmataru/when-bots-play-better-my-journey-of-creating-a-bot-for-kartwarsio-4a8p)
+- [Build and Deploy your own Browser Extensions](https://dev.to/mukhilpadmanabhan/build-and-deploy-your-own-browser-extensions-5034)
+- [Was This Text written by a Human? We asked Real Humans &lpar;Part I&rpar;](https://dev.to/airabbit/was-this-text-written-by-a-human-we-asked-real-humans-part-i-356l)
+- [What Most People Get Wrong About the Term SSR](https://dev.to/jlarky/what-most-people-get-wrong-about-the-term-ssr-3ijo)
+- [Looking forward to this one!](https://dev.to/ben/looking-forward-to-this-one-22lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
