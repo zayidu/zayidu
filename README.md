@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I absolutely love when CSS gets new features &lpar;Even though it usually takes me years to remember to use them 😄&rpar;](https://dev.to/ben/i-absolutely-love-when-css-gets-new-features-even-though-it-usually-takes-me-years-to-remember-to-11po)
-- [Have you ever built your own browser extension? What kind of problems did you have and which functionalities were handy for you? Share your opinion or tips in comments! Let’s help each other to build better extensions!](https://dev.to/mukhilpadmanabhan/have-you-ever-built-your-own-browser-extension-what-kind-of-problems-did-you-have-and-which-2kep)
-- [AWS CloudWatch Logging and Live Tail using AWS CLI!](https://dev.to/bhatiagirish/aws-cloudwatch-logging-and-live-tail-using-aws-cli-5h4e)
-- [Basic Understanding of AWS Cloud Adoption Framework-&lpar;CAF&rpar;](https://dev.to/borhanitrash/basic-understanding-of-aws-cloud-adoption-framework-caf-cp5)
-- [November 25 XRPL Bug: Current Status and What’s Next](https://dev.to/ripplexdev/november-25-xrpl-bug-current-status-and-whats-next-b61)
+- [Spacer Components introduced in ViewComponent 3.20](https://dev.to/railsdesigner/spacer-components-introduced-in-viewcomponent-320-5130)
+- [📊🚀 Top Tools for Managing Cryptocurrency Investments Effectively](https://dev.to/joshthebtc/top-tools-for-managing-cryptocurrency-investments-effectively-2pp9)
+- [Como poner PHP en el path con comandos del terminal en Windows 11](https://dev.to/drodero/como-poner-php-en-el-path-con-comandos-del-terminal-en-windows-11-538n)
+- [How to Avoid Blinking in Android Recycler View](https://dev.to/ssharyk/how-to-avoid-blinking-in-android-recycler-view-3n7)
+- [2024 Black Friday and Cyber Monday deals for developers.](https://dev.to/jarvisscript/2024-black-friday-and-cyber-monday-deals-for-developers-4mlo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
