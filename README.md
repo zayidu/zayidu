@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Feedback🗒️💻](https://dev.to/taariqelliott/feedback-45oe)
-- [Streamlined Contract Testing in Node.js: A Simple and Achievable Approach](https://dev.to/appsignal/streamlined-contract-testing-in-nodejs-a-simple-and-achievable-approach-56eg)
-- [Getting Back to Java: A Journey Through One of the Most Versatile Languages](https://dev.to/ricardocaselati/getting-back-to-java-a-journey-through-one-of-the-most-versatile-languages-4n88)
-- [Aurora Limitless - Reference Tables](https://dev.to/aws-heroes/aurora-limitless-reference-tables-1m9i)
-- [Are Ed25519 Keys Quantum-Resistant? Exploring the Future of Cryptography](https://dev.to/hedera/are-ed25519-keys-quantum-resistant-exploring-the-future-of-cryptography-2mjf)
+- [Hiding Notifications in Foreground and Triggering Them in Background or Killed States using notifee](https://dev.to/amitkumar13/hiding-notifications-in-foreground-and-triggering-them-in-background-or-killed-states-using-notifee-mjc)
+- [Understanding Higher-Order Components &lpar;HOCs&rpar; in React Native with a Custom Modal Example](https://dev.to/amitkumar13/understanding-higher-order-components-hocs-in-react-native-with-a-custom-modal-example-7mj)
+- [How to Implement Voice-to-Text in React Native](https://dev.to/amitkumar13/how-to-implement-voice-to-text-in-react-native-3j0d)
+- [Mastering Test Cases for React Native MMKV Library: A Comprehensive Guide](https://dev.to/amitkumar13/mastering-test-cases-for-react-native-mmkv-library-a-comprehensive-guide-4l5c)
+- [Enhance React Native Security and Performance: with MMKV Storage](https://dev.to/amitkumar13/enhance-react-native-security-and-performance-with-mmkv-storage-1p86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
