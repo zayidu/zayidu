@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From PHP to Go: Recognizing and Avoiding PHP-ish Patterns in Go Projects &lpar;part 2&rpar;](https://dev.to/azibom/from-php-to-go-recognizing-and-avoiding-php-ish-patterns-in-go-projects-part-2-4ng7)
-- [Building GitHub Airlines](https://dev.to/charliesay/building-github-airlines-d02)
-- [Framework agnostic Avatar component](https://dev.to/aleks00onyshko/framework-agnostic-avatar-component-141m)
-- [🎶 Shazam UX Secrets + iOS 18 Photo Drama &amp; CSS Borders](https://dev.to/adam/shazam-ux-secrets-ios-18-photo-drama-css-borders-671)
-- [Mastering C++: A Comprehensive Guide for Aspiring Programmers](https://dev.to/getvm/mastering-c-a-comprehensive-guide-for-aspiring-programmers-2lf)
+- [🌟 Exploring Python Libraries: Unlocking the Power of Pre-Written Code 🚀](https://dev.to/shreyash-hexa/exploring-python-libraries-unlocking-the-power-of-pre-written-code-3noi)
+- [Understanding 401k Hardship Withdrawal Reasons: A Comprehensive Guide](https://dev.to/thenexttech/understanding-401k-hardship-withdrawal-reasons-a-comprehensive-guide-3nk2)
+- [FlutterFlow: Building Apps with Simplicity and Speed](https://dev.to/mohd_shadab_dev/flutterflow-building-apps-with-simplicity-and-speed-22nh)
+- [Part 1 : How to Create and Configure a New Azure Pipeline with a GitHub Repository](https://dev.to/shashank-mishra-dev/part-1-how-to-create-and-configure-a-new-azure-pipeline-with-a-github-repository-41g1)
+- [Backend Basics!](https://dev.to/islam-alden/backend-basics-1hgf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
