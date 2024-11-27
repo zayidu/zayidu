@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API Testing: Ensuring Reliable and Robust Software Applications](https://dev.to/keploy/api-testing-ensuring-reliable-and-robust-software-applications-18l6)
-- [What the heck is &quot;this&quot; Keyword in JavaScript](https://dev.to/keyur-chaudhari/what-the-heck-is-this-keyword-in-javascript-ll2)
-- [What We Learned From Analyzing 20.2 Million CI Jobs In Trunk Flaky Tests - Part 2](https://dev.to/gewenyu99/what-we-learned-from-analyzing-202-million-ci-jobs-in-trunk-flaky-tests-part-2-1363)
-- [One Extension, Every JSON Feature: The Complete Story of JSON Viewer Plus](https://dev.to/rezmoss/one-extension-every-json-feature-the-complete-story-of-json-viewer-plus-3i14)
-- [From Java to Scala Sequel](https://dev.to/hackus/from-java-to-scala-sequel-5e1f)
+- [Feedback🗒️💻](https://dev.to/taariqelliott/feedback-45oe)
+- [Streamlined Contract Testing in Node.js: A Simple and Achievable Approach](https://dev.to/appsignal/streamlined-contract-testing-in-nodejs-a-simple-and-achievable-approach-56eg)
+- [Getting Back to Java: A Journey Through One of the Most Versatile Languages](https://dev.to/ricardocaselati/getting-back-to-java-a-journey-through-one-of-the-most-versatile-languages-4n88)
+- [Aurora Limitless - Reference Tables](https://dev.to/aws-heroes/aurora-limitless-reference-tables-1m9i)
+- [Are Ed25519 Keys Quantum-Resistant? Exploring the Future of Cryptography](https://dev.to/hedera/are-ed25519-keys-quantum-resistant-exploring-the-future-of-cryptography-2mjf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
