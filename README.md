@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to implement drag and drop in React using dnd-kit](https://dev.to/arshadayvid/how-to-implement-drag-and-drop-in-react-using-dnd-kit-204h)
-- [Should You Learn Blockchain Development? A Comprehensive Analysis with Facts and Figures](https://dev.to/dependra/should-you-learn-blockchain-development-a-comprehensive-analysis-with-facts-and-figures-2338)
-- [Unlock the Power of Custom Formatting in Go: A Deep Dive into the Formatter Interface](https://dev.to/architagr/unlock-the-power-of-custom-formatting-in-go-a-deep-dive-into-the-formatter-interface-32h9)
-- [Covariance and Contravariance in C#: Real-World Scenarios Explained](https://dev.to/moh_moh701/covariance-and-contravariance-in-c-real-world-scenarios-explained-435d)
-- [Blockchain Development Over the Last 5 Years: Trends, Growth, and Insights](https://dev.to/dependra/blockchain-development-over-the-last-5-years-trends-growth-and-insights-565b)
+- [From PHP to Go: Recognizing and Avoiding PHP-ish Patterns in Go Projects &lpar;part 2&rpar;](https://dev.to/azibom/from-php-to-go-recognizing-and-avoiding-php-ish-patterns-in-go-projects-part-2-4ng7)
+- [Building GitHub Airlines](https://dev.to/charliesay/building-github-airlines-d02)
+- [Framework agnostic Avatar component](https://dev.to/aleks00onyshko/framework-agnostic-avatar-component-141m)
+- [🎶 Shazam UX Secrets + iOS 18 Photo Drama &amp; CSS Borders](https://dev.to/adam/shazam-ux-secrets-ios-18-photo-drama-css-borders-671)
+- [Mastering C++: A Comprehensive Guide for Aspiring Programmers](https://dev.to/getvm/mastering-c-a-comprehensive-guide-for-aspiring-programmers-2lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
