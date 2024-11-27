@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI for Predictive Cloud Security and Threat Intelligence](https://dev.to/iskender83/ai-for-predictive-cloud-security-and-threat-intelligence-2e0j)
-- [Threat Intelligence Integration for Cloud Infrastructure](https://dev.to/iskender83/threat-intelligence-integration-for-cloud-infrastructure-5dl5)
-- [Containerized Microservices Security Best Practices](https://dev.to/iskender83/containerized-microservices-security-best-practices-5e2c)
-- [Contributing to Node.js: Implementing Dynamic Colors for Test Runner Diagnostics &lpar;2/3&rpar;](https://dev.to/harshil_patel/contributing-to-nodejs-implementing-dynamic-colors-for-test-runner-diagnostics-23-4len)
-- [Blockchain for Secure Cloud Identity Management](https://dev.to/iskender83/blockchain-for-secure-cloud-identity-management-5dka)
+- [Understanding Django Regular Expressions](https://dev.to/michael__/understanding-django-regular-expressions-5d6o)
+- [Behind the Scenes of Gladiators Battle: Building a Browser-Based Gladiator RPG with React and Firebase](https://dev.to/gladiatorsbattle/behind-the-scenes-of-gladiators-battle-building-a-browser-based-gladiator-rpg-with-react-and-49h7)
+- [Python C/C++ binding](https://dev.to/patfinder/python-cc-binding-59l6)
+- [Set Default Values in Laravel with mergeIfMissing: Real-Life Examples](https://dev.to/homezonic/set-default-values-in-laravel-with-mergeifmissing-real-life-examples-54ma)
+- [Running Your First Solana Project with Anchor](https://dev.to/realacjoshua/running-your-first-solana-project-with-anchor-3ion)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
