@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to create a ribbon for a pricing card with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-a-ribbon-for-a-pricing-card-with-tailwind-css-5d9g)
-- [How CodeMirror v6 dev setup installs packages without a monorepo](https://dev.to/thinkthroo/how-codemirror-v6-dev-setup-installs-packages-without-a-monorepo-1048)
-- [🚀 Automating OTP Login with a JavaScript Browser Extension](https://dev.to/shahrushil09/automating-otp-login-with-a-javascript-browser-extension-2b03)
-- [Get Started with Docker: How to Install Docker on Ubuntu 22.04](https://dev.to/nodeshiftcloud/get-started-with-docker-how-to-install-docker-on-ubuntu-2204-450j)
-- [Spring Bean Scopes Cheat Sheet](https://dev.to/codegreen/spring-bean-scopes-cheat-sheet-4pko)
+- [Simple explanation of Clustered Index and Non-Clustered Index](https://dev.to/mrcaption49/simple-explanation-of-clustered-index-and-non-clustered-index-2j4f)
+- [Clustered Index and Non-Clustered | Employee ID | Employee Name](https://dev.to/mrcaption49/clustered-index-and-non-clustered-employee-id-employee-name-b4d)
+- [The Future of Mobile Development: Why React Native Developers Are in High Demand](https://dev.to/certified_developers/the-future-of-mobile-development-why-react-native-developers-are-in-high-demand-gma)
+- [Creating a Chatbot with Natural Language Processing &lpar;NLP&rpar; 🤖💬](https://dev.to/info_generalhazedawn_a3d/creating-a-chatbot-with-natural-language-processing-nlp-43a8)
+- [Things Platform Engineers Lack When Dealing With Databases](https://dev.to/metis/things-platform-engineers-lack-when-dealing-with-databases-1jic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
