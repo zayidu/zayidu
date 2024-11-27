@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#105 — Filter by the Number of Duplicates](https://dev.to/judith677/105-filter-by-the-number-of-duplicates-1ao5)
-- [Easy Animation with Alpine.js](https://dev.to/fitehal/easy-animation-with-alpinejs-1gi4)
-- [Common Challenges Faced by a Land Surveyor in Dhaka and How They’re Solved](https://dev.to/billy_ajoiner_12bf2897be/common-challenges-faced-by-a-land-surveyor-in-dhaka-and-how-theyre-solved-2acd)
-- [A Final Challenge: The Planning Phase](https://dev.to/cleobnvntra/a-final-challenge-the-planning-phase-2p10)
-- [Android Studio 에서 Compose 의 Preview 가 남긴 로그 보기](https://dev.to/kingori/android-studio-eseo-compose-yi-preview-ga-namgin-rogeu-bogi-18jp)
+- [15 Best UX Audit Tools Toward Optimizing User Experience in 2025](https://dev.to/lollypopdesign/15-best-ux-audit-tools-toward-optimizing-user-experience-in-2025-5f7a)
+- [ReentrantReadWriteLock](https://dev.to/pranavt84/reentrantreadwritelock-2fd)
+- [From Code to Coaching: Embracing the Growth Mindset in Engineering Management](https://dev.to/_firelinks/from-code-to-coaching-embracing-the-growth-mindset-in-engineering-management-3342)
+- [Mi primera computadora.](https://dev.to/fedatu/mi-primera-computadora-2f9n)
+- [Observable v/s Promise](https://dev.to/ankushgoyal11/observable-vs-promise-2175)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
