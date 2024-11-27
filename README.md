@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to C#: Add Configuration to your .NET 8 Web API Application](https://dev.to/iamrule/how-to-c-add-configuration-to-your-net-8-web-api-application-4cjf)
-- [Why IT Leaders Should Focus on Multi-Factor Authentication in 2025](https://dev.to/blogginger/why-it-leaders-should-focus-on-multi-factor-authentication-in-2025-476a)
-- [GitOps vs. DevOps: Understanding the Key Differences](https://dev.to/mohamednasser018/gitops-vs-devops-understanding-the-key-differences-32d5)
-- [Boost Node.js Performance: Master JIT Compilation for Lightning-Fast Apps](https://dev.to/aaravjoshi/boost-nodejs-performance-master-jit-compilation-for-lightning-fast-apps-27hk)
-- [Journey of Building, Learning, and Innovating](https://dev.to/shubham_aher_d9c923f6b7b4/journey-of-building-learning-and-innovating-3gfc)
+- [How to implement drag and drop in React using dnd-kit](https://dev.to/arshadayvid/how-to-implement-drag-and-drop-in-react-using-dnd-kit-204h)
+- [Should You Learn Blockchain Development? A Comprehensive Analysis with Facts and Figures](https://dev.to/dependra/should-you-learn-blockchain-development-a-comprehensive-analysis-with-facts-and-figures-2338)
+- [Unlock the Power of Custom Formatting in Go: A Deep Dive into the Formatter Interface](https://dev.to/architagr/unlock-the-power-of-custom-formatting-in-go-a-deep-dive-into-the-formatter-interface-32h9)
+- [Covariance and Contravariance in C#: Real-World Scenarios Explained](https://dev.to/moh_moh701/covariance-and-contravariance-in-c-real-world-scenarios-explained-435d)
+- [Blockchain Development Over the Last 5 Years: Trends, Growth, and Insights](https://dev.to/dependra/blockchain-development-over-the-last-5-years-trends-growth-and-insights-565b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
