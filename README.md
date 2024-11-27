@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Resolving Environment Preset Loading Error in React Three Fiber](https://dev.to/anapimolodec/resolving-environment-preset-loading-error-in-react-three-fiber-5elc)
-- [The Role of Chatbots in Customer Engagement: How to build and integrate one.](https://dev.to/muhammed_nidhal/the-role-of-chatbots-in-customer-engagement-how-to-build-and-integrate-one-544f)
-- [Planning To Resolve Automatic Feedback Loop](https://dev.to/kannav02/planning-to-resolve-automatic-feedback-loop-4fgd)
-- [HarmonyOS Next New Paradigm of Secure Access: Analysis of System Picker and Security Controls](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-new-paradigm-of-secure-access-analysis-of-system-picker-and-security-controls-5b97)
-- [鸿蒙Next安全访问新范式：系统Picker与安全控件解析](https://dev.to/xun_wang_6384a403f9817c2/hong-meng-nextan-quan-fang-wen-xin-fan-shi-xi-tong-pickeryu-an-quan-kong-jian-jie-xi-40o7)
+- [#105 — Filter by the Number of Duplicates](https://dev.to/judith677/105-filter-by-the-number-of-duplicates-1ao5)
+- [Easy Animation with Alpine.js](https://dev.to/fitehal/easy-animation-with-alpinejs-1gi4)
+- [Common Challenges Faced by a Land Surveyor in Dhaka and How They’re Solved](https://dev.to/billy_ajoiner_12bf2897be/common-challenges-faced-by-a-land-surveyor-in-dhaka-and-how-theyre-solved-2acd)
+- [A Final Challenge: The Planning Phase](https://dev.to/cleobnvntra/a-final-challenge-the-planning-phase-2p10)
+- [Android Studio 에서 Compose 의 Preview 가 남긴 로그 보기](https://dev.to/kingori/android-studio-eseo-compose-yi-preview-ga-namgin-rogeu-bogi-18jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
