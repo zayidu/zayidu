@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL: Multi field mixed deduplication followed by numbering #eg81](https://dev.to/esproc_spl/sql-multi-field-mixed-deduplication-followed-by-numbering-eg81-2ai0)
-- [Federally Qualified Health Centers &lpar;FQHCs&rpar; and EHR Adoption: Transforming Care Through Technology](https://dev.to/hrithicrohan/federally-qualified-health-centers-fqhcs-and-ehr-adoption-transforming-care-through-technology-567h)
-- [How to Remove Background of an Image in Paint App in Windows 11?](https://dev.to/win11verse/how-to-remove-background-of-an-image-in-paint-app-in-windows-11-32n2)
-- [¿Qué es un bloque static en Java?](https://dev.to/asjordi/que-es-un-bloque-static-en-java-539k)
-- [Overcoming Monorepo Challenges to Enhance Performance and Productivity](https://dev.to/shieldstring/overcoming-monorepo-challenges-to-enhance-performance-and-productivity-26dd)
+- [Critical Path Software for Project Teams: Top 3 Solutions](https://dev.to/thomasy0ung/critical-path-software-for-project-teams-top-3-solutions-5618)
+- [Button hover, increase width on right side but left side fixed](https://dev.to/webfaisalbd/button-hover-increase-width-on-right-side-but-left-side-fixed-1a9k)
+- [Mastering Assertions in Python Selenium: A Comprehensive Guide for Testing](https://dev.to/keploy/mastering-assertions-in-python-selenium-a-comprehensive-guide-for-testing-20h)
+- [Switch colors in Flutter](https://dev.to/rampsad27/switch-colors-in-flutter-2kaf)
+- [How to Write Effective Test Scripts for Shopify Apps: A Simple Guide](https://dev.to/optimise_seo/how-to-write-effective-test-scripts-for-shopify-apps-a-simple-guide-5h10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
