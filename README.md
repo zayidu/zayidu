@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wednesday Links - Edition 2024-11-26](https://dev.to/0xkkocel/wednesday-links-edition-2024-11-26-5f9j)
-- [Building a movie suggestion Bot using AWS Bedrock, Amazon Lex, and OpenSearch](https://dev.to/aws-builders/building-a-movie-suggestion-bot-using-aws-bedrock-amazon-lex-and-opensearch-52ci)
-- [Kubernetes Architect](https://dev.to/jamiu_cloud/kubernetes-architect-52fg)
-- [My React Journey: Day 7](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-7-336j)
-- [Using gVisor&#39;s container runtime in Docker Desktop](https://dev.to/rimelek/using-gvisors-container-runtime-in-docker-desktop-374m)
+- [OKMX8MP-C GDB Remote Debugging Skills](https://dev.to/ronnie_r_152dc2151d9449c6/okmx8mp-c-gdb-remote-debugging-skills-15eh)
+- [Getting Started with Object-Oriented Design &lpar;Part 2&rpar;: Design Principles and Design Patterns](https://dev.to/michymono77/getting-started-with-object-oriented-design-part-2-design-principles-and-design-patterns-1e7c)
+- [📦 ASDF: Gerenciando versões de linguagens e ferramentas num lugar só](https://dev.to/adrianoavelino/asdf-gerenciando-versoes-de-linguagens-e-ferramentas-num-lugar-so-1lmh)
+- [Demystifying Algorithms: Iterative Traversal and Tail Insertion Patterns](https://dev.to/craftedwithintent/demystifying-algorithms-iterative-traversal-and-tail-insertion-patterns-27io)
+- [Understanding How Spaces Are Encoded: %20 with encodeURI vs. + with URL](https://dev.to/lico/understanding-how-spaces-are-encoded-20-with-encodeuri-vs-with-url-2d6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
