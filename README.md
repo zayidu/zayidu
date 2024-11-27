@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Spacer Components introduced in ViewComponent 3.20](https://dev.to/railsdesigner/spacer-components-introduced-in-viewcomponent-320-5130)
-- [📊🚀 Top Tools for Managing Cryptocurrency Investments Effectively](https://dev.to/joshthebtc/top-tools-for-managing-cryptocurrency-investments-effectively-2pp9)
-- [Como poner PHP en el path con comandos del terminal en Windows 11](https://dev.to/drodero/como-poner-php-en-el-path-con-comandos-del-terminal-en-windows-11-538n)
-- [How to Avoid Blinking in Android Recycler View](https://dev.to/ssharyk/how-to-avoid-blinking-in-android-recycler-view-3n7)
-- [2024 Black Friday and Cyber Monday deals for developers.](https://dev.to/jarvisscript/2024-black-friday-and-cyber-monday-deals-for-developers-4mlo)
+- [AI for Predictive Cloud Security and Threat Intelligence](https://dev.to/iskender83/ai-for-predictive-cloud-security-and-threat-intelligence-2e0j)
+- [Threat Intelligence Integration for Cloud Infrastructure](https://dev.to/iskender83/threat-intelligence-integration-for-cloud-infrastructure-5dl5)
+- [Containerized Microservices Security Best Practices](https://dev.to/iskender83/containerized-microservices-security-best-practices-5e2c)
+- [Contributing to Node.js: Implementing Dynamic Colors for Test Runner Diagnostics &lpar;2/3&rpar;](https://dev.to/harshil_patel/contributing-to-nodejs-implementing-dynamic-colors-for-test-runner-diagnostics-23-4len)
+- [Blockchain for Secure Cloud Identity Management](https://dev.to/iskender83/blockchain-for-secure-cloud-identity-management-5dka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
