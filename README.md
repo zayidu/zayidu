@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Critical Path Software for Project Teams: Top 3 Solutions](https://dev.to/thomasy0ung/critical-path-software-for-project-teams-top-3-solutions-5618)
-- [Button hover, increase width on right side but left side fixed](https://dev.to/webfaisalbd/button-hover-increase-width-on-right-side-but-left-side-fixed-1a9k)
-- [Mastering Assertions in Python Selenium: A Comprehensive Guide for Testing](https://dev.to/keploy/mastering-assertions-in-python-selenium-a-comprehensive-guide-for-testing-20h)
-- [Switch colors in Flutter](https://dev.to/rampsad27/switch-colors-in-flutter-2kaf)
-- [How to Write Effective Test Scripts for Shopify Apps: A Simple Guide](https://dev.to/optimise_seo/how-to-write-effective-test-scripts-for-shopify-apps-a-simple-guide-5h10)
+- [Learn how to create a ribbon for a pricing card with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-a-ribbon-for-a-pricing-card-with-tailwind-css-5d9g)
+- [How CodeMirror v6 dev setup installs packages without a monorepo](https://dev.to/thinkthroo/how-codemirror-v6-dev-setup-installs-packages-without-a-monorepo-1048)
+- [🚀 Automating OTP Login with a JavaScript Browser Extension](https://dev.to/shahrushil09/automating-otp-login-with-a-javascript-browser-extension-2b03)
+- [Get Started with Docker: How to Install Docker on Ubuntu 22.04](https://dev.to/nodeshiftcloud/get-started-with-docker-how-to-install-docker-on-ubuntu-2204-450j)
+- [Spring Bean Scopes Cheat Sheet](https://dev.to/codegreen/spring-bean-scopes-cheat-sheet-4pko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
