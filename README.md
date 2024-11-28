@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello Everyone!](https://dev.to/abdul_lah/hello-everyone-nnf)
-- [SQL Interview Prep for MySQL: Key Questions to Know](https://dev.to/dbvismarketing/sql-interview-prep-for-mysql-key-questions-to-know-11pn)
-- [Non-Functional Requirements: A Comprehensive Guide](https://dev.to/keploy/non-functional-requirements-a-comprehensive-guide-4c07)
-- [Learn how to create an animated avatar stack widget with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-an-animated-avatar-stack-widget-with-tailwind-css-175d)
-- [[Plobem] nginx: worker_connections are not enough](https://dev.to/panupongdeve/plobem-nginx-workerconnections-are-not-enough-25ae)
+- [Why Home Assistant?](https://dev.to/nfrankel/why-home-assistant-f94)
+- [How to Change or Reset Account Lockout Counter After Time in Windows 11?](https://dev.to/win11verse/how-to-change-or-reset-account-lockout-counter-after-time-in-windows-11-3bm9)
+- [How to build type-enforced UI components in React Native using @shopify/restyle](https://dev.to/iliashaddad3/how-to-build-type-enforced-ui-components-in-react-native-using-shopifyrestyle-49j2)
+- [From Einstein Bots to AgentForce: My Journey Building the Future of AI-Powered Customer Service](https://dev.to/priyanka_singh_a67381061f/from-einstein-bots-to-agentforce-my-journey-building-the-future-of-ai-powered-customer-service-481k)
+- [Automated Cloud Configuration Management for Security](https://dev.to/iskender83/automated-cloud-configuration-management-for-security-4j54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
