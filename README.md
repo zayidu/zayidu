@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Books to Transform Your Habits and Your Life](https://dev.to/vopehop137/5-books-to-transform-your-habits-and-your-life-70m)
-- [The Power of Manifestation: Lessons from Five Transformative Books](https://dev.to/vopehop137/the-power-of-manifestation-lessons-from-five-transformative-books-1b6p)
-- [Developing Educational Apps for Early Learners: Best Practices for Software Developers](https://dev.to/luke_leech_e6bebf0dcc50d6/developing-educational-apps-for-early-learners-best-practices-for-software-developers-3ep8)
-- [Design Systems, Design Tokens and the eternal battle between efficiency and flexibility](https://dev.to/silversonicaxel/design-systems-design-tokens-and-the-eternal-battle-between-efficiency-and-flexibility-9ch)
-- [Re-optimizing dependencies because lockfile has changed #react-vite](https://dev.to/whoiskumaratul/re-optimizing-dependencies-because-lockfile-has-changed-react-vite-54ff)
+- [Self-Aligning Satellite Dish in Rust: Servo Application](https://dev.to/ian_ndeda/self-aligning-satellite-dish-in-rust-servo-application-3kdl)
+- [Building Secure RAG Applications with Go: An Introduction to GoRag](https://dev.to/lukehinds/building-secure-rag-applications-with-go-an-introduction-to-gorag-5509)
+- [¿Que es solid y por que deberías utilizarlo?](https://dev.to/beresiartejuan/que-es-solid-y-por-que-deberias-utilizarlo-55id)
+- [OS Security 🔒: Master Your Permissions in 3 Key Steps!](https://dev.to/enzo_dechaene/os-security-master-your-permissions-in-3-key-steps-4dno)
+- [Debian Secure Boot: To be, or not to be, that is the question!](https://dev.to/dev-charodeyka/debian-secure-boot-to-be-or-not-to-be-that-is-the-question-1o82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
