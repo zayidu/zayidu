@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [APIs: The Universal Language of the Software World](https://dev.to/hamada147/apis-the-universal-language-of-the-software-world-3ol1)
-- [Aurora Limitless - Collocation &lpar;and porting PgBench&rpar;](https://dev.to/aws-heroes/aurora-limitless-collocation-and-porting-pgbench-4jop)
-- [การคิดเชิงระบบ &lpar;Systematic Thinking&rpar; สำหรับ Developer](https://dev.to/pskclub/kaarkhidechingrabb-systematic-thinking-samhrab-developer-37og)
-- [The Evolution of Modern Application Deployment : From Physical Servers to Kubernetes:](https://dev.to/fazly_fathhy/the-evolution-of-modern-application-deployment-from-physical-servers-to-kubernetes-3p6e)
-- [How AI-Based Automation is Revolutionizing Software Testing](https://dev.to/ronika_kashyap/how-ai-based-automation-is-revolutionizing-software-testing-5g5k)
+- [Navigating the Cloud: A Deep Dive into the AWS Well-Architected Framework](https://dev.to/borhanitrash/navigating-the-cloud-a-deep-dive-into-the-aws-well-architected-framework-3f7f)
+- [Create an Impressive Portfolio For a Software Developer or Engineer](https://dev.to/jtrevdev/create-an-impressive-portfolio-for-a-software-developer-or-engineer-2oba)
+- [10 Game-Changing CSS Practices That Will Level Up Your Code](https://dev.to/mo-dev/10-game-changing-css-practices-that-will-level-up-your-code-h6)
+- [Day 12 - Looping Excercises](https://dev.to/lakshmi_prithanadesan_32/day-12-looping-excercises-11d2)
+- [Introduction to Messaging Systems with Kafka](https://dev.to/yasmine_ddec94f4d4/introduction-to-messaging-systems-with-kafka-3j08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
