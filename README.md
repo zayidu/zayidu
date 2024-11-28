@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stimulus Features You &lpar;Didn&#39;t&rpar; Know](https://dev.to/railsdesigner/stimulus-features-you-didnt-know-4anc)
-- [Self-Aligning Satellite Dish in Rust: Servo](https://dev.to/ian_ndeda/self-aligning-satellite-dish-in-rust-servo-5b3o)
-- [Maximize Your FastAPI Efficiency: Blazingly Fast Implementation of Caching and Locking with py-cachify](https://dev.to/galtozzy/maximize-your-fastapi-efficiency-blazingly-fast-implementation-of-caching-and-locking-with-4pgj)
-- [Creating an Azure Virtual Network with four subnets with 192.148.30.0/26 address](https://dev.to/ikuesan_adeola/creating-an-azure-virtual-network-with-four-subnets-with-19214830026-address-2h4b)
-- [The best way to get better at writing code is...](https://dev.to/wraith/the-best-way-to-get-better-at-writing-code-is-44g3)
+- [5 Books to Transform Your Habits and Your Life](https://dev.to/vopehop137/5-books-to-transform-your-habits-and-your-life-70m)
+- [The Power of Manifestation: Lessons from Five Transformative Books](https://dev.to/vopehop137/the-power-of-manifestation-lessons-from-five-transformative-books-1b6p)
+- [Developing Educational Apps for Early Learners: Best Practices for Software Developers](https://dev.to/luke_leech_e6bebf0dcc50d6/developing-educational-apps-for-early-learners-best-practices-for-software-developers-3ep8)
+- [Design Systems, Design Tokens and the eternal battle between efficiency and flexibility](https://dev.to/silversonicaxel/design-systems-design-tokens-and-the-eternal-battle-between-efficiency-and-flexibility-9ch)
+- [Re-optimizing dependencies because lockfile has changed #react-vite](https://dev.to/whoiskumaratul/re-optimizing-dependencies-because-lockfile-has-changed-react-vite-54ff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
