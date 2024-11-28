@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Threat Intelligence Sharing in Multi-Cloud Environments](https://dev.to/iskender83/threat-intelligence-sharing-in-multi-cloud-environments-54ob)
-- [Securing Cloud-Based AI Model Training Data](https://dev.to/iskender83/securing-cloud-based-ai-model-training-data-4hjh)
-- [🚀](https://dev.to/nevodavid/-2b31)
-- [n-D arrays understanding with real life examples](https://dev.to/shri50/n-d-arrays-understanding-with-real-life-examples-5b5l)
-- [Privacy Risks in Cloud Data Storage](https://dev.to/iskender83/privacy-risks-in-cloud-data-storage-3m96)
+- [[Boost]](https://dev.to/stevendev0822/-1fmn)
+- [Software Acceptance Testing: Ensuring Quality and User Satisfaction](https://dev.to/keploy/software-acceptance-testing-ensuring-quality-and-user-satisfaction-35gk)
+- [Wrizzle AI](https://dev.to/wrizzle/wrizzle-ai-2336)
+- [Privacy-Preserving Cloud Storage Solutions](https://dev.to/iskender83/privacy-preserving-cloud-storage-solutions-5dlo)
+- [I changed the logo for the js project. What do you think? It’s 🔥?](https://dev.to/hmpljs/i-changed-the-logo-for-the-js-project-what-do-you-think-79e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
