@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [New Tab Page Plugin vs Browser&#39;s Home Tab Page](https://dev.to/wowtabteam/new-tab-page-plugin-vs-browsers-home-tab-page-apf)
+- [Using OpenTelemetry with gRPC in Node.js and Express Hybrid Applications](https://dev.to/devvemeka/using-opentelemetry-with-grpc-in-nodejs-and-express-hybrid-applications-4ibe)
 - [Testing the new reshare feature with Quickie Posts! Obviously, I&#39;m being a little bit selfish by reposting myself, but oh well. I&#39;ll find someone else to repost next. 🤭](https://dev.to/best_codes/testing-the-new-reshare-feature-with-quickie-posts-obviously-im-being-a-little-bit-selfish-by-476j)
 - [#106 — Delete Data that Can be Paired](https://dev.to/judith677/106-delete-data-that-can-be-paired-4pd6)
 - [Writing an AnythingLLM Custom Agent Skill to Trigger Make.com Webhooks](https://dev.to/drunnells/writing-an-anythingllm-custom-agent-skill-to-trigger-makecom-webhooks-1dn0)
-- [7 JavaScript One-Liners That Will Make You Look Like a Pro](https://dev.to/peboycodes/7-javascript-one-liners-that-will-make-you-look-like-a-pro-4cf7)
-- [how can data validation for form inputs be handled both in HTML and JavaScript and Why is it beneficial to use both!](https://dev.to/jfelipegarcia/how-can-data-validation-for-form-inputs-be-handled-both-in-html-and-javascript-and-why-is-it-564f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
