@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Risks of DNS Caching: Stale Data and Security Threats⚠️💻🔒](https://dev.to/hexadecimalsoftware/the-risks-of-dns-caching-stale-data-and-security-threats-158h)
-- [5 Next.js Project Ideas with code samples](https://dev.to/niko-gus/5-nextjs-project-ideas-with-code-samples-1m6o)
-- [How to Increase the Scrollback Buffer in VSCode Terminal](https://dev.to/jajera/how-to-increase-the-scrollback-buffer-in-vscode-terminal-5aao)
-- [Why Choose Next.js for Order Management System](https://dev.to/pagepro_agency/why-choose-nextjs-for-order-management-system-3l4i)
-- [Feature-Based React Components](https://dev.to/devsk001/feature-based-react-components-3l43)
+- [If you&#39;re a beginner, definitely check this open source guide. I&#39;ve explained almost everything you need to know.](https://dev.to/anmolbaranwal/if-youre-a-beginner-definitely-check-this-open-source-guide-ive-explained-almost-everything-you-498a)
+- [PHP Logger with Email Notifications | Error Tracking in PHP](https://dev.to/mdarifulhaque/php-logger-with-email-notifications-error-tracking-in-php-1dp)
+- [How Hackers Exploit Ansible for Configuration Attacks: A Technical Deep Dive](https://dev.to/nolunchbreaks_22/how-hackers-exploit-ansible-for-configuration-attacks-a-technical-deep-dive-30lp)
+- [Comprehensive list of dev tools for an AI Engineer](https://dev.to/shubhsk/comprehensive-list-of-dev-tools-for-an-ai-engineer-42ml)
+- [Advancing Data Access with Text to SQL Technology](https://dev.to/buzzgk/advancing-data-access-with-text-to-sql-technology-1g1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
