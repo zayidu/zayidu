@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced OAuth2: Refresh Tokens and Token Expiration Strategies](https://dev.to/igventurelli/advanced-oauth2-refresh-tokens-and-token-expiration-strategies-448n)
-- [Am I complaining about Laravel Or I am Telling the truth](https://dev.to/iredox10/am-i-complaining-about-laravel-or-i-am-telling-the-truth-1iig)
-- [[Boost]](https://dev.to/yacinesir/-5hek)
-- [Exploring the Use of Amazon Web Services for Email Address Management](https://dev.to/billgist/exploring-the-use-of-amazon-web-services-for-email-address-management-51i7)
-- [Did you knew CSS has this awesome trick which can eliminate 37% of your Javascript](https://dev.to/thesohailjafri/did-you-knew-css-has-this-awesome-trick-which-can-eliminate-37-of-your-javascript-3mn5)
+- [APIs: The Universal Language of the Software World](https://dev.to/hamada147/apis-the-universal-language-of-the-software-world-3ol1)
+- [Aurora Limitless - Collocation &lpar;and porting PgBench&rpar;](https://dev.to/aws-heroes/aurora-limitless-collocation-and-porting-pgbench-4jop)
+- [การคิดเชิงระบบ &lpar;Systematic Thinking&rpar; สำหรับ Developer](https://dev.to/pskclub/kaarkhidechingrabb-systematic-thinking-samhrab-developer-37og)
+- [The Evolution of Modern Application Deployment : From Physical Servers to Kubernetes:](https://dev.to/fazly_fathhy/the-evolution-of-modern-application-deployment-from-physical-servers-to-kubernetes-3p6e)
+- [How AI-Based Automation is Revolutionizing Software Testing](https://dev.to/ronika_kashyap/how-ai-based-automation-is-revolutionizing-software-testing-5g5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
