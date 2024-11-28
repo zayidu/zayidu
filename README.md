@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Local RAG in Microsoft Word: using AnythingLLM + LM Studio](https://dev.to/gptlocalhost/local-rag-in-microsoft-word-using-anythingllm-lm-studio-1kb4)
-- [Anytime i install linux on a new machine or start fresh, this is where i will regain all of my cli tools.](https://dev.to/osmar_ponce_a5d5cbd78d981/anytime-i-install-linux-on-a-new-machine-or-start-fresh-this-is-where-i-will-regain-all-of-my-cli-22cl)
-- [AI-assisted writing: LM Studio vs Microsoft Copilot in Word](https://dev.to/gptlocalhost/ai-assisted-writing-lm-studio-vs-microsoft-copilot-in-word-4jih)
-- [Missing columns - lowCalAlt_update4](https://dev.to/itsizakb/missing-columns-lowcalaltupdate4-1n4i)
-- [A local alternative to Microsoft Copilot in Word](https://dev.to/gptlocalhost/a-local-alternative-to-microsoft-copilot-in-word-2o9a)
+- [Looking for Sepolia ERC-20 Tokens and DEX&#39;s](https://dev.to/blx/looking-for-sepolia-erc-20-tokens-and-dexs-27je)
+- [How Digital Onboarding KYC is Transforming Identity Verification](https://dev.to/faceplugin/how-digital-onboarding-kyc-is-transforming-identity-verification-1ioa)
+- [How to Use Postman Interceptor in Chrome | The Best Alternative](https://dev.to/philip_zhang_854092d88473/how-to-use-postman-interceptor-in-chrome-the-best-alternative-2170)
+- [How We Started Continuous OSS License Monitoring with License Finder](https://dev.to/masutaka/how-we-started-continuous-oss-license-monitoring-with-license-finder-a9i)
+- [The Power of OUTER APPLY: A SQL Weapon to Expand Legacy Database](https://dev.to/auyeungdavid_2847435260/the-power-of-outer-apply-a-sql-weapon-to-expand-legacy-database-1gep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
