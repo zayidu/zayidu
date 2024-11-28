@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Burnout, Imposter Syndrome &amp; More: What Junior Devs Really Experience 🕵️‍♀️](https://dev.to/thesohailjafri/burnout-imposter-syndrome-more-what-junior-devs-really-experience-6oe)
-- [Mastering the Dependency Inversion Principle: Best Practices for Clean Code with DI](https://dev.to/alexsergey/mastering-the-dependency-inversion-principle-best-practices-for-clean-code-with-di-5c0k)
-- [Application Programming Interface](https://dev.to/574n13y/application-programming-interface-4k6h)
-- [Vedro Hooks](https://dev.to/mickeystreicher/vedro-hooks-14ei)
-- [Top 8 AWS Integration Best Practices You Need to Follow](https://dev.to/harman_diaz/top-8-aws-integration-best-practices-you-need-to-follow-4gph)
+- [Understanding Laravel Cashier&#39;s Core Traits: A Deep Dive](https://dev.to/bhaidar/understanding-laravel-cashiers-core-traits-a-deep-dive-5693)
+- [My first JavaScript package &lpar;with recursion for the win&rpar;](https://dev.to/suzusuzu-haruharu/my-first-javascript-package-with-recursion-for-the-win-1774)
+- [How to Switch Your Rails Application Database from PostgreSQL to SQLite](https://dev.to/alexandrecalaca/how-to-switch-your-rails-application-database-from-postgresql-to-sqlite-59ip)
+- [🚀 Software Engineering Postmortem: Zombie Shootout 🧟‍♂️🎮](https://dev.to/victoriadeveloper/software-engineering-postmortem-zombie-shootout-4n7k)
+- [Day 10: ls -l *](https://dev.to/sean2024/day-10-ls-l--40i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
