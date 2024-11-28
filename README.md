@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for Sepolia ERC-20 Tokens and DEX&#39;s](https://dev.to/blx/looking-for-sepolia-erc-20-tokens-and-dexs-27je)
-- [How Digital Onboarding KYC is Transforming Identity Verification](https://dev.to/faceplugin/how-digital-onboarding-kyc-is-transforming-identity-verification-1ioa)
-- [How to Use Postman Interceptor in Chrome | The Best Alternative](https://dev.to/philip_zhang_854092d88473/how-to-use-postman-interceptor-in-chrome-the-best-alternative-2170)
-- [How We Started Continuous OSS License Monitoring with License Finder](https://dev.to/masutaka/how-we-started-continuous-oss-license-monitoring-with-license-finder-a9i)
-- [The Power of OUTER APPLY: A SQL Weapon to Expand Legacy Database](https://dev.to/auyeungdavid_2847435260/the-power-of-outer-apply-a-sql-weapon-to-expand-legacy-database-1gep)
+- [Testing the new reshare feature with Quickie Posts! Obviously, I&#39;m being a little bit selfish by reposting myself, but oh well. I&#39;ll find someone else to repost next. 🤭](https://dev.to/best_codes/testing-the-new-reshare-feature-with-quickie-posts-obviously-im-being-a-little-bit-selfish-by-476j)
+- [#106 — Delete Data that Can be Paired](https://dev.to/judith677/106-delete-data-that-can-be-paired-4pd6)
+- [Writing an AnythingLLM Custom Agent Skill to Trigger Make.com Webhooks](https://dev.to/drunnells/writing-an-anythingllm-custom-agent-skill-to-trigger-makecom-webhooks-1dn0)
+- [7 JavaScript One-Liners That Will Make You Look Like a Pro](https://dev.to/peboycodes/7-javascript-one-liners-that-will-make-you-look-like-a-pro-4cf7)
+- [how can data validation for form inputs be handled both in HTML and JavaScript and Why is it beneficial to use both!](https://dev.to/jfelipegarcia/how-can-data-validation-for-form-inputs-be-handled-both-in-html-and-javascript-and-why-is-it-564f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
