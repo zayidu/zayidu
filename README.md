@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Practical Concurrent Control for Node.js Servers: Keep Your Server from Being Overwhelmed by Traffic!](https://dev.to/evle/practical-concurrent-control-for-nodejs-servers-keep-your-server-from-being-overwhelmed-by-2kgf)
-- [URL Shortener in Go](https://dev.to/jordan_t/url-shortener-in-go-3d8l)
-- [New Tab Page Plugin vs Browser&#39;s Home Tab Page](https://dev.to/wowtabteam/new-tab-page-plugin-vs-browsers-home-tab-page-apf)
-- [Using OpenTelemetry with gRPC in Node.js and Express Hybrid Applications](https://dev.to/devvemeka/using-opentelemetry-with-grpc-in-nodejs-and-express-hybrid-applications-4ibe)
-- [Improving Commit Message Quality in VSCode with Copilot](https://dev.to/foyzulkarim/improving-commit-message-quality-in-vscode-with-copilot-299p)
+- [Threat Intelligence Sharing in Multi-Cloud Environments](https://dev.to/iskender83/threat-intelligence-sharing-in-multi-cloud-environments-54ob)
+- [Securing Cloud-Based AI Model Training Data](https://dev.to/iskender83/securing-cloud-based-ai-model-training-data-4hjh)
+- [🚀](https://dev.to/nevodavid/-2b31)
+- [n-D arrays understanding with real life examples](https://dev.to/shri50/n-d-arrays-understanding-with-real-life-examples-5b5l)
+- [Privacy Risks in Cloud Data Storage](https://dev.to/iskender83/privacy-risks-in-cloud-data-storage-3m96)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
