@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Home Assistant?](https://dev.to/nfrankel/why-home-assistant-f94)
-- [How to Change or Reset Account Lockout Counter After Time in Windows 11?](https://dev.to/win11verse/how-to-change-or-reset-account-lockout-counter-after-time-in-windows-11-3bm9)
-- [How to build type-enforced UI components in React Native using @shopify/restyle](https://dev.to/iliashaddad3/how-to-build-type-enforced-ui-components-in-react-native-using-shopifyrestyle-49j2)
-- [From Einstein Bots to AgentForce: My Journey Building the Future of AI-Powered Customer Service](https://dev.to/priyanka_singh_a67381061f/from-einstein-bots-to-agentforce-my-journey-building-the-future-of-ai-powered-customer-service-481k)
-- [Automated Cloud Configuration Management for Security](https://dev.to/iskender83/automated-cloud-configuration-management-for-security-4j54)
+- [The Cost of Fitness App Development: A Comprehensive Guide](https://dev.to/evelynwyatt/the-cost-of-fitness-app-development-a-comprehensive-guide-43l6)
+- [Supercharge Your Node.js: WebAssembly&#39;s Game-Changing Performance Boost](https://dev.to/aaravjoshi/supercharge-your-nodejs-webassemblys-game-changing-performance-boost-1och)
+- [Blockchain for Secure Cloud-Based Digital Identity](https://dev.to/iskender83/blockchain-for-secure-cloud-based-digital-identity-45f)
+- [Asynchronous JavaScript - The Journey from Callbacks to Async Await](https://dev.to/juniourrau/asynchronous-javascript-the-journey-from-callbacks-to-async-await-eal)
+- [Securing Cloud-Based E-Commerce Platforms](https://dev.to/iskender83/securing-cloud-based-e-commerce-platforms-27m6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
