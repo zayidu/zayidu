@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Laravel Cashier&#39;s Core Traits: A Deep Dive](https://dev.to/bhaidar/understanding-laravel-cashiers-core-traits-a-deep-dive-5693)
-- [My first JavaScript package &lpar;with recursion for the win&rpar;](https://dev.to/suzusuzu-haruharu/my-first-javascript-package-with-recursion-for-the-win-1774)
-- [How to Switch Your Rails Application Database from PostgreSQL to SQLite](https://dev.to/alexandrecalaca/how-to-switch-your-rails-application-database-from-postgresql-to-sqlite-59ip)
-- [🚀 Software Engineering Postmortem: Zombie Shootout 🧟‍♂️🎮](https://dev.to/victoriadeveloper/software-engineering-postmortem-zombie-shootout-4n7k)
-- [Day 10: ls -l *](https://dev.to/sean2024/day-10-ls-l--40i4)
+- [My First Publish to crates.io &lpar;and cross compilation&rpar;](https://dev.to/theoforger/my-first-publish-to-cratesio-and-cross-compilation-3a6o)
+- [Game strategies tree](https://dev.to/junissen9/game-strategies-tree-4pa5)
+- [[Boost]](https://dev.to/ezejioforog/-4518)
+- [Daily JavaScript Challenge #JS-31: Flatten Nested Objects](https://dev.to/dpc/daily-javascript-challenge-js-31-flatten-nested-objects-1he9)
+- [Simple Codes; A Peace To Experience](https://dev.to/mbaeze_leonard/simple-codes-a-peace-to-experience-eog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
