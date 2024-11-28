@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Debugging Tools in Android &lpar;Updated for 2025&rpar;](https://dev.to/sarahthomasdev/best-debugging-tools-in-android-updated-for-2025-94b)
-- [Integrating WebDataRocks and CanvasJS for Interactive Data Visualization](https://dev.to/ananya_deka/integrating-webdatarocks-and-canvasjs-for-interactive-data-visualization-4kbi)
-- [Angular 19 chegou: tudo o que você precisa saber!](https://dev.to/manualdofront/angular-19-chegou-tudo-o-que-voce-precisa-saber-i0k)
-- [Security in Agile Development](https://dev.to/iskender83/security-in-agile-development-4om5)
-- [Permission Denied: How to Overcome &#39;Access Denied&#39; Errors](https://dev.to/fitehal/permission-denied-how-to-overcome-access-denied-errors-44fe)
+- [The Risks of DNS Caching: Stale Data and Security Threats⚠️💻🔒](https://dev.to/hexadecimalsoftware/the-risks-of-dns-caching-stale-data-and-security-threats-158h)
+- [5 Next.js Project Ideas with code samples](https://dev.to/niko-gus/5-nextjs-project-ideas-with-code-samples-1m6o)
+- [How to Increase the Scrollback Buffer in VSCode Terminal](https://dev.to/jajera/how-to-increase-the-scrollback-buffer-in-vscode-terminal-5aao)
+- [Why Choose Next.js for Order Management System](https://dev.to/pagepro_agency/why-choose-nextjs-for-order-management-system-3l4i)
+- [Feature-Based React Components](https://dev.to/devsk001/feature-based-react-components-3l43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
