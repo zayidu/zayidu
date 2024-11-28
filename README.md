@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Publish to crates.io &lpar;and cross compilation&rpar;](https://dev.to/theoforger/my-first-publish-to-cratesio-and-cross-compilation-3a6o)
-- [Game strategies tree](https://dev.to/junissen9/game-strategies-tree-4pa5)
-- [[Boost]](https://dev.to/ezejioforog/-4518)
-- [Daily JavaScript Challenge #JS-31: Flatten Nested Objects](https://dev.to/dpc/daily-javascript-challenge-js-31-flatten-nested-objects-1he9)
-- [Simple Codes; A Peace To Experience](https://dev.to/mbaeze_leonard/simple-codes-a-peace-to-experience-eog)
+- [Stimulus Features You &lpar;Didn&#39;t&rpar; Know](https://dev.to/railsdesigner/stimulus-features-you-didnt-know-4anc)
+- [Self-Aligning Satellite Dish in Rust: Servo](https://dev.to/ian_ndeda/self-aligning-satellite-dish-in-rust-servo-5b3o)
+- [Maximize Your FastAPI Efficiency: Blazingly Fast Implementation of Caching and Locking with py-cachify](https://dev.to/galtozzy/maximize-your-fastapi-efficiency-blazingly-fast-implementation-of-caching-and-locking-with-4pgj)
+- [Creating an Azure Virtual Network with four subnets with 192.148.30.0/26 address](https://dev.to/ikuesan_adeola/creating-an-azure-virtual-network-with-four-subnets-with-19214830026-address-2h4b)
+- [The best way to get better at writing code is...](https://dev.to/wraith/the-best-way-to-get-better-at-writing-code-is-44g3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
