@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/stevendev0822/-1fmn)
-- [Software Acceptance Testing: Ensuring Quality and User Satisfaction](https://dev.to/keploy/software-acceptance-testing-ensuring-quality-and-user-satisfaction-35gk)
-- [Wrizzle AI](https://dev.to/wrizzle/wrizzle-ai-2336)
-- [Privacy-Preserving Cloud Storage Solutions](https://dev.to/iskender83/privacy-preserving-cloud-storage-solutions-5dlo)
-- [I changed the logo for the js project. What do you think? It’s 🔥?](https://dev.to/hmpljs/i-changed-the-logo-for-the-js-project-what-do-you-think-79e)
+- [Hello Everyone!](https://dev.to/abdul_lah/hello-everyone-nnf)
+- [SQL Interview Prep for MySQL: Key Questions to Know](https://dev.to/dbvismarketing/sql-interview-prep-for-mysql-key-questions-to-know-11pn)
+- [Non-Functional Requirements: A Comprehensive Guide](https://dev.to/keploy/non-functional-requirements-a-comprehensive-guide-4c07)
+- [Learn how to create an animated avatar stack widget with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-an-animated-avatar-stack-widget-with-tailwind-css-175d)
+- [[Plobem] nginx: worker_connections are not enough](https://dev.to/panupongdeve/plobem-nginx-workerconnections-are-not-enough-25ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
