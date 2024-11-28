@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Django Regular Expressions](https://dev.to/michael__/understanding-django-regular-expressions-5d6o)
-- [Behind the Scenes of Gladiators Battle: Building a Browser-Based Gladiator RPG with React and Firebase](https://dev.to/gladiatorsbattle/behind-the-scenes-of-gladiators-battle-building-a-browser-based-gladiator-rpg-with-react-and-49h7)
-- [Python C/C++ binding](https://dev.to/patfinder/python-cc-binding-59l6)
-- [Set Default Values in Laravel with mergeIfMissing: Real-Life Examples](https://dev.to/homezonic/set-default-values-in-laravel-with-mergeifmissing-real-life-examples-54ma)
-- [Running Your First Solana Project with Anchor](https://dev.to/realacjoshua/running-your-first-solana-project-with-anchor-3ion)
+- [Local RAG in Microsoft Word: using AnythingLLM + LM Studio](https://dev.to/gptlocalhost/local-rag-in-microsoft-word-using-anythingllm-lm-studio-1kb4)
+- [Anytime i install linux on a new machine or start fresh, this is where i will regain all of my cli tools.](https://dev.to/osmar_ponce_a5d5cbd78d981/anytime-i-install-linux-on-a-new-machine-or-start-fresh-this-is-where-i-will-regain-all-of-my-cli-22cl)
+- [AI-assisted writing: LM Studio vs Microsoft Copilot in Word](https://dev.to/gptlocalhost/ai-assisted-writing-lm-studio-vs-microsoft-copilot-in-word-4jih)
+- [Missing columns - lowCalAlt_update4](https://dev.to/itsizakb/missing-columns-lowcalaltupdate4-1n4i)
+- [A local alternative to Microsoft Copilot in Word](https://dev.to/gptlocalhost/a-local-alternative-to-microsoft-copilot-in-word-2o9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
