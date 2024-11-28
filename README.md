@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [If you&#39;re a beginner, definitely check this open source guide. I&#39;ve explained almost everything you need to know.](https://dev.to/anmolbaranwal/if-youre-a-beginner-definitely-check-this-open-source-guide-ive-explained-almost-everything-you-498a)
-- [PHP Logger with Email Notifications | Error Tracking in PHP](https://dev.to/mdarifulhaque/php-logger-with-email-notifications-error-tracking-in-php-1dp)
-- [How Hackers Exploit Ansible for Configuration Attacks: A Technical Deep Dive](https://dev.to/nolunchbreaks_22/how-hackers-exploit-ansible-for-configuration-attacks-a-technical-deep-dive-30lp)
-- [Comprehensive list of dev tools for an AI Engineer](https://dev.to/shubhsk/comprehensive-list-of-dev-tools-for-an-ai-engineer-42ml)
-- [Advancing Data Access with Text to SQL Technology](https://dev.to/buzzgk/advancing-data-access-with-text-to-sql-technology-1g1k)
+- [Advanced OAuth2: Refresh Tokens and Token Expiration Strategies](https://dev.to/igventurelli/advanced-oauth2-refresh-tokens-and-token-expiration-strategies-448n)
+- [Am I complaining about Laravel Or I am Telling the truth](https://dev.to/iredox10/am-i-complaining-about-laravel-or-i-am-telling-the-truth-1iig)
+- [[Boost]](https://dev.to/yacinesir/-5hek)
+- [Exploring the Use of Amazon Web Services for Email Address Management](https://dev.to/billgist/exploring-the-use-of-amazon-web-services-for-email-address-management-51i7)
+- [Did you knew CSS has this awesome trick which can eliminate 37% of your Javascript](https://dev.to/thesohailjafri/did-you-knew-css-has-this-awesome-trick-which-can-eliminate-37-of-your-javascript-3mn5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
