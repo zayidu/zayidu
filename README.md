@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cost of Fitness App Development: A Comprehensive Guide](https://dev.to/evelynwyatt/the-cost-of-fitness-app-development-a-comprehensive-guide-43l6)
-- [Supercharge Your Node.js: WebAssembly&#39;s Game-Changing Performance Boost](https://dev.to/aaravjoshi/supercharge-your-nodejs-webassemblys-game-changing-performance-boost-1och)
-- [Blockchain for Secure Cloud-Based Digital Identity](https://dev.to/iskender83/blockchain-for-secure-cloud-based-digital-identity-45f)
-- [Asynchronous JavaScript - The Journey from Callbacks to Async Await](https://dev.to/juniourrau/asynchronous-javascript-the-journey-from-callbacks-to-async-await-eal)
-- [Securing Cloud-Based E-Commerce Platforms](https://dev.to/iskender83/securing-cloud-based-e-commerce-platforms-27m6)
+- [Why do JavaScript developers hate funerals? Because every time they hear &quot;Your function has no body,&quot; they panic and start debugging💀💀](https://dev.to/shafayeat/why-do-javascript-developers-hate-funerals-because-every-time-they-hear-your-function-has-no-3i4h)
+- [Securing Cloud-Based Databases](https://dev.to/iskender83/securing-cloud-based-databases-4hei)
+- [AI-Based Threat Detection for Cloud Networks](https://dev.to/iskender83/ai-based-threat-detection-for-cloud-networks-42ml)
+- [How to test Edge on macOS? &lpar;with Top Methods&rpar;](https://dev.to/sarahthomasdev/how-to-test-edge-on-macos-with-top-methods-42h7)
+- [How to Build Cost-Effective Full Stack Web Applications: 7 Key Strategies](https://dev.to/purvituvar/how-to-build-cost-effective-full-stack-web-applications-7-key-strategies-1g4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
