@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Cloud: A Deep Dive into the AWS Well-Architected Framework](https://dev.to/borhanitrash/navigating-the-cloud-a-deep-dive-into-the-aws-well-architected-framework-3f7f)
-- [Create an Impressive Portfolio For a Software Developer or Engineer](https://dev.to/jtrevdev/create-an-impressive-portfolio-for-a-software-developer-or-engineer-2oba)
-- [10 Game-Changing CSS Practices That Will Level Up Your Code](https://dev.to/mo-dev/10-game-changing-css-practices-that-will-level-up-your-code-h6)
-- [Day 12 - Looping Excercises](https://dev.to/lakshmi_prithanadesan_32/day-12-looping-excercises-11d2)
-- [Introduction to Messaging Systems with Kafka](https://dev.to/yasmine_ddec94f4d4/introduction-to-messaging-systems-with-kafka-3j08)
+- [Burnout, Imposter Syndrome &amp; More: What Junior Devs Really Experience 🕵️‍♀️](https://dev.to/thesohailjafri/burnout-imposter-syndrome-more-what-junior-devs-really-experience-6oe)
+- [Mastering the Dependency Inversion Principle: Best Practices for Clean Code with DI](https://dev.to/alexsergey/mastering-the-dependency-inversion-principle-best-practices-for-clean-code-with-di-5c0k)
+- [Application Programming Interface](https://dev.to/574n13y/application-programming-interface-4k6h)
+- [Vedro Hooks](https://dev.to/mickeystreicher/vedro-hooks-14ei)
+- [Top 8 AWS Integration Best Practices You Need to Follow](https://dev.to/harman_diaz/top-8-aws-integration-best-practices-you-need-to-follow-4gph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
