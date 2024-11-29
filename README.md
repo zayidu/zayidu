@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Story of Nel](https://dev.to/deusinmachina/the-story-of-nel-eab)
-- [Self-Aligning Satellite Dish in Rust: Final](https://dev.to/ian_ndeda/self-aligning-satellite-dish-in-rust-final-3j39)
-- [Learning by Doing: working on ImprovedTube](https://dev.to/peterdanwan/learning-by-doing-working-on-improvedtube-4pbe)
-- [Seaborn Plot Selection Made Easy: How to Visualize Your Data Effectively](https://dev.to/arum_puripratamawati_ef5/seaborn-plot-selection-made-easy-how-to-visualize-your-data-effectively-kan)
-- [Progress on Automatic Feedback Loop](https://dev.to/kannav02/progress-on-automatic-feedback-loop-1e43)
+- [My Journey Contributing to Node.js Core: The Final Chapter &lpar;3/3&rpar;](https://dev.to/harshil_patel/my-journey-contributing-to-nodejs-core-the-final-chapter-33-14)
+- [Regex in VSCode: My favorite hacks](https://dev.to/allmightenglishtech/regex-in-vscode-my-favorite-hacks-2ea6)
+- [Mastering Git and GitHub: Advanced Git Commands - Part 5](https://dev.to/udara_dananjaya/mastering-git-and-github-advanced-git-commands-part-5-3eb2)
+- [Mastering Git and GitHub: Advanced Git Commands - Part 4](https://dev.to/udara_dananjaya/mastering-git-and-github-advanced-git-commands-part-4-14nh)
+- [Evolution and use case for cloud computing](https://dev.to/nwikeodigwe/evolution-and-use-case-for-cloud-computing-35bd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
