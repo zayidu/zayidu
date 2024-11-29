@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IntelliJ IDEA on Ubuntu: Begin Your Journey into Java Development!](https://dev.to/ricardocaselati/intellij-idea-on-ubuntu-begin-your-journey-into-java-development-6cl)
-- [Side Projects Starter Pack](https://dev.to/patrikbraborec/side-projects-starter-pack-35ck)
-- [Converting a Laravel Blade Application to Use Livewire](https://dev.to/msnmongare/converting-a-laravel-blade-application-to-use-livewire-131a)
-- [Cloud Security for DevOps Teams](https://dev.to/iskender83/cloud-security-for-devops-teams-253f)
-- [Ollama and Web-LLM: Building Your Own Local AI Search Assistant](https://dev.to/nodeshiftcloud/ollama-and-web-llm-building-your-own-local-ai-search-assistant-3l5o)
+- [Understanding PooCoin and Its Key Features](https://dev.to/stablecoinstrategist/understanding-poocoin-and-its-key-features-2p3j)
+- [Blockchain for Cloud-Based Supply Chain Traceability](https://dev.to/iskender83/blockchain-for-cloud-based-supply-chain-traceability-4239)
+- [Documentation Release Notes - November 2024](https://dev.to/pubnub/documentation-release-notes-november-2024-5314)
+- [Latest Trends in mHealth App Development: Transforming Healthcare with Innovation](https://dev.to/evelynwyatt/latest-trends-in-mhealth-app-development-transforming-healthcare-with-innovation-528j)
+- [Reducing Code Duplication in GitHub Actions Workflows &lpar;1/2&rpar;](https://dev.to/manuartero/reducing-code-duplication-in-github-actions-workflows-12-5ckf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
