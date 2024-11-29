@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Amazon Bedrock&#39;s New Feature - &quot;Flows&quot;](https://dev.to/aws-builders/understanding-amazon-bedrocks-new-feature-flows-1ohd)
-- [Privacy by Design in Cloud Application Development](https://dev.to/iskender83/privacy-by-design-in-cloud-application-development-kpb)
-- [AI Use Cases in Education: Shaping the Future of Learning](https://dev.to/jhonsnow21/ai-use-cases-in-education-shaping-the-future-of-learning-17db)
-- [Connecting Jenkins to Slack: A Beginner&#39;s Guide](https://dev.to/gideonisbuilding/connecting-jenkins-to-slack-a-beginners-guide-2c7a)
-- [Blockchain-Based Supply Chain Management](https://dev.to/iskender83/blockchain-based-supply-chain-management-388b)
+- [9 things that make IT professionals nostalgic](https://dev.to/ispmanager/9-things-that-make-it-professionals-nostalgic-1dmf)
+- [Writing High-Performance APIs in Go](https://dev.to/philip_zhang_854092d88473/writing-high-performance-apis-in-go-50pa)
+- [Interview Experience--- OSource Software Developer 6-8 LPA 2YOE 29/11/24](https://dev.to/shivansh_sri9/interview-experience-osource-software-developer-6-8-lpa-2yoe-291124-3g46)
+- [Git](https://dev.to/shibainurou/git-f4k)
+- [Why are KitOps and #MLflow the perfect pair for ML projects? Together, they allow developers to set up AI projects in minutes, monitor and compare experiments, and deploy models seamlessly to production. This tutorial will help you master it](https://dev.to/jwilliamsr/why-are-kitops-and-mlflow-the-perfect-pair-for-ml-projects-together-they-allow-developers-to-a7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
