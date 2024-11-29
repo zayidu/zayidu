@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Engineering with DLT and REST](https://dev.to/spara_50/data-engineering-with-dlt-and-rest-4hf5)
-- [Building Dynamic and Maintainable Menus in Laravel](https://dev.to/nasrulhazim/building-dynamic-and-maintainable-menus-in-laravel-ba0)
-- [How to Keep Your Ruby Gems Up-to-Date Without the Stress](https://dev.to/michymono77/how-to-keep-your-ruby-gems-up-to-date-without-the-stress-2ikf)
-- [Exciting updates in Tailwind v4 🚀](https://dev.to/best_codes/exciting-updates-in-tailwind-version-4-40i0)
-- [Github’ımız Nasıl Daha İyi Hale Getirilir? Profil Nasıl Hazırlanır? README Nasıl Yazılır?](https://dev.to/eralpozcan/githubimiz-nasil-daha-iyi-hale-getirilir-profil-nasil-hazirlanir-readme-nasil-yazilir-11ap)
+- [Seaborn Plot Selection Made Easy: How to Visualize Your Data Effectively](https://dev.to/arum_puripratamawati_ef5/seaborn-plot-selection-made-easy-how-to-visualize-your-data-effectively-kan)
+- [Progress on Automatic Feedback Loop](https://dev.to/kannav02/progress-on-automatic-feedback-loop-1e43)
+- [I have an error when installing and using the react-native-bluetooth-serial-next library on an ios device.](https://dev.to/hoang_duc_nam/i-installed-and-used-the-react-native-bluetooth-serial-next-library-on-an-ios-device-cnp)
+- [Building your Portfolio in 2025](https://dev.to/zemerik/building-your-portfolio-in-2025-218e)
+- [HarmonyOS Next Security: Application Encryption - Ensuring the Security of Application Code](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-security-application-encryption-ensuring-the-security-of-application-code-4nod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
