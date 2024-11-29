@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🐘 Simplified Guide to Setting Up PostgreSQL on macOS with Docker 🚢](https://dev.to/kpndevroot/simplified-guide-to-setting-up-postgresql-on-macos-with-docker-5egd)
-- [Top 12 DevSecOps Tools for 2025](https://dev.to/yayabobi/top-12-devsecops-tools-for-2025-264b)
-- [End-to-End AWS DevOps Project: Automating Build and Deployment of a Node.js Application to Amazon ECS using GitLab CI/CD](https://dev.to/prodevopsguytech/end-to-end-aws-devops-project-automating-build-and-deployment-of-a-nodejs-application-to-amazon-h7p)
-- [I Passed the GitHub Foundations Certification: My Honest Experience](https://dev.to/developedbyviv/i-passed-the-github-foundations-certification-my-honest-experience-1mmi)
-- [Simplifying Authorization in React with Higher-Order Components &lpar;HOCs&rpar;](https://dev.to/jagadeesh_m_1339dae1f9e1f/simplifying-authorization-in-react-with-higher-order-components-hocs-5bmb)
+- [My QA Tech Stack in 2025](https://dev.to/samelawrence/my-qa-tech-stack-in-2025-ee2)
+- [Blockchain-Based Identity Management Systems](https://dev.to/iskender83/blockchain-based-identity-management-systems-gg4)
+- [How a Future-Ready CMS Transforms Content Delivery](https://dev.to/meghaghotkar/how-a-future-ready-cms-transforms-content-delivery-4e8)
+- [What is PHP Fiber? Does PHP Fiber Really Give You Asynchronous Execution?](https://dev.to/devmahfuz/what-is-php-fiber-does-php-fiber-really-give-you-asynchronous-execution-12ia)
+- [Discuss moment](https://dev.to/devmercy/discuss-moment-2j4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
