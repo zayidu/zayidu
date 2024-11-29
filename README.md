@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Biometrics and Security: Designing for Trust in Web and Mobile Apps](https://dev.to/uiuxstevemathews/biometrics-and-security-designing-for-trust-in-web-and-mobile-apps-2aaj)
-- [Learn how to create a responsive table with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-a-responsive-table-with-tailwind-css-phf)
-- [Building Chat With PDF from Scratch with advanced AI/ML API and Pinecone leading vector database](https://dev.to/abdibrokhim/building-chat-with-pdf-from-scratch-with-advanced-aiml-api-and-pinecone-leading-vector-database-3o7m)
-- [🎨 Arc-Like Color Picker ✨ The New Must-Have React Component on 🐤 Cuicui.day!](https://dev.to/damienschneider/arc-like-color-picker-the-new-must-have-react-component-on-cuicuiday-1kj3)
-- [2577. Minimum Time to Visit a Cell In a Grid](https://dev.to/mdarifulhaque/2577-minimum-time-to-visit-a-cell-in-a-grid-3eg5)
+- [IntelliJ IDEA on Ubuntu: Begin Your Journey into Java Development!](https://dev.to/ricardocaselati/intellij-idea-on-ubuntu-begin-your-journey-into-java-development-6cl)
+- [Side Projects Starter Pack](https://dev.to/patrikbraborec/side-projects-starter-pack-35ck)
+- [Converting a Laravel Blade Application to Use Livewire](https://dev.to/msnmongare/converting-a-laravel-blade-application-to-use-livewire-131a)
+- [Cloud Security for DevOps Teams](https://dev.to/iskender83/cloud-security-for-devops-teams-253f)
+- [Ollama and Web-LLM: Building Your Own Local AI Search Assistant](https://dev.to/nodeshiftcloud/ollama-and-web-llm-building-your-own-local-ai-search-assistant-3l5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
