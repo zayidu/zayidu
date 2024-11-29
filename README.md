@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [S3 native state locking in Terraform](https://dev.to/globart/s3-native-state-locking-in-terraform-518i)
-- [Blockchain for Transparent and Secure Cloud Storage Solutions](https://dev.to/iskender83/blockchain-for-transparent-and-secure-cloud-storage-solutions-51d)
-- [The Transformative Role of AI in Ridesharing Security](https://dev.to/nolunchbreaks_22/the-transformative-role-of-ai-in-ridesharing-security-562d)
-- [Working on New Open Source Projects - Release 0.4 - Part 1](https://dev.to/bregwin/working-on-new-open-source-projects-release-04-part-1-28i0)
-- [Privacy-Preserving Techniques in AI Systems](https://dev.to/iskender83/privacy-preserving-techniques-in-ai-systems-59e7)
+- [Nova&#39;s Sneaky Redirect: A Quick Fix](https://dev.to/helfull/novas-sneaky-redirect-a-quick-fix-e6k)
+- [Weapons-grade Metaprotocols on METASHREW](https://dev.to/kungfuflex/weapons-grade-metaprotocols-on-metashrew-262k)
+- [Can a Solo Developer Build a SaaS App?](https://dev.to/thealgorithm/can-a-solo-developer-build-a-saas-app-28gm)
+- [A Code for Monitoring Temperature and Humidity with Arduino - Made by Gollum...](https://dev.to/mypreciouscode/a-code-for-monitoring-temperature-and-humidity-with-arduino-made-by-gollum-5925)
+- [Security news weekly round-up - 29th November 2024](https://dev.to/ziizium/security-news-weekly-round-up-29th-november-2024-15fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
