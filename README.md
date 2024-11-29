@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Single Quote Curse: When AI Mistook an MDX Front Matter Issue for a YAML Bug](https://dev.to/roboword/the-single-quote-curse-when-ai-mistook-an-mdx-front-matter-issue-for-a-yaml-bug-20e3)
-- [Free Security Learning Resources: Unlock the World of Cybersecurity](https://dev.to/getvm/free-security-learning-resources-unlock-the-world-of-cybersecurity-2keg)
-- [Best Thunder Client Alternatives for VSCode in 2024](https://dev.to/philip_zhang_854092d88473/best-thunder-client-alternatives-for-vscode-in-2024-4k5c)
-- [Baby Steps with Rust](https://dev.to/crusty-rustacean/baby-steps-with-rust-2mmi)
-- [How LSTMs Are Powering Predictive Analytics in Business by 2025](https://dev.to/vikas76/how-lstms-are-powering-predictive-analytics-in-business-by-2025-2gpb)
+- [Basic functions in GPTLocalhost &lpar;Word Add-in&rpar;](https://dev.to/gptlocalhost/basic-functions-in-gptlocalhost-word-add-in-3c6n)
+- [[Boost]](https://dev.to/alexcj10/-488m)
+- [How IT Companies Hire Talent Globally with a PEO](https://dev.to/employerofrecord/how-it-companies-hire-talent-globally-with-a-peo-23jj)
+- [Network Policy in Kubernetes: A Comprehensive Guide for DevOps](https://dev.to/i_am_vesh/network-policy-in-kubernetes-a-comprehensive-guide-for-devops-3po8)
+- [🌐 The Tech Revolution No One&#39;s Talking About: How Citizen Developers 🛠️ Are Eating Silicon Valley&#39;s Lunch 💼🍽️](https://dev.to/alexcj10/the-tech-revolution-no-ones-talking-about-how-citizen-developers-are-eating-silicon-valleys-3khh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
