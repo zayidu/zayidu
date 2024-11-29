@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Use ChangeNotifier](https://dev.to/andrious/how-to-use-changenotifier-2enk)
-- [Request of help firebase](https://dev.to/the_kinggamer_a95a04de52/request-of-help-firebase-221a)
-- [Démystifier le dossier .git : Le cœur du suivi de version de Git](https://dev.to/brandoniscoding-dev/demystifier-le-dossier-git-le-coeur-du-suivi-de-version-de-git-i5j)
-- [&quot;Harnessing the Power of AI and Humans in Testing: Why Collaboration Wins&quot;](https://dev.to/harish_rachakonda_bb24a73/harnessing-the-power-of-ai-and-humans-in-testing-why-collaboration-wins-47ln)
-- [Choosing an SSL certificate: paid or free — or whether you can do without one](https://dev.to/ispmanager/choosing-an-ssl-certificate-paid-or-free-or-whether-you-can-do-without-one-29d4)
+- [🐘 Simplified Guide to Setting Up PostgreSQL on macOS with Docker 🚢](https://dev.to/kpndevroot/simplified-guide-to-setting-up-postgresql-on-macos-with-docker-5egd)
+- [Top 12 DevSecOps Tools for 2025](https://dev.to/yayabobi/top-12-devsecops-tools-for-2025-264b)
+- [End-to-End AWS DevOps Project: Automating Build and Deployment of a Node.js Application to Amazon ECS using GitLab CI/CD](https://dev.to/prodevopsguytech/end-to-end-aws-devops-project-automating-build-and-deployment-of-a-nodejs-application-to-amazon-h7p)
+- [I Passed the GitHub Foundations Certification: My Honest Experience](https://dev.to/developedbyviv/i-passed-the-github-foundations-certification-my-honest-experience-1mmi)
+- [Simplifying Authorization in React with Higher-Order Components &lpar;HOCs&rpar;](https://dev.to/jagadeesh_m_1339dae1f9e1f/simplifying-authorization-in-react-with-higher-order-components-hocs-5bmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
