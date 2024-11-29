@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Data Protection in Kubernetes: Strategies for Securing Sensitive Information and Ensuring Resilience](https://dev.to/raza_shaikh_eb0dd7d1ca772/comprehensive-data-protection-in-kubernetes-strategies-for-securing-sensitive-information-and-mm2)
-- [Multi-Tenant Cloud Environments and Security Challenges](https://dev.to/iskender83/multi-tenant-cloud-environments-and-security-challenges-5d19)
-- [Reusable, Extensible and Testable State Logic with Reactive Programming.](https://dev.to/laidav/reusable-extensible-and-testable-state-logic-with-reactive-programming-3b9d)
-- [Beware recruitment emails with malware infected git repos ! admin@autosquare.store scam](https://dev.to/andreitelteu/beware-recruitment-emails-with-malware-infected-git-repos-adminautosquarestore-scam-431o)
-- [Regulatory Compliance for Cloud Platforms](https://dev.to/iskender83/regulatory-compliance-for-cloud-platforms-140f)
+- [Understanding Amazon Bedrock&#39;s New Feature - &quot;Flows&quot;](https://dev.to/aws-builders/understanding-amazon-bedrocks-new-feature-flows-1ohd)
+- [Privacy by Design in Cloud Application Development](https://dev.to/iskender83/privacy-by-design-in-cloud-application-development-kpb)
+- [AI Use Cases in Education: Shaping the Future of Learning](https://dev.to/jhonsnow21/ai-use-cases-in-education-shaping-the-future-of-learning-17db)
+- [Connecting Jenkins to Slack: A Beginner&#39;s Guide](https://dev.to/gideonisbuilding/connecting-jenkins-to-slack-a-beginners-guide-2c7a)
+- [Blockchain-Based Supply Chain Management](https://dev.to/iskender83/blockchain-based-supply-chain-management-388b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
