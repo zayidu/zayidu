@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [9 things that make IT professionals nostalgic](https://dev.to/ispmanager/9-things-that-make-it-professionals-nostalgic-1dmf)
-- [Writing High-Performance APIs in Go](https://dev.to/philip_zhang_854092d88473/writing-high-performance-apis-in-go-50pa)
-- [Interview Experience--- OSource Software Developer 6-8 LPA 2YOE 29/11/24](https://dev.to/shivansh_sri9/interview-experience-osource-software-developer-6-8-lpa-2yoe-291124-3g46)
-- [Git](https://dev.to/shibainurou/git-f4k)
-- [Why are KitOps and #MLflow the perfect pair for ML projects? Together, they allow developers to set up AI projects in minutes, monitor and compare experiments, and deploy models seamlessly to production. This tutorial will help you master it](https://dev.to/jwilliamsr/why-are-kitops-and-mlflow-the-perfect-pair-for-ml-projects-together-they-allow-developers-to-a7j)
+- [The Single Quote Curse: When AI Mistook an MDX Front Matter Issue for a YAML Bug](https://dev.to/roboword/the-single-quote-curse-when-ai-mistook-an-mdx-front-matter-issue-for-a-yaml-bug-20e3)
+- [Free Security Learning Resources: Unlock the World of Cybersecurity](https://dev.to/getvm/free-security-learning-resources-unlock-the-world-of-cybersecurity-2keg)
+- [Best Thunder Client Alternatives for VSCode in 2024](https://dev.to/philip_zhang_854092d88473/best-thunder-client-alternatives-for-vscode-in-2024-4k5c)
+- [Baby Steps with Rust](https://dev.to/crusty-rustacean/baby-steps-with-rust-2mmi)
+- [How LSTMs Are Powering Predictive Analytics in Business by 2025](https://dev.to/vikas76/how-lstms-are-powering-predictive-analytics-in-business-by-2025-2gpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
