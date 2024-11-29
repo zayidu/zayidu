@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hai Robotics Achieved High Availability &amp; Easy Operations in a Hybrid Cloud Architecture with JuiceFS](https://dev.to/daswu/hai-robotics-achieved-high-availability-easy-operations-in-a-hybrid-cloud-architecture-with-29l3)
-- [5 MOST Important JS Concepts To Master JavaScript](https://dev.to/danish/5-most-important-js-concepts-to-master-javascript-4pn1)
-- [10 Advanced OG Image Techniques I Learned Building gleam.so 🔍](https://dev.to/gleamso/10-advanced-og-image-techniques-i-learned-building-gleamso-3517)
-- [Which one of you is a WordPress Developer](https://dev.to/web_dev-usman/which-one-of-you-is-a-wordpress-developer-5cjb)
-- [Why Integrate Algolia Over Solr: A Comparative Analysis](https://dev.to/chaudharidevam/why-integrate-algolia-over-solr-a-comparative-analysis-37g6)
+- [Biometrics and Security: Designing for Trust in Web and Mobile Apps](https://dev.to/uiuxstevemathews/biometrics-and-security-designing-for-trust-in-web-and-mobile-apps-2aaj)
+- [Learn how to create a responsive table with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-a-responsive-table-with-tailwind-css-phf)
+- [Building Chat With PDF from Scratch with advanced AI/ML API and Pinecone leading vector database](https://dev.to/abdibrokhim/building-chat-with-pdf-from-scratch-with-advanced-aiml-api-and-pinecone-leading-vector-database-3o7m)
+- [🎨 Arc-Like Color Picker ✨ The New Must-Have React Component on 🐤 Cuicui.day!](https://dev.to/damienschneider/arc-like-color-picker-the-new-must-have-react-component-on-cuicuiday-1kj3)
+- [2577. Minimum Time to Visit a Cell In a Grid](https://dev.to/mdarifulhaque/2577-minimum-time-to-visit-a-cell-in-a-grid-3eg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
