@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding PooCoin and Its Key Features](https://dev.to/stablecoinstrategist/understanding-poocoin-and-its-key-features-2p3j)
-- [Blockchain for Cloud-Based Supply Chain Traceability](https://dev.to/iskender83/blockchain-for-cloud-based-supply-chain-traceability-4239)
-- [Documentation Release Notes - November 2024](https://dev.to/pubnub/documentation-release-notes-november-2024-5314)
-- [Latest Trends in mHealth App Development: Transforming Healthcare with Innovation](https://dev.to/evelynwyatt/latest-trends-in-mhealth-app-development-transforming-healthcare-with-innovation-528j)
-- [Reducing Code Duplication in GitHub Actions Workflows &lpar;1/2&rpar;](https://dev.to/manuartero/reducing-code-duplication-in-github-actions-workflows-12-5ckf)
+- [Comprehensive Data Protection in Kubernetes: Strategies for Securing Sensitive Information and Ensuring Resilience](https://dev.to/raza_shaikh_eb0dd7d1ca772/comprehensive-data-protection-in-kubernetes-strategies-for-securing-sensitive-information-and-mm2)
+- [Multi-Tenant Cloud Environments and Security Challenges](https://dev.to/iskender83/multi-tenant-cloud-environments-and-security-challenges-5d19)
+- [Reusable, Extensible and Testable State Logic with Reactive Programming.](https://dev.to/laidav/reusable-extensible-and-testable-state-logic-with-reactive-programming-3b9d)
+- [Beware recruitment emails with malware infected git repos ! admin@autosquare.store scam](https://dev.to/andreitelteu/beware-recruitment-emails-with-malware-infected-git-repos-adminautosquarestore-scam-431o)
+- [Regulatory Compliance for Cloud Platforms](https://dev.to/iskender83/regulatory-compliance-for-cloud-platforms-140f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
