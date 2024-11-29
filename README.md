@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My QA Tech Stack in 2025](https://dev.to/samelawrence/my-qa-tech-stack-in-2025-ee2)
-- [Blockchain-Based Identity Management Systems](https://dev.to/iskender83/blockchain-based-identity-management-systems-gg4)
-- [How a Future-Ready CMS Transforms Content Delivery](https://dev.to/meghaghotkar/how-a-future-ready-cms-transforms-content-delivery-4e8)
-- [What is PHP Fiber? Does PHP Fiber Really Give You Asynchronous Execution?](https://dev.to/devmahfuz/what-is-php-fiber-does-php-fiber-really-give-you-asynchronous-execution-12ia)
-- [Discuss moment](https://dev.to/devmercy/discuss-moment-2j4m)
+- [Exploring the React component lifecycle: A guide to understanding the different phases.](https://dev.to/alamin49/exploring-the-react-component-lifecycle-a-guide-to-understanding-the-different-phases-1g7g)
+- [Umbul Nilo: Keindahan Alam Tersembunyi di Klaten yang Memikat Hati](https://dev.to/zoloku/umbul-nilo-keindahan-alam-tersembunyi-di-klaten-yang-memikat-hati-41af)
+- [Automating Cloud Infrastructure Security Compliance](https://dev.to/iskender83/automating-cloud-infrastructure-security-compliance-kd2)
+- [Daemons on macOS with Rust](https://dev.to/sylvanfranklin/daemons-on-macos-with-rust-188a)
+- [AI for Cloud-Based Network Traffic Analysis and Monitoring](https://dev.to/iskender83/ai-for-cloud-based-network-traffic-analysis-and-monitoring-553p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
