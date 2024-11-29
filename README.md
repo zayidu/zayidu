@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Basic functions in GPTLocalhost &lpar;Word Add-in&rpar;](https://dev.to/gptlocalhost/basic-functions-in-gptlocalhost-word-add-in-3c6n)
-- [[Boost]](https://dev.to/alexcj10/-488m)
-- [How IT Companies Hire Talent Globally with a PEO](https://dev.to/employerofrecord/how-it-companies-hire-talent-globally-with-a-peo-23jj)
-- [Network Policy in Kubernetes: A Comprehensive Guide for DevOps](https://dev.to/i_am_vesh/network-policy-in-kubernetes-a-comprehensive-guide-for-devops-3po8)
-- [🌐 The Tech Revolution No One&#39;s Talking About: How Citizen Developers 🛠️ Are Eating Silicon Valley&#39;s Lunch 💼🍽️](https://dev.to/alexcj10/the-tech-revolution-no-ones-talking-about-how-citizen-developers-are-eating-silicon-valleys-3khh)
+- [How To Use ChangeNotifier](https://dev.to/andrious/how-to-use-changenotifier-2enk)
+- [Request of help firebase](https://dev.to/the_kinggamer_a95a04de52/request-of-help-firebase-221a)
+- [Démystifier le dossier .git : Le cœur du suivi de version de Git](https://dev.to/brandoniscoding-dev/demystifier-le-dossier-git-le-coeur-du-suivi-de-version-de-git-i5j)
+- [&quot;Harnessing the Power of AI and Humans in Testing: Why Collaboration Wins&quot;](https://dev.to/harish_rachakonda_bb24a73/harnessing-the-power-of-ai-and-humans-in-testing-why-collaboration-wins-47ln)
+- [Choosing an SSL certificate: paid or free — or whether you can do without one](https://dev.to/ispmanager/choosing-an-ssl-certificate-paid-or-free-or-whether-you-can-do-without-one-29d4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
