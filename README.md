@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding OAI and OAC in AWS CloudFront: Concepts, Configuration, and Best Practices](https://dev.to/anshul_kichara/understanding-oai-and-oac-in-aws-cloudfront-concepts-configuration-and-best-practices-10hd)
-- [Understanding Blue-Green Deployment Strategy](https://dev.to/vipulkumarsviit/understanding-blue-green-deployment-strategy-2dg8)
-- [Integrating AI in Microsoft 365: A Look at Copilot and AI-Driven Features](https://dev.to/javed_telsource/integrating-ai-in-microsoft-365-a-look-at-copilot-and-ai-driven-features-4l16)
-- [How to Generate Your Own Public and Secret Keys for PGP Encryption](https://dev.to/adityabhuyan/how-to-generate-your-own-public-and-secret-keys-for-pgp-encryption-1joh)
-- [Angular 19 introduces Incremental Hydration for better performance, the linkedSignal API for easier state management, a new Resource API for async handling, standalone components by default, and a strictStandalone flag for enforcing best practices. #Angula](https://dev.to/jps27cse/angular-19-introduces-incremental-hydration-for-better-performance-the-linkedsignal-api-for-easier-p78)
+- [🚀 Beyond Data Ingestion: Advanced Strategies for Optimizing API Data Pipelines](https://dev.to/sanket00123/beyond-data-ingestion-advanced-strategies-for-optimizing-api-data-pipelines-3613)
+- [Execa vs using child_process to execute CLI commands programmatically.](https://dev.to/thinkthroo/execa-vs-using-childprocess-to-execute-cli-commands-programmatically-1mjm)
+- [Conquer the API Rainbow Road Level with these Dev “Cheat Codes”](https://dev.to/getambassador2024/conquer-the-api-rainbow-road-level-with-these-dev-cheat-codes-42a1)
+- [How API Gateways Simplify the Transition from Monolith to Microservices](https://dev.to/getambassador2024/how-api-gateways-simplify-the-transition-from-monolith-to-microservices-8f1)
+- [From Go to Ruby: My first Homebrew contribution! Added Windsurf IDE to make installation easier for macOS users. Learned about package management, Ruby syntax, and open source collaboration. Join me on this coding adventure! 🍺 #OpenSource #IDE #Homebrew](https://dev.to/fathiraz_arthuro/from-go-to-ruby-my-first-homebrew-contribution-added-windsurf-ide-to-make-installation-easier-for-4kph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
