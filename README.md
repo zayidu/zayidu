@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The Story of Nel](https://dev.to/deusinmachina/the-story-of-nel-eab)
+- [Self-Aligning Satellite Dish in Rust: Final](https://dev.to/ian_ndeda/self-aligning-satellite-dish-in-rust-final-3j39)
+- [Learning by Doing: working on ImprovedTube](https://dev.to/peterdanwan/learning-by-doing-working-on-improvedtube-4pbe)
 - [Seaborn Plot Selection Made Easy: How to Visualize Your Data Effectively](https://dev.to/arum_puripratamawati_ef5/seaborn-plot-selection-made-easy-how-to-visualize-your-data-effectively-kan)
 - [Progress on Automatic Feedback Loop](https://dev.to/kannav02/progress-on-automatic-feedback-loop-1e43)
-- [I have an error when installing and using the react-native-bluetooth-serial-next library on an ios device.](https://dev.to/hoang_duc_nam/i-installed-and-used-the-react-native-bluetooth-serial-next-library-on-an-ios-device-cnp)
-- [Building your Portfolio in 2025](https://dev.to/zemerik/building-your-portfolio-in-2025-218e)
-- [HarmonyOS Next Security: Application Encryption - Ensuring the Security of Application Code](https://dev.to/xun_wang_6384a403f9817c2/harmonyos-next-security-application-encryption-ensuring-the-security-of-application-code-4nod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
