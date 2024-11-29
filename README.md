@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the React component lifecycle: A guide to understanding the different phases.](https://dev.to/alamin49/exploring-the-react-component-lifecycle-a-guide-to-understanding-the-different-phases-1g7g)
-- [Umbul Nilo: Keindahan Alam Tersembunyi di Klaten yang Memikat Hati](https://dev.to/zoloku/umbul-nilo-keindahan-alam-tersembunyi-di-klaten-yang-memikat-hati-41af)
-- [Automating Cloud Infrastructure Security Compliance](https://dev.to/iskender83/automating-cloud-infrastructure-security-compliance-kd2)
-- [Daemons on macOS with Rust](https://dev.to/sylvanfranklin/daemons-on-macos-with-rust-188a)
-- [AI for Cloud-Based Network Traffic Analysis and Monitoring](https://dev.to/iskender83/ai-for-cloud-based-network-traffic-analysis-and-monitoring-553p)
+- [S3 native state locking in Terraform](https://dev.to/globart/s3-native-state-locking-in-terraform-518i)
+- [Blockchain for Transparent and Secure Cloud Storage Solutions](https://dev.to/iskender83/blockchain-for-transparent-and-secure-cloud-storage-solutions-51d)
+- [The Transformative Role of AI in Ridesharing Security](https://dev.to/nolunchbreaks_22/the-transformative-role-of-ai-in-ridesharing-security-562d)
+- [Working on New Open Source Projects - Release 0.4 - Part 1](https://dev.to/bregwin/working-on-new-open-source-projects-release-04-part-1-28i0)
+- [Privacy-Preserving Techniques in AI Systems](https://dev.to/iskender83/privacy-preserving-techniques-in-ai-systems-59e7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
