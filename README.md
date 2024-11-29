@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Features in Upcoming CMS for WooCommerce](https://dev.to/zafaryaqoobask/ai-powered-features-in-upcoming-cms-for-woocommerce-d96)
-- [10 Ways to Effectively Manage Spring Cloud Dependencies](https://dev.to/brilworks/10-ways-to-effectively-manage-spring-cloud-dependencies-4kj)
-- [Mastering Advanced Error Handling in Express.js for Robust Node.js Applications](https://dev.to/rigalpatel001/mastering-advanced-error-handling-in-expressjs-for-robust-nodejs-applications-3534)
-- [Best Photo Editing Software for Stunning Website Images](https://dev.to/dexterhale/best-photo-editing-software-for-stunning-website-images-34j3)
-- [Let&#39;s Learn Generators in JavaScript 🚀](https://dev.to/jagroop2001/lets-learn-generators-in-javascript-4566)
+- [Understanding OAI and OAC in AWS CloudFront: Concepts, Configuration, and Best Practices](https://dev.to/anshul_kichara/understanding-oai-and-oac-in-aws-cloudfront-concepts-configuration-and-best-practices-10hd)
+- [Understanding Blue-Green Deployment Strategy](https://dev.to/vipulkumarsviit/understanding-blue-green-deployment-strategy-2dg8)
+- [Integrating AI in Microsoft 365: A Look at Copilot and AI-Driven Features](https://dev.to/javed_telsource/integrating-ai-in-microsoft-365-a-look-at-copilot-and-ai-driven-features-4l16)
+- [How to Generate Your Own Public and Secret Keys for PGP Encryption](https://dev.to/adityabhuyan/how-to-generate-your-own-public-and-secret-keys-for-pgp-encryption-1joh)
+- [Angular 19 introduces Incremental Hydration for better performance, the linkedSignal API for easier state management, a new Resource API for async handling, standalone components by default, and a strictStandalone flag for enforcing best practices. #Angula](https://dev.to/jps27cse/angular-19-introduces-incremental-hydration-for-better-performance-the-linkedsignal-api-for-easier-p78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
