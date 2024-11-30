@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [As a beginner I use Arch, Neovim and code in assembly btw](https://dev.to/safalpanta/as-a-beginner-i-use-arch-neovim-and-code-in-assembly-btw-5co0)
-- [Catch my latest article on this AI frameworks.](https://dev.to/coderoflagos/catch-my-latest-article-on-this-ai-frameworks-3gac)
-- [[Boost]](https://dev.to/coderoflagos/-529k)
-- [How to Protect ECS Containers with a Read-Only Root Filesystem](https://dev.to/suzuki0430/how-to-set-the-containers-root-filesystem-to-read-only-35a3)
-- [Solving LeetCode&#39;s Number of Islands: A Deep Dive into DFS](https://dev.to/benono/solving-leetcodes-number-of-islands-a-deep-dive-into-dfs-106b)
+- [Mastering Rails and Ruby: A Collection of Practical Tips for Cleaner Code](https://dev.to/sname/mastering-rails-and-ruby-a-collection-of-practical-tips-for-cleaner-code-3bci)
+- [[Boost]](https://dev.to/sname/-3hfo)
+- [Mastering Rails and Ruby: A Collection of Practical Tips for Cleaner Code](https://dev.to/sname/mastering-rails-and-ruby-a-collection-of-practical-tips-for-cleaner-code-900)
+- [Teste do Capítulo 11](https://dev.to/javaparainiciantes/teste-do-capitulo-11-3hkf)
+- [The Fastest Way To Get A Tech Job When Nobody Is Hiring](https://dev.to/drjoshcsimmons/the-fastest-way-to-get-a-tech-job-when-nobody-is-hiring-2j81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
