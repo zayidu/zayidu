@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unauthorized: No token provided&quot;&rpar;](https://dev.to/lord_rahms/unauthorizedno-token-provided-4an4)
-- [The End of the Beginning: My Open Source Journey so far](https://dev.to/bregwin/the-end-of-the-beginning-my-open-source-journey-so-far-3oid)
-- [Nova&#39;s Sneaky Redirect: A Quick Fix](https://dev.to/helfull/novas-sneaky-redirect-a-quick-fix-e6k)
-- [Weapons-grade Metaprotocols on METASHREW](https://dev.to/kungfuflex/weapons-grade-metaprotocols-on-metashrew-262k)
-- [Can a Solo Developer Build a SaaS App?](https://dev.to/thealgorithm/can-a-solo-developer-build-a-saas-app-28gm)
+- [As a beginner I use Arch, Neovim and code in assembly btw](https://dev.to/safalpanta/as-a-beginner-i-use-arch-neovim-and-code-in-assembly-btw-5co0)
+- [Catch my latest article on this AI frameworks.](https://dev.to/coderoflagos/catch-my-latest-article-on-this-ai-frameworks-3gac)
+- [[Boost]](https://dev.to/coderoflagos/-529k)
+- [How to Protect ECS Containers with a Read-Only Root Filesystem](https://dev.to/suzuki0430/how-to-set-the-containers-root-filesystem-to-read-only-35a3)
+- [Solving LeetCode&#39;s Number of Islands: A Deep Dive into DFS](https://dev.to/benono/solving-leetcodes-number-of-islands-a-deep-dive-into-dfs-106b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
