@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IoT Security Frameworks for Cloud Environments](https://dev.to/iskender83/iot-security-frameworks-for-cloud-environments-1fe)
-- [How to Set Up Sessions and Authentication in Express.js Fast and Easy](https://dev.to/rigalpatel001/how-to-set-up-sessions-and-authentication-in-expressjs-fast-and-easy-gf2)
-- [Python](https://dev.to/mayur2509/python-5802)
-- [Edge Computing Security for Cloud-Based Applications](https://dev.to/iskender83/edge-computing-security-for-cloud-based-applications-4nkm)
-- [Sampling N Lines From a CSV File](https://dev.to/tallesl/sampling-n-lines-from-a-csv-file-epk)
+- [k9s - manage your Kubernetes cluster like a pro!](https://dev.to/aws-builders/k9s-manage-your-kubernetes-cluster-like-a-pro-lko)
+- [Frontosa Cichlid: Mengenal Ikan Hias Eksotis dari Danau Tanganyika](https://dev.to/zoloku/frontosa-cichlid-mengenal-ikan-hias-eksotis-dari-danau-tanganyika-41lp)
+- [Easy Meal Ideas for Busy Professionals](https://dev.to/tayyab_sajid_f4c38555e5b9/easy-meal-ideas-for-busy-professionals-e35)
+- [The Power of Habit Formation: Building Routines for Success](https://dev.to/harrisonphan9/1-blog-post-the-power-of-habit-formation-building-routines-for-success-5c7i)
+- [242. Valid Anagram - Java 練習 - HashMap （中文解釋）](https://dev.to/vc7/242-valid-anagram-java-lian-xi-hashmap-49n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
