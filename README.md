@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to create a responsive multi-column layout with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-a-responsive-multi-column-layout-with-tailwind-css-5c80)
-- [🚀 Your First Java Project in IntelliJ IDEA: Creating a &quot;Hello World&quot; in Java 🚀](https://dev.to/ricardocaselati/your-first-java-project-in-intellij-idea-creating-a-hello-world-in-java-4l73)
-- [How to Detect and Defend Against SQL Injection Attacks - Part 3[Must Read]](https://dev.to/trixsec/how-to-detect-and-defend-against-sql-injection-attacks-part-3must-read-i48)
-- [The Ultimate Guide to AWS Lambda](https://dev.to/borhanitrash/the-ultimate-guide-to-aws-lambda-1886)
-- [Latest Newsletter: Gargantuan Change &lpar;Issue #192&rpar;](https://dev.to/mjgs/latest-newsletter-gargantuan-change-issue-192-ge)
+- [A debate to be had.](https://dev.to/miketalbot/a-debate-to-be-had-563h)
+- [Testing &quot;quickie posts&quot; on dev.to](https://dev.to/kostyatretyak/testing-quickie-posts-on-devto-12c1)
+- [Playing Card](https://dev.to/satyamshorrf/playing-card-4eca)
+- [Patrones de Diseño y el Patrón Singleton en JavaScript](https://dev.to/alexfloresf/patrones-de-diseno-y-el-patron-singleton-en-javascript-42ee)
+- [Spotlight Clock](https://dev.to/satyamshorrf/spotlight-clock-3ac0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
