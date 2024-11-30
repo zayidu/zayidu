@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ranking System and Career Progression in Cabin Crew Life Simulator - Devlog #5](https://dev.to/khaisimon_devgame/ranking-system-and-career-progression-in-cabin-crew-life-simulator-devlog-5-16c5)
-- [Memulai Bisnis Ayam Bakar: Langkah Sukses Menggapai Impian Usaha Kuliner Anda](https://dev.to/zoloku/memulai-bisnis-ayam-bakar-langkah-sukses-menggapai-impian-usaha-kuliner-anda-4og4)
-- [Mastering Website Traffic and SEO: Insights for Better Engagement and Results](https://dev.to/shtefcs/mastering-website-traffic-and-seo-insights-for-better-engagement-and-results-59ap)
-- [Why You Should Avoid Using `try...catch` in SvelteKit Actions](https://dev.to/dev_michael/why-you-should-avoid-using-trycatch-in-sveltekit-actions-3dia)
-- [How does reduce&lpar;&rpar; differ from collect&lpar;&rpar; in Java streams?](https://dev.to/realnamehidden1_61/how-does-reduce-differ-from-collect-in-java-streams-k83)
+- [Setting Up MLflow in Google Colab: A Beginner-Friendly Guide](https://dev.to/shemanto_sharkar/setting-up-mlflow-in-google-colab-a-beginner-friendly-guide-5c8g)
+- [Canary Deployments: A Safer Way to Roll Out Updates](https://dev.to/vipulkumarsviit/canary-deployments-a-safer-way-to-roll-out-updates-2c40)
+- [Untitled](https://dev.to/satyamshorrf/untitled-4o88)
+- [🚀 Generate Dynamic PDFs in Laravel with DomPDF](https://dev.to/blamsa0mine/generate-dynamic-pdfs-in-laravel-with-dompdf-5bmd)
+- [Angular 19: A Game Changer in Web Development](https://dev.to/habeebrahmanca07/angular-19-a-game-changer-in-web-development-4m59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
