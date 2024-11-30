@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Detect and Defend Against SQL Injection Attacks - Part 2](https://dev.to/trixsec/how-to-detect-and-defend-against-sql-injection-attacks-part-2-3b1p)
-- [Installing Postgres on a Development Machine](https://dev.to/tallesl/installing-postgres-on-a-development-machine-4gb9)
-- [Top 15 Git Commands That Every Developer Should Know](https://dev.to/hardy_mervana/top-15-git-commands-that-every-developer-should-know-1pbi)
-- [Caught in the Crunch My Journey from Snacks to 200000 Exposed Users Privacy](https://dev.to/programmerraja/caught-in-the-crunch-my-journey-from-snacks-to-200000-exposed-users-privacy-41e0)
-- [[CV2] HSV vs RGB: Understanding and Leveraging HSV for Image Processing](https://dev.to/jarvissan22/cv2-hsv-vs-rgb-understanding-and-leveraging-hsv-for-image-processing-49ac)
+- [My most useful Visual Studio Code Extensions](https://dev.to/radictionary/my-most-useful-visual-studio-code-extensions-ng4)
+- [PureScript for Scala developers](https://dev.to/zelenya/purescript-for-scala-developers-2o75)
+- [GitHub Copilot: Supercharge Your Coding with AI Pair Programmer](https://dev.to/rajinh24/github-copilot-supercharge-your-coding-with-ai-pair-programmer-17nf)
+- [Lang Everything: The Missing Guide to LangChain&#39;s Ecosystem](https://dev.to/dpaluy/lang-everything-the-missing-guide-to-langchains-ecosystem-1eo7)
+- [Bridging CLI and Note-Taking](https://dev.to/jrswab/bridging-cli-and-note-taking-92p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
