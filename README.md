@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A debate to be had.](https://dev.to/miketalbot/a-debate-to-be-had-563h)
-- [Testing &quot;quickie posts&quot; on dev.to](https://dev.to/kostyatretyak/testing-quickie-posts-on-devto-12c1)
-- [Playing Card](https://dev.to/satyamshorrf/playing-card-4eca)
-- [Patrones de Diseño y el Patrón Singleton en JavaScript](https://dev.to/alexfloresf/patrones-de-diseno-y-el-patron-singleton-en-javascript-42ee)
-- [Spotlight Clock](https://dev.to/satyamshorrf/spotlight-clock-3ac0)
+- [[Boost]](https://dev.to/md_nozibulislam_67099525/-k28)
+- [Git Mastery: Essential Questions and Answers for Developers](https://dev.to/nozibul_islam_113b1d5334f/git-mastery-essential-questions-and-answers-for-developers-1mge)
+- [Git Mastery: Essential Questions and Answers for Developers 🚀](https://dev.to/nozibul_islam_113b1d5334f/git-mastery-essential-questions-and-answers-for-developers-4c8)
+- [Outdated TLS/SSL in Healthcare: The Open Ransomware Risk](https://dev.to/azim_uddin/outdated-tlsssl-in-healthcare-the-open-ransomware-risk-1poc)
+- [Top-3 Helm Plugins: Helm Secrets, Helm Diff and Helm Git](https://dev.to/mkdev/top-3-helm-plugins-helm-secrets-helm-diff-and-helm-git-2ngb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
