@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [StatefulSet in Kubernetes: A Comprehensive Guide](https://dev.to/i_am_vesh/statefulset-in-kubernetes-a-comprehensive-guide-58j3)
-- [My Pre-Contest Bhasad and TCS Codevita Season-12 Adventure 🎢](https://dev.to/krishna_khaitan/my-pre-contest-bhasad-and-tcs-codevita-season-12-adventure-3d27)
-- [React Basic: Using setup with Vite and understanding the very basics from what&#39;s inside there.](https://dev.to/nao_kagayaki/react-basic-using-setup-with-vite-and-understanding-the-very-basics-from-whats-inside-there-7il)
-- [Login Neumorphism](https://dev.to/rey_plix_1128b07369add6d6/login-neumorphism-2dpi)
-- [TypeScript for Beginners: From Zero to Hero - Part 1](https://dev.to/istealersn_dev/typescript-for-beginners-from-zero-to-hero-part-1-5ecc)
+- [A Beginner&#39;s Guide to Loops](https://dev.to/lostshades/a-beginners-guide-to-loops-4pmm)
+- [FireChat Technical Documentation](https://dev.to/alex7842/firechat-technical-documentation-5811)
+- [The Dual Impact of AI and Robotics on Society, Employment, and the Future](https://dev.to/hamidintech/the-dual-impact-of-ai-and-robotics-on-society-employment-and-the-future-1e3a)
+- [FireChat User Guide](https://dev.to/alex7842/firechat-user-guide-2914)
+- [Laravel Under The Hood - Extending the framework](https://dev.to/oussamamater/laravel-under-the-hood-extending-the-framework-53e0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
