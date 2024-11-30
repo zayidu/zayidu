@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner&#39;s Guide to PHP Form Handling with Cookies](https://dev.to/harshm03/beginners-guide-to-php-form-handling-with-cookies-1el4)
-- [How to add loading states with server action and useActionState hook in Nextjs 15 and React 19](https://dev.to/thatanjan/how-to-add-loading-states-with-server-action-and-useactionstate-hook-in-nextjs-15-and-react-19-5elc)
-- [Tối ưu Frontend - Độ phức tạp của Style CSS ?🚀](https://dev.to/nddev_18/toi-uu-frontend-do-phuc-tap-cua-style-css--2762)
-- [Beginner&#39;s Guide to PHP Form Handling with Sessions](https://dev.to/harshm03/beginners-guide-to-php-form-handling-with-sessions-5ebh)
-- [Adding Interactive Charts and Graphs to Tailwind CSS Admin Templates: A Step-by-Step Guide](https://dev.to/hitesh_developer/adding-interactive-charts-and-graphs-to-tailwind-css-admin-templates-a-step-by-step-guide-4pbj)
+- [Tối ưu Render Danh Sách 🚀](https://dev.to/nddev_18/toi-uu-render-danh-sach-4cd4)
+- [HTML5 Quick Learning Guide: Your Fast Track to Modern Web Development](https://dev.to/getvm/html5-quick-learning-guide-your-fast-track-to-modern-web-development-3a36)
+- [Axios NPM Package: A Beginner&#39;s Guide to Installing and Making HTTP Requests](https://dev.to/codeparrot/axios-npm-package-a-beginners-guide-to-installing-and-making-http-requests-2ahl)
+- [🫵You Should Try These Tools In Your Next Project](https://dev.to/dev_kiran/you-should-try-these-tools-in-your-next-project-469)
+- [Google Cloud MFA: Is Your Organization Ready?](https://dev.to/rabbitwolf__/google-cloud-mfa-is-your-organization-ready-1acd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
