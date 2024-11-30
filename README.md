@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up MLflow in Google Colab: A Beginner-Friendly Guide](https://dev.to/shemanto_sharkar/setting-up-mlflow-in-google-colab-a-beginner-friendly-guide-5c8g)
-- [Canary Deployments: A Safer Way to Roll Out Updates](https://dev.to/vipulkumarsviit/canary-deployments-a-safer-way-to-roll-out-updates-2c40)
-- [Untitled](https://dev.to/satyamshorrf/untitled-4o88)
-- [🚀 Generate Dynamic PDFs in Laravel with DomPDF](https://dev.to/blamsa0mine/generate-dynamic-pdfs-in-laravel-with-dompdf-5bmd)
-- [Angular 19: A Game Changer in Web Development](https://dev.to/habeebrahmanca07/angular-19-a-game-changer-in-web-development-4m59)
+- [Learn how to create a responsive multi-column layout with Tailwind CSS](https://dev.to/mike_andreuzza/learn-how-to-create-a-responsive-multi-column-layout-with-tailwind-css-5c80)
+- [🚀 Your First Java Project in IntelliJ IDEA: Creating a &quot;Hello World&quot; in Java 🚀](https://dev.to/ricardocaselati/your-first-java-project-in-intellij-idea-creating-a-hello-world-in-java-4l73)
+- [How to Detect and Defend Against SQL Injection Attacks - Part 3[Must Read]](https://dev.to/trixsec/how-to-detect-and-defend-against-sql-injection-attacks-part-3must-read-i48)
+- [The Ultimate Guide to AWS Lambda](https://dev.to/borhanitrash/the-ultimate-guide-to-aws-lambda-1886)
+- [Latest Newsletter: Gargantuan Change &lpar;Issue #192&rpar;](https://dev.to/mjgs/latest-newsletter-gargantuan-change-issue-192-ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
