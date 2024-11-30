@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Visual Data Analysis: Tools, Techniques, and Software for Enhanced Insights](https://dev.to/ishmam_jahan_4269b6f13ba5/the-power-of-visual-data-analysis-tools-techniques-and-software-for-enhanced-insights-3b09)
-- [💡 Building a Nuxt 3 App with Pinia and Testing It with Cypress 🚀](https://dev.to/blamsa0mine/building-a-nuxt-3-app-with-pinia-and-testing-it-with-cypress-13ah)
-- [Hello world!](https://dev.to/aashishbasnet/hello-world-en9)
-- [Understanding JWT Authentication: Spring Security&#39;s Architecture and Go Implementation](https://dev.to/stringintech/understanding-jwt-authentication-spring-securitys-architecture-and-go-implementation-edk)
-- [Simplifying Multilingual Models in Laravel with Lexi Translate](https://dev.to/omar_alalwi/simplifying-multilingual-models-in-laravel-with-lexi-translate-g4)
+- [Performance Optimization with TypeScript](https://dev.to/shafayeat/performance-optimization-with-typescript-dcj)
+- [Building Secure Docker Images: Best Practices for Developers 🚀](https://dev.to/openthegates/building-secure-docker-images-best-practices-for-developers-2foo)
+- [🚀 Automate Your PostgreSQL Backups with Ease! 🐳](https://dev.to/jacksonkasi/automate-your-postgresql-backups-with-ease-3eng)
+- [🚀 Automate Your PostgreSQL Backups with Ease! 🐳](https://dev.to/jacksonkasi/automate-your-postgresql-backups-with-ease-58d)
+- [Day 42: Continual Learning in LLMs](https://dev.to/nareshnishad/day-42-continual-learning-in-llms-1l4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
