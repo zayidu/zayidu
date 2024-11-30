@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [48/365 | ¥10M Job Challenge - Direction](https://dev.to/kameken100/48365-y10m-job-challenge-ai-blockchain-339g)
-- [Neovim how to ignore directories like node_modules in Telescope](https://dev.to/lico/neovim-how-to-ignore-directories-like-nodemodules-in-telescope-3pjj)
-- [Where do you put JWT in your React application?](https://dev.to/eshat002/where-do-you-put-jwt-in-your-react-application-o4h)
-- [Gestión de Identidades y Accesos &lpar;IAM&rpar; en AWS: Buenas Prácticas para Fortalecer la Seguridad](https://dev.to/briansuarezsantiago/gestion-de-identidades-y-accesos-iam-en-aws-buenas-practicas-para-fortalecer-la-seguridad-2mb2)
-- [Crafting Effective Unit Tests for Generative AI Applications](https://dev.to/rahulbhave/crafting-effective-unit-tests-for-generative-ai-applications-lp1)
+- [How to load an MFE module from a shell app &lpar;Using Angular + Webpack + Module Federation&rpar;.](https://dev.to/ruben2079/how-to-load-an-mfe-module-from-a-shell-app-using-angular-webpack-module-federation-53e6)
+- [LeetCode Meditations: Word Break](https://dev.to/rivea0/leetcode-meditations-word-break-4i4p)
+- [Cloud Storage Encryption](https://dev.to/iskender83/cloud-storage-encryption-ei5)
+- [NET 9 BinaryFormatter migration paths](https://dev.to/karenpayneoregon/net-9-binaryformatter-migration-paths-4i5a)
+- [Blockchain for Secure Digital Payments](https://dev.to/iskender83/blockchain-for-secure-digital-payments-292f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
