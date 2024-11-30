@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Full-Stack Development: Part 3 - Mastering Advance JS](https://dev.to/rahulmpatel369/learn-full-stack-development-part-3-mastering-advance-js-3h8e)
-- [How to Run Two MongoDB Instances on the Same Server &lpar;Standalone and Replica Set&rpar;](https://dev.to/thepurveshpanchal/how-to-run-two-mongodb-instances-on-the-same-server-standalone-and-replica-set-m2n)
-- [Node vs Deno vs Bun: Comparing JavaScript Runtimes](https://dev.to/codeparrot/node-vs-deno-vs-bun-comparing-javascript-runtimes-3m5)
-- [How To Setup Password Hash Synchronization In Microsoft Azure](https://dev.to/samuelarogbonlo_64/how-to-setup-password-hash-synchronization-in-microsoft-azure-313h)
-- [How to Move Data from PostgreSQL to PostgreSQL in Minutes](https://dev.to/bladepipe/how-to-move-data-from-postgresql-to-postgresql-in-minutes-1led)
+- [The Power of Visual Data Analysis: Tools, Techniques, and Software for Enhanced Insights](https://dev.to/ishmam_jahan_4269b6f13ba5/the-power-of-visual-data-analysis-tools-techniques-and-software-for-enhanced-insights-3b09)
+- [💡 Building a Nuxt 3 App with Pinia and Testing It with Cypress 🚀](https://dev.to/blamsa0mine/building-a-nuxt-3-app-with-pinia-and-testing-it-with-cypress-13ah)
+- [Hello world!](https://dev.to/aashishbasnet/hello-world-en9)
+- [Understanding JWT Authentication: Spring Security&#39;s Architecture and Go Implementation](https://dev.to/stringintech/understanding-jwt-authentication-spring-securitys-architecture-and-go-implementation-edk)
+- [Simplifying Multilingual Models in Laravel with Lexi Translate](https://dev.to/omar_alalwi/simplifying-multilingual-models-in-laravel-with-lexi-translate-g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
