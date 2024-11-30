@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tối ưu Render Danh Sách 🚀](https://dev.to/nddev_18/toi-uu-render-danh-sach-4cd4)
-- [HTML5 Quick Learning Guide: Your Fast Track to Modern Web Development](https://dev.to/getvm/html5-quick-learning-guide-your-fast-track-to-modern-web-development-3a36)
-- [Axios NPM Package: A Beginner&#39;s Guide to Installing and Making HTTP Requests](https://dev.to/codeparrot/axios-npm-package-a-beginners-guide-to-installing-and-making-http-requests-2ahl)
-- [🫵You Should Try These Tools In Your Next Project](https://dev.to/dev_kiran/you-should-try-these-tools-in-your-next-project-469)
-- [Google Cloud MFA: Is Your Organization Ready?](https://dev.to/rabbitwolf__/google-cloud-mfa-is-your-organization-ready-1acd)
+- [Learn Full-Stack Development: Part 3 - Mastering Advance JS](https://dev.to/rahulmpatel369/learn-full-stack-development-part-3-mastering-advance-js-3h8e)
+- [How to Run Two MongoDB Instances on the Same Server &lpar;Standalone and Replica Set&rpar;](https://dev.to/thepurveshpanchal/how-to-run-two-mongodb-instances-on-the-same-server-standalone-and-replica-set-m2n)
+- [Node vs Deno vs Bun: Comparing JavaScript Runtimes](https://dev.to/codeparrot/node-vs-deno-vs-bun-comparing-javascript-runtimes-3m5)
+- [How To Setup Password Hash Synchronization In Microsoft Azure](https://dev.to/samuelarogbonlo_64/how-to-setup-password-hash-synchronization-in-microsoft-azure-313h)
+- [How to Move Data from PostgreSQL to PostgreSQL in Minutes](https://dev.to/bladepipe/how-to-move-data-from-postgresql-to-postgresql-in-minutes-1led)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
