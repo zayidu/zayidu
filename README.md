@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Optimization with TypeScript](https://dev.to/shafayeat/performance-optimization-with-typescript-dcj)
-- [Building Secure Docker Images: Best Practices for Developers 🚀](https://dev.to/openthegates/building-secure-docker-images-best-practices-for-developers-2foo)
-- [🚀 Automate Your PostgreSQL Backups with Ease! 🐳](https://dev.to/jacksonkasi/automate-your-postgresql-backups-with-ease-3eng)
-- [🚀 Automate Your PostgreSQL Backups with Ease! 🐳](https://dev.to/jacksonkasi/automate-your-postgresql-backups-with-ease-58d)
-- [Day 42: Continual Learning in LLMs](https://dev.to/nareshnishad/day-42-continual-learning-in-llms-1l4g)
+- [StatefulSet in Kubernetes: A Comprehensive Guide](https://dev.to/i_am_vesh/statefulset-in-kubernetes-a-comprehensive-guide-58j3)
+- [My Pre-Contest Bhasad and TCS Codevita Season-12 Adventure 🎢](https://dev.to/krishna_khaitan/my-pre-contest-bhasad-and-tcs-codevita-season-12-adventure-3d27)
+- [React Basic: Using setup with Vite and understanding the very basics from what&#39;s inside there.](https://dev.to/nao_kagayaki/react-basic-using-setup-with-vite-and-understanding-the-very-basics-from-whats-inside-there-7il)
+- [Login Neumorphism](https://dev.to/rey_plix_1128b07369add6d6/login-neumorphism-2dpi)
+- [TypeScript for Beginners: From Zero to Hero - Part 1](https://dev.to/istealersn_dev/typescript-for-beginners-from-zero-to-hero-part-1-5ecc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
