@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My most useful Visual Studio Code Extensions](https://dev.to/radictionary/my-most-useful-visual-studio-code-extensions-ng4)
-- [PureScript for Scala developers](https://dev.to/zelenya/purescript-for-scala-developers-2o75)
-- [GitHub Copilot: Supercharge Your Coding with AI Pair Programmer](https://dev.to/rajinh24/github-copilot-supercharge-your-coding-with-ai-pair-programmer-17nf)
-- [Lang Everything: The Missing Guide to LangChain&#39;s Ecosystem](https://dev.to/dpaluy/lang-everything-the-missing-guide-to-langchains-ecosystem-1eo7)
-- [Bridging CLI and Note-Taking](https://dev.to/jrswab/bridging-cli-and-note-taking-92p)
+- [IoT Security Frameworks for Cloud Environments](https://dev.to/iskender83/iot-security-frameworks-for-cloud-environments-1fe)
+- [How to Set Up Sessions and Authentication in Express.js Fast and Easy](https://dev.to/rigalpatel001/how-to-set-up-sessions-and-authentication-in-expressjs-fast-and-easy-gf2)
+- [Python](https://dev.to/mayur2509/python-5802)
+- [Edge Computing Security for Cloud-Based Applications](https://dev.to/iskender83/edge-computing-security-for-cloud-based-applications-4nkm)
+- [Sampling N Lines From a CSV File](https://dev.to/tallesl/sampling-n-lines-from-a-csv-file-epk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
