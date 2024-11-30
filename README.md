@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Rails and Ruby: A Collection of Practical Tips for Cleaner Code](https://dev.to/sname/mastering-rails-and-ruby-a-collection-of-practical-tips-for-cleaner-code-3bci)
-- [[Boost]](https://dev.to/sname/-3hfo)
-- [Mastering Rails and Ruby: A Collection of Practical Tips for Cleaner Code](https://dev.to/sname/mastering-rails-and-ruby-a-collection-of-practical-tips-for-cleaner-code-900)
-- [Teste do Capítulo 11](https://dev.to/javaparainiciantes/teste-do-capitulo-11-3hkf)
-- [The Fastest Way To Get A Tech Job When Nobody Is Hiring](https://dev.to/drjoshcsimmons/the-fastest-way-to-get-a-tech-job-when-nobody-is-hiring-2j81)
+- [Why does a reboot make your PC run SO much faster than running all the cleaning tools you can possibly imagine?](https://dev.to/best_codes/why-does-a-reboot-make-your-pc-run-so-much-faster-than-running-all-the-cleaning-tools-you-can-20b1)
+- [查询BSC钱包地址USDT余额](https://dev.to/dragon72463399/cha-xun-bscqian-bao-di-zhi-usdtyu-e-35pb)
+- [使用 AI 自動生成 Git Commit 訊息](https://dev.to/letswrite/shi-yong-ai-zi-dong-sheng-cheng-git-commit-xun-xi-2j7)
+- [Building Serverless Agentic Workflows with Amazon Bedrock](https://dev.to/hassan_sherwani_9dd766c43/building-serverless-agentic-workflows-with-amazon-bedrock-1j6h)
+- [15 WordPress Search Plugins to Supercharge Your Website’s Search Functionality](https://dev.to/fitehal/15-wordpress-search-plugins-to-supercharge-your-websites-search-functionality-jf6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
