@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [k9s - manage your Kubernetes cluster like a pro!](https://dev.to/aws-builders/k9s-manage-your-kubernetes-cluster-like-a-pro-lko)
-- [Frontosa Cichlid: Mengenal Ikan Hias Eksotis dari Danau Tanganyika](https://dev.to/zoloku/frontosa-cichlid-mengenal-ikan-hias-eksotis-dari-danau-tanganyika-41lp)
-- [Easy Meal Ideas for Busy Professionals](https://dev.to/tayyab_sajid_f4c38555e5b9/easy-meal-ideas-for-busy-professionals-e35)
-- [The Power of Habit Formation: Building Routines for Success](https://dev.to/harrisonphan9/1-blog-post-the-power-of-habit-formation-building-routines-for-success-5c7i)
-- [242. Valid Anagram - Java 練習 - HashMap （中文解釋）](https://dev.to/vc7/242-valid-anagram-java-lian-xi-hashmap-49n3)
+- [Ranking System and Career Progression in Cabin Crew Life Simulator - Devlog #5](https://dev.to/khaisimon_devgame/ranking-system-and-career-progression-in-cabin-crew-life-simulator-devlog-5-16c5)
+- [Memulai Bisnis Ayam Bakar: Langkah Sukses Menggapai Impian Usaha Kuliner Anda](https://dev.to/zoloku/memulai-bisnis-ayam-bakar-langkah-sukses-menggapai-impian-usaha-kuliner-anda-4og4)
+- [Mastering Website Traffic and SEO: Insights for Better Engagement and Results](https://dev.to/shtefcs/mastering-website-traffic-and-seo-insights-for-better-engagement-and-results-59ap)
+- [Why You Should Avoid Using `try...catch` in SvelteKit Actions](https://dev.to/dev_michael/why-you-should-avoid-using-trycatch-in-sveltekit-actions-3dia)
+- [How does reduce&lpar;&rpar; differ from collect&lpar;&rpar; in Java streams?](https://dev.to/realnamehidden1_61/how-does-reduce-differ-from-collect-in-java-streams-k83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
