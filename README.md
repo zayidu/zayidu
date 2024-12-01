@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero Trust Network Access &lpar;ZTNA&rpar;](https://dev.to/iskender83/zero-trust-network-access-ztna-2n41)
-- [Threat Hunting in Cloud Environments Using AI](https://dev.to/iskender83/threat-hunting-in-cloud-environments-using-ai-3dep)
-- [Scaling the Viral App: The Emotional Rollercoaster of Taming Traffic with Consistent Hashing](https://dev.to/vizzv/scaling-the-viral-app-the-emotional-rollercoaster-of-taming-traffic-with-consistent-hashing-4em9)
-- [Cloud Security for DevOps Teams](https://dev.to/iskender83/cloud-security-for-devops-teams-4n3)
-- [Methods to assign and retrieve values in a JavaScript object](https://dev.to/nkumarm/methods-to-assign-and-retrieve-values-in-a-javascript-object-2g59)
+- [Advanced Python Concepts - Networking with Python](https://dev.to/coder_legion/advanced-python-concepts-networking-with-python-5me)
+- [5 Awesome Shadcn Extensions That Will Enhance Your Project 🔥🎨](https://dev.to/martygo/5-awesome-shadcn-extensions-that-will-enhance-your-project-59dl)
+- [Setup Mixpanel Analytics in a NextJS Application](https://dev.to/mohammadfaisal/setup-mixpanel-analytics-in-a-nextjs-application-49ae)
+- [Secure Software Development Lifecycle &lpar;SDLC&rpar;](https://dev.to/iskender83/secure-software-development-lifecycle-sdlc-1kjl)
+- [Automation periodically tasks with CRON job scheduler](https://dev.to/xinitd/automation-periodically-tasks-with-cron-job-scheduler-269f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
