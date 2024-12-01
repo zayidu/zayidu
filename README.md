@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Work vs. Shallow Work: How to Prioritize for Maximum Impact](https://dev.to/harrisonphan9/deep-work-vs-shallow-work-how-to-prioritize-for-maximum-impact-36f4)
-- [Get Started with Amazon Transcribe in Easy Steps](https://dev.to/aws-builders/get-started-with-amazon-transcribe-in-easy-steps-3fg9)
-- [Cara Logout Aplikasi Sirekap dengan Mudah dan Aman](https://dev.to/zoloku/cara-logout-aplikasi-sirekap-dengan-mudah-dan-aman-2d52)
-- [Don&#39;t miss out on these insights](https://dev.to/devmercy/dont-miss-out-on-these-insights-1obo)
-- [Dive Deep: Unraveling the Mysteries of X Window Managers](https://dev.to/getvm/dive-deep-unraveling-the-mysteries-of-x-window-managers-21bm)
+- [Setting Up a Conda Environment for Your Python Projects](https://dev.to/ajmal_hasan/setting-up-a-conda-environment-for-your-python-projects-251d)
+- [The Most Popular Database Caching Strategies Explained](https://dev.to/isaactony/the-most-popular-database-caching-strategies-explained-3joe)
+- [Mastering Performance Optimization in React: A Deep Dive into useCallback and useMemo](https://dev.to/abhijit_panchal_2406/mastering-performance-optimization-in-react-a-deep-dive-into-usecallback-and-usememo-168)
+- [Mastering Micro Frontends: A Modular Approach to Scalable Web Applications](https://dev.to/abhinav_sharma_e01f930be6/mastering-micro-frontends-a-modular-approach-to-scalable-web-applications-30cf)
+- [unit converter](https://dev.to/mrugadnik/unit-converter-1l0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
