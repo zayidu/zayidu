@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Website Loader &amp; Release v1.1](https://dev.to/bylickilabs/website-loader-release-v11-3jgm)
-- [10 Flutter Packages That Will Simplify Your App Development](https://dev.to/ashiqu_ali/10-flutter-packages-that-will-simplify-your-app-development-43f1)
-- [ML Pie chart](https://dev.to/savvyshivam/ml-pie-chart-2069)
-- [[Boost]](https://dev.to/sebastianmarines/-4p09)
-- [Manual Setup &lpar;Custom Webpack/Babel configuration&rpar; with react &lpar;i am not able running it &rpar;](https://dev.to/shiva6699/manual-setup-custom-webpackbabel-configuration-with-react-i-am-not-able-running-it--3573)
+- [JavaScript. How to Make a Blazingly Fast Multithreaded Data Grid for 1,000,000 Rows. Part 1/2: The Nuances of Working with DOM](https://dev.to/alexboyko/javascript-how-to-make-a-blazingly-fast-multithreaded-data-grid-for-1000000-rows-part-12-the-3ek5)
+- [Cara Buka Blokir BRImo: Panduan Lengkap dan Praktis](https://dev.to/zoloku/cara-buka-blokir-brimo-panduan-lengkap-dan-praktis-bf0)
+- [Keybase Proofed](https://dev.to/bylickilabs/keybase-proofed-3m7p)
+- [Как подружить котиков, слонов и китов: тестирование Spring-приложений с Testcontainers 🐱🐘🐋](https://dev.to/easycat/kak-podruzhit-kotikov-slonov-i-kitov-tiestirovaniie-spring-prilozhienii-s-testcontainers-3pkh)
+- [AI Engineer&#39;s Tool Review: Helicone](https://dev.to/shubhsk/ai-engineers-tool-review-helicone-55ff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
