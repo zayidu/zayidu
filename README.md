@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [At a Standstill - FAV0 Weekly #023](https://dev.to/justin3go/at-a-standstill-fav0-weekly-023-26gp)
-- [停滞不前 - FAV0周刊#023](https://dev.to/justin3go/ting-zhi-bu-qian-fav0zhou-kan-023-4dkl)
-- [387. First Unique Character in a String - Java 練習 - HashMap （中文解釋）](https://dev.to/vc7/387-first-unique-character-in-a-string-java-lian-xi-hashmap-zhong-wen-jie-shi--4hbp)
-- [Quantum Computing in Your Browser: Build a Simulator with React and WebAssembly](https://dev.to/aaravjoshi/quantum-computing-in-your-browser-build-a-simulator-with-react-and-webassembly-460f)
-- [🚀 Supercharge Your CI/CD Pipeline: GitHub Actions with Kubernetes Deployment](https://dev.to/narmidm/supercharge-your-cicd-pipeline-github-actions-with-kubernetes-deployment-3jhf)
+- [What&#39;s the Best Software Architecture?](https://dev.to/koladev/whats-the-best-software-architecture-3g8g)
+- [Building an Audio Visualizer in Flutter](https://dev.to/mophero/building-an-audio-visualizer-in-flutter-4e0i)
+- [Beyond the Hype: Four GameFi Trends Set to Redefine Gaming](https://dev.to/endeo/beyond-the-hype-four-gamefi-trends-set-to-redefine-gaming-3611)
+- [Building a Basic Blockchain in Python: My Journey and Key Takeaways!](https://dev.to/arish_sethi_7d1481d9c4b87/building-a-basic-blockchain-in-python-my-journey-and-key-takeaways-1b6a)
+- [Cracking the Code: How the MVVM with Bridge Pattern Saves a Messy Frontend UI &lpar;Part 2&rpar;](https://dev.to/behnamrhp/cracking-the-code-how-the-mvvm-with-bridge-pattern-saves-a-messy-frontend-ui-part-2-22oc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
