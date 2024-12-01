@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hono.js: A Lightweight Framework with Big Potential 🚀](https://dev.to/joodi/honojs-a-lightweight-framework-with-big-potential-3lh9)
-- [Este código é um exemplo de um Expert Advisor &lpar;EA&rpar; automatizado para o MetaTrader 5.](https://dev.to/java2890/este-codigo-e-um-exemplo-de-um-expert-advisor-ea-automatizado-para-o-metatrader-5-b8e)
-- [My December Adventure &lpar;of code&rpar;](https://dev.to/glennturner/my-december-adventure-of-code-3kpg)
-- [useCustomReducer Hook: A Versatile State Management Tool](https://dev.to/serifcolakel/usecustomreducer-hook-a-versatile-state-management-tool-4mki)
-- [Currency Converter In Go](https://dev.to/jordan_t/currency-converter-in-go-jdo)
+- [Growth Hacking](https://dev.to/java2890/growth-hacking-4jbj)
+- [Automating the Deployment of a Docker-Powered Full-Stack Application with Terraform and Ansible](https://dev.to/yutee_okon/automating-the-deployment-of-a-docker-powered-full-stack-application-with-terraform-and-ansible-mo6)
+- [C++ and ModernCLI](https://dev.to/dyfet/c-and-moderncli-517f)
+- [# Construyendo un Portfolio Moderno con Astro y Tailwind CSS](https://dev.to/goaqidev/-construyendo-un-portfolio-moderno-con-astro-y-tailwind-css-20ni)
+- [The Cybersecurity Threat Landscape, Made Easy](https://dev.to/romanus_onyekwere/the-cybersecurity-threat-landscape-made-easy-2ea9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
