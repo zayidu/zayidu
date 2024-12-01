@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1: React in Terminal 🎨](https://dev.to/valeriavg/day-1-react-in-terminal-2b5m)
-- [YugabyteDB MVCC and Updates: columns vs. JSON](https://dev.to/yugabyte/yugabytedb-mvcc-and-updates-columns-vs-json-3ndh)
-- [React Components:](https://dev.to/bhat_vishwas/react-components-3dn)
-- [The Ultimate Linux Command Cheat Sheet for 2024](https://dev.to/trixsec/the-ultimate-linux-command-cheat-sheet-for-2024-3f9a)
-- [Mastering Git with Conventional Commits 🌟](https://dev.to/eshanized/mastering-git-with-conventional-commits-53cm)
+- [Website Loader &amp; Release v1.1](https://dev.to/bylickilabs/website-loader-release-v11-3jgm)
+- [10 Flutter Packages That Will Simplify Your App Development](https://dev.to/ashiqu_ali/10-flutter-packages-that-will-simplify-your-app-development-43f1)
+- [ML Pie chart](https://dev.to/savvyshivam/ml-pie-chart-2069)
+- [[Boost]](https://dev.to/sebastianmarines/-4p09)
+- [Manual Setup &lpar;Custom Webpack/Babel configuration&rpar; with react &lpar;i am not able running it &rpar;](https://dev.to/shiva6699/manual-setup-custom-webpackbabel-configuration-with-react-i-am-not-able-running-it--3573)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
