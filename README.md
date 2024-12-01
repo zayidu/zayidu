@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nurturing the Developer Within: A Journey of Growth and Community](https://dev.to/vidyasagarmsc/nurturing-the-developer-within-a-journey-of-growth-and-2n9o)
-- [Tailwind CSS v4 Beta is Out, New Rust-Based React Framework, BEST JavaScript Animation Library, and more](https://dev.to/thisweekinjavascript/tailwind-css-v4-beta-is-out-new-rust-based-react-framework-best-javascript-animation-library-and-19po)
-- [Python - Level : 2 Tasks](https://dev.to/guru_prasanna_01/python-level-2-tasks-4l63)
-- [Why Startups Should Prioritize Developer Experience Over Everything Else](https://dev.to/therealfloatdev/why-startups-should-prioritize-developer-experience-over-everything-else-4don)
-- [Streamline Your Winget Package Updates with PowerShell](https://dev.to/uyriq/streamline-your-winget-package-updates-with-powershell-1fie)
+- [Push Back on Whiteboard Tests](https://dev.to/mosbat/push-back-on-whiteboard-tests-4h0l)
+- [Adding Custom Vendor Packages to Android Source Code: A Complete Guide](https://dev.to/hpnightowl/adding-custom-vendor-packages-to-android-source-code-a-complete-guide-3k9p)
+- [Make Accordions Easily Using &lt;Details&gt; &amp; &lt;Summary&gt; tag in html](https://dev.to/softheartengineer/make-accordions-easily-using-tag-in-html-13l1)
+- [Ocultando Secretos en los Pixeles 👀](https://dev.to/yoezequiel/ocultando-secretos-en-los-pixeles-2447)
+- [Java’s Functional Programming: the OOP influence](https://dev.to/rajibdk/javas-functional-programming-the-oop-influence-3jal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
