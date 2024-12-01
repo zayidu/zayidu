@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the Best Software Architecture?](https://dev.to/koladev/whats-the-best-software-architecture-3g8g)
-- [Building an Audio Visualizer in Flutter](https://dev.to/mophero/building-an-audio-visualizer-in-flutter-4e0i)
-- [Beyond the Hype: Four GameFi Trends Set to Redefine Gaming](https://dev.to/endeo/beyond-the-hype-four-gamefi-trends-set-to-redefine-gaming-3611)
-- [Building a Basic Blockchain in Python: My Journey and Key Takeaways!](https://dev.to/arish_sethi_7d1481d9c4b87/building-a-basic-blockchain-in-python-my-journey-and-key-takeaways-1b6a)
-- [Cracking the Code: How the MVVM with Bridge Pattern Saves a Messy Frontend UI &lpar;Part 2&rpar;](https://dev.to/behnamrhp/cracking-the-code-how-the-mvvm-with-bridge-pattern-saves-a-messy-frontend-ui-part-2-22oc)
+- [Database-as-a-Service &lpar;DBaaS&rpar;](https://dev.to/rednexie/database-as-a-service-dbaas-3lk5)
+- [SQL Interview Questions: A Comprehensive Guide for Developers](https://dev.to/nozibul_islam_113b1d5334f/sql-interview-questions-a-comprehensive-guide-for-developers-5c6d)
+- [Starting my C# journey! 🚀 Looking for YouTube recommendations to learn, but having a mentor would be even better. If you&#39;re also a beginner, let&#39;s connect and grow together. Suggestions and connections are welcome](https://dev.to/gebidan/starting-my-c-journey-looking-for-youtube-recommendations-to-learn-but-having-a-mentor-would-2228)
+- [The Last Crime: A Reflection on Consciousness, Technology, and Humanity](https://dev.to/atallah_anouz_423191e8872/the-last-crimea-reflection-on-consciousness-technology-and-humanity-5af5)
+- [Why Is Spark Slow??](https://dev.to/hirayuki/why-is-spark-slow-52dj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
