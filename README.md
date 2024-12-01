@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Database-as-a-Service &lpar;DBaaS&rpar;](https://dev.to/rednexie/database-as-a-service-dbaas-3lk5)
-- [SQL Interview Questions: A Comprehensive Guide for Developers](https://dev.to/nozibul_islam_113b1d5334f/sql-interview-questions-a-comprehensive-guide-for-developers-5c6d)
-- [Starting my C# journey! 🚀 Looking for YouTube recommendations to learn, but having a mentor would be even better. If you&#39;re also a beginner, let&#39;s connect and grow together. Suggestions and connections are welcome](https://dev.to/gebidan/starting-my-c-journey-looking-for-youtube-recommendations-to-learn-but-having-a-mentor-would-2228)
-- [The Last Crime: A Reflection on Consciousness, Technology, and Humanity](https://dev.to/atallah_anouz_423191e8872/the-last-crimea-reflection-on-consciousness-technology-and-humanity-5af5)
-- [Why Is Spark Slow??](https://dev.to/hirayuki/why-is-spark-slow-52dj)
+- [Integrating Blockchain with Cloud for Secure Data Transactions](https://dev.to/rednexie/integrating-blockchain-with-cloud-for-secure-data-transactions-3kcp)
+- [Great fun playing with hypotrochoid](https://dev.to/tthtlc/great-fun-playing-19he)
+- [Create your own Cypress test results dashboard](https://dev.to/martin_chudomel/create-your-own-cypress-test-results-dashboard-18gn)
+- [Cloud Security for Mobile and Wearable Devices](https://dev.to/rednexie/cloud-security-for-mobile-and-wearable-devices-3cmi)
+- [Blockchain for Secure Digital Asset Management in Cloud](https://dev.to/rednexie/blockchain-for-secure-digital-asset-management-in-cloud-39h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
