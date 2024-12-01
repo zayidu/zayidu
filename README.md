@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gestión de Identidades y Accesos &lpar;IAM&rpar; en AWS: Buenas prácticas para fortalecer la seguridad](https://dev.to/briansuarezsantiago/gestion-de-identidades-y-accesos-iam-en-aws-buenas-practicas-para-fortalecer-la-seguridad-5ba0)
-- [Week One of #100DaysOfCode](https://dev.to/lymah/week-one-of-100daysofcode-2dj5)
-- [Operating Notion via Claude Desktop Using MCP!](https://dev.to/suekou/operating-notion-via-claude-desktop-using-mcp-c0h)
-- [Resolving ECS Task Definition Security Risks Detected by AWS Security Hub Using Secrets Manager](https://dev.to/suzuki0430/resolving-ecs-task-definition-security-risks-detected-by-aws-security-hub-using-secrets-manager-3m7n)
-- [Daily JavaScript Challenge #JS-34: Longest Increasing Subsequence](https://dev.to/dpc/daily-javascript-challenge-js-34-longest-increasing-subsequence-gh4)
+- [How to Use TypeScript to Accumulate Types: Typing ALL possible fetch&lpar;&rpar; Results](https://dev.to/webjose/how-to-use-typescript-to-accumulate-types-typing-all-possible-fetch-results-3hc)
+- [Datasets for Computer Vision &lpar;4&rpar;](https://dev.to/hyperkai/datasets-for-computer-vision-4-4050)
+- [Numerical Root-Finding Algorithms: Foundations, Theory, and Advanced Methods. Part 1](https://dev.to/padiazg/numerical-root-finding-algorithms-foundations-theory-and-advanced-methods-part-1-1f31)
+- [Starting Your Cloud Journey: Roles, Resources, and Realistic Expectations](https://dev.to/jimiog/starting-your-cloud-journey-roles-resources-and-realistic-expectations-5gk7)
+- [Next JS 14 API Management](https://dev.to/rifkyalfarez/next-js-14api-management-2hbm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
