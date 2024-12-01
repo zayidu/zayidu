@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript. How to Make a Blazingly Fast Multithreaded Data Grid for 1,000,000 Rows. Part 1/2: The Nuances of Working with DOM](https://dev.to/alexboyko/javascript-how-to-make-a-blazingly-fast-multithreaded-data-grid-for-1000000-rows-part-12-the-3ek5)
-- [Cara Buka Blokir BRImo: Panduan Lengkap dan Praktis](https://dev.to/zoloku/cara-buka-blokir-brimo-panduan-lengkap-dan-praktis-bf0)
-- [Keybase Proofed](https://dev.to/bylickilabs/keybase-proofed-3m7p)
-- [Как подружить котиков, слонов и китов: тестирование Spring-приложений с Testcontainers 🐱🐘🐋](https://dev.to/easycat/kak-podruzhit-kotikov-slonov-i-kitov-tiestirovaniie-spring-prilozhienii-s-testcontainers-3pkh)
-- [AI Engineer&#39;s Tool Review: Helicone](https://dev.to/shubhsk/ai-engineers-tool-review-helicone-55ff)
+- [Deep Work vs. Shallow Work: How to Prioritize for Maximum Impact](https://dev.to/harrisonphan9/deep-work-vs-shallow-work-how-to-prioritize-for-maximum-impact-36f4)
+- [Get Started with Amazon Transcribe in Easy Steps](https://dev.to/aws-builders/get-started-with-amazon-transcribe-in-easy-steps-3fg9)
+- [Cara Logout Aplikasi Sirekap dengan Mudah dan Aman](https://dev.to/zoloku/cara-logout-aplikasi-sirekap-dengan-mudah-dan-aman-2d52)
+- [Don&#39;t miss out on these insights](https://dev.to/devmercy/dont-miss-out-on-these-insights-1obo)
+- [Dive Deep: Unraveling the Mysteries of X Window Managers](https://dev.to/getvm/dive-deep-unraveling-the-mysteries-of-x-window-managers-21bm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
