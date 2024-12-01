@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginnings](https://dev.to/cypher-phil/beginnings-3ni2)
+- [Understanding and Solving False Sharing in Multi-threaded Applications with an actual issue I had](https://dev.to/ariasdiniz/understanding-and-solving-false-sharing-in-multi-threaded-applications-with-an-actual-issue-i-had-57c)
+- [React&#39;s harsh reality: A Must-Read Insight by Alex Russell](https://dev.to/mbarzeev/reacts-harsh-reality-a-must-read-insight-by-alex-russell-52lk)
 - [How We Rebuilt Our Extension for Manifest V3](https://dev.to/jamdotdev/how-we-rebuilt-our-extension-for-manifest-v3-2iga)
 - [Monitoring Queries on PostgreSQL](https://dev.to/tallesl/monitoring-queries-on-postgresql-1nk3)
-- [Debian 12: NVIDIA drivers](https://dev.to/dev-charodeyka/debian-12-nvidia-drivers-18dh)
-- [Be welcome to Not Made by a Human.](https://dev.to/notmadebyahuman/be-welcome-to-not-made-by-a-human-14hi)
-- [Distributed Tracing with OpenTelemetry and Jaeger for Nest Application](https://dev.to/sagyam/distributed-tracing-with-opentelemetry-and-jaeger-for-nest-application-3c68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
