@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use TypeScript to Accumulate Types: Typing ALL possible fetch&lpar;&rpar; Results](https://dev.to/webjose/how-to-use-typescript-to-accumulate-types-typing-all-possible-fetch-results-3hc)
-- [Datasets for Computer Vision &lpar;4&rpar;](https://dev.to/hyperkai/datasets-for-computer-vision-4-4050)
-- [Numerical Root-Finding Algorithms: Foundations, Theory, and Advanced Methods. Part 1](https://dev.to/padiazg/numerical-root-finding-algorithms-foundations-theory-and-advanced-methods-part-1-1f31)
-- [Starting Your Cloud Journey: Roles, Resources, and Realistic Expectations](https://dev.to/jimiog/starting-your-cloud-journey-roles-resources-and-realistic-expectations-5gk7)
-- [Next JS 14 API Management](https://dev.to/rifkyalfarez/next-js-14api-management-2hbm)
+- [Python Development in VSCode Using Devcontainer](https://dev.to/jajera/python-development-in-vscode-using-devcontainer-2ao1)
+- [Learning Input Methods in C](https://dev.to/combustrrr/learning-input-methods-in-c-kci)
+- [How to manage dependencies in Ansible roles?](https://dev.to/labex/how-to-manage-dependencies-in-ansible-roles-21je)
+- [A detailed analysis of Java Object size and its comparision with primitive data types.](https://dev.to/dhanush9952/a-detailed-analysis-of-java-object-size-and-its-comparision-with-primitive-data-types-37i8)
+- [Continuous contributions](https://dev.to/peterdanwan/continuous-contributions-10p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
