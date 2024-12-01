@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Development in VSCode Using Devcontainer](https://dev.to/jajera/python-development-in-vscode-using-devcontainer-2ao1)
-- [Learning Input Methods in C](https://dev.to/combustrrr/learning-input-methods-in-c-kci)
-- [How to manage dependencies in Ansible roles?](https://dev.to/labex/how-to-manage-dependencies-in-ansible-roles-21je)
-- [A detailed analysis of Java Object size and its comparision with primitive data types.](https://dev.to/dhanush9952/a-detailed-analysis-of-java-object-size-and-its-comparision-with-primitive-data-types-37i8)
-- [Continuous contributions](https://dev.to/peterdanwan/continuous-contributions-10p)
+- [Day 1: React in Terminal 🎨](https://dev.to/valeriavg/day-1-react-in-terminal-2b5m)
+- [YugabyteDB MVCC and Updates: columns vs. JSON](https://dev.to/yugabyte/yugabytedb-mvcc-and-updates-columns-vs-json-3ndh)
+- [React Components:](https://dev.to/bhat_vishwas/react-components-3dn)
+- [The Ultimate Linux Command Cheat Sheet for 2024](https://dev.to/trixsec/the-ultimate-linux-command-cheat-sheet-for-2024-3f9a)
+- [Mastering Git with Conventional Commits 🌟](https://dev.to/eshanized/mastering-git-with-conventional-commits-53cm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
