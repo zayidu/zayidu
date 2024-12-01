@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Python Concepts - Networking with Python](https://dev.to/coder_legion/advanced-python-concepts-networking-with-python-5me)
-- [5 Awesome Shadcn Extensions That Will Enhance Your Project 🔥🎨](https://dev.to/martygo/5-awesome-shadcn-extensions-that-will-enhance-your-project-59dl)
-- [Setup Mixpanel Analytics in a NextJS Application](https://dev.to/mohammadfaisal/setup-mixpanel-analytics-in-a-nextjs-application-49ae)
-- [Secure Software Development Lifecycle &lpar;SDLC&rpar;](https://dev.to/iskender83/secure-software-development-lifecycle-sdlc-1kjl)
-- [Automation periodically tasks with CRON job scheduler](https://dev.to/xinitd/automation-periodically-tasks-with-cron-job-scheduler-269f)
+- [Cloud-Native Continuous Integration Tools](https://dev.to/iskender83/cloud-native-continuous-integration-tools-1bfb)
+- [Vulnerability Management](https://dev.to/iskender83/vulnerability-management-30k6)
+- [Email Marketing Trends to Watch in 2025](https://dev.to/bloger_07/email-marketing-trends-to-watch-in-2025-474p)
+- [Animated Movie Card w/ HTML and CSS](https://dev.to/tilakjain123/animated-movie-card-w-html-and-css-ekh)
+- [Real-Time Security Response in Cloud-Based Systems](https://dev.to/iskender83/real-time-security-response-in-cloud-based-systems-36kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
