@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a Conda Environment for Your Python Projects](https://dev.to/ajmal_hasan/setting-up-a-conda-environment-for-your-python-projects-251d)
-- [The Most Popular Database Caching Strategies Explained](https://dev.to/isaactony/the-most-popular-database-caching-strategies-explained-3joe)
-- [Mastering Performance Optimization in React: A Deep Dive into useCallback and useMemo](https://dev.to/abhijit_panchal_2406/mastering-performance-optimization-in-react-a-deep-dive-into-usecallback-and-usememo-168)
-- [Mastering Micro Frontends: A Modular Approach to Scalable Web Applications](https://dev.to/abhinav_sharma_e01f930be6/mastering-micro-frontends-a-modular-approach-to-scalable-web-applications-30cf)
-- [unit converter](https://dev.to/mrugadnik/unit-converter-1l0j)
+- [Zero Trust Network Access &lpar;ZTNA&rpar;](https://dev.to/iskender83/zero-trust-network-access-ztna-2n41)
+- [Threat Hunting in Cloud Environments Using AI](https://dev.to/iskender83/threat-hunting-in-cloud-environments-using-ai-3dep)
+- [Scaling the Viral App: The Emotional Rollercoaster of Taming Traffic with Consistent Hashing](https://dev.to/vizzv/scaling-the-viral-app-the-emotional-rollercoaster-of-taming-traffic-with-consistent-hashing-4em9)
+- [Cloud Security for DevOps Teams](https://dev.to/iskender83/cloud-security-for-devops-teams-4n3)
+- [Methods to assign and retrieve values in a JavaScript object](https://dev.to/nkumarm/methods-to-assign-and-retrieve-values-in-a-javascript-object-2g59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
