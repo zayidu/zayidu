@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud-Native Continuous Integration Tools](https://dev.to/iskender83/cloud-native-continuous-integration-tools-1bfb)
-- [Vulnerability Management](https://dev.to/iskender83/vulnerability-management-30k6)
-- [Email Marketing Trends to Watch in 2025](https://dev.to/bloger_07/email-marketing-trends-to-watch-in-2025-474p)
-- [Animated Movie Card w/ HTML and CSS](https://dev.to/tilakjain123/animated-movie-card-w-html-and-css-ekh)
-- [Real-Time Security Response in Cloud-Based Systems](https://dev.to/iskender83/real-time-security-response-in-cloud-based-systems-36kl)
+- [At a Standstill - FAV0 Weekly #023](https://dev.to/justin3go/at-a-standstill-fav0-weekly-023-26gp)
+- [停滞不前 - FAV0周刊#023](https://dev.to/justin3go/ting-zhi-bu-qian-fav0zhou-kan-023-4dkl)
+- [387. First Unique Character in a String - Java 練習 - HashMap （中文解釋）](https://dev.to/vc7/387-first-unique-character-in-a-string-java-lian-xi-hashmap-zhong-wen-jie-shi--4hbp)
+- [Quantum Computing in Your Browser: Build a Simulator with React and WebAssembly](https://dev.to/aaravjoshi/quantum-computing-in-your-browser-build-a-simulator-with-react-and-webassembly-460f)
+- [🚀 Supercharge Your CI/CD Pipeline: GitHub Actions with Kubernetes Deployment](https://dev.to/narmidm/supercharge-your-cicd-pipeline-github-actions-with-kubernetes-deployment-3jhf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
