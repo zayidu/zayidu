@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make Flutter 3.24 run on Windows 7?](https://dev.to/rustdesk/how-to-make-flutter-324-run-on-windows-7-4ocf)
-- [Offline file uploading in Flutter](https://dev.to/remejuan/offline-file-uploading-in-flutter-mch)
-- [Amazon Q Developer Tips: No.2 IDE Layout](https://dev.to/aws/amazon-q-developer-tips-no2-ide-layout-52a1)
-- [Self Closing Browser Tab with JavaScript](https://dev.to/joshuaamaju/self-closing-browser-tab-with-javascript-1ph9)
-- [From Traditional Hosting to the Cloud: The Migration of LimitlessAO Power Solutions Website to AWS](https://dev.to/abdullateef/from-traditional-hosting-to-the-cloud-the-migration-of-limitlessao-power-solutions-website-to-aws-5c9d)
+- [How AI, Blockchain, and Automation Tools Are Changing the Game](https://dev.to/shtefcs/how-ai-blockchain-and-automation-tools-are-changing-the-game-1ljc)
+- [2. Services and Dependency Injection](https://dev.to/renukapatil/2-services-and-dependency-injection-1p90)
+- [WebSocket Load Testing: A Comprehensive Guide to Seamless API Performance](https://dev.to/ashinno/websocket-load-testing-a-comprehensive-guide-to-seamless-api-performance-36hm)
+- [1. Core Angular Concepts: Components, Templates, Data Binding, and Directives](https://dev.to/renukapatil/1-core-angular-concepts-components-templates-data-binding-and-directives-51h8)
+- [Is PHP Dead On Windows? Rate Of Impact?](https://dev.to/infinitypaul/is-php-dead-on-windows-rate-of-impact-1f90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
