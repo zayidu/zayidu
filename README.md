@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Scroll Grid](https://dev.to/madsstoumann/creating-a-scroll-grid-en5)
-- [PHP vs Python vs Node.js: Which Server-Side Scripting Language Is Best for Your Project?](https://dev.to/yasmine_ddec94f4d4/php-vs-python-vs-nodejs-which-server-side-scripting-language-is-best-for-your-project-2i4f)
-- [Tackling CPU Throttling in Kubernetes for Better Application Performance](https://dev.to/causely/tackling-cpu-throttling-in-kubernetes-for-better-application-performance-1dko)
-- [What is Full-Stack Development? An Introductory Guide](https://dev.to/_jasverma/what-is-full-stack-development-an-introductory-guide-40j2)
-- [A small deep dive on MutationObservers](https://dev.to/builtbylukas/a-small-deep-dive-on-mutationobservers-4b7b)
+- [Pipe the shit](https://dev.to/cordlesswool/pipe-the-shit-41kj)
+- [Lithe Events: A Lightweight and Powerful Event Handling Library for PHP](https://dev.to/lithephp/lithe-events-a-lightweight-and-powerful-event-handling-library-for-php-2mp8)
+- [Manipulando Eventos com Simplicidade em PHP com Lithe Events](https://dev.to/lithephp/manipulando-eventos-com-simplicidade-em-php-com-lithe-events-26on)
+- [CodeBehind 3.9 Released](https://dev.to/elanatframework/codebehind-39-released-2190)
+- [How to Systematically Remove Elements from a List in C#](https://dev.to/moh_moh701/how-to-systematically-remove-elements-from-a-list-in-c-55ig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
