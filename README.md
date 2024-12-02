@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 02 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-02-december-ha5)
-- [AI and All Data Weekly - 02 December 2024](https://dev.to/timothy_spann_a41a639e47c/ai-and-all-data-weekly-02-december-2024-3kg2)
-- [¿Cómo usar Optional en Java?](https://dev.to/asjordi/como-usar-optional-en-java-18kf)
-- [AWS Verified Access preview non-review!](https://dev.to/omahn/aws-verified-access-preview-non-review-4bel)
-- [Simplified Email Extraction with Javascript Bookmark](https://dev.to/nightwolfdev/simplified-email-extraction-with-javascript-bookmark-27jg)
+- [Mastering Full-Stack Development: React, TypeScript, and Blockchain in Practice.](https://dev.to/adewumi_israel_360c3d0332/mastering-full-stack-development-react-typescript-and-blockchain-in-practice-52dc)
+- [Why I abandoned Postman for THIS](https://dev.to/lazyasscoder/why-i-abandoned-postman-for-this-2a0m)
+- [🚀 Build a Star Rating System with TypeScript &amp; CSS](https://dev.to/blamsa0mine/build-a-star-rating-system-with-typescript-css-14e6)
+- [Ensuring API quality: How can EchoAPI help with API testing 🚀](https://dev.to/lazyasscoder/ensuring-api-quality-how-can-echoapi-help-with-api-testing-3ibc)
+- [Supabase AI Assistant v2](https://dev.to/supabase/supabase-ai-assistant-v2-3kl7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
