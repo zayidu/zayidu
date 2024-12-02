@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Document MySQL Databases Efficiently with DbSchema](https://dev.to/roxana_haidiner/how-to-document-mysql-databases-efficiently-with-dbschema-1bmn)
-- [Event Hub Replication Tasks with Logic Apps](https://dev.to/kkazala/event-hub-replication-tasks-with-logic-apps-2aje)
-- [Dealing with resilience on network: Setting Up a Failover System with MikroTik RouterOS](https://dev.to/nivandosoares/dealing-with-resilience-on-network-setting-up-a-failover-system-with-mikrotik-routeros-5djh)
-- [🎄 Advent of Code 2024: Day 2 Completed! 🚀](https://dev.to/architagr/advent-of-code-2024-day-2-completed-g45)
-- [Tackling Testing Challenges in Internet and Mobile Banking](https://dev.to/grjoeay/tackling-testing-challenges-in-internet-and-mobile-banking-1lkb)
+- [Building Vhisper: Voice Notes App with AI Transcription and Post-Processing](https://dev.to/ra_jeeves/building-vhisper-voice-notes-app-with-ai-transcription-and-post-processing-1609)
+- [The New Dev&#39;s Guide to Externalizing App Config](https://dev.to/mike-vincent/the-new-devs-guide-to-externalizing-app-config-6c7)
+- [Dynamic Forms in Angular 19: Creating Flexible and Scalable User Interfaces with Standalone Components](https://dev.to/this-is-angular/dynamic-forms-in-angular-creating-flexible-and-scalable-user-interfaces-2hob)
+- [Learning a New Language with Advent of Code](https://dev.to/pmaksymov/learning-a-new-language-with-advent-of-code-3ljk)
+- [Exploring Resources for Analyzing Liquidity Pool Performance](https://dev.to/milo_farrell_37504be631d1/exploring-resources-for-analyzing-liquidity-pool-performance-50g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
