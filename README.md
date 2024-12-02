@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI, Blockchain, and Automation Tools Are Changing the Game](https://dev.to/shtefcs/how-ai-blockchain-and-automation-tools-are-changing-the-game-1ljc)
-- [2. Services and Dependency Injection](https://dev.to/renukapatil/2-services-and-dependency-injection-1p90)
-- [WebSocket Load Testing: A Comprehensive Guide to Seamless API Performance](https://dev.to/ashinno/websocket-load-testing-a-comprehensive-guide-to-seamless-api-performance-36hm)
-- [1. Core Angular Concepts: Components, Templates, Data Binding, and Directives](https://dev.to/renukapatil/1-core-angular-concepts-components-templates-data-binding-and-directives-51h8)
-- [Is PHP Dead On Windows? Rate Of Impact?](https://dev.to/infinitypaul/is-php-dead-on-windows-rate-of-impact-1f90)
+- [A very helpful tool for your websites](https://dev.to/carrie_luo1/a-very-helpful-tool-for-your-websites-2hgk)
+- [How to Update SSL Certificate in SafeLine WAF through a File](https://dev.to/carrie_luo1/how-to-update-ssl-certificate-in-safeline-waf-through-a-file-5155)
+- [Devtools Startup Ideas: Build A Markdown Editor With Ruby On Rails And Redis](https://dev.to/dumebii/devtools-startup-ideas-build-a-markdown-editor-with-ruby-on-rails-and-redis-2fnd)
+- [Understanding Rate Limiting: A Guide to Protecting Your APIs and Applications](https://dev.to/mspilari/understanding-rate-limiting-a-guide-to-protecting-your-apis-and-applications-254c)
+- [Accessibility Testing with a Chrome Extension](https://dev.to/leading-edje/accessibility-testing-with-chrome-extension-53kn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
