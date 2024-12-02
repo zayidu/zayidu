@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clojure REPL-Driven Development with VS Code](https://dev.to/dumplingbyte/clojure-repl-driven-development-with-vs-code-133)
-- [4 Steps How Voice Search is Transforming the Energy Industry](https://dev.to/fishbat_7111370c67ddf121e/4-steps-how-voice-search-is-transforming-the-energy-industry-3f9p)
-- [Laravel Mastery | Install and run your first Laravel project](https://dev.to/syamsarosa/laravel-mastery-install-and-run-your-first-laravel-project-3n8b)
-- [Creative Approaches to Testing Desktop Applications](https://dev.to/sureshayyanna/creative-approaches-to-testing-desktop-applications-48n9)
-- [Building an OpenGraph Image API with Next.js and Sharp](https://dev.to/gleamso/building-an-opengraph-image-api-with-nextjs-and-sharp-i9n)
+- [#108 — Sorting of Row-Based Data](https://dev.to/judith677/108-sorting-of-row-based-data-3alg)
+- [:&rpar;](https://dev.to/borba/-2kam)
+- [Part 8: SQL Injection Series - Advanced Prevention Techniques and Real-World Applications](https://dev.to/trixsec/part-8-sql-injection-series-advanced-prevention-techniques-and-real-world-applications-5bc6)
+- [Steps to Use .NET on the Forlinx OKMX6UL Series Development Board &lpar;Linux4.1.15&rpar;](https://dev.to/forlinx_jason/steps-to-use-net-on-the-forlinx-okmx6ul-series-development-board-linux4115-4oa8)
+- [Part 7: SQL Injection Series: Advanced SQL Injection Techniques](https://dev.to/trixsec/how-to-detect-and-defend-against-sql-injection-attacks-part-6-advanced-sql-injection-techniques-20mf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
