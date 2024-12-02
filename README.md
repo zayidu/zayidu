@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A very helpful tool for your websites](https://dev.to/carrie_luo1/a-very-helpful-tool-for-your-websites-2hgk)
-- [How to Update SSL Certificate in SafeLine WAF through a File](https://dev.to/carrie_luo1/how-to-update-ssl-certificate-in-safeline-waf-through-a-file-5155)
-- [Devtools Startup Ideas: Build A Markdown Editor With Ruby On Rails And Redis](https://dev.to/dumebii/devtools-startup-ideas-build-a-markdown-editor-with-ruby-on-rails-and-redis-2fnd)
-- [Understanding Rate Limiting: A Guide to Protecting Your APIs and Applications](https://dev.to/mspilari/understanding-rate-limiting-a-guide-to-protecting-your-apis-and-applications-254c)
-- [Accessibility Testing with a Chrome Extension](https://dev.to/leading-edje/accessibility-testing-with-chrome-extension-53kn)
+- [Extending Open WebUI: Beyond a ChatGPT Alternative](https://dev.to/airabbit/extending-open-webui-beyond-a-chatgpt-alternative-7eo)
+- [Automate testing with Github Actions](https://dev.to/ultraviolet33/automate-testing-with-github-actions-3j5m)
+- [Tab Roulette - my first extension](https://dev.to/ivan_862363c9a8b0/tab-roulette-my-first-extension-1oih)
+- [Writing Clean and Efficient JavaScript: 10 Best Practices Every Developer Should Know](https://dev.to/hassan_abbasi/writing-clean-and-efficient-javascript-10-best-practices-every-developer-should-know-2dhd)
+- [Exploratory Testing: A Dynamic Approach to Software Quality](https://dev.to/keploy/exploratory-testing-a-dynamic-approach-to-software-quality-4mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
