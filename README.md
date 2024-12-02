@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m glad you wrote this, now I won&#39;t regret not knowing this since im so GREEN...](https://dev.to/gremlinmaster/im-glad-you-wrote-this-now-i-wont-regret-not-knowing-this-since-im-so-green-3255)
-- [Introduction to Amazon S3](https://dev.to/elu_olawale/introduction-to-amazon-s3-3g26)
-- [Automated Alerts for High CPU Utilization: Real-Time Email Notifications with Instance Details](https://dev.to/piyush_desai_bddc94d674ad/automated-alerts-for-high-cpu-utilization-real-time-email-notifications-with-instance-details-21e)
-- [Driving Umbraco&#39;s dictionary to the edge &lpar;of your system&rpar;](https://dev.to/d_inventor/driving-umbracos-dictionary-to-the-edge-of-your-system-15h9)
-- [What is an Amazon Data API and How Does It Work?](https://dev.to/syphoon_ef9378/what-is-an-amazon-data-api-and-how-does-it-work-2e71)
+- [DevOps: Shift Right for Real-World Validation](https://dev.to/jajera/devops-shift-right-for-real-world-validation-2km0)
+- [DevOps: Shift Left vs Shift Right – What’s the Difference?](https://dev.to/jajera/devops-shift-left-vs-shift-right-whats-the-difference-4f7i)
+- [DevOps: Shift Left for Early Testing and Security](https://dev.to/jajera/devops-shift-left-for-early-testing-and-security-2gf7)
+- [Building Scalable and Cost-Efficient SaaS: The Architecture Behind Fitly Space](https://dev.to/lotfijb/building-scalable-and-cost-efficient-saas-the-architecture-behind-fitly-space-5bj7)
+- [Just-in-Time Database Access](https://dev.to/bytebase/just-in-time-database-access-4imp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
