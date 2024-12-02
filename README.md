@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Perl Weekly #697 - Advent Calendars 2024](https://dev.to/szabgab/perl-weekly-697-advent-calendars-2024-2pph)
-- [WebSocket broadcasting with JavaScript and Bun](https://dev.to/robertobutti/websocket-broadcasting-with-javascript-and-bun-3mkf)
-- [Boost MySQL Performance with Data Partitioning](https://dev.to/dbvismarketing/boost-mysql-performance-with-data-partitioning-4n33)
-- [Color Palette is served with ShadCn Theme Editor](https://dev.to/giuliano1993/color-palette-is-served-with-shadcn-theme-editor-1jjc)
-- [Best Practices for Developing and Integrating REST APIs into Web Applications](https://dev.to/adityabhuyan/best-practices-for-developing-and-integrating-rest-apis-into-web-applications-59nl)
+- [How to make Flutter 3.24 run on Windows 7?](https://dev.to/rustdesk/how-to-make-flutter-324-run-on-windows-7-4ocf)
+- [Offline file uploading in Flutter](https://dev.to/remejuan/offline-file-uploading-in-flutter-mch)
+- [Amazon Q Developer Tips: No.2 IDE Layout](https://dev.to/aws/amazon-q-developer-tips-no2-ide-layout-52a1)
+- [Self Closing Browser Tab with JavaScript](https://dev.to/joshuaamaju/self-closing-browser-tab-with-javascript-1ph9)
+- [From Traditional Hosting to the Cloud: The Migration of LimitlessAO Power Solutions Website to AWS](https://dev.to/abdullateef/from-traditional-hosting-to-the-cloud-the-migration-of-limitlessao-power-solutions-website-to-aws-5c9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
