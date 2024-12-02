@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pipe the shit](https://dev.to/cordlesswool/pipe-the-shit-41kj)
-- [Lithe Events: A Lightweight and Powerful Event Handling Library for PHP](https://dev.to/lithephp/lithe-events-a-lightweight-and-powerful-event-handling-library-for-php-2mp8)
-- [Manipulando Eventos com Simplicidade em PHP com Lithe Events](https://dev.to/lithephp/manipulando-eventos-com-simplicidade-em-php-com-lithe-events-26on)
-- [CodeBehind 3.9 Released](https://dev.to/elanatframework/codebehind-39-released-2190)
-- [How to Systematically Remove Elements from a List in C#](https://dev.to/moh_moh701/how-to-systematically-remove-elements-from-a-list-in-c-55ig)
+- [Day 1: Introduction to Terraform and Infrastructure as Code &lpar;IaC&rpar;](https://dev.to/yokwejuste/day-1-introduction-to-terraform-and-infrastructure-as-code-iac-5do4)
+- [Straight to the Money 💰 minimalistic yet all-inclusive Python project template](https://dev.to/carlovo/straight-to-the-money-minimalistic-yet-all-inclusive-python-project-template-4633)
+- [Sentinel Overview](https://dev.to/salman_khan_c31307505285e/sentinel-overview-4g3j)
+- [LibTracker Updates 12/2/24: Get to personally know your apps with this simple SBOM Tool](https://dev.to/windmillcode/libtracker-updates-12224-get-to-personally-know-your-apps-with-this-simple-sbom-tool-57in)
+- [Master Functional Programming in Java: Using Predicate and Function Elegantly](https://dev.to/lucas_fernandes_68fe24bd6/master-functional-programming-in-java-using-predicate-and-function-elegantly-3lif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
