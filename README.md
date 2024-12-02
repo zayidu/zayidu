@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Disconnect in Stimulus Controller](https://dev.to/railsdesigner/why-disconnect-in-stimulus-controller-5ahf)
-- [What is OOP ?!](https://dev.to/1hamzabek/what-is-oop--4dnc)
-- [[Boost]](https://dev.to/santos_felip/-3mc5)
-- [Masking confidential data in prompts using Regex and spaCy](https://dev.to/aditykris/masking-confidential-data-in-prompts-using-regex-and-spacy-4nkf)
-- [🌐 What is Server-Side Rendering &lpar;SSR&rpar; &amp; Why Everyone’s Hyped About Next.js? 🚀](https://dev.to/jagroop2001/what-is-server-side-rendering-ssr-why-everyones-hyped-about-nextjs-4p1c)
+- [Day 14 - Looping](https://dev.to/lakshmi_prithanadesan_32/day-14-looping-8jm)
+- [C# 13: How params Collections Transform Development](https://dev.to/bytehide/c-13-how-params-collections-transform-development-1llg)
+- [50/365 | ¥10M Job Challenge - Focus on the process](https://dev.to/kameken100/50365-y10m-job-challenge-focus-on-the-process-4fbh)
+- [Day 1: Getting Started with Python](https://dev.to/arjun98k/day-1-getting-started-with-python-53km)
+- [Fighting with Redirects: A Journey of Astro Site Migration](https://dev.to/roboword/fighting-with-redirects-a-journey-of-astro-site-migration-591a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
