@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1: Introduction to Terraform and Infrastructure as Code &lpar;IaC&rpar;](https://dev.to/yokwejuste/day-1-introduction-to-terraform-and-infrastructure-as-code-iac-5do4)
-- [Straight to the Money 💰 minimalistic yet all-inclusive Python project template](https://dev.to/carlovo/straight-to-the-money-minimalistic-yet-all-inclusive-python-project-template-4633)
-- [Sentinel Overview](https://dev.to/salman_khan_c31307505285e/sentinel-overview-4g3j)
-- [LibTracker Updates 12/2/24: Get to personally know your apps with this simple SBOM Tool](https://dev.to/windmillcode/libtracker-updates-12224-get-to-personally-know-your-apps-with-this-simple-sbom-tool-57in)
-- [Master Functional Programming in Java: Using Predicate and Function Elegantly](https://dev.to/lucas_fernandes_68fe24bd6/master-functional-programming-in-java-using-predicate-and-function-elegantly-3lif)
+- [5 Ways Developers Can Gear Up for an Amazing 2025](https://dev.to/respect17/5-ways-developers-can-gear-up-for-an-amazing-2025-1pkc)
+- [How to Create a Magical Christmas Scene with Animated Snowflakes and Santa in JavaScript](https://dev.to/gladiatorsbattle/how-to-create-a-magical-christmas-scene-with-animated-snowflakes-and-santa-in-javascript-1375)
+- [Who is a 10x Engineer?](https://dev.to/shelan/who-is-a-10x-engineer-153m)
+- [What’s New in React 19? A Quick Guide with Code Examples](https://dev.to/vladyusha/whats-new-in-react-19-a-quick-guide-with-code-examples-2eab)
+- [JavaScriptmas 2024 - Week One](https://dev.to/michaellarocca/javascriptmas-2024-week-one-28g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
