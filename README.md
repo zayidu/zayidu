@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Extending Open WebUI: Beyond a ChatGPT Alternative](https://dev.to/airabbit/extending-open-webui-beyond-a-chatgpt-alternative-7eo)
-- [Automate testing with Github Actions](https://dev.to/ultraviolet33/automate-testing-with-github-actions-3j5m)
-- [Tab Roulette - my first extension](https://dev.to/ivan_862363c9a8b0/tab-roulette-my-first-extension-1oih)
-- [Writing Clean and Efficient JavaScript: 10 Best Practices Every Developer Should Know](https://dev.to/hassan_abbasi/writing-clean-and-efficient-javascript-10-best-practices-every-developer-should-know-2dhd)
-- [Exploratory Testing: A Dynamic Approach to Software Quality](https://dev.to/keploy/exploratory-testing-a-dynamic-approach-to-software-quality-4mk)
+- [How to Document MySQL Databases Efficiently with DbSchema](https://dev.to/roxana_haidiner/how-to-document-mysql-databases-efficiently-with-dbschema-1bmn)
+- [Event Hub Replication Tasks with Logic Apps](https://dev.to/kkazala/event-hub-replication-tasks-with-logic-apps-2aje)
+- [Dealing with resilience on network: Setting Up a Failover System with MikroTik RouterOS](https://dev.to/nivandosoares/dealing-with-resilience-on-network-setting-up-a-failover-system-with-mikrotik-routeros-5djh)
+- [🎄 Advent of Code 2024: Day 2 Completed! 🚀](https://dev.to/architagr/advent-of-code-2024-day-2-completed-g45)
+- [Tackling Testing Challenges in Internet and Mobile Banking](https://dev.to/grjoeay/tackling-testing-challenges-in-internet-and-mobile-banking-1lkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
