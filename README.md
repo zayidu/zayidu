@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Growth Hacking](https://dev.to/java2890/growth-hacking-4jbj)
-- [Automating the Deployment of a Docker-Powered Full-Stack Application with Terraform and Ansible](https://dev.to/yutee_okon/automating-the-deployment-of-a-docker-powered-full-stack-application-with-terraform-and-ansible-mo6)
-- [C++ and ModernCLI](https://dev.to/dyfet/c-and-moderncli-517f)
-- [# Construyendo un Portfolio Moderno con Astro y Tailwind CSS](https://dev.to/goaqidev/-construyendo-un-portfolio-moderno-con-astro-y-tailwind-css-20ni)
-- [The Cybersecurity Threat Landscape, Made Easy](https://dev.to/romanus_onyekwere/the-cybersecurity-threat-landscape-made-easy-2ea9)
+- [Streamline Vue 3 Form Management with vue-form-watchers](https://dev.to/helixforge/streamline-vue-3-form-management-with-vue-form-watchers-5bd4)
+- [Mircoservices are Tech Debt... aren&#39;t they?](https://dev.to/bhleb/mircoservices-are-tech-debt-arent-they-3kod)
+- [Hosting a Rails App on Ubuntu 20.04 with Nginx and Phusion Passenger: A Comprehensive Guide](https://dev.to/nolimithendrix/hosting-a-rails-app-on-ubuntu-2004-with-nginx-and-phusion-passenger-a-comprehensive-guide-4jb8)
+- [Calculator Backend-API In Go](https://dev.to/jordan_t/calculator-backend-api-in-go-2173)
+- [Daily JavaScript Challenge #JS-35: Calculate the Product of Digits](https://dev.to/dpc/daily-javascript-challenge-js-35-calculate-the-product-of-digits-596p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
