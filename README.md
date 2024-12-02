@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps: Shift Right for Real-World Validation](https://dev.to/jajera/devops-shift-right-for-real-world-validation-2km0)
-- [DevOps: Shift Left vs Shift Right – What’s the Difference?](https://dev.to/jajera/devops-shift-left-vs-shift-right-whats-the-difference-4f7i)
-- [DevOps: Shift Left for Early Testing and Security](https://dev.to/jajera/devops-shift-left-for-early-testing-and-security-2gf7)
-- [Building Scalable and Cost-Efficient SaaS: The Architecture Behind Fitly Space](https://dev.to/lotfijb/building-scalable-and-cost-efficient-saas-the-architecture-behind-fitly-space-5bj7)
-- [Just-in-Time Database Access](https://dev.to/bytebase/just-in-time-database-access-4imp)
+- [Perl Weekly #697 - Advent Calendars 2024](https://dev.to/szabgab/perl-weekly-697-advent-calendars-2024-2pph)
+- [WebSocket broadcasting with JavaScript and Bun](https://dev.to/robertobutti/websocket-broadcasting-with-javascript-and-bun-3mkf)
+- [Boost MySQL Performance with Data Partitioning](https://dev.to/dbvismarketing/boost-mysql-performance-with-data-partitioning-4n33)
+- [Color Palette is served with ShadCn Theme Editor](https://dev.to/giuliano1993/color-palette-is-served-with-shadcn-theme-editor-1jjc)
+- [Best Practices for Developing and Integrating REST APIs into Web Applications](https://dev.to/adityabhuyan/best-practices-for-developing-and-integrating-rest-apis-into-web-applications-59nl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
