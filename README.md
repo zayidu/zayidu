@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 14 - Looping](https://dev.to/lakshmi_prithanadesan_32/day-14-looping-8jm)
-- [C# 13: How params Collections Transform Development](https://dev.to/bytehide/c-13-how-params-collections-transform-development-1llg)
-- [50/365 | ¥10M Job Challenge - Focus on the process](https://dev.to/kameken100/50365-y10m-job-challenge-focus-on-the-process-4fbh)
-- [Day 1: Getting Started with Python](https://dev.to/arjun98k/day-1-getting-started-with-python-53km)
-- [Fighting with Redirects: A Journey of Astro Site Migration](https://dev.to/roboword/fighting-with-redirects-a-journey-of-astro-site-migration-591a)
+- [Here is a 450-Phrase Article on Understanding what an API is In Python:](https://dev.to/clay26schwarz/here-is-a-450-phrase-article-on-understanding-what-an-api-is-in-python-31j6)
+- [Database branching in Django apps using GitHub actions](https://dev.to/hackmamba/database-branching-in-django-apps-using-github-actions-3lgh)
+- [Here is a 450-Phrase Article on Understanding what an API is In Python:](https://dev.to/clay26schwarz/here-is-a-450-phrase-article-on-understanding-what-an-api-is-in-python-2cmm)
+- [Why AI Agents Are Not Ready to Get Real Jobs Done — Yet](https://dev.to/erenkucuker_1/why-ai-agents-are-not-ready-to-get-real-jobs-done-yet-1ehn)
+- [Master&#39;s student seeking to better understand the freelance developer profession](https://dev.to/lucas_leperlier/masters-student-seeking-to-better-understand-the-freelance-developer-profession-5gck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
