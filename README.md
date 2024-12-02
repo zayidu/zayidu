@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamline Vue 3 Form Management with vue-form-watchers](https://dev.to/helixforge/streamline-vue-3-form-management-with-vue-form-watchers-5bd4)
-- [Mircoservices are Tech Debt... aren&#39;t they?](https://dev.to/bhleb/mircoservices-are-tech-debt-arent-they-3kod)
-- [Hosting a Rails App on Ubuntu 20.04 with Nginx and Phusion Passenger: A Comprehensive Guide](https://dev.to/nolimithendrix/hosting-a-rails-app-on-ubuntu-2004-with-nginx-and-phusion-passenger-a-comprehensive-guide-4jb8)
-- [Calculator Backend-API In Go](https://dev.to/jordan_t/calculator-backend-api-in-go-2173)
-- [Daily JavaScript Challenge #JS-35: Calculate the Product of Digits](https://dev.to/dpc/daily-javascript-challenge-js-35-calculate-the-product-of-digits-596p)
+- [Clojure REPL-Driven Development with VS Code](https://dev.to/dumplingbyte/clojure-repl-driven-development-with-vs-code-133)
+- [4 Steps How Voice Search is Transforming the Energy Industry](https://dev.to/fishbat_7111370c67ddf121e/4-steps-how-voice-search-is-transforming-the-energy-industry-3f9p)
+- [Laravel Mastery | Install and run your first Laravel project](https://dev.to/syamsarosa/laravel-mastery-install-and-run-your-first-laravel-project-3n8b)
+- [Creative Approaches to Testing Desktop Applications](https://dev.to/sureshayyanna/creative-approaches-to-testing-desktop-applications-48n9)
+- [Building an OpenGraph Image API with Next.js and Sharp](https://dev.to/gleamso/building-an-opengraph-image-api-with-nextjs-and-sharp-i9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
