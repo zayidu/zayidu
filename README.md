@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Full-Stack Development: React, TypeScript, and Blockchain in Practice.](https://dev.to/adewumi_israel_360c3d0332/mastering-full-stack-development-react-typescript-and-blockchain-in-practice-52dc)
-- [Why I abandoned Postman for THIS](https://dev.to/lazyasscoder/why-i-abandoned-postman-for-this-2a0m)
-- [🚀 Build a Star Rating System with TypeScript &amp; CSS](https://dev.to/blamsa0mine/build-a-star-rating-system-with-typescript-css-14e6)
-- [Ensuring API quality: How can EchoAPI help with API testing 🚀](https://dev.to/lazyasscoder/ensuring-api-quality-how-can-echoapi-help-with-api-testing-3ibc)
-- [Supabase AI Assistant v2](https://dev.to/supabase/supabase-ai-assistant-v2-3kl7)
+- [Why Disconnect in Stimulus Controller](https://dev.to/railsdesigner/why-disconnect-in-stimulus-controller-5ahf)
+- [What is OOP ?!](https://dev.to/1hamzabek/what-is-oop--4dnc)
+- [[Boost]](https://dev.to/santos_felip/-3mc5)
+- [Masking confidential data in prompts using Regex and spaCy](https://dev.to/aditykris/masking-confidential-data-in-prompts-using-regex-and-spacy-4nkf)
+- [🌐 What is Server-Side Rendering &lpar;SSR&rpar; &amp; Why Everyone’s Hyped About Next.js? 🚀](https://dev.to/jagroop2001/what-is-server-side-rendering-ssr-why-everyones-hyped-about-nextjs-4p1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
