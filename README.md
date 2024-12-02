@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn To Talk to Non-Tech People in Your Team](https://dev.to/canro91/learn-to-talk-to-non-tech-people-in-your-team-4oec)
-- [Day 2: Terminal Gradients 🌈](https://dev.to/valeriavg/day-2-terminal-gradients-53po)
-- [Getting Started with Microsoft Learn Certifications: A Guide for Beginners](https://dev.to/kiran_baliga/getting-started-with-microsoft-learn-certifications-a-guide-for-beginners-1fm5)
-- [UI/UX Testing: Why It’s Important for Your Project](https://dev.to/muhammadalarabi/uiux-testing-why-its-important-for-your-project-3f88)
-- [Mastering Productivity: 10 Effective Ways to Be Productive at the Workplace](https://dev.to/softheartengineer/mastering-productivity-10-effective-ways-to-be-productive-at-the-workplace-535m)
+- [I&#39;m glad you wrote this, now I won&#39;t regret not knowing this since im so GREEN...](https://dev.to/gremlinmaster/im-glad-you-wrote-this-now-i-wont-regret-not-knowing-this-since-im-so-green-3255)
+- [Introduction to Amazon S3](https://dev.to/elu_olawale/introduction-to-amazon-s3-3g26)
+- [Automated Alerts for High CPU Utilization: Real-Time Email Notifications with Instance Details](https://dev.to/piyush_desai_bddc94d674ad/automated-alerts-for-high-cpu-utilization-real-time-email-notifications-with-instance-details-21e)
+- [Driving Umbraco&#39;s dictionary to the edge &lpar;of your system&rpar;](https://dev.to/d_inventor/driving-umbracos-dictionary-to-the-edge-of-your-system-15h9)
+- [What is an Amazon Data API and How Does It Work?](https://dev.to/syphoon_ef9378/what-is-an-amazon-data-api-and-how-does-it-work-2e71)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
