@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Vhisper: Voice Notes App with AI Transcription and Post-Processing](https://dev.to/ra_jeeves/building-vhisper-voice-notes-app-with-ai-transcription-and-post-processing-1609)
-- [The New Dev&#39;s Guide to Externalizing App Config](https://dev.to/mike-vincent/the-new-devs-guide-to-externalizing-app-config-6c7)
-- [Dynamic Forms in Angular 19: Creating Flexible and Scalable User Interfaces with Standalone Components](https://dev.to/this-is-angular/dynamic-forms-in-angular-creating-flexible-and-scalable-user-interfaces-2hob)
-- [Learning a New Language with Advent of Code](https://dev.to/pmaksymov/learning-a-new-language-with-advent-of-code-3ljk)
-- [Exploring Resources for Analyzing Liquidity Pool Performance](https://dev.to/milo_farrell_37504be631d1/exploring-resources-for-analyzing-liquidity-pool-performance-50g9)
+- [🚀 Your Daily Crypto Job Digest For 02 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-02-december-ha5)
+- [AI and All Data Weekly - 02 December 2024](https://dev.to/timothy_spann_a41a639e47c/ai-and-all-data-weekly-02-december-2024-3kg2)
+- [¿Cómo usar Optional en Java?](https://dev.to/asjordi/como-usar-optional-en-java-18kf)
+- [AWS Verified Access preview non-review!](https://dev.to/omahn/aws-verified-access-preview-non-review-4bel)
+- [Simplified Email Extraction with Javascript Bookmark](https://dev.to/nightwolfdev/simplified-email-extraction-with-javascript-bookmark-27jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
