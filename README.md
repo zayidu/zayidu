@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [405 Error: Solution](https://dev.to/devmercy/405-error-solution-5cc9)
-- [Les astuces derrière « l’Invasion du HTML mutant »](https://dev.to/onepoint/les-astuces-derriere-linvasion-du-html-mutant--1j8)
-- [Modernizing Legacy Systems in Healthcare: A Complete Guide](https://dev.to/evelynwyatt/modernizing-legacy-systems-in-healthcare-a-complete-guide-mm5)
-- [Exploring AWS Networking and Content Delivery Services](https://dev.to/enitanogun1/exploring-aws-networking-and-content-delivery-services-5ck0)
-- [Deploy your bolt.new app to Netlify](https://dev.to/netlify/deploy-your-boltnew-app-to-netlify-1k54)
+- [SMTP Server for Bulk Emailing- Trusted by Experts](https://dev.to/otismilburnn/smtp-server-for-bulk-emailing-trusted-by-experts-op7)
+- [[Boost]](https://dev.to/userof/-4lem)
+- [Docker et ses Commandes de Base](https://dev.to/bilongodavid/docker-et-ses-commandes-de-base-no0)
+- [[Boost]](https://dev.to/alexhales67/-37mb)
+- [Why Data Engineers Are Essential for E-commerce BI and Reporting Success](https://dev.to/vaishali2/why-data-engineers-are-essential-for-e-commerce-bi-and-reporting-success-pji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
