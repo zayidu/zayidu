@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Really happy to see this get picked up from the community 🤗](https://dev.to/jess/really-happy-to-see-this-get-picked-up-from-the-community-7mg)
-- [TP3 Teste API](https://dev.to/augusto_rajao/tp3-teste-api-27ik)
-- [Why Rust Is Worth Using on the Backend](https://dev.to/youssef_houmazen_840431c7/why-rust-is-worth-using-on-the-backend-bkh)
-- [What’s on the Horizon for AI in Healthcare?](https://dev.to/raftlabs/whats-on-the-horizon-for-ai-in-healthcare-4k2a)
-- [Log Analysis | Compromised wordpress | Privilege Escalation | Blue team labs online](https://dev.to/mihika/log-analysis-compromised-wordpress-privilege-escalation-blue-team-labs-online-20ic)
+- [Discover how transitioning from monolithic to microservices can revolutionize your application&#39;s scalability, performance, and resilience!](https://dev.to/lorebrada00/discover-how-transitioning-from-monolithic-to-microservices-can-revolutionize-your-applications-9o4)
+- [Handling Distributed Transactions in Microservices: The SAGA Pattern Explained 🚀](https://dev.to/cortexflow/handling-distributed-transactions-in-microservices-the-saga-pattern-explained-33j8)
+- [Git clone - that repo is too big : HELP!](https://dev.to/danuw/git-clone-that-repo-is-too-big-help-4chn)
+- [What is the Scope Chain and How Does It Work?](https://dev.to/wallacefreitas/what-is-the-scope-chain-and-how-does-it-work-52e3)
+- [The Ultimate Guide to Learning Python from Different Resources](https://dev.to/dipti_gogoi/the-ultimate-guide-to-learning-python-from-different-resources-40ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
