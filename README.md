@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LEGO-Based Platform Makes Robotics Research 90% Cheaper and More Accessible](https://dev.to/mikeyoung44/lego-based-platform-makes-robotics-research-90-cheaper-and-more-accessible-5e5k)
-- [Webdraw Alpha is Now Open to Everyone! Build apps as easily as you sketch. No waitlists, no limits—just start creating with your AI Smartboard. Access https://webdraw.com/](https://dev.to/webdraw/webdraw-alpha-is-now-open-to-everyone-build-apps-as-easily-as-you-sketch-no-waitlists-no-5foh)
-- [New AI Training Method Slashes GPU Communication Needs While Matching Top Performance](https://dev.to/mikeyoung44/new-ai-training-method-slashes-gpu-communication-needs-while-matching-top-performance-4ked)
-- [Backward Reasoning Boosts AI Performance: Simple Technique Improves Language Models Without Extra Training](https://dev.to/mikeyoung44/backward-reasoning-boosts-ai-performance-simple-technique-improves-language-models-without-extra-cdi)
-- [New Framework Reveals How to Monitor and Control AI Agents Built on Foundation Models](https://dev.to/mikeyoung44/new-framework-reveals-how-to-monitor-and-control-ai-agents-built-on-foundation-models-29ei)
+- [Tesla Optimus showed off new hands](https://dev.to/devsk001/tesla-optimus-showed-off-new-hands-1d49)
+- [What are some advanced array methods in JavaScript?](https://dev.to/hexa-home/what-are-some-advanced-array-methods-in-javascript-4e8d)
+- [🚀 Your Daily Crypto Job Digest For 03 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-03-december-6p5)
+- [Kubernetes CRDs: The Backbone of Kubernetes Extensibility](https://dev.to/jorgecontreras/kubernetes-crds-the-backbone-of-kubernetes-extensibility-pha)
+- [Testing Payment Gateways in BFSI Apps: A Comprehensive Guide](https://dev.to/abhayit2000/testing-payment-gateways-in-bfsi-apps-a-comprehensive-guide-2ddm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
