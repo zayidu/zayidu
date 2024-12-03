@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hna)
-- [Clean Code: Principles and Patterns for Scalable Systems](https://dev.to/yasmine_ddec94f4d4/clean-code-principles-and-patterns-for-scalable-systems-236k)
-- [Playwright and Chrome Browser Testing in Heroku](https://dev.to/alvinslee/playwright-and-chrome-browser-testing-in-heroku-37m3)
-- [Streamlining Microservices Testing With Platform Engineering](https://dev.to/signadot/streamlining-microservices-testing-with-platform-engineering-44i5)
-- [Rely.io October 2024 Product Update Roundup](https://dev.to/t1agob/relyio-october-2024-product-update-roundup-1doj)
+- [Log Analysis | Sysmon | Blue Team Labs Online](https://dev.to/mihika/log-analysis-sysmon-blue-team-labs-online-484k)
+- [Which Is the Best Cloud Data Warehouse Solution for Your Business?](https://dev.to/harman_diaz/which-is-the-best-cloud-data-warehouse-solution-for-your-business-5a2h)
+- [Clip-Path Circle Reveal Animation With Mouse Movement](https://dev.to/plsankar/clip-path-circle-reveal-animation-with-mouse-movement-250d)
+- [Where to start ?](https://dev.to/ybenitezf/where-to-start--4i3h)
+- [Day 2: Python Control Structures, Functions, Modules, and Data Structures](https://dev.to/arjun98k/day-2-python-control-structures-functions-modules-and-data-structures-3o39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
