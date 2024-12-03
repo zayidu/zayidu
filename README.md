@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The 7 Best AI Tools to Help Students Learn Anything Faster](https://dev.to/timesofasi/the-7-best-ai-tools-to-help-students-learn-anything-faster-2oel)
+- [#109 — Sorting of Row-Based Data — by the Combination of Multiple Columns](https://dev.to/judith677/109-sorting-of-row-based-data-by-the-combination-of-multiple-columns-142j)
+- [𝗦𝗲𝗿𝘃𝗲𝗿-𝗦𝗶𝗱𝗲 𝗥𝗲𝗻𝗱𝗲𝗿𝗶𝗻𝗴 𝘃𝘀 𝗖𝗹𝗶𝗲𝗻𝘁-𝗦𝗶𝗱𝗲 𝗥𝗲𝗻𝗱𝗲𝗿𝗶𝗻𝗴 : 𝗪𝗵𝗶𝗰𝗵 𝗢𝗻𝗲 𝗦𝗵𝗼𝘂𝗹𝗱 𝗪𝗲 𝗖𝗵𝗼𝗼𝘀𝗲? 🤔](https://dev.to/apurvupadhyay/--3j8a)
 - [Facade Pattern](https://dev.to/sota_333ad4b72095606ab40c/facade-pattern-1efk)
 - [Lol, I thought I could start 2 blog series while also trying to work full-time AND do Advent of Code. Lmao even.](https://dev.to/yeehawtoast/lol-i-thought-i-could-start-2-blog-series-while-also-trying-to-work-full-time-and-do-advent-of-fo0)
-- [The Truth About Being an Expat Developer in Japan: It&#39;s More Doable Than You Think](https://dev.to/aaronli-mf/the-truth-about-being-an-expat-developer-in-japan-its-more-doable-than-you-think-127h)
-- [AI in Software Testing: A Revolution or Evolution?](https://dev.to/anil_csimplifyit_905c/ai-in-software-testing-a-revolution-or-evolution-27kb)
-- [Daily JavaScript Challenge #JS-36: Convert Time in 24-hour Format to 12-hour Format](https://dev.to/dpc/daily-javascript-challenge-js-36-convert-time-in-24-hour-format-to-12-hour-format-211e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
