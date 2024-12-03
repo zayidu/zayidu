@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Today is the International Day of Persons with Disabilities](https://dev.to/tatyanabayramova/today-is-the-international-day-of-persons-with-disabilities-3c27)
-- [Cyclops Launch Week #1 Recap](https://dev.to/cyclops-ui/cyclops-launch-week-1-recap-49p)
-- [Choosing the Right Java Microservices Framework: Spring Boot, Quarkus, Micronaut, and Beyond](https://dev.to/igventurelli/choosing-the-right-java-microservices-framework-spring-boot-quarkus-micronaut-and-beyond-2jkd)
-- [How I Saved Myself Hours Using Python, Google Gemini, &amp; Meta Llama to Create a Time Saving Script](https://dev.to/bradstondev/how-i-saved-myself-hours-using-python-google-gemini-meta-llama-to-create-a-time-saving-script-5c5i)
-- [Removing Elements from Lists in C# with RemoveAll](https://dev.to/moh_moh701/removing-elements-from-lists-in-c-with-removeall-1nnh)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hna)
+- [Clean Code: Principles and Patterns for Scalable Systems](https://dev.to/yasmine_ddec94f4d4/clean-code-principles-and-patterns-for-scalable-systems-236k)
+- [Playwright and Chrome Browser Testing in Heroku](https://dev.to/alvinslee/playwright-and-chrome-browser-testing-in-heroku-37m3)
+- [Streamlining Microservices Testing With Platform Engineering](https://dev.to/signadot/streamlining-microservices-testing-with-platform-engineering-44i5)
+- [Rely.io October 2024 Product Update Roundup](https://dev.to/t1agob/relyio-october-2024-product-update-roundup-1doj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
