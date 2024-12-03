@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Making An LLM A Data Analysis Intern &lpar;Assistant Config&rpar;](https://dev.to/danielrosehill/making-an-llm-a-data-analysis-intern-assistant-config-444o)
-- [Revisiting Two&#39;s complement: A demonstration using Java](https://dev.to/joao9aulo/revisitando-complemento-a-dois-demonstrando-a-tecnica-com-auxilio-da-linguagem-java-25bo)
-- [FLUX Tools Complete Tutorial with SwarmUI : Outpainting, Inpainting, Redux Re-Imagine + Combine Images, Depth &amp; Canny](https://dev.to/furkangozukara/flux-tools-complete-tutorial-with-swarmui-outpainting-inpainting-redux-re-imagine-combine-45jl)
-- [Yet another Angular article, part 4 : Input](https://dev.to/benjamin_richard/yet-another-angular-article-part-4-input-4alb)
-- [Why I’m Building a Realtime Collaboration App &lpar;DocuMe Devlog 1&rpar;](https://dev.to/rtambunt/why-im-building-a-realtime-collaboration-app-docume-devlog-1-3bek)
+- [Thanks again everyone :D](https://dev.to/best_codes/thanks-again-everyone-d-2m7o)
+- [Introducción a la Infraestructura como Código &lpar;IaC&rpar; con AWS CloudFormation](https://dev.to/briansuarezsantiago/introduccion-a-la-infraestructura-como-codigo-iac-con-aws-cloudformation-499g)
+- [Building a Real-Time Financial Market Analyst API with LLMs](https://dev.to/carterharrison/building-a-real-time-financial-market-analyst-api-with-llms-3bml)
+- [⛈️ Cloud Penetration Testing: A Practical Guide to Securing Your Cloud Infrastructure](https://dev.to/nolunchbreaks_22/cloud-penetration-testing-a-practical-guide-to-securing-your-cloud-infrastructure-554c)
+- [Mastering Salesforce Annotations: A Guide to Smarter Development](https://dev.to/jamie4190/mastering-salesforce-annotations-a-guide-to-smarter-development-mo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
