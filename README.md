@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SMTP Server for Bulk Emailing- Trusted by Experts](https://dev.to/otismilburnn/smtp-server-for-bulk-emailing-trusted-by-experts-op7)
-- [[Boost]](https://dev.to/userof/-4lem)
-- [Docker et ses Commandes de Base](https://dev.to/bilongodavid/docker-et-ses-commandes-de-base-no0)
-- [[Boost]](https://dev.to/alexhales67/-37mb)
-- [Why Data Engineers Are Essential for E-commerce BI and Reporting Success](https://dev.to/vaishali2/why-data-engineers-are-essential-for-e-commerce-bi-and-reporting-success-pji)
+- [How to Select a WAF for New Webmasters&lpar;Part 1&rpar;](https://dev.to/carrie_luo1/how-to-select-a-waf-for-new-webmasterspart-1-l8g)
+- [[Boost]](https://dev.to/william123/-2224)
+- [Cloud Data Warehouse Challenges and Solutions for Successful Implementation](https://dev.to/piya__c204c9e90/cloud-data-warehouse-challenges-and-solutions-for-successful-implementation-43ao)
+- [How to Migrate Data from One SafeLine to the other](https://dev.to/carrie_luo1/how-to-migrate-data-from-one-safeline-to-the-other-3h42)
+- [How to Use Shadcn/UI in React.js](https://dev.to/velan/how-to-use-shadcnui-in-reactjs-6p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
