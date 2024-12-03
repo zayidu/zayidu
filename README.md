@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Project Portfolio Management Software: 3 Amazing Solutions for Project Teams](https://dev.to/thomasy0ung/best-project-portfolio-management-software-3-amazing-solutions-for-project-teams-2n3c)
-- [Mastering TypeScript Core Utility Types](https://dev.to/kristiyan_velkov/mastering-typescript-core-utility-types-23gd)
-- [My Fast-Track Journey into Programming](https://dev.to/respect17/my-fast-track-journey-into-programming-43n8)
-- [Generate stunning landscape images with Bylo.ai](https://dev.to/fredai/generate-stunning-landscape-images-with-byloai-2bk0)
-- [React native notificaions](https://dev.to/mucahitozcanx/react-native-notificaions-453p)
+- [SQL,Classify time-close events into a group and assign them a number #eg84](https://dev.to/esproc_spl/sqlclassify-time-close-events-into-a-group-and-assign-them-a-number-eg84-1302)
+- [Run a Local 💻 MySQL 🐬 Instance](https://dev.to/bytebase/run-a-local-mysql-instance-5d52)
+- [Trying out Boost!!](https://dev.to/jgdevelops/-7hm)
+- [How to Print the Last Field in Bash with awk](https://dev.to/pkutaj/how-to-print-the-last-field-in-bash-with-awk-24cl)
+- [Module Bundlers Explained: Webpack, Rollup, Parcel, and Snowpack with Examples](https://dev.to/renukapatil/module-bundlers-explained-webpack-rollup-parcel-and-snowpack-with-examples-4j5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
