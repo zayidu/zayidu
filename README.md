@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Ways Developers Can Gear Up for an Amazing 2025](https://dev.to/respect17/5-ways-developers-can-gear-up-for-an-amazing-2025-1pkc)
-- [How to Create a Magical Christmas Scene with Animated Snowflakes and Santa in JavaScript](https://dev.to/gladiatorsbattle/how-to-create-a-magical-christmas-scene-with-animated-snowflakes-and-santa-in-javascript-1375)
-- [Who is a 10x Engineer?](https://dev.to/shelan/who-is-a-10x-engineer-153m)
-- [What’s New in React 19? A Quick Guide with Code Examples](https://dev.to/vladyusha/whats-new-in-react-19-a-quick-guide-with-code-examples-2eab)
-- [JavaScriptmas 2024 - Week One](https://dev.to/michaellarocca/javascriptmas-2024-week-one-28g8)
+- [Facade Pattern](https://dev.to/sota_333ad4b72095606ab40c/facade-pattern-1efk)
+- [Lol, I thought I could start 2 blog series while also trying to work full-time AND do Advent of Code. Lmao even.](https://dev.to/yeehawtoast/lol-i-thought-i-could-start-2-blog-series-while-also-trying-to-work-full-time-and-do-advent-of-fo0)
+- [The Truth About Being an Expat Developer in Japan: It&#39;s More Doable Than You Think](https://dev.to/aaronli-mf/the-truth-about-being-an-expat-developer-in-japan-its-more-doable-than-you-think-127h)
+- [AI in Software Testing: A Revolution or Evolution?](https://dev.to/anil_csimplifyit_905c/ai-in-software-testing-a-revolution-or-evolution-27kb)
+- [Daily JavaScript Challenge #JS-36: Convert Time in 24-hour Format to 12-hour Format](https://dev.to/dpc/daily-javascript-challenge-js-36-convert-time-in-24-hour-format-to-12-hour-format-211e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
