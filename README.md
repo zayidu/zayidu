@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Python Syntax and Variables](https://dev.to/jeremycmorgan/understanding-python-syntax-and-variables-1m0m)
-- [0.4 - week - 2 - Progress](https://dev.to/krinskumar/04-week-2-progress-1i3d)
-- [Blazor and Single-Page Applications &lpar;SPA&rpar;](https://dev.to/dazevedo/blazor-and-single-page-applications-spa-5d8h)
-- [Matt Garman keynote takeways](https://dev.to/martinnanchev/matt-garman-keynote-takeways-3hjc)
-- [InstaMesh: Transforming Still Images into Dynamic Videos](https://dev.to/shannonlal/instamesh-transforming-still-images-into-dynamic-videos-2le0)
+- [Really happy to see this get picked up from the community 🤗](https://dev.to/jess/really-happy-to-see-this-get-picked-up-from-the-community-7mg)
+- [TP3 Teste API](https://dev.to/augusto_rajao/tp3-teste-api-27ik)
+- [Why Rust Is Worth Using on the Backend](https://dev.to/youssef_houmazen_840431c7/why-rust-is-worth-using-on-the-backend-bkh)
+- [What’s on the Horizon for AI in Healthcare?](https://dev.to/raftlabs/whats-on-the-horizon-for-ai-in-healthcare-4k2a)
+- [Log Analysis | Compromised wordpress | Privilege Escalation | Blue team labs online](https://dev.to/mihika/log-analysis-compromised-wordpress-privilege-escalation-blue-team-labs-online-20ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
