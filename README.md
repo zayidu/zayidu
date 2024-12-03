@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/rym_michaut/-4loi)
-- [Unleash Spring Boot&#39;s Scheduling Superpowers: Advanced Tricks for Dynamic Tasks](https://dev.to/aaravjoshi/unleash-spring-boots-scheduling-superpowers-advanced-tricks-for-dynamic-tasks-21h5)
-- [The ONLY CSS Guide You Will Need](https://dev.to/technoph1le/the-only-css-guide-you-will-need-1mb7)
-- [Fetch API Full Guide](https://dev.to/harshm03/fetch-api-full-guide-582m)
-- [Learn List in Java](https://dev.to/sarthaksachdeva90/what-is-stack-in-dsa-3160)
+- [Today is the International Day of Persons with Disabilities](https://dev.to/tatyanabayramova/today-is-the-international-day-of-persons-with-disabilities-3c27)
+- [Cyclops Launch Week #1 Recap](https://dev.to/cyclops-ui/cyclops-launch-week-1-recap-49p)
+- [Choosing the Right Java Microservices Framework: Spring Boot, Quarkus, Micronaut, and Beyond](https://dev.to/igventurelli/choosing-the-right-java-microservices-framework-spring-boot-quarkus-micronaut-and-beyond-2jkd)
+- [How I Saved Myself Hours Using Python, Google Gemini, &amp; Meta Llama to Create a Time Saving Script](https://dev.to/bradstondev/how-i-saved-myself-hours-using-python-google-gemini-meta-llama-to-create-a-time-saving-script-5c5i)
+- [Removing Elements from Lists in C# with RemoveAll](https://dev.to/moh_moh701/removing-elements-from-lists-in-c-with-removeall-1nnh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
