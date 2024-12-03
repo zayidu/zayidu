@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Select a WAF for New Webmasters&lpar;Part 1&rpar;](https://dev.to/carrie_luo1/how-to-select-a-waf-for-new-webmasterspart-1-l8g)
-- [[Boost]](https://dev.to/william123/-2224)
-- [Cloud Data Warehouse Challenges and Solutions for Successful Implementation](https://dev.to/piya__c204c9e90/cloud-data-warehouse-challenges-and-solutions-for-successful-implementation-43ao)
-- [How to Migrate Data from One SafeLine to the other](https://dev.to/carrie_luo1/how-to-migrate-data-from-one-safeline-to-the-other-3h42)
-- [How to Use Shadcn/UI in React.js](https://dev.to/velan/how-to-use-shadcnui-in-reactjs-6p6)
+- [LEGO-Based Platform Makes Robotics Research 90% Cheaper and More Accessible](https://dev.to/mikeyoung44/lego-based-platform-makes-robotics-research-90-cheaper-and-more-accessible-5e5k)
+- [Webdraw Alpha is Now Open to Everyone! Build apps as easily as you sketch. No waitlists, no limits—just start creating with your AI Smartboard. Access https://webdraw.com/](https://dev.to/webdraw/webdraw-alpha-is-now-open-to-everyone-build-apps-as-easily-as-you-sketch-no-waitlists-no-5foh)
+- [New AI Training Method Slashes GPU Communication Needs While Matching Top Performance](https://dev.to/mikeyoung44/new-ai-training-method-slashes-gpu-communication-needs-while-matching-top-performance-4ked)
+- [Backward Reasoning Boosts AI Performance: Simple Technique Improves Language Models Without Extra Training](https://dev.to/mikeyoung44/backward-reasoning-boosts-ai-performance-simple-technique-improves-language-models-without-extra-cdi)
+- [New Framework Reveals How to Monitor and Control AI Agents Built on Foundation Models](https://dev.to/mikeyoung44/new-framework-reveals-how-to-monitor-and-control-ai-agents-built-on-foundation-models-29ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
