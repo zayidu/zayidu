@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 1: Cross-Site Scripting &lpar;XSS&rpar; Series - Introduction to Cross-Site Scripting &lpar;XSS&rpar;](https://dev.to/trixsec/part-1-introduction-to-cross-site-scripting-xss-22g9)
-- [Setting Boundaries: Protecting Your Time and Focus ⏳](https://dev.to/harrisonphan9/setting-boundaries-protecting-your-time-and-focus-3b6d)
-- [10 Best JavaScript Minifier Tools to Boost Website Speed](https://dev.to/codeitbro/10-best-javascript-minifier-tools-to-boost-website-speed-1jk1)
-- [This is a simple app to capture your voice notes that auto transcribes the recordings, and optionally refines the transcriptions, using AI. This is a detailed guide on how to use Cloudflare Workers AI, along with other services to build this app.](https://dev.to/ra_jeeves/this-is-a-simple-app-to-capture-your-voice-notes-that-auto-transcribes-the-recordings-and-fk3)
-- [8 Best Mass Mailing Service Providers To Hit Their Inbox in 2025](https://dev.to/sam_devid_65bbbe34ab06c1a/8-best-mass-mailing-service-providers-to-hit-their-inbox-in-2025-217o)
+- [Best Project Portfolio Management Software: 3 Amazing Solutions for Project Teams](https://dev.to/thomasy0ung/best-project-portfolio-management-software-3-amazing-solutions-for-project-teams-2n3c)
+- [Mastering TypeScript Core Utility Types](https://dev.to/kristiyan_velkov/mastering-typescript-core-utility-types-23gd)
+- [My Fast-Track Journey into Programming](https://dev.to/respect17/my-fast-track-journey-into-programming-43n8)
+- [Generate stunning landscape images with Bylo.ai](https://dev.to/fredai/generate-stunning-landscape-images-with-byloai-2bk0)
+- [React native notificaions](https://dev.to/mucahitozcanx/react-native-notificaions-453p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
