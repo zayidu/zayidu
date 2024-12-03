@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Accessible Names in HTML](https://dev.to/ibn_abubakre/understanding-accessible-names-in-html-562)
-- [Exploring Decorators in Python](https://dev.to/atharvgyan/exploring-decorators-in-python-1pea)
-- [Maximize Your Web API Performance with ASP.NET Core 9.0: Proven Strategies and Best Practices](https://dev.to/leandroveiga/maximize-your-web-api-performance-with-aspnet-core-90-proven-strategies-and-best-practices-1d0m)
-- [Adapting to user motion and theme preferences with CSS and JavaScript](https://dev.to/logrocket/adapting-to-user-motion-and-theme-preferences-with-css-and-javascript-lj7)
-- [Is React as hard/complex as it sounds?](https://dev.to/_ndeyefatoudiop/is-react-as-hardcomplex-as-it-sounds-nfg)
+- [Understanding Python Syntax and Variables](https://dev.to/jeremycmorgan/understanding-python-syntax-and-variables-1m0m)
+- [0.4 - week - 2 - Progress](https://dev.to/krinskumar/04-week-2-progress-1i3d)
+- [Blazor and Single-Page Applications &lpar;SPA&rpar;](https://dev.to/dazevedo/blazor-and-single-page-applications-spa-5d8h)
+- [Matt Garman keynote takeways](https://dev.to/martinnanchev/matt-garman-keynote-takeways-3hjc)
+- [InstaMesh: Transforming Still Images into Dynamic Videos](https://dev.to/shannonlal/instamesh-transforming-still-images-into-dynamic-videos-2le0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
