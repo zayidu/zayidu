@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Optimus showed off new hands](https://dev.to/devsk001/tesla-optimus-showed-off-new-hands-1d49)
-- [What are some advanced array methods in JavaScript?](https://dev.to/hexa-home/what-are-some-advanced-array-methods-in-javascript-4e8d)
-- [🚀 Your Daily Crypto Job Digest For 03 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-03-december-6p5)
-- [Kubernetes CRDs: The Backbone of Kubernetes Extensibility](https://dev.to/jorgecontreras/kubernetes-crds-the-backbone-of-kubernetes-extensibility-pha)
-- [Testing Payment Gateways in BFSI Apps: A Comprehensive Guide](https://dev.to/abhayit2000/testing-payment-gateways-in-bfsi-apps-a-comprehensive-guide-2ddm)
+- [[Boost]](https://dev.to/rym_michaut/-4loi)
+- [Unleash Spring Boot&#39;s Scheduling Superpowers: Advanced Tricks for Dynamic Tasks](https://dev.to/aaravjoshi/unleash-spring-boots-scheduling-superpowers-advanced-tricks-for-dynamic-tasks-21h5)
+- [The ONLY CSS Guide You Will Need](https://dev.to/technoph1le/the-only-css-guide-you-will-need-1mb7)
+- [Fetch API Full Guide](https://dev.to/harshm03/fetch-api-full-guide-582m)
+- [Learn List in Java](https://dev.to/sarthaksachdeva90/what-is-stack-in-dsa-3160)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
