@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Monorepos vs Polyrepos: Which One Fits Your Workflow?](https://dev.to/web_dev-usman/monorepos-vs-polyrepos-which-one-fits-your-workflow-2agj)
-- [The Role of Explainable AI in Building Trust and Accountability](https://dev.to/jottyjohn/the-role-of-explainable-ai-in-building-trust-and-accountability-4j4p)
-- [React leaflet with other Kit](https://dev.to/aditya_dewangan_1b5ac4664/react-leaflet-with-other-kit-1og)
-- [The Importance of User-Centric Design in Software](https://dev.to/willowluxe/the-importance-of-user-centric-design-in-software-4b6a)
-- [Hi Everyone, I’m trying to decide between Magento and Shopify for my eCommerce platform, and I’m finding it challenging to choose the right one. I know both are powerful platforms, but I understand they cater to different business needs. #magento #shopify](https://dev.to/smart_data_/hi-everyone-im-trying-to-decide-between-magento-and-shopify-for-my-ecommerce-platform-and-im-3pd1)
+- [useMemo usage in Documenso, an open-source Docusign alternative.](https://dev.to/thinkthroo/usememo-usage-in-documenso-an-open-source-docusign-alternative-49d6)
+- [Building a Personal Portfolio Website Using HTML, CSS, and JavaScript ✨💻](https://dev.to/info_generalhazedawn_a3d/building-a-personal-portfolio-website-using-html-css-and-javascript-5d3e)
+- [Must Know Algorithms.](https://dev.to/nozibul_islam_113b1d5334f/must-know-algorithms-3735)
+- [L4-L7 Performance: Comparing LoxiLB, MetalLB, NGINX, HAProxy](https://dev.to/nikhilmalik/l4-l7-performance-comparing-loxilb-metallb-nginx-haproxy-1eh0)
+- [The never ending journey to find perfect home sharing solutions 🌐📱💻...](https://dev.to/nalayak_engineer/the-never-ending-journey-to-find-perfect-home-sharing-solutions-1g07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
