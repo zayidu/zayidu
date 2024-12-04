@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [useMemo usage in Documenso, an open-source Docusign alternative.](https://dev.to/thinkthroo/usememo-usage-in-documenso-an-open-source-docusign-alternative-49d6)
-- [Building a Personal Portfolio Website Using HTML, CSS, and JavaScript ✨💻](https://dev.to/info_generalhazedawn_a3d/building-a-personal-portfolio-website-using-html-css-and-javascript-5d3e)
-- [Must Know Algorithms.](https://dev.to/nozibul_islam_113b1d5334f/must-know-algorithms-3735)
-- [L4-L7 Performance: Comparing LoxiLB, MetalLB, NGINX, HAProxy](https://dev.to/nikhilmalik/l4-l7-performance-comparing-loxilb-metallb-nginx-haproxy-1eh0)
-- [The never ending journey to find perfect home sharing solutions 🌐📱💻...](https://dev.to/nalayak_engineer/the-never-ending-journey-to-find-perfect-home-sharing-solutions-1g07)
+- [Transformation numérique, quel impact sur la sécurité des entreprises ?](https://dev.to/jealelongext_bycn/transformation-numerique-quel-impact-sur-la-securite-des-entreprises--4ip4)
+- [What to Do When Facing an IP Ban](https://dev.to/swiftproxy9572/what-to-do-when-facing-an-ip-ban-2g54)
+- [The Future of AWS Certified Developers: Key Trends and Predictions](https://dev.to/piya__c204c9e90/the-future-of-aws-certified-developers-key-trends-and-predictions-1kif)
+- [SQL: Perform statistics at different granularities based on the time span of the data #85](https://dev.to/esproc_spl/sql-perform-statistics-at-different-granularities-based-on-the-time-span-of-the-data-85-59jm)
+- [Image Hosting Platforms to Use in 2025 for Your Next Project](https://dev.to/anuranjan87/image-hosting-platforms-to-use-in-2025-for-your-next-project-315j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
