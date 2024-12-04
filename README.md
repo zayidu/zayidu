@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Join us for the next Frontend Challenge: December Edition!](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-december-edition-187c)
-- [How to Use PySpark for Machine Learning](https://dev.to/shittu_olumide_/how-to-use-pyspark-for-machine-learning-62l)
-- [How to setup the favicon of a React app](https://dev.to/philippe/how-to-setup-the-favicon-of-a-react-app-1em3)
-- [Email and Web Design Trends for 2025: A Guide for HTML and CSS Developers](https://dev.to/andrianv5/email-and-web-design-trends-for-2025-a-guide-for-html-and-css-developers-17ga)
-- [Comprehensive Bash System Monitoring Script: Technical Breakdown](https://dev.to/nlankwei5/comprehensive-bash-system-monitoring-script-technical-breakdown-2jko)
+- [🗺 Remote Work](https://dev.to/oscareduardolp6/remote-work-476d)
+- [How Hedera calculates the HBAR / USD exchange rate for SDKs and applications](https://dev.to/hedera/how-hedera-calculates-the-hbar-usd-exchange-rate-for-sdks-and-applications-19nh)
+- [Strengthening Email Security: A Comprehensive Guide to SPF, DKIM, and DMARC Implementation](https://dev.to/roboword/strengthening-email-security-a-comprehensive-guide-to-spf-dkim-and-dmarc-implementation-3cm5)
+- [🗺 Trabajo remoto](https://dev.to/oscareduardolp6/trabajo-remoto-196)
+- [Recursive Development: The Hidden Cycle Hindering Progress](https://dev.to/extinctsion/recursive-development-the-hidden-cycle-hindering-progress-5eln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
