@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transformation numérique, quel impact sur la sécurité des entreprises ?](https://dev.to/jealelongext_bycn/transformation-numerique-quel-impact-sur-la-securite-des-entreprises--4ip4)
-- [What to Do When Facing an IP Ban](https://dev.to/swiftproxy9572/what-to-do-when-facing-an-ip-ban-2g54)
-- [The Future of AWS Certified Developers: Key Trends and Predictions](https://dev.to/piya__c204c9e90/the-future-of-aws-certified-developers-key-trends-and-predictions-1kif)
-- [SQL: Perform statistics at different granularities based on the time span of the data #85](https://dev.to/esproc_spl/sql-perform-statistics-at-different-granularities-based-on-the-time-span-of-the-data-85-59jm)
-- [Image Hosting Platforms to Use in 2025 for Your Next Project](https://dev.to/anuranjan87/image-hosting-platforms-to-use-in-2025-for-your-next-project-315j)
+- [Day 1 Object &amp; Class](https://dev.to/pavitra_aravind_3d319916a/day-1-object-class-ddn)
+- [The Future of Software Development: Trends to Watch Over the Next Five Years](https://dev.to/trev_the_dev/the-future-of-software-development-trends-to-watch-over-the-next-five-years-3foh)
+- [5 Effective Strategies to Reduce Chargebacks and Payment Disputes](https://dev.to/lspsolutions/5-effective-strategies-to-reduce-chargebacks-and-payment-disputes-16n1)
+- [How to Integrate OpenAPI into Your ASP.NET Core Projects with .NET 9](https://dev.to/bytehide/how-to-integrate-openapi-into-your-aspnet-core-projects-with-net-9-399a)
+- [DBA Considered Harmful](https://dev.to/adammetis/dba-considered-harmful-1e3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
