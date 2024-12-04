@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 4: ASCII Art Fonts 🖋️](https://dev.to/valeriavg/day-4-ascii-art-fonts-46kh)
-- [Welcome Thread - v305](https://dev.to/devteam/welcome-thread-v305-398)
-- [[Boost]](https://dev.to/govardhana/-49p0)
-- [How gRPC Works](https://dev.to/vipulkumarsviit/how-grpc-works-5c6h)
-- [Why I Built scrum.host: A Free Tool for Planning Poker and Retrospectives](https://dev.to/chandl/why-i-built-scrumhost-a-free-tool-for-planning-poker-and-retrospectives-27i6)
+- [Monorepos vs Polyrepos: Which One Fits Your Workflow?](https://dev.to/web_dev-usman/monorepos-vs-polyrepos-which-one-fits-your-workflow-2agj)
+- [The Role of Explainable AI in Building Trust and Accountability](https://dev.to/jottyjohn/the-role-of-explainable-ai-in-building-trust-and-accountability-4j4p)
+- [React leaflet with other Kit](https://dev.to/aditya_dewangan_1b5ac4664/react-leaflet-with-other-kit-1og)
+- [The Importance of User-Centric Design in Software](https://dev.to/willowluxe/the-importance-of-user-centric-design-in-software-4b6a)
+- [Hi Everyone, I’m trying to decide between Magento and Shopify for my eCommerce platform, and I’m finding it challenging to choose the right one. I know both are powerful platforms, but I understand they cater to different business needs. #magento #shopify](https://dev.to/smart_data_/hi-everyone-im-trying-to-decide-between-magento-and-shopify-for-my-ecommerce-platform-and-im-3pd1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
