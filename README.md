@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Rails 8: Introducing the Built-in Authentication Generator](https://dev.to/jetthoughts/rails-8-introducing-the-built-in-authentication-generator-1l77)
+- [The Memes of the day](https://dev.to/hanzla-baig/the-memes-of-the-day-1c1m)
+- [Stanford&#39;s Hidden Gem: A Deep Dive into Differential Geometry for Computer Scientists](https://dev.to/getvm/stanfords-hidden-gem-a-deep-dive-into-differential-geometry-for-computer-scientists-1nh9)
+- [Kho tài liệu dự án &lpar;cả docs và code&rpar;](https://dev.to/longtth/kho-tai-lieu-du-an-ca-docs-va-code-ca6)
 - [The Future of Data Lies in Transformer Models vs. Big Data Transformations](https://dev.to/seatunnel/the-future-of-data-lies-in-transformer-models-vs-big-data-transformations-13i5)
-- [Building DuitWise: A Personal Financial Management Solution for Malaysia](https://dev.to/irfanghapar/building-duitwise-a-personal-financial-management-solution-for-malaysia-8n1)
-- [IntaLink Community: Exploring the Open Source New Power of Data Table Relationship Automatic Analysis Platform](https://dev.to/intalink/play-with-intalink-community-exploring-the-open-source-new-power-of-data-table-relationship-d3e)
-- [7 Mind-Blowing Truths About Artificial Intelligence](https://dev.to/timesofasi/7-mind-blowing-truths-about-artificial-intelligence-2k1k)
-- [Learn with Lumi: Innovative K-12 Education Made Engaging and Effortless](https://dev.to/evanmarie/learn-with-lumi-innovative-k-12-education-made-engaging-and-effortless-4i5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
