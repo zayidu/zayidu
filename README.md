@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Application Security: Implementing Authorization with OpenFGA](https://dev.to/afzal442/enhancing-application-security-implementing-authorization-with-openfga-38mh)
-- [Database Learning Resources: Your Roadmap to Data Mastery](https://dev.to/getvm/database-learning-resources-your-roadmap-to-data-mastery-29c1)
-- [Unpopular Opinion: TypeScript is Overrated &lpar;Or Is It?&rpar;](https://dev.to/balrajola/unpopular-opinion-typescript-is-overrated-or-is-it-o31)
-- [Resolving Dependency Error in a Next.js 15 and Payload CMS 3 Project](https://dev.to/ashujojo/resolving-dependency-error-in-a-nextjs-15-and-payload-cms-3-project-1dgo)
-- [Subquery in Oracle SQL](https://dev.to/mrcaption49/subquery-in-oracle-sql-47od)
+- [Creating a Server and Connecting to MSSQL](https://dev.to/kishan45/creating-a-server-and-connecting-to-mssql-4hd7)
+- [creating a server and connecting it to a database like MongoDB](https://dev.to/kishan45/creating-a-server-and-connecting-it-to-a-database-like-mongodb-5e17)
+- [Engineering of Small Things #1 : Email Newsletters](https://dev.to/siren/engineering-of-small-things-1-email-newsletters-18gh)
+- [Functional Programming in Angular: Exploring inject and Resources](https://dev.to/danielsogl/functional-programming-in-angular-exploring-inject-and-resources-d4b)
+- [Top cloud migration pitfalls and how to dodge them like a Pro](https://dev.to/briansuarezsantiago/top-cloud-migration-pitfalls-and-how-to-dodge-them-like-a-pro-1086)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
