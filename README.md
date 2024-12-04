@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rails 8: Introducing the Built-in Authentication Generator](https://dev.to/jetthoughts/rails-8-introducing-the-built-in-authentication-generator-1l77)
-- [The Memes of the day](https://dev.to/hanzla-baig/the-memes-of-the-day-1c1m)
-- [Stanford&#39;s Hidden Gem: A Deep Dive into Differential Geometry for Computer Scientists](https://dev.to/getvm/stanfords-hidden-gem-a-deep-dive-into-differential-geometry-for-computer-scientists-1nh9)
-- [Kho tài liệu dự án &lpar;cả docs và code&rpar;](https://dev.to/longtth/kho-tai-lieu-du-an-ca-docs-va-code-ca6)
-- [The Future of Data Lies in Transformer Models vs. Big Data Transformations](https://dev.to/seatunnel/the-future-of-data-lies-in-transformer-models-vs-big-data-transformations-13i5)
+- [Top 10 Best Practices for Upgrading Angular Applications to the Latest Version](https://dev.to/dhruvil_joshi14/top-10-best-practices-for-upgrading-angular-applications-to-the-latest-version-2n9n)
+- [Javier Milei - President of Argentina - Freedom, Economics, and Corruption | Lex Fridman Podcast](https://dev.to/podextra/javier-milei-president-of-argentina-freedom-economics-and-corruption-lex-fridman-podcast-24dk)
+- [How podcasts deeply involve in the US presidential election | Left - Right](https://dev.to/podextra/how-podcasts-deeply-involve-in-the-us-presidential-election-left-right-5268)
+- [re-posting...](https://dev.to/highcenburg/re-posting-5938)
+- [How can I enforce MFA before switching roles and using SSM login in AWS?](https://dev.to/viraj_sardhana_d1bfa82bc9/how-can-i-enforce-mfa-before-switching-roles-and-using-ssm-login-in-aws-2lm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
