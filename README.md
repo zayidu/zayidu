@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an actionable ⚡️ GitHub account with these open-source projects 👩🏻‍💻](https://dev.to/fast/building-an-actionable-github-account-with-these-open-source-projects-1fo3)
-- [Programmers&#39; workplaces always have a special vibe 😍](https://dev.to/itdevus/programmers-workplaces-always-have-a-special-vibe-2gal)
-- [How to deploy QwQ 32B Preview in the Cloud?](https://dev.to/nodeshiftcloud/how-to-deploy-qwq-32b-preview-in-the-cloud-3jh4)
-- [Creating an AWS CodeCommit Repository That Triggers Email Notifications.](https://dev.to/ameh_mathias/creating-an-aws-codecommit-repository-thattriggers-email-notifications-3jj3)
-- [Exploring the Potential of 5G in Android Apps 📱🚀](https://dev.to/hexadecimalsoftware/exploring-the-potential-of-5g-in-android-apps-1i72)
+- [Testing Different Navigation Options with Compose](https://dev.to/eevajonnapanula/testing-different-navigation-options-with-compose-4055)
+- [SOLID Design Principles](https://dev.to/mofshamim/solid-design-principles-3jjg)
+- [Why Hybrid is Best for IDPs](https://dev.to/roadie/why-hybrid-is-best-for-idps-53k7)
+- [👑 UX Research Gold, HTML Secrets &amp; 1500+ Free Templates!](https://dev.to/adam/ux-research-gold-html-secrets-1500-free-templates-14h2)
+- [Mastering AWS Management &amp; Governance: Tools for a Seamless Cloud Journey](https://dev.to/omobolaji_25/mastering-aws-management-governance-tools-for-a-seamless-cloud-journey-57im)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
