@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OS Security and Passwords 🔐: Protect Your Digital Universe! 🛡️](https://dev.to/enzo_dechaene/os-security-and-passwords-protect-your-digital-universe-5dni)
-- [Chaining LINQ Methods in C#: Why Order Matters](https://dev.to/moh_moh701/chaining-linq-methods-in-c-why-order-matters-3dln)
-- [ChromaDB for the SQL Mind](https://dev.to/aditya47x/chromadb-for-the-sql-mind-1b00)
-- [52/365 | ¥10M Job Challenge - Good night or good morning?](https://dev.to/kameken100/52365-y10m-job-challenge-good-night-or-good-morning-44f6)
-- [Speeding up ECS containers with SOCI](https://dev.to/aws-builders/speeding-up-ecs-containers-with-soci-5g5c)
+- [Just Your Type: Swiping Right On JavaScript and TypeScript](https://dev.to/nicole_santiago_a92dfb3d5/just-your-type-choosing-between-javascript-and-typescript-1495)
+- [OOP - Abstraction](https://dev.to/sivan2503/oop-abstraction-295k)
+- [Issue 72 &amp; 73 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-72-73-of-aws-cloud-security-weekly-2ic8)
+- [Is this thing on?](https://dev.to/jhitze/is-this-thing-on-20k4)
+- [Terminology from Software Development &amp; Operations](https://dev.to/nyong_godwill_e7dfb3c04a7/terminology-from-software-development-operations-1ahn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
