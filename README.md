@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [There are decades where nothing happens; and there are weeks where decades happen. Sometimes life feels this way 🙂](https://dev.to/srbhr/there-are-decades-where-nothing-happens-and-there-are-weeks-where-decades-happen-sometimes-life-3ieg)
-- [How to Change Account Password in Windows 11?](https://dev.to/win11verse/how-to-change-account-password-in-windows-11-5ac5)
-- [Accelerating Legacy Workload Transformation with Amazon Q Developer](https://dev.to/hrudu-shibu-tech/accelerating-legacy-workload-transformation-with-amazon-q-developer-2fi5)
-- [[Boost]](https://dev.to/lindiwe09/-o2d)
-- [AWS Integration &amp; Messaging: A Recipe for Resilience](https://dev.to/lindiwe09/aws-integration-messaging-a-recipe-for-resilience-pcl)
+- [Building an actionable ⚡️ GitHub account with these open-source projects 👩🏻‍💻](https://dev.to/fast/building-an-actionable-github-account-with-these-open-source-projects-1fo3)
+- [Programmers&#39; workplaces always have a special vibe 😍](https://dev.to/itdevus/programmers-workplaces-always-have-a-special-vibe-2gal)
+- [How to deploy QwQ 32B Preview in the Cloud?](https://dev.to/nodeshiftcloud/how-to-deploy-qwq-32b-preview-in-the-cloud-3jh4)
+- [Creating an AWS CodeCommit Repository That Triggers Email Notifications.](https://dev.to/ameh_mathias/creating-an-aws-codecommit-repository-thattriggers-email-notifications-3jj3)
+- [Exploring the Potential of 5G in Android Apps 📱🚀](https://dev.to/hexadecimalsoftware/exploring-the-potential-of-5g-in-android-apps-1i72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
