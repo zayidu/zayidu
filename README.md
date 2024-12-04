@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 Object &amp; Class](https://dev.to/pavitra_aravind_3d319916a/day-1-object-class-ddn)
-- [The Future of Software Development: Trends to Watch Over the Next Five Years](https://dev.to/trev_the_dev/the-future-of-software-development-trends-to-watch-over-the-next-five-years-3foh)
-- [5 Effective Strategies to Reduce Chargebacks and Payment Disputes](https://dev.to/lspsolutions/5-effective-strategies-to-reduce-chargebacks-and-payment-disputes-16n1)
-- [How to Integrate OpenAPI into Your ASP.NET Core Projects with .NET 9](https://dev.to/bytehide/how-to-integrate-openapi-into-your-aspnet-core-projects-with-net-9-399a)
-- [DBA Considered Harmful](https://dev.to/adammetis/dba-considered-harmful-1e3h)
+- [There are decades where nothing happens; and there are weeks where decades happen. Sometimes life feels this way 🙂](https://dev.to/srbhr/there-are-decades-where-nothing-happens-and-there-are-weeks-where-decades-happen-sometimes-life-3ieg)
+- [How to Change Account Password in Windows 11?](https://dev.to/win11verse/how-to-change-account-password-in-windows-11-5ac5)
+- [Accelerating Legacy Workload Transformation with Amazon Q Developer](https://dev.to/hrudu-shibu-tech/accelerating-legacy-workload-transformation-with-amazon-q-developer-2fi5)
+- [[Boost]](https://dev.to/lindiwe09/-o2d)
+- [AWS Integration &amp; Messaging: A Recipe for Resilience](https://dev.to/lindiwe09/aws-integration-messaging-a-recipe-for-resilience-pcl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
