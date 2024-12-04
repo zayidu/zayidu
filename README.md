@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is there a better time to learn Docker than right before Christmas? I don&#39;t think so 🎄 Check out this series if you want to learn it!](https://dev.to/wimadev/is-there-a-better-time-to-learn-docker-than-right-before-christmas-i-dont-think-so-check-out-nmp)
-- [Your journey to become a Docker Hero starts today! 🚀🚀](https://dev.to/thecodingthesi/your-journey-to-become-a-docker-hero-starts-today-16a5)
-- [Finally getting into it! Learn how to create your first docker image and container 🎄🐳](https://dev.to/code42cate/finally-getting-into-it-learn-how-to-create-your-first-docker-image-and-container-5588)
-- [Day 4: Your first Container](https://dev.to/code42cate/advent-of-docker-day-4-your-first-container-bhj)
-- [https://medium.com/@oriakhivictor7/revolutionizing-healthcare-the-role-of-robotics-ai-and-iot-in-modern-medicine-2ac732cbcfbc](https://dev.to/victor_oriakhi_f49bb153e8/-12ld)
+- [Kubernetes Incident Response: What You Must Know Now!](https://dev.to/debcloud/kubernetes-incident-response-what-you-must-know-now-31gk)
+- [Заметка из жизни: пример работы тейкера в обновленном атомарном свопе](https://dev.to/laruh/zamietka-iz-zhizni-primier-raboty-tieikiera-v-obnovliennom-atomarnom-svopie-544g)
+- [7 ChatGPT-Powered Tips for Writing the Perfect Resume](https://dev.to/timesofasi/7-chatgpt-powered-tips-for-writing-the-perfect-resume-bb)
+- [Transform Any Image into a Sketch with Python 🚀](https://dev.to/blamsa0mine/transform-any-image-into-a-sketch-with-python-3ba)
+- [From Code to Impact](https://dev.to/rajat-nayak/from-code-to-impact-4abn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
