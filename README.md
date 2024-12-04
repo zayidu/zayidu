@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom “Read More” to Clipped Lines of Text with JavaScript – And Full Custom Code for You](https://dev.to/tomj/custom-read-more-to-clipped-lines-of-text-with-javascript-and-full-custom-code-for-you-593g)
-- [[Boost]](https://dev.to/franky47/-1dl8)
-- [Exploring Machine Learning for Credit Card Fraud Detection](https://dev.to/ogambakerubo/exploring-machine-learning-for-credit-card-fraud-detection-27o4)
-- [The Progress](https://dev.to/aldrin312/the-progress-kd2)
-- [Por onde anda o WPF?](https://dev.to/darioprazeres/por-onde-anda-o-wpf-3he)
+- [The Future of Data Lies in Transformer Models vs. Big Data Transformations](https://dev.to/seatunnel/the-future-of-data-lies-in-transformer-models-vs-big-data-transformations-13i5)
+- [Building DuitWise: A Personal Financial Management Solution for Malaysia](https://dev.to/irfanghapar/building-duitwise-a-personal-financial-management-solution-for-malaysia-8n1)
+- [IntaLink Community: Exploring the Open Source New Power of Data Table Relationship Automatic Analysis Platform](https://dev.to/intalink/play-with-intalink-community-exploring-the-open-source-new-power-of-data-table-relationship-d3e)
+- [7 Mind-Blowing Truths About Artificial Intelligence](https://dev.to/timesofasi/7-mind-blowing-truths-about-artificial-intelligence-2k1k)
+- [Learn with Lumi: Innovative K-12 Education Made Engaging and Effortless](https://dev.to/evanmarie/learn-with-lumi-innovative-k-12-education-made-engaging-and-effortless-4i5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
