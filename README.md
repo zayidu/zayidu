@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Server and Connecting to MSSQL](https://dev.to/kishan45/creating-a-server-and-connecting-to-mssql-4hd7)
-- [creating a server and connecting it to a database like MongoDB](https://dev.to/kishan45/creating-a-server-and-connecting-it-to-a-database-like-mongodb-5e17)
-- [Engineering of Small Things #1 : Email Newsletters](https://dev.to/siren/engineering-of-small-things-1-email-newsletters-18gh)
-- [Functional Programming in Angular: Exploring inject and Resources](https://dev.to/danielsogl/functional-programming-in-angular-exploring-inject-and-resources-d4b)
-- [Top cloud migration pitfalls and how to dodge them like a Pro](https://dev.to/briansuarezsantiago/top-cloud-migration-pitfalls-and-how-to-dodge-them-like-a-pro-1086)
+- [ChromaDB for the SQL Mind](https://dev.to/aditya47x/chromadb-for-the-sql-mind-1b00)
+- [52/365 | ¥10M Job Challenge - Good night or good morning?](https://dev.to/kameken100/52365-y10m-job-challenge-good-night-or-good-morning-44f6)
+- [Speeding up ECS containers with SOCI](https://dev.to/aws-builders/speeding-up-ecs-containers-with-soci-5g5c)
+- [Exploring the Use of Java for Game Development](https://dev.to/david_tevzadze_/exploring-the-use-of-java-for-game-development-5a12)
+- [Announcements from Dr. Swami Sivasubramanian Keynote at re:Invent 2024](https://dev.to/aws-builders/announcements-from-dr-swami-sivasubramanian-keynote-at-reinvent-2024-1bdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
