@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Incident Response: What You Must Know Now!](https://dev.to/debcloud/kubernetes-incident-response-what-you-must-know-now-31gk)
-- [Заметка из жизни: пример работы тейкера в обновленном атомарном свопе](https://dev.to/laruh/zamietka-iz-zhizni-primier-raboty-tieikiera-v-obnovliennom-atomarnom-svopie-544g)
-- [7 ChatGPT-Powered Tips for Writing the Perfect Resume](https://dev.to/timesofasi/7-chatgpt-powered-tips-for-writing-the-perfect-resume-bb)
-- [Transform Any Image into a Sketch with Python 🚀](https://dev.to/blamsa0mine/transform-any-image-into-a-sketch-with-python-3ba)
-- [From Code to Impact](https://dev.to/rajat-nayak/from-code-to-impact-4abn)
+- [Join us for the next Frontend Challenge: December Edition!](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-december-edition-187c)
+- [How to Use PySpark for Machine Learning](https://dev.to/shittu_olumide_/how-to-use-pyspark-for-machine-learning-62l)
+- [How to setup the favicon of a React app](https://dev.to/philippe/how-to-setup-the-favicon-of-a-react-app-1em3)
+- [Email and Web Design Trends for 2025: A Guide for HTML and CSS Developers](https://dev.to/andrianv5/email-and-web-design-trends-for-2025-a-guide-for-html-and-css-developers-17ga)
+- [Comprehensive Bash System Monitoring Script: Technical Breakdown](https://dev.to/nlankwei5/comprehensive-bash-system-monitoring-script-technical-breakdown-2jko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
