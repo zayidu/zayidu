@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Thanks again everyone :D](https://dev.to/best_codes/thanks-again-everyone-d-2m7o)
-- [Introducción a la Infraestructura como Código &lpar;IaC&rpar; con AWS CloudFormation](https://dev.to/briansuarezsantiago/introduccion-a-la-infraestructura-como-codigo-iac-con-aws-cloudformation-499g)
-- [Building a Real-Time Financial Market Analyst API with LLMs](https://dev.to/carterharrison/building-a-real-time-financial-market-analyst-api-with-llms-3bml)
-- [⛈️ Cloud Penetration Testing: A Practical Guide to Securing Your Cloud Infrastructure](https://dev.to/nolunchbreaks_22/cloud-penetration-testing-a-practical-guide-to-securing-your-cloud-infrastructure-554c)
-- [Mastering Salesforce Annotations: A Guide to Smarter Development](https://dev.to/jamie4190/mastering-salesforce-annotations-a-guide-to-smarter-development-mo0)
+- [Custom “Read More” to Clipped Lines of Text with JavaScript – And Full Custom Code for You](https://dev.to/tomj/custom-read-more-to-clipped-lines-of-text-with-javascript-and-full-custom-code-for-you-593g)
+- [[Boost]](https://dev.to/franky47/-1dl8)
+- [Exploring Machine Learning for Credit Card Fraud Detection](https://dev.to/ogambakerubo/exploring-machine-learning-for-credit-card-fraud-detection-27o4)
+- [The Progress](https://dev.to/aldrin312/the-progress-kd2)
+- [Por onde anda o WPF?](https://dev.to/darioprazeres/por-onde-anda-o-wpf-3he)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
