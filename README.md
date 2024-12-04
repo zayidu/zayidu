@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [OS Security and Passwords 🔐: Protect Your Digital Universe! 🛡️](https://dev.to/enzo_dechaene/os-security-and-passwords-protect-your-digital-universe-5dni)
+- [Chaining LINQ Methods in C#: Why Order Matters](https://dev.to/moh_moh701/chaining-linq-methods-in-c-why-order-matters-3dln)
 - [ChromaDB for the SQL Mind](https://dev.to/aditya47x/chromadb-for-the-sql-mind-1b00)
 - [52/365 | ¥10M Job Challenge - Good night or good morning?](https://dev.to/kameken100/52365-y10m-job-challenge-good-night-or-good-morning-44f6)
 - [Speeding up ECS containers with SOCI](https://dev.to/aws-builders/speeding-up-ecs-containers-with-soci-5g5c)
-- [Exploring the Use of Java for Game Development](https://dev.to/david_tevzadze_/exploring-the-use-of-java-for-game-development-5a12)
-- [Announcements from Dr. Swami Sivasubramanian Keynote at re:Invent 2024](https://dev.to/aws-builders/announcements-from-dr-swami-sivasubramanian-keynote-at-reinvent-2024-1bdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
