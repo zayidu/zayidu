@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [End Of Series: Mastering Cross-Site Scripting &lpar;XSS&rpar;](https://dev.to/trixsec/end-of-series-mastering-cross-site-scripting-xss-328c)
-- [Part 10: Cross-Site Scripting &lpar;XSS&rpar; Series - The Future of XSS: Evolving Techniques and Defenses.](https://dev.to/trixsec/part-10-cross-site-scripting-xss-series-the-future-of-xss-evolving-techniques-and-defenses-3835)
-- [Part 9: Cross-Site Scripting &lpar;XSS&rpar; Series - Real-World XSS Case Studies – Notable Breaches and Lessons Learned](https://dev.to/trixsec/part-9-cross-site-scripting-xss-series-real-world-xss-case-studies-notable-breaches-and-4d9c)
-- [2825. Make String a Subsequence Using Cyclic Increments](https://dev.to/mdarifulhaque/2825-make-string-a-subsequence-using-cyclic-increments-4c8a)
-- [You Have to Write - using real paper](https://dev.to/wagner_souto_7a6c4344b0ea/you-have-to-write-using-real-paper-5h4d)
+- [Top AI Search Engines for Business &amp; Startups in 2025](https://dev.to/swirl/top-ai-search-engines-for-business-startups-in-2025-49jo)
+- [Rack for Ruby: Socket Hijacking](https://dev.to/appsignal/rack-for-ruby-socket-hijacking-1ken)
+- [Deine erste Website - hier sind die wichtigsten 8 praktischen Tipps!](https://dev.to/per-starke-642/deine-erste-website-hier-sind-die-wichtigsten-8-praktischen-tipps-27f4)
+- [🚀 Your Daily Crypto Job Digest For 04 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-04-december-1ahk)
+- [Build a Web App in 5 Minutes with V0 AI by Vercel](https://dev.to/proflead/build-a-web-app-in-5-minutes-with-v0-ai-by-vercel-1j34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
