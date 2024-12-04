@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top AI Search Engines for Business &amp; Startups in 2025](https://dev.to/swirl/top-ai-search-engines-for-business-startups-in-2025-49jo)
-- [Rack for Ruby: Socket Hijacking](https://dev.to/appsignal/rack-for-ruby-socket-hijacking-1ken)
-- [Deine erste Website - hier sind die wichtigsten 8 praktischen Tipps!](https://dev.to/per-starke-642/deine-erste-website-hier-sind-die-wichtigsten-8-praktischen-tipps-27f4)
-- [🚀 Your Daily Crypto Job Digest For 04 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-04-december-1ahk)
-- [Build a Web App in 5 Minutes with V0 AI by Vercel](https://dev.to/proflead/build-a-web-app-in-5-minutes-with-v0-ai-by-vercel-1j34)
+- [Is there a better time to learn Docker than right before Christmas? I don&#39;t think so 🎄 Check out this series if you want to learn it!](https://dev.to/wimadev/is-there-a-better-time-to-learn-docker-than-right-before-christmas-i-dont-think-so-check-out-nmp)
+- [Your journey to become a Docker Hero starts today! 🚀🚀](https://dev.to/thecodingthesi/your-journey-to-become-a-docker-hero-starts-today-16a5)
+- [Finally getting into it! Learn how to create your first docker image and container 🎄🐳](https://dev.to/code42cate/finally-getting-into-it-learn-how-to-create-your-first-docker-image-and-container-5588)
+- [Day 4: Your first Container](https://dev.to/code42cate/advent-of-docker-day-4-your-first-container-bhj)
+- [https://medium.com/@oriakhivictor7/revolutionizing-healthcare-the-role-of-robotics-ai-and-iot-in-modern-medicine-2ac732cbcfbc](https://dev.to/victor_oriakhi_f49bb153e8/-12ld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
