@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Stimulus: Custom Action Options](https://dev.to/railsdesigner/advanced-stimulus-custom-action-options-2ljo)
-- [Debugging Kubernetes cluster part 2](https://dev.to/sadeek_m/debugging-kubernetes-cluster-part-2-7c0)
-- [GPT-5: Release Date, Features &amp; Everything You Need to Know](https://dev.to/lina_lam_9ee459f98b67e9d5/gpt-5-release-date-features-everything-you-need-to-know-152)
-- [GPT-5: Release Date, Features &amp; Everything You Need to Know](https://dev.to/lina_lam_9ee459f98b67e9d5/gpt-5-release-date-features-everything-you-need-to-know-2a9b)
-- [Cloud Security for DevOps Teams](https://dev.to/rednexie/cloud-security-for-devops-teams-3b9e)
+- [Debugging failed builds with Netlify](https://dev.to/netlify/debugging-failed-builds-with-netlify-554p)
+- [Cybersecurity Best Practices for Cloud Applications](https://dev.to/rednexie/cybersecurity-best-practices-for-cloud-applications-21am)
+- [Lucene and I](https://dev.to/erikhatcher/lucene-and-i-2cgo)
+- [Stack: Concepts and Applications — Java](https://dev.to/alex_ricciardi/stack-concepts-and-applications-java-aod)
+- [Edge AI for Cybersecurity](https://dev.to/rednexie/edge-ai-for-cybersecurity-2448)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
