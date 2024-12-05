@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Just Your Type: Swiping Right On JavaScript and TypeScript](https://dev.to/nicole_santiago_a92dfb3d5/just-your-type-choosing-between-javascript-and-typescript-1495)
-- [OOP - Abstraction](https://dev.to/sivan2503/oop-abstraction-295k)
-- [Issue 72 &amp; 73 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-72-73-of-aws-cloud-security-weekly-2ic8)
-- [Is this thing on?](https://dev.to/jhitze/is-this-thing-on-20k4)
-- [Terminology from Software Development &amp; Operations](https://dev.to/nyong_godwill_e7dfb3c04a7/terminology-from-software-development-operations-1ahn)
+- [Resolving the `DO $$` Issue in Drizzle ORM with Nile Postgres](https://dev.to/jacksonkasi/resolving-the-do-issue-in-drizzle-orm-with-nile-postgres-1lni)
+- [Database Indexing: A Comprehensive Guide for All Levels](https://dev.to/iamcymentho/database-indexing-a-comprehensive-guide-for-all-levels-1b3m)
+- [Is Python Still the King of Data Science?](https://dev.to/lonare/is-python-still-the-king-of-data-science-55n)
+- [Transformando AppImage &quot;em um app instalado&quot;](https://dev.to/altencirsilvajr/transformando-appimage-em-um-app-instalado-3lg0)
+- [Building a Real-Time Collaborative Text Editor with Slate.js](https://dev.to/priolo/building-a-real-time-collaborative-text-editor-with-slatejs-30n2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
