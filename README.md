@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OTP Generator with Verification in HTML CSS and JavaScript](https://dev.to/sharathchandark/otp-generator-with-verification-in-html-css-and-javascript-13im)
-- [Flow Matching Speeds Up AI Image Generation While Boosting Quality](https://dev.to/mikeyoung44/flow-matching-speeds-up-ai-image-generation-while-boosting-quality-2jbd)
-- [AI Breakthrough: Context Analysis Boosts Visual Puzzle-Solving Accuracy to 76%](https://dev.to/mikeyoung44/ai-breakthrough-context-analysis-boosts-visual-puzzle-solving-accuracy-to-76-33i7)
-- [How to Mock APIs in 40s and Build Frontend Apps 10x Faster](https://dev.to/ismailkamil/how-to-mock-apis-in-40s-and-build-frontend-apps-10x-faster-4d3i)
-- [A Visual Guide to Affine Transformations: Translation, Scaling, Rotation, and Shear](https://dev.to/tuttelikz/a-visual-guide-to-affine-transformations-translation-scaling-rotation-and-shear-5hhp)
+- [TensorFlow Learning Paths: Free Online Resources for AI Enthusiasts](https://dev.to/getvm/tensorflow-learning-paths-free-online-resources-for-ai-enthusiasts-45hb)
+- [Brain debugging. Interview with Anders Schau Knatten, author of &quot;C++ Brain Teasers: Exercise Your Mind&quot;](https://dev.to/pvsdev/brain-debugging-interview-with-anders-schau-knatten-author-of-c-brain-teasers-exercise-your-4o0i)
+- [Exception Handling in Java](https://dev.to/bharath_vasishtha/exception-handling-in-java-564o)
+- [day 3 task](https://dev.to/v_inoth_f0fad29baec4c/day-3-task-3nl5)
+- [I counted, it&#39;s really 40 lines of code!](https://dev.to/david-723/i-counted-its-really-40-lines-of-code-3k6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
