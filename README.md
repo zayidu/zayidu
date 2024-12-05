@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TensorFlow Learning Paths: Free Online Resources for AI Enthusiasts](https://dev.to/getvm/tensorflow-learning-paths-free-online-resources-for-ai-enthusiasts-45hb)
-- [Brain debugging. Interview with Anders Schau Knatten, author of &quot;C++ Brain Teasers: Exercise Your Mind&quot;](https://dev.to/pvsdev/brain-debugging-interview-with-anders-schau-knatten-author-of-c-brain-teasers-exercise-your-4o0i)
-- [Exception Handling in Java](https://dev.to/bharath_vasishtha/exception-handling-in-java-564o)
-- [day 3 task](https://dev.to/v_inoth_f0fad29baec4c/day-3-task-3nl5)
-- [I counted, it&#39;s really 40 lines of code!](https://dev.to/david-723/i-counted-its-really-40-lines-of-code-3k6b)
+- [How to install PHP 8.3 with OCI8 on Laragon](https://dev.to/syahzul/how-to-install-php-83-with-oci8-on-laragon-3bjg)
+- [Understanding Why You Shouldn’t Defragment an SSD](https://dev.to/thenexttech/understanding-why-you-shouldnt-defragment-an-ssd-2me)
+- [Exploring the New HybridWebView for MAUI 9](https://dev.to/tmcd054/exploring-the-new-hybridwebview-for-maui-9-25i9)
+- [What is Cloud Risk Management?](https://dev.to/shivamchamoli18/what-is-cloud-risk-management-379h)
+- [Difference between http and https](https://dev.to/precious_eniola_63a79a597/difference-between-http-and-https-387a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
