@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Text Processing with Grep, Sed, Awk, Cut, and Sort](https://dev.to/imkrunalkanojiya/mastering-text-processing-with-grep-sed-awk-cut-and-sort-3inj)
 - [Dolphinscheduler DAG Core Source Code Analysis](https://dev.to/chen_debra_3060b21d12b1b0/dolphinscheduler-dag-core-source-code-analysis-95i)
 - [SQL: ROW_NUMBER, RANK and DENSE_RANK](https://dev.to/anwaar/sql-rownumber-rank-and-denserank-7ik)
 - [The Memes Of The Day](https://dev.to/hanzla-baig/the-memes-of-the-day-onf)
 - [#111 — Sort in Group](https://dev.to/judith677/111-sort-in-group-55m0)
-- [Username and Password Authentication with Better_Auth, Next.js, Prisma, Shadcn, and TailwindCSS](https://dev.to/daanish2003/username-and-password-authentication-with-betterauth-nextjs-prisma-shadcn-and-tailwindcss-1hc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
