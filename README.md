@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Simple Chatbot with Svelte and ElizaBot](https://dev.to/blamsa0mine/build-a-simple-chatbot-with-svelte-and-elizabot-573m)
+- [Don&#39;t miss out on these AI tools!](https://dev.to/hosseinyazdi/dont-miss-out-on-these-ai-tools-43dj)
+- [Error: cannot mix str with &lpar;non-str&rpar; arguments](https://dev.to/ngregistrations/error-cannot-mix-str-with-non-str-arguments-4o64)
 - [AI Travel Planner app built with Next.js 15, Tailwind CSS, Prisma, Open AI, and Clerk.](https://dev.to/saidmounaim/ai-travel-planner-app-built-with-nextjs-15-tailwind-css-prisma-open-ai-and-clerk-2396)
 - [VSCode Extension to Simplify Code Collaboration and Sharing](https://dev.to/zaur_ibrahimov/vscode-extension-to-simplify-code-collaboration-and-sharing-bm6)
-- [Diseño de Interfaz de Usuario &lpar;UI&rpar;: Una Guía para Desarrolladores](https://dev.to/yuliana_seplveda/diseno-de-interfaz-de-usuario-ui-una-guia-para-desarrolladores-54dg)
-- [Understanding Active Port Scanning, Firewalls, and Zero Trust Security](https://dev.to/sherwin6180/understanding-active-port-scanning-firewalls-and-zero-trust-security-554h)
-- [Demystifying Rails load_defaults: Mastering Configuration Updates](https://dev.to/michymono77/demystifying-rails-loaddefaults-mastering-configuration-updates-7fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
