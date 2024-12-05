@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Upload to S3](https://dev.to/shubhainder_singh/upload-to-s3-33gh)
-- [Top 10 Java Libraries Every Dev Should Know About](https://dev.to/apilover/top-10-java-libraries-every-dev-should-know-about-1fi7)
-- [Difference Between Digital Signature vs Digital Certificate](https://dev.to/me_jessicahowe/difference-between-digital-signature-vs-digital-certificate-f0h)
-- [Angular Updates Explained: Features from Version 14 to 19](https://dev.to/renukapatil/angular-updates-explained-features-from-version-14-to-19-3ci5)
-- [Protocol Buffers as a Serialization Format](https://dev.to/vipulkumarsviit/protocol-buffers-as-a-serialization-format-1mne)
+- [How Better Mocking Makes Building APIs Smoother and Speed Up Development](https://dev.to/getambassador2024/how-better-mocking-makes-building-apis-smoother-and-speed-up-development-3hlh)
+- [What is SQL Injection and Know the SQLI Attacks, Prevention and Mitigation](https://dev.to/sign_my_code/what-is-sql-injection-and-know-the-sqli-attacks-prevention-and-mitigation-1l8j)
+- [Understanding the JavaScript Event Loop in 5 Minutes 🕒✨](https://dev.to/bst53/understanding-the-javascript-event-loop-in-5-minutes-2dii)
+- [How Can I Find My Way In Web Development and Product Development ?](https://dev.to/amirreza_monfared_7affd5d/how-can-i-find-my-way-in-web-development-and-product-development--2leg)
+- [Looking for a volunteer OOS contributor? I’m Here to Help!](https://dev.to/perisicnikola37/looking-for-a-volunteer-oos-contributor-im-here-to-help-d4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
