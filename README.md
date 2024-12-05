@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to Worker Threads in Node.js: Unlocking Multithreading for Enhanced Performance](https://dev.to/rishitamoghna17/a-beginners-guide-to-worker-threads-in-nodejs-unlocking-multithreading-for-enhanced-performance-1o2n)
-- [Dynamic Grid-Layout with Custom Properties and Resizable Elements &lpar;@properties&rpar;](https://dev.to/kuraikari/dynamic-grid-layout-with-custom-properties-and-resizable-elements-properties-me8)
-- [The Pursuit of Perfection: Lessons Learned in Simplicity](https://dev.to/martin_cihal/the-pursuit-of-perfection-lessons-learned-in-simplicity-lcg)
-- [# 🎵 Build Your Own Music Player in React with Context API and TypeScript](https://dev.to/blamsa0mine/-build-your-own-music-player-in-react-with-context-api-and-typescript-2hg3)
-- [What is Collate in Printing? Understanding the Process](https://dev.to/tobbystalin/what-is-collate-in-printing-understanding-the-process-2n84)
+- [Claves para romper la barrera del Seniority](https://dev.to/jamescardona11/claves-para-romper-la-barrera-del-seniority-3k6i)
+- [How to Efficiently Schedule Kubernetes Cronjobs](https://dev.to/labex/how-to-efficiently-schedule-kubernetes-cronjobs-1f05)
+- [Black Box Testing](https://dev.to/gablemathias/black-box-testing-53fd)
+- [Blockchain for Secure Data Sharing in Cloud Environments](https://dev.to/rednexie/blockchain-for-secure-data-sharing-in-cloud-environments-4cbf)
+- [React](https://dev.to/hikolakita/react-2iml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
