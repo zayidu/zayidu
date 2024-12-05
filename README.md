@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Design Robust AI Systems Against Prompt Injection Attacks](https://dev.to/fabaguirre/how-to-design-robust-ai-systems-against-prompt-injection-attacks-3nje)
-- [day - 13 at payilagam puzzles looping](https://dev.to/kuhanraja_ar_1df623b8e2e/day-13-at-payilagam-puzzles-looping-glf)
-- [OOP-Camp 4.1: The Secret Lives of Primitive Types](https://dev.to/yeehawtoast/oop-camp-41-the-secret-lives-of-primitive-types-43fo)
-- [Advent of Code #4 &lpar;in Gleam&rpar;](https://dev.to/sethcalebweeks/advent-of-code-4-in-gleam-5gh3)
-- [53/365 | ¥10M Job Challenge](https://dev.to/kameken100/53365-y10m-job-challenge-5ea5)
+- [AI Travel Planner app built with Next.js 15, Tailwind CSS, Prisma, Open AI, and Clerk.](https://dev.to/saidmounaim/ai-travel-planner-app-built-with-nextjs-15-tailwind-css-prisma-open-ai-and-clerk-2396)
+- [VSCode Extension to Simplify Code Collaboration and Sharing](https://dev.to/zaur_ibrahimov/vscode-extension-to-simplify-code-collaboration-and-sharing-bm6)
+- [Diseño de Interfaz de Usuario &lpar;UI&rpar;: Una Guía para Desarrolladores](https://dev.to/yuliana_seplveda/diseno-de-interfaz-de-usuario-ui-una-guia-para-desarrolladores-54dg)
+- [Understanding Active Port Scanning, Firewalls, and Zero Trust Security](https://dev.to/sherwin6180/understanding-active-port-scanning-firewalls-and-zero-trust-security-554h)
+- [Demystifying Rails load_defaults: Mastering Configuration Updates](https://dev.to/michymono77/demystifying-rails-loaddefaults-mastering-configuration-updates-7fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
