@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claves para romper la barrera del Seniority](https://dev.to/jamescardona11/claves-para-romper-la-barrera-del-seniority-3k6i)
-- [How to Efficiently Schedule Kubernetes Cronjobs](https://dev.to/labex/how-to-efficiently-schedule-kubernetes-cronjobs-1f05)
-- [Black Box Testing](https://dev.to/gablemathias/black-box-testing-53fd)
-- [Blockchain for Secure Data Sharing in Cloud Environments](https://dev.to/rednexie/blockchain-for-secure-data-sharing-in-cloud-environments-4cbf)
-- [React](https://dev.to/hikolakita/react-2iml)
+- [The First Project Built with Lithe Is Now Live!](https://dev.to/lithephp/the-first-project-built-with-lithe-is-now-live-26h3)
+- [O Primeiro Projeto Criado com Lithe Já Está no Ar!](https://dev.to/lithephp/o-primeiro-projeto-criado-com-lithe-ja-esta-no-ar-46b1)
+- [A guide to two-way binding in Vue](https://dev.to/logrocket/a-guide-to-two-way-binding-in-vue-559b)
+- [Cloud Computing Platforms: AWS, Azure, Google Cloud](https://dev.to/rednexie/cloud-computing-platforms-aws-azure-google-cloud-23hg)
+- [How to Get a List of User Profiles and Account Names in Windows 11?](https://dev.to/win11verse/how-to-get-a-list-of-user-profiles-and-account-names-in-windows-11-35al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
