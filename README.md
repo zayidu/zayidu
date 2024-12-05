@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to install PHP 8.3 with OCI8 on Laragon](https://dev.to/syahzul/how-to-install-php-83-with-oci8-on-laragon-3bjg)
-- [Understanding Why You Shouldn’t Defragment an SSD](https://dev.to/thenexttech/understanding-why-you-shouldnt-defragment-an-ssd-2me)
-- [Exploring the New HybridWebView for MAUI 9](https://dev.to/tmcd054/exploring-the-new-hybridwebview-for-maui-9-25i9)
-- [What is Cloud Risk Management?](https://dev.to/shivamchamoli18/what-is-cloud-risk-management-379h)
-- [Difference between http and https](https://dev.to/precious_eniola_63a79a597/difference-between-http-and-https-387a)
+- [Build a Shopping Cart App with React, TypeScript, and Material-UI 🚀](https://dev.to/blamsa0mine/build-a-shopping-cart-app-with-react-typescript-and-material-ui-5jn)
+- [What is the difference between var, let and const in JavaScript?](https://dev.to/akinsanya_toluwanimi_e409/what-is-the-difference-between-var-let-and-const-in-javascript-19pe)
+- [Powerful Learning with GPT and Readwise](https://dev.to/airabbit/powerful-learning-with-gpt-and-readwise-28gg)
+- [Unlocking Efficiency and Growth with DevOps Consulting Services](https://dev.to/smart_data_/unlocking-efficiency-and-growth-with-devops-consulting-services-126k)
+- [Wisata Bromo: Pesona Tak Terlupakan](https://dev.to/citronoyo_traveljuanda/wisata-bromo-pesona-tak-terlupakan-5do0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
