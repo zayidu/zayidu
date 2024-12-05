@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging failed builds with Netlify](https://dev.to/netlify/debugging-failed-builds-with-netlify-554p)
-- [Cybersecurity Best Practices for Cloud Applications](https://dev.to/rednexie/cybersecurity-best-practices-for-cloud-applications-21am)
-- [Lucene and I](https://dev.to/erikhatcher/lucene-and-i-2cgo)
-- [Stack: Concepts and Applications — Java](https://dev.to/alex_ricciardi/stack-concepts-and-applications-java-aod)
-- [Edge AI for Cybersecurity](https://dev.to/rednexie/edge-ai-for-cybersecurity-2448)
+- [How to Design Robust AI Systems Against Prompt Injection Attacks](https://dev.to/fabaguirre/how-to-design-robust-ai-systems-against-prompt-injection-attacks-3nje)
+- [day - 13 at payilagam puzzles looping](https://dev.to/kuhanraja_ar_1df623b8e2e/day-13-at-payilagam-puzzles-looping-glf)
+- [OOP-Camp 4.1: The Secret Lives of Primitive Types](https://dev.to/yeehawtoast/oop-camp-41-the-secret-lives-of-primitive-types-43fo)
+- [Advent of Code #4 &lpar;in Gleam&rpar;](https://dev.to/sethcalebweeks/advent-of-code-4-in-gleam-5gh3)
+- [53/365 | ¥10M Job Challenge](https://dev.to/kameken100/53365-y10m-job-challenge-5ea5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
