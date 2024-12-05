@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Locks: A Comprehensive Guide](https://dev.to/andigwandi/azure-locks-a-comprehensive-guide-mhd)
-- [Mastering the Minecraft Proxy Server Setup](https://dev.to/swiftproxy9572/mastering-the-minecraft-proxy-server-setup-40p3)
-- [使用 selenium 讀取需要登入會員的網頁](https://dev.to/codemee/shi-yong-selenium-du-qu-xu-yao-deng-ru-hui-yuan-de-wang-ye-86i)
-- [The Core Subjects You’ll Study in a BCS Program](https://dev.to/diyasharmaw121/the-core-subjects-youll-study-in-a-bcs-program-2ek1)
-- [Day 4: Configuring CloudFront and Securing Your Website with HTTPS](https://dev.to/abdullateef/day-4-configuring-cloudfront-and-securing-your-website-with-https-92c)
+- [The Home Assistant model](https://dev.to/nfrankel/the-home-assistant-model-771)
+- [Why you might want to build your own cli?](https://dev.to/pedchenkoroman/why-you-might-want-to-build-your-own-cli-apd)
+- [Explaining SOLID Principle !](https://dev.to/1hamzabek/explaining-solid-principle--19m9)
+- [Debugging a Kubernetes Cluster Part 1](https://dev.to/sadeek_m/debugging-a-kubernetes-cluster-part-1-715)
+- [HMPL integration with JSON5](https://dev.to/hmpljs/hmpl-integration-with-json5-22dn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
