@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 lições que aprendi depois de trabalhar remoto por 7 anos](https://dev.to/lincolixavier/5-licoes-que-aprendi-depois-de-trabalhar-remoto-por-7-anos-39i2)
-- [The Unspoken Reality of Computer Science Education: Beyond Web Development](https://dev.to/nozibul_islam_113b1d5334f/the-unspoken-reality-of-computer-science-education-beyond-web-development-3e2o)
-- [Flutter Web | Build with .env File](https://dev.to/01kg/flutter-web-build-with-env-file-2k60)
-- [Terraform for Loops Guide: Types, Examples and Best Practices](https://dev.to/env0team/terraform-for-loops-guide-types-examples-and-best-practices-3nda)
-- [The Evolution and Power of Containers: From FreeBSD Jail to Docker and Beyond](https://dev.to/mettasurendhar/the-evolution-and-power-of-containers-from-freebsd-jail-to-docker-and-beyond-2ikm)
+- [Integrate Dayotana in your NextJS app](https://dev.to/komsenapati/integrate-dayotana-in-your-nextjs-app-36ei)
+- [Navigating Workplace Challenges: Recognize, Strategize, and Overcome](https://dev.to/kwan/navigating-workplace-challenges-recognize-strategize-and-overcome-15j4)
+- [Why are &quot;quotes&quot; important in tailwind.css](https://dev.to/chachaz/why-are-quotes-important-in-tailwindcss-2ml8)
+- [Use the command line to become more efficient in your work!](https://dev.to/szabgab/use-the-command-line-to-become-more-efficient-in-your-work-35pa)
+- [Day 17 - Nested for loop and Pattern Programs](https://dev.to/lakshmi_prithanadesan_32/day-17-nested-for-loop-and-pattern-programs-3fc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
