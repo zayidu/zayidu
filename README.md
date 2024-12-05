@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrate Dayotana in your NextJS app](https://dev.to/komsenapati/integrate-dayotana-in-your-nextjs-app-36ei)
-- [Navigating Workplace Challenges: Recognize, Strategize, and Overcome](https://dev.to/kwan/navigating-workplace-challenges-recognize-strategize-and-overcome-15j4)
-- [Why are &quot;quotes&quot; important in tailwind.css](https://dev.to/chachaz/why-are-quotes-important-in-tailwindcss-2ml8)
-- [Use the command line to become more efficient in your work!](https://dev.to/szabgab/use-the-command-line-to-become-more-efficient-in-your-work-35pa)
-- [Day 17 - Nested for loop and Pattern Programs](https://dev.to/lakshmi_prithanadesan_32/day-17-nested-for-loop-and-pattern-programs-3fc3)
+- [A Beginner&#39;s Guide to Worker Threads in Node.js: Unlocking Multithreading for Enhanced Performance](https://dev.to/rishitamoghna17/a-beginners-guide-to-worker-threads-in-nodejs-unlocking-multithreading-for-enhanced-performance-1o2n)
+- [Dynamic Grid-Layout with Custom Properties and Resizable Elements &lpar;@properties&rpar;](https://dev.to/kuraikari/dynamic-grid-layout-with-custom-properties-and-resizable-elements-properties-me8)
+- [The Pursuit of Perfection: Lessons Learned in Simplicity](https://dev.to/martin_cihal/the-pursuit-of-perfection-lessons-learned-in-simplicity-lcg)
+- [# 🎵 Build Your Own Music Player in React with Context API and TypeScript](https://dev.to/blamsa0mine/-build-your-own-music-player-in-react-with-context-api-and-typescript-2hg3)
+- [What is Collate in Printing? Understanding the Process](https://dev.to/tobbystalin/what-is-collate-in-printing-understanding-the-process-2n84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
