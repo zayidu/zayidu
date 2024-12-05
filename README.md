@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Home Assistant model](https://dev.to/nfrankel/the-home-assistant-model-771)
-- [Why you might want to build your own cli?](https://dev.to/pedchenkoroman/why-you-might-want-to-build-your-own-cli-apd)
-- [Explaining SOLID Principle !](https://dev.to/1hamzabek/explaining-solid-principle--19m9)
-- [Debugging a Kubernetes Cluster Part 1](https://dev.to/sadeek_m/debugging-a-kubernetes-cluster-part-1-715)
-- [HMPL integration with JSON5](https://dev.to/hmpljs/hmpl-integration-with-json5-22dn)
+- [OTP Generator with Verification in HTML CSS and JavaScript](https://dev.to/sharathchandark/otp-generator-with-verification-in-html-css-and-javascript-13im)
+- [Flow Matching Speeds Up AI Image Generation While Boosting Quality](https://dev.to/mikeyoung44/flow-matching-speeds-up-ai-image-generation-while-boosting-quality-2jbd)
+- [AI Breakthrough: Context Analysis Boosts Visual Puzzle-Solving Accuracy to 76%](https://dev.to/mikeyoung44/ai-breakthrough-context-analysis-boosts-visual-puzzle-solving-accuracy-to-76-33i7)
+- [How to Mock APIs in 40s and Build Frontend Apps 10x Faster](https://dev.to/ismailkamil/how-to-mock-apis-in-40s-and-build-frontend-apps-10x-faster-4d3i)
+- [A Visual Guide to Affine Transformations: Translation, Scaling, Rotation, and Shear](https://dev.to/tuttelikz/a-visual-guide-to-affine-transformations-translation-scaling-rotation-and-shear-5hhp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
