@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Text Processing with Grep, Sed, Awk, Cut, and Sort](https://dev.to/imkrunalkanojiya/mastering-text-processing-with-grep-sed-awk-cut-and-sort-3inj)
-- [Dolphinscheduler DAG Core Source Code Analysis](https://dev.to/chen_debra_3060b21d12b1b0/dolphinscheduler-dag-core-source-code-analysis-95i)
-- [SQL: ROW_NUMBER, RANK and DENSE_RANK](https://dev.to/anwaar/sql-rownumber-rank-and-denserank-7ik)
-- [The Memes Of The Day](https://dev.to/hanzla-baig/the-memes-of-the-day-onf)
-- [#111 — Sort in Group](https://dev.to/judith677/111-sort-in-group-55m0)
+- [Day 5: For all blogging matters ✍️](https://dev.to/valeriavg/day-5-for-all-blogging-matters-aec)
+- [Redis](https://dev.to/anjali_gurjar_dff81513867/redis-4l70)
+- [Debouncing in JS: Building better web apps](https://dev.to/prathamesh_patil_98/debouncing-in-js-building-better-web-apps-4g8h)
+- [How to Address Industrial Wastewater Pollution](https://dev.to/enam_pilar_inovasi/how-to-address-industrial-wastewater-pollution-222i)
+- [How to Update Java JDK [A Simple Guide]](https://dev.to/brilworks/how-to-update-java-jdk-a-simple-guide-194m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
