@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The First Project Built with Lithe Is Now Live!](https://dev.to/lithephp/the-first-project-built-with-lithe-is-now-live-26h3)
-- [O Primeiro Projeto Criado com Lithe Já Está no Ar!](https://dev.to/lithephp/o-primeiro-projeto-criado-com-lithe-ja-esta-no-ar-46b1)
-- [A guide to two-way binding in Vue](https://dev.to/logrocket/a-guide-to-two-way-binding-in-vue-559b)
-- [Cloud Computing Platforms: AWS, Azure, Google Cloud](https://dev.to/rednexie/cloud-computing-platforms-aws-azure-google-cloud-23hg)
-- [How to Get a List of User Profiles and Account Names in Windows 11?](https://dev.to/win11verse/how-to-get-a-list-of-user-profiles-and-account-names-in-windows-11-35al)
+- [Advanced Stimulus: Custom Action Options](https://dev.to/railsdesigner/advanced-stimulus-custom-action-options-2ljo)
+- [Debugging Kubernetes cluster part 2](https://dev.to/sadeek_m/debugging-kubernetes-cluster-part-2-7c0)
+- [GPT-5: Release Date, Features &amp; Everything You Need to Know](https://dev.to/lina_lam_9ee459f98b67e9d5/gpt-5-release-date-features-everything-you-need-to-know-152)
+- [GPT-5: Release Date, Features &amp; Everything You Need to Know](https://dev.to/lina_lam_9ee459f98b67e9d5/gpt-5-release-date-features-everything-you-need-to-know-2a9b)
+- [Cloud Security for DevOps Teams](https://dev.to/rednexie/cloud-security-for-devops-teams-3b9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
