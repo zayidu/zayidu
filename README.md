@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Form Handling in Your MERN Stack Projects with Formik](https://dev.to/bilalkhanio/simplify-form-handling-in-your-mern-stack-projects-with-formik-3a2k)
-- [Day 6: Super Expressive ✨](https://dev.to/valeriavg/day-6-super-expressive-48kd)
-- [Part 2: Building Your Own AI - Setting Up the Environment for AI/ML Development](https://dev.to/trixsec/part-1-building-your-own-ai-setting-up-the-environment-for-aiml-development-315g)
-- [SQL: Query the records closest to the specified time each day #eg86](https://dev.to/esproc_spl/sql-query-the-records-closest-to-the-specified-time-each-day-eg86-3k52)
-- [GCC: Automatic Function Multi-Versioning Pt.1](https://dev.to/arilloid/gcc-automatic-function-multi-versioning-pt1-59c5)
+- [Just How Kurma Sustains a Healthy And Balanced Way Of Life in Malaysia](https://dev.to/pantrywillow3/just-how-kurma-sustains-a-healthy-and-balanced-way-of-life-in-malaysia-70a)
+- [Supervised Learning vs. Unsupervised Learning](https://dev.to/askyt/supervised-learning-vs-unsupervised-learning-3chh)
+- [🔥10 Useful Extensions For VS Code](https://dev.to/anthonymax/10-useful-extensions-for-vs-code-59k4)
+- [Quantum Computing Basics: Writing Your First Quantum Program ⚛️💻](https://dev.to/info_generalhazedawn_a3d/quantum-computing-basics-writing-your-first-quantum-program-3674)
+- [#112 — Ranking of Simple Members](https://dev.to/judith677/112-ranking-of-simple-members-374c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
