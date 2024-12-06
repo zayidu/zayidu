@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DOM-based vulnerabilities](https://dev.to/rednexie/dom-based-vulnerabilities-3h7)
-- [Object &amp; class](https://dev.to/pavitra_aravind_3d319916a/object-class-5h6d)
-- [I have encountered all the key points addressed in this post. I agree with the writer but it is worth being aware that complying with all these things is not trivial.](https://dev.to/ntung/i-have-encountered-all-the-key-points-addressed-in-this-post-i-agree-with-the-writer-but-it-is-2lc9)
-- [My Bluesky Analytics tool is live!](https://dev.to/andreihudovich/my-bluesky-analytics-tool-is-live-4fek)
-- [🚀 Your Daily Crypto Job Digest For 06 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-06-december-32j3)
+- [Question: How do I host my angular front-end on Netlify](https://dev.to/briceseymens/question-how-do-i-host-my-angular-front-end-on-netlify-d6a)
+- [Break free from ChatGPT with OpenWebUI](https://dev.to/airabbit/break-free-from-chatgpt-with-openwebui-36pi)
+- [Guía definitiva de administración de costos en AWS: 20 Estrategias detalladas y efectivas](https://dev.to/briansuarezsantiago/guia-definitiva-de-administracion-de-costos-en-aws-20-estrategias-detalladas-y-efectivas-lok)
+- [Lite tip](https://dev.to/__630c2e1dc3/lite-tip-2dg5)
+- [Coding with Music On!](https://dev.to/sdevr/coding-with-music-on-n26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
