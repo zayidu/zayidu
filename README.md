@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the `this` Keyword in JavaScript: A Complete Guide](https://dev.to/jps27cse/understanding-the-this-keyword-in-javascript-a-complete-guide-39oh)
+- [I made a plugin that enables PDF export in GROWI.](https://dev.to/goofmint/i-made-a-plugin-that-enables-pdf-export-in-growi-2d5m)
 - [5 tools for productive developer work](https://dev.to/itdevus/5-tools-for-productive-developer-work-37ha)
 - [Creating a New Era of Intelligent Finance: GBase Database Leading the Digital Transformation in Finance](https://dev.to/congcong/creating-a-new-era-of-intelligent-finance-gbase-database-leading-the-digital-transformation-in-3he4)
 - [Sorting Smarts in Java: Comparable and Comparator](https://dev.to/arshisaxena26/sorting-smarts-in-java-comparable-and-comparator-283j)
-- [How to Manage Your SQL Server Database Effectively](https://dev.to/auyeungdavid_2847435260/how-to-manage-your-sql-server-database-effectively-54ej)
-- [Just How Kurma Sustains a Healthy And Balanced Way Of Life in Malaysia](https://dev.to/pantrywillow3/just-how-kurma-sustains-a-healthy-and-balanced-way-of-life-in-malaysia-70a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
