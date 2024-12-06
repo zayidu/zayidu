@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding and Preventing Email Spoofing Through DMARC Reports: A Technical Analysis](https://dev.to/roboword/understanding-and-preventing-email-spoofing-through-dmarc-reports-a-technical-analysis-1jk)
-- [Amazon S3 Tables: A Game Changer in Analytics and Data Lake Space](https://dev.to/asankab/amazon-s3-tables-a-game-changer-in-analytics-and-data-lake-space-2mjo)
-- [Introduction to DevSecOps](https://dev.to/i_am_vesh/introduction-to-devsecops-1l87)
-- [Good News! Deadline Extended for the DevCycle Feature Flag Challenge.](https://dev.to/devteam/good-news-deadline-extended-for-the-devcycle-feature-flag-challenge-304p)
-- [🚀 Rust Basics 2: Data Types, Shadowing, and String Manipulation 🦀](https://dev.to/realacjoshua/rust-basics-2-data-types-shadowing-and-string-manipulation-95f)
+- [Rotating An Array Counterclockwise In JavaScript](https://dev.to/hdonis17/rotating-an-array-counterclockwise-in-javascript-nf8)
+- [🎨 3D in Web Development: Tools and Approaches](https://dev.to/adamgazdiev/3d-in-web-development-tools-and-approaches-272c)
+- [Comprehensive Guide to JavaScript `reduce&lpar;&rpar;` Method with Real-Life Examples](https://dev.to/taiwo17/comprehensive-guide-to-javascript-reduce-method-with-real-life-examples-4017)
+- [Travel: The Secret for Tech and Research Evolution](https://dev.to/hkdevs/travel-the-secret-for-tech-and-research-evolution-2ddc)
+- [🚀 Tailwind CSS: Build Custom Designs with Utility-First Framework](https://dev.to/aniruddhaadak/tailwind-css-build-custom-designs-with-utility-first-framework-onm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
