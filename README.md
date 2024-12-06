@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner&#39;s Guide to Version Control Systems &lpar;VCS&rpar;](https://dev.to/fitehal/beginners-guide-to-version-control-systems-vcs-1mjk)
-- [Dominando el Testing y la Documentación en React: Una Guía Completa](https://dev.to/goaqidev/dominando-el-testing-y-la-documentacion-en-react-una-guia-completa-136i)
-- [QMNIST in PyTorch](https://dev.to/hyperkai/qmnist-in-pytorch-54pc)
-- [Less is the same?](https://dev.to/jhitze/less-is-the-same-258m)
-- [Microsoft Copilot: Redefining Productivity with AI](https://dev.to/layanyashoda/microsoft-copilot-redefining-productivity-with-ai-2pka)
+- [100+ Frontend Projects to level up your Skills](https://dev.to/kaja_uvais_a8691e947dd399/100-frontend-projects-to-level-up-your-skills-gkc)
+- [Web requests versus functions](https://dev.to/gliimly/web-requests-versus-functions-1db2)
+- [Ceres Search](https://dev.to/rmion/ceres-search-3iom)
+- [How to Reset Password for an Account in Windows 11?](https://dev.to/win11verse/how-to-reset-password-for-an-account-in-windows-11-5a24)
+- [New ChatGPT creation: wavy lines.](https://dev.to/tthtlc/new-chatgpt-creation-wavy-lines-1ai8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
