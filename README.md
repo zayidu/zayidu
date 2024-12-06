@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 cursos que eu faria se estivesse começando agora no Frontend](https://dev.to/hudson3384/5-cursos-que-eu-faria-se-estivesse-comecando-agora-no-frontend-4kh4)
-- [Shifting End-to-End Testing Left on Microservices](https://dev.to/signadot/shifting-end-to-end-testing-left-on-microservices-mc1)
-- [Your Guide to Better Documentation: The Importance of Planning in the DDLC](https://dev.to/ikhaledabdelfattah/your-guide-to-better-documentation-the-importance-of-planning-in-the-ddlc-k6o)
-- [Single Quotes and Double Quotes : String Interpolation and Performance](https://dev.to/parzival_computer/single-quotes-and-double-quotes-string-interpolation-and-performance-32p2)
-- [From 502 to 200: Building a Auto-Scaling Infrastructure with Terraform](https://dev.to/dhayv/from-502-to-200-building-a-auto-scaling-infrastructure-with-terraform-26dn)
+- [SwiftUI Previews don&#39;t Work for Kotlin Multiplatform Mobile &lpar;KMM&rpar; Projects.](https://dev.to/kiolk/swiftui-previews-dont-work-for-kotlin-multiplatform-mobile-kmm-projects-3o1)
+- [Simplifying Internal APIs with Direct AWS Lambda Invocation](https://dev.to/pcmagas/simplifying-internal-apis-with-direct-aws-lambda-invocation-2eb1)
+- [AoC &#39;24 - Day 6: Guard Gallivant](https://dev.to/grantdotdev/aoc-24-day-6-guard-gallivant-2n5n)
+- [Cómo Airbnb escaló su éxito con AWS: Una historia de innovación y crecimiento](https://dev.to/briansuarezsantiago/como-airbnb-escalo-su-exito-con-aws-una-historia-de-innovacion-y-crecimiento-2ipe)
+- [Smart Contract Safety: How to Verify Before You Interact](https://dev.to/block_experts_766a3a21915637/how-to-verify-a-smart-contract-before-interacting-with-it-3ho0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
