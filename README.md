@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Developer Mode on iPhone &amp; How to Enable It?](https://dev.to/codeparrot/what-is-developer-mode-on-iphone-how-to-enable-it-828)
-- [Quick Steps to Overcome Impostor Syndrome as a Tech Professional](https://dev.to/medalytics/quick-steps-to-overcome-impostor-syndrome-as-a-tech-professional-43c4)
-- [PHP: Should I mock or should I go?](https://dev.to/spo0q/php-mocking-od-458c)
-- [User Guide for ApplyUni.com](https://dev.to/ayeminkhant023/user-guide-for-applyunicom-25cp)
-- [Persistence Context в Hibernate Zoo: путешествие объекта по жизненным состояниям](https://dev.to/easycat/persistence-context-v-hibernate-zoo-putieshiestviie-obiekta-po-zhizniennym-sostoianiiam-4h45)
+- [Understanding and Preventing Email Spoofing Through DMARC Reports: A Technical Analysis](https://dev.to/roboword/understanding-and-preventing-email-spoofing-through-dmarc-reports-a-technical-analysis-1jk)
+- [Amazon S3 Tables: A Game Changer in Analytics and Data Lake Space](https://dev.to/asankab/amazon-s3-tables-a-game-changer-in-analytics-and-data-lake-space-2mjo)
+- [Introduction to DevSecOps](https://dev.to/i_am_vesh/introduction-to-devsecops-1l87)
+- [Good News! Deadline Extended for the DevCycle Feature Flag Challenge.](https://dev.to/devteam/good-news-deadline-extended-for-the-devcycle-feature-flag-challenge-304p)
+- [🚀 Rust Basics 2: Data Types, Shadowing, and String Manipulation 🦀](https://dev.to/realacjoshua/rust-basics-2-data-types-shadowing-and-string-manipulation-95f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
