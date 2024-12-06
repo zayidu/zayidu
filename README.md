@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [5 tools for productive developer work](https://dev.to/itdevus/5-tools-for-productive-developer-work-37ha)
+- [Creating a New Era of Intelligent Finance: GBase Database Leading the Digital Transformation in Finance](https://dev.to/congcong/creating-a-new-era-of-intelligent-finance-gbase-database-leading-the-digital-transformation-in-3he4)
+- [Sorting Smarts in Java: Comparable and Comparator](https://dev.to/arshisaxena26/sorting-smarts-in-java-comparable-and-comparator-283j)
+- [How to Manage Your SQL Server Database Effectively](https://dev.to/auyeungdavid_2847435260/how-to-manage-your-sql-server-database-effectively-54ej)
 - [Just How Kurma Sustains a Healthy And Balanced Way Of Life in Malaysia](https://dev.to/pantrywillow3/just-how-kurma-sustains-a-healthy-and-balanced-way-of-life-in-malaysia-70a)
-- [Supervised Learning vs. Unsupervised Learning](https://dev.to/askyt/supervised-learning-vs-unsupervised-learning-3chh)
-- [🔥10 Useful Extensions For VS Code](https://dev.to/anthonymax/10-useful-extensions-for-vs-code-59k4)
-- [Quantum Computing Basics: Writing Your First Quantum Program ⚛️💻](https://dev.to/info_generalhazedawn_a3d/quantum-computing-basics-writing-your-first-quantum-program-3674)
-- [#112 — Ranking of Simple Members](https://dev.to/judith677/112-ranking-of-simple-members-374c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
