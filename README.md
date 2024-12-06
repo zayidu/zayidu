@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Question: How do I host my angular front-end on Netlify](https://dev.to/briceseymens/question-how-do-i-host-my-angular-front-end-on-netlify-d6a)
-- [Break free from ChatGPT with OpenWebUI](https://dev.to/airabbit/break-free-from-chatgpt-with-openwebui-36pi)
-- [Guía definitiva de administración de costos en AWS: 20 Estrategias detalladas y efectivas](https://dev.to/briansuarezsantiago/guia-definitiva-de-administracion-de-costos-en-aws-20-estrategias-detalladas-y-efectivas-lok)
-- [Lite tip](https://dev.to/__630c2e1dc3/lite-tip-2dg5)
-- [Coding with Music On!](https://dev.to/sdevr/coding-with-music-on-n26)
+- [Congrats everyone!](https://dev.to/ben/congrats-everyone-4epm)
+- [Amazon Q Developer Tips: No.6 Exploring Use Cases](https://dev.to/aws/amazon-q-developer-tips-no6-exploring-use-cases-hf2)
+- [Advent of Joy](https://dev.to/martintale/advent-of-joy-40el)
+- [How is an SQL Query Statement executed](https://dev.to/kbws13/how-is-an-sql-query-statement-executed-1np5)
+- [Use XQuery for HTML &lpar;Web Crawling&rpar;](https://dev.to/lquenti/use-xquery-for-processing-html-web-crawling-2plb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
