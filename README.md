@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rotating An Array Counterclockwise In JavaScript](https://dev.to/hdonis17/rotating-an-array-counterclockwise-in-javascript-nf8)
-- [🎨 3D in Web Development: Tools and Approaches](https://dev.to/adamgazdiev/3d-in-web-development-tools-and-approaches-272c)
-- [Comprehensive Guide to JavaScript `reduce&lpar;&rpar;` Method with Real-Life Examples](https://dev.to/taiwo17/comprehensive-guide-to-javascript-reduce-method-with-real-life-examples-4017)
-- [Travel: The Secret for Tech and Research Evolution](https://dev.to/hkdevs/travel-the-secret-for-tech-and-research-evolution-2ddc)
-- [🚀 Tailwind CSS: Build Custom Designs with Utility-First Framework](https://dev.to/aniruddhaadak/tailwind-css-build-custom-designs-with-utility-first-framework-onm)
+- [The Backbone of Great Documentation: An Introduction to the Document Development Lifecycle &lpar;DDLC&rpar;](https://dev.to/ikhaledabdelfattah/the-backbone-of-great-documentation-an-introduction-to-the-document-development-lifecycle-ddlc-35jh)
+- [Hono Js - Another Express clone?](https://dev.to/sourabh_singh1812/hono-js-another-express-clone-38h6)
+- [54/365 | ¥10M Job Challenge](https://dev.to/kameken100/54365-y10m-job-challenge-1j7)
+- [Why Every Millisecond Counts: Understanding Latency in Payments](https://dev.to/dev_tycodez/why-every-millisecond-counts-understanding-latency-in-payments-3kbe)
+- [Sentiment Analysis in Python](https://dev.to/hkdevs/sentiment-analysis-in-python-4ldk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
