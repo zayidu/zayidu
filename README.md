@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL: Query the records closest to the specified time each day #eg86](https://dev.to/esproc_spl/sql-query-the-records-closest-to-the-specified-time-each-day-eg86-3k52)
+- [GCC: Automatic Function Multi-Versioning Pt.1](https://dev.to/arilloid/gcc-automatic-function-multi-versioning-pt1-59c5)
 - [100+ Frontend Projects to level up your Skills](https://dev.to/kaja_uvais_a8691e947dd399/100-frontend-projects-to-level-up-your-skills-gkc)
 - [Web requests versus functions](https://dev.to/gliimly/web-requests-versus-functions-1db2)
 - [Ceres Search](https://dev.to/rmion/ceres-search-3iom)
-- [How to Reset Password for an Account in Windows 11?](https://dev.to/win11verse/how-to-reset-password-for-an-account-in-windows-11-5a24)
-- [New ChatGPT creation: wavy lines.](https://dev.to/tthtlc/new-chatgpt-creation-wavy-lines-1ai8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
