@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SwiftUI Previews don&#39;t Work for Kotlin Multiplatform Mobile &lpar;KMM&rpar; Projects.](https://dev.to/kiolk/swiftui-previews-dont-work-for-kotlin-multiplatform-mobile-kmm-projects-3o1)
-- [Simplifying Internal APIs with Direct AWS Lambda Invocation](https://dev.to/pcmagas/simplifying-internal-apis-with-direct-aws-lambda-invocation-2eb1)
-- [AoC &#39;24 - Day 6: Guard Gallivant](https://dev.to/grantdotdev/aoc-24-day-6-guard-gallivant-2n5n)
-- [Cómo Airbnb escaló su éxito con AWS: Una historia de innovación y crecimiento](https://dev.to/briansuarezsantiago/como-airbnb-escalo-su-exito-con-aws-una-historia-de-innovacion-y-crecimiento-2ipe)
-- [Smart Contract Safety: How to Verify Before You Interact](https://dev.to/block_experts_766a3a21915637/how-to-verify-a-smart-contract-before-interacting-with-it-3ho0)
+- [Just came across this while doing some hobby stuff. Really cool project from a few years ago.](https://dev.to/ben/just-came-across-this-while-doing-some-hobby-stuff-really-cool-project-from-a-few-years-ago-1kj3)
+- [Glam Up My Markup: Winter Solstice](https://dev.to/ladeoshodi/glam-up-my-markup-winter-solstice-21e9)
+- [AWS Global Infrastructure: Availability Zones, Regions and Edge Locations.](https://dev.to/nyong_godwill_e7dfb3c04a7/aws-global-infrastructure-availability-zones-regions-and-edge-locations-5bmg)
+- [How to Integrate Gemini API with React.js: A Step-by-Step Guide.](https://dev.to/tahrim_bilal/how-to-integrate-gemini-api-with-reactjs-a-step-by-step-guide-341b)
+- [Data processing primero, shell después: Nushell](https://dev.to/janoamaral/data-processing-primero-shell-despues-nushell-20kc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
