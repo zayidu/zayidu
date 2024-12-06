@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Your Daily Crypto Job Digest For 06 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-06-december-32j3)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2m3o)
 - [Why Strapi Cloud is a Game-Changer for Frontend Developers? 🚀](https://dev.to/joodi/why-strapi-cloud-is-a-game-changer-for-frontend-developers-1349)
 - [React v19 is out!](https://dev.to/srbhr/react-v19-is-out-2eo2)
 - [How to Set Up a Mock Server](https://dev.to/apilover/how-to-set-up-a-mock-server-c1b)
-- [GraphQL API vulnerabilities](https://dev.to/rednexie/graphql-api-vulnerabilities-48ff)
-- [Boost Your LinkedIn Reach Organically: A Simple Guide](https://dev.to/nozibul_islam_113b1d5334f/boost-your-linkedin-reach-organically-a-simple-guide-3mki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
