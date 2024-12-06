@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Congrats everyone!](https://dev.to/ben/congrats-everyone-4epm)
-- [Amazon Q Developer Tips: No.6 Exploring Use Cases](https://dev.to/aws/amazon-q-developer-tips-no6-exploring-use-cases-hf2)
-- [Advent of Joy](https://dev.to/martintale/advent-of-joy-40el)
-- [How is an SQL Query Statement executed](https://dev.to/kbws13/how-is-an-sql-query-statement-executed-1np5)
-- [Use XQuery for HTML &lpar;Web Crawling&rpar;](https://dev.to/lquenti/use-xquery-for-processing-html-web-crawling-2plb)
+- [What is Developer Mode on iPhone &amp; How to Enable It?](https://dev.to/codeparrot/what-is-developer-mode-on-iphone-how-to-enable-it-828)
+- [Quick Steps to Overcome Impostor Syndrome as a Tech Professional](https://dev.to/medalytics/quick-steps-to-overcome-impostor-syndrome-as-a-tech-professional-43c4)
+- [PHP: Should I mock or should I go?](https://dev.to/spo0q/php-mocking-od-458c)
+- [User Guide for ApplyUni.com](https://dev.to/ayeminkhant023/user-guide-for-applyunicom-25cp)
+- [Persistence Context в Hibernate Zoo: путешествие объекта по жизненным состояниям](https://dev.to/easycat/persistence-context-v-hibernate-zoo-putieshiestviie-obiekta-po-zhizniennym-sostoianiiam-4h45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
