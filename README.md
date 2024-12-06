@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comunicação Assíncrona e Síncrona](https://dev.to/emanoelcarvalho/comunicacao-assincrona-e-sincrona-3gg)
-- [Turning search results into Markdown for LLMs](https://dev.to/nate_serpapi/turning-search-results-into-markdown-for-llms-1jc5)
-- [Unlocking the Power of AWS Application Integration: A Solution Architect’s Perspective](https://dev.to/enitanogun1/unlocking-the-power-of-aws-application-integration-a-solution-architects-perspective-56np)
-- [Revolutionizing Project Management: Trends to Watch in 2025](https://dev.to/chieke_emeka_66348fb019e2/revolutionizing-project-management-trends-to-watch-in-2025-2bn)
-- [Daily JavaScript Challenge #JS-39: Sum of Two Largest Numbers in an Array](https://dev.to/dpc/daily-javascript-challenge-js-39-sum-of-two-largest-numbers-in-an-array-5c8h)
+- [Beginner&#39;s Guide to Version Control Systems &lpar;VCS&rpar;](https://dev.to/fitehal/beginners-guide-to-version-control-systems-vcs-1mjk)
+- [Dominando el Testing y la Documentación en React: Una Guía Completa](https://dev.to/goaqidev/dominando-el-testing-y-la-documentacion-en-react-una-guia-completa-136i)
+- [QMNIST in PyTorch](https://dev.to/hyperkai/qmnist-in-pytorch-54pc)
+- [Less is the same?](https://dev.to/jhitze/less-is-the-same-258m)
+- [Microsoft Copilot: Redefining Productivity with AI](https://dev.to/layanyashoda/microsoft-copilot-redefining-productivity-with-ai-2pka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
