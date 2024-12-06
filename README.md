@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Simplify Form Handling in Your MERN Stack Projects with Formik](https://dev.to/bilalkhanio/simplify-form-handling-in-your-mern-stack-projects-with-formik-3a2k)
 - [Day 6: Super Expressive ✨](https://dev.to/valeriavg/day-6-super-expressive-48kd)
 - [Part 2: Building Your Own AI - Setting Up the Environment for AI/ML Development](https://dev.to/trixsec/part-1-building-your-own-ai-setting-up-the-environment-for-aiml-development-315g)
 - [SQL: Query the records closest to the specified time each day #eg86](https://dev.to/esproc_spl/sql-query-the-records-closest-to-the-specified-time-each-day-eg86-3k52)
 - [GCC: Automatic Function Multi-Versioning Pt.1](https://dev.to/arilloid/gcc-automatic-function-multi-versioning-pt1-59c5)
-- [100+ Frontend Projects to level up your Skills](https://dev.to/kaja_uvais_a8691e947dd399/100-frontend-projects-to-level-up-your-skills-gkc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
