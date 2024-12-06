@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Backbone of Great Documentation: An Introduction to the Document Development Lifecycle &lpar;DDLC&rpar;](https://dev.to/ikhaledabdelfattah/the-backbone-of-great-documentation-an-introduction-to-the-document-development-lifecycle-ddlc-35jh)
-- [Hono Js - Another Express clone?](https://dev.to/sourabh_singh1812/hono-js-another-express-clone-38h6)
-- [54/365 | ¥10M Job Challenge](https://dev.to/kameken100/54365-y10m-job-challenge-1j7)
-- [Why Every Millisecond Counts: Understanding Latency in Payments](https://dev.to/dev_tycodez/why-every-millisecond-counts-understanding-latency-in-payments-3kbe)
-- [Sentiment Analysis in Python](https://dev.to/hkdevs/sentiment-analysis-in-python-4ldk)
+- [5 cursos que eu faria se estivesse começando agora no Frontend](https://dev.to/hudson3384/5-cursos-que-eu-faria-se-estivesse-comecando-agora-no-frontend-4kh4)
+- [Shifting End-to-End Testing Left on Microservices](https://dev.to/signadot/shifting-end-to-end-testing-left-on-microservices-mc1)
+- [Your Guide to Better Documentation: The Importance of Planning in the DDLC](https://dev.to/ikhaledabdelfattah/your-guide-to-better-documentation-the-importance-of-planning-in-the-ddlc-k6o)
+- [Single Quotes and Double Quotes : String Interpolation and Performance](https://dev.to/parzival_computer/single-quotes-and-double-quotes-string-interpolation-and-performance-32p2)
+- [From 502 to 200: Building a Auto-Scaling Infrastructure with Terraform](https://dev.to/dhayv/from-502-to-200-building-a-auto-scaling-infrastructure-with-terraform-26dn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
