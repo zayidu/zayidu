@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Boost Your LinkedIn Reach Organically: A Simple Guide](https://dev.to/nozibul_islam_113b1d5334f/boost-your-linkedin-reach-organically-a-simple-guide-3mki)
+- [How I reduced an API call from &gt;5 seconds to under 100ms](https://dev.to/whitep4nth3r/how-i-reduced-an-api-call-from-5-seconds-to-under-100ms-7k6)
+- [A slightly better &quot;Map&quot; can make your code easier to read...](https://dev.to/miketalbot/a-slightly-better-map-can-get-you-there-more-easily-3h6j)
+- [Step-by-step guide: Adding client-side logic to your Hono app](https://dev.to/fiberplane/step-by-step-guide-adding-client-side-logic-to-your-hono-app-14eh)
 - [Understanding the `this` Keyword in JavaScript: A Complete Guide](https://dev.to/jps27cse/understanding-the-this-keyword-in-javascript-a-complete-guide-39oh)
-- [I made a plugin that enables PDF export in GROWI.](https://dev.to/goofmint/i-made-a-plugin-that-enables-pdf-export-in-growi-2d5m)
-- [5 tools for productive developer work](https://dev.to/itdevus/5-tools-for-productive-developer-work-37ha)
-- [Creating a New Era of Intelligent Finance: GBase Database Leading the Digital Transformation in Finance](https://dev.to/congcong/creating-a-new-era-of-intelligent-finance-gbase-database-leading-the-digital-transformation-in-3he4)
-- [Sorting Smarts in Java: Comparable and Comparator](https://dev.to/arshisaxena26/sorting-smarts-in-java-comparable-and-comparator-283j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
