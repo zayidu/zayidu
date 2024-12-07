@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ansible Apt Module: Manage Packages on Debian-based Systems](https://dev.to/labex/ansible-apt-module-manage-packages-on-debian-based-systems-1j8h)
-- [Today learned object create, calling statement, method definition, arguments&lpar;parameters&rpar;](https://dev.to/pavitra_aravind_3d319916a/today-learned-object-create-calling-statement-method-definition-argumentsparameters-1i35)
-- [My 2024 Good Links List](https://dev.to/cypriantinasheaarons/my-2024-good-links-list-dca)
-- [Harnessing AI Technology in Web Design and Web Development at Nandha Infotech](https://dev.to/sripathi_sripathi_/harnessing-ai-technology-in-web-design-and-web-development-at-nandha-infotech-5689)
-- [Latest Newsletter: Censorship, AI Memecoins, 100K BTC, Time &amp; the Ruliad &lpar;Issue #193&rpar;](https://dev.to/mjgs/latest-newsletter-censorship-ai-memecoins-100k-btc-time-the-ruliad-issue-193-1a84)
+- [How to upload files to a server in NodeJS with Formidable](https://dev.to/plleonart/how-to-upload-files-to-a-server-in-nodejs-with-formidable-3bkg)
+- [Learn how to animate objects with Tailwind CSS and Alpine JS intersection observer](https://dev.to/mike_andreuzza/learn-how-to-animate-objects-with-tailwind-css-and-alpine-js-intersection-observer-16l9)
+- [Building a 🧾 PDF Invoice Generator with 📨 Twilio SendGrid, 🐍 Python, Flask, and 🖌️ Bootstrap](https://dev.to/kumarkalyan/building-a-pdf-invoice-generator-with-twilio-sendgrid-python-flask-and-bootstrap-1pco)
+- [How to Quickly Level Up and Earn Money in Cabin Crew Life Simulator](https://dev.to/khaisimon_devgame/how-to-quickly-level-up-and-earn-money-in-cabin-crew-life-simulator-4oib)
+- [CSS Art: December](https://dev.to/martichka9/christmas-glass-ball-with-snow-4ll7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
