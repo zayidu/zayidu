@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Heartbleed: The Bug That Shook the Internet](https://dev.to/0x8j0rn4r80r93/heartbleed-the-bug-that-shook-the-internet-3jaj)
-- [Quick Optimization for your ReactJS Application for Performance and Size](https://dev.to/abhirupa/quick-optimization-for-your-reactjs-application-for-performance-and-size-378k)
-- [MiniProject Tailtreats](https://dev.to/salincalyna/miniproject-tailtreats-1p1m)
-- [Observables in Node.js: Transforming Asynchronous Chaos into Elegant Code](https://dev.to/gleidsonleite/observables-in-nodejs-transforming-asynchronous-chaos-into-elegant-code-l7b)
-- [My name is [Seif]. I&#39;m passionate about making programming accessible. I run &quot;Innovate Elevate&quot; on YouTube, Check it out here: [https://www.youtube.com/@InnovateElevate-c7t]. Let&#39;s learn and grow together!](https://dev.to/seif-business/my-name-is-seif-im-passionate-about-making-programming-accessible-i-run-innovate-elevate-on-58mm)
+- [How do you export .env from Vercel: New Laptop, Old Project? No Problem!](https://dev.to/csituma/how-do-you-export-env-from-vercel-new-laptop-old-project-no-problem-1fd1)
+- [DevOps for Beginners: When Code, Ops, and Humor Become Best Friends](https://dev.to/ravindra_babu/devops-for-beginners-when-code-ops-and-humor-become-best-friends-2gka)
+- [Speed up your app: proven techniques for Frontend-optimization](https://dev.to/itdevus/speed-up-your-app-proven-techniques-for-frontend-optimization-m8k)
+- [Linux Lessons - Creating a .deb Package](https://dev.to/benslinux/linux-lessons-creating-a-deb-package-18lh)
+- [How to use Glue crawler to add tables automatically](https://dev.to/payalgupta4639/how-to-use-glue-crawler-to-add-tables-automatically-51c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
