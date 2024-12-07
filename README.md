@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 3: Building Your Own AI - Understanding the Basics of Machine Learning Algorithms](https://dev.to/trixsec/part-3-building-your-own-ai-understanding-the-basics-of-machine-learning-algorithms-11kh)
-- [Fundamentos do autoboxing e os métodos](https://dev.to/javaefetivo/fundamentos-do-autoboxing-e-os-metodos-2i5m)
-- [CRUD With Flask And MySql #1 Introduction](https://dev.to/yudhasdev/crud-with-flask-and-mysql-1-introduction-ajk)
-- [Light Interaction in Computer Graphics: Reflection and the Blinn-Phong Model — OpenGL](https://dev.to/alex_ricciardi/light-interaction-in-computer-graphics-reflection-and-the-blinn-phong-model-opengl-mc9)
-- [AWR, ADDM, and ASH in Oracle SQL](https://dev.to/mrcaption49/awr-addm-and-ash-in-oracle-sql-2k0a)
+- [🚨 The AI Directory Craze is a 2000s Web Directory Déjà Vu](https://dev.to/souvic/the-ai-directory-craze-is-a-2000s-web-directory-deja-vu-5e7g)
+- [Top 3 Free Web Development Courses](https://dev.to/kaja_uvais_a8691e947dd399/top-3-free-web-development-courses-5c9c)
+- [Tutorial Flask With MySql](https://dev.to/yudhasdev/-ff4)
+- [CRUD With Flask And MySql #2 Prepare](https://dev.to/yudhasdev/crud-with-flask-and-mysql-2-prepare-4hhn)
+- [The Hidden Power of Software Testing: Building Quality from the Ground Up](https://dev.to/vaibhavkuls/the-hidden-power-of-software-testing-building-quality-from-the-ground-up-4pd9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
