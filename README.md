@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud-Based Security for Financial Data Systems](https://dev.to/iskender83/cloud-based-security-for-financial-data-systems-1d7h)
-- [WebSockets: The Secret to Seamless Real-Time Communication](https://dev.to/mukhilpadmanabhan/websockets-the-secret-to-seamless-real-time-communication-3joc)
-- [Privacy-Enhancing Cryptography](https://dev.to/iskender83/privacy-enhancing-cryptography-5105)
-- [Build a Dartboard with Web Components &amp; HTML Canvas🎯](https://dev.to/dartbot/build-a-dartboard-with-web-components-html-canvas-3j2l)
-- [API Rate Limiting and Protection](https://dev.to/iskender83/api-rate-limiting-and-protection-4lm3)
+- [AWS SNS and SQS: Building Reliable Messaging Systems](https://dev.to/msalbrain/aws-sns-and-sqs-building-reliable-messaging-systems-1971)
+- [Step into the world of API integration in your React projects with the powerful Google Gemini API!](https://dev.to/tahrim_bilal/step-into-the-world-of-api-integration-in-your-react-projects-with-the-powerful-google-gemini-api-abe)
+- [Why I Love Laravel: A Beginner&#39;s Perspective](https://dev.to/haythembekir20/why-i-love-laravel-a-beginners-perspective-46o8)
+- [What is eBPF?](https://dev.to/klip_klop/what-is-ebpf-ke0)
+- [25 retos de Programación de JavaScript y Python: AdventJS](https://dev.to/midudev/25-retos-de-programacion-de-javascript-y-python-adventjs-2gj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
