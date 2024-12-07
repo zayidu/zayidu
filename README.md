@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [AISEKA Color Tool Website](https://dev.to/meetqy/aiseka-color-tool-website-4bol)
 - [JWT](https://dev.to/rednexie/jwt-28n8)
 - [Daily JavaScript Challenge #JS-40: Find Balanced Delimiters](https://dev.to/dpc/daily-javascript-challenge-js-40-find-balanced-delimiters-56dc)
 - [Beyond the Classroom: Inspiring Careers in Open Source](https://dev.to/gh-campus-experts/beyond-the-classroom-inspiring-careers-in-open-source-56ld)
 - [NoSQL injection](https://dev.to/rednexie/nosql-injection-93d)
-- [API testing](https://dev.to/rednexie/api-testing-2jf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
