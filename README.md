@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AISEKA Color Tool Website](https://dev.to/meetqy/aiseka-color-tool-website-4bol)
-- [JWT](https://dev.to/rednexie/jwt-28n8)
-- [Daily JavaScript Challenge #JS-40: Find Balanced Delimiters](https://dev.to/dpc/daily-javascript-challenge-js-40-find-balanced-delimiters-56dc)
-- [Beyond the Classroom: Inspiring Careers in Open Source](https://dev.to/gh-campus-experts/beyond-the-classroom-inspiring-careers-in-open-source-56ld)
-- [NoSQL injection](https://dev.to/rednexie/nosql-injection-93d)
+- [Recursion in Programming: Techniques, Benefits, and Limitations — Java](https://dev.to/alex_ricciardi/recursion-in-programming-techniques-benefits-and-limitations-java-3o4p)
+- [Naming with Acronyms in PascalCase and camelCase](https://dev.to/finfin/naming-with-acronyms-in-pascalcase-and-camelcase-4m3)
+- [Mastering Linux File Structure: The Importance of the Filesystem Hierarchy Standard &lpar;FHS&rpar;](https://dev.to/alex_ricciardi/mastering-linux-file-structure-the-importance-of-the-filesystem-hierarchy-standard-fhs-5273)
+- [An Overview of RAID Storage: Levels, Performance, and Data Redundancy](https://dev.to/alex_ricciardi/an-overview-of-raid-storage-levels-performance-and-data-redundancy-igi)
+- [New Features in React 19 Stable ️‍🔥](https://dev.to/best_codes/new-features-in-react-19-stable-4ded)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
