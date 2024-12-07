@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Dependency Injection in Android Development](https://dev.to/adityabhuyan/mastering-dependency-injection-in-android-development-37cf)
-- [Importação Estática:](https://dev.to/javaparainiciantes/importacao-estatica-597f)
-- [The Art of Crafting Immersive Worlds: Inside the Mind of a Virtual Reality Game Developer](https://dev.to/gamepro/the-art-of-crafting-immersive-worlds-inside-the-mind-of-a-virtual-reality-game-developer-22li)
-- [Day 5 – Unsupervised Learning: Clustering and Dimensionality Reduction](https://dev.to/ahammadmejbah/day-5-unsupervised-learning-clustering-and-dimensionality-reduction-3ikh)
-- [Day 4 – Model Evaluation and Selection](https://dev.to/ahammadmejbah/day-4-model-evaluation-and-selection-4kdo)
+- [API Versioning: Best Practices for Managing Change in APIs](https://dev.to/getambassador2024/api-versioning-best-practices-for-managing-change-in-apis-1dgg)
+- [Cryptography and Blockchain Technology](https://dev.to/iabdulkarim472/cryptography-and-blockchain-technology-5b09)
+- [Code Aladdin game in React JS](https://dev.to/imrankh13332994/code-aladdin-game-in-react-js-53n9)
+- [How to optimize Vite app?](https://dev.to/yogeshgalav7/how-to-optimize-vite-app-i89)
+- [[Boost]](https://dev.to/truongpx396/-507e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
