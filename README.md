@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to upload files to a server in NodeJS with Formidable](https://dev.to/plleonart/how-to-upload-files-to-a-server-in-nodejs-with-formidable-3bkg)
-- [Learn how to animate objects with Tailwind CSS and Alpine JS intersection observer](https://dev.to/mike_andreuzza/learn-how-to-animate-objects-with-tailwind-css-and-alpine-js-intersection-observer-16l9)
-- [Building a 🧾 PDF Invoice Generator with 📨 Twilio SendGrid, 🐍 Python, Flask, and 🖌️ Bootstrap](https://dev.to/kumarkalyan/building-a-pdf-invoice-generator-with-twilio-sendgrid-python-flask-and-bootstrap-1pco)
-- [How to Quickly Level Up and Earn Money in Cabin Crew Life Simulator](https://dev.to/khaisimon_devgame/how-to-quickly-level-up-and-earn-money-in-cabin-crew-life-simulator-4oib)
-- [CSS Art: December](https://dev.to/martichka9/christmas-glass-ball-with-snow-4ll7)
+- [Ultimate guide to prompt engineering](https://dev.to/petrbrzek/ultimate-guide-to-prompt-engineering-36o5)
+- [Why is visual important?](https://dev.to/junissen9/why-is-visual-important-45p8)
+- [Windsurf: From Free Coding Hero to Pricey AI Rival – What Happened?](https://dev.to/dev_michael/windsurf-from-free-coding-hero-to-pricey-ai-rival-what-happened-k87)
+- [Protecting Privacy &amp; Freedom of Thought in the Digital Age with Oasis Protocol](https://dev.to/bryan_conquer/protecting-privacy-freedom-of-thought-in-the-digital-age-with-oasis-protocol-4k7k)
+- [Installing NGINX in linux](https://dev.to/fazly_fathhy/installing-nginx-in-linux-255a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
