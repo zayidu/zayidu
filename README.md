@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging AWS SQS for a Modern Nigerian Lifestyle: A Reliable Message Queue Service](https://dev.to/imran_abdulazeez_/leveraging-aws-sqs-for-a-modern-nigerian-lifestyle-a-reliable-message-queue-service-35m0)
-- [Containerized Development Workflows](https://dev.to/iskender83/containerized-development-workflows-1hjp)
-- [AI: A Double-Edged Sword, Shaping Our Future](https://dev.to/akshay5651/ai-a-double-edged-sword-shaping-our-future-869)
-- [Java Compilation : From Source Code to Bytecode Execution](https://dev.to/imkrunalkanojiya/java-compilation-from-source-code-to-bytecode-execution-12hp)
-- [Release 0.4 // Progress Report](https://dev.to/cduarte3/release-04-progress-report-2cn5)
+- [Cloud-Based Security for Financial Data Systems](https://dev.to/iskender83/cloud-based-security-for-financial-data-systems-1d7h)
+- [WebSockets: The Secret to Seamless Real-Time Communication](https://dev.to/mukhilpadmanabhan/websockets-the-secret-to-seamless-real-time-communication-3joc)
+- [Privacy-Enhancing Cryptography](https://dev.to/iskender83/privacy-enhancing-cryptography-5105)
+- [Build a Dartboard with Web Components &amp; HTML Canvas🎯](https://dev.to/dartbot/build-a-dartboard-with-web-components-html-canvas-3j2l)
+- [API Rate Limiting and Protection](https://dev.to/iskender83/api-rate-limiting-and-protection-4lm3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
