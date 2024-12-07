@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Just came across this while doing some hobby stuff. Really cool project from a few years ago.](https://dev.to/ben/just-came-across-this-while-doing-some-hobby-stuff-really-cool-project-from-a-few-years-ago-1kj3)
-- [Glam Up My Markup: Winter Solstice](https://dev.to/ladeoshodi/glam-up-my-markup-winter-solstice-21e9)
-- [AWS Global Infrastructure: Availability Zones, Regions and Edge Locations.](https://dev.to/nyong_godwill_e7dfb3c04a7/aws-global-infrastructure-availability-zones-regions-and-edge-locations-5bmg)
-- [How to Integrate Gemini API with React.js: A Step-by-Step Guide.](https://dev.to/tahrim_bilal/how-to-integrate-gemini-api-with-reactjs-a-step-by-step-guide-341b)
-- [Data processing primero, shell después: Nushell](https://dev.to/janoamaral/data-processing-primero-shell-despues-nushell-20kc)
+- [JWT](https://dev.to/rednexie/jwt-28n8)
+- [Daily JavaScript Challenge #JS-40: Find Balanced Delimiters](https://dev.to/dpc/daily-javascript-challenge-js-40-find-balanced-delimiters-56dc)
+- [Beyond the Classroom: Inspiring Careers in Open Source](https://dev.to/gh-campus-experts/beyond-the-classroom-inspiring-careers-in-open-source-56ld)
+- [NoSQL injection](https://dev.to/rednexie/nosql-injection-93d)
+- [API testing](https://dev.to/rednexie/api-testing-2jf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
