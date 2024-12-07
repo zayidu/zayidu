@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you export .env from Vercel: New Laptop, Old Project? No Problem!](https://dev.to/csituma/how-do-you-export-env-from-vercel-new-laptop-old-project-no-problem-1fd1)
-- [DevOps for Beginners: When Code, Ops, and Humor Become Best Friends](https://dev.to/ravindra_babu/devops-for-beginners-when-code-ops-and-humor-become-best-friends-2gka)
-- [Speed up your app: proven techniques for Frontend-optimization](https://dev.to/itdevus/speed-up-your-app-proven-techniques-for-frontend-optimization-m8k)
-- [Linux Lessons - Creating a .deb Package](https://dev.to/benslinux/linux-lessons-creating-a-deb-package-18lh)
-- [How to use Glue crawler to add tables automatically](https://dev.to/payalgupta4639/how-to-use-glue-crawler-to-add-tables-automatically-51c4)
+- [Error Handling in Zig: A Fresh Approach to Reliability](https://dev.to/chrischtel/error-handling-in-zig-a-fresh-approach-to-reliability-19o2)
+- [Mastering Go Concurrency: Essential Patterns for High-Performance Systems](https://dev.to/aaravjoshi/mastering-go-concurrency-essential-patterns-for-high-performance-systems-1ko6)
+- [Mastering Go Memory Optimization: 20 Expert Techniques for Efficient Applications](https://dev.to/aaravjoshi/mastering-go-memory-optimization-20-expert-techniques-for-efficient-applications-4bjc)
+- [Understanding float and double in Java](https://dev.to/ricardocaselati/understanding-float-and-double-in-java-hoa)
+- [How to Run a Polygon Node: A Complete Guide](https://dev.to/nodeshiftcloud/how-to-run-a-polygon-node-a-complete-guide-2efo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
