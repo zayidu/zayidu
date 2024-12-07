@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable Microservices with Java Spring Boot: Best Practices and Techniques part -2](https://dev.to/ayshriv/building-scalable-microservices-with-java-spring-boot-best-practices-and-techniques-part-2-3ld1)
-- [🌐 How to share components between sites](https://dev.to/anthonymax/how-to-share-components-between-sites-59ck)
-- [Elastop: An HTOP Inspired Elasticsearch Monitoring Tool](https://dev.to/cloudnative_eng/elastop-an-htop-inspired-elasticsearch-monitoring-tool-4l7n)
-- [Anotações &lpar;Metadados&rpar;](https://dev.to/javaparainiciantes/anotacoes-metadados-13n7)
-- [Kubernetes and Helm Package Manager](https://dev.to/aiabhishek/kubernetes-and-helm-package-manager-19el)
+- [55/365 | ¥10M Job Challenge - ChatGPT Pro](https://dev.to/kameken100/55365-y10m-job-challenge-chatgpt-pro-p69)
+- [Smart Contracts Security](https://dev.to/iskender83/smart-contracts-security-1e5b)
+- [Why Regular Website Maintenance is Crucial for Your Business](https://dev.to/anony9653/why-regular-website-maintenance-is-crucial-for-your-business-3083)
+- [Web-Sockets Concept &amp; Real-time Chat Application Working Principles using Web-Sockets](https://dev.to/mysteryminusplus/web-sockets-concept-real-time-chat-application-working-principles-using-web-sockets-2fja)
+- [POO entrando a un nuevo viejo mundo](https://dev.to/gesman/poo-entrando-a-un-nuevo-viejo-mundo-1bff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
