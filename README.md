@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Recursion in Programming: Techniques, Benefits, and Limitations — Java](https://dev.to/alex_ricciardi/recursion-in-programming-techniques-benefits-and-limitations-java-3o4p)
-- [Naming with Acronyms in PascalCase and camelCase](https://dev.to/finfin/naming-with-acronyms-in-pascalcase-and-camelcase-4m3)
-- [Mastering Linux File Structure: The Importance of the Filesystem Hierarchy Standard &lpar;FHS&rpar;](https://dev.to/alex_ricciardi/mastering-linux-file-structure-the-importance-of-the-filesystem-hierarchy-standard-fhs-5273)
-- [An Overview of RAID Storage: Levels, Performance, and Data Redundancy](https://dev.to/alex_ricciardi/an-overview-of-raid-storage-levels-performance-and-data-redundancy-igi)
-- [New Features in React 19 Stable ️‍🔥](https://dev.to/best_codes/new-features-in-react-19-stable-4ded)
+- [Part 3: Building Your Own AI - Understanding the Basics of Machine Learning Algorithms](https://dev.to/trixsec/part-3-building-your-own-ai-understanding-the-basics-of-machine-learning-algorithms-11kh)
+- [Fundamentos do autoboxing e os métodos](https://dev.to/javaefetivo/fundamentos-do-autoboxing-e-os-metodos-2i5m)
+- [CRUD With Flask And MySql #1 Introduction](https://dev.to/yudhasdev/crud-with-flask-and-mysql-1-introduction-ajk)
+- [Light Interaction in Computer Graphics: Reflection and the Blinn-Phong Model — OpenGL](https://dev.to/alex_ricciardi/light-interaction-in-computer-graphics-reflection-and-the-blinn-phong-model-opengl-mc9)
+- [AWR, ADDM, and ASH in Oracle SQL](https://dev.to/mrcaption49/awr-addm-and-ash-in-oracle-sql-2k0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
