@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Key Concepts Every .NET Developer Should Know for Job Interviews](https://dev.to/auyeungdavid_2847435260/5-key-concepts-every-net-developer-should-know-for-job-interviews-4je6)
-- [Java 3](https://dev.to/yaswanth_krishna_81faee1e/java-3-2hjk)
-- [LeetCode Challenge: 80. Remove Duplicates from Sorted Array II - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-80-remove-duplicates-from-sorted-array-ii-javascript-solution-4ki6)
-- [SpeakUp Forum &lpar;College Mini Project&rpar;](https://dev.to/fr4nkcd_5042e9eaeed2c6105/speakup-forum-college-mini-project-10do)
-- [How to Attach, Modify, and Increase an AWS EC2 EBS Volume from Your Local Linux Machine.](https://dev.to/abstractmusa/how-to-attach-modify-and-increase-an-aws-ec2-ebs-volume-from-your-local-linux-machine-17bi)
+- [Building Scalable Microservices with Java Spring Boot: Best Practices and Techniques part -2](https://dev.to/ayshriv/building-scalable-microservices-with-java-spring-boot-best-practices-and-techniques-part-2-3ld1)
+- [🌐 How to share components between sites](https://dev.to/anthonymax/how-to-share-components-between-sites-59ck)
+- [Elastop: An HTOP Inspired Elasticsearch Monitoring Tool](https://dev.to/cloudnative_eng/elastop-an-htop-inspired-elasticsearch-monitoring-tool-4l7n)
+- [Anotações &lpar;Metadados&rpar;](https://dev.to/javaparainiciantes/anotacoes-metadados-13n7)
+- [Kubernetes and Helm Package Manager](https://dev.to/aiabhishek/kubernetes-and-helm-package-manager-19el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
