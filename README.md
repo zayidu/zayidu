@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Art with CSS Grid and SVG filters](https://dev.to/madsstoumann/art-with-css-grid-and-svg-filters-1ke6)
-- [The Power of a Custom Component Generator in Next.js Projects](https://dev.to/narendra_deo_singh/the-power-of-a-custom-component-generator-in-nextjs-projects-1a3l)
-- [𝐁𝐢𝐠 𝐎 𝐍𝐨𝐭𝐚𝐭𝐢𝐨𝐧: 𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐭𝐡𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐨𝐟 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲! 💻](https://dev.to/renan_almeidasv/--51c2)
-- [A Starter Guide to Data Structures for AI and Machine Learning](https://dev.to/atharvgyan/a-starter-guide-to-data-structures-for-ai-and-machine-learning-2f8n)
-- [Introducing Hono OpenAPI: Simplifying API Documentation for HonoJS](https://dev.to/mathuraditya7/introducing-hono-openapi-simplifying-api-documentation-for-honojs-2e0e)
+- [5 Key Concepts Every .NET Developer Should Know for Job Interviews](https://dev.to/auyeungdavid_2847435260/5-key-concepts-every-net-developer-should-know-for-job-interviews-4je6)
+- [Java 3](https://dev.to/yaswanth_krishna_81faee1e/java-3-2hjk)
+- [LeetCode Challenge: 80. Remove Duplicates from Sorted Array II - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-80-remove-duplicates-from-sorted-array-ii-javascript-solution-4ki6)
+- [SpeakUp Forum &lpar;College Mini Project&rpar;](https://dev.to/fr4nkcd_5042e9eaeed2c6105/speakup-forum-college-mini-project-10do)
+- [How to Attach, Modify, and Increase an AWS EC2 EBS Volume from Your Local Linux Machine.](https://dev.to/abstractmusa/how-to-attach-modify-and-increase-an-aws-ec2-ebs-volume-from-your-local-linux-machine-17bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
