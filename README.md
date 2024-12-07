@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to Docker Health Checks and Container Monitoring](https://dev.to/idsulik/a-beginners-guide-to-docker-health-checks-and-container-monitoring-3kh6)
-- [Boost Your Retrieval-Augmented Generation &lpar;RAG&rpar; with Vector Databases 🚀](https://dev.to/shubhsk/boost-your-retrieval-augmented-generation-rag-with-vector-databases-2j55)
-- [hi devs.](https://dev.to/karavind2005/hi-devs-2k1m)
-- [Exploring Localhost 127.0.0.1:62893: Setup and Usage Guide](https://dev.to/techyboo009/exploring-localhost-12700162893-setup-and-usage-guide-4ja6)
-- [First post](https://dev.to/caganshen/-3cj7)
+- [Heartbleed: The Bug That Shook the Internet](https://dev.to/0x8j0rn4r80r93/heartbleed-the-bug-that-shook-the-internet-3jaj)
+- [Quick Optimization for your ReactJS Application for Performance and Size](https://dev.to/abhirupa/quick-optimization-for-your-reactjs-application-for-performance-and-size-378k)
+- [MiniProject Tailtreats](https://dev.to/salincalyna/miniproject-tailtreats-1p1m)
+- [Observables in Node.js: Transforming Asynchronous Chaos into Elegant Code](https://dev.to/gleidsonleite/observables-in-nodejs-transforming-asynchronous-chaos-into-elegant-code-l7b)
+- [My name is [Seif]. I&#39;m passionate about making programming accessible. I run &quot;Innovate Elevate&quot; on YouTube, Check it out here: [https://www.youtube.com/@InnovateElevate-c7t]. Let&#39;s learn and grow together!](https://dev.to/seif-business/my-name-is-seif-im-passionate-about-making-programming-accessible-i-run-innovate-elevate-on-58mm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
