@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS SNS and SQS: Building Reliable Messaging Systems](https://dev.to/msalbrain/aws-sns-and-sqs-building-reliable-messaging-systems-1971)
-- [Step into the world of API integration in your React projects with the powerful Google Gemini API!](https://dev.to/tahrim_bilal/step-into-the-world-of-api-integration-in-your-react-projects-with-the-powerful-google-gemini-api-abe)
-- [Why I Love Laravel: A Beginner&#39;s Perspective](https://dev.to/haythembekir20/why-i-love-laravel-a-beginners-perspective-46o8)
-- [What is eBPF?](https://dev.to/klip_klop/what-is-ebpf-ke0)
-- [25 retos de Programación de JavaScript y Python: AdventJS](https://dev.to/midudev/25-retos-de-programacion-de-javascript-y-python-adventjs-2gj0)
+- [E-commerce Product Page: Building Dynamic Shopping Experiences! 🛍️](https://dev.to/imrancodes/e-commerce-product-page-building-dynamic-shopping-experiences-1k2h)
+- [testing liverpool](https://dev.to/javascriptar/testing-liverpool-11h2)
+- [Why 90% of Software Development Projects Fail &lpar;And How You Can Avoid It!&rpar;](https://dev.to/ekele/why-90-of-software-development-projects-fail-and-how-you-can-avoid-it-3dnb)
+- [testing whatever](https://dev.to/javascriptar/testing-whatever-50k5)
+- [testing liverpool](https://dev.to/javascriptar/testing-liverpool-5183)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
