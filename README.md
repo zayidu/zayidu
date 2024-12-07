@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API Versioning: Best Practices for Managing Change in APIs](https://dev.to/getambassador2024/api-versioning-best-practices-for-managing-change-in-apis-1dgg)
-- [Cryptography and Blockchain Technology](https://dev.to/iabdulkarim472/cryptography-and-blockchain-technology-5b09)
-- [Code Aladdin game in React JS](https://dev.to/imrankh13332994/code-aladdin-game-in-react-js-53n9)
-- [How to optimize Vite app?](https://dev.to/yogeshgalav7/how-to-optimize-vite-app-i89)
-- [[Boost]](https://dev.to/truongpx396/-507e)
+- [Ansible Apt Module: Manage Packages on Debian-based Systems](https://dev.to/labex/ansible-apt-module-manage-packages-on-debian-based-systems-1j8h)
+- [Today learned object create, calling statement, method definition, arguments&lpar;parameters&rpar;](https://dev.to/pavitra_aravind_3d319916a/today-learned-object-create-calling-statement-method-definition-argumentsparameters-1i35)
+- [My 2024 Good Links List](https://dev.to/cypriantinasheaarons/my-2024-good-links-list-dca)
+- [Harnessing AI Technology in Web Design and Web Development at Nandha Infotech](https://dev.to/sripathi_sripathi_/harnessing-ai-technology-in-web-design-and-web-development-at-nandha-infotech-5689)
+- [Latest Newsletter: Censorship, AI Memecoins, 100K BTC, Time &amp; the Ruliad &lpar;Issue #193&rpar;](https://dev.to/mjgs/latest-newsletter-censorship-ai-memecoins-100k-btc-time-the-ruliad-issue-193-1a84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
