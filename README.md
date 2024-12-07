@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate guide to prompt engineering](https://dev.to/petrbrzek/ultimate-guide-to-prompt-engineering-36o5)
-- [Why is visual important?](https://dev.to/junissen9/why-is-visual-important-45p8)
-- [Windsurf: From Free Coding Hero to Pricey AI Rival – What Happened?](https://dev.to/dev_michael/windsurf-from-free-coding-hero-to-pricey-ai-rival-what-happened-k87)
-- [Protecting Privacy &amp; Freedom of Thought in the Digital Age with Oasis Protocol](https://dev.to/bryan_conquer/protecting-privacy-freedom-of-thought-in-the-digital-age-with-oasis-protocol-4k7k)
-- [Installing NGINX in linux](https://dev.to/fazly_fathhy/installing-nginx-in-linux-255a)
+- [A Beginner&#39;s Guide to Docker Health Checks and Container Monitoring](https://dev.to/idsulik/a-beginners-guide-to-docker-health-checks-and-container-monitoring-3kh6)
+- [Boost Your Retrieval-Augmented Generation &lpar;RAG&rpar; with Vector Databases 🚀](https://dev.to/shubhsk/boost-your-retrieval-augmented-generation-rag-with-vector-databases-2j55)
+- [hi devs.](https://dev.to/karavind2005/hi-devs-2k1m)
+- [Exploring Localhost 127.0.0.1:62893: Setup and Usage Guide](https://dev.to/techyboo009/exploring-localhost-12700162893-setup-and-usage-guide-4ja6)
+- [First post](https://dev.to/caganshen/-3cj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
