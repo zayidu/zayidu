@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [55/365 | ¥10M Job Challenge - ChatGPT Pro](https://dev.to/kameken100/55365-y10m-job-challenge-chatgpt-pro-p69)
-- [Smart Contracts Security](https://dev.to/iskender83/smart-contracts-security-1e5b)
-- [Why Regular Website Maintenance is Crucial for Your Business](https://dev.to/anony9653/why-regular-website-maintenance-is-crucial-for-your-business-3083)
-- [Web-Sockets Concept &amp; Real-time Chat Application Working Principles using Web-Sockets](https://dev.to/mysteryminusplus/web-sockets-concept-real-time-chat-application-working-principles-using-web-sockets-2fja)
-- [POO entrando a un nuevo viejo mundo](https://dev.to/gesman/poo-entrando-a-un-nuevo-viejo-mundo-1bff)
+- [Leveraging AWS SQS for a Modern Nigerian Lifestyle: A Reliable Message Queue Service](https://dev.to/imran_abdulazeez_/leveraging-aws-sqs-for-a-modern-nigerian-lifestyle-a-reliable-message-queue-service-35m0)
+- [Containerized Development Workflows](https://dev.to/iskender83/containerized-development-workflows-1hjp)
+- [AI: A Double-Edged Sword, Shaping Our Future](https://dev.to/akshay5651/ai-a-double-edged-sword-shaping-our-future-869)
+- [Java Compilation : From Source Code to Bytecode Execution](https://dev.to/imkrunalkanojiya/java-compilation-from-source-code-to-bytecode-execution-12hp)
+- [Release 0.4 // Progress Report](https://dev.to/cduarte3/release-04-progress-report-2cn5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
