@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Brisa 0.2.0 Release Notes](https://dev.to/aralroca/brisa-020-release-notes-37jj)
-- [Take a look at this blog post. If you found it useful, please leave a like and comment below, thank you!!](https://dev.to/lorebrada00/take-a-look-at-this-blog-post-please-leave-a-like-and-comment-below-if-you-enjoyed-it-3kia)
-- [Hello guys!](https://dev.to/yelkin_arslan/hello-guys-k4a)
-- [Final Result](https://dev.to/fadingna/final-result-4m68)
-- [Testing LLM Speed Across Cloud Providers: Groq, Cerebras, AWS &amp; More](https://dev.to/fr4ncis/testing-llm-speed-across-cloud-providers-groq-cerebras-aws-more-3f8)
+- [How to Decide Which Engine is Right for You](https://dev.to/loartdev/how-to-decide-which-engine-is-right-for-you-2ga8)
+- [Understanding Xenea’s DACS Node Architecture and SGM: The Foundation of Reliable NFT Storage](https://dev.to/ajtech0001/understanding-xeneas-dacs-node-architecture-and-sgm-the-foundation-of-reliable-nft-storage-4ghb)
+- [Case Study: Ascension Belle&#39;s Offering](https://dev.to/loartdev/case-study-ascension-belles-offering-52dk)
+- [Two Sum problem in Javascript](https://dev.to/sushmeet/two-sum-problem-in-javascript-4aj2)
+- [Unlock Extra Income: 12 Proven Ways Developers Can Cash In on Their Skills!](https://dev.to/nasehbadalov/unlock-extra-income-12-proven-ways-developers-can-cash-in-on-their-skills-2d4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
