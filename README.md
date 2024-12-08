@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI vs. Traditional AI: Key Differences and Use Cases](https://dev.to/anshul_kichara/generative-ai-vs-traditional-ai-key-differences-and-use-cases-1h4a)
-- [56/365 | ¥10M Job Challenge - Health](https://dev.to/kameken100/55365-y10m-job-challenge-health-39md)
-- [Why Are There So Many Programming Languages? Can One Do It All?](https://dev.to/saanchitapaul/why-are-there-so-many-programming-languages-can-one-do-it-all-2aii)
-- [Building an Automated Heat Stress Monitoring System with Microsoft Power Platform and Telegram](https://dev.to/thetoriqul/building-an-automated-heat-stress-monitoring-system-with-microsoft-power-platform-and-telegram-595f)
-- [[CANVAS] - Waves Path](https://dev.to/bluxart/canvas-waves-path-3873)
+- [🚨Packages are missing from npm registry. Each package not found](https://dev.to/anthonymax/packages-are-missing-from-npm-registry-each-package-not-found-1ofc)
+- [Understanding Domain-Specific Languages &lpar;DSLs&rpar;](https://dev.to/surajvatsya/understanding-domain-specific-languages-dsls-2eee)
+- [Assorted Dashboard Views for S3 Metrics using Amazon CloudWatch](https://dev.to/aws-builders/assorted-dashboard-views-for-s3-metrics-using-amazon-cloudwatch-4j7)
+- [Add a Fake Name to the Petition List](https://dev.to/kofa_sunday_73d00f8011584/add-a-fake-name-to-the-petition-list-34pj)
+- [Is React 19 &lt;title&gt; able to set default title / template?](https://dev.to/august_16f300feb904d11e9b/is-react-19-able-to-set-default-title-template-1idh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
