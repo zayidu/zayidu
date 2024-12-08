@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vector Database for Modern Applications](https://dev.to/sebastiancotrina/vector-database-for-modern-applications-jph)
-- [How to Deserialize Internally Tagged JSON in C# with AoT compilation](https://dev.to/1ce/how-to-deserialize-internally-tagged-json-in-c-with-aot-compilation-3plc)
-- [Getting Started with Amazon S3](https://dev.to/elu_olawale/getting-started-with-amazon-s3-34pk)
-- [Sending Voice Messages with Twilio in .NET](https://dev.to/seanmdrew/sending-voice-messages-with-twilio-in-net-bhb)
-- [🚀 Unlocking Microservices Excellence: 🌐 Spring Boot Actuators 🩺 | 📊 Admin Server | 🦘 Kafka in Action!](https://dev.to/om_lathiya/unlocking-microservices-excellence-spring-boot-actuators-admin-server-kafka-in-4n34)
+- [Ollama 0.5 Is Here: Generate Structured Outputs](https://dev.to/busycaesar/structured-response-using-ollama-2i73)
+- [Building an ETL Pipeline for Web Scraping Using Python](https://dev.to/techwithqasim/building-an-etl-pipeline-for-web-scraping-using-python-2381)
+- [Master the Art of Creating a Responsive Navigation Menu Bar using JavaScript](https://dev.to/sharathchandark/master-the-art-of-creating-a-responsive-navigation-menu-bar-using-javascript-264j)
+- [Handling Recipient SMS Replies with Twilio and .NET](https://dev.to/seanmdrew/handling-recipient-sms-replies-with-twilio-and-net-1kni)
+- [How to Create an AWS Account, Launch a Windows EC2 Instance, and Install IIS](https://dev.to/busa/how-to-create-an-aws-account-launch-a-windows-ec2-instance-and-install-iis-5dj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
