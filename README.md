@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Task.WhenAll + Exceptions = Dor de Cabeça!](https://dev.to/angelobelchior/taskwhenall-exceptions-dor-de-cabeca-29g)
-- [Set Git to Recognize Case Changes](https://dev.to/elukuro/set-git-to-recognize-case-changes-3f77)
-- [Topics in Open Source Final Run Part 2 &lpar;Progress&rpar;](https://dev.to/ajogseneca/topics-in-open-source-final-run-part-2-progress-5dp4)
-- [Meu final de ano, dicas, conselhos, opiniões, estou aceitando!](https://dev.to/felipetess/meu-final-de-ano-dicas-conselhos-opinioes-estou-aceitando-3139)
-- [Detached EBS volume from your local Linux system.](https://dev.to/abstractmusa/detached-ebs-volume-from-your-local-linux-system-8md)
+- [Day 8: D-8 🎱](https://dev.to/valeriavg/day-8-d-8-4dfp)
+- [Part 4: Building Your Own AI - Diving Deeper into Supervised Learning](https://dev.to/trixsec/part-4-building-your-own-ai-diving-deeper-into-supervised-learning-9e9)
+- [How does the limit&lpar;&rpar; method differ from the skip&lpar;&rpar; method in streams?](https://dev.to/realnamehidden1_61/how-does-the-limit-method-differ-from-the-skip-method-in-streams-3lgg)
+- [Python Code Example Handbook – Sample Script Coding Tutorial for Beginners](https://dev.to/askyt/python-code-example-handbook-sample-script-coding-tutorial-for-beginners-4fnn)
+- [Implementing and Integrating Email Automation in a Python Timesheet Project](https://dev.to/fahadalikhanca/implementing-and-integrating-email-automation-in-a-python-timesheet-project-4bbb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
