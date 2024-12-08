@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ollama 0.5 Is Here: Generate Structured Outputs](https://dev.to/busycaesar/structured-response-using-ollama-2i73)
-- [Building an ETL Pipeline for Web Scraping Using Python](https://dev.to/techwithqasim/building-an-etl-pipeline-for-web-scraping-using-python-2381)
-- [Master the Art of Creating a Responsive Navigation Menu Bar using JavaScript](https://dev.to/sharathchandark/master-the-art-of-creating-a-responsive-navigation-menu-bar-using-javascript-264j)
-- [Handling Recipient SMS Replies with Twilio and .NET](https://dev.to/seanmdrew/handling-recipient-sms-replies-with-twilio-and-net-1kni)
-- [How to Create an AWS Account, Launch a Windows EC2 Instance, and Install IIS](https://dev.to/busa/how-to-create-an-aws-account-launch-a-windows-ec2-instance-and-install-iis-5dj1)
+- [Backing Up and Restoring the System—Best Practices](https://dev.to/theyasirr/backing-up-and-restoring-the-system-best-practices-5f1p)
+- [MovingMNIST in PyTorch](https://dev.to/hyperkai/movingmnist-in-pytorch-33g8)
+- [3D Parallax Hover Effect Using TailwindCSS](https://dev.to/shofol/3d-parallax-hover-effect-using-tailwindcss-2ff2)
+- [Cared Animated html css](https://dev.to/abdullah_web_dev/cared-animated-html-css-4kn4)
+- [# 🚀 Building a User Management API with FastAPI and SQLite](https://dev.to/blamsa0mine/-building-a-user-management-api-with-fastapi-and-sqlite-e53)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
