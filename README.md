@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React 19 Update 🎉](https://dev.to/sonu123/react-19-update-jcd)
-- [React 19 is now stable ! What’s New 👇](https://dev.to/random_ti/react-19-is-now-stable-whats-new-1k3b)
-- [What’s the hardest part of Software Development?](https://dev.to/itdevus/whats-the-hardest-part-of-software-development-4c9)
-- [Querying S3 logs in a flash with DuckDB 🦆](https://dev.to/siddhantkcode/querying-s3-logs-in-a-flash-with-duckdb-p44)
-- [Boost Your Productivity with Pieces for Developers](https://dev.to/grenishrai/boost-your-productivity-with-pieces-for-developers-k2g)
+- [Vector Database for Modern Applications](https://dev.to/sebastiancotrina/vector-database-for-modern-applications-jph)
+- [How to Deserialize Internally Tagged JSON in C# with AoT compilation](https://dev.to/1ce/how-to-deserialize-internally-tagged-json-in-c-with-aot-compilation-3plc)
+- [Getting Started with Amazon S3](https://dev.to/elu_olawale/getting-started-with-amazon-s3-34pk)
+- [Sending Voice Messages with Twilio in .NET](https://dev.to/seanmdrew/sending-voice-messages-with-twilio-in-net-bhb)
+- [🚀 Unlocking Microservices Excellence: 🌐 Spring Boot Actuators 🩺 | 📊 Admin Server | 🦘 Kafka in Action!](https://dev.to/om_lathiya/unlocking-microservices-excellence-spring-boot-actuators-admin-server-kafka-in-4n34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
