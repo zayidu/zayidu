@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Backing Up and Restoring the System—Best Practices](https://dev.to/theyasirr/backing-up-and-restoring-the-system-best-practices-5f1p)
-- [MovingMNIST in PyTorch](https://dev.to/hyperkai/movingmnist-in-pytorch-33g8)
-- [3D Parallax Hover Effect Using TailwindCSS](https://dev.to/shofol/3d-parallax-hover-effect-using-tailwindcss-2ff2)
-- [Cared Animated html css](https://dev.to/abdullah_web_dev/cared-animated-html-css-4kn4)
-- [# 🚀 Building a User Management API with FastAPI and SQLite](https://dev.to/blamsa0mine/-building-a-user-management-api-with-fastapi-and-sqlite-e53)
+- [JavaScript vs. Deno, Vite 6, Astro 5, and more](https://dev.to/thisweekinjavascript/javascript-vs-deno-vite-6-astro5-and-more-57oo)
+- [2054. Two Best Non-Overlapping Events](https://dev.to/mdarifulhaque/2054-two-best-non-overlapping-events-27jf)
+- [How do you print in c language?](https://dev.to/sandeep_a67a84444cb5f3f6f/how-do-you-print-in-c-language-190l)
+- [Mastering Event-Driven Systems: My Perspective on Common Pitfalls](https://dev.to/chandrasekar_jayabharathy/mastering-event-driven-systems-my-perspective-on-common-pitfalls-12e4)
+- [Amazon Q Developer Tips: No.8 Understanding Context](https://dev.to/aws/amazon-q-developer-tips-no8-understanding-context-2305)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
