@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My journey as a Full-Stack Developer](https://dev.to/behan05/my-journey-as-a-full-stack-developer-520l)
-- [Major Technologies Worth Learning in 2025 for Data Professionals](https://dev.to/rapp2043/major-technologies-worth-learning-in-2025-for-data-professionals-44bg)
-- [One Off to One Data Platform: Design with Intent [Part 2]](https://dev.to/jarrid/one-off-to-one-data-platform-design-with-intent-part-2-hp8)
-- [INTERNET SECURITY: SURFING THE INTERNET SAFELY](https://dev.to/olanrewaju/internet-security-surfing-the-internet-safely-kda)
-- [No traffic on your website? Learn How to Create Sitemaps in NextJS](https://dev.to/thesohailjafri/no-traffic-on-your-website-learn-how-to-create-sitemaps-in-nextjs-57lk)
+- [Task.WhenAll + Exceptions = Dor de Cabeça!](https://dev.to/angelobelchior/taskwhenall-exceptions-dor-de-cabeca-29g)
+- [Set Git to Recognize Case Changes](https://dev.to/elukuro/set-git-to-recognize-case-changes-3f77)
+- [Topics in Open Source Final Run Part 2 &lpar;Progress&rpar;](https://dev.to/ajogseneca/topics-in-open-source-final-run-part-2-progress-5dp4)
+- [Meu final de ano, dicas, conselhos, opiniões, estou aceitando!](https://dev.to/felipetess/meu-final-de-ano-dicas-conselhos-opinioes-estou-aceitando-3139)
+- [Detached EBS volume from your local Linux system.](https://dev.to/abstractmusa/detached-ebs-volume-from-your-local-linux-system-8md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
