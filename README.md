@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Querying S3 logs in a flash with DuckDB 🦆](https://dev.to/siddhantkcode/querying-s3-logs-in-a-flash-with-duckdb-p44)
+- [Boost Your Productivity with Pieces for Developers](https://dev.to/grenishrai/boost-your-productivity-with-pieces-for-developers-k2g)
+- [Solid State Drive &lpar;SSD&rpar; : Complete Overview](https://dev.to/madgan95/solid-state-drive-ssd-complete-overview-3n54)
 - [The Memes Of The Day](https://dev.to/hanzla-baig/the-memes-of-the-day-5c5k)
 - [🚀 How to Share Components Between Sites: A Complete Advanced Guide 🌐](https://dev.to/hanzla-baig/how-to-share-components-between-sites-a-complete-advanced-guide-112)
-- [🚀 How to Share Components Between Sites: The Ultimate Guide🌐](https://dev.to/hanzla-baig/how-to-share-components-between-sites-the-ultimate-guide-46h2)
-- [🚚Memprediksi Geofence di Depan dengan Turf.js: Solusi Cerdas untuk Jalur Hauling](https://dev.to/ferryops/memprediksi-geofence-di-depan-dengan-turfjs-solusi-cerdas-untuk-jalur-hauling-39b4)
-- [Mastering Type Inference in Complex Scenarios for TypeScript](https://dev.to/coder_legion/mastering-type-inference-in-complex-scenarios-for-typescript-5hh7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
