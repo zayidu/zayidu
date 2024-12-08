@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨Packages are missing from npm registry. Each package not found](https://dev.to/anthonymax/packages-are-missing-from-npm-registry-each-package-not-found-1ofc)
-- [Understanding Domain-Specific Languages &lpar;DSLs&rpar;](https://dev.to/surajvatsya/understanding-domain-specific-languages-dsls-2eee)
-- [Assorted Dashboard Views for S3 Metrics using Amazon CloudWatch](https://dev.to/aws-builders/assorted-dashboard-views-for-s3-metrics-using-amazon-cloudwatch-4j7)
-- [Add a Fake Name to the Petition List](https://dev.to/kofa_sunday_73d00f8011584/add-a-fake-name-to-the-petition-list-34pj)
-- [Is React 19 &lt;title&gt; able to set default title / template?](https://dev.to/august_16f300feb904d11e9b/is-react-19-able-to-set-default-title-template-1idh)
+- [Day 8: Week 1 Quiz](https://dev.to/code42cate/day-7-week-1-quiz-dec)
+- [Creating an Amazon EC2 instance and installing the IIS web server.](https://dev.to/oluoma_stella/creating-an-amazon-ec2-instance-and-installing-the-iis-web-server-5c44)
+- [Fetching Liked Posts Using the Bluesky API](https://dev.to/noah_75a59e33bd95/fetching-liked-posts-using-the-bluesky-api-4iko)
+- [SUBSTR and INSTR functions in Oracle SQL](https://dev.to/mrcaption49/substr-and-instr-functions-in-oracle-sql-3k49)
+- [Simulating Mobile Virtual Keyboards in Progressive Web Apps](https://dev.to/kegesch/simulating-mobile-virtual-keyboards-in-progressive-web-apps-424c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
