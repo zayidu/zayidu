@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Against the Clock : Automating Attendance Management](https://dev.to/programmerraja/code-against-the-clock-automating-attendance-management-58ma)
 - [Frontend Dev: Mastering the Art of Frontend Development](https://dev.to/bhuwan71/frontend-dev-mastering-the-art-of-frontend-development-51f0)
 - [Flutter: Is the Framework Dying or Evolving into Something Better?](https://dev.to/ashiqu_ali/flutter-is-the-framework-dying-or-evolving-into-something-better-1abm)
 - [What Makes GenQE the Ultimate Software Testing Tool?](https://dev.to/vaibhavkuls/what-makes-genqe-the-ultimate-software-testing-tool-9g7)
 - [23 React Projects with Source Code](https://dev.to/kaja_uvais_a8691e947dd399/23-react-projects-with-source-code-3bnh)
-- [Avoiding console.log in Production: Best Practices for Robust Logging](https://dev.to/franklinthaker/avoiding-consolelog-in-production-best-practices-for-robust-logging-5me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
