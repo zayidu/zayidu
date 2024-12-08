@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript vs. Deno, Vite 6, Astro 5, and more](https://dev.to/thisweekinjavascript/javascript-vs-deno-vite-6-astro5-and-more-57oo)
-- [2054. Two Best Non-Overlapping Events](https://dev.to/mdarifulhaque/2054-two-best-non-overlapping-events-27jf)
-- [How do you print in c language?](https://dev.to/sandeep_a67a84444cb5f3f6f/how-do-you-print-in-c-language-190l)
-- [Mastering Event-Driven Systems: My Perspective on Common Pitfalls](https://dev.to/chandrasekar_jayabharathy/mastering-event-driven-systems-my-perspective-on-common-pitfalls-12e4)
-- [Amazon Q Developer Tips: No.8 Understanding Context](https://dev.to/aws/amazon-q-developer-tips-no8-understanding-context-2305)
+- [Generative AI vs. Traditional AI: Key Differences and Use Cases](https://dev.to/anshul_kichara/generative-ai-vs-traditional-ai-key-differences-and-use-cases-1h4a)
+- [56/365 | ¥10M Job Challenge - Health](https://dev.to/kameken100/55365-y10m-job-challenge-health-39md)
+- [Why Are There So Many Programming Languages? Can One Do It All?](https://dev.to/saanchitapaul/why-are-there-so-many-programming-languages-can-one-do-it-all-2aii)
+- [Building an Automated Heat Stress Monitoring System with Microsoft Power Platform and Telegram](https://dev.to/thetoriqul/building-an-automated-heat-stress-monitoring-system-with-microsoft-power-platform-and-telegram-595f)
+- [[CANVAS] - Waves Path](https://dev.to/bluxart/canvas-waves-path-3873)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
