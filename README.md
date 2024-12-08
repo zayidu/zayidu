@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Type Inference in Complex Scenarios for TypeScript](https://dev.to/coder_legion/mastering-type-inference-in-complex-scenarios-for-typescript-5hh7)
 - [Code Smarter, Not Harder: Tips You Wish You Knew Yesterday](https://dev.to/0x3d_site/code-smarter-not-harder-tips-you-wish-you-knew-yesterday-543l)
 - [Types vs Interfaces: The Ultimate Showdown 🥊](https://dev.to/juniourrau/types-vs-interfaces-the-ultimate-showdown-3dmk)
 - [How to validate requests when using AWS Lambda Function Url](https://dev.to/iamsherif/how-to-validate-requests-when-using-aws-lambda-function-url-5d72)
 - [Code Against the Clock : Automating Attendance Management](https://dev.to/programmerraja/code-against-the-clock-automating-attendance-management-58ma)
-- [Flutter: Is the Framework Dying or Evolving into Something Better?](https://dev.to/ashiqu_ali/flutter-is-the-framework-dying-or-evolving-into-something-better-1abm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
