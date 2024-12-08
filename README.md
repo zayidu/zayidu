@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [E-commerce Product Page: Building Dynamic Shopping Experiences! 🛍️](https://dev.to/imrancodes/e-commerce-product-page-building-dynamic-shopping-experiences-1k2h)
-- [testing liverpool](https://dev.to/javascriptar/testing-liverpool-11h2)
-- [Why 90% of Software Development Projects Fail &lpar;And How You Can Avoid It!&rpar;](https://dev.to/ekele/why-90-of-software-development-projects-fail-and-how-you-can-avoid-it-3dnb)
-- [testing whatever](https://dev.to/javascriptar/testing-whatever-50k5)
-- [testing liverpool](https://dev.to/javascriptar/testing-liverpool-5183)
+- [My journey as a Full-Stack Developer](https://dev.to/behan05/my-journey-as-a-full-stack-developer-520l)
+- [Major Technologies Worth Learning in 2025 for Data Professionals](https://dev.to/rapp2043/major-technologies-worth-learning-in-2025-for-data-professionals-44bg)
+- [One Off to One Data Platform: Design with Intent [Part 2]](https://dev.to/jarrid/one-off-to-one-data-platform-design-with-intent-part-2-hp8)
+- [INTERNET SECURITY: SURFING THE INTERNET SAFELY](https://dev.to/olanrewaju/internet-security-surfing-the-internet-safely-kda)
+- [No traffic on your website? Learn How to Create Sitemaps in NextJS](https://dev.to/thesohailjafri/no-traffic-on-your-website-learn-how-to-create-sitemaps-in-nextjs-57lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
