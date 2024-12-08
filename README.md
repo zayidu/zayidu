@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 8: D-8 🎱](https://dev.to/valeriavg/day-8-d-8-4dfp)
-- [Part 4: Building Your Own AI - Diving Deeper into Supervised Learning](https://dev.to/trixsec/part-4-building-your-own-ai-diving-deeper-into-supervised-learning-9e9)
-- [How does the limit&lpar;&rpar; method differ from the skip&lpar;&rpar; method in streams?](https://dev.to/realnamehidden1_61/how-does-the-limit-method-differ-from-the-skip-method-in-streams-3lgg)
-- [Python Code Example Handbook – Sample Script Coding Tutorial for Beginners](https://dev.to/askyt/python-code-example-handbook-sample-script-coding-tutorial-for-beginners-4fnn)
-- [Implementing and Integrating Email Automation in a Python Timesheet Project](https://dev.to/fahadalikhanca/implementing-and-integrating-email-automation-in-a-python-timesheet-project-4bbb)
+- [Frontend Dev: Mastering the Art of Frontend Development](https://dev.to/bhuwan71/frontend-dev-mastering-the-art-of-frontend-development-51f0)
+- [Flutter: Is the Framework Dying or Evolving into Something Better?](https://dev.to/ashiqu_ali/flutter-is-the-framework-dying-or-evolving-into-something-better-1abm)
+- [What Makes GenQE the Ultimate Software Testing Tool?](https://dev.to/vaibhavkuls/what-makes-genqe-the-ultimate-software-testing-tool-9g7)
+- [23 React Projects with Source Code](https://dev.to/kaja_uvais_a8691e947dd399/23-react-projects-with-source-code-3bnh)
+- [Avoiding console.log in Production: Best Practices for Robust Logging](https://dev.to/franklinthaker/avoiding-consolelog-in-production-best-practices-for-robust-logging-5me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
