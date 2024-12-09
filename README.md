@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/hassan_aftab/-lb7)
-- [Introducing Emailgic: Your New AI Email Design Partner](https://dev.to/chuy/introducing-emailgic-your-new-ai-email-design-partner-in)
-- [**Dynamic Scaling with AWS Auto Scaling Groups via Console**](https://dev.to/radurga/dynamic-scaling-with-aws-auto-scaling-groups-via-console-5bg1)
-- [Transform Your Codebase into Comprehensive Documentation with Markdown](https://dev.to/sulmanweb/transform-your-codebase-into-comprehensive-documentation-with-markdown-43k2)
-- [Why Rootless Containers Matter: A Security Perspective](https://dev.to/hassan_aftab/why-rootless-containers-matter-a-security-perspective-59ni)
+- [Parsing Grid-Based STDIN Input in Gleam](https://dev.to/frorning/parsing-grid-based-stdin-input-in-gleam-2kca)
+- [Optimizing Your Kubernetes Deployments: Tips for Developers](https://dev.to/rubixkube/optimizing-your-kubernetes-deployments-tips-for-developers-308)
+- [Understanding Behavior-Driven Development &lpar;BDD&rpar;: A Guide to Building Better Software](https://dev.to/keploy/understanding-behavior-driven-development-bdd-a-guide-to-building-better-software-57fb)
+- [Give it a read!](https://dev.to/khawaja-haider/give-it-a-read-13bb)
+- [Day 47: Model Compression for Deployment](https://dev.to/nareshnishad/day-47-model-compression-for-deployment-46o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
