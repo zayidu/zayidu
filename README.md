@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering `sed` Commands and Flags: A Guide to Stream Editing in Linux 🖥️](https://dev.to/eshanized/mastering-sed-commands-and-flags-a-guide-to-stream-editing-in-linux-29jj)
-- [How to create a dynamic object](https://dev.to/mujahida_joynab_64c7407d8/how-to-create-a-dynamic-object-20e9)
-- [GUI Testing: Best Practices, Tools, and Checklists You Can’t Miss](https://dev.to/testifytech/gui-testing-best-practices-tools-and-checklists-you-cant-miss-4pb3)
-- [Integrate DAYTONA and let the magic begin....](https://dev.to/mayank_mohapatra/integrate-daytona-and-let-the-magic-begin-38hg)
-- [AI-Based Testing: Benefits, Challenges, Best Practices and More](https://dev.to/abhayit2000/ai-based-testing-benefits-challenges-best-practices-and-more-32nh)
+- [Static React App Deployment with Vite](https://dev.to/fabbuilder/static-react-app-deployment-with-vite-56l0)
+- [Don&#39;t leak your secrets in your code and use the proper tools instead! 🫢](https://dev.to/code42cate/dont-leak-your-secrets-in-your-code-and-use-the-proper-tools-instead-c0a)
+- [Day 9: Docker Environment Variables and Configuration](https://dev.to/code42cate/day-9-docker-environment-variables-and-configuration-2aaj)
+- [Deploying Configurable and Clustered Web Servers Using Terraform](https://dev.to/teetoflame/deploying-configurable-and-clustered-web-servers-using-terraform-1j8f)
+- [Tang Cuong Hieu Suat Va Bao Mat Voi Direct Connect, MPLS Va Private Cloud](https://dev.to/helen_burton/tang-cuong-hieu-suat-va-bao-mat-voi-direct-connect-mpls-va-private-cloud-nh6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
