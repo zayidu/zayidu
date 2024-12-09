@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Intro: Jonah 🐷](https://dev.to/mileswk/intro-jonah-3amh)
-- [FastAPI vs Django vs Flask: The Framework Showdown for 2025 👇🏼](https://dev.to/clickit_devops/fastapi-vs-django-vs-flask-the-framework-showdown-for-2025-4pen)
-- [Day 3 java](https://dev.to/guna_sekaran_/day-3-java-2l10)
-- [OS command injection](https://dev.to/rednexie/os-command-injection-1cll)
-- [Karpenter to EKS Auto Mode, worth it?](https://dev.to/er_dward/karpenter-to-eks-auto-mode-worth-it-1g2a)
+- [Your coding year in review](https://dev.to/radchenko/your-coding-year-in-review-5e8f)
+- [Javascript: Implementing Passwordless Login with Salesforce](https://dev.to/garciadiazjaime/javascript-implementing-passwordless-login-with-salesforce-42d8)
+- [Advent of Code: alexandria&#39;s map-permutations was perfect for day 08. Common Lisp tip.](https://dev.to/vindarel/advent-of-code-alexandrias-map-permutations-was-perfect-for-day-08-common-lisp-tip-16il)
+- [Temporary Tables in Oracle SQL](https://dev.to/mrcaption49/temporary-tables-in-oracle-sql-55d)
+- [In App Purchase &lpar; Node + React-Native](https://dev.to/aliosaid01/in-app-purchase-node-react-native-256k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
