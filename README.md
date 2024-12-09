@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 Guide to Architecting an Iceberg Lakehouse](https://dev.to/alexmercedcoder/2025-guide-to-architecting-an-iceberg-lakehouse-1apk)
-- [Tech Leads: To Code or Not to Code? &lpar;and other questions&rpar;](https://dev.to/frontpills/tech-leads-to-code-or-not-to-code-and-other-questions-4j8e)
-- [Mastering BigQuery&#39;s Capacity-Based Compute Pricing Model](https://dev.to/plambein/mastering-bigquerys-capacity-based-compute-pricing-model-23j8)
-- [How to keep your secrets secret on Netlify](https://dev.to/netlify/how-to-keep-your-secrets-secret-on-netlify-4b4p)
-- [How to pass information from a child element back to its parent](https://dev.to/zeanders_swe/how-to-pass-information-from-a-child-element-back-to-its-parent-1i45)
+- [You Are Already Using Wasm In Production](https://dev.to/fermyon/you-are-already-using-wasm-in-production-92k)
+- [Testing from outside with docket containers with zero mocks is a game changer](https://dev.to/rexebin/testing-from-outside-with-docket-containers-with-zero-mocks-is-a-game-changer-4h78)
+- [System has not been booted with systemd as init system &lpar;PID 1&rpar;.](https://dev.to/joshalmasin88/system-has-not-been-booted-with-systemd-as-init-system-pid-1-ank)
+- [MeetRoomly an App to Manage and book meeting rooms with ease using Next.js 15, Prisma, Tailwind CSS, and Clerk](https://dev.to/saidmounaim/meetroomly-an-app-to-manage-and-book-meeting-rooms-with-ease-using-nextjs-15-prisma-tailwind-463h)
+- [Elevate Your Web Development Skills with Apple Podcasts Integration Course](https://dev.to/getvm/elevate-your-web-development-skills-with-apple-podcasts-integration-course-18d7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
