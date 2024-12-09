@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Parsing Grid-Based STDIN Input in Gleam](https://dev.to/frorning/parsing-grid-based-stdin-input-in-gleam-2kca)
-- [Optimizing Your Kubernetes Deployments: Tips for Developers](https://dev.to/rubixkube/optimizing-your-kubernetes-deployments-tips-for-developers-308)
-- [Understanding Behavior-Driven Development &lpar;BDD&rpar;: A Guide to Building Better Software](https://dev.to/keploy/understanding-behavior-driven-development-bdd-a-guide-to-building-better-software-57fb)
-- [Give it a read!](https://dev.to/khawaja-haider/give-it-a-read-13bb)
-- [Day 47: Model Compression for Deployment](https://dev.to/nareshnishad/day-47-model-compression-for-deployment-46o)
+- [Top 8 Most Popular Free Tools for Database Design in 2025](https://dev.to/roxana_haidiner/top-8-most-popular-free-tools-for-database-design-in-2025-4k4c)
+- [Beginners Guide to Hardware Migration](https://dev.to/stromasys/beginners-guide-to-hardware-migration-3kca)
+- [Challenges and Opportunities of AI in Education](https://dev.to/growkon21/challenges-and-opportunities-of-ai-in-education-2632)
+- [Create Server in node under the hood](https://dev.to/ashutoshsarangi/create-server-in-node-under-the-hood-2kkn)
+- [How to Make localStorage Data Reactive](https://dev.to/rain9/how-to-make-localstorage-data-reactive-3eda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
