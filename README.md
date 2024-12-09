@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple accordion without JavaScript](https://dev.to/railsdesigner/simple-accordion-without-javascript-1cpn)
-- [Azure Logic Apps: Automate Your Workflows Without Writing Code](https://dev.to/yelkin_arslan/azure-logic-apps-automate-your-workflows-without-writing-code-mp7)
-- [Masters of Elixir: A Comprehensive Collection of Learning Resources](https://dev.to/abreujp/masters-of-elixir-a-comprehensive-collection-of-learning-resources-4854)
-- [Smalltalk: Conceptual Integrity in Action](https://dev.to/jolisper/smalltalk-conceptual-integrity-in-action-56j8)
-- [Enumerating Dictionary Keys](https://dev.to/moh_moh701/enumerating-dictionary-keys-1o61)
+- [2025 Guide to Architecting an Iceberg Lakehouse](https://dev.to/alexmercedcoder/2025-guide-to-architecting-an-iceberg-lakehouse-1apk)
+- [Tech Leads: To Code or Not to Code? &lpar;and other questions&rpar;](https://dev.to/frontpills/tech-leads-to-code-or-not-to-code-and-other-questions-4j8e)
+- [Mastering BigQuery&#39;s Capacity-Based Compute Pricing Model](https://dev.to/plambein/mastering-bigquerys-capacity-based-compute-pricing-model-23j8)
+- [How to keep your secrets secret on Netlify](https://dev.to/netlify/how-to-keep-your-secrets-secret-on-netlify-4b4p)
+- [How to pass information from a child element back to its parent](https://dev.to/zeanders_swe/how-to-pass-information-from-a-child-element-back-to-its-parent-1i45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
