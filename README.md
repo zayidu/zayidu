@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Architecture](https://dev.to/gemarpets/clean-architecture-3eom)
-- [LeetCode Meditations: Non-overlapping Intervals](https://dev.to/rivea0/leetcode-meditations-non-overlapping-intervals-4l38)
-- [Lock Screen Weather: Staying Informed During America&#39;s Climate Crisis Through Android Innovation](https://dev.to/prajakta_gawande_9485a4fd/lock-screen-weather-staying-informed-during-americas-climate-crisis-through-android-innovation-409e)
-- [Deploy and Manage GitLab Runners on Amazon EC2](https://dev.to/fernandomullerjr/deploy-and-manage-gitlab-runners-on-amazon-ec2-9a1)
-- [F# 9: Nullable Reference Types and Advancing Null Safety](https://dev.to/bytehide/f-9-nullable-reference-types-and-advancing-null-safety-4fla)
+- [How to Install PySpark on Your Local Machine](https://dev.to/shittu_olumide_/how-to-install-pyspark-on-your-local-machine-nn4)
+- [What I Learned Today: Cleaning, Aggregating, and Visualizing Data with Python 🐍](https://dev.to/techieteko/-what-i-learned-today-cleaning-aggregating-and-visualizing-data-with-python-5e3d)
+- [Top 5 self-service BI solutions for Databricks](https://dev.to/ambrus_pethes_a59563db94b/top-5-self-service-bi-solutions-for-databricks-422o)
+- [Creating a BLE Chat Application Using BleuIO USB Dongle](https://dev.to/bleuiot/creating-a-ble-chat-application-using-bleuio-usb-dongle-2ajd)
+- [My 2024 Tools for Prepping Webinars/Podcasts/Social Events](https://dev.to/chanity/my-2024-tools-for-prepping-webinarspodcastssocial-events-a9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
