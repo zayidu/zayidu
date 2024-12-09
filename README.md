@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IntelliJ Shortcuts &lpar;for Mac&rpar;](https://dev.to/riyadattani/intellij-shortcuts-for-mac-4fca)
-- [Join the Software Supply Chain Security Wrap up Episode](https://dev.to/mariaxyg/join-the-software-supply-chain-security-wrap-up-episode-ao8)
-- [Nested lists &lpar;copy&rpar;](https://dev.to/storychief/nested-lists-copy-31gp)
-- [Top 5 Continuous Integration Tools: Optimizing Your Development Workflow](https://dev.to/apilover/top-5-continuous-integration-tools-optimizing-your-development-workflow-207d)
-- [EchoAPI for Cursor Getting Started Guide:Visualization Techniques for Assertions](https://dev.to/velan/echoapi-for-cursor-getting-started-guidevisualization-techniques-for-assertions-44ab)
+- [Clean Architecture](https://dev.to/gemarpets/clean-architecture-3eom)
+- [LeetCode Meditations: Non-overlapping Intervals](https://dev.to/rivea0/leetcode-meditations-non-overlapping-intervals-4l38)
+- [Lock Screen Weather: Staying Informed During America&#39;s Climate Crisis Through Android Innovation](https://dev.to/prajakta_gawande_9485a4fd/lock-screen-weather-staying-informed-during-americas-climate-crisis-through-android-innovation-409e)
+- [Deploy and Manage GitLab Runners on Amazon EC2](https://dev.to/fernandomullerjr/deploy-and-manage-gitlab-runners-on-amazon-ec2-9a1)
+- [F# 9: Nullable Reference Types and Advancing Null Safety](https://dev.to/bytehide/f-9-nullable-reference-types-and-advancing-null-safety-4fla)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
