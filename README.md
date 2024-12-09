@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your coding year in review](https://dev.to/radchenko/your-coding-year-in-review-5e8f)
-- [Javascript: Implementing Passwordless Login with Salesforce](https://dev.to/garciadiazjaime/javascript-implementing-passwordless-login-with-salesforce-42d8)
-- [Advent of Code: alexandria&#39;s map-permutations was perfect for day 08. Common Lisp tip.](https://dev.to/vindarel/advent-of-code-alexandrias-map-permutations-was-perfect-for-day-08-common-lisp-tip-16il)
-- [Temporary Tables in Oracle SQL](https://dev.to/mrcaption49/temporary-tables-in-oracle-sql-55d)
-- [In App Purchase &lpar; Node + React-Native](https://dev.to/aliosaid01/in-app-purchase-node-react-native-256k)
+- [Understanding Inverted Indexes: The Backbone of Efficient Search](https://dev.to/surajvatsya/understanding-inverted-indexes-the-backbone-of-efficient-search-3hoe)
+- [Automatización de recursos en AWS con Terraform: Eficiencia y escalabilidad](https://dev.to/briansuarezsantiago/automatizacion-de-recursos-en-aws-con-terraform-eficiencia-y-escalabilidad-17do)
+- [AI and All Data Weekly for 09 Dec 2024](https://dev.to/timothy_spann_a41a639e47c/ai-and-all-data-weekly-for-09-dec-2024-3f9m)
+- [Create new action in Laravel nova for download PDF for all websites pages](https://dev.to/dhyfullah_ghalebahmed_d1/create-new-action-in-laravel-nova-for-download-pdf-for-all-websites-pages-klh)
+- [💻 Visual Studio Code &lpar;VS Code&rpar;: A Powerful Code Editor 🚀](https://dev.to/aniruddhaadak/visual-studio-code-vs-code-a-powerful-code-editor-417e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
