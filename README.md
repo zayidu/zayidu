@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Decide Which Engine is Right for You](https://dev.to/loartdev/how-to-decide-which-engine-is-right-for-you-2ga8)
-- [Understanding Xenea’s DACS Node Architecture and SGM: The Foundation of Reliable NFT Storage](https://dev.to/ajtech0001/understanding-xeneas-dacs-node-architecture-and-sgm-the-foundation-of-reliable-nft-storage-4ghb)
-- [Case Study: Ascension Belle&#39;s Offering](https://dev.to/loartdev/case-study-ascension-belles-offering-52dk)
-- [Two Sum problem in Javascript](https://dev.to/sushmeet/two-sum-problem-in-javascript-4aj2)
-- [Unlock Extra Income: 12 Proven Ways Developers Can Cash In on Their Skills!](https://dev.to/nasehbadalov/unlock-extra-income-12-proven-ways-developers-can-cash-in-on-their-skills-2d4j)
+- [Simple prompt 2x latent upscaled FLUX — Fine Tuning / DreamBooth Images — Can be trained on as low as 6 GB GPUs](https://dev.to/furkangozukara/simple-prompt-2x-latent-upscaled-flux-fine-tuning-dreambooth-images-can-be-trained-on-as-low-4m7)
+- [Financial Post Mortem For The Commit Your Code Conference](https://dev.to/dthompsondev/financial-post-mortem-for-the-commit-your-code-conference-57of)
+- [DxDiag Windows 11 – What is it &amp; How to use it for Troubleshooting?](https://dev.to/winsides/dxdiag-windows-11-what-is-it-how-to-use-it-for-troubleshooting-48d0)
+- [The Future of Web Apps — “Offline-First” and “Peer-to-Peer” Design](https://dev.to/yujin/the-future-of-web-apps-offline-first-and-peer-to-peer-design-4nj2)
+- [Daily JavaScript Challenge #JS-42: Check Array for Arithmetic Progression](https://dev.to/dpc/daily-javascript-challenge-js-42-check-array-for-arithmetic-progression-26b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
