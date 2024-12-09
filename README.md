@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Inverted Indexes: The Backbone of Efficient Search](https://dev.to/surajvatsya/understanding-inverted-indexes-the-backbone-of-efficient-search-3hoe)
-- [Automatización de recursos en AWS con Terraform: Eficiencia y escalabilidad](https://dev.to/briansuarezsantiago/automatizacion-de-recursos-en-aws-con-terraform-eficiencia-y-escalabilidad-17do)
-- [AI and All Data Weekly for 09 Dec 2024](https://dev.to/timothy_spann_a41a639e47c/ai-and-all-data-weekly-for-09-dec-2024-3f9m)
-- [Create new action in Laravel nova for download PDF for all websites pages](https://dev.to/dhyfullah_ghalebahmed_d1/create-new-action-in-laravel-nova-for-download-pdf-for-all-websites-pages-klh)
-- [💻 Visual Studio Code &lpar;VS Code&rpar;: A Powerful Code Editor 🚀](https://dev.to/aniruddhaadak/visual-studio-code-vs-code-a-powerful-code-editor-417e)
+- [For LiveAPI - Each Day In Itself is a Little Life](https://dev.to/shrsv/for-liveapi-each-day-in-itself-is-a-little-life-bic)
+- [🚀 React 19 Cheat Sheet](https://dev.to/dancalderon/react-19-cheat-sheet-2j8a)
+- [Requirements Engineering: A Practical Approach from 30 Years of Industry Experience](https://dev.to/roboword/requirements-engineering-a-practical-approach-from-30-years-of-industry-experience-5108)
+- [Providing storage for a public website in Azure](https://dev.to/johnogbonna/providing-storage-for-a-public-website-in-azure-3fl3)
+- [Understanding Java Constructors and Static Blocks](https://dev.to/imkrunalkanojiya/understanding-java-constructors-and-static-blocks-2b4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
