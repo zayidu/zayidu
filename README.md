@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [ON DELETE CASCADE Usage with Foreign key](https://dev.to/mrcaption49/on-delete-cascade-usage-with-foreign-key-59e3)
+- [Part 5: Building Your Own AI - Exploring Unsupervised Learning and Clustering](https://dev.to/trixsec/part-5-building-your-own-ai-exploring-unsupervised-learning-and-clustering-nib)
 - [Order Up: Fresh Install of Unity 6](https://dev.to/yuguru/order-up-fresh-install-of-unity-6-oj3)
 - [[Boost]](https://dev.to/itsvinayak/-1eff)
 - [How to fix deployment probe configuration](https://dev.to/labex/how-to-fix-deployment-probe-configuration-18ep)
-- [#113 — Ranking of Row-Based Data](https://dev.to/judith677/113-ranking-of-row-based-data-57cn)
-- [Introduction to Git: A Powerful Version Control System](https://dev.to/pawandeore/introduction-to-git-a-powerful-version-control-system-3c1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
