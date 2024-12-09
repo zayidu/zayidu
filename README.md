@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Apache Flink for Real-time Stream Processing in Data Engineering](https://dev.to/anshul_kichara/using-apache-flink-for-real-time-stream-processing-in-data-engineering-2k59)
-- [In technical terms, &quot;Start with Why&quot; refers to the practice of beginning with a clear understanding of the purpose or underlying motivation before proceeding with the design, development, or execution of a project, system, or solution. Popularized by Simon](https://dev.to/nidhi_tiwari_c9cdd64437e9/in-technical-terms-start-with-why-refers-to-the-practice-of-beginning-with-a-clear-understanding-2a6)
-- [My 2025 Wishlist for Public Cloud Providers](https://dev.to/aws-builders/my-2025-wishlist-for-public-cloud-providers-1kpp)
-- [Dashboard UI Design Templates: A Comprehensive Guide to Boost Your Web Project](https://dev.to/hitesh_developer/dashboard-ui-design-templates-a-comprehensive-guide-to-boost-your-web-project-c84)
-- [How to NOT Create Leetcode Challenges](https://dev.to/mosbat/how-to-not-create-leetcode-challenges-5650)
+- [Intro: Jonah 🐷](https://dev.to/mileswk/intro-jonah-3amh)
+- [FastAPI vs Django vs Flask: The Framework Showdown for 2025 👇🏼](https://dev.to/clickit_devops/fastapi-vs-django-vs-flask-the-framework-showdown-for-2025-4pen)
+- [Day 3 java](https://dev.to/guna_sekaran_/day-3-java-2l10)
+- [OS command injection](https://dev.to/rednexie/os-command-injection-1cll)
+- [Karpenter to EKS Auto Mode, worth it?](https://dev.to/er_dward/karpenter-to-eks-auto-mode-worth-it-1g2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
