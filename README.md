@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [.𝗡𝗘𝗧 𝟵 𝗟𝗜𝗡𝗤 𝗠𝗮𝗴𝗶𝗰 : 𝗚𝗮𝗺𝗲-𝗖𝗵𝗮𝗻𝗴𝗶𝗻𝗴 𝗠𝗲𝘁𝗵𝗼𝗱𝘀 𝗬𝗼𝘂 𝗡𝗲𝗲𝗱 𝗧𝗼 𝗞𝗻𝗼𝘄!](https://dev.to/apurvupadhyay/--n58)
-- [Building an Automated Heat Stress Monitoring System with Microsoft Power Platform and Telegram](https://dev.to/thetoriqul/building-an-automated-heat-stress-monitoring-system-with-microsoft-power-platform-and-telegram-3p6g)
-- [VB .Net: Secure Password](https://dev.to/vblover_programmer/vb-net-secure-password-3lpp)
-- [Overcoming Impostor Syndrome in Software Development](https://dev.to/norbs/overcoming-impostor-syndrome-in-software-development-5fnm)
-- [What Is security.txt and How Can It Help Improve Website Security?](https://dev.to/route06/what-is-securitytxt-and-how-can-it-help-improve-website-security-3kij)
+- [Order Up: Fresh Install of Unity 6](https://dev.to/yuguru/order-up-fresh-install-of-unity-6-oj3)
+- [[Boost]](https://dev.to/itsvinayak/-1eff)
+- [How to fix deployment probe configuration](https://dev.to/labex/how-to-fix-deployment-probe-configuration-18ep)
+- [#113 — Ranking of Row-Based Data](https://dev.to/judith677/113-ranking-of-row-based-data-57cn)
+- [Introduction to Git: A Powerful Version Control System](https://dev.to/pawandeore/introduction-to-git-a-powerful-version-control-system-3c1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
