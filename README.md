@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [For LiveAPI - Each Day In Itself is a Little Life](https://dev.to/shrsv/for-liveapi-each-day-in-itself-is-a-little-life-bic)
-- [🚀 React 19 Cheat Sheet](https://dev.to/dancalderon/react-19-cheat-sheet-2j8a)
-- [Requirements Engineering: A Practical Approach from 30 Years of Industry Experience](https://dev.to/roboword/requirements-engineering-a-practical-approach-from-30-years-of-industry-experience-5108)
-- [Providing storage for a public website in Azure](https://dev.to/johnogbonna/providing-storage-for-a-public-website-in-azure-3fl3)
-- [Understanding Java Constructors and Static Blocks](https://dev.to/imkrunalkanojiya/understanding-java-constructors-and-static-blocks-2b4m)
+- [Simple accordion without JavaScript](https://dev.to/railsdesigner/simple-accordion-without-javascript-1cpn)
+- [Azure Logic Apps: Automate Your Workflows Without Writing Code](https://dev.to/yelkin_arslan/azure-logic-apps-automate-your-workflows-without-writing-code-mp7)
+- [Masters of Elixir: A Comprehensive Collection of Learning Resources](https://dev.to/abreujp/masters-of-elixir-a-comprehensive-collection-of-learning-resources-4854)
+- [Smalltalk: Conceptual Integrity in Action](https://dev.to/jolisper/smalltalk-conceptual-integrity-in-action-56j8)
+- [Enumerating Dictionary Keys](https://dev.to/moh_moh701/enumerating-dictionary-keys-1o61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
