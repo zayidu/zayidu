@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple prompt 2x latent upscaled FLUX — Fine Tuning / DreamBooth Images — Can be trained on as low as 6 GB GPUs](https://dev.to/furkangozukara/simple-prompt-2x-latent-upscaled-flux-fine-tuning-dreambooth-images-can-be-trained-on-as-low-4m7)
-- [Financial Post Mortem For The Commit Your Code Conference](https://dev.to/dthompsondev/financial-post-mortem-for-the-commit-your-code-conference-57of)
-- [DxDiag Windows 11 – What is it &amp; How to use it for Troubleshooting?](https://dev.to/winsides/dxdiag-windows-11-what-is-it-how-to-use-it-for-troubleshooting-48d0)
-- [The Future of Web Apps — “Offline-First” and “Peer-to-Peer” Design](https://dev.to/yujin/the-future-of-web-apps-offline-first-and-peer-to-peer-design-4nj2)
-- [Daily JavaScript Challenge #JS-42: Check Array for Arithmetic Progression](https://dev.to/dpc/daily-javascript-challenge-js-42-check-array-for-arithmetic-progression-26b1)
+- [.𝗡𝗘𝗧 𝟵 𝗟𝗜𝗡𝗤 𝗠𝗮𝗴𝗶𝗰 : 𝗚𝗮𝗺𝗲-𝗖𝗵𝗮𝗻𝗴𝗶𝗻𝗴 𝗠𝗲𝘁𝗵𝗼𝗱𝘀 𝗬𝗼𝘂 𝗡𝗲𝗲𝗱 𝗧𝗼 𝗞𝗻𝗼𝘄!](https://dev.to/apurvupadhyay/--n58)
+- [Building an Automated Heat Stress Monitoring System with Microsoft Power Platform and Telegram](https://dev.to/thetoriqul/building-an-automated-heat-stress-monitoring-system-with-microsoft-power-platform-and-telegram-3p6g)
+- [VB .Net: Secure Password](https://dev.to/vblover_programmer/vb-net-secure-password-3lpp)
+- [Overcoming Impostor Syndrome in Software Development](https://dev.to/norbs/overcoming-impostor-syndrome-in-software-development-5fnm)
+- [What Is security.txt and How Can It Help Improve Website Security?](https://dev.to/route06/what-is-securitytxt-and-how-can-it-help-improve-website-security-3kij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
