@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo instalar el OpenJDK de Java en Windows](https://dev.to/asjordi/como-instalar-el-openjdk-de-java-en-windows-46mn)
-- [Speed Demon: LLMs’ 600ms Race to Appear Human](https://dev.to/mike-vincent/speed-demon-llms-600ms-race-to-appear-human-46ig)
-- [SQL Admin Scripts: A Practical Toolkit for Managing Servers and Databases](https://dev.to/seanmdrew/sql-admin-scripts-a-practical-toolkit-for-managing-servers-and-databases-1gk6)
-- [AI Copilot Development: Navigating the Future of Artificial Intelligence in 2024](https://dev.to/joinwithcandie/ai-copilot-development-navigating-the-future-of-artificial-intelligence-in-2024-341f)
-- [JSON Web Tokens &lpar;JWT&rpar;](https://dev.to/nozibul_islam_113b1d5334f/json-web-tokens-jwt-2l4g)
+- [Using Apache Flink for Real-time Stream Processing in Data Engineering](https://dev.to/anshul_kichara/using-apache-flink-for-real-time-stream-processing-in-data-engineering-2k59)
+- [In technical terms, &quot;Start with Why&quot; refers to the practice of beginning with a clear understanding of the purpose or underlying motivation before proceeding with the design, development, or execution of a project, system, or solution. Popularized by Simon](https://dev.to/nidhi_tiwari_c9cdd64437e9/in-technical-terms-start-with-why-refers-to-the-practice-of-beginning-with-a-clear-understanding-2a6)
+- [My 2025 Wishlist for Public Cloud Providers](https://dev.to/aws-builders/my-2025-wishlist-for-public-cloud-providers-1kpp)
+- [Dashboard UI Design Templates: A Comprehensive Guide to Boost Your Web Project](https://dev.to/hitesh_developer/dashboard-ui-design-templates-a-comprehensive-guide-to-boost-your-web-project-c84)
+- [How to NOT Create Leetcode Challenges](https://dev.to/mosbat/how-to-not-create-leetcode-challenges-5650)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
