@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Static React App Deployment with Vite](https://dev.to/fabbuilder/static-react-app-deployment-with-vite-56l0)
-- [Don&#39;t leak your secrets in your code and use the proper tools instead! 🫢](https://dev.to/code42cate/dont-leak-your-secrets-in-your-code-and-use-the-proper-tools-instead-c0a)
-- [Day 9: Docker Environment Variables and Configuration](https://dev.to/code42cate/day-9-docker-environment-variables-and-configuration-2aaj)
-- [Deploying Configurable and Clustered Web Servers Using Terraform](https://dev.to/teetoflame/deploying-configurable-and-clustered-web-servers-using-terraform-1j8f)
-- [Tang Cuong Hieu Suat Va Bao Mat Voi Direct Connect, MPLS Va Private Cloud](https://dev.to/helen_burton/tang-cuong-hieu-suat-va-bao-mat-voi-direct-connect-mpls-va-private-cloud-nh6)
+- [IntelliJ Shortcuts &lpar;for Mac&rpar;](https://dev.to/riyadattani/intellij-shortcuts-for-mac-4fca)
+- [Join the Software Supply Chain Security Wrap up Episode](https://dev.to/mariaxyg/join-the-software-supply-chain-security-wrap-up-episode-ao8)
+- [Nested lists &lpar;copy&rpar;](https://dev.to/storychief/nested-lists-copy-31gp)
+- [Top 5 Continuous Integration Tools: Optimizing Your Development Workflow](https://dev.to/apilover/top-5-continuous-integration-tools-optimizing-your-development-workflow-207d)
+- [EchoAPI for Cursor Getting Started Guide:Visualization Techniques for Assertions](https://dev.to/velan/echoapi-for-cursor-getting-started-guidevisualization-techniques-for-assertions-44ab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
