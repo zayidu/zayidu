@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering SQLMap Tamper Scripts: The Ultimate Guide to Evading WAFs Like a Pro [Must Read Article]](https://dev.to/trixsec/mastering-sqlmap-tamper-scripts-the-ultimate-guide-to-evading-wafs-like-a-pro-must-read-article-4co3)
-- [Streamlining env0 Onboarding with Environment Discovery](https://dev.to/env0/streamlining-env0-onboarding-with-environment-discovery-5gfc)
-- [Boosting SQL Query Flexibility with CROSS APPLY](https://dev.to/seanmdrew/boosting-sql-query-flexibility-with-cross-apply-11l0)
-- [Effective Logging with ILogger in USSD Banking Applications: A .NET Approach](https://dev.to/korirmoze/effective-logging-with-ilogger-in-ussd-banking-applications-a-net-approach-1a64)
-- [Leverage ETS for Shared State in Phoenix](https://dev.to/rushikeshpandit/leverage-ets-for-shared-state-in-phoenix-2mo8)
+- [Cómo instalar el OpenJDK de Java en Windows](https://dev.to/asjordi/como-instalar-el-openjdk-de-java-en-windows-46mn)
+- [Speed Demon: LLMs’ 600ms Race to Appear Human](https://dev.to/mike-vincent/speed-demon-llms-600ms-race-to-appear-human-46ig)
+- [SQL Admin Scripts: A Practical Toolkit for Managing Servers and Databases](https://dev.to/seanmdrew/sql-admin-scripts-a-practical-toolkit-for-managing-servers-and-databases-1gk6)
+- [AI Copilot Development: Navigating the Future of Artificial Intelligence in 2024](https://dev.to/joinwithcandie/ai-copilot-development-navigating-the-future-of-artificial-intelligence-in-2024-341f)
+- [JSON Web Tokens &lpar;JWT&rpar;](https://dev.to/nozibul_islam_113b1d5334f/json-web-tokens-jwt-2l4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
