@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hi everyone! Please take a look at this blog post! Hope you will fins it useful!!](https://dev.to/lorebrada00/hi-everyone-please-take-a-look-at-this-blog-post-hope-you-will-fins-it-useful-4nng)
-- [Unlock your path to success as a developer with this comprehensive roadmap! 🚀](https://dev.to/lorebrada00/happy-reading-1oik)
-- [🚀 Top GitHub Repositories Every Software Engineer Should Know in 2025](https://dev.to/lorebrada00/9-github-repositories-every-software-engineer-should-know-in-20242025-1oj0)
-- [Solucionar erro imagem module-federation](https://dev.to/2020nani/solucionar-erro-imagem-module-federation-c3k)
-- [Planning Document for Issue #15: Features Section Improvement](https://dev.to/msaluja/planning-document-for-issue-15-features-section-improvement-54cj)
+- [JSqlParser-5.0 problem with MySQL Convert&lpar;expr,type&rpar; function](https://dev.to/liubo/jsqlparser-50-problem-with-mysql-convertexprtype-function-119h)
+- [GQL— Write SQL queries in your Git repo!](https://dev.to/joji/gql-write-sql-queries-in-your-git-repo-4g6p)
+- [What is React ⚛️ and the Concept of Components](https://dev.to/shieldstring/what-is-react-and-the-concept-of-components-6h2)
+- [AI and Its Role in Testing Mobile Apps](https://dev.to/misterankit/ai-and-its-role-in-testing-mobile-apps-57p0)
+- [Doing More Open Source Stuff: Making Up For Lost Time](https://dev.to/udayrana/doing-more-open-source-stuff-making-up-for-lost-time-3ol2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
