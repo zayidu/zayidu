@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to create a flyout menu with Tailwind CSS and Alpine JS](https://dev.to/mike_andreuzza/learn-how-to-create-a-flyout-menu-with-tailwind-css-and-alpine-js-4oio)
-- [Understanding the Importance of res.ok in Fetch API](https://dev.to/obiwanpelosi/understanding-the-importance-of-resok-in-fetch-api-4a7c)
-- [Accessibility Marketing: Why It’s Essential for Businesses Today](https://dev.to/nazneenahmad/accessibility-marketing-why-its-essential-for-businesses-today-3ejj)
-- [The Pulse of Innovation: Daytona Developers Club Tour &#39;24 Inspires Manila&#39;s Gen Z Tech Scene](https://dev.to/kakacomputer/the-pulse-of-innovation-daytona-developers-club-tour-24-inspires-manilas-gen-z-tech-scene-49m3)
-- [Boost Sales with Shopify Store Credit](https://dev.to/shinetechsoftwareinc/boost-sales-with-shopify-store-credit-2mkk)
+- [Java String Manipulation: Common Methods You Should Know](https://dev.to/saurabhkurve/java-string-manipulation-common-methods-you-should-know-li3)
+- [The Rise of Health Gamification and Its Impact on Patient Engagement](https://dev.to/grgonline/the-rise-of-health-gamification-and-its-impact-on-patient-engagement-39hd)
+- [Simple program using Return keyword...](https://dev.to/pavitra_aravind_3d319916a/simple-program-using-return-keyword-43i1)
+- [cs50x week 9 Flask](https://dev.to/kartikjhaba/cs50x-week-9-flask-54ca)
+- [15 System design tradeoffs for Software Developer Interviews](https://dev.to/somadevtoo/15-system-design-tradeoffs-for-software-developer-interviews-613)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
