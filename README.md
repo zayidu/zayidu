@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deque: Container, C++](https://dev.to/harshm03/deque-container-c-4c)
-- [Create Your First AI-Powered C# App with Semantic Kernel: A Step-by-Step Guide](https://dev.to/codestreet/create-your-first-ai-powered-c-app-with-semantic-kernel-a-step-by-step-guide-3ca0)
-- [From Zero to Observability: Your first steps sending OpenTelemetry data to an Observability backend](https://dev.to/jadelassery/from-zero-to-observability-your-first-steps-sending-opentelemetry-data-to-an-observability-backend-29l7)
-- [Day 6 of SQL Series || Alter Table, Order By, NULL Values](https://dev.to/akshat0610/day-6-of-sql-series-alter-table-order-by-null-values-18m5)
-- [Phoenix LiveView, hooks and push_event: json_view](https://dev.to/mwhitworth/phoenix-liveview-hooks-and-pushevent-jsonview-3pj7)
+- [Operators and Expressions in JavaScript](https://dev.to/arjun98k/operators-and-expressions-in-javascript-4k5g)
+- [[Boost]](https://dev.to/sheraz4194/-706)
+- [How to create an Installer for a Winforms application using Visual Studio and Advanced Installer&lpar;Free Edition&rpar;](https://dev.to/bigboybamo/how-to-create-an-installer-for-a-winforms-application-using-visual-studio-and-advanced-4lln)
+- [My Goals Working On Open Source](https://dev.to/udayrana/my-goals-working-on-open-source-4m42)
+- [Why Django Stands Out Among Web Development Frameworks A Comprehensive Analysis](https://dev.to/nizam_thakur_93d936449df3/why-django-stands-out-among-web-development-frameworks-a-comprehensive-analysis-17dn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
