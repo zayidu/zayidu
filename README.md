@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Follow Trixsec on Instagram for Cybersecurity Updates, Memes, and Tools!](https://dev.to/trixsec/follow-trixsec-on-instagram-for-cybersecurity-updates-memes-and-tools-13go)
-- [What is Node JS?](https://dev.to/zarr02992/what-is-node-js-5gc)
-- [The Final Voyage: Conquering Input Validation and Charting New Paths 🌟](https://dev.to/tasbi03/the-final-voyage-conquering-input-validation-and-charting-new-paths-2bma)
-- [CI/CD com GitHub Actions: teste local com Act, usando container e alertas com Telegram.](https://dev.to/deirofelippe/cicd-com-github-actions-teste-local-com-act-usando-container-e-alertas-com-telegram-4hn5)
-- [Part 3: Compiling the Protos and Setting up the gRPC server](https://dev.to/neeraj_sharma_1135657c7f6/part-3-compiling-the-protos-and-setting-up-the-grpc-server-4f78)
+- [Day 10: Ho-ho-hono! 🔥](https://dev.to/valeriavg/ho-ho-hono-2j55)
+- [Mouse meets Python: Welcome to the Jungle](https://dev.to/jack_belyeu_699e7081d417f/mouse-meets-python-welcome-to-the-jungle-3cjk)
+- [Streamlining Documentation with AI in Corporate Finance](https://dev.to/jhonsnow21/streamlining-documentation-with-ai-in-corporate-finance-20e9)
+- [CCSP Study Guide: How to Prepare for the CCSP Exam](https://dev.to/itechburner/ccsp-study-guide-how-to-prepare-for-the-ccsp-exam-44b1)
+- [Simplifying Your Code: Replacing Heavy Packages with Lightweight Solutions](https://dev.to/kelvinwieth/simplifying-your-code-replacing-heavy-packages-with-lightweight-solutions-3g30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
