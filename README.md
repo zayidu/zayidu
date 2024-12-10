@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy Kubernetes on Bare Metal](https://dev.to/nodeshiftcloud/how-to-deploy-kubernetes-on-bare-metal-2oc0)
-- [Highly scalable image storage solution with AWS Serverless - architectural decisions](https://dev.to/faboulaye/highly-scalable-image-storagesolution-with-aws-serverless-architectural-decisions-2pba)
-- [XML external entity &lpar;XXE&rpar; injection](https://dev.to/rednexie/xml-external-entity-xxe-injection-59m9)
-- [DevOps Automation for Secure Software Delivery](https://dev.to/iskender83/devops-automation-for-secure-software-delivery-5an4)
-- [Reinforcement Learning in Robotics: Applications and Challenges 🤖✨](https://dev.to/hexadecimalsoftware/reinforcement-learning-in-robotics-applications-and-challenges-p1d)
+- [Event Calendar with Shadcn theme 💅](https://dev.to/tomosterlund/event-calendar-with-shadcn-theme-l8k)
+- [My Release 0.4 Open-Source Journey - From Planning to Delivery](https://dev.to/fahadalikhanca/my-release-04-open-source-journey-from-planning-to-delivery-46bk)
+- [Explaining defaultdict in Python](https://dev.to/pkutaj/explaining-defaultdict-in-python-2h15)
+- [Click, Code, Host: A Beginner&#39;s Guide to Azure App Services](https://dev.to/under2wenty/click-code-host-a-beginners-guide-to-azure-app-services-55nd)
+- [Angular Addicts #32: Angular 19, new Style guide RFC &amp; more](https://dev.to/this-is-angular/angular-addicts-32-angular-19-new-style-guide-rfc-more-1kgg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
