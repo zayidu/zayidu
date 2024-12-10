@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [First-Time Game Developing](https://dev.to/rsacode/first-time-game-developing-5789)
-- [Pedros Chicken Wrap](https://dev.to/alexa_smith/pedros-chicken-wrap-2mig)
-- [Mental Health Application](https://dev.to/meida10/mental-health-application-1445)
-- [Mastering Memory Management in Go: Essential Techniques for Efficient Applications](https://dev.to/aaravjoshi/mastering-memory-management-in-go-essential-techniques-for-efficient-applications-280c)
-- [What is the Mina Protocol? A Simple Guide](https://dev.to/ajiboyeniola/what-is-the-mina-protocol-a-simple-guide-4amb)
+- [Documentation: Pushing and Pulling a Docker Image to Docker Hub](https://dev.to/teetoflame/documentation-pushing-and-pulling-a-docker-image-to-docker-hub-5d2b)
+- [Setup a Micro-Frontend architecture in 15min with Vite!](https://dev.to/mairouche/setup-a-micro-frontend-architecture-in-15min-with-vite-4pbg)
+- [Solved: Why ChatGPT Won&#39;t Say &quot;Brian Hood&quot; &lpar;Blame Regexes&rpar;](https://dev.to/builderio/solved-why-chatgpt-wont-say-brian-hood-blame-regexes-3d56)
+- [🚀 Your Daily Crypto Job Digest For 10 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-10-december-5don)
+- [react](https://dev.to/imdadul_haqueohi_1eb693e/react-2el5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
