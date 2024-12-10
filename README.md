@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java String Manipulation: Common Methods You Should Know](https://dev.to/saurabhkurve/java-string-manipulation-common-methods-you-should-know-li3)
-- [The Rise of Health Gamification and Its Impact on Patient Engagement](https://dev.to/grgonline/the-rise-of-health-gamification-and-its-impact-on-patient-engagement-39hd)
-- [Simple program using Return keyword...](https://dev.to/pavitra_aravind_3d319916a/simple-program-using-return-keyword-43i1)
-- [cs50x week 9 Flask](https://dev.to/kartikjhaba/cs50x-week-9-flask-54ca)
-- [15 System design tradeoffs for Software Developer Interviews](https://dev.to/somadevtoo/15-system-design-tradeoffs-for-software-developer-interviews-613)
+- [Crafting a Custom SAM Template for Your AWS Lambda Function, Resource, and Operations](https://dev.to/navapon/crafting-a-custom-sam-template-for-your-aws-lambda-function-resource-and-operations-58md)
+- [The Cost of Clinging to Legacy Software: Risks and Realities](https://dev.to/bekahhw/the-cost-of-clinging-to-legacy-software-risks-and-realities-2l3i)
+- [Never code lines on the HTML canvas again](https://dev.to/viraj_bijpuria_0eb3428f61/never-code-lines-on-the-html-canvas-again-4hbe)
+- [Unlock the secrets of software architecture with our comprehensive guide! 🛠️ From microservices to monoliths, discover patterns that elevate your engineering skills. 🚀](https://dev.to/lorebrada00/unlock-the-secrets-of-software-architecture-with-our-comprehensive-guide-from-microservices-to-56p1)
+- [The Ultimate Guide to iOS Development: From Programming Basics to Building Your First App &lpar;Part 1&rpar;](https://dev.to/abdevhub/the-ultimate-guide-to-ios-development-from-programming-basics-to-building-your-first-app-part-1-5h9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
