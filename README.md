@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JSqlParser-5.0 problem with MySQL Convert&lpar;expr,type&rpar; function](https://dev.to/liubo/jsqlparser-50-problem-with-mysql-convertexprtype-function-119h)
-- [GQL— Write SQL queries in your Git repo!](https://dev.to/joji/gql-write-sql-queries-in-your-git-repo-4g6p)
-- [What is React ⚛️ and the Concept of Components](https://dev.to/shieldstring/what-is-react-and-the-concept-of-components-6h2)
-- [AI and Its Role in Testing Mobile Apps](https://dev.to/misterankit/ai-and-its-role-in-testing-mobile-apps-57p0)
-- [Doing More Open Source Stuff: Making Up For Lost Time](https://dev.to/udayrana/doing-more-open-source-stuff-making-up-for-lost-time-3ol2)
+- [Follow Trixsec on Instagram for Cybersecurity Updates, Memes, and Tools!](https://dev.to/trixsec/follow-trixsec-on-instagram-for-cybersecurity-updates-memes-and-tools-13go)
+- [What is Node JS?](https://dev.to/zarr02992/what-is-node-js-5gc)
+- [The Final Voyage: Conquering Input Validation and Charting New Paths 🌟](https://dev.to/tasbi03/the-final-voyage-conquering-input-validation-and-charting-new-paths-2bma)
+- [CI/CD com GitHub Actions: teste local com Act, usando container e alertas com Telegram.](https://dev.to/deirofelippe/cicd-com-github-actions-teste-local-com-act-usando-container-e-alertas-com-telegram-4hn5)
+- [Part 3: Compiling the Protos and Setting up the gRPC server](https://dev.to/neeraj_sharma_1135657c7f6/part-3-compiling-the-protos-and-setting-up-the-grpc-server-4f78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
