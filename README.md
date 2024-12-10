@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to develop a React Native App for TV](https://dev.to/amazonappdev/how-to-develop-a-react-native-app-for-tv-4njp)
-- [JavaScript Object Destructuring](https://dev.to/tyncode/javascript-object-destructuring-4572)
-- [### 5 Things I Learned in My Full-Stack Development Journey &lpar;So Far&rpar; 🚀](https://dev.to/behan05/-5-things-i-learned-in-my-full-stack-development-journey-so-far-4efe)
-- [Map: Container, C++](https://dev.to/harshm03/map-container-c-i91)
-- [mongo-dcur](https://dev.to/abhijit_meshram_e459b6a2a/mongo-dcur-1knm)
+- [UX/UI Laws Every Frontend Developer Should Know](https://dev.to/yuliana_seplveda/uxui-laws-every-frontend-developer-should-know-52ln)
+- [Understanding Microsoft’s Terraform Providers for Azure: AzureRM vs AzAPI](https://dev.to/techielass/understanding-microsofts-terraform-providers-for-azure-azurerm-vs-azapi-28gc)
+- [What Is Pytest @pytest.fixture ?](https://dev.to/zeyrarararara/what-is-pytest-pytestfixture--25pm)
+- [Creating and Paying a Freight Invoice with the Rapyd API and FX](https://dev.to/rapyd/creating-and-paying-a-freight-invoice-with-the-rapyd-api-and-fx-362e)
+- [OSD Final Chapter: Part 3](https://dev.to/amullagaliev/osd-final-chapter-part-3-235l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
