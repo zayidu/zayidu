@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 10: Ho-ho-hono! 🔥](https://dev.to/valeriavg/ho-ho-hono-2j55)
-- [Mouse meets Python: Welcome to the Jungle](https://dev.to/jack_belyeu_699e7081d417f/mouse-meets-python-welcome-to-the-jungle-3cjk)
-- [Streamlining Documentation with AI in Corporate Finance](https://dev.to/jhonsnow21/streamlining-documentation-with-ai-in-corporate-finance-20e9)
-- [CCSP Study Guide: How to Prepare for the CCSP Exam](https://dev.to/itechburner/ccsp-study-guide-how-to-prepare-for-the-ccsp-exam-44b1)
-- [Simplifying Your Code: Replacing Heavy Packages with Lightweight Solutions](https://dev.to/kelvinwieth/simplifying-your-code-replacing-heavy-packages-with-lightweight-solutions-3g30)
+- [Day 2 Task-1 Theatre.java](https://dev.to/saravanan_477814b61087a66/day-2-task-1-theatrejava-227i)
+- [Preventing XML External Entity &lpar;XXE&rpar; Injection in Laravel Applications](https://dev.to/pentest_testing_corp/preventing-xml-external-entity-xxe-injection-in-laravel-applications-374k)
+- [The Open Source Finale: Pt. 2](https://dev.to/arilloid/the-open-source-finale-pt-2-39m3)
+- [Azure OpenAI in a single page: Zero to Hero – A Complete Integration Guide](https://dev.to/pratikpathak/azure-openai-in-a-single-page-zero-to-hero-a-complete-integration-guide-ke3)
+- [Creating a bootable USB flash drive in a GUI application](https://dev.to/miguelneto/creating-a-bootable-usb-flash-drive-in-a-gui-application-2n2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
