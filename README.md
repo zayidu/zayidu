@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Monitor SQL Performance in Spring Boot](https://dev.to/inspector/how-to-monitor-sql-performance-in-spring-boot-5f44)
-- [Day-3 simple return model](https://dev.to/saravanan_477814b61087a66/day-3-simple-return-model-3n07)
-- [Migrating from DIY ELK to a full SaaS platform](https://dev.to/jadelassery/migrating-from-diy-elk-to-a-full-saas-platform-1m8p)
-- [Day 5 java Data types :](https://dev.to/guna_sekaran_/day-5-java-data-types--2928)
-- [Salesforce Events in San Francisco, California for 2025](https://dev.to/doriansabitov/salesforce-events-in-san-francisco-california-for-2025-b5f)
+- [How difficult is this dataset REALLY?](https://dev.to/jasoncorso/how-difficult-is-this-dataset-really-12e3)
+- [How to Create an AI Companion Telegram Bot](https://dev.to/manozzo/how-to-create-an-ai-companion-telegram-bot-2d78)
+- [Video: Enable WSL 2 using CMD and PowerShell](https://dev.to/winsides/video-enable-wsl-2-using-cmd-and-powershell-61d)
+- [Why Clear and Meaningful Status Codes Matter in Your REST API](https://dev.to/copyleftdev/why-clear-and-meaningful-status-codes-matter-in-your-rest-api-34g5)
+- [Streamlining Kubernetes Deployments: CI/CD with GitHub Actions and Helm for EKS](https://dev.to/ndzenyuy/streamlining-kubernetes-deployments-cicd-with-github-actions-and-helm-for-eks-535e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
