@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Event Calendar with Shadcn theme 💅](https://dev.to/tomosterlund/event-calendar-with-shadcn-theme-l8k)
-- [My Release 0.4 Open-Source Journey - From Planning to Delivery](https://dev.to/fahadalikhanca/my-release-04-open-source-journey-from-planning-to-delivery-46bk)
-- [Explaining defaultdict in Python](https://dev.to/pkutaj/explaining-defaultdict-in-python-2h15)
-- [Click, Code, Host: A Beginner&#39;s Guide to Azure App Services](https://dev.to/under2wenty/click-code-host-a-beginners-guide-to-azure-app-services-55nd)
-- [Angular Addicts #32: Angular 19, new Style guide RFC &amp; more](https://dev.to/this-is-angular/angular-addicts-32-angular-19-new-style-guide-rfc-more-1kgg)
+- [Learn how to create a flyout menu with Tailwind CSS and Alpine JS](https://dev.to/mike_andreuzza/learn-how-to-create-a-flyout-menu-with-tailwind-css-and-alpine-js-4oio)
+- [Understanding the Importance of res.ok in Fetch API](https://dev.to/obiwanpelosi/understanding-the-importance-of-resok-in-fetch-api-4a7c)
+- [Accessibility Marketing: Why It’s Essential for Businesses Today](https://dev.to/nazneenahmad/accessibility-marketing-why-its-essential-for-businesses-today-3ejj)
+- [The Pulse of Innovation: Daytona Developers Club Tour &#39;24 Inspires Manila&#39;s Gen Z Tech Scene](https://dev.to/kakacomputer/the-pulse-of-innovation-daytona-developers-club-tour-24-inspires-manilas-gen-z-tech-scene-49m3)
+- [Boost Sales with Shopify Store Credit](https://dev.to/shinetechsoftwareinc/boost-sales-with-shopify-store-credit-2mkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
