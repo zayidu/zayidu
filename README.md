@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Documentation: Pushing and Pulling a Docker Image to Docker Hub](https://dev.to/teetoflame/documentation-pushing-and-pulling-a-docker-image-to-docker-hub-5d2b)
-- [Setup a Micro-Frontend architecture in 15min with Vite!](https://dev.to/mairouche/setup-a-micro-frontend-architecture-in-15min-with-vite-4pbg)
-- [Solved: Why ChatGPT Won&#39;t Say &quot;Brian Hood&quot; &lpar;Blame Regexes&rpar;](https://dev.to/builderio/solved-why-chatgpt-wont-say-brian-hood-blame-regexes-3d56)
-- [🚀 Your Daily Crypto Job Digest For 10 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-10-december-5don)
-- [react](https://dev.to/imdadul_haqueohi_1eb693e/react-2el5)
+- [Queue: Container, C++](https://dev.to/harshm03/queue-container-c-5alc)
+- [Stack: Container, C++](https://dev.to/harshm03/stack-container-c-48e3)
+- [What is Azure DevOps and Its Usability](https://dev.to/markwayne/what-is-azure-devops-and-its-usability-n3a)
+- [Disaster Recovery and Backup Strategies](https://dev.to/574n13y/disaster-recovery-and-backup-strategies-13lb)
+- [Create Your Custom WSL from Any Linux Distribution &lpar;Part - 2&rpar;](https://dev.to/studio1hq/create-your-custom-wsl-from-any-linux-distribution-part-2-1h2j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
