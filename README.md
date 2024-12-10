@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You Are Already Using Wasm In Production](https://dev.to/fermyon/you-are-already-using-wasm-in-production-92k)
-- [Testing from outside with docket containers with zero mocks is a game changer](https://dev.to/rexebin/testing-from-outside-with-docket-containers-with-zero-mocks-is-a-game-changer-4h78)
-- [System has not been booted with systemd as init system &lpar;PID 1&rpar;.](https://dev.to/joshalmasin88/system-has-not-been-booted-with-systemd-as-init-system-pid-1-ank)
-- [MeetRoomly an App to Manage and book meeting rooms with ease using Next.js 15, Prisma, Tailwind CSS, and Clerk](https://dev.to/saidmounaim/meetroomly-an-app-to-manage-and-book-meeting-rooms-with-ease-using-nextjs-15-prisma-tailwind-463h)
-- [Elevate Your Web Development Skills with Apple Podcasts Integration Course](https://dev.to/getvm/elevate-your-web-development-skills-with-apple-podcasts-integration-course-18d7)
+- [Hi everyone! Please take a look at this blog post! Hope you will fins it useful!!](https://dev.to/lorebrada00/hi-everyone-please-take-a-look-at-this-blog-post-hope-you-will-fins-it-useful-4nng)
+- [Unlock your path to success as a developer with this comprehensive roadmap! 🚀](https://dev.to/lorebrada00/happy-reading-1oik)
+- [🚀 Top GitHub Repositories Every Software Engineer Should Know in 2025](https://dev.to/lorebrada00/9-github-repositories-every-software-engineer-should-know-in-20242025-1oj0)
+- [Solucionar erro imagem module-federation](https://dev.to/2020nani/solucionar-erro-imagem-module-federation-c3k)
+- [Planning Document for Issue #15: Features Section Improvement](https://dev.to/msaluja/planning-document-for-issue-15-features-section-improvement-54cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
