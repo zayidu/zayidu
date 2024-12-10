@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Queue: Container, C++](https://dev.to/harshm03/queue-container-c-5alc)
-- [Stack: Container, C++](https://dev.to/harshm03/stack-container-c-48e3)
-- [What is Azure DevOps and Its Usability](https://dev.to/markwayne/what-is-azure-devops-and-its-usability-n3a)
-- [Disaster Recovery and Backup Strategies](https://dev.to/574n13y/disaster-recovery-and-backup-strategies-13lb)
-- [Create Your Custom WSL from Any Linux Distribution &lpar;Part - 2&rpar;](https://dev.to/studio1hq/create-your-custom-wsl-from-any-linux-distribution-part-2-1h2j)
+- [How to Monitor SQL Performance in Spring Boot](https://dev.to/inspector/how-to-monitor-sql-performance-in-spring-boot-5f44)
+- [Day-3 simple return model](https://dev.to/saravanan_477814b61087a66/day-3-simple-return-model-3n07)
+- [Migrating from DIY ELK to a full SaaS platform](https://dev.to/jadelassery/migrating-from-diy-elk-to-a-full-saas-platform-1m8p)
+- [Day 5 java Data types :](https://dev.to/guna_sekaran_/day-5-java-data-types--2928)
+- [Salesforce Events in San Francisco, California for 2025](https://dev.to/doriansabitov/salesforce-events-in-san-francisco-california-for-2025-b5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
