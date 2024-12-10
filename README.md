@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 Task-1 Theatre.java](https://dev.to/saravanan_477814b61087a66/day-2-task-1-theatrejava-227i)
-- [Preventing XML External Entity &lpar;XXE&rpar; Injection in Laravel Applications](https://dev.to/pentest_testing_corp/preventing-xml-external-entity-xxe-injection-in-laravel-applications-374k)
-- [The Open Source Finale: Pt. 2](https://dev.to/arilloid/the-open-source-finale-pt-2-39m3)
-- [Azure OpenAI in a single page: Zero to Hero – A Complete Integration Guide](https://dev.to/pratikpathak/azure-openai-in-a-single-page-zero-to-hero-a-complete-integration-guide-ke3)
-- [Creating a bootable USB flash drive in a GUI application](https://dev.to/miguelneto/creating-a-bootable-usb-flash-drive-in-a-gui-application-2n2l)
+- [How to Deploy Kubernetes on Bare Metal](https://dev.to/nodeshiftcloud/how-to-deploy-kubernetes-on-bare-metal-2oc0)
+- [Highly scalable image storage solution with AWS Serverless - architectural decisions](https://dev.to/faboulaye/highly-scalable-image-storagesolution-with-aws-serverless-architectural-decisions-2pba)
+- [XML external entity &lpar;XXE&rpar; injection](https://dev.to/rednexie/xml-external-entity-xxe-injection-59m9)
+- [DevOps Automation for Secure Software Delivery](https://dev.to/iskender83/devops-automation-for-secure-software-delivery-5an4)
+- [Reinforcement Learning in Robotics: Applications and Challenges 🤖✨](https://dev.to/hexadecimalsoftware/reinforcement-learning-in-robotics-applications-and-challenges-p1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
