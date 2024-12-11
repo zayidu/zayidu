@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is the Best Way to Incorporate High-Quality Protein into a Balanced Diet?](https://dev.to/rafaelmeans716/what-is-the-best-way-to-incorporate-high-quality-protein-into-a-balanced-diet-3kno)
-- [The Curious Case of Sound Restoration Frequencies: A Tech-Driven Fix for Phone Speakers](https://dev.to/deen_john17/the-curious-case-of-sound-restoration-frequencies-a-tech-driven-fix-for-phone-speakers-k1k)
-- [How to create a pre-assigned URL for an S3 bucket in AWS.](https://dev.to/ikelechia/how-to-create-a-pre-assigned-url-for-an-s3-bucket-in-aws-32ac)
-- [The Express + Node.js Handbook – Learn the Express JavaScript Framework for Beginners](https://dev.to/askyt/the-express-nodejs-handbook-learn-the-express-javascript-framework-for-beginners-hd7)
-- [Synchronous Applications](https://dev.to/mohammadpooladi/synchronous-applications-18me)
+- [Subform Goto First Field in Microsoft Access](https://dev.to/richardrost/subform-goto-first-field-in-microsoft-access-42p7)
+- [Unveiling the Unseen: A Journey from Simple Recon Using Shodan to Leaking AWS Secrets](https://dev.to/tecno-security/unveiling-the-unseen-a-journey-from-simple-recon-using-shodan-to-leaking-aws-secrets-ek5)
+- [How to Create Responsive Navbar Using HTML, CSS, and JavaScript](https://dev.to/kaja_uvais_a8691e947dd399/how-to-create-responsive-navbar-using-html-css-and-javascript-52j5)
+- [Mastering Modern JavaScript: A Deep Dive into ES6 Function Creation and Best Practices](https://dev.to/paalaman45/mastering-modern-javascript-a-deep-dive-into-es6-function-creation-and-best-practices-5gh)
+- [Unlocking Your Billing Breakdown: A Guide to Understanding Your Charges](https://dev.to/billgist/unlocking-your-billing-breakdown-a-guide-to-understanding-your-charges-315d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
