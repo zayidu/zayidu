@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flexible Angular Builds: A Guide to Angular 19 Build-Time Variables with Docker](https://dev.to/danielsogl/flexible-angular-builds-a-guide-to-angular-19-build-time-variables-with-docker-3ld1)
-- [How to Build a SaaS Financial Model](https://dev.to/thealgorithm/how-to-build-a-saas-financial-model-4mdj)
-- [Reconnaissance &amp; Information Gathering](https://dev.to/guptswayam/reconnaissance-information-gathering-1fn1)
-- [God, am I in Twitter?](https://dev.to/atomicbolts/god-am-i-in-twitter-32k0)
-- [Issue 74 of AWS Cloud Security Weekly](https://dev.to/aws-builders/issue-74-of-aws-cloud-security-weekly-aog)
+- [[PT-BR] Introdução ao Frida: Como Manipular Memória em Tempo Real com TypeScript &lpar;e DOOM&rpar;](https://dev.to/stealthc/pt-br-introducao-ao-frida-como-manipular-memoria-em-tempo-real-com-typescript-e-doom-5167)
+- [DynamoDB-style Limits for Predictable Performance](https://dev.to/aws-heroes/dynamodb-style-limits-for-predictable-performance-56b8)
+- [Why Monorepo Projects Sucks: Performance Considerations with Nx](https://dev.to/jeferson0993/why-monorepo-projects-sucks-performance-considerations-with-nx-2mnk)
+- [Ejecutar un Jupyter notebook en AWS con SageMaker](https://dev.to/briansuarezsantiago/ejecutar-un-jupyter-notebook-en-aws-con-sagemaker-eo0)
+- [The Hidden Danger: How Credential Sprawl is Creating Security Blind Spots in Modern Cloud Environments](https://dev.to/nolunchbreaks_22/the-hidden-danger-how-credential-sprawl-is-creating-security-blind-spots-in-modern-cloud-3bgk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
