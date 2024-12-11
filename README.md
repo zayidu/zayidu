@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Test APIs Visually in IntelliJ IDEA](https://dev.to/auden/test-apis-visually-in-intellij-idea-4j0m)
-- [How to Test APIs Visually in IntelliJ IDEA?](https://dev.to/auden/how-to-test-apis-visually-in-intellij-idea-5388)
-- [System Design: Distributed Logging](https://dev.to/surajvatsya/system-design-distributed-logging-4hf0)
-- [Accelerate Cloud Innovation with AWS Data Lab Design Workshop](https://dev.to/jessica_williams_8192bc1f/accelerate-cloud-innovation-with-aws-data-lab-design-workshop-4j2n)
-- [[ASP.NET] 如何導向到錯誤頁面](https://dev.to/fakestandard/aspnet-ru-he-dao-xiang-dao-cuo-wu-ye-mian-23j2)
+- [Streamline Your API Development with EchoAPI&#39;s AI Parsing Import Feature](https://dev.to/velan/streamline-your-api-development-with-echoapis-ai-parsing-import-feature-5hn6)
+- [Are You Checking Error Types Correctly in Go? 🧐](https://dev.to/architagr/are-you-checking-error-types-correctly-in-go-54mm)
+- [Empowering Future Filmmakers: Explore the Comprehensive Film and Video Design Program at MITID](https://dev.to/daniel2321/empowering-future-filmmakers-explore-the-comprehensive-film-and-video-design-program-at-mitid-e1c)
+- [Building Robust APIs with Go&#39;s Standard Library: A Comprehensive Guide](https://dev.to/aaravjoshi/building-robust-apis-with-gos-standard-library-a-comprehensive-guide-3036)
+- [Rapid Note-Taking: Syncing Apple Reminders with Obsidian](https://dev.to/airabbit/-rapid-note-taking-syncing-apple-reminders-with-obsidian-4915)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
