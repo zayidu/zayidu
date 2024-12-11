@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[PT-BR] Introdução ao Frida: Como Manipular Memória em Tempo Real com TypeScript &lpar;e DOOM&rpar;](https://dev.to/stealthc/pt-br-introducao-ao-frida-como-manipular-memoria-em-tempo-real-com-typescript-e-doom-5167)
-- [DynamoDB-style Limits for Predictable Performance](https://dev.to/aws-heroes/dynamodb-style-limits-for-predictable-performance-56b8)
-- [Why Monorepo Projects Sucks: Performance Considerations with Nx](https://dev.to/jeferson0993/why-monorepo-projects-sucks-performance-considerations-with-nx-2mnk)
-- [Ejecutar un Jupyter notebook en AWS con SageMaker](https://dev.to/briansuarezsantiago/ejecutar-un-jupyter-notebook-en-aws-con-sagemaker-eo0)
-- [The Hidden Danger: How Credential Sprawl is Creating Security Blind Spots in Modern Cloud Environments](https://dev.to/nolunchbreaks_22/the-hidden-danger-how-credential-sprawl-is-creating-security-blind-spots-in-modern-cloud-3bgk)
+- [What Is the Best Way to Incorporate High-Quality Protein into a Balanced Diet?](https://dev.to/rafaelmeans716/what-is-the-best-way-to-incorporate-high-quality-protein-into-a-balanced-diet-3kno)
+- [The Curious Case of Sound Restoration Frequencies: A Tech-Driven Fix for Phone Speakers](https://dev.to/deen_john17/the-curious-case-of-sound-restoration-frequencies-a-tech-driven-fix-for-phone-speakers-k1k)
+- [How to create a pre-assigned URL for an S3 bucket in AWS.](https://dev.to/ikelechia/how-to-create-a-pre-assigned-url-for-an-s3-bucket-in-aws-32ac)
+- [The Express + Node.js Handbook – Learn the Express JavaScript Framework for Beginners](https://dev.to/askyt/the-express-nodejs-handbook-learn-the-express-javascript-framework-for-beginners-hd7)
+- [Synchronous Applications](https://dev.to/mohammadpooladi/synchronous-applications-18me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
