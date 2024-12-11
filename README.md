@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to Conducting Accessibility Audit](https://dev.to/lollypopdesign/a-comprehensive-guide-to-conducting-accessibility-audit-3ach)
+- [#115 — Ranking of Row-Based Data — by the Expression](https://dev.to/judith677/115-ranking-of-row-based-data-by-the-expression-32nb)
 - [Subform Goto First Field in Microsoft Access](https://dev.to/richardrost/subform-goto-first-field-in-microsoft-access-42p7)
 - [Unveiling the Unseen: A Journey from Simple Recon Using Shodan to Leaking AWS Secrets](https://dev.to/tecno-security/unveiling-the-unseen-a-journey-from-simple-recon-using-shodan-to-leaking-aws-secrets-ek5)
 - [How to Create Responsive Navbar Using HTML, CSS, and JavaScript](https://dev.to/kaja_uvais_a8691e947dd399/how-to-create-responsive-navbar-using-html-css-and-javascript-52j5)
-- [Mastering Modern JavaScript: A Deep Dive into ES6 Function Creation and Best Practices](https://dev.to/paalaman45/mastering-modern-javascript-a-deep-dive-into-es6-function-creation-and-best-practices-5gh)
-- [Unlocking Your Billing Breakdown: A Guide to Understanding Your Charges](https://dev.to/billgist/unlocking-your-billing-breakdown-a-guide-to-understanding-your-charges-315d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
