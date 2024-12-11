@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Criando um Chatbot com JavaScript e Gemini AI](https://dev.to/neiltonseguins/criando-um-chatbot-com-javascript-e-gemini-ai-364k)
-- [Djoser+SimpleJWT](https://dev.to/eshat002/djosersimplejwt-1pli)
-- [Infrastructure Planning with Terraform Day 5](https://dev.to/i_am_vesh/infrastructure-planning-with-terraform-day-5-1eeg)
-- [Explaining donut like 5 years old Part-4](https://dev.to/bhjaipal/explaining-donut-like-5-years-old-part-4-330f)
-- [Untitled](https://dev.to/romi_top/untitled-gmm)
+- [¿Cómo clonar una máquina virtual en Azure?](https://dev.to/asjordi/como-clonar-una-maquina-virtual-en-azure-13hf)
+- [Multiple Stacks in AWS CDK &lpar;Typescript&rpar;](https://dev.to/bijkler/multiple-stacks-in-aws-cdk-typescript-bic)
+- [🚀 DebugSwift Hits 500 Stars on GitHub! 🎉](https://dev.to/maatheusgois/debugswift-hits-500-stars-on-github-2m5g)
+- [Go Enum’s problems and solutions with xybor-x/enum](https://dev.to/huykingsofm/go-enums-problems-and-solutions-with-xybor-xenum-3e79)
+- [I start the react app why Error](https://dev.to/boonchai_seksan_aa870f9f6/i-start-the-react-app-why-error-35m6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
