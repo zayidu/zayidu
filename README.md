@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Should You Use an Open-source SaaS Boilerplate Starter or a $300+ Paid One?](https://dev.to/wasp/should-you-use-an-open-source-saas-boilerplate-starter-or-a-300-paid-one-48ea)
-- [LeetCode Challenge: Best Time to Buy and Sell Stock II - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-best-time-to-buy-and-sell-stock-ii-javascript-solution-332d)
-- [🚀 Your Daily Crypto Job Digest For 11 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-11-december-e40)
-- [firework](https://dev.to/phelan_nguyen_ae307cc25b7/firework2022-3m2c)
-- [Javascript básico usando VSCode](https://dev.to/songs_36be80e42d0a5f9c77e/javascript-basico-usando-vscode-2ig0)
+- [Criando um Chatbot com JavaScript e Gemini AI](https://dev.to/neiltonseguins/criando-um-chatbot-com-javascript-e-gemini-ai-364k)
+- [Djoser+SimpleJWT](https://dev.to/eshat002/djosersimplejwt-1pli)
+- [Infrastructure Planning with Terraform Day 5](https://dev.to/i_am_vesh/infrastructure-planning-with-terraform-day-5-1eeg)
+- [Explaining donut like 5 years old Part-4](https://dev.to/bhjaipal/explaining-donut-like-5-years-old-part-4-330f)
+- [Untitled](https://dev.to/romi_top/untitled-gmm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
