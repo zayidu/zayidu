@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [docker](https://dev.to/the_autistic_programmer/docker-1l87)
-- [Building a Cloud-Native Blog Platform with Terraform](https://dev.to/dhayv/building-a-cloud-native-blog-platform-with-terraform-11km)
-- [Benefits of Learning to Code for Students](https://dev.to/growkon21/benefits-of-learning-to-code-for-students-143k)
-- [Faiss with sqlite for RAG](https://dev.to/mayank_laddha_21ef3e061ff/faiss-with-sqlite-for-rag-3e2b)
-- [🎁 CSS Wrapped 2024, Intent-Driven UX &amp; A11Y Design Tips](https://dev.to/adam/css-wrapped-2024-intent-driven-ux-a11y-design-tips-3lhc)
+- [Should You Use an Open-source SaaS Boilerplate Starter or a $300+ Paid One?](https://dev.to/wasp/should-you-use-an-open-source-saas-boilerplate-starter-or-a-300-paid-one-48ea)
+- [LeetCode Challenge: Best Time to Buy and Sell Stock II - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-best-time-to-buy-and-sell-stock-ii-javascript-solution-332d)
+- [🚀 Your Daily Crypto Job Digest For 11 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-11-december-e40)
+- [firework](https://dev.to/phelan_nguyen_ae307cc25b7/firework2022-3m2c)
+- [Javascript básico usando VSCode](https://dev.to/songs_36be80e42d0a5f9c77e/javascript-basico-usando-vscode-2ig0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
