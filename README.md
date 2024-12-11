@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 &quot;Building an Enterprise-Grade 💼 Generative AI Chatbot 🤖 Using Amazon Q&quot; 🔍](https://dev.to/aws-builders/building-an-enterprise-grade-generative-ai-chatbot-using-amazon-q-9m3)
-- [Joins, Scale, and Denormalization](https://dev.to/aws-heroes/joins-and-denormalization-3dan)
-- [PHP 8.4 is here ⚡️upgrade your projects today!](https://dev.to/upsun/php-84-is-here-upgrade-your-projects-today-8eb)
-- [30 React One-Liners to Enhance Your Coding Efficiency](https://dev.to/mursalfk/30-react-one-liners-to-enhance-your-coding-efficiency-33o7)
-- [5 Quick Landing Page Hacks to Boost Your SaaS Conversion Rates](https://dev.to/mzaremski/5-quick-landing-page-hacks-to-boost-your-saas-conversion-rates-118f)
+- [Simple Stripe Billing for Rails](https://dev.to/railsdesigner/simple-stripe-billing-for-rails-37ci)
+- [How to Create a Static Site Generator with Go](https://dev.to/envitab/how-to-create-a-static-site-generator-with-go-4jgm)
+- [The Power of Generative AI: Boosting Efficiency and Innovation](https://dev.to/jesvira_dsouza_c2c39caa18/the-power-of-generative-ai-boosting-efficiency-and-innovation-33l0)
+- [Event Delegation in JavaScript](https://dev.to/saqibjamil7866/event-delegation-in-javascript-nmp)
+- [Guard Gallivant](https://dev.to/rmion/guard-gallivant-2pi5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
