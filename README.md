@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamline Your API Development with EchoAPI&#39;s AI Parsing Import Feature](https://dev.to/velan/streamline-your-api-development-with-echoapis-ai-parsing-import-feature-5hn6)
-- [Are You Checking Error Types Correctly in Go? 🧐](https://dev.to/architagr/are-you-checking-error-types-correctly-in-go-54mm)
-- [Empowering Future Filmmakers: Explore the Comprehensive Film and Video Design Program at MITID](https://dev.to/daniel2321/empowering-future-filmmakers-explore-the-comprehensive-film-and-video-design-program-at-mitid-e1c)
-- [Building Robust APIs with Go&#39;s Standard Library: A Comprehensive Guide](https://dev.to/aaravjoshi/building-robust-apis-with-gos-standard-library-a-comprehensive-guide-3036)
-- [Rapid Note-Taking: Syncing Apple Reminders with Obsidian](https://dev.to/airabbit/-rapid-note-taking-syncing-apple-reminders-with-obsidian-4915)
+- [docker](https://dev.to/the_autistic_programmer/docker-1l87)
+- [Building a Cloud-Native Blog Platform with Terraform](https://dev.to/dhayv/building-a-cloud-native-blog-platform-with-terraform-11km)
+- [Benefits of Learning to Code for Students](https://dev.to/growkon21/benefits-of-learning-to-code-for-students-143k)
+- [Faiss with sqlite for RAG](https://dev.to/mayank_laddha_21ef3e061ff/faiss-with-sqlite-for-rag-3e2b)
+- [🎁 CSS Wrapped 2024, Intent-Driven UX &amp; A11Y Design Tips](https://dev.to/adam/css-wrapped-2024-intent-driven-ux-a11y-design-tips-3lhc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
