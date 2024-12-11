@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Stripe Billing for Rails](https://dev.to/railsdesigner/simple-stripe-billing-for-rails-37ci)
-- [How to Create a Static Site Generator with Go](https://dev.to/envitab/how-to-create-a-static-site-generator-with-go-4jgm)
-- [The Power of Generative AI: Boosting Efficiency and Innovation](https://dev.to/jesvira_dsouza_c2c39caa18/the-power-of-generative-ai-boosting-efficiency-and-innovation-33l0)
-- [Event Delegation in JavaScript](https://dev.to/saqibjamil7866/event-delegation-in-javascript-nmp)
-- [Guard Gallivant](https://dev.to/rmion/guard-gallivant-2pi5)
+- [Automate One-Time Password &lpar;OTP&rpar; Testing: A Casual Guide](https://dev.to/dancortazio/automate-one-time-password-otp-testing-a-casual-guide-3ocn)
+- [Check this amazing list of projects](https://dev.to/akshaycodes/check-this-amazing-list-of-projects-196d)
+- [Great List of Tools](https://dev.to/tanmoys95268896/great-list-of-tools-4he)
+- [Testing Management Tools](https://dev.to/fabiola_estefanipomamac/testing-management-tools-1909)
+- [Why Japan&#39;s IT Industry Risks Being Left Behind - A Path to Individual Success](https://dev.to/roboword/why-japans-it-industry-risks-being-left-behind-a-path-to-individual-success-3mda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
