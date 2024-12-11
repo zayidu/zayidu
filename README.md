@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying an interesting relation between ECR and S3](https://dev.to/aws-builders/demystifying-an-interesting-relation-between-ecr-and-s3-53co)
-- [Automating AWS Cost Management Reports with Lambda](https://dev.to/ragul_21/automating-aws-cost-management-reports-with-lambda-d90)
-- [The Future of Work: How Automation and AI are Transforming Business Operations](https://dev.to/codiclab/the-future-of-work-how-automation-and-ai-are-transforming-business-operations-5bbp)
-- [How to use GitHub to be verified on Bluesky](https://dev.to/lucacozzuto/how-to-use-github-to-be-verified-on-bluesky-k3p)
-- [Data Encryption and Decryption in Laravel](https://dev.to/anashussain284/data-encryption-and-decryption-in-laravel-58bf)
+- [Day 3: Lists](https://dev.to/theoriginalbpc/day-3-lists-288p)
+- [Creating an Application with Amazon RDS and MySQL in the Cloud](https://dev.to/ronal_daniellupacamaman/creating-an-application-with-amazon-rds-and-mysql-in-the-cloud-4d0m)
+- [Creating an Application with Amazon RDS and MySQL in the Cloud](https://dev.to/ronal_daniellupacamaman/creating-an-application-with-amazon-rds-and-mysql-in-the-cloud-227o)
+- [The Role of External Service Monitoring in SRE Practices](https://dev.to/isdown/the-role-of-external-service-monitoring-in-sre-practices-3pkm)
+- [2779. Maximum Beauty of an Array After Applying Operation](https://dev.to/mdarifulhaque/2779-maximum-beauty-of-an-array-after-applying-operation-hm3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
