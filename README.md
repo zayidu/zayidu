@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 3: Lists](https://dev.to/theoriginalbpc/day-3-lists-288p)
-- [Creating an Application with Amazon RDS and MySQL in the Cloud](https://dev.to/ronal_daniellupacamaman/creating-an-application-with-amazon-rds-and-mysql-in-the-cloud-4d0m)
-- [Creating an Application with Amazon RDS and MySQL in the Cloud](https://dev.to/ronal_daniellupacamaman/creating-an-application-with-amazon-rds-and-mysql-in-the-cloud-227o)
-- [The Role of External Service Monitoring in SRE Practices](https://dev.to/isdown/the-role-of-external-service-monitoring-in-sre-practices-3pkm)
-- [2779. Maximum Beauty of an Array After Applying Operation](https://dev.to/mdarifulhaque/2779-maximum-beauty-of-an-array-after-applying-operation-hm3)
+- [🚀 &quot;Building an Enterprise-Grade 💼 Generative AI Chatbot 🤖 Using Amazon Q&quot; 🔍](https://dev.to/aws-builders/building-an-enterprise-grade-generative-ai-chatbot-using-amazon-q-9m3)
+- [Joins, Scale, and Denormalization](https://dev.to/aws-heroes/joins-and-denormalization-3dan)
+- [PHP 8.4 is here ⚡️upgrade your projects today!](https://dev.to/upsun/php-84-is-here-upgrade-your-projects-today-8eb)
+- [30 React One-Liners to Enhance Your Coding Efficiency](https://dev.to/mursalfk/30-react-one-liners-to-enhance-your-coding-efficiency-33o7)
+- [5 Quick Landing Page Hacks to Boost Your SaaS Conversion Rates](https://dev.to/mzaremski/5-quick-landing-page-hacks-to-boost-your-saas-conversion-rates-118f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
