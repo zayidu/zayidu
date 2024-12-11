@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparison JavaScript Common Data Formats](https://dev.to/emma_richardson/comparison-javascript-common-data-formats-4a0c)
-- [Staging vs. Production: Key Differences You Need to Know](https://dev.to/keploy/staging-vs-production-key-differences-you-need-to-know-31ka)
-- [@ngxpert/hot-toast supports Angular 19!](https://dev.to/shhdharmen/ngxperthot-toast-supports-angular-19-4c56)
-- [Common Data Formats in JavaScript: A Comprehensive Guide With Examples](https://dev.to/emma_richardson/common-data-formats-in-javascript-a-comprehensive-guide-with-examples-4ah7)
-- [Transforming Quality Assurance and Automation Testing with AI](https://dev.to/onepoint/transforming-quality-assurance-and-automation-testing-with-ai-3676)
+- [How to Set Git Username and Password in Git Bash?](https://dev.to/msnmongare/how-to-set-git-username-and-password-in-git-bash-24i)
+- [🔥Introducing the HMPL VS Code Extension](https://dev.to/hmpljs/introducing-the-hmpl-vs-code-extension-58pm)
+- [How Can AI Development Be Applied to Improve Cybersecurity?](https://dev.to/marco_luther_4e754f32d75f/how-can-ai-development-be-applied-to-improve-cybersecurity-27dn)
+- [How to Install a GUI on Ubuntu Server](https://dev.to/nodeshiftcloud/how-to-install-a-gui-on-ubuntu-server-c15)
+- [Everyone Uses Postgres… But Why?](https://dev.to/metis/everyone-uses-postgres-but-why-545o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
