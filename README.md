@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Cómo clonar una máquina virtual en Azure?](https://dev.to/asjordi/como-clonar-una-maquina-virtual-en-azure-13hf)
-- [Multiple Stacks in AWS CDK &lpar;Typescript&rpar;](https://dev.to/bijkler/multiple-stacks-in-aws-cdk-typescript-bic)
-- [🚀 DebugSwift Hits 500 Stars on GitHub! 🎉](https://dev.to/maatheusgois/debugswift-hits-500-stars-on-github-2m5g)
-- [Go Enum’s problems and solutions with xybor-x/enum](https://dev.to/huykingsofm/go-enums-problems-and-solutions-with-xybor-xenum-3e79)
-- [I start the react app why Error](https://dev.to/boonchai_seksan_aa870f9f6/i-start-the-react-app-why-error-35m6)
+- [Demystifying an interesting relation between ECR and S3](https://dev.to/aws-builders/demystifying-an-interesting-relation-between-ecr-and-s3-53co)
+- [Automating AWS Cost Management Reports with Lambda](https://dev.to/ragul_21/automating-aws-cost-management-reports-with-lambda-d90)
+- [The Future of Work: How Automation and AI are Transforming Business Operations](https://dev.to/codiclab/the-future-of-work-how-automation-and-ai-are-transforming-business-operations-5bbp)
+- [How to use GitHub to be verified on Bluesky](https://dev.to/lucacozzuto/how-to-use-github-to-be-verified-on-bluesky-k3p)
+- [Data Encryption and Decryption in Laravel](https://dev.to/anashussain284/data-encryption-and-decryption-in-laravel-58bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
