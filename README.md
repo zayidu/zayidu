@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Campus to Career: Securing an Offer at HSBC Technologies](https://dev.to/mrinankmj/from-campus-to-career-securing-an-offer-at-hsbc-technologies-5lg)
-- [How to Measure DORA Deployment Frequency](https://dev.to/shipyard/how-to-measure-dora-deployment-frequency-3c2i)
-- [Creating the Perfect Summer Color Palette: A Comprehensive Guide](https://dev.to/kolort/creating-the-perfect-summer-color-palette-a-comprehensive-guide-269k)
-- [Topics in Open Source Final Run Part 3 &lpar;Release&rpar;](https://dev.to/ajogseneca/topics-in-open-source-final-run-part-3-release-3lk5)
-- [Animated Account Pictures.](https://dev.to/gamelord2011/animated-account-pictures-24hi)
+- [[Boost]](https://dev.to/denoldtimer/-5fg)
+- [Day 11: Docker Compose](https://dev.to/code42cate/day-11-docker-compose-gk3)
+- [Transitioning from JavaScript to TypeScript: My experience and thoughts](https://dev.to/william_zeng/transitioning-from-javascript-to-typescript-my-experience-and-thoughts-hbp)
+- [My React Journey: Day 15](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-15-3g5f)
+- [Linux Environment Variables](https://dev.to/joshalmasin88/linux-environment-variables-31in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
