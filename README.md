@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/denoldtimer/-5fg)
-- [Day 11: Docker Compose](https://dev.to/code42cate/day-11-docker-compose-gk3)
-- [Transitioning from JavaScript to TypeScript: My experience and thoughts](https://dev.to/william_zeng/transitioning-from-javascript-to-typescript-my-experience-and-thoughts-hbp)
-- [My React Journey: Day 15](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-15-3g5f)
-- [Linux Environment Variables](https://dev.to/joshalmasin88/linux-environment-variables-31in)
+- [The 5 Stages of Grief in Tech Layoffs - a story](https://dev.to/silviaespanagil/the-5-stages-of-grief-in-tech-layoffs-a-story-23c4)
+- [AWS: Creating a Linux EC2 Instance and Installing NGINX](https://dev.to/johnogbonna/aws-creating-a-linux-ec2-instance-and-installing-nginx-593j)
+- [Why Golang Is the Language of the Future for Backend Development](https://dev.to/nabieebabak/why-golang-is-the-language-of-the-future-for-backend-development-ni)
+- [Age based list management](https://dev.to/kofa_sunday_73d00f8011584/age-based-list-management-43ie)
+- [Step-by-Step Guide for Deploying a Next.js Project as GitHub Pages](https://dev.to/lovelydev829/step-by-step-guide-for-deploying-a-nextjs-project-as-github-pages-33kb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
