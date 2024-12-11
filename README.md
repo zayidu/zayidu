@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate One-Time Password &lpar;OTP&rpar; Testing: A Casual Guide](https://dev.to/dancortazio/automate-one-time-password-otp-testing-a-casual-guide-3ocn)
-- [Check this amazing list of projects](https://dev.to/akshaycodes/check-this-amazing-list-of-projects-196d)
-- [Great List of Tools](https://dev.to/tanmoys95268896/great-list-of-tools-4he)
-- [Testing Management Tools](https://dev.to/fabiola_estefanipomamac/testing-management-tools-1909)
-- [Why Japan&#39;s IT Industry Risks Being Left Behind - A Path to Individual Success](https://dev.to/roboword/why-japans-it-industry-risks-being-left-behind-a-path-to-individual-success-3mda)
+- [From Campus to Career: Securing an Offer at HSBC Technologies](https://dev.to/mrinankmj/from-campus-to-career-securing-an-offer-at-hsbc-technologies-5lg)
+- [How to Measure DORA Deployment Frequency](https://dev.to/shipyard/how-to-measure-dora-deployment-frequency-3c2i)
+- [Creating the Perfect Summer Color Palette: A Comprehensive Guide](https://dev.to/kolort/creating-the-perfect-summer-color-palette-a-comprehensive-guide-269k)
+- [Topics in Open Source Final Run Part 3 &lpar;Release&rpar;](https://dev.to/ajogseneca/topics-in-open-source-final-run-part-3-release-3lk5)
+- [Animated Account Pictures.](https://dev.to/gamelord2011/animated-account-pictures-24hi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
