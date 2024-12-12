@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [✍️ Obsidian: Journaling](https://dev.to/oscareduardolp6/obsidian-journaling-3mp1)
-- [✍️ Obsidian: Journaling](https://dev.to/oscareduardolp6/obsidian-journaling-10ih)
-- [Programcılığa Adım Atmak: Yeni Başlayanlar veya Başlamayı Düşünenler İçin Kısa Bir Kılavuz](https://dev.to/zhantkan/programciliga-adim-atmak-yeni-baslayanlar-veya-baslamayi-dusunenler-icin-kisa-bir-kilavuz-185c)
-- [How I built my first mechanical keyboard [Tutorial] [Part 2]](https://dev.to/miriacode/how-i-built-my-first-mechanical-keyboard-tutorial-part-2-3lec)
-- [Building Real-Time Data Pipelines with Debezium: A Practical Guide](https://dev.to/juan_josdavidperezviz/building-real-time-data-pipelines-with-debezium-a-practical-guide-50f6)
+- [The Ultimate Guide to iOS Development: Variables, Data Types, and Basic Operations in Swift &lpar;Part 3&rpar;](https://dev.to/abdevhub/the-ultimate-guide-to-ios-development-variables-data-types-and-basic-operations-in-swift-part-3-5b67)
+- [Day 4: Lists](https://dev.to/theoriginalbpc/day-4-lists-43k5)
+- [Integrating LangChain with FastAPI for Asynchronous Streaming](https://dev.to/louis-sanna/integrating-langchain-with-fastapi-for-asynchronous-streaming-5d0o)
+- [Неофобия](https://dev.to/dmkjfs/nieofobiia-2mpj)
+- [Operators in Java](https://dev.to/olymahmud/operators-in-java-15jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
