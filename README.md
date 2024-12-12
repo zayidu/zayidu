@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rails Icons 1.0.0 is here](https://dev.to/railsdesigner/rails-icons-100-is-here-1mb3)
-- [Want to Know more about Software Raid?](https://dev.to/pltnvs/want-to-know-more-about-software-raid-cag)
-- [SimpleAuth - Open Source WebApi Based Alternative to ASP.NET Core Identity](https://dev.to/lymestack/simpleauth-open-source-webapi-based-alternative-to-aspnet-core-identity-40i8)
-- [Create a IoT solution using Azure IoT Hub, and simulating the device to send telemetry data or files to Azure Blob Storage.](https://dev.to/seyilufadejucyberservices/create-a-iot-solution-using-azure-iot-hub-and-simulating-the-device-to-send-telemetry-data-or-1doa)
-- [EGO y CRA](https://dev.to/zenx5/ego-y-cra-3agp)
+- [OS Security: Master Auditing and Protect Your Windows System](https://dev.to/enzo_dechaene/os-security-master-auditing-and-protect-your-windows-system-2ni9)
+- [The World of Web Development: Building the Digital Landscape](https://dev.to/shirley_norman_eaf1a9a214/the-world-of-web-development-building-the-digital-landscape-2lk7)
+- [SaaS Industry Stats and Insights for 2024 and Beyond](https://dev.to/thealgorithm/saas-industry-stats-and-insights-for-2024-and-beyond-3m5h)
+- [Native Observables, Rx7, Rx8 and the observable that doesn&#39;t exist yet](https://dev.to/dariomannu/native-observables-rx7-rx8-and-the-observable-that-doesnt-exist-yet-2l47)
+- [Isolando cargas de trabalho no k8s com kata container](https://dev.to/cslemes/isolando-cargas-de-trabalho-no-k8s-com-kata-container-243h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
