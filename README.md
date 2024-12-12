@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Tech Innovations That Will Change Everyday Life](https://dev.to/codiclab/5-tech-innovations-that-will-change-everyday-life-4i12)
-- [Untitled](https://dev.to/mrugadnik/untitled-154f)
-- [How a Hobby API Collection and Execution Tool is Evolving into a Product](https://dev.to/lovestaco/how-a-hobby-api-collection-and-execution-tool-is-evolving-into-a-product-299n)
-- [Flex Office Update](https://dev.to/jarvisscript/flex-office-update-1kb5)
-- [2025: The Future of EHR Software Development](https://dev.to/stephan_hawke_fd9cbb38db7/2025-the-future-of-ehr-software-development-5f91)
+- [Service Registry: Mastering Spring Boot Service Discovery and Registration using Netflix Eureka](https://dev.to/ayshriv/service-registry-mastering-spring-boot-service-discovery-and-registration-using-netflix-eureka-5edf)
+- [Target had to pay $6,000,000 due to web accessibility failures](https://dev.to/chris_devto/target-had-to-pay-6000000-due-to-web-accessibility-failures-15dp)
+- [Comparing Debouncing and Cancellation Tokens: When to Use Each in Web Applications](https://dev.to/bug_tamer/comparing-debouncing-and-cancellation-tokens-when-to-use-each-in-web-applications-22g3)
+- [Designing Distributed Resetting Counter](https://dev.to/araldhafeeri/designing-distributed-resetting-counter-1gac)
+- [What is Software RAID?](https://dev.to/pltnvs/what-is-software-raid-8c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
