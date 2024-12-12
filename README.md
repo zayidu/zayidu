@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 5 Stages of Grief in Tech Layoffs - a story](https://dev.to/silviaespanagil/the-5-stages-of-grief-in-tech-layoffs-a-story-23c4)
-- [AWS: Creating a Linux EC2 Instance and Installing NGINX](https://dev.to/johnogbonna/aws-creating-a-linux-ec2-instance-and-installing-nginx-593j)
-- [Why Golang Is the Language of the Future for Backend Development](https://dev.to/nabieebabak/why-golang-is-the-language-of-the-future-for-backend-development-ni)
-- [Age based list management](https://dev.to/kofa_sunday_73d00f8011584/age-based-list-management-43ie)
-- [Step-by-Step Guide for Deploying a Next.js Project as GitHub Pages](https://dev.to/lovelydev829/step-by-step-guide-for-deploying-a-nextjs-project-as-github-pages-33kb)
+- [Workplace Communication](https://dev.to/dmytro_lobanov/workplace-communication-4c15)
+- [某Bit数据解密算法](https://dev.to/dragon72463399/mou-bitshu-ju-jie-mi-suan-fa-jkp)
+- [Glam Up My Markup: Winter Solstice](https://dev.to/yukaty/glam-up-my-markup-winter-solstice-239h)
+- [DevFest Zamboanga Peninsula 2024: A Celebration of Tech and Innovation](https://dev.to/kakacomputer/devfest-zamboanga-peninsula-2024-a-celebration-of-tech-and-innovation-1m7i)
+- [6502 Math](https://dev.to/arilloid/6502-math-5ggh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
