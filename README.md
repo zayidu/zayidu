@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Mobile App Testing Tools: Ensuring Quality Across Devices 📱🔍](https://dev.to/hexadecimalsoftware/essential-mobile-app-testing-tools-ensuring-quality-across-devices-4jah)
-- [Last stretch for this client and then I&#39;m on vacation!](https://dev.to/highcenburg/last-stretch-for-this-client-and-then-im-on-vacation-3odb)
-- [AWS EKS Auto Mode: Automating Kubernetes Cluster Management](https://dev.to/aws-builders/aws-eks-auto-mode-automating-kubernetes-cluster-management-1cek)
-- [JS Interview Question](https://dev.to/anjali_gurjar_dff81513867/js-interview-question-1fcd)
-- [Neuer Keyless™: The End of Passwords, Tokens, and Headaches](https://dev.to/ryo_suwito/neuer-keyless-the-end-of-passwords-tokens-and-headaches-17db)
+- [AI Video Generation Breakthrough: Point Tracking Makes Videos More Stable and Natural](https://dev.to/mikeyoung44/ai-video-generation-breakthrough-point-tracking-makes-videos-more-stable-and-natural-3418)
+- [Day8](https://dev.to/reegan/day8-3l7a)
+- [The Power of Design Systems: How to Create and Maintain a Consistent Design Language](https://dev.to/okoye_ndidiamaka_5e3b7d30/the-power-of-design-systems-how-to-create-and-maintain-a-consistent-design-language-1ik7)
+- [My New Book: Full-Stack AI for Web Developers - 50% discount code included! AMA!](https://dev.to/theodesp/my-new-book-full-stack-ai-for-web-developers-50-discount-code-33c1)
+- [Understanding Bash-scripting](https://dev.to/favour_onyeneke_b02dc5edb/understanding-bash-scripting-2o39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
