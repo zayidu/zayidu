@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🕸️ How to Scrape Indonesian Public Company Profiles](https://dev.to/zororaka/how-to-scrape-indonesian-public-company-profiles-hd9)
-- [Jupyter Notebooks Are Like Spreadsheets](https://dev.to/aaronjbecker/jupyter-notebooks-are-like-spreadsheets-37b)
-- [ColdFusion Dump Alternative](https://dev.to/gamesover/coldfusion-dump-alternative-347b)
-- [FullStack App Using React and GraphQL &lpar;Apollo Client and Apollo Server&rpar;](https://dev.to/pedrotech/fullstack-app-using-react-and-graphql-apollo-client-and-apollo-server-10hm)
-- [Searching for a Resource on Machine Learning and AI Development](https://dev.to/beyond_thegates_143f2838/searching-for-a-resource-on-machine-learning-and-ai-development-2ijg)
+- [5 Tech Innovations That Will Change Everyday Life](https://dev.to/codiclab/5-tech-innovations-that-will-change-everyday-life-4i12)
+- [Untitled](https://dev.to/mrugadnik/untitled-154f)
+- [How a Hobby API Collection and Execution Tool is Evolving into a Product](https://dev.to/lovestaco/how-a-hobby-api-collection-and-execution-tool-is-evolving-into-a-product-299n)
+- [Flex Office Update](https://dev.to/jarvisscript/flex-office-update-1kb5)
+- [2025: The Future of EHR Software Development](https://dev.to/stephan_hawke_fd9cbb38db7/2025-the-future-of-ehr-software-development-5f91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
