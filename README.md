@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Productivity as a Developer: Essential Tools and Plugins](https://dev.to/cryptosandy/boost-your-productivity-as-a-developer-essential-tools-and-plugins-ahe)
-- [Importance of Compliance &lpar;GDPR, HIPAA&rpar;](https://dev.to/574n13y/importance-of-compliance-gdpr-hipaa-1m0c)
-- [Full Stack Developer Test Empowered by Google: A Journey Through Challenges and MCQs](https://dev.to/usman_awan/full-stack-developer-test-empowered-by-google-a-journey-through-challenges-and-mcqs-1p5m)
-- [2558. Take Gifts From the Richest Pile](https://dev.to/mdarifulhaque/2558-take-gifts-from-the-richest-pile-4i65)
-- [Submission For Bright Data Web Scraping Challenge: Web Scraper Using Bright Data API](https://dev.to/trixsec/submission-for-bright-data-web-scraping-challenge-web-scraper-using-bright-data-api-4pmd)
+- [How to Create and Set Up an EC2 Instance on AWS and Install IIS Web Server](https://dev.to/kosisochukwu_ugochukwu_a2/how-to-create-and-set-up-an-ec2-instance-on-aws-and-install-iis-web-server-2h1o)
+- [Level Up Your GitHub Profile With These 20+ Amazing Resources! 🚀](https://dev.to/jfmartinz/level-up-your-github-profile-with-these-20-amazing-resources-524p)
+- [Lambda vs. Named Functions: Choosing the Right Tool for the Job](https://dev.to/rajibdk/lambda-vs-named-functions-choosing-the-right-tool-for-the-job-36kc)
+- [React Testing: A Comprehensive Guide](https://dev.to/keploy/react-testing-a-comprehensive-guide-3mmi)
+- [Reflector Oracle Protocol Documentation Improvement Suggestions](https://dev.to/francis001210/reflector-oracle-protocol-documentation-improvement-suggestions-1lo9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
