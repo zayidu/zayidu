@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OS Security: Master Auditing and Protect Your Windows System](https://dev.to/enzo_dechaene/os-security-master-auditing-and-protect-your-windows-system-2ni9)
-- [The World of Web Development: Building the Digital Landscape](https://dev.to/shirley_norman_eaf1a9a214/the-world-of-web-development-building-the-digital-landscape-2lk7)
-- [SaaS Industry Stats and Insights for 2024 and Beyond](https://dev.to/thealgorithm/saas-industry-stats-and-insights-for-2024-and-beyond-3m5h)
-- [Native Observables, Rx7, Rx8 and the observable that doesn&#39;t exist yet](https://dev.to/dariomannu/native-observables-rx7-rx8-and-the-observable-that-doesnt-exist-yet-2l47)
-- [Isolando cargas de trabalho no k8s com kata container](https://dev.to/cslemes/isolando-cargas-de-trabalho-no-k8s-com-kata-container-243h)
+- [Adapter and Composite Design Patterns](https://dev.to/shieldstring/adapter-and-composite-design-patterns-4701)
+- [Interviews as a Storytelling Showcase](https://dev.to/shieldstring/interviews-as-a-storytelling-showcase-2477)
+- [A pragmatic approach to SOLID](https://dev.to/kmruiz/a-pragmatic-approach-to-solid-46a5)
+- [Walkthrough HTB Public Exploits Flag Hunting: Lessons in Overthinking and Simplifying](https://dev.to/hacknip/walkthrough-htb-public-exploits-flag-hunting-lessons-in-overthinking-and-simplifying-4ddk)
+- [Recapping the AI, Machine Learning and Computer Meetup — December 12, 2024](https://dev.to/voxel51/recapping-the-ai-machine-learning-and-computer-meetup-december-12-2024-18em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
