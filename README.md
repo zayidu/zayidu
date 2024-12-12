@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Replace Philips Hue automation with Home Assistant&#39;s](https://dev.to/nfrankel/replace-philips-hue-automation-with-home-assistants-4gpe)
-- [How to Use Generative AI for Video Production?](https://dev.to/anshul_kichara/how-to-use-generative-ai-for-video-production-1cci)
-- [[Boost]](https://dev.to/marcuskohlberg/-p20)
-- [Advanced value-based validation in Rust for Node.js apps](https://dev.to/encore/advanced-value-based-validation-in-rust-for-nodejs-apps-5a5j)
-- [Finance Tracker Interface](https://dev.to/tobidelly/finance-tracker-interface-53j0)
+- [Mastering API Testing: Key Challenges and How to Solve Them](https://dev.to/vijayashree44/mastering-api-testing-key-challenges-and-how-to-solve-them-4lf1)
+- [Code. Battery notifier.](https://dev.to/axkira/code-battery-notifier-1l0l)
+- [LeetCode Challenge: 55. Jump Game - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-55-jump-game-javascript-solution-55f5)
+- [Interactive DataFrame Management with Streamlit Fragments 🚀](https://dev.to/blamsa0mine/interactive-dataframe-management-with-streamlit-fragments-am2)
+- [Simplifying System Design: Authentication vs Authorization](https://dev.to/nishantnaithani/simplifying-system-design-authentication-vs-authorization-4n5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
