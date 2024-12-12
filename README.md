@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up GraphQL and GraphiQL in Rails: A Comprehensive Guide](https://dev.to/sulmanweb/setting-up-graphql-and-graphiql-in-rails-a-comprehensive-guide-2n45)
-- [Advanced Selenium C# Guide: Leveraging Custom Waits and Dynamic Element Handling](https://dev.to/jignect_technologies/advanced-selenium-c-guide-leveraging-custom-waits-and-dynamic-element-handling-2ooj)
-- [How to understand the ins and outs of how DNS really works.](https://dev.to/xmanhugo/how-to-understand-the-ins-and-outs-of-how-dns-really-works-2hc0)
-- [7 Ways Intel Evo Elevates Mobile Computing Experiences](https://dev.to/jonathanjone/7-ways-intel-evo-elevates-mobile-computing-experiences-4plb)
-- [It’s cybersecurity’s kryptonite: Why are you still holding it?](https://dev.to/tidefoundation/its-cybersecuritys-kryptonite-why-are-you-still-holding-it-1ll9)
+- [What is Web Development? A Beginner’s Guide to Building Websites](https://dev.to/mohamed_suhail_/what-is-web-development-a-beginners-guide-to-building-websites-22d4)
+- [Analysis of the Relationship Between HTTP and RPC](https://dev.to/mpoiiii/analysis-of-the-relationship-between-http-and-rpc-35j9)
+- [📖Accessibility: Making the Web a Better Place🌐🚀](https://dev.to/laxmann/accessibility-making-the-web-a-better-place-311g)
+- [Streaming live data to your ReactJS app using Server-Side-Events](https://dev.to/nir_tzezana_029370cba9093/streaming-live-data-to-your-reactjs-app-using-server-side-events-40am)
+- [Universal Personal Assistant with LLMs](https://dev.to/admantium/universal-personal-assistant-with-llms-59e3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
