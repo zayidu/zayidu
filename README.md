@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#116 — Concatenate Members with the Same Ranking](https://dev.to/judith677/116-concatenate-members-with-the-same-ranking-5g58)
-- [Learn Git and GitHub the Practical Way guide by senior engineer](https://dev.to/pawandeore/learn-git-and-github-the-practical-way-guide-by-senior-engineer-281m)
-- [Final Update - Failed to Release](https://dev.to/elisassa/final-update-failed-to-release-5hh3)
-- [Python Day-21 String functions logic using loops](https://dev.to/guru_prasanna_01/python-day-21-string-functions-logic-using-loops-4bj7)
-- [Bootstrap 3 to 5](https://dev.to/elisassa/bootstrap-3-to-5-jo9)
+- [Finding Trusted Bulk Email Marketing Services](https://dev.to/sam_devid_65bbbe34ab06c1a/finding-trusted-bulk-email-marketing-services-5g9b)
+- [Day 12: Pico-co-colors 🐥](https://dev.to/valeriavg/day-12-chalk-it-up-3310)
+- [SPO-GCC - Final post](https://dev.to/krinskumar/spo-gcc-final-post-3jmp)
+- [Java roadmap from beginner to advanced.🤩](https://dev.to/krishna7852/java-roadmap-from-beginner-to-advanced-2ikj)
+- [Binary Search || Python](https://dev.to/rishabtrivedi/binary-search-python-2fej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
