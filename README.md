@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Workplace Communication](https://dev.to/dmytro_lobanov/workplace-communication-4c15)
-- [某Bit数据解密算法](https://dev.to/dragon72463399/mou-bitshu-ju-jie-mi-suan-fa-jkp)
-- [Glam Up My Markup: Winter Solstice](https://dev.to/yukaty/glam-up-my-markup-winter-solstice-239h)
-- [DevFest Zamboanga Peninsula 2024: A Celebration of Tech and Innovation](https://dev.to/kakacomputer/devfest-zamboanga-peninsula-2024-a-celebration-of-tech-and-innovation-1m7i)
-- [6502 Math](https://dev.to/arilloid/6502-math-5ggh)
+- [What is React and How it works ?](https://dev.to/kawsarkabir/what-is-react-and-how-it-works--gcd)
+- [How to Compile and Use fw_printenv in the OKMX6UL Series Linux 4.1.15 System](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-compile-and-use-fwprintenv-in-the-okmx6ul-series-linux-4115-system-3kpo)
+- [Local Storage vs Session Storage: When to Use Each &lpar;With Mini Projects&rpar;](https://dev.to/peboycodes/local-storage-vs-session-storage-when-to-use-each-with-mini-projects-3flm)
+- [Here&#39;s Why I Stopped Specializing](https://dev.to/sudocold/heres-why-i-stopped-specializing-1ecd)
+- [Day 1072 : The Real](https://dev.to/dwane/day-1072-the-real-5c79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
