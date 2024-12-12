@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepMind at Google: Denny Zhou](https://dev.to/pravintargaryen/deepmind-at-google-denny-zhou-fcl)
-- [How to Recreate the Iconic Pegman from Google Maps](https://dev.to/rodrigoantunes/how-to-recreate-the-iconic-pegman-from-google-maps-mi7)
-- [Is Bitcoin Ready for the Quantum Era? Understanding Security and Future-Proofing](https://dev.to/zororaka/is-bitcoin-ready-for-the-quantum-era-understanding-security-and-future-proofing-5b0l)
-- [Day One to Became an Android Developer](https://dev.to/himagaur2708/day-one-to-became-an-android-developer-2e37)
-- [Best Developer Portfolio Websites and Why They Work](https://dev.to/jtrevdev/best-developer-portfolio-websites-and-why-they-work-3bdk)
+- [🕸️ How to Scrape Indonesian Public Company Profiles](https://dev.to/zororaka/how-to-scrape-indonesian-public-company-profiles-hd9)
+- [Jupyter Notebooks Are Like Spreadsheets](https://dev.to/aaronjbecker/jupyter-notebooks-are-like-spreadsheets-37b)
+- [ColdFusion Dump Alternative](https://dev.to/gamesover/coldfusion-dump-alternative-347b)
+- [FullStack App Using React and GraphQL &lpar;Apollo Client and Apollo Server&rpar;](https://dev.to/pedrotech/fullstack-app-using-react-and-graphql-apollo-client-and-apollo-server-10hm)
+- [Searching for a Resource on Machine Learning and AI Development](https://dev.to/beyond_thegates_143f2838/searching-for-a-resource-on-machine-learning-and-ai-development-2ijg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
