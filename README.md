@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering API Testing: Key Challenges and How to Solve Them](https://dev.to/vijayashree44/mastering-api-testing-key-challenges-and-how-to-solve-them-4lf1)
-- [Code. Battery notifier.](https://dev.to/axkira/code-battery-notifier-1l0l)
-- [LeetCode Challenge: 55. Jump Game - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-55-jump-game-javascript-solution-55f5)
-- [Interactive DataFrame Management with Streamlit Fragments 🚀](https://dev.to/blamsa0mine/interactive-dataframe-management-with-streamlit-fragments-am2)
-- [Simplifying System Design: Authentication vs Authorization](https://dev.to/nishantnaithani/simplifying-system-design-authentication-vs-authorization-4n5h)
+- [Essential Mobile App Testing Tools: Ensuring Quality Across Devices 📱🔍](https://dev.to/hexadecimalsoftware/essential-mobile-app-testing-tools-ensuring-quality-across-devices-4jah)
+- [Last stretch for this client and then I&#39;m on vacation!](https://dev.to/highcenburg/last-stretch-for-this-client-and-then-im-on-vacation-3odb)
+- [AWS EKS Auto Mode: Automating Kubernetes Cluster Management](https://dev.to/aws-builders/aws-eks-auto-mode-automating-kubernetes-cluster-management-1cek)
+- [JS Interview Question](https://dev.to/anjali_gurjar_dff81513867/js-interview-question-1fcd)
+- [Neuer Keyless™: The End of Passwords, Tokens, and Headaches](https://dev.to/ryo_suwito/neuer-keyless-the-end-of-passwords-tokens-and-headaches-17db)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
