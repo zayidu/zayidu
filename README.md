@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create and Set Up an EC2 Instance on AWS and Install IIS Web Server](https://dev.to/kosisochukwu_ugochukwu_a2/how-to-create-and-set-up-an-ec2-instance-on-aws-and-install-iis-web-server-2h1o)
-- [Level Up Your GitHub Profile With These 20+ Amazing Resources! 🚀](https://dev.to/jfmartinz/level-up-your-github-profile-with-these-20-amazing-resources-524p)
-- [Lambda vs. Named Functions: Choosing the Right Tool for the Job](https://dev.to/rajibdk/lambda-vs-named-functions-choosing-the-right-tool-for-the-job-36kc)
-- [React Testing: A Comprehensive Guide](https://dev.to/keploy/react-testing-a-comprehensive-guide-3mmi)
-- [Reflector Oracle Protocol Documentation Improvement Suggestions](https://dev.to/francis001210/reflector-oracle-protocol-documentation-improvement-suggestions-1lo9)
+- [✍️ Obsidian: Journaling](https://dev.to/oscareduardolp6/obsidian-journaling-3mp1)
+- [✍️ Obsidian: Journaling](https://dev.to/oscareduardolp6/obsidian-journaling-10ih)
+- [Programcılığa Adım Atmak: Yeni Başlayanlar veya Başlamayı Düşünenler İçin Kısa Bir Kılavuz](https://dev.to/zhantkan/programciliga-adim-atmak-yeni-baslayanlar-veya-baslamayi-dusunenler-icin-kisa-bir-kilavuz-185c)
+- [How I built my first mechanical keyboard [Tutorial] [Part 2]](https://dev.to/miriacode/how-i-built-my-first-mechanical-keyboard-tutorial-part-2-3lec)
+- [Building Real-Time Data Pipelines with Debezium: A Practical Guide](https://dev.to/juan_josdavidperezviz/building-real-time-data-pipelines-with-debezium-a-practical-guide-50f6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
