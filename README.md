@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding Trusted Bulk Email Marketing Services](https://dev.to/sam_devid_65bbbe34ab06c1a/finding-trusted-bulk-email-marketing-services-5g9b)
-- [Day 12: Pico-co-colors 🐥](https://dev.to/valeriavg/day-12-chalk-it-up-3310)
-- [SPO-GCC - Final post](https://dev.to/krinskumar/spo-gcc-final-post-3jmp)
-- [Java roadmap from beginner to advanced.🤩](https://dev.to/krishna7852/java-roadmap-from-beginner-to-advanced-2ikj)
-- [Binary Search || Python](https://dev.to/rishabtrivedi/binary-search-python-2fej)
+- [Setting Up GraphQL and GraphiQL in Rails: A Comprehensive Guide](https://dev.to/sulmanweb/setting-up-graphql-and-graphiql-in-rails-a-comprehensive-guide-2n45)
+- [Advanced Selenium C# Guide: Leveraging Custom Waits and Dynamic Element Handling](https://dev.to/jignect_technologies/advanced-selenium-c-guide-leveraging-custom-waits-and-dynamic-element-handling-2ooj)
+- [How to understand the ins and outs of how DNS really works.](https://dev.to/xmanhugo/how-to-understand-the-ins-and-outs-of-how-dns-really-works-2hc0)
+- [7 Ways Intel Evo Elevates Mobile Computing Experiences](https://dev.to/jonathanjone/7-ways-intel-evo-elevates-mobile-computing-experiences-4plb)
+- [It’s cybersecurity’s kryptonite: Why are you still holding it?](https://dev.to/tidefoundation/its-cybersecuritys-kryptonite-why-are-you-still-holding-it-1ll9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
