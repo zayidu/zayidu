@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Service Registry: Mastering Spring Boot Service Discovery and Registration using Netflix Eureka](https://dev.to/ayshriv/service-registry-mastering-spring-boot-service-discovery-and-registration-using-netflix-eureka-5edf)
-- [Target had to pay $6,000,000 due to web accessibility failures](https://dev.to/chris_devto/target-had-to-pay-6000000-due-to-web-accessibility-failures-15dp)
-- [Comparing Debouncing and Cancellation Tokens: When to Use Each in Web Applications](https://dev.to/bug_tamer/comparing-debouncing-and-cancellation-tokens-when-to-use-each-in-web-applications-22g3)
-- [Designing Distributed Resetting Counter](https://dev.to/araldhafeeri/designing-distributed-resetting-counter-1gac)
-- [What is Software RAID?](https://dev.to/pltnvs/what-is-software-raid-8c5)
+- [Rails Icons 1.0.0 is here](https://dev.to/railsdesigner/rails-icons-100-is-here-1mb3)
+- [Want to Know more about Software Raid?](https://dev.to/pltnvs/want-to-know-more-about-software-raid-cag)
+- [SimpleAuth - Open Source WebApi Based Alternative to ASP.NET Core Identity](https://dev.to/lymestack/simpleauth-open-source-webapi-based-alternative-to-aspnet-core-identity-40i8)
+- [Create a IoT solution using Azure IoT Hub, and simulating the device to send telemetry data or files to Azure Blob Storage.](https://dev.to/seyilufadejucyberservices/create-a-iot-solution-using-azure-iot-hub-and-simulating-the-device-to-send-telemetry-data-or-1doa)
+- [EGO y CRA](https://dev.to/zenx5/ego-y-cra-3agp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
