@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cách trình bày ngày/giờ chuyên nghiệp và không gây ra nhầm lẫn](https://dev.to/longtth/cach-trinh-bay-ngaygio-chuyen-nghiep-va-khong-gay-ra-nham-lan-20if)
-- [AWS: Using S3 and Generating a Pre-Signed URL](https://dev.to/johnogbonna/aws-using-s3-and-generating-a-pre-signed-url-1m2j)
-- [Access Array Elements with Pointers in C++](https://dev.to/vultr/access-array-elements-with-pointers-in-c-2114)
-- [Why A Stable Test Automation Environment is Vital](https://dev.to/berthaw82414312/why-a-stable-test-automation-environment-is-vital-lic)
-- [Mastering The Redo Shortcut Key: A Guide For Efficient Workflows](https://dev.to/keploy/mastering-the-redo-shortcut-key-a-guide-for-efficient-workflows-2d30)
+- [Replace Philips Hue automation with Home Assistant&#39;s](https://dev.to/nfrankel/replace-philips-hue-automation-with-home-assistants-4gpe)
+- [How to Use Generative AI for Video Production?](https://dev.to/anshul_kichara/how-to-use-generative-ai-for-video-production-1cci)
+- [[Boost]](https://dev.to/marcuskohlberg/-p20)
+- [Advanced value-based validation in Rust for Node.js apps](https://dev.to/encore/advanced-value-based-validation-in-rust-for-nodejs-apps-5a5j)
+- [Finance Tracker Interface](https://dev.to/tobidelly/finance-tracker-interface-53j0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
