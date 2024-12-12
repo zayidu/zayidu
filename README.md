@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Complexity Determines Everything](https://dev.to/longor/complexity-determines-everything-12m)
-- [Python crawler practice: using 98ip proxy IP to obtain cross-border e-commerce data](https://dev.to/98ip/python-crawler-practice-using-98ip-proxy-ip-to-obtain-cross-border-e-commerce-data-j8a)
-- [What is React and How it works ?](https://dev.to/kawsarkabir/what-is-react-and-how-it-works--gcd)
-- [How to Compile and Use fw_printenv in the OKMX6UL Series Linux 4.1.15 System](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-compile-and-use-fwprintenv-in-the-okmx6ul-series-linux-4115-system-3kpo)
-- [Local Storage vs Session Storage: When to Use Each &lpar;With Mini Projects&rpar;](https://dev.to/peboycodes/local-storage-vs-session-storage-when-to-use-each-with-mini-projects-3flm)
+- [#116 — Concatenate Members with the Same Ranking](https://dev.to/judith677/116-concatenate-members-with-the-same-ranking-5g58)
+- [Learn Git and GitHub the Practical Way guide by senior engineer](https://dev.to/pawandeore/learn-git-and-github-the-practical-way-guide-by-senior-engineer-281m)
+- [Final Update - Failed to Release](https://dev.to/elisassa/final-update-failed-to-release-5hh3)
+- [Python Day-21 String functions logic using loops](https://dev.to/guru_prasanna_01/python-day-21-string-functions-logic-using-loops-4bj7)
+- [Bootstrap 3 to 5](https://dev.to/elisassa/bootstrap-3-to-5-jo9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
