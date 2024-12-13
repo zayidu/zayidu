@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Add The Whitelist for Your Ingress-Nginx Controller of K8S?](https://dev.to/u2633/how-to-add-the-whitelist-for-your-ingress-nginx-controller-of-k8s-1a02)
-- [Cloud Solutions vs. On-Premise Speech Recognition Systems](https://dev.to/julia_8cb077bca5/cloud-solutions-vs-on-premise-speech-recognition-systems-1378)
-- [learn promise and asyn await with A basic example](https://dev.to/kishan45/promise-2388)
-- [EKS Auto Mode Unlocked for Existing Clusters with Terraform](https://dev.to/aws-builders/eks-auto-mode-unlocked-for-existing-clusters-with-terraform-545i)
-- [Fluent Streams: A Library for Rich Iterables Manipulation](https://dev.to/alekseiberezkin/fluent-streams-a-library-for-rich-iterables-manipulation-5cja)
+- [Dummy API for Testing: How to Use It vs Mocking](https://dev.to/getambassador2024/dummy-api-for-testing-how-to-use-it-vs-mocking-251g)
+- [Key DevOps Trends in 2025](https://dev.to/neeljyo/key-devops-trends-in-2025-1lhc)
+- [The 10-Minute Company: zero to PoC 10 minutes per day](https://dev.to/pul/the-10-minute-company-zero-to-poc-10-minutes-per-day-52a7)
+- [What Makes a Keyboard Truly Portable? A Comprehensive Guide to the Seven Core Features of Portable Keyboards](https://dev.to/mysticcoder/what-makes-a-keyboard-truly-portable-a-comprehensive-guide-to-the-seven-core-features-of-portable-2fec)
+- [[Open Source] Simplify Metrics Reporting in NestJS with a Zero-Dependency-Injection Global Reporter](https://dev.to/netanelavr/open-source-simplify-metrics-reporting-in-nestjs-with-a-zero-dependency-injection-global-reporter-36pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
