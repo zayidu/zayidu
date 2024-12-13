@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Crawlee GiveAway for our dev.to community! :&rpar;](https://dev.to/sauain/crawlee-giveaway-for-our-devto-community--2nkl)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-7k6)
-- [Day 13: I love Boxes! 📦](https://dev.to/valeriavg/day-13-i-love-boxes-4hn)
-- [A New Start on Dev.to](https://dev.to/kamalhinduja/a-new-start-on-devto-2oaf)
-- [Queue, Deque, and Priority Queue: Key Data Structures Explained](https://dev.to/alex_ricciardi/queue-deque-and-priority-queue-key-data-structures-explained-pap)
+- [How To Add The Whitelist for Your Ingress-Nginx Controller of K8S?](https://dev.to/u2633/how-to-add-the-whitelist-for-your-ingress-nginx-controller-of-k8s-1a02)
+- [Cloud Solutions vs. On-Premise Speech Recognition Systems](https://dev.to/julia_8cb077bca5/cloud-solutions-vs-on-premise-speech-recognition-systems-1378)
+- [learn promise and asyn await with A basic example](https://dev.to/kishan45/promise-2388)
+- [EKS Auto Mode Unlocked for Existing Clusters with Terraform](https://dev.to/aws-builders/eks-auto-mode-unlocked-for-existing-clusters-with-terraform-545i)
+- [Fluent Streams: A Library for Rich Iterables Manipulation](https://dev.to/alekseiberezkin/fluent-streams-a-library-for-rich-iterables-manipulation-5cja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
