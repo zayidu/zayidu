@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Challenge: 45. Jump Game II - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-45-jump-game-ii-javascript-solution-4i13)
-- [0x2e: A Useful Collection of Online Tools](https://dev.to/0x2e_tech/0x2e-a-useful-collection-of-online-tools-1e99)
-- [0x2e.tech: The Free Toolkit You Didn’t Know You Needed](https://dev.to/0x2e_tech/0x2etech-the-free-toolkit-you-didnt-know-you-needed-2noj)
-- [How to Record an Outstanding Interview Video for Company X](https://dev.to/respect17/how-to-record-an-outstanding-interview-video-for-company-x-pga)
-- [Mastering Git and Github: A Must-Read Tutorial for Aspiring Developers](https://dev.to/getvm/mastering-git-and-github-a-must-read-tutorial-for-aspiring-developers-3l5i)
+- [Game Dev Digest — Issue #261 - Networking, Tutorials and more](https://dev.to/gamedevdigest/game-dev-digest-issue-261-networking-tutorials-and-more-32cc)
+- [December 2024: A Turning Point for Crypto Investors and Devs](https://dev.to/cryptosandy/december-2024-a-turning-point-for-crypto-investors-and-devs-6ji)
+- [Task 3](https://dev.to/v_inoth_f0fad29baec4c/task-3-26j6)
+- [Resource Dependencies Lifecycle in Terraform day 7](https://dev.to/i_am_vesh/resource-dependencies-lifecycle-in-terraform-day-7-5gf6)
+- [Advanced VPC Networking: Detailed Breakdown](https://dev.to/imsushant12/advanced-vpc-networking-detailed-breakdown-2m8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
