@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Mint Ecosystem: Forging the Future of Decentralized Technology](https://dev.to/mint_/exploring-mint-ecosystem-forging-the-future-of-decentralized-technology-n67)
-- [AI Creates Realistic 3D Models from Regular Videos, No Special Camera Setup Needed](https://dev.to/mikeyoung44/ai-creates-realistic-3d-models-from-regular-videos-no-special-camera-setup-needed-2adb)
-- [New AI Attack Method Bypasses Safety Controls with 80% Success Rate, Evading Detection](https://dev.to/mikeyoung44/new-ai-attack-method-bypasses-safety-controls-with-80-success-rate-evading-detection-4b5k)
-- [Web App Testing Guide: Simplified for One and All](https://dev.to/grjoeay/web-app-testing-guide-simplified-for-one-and-all-51d2)
-- [Study Reveals How AI Models Perform Hidden Step-by-Step Reasoning, Even Without Being Asked](https://dev.to/mikeyoung44/study-reveals-how-ai-models-perform-hidden-step-by-step-reasoning-even-without-being-asked-329p)
+- [Did Google Just Open Pandora’s Box of AI?](https://dev.to/airabbit/gemini-20-did-google-just-open-pandoras-box-of-ai-3kn9)
+- [Learning Java Together: A Fun Journey into Coding Basics 👩🏼‍💻📚!](https://dev.to/respect17/learning-java-together-a-fun-journey-into-coding-basics--2jn8)
+- [Indore Management Institute](https://dev.to/shreya_shah_3528cb69997a9/indore-management-institute-2004)
+- [Revolutionize Your Database with AI for SQL Querying](https://dev.to/ezinsightsai/revolutionize-your-database-with-ai-for-sql-querying-a6i)
+- [Understanding Bluetooth PCBs: Design Considerations and Applications](https://dev.to/yoy/understanding-bluetooth-pcbs-design-considerations-and-applications-3607)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
