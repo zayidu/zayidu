@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s one of the most thorough how-to guides I&#39;ve seen on any site, and it offers extreme flexibility for individual setup and Linux distribution preferences.](https://dev.to/zaznet/its-one-of-the-most-thorough-how-to-guides-ive-seen-on-any-site-and-it-offers-extreme-2fd3)
-- [I&#39;m Publishing Matanuska BASIC&#39;s ADRs](https://dev.to/jfhbrook/im-publishing-matanuskas-adrs-1fkg)
-- [Understanding Kubernetes Security: Common Vulnerabilities and Modern Solutions](https://dev.to/nolunchbreaks_22/understanding-kubernetes-security-common-vulnerabilities-and-modern-solutions-2p3j)
-- [What is Builder&#39;s Visual Development Platform?](https://dev.to/builderio/what-is-builders-visual-development-platform-3c3k)
-- [Day 5: Links](https://dev.to/theoriginalbpc/day-5-links-3aa8)
+- [Every developer has said &quot;Hello, World&quot;](https://dev.to/pedroantdevv/every-developer-has-said-hello-world-hkg)
+- [Do you know what the best practices are for simple storage shuffle in AWS S3?](https://dev.to/vaish_98/do-you-know-what-the-best-practices-are-for-simple-storage-shuffle-in-aws-s3-la0)
+- [Top 5 Programming Languages to Watch in 2025: Which Ones Will Shape the Future?](https://dev.to/codiclab/top-5-programming-languages-to-watch-in-2025-which-ones-will-shape-the-future-4bdd)
+- [End to End CI/CD pipeline using GitHub Actions for Android Application](https://dev.to/devcloudninjas/end-to-end-cicd-pipeline-using-github-actions-for-android-application-36i5)
+- [Finding Energy to Learn &amp; Build When Burnt Out](https://dev.to/jesterxl/finding-energy-to-learn-build-when-burnt-out-4139)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
