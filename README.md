@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Small Forms 1.7.0](https://dev.to/sebk69/small-forms-170-58ee)
-- [⛏️ Comprehensive Guide: 🧪 Load Testing FastAPI and Postman](https://dev.to/kainoah/comprehensive-guide-load-testing-fastapi-and-postman-1oip)
-- [&quot;Mastering Essential Software Architecture Patterns&quot; is your go-to guide for optimizing software design and achieving scalable, efficient systems! 🛠️](https://dev.to/lorebrada00/mastering-essential-software-architecture-patterns-is-your-go-to-guide-for-optimizing-software-5f49)
-- [Create Chart in React Using Chart.js || Chart JS Tutorial React](https://dev.to/rifkyalfarez/create-chart-in-react-using-chartjs-chart-js-tutorial-react-16pb)
-- [Data Visualisation in React Using Chart.js](https://dev.to/rifkyalfarez/data-visualisation-in-react-using-chartjs-41fe)
+- [How to Activate Windows 11 Using a Product Key or Digital License?](https://dev.to/win11verse/how-to-activate-windows-11-using-a-product-key-or-digital-license-3im1)
+- [Application of proxy IP in hot monitoring and trend analysis](https://dev.to/98ip/application-of-proxy-ip-in-hot-monitoring-and-trend-analysis-4gig)
+- [What is Chunk Size and Chunk Overlap](https://dev.to/tak089/what-is-chunk-size-and-chunk-overlap-1hlj)
+- [Cybersecurity Challenges in AI-Powered Medical Devices &lpar;SaMD&rpar;:](https://dev.to/rupeshit/cybersecurity-challenges-in-ai-powered-medical-devices-samd-1oma)
+- [🌐 The Ultimate and Most Comprehensive HTML Guide: Basics, Advanced Features, and Secrets to Master HTML 🚀](https://dev.to/hanzla-baig/the-ultimate-and-most-comprehensive-html-guide-basics-advanced-features-and-secrets-to-master-541g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
