@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify Software Testing with These Test Data Generators](https://dev.to/qalogy/simplify-software-testing-with-these-test-data-generators-2jgb)
-- [Comparison: Terraform vs. CloudFormation](https://dev.to/574n13y/comparison-terraform-vs-cloudformation-382l)
-- [Build your next Web App using AWS Free Tier services without breaking the bank](https://dev.to/nick_thompson/build-your-next-web-app-using-aws-free-tier-services-without-breaking-the-bank-1n5)
-- [Top Open Source eCommerce Platforms](https://dev.to/mike_faber_4aaf24b0b056ad/top-open-source-ecommerce-platforms-4145)
-- [10 Cool Ideas for Discord Bots You Can Build Today](https://dev.to/leimanisemils/10-cool-ideas-for-discord-bots-you-can-build-today-gh0)
+- [Sass vs. SCSS: What&#39;s the Difference and Which One Should You Use?](https://dev.to/rayechos/sass-vs-scss-whats-the-difference-and-which-one-should-you-use-4od4)
+- [Understanding God Objects in Object-Oriented Programming](https://dev.to/wallacefreitas/understanding-god-objects-in-object-oriented-programming-5636)
+- [Find out the GCD&lpar;Greatest Common Divisor&rpar; of the given two numbers in PHP.](https://dev.to/sharminshanta/find-out-the-gcdgreatest-common-divisor-of-the-given-two-numbers-in-php-3l2)
+- [How to install an iis web server on Amazon Ec2 instance](https://dev.to/stippy4real/how-to-install-an-iis-web-server-on-amazon-ec2-instance-55b1)
+- [So I created Linktree alternative...](https://dev.to/sein_digital/so-i-created-linktree-alternative-173o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
