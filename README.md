@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dummy API for Testing: How to Use It vs Mocking](https://dev.to/getambassador2024/dummy-api-for-testing-how-to-use-it-vs-mocking-251g)
-- [Key DevOps Trends in 2025](https://dev.to/neeljyo/key-devops-trends-in-2025-1lhc)
-- [The 10-Minute Company: zero to PoC 10 minutes per day](https://dev.to/pul/the-10-minute-company-zero-to-poc-10-minutes-per-day-52a7)
-- [What Makes a Keyboard Truly Portable? A Comprehensive Guide to the Seven Core Features of Portable Keyboards](https://dev.to/mysticcoder/what-makes-a-keyboard-truly-portable-a-comprehensive-guide-to-the-seven-core-features-of-portable-2fec)
-- [[Open Source] Simplify Metrics Reporting in NestJS with a Zero-Dependency-Injection Global Reporter](https://dev.to/netanelavr/open-source-simplify-metrics-reporting-in-nestjs-with-a-zero-dependency-injection-global-reporter-36pa)
+- [🚀 Week 2 Recap: Learning in Public – Software Engineering with DevOps 🚀](https://dev.to/xetnopnawab/week-2-recap-learning-in-public-software-engineering-with-devops-3kk9)
+- [Building an Interactive Quiz App with Streamlit 🚀](https://dev.to/blamsa0mine/building-an-interactive-quiz-app-with-streamlit-31l1)
+- [Why Sanity is the Best CMS for the Healthcare Industry](https://dev.to/pagepro_agency/why-sanity-is-the-best-cms-for-the-healthcare-industry-b60)
+- [Union Labs’ $12M for Cross-Chain Growth, Etherspot’s ChA SDK, Starknet’s StarkGate v2.0, Portal’s Web3 Hub &amp; Wallet](https://dev.to/alexandradev/union-labs-12m-for-cross-chain-growth-etherspots-cha-sdk-starknets-starkgate-v20-portals-39pj)
+- [Search for records containing a specified string group in multi fields #eg90](https://dev.to/esproc_spl/search-for-records-containing-a-specified-string-group-in-multi-fields-eg90-50p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
