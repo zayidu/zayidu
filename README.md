@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bash Scripting: Your Gateway to Linux Automation and Efficiency](https://dev.to/getvm/bash-scripting-your-gateway-to-linux-automation-and-efficiency-4n0f)
-- [IoT solution using IoT Hub, involves setting IoT Hub, device registering and to send telemetry data to Azure Blob Storage](https://dev.to/ikuesan_adeola/iot-solution-using-iot-hub-involves-setting-iot-hub-device-registering-and-to-send-telemetry-data-4h)
-- [Why I Built ThreejsResources.com and How It Helps the 3D Community.](https://dev.to/peter_csipkay/why-i-built-threejsresourcescom-and-how-it-helps-the-3d-community-203m)
-- [Como Habilitar o Provedor Legado no OpenSSL 3.x](https://dev.to/gifflet/como-habilitar-o-provedor-legado-no-openssl-3x-4cmj)
-- [Mario Rojas Espino: Liderazgo en la COP 16 y Compromiso con la Sostenibilidad Global](https://dev.to/marcos_aguirre_495921fc35/mario-rojas-espino-liderazgo-en-la-cop-16-y-compromiso-con-la-sostenibilidad-global-mo8)
+- [The Limits of &quot;Fake it Till You Make it&quot; in the Software Engineering Career](https://dev.to/magcdev/the-limits-of-fake-it-till-you-make-it-in-the-software-engineering-career-3jog)
+- [Advent of Code &#39;24 - Day 13 Claw Contraption](https://dev.to/grantdotdev/advent-of-code-24-day-13-claw-contraption-n2p)
+- [MariaDB &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/a-brief-introduction-to-mariadb-bite-size-article-5hci)
+- [Why Many Developers Abandon Their First Projects](https://dev.to/iohan/why-many-developers-abandon-their-first-projects-53me)
+- [How to Build a Collapsible Side Content in React, Inspired by Jira](https://dev.to/araldhafeeri/how-to-build-a-collapsible-side-content-in-react-inspired-by-jira-453a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
