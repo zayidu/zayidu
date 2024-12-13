@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adapter and Composite Design Patterns](https://dev.to/shieldstring/adapter-and-composite-design-patterns-4701)
-- [Interviews as a Storytelling Showcase](https://dev.to/shieldstring/interviews-as-a-storytelling-showcase-2477)
-- [A pragmatic approach to SOLID](https://dev.to/kmruiz/a-pragmatic-approach-to-solid-46a5)
-- [Walkthrough HTB Public Exploits Flag Hunting: Lessons in Overthinking and Simplifying](https://dev.to/hacknip/walkthrough-htb-public-exploits-flag-hunting-lessons-in-overthinking-and-simplifying-4ddk)
-- [Recapping the AI, Machine Learning and Computer Meetup — December 12, 2024](https://dev.to/voxel51/recapping-the-ai-machine-learning-and-computer-meetup-december-12-2024-18em)
+- [Small Forms 1.7.0](https://dev.to/sebk69/small-forms-170-58ee)
+- [⛏️ Comprehensive Guide: 🧪 Load Testing FastAPI and Postman](https://dev.to/kainoah/comprehensive-guide-load-testing-fastapi-and-postman-1oip)
+- [&quot;Mastering Essential Software Architecture Patterns&quot; is your go-to guide for optimizing software design and achieving scalable, efficient systems! 🛠️](https://dev.to/lorebrada00/mastering-essential-software-architecture-patterns-is-your-go-to-guide-for-optimizing-software-5f49)
+- [Create Chart in React Using Chart.js || Chart JS Tutorial React](https://dev.to/rifkyalfarez/create-chart-in-react-using-chartjs-chart-js-tutorial-react-16pb)
+- [Data Visualisation in React Using Chart.js](https://dev.to/rifkyalfarez/data-visualisation-in-react-using-chartjs-41fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
