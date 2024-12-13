@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter 3.27 Release: Performance Upgrades and New Features](https://dev.to/encodedots/flutter-327-release-performance-upgrades-and-new-features-1f5k)
-- [Get the First Chapter of My Book for Free! 📘🎉🎉](https://dev.to/kristiyan_velkov/get-the-first-chapter-of-my-book-for-free-34of)
-- [How to Use Send AWS CloudWatch Metrics to GreptimeCloud by Grafana Alloy](https://dev.to/jetsquirrel/how-to-use-send-aws-cloudwatch-metrics-to-greptimecloud-by-grafana-alloy-2me0)
-- [Day 11: Advanced Docker Compose](https://dev.to/code42cate/day-11-advanced-docker-compose-32no)
-- [Practical Approaches to Accurate Project Estimation](https://dev.to/yogitakadam14/practical-approaches-to-accurate-project-estimation-377d)
+- [Exploring the Four Pillars of OOP with Fun Real-Life Examples 🚀](https://dev.to/nozibul_islam_113b1d5334f/exploring-the-four-pillars-of-oop-with-fun-real-life-examples-2p7p)
+- [The Art of Multi-tasking: Balancing Coding, Meetings and Personal Projects](https://dev.to/cryptosandy/the-art-of-multi-tasking-balancing-coding-meetings-and-personal-projects-5aad)
+- [Windows update translation mistake](https://dev.to/xwero/windows-update-translation-mistake-1cjj)
+- [Explaining the Delegates Concept !](https://dev.to/1hamzabek/explaining-the-delegates-concept--599b)
+- [Speculation Rules API: A Practical Deep Dive](https://dev.to/pmbanugo/speculation-rules-api-a-practical-deep-dive-43l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
