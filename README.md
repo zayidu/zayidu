@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Game Dev Digest — Issue #261 - Networking, Tutorials and more](https://dev.to/gamedevdigest/game-dev-digest-issue-261-networking-tutorials-and-more-32cc)
-- [December 2024: A Turning Point for Crypto Investors and Devs](https://dev.to/cryptosandy/december-2024-a-turning-point-for-crypto-investors-and-devs-6ji)
-- [Task 3](https://dev.to/v_inoth_f0fad29baec4c/task-3-26j6)
-- [Resource Dependencies Lifecycle in Terraform day 7](https://dev.to/i_am_vesh/resource-dependencies-lifecycle-in-terraform-day-7-5gf6)
-- [Advanced VPC Networking: Detailed Breakdown](https://dev.to/imsushant12/advanced-vpc-networking-detailed-breakdown-2m8b)
+- [Simplify Software Testing with These Test Data Generators](https://dev.to/qalogy/simplify-software-testing-with-these-test-data-generators-2jgb)
+- [Comparison: Terraform vs. CloudFormation](https://dev.to/574n13y/comparison-terraform-vs-cloudformation-382l)
+- [Build your next Web App using AWS Free Tier services without breaking the bank](https://dev.to/nick_thompson/build-your-next-web-app-using-aws-free-tier-services-without-breaking-the-bank-1n5)
+- [Top Open Source eCommerce Platforms](https://dev.to/mike_faber_4aaf24b0b056ad/top-open-source-ecommerce-platforms-4145)
+- [10 Cool Ideas for Discord Bots You Can Build Today](https://dev.to/leimanisemils/10-cool-ideas-for-discord-bots-you-can-build-today-gh0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
