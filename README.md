@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Four Pillars of OOP with Fun Real-Life Examples 🚀](https://dev.to/nozibul_islam_113b1d5334f/exploring-the-four-pillars-of-oop-with-fun-real-life-examples-2p7p)
-- [The Art of Multi-tasking: Balancing Coding, Meetings and Personal Projects](https://dev.to/cryptosandy/the-art-of-multi-tasking-balancing-coding-meetings-and-personal-projects-5aad)
-- [Windows update translation mistake](https://dev.to/xwero/windows-update-translation-mistake-1cjj)
-- [Explaining the Delegates Concept !](https://dev.to/1hamzabek/explaining-the-delegates-concept--599b)
-- [Speculation Rules API: A Practical Deep Dive](https://dev.to/pmbanugo/speculation-rules-api-a-practical-deep-dive-43l2)
+- [Exploring Mint Ecosystem: Forging the Future of Decentralized Technology](https://dev.to/mint_/exploring-mint-ecosystem-forging-the-future-of-decentralized-technology-n67)
+- [AI Creates Realistic 3D Models from Regular Videos, No Special Camera Setup Needed](https://dev.to/mikeyoung44/ai-creates-realistic-3d-models-from-regular-videos-no-special-camera-setup-needed-2adb)
+- [New AI Attack Method Bypasses Safety Controls with 80% Success Rate, Evading Detection](https://dev.to/mikeyoung44/new-ai-attack-method-bypasses-safety-controls-with-80-success-rate-evading-detection-4b5k)
+- [Web App Testing Guide: Simplified for One and All](https://dev.to/grjoeay/web-app-testing-guide-simplified-for-one-and-all-51d2)
+- [Study Reveals How AI Models Perform Hidden Step-by-Step Reasoning, Even Without Being Asked](https://dev.to/mikeyoung44/study-reveals-how-ai-models-perform-hidden-step-by-step-reasoning-even-without-being-asked-329p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
