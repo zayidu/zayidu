@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sass vs. SCSS: What&#39;s the Difference and Which One Should You Use?](https://dev.to/rayechos/sass-vs-scss-whats-the-difference-and-which-one-should-you-use-4od4)
-- [Understanding God Objects in Object-Oriented Programming](https://dev.to/wallacefreitas/understanding-god-objects-in-object-oriented-programming-5636)
-- [Find out the GCD&lpar;Greatest Common Divisor&rpar; of the given two numbers in PHP.](https://dev.to/sharminshanta/find-out-the-gcdgreatest-common-divisor-of-the-given-two-numbers-in-php-3l2)
-- [How to install an iis web server on Amazon Ec2 instance](https://dev.to/stippy4real/how-to-install-an-iis-web-server-on-amazon-ec2-instance-55b1)
-- [So I created Linktree alternative...](https://dev.to/sein_digital/so-i-created-linktree-alternative-173o)
+- [It&#39;s one of the most thorough how-to guides I&#39;ve seen on any site, and it offers extreme flexibility for individual setup and Linux distribution preferences.](https://dev.to/zaznet/its-one-of-the-most-thorough-how-to-guides-ive-seen-on-any-site-and-it-offers-extreme-2fd3)
+- [I&#39;m Publishing Matanuska BASIC&#39;s ADRs](https://dev.to/jfhbrook/im-publishing-matanuskas-adrs-1fkg)
+- [Understanding Kubernetes Security: Common Vulnerabilities and Modern Solutions](https://dev.to/nolunchbreaks_22/understanding-kubernetes-security-common-vulnerabilities-and-modern-solutions-2p3j)
+- [What is Builder&#39;s Visual Development Platform?](https://dev.to/builderio/what-is-builders-visual-development-platform-3c3k)
+- [Day 5: Links](https://dev.to/theoriginalbpc/day-5-links-3aa8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
