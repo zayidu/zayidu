@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Every developer has said &quot;Hello, World&quot;](https://dev.to/pedroantdevv/every-developer-has-said-hello-world-hkg)
-- [Do you know what the best practices are for simple storage shuffle in AWS S3?](https://dev.to/vaish_98/do-you-know-what-the-best-practices-are-for-simple-storage-shuffle-in-aws-s3-la0)
-- [Top 5 Programming Languages to Watch in 2025: Which Ones Will Shape the Future?](https://dev.to/codiclab/top-5-programming-languages-to-watch-in-2025-which-ones-will-shape-the-future-4bdd)
-- [End to End CI/CD pipeline using GitHub Actions for Android Application](https://dev.to/devcloudninjas/end-to-end-cicd-pipeline-using-github-actions-for-android-application-36i5)
-- [Finding Energy to Learn &amp; Build When Burnt Out](https://dev.to/jesterxl/finding-energy-to-learn-build-when-burnt-out-4139)
+- [Azure: Providing storage for the IT department testing and training](https://dev.to/johnogbonna/azure-providing-storage-for-the-it-department-testing-and-training-47ga)
+- [Next.js starter template](https://dev.to/michalskolakxx/nextjs-starter-template-239p)
+- [[Java] Solucionando concorrência em schedules](https://dev.to/leonardomarques/java-solucionando-concorrencia-em-schedules-93c)
+- [A Comprehensive Guide to Interceptors in EF Core](https://dev.to/zrebhi/a-comprehensive-guide-to-interceptors-in-ef-core-pkj)
+- [What is an AI Agent?](https://dev.to/msnmongare/what-is-an-ai-agent-3ida)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
