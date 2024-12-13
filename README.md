@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Activate Windows 11 Using a Product Key or Digital License?](https://dev.to/win11verse/how-to-activate-windows-11-using-a-product-key-or-digital-license-3im1)
-- [Application of proxy IP in hot monitoring and trend analysis](https://dev.to/98ip/application-of-proxy-ip-in-hot-monitoring-and-trend-analysis-4gig)
-- [What is Chunk Size and Chunk Overlap](https://dev.to/tak089/what-is-chunk-size-and-chunk-overlap-1hlj)
-- [Cybersecurity Challenges in AI-Powered Medical Devices &lpar;SaMD&rpar;:](https://dev.to/rupeshit/cybersecurity-challenges-in-ai-powered-medical-devices-samd-1oma)
-- [🌐 The Ultimate and Most Comprehensive HTML Guide: Basics, Advanced Features, and Secrets to Master HTML 🚀](https://dev.to/hanzla-baig/the-ultimate-and-most-comprehensive-html-guide-basics-advanced-features-and-secrets-to-master-541g)
+- [The Best Free Alternative to IntelliJ HTTP Client](https://dev.to/apilover/the-best-free-alternative-to-intellij-http-client-21f1)
+- [Learn HTML in 5 Days](https://dev.to/kaja_uvais_a8691e947dd399/learn-html-in-5-days-30eo)
+- [[Boost]](https://dev.to/robinokwanma/-1hi)
+- [Build a Weather App with React Native, OpenCageData, and OpenWeatherMap](https://dev.to/robinokwanma/build-a-weather-app-with-react-native-opencagedata-and-openweathermap-3nf0)
+- [Rust on a $5 dev board](https://dev.to/joshnuss/rust-on-a-5-dev-board-2335)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
