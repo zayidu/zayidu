@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Free Alternative to IntelliJ HTTP Client](https://dev.to/apilover/the-best-free-alternative-to-intellij-http-client-21f1)
-- [Learn HTML in 5 Days](https://dev.to/kaja_uvais_a8691e947dd399/learn-html-in-5-days-30eo)
-- [[Boost]](https://dev.to/robinokwanma/-1hi)
-- [Build a Weather App with React Native, OpenCageData, and OpenWeatherMap](https://dev.to/robinokwanma/build-a-weather-app-with-react-native-opencagedata-and-openweathermap-3nf0)
-- [Rust on a $5 dev board](https://dev.to/joshnuss/rust-on-a-5-dev-board-2335)
+- [Understanding require vs import in JavaScript: A Practical Guide](https://dev.to/nishanthan-k/understanding-require-vs-import-in-javascript-a-practical-guide-4p8l)
+- [Agrupamiento de datos de una lista usando LINQ en C#](https://dev.to/devpanch/agrupamiento-de-datos-de-una-lista-usando-linq-en-c-4jii)
+- [Turning Complex Tech Topics into Engaging Multimedia Content](https://dev.to/dizzy_strategy/turning-complex-tech-topics-into-engaging-multimedia-content-4a1d)
+- [Llama 3.3 vs OpenAI O1](https://dev.to/ashinno/llama-33-vs-openai-o1-623)
+- [New Free CI/CD Platform Enhances Mobile App Deployment: A Comprehensive Solution for Developers](https://dev.to/phuong_nguyen_rosa/new-free-cicd-platform-enhancesmobile-app-deploymenta-comprehensive-solution-for-developers-39hd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
