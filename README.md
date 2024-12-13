@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Did Google Just Open Pandora’s Box of AI?](https://dev.to/airabbit/gemini-20-did-google-just-open-pandoras-box-of-ai-3kn9)
-- [Learning Java Together: A Fun Journey into Coding Basics 👩🏼‍💻📚!](https://dev.to/respect17/learning-java-together-a-fun-journey-into-coding-basics--2jn8)
-- [Indore Management Institute](https://dev.to/shreya_shah_3528cb69997a9/indore-management-institute-2004)
-- [Revolutionize Your Database with AI for SQL Querying](https://dev.to/ezinsightsai/revolutionize-your-database-with-ai-for-sql-querying-a6i)
-- [Understanding Bluetooth PCBs: Design Considerations and Applications](https://dev.to/yoy/understanding-bluetooth-pcbs-design-considerations-and-applications-3607)
+- [We made an AI SWE that solved 48.60% of issues on the SWE bench, 100% open-source.](https://dev.to/composiodev/we-made-an-ai-swe-that-solved-4860-of-issues-on-the-swe-bench-100-open-source-aop)
+- [git@github.com: Permission denied &lpar;Linux Guide&rpar;](https://dev.to/carbonlabs/gitgithubcom-permission-denied-19g4)
+- [How to Retrieve EC2 Instances Information Using Python and Boto3](https://dev.to/dm8ry/how-to-retrieve-ec2-instances-information-using-python-and-boto3-1njk)
+- [Query optimization in MySQL is crucial for improving database performance, especially when dealing with large datasets](https://dev.to/ahmedraza_fyntune/query-optimization-in-mysql-is-crucial-for-improving-database-performance-especially-when-dealing-1619)
+- [I&#39;m a Front-End Developer Looking to Contribute to Open Source Projects](https://dev.to/abdullahiola_05/im-a-front-end-developer-looking-to-contribute-to-open-source-projects-ad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
