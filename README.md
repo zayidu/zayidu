@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We made an AI SWE that solved 48.60% of issues on the SWE bench, 100% open-source.](https://dev.to/composiodev/we-made-an-ai-swe-that-solved-4860-of-issues-on-the-swe-bench-100-open-source-aop)
-- [git@github.com: Permission denied &lpar;Linux Guide&rpar;](https://dev.to/carbonlabs/gitgithubcom-permission-denied-19g4)
-- [How to Retrieve EC2 Instances Information Using Python and Boto3](https://dev.to/dm8ry/how-to-retrieve-ec2-instances-information-using-python-and-boto3-1njk)
-- [Query optimization in MySQL is crucial for improving database performance, especially when dealing with large datasets](https://dev.to/ahmedraza_fyntune/query-optimization-in-mysql-is-crucial-for-improving-database-performance-especially-when-dealing-1619)
-- [I&#39;m a Front-End Developer Looking to Contribute to Open Source Projects](https://dev.to/abdullahiola_05/im-a-front-end-developer-looking-to-contribute-to-open-source-projects-ad)
+- [LeetCode Challenge: 45. Jump Game II - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-45-jump-game-ii-javascript-solution-4i13)
+- [0x2e: A Useful Collection of Online Tools](https://dev.to/0x2e_tech/0x2e-a-useful-collection-of-online-tools-1e99)
+- [0x2e.tech: The Free Toolkit You Didn’t Know You Needed](https://dev.to/0x2e_tech/0x2etech-the-free-toolkit-you-didnt-know-you-needed-2noj)
+- [How to Record an Outstanding Interview Video for Company X](https://dev.to/respect17/how-to-record-an-outstanding-interview-video-for-company-x-pga)
+- [Mastering Git and Github: A Must-Read Tutorial for Aspiring Developers](https://dev.to/getvm/mastering-git-and-github-a-must-read-tutorial-for-aspiring-developers-3l5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
