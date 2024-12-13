@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Week 2 Recap: Learning in Public – Software Engineering with DevOps 🚀](https://dev.to/xetnopnawab/week-2-recap-learning-in-public-software-engineering-with-devops-3kk9)
-- [Building an Interactive Quiz App with Streamlit 🚀](https://dev.to/blamsa0mine/building-an-interactive-quiz-app-with-streamlit-31l1)
-- [Why Sanity is the Best CMS for the Healthcare Industry](https://dev.to/pagepro_agency/why-sanity-is-the-best-cms-for-the-healthcare-industry-b60)
-- [Union Labs’ $12M for Cross-Chain Growth, Etherspot’s ChA SDK, Starknet’s StarkGate v2.0, Portal’s Web3 Hub &amp; Wallet](https://dev.to/alexandradev/union-labs-12m-for-cross-chain-growth-etherspots-cha-sdk-starknets-starkgate-v20-portals-39pj)
-- [Search for records containing a specified string group in multi fields #eg90](https://dev.to/esproc_spl/search-for-records-containing-a-specified-string-group-in-multi-fields-eg90-50p5)
+- [Flutter 3.27 Release: Performance Upgrades and New Features](https://dev.to/encodedots/flutter-327-release-performance-upgrades-and-new-features-1f5k)
+- [Get the First Chapter of My Book for Free! 📘🎉🎉](https://dev.to/kristiyan_velkov/get-the-first-chapter-of-my-book-for-free-34of)
+- [How to Use Send AWS CloudWatch Metrics to GreptimeCloud by Grafana Alloy](https://dev.to/jetsquirrel/how-to-use-send-aws-cloudwatch-metrics-to-greptimecloud-by-grafana-alloy-2me0)
+- [Day 11: Advanced Docker Compose](https://dev.to/code42cate/day-11-advanced-docker-compose-32no)
+- [Practical Approaches to Accurate Project Estimation](https://dev.to/yogitakadam14/practical-approaches-to-accurate-project-estimation-377d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
