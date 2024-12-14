@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 14: Keep on Spinning! ♻️](https://dev.to/valeriavg/day-14-keep-on-spinning-2bac)
-- [Today I Learned](https://dev.to/tayodaniel/today-i-learned-7o5)
-- [Real time E commerce price tracker and Deal finder](https://dev.to/harun_nzai_539b470a7a6424/real-time-e-commerce-price-tracker-and-deal-finder-2afl)
-- [Monthly Amazon Location Service Updates - 2024.11](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202411-2f9c)
-- [Will try this and post my follow-ups!](https://dev.to/vishals1005/great-2mnb)
+- [Exploring GitHub Workflow Dispatch: Take Full Control of Your CI/CD Pipelines](https://dev.to/horace_karatu_7dfd55f0f1f/exploring-github-workflow-dispatch-take-full-control-of-your-cicd-pipelines-3hck)
+- [Scandinavian Airlines were fined $100,000 for accessibility bugs](https://dev.to/chris_devto/scandinavian-airlines-were-fined-100000-for-accessibility-bugs-1lj1)
+- [Cara Membuat Fungsi longestWord di JavaScript dengan Penjelasan Teknis](https://dev.to/rantidhanty/cara-membuat-fungsi-longestword-di-javascript-dengan-penjelasan-teknis-29ej)
+- [5 accessibility defects LinkedIn could resolve to make content more accessible](https://dev.to/chris_devto/5-accessibility-defects-linkedin-could-resolve-to-make-content-more-accessible-196c)
+- [Rino, easy static website builder with HTML, CSS and Typescript/Javascript](https://dev.to/opdev1004/rino-easy-static-website-builder-with-html-css-and-typescriptjavascript-j5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
