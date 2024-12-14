@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Empowering Web Privacy with Rust: Intro](https://dev.to/zhukmax/empowering-web-privacy-with-rust-intro-b3h)
-- [Free Programming Resources: Your Gateway to Coding Excellence](https://dev.to/getvm/free-programming-resources-your-gateway-to-coding-excellence-3j0e)
-- [GMX.css now in NPM!](https://dev.to/ligmatv/gmxcss-now-in-npm-4l13)
-- [Dev5](https://dev.to/gchar/dev5-51bn)
-- [How to Remove PIN from Account in Windows 11?](https://dev.to/win11verse/how-to-remove-pin-from-account-in-windows-11-1679)
+- [Amazon Q: Your GenAI Assistant for Business Processes, Code Reviews, and Documentation](https://dev.to/bhatiagirish/amazon-q-your-genai-assistant-for-business-processes-code-reviews-and-documentation-18el)
+- [Building a Web App with CouchDB Capella and Kafka for Community Problem Reporting with Change Data Capture](https://dev.to/jeanvalve/building-a-web-app-with-couchdb-capella-and-kafka-for-community-problem-reporting-with-change-data-p04)
+- [adding new files](https://dev.to/mohammad_rezaomrani_ddf2/adding-new-files-29kn)
+- [Dev 1](https://dev.to/gchar/dev-1-1o7p)
+- [How I fixed a performance issue in a dropdown that rendered 4000 options .](https://dev.to/mansi_shrivastava_0c1b7a7/how-i-fixed-a-performance-issue-in-a-dropdown-that-rendered-4000-options--13p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
