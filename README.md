@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Limits of &quot;Fake it Till You Make it&quot; in the Software Engineering Career](https://dev.to/magcdev/the-limits-of-fake-it-till-you-make-it-in-the-software-engineering-career-3jog)
-- [Advent of Code &#39;24 - Day 13 Claw Contraption](https://dev.to/grantdotdev/advent-of-code-24-day-13-claw-contraption-n2p)
-- [MariaDB &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/a-brief-introduction-to-mariadb-bite-size-article-5hci)
-- [Why Many Developers Abandon Their First Projects](https://dev.to/iohan/why-many-developers-abandon-their-first-projects-53me)
-- [How to Build a Collapsible Side Content in React, Inspired by Jira](https://dev.to/araldhafeeri/how-to-build-a-collapsible-side-content-in-react-inspired-by-jira-453a)
+- [Day 35: Introduction: Mastering Kubernetes Scaling with Horizontal Pod Autoscalers &lpar;HPAs&rpar;](https://dev.to/arbythecoder/day-35-introduction-mastering-kubernetes-scaling-with-horizontal-pod-autoscalers-hpas-nag)
+- [Effective Ways to Use Locks in Kotlin](https://dev.to/arsenikavalchuk/effective-ways-to-use-locks-in-kotlin-3j9b)
+- [Resilience &amp; Adaptability](https://dev.to/bxdevtech/resilience-adaptability-3jh5)
+- [7 Powerful Python Performance Optimization Techniques for Faster Code](https://dev.to/aaravjoshi/7-powerful-python-performance-optimization-techniques-for-faster-code-51ii)
+- [Day 1074 : Fingers](https://dev.to/dwane/day-1074-fingers-pm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
