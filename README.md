@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 20 Ethical Hacking Interview Questions for 2025](https://dev.to/daksh_kataria_9c4197f3f7c/top-20-ethical-hacking-interview-questions-for-2025-2jo3)
-- [Pattern 20: Design own data structure](https://dev.to/arpitrathore/pattern-20-design-own-data-structure-33oa)
-- [Explorer l&#39;API de 360Learning : de l&#39;agilité de Power Query à la robustesse de la Modern Data Stack](https://dev.to/onepoint/explorer-lapi-de-360learning-de-lagilite-de-power-query-a-la-robustesse-de-la-modern-data-stack-5739)
-- [Patten 19 - Dynamic Programming](https://dev.to/arpitrathore/patten-19-dynamic-programming-10c9)
-- [Issue with mismatched tensor sizes during training with DeepSpeed](https://dev.to/_1f0995eba7c81ed78c499/issue-with-mismatched-tensor-sizes-during-training-with-deepspeed-506k)
+- [Part 9: Building Your Own AI - Natural Language Processing &lpar;NLP&rpar; for Language Understanding](https://dev.to/trixsec/part-9-building-your-own-ai-natural-language-processing-nlp-for-language-understanding-3m62)
+- [Installing your react.js local package registry to your project](https://dev.to/midhunkrishnan/installing-your-reactjs-local-package-registry-to-your-project-2a2i)
+- [EKS &amp; NGINX Load Balancer Monitor with Prometheus, Grafana, and Alerts](https://dev.to/aws-builders/eks-nginx-load-balancer-monitor-with-prometheus-grafana-and-alerts-1ikf)
+- [Testing](https://dev.to/javascriptar/testing-47pj)
+- [Cerbos:-&gt; Authorization-as-a-Service](https://dev.to/dharm_joshi_9e129500eb7d1/cerbos-authorization-as-a-service-oco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
