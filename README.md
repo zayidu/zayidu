@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 35: Introduction: Mastering Kubernetes Scaling with Horizontal Pod Autoscalers &lpar;HPAs&rpar;](https://dev.to/arbythecoder/day-35-introduction-mastering-kubernetes-scaling-with-horizontal-pod-autoscalers-hpas-nag)
-- [Effective Ways to Use Locks in Kotlin](https://dev.to/arsenikavalchuk/effective-ways-to-use-locks-in-kotlin-3j9b)
-- [Resilience &amp; Adaptability](https://dev.to/bxdevtech/resilience-adaptability-3jh5)
-- [7 Powerful Python Performance Optimization Techniques for Faster Code](https://dev.to/aaravjoshi/7-powerful-python-performance-optimization-techniques-for-faster-code-51ii)
-- [Day 1074 : Fingers](https://dev.to/dwane/day-1074-fingers-pm)
+- [Dev4](https://dev.to/gchar/dev4-3e8h)
+- [Converting Loops into Recursion: Templates and Tail Recursion Explained](https://dev.to/frorning/converting-loops-into-recursion-templates-and-tail-recursion-explained-3ga)
+- [Dev3](https://dev.to/gchar/dev3-393g)
+- [Automating Security Hub Findings Summary with Bedrock, Slack Notifications, and Zenhub Task Management](https://dev.to/suzuki0430/automating-security-hub-findings-summary-with-bedrock-slack-notifications-and-zenhub-task-2e26)
+- [Understanding RAG and Long-Context LLMs: Insights from the SELF-ROUTE Hybrid Approach](https://dev.to/m_sea_bass/understanding-rag-and-long-context-llms-insights-from-the-self-route-hybrid-approach-2mfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
