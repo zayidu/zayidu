@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Improve Your Website’s Performance with Lighthouse Metrics](https://dev.to/mosrah/how-to-improve-your-websites-performance-with-lighthouse-metrics-59cf)
-- [Mastering Python for Web Development: Best Practices 🐍💻](https://dev.to/hexadecimalsoftware/mastering-python-for-web-development-best-practices-2457)
-- [Master the MERN Stack: Your Complete Guide to Becoming a Full-Stack Developer in 2025 &lpar;with Month-by-Month Learning Plan&rpar;](https://dev.to/engrsakib/master-the-mern-stack-your-complete-guide-to-becoming-a-full-stack-developer-in-2025-with-16m3)
-- [Learning Python - A Beginner&#39;s Guide](https://dev.to/askyt/learning-python-a-beginners-guide-3odf)
-- [How to Set Up a Local Ubuntu Server to Host Ollama Models with a WebUI](https://dev.to/korak997/how-to-set-up-a-local-ubuntu-server-to-host-ollama-models-with-a-webui-ok7)
+- [re:Invent 2024 Keynotes: Dr. Swami Sivasubramanian](https://dev.to/aws-espanol/reinvent-2024-keynotes-dr-swami-sivasubramanian-2i2)
+- [Next JS vs React Performance: A Comprehensive Comparison](https://dev.to/jhk_info/next-js-vs-react-performance-a-comprehensive-comparison-4fgc)
+- [What Does setTimeout&lpar;..., 0ms&rpar; Really Mean in JavaScript? &lpar;Event Loop Explained!&rpar;](https://dev.to/souravvmishra/what-does-settimeout-0ms-really-mean-in-javascript-event-loop-explained-1clc)
+- [I was wondering if I could work as a software engineer if I suffer from generalized anxiety disorder and panic attacks ?](https://dev.to/mostapha_mosaad_4e6ea4f27/i-was-wondering-if-i-could-work-as-a-software-engineer-if-i-suffer-from-generalized-anxiety-4mjl)
+- [Redux Toolkit Tutorial || React Redux || TypeScript](https://dev.to/rifkyalfarez/redux-toolkit-tutorial-react-redux-typescript-p69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
