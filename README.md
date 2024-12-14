@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Q: Your GenAI Assistant for Business Processes, Code Reviews, and Documentation](https://dev.to/bhatiagirish/amazon-q-your-genai-assistant-for-business-processes-code-reviews-and-documentation-18el)
-- [Building a Web App with CouchDB Capella and Kafka for Community Problem Reporting with Change Data Capture](https://dev.to/jeanvalve/building-a-web-app-with-couchdb-capella-and-kafka-for-community-problem-reporting-with-change-data-p04)
-- [adding new files](https://dev.to/mohammad_rezaomrani_ddf2/adding-new-files-29kn)
-- [Dev 1](https://dev.to/gchar/dev-1-1o7p)
-- [How I fixed a performance issue in a dropdown that rendered 4000 options .](https://dev.to/mansi_shrivastava_0c1b7a7/how-i-fixed-a-performance-issue-in-a-dropdown-that-rendered-4000-options--13p)
+- [Day 14: Keep on Spinning! ♻️](https://dev.to/valeriavg/day-14-keep-on-spinning-2bac)
+- [Today I Learned](https://dev.to/tayodaniel/today-i-learned-7o5)
+- [Real time E commerce price tracker and Deal finder](https://dev.to/harun_nzai_539b470a7a6424/real-time-e-commerce-price-tracker-and-deal-finder-2afl)
+- [Monthly Amazon Location Service Updates - 2024.11](https://dev.to/aws-heroes/monthly-amazon-location-service-updates-202411-2f9c)
+- [Will try this and post my follow-ups!](https://dev.to/vishals1005/great-2mnb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
