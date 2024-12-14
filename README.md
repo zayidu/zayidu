@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 9: Building Your Own AI - Natural Language Processing &lpar;NLP&rpar; for Language Understanding](https://dev.to/trixsec/part-9-building-your-own-ai-natural-language-processing-nlp-for-language-understanding-3m62)
-- [Installing your react.js local package registry to your project](https://dev.to/midhunkrishnan/installing-your-reactjs-local-package-registry-to-your-project-2a2i)
-- [EKS &amp; NGINX Load Balancer Monitor with Prometheus, Grafana, and Alerts](https://dev.to/aws-builders/eks-nginx-load-balancer-monitor-with-prometheus-grafana-and-alerts-1ikf)
-- [Testing](https://dev.to/javascriptar/testing-47pj)
-- [Cerbos:-&gt; Authorization-as-a-Service](https://dev.to/dharm_joshi_9e129500eb7d1/cerbos-authorization-as-a-service-oco)
+- [How to Impress Passengers and Earn Rewards in Cabin Crew Life Simulator - Devlog #7](https://dev.to/khaisimon_devgame/how-to-impress-passengers-and-earn-rewards-in-cabin-crew-life-simulator-devlog-7-2jkm)
+- [VertiTab - Vertical Tabs in Side Panel v2.14.0 released](https://dev.to/lu_xiao_bfa77a98b4b2ad851/vertitab-vertical-tabs-in-side-panel-v2140-released-j76)
+- [Welcome to Solana: A Web2 Developer&#39;s Travel Guide to the Blockchain Nation](https://dev.to/danielasaboro/welcome-to-solana-a-web2-developers-travel-guide-to-the-blockchain-nation-ipc)
+- [Mastering Testing and Continuous Learning: Steps to Become a Better Software Engineer 💯](https://dev.to/alisamir/mastering-testing-and-continuous-learning-steps-to-become-a-better-software-engineer-an1)
+- [Weekend Project: Create a Personalized Job Posting Agent](https://dev.to/joerg_rech/weekend-project-create-a-personalized-job-posting-agent-2p5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
