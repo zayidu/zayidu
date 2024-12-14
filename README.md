@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Terminal Recommendation Engine](https://dev.to/techjunkiedru/python-terminal-recommendation-engine-4pag)
-- [DNS-load-balancing](https://dev.to/cguttesen/dns-load-balancing-4jpb)
-- [OxfordIIITPet in PyTorch](https://dev.to/hyperkai/oxfordiiitpet-in-pytorch-17kk)
-- [Ulanzi TC001 - ESP32 Programming / Custom Arduino firmware](https://dev.to/calumk/ulanzi-tc001-arduino-programming-nodemcu-590a)
-- [Day 52: Monitoring LLM Performance in Production](https://dev.to/nareshnishad/day-52-monitoring-llm-performance-in-production-2d7b)
+- [Protecting Student Privacy: Building a Secure Grades Viewer with React and Permit](https://dev.to/fadahunsiseyi/protecting-student-privacy-building-a-secure-grades-viewer-with-react-and-permit-474o)
+- [The Developing Tech Brain: Understanding How Technology Impacts the Brain and Finding Your Right Dose](https://dev.to/aniruddhaadak/the-developing-tech-brain-understanding-how-technology-impacts-the-brain-and-finding-your-right-2117)
+- [62/365 | ¥10M Job Challenge - AWS Certifications](https://dev.to/kameken100/62365-y10m-job-challenge-aws-certifications-4dod)
+- [Dev 11](https://dev.to/gchar/dev-11-aei)
+- [🔗 Blockchain Technology: Revolutionizing Digital Transactions](https://dev.to/aniruddhaadak/blockchain-technology-revolutionizing-digital-transactions-574a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
