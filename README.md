@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [re:Invent 2024 Keynotes: Dr. Swami Sivasubramanian](https://dev.to/aws-espanol/reinvent-2024-keynotes-dr-swami-sivasubramanian-2i2)
-- [Next JS vs React Performance: A Comprehensive Comparison](https://dev.to/jhk_info/next-js-vs-react-performance-a-comprehensive-comparison-4fgc)
-- [What Does setTimeout&lpar;..., 0ms&rpar; Really Mean in JavaScript? &lpar;Event Loop Explained!&rpar;](https://dev.to/souravvmishra/what-does-settimeout-0ms-really-mean-in-javascript-event-loop-explained-1clc)
-- [I was wondering if I could work as a software engineer if I suffer from generalized anxiety disorder and panic attacks ?](https://dev.to/mostapha_mosaad_4e6ea4f27/i-was-wondering-if-i-could-work-as-a-software-engineer-if-i-suffer-from-generalized-anxiety-4mjl)
-- [Redux Toolkit Tutorial || React Redux || TypeScript](https://dev.to/rifkyalfarez/redux-toolkit-tutorial-react-redux-typescript-p69)
+- [Resolving CUDA Version and GPU Architecture Issues in ContourCraft](https://dev.to/sophytoeat/resolving-cuda-version-and-gpu-architecture-issues-in-contourcraft-22np)
+- [Using Datastax Langflow and AstraDB to Create a Multi-Agent Research Assistant with Safety Check - Part 3: Summarizer](https://dev.to/aknox/using-datastax-langflow-and-astradb-to-create-a-multi-agent-research-assistant-with-safety-check--5bi7)
+- [NestJS TypeORM and Multi-Tenancy](https://dev.to/henriqueweiand/nestjs-typeorm-and-multi-tenancy-ekl)
+- [&quot;Tech is just a Huge Mistake...&quot; -- Part 1.](https://dev.to/paul_silas/tech-is-just-a-huge-mistake-part-1-4k15)
+- [re:Invent 2024 Keynotes: Dr. Werner Vogels](https://dev.to/aws-espanol/reinvent-2024-keynotes-dr-werner-vogels-346e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
