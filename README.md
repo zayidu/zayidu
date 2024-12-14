@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete guide for infinite scroll feature in React🧑‍🍳](https://dev.to/apestein/complete-guide-for-infinite-scroll-feature-in-react-a5n)
-- [How to Build a Kubernetes Cluster Using kubeadm](https://dev.to/vansh__bhardwaj/how-to-build-a-kubernetes-cluster-using-kubeadm-13g8)
-- [Top 10 Frameworks for Scalable Web Development in 2025](https://dev.to/anctech/top-10-frameworks-for-scalable-web-development-in-2025-fk9)
-- [Transform Your Development Workflow with Thakur Technologies](https://dev.to/thakurtechnologies/transform-your-development-workflow-with-thakur-technologies-d35)
-- [How JavaScript Compilation Works](https://dev.to/arshida/how-javascript-compilation-works-nho)
+- [Burp Suite: The Web Application Security Powerhouse](https://dev.to/mohanavamsi0614/burp-suite-the-web-application-security-powerhouse-14i2)
+- [Classe genérica com dois parâmetros de tipo](https://dev.to/javaparainiciantes/classe-generica-com-dois-parametros-de-tipo-e-a-forma-geral-de-uma-classe-generica-17d9)
+- [Nmap: Mapping Your Network Like a Pro](https://dev.to/mohanavamsi0614/nmap-mapping-your-network-like-a-pro-1ap3)
+- [Tiêu chuẩn trình bày file DOCX khi làm đồ án](https://dev.to/longtth/tieu-chuan-trinh-bay-file-docx-khi-lam-do-an-3ohc)
+- [Day 6: Structural and Semantic Tags](https://dev.to/theoriginalbpc/day-6-structural-and-semantic-tags-1o89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
