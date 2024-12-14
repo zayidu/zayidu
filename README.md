@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev4](https://dev.to/gchar/dev4-3e8h)
-- [Converting Loops into Recursion: Templates and Tail Recursion Explained](https://dev.to/frorning/converting-loops-into-recursion-templates-and-tail-recursion-explained-3ga)
-- [Dev3](https://dev.to/gchar/dev3-393g)
-- [Automating Security Hub Findings Summary with Bedrock, Slack Notifications, and Zenhub Task Management](https://dev.to/suzuki0430/automating-security-hub-findings-summary-with-bedrock-slack-notifications-and-zenhub-task-2e26)
-- [Understanding RAG and Long-Context LLMs: Insights from the SELF-ROUTE Hybrid Approach](https://dev.to/m_sea_bass/understanding-rag-and-long-context-llms-insights-from-the-self-route-hybrid-approach-2mfa)
+- [Empowering Web Privacy with Rust: Intro](https://dev.to/zhukmax/empowering-web-privacy-with-rust-intro-b3h)
+- [Free Programming Resources: Your Gateway to Coding Excellence](https://dev.to/getvm/free-programming-resources-your-gateway-to-coding-excellence-3j0e)
+- [GMX.css now in NPM!](https://dev.to/ligmatv/gmxcss-now-in-npm-4l13)
+- [Dev5](https://dev.to/gchar/dev5-51bn)
+- [How to Remove PIN from Account in Windows 11?](https://dev.to/win11verse/how-to-remove-pin-from-account-in-windows-11-1679)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
