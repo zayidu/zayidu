@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Get Started with LangChain: A Step-by-Step Tutorial for Beginners](https://dev.to/busycaesar/basic-langchain-tutorial-34j7)
-- [node.js and docker on raspberry](https://dev.to/tbietenbeck/nodejs-and-docker-on-raspberry-5c8c)
-- [🎄 Instant Local Translation with Chrome 🌐](https://dev.to/zenoplex/instant-local-translation-with-chrome-1d7p)
-- [Anatomia de um Elemento HTML](https://dev.to/udanielnogueira/anatomia-de-um-elemento-html-5207)
-- [Introducing EldoraUI 2.0 🚀](https://dev.to/karthikmudunuri/introducing-eldoraui-20-11f6)
+- [Complete guide for infinite scroll feature in React🧑‍🍳](https://dev.to/apestein/complete-guide-for-infinite-scroll-feature-in-react-a5n)
+- [How to Build a Kubernetes Cluster Using kubeadm](https://dev.to/vansh__bhardwaj/how-to-build-a-kubernetes-cluster-using-kubeadm-13g8)
+- [Top 10 Frameworks for Scalable Web Development in 2025](https://dev.to/anctech/top-10-frameworks-for-scalable-web-development-in-2025-fk9)
+- [Transform Your Development Workflow with Thakur Technologies](https://dev.to/thakurtechnologies/transform-your-development-workflow-with-thakur-technologies-d35)
+- [How JavaScript Compilation Works](https://dev.to/arshida/how-javascript-compilation-works-nho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
