@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure-by-Design: How AWS, Microsoft, and Others Are Embracing CISA&#39;s Cyber Goals](https://dev.to/iammikeade/secure-by-design-how-aws-microsoft-and-others-are-embracing-cisas-cyber-goals-49jl)
-- [Data Link Layer: Computer Networks](https://dev.to/harshm03/data-link-layer-computer-networks-55pc)
-- [A Guiding Influence: The Man Who Shaped My Perspective](https://dev.to/wiko_w/a-guiding-influence-the-man-who-shaped-my-perspective-4d4o)
-- [A Media Server on Steroids - Walkthrough](https://dev.to/ravenesc/a-media-server-on-steroids-walkthrough-9c7)
-- [UI Card Library](https://dev.to/abhirajadhikary06/ui-card-library-5d4k)
+- [Clojure is Awesome!!!](https://dev.to/borba/clojure-is-awesome-5f6k)
+- [Network Security Fundamentals](https://dev.to/mahimabhardwaj/network-security-fundamentals-3p5b)
+- [Spring Security: Redirect to login page if access pages which is for authorized user only](https://dev.to/saladlam/spring-security-redirect-to-login-page-if-access-pages-which-is-for-authorized-user-only-1a05)
+- [Using APIs to Automate Access Control in Smart Buildings](https://dev.to/seki/using-apis-to-automate-access-control-in-smart-buildings-36c2)
+- [The Go Programming Language: Simplicity and Power for the Modern Developer](https://dev.to/empiree/the-go-programming-language-simplicity-and-power-for-the-modern-developer-2ng0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
