@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring GitHub Workflow Dispatch: Take Full Control of Your CI/CD Pipelines](https://dev.to/horace_karatu_7dfd55f0f1f/exploring-github-workflow-dispatch-take-full-control-of-your-cicd-pipelines-3hck)
-- [Scandinavian Airlines were fined $100,000 for accessibility bugs](https://dev.to/chris_devto/scandinavian-airlines-were-fined-100000-for-accessibility-bugs-1lj1)
-- [Cara Membuat Fungsi longestWord di JavaScript dengan Penjelasan Teknis](https://dev.to/rantidhanty/cara-membuat-fungsi-longestword-di-javascript-dengan-penjelasan-teknis-29ej)
-- [5 accessibility defects LinkedIn could resolve to make content more accessible](https://dev.to/chris_devto/5-accessibility-defects-linkedin-could-resolve-to-make-content-more-accessible-196c)
-- [Rino, easy static website builder with HTML, CSS and Typescript/Javascript](https://dev.to/opdev1004/rino-easy-static-website-builder-with-html-css-and-typescriptjavascript-j5k)
+- [Pattern 8: Queue](https://dev.to/arpitrathore/pattern-queue-g42)
+- [Pattern 7: Stack](https://dev.to/arpitrathore/pattern-stack-149o)
+- [Crystal Shard Burst](https://dev.to/ayusharpcoder/crystal-shard-burst-59k9)
+- [Pattern 6: LinkedList](https://dev.to/arpitrathore/pattern-linkedlist-1i76)
+- [Pattern 5: Binary Search](https://dev.to/arpitrathore/pattern-binary-search-34b9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
