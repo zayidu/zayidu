@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Protecting Student Privacy: Building a Secure Grades Viewer with React and Permit](https://dev.to/fadahunsiseyi/protecting-student-privacy-building-a-secure-grades-viewer-with-react-and-permit-474o)
-- [The Developing Tech Brain: Understanding How Technology Impacts the Brain and Finding Your Right Dose](https://dev.to/aniruddhaadak/the-developing-tech-brain-understanding-how-technology-impacts-the-brain-and-finding-your-right-2117)
-- [62/365 | ¥10M Job Challenge - AWS Certifications](https://dev.to/kameken100/62365-y10m-job-challenge-aws-certifications-4dod)
-- [Dev 11](https://dev.to/gchar/dev-11-aei)
-- [🔗 Blockchain Technology: Revolutionizing Digital Transactions](https://dev.to/aniruddhaadak/blockchain-technology-revolutionizing-digital-transactions-574a)
+- [A Guiding Influence: The Man Who Shaped My Perspective](https://dev.to/wiko_w/a-guiding-influence-the-man-who-shaped-my-perspective-4d4o)
+- [A Media Server on Steroids - Walkthrough](https://dev.to/ravenesc/a-media-server-on-steroids-walkthrough-9c7)
+- [UI Card Library](https://dev.to/abhirajadhikary06/ui-card-library-5d4k)
+- [Help needed! A lightweight CSS framework/library](https://dev.to/dmytro_lobanov/help-needed-a-lightweight-css-frameworklibrary-10ne)
+- [Anybody know how to make a kernel in C++](https://dev.to/fxos/anybody-know-how-to-make-a-kernel-in-c-l9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
