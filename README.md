@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Impress Passengers and Earn Rewards in Cabin Crew Life Simulator - Devlog #7](https://dev.to/khaisimon_devgame/how-to-impress-passengers-and-earn-rewards-in-cabin-crew-life-simulator-devlog-7-2jkm)
-- [VertiTab - Vertical Tabs in Side Panel v2.14.0 released](https://dev.to/lu_xiao_bfa77a98b4b2ad851/vertitab-vertical-tabs-in-side-panel-v2140-released-j76)
-- [Welcome to Solana: A Web2 Developer&#39;s Travel Guide to the Blockchain Nation](https://dev.to/danielasaboro/welcome-to-solana-a-web2-developers-travel-guide-to-the-blockchain-nation-ipc)
-- [Mastering Testing and Continuous Learning: Steps to Become a Better Software Engineer 💯](https://dev.to/alisamir/mastering-testing-and-continuous-learning-steps-to-become-a-better-software-engineer-an1)
-- [Weekend Project: Create a Personalized Job Posting Agent](https://dev.to/joerg_rech/weekend-project-create-a-personalized-job-posting-agent-2p5a)
+- [How to Improve Your Website’s Performance with Lighthouse Metrics](https://dev.to/mosrah/how-to-improve-your-websites-performance-with-lighthouse-metrics-59cf)
+- [Mastering Python for Web Development: Best Practices 🐍💻](https://dev.to/hexadecimalsoftware/mastering-python-for-web-development-best-practices-2457)
+- [Master the MERN Stack: Your Complete Guide to Becoming a Full-Stack Developer in 2025 &lpar;with Month-by-Month Learning Plan&rpar;](https://dev.to/engrsakib/master-the-mern-stack-your-complete-guide-to-becoming-a-full-stack-developer-in-2025-with-16m3)
+- [Learning Python - A Beginner&#39;s Guide](https://dev.to/askyt/learning-python-a-beginners-guide-3odf)
+- [How to Set Up a Local Ubuntu Server to Host Ollama Models with a WebUI](https://dev.to/korak997/how-to-set-up-a-local-ubuntu-server-to-host-ollama-models-with-a-webui-ok7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
