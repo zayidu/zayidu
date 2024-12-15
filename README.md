@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I like Vercel Deployments](https://dev.to/akaak/i-like-vercel-deployments-270d)
-- [Personal Profile Card Interface](https://dev.to/tobidelly/personal-profile-card-interface-4jkc)
-- [Introducing Linkspreed’s Web4 Reseller System](https://dev.to/web4/introducing-linkspreeds-web4-reseller-system-4mbc)
-- [Distributed Task Scheduling](https://dev.to/surajvatsya/distributed-task-scheduling-1641)
-- [Advanced JavaScript Concepts promises and async/await and try-catch](https://dev.to/arjun98k/advanced-javascript-concepts-promises-and-asyncawait-9o2)
+- [Clojure Is Awesome!!! [PART 2]](https://dev.to/borba/clojure-is-awesome-part-2-376b)
+- [AWS Serverless Security: Preventing HTTP Flood DDoS Attack](https://dev.to/jaymitb/aws-serverless-security-preventing-http-flood-ddos-attack-70l)
+- [Map vs forEach: Understanding the Core Difference for JavaScript Developers](https://dev.to/yugjadvani/map-vs-foreach-understanding-the-core-difference-for-javascript-developers-69a)
+- [One Simple Trick to Solve Rendering Issues in Spider-Man 2 Development](https://dev.to/3523218962/one-simple-trick-to-solve-rendering-issues-in-spider-man-2-development-g0j)
+- [Advent of Code 2024 - Day 14 : Restroom Redoubt](https://dev.to/grantdotdev/advent-of-code-2024-day-14-restroom-redoubt-2ecg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
