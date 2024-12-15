@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lazyvim version 14.x in WSL](https://dev.to/hardyweb/lazyvim-version-14x-in-wsl-2n8p)
-- [Resume Writing for Recent Graduates](https://dev.to/resumewriting_services/resume-writing-for-recent-graduates-j1d)
-- [13 Best SEO Audit Services in 2024](https://dev.to/authorityboosters/13-best-seo-audit-services-in-2024-4a93)
-- [🗡️Excalibur v0.30.0 Released!](https://dev.to/excaliburjs/excalibur-v0300-released-3n7m)
-- [How to guide CNCF](https://dev.to/vaibhavpatil123/how-to-guide-cncf-3h60)
+- [❄️ Winterland - A Beautiful Winter-Themed Website for the Front-End Challenge ⛄](https://dev.to/hanzla-baig/winterland-a-beautiful-winter-themed-website-for-the-front-end-challenge-501k)
+- [[Boost]](https://dev.to/apollotoday/-2a96)
+- [surviving coding bootcamp: project planning](https://dev.to/ashleyd480/surviving-coding-bootcamp-project-planning-3dg3)
+- [C1](https://dev.to/gchar/c1-3jib)
+- [Untitled](https://dev.to/mohd_zaidits_mz_1127_/untitled-2mab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
