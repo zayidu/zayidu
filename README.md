@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clojure Is Awesome!!! [PART 2]](https://dev.to/borba/clojure-is-awesome-part-2-376b)
-- [AWS Serverless Security: Preventing HTTP Flood DDoS Attack](https://dev.to/jaymitb/aws-serverless-security-preventing-http-flood-ddos-attack-70l)
-- [Map vs forEach: Understanding the Core Difference for JavaScript Developers](https://dev.to/yugjadvani/map-vs-foreach-understanding-the-core-difference-for-javascript-developers-69a)
-- [One Simple Trick to Solve Rendering Issues in Spider-Man 2 Development](https://dev.to/3523218962/one-simple-trick-to-solve-rendering-issues-in-spider-man-2-development-g0j)
-- [Advent of Code 2024 - Day 14 : Restroom Redoubt](https://dev.to/grantdotdev/advent-of-code-2024-day-14-restroom-redoubt-2ecg)
+- [📊 AI Dashboard Builder: Create Insightful Dashboards just Droppping your Data](https://dev.to/pnmartinez/ai-dashboard-builder-create-insightful-dashboards-just-droppping-your-data-36ff)
+- [Car Dashboard Monitor Interface](https://dev.to/tobidelly/car-dashboard-monitor-interface-3005)
+- [Week Three of #100DaysOfCode](https://dev.to/lymah/week-three-of-100daysofcode-1i9f)
+- [The hidden costs of poor secrets management](https://dev.to/enkryptify/the-hidden-costs-of-poor-secrets-management-3641)
+- [New to web dev like me?](https://dev.to/rinidhdhokia/new-to-web-dev-like-me-2jaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
