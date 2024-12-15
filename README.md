@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Slowly but Surely Reshaping Our World—And What It Means for You](https://dev.to/future-predictor/how-ai-is-slowly-but-surely-reshaping-our-world-and-what-it-means-for-you-717)
-- [Understanding Kubernetes: part 53 – Kubernetes 1.32 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-53-kubernetes-132-changelog-1a3)
-- [Seasons in Dart](https://dev.to/cgifl300/seasons-in-dart-2ien)
-- [Glam Up My Markup: Winter Solstice](https://dev.to/wantu/glam-up-my-markup-winter-solstice-5bf)
-- [Sql commenter with postgrex](https://dev.to/dkuku/sql-commenter-with-postgrex-2bfd)
+- [Como Adicionar Sons em HTML](https://dev.to/udanielnogueira/como-adicionar-sons-em-html-56ga)
+- [How to Scrape and Analyse Data for Free using AI: From Collection to Insight](https://dev.to/aviatorscode2/how-to-scrape-and-analyse-data-for-free-using-ai-from-collection-to-insight-1hko)
+- [How to set up XDebug with VSCode in a Laravel Sail environment](https://dev.to/barfrakud/how-to-set-up-xdebug-with-vscode-in-a-laravel-sail-environment-1oci)
+- [O que é REST API?](https://dev.to/eded001/o-que-e-rest-api-308f)
+- [Playing with a Stock API: A JavaScript/React Developer Learns Python](https://dev.to/jesse_chong_3bcc276c4f950/playing-with-a-stock-api-a-javascriptreact-developer-learns-python-60i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
