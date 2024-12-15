@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Redux Toolkit - createAsyncThunk&lpar;&rpar;](https://dev.to/rifkyalfarez/redux-toolkit-createasyncthunk-okm)
-- [Building a Python Quiz Game with GUI using Tkinter](https://dev.to/shrihith_a/building-a-python-quiz-game-with-gui-using-tkinter-26im)
-- [C1](https://dev.to/gchar/c1-5127)
-- [Dev15P](https://dev.to/gchar/dev15p-1kj4)
-- [Average Reads and PyLadiesCon 2024](https://dev.to/haleyelder/average-reads-and-pyladiescon-2024-4ia)
+- [Pagination Component in React](https://dev.to/softden_2005/pagination-component-in-react-3iah)
+- [Detrás de la facturación de AWS: Cómo funciona la optimización de costos en la nube](https://dev.to/briansuarezsantiago/detras-de-la-facturacion-de-aws-como-funciona-la-optimizacion-de-costos-en-la-nube-ina)
+- [Mastering Laravel Blade: @stack, @push, and @endpush](https://dev.to/tharindumadubashna/mastering-laravel-blade-stack-push-and-endpush-1ol9)
+- [Formal Verification: An Example](https://dev.to/meeshbhoombah/formal-verification-an-example-33c)
+- [Preventing Tangles and Mats in Long-Haired Chihuahuas](https://dev.to/pinelumber25/preventing-tangles-and-mats-in-long-haired-chihuahuas-25h2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
