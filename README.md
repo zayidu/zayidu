@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Commands in DevOps: A Practical Guide with Examples](https://dev.to/nolunchbreaks_22/advanced-linux-command-guide-for-devops-professionals-deep-dive-1nih)
-- [Create a Time-Saving Template 🧩 with React, Vite, and Tailwind CSS](https://dev.to/rtambunt/create-a-time-saving-template-with-react-vite-and-tailwind-css-3p3h)
-- [Windows or Linux?](https://dev.to/fxos/windows-or-linux-37ah)
-- [Understanding Session, Cookie, and Local Storage.](https://dev.to/zenixtech/understanding-session-cookie-and-local-storage-1fpc)
-- [Discover File Splitter &amp; Merger: A Revolutionary Tool for Managing Large Files](https://dev.to/ogurrr/discover-file-splitter-merger-a-revolutionary-tool-for-managing-large-files-1gp4)
+- [Redux Toolkit - createAsyncThunk&lpar;&rpar;](https://dev.to/rifkyalfarez/redux-toolkit-createasyncthunk-okm)
+- [Building a Python Quiz Game with GUI using Tkinter](https://dev.to/shrihith_a/building-a-python-quiz-game-with-gui-using-tkinter-26im)
+- [C1](https://dev.to/gchar/c1-5127)
+- [Dev15P](https://dev.to/gchar/dev15p-1kj4)
+- [Average Reads and PyLadiesCon 2024](https://dev.to/haleyelder/average-reads-and-pyladiescon-2024-4ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
