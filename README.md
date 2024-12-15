@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Journal - 8-11-24](https://dev.to/rishitha_nallapureddy_751/journal-8-11-24-38ei)
-- [Journal - 7-11-24](https://dev.to/rishitha_nallapureddy_751/journal-7-11-24-406j)
-- [Leveraging Your Personal Brand to Connect with Industry Leaders](https://dev.to/okoye_ndidiamaka_5e3b7d30/leveraging-your-personal-brand-to-connect-with-industry-leaders-8mi)
-- [🔍 Why Are There So Many Bots on Solana, Especially in Meme Tokens?](https://dev.to/zororaka/why-are-there-so-many-bots-on-solana-especially-in-meme-tokens-58ga)
-- [Journal - 5-11-24](https://dev.to/rishitha_nallapureddy_751/journal-5-11-24-1f67)
+- [Enumeration](https://dev.to/chamarthirahul/enumeration-2jlf)
+- [Networking Step-by-Step](https://dev.to/chamarthirahul/networking-step-by-step-1892)
+- [Understand the terminologies of in CS](https://dev.to/chamarthirahul/understand-the-terminologies-of-in-cs-2172)
+- [43rd day of my CP journey](https://dev.to/prasanna2910/43rd-day-of-my-cp-journey-fl4)
+- [Amazon Q Developer Tips: No.15 CHat Orientated Programming &lpar;CHOP&rpar;](https://dev.to/aws/amazon-q-developer-tips-no15-chat-orientated-programming-chop-4ekg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
