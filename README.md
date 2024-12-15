@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Python&#39;s if...else Statement with Examples](https://dev.to/askyt/understanding-pythons-ifelse-statement-with-examples-g7m)
-- [5 Common Refactors in Python for Beginners](https://dev.to/ggmurr24/5-common-refactors-in-python-for-beginners-4ol3)
-- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-5ca9)
-- [Using Datastax Langflow and AstraDB to Create a Multi-Agent Research Assistant with Safety Check - Part 4: Preparation](https://dev.to/aknox/using-datastax-langflow-and-astradb-to-create-a-multi-agent-research-assistant-with-safety-check--2h3i)
-- [Venkata Soma&#39;s Take on Seamless Tech Solutions: How DevOps and Cloud Engineering Revolutionize Business Performance](https://dev.to/kainaat_sahni_d4aee463d0d/venkata-somas-take-on-seamless-tech-solutions-how-devops-and-cloud-engineering-revolutionize-1l1f)
+- [Memahami Function Ticker di JavaScript: Cara Kerja dan Penjelasan Detail](https://dev.to/rantidhanty/memahami-function-ticker-di-javascript-cara-kerja-dan-penjelasan-detail-4e9f)
+- [Abusive Email Summary Assistant &lpar;Open Source Configuration Text&rpar;](https://dev.to/danielrosehill/abusive-email-summary-assistant-open-source-configuration-text-1cem)
+- [Mastering React: The Must-Use Hooks You Need to Know 💡](https://dev.to/abhivyaktii/mastering-react-the-must-use-hooks-you-need-to-know-2o6o)
+- [Ask Anything in VS Code now for Development!](https://dev.to/nikl/ask-anything-in-vs-code-now-for-development-28p9)
+- [Deploy Java Spring boot project as systemd service](https://dev.to/xinitd/deploy-java-spring-boot-project-as-systemd-service-53cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
