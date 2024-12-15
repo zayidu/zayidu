@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Remote Access to the Server Is Not Enabled in Windows 10: Causes and Solutions](https://dev.to/davidjonson/remote-access-to-the-server-is-not-enabled-in-windows-10-causes-and-solutions-14i8)
-- [10 reasons why you should choose Cerbos as your application&#39;s authorization provider](https://dev.to/agusioma/10-reasons-why-you-should-choose-cerbos-as-your-applications-authorization-provider-2l6k)
-- [My history in blogging &lpar;&amp; coding&rpar; &lpar;Until i falling to Dev.to&rpar;](https://dev.to/ligmatv/my-history-in-blogging-coding-until-i-falling-to-devto-24ac)
-- [Case Study: closing the DevOps/Databases Gap Using Atlas](https://dev.to/raz_kaplan/case-study-closing-the-devopsdatabases-gap-using-atlas-3621)
-- [Advanced Rendering Techniques in Next.js, React, and Gatsby: A comprehensive guide for experienced developers.](https://dev.to/shankarjatin/advanced-rendering-techniques-in-nextjs-react-and-gatsby-a-comprehensive-guide-for-experienced-38em)
+- [This week experience](https://dev.to/karthika_movva/this-week-experience-2da2)
+- [Database Performance Strategies](https://dev.to/parzival_computer/database-performance-strategies-2ilc)
+- [39th day of my CP jounery](https://dev.to/prasanna2910/39th-day-of-my-cp-jounery-3fd4)
+- [This week experience](https://dev.to/karthika_movva/this-week-experience-4pol)
+- [Catching Infinity](https://dev.to/mary_joseph_44fa3cbfbb74e/catching-infinity-5963)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
