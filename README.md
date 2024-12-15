@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Lazyvim version 14.x in WSL](https://dev.to/hardyweb/lazyvim-version-14x-in-wsl-2n8p)
+- [Resume Writing for Recent Graduates](https://dev.to/resumewriting_services/resume-writing-for-recent-graduates-j1d)
+- [13 Best SEO Audit Services in 2024](https://dev.to/authorityboosters/13-best-seo-audit-services-in-2024-4a93)
+- [🗡️Excalibur v0.30.0 Released!](https://dev.to/excaliburjs/excalibur-v0300-released-3n7m)
 - [How to guide CNCF](https://dev.to/vaibhavpatil123/how-to-guide-cncf-3h60)
-- [Advanced and Creative TypeScript Techniques for Professionals](https://dev.to/shafayeat/advanced-and-creative-typescript-techniques-for-professionals-1f02)
-- [LLMs in Real-Time Applications: Latency Optimization and Scalability](https://dev.to/virajlakshitha/llms-in-real-time-applications-latency-optimization-and-scalability-307n)
-- [Monica AI: Unlock the Power of AI for Developers](https://dev.to/tharindumadubashna/monica-ai-unlock-the-power-of-ai-for-developers-4hki)
-- [How does Optional.ifPresent&lpar;&rpar; differ from Optional.orElse&lpar;&rpar;?](https://dev.to/realnamehidden1_61/how-does-optionalifpresent-differ-from-optionalorelse-391e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
