@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Two-Factor Authentication System](https://dev.to/mohanavamsi0614/two-factor-authentication-system-5f6)
-- [NavLInk](https://dev.to/khanrabiul/navlink-3215)
-- [Why Multi-Factor Authentication Matters?](https://dev.to/chamarthiraahul/why-multi-factor-authentication-matters-37l9)
-- [Understanding Phishing Attacks](https://dev.to/chamarthiraahul/understanding-phishing-attacks-1j25)
-- [Basic Network Scanner](https://dev.to/mohanavamsi0614/basic-network-scanner-2kj1)
+- [React 19 Finally Stable, New Rust-Based JavaScript Framework, New Developer Tools, and more](https://dev.to/thisweekinjavascript/react-19-finally-stable-new-rust-based-javascript-framework-new-developer-tools-and-more-5aj5)
+- [Understanding Async/Await](https://dev.to/tak089/understanding-asyncawait-1pg1)
+- [The Role of Firewalls in Cybersecurity](https://dev.to/chamarthiraahul/the-role-of-firewalls-in-cybersecurity-pi5)
+- [TDoC &#39;24 Day 1 : Kickstarting Python and Setting Up Anaconda , VocalShift Project Kickoff 🚀](https://dev.to/gitleohere/tdoc-24-day-1-kickstarting-python-and-setting-up-anaconda-vocalshift-project-kickoff-4p6g)
+- [Automated Deployments of Meteor.js bundle using Terraform](https://dev.to/thepurveshpanchal/automated-deployments-of-meteorjs-bundle-using-terraform-1i3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
