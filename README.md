@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This week experience](https://dev.to/karthika_movva/this-week-experience-2da2)
-- [Database Performance Strategies](https://dev.to/parzival_computer/database-performance-strategies-2ilc)
-- [39th day of my CP jounery](https://dev.to/prasanna2910/39th-day-of-my-cp-jounery-3fd4)
-- [This week experience](https://dev.to/karthika_movva/this-week-experience-4pol)
-- [Catching Infinity](https://dev.to/mary_joseph_44fa3cbfbb74e/catching-infinity-5963)
+- [Journal - 8-11-24](https://dev.to/rishitha_nallapureddy_751/journal-8-11-24-38ei)
+- [Journal - 7-11-24](https://dev.to/rishitha_nallapureddy_751/journal-7-11-24-406j)
+- [Leveraging Your Personal Brand to Connect with Industry Leaders](https://dev.to/okoye_ndidiamaka_5e3b7d30/leveraging-your-personal-brand-to-connect-with-industry-leaders-8mi)
+- [🔍 Why Are There So Many Bots on Solana, Especially in Meme Tokens?](https://dev.to/zororaka/why-are-there-so-many-bots-on-solana-especially-in-meme-tokens-58ga)
+- [Journal - 5-11-24](https://dev.to/rishitha_nallapureddy_751/journal-5-11-24-1f67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
