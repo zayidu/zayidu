@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [❄️ Winterland - A Beautiful Winter-Themed Website for the Front-End Challenge ⛄](https://dev.to/hanzla-baig/winterland-a-beautiful-winter-themed-website-for-the-front-end-challenge-501k)
-- [[Boost]](https://dev.to/apollotoday/-2a96)
-- [surviving coding bootcamp: project planning](https://dev.to/ashleyd480/surviving-coding-bootcamp-project-planning-3dg3)
-- [C1](https://dev.to/gchar/c1-3jib)
-- [Untitled](https://dev.to/mohd_zaidits_mz_1127_/untitled-2mab)
+- [Why should I care about Quality? I&#39;m a developer!](https://dev.to/stuartdotnet/why-should-i-care-about-quality-im-a-developer-39o3)
+- [Book Review: Soft Skills: The Software Developer&#39;s Life Manual by John Sonmez](https://dev.to/jps27cse/book-review-soft-skills-the-software-developers-life-manual-by-john-sonmez-48k3)
+- [Simplify Environment Variable Management with GitHub Environments](https://dev.to/suzuki0430/simplify-environment-variable-management-with-github-environments-307o)
+- [How to Create Scroll Animation for Text in Your Website](https://dev.to/devshakilh/how-to-create-scroll-animation-for-text-in-your-website-3aaa)
+- [How to Reset PIN from Account in Windows 11?](https://dev.to/win11verse/how-to-reset-pin-from-account-in-windows-11-2mjl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
