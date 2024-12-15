@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flowers102 in PyTorch](https://dev.to/hyperkai/flowers102-in-pytorch-4l71)
-- [Mastering JWT Authentication: A Complete Guide with MERN Stack](https://dev.to/engrsakib/mastering-jwt-authentication-a-complete-guide-with-mern-stack-4k7g)
-- [Understanding Protocol Buffers: A Fast Alternative to JSON](https://dev.to/khaja_hussain_db1f84efe83/understanding-protocol-buffers-a-fast-alternative-to-json-ga2)
-- [My Python Language Solution to Task 1 from The Weekly Challenge 299](https://dev.to/rcmcintosh/my-python-language-solution-to-task-1-from-the-weekly-challenge-299-5fn4)
-- [Sources of Conviction, in Building LiveAPI](https://dev.to/shrsv/sources-of-conviction-in-building-liveapi-3jl6)
+- [How AI is Slowly but Surely Reshaping Our World—And What It Means for You](https://dev.to/future-predictor/how-ai-is-slowly-but-surely-reshaping-our-world-and-what-it-means-for-you-717)
+- [Understanding Kubernetes: part 53 – Kubernetes 1.32 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-53-kubernetes-132-changelog-1a3)
+- [Seasons in Dart](https://dev.to/cgifl300/seasons-in-dart-2ien)
+- [Glam Up My Markup: Winter Solstice](https://dev.to/wantu/glam-up-my-markup-winter-solstice-5bf)
+- [Sql commenter with postgrex](https://dev.to/dkuku/sql-commenter-with-postgrex-2bfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
