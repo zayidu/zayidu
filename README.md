@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enumeration](https://dev.to/chamarthirahul/enumeration-2jlf)
-- [Networking Step-by-Step](https://dev.to/chamarthirahul/networking-step-by-step-1892)
-- [Understand the terminologies of in CS](https://dev.to/chamarthirahul/understand-the-terminologies-of-in-cs-2172)
-- [43rd day of my CP journey](https://dev.to/prasanna2910/43rd-day-of-my-cp-journey-fl4)
-- [Amazon Q Developer Tips: No.15 CHat Orientated Programming &lpar;CHOP&rpar;](https://dev.to/aws/amazon-q-developer-tips-no15-chat-orientated-programming-chop-4ekg)
+- [&quot;Day 7 with GSAP: Interactive Scrolling Animation with Rotating Arrows&quot;](https://dev.to/anticoder03/day-7-with-gsap-interactive-scrolling-animation-with-rotating-arrows-4cld)
+- [Announcing the GoDev Non-Stop 30 Challenge! 🚀](https://dev.to/rapidcodelab/announcing-the-godev-non-stop-30-challenge-26a)
+- [Journal - 29-11-24](https://dev.to/rishitha_nallapureddy_751/journal-29-11-24-4n2a)
+- [Journal - 28-11-24](https://dev.to/rishitha_nallapureddy_751/journal-28-11-24-27o8)
+- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-1kp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
