@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Memahami Function Ticker di JavaScript: Cara Kerja dan Penjelasan Detail](https://dev.to/rantidhanty/memahami-function-ticker-di-javascript-cara-kerja-dan-penjelasan-detail-4e9f)
-- [Abusive Email Summary Assistant &lpar;Open Source Configuration Text&rpar;](https://dev.to/danielrosehill/abusive-email-summary-assistant-open-source-configuration-text-1cem)
-- [Mastering React: The Must-Use Hooks You Need to Know 💡](https://dev.to/abhivyaktii/mastering-react-the-must-use-hooks-you-need-to-know-2o6o)
-- [Ask Anything in VS Code now for Development!](https://dev.to/nikl/ask-anything-in-vs-code-now-for-development-28p9)
-- [Deploy Java Spring boot project as systemd service](https://dev.to/xinitd/deploy-java-spring-boot-project-as-systemd-service-53cj)
+- [Mat menu angular 7](https://dev.to/chakirayoub/mat-menu-angular-7-2a62)
+- [LeetCode Challenge: 380. Insert Delete GetRandom O&lpar;1&rpar; - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-380-insert-delete-getrandom-o1-javascript-solution-4gej)
+- [Day 30: Competitive Programming Journal](https://dev.to/jayadev_jatin/day-30-competitive-programming-journal-122a)
+- [5 useful yet underused 👾 CSS rules](https://dev.to/pagesword/5-useful-yet-underused-css-rules-267j)
+- [A simple short-lived URL shortener solution with AWS and GitHub actions](https://dev.to/chunhei_ng_543d3ee132b6a/a-simple-short-lived-url-shortener-solution-with-aws-and-github-actions-58e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
