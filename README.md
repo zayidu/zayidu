@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why should I care about Quality? I&#39;m a developer!](https://dev.to/stuartdotnet/why-should-i-care-about-quality-im-a-developer-39o3)
-- [Book Review: Soft Skills: The Software Developer&#39;s Life Manual by John Sonmez](https://dev.to/jps27cse/book-review-soft-skills-the-software-developers-life-manual-by-john-sonmez-48k3)
-- [Simplify Environment Variable Management with GitHub Environments](https://dev.to/suzuki0430/simplify-environment-variable-management-with-github-environments-307o)
-- [How to Create Scroll Animation for Text in Your Website](https://dev.to/devshakilh/how-to-create-scroll-animation-for-text-in-your-website-3aaa)
-- [How to Reset PIN from Account in Windows 11?](https://dev.to/win11verse/how-to-reset-pin-from-account-in-windows-11-2mjl)
+- [Remote Access to the Server Is Not Enabled in Windows 10: Causes and Solutions](https://dev.to/davidjonson/remote-access-to-the-server-is-not-enabled-in-windows-10-causes-and-solutions-14i8)
+- [10 reasons why you should choose Cerbos as your application&#39;s authorization provider](https://dev.to/agusioma/10-reasons-why-you-should-choose-cerbos-as-your-applications-authorization-provider-2l6k)
+- [My history in blogging &lpar;&amp; coding&rpar; &lpar;Until i falling to Dev.to&rpar;](https://dev.to/ligmatv/my-history-in-blogging-coding-until-i-falling-to-devto-24ac)
+- [Case Study: closing the DevOps/Databases Gap Using Atlas](https://dev.to/raz_kaplan/case-study-closing-the-devopsdatabases-gap-using-atlas-3621)
+- [Advanced Rendering Techniques in Next.js, React, and Gatsby: A comprehensive guide for experienced developers.](https://dev.to/shankarjatin/advanced-rendering-techniques-in-nextjs-react-and-gatsby-a-comprehensive-guide-for-experienced-38em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
