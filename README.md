@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Day 7 with GSAP: Interactive Scrolling Animation with Rotating Arrows&quot;](https://dev.to/anticoder03/day-7-with-gsap-interactive-scrolling-animation-with-rotating-arrows-4cld)
-- [Announcing the GoDev Non-Stop 30 Challenge! 🚀](https://dev.to/rapidcodelab/announcing-the-godev-non-stop-30-challenge-26a)
-- [Journal - 29-11-24](https://dev.to/rishitha_nallapureddy_751/journal-29-11-24-4n2a)
-- [Journal - 28-11-24](https://dev.to/rishitha_nallapureddy_751/journal-28-11-24-27o8)
-- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-1kp8)
+- [Understanding Python&#39;s if...else Statement with Examples](https://dev.to/askyt/understanding-pythons-ifelse-statement-with-examples-g7m)
+- [5 Common Refactors in Python for Beginners](https://dev.to/ggmurr24/5-common-refactors-in-python-for-beginners-4ol3)
+- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-5ca9)
+- [Using Datastax Langflow and AstraDB to Create a Multi-Agent Research Assistant with Safety Check - Part 4: Preparation](https://dev.to/aknox/using-datastax-langflow-and-astradb-to-create-a-multi-agent-research-assistant-with-safety-check--2h3i)
+- [Venkata Soma&#39;s Take on Seamless Tech Solutions: How DevOps and Cloud Engineering Revolutionize Business Performance](https://dev.to/kainaat_sahni_d4aee463d0d/venkata-somas-take-on-seamless-tech-solutions-how-devops-and-cloud-engineering-revolutionize-1l1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
