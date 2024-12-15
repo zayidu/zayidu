@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mat menu angular 7](https://dev.to/chakirayoub/mat-menu-angular-7-2a62)
-- [LeetCode Challenge: 380. Insert Delete GetRandom O&lpar;1&rpar; - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-380-insert-delete-getrandom-o1-javascript-solution-4gej)
-- [Day 30: Competitive Programming Journal](https://dev.to/jayadev_jatin/day-30-competitive-programming-journal-122a)
-- [5 useful yet underused 👾 CSS rules](https://dev.to/pagesword/5-useful-yet-underused-css-rules-267j)
-- [A simple short-lived URL shortener solution with AWS and GitHub actions](https://dev.to/chunhei_ng_543d3ee132b6a/a-simple-short-lived-url-shortener-solution-with-aws-and-github-actions-58e2)
+- [Two-Factor Authentication System](https://dev.to/mohanavamsi0614/two-factor-authentication-system-5f6)
+- [NavLInk](https://dev.to/khanrabiul/navlink-3215)
+- [Why Multi-Factor Authentication Matters?](https://dev.to/chamarthiraahul/why-multi-factor-authentication-matters-37l9)
+- [Understanding Phishing Attacks](https://dev.to/chamarthiraahul/understanding-phishing-attacks-1j25)
+- [Basic Network Scanner](https://dev.to/mohanavamsi0614/basic-network-scanner-2kj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
