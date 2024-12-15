@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pagination Component in React](https://dev.to/softden_2005/pagination-component-in-react-3iah)
-- [Detrás de la facturación de AWS: Cómo funciona la optimización de costos en la nube](https://dev.to/briansuarezsantiago/detras-de-la-facturacion-de-aws-como-funciona-la-optimizacion-de-costos-en-la-nube-ina)
-- [Mastering Laravel Blade: @stack, @push, and @endpush](https://dev.to/tharindumadubashna/mastering-laravel-blade-stack-push-and-endpush-1ol9)
-- [Formal Verification: An Example](https://dev.to/meeshbhoombah/formal-verification-an-example-33c)
-- [Preventing Tangles and Mats in Long-Haired Chihuahuas](https://dev.to/pinelumber25/preventing-tangles-and-mats-in-long-haired-chihuahuas-25h2)
+- [How to guide CNCF](https://dev.to/vaibhavpatil123/how-to-guide-cncf-3h60)
+- [Advanced and Creative TypeScript Techniques for Professionals](https://dev.to/shafayeat/advanced-and-creative-typescript-techniques-for-professionals-1f02)
+- [LLMs in Real-Time Applications: Latency Optimization and Scalability](https://dev.to/virajlakshitha/llms-in-real-time-applications-latency-optimization-and-scalability-307n)
+- [Monica AI: Unlock the Power of AI for Developers](https://dev.to/tharindumadubashna/monica-ai-unlock-the-power-of-ai-for-developers-4hki)
+- [How does Optional.ifPresent&lpar;&rpar; differ from Optional.orElse&lpar;&rpar;?](https://dev.to/realnamehidden1_61/how-does-optionalifpresent-differ-from-optionalorelse-391e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
