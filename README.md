@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React 19 Finally Stable, New Rust-Based JavaScript Framework, New Developer Tools, and more](https://dev.to/thisweekinjavascript/react-19-finally-stable-new-rust-based-javascript-framework-new-developer-tools-and-more-5aj5)
-- [Understanding Async/Await](https://dev.to/tak089/understanding-asyncawait-1pg1)
-- [The Role of Firewalls in Cybersecurity](https://dev.to/chamarthiraahul/the-role-of-firewalls-in-cybersecurity-pi5)
-- [TDoC &#39;24 Day 1 : Kickstarting Python and Setting Up Anaconda , VocalShift Project Kickoff 🚀](https://dev.to/gitleohere/tdoc-24-day-1-kickstarting-python-and-setting-up-anaconda-vocalshift-project-kickoff-4p6g)
-- [Automated Deployments of Meteor.js bundle using Terraform](https://dev.to/thepurveshpanchal/automated-deployments-of-meteorjs-bundle-using-terraform-1i3g)
+- [I like Vercel Deployments](https://dev.to/akaak/i-like-vercel-deployments-270d)
+- [Personal Profile Card Interface](https://dev.to/tobidelly/personal-profile-card-interface-4jkc)
+- [Introducing Linkspreed’s Web4 Reseller System](https://dev.to/web4/introducing-linkspreeds-web4-reseller-system-4mbc)
+- [Distributed Task Scheduling](https://dev.to/surajvatsya/distributed-task-scheduling-1641)
+- [Advanced JavaScript Concepts promises and async/await and try-catch](https://dev.to/arjun98k/advanced-javascript-concepts-promises-and-asyncawait-9o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
