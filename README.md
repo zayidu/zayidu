@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React native](https://dev.to/graham_logan_dfbaf718e13f/react-native-25mg)
-- [🐋 Ripple Whale Withdraws $2.2 Billion XRP, Eyes on $4.5 🚀](https://dev.to/sergi_web3/ripple-whale-withdraws-22-billion-xrp-eyes-on-45-2nmj)
-- [Firewall Testing 101: How to Secure Your Network and Block Cyber Threats](https://dev.to/sebos/firewall-testing-101-how-to-secure-your-network-and-block-cyber-threats-oe0)
-- [Forecast anything without the ML hustle.](https://dev.to/dominik_safaric_b47bfbdd7/forecast-anything-without-the-ml-hustle-45b8)
-- [🚀 Crypto Bull Run 2025: What’s Next for $BTC and Altcoins? 🌟](https://dev.to/joshthebtc/crypto-bull-run-2025-whats-next-for-btc-and-altcoins-220j)
+- [A Beginner&#39;s Guide to RegEx: Testing Patterns Online](https://dev.to/tooleroid/a-beginners-guide-to-regex-testing-patterns-online-45p5)
+- [How OpenAI Projects Revolutionizes Scalable AI Workflows and Persistent Storage Efficiency](https://dev.to/dansasser/how-openai-projects-revolutionizes-scalable-ai-workflows-and-persistent-storage-efficiency-32ml)
+- [JWT Explained: How to Sign, Verify, and Decode Tokens](https://dev.to/tooleroid/jwt-explained-how-to-sign-verify-and-decode-tokens-3b4o)
+- [How to Build Internal Tools 100x Faster](https://dev.to/redaxle/how-to-build-internal-tools-100x-faster-136a)
+- [Base64 Encoding in JavaScript: Modern Web Development Guide](https://dev.to/tooleroid/base64-encoding-in-javascript-modern-web-development-guide-193c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
