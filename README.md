@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day Four to Became an Android Developer](https://dev.to/himagaur2708/day-four-to-became-an-android-developer-2apg)
-- [57th day of my CP journey](https://dev.to/prasanna2910/57th-day-of-my-cp-journey-36bm)
-- [Building a Web3 URL shortener with Next.js on Fleek](https://dev.to/fleek/building-a-web3-url-shortener-with-nextjs-on-fleek-hbb)
-- [How to Master Kubernetes ?Troubleshooting with 35 Real-World Scenarios](https://dev.to/vellanki/how-to-master-kubernetes-troubleshooting-with-35-real-world-scenarios-20ap)
-- [Birthday candle](https://dev.to/ega_janiva_e3387d6f7940ce/birthday-candle-3mm0)
+- [Resolving the K3s Config File Permission Denied Error](https://dev.to/olymahmud/resolving-the-k3s-config-file-permission-denied-error-27e5)
+- [Why Rewriting Everything in Rust Won’t Solve All Your Problems](https://dev.to/pranta/why-rewriting-everything-in-rust-wont-solve-all-your-problems-24d0)
+- [LeetCode Challenge: 238. Product of Array Except Self - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-238-product-of-array-except-self-javascript-solution-1l83)
+- [End-to-End Encryption for Healthcare Workloads](https://dev.to/ikoh_sylva/end-to-end-encryption-for-healthcare-workloads-1ega)
+- [The Hyper-Specialization Dilemma in Modern Web Development - Rant](https://dev.to/alexandrughinea/the-hyper-specialization-dilemma-in-modern-web-development-rant-48p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
