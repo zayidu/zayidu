@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📕 strong body + 📘 sharp mind. The ultimate combo](https://dev.to/pagesword/strong-body-sharp-mind-the-ultimate-combo-5d5d)
-- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-1a6o)
-- [Getting Started with Python: Why and How to Learn This Amazing Language](https://dev.to/dohalislam/getting-started-with-python-why-and-how-to-learn-this-amazing-language-1gbd)
-- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-15mn)
-- [10 Key Advantages of Cypress for Automation Testing](https://dev.to/testscenario/10-key-advantages-of-cypress-for-automation-testing-gg4)
+- [Bulletproof SMTP Relay Service for Email Marketing](https://dev.to/otismilburnn/bulletproof-smtp-relay-service-for-email-marketing-59jl)
+- [Comparing Open-Source Vision Models for Photo Description Tasks Using .NET Aspire](https://dev.to/syamaner/comparing-open-source-vision-models-for-photo-description-tasks-using-net-aspire-2ebm)
+- [Voice First: Why Developers Should Tune In to the Voice Revolution](https://dev.to/sayyad_arsalan_97175d7177/voice-first-why-developers-should-tune-in-to-the-voice-revolution-615)
+- [The world without CSS](https://dev.to/pagesword/the-world-without-css-2g92)
+- [Taranify Mood AI](https://dev.to/miles_parker_b694cab3f9bd/taranify-mood-ai-3hbc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
