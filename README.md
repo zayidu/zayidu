@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to RegEx: Testing Patterns Online](https://dev.to/tooleroid/a-beginners-guide-to-regex-testing-patterns-online-45p5)
-- [How OpenAI Projects Revolutionizes Scalable AI Workflows and Persistent Storage Efficiency](https://dev.to/dansasser/how-openai-projects-revolutionizes-scalable-ai-workflows-and-persistent-storage-efficiency-32ml)
-- [JWT Explained: How to Sign, Verify, and Decode Tokens](https://dev.to/tooleroid/jwt-explained-how-to-sign-verify-and-decode-tokens-3b4o)
-- [How to Build Internal Tools 100x Faster](https://dev.to/redaxle/how-to-build-internal-tools-100x-faster-136a)
-- [Base64 Encoding in JavaScript: Modern Web Development Guide](https://dev.to/tooleroid/base64-encoding-in-javascript-modern-web-development-guide-193c)
+- [I think these are valid reasons! I think the same but many times I told it to someone it was snatched from the table by TS hype.](https://dev.to/stma/i-think-these-are-valid-reasons-i-think-the-same-but-many-times-i-told-it-to-someone-it-was-1lkf)
+- [Load Balancer](https://dev.to/salman_khan_c31307505285e/load-balancer-4lmm)
+- [Understanding Hash Functions: MD5, SHA1, SHA256, and SHA512 Explained](https://dev.to/tooleroid/understanding-hash-functions-md5-sha1-sha256-and-sha512-explained-28ne)
+- [Understanding EXIF Metadata: The Complete Guide to Digital Image Information](https://dev.to/tooleroid/understanding-exif-metadata-the-complete-guide-to-digital-image-information-2a5n)
+- [Mastering Unit Conversions: A Complete Guide to Measurement Systems](https://dev.to/tooleroid/mastering-unit-conversions-a-complete-guide-to-measurement-systems-3ifb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
