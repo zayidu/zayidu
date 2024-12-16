@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bulletproof SMTP Relay Service for Email Marketing](https://dev.to/otismilburnn/bulletproof-smtp-relay-service-for-email-marketing-59jl)
-- [Comparing Open-Source Vision Models for Photo Description Tasks Using .NET Aspire](https://dev.to/syamaner/comparing-open-source-vision-models-for-photo-description-tasks-using-net-aspire-2ebm)
-- [Voice First: Why Developers Should Tune In to the Voice Revolution](https://dev.to/sayyad_arsalan_97175d7177/voice-first-why-developers-should-tune-in-to-the-voice-revolution-615)
-- [The world without CSS](https://dev.to/pagesword/the-world-without-css-2g92)
-- [Taranify Mood AI](https://dev.to/miles_parker_b694cab3f9bd/taranify-mood-ai-3hbc)
+- [Understanding Event-Based and Process-Based Workflows](https://dev.to/littlelittlecloud/understanding-event-based-and-process-based-workflows-30le)
+- [Azure: Providing private storage for internal company documents](https://dev.to/johnogbonna/azure-providing-private-storage-for-internal-company-documents-314m)
+- [Avoiding Errors with MySQL Reserved Words](https://dev.to/dbvismarketing/avoiding-errors-with-mysql-reserved-words-k99)
+- [New explorations at Serverless day](https://dev.to/giuliano1993/new-explorations-at-serverless-day-fdo)
+- [Interactive Quiz App](https://dev.to/tobidelly/interactive-quiz-app-ngg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
