@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-8hm)
-- [Face Comparison Online—Streamlined Verification and Secure Matching Solutions](https://dev.to/faceplugin/face-comparison-online-streamlined-verification-and-secure-matching-solutions-n9c)
-- [I’ve been trying to include a GIF in my post, but when I preview it, I see the message &#39;The photo no longer exists.&#39; I’m wondering if there’s an issue with GIF uploads on the platform. Is anyone else encountering this problem, or is there a known solution?](https://dev.to/roxana_haidiner/ive-been-trying-to-include-a-gif-in-my-post-but-when-i-preview-it-i-see-the-message-the-photo-2gj6)
-- [AWS CDK Aspects specifications have changed](https://dev.to/aws-heroes/aws-cdk-aspects-specifications-have-changed-3i75)
-- [API Polling vs. Webhooks](https://dev.to/msnmongare/api-polling-vs-webhooks-15h4)
+- [Tech Watch 6](https://dev.to/56_kode/tech-watch-6-1bh3)
+- [How to Create Your Own RAG with Free LLM Models and a Knowledge Base](https://dev.to/alexander_uspenskiy_the_great/how-to-create-your-own-rag-with-free-llm-models-and-a-knowledge-base-2odm)
+- [My journey in Competitive Programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-490l)
+- [How to Stream Kubernetes Pod Logs](https://dev.to/labex/how-to-stream-kubernetes-pod-logs-59ep)
+- [Is Power BI easy to learn?](https://dev.to/skillboosttrainer/is-power-bi-easy-to-learn-4jj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
