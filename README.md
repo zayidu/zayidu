@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Event-Based and Process-Based Workflows](https://dev.to/littlelittlecloud/understanding-event-based-and-process-based-workflows-30le)
-- [Azure: Providing private storage for internal company documents](https://dev.to/johnogbonna/azure-providing-private-storage-for-internal-company-documents-314m)
-- [Avoiding Errors with MySQL Reserved Words](https://dev.to/dbvismarketing/avoiding-errors-with-mysql-reserved-words-k99)
-- [New explorations at Serverless day](https://dev.to/giuliano1993/new-explorations-at-serverless-day-fdo)
-- [Interactive Quiz App](https://dev.to/tobidelly/interactive-quiz-app-ngg)
+- [My journey in Competitive Programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-5942)
+- [Why are Props Immutable in React?](https://dev.to/nozibul_islam_113b1d5334f/why-are-props-immutable-in-react-bin)
+- [Modularization in Flutter App](https://dev.to/tentanganak/modularization-in-flutter-app-bb6)
+- [For A Despicably Good Cause : Small Steps, Big Impact!](https://dev.to/balagmadhu/for-a-despicably-good-cause-small-steps-big-impact-2g96)
+- [How to Use Extended Security Posture Management &lpar;XSPM&rpar; for Continuous Security Validation](https://dev.to/micromindercs/how-to-use-extended-security-posture-management-xspm-for-continuous-security-validation-36m7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
