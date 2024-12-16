@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessible, Sustainable, and Creative Web Development](https://dev.to/ingosteinke/accessible-sustainable-and-creative-web-development-4im1)
-- [Integrating AWS Services with Stripe for Seamless Payment Solutions](https://dev.to/billgist/integrating-aws-services-with-stripe-for-seamless-payment-solutions-407l)
-- [Redes neuronales convolucionales &lpar;CNN&rpar; y redes neuronales recurrentes &lpar;RNN&rpar;](https://dev.to/fuenrob/redes-neuronales-convolucionales-cnn-y-redes-neuronales-recurrentes-rnn-10ci)
-- [pgsql.PostgresException : 42883: function DC_Test.fn_get_configuration&lpar;key := bigint&rpar; does not exist in npgsql version 9.0.2](https://dev.to/sunil_gohel_771b3ec120384/pgsqlpostgresexception-42883-function-dctestfngetconfigurationkey-bigint-does-not-jhl)
-- [AI Pair Programming in 2025: The Good, Bad, and Ugly](https://dev.to/builderio/ai-pair-programming-in-2025-the-good-bad-and-ugly-546j)
+- [Meme Monday](https://dev.to/ben/meme-monday-8hm)
+- [Face Comparison Online—Streamlined Verification and Secure Matching Solutions](https://dev.to/faceplugin/face-comparison-online-streamlined-verification-and-secure-matching-solutions-n9c)
+- [I’ve been trying to include a GIF in my post, but when I preview it, I see the message &#39;The photo no longer exists.&#39; I’m wondering if there’s an issue with GIF uploads on the platform. Is anyone else encountering this problem, or is there a known solution?](https://dev.to/roxana_haidiner/ive-been-trying-to-include-a-gif-in-my-post-but-when-i-preview-it-i-see-the-message-the-photo-2gj6)
+- [AWS CDK Aspects specifications have changed](https://dev.to/aws-heroes/aws-cdk-aspects-specifications-have-changed-3i75)
+- [API Polling vs. Webhooks](https://dev.to/msnmongare/api-polling-vs-webhooks-15h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
