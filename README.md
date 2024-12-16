@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Ask Anyone To &quot;Be Your Mentor&quot;— Do This Instead](https://dev.to/canro91/dont-ask-anyone-to-be-your-mentor-do-this-instead-2j9c)
-- [Tutorial: Dynamic Svelte Components](https://dev.to/barim/tutorial-dynamic-svelte-components-di1)
-- [Day 16: Let is snow! ❄️](https://dev.to/valeriavg/day-16-let-is-snow-1ik6)
-- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-3jfo)
-- [Gobuster](https://dev.to/shiva_varma/gobuster-ii4)
+- [📕 strong body + 📘 sharp mind. The ultimate combo](https://dev.to/pagesword/strong-body-sharp-mind-the-ultimate-combo-5d5d)
+- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-1a6o)
+- [Getting Started with Python: Why and How to Learn This Amazing Language](https://dev.to/dohalislam/getting-started-with-python-why-and-how-to-learn-this-amazing-language-1gbd)
+- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-15mn)
+- [10 Key Advantages of Cypress for Automation Testing](https://dev.to/testscenario/10-key-advantages-of-cypress-for-automation-testing-gg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
