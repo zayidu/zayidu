@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [125. Valid Palindrome](https://dev.to/arpitrathore/125-valid-palindrome-5b20)
-- [Tailwind CSS: Revolutionizing Web Design with Utility-First Styling](https://dev.to/hexadecimalsoftware/tailwind-css-revolutionizing-web-design-with-utility-first-styling-4ip)
-- [REQUEST METHODS IN EXPRESS.JS](https://dev.to/hatooom_laski/request-methods-in-expressjs-31k1)
-- [This week we are starting with the standard industry tools, beginning with DockerHub!](https://dev.to/code42cate/this-week-we-are-starting-with-the-standard-industry-tools-beginning-with-dockerhub-31g4)
-- [How to Create Native .NET Applications for ARM Processors: A Practical Guide for Developers](https://dev.to/bytehide/how-to-create-native-net-applications-for-arm-processors-a-practical-guide-for-developers-5dmd)
+- [Accessible, Sustainable, and Creative Web Development](https://dev.to/ingosteinke/accessible-sustainable-and-creative-web-development-4im1)
+- [Integrating AWS Services with Stripe for Seamless Payment Solutions](https://dev.to/billgist/integrating-aws-services-with-stripe-for-seamless-payment-solutions-407l)
+- [Redes neuronales convolucionales &lpar;CNN&rpar; y redes neuronales recurrentes &lpar;RNN&rpar;](https://dev.to/fuenrob/redes-neuronales-convolucionales-cnn-y-redes-neuronales-recurrentes-rnn-10ci)
+- [pgsql.PostgresException : 42883: function DC_Test.fn_get_configuration&lpar;key := bigint&rpar; does not exist in npgsql version 9.0.2](https://dev.to/sunil_gohel_771b3ec120384/pgsqlpostgresexception-42883-function-dctestfngetconfigurationkey-bigint-does-not-jhl)
+- [AI Pair Programming in 2025: The Good, Bad, and Ugly](https://dev.to/builderio/ai-pair-programming-in-2025-the-good-bad-and-ugly-546j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
