@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Elemental Ruby: A Better Way to Organize Rails Applications](https://dev.to/bevinh/elemental-ruby-a-better-way-to-organize-rails-applications-5p0)
-- [Exploring new AWS Aurora DSQL. What is it ? Why it is important ? How to quickstart ?](https://dev.to/aws-builders/exploring-new-aws-aurora-dsql-what-is-it-why-it-is-important-how-to-quickstart--3hf1)
-- [Day 38: Understanding Kubernetes Controllers and CRDs](https://dev.to/arbythecoder/day-38-understanding-kubernetes-controllers-and-crds-40p2)
-- [Track-POD: Revolutionizing Delivery Management for Modern Businesses](https://dev.to/devvemeka/track-pod-revolutionizing-delivery-management-for-modern-businesses-383e)
-- [Need an Android developer to teach me xD](https://dev.to/suckmymeme/need-an-android-developer-to-teach-me-xd-3pek)
+- [React native](https://dev.to/graham_logan_dfbaf718e13f/react-native-25mg)
+- [🐋 Ripple Whale Withdraws $2.2 Billion XRP, Eyes on $4.5 🚀](https://dev.to/sergi_web3/ripple-whale-withdraws-22-billion-xrp-eyes-on-45-2nmj)
+- [Firewall Testing 101: How to Secure Your Network and Block Cyber Threats](https://dev.to/sebos/firewall-testing-101-how-to-secure-your-network-and-block-cyber-threats-oe0)
+- [Forecast anything without the ML hustle.](https://dev.to/dominik_safaric_b47bfbdd7/forecast-anything-without-the-ml-hustle-45b8)
+- [🚀 Crypto Bull Run 2025: What’s Next for $BTC and Altcoins? 🌟](https://dev.to/joshthebtc/crypto-bull-run-2025-whats-next-for-btc-and-altcoins-220j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
