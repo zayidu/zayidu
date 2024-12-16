@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React 19: New hook useActionState](https://dev.to/garciadiazjaime/react-19-new-hook-useactionstate-1ln3)
-- [Database schema design of Splitwise application](https://dev.to/fightclub07/database-schema-design-of-splitwise-application-2ef0)
-- [[Boost]](https://dev.to/goncalo_dev_ops/-1gdh)
-- [Implementing your own Proof Of Authentication. &lpar;Part 1&rpar;](https://dev.to/jefferyhus/implementing-your-own-proof-of-authentication-part-1-adb)
-- [Deploying a Cloud Native Serverless App with Terraform and CI/CD on Cloud Run](https://dev.to/goncalo_dev_ops/deploying-a-cloud-native-serverless-app-with-terraform-and-cicd-on-cloud-run-48d1)
+- [Announcing Stimulus FX](https://dev.to/railsdesigner/announcing-stimulus-fx-1hlc)
+- [The problem with usePrevious and similar time oriented hooks](https://dev.to/felipegs/the-problem-with-useprevious-and-similar-time-oriented-hooks-7ij)
+- [In my Problem Solving Journey](https://dev.to/karthika_movva/in-my-problem-solving-journey-229p)
+- [My Problem Solving Experience](https://dev.to/karthika_movva/my-problem-solving-experience-53j9)
+- [[Boost]](https://dev.to/uliyahoo/-57ik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
