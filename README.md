@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to SeleniumBase — A Better &amp; Easier Selenium](https://dev.to/scrapfly_dev/guide-to-seleniumbase-a-better-easier-selenium-2bo)
-- [The Triple R Squad in DevOps](https://dev.to/lewisawe/the-triple-r-squad-in-devops-4jnb)
-- [⛳️ Top 5 AWS Services Every Frontend Should Know 💎🧪](https://dev.to/martygo/top-5-aws-services-every-frontend-should-know-5ee5)
-- [Vue.js Nation 2025 brings the latest updates from the Vue.js framework and you will hear them first! Learn more👇](https://dev.to/anaamarijaa/vuejs-nation-2025-brings-the-latest-updates-from-the-vuejs-framework-and-you-will-hear-them-4mol)
-- [Funny how, as I was writing this, I started wondering—could we make this pipeline even smarter? That’s when SonarQube came to mind. But can it even work with Bash scripts? I’d love to hear your thoughts!](https://dev.to/favxlaw/funny-how-as-i-was-writing-this-i-started-wondering-could-we-make-this-pipeline-even-smarter-2g0e)
+- [125. Valid Palindrome](https://dev.to/arpitrathore/125-valid-palindrome-5b20)
+- [Tailwind CSS: Revolutionizing Web Design with Utility-First Styling](https://dev.to/hexadecimalsoftware/tailwind-css-revolutionizing-web-design-with-utility-first-styling-4ip)
+- [REQUEST METHODS IN EXPRESS.JS](https://dev.to/hatooom_laski/request-methods-in-expressjs-31k1)
+- [This week we are starting with the standard industry tools, beginning with DockerHub!](https://dev.to/code42cate/this-week-we-are-starting-with-the-standard-industry-tools-beginning-with-dockerhub-31g4)
+- [How to Create Native .NET Applications for ARM Processors: A Practical Guide for Developers](https://dev.to/bytehide/how-to-create-native-net-applications-for-arm-processors-a-practical-guide-for-developers-5dmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
