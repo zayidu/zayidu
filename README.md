@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 13 - journal](https://dev.to/vinnugollakoti/day-13-journal-29if)
-- [Day 12 - journal](https://dev.to/vinnugollakoti/day-12-journal-3c34)
-- [Harnessing the Power of Object-Oriented and Functional Programming Paradigms in Software Development](https://dev.to/adityabhuyan/harnessing-the-power-of-object-oriented-and-functional-programming-paradigms-in-software-development-4m6h)
-- [Understand the terminologies of in CS](https://dev.to/shiva_varma/understand-the-terminologies-of-in-cs-34ei)
-- [Understanding IP Address Types, Subnets, and Loopback](https://dev.to/shiva_varma/understanding-ip-address-types-subnets-and-loopback-223p)
+- [Don&#39;t Ask Anyone To &quot;Be Your Mentor&quot;— Do This Instead](https://dev.to/canro91/dont-ask-anyone-to-be-your-mentor-do-this-instead-2j9c)
+- [Tutorial: Dynamic Svelte Components](https://dev.to/barim/tutorial-dynamic-svelte-components-di1)
+- [Day 16: Let is snow! ❄️](https://dev.to/valeriavg/day-16-let-is-snow-1ik6)
+- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-3jfo)
+- [Gobuster](https://dev.to/shiva_varma/gobuster-ii4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
