@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Detect and Save Documents to PDF with HTML5 and JavaScript](https://dev.to/yushulx/how-to-detect-and-save-documents-to-pdf-with-html5-and-javascript-193p)
-- [What Every Non-Technical Founder Must Know When Building a Tech Product](https://dev.to/jetthoughts/what-every-non-technical-founder-must-know-when-building-a-tech-product-577j)
-- [What Every Non-Technical Founder Must Know When Building a Tech Product](https://dev.to/jetthoughts/what-every-non-technical-founder-must-know-when-building-a-tech-product-30me)
-- [Understanding C++ Data Types, Vulnerabilities, and Key Differences with Java](https://dev.to/alex_ricciardi/understanding-c-data-types-vulnerabilities-and-key-differences-with-java-1h5g)
-- [How to Build a Custom MedusaJS Admin Dashboard with NextJS, Supabase, and Tailwind CSS](https://dev.to/aviatorscode2/how-to-build-a-custom-medusajs-admin-dashboard-with-nextjs-supabase-and-tailwind-css-2iop)
+- [Day 13 - journal](https://dev.to/vinnugollakoti/day-13-journal-29if)
+- [Day 12 - journal](https://dev.to/vinnugollakoti/day-12-journal-3c34)
+- [Harnessing the Power of Object-Oriented and Functional Programming Paradigms in Software Development](https://dev.to/adityabhuyan/harnessing-the-power-of-object-oriented-and-functional-programming-paradigms-in-software-development-4m6h)
+- [Understand the terminologies of in CS](https://dev.to/shiva_varma/understand-the-terminologies-of-in-cs-34ei)
+- [Understanding IP Address Types, Subnets, and Loopback](https://dev.to/shiva_varma/understanding-ip-address-types-subnets-and-loopback-223p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
