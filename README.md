@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My journey in Competitive Programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-5942)
-- [Why are Props Immutable in React?](https://dev.to/nozibul_islam_113b1d5334f/why-are-props-immutable-in-react-bin)
-- [Modularization in Flutter App](https://dev.to/tentanganak/modularization-in-flutter-app-bb6)
-- [For A Despicably Good Cause : Small Steps, Big Impact!](https://dev.to/balagmadhu/for-a-despicably-good-cause-small-steps-big-impact-2g96)
-- [How to Use Extended Security Posture Management &lpar;XSPM&rpar; for Continuous Security Validation](https://dev.to/micromindercs/how-to-use-extended-security-posture-management-xspm-for-continuous-security-validation-36m7)
+- [Building a Project Roadmap: Tips, Tools and Insights](https://dev.to/cryptosandy/building-a-project-roadmap-tips-tools-and-insights-4365)
+- [7 Essential Accessibility Testing Tools for Web Developers: Ensure Inclusive Design](https://dev.to/aaravjoshi/7-essential-accessibility-testing-tools-for-web-developers-ensure-inclusive-design-527l)
+- [[Boost]](https://dev.to/armspkt/-5b5i)
+- [Day 48: Competitive Programming Journal](https://dev.to/jayadev_jatin/day-48-competitive-programming-journal-3fbd)
+- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-38of)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
