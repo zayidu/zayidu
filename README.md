@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Project Roadmap: Tips, Tools and Insights](https://dev.to/cryptosandy/building-a-project-roadmap-tips-tools-and-insights-4365)
-- [7 Essential Accessibility Testing Tools for Web Developers: Ensure Inclusive Design](https://dev.to/aaravjoshi/7-essential-accessibility-testing-tools-for-web-developers-ensure-inclusive-design-527l)
-- [[Boost]](https://dev.to/armspkt/-5b5i)
-- [Day 48: Competitive Programming Journal](https://dev.to/jayadev_jatin/day-48-competitive-programming-journal-3fbd)
-- [My journey in competitive programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-38of)
+- [Guide to SeleniumBase — A Better &amp; Easier Selenium](https://dev.to/scrapfly_dev/guide-to-seleniumbase-a-better-easier-selenium-2bo)
+- [The Triple R Squad in DevOps](https://dev.to/lewisawe/the-triple-r-squad-in-devops-4jnb)
+- [⛳️ Top 5 AWS Services Every Frontend Should Know 💎🧪](https://dev.to/martygo/top-5-aws-services-every-frontend-should-know-5ee5)
+- [Vue.js Nation 2025 brings the latest updates from the Vue.js framework and you will hear them first! Learn more👇](https://dev.to/anaamarijaa/vuejs-nation-2025-brings-the-latest-updates-from-the-vuejs-framework-and-you-will-hear-them-4mol)
+- [Funny how, as I was writing this, I started wondering—could we make this pipeline even smarter? That’s when SonarQube came to mind. But can it even work with Bash scripts? I’d love to hear your thoughts!](https://dev.to/favxlaw/funny-how-as-i-was-writing-this-i-started-wondering-could-we-make-this-pipeline-even-smarter-2g0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
