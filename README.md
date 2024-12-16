@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Stimulus FX](https://dev.to/railsdesigner/announcing-stimulus-fx-1hlc)
-- [The problem with usePrevious and similar time oriented hooks](https://dev.to/felipegs/the-problem-with-useprevious-and-similar-time-oriented-hooks-7ij)
-- [In my Problem Solving Journey](https://dev.to/karthika_movva/in-my-problem-solving-journey-229p)
-- [My Problem Solving Experience](https://dev.to/karthika_movva/my-problem-solving-experience-53j9)
-- [[Boost]](https://dev.to/uliyahoo/-57ik)
+- [Elemental Ruby: A Better Way to Organize Rails Applications](https://dev.to/bevinh/elemental-ruby-a-better-way-to-organize-rails-applications-5p0)
+- [Exploring new AWS Aurora DSQL. What is it ? Why it is important ? How to quickstart ?](https://dev.to/aws-builders/exploring-new-aws-aurora-dsql-what-is-it-why-it-is-important-how-to-quickstart--3hf1)
+- [Day 38: Understanding Kubernetes Controllers and CRDs](https://dev.to/arbythecoder/day-38-understanding-kubernetes-controllers-and-crds-40p2)
+- [Track-POD: Revolutionizing Delivery Management for Modern Businesses](https://dev.to/devvemeka/track-pod-revolutionizing-delivery-management-for-modern-businesses-383e)
+- [Need an Android developer to teach me xD](https://dev.to/suckmymeme/need-an-android-developer-to-teach-me-xd-3pek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
