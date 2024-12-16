@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Adicionar Sons em HTML](https://dev.to/udanielnogueira/como-adicionar-sons-em-html-56ga)
-- [How to Scrape and Analyse Data for Free using AI: From Collection to Insight](https://dev.to/aviatorscode2/how-to-scrape-and-analyse-data-for-free-using-ai-from-collection-to-insight-1hko)
-- [How to set up XDebug with VSCode in a Laravel Sail environment](https://dev.to/barfrakud/how-to-set-up-xdebug-with-vscode-in-a-laravel-sail-environment-1oci)
-- [O que é REST API?](https://dev.to/eded001/o-que-e-rest-api-308f)
-- [Playing with a Stock API: A JavaScript/React Developer Learns Python](https://dev.to/jesse_chong_3bcc276c4f950/playing-with-a-stock-api-a-javascriptreact-developer-learns-python-60i)
+- [Building the AI email bot for a job candidate](https://dev.to/yatsenkolesh/building-the-ai-email-bot-for-a-job-candidate-1j0l)
+- [Reflections on My Coding Journey: Lessons from Recent Weeks](https://dev.to/dave_amosu_ba76203fa95fce/reflections-on-my-coding-journey-lessons-from-recent-weeks-fa1)
+- [SEND Africa: Building a Web3 Solution for Seamless Peer-to-Peer USDC Transfers](https://dev.to/faisal_the1st/send-africa-building-a-web3-solution-for-seamless-peer-to-peer-usdc-transfers-4ddp)
+- [Texture Mapping in Computer Graphics — WebGL](https://dev.to/alex_ricciardi/texture-mapping-in-computer-graphics-webgl-2c8j)
+- [Terraform vs AWS CDK: ¿Qué herramienta de infraestructura como código es mejor para tu proyecto?](https://dev.to/briansuarezsantiago/terraform-vs-aws-cdk-que-herramienta-de-infraestructura-como-codigo-es-mejor-para-tu-proyecto-1d09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
