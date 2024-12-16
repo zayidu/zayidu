@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Resolving the K3s Config File Permission Denied Error](https://dev.to/olymahmud/resolving-the-k3s-config-file-permission-denied-error-27e5)
-- [Why Rewriting Everything in Rust Won’t Solve All Your Problems](https://dev.to/pranta/why-rewriting-everything-in-rust-wont-solve-all-your-problems-24d0)
-- [LeetCode Challenge: 238. Product of Array Except Self - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-238-product-of-array-except-self-javascript-solution-1l83)
-- [End-to-End Encryption for Healthcare Workloads](https://dev.to/ikoh_sylva/end-to-end-encryption-for-healthcare-workloads-1ega)
-- [The Hyper-Specialization Dilemma in Modern Web Development - Rant](https://dev.to/alexandrughinea/the-hyper-specialization-dilemma-in-modern-web-development-rant-48p5)
+- [React 19: New hook useActionState](https://dev.to/garciadiazjaime/react-19-new-hook-useactionstate-1ln3)
+- [Database schema design of Splitwise application](https://dev.to/fightclub07/database-schema-design-of-splitwise-application-2ef0)
+- [[Boost]](https://dev.to/goncalo_dev_ops/-1gdh)
+- [Implementing your own Proof Of Authentication. &lpar;Part 1&rpar;](https://dev.to/jefferyhus/implementing-your-own-proof-of-authentication-part-1-adb)
+- [Deploying a Cloud Native Serverless App with Terraform and CI/CD on Cloud Run](https://dev.to/goncalo_dev_ops/deploying-a-cloud-native-serverless-app-with-terraform-and-cicd-on-cloud-run-48d1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
