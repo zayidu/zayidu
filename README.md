@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Watch 6](https://dev.to/56_kode/tech-watch-6-1bh3)
-- [How to Create Your Own RAG with Free LLM Models and a Knowledge Base](https://dev.to/alexander_uspenskiy_the_great/how-to-create-your-own-rag-with-free-llm-models-and-a-knowledge-base-2odm)
-- [My journey in Competitive Programming](https://dev.to/mukilan_palanichamy_ecaa5/my-journey-in-competitive-programming-490l)
-- [How to Stream Kubernetes Pod Logs](https://dev.to/labex/how-to-stream-kubernetes-pod-logs-59ep)
-- [Is Power BI easy to learn?](https://dev.to/skillboosttrainer/is-power-bi-easy-to-learn-4jj8)
+- [Day Four to Became an Android Developer](https://dev.to/himagaur2708/day-four-to-became-an-android-developer-2apg)
+- [57th day of my CP journey](https://dev.to/prasanna2910/57th-day-of-my-cp-journey-36bm)
+- [Building a Web3 URL shortener with Next.js on Fleek](https://dev.to/fleek/building-a-web3-url-shortener-with-nextjs-on-fleek-hbb)
+- [How to Master Kubernetes ?Troubleshooting with 35 Real-World Scenarios](https://dev.to/vellanki/how-to-master-kubernetes-troubleshooting-with-35-real-world-scenarios-20ap)
+- [Birthday candle](https://dev.to/ega_janiva_e3387d6f7940ce/birthday-candle-3mm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
