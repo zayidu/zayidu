@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the AI email bot for a job candidate](https://dev.to/yatsenkolesh/building-the-ai-email-bot-for-a-job-candidate-1j0l)
-- [Reflections on My Coding Journey: Lessons from Recent Weeks](https://dev.to/dave_amosu_ba76203fa95fce/reflections-on-my-coding-journey-lessons-from-recent-weeks-fa1)
-- [SEND Africa: Building a Web3 Solution for Seamless Peer-to-Peer USDC Transfers](https://dev.to/faisal_the1st/send-africa-building-a-web3-solution-for-seamless-peer-to-peer-usdc-transfers-4ddp)
-- [Texture Mapping in Computer Graphics — WebGL](https://dev.to/alex_ricciardi/texture-mapping-in-computer-graphics-webgl-2c8j)
-- [Terraform vs AWS CDK: ¿Qué herramienta de infraestructura como código es mejor para tu proyecto?](https://dev.to/briansuarezsantiago/terraform-vs-aws-cdk-que-herramienta-de-infraestructura-como-codigo-es-mejor-para-tu-proyecto-1d09)
+- [How to Detect and Save Documents to PDF with HTML5 and JavaScript](https://dev.to/yushulx/how-to-detect-and-save-documents-to-pdf-with-html5-and-javascript-193p)
+- [What Every Non-Technical Founder Must Know When Building a Tech Product](https://dev.to/jetthoughts/what-every-non-technical-founder-must-know-when-building-a-tech-product-577j)
+- [What Every Non-Technical Founder Must Know When Building a Tech Product](https://dev.to/jetthoughts/what-every-non-technical-founder-must-know-when-building-a-tech-product-30me)
+- [Understanding C++ Data Types, Vulnerabilities, and Key Differences with Java](https://dev.to/alex_ricciardi/understanding-c-data-types-vulnerabilities-and-key-differences-with-java-1h5g)
+- [How to Build a Custom MedusaJS Admin Dashboard with NextJS, Supabase, and Tailwind CSS](https://dev.to/aviatorscode2/how-to-build-a-custom-medusajs-admin-dashboard-with-nextjs-supabase-and-tailwind-css-2iop)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
