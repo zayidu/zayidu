@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Flowcharts: Basic Components and Practical Examples](https://dev.to/finfin/getting-started-with-flowcharts-basic-components-and-practical-examples-4aj4)
-- [Respect for Clean Code](https://dev.to/kirgo/respect-for-clean-code-5g4h)
-- [Continous Integration And Continous Deployment Of A Full-Stack Docker-Compose Application](https://dev.to/yutee_okon/continous-integration-and-continous-deployment-of-a-full-stack-docker-compose-application-1f89)
-- [When Embedded AuthN Meets Embedded AuthZ - Building Multi-Tenant Apps With Better-Auth and ZenStack](https://dev.to/zenstack/when-embedded-authn-meets-embedded-authz-building-multi-tenant-apps-with-better-auth-and-zenstack-1ngi)
-- [Simplify IoT Device Updates with Azure Device Update for IoT Hub](https://dev.to/marcelo_luna_fa19f220da0b/simplify-iot-device-updates-with-azure-device-update-for-iot-hub-434p)
+- [Semantic Search Feature](https://dev.to/hoaitx/semantic-search-feature-4lbh)
+- [🌐 5 Steps to Debugging a Slow API: Ultimate Guide to Speed and Performance🌟 🚀](https://dev.to/hanzla-baig/5-steps-to-debugging-a-slow-api-ultimate-guide-to-speed-and-performance-3ceh)
+- [solana 获取钱包token余额，及优化](https://dev.to/xiaodao/solana-huo-qu-qian-bao-tokenyu-e-ji-you-hua-3enb)
+- [solana是如何算seed地址](https://dev.to/xiaodao/solanashi-ru-he-suan-seeddi-zhi-d6p)
+- [Outlook tìm mail nhận trong khoảng thời gian xác định](https://dev.to/longtth/outlook-tim-mail-nhan-trong-khoang-thoi-gian-xac-dinh-102l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
