@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Daily Crypto Job Digest For 17 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-17-december-2ko4)
-- [Multi-Agent RAG application with QA based on Internet Search and Proprietary Docs](https://dev.to/aknox/multi-agent-rag-application-with-qa-based-on-internet-search-and-proprietary-docs-4ffh)
-- [Understanding the this Keyword in JavaScript](https://dev.to/abhay_yt_52a8e72b213be229/understanding-the-this-keyword-in-javascript-53cp)
-- [Data Analyst Career: An Overview of Freelance Data Analysts](https://dev.to/pangaea_x/data-analyst-career-an-overview-of-freelance-data-analysts-28dn)
-- [Mastering Scope and Lexical Scope in JavaScript](https://dev.to/abhay_yt_52a8e72b213be229/mastering-scope-and-lexical-scope-in-javascript-3dm8)
+- [LeetCode Challenge: 134. Gas Station - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-134-gas-station-javascript-solution-218m)
+- [Terraform Workspaces Guide: Commands, Examples and Best Practices](https://dev.to/env0/terraform-workspaces-guide-commands-examples-and-best-practices-503g)
+- [Understanding DOM Events in JavaScript: A Comprehensive Guide to Interaction](https://dev.to/abhay_yt_52a8e72b213be229/understanding-dom-events-in-javascript-a-comprehensive-guide-to-interaction-3li9)
+- [The history of game engines — from assembly coding to photorealism and AI](https://dev.to/ispmanager/the-history-of-game-engines-from-assembly-coding-to-photorealism-and-ai-d9h)
+- [Mastering Array Methods in JavaScript: map, filter, and reduce](https://dev.to/abhay_yt_52a8e72b213be229/mastering-array-methods-in-javascript-map-filter-and-reduce-2913)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
