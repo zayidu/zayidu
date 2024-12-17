@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 52 Journal](https://dev.to/vinnugollakoti/day-52-journal-9hk)
-- [Day 51 Journal](https://dev.to/vinnugollakoti1/day-51-journal-5a9j)
-- [☃️❄️Winter Solstice Web: A Winter Solistice-Inspired Webpage❄️☃️](https://dev.to/divya4879/winter-solstice-web-a-winter-solistice-inspired-webpage-3d82)
-- [Day 48 Journal](https://dev.to/vinnugollakoti1/day-48-journal-3epm)
-- [Day 10 Task:](https://dev.to/reegan/day-10-task-3ed5)
+- [Day 17: Terminal Links &amp; Other Escapes 🔗](https://dev.to/valeriavg/day-17-links-other-escapes-3hbb)
+- [React Hooks Flow: A Deep Dive](https://dev.to/saimaheshwarreddy/react-hooks-flow-a-deep-dive-1f73)
+- [Day - 4 Task](https://dev.to/saravanan_477814b61087a66/day-4-task-4m81)
+- [Understanding Machine Learning Model Types: A Practical Guide &lpar;3&rpar;](https://dev.to/foyzulkarim/understanding-machine-learning-model-types-a-practical-guide-294e)
+- [How to Create a QR Code Reader or Scanner with API Using HTML, CSS, and JavaScript](https://dev.to/sharathchandark/how-to-create-a-qr-code-reader-or-scanner-with-api-using-html-css-and-javascript-1682)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
