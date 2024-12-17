@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Code Essentials: YAGNI, KISS, and DRY in Software Engineering](https://dev.to/juniourrau/clean-code-essentials-yagni-kiss-and-dry-in-software-engineering-4i3j)
-- [Mastering Concurrency and Parallelism in TypeScript](https://dev.to/shafayeat/mastering-concurrency-and-parallelism-in-typescript-1bgf)
-- [Streamlining Enterprise Demands: Selecting the Ideal Cloud Test Automation &amp; Infrastructure Platform](https://dev.to/testifytech/streamlining-enterprise-demands-selecting-the-ideal-cloud-test-automation-infrastructure-platform-4eod)
-- [AWS Cloud Clubs: Building Skills, Networks, and Careers in Cloud Computing](https://dev.to/marsproxies/aws-cloud-clubs-building-skills-networks-and-careers-in-cloud-computing-1k9o)
-- [Bare Metal Provisioning Consulting Services Experts](https://dev.to/infracloud/bare-metal-provisioning-consulting-services-experts-ll9)
+- [AI Won’t Take Your Job—But People Who Use AI Will.](https://dev.to/solih_lawal_b3a683e907714/ai-wont-take-your-job-but-people-who-use-ai-will-9hb)
+- [Algorithmic Concepts in MongoDB Design](https://dev.to/frorning/algorithmic-concepts-in-mongodb-design-n5)
+- [How to access singleton methods and properties from another js file using normal javascript code](https://dev.to/thirugnanam_srinivasan_de/how-to-access-singleton-methods-and-properties-from-another-js-file-using-normal-javascript-code-45n5)
+- [Building an Effective Machine Learning Pipeline for Fraud Prevention](https://dev.to/lokeshjoshi/building-an-effective-machine-learning-pipeline-for-fraud-prevention-4484)
+- [ExpressJS Performance Optimization: Top Best Practices to Consider in 2025](https://dev.to/dhruvil_joshi14/expressjs-performance-optimization-top-best-practices-to-consider-in-2025-2k6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
