@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering call&lpar;&rpar;, apply&lpar;&rpar;, and bind&lpar;&rpar; in JavaScript: Controlling this](https://dev.to/abhay_yt_52a8e72b213be229/mastering-call-apply-and-bind-in-javascript-controlling-this-2fe5)
-- [Adicionando Vídeos em HTML](https://dev.to/udanielnogueira/adicionando-videos-em-html-1gi)
-- [225. Implement Stack using Queues](https://dev.to/arpitrathore/225-implement-stack-using-queues-1cjm)
-- [Understanding setTimeout and setInterval in JavaScript: Time-based Execution](https://dev.to/abhay_yt_52a8e72b213be229/understanding-settimeout-and-setinterval-in-javascript-time-based-execution-29ac)
-- [Mastering WeakMap and WeakSet in JavaScript: Efficient Memory Management](https://dev.to/abhay_yt_52a8e72b213be229/mastering-weakmap-and-weakset-in-javascript-efficient-memory-management-2pgc)
+- [Building a framework less, offline first, cross platform application](https://dev.to/amazingmuffin/building-a-framework-less-offline-first-cross-platform-application-2a5f)
+- [Building a Digital Signage Content Management System: A Challenge and a Journey](https://dev.to/htsagara/building-a-digital-signage-content-management-system-a-challenge-and-a-journey-43m)
+- [A Developer&#39;s Roadmap for 2025👩🏼‍💻!](https://dev.to/respect17/a-developers-roadmap-for-2025-32j4)
+- [Automating Debian Package Update Summaries with Python and Gemini &lpar;gemini-1.5-flash&rpar;](https://dev.to/evertontenorio/automating-debian-package-update-summaries-with-python-and-gemini-gemini-15-flash-1ce5)
+- [How to Deploy Resources on AWS Using Terraform](https://dev.to/irlan_dossantos_9c6c1c92/how-to-deploy-resources-on-aws-using-terraform-3c2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
