@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [82. Remove Duplicates from Sorted List II](https://dev.to/arpitrathore/82-remove-duplicates-from-sorted-list-ii-38df)
-- [19. Remove Nth Node From End of List](https://dev.to/arpitrathore/19-remove-nth-node-from-end-of-list-1iog)
-- [Mastering Daytona Integration in Python: A Detailed Step-by-Step Guide 🚀](https://dev.to/vraj_chaudhari_9ec1858a13/mastering-daytona-integration-in-python-a-detailed-step-by-step-guide-2pe6)
-- [240. Search a 2D Matrix II](https://dev.to/arpitrathore/240-search-a-2d-matrix-ii-1d6p)
-- [Laravel migrations](https://dev.to/anashussain284/laravel-migrations-2nab)
+- [AI in Software Development: Designing Specs with AI for Faster, Accurate Requirements](https://dev.to/getambassador2024/ai-in-software-development-designing-specs-with-ai-for-faster-accurate-requirements-2pdg)
+- [How I Built and Hosted My Own Server Using a Raspberry Pi: Lessons Learned](https://dev.to/mm-japan/how-i-built-and-hosted-my-own-server-using-a-raspberry-pi-lessons-learned-409n)
+- [Advanced Salesforce Access Controls and Permissions for Secure Data](https://dev.to/saurabh-dhariwal/advanced-salesforce-access-controls-and-permissions-for-secure-data-1obf)
+- [Is it possible to upload a file to a database in Next.js?](https://dev.to/thinkthroo/is-it-possible-to-upload-a-file-to-a-database-in-nextjs-336k)
+- [Jamu Tradisional untuk Kesehatan Vagina: Solusi Alami yang Menarik Dicoba](https://dev.to/jamutradisional/jamu-tradisional-untuk-kesehatan-vagina-solusi-alami-yang-menarik-dicoba-3o85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
