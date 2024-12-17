@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Software Development: Designing Specs with AI for Faster, Accurate Requirements](https://dev.to/getambassador2024/ai-in-software-development-designing-specs-with-ai-for-faster-accurate-requirements-2pdg)
-- [How I Built and Hosted My Own Server Using a Raspberry Pi: Lessons Learned](https://dev.to/mm-japan/how-i-built-and-hosted-my-own-server-using-a-raspberry-pi-lessons-learned-409n)
-- [Advanced Salesforce Access Controls and Permissions for Secure Data](https://dev.to/saurabh-dhariwal/advanced-salesforce-access-controls-and-permissions-for-secure-data-1obf)
-- [Is it possible to upload a file to a database in Next.js?](https://dev.to/thinkthroo/is-it-possible-to-upload-a-file-to-a-database-in-nextjs-336k)
-- [Jamu Tradisional untuk Kesehatan Vagina: Solusi Alami yang Menarik Dicoba](https://dev.to/jamutradisional/jamu-tradisional-untuk-kesehatan-vagina-solusi-alami-yang-menarik-dicoba-3o85)
+- [Understanding Privilege Escalation in Linux: Threats, Techniques, and Prevention](https://dev.to/iammikeade/understanding-privilege-escalation-in-linux-threats-techniques-and-prevention-3613)
+- [How to dockerize a C++ application?](https://dev.to/pikotutorial/how-to-dockerize-a-c-application-2mea)
+- [On Choosing Your Complexity](https://dev.to/jeastham1993/on-choosing-your-complexity-1k6n)
+- [Shu Ha Ri: A Journey Toward Agile Mastery](https://dev.to/onepoint/shu-ha-ri-a-journey-toward-agile-mastery-18nh)
+- [What is Evan You doing by creating VoidZero, and what are the issues with JS toolchains?](https://dev.to/fupeng_wang/what-is-evan-you-doing-by-creating-voidzero-and-what-are-the-issues-with-js-toolchains-149p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
