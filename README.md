@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an Application Without SQL Server Database &lpar;Avoiding RPrometheusedis, MongoDB, and &rpar;](https://dev.to/angelica_romero/build-an-application-without-sql-server-database-avoiding-rprometheusedis-mongodb-and--3ko7)
-- [Security🔒](https://dev.to/taariqelliott/security-2b3d)
-- [🚀 Tailwind CSS v4: What is New](https://dev.to/tzador/tailwind-css-v4-what-is-new-137k)
-- [Postgres TypeScript bindings for &quot;stored procedures&quot;](https://dev.to/aleclarson/postgres-typescript-bindings-for-stored-procedures-56m8)
-- [Devops tools](https://dev.to/impo/devops-tools-e9b)
+- [Day 17: Github Actions](https://dev.to/code42cate/day-16-github-actions-15bn)
+- [Microservices vs Monoliths: The Battle of Architectures!](https://dev.to/norbs/microservices-vs-monoliths-the-battle-of-architectures-2i9)
+- [Cómo Crear Tu Primer Paquete y publicarlo en NPM](https://dev.to/lfernand_cs/como-crear-tu-primer-paquete-y-publicarlo-en-npm-5hhm)
+- [Building an App with a Cloud NoSQL Database &lpar;Avoiding DynamoDB or Cosmos DB&rpar;](https://dev.to/angelica_romero/building-an-app-with-a-cloud-nosql-database-avoiding-dynamodb-or-cosmos-db-jkf)
+- [The Kth factor of N - an O&lpar;sqrt n&rpar; algorithm](https://dev.to/alvbarros/the-kth-factor-of-n-an-osqrt-n-algorithm-4ce0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
