@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 17: Terminal Links &amp; Other Escapes 🔗](https://dev.to/valeriavg/day-17-links-other-escapes-3hbb)
-- [React Hooks Flow: A Deep Dive](https://dev.to/saimaheshwarreddy/react-hooks-flow-a-deep-dive-1f73)
-- [Day - 4 Task](https://dev.to/saravanan_477814b61087a66/day-4-task-4m81)
-- [Understanding Machine Learning Model Types: A Practical Guide &lpar;3&rpar;](https://dev.to/foyzulkarim/understanding-machine-learning-model-types-a-practical-guide-294e)
-- [How to Create a QR Code Reader or Scanner with API Using HTML, CSS, and JavaScript](https://dev.to/sharathchandark/how-to-create-a-qr-code-reader-or-scanner-with-api-using-html-css-and-javascript-1682)
+- [82. Remove Duplicates from Sorted List II](https://dev.to/arpitrathore/82-remove-duplicates-from-sorted-list-ii-38df)
+- [19. Remove Nth Node From End of List](https://dev.to/arpitrathore/19-remove-nth-node-from-end-of-list-1iog)
+- [Mastering Daytona Integration in Python: A Detailed Step-by-Step Guide 🚀](https://dev.to/vraj_chaudhari_9ec1858a13/mastering-daytona-integration-in-python-a-detailed-step-by-step-guide-2pe6)
+- [240. Search a 2D Matrix II](https://dev.to/arpitrathore/240-search-a-2d-matrix-ii-1d6p)
+- [Laravel migrations](https://dev.to/anashussain284/laravel-migrations-2nab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
