@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Decorators &amp; Class Property in Python](https://dev.to/klaftech/decorators-class-property-in-python-14fa)
-- [Force refresh of custom scripts in Power Platform model-driven apps](https://dev.to/kkazala/force-refresh-of-custom-scripts-in-model-driven-1i8a)
-- [Create an Admin Panel for your project in 5 minutes](https://dev.to/arthur-vdr/create-an-admin-panel-for-your-project-in-5-minutes-2eho)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-k6m)
-- [Ugly Sweater CSS: Echo Base](https://dev.to/jarvisscript/ugly-sweater-css-echo-base-5hdj)
+- [Is Clean Code really practical?](https://dev.to/chanh_le/is-clean-code-really-practical-10ha)
+- [Launching AI Prototyping Projects](https://dev.to/leading-edje/launching-ai-prototyping-projects-2d8n)
+- [Implementing camera functionality in React Native](https://dev.to/logrocket/implementing-camera-functionality-in-react-native-k7)
+- [Mastering Cross-Platform Development with .NET 9: New Features and Enhanced Support](https://dev.to/leandroveiga/mastering-cross-platform-development-with-net-9-new-features-and-enhanced-support-1pli)
+- [Laravel in 2025](https://dev.to/burtds/laravel-in-2025-41bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
