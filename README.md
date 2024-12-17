@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Functional Programming, and How Can You Do It in JavaScript?](https://dev.to/arvindkhadri/what-is-functional-programming-and-how-can-you-do-it-in-javascript-25j0)
-- [Introduction to Apache Camel K: Solving Integration Challenges](https://dev.to/igventurelli/introduction-to-apache-camel-k-solving-integration-challenges-1586)
-- [Hoppscotch vs. Postman: a guide to open source API testing](https://dev.to/logrocket/hoppscotch-vs-postman-a-guide-to-open-source-api-testing-2f51)
-- [👋🏻Goodbye Power BI! 📊 In 2025 Build AI/ML Dashboards Entirely Within Python 🤖](https://dev.to/taipy/goodbye-power-bi-in-2025-build-aiml-dashboards-entirely-within-python-4l22)
-- [Top 10 Cloud Security Industry Certifications](https://dev.to/clouddefenseai/top-10-cloud-security-industry-certifications-2d5n)
+- [🎥🖐🎥🖐 New Video GenAI with Better Rendering of Hands --&gt; Instructional Video Generation 🎥🖐🎥🖐](https://dev.to/jasoncorso/new-video-genai-with-better-rendering-of-hands-instructional-video-generation-23po)
+- [The Hidden Costs of Sticking to OpenAI &lpar;and What to Do Instead&rpar;](https://dev.to/airabbit/the-hidden-costs-of-sticking-to-openai-and-what-to-do-instead-1m4p)
+- [Text messaging is a common way for healthcare providers and patients to communicate, and can be used for many purposes](https://dev.to/smith2003/text-messaging-is-a-common-way-for-healthcare-providers-and-patients-to-communicate-and-can-be-5dc6)
+- [react](https://dev.to/shiva_ks_6241b52ef0d81711/react-2o5a)
+- [Week 2 done 🚀](https://dev.to/ishan_siddhartha/week-2-done-385)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
