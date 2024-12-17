@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 🌟 Why Rust is the Next Big Thing in Programming 🔥](https://dev.to/hanzla-baig/why-rust-is-the-next-big-thing-in-programming-4mnc)
-- [Day 23 Journal](https://dev.to/vinnugollakoti/day-23-journal-5539)
-- [Day 22 Journal](https://dev.to/vinnugollakoti/day-22-journal-45m6)
-- [Day 21 journal](https://dev.to/vinnugollakoti/day-21-journal-21ba)
-- [Day 20 Journal](https://dev.to/vinnugollakoti/day-20-journal-3hfe)
+- [Day 52 Journal](https://dev.to/vinnugollakoti/day-52-journal-9hk)
+- [Day 51 Journal](https://dev.to/vinnugollakoti1/day-51-journal-5a9j)
+- [☃️❄️Winter Solstice Web: A Winter Solistice-Inspired Webpage❄️☃️](https://dev.to/divya4879/winter-solstice-web-a-winter-solistice-inspired-webpage-3d82)
+- [Day 48 Journal](https://dev.to/vinnugollakoti1/day-48-journal-3epm)
+- [Day 10 Task:](https://dev.to/reegan/day-10-task-3ed5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
