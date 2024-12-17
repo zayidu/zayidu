@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Search Feature](https://dev.to/hoaitx/semantic-search-feature-4lbh)
-- [🌐 5 Steps to Debugging a Slow API: Ultimate Guide to Speed and Performance🌟 🚀](https://dev.to/hanzla-baig/5-steps-to-debugging-a-slow-api-ultimate-guide-to-speed-and-performance-3ceh)
-- [solana 获取钱包token余额，及优化](https://dev.to/xiaodao/solana-huo-qu-qian-bao-tokenyu-e-ji-you-hua-3enb)
-- [solana是如何算seed地址](https://dev.to/xiaodao/solanashi-ru-he-suan-seeddi-zhi-d6p)
-- [Outlook tìm mail nhận trong khoảng thời gian xác định](https://dev.to/longtth/outlook-tim-mail-nhan-trong-khoang-thoi-gian-xac-dinh-102l)
+- [🚀 🌟 Why Rust is the Next Big Thing in Programming 🔥](https://dev.to/hanzla-baig/why-rust-is-the-next-big-thing-in-programming-4mnc)
+- [Day 23 Journal](https://dev.to/vinnugollakoti/day-23-journal-5539)
+- [Day 22 Journal](https://dev.to/vinnugollakoti/day-22-journal-45m6)
+- [Day 21 journal](https://dev.to/vinnugollakoti/day-21-journal-21ba)
+- [Day 20 Journal](https://dev.to/vinnugollakoti/day-20-journal-3hfe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
