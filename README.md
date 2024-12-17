@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎥🖐🎥🖐 New Video GenAI with Better Rendering of Hands --&gt; Instructional Video Generation 🎥🖐🎥🖐](https://dev.to/jasoncorso/new-video-genai-with-better-rendering-of-hands-instructional-video-generation-23po)
-- [The Hidden Costs of Sticking to OpenAI &lpar;and What to Do Instead&rpar;](https://dev.to/airabbit/the-hidden-costs-of-sticking-to-openai-and-what-to-do-instead-1m4p)
-- [Text messaging is a common way for healthcare providers and patients to communicate, and can be used for many purposes](https://dev.to/smith2003/text-messaging-is-a-common-way-for-healthcare-providers-and-patients-to-communicate-and-can-be-5dc6)
-- [react](https://dev.to/shiva_ks_6241b52ef0d81711/react-2o5a)
-- [Week 2 done 🚀](https://dev.to/ishan_siddhartha/week-2-done-385)
+- [Decorators &amp; Class Property in Python](https://dev.to/klaftech/decorators-class-property-in-python-14fa)
+- [Force refresh of custom scripts in Power Platform model-driven apps](https://dev.to/kkazala/force-refresh-of-custom-scripts-in-model-driven-1i8a)
+- [Create an Admin Panel for your project in 5 minutes](https://dev.to/arthur-vdr/create-an-admin-panel-for-your-project-in-5-minutes-2eho)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-k6m)
+- [Ugly Sweater CSS: Echo Base](https://dev.to/jarvisscript/ugly-sweater-css-echo-base-5hdj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
