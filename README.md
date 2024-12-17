@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Privilege Escalation in Linux: Threats, Techniques, and Prevention](https://dev.to/iammikeade/understanding-privilege-escalation-in-linux-threats-techniques-and-prevention-3613)
-- [How to dockerize a C++ application?](https://dev.to/pikotutorial/how-to-dockerize-a-c-application-2mea)
-- [On Choosing Your Complexity](https://dev.to/jeastham1993/on-choosing-your-complexity-1k6n)
-- [Shu Ha Ri: A Journey Toward Agile Mastery](https://dev.to/onepoint/shu-ha-ri-a-journey-toward-agile-mastery-18nh)
-- [What is Evan You doing by creating VoidZero, and what are the issues with JS toolchains?](https://dev.to/fupeng_wang/what-is-evan-you-doing-by-creating-voidzero-and-what-are-the-issues-with-js-toolchains-149p)
+- [31st day of my CP journey](https://dev.to/prasanna2910/31st-day-of-my-cp-journey-4l62)
+- [Today Task](https://dev.to/pavitra_aravind_3d319916a/today-task-4aae)
+- [LeetCode: Removing Adjacent Duplicates in a String](https://dev.to/matan3sh/leetcode-removing-adjacent-duplicates-in-a-string-jp8)
+- [Augmented Teams and The Impact of Skill Gaps on Hiring Decisions](https://dev.to/alona_instandart/augmented-teams-and-the-impact-of-skill-gaps-on-hiring-decisions-43cd)
+- [The Hackathon That Nearly Broke Us](https://dev.to/holygrimm/the-hackathon-that-nearly-broke-us-a4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
