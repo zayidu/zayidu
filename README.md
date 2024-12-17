@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI and All Data Weekly for 16 December 2024](https://dev.to/timothy_spann_a41a639e47c/ai-and-all-data-weekly-for-16-december-2024-35b4)
-- [Dropbox: How to Ignore Users for 10 Years](https://dev.to/melanchall/dropbox-how-to-ignore-users-for-10-years-hdn)
-- [Potenciando Aplicaciones de IA con AWS Bedrock y Streamlit](https://dev.to/fernandosilvot/potenciando-aplicaciones-de-ia-con-aws-bedrock-y-streamlit-4eh8)
-- [🚀Secure API-to-API Communication with HMAC: Implementation using NestJS, AWS, and Postman🔥](https://dev.to/kishanhimself/secure-api-to-api-communication-with-hmac-implementation-using-nestjs-aws-and-postman-38pd)
-- [🚨 5 Common Backend Mistakes to Avoid! 🚨](https://dev.to/full_stack_fusion/5-common-backend-mistakes-to-avoid-274f)
+- [Mastering call&lpar;&rpar;, apply&lpar;&rpar;, and bind&lpar;&rpar; in JavaScript: Controlling this](https://dev.to/abhay_yt_52a8e72b213be229/mastering-call-apply-and-bind-in-javascript-controlling-this-2fe5)
+- [Adicionando Vídeos em HTML](https://dev.to/udanielnogueira/adicionando-videos-em-html-1gi)
+- [225. Implement Stack using Queues](https://dev.to/arpitrathore/225-implement-stack-using-queues-1cjm)
+- [Understanding setTimeout and setInterval in JavaScript: Time-based Execution](https://dev.to/abhay_yt_52a8e72b213be229/understanding-settimeout-and-setinterval-in-javascript-time-based-execution-29ac)
+- [Mastering WeakMap and WeakSet in JavaScript: Efficient Memory Management](https://dev.to/abhay_yt_52a8e72b213be229/mastering-weakmap-and-weakset-in-javascript-efficient-memory-management-2pgc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
