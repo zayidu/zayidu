@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [31st day of my CP journey](https://dev.to/prasanna2910/31st-day-of-my-cp-journey-4l62)
-- [Today Task](https://dev.to/pavitra_aravind_3d319916a/today-task-4aae)
-- [LeetCode: Removing Adjacent Duplicates in a String](https://dev.to/matan3sh/leetcode-removing-adjacent-duplicates-in-a-string-jp8)
-- [Augmented Teams and The Impact of Skill Gaps on Hiring Decisions](https://dev.to/alona_instandart/augmented-teams-and-the-impact-of-skill-gaps-on-hiring-decisions-43cd)
-- [The Hackathon That Nearly Broke Us](https://dev.to/holygrimm/the-hackathon-that-nearly-broke-us-a4d)
+- [The Role of AI in Software Testing: Applications, Use Cases, and Benefits](https://dev.to/sachinrawa73828/the-role-of-ai-in-software-testing-applications-use-cases-and-benefits-hd)
+- [Staging vs Production: Understanding the Key Differences](https://dev.to/keploy/staging-vs-production-understanding-the-key-differences-3gc5)
+- [From Concept to Launch: 9 Product Management Frameworks for Creating Winning Products](https://dev.to/dchucks/from-concept-to-launch-9-product-management-frameworks-for-creating-winning-products-8g0)
+- [From Freelancer to CTO: A new chapter](https://dev.to/blkkkbvsik/from-freelancer-to-cto-a-new-chapter-5827)
+- [Biotech and Health Tech](https://dev.to/namratahinduja/biotech-and-health-tech-3kn5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
