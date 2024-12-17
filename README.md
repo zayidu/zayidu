@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Won’t Take Your Job—But People Who Use AI Will.](https://dev.to/solih_lawal_b3a683e907714/ai-wont-take-your-job-but-people-who-use-ai-will-9hb)
-- [Algorithmic Concepts in MongoDB Design](https://dev.to/frorning/algorithmic-concepts-in-mongodb-design-n5)
-- [How to access singleton methods and properties from another js file using normal javascript code](https://dev.to/thirugnanam_srinivasan_de/how-to-access-singleton-methods-and-properties-from-another-js-file-using-normal-javascript-code-45n5)
-- [Building an Effective Machine Learning Pipeline for Fraud Prevention](https://dev.to/lokeshjoshi/building-an-effective-machine-learning-pipeline-for-fraud-prevention-4484)
-- [ExpressJS Performance Optimization: Top Best Practices to Consider in 2025](https://dev.to/dhruvil_joshi14/expressjs-performance-optimization-top-best-practices-to-consider-in-2025-2k6k)
+- [🚀 Your Daily Crypto Job Digest For 17 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-17-december-2ko4)
+- [Multi-Agent RAG application with QA based on Internet Search and Proprietary Docs](https://dev.to/aknox/multi-agent-rag-application-with-qa-based-on-internet-search-and-proprietary-docs-4ffh)
+- [Understanding the this Keyword in JavaScript](https://dev.to/abhay_yt_52a8e72b213be229/understanding-the-this-keyword-in-javascript-53cp)
+- [Data Analyst Career: An Overview of Freelance Data Analysts](https://dev.to/pangaea_x/data-analyst-career-an-overview-of-freelance-data-analysts-28dn)
+- [Mastering Scope and Lexical Scope in JavaScript](https://dev.to/abhay_yt_52a8e72b213be229/mastering-scope-and-lexical-scope-in-javascript-3dm8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
