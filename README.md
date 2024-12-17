@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of AI in Software Testing: Applications, Use Cases, and Benefits](https://dev.to/sachinrawa73828/the-role-of-ai-in-software-testing-applications-use-cases-and-benefits-hd)
-- [Staging vs Production: Understanding the Key Differences](https://dev.to/keploy/staging-vs-production-understanding-the-key-differences-3gc5)
-- [From Concept to Launch: 9 Product Management Frameworks for Creating Winning Products](https://dev.to/dchucks/from-concept-to-launch-9-product-management-frameworks-for-creating-winning-products-8g0)
-- [From Freelancer to CTO: A new chapter](https://dev.to/blkkkbvsik/from-freelancer-to-cto-a-new-chapter-5827)
-- [Biotech and Health Tech](https://dev.to/namratahinduja/biotech-and-health-tech-3kn5)
+- [Clean Code Essentials: YAGNI, KISS, and DRY in Software Engineering](https://dev.to/juniourrau/clean-code-essentials-yagni-kiss-and-dry-in-software-engineering-4i3j)
+- [Mastering Concurrency and Parallelism in TypeScript](https://dev.to/shafayeat/mastering-concurrency-and-parallelism-in-typescript-1bgf)
+- [Streamlining Enterprise Demands: Selecting the Ideal Cloud Test Automation &amp; Infrastructure Platform](https://dev.to/testifytech/streamlining-enterprise-demands-selecting-the-ideal-cloud-test-automation-infrastructure-platform-4eod)
+- [AWS Cloud Clubs: Building Skills, Networks, and Careers in Cloud Computing](https://dev.to/marsproxies/aws-cloud-clubs-building-skills-networks-and-careers-in-cloud-computing-1k9o)
+- [Bare Metal Provisioning Consulting Services Experts](https://dev.to/infracloud/bare-metal-provisioning-consulting-services-experts-ll9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
