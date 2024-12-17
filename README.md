@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I think these are valid reasons! I think the same but many times I told it to someone it was snatched from the table by TS hype.](https://dev.to/stma/i-think-these-are-valid-reasons-i-think-the-same-but-many-times-i-told-it-to-someone-it-was-1lkf)
-- [Load Balancer](https://dev.to/salman_khan_c31307505285e/load-balancer-4lmm)
-- [Understanding Hash Functions: MD5, SHA1, SHA256, and SHA512 Explained](https://dev.to/tooleroid/understanding-hash-functions-md5-sha1-sha256-and-sha512-explained-28ne)
-- [Understanding EXIF Metadata: The Complete Guide to Digital Image Information](https://dev.to/tooleroid/understanding-exif-metadata-the-complete-guide-to-digital-image-information-2a5n)
-- [Mastering Unit Conversions: A Complete Guide to Measurement Systems](https://dev.to/tooleroid/mastering-unit-conversions-a-complete-guide-to-measurement-systems-3ifb)
+- [Getting Started with Flowcharts: Basic Components and Practical Examples](https://dev.to/finfin/getting-started-with-flowcharts-basic-components-and-practical-examples-4aj4)
+- [Respect for Clean Code](https://dev.to/kirgo/respect-for-clean-code-5g4h)
+- [Continous Integration And Continous Deployment Of A Full-Stack Docker-Compose Application](https://dev.to/yutee_okon/continous-integration-and-continous-deployment-of-a-full-stack-docker-compose-application-1f89)
+- [When Embedded AuthN Meets Embedded AuthZ - Building Multi-Tenant Apps With Better-Auth and ZenStack](https://dev.to/zenstack/when-embedded-authn-meets-embedded-authz-building-multi-tenant-apps-with-better-auth-and-zenstack-1ngi)
+- [Simplify IoT Device Updates with Azure Device Update for IoT Hub](https://dev.to/marcelo_luna_fa19f220da0b/simplify-iot-device-updates-with-azure-device-update-for-iot-hub-434p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
