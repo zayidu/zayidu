@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build TUI application with GO &lpar;tview&rpar;](https://dev.to/bekbrace/build-tui-application-with-go-tview-l18)
-- [Reverse IP Lookup REST APIs: A Deep Dive into Use Cases for Cybersecurity](https://dev.to/devapis/reverse-ip-lookup-rest-apis-a-deep-dive-into-use-cases-for-cybersecurity-5epd)
-- [Config-file-validator v1.8.0 released!](https://dev.to/kehoecj/config-file-validator-v180-released-4pdn)
-- [My Python Journey](https://dev.to/prosper_ezekiel_b3b92bdaa/my-python-journey-689)
-- [Integrate the zip.zax Sales Tax API in Your Golang App](https://dev.to/humanintelligence/integrate-the-ziptax-sales-tax-api-in-your-golang-app-55i2)
+- [Azure Event Grid: Simplifying Event-Driven Architectures](https://dev.to/dazevedo/azure-event-grid-simplifying-event-driven-architectures-318l)
+- [Making Accessible Links in SwiftUI](https://dev.to/intuitdev/making-accessible-links-in-swiftui-3l5g)
+- [Our Story of Building an Open-Core PM tool: Growing from 2 to 30 People, 30K+ GitHub Stars, to 500K+ Docker pulls](https://dev.to/vihar/our-story-of-building-an-open-core-pm-tool-growing-from-2-to-30-people-30k-github-stars-to-38pi)
+- [How to setup your Wallet with Mina Blockchain](https://dev.to/muzir_adeniran_56c85ff342/how-to-setup-your-wallet-with-mina-blockchain-1ifg)
+- [Integrate the zip.zax Sales Tax API in Your Python App](https://dev.to/humanintelligence/integrate-the-zipzax-sales-tax-api-in-your-python-app-15im)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
