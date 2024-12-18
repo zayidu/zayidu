@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Discord bots were hard. I made it easier](https://dev.to/mileswk/python-discord-bots-were-hard-i-made-it-easier-347k)
-- [Kubernetes](https://dev.to/neil_farmer_0d63a71f034ab/kubernetes-1m3)
-- [Async Local Storage is Here to Help You](https://dev.to/grzegorz_dubiel_db99203fe/async-local-storage-is-here-to-help-you-47ia)
-- [menu desplegable con icono](https://dev.to/draexx/menu-desplegable-con-icono-5fo1)
-- [Shell Script to get the number of commits in all repositories present in a directory](https://dev.to/laba_kumar_deka/shell-script-to-get-the-number-of-commits-in-all-repositories-present-in-a-directory-4e06)
+- [AI in Continuous Testing: Ensuring Quality in DevOps Pipelines](https://dev.to/radha_4c842d8e4362a7cdd9c/ai-in-continuous-testing-ensuring-quality-in-devops-pipelines-2k0d)
+- [Extract metadata of paper and export it to Notion DB](https://dev.to/kromiii/extract-metadata-of-paper-and-export-it-to-notion-db-3m3l)
+- [WebAssembly + JavaScript: Building a Real-Time Image Processing Tool](https://dev.to/vladislav_v_75b0533bb1e3/webassembly-javascript-building-a-real-time-image-processing-tool-2748)
+- [Extracting Pipefy API data into Power BI with M language](https://dev.to/milenaemmert/extracting-data-from-the-pipefy-api-into-power-bi-with-m-language-l3a)
+- [Simple 1-Minute Guide to add a Back-to-Top Button with Vue 3](https://dev.to/dailysandbox/simple-1-minute-guide-to-add-a-back-to-top-button-with-vue-3-2j59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
