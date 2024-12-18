@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Download and Install FortiClient VPN for Your Windows PC](https://dev.to/msnmongare/how-to-download-and-install-forticlient-vpn-for-your-windows-pc-2g19)
-- [Why Every Developer Should Write Tech Blogs: The Unexpected Benefits](https://dev.to/balrajola/why-every-developer-should-write-tech-blogs-the-unexpected-benefits-i67)
-- [Authorization &lpar;authz&rpar; and GraphQL](https://dev.to/stevenacoffman/authorization-authz-and-graphql-3ag9)
-- [DevOps: The Invisible Heroes](https://dev.to/hotfixhero/devops-the-invisible-heroes-2n2m)
-- [Why Out-of-Band Health Checks Are the Secret to Hassle-Free Maintenance](https://dev.to/ganapathys_ramachandran/why-out-of-band-health-checks-are-the-secret-to-hassle-free-maintenance-8d)
+- [Build TUI application with GO &lpar;tview&rpar;](https://dev.to/bekbrace/build-tui-application-with-go-tview-l18)
+- [Reverse IP Lookup REST APIs: A Deep Dive into Use Cases for Cybersecurity](https://dev.to/devapis/reverse-ip-lookup-rest-apis-a-deep-dive-into-use-cases-for-cybersecurity-5epd)
+- [Config-file-validator v1.8.0 released!](https://dev.to/kehoecj/config-file-validator-v180-released-4pdn)
+- [My Python Journey](https://dev.to/prosper_ezekiel_b3b92bdaa/my-python-journey-689)
+- [Integrate the zip.zax Sales Tax API in Your Golang App](https://dev.to/humanintelligence/integrate-the-ziptax-sales-tax-api-in-your-golang-app-55i2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
