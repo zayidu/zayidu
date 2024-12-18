@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 17: Github Actions](https://dev.to/code42cate/day-16-github-actions-15bn)
-- [Microservices vs Monoliths: The Battle of Architectures!](https://dev.to/norbs/microservices-vs-monoliths-the-battle-of-architectures-2i9)
-- [Cómo Crear Tu Primer Paquete y publicarlo en NPM](https://dev.to/lfernand_cs/como-crear-tu-primer-paquete-y-publicarlo-en-npm-5hhm)
-- [Building an App with a Cloud NoSQL Database &lpar;Avoiding DynamoDB or Cosmos DB&rpar;](https://dev.to/angelica_romero/building-an-app-with-a-cloud-nosql-database-avoiding-dynamodb-or-cosmos-db-jkf)
-- [The Kth factor of N - an O&lpar;sqrt n&rpar; algorithm](https://dev.to/alvbarros/the-kth-factor-of-n-an-osqrt-n-algorithm-4ce0)
+- [Python Discord bots were hard. I made it easier](https://dev.to/mileswk/python-discord-bots-were-hard-i-made-it-easier-347k)
+- [Kubernetes](https://dev.to/neil_farmer_0d63a71f034ab/kubernetes-1m3)
+- [Async Local Storage is Here to Help You](https://dev.to/grzegorz_dubiel_db99203fe/async-local-storage-is-here-to-help-you-47ia)
+- [menu desplegable con icono](https://dev.to/draexx/menu-desplegable-con-icono-5fo1)
+- [Shell Script to get the number of commits in all repositories present in a directory](https://dev.to/laba_kumar_deka/shell-script-to-get-the-number-of-commits-in-all-repositories-present-in-a-directory-4e06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
