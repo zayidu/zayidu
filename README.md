@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Leverage ChatGPT for Personalized Customer Engagement](https://dev.to/aliiii/how-to-leverage-chatgpt-for-personalized-customer-engagement-480j)
-- [Hacking the Python Import System and Rewriting the AST For Durable Execution](https://dev.to/haimzlato/hacking-the-import-system-and-rewriting-the-ast-for-durable-execution-5fc9)
-- [How to connect to AWS OpenSearch or Elasticsearch clusters using python](https://dev.to/derlin/how-to-connect-to-aws-opensearch-or-elasticsearch-clusters-using-python-1942)
-- [Local Langflow - A vector RAG application running locally](https://dev.to/aknox/local-langflow-a-vector-rag-application-running-locally-c52)
-- [将中文txt文档转为PDF](https://dev.to/dragon72463399/jiang-zhong-wen-txtwen-dang-zhuan-wei-pdf-14jd)
+- [Building a tool that transforms modern websites into authentic 90s-style designs using AI/ML API](https://dev.to/abdibrokhim/building-a-tool-that-transforms-modern-websites-into-authentic-90s-style-designs-using-aiml-api-5ame)
+- [Apply CSS in Next.js with StayedCSS](https://dev.to/vectordxy/apply-css-with-stayedcss-in-nextjs-3581)
+- [🌷Creating a Gallery App in JavaScript with HMPL](https://dev.to/anthonymax/creating-a-gallery-app-in-javascript-with-hmpl-40if)
+- [Tareas repetitivas](https://dev.to/jos_manueltena_5d455d4d/tareas-repetitivas-1eok)
+- [Find and Fix N+1 Queries in Django Using AppSignal](https://dev.to/appsignal/find-and-fix-n1-queries-in-django-using-appsignal-4d10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
