@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [findElement and findElements in Selenium: Use Cases with Examples](https://dev.to/satya_prakash/findelement-and-findelements-in-selenium-use-cases-with-examples-5c31)
-- [PROJECT-991 &lpar; MASH AI &rpar;](https://dev.to/mayankchawdhari/project-991-mash-ai--566f)
-- [Funny-Captcha Web](https://dev.to/mayankchawdhari/funny-captcha-web-2jod)
-- [CID-FUNNY-LOGIN](https://dev.to/mayankchawdhari/cid-funny-login-4455)
-- [PopupPro JS Module](https://dev.to/mayankchawdhari/popuppro-js-module-6jp)
+- [How to Leverage ChatGPT for Personalized Customer Engagement](https://dev.to/aliiii/how-to-leverage-chatgpt-for-personalized-customer-engagement-480j)
+- [Hacking the Python Import System and Rewriting the AST For Durable Execution](https://dev.to/haimzlato/hacking-the-import-system-and-rewriting-the-ast-for-durable-execution-5fc9)
+- [How to connect to AWS OpenSearch or Elasticsearch clusters using python](https://dev.to/derlin/how-to-connect-to-aws-opensearch-or-elasticsearch-clusters-using-python-1942)
+- [Local Langflow - A vector RAG application running locally](https://dev.to/aknox/local-langflow-a-vector-rag-application-running-locally-c52)
+- [将中文txt文档转为PDF](https://dev.to/dragon72463399/jiang-zhong-wen-txtwen-dang-zhuan-wei-pdf-14jd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
