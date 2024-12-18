@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DAY 17 Solving Math-Based Problems with Precision](https://dev.to/somuya_khandelwal/day-17-solving-math-based-problems-with-precision-2p5j)
-- [DAY 16 Strengthening Array Problem-Solving Skills](https://dev.to/somuya_khandelwal/day-16-strengthening-array-problem-solving-skills-4d3b)
-- [AWS Landing Zone - AWS Services](https://dev.to/axeldlv/aws-landing-zone-aws-services-4og6)
-- [React](https://dev.to/professor12/react-30fg)
-- [Yet another Angular article, part 5 : output](https://dev.to/benjamin_richard/yet-another-angular-article-part-5-output-h46)
+- [Determine whether to filter again based on the situation in the filtered result set #92](https://dev.to/esproc_spl/determine-whether-to-filter-again-based-on-the-situation-in-the-filtered-result-set-92-4kp9)
+- [They Stopped Using Load Tests - And Here Is Why](https://dev.to/metis/they-stopped-using-load-tests-and-here-is-why-276e)
+- [Amazon Q Developer Tips: No.18 Amazon Q Developer Agents - /dev](https://dev.to/aws/amazon-q-developer-tips-no18-amazon-q-developer-agents-dev-1i0)
+- [Une approche sociale de la notion de développeur](https://dev.to/onepoint/une-approche-sociale-de-la-notion-de-developpeur-501o)
+- [Top 10 IntelliJ IDEA Plugins to Boost Development Efficiency in 2024](https://dev.to/auden/top-10-intellij-idea-plugins-to-boost-development-efficiency-in-2024-1o9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
