@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React libraries for building forms and surveys](https://dev.to/logrocket/react-libraries-for-building-forms-and-surveys-2ejp)
-- [What Is Zero Trust Architecture – The Complete Guide](https://dev.to/clouddefenseai/what-is-zero-trust-architecture-the-complete-guide-1il9)
-- [🗞 Rapyd Developer Newsletter: December 2024 💰 From API Security to Global FX: Must-Know Dev Tools This Month](https://dev.to/rapyd/rapyd-developer-newsletter-november-2024-from-api-security-to-global-fx-must-know-dev-tools-3116)
-- [How to Find the Security Identifier &lpar;SID&rpar; of a User in Windows 11?](https://dev.to/win11verse/how-to-find-the-security-identifier-sid-of-a-user-in-windows-11-5hbk)
-- [Using TeeChart in Vector Magnetics’ RivCross Software for Precise Directional Drilling](https://dev.to/steema/using-teechart-in-vector-magnetics-rivcross-software-for-precise-directional-drilling-3be4)
+- [Tried Phi-4, It didn&#39;t Impress](https://dev.to/maximsaplin/tried-phi-4-it-didnt-impress-27oc)
+- [Test post!](https://dev.to/ben/test-post-269h)
+- [Part 3 is FINALLY out!! come check it!!](https://dev.to/lorebrada00/part-3-is-finally-out-come-check-it-10ha)
+- [Mastering Essential Software Architecture Patterns: A Comprehensive Guide🛠️, Part 3](https://dev.to/cortexflow/mastering-essential-software-architecture-patterns-a-comprehensive-guide-part-3-50o9)
+- [Python Unleashed: Three Cutting-Edge Learning Paths for Modern Developers](https://dev.to/getvm/python-unleashed-three-cutting-edge-learning-paths-for-modern-developers-ibi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
