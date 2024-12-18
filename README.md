@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DAY 11 Exploring 1D Dynamic Programming](https://dev.to/somuya_khandelwal/day-11-exploring-1d-dynamic-programming-5bdf)
-- [Mastering XMLHttpRequest: A Guide to AJAX Calls in JavaScript](https://dev.to/abhay_yt_52a8e72b213be229/mastering-xmlhttprequest-a-guide-to-ajax-calls-in-javascript-1717)
-- [Day 10 Diving Into Dynamic Programming](https://dev.to/somuya_khandelwal/day-10-diving-into-dynamic-programming-597a)
-- [JavaScript and Animations: Choosing Between CSS and JavaScript for Stunning Effects](https://dev.to/abhay_yt_52a8e72b213be229/javascript-and-animations-choosing-between-css-and-javascript-for-stunning-effects-3oj8)
-- [Neuer: Redefining Separation of Concerns While Everyone Else Rebuilds the Empire](https://dev.to/ryo_suwito/neuer-redefining-separation-of-concerns-while-everyone-else-rebuilds-the-empire-18b6)
+- [Understanding Unique Keys in SQL: Ensuring Data Integrity](https://dev.to/abhay_yt_52a8e72b213be229/understanding-unique-keys-in-sql-ensuring-data-integrity-2n5m)
+- [Understanding the Difference Between WHERE and HAVING in SQL](https://dev.to/abhay_yt_52a8e72b213be229/understanding-the-difference-between-where-and-having-in-sql-383h)
+- [Practical Solutions with Node.js and JavaScript](https://dev.to/khushar_waseem_60619574b9/practical-solutions-with-nodejs-and-javascript-2dia)
+- [Mastering the SQL SELECT Statement: A Comprehensive Guide](https://dev.to/abhay_yt_52a8e72b213be229/mastering-the-sql-select-statement-a-comprehensive-guide-18lc)
+- [Understanding DDL, DML, DCL, and TCL in SQL: Key Differences Explained](https://dev.to/abhay_yt_52a8e72b213be229/understanding-ddl-dml-dcl-and-tcl-in-sql-key-differences-explained-4ele)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
