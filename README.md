@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Essential Rules of Hooks in React: How to Use Hooks Properly](https://dev.to/abhay_yt_52a8e72b213be229/the-essential-rules-of-hooks-in-react-how-to-use-hooks-properly-2ih3)
-- [How to evaluate the safety and security of LLM Applications?](https://dev.to/dllewellyn/how-to-evaluate-the-safety-and-security-of-llm-applications-5d2f)
-- [Custom Hooks in React: Reusing Logic Across Components](https://dev.to/abhay_yt_52a8e72b213be229/custom-hooks-in-react-reusing-logic-across-components-41go)
-- [Optimizing React Performance with useCallback: Memoizing Functions to Prevent Unnecessary Re-renders](https://dev.to/abhay_yt_52a8e72b213be229/optimizing-react-performance-with-usecallback-memoizing-functions-to-prevent-unnecessary-re-renders-3687)
-- [AI-Powered PR Review Bot - Looking for Contributors!](https://dev.to/asaf_benshabat_65d1fc6b5/ai-powered-pr-review-bot-looking-for-contributors-4l83)
+- [Puppet Community Townhall Recap](https://dev.to/puppet/puppet-community-townhall-recap-333j)
+- [The Art of Naming in Programming: Why Good Names Matter!](https://dev.to/bakar31/the-art-of-naming-in-programming-why-good-names-matter-5951)
+- [The Three Golden Rules of Successful Product Development](https://dev.to/shrsv/the-three-golden-rules-of-successful-product-development-2dno)
+- [Getting Started with Material-UI &lpar;MUI&rpar; in React: A Complete Guide](https://dev.to/abhay_yt_52a8e72b213be229/getting-started-with-emotion-in-react-a-complete-guide-3gjl)
+- [Extortion Pack](https://dev.to/kkazala/extortion-pack-4k8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
