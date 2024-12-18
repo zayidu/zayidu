@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Continuous Testing: Ensuring Quality in DevOps Pipelines](https://dev.to/radha_4c842d8e4362a7cdd9c/ai-in-continuous-testing-ensuring-quality-in-devops-pipelines-2k0d)
-- [Extract metadata of paper and export it to Notion DB](https://dev.to/kromiii/extract-metadata-of-paper-and-export-it-to-notion-db-3m3l)
-- [WebAssembly + JavaScript: Building a Real-Time Image Processing Tool](https://dev.to/vladislav_v_75b0533bb1e3/webassembly-javascript-building-a-real-time-image-processing-tool-2748)
-- [Extracting Pipefy API data into Power BI with M language](https://dev.to/milenaemmert/extracting-data-from-the-pipefy-api-into-power-bi-with-m-language-l3a)
-- [Simple 1-Minute Guide to add a Back-to-Top Button with Vue 3](https://dev.to/dailysandbox/simple-1-minute-guide-to-add-a-back-to-top-button-with-vue-3-2j59)
+- [What I Learned](https://dev.to/tayodaniel/what-i-learned-hel)
+- [AI Agents: Decoding the Future of Intelligent Automation](https://dev.to/ivansing/ai-agents-decoding-the-future-of-intelligent-automation-2mi)
+- [Understanding Middlewares in Express.js and Their Internal Working](https://dev.to/nishanthan-k/understanding-middlewares-in-expressjs-and-their-internal-working-4ddc)
+- [Birthday Cake Candles - HackerRank Problem Solving](https://dev.to/codeperfectplus/birthday-cake-candles-hackerrank-problem-solving-29af)
+- [Rust for JavaScript Developers: Your First WebAssembly Module](https://dev.to/vladislav_v_75b0533bb1e3/rust-for-javascript-developers-your-first-webassembly-module-1dl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
