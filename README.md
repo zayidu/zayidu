@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Compare Characters in Java](https://dev.to/devnenyasha/how-to-compare-characters-in-java-2nl5)
-- [How Implementing DevOps Helped Cut Our Release Cycle from Months to Days](https://dev.to/mehul_budasana/how-implementing-devops-helped-cut-our-release-cycle-from-months-to-days-44a1)
-- [Cómo subir imágenes de Docker a Azure Container Registry](https://dev.to/asjordi/como-subir-imagenes-de-docker-a-azure-container-registry-2nc5)
-- [Why Teaching AI to Doubt Makes it Smarter 🤖](https://dev.to/adzhydra/why-teaching-ai-to-doubt-makes-it-smarter-5hg2)
-- [Amazon EKS: Simplifying Kubernetes for the Cloud](https://dev.to/aws-builders/amazon-eks-simplifying-kubernetes-for-the-cloud-3keo)
+- [findElement and findElements in Selenium: Use Cases with Examples](https://dev.to/satya_prakash/findelement-and-findelements-in-selenium-use-cases-with-examples-5c31)
+- [PROJECT-991 &lpar; MASH AI &rpar;](https://dev.to/mayankchawdhari/project-991-mash-ai--566f)
+- [Funny-Captcha Web](https://dev.to/mayankchawdhari/funny-captcha-web-2jod)
+- [CID-FUNNY-LOGIN](https://dev.to/mayankchawdhari/cid-funny-login-4455)
+- [PopupPro JS Module](https://dev.to/mayankchawdhari/popuppro-js-module-6jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
