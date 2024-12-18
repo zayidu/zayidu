@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 18: Got a millisecond? ⏱️](https://dev.to/valeriavg/day-18-got-a-millisecond-1glf)
-- [Welcome Thread - v307](https://dev.to/devteam/welcome-thread-v307-5hbd)
-- [DAY 6 Exploring Matrices with Leetcode Challenges](https://dev.to/somuya_khandelwal/day-6-exploring-matrices-with-leetcode-challenges-432o)
-- [The Competitive Advantage of Adopting a Headless CMS](https://dev.to/nasceniait/the-competitive-advantage-of-adopting-a-headless-cms-2lba)
-- [Welcome to my engineering blog!](https://dev.to/ahmad_tibibi/welcome-to-my-engineering-blog-1j0j)
+- [DAY 11 Exploring 1D Dynamic Programming](https://dev.to/somuya_khandelwal/day-11-exploring-1d-dynamic-programming-5bdf)
+- [Mastering XMLHttpRequest: A Guide to AJAX Calls in JavaScript](https://dev.to/abhay_yt_52a8e72b213be229/mastering-xmlhttprequest-a-guide-to-ajax-calls-in-javascript-1717)
+- [Day 10 Diving Into Dynamic Programming](https://dev.to/somuya_khandelwal/day-10-diving-into-dynamic-programming-597a)
+- [JavaScript and Animations: Choosing Between CSS and JavaScript for Stunning Effects](https://dev.to/abhay_yt_52a8e72b213be229/javascript-and-animations-choosing-between-css-and-javascript-for-stunning-effects-3oj8)
+- [Neuer: Redefining Separation of Concerns While Everyone Else Rebuilds the Empire](https://dev.to/ryo_suwito/neuer-redefining-separation-of-concerns-while-everyone-else-rebuilds-the-empire-18b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
