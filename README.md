@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tried Phi-4, It didn&#39;t Impress](https://dev.to/maximsaplin/tried-phi-4-it-didnt-impress-27oc)
-- [Test post!](https://dev.to/ben/test-post-269h)
-- [Part 3 is FINALLY out!! come check it!!](https://dev.to/lorebrada00/part-3-is-finally-out-come-check-it-10ha)
-- [Mastering Essential Software Architecture Patterns: A Comprehensive Guide🛠️, Part 3](https://dev.to/cortexflow/mastering-essential-software-architecture-patterns-a-comprehensive-guide-part-3-50o9)
-- [Python Unleashed: Three Cutting-Edge Learning Paths for Modern Developers](https://dev.to/getvm/python-unleashed-three-cutting-edge-learning-paths-for-modern-developers-ibi)
+- [Introducing Rails UI Audit](https://dev.to/railsdesigner/introducing-rails-ui-audit-4c9g)
+- [How can technology advancements be leveraged in new product development](https://dev.to/thealgorithm/how-can-technology-advancements-be-leveraged-in-new-product-development-356j)
+- [React Fragments: Grouping Elements Without Extra DOM Nodes](https://dev.to/abhay_yt_52a8e72b213be229/react-fragments-grouping-elements-without-extra-dom-nodes-51n)
+- [A Beginner&#39;s Guide to Secure Cryptocurrency Trading in Poland](https://dev.to/angelika_berd/a-beginners-guide-to-secure-cryptocurrency-trading-in-poland-1afh)
+- [Annotating Functions in Typescript](https://dev.to/ezekiel_77/annotating-functions-in-typescript-3eeg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
