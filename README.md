@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Event Grid: Simplifying Event-Driven Architectures](https://dev.to/dazevedo/azure-event-grid-simplifying-event-driven-architectures-318l)
-- [Making Accessible Links in SwiftUI](https://dev.to/intuitdev/making-accessible-links-in-swiftui-3l5g)
-- [Our Story of Building an Open-Core PM tool: Growing from 2 to 30 People, 30K+ GitHub Stars, to 500K+ Docker pulls](https://dev.to/vihar/our-story-of-building-an-open-core-pm-tool-growing-from-2-to-30-people-30k-github-stars-to-38pi)
-- [How to setup your Wallet with Mina Blockchain](https://dev.to/muzir_adeniran_56c85ff342/how-to-setup-your-wallet-with-mina-blockchain-1ifg)
-- [Integrate the zip.zax Sales Tax API in Your Python App](https://dev.to/humanintelligence/integrate-the-zipzax-sales-tax-api-in-your-python-app-15im)
+- [Top Free Resources to Learn Coding as a Student](https://dev.to/growkon21/top-free-resources-to-learn-coding-as-a-student-lg6)
+- [Day 19: Highlight&#39;em up! 🔖](https://dev.to/valeriavg/day-19-highlightem-up-44c3)
+- [10 Proven Ways to Shield Your Website from Negative SEO in 2024](https://dev.to/negseoexpert/10-proven-ways-to-shield-your-website-from-negative-seo-in-2024-1emk)
+- [🔰Git e Github: Comandos basicos do git](https://dev.to/edineidev/git-e-github-comandos-do-git-e8p)
+- [Building an AI-Optimized Platform on Amazon EKS with NVIDIA NIM and OpenAI Models](https://dev.to/aws-builders/building-an-ai-optimized-platform-on-amazon-eks-with-nvidia-nim-and-openai-models-4lbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
