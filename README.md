@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Determine whether to filter again based on the situation in the filtered result set #92](https://dev.to/esproc_spl/determine-whether-to-filter-again-based-on-the-situation-in-the-filtered-result-set-92-4kp9)
-- [They Stopped Using Load Tests - And Here Is Why](https://dev.to/metis/they-stopped-using-load-tests-and-here-is-why-276e)
-- [Amazon Q Developer Tips: No.18 Amazon Q Developer Agents - /dev](https://dev.to/aws/amazon-q-developer-tips-no18-amazon-q-developer-agents-dev-1i0)
-- [Une approche sociale de la notion de développeur](https://dev.to/onepoint/une-approche-sociale-de-la-notion-de-developpeur-501o)
-- [Top 10 IntelliJ IDEA Plugins to Boost Development Efficiency in 2024](https://dev.to/auden/top-10-intellij-idea-plugins-to-boost-development-efficiency-in-2024-1o9o)
+- [SEO for Developers: Building Web Apps That Rank 🚀](https://dev.to/info_generalhazedawn_a3d/seo-for-developers-building-web-apps-that-rank-l85)
+- [How Can AI Software Solutions Be Integrated into Existing IT Infrastructure?](https://dev.to/marco_luther_4e754f32d75f/how-can-ai-software-solutions-be-integrated-into-existing-it-infrastructure-2o64)
+- [DAY 42 Unveiling Uniqueness with Bit Manipulation](https://dev.to/somuya_khandelwal/day-42-unveiling-uniqueness-with-bit-manipulation-13km)
+- [MongoDB Documents: The Core of Flexible Data Modeling](https://dev.to/abhay_yt_52a8e72b213be229/mongodb-documents-the-core-of-flexible-data-modeling-5c2o)
+- [DAY 41 Exploring Bit Manipulation](https://dev.to/somuya_khandelwal/day-41-exploring-bit-manipulation-1b3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
