@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Puppet Community Townhall Recap](https://dev.to/puppet/puppet-community-townhall-recap-333j)
-- [The Art of Naming in Programming: Why Good Names Matter!](https://dev.to/bakar31/the-art-of-naming-in-programming-why-good-names-matter-5951)
-- [The Three Golden Rules of Successful Product Development](https://dev.to/shrsv/the-three-golden-rules-of-successful-product-development-2dno)
-- [Getting Started with Material-UI &lpar;MUI&rpar; in React: A Complete Guide](https://dev.to/abhay_yt_52a8e72b213be229/getting-started-with-emotion-in-react-a-complete-guide-3gjl)
-- [Extortion Pack](https://dev.to/kkazala/extortion-pack-4k8d)
+- [How to Download and Install FortiClient VPN for Your Windows PC](https://dev.to/msnmongare/how-to-download-and-install-forticlient-vpn-for-your-windows-pc-2g19)
+- [Why Every Developer Should Write Tech Blogs: The Unexpected Benefits](https://dev.to/balrajola/why-every-developer-should-write-tech-blogs-the-unexpected-benefits-i67)
+- [Authorization &lpar;authz&rpar; and GraphQL](https://dev.to/stevenacoffman/authorization-authz-and-graphql-3ag9)
+- [DevOps: The Invisible Heroes](https://dev.to/hotfixhero/devops-the-invisible-heroes-2n2m)
+- [Why Out-of-Band Health Checks Are the Secret to Hassle-Free Maintenance](https://dev.to/ganapathys_ramachandran/why-out-of-band-health-checks-are-the-secret-to-hassle-free-maintenance-8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
