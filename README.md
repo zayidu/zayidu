@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Rails UI Audit](https://dev.to/railsdesigner/introducing-rails-ui-audit-4c9g)
-- [How can technology advancements be leveraged in new product development](https://dev.to/thealgorithm/how-can-technology-advancements-be-leveraged-in-new-product-development-356j)
-- [React Fragments: Grouping Elements Without Extra DOM Nodes](https://dev.to/abhay_yt_52a8e72b213be229/react-fragments-grouping-elements-without-extra-dom-nodes-51n)
-- [A Beginner&#39;s Guide to Secure Cryptocurrency Trading in Poland](https://dev.to/angelika_berd/a-beginners-guide-to-secure-cryptocurrency-trading-in-poland-1afh)
-- [Annotating Functions in Typescript](https://dev.to/ezekiel_77/annotating-functions-in-typescript-3eeg)
+- [The Essential Rules of Hooks in React: How to Use Hooks Properly](https://dev.to/abhay_yt_52a8e72b213be229/the-essential-rules-of-hooks-in-react-how-to-use-hooks-properly-2ih3)
+- [How to evaluate the safety and security of LLM Applications?](https://dev.to/dllewellyn/how-to-evaluate-the-safety-and-security-of-llm-applications-5d2f)
+- [Custom Hooks in React: Reusing Logic Across Components](https://dev.to/abhay_yt_52a8e72b213be229/custom-hooks-in-react-reusing-logic-across-components-41go)
+- [Optimizing React Performance with useCallback: Memoizing Functions to Prevent Unnecessary Re-renders](https://dev.to/abhay_yt_52a8e72b213be229/optimizing-react-performance-with-usecallback-memoizing-functions-to-prevent-unnecessary-re-renders-3687)
+- [AI-Powered PR Review Bot - Looking for Contributors!](https://dev.to/asaf_benshabat_65d1fc6b5/ai-powered-pr-review-bot-looking-for-contributors-4l83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
