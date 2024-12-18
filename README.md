@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned](https://dev.to/tayodaniel/what-i-learned-hel)
-- [AI Agents: Decoding the Future of Intelligent Automation](https://dev.to/ivansing/ai-agents-decoding-the-future-of-intelligent-automation-2mi)
-- [Understanding Middlewares in Express.js and Their Internal Working](https://dev.to/nishanthan-k/understanding-middlewares-in-expressjs-and-their-internal-working-4ddc)
-- [Birthday Cake Candles - HackerRank Problem Solving](https://dev.to/codeperfectplus/birthday-cake-candles-hackerrank-problem-solving-29af)
-- [Rust for JavaScript Developers: Your First WebAssembly Module](https://dev.to/vladislav_v_75b0533bb1e3/rust-for-javascript-developers-your-first-webassembly-module-1dl9)
+- [Day 18: Got a millisecond? ⏱️](https://dev.to/valeriavg/day-18-got-a-millisecond-1glf)
+- [Welcome Thread - v307](https://dev.to/devteam/welcome-thread-v307-5hbd)
+- [DAY 6 Exploring Matrices with Leetcode Challenges](https://dev.to/somuya_khandelwal/day-6-exploring-matrices-with-leetcode-challenges-432o)
+- [The Competitive Advantage of Adopting a Headless CMS](https://dev.to/nasceniait/the-competitive-advantage-of-adopting-a-headless-cms-2lba)
+- [Welcome to my engineering blog!](https://dev.to/ahmad_tibibi/welcome-to-my-engineering-blog-1j0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
