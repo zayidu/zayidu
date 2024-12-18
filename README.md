@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a tool that transforms modern websites into authentic 90s-style designs using AI/ML API](https://dev.to/abdibrokhim/building-a-tool-that-transforms-modern-websites-into-authentic-90s-style-designs-using-aiml-api-5ame)
-- [Apply CSS in Next.js with StayedCSS](https://dev.to/vectordxy/apply-css-with-stayedcss-in-nextjs-3581)
-- [🌷Creating a Gallery App in JavaScript with HMPL](https://dev.to/anthonymax/creating-a-gallery-app-in-javascript-with-hmpl-40if)
-- [Tareas repetitivas](https://dev.to/jos_manueltena_5d455d4d/tareas-repetitivas-1eok)
-- [Find and Fix N+1 Queries in Django Using AppSignal](https://dev.to/appsignal/find-and-fix-n1-queries-in-django-using-appsignal-4d10)
+- [React libraries for building forms and surveys](https://dev.to/logrocket/react-libraries-for-building-forms-and-surveys-2ejp)
+- [What Is Zero Trust Architecture – The Complete Guide](https://dev.to/clouddefenseai/what-is-zero-trust-architecture-the-complete-guide-1il9)
+- [🗞 Rapyd Developer Newsletter: December 2024 💰 From API Security to Global FX: Must-Know Dev Tools This Month](https://dev.to/rapyd/rapyd-developer-newsletter-november-2024-from-api-security-to-global-fx-must-know-dev-tools-3116)
+- [How to Find the Security Identifier &lpar;SID&rpar; of a User in Windows 11?](https://dev.to/win11verse/how-to-find-the-security-identifier-sid-of-a-user-in-windows-11-5hbk)
+- [Using TeeChart in Vector Magnetics’ RivCross Software for Precise Directional Drilling](https://dev.to/steema/using-teechart-in-vector-magnetics-rivcross-software-for-precise-directional-drilling-3be4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
