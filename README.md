@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SEO for Developers: Building Web Apps That Rank 🚀](https://dev.to/info_generalhazedawn_a3d/seo-for-developers-building-web-apps-that-rank-l85)
-- [How Can AI Software Solutions Be Integrated into Existing IT Infrastructure?](https://dev.to/marco_luther_4e754f32d75f/how-can-ai-software-solutions-be-integrated-into-existing-it-infrastructure-2o64)
-- [DAY 42 Unveiling Uniqueness with Bit Manipulation](https://dev.to/somuya_khandelwal/day-42-unveiling-uniqueness-with-bit-manipulation-13km)
-- [MongoDB Documents: The Core of Flexible Data Modeling](https://dev.to/abhay_yt_52a8e72b213be229/mongodb-documents-the-core-of-flexible-data-modeling-5c2o)
-- [DAY 41 Exploring Bit Manipulation](https://dev.to/somuya_khandelwal/day-41-exploring-bit-manipulation-1b3c)
+- [How To Compare Characters in Java](https://dev.to/devnenyasha/how-to-compare-characters-in-java-2nl5)
+- [How Implementing DevOps Helped Cut Our Release Cycle from Months to Days](https://dev.to/mehul_budasana/how-implementing-devops-helped-cut-our-release-cycle-from-months-to-days-44a1)
+- [Cómo subir imágenes de Docker a Azure Container Registry](https://dev.to/asjordi/como-subir-imagenes-de-docker-a-azure-container-registry-2nc5)
+- [Why Teaching AI to Doubt Makes it Smarter 🤖](https://dev.to/adzhydra/why-teaching-ai-to-doubt-makes-it-smarter-5hg2)
+- [Amazon EKS: Simplifying Kubernetes for the Cloud](https://dev.to/aws-builders/amazon-eks-simplifying-kubernetes-for-the-cloud-3keo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
