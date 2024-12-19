@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Giphy to Tenor API Migration Guide](https://dev.to/zuplo/ultimate-giphy-to-tenor-api-migration-guide-4555)
-- [Why TypeScript is the Future of JavaScript Development: Benefits and Adoption](https://dev.to/abhay_yt_52a8e72b213be229/why-typescript-is-the-future-of-javascript-development-benefits-and-adoption-4fo5)
-- [Bringing PostgreSQL Query Issues to Light with Insightful Visuals](https://dev.to/saby_explain/bringing-postgresql-query-issues-to-light-with-insightful-visuals-4b5f)
-- [Deploying a Highly Available Web App on AWS Using Terraform](https://dev.to/samuel_udeh/deploying-a-highly-available-web-app-on-aws-using-terraform-23e5)
-- [Build a Virtual Private Cloud](https://dev.to/misolainthecloud/build-a-virtualprivate-cloud-358l)
+- [A better deal for startups and small businesses](https://dev.to/zuplo/a-better-deal-for-startups-and-small-businesses-4lif)
+- [Why Imburse Payments Chose Zuplo Over Azure API Management](https://dev.to/zuplo/why-imburse-payments-chose-zuplo-over-azure-api-management-2i)
+- [Zero Downtime migration of API Authentication](https://dev.to/zuplo/zero-downtime-migration-of-api-authentication-h9c)
+- [Introducing - The Posters of Facebook](https://dev.to/zuplo/introducing-the-posters-of-facebook-18f4)
+- [Day 1 - Introducing the ZAPI Management API](https://dev.to/zuplo/day-1-introducing-the-zapi-management-api-5b28)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
