@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A solution to the problem of cluster-wide CRDs](https://dev.to/loft/a-solution-to-the-problem-of-cluster-wide-crds-2fbc)
-- [A Comprehensive Guide to Training a Simple Linear Regression Model in Julia](https://dev.to/engineerlambda/a-comprehensive-guide-to-training-a-simple-linear-regression-model-in-julia-5675)
-- [Isomorphic React &lpar;Universal Apps&rpar;: A Complete Guide](https://dev.to/abhay_yt_52a8e72b213be229/isomorphic-react-universal-apps-a-complete-guide-alj)
-- [Get Started with Modern Java Today: A Concise Guide](https://dev.to/seanevans/get-started-with-modern-java-today-a-concise-guide-53jn)
-- [I’m running a Spring Boot application inside a Docker container on my VM. The application works fine over HTTP, and I can access all endpoints via http://127.0.0.1:8080. I’ve set up NGINX as a reverse proxy to serve HTTPS requests. No errors for http reqs.](https://dev.to/gihan_kavinda_f10ec06d0a8/im-running-a-spring-boot-application-inside-a-docker-container-on-my-vm-the-application-works-36be)
+- [Ultimate Giphy to Tenor API Migration Guide](https://dev.to/zuplo/ultimate-giphy-to-tenor-api-migration-guide-4555)
+- [Why TypeScript is the Future of JavaScript Development: Benefits and Adoption](https://dev.to/abhay_yt_52a8e72b213be229/why-typescript-is-the-future-of-javascript-development-benefits-and-adoption-4fo5)
+- [Bringing PostgreSQL Query Issues to Light with Insightful Visuals](https://dev.to/saby_explain/bringing-postgresql-query-issues-to-light-with-insightful-visuals-4b5f)
+- [Deploying a Highly Available Web App on AWS Using Terraform](https://dev.to/samuel_udeh/deploying-a-highly-available-web-app-on-aws-using-terraform-23e5)
+- [Build a Virtual Private Cloud](https://dev.to/misolainthecloud/build-a-virtualprivate-cloud-358l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
