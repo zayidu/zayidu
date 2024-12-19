@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoid Boilerplate with Code Generator in Flutter](https://dev.to/tentanganak/avoid-boilerplate-with-code-generator-in-flutter-nb8)
+- [The Rise of AI Co-Pilots: How GPT Models Are Changing Software Development](https://dev.to/mrinankmj/the-rise-of-ai-co-pilots-how-gpt-models-are-changing-software-development-6pl)
+- [I&#39;m learning html &amp; css now, some tips?](https://dev.to/snagh1/im-learning-html-css-now-some-tips-16ao)
 - [How I minimized a state machine.](https://dev.to/okpalan/how-i-minimized-a-state-machine-5gk4)
 - [Redefining Software Testing: Smarter Strategies for Better Quality✔✔](https://dev.to/arun_pal_3ce740a137cf15ad/redefining-software-testing-smarter-strategies-for-better-quality-1dba)
-- [Introduction: VULKAN API](https://dev.to/kastuv/introduction-vulkan-api-1jp8)
-- [What is Rust, and What is for it?](https://dev.to/ivansing/what-is-rust-and-what-is-for-it-35b4)
-- [Flex Consumption is not cheap &lpar;when in private VNET&rpar;](https://dev.to/rokicool/flex-consumption-is-not-cheap-when-in-private-vnet-1m5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
