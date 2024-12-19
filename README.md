@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Free Resources to Learn Coding as a Student](https://dev.to/growkon21/top-free-resources-to-learn-coding-as-a-student-lg6)
-- [Day 19: Highlight&#39;em up! 🔖](https://dev.to/valeriavg/day-19-highlightem-up-44c3)
-- [10 Proven Ways to Shield Your Website from Negative SEO in 2024](https://dev.to/negseoexpert/10-proven-ways-to-shield-your-website-from-negative-seo-in-2024-1emk)
-- [🔰Git e Github: Comandos basicos do git](https://dev.to/edineidev/git-e-github-comandos-do-git-e8p)
-- [Building an AI-Optimized Platform on Amazon EKS with NVIDIA NIM and OpenAI Models](https://dev.to/aws-builders/building-an-ai-optimized-platform-on-amazon-eks-with-nvidia-nim-and-openai-models-4lbl)
+- [Don&#39;t fall into the CDN trap!](https://dev.to/aralroca/dont-fall-into-the-cdn-trap-4keg)
+- [Beauty Tech Startups: The AI Innovations Reshaping the Industry](https://dev.to/josef_doctorovitz_ww/beauty-tech-startups-the-ai-innovations-reshaping-the-industry-4h5m)
+- [鸿蒙Next自定义组件的布局](https://dev.to/freerain9/hong-meng-nextzi-ding-yi-zu-jian-de-bu-ju-46hb)
+- [Sending Emails with Spring Boot, AWS SES, and Serverless Lambda for Scalable Solutions](https://dev.to/abrish/sending-emails-with-spring-boot-aws-ses-and-serverless-lambda-for-scalable-solutions-2cpe)
+- [Firebase SDK &lpar;node&rpar; vs. Direct Firebase API: Pros and Cons](https://dev.to/ven_dev/firebase-sdk-node-vs-direct-firebase-api-pros-and-cons-kce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
