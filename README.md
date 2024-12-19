@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Visualizing Global Climate: A Digital Canvas of Seasonal Contrasts](https://dev.to/govindvyas/visualizing-global-climate-a-digital-canvas-of-seasonal-contrasts-559n)
-- [How to Run Control Panel as Administrator on Windows 11?](https://dev.to/winsides/how-to-run-control-panel-as-administrator-on-windows-11-2l8b)
-- [Concurrency vs Parallelism in Computing](https://dev.to/vipulkumarsviit/concurrency-vs-parallelism-in-computing-1cc4)
-- [CARTA DE AMOR](https://dev.to/soyjeanpieerpe19/carta-de-amor-595h)
-- [How to Create a React Application Post-CRA Deprecation](https://dev.to/rakhee/how-to-create-a-react-application-post-cra-deprecation-19jl)
+- [Bleve: How to build a rocket-fast search engine?](https://dev.to/kwnaidoo/bleve-how-to-build-a-rocket-fast-search-engine-45md)
+- [Installing additional SSD on LENOVO ThinkBook 16 G7 IML](https://dev.to/markpelf/installing-additional-ssd-on-lenovo-thinkbook-16-g7-iml-3n8a)
+- [Build a Currency Exchange Service in Ruby on Rails](https://dev.to/sulmanweb/build-a-currency-exchange-service-in-ruby-on-rails-5dng)
+- [[Boost]](https://dev.to/hafiz_ammarsaleem_f42ea8/-3a08)
+- [The Influence of Big Data on E-Business Global Marketing Decisions](https://dev.to/hafiz_ammarsaleem_f42ea8/the-influence-of-big-data-on-e-business-global-marketing-decisions-2dj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
