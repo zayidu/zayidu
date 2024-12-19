@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Updraft Plus beats other WordPress Transfer Solutions &lpar;A Step-by-Step Guide&rpar;](https://dev.to/samediamba/why-updraft-plus-beats-other-wordpress-transfer-solutions-a-step-by-step-guide-18e3)
-- [Show Metadata in Playwright HTML Report: A Complete Guide](https://dev.to/vitalets/show-metadata-in-playwright-html-report-a-complete-guide-b51)
-- [What the hack are CI/CD pipelines?](https://dev.to/idilsaglam/what-the-hack-are-cicd-pipelines-14hg)
-- [JavaScript evolution: From Lodash and Underscore to vanilla](https://dev.to/logrocket/javascript-evolution-from-lodash-and-underscore-to-vanilla-182p)
-- [W3C Games CG November 2024: GameSnacks](https://dev.to/end3r/w3c-games-cg-november-2024-gamesnacks-4edf)
+- [I built a Sass template. You can just copy me!](https://dev.to/technoph1le/i-built-a-sass-template-you-can-just-copy-me-213o)
+- [Practice javascript via first principle thinking, not syntax memorization](https://dev.to/adamchain/practice-javascript-via-first-principle-thinking-not-syntax-memorization-2724)
+- [Mastering Laravel Collections: A Guide to Chainable Data Manipulation](https://dev.to/thescriptbinary/mastering-laravel-collections-a-guide-to-chainable-data-manipulation-2mo1)
+- [Python Lists in 5 minutes](https://dev.to/suresh_kumar_f75b7356272e/python-lists-in-5-minutes-37ob)
+- [Cracking the Code of AI Conversations: The Art of Prompt Engineering](https://dev.to/mahrukh_adeel/cracking-the-code-of-ai-conversations-the-art-of-prompt-engineering-cd9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
