@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CreoConnect 2024 - From the Founder&#39;s Book](https://dev.to/creowistech/creoconnect-2024-from-the-founders-book-4fb9)
-- [Building an Advanced CRUD API with Sequelize, PostgreSQL, and JWT Authentication in Node.js](https://dev.to/abhay_yt_52a8e72b213be229/building-an-advanced-crud-api-with-sequelize-postgresql-and-jwt-authentication-in-nodejs-3co7)
-- [Sort Your Apple Mails with GPT](https://dev.to/airabbit/sort-your-apple-mails-with-gpt-41pi)
-- [Using Terraformer to Import and Manage VMware Infrastructure with Terraform and AWS Backup Strategy](https://dev.to/irlan_dossantos_9c6c1c92/using-terraformer-to-import-and-manage-vmware-infrastructure-with-terraform-and-aws-backup-strategy-58c4)
-- [Comparando Frameworks para Node.js: Express, Fastify e Nest.js](https://dev.to/igorspestana/comparando-frameworks-para-nodejs-express-fastify-e-nestjs-4een)
+- [flow design for access and refresh token- JWT](https://dev.to/sallbro/flow-design-for-access-and-refresh-token-jwt-2lh6)
+- [Web3 and Blockchain in Everyday Life: The Rise of Decentralized Financial Tools](https://dev.to/cryptosandy/web3-and-blockchain-in-everyday-life-the-rise-of-decentralized-financial-tools-3j3p)
+- [Implementing infinite scroll in React with React Snap Carousel](https://dev.to/logrocket/implementing-infinite-scroll-in-react-with-react-snap-carousel-3m6c)
+- [🤯GitHub&#39;s Copilot Now Available for Free to Users](https://dev.to/devwithsuraj/githubs-copilot-now-available-for-free-to-users-5f1g)
+- [Demystifying VPC Peering: Connecting Your AWS VPCs Seamlessly](https://dev.to/aws-builders/demystifying-vpc-peering-connecting-your-aws-vpcs-seamlessly-i66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
