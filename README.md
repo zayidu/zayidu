@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoid Boilerplate with Code Generator in Flutter](https://dev.to/tentanganak/avoid-boilerplate-with-code-generator-in-flutter-nb8)
-- [The Rise of AI Co-Pilots: How GPT Models Are Changing Software Development](https://dev.to/mrinankmj/the-rise-of-ai-co-pilots-how-gpt-models-are-changing-software-development-6pl)
-- [I&#39;m learning html &amp; css now, some tips?](https://dev.to/snagh1/im-learning-html-css-now-some-tips-16ao)
-- [How I minimized a state machine.](https://dev.to/okpalan/how-i-minimized-a-state-machine-5gk4)
-- [Redefining Software Testing: Smarter Strategies for Better Quality✔✔](https://dev.to/arun_pal_3ce740a137cf15ad/redefining-software-testing-smarter-strategies-for-better-quality-1dba)
+- [Advanced Next.js Course: Mastering the Power of Next.js](https://dev.to/lior_amsalem_3879371237f6/-advanced-nextjs-course-mastering-the-power-of-nextjs-4n4l)
+- [The software apprentice #2025:](https://dev.to/simonesquad/the-software-apprentice-2025-3pck)
+- [🌟 5 JavaScript Tricks Every Developer Should Know!](https://dev.to/sahilkhatiwada_official/5-javascript-tricks-every-developer-should-know-2im)
+- [Strategic Plan to Build an Impressive Android Development Portfolio](https://dev.to/javeedishaq/strategic-plan-to-build-an-impressive-android-development-portfolio-2g8e)
+- [How to Change Account Type in Windows 11?](https://dev.to/win11verse/how-to-change-account-type-in-windows-11-pk0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
