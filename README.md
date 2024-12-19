@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bleve: How to build a rocket-fast search engine?](https://dev.to/kwnaidoo/bleve-how-to-build-a-rocket-fast-search-engine-45md)
-- [Installing additional SSD on LENOVO ThinkBook 16 G7 IML](https://dev.to/markpelf/installing-additional-ssd-on-lenovo-thinkbook-16-g7-iml-3n8a)
-- [Build a Currency Exchange Service in Ruby on Rails](https://dev.to/sulmanweb/build-a-currency-exchange-service-in-ruby-on-rails-5dng)
-- [[Boost]](https://dev.to/hafiz_ammarsaleem_f42ea8/-3a08)
-- [The Influence of Big Data on E-Business Global Marketing Decisions](https://dev.to/hafiz_ammarsaleem_f42ea8/the-influence-of-big-data-on-e-business-global-marketing-decisions-2dj1)
+- [Mastering Testing in React with Jest and React Testing Library](https://dev.to/abhay_yt_52a8e72b213be229/mastering-testing-in-react-with-jest-and-react-testing-library-2pg3)
+- [How to configure DevTools for your Zustand store?](https://dev.to/thinkthroo/how-to-configure-devtools-for-your-zustand-store-3e12)
+- [Comparing Formik and React Hook Form: Which One Should You Choose for Your React Forms?](https://dev.to/abhay_yt_52a8e72b213be229/comparing-formik-and-react-hook-form-which-one-should-you-choose-for-your-react-forms-54jf)
+- [AI changes life: 20 GPT-4o daily application tips!](https://dev.to/fallon_jimmy/ai-changes-life-20-gpt-4o-daily-application-tips-3df7)
+- [Understanding JavaScript Nullish Coalescing Operator &lpar;??&rpar;](https://dev.to/devshefali/understanding-javascript-nullish-coalescing-operator--n1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
