@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [flow design for access and refresh token- JWT](https://dev.to/sallbro/flow-design-for-access-and-refresh-token-jwt-2lh6)
-- [Web3 and Blockchain in Everyday Life: The Rise of Decentralized Financial Tools](https://dev.to/cryptosandy/web3-and-blockchain-in-everyday-life-the-rise-of-decentralized-financial-tools-3j3p)
-- [Implementing infinite scroll in React with React Snap Carousel](https://dev.to/logrocket/implementing-infinite-scroll-in-react-with-react-snap-carousel-3m6c)
-- [🤯GitHub&#39;s Copilot Now Available for Free to Users](https://dev.to/devwithsuraj/githubs-copilot-now-available-for-free-to-users-5f1g)
-- [Demystifying VPC Peering: Connecting Your AWS VPCs Seamlessly](https://dev.to/aws-builders/demystifying-vpc-peering-connecting-your-aws-vpcs-seamlessly-i66)
+- [Fixing Permission Issues with NVM: The Ultimate Guide to Using `sudo chown -R $&lpar;whoami&rpar; ~/.nvm`](https://dev.to/saint_vandora/fixing-permission-issues-with-nvm-the-ultimate-guide-to-using-sudo-chown-r-whoami-nvm-1l7k)
+- [Best Practices for Implementing Currency APIs in eCommerce Platforms](https://dev.to/devapis/best-practices-for-implementing-currency-apis-in-ecommerce-platforms-4991)
+- [The Chatbot Trap - Why Your LLM Project Is Stuck After the “Wow Moment](https://dev.to/louis-dupont/the-chatbot-trap-why-your-llm-project-is-stuck-after-the-wow-moment-39mg)
+- [Looking for Advice on Building a Competitive Gaming Platform](https://dev.to/noah_verbeke_7b522d6d9bce/looking-for-advice-on-building-a-competitive-gaming-platform-emn)
+- [Cypress Performance Plugin &quot;cypress-performance&quot;: A Guide to automate the Web Performance Testing](https://dev.to/valiantsin2021/cypress-performance-plugin-cypress-performance-a-guide-to-automate-the-web-performance-testing-3p02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
