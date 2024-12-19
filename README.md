@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The unseen beauty of Antelope Canyon!!](https://dev.to/aws-heroes/the-unseen-beauty-of-antelope-canyon-2pcj)
-- [VPS vs. Shared Hosting: Understanding the Key Differences](https://dev.to/msnmongare/vps-vs-shared-hosting-understanding-the-key-differences-ko8)
-- [Exploring Opportunities: Top Companies Hiring International Employees in 2024](https://dev.to/jetthoughts/exploring-opportunities-top-companies-hiring-international-employees-in-2024-2c9m)
-- [Your Open Source Data Platform Starter Kit](https://dev.to/longbuivan/your-open-source-data-platform-starter-kit-57j9)
-- [typia 사용법](https://dev.to/_2dab7bb1d79aab5d01975/typia-sayongbeob-1dil)
+- [5 FACTS ABOUT MINECRAFT.](https://dev.to/mince/minecraft-4nlk)
+- [Technical Interview Questions - Part 7 - Promises Methods](https://dev.to/giulianaolmos/technical-interview-questions-part-7-promises-methods-311n)
+- [52 Tricks to Media Manipulation](https://dev.to/afrozchakure/52-tricks-to-media-manipulation-3i5k)
+- [OS Security &amp; Encryption: Protect Your Data Like a Pro! 🔐](https://dev.to/tavernetech/os-security-encryption-protect-your-data-like-a-pro-kfi)
+- [AWS Database Services: Find the Best Fit for Your Application](https://dev.to/uirole/aws-database-services-find-the-best-fit-for-your-application-4eag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
