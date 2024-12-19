@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A better deal for startups and small businesses](https://dev.to/zuplo/a-better-deal-for-startups-and-small-businesses-4lif)
-- [Why Imburse Payments Chose Zuplo Over Azure API Management](https://dev.to/zuplo/why-imburse-payments-chose-zuplo-over-azure-api-management-2i)
-- [Zero Downtime migration of API Authentication](https://dev.to/zuplo/zero-downtime-migration-of-api-authentication-h9c)
-- [Introducing - The Posters of Facebook](https://dev.to/zuplo/introducing-the-posters-of-facebook-18f4)
-- [Day 1 - Introducing the ZAPI Management API](https://dev.to/zuplo/day-1-introducing-the-zapi-management-api-5b28)
+- [The unseen beauty of Antelope Canyon!!](https://dev.to/aws-heroes/the-unseen-beauty-of-antelope-canyon-2pcj)
+- [VPS vs. Shared Hosting: Understanding the Key Differences](https://dev.to/msnmongare/vps-vs-shared-hosting-understanding-the-key-differences-ko8)
+- [Exploring Opportunities: Top Companies Hiring International Employees in 2024](https://dev.to/jetthoughts/exploring-opportunities-top-companies-hiring-international-employees-in-2024-2c9m)
+- [Your Open Source Data Platform Starter Kit](https://dev.to/longbuivan/your-open-source-data-platform-starter-kit-57j9)
+- [typia 사용법](https://dev.to/_2dab7bb1d79aab5d01975/typia-sayongbeob-1dil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
