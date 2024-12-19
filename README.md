@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Testing in React with Jest and React Testing Library](https://dev.to/abhay_yt_52a8e72b213be229/mastering-testing-in-react-with-jest-and-react-testing-library-2pg3)
-- [How to configure DevTools for your Zustand store?](https://dev.to/thinkthroo/how-to-configure-devtools-for-your-zustand-store-3e12)
-- [Comparing Formik and React Hook Form: Which One Should You Choose for Your React Forms?](https://dev.to/abhay_yt_52a8e72b213be229/comparing-formik-and-react-hook-form-which-one-should-you-choose-for-your-react-forms-54jf)
-- [AI changes life: 20 GPT-4o daily application tips!](https://dev.to/fallon_jimmy/ai-changes-life-20-gpt-4o-daily-application-tips-3df7)
-- [Understanding JavaScript Nullish Coalescing Operator &lpar;??&rpar;](https://dev.to/devshefali/understanding-javascript-nullish-coalescing-operator--n1b)
+- [Preparing your E-commerce Platform for Holiday Traffic: A Developer’s Guide](https://dev.to/flutterwaveeng/preparing-your-e-commerce-platform-for-holiday-traffic-a-developers-guide-14ko)
+- [I have forked pump.fun completely](https://dev.to/levente_1319/i-have-forked-pumpfun-completely-m3n)
+- [Start your next Fastly Compute JavaScript application with npm init](https://dev.to/fastly/start-your-next-fastly-compute-javascript-application-with-npm-init-2h6)
+- [Understanding the Role of Assertions in Selenium Testing](https://dev.to/keploy/understanding-the-role-of-assertions-in-selenium-testing-a66)
+- [Streamlining Data Auditing with Snowflake Time Travel](https://dev.to/dbvismarketing/streamlining-data-auditing-with-snowflake-time-travel-5fnb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
