@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing Permission Issues with NVM: The Ultimate Guide to Using `sudo chown -R $&lpar;whoami&rpar; ~/.nvm`](https://dev.to/saint_vandora/fixing-permission-issues-with-nvm-the-ultimate-guide-to-using-sudo-chown-r-whoami-nvm-1l7k)
-- [Best Practices for Implementing Currency APIs in eCommerce Platforms](https://dev.to/devapis/best-practices-for-implementing-currency-apis-in-ecommerce-platforms-4991)
-- [The Chatbot Trap - Why Your LLM Project Is Stuck After the “Wow Moment](https://dev.to/louis-dupont/the-chatbot-trap-why-your-llm-project-is-stuck-after-the-wow-moment-39mg)
-- [Looking for Advice on Building a Competitive Gaming Platform](https://dev.to/noah_verbeke_7b522d6d9bce/looking-for-advice-on-building-a-competitive-gaming-platform-emn)
-- [Cypress Performance Plugin &quot;cypress-performance&quot;: A Guide to automate the Web Performance Testing](https://dev.to/valiantsin2021/cypress-performance-plugin-cypress-performance-a-guide-to-automate-the-web-performance-testing-3p02)
+- [Implications of using Aws cognito in Laravel 11 and the pool&#39;s user_id as application User Id.](https://dev.to/pcmagas/implications-of-using-aws-cognito-in-laravel-11-and-the-pools-userid-as-application-user-id-4b20)
+- [Exploring Spring Boot: The Magic Wand for Java Developers ✨](https://dev.to/kazi_ziaulhassan_66c99c8/exploring-spring-boot-the-magic-wand-for-java-developers-5bka)
+- [Terraform Map Variable: A Complete Guide with Practical Examples](https://dev.to/env0/terraform-map-variable-a-complete-guide-with-practical-examples-1iaf)
+- [Step-by-Step Approach to Configuring and Optimizing Cloud Environments on AWS](https://dev.to/marufhossain/step-by-step-approach-to-configuring-and-optimizing-cloud-environments-on-aws-2772)
+- [Agentic testing for prompt leakage security](https://dev.to/ag2ai/agentic-testing-for-prompt-leakage-security-3p6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
