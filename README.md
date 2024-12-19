@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Tailwind CSS with Your Rails Forms](https://dev.to/railsdesigner/use-tailwind-css-with-your-rails-forms-4g1b)
-- [How to Handle the &quot;More&quot; Feature on Android?](https://dev.to/kiolk/how-to-handle-the-more-feature-on-android-2o6k)
-- [How to Define AI Agents with Cloudformation and SAM: A Builder&#39;s Guide](https://dev.to/aws-builders/how-to-define-ai-agents-with-cloudformation-and-sam-a-builders-guide-eka)
-- [Tackling fundamental logic: A very hard automated deduction challenge &lpar;free for all&rpar;](https://dev.to/xamidi/tackling-fundamental-logic-a-very-hard-automated-deduction-challenge-free-for-all-bic)
-- [A Comprehensive Guide to Lean Six Sigma Methodology](https://dev.to/shishsingh/a-comprehensive-guide-to-lean-six-sigma-methodology-2cbl)
+- [Understanding Conditional Statements in Dart: If vs Switch](https://dev.to/c0depri3st/understanding-conditional-statements-in-dart-if-vs-switch-1b47)
+- [Video Sharing &lpar;Improvement and Bug Fixes&rpar;](https://dev.to/dev_d_akash/video-sharing-improvement-and-bug-fixes-f4c)
+- [.NET MAUI Google Drive OAuth on Windows and Android](https://dev.to/adiamante/net-maui-google-drive-oauth-on-windows-and-android-4lm4)
+- [Harnessing OpenAI Assistant 2.0 for Named Entity Recognition in PHP/Symfony 7](https://dev.to/mateuszpoland/harnessing-openai-assistant-20-for-named-entity-recognition-in-phpsymfony-7-boe)
+- [Auth to Improve Socket Connection Security](https://dev.to/dev_d_akash/auth-to-improve-socket-connection-security-1nna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
