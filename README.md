@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Email Validation Best Practices: Ensuring Accuracy with the Right Email Address Validator](https://dev.to/devapis/email-validation-best-practices-ensuring-accuracy-with-the-right-email-address-validator-59fj)
-- [How to deploy laravel project on cpanel or shared hosting](https://dev.to/salimhosen/how-to-deploy-laravel-project-on-cpanel-or-shared-hosting-56k0)
-- [AWS re:Invent 2024: Top Highlights and Best Moments &lpar;In My Opinion&rpar;](https://dev.to/aws-builders/aws-reinvent-2024-top-highlights-and-best-moments-in-my-opinion-30gl)
-- [🚀Build, Implement, and Test gRPC Services with .NET9](https://dev.to/dot_nettips_a4e90828daa4/build-implement-and-test-grpc-services-with-net9-o01)
-- [Charting Your Unique Path in Generative AI: A Fresh Perspective for Beginners](https://dev.to/khuramgill/charting-your-unique-path-in-generative-ai-a-fresh-perspective-for-beginners-mmd)
+- [A Comprehensive Guide to Lean Six Sigma Methodology](https://dev.to/shishsingh/a-comprehensive-guide-to-lean-six-sigma-methodology-2cbl)
+- [Can AI finally generate best practice code? I think so.](https://dev.to/airbyte/can-ai-finally-generate-best-practice-code-i-think-so-55d2)
+- [How to solve packet sniffing permissions](https://dev.to/labex/how-to-solve-packet-sniffing-permissions-518i)
+- [Interface Funcional: EVITE esse uso!](https://dev.to/oigorrudel/interface-funcional-evite-esse-uso-149b)
+- [De cero a Ingeniero de Software](https://dev.to/victora/de-cero-a-ingeniero-de-software-59ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
