@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implications of using Aws cognito in Laravel 11 and the pool&#39;s user_id as application User Id.](https://dev.to/pcmagas/implications-of-using-aws-cognito-in-laravel-11-and-the-pools-userid-as-application-user-id-4b20)
-- [Exploring Spring Boot: The Magic Wand for Java Developers ✨](https://dev.to/kazi_ziaulhassan_66c99c8/exploring-spring-boot-the-magic-wand-for-java-developers-5bka)
-- [Terraform Map Variable: A Complete Guide with Practical Examples](https://dev.to/env0/terraform-map-variable-a-complete-guide-with-practical-examples-1iaf)
-- [Step-by-Step Approach to Configuring and Optimizing Cloud Environments on AWS](https://dev.to/marufhossain/step-by-step-approach-to-configuring-and-optimizing-cloud-environments-on-aws-2772)
-- [Agentic testing for prompt leakage security](https://dev.to/ag2ai/agentic-testing-for-prompt-leakage-security-3p6b)
+- [Why Updraft Plus beats other WordPress Transfer Solutions &lpar;A Step-by-Step Guide&rpar;](https://dev.to/samediamba/why-updraft-plus-beats-other-wordpress-transfer-solutions-a-step-by-step-guide-18e3)
+- [Show Metadata in Playwright HTML Report: A Complete Guide](https://dev.to/vitalets/show-metadata-in-playwright-html-report-a-complete-guide-b51)
+- [What the hack are CI/CD pipelines?](https://dev.to/idilsaglam/what-the-hack-are-cicd-pipelines-14hg)
+- [JavaScript evolution: From Lodash and Underscore to vanilla](https://dev.to/logrocket/javascript-evolution-from-lodash-and-underscore-to-vanilla-182p)
+- [W3C Games CG November 2024: GameSnacks](https://dev.to/end3r/w3c-games-cg-november-2024-gamesnacks-4edf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
