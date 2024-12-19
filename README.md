@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Preparing your E-commerce Platform for Holiday Traffic: A Developer’s Guide](https://dev.to/flutterwaveeng/preparing-your-e-commerce-platform-for-holiday-traffic-a-developers-guide-14ko)
-- [I have forked pump.fun completely](https://dev.to/levente_1319/i-have-forked-pumpfun-completely-m3n)
-- [Start your next Fastly Compute JavaScript application with npm init](https://dev.to/fastly/start-your-next-fastly-compute-javascript-application-with-npm-init-2h6)
-- [Understanding the Role of Assertions in Selenium Testing](https://dev.to/keploy/understanding-the-role-of-assertions-in-selenium-testing-a66)
-- [Streamlining Data Auditing with Snowflake Time Travel](https://dev.to/dbvismarketing/streamlining-data-auditing-with-snowflake-time-travel-5fnb)
+- [A solution to the problem of cluster-wide CRDs](https://dev.to/loft/a-solution-to-the-problem-of-cluster-wide-crds-2fbc)
+- [A Comprehensive Guide to Training a Simple Linear Regression Model in Julia](https://dev.to/engineerlambda/a-comprehensive-guide-to-training-a-simple-linear-regression-model-in-julia-5675)
+- [Isomorphic React &lpar;Universal Apps&rpar;: A Complete Guide](https://dev.to/abhay_yt_52a8e72b213be229/isomorphic-react-universal-apps-a-complete-guide-alj)
+- [Get Started with Modern Java Today: A Concise Guide](https://dev.to/seanevans/get-started-with-modern-java-today-a-concise-guide-53jn)
+- [I’m running a Spring Boot application inside a Docker container on my VM. The application works fine over HTTP, and I can access all endpoints via http://127.0.0.1:8080. I’ve set up NGINX as a reverse proxy to serve HTTPS requests. No errors for http reqs.](https://dev.to/gihan_kavinda_f10ec06d0a8/im-running-a-spring-boot-application-inside-a-docker-container-on-my-vm-the-application-works-36be)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
