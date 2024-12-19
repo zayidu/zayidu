@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 FACTS ABOUT MINECRAFT.](https://dev.to/mince/minecraft-4nlk)
-- [Technical Interview Questions - Part 7 - Promises Methods](https://dev.to/giulianaolmos/technical-interview-questions-part-7-promises-methods-311n)
-- [52 Tricks to Media Manipulation](https://dev.to/afrozchakure/52-tricks-to-media-manipulation-3i5k)
-- [OS Security &amp; Encryption: Protect Your Data Like a Pro! 🔐](https://dev.to/tavernetech/os-security-encryption-protect-your-data-like-a-pro-kfi)
-- [AWS Database Services: Find the Best Fit for Your Application](https://dev.to/uirole/aws-database-services-find-the-best-fit-for-your-application-4eag)
+- [CreoConnect 2024 - From the Founder&#39;s Book](https://dev.to/creowistech/creoconnect-2024-from-the-founders-book-4fb9)
+- [Building an Advanced CRUD API with Sequelize, PostgreSQL, and JWT Authentication in Node.js](https://dev.to/abhay_yt_52a8e72b213be229/building-an-advanced-crud-api-with-sequelize-postgresql-and-jwt-authentication-in-nodejs-3co7)
+- [Sort Your Apple Mails with GPT](https://dev.to/airabbit/sort-your-apple-mails-with-gpt-41pi)
+- [Using Terraformer to Import and Manage VMware Infrastructure with Terraform and AWS Backup Strategy](https://dev.to/irlan_dossantos_9c6c1c92/using-terraformer-to-import-and-manage-vmware-infrastructure-with-terraform-and-aws-backup-strategy-58c4)
+- [Comparando Frameworks para Node.js: Express, Fastify e Nest.js](https://dev.to/igorspestana/comparando-frameworks-para-nodejs-express-fastify-e-nestjs-4een)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
