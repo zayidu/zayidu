@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Sass template. You can just copy me!](https://dev.to/technoph1le/i-built-a-sass-template-you-can-just-copy-me-213o)
-- [Practice javascript via first principle thinking, not syntax memorization](https://dev.to/adamchain/practice-javascript-via-first-principle-thinking-not-syntax-memorization-2724)
-- [Mastering Laravel Collections: A Guide to Chainable Data Manipulation](https://dev.to/thescriptbinary/mastering-laravel-collections-a-guide-to-chainable-data-manipulation-2mo1)
-- [Python Lists in 5 minutes](https://dev.to/suresh_kumar_f75b7356272e/python-lists-in-5-minutes-37ob)
-- [Cracking the Code of AI Conversations: The Art of Prompt Engineering](https://dev.to/mahrukh_adeel/cracking-the-code-of-ai-conversations-the-art-of-prompt-engineering-cd9)
+- [Email Validation Best Practices: Ensuring Accuracy with the Right Email Address Validator](https://dev.to/devapis/email-validation-best-practices-ensuring-accuracy-with-the-right-email-address-validator-59fj)
+- [How to deploy laravel project on cpanel or shared hosting](https://dev.to/salimhosen/how-to-deploy-laravel-project-on-cpanel-or-shared-hosting-56k0)
+- [AWS re:Invent 2024: Top Highlights and Best Moments &lpar;In My Opinion&rpar;](https://dev.to/aws-builders/aws-reinvent-2024-top-highlights-and-best-moments-in-my-opinion-30gl)
+- [🚀Build, Implement, and Test gRPC Services with .NET9](https://dev.to/dot_nettips_a4e90828daa4/build-implement-and-test-grpc-services-with-net9-o01)
+- [Charting Your Unique Path in Generative AI: A Fresh Perspective for Beginners](https://dev.to/khuramgill/charting-your-unique-path-in-generative-ai-a-fresh-perspective-for-beginners-mmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
