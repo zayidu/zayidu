@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Use Tailwind CSS with Your Rails Forms](https://dev.to/railsdesigner/use-tailwind-css-with-your-rails-forms-4g1b)
+- [How to Handle the &quot;More&quot; Feature on Android?](https://dev.to/kiolk/how-to-handle-the-more-feature-on-android-2o6k)
+- [How to Define AI Agents with Cloudformation and SAM: A Builder&#39;s Guide](https://dev.to/aws-builders/how-to-define-ai-agents-with-cloudformation-and-sam-a-builders-guide-eka)
+- [Tackling fundamental logic: A very hard automated deduction challenge &lpar;free for all&rpar;](https://dev.to/xamidi/tackling-fundamental-logic-a-very-hard-automated-deduction-challenge-free-for-all-bic)
 - [A Comprehensive Guide to Lean Six Sigma Methodology](https://dev.to/shishsingh/a-comprehensive-guide-to-lean-six-sigma-methodology-2cbl)
-- [Can AI finally generate best practice code? I think so.](https://dev.to/airbyte/can-ai-finally-generate-best-practice-code-i-think-so-55d2)
-- [How to solve packet sniffing permissions](https://dev.to/labex/how-to-solve-packet-sniffing-permissions-518i)
-- [Interface Funcional: EVITE esse uso!](https://dev.to/oigorrudel/interface-funcional-evite-esse-uso-149b)
-- [De cero a Ingeniero de Software](https://dev.to/victora/de-cero-a-ingeniero-de-software-59ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
