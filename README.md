@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Waymap: The Ultimate Web Vulnerability Scanner for Penetration Testers](https://dev.to/trixsec/waymap-the-ultimate-web-vulnerability-scanner-for-penetration-testers-oic)
-- [NoFlyList: Custom Tag Screening with NoFlyList](https://dev.to/seuros/noflylist-custom-tag-screening-with-noflylist-553j)
-- [Introduction to GraphQL](https://dev.to/574n13y/introduction-to-graphql-3jkn)
-- [A technology that offers an alternative solution to some tasks without using neural networks.](https://dev.to/afony/a-technology-that-offers-an-alternative-solution-to-some-tasks-without-using-neural-networks-4l1b)
-- [NoFlyList: Choosing Between Polymorphic and Model-Specific Tags](https://dev.to/seuros/noflylist-choosing-between-polymorphic-and-model-specific-tags-4phh)
+- [Angular vs. React vs. Vue](https://dev.to/auth0/angular-vs-react-vs-vue-50m6)
+- [Mastering Docker Custom Networks: Build Secure and Scalable Containers](https://dev.to/abhay_yt_52a8e72b213be229/mastering-docker-custom-networks-build-secure-and-scalable-containers-376f)
+- [DevOps and Cloud Engineering Roadmap 2025 🚀](https://dev.to/aws-builders/devops-and-cloud-engineering-roadmap-2025-24o)
+- [Master Docker Stack: Effortless Multi-Service Deployments](https://dev.to/abhay_yt_52a8e72b213be229/master-docker-stack-effortless-multi-service-deployments-1cbo)
+- [Docker Swarm: Simplifying Container Orchestration](https://dev.to/abhay_yt_52a8e72b213be229/docker-swarm-simplifying-container-orchestration-23dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
