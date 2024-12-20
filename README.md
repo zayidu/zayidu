@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New CSS can make your life easier](https://dev.to/yauheniy_piatrouski_cce40/new-css-can-make-your-life-easier-2do3)
-- [5 React Tricks to Improve Code Quality and Performance](https://dev.to/geraldhamiltonwicks/5-react-tricks-to-improve-code-quality-and-performance-2m88)
-- [Understanding Goroutines and Channels in Golang with Intuitive Visuals](https://dev.to/souvikinator/understanding-goroutines-and-channels-in-golang-with-intuitive-visuals-16gj)
-- [ReasoningAgent - Tree of Thoughts with Beam Search in AG2](https://dev.to/ag2ai/reasoningagent-tree-of-thoughts-with-beam-search-in-ag2-3ki1)
-- [Daily JavaScript Challenge #JS-53: Reverse Words in a Sentence](https://dev.to/dpc/daily-javascript-challenge-js-53-reverse-words-in-a-sentence-c3j)
+- [Wasm3 + TinyGo on PSP](https://dev.to/aethiopicuschan/wasm3-tinygo-on-psp-12c9)
+- [How to Simulate High CPU Usage on AWS Ubuntu Instances for Testing and Performance Optimization](https://dev.to/abstractmusa/how-to-simulate-high-cpu-usage-on-aws-ubuntu-instances-for-testing-and-performance-optimization-1f5f)
+- [How to Prevent Duplication in Data Aggregation with BladePipe](https://dev.to/bladepipe/how-to-prevent-duplication-in-data-aggregation-with-bladepipe-4on5)
+- [🚀 5 JavaScript Best Practices That Transformed My Code Quality](https://dev.to/devjordan/5-javascript-best-practices-that-transformed-my-code-quality-3bdl)
+- [OpenAI chat completion with Json output format](https://dev.to/stormhub/openai-chat-completion-with-json-output-format-l5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
