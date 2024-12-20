@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Git Maintenance in GitHub Actions: Optimize Your Repositories Automatically](https://dev.to/this-is-learning/using-git-maintenance-in-github-actions-optimize-your-repositories-automatically-39ka)
-- [Publishing Multi-Arch Docker images to GHCR using Buildx and GitHub Actions](https://dev.to/pradumnasaraf/publishing-multi-arch-docker-images-to-ghcr-using-buildx-and-github-actions-2k7j)
-- [The Rise of Ultra Short Throw Projectors: The Future of Home Entertainment](https://dev.to/rbush1063/the-rise-of-ultra-short-throw-projectors-the-future-of-home-entertainment-650)
-- [Mastering gluestack-ui v2 Animations with NativeWind: A Step-by-Step Guide](https://dev.to/gluestackio/mastering-gluestack-ui-v2-animations-with-nativewind-a-step-by-step-guide-294g)
-- [Essential Arch Linux Commands: Advanced Mastery&lpar;Part-2&rpar;[Must Read]](https://dev.to/trixsec/essential-arch-linux-commands-advanced-masterypart-2must-read-46c5)
+- [How to Check if an Account is Administrator or Standard User in Windows 11?](https://dev.to/win11verse/how-to-check-if-an-account-is-administrator-or-standard-user-in-windows-11-25kf)
+- [I made wut – a CLI that explains your last command with an LLM](https://dev.to/jsonathan/i-made-wut-a-cli-that-explains-your-last-command-with-an-llm-10fh)
+- [Best LLM for Coding and Developers in 2025](https://dev.to/ashinno/best-llm-for-coding-and-developers-in-2025-3dfc)
+- [Authentication vs Authorization](https://dev.to/codewithshan/authentication-vs-authorization-1gif)
+- [Applications and Advantages of GraphQL in Modern Web Applications](https://dev.to/tianyaschool/applications-and-advantages-of-graphql-in-modern-web-applications-4b0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
