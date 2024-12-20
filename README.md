@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How we optimized perceived performance to improve our KPIs: a Hotjar case study](https://dev.to/erykpiast/how-we-optimized-perceived-performance-to-improve-our-kpis-a-hotjar-case-study-4mkp)
-- [Learn .env in Express.js for Beginners &lpar;Effortless Setup&rpar;](https://dev.to/joodi/learn-env-in-expressjs-for-beginners-effortless-setup-clh)
-- [Announcement: Ada Developer Room at FOSDEM 2025](https://dev.to/pinotattari/announcement-ada-developer-room-at-fosdem-2025-59n6)
-- [LeetCode Challenge 13: Roman to Integer - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-13-roman-to-integer-javascript-solution-b4e)
-- [Sustainable Web Design: Building Environmentally-Friendly Websites for a Greener Future](https://dev.to/okoye_ndidiamaka_5e3b7d30/sustainable-web-design-building-environmentally-friendly-websites-for-a-greener-future-13o4)
+- [15 Best GraphQL Tools for 2025](https://dev.to/apilover/15-best-graphql-tools-for-2025-h21)
+- [Don&#39;t Let Your Emails Get Lost in the Spam Swamp: A Guide to Domain Security](https://dev.to/hamada147/dont-let-your-emails-get-lost-in-the-spam-swamp-a-guide-to-domain-security-2217)
+- [How to Build a Face Mask Detection System: A Practical Guide for Beginners](https://dev.to/chidoziemanagwu/how-to-build-a-face-mask-detection-system-a-practical-guide-for-beginners-30fb)
+- [自建的git远程仓库，在push时413 Request Entity Too Large](https://dev.to/dragon72463399/zi-jian-de-gityuan-cheng-cang-ku-zai-pushshi-413-request-entity-too-large-394p)
+- [Hopper Architecture for Deep Learning and AI](https://dev.to/javaeeeee/hopper-architecture-for-deep-learning-and-ai-19gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
