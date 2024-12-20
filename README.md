@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Docker Networks: Best Practices for Container Communication](https://dev.to/abhay_yt_52a8e72b213be229/mastering-docker-networks-best-practices-for-container-communication-56d8)
-- [Mastering Docker Volumes: Best Practices for Persistent Data Management in Containers](https://dev.to/abhay_yt_52a8e72b213be229/mastering-docker-volumes-best-practices-for-persistent-data-management-in-containers-1dbh)
-- [Empowering Dreams: A Day of Joy and Learning](https://dev.to/bhuvanas/empowering-dreams-a-day-of-joy-and-learning-2gpp)
-- [Understanding Docker Image Layers: Best Practices for Building Efficient Docker Images](https://dev.to/abhay_yt_52a8e72b213be229/understanding-docker-image-layers-best-practices-for-building-efficient-docker-images-28p3)
-- [2025 look ahead: Top dev events &amp; courses for Android, React Native, and GenAI](https://dev.to/trag/2025-look-ahead-top-dev-events-courses-for-android-react-native-and-genai-4bd3)
+- [Using Git Maintenance in GitHub Actions: Optimize Your Repositories Automatically](https://dev.to/this-is-learning/using-git-maintenance-in-github-actions-optimize-your-repositories-automatically-39ka)
+- [Publishing Multi-Arch Docker images to GHCR using Buildx and GitHub Actions](https://dev.to/pradumnasaraf/publishing-multi-arch-docker-images-to-ghcr-using-buildx-and-github-actions-2k7j)
+- [The Rise of Ultra Short Throw Projectors: The Future of Home Entertainment](https://dev.to/rbush1063/the-rise-of-ultra-short-throw-projectors-the-future-of-home-entertainment-650)
+- [Mastering gluestack-ui v2 Animations with NativeWind: A Step-by-Step Guide](https://dev.to/gluestackio/mastering-gluestack-ui-v2-animations-with-nativewind-a-step-by-step-guide-294g)
+- [Essential Arch Linux Commands: Advanced Mastery&lpar;Part-2&rpar;[Must Read]](https://dev.to/trixsec/essential-arch-linux-commands-advanced-masterypart-2must-read-46c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
