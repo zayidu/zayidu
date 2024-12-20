@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Neubrutalism React TypeScript Tailwind Portfolio Website](https://dev.to/seyma/neubrutalism-react-typescript-tailwind-portfolio-website-2m62)
-- [Fast Memory Copying in C#/.NET &lpar;Cache, AVX, Threads, Unsafe, Alternatives&rpar;](https://dev.to/peter_truchly_4fce0874fd5/fast-memory-copying-in-cnet-cache-avx-threads-unsafe-alternatives-h57)
-- [Learn Design Patterns: Understanding the Factory Method Pattern](https://dev.to/sami_maachi/learn-design-patterns-understanding-the-factory-method-pattern-2cel)
-- [Ruby on Rails System testing &lpar;E2E testing&rpar; using Natural Language with OpenAI API](https://dev.to/yusukeiwaki/ruby-on-rails-system-testing-e2e-testing-using-natural-language-with-openai-5d24)
-- [Is URLdn Better Than Bitly for a Short Link?](https://dev.to/lahcenassmira/is-urldn-better-than-bitly-for-a-short-link-3imn)
+- [What is a Data Pipeline?](https://dev.to/ayas_tech_2b0560ee159e661/what-is-a-data-pipeline-1i70)
+- [Announcing 12 Days of Codemas: The DataStax Holiday Giveaway!](https://dev.to/datastax/announcing-12-days-of-codemas-the-datastax-holiday-giveaway-5d7l)
+- [6 Ways to Prevent Triangulation Fraud](https://dev.to/yayabobi/6-ways-to-prevent-triangulation-fraud-331e)
+- [Decoding IP Addresses: Mastering Subnet Mask and CIDR Notation](https://dev.to/daniel_idoko/decoding-ip-addresses-mastering-subnet-mask-and-cidr-notation-2241)
+- [Solved: npm or yarn install node_modules is too big](https://dev.to/bytehala/solved-npm-or-yarn-install-nodemodules-is-too-big-2j23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
