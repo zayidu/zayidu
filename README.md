@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Best GraphQL Tools for 2025](https://dev.to/apilover/15-best-graphql-tools-for-2025-h21)
-- [Don&#39;t Let Your Emails Get Lost in the Spam Swamp: A Guide to Domain Security](https://dev.to/hamada147/dont-let-your-emails-get-lost-in-the-spam-swamp-a-guide-to-domain-security-2217)
-- [How to Build a Face Mask Detection System: A Practical Guide for Beginners](https://dev.to/chidoziemanagwu/how-to-build-a-face-mask-detection-system-a-practical-guide-for-beginners-30fb)
-- [自建的git远程仓库，在push时413 Request Entity Too Large](https://dev.to/dragon72463399/zi-jian-de-gityuan-cheng-cang-ku-zai-pushshi-413-request-entity-too-large-394p)
-- [Hopper Architecture for Deep Learning and AI](https://dev.to/javaeeeee/hopper-architecture-for-deep-learning-and-ai-19gj)
+- [New diagnostic rules in PVS-Studio 7.34](https://dev.to/pvsdev/new-diagnostic-rules-in-pvs-studio-734-347e)
+- [Unlock the Potential of GenAI: 9 Open Source LLMs for Your Commercial GenAI Projects](https://dev.to/mobisoft/unlock-the-potential-of-genai-9-open-source-llms-for-your-commercial-genai-projects-2edn)
+- [Mastering Vanilla JavaScript and Libraries: The Road to Dynamic DOM Rendering](https://dev.to/timvandort7291/mastering-vanilla-javascript-and-libraries-the-road-to-dynamic-dom-rendering-2lgl)
+- [Python: A Comprehensive Overview in One Article](https://dev.to/abhay_yt_52a8e72b213be229/python-a-comprehensive-overview-in-one-article-3lmh)
+- [How Sportsbet handles 4.5M daily chat messages on its &#39;Bet With Mates&#39; platform](https://dev.to/ably/how-sportsbet-handles-45m-daily-chat-messages-on-its-bet-with-mates-platform-328j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
