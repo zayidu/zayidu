@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2l0o)
-- [Day 20: Not a Dedent! 🚧](https://dev.to/valeriavg/day-20-not-a-dedent-4boj)
-- [10 Bad Practices to Avoid When Writing SQL Queries for Better Performance](https://dev.to/abhay_yt_52a8e72b213be229/10-bad-practices-to-avoid-when-writing-sql-queries-for-better-performance-3doe)
-- [Integrating TikTok API with Laravel: A Comprehensive Guide](https://dev.to/ehtesham_ali_abc367f36a5b/integrating-tiktok-api-with-laravel-a-comprehensive-guide-43op)
-- [Understanding SNI &lpar;Server Name Indication&rpar; and Modern Encryption Solutions](https://dev.to/mochafreddo/understanding-sni-server-name-indication-in-tls-handshake-1gf2)
+- [Mastering Docker Networks: Best Practices for Container Communication](https://dev.to/abhay_yt_52a8e72b213be229/mastering-docker-networks-best-practices-for-container-communication-56d8)
+- [Mastering Docker Volumes: Best Practices for Persistent Data Management in Containers](https://dev.to/abhay_yt_52a8e72b213be229/mastering-docker-volumes-best-practices-for-persistent-data-management-in-containers-1dbh)
+- [Empowering Dreams: A Day of Joy and Learning](https://dev.to/bhuvanas/empowering-dreams-a-day-of-joy-and-learning-2gpp)
+- [Understanding Docker Image Layers: Best Practices for Building Efficient Docker Images](https://dev.to/abhay_yt_52a8e72b213be229/understanding-docker-image-layers-best-practices-for-building-efficient-docker-images-28p3)
+- [2025 look ahead: Top dev events &amp; courses for Android, React Native, and GenAI](https://dev.to/trag/2025-look-ahead-top-dev-events-courses-for-android-react-native-and-genai-4bd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
