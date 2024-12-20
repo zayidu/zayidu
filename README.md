@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Data Pipeline?](https://dev.to/ayas_tech_2b0560ee159e661/what-is-a-data-pipeline-1i70)
-- [Announcing 12 Days of Codemas: The DataStax Holiday Giveaway!](https://dev.to/datastax/announcing-12-days-of-codemas-the-datastax-holiday-giveaway-5d7l)
-- [6 Ways to Prevent Triangulation Fraud](https://dev.to/yayabobi/6-ways-to-prevent-triangulation-fraud-331e)
-- [Decoding IP Addresses: Mastering Subnet Mask and CIDR Notation](https://dev.to/daniel_idoko/decoding-ip-addresses-mastering-subnet-mask-and-cidr-notation-2241)
-- [Solved: npm or yarn install node_modules is too big](https://dev.to/bytehala/solved-npm-or-yarn-install-nodemodules-is-too-big-2j23)
+- [Tests with time](https://dev.to/kiolk/tests-with-time-41np)
+- [Interview Preparation Tips from an Ex-Meta Engineer](https://dev.to/chetan_hs_c12b4d5cd3fdded/how-to-prepare-for-software-engineering-interviews-28nn)
+- [Scaling Spin Apps With KEDA](https://dev.to/fermyon/scaling-spin-apps-with-keda-j8)
+- [Front-End to Full-Stack Journey: SQL &amp; SQLite](https://dev.to/ianbonaparte/front-end-to-full-stack-journey-sql-sqlite-f2l)
+- [Understanding Graph Search Algorithms: DFS vs BFS](https://dev.to/cryptosandy/understanding-graph-search-algorithms-dfs-vs-bfs-2mp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
