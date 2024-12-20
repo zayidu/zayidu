@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Check if an Account is Administrator or Standard User in Windows 11?](https://dev.to/win11verse/how-to-check-if-an-account-is-administrator-or-standard-user-in-windows-11-25kf)
-- [I made wut – a CLI that explains your last command with an LLM](https://dev.to/jsonathan/i-made-wut-a-cli-that-explains-your-last-command-with-an-llm-10fh)
-- [Best LLM for Coding and Developers in 2025](https://dev.to/ashinno/best-llm-for-coding-and-developers-in-2025-3dfc)
-- [Authentication vs Authorization](https://dev.to/codewithshan/authentication-vs-authorization-1gif)
-- [Applications and Advantages of GraphQL in Modern Web Applications](https://dev.to/tianyaschool/applications-and-advantages-of-graphql-in-modern-web-applications-4b0n)
+- [Amazon Lightsail: Instances, Access, and Best Practices](https://dev.to/alfred_ajv/amazon-lightsail-instances-access-and-best-practices-c1)
+- [Empower Your Web Apps with the Top Benefits of Using Laravel Inertia](https://dev.to/nicholajones075/empower-your-web-apps-with-the-top-benefits-of-using-laravel-inertia-5gdl)
+- [Building a subscription tracker Desktop and iOS app with compose multiplatform — Offline data](https://dev.to/kuroski/building-a-subscription-tracker-desktop-and-ios-app-with-compose-multiplatform-offline-data-50j6)
+- [Code Quality in the Cloud](https://dev.to/jonathanvila/code-quality-in-the-cloud-58a3)
+- [Integrating OpenAPI Documentation and Swagger UI in Spring Boot](https://dev.to/olymahmud/integrating-openapi-documentation-and-swagger-ui-in-spring-boot-38p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
