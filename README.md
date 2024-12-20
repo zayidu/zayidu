@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Types of Git Branching Strategy](https://dev.to/juniourrau/6-types-of-git-branching-strategy-g54)
-- [This Week In React #214 : Base UI, Custom Elements, Next.js, React Router, Android XR, iOS targets, Nitro, RNTL...](https://dev.to/sebastienlorber/this-week-in-react-214-base-ui-custom-elements-nextjs-react-router-android-xr-ios-targets-5d00)
-- [Click with Caution: A Beginner’s Guide to Cybersecurity](https://dev.to/tochi_/click-with-caution-a-beginners-guide-to-cybersecurity-3ajo)
-- [Unleash Your Passion: Get Involved in My Open Source Project!](https://dev.to/praveenrajamani/unleash-your-passion-get-involved-in-my-open-source-project-20bb)
-- [Building a Cooking Expert AI Agent with Phidata and Django Rest Framework &lpar;DRF&rpar;](https://dev.to/shemanto_sharkar/building-a-cooking-expert-ai-agent-with-phidata-and-django-rest-framework-drf-3nch)
+- [Neubrutalism React TypeScript Tailwind Portfolio Website](https://dev.to/seyma/neubrutalism-react-typescript-tailwind-portfolio-website-2m62)
+- [Fast Memory Copying in C#/.NET &lpar;Cache, AVX, Threads, Unsafe, Alternatives&rpar;](https://dev.to/peter_truchly_4fce0874fd5/fast-memory-copying-in-cnet-cache-avx-threads-unsafe-alternatives-h57)
+- [Learn Design Patterns: Understanding the Factory Method Pattern](https://dev.to/sami_maachi/learn-design-patterns-understanding-the-factory-method-pattern-2cel)
+- [Ruby on Rails System testing &lpar;E2E testing&rpar; using Natural Language with OpenAI API](https://dev.to/yusukeiwaki/ruby-on-rails-system-testing-e2e-testing-using-natural-language-with-openai-5d24)
+- [Is URLdn Better Than Bitly for a Short Link?](https://dev.to/lahcenassmira/is-urldn-better-than-bitly-for-a-short-link-3imn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
