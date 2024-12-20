@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;Azure App Service&rpar; Feature Flags in C#/Blazor App](https://dev.to/icebeam7/azure-app-service-feature-flags-in-cblazor-app-1ei8)
-- [Analyzing the communication protocol of the Decathlon Walk by domyos](https://dev.to/endes/analyzing-the-communication-protocol-of-the-decathlon-walk-by-domyos-3a36)
-- [Boost Your Productivity with SiteNotes: A Chrome Extension for Contextual Note-Taking](https://dev.to/vishwagauravin/boost-your-productivity-with-sitenotes-a-chrome-extension-for-contextual-note-taking-3a7m)
-- [Today&#39;s Top 30+ items of Github - Dec 20, 2024](https://dev.to/gittech/todays-top-30-items-of-github-dec-20-2024-4l54)
-- [Backend Development Roadmap](https://dev.to/meenakshi_lodhirajput_8e/backend-development-roadmap-4o0m)
+- [6 Types of Git Branching Strategy](https://dev.to/juniourrau/6-types-of-git-branching-strategy-g54)
+- [This Week In React #214 : Base UI, Custom Elements, Next.js, React Router, Android XR, iOS targets, Nitro, RNTL...](https://dev.to/sebastienlorber/this-week-in-react-214-base-ui-custom-elements-nextjs-react-router-android-xr-ios-targets-5d00)
+- [Click with Caution: A Beginner’s Guide to Cybersecurity](https://dev.to/tochi_/click-with-caution-a-beginners-guide-to-cybersecurity-3ajo)
+- [Unleash Your Passion: Get Involved in My Open Source Project!](https://dev.to/praveenrajamani/unleash-your-passion-get-involved-in-my-open-source-project-20bb)
+- [Building a Cooking Expert AI Agent with Phidata and Django Rest Framework &lpar;DRF&rpar;](https://dev.to/shemanto_sharkar/building-a-cooking-expert-ai-agent-with-phidata-and-django-rest-framework-drf-3nch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
