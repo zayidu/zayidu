@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New diagnostic rules in PVS-Studio 7.34](https://dev.to/pvsdev/new-diagnostic-rules-in-pvs-studio-734-347e)
-- [Unlock the Potential of GenAI: 9 Open Source LLMs for Your Commercial GenAI Projects](https://dev.to/mobisoft/unlock-the-potential-of-genai-9-open-source-llms-for-your-commercial-genai-projects-2edn)
-- [Mastering Vanilla JavaScript and Libraries: The Road to Dynamic DOM Rendering](https://dev.to/timvandort7291/mastering-vanilla-javascript-and-libraries-the-road-to-dynamic-dom-rendering-2lgl)
-- [Python: A Comprehensive Overview in One Article](https://dev.to/abhay_yt_52a8e72b213be229/python-a-comprehensive-overview-in-one-article-3lmh)
-- [How Sportsbet handles 4.5M daily chat messages on its &#39;Bet With Mates&#39; platform](https://dev.to/ably/how-sportsbet-handles-45m-daily-chat-messages-on-its-bet-with-mates-platform-328j)
+- [Is that possible to convert a WordPress to Events and membership sport club / teams management system?](https://dev.to/ilinux/is-that-possible-to-convert-a-wordpress-to-events-and-membership-sport-club-teams-management-15m4)
+- [How to Fork Private GitHub Repositories and Contribute Back](https://dev.to/documendous/how-to-fork-private-github-repositories-and-contribute-back-1ami)
+- [Ransomware Unveiled: Understanding the Threat and How to Protect Your Data](https://dev.to/hexadecimalsoftware/ransomware-unveiled-understanding-the-threat-and-how-to-protect-your-data-1okn)
+- [&quot;Chaos Engineering for Java Microservices: Break It Before It Breaks You&quot;](https://dev.to/nelsonekpenyong/chaos-engineering-for-java-microservices-break-it-before-it-breaks-you-5eln)
+- [Guía rápida: Consejos para hacer buenos mensajes de commit en Git 😀](https://dev.to/duxtech/guia-rapida-consejos-para-hacer-buenos-mensajes-de-commit-en-git-oh0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
