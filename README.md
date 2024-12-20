@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tests with time](https://dev.to/kiolk/tests-with-time-41np)
-- [Interview Preparation Tips from an Ex-Meta Engineer](https://dev.to/chetan_hs_c12b4d5cd3fdded/how-to-prepare-for-software-engineering-interviews-28nn)
-- [Scaling Spin Apps With KEDA](https://dev.to/fermyon/scaling-spin-apps-with-keda-j8)
-- [Front-End to Full-Stack Journey: SQL &amp; SQLite](https://dev.to/ianbonaparte/front-end-to-full-stack-journey-sql-sqlite-f2l)
-- [Understanding Graph Search Algorithms: DFS vs BFS](https://dev.to/cryptosandy/understanding-graph-search-algorithms-dfs-vs-bfs-2mp1)
+- [Mastering Ansible: The Essential Guide for DevOps Engineers](https://dev.to/mohamednasser018/mastering-ansible-the-essential-guide-for-devops-engineers-32m4)
+- [Learn Design Patterns: Understanding the Builder Pattern](https://dev.to/sami_maachi/learn-design-patterns-understanding-the-builder-pattern-3m5h)
+- [OpenAI o3 - Thinking Fast and Slow](https://dev.to/maximsaplin/openai-o3-thinking-fast-and-slow-2g79)
+- [Cowboy Casino Major Update](https://dev.to/w4ffl35/cowboy-casino-major-update-924)
+- [Carla Simulator 1 : How to Set Up CARLA Simulator – Toretto Style 🏎️🔥](https://dev.to/mitanshgor/carla-simulator-1-how-to-set-up-carla-simulator-toretto-style-3800)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
