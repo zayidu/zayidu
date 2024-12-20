@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Lightsail: Instances, Access, and Best Practices](https://dev.to/alfred_ajv/amazon-lightsail-instances-access-and-best-practices-c1)
-- [Empower Your Web Apps with the Top Benefits of Using Laravel Inertia](https://dev.to/nicholajones075/empower-your-web-apps-with-the-top-benefits-of-using-laravel-inertia-5gdl)
-- [Building a subscription tracker Desktop and iOS app with compose multiplatform — Offline data](https://dev.to/kuroski/building-a-subscription-tracker-desktop-and-ios-app-with-compose-multiplatform-offline-data-50j6)
-- [Code Quality in the Cloud](https://dev.to/jonathanvila/code-quality-in-the-cloud-58a3)
-- [Integrating OpenAPI Documentation and Swagger UI in Spring Boot](https://dev.to/olymahmud/integrating-openapi-documentation-and-swagger-ui-in-spring-boot-38p6)
+- [Amazon Q Developer Tips: No.20 Amazon Q Developer Agents - /review](https://dev.to/aws/amazon-q-developer-tips-no20-amazon-q-developer-agents-review-2b6l)
+- [Mastering Communication Skills: A Path to Personal and Professional Success](https://dev.to/nozibul_islam_113b1d5334f/mastering-communication-skills-a-path-to-personal-and-professional-success-3995)
+- [Unlocking the Power of AI in the Palm of Your Hand with NVIDIA Jetson Nano](https://dev.to/hrithikroshanm/unlocking-the-power-of-ai-in-the-palm-of-your-hand-with-nvidia-jetson-nano-17om)
+- [What Does No Healthy Upstream Mean and How to Fix It](https://dev.to/uptrace/what-does-no-healthy-upstream-mean-and-how-to-fix-it-19m7)
+- [8 Powerful Python Testing Strategies to Elevate Code Quality](https://dev.to/aaravjoshi/8-powerful-python-testing-strategies-to-elevate-code-quality-2e77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
