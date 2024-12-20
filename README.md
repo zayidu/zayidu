@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Conditional Statements in Dart: If vs Switch](https://dev.to/c0depri3st/understanding-conditional-statements-in-dart-if-vs-switch-1b47)
-- [Video Sharing &lpar;Improvement and Bug Fixes&rpar;](https://dev.to/dev_d_akash/video-sharing-improvement-and-bug-fixes-f4c)
-- [.NET MAUI Google Drive OAuth on Windows and Android](https://dev.to/adiamante/net-maui-google-drive-oauth-on-windows-and-android-4lm4)
-- [Harnessing OpenAI Assistant 2.0 for Named Entity Recognition in PHP/Symfony 7](https://dev.to/mateuszpoland/harnessing-openai-assistant-20-for-named-entity-recognition-in-phpsymfony-7-boe)
-- [Auth to Improve Socket Connection Security](https://dev.to/dev_d_akash/auth-to-improve-socket-connection-security-1nna)
+- [New CSS can make your life easier](https://dev.to/yauheniy_piatrouski_cce40/new-css-can-make-your-life-easier-2do3)
+- [5 React Tricks to Improve Code Quality and Performance](https://dev.to/geraldhamiltonwicks/5-react-tricks-to-improve-code-quality-and-performance-2m88)
+- [Understanding Goroutines and Channels in Golang with Intuitive Visuals](https://dev.to/souvikinator/understanding-goroutines-and-channels-in-golang-with-intuitive-visuals-16gj)
+- [ReasoningAgent - Tree of Thoughts with Beam Search in AG2](https://dev.to/ag2ai/reasoningagent-tree-of-thoughts-with-beam-search-in-ag2-3ki1)
+- [Daily JavaScript Challenge #JS-53: Reverse Words in a Sentence](https://dev.to/dpc/daily-javascript-challenge-js-53-reverse-words-in-a-sentence-c3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
