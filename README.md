@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Azure App Service&rpar; Feature Flags in C#/Blazor App](https://dev.to/icebeam7/azure-app-service-feature-flags-in-cblazor-app-1ei8)
+- [Analyzing the communication protocol of the Decathlon Walk by domyos](https://dev.to/endes/analyzing-the-communication-protocol-of-the-decathlon-walk-by-domyos-3a36)
+- [Boost Your Productivity with SiteNotes: A Chrome Extension for Contextual Note-Taking](https://dev.to/vishwagauravin/boost-your-productivity-with-sitenotes-a-chrome-extension-for-contextual-note-taking-3a7m)
 - [Today&#39;s Top 30+ items of Github - Dec 20, 2024](https://dev.to/gittech/todays-top-30-items-of-github-dec-20-2024-4l54)
 - [Backend Development Roadmap](https://dev.to/meenakshi_lodhirajput_8e/backend-development-roadmap-4o0m)
-- [How to Estimate Cloud Costs with Terraform using Infracost](https://dev.to/cloudcuddler/how-to-estimate-cloud-costs-with-terraform-using-infracost-55a3)
-- [4 Plataformas para você aprender UX Design](https://dev.to/vitoriazzp/4-plataformas-para-voce-aprender-ux-design-3cg0)
-- [জাভাস্ক্রিপ্ট ফাংশন কী? &lpar;জয়&rpar;](https://dev.to/joy5k/jaabhaaskriptt-phaanshn-kii-jyy-1n25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
