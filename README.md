@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular vs. React vs. Vue](https://dev.to/auth0/angular-vs-react-vs-vue-50m6)
-- [Mastering Docker Custom Networks: Build Secure and Scalable Containers](https://dev.to/abhay_yt_52a8e72b213be229/mastering-docker-custom-networks-build-secure-and-scalable-containers-376f)
-- [DevOps and Cloud Engineering Roadmap 2025 🚀](https://dev.to/aws-builders/devops-and-cloud-engineering-roadmap-2025-24o)
-- [Master Docker Stack: Effortless Multi-Service Deployments](https://dev.to/abhay_yt_52a8e72b213be229/master-docker-stack-effortless-multi-service-deployments-1cbo)
-- [Docker Swarm: Simplifying Container Orchestration](https://dev.to/abhay_yt_52a8e72b213be229/docker-swarm-simplifying-container-orchestration-23dp)
+- [Today&#39;s Top 30+ items of Github - Dec 20, 2024](https://dev.to/gittech/todays-top-30-items-of-github-dec-20-2024-4l54)
+- [Backend Development Roadmap](https://dev.to/meenakshi_lodhirajput_8e/backend-development-roadmap-4o0m)
+- [How to Estimate Cloud Costs with Terraform using Infracost](https://dev.to/cloudcuddler/how-to-estimate-cloud-costs-with-terraform-using-infracost-55a3)
+- [4 Plataformas para você aprender UX Design](https://dev.to/vitoriazzp/4-plataformas-para-voce-aprender-ux-design-3cg0)
+- [জাভাস্ক্রিপ্ট ফাংশন কী? &lpar;জয়&rpar;](https://dev.to/joy5k/jaabhaaskriptt-phaanshn-kii-jyy-1n25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
