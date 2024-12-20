@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wasm3 + TinyGo on PSP](https://dev.to/aethiopicuschan/wasm3-tinygo-on-psp-12c9)
-- [How to Simulate High CPU Usage on AWS Ubuntu Instances for Testing and Performance Optimization](https://dev.to/abstractmusa/how-to-simulate-high-cpu-usage-on-aws-ubuntu-instances-for-testing-and-performance-optimization-1f5f)
-- [How to Prevent Duplication in Data Aggregation with BladePipe](https://dev.to/bladepipe/how-to-prevent-duplication-in-data-aggregation-with-bladepipe-4on5)
-- [🚀 5 JavaScript Best Practices That Transformed My Code Quality](https://dev.to/devjordan/5-javascript-best-practices-that-transformed-my-code-quality-3bdl)
-- [OpenAI chat completion with Json output format](https://dev.to/stormhub/openai-chat-completion-with-json-output-format-l5i)
+- [Continuous Monitoring: Enhancing IT Services Through Proactive Management](https://dev.to/adityabhuyan/continuous-monitoring-enhancing-it-services-through-proactive-management-54aa)
+- [Easily Integrate Databend Test Environment with Testcontainers](https://dev.to/ksanaka/easily-integrate-databend-test-environment-with-testcontainers-h69)
+- [Mastering Node.js Routing: A Complete Guide with Internal Workings Explained](https://dev.to/nishanthan-k/mastering-nodejs-routing-a-complete-guide-with-internal-workings-explained-4gkg)
+- [Global Error Handling in Angular](https://dev.to/neerajs/global-error-handling-in-angular-29b5)
+- [HTML](https://dev.to/mehfila_parkkulthil_23/html-23n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
