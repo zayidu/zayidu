@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is that possible to convert a WordPress to Events and membership sport club / teams management system?](https://dev.to/ilinux/is-that-possible-to-convert-a-wordpress-to-events-and-membership-sport-club-teams-management-15m4)
-- [How to Fork Private GitHub Repositories and Contribute Back](https://dev.to/documendous/how-to-fork-private-github-repositories-and-contribute-back-1ami)
-- [Ransomware Unveiled: Understanding the Threat and How to Protect Your Data](https://dev.to/hexadecimalsoftware/ransomware-unveiled-understanding-the-threat-and-how-to-protect-your-data-1okn)
-- [&quot;Chaos Engineering for Java Microservices: Break It Before It Breaks You&quot;](https://dev.to/nelsonekpenyong/chaos-engineering-for-java-microservices-break-it-before-it-breaks-you-5eln)
-- [Guía rápida: Consejos para hacer buenos mensajes de commit en Git 😀](https://dev.to/duxtech/guia-rapida-consejos-para-hacer-buenos-mensajes-de-commit-en-git-oh0)
+- [Waymap: The Ultimate Web Vulnerability Scanner for Penetration Testers](https://dev.to/trixsec/waymap-the-ultimate-web-vulnerability-scanner-for-penetration-testers-oic)
+- [NoFlyList: Custom Tag Screening with NoFlyList](https://dev.to/seuros/noflylist-custom-tag-screening-with-noflylist-553j)
+- [Introduction to GraphQL](https://dev.to/574n13y/introduction-to-graphql-3jkn)
+- [A technology that offers an alternative solution to some tasks without using neural networks.](https://dev.to/afony/a-technology-that-offers-an-alternative-solution-to-some-tasks-without-using-neural-networks-4l1b)
+- [NoFlyList: Choosing Between Polymorphic and Model-Specific Tags](https://dev.to/seuros/noflylist-choosing-between-polymorphic-and-model-specific-tags-4phh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
