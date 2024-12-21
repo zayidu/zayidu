@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Live Azure VM Workshop | Deploy and Manage Azure VMs: RDP, Resize, Troubleshoot, IIS Setup](https://dev.to/s3cloudhub/live-azure-vm-workshop-deploy-and-manage-azure-vms-rdp-resize-troubleshoot-iis-setup-529b)
-- [Amazon Q Developer Tips: No.21 Amazon Q Developer Agents - /test](https://dev.to/aws/amazon-q-developer-tips-no21-amazon-q-developer-agents-test-37o5)
-- [Top AI Tools PhD Students Must Use](https://dev.to/mit_wpu_a8b0cb1ef465135de/top-ai-tools-phd-students-must-use-fn9)
-- [Hero to Zero: How Not To Manage Staff Redundancies](https://dev.to/thumbone/hero-to-zero-how-not-to-manage-staff-redundancies-jl1)
-- [Enhancing the Efficacy of Mobile Banking with AI-Powered Testing](https://dev.to/jennife05918349/enhancing-the-efficacy-of-mobile-banking-with-ai-powered-testing-3k7g)
+- [How to Install IIS on Windows Server](https://dev.to/s3cloudhub/how-to-install-iis-on-windows-server-2e9l)
+- [MYTH: You Need a CS Degree to Get Started with Software Engineering](https://dev.to/javeedishaq/myth-you-need-a-cs-degree-to-get-started-with-software-engineering-2dl5)
+- [Concept of Infrastructure Monitoring](https://dev.to/574n13y/concept-of-infrastructure-monitoring-492l)
+- [Useful JavaScript tips and tricks that you may not be aware of 💻👨‍💻](https://dev.to/aryan_shourie/useful-javascript-tips-and-tricks-that-you-may-not-be-aware-of-32af)
+- [NanoMD: 輕量化 Markdown 編輯器](https://dev.to/pardnchiu/nanomd-qing-liang-hua-markdown-bian-ji-qi-9o7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
