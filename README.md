@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 21: In the name of Progress! 📈](https://dev.to/valeriavg/day-21-for-the-progress-4369)
+- [TypeScript for Domain-Driven Design &lpar;DDD&rpar;](https://dev.to/shafayeat/typescript-for-domain-driven-design-ddd-6kk)
+- [Who is siitecch for ?](https://dev.to/osita/who-is-siitecch-for--dn9)
+- [🚀 Unlock Free AI and Cloud Skills with Microsoft’s Free Courses](https://dev.to/ajay_tainwala/unlock-free-ai-and-cloud-skills-with-microsofts-free-courses-44lm)
 - [Identifying Duplicate Elements in Arrays: A Comprehensive Guide for Aspiring Programmers](https://dev.to/rk042/identifying-duplicate-elements-in-arrays-a-comprehensive-guide-for-aspiring-programmers-3eh3)
-- [AWS CDK - aws-lambda-nodejs Module &lpar;updated&rpar;](https://dev.to/vanroy86/aws-cdk-aws-lambda-nodejs-module-updated-n3i)
-- [Mastering Azure Monitor: A Step-by-Step Guide to Monitoring Your Azure Virtual Machine Like a Pro](https://dev.to/unique-tea/mastering-azure-monitor-a-step-by-step-guide-to-monitoring-your-azure-virtual-machine-like-a-pro-33ko)
-- [Test. 1](https://dev.to/himanshu_mishra_13/test-1-5f4o)
-- [React](https://dev.to/baonguyen2411/react-3ni7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
