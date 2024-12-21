@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Anyone Here Familiar with Postman Repositories?](https://dev.to/bradi/is-anyone-here-familiar-with-postman-repositories-3335)
-- [Validation in Spring REST Framework](https://dev.to/birddevelper/validation-in-spring-rest-framework-5e04)
-- [Deploying Kubernetes CronJobs with Helm and Google Cloud Build](https://dev.to/mkdev/deploying-kubernetes-cronjobs-with-helm-and-google-cloud-build-m68)
-- [How to Fix the Issue of Not Being Able to View Your GitHub Account on Other Devices](https://dev.to/bradi/how-to-fix-the-issue-of-not-being-able-to-view-your-github-account-on-other-devices-4ipe)
-- [unique_ptr&lt;T&gt; - A minimal implementation](https://dev.to/thequantdev/uniqueptr-a-minimal-implementation-1oae)
+- [[Boost]](https://dev.to/mesonu/-25cg)
+- [6 Advanced Python Context Managers for Efficient Resource Management](https://dev.to/aaravjoshi/6-advanced-python-context-managers-for-efficient-resource-management-4j0f)
+- [12 New JavaScript Features Every Developer Should Know](https://dev.to/mesonu/12-new-javascript-features-every-developer-should-know-4nln)
+- [5 Advanced Front-End Testing Strategies to Boost Web App Quality](https://dev.to/aaravjoshi/5-advanced-front-end-testing-strategies-to-boost-web-app-quality-19k4)
+- [How to return meaningful error messages with Zod, Lambda and API Gateway in AWS CDK](https://dev.to/katherine_m/how-to-return-meaningful-error-messages-with-zod-lambda-and-api-gateway-in-aws-cdk-3l2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
