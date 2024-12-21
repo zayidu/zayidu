@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tipos brutos e código legado](https://dev.to/javaparainiciantes/tipos-brutos-e-codigo-legado-3c6m)
-- [Exploring AWS EKS Auto Mode: A Simplified Kubernetes Experience](https://dev.to/aws-heroes/exploring-aws-eks-auto-mode-a-simplified-kubernetes-experience-3744)
-- [Programming Problem Solving: C++ Case Study](https://dev.to/afolabi_abdulsamad_52f6de/programming-problem-solving-c-case-study-5hla)
-- [Serverless semantic search - AWS Lambda, AWS Bedrock, Neon](https://dev.to/aws-builders/serverless-semantic-search-aws-lambda-aws-bedrock-neon-59lo)
-- [Day 20: Docker Orchestrators](https://dev.to/code42cate/day-20-docker-orchestrators-384f)
+- [QR Code Generator Using HTML, CSS, and JavaScript](https://dev.to/doxa_dev/qr-code-generator-using-html-css-and-javascript-1deh)
+- [WIP Notes working though Render hosting Postgres + SQL Alchemy + Flask + Vite + React-ts + React-query + Wouter + Tailwind](https://dev.to/codewander/notes-working-though-render-hosting-postgres-sql-alchemy-flask-vite-react-ts-react-query-2ili)
+- [A Beginners Guide to Serverless API Gateway Authentication with Lambda Authorizer](https://dev.to/aws-builders/a-beginners-guide-to-serverless-api-gateway-authentication-with-lambda-authorizer-1ach)
+- [Frontend Challenge - December Edition](https://dev.to/fazly_fathhy/frontend-challenge-december-edition-203i)
+- [Winter Solstice](https://dev.to/avradeep_nayak_fa8d5f6995/winter-solstice-2nf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
