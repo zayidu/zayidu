@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Web Authentication: Sessions vs. JWTs](https://dev.to/arnav2004/understanding-web-authentication-sessions-vs-jwts-34nf)
-- [Les clés du développement web: React JS, TypeScript et TSX](https://dev.to/ftahiri/les-cles-du-developpement-web-react-js-typescript-et-tsx-3gp0)
-- [How to Cut Down Work-from-Home Distractions as a Mom?](https://dev.to/ipremiums/how-to-cut-down-work-from-home-distractions-as-a-mom-23lm)
-- [Why Should Developers Consider Google Cloud Platform Over Other Providers?](https://dev.to/innovative-insight/why-should-developers-consider-google-cloud-platform-over-other-providers-21ag)
-- [How to Prepare for the Google Cloud Professional Cloud Architect Exam?](https://dev.to/innovative-insight/how-to-prepare-for-the-google-cloud-professional-cloud-architect-exam-l0j)
+- [Playwright: A Comprehensive Overview of Web UI Automation Testing Framework](https://dev.to/isaac_chen/playwright-a-comprehensive-overview-of-web-ui-automation-testing-framework-1lln)
+- [Exploring GraphCodeBERT for Code Search: Insights and Limitations](https://dev.to/rebuss/exploring-graphcodebert-for-code-search-insights-and-limitations-4jm)
+- [4. Testing &lpar;async&rpar; searchParams with Jest in Next 15](https://dev.to/peterlidee/4-testing-async-searchparams-with-jest-in-next-15-2h2o)
+- [Why watch anime like a normie ?](https://dev.to/serene-brew/why-watch-anime-like-a-normie--2434)
+- [Boost Your Productivity with awscurl: Simplifying IAM-Secured API Testing in AWS](https://dev.to/aws-builders/boost-your-productivity-with-awscurl-simplifying-iam-secured-api-testing-in-aws-5e62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
