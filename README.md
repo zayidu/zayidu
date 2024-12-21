@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Advanced Docker Networking: Macvlan vs. Ipvlan](https://dev.to/abhay_yt_52a8e72b213be229/unlocking-advanced-docker-networking-macvlan-vs-ipvlan-38o4)
-- [How to Deploy a Multi-Container App in Amazon ECS?](https://dev.to/vellanki/amazon-ecs-5gg)
-- [Why Global Standards of API Design Save Your Team Time](https://dev.to/lovestaco/why-global-standards-of-api-design-save-your-team-time-27an)
-- [well... thinkpads are awesome](https://dev.to/ashercarneiro/well-thinkpads-are-awesome-392e)
-- [Unlocking Docker BuildKit for Faster and More Secure Builds](https://dev.to/abhay_yt_52a8e72b213be229/unlocking-docker-buildkit-for-faster-and-more-secure-builds-3o3j)
+- [Explore use of agents to comment you code](https://dev.to/bsorrentino/explore-use-of-agents-to-comment-you-code-51ok)
+- [MBA em Desenvolvimento de Software Avançado com foco em Ruby on Rails](https://dev.to/alexandrecalaca/mba-em-desenvolvimento-de-software-avancado-com-foco-em-ruby-on-rails-3plj)
+- [🌿 Why RabbitMQ is Faster than Apache Kafka and When to Use Each](https://dev.to/zororaka/why-rabbitmq-is-faster-than-apache-kafka-and-when-to-use-each-2565)
+- [Discuss: What&#39;s your tech Prediction for 2025?](https://dev.to/hr21don/discuss-whats-your-tech-prediction-for-2025-5d6a)
+- [10 new HTML tips](https://dev.to/code_2/10-new-html-tips-46bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
