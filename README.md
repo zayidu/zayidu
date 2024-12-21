@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking program](https://dev.to/cvc_games/hacking-program-46gi)
-- [Highly scalable image storage solution with AWS Serverless - Building File API for Uploads and Downloads](https://dev.to/faboulaye/highly-scalable-image-storage-solution-with-aws-serverless-building-file-api-for-uploads-and-2kgb)
-- [Important Topics for Frontend Developers to Master in 2025](https://dev.to/moibra/important-topics-for-frontend-developers-to-master-in-2025-59jo)
-- [10 Statistical Terms to Know as a Data Analyst](https://dev.to/moubarakmohame4/10-statistical-terms-to-know-as-a-data-analyst-15hh)
-- [☁️ Weather App Built with HTML, CSS &amp; JavaScript 🌡️](https://dev.to/ayusharpcoder/weather-app-built-with-html-css-javascript-26j8)
+- [Live Azure VM Workshop | Deploy and Manage Azure VMs: RDP, Resize, Troubleshoot, IIS Setup](https://dev.to/s3cloudhub/live-azure-vm-workshop-deploy-and-manage-azure-vms-rdp-resize-troubleshoot-iis-setup-529b)
+- [Amazon Q Developer Tips: No.21 Amazon Q Developer Agents - /test](https://dev.to/aws/amazon-q-developer-tips-no21-amazon-q-developer-agents-test-37o5)
+- [Top AI Tools PhD Students Must Use](https://dev.to/mit_wpu_a8b0cb1ef465135de/top-ai-tools-phd-students-must-use-fn9)
+- [Hero to Zero: How Not To Manage Staff Redundancies](https://dev.to/thumbone/hero-to-zero-how-not-to-manage-staff-redundancies-jl1)
+- [Enhancing the Efficacy of Mobile Banking with AI-Powered Testing](https://dev.to/jennife05918349/enhancing-the-efficacy-of-mobile-banking-with-ai-powered-testing-3k7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
