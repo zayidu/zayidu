@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 21: In the name of Progress! 📈](https://dev.to/valeriavg/day-21-for-the-progress-4369)
-- [TypeScript for Domain-Driven Design &lpar;DDD&rpar;](https://dev.to/shafayeat/typescript-for-domain-driven-design-ddd-6kk)
-- [Who is siitecch for ?](https://dev.to/osita/who-is-siitecch-for--dn9)
-- [🚀 Unlock Free AI and Cloud Skills with Microsoft’s Free Courses](https://dev.to/ajay_tainwala/unlock-free-ai-and-cloud-skills-with-microsofts-free-courses-44lm)
-- [Identifying Duplicate Elements in Arrays: A Comprehensive Guide for Aspiring Programmers](https://dev.to/rk042/identifying-duplicate-elements-in-arrays-a-comprehensive-guide-for-aspiring-programmers-3eh3)
+- [Create Professional Banners with the As Seen On Image Generator Online](https://dev.to/foxinfotech/create-professional-banners-with-the-as-seen-on-image-generator-online-p50)
+- [go调用solidity合约新方法](https://dev.to/xiaodao/godiao-yong-solidityhe-yue-xin-fang-fa-lp2)
+- [Make Your Website Dark Mode Ready in 15 Minutes](https://dev.to/peboycodes/make-your-website-dark-mode-ready-in-15-minutes-1jb4)
+- [Session Crashing](https://dev.to/zicoray007/session-crashing-3ep1)
+- [What are the future plans for Siitecch?](https://dev.to/osita/what-are-the-future-plans-for-siitecch-5fln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
