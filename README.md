@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Playwright: A Comprehensive Overview of Web UI Automation Testing Framework](https://dev.to/isaac_chen/playwright-a-comprehensive-overview-of-web-ui-automation-testing-framework-1lln)
-- [Exploring GraphCodeBERT for Code Search: Insights and Limitations](https://dev.to/rebuss/exploring-graphcodebert-for-code-search-insights-and-limitations-4jm)
-- [4. Testing &lpar;async&rpar; searchParams with Jest in Next 15](https://dev.to/peterlidee/4-testing-async-searchparams-with-jest-in-next-15-2h2o)
-- [Why watch anime like a normie ?](https://dev.to/serene-brew/why-watch-anime-like-a-normie--2434)
-- [Boost Your Productivity with awscurl: Simplifying IAM-Secured API Testing in AWS](https://dev.to/aws-builders/boost-your-productivity-with-awscurl-simplifying-iam-secured-api-testing-in-aws-5e62)
+- [How to integrate pgvector&#39;s Docker image with Langchain?](https://dev.to/busycaesar/how-to-integrate-pgvectors-docker-image-with-langchain-2o3b)
+- [Crafting Robust Applications Across AWS, On-Premises, and Data Centers: A Comprehensive Technical Guide](https://dev.to/akhil_mittal/crafting-robust-applications-across-aws-on-premises-and-data-centers-a-comprehensive-technical-15e2)
+- [A Walkthrough of Solidity Custom Errors](https://dev.to/block_experts_766a3a21915637/a-walkthrough-of-solidity-custom-errors-88g)
+- [Building a File Upload App with TypeScript, React, and Auto-Drive API](https://dev.to/radzion/building-a-file-upload-app-with-typescript-react-and-auto-drive-api-3kf)
+- [Preparing extensions for Joomla 6. CMSObject -&gt; stdClass.](https://dev.to/sergeytolkachyov/preparing-extensions-for-joomla-6-cmsobject-stdclass-1p98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
