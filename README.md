@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring HuggingFace and Building an AI Exam Question Generator](https://dev.to/kurtchan/exploring-huggingface-and-building-an-ai-exam-question-generator-3e2d)
-- [Transform Your API Logs Into Interactive Visualizations with This Free Online Tool](https://dev.to/foxinfotech/transform-your-api-logs-into-interactive-visualizations-with-this-free-online-tool-3np0)
-- [Leitura comentada - Arquitetura Limpa - Princípios dos componentes](https://dev.to/ifelipedev/leitura-comentada-arquitetura-limpa-principios-dos-componentes-18kc)
-- [Azure DevOps Flutter IOS CI Pipeline](https://dev.to/mohamedamr/azure-devops-flutter-ios-ci-pipeline-1kb)
-- [Day 12: Layouts and Floats](https://dev.to/theoriginalbpc/day-12-layouts-and-floats-58dl)
+- [Identifying Duplicate Elements in Arrays: A Comprehensive Guide for Aspiring Programmers](https://dev.to/rk042/identifying-duplicate-elements-in-arrays-a-comprehensive-guide-for-aspiring-programmers-3eh3)
+- [AWS CDK - aws-lambda-nodejs Module &lpar;updated&rpar;](https://dev.to/vanroy86/aws-cdk-aws-lambda-nodejs-module-updated-n3i)
+- [Mastering Azure Monitor: A Step-by-Step Guide to Monitoring Your Azure Virtual Machine Like a Pro](https://dev.to/unique-tea/mastering-azure-monitor-a-step-by-step-guide-to-monitoring-your-azure-virtual-machine-like-a-pro-33ko)
+- [Test. 1](https://dev.to/himanshu_mishra_13/test-1-5f4o)
+- [React](https://dev.to/baonguyen2411/react-3ni7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
