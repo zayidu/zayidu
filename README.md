@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install IIS on Windows Server](https://dev.to/s3cloudhub/how-to-install-iis-on-windows-server-2e9l)
-- [MYTH: You Need a CS Degree to Get Started with Software Engineering](https://dev.to/javeedishaq/myth-you-need-a-cs-degree-to-get-started-with-software-engineering-2dl5)
-- [Concept of Infrastructure Monitoring](https://dev.to/574n13y/concept-of-infrastructure-monitoring-492l)
-- [Useful JavaScript tips and tricks that you may not be aware of 💻👨‍💻](https://dev.to/aryan_shourie/useful-javascript-tips-and-tricks-that-you-may-not-be-aware-of-32af)
-- [NanoMD: 輕量化 Markdown 編輯器](https://dev.to/pardnchiu/nanomd-qing-liang-hua-markdown-bian-ji-qi-9o7)
+- [Is Anyone Here Familiar with Postman Repositories?](https://dev.to/bradi/is-anyone-here-familiar-with-postman-repositories-3335)
+- [Validation in Spring REST Framework](https://dev.to/birddevelper/validation-in-spring-rest-framework-5e04)
+- [Deploying Kubernetes CronJobs with Helm and Google Cloud Build](https://dev.to/mkdev/deploying-kubernetes-cronjobs-with-helm-and-google-cloud-build-m68)
+- [How to Fix the Issue of Not Being Able to View Your GitHub Account on Other Devices](https://dev.to/bradi/how-to-fix-the-issue-of-not-being-able-to-view-your-github-account-on-other-devices-4ipe)
+- [unique_ptr&lt;T&gt; - A minimal implementation](https://dev.to/thequantdev/uniqueptr-a-minimal-implementation-1oae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
