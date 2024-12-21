@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Server-side rendering without Next.js, Remix, Nuxt.js, etc.](https://dev.to/hmpljs/server-side-rendering-without-nextjs-remix-nuxtjs-etc-14fe)
-- [Introducing LightUp: AI-Powered Annotations for the Web](https://dev.to/sadiq_mooo/introducing-lightup-ai-powered-annotations-for-the-web-301j)
-- [TailwindCSS The Great!](https://dev.to/arunkrish11/tailwindcss-the-great-6m3)
-- [Step-by-Step Guide: Running LLM Models with Ollama](https://dev.to/snehalkadwe/how-to-setup-ollma-and-llm-4601)
-- [The Cloud-Native Revolution: A Beginner&#39;s Guide to Building the Future in 2025](https://dev.to/vellanki/the-cloud-native-revolution-a-beginners-guide-to-building-the-future-in-2025-3hik)
+- [Lithe Framework: Incredible Projects Built with It!](https://dev.to/lithephp/lithe-framework-incredible-projects-built-with-it-f2b)
+- [Framework Lithe: Projetos incríveis feitos com ele!](https://dev.to/lithephp/framework-lithe-projetos-incriveis-feitos-com-ele-1n7d)
+- [Microservices Architecture: Breaking Down Monoliths for Scalability](https://dev.to/vellanki/microservices-architecture-breaking-down-monoliths-for-scalability-54kc)
+- [Ever save a LinkedIn post thinking, “I’ll get back to this later,” but totally forget?](https://dev.to/ayaarragab/ever-save-a-linkedin-post-thinking-ill-get-back-to-this-later-but-totally-forget-33af)
+- [DevOps vs. DevSecOps: What’s the Difference and Why It Matters?](https://dev.to/vellanki/devops-vs-devsecops-whats-the-difference-and-why-it-matters-4lnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
