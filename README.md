@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring HuggingFace and Building an AI Exam Question Generator](https://dev.to/kurtchan/exploring-huggingface-and-building-an-ai-exam-question-generator-3e2d)
+- [Transform Your API Logs Into Interactive Visualizations with This Free Online Tool](https://dev.to/foxinfotech/transform-your-api-logs-into-interactive-visualizations-with-this-free-online-tool-3np0)
+- [Leitura comentada - Arquitetura Limpa - Princípios dos componentes](https://dev.to/ifelipedev/leitura-comentada-arquitetura-limpa-principios-dos-componentes-18kc)
+- [Azure DevOps Flutter IOS CI Pipeline](https://dev.to/mohamedamr/azure-devops-flutter-ios-ci-pipeline-1kb)
 - [Day 12: Layouts and Floats](https://dev.to/theoriginalbpc/day-12-layouts-and-floats-58dl)
-- [How to create efficient containers](https://dev.to/sidikndik/how-to-create-efficient-containers-1fkf)
-- [A Practical Guide to Reducing LLM Hallucinations with Sandboxed Code Interpreter](https://dev.to/dbolotov/a-practical-guide-to-reducing-llm-hallucinations-with-sandboxed-code-interpreter-nbb)
-- [Code Smell 284 - Encrypted Functions](https://dev.to/mcsee/code-smell-284-encrypted-functions-301e)
-- [Unit tests so you don&#39;t lose your levitating plant](https://dev.to/bcornils/unit-tests-so-you-dont-lose-your-levitating-plant-39f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
