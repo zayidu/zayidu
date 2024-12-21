@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Become a Successful Software Developer in 2024](https://dev.to/empiree/how-to-become-a-successful-software-developer-in-2024-2f07)
+- [Terminalizer: Record, Edit, and Share Terminal Sessions](https://dev.to/cloudnative_eng/terminalizer-record-edit-and-share-terminal-sessions-2ihh)
+- [Enjoying free CoPilot? Why not do it safely..](https://dev.to/stacklok/enjoying-free-copilot-why-not-do-it-safely-38o6)
 - [Explore use of agents to comment you code](https://dev.to/bsorrentino/explore-use-of-agents-to-comment-you-code-51ok)
 - [MBA em Desenvolvimento de Software Avançado com foco em Ruby on Rails](https://dev.to/alexandrecalaca/mba-em-desenvolvimento-de-software-avancado-com-foco-em-ruby-on-rails-3plj)
-- [🌿 Why RabbitMQ is Faster than Apache Kafka and When to Use Each](https://dev.to/zororaka/why-rabbitmq-is-faster-than-apache-kafka-and-when-to-use-each-2565)
-- [Discuss: What&#39;s your tech Prediction for 2025?](https://dev.to/hr21don/discuss-whats-your-tech-prediction-for-2025-5d6a)
-- [10 new HTML tips](https://dev.to/code_2/10-new-html-tips-46bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
