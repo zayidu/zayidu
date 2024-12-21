@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to integrate pgvector&#39;s Docker image with Langchain?](https://dev.to/busycaesar/how-to-integrate-pgvectors-docker-image-with-langchain-2o3b)
-- [Crafting Robust Applications Across AWS, On-Premises, and Data Centers: A Comprehensive Technical Guide](https://dev.to/akhil_mittal/crafting-robust-applications-across-aws-on-premises-and-data-centers-a-comprehensive-technical-15e2)
-- [A Walkthrough of Solidity Custom Errors](https://dev.to/block_experts_766a3a21915637/a-walkthrough-of-solidity-custom-errors-88g)
-- [Building a File Upload App with TypeScript, React, and Auto-Drive API](https://dev.to/radzion/building-a-file-upload-app-with-typescript-react-and-auto-drive-api-3kf)
-- [Preparing extensions for Joomla 6. CMSObject -&gt; stdClass.](https://dev.to/sergeytolkachyov/preparing-extensions-for-joomla-6-cmsobject-stdclass-1p98)
+- [Tipos brutos e código legado](https://dev.to/javaparainiciantes/tipos-brutos-e-codigo-legado-3c6m)
+- [Exploring AWS EKS Auto Mode: A Simplified Kubernetes Experience](https://dev.to/aws-heroes/exploring-aws-eks-auto-mode-a-simplified-kubernetes-experience-3744)
+- [Programming Problem Solving: C++ Case Study](https://dev.to/afolabi_abdulsamad_52f6de/programming-problem-solving-c-case-study-5hla)
+- [Serverless semantic search - AWS Lambda, AWS Bedrock, Neon](https://dev.to/aws-builders/serverless-semantic-search-aws-lambda-aws-bedrock-neon-59lo)
+- [Day 20: Docker Orchestrators](https://dev.to/code42cate/day-20-docker-orchestrators-384f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
