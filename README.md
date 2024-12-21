@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [QR Code Generator Using HTML, CSS, and JavaScript](https://dev.to/doxa_dev/qr-code-generator-using-html-css-and-javascript-1deh)
-- [WIP Notes working though Render hosting Postgres + SQL Alchemy + Flask + Vite + React-ts + React-query + Wouter + Tailwind](https://dev.to/codewander/notes-working-though-render-hosting-postgres-sql-alchemy-flask-vite-react-ts-react-query-2ili)
-- [A Beginners Guide to Serverless API Gateway Authentication with Lambda Authorizer](https://dev.to/aws-builders/a-beginners-guide-to-serverless-api-gateway-authentication-with-lambda-authorizer-1ach)
-- [Frontend Challenge - December Edition](https://dev.to/fazly_fathhy/frontend-challenge-december-edition-203i)
-- [Winter Solstice](https://dev.to/avradeep_nayak_fa8d5f6995/winter-solstice-2nf2)
+- [Server-side rendering without Next.js, Remix, Nuxt.js, etc.](https://dev.to/hmpljs/server-side-rendering-without-nextjs-remix-nuxtjs-etc-14fe)
+- [Introducing LightUp: AI-Powered Annotations for the Web](https://dev.to/sadiq_mooo/introducing-lightup-ai-powered-annotations-for-the-web-301j)
+- [TailwindCSS The Great!](https://dev.to/arunkrish11/tailwindcss-the-great-6m3)
+- [Step-by-Step Guide: Running LLM Models with Ollama](https://dev.to/snehalkadwe/how-to-setup-ollma-and-llm-4601)
+- [The Cloud-Native Revolution: A Beginner&#39;s Guide to Building the Future in 2025](https://dev.to/vellanki/the-cloud-native-revolution-a-beginners-guide-to-building-the-future-in-2025-3hik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
