@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Resilient Webhooks on AWS CDK](https://dev.to/katherine_m/creating-resilient-webhooks-on-aws-cdk-10pd)
-- [Places365 in PyTorch](https://dev.to/hyperkai/places365-in-pytorch-3ega)
-- [Understanding the problem space in product management](https://dev.to/wdp/understanding-the-problem-space-in-product-management-1ffi)
-- [Steps to Dealing with Overcoming Imposter Syndrome in Tech](https://dev.to/shrutikapoor08/7-steps-to-dealing-with-overcoming-imposter-syndrome-in-tech-4l3g)
-- [Reflections em Java: Uma Ferramenta Poderosa e Seus Cuidados](https://dev.to/marcelovmendes/reflections-em-java-uma-ferramenta-poderosa-e-seus-cuidados-4m3m)
+- [Day 12: Layouts and Floats](https://dev.to/theoriginalbpc/day-12-layouts-and-floats-58dl)
+- [How to create efficient containers](https://dev.to/sidikndik/how-to-create-efficient-containers-1fkf)
+- [A Practical Guide to Reducing LLM Hallucinations with Sandboxed Code Interpreter](https://dev.to/dbolotov/a-practical-guide-to-reducing-llm-hallucinations-with-sandboxed-code-interpreter-nbb)
+- [Code Smell 284 - Encrypted Functions](https://dev.to/mcsee/code-smell-284-encrypted-functions-301e)
+- [Unit tests so you don&#39;t lose your levitating plant](https://dev.to/bcornils/unit-tests-so-you-dont-lose-your-levitating-plant-39f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
