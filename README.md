@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Professional Banners with the As Seen On Image Generator Online](https://dev.to/foxinfotech/create-professional-banners-with-the-as-seen-on-image-generator-online-p50)
-- [go调用solidity合约新方法](https://dev.to/xiaodao/godiao-yong-solidityhe-yue-xin-fang-fa-lp2)
-- [Make Your Website Dark Mode Ready in 15 Minutes](https://dev.to/peboycodes/make-your-website-dark-mode-ready-in-15-minutes-1jb4)
-- [Session Crashing](https://dev.to/zicoray007/session-crashing-3ep1)
-- [What are the future plans for Siitecch?](https://dev.to/osita/what-are-the-future-plans-for-siitecch-5fln)
+- [Hacking program](https://dev.to/cvc_games/hacking-program-46gi)
+- [Highly scalable image storage solution with AWS Serverless - Building File API for Uploads and Downloads](https://dev.to/faboulaye/highly-scalable-image-storage-solution-with-aws-serverless-building-file-api-for-uploads-and-2kgb)
+- [Important Topics for Frontend Developers to Master in 2025](https://dev.to/moibra/important-topics-for-frontend-developers-to-master-in-2025-59jo)
+- [10 Statistical Terms to Know as a Data Analyst](https://dev.to/moubarakmohame4/10-statistical-terms-to-know-as-a-data-analyst-15hh)
+- [☁️ Weather App Built with HTML, CSS &amp; JavaScript 🌡️](https://dev.to/ayusharpcoder/weather-app-built-with-html-css-javascript-26j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
