@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lithe Framework: Incredible Projects Built with It!](https://dev.to/lithephp/lithe-framework-incredible-projects-built-with-it-f2b)
-- [Framework Lithe: Projetos incríveis feitos com ele!](https://dev.to/lithephp/framework-lithe-projetos-incriveis-feitos-com-ele-1n7d)
-- [Microservices Architecture: Breaking Down Monoliths for Scalability](https://dev.to/vellanki/microservices-architecture-breaking-down-monoliths-for-scalability-54kc)
-- [Ever save a LinkedIn post thinking, “I’ll get back to this later,” but totally forget?](https://dev.to/ayaarragab/ever-save-a-linkedin-post-thinking-ill-get-back-to-this-later-but-totally-forget-33af)
-- [DevOps vs. DevSecOps: What’s the Difference and Why It Matters?](https://dev.to/vellanki/devops-vs-devsecops-whats-the-difference-and-why-it-matters-4lnl)
+- [Unlocking Advanced Docker Networking: Macvlan vs. Ipvlan](https://dev.to/abhay_yt_52a8e72b213be229/unlocking-advanced-docker-networking-macvlan-vs-ipvlan-38o4)
+- [How to Deploy a Multi-Container App in Amazon ECS?](https://dev.to/vellanki/amazon-ecs-5gg)
+- [Why Global Standards of API Design Save Your Team Time](https://dev.to/lovestaco/why-global-standards-of-api-design-save-your-team-time-27an)
+- [well... thinkpads are awesome](https://dev.to/ashercarneiro/well-thinkpads-are-awesome-392e)
+- [Unlocking Docker BuildKit for Faster and More Secure Builds](https://dev.to/abhay_yt_52a8e72b213be229/unlocking-docker-buildkit-for-faster-and-more-secure-builds-3o3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
