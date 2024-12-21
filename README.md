@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Challenge: 12. Integer to Roman - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-12-integer-to-roman-javascript-solution-1ee)
-- [7 Practical Ways to Build Backends Much Faster as a Developer](https://dev.to/hexa-home/7-practical-ways-to-build-backends-much-faster-as-a-developer-325o)
-- [#11 Next.js 15: Revolutionizing Server-Side Rendering &lpar;SSR&rpar; for Modern Applications😯🤓](https://dev.to/sahilshityalkar/11-nextjs-15-revolutionizing-server-side-rendering-ssr-for-modern-applications-1inc)
-- [Understanding CI/CD: A Comprehensive Guide](https://dev.to/thisisthedeveloper/understanding-cicd-a-comprehensive-guide-4klg)
-- [Mantis, a web framework written in V](https://dev.to/anwar_nairi/mantis-a-web-framework-written-in-v-39e9)
+- [Understanding Web Authentication: Sessions vs. JWTs](https://dev.to/arnav2004/understanding-web-authentication-sessions-vs-jwts-34nf)
+- [Les clés du développement web: React JS, TypeScript et TSX](https://dev.to/ftahiri/les-cles-du-developpement-web-react-js-typescript-et-tsx-3gp0)
+- [How to Cut Down Work-from-Home Distractions as a Mom?](https://dev.to/ipremiums/how-to-cut-down-work-from-home-distractions-as-a-mom-23lm)
+- [Why Should Developers Consider Google Cloud Platform Over Other Providers?](https://dev.to/innovative-insight/why-should-developers-consider-google-cloud-platform-over-other-providers-21ag)
+- [How to Prepare for the Google Cloud Professional Cloud Architect Exam?](https://dev.to/innovative-insight/how-to-prepare-for-the-google-cloud-professional-cloud-architect-exam-l0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
