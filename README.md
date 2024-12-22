@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Preventing File Inclusion Vulnerabilities in Laravel Applications](https://dev.to/pentest_testing_corp/preventing-file-inclusion-vulnerabilities-in-laravel-applications-o3d)
-- [Sentiment Analysis &amp; Course Recommendation using Web Scraping](https://dev.to/hasnain01hub/sentiment-analysis-course-recommendation-using-web-scraping-1pc6)
-- [CustomText - Custom Widget Series](https://dev.to/arafaysaleem/customtext-custom-widget-series-42l4)
-- [Want to start learning LLM and Generative AI? Start with Ollama and this article.](https://dev.to/ohdylan/want-to-start-learning-llm-and-generative-ai-start-with-ollama-and-this-article-16hf)
-- [Mastering PostgreSQL Performance: Tips and Best Practices](https://dev.to/innovative-insight/mastering-postgresql-performance-tips-and-best-practices-36c6)
+- [Winter Solstice: Frontend Challenge - December Edition](https://dev.to/dhanush9952/winter-solstice-frontend-challenge-december-edition-2nd0)
+- [The Ultimate Guide to iOS Development: Functions &lpar;Part 5&rpar;](https://dev.to/abdevhub/the-ultimate-guide-to-ios-development-functions-part-5-1npi)
+- [Web Workers for Multithreading in JavaScript](https://dev.to/web_dev-usman/web-workers-for-multithreading-in-javascript-5go2)
+- [Landing Page: Winter Solstice Celebrations Dev Challenge](https://dev.to/kishoreology/landing-page-winter-solstice-celebrations-dev-challenge-3372)
+- [Pathway to Mind and Self](https://dev.to/arindampratap/pathway-to-mind-and-self-46h9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
