@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Winter Solstice: Frontend Challenge - December Edition](https://dev.to/dhanush9952/winter-solstice-frontend-challenge-december-edition-2nd0)
-- [The Ultimate Guide to iOS Development: Functions &lpar;Part 5&rpar;](https://dev.to/abdevhub/the-ultimate-guide-to-ios-development-functions-part-5-1npi)
-- [Web Workers for Multithreading in JavaScript](https://dev.to/web_dev-usman/web-workers-for-multithreading-in-javascript-5go2)
-- [Landing Page: Winter Solstice Celebrations Dev Challenge](https://dev.to/kishoreology/landing-page-winter-solstice-celebrations-dev-challenge-3372)
-- [Pathway to Mind and Self](https://dev.to/arindampratap/pathway-to-mind-and-self-46h9)
+- [Amazon Q Developer Tips: No.22 Amazon Q Keyboard shortcuts](https://dev.to/aws/amazon-q-developer-tips-no22-amazon-q-keyboard-shortcuts-2kfc)
+- [New 47 GitHub Repositories - OpenSource of Dec 20, 2024](https://dev.to/gittech/new-47-github-repositories-opensource-of-dec-20-2024-4l5p)
+- [Enhancing LRU Cache with Configurable Data Persistence](https://dev.to/armando284/enhancing-lru-cache-with-configurable-data-persistence-37am)
+- [Top 10 Linux Commands Every DevOps Engineer Should Know](https://dev.to/imransaifi/top-10-linux-commands-every-devops-engineer-should-know-df8)
+- [LlamaFusion: How Language Models Can Create Images with Just 0.1% Parameter Changes](https://dev.to/mikeyoung44/llamafusion-how-language-models-can-create-images-with-just-01-parameter-changes-3mb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
