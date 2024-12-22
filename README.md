@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What are the best logging and monitoring tools for .NET apps](https://dev.to/francis04j/what-are-the-best-logging-and-monitoring-tools-for-net-apps-1kj0)
-- [Advent of Code 2024 - Day 20: Race Condition](https://dev.to/grantdotdev/advent-of-code-2024-day-20-race-condition-8pd)
-- [AI Testing: A Technical Deep Dive into the Future of Software Quality Assurance](https://dev.to/anil_csimplifyit_905c/ai-testing-a-technical-deep-dive-into-the-future-of-software-quality-assurance-3ond)
-- [Build a Conversational Generative AI Assistant Using Amazon Q Business – A Step-by-Step Guide](https://dev.to/aws-builders/build-a-conversational-generative-ai-assistant-using-amazon-q-business-a-step-by-step-guide-m35)
-- [SVG hacks for you](https://dev.to/filip_kudla/svg-hacks-for-you-2nl5)
+- [60-Second Series - Amazon S3: The Simple Storage Solution for Your Data Needs](https://dev.to/aws-builders/60-second-series-amazon-s3-the-simple-storage-solution-for-your-data-needs-2gf0)
+- [MY FIRST GAME 🤩](https://dev.to/mince/my-first-game-4gf)
+- [TEST](https://dev.to/rudrabhardwaj/test-163)
+- [Chatting with Mood: A Dynamic Theme Switcher Powered by DevCycle](https://dev.to/programmerraja/chatting-with-mood-a-dynamic-theme-switcher-powered-by-devcycle-fao)
+- [AWS Serverless: Develop, Test, and Deploy with AWS Lambda&#39;s New Code Editor and SAM template](https://dev.to/bhatiagirish/aws-serverless-develop-test-and-deploy-with-aws-lambdas-new-code-editor-and-sam-template-14in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
