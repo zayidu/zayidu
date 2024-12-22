@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When Tech Plays Mind Games, The Curious Case of Uber Pricing](https://dev.to/shafayeat/when-tech-plays-mind-games-the-curious-case-of-uber-pricing-371)
-- [TypeScript vs JavaScript: Key Differences, Features, and When to Use Each](https://dev.to/codeparrot/typescript-vs-javascript-key-differences-features-and-when-to-use-each-2mil)
-- [Threat Modeling in Architecture](https://dev.to/uwatgule/threat-modeling-in-architecture-2hh6)
-- [Creating a Scrollable Table with a Sticky Header and Frozen Column Using HTML and CSS](https://dev.to/lalitkhu/creating-a-scrollable-table-with-a-sticky-header-and-frozen-column-using-html-and-css-1d2a)
-- [How to optimize latency and throughput](https://dev.to/kiranravichandran/how-to-optimize-latency-and-throughput-1cd5)
+- [PWA Pilipinas Roadshow in Baguio: A Night of Learning, Innovation, and Community](https://dev.to/kakacomputer-media/pwa-pilipinas-roadshow-in-baguio-a-night-of-learning-innovation-and-community-2ai5)
+- [What is generator function in JavaScript? and How does it work?](https://dev.to/imranshaik012/what-is-generator-function-in-javascript-and-how-does-it-work-5g8a)
+- [Download Video from s3 with Cloudfront, nodejs and react](https://dev.to/chocoscoding/download-video-from-s3-with-cloudfront-nodejs-and-react-15he)
+- [The Complete Guide to Types of Software Testing](https://dev.to/innovative-insight/the-complete-guide-to-types-of-software-testing-18n0)
+- [Protecting Your Email Online: All You Need to Know](https://dev.to/airabbit/protecting-your-email-online-all-you-need-to-know-4007)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
