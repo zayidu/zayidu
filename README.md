@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎄CSS Art: December Challange - Christmas In Malaysia ✨](https://dev.to/juniourrau/css-art-december-challange-christmas-in-malaysia-1fjb)
-- [Redux Toolkit: Creating Thunk Functions](https://dev.to/hajarnasr/redux-toolkit-creating-thunk-functions-ic2)
-- [A Starknet transactions batcher](https://dev.to/bastienfaivre/a-starknet-transactions-batcher-1hpk)
-- [Santa&#39;s Care](https://dev.to/apurva122/santas-care-m17)
-- [Catalyst Tricks: Map Request Parameters to a Model](https://dev.to/jjn1056/catalyst-tricks-map-request-parameters-to-a-model-44fa)
+- [Winter Solstice](https://dev.to/ambatichaitanya/winter-solstice-3d8a)
+- [Mentoring for Women in IT: How to Get the Most Out of It](https://dev.to/kwan/mentoring-for-women-in-it-how-to-get-the-most-out-of-it-3dl2)
+- [2940. Find Building Where Alice and Bob Can Meet](https://dev.to/mdarifulhaque/2940-find-building-where-alice-and-bob-can-meet-2m2m)
+- [&lpar;Occasionally&rpar; Useful Web Tools For Android Developers](https://dev.to/berhram/occasionally-useful-web-tools-for-android-developers-4g48)
+- [Solution: Android Emulator is too big and wont fit on screen -Windows 10](https://dev.to/pgomezec/solution-android-emulator-is-too-big-and-wont-fit-on-screen-windows-10-5fd4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
