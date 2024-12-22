@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript for Professionals](https://dev.to/dhanush9952/typescript-for-professionals-2309)
-- [60-Second Series - Amazon EFS: Elastic File Storage Simplified](https://dev.to/aws-builders/60-second-amazon-efs-elastic-file-storage-simplified-21hp)
-- [Al Samiul Himel](https://dev.to/alsamiulhimel/al-samiul-himel-1nda)
-- [Exportar Voip para AWS EC2 - .vmdk ou .ova](https://dev.to/aldeiacloud/exportar-voip-para-aws-ec2-vmdk-ou-ova-3o4o)
-- [AI Cabin Crew: Taking Teamwork to New Heights](https://dev.to/khaisimon_devgame/ai-cabin-crew-taking-teamwork-to-new-heights-1af0)
+- [Unleashing the Power of Tailwind CSS: A Comprehensive Guide](https://dev.to/oliviarizona88/unleashing-the-power-of-tailwind-css-a-comprehensive-guide-5eai)
+- [🌟 Welcome to Forem: The Ultimate Platform for Building Thriving Communities!🌐](https://dev.to/hanzla-baig/welcome-to-forem-the-ultimate-platform-for-building-thriving-communities-1c1d)
+- [🚀 Introducing JSON Viewer Extension 2025: The Modern Way to Visualize JSON](https://dev.to/bugblitz98/introducing-json-viewer-extension-2025-the-modern-way-to-visualize-json-4kcn)
+- [60-Second Series - Amazon FSx: Purpose-Built File Storage](https://dev.to/aws-builders/60-second-series-amazon-fsx-purpose-built-file-storage-276b)
+- [How to Survive Your First IT Job &lpar;Advice for New Grad Techs&rpar;](https://dev.to/kakacomputer-media/how-to-survive-your-first-it-job-advice-for-new-grad-techs-2kof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
