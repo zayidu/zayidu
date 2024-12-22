@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Future of Frontend Technology: Trends and Innovations for 2025](https://dev.to/jetthoughts/exploring-the-future-of-frontend-technology-trends-and-innovations-for-2025-5hk6)
-- [Aeon&#39;s Surreal Renaissance: Learn SurrealDB Through a Story](https://dev.to/surrealdb/aeons-surreal-renaissance-learn-surrealdb-through-a-story-53kd)
-- [The Dotfiles Quest: Becoming a Configuration Wizard 🧙‍♂️](https://dev.to/memlens/the-dotfiles-quest-becoming-a-configuration-wizard-4ogo)
-- [Toán tử trong Javascript](https://dev.to/thaiduong2003/toan-tu-trong-javascript-4n4j)
-- [Docker for Infrastructure as Code &lpar;IaC&rpar;: Automating Infrastructure with Containers](https://dev.to/abhay_yt_52a8e72b213be229/docker-for-infrastructure-as-code-iac-automating-infrastructure-with-containers-4g49)
+- [When Tech Plays Mind Games, The Curious Case of Uber Pricing](https://dev.to/shafayeat/when-tech-plays-mind-games-the-curious-case-of-uber-pricing-371)
+- [TypeScript vs JavaScript: Key Differences, Features, and When to Use Each](https://dev.to/codeparrot/typescript-vs-javascript-key-differences-features-and-when-to-use-each-2mil)
+- [Threat Modeling in Architecture](https://dev.to/uwatgule/threat-modeling-in-architecture-2hh6)
+- [Creating a Scrollable Table with a Sticky Header and Frozen Column Using HTML and CSS](https://dev.to/lalitkhu/creating-a-scrollable-table-with-a-sticky-header-and-frozen-column-using-html-and-css-1d2a)
+- [How to optimize latency and throughput](https://dev.to/kiranravichandran/how-to-optimize-latency-and-throughput-1cd5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
