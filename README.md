@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Winter Solstice](https://dev.to/ambatichaitanya/winter-solstice-3d8a)
-- [Mentoring for Women in IT: How to Get the Most Out of It](https://dev.to/kwan/mentoring-for-women-in-it-how-to-get-the-most-out-of-it-3dl2)
-- [2940. Find Building Where Alice and Bob Can Meet](https://dev.to/mdarifulhaque/2940-find-building-where-alice-and-bob-can-meet-2m2m)
-- [&lpar;Occasionally&rpar; Useful Web Tools For Android Developers](https://dev.to/berhram/occasionally-useful-web-tools-for-android-developers-4g48)
-- [Solution: Android Emulator is too big and wont fit on screen -Windows 10](https://dev.to/pgomezec/solution-android-emulator-is-too-big-and-wont-fit-on-screen-windows-10-5fd4)
+- [👺Nasty People, How to deal with them without stooping to their level.](https://dev.to/devmercy/nasty-people-how-to-deal-with-them-without-stooping-to-their-level-2fng)
+- [Debian 12 … is amazing! How to: Create your custom codehouse [Part 4A/4]](https://dev.to/dev-charodeyka/debian-12-is-amazing-how-to-create-your-custom-codehouse-part-4a4-4dfh)
+- [How to Build a Full-Stack Restaurant Delivery App 🛵🍕 using Node.js, Express, React.js, and CSS](https://dev.to/code_2/how-to-build-a-full-stack-restaurant-delivery-app-using-nodejs-express-reactjs-and-css-54a0)
+- [Automated Testing with jest-axe](https://dev.to/ibn_abubakre/automated-testing-with-jest-axe-6fa)
+- [Mysql 101 for Mongoose developer.](https://dev.to/thekbbohara/mysql-101-for-mongoose-developer-2jgi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
