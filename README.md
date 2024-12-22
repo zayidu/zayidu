@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PWA Pilipinas Roadshow in Baguio: A Night of Learning, Innovation, and Community](https://dev.to/kakacomputer-media/pwa-pilipinas-roadshow-in-baguio-a-night-of-learning-innovation-and-community-2ai5)
-- [What is generator function in JavaScript? and How does it work?](https://dev.to/imranshaik012/what-is-generator-function-in-javascript-and-how-does-it-work-5g8a)
-- [Download Video from s3 with Cloudfront, nodejs and react](https://dev.to/chocoscoding/download-video-from-s3-with-cloudfront-nodejs-and-react-15he)
-- [The Complete Guide to Types of Software Testing](https://dev.to/innovative-insight/the-complete-guide-to-types-of-software-testing-18n0)
-- [Protecting Your Email Online: All You Need to Know](https://dev.to/airabbit/protecting-your-email-online-all-you-need-to-know-4007)
+- [Enchanted Winter Realms - A Journey Through the Solstice](https://dev.to/aiflux/enchanted-winter-realms-a-journey-through-the-solstice-59bf)
+- [Converting any Arabic font to TechArabic](https://dev.to/ashras/converting-any-arabic-font-to-techarabic-font-5f9i)
+- [Firebase Integration Challenges in React Native](https://dev.to/akgoze/firebase-integration-challenges-in-react-native-4119)
+- [Learn how to create a sidebar navigation with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/learn-how-to-create-a-sidebar-navigation-with-tailwind-css-and-javascript-38gj)
+- [Week 3 Done](https://dev.to/ishan_siddhartha/week-3-done-34kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
