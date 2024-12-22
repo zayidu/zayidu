@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A technical blog on Git and Github, how to set up git, creating a repository, making commits, pushing,pulling](https://dev.to/olalekan_johnayansola_4a/a-technical-blog-on-git-and-github-how-to-set-up-git-creating-a-repository-making-commits-2b0d)
-- [Mastering Responsive Design: Best Practices for 2025](https://dev.to/gurjeetsinghvirdee/mastering-responsive-design-best-practices-for-2025-2gmn)
-- [Home for the Holidays: Staying Ahead of Cybersecurity Threats](https://dev.to/wvnuola/home-for-the-holidays-staying-ahead-of-cybersecurity-threats-2h)
-- [How to Become a Successful Software Developer in 2024](https://dev.to/empiree/how-to-become-a-successful-software-developer-in-2024-2f07)
-- [Building MooVeeMatch: A Mood-Based Movie Recommendation Program 🎥✨](https://dev.to/codewizardx1/building-mooveematch-a-mood-based-movie-recommendation-program-598c)
+- [What are the best logging and monitoring tools for .NET apps](https://dev.to/francis04j/what-are-the-best-logging-and-monitoring-tools-for-net-apps-1kj0)
+- [Advent of Code 2024 - Day 20: Race Condition](https://dev.to/grantdotdev/advent-of-code-2024-day-20-race-condition-8pd)
+- [AI Testing: A Technical Deep Dive into the Future of Software Quality Assurance](https://dev.to/anil_csimplifyit_905c/ai-testing-a-technical-deep-dive-into-the-future-of-software-quality-assurance-3ond)
+- [Build a Conversational Generative AI Assistant Using Amazon Q Business – A Step-by-Step Guide](https://dev.to/aws-builders/build-a-conversational-generative-ai-assistant-using-amazon-q-business-a-step-by-step-guide-m35)
+- [SVG hacks for you](https://dev.to/filip_kudla/svg-hacks-for-you-2nl5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
