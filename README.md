@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enchanted Winter Realms - A Journey Through the Solstice](https://dev.to/aiflux/enchanted-winter-realms-a-journey-through-the-solstice-59bf)
-- [Converting any Arabic font to TechArabic](https://dev.to/ashras/converting-any-arabic-font-to-techarabic-font-5f9i)
-- [Firebase Integration Challenges in React Native](https://dev.to/akgoze/firebase-integration-challenges-in-react-native-4119)
-- [Learn how to create a sidebar navigation with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/learn-how-to-create-a-sidebar-navigation-with-tailwind-css-and-javascript-38gj)
-- [Week 3 Done](https://dev.to/ishan_siddhartha/week-3-done-34kd)
+- [Is Software Engineering Still Worth It in 2025?](https://dev.to/koladev/is-software-engineering-still-worth-it-in-2025-j3b)
+- [The Linguistic and Economic Implications of an Arabic Programming Language](https://dev.to/ashras/the-linguistic-and-economic-implications-of-an-arabic-programming-language-4emj)
+- [Escape the Chrome Browsing Rabbit Hole](https://dev.to/airabbit/escape-the-chrome-browsing-rabbit-hole-f56)
+- [Webscraping com Python: usando CSV como base de dados](https://dev.to/casewinter/webscraping-com-python-usando-csv-como-base-de-dados-186k)
+- [5 Best Docker Books for Beginners](https://dev.to/bobbyiliev/5-best-docker-books-for-beginners-4k38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
