@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como realizei o deploy do meu portfólio utilizando uma VPS](https://dev.to/fernandeess/como-realizei-o-deploy-do-meu-portfolio-utilizando-uma-vps-27je)
-- [&quot;Space-Ease: Rent Your Space, Park With Ease&quot;](https://dev.to/roy_amit/space-ease-rent-your-space-park-with-ease-21bg)
-- [Tea Loop - A/B testing with DevCycle](https://dev.to/schemetastic/tea-loop-ab-testing-with-devcycle-2hgb)
-- [Introducing fck-nat: Cost optimized alternative to AWS NAT Gateways](https://dev.to/dhoang1905/introducing-fck-nat-cost-optimized-alternative-to-aws-nat-gateways-24a)
-- [🌟 Lessons from a Beginner Exploring Blockchain and AI Integration 🚀](https://dev.to/jim_alfareh_1fd618f0ff706/lessons-from-a-beginner-exploring-blockchain-and-ai-integration-2j68)
+- [A simple HTML/CSS edition for the Frontend Challenge](https://dev.to/thomasbnt/a-simple-htmlcss-edition-for-the-frontend-challenge-2ic0)
+- [History of my ThinkPad X260](https://dev.to/nakidai/history-of-my-thinkpad-x260-439f)
+- [Feature flag experiment using DevCycle SDK](https://dev.to/chilupa/feature-flag-experiment-using-devcycle-sdk-1734)
+- [Desplegar a Firebase con GitHub actions](https://dev.to/inusui/desplegar-a-firebase-con-github-actions-34m8)
+- [Cloud Security Challenges and Encryption, Identity Management, and Compliance](https://dev.to/atharvgyan/cloud-security-challenges-and-encryption-identity-management-and-compliance-2bm8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
