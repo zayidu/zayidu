@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Develop the Right Mindset as a Programmer](https://dev.to/jenueldev/how-to-develop-the-right-mindset-as-a-programmer-37ef)
-- [Matanuska ADR 003 - Recursive Descent Parser](https://dev.to/jfhbrook/matanuska-adr-003-recursive-descent-parser-52o9)
-- [Building scalable ML workflows](https://dev.to/acoh3n/building-scalable-ml-workflows-4f0k)
-- [[Development Tips] How to Get the Number of Strokes in Chinese Characters?](https://dev.to/algieba/development-tips-how-to-get-the-number-of-strokes-in-chinese-characters-ekb)
-- [I build a UI library for Svelte for my first time](https://dev.to/qaynam/i-build-a-ui-library-for-svelte-for-my-first-time-14n0)
+- [Programming Tips and Tricks Across Elixir, Clojure, and Nim](https://dev.to/0x3d_site/programming-tips-and-tricks-across-elixir-clojure-and-nim-4fd1)
+- [GitHub Copilot vs Copilot Chat: Which One Steals Your Heart in 2024? 💻](https://dev.to/respect17/github-copilot-vs-copilot-chat-which-one-steals-your-heart-in-2024-3m3c)
+- [Mastering Rate Limiting in Java Spring Boot with Bucket4j](https://dev.to/monesh_b_24cd798d8de84819/mastering-rate-limiting-in-java-spring-boot-with-bucket4j-1ai8)
+- [Git Auto Push](https://dev.to/haxnet/git-auto-push-3jik)
+- [Stream Dynamo para RDS Mysql](https://dev.to/aldeiacloud/stream-dynamo-para-rds-mysql-hip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
