@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Software Engineering Still Worth It in 2025?](https://dev.to/koladev/is-software-engineering-still-worth-it-in-2025-j3b)
-- [The Linguistic and Economic Implications of an Arabic Programming Language](https://dev.to/ashras/the-linguistic-and-economic-implications-of-an-arabic-programming-language-4emj)
-- [Escape the Chrome Browsing Rabbit Hole](https://dev.to/airabbit/escape-the-chrome-browsing-rabbit-hole-f56)
-- [Webscraping com Python: usando CSV como base de dados](https://dev.to/casewinter/webscraping-com-python-usando-csv-como-base-de-dados-186k)
-- [5 Best Docker Books for Beginners](https://dev.to/bobbyiliev/5-best-docker-books-for-beginners-4k38)
+- [How to Develop the Right Mindset as a Programmer](https://dev.to/jenueldev/how-to-develop-the-right-mindset-as-a-programmer-37ef)
+- [Matanuska ADR 003 - Recursive Descent Parser](https://dev.to/jfhbrook/matanuska-adr-003-recursive-descent-parser-52o9)
+- [Building scalable ML workflows](https://dev.to/acoh3n/building-scalable-ml-workflows-4f0k)
+- [[Development Tips] How to Get the Number of Strokes in Chinese Characters?](https://dev.to/algieba/development-tips-how-to-get-the-number-of-strokes-in-chinese-characters-ekb)
+- [I build a UI library for Svelte for my first time](https://dev.to/qaynam/i-build-a-ui-library-for-svelte-for-my-first-time-14n0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
