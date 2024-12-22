@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming Tips and Tricks Across Elixir, Clojure, and Nim](https://dev.to/0x3d_site/programming-tips-and-tricks-across-elixir-clojure-and-nim-4fd1)
-- [GitHub Copilot vs Copilot Chat: Which One Steals Your Heart in 2024? 💻](https://dev.to/respect17/github-copilot-vs-copilot-chat-which-one-steals-your-heart-in-2024-3m3c)
-- [Mastering Rate Limiting in Java Spring Boot with Bucket4j](https://dev.to/monesh_b_24cd798d8de84819/mastering-rate-limiting-in-java-spring-boot-with-bucket4j-1ai8)
-- [Git Auto Push](https://dev.to/haxnet/git-auto-push-3jik)
-- [Stream Dynamo para RDS Mysql](https://dev.to/aldeiacloud/stream-dynamo-para-rds-mysql-hip)
+- [State of JavaScript 2024 Results, GitHub Copilot Now Free, EPIC Developer Tools, and more](https://dev.to/thisweekinjavascript/state-of-javascript-2024-results-github-copilot-now-free-epic-developer-tools-and-more-3pbi)
+- [How to Integrate Tabby in React Native: A Step-by-Step Guide](https://dev.to/muhammad_harisbaig_1268d/how-to-integrate-tabby-in-react-native-a-step-by-step-guide-3ja)
+- [Inheritance vs Composition](https://dev.to/deepakbarwal/inheritance-vs-composition-4ef4)
+- [what is private ?](https://dev.to/hema_latha/what-is-private--5hbo)
+- [Generating SECRET_KEY for production deployment of Django project](https://dev.to/xinitd/generating-secretkey-for-production-deployment-of-django-project-2ami)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
