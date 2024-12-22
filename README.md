@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Concurrent Control in GoFrame with gmlock](https://dev.to/jones_charles_ad50858dbc0/mastering-concurrent-control-in-goframe-with-gmlock-1c8i)
+- [Enhancements to dbg in elixir 1.18](https://dev.to/dkuku/enhancements-to-dbg-in-elixir-118-hb0)
+- [Using Python to develop a Multi-Modal Data Fusion Framework](https://dev.to/joshua_thuo_0207ef5a60a8e/using-python-to-develop-a-multi-modal-data-fusion-framework-3fd7)
+- [Tips to learn python](https://dev.to/mehfila_parkkulthil_23/tips-to-learn-python-4l80)
 - [Amazon Q Developer Tips: No.22 Amazon Q Keyboard shortcuts](https://dev.to/aws/amazon-q-developer-tips-no22-amazon-q-keyboard-shortcuts-2kfc)
-- [New 47 GitHub Repositories - OpenSource of Dec 20, 2024](https://dev.to/gittech/new-47-github-repositories-opensource-of-dec-20-2024-4l5p)
-- [Enhancing LRU Cache with Configurable Data Persistence](https://dev.to/armando284/enhancing-lru-cache-with-configurable-data-persistence-37am)
-- [Top 10 Linux Commands Every DevOps Engineer Should Know](https://dev.to/imransaifi/top-10-linux-commands-every-devops-engineer-should-know-df8)
-- [LlamaFusion: How Language Models Can Create Images with Just 0.1% Parameter Changes](https://dev.to/mikeyoung44/llamafusion-how-language-models-can-create-images-with-just-01-parameter-changes-3mb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
