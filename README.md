@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [State of JavaScript 2024 Results, GitHub Copilot Now Free, EPIC Developer Tools, and more](https://dev.to/thisweekinjavascript/state-of-javascript-2024-results-github-copilot-now-free-epic-developer-tools-and-more-3pbi)
-- [How to Integrate Tabby in React Native: A Step-by-Step Guide](https://dev.to/muhammad_harisbaig_1268d/how-to-integrate-tabby-in-react-native-a-step-by-step-guide-3ja)
-- [Inheritance vs Composition](https://dev.to/deepakbarwal/inheritance-vs-composition-4ef4)
-- [what is private ?](https://dev.to/hema_latha/what-is-private--5hbo)
-- [Generating SECRET_KEY for production deployment of Django project](https://dev.to/xinitd/generating-secretkey-for-production-deployment-of-django-project-2ami)
+- [🎄CSS Art: December Challange - Christmas In Malaysia ✨](https://dev.to/juniourrau/css-art-december-challange-christmas-in-malaysia-1fjb)
+- [Redux Toolkit: Creating Thunk Functions](https://dev.to/hajarnasr/redux-toolkit-creating-thunk-functions-ic2)
+- [A Starknet transactions batcher](https://dev.to/bastienfaivre/a-starknet-transactions-batcher-1hpk)
+- [Santa&#39;s Care](https://dev.to/apurva122/santas-care-m17)
+- [Catalyst Tricks: Map Request Parameters to a Model](https://dev.to/jjn1056/catalyst-tricks-map-request-parameters-to-a-model-44fa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
