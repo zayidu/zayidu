@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 22: How the Tables have turned 🏓](https://dev.to/valeriavg/day-22-how-the-tables-have-turned-5307)
-- [Firebase with Next.js](https://dev.to/lior_amsalem_3879371237f6/firebase-with-nextjs-4bip)
-- [Integration of Contentful with Next.js](https://dev.to/lior_amsalem_3879371237f6/integration-of-contentful-with-nextjs-48e8)
-- [How to Change the Name of the User Profile Folder in Windows 11?](https://dev.to/win11verse/how-to-change-the-name-of-the-user-profile-folder-in-windows-11-1aeo)
-- [TS1012: Unexpected token.](https://dev.to/ahmad_tibibi/ts1012-unexpected-token-5fhn)
+- [Preventing File Inclusion Vulnerabilities in Laravel Applications](https://dev.to/pentest_testing_corp/preventing-file-inclusion-vulnerabilities-in-laravel-applications-o3d)
+- [Sentiment Analysis &amp; Course Recommendation using Web Scraping](https://dev.to/hasnain01hub/sentiment-analysis-course-recommendation-using-web-scraping-1pc6)
+- [CustomText - Custom Widget Series](https://dev.to/arafaysaleem/customtext-custom-widget-series-42l4)
+- [Want to start learning LLM and Generative AI? Start with Ollama and this article.](https://dev.to/ohdylan/want-to-start-learning-llm-and-generative-ai-start-with-ollama-and-this-article-16hf)
+- [Mastering PostgreSQL Performance: Tips and Best Practices](https://dev.to/innovative-insight/mastering-postgresql-performance-tips-and-best-practices-36c6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
