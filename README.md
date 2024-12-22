@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [👺Nasty People, How to deal with them without stooping to their level.](https://dev.to/devmercy/nasty-people-how-to-deal-with-them-without-stooping-to-their-level-2fng)
-- [Debian 12 … is amazing! How to: Create your custom codehouse [Part 4A/4]](https://dev.to/dev-charodeyka/debian-12-is-amazing-how-to-create-your-custom-codehouse-part-4a4-4dfh)
-- [How to Build a Full-Stack Restaurant Delivery App 🛵🍕 using Node.js, Express, React.js, and CSS](https://dev.to/code_2/how-to-build-a-full-stack-restaurant-delivery-app-using-nodejs-express-reactjs-and-css-54a0)
-- [Automated Testing with jest-axe](https://dev.to/ibn_abubakre/automated-testing-with-jest-axe-6fa)
-- [Mysql 101 for Mongoose developer.](https://dev.to/thekbbohara/mysql-101-for-mongoose-developer-2jgi)
+- [What is a Proxy Server? Understanding the Middleman of the Internet](https://dev.to/lovestaco/what-is-a-proxy-server-understanding-the-middleman-of-the-internet-nmo)
+- [Studying at the University in the Age of Self-Learning. My Experience as the Design Student](https://dev.to/jakub_bobkowski/studying-at-the-university-in-the-age-of-self-learning-my-experience-as-the-top-student-317m)
+- [It&#39;s Okay to Code on Nights and Weekends](https://dev.to/tejas_kumar_83c520d6bef27/its-okay-to-code-on-nights-and-weekends-2m5d)
+- [Amazon GuardDuty: Protección contra amenazas y seguridad proactiva](https://dev.to/briansuarezsantiago/amazon-guardduty-proteccion-contra-amenazas-y-seguridad-proactiva-4eom)
+- [Unlock Your AWS Potential: 50% Off Certs + Free Retake](https://dev.to/franciscojeg78/unlock-your-aws-potential-50-off-certs-free-retake-3ejp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
