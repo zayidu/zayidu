@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [60-Second Series - Amazon S3: The Simple Storage Solution for Your Data Needs](https://dev.to/aws-builders/60-second-series-amazon-s3-the-simple-storage-solution-for-your-data-needs-2gf0)
-- [MY FIRST GAME 🤩](https://dev.to/mince/my-first-game-4gf)
-- [TEST](https://dev.to/rudrabhardwaj/test-163)
-- [Chatting with Mood: A Dynamic Theme Switcher Powered by DevCycle](https://dev.to/programmerraja/chatting-with-mood-a-dynamic-theme-switcher-powered-by-devcycle-fao)
-- [AWS Serverless: Develop, Test, and Deploy with AWS Lambda&#39;s New Code Editor and SAM template](https://dev.to/bhatiagirish/aws-serverless-develop-test-and-deploy-with-aws-lambdas-new-code-editor-and-sam-template-14in)
+- [TypeScript for Professionals](https://dev.to/dhanush9952/typescript-for-professionals-2309)
+- [60-Second Series - Amazon EFS: Elastic File Storage Simplified](https://dev.to/aws-builders/60-second-amazon-efs-elastic-file-storage-simplified-21hp)
+- [Al Samiul Himel](https://dev.to/alsamiulhimel/al-samiul-himel-1nda)
+- [Exportar Voip para AWS EC2 - .vmdk ou .ova](https://dev.to/aldeiacloud/exportar-voip-para-aws-ec2-vmdk-ou-ova-3o4o)
+- [AI Cabin Crew: Taking Teamwork to New Heights](https://dev.to/khaisimon_devgame/ai-cabin-crew-taking-teamwork-to-new-heights-1af0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
