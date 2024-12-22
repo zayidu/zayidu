@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Proxy Server? Understanding the Middleman of the Internet](https://dev.to/lovestaco/what-is-a-proxy-server-understanding-the-middleman-of-the-internet-nmo)
-- [Studying at the University in the Age of Self-Learning. My Experience as the Design Student](https://dev.to/jakub_bobkowski/studying-at-the-university-in-the-age-of-self-learning-my-experience-as-the-top-student-317m)
-- [It&#39;s Okay to Code on Nights and Weekends](https://dev.to/tejas_kumar_83c520d6bef27/its-okay-to-code-on-nights-and-weekends-2m5d)
-- [Amazon GuardDuty: Protección contra amenazas y seguridad proactiva](https://dev.to/briansuarezsantiago/amazon-guardduty-proteccion-contra-amenazas-y-seguridad-proactiva-4eom)
-- [Unlock Your AWS Potential: 50% Off Certs + Free Retake](https://dev.to/franciscojeg78/unlock-your-aws-potential-50-off-certs-free-retake-3ejp)
+- [Como realizei o deploy do meu portfólio utilizando uma VPS](https://dev.to/fernandeess/como-realizei-o-deploy-do-meu-portfolio-utilizando-uma-vps-27je)
+- [&quot;Space-Ease: Rent Your Space, Park With Ease&quot;](https://dev.to/roy_amit/space-ease-rent-your-space-park-with-ease-21bg)
+- [Tea Loop - A/B testing with DevCycle](https://dev.to/schemetastic/tea-loop-ab-testing-with-devcycle-2hgb)
+- [Introducing fck-nat: Cost optimized alternative to AWS NAT Gateways](https://dev.to/dhoang1905/introducing-fck-nat-cost-optimized-alternative-to-aws-nat-gateways-24a)
+- [🌟 Lessons from a Beginner Exploring Blockchain and AI Integration 🚀](https://dev.to/jim_alfareh_1fd618f0ff706/lessons-from-a-beginner-exploring-blockchain-and-ai-integration-2j68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
