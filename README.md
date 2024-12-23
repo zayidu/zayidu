@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dividing Tasks](https://dev.to/jasten/dividing-tasks-4bg0)
-- [How to Build Flexible Data Models in Django with JSONField and Pydantic](https://dev.to/dannyell77/how-to-build-flexible-data-models-in-django-with-jsonfield-and-pydantic-13hi)
-- [How AI Can Help You Manage Emails &lpar;Common Challenges and Solutions Explained&rpar;](https://dev.to/lucym/how-ai-can-help-you-manage-emails-common-challenges-and-solutions-explained-310b)
-- [New 38 GitHub Repositories - Open Source of Dec 23, 2024](https://dev.to/gittech/new-38-github-repositories-open-source-of-dec-23-2024-5hkd)
-- [Test post.](https://dev.to/ben/test-post-1n21)
+- [Revolutionizing Retail Customer Service with AI-Powered Chatbots and Real-Time Multilingual Support](https://dev.to/julie_ryan_df9e4e895cdcff/revolutionizing-retail-customer-service-with-ai-powered-chatbots-and-real-time-multilingual-support-b75)
+- [How to Set Up Email Verification in Laravel: A Complete Guide](https://dev.to/mailfloss/how-to-set-up-email-verification-in-laravel-a-complete-guide-14c1)
+- [Revolutionizing Retail Customer Service with AI-Powered Chatbots and Real-Time Multilingual Support](https://dev.to/jessica_williams_8192bc1f/revolutionizing-retail-customer-service-with-ai-powered-chatbots-and-real-time-multilingual-support-1p2l)
+- [🔍 3 Hidden Linux Logs You’ve Never Heard About! 🐧 &lpar;Uncover the Secrets!&rpar;](https://dev.to/rogueloop/3-hidden-linux-logs-youve-never-heard-about-uncover-the-secrets-1a51)
+- [Creating a GoLang API that allows uploading files to an Amazon S3 bucket](https://dev.to/ayas_tech_2b0560ee159e661/creating-a-golang-api-that-allows-uploading-files-to-an-amazon-s3-bucket-3kj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
