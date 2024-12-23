@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IRRemote 程式庫搭配 Adafruit_NeoPoxel 程式庫的問題](https://dev.to/codemee/irremote-cheng-shi-ku-da-pei-adafruitneopoxel-cheng-shi-ku-de-wen-ti-1k7d)
-- [Here’s how next-runtime-env applies regex test in Array.prototype.filter&lpar;&rpar; Think Throo Think Throo](https://dev.to/thinkthroo/heres-how-next-runtime-env-applies-regex-test-in-arrayprototypefilterthink-throothink-throo-2fpj)
-- [Download Manager v0.1.0](https://dev.to/joeljaison394/download-manager-v010-5eh9)
-- [Unsubscribe Observable! why is it so important?](https://dev.to/asaf_eliasim/unsubscribe-observable-why-is-it-so-important-4p96)
-- [Cómo instalar el JDK de Java usando Temurin en Windows](https://dev.to/asjordi/como-instalar-el-jdk-de-java-usando-temurin-en-windows-30kj)
+- [Meme Monday](https://dev.to/ben/meme-monday-1dld)
+- [The Magic of Image Generation: Transforming Creativity with AI](https://dev.to/shreyash-hexa/the-magic-of-image-generation-transforming-creativity-with-ai-21pb)
+- [Edge Computing: Low-Latency paradigm for Distributed Systems](https://dev.to/ab_vajarekar3000/edge-computing-low-latency-paradigm-for-distributed-systems-3860)
+- [From Vision to Theme: How to Hire the Perfect WordPress Developer](https://dev.to/procoders/from-vision-to-theme-how-to-hire-the-perfect-wordpress-developer-kja)
+- [Beyond procrastination: the cognitive reasons behind unfinished projects](https://dev.to/genedesign/beyond-procrastination-the-cognitive-reasons-behind-unfinished-projects-oa7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
