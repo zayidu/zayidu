@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Extending the 200-Character Limit for Post Names in WordPress: A Developer’s Guide](https://dev.to/litonarefin/extending-the-200-character-limit-for-post-names-in-wordpress-a-developers-guide-1fj1)
-- [🌟 🌐 TOP 90 Resources For The Front-end Development 🚀 🌟](https://dev.to/hanzla-baig/top-90-resources-for-the-front-end-development-3a6i)
-- [Mastering MERN Stack Development: Tips, Best Practices, and Tools](https://dev.to/rayan2228/mastering-mern-stack-development-tips-best-practices-and-tools-4b1p)
-- [How to Become a Software Engineer: No Experience? No Problem](https://dev.to/lodely/how-to-become-a-software-engineer-no-experience-no-problem-3npp)
-- [Project: Santa&#39;s Workshop with DevCycles Feature Flags](https://dev.to/sergb_appdev/project-santas-workshop-with-devcycles-feature-flags-471o)
+- [TS1016: A Required Parameter Cannot Follow an Optional Parameter](https://dev.to/turingvangisms/ts1016-a-required-parameter-cannot-follow-an-optional-parameter-4nmj)
+- [Fixing TS1015: Parameter Cannot Have Question Mark and Initializer](https://dev.to/ahmad_tibibi/fixing-ts1015-parameter-cannot-have-question-mark-and-initializer-cih)
+- [Week 1-4](https://dev.to/aiden_isaac/week-1-4-5343)
+- [TS1014: A Rest Parameter Must Be Last in a Parameter List](https://dev.to/ahmad_tibibi/ts1014-a-rest-parameter-must-be-last-in-a-parameter-list-55kf)
+- [TS1013: A Rest Parameter or Binding Pattern May Not Have a Trailing Comma](https://dev.to/ahmad_tibibi/ts1013-a-rest-parameter-or-binding-pattern-may-not-have-a-trailing-comma-5g7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
