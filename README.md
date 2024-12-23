@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI and ML Are Revolutionizing Document Verification?](https://dev.to/lokeshjoshi/how-ai-and-ml-are-revolutionizing-document-verification-52ml)
-- [🚀 TagLog’s idea is simpleRethinking Log Management: Real-Time Debugging with TagLog](https://dev.to/dsaga/taglogs-idea-is-simplerethinking-log-management-real-time-debugging-with-taglog-378o)
-- [Christmas guide to Custom Directives in Vue 🎄](https://dev.to/jacobandrewsky/christmas-guide-to-custom-directives-in-vue-47hj)
-- [Build a Symfony 7 boilerplate using FrankenPHP, Docker, PostgreSQL and php 8.4](https://dev.to/nicolasbonnici/build-a-symfony-7-boilerplate-using-frankenphp-docker-postgresql-and-php-84-4ej3)
-- [The Complete Guide to Landing Your Next Fullstack Developer Role in 2025](https://dev.to/respect17/the-complete-guide-to-landing-your-next-fullstack-developer-role-in-2025-nno)
+- [The Power of Customer Feedback: How Listening to Users Can Transform Your Product](https://dev.to/iri_denis/the-power-of-customer-feedback-how-listening-to-users-can-transform-your-product-1bhe)
+- [How to Handle Multiple Windows in Selenium with getWindowHandles and switchTo](https://dev.to/ronika_kashyap/how-to-handle-multiple-windows-in-selenium-with-getwindowhandles-and-switchto-3iei)
+- [Breaking Free from Redux: 3 State Management Tools I Love](https://dev.to/arun_kanojia/breaking-free-from-redux-3-state-management-tools-i-love-3md7)
+- [[Boost]](https://dev.to/nicolasbonnici/-mi9)
+- [Rust Linfa: The Rising Star of Machine Learning in Systems Programming](https://dev.to/philip_yaw/rust-linfa-the-rising-star-of-machine-learning-in-systems-programming-4e6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
