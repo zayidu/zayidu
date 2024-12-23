@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Theme Builder for Angular Material supports version 19](https://dev.to/ngmaterialdev/theme-builder-for-angular-material-supports-version-19-3gdd)
-- [Winter Solstice Celebration - A Festive Landing Page](https://dev.to/roshan_thakur_22527022833/winter-solstice-celebration-a-festive-landing-page-4c5a)
-- [Mastering Stress Testing: Breaking Systems To Build Better Ones](https://dev.to/keploy/mastering-stress-testing-breaking-systems-to-build-better-ones-5ip)
-- [FSCSS Example](https://dev.to/fscss/fscss-example-phj)
-- [6 Emerging Web Animation Techniques for Dynamic User Interfaces](https://dev.to/aaravjoshi/6-emerging-web-animation-techniques-for-dynamic-user-interfaces-ak0)
+- [Deploying Azure Functions with Python: A Step-by-Step Guide](https://dev.to/edgaras/deploying-azure-functions-with-python-a-step-by-step-guide-5db6)
+- [How QA Professionals Can Earn by Finding Bugs: A Tester’s Perspective](https://dev.to/leo_scott_357f10236fabe00/how-qa-professionals-can-earn-by-finding-bugs-a-testers-perspective-2kf1)
+- [Inversion of Control and Dependency Injection: A Practical Guide with Java and Spring Boot](https://dev.to/mspilari/inversion-of-control-and-dependency-injection-a-practical-guide-with-java-and-spring-boot-5c1d)
+- [Simplify AWS Networking Costs: Key Tips with Cloudgov.ai’s Gen AI Platform](https://dev.to/vaish_98/simplify-aws-networking-costs-key-tips-with-cloudgovais-gen-ai-platform-2k43)
+- [OpenAI announces new o3 models](https://dev.to/ashinno/openai-announces-new-o3-models-1ld8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
