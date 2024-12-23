@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying JavaScript Closures: A Comprehensive Guide with Advanced Insights](https://dev.to/hasunnilupul/demystifying-javascript-closures-a-comprehensive-guide-with-advanced-insights-500h)
-- [Understanding Variables](https://dev.to/gurjeetsinghvirdee/understanding-variables-4fi1)
-- [menu alien](https://dev.to/diegobrito/menu-alien-h5f)
-- [🚀 How to Boost Your Productivity as a Web3 Developer](https://dev.to/sergi_web3/how-to-boost-your-productivity-as-a-web3-developer-27b9)
-- [5 Essential Principles for Highly Productive Developers](https://dev.to/serbixote/5-essential-principles-for-highly-productive-developers-2o5j)
+- [The Evolution of LiveScript: The Precursor to JavaScript](https://dev.to/m0slah/the-evolution-of-livescript-the-precursor-to-javascript-245i)
+- [Counting Tokens: Sorting Through the Details](https://dev.to/es404020/counting-tokens-sorting-through-the-details-o58)
+- [Terraform: Steps to create complete AWS S3 module](https://dev.to/marko_milosavljevic_97169/terraform-steps-to-create-complete-module-36mj)
+- [Secure Password Generation: A Complete Guide to Creating Strong Passwords](https://dev.to/tooleroid/secure-password-generation-a-complete-guide-to-creating-strong-passwords-44fe)
+- [How Embracing Tools and Cultivating Soft Skills Can Make You a Better Software Engineer 💯](https://dev.to/alisamir/how-embracing-tools-and-cultivating-soft-skills-can-make-you-a-better-software-engineer-37c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
