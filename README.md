@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An Exploration of the Software Development Field](https://dev.to/rachelle_wilber_422febda6/an-exploration-of-the-software-development-field-39mf)
-- [How Remention AI Boosts Social Media Engagement and Brand Visibility](https://dev.to/ohansfavour/how-remention-ai-boosts-social-media-engagement-and-brand-visibility-2h99)
-- [Day - 1 of Java](https://dev.to/sathish_balaji_2003/day-1-of-java-4ecp)
-- [How to Use the PHP Spread Operator](https://dev.to/moneer_fahmy_b838032ddcc1/how-to-use-the-php-spread-operator-4cfk)
-- [How Much Automation is Too Much Automation in ETL](https://dev.to/divyansh_patel_44a766586f/how-much-automation-is-too-much-automation-in-etl-24b1)
+- [React 19: Server Functions](https://dev.to/garciadiazjaime/react-19-server-functions-9g6)
+- [The Top TS Copy Paste Libraries for 2025](https://dev.to/ivanivanovv/the-top-ts-copy-paste-libraries-for-2025-36oo)
+- [Deep Dive into Microsoft MarkItDown](https://dev.to/leapcell/deep-dive-into-microsoft-markitdown-4if5)
+- [Frontend Challenge: December Edition](https://dev.to/goswami040/frontend-challenge-december-edition-27d5)
+- [The Linux Boot Process: A Detailed Walkthrough](https://dev.to/shweta_thikekar/the-linux-boot-process-a-detailed-walkthrough-1j86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
