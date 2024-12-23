@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of LiveScript: The Precursor to JavaScript](https://dev.to/m0slah/the-evolution-of-livescript-the-precursor-to-javascript-245i)
-- [Counting Tokens: Sorting Through the Details](https://dev.to/es404020/counting-tokens-sorting-through-the-details-o58)
-- [Terraform: Steps to create complete AWS S3 module](https://dev.to/marko_milosavljevic_97169/terraform-steps-to-create-complete-module-36mj)
-- [Secure Password Generation: A Complete Guide to Creating Strong Passwords](https://dev.to/tooleroid/secure-password-generation-a-complete-guide-to-creating-strong-passwords-44fe)
-- [How Embracing Tools and Cultivating Soft Skills Can Make You a Better Software Engineer 💯](https://dev.to/alisamir/how-embracing-tools-and-cultivating-soft-skills-can-make-you-a-better-software-engineer-37c4)
+- [Day 23: Docker Resources](https://dev.to/code42cate/day-22-docker-resources-2h15)
+- [La dualidad de tu profesión.](https://dev.to/ulisesserranop/la-dualidad-de-tu-profesion-4ahb)
+- [React v19, unboxing! 📦](https://dev.to/rlgino/react-v19-unboxing-df2)
+- [What I learned in Quantum Computing this year &lpar;as a Junior Engineer&rpar;](https://dev.to/taradev/what-i-learned-in-quantum-computing-this-year-as-a-junior-engineer-1i5a)
+- [Spotting Laravel: A Quick Guide for Identifying the Framework at a Glance](https://dev.to/radson2005official/spotting-laravel-a-quick-guide-for-identifying-the-framework-at-a-glance-5h39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
