@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Customer Feedback: How Listening to Users Can Transform Your Product](https://dev.to/iri_denis/the-power-of-customer-feedback-how-listening-to-users-can-transform-your-product-1bhe)
-- [How to Handle Multiple Windows in Selenium with getWindowHandles and switchTo](https://dev.to/ronika_kashyap/how-to-handle-multiple-windows-in-selenium-with-getwindowhandles-and-switchto-3iei)
-- [Breaking Free from Redux: 3 State Management Tools I Love](https://dev.to/arun_kanojia/breaking-free-from-redux-3-state-management-tools-i-love-3md7)
-- [[Boost]](https://dev.to/nicolasbonnici/-mi9)
-- [Rust Linfa: The Rising Star of Machine Learning in Systems Programming](https://dev.to/philip_yaw/rust-linfa-the-rising-star-of-machine-learning-in-systems-programming-4e6b)
+- [Theme Builder for Angular Material supports version 19](https://dev.to/ngmaterialdev/theme-builder-for-angular-material-supports-version-19-3gdd)
+- [Winter Solstice Celebration - A Festive Landing Page](https://dev.to/roshan_thakur_22527022833/winter-solstice-celebration-a-festive-landing-page-4c5a)
+- [Mastering Stress Testing: Breaking Systems To Build Better Ones](https://dev.to/keploy/mastering-stress-testing-breaking-systems-to-build-better-ones-5ip)
+- [FSCSS Example](https://dev.to/fscss/fscss-example-phj)
+- [6 Emerging Web Animation Techniques for Dynamic User Interfaces](https://dev.to/aaravjoshi/6-emerging-web-animation-techniques-for-dynamic-user-interfaces-ak0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
