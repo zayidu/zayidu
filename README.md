@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TS1016: A Required Parameter Cannot Follow an Optional Parameter](https://dev.to/turingvangisms/ts1016-a-required-parameter-cannot-follow-an-optional-parameter-4nmj)
-- [Fixing TS1015: Parameter Cannot Have Question Mark and Initializer](https://dev.to/ahmad_tibibi/fixing-ts1015-parameter-cannot-have-question-mark-and-initializer-cih)
-- [Week 1-4](https://dev.to/aiden_isaac/week-1-4-5343)
-- [TS1014: A Rest Parameter Must Be Last in a Parameter List](https://dev.to/ahmad_tibibi/ts1014-a-rest-parameter-must-be-last-in-a-parameter-list-55kf)
-- [TS1013: A Rest Parameter or Binding Pattern May Not Have a Trailing Comma](https://dev.to/ahmad_tibibi/ts1013-a-rest-parameter-or-binding-pattern-may-not-have-a-trailing-comma-5g7i)
+- [Day 23: Terminal Images 🖼️](https://dev.to/valeriavg/day-23-terminal-images-5ch7)
+- [When Is The Best Time To Look for a New Job?](https://dev.to/canro91/when-is-the-best-time-to-look-for-a-new-job-3699)
+- [OpenShift Interview Questions expected in 2025 &lpar;Updated List&rpar;](https://dev.to/dhinesh_kumar_4be5561ed81/openshift-interview-questions-expected-in-2025-updated-list-1oe4)
+- [Frontend DEV Challenge - December Edition, Glam Up My Markup: Winter Solstice](https://dev.to/matin676/frontend-dev-challenge-december-edition-glam-up-my-markup-winter-solstice-2b5p)
+- [Visualization helpers](https://dev.to/arpitrathore/visualization-helpers-5a9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
