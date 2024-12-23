@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GenQE: Redefining Software Testing and Quality Assurance](https://dev.to/anil_csimplifyit_905c/genqe-redefining-software-testing-and-quality-assurance-d0c)
-- [Clojure Is Awesome!!! [PART 4]](https://dev.to/borba/clojure-is-awesome-part-4-7go)
-- [Private LLMs for GitHub Actions](https://dev.to/mcasperson/private-llms-for-github-actions-4nfa)
-- [Solving the Empty Path Issue in Go Lambda Functions with API Gateway HTTP API](https://dev.to/burgossrodrigo/solving-the-empty-path-issue-in-go-lambda-functions-with-api-gateway-http-api-2c5n)
-- [Daily JavaScript Challenge #JS-54: Find Common Elements Across Multiple Arrays](https://dev.to/dpc/daily-javascript-challenge-js-54-find-common-elements-across-multiple-arrays-pp7)
+- [How to Get Highest Paying Engineering Jobs in 2024](https://dev.to/lodely/how-to-get-highest-paying-engineering-jobs-in-2024-pmj)
+- [Email Security and Data Protection for Startups: Affordable Solutions](https://dev.to/armen_baghdasaryan_da5798/email-security-and-data-protection-for-startups-affordable-solutions-1g7p)
+- [The Dawn of a New Era: AI in Software Development](https://dev.to/radha_4c842d8e4362a7cdd9c/the-dawn-of-a-new-era-ai-in-software-development-16jf)
+- [Advanced Playwright Features: Beyond the Basics](https://dev.to/aswani25/advanced-playwright-features-beyond-the-basics-43p7)
+- [The Dawn of a New Era: AI in Software Development](https://dev.to/radha_4c842d8e4362a7cdd9c/the-dawn-of-a-new-era-ai-in-software-development-38lg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
