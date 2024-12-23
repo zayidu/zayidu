@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TRON network Testnet Differences: Nile vs Shasta vs Private Chain?](https://dev.to/getblockio_77/tron-network-testnet-differences-nile-vs-shasta-vs-private-chain-2hf9)
-- [Top 10 Tools Similiar to Cursor AI](https://dev.to/apilover/top-10-tools-similiar-to-cursor-ai-4m17)
-- [LeetCode Challenge: 14. Longest Common Prefix - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-14-longest-common-prefix-javascript-solution-4e5f)
-- [The Art of Data Preparation: Building Strong Foundations for ML](https://dev.to/aws-builders/the-art-of-data-preparation-building-strong-foundations-for-ml-5810)
-- [Opentelemetry Collector&#39;ü ayağa kaldırma](https://dev.to/umuterol/opentelemetry-collectoru-ayaga-kaldirma-3h38)
+- [IRRemote 程式庫搭配 Adafruit_NeoPoxel 程式庫的問題](https://dev.to/codemee/irremote-cheng-shi-ku-da-pei-adafruitneopoxel-cheng-shi-ku-de-wen-ti-1k7d)
+- [Here’s how next-runtime-env applies regex test in Array.prototype.filter&lpar;&rpar; Think Throo Think Throo](https://dev.to/thinkthroo/heres-how-next-runtime-env-applies-regex-test-in-arrayprototypefilterthink-throothink-throo-2fpj)
+- [Download Manager v0.1.0](https://dev.to/joeljaison394/download-manager-v010-5eh9)
+- [Unsubscribe Observable! why is it so important?](https://dev.to/asaf_eliasim/unsubscribe-observable-why-is-it-so-important-4p96)
+- [Cómo instalar el JDK de Java usando Temurin en Windows](https://dev.to/asjordi/como-instalar-el-jdk-de-java-usando-temurin-en-windows-30kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
