@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-1dld)
-- [The Magic of Image Generation: Transforming Creativity with AI](https://dev.to/shreyash-hexa/the-magic-of-image-generation-transforming-creativity-with-ai-21pb)
-- [Edge Computing: Low-Latency paradigm for Distributed Systems](https://dev.to/ab_vajarekar3000/edge-computing-low-latency-paradigm-for-distributed-systems-3860)
-- [From Vision to Theme: How to Hire the Perfect WordPress Developer](https://dev.to/procoders/from-vision-to-theme-how-to-hire-the-perfect-wordpress-developer-kja)
-- [Beyond procrastination: the cognitive reasons behind unfinished projects](https://dev.to/genedesign/beyond-procrastination-the-cognitive-reasons-behind-unfinished-projects-oa7)
+- [Como Criar uma Imagem Semântica em HTML](https://dev.to/udanielnogueira/como-criar-uma-imagem-semantica-em-html-5h6o)
+- [Kubernetes DaemonSets: Managing System-Level Components Across Every Node](https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-daemonsets-managing-system-level-components-across-every-node-4d32)
+- [Kubernetes StatefulSets: Managing Stateful Applications with Persistence and Stability](https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-statefulsets-managing-stateful-applications-with-persistence-and-stability-18od)
+- [O mistério do objeto de Ruby escondido Singleton Class](https://dev.to/jmouradeveloper/o-misterio-do-objeto-de-ruby-escondido-singleton-class-3fi4)
+- [Multi-Container Pods in Kubernetes: Best Practices and Use Cases](https://dev.to/abhay_yt_52a8e72b213be229/multi-container-pods-in-kubernetes-best-practices-and-use-cases-27kp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
