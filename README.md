@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionizing Retail Customer Service with AI-Powered Chatbots and Real-Time Multilingual Support](https://dev.to/julie_ryan_df9e4e895cdcff/revolutionizing-retail-customer-service-with-ai-powered-chatbots-and-real-time-multilingual-support-b75)
-- [How to Set Up Email Verification in Laravel: A Complete Guide](https://dev.to/mailfloss/how-to-set-up-email-verification-in-laravel-a-complete-guide-14c1)
-- [Revolutionizing Retail Customer Service with AI-Powered Chatbots and Real-Time Multilingual Support](https://dev.to/jessica_williams_8192bc1f/revolutionizing-retail-customer-service-with-ai-powered-chatbots-and-real-time-multilingual-support-1p2l)
-- [🔍 3 Hidden Linux Logs You’ve Never Heard About! 🐧 &lpar;Uncover the Secrets!&rpar;](https://dev.to/rogueloop/3-hidden-linux-logs-youve-never-heard-about-uncover-the-secrets-1a51)
-- [Creating a GoLang API that allows uploading files to an Amazon S3 bucket](https://dev.to/ayas_tech_2b0560ee159e661/creating-a-golang-api-that-allows-uploading-files-to-an-amazon-s3-bucket-3kj3)
+- [Demystifying JavaScript Closures: A Comprehensive Guide with Advanced Insights](https://dev.to/hasunnilupul/demystifying-javascript-closures-a-comprehensive-guide-with-advanced-insights-500h)
+- [Understanding Variables](https://dev.to/gurjeetsinghvirdee/understanding-variables-4fi1)
+- [menu alien](https://dev.to/diegobrito/menu-alien-h5f)
+- [🚀 How to Boost Your Productivity as a Web3 Developer](https://dev.to/sergi_web3/how-to-boost-your-productivity-as-a-web3-developer-27b9)
+- [5 Essential Principles for Highly Productive Developers](https://dev.to/serbixote/5-essential-principles-for-highly-productive-developers-2o5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
