@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 23: Terminal Images 🖼️](https://dev.to/valeriavg/day-23-terminal-images-5ch7)
-- [When Is The Best Time To Look for a New Job?](https://dev.to/canro91/when-is-the-best-time-to-look-for-a-new-job-3699)
-- [OpenShift Interview Questions expected in 2025 &lpar;Updated List&rpar;](https://dev.to/dhinesh_kumar_4be5561ed81/openshift-interview-questions-expected-in-2025-updated-list-1oe4)
-- [Frontend DEV Challenge - December Edition, Glam Up My Markup: Winter Solstice](https://dev.to/matin676/frontend-dev-challenge-december-edition-glam-up-my-markup-winter-solstice-2b5p)
-- [Visualization helpers](https://dev.to/arpitrathore/visualization-helpers-5a9e)
+- [Code as Doc: Automate by Vercel AI SDK and ZenStack for Free](https://dev.to/zenstack/code-as-doc-automate-by-vercel-ai-sdk-and-zenstack-for-free-1ch4)
+- [Task Tracker CLI](https://dev.to/sulmanweb/task-tracker-cli-4imm)
+- [The AI Revolution in Software Testing: Leading the Way with Genqe](https://dev.to/vaibhavkuls/the-ai-revolution-in-software-testing-leading-the-way-with-genqe-k72)
+- [Linux](https://dev.to/ali_dhayni_bc17b9722bb633/linux-o74)
+- [Mastering Axios: The Ultimate JavaScript Guide to Simplifying API Calls](https://dev.to/jignect_technologies/mastering-axios-the-ultimate-javascript-guide-to-simplifying-api-calls-25io)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
