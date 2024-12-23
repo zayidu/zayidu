@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI&#39;s O3 Models: A New Frontier in AI Reasoning](https://dev.to/jon_exume_99b374aa68a0028/openais-o3-models-a-new-frontier-in-ai-reasoning-266m)
-- [Unlock the Gen AI Revolution: Autonomous Multicloud Management with Cloudgov.ai](https://dev.to/vaish_98/unlock-the-gen-ai-revolution-autonomous-multicloud-management-with-cloudgovai-e3n)
-- [Secure and Reliable Over the Air OTA Update for Industrial 4.0 Environments](https://dev.to/romana_diana_/secure-and-reliable-over-the-air-ota-update-for-industrial-40-environments-1n7h)
-- [AI Innovations to Watch in 2024: Transforming Everyday Life](https://dev.to/namratahinduja/ai-innovations-to-watch-in-2024-transforming-everyday-life-le4)
-- [How can VoidZero be commercialized?](https://dev.to/fupeng_wang/how-can-voidzero-be-commercialized-669)
+- [How AI and ML Are Revolutionizing Document Verification?](https://dev.to/lokeshjoshi/how-ai-and-ml-are-revolutionizing-document-verification-52ml)
+- [🚀 TagLog’s idea is simpleRethinking Log Management: Real-Time Debugging with TagLog](https://dev.to/dsaga/taglogs-idea-is-simplerethinking-log-management-real-time-debugging-with-taglog-378o)
+- [Christmas guide to Custom Directives in Vue 🎄](https://dev.to/jacobandrewsky/christmas-guide-to-custom-directives-in-vue-47hj)
+- [Build a Symfony 7 boilerplate using FrankenPHP, Docker, PostgreSQL and php 8.4](https://dev.to/nicolasbonnici/build-a-symfony-7-boilerplate-using-frankenphp-docker-postgresql-and-php-84-4ej3)
+- [The Complete Guide to Landing Your Next Fullstack Developer Role in 2025](https://dev.to/respect17/the-complete-guide-to-landing-your-next-fullstack-developer-role-in-2025-nno)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
