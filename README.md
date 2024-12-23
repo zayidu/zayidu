@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A simple HTML/CSS edition for the Frontend Challenge](https://dev.to/thomasbnt/a-simple-htmlcss-edition-for-the-frontend-challenge-2ic0)
-- [History of my ThinkPad X260](https://dev.to/nakidai/history-of-my-thinkpad-x260-439f)
-- [Feature flag experiment using DevCycle SDK](https://dev.to/chilupa/feature-flag-experiment-using-devcycle-sdk-1734)
-- [Desplegar a Firebase con GitHub actions](https://dev.to/inusui/desplegar-a-firebase-con-github-actions-34m8)
-- [Cloud Security Challenges and Encryption, Identity Management, and Compliance](https://dev.to/atharvgyan/cloud-security-challenges-and-encryption-identity-management-and-compliance-2bm8)
+- [GenQE: Redefining Software Testing and Quality Assurance](https://dev.to/anil_csimplifyit_905c/genqe-redefining-software-testing-and-quality-assurance-d0c)
+- [Clojure Is Awesome!!! [PART 4]](https://dev.to/borba/clojure-is-awesome-part-4-7go)
+- [Private LLMs for GitHub Actions](https://dev.to/mcasperson/private-llms-for-github-actions-4nfa)
+- [Solving the Empty Path Issue in Go Lambda Functions with API Gateway HTTP API](https://dev.to/burgossrodrigo/solving-the-empty-path-issue-in-go-lambda-functions-with-api-gateway-http-api-2c5n)
+- [Daily JavaScript Challenge #JS-54: Find Common Elements Across Multiple Arrays](https://dev.to/dpc/daily-javascript-challenge-js-54-find-common-elements-across-multiple-arrays-pp7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
