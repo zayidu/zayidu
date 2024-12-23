@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Criar uma Imagem Semântica em HTML](https://dev.to/udanielnogueira/como-criar-uma-imagem-semantica-em-html-5h6o)
-- [Kubernetes DaemonSets: Managing System-Level Components Across Every Node](https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-daemonsets-managing-system-level-components-across-every-node-4d32)
-- [Kubernetes StatefulSets: Managing Stateful Applications with Persistence and Stability](https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-statefulsets-managing-stateful-applications-with-persistence-and-stability-18od)
-- [O mistério do objeto de Ruby escondido Singleton Class](https://dev.to/jmouradeveloper/o-misterio-do-objeto-de-ruby-escondido-singleton-class-3fi4)
-- [Multi-Container Pods in Kubernetes: Best Practices and Use Cases](https://dev.to/abhay_yt_52a8e72b213be229/multi-container-pods-in-kubernetes-best-practices-and-use-cases-27kp)
+- [AWS re:Invent top picks and programs!](https://dev.to/alexandrammr/aws-reinvent-top-picks-and-programs-5g1g)
+- [How to Use Two GitHub Profiles on One Machine](https://dev.to/ishaan-mittal/how-to-use-two-github-profiles-on-one-machine-43kn)
+- [Simplifying Static Site Hosting: Why I’m Building Rollout](https://dev.to/neerajsohal/simplifying-static-site-hosting-why-im-building-rollout-301f)
+- [Challenges I Faced in the BloodLinePro Project and How I Overcame Them](https://dev.to/theekshana_sachintha_a5fd/challenges-i-faced-in-the-bloodlinepro-project-and-how-i-overcame-them-2nj6)
+- [Part 2 - CosmosDB Logical Partition and the Impact on Partition Key Choice](https://dev.to/martin_pi/part-2-cosmosdb-logical-partition-and-the-impact-on-partition-key-choice-5oe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
