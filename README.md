@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent top picks and programs!](https://dev.to/alexandrammr/aws-reinvent-top-picks-and-programs-5g1g)
-- [How to Use Two GitHub Profiles on One Machine](https://dev.to/ishaan-mittal/how-to-use-two-github-profiles-on-one-machine-43kn)
-- [Simplifying Static Site Hosting: Why I’m Building Rollout](https://dev.to/neerajsohal/simplifying-static-site-hosting-why-im-building-rollout-301f)
-- [Challenges I Faced in the BloodLinePro Project and How I Overcame Them](https://dev.to/theekshana_sachintha_a5fd/challenges-i-faced-in-the-bloodlinepro-project-and-how-i-overcame-them-2nj6)
-- [Part 2 - CosmosDB Logical Partition and the Impact on Partition Key Choice](https://dev.to/martin_pi/part-2-cosmosdb-logical-partition-and-the-impact-on-partition-key-choice-5oe)
+- [An Exploration of the Software Development Field](https://dev.to/rachelle_wilber_422febda6/an-exploration-of-the-software-development-field-39mf)
+- [How Remention AI Boosts Social Media Engagement and Brand Visibility](https://dev.to/ohansfavour/how-remention-ai-boosts-social-media-engagement-and-brand-visibility-2h99)
+- [Day - 1 of Java](https://dev.to/sathish_balaji_2003/day-1-of-java-4ecp)
+- [How to Use the PHP Spread Operator](https://dev.to/moneer_fahmy_b838032ddcc1/how-to-use-the-php-spread-operator-4cfk)
+- [How Much Automation is Too Much Automation in ETL](https://dev.to/divyansh_patel_44a766586f/how-much-automation-is-too-much-automation-in-etl-24b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
