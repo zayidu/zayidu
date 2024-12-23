@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code as Doc: Automate by Vercel AI SDK and ZenStack for Free](https://dev.to/zenstack/code-as-doc-automate-by-vercel-ai-sdk-and-zenstack-for-free-1ch4)
-- [Task Tracker CLI](https://dev.to/sulmanweb/task-tracker-cli-4imm)
-- [The AI Revolution in Software Testing: Leading the Way with Genqe](https://dev.to/vaibhavkuls/the-ai-revolution-in-software-testing-leading-the-way-with-genqe-k72)
-- [Linux](https://dev.to/ali_dhayni_bc17b9722bb633/linux-o74)
-- [Mastering Axios: The Ultimate JavaScript Guide to Simplifying API Calls](https://dev.to/jignect_technologies/mastering-axios-the-ultimate-javascript-guide-to-simplifying-api-calls-25io)
+- [OpenAI&#39;s O3 Models: A New Frontier in AI Reasoning](https://dev.to/jon_exume_99b374aa68a0028/openais-o3-models-a-new-frontier-in-ai-reasoning-266m)
+- [Unlock the Gen AI Revolution: Autonomous Multicloud Management with Cloudgov.ai](https://dev.to/vaish_98/unlock-the-gen-ai-revolution-autonomous-multicloud-management-with-cloudgovai-e3n)
+- [Secure and Reliable Over the Air OTA Update for Industrial 4.0 Environments](https://dev.to/romana_diana_/secure-and-reliable-over-the-air-ota-update-for-industrial-40-environments-1n7h)
+- [AI Innovations to Watch in 2024: Transforming Everyday Life](https://dev.to/namratahinduja/ai-innovations-to-watch-in-2024-transforming-everyday-life-le4)
+- [How can VoidZero be commercialized?](https://dev.to/fupeng_wang/how-can-voidzero-be-commercialized-669)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
