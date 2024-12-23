@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React 19: Server Functions](https://dev.to/garciadiazjaime/react-19-server-functions-9g6)
-- [The Top TS Copy Paste Libraries for 2025](https://dev.to/ivanivanovv/the-top-ts-copy-paste-libraries-for-2025-36oo)
-- [Deep Dive into Microsoft MarkItDown](https://dev.to/leapcell/deep-dive-into-microsoft-markitdown-4if5)
-- [Frontend Challenge: December Edition](https://dev.to/goswami040/frontend-challenge-december-edition-27d5)
-- [The Linux Boot Process: A Detailed Walkthrough](https://dev.to/shweta_thikekar/the-linux-boot-process-a-detailed-walkthrough-1j86)
+- [Dividing Tasks](https://dev.to/jasten/dividing-tasks-4bg0)
+- [How to Build Flexible Data Models in Django with JSONField and Pydantic](https://dev.to/dannyell77/how-to-build-flexible-data-models-in-django-with-jsonfield-and-pydantic-13hi)
+- [How AI Can Help You Manage Emails &lpar;Common Challenges and Solutions Explained&rpar;](https://dev.to/lucym/how-ai-can-help-you-manage-emails-common-challenges-and-solutions-explained-310b)
+- [New 38 GitHub Repositories - Open Source of Dec 23, 2024](https://dev.to/gittech/new-38-github-repositories-open-source-of-dec-23-2024-5hkd)
+- [Test post.](https://dev.to/ben/test-post-1n21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
