@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Azure Functions with Python: A Step-by-Step Guide](https://dev.to/edgaras/deploying-azure-functions-with-python-a-step-by-step-guide-5db6)
-- [How QA Professionals Can Earn by Finding Bugs: A Tester’s Perspective](https://dev.to/leo_scott_357f10236fabe00/how-qa-professionals-can-earn-by-finding-bugs-a-testers-perspective-2kf1)
-- [Inversion of Control and Dependency Injection: A Practical Guide with Java and Spring Boot](https://dev.to/mspilari/inversion-of-control-and-dependency-injection-a-practical-guide-with-java-and-spring-boot-5c1d)
-- [Simplify AWS Networking Costs: Key Tips with Cloudgov.ai’s Gen AI Platform](https://dev.to/vaish_98/simplify-aws-networking-costs-key-tips-with-cloudgovais-gen-ai-platform-2k43)
-- [OpenAI announces new o3 models](https://dev.to/ashinno/openai-announces-new-o3-models-1ld8)
+- [TRON network Testnet Differences: Nile vs Shasta vs Private Chain?](https://dev.to/getblockio_77/tron-network-testnet-differences-nile-vs-shasta-vs-private-chain-2hf9)
+- [Top 10 Tools Similiar to Cursor AI](https://dev.to/apilover/top-10-tools-similiar-to-cursor-ai-4m17)
+- [LeetCode Challenge: 14. Longest Common Prefix - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-14-longest-common-prefix-javascript-solution-4e5f)
+- [The Art of Data Preparation: Building Strong Foundations for ML](https://dev.to/aws-builders/the-art-of-data-preparation-building-strong-foundations-for-ml-5810)
+- [Opentelemetry Collector&#39;ü ayağa kaldırma](https://dev.to/umuterol/opentelemetry-collectoru-ayaga-kaldirma-3h38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
