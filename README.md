@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Highest Paying Engineering Jobs in 2024](https://dev.to/lodely/how-to-get-highest-paying-engineering-jobs-in-2024-pmj)
-- [Email Security and Data Protection for Startups: Affordable Solutions](https://dev.to/armen_baghdasaryan_da5798/email-security-and-data-protection-for-startups-affordable-solutions-1g7p)
-- [The Dawn of a New Era: AI in Software Development](https://dev.to/radha_4c842d8e4362a7cdd9c/the-dawn-of-a-new-era-ai-in-software-development-16jf)
-- [Advanced Playwright Features: Beyond the Basics](https://dev.to/aswani25/advanced-playwright-features-beyond-the-basics-43p7)
-- [The Dawn of a New Era: AI in Software Development](https://dev.to/radha_4c842d8e4362a7cdd9c/the-dawn-of-a-new-era-ai-in-software-development-38lg)
+- [Extending the 200-Character Limit for Post Names in WordPress: A Developer’s Guide](https://dev.to/litonarefin/extending-the-200-character-limit-for-post-names-in-wordpress-a-developers-guide-1fj1)
+- [🌟 🌐 TOP 90 Resources For The Front-end Development 🚀 🌟](https://dev.to/hanzla-baig/top-90-resources-for-the-front-end-development-3a6i)
+- [Mastering MERN Stack Development: Tips, Best Practices, and Tools](https://dev.to/rayan2228/mastering-mern-stack-development-tips-best-practices-and-tools-4b1p)
+- [How to Become a Software Engineer: No Experience? No Problem](https://dev.to/lodely/how-to-become-a-software-engineer-no-experience-no-problem-3npp)
+- [Project: Santa&#39;s Workshop with DevCycles Feature Flags](https://dev.to/sergb_appdev/project-santas-workshop-with-devcycles-feature-flags-471o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
