@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Your Own Personalised AWS Learning Experience with Streamlit](https://dev.to/omarsteam/create-your-own-personalised-aws-learning-experience-with-streamlit-8hg)
-- [Healthcare ERP System: Simplify, Optimize, and Thrive](https://dev.to/justinsaran/healthcare-erp-system-simplify-optimize-and-thrive-10f2)
-- [Node.js vs. Deno: Which One Should You Choose?](https://dev.to/emily_smith_86b5b7960eebb/nodejs-vs-deno-which-one-should-you-choose-1eam)
-- [Native LLM Calls vs Agentic Approaches in GenAI](https://dev.to/sudhakar_punniyakotti/native-llm-calls-and-agentic-approaches-in-genai-5ffl)
-- [OpenStack sur Kubernetes en toute simplicité avec Canonical MicroStack et Pulumi …](https://dev.to/deep75/openstack-sur-kubernetes-en-toute-simplicite-avec-canonical-microstack-et-pulumi--1mi6)
+- [Comprehensive Guide to Implementing Rate Limiting in NestJS: IP-Based and Device ID-Based Strategies.](https://dev.to/mohinsheikh/comprehensive-guide-to-implementing-rate-limiting-in-nestjs-ip-based-and-device-id-based-4bcl)
+- [How to deploy Puppeteer with node on Render.com](https://dev.to/umer009/how-to-deploy-puppeteer-with-node-on-rendercom-ml4)
+- [How to deploy Puppeteer with node on Render.com](https://dev.to/umer009/how-to-deploy-puppeteer-with-node-on-rendercom-4jo7)
+- [Mastering Modern JavaScript: Essential Features and Best Practices](https://dev.to/hexadecimalsoftware/mastering-modern-javascript-essential-features-and-best-practices-2bm7)
+- [How can I test my code for compatibility issues with older browsers?](https://dev.to/hexa-home/how-can-i-test-my-code-for-compatibility-issues-with-older-browsers-lho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
