@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solution to fix the &quot;Missing Compliance&quot; Warning at App Store Connect](https://dev.to/surhidamatya/solution-to-fix-the-missing-compliance-warning-at-app-store-connect-1kb6)
-- [Data Engineering for Real-Time Fraud Detection in Financial Services](https://dev.to/justdigitallyemma/data-engineering-for-real-time-fraud-detection-in-financial-services-4lan)
-- [Test Cases: The Backbone of Software Testing](https://dev.to/keploy/test-cases-the-backbone-of-software-testing-34ek)
-- [Day 1: Setup Laravel](https://dev.to/ehtesham_ali_abc367f36a5b/day-1-setup-laravel-2j3l)
-- [Mastering Essential Linux Commands: A Complete Guide for Beginners](https://dev.to/s3cloudhub/mastering-essential-linux-commands-a-complete-guide-for-beginners-1d4d)
+- [DolphinScheduler and SeaTunnel VS. AirFlow and NiFi](https://dev.to/seatunnel/dolphinscheduler-and-seatunnel-vs-airflow-and-nifi-2jg0)
+- [Apache SeaTunnel Won an Award for &quot;2024 Open Source Community&quot;!](https://dev.to/seatunnel/apache-seatunnel-won-an-award-for-2024-open-source-community-1cfg)
+- [Cloud Telephony](https://dev.to/airphone/cloud-telephony-1g9b)
+- [Dive into the Block Blast Adventure!](https://dev.to/berry_esther_0f1a44cc272b/dive-into-the-block-blast-adventure-1l04)
+- [Avoiding Bulk API Limits, AI Refactoring Code, Hiring 1000 Employees Amid Record Stock](https://dev.to/sfdcnews/avoiding-bulk-api-limits-ai-refactoring-code-hiring-1000-employees-amid-record-stock-h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
