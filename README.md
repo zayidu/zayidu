@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DolphinScheduler and SeaTunnel VS. AirFlow and NiFi](https://dev.to/seatunnel/dolphinscheduler-and-seatunnel-vs-airflow-and-nifi-2jg0)
-- [Apache SeaTunnel Won an Award for &quot;2024 Open Source Community&quot;!](https://dev.to/seatunnel/apache-seatunnel-won-an-award-for-2024-open-source-community-1cfg)
-- [Cloud Telephony](https://dev.to/airphone/cloud-telephony-1g9b)
-- [Dive into the Block Blast Adventure!](https://dev.to/berry_esther_0f1a44cc272b/dive-into-the-block-blast-adventure-1l04)
-- [Avoiding Bulk API Limits, AI Refactoring Code, Hiring 1000 Employees Amid Record Stock](https://dev.to/sfdcnews/avoiding-bulk-api-limits-ai-refactoring-code-hiring-1000-employees-amid-record-stock-h)
+- [Amazon Q Developer Tips: No.24 Amazon Q Developer community resources](https://dev.to/aws/amazon-q-developer-tips-no24-amazon-q-developer-community-resources-2knh)
+- [My All Trending Medium Article Please Watch: Part 1](https://dev.to/uicraft_by_pratik/my-all-trending-medium-article-please-watch-part-1-1pgn)
+- [Cloud Christmas Hacks - Prize of 1500$](https://dev.to/styava/cloud-christmas-hacks-prize-of-1500-2g0a)
+- [Understanding SSL and Its Importance](https://dev.to/vipulkumarsviit/understanding-ssl-and-its-importance-3flh)
+- [Using Kubernetes Labels, Annotations, and Taints for Effective Resource Management](https://dev.to/abhay_yt_52a8e72b213be229/using-kubernetes-labels-annotations-and-taints-for-effective-resource-management-30lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
