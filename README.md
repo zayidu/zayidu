@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How we added Apple Silicon support to analyzer &lpar;arm64&rpar;](https://dev.to/pvsdev/how-we-added-apple-silicon-support-to-analyzer-arm64-5emp)
-- [Unlocking the Secrets of Ruby Debugging: From Basics to Advanced Tools](https://dev.to/jetthoughts/unlocking-the-secrets-of-ruby-debugging-from-basics-to-advanced-tools-5dd6)
-- [Understanding NVIDIA GPUs for AI and Deep Learning](https://dev.to/javaeeeee/understanding-nvidia-gpus-for-ai-and-deep-learning-4co7)
-- [Sequelize migrations](https://dev.to/thebridge2/sequelize-migrations-2611)
-- [Understand SessionStorage and LocalStorage for Controlling Popups](https://dev.to/maheshprajapati/understanding-sessionstorage-and-localstorage-for-controlling-popups-27m6)
+- [Create Your Own Personalised AWS Learning Experience with Streamlit](https://dev.to/omarsteam/create-your-own-personalised-aws-learning-experience-with-streamlit-8hg)
+- [Healthcare ERP System: Simplify, Optimize, and Thrive](https://dev.to/justinsaran/healthcare-erp-system-simplify-optimize-and-thrive-10f2)
+- [Node.js vs. Deno: Which One Should You Choose?](https://dev.to/emily_smith_86b5b7960eebb/nodejs-vs-deno-which-one-should-you-choose-1eam)
+- [Native LLM Calls vs Agentic Approaches in GenAI](https://dev.to/sudhakar_punniyakotti/native-llm-calls-and-agentic-approaches-in-genai-5ffl)
+- [OpenStack sur Kubernetes en toute simplicité avec Canonical MicroStack et Pulumi …](https://dev.to/deep75/openstack-sur-kubernetes-en-toute-simplicite-avec-canonical-microstack-et-pulumi--1mi6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
