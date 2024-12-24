@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Hidden Chrome DevTools Features Every Developer Should Know](https://dev.to/aninooo/5-hidden-chrome-devtools-features-every-developer-should-know-1ch8)
-- [Building a Real-Time Chat Application with WebSockets in React](https://dev.to/ayusharpcoder/building-a-real-time-chat-application-with-websockets-in-react-5fg8)
-- [Creating an AWS + NextJS site for the Cloud Resume Challenge](https://dev.to/unfiled4897/creating-a-nextjs-aws-site-for-the-cloud-resume-challenge-5121)
-- [How to Create Rock Paper Scissors Game Using HTML CSS and JavaScript](https://dev.to/sharathchandark/how-to-create-rock-paper-scissors-game-using-html-css-and-javascript-1nol)
-- [Nên sử dụng Promise hay Async/await ?](https://dev.to/nddev_18/nen-su-dung-promise-hay-asyncawait--l0d)
+- [Solution to fix the &quot;Missing Compliance&quot; Warning at App Store Connect](https://dev.to/surhidamatya/solution-to-fix-the-missing-compliance-warning-at-app-store-connect-1kb6)
+- [Data Engineering for Real-Time Fraud Detection in Financial Services](https://dev.to/justdigitallyemma/data-engineering-for-real-time-fraud-detection-in-financial-services-4lan)
+- [Test Cases: The Backbone of Software Testing](https://dev.to/keploy/test-cases-the-backbone-of-software-testing-34ek)
+- [Day 1: Setup Laravel](https://dev.to/ehtesham_ali_abc367f36a5b/day-1-setup-laravel-2j3l)
+- [Mastering Essential Linux Commands: A Complete Guide for Beginners](https://dev.to/s3cloudhub/mastering-essential-linux-commands-a-complete-guide-for-beginners-1d4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
