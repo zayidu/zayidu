@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Idea to Code: How I Built a Python Text Editor](https://dev.to/mostypc123/from-idea-to-code-how-i-built-a-python-text-editor-kh4)
-- [Understanding the `mount&lpar;&rpar;` Method in Livewire](https://dev.to/msnmongare/understanding-the-mount-method-in-livewire-4am)
-- [Learn Design Patterns: Mastering the Singleton Design Pattern](https://dev.to/sami_maachi/learn-design-patterns-unlocking-the-power-of-the-prototype-design-pattern-3g00)
-- [Adam Smith&#39;s Guide to Turning Work into Wealth](https://dev.to/shrsv/adam-smiths-guide-to-turning-work-into-wealth-31me)
-- [How to Build a Hotel Management System in HTML, CSS, and JavaScript](https://dev.to/code_2/how-to-build-a-hotel-management-system-in-html-css-and-javascript-bn2)
+- [Test Dev.to](https://dev.to/jmr85/test-devto-2oid)
+- [HTTP: The Protocol Every Web Developer Must Master](https://dev.to/daniel_oladepo_0c5ac110f2/http-the-protocol-every-web-developer-must-master-374p)
+- [Ansible: Installation and Configuration Guide for Beginners](https://dev.to/harshm03/ansible-installation-and-configuration-guide-for-beginners-32g6)
+- [CYPRESS-AJV-SCHEMA-VALIDATOR VIDEO TUTORIAL: Mastering API Schema Testing in Cypress](https://dev.to/sebastianclavijo/cypress-ajv-schema-validator-video-tutorial-mastering-api-schema-testing-in-cypress-78)
+- [Difference between &lpar; &rpar;=&gt;{ } and &lpar; &rpar;=&gt;&lpar; &rpar; aero function in JavaScript &lpar;JS&rpar;](https://dev.to/atifwattoo/difference-between-and-aero-function-in-javascript-js-llb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
