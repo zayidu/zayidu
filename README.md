@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick RabbitMQ Refresher](https://dev.to/tallesl/quick-rabbitmq-refresher-5b5o)
-- [My first day of learning DSA](https://dev.to/mehfila_parkkulthil_23/my-first-day-of-learning-dsa-838)
-- [A Survey of Neural Network Architectures](https://dev.to/mohammad-reza-mahdiani/a-survey-of-neural-network-architectures-1c6k)
-- [meeting notes - how](https://dev.to/longtth/meeting-notes-how-4c8o)
-- [I&#39;m learning all about Cypress testing!](https://dev.to/moth668/im-learning-all-about-cypress-testing-14j)
+- [tnfy.link - One more shortener?](https://dev.to/capcom6/tnfylink-one-more-shortener-3ck7)
+- [AZURE COMPUTE GALLERY AND VIRUAL MACHINE SCALE SET](https://dev.to/oludamilola/azure-compute-gallery-and-virual-machine-scale-set-20l8)
+- [A Simple Approach to SSR with React 19 and esbuild](https://dev.to/willyelm/a-simple-approach-to-ssr-with-react-19-and-esbuild-26e5)
+- [A In-Depth Guide to Grasping Quantum Computing](https://dev.to/nutparent74/a-in-depth-guide-to-grasping-quantum-computing-3pmd)
+- [The OpenAI Whistleblower: Secrets, Cyber Generals, and a Mysterious End](https://dev.to/romanmarshanski/the-openai-whistleblower-secrets-cyber-generals-and-a-mysterious-end-be1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
