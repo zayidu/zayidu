@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Force Delete a Directory/Folder in Linux](https://dev.to/s3cloudhub/how-to-force-delete-a-directoryfolder-in-linux-2b7f)
-- [Moderniser son Dossier d&#39;Architecture Technique : Guide pratique pour 2024](https://dev.to/onepoint/moderniser-son-dossier-darchitecture-technique-guide-pratique-pour-2024-7d6)
-- [ProcessEnv type in next-runtime-env source code](https://dev.to/thinkthroo/processenv-type-in-next-runtime-env-source-code-19pm)
-- [Next.js: Optimizing Images with the next/image Component.](https://dev.to/remejuan/nextjs-optimizing-images-with-the-nextimage-component-3dd1)
-- [Starting with Unreal Engine](https://dev.to/unmotivated_dev23/starting-with-unreal-engine-4j6e)
+- [How to Create a Database and Always Connect to It in PostgreSQL Without Needing Superuser Access](https://dev.to/saint_vandora/how-to-create-a-database-and-always-connect-to-it-in-postgresql-without-needing-superuser-access-4l5j)
+- [Path Environment Variable Di Windows](https://dev.to/ngobrolinit/path-environment-variable-di-windows-274m)
+- [Git And Markdown Basics](https://dev.to/byali_macqueline_lea/git-and-markdown-basics-423g)
+- [Part 15: Building Your Own AI - Ethical Considerations in AI Development](https://dev.to/trixsec/part-15-building-your-own-ai-ethical-considerations-in-ai-development-3e84)
+- [Master Authentication with Auth.js, Next.js, and PostgreSQL: A Comprehensive Guide](https://dev.to/ebereplenty/master-authentication-with-authjs-nextjs-and-postgresql-a-comprehensive-guide-64m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
