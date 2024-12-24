@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HackerRank: Plus Minus JavaScript solution.](https://dev.to/tochi_/hackerrank-plus-minus-javascript-solution-5el3)
-- [React Clicks, Styles, &amp; Conditionals! 🎨💥](https://dev.to/mayowakalejaiye/react-clicks-styles-conditionals-16h8)
-- [Getting Started with Java: Problem-Solving for Beginners](https://dev.to/bharu_0fec38bd0fb51b76742/getting-started-with-java-problem-solving-for-beginners-3d36)
-- [AWS VPC with Public and Private Subnets &amp; NAT Gateway](https://dev.to/taha_sumeer/aws-vpc-with-public-and-private-subnets-nat-gateway-nmd)
-- [Node.js Interview Guide](https://dev.to/mohinsheikh/nodejs-interview-guide-509g)
+- [From Idea to Code: How I Built a Python Text Editor](https://dev.to/mostypc123/from-idea-to-code-how-i-built-a-python-text-editor-kh4)
+- [Understanding the `mount&lpar;&rpar;` Method in Livewire](https://dev.to/msnmongare/understanding-the-mount-method-in-livewire-4am)
+- [Learn Design Patterns: Mastering the Singleton Design Pattern](https://dev.to/sami_maachi/learn-design-patterns-unlocking-the-power-of-the-prototype-design-pattern-3g00)
+- [Adam Smith&#39;s Guide to Turning Work into Wealth](https://dev.to/shrsv/adam-smiths-guide-to-turning-work-into-wealth-31me)
+- [How to Build a Hotel Management System in HTML, CSS, and JavaScript](https://dev.to/code_2/how-to-build-a-hotel-management-system-in-html-css-and-javascript-bn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
