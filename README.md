@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Learning Node.js and Express.js Enough for Backend Development?](https://dev.to/msnmongare/is-learning-nodejs-and-expressjs-enough-for-backend-development-2ga)
-- [How to &lpar;Over&rpar;Engineer a Simple Static Website](https://dev.to/mateusriff/how-to-overengineer-a-simple-static-website-4f6m)
-- [Unlock the code generation of Laravel &lpar;part 2&rpar;: Stubs with Laravel Promts 💻🚀](https://dev.to/adriancolom/unlock-the-code-generation-of-laravel-part-2-stubs-with-laravel-promts-24kl)
-- [Unlock the Magic of Laravel Stubs: Supercharge Your Code Generation 🚀](https://dev.to/adriancolom/unlock-the-magic-of-laravel-stubs-supercharge-your-code-generation-2kbl)
-- [CodeFast⚡by Marc Lou: &lpar;A Review of a “Learn by Doing” Coding Course for Entrepreneurs Learn to Build a SaaS in Just Two Weeks&rpar;](https://dev.to/adriancolom/codefastby-marc-lou-a-review-of-a-learn-by-doing-coding-course-for-entrepreneurs-learn-to-5gcl)
+- [Serverless Security Best Practices](https://dev.to/ikoh_sylva/serverless-security-best-practices-5g0j)
+- [Aws zero-to-hero: Day2 A Deep Dive into Implementing AWS WAF for Unrivaled Web Application](https://dev.to/oncloud7/aws-zero-to-hero-day2-a-deep-dive-into-implementing-aws-waf-for-unrivaled-web-application-5e4e)
+- [Building a full-featured Laravel admin dashboard with Filament](https://dev.to/logrocket/building-a-full-featured-laravel-admin-dashboard-with-filament-46i4)
+- [Can anyone help me with this? I&#39;m working on xampp to setup my php using mysql. Even gtp is not able to solve this issue.](https://dev.to/kingashu2811/can-anyone-help-me-with-this-im-working-on-xampp-to-setup-my-php-using-mysql-even-gtp-is-not-l0)
+- [AI 2024: Transforming the World with Groundbreaking Innovations](https://dev.to/saima12/ai-2024-transforming-the-world-with-groundbreaking-innovations-1e67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
