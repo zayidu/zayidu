@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [tnfy.link - One more shortener?](https://dev.to/capcom6/tnfylink-one-more-shortener-3ck7)
-- [AZURE COMPUTE GALLERY AND VIRUAL MACHINE SCALE SET](https://dev.to/oludamilola/azure-compute-gallery-and-virual-machine-scale-set-20l8)
-- [A Simple Approach to SSR with React 19 and esbuild](https://dev.to/willyelm/a-simple-approach-to-ssr-with-react-19-and-esbuild-26e5)
-- [A In-Depth Guide to Grasping Quantum Computing](https://dev.to/nutparent74/a-in-depth-guide-to-grasping-quantum-computing-3pmd)
-- [The OpenAI Whistleblower: Secrets, Cyber Generals, and a Mysterious End](https://dev.to/romanmarshanski/the-openai-whistleblower-secrets-cyber-generals-and-a-mysterious-end-be1)
+- [Building a Real-Time Chat Application with WebSockets in React](https://dev.to/ayusharpcoder/building-a-real-time-chat-application-with-websockets-in-react-5fg8)
+- [Creating a NextJS + AWS site for the Cloud Resume Challenge](https://dev.to/unfiled4897/creating-a-nextjs-aws-site-for-the-cloud-resume-challenge-5121)
+- [How to Create Rock Paper Scissors Game Using HTML CSS and JavaScript](https://dev.to/sharathchandark/how-to-create-rock-paper-scissors-game-using-html-css-and-javascript-1nol)
+- [Nên sử dụng Promise hay Async/await ?](https://dev.to/nddev_18/nen-su-dung-promise-hay-asyncawait--l0d)
+- [Building Secure Authentication Microservices with Spring Boot: Part 1 - Getting Started](https://dev.to/kaweeshamr/building-secure-authentication-microservices-with-spring-boot-part-1-getting-started-37n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
