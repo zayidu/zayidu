@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to boost your ecom search conversion up to 10% with LLM trick](https://dev.to/allmute/how-to-boost-your-ecom-search-conversion-up-to-10-with-llm-trick-43jj)
-- [&quot;Why is it, when something happens, it is always you TWO?&quot;- troubleshooting Bluetooth and Wi-Fi devices on Debian 12](https://dev.to/dev-charodeyka/why-is-it-when-something-happens-it-is-always-you-two-troubleshooting-bluetooth-and-wi-fi-2ofn)
-- [鸿蒙Next类属性观测器V2](https://dev.to/freerain9/hong-meng-nextlei-shu-xing-guan-ce-qi-v2-234o)
-- [🙅🏾‍♂️ Flexbox Sem Frescura](https://dev.to/punkdasilva/flexbox-sem-frescura-m7n)
-- [Overcoming Job Market Challenges: Insights from a Successful Career Changer](https://dev.to/michaellarocca/overcoming-job-market-challenges-insights-from-a-successful-career-changer-24gd)
+- [Quick RabbitMQ Refresher](https://dev.to/tallesl/quick-rabbitmq-refresher-5b5o)
+- [My first day of learning DSA](https://dev.to/mehfila_parkkulthil_23/my-first-day-of-learning-dsa-838)
+- [A Survey of Neural Network Architectures](https://dev.to/mohammad-reza-mahdiani/a-survey-of-neural-network-architectures-1c6k)
+- [meeting notes - how](https://dev.to/longtth/meeting-notes-how-4c8o)
+- [I&#39;m learning all about Cypress testing!](https://dev.to/moth668/im-learning-all-about-cypress-testing-14j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
