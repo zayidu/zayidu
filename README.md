@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CockroachDB: fast-start configuration on a fresh cluster](https://dev.to/world2mark/cockroachdb-fast-start-configuration-on-a-fresh-cluster-23ha)
-- [Understanding Disk Management in Database Systems: From Fundamentals to RAID](https://dev.to/pepos_wives_ce25db06057c6/understanding-disk-management-in-database-systems-from-fundamentals-to-raid-4c6k)
-- [Merry Christmas!🎄](https://dev.to/best_codes/merry-christmas-36i7)
-- [Stop Hallucinating: APIs are the Missing Link For Reliable Agentic Applications](https://dev.to/agustus_gloop/stop-hallucinating-apis-are-the-missing-link-for-reliable-agentic-applications-3d5h)
-- [Ever wonder what happens when you send a transaction on Ethereum? 👀](https://dev.to/mahima_thacker/ever-wonder-what-happens-when-you-send-a-transaction-on-ethereum-1knj)
+- [❄️Introducing the HMPL Template Language](https://dev.to/anthonymax/introducing-the-hmpl-template-language-32fm)
+- [Coding Myths Debunked: Things Beginners Should Stop Believing](https://dev.to/arjun98k/coding-myths-debunked-things-beginners-should-stop-believing-2nbo)
+- [CHRISTMAS IS COMING!!](https://dev.to/anshi/christmas-is-coming-5fpd)
+- [2025 Outlook: How AI Agents May Reshape Software Development](https://dev.to/aiagentstore/2025-outlook-how-ai-agents-may-reshape-software-development-3ac0)
+- [Top 5 Google Cloud Certifications for 2025](https://dev.to/skillboosttrainer/top-5-google-cloud-certifications-for-2025-5aa0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
