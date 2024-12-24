@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Database and Always Connect to It in PostgreSQL Without Needing Superuser Access](https://dev.to/saint_vandora/how-to-create-a-database-and-always-connect-to-it-in-postgresql-without-needing-superuser-access-4l5j)
-- [Path Environment Variable Di Windows](https://dev.to/ngobrolinit/path-environment-variable-di-windows-274m)
-- [Git And Markdown Basics](https://dev.to/byali_macqueline_lea/git-and-markdown-basics-423g)
-- [Part 15: Building Your Own AI - Ethical Considerations in AI Development](https://dev.to/trixsec/part-15-building-your-own-ai-ethical-considerations-in-ai-development-3e84)
-- [Master Authentication with Auth.js, Next.js, and PostgreSQL: A Comprehensive Guide](https://dev.to/ebereplenty/master-authentication-with-authjs-nextjs-and-postgresql-a-comprehensive-guide-64m)
+- [🔐🔴 Top 3 Authentication Strategies For 2025 📖🔑](https://dev.to/martygo/top-3-authentication-strategies-for-2025-4pib)
+- [Top 10 Design Patterns for Programming Interviews](https://dev.to/somadevtoo/top-10-design-patterns-for-programming-interviews-8j4)
+- [Configuring the System to Use Simple Queue Service &lpar;AWS SQS&rpar;](https://dev.to/s3cloudhub/configuring-the-system-to-use-simple-queue-service-aws-sqs-1ad8)
+- [Building a Slack Clone with Next.js and TailwindCSS - Part One](https://dev.to/tropicolx/building-a-slack-clone-with-nextjs-and-tailwindcss-part-one-6g0)
+- [HOW TO CREATE A PRESIGNED URL FOR AN S3 &lpar;simple storage service&rpar;aws](https://dev.to/olaniyi_akinkunmi_9c3038f/how-to-create-a-presigned-url-for-an-s3-simple-storage-serviceaws-2jhb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
