@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Security Best Practices](https://dev.to/ikoh_sylva/serverless-security-best-practices-5g0j)
-- [Aws zero-to-hero: Day2 A Deep Dive into Implementing AWS WAF for Unrivaled Web Application](https://dev.to/oncloud7/aws-zero-to-hero-day2-a-deep-dive-into-implementing-aws-waf-for-unrivaled-web-application-5e4e)
-- [Building a full-featured Laravel admin dashboard with Filament](https://dev.to/logrocket/building-a-full-featured-laravel-admin-dashboard-with-filament-46i4)
-- [Can anyone help me with this? I&#39;m working on xampp to setup my php using mysql. Even gtp is not able to solve this issue.](https://dev.to/kingashu2811/can-anyone-help-me-with-this-im-working-on-xampp-to-setup-my-php-using-mysql-even-gtp-is-not-l0)
-- [AI 2024: Transforming the World with Groundbreaking Innovations](https://dev.to/saima12/ai-2024-transforming-the-world-with-groundbreaking-innovations-1e67)
+- [CockroachDB: fast-start configuration on a fresh cluster](https://dev.to/world2mark/cockroachdb-fast-start-configuration-on-a-fresh-cluster-23ha)
+- [Understanding Disk Management in Database Systems: From Fundamentals to RAID](https://dev.to/pepos_wives_ce25db06057c6/understanding-disk-management-in-database-systems-from-fundamentals-to-raid-4c6k)
+- [Merry Christmas!🎄](https://dev.to/best_codes/merry-christmas-36i7)
+- [Stop Hallucinating: APIs are the Missing Link For Reliable Agentic Applications](https://dev.to/agustus_gloop/stop-hallucinating-apis-are-the-missing-link-for-reliable-agentic-applications-3d5h)
+- [Ever wonder what happens when you send a transaction on Ethereum? 👀](https://dev.to/mahima_thacker/ever-wonder-what-happens-when-you-send-a-transaction-on-ethereum-1knj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
