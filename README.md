@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐🔴 Top 3 Authentication Strategies For 2025 📖🔑](https://dev.to/martygo/top-3-authentication-strategies-for-2025-4pib)
-- [Top 10 Design Patterns for Programming Interviews](https://dev.to/somadevtoo/top-10-design-patterns-for-programming-interviews-8j4)
-- [Configuring the System to Use Simple Queue Service &lpar;AWS SQS&rpar;](https://dev.to/s3cloudhub/configuring-the-system-to-use-simple-queue-service-aws-sqs-1ad8)
-- [Building a Slack Clone with Next.js and TailwindCSS - Part One](https://dev.to/tropicolx/building-a-slack-clone-with-nextjs-and-tailwindcss-part-one-6g0)
-- [HOW TO CREATE A PRESIGNED URL FOR AN S3 &lpar;simple storage service&rpar;aws](https://dev.to/olaniyi_akinkunmi_9c3038f/how-to-create-a-presigned-url-for-an-s3-simple-storage-serviceaws-2jhb)
+- [How we added Apple Silicon support to analyzer &lpar;arm64&rpar;](https://dev.to/pvsdev/how-we-added-apple-silicon-support-to-analyzer-arm64-5emp)
+- [Unlocking the Secrets of Ruby Debugging: From Basics to Advanced Tools](https://dev.to/jetthoughts/unlocking-the-secrets-of-ruby-debugging-from-basics-to-advanced-tools-5dd6)
+- [Understanding NVIDIA GPUs for AI and Deep Learning](https://dev.to/javaeeeee/understanding-nvidia-gpus-for-ai-and-deep-learning-4co7)
+- [Sequelize migrations](https://dev.to/thebridge2/sequelize-migrations-2611)
+- [Understand SessionStorage and LocalStorage for Controlling Popups](https://dev.to/maheshprajapati/understanding-sessionstorage-and-localstorage-for-controlling-popups-27m6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
