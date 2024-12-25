@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to JSDoc 📚](https://dev.to/alisamir/a-comprehensive-guide-to-jsdoc-3meb)
-- [Bit Manipulation In Problem Solving](https://dev.to/nadeemrashid__/bit-manipulation-in-problem-solving-4k2g)
-- [🚀 Mastering Concurrency in Go: A Deep Dive into sync.WaitGroup and sync.Cond](https://dev.to/architagr/mastering-concurrency-in-go-a-deep-dive-into-syncwaitgroup-and-synccond-4ode)
-- [Zero, One, Infinity Principle in Software Development](https://dev.to/kasir-barati/zero-one-infinity-principle-in-software-development-39p0)
-- [CSS Art: December - Snowflake Animation](https://dev.to/supremeakashdeveloper/css-art-december-snowflake-animation-22hc)
+- [Custom Website Design vs. Template Design: The Best Choice](https://dev.to/seo_esignature_8b18cc8801/custom-website-design-vs-template-design-the-best-choice-1pgi)
+- [SILENCE is Costing You More Than You Think!](https://dev.to/karell_stemarie_ce42bf9c/silence-is-costing-you-more-than-you-think-egg)
+- [New Post here!🍻](https://dev.to/digitaldrreamer/new-post-here-268j)
+- [A short guide to Async Components in Svelte 5](https://dev.to/digitaldrreamer/a-short-guide-to-async-components-in-svelte-5-57l4)
+- [Use generators for magic in React](https://dev.to/ashishk1331/use-generators-for-magic-in-react-2jlp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
