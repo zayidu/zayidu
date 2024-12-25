@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Open Source Journey: A Beginner-Friendly Guide to Collaboration and Growth](https://dev.to/gurjeetsinghvirdee/my-open-source-journey-a-beginner-friendly-guide-to-collaboration-and-growth-58bd)
-- [The streaming bridges — A Kafka, RabbitMQ, MQTT and CoAP example](https://dev.to/jofisaes/the-streaming-bridges-a-kafka-rabbitmq-mqtt-and-coap-example-3dif)
-- [Apply SSL Certificate on AWS ACM &lpar;also Cloudflare&rpar;](https://dev.to/cheedge_lee/apply-ssl-certificate-on-aws-acm-also-cloudflare-34ig)
-- [Chrome OS Guide to go from Zero to DevOps Hero in a nutshell](https://dev.to/jofisaes/chrome-os-guide-to-go-from-zero-to-devops-hero-in-a-nutshell-5dpm)
-- [Node.js is not a JavaScript framework](https://dev.to/msnmongare/nodejs-is-not-a-javascript-framework-3fcc)
+- [Top 10 React js interview questions.](https://dev.to/griffin_techs_/top-10-react-js-interview-questions-5g8d)
+- [Mushroom loading screen](https://dev.to/alex_f2d6ab289c59897d21fa/mushroom-loading-screen-3685)
+- [Difference between AWS Security Groups and NACL](https://dev.to/cloudcuddler/difference-between-aws-security-groups-and-nacl-32f0)
+- [Top Cybersecurity Tools Developers Should Use](https://dev.to/marcoatl/top-cybersecurity-tools-developers-should-use-3c5l)
+- [How AI Really Learns: The Journey from Random Noise to Intelligence](https://dev.to/nir_diamant/how-ai-really-learns-the-journey-from-random-noise-to-intelligence-4dba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
