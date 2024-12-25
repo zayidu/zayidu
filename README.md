@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Impact of Quantum Computing on Cybersecurity](https://dev.to/techyboo009/the-impact-of-quantum-computing-on-cybersecurity-3ecn)
-- [Liman MYS - Domain Eklentisi | Ağaç Yapısı Üzerinden Belirli Organizasyona Yetki Verme](https://dev.to/aciklab/liman-mys-domain-eklentisi-agac-yapisi-uzerinden-belirli-organizasyona-yetki-verme-4d9p)
-- [Info.plist and it&#39;s importance.](https://dev.to/surhidamatya/infoplist-and-its-importance-425h)
-- [Privacy in the Digital Age: How to Stay Secure Online](https://dev.to/techyboo009/privacy-in-the-digital-age-how-to-stay-secure-online-2iph)
-- [Day 2 : Host Static App on GitHub Pages](https://dev.to/ehtesham_ali_abc367f36a5b/day-2-host-static-app-on-github-pages-2f0m)
+- [HarmonyOS Next - OPUS Audio Encoding in Audio and Video in Practice](https://dev.to/qingkouwei/harmonyos-next-opus-audio-encoding-in-audio-and-video-in-practice-2kb6)
+- [State Isolation: Layout vs Workspace](https://dev.to/samuel_udeh/state-isolation-layout-vs-workspace-ji9)
+- [HarmonyOS Next - Mastering Log Knowledge in One Article](https://dev.to/qingkouwei/harmonyos-next-mastering-log-knowledge-in-one-article-573b)
+- [Boost Unit Test Efficiency Using Ai-Powered Extensions For Vs Code](https://dev.to/keploy/boost-unit-test-efficiency-using-ai-powered-extensions-for-vs-code-434h)
+- [How GenQE is Revolutionizing Software Testing](https://dev.to/vaibhavkuls/how-genqe-is-revolutionizing-software-testing-jfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
