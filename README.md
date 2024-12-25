@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [От слоистой архитектуры к DDD. Мой опыт миграции и распила монолита](https://dev.to/dmkjfs/ot-sloistoi-arkhitiektury-k-ddd-moi-opyt-mighratsii-i-raspila-monolita-44j3)
-- [Interview Questions on AWS Networking: VPC, Subnets, and Security Groups](https://dev.to/imsushant12/interview-questions-on-aws-networking-vpc-subnets-and-security-groups-40g7)
-- [Setting Up Drizzle &amp; Postgres with tRPC and Next.js App](https://dev.to/itsrakesh/setting-up-drizzle-postgres-with-trpc-and-nextjs-app-2o6m)
-- [PHP and Go as a Tech Stack.](https://dev.to/ssvikash_20/php-and-go-as-a-tech-stack-31i5)
-- [Fampay Solution#1](https://dev.to/sachin_xp/fampay-solution1-2m7g)
+- [Cost Comparison: Neon vs. Azure Database for PostgreSQL Flexible Server](https://dev.to/bobur/cost-comparison-neon-vs-azure-database-for-postgresql-flexible-server-2lpp)
+- [Setting Up Ubuntu Linux on Windows: A Developer&#39;s Guide](https://dev.to/devopsbysetchuko/setting-up-ubuntu-linux-on-windows-a-developers-guide-22e5)
+- [Frontend Challenge - December Edition, Glam Up My Markup: Winter Solstice](https://dev.to/himanshu_kumardubey_d291/frontend-challenge-december-edition-glam-up-my-markup-winter-solstice-2le6)
+- [Best Practices for Tracking Progress and Ensuring Milestones Are Achieved](https://dev.to/marufhossain/best-practices-for-tracking-progress-and-ensuring-milestones-are-achieved-1mfh)
+- [Advanced Design Patterns in TypeScript](https://dev.to/shafayeat/advanced-design-patterns-in-typescript-275)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
