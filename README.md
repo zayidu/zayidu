@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HarmonyOS Next - OPUS Audio Encoding in Audio and Video in Practice](https://dev.to/qingkouwei/harmonyos-next-opus-audio-encoding-in-audio-and-video-in-practice-2kb6)
-- [State Isolation: Layout vs Workspace](https://dev.to/samuel_udeh/state-isolation-layout-vs-workspace-ji9)
-- [HarmonyOS Next - Mastering Log Knowledge in One Article](https://dev.to/qingkouwei/harmonyos-next-mastering-log-knowledge-in-one-article-573b)
-- [Boost Unit Test Efficiency Using Ai-Powered Extensions For Vs Code](https://dev.to/keploy/boost-unit-test-efficiency-using-ai-powered-extensions-for-vs-code-434h)
-- [How GenQE is Revolutionizing Software Testing](https://dev.to/vaibhavkuls/how-genqe-is-revolutionizing-software-testing-jfh)
+- [Figma To Code using CodeParrot AI](https://dev.to/codeparrot/figma-to-code-using-codeparrot-ai-3i8l)
+- [Adding Authentication to an Express.js Application with JWT: A Beginner-Friendly Guide](https://dev.to/mohinsheikh/adding-authentication-to-an-expressjs-application-with-jwt-a-beginner-friendly-guide-1733)
+- [Connecting an Express.js Application to MongoDB and PostgreSQL: A Step-by-Step Guide for Beginners](https://dev.to/mohinsheikh/connecting-an-expressjs-application-to-mongodb-and-postgresql-a-step-by-step-guide-for-beginners-2ic1)
+- [Learning Git and GitHub: The 10 Most Common Commands Explained 🌟](https://dev.to/moibra/learning-git-and-github-the-10-most-common-commands-explained-3m6n)
+- [Organizing Workflows Using Camunda Web Modeler: Best Practices for Templates, Reusable Components, and RBAC](https://dev.to/devaaai/organizing-workflows-using-camunda-web-modeler-best-practices-for-templates-reusable-components-4akm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
