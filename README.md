@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Join the AWS Community Builders and Transform Your Cloud Career](https://dev.to/lindiwe09/join-the-aws-community-builders-and-transform-your-cloud-career-1b26)
-- [How To Improve Performance Of My ASP.NET Core Web API In 18x Times Using HybridCache In .NET 9](https://dev.to/antonmartyniuk/how-to-improve-performance-of-my-aspnet-core-web-api-in-18x-times-using-hybridcache-in-net-9-o2k)
-- [How I Reduced API Latency by 40% with Server-Side Caching 🚀](https://dev.to/digitalminds/how-i-reduced-api-latency-by-40-with-server-side-caching-34n7)
-- [Specialization Isn&#39;t Enough - Why You Need Specialized Teamwork](https://dev.to/shrsv/specialization-isnt-enough-why-you-need-specialized-teamwork-3cak)
-- [Apache Kafka with Docker](https://dev.to/iamzahid/apache-kafka-with-docker-1din)
+- [My Open Source Journey: A Beginner-Friendly Guide to Collaboration and Growth](https://dev.to/gurjeetsinghvirdee/my-open-source-journey-a-beginner-friendly-guide-to-collaboration-and-growth-58bd)
+- [The streaming bridges — A Kafka, RabbitMQ, MQTT and CoAP example](https://dev.to/jofisaes/the-streaming-bridges-a-kafka-rabbitmq-mqtt-and-coap-example-3dif)
+- [Apply SSL Certificate on AWS ACM &lpar;also Cloudflare&rpar;](https://dev.to/cheedge_lee/apply-ssl-certificate-on-aws-acm-also-cloudflare-34ig)
+- [Chrome OS Guide to go from Zero to DevOps Hero in a nutshell](https://dev.to/jofisaes/chrome-os-guide-to-go-from-zero-to-devops-hero-in-a-nutshell-5dpm)
+- [Node.js is not a JavaScript framework](https://dev.to/msnmongare/nodejs-is-not-a-javascript-framework-3fcc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
