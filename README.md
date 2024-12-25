@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Red Flags of Online Scams: Protect Your Finances in 2024](https://dev.to/aniruddhaadak/10-red-flags-of-online-scams-protect-your-finances-in-2024-24hj)
-- [Scraping Vacation Package Data from Yatra and Kayak with Bright Data and Puppeteer](https://dev.to/viralne94104639/scraping-vacation-package-data-from-yatra-and-kayak-with-bright-data-and-puppeteer-53pb)
-- [Introducing TheShell: A Game-Changer in LivinGrimoire](https://dev.to/owly/introducing-theshell-a-game-changer-in-livingrimoire-3boi)
-- [🎄 Webtricks is here - Merry Christmas to the no-code community 🎄](https://dev.to/joorch/webtricks-is-here-merry-christmas-to-the-no-code-community-59cm)
-- [How to Handle Excessive Warning Messages When Running `pecl install grpc`](https://dev.to/wadakatu/how-to-handle-excessive-warning-messages-when-running-pecl-install-grpc-44jb)
+- [Reactive Programming applied to Legacy Services — A WebFlux example](https://dev.to/jofisaes/reactive-programming-applied-to-legacy-services-a-webflux-example-5eke)
+- [I have more comments than likes, lol](https://dev.to/best_codes/i-have-more-comments-than-likes-lol-2n3)
+- [CQRS — Command Query Responsibility Segregation — A Java, Spring, SpringBoot, and Axon Example](https://dev.to/jofisaes/cqrs-command-query-responsibility-segregation-a-java-spring-springboot-and-axon-example-4i26)
+- [Hexagonal Architecture — A Favorite Lyrics Spring Boot — Java Example](https://dev.to/jofisaes/hexagonal-architecture-a-favorite-lyrics-spring-boot-java-example-1379)
+- [Oracle cloud EC2- Website not opening issue](https://dev.to/partha7278/oracle-cloud-ec2-website-not-opening-issue-13gf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
