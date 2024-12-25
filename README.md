@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ServBay 1.7.0 Released: Now with NGINX Support!](https://dev.to/servbay/servbay-170-released-now-with-nginx-support-38gl)
-- [Bright data Challenge - Industry AI Watchdog](https://dev.to/tqbit/bright-data-challenge-industry-ai-watchdog-la5)
-- [Fast Track to Mock Data: A Developer&#39;s 2-Minute Guide](https://dev.to/theodoresummer/fast-track-to-mock-data-a-developers-2-minute-guide-52a7)
-- [Amazon Q Developer Tips: 25 tips to supercharge your development](https://dev.to/aws/amazon-q-developer-tips-25-tips-to-supercharge-your-development-2ffg)
-- [[Solved] import {cache} from &quot;react&quot;; Module not exported error](https://dev.to/habeebullahi01/solved-import-cache-from-react-module-not-exported-error-36oj)
+- [A Comprehensive Guide to JSDoc 📚](https://dev.to/alisamir/a-comprehensive-guide-to-jsdoc-3meb)
+- [Bit Manipulation In Problem Solving](https://dev.to/nadeemrashid__/bit-manipulation-in-problem-solving-4k2g)
+- [🚀 Mastering Concurrency in Go: A Deep Dive into sync.WaitGroup and sync.Cond](https://dev.to/architagr/mastering-concurrency-in-go-a-deep-dive-into-syncwaitgroup-and-synccond-4ode)
+- [Zero, One, Infinity Principle in Software Development](https://dev.to/kasir-barati/zero-one-infinity-principle-in-software-development-39p0)
+- [CSS Art: December - Snowflake Animation](https://dev.to/supremeakashdeveloper/css-art-december-snowflake-animation-22hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
