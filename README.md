@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cost Comparison: Neon vs. Azure Database for PostgreSQL Flexible Server](https://dev.to/bobur/cost-comparison-neon-vs-azure-database-for-postgresql-flexible-server-2lpp)
-- [Setting Up Ubuntu Linux on Windows: A Developer&#39;s Guide](https://dev.to/devopsbysetchuko/setting-up-ubuntu-linux-on-windows-a-developers-guide-22e5)
-- [Frontend Challenge - December Edition, Glam Up My Markup: Winter Solstice](https://dev.to/himanshu_kumardubey_d291/frontend-challenge-december-edition-glam-up-my-markup-winter-solstice-2le6)
-- [Best Practices for Tracking Progress and Ensuring Milestones Are Achieved](https://dev.to/marufhossain/best-practices-for-tracking-progress-and-ensuring-milestones-are-achieved-1mfh)
-- [Advanced Design Patterns in TypeScript](https://dev.to/shafayeat/advanced-design-patterns-in-typescript-275)
+- [Find Largest Value in Each Tree Row](https://dev.to/ashchk/leetcode-daily-challenge-find-largest-value-in-each-tree-row-15l1)
+- [Fewer Files, More Lines vs. More Files, Fewer Lines of Code](https://dev.to/anmolsaini16/fewer-files-more-lines-vs-more-files-fewer-lines-of-code-gi7)
+- [My 1 year old GPT: Web Component Creator - is free source now](https://dev.to/dannyengelman/my-1-year-old-gpt-web-component-creator-is-free-source-now-45pf)
+- [Trees in SQL &lpar;part 2&rpar;](https://dev.to/andreik/trees-in-sql-part-2-15pa)
+- [Growing Pains: How Dynamic Arrays Handle New Elements ?](https://dev.to/abhiruuu/growing-pains-how-dynamic-arrays-handle-new-elements--36m7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
