@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma To Code using CodeParrot AI](https://dev.to/codeparrot/figma-to-code-using-codeparrot-ai-3i8l)
-- [Adding Authentication to an Express.js Application with JWT: A Beginner-Friendly Guide](https://dev.to/mohinsheikh/adding-authentication-to-an-expressjs-application-with-jwt-a-beginner-friendly-guide-1733)
-- [Connecting an Express.js Application to MongoDB and PostgreSQL: A Step-by-Step Guide for Beginners](https://dev.to/mohinsheikh/connecting-an-expressjs-application-to-mongodb-and-postgresql-a-step-by-step-guide-for-beginners-2ic1)
-- [Learning Git and GitHub: The 10 Most Common Commands Explained 🌟](https://dev.to/moibra/learning-git-and-github-the-10-most-common-commands-explained-3m6n)
-- [Organizing Workflows Using Camunda Web Modeler: Best Practices for Templates, Reusable Components, and RBAC](https://dev.to/devaaai/organizing-workflows-using-camunda-web-modeler-best-practices-for-templates-reusable-components-4akm)
+- [ew-responsive-store Making Session Storage Data Reactive](https://dev.to/eveningwater/ew-responsive-store-making-session-storage-data-reactive-1h3f)
+- [3 Things You Need To Take Control Of Your Database](https://dev.to/metis/3-things-you-need-to-take-control-of-your-database-10nh)
+- [Readundant states](https://dev.to/mkwiecien/readundant-states-3kea)
+- [Flutter vs React Native: Which Framework is Better for Mobile Apps?](https://dev.to/web_dev-usman/flutter-vs-react-native-which-framework-is-better-for-mobile-apps-4pk9)
+- [How to Port BOA to the FET-MX9352-C Platform on Linux 6.1.36?](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-port-boa-to-the-fet-mx9352-c-platform-on-linux-6136-o2n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
