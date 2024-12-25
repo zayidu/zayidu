@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Convex &amp; Kinde](https://dev.to/sholajegede/convex-kinde-2pe1)
-- [Forget Everything You Thought You Knew About AI Video: Veo 2 is Here 🚀](https://dev.to/sathyaanand/forget-everything-you-thought-you-knew-about-ai-video-veo-2-is-here-1989)
-- [Land Surface Temperature Trends: Ahmedabad vs. Delhi &lpar;2013–2023&rpar;](https://dev.to/dishapatel363/land-surface-temperature-trends-ahmedabad-vs-delhi-2013-2023-40o7)
-- [💡 Software Testing: The Foundation of Seamless Digital Experiences 💡](https://dev.to/arun_pal_3ce740a137cf15ad/software-testing-the-foundation-of-seamless-digital-experiences-4n0b)
-- [Data ingestion using AWS Services, Part 2](https://dev.to/devoteng1/data-ingestion-using-aws-services-part-2-2pg7)
+- [Kubernetes Basic Commands for your Playground](https://dev.to/shannu_2057/kubernetes-basic-commands-for-your-playground-5bon)
+- [Advanced Perspectives on Multiprocessing and Task Queueing in Distributed Architectures](https://dev.to/awwdudee/advanced-perspectives-on-multiprocessing-and-task-queueing-in-distributed-architectures-58me)
+- [Advanced Perspectives on Multiprocessing and Task Queueing in Distributed Architectures](https://dev.to/awwdudee/advanced-perspectives-on-multiprocessing-and-task-queueing-in-distributed-architectures-3e1m)
+- [Angular](https://dev.to/negi-space/angular-31c3)
+- [Database Tools 🛢️🔧 in 2024: A Year in Review 🗓️](https://dev.to/bytebase/database-tools-in-2024-a-year-in-review-11j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
