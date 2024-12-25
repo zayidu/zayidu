@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Website Design vs. Template Design: The Best Choice](https://dev.to/seo_esignature_8b18cc8801/custom-website-design-vs-template-design-the-best-choice-1pgi)
-- [SILENCE is Costing You More Than You Think!](https://dev.to/karell_stemarie_ce42bf9c/silence-is-costing-you-more-than-you-think-egg)
-- [New Post here!🍻](https://dev.to/digitaldrreamer/new-post-here-268j)
-- [A short guide to Async Components in Svelte 5](https://dev.to/digitaldrreamer/a-short-guide-to-async-components-in-svelte-5-57l4)
-- [Use generators for magic in React](https://dev.to/ashishk1331/use-generators-for-magic-in-react-2jlp)
+- [What are the best practices for integrating Playwright with Jenkins](https://dev.to/hexa-home/what-are-the-best-practices-for-integrating-playwright-with-jenkins-1377)
+- [How can companies create a culture that encourages developers to ask for help?](https://dev.to/hexa-home/how-can-companies-create-a-culture-that-encourages-developers-to-ask-for-help-2h34)
+- [[Boost]](https://dev.to/maradwan/-54pg)
+- [What we do with the box-shadows](https://dev.to/anamartins/what-we-do-with-the-box-shadows-3d39)
+- [Understanding Generative AI: A Beginner&#39;s Guide](https://dev.to/bitontree/understanding-generative-ai-a-beginners-guide-59gd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
