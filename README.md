@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Find Largest Value in Each Tree Row](https://dev.to/ashchk/leetcode-daily-challenge-find-largest-value-in-each-tree-row-15l1)
-- [Fewer Files, More Lines vs. More Files, Fewer Lines of Code](https://dev.to/anmolsaini16/fewer-files-more-lines-vs-more-files-fewer-lines-of-code-gi7)
-- [My 1 year old GPT: Web Component Creator - is free source now](https://dev.to/dannyengelman/my-1-year-old-gpt-web-component-creator-is-free-source-now-45pf)
-- [Trees in SQL &lpar;part 2&rpar;](https://dev.to/andreik/trees-in-sql-part-2-15pa)
-- [Growing Pains: How Dynamic Arrays Handle New Elements ?](https://dev.to/abhiruuu/growing-pains-how-dynamic-arrays-handle-new-elements--36m7)
+- [10 Red Flags of Online Scams: Protect Your Finances in 2024](https://dev.to/aniruddhaadak/10-red-flags-of-online-scams-protect-your-finances-in-2024-24hj)
+- [Scraping Vacation Package Data from Yatra and Kayak with Bright Data and Puppeteer](https://dev.to/viralne94104639/scraping-vacation-package-data-from-yatra-and-kayak-with-bright-data-and-puppeteer-53pb)
+- [Introducing TheShell: A Game-Changer in LivinGrimoire](https://dev.to/owly/introducing-theshell-a-game-changer-in-livingrimoire-3boi)
+- [🎄 Webtricks is here - Merry Christmas to the no-code community 🎄](https://dev.to/joorch/webtricks-is-here-merry-christmas-to-the-no-code-community-59cm)
+- [How to Handle Excessive Warning Messages When Running `pecl install grpc`](https://dev.to/wadakatu/how-to-handle-excessive-warning-messages-when-running-pecl-install-grpc-44jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
