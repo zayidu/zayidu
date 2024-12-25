@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reactive Programming applied to Legacy Services — A WebFlux example](https://dev.to/jofisaes/reactive-programming-applied-to-legacy-services-a-webflux-example-5eke)
-- [I have more comments than likes, lol](https://dev.to/best_codes/i-have-more-comments-than-likes-lol-2n3)
-- [CQRS — Command Query Responsibility Segregation — A Java, Spring, SpringBoot, and Axon Example](https://dev.to/jofisaes/cqrs-command-query-responsibility-segregation-a-java-spring-springboot-and-axon-example-4i26)
-- [Hexagonal Architecture — A Favorite Lyrics Spring Boot — Java Example](https://dev.to/jofisaes/hexagonal-architecture-a-favorite-lyrics-spring-boot-java-example-1379)
-- [Oracle cloud EC2- Website not opening issue](https://dev.to/partha7278/oracle-cloud-ec2-website-not-opening-issue-13gf)
+- [My Journey into Novel Creation Using Generative AI: Day 1](https://dev.to/saugata/my-journey-into-novel-creation-using-generative-ai-day-1-2g8i)
+- [Wishing you and your loved ones a peaceful, joyous, and very merry Christmas! 🎄🎅🏻](https://dev.to/devmercy/wishing-you-and-your-loved-ones-a-peaceful-joyous-and-very-merry-christmas-lbp)
+- [🎗️Breast Cancer Prediction with Decision Trees](https://dev.to/pragyan_tiwari_ad31c0323f/breast-cancer-prediction-with-decision-trees-58cj)
+- [I am productive, are you?](https://dev.to/rinidhdhokia/i-am-productive-are-you-325a)
+- [Pioneering Innovation: Merging 5G Technology with Docker and Kubernetes for Unparalleled Connectivity](https://dev.to/mariliatirachi62/pioneering-innovation-merging-5g-technology-with-docker-and-kubernetes-for-unparalleled-2214)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
