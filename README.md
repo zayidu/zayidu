@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wednesday Links - Edition 2024-12-25](https://dev.to/0xkkocel/wednesday-links-edition-2024-12-24-40kb)
-- [Building a Service Mesh Control Plane in Go: A Deep Dive](https://dev.to/indalyadav56/building-a-service-mesh-control-plane-in-go-a-deep-dive-2ma6)
-- [Advanced Go Programming: Building Scalable Systems](https://dev.to/indalyadav56/advanced-go-programming-building-scalable-systems-1ml7)
-- [Is Flask Dead? Is FastAPI the Future?](https://dev.to/leapcell/is-flask-dead-is-fastapi-the-future-5glc)
-- [A Deep Dive into the Latest Features and Improvements](https://dev.to/indalyadav56/a-deep-dive-into-the-latest-features-and-improvements-1eho)
+- [От слоистой архитектуры к DDD. Мой опыт миграции и распила монолита](https://dev.to/dmkjfs/ot-sloistoi-arkhitiektury-k-ddd-moi-opyt-mighratsii-i-raspila-monolita-44j3)
+- [Interview Questions on AWS Networking: VPC, Subnets, and Security Groups](https://dev.to/imsushant12/interview-questions-on-aws-networking-vpc-subnets-and-security-groups-40g7)
+- [Setting Up Drizzle &amp; Postgres with tRPC and Next.js App](https://dev.to/itsrakesh/setting-up-drizzle-postgres-with-trpc-and-nextjs-app-2o6m)
+- [PHP and Go as a Tech Stack.](https://dev.to/ssvikash_20/php-and-go-as-a-tech-stack-31i5)
+- [Fampay Solution#1](https://dev.to/sachin_xp/fampay-solution1-2m7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
