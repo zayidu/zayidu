@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best open source Image to Video CogVideoX1.5-5B-I2V is pretty decent and optimized for low VRAM](https://dev.to/furkangozukara/best-open-source-image-to-video-cogvideox15-5b-i2v-is-pretty-decent-and-optimized-for-low-vram-42g4)
-- [Observability &lpar;o11y&rpar; purpose](https://dev.to/filip_kudla/observability-o11y-purpose-5g4e)
-- [Generator Concurrency Pattern in Go: A Comprehensive Guide](https://dev.to/souvikinator/generator-concurrency-pattern-in-go-a-comprehensive-guide-6om)
-- [CREATING EC2 INSTANCE ON AWS AND INSTALLING IIS SERVER.](https://dev.to/olaniyi_akinkunmi_9c3038f/creating-ec2-instance-on-aws-and-installing-iis-server-23bn)
-- [why java does not support multiple inheritance?](https://dev.to/hema_latha/why-java-does-not-support-multiple-inheritance-9lo)
+- [Data ingestion using AWS Services, Part 2](https://dev.to/devoteng1/data-ingestion-using-aws-services-part-2-2pg7)
+- [Data ingestion using AWS Services, Part 1](https://dev.to/devoteng1/data-ingestion-using-aws-services-part-1-ige)
+- [Efficiently Solving Two Sum II - Input Array Is Sorted](https://dev.to/abhivyaktii/efficiently-solving-two-sum-ii-input-array-is-sorted-323k)
+- [3 AM on Christmas: A Cloud Engineer&#39;s Holiday Survival Guide🎄](https://dev.to/aws-builders/3-am-on-christmas-a-cloud-engineers-holiday-survival-guide-3od7)
+- [Unlocking AI-Powered Conversations: Building a Retrieval-Augmented Generation &lpar;RAG&rpar; Chatbot](https://dev.to/awwdudee/unlocking-ai-powered-conversations-building-a-retrieval-augmented-generation-rag-chatbot-3hpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
