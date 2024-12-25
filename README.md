@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Thread - v308](https://dev.to/devteam/welcome-thread-v308-12hc)
-- [Creating a Dog Care Calculator Using JavaScript](https://dev.to/learninggs/creating-a-dog-care-calculator-using-javascript-2oij)
-- [TS1019: An index signature parameter cannot have a question mark.](https://dev.to/lior_amsalem_3879371237f6/ts1019-an-index-signature-parameter-cannot-have-a-question-mark-4ca7)
-- [Becoming an AWS Community Builder](https://dev.to/aws-builders/becoming-an-aws-community-builder-3je3)
-- [Exploring Quantum Computing for Future-Proof Data Encryption and Complex Problem-Solving: Expert Guidance from Abhijit Joshi](https://dev.to/mariliatirachi62/exploring-quantum-computing-for-future-proof-data-encryption-and-complex-problem-solving-expert-6a7)
+- [The Impact of Quantum Computing on Cybersecurity](https://dev.to/techyboo009/the-impact-of-quantum-computing-on-cybersecurity-3ecn)
+- [Liman MYS - Domain Eklentisi | Ağaç Yapısı Üzerinden Belirli Organizasyona Yetki Verme](https://dev.to/aciklab/liman-mys-domain-eklentisi-agac-yapisi-uzerinden-belirli-organizasyona-yetki-verme-4d9p)
+- [Info.plist and it&#39;s importance.](https://dev.to/surhidamatya/infoplist-and-its-importance-425h)
+- [Privacy in the Digital Age: How to Stay Secure Online](https://dev.to/techyboo009/privacy-in-the-digital-age-how-to-stay-secure-online-2iph)
+- [Day 2 : Host Static App on GitHub Pages](https://dev.to/ehtesham_ali_abc367f36a5b/day-2-host-static-app-on-github-pages-2f0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
