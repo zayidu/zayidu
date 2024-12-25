@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ew-responsive-store Making Session Storage Data Reactive](https://dev.to/eveningwater/ew-responsive-store-making-session-storage-data-reactive-1h3f)
-- [3 Things You Need To Take Control Of Your Database](https://dev.to/metis/3-things-you-need-to-take-control-of-your-database-10nh)
-- [Readundant states](https://dev.to/mkwiecien/readundant-states-3kea)
-- [Flutter vs React Native: Which Framework is Better for Mobile Apps?](https://dev.to/web_dev-usman/flutter-vs-react-native-which-framework-is-better-for-mobile-apps-4pk9)
-- [How to Port BOA to the FET-MX9352-C Platform on Linux 6.1.36?](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-port-boa-to-the-fet-mx9352-c-platform-on-linux-6136-o2n)
+- [ServBay 1.7.0 Released: Now with NGINX Support!](https://dev.to/servbay/servbay-170-released-now-with-nginx-support-38gl)
+- [Bright data Challenge - Industry AI Watchdog](https://dev.to/tqbit/bright-data-challenge-industry-ai-watchdog-la5)
+- [Fast Track to Mock Data: A Developer&#39;s 2-Minute Guide](https://dev.to/theodoresummer/fast-track-to-mock-data-a-developers-2-minute-guide-52a7)
+- [Amazon Q Developer Tips: 25 tips to supercharge your development](https://dev.to/aws/amazon-q-developer-tips-25-tips-to-supercharge-your-development-2ffg)
+- [[Solved] import {cache} from &quot;react&quot;; Module not exported error](https://dev.to/habeebullahi01/solved-import-cache-from-react-module-not-exported-error-36oj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
