@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Docker - A DevOps Engineer&#39;s Guide to Container Alternatives](https://dev.to/cicube/beyond-docker-a-devops-engineers-guide-to-container-alternatives-4bk1)
-- [10 Modern Browser Extensions Every Developer Should Use in 2025.](https://dev.to/balrajola/10-modern-browser-extensions-every-developer-should-use-in-2025-1aoi)
-- [Licensing](https://dev.to/dyfet/licensing-2caf)
-- [How to Create Event-Driven Resources in Kubernetes](https://dev.to/gianlucam76/how-to-create-event-driven-resources-in-kubernetes-5dl)
-- [RustHours - Getting Started with Rust](https://dev.to/gauravgahlot/rusthours-getting-started-with-rust-5bkm)
+- [Terminal Animations with Node.js](https://dev.to/vladimirvovk/terminal-animations-with-nodejs-2lld)
+- [React Context and Hooks: The Modern Approach to State Management 🚀](https://dev.to/onkar895/react-context-and-hooks-the-modern-approach-to-state-management-2a1p)
+- [“The role of routers in the MVC pattern”](https://dev.to/lvalen/the-role-of-routers-in-the-mvc-pattern-6l3)
+- [“The role of routers in the MVC pattern”](https://dev.to/lvalen/the-role-of-routers-in-the-mvc-pattern-4dca)
+- [5 Funciones de CSS que deberías conocer](https://dev.to/beresiartejuan/5-funciones-de-css-que-deberias-conocer-3ab6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
