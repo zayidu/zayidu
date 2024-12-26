@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Can&#39;t Stop Trading &lpar;And Why That&#39;s A Good Thing!&rpar;](https://dev.to/shrsv/why-we-cant-stop-trading-and-why-thats-a-good-thing-2ae3)
-- [Tell Don&#39;t Ask principle explained](https://dev.to/thibaultchatelain/tell-dont-ask-principle-explained-1gbf)
-- [Como Instalar o n8n com Suporte a Pastas para Workflows - Guia Completo de Instalação Local](https://dev.to/ronieremarques/como-instalar-o-n8n-com-suporte-a-pastas-para-workflows-guia-completo-de-instalacao-local-2o1m)
-- [494. Target Sum](https://dev.to/mdarifulhaque/494-target-sum-1p2i)
-- [Python While Loop Examples](https://dev.to/poornima_ravi/python-while-loop-examples-5aad)
+- [Upgrading Grails from Version 3.1.9 to 5.3.6](https://dev.to/mingfuqin/upgrading-grails-from-version-319-to-536-33lj)
+- [Implementing a basic loading state](https://dev.to/ompals/implementing-a-basic-loading-state-3nnj)
+- [Multi-level Tic Tac Toe Game](https://dev.to/tobidelly/multi-level-tic-tac-toe-game-3oi)
+- [Dice Race: Player vs Computer](https://dev.to/tobidelly/dice-race-player-vs-computer-29k0)
+- [MSBuild and Project Files](https://dev.to/randazraik/msbuild-and-project-files-3d4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
