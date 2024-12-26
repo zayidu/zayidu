@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a GitHub Activity CLI - A Ruby Journey](https://dev.to/sulmanweb/building-a-github-activity-cli-a-ruby-journey-1eo7)
-- [Sharding vs Partitioning in Databases](https://dev.to/vipulkumarsviit/sharding-vs-partitioning-in-databases-38p1)
-- [The Art of Game Testing](https://dev.to/its_amandha/the-art-of-game-testing-2ii5)
-- [How to Fetch Relevant and Reliable News Using Bing News Search API](https://dev.to/sachinkumar123/how-to-fetch-relevant-and-reliable-news-using-bing-news-search-api-1fjd)
-- [A Deep-Dive Comparison for No-Code App Development &lpar;2025&rpar;](https://dev.to/momen_hq/a-deep-dive-comparison-for-no-code-app-development-2025-4p7f)
+- [Adjust the intensity/brightness of colors in SwiftUI views](https://dev.to/divyeshvekariya/adjust-the-intensity-of-colors-in-swiftui-views-2oia)
+- [Build Real-Time Presence Features Like Figma and Google Docs in Your App in Minutes🚀🔥🧑‍💻](https://dev.to/astrodevil/build-real-time-presence-features-like-figma-and-google-docs-in-your-app-in-minutes-1lae)
+- [This blog covers commonly used types of operators and their purposes](https://dev.to/thedevricha/this-blog-covers-commonly-used-types-of-operators-and-their-purposes-352a)
+- [A Developer&#39;s Guide to Building Fast and Scalable Apps With Vite](https://dev.to/timvandort7291/a-developers-guide-to-building-fast-and-scalable-apps-with-vite-20ja)
+- [Cole Dockery Highlights 5 Tips for Creating a Harmonious Work-Life Balance as an Entrepreneur Reviews](https://dev.to/coledockeryreviews/cole-dockery-highlights-5-tips-for-creating-a-harmonious-work-life-balance-as-an-entrepreneur-7pg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
