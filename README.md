@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to Amazon CloudWatch: Monitoring Your Cloud Like a Pro](https://dev.to/aws-builders/a-beginners-guide-to-amazon-cloudwatch-monitoring-your-cloud-like-a-pro-3aje)
-- [GitHub and SeaGOAT: A Quick Guide to Code Search Solutions](https://dev.to/rebuss/github-and-seagoat-a-quick-guide-to-code-search-solutions-2820)
-- [Why Your Code is Jealous &lpar;and How to Fix It&rpar;](https://dev.to/karell_stemarie_ce42bf9c/why-your-code-is-jealous-and-how-to-fix-it-2281)
-- [Simplify Your Rails Upgrade: Check Gems Compatibility For Free](https://dev.to/railsup_sedin/simplify-your-rails-upgrade-check-gems-compatibility-for-free-4l8a)
-- [Mastering Git: Undoing Changes with Reset, Revert, Stash, and More](https://dev.to/abhay_yt_52a8e72b213be229/mastering-git-undoing-changes-with-reset-revert-stash-and-more-2gm7)
+- [Git Performance: Optimizing Your Workflow with Shallow Cloning, Sparse Checkout, and More](https://dev.to/abhay_yt_52a8e72b213be229/git-performance-optimizing-your-workflow-with-shallow-cloning-sparse-checkout-and-more-48ek)
+- [Understanding Inheritance in Java Through a Practical Example](https://dev.to/rama13850/understanding-inheritance-in-java-through-a-practical-example-55l2)
+- [Advent of Code 2024 Retro: What could you do if you didn&#39;t care whether you failed?](https://dev.to/linkbenjamin/advent-of-code-2024-retro-what-could-you-do-if-you-didnt-care-whether-you-failed-2ggf)
+- [Microsoft SQL Server Admin: Master SQL Server for Enterprise Database Management](https://dev.to/vtuit_09e112a8766b9d87bf6/microsoft-sql-server-admin-master-sql-server-for-enterprise-database-management-80b)
+- [Encapsulation and Abstraction in Object-Oriented Programming &lpar;OOP&rpar;](https://dev.to/singhaayush/encapsulation-and-abstraction-in-object-oriented-programming-oop-4mo3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
