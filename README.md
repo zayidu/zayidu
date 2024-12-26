@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Terminal Animations with Node.js](https://dev.to/vladimirvovk/terminal-animations-with-nodejs-2lld)
-- [React Context and Hooks: The Modern Approach to State Management 🚀](https://dev.to/onkar895/react-context-and-hooks-the-modern-approach-to-state-management-2a1p)
-- [“The role of routers in the MVC pattern”](https://dev.to/lvalen/the-role-of-routers-in-the-mvc-pattern-6l3)
-- [“The role of routers in the MVC pattern”](https://dev.to/lvalen/the-role-of-routers-in-the-mvc-pattern-4dca)
-- [5 Funciones de CSS que deberías conocer](https://dev.to/beresiartejuan/5-funciones-de-css-que-deberias-conocer-3ab6)
+- [5 Instagantt Alternatives That Can Do Better](https://dev.to/thomasy0ung/5-instagantt-alternatives-that-can-do-better-2g3b)
+- [This post by Engin Arslan &lpar;Heuristica&rpar; is a must-read for anyone thinking about launching a SaaS side project! It offers a clear breakdown of costs and real-world insights into what it takes to build and run a profitable side hustle. Check it out!](https://dev.to/austinwdigital/this-post-by-engin-arslan-heuristica-is-a-must-read-for-anyone-thinking-about-launching-a-saas-18el)
+- [Twitter Auth 2.O](https://dev.to/trixtec/twitter-auth-2o-d1j)
+- [Creating a Basic Custom Promise in JavaScript: Step-by-Step Guide🌟](https://dev.to/abhivyaktii/creating-a-basic-custom-promise-in-javascript-step-by-step-guide-4e4m)
+- [The Complete Guide to Parameter-Efficient Fine-Tuning: Revolutionizing AI Model Adaptation](https://dev.to/akilsurya/the-complete-guide-to-parameter-efficient-fine-tuning-revolutionizing-ai-model-adaptation-3p3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
