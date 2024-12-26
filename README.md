@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [25 top open-source tools for building web apps you can&#39;t afford to miss in 2025🎉 🚀](https://dev.to/composiodev/25-top-open-source-tools-for-building-web-apps-you-cant-afford-to-miss-in-2025-5005)
-- [🧩 LeetCode Challenge: Merge Sorted Array | Top Interview Questions [Java Solution]](https://dev.to/rahulgithubweb/leetcode-challenge-merge-sorted-array-top-interview-questions-java-solution-dpa)
-- [Integrate React into Django Seamlessly with the reactify-django CLI](https://dev.to/kodalegit/integrate-react-into-django-seamlessly-with-the-reactify-django-cli-1ecf)
-- [🚀 Your Daily Crypto Job Digest For 26 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-26-december-3llp)
-- [Top 10 Design Patterns for Programming Interviews](https://dev.to/mauroalejandrojm/top-10-design-patterns-for-programming-interviews-5ce3)
+- [Create Class and Object](https://dev.to/sathish_balaji_2003/create-class-and-object-4599)
+- [AWS Certification Path: A Complete Roadmap for 2025](https://dev.to/skillboosttrainer/aws-certification-path-a-complete-roadmap-for-2025-4d1k)
+- [RabbitMQ vs. Kafka vs. ActiveMQ: Which One to Choose?](https://dev.to/prithiviraj_rengarajan/rabbitmq-vs-kafka-vs-activemq-which-one-to-choose-5bl1)
+- [Innovative Companies Using Rails: How They Leverage Ruby on Rails for Success in 2024](https://dev.to/jetthoughts/innovative-companies-using-rails-how-they-leverage-ruby-on-rails-for-success-in-2024-4ej9)
+- [Feasibility Studies: An Essential Roadmap for Successful Projects](https://dev.to/nada_diab_acdc0177757e36c/feasibility-studies-an-essential-roadmap-for-successful-projects-44hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
