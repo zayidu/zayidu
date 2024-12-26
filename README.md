@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [鸿蒙Next状态管理V2 - @Param装饰器总结](https://dev.to/freerain9/hong-meng-nextzhuang-tai-guan-li-v2-paramzhuang-shi-qi-zong-jie-201a)
-- [Advent of Code 2024 - Day 23: LAN Party](https://dev.to/grantdotdev/advent-of-code-2024-day-23-lan-party-99l)
-- [Primeros pasos en el mundo del Machine Learning con Amazon SageMaker](https://dev.to/briansuarezsantiago/primeros-pasos-en-el-mundo-del-machine-learning-con-amazon-sagemaker-1im)
-- [SQL 101 | Chapter 1: Understanding SQL and Databases](https://dev.to/yujin/sql-101-chapter-1-understanding-sql-and-databases-2h8j)
-- [Coding challenge: Design and Implement an Advanced Text Search System](https://dev.to/radu_marias_eed98d2e201f6/coding-challenge-design-and-implement-an-advanced-text-search-system-326l)
+- [How Can You Optimize MySQL Performance for High-Load Applications?](https://dev.to/adityabhuyan/how-can-you-optimize-mysql-performance-for-high-load-applications-gde)
+- [How Can Quantum Computing Solve Problems Beyond Classical Computing?](https://dev.to/adityabhuyan/how-can-quantum-computing-solve-problems-beyond-classical-computing-42fl)
+- [5 Tools I Use Every Day as a Software Developer](https://dev.to/sncalvo/5-tools-i-use-every-day-as-a-software-developer-2k60)
+- [Designing a Delightful Under Maintenance Page HTML and CSS](https://dev.to/prabhat_kumar/designing-a-delightful-under-maintenance-page-html-and-css-15db)
+- [Generative AI in Testing: Transforming the Landscape](https://dev.to/radha_4c842d8e4362a7cdd9c/generative-ai-in-testing-transforming-the-landscape-c69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
