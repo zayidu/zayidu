@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Performance: Optimizing Your Workflow with Shallow Cloning, Sparse Checkout, and More](https://dev.to/abhay_yt_52a8e72b213be229/git-performance-optimizing-your-workflow-with-shallow-cloning-sparse-checkout-and-more-48ek)
-- [Understanding Inheritance in Java Through a Practical Example](https://dev.to/rama13850/understanding-inheritance-in-java-through-a-practical-example-55l2)
-- [Advent of Code 2024 Retro: What could you do if you didn&#39;t care whether you failed?](https://dev.to/linkbenjamin/advent-of-code-2024-retro-what-could-you-do-if-you-didnt-care-whether-you-failed-2ggf)
-- [Microsoft SQL Server Admin: Master SQL Server for Enterprise Database Management](https://dev.to/vtuit_09e112a8766b9d87bf6/microsoft-sql-server-admin-master-sql-server-for-enterprise-database-management-80b)
-- [Encapsulation and Abstraction in Object-Oriented Programming &lpar;OOP&rpar;](https://dev.to/singhaayush/encapsulation-and-abstraction-in-object-oriented-programming-oop-4mo3)
+- [25 top open-source tools for building web apps you can&#39;t afford to miss in 2025🎉 🚀](https://dev.to/composiodev/25-top-open-source-tools-for-building-web-apps-you-cant-afford-to-miss-in-2025-5005)
+- [🧩 LeetCode Challenge: Merge Sorted Array | Top Interview Questions [Java Solution]](https://dev.to/rahulgithubweb/leetcode-challenge-merge-sorted-array-top-interview-questions-java-solution-dpa)
+- [Integrate React into Django Seamlessly with the reactify-django CLI](https://dev.to/kodalegit/integrate-react-into-django-seamlessly-with-the-reactify-django-cli-1ecf)
+- [🚀 Your Daily Crypto Job Digest For 26 December!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-26-december-3llp)
+- [Top 10 Design Patterns for Programming Interviews](https://dev.to/mauroalejandrojm/top-10-design-patterns-for-programming-interviews-5ce3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
