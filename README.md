@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Developing Non-English APIs](https://dev.to/apidog/best-practices-for-developing-non-english-apis-3bee)
-- [🚀 Boost Your Social Media Presence with Chain! 🌟](https://dev.to/hanzla-baig/boost-your-social-media-presence-with-chain-1gie)
-- [Configuring Hyper-V Global Default Directories](https://dev.to/jajera/configuring-hyper-v-global-default-directories-2opj)
-- [Deploy Laravel to Vercel](https://dev.to/jhonoryza/deploy-laravel-to-vercel-8bn)
-- [Redis Queue and Cron in Go](https://dev.to/jhonoryza/redis-queue-and-cron-in-go-1fl8)
+- [AI Tools and Tips for Marketing in 2025](https://dev.to/danyaleyman/ai-tools-and-tips-for-marketing-in-2025-2d5a)
+- [Happy New Year](https://dev.to/aditya_kumararya_973bb83/happy-new-year-539j)
+- [Why Linux and Not Windows?](https://dev.to/trixsec/why-linux-and-not-windows-4en5)
+- [🌟 Speech Assistant: AI-Powered Audio-to-Text &amp; MoM Generator](https://dev.to/buildandcodewithraman/speech-assistant-ai-powered-audio-to-text-mom-generator-5dh9)
+- [From SageMaker to Bedrock: The Ultimate Guide to Cost-Effective AI/ML Workloads on AWS](https://dev.to/vaish_98/from-sagemaker-to-bedrock-the-ultimate-guide-to-cost-effective-aiml-workloads-on-aws-45dm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
