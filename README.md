@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Class and Object](https://dev.to/sathish_balaji_2003/create-class-and-object-4599)
-- [AWS Certification Path: A Complete Roadmap for 2025](https://dev.to/skillboosttrainer/aws-certification-path-a-complete-roadmap-for-2025-4d1k)
-- [RabbitMQ vs. Kafka vs. ActiveMQ: Which One to Choose?](https://dev.to/prithiviraj_rengarajan/rabbitmq-vs-kafka-vs-activemq-which-one-to-choose-5bl1)
-- [Innovative Companies Using Rails: How They Leverage Ruby on Rails for Success in 2024](https://dev.to/jetthoughts/innovative-companies-using-rails-how-they-leverage-ruby-on-rails-for-success-in-2024-4ej9)
-- [Feasibility Studies: An Essential Roadmap for Successful Projects](https://dev.to/nada_diab_acdc0177757e36c/feasibility-studies-an-essential-roadmap-for-successful-projects-44hp)
+- [Beyond Docker - A DevOps Engineer&#39;s Guide to Container Alternatives](https://dev.to/cicube/beyond-docker-a-devops-engineers-guide-to-container-alternatives-4bk1)
+- [10 Modern Browser Extensions Every Developer Should Use in 2025.](https://dev.to/balrajola/10-modern-browser-extensions-every-developer-should-use-in-2025-1aoi)
+- [Licensing](https://dev.to/dyfet/licensing-2caf)
+- [How to Create Event-Driven Resources in Kubernetes](https://dev.to/gianlucam76/how-to-create-event-driven-resources-in-kubernetes-5dl)
+- [RustHours - Getting Started with Rust](https://dev.to/gauravgahlot/rusthours-getting-started-with-rust-5bkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
