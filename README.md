@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Preventing Clickjacking in Laravel Applications](https://dev.to/pentest_testing_corp/preventing-clickjacking-in-laravel-applications-2hfe)
-- [Understand curl more in Just 10 Minutes！🔥🔥](https://dev.to/fallon_jimmy/understand-curl-more-in-just-10-minutes-32om)
-- [Js in bits - 4&lpar;variables&rpar;](https://dev.to/avinashd10/js-in-bits-4variables-1d14)
-- [5 least known STL utilities in C++](https://dev.to/pikotutorial/5-least-known-stl-utilities-in-c-46n9)
-- [How PHP Handles Error and Exception Handling: A Comprehensive Guide](https://dev.to/abhay_yt_52a8e72b213be229/how-php-handles-error-and-exception-handling-a-comprehensive-guide-3c5)
+- [An example of HACS: Adaptive Lighting](https://dev.to/nfrankel/an-example-of-hacs-adaptive-lighting-3hn0)
+- [Simple example with NestJS and Mercurius &lpar;Schema First&rpar; 😻](https://dev.to/tony133/simple-example-with-nestjs-and-mercurius-schema-first-5ead)
+- [How to Handle API Integrations in PHP, Especially for Large Datasets and Timeouts](https://dev.to/abhay_yt_52a8e72b213be229/how-to-handle-api-integrations-in-php-especially-for-large-datasets-and-timeouts-5aco)
+- [Kubernetes on Hybrid Cloud: Cloud Controller Manager &lpar;CCM&rpar;](https://dev.to/sergelogvinov/kubernetes-on-hybrid-cloud-cloud-controller-manager-ccm-jdn)
+- [Js in bits - 5.1&lpar;datatypes - Number&rpar;](https://dev.to/avinashd10/js-in-bits-51datatypes-23l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
