@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Tools and Tips for Marketing in 2025](https://dev.to/danyaleyman/ai-tools-and-tips-for-marketing-in-2025-2d5a)
-- [Happy New Year](https://dev.to/aditya_kumararya_973bb83/happy-new-year-539j)
-- [Why Linux and Not Windows?](https://dev.to/trixsec/why-linux-and-not-windows-4en5)
-- [🌟 Speech Assistant: AI-Powered Audio-to-Text &amp; MoM Generator](https://dev.to/buildandcodewithraman/speech-assistant-ai-powered-audio-to-text-mom-generator-5dh9)
-- [From SageMaker to Bedrock: The Ultimate Guide to Cost-Effective AI/ML Workloads on AWS](https://dev.to/vaish_98/from-sagemaker-to-bedrock-the-ultimate-guide-to-cost-effective-aiml-workloads-on-aws-45dm)
+- [Building a GitHub Activity CLI - A Ruby Journey](https://dev.to/sulmanweb/building-a-github-activity-cli-a-ruby-journey-1eo7)
+- [Sharding vs Partitioning in Databases](https://dev.to/vipulkumarsviit/sharding-vs-partitioning-in-databases-38p1)
+- [The Art of Game Testing](https://dev.to/its_amandha/the-art-of-game-testing-2ii5)
+- [How to Fetch Relevant and Reliable News Using Bing News Search API](https://dev.to/sachinkumar123/how-to-fetch-relevant-and-reliable-news-using-bing-news-search-api-1fjd)
+- [A Deep-Dive Comparison for No-Code App Development &lpar;2025&rpar;](https://dev.to/momen_hq/a-deep-dive-comparison-for-no-code-app-development-2025-4p7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
