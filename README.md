@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Can You Optimize MySQL Performance for High-Load Applications?](https://dev.to/adityabhuyan/how-can-you-optimize-mysql-performance-for-high-load-applications-gde)
-- [How Can Quantum Computing Solve Problems Beyond Classical Computing?](https://dev.to/adityabhuyan/how-can-quantum-computing-solve-problems-beyond-classical-computing-42fl)
-- [5 Tools I Use Every Day as a Software Developer](https://dev.to/sncalvo/5-tools-i-use-every-day-as-a-software-developer-2k60)
-- [Designing a Delightful Under Maintenance Page HTML and CSS](https://dev.to/prabhat_kumar/designing-a-delightful-under-maintenance-page-html-and-css-15db)
-- [Generative AI in Testing: Transforming the Landscape](https://dev.to/radha_4c842d8e4362a7cdd9c/generative-ai-in-testing-transforming-the-landscape-c69)
+- [🚀 Boost Your Social Media Presence with Chain! 🌟](https://dev.to/hanzla-baig/boost-your-social-media-presence-with-chain-1gie)
+- [Configuring Hyper-V Global Default Directories](https://dev.to/jajera/configuring-hyper-v-global-default-directories-2opj)
+- [Deploy Laravel to Vercel](https://dev.to/jhonoryza/deploy-laravel-to-vercel-8bn)
+- [Redis Queue and Cron in Go](https://dev.to/jhonoryza/redis-queue-and-cron-in-go-1fl8)
+- [How to Port BOA to the FET-MX9352-C Platform on Linux 6.1.36?](https://dev.to/forlinx_jason/how-to-port-boa-to-the-fet-mx9352-c-platform-on-linux-6136-2pn9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
