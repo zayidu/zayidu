@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adjust the intensity/brightness of colors in SwiftUI views](https://dev.to/divyeshvekariya/adjust-the-intensity-of-colors-in-swiftui-views-2oia)
-- [Build Real-Time Presence Features Like Figma and Google Docs in Your App in Minutes🚀🔥🧑‍💻](https://dev.to/astrodevil/build-real-time-presence-features-like-figma-and-google-docs-in-your-app-in-minutes-1lae)
-- [This blog covers commonly used types of operators and their purposes](https://dev.to/thedevricha/this-blog-covers-commonly-used-types-of-operators-and-their-purposes-352a)
-- [A Developer&#39;s Guide to Building Fast and Scalable Apps With Vite](https://dev.to/timvandort7291/a-developers-guide-to-building-fast-and-scalable-apps-with-vite-20ja)
-- [Cole Dockery Highlights 5 Tips for Creating a Harmonious Work-Life Balance as an Entrepreneur Reviews](https://dev.to/coledockeryreviews/cole-dockery-highlights-5-tips-for-creating-a-harmonious-work-life-balance-as-an-entrepreneur-7pg)
+- [Preventing Clickjacking in Laravel Applications](https://dev.to/pentest_testing_corp/preventing-clickjacking-in-laravel-applications-2hfe)
+- [Understand curl more in Just 10 Minutes！🔥🔥](https://dev.to/fallon_jimmy/understand-curl-more-in-just-10-minutes-32om)
+- [Js in bits - 4&lpar;variables&rpar;](https://dev.to/avinashd10/js-in-bits-4variables-1d14)
+- [5 least known STL utilities in C++](https://dev.to/pikotutorial/5-least-known-stl-utilities-in-c-46n9)
+- [How PHP Handles Error and Exception Handling: A Comprehensive Guide](https://dev.to/abhay_yt_52a8e72b213be229/how-php-handles-error-and-exception-handling-a-comprehensive-guide-3c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
