@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Challenge: 28. Find the Index of the First Occurrence in a String - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-28-find-the-index-of-the-first-occurrence-in-a-string-javascript-solution-3lfb)
-- [Java annotations and Annotation Processors.](https://dev.to/devmercy/java-annotations-and-annotation-processors-flj)
-- [I Mastered Azure AI Language in 5 Minutes](https://dev.to/pratikpathak/i-mastered-azure-ai-language-in-5-minutes-laj)
-- [From Paris to Berlin — Creating Circuit-Breakers in Kotlin](https://dev.to/jofisaes/from-paris-to-berlin-creating-circuit-breakers-in-kotlin-4a7h)
-- [After installing Fedora 41: A Glorious Adventure Awaits!](https://dev.to/alexantartico/after-installing-fedora-41-a-glorious-adventure-awaits-3anc)
+- [Glance Widget: Revolutionizing Android Lock Screens with Unparalleled Weather Insights](https://dev.to/prajakta_gawande_9485a4fd/glance-widget-revolutionizing-android-lock-screens-with-unparalleled-weather-insights-575a)
+- [Implement a Time-based Service in .NET 8 by using IHostedService Interface](https://dev.to/elpidaguy/implement-a-time-based-service-in-net-8-by-using-ihostedservice-interface-1328)
+- [The Best Programming Languages to Learn in 2025](https://dev.to/trixsec/the-best-programming-languages-to-learn-in-2025-3jhl)
+- [Building a Real-time Collaboration Platform with Go and WebSockets](https://dev.to/indalyadav56/building-a-real-time-collaboration-platform-with-go-and-websockets-3h4e)
+- [OWASP Kubernetes Top 10 Explained: Know About Risks &amp; Mitigation](https://dev.to/sign_my_code/owasp-kubernetes-top-10-explained-know-about-risks-mitigation-j40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
