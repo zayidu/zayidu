@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An example of HACS: Adaptive Lighting](https://dev.to/nfrankel/an-example-of-hacs-adaptive-lighting-3hn0)
-- [Simple example with NestJS and Mercurius &lpar;Schema First&rpar; 😻](https://dev.to/tony133/simple-example-with-nestjs-and-mercurius-schema-first-5ead)
-- [How to Handle API Integrations in PHP, Especially for Large Datasets and Timeouts](https://dev.to/abhay_yt_52a8e72b213be229/how-to-handle-api-integrations-in-php-especially-for-large-datasets-and-timeouts-5aco)
-- [Kubernetes on Hybrid Cloud: Cloud Controller Manager &lpar;CCM&rpar;](https://dev.to/sergelogvinov/kubernetes-on-hybrid-cloud-cloud-controller-manager-ccm-jdn)
-- [Js in bits - 5.1&lpar;datatypes - Number&rpar;](https://dev.to/avinashd10/js-in-bits-51datatypes-23l3)
+- [LeetCode Challenge: 28. Find the Index of the First Occurrence in a String - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-28-find-the-index-of-the-first-occurrence-in-a-string-javascript-solution-3lfb)
+- [Java annotations and Annotation Processors.](https://dev.to/devmercy/java-annotations-and-annotation-processors-flj)
+- [I Mastered Azure AI Language in 5 Minutes](https://dev.to/pratikpathak/i-mastered-azure-ai-language-in-5-minutes-laj)
+- [From Paris to Berlin — Creating Circuit-Breakers in Kotlin](https://dev.to/jofisaes/from-paris-to-berlin-creating-circuit-breakers-in-kotlin-4a7h)
+- [After installing Fedora 41: A Glorious Adventure Awaits!](https://dev.to/alexantartico/after-installing-fedora-41-a-glorious-adventure-awaits-3anc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
