@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Glance Widget: Revolutionizing Android Lock Screens with Unparalleled Weather Insights](https://dev.to/prajakta_gawande_9485a4fd/glance-widget-revolutionizing-android-lock-screens-with-unparalleled-weather-insights-575a)
-- [Implement a Time-based Service in .NET 8 by using IHostedService Interface](https://dev.to/elpidaguy/implement-a-time-based-service-in-net-8-by-using-ihostedservice-interface-1328)
-- [The Best Programming Languages to Learn in 2025](https://dev.to/trixsec/the-best-programming-languages-to-learn-in-2025-3jhl)
-- [Building a Real-time Collaboration Platform with Go and WebSockets](https://dev.to/indalyadav56/building-a-real-time-collaboration-platform-with-go-and-websockets-3h4e)
-- [OWASP Kubernetes Top 10 Explained: Know About Risks &amp; Mitigation](https://dev.to/sign_my_code/owasp-kubernetes-top-10-explained-know-about-risks-mitigation-j40)
+- [A Beginner’s Guide to Amazon CloudWatch: Monitoring Your Cloud Like a Pro](https://dev.to/aws-builders/a-beginners-guide-to-amazon-cloudwatch-monitoring-your-cloud-like-a-pro-3aje)
+- [GitHub and SeaGOAT: A Quick Guide to Code Search Solutions](https://dev.to/rebuss/github-and-seagoat-a-quick-guide-to-code-search-solutions-2820)
+- [Why Your Code is Jealous &lpar;and How to Fix It&rpar;](https://dev.to/karell_stemarie_ce42bf9c/why-your-code-is-jealous-and-how-to-fix-it-2281)
+- [Simplify Your Rails Upgrade: Check Gems Compatibility For Free](https://dev.to/railsup_sedin/simplify-your-rails-upgrade-check-gems-compatibility-for-free-4l8a)
+- [Mastering Git: Undoing Changes with Reset, Revert, Stash, and More](https://dev.to/abhay_yt_52a8e72b213be229/mastering-git-undoing-changes-with-reset-revert-stash-and-more-2gm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
