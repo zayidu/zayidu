@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 React js interview questions.](https://dev.to/griffin_techs_/top-10-react-js-interview-questions-5g8d)
-- [Mushroom loading screen](https://dev.to/alex_f2d6ab289c59897d21fa/mushroom-loading-screen-3685)
-- [Difference between AWS Security Groups and NACL](https://dev.to/cloudcuddler/difference-between-aws-security-groups-and-nacl-32f0)
-- [Top Cybersecurity Tools Developers Should Use](https://dev.to/marcoatl/top-cybersecurity-tools-developers-should-use-3c5l)
-- [How AI Really Learns: The Journey from Random Noise to Intelligence](https://dev.to/nir_diamant/how-ai-really-learns-the-journey-from-random-noise-to-intelligence-4dba)
+- [鸿蒙Next状态管理V2 - @Param装饰器总结](https://dev.to/freerain9/hong-meng-nextzhuang-tai-guan-li-v2-paramzhuang-shi-qi-zong-jie-201a)
+- [Advent of Code 2024 - Day 23: LAN Party](https://dev.to/grantdotdev/advent-of-code-2024-day-23-lan-party-99l)
+- [Primeros pasos en el mundo del Machine Learning con Amazon SageMaker](https://dev.to/briansuarezsantiago/primeros-pasos-en-el-mundo-del-machine-learning-con-amazon-sagemaker-1im)
+- [SQL 101 | Chapter 1: Understanding SQL and Databases](https://dev.to/yujin/sql-101-chapter-1-understanding-sql-and-databases-2h8j)
+- [Coding challenge: Design and Implement an Advanced Text Search System](https://dev.to/radu_marias_eed98d2e201f6/coding-challenge-design-and-implement-an-advanced-text-search-system-326l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
