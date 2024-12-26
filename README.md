@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Upgrading Grails from Version 3.1.9 to 5.3.6](https://dev.to/mingfuqin/upgrading-grails-from-version-319-to-536-33lj)
-- [Implementing a basic loading state](https://dev.to/ompals/implementing-a-basic-loading-state-3nnj)
-- [Multi-level Tic Tac Toe Game](https://dev.to/tobidelly/multi-level-tic-tac-toe-game-3oi)
-- [Dice Race: Player vs Computer](https://dev.to/tobidelly/dice-race-player-vs-computer-29k0)
-- [MSBuild and Project Files](https://dev.to/randazraik/msbuild-and-project-files-3d4o)
+- [Seamless Nuxt 2 Deployment: A Step-by-Step Guide with GitLab CI/CD and DigitalOcean](https://dev.to/tegos/seamless-nuxt-2-deployment-a-step-by-step-guide-with-gitlab-cicd-and-digitalocean-441d)
+- [What is Infrastructure as Code &lpar;IaC&rpar; and Why It&#39;s Transforming DevOps](https://dev.to/stack_dev/what-is-infrastructure-as-code-iac-and-why-its-transforming-devops-17a)
+- [Laravel queues: Skip job if no longer required](https://dev.to/sertxudev/laravel-queues-skip-job-if-no-longer-required-4g45)
+- [Kafka fundamentals with a practical example](https://dev.to/ricardo_borges/kafka-fundamentals-with-a-practical-example-25bi)
+- [Mastering React Lazy Loading: A Complete Guide Introduction](https://dev.to/manikanta_ketha_bf00556e9/mastering-react-lazy-loading-a-complete-guideintroduction-4ii5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
