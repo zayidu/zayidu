@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Narriva - A Minimalist Blog for Traditions and Celebrations**](https://dev.to/uzondu9/narriva-a-minimalist-blog-for-traditions-and-celebrations-4mb1)
-- [Book Recommendation as a Software Engineer: Atomic Habits](https://dev.to/norbs/book-recommendation-as-a-software-engineer-atomic-habits-1c45)
-- [Daily JavaScript Challenge #JS-57: Find the Longest Common Prefix](https://dev.to/dpc/daily-javascript-challenge-js-57-find-the-longest-common-prefix-1if3)
-- [Advanced Zero-Allocation Techniques in Go: Optimize Performance and Memory Usage](https://dev.to/aaravjoshi/advanced-zero-allocation-techniques-in-go-optimize-performance-and-memory-usage-1j8k)
-- [Ansible Collections: Complete Guide for Beginners](https://dev.to/harshm03/ansible-collections-complete-guide-for-beginners-1c67)
+- [How to Use Google AI Cloud Vision API to Analyze Images - Easy Step by Step Tutorial](https://dev.to/codingmoney/how-to-use-google-ai-cloud-vision-api-to-analyze-images-easy-step-by-step-tutorial-ag0)
+- [HTTP Testing Tools for Mac in 2025](https://dev.to/auden/http-testing-tools-for-mac-in-2025-2f8g)
+- [How to Know What Shopify Apps a Store is Using](https://dev.to/sakinur_rahman_c906707428/how-to-know-what-shopify-apps-a-store-is-using-6bb)
+- [SQL index types B TREE, HASH, GIST, GIST, BRIN, and GIN](https://dev.to/jhonoryza/sql-index-types-b-tree-hash-gist-gist-brin-and-gin-44g0)
+- [2024 Tech Year in Review: From AI Revolution to Quantum Leaps](https://dev.to/ivansing/2024-tech-year-in-review-from-ai-revolution-to-quantum-leaps-5eef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
