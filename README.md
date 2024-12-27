@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Track Amazon Prices in Real-Time and Solve CAPTCHAs Seamlessly with Bright Data](https://dev.to/sholajegede/track-amazon-prices-in-real-time-and-solve-captchas-seamlessly-with-bright-data-3533)
-- [DLL injection of managed code into native process](https://dev.to/gervantofryvia/dll-injection-of-managed-code-into-native-process-3jo6)
-- [Exploring Cupertino and Material Updates in Flutter 3.27.0](https://dev.to/canopassoftware/exploring-cupertino-and-material-updates-in-flutter-3270-2433)
-- [2025](https://dev.to/mohsinkhan_747/2025-4749)
-- [AWS Regions and Availability Zones: A Deep Dive into AWS Global Infrastructure](https://dev.to/abhay_yt_52a8e72b213be229/aws-regions-and-availability-zones-a-deep-dive-into-aws-global-infrastructure-33b4)
+- [「Mac畅玩鸿蒙与硬件9」鸿蒙开发环境配置篇9 - 使用Git进行版本控制](https://dev.to/soraluna/macchang-wan-hong-meng-yu-ying-jian-9-hong-meng-kai-fa-huan-jing-pei-zhi-pian-9-shi-yong-gitjin-xing-ban-ben-kong-zhi-165f)
+- [🚀A Developer’s Guide to Integrating Daytona with Android Projects ✨](https://dev.to/anuragkanojiya/a-developers-guide-to-integrating-daytona-with-android-projects-1a11)
+- [「Mac畅玩鸿蒙与硬件8」鸿蒙开发环境配置篇8 - 应用依赖与资源管理](https://dev.to/soraluna/macchang-wan-hong-meng-yu-ying-jian-8-hong-meng-kai-fa-huan-jing-pei-zhi-pian-8-ying-yong-yi-lai-yu-zi-yuan-guan-li-2og5)
+- [JS HashMap Data Structure Powered by: lucid - https://lucid.app/ https://lucid.app/lucidspark/69e35664-5ba2-440b-af1d-4ede1212d488/edit?viewport_loc=17%2C-60%2C2653%2C1390%2C0_0&amp;invitationId=inv_74545bae-2864-4138-baa6-ced6e824ece9](https://dev.to/rmahawewa/js-hashmap-data-structure-powered-by-lucid-httpslucidapp-g2e)
+- [「Mac畅玩鸿蒙与硬件7」鸿蒙开发环境配置篇7 - 使用命令行工具和本地模拟器管理项目](https://dev.to/soraluna/macchang-wan-hong-meng-yu-ying-jian-7-hong-meng-kai-fa-huan-jing-pei-zhi-pian-7-shi-yong-ming-ling-xing-gong-ju-he-ben-di-mo-ni-qi-guan-li-xiang-mu-2oij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
