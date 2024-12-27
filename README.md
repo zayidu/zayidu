@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CompTIA Certification Path in 2025 : Your Guide to a Successful IT Career](https://dev.to/skillboosttrainer/comptia-certification-path-in-2025-your-guide-to-a-successful-it-career-407c)
-- [Type Casting vs Type Conversion](https://dev.to/nozibul_islam_113b1d5334f/type-casting-vs-type-conversion-ii7)
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-5776)
-- [CompTIA Certification Cost 2025: Complete IT Certification in Guide](https://dev.to/skillboosttrainer/comptia-certification-cost-2025-complete-it-certification-in-guide-2h4j)
-- [GenAI Developer Roadmap 🚀 | Week 1, Day 1](https://dev.to/saichinmayt/genai-developer-roadmap-week-1-day-1-1ad3)
+- [Chatbot with Semantic Kernel - Part 4: Whisper 👂](https://dev.to/davidgsola/chatbot-with-semantic-kernel-part-4-whisper-19ib)
+- [Powerful GenAI Enterprise Search with Onyx](https://dev.to/airabbit/powerful-genai-enterprise-search-with-onyx-15ca)
+- [Building a Kafka Producer and Consumer in Go](https://dev.to/indalyadav56/building-a-kafka-producer-and-consumer-in-go-4lan)
+- [Virtual PCF Controls are GA... but theming is not!](https://dev.to/_neronotte/virtual-pcf-controls-are-ga-but-theming-is-not-1k77)
+- [Advanced TypeScript: A Deep Dive into Modern TypeScript Development](https://dev.to/indalyadav56/advanced-typescript-a-deep-dive-into-modern-typescript-development-5fda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
