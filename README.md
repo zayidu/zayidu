@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital Certificates: Your Invisible Shield ! 🔒](https://dev.to/tavernetech/digital-certificates-your-invisible-shield-in-the-digital-jungle-4g2k)
-- [ما مدى أهمية بايثون للأعمال؟](https://dev.to/kader_maarouf/m-md-hmy-bythwn-llml-9fl)
-- [@nuxt/test-utils - The First-Class Citizen for Nuxt Unit Testing](https://dev.to/akdevcraft/nuxttest-utils-the-first-class-citizen-for-nuxt-unit-testing-41h2)
-- [Overview of IBM&#39;s &quot;Machine &amp; Deep Learning&quot; Module](https://dev.to/caganshen/overview-of-ibms-machine-deep-learning-module-583i)
-- [Real-Time Data Indexing: Powering Instant Insights and Scalable Querying](https://dev.to/wallacefreitas/real-time-data-indexing-powering-instant-insights-and-scalable-querying-45ki)
+- [Understanding AWS Lambda Event Source Mapping](https://dev.to/aws-builders/understanding-aws-lambda-event-source-mapping-l1e)
+- [A beginners guide to Constraints and Validations in Flask, SQLAlchemy](https://dev.to/namimai/a-beginners-guide-to-constraints-and-validations-in-flask-sqlalchemy-4cpc)
+- [Architecture Patterns for Beginners: MVC, MVP, and MVVM](https://dev.to/chiragagg5k/architecture-patterns-for-beginners-mvc-mvp-and-mvvm-2pe7)
+- [Resolving Python Import Failures in Bazel with `proto_library` Targets](https://dev.to/nioan/resolving-python-import-failures-in-bazel-with-protolibrary-targets-4i8i)
+- [My React Journey: Day 25](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-25-5f45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
