@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LibTracker Updates 12/27/24: Simplifying Dependency Management for Developers](https://dev.to/windmillcode/libtracker-updates-122724-simplifying-dependency-management-for-developers-3ojk)
-- [Toán tử trong Javascript](https://dev.to/duongthai/toan-tu-trong-javascript-205b)
-- [Chuỗi &lpar;String&rpar; strong Jacascript](https://dev.to/duongthai/chuoi-string-strong-jacascript-46cj)
-- [Pseudolocalization in Phoenix with gettext_pseudolocalize](https://dev.to/dkuku/pseudolocalization-in-phoenix-with-gettextpseudolocalize-epf)
-- [How to Write Clean Code – Tips for Developers with Examples](https://dev.to/codewithshahan/how-to-write-clean-code-tips-for-developers-with-examples-25ic)
+- [How to use rerank models in Amazon Bedrock](https://dev.to/tim_schill/how-to-use-rerank-models-in-amazon-bedrock-5dm3)
+- [Fixing and Validating JSON with Ease: An In-Depth Guide](https://dev.to/onlinejsonformatter0/fixing-and-validating-json-with-ease-an-in-depth-guide-19jc)
+- [How I&#39;ve been trying to improve mocking with Zod](https://dev.to/crbroughton/how-ive-been-trying-to-improve-mocking-with-zod-4j1a)
+- [Etcd Backup and Restore &lpar;1&rpar;](https://dev.to/cheedge_lee/etcd-backup-and-restore-1-2ad3)
+- [Why Function-Calling GenAI Must Be Built by AI, Not Manually Coded](https://dev.to/gentoro/why-function-calling-genai-must-be-built-by-ai-not-manually-coded-3dj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
