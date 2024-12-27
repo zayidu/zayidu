@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s been your biggest achievement this year??](https://dev.to/shafayeat/whats-been-your-biggest-achievement-this-year-ih2)
-- [New Features in C# 13](https://dev.to/antonmartyniuk/new-features-in-c-13-41j0)
-- [Next.js vs Encore.ts — When should you NOT use Next.js for Backend?](https://dev.to/encore/nextjs-vs-encorets-when-should-you-not-use-nextjs-for-backend-126p)
-- [LeetCode Challenge 68: Text Justification - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-68-text-justification-javascript-solution-4l1h)
-- [Best Code LLM 2025 is Here: Deepseek 🔥🔥🔥](https://dev.to/ashinno/best-code-llm-2025-is-here-deepseek-1e3m)
+- [Master Tortoise ORM &amp; PostgreSQL: Your Ultimate Beginner&#39;s Guide.](https://dev.to/saint_vandora/master-tortoise-orm-postgresql-your-ultimate-beginners-guide-3oid)
+- [The Beginner&#39;s Guide to AMP](https://dev.to/carrie_luo1/the-beginners-guide-to-amp-11oh)
+- [Data governance and security with Microsoft Purview and Fabric](https://dev.to/emily_smith_86b5b7960eebb/data-governance-and-security-with-microsoft-purview-and-fabric-da6)
+- [You could do amazing things with a little JS 😊](https://dev.to/alagrede/you-could-do-amazing-things-with-a-little-js-4ej4)
+- [What is Machine Learning? A Beginner&#39;s Guide to Understanding the Basics](https://dev.to/anshul_kichara/what-is-machine-learning-a-beginners-guide-to-understanding-the-basics-2c87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
