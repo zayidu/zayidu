@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Tortoise ORM &amp; PostgreSQL: Your Ultimate Beginner&#39;s Guide.](https://dev.to/saint_vandora/master-tortoise-orm-postgresql-your-ultimate-beginners-guide-3oid)
-- [The Beginner&#39;s Guide to AMP](https://dev.to/carrie_luo1/the-beginners-guide-to-amp-11oh)
-- [Data governance and security with Microsoft Purview and Fabric](https://dev.to/emily_smith_86b5b7960eebb/data-governance-and-security-with-microsoft-purview-and-fabric-da6)
-- [You could do amazing things with a little JS 😊](https://dev.to/alagrede/you-could-do-amazing-things-with-a-little-js-4ej4)
-- [What is Machine Learning? A Beginner&#39;s Guide to Understanding the Basics](https://dev.to/anshul_kichara/what-is-machine-learning-a-beginners-guide-to-understanding-the-basics-2c87)
+- [Track Amazon Prices in Real-Time and Solve CAPTCHAs Seamlessly with Bright Data](https://dev.to/sholajegede/track-amazon-prices-in-real-time-and-solve-captchas-seamlessly-with-bright-data-3533)
+- [DLL injection of managed code into native process](https://dev.to/gervantofryvia/dll-injection-of-managed-code-into-native-process-3jo6)
+- [Exploring Cupertino and Material Updates in Flutter 3.27.0](https://dev.to/canopassoftware/exploring-cupertino-and-material-updates-in-flutter-3270-2433)
+- [2025](https://dev.to/mohsinkhan_747/2025-4749)
+- [AWS Regions and Availability Zones: A Deep Dive into AWS Global Infrastructure](https://dev.to/abhay_yt_52a8e72b213be229/aws-regions-and-availability-zones-a-deep-dive-into-aws-global-infrastructure-33b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
