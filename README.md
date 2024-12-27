@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Habits: How to Build a Life You Love in 30 Days](https://dev.to/fashikun_mojoyinoluwa_20e/the-power-of-habits-how-to-build-a-life-you-love-in-30-days-3d37)
-- [15 Essential JavaScript Array Functions](https://dev.to/kafeel_ahmad/15-essential-javascript-array-functions-7fm)
-- [Your Ultimate Guide to Creating Profitable Notion Templates](https://dev.to/resource_bunk_1077cab07da/your-ultimate-guide-to-creating-profitable-notion-templates-1bef)
-- [Tutorial de Instalação: Express com MongoDB e Mongoose](https://dev.to/thaissacarvalho/tutorial-de-instalacao-express-com-mongodb-e-mongoose-7f3)
-- [01 - Introduction to Node.js: What It Is, Why You Need It, and When to Use It](https://dev.to/arnav2004/01-introduction-to-nodejs-what-it-is-why-you-need-it-and-when-to-use-it-51ik)
+- [CompTIA Certification Path in 2025 : Your Guide to a Successful IT Career](https://dev.to/skillboosttrainer/comptia-certification-path-in-2025-your-guide-to-a-successful-it-career-407c)
+- [Type Casting vs Type Conversion](https://dev.to/nozibul_islam_113b1d5334f/type-casting-vs-type-conversion-ii7)
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-5776)
+- [CompTIA Certification Cost 2025: Complete IT Certification in Guide](https://dev.to/skillboosttrainer/comptia-certification-cost-2025-complete-it-certification-in-guide-2h4j)
+- [GenAI Developer Roadmap 🚀 | Week 1, Day 1](https://dev.to/saichinmayt/genai-developer-roadmap-week-1-day-1-1ad3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
