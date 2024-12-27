@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Najlepsi dostawcy mobilnego proxy](https://dev.to/toniaread/najlepsi-dostawcy-mobilnego-proxy-3j4k)
-- [Top IDEs for Java Development on Mac](https://dev.to/brilworks/top-ides-for-java-development-on-mac-1p6i)
-- [Nextjs adn tailwind CSS](https://dev.to/hannahanot/nextjs-adn-tailwind-css-16o4)
-- [Redefining Software Testing: How GenQE Leverages AI for Excellence](https://dev.to/vaibhavkuls/redefining-software-testing-how-genqe-leverages-ai-for-excellence-1j0e)
-- [Are Interactive Experiences the New Trends for Websites in 2025?](https://dev.to/farhadmalegam/are-interactive-experiences-the-new-trends-for-websites-in-2025-65g)
+- [How does artificial intelligence enhance healthcare software applications?](https://dev.to/mobilise/how-does-artificial-intelligence-enhance-healthcare-software-applications-1naa)
+- [From Simple RAG to Multimodal Multilingual Intelligence - Using Contact Doctor&#39;s Bio-Medical-MultiModal-Llama-3-8B-V1](https://dev.to/mckanth/from-simple-rag-to-multimodal-multilingual-intelligence-using-contact-doctors-1kn0)
+- [Increase Virtual Machine Quota: A Step-by-Step Guide](https://dev.to/s3cloudhub/increase-virtual-machine-quota-a-step-by-step-guide-3fik)
+- [Stress Testing: Ensuring System Reliability Under Pressure](https://dev.to/keploy/stress-testing-ensuring-system-reliability-under-pressure-57fa)
+- [Binary and Unary operator](https://dev.to/mujahida_joynab_64c7407d8/binary-and-unary-operator-2lec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
