@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Achieves Human-Level Performance on General Intelligence Test: What Developers Can Expect Next](https://dev.to/epicx/ai-achieves-human-level-performance-on-general-intelligence-test-what-developers-can-expect-next-350d)
-- [How to Play 2 Player on Street Fighter 6 PS5](https://dev.to/shazaib_rafiq_496442e8642/how-to-play-2-player-on-street-fighter-6-ps5-4nni)
-- [Best Tech Learnings of 2024](https://dev.to/drjoshcsimmons/best-tech-learnings-of-2024-pci)
-- [Js in bits - 9.3&lpar;Comparisons&rpar;](https://dev.to/avinashd10/js-in-bits-93comparisons-32fn)
-- [How Do I Know If I Have Antivirus Software on My Mac? 🖥️🛡️](https://dev.to/shazaib_rafiq_496442e8642/how-do-i-know-if-i-have-antivirus-software-on-my-mac-3cj1)
+- [My 2024 Wrapped: you can just make things](https://dev.to/abdibrokhim/my-2024-wrapped-you-can-just-make-things-43dp)
+- [Rule of Thumb for spinning up Azure Landing Zones](https://dev.to/arindam0310018/rule-of-thumb-for-spinning-up-azure-landing-zones-5h1l)
+- [Major Release: Total Overhaul - JavaFX Renaissance](https://dev.to/maksik997/major-release-total-overhaul-javafx-renaissance-51m)
+- [Using Vim Navigation &lpar;h, j, k, l&rpar; as Arrow Keys on Mac with Karabiner-Elements](https://dev.to/lico/using-vim-navigation-h-j-k-l-as-arrow-keys-on-mac-with-karabiner-elements-ahj)
+- [Los mejores portales de empleo para conseguir trabajo en tecnología](https://dev.to/lurodriguez/los-mejores-portales-de-empleo-para-conseguir-trabajo-en-tecnologia-48p4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
