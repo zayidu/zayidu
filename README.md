@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a New Rust Project with ⚙️ Cargo](https://dev.to/zhukmax/setting-up-a-new-rust-project-with-cargo-510n)
-- [Free Tableau Crash Course with Airbnb Project](https://dev.to/jobreadyprogrammer/free-tableau-crash-course-with-airbnb-project-42lp)
-- [Beyond the Hype: Real Talk on Recent Web Dev and AI Innovations](https://dev.to/awaisz99/beyond-the-hype-real-talk-on-recent-web-dev-and-ai-innovations-54n2)
-- [TIL: Why Does a SPA Have Multiple URLs? 🤔](https://dev.to/kohki_takatama/til-why-does-a-spa-have-multiple-urls-1e9j)
-- [Boost Your App’s Performance with Lazy Stacks in SwiftUI](https://dev.to/divyeshvekariya/boost-your-apps-performance-with-lazy-stacks-in-swiftui-550l)
+- [Najlepsi dostawcy mobilnego proxy](https://dev.to/toniaread/najlepsi-dostawcy-mobilnego-proxy-3j4k)
+- [Top IDEs for Java Development on Mac](https://dev.to/brilworks/top-ides-for-java-development-on-mac-1p6i)
+- [Nextjs adn tailwind CSS](https://dev.to/hannahanot/nextjs-adn-tailwind-css-16o4)
+- [Redefining Software Testing: How GenQE Leverages AI for Excellence](https://dev.to/vaibhavkuls/redefining-software-testing-how-genqe-leverages-ai-for-excellence-1j0e)
+- [Are Interactive Experiences the New Trends for Websites in 2025?](https://dev.to/farhadmalegam/are-interactive-experiences-the-new-trends-for-websites-in-2025-65g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
