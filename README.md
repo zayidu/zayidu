@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [20+ Best Web Development Tools &amp; Software &lpar;With Pricing&rpar; to Use in 2025🎉🔥🔥](https://dev.to/fallon_jimmy/20-best-web-development-tools-software-with-pricing-to-use-in-2025-5gjk)
-- [A Practical Guide to Identifying and Mitigating Hallucinations Outputs in Language Models](https://dev.to/adipamartulandi/a-practical-guide-to-identifying-and-mitigating-hallucinations-outputs-in-language-models-58e2)
-- [What Is Postgres Wire Protocol](https://dev.to/keploy/what-is-postgres-wire-protocol-54cl)
-- [The Ultimate Guide to IP Block Avoidance](https://dev.to/swiftproxy_residential/the-ultimate-guide-to-ip-block-avoidance-445m)
-- [Top 7 Agile Project Management Certifications in 2025](https://dev.to/veronicajoseph/top-7-agile-project-management-certifications-in-2025-mk3)
+- [What’s been your biggest achievement this year??](https://dev.to/shafayeat/whats-been-your-biggest-achievement-this-year-ih2)
+- [New Features in C# 13](https://dev.to/antonmartyniuk/new-features-in-c-13-41j0)
+- [Next.js vs Encore.ts — When should you NOT use Next.js for Backend?](https://dev.to/encore/nextjs-vs-encorets-when-should-you-not-use-nextjs-for-backend-126p)
+- [LeetCode Challenge 68: Text Justification - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-68-text-justification-javascript-solution-4l1h)
+- [Best Code LLM 2025 is Here: Deepseek 🔥🔥🔥](https://dev.to/ashinno/best-code-llm-2025-is-here-deepseek-1e3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
