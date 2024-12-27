@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I created a Wrapped for Dev.to](https://dev.to/drprime01/i-created-a-wrapped-for-devto-2b66)
-- [Seamless Nuxt 2 Deployment: A Step-by-Step Guide with GitLab CI/CD and DigitalOcean](https://dev.to/tegos/seamless-nuxt-2-deployment-a-step-by-step-guide-with-gitlab-cicd-and-digitalocean-441d)
-- [What is Infrastructure as Code &lpar;IaC&rpar; and Why It&#39;s Transforming DevOps](https://dev.to/stack_dev/what-is-infrastructure-as-code-iac-and-why-its-transforming-devops-17a)
-- [Laravel queues: Skip job if no longer required](https://dev.to/sertxudev/laravel-queues-skip-job-if-no-longer-required-4g45)
-- [Kafka fundamentals with a practical example](https://dev.to/ricardo_borges/kafka-fundamentals-with-a-practical-example-25bi)
+- [Narriva - A Minimalist Blog for Traditions and Celebrations**](https://dev.to/uzondu9/narriva-a-minimalist-blog-for-traditions-and-celebrations-4mb1)
+- [Book Recommendation as a Software Engineer: Atomic Habits](https://dev.to/norbs/book-recommendation-as-a-software-engineer-atomic-habits-1c45)
+- [Daily JavaScript Challenge #JS-57: Find the Longest Common Prefix](https://dev.to/dpc/daily-javascript-challenge-js-57-find-the-longest-common-prefix-1if3)
+- [Advanced Zero-Allocation Techniques in Go: Optimize Performance and Memory Usage](https://dev.to/aaravjoshi/advanced-zero-allocation-techniques-in-go-optimize-performance-and-memory-usage-1j8k)
+- [Ansible Collections: Complete Guide for Beginners](https://dev.to/harshm03/ansible-collections-complete-guide-for-beginners-1c67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
