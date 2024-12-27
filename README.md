@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use rerank models in Amazon Bedrock](https://dev.to/tim_schill/how-to-use-rerank-models-in-amazon-bedrock-5dm3)
-- [Fixing and Validating JSON with Ease: An In-Depth Guide](https://dev.to/onlinejsonformatter0/fixing-and-validating-json-with-ease-an-in-depth-guide-19jc)
-- [How I&#39;ve been trying to improve mocking with Zod](https://dev.to/crbroughton/how-ive-been-trying-to-improve-mocking-with-zod-4j1a)
-- [Etcd Backup and Restore &lpar;1&rpar;](https://dev.to/cheedge_lee/etcd-backup-and-restore-1-2ad3)
-- [Why Function-Calling GenAI Must Be Built by AI, Not Manually Coded](https://dev.to/gentoro/why-function-calling-genai-must-be-built-by-ai-not-manually-coded-3dj2)
+- [AI Achieves Human-Level Performance on General Intelligence Test: What Developers Can Expect Next](https://dev.to/epicx/ai-achieves-human-level-performance-on-general-intelligence-test-what-developers-can-expect-next-350d)
+- [How to Play 2 Player on Street Fighter 6 PS5](https://dev.to/shazaib_rafiq_496442e8642/how-to-play-2-player-on-street-fighter-6-ps5-4nni)
+- [Best Tech Learnings of 2024](https://dev.to/drjoshcsimmons/best-tech-learnings-of-2024-pci)
+- [Js in bits - 9.3&lpar;Comparisons&rpar;](https://dev.to/avinashd10/js-in-bits-93comparisons-32fn)
+- [How Do I Know If I Have Antivirus Software on My Mac? 🖥️🛡️](https://dev.to/shazaib_rafiq_496442e8642/how-do-i-know-if-i-have-antivirus-software-on-my-mac-3cj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
