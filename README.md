@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chatbot with Semantic Kernel - Part 4: Whisper 👂](https://dev.to/davidgsola/chatbot-with-semantic-kernel-part-4-whisper-19ib)
-- [Powerful GenAI Enterprise Search with Onyx](https://dev.to/airabbit/powerful-genai-enterprise-search-with-onyx-15ca)
-- [Building a Kafka Producer and Consumer in Go](https://dev.to/indalyadav56/building-a-kafka-producer-and-consumer-in-go-4lan)
-- [Virtual PCF Controls are GA... but theming is not!](https://dev.to/_neronotte/virtual-pcf-controls-are-ga-but-theming-is-not-1k77)
-- [Advanced TypeScript: A Deep Dive into Modern TypeScript Development](https://dev.to/indalyadav56/advanced-typescript-a-deep-dive-into-modern-typescript-development-5fda)
+- [LibTracker Updates 12/27/24: Simplifying Dependency Management for Developers](https://dev.to/windmillcode/libtracker-updates-122724-simplifying-dependency-management-for-developers-3ojk)
+- [Toán tử trong Javascript](https://dev.to/duongthai/toan-tu-trong-javascript-205b)
+- [Chuỗi &lpar;String&rpar; strong Jacascript](https://dev.to/duongthai/chuoi-string-strong-jacascript-46cj)
+- [Pseudolocalization in Phoenix with gettext_pseudolocalize](https://dev.to/dkuku/pseudolocalization-in-phoenix-with-gettextpseudolocalize-epf)
+- [How to Write Clean Code – Tips for Developers with Examples](https://dev.to/codewithshahan/how-to-write-clean-code-tips-for-developers-with-examples-25ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
