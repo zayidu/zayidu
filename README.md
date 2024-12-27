@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Linux: Your Step-by-Step Roadmap to Becoming a Linux Pro](https://dev.to/wantonaccountant/mastering-linux-your-step-by-step-roadmap-to-becoming-a-linux-pro-3fbm)
-- [Mastering Linux Administration for a Stable and Secure IT Environment](https://dev.to/wiseguide/mastering-linux-administration-for-a-stable-and-secure-it-environment-3obb)
-- [Unlocking the Power of Microsoft SQL Server Administration](https://dev.to/wiseguide/unlocking-the-power-of-microsoft-sql-server-administration-m0m)
-- [Next.js and React.js Integration](https://dev.to/lior_amsalem_3879371237f6/nextjs-and-reactjs-integration-1oh6)
-- [Reading the Ruby 3.4 NEWS with professionals &lpar;English translation&rpar;](https://dev.to/ko1/reading-the-ruby-34-news-with-professionals-english-translation-47a4)
+- [🌥️ Exploring Cloud Computing: A Simple Guide](https://dev.to/tharindumadubashna/exploring-cloud-computing-a-simple-guide-1fd4)
+- [React Dropzone: Image Drag n Drop using Dropzone](https://dev.to/mukul_aggarwal/react-dropzone-image-drag-n-drop-using-dropzone-f69)
+- [I Found Splito: An Exciting Open-Source Bill-Splitting App](https://dev.to/divyeshvekariya/i-found-splito-an-exciting-open-source-bill-splitting-app-31di)
+- [Umbraco package of the month: xStatic](https://dev.to/jvk_io/umbraco-package-of-the-month-xstatic-28fo)
+- [My Notes on Canva’s Real-Time Mouse Pointer Implementation](https://dev.to/the_infinity/my-notes-on-canvas-real-time-mouse-pointer-implementation-4g7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
