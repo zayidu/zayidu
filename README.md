@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Google AI Cloud Vision API to Analyze Images - Easy Step by Step Tutorial](https://dev.to/codingmoney/how-to-use-google-ai-cloud-vision-api-to-analyze-images-easy-step-by-step-tutorial-ag0)
-- [HTTP Testing Tools for Mac in 2025](https://dev.to/auden/http-testing-tools-for-mac-in-2025-2f8g)
-- [How to Know What Shopify Apps a Store is Using](https://dev.to/sakinur_rahman_c906707428/how-to-know-what-shopify-apps-a-store-is-using-6bb)
-- [SQL index types B TREE, HASH, GIST, GIST, BRIN, and GIN](https://dev.to/jhonoryza/sql-index-types-b-tree-hash-gist-gist-brin-and-gin-44g0)
-- [2024 Tech Year in Review: From AI Revolution to Quantum Leaps](https://dev.to/ivansing/2024-tech-year-in-review-from-ai-revolution-to-quantum-leaps-5eef)
+- [Mastering Linux: Your Step-by-Step Roadmap to Becoming a Linux Pro](https://dev.to/wantonaccountant/mastering-linux-your-step-by-step-roadmap-to-becoming-a-linux-pro-3fbm)
+- [Mastering Linux Administration for a Stable and Secure IT Environment](https://dev.to/wiseguide/mastering-linux-administration-for-a-stable-and-secure-it-environment-3obb)
+- [Unlocking the Power of Microsoft SQL Server Administration](https://dev.to/wiseguide/unlocking-the-power-of-microsoft-sql-server-administration-m0m)
+- [Next.js and React.js Integration](https://dev.to/lior_amsalem_3879371237f6/nextjs-and-reactjs-integration-1oh6)
+- [Reading the Ruby 3.4 NEWS with professionals &lpar;English translation&rpar;](https://dev.to/ko1/reading-the-ruby-34-news-with-professionals-english-translation-47a4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
