@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌥️ Exploring Cloud Computing: A Simple Guide](https://dev.to/tharindumadubashna/exploring-cloud-computing-a-simple-guide-1fd4)
-- [React Dropzone: Image Drag n Drop using Dropzone](https://dev.to/mukul_aggarwal/react-dropzone-image-drag-n-drop-using-dropzone-f69)
-- [I Found Splito: An Exciting Open-Source Bill-Splitting App](https://dev.to/divyeshvekariya/i-found-splito-an-exciting-open-source-bill-splitting-app-31di)
-- [Umbraco package of the month: xStatic](https://dev.to/jvk_io/umbraco-package-of-the-month-xstatic-28fo)
-- [My Notes on Canva’s Real-Time Mouse Pointer Implementation](https://dev.to/the_infinity/my-notes-on-canvas-real-time-mouse-pointer-implementation-4g7a)
+- [Setting Up a New Rust Project with ⚙️ Cargo](https://dev.to/zhukmax/setting-up-a-new-rust-project-with-cargo-510n)
+- [Free Tableau Crash Course with Airbnb Project](https://dev.to/jobreadyprogrammer/free-tableau-crash-course-with-airbnb-project-42lp)
+- [Beyond the Hype: Real Talk on Recent Web Dev and AI Innovations](https://dev.to/awaisz99/beyond-the-hype-real-talk-on-recent-web-dev-and-ai-innovations-54n2)
+- [TIL: Why Does a SPA Have Multiple URLs? 🤔](https://dev.to/kohki_takatama/til-why-does-a-spa-have-multiple-urls-1e9j)
+- [Boost Your App’s Performance with Lazy Stacks in SwiftUI](https://dev.to/divyeshvekariya/boost-your-apps-performance-with-lazy-stacks-in-swiftui-550l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
