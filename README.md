@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [With Spring can I make an optional path variable?](https://dev.to/realnamehidden1_61/with-spring-can-i-make-an-optional-path-variable-4im8)
-- [How I Fixed My Messed-Up Pull Request](https://dev.to/studiosmolthing/how-i-fixed-my-messed-up-pull-request-k7l)
-- [Emerging Trends in SaaS Development: What to Expect in 2025 and Beyond](https://dev.to/rayan2228/emerging-trends-in-saas-development-what-to-expect-in-2025-and-beyond-4l4n)
-- [How to Deploy a Web App with CI/CD Pipelines on Azure App Service](https://dev.to/olalekan_johnayansola_4a/how-to-deploy-a-web-app-with-cicd-pipelines-on-azure-app-service-153i)
-- [How AI Models Adapt to Changing Environments: Real-World Insights](https://dev.to/umeshtharukaofficial/how-ai-models-adapt-to-changing-environments-real-world-insights-47jk)
+- [WordPress Optimization Techniques Using .htaccess](https://dev.to/web_dev-usman/wordpress-optimization-techniques-using-htaccess-3lan)
+- [Setting Up a Node.js Backend for Your React Application](https://dev.to/ayusharpcoder/setting-up-a-nodejs-backend-for-your-react-application-3ibj)
+- [Introduction au langage Kotlin : pourquoi et comment commencer ?](https://dev.to/taak61/introduction-au-langage-kotlin-pourquoi-et-comment-commencer--3jjc)
+- [State of AI at the End of 2024](https://dev.to/vipulkumarsviit/state-of-ai-at-the-end-of-2024-4gp)
+- [How to Run Event Viewer as Administrator on Windows 11?](https://dev.to/winsides/how-to-run-event-viewer-as-administrator-on-windows-11-1d53)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
