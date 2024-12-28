@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We no need write Java in Kotlin](https://dev.to/mikhailepatko/we-no-need-write-java-in-kotlin-5985)
-- [The Journey of ReqWeb: What’s Coming in Version 2.0](https://dev.to/taqsblaze/the-journey-of-reqweb-whats-coming-in-version-20-32d3)
-- [Configuring a custom domain for your Azure Static Web App](https://dev.to/chsami/configuring-a-custom-domain-for-your-azure-static-web-app-1igc)
-- [vogen - Value Object Generator in golang](https://dev.to/nchika/vogen-value-object-generator-in-golang-fkg)
-- [A Basic Understanding of .NET!](https://dev.to/hexa-home/a-basic-understanding-of-net-29ap)
+- [WebCrawlAI: An AI-Powered Web Scraper Built Using Bright Data](https://dev.to/arjuncodess/webcrawlai-an-ai-powered-web-scraper-built-using-bright-data-23md)
+- [Go 1.23’s Iter package](https://dev.to/cheikh_seck_01/go-123s-iter-package-24kc)
+- [Scrape Unscrapeable Amazon Dataset with BrightData, React.js and Node.js](https://dev.to/alexanie_/scrape-unscrapeable-amazon-datasetwith-brightdata-reactjs-and-nodejs-1n9h)
+- [Exploring While and DoWhile in Java: Master Loop Structures with Practical Examples](https://dev.to/ricardocaselati/exploring-while-and-dowhile-in-java-master-loop-structures-with-practical-examples-16od)
+- [How an Aircraft Operates Based on Cabin Crew Commands - Devlog#9](https://dev.to/khaisimon_devgame/how-an-aircraft-operates-based-on-cabin-crew-commands-devlog9-1h29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
