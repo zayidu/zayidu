@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrating the Winter Solstice](https://dev.to/respect17/celebrating-the-winter-solstice-with-an-interactive-web-design-219i)
-- [Frontend Challenge - December Edition, Glam Up My Markup: Winter Solstice](https://dev.to/tai_gy_dd59a21a65824cb1ed/frontend-challenge-december-edition-glam-up-my-markup-winter-solstice-1g86)
-- [SSH Made Easy: Enable Secure Access and File Transfers Like a Pro](https://dev.to/shweta_thikekar/ssh-made-easy-enable-secure-access-and-file-transfers-like-a-pro-58b1)
-- [The OSI Model of Network Communication](https://dev.to/olymahmud/the-osi-model-of-network-communication-30k3)
-- [Create a Flappy Bird Game with HTML, CSS, Canvas, and JavaScript-Complete Tutorial](https://dev.to/sharathchandark/create-a-flappy-bird-game-with-html-css-canvas-and-javascript-complete-tutorial-4h30)
+- [From REST to GraphQL: Why and How I Made the Switch](https://dev.to/qbentil/from-rest-to-graphql-why-and-how-i-made-the-switch-4c01)
+- [Understanding Java Inheritance: A Friendly Guide 🌳](https://dev.to/respect17/understanding-java-inheritance-a-friendly-guide-13c5)
+- [Como um cego total trabalha como devops?](https://dev.to/julianoribeiro2024/como-um-cego-total-trabalha-como-devops-2k2l)
+- [A TALE OF TWO DEVELOPERS: THE WISE AND THE CRAYON-EATER](https://dev.to/ryo_suwito/a-tale-of-two-developers-the-wise-and-the-crayon-eater-2gj7)
+- [My Go-To Developer Tools: Boosting Productivity and Joy in Coding](https://dev.to/praveenrajamani/my-go-to-developer-tools-boosting-productivity-and-joy-in-coding-25kk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
