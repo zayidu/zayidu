@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Descubriendo Hyperplane: La tecnología detrás de NAT Gateway y NLB](https://dev.to/briansuarezsantiago/descubriendo-hyperplane-la-tecnologia-detras-de-nat-gateway-y-nlb-2jeo)
-- [Building a No Code AI Platform and the BFS Algorithm](https://dev.to/ahmad_farhanishraq_74b52/building-a-no-code-platform-and-the-bfs-algorithm-6d1)
-- [Ethical Guidelines and Standards for AI Testing](https://dev.to/anil_csimplifyit_905c/ethical-guidelines-and-standards-for-ai-testing-29om)
-- [🚀 Software Engineering Post-Mortem: Paragon Protectors 🏰🎯](https://dev.to/victoriadeveloper/post-mortem-paragon-protectors-5620)
-- [🚀 Introducing **Preadme**: Your Ultimate README Generator!](https://dev.to/eshanized/introducing-preadme-your-ultimate-readme-generator-2p0g)
+- [How AI Models Adapt to Changing Environments: Real-World Insights](https://dev.to/umeshtharukaofficial/how-ai-models-adapt-to-changing-environments-real-world-insights-47jk)
+- [WICK-A11Y 1.4.0: Not Everything Needs to Fail a Test!](https://dev.to/sebastianclavijo/wick-a11y-140-not-everything-needs-to-fail-a-test-1pe5)
+- [Configure SSH Passwordless Login from Windows to Linux](https://dev.to/jajera/configure-ssh-passwordless-login-from-windows-to-linux-1nml)
+- [Accessing the Windows filesystem from WSL &lpar;WSL2&rpar;](https://dev.to/gamelord2011/accessing-the-windows-filesystem-from-wsl-wsl2-2jlb)
+- [Back To Basics: git](https://dev.to/nicholassynovic/back-to-basics-git-478m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
