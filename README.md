@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Web development - Vercel AI](https://dev.to/dowenrei/web-development-vercel-ai-20il)
+- [Improve Your Wellbeing with Mindfulness Techniques](https://dev.to/mittenchance0/improve-your-wellbeing-with-mindfulness-techniques-5gd8)
+- [Google Summer of Code: Getting Selected, My Time, My Experience, My Journey.](https://dev.to/vinyldavyl/google-summer-of-code-getting-selected-my-time-my-experience-my-journey-519)
+- [First impressions of Astro: what I liked and disliked](https://dev.to/tylerlwsmith/first-impressions-of-astro-what-i-liked-and-disliked-22nj)
 - [Customize iTerm](https://dev.to/saoud/customize-iterm-1a01)
-- [The Dawn of AI Workforce: A 2025 Perspective](https://dev.to/aws-builders/the-dawn-of-ai-workforce-a-2025-perspective-19jc)
-- [Court is in session: Top 10 most notorious C and C++ errors in 2024](https://dev.to/pvsdev/court-is-in-session-top-10-most-notorious-c-and-c-errors-in-2024-21kd)
-- [Building the Fun : A Number Guessing Game in 2025](https://dev.to/safdarali25/building-the-fun-a-number-guessing-game-in-2025-10k3)
-- [The Role of Ethical Hacking in Strengthening Cybersecurity](https://dev.to/prasanna_p_71fe05e6fe5212/the-role-of-ethical-hacking-in-strengthening-cybersecurity-1ok1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
