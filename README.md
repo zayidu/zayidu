@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 1: Setting Up Initial AWS Infrastructure for the Intrusion Detection System with Terraform](https://dev.to/non-existent/part-1-setting-up-initial-aws-infrastructure-for-the-intrusion-detection-system-with-terraform-4g4e)
-- [REDIS TALK &amp; DEMO](https://dev.to/derekcrosslu/redis-talk-demo-2ek3)
-- [Implementasi Infrastruktur Jaringan Virtual dengan Protokol OSPF](https://dev.to/heavenaulianisa/implementasi-infrastruktur-jaringan-virtual-dengan-protokol-ospf-2ni)
-- [Building a Personal Brand and Embracing Adaptability as a Software Engineer 💯](https://dev.to/alisamir/building-a-personal-brand-and-embracing-adaptability-as-a-software-engineer-5ke)
-- [Add JWT Authentication in Deno &amp; Oak server using Kinde Authentication](https://dev.to/zaynekomichi/add-jwt-authentication-in-deno-oak-server-using-kinde-authentication-1c95)
+- [💡 15 Genius Open-Source Projects That Deserve More Love!](https://dev.to/awaisz99/top-15-open-source-hidden-gems-you-never-knew-existed-553d)
+- [Tech Trend Tracker: AI-Powered News Analysis for Technology Insights](https://dev.to/yukaty/tech-trend-tracker-ai-powered-news-analysis-for-technology-insights-260g)
+- [Exploring Multi-Cloud Strategies for Seamless Cloud Migration](https://dev.to/emma_wags_8dd9b74533690da/exploring-multi-cloud-strategies-for-seamless-cloud-migration-517p)
+- [😲 25+ Open Source Projects So Good, You&#39;ll Wonder If Sleep Is Overrated &lpar;Dec 28, 2024&rpar;](https://dev.to/gittech/25-open-source-projects-so-good-youll-wonder-if-sleep-is-overrated-dec-28-2024-1l3i)
+- [2025 NestJS BE Roadmap: Beginner to Senior Level](https://dev.to/tak089/nestjs-roadmap-for-2025-5jj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
