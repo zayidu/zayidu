@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Variables](https://dev.to/sathish_balaji_2003/variables-n38)
-- [SOLID Principle In .NET Core](https://dev.to/abhishek_adhav_22ab0c2463/solid-principle-in-net-core-1am0)
-- [Three Steps to Build a More Cost-Effective Solution on AWS](https://dev.to/matheusdasmerces/three-steps-to-build-a-more-cost-effective-solution-on-aws-mlj)
-- [Domain Driven Design: making a domain modeling](https://dev.to/eronalves1996/domain-driven-design-making-a-domain-model-181p)
-- [Redis Cache - A String story](https://dev.to/jofisaes/redis-cache-a-string-story-387c)
+- [Part 1: Setting Up Initial AWS Infrastructure for the Intrusion Detection System with Terraform](https://dev.to/non-existent/part-1-setting-up-initial-aws-infrastructure-for-the-intrusion-detection-system-with-terraform-4g4e)
+- [REDIS TALK &amp; DEMO](https://dev.to/derekcrosslu/redis-talk-demo-2ek3)
+- [Implementasi Infrastruktur Jaringan Virtual dengan Protokol OSPF](https://dev.to/heavenaulianisa/implementasi-infrastruktur-jaringan-virtual-dengan-protokol-ospf-2ni)
+- [Building a Personal Brand and Embracing Adaptability as a Software Engineer 💯](https://dev.to/alisamir/building-a-personal-brand-and-embracing-adaptability-as-a-software-engineer-5ke)
+- [Add JWT Authentication in Deno &amp; Oak server using Kinde Authentication](https://dev.to/zaynekomichi/add-jwt-authentication-in-deno-oak-server-using-kinde-authentication-1c95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
