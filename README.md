@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Engineering Cheatsheet I Always Wanted to Have for Interviews &lpar;This is a Game Changer!&rpar;](https://dev.to/msnmongare/software-engineering-cheatsheet-i-always-wanted-to-have-for-interviews-this-is-a-game-changer-3ko6)
-- [9 Key Benefits of Cloud Migration You Need To Know](https://dev.to/softqubetechnologies/9-key-benefits-of-cloud-migration-you-need-to-know-3h4b)
-- [Save Money on Massive Outputs: Alternatives to Consider Beyond OpenAI](https://dev.to/airabbit/save-money-on-massive-outputs-alternatives-to-consider-beyond-openai-190j)
-- [Data Analytics 101: How Small Businesses Can Turn Insights Into Growth](https://dev.to/softqubetechnologies/data-analytics-101-how-small-businesses-can-turn-insights-into-growth-1hn)
-- [How to Create Addictive Entertainment and Media Websites: Streaming, Content Delivery, and User Engagement](https://dev.to/okoye_ndidiamaka_5e3b7d30/how-to-create-addictive-entertainment-and-media-websites-streaming-content-delivery-and-user-2n36)
+- [codepen - circles](https://dev.to/jamcha123/codepen-circles-4eml)
+- [Stanikmas, Lynn. &lpar;2024&rpar;. Angular Studies | Advanced Components. GitHub.](https://dev.to/lstanikmas/stanikmas-lynn-2024-angular-studies-advanced-components-github-3cdo)
+- [🚀 My First Chrome Extension: Export &amp; Import Salesforce Dependent Picklist Values with Ease! 🎉](https://dev.to/shivamkapasia0/my-first-chrome-extension-export-import-salesforce-dependent-picklist-values-with-ease-2cb)
+- [This is my first post!](https://dev.to/fares_mohamed/this-is-my-first-post-2n2)
+- [[Boost]](https://dev.to/binoy_59380e698d318/-245a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
