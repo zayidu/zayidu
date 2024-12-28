@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix &quot;Dummy Device&quot; for sound on Debian](https://dev.to/jeansen/fix-dummy-device-for-sound-on-debian-45e)
-- [How to Configure Gmail SMTP Server Settings](https://dev.to/msnmongare/how-to-configure-gmail-smtp-server-settings-7l6)
-- [Essential SEO Strategies for Web Developers](https://dev.to/brian_keary_16db3f9defbbe/essential-seo-strategies-for-web-developers-2ik8)
-- [Django built-in authentication system](https://dev.to/doridoro/django-built-in-authentication-1j93)
-- [How to Set the Hostname on a Linux System](https://dev.to/jajera/how-to-set-the-hostname-on-a-linux-system-4b9p)
+- [Descubriendo Hyperplane: La tecnología detrás de NAT Gateway y NLB](https://dev.to/briansuarezsantiago/descubriendo-hyperplane-la-tecnologia-detras-de-nat-gateway-y-nlb-2jeo)
+- [Building a No Code AI Platform and the BFS Algorithm](https://dev.to/ahmad_farhanishraq_74b52/building-a-no-code-platform-and-the-bfs-algorithm-6d1)
+- [Ethical Guidelines and Standards for AI Testing](https://dev.to/anil_csimplifyit_905c/ethical-guidelines-and-standards-for-ai-testing-29om)
+- [🚀 Software Engineering Post-Mortem: Paragon Protectors 🏰🎯](https://dev.to/victoriadeveloper/post-mortem-paragon-protectors-5620)
+- [🚀 Introducing **Preadme**: Your Ultimate README Generator!](https://dev.to/eshanized/introducing-preadme-your-ultimate-readme-generator-2p0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
