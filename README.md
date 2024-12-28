@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Check out my recently released project and how I came about it! I created a Wrapped &lpar;2024 Unwrapped&rpar; for Dev.to. You can use it to see your stats for the year.](https://dev.to/drprime01/check-out-my-recently-released-project-and-how-i-came-about-it-i-created-a-wrapped-2024-12dj)
-- [Good File Structure](https://dev.to/lichtkind/good-file-structure-1p39)
-- [Seeking suggestions to build a good note taking app.](https://dev.to/muhammad__2317/seeking-suggestions-to-build-a-good-note-taking-app-2l63)
-- [Browser extension to summarize HN comments](https://dev.to/georgeck/browser-extension-to-summarize-hn-comments-4ab9)
-- [LeetCode Meditations: Sum of Two Integers](https://dev.to/rivea0/leetcode-meditations-sum-of-two-integers-p5a)
+- [Dynamic DNS sync with Cloudflare](https://dev.to/umarov/dynamic-dns-sync-with-cloudflare-4p07)
+- [Using Blocks in Sections](https://dev.to/zaidrehman/using-blocks-in-sections-2022)
+- [Melhorando Seus Commits com Lefthook e Conventional Commits](https://dev.to/codeinitdev/melhorando-seus-commits-com-lefthook-e-conventional-commits-5gl6)
+- [Book: Clean Code - Background](https://dev.to/abdulghofurme/book-clean-code-background-io0)
+- [Scrape Google Search Results Using Python](https://dev.to/apiforseo/scrape-google-search-results-using-python-212i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
