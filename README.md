@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic DNS sync with Cloudflare](https://dev.to/umarov/dynamic-dns-sync-with-cloudflare-4p07)
-- [Using Blocks in Sections](https://dev.to/zaidrehman/using-blocks-in-sections-2022)
-- [Melhorando Seus Commits com Lefthook e Conventional Commits](https://dev.to/codeinitdev/melhorando-seus-commits-com-lefthook-e-conventional-commits-5gl6)
-- [Book: Clean Code - Background](https://dev.to/abdulghofurme/book-clean-code-background-io0)
-- [Scrape Google Search Results Using Python](https://dev.to/apiforseo/scrape-google-search-results-using-python-212i)
+- [Install Tailscale With Ansible](https://dev.to/nicholassynovic/install-tailscale-with-ansible-3962)
+- [OpenAPI + Swagger UI with Micronaut Application](https://dev.to/anand_jaisy_2f7644a12001b/openapi-swagger-ui-with-micronaut-application-4hip)
+- [🚀 React Best Practices for Scalable Frontends: Part 2 – State Management](https://dev.to/el_mahfoudbouatim_b502a2/react-best-practices-for-scalable-frontends-part-2-state-management-in-react-4bpi)
+- [Server-Side Rendering in Sections](https://dev.to/zaidrehman/server-side-rendering-in-sections-d41)
+- [How a Lottery Quest Led Me to The Powers of PyTorch](https://dev.to/chiemezuo/how-a-lottery-quest-led-me-to-the-powers-of-pytorch-46c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
