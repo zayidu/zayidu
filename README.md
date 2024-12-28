@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From REST to GraphQL: Why and How I Made the Switch](https://dev.to/qbentil/from-rest-to-graphql-why-and-how-i-made-the-switch-4c01)
-- [Understanding Java Inheritance: A Friendly Guide 🌳](https://dev.to/respect17/understanding-java-inheritance-a-friendly-guide-13c5)
-- [Como um cego total trabalha como devops?](https://dev.to/julianoribeiro2024/como-um-cego-total-trabalha-como-devops-2k2l)
-- [A TALE OF TWO DEVELOPERS: THE WISE AND THE CRAYON-EATER](https://dev.to/ryo_suwito/a-tale-of-two-developers-the-wise-and-the-crayon-eater-2gj7)
-- [My Go-To Developer Tools: Boosting Productivity and Joy in Coding](https://dev.to/praveenrajamani/my-go-to-developer-tools-boosting-productivity-and-joy-in-coding-25kk)
+- [Variables](https://dev.to/sathish_balaji_2003/variables-n38)
+- [SOLID Principle In .NET Core](https://dev.to/abhishek_adhav_22ab0c2463/solid-principle-in-net-core-1am0)
+- [Three Steps to Build a More Cost-Effective Solution on AWS](https://dev.to/matheusdasmerces/three-steps-to-build-a-more-cost-effective-solution-on-aws-mlj)
+- [Domain Driven Design: making a domain modeling](https://dev.to/eronalves1996/domain-driven-design-making-a-domain-model-181p)
+- [Redis Cache - A String story](https://dev.to/jofisaes/redis-cache-a-string-story-387c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
