@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress Optimization Techniques Using .htaccess](https://dev.to/web_dev-usman/wordpress-optimization-techniques-using-htaccess-3lan)
-- [Setting Up a Node.js Backend for Your React Application](https://dev.to/ayusharpcoder/setting-up-a-nodejs-backend-for-your-react-application-3ibj)
-- [Introduction au langage Kotlin : pourquoi et comment commencer ?](https://dev.to/taak61/introduction-au-langage-kotlin-pourquoi-et-comment-commencer--3jjc)
-- [State of AI at the End of 2024](https://dev.to/vipulkumarsviit/state-of-ai-at-the-end-of-2024-4gp)
-- [How to Run Event Viewer as Administrator on Windows 11?](https://dev.to/winsides/how-to-run-event-viewer-as-administrator-on-windows-11-1d53)
+- [Transforming Retail: How Augmented Reality Enhances Shopping Experiences](https://dev.to/vishal_bisht_2bae8e8d8bd4/transforming-retail-how-augmented-reality-enhances-shopping-experiences-30gh)
+- [🚀 60+ New GitHub Repositories That Could Inspire Your Next Project &lpar;Dec 27, 2024&rpar;](https://dev.to/gittech/60-new-github-repositories-that-could-inspire-your-next-project-dec-27-2024-58m0)
+- [Push to multiple GitHub accounts!](https://dev.to/nikhil_mahato/push-to-multiple-github-accounts-3k99)
+- [AWS Security Hub notifications made actionable using Amazon Bedrock](https://dev.to/aws-builders/aws-security-hub-notifications-made-actionable-using-amazon-bedrock-1f3i)
+- [Part 16: Building Your Own AI - Building an End-to- End AI Project: A Case Study](https://dev.to/trixsec/part-16-building-your-own-ai-building-an-end-to-end-ai-project-a-case-study-e90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
