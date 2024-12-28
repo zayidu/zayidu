@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Forget ChatGPT &amp; Claude: Here Are 6 &lpar;New &amp; Free&rpar; AI Tools That Will Blow Your Mind](https://dev.to/nitinfab/forget-chatgpt-claude-here-are-6-new-free-ai-tools-that-will-blow-your-mind-4oel)
-- [Couldn&#39;t find one... so I wrote one. Clsx for Rust](https://dev.to/chibuzoro/couldnt-find-one-so-i-wrote-one-3jjc)
-- [Wrap up my 2024 ~Contribute to the Community, and make MIRACLE!~](https://dev.to/aws-builders/wrap-up-my-2024-contribute-to-the-community-and-make-miracle-10h8)
-- [Working with multiple language models in Semantic Kernel](https://dev.to/stormhub/working-with-multiple-language-models-in-semantic-kernel-31gk)
-- [Discord Image Generation Bot with Daytona](https://dev.to/aditya_007/discord-image-generation-bot-with-daytona-5akc)
+- [Customize iTerm](https://dev.to/saoud/customize-iterm-1a01)
+- [The Dawn of AI Workforce: A 2025 Perspective](https://dev.to/aws-builders/the-dawn-of-ai-workforce-a-2025-perspective-19jc)
+- [Court is in session: Top 10 most notorious C and C++ errors in 2024](https://dev.to/pvsdev/court-is-in-session-top-10-most-notorious-c-and-c-errors-in-2024-21kd)
+- [Building the Fun : A Number Guessing Game in 2025](https://dev.to/safdarali25/building-the-fun-a-number-guessing-game-in-2025-10k3)
+- [The Role of Ethical Hacking in Strengthening Cybersecurity](https://dev.to/prasanna_p_71fe05e6fe5212/the-role-of-ethical-hacking-in-strengthening-cybersecurity-1ok1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
