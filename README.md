@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Full-Stack Web Service Development Guide From Scratch with Video Lessons, Source Code, and Support](https://dev.to/iserdmi/free-full-stack-web-service-development-guide-from-scratch-with-video-lessons-source-code-and-bm5)
-- [CSS CELEBRATION Art](https://dev.to/winslause/css-celebration-art-3p2p)
-- [Js in bits - 9.5&lpar;Comparisons&rpar;](https://dev.to/avinashd10/js-in-bits-95comparisons-2eld)
-- [How to update library and get swamped with this task.](https://dev.to/pvsdev/how-to-update-library-and-get-swamped-with-this-task-i75)
-- [AI-Powered Solution Cuts Mixed-Integer Programming Time by 40% Using Unsupervised Learning](https://dev.to/mikeyoung44/ai-powered-solution-cuts-mixed-integer-programming-time-by-40-using-unsupervised-learning-25kg)
+- [Forget ChatGPT &amp; Claude: Here Are 6 &lpar;New &amp; Free&rpar; AI Tools That Will Blow Your Mind](https://dev.to/nitinfab/forget-chatgpt-claude-here-are-6-new-free-ai-tools-that-will-blow-your-mind-4oel)
+- [Couldn&#39;t find one... so I wrote one. Clsx for Rust](https://dev.to/chibuzoro/couldnt-find-one-so-i-wrote-one-3jjc)
+- [Wrap up my 2024 ~Contribute to the Community, and make MIRACLE!~](https://dev.to/aws-builders/wrap-up-my-2024-contribute-to-the-community-and-make-miracle-10h8)
+- [Working with multiple language models in Semantic Kernel](https://dev.to/stormhub/working-with-multiple-language-models-in-semantic-kernel-31gk)
+- [Discord Image Generation Bot with Daytona](https://dev.to/aditya_007/discord-image-generation-bot-with-daytona-5akc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
