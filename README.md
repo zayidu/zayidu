@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💡 15 Genius Open-Source Projects That Deserve More Love!](https://dev.to/awaisz99/top-15-open-source-hidden-gems-you-never-knew-existed-553d)
-- [Tech Trend Tracker: AI-Powered News Analysis for Technology Insights](https://dev.to/yukaty/tech-trend-tracker-ai-powered-news-analysis-for-technology-insights-260g)
-- [Exploring Multi-Cloud Strategies for Seamless Cloud Migration](https://dev.to/emma_wags_8dd9b74533690da/exploring-multi-cloud-strategies-for-seamless-cloud-migration-517p)
-- [😲 25+ Open Source Projects So Good, You&#39;ll Wonder If Sleep Is Overrated &lpar;Dec 28, 2024&rpar;](https://dev.to/gittech/25-open-source-projects-so-good-youll-wonder-if-sleep-is-overrated-dec-28-2024-1l3i)
-- [2025 NestJS BE Roadmap: Beginner to Senior Level](https://dev.to/tak089/nestjs-roadmap-for-2025-5jj)
+- [Frontend-Challenge-December-Edition by Solanki Sarkar](https://dev.to/solankisarkar505/frontend-challenge-december-edition-by-solanki-sarkar-11g4)
+- [5 CSS Tricks That Will Save You a Lot of Time](https://dev.to/rogueloop/5-css-tricks-that-will-save-you-a-lot-of-time-2523)
+- [Why You Should Learn C#/.NET in 2025](https://dev.to/empiree/why-you-should-learn-cnet-in-2025-3l6f)
+- [Heaps, Data Structures](https://dev.to/harshm03/heaps-data-structures-id2)
+- [5 Time-Saving Web Development Tools You Need to Try Before 2025](https://dev.to/rijultp/5-time-saving-web-development-tools-you-need-to-try-before-2025-4f5l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
