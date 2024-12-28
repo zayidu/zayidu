@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [codepen - circles](https://dev.to/jamcha123/codepen-circles-4eml)
-- [Stanikmas, Lynn. &lpar;2024&rpar;. Angular Studies | Advanced Components. GitHub.](https://dev.to/lstanikmas/stanikmas-lynn-2024-angular-studies-advanced-components-github-3cdo)
-- [🚀 My First Chrome Extension: Export &amp; Import Salesforce Dependent Picklist Values with Ease! 🎉](https://dev.to/shivamkapasia0/my-first-chrome-extension-export-import-salesforce-dependent-picklist-values-with-ease-2cb)
-- [This is my first post!](https://dev.to/fares_mohamed/this-is-my-first-post-2n2)
-- [[Boost]](https://dev.to/binoy_59380e698d318/-245a)
+- [We no need write Java in Kotlin](https://dev.to/mikhailepatko/we-no-need-write-java-in-kotlin-5985)
+- [The Journey of ReqWeb: What’s Coming in Version 2.0](https://dev.to/taqsblaze/the-journey-of-reqweb-whats-coming-in-version-20-32d3)
+- [Configuring a custom domain for your Azure Static Web App](https://dev.to/chsami/configuring-a-custom-domain-for-your-azure-static-web-app-1igc)
+- [vogen - Value Object Generator in golang](https://dev.to/nchika/vogen-value-object-generator-in-golang-fkg)
+- [A Basic Understanding of .NET!](https://dev.to/hexa-home/a-basic-understanding-of-net-29ap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
