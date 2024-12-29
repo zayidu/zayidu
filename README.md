@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DEV&#39;s Frontend challenge: Winter Solstic!](https://dev.to/sami3160/devs-frontend-challenge-winter-solstic-54ik)
-- [Portfolio](https://dev.to/pavan_pinate/portfolio-1j6a)
-- [Implementing Feature Flag Management in Your Spring Boot Application Using API Calls and UI with Togglz](https://dev.to/cdinuwan/implementing-feature-flag-management-in-your-spring-boot-application-using-api-calls-and-ui-with-53a9)
-- [Rust: Bigger Building Blocks - Structs Reloaded](https://dev.to/crusty-rustacean/rust-bigger-building-blocks-structs-reloaded-25g8)
-- [Building an AI-Powered Git Commit Report Generator: Dev Log 1](https://dev.to/stormsidali2001/building-an-ai-powered-git-commit-report-generator-dev-log-1-3a2g)
+- [Unleashing Data Insights: Harnessing Amazon QuickSight Q&#39;s Generative BI for Transformative Analytics](https://dev.to/neeraj_iyer_980804515a5da/unleashing-data-insights-harnessing-amazon-quicksight-qs-generative-bi-for-transformative-18lo)
+- [Artigos sobre CSS que explodiram minha cabeça em 2024](https://dev.to/lixeletto/artigos-sobre-css-que-explodiram-minha-cabeca-em-2024-1e8m)
+- [How This SCSS Project Stays Organized Starting from a Map](https://dev.to/lovestaco/how-this-scss-project-stays-organized-starting-from-a-map-1g2e)
+- [How This SCSS Project Stays Organized Starting from a Map](https://dev.to/lovestaco/how-this-scss-project-stays-organized-starting-from-a-map-3phb)
+- [Make the zsh Prompt Go Faster](https://dev.to/terminaldweller/make-the-zsh-prompt-go-faster-5hal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
