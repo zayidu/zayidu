@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I tried cline 3.0.0 and here is what happend](https://dev.to/dasheck0/i-tried-cline-300-and-here-is-what-happend-3dm5)
-- [Javascript Arrays: A Cheat Sheet for Developer](https://dev.to/voscanoa/javascript-arrays-a-cheat-sheet-for-developer-2d2k)
-- [Securing Laravel Reverb](https://dev.to/edgaras/securing-laravel-reverb-2nh3)
-- [Matrix code rain - in Rust](https://dev.to/admin1299/matrix-code-rain-in-rust-1fad)
-- [Simplifying In-App Purchases with RevenueCat](https://dev.to/akash_kaintura_7d91e21763/simplifying-in-app-purchases-with-revenuecat-3dkg)
+- [Nix at level 0 is still awesome](https://dev.to/noriller/nix-at-level-0-is-still-awesome-bhf)
+- [The Legacy of Code: Famous Old Programming Languages](https://dev.to/davidcharles/the-legacy-of-code-famous-old-programming-languages-1pm6)
+- [TypeScript: Excessive Pedantry or Necessary Order?](https://dev.to/iri_denis/typescript-excessive-pedantry-or-necessary-order-3297)
+- [Laravel&#39;s 2024: Progress at Lightning Speed, But Are We Biting Off More Than We Can Chew?](https://dev.to/hichemtab-tech/laravels-2024-progress-at-lightning-speed-but-are-we-biting-off-more-than-we-can-chew-c7g)
+- [AWS Cloud: Unlocking the Future of Scalable and Secure Computing](https://dev.to/wiseguide/aws-cloud-unlocking-the-future-of-scalable-and-secure-computing-43a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
