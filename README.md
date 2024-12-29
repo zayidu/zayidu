@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [40 CSS Tricks That Will Save You Time and Improve Your Workflow](https://dev.to/code_2/40-css-tricks-that-will-save-you-time-and-improve-your-workflow-2d84)
-- [⛏️🌐 Mining Pools in the Web3 Ecosystem: The Backbone of Decentralization and Financial Innovation 🚀](https://dev.to/joshthebtc/mining-pools-in-the-web3-ecosystem-the-backbone-of-decentralization-and-financial-innovation-39cl)
-- [Day 39: Deploying Stateful Applications with StatefulSets &lpar;MongoDB&rpar;](https://dev.to/arbythecoder/day-39-deploying-stateful-applications-with-statefulsets-mongodb-3mk8)
-- [Docker in Windows via WSL2, Ubuntu, docker.io](https://dev.to/stasberkov/docker-install-for-wsl2-2p5i)
-- [🚀 Exploring Top 3 Mining Pools: Binance Pool, WhiteBIT Pool, and Bybit Mining Pool in the Web3 Era ⛏️💻](https://dev.to/sergi_web3/exploring-top-3-mining-pools-binance-pool-whitebit-pool-and-bybit-mining-pool-in-the-web3-era-4m7o)
+- [Glam Up My Markup: Winter Solstice](https://dev.to/bhumika_patil_e5d1f757113/glam-up-my-markup-winter-solstice-43ad)
+- [Glam Up My Markup: Winter Solstice](https://dev.to/bhumika_patil_e5d1f757113/glam-up-my-markup-winter-solstice-2hk)
+- [Advent of Code - It&#39;s More Than a Competition](https://dev.to/grantdotdev/advent-of-code-its-more-than-a-competition-26e7)
+- [Data types and varialbles](https://dev.to/coder_d295cd12743e7d146c7/data-types-and-varialbles-3kb0)
+- [We are lazy and AI is the solution](https://dev.to/paulscoder/we-are-lazy-and-ai-is-the-solution-296o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
