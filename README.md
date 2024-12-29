@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nix at level 0 is still awesome](https://dev.to/noriller/nix-at-level-0-is-still-awesome-bhf)
-- [The Legacy of Code: Famous Old Programming Languages](https://dev.to/davidcharles/the-legacy-of-code-famous-old-programming-languages-1pm6)
-- [TypeScript: Excessive Pedantry or Necessary Order?](https://dev.to/iri_denis/typescript-excessive-pedantry-or-necessary-order-3297)
-- [Laravel&#39;s 2024: Progress at Lightning Speed, But Are We Biting Off More Than We Can Chew?](https://dev.to/hichemtab-tech/laravels-2024-progress-at-lightning-speed-but-are-we-biting-off-more-than-we-can-chew-c7g)
-- [AWS Cloud: Unlocking the Future of Scalable and Secure Computing](https://dev.to/wiseguide/aws-cloud-unlocking-the-future-of-scalable-and-secure-computing-43a7)
+- [#100DAYSOFCODE: Day 3](https://dev.to/isaiahhtml/100daysofcode-day-3-37lo)
+- [MySQL Database Administrator: Managing Open-Source Powerhouses](https://dev.to/wiseguide/mysql-database-administrator-managing-open-source-powerhouses-1lof)
+- [Azure SQL Database Administrator: Driving Modern Data Solutions](https://dev.to/wiseguide/azure-sql-database-administrator-driving-modern-data-solutions-35c9)
+- [Autonomous Database Oracle DBA: Redefining Database Administration](https://dev.to/wiseguide/autonomous-database-oracle-dba-redefining-database-administration-3opk)
+- [Are You Making This ONE Fatal Mistake with Code Smell?](https://dev.to/karell_stemarie_ce42bf9c/are-you-making-this-one-fatal-mistake-with-code-smell-2ai4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
