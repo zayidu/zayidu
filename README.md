@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#100DAYSOFCODE: Day 3](https://dev.to/isaiahhtml/100daysofcode-day-3-37lo)
-- [MySQL Database Administrator: Managing Open-Source Powerhouses](https://dev.to/wiseguide/mysql-database-administrator-managing-open-source-powerhouses-1lof)
-- [Azure SQL Database Administrator: Driving Modern Data Solutions](https://dev.to/wiseguide/azure-sql-database-administrator-driving-modern-data-solutions-35c9)
-- [Autonomous Database Oracle DBA: Redefining Database Administration](https://dev.to/wiseguide/autonomous-database-oracle-dba-redefining-database-administration-3opk)
-- [Are You Making This ONE Fatal Mistake with Code Smell?](https://dev.to/karell_stemarie_ce42bf9c/are-you-making-this-one-fatal-mistake-with-code-smell-2ai4)
+- [DEV&#39;s Frontend challenge: Winter Solstic!](https://dev.to/sami3160/devs-frontend-challenge-winter-solstic-54ik)
+- [Portfolio](https://dev.to/pavan_pinate/portfolio-1j6a)
+- [Implementing Feature Flag Management in Your Spring Boot Application Using API Calls and UI with Togglz](https://dev.to/cdinuwan/implementing-feature-flag-management-in-your-spring-boot-application-using-api-calls-and-ui-with-53a9)
+- [Rust: Bigger Building Blocks - Structs Reloaded](https://dev.to/crusty-rustacean/rust-bigger-building-blocks-structs-reloaded-25g8)
+- [Building an AI-Powered Git Commit Report Generator: Dev Log 1](https://dev.to/stormsidali2001/building-an-ai-powered-git-commit-report-generator-dev-log-1-3a2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
