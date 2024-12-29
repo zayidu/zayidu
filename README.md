@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Protect Your FiveM Server from DDoS Attacks](https://dev.to/davidjonson/how-to-protect-your-fivem-server-from-ddos-attacks-33id)
-- [Trading Signal from Sentiment Analysis using Bright Data API](https://dev.to/fahminlb33/trading-signal-from-sentiment-analysis-using-bright-data-api-4nci)
-- [Optimizing Query Performance in Django with PostgreSQL: A Case Study](https://dev.to/priya01/optimizing-query-performance-in-django-with-postgresql-a-case-study-4om3)
-- [Services in Kubernetes](https://dev.to/jayesh0706/services-in-kubernetes-3h6m)
-- [My &lpar;highly caffeinated&rpar; journey to unlock the hidden knowledge of AI.](https://dev.to/the_tea_drinker/my-highly-caffeinated-journey-to-unlock-the-hidden-knowledge-of-ai-27fc)
+- [How to make the best of a slow machine running on limited resources with a Windows environment as a Java Engineer](https://dev.to/jofisaes/how-to-make-the-best-of-a-slow-machine-running-on-limited-resources-with-a-windows-environment-as-a-30gn)
+- [Task 1&lpar;28/12&rpar;](https://dev.to/pavithra_saravanan_2/task-2812-59nl)
+- [Creating Typescript app with decorator-based dependency injection 💉](https://dev.to/9zemian5/creating-typescript-app-with-decorator-based-dependency-injection-9fj)
+- [[Boost]](https://dev.to/marcuskohlberg/-2o74)
+- [Js in bits - 12.2&lpar;Nullish Colaescing&rpar;](https://dev.to/avinashd10/js-in-bits-12nullish-colaescing-o9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
