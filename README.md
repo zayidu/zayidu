@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ScrapeMate: Effortlessly Extract Data from Any Website, Even with Infinite Scroll and Complex Pagination](https://dev.to/sholajegede/scrapemate-effortlessly-extract-data-from-any-website-even-with-infinite-scroll-and-complex-5k7)
-- [Integrating Daytona into Your Spring Boot Bank Application](https://dev.to/harshsinghcs/integrating-daytona-into-your-spring-boot-bank-application-312o)
-- [Engineering with a product mindset](https://dev.to/scottharrisondev/engineering-with-a-product-mindset-14im)
-- [Kubernets Secret &lpar;2&rpar;](https://dev.to/cheedge_lee/kubernets-secret-2-20ec)
-- [How to change the Ubuntu password from the terminal](https://dev.to/joselatino/how-to-change-the-ubuntu-password-from-the-terminal-14jm)
+- [40 CSS Tricks That Will Save You Time and Improve Your Workflow](https://dev.to/code_2/40-css-tricks-that-will-save-you-time-and-improve-your-workflow-2d84)
+- [⛏️🌐 Mining Pools in the Web3 Ecosystem: The Backbone of Decentralization and Financial Innovation 🚀](https://dev.to/joshthebtc/mining-pools-in-the-web3-ecosystem-the-backbone-of-decentralization-and-financial-innovation-39cl)
+- [Day 39: Deploying Stateful Applications with StatefulSets &lpar;MongoDB&rpar;](https://dev.to/arbythecoder/day-39-deploying-stateful-applications-with-statefulsets-mongodb-3mk8)
+- [Docker in Windows via WSL2, Ubuntu, docker.io](https://dev.to/stasberkov/docker-install-for-wsl2-2p5i)
+- [🚀 Exploring Top 3 Mining Pools: Binance Pool, WhiteBIT Pool, and Bybit Mining Pool in the Web3 Era ⛏️💻](https://dev.to/sergi_web3/exploring-top-3-mining-pools-binance-pool-whitebit-pool-and-bybit-mining-pool-in-the-web3-era-4m7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
