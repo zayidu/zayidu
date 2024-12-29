@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Start Simple: A Beginner&#39;s Guide to Using Notion Templates](https://dev.to/resource_bunk_1077cab07da/start-simple-a-beginners-guide-to-using-notion-templates-118c)
-- [Keyword Arguments in C++/C](https://dev.to/prabhu-yu/keyword-arguments-in-cc-14f1)
-- [I added networking standards to my custom kernel!](https://dev.to/kernux_/i-added-networking-standards-to-my-custom-kernel-3a95)
-- [#15 Enhancing User Experience with Server Actions in Next.js 15🚀✨](https://dev.to/sahilshityalkar/15-enhancing-user-experience-with-server-actions-in-nextjs-15-5dpn)
-- [Creating a .NET Tool and Publishing it from GitHub](https://dev.to/dejandjenic/creating-a-net-tool-and-publishing-it-from-github-4b4a)
+- [Top 4 NPM Libraries I used to Elevate My Project 🚀](https://dev.to/rijultp/top-4-npm-libraries-i-used-to-elevate-my-project-4g9k)
+- [Web4: A New Generation of Social Networks Transforming the Internet](https://dev.to/web4/web4-a-new-generation-of-social-networks-transforming-the-internet-7md)
+- [How to Start Solving Problems, Build Solutions, and Validate Your Idea Without Spending a Dollar](https://dev.to/rogueloop/how-to-start-solving-problems-build-solutions-and-validate-your-idea-without-spending-a-dollar-37hm)
+- [How to Deploy Puppeteer in the Cloud: Solutions Compared](https://dev.to/leapcell/how-to-deploy-puppeteer-in-the-cloud-solutions-compared-pfk)
+- [First blog!](https://dev.to/vishaaxl/first-blog-1mk3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
