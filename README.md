@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Wrenches to Code - Why Learning to Code Is Like Fixing a Car](https://dev.to/codebyblazej/from-wrenches-to-code-why-learning-to-code-is-like-fixing-a-car-508o)
-- [Convert LabelMe Annotations to YOLO Format with labelme-to-yolo](https://dev.to/tlaloces/convert-labelme-annotations-to-yolo-format-with-labelme-to-yolo-3if7)
-- [Introduce Object Orientation](https://dev.to/khanh_huypham_06835e1ccd/chaper-3-object-orientation-4acg)
-- [I&#39;m a senior Software Engineer](https://dev.to/philip_luther_5d14ee96b5c/im-a-senior-software-engineer-1923)
-- [Converting date by user time zone in &quot;NestJS&quot;, and entering and displaying date in &quot;Angular&quot;](https://dev.to/endykaufman/converting-date-by-user-time-zone-in-nestjs-and-entering-and-displaying-date-in-angular-2195)
+- [ScrapeMate: Effortlessly Extract Data from Any Website, Even with Infinite Scroll and Complex Pagination](https://dev.to/sholajegede/scrapemate-effortlessly-extract-data-from-any-website-even-with-infinite-scroll-and-complex-5k7)
+- [Integrating Daytona into Your Spring Boot Bank Application](https://dev.to/harshsinghcs/integrating-daytona-into-your-spring-boot-bank-application-312o)
+- [Engineering with a product mindset](https://dev.to/scottharrisondev/engineering-with-a-product-mindset-14im)
+- [Kubernets Secret &lpar;2&rpar;](https://dev.to/cheedge_lee/kubernets-secret-2-20ec)
+- [How to change the Ubuntu password from the terminal](https://dev.to/joselatino/how-to-change-the-ubuntu-password-from-the-terminal-14jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
