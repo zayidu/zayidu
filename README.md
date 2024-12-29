@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;How twitter.com Redirects to x.com &lpar;The Magic Behind URL Forwarding&rpar;&#39;](https://dev.to/chintanpuggalok/how-twittercom-redirects-to-xcom-the-magic-behind-url-forwarding-4nep)
-- [Configuring AWS Vault with the Pass Backend for Secure Credential Management on Linux](https://dev.to/jajera/configuring-aws-vault-with-the-pass-backend-for-secure-credential-management-on-linux-1n1p)
-- [Quick debugging with gdb](https://dev.to/tallesl/quick-debugging-with-gdb-eio)
-- [Symfony Station Communiqué — 27 December 2024 — A look at Symfony, Drupal, PHP, and other programming news!](https://dev.to/reubenwalker64/symfony-station-communique-27-december-2024-a-look-at-symfony-drupal-php-and-other-5fgm)
-- [A Beginners Tutorial on Using Flexbox in CSS3 for Web Development](https://dev.to/brian_keary_16db3f9defbbe/a-beginners-tutorial-on-using-flexbox-in-css3-for-web-development-3h2k)
+- [Parsing command-line arguments in C](https://dev.to/tallesl/parsing-command-line-arguments-in-c-41ac)
+- [Choosing the Right Database: A Simplified Guide](https://dev.to/mohammad-reza-mahdiani/choosing-the-right-database-a-simplified-guide-30o0)
+- [Getting Started with Go and the Web: Hello, World!](https://dev.to/markmunyaka/getting-started-with-go-and-the-web-hello-world-nal)
+- [Ghostty 1.0: A Terminal Emulator Built for Speed, Features, and Native Integration](https://dev.to/dansasser/ghostty-10-a-terminal-emulator-built-for-speed-features-and-native-integration-22ng)
+- [Bright Data to Tackle AI Data Challenges](https://dev.to/ranjancse/bright-data-to-tackle-ai-data-challenges-1l7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
