@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Matanuska ADR 005 - Editor Operations](https://dev.to/jfhbrook/matanuska-adr-005-editor-operations-349a)
-- [WINTER SOLSTICE](https://dev.to/sakshi_agrawal_a84623730e/winter-solstice-3d05)
-- [Optimizing Performance using Efficient LINQ queries](https://dev.to/devesh_omar_b599bc4be3ee7/optimizing-performance-using-efficient-linq-queries-392f)
-- [Beyond Boundaries: Android Inter-Process Communication with AIDL](https://dev.to/sridharsubramani/beyond-boundaries-android-inter-process-communication-with-aidl-sridhar-subramaniam-301)
-- [PydanticAI: A Comprehensive Guide to Building Production-Ready AI Applications](https://dev.to/yashddesai/pydanticai-a-comprehensive-guide-to-building-production-ready-ai-applications-20me)
+- [I tried cline 3.0.0 and here is what happend](https://dev.to/dasheck0/i-tried-cline-300-and-here-is-what-happend-3dm5)
+- [Javascript Arrays: A Cheat Sheet for Developer](https://dev.to/voscanoa/javascript-arrays-a-cheat-sheet-for-developer-2d2k)
+- [Securing Laravel Reverb](https://dev.to/edgaras/securing-laravel-reverb-2nh3)
+- [Matrix code rain - in Rust](https://dev.to/admin1299/matrix-code-rain-in-rust-1fad)
+- [Simplifying In-App Purchases with RevenueCat](https://dev.to/akash_kaintura_7d91e21763/simplifying-in-app-purchases-with-revenuecat-3dkg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
