@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Resilient APIs: Mistakes I Made and How I Overcame Them](https://dev.to/sagar/building-resilient-apis-mistakes-i-made-and-how-i-overcame-them-2hjf)
-- [The Must-Have SEO Checklist for Developers For 2025](https://dev.to/thesohailjafri/the-must-have-seo-checklist-for-developers-192i)
-- [Java](https://dev.to/__6ecd4e/java-34e)
-- [Front-end Challenge](https://dev.to/ngshaikh/front-end-challenge-252n)
-- [Flogon Galaxy](https://dev.to/pengeszikra/flogon-galaxy-2if2)
+- [How to Protect Your FiveM Server from DDoS Attacks](https://dev.to/davidjonson/how-to-protect-your-fivem-server-from-ddos-attacks-33id)
+- [Trading Signal from Sentiment Analysis using Bright Data API](https://dev.to/fahminlb33/trading-signal-from-sentiment-analysis-using-bright-data-api-4nci)
+- [Optimizing Query Performance in Django with PostgreSQL: A Case Study](https://dev.to/priya01/optimizing-query-performance-in-django-with-postgresql-a-case-study-4om3)
+- [Services in Kubernetes](https://dev.to/jayesh0706/services-in-kubernetes-3h6m)
+- [My &lpar;highly caffeinated&rpar; journey to unlock the hidden knowledge of AI.](https://dev.to/the_tea_drinker/my-highly-caffeinated-journey-to-unlock-the-hidden-knowledge-of-ai-27fc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
