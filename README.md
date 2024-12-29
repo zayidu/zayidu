@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshooting HTTP/3 QUIC Reverse Proxy for Chunked Uploads to S3 Pre-Signed URLs](https://dev.to/vikram_parihar/troubleshooting-http3-quic-reverse-proxy-for-chunked-uploads-to-s3-pre-signed-urls-10ge)
-- [Resonant Collinearity](https://dev.to/rmion/resonant-collinearity-3m5m)
-- [Parsing command-line arguments in C](https://dev.to/tallesl/parsing-command-line-arguments-in-c-41ac)
-- [Choosing the Right Database: A Simplified Guide](https://dev.to/mohammad-reza-mahdiani/choosing-the-right-database-a-simplified-guide-30o0)
-- [Getting Started with Go and the Web: Hello, World!](https://dev.to/markmunyaka/getting-started-with-go-and-the-web-hello-world-nal)
+- [Prisma ORM: Revolutionizing Database Interactions](https://dev.to/austinwdigital/prisma-orm-revolutionizing-database-interactions-3860)
+- [Js in bits - 11.1&lpar;Logical Operators&rpar;](https://dev.to/avinashd10/js-in-bits-11logical-operators-2210)
+- [How to Run Group Policy Editor as Administrator on Windows 11?](https://dev.to/winsides/how-to-run-group-policy-editor-as-administrator-on-windows-11-4ji5)
+- [Hashing, DSA Complete Syllabus](https://dev.to/harshm03/hashing-dsa-complete-syllabus-35pk)
+- [Graphs, DSA Complete Syllabus](https://dev.to/harshm03/graphs-dsa-complete-syllabus-mfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
