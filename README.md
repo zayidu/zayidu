@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make the best of a slow machine running on limited resources with a Windows environment as a Java Engineer](https://dev.to/jofisaes/how-to-make-the-best-of-a-slow-machine-running-on-limited-resources-with-a-windows-environment-as-a-30gn)
-- [Task 1&lpar;28/12&rpar;](https://dev.to/pavithra_saravanan_2/task-2812-59nl)
-- [Creating Typescript app with decorator-based dependency injection 💉](https://dev.to/9zemian5/creating-typescript-app-with-decorator-based-dependency-injection-9fj)
-- [[Boost]](https://dev.to/marcuskohlberg/-2o74)
-- [Js in bits - 12.2&lpar;Nullish Colaescing&rpar;](https://dev.to/avinashd10/js-in-bits-12nullish-colaescing-o9o)
+- [Matanuska ADR 005 - Editor Operations](https://dev.to/jfhbrook/matanuska-adr-005-editor-operations-349a)
+- [WINTER SOLSTICE](https://dev.to/sakshi_agrawal_a84623730e/winter-solstice-3d05)
+- [Optimizing Performance using Efficient LINQ queries](https://dev.to/devesh_omar_b599bc4be3ee7/optimizing-performance-using-efficient-linq-queries-392f)
+- [Beyond Boundaries: Android Inter-Process Communication with AIDL](https://dev.to/sridharsubramani/beyond-boundaries-android-inter-process-communication-with-aidl-sridhar-subramaniam-301)
+- [PydanticAI: A Comprehensive Guide to Building Production-Ready AI Applications](https://dev.to/yashddesai/pydanticai-a-comprehensive-guide-to-building-production-ready-ai-applications-20me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
