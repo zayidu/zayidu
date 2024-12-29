@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance Website Security: Prevent Session Fixation in Laravel](https://dev.to/pentest_testing_corp/enhance-website-security-prevent-session-fixation-in-laravel-fke)
-- [The Ultimate Guide to iOS Development: Enum &lpar;Part 8&rpar;](https://dev.to/abdevhub/the-ultimate-guide-to-ios-development-enum-part-8-3k2b)
-- [Гайд на первый пет-проект](https://dev.to/dmkjfs/gaid-na-piervyi-piet-proiekt-14ib)
-- [How to Implement an Auto-Reply System Using EmailJS in Your React Project](https://dev.to/ryoichihomma/how-to-implement-an-auto-reply-system-using-emailjs-in-your-react-project-4p70)
-- [High Availability Database Architecture on AWS: A Deep Dive](https://dev.to/gachokahassan/high-availability-database-architecture-on-aws-a-deep-dive-587h)
+- [Building Resilient APIs: Mistakes I Made and How I Overcame Them](https://dev.to/sagar/building-resilient-apis-mistakes-i-made-and-how-i-overcame-them-2hjf)
+- [The Must-Have SEO Checklist for Developers For 2025](https://dev.to/thesohailjafri/the-must-have-seo-checklist-for-developers-192i)
+- [Java](https://dev.to/__6ecd4e/java-34e)
+- [Front-end Challenge](https://dev.to/ngshaikh/front-end-challenge-252n)
+- [Flogon Galaxy](https://dev.to/pengeszikra/flogon-galaxy-2if2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
