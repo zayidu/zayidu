@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing Data Insights: Harnessing Amazon QuickSight Q&#39;s Generative BI for Transformative Analytics](https://dev.to/neeraj_iyer_980804515a5da/unleashing-data-insights-harnessing-amazon-quicksight-qs-generative-bi-for-transformative-18lo)
-- [Artigos sobre CSS que explodiram minha cabeça em 2024](https://dev.to/lixeletto/artigos-sobre-css-que-explodiram-minha-cabeca-em-2024-1e8m)
-- [How This SCSS Project Stays Organized Starting from a Map](https://dev.to/lovestaco/how-this-scss-project-stays-organized-starting-from-a-map-1g2e)
-- [How This SCSS Project Stays Organized Starting from a Map](https://dev.to/lovestaco/how-this-scss-project-stays-organized-starting-from-a-map-3phb)
-- [Make the zsh Prompt Go Faster](https://dev.to/terminaldweller/make-the-zsh-prompt-go-faster-5hal)
+- [Start Simple: A Beginner&#39;s Guide to Using Notion Templates](https://dev.to/resource_bunk_1077cab07da/start-simple-a-beginners-guide-to-using-notion-templates-118c)
+- [Keyword Arguments in C++/C](https://dev.to/prabhu-yu/keyword-arguments-in-cc-14f1)
+- [I added networking standards to my custom kernel!](https://dev.to/kernux_/i-added-networking-standards-to-my-custom-kernel-3a95)
+- [#15 Enhancing User Experience with Server Actions in Next.js 15🚀✨](https://dev.to/sahilshityalkar/15-enhancing-user-experience-with-server-actions-in-nextjs-15-5dpn)
+- [Creating a .NET Tool and Publishing it from GitHub](https://dev.to/dejandjenic/creating-a-net-tool-and-publishing-it-from-github-4b4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
