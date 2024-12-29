@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing StudyMate: Your AI-Powered Study Companion for Enhanced Productivity](https://dev.to/codemintah/introducing-studymate-your-ai-powered-study-companion-for-enhanced-productivity-28bc)
-- [From Novice to Navigator: A Deep Dive into Security with Wazuh](https://dev.to/ankit_607559377fe046d5f64/from-novice-to-navigator-a-deep-dive-into-security-with-wazuh-m4)
-- [Part 4 is FINALLY out!!! come check and please leave a like/comment!! thank you so much](https://dev.to/lorebrada00/part-4-is-finally-out-come-check-and-please-leave-a-likecomment-thank-you-so-much-34ad)
-- [Mastering Essential Software Architecture Patterns: A Comprehensive Guide🛠️, Part 4](https://dev.to/cortexflow/mastering-essential-software-architecture-patterns-a-comprehensive-guide-part-4-4ee)
-- [New Year&#39;s Resolutions for Software Engineers](https://dev.to/smmd/new-years-resolutions-for-software-engineers-4243)
+- [&#39;How twitter.com Redirects to x.com &lpar;The Magic Behind URL Forwarding&rpar;&#39;](https://dev.to/chintanpuggalok/how-twittercom-redirects-to-xcom-the-magic-behind-url-forwarding-4nep)
+- [Configuring AWS Vault with the Pass Backend for Secure Credential Management on Linux](https://dev.to/jajera/configuring-aws-vault-with-the-pass-backend-for-secure-credential-management-on-linux-1n1p)
+- [Quick debugging with gdb](https://dev.to/tallesl/quick-debugging-with-gdb-eio)
+- [Symfony Station Communiqué — 27 December 2024 — A look at Symfony, Drupal, PHP, and other programming news!](https://dev.to/reubenwalker64/symfony-station-communique-27-december-2024-a-look-at-symfony-drupal-php-and-other-5fgm)
+- [A Beginners Tutorial on Using Flexbox in CSS3 for Web Development](https://dev.to/brian_keary_16db3f9defbbe/a-beginners-tutorial-on-using-flexbox-in-css3-for-web-development-3h2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
