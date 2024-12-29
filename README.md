@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Prisma ORM: Revolutionizing Database Interactions](https://dev.to/austinwdigital/prisma-orm-revolutionizing-database-interactions-3860)
-- [Js in bits - 11.1&lpar;Logical Operators&rpar;](https://dev.to/avinashd10/js-in-bits-11logical-operators-2210)
-- [How to Run Group Policy Editor as Administrator on Windows 11?](https://dev.to/winsides/how-to-run-group-policy-editor-as-administrator-on-windows-11-4ji5)
-- [Hashing, DSA Complete Syllabus](https://dev.to/harshm03/hashing-dsa-complete-syllabus-35pk)
-- [Graphs, DSA Complete Syllabus](https://dev.to/harshm03/graphs-dsa-complete-syllabus-mfc)
+- [Day 03: Learning JavaScript APIs: Page Visibility API](https://dev.to/spruceemma/day-03-learning-javascript-apis-page-visibility-api-58m4)
+- [Js in bits - 11.5&lpar;Logical Operators&rpar;](https://dev.to/avinashd10/js-in-bits-115logical-operators-489m)
+- [ML Engineer RoadMap](https://dev.to/engrmumtazali0112/ml-engineer-roadmap-31ek)
+- [Supercharge Problem Solving TRIZ Methodologies with AI on Jeda.ai&#39;s Multi-LLM AI Canvas](https://dev.to/ishmam_jahan_4269b6f13ba5/supercharge-problem-solving-triz-methodologies-with-ai-on-jedaais-multi-llm-ai-canvas-53k4)
+- [The Open Source Directory Boilerplate](https://dev.to/javayhu/the-open-source-directory-boilerplate-3mk2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
