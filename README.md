@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 03: Learning JavaScript APIs: Page Visibility API](https://dev.to/spruceemma/day-03-learning-javascript-apis-page-visibility-api-58m4)
-- [Js in bits - 11.5&lpar;Logical Operators&rpar;](https://dev.to/avinashd10/js-in-bits-115logical-operators-489m)
-- [ML Engineer RoadMap](https://dev.to/engrmumtazali0112/ml-engineer-roadmap-31ek)
-- [Supercharge Problem Solving TRIZ Methodologies with AI on Jeda.ai&#39;s Multi-LLM AI Canvas](https://dev.to/ishmam_jahan_4269b6f13ba5/supercharge-problem-solving-triz-methodologies-with-ai-on-jedaais-multi-llm-ai-canvas-53k4)
-- [The Open Source Directory Boilerplate](https://dev.to/javayhu/the-open-source-directory-boilerplate-3mk2)
+- [CaptureTheGift: A Fun, Santa-Themed Game](https://dev.to/programmerraja/capturethegift-a-fun-santa-themed-game-486j)
+- [Prismic Next.js - Headless Content Management](https://dev.to/lior_amsalem_3879371237f6/prismic-nextjs-headless-content-management-52dm)
+- [CHAPTER 1 : Reliable, Scalable, and Maintainable Applications](https://dev.to/angdecoder/chapter-1-reliable-scalable-and-maintainable-applications-28a1)
+- [A beginner&#39;s guide to the Photomaker model by Tencentarc on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-photomaker-model-by-tencentarc-on-replicate-2mf1)
+- [Mathematical Proof Shows Why Evolution Needs Two Parents for Complex Problem-Solving](https://dev.to/mikeyoung44/mathematical-proof-shows-why-evolution-needs-two-parents-for-complex-problem-solving-42f5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
