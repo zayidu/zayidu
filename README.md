@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CaptureTheGift: A Fun, Santa-Themed Game](https://dev.to/programmerraja/capturethegift-a-fun-santa-themed-game-486j)
-- [Prismic Next.js - Headless Content Management](https://dev.to/lior_amsalem_3879371237f6/prismic-nextjs-headless-content-management-52dm)
-- [CHAPTER 1 : Reliable, Scalable, and Maintainable Applications](https://dev.to/angdecoder/chapter-1-reliable-scalable-and-maintainable-applications-28a1)
-- [A beginner&#39;s guide to the Photomaker model by Tencentarc on Replicate](https://dev.to/mikeyoung44/a-beginners-guide-to-the-photomaker-model-by-tencentarc-on-replicate-2mf1)
-- [Mathematical Proof Shows Why Evolution Needs Two Parents for Complex Problem-Solving](https://dev.to/mikeyoung44/mathematical-proof-shows-why-evolution-needs-two-parents-for-complex-problem-solving-42f5)
+- [Enhance Website Security: Prevent Session Fixation in Laravel](https://dev.to/pentest_testing_corp/enhance-website-security-prevent-session-fixation-in-laravel-fke)
+- [The Ultimate Guide to iOS Development: Enum &lpar;Part 8&rpar;](https://dev.to/abdevhub/the-ultimate-guide-to-ios-development-enum-part-8-3k2b)
+- [Гайд на первый пет-проект](https://dev.to/dmkjfs/gaid-na-piervyi-piet-proiekt-14ib)
+- [How to Implement an Auto-Reply System Using EmailJS in Your React Project](https://dev.to/ryoichihomma/how-to-implement-an-auto-reply-system-using-emailjs-in-your-react-project-4p70)
+- [High Availability Database Architecture on AWS: A Deep Dive](https://dev.to/gachokahassan/high-availability-database-architecture-on-aws-a-deep-dive-587h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
