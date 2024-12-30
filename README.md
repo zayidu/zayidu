@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to create a basic music visualizer with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/learn-how-to-create-a-basic-music-visualizer-with-tailwind-css-and-javascript-32ia)
-- [The Guide to Fix the Externally-Managed-Environment Error](https://dev.to/swiftproxy_residential/the-guide-to-fix-the-externally-managed-environment-error-ce6)
-- [CSS ART: December](https://dev.to/danish0111/css-art-december-151l)
-- [What Causes Facebook Session Expired Errors and How to Fix Them](https://dev.to/swiftproxy_residential/what-causes-facebook-session-expired-errors-and-how-to-fix-them-25g5)
-- [The Role of AI in Chemical Engineering](https://dev.to/chemenggcalc/the-role-of-ai-in-chemical-engineering-20b1)
+- [After Excel, What Data Analytics Tool Do We Need](https://dev.to/esproc_spl/after-excel-what-data-analytics-tool-do-we-need-39h1)
+- [Limitations of React JS](https://dev.to/malikhaziq/limitations-of-react-js-28c5)
+- [Building a Framework for Dynamic Content Handling in a Mobile App](https://dev.to/devaaai/building-a-framework-for-dynamic-content-handling-in-a-mobile-app-d68)
+- [Integrating Blockchain Technology with NetSuite for Supply Chain Security](https://dev.to/emphorasoft_70e7d6ed63b31/integrating-blockchain-technology-with-netsuite-for-supply-chain-security-ifn)
+- [🔥 Never Wait for Backend Again! 3 Stupidly Simple Steps That Changed My Frontend Life](https://dev.to/geekvergil/never-wait-for-backend-again-3-stupidly-simple-steps-that-changed-my-frontend-life-1gh6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
