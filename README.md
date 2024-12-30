@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Glam Up My Markup: Winter Solstice](https://dev.to/bhumika_patil_e5d1f757113/glam-up-my-markup-winter-solstice-43ad)
-- [Glam Up My Markup: Winter Solstice](https://dev.to/bhumika_patil_e5d1f757113/glam-up-my-markup-winter-solstice-2hk)
-- [Advent of Code - It&#39;s More Than a Competition](https://dev.to/grantdotdev/advent-of-code-its-more-than-a-competition-26e7)
-- [Data types and varialbles](https://dev.to/coder_d295cd12743e7d146c7/data-types-and-varialbles-3kb0)
-- [We are lazy and AI is the solution](https://dev.to/paulscoder/we-are-lazy-and-ai-is-the-solution-296o)
+- [Will Your Marketing Email End Up in Spam? We Built a Tool to Find Out](https://dev.to/leapcell/will-your-marketing-email-end-up-in-spam-we-built-a-tool-to-find-out-4om4)
+- [Enhancing Event Listener Reusability in JavaScript](https://dev.to/aubreywhitford/enhancing-event-listener-reusability-in-javascript-1dpb)
+- [2024: Career Review](https://dev.to/raymathewdeveloper/2024-career-review-1p4)
+- [Building a Privacy-First Coding Activity Tracker for VS Code](https://dev.to/ernivani/building-a-privacy-first-coding-activity-tracker-for-vs-code-15g)
+- [The Rising Tide of Platform Engineering: Reshaping Security in Modern DevOps](https://dev.to/nolunchbreaks_22/the-rising-tide-of-platform-engineering-reshaping-security-in-modern-devops-3ep5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
