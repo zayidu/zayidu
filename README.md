@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌱 Responsive Planto Ecommerce Website with React, Vite, TypeScript &amp; Tailwind CSS 🌱](https://dev.to/seyma/responsive-planto-ecommerce-website-with-react-vite-typescript-tailwind-css-3kld)
-- [kkTerminal —— A terminal for Web SSH connection](https://dev.to/zyyzyykk/kkterminal-a-terminal-for-web-ssh-connection-3c65)
-- [10 Reasons to Upgrade to .NET 9](https://dev.to/antonmartyniuk/10-reasons-to-upgrade-to-net-9-4aml)
-- [Deploying an Application Using CloudFormation with CDN Integration](https://dev.to/azeemah/deploying-an-application-using-cloudformation-with-cdn-integration-36pe)
-- [Embedding Q Business into existing applications](https://dev.to/aws-builders/embedding-q-business-into-existing-applications-3nii)
+- [Programming: Three Lessons Learned in 2024](https://dev.to/garciadiazjaime/programming-three-lessons-learned-in-2024-3ik9)
+- [❄️ Dec 30’s, Best 50+ GitHub Repositories – The Last Great Finds of 2024](https://dev.to/gittech/dec-30s-best-50-github-repositories-the-last-great-finds-of-2024-6am)
+- [Introduction to Manual Testing](https://dev.to/sowmithra030398/introduction-to-manual-testing-2g1j)
+- [Wait, are we just handing over system access to the AI agents?](https://dev.to/techgirl1908/wait-are-we-just-handing-over-system-access-to-the-ai-agents-3g5p)
+- [Calling all Replit users!](https://dev.to/mileswk/calling-all-replit-users-3l72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
