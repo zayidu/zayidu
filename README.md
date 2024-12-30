@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming: Three Lessons Learned in 2024](https://dev.to/garciadiazjaime/programming-three-lessons-learned-in-2024-3ik9)
-- [❄️ Dec 30’s, Best 50+ GitHub Repositories – The Last Great Finds of 2024](https://dev.to/gittech/dec-30s-best-50-github-repositories-the-last-great-finds-of-2024-6am)
-- [Introduction to Manual Testing](https://dev.to/sowmithra030398/introduction-to-manual-testing-2g1j)
-- [Wait, are we just handing over system access to the AI agents?](https://dev.to/techgirl1908/wait-are-we-just-handing-over-system-access-to-the-ai-agents-3g5p)
-- [Calling all Replit users!](https://dev.to/mileswk/calling-all-replit-users-3l72)
+- [🔥 30 Brand-New Web Development Reads Dropping Right Now &lpar;Dec 30, 2024&rpar;](https://dev.to/dev-resources/30-brand-new-web-development-reads-dropping-right-now-dec-30-2024-39f9)
+- [The Ultimate Guide to HTML: From Fundamentals to Advanced Techniques](https://dev.to/bhabani_sankar/the-ultimate-guide-to-html-from-fundamentals-to-advanced-techniques-109o)
+- [Understanding AWS IAM: My Learning Journey as a Cloud Engineer 🚀](https://dev.to/devopsbysetchuko/understanding-aws-iam-my-learning-journey-as-a-cloud-engineer-2ecp)
+- [Mastering Ruby on Rails Best Practices for Efficient Development in 2024](https://dev.to/jetthoughts/mastering-ruby-on-rails-best-practices-for-efficient-development-in-2024-2mm)
+- [Amazon Aurora DSQL: The New Era of Distributed SQL](https://dev.to/aws-builders/amazon-aurora-dsql-the-new-era-of-distributed-sql-4775)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
