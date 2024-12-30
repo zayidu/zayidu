@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2466. Count Ways To Build Good Strings](https://dev.to/mdarifulhaque/2466-count-ways-to-build-good-strings-2de5)
-- [needed this for an idea I&#39;m building want to to combine it with masonry type arrangement](https://dev.to/twofizzy/needed-this-for-an-idea-im-buildingwant-to-to-combine-it-with-masonry-type-arrangement-5c96)
-- [&quot;How to Build a Real-Time Chat Application Using TypeScript and Socket.io&quot;](https://dev.to/vsfarooqkhan/how-to-build-a-real-time-chat-application-using-typescript-and-socketio-oad)
-- [Setting Up an S3 Backend for Terraform State Management](https://dev.to/j_alex_cloud_engineer_devops/setting-up-an-s3-backend-for-terraform-state-management-j75)
-- [Self-Healing Test Automation: Leveraging AI for Resilient Testing](https://dev.to/arun_pal_3ce740a137cf15ad/self-healing-test-automation-leveraging-ai-for-resilient-testing-56cg)
+- [If You&#39;re Looking for Red Flags Once You&#39;re in a Job, It&#39;s Too Late](https://dev.to/canro91/if-youre-looking-for-red-flags-once-youre-in-a-job-its-too-late-5cbm)
+- [Unlocking the Power of GraphQL: The Future of API Development](https://dev.to/austinwdigital/unlocking-the-power-of-graphql-the-future-of-api-development-3p0f)
+- [Another way to check palindromes](https://dev.to/eronalves1996/another-way-to-check-palindromes-1f3d)
+- [Can AI Really Replace Dev Jobs? Let’s Talk About It](https://dev.to/harsh_suthar_5a9a14772609/can-ai-really-replace-dev-jobs-lets-talk-about-it-f75)
+- [Winter Solstice Wonders: A CSS Art Celebration](https://dev.to/kartiksinghhh03/winter-solstice-wonders-a-css-art-celebration-1apk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
