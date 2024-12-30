@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Revolutionizing Software Testing](https://dev.to/vaibhavkuls/how-ai-is-revolutionizing-software-testing-1n2h)
-- [¿Qué son los enums en Java?](https://dev.to/asjordi/que-son-los-enums-en-java-37l5)
-- [Converting Day, Hour, Min, Sec](https://dev.to/amit_kshirsagar_237518360/converting-day-hour-min-sec-16bj)
-- [Introduction to Cloud computing.](https://dev.to/nofiu_kazeemolakunle_e13/introduction-to-cloud-computing-4o0)
-- [Ultimate guide to Flutter Keys: Optimizing Your Flutter App&#39;s Performance](https://dev.to/princetomarappdev/ultimate-guide-to-flutter-keys-optimizing-your-flutter-apps-performance-3ch1)
+- [Top 10 strategic Technology Trends for 2025](https://dev.to/balagmadhu/top-10-strategic-technology-trends-for-2025-28ib)
+- [Building a Serverless Podcast Workflow: Adventures with AI](https://dev.to/aws-builders/building-a-serverless-podcast-workflow-adventures-with-ai-d0j)
+- [Fascinating Facts About Google: The Giant of the Tech World](https://dev.to/hana_sato/fascinating-facts-about-google-the-giant-of-the-tech-world-36h5)
+- [Meme Monday](https://dev.to/ben/meme-monday-2hf)
+- [Tips For Effectively Managing Compliance Documents](https://dev.to/lucas_bergman/tips-for-effectively-managing-compliance-documents-fdo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
