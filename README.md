@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://dev.to/ben/test-5d29)
-- [To implement CI/CD for DevOps](https://dev.to/razoropscicd/to-implement-cicd-for-devops-5eal)
-- [Getting Started with Go and the Web: Deploy to Railway](https://dev.to/markmunyaka/getting-started-with-go-and-the-web-deploy-to-railway-57l5)
-- [React.js : Choosing the State Structure](https://dev.to/sonaykara/reactjs-choosing-the-state-structure-5gnp)
-- [I created a cool SwiftUI library!](https://dev.to/nikita_nikitin_56acea4a06/i-created-a-cool-swiftui-library-3d86)
+- [💬 How Intent-Driven Interfaces Will Transform the Way Users Interact with Software](https://dev.to/louis-dupont/how-intent-driven-interfaces-will-transform-the-way-users-interact-with-software-3fdo)
+- [Enhancing Side Effects in Angular with NgRx&#39;s signalMethod](https://dev.to/danielsogl/enhancing-side-effects-in-angular-with-ngrxs-signalmethod-ho9)
+- [linspace in PyTorch](https://dev.to/hyperkai/linspace-in-pytorch-bfo)
+- [arange in PyTorch](https://dev.to/hyperkai/arange-in-pytorch-20gj)
+- [Deref Coercion: Rust’s Polite Butler](https://dev.to/mdabir1203/deref-coercion-rusts-polite-butler-260m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
