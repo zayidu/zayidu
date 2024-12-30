@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Framework LLM Tool Integration with AG2](https://dev.to/ag2ai/cross-framework-llm-tool-integration-with-ag2-jlp)
-- [Deploying an AI Spam Detection App on AWS EC2](https://dev.to/cloudwithanne/deploying-an-ai-spam-detection-app-on-aws-ec2-1dg7)
-- [last year i build dev.to wrapped, this year its dev.to roast! Only for the brave :&rpar;](https://dev.to/code42cate/last-year-i-build-devto-wrapped-this-year-its-devto-roast-only-for-the-brave--3e80)
-- [2024 dev.to roast 🔥](https://dev.to/code42cate/2024-devto-roast-474)
-- [366 days of launch weeks](https://dev.to/launchweekdev/2024-wrapped-1432)
+- [🌱 Responsive Planto Ecommerce Website with React, Vite, TypeScript &amp; Tailwind CSS 🌱](https://dev.to/seyma/responsive-planto-ecommerce-website-with-react-vite-typescript-tailwind-css-3kld)
+- [kkTerminal —— A terminal for Web SSH connection](https://dev.to/zyyzyykk/kkterminal-a-terminal-for-web-ssh-connection-3c65)
+- [10 Reasons to Upgrade to .NET 9](https://dev.to/antonmartyniuk/10-reasons-to-upgrade-to-net-9-4aml)
+- [Deploying an Application Using CloudFormation with CDN Integration](https://dev.to/azeemah/deploying-an-application-using-cloudformation-with-cdn-integration-36pe)
+- [Embedding Q Business into existing applications](https://dev.to/aws-builders/embedding-q-business-into-existing-applications-3nii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
