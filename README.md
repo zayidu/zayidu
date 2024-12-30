@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Track changes in API Management using Event Grids](https://dev.to/ruturajmaggirwar/track-changes-in-api-management-using-event-grids-2omf)
-- [Go Generics: A Deep Dive](https://dev.to/leapcell/go-generics-a-deep-dive-1one)
-- [Breaking into Europe: How Portugal Became Our Gateway to Success](https://dev.to/procoders/breaking-into-europe-how-portugal-became-our-gateway-to-success-3d3c)
-- [Rust in Embedded Systems: Revolutionizing Safety and Performance](https://dev.to/aaravjoshi/rust-in-embedded-systems-revolutionizing-safety-and-performance-4gi2)
-- [Refresh Token in Angular](https://dev.to/jaypansuriya/refresh-token-in-angular-143l)
+- [JeKa: The Simplest Way to Publish on Maven Central](https://dev.to/djeang/jeka-the-simplest-way-to-publish-on-maven-central-f14)
+- [Using Grammarly in Dev.to](https://dev.to/mjoycemilburn/using-grammarly-in-devto-4cd5)
+- [How to Remove the Noindex Tag in WordPress](https://dev.to/zyodigitals/how-to-remove-the-noindex-tag-in-wordpress-pc6)
+- [How to Fix a Hacked WordPress Site: A Beginner&#39;s Guide](https://dev.to/vega12/how-to-fix-a-hacked-wordpress-site-a-beginners-guide-484g)
+- [2024 - Ultimate guide to LLM analysis using NLP standalone](https://dev.to/10kvclockman_e437cfe2a8e8/2024-ultimate-guide-to-llm-analysis-using-nlp-standalone-3mif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
