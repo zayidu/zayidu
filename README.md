@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 30 Brand-New Web Development Reads Dropping Right Now &lpar;Dec 30, 2024&rpar;](https://dev.to/dev-resources/30-brand-new-web-development-reads-dropping-right-now-dec-30-2024-39f9)
-- [The Ultimate Guide to HTML: From Fundamentals to Advanced Techniques](https://dev.to/bhabani_sankar/the-ultimate-guide-to-html-from-fundamentals-to-advanced-techniques-109o)
-- [Understanding AWS IAM: My Learning Journey as a Cloud Engineer 🚀](https://dev.to/devopsbysetchuko/understanding-aws-iam-my-learning-journey-as-a-cloud-engineer-2ecp)
-- [Mastering Ruby on Rails Best Practices for Efficient Development in 2024](https://dev.to/jetthoughts/mastering-ruby-on-rails-best-practices-for-efficient-development-in-2024-2mm)
-- [Amazon Aurora DSQL: The New Era of Distributed SQL](https://dev.to/aws-builders/amazon-aurora-dsql-the-new-era-of-distributed-sql-4775)
+- [Let&#39;s talk metaframeworks](https://dev.to/fyodorio/lets-talk-metaframeworks-2mkb)
+- [Continuous Feedback? That’s right! And we’re not talking about people management!](https://dev.to/hugodeaguiar/continuous-feedback-thats-right-and-were-not-talking-about-people-management-28m0)
+- [How to run Python script or other job in Docker container with CRON](https://dev.to/xinitd/how-to-run-python-script-or-other-job-in-docker-container-with-cron-2fb2)
+- [Hal9: Create and Share Generative Apps](https://dev.to/javier_luraschi_7c6f7512b/hal9-create-and-share-generative-apps-81h)
+- [Comparing different options for GitHub self-hosted runners](https://dev.to/psantosh/comparing-different-options-for-github-self-hosted-runners-2ifk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
