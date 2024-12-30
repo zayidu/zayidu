@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JeKa: The Simplest Way to Publish on Maven Central](https://dev.to/djeang/jeka-the-simplest-way-to-publish-on-maven-central-f14)
-- [Using Grammarly in Dev.to](https://dev.to/mjoycemilburn/using-grammarly-in-devto-4cd5)
-- [How to Remove the Noindex Tag in WordPress](https://dev.to/zyodigitals/how-to-remove-the-noindex-tag-in-wordpress-pc6)
-- [How to Fix a Hacked WordPress Site: A Beginner&#39;s Guide](https://dev.to/vega12/how-to-fix-a-hacked-wordpress-site-a-beginners-guide-484g)
-- [2024 - Ultimate guide to LLM analysis using NLP standalone](https://dev.to/10kvclockman_e437cfe2a8e8/2024-ultimate-guide-to-llm-analysis-using-nlp-standalone-3mif)
+- [Google reveals quantum computing chip Willow with ‘breakthrough’ achievements](https://dev.to/empiree/google-reveals-quantum-computing-chip-willow-with-breakthrough-achievements-4geh)
+- [LeetCode Challenge: 167. Two Sum II - Input Array Is Sorted - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-167-two-sum-ii-input-array-is-sorted-javascript-solution-19e0)
+- [A Fresh Start on Dev.to](https://dev.to/sanjeev_mansotra/a-fresh-start-on-devto-1768)
+- [Creating EC2 instances with pre-configured EFS &lpar;elastic file system &rpar; using Terraform modules](https://dev.to/huzaifamushfiq/creating-ec2-instances-with-pre-configured-efs-elastic-file-system-using-terraform-modules-101l)
+- [12 Best Practices for Efficient Scaling in Kubernetes: A Comprehensive Guide](https://dev.to/matiar_rahman31/12-best-practices-for-efficient-scaling-in-kubernetes-a-comprehensive-guide-29ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
