@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rails Testing for Financial Operations](https://dev.to/sulmanweb/rails-testing-for-financial-operations-a90)
-- [My biggest problem in writing about tech is tech](https://dev.to/nicholassynovic/the-biggest-problem-in-writing-about-tech-is-tech-1kmj)
-- [Angular Interview Questions](https://dev.to/vivek1030/angular-interview-questions-4pik)
-- [My Postpartum Struggle: How Traditional Chinese Medicine Helped Relieve My Back Pain](https://dev.to/bear_lai_a8a333ed6d7b72e0/my-postpartum-struggle-how-traditional-chinese-medicine-helped-relieve-my-back-pain-184n)
-- [How to Run Device Manager as Administrator on Windows 11? 4 Best Ways!](https://dev.to/winsides/how-to-run-device-manager-as-administrator-on-windows-11-4-best-ways-3jc2)
+- [Mastering CSS in 2025: The Definitive CSS Guide for Everyone | Part-1](https://dev.to/govindvyas/mastering-css-in-2025-the-definitive-css-guide-for-everyone-part-1-2jb7)
+- [Estile: AI-Driven Clothing Recommendations Enhanced by Bright Data Scraping](https://dev.to/ericc/estile-ai-driven-clothing-recommendations-enhanced-by-bright-data-scraping-43fc)
+- [Part 17: Building Your Own AI - AI for Edge Devices and IoT](https://dev.to/trixsec/part-17-building-your-own-ai-ai-for-edge-devices-and-iot-58fj)
+- [Sync Joplin Clients with Self-Hosted Server](https://dev.to/blacknight318/sync-joplin-clients-with-self-hosted-server-1a7e)
+- [December Edition, Glam Up My Markup: Winter Solstice](https://dev.to/mlloyd/december-edition-glam-up-my-markup-winter-solstice-4d85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
