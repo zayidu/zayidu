@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Speeding Up Development with AI and Cline](https://dev.to/shannonlal/speeding-up-development-with-ai-and-cline-3eie)
-- [AI + Data Weekly 169 for 23 December 2024](https://dev.to/timothy_spann_a41a639e47c/ai-data-weekly-169-for-23-december-2024-411i)
-- [Fixing Multiple If-Else problem with Chain of Responsibility Pattern](https://dev.to/devesh_omar_b599bc4be3ee7/fixing-multiple-if-else-problem-with-chain-of-responsibility-pattern-1kmi)
-- [Setting Up a Home Media Server with Docker: A Beginner&#39;s Guide](https://dev.to/imzihad21/setting-up-a-home-media-server-with-docker-a-beginners-guide-296l)
-- [What is Kubernetes used for?](https://dev.to/kubefeeds/what-is-kubernetes-used-for-5h31)
+- [Cross-Framework LLM Tool Integration with AG2](https://dev.to/ag2ai/cross-framework-llm-tool-integration-with-ag2-jlp)
+- [Deploying an AI Spam Detection App on AWS EC2](https://dev.to/cloudwithanne/deploying-an-ai-spam-detection-app-on-aws-ec2-1dg7)
+- [last year i build dev.to wrapped, this year its dev.to roast! Only for the brave :&rpar;](https://dev.to/code42cate/last-year-i-build-devto-wrapped-this-year-its-devto-roast-only-for-the-brave--3e80)
+- [2024 dev.to roast 🔥](https://dev.to/code42cate/2024-devto-roast-474)
+- [366 days of launch weeks](https://dev.to/launchweekdev/2024-wrapped-1432)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
