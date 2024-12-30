@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking back to move forward: lessons from life and code](https://dev.to/creowistech/looking-back-to-move-forward-lessons-from-life-and-code-2n4p)
-- [Compare prices across AliExpress, eBay, &amp; Amazon.](https://dev.to/sarahokolo/compare-prices-across-aliexpress-ebay-amazon-1alj)
-- [Introducing the Zod Schema Designer: A Visual Tool for Creating and Editing Zod Schemas](https://dev.to/bishoy_labib_31cd8d43e154/introducing-the-zod-schema-designer-a-visual-tool-for-creating-and-editing-zod-schemas-3fbe)
-- [Will Your Marketing Email End Up in Spam? We Built a Tool to Find Out](https://dev.to/leapcell/will-your-marketing-email-end-up-in-spam-we-built-a-tool-to-find-out-4om4)
-- [Enhancing Event Listener Reusability in JavaScript](https://dev.to/aubreywhitford/enhancing-event-listener-reusability-in-javascript-1dpb)
+- [2466. Count Ways To Build Good Strings](https://dev.to/mdarifulhaque/2466-count-ways-to-build-good-strings-2de5)
+- [needed this for an idea I&#39;m building want to to combine it with masonry type arrangement](https://dev.to/twofizzy/needed-this-for-an-idea-im-buildingwant-to-to-combine-it-with-masonry-type-arrangement-5c96)
+- [&quot;How to Build a Real-Time Chat Application Using TypeScript and Socket.io&quot;](https://dev.to/vsfarooqkhan/how-to-build-a-real-time-chat-application-using-typescript-and-socketio-oad)
+- [Setting Up an S3 Backend for Terraform State Management](https://dev.to/j_alex_cloud_engineer_devops/setting-up-an-s3-backend-for-terraform-state-management-j75)
+- [Self-Healing Test Automation: Leveraging AI for Resilient Testing](https://dev.to/arun_pal_3ce740a137cf15ad/self-healing-test-automation-leveraging-ai-for-resilient-testing-56cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
