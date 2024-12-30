@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [If You&#39;re Looking for Red Flags Once You&#39;re in a Job, It&#39;s Too Late](https://dev.to/canro91/if-youre-looking-for-red-flags-once-youre-in-a-job-its-too-late-5cbm)
-- [Unlocking the Power of GraphQL: The Future of API Development](https://dev.to/austinwdigital/unlocking-the-power-of-graphql-the-future-of-api-development-3p0f)
-- [Another way to check palindromes](https://dev.to/eronalves1996/another-way-to-check-palindromes-1f3d)
-- [Can AI Really Replace Dev Jobs? Let’s Talk About It](https://dev.to/harsh_suthar_5a9a14772609/can-ai-really-replace-dev-jobs-lets-talk-about-it-f75)
-- [Winter Solstice Wonders: A CSS Art Celebration](https://dev.to/kartiksinghhh03/winter-solstice-wonders-a-css-art-celebration-1apk)
+- [Rails Testing for Financial Operations](https://dev.to/sulmanweb/rails-testing-for-financial-operations-a90)
+- [My biggest problem in writing about tech is tech](https://dev.to/nicholassynovic/the-biggest-problem-in-writing-about-tech-is-tech-1kmj)
+- [Angular Interview Questions](https://dev.to/vivek1030/angular-interview-questions-4pik)
+- [My Postpartum Struggle: How Traditional Chinese Medicine Helped Relieve My Back Pain](https://dev.to/bear_lai_a8a333ed6d7b72e0/my-postpartum-struggle-how-traditional-chinese-medicine-helped-relieve-my-back-pain-184n)
+- [How to Run Device Manager as Administrator on Windows 11? 4 Best Ways!](https://dev.to/winsides/how-to-run-device-manager-as-administrator-on-windows-11-4-best-ways-3jc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
