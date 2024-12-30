@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering CSS in 2025: The Definitive CSS Guide for Everyone | Part-1](https://dev.to/govindvyas/mastering-css-in-2025-the-definitive-css-guide-for-everyone-part-1-2jb7)
-- [Estile: AI-Driven Clothing Recommendations Enhanced by Bright Data Scraping](https://dev.to/ericc/estile-ai-driven-clothing-recommendations-enhanced-by-bright-data-scraping-43fc)
-- [Part 17: Building Your Own AI - AI for Edge Devices and IoT](https://dev.to/trixsec/part-17-building-your-own-ai-ai-for-edge-devices-and-iot-58fj)
-- [Sync Joplin Clients with Self-Hosted Server](https://dev.to/blacknight318/sync-joplin-clients-with-self-hosted-server-1a7e)
-- [December Edition, Glam Up My Markup: Winter Solstice](https://dev.to/mlloyd/december-edition-glam-up-my-markup-winter-solstice-4d85)
+- [Learn how to create a basic music visualizer with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/learn-how-to-create-a-basic-music-visualizer-with-tailwind-css-and-javascript-32ia)
+- [The Guide to Fix the Externally-Managed-Environment Error](https://dev.to/swiftproxy_residential/the-guide-to-fix-the-externally-managed-environment-error-ce6)
+- [CSS ART: December](https://dev.to/danish0111/css-art-december-151l)
+- [What Causes Facebook Session Expired Errors and How to Fix Them](https://dev.to/swiftproxy_residential/what-causes-facebook-session-expired-errors-and-how-to-fix-them-25g5)
+- [The Role of AI in Chemical Engineering](https://dev.to/chemenggcalc/the-role-of-ai-in-chemical-engineering-20b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
