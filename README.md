@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [After Excel, What Data Analytics Tool Do We Need](https://dev.to/esproc_spl/after-excel-what-data-analytics-tool-do-we-need-39h1)
-- [Limitations of React JS](https://dev.to/malikhaziq/limitations-of-react-js-28c5)
-- [Building a Framework for Dynamic Content Handling in a Mobile App](https://dev.to/devaaai/building-a-framework-for-dynamic-content-handling-in-a-mobile-app-d68)
-- [Integrating Blockchain Technology with NetSuite for Supply Chain Security](https://dev.to/emphorasoft_70e7d6ed63b31/integrating-blockchain-technology-with-netsuite-for-supply-chain-security-ifn)
-- [🔥 Never Wait for Backend Again! 3 Stupidly Simple Steps That Changed My Frontend Life](https://dev.to/geekvergil/never-wait-for-backend-again-3-stupidly-simple-steps-that-changed-my-frontend-life-1gh6)
+- [Track changes in API Management using Event Grids](https://dev.to/ruturajmaggirwar/track-changes-in-api-management-using-event-grids-2omf)
+- [Go Generics: A Deep Dive](https://dev.to/leapcell/go-generics-a-deep-dive-1one)
+- [Breaking into Europe: How Portugal Became Our Gateway to Success](https://dev.to/procoders/breaking-into-europe-how-portugal-became-our-gateway-to-success-3d3c)
+- [Rust in Embedded Systems: Revolutionizing Safety and Performance](https://dev.to/aaravjoshi/rust-in-embedded-systems-revolutionizing-safety-and-performance-4gi2)
+- [Refresh Token in Angular](https://dev.to/jaypansuriya/refresh-token-in-angular-143l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
