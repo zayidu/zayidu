@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 strategic Technology Trends for 2025](https://dev.to/balagmadhu/top-10-strategic-technology-trends-for-2025-28ib)
-- [Building a Serverless Podcast Workflow: Adventures with AI](https://dev.to/aws-builders/building-a-serverless-podcast-workflow-adventures-with-ai-d0j)
-- [Fascinating Facts About Google: The Giant of the Tech World](https://dev.to/hana_sato/fascinating-facts-about-google-the-giant-of-the-tech-world-36h5)
-- [Meme Monday](https://dev.to/ben/meme-monday-2hf)
-- [Tips For Effectively Managing Compliance Documents](https://dev.to/lucas_bergman/tips-for-effectively-managing-compliance-documents-fdo)
+- [Speeding Up Development with AI and Cline](https://dev.to/shannonlal/speeding-up-development-with-ai-and-cline-3eie)
+- [AI + Data Weekly 169 for 23 December 2024](https://dev.to/timothy_spann_a41a639e47c/ai-data-weekly-169-for-23-december-2024-411i)
+- [Fixing Multiple If-Else problem with Chain of Responsibility Pattern](https://dev.to/devesh_omar_b599bc4be3ee7/fixing-multiple-if-else-problem-with-chain-of-responsibility-pattern-1kmi)
+- [Setting Up a Home Media Server with Docker: A Beginner&#39;s Guide](https://dev.to/imzihad21/setting-up-a-home-media-server-with-docker-a-beginners-guide-296l)
+- [What is Kubernetes used for?](https://dev.to/kubefeeds/what-is-kubernetes-used-for-5h31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
