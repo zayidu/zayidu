@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking back to move forward: lessons from life and code](https://dev.to/creowistech/looking-back-to-move-forward-lessons-from-life-and-code-2n4p)
 - [Compare prices across AliExpress, eBay, &amp; Amazon.](https://dev.to/sarahokolo/compare-prices-across-aliexpress-ebay-amazon-1alj)
+- [Introducing the Zod Schema Designer: A Visual Tool for Creating and Editing Zod Schemas](https://dev.to/bishoy_labib_31cd8d43e154/introducing-the-zod-schema-designer-a-visual-tool-for-creating-and-editing-zod-schemas-3fbe)
 - [Will Your Marketing Email End Up in Spam? We Built a Tool to Find Out](https://dev.to/leapcell/will-your-marketing-email-end-up-in-spam-we-built-a-tool-to-find-out-4om4)
 - [Enhancing Event Listener Reusability in JavaScript](https://dev.to/aubreywhitford/enhancing-event-listener-reusability-in-javascript-1dpb)
-- [2024: Career Review](https://dev.to/raymathewdeveloper/2024-career-review-1p4)
-- [Building a Privacy-First Coding Activity Tracker for VS Code](https://dev.to/ernivani/building-a-privacy-first-coding-activity-tracker-for-vs-code-15g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
