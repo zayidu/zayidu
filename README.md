@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google reveals quantum computing chip Willow with ‘breakthrough’ achievements](https://dev.to/empiree/google-reveals-quantum-computing-chip-willow-with-breakthrough-achievements-4geh)
-- [LeetCode Challenge: 167. Two Sum II - Input Array Is Sorted - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-167-two-sum-ii-input-array-is-sorted-javascript-solution-19e0)
-- [A Fresh Start on Dev.to](https://dev.to/sanjeev_mansotra/a-fresh-start-on-devto-1768)
-- [Creating EC2 instances with pre-configured EFS &lpar;elastic file system &rpar; using Terraform modules](https://dev.to/huzaifamushfiq/creating-ec2-instances-with-pre-configured-efs-elastic-file-system-using-terraform-modules-101l)
-- [12 Best Practices for Efficient Scaling in Kubernetes: A Comprehensive Guide](https://dev.to/matiar_rahman31/12-best-practices-for-efficient-scaling-in-kubernetes-a-comprehensive-guide-29ja)
+- [How AI is Revolutionizing Software Testing](https://dev.to/vaibhavkuls/how-ai-is-revolutionizing-software-testing-1n2h)
+- [¿Qué son los enums en Java?](https://dev.to/asjordi/que-son-los-enums-en-java-37l5)
+- [Converting Day, Hour, Min, Sec](https://dev.to/amit_kshirsagar_237518360/converting-day-hour-min-sec-16bj)
+- [Introduction to Cloud computing.](https://dev.to/nofiu_kazeemolakunle_e13/introduction-to-cloud-computing-4o0)
+- [Ultimate guide to Flutter Keys: Optimizing Your Flutter App&#39;s Performance](https://dev.to/princetomarappdev/ultimate-guide-to-flutter-keys-optimizing-your-flutter-apps-performance-3ch1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
