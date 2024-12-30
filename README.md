@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💬 How Intent-Driven Interfaces Will Transform the Way Users Interact with Software](https://dev.to/louis-dupont/how-intent-driven-interfaces-will-transform-the-way-users-interact-with-software-3fdo)
-- [Enhancing Side Effects in Angular with NgRx&#39;s signalMethod](https://dev.to/danielsogl/enhancing-side-effects-in-angular-with-ngrxs-signalmethod-ho9)
-- [linspace in PyTorch](https://dev.to/hyperkai/linspace-in-pytorch-bfo)
-- [arange in PyTorch](https://dev.to/hyperkai/arange-in-pytorch-20gj)
-- [Deref Coercion: Rust’s Polite Butler](https://dev.to/mdabir1203/deref-coercion-rusts-polite-butler-260m)
+- [My React Journey: Day 27](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-27-49b8)
+- [fmod in PyTorch](https://dev.to/hyperkai/fmod-in-pytorch-5bcp)
+- [remainder in PyTorch](https://dev.to/hyperkai/remainder-in-pytorch-418l)
+- [### Flutter vs. React Native: Which Mobile Framework Will You Choose in 2025?](https://dev.to/respect17/-flutter-vs-react-native-which-mobile-framework-will-you-choose-in-2025-53hd)
+- [mul in PyTorch](https://dev.to/hyperkai/mul-in-pytorch-2i7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
