@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Rasa? A Beginner’s Guide to Conversational AI](https://dev.to/bharath_madhu/what-is-rasa-a-beginners-guide-to-conversational-ai-15nm)
-- [Best programming Language this year](https://dev.to/rdx011o/best-programming-language-this-year-4dhe)
-- [Happy new year! To more coding, playing the guitar, biking and motorcycle rides next year!](https://dev.to/highcenburg/happy-new-year-to-more-coding-playing-the-guitar-biking-and-motorcycle-rides-next-year-497m)
-- [AWS - Route53](https://dev.to/fenil_patel_04/aws-route53-237a)
-- [Kenalpasti proses didalam fungsi kod anda adalah I/O bound atau CPU bound.](https://dev.to/kodakademik/kenalpasti-proses-didalam-fungsi-kod-anda-adalah-io-bound-atau-cpu-bound-1fjl)
+- [❄️Happy New Year Dev.to! My results for 2024 ❄️](https://dev.to/anthonymax/happy-new-year-devto-my-results-for-2024-2m03)
+- [Large Dataset - Pipeline, Seamless Scale-Up and Scale-Down](https://dev.to/vaibhav9017/large-dataset-pipeline-seamless-scale-up-and-scale-down-52bj)
+- [Changing an established SSH connection without disconnecting](https://dev.to/rafael_mori/changing-an-established-ssh-connection-without-disconnecting-p3c)
+- [30 Days of Amplify 2024](https://dev.to/aws-builders/30-days-of-amplify-2024-3n72)
+- [A Complete Guide to Creating Tasks in Jira: From Epics to Bugs 🌟](https://dev.to/pro-project-mngr/a-complete-guide-to-creating-tasks-in-jira-from-epics-to-bugs-d08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
