@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Check and Fix Memory Leaks in React Applications](https://dev.to/futuristicgeeks/how-to-check-and-fix-memory-leaks-in-react-applications-567b)
-- [Простая задача с собеседования в Google: Merge Strings Alternately](https://dev.to/faangmaster/prostaia-zadacha-s-sobiesiedovaniia-v-google-merge-strings-alternately-1aa3)
-- [Implementing a Scalable Forex WebSocket Using a Python Proxy](https://dev.to/shridhargv/implementing-a-scalable-forex-websocket-using-a-python-proxy-3ba0)
-- [Conquer Tedious Tasks with These 10 Python Automation Scripts](https://dev.to/the_infinity/conquer-tedious-tasks-with-these-10-python-automation-scripts-42ea)
-- [My Experience at CascadiaJS 2024: Insights](https://dev.to/klesand/my-experience-at-cascadiajs-2024-insights-507j)
+- [What is Rasa? A Beginner’s Guide to Conversational AI](https://dev.to/bharath_madhu/what-is-rasa-a-beginners-guide-to-conversational-ai-15nm)
+- [Best programming Language this year](https://dev.to/rdx011o/best-programming-language-this-year-4dhe)
+- [Happy new year! To more coding, playing the guitar, biking and motorcycle rides next year!](https://dev.to/highcenburg/happy-new-year-to-more-coding-playing-the-guitar-biking-and-motorcycle-rides-next-year-497m)
+- [AWS - Route53](https://dev.to/fenil_patel_04/aws-route53-237a)
+- [Kenalpasti proses didalam fungsi kod anda adalah I/O bound atau CPU bound.](https://dev.to/kodakademik/kenalpasti-proses-didalam-fungsi-kod-anda-adalah-io-bound-atau-cpu-bound-1fjl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
