@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Just sent our final email of the year 😌](https://dev.to/jess/just-sent-our-final-email-of-the-year-1djo)
-- [From C# to Haskell and Back Again: My Journey into Functional Programming](https://dev.to/rjcg916/from-c-to-haskell-and-back-again-my-journey-into-functional-programming-38l7)
-- [A happy new year to everyone in Python!](https://dev.to/evertontenorio/a-happy-new-year-to-everyone-in-python-pmb)
-- [Chat App Deploy on Kubernetes Using Kind, Metallb and Ingress](https://dev.to/kamruzzaman/chat-app-deploy-on-kubernetes-using-kind-metallb-and-ingress-2e3)
-- [Time Zones and Offsets and ObjectScript, Oh My!](https://dev.to/intersystems/time-zones-and-offsets-and-objectscript-oh-my-4p39)
+- [Understanding Rate Limiting: An Essential Guide for Developers](https://dev.to/jihadabuzuhri/understanding-rate-limiting-an-essential-guide-for-developers-2pa2)
+- [Protocols: Computer Networks](https://dev.to/harshm03/protocols-computer-networks-4957)
+- [Redefining Telehealth for Vulnerable Populations](https://dev.to/prettysoul2025/redefining-telehealth-for-vulnerable-populations-500j)
+- [Transport Layer: Computer Networks](https://dev.to/harshm03/transport-layer-computer-networks-40c5)
+- [What a Time to Be Alive](https://dev.to/nonsoamadi10/what-a-time-to-be-alive-2mdc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
