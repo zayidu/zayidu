@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [❄️Happy New Year Dev.to! My results for 2024 ❄️](https://dev.to/anthonymax/happy-new-year-devto-my-results-for-2024-2m03)
-- [Large Dataset - Pipeline, Seamless Scale-Up and Scale-Down](https://dev.to/vaibhav9017/large-dataset-pipeline-seamless-scale-up-and-scale-down-52bj)
-- [Changing an established SSH connection without disconnecting](https://dev.to/rafael_mori/changing-an-established-ssh-connection-without-disconnecting-p3c)
-- [30 Days of Amplify 2024](https://dev.to/aws-builders/30-days-of-amplify-2024-3n72)
-- [A Complete Guide to Creating Tasks in Jira: From Epics to Bugs 🌟](https://dev.to/pro-project-mngr/a-complete-guide-to-creating-tasks-in-jira-from-epics-to-bugs-d08)
+- [LeetCode Challenge: 11. 📦 Container With Most Water - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-11-container-with-most-water-javascript-solution-ah1)
+- [Introducing Navvy: A Simple AI-Powered Git Automation Tool](https://dev.to/itsrofly/introducing-navvy-a-simple-ai-powered-git-automation-tool-24a5)
+- [The re-re-rebirth of AWS Systems Manager](https://dev.to/ryanpothecary/the-re-re-rebirth-of-aws-systems-manager-4685)
+- [Kubernets work flow](https://dev.to/cheedge_lee/kubernets-work-flow-5da8)
+- [Self-Hosted Media Server with Jellyfin](https://dev.to/jhonoryza/self-hosted-media-server-with-jellyfin-3o1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
