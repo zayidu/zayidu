@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Test, review &amp; document your code with Amazon Q Developer](https://dev.to/welcloud-io/test-review-document-your-code-with-amazon-q-developer-19cf)
-- [My 2024 Unwrap &lpar;of course, it&#39;s not a must-read&rpar;](https://dev.to/rohan_sharma/my-2024-unwrap-of-course-its-not-a-must-read-4ap6)
-- [7 Essential Python Decorator Patterns for Cleaner, More Efficient Code](https://dev.to/aaravjoshi/7-essential-python-decorator-patterns-for-cleaner-more-efficient-code-36fe)
-- [Integrating SvelteKit with Storyblok &lpar;Using Svelte 5&rpar;](https://dev.to/robertobutti/integrating-sveltekit-with-storyblok-using-svelte-5-384p)
-- [Web3 Reality Check: How Blockchain is Solving Real-World Problems](https://dev.to/cryptosandy/web3-reality-check-how-blockchain-is-solving-real-world-problems-1pi0)
+- [MongoDB: How to setup replica sets](https://dev.to/olawaleo/mongodb-how-to-setup-replica-sets-39mo)
+- [Day 02 How to implement authentication with Nest js and passports jwt strategy&lpar;part01&rpar;](https://dev.to/waqasongithub/day-02-how-to-implement-authentication-with-nest-js-and-passports-jwt-strategypart01-223k)
+- [Mastering Resume Creation: Tips and Tricks for Success](https://dev.to/divyesh_1502/mastering-resume-creation-tips-and-tricks-for-success-4ikl)
+- [5 Frontend Challenges Your Website Might Be Facing](https://dev.to/vikrant_bhalodia/5-frontend-challenges-your-website-might-be-facing-1476)
+- [What is Path PDF?](https://dev.to/derek-compdf/what-is-path-pdf-4co2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
