@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Giới Thiệu Về Pattern Trong Phát Triển Phần Mềm](https://dev.to/le_hongphuc_eecc926242df/gioi-thieu-ve-pattern-trong-phat-trien-phan-mem-4e15)
-- [Preparing your business for the European Accessibility Act](https://dev.to/tinyoctopus/preparing-your-business-for-the-european-accessibility-act-16bl)
-- [Flutter skill: using CustomPainter for drawing custom shapes and graphics.](https://dev.to/remejuan/flutter-skill-using-custompainter-for-drawing-custom-shapes-and-graphics-5a7o)
-- [Function Composition in JS - বাংলা](https://dev.to/shmihad/function-composition-in-js-baanlaa-13bf)
-- [😎Debug Like a Pro in 2025🧑‍💻](https://dev.to/dev_kiran/debug-like-a-pro-in-2025-3lg1)
+- [A Beginner’s Guide to Java: 10 Must-Know Development Tools🎉🎉](https://dev.to/noah_anderson_7632d059a07de/a-beginners-guide-to-java-10-must-know-development-tools-4k55)
+- [Using the GitHub API in Rust](https://dev.to/dmbtechdev/using-the-github-api-in-rust-10op)
+- [Codigger integrates Copilot: an intelligent programming assistant](https://dev.to/codigger/codigger-integrates-copilot-an-intelligent-programming-assistant-38km)
+- [How to Start Building APIs in 2025: A Comprehensive Guide🔥🔥](https://dev.to/apilover/how-to-start-building-apis-in-2025-a-comprehensive-guide-58k5)
+- [End-to-End API Testing with Playwright](https://dev.to/aswani25/end-to-end-api-testing-with-playwright-1fck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
