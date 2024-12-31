@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Coding Becoming Irrelevant? 8 Rules to Learn Code in 2025](https://dev.to/web_dev-usman/is-coding-becoming-irrelevant-8-rules-to-learn-code-in-2025-36ln)
-- [Top 10 Web Development Trends of 2025 You May Not Know](https://dev.to/dhruvjoshi9/top-10-web-development-trends-of-2025-you-may-not-know-cdn)
-- [🤖🧠Making Tech Blog with AI character &lpar;React + AWS&rpar;](https://dev.to/webdeveloperhyper/making-tech-blog-with-ai-character-react-aws-2986)
-- [Exploring the MERN Stack: Building Modern Web Applications in 2024](https://dev.to/codemintah/exploring-the-mern-stack-building-modern-web-applications-in-2024-192d)
-- [Manifesting Milestones: My Transformative Journey Through 2024](https://dev.to/this-is-learning/manifesting-milestones-my-transformative-journey-through-2024-2p2d)
+- [AWS Elastic Load Balancer &lpar;ELB&rpar; Tutorial: How to Configure ELB and Add Web Servers](https://dev.to/s3cloudhub/aws-elastic-load-balancer-elb-tutorial-how-to-configure-elb-and-add-web-servers-2456)
+- [Day 15 Task 3](https://dev.to/reegan/day-15-task-3-332)
+- [Day 15 Task 3](https://dev.to/reegan/day-15-task-3-33bm)
+- [How to Implement Wall-Bounded Camera FoV in React?](https://dev.to/deekshith_d_ac3e04f6d2134/how-to-implement-wall-bounded-camera-fov-in-react-3e07)
+- [8 Key Benefits of Project Management Software](https://dev.to/neotechy/8-key-benefits-of-project-management-software-2kd0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
