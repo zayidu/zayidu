@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Challenge: 11. 📦 Container With Most Water - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-11-container-with-most-water-javascript-solution-ah1)
-- [Introducing Navvy: A Simple AI-Powered Git Automation Tool](https://dev.to/itsrofly/introducing-navvy-a-simple-ai-powered-git-automation-tool-24a5)
-- [The re-re-rebirth of AWS Systems Manager](https://dev.to/ryanpothecary/the-re-re-rebirth-of-aws-systems-manager-4685)
-- [Kubernets work flow](https://dev.to/cheedge_lee/kubernets-work-flow-5da8)
-- [Self-Hosted Media Server with Jellyfin](https://dev.to/jhonoryza/self-hosted-media-server-with-jellyfin-3o1a)
+- [🍃 30 Elm Picks to Fuel Your Functional Code](https://dev.to/0x3d_site/30-elm-picks-to-fuel-your-functional-code-kf8)
+- [From Setback to Success: My ACM Winter School Journey...](https://dev.to/phanisirisha-46/from-setback-to-success-my-acm-winter-school-journey-4h7p)
+- [Why Struggle with Software Challenges When Tanzu Can Do the Heavy Lifting?](https://dev.to/michelle_sebek_/why-struggle-with-software-challenges-when-tanzu-can-do-the-heavy-lifting-3oki)
+- [&quot;nvm use&quot; does not work with nvm-windows](https://dev.to/ku6ryo/nvm-use-does-not-work-with-nvm-windows-2fo9)
+- [Day-26 List Comprehension](https://dev.to/lakshmi_prithanadesan_32/day-26-list-comprehension-4of1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
