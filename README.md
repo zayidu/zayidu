@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Currency is What &lpar;Almost&rpar; Everyone Wants](https://dev.to/shrsv/currency-is-what-almost-everyone-wants-1o4a)
-- [Codewars - Descending Order](https://dev.to/dantedinopegassi/codewars-descending-order-53he)
-- [Deno docker](https://dev.to/pdotdotdot/deno-docker-4p1p)
-- [Rust: The Memory Doesn&#39;t Remain](https://dev.to/crusty-rustacean/rust-the-memory-doesnt-remain-5h1d)
-- [Beginner Python Project: Build an Augmented Reality Drawing App Using OpenCV and Mediapipe](https://dev.to/vishaaxl/beginner-python-project-build-an-augmented-reality-drawing-app-using-opencv-and-mediapipe-19kl)
+- [Just sent our final email of the year 😌](https://dev.to/jess/just-sent-our-final-email-of-the-year-1djo)
+- [From C# to Haskell and Back Again: My Journey into Functional Programming](https://dev.to/rjcg916/from-c-to-haskell-and-back-again-my-journey-into-functional-programming-38l7)
+- [A happy new year to everyone in Python!](https://dev.to/evertontenorio/a-happy-new-year-to-everyone-in-python-pmb)
+- [Chat App Deploy on Kubernetes Using Kind, Metallb and Ingress](https://dev.to/kamruzzaman/chat-app-deploy-on-kubernetes-using-kind-metallb-and-ingress-2e3)
+- [Time Zones and Offsets and ObjectScript, Oh My!](https://dev.to/intersystems/time-zones-and-offsets-and-objectscript-oh-my-4p39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
