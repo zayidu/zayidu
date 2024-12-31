@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB: How to setup replica sets](https://dev.to/olawaleo/mongodb-how-to-setup-replica-sets-39mo)
-- [Day 02 How to implement authentication with Nest js and passports jwt strategy&lpar;part01&rpar;](https://dev.to/waqasongithub/day-02-how-to-implement-authentication-with-nest-js-and-passports-jwt-strategypart01-223k)
-- [Mastering Resume Creation: Tips and Tricks for Success](https://dev.to/divyesh_1502/mastering-resume-creation-tips-and-tricks-for-success-4ikl)
-- [5 Frontend Challenges Your Website Might Be Facing](https://dev.to/vikrant_bhalodia/5-frontend-challenges-your-website-might-be-facing-1476)
-- [What is Path PDF?](https://dev.to/derek-compdf/what-is-path-pdf-4co2)
+- [How to Check and Fix Memory Leaks in React Applications](https://dev.to/futuristicgeeks/how-to-check-and-fix-memory-leaks-in-react-applications-567b)
+- [Простая задача с собеседования в Google: Merge Strings Alternately](https://dev.to/faangmaster/prostaia-zadacha-s-sobiesiedovaniia-v-google-merge-strings-alternately-1aa3)
+- [Implementing a Scalable Forex WebSocket Using a Python Proxy](https://dev.to/shridhargv/implementing-a-scalable-forex-websocket-using-a-python-proxy-3ba0)
+- [Conquer Tedious Tasks with These 10 Python Automation Scripts](https://dev.to/the_infinity/conquer-tedious-tasks-with-these-10-python-automation-scripts-42ea)
+- [My Experience at CascadiaJS 2024: Insights](https://dev.to/klesand/my-experience-at-cascadiajs-2024-insights-507j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
