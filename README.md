@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐 Unlocking the Power of IPv6 on AWS: Features, Use Cases, and Best Practices 🚀](https://dev.to/soumi_chakraborty_c875ca4/unlocking-the-power-of-ipv6-on-aws-features-use-cases-and-best-practices-5623)
-- [Two ways/methods to parse a CSV file content to JSON &lpar;Typescript&rpar;](https://dev.to/veektor_v/two-waysmethods-to-parse-a-csv-file-content-to-json-typescript-35l9)
-- [Create Your Own Middleware Application Using Chain of Responsibility](https://dev.to/unclexo/create-your-own-middleware-application-using-chain-of-responsibility-4kp9)
-- [Claude vs GPT](https://dev.to/a_ghadge/claude-vs-gpt-4ppk)
-- [S3crets of Cloud Storage](https://dev.to/shreya111111/s3crets-of-cloud-storage-1n40)
+- [Deck the Halls &lpar;and Inboxes&rpar; with a DIY Digital Postcard App](https://dev.to/ideradevtools/deck-the-halls-and-inboxes-with-a-diy-digital-postcard-app-204o)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-p8l)
+- [Part 3: Orchestrating with Nginx and Docker](https://dev.to/devwithshreyash/part-3-orchestrating-with-nginx-and-docker-4p0k)
+- [Launching open.whiskay.dev](https://dev.to/whiskay/launching-openwhiskaydev-5fk)
+- [The Evolution of Machine Learning and Natural Language Processing to Transformers: A Journey Through Time](https://dev.to/imsushant12/the-evolution-of-machine-learning-and-natural-language-processing-to-transformers-a-journey-19ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
