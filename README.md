@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My React Journey: Day 27](https://dev.to/ayoola_damilare_212d5bde0/my-react-journey-day-27-49b8)
-- [fmod in PyTorch](https://dev.to/hyperkai/fmod-in-pytorch-5bcp)
-- [remainder in PyTorch](https://dev.to/hyperkai/remainder-in-pytorch-418l)
-- [### Flutter vs. React Native: Which Mobile Framework Will You Choose in 2025?](https://dev.to/respect17/-flutter-vs-react-native-which-mobile-framework-will-you-choose-in-2025-53hd)
-- [mul in PyTorch](https://dev.to/hyperkai/mul-in-pytorch-2i7l)
+- [A Cost-Effective Guide to prepare and pass the KCNA](https://dev.to/bongoe/a-cost-effective-guide-to-prepare-and-pass-the-kcna-3fge)
+- [From Alert to Action: Investigating a Possible Phishing URL](https://dev.to/gabrieloc/from-alert-to-action-investigating-a-possible-phishing-url-1e7p)
+- [Aprende a instalar Docker en una instancia EC2 con Amazon Linux 2023 y Ubuntu](https://dev.to/briansuarezsantiago/aprende-a-instalar-docker-en-una-instancia-ec2-con-amazon-linux-2023-y-ubuntu-3ncn)
+- [any in PyTorch](https://dev.to/hyperkai/any-in-pytorch-c7p)
+- [all in PyTorch](https://dev.to/hyperkai/all-in-pytorch-32de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
