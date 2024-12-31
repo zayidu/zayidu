@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a File Server Using ZimaBoard or Raspberry Pi](https://dev.to/jewelmahmud/how-to-build-a-file-server-using-zimaboard-or-raspberry-pi-fab)
-- [Reboot Your Tech Career: A Practical Guide to Thriving in the Tech Industry](https://dev.to/techforcea/reboot-your-tech-career-a-practical-guide-to-thriving-in-the-tech-industry-178g)
-- [How to edit boot config Raspberry Pi 5 USB?](https://dev.to/carolineee/how-to-edit-boot-config-raspberry-pi-5-usb-3ab8)
-- [Top 10 Web Accessibility Mistakes Developers Make and How to Avoid Them](https://dev.to/accessibly_speaking/top-10-web-accessibility-mistakes-developers-make-and-how-to-avoid-them-4b1p)
-- [Ruby on Rails for AI Chatbot Development: Why it is Ideal Choice in 2025?](https://dev.to/nicholajones075/ruby-on-rails-for-ai-chatbot-development-why-it-is-ideal-choice-in-2025-3h99)
+- [How to read ip addr output on Linux](https://dev.to/pikotutorial/how-to-read-ip-addr-output-on-linux-fnj)
+- [Show or Hide a Div Based on Select Option in JavaScript](https://dev.to/askyt/show-or-hide-a-div-based-on-select-option-in-javascript-57el)
+- [Show an Element if a Checkbox is checked using JavaScript](https://dev.to/askyt/show-an-element-if-a-checkbox-is-checked-using-javascript-35pe)
+- [HuggingFace login on Google Colab](https://dev.to/0xkoji/huggingface-login-on-google-colab-54ek)
+- [Terraform](https://dev.to/b1n4ry9h0s7/terraform-3j8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
