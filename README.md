@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deck the Halls &lpar;and Inboxes&rpar; with a DIY Digital Postcard App](https://dev.to/ideradevtools/deck-the-halls-and-inboxes-with-a-diy-digital-postcard-app-204o)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-p8l)
-- [Part 3: Orchestrating with Nginx and Docker](https://dev.to/devwithshreyash/part-3-orchestrating-with-nginx-and-docker-4p0k)
-- [Launching open.whiskay.dev](https://dev.to/whiskay/launching-openwhiskaydev-5fk)
-- [The Evolution of Machine Learning and Natural Language Processing to Transformers: A Journey Through Time](https://dev.to/imsushant12/the-evolution-of-machine-learning-and-natural-language-processing-to-transformers-a-journey-19ic)
+- [Currency is What &lpar;Almost&rpar; Everyone Wants](https://dev.to/shrsv/currency-is-what-almost-everyone-wants-1o4a)
+- [Codewars - Descending Order](https://dev.to/dantedinopegassi/codewars-descending-order-53he)
+- [Deno docker](https://dev.to/pdotdotdot/deno-docker-4p1p)
+- [Rust: The Memory Doesn&#39;t Remain](https://dev.to/crusty-rustacean/rust-the-memory-doesnt-remain-5h1d)
+- [Beginner Python Project: Build an Augmented Reality Drawing App Using OpenCV and Mediapipe](https://dev.to/vishaaxl/beginner-python-project-build-an-augmented-reality-drawing-app-using-opencv-and-mediapipe-19kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
