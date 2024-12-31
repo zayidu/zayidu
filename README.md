@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to Java: 10 Must-Know Development Tools🎉🎉](https://dev.to/noah_anderson_7632d059a07de/a-beginners-guide-to-java-10-must-know-development-tools-4k55)
-- [Using the GitHub API in Rust](https://dev.to/dmbtechdev/using-the-github-api-in-rust-10op)
-- [Codigger integrates Copilot: an intelligent programming assistant](https://dev.to/codigger/codigger-integrates-copilot-an-intelligent-programming-assistant-38km)
-- [How to Start Building APIs in 2025: A Comprehensive Guide🔥🔥](https://dev.to/apilover/how-to-start-building-apis-in-2025-a-comprehensive-guide-58k5)
-- [End-to-End API Testing with Playwright](https://dev.to/aswani25/end-to-end-api-testing-with-playwright-1fck)
+- [Test, review &amp; document your code with Amazon Q Developer](https://dev.to/welcloud-io/test-review-document-your-code-with-amazon-q-developer-19cf)
+- [My 2024 Unwrap &lpar;of course, it&#39;s not a must-read&rpar;](https://dev.to/rohan_sharma/my-2024-unwrap-of-course-its-not-a-must-read-4ap6)
+- [7 Essential Python Decorator Patterns for Cleaner, More Efficient Code](https://dev.to/aaravjoshi/7-essential-python-decorator-patterns-for-cleaner-more-efficient-code-36fe)
+- [Integrating SvelteKit with Storyblok &lpar;Using Svelte 5&rpar;](https://dev.to/robertobutti/integrating-sveltekit-with-storyblok-using-svelte-5-384p)
+- [Web3 Reality Check: How Blockchain is Solving Real-World Problems](https://dev.to/cryptosandy/web3-reality-check-how-blockchain-is-solving-real-world-problems-1pi0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
