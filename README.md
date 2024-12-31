@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS is Emotional: The Psychology of Specificity](https://dev.to/eioluseyi/css-is-emotional-the-psychology-of-specificity-3447)
-- [2 class link method](https://dev.to/hema_latha/2-class-link-method-35cl)
-- [Testcontainers for kafka](https://dev.to/said_olano/testcontainers-for-kafka-4c2o)
-- [Traefik using owned SSL certificate](https://dev.to/jhonoryza/traefik-using-owned-ssl-certificate-2b4n)
-- [Apache Avro](https://dev.to/said_olano/apache-avro-2a81)
+- [Software Testing](https://dev.to/50_yuvashrees_70d09a9fc9/software-testing-1p4i)
+- [update notepad++](https://dev.to/longtth/update-notepad-32nc)
+- [Water bottle task](https://dev.to/hema_latha/water-bottle-task-5dd7)
+- [What I Learned Today](https://dev.to/tayodaniel/what-i-learned-today-4ph5)
+- [Debugging in Xcode: Tips to Save Your Time 🛠️](https://dev.to/divyeshvekariya/mastering-debugging-in-xcode-tips-to-save-your-time-561b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
