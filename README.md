@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Rate Limiting: An Essential Guide for Developers](https://dev.to/jihadabuzuhri/understanding-rate-limiting-an-essential-guide-for-developers-2pa2)
-- [Protocols: Computer Networks](https://dev.to/harshm03/protocols-computer-networks-4957)
-- [Redefining Telehealth for Vulnerable Populations](https://dev.to/prettysoul2025/redefining-telehealth-for-vulnerable-populations-500j)
-- [Transport Layer: Computer Networks](https://dev.to/harshm03/transport-layer-computer-networks-40c5)
-- [What a Time to Be Alive](https://dev.to/nonsoamadi10/what-a-time-to-be-alive-2mdc)
+- [How New Grads Can Land a High-Paid Tech Job in 2025](https://dev.to/drjoshcsimmons/how-new-grads-can-land-a-high-paid-tech-job-in-2025-2ka3)
+- [What are the main challenges in SaaS product development](https://dev.to/thealgorithm/what-are-the-main-challenges-in-saas-product-development-578d)
+- [Python Script for Stock Sentiment Analysis](https://dev.to/ajayvallab/python-script-for-stock-sentiment-analysis-2do)
+- [OSI Model Layers and Protocols: Computer Networks](https://dev.to/harshm03/osi-model-layers-and-protocols-computer-networks-1i0e)
+- [Running Kibana, Elastic, and APM with Docker Compose](https://dev.to/sohail0992/running-kibana-elastic-and-apm-with-docker-compose-37ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
