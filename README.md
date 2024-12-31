@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Elastic Load Balancer &lpar;ELB&rpar; Tutorial: How to Configure ELB and Add Web Servers](https://dev.to/s3cloudhub/aws-elastic-load-balancer-elb-tutorial-how-to-configure-elb-and-add-web-servers-2456)
-- [Day 15 Task 3](https://dev.to/reegan/day-15-task-3-332)
-- [Day 15 Task 3](https://dev.to/reegan/day-15-task-3-33bm)
-- [How to Implement Wall-Bounded Camera FoV in React?](https://dev.to/deekshith_d_ac3e04f6d2134/how-to-implement-wall-bounded-camera-fov-in-react-3e07)
-- [8 Key Benefits of Project Management Software](https://dev.to/neotechy/8-key-benefits-of-project-management-software-2kd0)
+- [How to Build a File Server Using ZimaBoard or Raspberry Pi](https://dev.to/jewelmahmud/how-to-build-a-file-server-using-zimaboard-or-raspberry-pi-fab)
+- [Reboot Your Tech Career: A Practical Guide to Thriving in the Tech Industry](https://dev.to/techforcea/reboot-your-tech-career-a-practical-guide-to-thriving-in-the-tech-industry-178g)
+- [How to edit boot config Raspberry Pi 5 USB?](https://dev.to/carolineee/how-to-edit-boot-config-raspberry-pi-5-usb-3ab8)
+- [Top 10 Web Accessibility Mistakes Developers Make and How to Avoid Them](https://dev.to/accessibly_speaking/top-10-web-accessibility-mistakes-developers-make-and-how-to-avoid-them-4b1p)
+- [Ruby on Rails for AI Chatbot Development: Why it is Ideal Choice in 2025?](https://dev.to/nicholajones075/ruby-on-rails-for-ai-chatbot-development-why-it-is-ideal-choice-in-2025-3h99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
