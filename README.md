@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🍃 30 Elm Picks to Fuel Your Functional Code](https://dev.to/0x3d_site/30-elm-picks-to-fuel-your-functional-code-kf8)
-- [From Setback to Success: My ACM Winter School Journey...](https://dev.to/phanisirisha-46/from-setback-to-success-my-acm-winter-school-journey-4h7p)
-- [Why Struggle with Software Challenges When Tanzu Can Do the Heavy Lifting?](https://dev.to/michelle_sebek_/why-struggle-with-software-challenges-when-tanzu-can-do-the-heavy-lifting-3oki)
-- [&quot;nvm use&quot; does not work with nvm-windows](https://dev.to/ku6ryo/nvm-use-does-not-work-with-nvm-windows-2fo9)
-- [Day-26 List Comprehension](https://dev.to/lakshmi_prithanadesan_32/day-26-list-comprehension-4of1)
+- [🌐 Unlocking the Power of IPv6 on AWS: Features, Use Cases, and Best Practices 🚀](https://dev.to/soumi_chakraborty_c875ca4/unlocking-the-power-of-ipv6-on-aws-features-use-cases-and-best-practices-5623)
+- [Two ways/methods to parse a CSV file content to JSON &lpar;Typescript&rpar;](https://dev.to/veektor_v/two-waysmethods-to-parse-a-csv-file-content-to-json-typescript-35l9)
+- [Create Your Own Middleware Application Using Chain of Responsibility](https://dev.to/unclexo/create-your-own-middleware-application-using-chain-of-responsibility-4kp9)
+- [Claude vs GPT](https://dev.to/a_ghadge/claude-vs-gpt-4ppk)
+- [S3crets of Cloud Storage](https://dev.to/shreya111111/s3crets-of-cloud-storage-1n40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
