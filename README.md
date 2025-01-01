@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure TypeScript Applications...??](https://dev.to/shafayeat/how-to-secure-typescript-applications-5a27)
-- [React Native’s New Architecture: Sync and async rendering](https://dev.to/leemeganj/react-natives-new-architecture-sync-and-async-rendering-1d7f)
-- [Happy 11111101001! Join our New Year Writing Challenge 🔮](https://dev.to/devteam/happy-11111101001-join-our-new-year-writing-challenge-43g4)
-- [🎉 Let&#39;s Build an AI Twitter Post Project Using Gemini API, Next.js, and TailwindCSS 🚀](https://dev.to/jagroop2001/lets-build-an-ai-twitter-post-project-using-gemini-api-nextjs-and-tailwindcss-3194)
-- [📉 Why Improving Your AI Model Is Killing Your Project’s Success](https://dev.to/louis-dupont/why-improving-your-ai-model-is-killing-your-projects-success-4kkn)
+- [[Boost]](https://dev.to/rajeshkumaryadavdotcom/-2ppo)
+- [Importance of Cisco in IT Networking in 2025](https://dev.to/skillboosttrainer/importance-of-cisco-in-it-networking-in-2025-3mn3)
+- [Embracing AI in Development: A Journey into the Future](https://dev.to/atifazeez77/embracing-ai-in-development-a-journey-into-the-future-11mb)
+- [Building Real-Time Dashboards with WebSockets: A Crypto Live Trades Example](https://dev.to/abhivyaktii/building-real-time-dashboards-with-websockets-a-crypto-live-trades-example-5840)
+- [Deploying a Go application to Railway: handling non-root `main.go` files](https://dev.to/streamerd/deploying-a-go-application-to-railway-handling-non-root-maingo-files-5fn3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
