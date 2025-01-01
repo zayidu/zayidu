@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hidden Power of Go: Unveiling the Secrets of a Robust Language](https://dev.to/sadanand_dodawadakar_10b2/hidden-power-of-go-unveiling-the-secrets-of-a-robust-language-29jc)
-- [Reto de Rust 365 días, 2025!!](https://dev.to/rustarch/reto-de-rust-365-dias-2025-52io)
-- [Features in NestJS That Are Difficult or Tedious in Express:](https://dev.to/vanshul22/features-in-nestjs-that-are-difficult-or-tedious-in-express-18ne)
-- [Which One Should You Choose NEST JS or EXPRESS JS?](https://dev.to/vanshul22/which-one-should-you-choose-nest-js-or-express-js-4j6p)
-- [Building a webhook tester from scratch](https://dev.to/acoh3n/building-a-webhook-tester-from-scratch-34a8)
+- [Dropdown or Radio button options in Azure Devops](https://dev.to/arindam0310018/dropdown-or-radio-button-options-in-azure-devops-2d1f)
+- [Fastest and Cheapest Ways to Delete Millions of Files from Amazon S3](https://dev.to/vijaykodam/fastest-and-cheapest-ways-to-delete-millions-of-files-from-amazon-s3-d3n)
+- [My First Steps with Playwright 🎭: A Tester’s Journey from Selenium](https://dev.to/utkarsh630/my-first-steps-with-playwright-a-testers-journey-from-selenium-4bj1)
+- [Statements VS Expressions with JavaScript](https://dev.to/lawaniej/statements-vs-expressions-with-javascript-5fjc)
+- [Access Control Security: Learning from Major Data Breaches](https://dev.to/pachilo/access-control-security-learning-from-major-data-breaches-m08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
