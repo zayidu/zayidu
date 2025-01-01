@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Melakukan test menggunakan node-plug](https://dev.to/salmantok/melakukan-test-menggunakan-node-plug-12g2)
-- [How to Write a Troubleshooting Guide That Actually Helps Users](https://dev.to/elliot_brenya/how-to-write-a-troubleshooting-guide-that-actually-helps-users-2hh9)
-- [Stuck in the Stone Age? Here’s What Your Outdated Tech Is Costing You!](https://dev.to/tylermorganaqe/stuck-in-the-stone-age-heres-what-your-outdated-tech-is-costing-you-54hm)
-- [IPs Explained: The Address of the Internet](https://dev.to/habdulr1/ips-explained-the-address-of-the-internet-5pc)
-- [Simpel plugin Node.js mendukung sync, callback, promise, dan assert.](https://dev.to/salmantok/simpel-plugin-nodejs-mendukung-sync-callback-promise-dan-assert-2gki)
+- [I Finally Found the Perfect Alternative to MAMP](https://dev.to/proprzzzz/i-finally-found-the-perfect-alternative-to-mamp-5162)
+- [Enable SMB 1.0 / CIFS File Sharing Support using Command Prompt &amp; Windows PowerShell](https://dev.to/winsides/enable-smb-10-cifs-file-sharing-support-using-command-prompt-windows-powershell-43h6)
+- [Day 1 : Introduction to C++](https://dev.to/mehfila_parkkulthil_23/day-1-introduction-to-c-4738)
+- [Launching a Freelancer Platform: Be Seen First Forever for Just £10](https://dev.to/vulcanwm/launching-a-freelancer-platform-be-seen-first-forever-for-just-ps10-45a2)
+- [Strategic Ways to Stay Away from Office Politics](https://dev.to/nozibul_islam_113b1d5334f/strategic-ways-to-stay-away-from-office-politics-28o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
