@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dropdown or Radio button options in Azure Devops](https://dev.to/arindam0310018/dropdown-or-radio-button-options-in-azure-devops-2d1f)
-- [Fastest and Cheapest Ways to Delete Millions of Files from Amazon S3](https://dev.to/vijaykodam/fastest-and-cheapest-ways-to-delete-millions-of-files-from-amazon-s3-d3n)
-- [My First Steps with Playwright 🎭: A Tester’s Journey from Selenium](https://dev.to/utkarsh630/my-first-steps-with-playwright-a-testers-journey-from-selenium-4bj1)
-- [Statements VS Expressions with JavaScript](https://dev.to/lawaniej/statements-vs-expressions-with-javascript-5fjc)
-- [Access Control Security: Learning from Major Data Breaches](https://dev.to/pachilo/access-control-security-learning-from-major-data-breaches-m08)
+- [How And Why The Developer-First Approach Is Changing The Observability Landscape](https://dev.to/metis/how-and-why-the-developer-first-approach-is-changing-the-observability-landscape-25j0)
+- [The Return of the Blog](https://dev.to/ericbl3/the-return-of-the-blog-3i1n)
+- [My 2024 &lpar;and 3rd year&rpar; as an AWS Community Builder](https://dev.to/aws-builders/my-2024-and-3rd-year-as-an-aws-community-builder-acn)
+- [Cybersecurity Understanding the OWASP® Top 10 Security Threats](https://dev.to/marcoatl/cybersecurity-understanding-the-owaspr-top-10-security-threats-59ln)
+- [2025, Starting Today](https://dev.to/envitab/2025-starting-today-72e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
