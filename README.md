@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Client with LINE-Style UI Built with Flutter and Riverpod](https://dev.to/softjapan/chatgpt-client-with-line-style-ui-built-with-flutter-and-riverpod-2hei)
-- [Top 10 Books for Boosting Efficiency, Productivity, and Performance](https://dev.to/seyedehsanmirmahdi/top-10-books-for-boosting-efficiency-productivity-and-performance-3990)
-- [Full-Stack Next.js 15 Development Using Zod, Typescript, tRPC, react-query, and Sequelize ORM](https://dev.to/designly/full-stack-nextjs-15-development-using-zod-typescript-trpc-react-query-and-sequelize-orm-45nf)
-- [Kong API Gateway Setup Basic to advance usages](https://dev.to/indalyadav56/kong-api-gateway-setup-basic-to-advance-usages-9me)
-- [Guidelines about the Refer-a-Friend Program](https://dev.to/tecno-security/guidelines-about-the-refer-a-friend-program-3c63)
+- [ServBay 1.7.1 Released: Now Supports PHP 8.5-dev](https://dev.to/servbay/servbay-171-released-now-supports-php-85-dev-1ok7)
+- [Why do we need to maintain our own front-end engineering system?](https://dev.to/faurewu/why-do-we-need-to-maintain-our-own-front-end-engineering-system-3o2c)
+- [Streamline School Management with MeraSkool: Seamless Data Migration and More](https://dev.to/nobullshit-coder/streamline-school-management-with-meraskool-seamless-data-migration-and-more-573l)
+- [🚀 Discover Cloud Gallery: An Open-Source Photo Backup App for Flutter Devs!](https://dev.to/divyeshvekariya/discover-cloud-gallery-an-open-source-photo-backup-app-for-flutter-devs-47bn)
+- [Teorema de Nicômaco](https://dev.to/praciano/teorema-de-nicomaco-4f17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
