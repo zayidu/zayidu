@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Web Services](https://dev.to/madgan95/amazon-web-services-2d7m)
-- [The Laravel Request Life Cycle is the basis of all Laravel applications](https://dev.to/thedevricha/the-laravel-request-life-cycle-is-the-basis-of-all-laravel-applications-3h9)
-- [Deploying an Existing Express API + Prisma + Supabase Project to Vercel](https://dev.to/7twilight/deploying-an-existing-express-api-prisma-supabase-project-to-vercel-1h0d)
-- [Increase Swap Memory in Ubuntu](https://dev.to/azayshrestha/increase-swap-memory-in-ubuntu-5bb1)
-- [Happy new year!](https://dev.to/ben/happy-new-year-403c)
+- [How to install react](https://dev.to/shahir_farhan_c5a1caf4bb1/how-to-install-react-575)
+- [2025 Tech Trends: What&#39;s In, What&#39;s Out, and What You Need to Know](https://dev.to/usman_awan/2025-tech-trends-whats-in-whats-out-and-what-you-need-to-know-37pj)
+- [Dynamic Port Handling in Node.js: Never Let Your Server Fail to Start 🚀](https://dev.to/jsdecoder/dynamic-port-handling-in-nodejs-never-let-your-server-fail-to-start-3371)
+- [Wizarding Repository](https://dev.to/_m_kabilan_/wizarding-repository-49e8)
+- [PHP 8.x Features You Should Be Using in 2025](https://dev.to/patoliyainfotech/php-8x-features-you-should-be-using-in-2025-5145)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
