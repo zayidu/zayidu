@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Finally Found the Perfect Alternative to MAMP](https://dev.to/proprzzzz/i-finally-found-the-perfect-alternative-to-mamp-5162)
-- [Enable SMB 1.0 / CIFS File Sharing Support using Command Prompt &amp; Windows PowerShell](https://dev.to/winsides/enable-smb-10-cifs-file-sharing-support-using-command-prompt-windows-powershell-43h6)
-- [Day 1 : Introduction to C++](https://dev.to/mehfila_parkkulthil_23/day-1-introduction-to-c-4738)
-- [Launching a Freelancer Platform: Be Seen First Forever for Just £10](https://dev.to/vulcanwm/launching-a-freelancer-platform-be-seen-first-forever-for-just-ps10-45a2)
-- [Strategic Ways to Stay Away from Office Politics](https://dev.to/nozibul_islam_113b1d5334f/strategic-ways-to-stay-away-from-office-politics-28o6)
+- [Consistency Models and Replicache](https://dev.to/siisee11/consistency-models-and-replicache-1l42)
+- [The Case for Build-Time Micro Frontends](https://dev.to/msm8/the-case-for-build-time-micro-frontends-2a6f)
+- [Matanuska ADR 006 - Runtime Exit](https://dev.to/jfhbrook/matanuska-adr-006-runtime-exit-34jg)
+- [Navigating Challenges: Reflections on My Career Journey](https://dev.to/yetesfa/navigating-challenges-reflections-on-my-career-journey-34p0)
+- [snackbar in flutter](https://dev.to/2025_25258d57b869e4005098/snackbar-in-flutter-1e9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
