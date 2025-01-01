@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Retro&#39;ing and Debugging 2024: A Year That Challenged and Changed Me](https://dev.to/respect17/retroing-and-debugging-2024-a-year-that-challenged-and-changed-me-2geo)
-- [Why Do We Still Need Jackson or Gson in Java?](https://dev.to/joaomarques/why-do-we-still-need-jackson-or-gson-in-java-1994)
-- [🌟 Exciting Update: LivinGrimoire Wiki Revamp! 🌟](https://dev.to/owly/exciting-update-livingrimoire-wiki-revamp-2b3b)
-- [Advanced forms with Alpine.js](https://dev.to/jairusjoer/advanced-forms-with-alpinejs-2ea7)
-- [My Ultimate MacBook Productivity Tools 2025 &lpar;Free Edition&rpar;](https://dev.to/ayshacham/my-ultimate-macbook-productivity-setup-2025-free-edition-4m35)
+- [Hidden Power of Go: Unveiling the Secrets of a Robust Language](https://dev.to/sadanand_dodawadakar_10b2/hidden-power-of-go-unveiling-the-secrets-of-a-robust-language-29jc)
+- [Reto de Rust 365 días, 2025!!](https://dev.to/rustarch/reto-de-rust-365-dias-2025-52io)
+- [Features in NestJS That Are Difficult or Tedious in Express:](https://dev.to/vanshul22/features-in-nestjs-that-are-difficult-or-tedious-in-express-18ne)
+- [Which One Should You Choose NEST JS or EXPRESS JS?](https://dev.to/vanshul22/which-one-should-you-choose-nest-js-or-express-js-4j6p)
+- [Building a webhook tester from scratch](https://dev.to/acoh3n/building-a-webhook-tester-from-scratch-34a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
