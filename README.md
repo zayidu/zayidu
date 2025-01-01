@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with Matter Team Membership Using the IntApp Walls API](https://dev.to/seanmdrew/working-with-matter-team-membership-using-the-intapp-walls-api-2nop)
-- [2024: A Year in Review](https://dev.to/divyanshulohani/2024-a-year-in-review-4bj6)
-- [Automating Node.js Dependency Upgrades and Build Error Resolution Using AI](https://dev.to/rajamvv/automating-nodejs-dependency-upgrades-and-build-error-resolution-using-ai-ia7)
-- [Happy new year! 🥳✨](https://dev.to/thomasbnt/happy-new-year-50fj)
-- [🦄 2025’s First Look: Multi-State Buttons, Preloaded Fonts &amp; UX Retention Hacks](https://dev.to/adam/2025s-first-look-multi-state-buttons-preloaded-fonts-ux-retention-hacks-1li5)
+- [80/365 | ¥10M Job Challenge - healthy body](https://dev.to/kameken100/80365-y10m-job-challenge-healthy-body-42d3)
+- [Assignments 4](https://dev.to/hema_latha/assignments-4-4epf)
+- [Microsoft Certified Azure Administrator Associate Exam &lpar;AZ-104&rpar; Lab Preparation #1: Azure Bastion](https://dev.to/auyeungdavid_2847435260/azure-exam-az-104-lab-preparation-1-azure-bastion-3i8e)
+- [How to Generate Release and Debug APKs in React Native📱](https://dev.to/amitkumar13/how-to-generate-release-and-debug-apks-in-react-native-4gpo)
+- [Chrome Built-in AI Challenge: Building an Extension with Gemini Nano AI That Changes Faster Than Me](https://dev.to/bhdrpkcn/chrome-built-in-ai-challenge-building-an-extension-with-gemini-nano-ai-that-changes-faster-than-me-462h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
