@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comming back to this project... Still on the foundamentals](https://dev.to/afeez/comming-back-to-this-project-still-on-the-foundamentals-4db0)
-- [Comprehensive Guide to Telemedicine App Development](https://dev.to/evelynwyatt/comprehensive-guide-to-telemedicine-app-development-184a)
-- [Integrating Singular SDK with React Native: A Comprehensive Guide](https://dev.to/amitkumar13/integrating-singular-sdk-with-react-native-a-comprehensive-guide-2c86)
-- [🚀 Introducing React AI: Open Source React Components Builder](https://dev.to/akshaynceo/introducing-react-ai-open-source-react-components-builder-2fk1)
-- [Apple promised next-gen CarPlay in 2024, so where is it? - The Verge](https://dev.to/hk9099/apple-promised-next-gen-carplay-in-2024-so-where-is-it-the-verge-4omo)
+- [Melakukan test menggunakan node-plug](https://dev.to/salmantok/melakukan-test-menggunakan-node-plug-12g2)
+- [How to Write a Troubleshooting Guide That Actually Helps Users](https://dev.to/elliot_brenya/how-to-write-a-troubleshooting-guide-that-actually-helps-users-2hh9)
+- [Stuck in the Stone Age? Here’s What Your Outdated Tech Is Costing You!](https://dev.to/tylermorganaqe/stuck-in-the-stone-age-heres-what-your-outdated-tech-is-costing-you-54hm)
+- [IPs Explained: The Address of the Internet](https://dev.to/habdulr1/ips-explained-the-address-of-the-internet-5pc)
+- [Simpel plugin Node.js mendukung sync, callback, promise, dan assert.](https://dev.to/salmantok/simpel-plugin-nodejs-mendukung-sync-callback-promise-dan-assert-2gki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
