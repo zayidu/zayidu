@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/rajeshkumaryadavdotcom/-2ppo)
-- [Importance of Cisco in IT Networking in 2025](https://dev.to/skillboosttrainer/importance-of-cisco-in-it-networking-in-2025-3mn3)
-- [Embracing AI in Development: A Journey into the Future](https://dev.to/atifazeez77/embracing-ai-in-development-a-journey-into-the-future-11mb)
-- [Building Real-Time Dashboards with WebSockets: A Crypto Live Trades Example](https://dev.to/abhivyaktii/building-real-time-dashboards-with-websockets-a-crypto-live-trades-example-5840)
-- [Deploying a Go application to Railway: handling non-root `main.go` files](https://dev.to/streamerd/deploying-a-go-application-to-railway-handling-non-root-maingo-files-5fn3)
+- [How To Integrate GitHub Sign-In: A Four Step Guide](https://dev.to/lovestaco/how-to-integrate-github-sign-in-a-four-step-guide-1doj)
+- [🚀 Jan 1, 2025: Start the Year Right with These Top 25+ GitHub Repositories](https://dev.to/gittech/jan-1-2025-start-the-year-right-with-these-top-25-github-repositories-1b73)
+- [Mastering Vim and NvChad for Coding and Development: A Comprehensive Guide](https://dev.to/arjun98k/mastering-vim-and-nvchad-for-coding-and-development-a-comprehensive-guide-5ac5)
+- [Creating AWS Lambda Layers for Python Runtime: A Complete Guide](https://dev.to/rishabdugar/creating-aws-lambda-layers-for-python-runtime-a-complete-guide-3gi0)
+- [Django Authentication Made Easy: A Complete Guide to Registration, Login, and User Management](https://dev.to/ebereplenty/django-authentication-made-easy-a-complete-guide-to-registration-login-and-user-management-2jih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
