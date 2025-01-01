@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Web Services](https://dev.to/madgan95/amazon-web-services-2d7m)
+- [The Laravel Request Life Cycle is the basis of all Laravel applications](https://dev.to/thedevricha/the-laravel-request-life-cycle-is-the-basis-of-all-laravel-applications-3h9)
+- [Deploying an Existing Express API + Prisma + Supabase Project to Vercel](https://dev.to/7twilight/deploying-an-existing-express-api-prisma-supabase-project-to-vercel-1h0d)
+- [Increase Swap Memory in Ubuntu](https://dev.to/azayshrestha/increase-swap-memory-in-ubuntu-5bb1)
 - [Happy new year!](https://dev.to/ben/happy-new-year-403c)
-- [I Tried CodeRabbit — An AI Tool That Will Make Your Code Reviews 10X Faster &lpar;Seriously!&rpar;](https://dev.to/nitinfab/i-tried-coderabbit-an-ai-tool-that-will-make-your-code-reviews-10x-faster-seriously-10b)
-- [How to Use Styled Components for Scalable and Maintainable React Styling](https://dev.to/ayusharpcoder/how-to-use-styled-components-for-scalable-and-maintainable-react-styling-1nga)
-- [Untitled](https://dev.to/namita_debnath_b3e98db73f/untitled-51am)
-- [Microservices VS Monolith: Making the Right Choice](https://dev.to/extinctsion/microservices-vs-monolith-making-the-right-choice-5bcc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
