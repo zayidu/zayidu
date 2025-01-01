@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You can get your financial freedom with open-source in 2025! 🤑](https://dev.to/nevodavid/you-can-get-your-financial-freedom-with-open-source-in-2025-41i8)
-- [Is a Cisco Certification Worth It in 2025?](https://dev.to/skillboosttrainer/is-a-cisco-certification-worth-it-in-2025-39le)
-- [Automated Reporting in Automation Testing](https://dev.to/testreport-io/automated-reporting-in-automation-testing-1db)
-- [🚀 Your Daily Crypto Job Digest For 01 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-01-january-2hh5)
-- [Receive UDP Broadcast from PC on Android](https://dev.to/nanyuanzhige/receive-udp-broadcast-from-pc-on-android-1if5)
+- [Working with Matter Team Membership Using the IntApp Walls API](https://dev.to/seanmdrew/working-with-matter-team-membership-using-the-intapp-walls-api-2nop)
+- [2024: A Year in Review](https://dev.to/divyanshulohani/2024-a-year-in-review-4bj6)
+- [Automating Node.js Dependency Upgrades and Build Error Resolution Using AI](https://dev.to/rajamvv/automating-nodejs-dependency-upgrades-and-build-error-resolution-using-ai-ia7)
+- [Happy new year! 🥳✨](https://dev.to/thomasbnt/happy-new-year-50fj)
+- [🦄 2025’s First Look: Multi-State Buttons, Preloaded Fonts &amp; UX Retention Hacks](https://dev.to/adam/2025s-first-look-multi-state-buttons-preloaded-fonts-ux-retention-hacks-1li5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
