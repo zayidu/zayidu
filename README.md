@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to install react](https://dev.to/shahir_farhan_c5a1caf4bb1/how-to-install-react-575)
-- [2025 Tech Trends: What&#39;s In, What&#39;s Out, and What You Need to Know](https://dev.to/usman_awan/2025-tech-trends-whats-in-whats-out-and-what-you-need-to-know-37pj)
-- [Dynamic Port Handling in Node.js: Never Let Your Server Fail to Start 🚀](https://dev.to/jsdecoder/dynamic-port-handling-in-nodejs-never-let-your-server-fail-to-start-3371)
-- [Wizarding Repository](https://dev.to/_m_kabilan_/wizarding-repository-49e8)
-- [PHP 8.x Features You Should Be Using in 2025](https://dev.to/patoliyainfotech/php-8x-features-you-should-be-using-in-2025-5145)
+- [🚀 Introducing React AI: Open Source React Components Builder](https://dev.to/akshaynceo/introducing-react-ai-open-source-react-components-builder-2fk1)
+- [Apple promised next-gen CarPlay in 2024, so where is it? - The Verge](https://dev.to/hk9099/apple-promised-next-gen-carplay-in-2024-so-where-is-it-the-verge-4omo)
+- [Apple TV+ Sets Free Streaming Weekend In January - Deadline](https://dev.to/hk9099/apple-tv-sets-free-streaming-weekend-in-january-deadline-475b)
+- [Game of the Year: Best PS5 DLC of 2024 - Push Square](https://dev.to/hk9099/game-of-the-year-best-ps5-dlc-of-2024-push-square-33l0)
+- [LG’s new UltraGear GX9 series gaming monitor can go from flat to curved - GSMArena.com news - GSMArena.com](https://dev.to/hk9099/lgs-new-ultragear-gx9-series-gaming-monitor-can-go-from-flat-to-curved-gsmarenacom-news--4jcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
