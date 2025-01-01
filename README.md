@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ServBay 1.7.1 Released: Now Supports PHP 8.5-dev](https://dev.to/servbay/servbay-171-released-now-supports-php-85-dev-1ok7)
-- [Why do we need to maintain our own front-end engineering system?](https://dev.to/faurewu/why-do-we-need-to-maintain-our-own-front-end-engineering-system-3o2c)
-- [Streamline School Management with MeraSkool: Seamless Data Migration and More](https://dev.to/nobullshit-coder/streamline-school-management-with-meraskool-seamless-data-migration-and-more-573l)
-- [🚀 Discover Cloud Gallery: An Open-Source Photo Backup App for Flutter Devs!](https://dev.to/divyeshvekariya/discover-cloud-gallery-an-open-source-photo-backup-app-for-flutter-devs-47bn)
-- [Teorema de Nicômaco](https://dev.to/praciano/teorema-de-nicomaco-4f17)
+- [Happy new year!](https://dev.to/ben/happy-new-year-403c)
+- [I Tried CodeRabbit — An AI Tool That Will Make Your Code Reviews 10X Faster &lpar;Seriously!&rpar;](https://dev.to/nitinfab/i-tried-coderabbit-an-ai-tool-that-will-make-your-code-reviews-10x-faster-seriously-10b)
+- [How to Use Styled Components for Scalable and Maintainable React Styling](https://dev.to/ayusharpcoder/how-to-use-styled-components-for-scalable-and-maintainable-react-styling-1nga)
+- [Untitled](https://dev.to/namita_debnath_b3e98db73f/untitled-51am)
+- [Microservices VS Monolith: Making the Right Choice](https://dev.to/extinctsion/microservices-vs-monolith-making-the-right-choice-5bcc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
