@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Onion: A Minimalist Wrapper for Go’s HTTP Module](https://dev.to/saeed_alam_b4e7b1ce1517a2/onion-a-minimalist-wrapper-for-gos-http-module-50if)
-- [Daily JavaScript Challenge #JS-61: Next Greater Element in Circular Array](https://dev.to/dpc/daily-javascript-challenge-js-61-next-greater-element-in-circular-array-2122)
-- [AI in 2025: The Transformation We’re Not Ready For &lpar;Yet&rpar;](https://dev.to/asad1/ai-in-2025-the-transformation-were-not-ready-for-yet-2dkd)
-- [The Ongoing Struggle of Maintaining Sample Apps for APIs and SDKs](https://dev.to/junliang214/the-ongoing-struggle-of-maintaining-sample-apps-for-apis-and-sdks-432p)
-- [Se preferimos composição, então por que os frameworks usam herança?](https://dev.to/terminalcoffee/se-preferimos-composicao-entao-por-que-os-frameworks-usam-heranca-1ce5)
+- [Guidelines about the Refer-a-Friend Program](https://dev.to/tecno-security/guidelines-about-the-refer-a-friend-program-3c63)
+- [Deploying a Simple Static Website on AWS with CDK and TypeScript](https://dev.to/kasukur/deploying-a-simple-static-website-on-aws-with-cdk-and-typescript-oij)
+- [Problem Solving Patterns &lpar;Part 4&rpar;: Divide and Conquer](https://dev.to/kanishkaisuru/problem-solving-patterns-part-4-divide-and-conquer-1gl5)
+- [A New Relationship Between AI and Humans - Human Potential as a Source of Unpredictability](https://dev.to/abagames/a-new-relationship-between-ai-and-humans-human-potential-as-a-source-of-unpredictability-1n7m)
+- [QECO: A QoE-Oriented Computation Offloading Algorithm based on Deep Reinforcement Learning for Mobile Edge Computing](https://dev.to/semicolon_sammi_6008c7f01/qeco-a-qoe-oriented-computation-offloading-algorithm-based-on-deep-reinforcement-learning-for-2gda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
