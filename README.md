@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [80/365 | ¥10M Job Challenge - healthy body](https://dev.to/kameken100/80365-y10m-job-challenge-healthy-body-42d3)
-- [Assignments 4](https://dev.to/hema_latha/assignments-4-4epf)
-- [Microsoft Certified Azure Administrator Associate Exam &lpar;AZ-104&rpar; Lab Preparation #1: Azure Bastion](https://dev.to/auyeungdavid_2847435260/azure-exam-az-104-lab-preparation-1-azure-bastion-3i8e)
-- [How to Generate Release and Debug APKs in React Native📱](https://dev.to/amitkumar13/how-to-generate-release-and-debug-apks-in-react-native-4gpo)
-- [Chrome Built-in AI Challenge: Building an Extension with Gemini Nano AI That Changes Faster Than Me](https://dev.to/bhdrpkcn/chrome-built-in-ai-challenge-building-an-extension-with-gemini-nano-ai-that-changes-faster-than-me-462h)
+- [How to Secure TypeScript Applications...??](https://dev.to/shafayeat/how-to-secure-typescript-applications-5a27)
+- [React Native’s New Architecture: Sync and async rendering](https://dev.to/leemeganj/react-natives-new-architecture-sync-and-async-rendering-1d7f)
+- [Happy 11111101001! Join our New Year Writing Challenge 🔮](https://dev.to/devteam/happy-11111101001-join-our-new-year-writing-challenge-43g4)
+- [🎉 Let&#39;s Build an AI Twitter Post Project Using Gemini API, Next.js, and TailwindCSS 🚀](https://dev.to/jagroop2001/lets-build-an-ai-twitter-post-project-using-gemini-api-nextjs-and-tailwindcss-3194)
+- [📉 Why Improving Your AI Model Is Killing Your Project’s Success](https://dev.to/louis-dupont/why-improving-your-ai-model-is-killing-your-projects-success-4kkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
