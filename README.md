@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How New Grads Can Land a High-Paid Tech Job in 2025](https://dev.to/drjoshcsimmons/how-new-grads-can-land-a-high-paid-tech-job-in-2025-2ka3)
-- [What are the main challenges in SaaS product development](https://dev.to/thealgorithm/what-are-the-main-challenges-in-saas-product-development-578d)
-- [Python Script for Stock Sentiment Analysis](https://dev.to/ajayvallab/python-script-for-stock-sentiment-analysis-2do)
-- [OSI Model Layers and Protocols: Computer Networks](https://dev.to/harshm03/osi-model-layers-and-protocols-computer-networks-1i0e)
-- [Running Kibana, Elastic, and APM with Docker Compose](https://dev.to/sohail0992/running-kibana-elastic-and-apm-with-docker-compose-37ej)
+- [Onion: A Minimalist Wrapper for Go’s HTTP Module](https://dev.to/saeed_alam_b4e7b1ce1517a2/onion-a-minimalist-wrapper-for-gos-http-module-50if)
+- [Daily JavaScript Challenge #JS-61: Next Greater Element in Circular Array](https://dev.to/dpc/daily-javascript-challenge-js-61-next-greater-element-in-circular-array-2122)
+- [AI in 2025: The Transformation We’re Not Ready For &lpar;Yet&rpar;](https://dev.to/asad1/ai-in-2025-the-transformation-were-not-ready-for-yet-2dkd)
+- [The Ongoing Struggle of Maintaining Sample Apps for APIs and SDKs](https://dev.to/junliang214/the-ongoing-struggle-of-maintaining-sample-apps-for-apis-and-sdks-432p)
+- [Se preferimos composição, então por que os frameworks usam herança?](https://dev.to/terminalcoffee/se-preferimos-composicao-entao-por-que-os-frameworks-usam-heranca-1ce5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
