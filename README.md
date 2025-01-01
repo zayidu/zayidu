@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is Talking to AI So Comfortable? I Think I Figured It Out.](https://dev.to/dragorww/why-is-talking-to-ai-so-comfortable-i-think-i-figured-it-out-o8o)
-- [Antivirus in C++](https://dev.to/catalingrigoriev/antivirus-in-c-1432)
-- [Decoding ORM: A Deep Dive into Object-Relational Mapping](https://dev.to/ibrahimhyazouri/decoding-orm-a-deep-dive-into-object-relational-mapping-16dl)
-- [How to Enhance Notion Templates with AI for Smarter Workflows](https://dev.to/resource_bunk_1077cab07da/how-to-enhance-notion-templates-with-ai-for-smarter-workflows-4d57)
-- [React 19 : useOptimistic Hook](https://dev.to/satyaveer_jaligama/react-19-useoptimistic-hook-1kg)
+- [Retro&#39;ing and Debugging 2024: A Year That Challenged and Changed Me](https://dev.to/respect17/retroing-and-debugging-2024-a-year-that-challenged-and-changed-me-2geo)
+- [Why Do We Still Need Jackson or Gson in Java?](https://dev.to/joaomarques/why-do-we-still-need-jackson-or-gson-in-java-1994)
+- [🌟 Exciting Update: LivinGrimoire Wiki Revamp! 🌟](https://dev.to/owly/exciting-update-livingrimoire-wiki-revamp-2b3b)
+- [Advanced forms with Alpine.js](https://dev.to/jairusjoer/advanced-forms-with-alpinejs-2ea7)
+- [My Ultimate MacBook Productivity Tools 2025 &lpar;Free Edition&rpar;](https://dev.to/ayshacham/my-ultimate-macbook-productivity-setup-2025-free-edition-4m35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
