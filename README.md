@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Retro&#39;ing and Debugging 2024](https://dev.to/judy_kagia_b0614d39216209/retroing-and-debugging-2024-56d1)
-- [🌟 A Fresh Start with TaskMingle in 2025! 🌟](https://dev.to/nathan_samuel_97a610f3d35/a-fresh-start-with-taskmingle-in-2025-419)
-- [Any Rollbar Typescript users on here?](https://dev.to/rbnkruger/any-rollbar-typescript-users-on-here-3dc5)
-- [Revolutionizing Financial Services in MEA and AWS Cloud Migration](https://dev.to/jessica_williams_8192bc1f/revolutionizing-financial-services-in-mea-and-aws-cloud-migration-1agh)
-- [Aurora DSQL: How it Compares to YugabyteDB](https://dev.to/franckpachot/aurora-dsql-how-it-compares-to-yugabytedb-1ag0)
+- [How to Automate the Encryption of an Amazon RDS Instance with Python](https://dev.to/dm8ry/how-to-automate-the-encryption-of-an-amazon-rds-instance-with-python-51an)
+- [Building an LSM-Tree Storage Engine from Scratch](https://dev.to/justlorain/building-an-lsm-tree-storage-engine-from-scratch-3eom)
+- [Let&#39;s create Data Table. Part 6: Column filtering](https://dev.to/morewings/lets-create-data-table-part-6-column-filtering-3j5b)
+- [Why Your Notion Templates Aren’t Selling &lpar;And How to Fix It&rpar;](https://dev.to/resource_bunk_1077cab07da/why-your-notion-templates-arent-selling-and-how-to-fix-it-56g8)
+- [81/365 | ¥10M Job Challenge - The aftereffects](https://dev.to/kameken100/81365-y10m-job-challenge-the-aftereffects-62f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
