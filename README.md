@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 CSS Generators to Make Developer Life Easier!](https://dev.to/kafeel_ahmad/top-5-css-generators-to-make-developer-life-easier-8d4)
-- [AWS CloudWatch: Implementing Data Protection Policy for Sensitive Log Data!](https://dev.to/bhatiagirish/aws-cloudwatch-implementing-data-protection-policy-for-sensitive-log-data-5d4n)
-- [🔥[2025] Boost Your Machine Learning Knowledge with DevDuniya’s Comprehensive Tutorials🚀](https://dev.to/devduniya_/2025-boost-your-machine-learning-knowledge-with-devduniyas-comprehensive-tutorials-mha)
-- [OpenAI批处理的调用方式](https://dev.to/dragon72463399/openaipi-chu-li-de-diao-yong-fang-shi-2mp5)
-- [Predicting Unpredictable 2k25](https://dev.to/divyeshvekariya/predicting-unpredictable-2k25-52ag)
+- [How to break the cycle of firefighting and build engineering excellence](https://dev.to/jesalg/how-to-break-the-cycle-of-firefighting-and-build-engineering-excellence-406n)
+- [The Ultimate Guide to Launching Auto Chatbots for Your Business](https://dev.to/hitesh_umaletiya/the-ultimate-guide-to-launching-auto-chatbots-for-your-business-50f0)
+- [Designing User-Defined Methods in Java: Key Criteria](https://dev.to/alex_ricciardi/designing-user-defined-methods-in-java-key-criteria-15if)
+- [Mastering Dependency Injection in Flutter: A Deep Dive into GetIt](https://dev.to/michealgabriel/mastering-dependency-injection-in-flutter-a-deep-dive-into-getit-2fo2)
+- [Arrays in Java: Characteristics, Usage, and Real-Life Scenarios](https://dev.to/alex_ricciardi/arrays-in-java-characteristics-usage-and-real-life-scenarios-2l00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
