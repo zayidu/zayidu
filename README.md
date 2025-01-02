@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Podman for Windows](https://dev.to/rajamiththiran/podman-for-windows-4nm9)
-- [Johnny S - 2025 New Year Writing Challenge](https://dev.to/johnny_santamaria_64/johnny-s-2025-new-year-writing-challenge-1hlm)
-- [My X List For developers and designers](https://dev.to/chriisduran/my-x-list-for-developers-and-designers-210c)
-- [Creating a Neon Theme Using Tailwind CSS](https://dev.to/ingeborg_adolfs_c414578af/creating-a-neon-theme-using-tailwind-css-1fm9)
-- [Simplify Debugging with cl-print: A Handy Tool for Node.js Developers](https://dev.to/gitkrishnaa/simplify-debugging-with-cl-print-a-handy-tool-for-nodejs-developers-1329)
+- [PHP, Python, Node.js, which one is the most suitable for writing crawlers?](https://dev.to/98ip/php-python-nodejs-which-one-is-the-most-suitable-for-writing-crawlers-2j3p)
+- [Arquitectura Medallion para procesamiento de datos](https://dev.to/andresguecha/arquitectura-medallion-para-procesamiento-de-datos-736)
+- [Assignment](https://dev.to/hema_latha/assignment-65f)
+- [Delta Lake de datos](https://dev.to/andresguecha/delta-lake-de-datos-26mh)
+- [Ejemplo basico de aplicacion web para visualizacion de datos con Streamlit + Python](https://dev.to/andresguecha/ejemplo-basico-de-aplicacion-web-para-visualizacion-de-datos-con-streamlit-python-4oh7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
