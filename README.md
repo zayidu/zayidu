@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How And Why The Developer-First Approach Is Changing The Observability Landscape](https://dev.to/metis/how-and-why-the-developer-first-approach-is-changing-the-observability-landscape-25j0)
-- [The Return of the Blog](https://dev.to/ericbl3/the-return-of-the-blog-3i1n)
-- [My 2024 &lpar;and 3rd year&rpar; as an AWS Community Builder](https://dev.to/aws-builders/my-2024-and-3rd-year-as-an-aws-community-builder-acn)
-- [Cybersecurity Understanding the OWASP® Top 10 Security Threats](https://dev.to/marcoatl/cybersecurity-understanding-the-owaspr-top-10-security-threats-59ln)
-- [2025, Starting Today](https://dev.to/envitab/2025-starting-today-72e)
+- [BEST PRACTICES FOR DEFINING METRICS](https://dev.to/favxlaw/best-practices-for-defining-metrics-20ka)
+- [Events in Node.js](https://dev.to/msnmongare/events-in-nodejs-381d)
+- [Typescript and HTML attributes in various frameworks](https://dev.to/baohuynhlam/typescript-and-html-attributes-in-various-frameworks-38j8)
+- [AI for Human-Centric Testing](https://dev.to/anil_csimplifyit_905c/ai-for-human-centric-testing-2b93)
+- [Prognostication of Tech 2025](https://dev.to/mikejet/prognostication-of-tech-2025-2877)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
