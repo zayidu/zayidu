@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Process Management: Operating System](https://dev.to/harshm03/process-management-operating-system-18gl)
-- [Common Lisp HTML templates: using Djula in .lisp files](https://dev.to/vindarel/common-lisp-html-templates-using-djula-in-lisp-files-4e64)
-- [Kubernetes Network &lpar;5&rpar; -- Ingress and NodePort](https://dev.to/cheedge_lee/kubernetes-network-5-ingress-and-nodeport-329i)
-- [Unveiling Real-Time Communication: WebSockets and You](https://dev.to/jfreveb/unveiling-real-time-communication-websockets-and-you-5eib)
-- [Understanding and Preventing Fetch Waterfalls in React](https://dev.to/richardbray/understanding-and-preventing-fetch-waterfalls-in-react-454k)
+- [Compiling 2025: My Roadmap for the Year Ahead](https://dev.to/codeswithroh/compiling-2025-my-roadmap-for-the-year-ahead-4bp8)
+- [Handling Dynamic Preview URLs in Cypress Tests](https://dev.to/qaproengineer/handling-dynamic-preview-urls-in-cypress-tests-2k91)
+- [Unlocking Efficiency: How Internal Developer Platforms Transform Software Development in 2025](https://dev.to/jetthoughts/unlocking-efficiency-how-internal-developer-platforms-transform-software-development-in-2025-4okn)
+- [A Throwback to My Holberton Days: Crafting a Simple Shell in C](https://dev.to/arycodes0/a-throwback-to-my-holberton-days-crafting-a-simple-shell-in-c-1915)
+- [Troubleshooting &quot;canceling statement due to conflict with recovery&quot; in PostgreSQL: A Practical Guide](https://dev.to/dm8ry/troubleshooting-canceling-statement-due-to-conflict-with-recovery-in-postgresql-a-practical-guide-55h7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
