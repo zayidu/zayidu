@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Tips to Make Your Code Shine! ✨](https://dev.to/iftakher_hossen/tips-for-writing-cleaner-python-code-4f9g)
-- [Subnetting Demystified: Concepts, Importance, and a Real-World Example](https://dev.to/daniel_idoko/subnetting-demystified-concepts-importance-and-a-real-world-example-1co)
-- [Introduction to Operating System](https://dev.to/harshm03/introduction-to-operating-system-goe)
-- [Creating a To-Do app with Django and HTMX - Part 3: Creating the frontend and adding HTMX](https://dev.to/rodbv/creating-a-to-do-app-with-django-and-htmx-part-3-adding-the-frontend-with-daisyui-324n)
-- [Buckets? No, S3 buckets](https://dev.to/sharon_enam/buckets-no-s3-buckets-4aci)
+- [Process Management: Operating System](https://dev.to/harshm03/process-management-operating-system-18gl)
+- [Common Lisp HTML templates: using Djula in .lisp files](https://dev.to/vindarel/common-lisp-html-templates-using-djula-in-lisp-files-4e64)
+- [Kubernetes Network &lpar;5&rpar; -- Ingress and NodePort](https://dev.to/cheedge_lee/kubernetes-network-5-ingress-and-nodeport-329i)
+- [Unveiling Real-Time Communication: WebSockets and You](https://dev.to/jfreveb/unveiling-real-time-communication-websockets-and-you-5eib)
+- [Understanding and Preventing Fetch Waterfalls in React](https://dev.to/richardbray/understanding-and-preventing-fetch-waterfalls-in-react-454k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
