@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JS in bits: A series](https://dev.to/avinashd10/js-in-bits-a-series-3ah6)
-- [What Are the Key Features of a Successful AI and ML Solution?](https://dev.to/robertadler/what-are-the-key-features-of-a-successful-ai-and-ml-solution-5bj)
-- [GISBox Converting DEM files to Cesium Terrain format](https://dev.to/gisbox/gisbox-converting-dem-files-to-cesium-terrain-format-hmj)
-- [7 Proven React State Management Strategies for Efficient Development](https://dev.to/aaravjoshi/7-proven-react-state-management-strategies-for-efficient-development-1n5c)
-- [Common Cybersecurity Misconceptions and How to Avoid Them](https://dev.to/aditya8raj/common-cybersecurity-misconceptions-and-how-to-avoid-them-2328)
+- [Best Practices for Writing Code in Tailwind CSS!](https://dev.to/hexa-home/best-practices-for-writing-code-in-tailwind-css-19lg)
+- [Unlocking the Magic of JavaScript Functions](https://dev.to/thedevricha/unlocking-the-magic-of-javascript-functions-1e2)
+- [Understanding Javascript Functions](https://dev.to/thedevricha/understanding-javascript-functions-40hn)
+- [[Boost]](https://dev.to/cristiansarmiento/-4bc8)
+- [UkrGuru.Sql &lpar;.NET &lt;=&gt; SQL&rpar;](https://dev.to/ukrguru/ukrgurusql-net-sql-2c0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
