@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to setup VueJs in Neovim &lpar;January 2025&rpar;](https://dev.to/ionut_gabrielmarisescu_f/how-to-setup-vuejs-in-neovim-january-2025-39bi)
-- [Selenium Testing: The Complete Step-by-Step Tutorial](https://dev.to/testifytech/selenium-testing-the-complete-step-by-step-tutorial-8b2)
-- [Docker para Jrs #2: Imágenes y Contenedores 🍰](https://dev.to/gareisdev/docker-para-jrs-2-imagenes-y-contenedores-18a3)
-- [Devnax](https://dev.to/devnax/devnax-3glm)
-- [🚀 Your Daily Crypto Job Digest For 02 January!! 🚀](https://dev.to/web3hires/your-daily-crypto-job-digest-for-02-january-4f0b)
+- [Blockchain Explained: Development, Security, and Integration with Neo4j](https://dev.to/taimax13/blockchain-explained-development-security-and-integration-with-neo4j-2ja6)
+- [Sometimes life pushes you out of your comfort zone, forcing you to face the unexpected.](https://dev.to/taimax13/sometimes-life-pushes-you-out-of-your-comfort-zone-forcing-you-to-face-the-unexpected-2hck)
+- [Step-by-Step Guide to Configuring Cribl and Grafana for Data Processing](https://dev.to/mettasurendhar/step-by-step-guide-to-configuring-cribl-and-grafana-for-data-processing-1j0f)
+- [Thinking Outside the Box: A Conceptual Framework for Machine Learning and Data Analysis](https://dev.to/taimax13/thinking-outside-the-box-a-conceptual-framework-for-machine-learning-and-data-analysis-1fb0)
+- [Building Corruptbox 3: A Web-Based Music Creation Game](https://dev.to/asce0110/building-corruptbox-3-a-web-based-music-creation-game-377i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
