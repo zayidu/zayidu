@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Redirects in Laravel: A Critical Guide to Secure Your Application](https://dev.to/pentest_testing_corp/open-redirects-in-laravel-a-critical-guide-to-secure-your-application-42o5)
-- [Range Sum Query - Immutable](https://dev.to/prashantrmishra/range-sum-query-immutable-pab)
-- [LeetCode Challenge: 15. 3Sum - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-15-3sum-javascript-solution-5c0g)
-- [The spice trade has been an integral part of India&#39;s history for over 2,000 years. From the ancient spice exporters in india routes that snaked through South Asia to the modern-day globalized market, India has consistently played a key role in supplying t](https://dev.to/swanispice/the-spice-trade-has-been-an-integral-part-of-indias-history-for-over-2000-years-from-the-ancient-559h)
-- [Application Logic vs. Business Logic: Key Differences with Simple Examples](https://dev.to/lvalen/application-logic-vs-business-logic-key-differences-with-simple-examples-520f)
+- [Personal Portfolio | NexT JS](https://dev.to/shubhamtiwari909/personal-portfolio-next-js-35gf)
+- [Learn how to create a basic Kanban board with Tailwind CSS and JavaScript](https://dev.to/mike_andreuzza/learn-how-to-create-a-basic-kanban-board-with-tailwind-css-and-javascript-2dj3)
+- [Telemetry and Tracing: A Comprehensive Overview](https://dev.to/pragyasapkota/telemetry-and-tracing-a-comprehensive-overview-4fj3)
+- [OSPF &lpar;Open Shortest Path First&rpar; - Backbone Area &lpar;Area 0&rpar; dan Fail Over](https://dev.to/heavenaulianisa/ospf-open-shortest-path-first-backbone-area-area-0-dan-fail-over-1j39)
+- [🚀 Build BigCommerce Apps 10x Faster with Gadget!](https://dev.to/devkind_team_87470192adf9/build-bigcommerce-apps-10x-faster-with-gadget-9pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
