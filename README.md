@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Lost to Found: My Transformative Journey Through 2024](https://dev.to/dipeshdeula/from-lost-to-found-my-transformative-journey-through-2024-9ja)
-- [Microsoft Certified Azure Administrator Associate Exam &lpar;AZ-104&rpar; Lab Preparation #2: Azure Policy](https://dev.to/auyeungdavid_2847435260/microsoft-certified-azure-administrator-associate-exam-az-104-lab-preparation-2-azure-policy-g9)
-- [PHP OOP Part-2: Constructor and Destructor](https://dev.to/jamir_hossain_8800f85fdd5/php-oop-part-2-constructor-and-destructor-387h)
-- [Melhores APIs JavaScript para carregamento &lpar;upload&rpar; de arquivos em 2025](https://dev.to/danielroncaglia/melhores-apis-javascript-para-carregamento-upload-de-arquivos-em-2025-1312)
-- [PHP OOP Part-1: Introduction, Object, and Class](https://dev.to/jamir_hossain_8800f85fdd5/php-oop-part-1-introduction-object-and-class-k6m)
+- [Retro&#39;ing and Debugging 2024](https://dev.to/judy_kagia_b0614d39216209/retroing-and-debugging-2024-56d1)
+- [🌟 A Fresh Start with TaskMingle in 2025! 🌟](https://dev.to/nathan_samuel_97a610f3d35/a-fresh-start-with-taskmingle-in-2025-419)
+- [Any Rollbar Typescript users on here?](https://dev.to/rbnkruger/any-rollbar-typescript-users-on-here-3dc5)
+- [Revolutionizing Financial Services in MEA and AWS Cloud Migration](https://dev.to/jessica_williams_8192bc1f/revolutionizing-financial-services-in-mea-and-aws-cloud-migration-1agh)
+- [Aurora DSQL: How it Compares to YugabyteDB](https://dev.to/franckpachot/aurora-dsql-how-it-compares-to-yugabytedb-1ag0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
