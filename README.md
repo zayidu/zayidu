@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing Extendify: A Sleek Taskbar Enhancement Utility for Windows 🎉](https://dev.to/idris_jimoh/introducing-extendify-a-sleek-taskbar-enhancement-utility-for-windows-5h69)
-- [Rails Soft Delete &amp; Audit Logging Guide](https://dev.to/sulmanweb/rails-soft-delete-audit-logging-guide-4m2d)
-- [npm error &#39;node&#39; is not recognized as an internal or external command](https://dev.to/mibii/npm-error-node-is-not-recognized-as-an-internal-or-external-command-1g1k)
-- [Introduction to the Android `res` Directory](https://dev.to/surhidamatya/introduction-to-the-android-res-directory-3848)
-- [[Boost]](https://dev.to/khalifalmahmud0/-5adn)
+- [Different project structures for React Apps.](https://dev.to/nsltharaka/different-project-structures-for-react-apps-3jgp)
+- [My First Step on the Journey to Becoming a Cloud Developer](https://dev.to/ajmerr/my-first-step-on-the-journey-to-becoming-a-cloud-developer-5dce)
+- [Discover the Latest React Ecosystem Trends and Innovations in 2025](https://dev.to/rigalpatel001/discover-the-latest-react-ecosystem-trends-and-innovations-in-2025-2ej9)
+- [Integrating Locally running Postgres with Claude Desktop](https://dev.to/ajeetraina/integrating-locally-running-postgres-with-claude-desktop-188p)
+- [Win Free Membership: Access 49 Professional Website Templates](https://dev.to/arishn/win-free-membership-access-49-professional-website-templates-588d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
