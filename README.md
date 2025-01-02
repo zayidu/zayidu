@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain Explained: Development, Security, and Integration with Neo4j](https://dev.to/taimax13/blockchain-explained-development-security-and-integration-with-neo4j-2ja6)
-- [Sometimes life pushes you out of your comfort zone, forcing you to face the unexpected.](https://dev.to/taimax13/sometimes-life-pushes-you-out-of-your-comfort-zone-forcing-you-to-face-the-unexpected-2hck)
-- [Step-by-Step Guide to Configuring Cribl and Grafana for Data Processing](https://dev.to/mettasurendhar/step-by-step-guide-to-configuring-cribl-and-grafana-for-data-processing-1j0f)
-- [Thinking Outside the Box: A Conceptual Framework for Machine Learning and Data Analysis](https://dev.to/taimax13/thinking-outside-the-box-a-conceptual-framework-for-machine-learning-and-data-analysis-1fb0)
-- [Building Corruptbox 3: A Web-Based Music Creation Game](https://dev.to/asce0110/building-corruptbox-3-a-web-based-music-creation-game-377i)
+- [Previewing and comparing fonts directly on your website?](https://dev.to/paul_freeman/previewing-and-comparing-fonts-directly-on-your-website-3c5e)
+- [Prefix Sum](https://dev.to/mujahida_joynab_64c7407d8/prefix-sum-2ig8)
+- [Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!](https://dev.to/aws-builders/use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5)
+- [Free Obsidian PC Android sync](https://dev.to/matsch1/free-obsidian-pc-android-sync-jm5)
+- [Understanding Corporate Culture](https://dev.to/shreyash-hexa/understanding-corporate-culture-2m41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
