@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New Year New Me: 17 Best Programming Books for Beginner Devs 2025](https://dev.to/abhisekgour/new-year-new-me-17-best-programming-books-for-beginner-devs-2025-5d00)
-- [⚡️The Best Postman Alternative for IntelliJ Every Developer Will Want to Know! 🔥](https://dev.to/roobia/the-best-postman-alternative-for-intellij-every-developer-will-want-to-know-465a)
-- [How to Track Plugins on WordPress.org?](https://dev.to/dmtlo/how-to-track-plugins-on-wordpressorg-1c8k)
-- [My Vision for 2025: A Year of Growth, Innovation, and Impact](https://dev.to/shikhar_sen_885f39d759ded/my-vision-for-2025-a-year-of-growth-innovation-and-impact-5702)
-- [Hello Dev !](https://dev.to/yaswanth8327/hello-dev--2ojj)
+- [JS in bits: A series](https://dev.to/avinashd10/js-in-bits-a-series-3ah6)
+- [What Are the Key Features of a Successful AI and ML Solution?](https://dev.to/robertadler/what-are-the-key-features-of-a-successful-ai-and-ml-solution-5bj)
+- [GISBox Converting DEM files to Cesium Terrain format](https://dev.to/gisbox/gisbox-converting-dem-files-to-cesium-terrain-format-hmj)
+- [7 Proven React State Management Strategies for Efficient Development](https://dev.to/aaravjoshi/7-proven-react-state-management-strategies-for-efficient-development-1n5c)
+- [Common Cybersecurity Misconceptions and How to Avoid Them](https://dev.to/aditya8raj/common-cybersecurity-misconceptions-and-how-to-avoid-them-2328)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
