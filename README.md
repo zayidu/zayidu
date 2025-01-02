@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Compiling 2025: My Roadmap for the Year Ahead](https://dev.to/codeswithroh/compiling-2025-my-roadmap-for-the-year-ahead-4bp8)
-- [Handling Dynamic Preview URLs in Cypress Tests](https://dev.to/qaproengineer/handling-dynamic-preview-urls-in-cypress-tests-2k91)
-- [Unlocking Efficiency: How Internal Developer Platforms Transform Software Development in 2025](https://dev.to/jetthoughts/unlocking-efficiency-how-internal-developer-platforms-transform-software-development-in-2025-4okn)
-- [A Throwback to My Holberton Days: Crafting a Simple Shell in C](https://dev.to/arycodes0/a-throwback-to-my-holberton-days-crafting-a-simple-shell-in-c-1915)
-- [Troubleshooting &quot;canceling statement due to conflict with recovery&quot; in PostgreSQL: A Practical Guide](https://dev.to/dm8ry/troubleshooting-canceling-statement-due-to-conflict-with-recovery-in-postgresql-a-practical-guide-55h7)
+- [Day 2 of My 2025 Coding Streak: Major Progress on Lyra](https://dev.to/winnerezy/day-2-of-my-2025-coding-streak-major-progress-on-lyra-5d2l)
+- [To comment, or not to comment](https://dev.to/xaberue/to-comment-or-not-to-comment-18a3)
+- [Integrating AI and Coding in Early STEM Education](https://dev.to/jds64/integrating-ai-and-coding-in-early-stem-education-3gnm)
+- [The Journey of Optimization](https://dev.to/dkuku/the-journey-of-optimization-4j15)
+- [Las claves para NO romperlo TODO: Branches en Git 🚨🔑](https://dev.to/missa_eng/las-claves-para-no-romperlo-todo-branches-en-git-5amb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
