@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to break the cycle of firefighting and build engineering excellence](https://dev.to/jesalg/how-to-break-the-cycle-of-firefighting-and-build-engineering-excellence-406n)
-- [The Ultimate Guide to Launching Auto Chatbots for Your Business](https://dev.to/hitesh_umaletiya/the-ultimate-guide-to-launching-auto-chatbots-for-your-business-50f0)
-- [Designing User-Defined Methods in Java: Key Criteria](https://dev.to/alex_ricciardi/designing-user-defined-methods-in-java-key-criteria-15if)
-- [Mastering Dependency Injection in Flutter: A Deep Dive into GetIt](https://dev.to/michealgabriel/mastering-dependency-injection-in-flutter-a-deep-dive-into-getit-2fo2)
-- [Arrays in Java: Characteristics, Usage, and Real-Life Scenarios](https://dev.to/alex_ricciardi/arrays-in-java-characteristics-usage-and-real-life-scenarios-2l00)
+- [🚀 Introducing Extendify: A Sleek Taskbar Enhancement Utility for Windows 🎉](https://dev.to/idris_jimoh/introducing-extendify-a-sleek-taskbar-enhancement-utility-for-windows-5h69)
+- [Rails Soft Delete &amp; Audit Logging Guide](https://dev.to/sulmanweb/rails-soft-delete-audit-logging-guide-4m2d)
+- [npm error &#39;node&#39; is not recognized as an internal or external command](https://dev.to/mibii/npm-error-node-is-not-recognized-as-an-internal-or-external-command-1g1k)
+- [Introduction to the Android `res` Directory](https://dev.to/surhidamatya/introduction-to-the-android-res-directory-3848)
+- [[Boost]](https://dev.to/khalifalmahmud0/-5adn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
