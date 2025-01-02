@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Different project structures for React Apps.](https://dev.to/nsltharaka/different-project-structures-for-react-apps-3jgp)
-- [My First Step on the Journey to Becoming a Cloud Developer](https://dev.to/ajmerr/my-first-step-on-the-journey-to-becoming-a-cloud-developer-5dce)
-- [Discover the Latest React Ecosystem Trends and Innovations in 2025](https://dev.to/rigalpatel001/discover-the-latest-react-ecosystem-trends-and-innovations-in-2025-2ej9)
-- [Integrating Locally running Postgres with Claude Desktop](https://dev.to/ajeetraina/integrating-locally-running-postgres-with-claude-desktop-188p)
-- [Win Free Membership: Access 49 Professional Website Templates](https://dev.to/arishn/win-free-membership-access-49-professional-website-templates-588d)
+- [Open Redirects in Laravel: A Critical Guide to Secure Your Application](https://dev.to/pentest_testing_corp/open-redirects-in-laravel-a-critical-guide-to-secure-your-application-42o5)
+- [Range Sum Query - Immutable](https://dev.to/prashantrmishra/range-sum-query-immutable-pab)
+- [LeetCode Challenge: 15. 3Sum - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-15-3sum-javascript-solution-5c0g)
+- [The spice trade has been an integral part of India&#39;s history for over 2,000 years. From the ancient spice exporters in india routes that snaked through South Asia to the modern-day globalized market, India has consistently played a key role in supplying t](https://dev.to/swanispice/the-spice-trade-has-been-an-integral-part-of-indias-history-for-over-2000-years-from-the-ancient-559h)
+- [Application Logic vs. Business Logic: Key Differences with Simple Examples](https://dev.to/lvalen/application-logic-vs-business-logic-key-differences-with-simple-examples-520f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
