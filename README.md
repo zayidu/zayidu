@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Previewing and comparing fonts directly on your website?](https://dev.to/paul_freeman/previewing-and-comparing-fonts-directly-on-your-website-3c5e)
-- [Prefix Sum](https://dev.to/mujahida_joynab_64c7407d8/prefix-sum-2ig8)
-- [Use Amazon Bedrock Models with OpenAI SDKs with a Serverless Proxy Endpoint - Without Fixed Cost!](https://dev.to/aws-builders/use-amazon-bedrock-models-via-an-openai-api-compatible-serverless-endpoint-now-without-fixed-cost-5hf5)
-- [Free Obsidian PC Android sync](https://dev.to/matsch1/free-obsidian-pc-android-sync-jm5)
-- [Understanding Corporate Culture](https://dev.to/shreyash-hexa/understanding-corporate-culture-2m41)
+- [Codewars - Friend or Foe?](https://dev.to/dantedinopegassi/codewars-friend-or-foe-2o0o)
+- [How Can Help You in This Cron JOB Code?](https://dev.to/aneesaali/how-can-help-you-in-this-cron-job-code-433f)
+- [New Year Writing Challenge](https://dev.to/balram_roy_1664bfa3ffbc44/new-year-writing-challenge-3f2b)
+- [Terraform Modules](https://dev.to/574n13y/terraform-modules-4ca9)
+- [#100DAYSOFCODE: Day 7](https://dev.to/isaiahhtml/100daysofcode-day-7-io8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
