@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP, Python, Node.js, which one is the most suitable for writing crawlers?](https://dev.to/98ip/php-python-nodejs-which-one-is-the-most-suitable-for-writing-crawlers-2j3p)
-- [Arquitectura Medallion para procesamiento de datos](https://dev.to/andresguecha/arquitectura-medallion-para-procesamiento-de-datos-736)
-- [Assignment](https://dev.to/hema_latha/assignment-65f)
-- [Delta Lake de datos](https://dev.to/andresguecha/delta-lake-de-datos-26mh)
-- [Ejemplo basico de aplicacion web para visualizacion de datos con Streamlit + Python](https://dev.to/andresguecha/ejemplo-basico-de-aplicacion-web-para-visualizacion-de-datos-con-streamlit-python-4oh7)
+- [Top 5 CSS Generators to Make Developer Life Easier!](https://dev.to/kafeel_ahmad/top-5-css-generators-to-make-developer-life-easier-8d4)
+- [AWS CloudWatch: Implementing Data Protection Policy for Sensitive Log Data!](https://dev.to/bhatiagirish/aws-cloudwatch-implementing-data-protection-policy-for-sensitive-log-data-5d4n)
+- [🔥[2025] Boost Your Machine Learning Knowledge with DevDuniya’s Comprehensive Tutorials🚀](https://dev.to/devduniya_/2025-boost-your-machine-learning-knowledge-with-devduniyas-comprehensive-tutorials-mha)
+- [OpenAI批处理的调用方式](https://dev.to/dragon72463399/openaipi-chu-li-de-diao-yong-fang-shi-2mp5)
+- [Predicting Unpredictable 2k25](https://dev.to/divyeshvekariya/predicting-unpredictable-2k25-52ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
