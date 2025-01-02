@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BEST PRACTICES FOR DEFINING METRICS](https://dev.to/favxlaw/best-practices-for-defining-metrics-20ka)
-- [Events in Node.js](https://dev.to/msnmongare/events-in-nodejs-381d)
-- [Typescript and HTML attributes in various frameworks](https://dev.to/baohuynhlam/typescript-and-html-attributes-in-various-frameworks-38j8)
-- [AI for Human-Centric Testing](https://dev.to/anil_csimplifyit_905c/ai-for-human-centric-testing-2b93)
-- [Prognostication of Tech 2025](https://dev.to/mikejet/prognostication-of-tech-2025-2877)
+- [Podman for Windows](https://dev.to/rajamiththiran/podman-for-windows-4nm9)
+- [Johnny S - 2025 New Year Writing Challenge](https://dev.to/johnny_santamaria_64/johnny-s-2025-new-year-writing-challenge-1hlm)
+- [My X List For developers and designers](https://dev.to/chriisduran/my-x-list-for-developers-and-designers-210c)
+- [Creating a Neon Theme Using Tailwind CSS](https://dev.to/ingeborg_adolfs_c414578af/creating-a-neon-theme-using-tailwind-css-1fm9)
+- [Simplify Debugging with cl-print: A Handy Tool for Node.js Developers](https://dev.to/gitkrishnaa/simplify-debugging-with-cl-print-a-handy-tool-for-nodejs-developers-1329)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
