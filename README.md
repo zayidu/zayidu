@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Codewars - Friend or Foe?](https://dev.to/dantedinopegassi/codewars-friend-or-foe-2o0o)
-- [How Can Help You in This Cron JOB Code?](https://dev.to/aneesaali/how-can-help-you-in-this-cron-job-code-433f)
-- [New Year Writing Challenge](https://dev.to/balram_roy_1664bfa3ffbc44/new-year-writing-challenge-3f2b)
-- [Terraform Modules](https://dev.to/574n13y/terraform-modules-4ca9)
-- [#100DAYSOFCODE: Day 7](https://dev.to/isaiahhtml/100daysofcode-day-7-io8)
+- [From Lost to Found: My Transformative Journey Through 2024](https://dev.to/dipeshdeula/from-lost-to-found-my-transformative-journey-through-2024-9ja)
+- [Microsoft Certified Azure Administrator Associate Exam &lpar;AZ-104&rpar; Lab Preparation #2: Azure Policy](https://dev.to/auyeungdavid_2847435260/microsoft-certified-azure-administrator-associate-exam-az-104-lab-preparation-2-azure-policy-g9)
+- [PHP OOP Part-2: Constructor and Destructor](https://dev.to/jamir_hossain_8800f85fdd5/php-oop-part-2-constructor-and-destructor-387h)
+- [Melhores APIs JavaScript para carregamento &lpar;upload&rpar; de arquivos em 2025](https://dev.to/danielroncaglia/melhores-apis-javascript-para-carregamento-upload-de-arquivos-em-2025-1312)
+- [PHP OOP Part-1: Introduction, Object, and Class](https://dev.to/jamir_hossain_8800f85fdd5/php-oop-part-1-introduction-object-and-class-k6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
