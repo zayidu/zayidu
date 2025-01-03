@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎈5 AI Coding Tools That Will Change the Way You Develop Forever🎇&lpar;You Won&#39;t Believe #3!&rpar;](https://dev.to/apilover/5-ai-coding-tools-that-will-change-the-way-you-develop-foreveryou-wont-believe-3-495c)
-- [5 Killer Habits: Be a Rebel](https://dev.to/srishti_upadhyay_561/5-killer-habits-be-a-rebel-jed)
-- [Check Out My New CV as a Full Stack .NET Developer!](https://dev.to/1hamzabek/check-out-my-new-cv-as-a-full-stack-net-developer-67o)
-- [Exploring Data Flow via Email Transmission](https://dev.to/olymahmud/exploring-data-flow-via-email-transmission-5en7)
-- [The 15 Things You Should Include in Your App Launch](https://dev.to/testscenario/the-15-things-you-should-include-in-your-app-launch-2m6h)
+- [How to use queue data structure in programming](https://dev.to/volodymyr_potiichuk/how-to-use-queue-data-structure-in-programming-5h7)
+- [Techie Limericks: A Humorous Dive into Code, APIs, and Neural Networks](https://dev.to/romanmarshanski/techie-limericks-a-humorous-dive-into-code-apis-and-neural-networks-dh)
+- [AI Traffic Control System Slashes Wait Times by 23% Using Smart Intersection Management](https://dev.to/mikeyoung44/ai-traffic-control-system-slashes-wait-times-by-23-using-smart-intersection-management-578f)
+- [Chatbots That Act Less Human Get More Donations, Study Finds](https://dev.to/mikeyoung44/chatbots-that-act-less-human-get-more-donations-study-finds-49gn)
+- [New Benchmark Tests AI&#39;s Ability to Catch Life-Threatening Medical Documentation Errors](https://dev.to/mikeyoung44/new-benchmark-tests-ais-ability-to-catch-life-threatening-medical-documentation-errors-3l77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
