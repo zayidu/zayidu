@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My take on the Memory Layer Paper by Meta &lpar;noob friendly&rpar;](https://dev.to/govindsb/my-take-on-the-memory-layer-paper-by-meta-noob-friendly-3hgo)
-- [Wrong translation on react document](https://dev.to/charles_wu_c9b6f289dbcb23/wrong-translation-on-react-document-pm)
-- [Alternatives to LocalTunnel for exposing your local development server to the internet](https://dev.to/msnmongare/alternatives-to-localtunnel-for-exposing-your-local-development-server-to-the-internet-49hm)
-- [Memory Management in Java: Java Virtual Machine](https://dev.to/alex_ricciardi/memory-management-in-java-java-virtual-machine-5b42)
-- [Publishing NPM package with Github Actions that react-hook-use-cta used](https://dev.to/rafde/publishing-npm-package-with-github-actions-that-react-hook-use-cta-used-3e0g)
+- [3-Step Guide to Add LinkedIn OpenID Sign-In to Your App &lpar;2025 Edition&rpar; 🚀](https://dev.to/lovestaco/3-step-guide-to-add-linkedin-openid-sign-in-to-your-app-2025-edition-1mjh)
+- [I Built BeatApp for Better Productivity — Now I Need Your Feedback! 💡](https://dev.to/sebasqui/i-built-beatapp-for-better-productivity-now-i-need-your-feedback-5938)
+- [Storage Management: Operating System](https://dev.to/harshm03/storage-management-operating-system-oef)
+- [Walkthrough on AWS Simple Notification Service&lpar;SNS&rpar;](https://dev.to/opssydo/walkthrough-on-aws-simple-notification-servicesns-4074)
+- [What do you think of the Cursor editor?](https://dev.to/bntstr/what-do-you-think-of-the-cursor-editor-33o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
