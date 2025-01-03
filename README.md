@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Cilium to work on Ubuntu Cloud Image](https://dev.to/hatr0/getting-cilium-to-work-on-ubuntu-cloud-image-3843)
-- [The Mina Ecosystem: Extensive Overview](https://dev.to/adam_opeyemi_9552ccf1eecd/the-mina-ecosystem-extensive-overview-e49)
-- [Transforming Retail Shelf Monitoring with AI-Powered Computer Vision](https://dev.to/chandrus/transforming-retail-shelf-monitoring-with-ai-powered-computer-vision-bhg)
-- [Why Regular Ruby Updates Are a Must for Your App](https://dev.to/railsup_sedin/why-regular-ruby-updates-are-a-must-for-your-app-g35)
-- [Giới Thiệu Về Iterative Và Incremental Frameworks](https://dev.to/hcmute_project_988df1c63c/gioi-thieu-ve-iterative-va-incremental-frameworks-1771)
+- [Annual Report：Highlights of the Apache DolphinScheduler Community in 2024!](https://dev.to/chen_debra_3060b21d12b1b0/annual-reporthighlights-of-the-apache-dolphinscheduler-community-in-2024-5971)
+- [Configuring AWS WAF, CloudFront, and S3 Bucket for Secure Access](https://dev.to/randiakm/configuring-aws-waf-cloudfront-and-s3-bucket-for-secure-access-24a3)
+- [Typical Project Timings: Quản Lý Thời Gian Trong Phát Triển Phần Mềm](https://dev.to/hcmute_project_988df1c63c/typical-project-timings-quan-ly-thoi-gian-trong-phat-trien-phan-mem-2dco)
+- [Các thành phần của Class Diagram](https://dev.to/hcmute_project_988df1c63c/cac-thanh-phan-cua-class-diagram-4638)
+- [Day 30 -HTML ans CSS](https://dev.to/lakshmipritha/day-30-html-ans-css-3bmn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
