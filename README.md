@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Change a .Net Console application into an web application](https://dev.to/gaotter/change-a-net-console-application-into-an-web-application-2i2l)
-- [Top 5 Go Libraries Every Backend Developer Should Know](https://dev.to/siddheshk02/top-5-go-libraries-every-backend-developer-should-know-1nhn)
-- [Lección 1: Introducción a Python y su Instalación](https://dev.to/michidev/leccion-1-introduccion-a-python-y-su-instalacion-5c8f)
-- [How to secure minimal api microservices with asp.net core identity](https://dev.to/angelodotnet/how-to-secure-minimal-api-microservices-with-aspnet-core-identity-2o68)
-- [&quot;Escapando&quot; de IntelliJ](https://dev.to/baltasarq/escapando-de-intellij-1804)
+- [Promoting my project https://github.com/oitcode/samarium in this year 2025. Happy new year all.](https://dev.to/oitoit/promoting-my-project-httpsgithubcomoitcodesamarium-in-this-year-2025-happy-new-year-all-417l)
+- [AI: Your New Work Ally, Not a Replacement 🤝](https://dev.to/elvissautet/ai-your-new-work-ally-not-a-replacement-o3e)
+- [Feijuca.Auth - Part 1: Configuring the tool](https://dev.to/felipemattioli/feijucaauth-part-1-configuring-the-tool-9ok)
+- [Understanding Regex in Python: A Practical Example](https://dev.to/melissajlw/understanding-regex-in-python-a-practical-example-1ili)
+- [Advantages of Open Banking on Retail Investment](https://dev.to/ayikalotanna/advantages-of-open-banking-on-retail-investment-38h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
