@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Annual Report：Highlights of the Apache DolphinScheduler Community in 2024!](https://dev.to/chen_debra_3060b21d12b1b0/annual-reporthighlights-of-the-apache-dolphinscheduler-community-in-2024-5971)
-- [Configuring AWS WAF, CloudFront, and S3 Bucket for Secure Access](https://dev.to/randiakm/configuring-aws-waf-cloudfront-and-s3-bucket-for-secure-access-24a3)
-- [Typical Project Timings: Quản Lý Thời Gian Trong Phát Triển Phần Mềm](https://dev.to/hcmute_project_988df1c63c/typical-project-timings-quan-ly-thoi-gian-trong-phat-trien-phan-mem-2dco)
-- [Các thành phần của Class Diagram](https://dev.to/hcmute_project_988df1c63c/cac-thanh-phan-cua-class-diagram-4638)
-- [Day 30 -HTML ans CSS](https://dev.to/lakshmipritha/day-30-html-ans-css-3bmn)
+- [🎈5 AI Coding Tools That Will Change the Way You Develop Forever🎇&lpar;You Won&#39;t Believe #3!&rpar;](https://dev.to/apilover/5-ai-coding-tools-that-will-change-the-way-you-develop-foreveryou-wont-believe-3-495c)
+- [5 Killer Habits: Be a Rebel](https://dev.to/srishti_upadhyay_561/5-killer-habits-be-a-rebel-jed)
+- [Check Out My New CV as a Full Stack .NET Developer!](https://dev.to/1hamzabek/check-out-my-new-cv-as-a-full-stack-net-developer-67o)
+- [Exploring Data Flow via Email Transmission](https://dev.to/olymahmud/exploring-data-flow-via-email-transmission-5en7)
+- [The 15 Things You Should Include in Your App Launch](https://dev.to/testscenario/the-15-things-you-should-include-in-your-app-launch-2m6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
