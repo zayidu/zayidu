@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile Accessibility Advent Calendar Part 1](https://dev.to/steady5063/mobile-accessibility-advent-calendar-part-1-1iac)
-- [#100DAYSOFCODE: Day 8](https://dev.to/isaiahhtml/100daysofcode-day-8-55hk)
-- [Test with Spy and Mock](https://dev.to/_cds_/test-with-spy-and-mock-e7)
-- [Automating Environment Configuration in Node.js: A Step-by-Step Guide](https://dev.to/amitkumar13/automating-environment-configuration-in-nodejs-a-step-by-step-guide-57kb)
-- [SQL VS NoSQL](https://dev.to/kamal_rajpurohit_db347a85/sql-vs-nosql-46ep)
+- [Networking: TCP Header explained](https://dev.to/annavi11arrea1/networking-tcp-header-explained-57k)
+- [Unlocking the Power of Hexagonal Architecture in Rails Development](https://dev.to/jetthoughts/unlocking-the-power-of-hexagonal-architecture-in-rails-development-1ehh)
+- [Infrastructure as Code with Terraform: A Beginner&#39;s Guide](https://dev.to/krisfernando6/infrastructure-as-code-with-terraform-a-beginners-guide-13af)
+- [How to Get a Self-Employed Mortgage: 6 Steps](https://dev.to/ignition_tax_5cd9ac658623/how-to-get-a-self-employed-mortgage-6-steps-2k2h)
+- [Shaping the Future 🚀](https://dev.to/bhuwan71/shaping-the-future-k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
