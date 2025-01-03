@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3-Step Guide to Add LinkedIn OpenID Sign-In to Your App &lpar;2025 Edition&rpar; 🚀](https://dev.to/lovestaco/3-step-guide-to-add-linkedin-openid-sign-in-to-your-app-2025-edition-1mjh)
-- [I Built BeatApp for Better Productivity — Now I Need Your Feedback! 💡](https://dev.to/sebasqui/i-built-beatapp-for-better-productivity-now-i-need-your-feedback-5938)
-- [Storage Management: Operating System](https://dev.to/harshm03/storage-management-operating-system-oef)
-- [Walkthrough on AWS Simple Notification Service&lpar;SNS&rpar;](https://dev.to/opssydo/walkthrough-on-aws-simple-notification-servicesns-4074)
-- [What do you think of the Cursor editor?](https://dev.to/bntstr/what-do-you-think-of-the-cursor-editor-33o8)
+- [🔥 10 javaScript questions before you face rejection ❌](https://dev.to/jorjishasan/10-javascript-questions-before-you-face-rejection-1g3m)
+- [🌍💱 New Project: Currency Exchange API](https://dev.to/fhva_dev/new-project-currency-exchange-api-26fp)
+- [Entendendo Service, Repository e Controller, PT. 1](https://dev.to/gustavonunesn/entendendo-service-repository-e-controller-pt-1-1cjk)
+- [Construindo um monolito moderno com Inertia.js](https://dev.to/proesc/construindo-um-monolito-moderno-com-inertiajs-1j1k)
+- [Día 3/365. Estructura básica de un programa en Rust.](https://dev.to/rustarch/dia-3365-estructura-basica-de-un-programa-en-rust-3df)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
