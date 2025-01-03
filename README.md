@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎉 Today’s 25+ GitHub Repositories Featuring Coding Without Code and More &lpar;Jan 3, 2025&rpar;](https://dev.to/gittech/todays-25-github-repositories-featuring-coding-without-code-and-more-jan-3-2025-alj)
-- [😎 New Year, New Gear: The Must-See Open Source Trends &amp; Projects of 2025](https://dev.to/dev-resources/new-year-new-gear-the-must-see-open-source-trends-projects-of-2025-57j)
-- [🛠️ 25 Must-Have Golang Tools and Libraries You’ll Actually Use for Everyday Coding](https://dev.to/0x3d_site/25-must-have-golang-tools-and-libraries-youll-actually-use-for-everyday-coding-4gi1)
-- [Self-Employed? Here&#39;s How To Show Proof Of Income](https://dev.to/ignition_tax_5cd9ac658623/self-employed-heres-how-to-show-proof-of-income-48l5)
-- [Phase 4 Blog - Flask SQL-Alchemy](https://dev.to/jajaninnin/phase-4-blog-flask-sql-alchemy-10an)
+- [My take on the Memory Layer Paper by Meta &lpar;noob friendly&rpar;](https://dev.to/govindsb/my-take-on-the-memory-layer-paper-by-meta-noob-friendly-3hgo)
+- [Wrong translation on react document](https://dev.to/charles_wu_c9b6f289dbcb23/wrong-translation-on-react-document-pm)
+- [Alternatives to LocalTunnel for exposing your local development server to the internet](https://dev.to/msnmongare/alternatives-to-localtunnel-for-exposing-your-local-development-server-to-the-internet-49hm)
+- [Memory Management in Java: Java Virtual Machine](https://dev.to/alex_ricciardi/memory-management-in-java-java-virtual-machine-5b42)
+- [Publishing NPM package with Github Actions that react-hook-use-cta used](https://dev.to/rafde/publishing-npm-package-with-github-actions-that-react-hook-use-cta-used-3e0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
