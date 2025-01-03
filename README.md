@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Between Coding And Changing Diapers 24 Hours Are Not Enough](https://dev.to/blarzhernandez/between-coding-and-changing-diapers-24-hours-are-not-enough-1p6n)
-- [New Fine Updates - Project Instructions &amp; More](https://dev.to/thisisfinedev/new-fine-updates-project-instructions-more-42f)
-- [Why LLMs Fall Short: Why Large Language Models Aren&#39;t Ideal for AI Agent Applications](https://dev.to/_aparna_pradhan_/why-llms-fall-short-why-large-language-models-arent-ideal-for-ai-agent-applications-3a55)
-- [Maintenance mode check in Next.js middleware.ts](https://dev.to/ramunarasinga-11/maintenance-mode-check-in-nextjs-middlewarets-5c7a)
-- [Đặc tả Use Case](https://dev.to/hcmute_project_988df1c63c/dac-ta-use-case-5ap9)
+- [Getting Cilium to work on Ubuntu Cloud Image](https://dev.to/hatr0/getting-cilium-to-work-on-ubuntu-cloud-image-3843)
+- [The Mina Ecosystem: Extensive Overview](https://dev.to/adam_opeyemi_9552ccf1eecd/the-mina-ecosystem-extensive-overview-e49)
+- [Transforming Retail Shelf Monitoring with AI-Powered Computer Vision](https://dev.to/chandrus/transforming-retail-shelf-monitoring-with-ai-powered-computer-vision-bhg)
+- [Why Regular Ruby Updates Are a Must for Your App](https://dev.to/railsup_sedin/why-regular-ruby-updates-are-a-must-for-your-app-g35)
+- [Giới Thiệu Về Iterative Và Incremental Frameworks](https://dev.to/hcmute_project_988df1c63c/gioi-thieu-ve-iterative-va-incremental-frameworks-1771)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
