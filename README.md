@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Microservices and How They Integrate with React Applications](https://dev.to/ayusharpcoder/understanding-microservices-and-how-they-integrate-with-react-applications-380)
-- [🌟 2025 Loading: From Capstone to Career🌟](https://dev.to/nidhiii2/2025-loading-from-capstone-to-career-806)
-- [Run Windows PowerShell as Administrator With Elevated Rights!](https://dev.to/winsides/run-windows-powershell-as-administrator-with-elevated-rights-1bb1)
-- [Expanding Slider using HTML and CSS](https://dev.to/kaja_uvais_a8691e947dd399/expanding-slider-using-html-and-css-4aig)
-- [Giới thiệu về Class Diagram](https://dev.to/hcmute_project_988df1c63c/gioi-thieu-ve-class-diagram-c04)
+- [Why do webdev posts get so much engagement? Where are Java people?](https://dev.to/prakhars/why-do-webdev-posts-get-so-much-engagement-where-are-java-people-5eii)
+- [A Comprehensive Guide to Mastering Kotlin Coroutines](https://dev.to/prakhars/a-comprehensive-guide-to-mastering-kotlin-coroutines-1ai3)
+- [Getting Started with Docker](https://dev.to/shiva_shanmugam/getting-started-with-docker-10e7)
+- [Your Ultimate JavaScript and React Cheat Sheet for Interviews](https://dev.to/usman_awan/your-ultimate-javascript-and-react-cheat-sheet-for-interviews-2e1j)
+- [Rust: Is it Something or Nothing - The Option Type](https://dev.to/crusty-rustacean/rust-is-it-something-or-nothing-the-option-type-47l4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
