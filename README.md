@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a To-Do app with HTMX and Django, part 5: Testing the views](https://dev.to/rodbv/creating-a-to-do-app-with-htmx-and-django-part-5-testing-the-views-2iml)
-- [CS50 - Week 6](https://dev.to/udilbar/cs50-week-6-14d9)
-- [Malware: Your Ultimate Guide to Protecting Your System!](https://dev.to/tavernetech/malware-your-ultimate-guide-to-protecting-your-system-99b)
-- [De pleno para senior: o que está faltando?](https://dev.to/jessilyneh/de-pleno-para-senior-o-que-esta-faltando-568l)
-- [Big O Notation and the Climb Over Constants.](https://dev.to/tahsin005/big-o-notation-and-the-climb-over-constants-53lk)
+- [Change a .Net Console application into an web application](https://dev.to/gaotter/change-a-net-console-application-into-an-web-application-2i2l)
+- [Top 5 Go Libraries Every Backend Developer Should Know](https://dev.to/siddheshk02/top-5-go-libraries-every-backend-developer-should-know-1nhn)
+- [Lección 1: Introducción a Python y su Instalación](https://dev.to/michidev/leccion-1-introduccion-a-python-y-su-instalacion-5c8f)
+- [How to secure minimal api microservices with asp.net core identity](https://dev.to/angelodotnet/how-to-secure-minimal-api-microservices-with-aspnet-core-identity-2o68)
+- [&quot;Escapando&quot; de IntelliJ](https://dev.to/baltasarq/escapando-de-intellij-1804)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
