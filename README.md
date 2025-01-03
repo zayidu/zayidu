@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Promoting my project https://github.com/oitcode/samarium in this year 2025. Happy new year all.](https://dev.to/oitoit/promoting-my-project-httpsgithubcomoitcodesamarium-in-this-year-2025-happy-new-year-all-417l)
-- [AI: Your New Work Ally, Not a Replacement 🤝](https://dev.to/elvissautet/ai-your-new-work-ally-not-a-replacement-o3e)
-- [Feijuca.Auth - Part 1: Configuring the tool](https://dev.to/felipemattioli/feijucaauth-part-1-configuring-the-tool-9ok)
-- [Understanding Regex in Python: A Practical Example](https://dev.to/melissajlw/understanding-regex-in-python-a-practical-example-1ili)
-- [Advantages of Open Banking on Retail Investment](https://dev.to/ayikalotanna/advantages-of-open-banking-on-retail-investment-38h)
+- [My Portfolio](https://dev.to/hemanth_9988/my-portfolio-5fn0)
+- [Why AI Hasn’t Blown Our Minds…Yet](https://dev.to/jetthoughts/why-ai-hasnt-blown-our-mindsyet-1f7e)
+- [IMPLEMENTING MULTI-TENANCY IN LARAVEL: A COMPREHENSIVE GUIDE](https://dev.to/zoran_bogoevski_78d62459b/implementing-multi-tenancy-in-laravel-a-comprehensive-guide-3735)
+- [Why I Switched to Tailwind CSS and Never Going Back!](https://dev.to/mannat_trivedi/why-i-switched-to-tailwind-css-and-never-going-back-3fi0)
+- [Optimizing S3 Costs with Storage Classes and Lifecycle Policies](https://dev.to/imsushant12/optimizing-s3-costs-with-storage-classes-and-lifecycle-policies-ege)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
