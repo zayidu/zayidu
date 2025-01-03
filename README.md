@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why do webdev posts get so much engagement? Where are Java people?](https://dev.to/prakhars/why-do-webdev-posts-get-so-much-engagement-where-are-java-people-5eii)
-- [A Comprehensive Guide to Mastering Kotlin Coroutines](https://dev.to/prakhars/a-comprehensive-guide-to-mastering-kotlin-coroutines-1ai3)
-- [Getting Started with Docker](https://dev.to/shiva_shanmugam/getting-started-with-docker-10e7)
-- [Your Ultimate JavaScript and React Cheat Sheet for Interviews](https://dev.to/usman_awan/your-ultimate-javascript-and-react-cheat-sheet-for-interviews-2e1j)
-- [Rust: Is it Something or Nothing - The Option Type](https://dev.to/crusty-rustacean/rust-is-it-something-or-nothing-the-option-type-47l4)
+- [Between Coding And Changing Diapers 24 Hours Are Not Enough](https://dev.to/blarzhernandez/between-coding-and-changing-diapers-24-hours-are-not-enough-1p6n)
+- [New Fine Updates - Project Instructions &amp; More](https://dev.to/thisisfinedev/new-fine-updates-project-instructions-more-42f)
+- [Why LLMs Fall Short: Why Large Language Models Aren&#39;t Ideal for AI Agent Applications](https://dev.to/_aparna_pradhan_/why-llms-fall-short-why-large-language-models-arent-ideal-for-ai-agent-applications-3a55)
+- [Maintenance mode check in Next.js middleware.ts](https://dev.to/ramunarasinga-11/maintenance-mode-check-in-nextjs-middlewarets-5c7a)
+- [Đặc tả Use Case](https://dev.to/hcmute_project_988df1c63c/dac-ta-use-case-5ap9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
