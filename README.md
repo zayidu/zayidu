@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 10 javaScript questions before you face rejection ❌](https://dev.to/jorjishasan/10-javascript-questions-before-you-face-rejection-1g3m)
-- [🌍💱 New Project: Currency Exchange API](https://dev.to/fhva_dev/new-project-currency-exchange-api-26fp)
-- [Entendendo Service, Repository e Controller, PT. 1](https://dev.to/gustavonunesn/entendendo-service-repository-e-controller-pt-1-1cjk)
-- [Construindo um monolito moderno com Inertia.js](https://dev.to/proesc/construindo-um-monolito-moderno-com-inertiajs-1j1k)
-- [Día 3/365. Estructura básica de un programa en Rust.](https://dev.to/rustarch/dia-3365-estructura-basica-de-un-programa-en-rust-3df)
+- [Tech Stack 2025](https://dev.to/khriztianmoreno/tech-stack-2025-3684)
+- [The Art of Iteration: Starting the Cycle](https://dev.to/arindam0310018/the-art-of-iteration-starting-the-cycle-1op)
+- [Entendendo os menus do Android Studio sobre limpeza e reconstrução de projeto](https://dev.to/douglasmartins7/entendendo-os-menus-do-android-studio-sobre-limpeza-e-reconstrucao-de-projeto-2nm3)
+- [How to Integrate Instant Payment Notification&lpar;IPN&rpar; with KCB Bank Buni API Gateway](https://dev.to/msnmongare/instant-payment-notification-ipn-api-integration-with-kcb-bank-buni-api-gateway-4pdc)
+- [Kubernetes ConfigMap: What It Is and Why You Need It](https://dev.to/qudus_olamide_1d5d6b09476/kubernetes-configmap-what-it-is-and-why-you-need-it-55mn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
