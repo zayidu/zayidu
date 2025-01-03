@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#125 — Grouping Upon Encountering Blank Rows](https://dev.to/judith677/125-grouping-upon-encountering-blank-rows-5ckk)
-- [🌐 🌟 Upcoming Challenges On Dev.to 🚀](https://dev.to/hanzla-baig/upcoming-challenges-on-devto-3434)
-- [Seamless SaaS Integration: Why Custom Development is Key](https://dev.to/duyhoabhsoft/seamless-saas-integration-why-custom-development-is-key-1e9k)
-- [What data can crawlers collect through HTTP proxy IP?](https://dev.to/98ip/what-data-can-crawlers-collect-through-http-proxy-ip-1boh)
-- [Understanding Bitcoin Halving: Impact on Price and Mining](https://dev.to/coinw/understanding-bitcoin-halving-impact-on-price-and-mining-12i4)
+- [¿Qué es CI/CD y cómo puede acelerar tus despliegues en minutos?](https://dev.to/israoo/que-es-cicd-y-como-puede-acelerar-tus-despliegues-en-minutos-2fgk)
+- [LaPrompt Marketplace: The #1 Resource of Verified GPT Prompts](https://dev.to/guru_prompter/laprompt-marketplace-the-1-resource-of-verified-gpt-prompts-197a)
+- [Como Desenvolvi uma Automação de Atendimento com Agente de IA para uma Clínica de Depilação a Laser](https://dev.to/sidneyhog/como-desenvolvi-uma-automacao-de-atendimento-com-agente-de-ia-para-uma-clinica-de-depilacao-a-laser-32b9)
+- [API Documentation: How to Write It, Template and Examples](https://dev.to/fakela/api-documentation-how-to-write-it-template-and-examples-4ng0)
+- [Minimal Rio Intro](https://dev.to/shredwheat/minimal-rio-intro-1hpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
