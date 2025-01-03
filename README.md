@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use queue data structure in programming](https://dev.to/volodymyr_potiichuk/how-to-use-queue-data-structure-in-programming-5h7)
-- [Techie Limericks: A Humorous Dive into Code, APIs, and Neural Networks](https://dev.to/romanmarshanski/techie-limericks-a-humorous-dive-into-code-apis-and-neural-networks-dh)
-- [AI Traffic Control System Slashes Wait Times by 23% Using Smart Intersection Management](https://dev.to/mikeyoung44/ai-traffic-control-system-slashes-wait-times-by-23-using-smart-intersection-management-578f)
-- [Chatbots That Act Less Human Get More Donations, Study Finds](https://dev.to/mikeyoung44/chatbots-that-act-less-human-get-more-donations-study-finds-49gn)
-- [New Benchmark Tests AI&#39;s Ability to Catch Life-Threatening Medical Documentation Errors](https://dev.to/mikeyoung44/new-benchmark-tests-ais-ability-to-catch-life-threatening-medical-documentation-errors-3l77)
+- [Creating a To-Do app with HTMX and Django, part 5: Testing the views](https://dev.to/rodbv/creating-a-to-do-app-with-htmx-and-django-part-5-testing-the-views-2iml)
+- [CS50 - Week 6](https://dev.to/udilbar/cs50-week-6-14d9)
+- [Malware: Your Ultimate Guide to Protecting Your System!](https://dev.to/tavernetech/malware-your-ultimate-guide-to-protecting-your-system-99b)
+- [De pleno para senior: o que está faltando?](https://dev.to/jessilyneh/de-pleno-para-senior-o-que-esta-faltando-568l)
+- [Big O Notation and the Climb Over Constants.](https://dev.to/tahsin005/big-o-notation-and-the-climb-over-constants-53lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
