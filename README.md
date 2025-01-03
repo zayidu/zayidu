@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Networking: TCP Header explained](https://dev.to/annavi11arrea1/networking-tcp-header-explained-57k)
-- [Unlocking the Power of Hexagonal Architecture in Rails Development](https://dev.to/jetthoughts/unlocking-the-power-of-hexagonal-architecture-in-rails-development-1ehh)
-- [Infrastructure as Code with Terraform: A Beginner&#39;s Guide](https://dev.to/krisfernando6/infrastructure-as-code-with-terraform-a-beginners-guide-13af)
-- [How to Get a Self-Employed Mortgage: 6 Steps](https://dev.to/ignition_tax_5cd9ac658623/how-to-get-a-self-employed-mortgage-6-steps-2k2h)
-- [Shaping the Future 🚀](https://dev.to/bhuwan71/shaping-the-future-k3)
+- [🎉 Today’s 25+ GitHub Repositories Featuring Coding Without Code and More &lpar;Jan 3, 2025&rpar;](https://dev.to/gittech/todays-25-github-repositories-featuring-coding-without-code-and-more-jan-3-2025-alj)
+- [😎 New Year, New Gear: The Must-See Open Source Trends &amp; Projects of 2025](https://dev.to/dev-resources/new-year-new-gear-the-must-see-open-source-trends-projects-of-2025-57j)
+- [🛠️ 25 Must-Have Golang Tools and Libraries You’ll Actually Use for Everyday Coding](https://dev.to/0x3d_site/25-must-have-golang-tools-and-libraries-youll-actually-use-for-everyday-coding-4gi1)
+- [Self-Employed? Here&#39;s How To Show Proof Of Income](https://dev.to/ignition_tax_5cd9ac658623/self-employed-heres-how-to-show-proof-of-income-48l5)
+- [Phase 4 Blog - Flask SQL-Alchemy](https://dev.to/jajaninnin/phase-4-blog-flask-sql-alchemy-10an)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
