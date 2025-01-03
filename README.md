@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 of My 2025 Coding Streak: Major Progress on Lyra](https://dev.to/winnerezy/day-2-of-my-2025-coding-streak-major-progress-on-lyra-5d2l)
-- [To comment, or not to comment](https://dev.to/xaberue/to-comment-or-not-to-comment-18a3)
-- [Integrating AI and Coding in Early STEM Education](https://dev.to/jds64/integrating-ai-and-coding-in-early-stem-education-3gnm)
-- [The Journey of Optimization](https://dev.to/dkuku/the-journey-of-optimization-4j15)
-- [Las claves para NO romperlo TODO: Branches en Git 🚨🔑](https://dev.to/missa_eng/las-claves-para-no-romperlo-todo-branches-en-git-5amb)
+- [Terraform - Mastering Idempotency Violations - Handling Resource Conflicts and Failures in Azure](https://dev.to/pwd9000/terraform-mastering-idempotency-violations-handling-resource-conflicts-and-failures-in-azure-3f3d)
+- [How I Built My First Portfolio Website as a Beginner](https://dev.to/deepjyoti_das/how-i-built-my-first-portfolio-website-as-a-beginner-1m2p)
+- [Item 81: Prefira os utilitários de concorrência ao wait e notify](https://dev.to/javaefetivo/item-81-prefira-os-utilitarios-de-concorrencia-ao-wait-e-notify-3nnj)
+- [A Guide to Starting Your Public Speaking Journey](https://dev.to/ara225/a-guide-to-starting-your-public-speaking-journey-2eg4)
+- [&quot;Revolutionizing Language Models: LEP and Russian Adaptation Breakthroughs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-language-models-lep-and-russian-adaptation-breakthroughs-4od6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
