@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Stack 2025](https://dev.to/khriztianmoreno/tech-stack-2025-3684)
-- [The Art of Iteration: Starting the Cycle](https://dev.to/arindam0310018/the-art-of-iteration-starting-the-cycle-1op)
-- [Entendendo os menus do Android Studio sobre limpeza e reconstrução de projeto](https://dev.to/douglasmartins7/entendendo-os-menus-do-android-studio-sobre-limpeza-e-reconstrucao-de-projeto-2nm3)
-- [How to Integrate Instant Payment Notification&lpar;IPN&rpar; with KCB Bank Buni API Gateway](https://dev.to/msnmongare/instant-payment-notification-ipn-api-integration-with-kcb-bank-buni-api-gateway-4pdc)
-- [Kubernetes ConfigMap: What It Is and Why You Need It](https://dev.to/qudus_olamide_1d5d6b09476/kubernetes-configmap-what-it-is-and-why-you-need-it-55mn)
+- [CKA Recap -- Ingress &amp; NetworkPolicy](https://dev.to/cheedge_lee/cka-recap-ingress-networkpolicy-2pc)
+- [About UriComponentsBuilder and UriComponents](https://dev.to/saladlam/about-uricomponentsbuilder-and-uricomponents-26f7)
+- [Monitor EBS Volume Health](https://dev.to/aws-builders/monitor-ebs-volume-health-45ib)
+- [Advanced Python Decorators: Elevating Your Code](https://dev.to/ajayvallab/python-script-for-stock-sentiment-analysis-bna)
+- [2025 Predictions: The Year of Everything](https://dev.to/async_dime/2025-predictions-the-year-of-everything-dkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
