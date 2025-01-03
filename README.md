@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [#125 — Grouping Upon Encountering Blank Rows](https://dev.to/judith677/125-grouping-upon-encountering-blank-rows-5ckk)
+- [🌐 🌟 Upcoming Challenges On Dev.to 🚀](https://dev.to/hanzla-baig/upcoming-challenges-on-devto-3434)
+- [Seamless SaaS Integration: Why Custom Development is Key](https://dev.to/duyhoabhsoft/seamless-saas-integration-why-custom-development-is-key-1e9k)
 - [What data can crawlers collect through HTTP proxy IP?](https://dev.to/98ip/what-data-can-crawlers-collect-through-http-proxy-ip-1boh)
 - [Understanding Bitcoin Halving: Impact on Price and Mining](https://dev.to/coinw/understanding-bitcoin-halving-impact-on-price-and-mining-12i4)
-- [Rust](https://dev.to/salilathalye/rust-22e8)
-- [Create Task manager using react typescript](https://dev.to/syawqy/create-task-manager-using-react-typescript-bfp)
-- [Let Me Talk About Configuration-driven Front-end Development](https://dev.to/ourai/let-me-talk-about-configuration-driven-front-end-development-23ce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
