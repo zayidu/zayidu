@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform - Mastering Idempotency Violations - Handling Resource Conflicts and Failures in Azure](https://dev.to/pwd9000/terraform-mastering-idempotency-violations-handling-resource-conflicts-and-failures-in-azure-3f3d)
-- [How I Built My First Portfolio Website as a Beginner](https://dev.to/deepjyoti_das/how-i-built-my-first-portfolio-website-as-a-beginner-1m2p)
-- [Item 81: Prefira os utilitários de concorrência ao wait e notify](https://dev.to/javaefetivo/item-81-prefira-os-utilitarios-de-concorrencia-ao-wait-e-notify-3nnj)
-- [A Guide to Starting Your Public Speaking Journey](https://dev.to/ara225/a-guide-to-starting-your-public-speaking-journey-2eg4)
-- [&quot;Revolutionizing Language Models: LEP and Russian Adaptation Breakthroughs&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/revolutionizing-language-models-lep-and-russian-adaptation-breakthroughs-4od6)
+- [What data can crawlers collect through HTTP proxy IP?](https://dev.to/98ip/what-data-can-crawlers-collect-through-http-proxy-ip-1boh)
+- [Understanding Bitcoin Halving: Impact on Price and Mining](https://dev.to/coinw/understanding-bitcoin-halving-impact-on-price-and-mining-12i4)
+- [Rust](https://dev.to/salilathalye/rust-22e8)
+- [Create Task manager using react typescript](https://dev.to/syawqy/create-task-manager-using-react-typescript-bfp)
+- [Let Me Talk About Configuration-driven Front-end Development](https://dev.to/ourai/let-me-talk-about-configuration-driven-front-end-development-23ce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
