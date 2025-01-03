@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Qué es CI/CD y cómo puede acelerar tus despliegues en minutos?](https://dev.to/israoo/que-es-cicd-y-como-puede-acelerar-tus-despliegues-en-minutos-2fgk)
-- [LaPrompt Marketplace: The #1 Resource of Verified GPT Prompts](https://dev.to/guru_prompter/laprompt-marketplace-the-1-resource-of-verified-gpt-prompts-197a)
-- [Como Desenvolvi uma Automação de Atendimento com Agente de IA para uma Clínica de Depilação a Laser](https://dev.to/sidneyhog/como-desenvolvi-uma-automacao-de-atendimento-com-agente-de-ia-para-uma-clinica-de-depilacao-a-laser-32b9)
-- [API Documentation: How to Write It, Template and Examples](https://dev.to/fakela/api-documentation-how-to-write-it-template-and-examples-4ng0)
-- [Minimal Rio Intro](https://dev.to/shredwheat/minimal-rio-intro-1hpm)
+- [Understanding Microservices and How They Integrate with React Applications](https://dev.to/ayusharpcoder/understanding-microservices-and-how-they-integrate-with-react-applications-380)
+- [🌟 2025 Loading: From Capstone to Career🌟](https://dev.to/nidhiii2/2025-loading-from-capstone-to-career-806)
+- [Run Windows PowerShell as Administrator With Elevated Rights!](https://dev.to/winsides/run-windows-powershell-as-administrator-with-elevated-rights-1bb1)
+- [Expanding Slider using HTML and CSS](https://dev.to/kaja_uvais_a8691e947dd399/expanding-slider-using-html-and-css-4aig)
+- [Giới thiệu về Class Diagram](https://dev.to/hcmute_project_988df1c63c/gioi-thieu-ve-class-diagram-c04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
