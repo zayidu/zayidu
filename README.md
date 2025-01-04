@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Easily Install and Use Node-RED on iMX6UL Series Processors?](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-easily-install-and-use-node-red-on-imx6ul-series-processors-3c1k)
-- [The Future of AWS in 2025](https://dev.to/s3cloudhub/the-future-of-aws-in-2025-3ebl)
-- [A Freelance Developer’s Journey: Navigating the Tech Space](https://dev.to/john095/a-freelance-developers-journey-navigating-the-tech-space-508k)
-- [How to Enhance Real-Time Performance of Linux 6.1 Kernel on OK-MX9352-C by Applying Real-Time Patches](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-enhance-real-time-performance-of-linux-61-kernel-on-ok-mx9352-c-by-applying-real-time-42m0)
-- [Introduction to Native JavaScript APIs: MutationObserver, IntersectionObserver, and History API](https://dev.to/suzyg38/introduction-to-native-javascript-apis-mutationobserver-intersectionobserver-and-history-api-4633)
+- [11 Easy HTML, CSS, and JavaScript Projects for Beginners](https://dev.to/manasi_patil_/11-easy-html-css-and-javascript-projects-for-beginners-4889)
+- [Effortless Flash Messages in PHP: A Powerful Package for Session-Based Notifications](https://dev.to/nassiry/effortless-flash-messages-in-php-a-powerful-package-for-session-based-notifications-2d7d)
+- [How to chat with Local LLM in Obsidian](https://dev.to/luca1iu/how-to-chat-with-local-llm-in-obsidian-231o)
+- [Mastering ExecutorService Shutdown: Tracking ThreadPool Termination](https://dev.to/darshitpp/mastering-executorservice-shutdown-tracking-threadpool-termination-1jop)
+- [Great Article on Developer Resources](https://dev.to/rachel_werner_ch/-479j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
