@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Dreams with Eduleem: A Success Story](https://dev.to/shaik_muskansultana_f054/designing-dreams-with-eduleem-a-success-story-ch4)
-- [AI Models Now Master Basic Math But Struggle with Complex Problems, New Study Shows](https://dev.to/mikeyoung44/ai-models-now-master-basic-math-but-struggle-with-complex-problems-new-study-shows-566c)
-- [npx life@2024 preview: How Missing Flights, Finding Love, and Building Svelte Apps Changed Everything](https://dev.to/developerbishwas/npx-life2024-preview-how-missing-flights-finding-love-and-building-svelte-apps-changed-akm)
-- [2025：Web3时代启航，重塑未来二十年的数字版图](https://dev.to/popmaxcn/2025web3shi-dai-qi-hang-zhong-su-wei-lai-er-shi-nian-de-shu-zi-ban-tu-3loa)
-- [Next.js Course](https://dev.to/turingvangisms/nextjs-course-20gm)
+- [How to Easily Install and Use Node-RED on iMX6UL Series Processors?](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-easily-install-and-use-node-red-on-imx6ul-series-processors-3c1k)
+- [The Future of AWS in 2025](https://dev.to/s3cloudhub/the-future-of-aws-in-2025-3ebl)
+- [A Freelance Developer’s Journey: Navigating the Tech Space](https://dev.to/john095/a-freelance-developers-journey-navigating-the-tech-space-508k)
+- [How to Enhance Real-Time Performance of Linux 6.1 Kernel on OK-MX9352-C by Applying Real-Time Patches](https://dev.to/ronnie_r_152dc2151d9449c6/how-to-enhance-real-time-performance-of-linux-61-kernel-on-ok-mx9352-c-by-applying-real-time-42m0)
+- [Introduction to Native JavaScript APIs: MutationObserver, IntersectionObserver, and History API](https://dev.to/suzyg38/introduction-to-native-javascript-apis-mutationobserver-intersectionobserver-and-history-api-4633)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
