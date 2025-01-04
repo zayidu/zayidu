@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React : Keeping Components Pure](https://dev.to/sonaykara/react-keeping-components-pure-32jn)
-- [Unpacking the Benefits and Pitfalls of TypeScript](https://dev.to/youneshajizadeh/unpacking-the-benefits-and-pitfalls-of-typescript-jf6)
-- [Creating a To-Do app with Django and HTMX, part 6: implementing Delete with tests](https://dev.to/rodbv/creating-a-to-do-app-with-django-and-htmx-part-6-implementing-delete-with-tdd-471l)
-- [New version for my osxiec project](https://dev.to/okerew/new-version-for-my-osxiec-project-2pkm)
-- [Human Writing in the Age of AI](https://dev.to/alvaromontoro/human-writing-in-the-age-of-ai-55oo)
+- [[For Beginners] Understanding the KMP Algorithm by Comparing with the Brute-Force](https://dev.to/yo-shi/for-beginners-understanding-the-kmp-algorithm-by-comparing-with-the-brute-force-1da3)
+- [What is Gliimly Application Server](https://dev.to/gliimly/what-is-gliimly-application-server-20f5)
+- [Dockerized Deployment of a Full Stack Application with Reverse Proxy, Monitoring &amp; Observability](https://dev.to/chigozieco/dockerized-deployment-of-a-full-stack-application-with-reverse-proxy-monitoring-observability-5c04)
+- [Algorithms I - Princeton - Coursera review](https://dev.to/mapineda/algorithms-i-princeton-coursera-review-4pic)
+- [Revolutionizing Productivity: The Future of Developer Tooling in 2025](https://dev.to/jetthoughts/revolutionizing-productivity-the-future-of-developer-tooling-in-2025-41jj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
