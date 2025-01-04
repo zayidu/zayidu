@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [11 Easy HTML, CSS, and JavaScript Projects for Beginners](https://dev.to/manasi_patil_/11-easy-html-css-and-javascript-projects-for-beginners-4889)
-- [Effortless Flash Messages in PHP: A Powerful Package for Session-Based Notifications](https://dev.to/nassiry/effortless-flash-messages-in-php-a-powerful-package-for-session-based-notifications-2d7d)
-- [How to chat with Local LLM in Obsidian](https://dev.to/luca1iu/how-to-chat-with-local-llm-in-obsidian-231o)
-- [Mastering ExecutorService Shutdown: Tracking ThreadPool Termination](https://dev.to/darshitpp/mastering-executorservice-shutdown-tracking-threadpool-termination-1jop)
-- [Great Article on Developer Resources](https://dev.to/rachel_werner_ch/-479j)
+- [Setting up Jest and React Testing Library with Webpack](https://dev.to/hoshdev/setting-up-jest-and-react-testing-library-with-webpack-55dh)
+- [Confidence in the cloud with data sovereignty](https://dev.to/aws-builders/confidence-in-the-cloud-with-data-sovereignty-1p6a)
+- [PyTorch and Deep Learning for Decision Makers &lpar;LFS1116&rpar;](https://dev.to/marcoatl/pytorch-and-deep-learning-for-decision-makers-lfs1116-3o8l)
+- [Reflections and Predictions, Analyzing the Challenges and Trends of 2025](https://dev.to/shafayeat/reflections-and-predictions-analyzing-the-challenges-and-trends-of-2025-29bg)
+- [To work with an actual SQL Server, you&#39;ll need to install and set up the SQL Server environment, create a database, and then interact with it using SQL queries. Here&#39;s a step-by-step guide: 1. Install SQL Server Read more](https://dev.to/newsbhzs/to-work-with-an-actual-sql-server-youll-need-to-install-and-set-up-the-sql-server-environment-157n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
