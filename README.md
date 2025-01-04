@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CKA Recap -- Ingress &amp; NetworkPolicy](https://dev.to/cheedge_lee/cka-recap-ingress-networkpolicy-2pc)
-- [About UriComponentsBuilder and UriComponents](https://dev.to/saladlam/about-uricomponentsbuilder-and-uricomponents-26f7)
-- [Monitor EBS Volume Health](https://dev.to/aws-builders/monitor-ebs-volume-health-45ib)
-- [Advanced Python Decorators: Elevating Your Code](https://dev.to/ajayvallab/python-script-for-stock-sentiment-analysis-bna)
-- [2025 Predictions: The Year of Everything](https://dev.to/async_dime/2025-predictions-the-year-of-everything-dkh)
+- [Sherlock Holmes: The Case Of Redis Overload During a DDoS Attack](https://dev.to/programmerraja/sherlock-holmes-and-the-case-redis-overload-during-a-ddos-attack-3jfh)
+- [New article alert! Data Engineering with Scala: mastering data processing with Apache Flink and Pub/Sub ❤️‍🔥](https://dev.to/geazi_anc/new-article-alert-data-engineering-with-scala-mastering-data-processing-with-apache-flink-and-ach)
+- [Web Scraping with Beautiful Soup and Scrapy: Extracting Data Efficiently and Responsibly](https://dev.to/ajayvallab/web-scraping-with-beautiful-soup-and-scrapy-extracting-data-efficiently-and-responsibly-4b1a)
+- [Codewars - Counting Duplicates](https://dev.to/dantedinopegassi/codewars-counting-duplicates-3ch)
+- [5 Best Tools for Startups to Maximize Efficiency and Growth](https://dev.to/linguistlisa/5-best-tools-for-startups-to-maximize-efficiency-and-growth-5bf6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
