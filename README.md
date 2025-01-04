@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API Resource Management &amp; Access Control Very Basic Concepts](https://dev.to/aungkyawminn/icrud-4e1d)
-- [AWS Serverless: How to Create and Use a Lambda Layer via the Console](https://dev.to/bhatiagirish/aws-serverless-how-to-create-and-use-a-lambda-layer-via-the-console-2gmj)
-- [Guia Prático: Como Escrever e Solicitar um Feedback](https://dev.to/annamatias/guia-pratico-como-escrever-e-solicitar-um-feedback-5c8p)
-- [🌟 🌐 The Ultimate 45-Chapter Guide to Rust 🚀](https://dev.to/mega-tutorials-point/the-ultimate-20-chapter-guide-to-rust-4623)
-- [60 Advanced and Modern Ideas for an Impressive Portfolio Website🚀🌟](https://dev.to/hanzla-baig/60-advanced-and-modern-ideas-for-an-impressive-portfolio-website-56f8)
+- [Data Transfer from S3 to Cloud Storage using GCP Storage Transfer Service](https://dev.to/ryankarlos/data-transfer-from-s3-to-cloud-storage-using-gcp-storage-transfer-service-25m)
+- [AWS + JavaScript + WordPress = Fun Content Automation Strategies Using Artificial Intelligence](https://dev.to/christonit/aws-javascript-wordpress-fun-content-automation-strategies-using-artificial-intelligence-1gl1)
+- [Building a Coding Agent from Scratch with Llama 70B: Lessons Learned](https://dev.to/aidando73/building-a-coding-agent-from-scratch-with-llama-70b-lessons-learned-48c4)
+- [Duplicate Value remove](https://dev.to/anjali_gurjar_dff81513867/duplicate-value-remove-24ei)
+- [A Comprehensive Guide to Debugging Go Code for Developers](https://dev.to/adityabhuyan/a-comprehensive-guide-to-debugging-go-code-for-developers-h9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
