@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Hate Website Builders – So I Built My Own](https://dev.to/kiraaziz/i-hate-website-builders-so-i-built-my-own-1728)
-- [Harnessing the Power of Hugging Face Transformers for Machine Learning](https://dev.to/dm8ry/harnessing-the-power-of-hugging-face-transformers-for-machine-learning-59ai)
-- [Day 4: C++ language | Variables | Datatypes | Part-2](https://dev.to/mehfila_parkkulthil_23/day-4-c-language-variables-datatypes-part-2-2mce)
-- [Daily JavaScript Challenge #JS-64: Find Unique Numbers](https://dev.to/dpc/daily-javascript-challenge-js-64-find-unique-numbers-5bo)
-- [GPON Network visualizations — Part 1](https://dev.to/aletelecom/gpon-network-visualizations-part-1-p50)
+- [How Machine Learning Models are Shaping the Future of Process Automation](https://dev.to/chemenggcalc/how-machine-learning-models-are-shaping-the-future-of-process-automation-4m3j)
+- [Set Up a Laravel Backend and Next.js Frontend Development Environment with Docker within 5 minutes](https://dev.to/softjapan/set-up-a-laravel-backend-and-nextjs-frontend-development-environment-with-docker-within-5-minutes-58ck)
+- [Visualizing Sentiment Analysis Results in Python using Matplotlib](https://dev.to/dm8ry/visualizing-sentiment-analysis-results-in-python-using-matplotlib-40l0)
+- [System Design: The Art of Balancing Trade-Offs](https://dev.to/idowuseyi/system-design-the-art-of-balancing-trade-offs-53j9)
+- [AWS Lambda and Its Invocation Models](https://dev.to/emiroberti/aws-lambda-and-its-invocation-models-4406)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
