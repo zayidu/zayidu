@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Machine Learning Models are Shaping the Future of Process Automation](https://dev.to/chemenggcalc/how-machine-learning-models-are-shaping-the-future-of-process-automation-4m3j)
-- [Set Up a Laravel Backend and Next.js Frontend Development Environment with Docker within 5 minutes](https://dev.to/softjapan/set-up-a-laravel-backend-and-nextjs-frontend-development-environment-with-docker-within-5-minutes-58ck)
-- [Visualizing Sentiment Analysis Results in Python using Matplotlib](https://dev.to/dm8ry/visualizing-sentiment-analysis-results-in-python-using-matplotlib-40l0)
-- [System Design: The Art of Balancing Trade-Offs](https://dev.to/idowuseyi/system-design-the-art-of-balancing-trade-offs-53j9)
-- [AWS Lambda and Its Invocation Models](https://dev.to/emiroberti/aws-lambda-and-its-invocation-models-4406)
+- [SANA: Ultra HD Fast Text to Image Model from NVIDIA Step by Step Tutorial on Windows, Cloud &amp; Kaggle — Generate 2048x2048 Images](https://dev.to/furkangozukara/sana-ultra-hd-fast-text-to-image-model-from-nvidia-step-by-step-tutorial-on-windows-cloud--1l2o)
+- [Visible Tailwind](https://dev.to/ahmad_tibibi/visible-tailwind-1633)
+- [TailwindCSS and Nextjs](https://dev.to/rivkaavraham/tailwindcss-and-nextjs-57l9)
+- [Understanding Tailwind CSS in React](https://dev.to/rivkaavraham/understanding-tailwind-css-in-react-3h69)
+- [Unleashing the Power of Tailwind CSS: A Comprehensive Guide](https://dev.to/meggieton/unleashing-the-power-of-tailwind-css-a-comprehensive-guide-3n4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
