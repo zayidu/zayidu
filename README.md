@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Efficiently Score Startup Ideas 🚀 &lpar;Just Like The VCs&rpar;](https://dev.to/ladam0203/how-to-efficiently-score-startup-ideas-just-like-the-vcs-1lnp)
-- [Mastering Express.js: A Deep Dive](https://dev.to/leapcell/mastering-expressjs-a-deep-dive-4ef5)
-- [Simple remove transition animation in react native](https://dev.to/sachinrupani/simple-remove-transition-animation-in-react-native-29l3)
-- [All You Need to Know About AI Agents: A Full Guide](https://dev.to/kaymen99/all-you-need-to-know-about-ai-agents-a-full-guide-1p6i)
-- [NPM react env scripts errors](https://dev.to/rainec/npm-react-env-scripts-errors-4h4l)
+- [How to Install Terraform on Ubuntu](https://dev.to/nodeshiftcloud/how-to-install-terraform-on-ubuntu-9ba)
+- [Building a Multi-LLM Profanity Detector in C# using StepWise](https://dev.to/littlelittlecloud/building-a-multi-llm-profanity-detector-in-c-using-stepwise-1p8m)
+- [🌱 Building [clean] reusable React components](https://dev.to/codewithshahan/building-clean-reusable-react-components-241l)
+- [The 3 Habits of Highly Effective Programmers](https://dev.to/fares_mohamed/the-3-habits-of-highly-effective-programmers-19bp)
+- [[Boost]](https://dev.to/kurealnum/-3991)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
