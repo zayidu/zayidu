@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SANA: Ultra HD Fast Text to Image Model from NVIDIA Step by Step Tutorial on Windows, Cloud &amp; Kaggle — Generate 2048x2048 Images](https://dev.to/furkangozukara/sana-ultra-hd-fast-text-to-image-model-from-nvidia-step-by-step-tutorial-on-windows-cloud--1l2o)
-- [Visible Tailwind](https://dev.to/ahmad_tibibi/visible-tailwind-1633)
-- [TailwindCSS and Nextjs](https://dev.to/rivkaavraham/tailwindcss-and-nextjs-57l9)
-- [Understanding Tailwind CSS in React](https://dev.to/rivkaavraham/understanding-tailwind-css-in-react-3h69)
-- [Unleashing the Power of Tailwind CSS: A Comprehensive Guide](https://dev.to/meggieton/unleashing-the-power-of-tailwind-css-a-comprehensive-guide-3n4m)
+- [C# in Cloud Computing: Getting Started with Azure Functions](https://dev.to/vandana_babshetti_91df8eb/c-in-cloud-computing-getting-started-with-azure-functions-18ji)
+- [Optimizing C# Code for Performance](https://dev.to/vandana_babshetti_91df8eb/optimizing-c-code-for-performance-1gl7)
+- [Top 10 Features of C#.NET Every Beginner Should Know](https://dev.to/vandana_babshetti_91df8eb/top-10-features-of-cnet-every-beginner-should-know-1i21)
+- [Why Most Notion Templates Fail Businesses &lpar;And How to Create Ones That Work&rpar;](https://dev.to/resource_bunk_1077cab07da/why-most-notion-templates-fail-businesses-and-how-to-create-ones-that-work-4jnd)
+- [Innovative Tech Trends for 2025](https://dev.to/vandana_babshetti_91df8eb/innovative-tech-trends-for-2025-5718)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
