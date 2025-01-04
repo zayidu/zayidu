@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sherlock Holmes: The Case Of Redis Overload During a DDoS Attack](https://dev.to/programmerraja/sherlock-holmes-and-the-case-redis-overload-during-a-ddos-attack-3jfh)
-- [New article alert! Data Engineering with Scala: mastering data processing with Apache Flink and Pub/Sub ❤️‍🔥](https://dev.to/geazi_anc/new-article-alert-data-engineering-with-scala-mastering-data-processing-with-apache-flink-and-ach)
-- [Web Scraping with Beautiful Soup and Scrapy: Extracting Data Efficiently and Responsibly](https://dev.to/ajayvallab/web-scraping-with-beautiful-soup-and-scrapy-extracting-data-efficiently-and-responsibly-4b1a)
-- [Codewars - Counting Duplicates](https://dev.to/dantedinopegassi/codewars-counting-duplicates-3ch)
-- [5 Best Tools for Startups to Maximize Efficiency and Growth](https://dev.to/linguistlisa/5-best-tools-for-startups-to-maximize-efficiency-and-growth-5bf6)
+- [60 Advanced and Modern Ideas for an Impressive Portfolio Website🚀🌟](https://dev.to/hanzla-baig/60-advanced-and-modern-ideas-for-an-impressive-portfolio-website-56f8)
+- [🚀⚙️ JavaScript Visualized: the JavaScript Engine](https://dev.to/hanzla-baig/javascript-visualized-the-javascript-engine-36cc)
+- [The Future of AI: Building Next-Generation Chatbot Agents with Microsoft Copilot Studio](https://dev.to/emmanuel_adegor/the-future-of-ai-building-next-generation-chatbot-agents-with-microsoft-copilot-studio-c31)
+- [El origen de la historia](https://dev.to/juanmiguelar/el-origen-de-la-historia-1n4p)
+- [AI in Cybersecurity: When Robots Guard Your Wi-Fi ????️????](https://dev.to/aniruddhaadak/ai-in-cybersecurity-when-robots-guard-your-wi-fi--3dli)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
