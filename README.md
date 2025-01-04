@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [First Steps in C++: An Introductory Capstone Project](https://dev.to/josemariairiarte/first-steps-with-c-an-introductory-capstone-project-455k)
-- [Front end development in a AI era!](https://dev.to/youneshajizadeh/front-end-development-in-a-ai-era-m4h)
-- [Building a Login Component with SSR Support Using Solid.js](https://dev.to/lovestaco/building-a-login-component-with-ssr-support-using-solidjs-15oj)
-- [Teaching Africa through AI, one language at a time](https://dev.to/ndiaga/teaching-africa-through-ai-one-language-at-a-time-2dch)
-- [Install Flutter](https://dev.to/embatec_astelo_918d3b2808/install-flutter-5c2k)
+- [Part 2: Master Authentication and Role-Based Access Control &lpar;RBAC&rpar; with Kinde and Convex in a File-Sharing Application](https://dev.to/sholajegede/part-2-master-authentication-and-role-based-access-control-rbac-with-kinde-and-convex-in-a-ch)
+- [Laravel Debugbar for Next.js](https://dev.to/zerk4/laravel-debugbar-for-nextjs-326m)
+- [Build an OTP-Based Authentication Server with Go: Part 1](https://dev.to/vishaaxl/build-an-otp-based-authentication-server-with-go-part-1-760)
+- [Advantages of search databases](https://dev.to/axotion/advantages-of-search-databases-2lmh)
+- [Title: The Journey of a Software Developer: From Beginner to Expert](https://dev.to/swiftwave60/title-the-journey-of-a-software-developer-from-beginner-to-expert-86n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
