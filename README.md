@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How does ChatGPT generate human-like text?](https://dev.to/moshiur9185/how-does-chatgpt-generate-human-like-text-nhm)
-- [11 Must-Know Websites Every Developer Should Bookmark](https://dev.to/kafeel_ahmad/11-must-know-websites-every-developer-should-bookmark-3j2p)
-- [How to run Python in the Cloud](https://dev.to/adminl3/how-to-run-python-in-the-cloud-mkh)
-- [Mô hình kiến trúc ba lớp &lpar;3-Layer Architecture&rpar;](https://dev.to/hcmute_project_988df1c63c/mo-hinh-kien-truc-ba-lop-3-layer-architecture-60k)
-- [Mô hình kiến trúc ba lớp &lpar;3-Layer Architecture&rpar;](https://dev.to/tcrow06/mo-hinh-kien-truc-ba-lop-3-layer-architecture-5e0j)
+- [How to Efficiently Score Startup Ideas 🚀 &lpar;Just Like The VCs&rpar;](https://dev.to/ladam0203/how-to-efficiently-score-startup-ideas-just-like-the-vcs-1lnp)
+- [Mastering Express.js: A Deep Dive](https://dev.to/leapcell/mastering-expressjs-a-deep-dive-4ef5)
+- [Simple remove transition animation in react native](https://dev.to/sachinrupani/simple-remove-transition-animation-in-react-native-29l3)
+- [All You Need to Know About AI Agents: A Full Guide](https://dev.to/kaymen99/all-you-need-to-know-about-ai-agents-a-full-guide-1p6i)
+- [NPM react env scripts errors](https://dev.to/rainec/npm-react-env-scripts-errors-4h4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
