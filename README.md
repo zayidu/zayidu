@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [API Resource Management &amp; Access Control Very Basic Concepts](https://dev.to/aungkyawminn/icrud-4e1d)
+- [AWS Serverless: How to Create and Use a Lambda Layer via the Console](https://dev.to/bhatiagirish/aws-serverless-how-to-create-and-use-a-lambda-layer-via-the-console-2gmj)
+- [Guia Prático: Como Escrever e Solicitar um Feedback](https://dev.to/annamatias/guia-pratico-como-escrever-e-solicitar-um-feedback-5c8p)
+- [🌟 🌐 The Ultimate 45-Chapter Guide to Rust 🚀](https://dev.to/mega-tutorials-point/the-ultimate-20-chapter-guide-to-rust-4623)
 - [60 Advanced and Modern Ideas for an Impressive Portfolio Website🚀🌟](https://dev.to/hanzla-baig/60-advanced-and-modern-ideas-for-an-impressive-portfolio-website-56f8)
-- [🚀⚙️ JavaScript Visualized: the JavaScript Engine](https://dev.to/hanzla-baig/javascript-visualized-the-javascript-engine-36cc)
-- [The Future of AI: Building Next-Generation Chatbot Agents with Microsoft Copilot Studio](https://dev.to/emmanuel_adegor/the-future-of-ai-building-next-generation-chatbot-agents-with-microsoft-copilot-studio-c31)
-- [El origen de la historia](https://dev.to/juanmiguelar/el-origen-de-la-historia-1n4p)
-- [AI in Cybersecurity: When Robots Guard Your Wi-Fi ????️????](https://dev.to/aniruddhaadak/ai-in-cybersecurity-when-robots-guard-your-wi-fi--3dli)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
