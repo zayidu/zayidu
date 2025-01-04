@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Tips to Level Up Your Coding Skills](https://dev.to/shaik_mohammadfaarooq_bb/5-tips-to-level-up-your-coding-skills-1p78)
-- [Does front-end architecture exist?](https://dev.to/ourai/does-front-end-architecture-exist-2ndm)
-- [# Global vs Static in C++](https://dev.to/minwook/-global-vs-static-in-c-1k73)
-- [Becoming a Software Wizard, The Magic Wand &lpar;metaphor&rpar;](https://dev.to/danazkari/becoming-a-software-wizard-the-magic-wand-metaphor-p8p)
-- [Here’s a list of common problems that BuzzBuilder can solve for influencers:](https://dev.to/susheel_kumar/heres-a-list-of-common-problems-that-buzzbuilder-can-solve-for-influencers-ipp)
+- [Designing Dreams with Eduleem: A Success Story](https://dev.to/shaik_muskansultana_f054/designing-dreams-with-eduleem-a-success-story-ch4)
+- [AI Models Now Master Basic Math But Struggle with Complex Problems, New Study Shows](https://dev.to/mikeyoung44/ai-models-now-master-basic-math-but-struggle-with-complex-problems-new-study-shows-566c)
+- [npx life@2024 preview: How Missing Flights, Finding Love, and Building Svelte Apps Changed Everything](https://dev.to/developerbishwas/npx-life2024-preview-how-missing-flights-finding-love-and-building-svelte-apps-changed-akm)
+- [2025：Web3时代启航，重塑未来二十年的数字版图](https://dev.to/popmaxcn/2025web3shi-dai-qi-hang-zhong-su-wei-lai-er-shi-nian-de-shu-zi-ban-tu-3loa)
+- [Next.js Course](https://dev.to/turingvangisms/nextjs-course-20gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
