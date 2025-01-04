@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Transfer from S3 to Cloud Storage using GCP Storage Transfer Service](https://dev.to/ryankarlos/data-transfer-from-s3-to-cloud-storage-using-gcp-storage-transfer-service-25m)
-- [AWS + JavaScript + WordPress = Fun Content Automation Strategies Using Artificial Intelligence](https://dev.to/christonit/aws-javascript-wordpress-fun-content-automation-strategies-using-artificial-intelligence-1gl1)
-- [Building a Coding Agent from Scratch with Llama 70B: Lessons Learned](https://dev.to/aidando73/building-a-coding-agent-from-scratch-with-llama-70b-lessons-learned-48c4)
-- [Duplicate Value remove](https://dev.to/anjali_gurjar_dff81513867/duplicate-value-remove-24ei)
-- [A Comprehensive Guide to Debugging Go Code for Developers](https://dev.to/adityabhuyan/a-comprehensive-guide-to-debugging-go-code-for-developers-h9d)
+- [OpenMP Data-Sharing Clauses: Differences Explained](https://dev.to/minwook/openmp-data-sharing-clauses-differences-explained-3fop)
+- [150+ FREE APIs Every Developer Needs to Know](https://dev.to/hanzla-baig/150-free-apis-every-developer-needs-to-know-m9j)
+- [FREE: Password Generator ⚡ PRO &lpar;extension/add-on&rpar; + [source code]](https://dev.to/hanzla-baig/free-password-generator-pro-extensionadd-on-source-code-48gf)
+- [Generate Stunning Gradient Avatars with Ease](https://dev.to/simplr_sh/generate-stunning-gradient-avatars-with-ease-190l)
+- [How to Check if an Object is Empty in JavaScript &lpar;benchmark&rpar;](https://dev.to/hanzla-baig/how-to-check-if-an-object-is-empty-in-javascript-benchmark-4ck8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
