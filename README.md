@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up Jest and React Testing Library with Webpack](https://dev.to/hoshdev/setting-up-jest-and-react-testing-library-with-webpack-55dh)
-- [Confidence in the cloud with data sovereignty](https://dev.to/aws-builders/confidence-in-the-cloud-with-data-sovereignty-1p6a)
-- [PyTorch and Deep Learning for Decision Makers &lpar;LFS1116&rpar;](https://dev.to/marcoatl/pytorch-and-deep-learning-for-decision-makers-lfs1116-3o8l)
-- [Reflections and Predictions, Analyzing the Challenges and Trends of 2025](https://dev.to/shafayeat/reflections-and-predictions-analyzing-the-challenges-and-trends-of-2025-29bg)
-- [To work with an actual SQL Server, you&#39;ll need to install and set up the SQL Server environment, create a database, and then interact with it using SQL queries. Here&#39;s a step-by-step guide: 1. Install SQL Server Read more](https://dev.to/newsbhzs/to-work-with-an-actual-sql-server-youll-need-to-install-and-set-up-the-sql-server-environment-157n)
+- [Getting Started with Git and GitHub: A Beginner&#39;s Guide](https://dev.to/singhaayush/getting-started-with-git-and-github-a-beginners-guide-5emi)
+- [From Good to Great: Mastering Front-End Development](https://dev.to/vishalkinikar/from-good-to-great-mastering-front-end-development-395a)
+- [Why to stop overusing AI?](https://dev.to/deveshpal/why-to-stop-overusing-ai-1jmf)
+- [Why Authorization Matters and How Cerbos Revolutionizes It](https://dev.to/shreyyooo/why-authorization-matters-and-how-cerbos-revolutionizes-it-3ghp)
+- [A beginner&#39;s guide to the Stable-Diffusion-Xl-Base-1.0 model by Stabilityai on Huggingface](https://dev.to/mikeyoung44/a-beginners-guide-to-the-stable-diffusion-xl-base-10-model-by-stabilityai-on-huggingface-3f75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
