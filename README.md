@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenMP Data-Sharing Clauses: Differences Explained](https://dev.to/minwook/openmp-data-sharing-clauses-differences-explained-3fop)
-- [150+ FREE APIs Every Developer Needs to Know](https://dev.to/hanzla-baig/150-free-apis-every-developer-needs-to-know-m9j)
-- [FREE: Password Generator ⚡ PRO &lpar;extension/add-on&rpar; + [source code]](https://dev.to/hanzla-baig/free-password-generator-pro-extensionadd-on-source-code-48gf)
-- [Generate Stunning Gradient Avatars with Ease](https://dev.to/simplr_sh/generate-stunning-gradient-avatars-with-ease-190l)
-- [How to Check if an Object is Empty in JavaScript &lpar;benchmark&rpar;](https://dev.to/hanzla-baig/how-to-check-if-an-object-is-empty-in-javascript-benchmark-4ck8)
+- [5 Tips to Level Up Your Coding Skills](https://dev.to/shaik_mohammadfaarooq_bb/5-tips-to-level-up-your-coding-skills-1p78)
+- [Does front-end architecture exist?](https://dev.to/ourai/does-front-end-architecture-exist-2ndm)
+- [# Global vs Static in C++](https://dev.to/minwook/-global-vs-static-in-c-1k73)
+- [Becoming a Software Wizard, The Magic Wand &lpar;metaphor&rpar;](https://dev.to/danazkari/becoming-a-software-wizard-the-magic-wand-metaphor-p8p)
+- [Here’s a list of common problems that BuzzBuilder can solve for influencers:](https://dev.to/susheel_kumar/heres-a-list-of-common-problems-that-buzzbuilder-can-solve-for-influencers-ipp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
