@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Explained: Understanding the Key Components Driving Modern Infrastructure ⚙️](https://dev.to/lorenzo_tettamanti/kubernetes-explained-understanding-the-key-components-driving-modern-infrastructure-4eef)
-- [Guide to TCP/IP Ports and UDP Ports](https://dev.to/harshm03/guide-to-tcpip-ports-and-udp-ports-2o5i)
-- [PHP y valores escalares](https://dev.to/oskar_calvo_1615a9b3b293f/php-y-valores-escalares-3kfo)
-- [Important Port Numbers in Networking and Open-Source Projects](https://dev.to/harshm03/important-port-numbers-in-networking-and-open-source-projects-4b1a)
-- [Apache wicket with spring boot example application: notice board](https://dev.to/saladlam/apache-wicket-with-spring-boot-example-application-notice-board-516o)
+- [I was using Tailwind wrong, so you don&#39;t have to](https://dev.to/aloisseckar/i-was-using-tailwind-wrong-so-you-dont-have-to-4h7j)
+- [How to Build and Manage Virtual Machines Using Proxmox CLI: A Step-by-Step Guide](https://dev.to/sebos/how-to-build-and-manage-virtual-machines-using-proxmox-cli-a-step-by-step-guide-5926)
+- [Searching for a Word](https://dev.to/alterum89/searching-for-a-word-1kk8)
+- [SpringBoot Web Service - Part 5 - Github Action](https://dev.to/vlaship/springboot-web-service-part-5-github-action-12nb)
+- [Edge Computing Bridging the Gap Between Cloud and IoT](https://dev.to/atharvgyan/edge-computing-bridging-the-gap-between-cloud-and-iot-3a4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
