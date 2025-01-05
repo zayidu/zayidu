@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Checkout vs Git Switch: Why You Need to Break Up With Your Old Habits](https://dev.to/itxshakil/git-checkout-vs-git-switch-why-you-need-to-break-up-with-your-old-habits-558k)
-- [Behind the Aisles: The Essential Role of the Service Cart -Devlog#10](https://dev.to/khaisimon_devgame/behind-the-aisles-the-essential-role-of-the-service-cart-devlog10-2eke)
-- [Building Scalable Frontends with Next.js and Tailwind CSS](https://dev.to/smok/building-scalable-frontends-with-nextjs-and-tailwind-css-4e3l)
-- [FSD - 1.1.4 - Setting up Docker](https://dev.to/hariraghupathy/fsd-114-setting-up-docker-5ela)
-- [TypeScript type predicate generator](https://dev.to/peter_leonov_9488b8648f15/typescript-type-predicate-generator-bgk)
+- [7 Things I Love to Do for the Best User Experience](https://dev.to/web_dev-usman/7-things-i-love-to-do-for-the-best-user-experience-3gao)
+- [List.of&lpar;&rpar; vs Arrays.asList&lpar;&rpar; in java](https://dev.to/realnamehidden1_61/listof-vs-arraysaslist-in-java-2jlg)
+- [@PreConstruct and @PostConstruct annotation Spring Boot Example](https://dev.to/realnamehidden1_61/preconstruct-and-postconstruct-annotation-spring-boot-example-4a66)
+- [What are Sprunki Games?](https://dev.to/recondart/what-are-sprunki-games-55po)
+- [The Mystery of Missing Persons in the U.S.: Data, Context, and Speculation](https://dev.to/triple7/the-mystery-of-missing-persons-in-the-us-data-context-and-speculation-5ad9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
