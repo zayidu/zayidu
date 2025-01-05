@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Calculator](https://dev.to/raj_mlotra/calculator-5fac)
-- [Would anyone like to read short book summaries on DEV? Mostly about productivity and small snippets from what I like about Huberman Labs podcasts? Goal is to distill concepts of some books into actionable insights](https://dev.to/srbhr/would-anyone-like-to-read-short-book-summaries-on-dev-mostly-about-productivity-and-small-snippets-29o1)
-- [Which Programming Languages Are Being Used by Popular Streaming Services &lpar;Netflix, Apple TV, Amazon Prime, YouTube…&rpar;?](https://dev.to/emma_richardson/which-programming-languages-are-being-used-by-popular-streaming-services-netflix-apple-tv-amazon-41n1)
-- [Key Concepts in SRE: SLA, SLO, and SLI Explained](https://dev.to/creowistech/key-concepts-in-sre-sla-slo-and-sli-explained-k41)
-- [Do We Really Need All the Data to Make Our Decisions?](https://dev.to/vaibhav9017/do-we-really-need-all-the-data-to-make-our-decisions-34ia)
+- [A journey of a million steps minus one step has reduced,keep pushing forward as much as you can.](https://dev.to/jameslaif/a-journey-of-a-million-steps-minus-one-step-has-reducedkeep-pushing-forward-as-much-as-you-can-2c0c)
+- [84/365 | ¥10M Job Challenge - Reducing the workload](https://dev.to/kameken100/84365-y10m-job-challenge-reducing-the-workload-2gde)
+- [Build a sentiment classifier with Chrome&#39;s Prompt API in Angular](https://dev.to/railsstudent/build-a-sentiment-classifier-with-chromes-prompt-api-in-angular-43ek)
+- [Get Done ✅ : A step-by-step guide in building a Django To Do List](https://dev.to/dhanushdevadiga/get-done-a-step-by-step-guide-in-building-a-django-to-do-list-2jkd)
+- [[Boost]](https://dev.to/noxeinsteinz/-3fmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
