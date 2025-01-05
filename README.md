@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is it cool to share github repos here? https://github.com/cowboyprinter/Bible-Quoter](https://dev.to/aicowboy2020/is-it-cool-to-share-github-repos-here-httpsgithubcomcowboyprinterbible-quoter-2i8j)
-- [A Simple Guide for Choosing the Right Database](https://dev.to/calamont/a-simple-guide-for-choosing-the-right-database-1920)
-- [Verifying Your Shopify App Embed is Actually Enabled with Remix: A Step-by-Step Guide](https://dev.to/tommydemian/verifying-your-shopify-app-embed-is-actually-enabled-with-remix-a-step-by-step-guide-969)
-- [Mi plugin de Obsidian para facilitar el estudio de AWS!](https://dev.to/cpazro/mi-plugin-de-obsidian-para-facilitar-el-estudio-de-aws-10j1)
-- [The Only React Native Button You Will Ever Need](https://dev.to/janziemba/the-only-react-native-button-you-will-ever-need-3ijd)
+- [Give your app a modern look with FxPopup](https://dev.to/victor_hugogasparquinn_/give-your-app-a-modern-look-with-fxpopup-3oab)
+- [What is GCHandle in C#? &lpar;Part 1&rpar;](https://dev.to/arminshoeibi/what-is-gchandle-in-c-part-1-243j)
+- [7 Essential CSS3 Tips and Tricks Every Developer Should Know](https://dev.to/bkthemes/7-essential-css3-tips-and-tricks-every-developer-should-know-gfl)
+- [MiniProject — Detect Faces by Using AWS Rekognition!](https://dev.to/kamalpreet_kaur_cb7c84299/miniproject-detect-faces-by-using-aws-rekognition-f3b)
+- [Cómo instalar PostgreSQL en una instancia EC2 con Amazon Linux 2023](https://dev.to/briansuarezsantiago/como-instalar-postgresql-en-una-instancia-ec2-con-amazon-linux-2023-jkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
