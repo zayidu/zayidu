@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Spam call blocker 2.0](https://dev.to/raj_mlotra/spam-call-blocker-20-2f3b)
-- [Day 11 Unlocking the Magic of Location Services!](https://dev.to/himagaur2708/day-11-unlocking-the-magic-of-location-services-6cm)
-- [How to Download YT Videos in HD Quality Using Python and Google Colab](https://dev.to/chemenggcalc/how-to-download-yt-videos-in-hd-quality-using-python-and-google-colab-5ge7)
-- [Do you know what RISC is, what about CISC, and why does it matter?](https://dev.to/a-bentofreire/do-you-know-what-risc-is-what-about-cisc-and-why-does-it-matter-4de7)
-- [Constructor](https://dev.to/sathish_balaji_2003/constructor-5f5o)
+- [Calculator](https://dev.to/raj_mlotra/calculator-5fac)
+- [Would anyone like to read short book summaries on DEV? Mostly about productivity and small snippets from what I like about Huberman Labs podcasts? Goal is to distill concepts of some books into actionable insights](https://dev.to/srbhr/would-anyone-like-to-read-short-book-summaries-on-dev-mostly-about-productivity-and-small-snippets-29o1)
+- [Which Programming Languages Are Being Used by Popular Streaming Services &lpar;Netflix, Apple TV, Amazon Prime, YouTube…&rpar;?](https://dev.to/emma_richardson/which-programming-languages-are-being-used-by-popular-streaming-services-netflix-apple-tv-amazon-41n1)
+- [Key Concepts in SRE: SLA, SLO, and SLI Explained](https://dev.to/creowistech/key-concepts-in-sre-sla-slo-and-sli-explained-k41)
+- [Do We Really Need All the Data to Make Our Decisions?](https://dev.to/vaibhav9017/do-we-really-need-all-the-data-to-make-our-decisions-34ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
