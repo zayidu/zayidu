@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [The Web4 Revolution and the Future of Digital Identity with UI4](https://dev.to/web4/the-web4-revolution-and-the-future-of-digital-identity-with-ui4-4knl)
 - [7 Things I Love to Do for the Best User Experience](https://dev.to/web_dev-usman/7-things-i-love-to-do-for-the-best-user-experience-3gao)
 - [List.of&lpar;&rpar; vs Arrays.asList&lpar;&rpar; in java](https://dev.to/realnamehidden1_61/listof-vs-arraysaslist-in-java-2jlg)
 - [@PreConstruct and @PostConstruct annotation Spring Boot Example](https://dev.to/realnamehidden1_61/preconstruct-and-postconstruct-annotation-spring-boot-example-4a66)
-- [What are Sprunki Games?](https://dev.to/recondart/what-are-sprunki-games-55po)
-- [The Mystery of Missing Persons in the U.S.: Data, Context, and Speculation](https://dev.to/triple7/the-mystery-of-missing-persons-in-the-us-data-context-and-speculation-5ad9)
+- [Thought process on the way of creating an event loop in Go for a Redis Server](https://dev.to/nicksolante/thought-process-on-the-way-of-creating-an-event-loop-in-go-for-a-redis-server-29nf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
