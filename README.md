@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Día 5/365. Variables, mutabilidad y sombras.](https://dev.to/rustarch/dia-5365-variables-mutabilidad-y-sombras-511a)
-- [3 Code Comment Mistakes You&#39;re Making Right Now](https://dev.to/karell_stemarie_ce42bf9c/3-code-comment-mistakes-youre-making-right-now-31i3)
-- [Mastering Software Supply Chain Security](https://dev.to/bcherlapally/mastering-software-supply-chain-security-5552)
-- [Revolutionizing Software Supply Chain Security: Unlocking the power of GUAC and SBOM](https://dev.to/bcherlapally/revolutionizing-software-supply-chain-security-unlocking-the-power-of-guac-and-sbom-5bb8)
-- [Top 55 JavaScript Interview Questions for Freshers in 2025](https://dev.to/zenixtech/top-55-javascript-interview-questions-for-freshers-in-2025-49fg)
+- [Deploy an Express.js API on Vercel 🚀](https://dev.to/hajith_m/deploy-an-expressjs-api-on-vercel-173m)
+- [Over-Complicated Pricing Could Kill A Sales Process](https://dev.to/jetthoughts/over-complicated-pricing-could-kill-a-sales-process-3afg)
+- [The GOAT Ruby on Rails 8 is here - What&#39;s new?](https://dev.to/railsfactory/the-goat-ruby-on-rails-8-is-here-whats-new-449h)
+- [Bitflip Attack on CBC: Change of the Ciphertext](https://dev.to/moritzhoeppner/bitflip-attack-on-cbc-change-of-the-ciphertext-4h68)
+- [كيفية تحويل الأرقام إلى نصوص باستخدام البرمجة: تجربة من مشروع تفقيط](https://dev.to/qaaiss/kyfy-thwyl-lrqm-l-nsws-bstkhdm-lbrmj-tjrb-mn-mshrw-tfqyt-2neh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
