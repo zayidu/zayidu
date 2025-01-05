@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2024: Into Computers I Venture](https://dev.to/annavi11arrea1/2024-into-computers-i-venture-8m8)
-- [Titanium News #20](https://dev.to/miga/titanium-news-20-3n85)
-- [Give your feedback on my updated Portfolio 👋](https://dev.to/shricodev/give-your-feedback-on-my-updated-portfolio-2nkb)
-- [My Time at 2024: a Novel about Management, Burnout, Love and Cats](https://dev.to/valeriavg/my-time-at-2024-a-novel-about-management-burnout-love-and-cats-176a)
-- [🚀 Visualize Success: BPMN is the Key to Efficient Business Process Management! Plus, a Masterclass on Using Miro Board! 🌟📈🎉](https://dev.to/pro-project-mngr/visualize-success-bpmn-is-the-key-to-efficient-business-process-management-plus-a-masterclass-2glb)
+- [Día 5/365. Variables, mutabilidad y sombras.](https://dev.to/rustarch/dia-5365-variables-mutabilidad-y-sombras-511a)
+- [3 Code Comment Mistakes You&#39;re Making Right Now](https://dev.to/karell_stemarie_ce42bf9c/3-code-comment-mistakes-youre-making-right-now-31i3)
+- [Mastering Software Supply Chain Security](https://dev.to/bcherlapally/mastering-software-supply-chain-security-5552)
+- [Revolutionizing Software Supply Chain Security: Unlocking the power of GUAC and SBOM](https://dev.to/bcherlapally/revolutionizing-software-supply-chain-security-unlocking-the-power-of-guac-and-sbom-5bb8)
+- [Top 55 JavaScript Interview Questions for Freshers in 2025](https://dev.to/zenixtech/top-55-javascript-interview-questions-for-freshers-in-2025-49fg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
