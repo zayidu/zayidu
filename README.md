@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Web4 Revolution and the Future of Digital Identity with UI4](https://dev.to/web4/the-web4-revolution-and-the-future-of-digital-identity-with-ui4-4knl)
-- [7 Things I Love to Do for the Best User Experience](https://dev.to/web_dev-usman/7-things-i-love-to-do-for-the-best-user-experience-3gao)
-- [List.of&lpar;&rpar; vs Arrays.asList&lpar;&rpar; in java](https://dev.to/realnamehidden1_61/listof-vs-arraysaslist-in-java-2jlg)
-- [@PreConstruct and @PostConstruct annotation Spring Boot Example](https://dev.to/realnamehidden1_61/preconstruct-and-postconstruct-annotation-spring-boot-example-4a66)
-- [Thought process on the way of creating an event loop in Go for a Redis Server](https://dev.to/nicksolante/thought-process-on-the-way-of-creating-an-event-loop-in-go-for-a-redis-server-29nf)
+- [Exploring the AWS Journey Understanding Amazon EBS &lpar;Elastic Block Store&rpar;](https://dev.to/aws-builders/exploring-the-aws-journey-understanding-amazon-ebs-elastic-block-store-42pl)
+- [Permission-Based Authentication and Authorization in .NET, via Cookies](https://dev.to/tural_hasanov_11/permission-based-authentication-and-authorization-in-net-via-cookies-47fh)
+- [zsh: command not found: bun](https://dev.to/sibstark/zsh-command-not-found-bun-7n1)
+- [Creating M3U Playlists for xPola Player](https://dev.to/adama_bongado_a857dfff7ed/creating-m3u-playlists-for-xpola-player-1bd0)
+- [Mô hình MVC](https://dev.to/hcmute_project_988df1c63c/mo-hinh-mvc-2pm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
