@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I was using Tailwind wrong, so you don&#39;t have to](https://dev.to/aloisseckar/i-was-using-tailwind-wrong-so-you-dont-have-to-4h7j)
-- [How to Build and Manage Virtual Machines Using Proxmox CLI: A Step-by-Step Guide](https://dev.to/sebos/how-to-build-and-manage-virtual-machines-using-proxmox-cli-a-step-by-step-guide-5926)
-- [Searching for a Word](https://dev.to/alterum89/searching-for-a-word-1kk8)
-- [SpringBoot Web Service - Part 5 - Github Action](https://dev.to/vlaship/springboot-web-service-part-5-github-action-12nb)
-- [Edge Computing Bridging the Gap Between Cloud and IoT](https://dev.to/atharvgyan/edge-computing-bridging-the-gap-between-cloud-and-iot-3a4j)
+- [Is it cool to share github repos here? https://github.com/cowboyprinter/Bible-Quoter](https://dev.to/aicowboy2020/is-it-cool-to-share-github-repos-here-httpsgithubcomcowboyprinterbible-quoter-2i8j)
+- [A Simple Guide for Choosing the Right Database](https://dev.to/calamont/a-simple-guide-for-choosing-the-right-database-1920)
+- [Verifying Your Shopify App Embed is Actually Enabled with Remix: A Step-by-Step Guide](https://dev.to/tommydemian/verifying-your-shopify-app-embed-is-actually-enabled-with-remix-a-step-by-step-guide-969)
+- [Mi plugin de Obsidian para facilitar el estudio de AWS!](https://dev.to/cpazro/mi-plugin-de-obsidian-para-facilitar-el-estudio-de-aws-10j1)
+- [The Only React Native Button You Will Ever Need](https://dev.to/janziemba/the-only-react-native-button-you-will-ever-need-3ijd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
