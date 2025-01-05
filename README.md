@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[For Beginners] Understanding the KMP Algorithm by Comparing with the Brute-Force](https://dev.to/yo-shi/for-beginners-understanding-the-kmp-algorithm-by-comparing-with-the-brute-force-1da3)
-- [What is Gliimly Application Server](https://dev.to/gliimly/what-is-gliimly-application-server-20f5)
-- [Dockerized Deployment of a Full Stack Application with Reverse Proxy, Monitoring &amp; Observability](https://dev.to/chigozieco/dockerized-deployment-of-a-full-stack-application-with-reverse-proxy-monitoring-observability-5c04)
-- [Algorithms I - Princeton - Coursera review](https://dev.to/mapineda/algorithms-i-princeton-coursera-review-4pic)
-- [Revolutionizing Productivity: The Future of Developer Tooling in 2025](https://dev.to/jetthoughts/revolutionizing-productivity-the-future-of-developer-tooling-in-2025-41jj)
+- [Relational Database Design: DBMS](https://dev.to/harshm03/relational-database-design-dbms-1fbo)
+- [Create a Blogging Platform With No Backend &lpar;Zero Hosting Charge&rpar;](https://dev.to/shinjithdev/create-a-blogging-platform-with-no-backend-zero-hosting-fee-2eki)
+- [Why [4, 11, 2, 23].sort&lpar;&rpar; in JavaScript Isn’t What You Expect](https://dev.to/devmatsu/why-4-11-2-23sort-in-javascript-isnt-what-you-expect-4njl)
+- [Does anyone know someone who makes Discord bots for free, or where to find such a person?](https://dev.to/best_codes/does-anyone-know-someone-who-makes-discord-bots-for-free-or-where-to-find-such-a-person-5b8o)
+- [[Boost]](https://dev.to/anadudev/-17ne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
