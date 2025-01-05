@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [https://dev.to/oz/application-architecture-for-angular-project-4m0](https://dev.to/asdaian/httpsdevtoozapplication-architecture-for-angular-project-4m0-6cp)
-- [Managing Relationships, Migrations, and Performance Optimization in ASP.NET Core MVC](https://dev.to/sardarmudassaralikhan/managing-relationships-migrations-and-performance-optimization-in-aspnet-core-mvc-1pg)
-- [Starting with semver `1.0.0`](https://dev.to/tsweb/always-start-with-semver-100-43i9)
-- [What is Security Operations Manager Software? A Key Tool in SOC as a Service](https://dev.to/russellwelch/what-is-security-operations-manager-software-a-key-tool-in-soc-as-a-service-11e9)
-- [🔍 Handling Missing Data in Python for Real-World Applications](https://dev.to/ship-it-harry/handling-missing-data-in-python-for-real-world-applications-302h)
+- [Kubernetes Explained: Understanding the Key Components Driving Modern Infrastructure ⚙️](https://dev.to/lorenzo_tettamanti/kubernetes-explained-understanding-the-key-components-driving-modern-infrastructure-4eef)
+- [Guide to TCP/IP Ports and UDP Ports](https://dev.to/harshm03/guide-to-tcpip-ports-and-udp-ports-2o5i)
+- [PHP y valores escalares](https://dev.to/oskar_calvo_1615a9b3b293f/php-y-valores-escalares-3kfo)
+- [Important Port Numbers in Networking and Open-Source Projects](https://dev.to/harshm03/important-port-numbers-in-networking-and-open-source-projects-4b1a)
+- [Apache wicket with spring boot example application: notice board](https://dev.to/saladlam/apache-wicket-with-spring-boot-example-application-notice-board-516o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
