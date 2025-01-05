@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gen AI Developer Week 1 — Day 5](https://dev.to/saichinmayt/gen-ai-developer-week-1-day-5-1jo5)
-- [To Fine-Tune or Not?](https://dev.to/thatechmaestro/to-fine-tune-or-not-3n43)
-- [I took advantage of an error in the code of a dating app](https://dev.to/zeedu_dev/i-took-advantage-of-an-error-in-the-code-of-a-dating-app-3dkp)
-- [How to Install Node.js on Windows](https://dev.to/erasmuskotoka/how-to-install-nodejs-on-windows-1ngd)
-- [Mastering Image Uploads in Node.js: A Beginner-to-Advanced Guide with Multer and Cloudinary](https://dev.to/yugjadvani/mastering-image-uploads-in-nodejs-a-beginner-to-advanced-guide-with-multer-and-cloudinary-15j)
+- [My Experience with Node.js Version Compatibility: Leveraging the engines Field in package.json for AutoScout](https://dev.to/akramshekh/my-experience-with-nodejs-version-compatibility-leveraging-the-engines-field-in-packagejson-for-4j6a)
+- [🚀 My Journey into Web &amp; Software Development](https://dev.to/shamsuddin_hamdule/my-journey-into-web-software-development-ha9)
+- [Create apps using IA free with AWS Bedrock &amp; PartyRock](https://dev.to/kevinl/certification-using-aws-bedrock-partyrock-aj1)
+- [Back to Basics 2025](https://dev.to/theoriginalbpc/back-to-basics-2025-1681)
+- [Start Shell Programming: A Beginner&#39;s Guide ⚙ [Part-I]](https://dev.to/eshanized/start-shell-programming-a-beginners-guide-part-i-20oo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
