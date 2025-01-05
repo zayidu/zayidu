@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy an Express.js API on Vercel 🚀](https://dev.to/hajith_m/deploy-an-expressjs-api-on-vercel-173m)
-- [Over-Complicated Pricing Could Kill A Sales Process](https://dev.to/jetthoughts/over-complicated-pricing-could-kill-a-sales-process-3afg)
-- [The GOAT Ruby on Rails 8 is here - What&#39;s new?](https://dev.to/railsfactory/the-goat-ruby-on-rails-8-is-here-whats-new-449h)
-- [Bitflip Attack on CBC: Change of the Ciphertext](https://dev.to/moritzhoeppner/bitflip-attack-on-cbc-change-of-the-ciphertext-4h68)
-- [كيفية تحويل الأرقام إلى نصوص باستخدام البرمجة: تجربة من مشروع تفقيط](https://dev.to/qaaiss/kyfy-thwyl-lrqm-l-nsws-bstkhdm-lbrmj-tjrb-mn-mshrw-tfqyt-2neh)
+- [https://dev.to/oz/application-architecture-for-angular-project-4m0](https://dev.to/asdaian/httpsdevtoozapplication-architecture-for-angular-project-4m0-6cp)
+- [Managing Relationships, Migrations, and Performance Optimization in ASP.NET Core MVC](https://dev.to/sardarmudassaralikhan/managing-relationships-migrations-and-performance-optimization-in-aspnet-core-mvc-1pg)
+- [Starting with semver `1.0.0`](https://dev.to/tsweb/always-start-with-semver-100-43i9)
+- [What is Security Operations Manager Software? A Key Tool in SOC as a Service](https://dev.to/russellwelch/what-is-security-operations-manager-software-a-key-tool-in-soc-as-a-service-11e9)
+- [🔍 Handling Missing Data in Python for Real-World Applications](https://dev.to/ship-it-harry/handling-missing-data-in-python-for-real-world-applications-302h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
