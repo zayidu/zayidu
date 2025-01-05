@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of AI-Powered Coding Assistants: How They&#39;re Changing Development in 2025](https://dev.to/rayan2228/the-rise-of-ai-powered-coding-assistants-how-theyre-changing-development-in-2025-5dhj)
-- [Día 4/365. Tipos de datos en Rust: Escalares y compuestos.](https://dev.to/rustarch/dia-4365-tipos-de-datos-en-rust-escalares-y-compuestos-3k11)
-- [Stop Coding Alone: A Wake-up Call.](https://dev.to/zipqt/stop-coding-alone-a-wake-up-call-16p5)
-- [Instalação do RKE2 em HA](https://dev.to/gutobrutus/instalacao-do-rke2-em-ha-1968)
-- [SpringBoot Web Service - Part 2 - Preparing Using Spring Initializr](https://dev.to/vlaship/springboot-web-service-part-2-preparing-using-spring-initializr-1kld)
+- [Path Manipulation in Laravel: Secure Your App from Vulnerabilities](https://dev.to/pentest_testing_corp/path-manipulation-in-laravel-secure-your-app-from-vulnerabilities-241a)
+- [Cookies, Local storage and Session storage](https://dev.to/thesanjeevsharma/cookies-local-storage-and-session-storage-1hkm)
+- [4 Easy Ways: Run Windows Terminal as Administrator With Elevated Permissions!](https://dev.to/winsides/4-easy-ways-run-windows-terminal-as-administrator-with-elevated-permissions-346b)
+- [🚀 Why I Switched from VSCode to CursorAI for Salesforce Development &amp; Personal Projects](https://dev.to/shivamkapasia0/why-i-switched-from-vscode-to-cursorai-for-salesforce-development-personal-projects-1j8n)
+- [Just committed to learning ruby for sonic pi and rails https://dev.to/highcenburg/2025-roadmap-mastering-ruby-for-sonic-pi-and-rails-696 wish me luck!](https://dev.to/highcenburg/just-committed-to-learning-ruby-for-sonic-pi-and-rails-5f7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
