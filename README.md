@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tracing a method call](https://dev.to/wetterkrank/tracing-a-method-call-1dgd)
-- [🚀 Understanding Event-Driven Architecture: A Guide for Backend Developers 🛠️](https://dev.to/hamzakhan/understanding-event-driven-architecture-a-guide-for-backend-developers-3bne)
-- [The Impact of Infrastructure Automation part 1](https://dev.to/574n13y/the-impact-of-infrastructure-automation-2n24)
-- [Dev Next a job platform built with Next.js, Tailwind CSS, Prisma, and NextAuth](https://dev.to/saidmounaim/dev-next-a-job-platform-built-with-nextjs-tailwind-css-prisma-and-nextauth-4ni7)
-- [Java Constructors](https://dev.to/neelakandan_ravi_2000/java-constructors-4k4k)
+- [Spam call blocker 2.0](https://dev.to/raj_mlotra/spam-call-blocker-20-2f3b)
+- [Day 11 Unlocking the Magic of Location Services!](https://dev.to/himagaur2708/day-11-unlocking-the-magic-of-location-services-6cm)
+- [How to Download YT Videos in HD Quality Using Python and Google Colab](https://dev.to/chemenggcalc/how-to-download-yt-videos-in-hd-quality-using-python-and-google-colab-5ge7)
+- [Do you know what RISC is, what about CISC, and why does it matter?](https://dev.to/a-bentofreire/do-you-know-what-risc-is-what-about-cisc-and-why-does-it-matter-4de7)
+- [Constructor](https://dev.to/sathish_balaji_2003/constructor-5f5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
