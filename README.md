@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Install Redis Locally in Windows](https://dev.to/sachingeek/install-redis-locally-in-windows-50mk)
-- [🧩 Bit-Packing: The Secret to Optimizing Data Storage and Transmission](https://dev.to/madhav_baby_giraffe/bit-packing-the-secret-to-optimizing-data-storage-and-transmission-m70)
-- [The New Generation of Programming: Embracing the Future](https://dev.to/aditya_pande/the-new-generation-of-programming-embracing-the-future-5hnm)
-- [What&#39;s gonna change in 2025](https://dev.to/this-is-learning/whats-gonna-change-in-2025-3c94)
-- [Brutal Truths About Freelancing: Reflections on 2024](https://dev.to/thesohailjafri/brutal-truths-about-freelancing-bhg)
+- [Introducing Supabase Client Playground: The Ultimate Tool for Streamlined Query Testing](https://dev.to/ismaeljtl/introducing-supabase-client-playground-the-ultimate-tool-for-streamlined-query-testing-5efd)
+- [How to Host Multiple Next.js Applications on a Single AWS ECR Instance Using Kamal 2.4](https://dev.to/derick1530/how-to-host-multiple-nextjs-applications-on-a-single-aws-ecr-instance-using-kamal-24-3cn3)
+- [a glance of Kubernetes RBAC](https://dev.to/cheedge_lee/a-glance-of-kubernetes-rbac-547a)
+- [How to Set Up Cross-Account EventBridge](https://dev.to/aws-builders/how-to-set-up-cross-account-eventbridge-5d4c)
+- [50+ Most Useful CMD Commands to Boost Your Windows Productivity](https://dev.to/rustcodeweb/50-most-useful-cmd-commands-to-boost-your-windows-productivity-5458)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
