@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Ollama-Powered GitHub Copilot Extension](https://dev.to/nickytonline/building-an-ollama-powered-github-copilot-extension-2l4n)
-- [Rails GraphQL Auth - JWT, Email &amp; Security](https://dev.to/sulmanweb/rails-graphql-auth-jwt-email-security-342g)
-- [SEO and Speed: The Dual Cornerstones Powering High-Performance Websites in 2024](https://dev.to/way2smiledubai/seo-and-speed-the-dual-cornerstones-powering-high-performance-websites-in-2024-38bp)
-- [5 Essential Tips for Optimizing React Applications](https://dev.to/dhrumitdk/5-essential-tips-for-optimizing-react-applications-fbj)
-- [Aspect Ratio | Font size | View Width|](https://dev.to/adityaalshi/1-is-it-a-good-idea-to-maintain-a-containers-aspect-ratio2-what-should-font-size-depend-on-a3d)
+- [What I learned building vue3-search-select package](https://dev.to/adetolaaremu/what-i-learned-building-vue3-search-select-package-5pd)
+- [How to train a LLaMA model using my database to answer analytical questions about the data?](https://dev.to/ayman_salah_03dd379e468cc/how-to-train-a-llama-model-using-my-database-to-answer-analytical-questions-about-the-data-13mj)
+- [The Future of DevOps: How AI is Shaping Infrastructure Management](https://dev.to/rubixkube/the-future-of-devops-how-ai-is-shaping-infrastructure-management-3b95)
+- [Unlock Laravel Code Generation &lpar;Part 3&rpar;: Automating Validation from Your Database Schema 🤯🚀](https://dev.to/adriancolom/unlock-laravel-code-generation-part-3-automating-validation-from-your-database-schema-2fk8)
+- [Enhance Your Keyboard Knowledge with the &quot;Keyboard Check&quot; App](https://dev.to/safdarali25/enhance-your-keyboard-knowledge-with-the-keyboard-check-app-1d6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
