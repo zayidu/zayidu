@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 Mastering the Sliding Window Technique: A Developer&#39;s Guide](https://dev.to/rahulgithubweb/mastering-the-sliding-window-technique-a-developers-guide-1gg6)
-- [&quot;Different Types of CSS Selectors”](https://dev.to/mahiamomo/different-types-of-css-selectors-3k5i)
-- [Maximizing Productivity: The Benefits of Planning Your Day as a Software Engineer](https://dev.to/bobby_the_creatr/maximizing-productivity-the-benefits-of-planning-your-day-as-a-software-engineer-3ma5)
-- [Expanding ZKteco Dealer Global Reach](https://dev.to/endlessmessages/expanding-zkteco-dealer-global-reach-ef)
-- [React 2025: What’s New and What You Should Know](https://dev.to/knewton25/react-2025-whats-new-and-what-you-should-know-4pgh)
+- [#100DAYSOFCODE: Day 11](https://dev.to/isaiahhtml/100daysofcode-day-11-3h7)
+- [RAG - Designing the CLI interface](https://dev.to/this-is-learning/rag-designing-the-cli-interface-17g5)
+- [Calculate monthly account balance and fill in missing dates:From SQL to SPL](https://dev.to/esproc_spl/calculate-monthly-account-balance-and-fill-in-missing-datesfrom-sql-to-spl-147f)
+- [Choosing Redis Caching Over Kafka for a Grocery Delivery App](https://dev.to/divyanshulohani/choosing-redis-caching-over-kafka-for-a-grocery-delivery-app-272g)
+- [7 Advanced TypeScript Features to Supercharge Your Development](https://dev.to/aaravjoshi/7-advanced-typescript-features-to-supercharge-your-development-5436)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
