@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#100DAYSOFCODE: Day 11](https://dev.to/isaiahhtml/100daysofcode-day-11-3h7)
-- [RAG - Designing the CLI interface](https://dev.to/this-is-learning/rag-designing-the-cli-interface-17g5)
-- [Calculate monthly account balance and fill in missing dates:From SQL to SPL](https://dev.to/esproc_spl/calculate-monthly-account-balance-and-fill-in-missing-datesfrom-sql-to-spl-147f)
-- [Choosing Redis Caching Over Kafka for a Grocery Delivery App](https://dev.to/divyanshulohani/choosing-redis-caching-over-kafka-for-a-grocery-delivery-app-272g)
-- [7 Advanced TypeScript Features to Supercharge Your Development](https://dev.to/aaravjoshi/7-advanced-typescript-features-to-supercharge-your-development-5436)
+- [OCP - O Princípio Aberto/Fechado](https://dev.to/thrsouza/ocp-o-principio-abertofechado-12f5)
+- [Managing users’ permissions with Cedar policies in the AWS Lambda](https://dev.to/aws-builders/managing-users-permissions-with-cedar-policies-in-the-aws-lambda-4ei7)
+- [Stack vs Heap in C#: Key Differences and Usage](https://dev.to/stevsharp/memory-management-in-c-3fhd)
+- [WitCom: Modernizing Client-Server Communication](https://dev.to/dmitrat/witcom-modernizing-client-server-communication-28an)
+- [20 Handpicked Daily Useful Tools For Web Developers](https://dev.to/mroman7/20-handpicked-daily-useful-tools-for-web-developers-19gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
