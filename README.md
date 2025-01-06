@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Development: Three Predictions for 2025](https://dev.to/garciadiazjaime/web-development-three-predictions-for-2025-795)
-- [Test Python Code Like a Pro with Poetry, Tox, Nox and CI/CD](https://dev.to/wallaceespindola/test-python-code-like-a-pro-with-poetry-tox-nox-and-cicd-1i6p)
-- [These are the Ghost Engineers that you want](https://dev.to/bcornils/these-are-the-ghost-engineers-that-you-want-474b)
-- [Identifying Heavy Usage of TempDB In SQLSERVER and Monitoring It](https://dev.to/arvind_toorpu/identifying-heavy-usage-of-tempdb-in-sqlserver-and-monitoring-it-40a3)
-- [Understanding GPT-4 Costs: A Comprehensive Guide](https://dev.to/keploy/understanding-gpt-4-costs-a-comprehensive-guide-540a)
+- [Why We Built Meseji: Helping You Ace Communication at Every Level](https://dev.to/theakashshukla/why-we-built-meseji-helping-you-ace-communication-at-every-level-4obf)
+- [New to Programming](https://dev.to/nbenduse/new-to-programming-40lc)
+- [Journey Developing an Obsidian Plugin Part 2 - Improving the Architecture, Basic Error Handling and more!](https://dev.to/bjarnerentz/journey-developing-an-obsidian-plugin-part-2-improving-the-architecture-basic-error-handling-and-5aa6)
+- [Day 1 of My 30-Day DevOps Challenge: Building a Cloud-Powered Weather Dashboard ☁️🌍](https://dev.to/onetayjones/day-1-of-my-30-day-devops-challenge-building-a-cloud-powered-weather-dashboard-3h55)
+- [Is it easy to manage a team of highly qualified engineers?](https://dev.to/artfreshcode/is-it-easy-to-manage-a-team-of-highly-qualified-engineers-1njp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
