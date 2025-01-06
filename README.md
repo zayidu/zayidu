@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OCP - O Princípio Aberto/Fechado](https://dev.to/thrsouza/ocp-o-principio-abertofechado-12f5)
-- [Managing users’ permissions with Cedar policies in the AWS Lambda](https://dev.to/aws-builders/managing-users-permissions-with-cedar-policies-in-the-aws-lambda-4ei7)
-- [Stack vs Heap in C#: Key Differences and Usage](https://dev.to/stevsharp/memory-management-in-c-3fhd)
-- [WitCom: Modernizing Client-Server Communication](https://dev.to/dmitrat/witcom-modernizing-client-server-communication-28an)
-- [20 Handpicked Daily Useful Tools For Web Developers](https://dev.to/mroman7/20-handpicked-daily-useful-tools-for-web-developers-19gl)
+- [Common Business Analyst Interview Questions](https://dev.to/siva_velu_b39044a1dd3b732/common-business-analyst-interview-questions-1keh)
+- [Automate AWS Landing Zone Deployment](https://dev.to/snblaise/automate-aws-landing-zone-deployment-2flj)
+- [Understanding EDI in Healthcare: A Comprehensive Guide](https://dev.to/evelynwyatt/understanding-edi-in-healthcare-a-comprehensive-guide-hhh)
+- [Make Custom Handlebar Helpers in Ghost!](https://dev.to/piotrbednarski/make-custom-handlebar-helpers-in-ghost-48nh)
+- [I am currently reducing at least 22 proofs by at least 99312 steps total.](https://dev.to/xamidi/i-am-currently-reducing-at-least-22-proofs-by-at-least-99312-steps-total-7fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
