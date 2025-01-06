@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Business Analyst Interview Questions](https://dev.to/siva_velu_b39044a1dd3b732/common-business-analyst-interview-questions-1keh)
-- [Automate AWS Landing Zone Deployment](https://dev.to/snblaise/automate-aws-landing-zone-deployment-2flj)
-- [Understanding EDI in Healthcare: A Comprehensive Guide](https://dev.to/evelynwyatt/understanding-edi-in-healthcare-a-comprehensive-guide-hhh)
-- [Make Custom Handlebar Helpers in Ghost!](https://dev.to/piotrbednarski/make-custom-handlebar-helpers-in-ghost-48nh)
-- [I am currently reducing at least 22 proofs by at least 99312 steps total.](https://dev.to/xamidi/i-am-currently-reducing-at-least-22-proofs-by-at-least-99312-steps-total-7fj)
+- [How to resolve - Cypress detected a cross origin error?](https://dev.to/hexa-home/how-to-resolve-cypress-detected-a-cross-origin-error-229d)
+- [10 Proven Strategies to Succeed as an AWS Solution Architect in 2025](https://dev.to/shaik_muskansultana_f054/10-proven-strategies-to-succeed-as-an-aws-solution-architect-in-2025-50a2)
+- [Quantum Scaling: The Next Frontier in Machine Learning](https://dev.to/dansasser/quantum-scaling-the-next-frontier-in-machine-learning-32bl)
+- [How I Moved From 50+ Rejections to Building FastApply](https://dev.to/codev206/how-i-moved-from-50-rejections-to-building-fastapply-mb6)
+- [Understanding Static and Dynamic Typing: Pros, Cons, and Best Use Cases](https://dev.to/hexadecimalsoftware/understanding-static-and-dynamic-typing-pros-cons-and-best-use-cases-1o6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
