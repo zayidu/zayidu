@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to resolve - Cypress detected a cross origin error?](https://dev.to/hexa-home/how-to-resolve-cypress-detected-a-cross-origin-error-229d)
-- [10 Proven Strategies to Succeed as an AWS Solution Architect in 2025](https://dev.to/shaik_muskansultana_f054/10-proven-strategies-to-succeed-as-an-aws-solution-architect-in-2025-50a2)
-- [Quantum Scaling: The Next Frontier in Machine Learning](https://dev.to/dansasser/quantum-scaling-the-next-frontier-in-machine-learning-32bl)
-- [How I Moved From 50+ Rejections to Building FastApply](https://dev.to/codev206/how-i-moved-from-50-rejections-to-building-fastapply-mb6)
-- [Understanding Static and Dynamic Typing: Pros, Cons, and Best Use Cases](https://dev.to/hexadecimalsoftware/understanding-static-and-dynamic-typing-pros-cons-and-best-use-cases-1o6l)
+- [🚀 API Maker : Release Notes for v1.9.0](https://dev.to/apimaker/api-maker-release-notes-for-v190-1dli)
+- [Success with Generative Engine Optimization &lpar;GEO&rpar;](https://dev.to/ostapzabolotnyy/success-with-generative-engine-optimization-geo-25n5)
+- [How to call Bee Agent framework locally with a pre-built UI?](https://dev.to/aairom/how-to-call-bee-agent-framework-locally-with-a-pre-built-ui-12m1)
+- [Common API Errors in Java: Identification and Debugging Techniques](https://dev.to/hexadecimalsoftware/common-api-errors-in-java-identification-and-debugging-techniques-42i9)
+- [String Functions Examples](https://dev.to/poornima_ravi/string-functions-examples-23g1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
