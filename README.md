@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React HRR Testing Pattern](https://dev.to/ryhenness/react-hrr-testing-pattern-278o)
-- [How To Build an Ethereum wallet?](https://dev.to/block_experts_766a3a21915637/how-to-build-and-ethereum-wallet-33l7)
-- [Enhancing Security in .NET 9: New Features and Best Practices for Developers](https://dev.to/leandroveiga/enhancing-security-in-net-9-new-features-and-best-practices-for-developers-3b39)
-- [Unlocking the Power of Angular Signals for Dynamic Reactivity](https://dev.to/gervaisamoah/unlocking-the-power-of-angular-signals-for-dynamic-reactivity-23l2)
-- [A Comparative Analysis of Terraform and CloudFormation](https://dev.to/basel5001/a-comparative-analysis-of-terraform-and-cloudformation-3mb1)
+- [[PLS HELP] Terrain Issues Unity](https://dev.to/nucleardev/pls-help-terrain-issues-unity-4gfp)
+- [Amazon EC2: A Comprehensive Guide 🚀](https://dev.to/itanand_/amazon-ec2-a-comprehensive-guide-56el)
+- [Revolutionizing Workforce Management with Face Recognition Time Attendance Systems](https://dev.to/faceplugin/revolutionizing-workforce-management-with-face-recognition-time-attendance-systems-4jfl)
+- [Testing Roadmap 2025: Cascade AI Agents, Data Assurance, and E2E Risks](https://dev.to/robin_xuan_88ac61c35e0a33/testing-roadmap-2025-cascade-ai-agents-data-assurance-and-e2e-risks-fme)
+- [Getting Started with Python: Creating a Hello World Project Using Poetry](https://dev.to/jajera/getting-started-with-python-creating-a-hello-world-project-using-poetry-298h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
