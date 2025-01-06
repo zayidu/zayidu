@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My 2024 in Review—And My Most Read Posts](https://dev.to/canro91/my-2024-in-review-and-my-most-read-posts-gc)
-- [Meta programming with Ruby Eval: A guide &lpar;Part 2&rpar;](https://dev.to/railsfactory/meta-programming-with-ruby-eval-a-guide-part-2-5256)
-- [Meta programming with Ruby Eval: A guide &lpar;Part 1&rpar;](https://dev.to/railsfactory/meta-programming-with-ruby-eval-a-guide-part-1-3ndn)
-- [Crea diagramas de AWS de manera gratuita con Draw.io](https://dev.to/cpazro/crea-diagramas-de-aws-de-manera-gratuita-con-drawio-2987)
-- [Exploring the Best and Latest Software in Architecture](https://dev.to/material360/exploring-the-best-and-latest-software-in-architecture-1ef5)
+- [Building an Ollama-Powered GitHub Copilot Extension](https://dev.to/nickytonline/building-an-ollama-powered-github-copilot-extension-2l4n)
+- [Rails GraphQL Auth - JWT, Email &amp; Security](https://dev.to/sulmanweb/rails-graphql-auth-jwt-email-security-342g)
+- [SEO and Speed: The Dual Cornerstones Powering High-Performance Websites in 2024](https://dev.to/way2smiledubai/seo-and-speed-the-dual-cornerstones-powering-high-performance-websites-in-2024-38bp)
+- [5 Essential Tips for Optimizing React Applications](https://dev.to/dhrumitdk/5-essential-tips-for-optimizing-react-applications-fbj)
+- [Aspect Ratio | Font size | View Width|](https://dev.to/adityaalshi/1-is-it-a-good-idea-to-maintain-a-containers-aspect-ratio2-what-should-font-size-depend-on-a3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
