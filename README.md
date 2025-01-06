@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to order attributes on HTML elements](https://dev.to/railsdesigner/how-to-order-attributes-on-html-elements-4mo7)
-- [Introduction to Django Authentication: Understanding the Core Components and Benefits](https://dev.to/mohbohlahji/introduction-to-django-authentication-understanding-the-core-components-and-benefits-4ahl)
-- [SSH port forwarding from within Rust code](https://dev.to/bbkr/ssh-port-forwarding-from-within-rust-code-5an)
-- [SSH port forwarding from within Raku code](https://dev.to/bbkr/ssh-port-forwarding-from-within-raku-code-3i36)
-- [SSH port forwarding from within code](https://dev.to/bbkr/ssh-port-forwarding-from-within-code-1i3h)
+- [Día 6/365. Control de flujo: if, else, y expresiones.](https://dev.to/rustarch/dia-6365-control-de-flujo-if-else-y-expresiones-37d4)
+- [Oh, and before I get carried away—Hi! I am mary😁, a software engineer with a passion for crafting beautiful designs and websites. Lately, I have started writing on dev.to weekly, sharing my experiences while soaking up wisdom from this amazing community.](https://dev.to/mary_willson_c7350920124b/oh-and-before-i-get-carried-away-hi-i-am-ravin-a-software-engineer-with-a-passion-for-crafting-3267)
+- [Guide on Authenticating Requests With the REST API in Strapi](https://dev.to/javascriptar/guide-on-authenticating-requests-with-the-rest-api-in-strapi-734)
+- [Running PostgreSQL, MongoDB, and NestJS concurrently with Docker Compose](https://dev.to/javascriptar/running-postgresql-mongodb-and-nestjs-concurrently-with-docker-compose-d6g)
+- [Creando un notebook con Jupyter y Kotlin](https://dev.to/feregri_no/creando-un-notebook-con-jupyter-y-kotlin-5g8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
