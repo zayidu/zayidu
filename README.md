@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 API Maker : Release Notes for v1.9.0](https://dev.to/apimaker/api-maker-release-notes-for-v190-1dli)
-- [Success with Generative Engine Optimization &lpar;GEO&rpar;](https://dev.to/ostapzabolotnyy/success-with-generative-engine-optimization-geo-25n5)
-- [How to call Bee Agent framework locally with a pre-built UI?](https://dev.to/aairom/how-to-call-bee-agent-framework-locally-with-a-pre-built-ui-12m1)
-- [Common API Errors in Java: Identification and Debugging Techniques](https://dev.to/hexadecimalsoftware/common-api-errors-in-java-identification-and-debugging-techniques-42i9)
-- [String Functions Examples](https://dev.to/poornima_ravi/string-functions-examples-23g1)
+- [Install Redis Locally in Windows](https://dev.to/sachingeek/install-redis-locally-in-windows-50mk)
+- [🧩 Bit-Packing: The Secret to Optimizing Data Storage and Transmission](https://dev.to/madhav_baby_giraffe/bit-packing-the-secret-to-optimizing-data-storage-and-transmission-m70)
+- [The New Generation of Programming: Embracing the Future](https://dev.to/aditya_pande/the-new-generation-of-programming-embracing-the-future-5hnm)
+- [What&#39;s gonna change in 2025](https://dev.to/this-is-learning/whats-gonna-change-in-2025-3c94)
+- [Brutal Truths About Freelancing: Reflections on 2024](https://dev.to/thesohailjafri/brutal-truths-about-freelancing-bhg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
