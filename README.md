@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Built Meseji: Helping You Ace Communication at Every Level](https://dev.to/theakashshukla/why-we-built-meseji-helping-you-ace-communication-at-every-level-4obf)
-- [New to Programming](https://dev.to/nbenduse/new-to-programming-40lc)
-- [Journey Developing an Obsidian Plugin Part 2 - Improving the Architecture, Basic Error Handling and more!](https://dev.to/bjarnerentz/journey-developing-an-obsidian-plugin-part-2-improving-the-architecture-basic-error-handling-and-5aa6)
-- [Day 1 of My 30-Day DevOps Challenge: Building a Cloud-Powered Weather Dashboard ☁️🌍](https://dev.to/onetayjones/day-1-of-my-30-day-devops-challenge-building-a-cloud-powered-weather-dashboard-3h55)
-- [Is it easy to manage a team of highly qualified engineers?](https://dev.to/artfreshcode/is-it-easy-to-manage-a-team-of-highly-qualified-engineers-1njp)
+- [Tech Trends and My Bold Predictions for 2025](https://dev.to/dminatto/tech-trends-and-my-bold-predictions-for-2025-efo)
+- [What is Semantic API?](https://dev.to/pancy/what-is-semantic-api-4i1j)
+- [That piece of Python which retrieves Google Albums...](https://dev.to/lorelu/that-piece-of-python-which-retrieves-google-albums-4kia)
+- [foot with true-color tmux support &lpar;à la Alacritty&rpar;](https://dev.to/spica/foot-with-true-color-tmux-support-a-la-alacritty-25gj)
+- [New React 19 Hook: use&lpar;&rpar;](https://dev.to/matheusmcz/new-react-19-hook-use-55m6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
