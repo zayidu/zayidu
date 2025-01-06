@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Give your app a modern look with FxPopup](https://dev.to/victor_hugogasparquinn_/give-your-app-a-modern-look-with-fxpopup-3oab)
-- [What is GCHandle in C#? &lpar;Part 1&rpar;](https://dev.to/arminshoeibi/what-is-gchandle-in-c-part-1-243j)
-- [7 Essential CSS3 Tips and Tricks Every Developer Should Know](https://dev.to/bkthemes/7-essential-css3-tips-and-tricks-every-developer-should-know-gfl)
-- [MiniProject — Detect Faces by Using AWS Rekognition!](https://dev.to/kamalpreet_kaur_cb7c84299/miniproject-detect-faces-by-using-aws-rekognition-f3b)
-- [Cómo instalar PostgreSQL en una instancia EC2 con Amazon Linux 2023](https://dev.to/briansuarezsantiago/como-instalar-postgresql-en-una-instancia-ec2-con-amazon-linux-2023-jkp)
+- [React HRR Testing Pattern](https://dev.to/ryhenness/react-hrr-testing-pattern-278o)
+- [How To Build an Ethereum wallet?](https://dev.to/block_experts_766a3a21915637/how-to-build-and-ethereum-wallet-33l7)
+- [Enhancing Security in .NET 9: New Features and Best Practices for Developers](https://dev.to/leandroveiga/enhancing-security-in-net-9-new-features-and-best-practices-for-developers-3b39)
+- [Unlocking the Power of Angular Signals for Dynamic Reactivity](https://dev.to/gervaisamoah/unlocking-the-power-of-angular-signals-for-dynamic-reactivity-23l2)
+- [A Comparative Analysis of Terraform and CloudFormation](https://dev.to/basel5001/a-comparative-analysis-of-terraform-and-cloudformation-3mb1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
