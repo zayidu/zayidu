@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What I learned building vue3-search-select package](https://dev.to/adetolaaremu/what-i-learned-building-vue3-search-select-package-5pd)
-- [How to train a LLaMA model using my database to answer analytical questions about the data?](https://dev.to/ayman_salah_03dd379e468cc/how-to-train-a-llama-model-using-my-database-to-answer-analytical-questions-about-the-data-13mj)
-- [The Future of DevOps: How AI is Shaping Infrastructure Management](https://dev.to/rubixkube/the-future-of-devops-how-ai-is-shaping-infrastructure-management-3b95)
-- [Unlock Laravel Code Generation &lpar;Part 3&rpar;: Automating Validation from Your Database Schema 🤯🚀](https://dev.to/adriancolom/unlock-laravel-code-generation-part-3-automating-validation-from-your-database-schema-2fk8)
-- [Enhance Your Keyboard Knowledge with the &quot;Keyboard Check&quot; App](https://dev.to/safdarali25/enhance-your-keyboard-knowledge-with-the-keyboard-check-app-1d6j)
+- [2025, Please, Be Gentle](https://dev.to/eevajonnapanula/2025-please-be-gentle-289e)
+- [5 Must-Try Trending UI Component Libraries to Enhance Your Web Design in 2025](https://dev.to/web_dev-usman/5-must-try-trending-ui-component-libraries-to-enhance-your-web-design-in-2025-3k1c)
+- [Beyond CAP: Why Partial Progress is Critical for Modern Distributed Systems](https://dev.to/mikeyoung44/beyond-cap-why-partial-progress-is-critical-for-modern-distributed-systems-2n57)
+- [Intel Gaudi NPU Matches NVIDIA GPU Performance at 30% Lower Cost in AI Workload Tests](https://dev.to/mikeyoung44/intel-gaudi-npu-matches-nvidia-gpu-performance-at-30-lower-cost-in-ai-workload-tests-2pk7)
+- [Real-Time AI Video Generation Hits 40 FPS: New System Creates High-Quality Clips on a Single GPU](https://dev.to/mikeyoung44/real-time-ai-video-generation-hits-40-fps-new-system-creates-high-quality-clips-on-a-single-gpu-1pl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
