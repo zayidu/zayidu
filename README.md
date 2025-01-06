@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Logic Apps Connections to Dynamics 365 Using Bicep](https://dev.to/umeshtharukaofficial/automating-logic-apps-connections-to-dynamics-365-using-bicep-4250)
-- [How to develop a Optical Design Software like zemax or codev](https://dev.to/zhu_co/how-to-develop-a-optical-design-software-like-zemax-or-codev-1pfn)
-- [Visualize TypeScript Dependencies of Changed Files in a Pull Request Using dependency-cruiser-report-action](https://dev.to/mh4gf/visualize-typescript-dependencies-of-changed-files-in-a-pull-request-using-127j)
-- [📦 How to Create, Publish, and Maintain a Node.js Package &lpar;in JavaScript and TypeScript&rpar;](https://dev.to/sweetpapa/how-to-create-publish-and-maintain-a-nodejs-package-in-javascript-and-typescript-3jgn)
-- [The Role of AI in Edtech](https://dev.to/anshul_kichara/the-role-of-ai-in-edtech-3ap4)
+- [My 2024 in Review—And My Most Read Posts](https://dev.to/canro91/my-2024-in-review-and-my-most-read-posts-gc)
+- [Meta programming with Ruby Eval: A guide &lpar;Part 2&rpar;](https://dev.to/railsfactory/meta-programming-with-ruby-eval-a-guide-part-2-5256)
+- [Meta programming with Ruby Eval: A guide &lpar;Part 1&rpar;](https://dev.to/railsfactory/meta-programming-with-ruby-eval-a-guide-part-1-3ndn)
+- [Crea diagramas de AWS de manera gratuita con Draw.io](https://dev.to/cpazro/crea-diagramas-de-aws-de-manera-gratuita-con-drawio-2987)
+- [Exploring the Best and Latest Software in Architecture](https://dev.to/material360/exploring-the-best-and-latest-software-in-architecture-1ef5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
