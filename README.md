@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[PLS HELP] Terrain Issues Unity](https://dev.to/nucleardev/pls-help-terrain-issues-unity-4gfp)
-- [Amazon EC2: A Comprehensive Guide 🚀](https://dev.to/itanand_/amazon-ec2-a-comprehensive-guide-56el)
-- [Revolutionizing Workforce Management with Face Recognition Time Attendance Systems](https://dev.to/faceplugin/revolutionizing-workforce-management-with-face-recognition-time-attendance-systems-4jfl)
-- [Testing Roadmap 2025: Cascade AI Agents, Data Assurance, and E2E Risks](https://dev.to/robin_xuan_88ac61c35e0a33/testing-roadmap-2025-cascade-ai-agents-data-assurance-and-e2e-risks-fme)
-- [Getting Started with Python: Creating a Hello World Project Using Poetry](https://dev.to/jajera/getting-started-with-python-creating-a-hello-world-project-using-poetry-298h)
+- [Reflecting on My Journey Through 2024 🌟](https://dev.to/hirushi_nethmini_41168bb8/reflecting-on-my-journey-through-2024-1ajp)
+- [Exploring Angular v19 Resource API](https://dev.to/nhannguyendevjs/exploring-angular-v19-resource-api-2k89)
+- [Solving the Logistics Puzzle: How Geospatial Data Visualization Optimizes Delivery and Transportation](https://dev.to/duyhoabhsoft/solving-the-logistics-puzzle-how-geospatial-data-visualization-optimizes-delivery-and-4fa6)
+- [2025: Current &amp; Future](https://dev.to/annavi11arrea1/2025-current-future-4om9)
+- [The Top Security Risks of Not Using .env Files in Your Projects](https://dev.to/jds64/the-top-security-risks-of-not-using-env-files-in-your-projects-5bfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
