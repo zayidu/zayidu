@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Día 6/365. Control de flujo: if, else, y expresiones.](https://dev.to/rustarch/dia-6365-control-de-flujo-if-else-y-expresiones-37d4)
-- [Oh, and before I get carried away—Hi! I am mary😁, a software engineer with a passion for crafting beautiful designs and websites. Lately, I have started writing on dev.to weekly, sharing my experiences while soaking up wisdom from this amazing community.](https://dev.to/mary_willson_c7350920124b/oh-and-before-i-get-carried-away-hi-i-am-ravin-a-software-engineer-with-a-passion-for-crafting-3267)
-- [Guide on Authenticating Requests With the REST API in Strapi](https://dev.to/javascriptar/guide-on-authenticating-requests-with-the-rest-api-in-strapi-734)
-- [Running PostgreSQL, MongoDB, and NestJS concurrently with Docker Compose](https://dev.to/javascriptar/running-postgresql-mongodb-and-nestjs-concurrently-with-docker-compose-d6g)
-- [Creando un notebook con Jupyter y Kotlin](https://dev.to/feregri_no/creando-un-notebook-con-jupyter-y-kotlin-5g8d)
+- [Front-End is Becoming Obsolete](https://dev.to/elanatframework/front-end-is-becoming-obsolete-f85)
+- [The Building Blocks of Python: Variables, I/O, and Operators](https://dev.to/iftakher_hossen/the-building-blocks-of-python-variables-io-and-operators-2fli)
+- [Fundamentos das expressões lambda](https://dev.to/javaparainiciantes/fundamentos-das-expressoes-lambda-plp)
+- [Codewars - Build a pile of Cubes](https://dev.to/dantedinopegassi/codewars-build-a-pile-of-cubes-3ocn)
+- [Anonymous Feedback in Retros: When, Why, and How](https://dev.to/mattlewandowski93/anonymous-feedback-in-retros-when-why-and-how-170n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
