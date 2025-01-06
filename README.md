@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Your Go-To List of 25 Swift Tools and Libraries for Any Project](https://dev.to/0x3d_site/your-go-to-list-of-25-swift-tools-and-libraries-for-any-project-9i8)
-- [Estruturas de Dados: Árvores](https://dev.to/alexreis/arvores-2e50)
-- [Life of Become part of the team](https://dev.to/kandege_rajika_6bc28877aa/life-of-become-part-of-the-team-20np)
-- [Introducing AsmJamShield: A Professional-Grade Cybersecurity Tool](https://dev.to/shankararyal/introducing-asmjamshield-a-professional-grade-cybersecurity-tool-44c1)
-- [Understanding UHD vs HD: How vSeeBox Delivers an Unmatched Viewing Experience](https://dev.to/cody_morris_f63d03338b753/understanding-uhd-vs-hd-how-vseebox-delivers-an-unmatched-viewing-experience-2kjf)
+- [Web Development: Three Predictions for 2025](https://dev.to/garciadiazjaime/web-development-three-predictions-for-2025-795)
+- [Test Python Code Like a Pro with Poetry, Tox, Nox and CI/CD](https://dev.to/wallaceespindola/test-python-code-like-a-pro-with-poetry-tox-nox-and-cicd-1i6p)
+- [These are the Ghost Engineers that you want](https://dev.to/bcornils/these-are-the-ghost-engineers-that-you-want-474b)
+- [Identifying Heavy Usage of TempDB In SQLSERVER and Monitoring It](https://dev.to/arvind_toorpu/identifying-heavy-usage-of-tempdb-in-sqlserver-and-monitoring-it-40a3)
+- [Understanding GPT-4 Costs: A Comprehensive Guide](https://dev.to/keploy/understanding-gpt-4-costs-a-comprehensive-guide-540a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
