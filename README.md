@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Supabase Client Playground: The Ultimate Tool for Streamlined Query Testing](https://dev.to/ismaeljtl/introducing-supabase-client-playground-the-ultimate-tool-for-streamlined-query-testing-5efd)
-- [How to Host Multiple Next.js Applications on a Single AWS ECR Instance Using Kamal 2.4](https://dev.to/derick1530/how-to-host-multiple-nextjs-applications-on-a-single-aws-ecr-instance-using-kamal-24-3cn3)
-- [a glance of Kubernetes RBAC](https://dev.to/cheedge_lee/a-glance-of-kubernetes-rbac-547a)
-- [How to Set Up Cross-Account EventBridge](https://dev.to/aws-builders/how-to-set-up-cross-account-eventbridge-5d4c)
-- [50+ Most Useful CMD Commands to Boost Your Windows Productivity](https://dev.to/rustcodeweb/50-most-useful-cmd-commands-to-boost-your-windows-productivity-5458)
+- [🚀 Your Go-To List of 25 Swift Tools and Libraries for Any Project](https://dev.to/0x3d_site/your-go-to-list-of-25-swift-tools-and-libraries-for-any-project-9i8)
+- [Estruturas de Dados: Árvores](https://dev.to/alexreis/arvores-2e50)
+- [Life of Become part of the team](https://dev.to/kandege_rajika_6bc28877aa/life-of-become-part-of-the-team-20np)
+- [Introducing AsmJamShield: A Professional-Grade Cybersecurity Tool](https://dev.to/shankararyal/introducing-asmjamshield-a-professional-grade-cybersecurity-tool-44c1)
+- [Understanding UHD vs HD: How vSeeBox Delivers an Unmatched Viewing Experience](https://dev.to/cody_morris_f63d03338b753/understanding-uhd-vs-hd-how-vseebox-delivers-an-unmatched-viewing-experience-2kjf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
