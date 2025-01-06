@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2025, Please, Be Gentle](https://dev.to/eevajonnapanula/2025-please-be-gentle-289e)
-- [5 Must-Try Trending UI Component Libraries to Enhance Your Web Design in 2025](https://dev.to/web_dev-usman/5-must-try-trending-ui-component-libraries-to-enhance-your-web-design-in-2025-3k1c)
-- [Beyond CAP: Why Partial Progress is Critical for Modern Distributed Systems](https://dev.to/mikeyoung44/beyond-cap-why-partial-progress-is-critical-for-modern-distributed-systems-2n57)
-- [Intel Gaudi NPU Matches NVIDIA GPU Performance at 30% Lower Cost in AI Workload Tests](https://dev.to/mikeyoung44/intel-gaudi-npu-matches-nvidia-gpu-performance-at-30-lower-cost-in-ai-workload-tests-2pk7)
-- [Real-Time AI Video Generation Hits 40 FPS: New System Creates High-Quality Clips on a Single GPU](https://dev.to/mikeyoung44/real-time-ai-video-generation-hits-40-fps-new-system-creates-high-quality-clips-on-a-single-gpu-1pl9)
+- [🔍 Mastering the Sliding Window Technique: A Developer&#39;s Guide](https://dev.to/rahulgithubweb/mastering-the-sliding-window-technique-a-developers-guide-1gg6)
+- [&quot;Different Types of CSS Selectors”](https://dev.to/mahiamomo/different-types-of-css-selectors-3k5i)
+- [Maximizing Productivity: The Benefits of Planning Your Day as a Software Engineer](https://dev.to/bobby_the_creatr/maximizing-productivity-the-benefits-of-planning-your-day-as-a-software-engineer-3ma5)
+- [Expanding ZKteco Dealer Global Reach](https://dev.to/endlessmessages/expanding-zkteco-dealer-global-reach-ef)
+- [React 2025: What’s New and What You Should Know](https://dev.to/knewton25/react-2025-whats-new-and-what-you-should-know-4pgh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
