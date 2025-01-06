@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Trends and My Bold Predictions for 2025](https://dev.to/dminatto/tech-trends-and-my-bold-predictions-for-2025-efo)
-- [What is Semantic API?](https://dev.to/pancy/what-is-semantic-api-4i1j)
-- [That piece of Python which retrieves Google Albums...](https://dev.to/lorelu/that-piece-of-python-which-retrieves-google-albums-4kia)
-- [foot with true-color tmux support &lpar;à la Alacritty&rpar;](https://dev.to/spica/foot-with-true-color-tmux-support-a-la-alacritty-25gj)
-- [New React 19 Hook: use&lpar;&rpar;](https://dev.to/matheusmcz/new-react-19-hook-use-55m6)
+- [How to order attributes on HTML elements](https://dev.to/railsdesigner/how-to-order-attributes-on-html-elements-4mo7)
+- [Introduction to Django Authentication: Understanding the Core Components and Benefits](https://dev.to/mohbohlahji/introduction-to-django-authentication-understanding-the-core-components-and-benefits-4ahl)
+- [SSH port forwarding from within Rust code](https://dev.to/bbkr/ssh-port-forwarding-from-within-rust-code-5an)
+- [SSH port forwarding from within Raku code](https://dev.to/bbkr/ssh-port-forwarding-from-within-raku-code-3i36)
+- [SSH port forwarding from within code](https://dev.to/bbkr/ssh-port-forwarding-from-within-code-1i3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
