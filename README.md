@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reflecting on My Journey Through 2024 🌟](https://dev.to/hirushi_nethmini_41168bb8/reflecting-on-my-journey-through-2024-1ajp)
-- [Exploring Angular v19 Resource API](https://dev.to/nhannguyendevjs/exploring-angular-v19-resource-api-2k89)
-- [Solving the Logistics Puzzle: How Geospatial Data Visualization Optimizes Delivery and Transportation](https://dev.to/duyhoabhsoft/solving-the-logistics-puzzle-how-geospatial-data-visualization-optimizes-delivery-and-4fa6)
-- [2025: Current &amp; Future](https://dev.to/annavi11arrea1/2025-current-future-4om9)
-- [The Top Security Risks of Not Using .env Files in Your Projects](https://dev.to/jds64/the-top-security-risks-of-not-using-env-files-in-your-projects-5bfh)
+- [Automating Logic Apps Connections to Dynamics 365 Using Bicep](https://dev.to/umeshtharukaofficial/automating-logic-apps-connections-to-dynamics-365-using-bicep-4250)
+- [How to develop a Optical Design Software like zemax or codev](https://dev.to/zhu_co/how-to-develop-a-optical-design-software-like-zemax-or-codev-1pfn)
+- [Visualize TypeScript Dependencies of Changed Files in a Pull Request Using dependency-cruiser-report-action](https://dev.to/mh4gf/visualize-typescript-dependencies-of-changed-files-in-a-pull-request-using-127j)
+- [📦 How to Create, Publish, and Maintain a Node.js Package &lpar;in JavaScript and TypeScript&rpar;](https://dev.to/sweetpapa/how-to-create-publish-and-maintain-a-nodejs-package-in-javascript-and-typescript-3jgn)
+- [The Role of AI in Edtech](https://dev.to/anshul_kichara/the-role-of-ai-in-edtech-3ap4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
