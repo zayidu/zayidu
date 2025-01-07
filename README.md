@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Data Loss Scenarios &amp; Solutions in Prisma Schema Changes](https://dev.to/vatul16/common-data-loss-scenarios-solutions-in-prisma-schema-changes-52id)
-- [Insertion Sort: A Comprehensive Guide](https://dev.to/mohamed_nagh/insertion-sort-a-comprehensive-guide-4g1m)
-- [Test Strategies for Software Development](https://dev.to/keploy/test-strategies-for-software-development-5ef1)
-- [12 CSS resources you may not know about ... 🔎 🧐](https://dev.to/gilles_vauvarin_861cefba1/12-css-resources-you-may-not-know-about--4ib7)
-- [&quot;Unlocking Quantum Networks: Key Insights for Future Innovations&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-networks-key-insights-for-future-innovations-el8)
+- [I just used the git commit message of &quot;changed code&quot; 🙃](https://dev.to/ben/i-just-used-the-git-commit-message-of-changed-code-3n18)
+- [Building a Google Sheets–Like Table Component with TanStack Table, Zod, and ShadCN/UI](https://dev.to/jacksonkasi/building-a-google-sheets-like-table-component-with-tanstack-table-zod-and-shadcnui-1ped)
+- [Accessing the AuthAction Management API with Machine-to-Machine Application](https://dev.to/authaction/accessing-the-authaction-management-api-with-machine-to-machine-application-4kk1)
+- [Fuzz Testing: A Comprehensive Guide to Uncovering Hidden Vulnerabilities](https://dev.to/keploy/fuzz-testing-a-comprehensive-guide-to-uncovering-hidden-vulnerabilities-2dci)
+- [Overhyped Tech Buzzwords of 2025 — Are We Falling for the Same Trap?](https://dev.to/digitalminds/overhyped-tech-buzzwords-of-2025-are-we-falling-for-the-same-trap-2o0b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
