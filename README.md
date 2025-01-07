@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java OOP: Week 2 - The OOP Adventure Continues](https://dev.to/kendall_vargas/java-oop-week-2-the-oop-adventure-continues-aed)
-- [30days DevOps-challenge](https://dev.to/ijay/30days-devops-challenge-5b3f)
-- [Building and Deploying a New API &lpar;Part 1&rpar;](https://dev.to/m_dango/building-and-deploying-a-new-api-part-1-6ck)
-- [🐦 Currently on &quot;How to Make Money with Twitter&quot;](https://dev.to/abubakersiddique761/currently-on-how-to-make-money-with-twitter-2nld)
-- [Building a Scalable Monorepo with TurboRepo](https://dev.to/anurag112/building-a-scalable-monorepo-with-turborepo-1kco)
+- [How to Install Docker on Windows: A Beginner&#39;s Guide](https://dev.to/pmbanugo/how-to-install-docker-on-windows-a-beginners-guide-17c4)
+- [Install and use VirtualBox on Arch Linux &amp; Snigdha OS](https://dev.to/snigdhaos/install-and-use-virtualbox-on-arch-linux-snigdha-os-5cb3)
+- [Node.js Meets PostgreSQL and MongoDB in Docker: Docker Diaries](https://dev.to/fahim_hasnainfahad_7e50d/nodejs-meets-postgresql-and-mongodb-in-docker-docker-diaries-4bk6)
+- [Play your first Hive adventure now](https://dev.to/serpent7776/play-your-first-hive-adventure-now-2o53)
+- [AI-Generated Spear Phishing: The Evolution of Social Engineering Attacks](https://dev.to/nolunchbreaks_22/ai-generated-spear-phishing-the-evolution-of-social-engineering-attacks-oej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
