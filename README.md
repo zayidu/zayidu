@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Docker on Windows: A Beginner&#39;s Guide](https://dev.to/pmbanugo/how-to-install-docker-on-windows-a-beginners-guide-17c4)
-- [Install and use VirtualBox on Arch Linux &amp; Snigdha OS](https://dev.to/snigdhaos/install-and-use-virtualbox-on-arch-linux-snigdha-os-5cb3)
-- [Node.js Meets PostgreSQL and MongoDB in Docker: Docker Diaries](https://dev.to/fahim_hasnainfahad_7e50d/nodejs-meets-postgresql-and-mongodb-in-docker-docker-diaries-4bk6)
-- [Play your first Hive adventure now](https://dev.to/serpent7776/play-your-first-hive-adventure-now-2o53)
-- [AI-Generated Spear Phishing: The Evolution of Social Engineering Attacks](https://dev.to/nolunchbreaks_22/ai-generated-spear-phishing-the-evolution-of-social-engineering-attacks-oej)
+- [Efficient Batch Writing to DynamoDB with Python: A Step-by-Step Guide](https://dev.to/dm8ry/efficient-batch-writing-to-dynamodb-with-python-a-step-by-step-guide-1hp8)
+- [Virtualization in Cloud Computing: the Past, the Present, and the Future](https://dev.to/carl_petey/virtualization-in-cloud-computing-the-past-the-present-and-the-future-9n1)
+- [JavaScriptmas 2024 - Week 4](https://dev.to/michaellarocca/javascriptmas-2024-week-4-mj5)
+- [My first docker app](https://dev.to/omar_almusa/my-first-docker-app-1n0g)
+- [How Thunder Compute attaches GPUs over TCP](https://dev.to/carl_petey/how-thunder-compute-works-gpu-over-tcp-24ip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
