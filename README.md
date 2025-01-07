@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TinyMCE: The Ultimate Rich Text Editor for Seamless Content Creation](https://dev.to/joodi/tinymce-the-ultimate-rich-text-editor-for-seamless-content-creation-2o4a)
-- [What Isn&#39;t A PaaS](https://dev.to/fermyon/what-isnt-a-paas-2gek)
-- [Reddit Comment Cleaner](https://dev.to/905timur/reddit-comment-cleaner-118p)
-- [Gen AI vs LLM: Understanding the Core Differences and Practical Insights](https://dev.to/emmanuel_adegor/gen-ai-vs-llm-understanding-the-core-differences-and-practical-insights-3j5)
-- [&quot;Unlocking Slow-Thinking Systems: The Future of Multimodal AI Reasoning&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-slow-thinking-systems-the-future-of-multimodal-ai-reasoning-1516)
+- [Steps to Add a New Column with Sequelize Migrations](https://dev.to/rinkaku_ebe4e8e9933e0c269/steps-to-add-a-new-column-with-sequelize-migrations-mn0)
+- [Kickstarting Your Cybersecurity Journey: A Beginner’s Guide](https://dev.to/ejiro-gojo/kickstarting-your-cybersecurity-journey-a-beginners-guide-495a)
+- [Building a Go Database Page Management System: A Deep Dive into Efficient Data Storage 🚀](https://dev.to/just_kojo/building-a-go-database-page-management-system-a-deep-dive-into-efficient-data-storage-3mfm)
+- [UX Writing Challenge: Day 1](https://dev.to/jds64/ux-writing-challenge-day-1-385i)
+- [Imagine a tool that adapts completely to you. We are building a modular collaborative platform that redefines teamwork.](https://dev.to/kendowcent/imagine-a-tool-that-adapts-completely-to-you-we-are-building-a-modular-collaborative-platform-that-4jan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
