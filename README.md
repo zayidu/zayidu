@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Mutating Admission Controllers to Ease Kubernetes Migrations](https://dev.to/getambassador2024/using-mutating-admission-controllers-to-ease-kubernetes-migrations-39pp)
-- [Simplifying State Management in React: An Introduction to F-Box React](https://dev.to/kentaromorishita/simplifying-react-state-management-an-introduction-to-f-box-react-2f0p)
-- [From Debian to Devuan](https://dev.to/evertontenorio/from-debian-to-devuan-2bn6)
-- [⭐5 Simple TailwindCSS Tips for Faster Web Development](https://dev.to/mrsupercraft/5-simple-tailwindcss-tips-for-faster-web-development-2p0b)
-- [Understand event loop in simple words!](https://dev.to/nozibul_islam_113b1d5334f/understand-event-loop-in-simple-words-184n)
+- [Bug of the week #2](https://dev.to/pikotutorial/bug-of-the-week-2-4fnb)
+- [Inference with Fine-Tuned Models: Delivering the Message](https://dev.to/es404020/inference-with-fine-tuned-models-delivering-the-message-3eg8)
+- [An example of Consumer-Driven Development](https://dev.to/samuelko123/consumer-driven-development-3k87)
+- [Introducing Myself and My Technical Adventures](https://dev.to/willyvaessen/introducing-myself-and-my-technical-adventures-31nd)
+- [How Titian Physiotherapy Transformed Their Operations with Arthurite Integrated’s AWS Solutions](https://dev.to/muhtoyyib/how-titian-physiotherapy-transformed-their-operations-with-arthurite-integrateds-aws-solutions-55ln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
