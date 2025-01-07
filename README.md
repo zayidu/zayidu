@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient Batch Writing to DynamoDB with Python: A Step-by-Step Guide](https://dev.to/dm8ry/efficient-batch-writing-to-dynamodb-with-python-a-step-by-step-guide-1hp8)
-- [Virtualization in Cloud Computing: the Past, the Present, and the Future](https://dev.to/carl_petey/virtualization-in-cloud-computing-the-past-the-present-and-the-future-9n1)
-- [JavaScriptmas 2024 - Week 4](https://dev.to/michaellarocca/javascriptmas-2024-week-4-mj5)
-- [My first docker app](https://dev.to/omar_almusa/my-first-docker-app-1n0g)
-- [How Thunder Compute attaches GPUs over TCP](https://dev.to/carl_petey/how-thunder-compute-works-gpu-over-tcp-24ip)
+- [Crear una Ruta en Next JS](https://dev.to/rogerdimonte/crear-una-ruta-en-next-js-dmd)
+- [Como Crear Un Proyecto Con Next JS](https://dev.to/rogerdimonte/como-crear-un-proyecto-con-next-js-2og2)
+- [React Server Components: The Evolution](https://dev.to/ivansing/react-server-components-the-evolution-1d6)
+- [Automating Release Note Content for Multiple Platforms with AI Agents in KaibanJS](https://dev.to/kaibanjs/automating-release-note-content-for-multiple-platforms-with-ai-agents-in-kaibanjs-24p7)
+- [The Perfect Delivery: Flying Drones Will Change All the Rules of Modern Delivery!](https://dev.to/pro-project-mngr/the-perfect-delivery-flying-drones-will-change-all-the-rules-of-modern-delivery-3em3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
