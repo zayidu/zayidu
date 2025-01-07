@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Workflow Automation Tools for Developers in 2025.](https://dev.to/balrajola/top-10-workflow-automation-tools-for-developers-in-2025-16pg)
-- [How Business Coaching and Mentoring Can Transform Your Growth Journey?](https://dev.to/ella_mills_0e40c1bf6f1d18/how-business-coaching-and-mentoring-can-transform-your-growth-journey-8mb)
-- [Virtual and Override Keyword in C#](https://dev.to/letsupdateskills/virtual-and-override-keyword-in-c-269k)
-- [The Choice of a Chemical Giant: How Wison Engineering Ignites a New Spark in Data Integration with DolphinScheduler](https://dev.to/chen_debra_3060b21d12b1b0/the-choice-of-a-chemical-giant-how-wison-engineering-ignites-a-new-spark-in-data-integration-with-1f0l)
-- [Metas 2025 ✨](https://dev.to/lincolixavier/metas-2025-mdb)
+- [Mongoose query](https://dev.to/anjali_gurjar_dff81513867/mongoose-query-5hga)
+- [Building a Contact Form Backend with FastAPI and Discord Integration](https://dev.to/highcenburg/building-a-contact-form-backend-with-fastapi-and-discord-integration-12c8)
+- [Rely.io Update Roundup - December 2024](https://dev.to/rely-io/relyio-update-roundup-december-2024-2mj2)
+- [Custom Website Development - A Complete Guide for Small Businesses](https://dev.to/moeenakram/custom-website-development-a-complete-guide-for-small-businesses-3gnd)
+- [AWS AI Conclave Online 2025!](https://dev.to/ravindraptech/aws-ai-conclave-online-2025-19hk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
