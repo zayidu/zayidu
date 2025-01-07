@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hipa.ai Blog Writer Technology Stack](https://dev.to/hipa-ai/hipaai-blog-writer-technology-stack-oo9)
-- [Document Object Model simplified.](https://dev.to/jovickcoder/document-object-model-simplified-nnc)
-- [Eight New Partner Deals Join DEV++! Early-bird pricing ends this month.](https://dev.to/devteam/eight-new-partner-deals-join-dev-early-bird-pricing-ends-this-month-2h42)
-- [ReasoningAgent Update - Beam Search, MCTS, and LATS for LLM Reasoning](https://dev.to/ag2ai/reasoningagent-update-beam-search-mcts-and-lats-for-llm-reasoning-3im1)
-- [Weekly Ruby Roundup: Highlights from Ruby #4](https://dev.to/jetthoughts/weekly-ruby-roundup-highlights-from-ruby-4-1435)
+- [Java OOP: Week 2 - The OOP Adventure Continues](https://dev.to/kendall_vargas/java-oop-week-2-the-oop-adventure-continues-aed)
+- [30days DevOps-challenge](https://dev.to/ijay/30days-devops-challenge-5b3f)
+- [Building and Deploying a New API &lpar;Part 1&rpar;](https://dev.to/m_dango/building-and-deploying-a-new-api-part-1-6ck)
+- [🐦 Currently on &quot;How to Make Money with Twitter&quot;](https://dev.to/abubakersiddique761/currently-on-how-to-make-money-with-twitter-2nld)
+- [Building a Scalable Monorepo with TurboRepo](https://dev.to/anurag112/building-a-scalable-monorepo-with-turborepo-1kco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
