@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mongoose query](https://dev.to/anjali_gurjar_dff81513867/mongoose-query-5hga)
-- [Building a Contact Form Backend with FastAPI and Discord Integration](https://dev.to/highcenburg/building-a-contact-form-backend-with-fastapi-and-discord-integration-12c8)
-- [Rely.io Update Roundup - December 2024](https://dev.to/rely-io/relyio-update-roundup-december-2024-2mj2)
-- [Custom Website Development - A Complete Guide for Small Businesses](https://dev.to/moeenakram/custom-website-development-a-complete-guide-for-small-businesses-3gnd)
-- [AWS AI Conclave Online 2025!](https://dev.to/ravindraptech/aws-ai-conclave-online-2025-19hk)
+- [Building Type-Safe APIs: Integrating NestJS with Prisma and TypeScript](https://dev.to/devjordan/building-type-safe-apis-integrating-nestjs-with-prisma-and-typescript-3dgk)
+- [gluestack-ui v2: Stable Release with NativeWind v4.1 Support 🚀](https://dev.to/gluestackio/gluestack-ui-v2-stable-release-with-nativewind-v41-support-435a)
+- [Migrating to Angular Standalone Components: A Step-by-Step Guide](https://dev.to/nicholajones075/migrating-to-angular-standalone-components-a-step-by-step-guide-5a1c)
+- [The Power of Animated GIF Generator Free: Elevating Visual Storytelling](https://dev.to/vergarakourtney/the-power-of-animated-gif-generator-free-elevating-visual-storytelling-3mkh)
+- [How I Earned the Certified Artificial Intelligence Scientist &lpar;CAIS&rpar; Credential](https://dev.to/myexamcloud/how-i-earned-the-certified-artificial-intelligence-scientist-cais-credential-2m7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
