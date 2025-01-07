@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Today&#39;s Top 20+ Github Repositories – Tiny Databases, Collaborative Engines, and More &lpar;Jan 7, 2025&rpar;](https://dev.to/gittech/todays-top-20-github-repositories-tiny-databases-collaborative-engines-and-more-jan-7-25ih)
-- [Waiting for async function before sending response](https://dev.to/steve_voltmer/waiting-for-async-function-before-sending-response-3aj2)
-- [How you used AI in 2024?](https://dev.to/sarthology/how-you-used-ai-in-2024-4mhd)
-- [AI AGENTS](https://dev.to/sreeni5018/ai-agents-gbj)
-- [Enhanced Microservices Support in .NET 9: New Features and Best Practices](https://dev.to/leandroveiga/enhanced-microservices-support-in-net-9-new-features-and-best-practices-1ci2)
+- [Hipa.ai Blog Writer Technology Stack](https://dev.to/hipa-ai/hipaai-blog-writer-technology-stack-oo9)
+- [Document Object Model simplified.](https://dev.to/jovickcoder/document-object-model-simplified-nnc)
+- [Eight New Partner Deals Join DEV++! Early-bird pricing ends this month.](https://dev.to/devteam/eight-new-partner-deals-join-dev-early-bird-pricing-ends-this-month-2h42)
+- [ReasoningAgent Update - Beam Search, MCTS, and LATS for LLM Reasoning](https://dev.to/ag2ai/reasoningagent-update-beam-search-mcts-and-lats-for-llm-reasoning-3im1)
+- [Weekly Ruby Roundup: Highlights from Ruby #4](https://dev.to/jetthoughts/weekly-ruby-roundup-highlights-from-ruby-4-1435)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
