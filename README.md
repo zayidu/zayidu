@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Despite all my efforts the file could not append with formData, can anyone tell me where the errors are occurring](https://dev.to/software_dev_145266f43154/despite-all-my-efforts-the-file-could-not-append-with-formdata-can-anyone-tell-me-where-the-errors-3g1g)
-- [Edge Computing: The Future of Scalable and Low-Latency Applications](https://dev.to/techwave/edge-computing-the-future-of-scalable-and-low-latency-applications-50ej)
-- [Ringing in 2025: Glimpsing the Future of Media Tech at NAB](https://dev.to/jason_jacob_dcfc2408b7557/ringing-in-2025-glimpsing-the-future-of-media-tech-at-nab-5cao)
-- [Day 5: C++ language | Arithmetic Operators](https://dev.to/mehfila_parkkulthil_23/day-5-c-language-arithmetic-operators-part-1-fgp)
-- [Build a CI/CD Pipeline Using AWS Glue, AWS CDK and GitHub](https://dev.to/aws-builders/build-a-cicd-pipeline-using-aws-glue-aws-cdk-and-github-4m0j)
+- [TS1035: Only ambient modules can use quoted names](https://dev.to/ahmad_tibibi/ts1035-only-ambient-modules-can-use-quoted-names-lpi)
+- [TS1034: &#39;super&#39; must be followed by an argument list or member access](https://dev.to/ahmad_tibibi/ts1034-super-must-be-followed-by-an-argument-list-or-member-access-495o)
+- [TS1029: &#39;{0}&#39; modifier must precede &#39;{1}&#39; modifier](https://dev.to/turingvangisms/ts1029-0-modifier-must-precede-1-modifier-40fi)
+- [TS1028: Accessibility modifier already seen](https://dev.to/turingvangisms/ts1028-accessibility-modifier-already-seen-2ij9)
+- [TS1025: An index signature cannot have a trailing comma](https://dev.to/turingvangisms/ts1025-an-index-signature-cannot-have-a-trailing-comma-e0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
