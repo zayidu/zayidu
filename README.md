@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bringing Together Containers &amp; SQL](https://dev.to/aryan_zingade/bringing-together-containers-sql-24k)
-- [The Journey of India&#39;s Atmanirbhar Defence Sector with the Make in India Initiative](https://dev.to/dev_kumar_9a1db98e34077b6/the-journey-of-indias-atmanirbhar-defence-sector-with-the-make-in-india-initiative-1f85)
-- [Weak Password Policies in Laravel: A Security Guide](https://dev.to/pentest_testing_corp/weak-password-policies-in-laravel-a-security-guide-36i8)
-- [🤖 Misconceptions About AI in Development: Unlock Its Full Potential!](https://dev.to/madhav_baby_giraffe/misconceptions-about-ai-in-development-unlock-its-full-potential-b4g)
-- [Computational Design: Architecture in the Digital Age](https://dev.to/material360/computational-design-architecture-in-the-digital-age-1mgh)
+- [Using Mutating Admission Controllers to Ease Kubernetes Migrations](https://dev.to/getambassador2024/using-mutating-admission-controllers-to-ease-kubernetes-migrations-39pp)
+- [Simplifying State Management in React: An Introduction to F-Box React](https://dev.to/kentaromorishita/simplifying-react-state-management-an-introduction-to-f-box-react-2f0p)
+- [From Debian to Devuan](https://dev.to/evertontenorio/from-debian-to-devuan-2bn6)
+- [⭐5 Simple TailwindCSS Tips for Faster Web Development](https://dev.to/mrsupercraft/5-simple-tailwindcss-tips-for-faster-web-development-2p0b)
+- [Understand event loop in simple words!](https://dev.to/nozibul_islam_113b1d5334f/understand-event-loop-in-simple-words-184n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
