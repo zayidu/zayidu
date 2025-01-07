@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I just used the git commit message of &quot;changed code&quot; 🙃](https://dev.to/ben/i-just-used-the-git-commit-message-of-changed-code-3n18)
-- [Building a Google Sheets–Like Table Component with TanStack Table, Zod, and ShadCN/UI](https://dev.to/jacksonkasi/building-a-google-sheets-like-table-component-with-tanstack-table-zod-and-shadcnui-1ped)
-- [Accessing the AuthAction Management API with Machine-to-Machine Application](https://dev.to/authaction/accessing-the-authaction-management-api-with-machine-to-machine-application-4kk1)
-- [Fuzz Testing: A Comprehensive Guide to Uncovering Hidden Vulnerabilities](https://dev.to/keploy/fuzz-testing-a-comprehensive-guide-to-uncovering-hidden-vulnerabilities-2dci)
-- [Overhyped Tech Buzzwords of 2025 — Are We Falling for the Same Trap?](https://dev.to/digitalminds/overhyped-tech-buzzwords-of-2025-are-we-falling-for-the-same-trap-2o0b)
+- [🚀 Today&#39;s Top 20+ Github Repositories – Tiny Databases, Collaborative Engines, and More &lpar;Jan 7, 2025&rpar;](https://dev.to/gittech/todays-top-20-github-repositories-tiny-databases-collaborative-engines-and-more-jan-7-25ih)
+- [Waiting for async function before sending response](https://dev.to/steve_voltmer/waiting-for-async-function-before-sending-response-3aj2)
+- [How you used AI in 2024?](https://dev.to/sarthology/how-you-used-ai-in-2024-4mhd)
+- [AI AGENTS](https://dev.to/sreeni5018/ai-agents-gbj)
+- [Enhanced Microservices Support in .NET 9: New Features and Best Practices](https://dev.to/leandroveiga/enhanced-microservices-support-in-net-9-new-features-and-best-practices-1ci2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
