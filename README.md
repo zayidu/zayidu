@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Tech Stacks for AI-Powered Applications in 2025](https://dev.to/elliot_brenya/the-best-tech-stacks-for-ai-powered-applications-in-2025-efe)
-- [How to Deploy a React Application Using AWS S3 and CloudFront](https://dev.to/itanand_/how-to-deploy-a-react-application-using-aws-s3-and-cloudfront-58kj)
-- [Improving Productivity with Automated Unit Testing](https://dev.to/misterankit/improving-productivity-with-automated-unit-testing-160n)
-- [How to Build and Deploy a Full-Stack MERN Application](https://dev.to/ayusharpcoder/how-to-build-and-deploy-a-full-stack-mern-application-4e9a)
-- [Building Scalable Microservices with Node.js and Event-Driven Architecture](https://dev.to/dhrumitdk/building-scalable-microservices-with-nodejs-and-event-driven-architecture-4ckc)
+- [Bringing Together Containers &amp; SQL](https://dev.to/aryan_zingade/bringing-together-containers-sql-24k)
+- [The Journey of India&#39;s Atmanirbhar Defence Sector with the Make in India Initiative](https://dev.to/dev_kumar_9a1db98e34077b6/the-journey-of-indias-atmanirbhar-defence-sector-with-the-make-in-india-initiative-1f85)
+- [Weak Password Policies in Laravel: A Security Guide](https://dev.to/pentest_testing_corp/weak-password-policies-in-laravel-a-security-guide-36i8)
+- [🤖 Misconceptions About AI in Development: Unlock Its Full Potential!](https://dev.to/madhav_baby_giraffe/misconceptions-about-ai-in-development-unlock-its-full-potential-b4g)
+- [Computational Design: Architecture in the Digital Age](https://dev.to/material360/computational-design-architecture-in-the-digital-age-1mgh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
