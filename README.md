@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Front-End is Becoming Obsolete](https://dev.to/elanatframework/front-end-is-becoming-obsolete-f85)
-- [The Building Blocks of Python: Variables, I/O, and Operators](https://dev.to/iftakher_hossen/the-building-blocks-of-python-variables-io-and-operators-2fli)
-- [Fundamentos das expressões lambda](https://dev.to/javaparainiciantes/fundamentos-das-expressoes-lambda-plp)
-- [Codewars - Build a pile of Cubes](https://dev.to/dantedinopegassi/codewars-build-a-pile-of-cubes-3ocn)
-- [Anonymous Feedback in Retros: When, Why, and How](https://dev.to/mattlewandowski93/anonymous-feedback-in-retros-when-why-and-how-170n)
+- [TinyMCE: The Ultimate Rich Text Editor for Seamless Content Creation](https://dev.to/joodi/tinymce-the-ultimate-rich-text-editor-for-seamless-content-creation-2o4a)
+- [What Isn&#39;t A PaaS](https://dev.to/fermyon/what-isnt-a-paas-2gek)
+- [Reddit Comment Cleaner](https://dev.to/905timur/reddit-comment-cleaner-118p)
+- [Gen AI vs LLM: Understanding the Core Differences and Practical Insights](https://dev.to/emmanuel_adegor/gen-ai-vs-llm-understanding-the-core-differences-and-practical-insights-3j5)
+- [&quot;Unlocking Slow-Thinking Systems: The Future of Multimodal AI Reasoning&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-slow-thinking-systems-the-future-of-multimodal-ai-reasoning-1516)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
