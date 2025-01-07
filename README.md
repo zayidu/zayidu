@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Steps to Add a New Column with Sequelize Migrations](https://dev.to/rinkaku_ebe4e8e9933e0c269/steps-to-add-a-new-column-with-sequelize-migrations-mn0)
-- [Kickstarting Your Cybersecurity Journey: A Beginner’s Guide](https://dev.to/ejiro-gojo/kickstarting-your-cybersecurity-journey-a-beginners-guide-495a)
-- [Building a Go Database Page Management System: A Deep Dive into Efficient Data Storage 🚀](https://dev.to/just_kojo/building-a-go-database-page-management-system-a-deep-dive-into-efficient-data-storage-3mfm)
-- [UX Writing Challenge: Day 1](https://dev.to/jds64/ux-writing-challenge-day-1-385i)
-- [Imagine a tool that adapts completely to you. We are building a modular collaborative platform that redefines teamwork.](https://dev.to/kendowcent/imagine-a-tool-that-adapts-completely-to-you-we-are-building-a-modular-collaborative-platform-that-4jan)
+- [Despite all my efforts the file could not append with formData, can anyone tell me where the errors are occurring](https://dev.to/software_dev_145266f43154/despite-all-my-efforts-the-file-could-not-append-with-formdata-can-anyone-tell-me-where-the-errors-3g1g)
+- [Edge Computing: The Future of Scalable and Low-Latency Applications](https://dev.to/techwave/edge-computing-the-future-of-scalable-and-low-latency-applications-50ej)
+- [Ringing in 2025: Glimpsing the Future of Media Tech at NAB](https://dev.to/jason_jacob_dcfc2408b7557/ringing-in-2025-glimpsing-the-future-of-media-tech-at-nab-5cao)
+- [Day 5: C++ language | Arithmetic Operators](https://dev.to/mehfila_parkkulthil_23/day-5-c-language-arithmetic-operators-part-1-fgp)
+- [Build a CI/CD Pipeline Using AWS Glue, AWS CDK and GitHub](https://dev.to/aws-builders/build-a-cicd-pipeline-using-aws-glue-aws-cdk-and-github-4m0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
