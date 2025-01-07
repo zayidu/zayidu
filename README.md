@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When GitHub Actions Build Fails Due to pnpm-lockfile](https://dev.to/flnzba/when-github-actions-build-fails-due-to-pnpm-lockfile-32lb)
-- [ChatGPT vs Copilot: Choosing the Right AI Assistant for Your Needs](https://dev.to/keploy/chatgpt-vs-copilot-choosing-the-right-ai-assistant-for-your-needs-367g)
-- [Beginner tutorial: Linux/Unix logins overview and a bit of clever tricks with &quot;history&quot;](https://dev.to/sjustesen/beginner-tutorial-linuxunix-logins-overview-and-a-bit-clever-tricks-with-history-3jkh)
-- [Deploy de NextJS utilizando CDK](https://dev.to/raphaamericano/deploy-de-nextjs-utilizando-cdk-10ob)
-- [Creating a Weather Dashboard with AWS S3 buckets and OpenWeather API](https://dev.to/mauricemakafui/creating-a-weather-dashboard-with-aws-s3-buckets-and-openweather-api-242e)
+- [How to Build a Real-Time Dashboard with Encore.ts and React](https://dev.to/encore/how-to-build-a-real-time-dashboard-with-encorets-and-react-ii9)
+- [LeetCode Challenge: 76. Minimum Window Substring - JavaScript Solution 🚀](https://dev.to/rahulgithubweb/leetcode-challenge-76-minimum-window-substring-javascript-solution-3id4)
+- [Nesse artigo, iremos desenvolver uma pipeline de dados bem simples em tempo real utilizando o Apache Flink em conjunto com a versão 3 da linguagem de programação Scala, fazendo o uso do Pub/Sub como message broker 🚀](https://dev.to/geazi_anc/nesse-artigo-iremos-desenvolver-uma-pipeline-de-dados-bem-simples-em-tempo-real-utilizando-o-457e)
+- [System.out.println&lpar;&rpar;](https://dev.to/sathish_balaji_2003/systemoutprintln-33o3)
+- [Applying Amazon GuardDuty S3 Malware Protection at Scale in Multi-Account Environments](https://dev.to/aws-builders/applying-amazon-guardduty-s3-malware-protection-at-scale-in-multi-account-environments-17f3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
