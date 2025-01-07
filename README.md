@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TS1035: Only ambient modules can use quoted names](https://dev.to/ahmad_tibibi/ts1035-only-ambient-modules-can-use-quoted-names-lpi)
-- [TS1034: &#39;super&#39; must be followed by an argument list or member access](https://dev.to/ahmad_tibibi/ts1034-super-must-be-followed-by-an-argument-list-or-member-access-495o)
-- [TS1029: &#39;{0}&#39; modifier must precede &#39;{1}&#39; modifier](https://dev.to/turingvangisms/ts1029-0-modifier-must-precede-1-modifier-40fi)
-- [TS1028: Accessibility modifier already seen](https://dev.to/turingvangisms/ts1028-accessibility-modifier-already-seen-2ij9)
-- [TS1025: An index signature cannot have a trailing comma](https://dev.to/turingvangisms/ts1025-an-index-signature-cannot-have-a-trailing-comma-e0d)
+- [The Best Tech Stacks for AI-Powered Applications in 2025](https://dev.to/elliot_brenya/the-best-tech-stacks-for-ai-powered-applications-in-2025-efe)
+- [How to Deploy a React Application Using AWS S3 and CloudFront](https://dev.to/itanand_/how-to-deploy-a-react-application-using-aws-s3-and-cloudfront-58kj)
+- [Improving Productivity with Automated Unit Testing](https://dev.to/misterankit/improving-productivity-with-automated-unit-testing-160n)
+- [How to Build and Deploy a Full-Stack MERN Application](https://dev.to/ayusharpcoder/how-to-build-and-deploy-a-full-stack-mern-application-4e9a)
+- [Building Scalable Microservices with Node.js and Event-Driven Architecture](https://dev.to/dhrumitdk/building-scalable-microservices-with-nodejs-and-event-driven-architecture-4ckc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
