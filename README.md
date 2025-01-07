@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Type-Safe APIs: Integrating NestJS with Prisma and TypeScript](https://dev.to/devjordan/building-type-safe-apis-integrating-nestjs-with-prisma-and-typescript-3dgk)
-- [gluestack-ui v2: Stable Release with NativeWind v4.1 Support 🚀](https://dev.to/gluestackio/gluestack-ui-v2-stable-release-with-nativewind-v41-support-435a)
-- [Migrating to Angular Standalone Components: A Step-by-Step Guide](https://dev.to/nicholajones075/migrating-to-angular-standalone-components-a-step-by-step-guide-5a1c)
-- [The Power of Animated GIF Generator Free: Elevating Visual Storytelling](https://dev.to/vergarakourtney/the-power-of-animated-gif-generator-free-elevating-visual-storytelling-3mkh)
-- [How I Earned the Certified Artificial Intelligence Scientist &lpar;CAIS&rpar; Credential](https://dev.to/myexamcloud/how-i-earned-the-certified-artificial-intelligence-scientist-cais-credential-2m7o)
+- [When GitHub Actions Build Fails Due to pnpm-lockfile](https://dev.to/flnzba/when-github-actions-build-fails-due-to-pnpm-lockfile-32lb)
+- [ChatGPT vs Copilot: Choosing the Right AI Assistant for Your Needs](https://dev.to/keploy/chatgpt-vs-copilot-choosing-the-right-ai-assistant-for-your-needs-367g)
+- [Beginner tutorial: Linux/Unix logins overview and a bit of clever tricks with &quot;history&quot;](https://dev.to/sjustesen/beginner-tutorial-linuxunix-logins-overview-and-a-bit-clever-tricks-with-history-3jkh)
+- [Deploy de NextJS utilizando CDK](https://dev.to/raphaamericano/deploy-de-nextjs-utilizando-cdk-10ob)
+- [Creating a Weather Dashboard with AWS S3 buckets and OpenWeather API](https://dev.to/mauricemakafui/creating-a-weather-dashboard-with-aws-s3-buckets-and-openweather-api-242e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
