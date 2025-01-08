@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Observability 2.0 - The Best Thing Since Sliced Bread](https://dev.to/metis/observability-20-the-best-thing-since-sliced-bread-1aih)
-- [Monorepo + microfrontend with module-federation+vite](https://dev.to/hxnain619/-362h)
-- [The Future of the Internet: When Will Web4 Arrive? 🌐](https://dev.to/cryptosandy/the-future-of-the-internet-when-will-web4-arrive-14k3)
-- [Exploring Records in C#.](https://dev.to/stevsharp/exploring-records-in-c-4g11)
-- [💡 Generative AI Developer Week 2 - Day 1: Machine Learning Basics](https://dev.to/saichinmayt/generative-ai-developer-week-2-day-1-machine-learning-basics-4490)
+- [Troubleshooting Common Issues with NativeWind &lpar;and Why You Should Try gluestack-ui&rpar;](https://dev.to/gluestackio/troubleshooting-common-issues-with-nativewind-and-why-you-should-try-gluestack-ui-3c1b)
+- [Dev Next a job platform built with Next.js, Tailwind CSS, Prisma, and NextAuth 💻](https://dev.to/saidmounaim/dev-next-a-job-platform-built-with-nextjs-tailwind-css-prisma-and-nextauth-1330)
+- [OUT NOW!!!](https://dev.to/lorebrada00/out-now-243l)
+- [Quantum Computing: Unleashing the Power of Qubits](https://dev.to/yujofficial/quantum-computing-unleashing-the-power-of-qubits-1i53)
+- [How to Configure VSCode for Auto Formatting and Linting in Python](https://dev.to/jajera/how-to-configure-vscode-for-auto-formatting-and-linting-in-python-37bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
