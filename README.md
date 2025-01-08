@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Make PDF to Images converter in html, css, and, java, bootstrap and jquery](https://dev.to/hanzla-baig/make-pdf-to-images-converter-in-html-csd-and-java-bootstrap-and-jquery-101f)
-- [How Plumbers Use Machine Learning to Improve Operational Efficiency on the Job](https://dev.to/luke_leech_e6bebf0dcc50d6/how-plumbers-use-machine-learning-to-improve-operational-efficiency-on-the-job-2bdg)
-- [Real-time Application Solution for RISC-V Core on Forlinx Embedded T113-i Development Board](https://dev.to/forlinx_jason/real-time-application-solution-for-risc-v-core-on-forlinx-embedded-t113-i-development-board-3341)
-- [Day 2: Mastering Arrays and Kadane’s Algorithm](https://dev.to/rohit96nair/day-2-mastering-arrays-and-kadanes-algorithm-2603)
-- [Streamlining Data Processing with AWS Lambda and Amazon S3](https://dev.to/tanvir4hmed/streamlining-data-processing-with-aws-lambda-and-amazon-s3-21ja)
+- [A Complete Guide to Database Services in Google Cloud Platform: Features, Capacity, and Popularity](https://dev.to/adityabhuyan/a-complete-guide-to-database-services-in-google-cloud-platform-features-capacity-and-popularity-3p4)
+- [Bioregenerative Aesthetics: Natural Skincare for Busy Moms by Dermatology Professionals including Cheyanne Mallas &lpar;PA&rpar;](https://dev.to/cheyannemallas_34/bioregenerative-aesthetics-natural-skincare-for-busy-moms-by-dermatology-professionals-including-4eep)
+- [React Server Components: Revolutionizing Modern Web Development](https://dev.to/rayan2228/react-server-components-revolutionizing-modern-web-development-4d3b)
+- [BENQI: Unlocking Staked AVAX for Decentralized Finance](https://dev.to/coinw/benqi-unlocking-staked-avax-for-decentralized-finance-1p53)
+- [A Step-by-Step Guide to Bioregenerative Skincare for New Moms by Skin Care Providers such as Cheyanne Mallas &lpar;PA&rpar;](https://dev.to/cheyannemallas_34/a-step-by-step-guide-to-bioregenerative-skincare-for-new-moms-by-skin-care-providers-such-as-683)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
