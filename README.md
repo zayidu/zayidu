@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshooting Common Issues with NativeWind &lpar;and Why You Should Try gluestack-ui&rpar;](https://dev.to/gluestackio/troubleshooting-common-issues-with-nativewind-and-why-you-should-try-gluestack-ui-3c1b)
-- [Dev Next a job platform built with Next.js, Tailwind CSS, Prisma, and NextAuth 💻](https://dev.to/saidmounaim/dev-next-a-job-platform-built-with-nextjs-tailwind-css-prisma-and-nextauth-1330)
-- [OUT NOW!!!](https://dev.to/lorebrada00/out-now-243l)
-- [Quantum Computing: Unleashing the Power of Qubits](https://dev.to/yujofficial/quantum-computing-unleashing-the-power-of-qubits-1i53)
-- [How to Configure VSCode for Auto Formatting and Linting in Python](https://dev.to/jajera/how-to-configure-vscode-for-auto-formatting-and-linting-in-python-37bc)
+- [Top API Management Tools for Enterprise 2025](https://dev.to/apilover/top-api-management-tools-for-enterprise-2025-5jo)
+- [Datacenter Proxies vs. Residential Proxies: What Does the Future Hold?](https://dev.to/julia_becker/datacenter-proxies-vs-residential-proxies-what-does-the-future-hold-44c2)
+- [QECO: A QoE-Oriented Computation Offloading Algorithm based on Deep Reinforcement Learning for Mobile Edge Computing](https://dev.to/semicolon_sammi_6008c7f01/qeco-a-qoe-oriented-computation-offloading-algorithm-based-on-deep-reinforcement-learning-for-1l8g)
+- [🚀 New Article Alert: Master sync.Pool in Golang! 🚀](https://dev.to/architagr/new-article-alert-master-syncpool-in-golang-23nn)
+- [Features of an Online Tarot Reading Website](https://dev.to/akash_sharma_f525e9d82d50/features-of-an-online-tarot-reading-website-2dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
