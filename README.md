@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Connect External Speakers to Your Xbox Console](https://dev.to/thetecheez/how-to-connect-external-speakers-to-your-xbox-console-4j7h)
-- [Exploring RWA Tokenization: A Beginner&#39;s Guide to Blockchain, Applications, and Industry Impact](https://dev.to/abijohn/exploring-rwa-tokenization-a-beginners-guide-to-blockchain-applications-and-industry-impact-3jia)
-- [How to create a Google Font Picker in Angular 18](https://dev.to/marco_maxim_e509de60b846d/how-to-create-a-google-font-picker-in-angular-18-2i8b)
-- [causes of nearsightedness](https://dev.to/mohmd_dossary/causes-of-nearsightedness-1dbj)
-- [Introduction to Filters](https://dev.to/helencandice/introduction-to-filters-46k7)
+- [Observability 2.0 - The Best Thing Since Sliced Bread](https://dev.to/metis/observability-20-the-best-thing-since-sliced-bread-1aih)
+- [Monorepo + microfrontend with module-federation+vite](https://dev.to/hxnain619/-362h)
+- [The Future of the Internet: When Will Web4 Arrive? 🌐](https://dev.to/cryptosandy/the-future-of-the-internet-when-will-web4-arrive-14k3)
+- [Exploring Records in C#.](https://dev.to/stevsharp/exploring-records-in-c-4g11)
+- [💡 Generative AI Developer Week 2 - Day 1: Machine Learning Basics](https://dev.to/saichinmayt/generative-ai-developer-week-2-day-1-machine-learning-basics-4490)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
