@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Money with YouTube Using Internet Archive: Unlock the Hidden Goldmine](https://dev.to/abubakersiddique761/make-money-with-youtube-using-internet-archive-unlock-the-hidden-goldmine-2944)
-- [Making Money on Reddit: Your Step-by-Step Guide to Turning Time into Dollars](https://dev.to/abubakersiddique761/making-money-on-reddit-your-step-by-step-guide-to-turning-time-into-dollars-1ebo)
-- [🚀 Beyond Serverless Basics: Cloudflare Workers, Deno Deploy &amp; WASM Solutions](https://dev.to/digitalminds/beyond-serverless-basics-cloudflare-workers-deno-deploy-wasm-solutions-3k3e)
-- [The Ultimate Guide to AI, ML, DL, and Data Science: Understanding the Differences](https://dev.to/rishabh_raj_2b61a1c41b371/the-ultimate-guide-to-ai-ml-dl-and-data-science-understanding-the-differences-497n)
-- [FastCloner – deep cloning done right](https://dev.to/lofcz/fastcloner-deep-cloning-done-right-4ihf)
+- [First thoughts on Electron](https://dev.to/sarkispeha/first-thoughts-on-electron-2c6p)
+- [SP_HELPTEXT](https://dev.to/mirajhad/sphelptext-3773)
+- [The Role of Azure AI in Business: Transforming Enterprises with Intelligent Solutions in 2025](https://dev.to/skillboosttrainer/the-role-of-azure-ai-in-business-transforming-enterprises-with-intelligent-solutions-in-2025-4d4n)
+- [[Boost]](https://dev.to/litonarefin/-2i27)
+- [3042. Count Prefix and Suffix Pairs I](https://dev.to/mdarifulhaque/3042-count-prefix-and-suffix-pairs-i-1e4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
