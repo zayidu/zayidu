@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top API Management Tools for Enterprise 2025](https://dev.to/apilover/top-api-management-tools-for-enterprise-2025-5jo)
-- [Datacenter Proxies vs. Residential Proxies: What Does the Future Hold?](https://dev.to/julia_becker/datacenter-proxies-vs-residential-proxies-what-does-the-future-hold-44c2)
-- [QECO: A QoE-Oriented Computation Offloading Algorithm based on Deep Reinforcement Learning for Mobile Edge Computing](https://dev.to/semicolon_sammi_6008c7f01/qeco-a-qoe-oriented-computation-offloading-algorithm-based-on-deep-reinforcement-learning-for-1l8g)
-- [🚀 New Article Alert: Master sync.Pool in Golang! 🚀](https://dev.to/architagr/new-article-alert-master-syncpool-in-golang-23nn)
-- [Features of an Online Tarot Reading Website](https://dev.to/akash_sharma_f525e9d82d50/features-of-an-online-tarot-reading-website-2dp)
+- [Como fazer procv](https://dev.to/brayanmonteiroo/como-fazer-procv-510p)
+- [MVVM on React: Why it might be the best solution for you?](https://dev.to/lucasbrogni1/mvvm-on-react-why-it-might-be-the-best-solution-for-you-3j5f)
+- [Building a Scalable Web Server on AWS: A Hands-On Guide to Linux, Apache, and SSL Configuration](https://dev.to/josephibehdev/building-a-scalable-web-server-on-aws-a-hands-on-guide-to-linux-apache-and-ssl-configuration-3cmh)
+- [Frontend Developer Roadmap 2025: The Complete Guide](https://dev.to/kafeel_ahmad/frontend-developer-roadmap-2025-the-complete-guide-53dg)
+- [JavaScript Data Types](https://dev.to/asror_0306/javascript-data-types-n33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
