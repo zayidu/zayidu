@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#127 — Concatenate Data Within Groups into Text](https://dev.to/judith677/127-concatenate-data-within-groups-into-text-27ch)
-- [⚡30+ Frameworks and Libraries Every Frontend Developer Should Explore in 2025](https://dev.to/moibra/30-frameworks-and-libraries-every-frontend-developer-should-explore-in-2025-2ij2)
-- [CocoDetection in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/cocodetection-in-pytorch-3-4j9a)
-- [DorkHub Update: New Dork Categories Now Available!](https://dev.to/trixsec/dorkhub-update-new-dork-categories-now-available-4a4o)
-- [My startup, OnPageSEO.ai an SEO chrome extension](https://dev.to/richyorozco/my-startup-onpageseoai-an-seo-chrome-extension-1j7k)
+- [Membuat prototype mudah dengan simple-prototype](https://dev.to/salmantok/membuat-prototype-mudah-dengan-simple-prototype-50k9)
+- [Why I started writing a blog](https://dev.to/cng_khanhtrnduy_84974/why-i-started-writing-a-blog-34b0)
+- [Deploying a Sample HTML Application to AWS EC2 with CodePipeline, CodeDeploy, and GitHub](https://dev.to/sandesh-d-manocharya/deploying-a-sample-html-application-to-aws-ec2-with-codepipeline-codedeploy-and-github-5fic)
+- [Top 5 Free Currency Converter APIs for Developers in 2025](https://dev.to/rameshchauhan/top-5-free-currency-converter-apis-for-developers-in-2025-2cdo)
+- [App-Token based easy OAuth2 implementation built to grow with Spring Boot](https://dev.to/andrewkangg/app-token-based-easy-oauth2-implementation-built-to-grow-with-spring-boot-16mc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
