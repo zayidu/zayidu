@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [First thoughts on Electron](https://dev.to/sarkispeha/first-thoughts-on-electron-2c6p)
-- [SP_HELPTEXT](https://dev.to/mirajhad/sphelptext-3773)
-- [The Role of Azure AI in Business: Transforming Enterprises with Intelligent Solutions in 2025](https://dev.to/skillboosttrainer/the-role-of-azure-ai-in-business-transforming-enterprises-with-intelligent-solutions-in-2025-4d4n)
-- [[Boost]](https://dev.to/litonarefin/-2i27)
-- [3042. Count Prefix and Suffix Pairs I](https://dev.to/mdarifulhaque/3042-count-prefix-and-suffix-pairs-i-1e4d)
+- [From Specific to Reusable: Transforming UI Components with Bit](https://dev.to/msm8/from-specific-to-reusable-transforming-ui-components-with-bit-5126)
+- [HTTP Cookies 🍪](https://dev.to/lovestaco/http-cookies-2g13)
+- [Identities Do Not Exist in a Vacuum: A View on Understanding Non-Human Identities Governance](https://dev.to/gitguardian/identities-do-not-exist-in-a-vacuum-a-view-on-understanding-non-human-identities-governance-18p3)
+- [Comunicando JAVA com o GeminiAI](https://dev.to/wandpsilva/comunicando-com-o-geminiai-via-java-4470)
+- [CocoCaptions in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/cococaptions-in-pytorch-1-2gah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
