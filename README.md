@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TS is bad at hover text](https://dev.to/thejaredwilcurt/ts-is-bad-at-hover-text-3n0j)
-- [POS sale Interface - POS application agnostic](https://dev.to/rk_srk_5de0760b0858bc67bf/pos-sale-interface-pos-application-agnostic-42h7)
-- [Beyond Buttons: The Complex Reality of Frontend Engineering](https://dev.to/dhrumitdk/beyond-buttons-the-complex-reality-of-frontend-engineering-2cf7)
-- [Introduction to Sunrise v2 Campaign](https://dev.to/sunriselayer_dev/introduction-to-sunrise-v2-campaign-d19)
-- [8 Modern Developer Tools That Will 10X Your Productivity 🚀🔥](https://dev.to/itanand_/8-modern-developer-tools-that-will-10x-your-productivity-2ki6)
+- [#127 — Concatenate Data Within Groups into Text](https://dev.to/judith677/127-concatenate-data-within-groups-into-text-27ch)
+- [⚡30+ Frameworks and Libraries Every Frontend Developer Should Explore in 2025](https://dev.to/moibra/30-frameworks-and-libraries-every-frontend-developer-should-explore-in-2025-2ij2)
+- [CocoDetection in PyTorch &lpar;3&rpar;](https://dev.to/hyperkai/cocodetection-in-pytorch-3-4j9a)
+- [DorkHub Update: New Dork Categories Now Available!](https://dev.to/trixsec/dorkhub-update-new-dork-categories-now-available-4a4o)
+- [My startup, OnPageSEO.ai an SEO chrome extension](https://dev.to/richyorozco/my-startup-onpageseoai-an-seo-chrome-extension-1j7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
