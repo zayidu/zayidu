@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Architecture: Monorepos, Micro-frontends, and Vite](https://dev.to/hxnain619/web-architecture-monorepos-micro-frontends-and-vite-3606)
-- [[BR] Arquiteturas híbridas - entrelaçando monólitos, microsserviços e serviços distribuídos](https://dev.to/scarlet/br-arquiteturas-hibridas-entrelacando-monolitos-microsservicos-e-servicos-distribuidos-3mk8)
-- [Is there anything left for me?](https://dev.to/student564/is-there-anything-left-for-me-3id1)
-- [The Magic of JavaScript Closures: A Clear and Easy Guide](https://dev.to/baraq/the-magic-of-javascript-closures-a-clear-and-easy-guide-5f00)
-- [The Birthday Paradox: A Statistical Breakdown and How it Relates to Online Security](https://dev.to/connoranastasio/the-birthday-paradox-a-statistical-breakdown-and-how-it-relates-to-online-security-52ac)
+- [No-code Solutions for Turning Search Results Into Markdown for LLMs](https://dev.to/nate_serpapi/no-code-solutions-for-turning-search-results-into-markdown-for-llms-2d01)
+- [No-code Solutions for Turning Search Results Into Markdown for LLMs](https://dev.to/nate_serpapi/no-code-solutions-for-turning-search-results-into-markdown-for-llms-4jmb)
+- [Connexion Agenda Externe dans Nemitis](https://dev.to/flo-nemitis/connexion-agenda-externe-dans-nemitis-1n3k)
+- [Build a React login page template](https://dev.to/clerk/build-a-react-login-page-template-3dkg)
+- [Your journey to MAANG: Understanding Arrays](https://dev.to/daviidy/your-journey-to-maang-understanding-arrays-519m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
