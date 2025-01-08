@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Primeros pasos con AWS PartyRock](https://dev.to/aws-espanol/primeros-pasos-con-aws-partyrock-1fma)
-- [Using CSS variables to create dynamic themes in Puck](https://dev.to/puckeditor/using-css-variables-to-create-dynamic-themes-in-puck-26lm)
-- [Harnessing Machine Learning and Generative AI to Combat HMPV](https://dev.to/stephan_hawke_fd9cbb38db7/harnessing-machine-learning-and-generative-ai-to-combat-hmpv-3fjl)
-- [Retro’ing and Debugging 2024 - A year of learning and fun](https://dev.to/vignesh_j/retroing-and-debugging-2024-a-year-of-learning-and-fun-4nlg)
-- [React/Next Folder Generator with JS/TS: Simplify Your Project Setup with react-cli-builder](https://dev.to/beki78/reactnext-folder-generator-with-jsts-simplify-your-project-setup-with-react-cli-builder-4436)
+- [Lattice Cryptography: A Post-Quantum Solution](https://dev.to/bytehide/lattice-cryptography-a-post-quantum-solution-49c4)
+- [How to Use Three.js for Interactive 3D Web Experiences](https://dev.to/smok/how-to-use-threejs-for-interactive-3d-web-experiences-4ame)
+- [Why Your Kubernetes Workflow Is Broken &lpar;And How to Fix It with Northflank&rpar;](https://dev.to/coderoflagos/why-your-kubernetes-workflow-is-broken-and-how-to-fix-it-with-northflank-1p6e)
+- [School Chatbot: Revolutionizing Communication with AI](https://dev.to/aaronshenny/school-chatbot-revolutionizing-communication-with-ai-1ea1)
+- [ChatGPT Prompts That Will Change Your Life in 2025](https://dev.to/proflead/chatgpt-prompts-that-will-change-your-life-in-2025-2454)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
