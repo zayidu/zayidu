@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQl Query](https://dev.to/anjali_gurjar_dff81513867/sql-query-2jp3)
-- [Architecting a Scalable and Fault-Tolerant WordPress Application](https://dev.to/ozanguner/architecting-a-scalable-and-fault-tolerant-wordpress-application-adp)
-- [JavaScript scroll snap events for scroll-triggered animations](https://dev.to/logrocket/javascript-scroll-snap-events-for-scroll-triggered-animations-55b2)
-- [16 Free Resources You Should Know for Design Inspiration](https://dev.to/devshefali/16-free-resources-you-should-know-for-design-inspiration-5cl4)
-- [Code vs. No-Code: Building the Future, Brick by Brick or Drag-and-Drop?](https://dev.to/alfcreatives/code-vs-no-code-building-the-future-brick-by-brick-or-drag-and-drop-256j)
+- [Introducing BlockBuster: is my asyncio event loop blocked?](https://dev.to/cbornet/introducing-blockbuster-is-my-asyncio-event-loop-blocked-3487)
+- [Part 1: Bangkok](https://dev.to/nicolastilkin/part-1-bangkok-13d6)
+- [5 Key Skills Every Aspiring Technical Writer Needs in 2025](https://dev.to/opman129/5-key-skills-every-aspiring-technical-writer-needs-in-2025-2jh6)
+- [How can I reverse my Jio wrong recharge?](https://dev.to/gxxkoy_ddc3974b24cb9bcbdb/how-can-i-reverse-my-jio-wrong-recharge-150a)
+- [Event Recap: OWASP Atlanta Meetup – The State of Secure Code + Tournament](https://dev.to/blkgrlcto/event-recap-owasp-atlanta-meetup-the-state-of-secure-code-tournament-5ap7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
