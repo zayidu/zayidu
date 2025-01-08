@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Membuat prototype mudah dengan simple-prototype](https://dev.to/salmantok/membuat-prototype-mudah-dengan-simple-prototype-50k9)
-- [Why I started writing a blog](https://dev.to/cng_khanhtrnduy_84974/why-i-started-writing-a-blog-34b0)
-- [Deploying a Sample HTML Application to AWS EC2 with CodePipeline, CodeDeploy, and GitHub](https://dev.to/sandesh-d-manocharya/deploying-a-sample-html-application-to-aws-ec2-with-codepipeline-codedeploy-and-github-5fic)
-- [Top 5 Free Currency Converter APIs for Developers in 2025](https://dev.to/rameshchauhan/top-5-free-currency-converter-apis-for-developers-in-2025-2cdo)
-- [App-Token based easy OAuth2 implementation built to grow with Spring Boot](https://dev.to/andrewkangg/app-token-based-easy-oauth2-implementation-built-to-grow-with-spring-boot-16mc)
+- [How to Connect External Speakers to Your Xbox Console](https://dev.to/thetecheez/how-to-connect-external-speakers-to-your-xbox-console-4j7h)
+- [Exploring RWA Tokenization: A Beginner&#39;s Guide to Blockchain, Applications, and Industry Impact](https://dev.to/abijohn/exploring-rwa-tokenization-a-beginners-guide-to-blockchain-applications-and-industry-impact-3jia)
+- [How to create a Google Font Picker in Angular 18](https://dev.to/marco_maxim_e509de60b846d/how-to-create-a-google-font-picker-in-angular-18-2i8b)
+- [causes of nearsightedness](https://dev.to/mohmd_dossary/causes-of-nearsightedness-1dbj)
+- [Introduction to Filters](https://dev.to/helencandice/introduction-to-filters-46k7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
