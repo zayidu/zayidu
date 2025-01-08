@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Add Onvite to Rails 8 Authentication](https://dev.to/railsdesigner/add-onvite-to-rails-8-authentication-5671)
-- [🤔Retro’ing and Debugging 2024: a year of data, books, APIs, BOTs &amp; AI](https://dev.to/adriens/retroing-and-debugging-2024-a-year-of-data-books-apis-bots-ai-4436)
-- [Dealing with internet addiction](https://dev.to/dantedinopegassi/dealing-with-internet-addiction-3l38)
-- [Serializing an enum in a Spring Boot web application](https://dev.to/mirkoperillo/serializing-an-enum-in-a-spring-boot-web-application-58d9)
-- [How to 100% CPU](https://dev.to/treehouse/how-to-100-cpu-1h60)
+- [Web Architecture: Monorepos, Micro-frontends, and Vite](https://dev.to/hxnain619/web-architecture-monorepos-micro-frontends-and-vite-3606)
+- [[BR] Arquiteturas híbridas - entrelaçando monólitos, microsserviços e serviços distribuídos](https://dev.to/scarlet/br-arquiteturas-hibridas-entrelacando-monolitos-microsservicos-e-servicos-distribuidos-3mk8)
+- [Is there anything left for me?](https://dev.to/student564/is-there-anything-left-for-me-3id1)
+- [The Magic of JavaScript Closures: A Clear and Easy Guide](https://dev.to/baraq/the-magic-of-javascript-closures-a-clear-and-easy-guide-5f00)
+- [The Birthday Paradox: A Statistical Breakdown and How it Relates to Online Security](https://dev.to/connoranastasio/the-birthday-paradox-a-statistical-breakdown-and-how-it-relates-to-online-security-52ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
