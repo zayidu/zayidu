@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como fazer procv](https://dev.to/brayanmonteiroo/como-fazer-procv-510p)
-- [MVVM on React: Why it might be the best solution for you?](https://dev.to/lucasbrogni1/mvvm-on-react-why-it-might-be-the-best-solution-for-you-3j5f)
-- [Building a Scalable Web Server on AWS: A Hands-On Guide to Linux, Apache, and SSL Configuration](https://dev.to/josephibehdev/building-a-scalable-web-server-on-aws-a-hands-on-guide-to-linux-apache-and-ssl-configuration-3cmh)
-- [Frontend Developer Roadmap 2025: The Complete Guide](https://dev.to/kafeel_ahmad/frontend-developer-roadmap-2025-the-complete-guide-53dg)
-- [JavaScript Data Types](https://dev.to/asror_0306/javascript-data-types-n33)
+- [How to Choose the Best Web Design and VFX Institute in Kolkata](https://dev.to/arena_animation/how-to-choose-the-best-web-design-and-vfx-institute-in-kolkata-2a6d)
+- [Windows Server Üzerinde ASP.NET Web Application &lpar;.NET Framework&rpar; 4.8 Projesinin Oluşturulması ve ISS Yapılandırması](https://dev.to/kadirerbas/windows-server-uzerinde-aspnet-web-application-net-framework-48-projesinin-olusturulmasi-ve-7dk)
+- [Effective Git Branch Merging for Teams 🚀](https://dev.to/theodor_coin_4/effective-git-branch-merging-for-teams-2mhe)
+- [Best Snapseed QR Codes for 2025: How to Create and Apply Presets](https://dev.to/techyboo009/best-snapseed-qr-codes-for-2025-how-to-create-and-apply-presets-59nc)
+- [Display Technology](https://dev.to/madgan95/display-technology-51bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
