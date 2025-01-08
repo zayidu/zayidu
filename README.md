@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Guide to Database Services in Google Cloud Platform: Features, Capacity, and Popularity](https://dev.to/adityabhuyan/a-complete-guide-to-database-services-in-google-cloud-platform-features-capacity-and-popularity-3p4)
-- [Bioregenerative Aesthetics: Natural Skincare for Busy Moms by Dermatology Professionals including Cheyanne Mallas &lpar;PA&rpar;](https://dev.to/cheyannemallas_34/bioregenerative-aesthetics-natural-skincare-for-busy-moms-by-dermatology-professionals-including-4eep)
-- [React Server Components: Revolutionizing Modern Web Development](https://dev.to/rayan2228/react-server-components-revolutionizing-modern-web-development-4d3b)
-- [BENQI: Unlocking Staked AVAX for Decentralized Finance](https://dev.to/coinw/benqi-unlocking-staked-avax-for-decentralized-finance-1p53)
-- [A Step-by-Step Guide to Bioregenerative Skincare for New Moms by Skin Care Providers such as Cheyanne Mallas &lpar;PA&rpar;](https://dev.to/cheyannemallas_34/a-step-by-step-guide-to-bioregenerative-skincare-for-new-moms-by-skin-care-providers-such-as-683)
+- [TS is bad at hover text](https://dev.to/thejaredwilcurt/ts-is-bad-at-hover-text-3n0j)
+- [POS sale Interface - POS application agnostic](https://dev.to/rk_srk_5de0760b0858bc67bf/pos-sale-interface-pos-application-agnostic-42h7)
+- [Beyond Buttons: The Complex Reality of Frontend Engineering](https://dev.to/dhrumitdk/beyond-buttons-the-complex-reality-of-frontend-engineering-2cf7)
+- [Introduction to Sunrise v2 Campaign](https://dev.to/sunriselayer_dev/introduction-to-sunrise-v2-campaign-d19)
+- [8 Modern Developer Tools That Will 10X Your Productivity 🚀🔥](https://dev.to/itanand_/8-modern-developer-tools-that-will-10x-your-productivity-2ki6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
