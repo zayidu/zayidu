@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Specific to Reusable: Transforming UI Components with Bit](https://dev.to/msm8/from-specific-to-reusable-transforming-ui-components-with-bit-5126)
-- [HTTP Cookies 🍪](https://dev.to/lovestaco/http-cookies-2g13)
-- [Identities Do Not Exist in a Vacuum: A View on Understanding Non-Human Identities Governance](https://dev.to/gitguardian/identities-do-not-exist-in-a-vacuum-a-view-on-understanding-non-human-identities-governance-18p3)
-- [Comunicando JAVA com o GeminiAI](https://dev.to/wandpsilva/comunicando-com-o-geminiai-via-java-4470)
-- [CocoCaptions in PyTorch &lpar;1&rpar;](https://dev.to/hyperkai/cococaptions-in-pytorch-1-2gah)
+- [Add Onvite to Rails 8 Authentication](https://dev.to/railsdesigner/add-onvite-to-rails-8-authentication-5671)
+- [🤔Retro’ing and Debugging 2024: a year of data, books, APIs, BOTs &amp; AI](https://dev.to/adriens/retroing-and-debugging-2024-a-year-of-data-books-apis-bots-ai-4436)
+- [Dealing with internet addiction](https://dev.to/dantedinopegassi/dealing-with-internet-addiction-3l38)
+- [Serializing an enum in a Spring Boot web application](https://dev.to/mirkoperillo/serializing-an-enum-in-a-spring-boot-web-application-58d9)
+- [How to 100% CPU](https://dev.to/treehouse/how-to-100-cpu-1h60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
