@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lattice Cryptography: A Post-Quantum Solution](https://dev.to/bytehide/lattice-cryptography-a-post-quantum-solution-49c4)
-- [How to Use Three.js for Interactive 3D Web Experiences](https://dev.to/smok/how-to-use-threejs-for-interactive-3d-web-experiences-4ame)
-- [Why Your Kubernetes Workflow Is Broken &lpar;And How to Fix It with Northflank&rpar;](https://dev.to/coderoflagos/why-your-kubernetes-workflow-is-broken-and-how-to-fix-it-with-northflank-1p6e)
-- [School Chatbot: Revolutionizing Communication with AI](https://dev.to/aaronshenny/school-chatbot-revolutionizing-communication-with-ai-1ea1)
-- [ChatGPT Prompts That Will Change Your Life in 2025](https://dev.to/proflead/chatgpt-prompts-that-will-change-your-life-in-2025-2454)
+- [SQl Query](https://dev.to/anjali_gurjar_dff81513867/sql-query-2jp3)
+- [Architecting a Scalable and Fault-Tolerant WordPress Application](https://dev.to/ozanguner/architecting-a-scalable-and-fault-tolerant-wordpress-application-adp)
+- [JavaScript scroll snap events for scroll-triggered animations](https://dev.to/logrocket/javascript-scroll-snap-events-for-scroll-triggered-animations-55b2)
+- [16 Free Resources You Should Know for Design Inspiration](https://dev.to/devshefali/16-free-resources-you-should-know-for-design-inspiration-5cl4)
+- [Code vs. No-Code: Building the Future, Brick by Brick or Drag-and-Drop?](https://dev.to/alfcreatives/code-vs-no-code-building-the-future-brick-by-brick-or-drag-and-drop-256j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
