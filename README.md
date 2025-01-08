@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Crear una Ruta en Next JS](https://dev.to/rogerdimonte/crear-una-ruta-en-next-js-dmd)
-- [Como Crear Un Proyecto Con Next JS](https://dev.to/rogerdimonte/como-crear-un-proyecto-con-next-js-2og2)
-- [React Server Components: The Evolution](https://dev.to/ivansing/react-server-components-the-evolution-1d6)
-- [Automating Release Note Content for Multiple Platforms with AI Agents in KaibanJS](https://dev.to/kaibanjs/automating-release-note-content-for-multiple-platforms-with-ai-agents-in-kaibanjs-24p7)
-- [The Perfect Delivery: Flying Drones Will Change All the Rules of Modern Delivery!](https://dev.to/pro-project-mngr/the-perfect-delivery-flying-drones-will-change-all-the-rules-of-modern-delivery-3em3)
+- [Power Platform Connect to Git](https://dev.to/zerox2cool/power-platform-connect-to-git-279b)
+- [Que es Deepseek?](https://dev.to/sysmaya/que-es-deepseek-5f4i)
+- [Deepseek V3 vs ChatGPT](https://dev.to/sysmaya/deepseek-v3-vs-chatgpt-25bb)
+- [checa como se hace una conexión entre nextjs y la autenticación de supabase](https://dev.to/bearpoint/checa-como-se-hace-una-conexion-entre-nextjs-y-la-autenticacion-de-supabase-4em8)
+- [We released AdminForth Components Library](https://dev.to/ivictbor/we-released-adminforth-components-library-3k90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
