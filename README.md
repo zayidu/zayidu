@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing BlockBuster: is my asyncio event loop blocked?](https://dev.to/cbornet/introducing-blockbuster-is-my-asyncio-event-loop-blocked-3487)
-- [Part 1: Bangkok](https://dev.to/nicolastilkin/part-1-bangkok-13d6)
-- [5 Key Skills Every Aspiring Technical Writer Needs in 2025](https://dev.to/opman129/5-key-skills-every-aspiring-technical-writer-needs-in-2025-2jh6)
-- [How can I reverse my Jio wrong recharge?](https://dev.to/gxxkoy_ddc3974b24cb9bcbdb/how-can-i-reverse-my-jio-wrong-recharge-150a)
-- [Event Recap: OWASP Atlanta Meetup – The State of Secure Code + Tournament](https://dev.to/blkgrlcto/event-recap-owasp-atlanta-meetup-the-state-of-secure-code-tournament-5ap7)
+- [Make Money with YouTube Using Internet Archive: Unlock the Hidden Goldmine](https://dev.to/abubakersiddique761/make-money-with-youtube-using-internet-archive-unlock-the-hidden-goldmine-2944)
+- [Making Money on Reddit: Your Step-by-Step Guide to Turning Time into Dollars](https://dev.to/abubakersiddique761/making-money-on-reddit-your-step-by-step-guide-to-turning-time-into-dollars-1ebo)
+- [🚀 Beyond Serverless Basics: Cloudflare Workers, Deno Deploy &amp; WASM Solutions](https://dev.to/digitalminds/beyond-serverless-basics-cloudflare-workers-deno-deploy-wasm-solutions-3k3e)
+- [The Ultimate Guide to AI, ML, DL, and Data Science: Understanding the Differences](https://dev.to/rishabh_raj_2b61a1c41b371/the-ultimate-guide-to-ai-ml-dl-and-data-science-understanding-the-differences-497n)
+- [FastCloner – deep cloning done right](https://dev.to/lofcz/fastcloner-deep-cloning-done-right-4ihf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
