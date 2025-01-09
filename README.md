@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Best Practices for Multi-Cluster Kubernetes Add-on Management](https://dev.to/simone_morellato/5-best-practices-for-multi-cluster-kubernetes-add-on-management-57p6)
-- [Streamlit Part 10: Page Navigation Simplified](https://dev.to/jamesbmour/streamlit-part-10-page-navigation-simplified-55k6)
-- [ERC-4337 in 2024 Review, OpenZK’s L2 Launch, Arcana’s Chain Abstraction SDK, and Rethinking Blockchain Modularity in 2025](https://dev.to/alexandradev/erc-4337-in-2024-review-openzks-l2-launch-arcanas-chain-abstraction-sdk-and-rethinking-16lk)
-- [Forward logs to Cloudwatch for an EC2 instance running a custom Linux AMI](https://dev.to/anoppe/forward-logs-to-cloudwatch-for-an-ec2-instance-running-a-custom-linux-ami-1ak7)
-- [Digesto: A Lightning-Fast Way to Build Backends with YAML](https://dev.to/nicolasleal570/digesto-a-lightning-fast-way-to-build-backends-with-yaml-3bob)
+- [The Mortal Enemy of Done is Perfect](https://dev.to/linkbenjamin/the-mortal-enemy-of-done-is-perfect-5dp9)
+- [Can not find module error](https://dev.to/mutaboba_elois_18060c2088/can-not-find-module-error-3nkk)
+- [.NET versiyalari haqida](https://dev.to/munisa_kuranbekova_078e1e/net-versiyalari-haqida-43ae)
+- [88/365 | ¥10M Job Challenge - Eat well and get enough sleep](https://dev.to/kameken100/88365-y10m-job-challenge-eat-well-and-get-enough-sleep-5fkc)
+- [[Boost]](https://dev.to/salembinsawad/-340b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
