@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix Insufficient Logging &amp; Monitoring in Laravel Easily](https://dev.to/pentest_testing_corp/fix-insufficient-logging-monitoring-in-laravel-easily-3lcl)
-- [How to Perform Perfect Margin Carving in 3D CAD Software](https://dev.to/julia970/how-to-perform-perfect-margin-carving-in-3d-cad-software-429j)
-- [How to Dynamically Apply Colors to SVGs in React Native](https://dev.to/ajmal_hasan/how-to-dynamically-apply-colors-to-svgs-in-react-native-1ha0)
-- [Exploring Quantum Computing: The Next Frontier in Technology &lpar;2025&rpar;](https://dev.to/s3cloudhub/exploring-quantum-computing-the-next-frontier-in-technology-2025-gng)
-- [Deploying Rails 8 Applications: A Complete Guide with Docker, Kamal, and Cloudflare](https://dev.to/sulmanweb/deploying-rails-8-applications-a-complete-guide-with-docker-kamal-and-cloudflare-3k)
+- [Implementing passwordless sign-in flow with text messages in Cognito](https://dev.to/aws-builders/implementing-passwordless-sign-in-flow-with-text-messages-in-cognito-680)
+- [How Freelance Developers Can Save on Software and Tools](https://dev.to/khushar_waseem_60619574b9/how-freelance-developers-can-save-on-software-and-tools-5fjf)
+- [Embracing Automation: The Key to Revolutionizing Software Testing](https://dev.to/vaibhavkuls/embracing-automation-the-key-to-revolutionizing-software-testing-48ib)
+- [Balancing AI &amp; Fundamentals in Modern Software Engineering : A 2024 Career Talk](https://dev.to/foyzulkarim/balancing-ai-fundamentals-in-modern-software-engineering-a-2024-career-talk-47j3)
+- [How to Design a Birdhouse Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-birdhouse-using-3d-cad-software-6ha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
