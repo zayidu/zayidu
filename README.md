@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SDK vs Runtime](https://dev.to/sanjar777/sdk-vs-runtime-5292)
-- [Docker for PHP begginers as simple as possible](https://dev.to/sirzarganwar/docker-for-php-begginers-as-simple-as-possible-4ehj)
-- [.NET 9 Revolutionizing documentation of APIs : From Swashbuckle to Scalar](https://dev.to/zandiarash/net-9-revolutionizing-documentation-of-apis-from-swashbuckle-to-scalar-527)
-- [DEV Community: Best Dev Stacks to Learn in 2025](https://dev.to/encodedots/dev-community-best-dev-stacks-to-learn-in-2025-3b8i)
-- [Test Scenario Vs Test Case](https://dev.to/nozibul_islam_113b1d5334f/test-scenario-vs-test-case-de8)
+- [Distributed Monolith: Why Are You Destroying My Life?](https://dev.to/dminatto/distributed-monolith-why-are-you-destroying-my-life-5hj5)
+- [Education Technology Trends That Will Impact Your Business In 2025](https://dev.to/techdogs_inc/education-technology-trends-that-will-impact-your-business-in-2025-598k)
+- [You can open a startup in open-source and quit your daily job 🤑](https://dev.to/nevodavid/you-can-open-a-startup-in-open-source-and-quit-your-daily-job-3ld5)
+- [How to Use AJAX in TYPO3 with TypoScript and Extbase](https://dev.to/sanjaychauhan/how-to-use-ajax-in-typo3-with-typoscript-and-extbase-2kmc)
+- [The Role of Awareness in Mental Health Care](https://dev.to/prettysoul2025/the-role-of-awareness-in-mental-health-care-k63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
