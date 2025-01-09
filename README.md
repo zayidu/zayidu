@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nextjs 15](https://dev.to/seyma/nextjs-15-47db)
-- [Paypal honey browser extension&#39;s coupon scam](https://dev.to/opdev1004/paypal-honey-browser-extensions-coupon-scam-24lg)
-- [Introduction to Flutter: Revolutionizing Cross-Platform App Development](https://dev.to/bkthemes/introduction-to-flutter-revolutionizing-cross-platform-app-development-4n9d)
-- [React js Portfolio](https://dev.to/seyma/-551j)
-- [Java Foundation](https://dev.to/gdpp/java-foundation-5gma)
+- [JavaScript Deep Dive: Understanding Operators](https://dev.to/gurjeetsinghvirdee/javascript-deep-dive-understanding-operators-564o)
+- [Tyler Durden: The Alpha and Omega of Cinematic Nihilism](https://dev.to/triple7/tyler-durden-the-alpha-and-omega-of-cinematic-nihilism-1lgd)
+- [Building a Solana Wallet Backend with .NET &lpar;Part 1&rpar;](https://dev.to/ilucky_israel/building-a-solana-wallet-backend-with-net-part-1-388o)
+- [Pyramid Of Pain](https://dev.to/aj_0/pyramid-of-pain-28d)
+- [Hey guys, just wrote this blog post for K8s folks. You might want to check it out! 😝](https://dev.to/coderoflagos/hey-guys-just-wrote-this-blog-post-for-k8s-folks-you-might-want-to-check-it-out-1j70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
