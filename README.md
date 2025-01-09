@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mortal Enemy of Done is Perfect](https://dev.to/linkbenjamin/the-mortal-enemy-of-done-is-perfect-5dp9)
-- [Can not find module error](https://dev.to/mutaboba_elois_18060c2088/can-not-find-module-error-3nkk)
-- [.NET versiyalari haqida](https://dev.to/munisa_kuranbekova_078e1e/net-versiyalari-haqida-43ae)
-- [88/365 | ¥10M Job Challenge - Eat well and get enough sleep](https://dev.to/kameken100/88365-y10m-job-challenge-eat-well-and-get-enough-sleep-5fkc)
-- [[Boost]](https://dev.to/salembinsawad/-340b)
+- [Google’s Quantum Leap: Everything About the Breakthrough Willow Chip](https://dev.to/empiree/googles-quantum-leap-everything-about-the-breakthrough-willow-chip-4i08)
+- [How I Built &amp; Deployed a Real-time Polling App in 30 Minutes](https://dev.to/sunithvs-com/how-i-built-deployed-a-real-time-polling-app-in-30-minutes-54a9)
+- [AIOps, DevOps, MLOps, LLMOps – What’s the Difference?](https://dev.to/kitops/aiops-devops-mlops-llmops-whats-the-difference-45mf)
+- [Build a To-Do App in Python with Dash plotly &lpar;No JavaScript Needed!&rpar;](https://dev.to/spw/build-a-to-do-app-in-python-with-dash-no-javascript-needed-3gfb)
+- [SSO Gone Wrong: Insights from a Real Breach](https://dev.to/mshidlov/sso-gone-wrong-insights-from-a-real-breach-g3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
