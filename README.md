@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET tarixi haqida qisqacha](https://dev.to/munisa_kuranbekova_078e1e/net-tarixi-haqida-qisqacha-2f2)
-- [&quot;Unlocking Quantum Potential: The Purcell Effect in Photon-Magnon Systems&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-potential-the-purcell-effect-in-photon-magnon-systems-5cba)
-- [How to Write Simple API Documentation for an Endpoint](https://dev.to/msnmongare/how-to-write-simple-api-documentation-for-an-endpoint-1e90)
-- [Just think how many people you see on google maps are dead now...](https://dev.to/shafayeat/just-think-how-many-people-you-see-on-google-maps-are-dead-now-5h65)
-- [Simplifying PostgreSQL User Management: Two Methods](https://dev.to/dbvismarketing/simplifying-postgresql-user-management-two-methods-2p2h)
+- [Web Accessibility: Who&#39;s it for?](https://dev.to/gloriakaduru/web-accessibility-whos-it-for-3889)
+- [Remember, It&#39;s Never Too Late to Change Focus or Direction! 🎯](https://dev.to/respect17/remember-its-never-too-late-to-change-focus-or-direction-1blf)
+- [.NET versiyalari.](https://dev.to/_e7530225be583f1/net-versiyalari-19ie)
+- [Breakthrough Method Slashes Data Transfer Costs in Serverless Computing by 90%](https://dev.to/mikeyoung44/breakthrough-method-slashes-data-transfer-costs-in-serverless-computing-by-90-104o)
+- [Python Key-Value Store Tutorial - Build, Encrypt, and Optimize Your Data Storage](https://dev.to/devasservice/python-key-value-store-tutorial-build-encrypt-and-optimize-your-data-storage-62f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
