@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Seamless Interactive Video Animations with the Interactive Video Player &lpar;JavaScript&rpar;](https://dev.to/fix2015/create-seamless-interactive-video-animations-with-the-interactive-video-player-javascript-h7n)
-- [1Password in Rails with Dotenv](https://dev.to/elfeo/1password-in-rails-with-dotenv-5436)
-- [The Best Embedding Models for Information Retrieval in 2025](https://dev.to/datastax/the-best-embedding-models-for-information-retrieval-in-2025-3dp5)
-- [TECHNICAL DEBT: BE REALISTIC!! YOU CAN NOT AVOID IT.](https://dev.to/hoshdev/technical-debt-be-realistic-you-can-not-avoid-it-2b0o)
-- [How Do You Use Encapsulation with Micronaut Annotations?](https://dev.to/madzimai/how-do-you-use-encapsulation-with-micronaut-annotations-2dj7)
+- [Dev/prod parity — Spring Boot Testcontainers](https://dev.to/youneszn/devprod-parity-spring-boot-testcontainers-16je)
+- [☸️ Kubernetes Architecture Deep Dive: Understanding the Control Plane and Worker Nodes](https://dev.to/favxlaw/kubernetes-architecture-deep-dive-understanding-the-control-plane-and-worker-nodes-2p5o)
+- [10 JavaScript Snippets That Will Save You Hours of Coding](https://dev.to/scriptbinary/10-javascript-snippets-that-will-save-you-hours-of-coding-4g3e)
+- [Enabling Decorators for Lambda Functions with CDK in an Nx Monorepo](https://dev.to/jochenf/enabling-decorators-for-lambda-functions-with-cdk-in-an-nx-monorepo-5h1)
+- [&quot;Revolutionizing Web Design: My AI-Powered Journey with GitHub Copilot&quot;](https://dev.to/ramya_yarra_7/revolutionizing-web-design-my-ai-powered-journey-with-github-copilot-15fg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
