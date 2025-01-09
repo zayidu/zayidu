@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Distributed Monolith: Why Are You Destroying My Life?](https://dev.to/dminatto/distributed-monolith-why-are-you-destroying-my-life-5hj5)
-- [Education Technology Trends That Will Impact Your Business In 2025](https://dev.to/techdogs_inc/education-technology-trends-that-will-impact-your-business-in-2025-598k)
-- [You can open a startup in open-source and quit your daily job 🤑](https://dev.to/nevodavid/you-can-open-a-startup-in-open-source-and-quit-your-daily-job-3ld5)
-- [How to Use AJAX in TYPO3 with TypoScript and Extbase](https://dev.to/sanjaychauhan/how-to-use-ajax-in-typo3-with-typoscript-and-extbase-2kmc)
-- [The Role of Awareness in Mental Health Care](https://dev.to/prettysoul2025/the-role-of-awareness-in-mental-health-care-k63)
+- [5 Best Practices for Multi-Cluster Kubernetes Add-on Management](https://dev.to/simone_morellato/5-best-practices-for-multi-cluster-kubernetes-add-on-management-57p6)
+- [Streamlit Part 10: Page Navigation Simplified](https://dev.to/jamesbmour/streamlit-part-10-page-navigation-simplified-55k6)
+- [ERC-4337 in 2024 Review, OpenZK’s L2 Launch, Arcana’s Chain Abstraction SDK, and Rethinking Blockchain Modularity in 2025](https://dev.to/alexandradev/erc-4337-in-2024-review-openzks-l2-launch-arcanas-chain-abstraction-sdk-and-rethinking-16lk)
+- [Forward logs to Cloudwatch for an EC2 instance running a custom Linux AMI](https://dev.to/anoppe/forward-logs-to-cloudwatch-for-an-ec2-instance-running-a-custom-linux-ami-1ak7)
+- [Digesto: A Lightning-Fast Way to Build Backends with YAML](https://dev.to/nicolasleal570/digesto-a-lightning-fast-way-to-build-backends-with-yaml-3bob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
