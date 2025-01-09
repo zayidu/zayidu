@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s Quantum Leap: Everything About the Breakthrough Willow Chip](https://dev.to/empiree/googles-quantum-leap-everything-about-the-breakthrough-willow-chip-4i08)
-- [How I Built &amp; Deployed a Real-time Polling App in 30 Minutes](https://dev.to/sunithvs-com/how-i-built-deployed-a-real-time-polling-app-in-30-minutes-54a9)
-- [AIOps, DevOps, MLOps, LLMOps – What’s the Difference?](https://dev.to/kitops/aiops-devops-mlops-llmops-whats-the-difference-45mf)
-- [Build a To-Do App in Python with Dash plotly &lpar;No JavaScript Needed!&rpar;](https://dev.to/spw/build-a-to-do-app-in-python-with-dash-no-javascript-needed-3gfb)
-- [SSO Gone Wrong: Insights from a Real Breach](https://dev.to/mshidlov/sso-gone-wrong-insights-from-a-real-breach-g3)
+- [How to Use AI for Big Data Analysis](https://dev.to/danyaleyman/how-to-use-ai-for-big-data-analysis-24i3)
+- [Maintainability Is All You Need](https://dev.to/goodylili/maintainability-is-all-you-need-4594)
+- [Authentication System Using NodeJS](https://dev.to/kashishgupta/authentication-system-using-nodejs-23e)
+- [Enhancing your web app&#39;s search with OctoPalm.js—a lightweight JavaScript library offering real-time, customizable search functionality. Features include animated results, emoji support, and cross-browser compatibility.](https://dev.to/eddiegulay/enhancing-your-web-apps-search-with-octopalmjs-a-lightweight-javascript-library-offering-bk0)
+- [Mastering React Native with TypeScript: From Basics to Brilliance - Part 1](https://dev.to/rushikeshpandit/mastering-react-native-with-typescript-from-basics-to-brilliance-part-1-4a46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
