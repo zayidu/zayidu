@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No-code Solutions for Turning Search Results Into Markdown for LLMs](https://dev.to/nate_serpapi/no-code-solutions-for-turning-search-results-into-markdown-for-llms-2d01)
-- [No-code Solutions for Turning Search Results Into Markdown for LLMs](https://dev.to/nate_serpapi/no-code-solutions-for-turning-search-results-into-markdown-for-llms-4jmb)
-- [Connexion Agenda Externe dans Nemitis](https://dev.to/flo-nemitis/connexion-agenda-externe-dans-nemitis-1n3k)
-- [Build a React login page template](https://dev.to/clerk/build-a-react-login-page-template-3dkg)
-- [Your journey to MAANG: Understanding Arrays](https://dev.to/daviidy/your-journey-to-maang-understanding-arrays-519m)
+- [Unlocking the Power of Open Source: Join Me on My Journey!**](https://dev.to/sammyjay1428/unlocking-the-power-of-open-source-join-me-on-my-journey-13c8)
+- [Getting Started with Blockchain: A Guide for Beginners](https://dev.to/ouma_ouma/getting-started-with-blockchain-a-guide-for-beginners-4coi)
+- [**Title: Unlocking the Power of Open Source: Join Me on My Journey!**](https://dev.to/sammyjay1428/title-unlocking-the-power-of-open-source-join-me-on-my-journey-4k4g)
+- [Microcks for dummies](https://dev.to/optnc/microcks-for-dummies-1imn)
+- [ServiceNow UI Builder](https://dev.to/sophiasemga/servicenow-ui-builder-10he)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
