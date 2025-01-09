@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Open Source: Join Me on My Journey!**](https://dev.to/sammyjay1428/unlocking-the-power-of-open-source-join-me-on-my-journey-13c8)
-- [Getting Started with Blockchain: A Guide for Beginners](https://dev.to/ouma_ouma/getting-started-with-blockchain-a-guide-for-beginners-4coi)
-- [**Title: Unlocking the Power of Open Source: Join Me on My Journey!**](https://dev.to/sammyjay1428/title-unlocking-the-power-of-open-source-join-me-on-my-journey-4k4g)
-- [Microcks for dummies](https://dev.to/optnc/microcks-for-dummies-1imn)
-- [ServiceNow UI Builder](https://dev.to/sophiasemga/servicenow-ui-builder-10he)
+- [Why the front-end challenge winner not announced??](https://dev.to/hanzla-baig/why-the-front-end-challenge-winner-not-announced-cio)
+- [AWS Serverless: How to Create and Use a Lambda Layer via the AWS SAM - Part 1](https://dev.to/bhatiagirish/aws-serverless-how-to-create-and-use-a-lambda-layer-via-the-aws-sam-part-1-39la)
+- [Week 1: Statistics](https://dev.to/bravim_purohit_/week-1-statistics-15f7)
+- [Week 1: Statistics](https://dev.to/bravim_purohit_/week-1-statistics-3ioo)
+- [Hackers Love These Common MERN Stack Mistakes: Are You Exposing Your App? 🔐](https://dev.to/joodi/hackers-love-these-common-mern-stack-mistakes-are-you-exposing-your-app-3b36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
