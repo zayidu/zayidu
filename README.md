@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 6: Building APIs with Laravel Sanctum](https://dev.to/ehtesham_ali_abc367f36a5b/day-6-building-apis-with-laravel-sanctum-4l05)
-- [How to Develop an OTT App like Netflix?](https://dev.to/yudizsolutions/how-to-develop-an-ott-app-like-netflix-9mm)
-- [Smart and Modular Validation Toolkit](https://dev.to/jackfd120/smart-and-modular-validation-toolkit-3o6b)
-- [Item 82: Documente a thread safety](https://dev.to/javaefetivo/item-82-documente-a-thread-safety-3jc3)
-- [Deploy Vite React project with React router without 404 on Github pages](https://dev.to/avithe1/deploy-vite-react-project-with-react-router-without-404-on-github-pages-h6p)
+- [Fix Insufficient Logging &amp; Monitoring in Laravel Easily](https://dev.to/pentest_testing_corp/fix-insufficient-logging-monitoring-in-laravel-easily-3lcl)
+- [How to Perform Perfect Margin Carving in 3D CAD Software](https://dev.to/julia970/how-to-perform-perfect-margin-carving-in-3d-cad-software-429j)
+- [How to Dynamically Apply Colors to SVGs in React Native](https://dev.to/ajmal_hasan/how-to-dynamically-apply-colors-to-svgs-in-react-native-1ha0)
+- [Exploring Quantum Computing: The Next Frontier in Technology &lpar;2025&rpar;](https://dev.to/s3cloudhub/exploring-quantum-computing-the-next-frontier-in-technology-2025-gng)
+- [Deploying Rails 8 Applications: A Complete Guide with Docker, Kamal, and Cloudflare](https://dev.to/sulmanweb/deploying-rails-8-applications-a-complete-guide-with-docker-kamal-and-cloudflare-3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
