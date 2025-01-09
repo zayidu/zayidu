@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The OceanGate of Software Development: Coding with Generative AI](https://dev.to/itamartati/the-oceangate-of-software-development-coding-with-generative-ai-346j)
-- [Using git Conditionals to Manage Your Git Identities](https://dev.to/implosion/using-git-conditionals-to-manage-your-git-identities-3664)
-- [UXGamer Labs - Usability Testing of Unreleased Video Games](https://dev.to/itayzuriel/uxgamer-labs-usability-testing-of-unreleased-video-games-2j5b)
-- [Understanding TypeScript and the TS1028 Error: Accessibility Modifier Already Seen](https://dev.to/rivkaavraham/understanding-typescript-and-the-ts1028-error-accessibility-modifier-already-seen-2ge7)
-- [TS1025: An index signature cannot have a trailing comma](https://dev.to/rivkaavraham/ts1025-an-index-signature-cannot-have-a-trailing-comma-50i9)
+- [Day 6: Building APIs with Laravel Sanctum](https://dev.to/ehtesham_ali_abc367f36a5b/day-6-building-apis-with-laravel-sanctum-4l05)
+- [How to Develop an OTT App like Netflix?](https://dev.to/yudizsolutions/how-to-develop-an-ott-app-like-netflix-9mm)
+- [Smart and Modular Validation Toolkit](https://dev.to/jackfd120/smart-and-modular-validation-toolkit-3o6b)
+- [Item 82: Documente a thread safety](https://dev.to/javaefetivo/item-82-documente-a-thread-safety-3jc3)
+- [Deploy Vite React project with React router without 404 on Github pages](https://dev.to/avithe1/deploy-vite-react-project-with-react-router-without-404-on-github-pages-h6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
