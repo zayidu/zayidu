@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing passwordless sign-in flow with text messages in Cognito](https://dev.to/aws-builders/implementing-passwordless-sign-in-flow-with-text-messages-in-cognito-680)
-- [How Freelance Developers Can Save on Software and Tools](https://dev.to/khushar_waseem_60619574b9/how-freelance-developers-can-save-on-software-and-tools-5fjf)
-- [Embracing Automation: The Key to Revolutionizing Software Testing](https://dev.to/vaibhavkuls/embracing-automation-the-key-to-revolutionizing-software-testing-48ib)
-- [Balancing AI &amp; Fundamentals in Modern Software Engineering : A 2024 Career Talk](https://dev.to/foyzulkarim/balancing-ai-fundamentals-in-modern-software-engineering-a-2024-career-talk-47j3)
-- [How to Design a Birdhouse Using 3D CAD Software](https://dev.to/julia970/how-to-design-a-birdhouse-using-3d-cad-software-6ha)
+- [.NET tarixi haqida qisqacha](https://dev.to/munisa_kuranbekova_078e1e/net-tarixi-haqida-qisqacha-2f2)
+- [&quot;Unlocking Quantum Potential: The Purcell Effect in Photon-Magnon Systems&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/unlocking-quantum-potential-the-purcell-effect-in-photon-magnon-systems-5cba)
+- [How to Write Simple API Documentation for an Endpoint](https://dev.to/msnmongare/how-to-write-simple-api-documentation-for-an-endpoint-1e90)
+- [Just think how many people you see on google maps are dead now...](https://dev.to/shafayeat/just-think-how-many-people-you-see-on-google-maps-are-dead-now-5h65)
+- [Simplifying PostgreSQL User Management: Two Methods](https://dev.to/dbvismarketing/simplifying-postgresql-user-management-two-methods-2p2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
