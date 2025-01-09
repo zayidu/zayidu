@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents: The Future of Intelligent Automation](https://dev.to/abhinav11234/ai-agents-the-future-of-intelligent-automation-4ge1)
-- [Indicator to do better software design](https://dev.to/manoj_kumar_6703aa3643a64/indicator-to-do-better-software-design-4pad)
-- [Building with Twitter Data: A Developer&#39;s Guide to Cost-Effective Solutions](https://dev.to/kaito2046/building-with-twitter-data-a-developers-guide-to-cost-effective-solutions-4cmh)
-- [🚀 Supercharge Your PHP Projects with FileSizeHandler: A Flexible and Extensible File Size Utility](https://dev.to/nassiry/supercharge-your-php-projects-with-filesizehandler-a-flexible-and-extensible-file-size-utility-3nn9)
-- [Fixing Docker&#39;s Malware Warning on Mac OS Sequoia](https://dev.to/oler/fixing-dockers-malware-warning-on-mac-os-sequoia-4fl4)
+- [Create Seamless Interactive Video Animations with the Interactive Video Player &lpar;JavaScript&rpar;](https://dev.to/fix2015/create-seamless-interactive-video-animations-with-the-interactive-video-player-javascript-h7n)
+- [1Password in Rails with Dotenv](https://dev.to/elfeo/1password-in-rails-with-dotenv-5436)
+- [The Best Embedding Models for Information Retrieval in 2025](https://dev.to/datastax/the-best-embedding-models-for-information-retrieval-in-2025-3dp5)
+- [TECHNICAL DEBT: BE REALISTIC!! YOU CAN NOT AVOID IT.](https://dev.to/hoshdev/technical-debt-be-realistic-you-can-not-avoid-it-2b0o)
+- [How Do You Use Encapsulation with Micronaut Annotations?](https://dev.to/madzimai/how-do-you-use-encapsulation-with-micronaut-annotations-2dj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
