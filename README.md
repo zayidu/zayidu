@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Accessibility: Who&#39;s it for?](https://dev.to/gloriakaduru/web-accessibility-whos-it-for-3889)
-- [Remember, It&#39;s Never Too Late to Change Focus or Direction! 🎯](https://dev.to/respect17/remember-its-never-too-late-to-change-focus-or-direction-1blf)
-- [.NET versiyalari.](https://dev.to/_e7530225be583f1/net-versiyalari-19ie)
-- [Breakthrough Method Slashes Data Transfer Costs in Serverless Computing by 90%](https://dev.to/mikeyoung44/breakthrough-method-slashes-data-transfer-costs-in-serverless-computing-by-90-104o)
-- [Python Key-Value Store Tutorial - Build, Encrypt, and Optimize Your Data Storage](https://dev.to/devasservice/python-key-value-store-tutorial-build-encrypt-and-optimize-your-data-storage-62f)
+- [SDK vs Runtime](https://dev.to/sanjar777/sdk-vs-runtime-5292)
+- [Docker for PHP begginers as simple as possible](https://dev.to/sirzarganwar/docker-for-php-begginers-as-simple-as-possible-4ehj)
+- [.NET 9 Revolutionizing documentation of APIs : From Swashbuckle to Scalar](https://dev.to/zandiarash/net-9-revolutionizing-documentation-of-apis-from-swashbuckle-to-scalar-527)
+- [DEV Community: Best Dev Stacks to Learn in 2025](https://dev.to/encodedots/dev-community-best-dev-stacks-to-learn-in-2025-3b8i)
+- [Test Scenario Vs Test Case](https://dev.to/nozibul_islam_113b1d5334f/test-scenario-vs-test-case-de8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
