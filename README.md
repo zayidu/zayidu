@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use AI for Big Data Analysis](https://dev.to/danyaleyman/how-to-use-ai-for-big-data-analysis-24i3)
-- [Maintainability Is All You Need](https://dev.to/goodylili/maintainability-is-all-you-need-4594)
-- [Authentication System Using NodeJS](https://dev.to/kashishgupta/authentication-system-using-nodejs-23e)
-- [Enhancing your web app&#39;s search with OctoPalm.js—a lightweight JavaScript library offering real-time, customizable search functionality. Features include animated results, emoji support, and cross-browser compatibility.](https://dev.to/eddiegulay/enhancing-your-web-apps-search-with-octopalmjs-a-lightweight-javascript-library-offering-bk0)
-- [Mastering React Native with TypeScript: From Basics to Brilliance - Part 1](https://dev.to/rushikeshpandit/mastering-react-native-with-typescript-from-basics-to-brilliance-part-1-4a46)
+- [AWS Advanced: The Quota Monitor Review](https://dev.to/aws-builders/aws-advanced-improving-the-quota-monitor-3e6l)
+- [Congrats to the Frontend Challenge: December Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-december-edition-winners-2ei9)
+- [Automating Unity Builds with GitHub Actions](https://dev.to/virtualmaker/automating-unity-builds-with-github-actions-1inf)
+- [As a Backend Developer - My 2025 Roadmap.](https://dev.to/okayiy/as-a-backend-developer-my-2025-roadmap-1k01)
+- [🏗️ Provision AWS EC2 Instances with Terraform and Set Up Docker via User Data](https://dev.to/sharker3312/provision-aws-ec2-instances-with-terraform-and-set-up-docker-via-user-data-2ik7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
