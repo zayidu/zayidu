@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the front-end challenge winner not announced??](https://dev.to/hanzla-baig/why-the-front-end-challenge-winner-not-announced-cio)
-- [AWS Serverless: How to Create and Use a Lambda Layer via the AWS SAM - Part 1](https://dev.to/bhatiagirish/aws-serverless-how-to-create-and-use-a-lambda-layer-via-the-aws-sam-part-1-39la)
-- [Week 1: Statistics](https://dev.to/bravim_purohit_/week-1-statistics-15f7)
-- [Week 1: Statistics](https://dev.to/bravim_purohit_/week-1-statistics-3ioo)
-- [Hackers Love These Common MERN Stack Mistakes: Are You Exposing Your App? 🔐](https://dev.to/joodi/hackers-love-these-common-mern-stack-mistakes-are-you-exposing-your-app-3b36)
+- [The OceanGate of Software Development: Coding with Generative AI](https://dev.to/itamartati/the-oceangate-of-software-development-coding-with-generative-ai-346j)
+- [Using git Conditionals to Manage Your Git Identities](https://dev.to/implosion/using-git-conditionals-to-manage-your-git-identities-3664)
+- [UXGamer Labs - Usability Testing of Unreleased Video Games](https://dev.to/itayzuriel/uxgamer-labs-usability-testing-of-unreleased-video-games-2j5b)
+- [Understanding TypeScript and the TS1028 Error: Accessibility Modifier Already Seen](https://dev.to/rivkaavraham/understanding-typescript-and-the-ts1028-error-accessibility-modifier-already-seen-2ge7)
+- [TS1025: An index signature cannot have a trailing comma](https://dev.to/rivkaavraham/ts1025-an-index-signature-cannot-have-a-trailing-comma-50i9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
