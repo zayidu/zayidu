@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Use cases for Turbo&#39;s Custom Events](https://dev.to/railsdesigner/use-cases-for-turbos-custom-events-6gp)
-- [Building a Professional Game Loop in TypeScript: From Basic to Advanced Implementation](https://dev.to/stormsidali2001/building-a-professional-game-loop-in-typescript-from-basic-to-advanced-implementation-eo8)
-- [🔀 Merging Strategies: Handling Conflicts Like a Pro 🔃](https://dev.to/aws-builders/merging-strategies-handling-conflicts-like-a-pro-4d0h)
-- [Engage Users Instantly: Embed an Interactive Demo in your React SPA](https://dev.to/nick_van_dyke/engage-users-instantly-embed-an-interactive-demo-in-your-react-spa-2cf1)
-- [Align the Button Text in .NET MAUI](https://dev.to/vhugogarcia/align-the-button-text-in-net-maui-1900)
+- [Nextjs 15](https://dev.to/seyma/nextjs-15-47db)
+- [Paypal honey browser extension&#39;s coupon scam](https://dev.to/opdev1004/paypal-honey-browser-extensions-coupon-scam-24lg)
+- [Introduction to Flutter: Revolutionizing Cross-Platform App Development](https://dev.to/bkthemes/introduction-to-flutter-revolutionizing-cross-platform-app-development-4n9d)
+- [React js Portfolio](https://dev.to/seyma/-551j)
+- [Java Foundation](https://dev.to/gdpp/java-foundation-5gma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
