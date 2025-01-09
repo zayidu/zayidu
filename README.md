@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Deep Dive: Understanding Operators](https://dev.to/gurjeetsinghvirdee/javascript-deep-dive-understanding-operators-564o)
-- [Tyler Durden: The Alpha and Omega of Cinematic Nihilism](https://dev.to/triple7/tyler-durden-the-alpha-and-omega-of-cinematic-nihilism-1lgd)
-- [Building a Solana Wallet Backend with .NET &lpar;Part 1&rpar;](https://dev.to/ilucky_israel/building-a-solana-wallet-backend-with-net-part-1-388o)
-- [Pyramid Of Pain](https://dev.to/aj_0/pyramid-of-pain-28d)
-- [Hey guys, just wrote this blog post for K8s folks. You might want to check it out! 😝](https://dev.to/coderoflagos/hey-guys-just-wrote-this-blog-post-for-k8s-folks-you-might-want-to-check-it-out-1j70)
+- [The Complete Guide to Bash Commands](https://dev.to/nolunchbreaks_22/the-complete-guide-to-bash-commands-42je)
+- [Web3: Fantastic SDAPPS and Where to Find Them!](https://dev.to/toorion/web3-fantastic-sdapps-and-where-to-find-them-2g5i)
+- [becoming an AI-solopreneur with zero coding/business experience](https://dev.to/pianolabs/becoming-an-ai-solopreneur-with-zero-codingbusiness-experience-1klh)
+- [Shared form with config files in NextJs](https://dev.to/zerk4/shared-form-with-config-files-in-nextjs-5ehc)
+- [Form Validation in Remix with Zod 🔐](https://dev.to/rgolawski/form-validation-in-remix-with-zod-3aik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
