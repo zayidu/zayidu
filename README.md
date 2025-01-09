@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev/prod parity — Spring Boot Testcontainers](https://dev.to/youneszn/devprod-parity-spring-boot-testcontainers-16je)
-- [☸️ Kubernetes Architecture Deep Dive: Understanding the Control Plane and Worker Nodes](https://dev.to/favxlaw/kubernetes-architecture-deep-dive-understanding-the-control-plane-and-worker-nodes-2p5o)
-- [10 JavaScript Snippets That Will Save You Hours of Coding](https://dev.to/scriptbinary/10-javascript-snippets-that-will-save-you-hours-of-coding-4g3e)
-- [Enabling Decorators for Lambda Functions with CDK in an Nx Monorepo](https://dev.to/jochenf/enabling-decorators-for-lambda-functions-with-cdk-in-an-nx-monorepo-5h1)
-- [&quot;Revolutionizing Web Design: My AI-Powered Journey with GitHub Copilot&quot;](https://dev.to/ramya_yarra_7/revolutionizing-web-design-my-ai-powered-journey-with-github-copilot-15fg)
+- [Use cases for Turbo&#39;s Custom Events](https://dev.to/railsdesigner/use-cases-for-turbos-custom-events-6gp)
+- [Building a Professional Game Loop in TypeScript: From Basic to Advanced Implementation](https://dev.to/stormsidali2001/building-a-professional-game-loop-in-typescript-from-basic-to-advanced-implementation-eo8)
+- [🔀 Merging Strategies: Handling Conflicts Like a Pro 🔃](https://dev.to/aws-builders/merging-strategies-handling-conflicts-like-a-pro-4d0h)
+- [Engage Users Instantly: Embed an Interactive Demo in your React SPA](https://dev.to/nick_van_dyke/engage-users-instantly-embed-an-interactive-demo-in-your-react-spa-2cf1)
+- [Align the Button Text in .NET MAUI](https://dev.to/vhugogarcia/align-the-button-text-in-net-maui-1900)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
