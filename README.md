@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built the ULTIMATE Educational Website from Scratch — Day 3](https://dev.to/who_tf_cares/i-built-the-ultimate-educational-website-from-scratch-day-3-4elf)
-- [Morphing Geometric Shapes with SDF in GLSL Fragment Shaders and Visualization in Jetpack Compose](https://dev.to/den4ic/morphing-geometric-shapes-with-sdf-in-glsl-fragment-shaders-and-visualization-in-jetpack-compose-5db8)
-- [Crypto is Booming in China as Asia Leads with 60% of Global Users](https://dev.to/future_crypto/crypto-is-booming-in-china-as-asia-leads-with-60-of-global-users-43dh)
-- [Seizing Rare Opportunities: The Importance of Foresight in Lü Buwei&#39;s Story and Bitcoin &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/seizing-rare-opportunities-the-importance-of-foresight-in-lu-buweis-story-and-bitcoin-bite-size-5d7i)
-- [Building a Simple Conversational Chatbot LLM Application with LangChain](https://dev.to/sreeni5018/building-a-simple-conversational-chatbot-llm-application-with-langchain-4f8h)
+- [Designing the solution in product management](https://dev.to/wdp/designing-the-solution-in-product-management-38i2)
+- [Cyber skill chain](https://dev.to/aj_0/cyber-skill-chain-3h6f)
+- [CKA Quick Check Points -- RBAC](https://dev.to/cheedge_lee/cka-quick-check-points-rbac-4ikj)
+- [Small Steps, Big Goals: My Journey to 2025](https://dev.to/dcastrocordero22/small-steps-big-goals-my-journey-to-2025-2ncc)
+- [Devise not accepting JSON Token](https://dev.to/mustdos_8633a06b63abc48e3/devise-not-accepting-json-token-j82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
