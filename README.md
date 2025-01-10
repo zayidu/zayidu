@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s Quantum Leap: Everything About the Breakthrough Willow Chip](https://dev.to/empiree/googles-quantum-leap-everything-about-the-breakthrough-willow-chip-53h7)
-- [Getting Started With Cerbos](https://dev.to/ziizium/getting-started-with-cerbos-nn)
-- [🗃️ Resource Routes in React Router v7](https://dev.to/rgolawski/resource-routes-in-react-router-v7-l2)
-- [10 Open Source Projects Every Developer Needs to Bookmark 📚👨‍💻](https://dev.to/itanand_/10-open-source-projects-every-developer-needs-to-bookmark-14lg)
-- [Exploring the Future of AI: Top AI News Stories You Need to Know](https://dev.to/yukifuji/exploring-the-future-of-ai-top-ai-news-stories-you-need-to-know-55m6)
+- [How to Host a Project on Firebase Hosting](https://dev.to/roton2/how-to-host-a-project-on-firebase-hosting-37dg)
+- [Kadane&#39;s Algorithm: Leetcode 53 Maximum subarray](https://dev.to/devn913/kadanes-algorithm-leetcode-53-maximum-subarray-17c8)
+- [How To Design Front-end UI Components](https://dev.to/ourai/how-to-design-front-end-ui-components-343o)
+- [How to Host a Project on Vercel Using a GitHub Repository](https://dev.to/roton2/how-to-host-a-project-on-vercel-using-a-github-repository-4aj3)
+- [DBChat: Getting a Toy REPL Going in Golang &lpar;Part 2&rpar;](https://dev.to/shrsv/dbchat-getting-a-toy-repl-going-in-golang-part-2-38md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
