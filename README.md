@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Poor man&#39;s parallel in Bash](https://dev.to/stolzenhain/poor-mans-parallel-in-bash-46e2)
-- [9 Terms Every Frontend Developer Should Know!](https://dev.to/rijultp/9-terms-every-frontend-developer-should-know-58p3)
-- [Asynchronous HTTP Requests in Python with HTTPX and asyncio](https://dev.to/sagnew/asynchronous-http-requests-in-python-with-httpx-and-asyncio-2n19)
-- [Vite vs. Webpack: The JavaScript Bundler Showdown](https://dev.to/lovestaco/vite-vs-webpack-the-javascript-bundler-showdown-3c0b)
-- [Not able to connect to PostgreSQL server on Fedora](https://dev.to/remoteconn7891/not-able-to-connect-to-postgresql-server-on-fedora-f62)
+- [Full Stack in a Container: NodeJS, NextJS, and MongoDB with Docker](https://dev.to/fahim_hasnainfahad_7e50d/full-stack-in-a-container-nodejs-nextjs-and-mongodb-with-docker-k50)
+- [My Ultimate Toolkit - 10 AI Tools That Boost Productivity](https://dev.to/andrewbaisden/my-ultimate-toolkit-10-ai-tools-that-boost-productivity-3paj)
+- [Setting Up an NGINX Reverse Proxy with a Node.js Cluster Using Docker](https://dev.to/yash_patil16/setting-up-an-nginx-reverse-proxy-with-a-nodejs-cluster-using-docker-4bln)
+- [Building and Deploying a New API &lpar;Part 3&rpar;](https://dev.to/m_dango/building-and-deploying-a-new-api-part-3-5blm)
+- [AI-First Organization](https://dev.to/razbakov/ai-first-organization-2cf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
