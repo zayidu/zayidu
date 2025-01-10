@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Full Stack in a Container: NodeJS, NextJS, and MongoDB with Docker](https://dev.to/fahim_hasnainfahad_7e50d/full-stack-in-a-container-nodejs-nextjs-and-mongodb-with-docker-k50)
-- [My Ultimate Toolkit - 10 AI Tools That Boost Productivity](https://dev.to/andrewbaisden/my-ultimate-toolkit-10-ai-tools-that-boost-productivity-3paj)
-- [Setting Up an NGINX Reverse Proxy with a Node.js Cluster Using Docker](https://dev.to/yash_patil16/setting-up-an-nginx-reverse-proxy-with-a-nodejs-cluster-using-docker-4bln)
-- [Building and Deploying a New API &lpar;Part 3&rpar;](https://dev.to/m_dango/building-and-deploying-a-new-api-part-3-5blm)
-- [AI-First Organization](https://dev.to/razbakov/ai-first-organization-2cf7)
+- [I Built the ULTIMATE Educational Website from Scratch — Day 3](https://dev.to/who_tf_cares/i-built-the-ultimate-educational-website-from-scratch-day-3-4elf)
+- [Morphing Geometric Shapes with SDF in GLSL Fragment Shaders and Visualization in Jetpack Compose](https://dev.to/den4ic/morphing-geometric-shapes-with-sdf-in-glsl-fragment-shaders-and-visualization-in-jetpack-compose-5db8)
+- [Crypto is Booming in China as Asia Leads with 60% of Global Users](https://dev.to/future_crypto/crypto-is-booming-in-china-as-asia-leads-with-60-of-global-users-43dh)
+- [Seizing Rare Opportunities: The Importance of Foresight in Lü Buwei&#39;s Story and Bitcoin &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/seizing-rare-opportunities-the-importance-of-foresight-in-lu-buweis-story-and-bitcoin-bite-size-5d7i)
+- [Building a Simple Conversational Chatbot LLM Application with LangChain](https://dev.to/sreeni5018/building-a-simple-conversational-chatbot-llm-application-with-langchain-4f8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
