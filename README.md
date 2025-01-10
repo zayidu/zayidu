@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Node.js – A Beginner&#39;s Guide](https://dev.to/keploy/exploring-nodejs-a-beginners-guide-h2p)
-- [pg_auto_embeddings — text embeddings directly in Postgres, without extensions](https://dev.to/elkornacio/pgautoembeddings-text-embeddings-directly-in-postgres-without-extensions-fbd)
-- [MDM Cloud Migration Architecture: The Future of Data Management](https://dev.to/hana_sato/mdm-cloud-migration-architecture-the-future-of-data-management-53el)
-- [CodeIgniter Monitoring Library – Born from Understanding Real Developer Needs](https://dev.to/inspector/codeigniter-monitoring-library-born-from-understanding-real-developer-needs-2d53)
-- [10 Free Tools Every Junior Developer Should Use](https://dev.to/andylarkin677/10-free-tools-every-junior-developer-should-use-4hio)
+- [&lpar;Trying to&rpar; take notes from the lock screen](https://dev.to/tkuenneth/trying-to-take-notes-from-the-lock-screen-4h95)
+- [Nguyên lý High Cohesion trong GRASP Pattern](https://dev.to/hcmute_project_988df1c63c/nguyen-ly-high-cohesion-trong-grasp-pattern-2cko)
+- [Unexpected Transformations: A Year of Growth Through Adversity](https://dev.to/ksolomon/unexpected-transformations-a-year-of-growth-through-adversity-500d)
+- [Find logged Microsoft SQL Server Messages](https://dev.to/flnzba/find-logged-microsoft-sql-server-messages-1mj2)
+- [Generative AI in a Nutshell](https://dev.to/bitontree/generative-ai-in-a-nutshell-1io6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
