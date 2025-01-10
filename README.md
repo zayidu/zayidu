@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to Bash Commands](https://dev.to/nolunchbreaks_22/the-complete-guide-to-bash-commands-42je)
-- [Web3: Fantastic SDAPPS and Where to Find Them!](https://dev.to/toorion/web3-fantastic-sdapps-and-where-to-find-them-2g5i)
-- [becoming an AI-solopreneur with zero coding/business experience](https://dev.to/pianolabs/becoming-an-ai-solopreneur-with-zero-codingbusiness-experience-1klh)
-- [Shared form with config files in NextJs](https://dev.to/zerk4/shared-form-with-config-files-in-nextjs-5ehc)
-- [Form Validation in Remix with Zod 🔐](https://dev.to/rgolawski/form-validation-in-remix-with-zod-3aik)
+- [Cryptocurrency Notifications System Alert](https://dev.to/mayhrem/cryptocurrency-notifications-system-alert-1lnh)
+- [How DDBuildingTech Transformed Decision-Making with Arthurite Integrated’s AWS Analytics Solution](https://dev.to/muhtoyyib/how-ddbuildingtech-transformed-decision-making-with-arthurite-integrateds-aws-analytics-solution-847)
+- [Why Every Business Needs a Website in Today’s Digital Age](https://dev.to/nexgen_infosoft/why-every-business-needs-a-website-in-todays-digital-age-5cka)
+- [&quot;Boosting Multi-Modal RAG Systems: The Power of Relevancy Scoring&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boosting-multi-modal-rag-systems-the-power-of-relevancy-scoring-1m90)
+- [Code Smell 285 - Non-Imperative Functions Names](https://dev.to/mcsee/code-smell-285-non-imperative-functions-names-33no)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
