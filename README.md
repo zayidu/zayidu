@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cryptocurrency Notifications System Alert](https://dev.to/mayhrem/cryptocurrency-notifications-system-alert-1lnh)
-- [How DDBuildingTech Transformed Decision-Making with Arthurite Integrated’s AWS Analytics Solution](https://dev.to/muhtoyyib/how-ddbuildingtech-transformed-decision-making-with-arthurite-integrateds-aws-analytics-solution-847)
-- [Why Every Business Needs a Website in Today’s Digital Age](https://dev.to/nexgen_infosoft/why-every-business-needs-a-website-in-todays-digital-age-5cka)
-- [&quot;Boosting Multi-Modal RAG Systems: The Power of Relevancy Scoring&quot;](https://dev.to/gilles_hamelink_ea9ff7d93/boosting-multi-modal-rag-systems-the-power-of-relevancy-scoring-1m90)
-- [Code Smell 285 - Non-Imperative Functions Names](https://dev.to/mcsee/code-smell-285-non-imperative-functions-names-33no)
+- [The best web crawler tools in 2025](https://dev.to/98ip/the-best-web-crawler-tools-in-2025-331m)
+- [خا](https://dev.to/hamidreza_karbalivand_476/kh-2539)
+- [The Hidden Challenges of Cross-Border E-Commerce and How to Overcome Them](https://dev.to/hana_lee/the-hidden-challenges-of-cross-border-e-commerce-and-how-to-overcome-them-45el)
+- [CSS Gradient Generator 🚀 🌟](https://dev.to/hanzla-baig/css-gradient-generator-3occ)
+- [What if Finding Quality Programming Books &amp; Courses Was Actually Simple? Meet Codelier!](https://dev.to/vivgui/what-if-finding-quality-programming-books-courses-was-actually-simple-meet-codelier-4d64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
