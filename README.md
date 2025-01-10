@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://dev.to/ben/test-5cj6)
-- [5 Fun Copilot Prompts You Can Use Today 🚀](https://dev.to/nikl/5-fun-copilot-prompts-you-can-use-today-5dmb)
-- [OpenAI vs. Open-source: Embedding Model Showdown](https://dev.to/timescale/openai-vs-open-source-embedding-model-showdown-189n)
-- [Reached 5k followers milestone! 🥳](https://dev.to/thesanjeevsharma/reached-5k-followers-milestone-435b)
-- [CKA Quick Check Points -- Network](https://dev.to/cheedge_lee/cka-quick-check-points-network-2gb4)
+- [The AI Evolution in Software Development: Crafting the Future of Innovation](https://dev.to/vaibhavkuls/the-ai-evolution-in-software-development-crafting-the-future-of-innovation-42lb)
+- [Greedy Algorithm With Examples](https://dev.to/shrijanprakash/greedy-algorithm-with-examples-2ioe)
+- [Vonage Dev Newsletter, December 2024: 🎁Thanks for an incredible 2024! Happy Holidays!](https://dev.to/vonagedev/vonage-dev-newsletter-december-2024-thanks-for-an-incredible-2024-happy-holidays-5d8o)
+- [Tech Jobs Radar](https://dev.to/trekhleb/tech-jobs-radar-2nn9)
+- [Next 14 Rate Limiting serverless functions](https://dev.to/hayyaun/next-14-rate-limiting-serverless-functions-3g86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
