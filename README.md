@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Interesting feedback on Fuego!](https://dev.to/ewenquim/interesting-feedback-on-fuego-2ei9)
-- [[Boost]](https://dev.to/ewenquim/-4neb)
-- [Let&#39;s explore why Monad has the potential to be the most significant launch of the year.](https://dev.to/phareseacher/lets-explore-why-monad-has-the-potential-to-be-the-most-significant-launch-of-the-year-1c53)
-- [The Ultimate Guide to Cypress Testing: Features, Best Practices, and More](https://dev.to/hexadecimalsoftware/the-ultimate-guide-to-cypress-testing-features-best-practices-and-more-4m68)
-- [Skip: Build Native iOS and Android Apps with a Single SwiftUI Codebase](https://dev.to/tech_tales_daa8a7eab515b3/skip-build-native-ios-and-android-apps-with-a-single-swiftui-codebase-4p1i)
+- [Exploring Node.js – A Beginner&#39;s Guide](https://dev.to/keploy/exploring-nodejs-a-beginners-guide-h2p)
+- [pg_auto_embeddings — text embeddings directly in Postgres, without extensions](https://dev.to/elkornacio/pgautoembeddings-text-embeddings-directly-in-postgres-without-extensions-fbd)
+- [MDM Cloud Migration Architecture: The Future of Data Management](https://dev.to/hana_sato/mdm-cloud-migration-architecture-the-future-of-data-management-53el)
+- [CodeIgniter Monitoring Library – Born from Understanding Real Developer Needs](https://dev.to/inspector/codeigniter-monitoring-library-born-from-understanding-real-developer-needs-2d53)
+- [10 Free Tools Every Junior Developer Should Use](https://dev.to/andylarkin677/10-free-tools-every-junior-developer-should-use-4hio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
