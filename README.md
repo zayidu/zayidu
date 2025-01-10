@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons from My 2 SaaS Exits 🔑 Fueling My Next Big Exits](https://dev.to/martin_the_m/lessons-from-my-2-saas-exits-fueling-my-next-big-exits-2a8o)
-- [2025: From &#39;Can Someone Help?&#39; to &#39;I’ve Got This!&#39;🤩](https://dev.to/harshit_rwt/2025-from-can-someone-help-to-ive-got-this-p7e)
-- [Revolutionizing Operations with Comprehensive Equipment Management Systems](https://dev.to/seleam/revolutionizing-operations-with-comprehensive-equipment-management-systems-586h)
-- [🔥Top Web Dev Trends to Dominate in 2025 and Beyond 🚀🌐](https://dev.to/bhuwan71/top-web-dev-trends-to-dominate-in-2025-and-beyond-29l8)
-- [Explore the impact of AI , its Future and role of Humans in this post #AI #MachineLearning #EthicalAI #Technology #Innovation #TechNews #FutureOfWork #Programming #ElonMusk #SamAltman #OpenAI #AGI](https://dev.to/abhiiinavsingh/explore-the-impact-of-ai-its-future-and-role-of-humans-in-this-post-ai-machinelearning-1h3l)
+- [Interesting feedback on Fuego!](https://dev.to/ewenquim/interesting-feedback-on-fuego-2ei9)
+- [[Boost]](https://dev.to/ewenquim/-4neb)
+- [Let&#39;s explore why Monad has the potential to be the most significant launch of the year.](https://dev.to/phareseacher/lets-explore-why-monad-has-the-potential-to-be-the-most-significant-launch-of-the-year-1c53)
+- [The Ultimate Guide to Cypress Testing: Features, Best Practices, and More](https://dev.to/hexadecimalsoftware/the-ultimate-guide-to-cypress-testing-features-best-practices-and-more-4m68)
+- [Skip: Build Native iOS and Android Apps with a Single SwiftUI Codebase](https://dev.to/tech_tales_daa8a7eab515b3/skip-build-native-ios-and-android-apps-with-a-single-swiftui-codebase-4p1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
