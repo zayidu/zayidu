@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Daytona_Sample_Project : CareCradle](https://dev.to/rajkumarpaneru18/daytonasampleproject-carecradle-39i3)
-- [How to generate devcontainer.json automatically without using devcontainer.ai](https://dev.to/tryxns/how-to-generate-devcontainerjson-automatically-without-using-devcontainerai-2fd9)
-- [🚨 Common Website Bugs and How to Fix Them: A Developer’s Guide 🛠️](https://dev.to/dct_technologyprivatelimited/common-website-bugs-and-how-to-fix-them-a-developers-guide-934)
-- [How to Fix Git Issues: Committing and Pushing Without Pulling Causes Stuck Branches](https://dev.to/patoliyainfotech/how-to-fix-git-issues-committing-and-pushing-without-pulling-causes-stuck-branches-4lnm)
-- [How to install Jenkins in ubuntu](https://dev.to/bhaktraj/how-to-install-jenkins-in-ubuntu-2735)
+- [Getting Started with Z-turn Board V2: Initial Setup Guide &lpar;Part 1&rpar;](https://dev.to/spencer741/getting-started-with-z-turn-board-v2-initial-setup-guide-part-1-448m)
+- [Amazon SES Setup for Tracking Bounces and Complaints](https://dev.to/smit-vaghasiya/amazon-ses-setup-for-tracking-bounces-and-complaints-50c5)
+- [How to solve this](https://dev.to/quentinmarcus/how-to-solve-this-gop)
+- [How to Handle reCAPTCHA in Web Scraping](https://dev.to/jvicmaina/how-to-handle-recaptcha-in-web-scraping-3aj0)
+- [The Essentials of Web Scraping Libraries and Their Importance](https://dev.to/jvicmaina/the-essentials-of-web-scraping-libraries-and-their-importance-3dip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
