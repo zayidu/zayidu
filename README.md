@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Loco 0.14 on Cathyos: 始め方](https://dev.to/nabbisen/loco-014-on-cathyos-shi-mefang-nch)
-- [Top 10 Front-End Development Technologies to Master](https://dev.to/ram_fb361bc2f8f94e06772e2/top-10-front-end-development-technologies-to-master-3o02)
-- [What Content to Create and How to Publish It, Part 1](https://dev.to/dimanikulin/what-content-to-create-and-how-to-publish-it-part-1-2hcj)
-- [How to Avoid Burnout in Tech &lpar;and Still Get Ahead&rpar;](https://dev.to/kakacomputer-media/how-to-avoid-burnout-in-tech-and-still-get-ahead-124o)
-- [The Legacy of Flappy Bird: Simplicity in Gaming at Its Best Introduction](https://dev.to/estherlindstrom/the-legacy-of-flappy-bird-simplicity-in-gaming-at-its-bestintroduction-12c8)
+- [Lessons from My 2 SaaS Exits 🔑 Fueling My Next Big Exits](https://dev.to/martin_the_m/lessons-from-my-2-saas-exits-fueling-my-next-big-exits-2a8o)
+- [2025: From &#39;Can Someone Help?&#39; to &#39;I’ve Got This!&#39;🤩](https://dev.to/harshit_rwt/2025-from-can-someone-help-to-ive-got-this-p7e)
+- [Revolutionizing Operations with Comprehensive Equipment Management Systems](https://dev.to/seleam/revolutionizing-operations-with-comprehensive-equipment-management-systems-586h)
+- [🔥Top Web Dev Trends to Dominate in 2025 and Beyond 🚀🌐](https://dev.to/bhuwan71/top-web-dev-trends-to-dominate-in-2025-and-beyond-29l8)
+- [Explore the impact of AI , its Future and role of Humans in this post #AI #MachineLearning #EthicalAI #Technology #Innovation #TechNews #FutureOfWork #Programming #ElonMusk #SamAltman #OpenAI #AGI](https://dev.to/abhiiinavsingh/explore-the-impact-of-ai-its-future-and-role-of-humans-in-this-post-ai-machinelearning-1h3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
