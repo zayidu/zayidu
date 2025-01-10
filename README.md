@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-5j6)
-- [The Future of Architecture is Being Built by Robots](https://dev.to/material360/the-future-of-architecture-is-being-built-by-robots-4neb)
-- [TanStack Router: The Future of React Routing in 2025](https://dev.to/rigalpatel001/tanstack-router-the-future-of-react-routing-in-2025-421p)
-- [Unleashing the Power of Next: How You Can Benefit from It](https://dev.to/dhrumitdk/unleashing-the-power-of-next-how-you-can-benefit-from-it-3mk9)
-- [Introduction to Codigger System Keeping](https://dev.to/codigger/introduction-to-codigger-system-keeping-2abd)
+- [Daytona_Sample_Project : CareCradle](https://dev.to/rajkumarpaneru18/daytonasampleproject-carecradle-39i3)
+- [How to generate devcontainer.json automatically without using devcontainer.ai](https://dev.to/tryxns/how-to-generate-devcontainerjson-automatically-without-using-devcontainerai-2fd9)
+- [🚨 Common Website Bugs and How to Fix Them: A Developer’s Guide 🛠️](https://dev.to/dct_technologyprivatelimited/common-website-bugs-and-how-to-fix-them-a-developers-guide-934)
+- [How to Fix Git Issues: Committing and Pushing Without Pulling Causes Stuck Branches](https://dev.to/patoliyainfotech/how-to-fix-git-issues-committing-and-pushing-without-pulling-causes-stuck-branches-4lnm)
+- [How to install Jenkins in ubuntu](https://dev.to/bhaktraj/how-to-install-jenkins-in-ubuntu-2735)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
