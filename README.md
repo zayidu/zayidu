@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Evolution in Software Development: Crafting the Future of Innovation](https://dev.to/vaibhavkuls/the-ai-evolution-in-software-development-crafting-the-future-of-innovation-42lb)
-- [Greedy Algorithm With Examples](https://dev.to/shrijanprakash/greedy-algorithm-with-examples-2ioe)
-- [Vonage Dev Newsletter, December 2024: 🎁Thanks for an incredible 2024! Happy Holidays!](https://dev.to/vonagedev/vonage-dev-newsletter-december-2024-thanks-for-an-incredible-2024-happy-holidays-5d8o)
-- [Tech Jobs Radar](https://dev.to/trekhleb/tech-jobs-radar-2nn9)
-- [Next 14 Rate Limiting serverless functions](https://dev.to/hayyaun/next-14-rate-limiting-serverless-functions-3g86)
+- [Google’s Quantum Leap: Everything About the Breakthrough Willow Chip](https://dev.to/empiree/googles-quantum-leap-everything-about-the-breakthrough-willow-chip-53h7)
+- [Getting Started With Cerbos](https://dev.to/ziizium/getting-started-with-cerbos-nn)
+- [🗃️ Resource Routes in React Router v7](https://dev.to/rgolawski/resource-routes-in-react-router-v7-l2)
+- [10 Open Source Projects Every Developer Needs to Bookmark 📚👨‍💻](https://dev.to/itanand_/10-open-source-projects-every-developer-needs-to-bookmark-14lg)
+- [Exploring the Future of AI: Top AI News Stories You Need to Know](https://dev.to/yukifuji/exploring-the-future-of-ai-top-ai-news-stories-you-need-to-know-55m6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
