@@ -166,11 +166,11 @@ When I'm not coding/running my IDEs, you can catch me exploring the world, doing
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What are the types or formats of questions can I expect in the exam?? &lpar;OCA Java SE 8 Programmer I Certification&rpar;](https://dev.to/devmercy/what-are-the-types-or-formats-of-questions-can-i-expect-in-the-exam-oca-java-se-8-programmer-i-lmf)
-- [This Week In React #216 : Next.js, ViewTransition, RSC, Compiler, React Router, Recoil, Bippy, Docusaurus, A11y...](https://dev.to/sebastienlorber/this-week-in-react-216-nextjs-viewtransition-rsc-compiler-react-router-recoil-bippy-51b0)
-- [New to working on server side development... I designed a nodejs,express mongodb and ejs project when deployed on cpanel im getting error &quot;failed to load resource:the server responded with status 500&quot; when making API calls to third party api](https://dev.to/twain97/new-to-working-on-server-side-development-i-designed-a-nodejsexpress-mongodb-and-ejs-project-16fn)
-- [Tester c&#39;est tricher, compiler c&#39;est douter](https://dev.to/mrvym/tester-cest-tricher-compiler-cest-douter-h59)
-- [Different Ways to Fetch Data from APIs Using `useEffect` in React](https://dev.to/atifwattoo/different-ways-to-fetch-data-from-apis-using-useeffect-in-react-34bh)
+- [Test](https://dev.to/ben/test-5cj6)
+- [5 Fun Copilot Prompts You Can Use Today 🚀](https://dev.to/nikl/5-fun-copilot-prompts-you-can-use-today-5dmb)
+- [OpenAI vs. Open-source: Embedding Model Showdown](https://dev.to/timescale/openai-vs-open-source-embedding-model-showdown-189n)
+- [Reached 5k followers milestone! 🥳](https://dev.to/thesanjeevsharma/reached-5k-followers-milestone-435b)
+- [CKA Quick Check Points -- Network](https://dev.to/cheedge_lee/cka-quick-check-points-network-2gb4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
